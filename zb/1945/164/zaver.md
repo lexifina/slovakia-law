@@ -1,0 +1,1 @@
+Dr. Šoltész v. r.
