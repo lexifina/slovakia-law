@@ -22,6 +22,8 @@
 
 - 10) § 8 ods. 1 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
+- 10a) § 26 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
 - 11) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
 - 12) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
