@@ -1,0 +1,3 @@
+# Článok 21 Učitelia a výskumní pracovníci
+
+Odmena za výučbu alebo vedecký výskum, ktorú poberá fyzická osoba, ktorá je alebo bola bezprostredne pred svojím príchodom do jedného zmluvného štátu rezidentom v druhom zmluvnom štáte a ktorá sa zdržiava v prv spomenutom štáte na účely vedeckého výskumu alebo výučby vo vzdelávacej inštitúcii, bude oslobodená od zdanenia v prv spomenutom štáte. Toto oslobodenie sa poskytne počas obdobia nepresahujúceho dva roky od dátumu prvého príchodu učiteľa alebo výskumného pracovníka do krajiny. Tento článok sa neuplatní na príjmy z výskumu, ak taký výskum sa nevykonáva vo verejnom záujme, ale v prvom rade na súkromný prospech určitej osoby alebo osôb.
