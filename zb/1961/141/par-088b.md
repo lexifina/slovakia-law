@@ -18,7 +18,7 @@
 
 (6) Ak ide o vec, ktorá nestrpí odklad, môže prokurátor, ak použitie agenta nie je spojené so vstupom do bytu iného, príkaz uvedený v odseku 5 dať pred začatím prípravného konania a v prípravnom konaní. Takýto príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
 
-(7) Príkaz podľa odsekov 5 a 6 musí byť písomný a musí byť v ňom určený čas, po ktorý bude agent použitý. Nakladá sa s ním ako s písomnosťou obsahujúcou predmet štátneho tajomstva.
+(7) Príkaz podľa odsekov 5 a 6 musí byť písomný a musí byť v ňom určený čas, po ktorý bude agent použitý. Nakladá sa s ním ako s utajovanou skutočnosťou.
 
 (8) Písomnosti týkajúce sa použitia agenta sa do spisu založia len vtedy, ak prokurátor v obžalobe navrhne vykonanie dôkazu skutočnosťami zistenými agentom.
 
