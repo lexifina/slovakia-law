@@ -14,7 +14,11 @@
 
 - Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 12/1973, ktorým sa vydáva úplné znenie Poriadku pre výkon trestu odňatia slobody v nápravnovýchovných ústavoch (reg. čiastka 2/1974 Zb.), v znení rozkazov č. 11/1975 a č. 4/1976.
 
+- 3a) Zákon Národnej rady Slovenskej republiky č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 4a) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 5) § 63b zákona č. 69/1967 Zb. o národných výboroch v znení neskorších predpisov.
 
