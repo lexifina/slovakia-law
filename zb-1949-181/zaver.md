@@ -1,0 +1,47 @@
+Zápotocký v. r.
+
+Široký v. r.
+
+Fierlinger v. r.
+
+Dr. Ševčík v. r.,
+
+tiež za ministra
+
+Dr. Šrobára
+
+Dr. Dolanský v. r.
+
+Dr. Clementis v. r.
+
+arm. gen. Svoboda v. r.
+
+Dr. Gregor v. r.
+
+Nosek v. r.
+
+Kabeš v. r.
+
+Dr. Nejedlý v. r.
+
+Dr. Čepička v. r.
+
+Kopecký v. r.
+
+Kliment v. r.
+
+Ďuriš v. r.
+
+Krajčír v. r.
+
+Petr v. r.
+
+Dr. Ing. Šlechta v. r.
+
+Dr. Neuman v. r.
+
+Erban v. r.
+
+Plojhar v. r.
+
+Ing. Jankovcová v. r.
