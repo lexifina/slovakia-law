@@ -1,0 +1,1 @@
+- 1) Smernica Európskeho parlamentu a Rady 98/34/ES o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v platnom znení (Úradný vestník Európskych spoločenstiev L 204, 21/07/98).
