@@ -6,7 +6,7 @@
 
 - 6) Zákon č. 230/1992 Zb. o Federálnej železničnej polícii v znení zákona Národnej rady Slovenskej republiky č. 61/1993 Z. z. o zriadení Železničnej polície Slovenskej republiky.
 
-- 7) Zákon č. 618/1992 Zb. Colný zákon v znení zákona Národnej rady Slovenskej republiky č. 165/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z.
+- 7) Zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve v znení zákona č. 422/2002 Z. z.
 
 - 7a) § 4a zákona č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
@@ -17,6 +17,10 @@
 - 8) § 30 zákona č. 435/2000 Z. z.
 
 - 8a) § 21 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 353/1997 Z. z.
+
+- 8aa) § 46 až 51 zákona č. 153/2001 Z. z. o prokuratúre.
+
+- 8ab) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 9) § 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
