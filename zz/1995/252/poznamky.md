@@ -1,0 +1,1 @@
+- *) Prílohy č. 3, 4 a 5 tejto dohody sa v Zbierke zákonov Slovenskej republiky nepublikujú.
