@@ -20,4 +20,6 @@
 
   - 2. poberá iný dôchodok, ktorého jednou z podmienok je invalidita, ale jeho žiadosť o invalidný dôchodok bola zamietnutá z iných dôvodov ako z dôvodov jeho invalidity, ako aj pri súbehu nároku na starobný, invalidný a čiastočný invalidný dôchodok.
 
+- h) predložením dokladov na uplatnenie zvýšenej sumy na čiastočnú úhradu výdavkov spojených s výkonom práce podľa § 6 ods. 12 písm. b).
+
 (2) Doklady uvedené v odseku 1 písm. a), c), d), e) a f) platia trvale, ak ich platnosť nebola časovo obmedzená. Platnosť dokladov uvedených v odseku 1 písm. c) a e) je podmienená tým, že daňovník každoročne predloží najneskôr do 15. februára doklad o výplate dôchodku. Doklady uvedené v odseku 1 písm. b) platia vždy pre školský rok, pre ktorý boli vydané. Doklady platia za predpokladu, že u daňovníka a ním vyživovaných osôb sa nezmenili skutočnosti rozhodujúce pre uznanie nezdaniteľných častí zo základu dane.
