@@ -1,0 +1,1 @@
+- 3. Dovozné clá uplatňované v Českej republike a v Slovenskej republike na výrobky pochádzajúce zo Slovinskej republiky, uvedené v Prílohe C k tomuto protokolu sa znížia bez kvantitatívnych obmedzení alebo v rámci limitov kvót uvedených v tejto prílohe na úroveň stanovenú v tejto prílohe od 1. apríla 1998.
