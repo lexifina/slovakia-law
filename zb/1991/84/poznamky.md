@@ -4,7 +4,11 @@
 
 - Zákon SNR č. 544/1990 Zb. o miestnych poplatkoch.
 
+- 1a) Napr. § 13 zákona SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+
 - 2) Zákon SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+
+- 2a) § 46 zákona SNR č. 194/1990 Zb. o lotériách a iných podobných hrách v znení zákona SNR č. 68/1992 Zb.
 
 - 3) § 9 zákona č. 36/1965 Zb. o dani z príjmov z literárnej a umeleckej činnosti v znení zákona č. 160/1968 Zb.
 
@@ -16,13 +20,23 @@
 
 - 6) § 19 zákona č. 157/1989 Zb. v znení zákona č. 108/1990 Zb.§ 12 a 21 zákona č. 389/1990 Zb.
 
-- 7) § 11 ods. 2 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov.
+- 6a) Napr. zákon SNR č. 127/1991 Zb. o pôsobnosti orgánov Slovenskej republiky v oblasti cien, zákon SNR č. 592/1990 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona SNR č. 574/1991 Zb.
 
 - 8) Vyhláška ministra štátnej kontroly č. 75/1959 Ú. v., ktorou sa vydávajú metodické pokyny pre kontrolnú činnosť.
 
+- 8a) Zákon SNR č. 129/1991 Zb. o komerčných právnikoch.
+
+- 8b) Zákon SNR č. 132/1990 Zb. o advokácii.
+
+- 8c) § 53 ods. 1 písm. b) Zákonníka práce.
+
 - 9) § 89 ods. 8 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
 
+- 9a) Napr. zákon SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+
 - 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 10a) Zákon č. 563/1991 Zb. o účtovníctve.
 
 - 11) Vyhláška Ministerstva financií č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
 
