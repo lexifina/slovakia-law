@@ -1,0 +1,1 @@
+- 1) Vyhláška pozbyla platnosti pro hudebníky z povolání výnosem býv. MŠK ze dne 1. 6. 1960, čj. 20 886/60 E I/2 (reg. v částce č. 15/1962 a ve vyhlášce č. 129/1967 Sb., pol. XII/131).
