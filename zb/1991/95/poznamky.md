@@ -6,4 +6,6 @@
 
 - 2a) § 19 ods. 4 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb.
 
+- 2b) § 6 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. v znení neskorších predpisov.
