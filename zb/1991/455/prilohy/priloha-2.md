@@ -18,7 +18,7 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Montáž, opravy a revízie vyhradených plynových zariadení *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb. vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
+- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb. vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
 
 - Revízie a skúšky vyhradených plynových zariadení *) | Osvedčenie (§ 4 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce;
 
@@ -151,3 +151,5 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 - Pedikúra | osvedčenie vydané vzdelávacím zariadením akreditovaným Ministerstvom školstva a vedy SR
 
 - Inseminácia | Osvedčenie vydané Ministerstvom pôdohospodárstva Slovenskej republiky | § 22 a 25 zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
+
+- Verejné obstarávanie | Preukaz vydá Úrad pre verejné obstarávanie Slovenskej republiky | § 57 a 58 zákona č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov |

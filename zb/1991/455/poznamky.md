@@ -90,8 +90,6 @@
 
 - § 34 a 35 nariadenia vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nariadenia vlády SR č. 232/1990 Zb.
 
-- 23) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení zákona č. 54/1987 Zb.
-
 - 23a) Zákon č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zákona č. 118/1990 Zb.
 
 - 23b) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch.
