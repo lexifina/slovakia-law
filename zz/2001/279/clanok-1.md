@@ -1258,6 +1258,244 @@ Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v zn
 
 - OSOBITNÉ USTANOVENIA PRE FYZICKÉ OSOBY A PRÁVNICKÉ OSOBY ČLENSKÝCH ŠTÁTOV EURÓPSKYCH SPOLOČENSTIEV
 
+- § 66e
+
+- Na fyzickú osobu, ktorá je štátnym príslušníkom členského štátu<sup>41b</sup>) s bydliskom v členskom štáte, a na právnické osoby, ktoré majú sídlo, miesto výkonu alebo hlavnú správu na území členského štátu (ďalej len „osoba spoločenstva“), ustanovenia tohto zákona sa vzťahujú s odchýlkami uvedenými v tejto časti.
+
+- § 66f
+
+- (1)
+
+- Osoba spoločenstva môže prevádzkovať živnosti aj za podmienok, že
+
+- a)
+
+- splnenie všeobecnej podmienky prevádzkovania živnosti podľa § 6 ods. 1 písm. c) preukáže spôsobom podľa odseku 2,
+
+- b)
+
+- odbornú spôsobilosť pre živnosti zaradené v prílohách č. 1 až 3 do zoznamov I až V preukáže náhradným spôsobom podľa odseku 4.
+
+- (2)
+
+- Splnenie všeobecných podmienok prevádzkovania živnosti podľa odseku 1 písm. a) sa preukazuje predložením výpisu z registra trestov, alebo ak sa taký výpis v domovskom členskom štáte alebo v členskom štáte pôvodu fyzickej osoby nevydáva, rovnocennej listiny vydanej príslušným súdnym alebo administratívnym orgánom; ak sa také doklady nevydávajú, čestným vyhlásením vykonaným pred orgánom kompetentným overiť jeho obsah a pravosť podpisu.
+
+- (3)
+
+- Doklady uvedené v odseku 2 nesmú byť pri ich predkladaní staršie ako tri mesiace a musia sa predložiť spolu s úradne overeným prekladom do štátneho jazyka.
+
+- (4)
+
+- Odborná spôsobilosť podľa odseku 1 písm. b) sa preukazuje v rozsahu a spôsobom ustanovenými v § 66g až 66k
+
+- a)
+
+- dokladom o predmete a čase vykonávania samostatnej podnikateľskej činnosti v členskom štáte,
+
+- b)
+
+- dokladom o vykonávaní odbornej činnosti vo vedúcom postavení a čase jej vykonávania v členskom štáte,
+
+- c)
+
+- dokladom o predmete a čase vykonávania nesamostatnej (zamestnaneckej) odbornej činnosti v členskom štáte,
+
+- d)
+
+- dokladom o príslušnom vzdelaní.
+
+- (5)
+
+- Doklady podľa odseku 4 sa musia predložiť spolu s úradne overeným prekladom do štátneho jazyka.
+
+- § 66g
+
+- Odborná spôsobilosť pre živnosti zaradené v zozname I
+
+- (1)
+
+- Odbornú spôsobilosť pre živnosti zaradené v zozname I osoby spoločenstva náhradným spôsobom preukazujú
+
+- a)
+
+- dokladom o nepretržitej šesťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+
+- b)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- c)
+
+- dokladom o nepretržitej štvorročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- d)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
+
+- e)
+
+- dokladom o nepretržitej päťročnej praxi v riadiacej funkcii, z toho aspoň trojročnej praxi s plnením technických úloh a so zodpovednosťou najmenej za jedno oddelenie podniku, a dokladom o absolvovaní najmenej trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- f)
+
+- dokladom o nepretržitej šesťročnej praxi v riadiacej funkcii, z toho aspoň trojročnej praxi s technickými úlohami a so zodpovednosťou najmenej za jedno oddelenie podniku, a dokladom o absolvovaní najmenej dvojročného predchádzajúceho vzdelávania na príslušnú činnosť.
+
+- (2)
+
+- V prípadoch podľa odseku 1 písm. a) a c) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.
+
+- § 66h
+
+- Odborná spôsobilosť pre živnosti zaradené v zozname II
+
+- (1)
+
+- Odbornú spôsobilosť pre živnosti zaradené v zozname II osoby spoločenstva náhradným spôsobom preukazujú
+
+- a)
+
+- dokladom o nepretržitej šesťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+
+- b)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- c)
+
+- dokladom o nepretržitej štvorročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- d)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
+
+- e)
+
+- dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti a dokladom o absolvovaní najmenej trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- f)
+
+- dokladom o šesťročnej nesamostatnej odbornej praxi v predmetnej činnosti a dokladom o absolvovaní najmenej dvojročného predchádzajúceho vzdelávania na príslušnú činnosť.
+
+- (2)
+
+- V prípadoch podľa odseku 1 písm. a) a d) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.
+
+- § 66i
+
+- Odborná spôsobilosť pre živnosti zaradené v zozname III
+
+- (1)
+
+- Odbornú spôsobilosť pre živnosti zaradené v zozname III osoby spoločenstva náhradným spôsobom preukazujú
+
+- a)
+
+- dokladom o nepretržitej šesťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+
+- b)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- c)
+
+- dokladom o nepretržitej štvorročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- d)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti.
+
+- (2)
+
+- V prípadoch podľa odseku 1 písm. a) a d) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.
+
+- § 66j
+
+- Odborná spôsobilosť pre živnosti zaradené v zozname IV
+
+- Odbornú spôsobilosť pre živnosti zaradené v zozname IV osoby spoločenstva náhradným spôsobom preukazujú
+
+- a)
+
+- dokladom o nepretržitej päťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+
+- b)
+
+- dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- c)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- d)
+
+- dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom aspoň o trojročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
+
+- e)
+
+- dokladom o nepretržitej trojročnej nesamostatnej odbornej praxi a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania.
+
+- § 66k
+
+- Odborná spôsobilosť pre živnosti zaradené v zozname V
+
+- (1)
+
+- Odbornú spôsobilosť pre živnosti zaradené v zozname V osoby spoločenstva náhradným spôsobom preukazujú
+
+- a)
+
+- dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+
+- b)
+
+- dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+
+- c)
+
+- dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom aspoň o trojročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
+
+- d)
+
+- dokladom o trojročnej nesamostatnej odbornej praxi v predmetnej činnosti a dokladom o absolvovaní predchádzajúceho vzdelávania na príslušnú činnosť.
+
+- (2)
+
+- V prípadoch podľa odseku 1 písm. a) a c) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.
+
+- § 66l
+
+- Predchádzajúce vzdelávanie na príslušnú činnosť podľa § 66g až 66k sa preukazuje vysvedčením uznaným členským štátom alebo iným dokladom spolu s potvrdením príslušnej profesijnej alebo obchodnej inštitúcie členského štátu o rovnocennosti tohto vzdelávania.
+
+- § 66m
+
+- (1)
+
+- Vysvedčenie získané a uznané v členskom štáte, ktoré preukazuje, že znalosť a schopnosť vykonávať príslušnú činnosť zodpovedajú aspoň trom rokom odborného vzdelania, považuje sa za doklad, ktorý potvrdzuje dĺžku vzdelávania požadovanú v § 66g ods. 1 písm. b) a e), § 66h ods. 1 písm. b) a e), § 66i ods. 1 písm. b) a § 66j ods. 1 písm. b).
+
+- (2)
+
+- Vysvedčenie získané a uznané v členskom štáte, ktoré preukazuje, že znalosť a schopnosť vykonávať príslušnú činnosť zodpovedajú aspoň dvom rokom odborného vzdelania, považuje sa za doklad, ktorý potvrdzuje dĺžku vzdelávania požadovanú v § 66j ods. 1 písm. c) a e).
+
+- § 66n
+
+- Za odbornú prax v postavení vedúceho podniku podľa § 66g až 66k sa považuje odborná prax vykonávaná v podniku zodpovedajúceho odvetvia
+
+- a)
+
+- v postavení vedúceho organizácie alebo organizačnej zložky podniku<sup>41c</sup>) alebo
+
+- b)
+
+- v postavení (zodpovedného) zástupcu podnikateľa alebo vedúceho organizácie, ak je s týmto postavením spojená zodpovednosť rovnajúca sa zodpovednosti zastupovaného podnikateľa alebo vedúceho, alebo
+
+- c)
+
+- vo vedúcej funkcii s povinnosťami obchodného alebo technického charakteru a so zodpovednosťou za jedno alebo viac oddelení podniku.
+
+- § 66o
+
+- Za doklad o odbornej praxi podľa § 66g až 66k sa považuje potvrdenie vydané príslušným úradom alebo orgánom domovského členského štátu alebo členského štátu pôvodu obsahujúce údaje aspoň o druhu a trvaní činnosti.
+
 - § 66p
 
 - Pre osobu spoločenstva, ktorá je fyzickou osobou, sa povolenie na dlhodobý pobyt alebo povolenie na trvalý pobyt na území Slovenskej republiky<sup>24b</sup>) nevyžaduje.“.
