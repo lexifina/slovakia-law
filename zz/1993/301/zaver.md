@@ -1,1 +1,0 @@
-Jozef Tuchyňa v. r.
