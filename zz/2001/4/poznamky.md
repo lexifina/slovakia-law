@@ -8,6 +8,8 @@
 
 - 5) § 12 zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
 
+- 5a) Napríklad zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby v znení neskorších predpisov, zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) § 47 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
 
 - 7) § 89 ods. 4 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
@@ -20,6 +22,12 @@
 
 - 11) § 14 zákona č. 140/1961 Zb.
 
+- 11a) § 149 ods. 7 a § 321 ods. 1 Trestného poriadku.
+
+- 11b) § 44 ods. 2 zákona č. 153/2001 Z. z. o prokuratúre.
+
+- § 4 ods. 2 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
+
 - 12) § 49 zákona č. 73/1998 Z. z.
 
 - 13) § 3 zákona č. 351/1997 Z. z. Branný zákon.
@@ -30,7 +38,13 @@
 
 - 16) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
+- 16a) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
+
 - 17) Zákon Národnej rady Slovenskej republiky č. 381/1997 Z. z. o cestovných dokladoch.
+
+- 17a) § 70 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+
+- 17b) § 70 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 18) § 40 zákona č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
 
