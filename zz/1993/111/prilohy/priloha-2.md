@@ -14,4 +14,4 @@ Príloha č. 2 vyhlášky č. 111/1993 Z. z.
 
 - 6. nevydá odborný posudok, ak možno mať pre jej pomer k veci, k orgánom vykonávajúcim konanie, k účastníkom alebo k ich zástupcom pochybnosť o jej nezaujatosti,
 
-- 7. po ukončení roka zašle ministerstvu zoznam vydaných odborných posudkov, ktorý bude obsahovať údaje podľa bodov 4, 5, 6 a 12 prílohe č. 3 tejto vyhlášky a dátum vydania posudku.
+  - 7. po ukončení roka zašle ministerstvu zoznam vydaných odborných posudkov, ktorý bude obsahovať údaje podľa bodov 4, 5, 6 a 12 prílohe č. 3 tejto vyhlášky a dátum vydania posudku; vo veciach odpadov zašle len rovnopis vydaných odborných posudkov.
