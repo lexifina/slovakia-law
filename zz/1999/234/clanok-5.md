@@ -1,0 +1,3 @@
+# Článok 5 Náhrada za straty
+
+Investorom štátu jednej zmluvnej strany, ktorých investície utrpia škody na území štátu druhej zmluvnej strany v dôsledku vojny, ozbrojeného konfliktu, výnimočného stavu, povstania, vzbury, nepokojov alebo iných udalostí, poskytne druhá zmluvná strana zaobchádzanie, pokiaľ ide o reštitúciu, odškodnenie, náhradu škody alebo iné hodnotové vyrovnanie, nie menej priaznivé, než aké poskytne táto zmluvná strana investíciám investorov vlastného štátu alebo investorom ktoréhokoľvek tretieho štátu, ktoré je výhodnejšie. Akákoľvek platba uskutočnená podľa tohto článku sa vykoná bez meškania a bude voľne prevoditeľná vo voľne vymeniteľnej mene.
