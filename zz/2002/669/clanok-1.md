@@ -1,5 +1,3 @@
 # Čl. I
 
-## 
-
 Základný plat
