@@ -1,5 +1,7 @@
 - 1) § 67 Občianskeho súdneho poriadku.
 
+- 1a) § 44 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 2) § 1 ods. 3, 5 a 6 zákona č. 335/1991 Zb. o súdoch a sudcoch.
 
 - 3) § 7 zákona SNR č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov).
@@ -24,7 +26,7 @@
 
 - 4a) § 15 ods. 3 zákona Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch.
 
-- 5) Vyhláška Ministerstva financií SR č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a o náhradách za dočasné užívanie pozemkov.
+- 5) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 86/2002 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 6) § 250l Občianskeho súdneho poriadku.
 
