@@ -1,1 +1,0 @@
-Príloha k nariadeniu vlády č. 488/2000 Z. z. [Príloha 01](../assets/4603392afa2454fe5c7995a9852df75d1edb0255f363587a2ef79f9ec66fef7e.pdf)
