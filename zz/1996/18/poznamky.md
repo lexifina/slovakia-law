@@ -2,8 +2,6 @@
 
 - 1a) Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov.
 
-- 2) Napríklad zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
-
 - 3) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov.
 
 - 4) Nariadenie vlády Slovenskej republiky č. 300/1995 Z. z., ktorým sa vydáva colný sadzobník.
@@ -20,15 +18,15 @@
 
 - 9) § 6 ods. 2 písm. a) zákona č. 491/2001 Z. z. o organizovaní trhu s vybranými poľnohospodárskymi výrobkami.
 
-- 9a) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
+- 9a) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
 - 10) § 8 ods. 1 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 11) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
-- 12) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.
+- 12) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
 
-- 13) Zákon Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole v znení neskorších predpisov.
+- 13) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
@@ -40,7 +38,11 @@
 
 - 18) § 244 a nasl. Občianskeho súdneho poriadku.
 
-- 19) § 2 ods. 2 písm. b) zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení zákona Slovenskej národnej rady č. 417/1991 Zb.
+- 18a) Zákon č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 308/2000 Z. z.Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 507/2001 Z. z. o poštových službách.
+
+- 19) Zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
+
+- 19a) § 23 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 20) § 248 ods. 3 zákona č. 99/1963 Zb. Občianskeho súdneho poriadku v znení neskorších predpisov.
 
