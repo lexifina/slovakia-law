@@ -1,0 +1,1 @@
+- 1) Dňa 23. júla 1998 bola v zmysle zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov vykonaná zmena názvu Slovenského odborového zväzu pracovníkov dopravy, cestného hospodárstva a automobilového opravárenstva na Odborový zväz dopravy, cestného hospodárstva a autoopravárenstva.
