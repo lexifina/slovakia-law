@@ -1,0 +1,3 @@
+Predseda:
+
+Zupka v. r.
