@@ -1,3 +1,0 @@
-Minister:
-
-Plojhar v. r.
