@@ -1,0 +1,3 @@
+Príloha č. 3 k vyhláške č. 741/2004 Z. z.
+
+- SÍDLA STANÍC ZÁCHRANNEJ ZDRAVOTNEJ SLUŽBY A ICH ZÁSAHOVÉ ÚZEMIA [Tabuľka 03-1](../assets/b355f81b5fc035d9c114e2b9a1a24ad08ad3c6b056465a12b6f81f844b580837.pdf)
