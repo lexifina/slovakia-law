@@ -18,7 +18,9 @@
 
 - 9) § 25 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
 
-- 10) Zákon Slovenskej národnej rady č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
+- 10) Zákon č. 195/1998 Z. z. o sociálnej pomoci.
+
+- 10a) § 57 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 11) § 716 a nasl. Obchodného zákonníka.
 
