@@ -1,6 +1,8 @@
 - 1) Napríklad § 409 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník.
 
-- 2) § 2 Obchodného zákonníka.
+- 2) Ústavný zákon č. 541/1992 Zb. o delení majetku Českej a Slovenskej Federatívnej Republiky medzi Českú republiku a Slovenskú republiku a jeho prechode na Českú republiku a Slovenskú republiku.
+
+- 2a) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
 
 - 3) § 59 a 223 Obchodného zákonníka.
 
@@ -22,13 +24,15 @@
 
 - 9) § 29 ods. 2 zákona č. 286/1992 Zb. o daniach z príjmov.
 
-- 10) § 25 zákona č. 563/1991 Zb. o účtovníctve.
+- 10) § 10 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
 
 - 11) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení zákona Slovenskej národnej rady č. 417/1991 Zb., zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách.
 
 - 12) Napríklad § 2 zákona č. 526/1990 Zb. o cenách, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 44/1991 Zb.
 
 - 13) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení vyhlášky Ministerstva financií Slovenskej republiky č. 59/1995 Z. z.
+
+- 13a) § 4 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení zákona Národnej rady Slovenskej republiky č. 179/1994 Z. z.
 
@@ -42,7 +46,9 @@
 
 - 15) § 489 Obchodného zákonníka.
 
-- 16) Nariadenie vlády Československej socialistickej republiky č. 137/1989 Zb. o závodnom stravovaní.
+- 15a) § 137 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
+
+- 16) § 140 Zákonníka práce.
 
 - 17) § 24 ods. 2 písm. j) bod 4 zákona č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 626/1992 Zb.
 
@@ -54,7 +60,7 @@
 
 - 21) § 117 Občianskeho zákonníka.
 
-- 22) Vyhláška Federálneho štatistického úradu č. 124/1980 Zb. o jednotnej klasifikácii stavebných objektov a stavebných prác výrobnej povahy v znení neskorších predpisov.
+- 22) § 51 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z.
 
 - 23) § 3 zákona č. 618/1992 Zb.
 
@@ -84,11 +90,17 @@
 
 - Zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
+- 35a) § 716 Obchodného zákonníka.
+
 - 36) § 313 Obchodného zákonníka.
 
 - 37) § 682 Obchodného zákonníka.
 
 - 38) § 692 Obchodného zákonníka.
+
+- 38a) § 8 ods. 1 zákona č. 600/1992 Zb. o cenných papieroch.
+
+- 38b) § 14 zákona č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení zákona Národnej rady Slovenskej republiky č. 91/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 191/1995 Z. z.
 
 - 39) § 2 písm. ch) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 

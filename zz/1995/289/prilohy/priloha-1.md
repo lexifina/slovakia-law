@@ -1,4 +1,4 @@
-Príloha zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z.
+Príloha č. 1 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z.
 
 - ZOZNAM TOVAROV A SLUŽIEB PODLIEHAJÚCICH SADZBE DANE 6 % Číselný kód | Názov tovaru
 
@@ -612,8 +612,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z.
 
 - 41 | - Výroba a rozvod vody
 
-- 45 | - Stavebné práce
-
 - 52.48.38 | - Maloobchod s nepotravinárskym tovarom, inde neklasifikovaným - len sprostredkovanie predaja cestovných lístkov na dopravu osôb
 
 - 52.71.10 | - Oprava obuvi a iných výrobkov z kože vrátane opravy obuvi na počkanie
@@ -691,5 +689,3 @@ Príloha zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z.
 - Číselný kód tovarov obsahuje dvojmiestny kód kapitoly alebo štvormiestny kód čísla, alebo šesťmiestny kód položky, alebo osemmiestny kód podpoložky Harmonizovaného systému68) (ďalej len „harmonizovaný systém") kombinovanej nomenklatúry69) colného sadzobníka. |
 
 - Číselný kód služieb obsahuje oddiel, sekciu, skupinu, triedu a podtriedu klasifikácie produkcie.<sup>24</sup>) |
-
-- [Príloha 01](../assets/d56a0679af02740f986fbc680c0ffeaf469820ae45dd97c3aa12d24b8912da06.pdf)
