@@ -1,0 +1,1 @@
+- 10a) Tiskopis SEVT č. 14 79 00 "Hlášení přenosné nemoci".
