@@ -1,1 +1,0 @@
-- 22) Pokiaľ táto hodnota spotreby pohonných hmôt nie je v technickom preukaze vozidla uvedená, ustanovuje sa podľa ČSN 30 0510, alebo podľa spotreby porovnateľného vozidla.
