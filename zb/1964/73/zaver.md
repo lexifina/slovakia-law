@@ -1,0 +1,3 @@
+Minister:
+
+Dvořák v. r.
