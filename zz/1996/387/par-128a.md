@@ -12,6 +12,6 @@
 
 (4) Zamestnávateľ je povinný na predpísanom tlačive písomne sa prihlásiť ako odvádzateľ príspevku do garančného fondu na okresnom úrade práce, v ktorého územnom obvode má sídlo, najneskôr v deň splatnosti príspevku.
 
-(5) Pri odhlasovaní zamestnávateľa ako odvádzateľa príspevku do garančného fondu, pri odvode príspevku a jeho splatnosti, pri vymáhaní a vrátení príspevku v prípade jeho zaplatenia bez právneho dôvodu a pri penále za omeškané platenie príspevku do garančného fondu sa postupuje rovnako ako pri príspevku na poistenie v nezamestnanosti podľa tohto zákona.
+(5) Pri evidencii odvádzateľov príspevkov do garančného fondu, pri odhlasovaní zamestnávateľa ako odvádzateľa príspevku do garančného fondu, pri odvode príspevku a jeho splatnosti, pri vymáhaní a vrátení príspevku v prípade jeho zaplatenia bez právneho dôvodu a pri penále za omeškané platenie príspevku do garančného fondu sa postupuje rovnako ako pri príspevku na poistenie v nezamestnanosti podľa tohto zákona.
 
 (6) Povinnosti ustanovené v odsekoch 1 až 5 sa nevzťahujú na zamestnávateľa, ktorý je rozpočtovou organizáciou alebo príspevkovou organizáciou.

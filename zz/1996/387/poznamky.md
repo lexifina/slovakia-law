@@ -36,11 +36,31 @@
 
 - 11) Napríklad § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov, § 3 ods. 2 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
+- 11a) § 15 zákona č. 366/1999 Z. z. o daniach z príjmov.
+
+- 11b) § 16 zákona č. 366/1999 Z. z.
+
 - 12) § 37 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 12a) Zákon č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 173/1998 Z. z.
 
 - 13) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
+
+- 13a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+
+- 13b) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+
+- 13c) Zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
+
+- 13d) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
+
+- 13e) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 13f) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- 13g) § 6 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+
+- 13h) § 12 ods. 4 a 8 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.§ 15 ods. 4 a 5 a § 16 ods. 12 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení zákona Národnej rady Slovenskej republiky č. 81/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 120/1996 Z. z. a zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z.
 
@@ -58,9 +78,17 @@
 
 - 18b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
+- 18c) § 8 zákona č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+
 - 19) § 2 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 18/1991 Zb. o iných úkonoch vo všeobecnom záujme,§ 17 zákona č. 1/1992 Zb. v znení neskorších predpisov.
 
 - 20) Napríklad § 124 Zákonníka práce, zákon č. 513/1991 Zb. Obchodný zákonník, zákon č. 119/1992 Zb.
+
+- 20a) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 20b) § 31 ods. 3 a § 54 ods. 1 písm. c) zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
+
+- 20c) § 20, § 31 ods. 5 a § 56 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
