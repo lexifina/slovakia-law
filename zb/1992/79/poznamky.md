@@ -10,6 +10,6 @@
 
 - 5) § 89 ods. 5 Trestného zákona.
 
-- 6) Zákon Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
+- 6) Zákon Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení zákona Slovenskej národnej rady č. 490/1992 Zb.
 
 - 7) Zákonník práce.
