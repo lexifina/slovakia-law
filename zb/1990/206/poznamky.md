@@ -9,3 +9,5 @@
 - § 49 ods. 2 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
 
 - 3) § 1 ods. 2 vyhlášky Federálneho ministerstva financií č. 250/1990 Zb. o spôsobe úhrady nákladov na vyrovnávací príspevok platiteľom príspevku.
+
+- 9) Zákon č. 382/1990 Zb. o rodičovskom príspevku.
