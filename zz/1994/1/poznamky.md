@@ -12,7 +12,7 @@
 
 - 7) Napr. § 19 ods. 3 a 4 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení zákona Národnej rady Slovenskej republiky č. 187/1993 Z. z.
 
-- 8) Zákon Slovenskej národnej rady č. 131/1991 Zb. o Štátnom fonde zveľaďovania lesa Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z.
+- 8) § 2 zákona č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov.
 
 - 9) Zákon č.61/1977 Zb. o lesoch v znení zákona Národnej rady Slovenskej republiky č.183/1993 Z. z.
 
