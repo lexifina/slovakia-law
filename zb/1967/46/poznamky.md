@@ -1,3 +1,0 @@
-- *) Ide napríklad o náklady na opravu poškodeného hmotného majetku, o cenu zničeného majetku, ktorú tvorí suma obstarávacej ceny znížená o sumu zodpovedajúcu jeho opotrebeniu, o výdavky vynaložené na ochranu poškodeného majetku a na opatrenia na zabránenie ďalším škodám, o výdavky vynaložené na demolácie, demontáž, vypratanie a premiestnenie majetku.
-
-- **) Ide najmä o náhrady škôd spôsobených pri prevádzke dopravných prostriedkov (§ 150 Hospodárskeho zákonníka a § 427 a 431 Občianskeho zákonníka), škôd vzniknutých na prepravovanej zásielke (§ 340 a 341 Hospodárskeho zákonníka a príslušné ustanovenia vykonávacích predpisov) a škôd spôsobených exhaláciami socialistickým poľnohospodárskym a lesným organizáciám (vládna vyhláška č. 40/1963 Zb.).
