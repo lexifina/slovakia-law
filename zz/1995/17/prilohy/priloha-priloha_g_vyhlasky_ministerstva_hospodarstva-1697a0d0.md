@@ -1,1 +1,0 @@
-Príloha G vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 17/1995 Z. z. [Vzor - Žiadosť o udelenie licencie na vývoz tovaru uvedeného v prílohách B, D](../assets/0805ac845e459d8b2e71f77369dff3ff0310135f4e3d891bf87966fce168cb6a.pdf)

@@ -1,1 +1,0 @@
-Príloha H vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 17/1995 Z. z. [Vzor - Žiadosť o udelenie licencie na vývoz textilného tovaru uvedeného v prílohe C](../assets/201e31ad918bd3e5df9db5d1cee31a480b0945c9a561c219be0c7179556a16a2.pdf)
