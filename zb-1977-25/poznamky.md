@@ -1,0 +1,1 @@
+- 5) § 2 a 4 vyhlášky č. 124/1967 Zb. o čiastočnej úhrade nákladov na starostlivosť poskytovanú v niektorých zariadeniach pre mládež.
