@@ -4,7 +4,7 @@
 
 - 3) § 13 vyhlášky Federálneho ministerstva dopravy č. 35/1984 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon).
 
-- 4) Napríklad zákon Národnej rady Slovenskej republiky č. 168/l996 Z. z. o cestnej doprave, vyhláška Ministerstva financií Slovenskej republiky č. 423/1991 Zb., ktorou sa ustanovuje rozsah a podmienky zákonného poistenia zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla v znení neskorších predpisov.
+- 4) Napríklad zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave, zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
