@@ -60,6 +60,6 @@
 
 - 29) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
-- 30) § 25 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+- 30) § 25 a 26 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 31) § 9 a 10 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
