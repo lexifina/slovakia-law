@@ -36,6 +36,8 @@
 
 - § 40 ods. 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 306/1991 Zb.
 
+- 15b) § 20 ods. 3 a 4 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 231/1992 Zb.
+
 - 16) § 8 ods. 1 zákona č. 1/1991 Zb.
 
 - 18) § 50 Zákonníka práce.
