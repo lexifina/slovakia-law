@@ -189,3 +189,75 @@ Príloha vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 67/2002 
 STN EN 14362 – 1, STN EN 14362 – 2, STN ISO/TS 17234.“.
 
 - 9. Za bod XLIVA sa pripájajú body XLVI a XLVII, ktoré znejú:
+
+„XLVI. (1) Nonylfenol C6H4(OH)C9H19
+
+(2)
+
+Nonylfenol-etoxylát (C2H4O)nC15H24O
+
+Nesmie sa uvádzať na trh ani používať ako látka alebo zložka prípravkov v koncentráciách 0,1 % hmotnosti alebo vyšších na účely
+
+1.
+
+priemyselného alebo inštitucionálneho čistenia s výnimkou
+
+a)
+
+kontrolovaných uzatvorených systémov suchého čistenia, v rámci ktorých sa pracia kvapalina recykluje alebo spaľuje,
+
+b)
+
+čistiacich systémov so špeciálnym zaobchádzaním, v rámci ktorých sa pracia kvapalina recykluje alebo spaľuje,
+
+2.
+
+čistenia v domácnostiach,
+
+3.
+
+spracovania textílií a usní s výnimkou
+
+a)
+
+spracovania, pri ktorom nedochádza k ich emisiám do odpadových vôd,
+
+b)
+
+systémov so špeciálnou úpravou, v rámci ktorých sa voda z procesu predupraví za účelom úplného odstránenia organického podielu pred biologickým čistením odpadových vôd (odmasťovanie ovčej kože),
+
+4.
+
+v poľnohospodárstve ako antimastitídny emulzný prípravok,
+
+5.
+
+obrábania kovov s výnimkou použitia pri kontrolovaných uzatvorených systémoch, v rámci ktorých sa pracia kvapalina recykluje alebo spaľuje,
+
+6.
+
+výroby celulózy a papiera,
+
+7.
+
+kozmetických výrobkov,
+
+8.
+
+ostatných výrobkov osobnej hygieny s výnimkou spermicídov,
+
+9.
+
+ako jedna zo zložiek komerčnej úpravy v prípravkoch na ochranu rastlín a biocídov.
+
+XLVII. Cement
+
+1.
+
+Cement a prípravky obsahujúce cement sa nesmú používať ani uvádzať na trh, ak po zmáčaní obsahujú viac ako 0,0002 % rozpustného šesťmocného chrómu z celkovej sušiny cementu.
+
+2.
+
+Ak sa používajú redukčné činidlá, potom bez toho, aby bolo dotknuté uplatňovanie osobitného predpisu o klasifikácii, balení a označovaní nebezpečných látok a nebezpečných chemických prípravkov<sup>1a</sup>) na obaloch cementu alebo prípravkov obsahujúcich cement sa čitateľne a nezmazateľne vyznačia údaje o dátume balenia, ako aj o skladovacích podmienkach a dobe uskladnenia potrebnej na zachovanie aktivity redukčných činidiel a na zachovanie obsahu rozpustného šesťmocného chrómu pod hranicu koncentrácie uvedenej v odseku 1.
+
+Odseky 1 a 2 sa neuplatnia v prípadoch uvádzania na trh a používania v kontrolovaných uzatvorených a úplne automatizovaných procesoch, v rámci ktorých sa s cementom a s prípravkami obsahujúcimi cement manipuluje výlučne v zariadeniach, v ktorých nie je možný žiadny kontakt s pokožkou.“.
