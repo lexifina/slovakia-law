@@ -2,9 +2,15 @@
 
 - 1a) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly.
 
-- 1b) Napríklad zákon č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov v znení neskorších predpisov.
+- 1b) Napríklad zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z., zákon č. 104/2004 Z. z. o spotrebnej dani z vína, zákon č. 107/2004 Z. z. o spotrebnej dani z piva, zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov, zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja.
 
 - 1c) Zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
+
+- 1d) Napríklad zákon č. 150/2001 Z. z. v znení zákona č. 182/2002 Z. z., zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1e) Napríklad zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
+
+- 1f) Napríklad zákon č. 313/2001 Z. z. v znení neskorších predpisov.
 
 - 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
@@ -92,7 +98,13 @@
 
 - 8j) Zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení zákona č. 70/1997 Z. z.
 
+- 8ja) Zákon č. 472/2002 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov, v znení zákona č. 177/2004 Z. z.
+
+- Zákon č. 446/2002 Z. z. o vzájomnej pomoci pri vymáhaní niektorých finančných pohľadávok.
+
 - 8k) § 34 ods. 11 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 32/2002 Z. z.
+
+- 8l) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 9) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
@@ -117,6 +129,8 @@
 - 11b) § 58 zákona č. 455/1991 Zb. Živnostenský zákon v znení neskorších predpisov.
 
 - 11c) § 3 vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou.
+
+- 11ca) Zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 87/1994 Z. z. o cestnej dani v znení neskorších predpisov.
 
 - 11d) Napr. zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
@@ -216,11 +230,7 @@
 
 - 18a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
-- 19) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov.
-
 - 19a) § 14 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 45/1998 Z. z.
-
-- 19aa) § 4 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov.
 
 - 19b) Napríklad § 1 ods. 1 písm. d) zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 

@@ -24,4 +24,10 @@ Na účely tohto zákona sa rozumie
 
 - i) orgánom najbližšie nadriadeným správcom dane podľa písmena b) prvého bodu Daňové riaditeľstvo Slovenskej republiky (ďalej len „daňové riaditeľstvo“) a správcovi dane podľa písmena b) druhého bodu Colné riaditeľstvo Slovenskej republiky<sup>1c</sup>) (ďalej len „colné riaditeľstvo“),
 
-- j) zamestnancom správcu dane zamestnanec, ktorého zamestnávateľom je daňové riaditeľstvo,<sup>1a</sup>) colné riaditeľstvo<sup>1c</sup>) alebo obec.
+- j) zamestnancom správcu dane zamestnanec, ktorého zamestnávateľom je
+
+  - 1. daňové riaditeľstvo<sup>1d</sup>),
+
+  - 2. colný úrad alebo colné riaditeľstvo<sup>1e</sup>) alebo
+
+  - 3. obec<sup>1f</sup>).

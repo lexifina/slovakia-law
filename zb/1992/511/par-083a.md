@@ -8,7 +8,7 @@
 
 (4) Správca dane doručí do vlastných rúk banke rozhodnutie o začatí daňového exekučného konania.
 
-(5) Správca dane prikáže banke, aby po doručení rozhodnutia podľa odseku 4 zablokovala na účte daňového dlžníka peňažné prostriedky do výšky daňového nedoplatku, a to aj vtedy, ak peňažné prostriedky prichádzajú na účet daňového dlžníka postupne. Po doručení daňovej exekučnej výzvy banke banka zo zablokovaných peňažných prostriedkov na základe príkazu daňového dlžníka a so súhlasom správcu dane poukáže na účet správcu dane peňažné prostriedky vo výške vymáhaného daňového nedoplatku alebo jeho časti.
+(5) Správca dane prikáže banke, aby po doručení rozhodnutia podľa odseku 4 zablokovala na účte daňového dlžníka peňažné prostriedky do výšky daňového nedoplatku, a to aj vtedy, ak peňažné prostriedky prichádzajú na účet daňového dlžníka postupne. Na základe príkazu daňového dlžníka a so súhlasom správcu dane, banka zo zablokovaných peňažných prostriedkov poukáže na účet správcu dane peňažné prostriedky vo výške vymáhaného daňového nedoplatku alebo jeho časti.
 
 (6) Po doručení daňového exekučného príkazu je banka povinná odpísať peňažné prostriedky z účtu daňového dlžníka a poukázať ich na účet správcu dane; v prípade termínovaného vkladového účtu dňom jeho splatnosti. Ak odpísaná suma nepostačuje na pokrytie vymáhaného daňového nedoplatku, banka je povinná poukazovať peňažné prostriedky z účtu daňového dlžníka, a to aj postupne, až do výšky vymáhaného daňového nedoplatku.
 
