@@ -1,0 +1,1 @@
+- *) Francúzsky text Aktov je k dispozícii na Federálnom výbore pre pošty a telekomunikácie v Prahe 3, Olšanská 5. Český preklad bol vydaný pod názvom „Akty Světové poštovní unie, Vídeň 1964" a je na nahliadnutie na všetkých krajských a okresných správach spojov.
