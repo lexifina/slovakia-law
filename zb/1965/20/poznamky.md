@@ -1,1 +1,0 @@
-- *) Vyhláška č. 21/1965 Zb. o dôchodkovom zabezpečení, nemocenskom poistení a preventívnej a liečebnej starostlivosti niektorých občanov činných pri poskytovaní služieb.
