@@ -1,1 +1,0 @@
-- 1) Bod 4 Splnomocnenia k II. časti prílohy zákona Slovenskej národnej rady č. 320/1992 Zb. o správnych poplatkoch v znení zákona Národnej rady Slovenskej republiky č. 181/1993 Z. z.
