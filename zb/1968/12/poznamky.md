@@ -10,4 +10,6 @@
 
 - **) Vyhláška Ministerstva financií a Ústrednej rady odborov č. 2/1967 Zb. o pobádacích fondoch a financovaní niektorých výdavkov v rozpočtových a príspevkových organizáciách.
 
+- *) Vyhláška č. 159/1970 Zb. o poskytovaní odmien pri významných pracovných a životných výročiach.
+
 - ***) Vyhláška Ministerstva financií č. 24/1967 Zb. (príloha II, bod 3), ktorou sa vykonáva zákon o dani zo mzdy.
