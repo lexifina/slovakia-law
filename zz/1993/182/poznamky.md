@@ -28,7 +28,7 @@
 
 - 11) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
-- 12) § 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+- 12) § 6 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
 - 12a) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
