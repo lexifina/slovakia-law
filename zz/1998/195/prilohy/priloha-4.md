@@ -1396,7 +1396,7 @@ Príloha č. 4 k zákonu č. 195/1998
 
   - 5. Strata jednej dolnej končatiny v stehne po kolenný kĺb | | | 50-60
 
-  - 6. Strata jednej dolnej končatiny v predkolení s dostatočnou funkciou kýpťa a kĺbu | | | 40
+  - 6. Strata jednej dolnej končatiny v predkolení s dostatočnou funkciou kýpťa a kĺbu | | | 50
 
   - 7. Strata oboch dolných končatín v predkolení | | |
 
@@ -1406,7 +1406,7 @@ Príloha č. 4 k zákonu č. 195/1998
 
   - 8. Strata nohy v členkovom kĺbe s dobrou alebo s oslabenou funkciou amputačného kýpťa | | |
 
-  - | a) jednostranná | | 20-30
+  - | a) jednostranná | | 30-50
 
   - | b) obojstranná | | 40-50
 
@@ -1414,7 +1414,7 @@ Príloha č. 4 k zákonu č. 195/1998
 
   - | a) jednostranná s dobrým kýpťom | | 20-30
 
-  - | b) obojstranná | | 30-40
+  - | b) obojstranná | | 40-50
 
   - 10. Strata nohy v Lisfrancovom kĺbe alebo v oblasti metatarzov s dobrou alebo oslabenou funkciou amputačného kýpťa | | |
 
