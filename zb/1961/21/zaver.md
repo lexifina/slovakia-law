@@ -1,3 +1,0 @@
-Minister:
-
-David v.r.
