@@ -20,25 +20,25 @@ Príloha č. 2 k nariadeniu vlády č. 270/2004 Z. z.
 
   - A. Tabuľka
 
-- Druhy | Klíčivosť | | Analytická čistota | | | | | | | | Maximálny obsah osiva iného ako rastlinného druhu vo vzorke váhy uvedenej v stĺpci 4 prílohy III (celkom na stĺpec) | | | Pod- mienky vzhľa- dom na obsah osiva druhu Lupin inej farby a hor- kého osiva druhu Lupin
+- Druhy | Klíčivosť | | | Analytická čistota | | | | | | | Maximálny obsah osiva iného ako rastlinného druhu vo vzorke váhy uvedenej v stĺpci 4 prílohy III (cel- kom na stĺpec) | | | Podmien- ky vzhľa- dom na obsah osi- va druhu Lupin inej farby a horkého osiva dru- hu Lupin
 
-- | Minimálna klíčivosť (% čistého osiva) | Minimálna klíčivosť (% čistého osiva) | Minimálna analytická čistota (% váhy) | Maximálny obsah osiva iného ako rastlinného druhu (% váhy) | | | | | | | | | |
+- | Mini- málna klíčl- vosť(% čis- tého osiva) | Maxi- málny obsah tvrdých semien (% čis- tého osiva) | Mini- málna analy- tická čistota (% váhy) | Maximálny obsah osiva iného ako rastlinného druhu (% váhy) | | | | | | | | | |
 
-- | | | | Celkom | Jednot- livý druh | Agro- pyron repens(pýr plazy- vý) | Alope- curus myosu- roides (psiar- ka roľ- ná) | Druh Melilo- tus (komo- nica) | Rapha- nus rapha- nis- trum (reďkev ohnico- vá) | Sinapis arven- sis (horči- ca roľ- ná) | Avena fa- tua (ovos hluchý), Avena lu- doviciana (ovos ma- lokvetý), Avena ste- rilis (ovos jalový) | Druh Cuscu- ta (ku- kučina) | Rumex spp. (štiav) iné ako Rumex acetosella (štiav menší) a Rumex maritimus (štiav prí- morský) |
+- | | | | Celkom | Jed- notli- vý druh | Agro- pyron re- pens (pýr plazi- vý) | Alope- curus myosu- roides (psiar- ka roľ- ná) | Druh Meli- lotus (ko- moni- ca) | Rapha- nus rapha- nistrum (reďkev ohnico- vá) | Sinapis arvensis (horčica roľná) | Avena fa- tua (ovos hluchý), Avena lu- doviciana (ovos ma- lokvetý), Avena ste- rilis (ovos jalový) | Druh Cuscuta (kukuči- na) | Rumex spp. (štiav) iné ako Ru- mex aceto- sella (štiav menší) a Rumex maritimus (štiav prí- morský) |
 
 - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
 
-- Agrostis canlna (Psinček psí) | 75 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Agrostis canina (Psinček psí) | 75 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Agrostis gi- gantea (Pslnček obrovský) | 80 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Agrostis gigantea (Psinček obrovský) | 80 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Agrostis stolonifera (Pslnček poplazový) | 75 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Agrostis stolonifera (Psinček poplazový) | 75 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Agrostis capillaris (Pslnček obyčajný tenučký) | 75 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Agrostis capillaris (Psinček obyčajný tenučký) | 75 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Alopecurus pratensis (Psiarka lúčna) | 70 (a) | | 75 | 2,5 | l.Offl | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Alopecurus pratensis (Psiarka lúčna) | 70 (a) | | 75 | 2,5 | 1,0 (f) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Arrhenat- herum ela- tius (Ovsík obyčajný) | 75 (a) | | 90 | 3,0 | l.Offl | 0,5 | 0,3 | | | | 0(g) | 0(j)(k) | 5(n) |
+- Arrhenatherum elatius (Ovsík obyčajný) | 75 (a) | | 90 | 3,0 | 1,0 (f) | 0,5 | 0,3 | | | | 0(g) | 0(j)(k) | 5(n) |
 
 - Bromus catharticus (Stoklas preháňavý) | 75 (a) | | 97 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0(g) | 0(j)(k) | 10(n) |
 
@@ -46,23 +46,23 @@ Príloha č. 2 k nariadeniu vlády č. 270/2004 Z. z.
 
 - Cynodom dactylon (Prstnatec obyčajný) | 70 (a) | | 90 | 2,0 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2 |
 
-- Dactylls glomerata (Reznačka laločnatá) | 80 (a) | | 90 | 1,5 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Dactylis glomerata (Reznačka laločnatá) | 80 (a) | | 90 | 1,5 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Festuca arundina- cea (Kos- trava trste- níkovltá) | 80 (a) | | 95 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Festuca arundinacea (Kostrava trsteníkovitá) | 80 (a) | | 95 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Festuca ovina (Kos- trava ovčia) | 75 (a) | | 85 | 2,0 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Festuca ovina (Kostrava ovčia) | 75 (a) | | 85 | 2,0 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
 - Festuca pratensis (Kostrava lúčna) | 80 (a) | | 95 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Festuca rubra (Kos- trava čer- vená) | 75 (a) | | 90 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Festuca rubra (Kostrava červená) | 75 (a) | | 90 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- x Festulo- lium | 75 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- x Festulolium | 75 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Lollum multiflo- rum (Mäto- noh mno- hokvetý | 75 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Lolium multiflorum (Mätonoh mnohokvetý) | 75 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Lollum pe- renne (Mä- tonoh trvá- ci) | 80 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Lolium perenne (Mätonoh trváci) | 80 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Lollum x bouchea- num (Mä- tonoh hyb- ridný) | 75 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
+- Lolium x boucheanum (Mätonoh hybridný) | 75 (a) | | 96 | 1,5 | 1,0 | 0,5 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
 - Phalaris aquatica L. (Lesknica) | 75 (a) | | 96 | 1,5 | 1,0 | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 5 |
 
@@ -72,65 +72,65 @@ Príloha č. 2 k nariadeniu vlády č. 270/2004 Z. z.
 
 - Poa annua (Lipnica ročná) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 5(n) |
 
-- Poa nemo- ralis (Lip- nica hájna) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Poa nemoralis (Lipnica hájna) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Poa palus- tris (Lipni- ca močiar- na) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Poa palustris (Lipnica močiarna) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Poa pra- tensis (Lip- nica lúčna) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Poa pratensis (Lipnica lúčna) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Poa trivia- lis (Lipnica pospolitá) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
+- Poa trivialis (Lipnica pospolitá) | 75 (a) | | 85 | 2,0(c) | 1,0(c) | 0,3 | 0,3 | | | | 0 | 0(j)(k) | 2(n) |
 
-- Trisetum flavescens (Trojštet žltkastý) | 70 (a) | | 75 | 3,0 | l.0(f) | 0,3 | 0,3 | | | | 0(h) | 0(j)(k) | 2(n) |
+- Trisetum flavescens (Trojštet žltkastý) | 70 (a) | | 75 | 3,0 | 1,0(f) | 0,3 | 0,3 | | | | 0(h) | 0(j)(k) | 2(n) |
 
-- Hedysarum corona- rium (Se- kernica) | 75 (a) (b) | | 95 | 2,5 | 1,0 | | | 0,3 | | | 0 | 0(k) | 5 |
+- Hedysarum coronarium (Sekernica) | 75 (a)(b) | 30 | 95 | 2,5 | 1,0 | | | 0,3 | | | 0 | 0(k) | 5 |
 
-- Lotus cor- niculatus (Ľadenec rožkatý) | 75 (a) (b) | | 95 | 1,8d) | 1,0(d) | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Lotus corniculatus (Ľadenec rožkatý) | 75 (a)(b) | 40 | 95 | 1,8d) | 1,0(d) | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Lupinus albus (Lu- pina biela) | 80 (a) (b) | | 98 | 0,5(e) | 0,3(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) | (o)(p)
+- Lupinus albus (Lupina biela) | 80 (a)(b) | 20 | 98 | 0,5(e) | 0,3(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) | (o)(p)
 
-- Lupinus angustifo- lius (Lupi- na úzkolis- tá) | 75 (a) (b) | | 98 | 0,5(e) | 0,3(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) | (o)(p)
+- Lupinus angustifolius (Lupina úzkolistá) | 75 (a)(b) | 20 | 98 | 0,5(e) | 0,3(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) | (o)(p)
 
-- Lupinus luteus (Lu- pina žltá) | 80 (a) (b) | | 98 | 0,5(e) | 0,3(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) | (o)(p)
+- Lupinus luteus (Lupina žltá) | 80 (a)(b) | 20 | 98 | 0,5(e) | 0,3(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) | (o)(p)
 
-- Medicago lupulina (Lucerna ďatelinová) | 80 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Medicago lupulina (Lucerna ďatelinová) | 80 (a)(b) | 20 | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Medicago sativa (Lu- cerna sia- ta) | 80 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Medicago sativa (Lucerna siata) | 80 (a)(b) | 40 | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Medicago x varia (Lu- cerna men- livá) | 80 (a) (b) | | 97 | 15 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Medicago x varia (Lucerna menlivá) | 80 (a)(b) | 40 | 97 | 15 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Onobrychis viciifolia (Vičenec vi- kolistý) | 75 (a) (b) | | 95 | 2,5 | 1,0 | | | 0,3 | | | 0 | 0(j) | 5 |
+- Onobrychis viciifolia (Vičenec vikolistý) | 75 (a)(b) | 20 | 95 | 2,5 | 1,0 | | | 0,3 | | | 0 | 0(j) | 5 |
 
-- Pisum sati- vum (Hrach sia- ty) | 80 (a) | | 98 | 0,5 | 0,3 | | | 0,3 | | | 0 | 0(j) | 5(n) |
+- Pisum sativum (Hrach siaty) | 80 (a) | | 98 | 0,5 | 0,3 | | | 0,3 | | | 0 | 0(j) | 5(n) |
 
-- Trifolium alexandri- num (Ďate- lina ale- xandrijská) | 80 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | | 0(l) (m) | 10 |
+- Trifolium alexandrinum (Ďatelina alexandrij ská) | 80 (a)(b) | 20 | 97 | 1,5 | 1,0 | | | 0,3 | | | | 0(l)(m) | 10 |
 
-- Trifolium hybridum (Ďatelina hybridná) | 80 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Trifolium hybridum (Ďatelina hybridná) | 80 (a)(b) | 20 | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Trifolium incarna- tum (Ďate- lina purpu- rová) | 75 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Trifolium incarnatum (Ďatelina purpurová) | 75 (a)(b) | 20 | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Trifolium pratense (Ďatelina lúčna) | 80 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Trifolium pratense (Ďatelina lúčna) | 80 (a)(b) | 20 | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Trifolium repens (Ďatelina plazivá) | 80 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Trifolium repens (Ďatelina plazivá) | 80 (a)(b) | 40 | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Trifolium resupina- tum (Ďate- lina obrá- tená) | 80 (a) (b) | | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l) (m) | 10 |
+- Trifolium resupinatum (Ďatelina obrátená) | 80 (a)(b) | 20 | 97 | 1,5 | 1,0 | | | 0,3 | | | 0 | 0(l)(m) | 10 |
 
-- Trigonella foenumgra- ecum (Se- novka grécka) | 80 (a) | | 95 | 1,0 | 0,5 | | | 0,3 | | | 0 | 0(j) | 5 |
+- Trigonella foenumgraecum (Senovka grécka) | 80 (a) | | 95 | 1,0 | 0,5 | | | 0,3 | | | 0 | 0(j) | 5 |
 
-- Vicia faba (Bôb oby- čajný) | 85 (a) (b) | | 98 | 0,5 | 0,3 | | | 0,3 | | | 0 | 0(j) | 5(n) |
+- Vicia faba (Bôb obyčajný) | 80 (a)(b) | 5 | 98 | 0,5 | 0,3 | | | 0,3 | | | 0 | 0(j) | 5(n) |
 
-- Vicia pan- nonica (Vika pa- nónska) | 85 (a) (b) | | 98 | 1,0(e) | 0,5(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) |
+- Vicia pannonica (Vika panónska) | 85 (a)(b) | 20 | 98 | 1,0(e) | 0,5(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) |
 
-- Vicia sativa (Vika siata) | 85 (a) (b) | | 98 | 1,0(e) | 0,5(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) |
+- Vicia sativa (Vika siata) | 85 (a)(b) | 20 | 98 | 1,0(e) | 0,5(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) |
 
-- Vicia villo- sa (Vika huňatá) | 85 (a) (b) | | 98 | 1,0(e) | 0,5(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) |
+- Vicia villosa (Vika huňatá) | 85 (a)(b) | 20 | 98 | 1,0(e) | 0,5(e) | | | 0,3 | | | 0(i) | 0(j) | 5(n) |
 
-- Brassica napus od- roda napo- brassica (Kvaka) | 80 (a) | | 98 | 1,0 | 0,5 | | | | 0,3 | 0,3 | 0 | 0(j)(k) | 5 |
+- Brassica napus odroda napobrassica (Kvaka) | 80 (a) | | 98 | 1,0 | 0,5 | | | | 0,3 | 0,3 | 0 | 0(j)M | 5 |
 
-- Brassica oleracea spoluodro- da acepha- la (Kel ku- čeravý) | 75 (a) | | 98 | 1,0 | 0,5 | | | | 0,3 | 0,3 | 0 | 0(j)(k) | 10 |
+- Brassica oleracea spoluodroda acephala (Kel kučeravý) | 75 (a) | | 98 | 1,0 | 0,5 | | | | 0,3 | 0,3 | 0 | 0(j)M | 10 |
 
-- Phacelia tanacetifo- lia (Facélia vratičolis- tá) | 80 (a) | | 96 | 1,0 | 0,5 | | | | | | 0 | 0(j)(k) | |
+- Phacelia tanacetifolia (Facélia vratičolistá) | 80 (a) | | 96 | 1,0 | 0,5 | | | | | | 0 | 0(j)(k) | |
 
-- Raphanus sativus druh olei- formis (Reďkev siata olej- ná) | 80 (a) | | 97 | 1,0 | 0,5 | | | | 0,3 | 0,3 | 0 | 0(j) | 5 |
+- Raphanus sativus druh oleiformis (Reďkev siata olejná) | 80 (a) | | 97 | 1,0 | 0,5 | | | | 0,3 | 0,3 | 0 | 0(j) | 5 |
 
   - B. Kritériá alebo iné podmienky uplatňované v prípade, že je na ne odkaz v tabuľke v oddieli 1 (2) (A) tejto prílohy:
 
@@ -138,11 +138,11 @@ Príloha č. 2 k nariadeniu vlády č. 270/2004 Z. z.
 
   - b) Prítomné tvrdé semená sa až do určeného maximálneho množstva považujú za semená, ktoré sú schopné klíčenia.
 
-  - c) Maximálne množstvo 0 – 8 % na váhu osiva iného druhu ako Poa (lipnica) sa nepovažuje za nečistotu.
+  - c) Maximálne množstvo 0,8 % na váhu osiva iného druhu ako Poa (lipnica) sa nepovažuje za nečistotu.
 
   - d) Maximálne množstvo 1 % na váhu semena Trifolium pratense (ďatelina lúčna) sa nepovažuje za nečistotu.
 
-  - e) Maximálne množstvo 0 – 5 % na váhu semena Lupinus albus (lupina biela), Lupinus angustifolius (lupina úzkolistá), Lupinus luteus (lupina žltá), Pisum sativum (hrach siaty), druh Vicia faba (bôb obyčajný), Vicia pannonica (vicia panónska), Vicia sativa (vika siata), Vicia villosa (vika huňatá) v iných príslušných druhoch sa nepovažuje za nečistotu.
+  - e) Maximálne množstvo 0,5 % na váhu semena Lupinus albus (lupina biela), Lupinus angustifolius (lupina úzkolistá), Lupinus luteus (lupina žltá), Pisum sativum (hrach siaty), druh Vicia faba (bôb obyčajný), Vicia pannonica (vicia panónska), Vicia sativa (vika siata), Vicia villosa (vika huňatá) v iných príslušných druhoch sa nepovažuje za nečistotu.
 
   - f) Predpísané maximálne percentuálne množstvo na váhu semena jednotlivých druhov sa neuplatňuje na semeno druhu Poa (lipnica).
 

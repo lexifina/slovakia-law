@@ -16,7 +16,7 @@ Príloha č. 4 k nariadeniu vlády č. 270/2004 Z. z.
 
   - 4. mesiac a rok balenia vyjadrený ako „balené... (mesiac a rok)“ alebo mesiac a rok posledného úradného vzorkovania na účely certifikácie vyjadrené ako „vzorkované... (mesiac a rok)“,
 
-  - 5. botanický názov druhu krmoviny, ktorý môže byť uvedený v skrátenej forme bez mien autorov,
+  - 5. botanický názov druhu krmoviny, ktorý môže byť uvedený v skrátenej forme bez mien autorov, ak ide o x Festulolium, pri rode Festuca a Lilium sa uvedú názvy druhov,
 
   - 6. názov odrody, aspoň latinský názov,
 
@@ -64,7 +64,7 @@ Príloha č. 4 k nariadeniu vlády č. 270/2004 Z. z.
 
   - 4. mesiac a rok balenia vyjadrený ako „balené... (mesiac a rok)“,
 
-  - 5. botanické názvy druhov a odrôd krmovín a hmotnostný podiel každej zložky podľa jednotlivých druhov; iba názov zmesi sa uvedie, ak percentuálne zloženie zmesi dodávateľ písomne oznámi kupujúcemu na základe dokladu kontrolného úradu,
+  - 5. botanické názvy druhov a odrôd krmovín a hmotnostný podiel každej zložky podľa jednotlivých druhov; iba názov zmesi sa uvedie, ak percentuálne zloženie zmesi dodávateľ písomne oznámi kupujúcemu na základe dokladu kontrolného úradu, ak ide o x Festulolium, pri rode Festuca a Lilium sa uvedú názvy druhov,
 
   - 6. deklarovaná hmotnosť netto alebo brutto alebo deklarovaný počet zŕn,
 
