@@ -1,17 +1,35 @@
-Príloha č. 2 vyhlášky č. 111/1993 Z. z.
+Príloha č. 3 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 53/1995 Z. z.
 
-- Podmienky výkonu posudkovej činnosti Pri výkone posudkovej činnosti dodržiava oprávnená osoba tieto podmienky:
+Náležitosti odborného posudku
 
-- 1. v čase vypracovania posudku má znalosti o súčasnom stave techniky a znalosť všeobecne záväzných právnych predpisov, technických noriem a ostatných predpisov z oblasti, pre ktorú žiada overenie odbornej spôsobilosti,
+A. Odborný posudok obsahuje tieto údaje:
 
-- 2. vydá odborný posudok v súlade s udeleným osvedčením,
+1. meno a priezvisko oprávnenej osoby,
 
-- 3. uschováva odborný posudok, jeho zmeny a doplnky, materiály a podklady dokumentujúce podmienky posudzovania a pôvodné zistenia po dobu najmenej 5 rokov od vydania odborného posudku,
+2. číslo osvedčenia,
 
-- 4. na požiadanie orgánu štátnej správy ochrany ovzdušia alebo odpadového hospodárstva odborný posudok bližšie vysvetlí,
+3. účasť ďalších subjektov na posudzovaní,
 
-- 5. zachováva s výnimkou postupu podľa bodu 4 mlčanlivosť o veciach tvoriacich obchodné a služobné tajomstvo, o ktorých sa dozvedela pri výkone posudkovej činnosti,
+4. dôvod vypracovania odborného posudku; vo veciach odpadov vrátane názvu a čísla prípadu posudzovanej činnosti podľa prílohy č. 1,
 
-- 6. nevydá odborný posudok, ak možno mať pre jej pomer k veci, k orgánom vykonávajúcim konanie, k účastníkom alebo k ich zástupcom pochybnosť o jej nezaujatosti,
+5. identifikačné údaje žiadateľa, pre ktorého je odborný posudok vypracovaný,
 
-  - 7. po ukončení roka zašle ministerstvu zoznam vydaných odborných posudkov, ktorý bude obsahovať údaje podľa bodov 4, 5, 6 a 12 prílohe č. 3 tejto vyhlášky a dátum vydania posudku; vo veciach odpadov zašle len rovnopis vydaných odborných posudkov.
+6. predmet posudzovania; vo veciach odpadov aj prehľad posudzovaných dokladov a podkladov predložených na posúdenie,
+
+7. charakteristika posudzovaného predmetu,
+
+8. postup a metódu posudzovania,
+
+9. iné dôležité skutočnosti,
+
+10. výsledok posúdenia,
+
+11. závery vyplývajúce z výsledku posúdenia,
+
+12. záver posudku (jednoznačné odporúčanie – neodporúčanie, resp. návrh podmienok súhlasu orgánu štátnej správy),
+
+13. dátum vydania posudku, podpis oprávnenej osoby; u právnickej osoby a u fyzickej osoby oprávnenej na podnikanie aj meno a podpis štatutárneho orgánu s odtlačkom pečiatky.
+
+B. Posudok má očíslované strany, počet strán sa uvedie v závere posudku. Posudok sa zviaže niťou, ktorej konce sa zapečatia, alebo sa každá strana autorizuje.
+
+C. Orgán štátnej správy, pre ktorý je posudok určený, môže upresniť požadovanú vecnú náplň odborného posudku.
