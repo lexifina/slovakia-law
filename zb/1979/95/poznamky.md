@@ -1,5 +1,9 @@
 - 1) Pojem „žiaci a učni" sa používa všade tam, kde ide jednak o žiakov uvedených v § 20 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl a jednak o učňov, ktorí uzavreli učebnú zmluvu podľa § 220 a nasl. Zákonníka práce. Pokiaľ sa úprava dotýka len učebného pomeru, používa sa pojem „učeň".
 
+- 1) Zákonné opatrenie Predsedníctva Federálneho zhromaždenia č. 7/1982 Zb. o zvýšení dôchodku a o niektorých zmenách zákona o sociálnom zabezpečení.
+
+- Nariadenie vlády ČSSR č. 9/1982 Zb. o zvýšení niektorých sociálnych dávok na deti.
+
 - 2) § 24 ods. 3 zákona č. 89/1958 Zb. o výchove dorastu na povolanie v učebnom pomere (Učňovský zákon).
 
 - 3) Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 127/1978 Zb. o školách pre mládež vyžadujúcu osobitnú starostlivosť.
@@ -10,7 +14,7 @@
 
 - 6) Za dobu pracovnej neschopnosti, počas ktorej podľa tohto ustanovenia patrí žiakom a učňom mesačná odmena, sa nemocenské neposkytuje. Peňažná pomoc v materstve sa poskytuje podľa osobitných predpisov.
 
-- 7) Ustanovenie § 5 ods. 1 nariadenia vlády ČSSR č. 151/1975 Zb. o finančnom hospodárení štátnych hospodárskych a niektorých ďalších socialistických organizácií.
+- 7) Nariadenie vlády Československej socialistickej republiky č. 161/1980 Zb. o finančnom hospodárení výrobných hospodárskych jednotiek a podnikov.
 
 - 8) Zákon č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
 
