@@ -1,0 +1,3 @@
+# Článok 1
+
+Kde sa vo všeobecne záväzných právnych predpisoch týkajúcich sa Železničnej polície Slovenskej republiky používa názov „Česká a Slovenská Federatívna Republika“, „Federálne ministerstvo dopravy“, „minister dopravy Českej a Slovenskej Federatívnej Republiky“, „Federálna železničná polícia“, „Česko-slovenské štátne dráhy“, rozumie sa tým „Slovenská republika“, „Ministerstvo dopravy, spojov a verejných prác Slovenskej republiky“, „minister dopravy, spojov a verejných prác Slovenskej republiky“, „Železničná polícia Slovenskej republiky“, „Železnice Slovenskej republiky“.
