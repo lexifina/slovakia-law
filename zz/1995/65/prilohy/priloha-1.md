@@ -1,0 +1,1 @@
+Príloha č. 1 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 65/1995 Z. z. [VZOR VEDENIA PÍSOMNEJ ČASTI VLASTNEJ EVIDENCIE LESNÝCH POZEMKOV](../assets/61c9f0f9b383ebd1dabc94682295d35efb03be01c7b8677c5be84dc8da152fef.pdf)

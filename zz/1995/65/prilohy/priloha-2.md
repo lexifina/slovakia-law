@@ -1,0 +1,1 @@
+Príloha č. 2 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 65/1995 Z. z. [VZOR VEDENIA VLASTNEJ EVIDENCIE STAVIEB SLÚŽIACICH LESNÉMU HOSPODÁRSTVU](../assets/75be5f36708720c4ac281c6a8738cb301b471fe924be363529a46d1374e25836.pdf)
