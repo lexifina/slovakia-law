@@ -36,7 +36,7 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 10. V § 87 ods. 2 sa slová „§ 167" nahrádzajú slovami „§ 169".
 
-- 11. V § 99 ods. 3 písm. h) sa čiarka nahrádza bodkočiarkou a pripájajú sa slová: „zabezpečením zúčtovania a vyrovnania takýchto obchodov sa rozumie organizovanie a prevádzkovanie systému zúčtovania a vyrovnania obchodov s finančnými nástrojmi (ďalej len „systém vyrovnania") pre aspoň troch účastníkov systému vyrovnania,".
+- 11. V § 99 ods. 3 písm. h) sa čiarka nahrádza bodkočiarkou a pripájajú sa slová: „zabezpečením zúčtovania a vyrovnania takýchto obchodov sa rozumie organizovanie a prevádzkovanie systému zúčtovania a vyrovnania obchodov s investičnými nástrojmi (ďalej len „systém vyrovnania") pre aspoň troch účastníkov systému vyrovnania,".
 
 - 12. V § 99 ods. 14 sa slová „s hodnotou nad 100 000 Sk" nahrádzajú slovami „najmenej v hodnote 15 000 EUR".
 
@@ -48,9 +48,7 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - (16)
 
-- Úrad poskytuje krajským súdom a Najvyššiemu súdu Slovenskej republiky zoznam centrálnych depozitárov a ďalších účastníkov systémov vyrovnania.
-
-- Úrad informuje komisiu o centrálnych depozitároch a ďalších účastníkoch systémov vyrovnania v rozsahu ustanovenom právne záväznými aktmi Európskych spoločenstiev a Európskej únie upravujúcimi platobné systémy a systémy vyrovnania obchodov s cennými papiermi.“.
+- Úrad poskytuje krajským súdom a Najvyššiemu súdu Slovenskej republiky zoznam centrálnych depozitárov a ďalších účastníkov systémov vyrovnania.“.
 
 - 14. V § 102 ods. 4 sa slová „písm. a) až f)" nahrádzajú slovami „písm. b) až f)".
 
@@ -97,10 +95,6 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - (7)
 
 - Ak je centrálnemu depozitárovi doručené oznámenie súdu o vyhlásení konkurzu na majetok alebo o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku účastníka systému vyrovnania, ktorý je prevádzkovaný podľa tohto zákona, centrálny depozitár je povinný túto skutočnosť bez zbytočného odkladu oznámiť všetkým ostatným účastníkom tohto systému vyrovnania.
-
-- (8)
-
-- Povinnosť podľa odseku 7 má centrálny depozitár aj v prípade doručenia oznámenia o vyhlásení konkurzu na majetok alebo o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku účastníka systému vyrovnania, ktorý je prevádzkovaný podľa tohto zákona, od orgánov členského štátu, ktoré na to boli určené v súlade s právom daného štátu.
 
 - (9)
 
