@@ -230,6 +230,18 @@ Zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení záko
 
 - 18. V § 52 ods. 5 sa slová „žiadosť o pridelenie bytu a" vypúšťajú.
 
+- 19. V § 52 sa odsek 9 dopĺňa písmenom n), ktoré znie:
+
+- „n)
+
+- odo dňa priznania príspevku na bývanie.<sup>26a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 26a znie:
+
+- „26a)
+
+- Zákon č. 370/1997 Z. z. v znení neskorších predpisov.“.
+
 - 20. § 69 sa dopĺňa odsekom 4, ktorý znie:
 
 - „(4)
