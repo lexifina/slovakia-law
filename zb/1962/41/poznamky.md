@@ -1,0 +1,1 @@
+- *) Touto vyhláškou nie je dotknutá vyhláška č. 355/1953 Ú. l. (Č. 381/1953 Ú. v.) o zbere a výkupe zberných surovín a vyhláška č. 130/1961 Zb. o povinnom odvádzaní a využití upotrebených minerálnych olejov.
