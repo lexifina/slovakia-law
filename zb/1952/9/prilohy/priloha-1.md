@@ -296,61 +296,87 @@
 
   - Cestná premávka a doprava.
 
-- Pol. | Predmet poplatku | Poplatok Kčs
+  - Poznámka k celému dielu:
 
-- 46 | Skúška na účel schválenia technickej spôsobilosti typu vozidla i s prípadným vydaním preukazu o technickej spôsobilosti typu, a to, ak ide o motorový vozík pre invalidov, motorovú trojkolku s vedením motocyklovým alebo o motocykel, ďalej o prívesný voz alebo postranný vozík v ostatných prípadoch | 1.000 3.000
+  - Poplatky podľa tohto dielu sa platia na účet orgánu, ktorý ich vyberá; poplatky vyberané dopravnými inšpektorátmi sa platia na účet okresného národného výboru (národného výboru vykonávajúceho jeho pôsobnosť) v sídle dopravného inšpektorátu.
 
-- | Poznámka: Pre sadzbu poplatku je nerozhodné, či skúška na účel schválenia technickej spôsobilosti typu bola vykonaná v jednom alebo v niekoľkých skúšobných termínoch. |
+- Pol. | Predmet poplatku | |
 
-- 47 | Zmena preukazu o technickej spôsobilosti typu | 500 až 1.000 (podľa druhu vozidla).
+- 46 | Schválenie technickej spôsobilosti typu vozidla i s vydaním preukazu o technickej spôsobilosti typu, a to, ak ide o motorový vozík pre invalidov, motorovú trojkolku s vedením motocyklovým alebo o motocykel, ďalej o príves alebo o postranný vozík v ostatných prípadoch | 200 600 |
 
-- 48 | Skúška na účel schválenia technickej spôsobilosti jednotlivého motorového vozidla, a to, ak ide o motorový vozík pre invalidov motorovú trojkolku s vedením motocyklovým alebo o motocykel v ostatných prípadoch | 50 200 350
+- 47 | Zmena preukazu o technickej spôsobilosti typu | 100 až 200 (podľa druhu vozidla). |
 
-- | Poznámky: 1. Ak sa vykoná skúška na účel schválenia technickej spôsobilosti na žiadosť strany na inom mieste než pred budovou úradného pôsobišťa skúšobného orgánu, zvýši sa celková suma poplatku vyrubeného tomu istému poplatníkovi o 200 Kčs za každý vyslaný skúšobný orgán a za každý i len začatý kalendárny deň. Ak poskytne žiadateľ skúšobnému orgánu bezodplatne vhodný dopravný prostriedok, vyberie sa zvýšenie iba polovičnou sumou (100 Kčs). Náhrada cestovných výdavkov sa nepožaduje. 2. Sadzba poplatku sa sníži o jednu pätinu, ak sa ten istý deň skúša viac motorových vozidiel toho istého vlastníka. 3. Ak sa nemôže skúška na účel schválenia technickej spôsobilosti jednotlivého motorového vozidla alebo viac motorových vozidiel toho istého vlastníka, určená na ten istý deň, dokončiť bez zavinenia skúšobného orgánu v určenom dni, vyberie sa poplatok za prvý deň skúšky plnou sadzbou (ustanovenie poznámky 2 v tomto prípade neplatí) a za každý ďalší deň polovičnou sadzbou. 4. Poplatok sa vyberie plnou sadzbou, i keď sa skúška nemôže ani začať bez zavinenia skúšobného orgánu. |
+- | | Poplatok, ak ide |
 
-- 49 | Skúška na účel schválenia technickej spôsobilosti jednotlivého prívesného voza, a to, ak ide o jednoosový prívesný voz alebo postranný vozík viacosový prívesný voz | 100 150
+- | | o automobil alebo traktor Kčs | motocykel alebo príves Kčs
 
-- | Poznámka: Poznámky 1 až 4 k pol. 48 platia obdobne. |
+- 48 | Skúška za účelom schválenia technickej spôsobilosti jednotlivého motorového vozidla alebo jednotlivého prívesu i s prípadným schválením technickej spôsobilosti | 100 | 50
 
-- 50 | Skúška na účel schválenia technickej spôsobilosti motorového vozidla alebo prívesného voza a) pre zmenu druhu pohonu b) pre iné zmeny podstatnej časti mechanizmu alebo konštrukcie vozidla, ak ide o motorový vozík pre invalidov, motorovú trojkolku s vedením motocyklovým alebo o motocykel, ďalej o prívesný voz alebo postranný vozík v ostatných prípadoch | 200 50 100
+- | Poznámky: 1. Ak sa vykoná skúška za účelom schválenia technickej spôsobilosti na žiadosť strany na inom mieste než pred budovou úradného pôsobišťa skúšobného orgánu, zvýši sa celková suma poplatku vyrubeného tomu istému poplatníkovi o 40 Kčs za každý vyslaný skúšobný orgán a za každý i začatý kalendárny deň. Ak poskytne žiadateľ skúšobnému orgánu bezplatne vhodný dopravný prostriedok, vyberie sa zvýšenie iba polovičnou sumou (20 Kčs). Náhrada cestovných výdavkov sa nepožaduje. 2. Sadzba poplatku sa sníži o jednu pätinu, ak sa ten istý deň skúša viac motorových vozidiel alebo prívesov toho istého vlastníka. 3. Ak nemôže byť skúška za účelom schválenia technickej spôsobilosti jednotlivého motorového vozidla alebo prívesu alebo viac motorových vozidiel alebo prívesov toho istého vlastníka, určená na ten istý deň, bez zavinenia skúšobného orgánu dokončená v určenom dni, vyberie sa poplatok za prvý deň skúšky plnou sadzbou (ustanovenie poznámky 2 v tom prípade neplatí) a za každý ďalší deň polovičnou sadzbou. 4. Poplatok sa vyberie plnou sadzbou, i keď sa skúška nemôže ani začať bez zavinenia skúšobného orgánu. | |
 
-- | Poznámka: Poznámka 1 k pol. 48 platí obdobne. |
+- 49 | a) Pridelenie štátnej poznávacej značky a vydanie technického preukazu a osvedčenia o technickom preukaze pre jednotlivé motorové vozidlo, a to, ak ide aa) o motocykel (i s prívesným alebo postranným vozíkom) alebo motocyklovú trojkolku (rikšu), sostavené súkromným vyrábateľom (i amatérsky) zo súčiastok patriacich celkom alebo prevažne k jednému seriove vyrábanému typu: | |
 
-- 51 | Povolenie úľavy z technických podmienok pre stavbu a premávku cestných vozidiel | 100 až 5.000 (podľa rozsahu a významu úľavy pre stranu).
+- | 1. motocykel typu Manet 90 ccm 2. motocykel typu ČZ 125 ccm 3. motocykel typu ČZ 150 ccm 4. motocykel typu Jawa 250 ccm 5. motocykel typu Jawa 350 ccm 6. motocykel typu Jawa 500 ccm 7. motocyklová trojkolka (rikša) typu Jawa 250 ccm 8. motocyklová trojkolka (rikša) typu ČZ 150 ccm 9. motocykel alebo motocyklová trojkolka (rikša) iného typu) | - - - - - - - - - | 4.000 5.000 6.000 9.000 11.000 14.000 12.000 11.000 14.000
 
-- 52 | Vydanie premávkového preukazu motorového vozidla a pridelenie poznávacej značky alebo nový zápis do doterajšieho premávkového preukazu motorového vozidla, a to, ak ide o motorový vozík pre invalidov motorovú trojkolku s vedením motocyklovým alebo o motocykel v ostatných prípadoch | 50 100 150
+- | bb) o motocykel (i s prívesným alebo postranným vozíkom) alebo motocyklovú trojkolku (rikšu), sostavené súkromným vyrábateľom (i amatérsky) zo súčiastok nepatriacich celkom alebo prevažne k jednému seriove vyrábanému typu | - | 14.000
 
-- 53 | Vydanie premávkového preukazu prívesného voza a pridelenie popisnej značky pre prívesné vozy alebo nový zápis do terajšieho premávkového preukazu prívesného voza | 100
+- | cc) o prívesný vozík sostavený súkromným vyrábateľom (i amatérsky) | - | 3.000
 
-- 54 | Vyhotovenie premávkového preukazu náhradou za preukaz stratený (i s prípadným verejným vyhlásením listiny za neplatnú), zničený alebo za preukaz, ktorý sa stal neupotrebiteľným | 100
+- | dd) o osobný automobil, dodávkový automobil zariadený aj na dopravu osôb (napr. Station-Wagon) alebo o tzv. ľudové vozidielko, ak je úradná odhadná cena vyššia než nákupná cena súčiastok, z ktorých je vozidlo súkromným vyrábateľom (i amatérsky) sostavené | vo výške rozdielu medzi odhadnou cenou vozidla v kompletnom stave, zistenou bezprostredne pred vykonaním skúšky za účelom schválenia jeho technickej spôsobilosti a nákupnou cenou súčiastok, najmenej však 30 Kčs; |
 
-- | Poznámka: Viď poznámku 2 k celému sadzobníku. |
+- | b) pridelenie štátnej poznávacej značky a vydanie technického preukazu a osvedčenia o technickom preukaze v iných než pod písm. a) uvedených prípadoch | 30 | 20
 
-- 55 | Vydanie zvláštneho premávkového preukazu |
+- | Poznámka: Pri určení poplatku podľa písm. a) dd) sa neprihliada na hodnotu práce súkromného vyrábateľa, vynaloženej na sostavenie jednotlivého motorového vozidla. Poplatník je povinný preukázať nákupnú cenu súčiastok použitých na sostavenie motorového vozidla. | |
 
-- | a) pre motorové vozidlo i s pridelením zvláštnej poznávacej značky | 500 až 3.000 (podľa očakávaného rozsahu použitia preukazu);
+- 50 | Schválenie technickej spôsobilosti | |
 
-- | b) pre prívesný voz | 250 až 1.500 (podľa očakávaného rozsahu použitia preukazu).
+- | a) motorového vozidla určeného na dopravu osôb v dopravnom podnikaní b) nákladného automobilu pre hromadnú dopravu osôb c) častí motorového vozidla, vyrábaných hromadne alebo jednotlive d) motorového vozidla alebo prívesu po zmene jeho podstatných častí, a to | 50 20 20 | - - 20
 
-- 56 | Vydanie typového osvedčenia motorového vozidla alebo prívesného voza, a to pre motorový vozík pre invalidov, motorovú trojkolku s vedením motocyklovým alebo pre motocykel, ďalej pre jednoosový prívesný voz alebo pre postranný vozík v ostatných prípadoch | 100 200
+- | aa) ak záleží zmena v prestavbe dodávkového automobilu na automobil osobný alebo automobil dodávkový zariadený aj na dopravu osôb bb) v iných než pod písm. aa) uvedených prípadoch | podľa pol. 49 písm. a) dd), zvýšený o 60 %; 200 | 140
 
-- | Poznámka: Poplatok sa platí zakúpením tlačiva. |
+- | Poznámka k písm. d) aa): Ustanovenie poznámky k pol. 49 platí obdobne. | |
 
-- 57 | Zápis do typového osvedčenia alebo premávkového preukazu, ak ide o zmenu, ktorá nevyžaduje schválenie technickej spôsobilosti (napr. zmena stanovišťa vozidla, zmena mena alebo bydliska držiteľa) | 20
+- 51 | Povolenie výnimiek z ustanovení o rozmeroch, výstroji a premávkových podmienkach motorových vozidiel alebo prívesov | 20 až 1 000 | 20 až 1 000
 
-- 58 | Povolenie na užívanie verejných ciest na premávku nad obvyklú mieru | 100 až 5.000 (podľa rozsahu a významu povolenia pre stranu).
+- 52 | Pridelenie zvláštnej poznávacej značky alebo medzinárodnej poznávacej značky | 50 | 30
 
-- 59 | Povolenie dopravovať osoby a veci pre cudzie potreby, pokiaľ nejde o úradný rozkaz | 100 až 1.000 (podľa rozsahu).
+- 53 | Pridelenie novej štátnej poznávacej značky náhradou za značku stratenú, zničenú alebo poškodenú ak ide o nezavinenú stratu, zničenie alebo poškodenie | 300 150 | 300 150
 
-- 60 | a) Vydanie medzinárodného preukazu (osvedčenia) pre motorové vozidlá b) vidovanie medzinárodného preukazu (osvedčenia) pre motorové vozidlá, vydaného oprávnenou organizáciou | 500 100
+- 54 | Vydanie nového a) technického preukazu náhradou za preukaz stratený, zničený alebo za preukaz, ktorý sa stal neupotrebiteľným ak ide o nezavinenú stratu, zničenie alebo neupotrebiteľnosť b) osvedčenie o technickom preukaze náhradou za osvedčenie stratené, zničené alebo za osvedčenie, ktoré sa stalo neupotrebiteľným ak ide o nezavinenú stratu, zničenie alebo neupotrebiteľnosť | 200 100 50 25 | 200 100 50 25
 
-- 61 | Povolenie na cestu cudzozemským motorovým vozidlom, ktoré nie je opatrené medzinárodným preukazom (osvedčením) pre motorové vozidlá | 200
+- 55 | Zápis nového držiteľa motorového vozidla alebo prívesu (i s vykonaním opráv v príslušných dokladoch) a) po prevode opotrebovaného osobného automobila prvým prevodcom b) v iných než pod písm. a) uvedených prípadoch | 50 % úradnej odhadnej ceny automobila v kompletnom stave, zistenej bezprostredne pred prevodom; 10 | 10
 
-- 62 | a) Vydanie medzinárodného vodičského preukazu (povolenia viesť vozidlo) b) doplnenie medzinárodného vodičského preukazu (povolenia viesť vozidlo) alebo vidovanie medzinárodného vodičského preukazu (povolenia viesť vozidlo), vydaného oprávnenou organizáciou | 200 100
+- | Poznámky k písm. a): 1. Opotrebovaným osobným automobilom sa rozumie osobný automobil alebo podvozok (chassis) dodatočne opatrený osobnou karoseriou, nadobudnutý pred 1. januárom 1949, i keď sa pred týmto dňom nepoužil automobil alebo podvozok na jazdu. Opotrebovaný osobný automobil prestavaný po 21. júli 1950 na automobil dodávkový považuje sa pre vybranie poplatku za automobil osobný, ak bol po prevode opäť upravený na automobil osobný. 2. Prvým prevodcom sa rozumie ten, kto automobil, ktorého je držiteľom od 1. januára 1949, prevedie po 31. júli 1953. Pre určenie, či prevodca je držiteľom automobila od 1. januára 1949, poprípade pre určenie dňa nadobudnutia automobila jeho prevodcom sú rozhodné údaje zaznamenané v dokladoch vydaných podľa predpisov o premávke na cestách. Pri opotrebovaných automobiloch nadobudnutých po 31. júli 1953 dedičstvom, považuje sa za prvého prevodcu ten, kto automobil ďalej prevedie. 3. Poplatok sa neplatí za zápis nového držiteľa, ktorý opotrebovaný automobil nadobudol dedičstvom; v tom prípade sa platí len poplatok podľa písm. b). 4. Poplatok je povinný zaplatiť doterajší držiteľ pri ohlásení prevodu. 5. Pri bojových vozidlách (KDF, Jeep. a pod.) sa poplatok snižuje o 30 %. | |
 
-- 63 | Povolenie na prevádzanie dopravy osôb alebo nákladov motorovými vozidlami, udelené zahraničnému podnikateľovi | 100 až 50.000 (podľa rozsahu dopravy a podľa zásady vzájomnosti).
+- 56 | Zápis zmeny stanovišťa vozidla alebo zmeny adresy a pod. (i s vykonaním opráv v príslušných dokladoch) | 10 | 10
 
-- | Poznámka: Správny orgán môže od vybratia poplatku podľa tejto položky upustiť. |
+- 57 | Odhlásenie vozidla z evidencie pri trvalom premiestení (i s vydaním dočasnej štátnej poznávacej značky) alebo pri trvalom vyradení vozidla z premávky | 30 | 20
+
+- 58 | Zápis motorového vozidla alebo prívesu pri trvalom premiestení i s pridelením novej štátnej poznávacej značky a vydaním opraveného technického preukazu a osvedčenia o technickom preukaze | 30 | 20
+
+- 59 | Schválenie trvalého vyradenia motorového vozidla alebo prívesu z premávky | 100 | 70
+
+- 60 | Nariadená technická prehliadka vozidla | 40 | 30
+
+- | | Poplatok Kčs |
+
+- 61 | Povolenie na zvláštne užívanie verejných ciest na premávku nad obvyklú mieru | 20 až 1 000 (podľa rozsahu a významu povolenia pre stranu) |
+
+- 62 | a) Vydanie medzinárodného preukazu (osvedčenia) pre motorové vozidlá | 100 |
+
+- | b) vidovanie medzinárodného preukazu (osvedčenia) pre motorové vozidlá, vydaného oprávnenou organizáciou | 20 |
+
+- 63 | Povolenie na cestovanie cudzozemským motorovým vozidlom, ktoré nie je opatrené medzinárodným preukazom (osvedčením) pre motorové vozidlá | 40 |
+
+- 63a) | a) Vydanie medzinárodného vodičského preukazu (povolenia viesť vozidlo) | 40 |
+
+- | b) doplnenie medzinárodného vodičského preukazu (povolenia viesť vozidlo) alebo vidovanie medzinárodného vodičského preukazu (povolenia viesť vozidlo), vydaného oprávnenou organizáciou | 20 |
+
+- 63b) | Povolenie dopravovať osoby alebo veci pre cudzie potreby, pokiaľ nejde o úradný rozkaz | 20 až 200 (podľa rozsahu) |
+
+- 63c) | Povolenie na prevádzanie dopravy osôb alebo nákladov motorovými vozidlami, udelené zahraničnému podnikateľovi | 20 až 10.000 (podľa rozsahu dopravy a podľa zásady vzájomnosti). |
+
+- | Poznámka: Správny orgán môže od vybratia poplatku podľa tejto položky upustiť. | |
 
   - Diel H.
 
@@ -1480,21 +1506,15 @@
 
 - 3 | Označenie tovaru platinového, zlatého alebo strieborného číslom vyznačujúcim rýdzosť alebo označenie nepravých súčastí uvedeného tovaru značkou „Metal" alebo označenie uvedeného tovaru vývoznou značkou, za každý označený samostatný kus | 2 ak ide o tovar platinový alebo zlatý a 1 ak ide o tovar strieborný.
 
-- 4 | Určenie rýdzosti drahých kovov a ich sliatin chemickým rozborom na žiadosť strany, a to určenie striebra podľa Volharda určenie striebra podľa Gay-Lussaca určenie striebra kupeláciou určenie striebra vážkove približné určenie striebra na prubírskom kameni, za jedno vyskúšanie určenie zlata kupeláciou určenie zlata na mokrej ceste približné určenie zlata na prubírskom kameni, za jedno vyskúšanie určenie zlata a striebra kupeláciou určenie platiny alebo platiny a zlata kupeláciou určenie platiny na mokrej ceste určenie platiny, zlata a striebra kupeláciou približné určenie platiny na prubírskom kameni, za jedno vyskúšanie určenie paládia určenie ostatných platinových kovov po | 65 80 80 150 10 150 200 20 200 350 350 400 30 200 400
+- 4 | Určenie rýdzosti drahých kovov a ich sliatin chemickým rozborom na žiadosť strany, a to určenie striebra podľa Volharda určenie striebra podľa Gay-Lussaca určenie striebra kupeláciou určenie striebra skúškou z téglika určenie striebra vážením približné určenie striebra na skúšobnom kameni, za jedno vyskúšanie určenie zlata kupeláciou určenie zlata na mokrej ceste približné určenie zlata na skúšobnom kameni, za jedno vyskúšanie určenie zlata a striebra kupeláciou určenie platiny alebo platiny a zlata alebo platiny, zlata a striebra kupeláciou určenie platiny na mokrej ceste približné určenie platiny na skúšobnom kameni, za jedno vyskúšanie určenie ostatných platinových kovov, po | 6 12 6 12 18 2 18 28 4 22 60 60 6 70
 
 - | Poznámka: Za definitívne vyskúšanie rýdzosti predmetu, vykonané na žiadosť strany vyšším kontrolným orgánom, vyberie sa dvojnásobný poplatok, ak sa zistí definitívnym vyskúšaním, že rýdzosť predmetu je nezákonná. |
 
-- 5 | Skúšanie rúd, odpadkov a iných surovín chemických rozborom na žiadosť strany, a to troskovacia skúška na striebro troskovacia skúška na zlato troskovacia skúška na zlato a striebro troskovacia skúška na platinu, zlato a striebro troskovacia skúška na ostatné platinové kovy po | 120 200 270 500 450
+- 5 | Skúšanie rúd, odpadkov a iných surovín chemickým rozborom na žiadosť strany, a to určenie striebra určenie zlata určenie zlata a striebra určenie platiny alebo platiny a zlata alebo platiny, zlata a striebra určenie ostatných platinových kovov, po | 24 40 54 80 80
 
-- | Poznámka: Za téglikovú skúšku sa poplatok zvyšuje o 60 Kčs. |
+- 6 | Výmena a spracovanie sliatin drahých kovov na rýdze drahé kovy, a to a) za 1 kg vylúčeného rýdzeho striebra pri sliatinách rýdzosti do 499/1 000 striebra pri sliatinách rýdzosti 500/1 000 a vyššie striebra pri strieborných kaloch b) za 1 kg vylúčeného rýdzeho zlata pri sliatinách rýdzosti do 10/1 000 zlata pri sliatinách rýdzosti 11 až 300/1 000 zlata pri sliatinách rýdzosti nad 300/1 000 zlata c) pri sliatinách s obsahom platiny a platinových kovov za 1 kg vylúčenej rýdzej platiny za 1 kg vylúčeného iného rýdzeho platinového kovu | 72 46 63 600 500 400 2.000 2.400
 
-- 6 | Výmena a spracovanie zlatých a strieborných sliatin na rýdze zlato a striebro na žiadosť strany, a to a) pri strieborných sliatinách rýdzosti nad 500/1 000 za 1 kg vylúčeného rýdzeho striebra za zlato v sliatine: do 10/1000 za 1 kg vylúčeného rýdzeho zlata od 11-500/1000 za 1 kg vylúčeného rýdzeho zlata | 300 25.000 10.000
-
-- | b) pri zlatých sliatinách rýdzosti nad 500/1 000 za 1 kg vylúčeného rýdzeho zlata za striebro v sliatine za 1 kg vylúčeného rýdzeho striebra | 5.000 600
-
-- | c) pri ostatných sliatinách s obsahom zlata a striebra za 1 kg vylúčeného rýdzeho striebra za 1 kg vylúčeného rýdzeho zlata | 600 10.000
-
-- | Poznámka: V poplatkoch za spracovanie zlatých a strieborných sliatin sú zahrnuté výdavky spojené s ich tavením. Za určenie rýdzosti sliatin sa vyberajú poplatky podľa pol. 4. |
+- | Poznámka: V poplatkoch za spracovanie sliatin drahých kovov sú zahrnuté výdavky spojené s ich tavením. Za určenie rýdzosti sliatin sa vyberajú poplatky podľa pol. 4. |
 
 - 7 | Skúšanie a úradné označovanie sliatkov na žiadosť strany, a to za 1 kg hrubej váhy sliatkov: strieborných s obsahom zlata do 100/1 000 s obsahom zlata od 101-500/1 000 s obsahom zlata nad 500/1 000 s obsahom platiny alebo platinových kovov | 80 200 260 300 500 najmenej však pri strieborných sliatkoch 50 Kčs, pri sliatkoch s obsahom zlata 100 Kčs a pri sliatkoch s obsahom platiny alebo platinových kovov 200 Kčs.
 
