@@ -498,11 +498,11 @@ Príloha č. 2 k nariadeniu vlády č. 298/2003 Z. z.
 
   - 2. Na účely podľa bodu 1 musia byť na obale, alebo ak ide o nebalený produkt, v sprievodnom dokumente uvedené tieto informácie:
 
-    - a) krajina odoslania, uvedená plným názvom alebo skratkou s použitím veľkých písmen podľa smernice Európskych spoločenstiev uvedenej v prílohe č. 1 bode 1; ak ide o Slovenskú republiku, skratkou: „SK“; prevádzkarne, na ktoré sa vzťahujú dočasné výnimky z plnenia hygienických podmienok podľa osobitného predpisu,<sup>13</sup>) nepoužívajú túto skratku až do schválenia prevádzkarne príslušným orgánom veterinárnej správy,<sup>14</sup>)
+    - a) krajina odoslania uvedená plným názvom alebo skratkou s použitím veľkých písmen, ak ide o Slovenskú republiku slovami: „SLOVENSKÁ REPUBLIKA" alebo skratkou: „SK";
 
-    - b) identifikácia prevádzkarne alebo lodnej továrne jej úradným schvaľovacím číslom, alebo, ak ide o predaj z mraziarenskej lode, na ktorú sa vzťahuje príloha č. 3 časť C bod 7, identifikačným číslom tejto lode, alebo ak ide o samostatnú registráciu aukčného alebo veľkoobchodného trhu podľa § 7 ods. 3, registračným číslom tohto aukčného alebo veľkoobchodného trhu; prevádzkarne, na ktoré sa vzťahujú dočasné výnimky z plnenia hygienických podmienok podľa osobitného predpisu,<sup>13</sup>) používajú až do schválenia prevádzkarne príslušným orgánom veterinárnej správy<sup>14</sup>) veterinárne kontrolné číslo, ktoré obsahuje skratku názvu okresu,<sup>15</sup>) a kontrolné číslo prevádzkarne pridelené príslušným orgánom veterinárnej správy,<sup>16</sup>)
+    - b) identifikácia prevádzkarne alebo lodnej továrne jej úradným schvaľovacím číslom, alebo, ak ide o predaj z mraziarenskej lode, na ktorú sa vzťahuje príloha č. 3 časť C bod 7, identifikačným číslom tejto lode, alebo ak ide o samostatnú registráciu aukčného alebo veľkoobchodného trhu podľa § 7 ods. 3, registračným číslom tohto aukčného alebo veľkoobchodného trhu;
 
-    - c) jedna zo skratiek názvu Európskych spoločenstiev podľa smernice Európskych spoločenstiev uvedenej v prílohe č. 1 bode 1; skratka „ES“ sa pre produkty rybolovu pochádzajúce zo Slovenskej republiky použije až po dni platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii.
+    - c) skratka „ES" pre produkty rybolovu pochádzajúce zo Slovenskej republiky,
 
   - 3. Všetky písmená a číslice označenia podľa bodu 2 musia byť úplne čitateľné a združené na obale na mieste, kde sú viditeľné z vonkajšej strany bez toho, aby bolo potrebné otvárať uvedený obal.
 
@@ -529,39 +529,3 @@ Príloha č. 2 k nariadeniu vlády č. 298/2003 Z. z.
   - 6. Produkty rybolovu sa nesmú prepravovať vo vozidle alebo kontajneri, ktorý nie je čistý alebo ktorý nebol vydezinfikovaný.
 
   - 7. Podmienky prepravy produktov rybolovu, ktoré sú určené na uvádzanie na trh v živom stave, nesmú negatívne ovplyvňovať tieto produkty.
-
-- ČASŤ I USTANOVENIA PRÍLOHY Č. 2, Z KTORÝCH MOŽNO POVOLIŤ PREVÁDZKARNIAM PODĽA § 7 ODS. 4 VÝNIMKY DO 31. DECEMBRA 2006 A PODMIENKY, KTORÉ SA MUSIA V PRÍPADE TÝCHTO VÝNIMIEK SPLNIŤ Prevádzkarni uvedenej v § 7 ods. 4 môže príslušný orgán veterinárnej správy<sup>18</sup>) povoliť do 31. decembra 2006 výnimky z týchto podmienok uvedených:
-
-  - 1. v časti C bode I
-
-  - 1.1. bod I. 1., s podmienkou, že hotové výrobky nemôžu byť kontaminované surovinami alebo odpadom,
-
-  - 1.2. bod I. 2. písm. a) s podmienkou, že sa podlaha dôkladne čistí a dezinfikuje,
-
-  - 1.3. bod I. 2. písm. b) s podmienkou, že sú steny udržiavané v čistote,
-
-  - 1.4. bod I. 2. písm. c) s podmienkou, že strop nie je zdrojom kontaminácie,
-
-  - 1.5. bod I. 2. písm. d),
-
-  - 1.6. bod I. 2. písm. e) s podmienkou, že sa produkty nemôžu skaziť alebo kontaminovať parou,
-
-  - 1.7. bod I. 2. písm. g) s podmienkou, že zamestnanci majú k dispozícii zariadenia na umývanie rúk,
-
-  - 1.8. bod I. 3.,
-
-  - 1.9. bod I. 5., pokiaľ sa vzťahuje na nehrdzavejúce materiály a s podmienkou, že nástroje a pracovné zariadenia sú udržiavané v čistote,
-
-  - 1.10. bod I. 6. s podmienkou, že produkty nemôžu byť kontaminované odpadom alebo jeho vytekaním,
-
-  - 1.11. bod I. 10.,
-
-  - 2. v časti D
-
-  - 2.1. bod I. 1. s ohľadom na požiadavku, aby boli produkty preberané a umiestnené v chladiarni prevádzkarne s podmienkou, že sú tieto produkty preľadované tak často, ako je to potrebné po čas nepresahujúci 12 hodín alebo, že sa môže použiť chladiareň v blízkosti prevádzkarne, ktorá nepatrí k prevádzkarni,
-
-  - 2.2. bod I. 6. s ohľadom na požiadavku, aby bol odpad umiestnený do nepriepustných zakrytých kontajnerov s podmienkou, že produkty nemôžu byť kontaminované odpadom, ani jeho vytekaním,
-
-  - 2.3. bod IV. 5. písm. a) s podmienkou, že sú prijaté všetky opatrenia, ktorými sa zabráni, aby boli produkty rybolovu, ktoré sa upravujú alebo skladujú ovplyvnené dymom,
-
-  - 2.4. oddiel IV. bod 6. písm. a) s podmienkou, že produkty rybolovu, ktoré sa upravujú alebo skladujú, nie sú ovplyvnené operáciami pri solení.

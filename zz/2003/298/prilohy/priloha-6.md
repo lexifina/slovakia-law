@@ -16,7 +16,7 @@ Príloha č. 6 k nariadeniu vlády č. 298/2003 Z. z.
 
     - c) možno zbierať, ale uvádzať na trh ich možno až po dlhodobom sádkovaní najmenej dva mesiace či už spojenom, alebo nespojenom s purifikáciou alebo po intenzívnej purifikácii tak, aby sa dosiahlo splnenie požiadaviek podľa písmena a); v živých lastúrnikoch z týchto oblastí sa nesmie prekročiť limit 60 000 fekálnych koliformných baktérií v 100 g mäsa, zistených 5–skúmavkovým MPN testom s tromi riedeniami.
 
-  - 2. Všetky zmeny v ohraničení produkčných oblastí a ich dočasné uzavretie alebo ich trvalé uzavretie s konečnou platnosťou musí príslušný orgán ihneď oznámiť všetkým osobám dotknutým týmto nariadením, a najmä producentom a prevádzkovateľom purifikačných a expedičných stredísk.
+  - 2. Všetky zmeny v ohraničení produkčných oblastí a ich dočasné uzavretie alebo ich trvalé uzavretie s konečnou platnosťou musí príslušný orgán ihneď oznámiť všetkým osobám dotknutým treťou časťou tohto nariadenia, a najmä producentom a prevádzkovateľom purifikačných a expedičných stredísk.
 
 - ČASŤ B POŽIADAVKY NA ZBER A PREPRAVU DÁVOK ŽIVÝCH LASTÚRNIKOV DO EXPEDIČNÉHO STREDISKA ALEBO PURIFIKAČNÉHO STREDISKA, SÁDKOVACEJ OBLASTI ALEBO DO SPRACOVATEĽSKEJ PREVÁDZKARNE
 
@@ -56,7 +56,7 @@ Príloha č. 6 k nariadeniu vlády č. 298/2003 Z. z.
 
   - 3. Živé lastúrniky nemožno sádkovať v takej hustote, ktorá neumožňuje ich purifikáciu.
 
-  - 4. Živé lastúrniky sa musia v sádkovacej oblasti ponoriť do morskej vody na dostatočný čas, ktorý musí s ohľadom na skutočnosť, že sa musia dodržať štandardy podľa časti E, prekračovať čas stanovený na redukciu počtov fekálnych baktérií na počty povolené týmto nariadením.
+  - 4. Živé lastúrniky sa musia v sádkovacej oblasti ponoriť do morskej vody na dostatočný čas, ktorý musí s ohľadom na skutočnosť, že sa musia dodržať štandardy podľa časti E, prekračovať čas stanovený na redukciu počtov fekálnych baktérií na počty povolené treťou časťou tohto nariadenia.
 
   - 5. Ak je to potrebné, musí príslušný orgán určiť a oznámiť pre každý druh živých lastúrnikov a pre schválenú sádkovaciu oblasť minimálnu teplotu vody na účinné sádkovanie.
 
