@@ -1,1 +1,0 @@
-- 1) Napr. § 29 zákona č. 21/1992 Zb. o bankách, § 20 zákona č. 563/1991 Zb. o účtovníctve, § 50a zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
