@@ -1,0 +1,3 @@
+Minister:
+
+Obzina v. r.
