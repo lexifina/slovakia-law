@@ -18,7 +18,7 @@
 
 (9) Ak je príjem občana s ťažkým zdravotným postihnutím vyšší ako 1,2-násobok sumy životného minima pre plnoletú fyzickú osobu podľa osobitného predpisu,<sup>36</sup>) peňažný príspevok za opatrovanie zistený podľa odsekov 5 až 8 sa kráti o sumu prevyšujúcu tento príjem. Ak je občanom s ťažkým zdravotným postihnutím nezaopatrené dieťa,<sup>44</sup>) peňažný príspevok za opatrovanie sa kráti o sumu, ktorou príjem občana s ťažkým zdravotným postihnutím prevyšuje 3-násobok sumy životného minima pre plnoletú fyzickú osobu podľa osobitného predpisu.<sup>36</sup>) Ak majetok a úspory občana s ťažkým zdravotným postihnutím presahujú sumu uvedenú v § 58 ods. 13, peňažný príspevok za opatrovanie sa fyzickej osobe uvedenej v odseku 2 neposkytne. Na zisťovanie príjmu, preukazovanie príjmu a prehodnocovanie príjmu platí § 58 ods. 13 a 14 rovnako.
 
-(10) Peňažný príspevok možno poskytnúť, len ak fyzická osoba uvedená v odseku 2 nemá v čase opatrovania občana odkázaného na opatrovanie mesačný príjem podľa osobitného predpisu<sup>44a</sup>) presahujúci 0,6-násobok sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom.<sup>36</sup>)
+(10) Peňažný príspevok možno poskytnúť, len ak fyzická osoba uvedená v odseku 2 nemá v čase opatrovania občana odkázaného na opatrovanie mesačný príjem podľa osobitného predpisu<sup>44a</sup>) presahujúci dvojnásobok sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom.<sup>36</sup>)
 
 (11) Ak je občan s ťažkým zdravotným postihnutím odkázaný na opatrovanie fyzickou osobou uvedenou v odseku 2 poberateľom zvýšenia dôchodku pre bezvládnosť, peňažný príspevok za opatrovanie zistený podľa odsekov 5 až 9 sa zníži o sumu zvýšenia dôchodku pre bezvládnosť.
 
