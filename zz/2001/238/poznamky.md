@@ -18,6 +18,8 @@
 
 - 9) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
+- 9a) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 10) Napríklad vyhláška Ministerstva hospodárstva Slovenskej republiky č. 15/1998 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb v znení neskorších predpisov.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
@@ -124,6 +126,8 @@
 
 - 60) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
+- 60a) § 358 až 364 Obchodného zákonníka.§ 580 a 581 Občianskeho zákonníka.
+
 - 60b) § 71 a 71a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 61) § 73 až 94 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
@@ -147,6 +151,10 @@
 - 70) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 71) Zákon č. 99/1963 Zb. Občiansky súdny poriadok vznení neskorších predpisov.
+
+- 72) § 7 ods. 4 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
+
+- 73) § 524 až 530 Občianskeho zákonníka.
 
 - 1) Ak sa používa táto pečiatka v rozsahu podľa § 148, týka sa len schváleného vývozcu.
 
