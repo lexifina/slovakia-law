@@ -1,0 +1,7 @@
+# Článok 5 Vyvlastnenie
+
+- 1. Investície investorov štátu ktorejkoľvek zmluvnej strany nebudú znárodnené, vyvlastnené alebo podrobené opatreniam majúcim rovnaký účinok ako znárodnenie alebo vyvlastnenie (ďalej len „vyvlastnenie“) na území štátu druhej zmluvnej strany s výnimkou verejného záujmu. Vyvlastnenie sa vykoná len na základe zákona, na nediskriminačnom základe a budú ho sprevádzať ustanovenia o zaplatení okamžitej primeranej a reálnej náhrady. Takáto náhrada bude zodpovedať trhovej hodnote vyvlastnených investícií bezprostredne pred vyvlastnením alebo hodnote v čase, keď sa budúce vyvlastnenie stalo verejne známe, podľa toho, čo nastalo skôr, bude zahŕňať úrok v trhovom výmennom kurze odo dňa vyvlastnenia, vykoná sa bez meškania, bude účinne realizovateľná a voľne prevoditeľná vo voľne zameniteľnej mene.
+
+- 2. Dotknutý investor má právo na urýchlené preskúmanie svojho prípadu a ohodnotenie svojej investície súdnym alebo iným nezávislým orgánom štátu zmluvnej strany v súlade s princípmi uvedenými v tomto článku.
+
+- 3. Ak štát zmluvnej strany vyvlastní aktíva spoločnosti, ktorá bola zaregistrovaná alebo zriadená v súlade s právnym poriadkom platným na území jej štátu a v ktorej investori štátu druhej zmluvnej strany vlastnia podiely, táto zmluvná strana zaistí, že ustanovenia tohto článku sa budú aplikovať do tej miery, aby sa zabezpečila investorom druhej zmluvnej strany vlastniacim takéto podiely okamžitá primeraná a účinná náhrada vo vzťahu k ich investíciám.
