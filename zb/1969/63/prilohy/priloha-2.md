@@ -1,3 +1,0 @@
-Príloha č. 2
-
-- HRANIČNÝ PREUKAZ [Vzor 02](../assets/637bae27e315292c39933986e28f11d515161e29dc6062066b3ec30c709ae785.pdf)
