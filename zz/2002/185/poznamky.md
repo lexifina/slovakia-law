@@ -1,5 +1,9 @@
 - 1) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
+- 1a) Trestný zákon v znení neskorších predpisov.
+
+- 1b) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+
 - 2) Čl. 141a ods. 4 písm. g) Ústavy Slovenskej republiky.
 
 - 3) § 58 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
