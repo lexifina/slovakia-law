@@ -38,6 +38,12 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
 
         - 09-72-2 tesár
 
+      - 2c) v organizáciách riadených Federálnym ministerstvom hutníctva a ťažkého strojárstva, Federálnym ministerstvom všeobecného strojárstva a Federálnym ministerstvom elektrotechnického priemyslu
+
+        - 03-71-2 zlievač
+
+        - 03-72-2 strojový kováč
+
   - b) Učebné odbory vo vybraných organizáciách určené so zreteľom na plánované mimoriadne medzi - oblastné presuny žiakov a učňov
 
     - [pokiaľ nie sú zvýhodnené podľa bodu a)]
@@ -226,6 +232,8 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
 
     - [pokiaľ nie sú zvýhodnené podľa časti a) alebo b)]
 
+    - ca)
+
     - 01-61-2 strojník s odborným zameraním na poľnohospodársku výrobu
 
     - 01-62-2 strojník s odborným zameraním na výrobu krmív a úpravu plodín
@@ -395,3 +403,23 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
     - 55-63-2 protetik s odborným zameraním na obuv
 
     - 64-53-2 knihár (len pre organizácie riadené Ministerstvom priemyslu SSR)
+
+  - cb) V organizáciách miestneho hospodárstva a služieb riadených národnými výbormi a v organizáciách výrobného družstevníctva
+
+    - 03-12-2 mechanik-opravár s odborným zameraním na vážiace zariadenia
+
+    - 03-16-2 mechanik-opravár s odborným zameraním na plynárenské zariadenia
+
+    - 03-18-2 mechanik-opravár s odborným zameraním na zdvíhacie zariadenia
+
+    - 03-21-2 mechanik-opravár s odborným zameraním na chladiarenské zariadenia
+
+    - 08-83-2 čalúnnik
+
+    - 07-72-2 krajčír s odborným zameraním na pánske odevy
+
+    - 08-52-2 kožušník s odborným zameraním na šitie a opravy kožušinových výrobkov
+
+    - 09-42-2 kamenár s odborným zameraním na umelecké remeselné práce
+
+    - 64-53-2 knihár
