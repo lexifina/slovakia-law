@@ -1,1 +1,0 @@
-- 1) § 49 ods. 11 zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
