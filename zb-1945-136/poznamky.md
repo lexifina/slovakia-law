@@ -1,0 +1,1 @@
+- *) Uveřejněno v roč. V., č. 2 Úsředního věstníku československého, vydaného v Londýně dne 29. září 1944.
