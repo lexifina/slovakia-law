@@ -1,0 +1,3 @@
+Príloha k zákonu č. 271/2001 Z. z.
+
+- VZOR ŽIADOSTI O PRIJATIE OPATRENIA [vzor 01](../assets/9c53533ed3e41fa1e39d1be28929109d08fef76215736daf292c50447f9686e1.pdf)
