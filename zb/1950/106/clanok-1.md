@@ -201,7 +201,3 @@ Dekrét prezidenta republiky č. 100/1945 Sb., o znárodnení baní a niektorýc
   - (1) Výťažky (dôchodky) dosiahnuté zo znárodneného podniku až do dňa prevzatia sú súčiastkou základu pre vyrubenie dane dôchodkovej, všeobecnej i zvláštnej dane zárobkovej a dane rentovej posledného vlastníka znárodneného podniku pred jeho znárodnením.
 
   - (2) Znárodnený podnik má v odbore dani z obratu a cenových vyrovnávacích súm postavenie daňovníka dane z obratu do dňa, ktorým bolo vydané opatrenie o jeho prevzatí."
-
-- „§ 4.“.
-
-- „§ 6.“.
