@@ -26,8 +26,6 @@
 
 - § 21 nariadenia vlády ČSSR č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce, v znení nariadenia vlády ČSFR č. 13/1991 Zb.
 
-- 11) § 33 zákona č. 88/1968 Zb. v znení neskorších predpisov.
-
 - 12) Zákon č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce.
 
 - 13) Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
