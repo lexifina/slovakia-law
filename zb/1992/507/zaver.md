@@ -1,0 +1,3 @@
+Ministerka:
+
+Tóthová v. r.

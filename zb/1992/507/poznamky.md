@@ -1,0 +1,1 @@
+- 1) § 35 až 43 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
