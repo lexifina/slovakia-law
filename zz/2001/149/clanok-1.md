@@ -2,6 +2,18 @@
 
 Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona Národnej rady Slovenskej republiky č. 26/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z. a zákona č. 348/1999 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 1 sa slová „emisná banka“ nahrádzajú slovami „nezávislá centrálna banka“.
+
+- 2. V § 1 odsek 3 znie:
+
+- „(3) Národná banka Slovenska v rozsahu svojej pôsobnosti vydáva všeobecne záväzné právne predpisy, ak to ustanovuje tento zákon alebo osobitný zákon;<sup>1</sup>) všeobecne záväzné právne predpisy Národnej banky Slovenska sa vyhlasujú v Zbierke zákonov Slovenskej republiky (ďalej len „zbierka zákonov“).<sup>3</sup>) Národná banka Slovenska vedie konania a vydáva rozhodnutia, ak to ustanovuje tento zákon alebo osobitný zákon.<sup>1</sup>)
+
+- Poznámka pod čiarou k odkazu 1 znie:
+
+- „1)
+
+- Napríklad zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.“.
+
 - 3. V § 2 prvá veta znie:
 
 - „Hlavným cieľom Národnej banky Slovenska je udržiavanie cenovej stability.“.
