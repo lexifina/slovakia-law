@@ -4,6 +4,8 @@
 
 - 1b) Napr. § 38, 39, 44, 46,48 a 49 zákona Slovenskej národnej rady č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení neskorších predpisov.
 
+- 1ba) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
 - 2) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
 - 3) Nariadenie vlády Slovenskej republiky č. 54/1992 Zb. o jednorazovom mimoriadnom odškodnení za ujmu na zdraví alebo smrť v súvislosti s pomocou poskytnutou Policajnému zboru Slovenskej republiky.
