@@ -198,11 +198,7 @@ Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 36/1967 Z
 
 - e)
 
-- vo veciach opatrovníctva,
-
-- f)
-
-- vtedy, ak o to požiada účastník konania alebo súd.“.
+- vo veciach opatrovníctva,“.
 
 - 7. V § 36b ods. 1 písm. a) znie:
 
@@ -723,14 +719,6 @@ Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 36/1967 Z
 - 49. Za § 241 sa vkladá nový § 241a, ktorý znie:
 
 - „§ 241a
-
-- (1)
-
-- Ak právoplatné rozhodnutie súdu má po právnej stránke zásadný význam alebo ak to vyžaduje zabezpečenie jednotného výkladu zákona, môže predseda Najvyššieho súdu Slovenskej republiky podať dovolanie.
-
-- (2)
-
-- Ak právoplatným rozhodnutím prvostupňového alebo odvolacieho súdu bol porušený zákon, dovolanie môže podať aj minister spravodlivosti Slovenskej republiky a generálny prokurátor Slovenskej republiky.
 
 - (3)
 
