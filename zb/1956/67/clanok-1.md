@@ -1,0 +1,9 @@
+## DRUHÁ ČASŤ
+
+## ROZDELENIE BYTOVÉHO PRIESTORU
+
+## ODDIEL I
+
+## ZOZNAMY A PORADNÍKY
+
+# Článok 1
