@@ -1,0 +1,1 @@
+- *) Ceny za práce vykonávané strojmi výpočtovej techniky sú ustanovené v cenníku čis. 123 vydanom Ministerstvom všeobecného strojárstva.
