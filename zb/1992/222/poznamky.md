@@ -127,3 +127,5 @@
 - 47) Zákon č. 44/1974 Zb.
 
 - 48) Vyhláška č. 114/1972 Zb. v znení neskorších predpisov.
+
+- 49) Vyhláška Federálneho štatistického úradu č. 117/1981 Zb. o zavedení a využívaní jednotnej klasifikácie priemyselných prác výrobnej povahy v znení neskorších predpisov.
