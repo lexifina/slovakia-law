@@ -12,7 +12,7 @@ Príloha vyhlášky č. 640/1992 Zb.
 
     - Daňový úrad Bratislava II
 
-    - územné obvody mestských častí Podunajské Biskupice, Ružinov, Vrakuňa,
+    - územný obvod mestskej časti Ružinov okrem katastrálneho územia Prievoz a katastrálneho územia Trnávka,
 
     - Daňový úrad Bratislava III
 
@@ -25,6 +25,10 @@ Príloha vyhlášky č. 640/1992 Zb.
     - Daňový úrad Bratislava V
 
     - územné obvody mestských častí Čunovo, Jarovce, Petržalka, Rusovce,
+
+    - Daňový úrad Bratislava VI
+
+    - územné obvody mestských častí Podunajské Biskupice, Vrakuňa, katastrálne územie Prievoz a katastrálne územie Trnávka,
 
     - Okres Bratislava-vidiek
 
