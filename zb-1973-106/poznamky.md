@@ -1,0 +1,1 @@
+- 1) Zákon č. 53/1964 Zb. o udeľovaní vedeckých hodností a o Štátnej komisii pre vedecké hodnosti v znení vyplývajúcom zo zákona SNR č. 207/1968 Zb. a zo zákona ČNR č. 2/1969 Zb., vyhláška č. 198/1964 Zb. o konaní pri udeľovaní vedeckých hodností a vyhláška č. 199/1964 Zb. o výchove nových vedeckých pracovníkov.
