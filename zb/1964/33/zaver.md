@@ -1,0 +1,3 @@
+Predseda:
+
+Křovina v. r.
