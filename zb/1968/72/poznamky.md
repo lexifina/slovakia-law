@@ -1,0 +1,1 @@
+- *) České znenie Predpisu č. 5 možno taktiež objednať pod č. 32806 v ÚVTEI, Praha 1, Konviktská č. 5.
