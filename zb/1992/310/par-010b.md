@@ -10,8 +10,10 @@
 
 - a) včasné uplatnenie nároku na štátnu prémiu,
 
-- b) správne vyčíslenie výšky štátnej prémie,
+- b) plnenie podmienok poskytovania štátnej prémie, iba ak stavebná sporiteľňa preukáže, že nedodržiavanie plnenia týchto podmienok bolo spôsobené okolnosťami vylučujúcimi jej zodpovednosť,<sup>4a</sup>)
 
-- c) zúčtovanie preddavkov štátnej prémie,
+- c) správne vyčíslenie výšky štátnej prémie,
 
-- d) vrátenie štátnej prémie do štátneho rozpočtu do jedného mesiaca od zistenia, že stavebný sporiteľ nedodržal podmienky na poskytnutie štátnej prémie.
+- d) zúčtovanie preddavkov štátnej prémie,
+
+- e) vrátenie štátnej prémie do štátneho rozpočtu do jedného mesiaca od zistenia, že stavebný sporiteľ nedodržal podmienky na poskytnutie štátnej prémie.
