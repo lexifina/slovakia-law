@@ -44,7 +44,7 @@ Nariadenie ministra dopravy č. 84/1960 Zb. o zmene Medzinárodného dohovoru o 
 
 Medzinárodný dohovor o preprave cestujúcich a cestovných batožín po železniciach (CIV) z 25. októbra 1952 vyhlásený nariadením ministra dopravy č. 5/1956 Zb.
 
-Príloha I k Medzinárodnému dohovoru o preprave tovaru po železniciach (CIM) platí naďalej v znení vyhlásenom vyhláškou ministra dopravy a spojov č. 53/1962 Zb.
+Dňom 1. apríla 1967 nadobúda účinnosť nové znenie Prílohy I (Medzinárodný poriadok pre prepravu nebezpečného tovaru po železniciach - RID) Medzinárodného dohovoru o preprave tovaru po železniciach (CIM) z 25. februára 1961. Týmto dňom stráca platnosť doterajšie znenie Prílohy I publikovanej vyhláškou ministra dopravy a spojov č. 53/1962 Zb. z 1. júna 1962.
 
 Český preklad Medzinárodného dohovoru o preprave tovaru po železniciach (CIM) a Medzinárodného dohovoru o preprave cestujúcich a cestovných batožín po železniciach (CIV) bude publikovaný v Prepravnom a tarifnom vestníku Ministerstva dopravy, v ktorom bude oznámený aj okruh štátov viazaných dohovormi, ako i neskoršie zmeny.
 
