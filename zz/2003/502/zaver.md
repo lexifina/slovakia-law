@@ -1,1 +1,0 @@
-Pavol Rusko v. r.
