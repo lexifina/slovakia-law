@@ -1,0 +1,3 @@
+# Článok 1
+
+Občania Českej a Slovenskej Federatívnej Republiky, ktorí sú držiteľmi platného pasu Českej a Slovenskej Federatívnej Republiky, môžu voľne vstupovať do Dánska cez oficiálne schválený hraničný priechod a zdržiavať sa v Dánsku bez víz po dobu nepresahujúcu tri mesiace. Táto doba troch mesiacov sa počíta odo dňa vstupu na územie jedného zo severských štátov, ktorý je zmluvnou stranou Dohovoru z 12. júla 1957 o upustení od pasovej kontroly na vnútroseverských hraniciach. Každý pobyt v niektorom z týchto štátov počas šiestich mesiacov, ktorý predchádzal vstupu na územie niektorého z týchto štátov z neseverského štátu, sa započítava do uvedenej doby troch mesiacov.
