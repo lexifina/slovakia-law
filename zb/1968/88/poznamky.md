@@ -10,10 +10,6 @@
 
 - ***) § 23 vyhlášky č. 143/1965 Zb.
 
-- *) Vyhláška č. 102/1957 Ú. l. (Ú. v.) o nemocenskom poistení študentov a vedeckých ašpirantov.
-
-- **) § 7 vyhlášky č. 21/1965 Zb. o dôchodkovom zabezpečení, nemocenskom poistení a preventívno-liečebnej starostlivosti niektorých občanov činných pri poskytovaní služieb a príloha tejto vyhlášky.
-
 - ***) Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách.
 
 - †) Zákon č. 88/1952 Zb. materiálnom zabezpečení príslušníkov ozbrojených síl.
