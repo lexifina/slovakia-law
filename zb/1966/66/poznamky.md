@@ -1,5 +1,3 @@
-- *) Za výstavbu svojpomocou sa tu považuje taká výstavba, pri ktorej hodnota prác vykonávaných dodávateľskými organizáciami nepresiahne 50 % rozpočtovej ceny.
-
 - **) § 14 zákona a § 133, § 134 ods. 2 a § 399 až 404 Občianskeho zákonníka č. 40/1964 Zb.
 
 - ***) Predaj bytov zo socialistického vlastníctva nepodlieha podľa § 6 ods. 4 zákona č. 24/1964 Zb. o notárskych poplatkoch notárskemu poplatku z prevodu nehnuteľností; notárskemu poplatku však podlieha registrácia kúpnej zmluvy, a to podľa položky G č. 1 sadzobníka I notárskych poplatkov (príloha 1 vyhlášky č. 25/1964 Zb. na vykonanie zákona o notárskych poplatkoch).
