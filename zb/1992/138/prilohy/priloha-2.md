@@ -308,7 +308,7 @@ Príloha č. 2 k zákonu Slovenskej národnej rady č. 138/1992 Zb. v znení nes
 
     - 27.94 Diplom v študijnom odbore pozemné staviteľstvo, ktorý udelila Stavebná fakulta, Technická univerzita v Košiciach v rokoch 1981 až 1991 (titul: Ing.),
 
-    - – autorizačné osvedčenie vydané Slovenskou komorou architektov v Bratislave bez uvedenia odboru alebo v odbore „pozemné stavby“ alebo „územné plánovanie“,
+    - – autorizačné osvedčenie vydané Slovenskou komorou architektov v Bratislave,
 
     - – autorizačné osvedčenie vydané Slovenskou komorou stavebných inžinierov v Bratislave v odbore „pozemné stavby“.
 

@@ -6,6 +6,6 @@
 
 (3) Ministerstvo môže nariadiť preskúšanie všetkých architektov a inžinierov alebo architektov a inžinierov len niektorej kategórie, ak nastali zásadné zmeny právnej úpravy týkajúce sa odborných činností vo výstavbe.
 
-(4) Odseky 1 až 3 sa primerane vzťahujú aj na preskúšanie osoby, ktorá vykonala odbornú skúšku potrebnú na výkon činnosti stavbyvedúceho alebo na stavebný dozor; nevzťahujú sa na hosťujúcich architektov.
+(4) Odseky 1 až 3 sa primerane vzťahujú aj na preskúšanie osoby, ktorá vykonala autorizačnú skúšku potrebnú na výkon činnosti stavbyvedúceho alebo na stavebný dozor; nevzťahujú sa na hosťujúcich architektov.
 
 (5) Na preskúšanie sa vzťahuje § 21 ods. 1 až 3, 5 a 6. Preskúšanie sa vykoná pred skúšobnou komisiou podľa § 22.
