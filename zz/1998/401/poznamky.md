@@ -20,10 +20,6 @@
 
 - 10) § 20 ods. 3 a 6 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.
 
-- 11) § 1 zákona č. 69/1998 Z. z. o Štátnom fonde životného prostredia.
-
-- 12) § 3 zákona č. 69/1998 Z. z.
-
 - 13) Nariadenie vlády Slovenskej republiky č. 92/1996 Z. z.
 
 - 14) § 5 ods. 8 a 12 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.

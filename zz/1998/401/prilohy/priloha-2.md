@@ -152,7 +152,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - K<sub>ELN</sub> – koeficient emisného limitu pri nezistení údajov o dodržaní emisného limitu
 
-- [Príloha 02](../assets/123d24aba832fd63e25e7bb448ed4229b464f66b124e4df5f156a2b9b6737d8e.pdf)
+- [Príloha 02](../assets/b7b7948e0de34bd0c63676465bae5f6d869fefaef5694e3636c13be38858b868.pdf)
 
   - Tabuľka č. 3:
 
