@@ -16,7 +16,7 @@
 
 - 4) Meradlá používané pri diagnostike a plánovaní terapie, súvisiace s priamym ohrozením zdravia a života pacienta.
 
-- 5) Tachografy spĺňajúce požiadavky vyhlášky ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení neskorších predpisov.
+- 5) Tachografy spĺňajúce požiadavky vyhlášky ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení neskorších predpisov.V nadväznosti na dodatok č. 2 k Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) z 1. júla 1970, Príloha – Kontrolné zariadenia. Všeobecné ustanovenia, časť I, kontrolné zariadenia – tachografy označené schvaľovacou (homologačnou) značkou potvrdzujúcou schválenie typu v zmysle dodatkov č. 1 a 2 k tejto prílohe sa v Slovenskej republike považujú za meradlá schváleného typu.
 
 - 6) Pri schvaľovaní typu meradiel sa vyžaduje vyjadrenie Ministerstva financií Slovenskej republiky.
 
@@ -32,8 +32,16 @@
 
 - 12) Schváleniu typu nepodliehajú merače menovitého prietoku Q<sub>n</sub> nad 200 m<sup>3</sup>. h<sup>-1</sup> uvádzané na trh podľa požiadaviek platných v Slovenskej republike.
 
-- 13) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+- 13) Zákon č. 264/1999 Z. z. o technických požiadavkách na vý- robky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 14) Len ak nedôjde k naplneniu § 9 ods. 4 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
+- 14) § 9 ods. 4 zákona č. 264/1999 Z. z.
 
 - 15) Overenie podľa bodu 8.2 STN EN 45501.
+
+- 16) Overenie podľa prílohy č. 40 a STN EN 1060-1 až 3.
+
+- 17) Overenie podľa prílohy č. 32 a STN EN 12470-3.
+
+- 18) Overenie podľa prílohy č. 44 a STN EN 60645-1.
+
+- 19) Overenie podľa slovenských technických noriem.

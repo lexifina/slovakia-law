@@ -1,3 +1,3 @@
 Príloha č. 53 k vyhláške č. 210/2000 Z. z.
 
-- PRIETOKOMERY AKO ČLENY MERAČOV TEPLA [Príloha 53](../assets/d7a8d952bb3d9f5e92d7e8da1897f602c2ca2884ed28431d0da6cad66824683f.pdf)
+- PRIETOKOMERY AKO ČLENY MERAČOV TEPLA [Príloha 53](../assets/65f9b4e83a62ee804c3edc0cec84da503ad08072ac5b367eafe1bfe96313a96c.pdf)

@@ -42,7 +42,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 1.3.4 | Odmerné sklo (odmerné banky, byrety, pipety, odmerné valce triedy presnosti „A“)<sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | 55
 
-    - 1.3.5 | Sedimentačné (Westergrenove) pipety<sup>3</sup>) | áno | áno | bez obmedzenia | 55
+    - 1.3.5 | Zrušená od 1. 1. 2005 | | | |
 
     - 1.3.6 | Prepravné sudy z nehrdzavejúcich materiálov tvarovo stále (KEG, KEG Plus,...)<sup>2</sup>) | áno | áno | 10 rokov | 34
 
@@ -156,7 +156,9 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 2.3 Tlak
 
-    - 2.3.1 | Meradlá tlaku krvi - tonometre<sup>4</sup>) a) deformačné (mechanické) b) ortuťové (kvapalinové) | áno | áno | 2 roky | 40
+      - Meradlá uvedené v položke 2.3.1 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
+
+    - 2.3.1 | Meradlá tlaku krvi - tonometre<sup>4</sup>) a) deformačné (mechanické) b) ortuťové (kvapalinové) | - | po oprave<sup>14</sup>) | 2 roky | 40<sup>16</sup>)
 
     - 2.3.2 | Prevodníky tlaku používané v kafilérických zariadeniach<sup>3</sup>) | áno | áno | 1 rok | 33
 
@@ -184,11 +186,9 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 3.1 Teplota, teplo
 
-    - 3.1.1 | Lekárske a zverolekárske teplomery<sup>4</sup>) | | | |
+      - Meradlá uvedené v položke 3.1.1 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a meradlá podľa písmena b) podliehajú počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
 
-    - | a) sklené | áno | áno | bez obmedzenia | 22
-
-    - | b) elektronické | áno | áno | 2 roky | 32
+    - 3.1.1 | Lekárske a zverolekárske teplomery elektronické<sup>4</sup>) | - | po oprave<sup>14</sup>) | 2 roky | 32<sup>17</sup>)
 
     - 3.1.2 | Meradlá používané na stanovenie spalného tepla pri bilančných meraniach<sup>2</sup>),<sup>3</sup>) | | | |
 
@@ -244,11 +244,13 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 6.1 Akustický tlak
 
+      - Meradlá uvedené v položke 6.1.3 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
+
     - 6.1.1 | Zvukomery a integrujúce zvukomery<sup>3</sup>) | áno | áno | 2 roky | 42
 
     - 6.1.2 | Pásmové filtre<sup>3</sup>) | áno | áno | 2 roky | 42
 
-    - 6.1.3 | Tónové audiometre<sup>4</sup>) | áno | áno | 2 roky | 44
+    - 6.1.3 | Tónové audiometre<sup>4</sup>) | - | po oprave<sup>14</sup>) | 2 roky | 44<sup>18</sup>)
 
     - 6.1.4 | Meracie mikrofóny<sup>3</sup>) | áno | áno | 1 rok | 49
 
@@ -290,13 +292,15 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
   - 8. VELIČINY ATÓMOVEJ A JADROVEJ FYZIKY
 
+    - Meradlá uvedené v položkách 8.2, 8.3, 8.4 a 8.9 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
+
   - 8.1 | Meradlá na kontrolu dodržiavania prevádzkových limitov a na kontrolu referenčných úrovní aktivity a objemovej aktivity z vypustí jadrových zariadení, zo zariadení na ťažbu alebo úpravu rádioaktívnych surovín, spracovanie alebo aplikáciu rádioaktívnych materiálov a z úpravní rádioaktívneho odpadu a na stanovenie radiačnej záťaže z vypustí<sup>3</sup>) | áno | áno | 2 roky | 43
 
-  - 8.2 | Meradlá aktivity diagnostických a terapeutických preparátov aplikovaných pacientom in vivo<sup>3</sup>),<sup>4</sup>) | áno | áno | 1 rok | 43
+  - 8.2 | Meradlá aktivity diagnostických a terapeutických preparátov aplikovaných pacientom in vivo<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 1 rok | 43<sup>19</sup>)
 
-  - 8.3 | Meradlá používané na určenie terapeuticky absorbovaných dávok ionizujúceho žiarenia aplikovaných pacientom<sup>3</sup>),<sup>4</sup>) | áno | áno | 1 rok | 41
+  - 8.3 | Meradlá používané na určenie terapeuticky absorbovaných dávok ionizujúceho žiarenia aplikovaných pacientom<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 1 rok | 41<sup>19</sup>)
 
-  - 8.4 | Meradlá vnútornej rádioaktívnej kontaminácie osôb<sup>3</sup>),<sup>4</sup>) | nie | áno | 2 roky | 43
+  - 8.4 | Meradlá vnútornej rádioaktívnej kontaminácie osôb<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 2 roky | 43<sup>19</sup>)
 
   - 8.5 | Meradlá objemovej aktivity radónu 222 vo vzduchu a vo vode a ekvivalentnej objemovej aktivity radónu 222 vo vzduchu<sup>3</sup>) | nie | áno | 1 rok | 43
 
@@ -306,6 +310,6 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
   - 8.8 | Priamo odčítacie osobné dozimetre a osobné dozimetre signalizujúce prekročenie vopred nastavenej úrovne dozimetrických veličín, ktoré sa nepoužívajú súčasne s určenými meradlami uvedenými v položke 8.6<sup>3</sup>) | áno | áno | 2 roky | 41
 
-  - 8.9 | Meradlá kvality zväzkov a zdrojov rôntgenového žiarenia<sup>3</sup>),<sup>4</sup>) | áno | áno | 2 roky | 41
+  - 8.9 | Meradlá kvality zväzkov a zdrojov röntgenového žiarenia<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 2 roky | 41<sup>19</sup>)
 
   - 8.10 | Stacionárne meradlá používané na vyhľadávanie skrytej rádioaktivity v osobnej a nákladnej preprave | nie | áno | 2 roky | 43

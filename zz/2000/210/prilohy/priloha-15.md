@@ -1,3 +1,3 @@
 Príloha č. 15 k vyhláške č. 210/2000 Z. z.
 
-- DĹŽKOVÉ MIERY [Príloha 15](../assets/917a7749f1ea46930b7044957cc96509beac151f478023c188e266e5d8084a8f.pdf)
+- DĹŽKOVÉ MIERY [Príloha 15](../assets/c124ae02beecf19683ac1bfec71ff682a9fde2c00f58cf100e4e39866ee54829.pdf)
