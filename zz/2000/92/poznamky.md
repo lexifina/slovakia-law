@@ -1,0 +1,1 @@
+- *) Body za budú dohodnuté vládnymi orgánmi civilného letectva neskôr.
