@@ -1,0 +1,1 @@
+- 1) § 244 – 250 Občianskeho súdneho poriadku.
