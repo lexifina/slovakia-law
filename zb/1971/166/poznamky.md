@@ -12,6 +12,4 @@
 
 - *) Smernica čl. 3.
 
-- **) Smernice čl. 3.1, 8 a 9.
-
 - ***) § 273 Hospodárskeho zákonníka zmeneného a znovu vyhláseného pod č. 37/1971 Zb.
