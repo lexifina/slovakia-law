@@ -2,6 +2,8 @@
 
 - 2) § 8 ods. 3 zákona Slovenskej národnej rady č. 307/1992 Zb.
 
+- 2a) § 1 a 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 4) § 21 nariadenia vlády Slovenskej republiky č. 606/1992 Zb. o nakladaní s odpadmi.
