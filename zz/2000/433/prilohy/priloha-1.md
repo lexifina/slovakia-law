@@ -62,7 +62,7 @@ f) protokoly o preskúšaní.
 
 - 4.5 Ak typ spĺňa príslušné ustanovenia tohto nariadenia, autorizovaná osoba vystaví výrobcovi alebo jeho splnomocnencovi certifikát typu. Certifikát typu obsahuje identifikačné údaje o výrobcovi, závery skúšok a nevyhnutné údaje na identifikáciu certifikovaného typu. K certifikátu typu sa prikladá zoznam príslušnej časti technickej dokumentácie, ktorej jedna kópia zostáva uložená u autorizovanej osoby. Ak autorizovaná osoba odmietne výrobcovi alebo jeho splnomocnencovi vystaviť certifikát typu, uvedie podrobné dôvody takého odmietnutia v správe, ktorú mu odovzdá.
 
-- 5. Výrobca alebo jeho splnomocnenec kotla alebo základného komponentu, ktorý vlastní uvedenú technickú dokumentáciu k certifikovanému typu, informuje autorizovanú osobu o akejkoľvek zmene certifikovaného typu. Ak takéto zmeny môžu ovplyvniť zhodu so základnými požiadavkami alebo výrobcom či jeho splnomocnencom určené podmienky na použitie kotla, autorizovaná osoba vykoná dodatočné zistenia, ktorých výsledky uvedie v dodatku k certifikátu typu.
+- 5. Výrobca kotla alebo základného komponentu alebo jeho splnomocnenec, ktorý vlastní uvedenú technickú dokumentáciu k certifikovanému typu, informuje autorizovanú osobu o akejkoľvek zmene certifikovaného typu. Ak takéto zmeny môžu ovplyvniť zhodu so základnými požiadavkami alebo výrobcom či jeho splnomocnencom určené podmienky na použitie kotla, autorizovaná osoba vykoná dodatočné zistenia, ktorých výsledky uvedie v dodatku k certifikátu typu.
 
 6. Autorizovaná osoba musí oznámiť dôležité informácie týkajúce sa vydaných a zrušených certifikátov skúšky typu a dodatkov k certifikátom iným autorizovaným osobám.
 
