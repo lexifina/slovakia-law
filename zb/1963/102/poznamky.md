@@ -1,1 +1,0 @@
-- *) Zoznam týchto predpisov bude uverejnený v čiastke 5/1964 Vestníka Ministerstva poľnohospodárstva, lesného a vodného hospodárstva.
