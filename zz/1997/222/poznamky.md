@@ -15,3 +15,7 @@
 - 8) Vyhláška Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch.
 
 - 9) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
+
+- 10) Zákon Slovenskej národnej rady č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 11) Vyhláška Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.

@@ -10,7 +10,7 @@ VECI, KTORÝCH NEOBCHODNÝ VÝVOZ JE ZAKÁZANÝ
 
 3. Archívne dokumenty.<sup>6</sup>)
 
-Výnimky:
+Zákaz dovozu sa nevzťahuje na:
 
 1. Zákaz vývozu vecí uvedených v bode 1 sa neuplatní, ak prílohou colného vyhlásenia je súhlas na vývoz vecí vydaný Komisiou pre ochranu kultúrneho dedičstva pri Slovenskom ústave pamiatkovej starostlivosti.
 
@@ -36,7 +36,7 @@ VECI, KTORÝCH NEOBCHODNÝ DOVOZ JE ZAKÁZANÝ
 
 6. Ojazdené pneumatiky, ktoré nespĺňajú požiadavky podľa všeobecného záväzného právneho predpisu.<sup>9</sup>)
 
-7. Použitá spodná bielizeň, použité nočné košele a pyžamy.
+7. Použitá spodná bielizeň.
 
 8. Použitý pančuchový tovar, tričká, košele a iné odevné výrobky, ktoré sa dostanú priamo do styku s ľudským telom.
 
@@ -54,7 +54,7 @@ VECI, KTORÝCH NEOBCHODNÝ DOVOZ JE ZAKÁZANÝ
 
 15. Použité elektroprístroje a výrobky spotrebnej elektroniky, napr. televízne prijímače, rádioprijímače, magnetofóny, videorekordéry, videoprehrávače, záznamové prístroje, fotokopírovacie prístroje, počítače a ich komponenty, rezačky, kosačky, drviče papiera, šijacie a žehliace stroje.
 
-Výnimky:
+Zákaz dovozu sa nevzťahuje na:
 
 1. Zákaz dovozu vecí uvedených v bode 2 sa neuplatní pri dovoze zápaliek a pištoľových kapslí do detských pištolí.
 
@@ -68,10 +68,18 @@ a) ak ide o veci osobnej potreby dovážané cestujúcim alebo zasielané v súv
 
 b) ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska,
 
-c) pri dovoze týchto vecí právnickou osobou alebo fyzickou osobou na charitatívne účely, ak dovozca priloží doklad z krajiny vývozu o dezinfekcii alebo o odbornom vyčistení vecí a súhlas na ich dovoz od príslušného orgánu hygieny Slovenskej republiky.
+c) pri dovoze týchto vecí právnickou osobou alebo fyzickou osobou na charitatívne účely, ak dovozca priloží doklad z krajiny vývozu o dezinfekcii alebo o odbornom vyčistení vecí a súhlas na ich dovoz od príslušného orgánu na ochranu zdravia Slovenskej republiky.
 
-5. Zákaz dovozu vecí uvedených v bode 15 sa neuplatní, ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska alebo ako zariadenie domácnosti určené na vybavenie jej domácnosti v mieste jej prechodného pobytu.
+5. Zákaz dovozu vecí uvedených v bode 15 sa neuplatní, ak ide o
 
-6. Zákaz dovozu vecí uvedených v bodoch 10 a 11 sa neuplatní, ak ide o veci v balíkových zásielkach v poštovom styku zasielané fyzickou osobou zo zahraničia v primeranom množstve fyzickej osobe v tuzemsku.
+a) veci, ktoré sú osobným majetkom osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia,
+
+b) veci, ktoré sú osobným majetkom osoby a dovážajú sa ako zariadenie domácnosti, určené na vybavenie jej domácnosti v mieste prechodného pobytu,
+
+c) veci darované školským zariadeniam,<sup>10</sup>) základným školám, stredným školám, vysokým školám, štátnym orgánom, zdravotníckym a sociálnym zariadeniam,
+
+d) dovoz darov venovaných v rámci medzinárodných vzťahov<sup>11</sup>).
+
+6. Zákaz dovozu vecí uvedených v bodoch 7 až 12 sa neuplatní, ak ide o veci v balíkových zásielkach v poštovom styku zasielané fyzickou osobou zo zahraničia v primeranom množstve fyzickej osobe v tuzemsku.
 
 7. Zákaz dovozu vecí uvedených v bodoch 4, 5, 10, 11, 13 až 15 sa neuplatní, ak ide o veci preukázateľne získané v zahraničí dedením.
