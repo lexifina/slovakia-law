@@ -1,0 +1,1 @@
+- 1) § 12 a 13 zákona ČNR č. 96/1977 Sb., o hospodaření v lesích a státní správě lesního hospodářství.
