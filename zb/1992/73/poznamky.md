@@ -10,7 +10,11 @@
 
 - 4) § 76 až 153 Obchodného zákonníka.
 
-- 4a) § 61 a 97 Obchodného zákonníka.
+- 4a) § 133 Obchodného zákonníka.
+
+- 4b) § 81 Obchodného zákonníka.
+
+- 4c) § 97 Obchodného zákonníka.
 
 - 5) § 244 až 250 Občianskeho súdneho poriadku.
 
