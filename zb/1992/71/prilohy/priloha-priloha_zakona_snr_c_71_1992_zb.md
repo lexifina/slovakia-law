@@ -48,21 +48,17 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 4 |
 
-- a) Za návrh každého z veriteľov na vyhlásenie konkurzu | 500 Sk
-
-- b) Za podania veriteľov, ktoré obsahujú prihlášku pohľadávky v konkurznom a vyrovnacom konaní | 200 Sk
-
 - c) Za návrh dlžníka na vyrovnacie konanie | 500 Sk
 
-- Poznámky: Ak boli podané samostatné návrhy podľa § 15 ods. 1, § 19 ods. 2, § 23 ods. 2, § 24 ods. 1 a § 26 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní, sa platí poplatok podľa položky 1 písmena b). |
+- Poznámky: Ak boli podané samostatné návrhy podľa § 15 ods. 1, § 19 ods. 2, § 23 ods. 2 a § 26 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní, sa platí poplatok podľa položky 1 písmena b). |
 
 - Položka 5 |
 
-- a) Za konkurzné konanie | 1 % zo speňaženej sumy z podstaty najviac 50 000 Sk
+- a) Za konkurzné konanie | 1,2 % zo speňaženej sumy z podstaty, najviac 60 000 Sk
 
-- b) Za konkurzné konanie skončené núteným vyrovnaním | 0,5 % zo sumy použitej na uspokojenie veriteľov najviac 20 000 Sk
+- b) Za konkurzné konanie skončené núteným vyrovnaním | 0,6 % zo sumy použitej na uspokojenie veriteľov, najviac 25 000 Sk
 
-- c) Za vyrovnacie konanie | 0,25 % zo sumy použitej na uspokojenie veriteľov najviac 10 000 Sk
+- c) Za vyrovnacie konanie | 0,3 % zo sumy použitej na uspokojenie veriteľov, najviac 15 000 Sk
 
 - d) Za dohodovacie konanie, ak súd zastavil konkurzné konanie podľa § 4g ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z. | 5 000 Sk
 
