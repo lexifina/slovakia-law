@@ -1,1 +1,0 @@
-Ministr: Grösser v. r.
