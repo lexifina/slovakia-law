@@ -6,6 +6,8 @@
 
 - 3a) § 38 ods. 2 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
+- 3ab) Napríklad § 40 a § 47 ods. 3 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+
 - 3b) Zákon č. 424/1991 Zb. o združovaní v politických stranách a politických hnutiach v znení neskorších predpisov.
 
 - 4) § 76 až 153 Obchodného zákonníka.
@@ -18,7 +20,7 @@
 
 - 5) § 244 až 250 Občianskeho súdneho poriadku.
 
-- 5a) § 18 ods. 2 písm. a) zákona č. 424/1991 Zb. o združovaní v politických stranách a v politických hnutiach v znení neskorších predpisov.
+- 5a) § 6 ods. 10 zákona č. 483/2001 Z. z.
 
 - 6) § 266a Zákonníka práce.
 
