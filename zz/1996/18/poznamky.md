@@ -10,11 +10,15 @@
 
 - 6) Napríklad zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty, zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z., zákon Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení neskorších predpisov, zákon č. 618/1992 Zb. Colný zákon v znení neskorších predpisov.
 
+- 6a) Napríklad zákon č. 195/2000 Z. z. o telekomunikáciách.
+
 - 7) Zákon Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
 
 - 8) Napríklad zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
 
 - 9) Zákon Slovenskej národnej rady č. 270/1991 Zb. o Štátnom fonde trhovej regulácie Slovenskej republiky v poľnohospodárstve v znení neskorších predpisov.
+
+- 9a) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
 - 10) § 7 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z.
 
