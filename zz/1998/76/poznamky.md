@@ -2,6 +2,8 @@
 
 - 2) § 2 ods. 9 zákona č. 238/1991 Zb.
 
+- 2a) Bod 102 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 53/1994 Z. z.
+
 - 3) § 2 Obchodného zákonníka.
 
 - 4) Napríklad Viedenský dohovor o ochrane ozónovej vrstvy (Viedeň 22. marca 1985), Montrealský protokol o látkach, ktoré porušujú ozónovú vrstvu (Montreal 16. septembra 1987), Dodatok k Montrealskému protokolu o látkach, ktoré porušujú ozónovú vrstvu (Londýn 27.–29. júna 1990).
@@ -10,9 +12,11 @@
 
 - 6) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 15/1995 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb.
 
+- 6a) § 13 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colného zákona v znení neskorších predpisov.
+
 - 7) Napríklad § 32, 54, 85 a § 88 ods. 1 písm. b) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
-- 8) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
+- 8) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
 - 9) Položka 127 prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 1/1998 Z. z.
 
