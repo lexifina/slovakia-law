@@ -18,7 +18,7 @@
 
     - 1. Vydanie bude povolené pre trestné činy, za ktoré právny poriadok dožadujúcej aj dožiadanej strany ustanovuje trest odňatia slobody alebo ochranného opatrenia, ktorého horná hranica je najmenej jeden rok, alebo prísnejší trest. Pokiaľ už trest odňatia slobody alebo ochranné opatrenie boli na území dožadujúcej strany uložené, museli byť uložené najmenej v trvaní štyroch mesiacov.
 
-    - 2. Pokiaľ sa žiadosť o vydanie vzťahuje na niekoľké samostatné trestné činy, ktoré sú všetky trestné podľa právnych poriadkov dožadujúcej i dožiadanej strany odňatím slobody alebo za ne možno uložiť ochranné opatrenie, ale niektoré nespĺňajú podmienky ustanovené pre dĺžku trestu, ktorý možno uložiť, dožiadaná strana má právo povoliť vydanie aj pre tieto trestné činy.
+    - 2. Pokiaľ sa žiadosť o vydanie vzťahuje na niekoľké samostatné trestné činy, ktoré sú všetky trestné podľa právnych poriadkov dožadujúcej i dožiadanej strany odňatím slobody alebo za ne možno uložiť ochranné opatrenie, ale niektoré nespĺňajú podmienky ustanovené pre dĺžku trestu, ktorý možno uložiť, dožiadaná strana má právo povoliť vydanie aj pre tieto trestné činy. Toto právo sa vzťahuje aj na činy, pre ktoré sa ukladajú iba finančné sankcie.
 
     - 3. Každá zmluvná strana, ktorej právny poriadok neumožňuje vydanie pre určité trestné činy uvedené v odseku 1 tohto článku, môže v rozsahu, v akom sa jej to týka, vylúčiť tieto trestné činy z pôsobnosti tohto dohovoru.
 
@@ -44,9 +44,21 @@
 
     - Vydávanie pre trestné činy vojenské, ktoré nie sú všeobecnými trestnými činmi, je vylúčené z pôsobnosti tohto dohovoru.
 
-  - Článok 5 Trestné činy fiskálne
+  - Článok 5 Trestné činy fiškálne
 
-    - Vydanie podľa ustanovení tohto dohovoru bude povolené pre trestné činy, ktoré sa vzťahujú na dane, dávky, clá a devízové predpisy, iba v prípade, že zmluvné strany ohľadne daného trestného činu alebo kategórií trestných činov tak rozhodnú.
+    - 1. Vydanie pre trestné činy, ktoré sa vzťahujú na dane, dávky, clá a devízové predpisy, sa medzi zmluvnými stranami uskutoční v súlade s ustanoveniami tohto dohovoru, ak právny poriadok dožiadanej strany pozná trestný čin podobnej povahy.
+
+    - 2. Vydanie sa nemôže odmietnuť iba z dôvodu, že právny poriadok dožiadanej strany neukladá rovnaký druh dane ani dávky alebo neobsahuje daňový, dávkový, colný ani devízový inštitút rovnakého druhu ako právny poriadok dožadujúcej strany.
+
+    - Rozsudky vydané v neprítomnosti
+
+    - 1. Ak jedna zmluvná strana požiada inú zmluvnú stranu o vydanie osoby na účel výkonu trestu alebo ochranného opatrenia uloženého tejto osobe rozhodnutím vydaným v neprítomnosti, dožiadaná strana môže odmietnuť vydať túto osobu na tento účel, ak sa domnieva, že konanie, ktoré predchádzalo vydaniu rozsudku, dostatočne nerešpektovalo základné práva obhajoby priznané každému, kto je obvinený z trestného činu. Vydanie sa však povolí, ak dožadujúca strana poskytne ubezpečenie, ktoré sa považuje za dostatočné na to, aby osobe, ktorej vydanie sa žiada, zaručilo právo na nové konanie so zaistením práv obhajoby. Toto rozhodnutie dá dožadujúcej strane právo buď vykonať predmetný rozsudok, ak odsúdená osoba nenamieta, alebo ak namieta, viesť proti vydanej osobe trestné konanie.
+
+    - 2. Ak dožiadaná strana informuje osobu, o ktorej vydanie sa žiada, o existencii rozsudku vydaného proti nej v neprítomnosti, dožadujúca strana nebude považovať túto informáciu za formálne oznámenie na účely trestného konania v tom štáte.
+
+    - Amnestia
+
+    - Vydanie sa nepovolí pre trestný čin, na ktorý bola vyhlásená amnestia v dožiadanom štáte a ktorý mal tento štát právo podľa svojich trestných zákonov stíhať.
 
   - Článok 6 Vydávanie občanov
 
@@ -72,7 +84,29 @@
 
   - Článok 9 Prekážka právoplatne rozhodnutej veci
 
-    - Vydanie sa nepovolí v prípadoch, keď príslušné orgány dožiadanej strany vyniesli konečné rozhodnutie v konaní proti žiadanej osobe o trestnom čine alebo trestných činoch, pre ktoré sa o vydanie žiada. Vydanie možno odmietnuť, pokiaľ príslušné orgány dožiadanej strany už rozhodli nezačínať alebo zastaviť trestné stíhanie pre rovnaký trestný čin alebo trestné činy.
+    - 1. Vydanie sa nepovolí v prípadoch, keď príslušné orgány dožiadanej strany vyniesli konečné rozhodnutie v konaní proti žiadanej osobe o trestnom čine alebo trestných činoch, pre ktoré sa o vydanie žiada. Vydanie možno odmietnuť, pokiaľ príslušné orgány dožiadanej strany už rozhodli nezačínať alebo zastaviť trestné stíhanie pre rovnaký trestný čin alebo trestné činy.
+
+    - 2. Vydanie osoby, proti ktorej bol vynesený konečný rozsudok v treťom štáte, ktorý je zmluvnou stranou dohovoru, za čin alebo za činy, pre ktoré bola žiadosť podaná, sa nepovolí,
+
+      - a) ak táto osoba bola vyššie uvedeným rozsudkom oslobodená,
+
+      - b) ak trest odňatia slobody alebo iné opatrenie, ktoré mu boli uložené
+
+    - i. boli úplne vykonané,
+
+    - ii. sa stali predmetom milosti alebo amnestie v plnom rozsahu alebo v nevykonanej časti,
+
+      - c) ak súd vyslovil vinu páchateľa a neuložil mu trest.
+
+    - 3. Napriek tomu môže byť v prípadoch uvedených v odseku 2 vydanie povolené,
+
+      - a) ak čin, o ktorom bolo rozsudkom rozhodnuté, bol spáchaný proti osobe, inštitúcii alebo proti akejkoľvek veci, ktoré majú verejný status v dožadujúcom štáte,
+
+      - b) ak samotná osoba, ktorá bola odsúdená, mala verejný status v dožadujúcom štáte,
+
+      - c) ak čin, o ktorom bolo rozsudkom rozhodnuté, bol spáchaný úplne alebo čiastočne na území dožadujúceho štátu alebo na mieste, ktoré sa považuje za jeho územie.
+
+    - 4. Ustanovenia odsekov 2 a 3 nebránia použitiu širších vnútroštátnych ustanovení týkajúcich sa účinkov prekážky právoplatne rozhodnutej veci vo vzťahu k cudzím trestným rozsudkom.
 
   - Článok 10 Premlčanie
 
@@ -84,7 +118,7 @@
 
   - Článok 12 Žiadosť a potrebné doklady
 
-    - 1. Žiadosť sa podá písomne a odovzdá sa diplomatickou cestou. Iný spôsob odovzdania možno určiť priamo dohodou medzi dvoma alebo viacerými stranami.
+    - 1. Žiadosť sa podáva písomne a odosiela ju ministerstvo spravodlivosti dožadujúcej zmluvnej strany ministerstvu spravodlivosti dožiadanej zmluvnej strany; odoslanie žiadosti diplomatickou cestou sa nevylučuje. Iné spôsoby vzájomného styku sa môžu dojednať dohodou medzi dvoma alebo medzi viacerými stranami.
 
     - 2. K žiadosti sa priloží:
 
@@ -263,3 +297,11 @@
       - Na dôkaz toho podpísaní, súc na to riadne splnomocnení, podpísali tento dohovor.
 
       - Dané v Paríži 13. decembra 1957 v anglickom a francúzskom jazyku, pričom obe znenia majú rovnakú platnosť, v jednom vyhotovení, ktoré bude uložené v archíve Rady Európy. Generálny tajomník Rady Európy odovzdá overené kópie vládam signatárov.
+
+  - Článok 1 Na účely použitia článku 3 dohovoru sa za politické trestné činy nebudú považovať
+
+    - a) zločiny proti ľudskosti definované Dohovorom o zabránení a trestaní zločinu genocídia prijatom 9. decembra 1948 Valným zhromaždením Spojených národov,
+
+    - b) porušenia práva uvedené v článku 50 Ženevského dohovoru z roku 1949 o zlepšení osudu ranených a chorých príslušníkov ozbrojených síl v poli, v článku 51 Ženevského dohovoru z roku 1949 o zlepšení osudu ranených, chorých a stroskotancov ozbrojených síl na mori, v článku 130 Ženevského dohovoru z roku 1949 o zaobchádzaní s vojnovými zajatcami a v článku 147 Ženevského dohovoru z roku 1949 o ochrane civilných osôb počas vojny,
+
+    - c) akékoľvek porovnateľné porušenia vojnových zákonov platných v čase, keď tento protokol nadobudne platnosť a v tom čase platného vojnového obyčajového práva, ktoré nie sú upravené vyššie uvedenými ustanoveniami ženevských dohovorov.
