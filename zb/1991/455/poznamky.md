@@ -36,7 +36,7 @@
 
 - 9) § 11 a § 13 ods. 1 až 4 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní.
 
-- 10) Zákon č. 46/1971 Zb. o geodézii a kartografii.
+- 10) Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
 - 11) § 1 ods. 1 písm. a) až d) zákona SNR č. 96/1991 Zb. o verejných kultúrnych podujatiach.
 
