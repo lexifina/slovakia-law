@@ -1,16 +1,22 @@
 - 1) § 347 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
 
+- 1a) § 2 písm. b) až d) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
+
+- 1b) § 29 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
+
+- 1c) § 4 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+
 - 2) § 348 Hospodárskeho zákonníka.
 
 - 3) Zákon č. 116/1990 Zb. o nájme a podnájme nebytových priestorov v znení zákona č. 403/1990 Zb.
 
-- 4) § 26, 26a a 26b zákona ČNR č. 77/1978 Zb. v znení zákona ČNR č. 31/1984 Zb.§ 26, 26a a 26b zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
+- 3a) Nariadenie vlády Slovenskej republiky č. 196/1993 Z. z. o poskytovaní učebníc žiakom.
+
+- 4) § 26, 26a a 26b zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
 - 5) § 18 zákona Českej národnej rady č. 76/1978 Zb. o školských zariadeniach.§ 18 zákona Slovenskej národnej rady č. 78/1978 Zb. o školských zariadeniach.
 
-- 6) § 33 až 36 zákona ČNR č. 76/1978 Zb. v znení zákona ČNR č. 31/1984 Zb.
-
-- § 33 až 36 zákona SNR č. 78/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
+- 6) § 33 až 36 zákona SNR č. 78/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
 - 7) § 13 zákona ČNR č. 77/1978 Zb. v znení zákona ČNR č. 31/1984 Zb.
 

@@ -8,6 +8,6 @@
 
 (4) Pokiaľ štátny podnik alebo štátna organizácia, ktorej vnútornou organizačnou jednotkou je stredné odborné učilište alebo stredisko praktického vyučovania, zaniká likvidáciou, postupuje sa podľa odseku 1 alebo odseku 2. Vo výnimočných prípadoch, ak nie je možné majetok slúžiaci stredisku praktického vyučovania takto previesť, poskytne likvidátor príslušnému strednému odbornému učilišťu finančnú náhradu.
 
-(5) Podrobnosti pre uzavieranie hospodárskych zmlúv podľa odsekov 1 až 4 ustanovia vlády republík nariadením.
+(5) Podrobnosti pre uzavieranie hospodárskych zmlúv podľa odsekov 1 až 4 ustanoví vláda Slovenskej republiky nariadením.
 
 (6) Spory o prevod práva hospodárenia podľa odsekov 1 až 3 rozhodujú orgány hospodárskej arbitráže.
