@@ -28,6 +28,8 @@
 
 - 14) Zákon č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
 
+- 14a) § 1 ods. 4 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
+
 - 15) Napríklad § 2 a 3 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, § 17 až 20 zákona č. 513/1991 Zb. Obchodný zákonník, § 38 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
 
 - 16) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
