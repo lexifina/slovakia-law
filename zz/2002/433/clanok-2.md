@@ -1,0 +1,3 @@
+# Čl. II
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách, ako vyplýva zo zmien a doplnení vykonaných zákonom Slovenskej národnej rady č. 68/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 224/1996 Z. z., zákonom Národnej rady Slovenskej republiky č. 386/1996 Z. z., zákonom č. 55/1999 Z. z., zákonom č. 332/2000 Z. z., zákonom č. 218/2001 Z. z., zákonom č. 553/2001 Z. z., zákonom č. 182/2002 Z. z. a týmto zákonom.
