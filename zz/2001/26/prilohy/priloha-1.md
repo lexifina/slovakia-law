@@ -42,6 +42,40 @@ Príloha č. 1 k vyhláške č. 26/2001 Z. z.
 
 - 1.10 | kvapalný amoniak | 80 % N | amónny dusík | dusík ako amónny | amoniak | hnojivo možno uvádzať na trh s označením „Nie je vhodné na povrchovú aplikáciu!”
 
+- 1.11. | dusičnan horečnatý | 10 % N | dusičnanový dusík | dusičnanový dusík | získaný chemicky; obsahujúci ako hlavnú zložku hexahydrát dusičnanu horečnatého | ak je uvedený na trh vo forme kryštálov, môže sa uvádzať poznámka „v kryštalickej forme“
+
+- | | 14 % MgO | vodorozpustný oxid horečnatý | vodorozpustný oxid horečnatý | |
+
+- 1.12. | síran amónny s inhibítorom nitrifikácie (dikyándiamid) | 20 % N | celkový dusík, amónny dusík, dikyándiamidový dusík | celkový dusík; minimálny obsah amónneho dusíka 18 %; minimálny obsah dikyándiamidového dusíka 1,5 % | získaný chemicky; obsahujúci síran amónny a dikyándiamid | návod na použitie hnojiva s Inhibítorom
+
+- 1.13. | dusičnan amónny so síranom amónnym s inhibítorom nitrifikácie (dikyándiamid) | 24 % N | celkový dusík, dusičnanový dusík, amónny dusík, dikyándiamidový dusík | celkový dusík; minimálny obsah dusičnanového dusíka 3 %; minimálny obsah dikyándiamidového dusíka 1,5 % | získaný chemicky; obsahujúci dusičnan amónny a síran amónny a dikyándiamid | návod na použitie hnojiva s inhibítorom
+
+- 1.14. | močovina so síranom amónnym | 30 % N 12 % SO3 | celkový dusík, amónny dusík, močovinový dusíkvodorozpustný oxid sírový | dusík amónny a močovinový; minimálny obsah amónneho dusíka 4%; maximálny obsah biuretu 0,9 %; minimálny obsah síry vyjadrenej ako oxid sírový 12 % | získaný chemicky z močoviny a zo síranu amónneho |
+
+- 1.15. | močovinoformaldehyd | 36 % N | celkový dusík, močovinový dusík, ak jeho obsah tvorí aspoň 1 % hmotnosti; dusík z močovinoformaldehydu rozpustný v studenej vode, dusík z močovinoformaldehydu rozpustný len v horúcej vode | celkový dusík; aspoň 1/5 uvádzaného obsahu celkového dusíka musí byť rozpustná v horúcej vode; aspoň 31 % dusíka z močovinoformaldehydu; maximálny obsah močovinoformaldehydového dusíka 5% | získaný reakciou močoviny s formaldehydom, obsahujúci ako hlavné zložky molekuly močovinoformaldehydu ; polymér |
+
+- 1.16. | dusíkaté hnojivo obsahujúce krotonylidéndimočovinu | 18 % N | celkový dusík, dusičnanový, amónny a močovinový dusík, ak ich obsah je min. 1 %; krotonylidéndimočovinový dusík | celkový dusík, aspoň 3 % dusíka vo forme amónneho a/alebo dusičnanového a/alebo močovinového ; aspoň 1/3 uvádzaného obsahu celkového dusíka musí byť z krotonylidéndimočoviny; maximálny obsah biuretu = obsah (močovinového + krotonylidéndimočovinového dusíka) x 0,026 | získaný chemicky, obsahujúci krotonylidéndimočovinu a jednozložkové dusíkaté hnojivo zo zoznamu dusíkatých hnojív okrem výrobkov 1.2.1, 1.2.2, 1.4.1 a 1.4.2 |
+
+- 1.17 | dusíkaté hnojivo obsahujúce izobutylidéndimočovinu | 18 % N | celkový dusík, dusičnanový, amónny a močovinový dusík, ak ich obsah je min. 1 %; izobutylidéndimočovinový dusík | celkový dusík, aspoň 3 % dusíka vo forme amónneho a/alebo dusičnanového a/alebo močovinového ; aspoň 1/3 uvádzaného obsahu celkového dusíka musí byť z izobutylidéndimočoviny; maximálny obsah biuretu = obsah (močovinového + izobutylidéndimočovinového dusíka) x 0,026 | získaný chemicky, obsahujúci izobutylidéndimočovinu a jednozložkové dusíkaté hnojivo zo zoznamu dusíkatých hnojív okrem výrobkov 1.2.1, 1.2.2, 1.4.1 a 1.4.2 |
+
+- 1.18 | dusíkaté hnojivo obsahujúce močovinoformaldehyd | 18 % N | celkový dusík, dusičnanový, amónny a močovinový dusík, ak ich obsah je min. 1 %; močovinoformaldehydový dusík z močovinoformaldehydu rozpustný v studenej vode; dusík z močovinoformaldehydu rozpustný len v horúcej vode | celkový dusík, aspoň 3 % dusíka vo forme amónneho a/alebo dusičnanového a/alebo močovinového ; aspoň 1/3 uvádzaného obsahu celkového dusíka musí byť z močovinoformaldehydu; močovinoformaldehydový dusík musí obsahovať aspoň 1/5 dusíka rozpustného v horúcej vode; maximálny obsah biuretu = obsah (močovinového + močovinoformaldehydového dusíka) x 0,026 | získaný chemicky, obsahujúci močovinoformaldehyd a jednozložkové dusíkaté hnojivo zo zoznamu dusíkatých hnojív okrem výrobkov 1.2.1, 1.2.2, 1.4.1 a 1.4.2 |
+
+- 1.19 | krotonylidéndimočovina | 28 % N | celkový dusík, močovinový dusík, ak jeho obsah je min. 1 % hmotnosti; krotonylidéndimočovinový dusík | celkový dusík, aspoň 25 % dusíka z krotonylidéndimočoviny; maximálny obsah močovinového dusíka 3 % | získaný reakciou močoviny s krotónaldehydom; monomér |
+
+- 1.20 | izobutylidéndimočovina | 28 % N | celkový dusík, močovinový dusík, ak jeho obsah je min. 1 % hmotnosti; izobutylidéndimočovinový dusík | celkový dusík, aspoň 25 % dusíka z izobutylidéndimočoviny; maximálny obsah močovinového dusíka 3 % | získaný reakciou močoviny s izobutylaldehydom; monomér |
+
+- 1.21 | liadok vápenatý - suspenzia | 8% N | celkový dusík, dusičnanový dusík | dusík celkový alebo ako dusičnanový a amónny; | získaný suspendovaním dusičnanu vápenatého vo vode | po označení typu môže nasledovať jeden z príslušných údajov:
+
+- | | 14 % CaO | oxid vápenatý rozpustný vo vode | maximálny obsah amónneho dusíka 1 %; vápnik ako vodorozpustný CaO | | - na použitie na list,
+
+- | | | | | | - na výrobu živných roztokov a suspenzií,
+
+- | | | | | | - na hnojenie pôdy
+
+- 1.22 | dusíkaté hnojivo s močovinoformaldehydom (roztok) | 18 % N | celkový dusík, dusičnanový, amónny, močovinový a močovinoformaldehydový dusík, ak ich obsah je min. 1 % | celkový dusík, aspoň 1/3 uvádzaného obsahu celkového dusíka musí byť z močovinoformaldehydu ; z ktorého 3/5 musí byť rozpustného v horúcej vode; maximálny obsah biuretu = obsah (močovinového + močovinoformaldehydového dusíka) x 0,026 | získaný chemicky alebo rozpustením močovinoformaldehydu a dusíkatého hnojiva zo zoznamu dusíkatých hnojív okrem výrobkov 1.2.1, 1.2.2, 1.4.1 a 1.4.2 |
+
+- 1.23 | dusíkaté hnojivo s močovinoformaldehydom (suspenzia) | 18 % N | celkový dusík, dusičnanový, amónny, močovinový a močovinoformaldehydový dusík, ak ich obsah je min. 1 %; dusík z močovinoformaldehydu rozpustný v studenej vode; dusík z močovinoformaldehydu rozpustný len v horúcej vode | celkový dusík, aspoň 1/3 uvádzaného obsahu celkového dusíka musí byť z močovinoformaldehydu ; z ktorého 3/5 musí byť rozpustného v horúcej vode; maximálny obsah biuretu = obsah (močovinového + močovinoformaldehydového dusíka) x 0,026 | získaný chemicky alebo suspendovaním močovinoformaldehydu a dusíkatého hnojiva zo zoznamu dusíkatých hnojív okrem výrobkov 1.2.1, 1.2.2, 1.4.1 a 1.4.2 |
+
   - Fosforečné hnojivá
 
 - Číslo typu | Označenie typu | Minimálny obsah živín | Súčasti určujúce typ, formy a rozpustnosť živín | Hodnotené súčasti a ďalšie požiadavky | Zloženie, spôsob výroby | Osobitné ustanovenia
@@ -478,13 +512,13 @@ Príloha č. 1 k vyhláške č. 26/2001 Z. z.
 
 - | | 40 -65 % vlhkosti | vlhkosť | vlhkosť pôvodnej hmoty vyjadrená ako strata sušením (105 <sup>o</sup>C) | |
 
-- | | 0,3 % N maximálne | celkový dusík | dusík vyjadrený ako celkový N v sušine | |
+- | | 0,6 % N maximálne | celkový dusík | dusík vyjadrený ako celkový N v sušine | |
 
 - | | 0,3 % P<sub>2</sub>O<sub>5</sub> maximálne | celkový fosfor | fosfor vyjadrený ako celkový P<sub>2</sub>O<sub>5</sub>v sušine | |
 
 - | | <sub>0,4 %</sub>K<sub>2</sub>O maximálne | celkový draslík | draslík vyjadrený ako celkový K<sub>2</sub>O v sušine | |
 
-- | | pH 6 - 7,5 | hodnota pH | hodnota pH vodného výluhu | |
+- | | pH 5,0 - 7,5 | hodnota pH | hodnota pH vodného výluhu | |
 
 - | | elektrická vodivosť 0,7 mS.cm<sup>-1</sup> | elektrická vodivosť | | |
 
