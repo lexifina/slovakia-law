@@ -30,6 +30,8 @@
 
 - 16) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 386/1990 Zb.
 
+- 16a) Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z.
+
 - 17) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb., zákona č. 264/1992 Zb., ústavného zákona č. 541/1992 Zb., zákona č. 544/1992 Zb., zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 244/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 369/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 190/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 56/1996 Z. z.
 
 - 18) § 15a zákona č. 92/1991 Zb. v znení zákona č. 92/1992 Zb.
@@ -40,18 +42,26 @@
 
 - 21) § 6 ods. 1 písm. b) a c) zákona č. 174/1968 Zb.
 
+- 21a) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
 - 22) Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z.Vyhláška Ministerstva financií Slovenskej republiky č. 117/1993 Z. z.
 
 - 23) Napríklad zákon č. 30/1968 Zb., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z., zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
+- 24a) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 78/1997 Z. z. o prevádzkovaní liehovarníckeho závodu na pestovateľské pálenie ovocia.
+
 - 25) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení zákona Slovenskej národnej rady č. 453/1992 Zb., zákona Národnej rady Slovenskej republiky č. 2/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 155/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 74/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 278/1996 Z. z.
 
 - 26) § 17 Obchodného zákonníka.
 
+- 26a) § 111 ods. 3 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
+
 - 27) § 2 písm. k) zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
 - 28) § 2 ods. 1 písm. i) zákona Národnej rady Slovenskej republiky č. 229/1995 Z. z.
+
+- 28a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 29) Vyhláška Federálneho ministerstva poľnohospodárstva a výživy č. 16/1972 Zb. o hospodárení s liehom.
