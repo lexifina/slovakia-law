@@ -1,0 +1,1 @@
+- 1) § 2 věta druhá, § 4 a § 6 až 10 vyhlášky ministerstva kultúry č. 196/1954 Úl. l., o sadzbách provozovacích honorářů za veřejné nedivadelní provozování hudebných děl, ve znění vyhlášky ministerstva kultúry a informací č. 183/1969 Sb.
