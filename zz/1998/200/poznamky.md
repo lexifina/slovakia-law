@@ -8,13 +8,15 @@
 
 - 5) Zákon Slovenskej národnej rady č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 237/1993 Z. z. o registri trestov.
+- 5a) § 69 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
+
+- 6) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
 - 8) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
 
-- 9) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+- 9) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení neskorších predpisov.
 
@@ -25,6 +27,12 @@
 - 13) § 20 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
+
+- 14a) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhrad za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 14b) § 143a Občianskeho zákonníka.
+
+- 14c) § 115 Občianskeho zákonníka.
 
 - 15) § 10 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -42,9 +50,17 @@
 
 - 21) Vyhláška Ministerstva školstva Slovenskej republiky č. 131/1997 Z. z. o doktorandskom štúdiu.
 
+- 21a) Napríklad § 29 zákona č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov v znení zákona č. 74/2002 Z. z.
+
 - 22) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
 - 23) Nariadenie vlády Československej socialistickej republiky č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce v znení neskorších predpisov.
+
+- 23a) § 99 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23b) § 6 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 447/2002 Z. z.
+
+- 23c) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
 - 24) § 5 ods. 1 zákona č. 119/1992 Zb. v znení neskorších predpisov.
 
@@ -75,6 +91,10 @@
 - 37) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
 - 38) Zákon Národnej rady Slovenskej republiky č. 320/1993 Z. z. o úprave náhrady za stratu na zárobku po skončení pracovnej neschopnosti vzniknutej pracovným úrazom alebo chorobou z povolania v znení neskorších predpisov.
+
+- 38a) § 38 zákona č. 328/2002 Z. z.
+
+- 38b) § 21 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 39) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
