@@ -1,0 +1,1 @@
+- *) Výhláška Federálneho štatistického úradu č. 81/1982 Zb. o jednotnej klasifikácii odborov vzdelania
