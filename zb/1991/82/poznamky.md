@@ -1,0 +1,1 @@
+- 1) § 6 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení.
