@@ -1,6 +1,6 @@
 # § 15a Zapisovanie do registra
 
-(1) Do registra (§ 3 ods. 5) sa zapíše ten, kto
+(1) Do registra (§ 3 ods. 6) sa zapíše ten, kto
 
 - a) je uznaný v členskom štáte ako architekt,
 

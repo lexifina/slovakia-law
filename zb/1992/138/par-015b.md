@@ -6,4 +6,4 @@
 
 (3) Ak sa pred zapísaním podľa § 15 ods. 1 alebo podľa § 15a ods. 1 komora dozvie o uchádzačovi o zapísanie informáciu o závažnej udalosti, ktorá sa stala mimo územia Slovenskej republiky, alebo ak zistí, že výpis z registra trestov, dokument alebo čestné vyhlásenie, ktorým uchádzač o zapísanie preukazuje svoju bezúhonnosť, obsahuje nesprávne alebo nepravdivé údaje a takáto informácia alebo zistenie by mohli byť prekážkou zapísania uchádzača, upovedomí o tom komoru alebo iný registračný orgán členského štátu, v ktorom je uchádzač usadený, a zároveň požiada o prešetrenie správnosti informácie alebo pravdivosti údajov. Počas prešetrovania neplynú lehoty na zapísanie.
 
-(4) Funkcionári a zamestnanci komory, ktorí prišli do styku s informáciami a údajmi podľa § 15a ods. 4 alebo ods. 3, sú povinní zachovávať mlčanlivosť.
+(4) Funkcionári a zamestnanci komory, ktorí prišli do styku s informáciami a údajmi podľa § 15a ods. 4 alebo podľa odseku 3, sú povinní zachovávať mlčanlivosť.

@@ -18,6 +18,12 @@
 
 - h) bol vyhostený zo Slovenskej republiky alebo mu zaniklo oprávnenie na pobyt v Slovenskej republike,
 
-- i) zamestnávateľ zanikol alebo bol na neho vyhlásený konkurz.
+- i) zamestnávateľ zanikol alebo bol na neho vyhlásený konkurz,
+
+- j) prestal byť poistený,
+
+- k) podľa dodatočného zistenia v čase zapisovania do registra nespĺňal požiadavky na zapísanie,
+
+- l) je v konkurze alebo v likvidácii, alebo proti nemu bol zamietnutý návrh na vyhlásenie konkurzu pre nedostatok majetku, alebo je v obdobnom konaní podľa zákonov a predpisov platných v štáte, v ktorom je usadený.
 
 (2) Komora oznámi vyčiarknutie z registra podľa odseku 1 komore alebo inému registračnému orgánu v členskom štáte, v ktorom je hosťujúci architekt usadený, a ak ide o vyčiarknutie podľa odseku 1 písm. b) až i), aj hosťujúcemu architektovi.

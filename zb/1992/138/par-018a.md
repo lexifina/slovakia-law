@@ -4,7 +4,7 @@
 
 - a) meno a priezvisko s titulmi v znení, v akom mu boli udelené,
 
-- b) dátum narodenia a iný osobný identifikačný údaj podľa práva štátu, v ktorom je usadený,
+- b) dátum narodenia,
 
 - c) adresa pobytu v členskom štáte a adresa pobytu na území Slovenskej republiky,
 
