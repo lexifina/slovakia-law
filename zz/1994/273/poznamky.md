@@ -24,6 +24,8 @@
 
 - 13) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
+- 13a) Napr. nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby.
+
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia, zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni a zákon Národnej rady Slovenskej republiky č. 201/1994 Z. z. o zdravotnom poistení železničiarov a o Železničiarskej zdravotnej poisťovni.
 
 - 15) Obchodný zákonník.
