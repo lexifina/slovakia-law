@@ -1,1 +1,0 @@
-- 19) § 57 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 110/1990 Zb.
