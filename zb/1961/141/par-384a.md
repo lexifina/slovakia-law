@@ -1,7 +1,7 @@
-## Štvrtý oddiel
+## Piaty oddiel
 
-## Rozhodovanie podľa medzinárodných zmlúv
+## Výkon rozsudkov cudzozemských súdov
 
 # § 384a
 
-Ak podľa vyhlásenej medzinárodnej zmluvy treba rozhodnúť o výkone trestného rozsudku cudzieho štátu, súd rozhoduje vo verejnom zasadaní rozsudkom. Konanie koná súd príslušný podľa § 14 až 19.
+Ak sa má podľa vyhlásenej medzinárodnej zmluvy, ktorou je Česká a Slovenská Federatívna Republika viazaná, vykonať rozsudok cudzozemského súdu v trestnej veci, predloží ministerstvo spravodlivosti vec Najvyššiemu súd Českej a Slovenskej Federatívnej Republiky s návrhom, aby rozhodol o uznaní rozhodnutia cudzozemského súdu na území Českej a Slovenskej Federatívnej Republiky. Najvyšší súd Českej a Slovenskej Federatívnej Republiky o návrhu rozhodne po vypočutí generálneho prokurátora Českej a Slovenskej Federatívnej Republiky rozsudkom.
