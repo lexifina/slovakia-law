@@ -52,6 +52,8 @@
 
 - 10b) § 108 ods. 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 10c) § 14 ods. 4 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
+
 - 11) § 8 zákona č. 169/1949 Zb. o vojenských obvodoch.
 
 - 12) § 6 a 7 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon).
@@ -118,9 +120,7 @@
 
 - 24) Napríklad zákon č. 123/1975 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb.
 
-- 25) Zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
-
-- Zákon č. 87/1991 Zb.
+- 25) § 47 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 26) § 43 zákona č. 162/1990 Zb.
 
