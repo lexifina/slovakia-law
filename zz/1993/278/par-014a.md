@@ -4,11 +4,11 @@
 
 # § 14a
 
-(1) Ministerstvo financií a správy finančnej kontroly kontrolujú dodržiavanie ustanovení tohto zákona a osobitných zákonov pri správe majetku štátu vykonávanej správcami uvedenými v § 1 ods. 1, zriaďovateľmi pri udeľovaní súhlasu podľa tohto zákona a dodržiavanie ustanovení § 11 ods. 4 a § 13 ods. 4 až 6 fyzickými osobami alebo právnickými osobami.
+(1) Ministerstvo financií a správy finančnej kontroly kontrolujú dodržiavanie ustanovení tohto zákona a osobitných zákonov pri správe majetku štátu vykonávanej správcami uvedenými v § 1 ods. 1, zriaďovateľmi pri udeľovaní súhlasu podľa tohto zákona a dodržiavanie ustanovení § 11 ods. 4 a § 13 ods. 10 až 12 fyzickými osobami alebo právnickými osobami.
 
-(2) V pôsobnosti ministerstva financií podľa odseku 1 je kontrola dodržiavania ustanovení tohto zákona a osobitných zákonov pri správe majetku štátu vykonávanej ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky,<sup>23ba</sup>) pri udeľovaní súhlasu ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky ako zriaďovateľmi a kontrola dodržiavania ustanovení § 11 ods. 4 a § 13 ods. 4 až 6 fyzickými osobami alebo právnickými osobami, ktoré nadobudli majetok štátu od ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky.<sup>23ba</sup>)
+(2) V pôsobnosti ministerstva financií podľa odseku 1 je kontrola dodržiavania ustanovení tohto zákona a osobitných zákonov pri správe majetku štátu vykonávanej ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky,<sup>23ba</sup>) pri udeľovaní súhlasu ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky ako zriaďovateľmi a kontrola dodržiavania ustanovení § 11 ods. 4 a § 13 ods. 10 až 12 fyzickými osobami alebo právnickými osobami, ktoré nadobudli majetok štátu od ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky.<sup>23ba</sup>)
 
-(3) Správy finančnej kontroly<sup>23bb</sup>) kontrolujú správcov a zriaďovateľov, ktorí nie sú uvedení v odseku 2, a dodržiavanie ustanovení § 11 ods. 4 a § 13 ods. 4 až 6 fyzickými osobami a právnickými osobami, ktoré nadobudli majetok štátu od správcov, ktorí nie sú uvedení v odseku 2.
+(3) Správy finančnej kontroly<sup>23bb</sup>) kontrolujú správcov a zriaďovateľov, ktorí nie sú uvedení v odseku 2, a dodržiavanie ustanovení § 11 ods. 4 a § 13 ods. 10 až 12 fyzickými osobami a právnickými osobami, ktoré nadobudli majetok štátu od správcov, ktorí nie sú uvedení v odseku 2.
 
 (4) V prípade zistenia porušenia ustanovení tohto zákona a osobitných zákonov môžu ministerstvo financií a správy finančnej kontroly podľa závažnosti porušenia uložiť pokutu
 
