@@ -220,7 +220,11 @@ Zákon č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 58/1969 Zb., z
 
 - (3)
 
-- Ak spotrebiteľ uplatní voči dodávateľovi právo na odstúpenie od zmluvy podľa odseku 2, dodávateľ môže požadovať len náhradu preukázateľne vynaložených nevyhnutných nákladov spojených s odstúpením od zmluvy. Uplatnenie práva na odstúpenie od zmluvy podľa odseku 1 sa nemôže zo strany dodávateľa spájať so žiadnymi finančnými nárokmi.“.
+- Ak spotrebiteľ uplatní voči dodávateľovi právo na odstúpenie od zmluvy podľa odseku 2, dodávateľ môže požadovať len náhradu preukázateľne vynaložených nevyhnutných nákladov spojených s odstúpením od zmluvy. Uplatnenie práva na odstúpenie od zmluvy podľa odseku 1 sa nemôže zo strany dodávateľa spájať so žiadnymi finančnými nárokmi.
+
+- § 60
+
+- Ak ide o spotrebiteľa, ktorý je občanom členského štátu Európskej únie alebo ktorý má bydlisko v niektorom z členských štátov Európskej únie, musí byť zmluva vyhotovená v úradnom jazyku alebo v jednom z úradných jazykov členského štátu Európskej únie, v ktorom má spotrebiteľ bydlisko alebo ktorého je občanom; tento jazyk musí byť úradným jazykom Európskej únie. Jazyk si volí spotrebiteľ. Dodávateľ je povinný poskytnúť spotrebiteľovi osvedčený preklad zmluvy v úradnom jazyku alebo v jednom z úradných jazykov členského štátu Európskej únie, v ktorom sa budova nachádza; tento jazyk musí byť úradným jazykom Európskej únie.“.
 
 - 2. § 496 znie:
 
