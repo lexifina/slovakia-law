@@ -1,8 +1,6 @@
 - 1) Vyhláška Federálneho ministerstva spojov č. 50/1985 Zb., ktorou sa vydáva Poriadok rozhlasu po drôte v znení neskorších predpisov.
 
-- 1a) § 7 písm. a) 1., 2. a 5. až 9. bod zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
-
-- 1b) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
+- 1a) § 7 písm. a) 1., 2., 5. až 9. bod a § 54 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 1c) § 115 Občianskeho zákonníka.
 
