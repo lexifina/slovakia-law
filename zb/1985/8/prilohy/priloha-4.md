@@ -6,7 +6,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 1 Rozsah platnosti
 
-      - § 1 Tieto Jednotné právne predpisy platia s výnimkami uvedenými v článku 2 pre všetky zásielky tovaru podané na prepravu s priamym nákladným listom vystaveným pre prepravnú cestu prechádzajúcu po území najmenej dvoch štátov a len po tratiach, ktoré sú zapísané do zoznamu vyhotoveného podľa článkov 3 a 10 Dohovoru.
+      - § 1 Tieto Jednotné právne predpisy platia s výnimkami uvedenými v článku 2 pre všetky zásielky tovaru podané na prepravu s priamym nákladným listom vystaveným pre prepravnú cestu prechádzajúcu po území najmenej dvoch štátov a len po tratiach, ktoré sú zapísané do zoznamu vyhotoveného podľa článkov 3 a 10 Dohovoru, ako aj prípadne pre rovnocenné prepravy podľa článku 2 § 2 druhého odseku Dohovoru.
 
       - § 2 Výraz „stanica“ v Jednotných právnych predpisoch zahŕňa okrem železničných staníc aj prístavy lodnej dopravy a všetky ostatné prevádzkárne dopravných podnikov otvorené pre verejnosť na vykonávanie prepravnej zmluvy.
 
@@ -316,7 +316,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 18 Zodpovednosť za údaje v nákladnom liste
 
-      - Odosielateľ zodpovedá za správnosť svojich údajov v nákladnom liste. Postihnú ho všetky následky vyplývajúce z toho, že údaje sú nesprávne, nepresné, neúplné alebo zapísané na inom mieste, než je pre ne určené. Ak miesto nestačí, odosielateľ musí na ňom poznačiť, kde je doplnenie údajov.
+      - Odosielateľ zodpovedá za správnosť svojich údajov v nákladnom liste. Postihnú ho všetky následky vyplývajúce z toho, že údaje sú nesprávne, nepresné, neúplné alebo zapísané na inom mieste, než je pre ne určené.
 
     - Článok 19 Stav, obal a označovanie tovaru
 
@@ -752,11 +752,9 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - § 1 Pri úplnej alebo čiastočnej strate tovaru musí železnica poskytnúť s vylúčením ďalších odškodnení náhradu škody, ktorá sa vypočíta podľa ceny na burze, inak podľa trhovej ceny, a ak nie je ani jedna z nich, podľa všeobecnej hodnoty tovaru rovnakého druhu a akosti platnej v tom dni a v mieste, kde bol tovar prijatý na prepravu.
 
-      - § 2 Náhrada škody však nesmie presahovať 17 zúčtovacích jednotiek za každý chýbajúci kilogram hrubej hmotnosti, s výhradou obmedzenia podľa článku 45.
+      - § 2 Náhrada škody však nesmie presahovať 17 zúčtovacích jednotiek za každý chýbajúci kilogram hrubej hmotnosti.
 
       - § 3 Okrem toho železnica nahradí dovozné, clo a iné výdavky zaplatené v súvislosti s prepravou strateného tovaru.
-
-      - § 4 Ak sa pri výpočte náhrady škody musia prepočítať sumy uvedené v cudzej mene, prepočítajú sa podľa kurzu platného v deň a v mieste vyplatenia náhrady škody.
 
     - Článok 41 Zodpovednosť pri strate na hmotnosti počas prepravy
 
@@ -788,7 +786,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 43 Náhrada škody za prekročenie dodacej lehoty
 
-      - § 1 Ak prekročením dodacej lehoty vznikne škoda včítane poškodenia tovaru železnica je povinná platiť náhradu, ktorá nesmie presahovať trojnásobok dovozného.
+      - § 1 Ak prekročením dodacej lehoty vznikne škoda včítane poškodenia tovaru železnica je povinná platiť náhradu, ktorá nesmie presahovať štvornásobok dovozného.
 
       - § 2 Pri úplnej strate tovaru sa náhrada podľa § 1 nemôže zlučovať s náhradou podľa článku 40.
 
@@ -802,11 +800,9 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - Ak sa v tomto prípade dodacie lehoty podľa článku 27 § 2 prekročia, oprávnený môže požadovať buď náhradu škody podľa predchádzajúceho § 1, alebo náhradu škody ustanovenú medzinárodnou tarifou alebo osobitným dojednaním.
 
-    - Článok 44 Náhrada pri zlom úmysle alebo pri hrubej nedbanlivosti
+    - Článok 44 Strata práva na obmedzenie zodpovednosti
 
-      - Ak je strata, poškodenie alebo prekročenie dodacej lehoty, nesplnenie alebo chybné splnenie vedľajších úkonov železnicou predpokladané Jednotnými právnymi predpismi spôsobené zlým úmyslom alebo hrubou nedbanlivosťou železnice, musí železnica oprávnenému plne nahradiť preukázanú škodu.
-
-      - V prípade hrubej nedbanlivosti sa však náhrada obmedzuje na dvojnásobok najvyšších súm určených v článkoch 25, 26, 30, 32, 33, 40, 42, 43, 45 a 46.
+      - Obmedzenia zodpovednosti stanovené v článkoch 25, 26, 30, 32, 33, 40, 42, 43, 45 a 46 sa neuplatnia, ak sa dokáže, že škoda bola spôsobená úmyselne alebo vedomým porušením povinnosti z nedbanlivosti.
 
     - Článok 45 Obmedzenie náhrady škody určitými tarifami
 
@@ -818,15 +814,17 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - Ak je udaný záujem na dodaní, môže sa okrem náhrady škody podľa článkov 40, 42, 43 a 45 požadovať náhrada ďalšej preukázanej škody až do sumy udaného záujmu na dodaní.
 
-    - Článok 47 Zúročenie náhrady
+    - Článok 47 Prepočítanie a zúročenie odškodného
 
-      - § 1 Ak pri výpočte náhrady škody musia byť prepočítané sumy vyjadrené v cudzej mene, prepočítajú sa podľa kurzov dňa a miesta platenia náhrady škody.
+      - § 1 Ak sa pri výpočte odškodného musia sumy vyjadrené v zahraničných menách prepočítať, prepočítajú sa podľa kurzu platného v deň a v mieste zaplatenia odškodného.
 
-      - § 2 Oprávnený môže žiadať úroky vo výške 5 % ročne, a to odo dňa reklamácie podľa článku 53 alebo, ak reklamácia nebola podaná, odo dňa podania žaloby.
+      - § 2 Ak pri výpočte náhrady škody musia byť prepočítané sumy vyjadrené v cudzej mene, prepočítajú sa podľa kurzov dňa a miesta platenia náhrady škody.
 
-      - § 3 Úroky sa môžu požadovať iba vtedy, ak náhrada škody pri jednom nákladnom liste presahuje 8 zúčtovacích jednotiek.
+      - § 3 Oprávnený môže žiadať úroky vo výške 5 % ročne, a to odo dňa reklamácie podľa článku 53 alebo, ak reklamácia nebola podaná, odo dňa podania žaloby.
 
-      - § 4 Ak oprávnený nepredloží železnici doklady potrebné na konečné vybavenie reklamácie v jemu určenej primeranej lehote, nepočítajú sa úroky za dobu od uplynutia tejto lehoty do predloženia dokladov.
+      - § 4 Úroky sa môžu požadovať iba vtedy, ak náhrada škody pri jednom nákladnom liste presahuje 8 zúčtovacích jednotiek.
+
+      - § 5 Ak oprávnený nepredloží železnici doklady potrebné na konečné vybavenie reklamácie v jemu určenej primeranej lehote, nepočítajú sa úroky za dobu od uplynutia tejto lehoty do predloženia dokladov.
 
     - Článok 48 Zodpovednosť v preprave železnica-more
 
@@ -982,11 +980,9 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - b) na vyplatenie výťažku z predaja uskutočneného železnicou;
 
-        - c) vyplývajúce zo škody spôsobenej zo zlého úmyslu;
+        - c) vyplývajúce zo škody spôsobenej úmyselne alebo vedomým porušením povinnosti z nedbanlivosti;
 
-        - d) v prípade podvodu;
-
-        - e) z niektorej z prepravných zmlúv predchádzajúcich novému podaju podľa článku 38 § 1.
+        - d) z niektorej z prepravných zmlúv predchádzajúcich novému podaju podľa článku 38 § 1.
 
       - § 2 Premlčacia lehota sa začína:
 

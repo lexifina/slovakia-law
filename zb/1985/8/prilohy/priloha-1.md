@@ -30,7 +30,9 @@
 
       - § 1 Poslaním Organizácie je predovšetkým vytvoriť jednotný právny poriadok pre prepravu cestujúcich, batožín a tovaru v priamej medzinárodnej preprave po železniciach medzi členskými štátmi, ako aj uľahčiť vykonávanie a ďalší rozvoj tohto právneho poriadku.
 
-      - § 2 Právny poriadok uvedený v § 1 môže sa tiež použiť v priamych medzinárodných prepravách vykonávaných nielen po železničných tratiach, ale aj po pozemných, morských a vnútrozemských riečnych linkách.
+      - § 2 (1) Právny poriadok uvedený v § 1 môže sa tiež použiť v priamych medzinárodných prepravách vykonávaných nielen po železničných tratiach, ale aj po pozemných, morských a vnútrozemských riečnych linkách.
+
+        - (2) Prepravám na jednej linke sú v zmysle predchádzajúceho odseku rovnocenné iné vnútroštátne prepravy, ktoré sa vykonávajú ako doplnkové prepravy k železničnej preprave a za ktoré zodpovedajú železnice.
 
     - Článok 3 Jednotné právne predpisy CIV a CIM
 
@@ -40,9 +42,9 @@
 
       - - „Jednotné právne predpisy pre Zmluvu o medzinárodnej železničnej preprave tovaru (CIM)“ tvoriace Dodatok B k Dohovoru.
 
-      - § 2 Trate uvedené v článku 2, po ktorých sa tieto prepravy uskutočňujú, sú zapísané do dvoch zoznamov; zoznamu tratí CIV a zoznamu tratí CIM.
+      - § 2 Trate uvedené v článku 2 v § 1 a § 2 prvom odseku, po ktorých sa tieto prepravy uskutočňujú, sú zapísané do dvoch zoznamov; zoznamu tratí CIV a zoznamu tratí CIM.
 
-      - § 3 Podniky, ktoré majú v prevádzke linky uvedené v článku 2 § 2 zapísané do týchto zoznamov majú rovnaké práva a povinnosti, aké majú železnice podľa Jednotných právnych predpisov CIV a CIM, s výhradou odchýlok vyplývajúcich z osobitných prevádzkových podmienok každého druhu dopravy a uverejnených rovnakým spôsobom ako tarify.
+      - § 3 Podniky, ktoré majú v prevádzke linky uvedené v článku 2 § 2 v prvom odseku zapísané do týchto zoznamov majú rovnaké práva a povinnosti, aké majú železnice podľa Jednotných právnych predpisov CIV a CIM, s výhradou odchýlok vyplývajúcich z osobitných prevádzkových podmienok každého druhu dopravy a uverejnených rovnakým spôsobom ako tarify.
 
         - Týmito odchýlkami však nesmú byť dotknuté ustanovenia o zodpovednosti.
 
@@ -50,7 +52,7 @@
 
     - Článok 4 Vymedzenie pojmu „Dohovor“
 
-      - V ďalšom texte používaný výraz „Dohovor“ znamená samotný Dohovor, Protokol uvedený v článku 1 § 2 druhý odsek a Dodatky A a B včítane ich príloh uvedené v článku 3 § 1 a 4.
+      - V ďalšom texte používaný výraz „Dohovor“ znamená samotný Dohovor, Protokol uvedený v článku 1 § 2 druhý odsek, Dodatočný mandát na vykonávanie auditu a Dodatky A a B včítane ich príloh uvedené v článku 3 § 1 a 4.
 
   - ODDIEL II ŠTRUKTÚRA A ČINNOSŤ
 
@@ -102,7 +104,7 @@
 
     - Článok 7 Správny výbor
 
-      - § 1 Správny výbor tvoria predstavitelia jedenástich členských štátov. Švajčiarska konfederácia má v Správnom výbore stále miesto a zastáva predsednícku funkciu. Ostatné štáty sa vymenúvajú na päťročné obdobie. Zloženie Správneho výboru sa ustanovuje pre každé päťročné obdobie najmä s prihliadnutím na spravodlivé geografické rozdelenie. Žiaden členský štát nesmie byť členom Správneho výboru dlhšie ako dve po sebe nasledujúce obdobia.
+      - § 1 Správny výbor tvoria predstavitelia dvanástich členských štátov. Švajčiarska konfederácia má v Správnom výbore stále miesto. Ostatné štáty sa vymenúvajú na päťročné obdobie. Zloženie Správneho výboru sa ustanovuje pre každé päťročné obdobie najmä s prihliadnutím na spravodlivé geografické rozdelenie. Žiaden členský štát nesmie byť členom Správneho výboru dlhšie ako dve po sebe nasledujúce obdobia.
 
         - Ak sa niektoré miesto uvoľní, pre zvyšok obdobia ustanoví Správny výbor iný členský štát.
 
@@ -110,13 +112,15 @@
 
       - § 2 Správny výbor
 
-        - a) ustanovuje svoj vnútorný rokovací poriadok;
+        - a) ustanovuje svoj vnútorný rokovací poriadok a dvojtretinovou väčšinou určí štát, ktorý bude predsedať v príslušnom úradnom období;
 
         - b) uzatvára dohodu o sídle;
 
         - c) ustanovuje predpisy o organizácii, činnosti a právnom postavení zamestnancov Ústredného úradu;
 
-        - d) s prihliadnutím na spôsobilosť uchádzačov a na primerané geografické rozdelenie vymenúva generálneho riaditeľa, zástupcu generálneho riaditeľa, radcov a radcov - adjunktov Ústredného úradu; Ústredný úrad včas upovedomí členské štáty o uvoľnení niektorého z týchto miest; návrhy kandidátov na miesto generálneho riaditeľa a zástupcu generálneho riaditeľa predkladá švajčiarska vláda;
+        - d) (1) s prihliadnutím na spôsobilosť uchádzačov a na primerané geografické rozdelenie vymenúva generálneho riaditeľa, zástupcu generálneho riaditeľa, radcov a radcov - adjunktov Ústredného úradu; Ústredný úrad včas upovedomí členské štáty o uvoľnení niektorého z týchto miest; návrhy kandidátov na miesto generálneho riaditeľa a zástupcu generálneho riaditeľa predkladá švajčiarska vláda;
+
+          - (2) generálny riaditeľ a zástupca generálneho riaditeľa sú vymenovaní na obdobie piatich rokov a môžu byť opätovne volení;
 
         - e) kontroluje správnu a finančnú činnosť Ústredného úradu;
 
@@ -252,7 +256,7 @@
 
       - § 6 Organizácia vyberá náhradu krytia osobitných výdavkov vyplývajúcich z činností uvedených v článku 9 § 2 l) až n); v prípadoch uvedených v článku 9 § 2 l) a m) výšku tejto náhrady určí Správny výbor na návrh Ústredného úradu; v prípade uvedenom v článku 9 § 2 n) sa použije článok 15 § 2.
 
-      - § 7 Zhodu obchodných kníh s účtovnými dokladmi preveruje švajčiarska vláda, ktorá predkladá správu Správnemu výboru.
+      - § 7 Účtovnú kontrolu vykoná švajčiarska vláda podľa pravidiel Dodatočného mandátu na vykonávanie auditu, ktorý je osobitne pripojený k Dohovoru, s výhradou osobitných pokynov Správneho výboru v súlade s ustanoveniami Finančných a účtovných predpisov Organizácie.
 
   - ODDIEL III ROZHODCOVSKÉ KONANIE
 
@@ -368,13 +372,15 @@
 
       - § 3 S výhradou rozhodnutia Valného zhromaždenia podľa § 2 tretieho odseku Revízny výbor rozhoduje o návrhoch na zmenu týchto ustanovení:
 
-        - a) Jednotné právne predpisy CIV:
+        - a) Dodatočný mandát na vykonávanie auditu,
+
+        - b) Jednotné právne predpisy CIV:
 
         - - Článok 1 § 3; článok 4 § 2; články 5 (okrem § 2), 6, 9 až 14, 15 (okrem § 6), 16 až 21, 22 § 3; články 23 až 25, 37, 43 (okrem § 2 a 4), 48, 49, 56 až 58, 61;
 
         - - sumy vyjadrené v zúčtovacích jednotkách, uvedené v článkoch 30, 31, 38, 40 a 41, ak sa majú zmenou zvýšiť;
 
-        - b) Jednotné právne predpisy CIM:
+        - c) Jednotné právne predpisy CIM:
 
         - - Článok 1 § 2, článok 3 § 2 až 5; články 4, 5, 6 (okrem § 3), 7, 8, 11 až 13, 14 (okrem § 7), 15 až 17, 19 (okrem § 4), 20 (okrem § 3), 21 až 24, 25 (okrem § 3), 26 (okrem § 2), 27, 28 § 3 a 6, články 29, 30 (okrem § 3), 31, 32 (okrem § 3), 33 (okrem § 5), 34, 38, 39, 41, 45, 46, 47 (okrem § 3), 48 - pokiaľ sa navrhuje len prispôsobenie medzinárodnému námornému prepravnému právu - 52, 53, 59 až 61, 64, 65;
 

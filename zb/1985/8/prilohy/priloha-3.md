@@ -6,9 +6,9 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
     - Článok 1 Rozsah platnosti
 
-      - § 1 Tieto Jednotné právne predpisy platia s výnimkami uvedenými v článkoch 2, 3 a 33 pre všetky prepravy osôb a batožín s medzinárodnými prepravnými dokladmi, ktoré platia pre cestu, ktorá prechádza cez územie najmenej dvoch štátov a výhradne po tratiach, ktoré sú zapísané do zoznamu podľa článkov 3 a 10 Dohovoru.
+      - § 1 Tieto Jednotné právne predpisy platia s výnimkami uvedenými v článkoch 2, 3 a 33 pre všetky prepravy osôb a batožín vrátane motorových vozidiel s medzinárodnými prepravnými dokladmi, ktoré platia pre cestu, ktorá prechádza cez územie najmenej dvoch štátov a výhradne po tratiach, ktoré sú zapísané do zoznamu podľa článkov 3 a 10 Dohovoru, ako aj prípadne pre rovnocenné prepravy podľa článku 2 § 2 druhého odseku Dohovoru.
 
-        - Pokiaľ ide o zodpovednosť železnice za usmrtenie a zranenie cestujúcich, platia Jednotné právne predpisy aj pre sprievodcov zásielok prepravovaných podľa Jednotných právnych predpisov pre Medzinárodný dohovor o preprave tovaru po železniciach (CIM).
+        - Jednotné právne predpisy sa uplatnia v prípade zodpovednosti železnice za usmrtenie a zranenie cestujúcich a osôb aj u osôb, ktoré sprevádzajú prepravovanú zásielku podľa Jednotných právnych predpisov pre Zmluvu o medzinárodnej železničnej preprave tovaru (CIM).
 
       - § 2 Medzinárodné tarify určujú spojenia, pre ktoré sa vydávajú medzinárodné prepravné doklady.
 
@@ -170,7 +170,7 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
       - Článok 14 Obsadenie miest
 
-        - § 1 Obsadenie, pridelenie a rezervovanie miest upravujú predpisy platné pre železnicu.
+        - § 1 Obsadenie, pridelenie a rezervovanie miest upravujú predpisy platné pre železnicu. Pri preprave motorových vozidiel môže železnica určiť, že cestujúci zostanú počas prepravy v motorovom vozidle.
 
         - § 2 Cestujúci môže zaujať miesto vo vyššej vozňovej triede alebo vo vlaku vyššieho druhu, než ktoré sú uvedené na cestovnom lístku, alebo zmeniť prepravnú cestu za podmienok ustanovených medzinárodnými tarifami.
 
@@ -212,7 +212,9 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
         - § 1 Ako cestovné batožiny sa na prepravu prijímajú predmety určené na cestovné účely a uložené v cestovných kufroch, košíkoch, vakoch, cestovných vreciach a v iných obaloch tohto druhu, ako aj tieto obaly.
 
-        - § 2 Medzinárodné tarify môžu za určitých podmienok pripustiť na prepravu ako cestovné batožiny zvieratá a predmety neuvedené v § 1, najmä sprevádzané motorové vozidlá podané na prepravu s prívesom alebo bez prívesu.
+        - § 2 (1) Medzinárodné tarify môžu za určitých podmienok pripustiť na prepravu ako cestovné batožiny zvieratá a predmety neuvedené v § 1, najmä motorové vozidlá podané na prepravu s prívesom alebo bez prívesu.
+
+          - (2) Prepravné podmienky pre motorové vozidlá určujú predovšetkým podmienky prijatia na prepravu, odbavenie, naloženie a prepravu, formu a obsah prepravného dokladu, ktorý musí mať skratku CIV, podmienky nakládky a vykládky, ako aj povinnosti vodiča vzhľadom na jeho vozidlo, jeho naloženie a vyloženie.
 
       - Článok 18 Predmety vylúčené z prepravy
 
@@ -484,37 +486,39 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
         - § 5 Náhrada škody podľa § 1 spolu s náhradami podľa článkov 38 a 39 nesmie byť v žiadnom prípade vyššia ako náhrada škody pri úplnej strate cestovnej batožiny.
 
-      - Článok 41 Sprevádzané motorové vozidlá
+      - Článok 41 Motorové vozidlá
 
-        - § 1 Ak sprevádzané motorové vozidlo je z dôvodov spôsobených železnicou naložené neskoršie alebo oneskorene vydané, je železnica povinná, ak oprávnený dokáže, že tým vznikla škoda, zaplatiť náhradu, ktorej výška nesmie prekročiť prepravné za prepravu vozidla.
+        - § 1 Ak motorové vozidlo je z dôvodov spôsobených železnicou naložené neskoršie alebo oneskorene vydané, je železnica povinná, ak oprávnený dokáže, že tým vznikla škoda, zaplatiť náhradu, ktorej výška nesmie prekročiť prepravné za prepravu vozidla.
 
         - § 2 Ak sa oprávnený vzdá pri oneskorenej nakládke z dôvodu na strane železnice vykonania prepravnej zmluvy, vráti sa mu prepravné za prepravu vozidla a cestovné za cestujúcich. Ak preukáže, že týmto omeškaním vznikla škoda, môže okrem toho žiadať náhradu, ktorej výška nesmie prekročiť prepravné za prepravu vozidla.
 
-        - § 3 Pri úplnej alebo čiastočnej strate vozidla sa oprávnenému vypočíta náhrada za preukázanú škodu podľa zostatkovej hodnoty vozidla, ktorá nesmie presahovať 8000 zúčtovacích jednotiek. Vozidlom sa rozumie aj príves s nákladom alebo bez nákladu.
+        - § 3 Pri úplnej alebo čiastočnej strate vozidla sa oprávnenému vypočíta náhrada za preukázanú škodu podľa zostatkovej hodnoty vozidla, ktorá nesmie presahovať 8000 zúčtovacích jednotiek.
 
         - § 4 Celková náhrada škody nesmie presahovať 1000 zúčtovacích jednotiek.
 
-          - Za predmety ponechané na vozidle železnica nezodpovedá.
+          - Za predmety ponechané na vozidle železnica zodpovedá, len ak túto zodpovednosť prevzala.
 
-        - § 5 Inak platia ustanovenia o zodpovednosti za cestovné batožiny aj pre prepravu sprevádzaných motorových vozidiel.
+        - § 5 Vozidlom sa rozumie aj príves s nákladom alebo bez nákladu.
+
+        - § 6 Inak platia ustanovenia o zodpovednosti za cestovné batožiny aj pre prepravu motorových vozidiel.
 
     - KAPITOLA III Spoločné ustanovenia o zodpovednosti
 
-      - Článok 42 Náhrada škody pri zlom úmysle alebo hrubej nedbanlivosti
+      - Článok 42 Strata práva na obmedzenie zodpovednosti
 
-        - Ak je škoda spôsobená zo zlého úmyslu alebo z hrubej nedbanlivosti železnice, potom ustanovenia článkov 30, 31 a 38 až 41 Jednotných právnych predpisov, ako aj ustanovenia vnútroštátneho práva, ktoré obmedzujú náhradu škody pevnou sumou, sa nepoužijú.
+        - Obmedzenie zodpovednosti stanovené v článkoch 30, 31 a 38 až 41 Jednotných právnych predpisov CIV, ako aj ustanovenia vnútroštátneho práva, ktoré obmedzujú náhradu škody pevnou sumou, sa neuplatnia, ak sa dokáže, že škoda bola spôsobená úmyselne alebo vedomým porušením povinnosti z nedbanlivosti.
 
-        - V prípade hrubej nedbanlivosti je však náhrada škody za stratu, poškodenie alebo oneskorený výdaj cestovnej batožiny obmedzená dvojnásobkom najvyšších súm uvedených v článkoch 38 až 41.
+      - Článok 43 Prepočítanie a zúročenie náhrady škody
 
-      - Článok 43 Zúročenie náhrady škody
+        - § 1 Ak sa pri výpočte odškodného musia sumy vyjadrené v zahraničných menách prepočítať, prepočítajú sa podľa kurzu platného v deň a v mieste zaplatenia odškodného.
 
-        - § 1 Oprávnený si môže nárokovať úroky z náhrady škody vo výške 5 % ročne odo dňa podania reklamácie podľa článku 49 alebo ak reklamácia nebola podaná, odo dňa podania žaloby.
+        - § 2 Oprávnený si môže nárokovať úroky z náhrady škody vo výške 5 % ročne odo dňa podania reklamácie podľa článku 49 alebo ak reklamácia nebola podaná, odo dňa podania žaloby.
 
-        - § 2 Pri náhradách škôd podľa článkov 27 a 28 sa však úroky počítajú až odo dňa, keď nastali okolnosti rozhodujúce pre výpočet náhrady škody, pokiaľ je tento deň neskorší než deň reklamácie alebo podania žaloby.
+        - § 3 Pri náhradách škôd podľa článkov 27 a 28 sa však úroky počítajú až odo dňa, keď nastali okolnosti rozhodujúce pre výpočet náhrady škody, pokiaľ je tento deň neskorší než deň reklamácie alebo podania žaloby.
 
-        - § 3 Pri cestovných batožinách sa môžu úroky požadovať len vtedy, ak náhrada presahuje 8 zúčtovacích jednotiek na každý batožinový lístok.
+        - § 4 Pri cestovných batožinách sa môžu úroky požadovať len vtedy, ak náhrada presahuje 8 zúčtovacích jednotiek na každý batožinový lístok.
 
-        - § 4 Ak oprávnený nepredloží železnici pri cestovnej batožine doklady potrebné na konečné vybavenie reklamácie v primeranej lehote, ktorá sa mu poskytla, zastavuje sa plynutie lehoty na výpočet úrokov od uplynutia tejto lehoty až do predloženia týchto dokladov.
+        - § 5 Ak oprávnený nepredloží železnici pri cestovnej batožine doklady potrebné na konečné vybavenie reklamácie v primeranej lehote, ktorá sa mu poskytla, zastavuje sa plynutie lehoty na výpočet úrokov od uplynutia tejto lehoty až do predloženia týchto dokladov.
 
       - Článok 44 Zodpovednosť pri jadrovej udalosti
 
@@ -600,7 +604,7 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
     - Článok 53 Zánik nárokov zo zodpovednosti pri usmrtení a zranení cestujúceho
 
-      - § 1 Všetky nároky oprávneného zo zodpovednosti železnice pri usmrtení a zranení cestujúceho zanikajú, ak oprávnený neoznámi úraz najneskoršie do troch mesiacov po tom, keď sa dozvedel o škode, niektorej zo železníc, na ktorej možno podať reklamáciu podľa článku 49 § 1.
+      - § 1 Všetky nároky oprávneného zo zodpovednosti železnice pri usmrtení a zranení cestujúceho zanikajú, ak oprávnený neoznámi úraz najneskoršie do šiestich mesiacov po tom, keď sa dozvedel o škode, niektorej zo železníc, na ktorej možno podať reklamáciu podľa článku 49 § 1.
 
         - Ak oprávnený oznámi úraz železnici ústne, musí železnica o tomto ústnom oznámení vyhotoviť potvrdenie.
 
@@ -646,11 +650,7 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
       - § 2 Iné nároky z prepravnej zmluvy sa premlčujú po jednom roku.
 
-        - Premlčacia lehota je však dva roky
-
-        - a) pri nárokoch na náhradu škody spôsobenej zo zlého úmyslu,
-
-        - b) v prípade podvodu.
+        - Premlčacia lehota je však dva roky pri nárokoch na náhradu škody, ktorá bola spôsobená úmyselne alebo vedomým porušením povinnosti z nedbanlivosti.
 
       - § 3 Premlčacia lehota podľa § 2 sa začína pri nárokoch
 

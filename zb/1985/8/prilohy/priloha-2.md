@@ -103,3 +103,75 @@
   - Článok 9
 
     - Organizácia môže uzavrieť s jedným alebo s viacerými členskými štátmi doplnkové dohody na vykonávanie tohto Protokolu vo vzťahu k tomuto alebo k týmto členským štátom, ako aj iné dojednania na zabezpečenie svojej účinnej činnosti.
+
+    - Dodatočný mandát na vykonávanie auditu
+
+    - 1. Audítor kontroluje všetky účty organizácie vrátane všetkých poručníckych fondov a osobitných účtov, ak to považuje za potrebné, aby sa presvedčil, že
+
+      - a) finančné výkazy zodpovedajú knihám a spisom organizácie,
+
+      - b) finančné operácie týkajúce sa výkazov boli vykonané v súlade s pravidlami a predpismi, ako aj s rozpočtovými pravidlami a s inými smernicami organizácie,
+
+      - c) hodnoty a hotovosť, ktoré sú uložené v banke alebo v pokladni, depozitár skontroloval alebo skutočne spočítal na základe priamych dokladov,
+
+      - d) vnútorné kontroly vrátane vnútornej účtovnej kontroly sú primerané,
+
+      - e) všetky zložky aktív a pasív, ako aj všetky prebytky a deficity boli zaúčtované postupom, ktorý považuje za uspokojivý.
+
+    - 2. Len audítor je oprávnený úplne alebo čiastočne uznať potvrdenia a doklady, ktoré mu poskytne generálny riaditeľ. Ak to považuje za účelné, môže postupne preskúmať a preveriť každý doklad o finančnej operácii alebo o dodávke a materiáli.
+
+    - 3. Audítor má kedykoľvek voľný prístup ku všetkým knihám, k spisom, k účtovným dokladom a k ostatným informáciám, ktoré považuje za potrebné.
+
+    - 4. Audítor nie je oprávnený zamietnuť ktorúkoľvek rubriku účtov, neodkladne však upozorní generálneho riaditeľa na každú operáciu, ktorej správnosť alebo účelnosť sa mu zdá pochybná, aby ten mohol prijať potrebné opatrenia.
+
+    - 5. Audítor predloží potvrdenie o finančných výkazoch nasledujúceho znenia, ktoré podpíše: „Skontroloval som finančné výkazy organizácie za obchodný rok, ktorý sa končí 31. decembra .... Kontrola zahŕňa všeobecnú analýzu účtovných postupov, účtovných dokladov a iných podkladov, ktoré som podľa okolností považoval za potrebné“. V tomto potvrdení sa prípadne uvedie, že
+
+      - a) finančné výkazy uspokojivo zobrazujú finančný stav na konci príslušného obdobia, ako aj výsledky finančných operácií vykonaných v tomto období,
+
+      - b) finančné výkazy boli vypracované podľa uvedených účtovných princípov,
+
+      - c) finančné princípy boli uplatnené podľa modalít zodpovedajúcich tým, ktoré platili v predchádzajúcom obchodnom roku,
+
+      - d) finančné operácie boli vykonané v súlade s pravidlami a predpismi, ako aj s rozpočtovými pravidlami a s inými smernicami organizácie.
+
+    - 6. Audítor vo svojej správe o finančných operáciách uvedie
+
+      - a) druh a rozsah kontroly, ktorú vykonal,
+
+      - b) prvky, ktoré sa týkajú úplnosti alebo presnosti účtov, ak sú potrebné, vrátane
+
+        - 1. informácií potrebných na správny výklad a posúdenie účtov,
+
+        - 2. každej sumy, ktorá sa mala vybrať, ale nedošla na účet,
+
+        - 3. každej sumy, ktorá bola predmetom bežného alebo podmieneného výdavkového záväzku, ale nebola zaúčtovaná alebo zohľadnená vo finančných výkazoch,
+
+        - 4. výdavkov, na ktoré neboli predložené dostatočné doklady,
+
+        - 5. výpovede, či sa účtovné knihy viedli správnou formou; treba uviesť prípady, keď sa vystavenie finančných výkazov odchyľuje od všeobecne uznávaných a stále používaných účtovných princípov;
+
+      - c) ďalšie problémy, na ktoré treba upozorniť Správny výbor, napríklad
+
+        - 1. prípady podvodu alebo podozrenia z podvodu,
+
+        - 2. plytvanie alebo nedovolené použitie fondu alebo iného majetku organizácie (aj keď sa účty, ktorých sa týkajú takéto operácie, riadne viedli),
+
+        - 3. výdavky, pri ktorých je nebezpečenstvo, že by mohli dodatočne spôsobiť organizácii značné náklady,
+
+        - 4. každý všeobecný alebo osobitný nedostatok systému kontroly príjmov a výdavkov alebo dodávok a materiálu,
+
+        - 5. výdavky, ktoré nezodpovedajú zámerom Správneho výboru, s ohľadom na riadne plánované prevody v rámci rozpočtu,
+
+        - 6. prekročenia úverov s ohľadom na zmeny vyplývajúce z prevodov, ktoré sú v rozpočte riadne plánované,
+
+        - 7. výdavky, ktoré nezodpovedajú ich existujúcim splnomocneniam,
+
+      - d) presnosti a nepresnosti účtov týkajúcich sa dodávok a materiálu vystavených po inventúre a kontrole kníh.
+
+    - Okrem toho možno v správe poukázať na operácie, ktoré boli zaúčtované v priebehu predchádzajúceho obchodného roka a sú o nich k dispozícii nové informácie, alebo na operácie, ktoré sa majú vykonať v priebehu niektorého neskoršieho obchodného roka a o ktorých treba vopred informovať Správny výbor.
+
+    - 7. Audítor sa nesmie v žiadnom prípade vo svojej správe kriticky vyjadriť bez toho, aby vopred nedal generálnemu riaditeľovi primeranú možnosť zaujať stanovisko.
+
+    - 8. Audítor oznámi Správnemu výboru a generálnemu riaditeľovi zistenia v súvislosti s účtovnou kontrolou. Okrem toho, ak to považuje za potrebné, môže mať vždy komentár k finančnej správe generálneho riaditeľa.
+
+    - 9. Ak audítor vykonal len súhrnnú kontrolu alebo nemohol získať dostatočné vysvetlenia, musí to zaznamenať vo svojom potvrdení a vo svojej správe a uviesť jednotlivé dôvody svojich poznámok, ako aj dôsledky, ktoré z toho vyplývajú pre finančnú situáciu a zaúčtované finančné operácie.
