@@ -1,0 +1,1 @@
+- 1) Príloha č. 1 sa uverejňuje ako samostatná príloha Zbierky zákonov a vydáva sa ako publikácia pod názvom „Zoznam tovarov a technológií, ktoré podliehajú kontrolnému režimu".
