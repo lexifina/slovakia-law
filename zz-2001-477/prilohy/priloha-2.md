@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 477/2001 Z. z.
+
+- OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V MOŠOVCIACH ![Obrázok 02-1](../assets/e00ae9703abb1e3c6dc33a0435c2cb4c9fc7897f31ea911f8394b4990b2d5bb0.png)
