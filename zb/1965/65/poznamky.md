@@ -40,6 +40,8 @@
 
 - 16) Zákon č. 73/1990 Zb. o civilnej službe.
 
+- 16a) § 11a písm. i) zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov.
+
 - 17) § 2 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
 
 - Zákon č. 172/1990 Zb. o vysokých školách.
