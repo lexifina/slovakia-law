@@ -22,6 +22,10 @@
 
 - 10a) § 742 zákona č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 509/1991 Zb.
 
+- 10aa) § 3 ods. 5 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 69/2000 Z. z.
+
+- 10ab) § 12 ods. 2 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. v znení zákona č. 69/2000 Z. z.
+
 - 11) Zákon č. 174/1950 Zb. o dražbách mimo exekúcie v znení zákona č. 513/1991 Zb.
 
 - 11a) § 2 Obchodného zákonníka.
