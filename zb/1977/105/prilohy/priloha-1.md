@@ -1,0 +1,1 @@
+![Obrázok 01](../assets/5435433932bfe584aa6d050ac589d4e7f2b609e83663bd68e693a5e6bf3725bf.png)
