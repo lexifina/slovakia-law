@@ -370,7 +370,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z.
 
 - 2201 | - Voda, vrátane minerálnych vôd prírodných alebo umelých a sódoviek, bez prísady cukru alebo iných sladidiel, nearomatizovaných; ľad a sneh
 
-- 22021000 | - Voda, vrátane minerálnych vôd a sódoviek s prísadou cukru alebo iných sladidiel alebo aromatizovaná - len z minerálnych vôd s výnimkou ovocných alebo zeleninových štiav čísla 2009
+- 2202 | - Voda vrátane minerálnych vôd a sódoviek s prídavkom cukru alebo iných sladidiel alebo aromatizovaná a iné nealkoholické nápoje s výnimkou ovocných alebo zeleninových štiav čísla 2009
 
 - 220900 | - Stolový ocot a jeho náhradky získané z kyseliny octovej
 
