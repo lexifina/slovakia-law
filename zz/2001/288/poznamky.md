@@ -1,0 +1,1 @@
+- 1) Zmenený text každého pravidla tak, ako bolo zmenené. Ak odsek alebo položka akéhokoľvek pravidla nebola zmenená, uvádza sa označenie (bez zmeny).
