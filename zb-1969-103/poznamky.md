@@ -1,0 +1,1 @@
+- *) Vyhláška Ministerstva školstva z 23. 10. 1968 č. 140/1968 Zb. o pracovných úľavách a hospodárskom zabezpečení študujúcich popri zamestnaní.
