@@ -1,0 +1,1 @@
+- *) § 40 ods. 1 písm. d) vládneho nariadenia č. 100/1996 Zb. o plánovitom riadení národného hospodárstva v znení neskorších predpisov.
