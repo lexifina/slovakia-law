@@ -14,4 +14,6 @@ Podľa svojho článku 11 Dohovor nadobudol účinnosť 28. decembra 1957.
 
 České znenie Dohovoru sa vyhlasuje v Prílohe Zbierky zákonov.<sup>**</sup>)
 
+Nadobudnutím platnosti zmluvy uverejnenej oznámením č. 307/1998 Z. z. vo vzťahu medzi Slovenskou republikou a Chorvátskou republikou stráca platnosť Dohovor medzi Československou republikou a Federatívnou ľudovou republikou Juhosláviou o spolupráci na poli sociálnej politiky (vyhláška ministra zahraničných vecí č. 2/1958 Zb.).
+
 David v. r.
