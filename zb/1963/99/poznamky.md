@@ -62,17 +62,19 @@
 
 - 32) § 259 ods. 4 Obchodného zákonníka.
 
-- 33) Zákon ČNR č. 209/1990 Zb. o komerčných právnikoch a právnej pomoci nimi poskytovanej.
+- 33) Zákon SNR č. 129/1991 Zb. o komerčných právnikoch.
 
-- Zákon SNR č. 129/1991 Zb. o komerčných právnikoch.
+- 33a) § 62 zákona č. 94/1963 Zb. o rodine v znení neskorších predpisov.
 
-- 33a) Napr. § 62 zákona č. 94/1963 Zb. o rodine v znení zákona č. 132/1982 Zb. a zákona č. 234/1992 Zb.
+- Čl. IV zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení neskorších predpisov a zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 34) Vyhláška Ministerstva spravodlivosti Českej republiky č. 270/1990 Zb. o odmenách advokátov a komerčných právnikov za poskytovanie právnej pomoci v znení vyhlášky č. 573/1990 Zb.
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 44/1991 Zb.
 
 - 34a) § 27 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
+
+- 34b) Zákon Slovenskej národnej rady č. 139/1984 Zb. o notárskych poplatkoch v znení zákona Slovenskej národnej rady č. 192/1990 Zb.
 
 - 35) V súčasnosti ide najmä o tieto prípady:
 
@@ -86,19 +88,13 @@
 
 - § 122 a 145a zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb. a zákona č. 180/1990 Zb., ak ide o rozhodnutie o zákonnom nároku na dávku dôchodkového zabezpečenia uvedenú v § 7 písm. a) č. 1 – 7, písm. b) a c) citovaného zákona,
 
-- § 9 ods. 4 a 7 zákona ČNR č. 37/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami,
-
 - § 8 ods. 3, § 11 ods. 2 a § 12 ods. 3 písm. c) zákona č. 83/1990 Zb. o združovaní občanov,
 
 - § 11 ods. 3 a § 13 zákona č. 84/1990 Zb. o zhromažďovacom práve,
 
-- § 28 ods. 3 zákona ČNR č. 128/1990 Zb. o advokácii,
-
 - § 27 ods. 3 zákona SNR č. 132/1990 Zb. o advokácii,
 
 - § 28 ods. 3 zákona č. 172/1990 Zb. o vysokých školách,
-
-- § 25 zákona ČNR č. 209/1990 Zb. o komerčných právnikoch a právnej pomoci nimi poskytovanej,
 
 - § 11 ods. 2 zákona č. 382/1990 Zb. o rodičovskom príspevku, ak ide o rozhodnutie vrátiť preplatok,
 

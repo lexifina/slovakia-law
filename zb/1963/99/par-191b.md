@@ -6,4 +6,4 @@
 
 (3) Súd vykoná dôkazy potrebné na posúdenie, či k prevzatiu (§ 191a ods. 1 a 2) došlo zo zákonných dôvodov, vyslúchne chorého a ošetrujúceho lekára. Pojednávanie spravidla nie je potrebné nariaďovať.
 
-(4) Do siedmich dní odo dňa, keď došlo k obmedzeniu podľa § 191a, súd uznesením rozhodne, či k prevzatiu došlo zo zákonných dôvodov (§ 191a ods. 1).
+(4) Do piatich dní odo dňa, keď došlo k obmedzeniu podľa § 191a, súd uznesením rozhodne, či k prevzatiu došlo zo zákonných dôvodov (§ 191a ods. 1).

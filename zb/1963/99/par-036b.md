@@ -14,6 +14,4 @@
 
 - f) o neplatnosť rozhodcovských zmlúv a o zrušení rozhodcovských nálezov vydaných rozhodcami na základe rozhodcovskej zmluvy,
 
-- g) zo vzťahov vznikajúcich z medzinárodného obchodného styku právnických a fyzických osôb včítane sporov, pri ktorých bola právomoc česko-slovenského súdu založená písomným dohovorom účastníkov.
-
 (2) V ostatných obchodných veciach koná a rozhoduje v konaní pred krajským súdom samosudca. To platí aj o vydávaní zmenkových (šekových) platobných rozkazov a o rozhodovaní vo veciach uvedených v § 200e.
