@@ -12,6 +12,12 @@
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 7a) § 17 zákona č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov.
+
+- 7b) Zákon č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov.
+
+- 7c) Zákon č. 383/1997 Z. z.
+
 - 8) Napríklad zákon č. 87/1987 Zb. o veterinárnej starostlivosti v znení zákona č. 239/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 115/1995 Z. z., zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 547/1990 Zb. o nakladaní s niektorými druhmi tovaru a technológií a o ich kontrole.
 
 - 9) Napríklad vládna vyhláška č. 59/1948 Zb., ktorou sa uvádza v dočasnú platnosť Všeobecná dohoda o clách a obchode zo dňa 30. októbra 1947, vyhláška ministra zahraničných vecí č. 120/1984 Zb. o Dohode o vykonávaní článku VII Všeobecnej dohody o clách a obchode a Protokolu k nej, Dohoda medzi Slovenskou republikou a Českou republikou o vytvorení colnej únie (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 199/1993 Z. z.).
