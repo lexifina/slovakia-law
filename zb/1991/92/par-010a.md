@@ -26,7 +26,7 @@
 
 - a) spôsob výberu nadobúdateľa,
 
-- b) nadobúdateľa privatizovaného majetku s uvedením jeho identifikačného alebo rodného čísla,
+- b) nadobúdateľa privatizovaného majetku s uvedením jeho identifikačného alebo rodného čísla, ak je nadobúdateľom obchodná spoločnosť, k rozhodnutiu musí byť okrem výpisu z obchodného registra priložená aj spoločenská, resp. zakladateľská zmluva alebo zakladateľská listina,
 
 - c) spôsob určenia kúpnej ceny; ak je kúpna cena určená dohodou, uvedie sa absolútna suma,
 
@@ -34,7 +34,7 @@
 
 (3) Rozhodnutie o privatizácii verejnou súťažou obsahuje okrem náležitostí uvedených v odseku 1
 
-- a) podmienky verejnej súťaže a kritériá na posúdenie ich splnenia,
+- a) podmienky verejnej súťaže a kritériá na posúdenie ich splnenia, ktoré fond po vyhlásení víťaza súťaže nemôže meniť,
 
 - b) vymedzenie okruhu účastníkov privatizácie.
 
@@ -46,7 +46,9 @@
 
 - c) prípadnú zmenu v návrhu na obsadenie orgánov obchodnej spoločnosti,
 
-- d) pri predaji akcií (obchodného podielu) za dohodnutú kúpnu cenu cenu jednej akcie (obchodného podielu) alebo dohodnutú celkovú cenu.
+- d) pri predaji akcií (obchodného podielu) za dohodnutú kúpnu cenu cenu jednej akcie (obchodného podielu) alebo dohodnutú celkovú cenu,
+
+- e) určenie podielu na výmenu dlhopisov fondu za akcie fondu.
 
 (5) Prílohu privatizovaného projektu vybraného rozhodnutím o privatizácii na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
 
