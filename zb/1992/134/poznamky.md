@@ -20,7 +20,15 @@
 
 - 7) § 5 ods. 4 zákona o ovzduší v znení neskorších predpisov.
 
+- 7a) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 144/2000 Z. z. o požiadavkách na kvalitu palív, o vedení prevádzkovej evidencie a o druhu, rozsahu a spôsobe poskytovania údajov orgánu ochrany ovzdušia.
+
 - 8) § 18 zákona o ovzduší v znení neskorších predpisov.
+
+- 8a) § 11 ods. 2 zákona č. 309/1991 Zb.
+
+- 8b) § 11 ods. 1 písm. l) zákona č. 309/1991 Zb.
+
+- 8c) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 41/1997 Z. z.
 
 - 9) Článok 139a ústavného zákona č. 143/1968 Zb. o československej federácii v znení neskorších predpisov.
 
@@ -36,9 +44,19 @@
 
 - 11b) § 20 ods. 5 a 6 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.
 
+- 11c) Príloha č. 1 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 200/1999 Z. z. o požiadavkách na vedenie prevádzkovej evidencie zdrojov znečisťovania a o rozsahu ďalších údajov, ktoré sú prevádzkovatelia zdrojov znečisťovania povinní poskytovať orgánu ochrany ovzdušia.
+
+- 11d) § 6 ods. 3 písm. b) vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 144/2000 Z. z.
+
+- 11e) § 11a ods. 8 zákona č. 309/1991 Zb.
+
+- 11f) Nariadenie vlády Slovenskej republiky č. 92/1996 Z. z.
+
 - 12) § 3 ods. 2 písm. c) a § 8 zákona o ovzduší v znení neskorších predpisov.
 
 - 13) Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva v znení zákona č. 383/1990 Zb. a zákona č. 558/1991 Zb.
+
+- 13a) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 200/1999 Z. z.
 
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
