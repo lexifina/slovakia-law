@@ -20,6 +20,8 @@
 
 - †) § 14 vyhlášky č. 136/1961 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon).
 
+- *) Vyhláška č. 102/1968 Zb. o krížení pozemných komunikácií so železnicami v úrovni koľají.
+
 - *) Vyhláška č. 127/1964 Zb. o mestskom prepravnom poriadku.
 
 - Vyhláška č. 133/1964 Zb. o cestnom prepravnom poriadku.
