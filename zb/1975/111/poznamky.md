@@ -29,3 +29,7 @@
 - 15) § 16 ods. 1 písm. g) vyhlášky č. 52/1964 Zb., ktorou sa vykonáva zákon o dráhach, v znení vyhlášky č. 132/1969 Zb.Smernice o koordinácii a súčinnosti orgánov dopravy, bezpečnosti a prokuratúry pri železničných nehodách (reg. v čiastke 12/1973 Zb.). § 45 zákona č. 47/1956 Zb. o civilnom letectve (letecký zákon). Predpis Federálneho ministerstva dopravy a o odbornom vyšetrovaní príčin leteckých nehôd (reg. v čiastke 14/1975 Zb.).
 
 - Smernice o koordinácii postupu a súčinnosti orgánov dopravy, bezpečnosti a prokuratúry pri leteckých nehodách, uverejnené vo Vestníku dopravy č. 15/1975. § 18 zákona č. 26/1964 Zb. o vnútrozemskej plavbe. § 21 až 26 vyhlášky č. 137/1974 Zb. o vnútrozemskej plavbe. § 3 písm. c) vládneho nariadenia č. 54/1953 Zb. o premávke na cestách.
+
+- 16) Tlačivo ŠEVT - 04 164 0.
+
+- 1) Napr. § 10 zákona č. 111/1990 Zb. o štátnom podniku.
