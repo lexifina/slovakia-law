@@ -1,1 +1,0 @@
-- 1) Uznesenie vlády Slovenskej republiky z 1. augusta 1995 č. 572 k návrhu územného plánu veľkého územného celku Zemplínsky región.
