@@ -38,7 +38,15 @@
 
 - 19) § 2 ods. 2 zákona č. 351/1997 Z. z. Branný zákon.
 
-- 20) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z., zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 20) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
+
+- 20a) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
+
+- 20b) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
+
+- Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 21) Napríklad zákon č. 370/1997 Z. z., zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení zákona č. 54/1999 Z. z.
 
