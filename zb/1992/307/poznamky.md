@@ -1,10 +1,14 @@
-- 1) § 6 zákona SNR č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+- 1) § 6 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
-- 2) Napr. zákon č. 138/1973 Zb. o vodách (vodný zákon), vyhláška Ministerstva kultúry SSR č. 149/1980 Zb., ktorou sa ustanovujú podrobnosti o ochrane stromov rastúcich mimo lesa, o postupe pri výnimočnom povoľovaní ich výrubu a o spôsobe využitia drevnej hmoty z týchto stromov.
+- 1a) § 9 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 2) Napríklad zákon č. 138/1973 Zb. o vodách (vodný zákon), zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+
+- 2a) Zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
 - 3) Zákon SNR č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách.
 
-- 4) Zákon SNR č. 595/1990 Zb. o štátnej správe pre životné prostredie.
+- 4) § 9 ods. 3 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. § 53 písm. f) zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 5) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
@@ -18,9 +22,17 @@
 
 - Zákon SNR č. 369/1990 Zb. o obecnom zriadení v znení zákona SNR č. 130/1991 Zb. a zákona SNR č. 421/1991 Zb.
 
-- 6) Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona SNR č. 498/1991 Zb.
+- 5a) Nariadenie vlády Slovenskej republiky č. 152/1996 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
 
-- 7) Napr. zákon č. 50/1976 Zb.
+- 5b) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
+- 5c) § 54 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.§ 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
+- 5d) Príloha k nariadeniu vlády Slovenskej republiky č. 152/1996 Z. z.
+
+- 6) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 7) § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
 - 8) Zákon SNR č. 330/1991 Zb.
 
