@@ -1,1 +1,0 @@
-- 1) Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
