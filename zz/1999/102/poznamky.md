@@ -1,0 +1,1 @@
+- 1) Nadpisy nových článkov 19 až 51 dohovoru sú uvedené už v tomto protokole.
