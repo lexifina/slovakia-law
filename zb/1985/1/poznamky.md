@@ -1,0 +1,1 @@
+- 1) § 12 a 32 zákona č. 20/1966 Sb., o péči o zdraví lidu.
