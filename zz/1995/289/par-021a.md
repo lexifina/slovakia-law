@@ -8,9 +8,9 @@
 
 - c) investičný majetok, pri ktorom odpočítal daň podľa § 20 ods. 3, použije na uskutočňovanie zdaniteľných plnení s možnosťou odpočítania dane podľa § 20 ods. 1 alebo na uskutočňovanie zdaniteľných plnení bez možnosti odpočítania dane podľa § 20 ods. 2 písm. a).
 
-(2) Ak sa zmenil účel použitia investičného majetku v priebehu kalendárneho roka, v ktorom platiteľ odpočítal daň pri investičnom majetku, úpravu odpočítanej dane platiteľ vysporiada v poslednom zdaňovacom období kalendárneho roka. Platiteľ postupuje pri úprave odpočítanej dane podľa prílohy č. 3.
+(2) Ak sa zmenil účel použitia investičného majetku v priebehu kalendárneho roka, v ktorom platiteľ odpočítal daň pri investičnom majetku, úpravu odpočítanej dane platiteľ vysporiada v poslednom zdaňovacom období kalendárneho roka. Platiteľ postupuje pri úprave odpočítanej dane podľa prílohy.
 
-(3) Ak sa zmenil účel použitia investičného majetku v priebehu štyroch kalendárnych rokov nasledujúcich po kalendárnom roku, v ktorom platiteľ odpočítal daň, úpravu odpočítanej dane platiteľ vykoná v poslednom zdaňovacom období kalendárneho roka, v ktorom sa zmenil účel použitia investičného majetku podľa odseku 1. Platiteľ postupuje pri úprave odpočítanej dane podľa prílohy č. 3.
+(3) Ak sa zmenil účel použitia investičného majetku v priebehu štyroch kalendárnych rokov nasledujúcich po kalendárnom roku, v ktorom platiteľ odpočítal daň, úpravu odpočítanej dane platiteľ vykoná v poslednom zdaňovacom období kalendárneho roka, v ktorom sa zmenil účel použitia investičného majetku podľa odseku 1. Platiteľ postupuje pri úprave odpočítanej dane podľa prílohy.
 
 (4) Investičným majetkom na účely tohto zákona sú hnuteľné veci, ktorých cena obstarania bez dane je vyššia ako 30 000 Sk a ktorých doba použiteľnosti je dlhšia ako jeden rok, a stavby a nehnuteľnosti.
 

@@ -10,7 +10,7 @@
 
 (2) Službami cestovného ruchu podľa odseku 1 sú osobná doprava cestujúcich, ubytovanie, stravovanie, služby sprievodcu a ďalšie služby určené na osobnú spotrebu účastníkov cestovného ruchu.
 
-(3) Základom dane pri predaji služieb cestovného ruchu je rozdiel medzi celkovou predajnou cenou požadovanou od zákazníka a súčtom cien služieb cestovného ruchu obstaraných od iných osôb, ktoré sú zahrnuté v predajnej cene požadovanej od zákazníka. Tento rozdiel predstavuje vlastný výkon cestovnej kancelárie, ktorý podlieha sadzbe dane 14 % a považuje sa za cenu s daňou. Daň sa vypočíta podľa § 11 ods. 3. Ustanovenie § 38 ods. 2 písm. a) tým nie je dotknuté.
+(3) Základom dane pri predaji služieb cestovného ruchu je rozdiel medzi celkovou predajnou cenou požadovanou od zákazníka a súčtom cien služieb cestovného ruchu obstaraných od iných osôb, ktoré sú zahrnuté v predajnej cene požadovanej od zákazníka. Tento rozdiel predstavuje vlastný výkon cestovnej kancelárie a považuje sa za cenu s daňou. Daň sa vypočíta podľa § 11 ods. 3. Ustanovenie § 38 ods. 2 písm. a) tým nie je dotknuté.
 
 (4) Ak platiteľ sám poskytuje niektorú zo služieb cestovného ruchu (odsek 2), uplatňuje k cene tejto služby daň na výstupe, pričom základom dane je cena, ktorá neobsahuje daň; cenu tejto služby vrátane dane vylúči zo základu dane určeného podľa odseku 3.
 

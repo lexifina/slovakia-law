@@ -1,4 +1,4 @@
-Príloha č. 3 Postup pri úprave odpočítanej dane pri investičnom majetku
+Príloha k zákonu Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov Postup pri úprave odpočítanej dane pri investičnom majetku
 
 Pri úprave dane podľa § 21a postupuje platiteľ podľa vzorca
 
