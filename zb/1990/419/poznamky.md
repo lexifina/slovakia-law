@@ -1,0 +1,1 @@
+- 1) § 3 ods. 1 zákona č. 102/1971 Zb. o ochrane štátneho tajomstva.
