@@ -1,0 +1,3 @@
+- 1) § 43b a 43c zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+
+- 2) Napríklad nariadenie vlády Slovenskej republiky č. 45/2002 Z. z. o ochrane zdravia pri práci s chemickými faktormi, nariadenie vlády Slovenskej republiky č. 47/2002 Z. z. o ochrane zdravia pri práci s biologickými faktormi, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 12/2001 Z. z. o požiadavkách na zabezpečenie radiačnej ochrany, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 198/2001 Z. z., ktorou sa ustanovujú požiadavky na správnu lekárenskú prax.
