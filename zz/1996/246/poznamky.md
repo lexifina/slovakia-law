@@ -1,0 +1,1 @@
+- 1) Dňa 22. apríla 1996 z dôvodu zmien, ktoré nastali v asociácii v dôsledku uplatňovania zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, bol zmenený jej názov na Asociáciu dopravcov v cestnej doprave.
