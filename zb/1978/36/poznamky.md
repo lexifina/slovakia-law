@@ -4,6 +4,10 @@
 
 - 3) § 27 a 39 autorského zákona.
 
+- 3a) § 41 ods. 3 autorského zákona.
+
+- § 2 ods. 2 písm. b) nariadenia vlády Slovenskej socialistickej republiky č. 180/1969 Zb. o kultúrnych fondoch, o príspevkoch príjemcov autorských odmien a odmien výkonných umelcov kultúrnym fondom, o príspevkoch za používanie voľných literárnych, vedeckých a umeleckých diel a o príspevkoch používateľov diel.
+
 - 4) § 20 až 22 Hospodárskeho zákonníka (úplné znenie vyhlásené pod č. 37/1971 Zb.). § 8 až 10 Zákonníka práce (úplné znenie vyhlásené pod č. 55/1975 Zb.). § 18 až 23 Občianskeho zákonníka.
 
 - 5) Napr. autorský zákon, Zákonník práce (úplné znenie vyhlásené pod č. 55/1975 Zb.), vyhláška č. 111/1975 Zb. o evidencii a registrácii pracovných úrazov a o hlásení prevádzkových nehôd (havárií) a porúch technických zariadení, vyhláška č. 106/1959 Ú. v. o organizácii požiarnej ochrany, vyhláška č. 70/1960 Zb. o zabezpečení pohotovosti hasiacich zariadení, zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
