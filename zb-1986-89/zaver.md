@@ -1,0 +1,1 @@
+Štrougal v. r.
