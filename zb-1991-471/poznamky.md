@@ -1,0 +1,1 @@
+- 25) Např. předložením potvrzení úřadu práce o tom, že je uchazečem o zaměstnání, dokladem o přiznání nebo poskytování starobního nebo invalidního důchodu.
