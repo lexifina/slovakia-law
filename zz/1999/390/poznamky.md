@@ -4,7 +4,7 @@
 
 - 3) § 1 vládneho nariadenia č. 240/1949 Zb., ktorým sa vykonáva poštový zákon.
 
-- 4) Opatrenie Národnej banky Slovenska zo 17. apríla 1998 č. 3/1998, ktorým sa ustanovujú podmienky na usmerňovanie platobnej bilancie Slovenskej republiky (oznámenie č. 122/1998 Z. z.).
+- 4) Opatrenie Národnej banky Slovenska zo 6. decembra 1999 č. 6/1999, ktorým sa ustanovujú podmienky na usmerňovanie platobnej bilancie Slovenskej republiky (oznámenie č. 358/1999 Z. z.).
 
 - 5) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
