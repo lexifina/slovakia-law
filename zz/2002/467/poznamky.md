@@ -2,6 +2,8 @@
 
 - 2) § 2 písm. b) prvý bod zákona Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení zákona č.169/2001 Z. z.
 
+- 2a) § 23 zákona č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 4) § 663 až 684 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
@@ -40,6 +42,8 @@
 
 - 21) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
+- 21a) § 19 zákona č. 105/2004 Z. z.
+
 - 22) § 2 ods. 4 zákona Národnej rady Slovenskej republiky č. 229/1995 Z. z.
 
 - 23) Napríklad zákon č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov.
@@ -51,5 +55,7 @@
 - 26) Zákon č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení neskorších predpisov.
 
 - 27) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 27a) § 45 zákona č. 105/2004 Z. z.
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
