@@ -1,5 +1,7 @@
 - 1) ČSN 34 3100 Bezpečnostné predpisy pre obsluhu a prácu na elektrických zariadeniach.
 
+- 1) Úprava Slovenského banského úradu č. 3800/1973 z 19. 7. 1974, ktorou sa ustanovujú podmienky pre vykonávanie revízií elektrických zariadení a pre priznávanie odbornej spôsobilosti revíznych technikov elektrických zariadení (reg. v čiastke 7/1975 Zbierky zákonov).
+
 - 2) Smernice Ministerstva zdravotníctva o posudzovaní zdravotnej spôsobilosti na prácu z 15. 5. 1970, publikované v čiastke 9-10 Vestníka Ministerstva zdravotníctva SSR pod č. 17/1970.
 
 - 3) ČSN 34 3108 Bezpečnostné predpisy pre zaobchádzanie s elektrickými zariadeniami osobami bez elektrotechnickej kvalifikácie.
