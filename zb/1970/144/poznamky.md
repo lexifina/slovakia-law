@@ -1,0 +1,1 @@
+- *) Štátna banka československá bola zriadená zákonom č. 31/1950 Zb.
