@@ -16,8 +16,6 @@
 
 - 9) § 7 ods. 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
-- 10) § 3 písm. n) zákona Slovenskej národnej rady č. 128/1991 Zb. o Štátnom fonde životného prostredia Slovenskej republiky.
-
 - 11) § 5 ods. 3 písm. e) zákona Slovenskej národnej rady č. 494/1991 Zb. o štátnej správe v odpadovom hospodárstve.§ 12 písm. b) a § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
 - 12) Nariadenie vlády Slovenskej republiky č. 606/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 190/1996 Z. z.

@@ -1,6 +1,6 @@
 Príloha č. 4 zákona Národnej rady Slovenskej republiky č. 327/1996 Z. z.
 
-- PODIEL Z POPLATKU V SADZBE B PODĽA PRÍLOHY Č. 1 NA VÝPOČET PRÍJMU ROZPOČTU ŠTÁTNEHO FONDU ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | Položka odpadu | %
+- PODIEL Z POPLATKU V SADZBE B PODĽA PRÍLOHY Č. 1 NA VÝPOČET PRÍJMU ŠTÁTNEHO ROZPOČTU | Položka odpadu | %
 
 - 1. | Zeminy a hlušiny | 67
 
