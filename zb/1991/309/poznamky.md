@@ -2,8 +2,6 @@
 
 - 2) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb. Vyhláška Štátnej komisie pre vedecko-technický a investičný rozvoj č. 186/1990 Zb. o oprávnení na projektovú činnosť.
 
-- 3) Napríklad § 10 ods. 1 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe.
-
 - 3a) § 3 a 5 zákona Slovenskej národnej rady č. 134/1992 Zb.
 
 - 3b) § 74 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona Slovenskej národnej rady č. 419/1991 Zb. a zákona Slovenskej národnej rady č. 295/1992 Zb.
@@ -15,6 +13,8 @@
 - 4a) § 12 zákona Slovenskej národnej rady č. 134/1992 Zb.
 
 - 4b) Zákon Slovenskej národnej rady č. 311/1992 Zb. o poplatkoch za znečisťovanie ovzdušia.
+
+- 4c) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 154/1995 Z. z.
 
 - 5) Napr. zákon č. 28/1984 Zb. o štátnom dozore nad jadrovou bezpečnosťou jadrových zariadení.
 
