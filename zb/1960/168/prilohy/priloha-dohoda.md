@@ -1,49 +1,61 @@
 DOHODA
 
-- o vedeckej a technickej spolupráci medzi vládou Československej republiky a Cisárskou etiópskou vládou
+- o kultúrnej spolupráci medzi Československou republikou a Etiópskym cisárstvom
 
-- Vláda Československej republiky a Cisárska etiópska vláda prajúc si podporovať hospodársky rozvoj a rozširovať vedeckú a technickú spoluprácu medzi oboma krajinami dohodli sa takto:
+- Vláda Československej republiky a vláda Etiópskeho cisárstva prajúc si prehľbiť priateľstvo medzi národmi oboch krajín a usilujúc o rozvoj spolupráce v oblasti vedy, školstva a kultúry, rozhodli sa dojednať túto Dohodu a za tým účelom vymenovali za svojich splnomocnencov:
 
-  - Článok I
+- vláda Československej republiky
 
-    - Obe zmluvné strany sa zaväzujú spolupracovať v oblasti vedy a techniky, aby zabezpečili účinné využitie najnovších poznatkov vedy a techniky pre hospodársky rozvoj svojich krajín.
+- pána Júliusa Ďuriša, ministra financií,
 
-  - Článok II Spolupráca podľa článku I tejto Dohody bude spočívať v poskytovaní vedeckej a technickej pomoci najmä na poli
+- vláda Etiópskeho cisárstva
 
-    - 1. baníctva,
+- J. E. Ato Yilma Deressa, ministra zahraničných vecí,
 
-    - 2. zdravotníctva,
+- ktorí vymeniac si svoje plnomocenstvá, ktoré zistili v úplnom poriadku a v náležitej forme, dohodli sa takto:
 
-    - 3. spojov,
+  - Článok 1
 
-    - 4. vedeckej a technickej výchovy,
+    - Zmluvné strany budú podporovať rozvoj kultúrnych stykov medzi oboma krajinami usporadúvaním hudobných a divadelných predstavení, prednášok, umeleckých a vedeckých výstav, návštevami kultúrnych a umeleckých skupín a podporovaním spolupráce medzi oficiálnymi vedeckými ústavmi a umeleckými sväzmi.
 
-    - 5. pôdohospodárstva a
+  - Článok 2
 
-    - 6. priemyslu.
+    - Zmluvné strany budú podporovať rozvoj spolupráce a výmenu informácií medzi vedeckými, kultúrnymi, školskými a zdravotníckymi inštitúciami a za tým účelom budú uľahčovať vzájomné návštevy univerzitných profesorov, učiteľov odborných škôl, ako aj členov uvedených inštitúcií.
 
-  - Článok III
+  - Článok 3
 
-    - Na uskutočnenie cieľov tejto Dohody vláda Československej republiky na žiadosť Cisárskej etiópskej vlády:
+    - Zmluvné strany umožnia poskytovaním štipendií a iných výhod prostredníctvom oboch príslušných ministerstiev spravujúcich školstvo príslušníkom druhej zmluvnej strany štúdium na svojich vysokých umeleckých a odborných školách.
 
-    - 1. poskytne Cisárskej etiópskej vláde pomoc pri zabezpečovaní osôb, expertov a zariadení v odboroch uvedených v článku II tejto Dohody.
+  - Článok 4
 
-    - 2. Poskytne štipendiá a možnosti pre školenie študentov a praktikantov z Etiópskeho cisárstva na československých školách a v priemyslových závodoch.
+    - Každá zo zmluvných strán uváži otázku uznávania diplomov a hodností udelených druhou zmluvnou stranou; ak to uznajú zmluvné strany za nutné, dojednajú za tým účelom osobitnú dohodu.
 
-  - Článok IV
+  - Článok 5
 
-    - Podmienky a rozsah spolupráce uvedené v článku I tejto Dohody sa dohodnú v protokoloch, ktoré obe zmluvné strany dojednajú vždy na určité časové obdobie.
+    - Zmluvné strany budú v rámci svojich možností podporovať usporadúvanie športových súťaží medzi príslušníkmi svojich krajín.
 
-  - Článok V
+  - Článok 6
 
-    - Táto Dohoda nadobudne platnosť dňom výmeny nót potvrdzujúcich, že táto Dohoda bola schválená podľa príslušných ústavných predpisov zmluvných strán, a zostane v platnosti po dobu troch rokov. Potom sa bude bez ďalšieho predlžovať o ďalšie obdobia, každé v trvaní jedného roku, pokiaľ ju jedna zo zmluvných strán písomne nevypovie tri mesiace pred uplynutím počiatočného trojročného obdobia alebo každého ďalšieho jednoročného obdobia.
+    - Zmluvné strany budú uľahčovať výmenu vedeckých, kultúrnych a umeleckých kníh a publikácií, ako aj filmov.
 
-    - Dané v Addis Abebe 11. decembra 1959 vo dvoch vyhotoveniach v jazyku anglickom.
+  - Článok 7
 
-- Za vládu Československej republiky:
+    - Zmluvné strany zabezpečia, aby učebnice predpísané pre školy neobsahovali chyby alebo nesprávny výklad o krajine druhej zmluvnej strany.
 
-- J. Ďuriš v. r.
+  - Článok 8
 
-- Za Cisársku etiópsku vládu:
+    - Každá zo zmluvných strán umožní vydávanie prekladov významných vedeckých, kultúrnych a umeleckých diel autorov druhej zmluvnej strany.
 
-- M. Habte-Wold v. r.
+  - Článok 9
+
+    - 1. Na vykonávanie tejto Dohody budú čas od času vypracované plány kultúrnej spolupráce.
+
+    - 2. Za účelom dojednania týchto plánov obe zmluvné strany vymenujú svojich zástupcov, ktorí budú konať ich menom a zastupovať ich.
+
+  - Článok 10
+
+    - 1. Táto Dohoda nadobudne platnosť v deň, keď si zmluvné strany potvrdia výmenou nót, že Dohoda bola schválená podľa príslušných ústavných predpisov zmluvných strán.
+
+    - 2. Dohoda zostane v platnosti po dobu dvoch rokov odo dňa nadobudnutia platnosti a bude sa bez ďalšieho predlžovať na konci tohto obdobia o vopred neurčený počet jednoročných období, pokiaľ jedna zo zmluvných strán šesť mesiacov pred uplynutím počiatočného dvojročného obdobia alebo každého ďalšieho jednoročného obdobia neoznámi písomne svoj úmysel Dohodu vypovedať.
+
+      - Dané v Addis Abebe 11. decembra 1959 vo dvoch vyhotoveniach v jazyku českom, amharskom a anglickom, pričom všetky tri znenia majú rovnakú platnosť okrem prípadu rozdielneho výkladu, kedy je anglické znenie rozhodujúce.
