@@ -74,6 +74,8 @@
 
 - § 25 devízového zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb. (úplné znenie č. 457/1992 Zb.).
 
+- 24a) Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam v znení neskorších predpisov.
+
 - 25) § 1 zákona SNR č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
 - § 11 zákona SNR č. 369/1990 Zb.
@@ -81,6 +83,12 @@
 - § 11 zákona SNR č. 377/1990 Zb. v znení zákona SNR č. 523/1990 Zb.
 
 - § 10 zákona SNR č. 401/1990 Zb.
+
+- 25a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
+- 25b) § 3 zákona č. 169/1949 Zb. o vojenských obvodoch.
+
+- 25c) § 611 Občianskeho zákonníka.
 
 - 26) § 4 a nasl. zákona č. 427/1990 Zb.
 
