@@ -1,0 +1,1 @@
+- 1) Ustanovenie § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
