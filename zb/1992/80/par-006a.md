@@ -1,9 +1,15 @@
-# § 6a Vojenské súdy
+# § 6a Sídla a obvody vojenských súdov
 
-(1) Sídlo Vyššieho vojenského súdu je Trenčín; jeho obvod tvoria obvody vojenských obvodových súdov so sídlom v Bratislave, Banskej Bystrici a v Prešove.
+(1) Sídlom Vyššieho vojenského súdu je mesto Trenčín; jeho obvod tvoria územné obvody
 
-(2) Obvod Vojenského obvodového súdu v Bratislave tvoria obvody zhodné s obvodom Krajského súdu v Bratislave a Mestského súdu v Bratislave.
+- a) Vojenského obvodového súdu v Bratislave,
 
-(3) Obvod Vojenského obvodového súdu v Banskej Bystrici tvorí obvod zhodný s obvodom Krajského súdu v Banskej Bystrici.
+- b) Vojenského obvodového súdu v Banskej Bystrici,
 
-(4) Obvod Vojenského obvodového súdu v Prešove tvorí zhodný obvod s obvodom Krajského súdu v Košiciach.
+- c) Vojenského obvodového súdu v Prešove.
+
+(2) Sídlom Vojenského obvodového súdu v Bratislave je mesto Bratislava; jeho obvod tvorí územný obvod Krajského súdu v Bratislave.
+
+(3) Sídlom Vojenského obvodového súdu v Banskej Bystrici je mesto Banská Bystrica; jeho obvod tvorí územný obvod Krajského súdu v Banskej Bystrici.
+
+(4) Sídlom Vojenského obvodového súdu v Prešove je mesto Prešov; jeho obvod tvorí územný obvod Krajského súdu v Košiciach.

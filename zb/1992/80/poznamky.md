@@ -1,6 +1,6 @@
-- 1) § 6 ods. 2 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky.
+- 1) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
 
-- 2) § 6 ods. 1 zákona Slovenskej národnej rady č. 517/1990 Zb.
+- 2) § 200d ods. 2 Občianskeho súdneho poriadku.
 
 - 3) Opatrenia Ministerstva vnútra Slovenskej republiky z 13. decembra 1990, ktorým sa uverejňuje zoznam obcí tvoriacich územné obvody obvodných úradov v Slovenskej republike (čiastka 12/1991 Zb.).
 
