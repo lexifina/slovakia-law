@@ -1,0 +1,3 @@
+# § 39a Kriminálne spravodajstvo
+
+Kriminálnym spravodajstvom sa na účely tohto zákona rozumie činnosť, ktorou sa utajeným spôsobom získavajú, sústreďujú a vyhodnocujú informácie o trestných činoch a ich páchateľoch a vytvárajú sa podmienky na použitie agenta.
