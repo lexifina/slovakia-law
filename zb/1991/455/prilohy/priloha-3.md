@@ -4,11 +4,11 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 302 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | | | |
 
-- 1. | Nákup, predaj, požičiavanie zbraní | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
+- 1. | Nákup, predaj, požičiavanie zbraní | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
 
-- 2. | Nákup, predaj streliva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
+- 2. | Nákup, predaj streliva | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
 
-- 3. | Vývoj, výroba, opravy, úpravy a znehodnocovanie zbraníVývoj, výroba streliva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
+- 3. | Vývoj, výroba, opravy, úpravy a znehodnocovanie zbraníVývoj, výroba streliva | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
 
 - 4. | Preprava zbraní a streliva | súhlas útvaru Policajného zboru*) *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. | |
 
@@ -30,7 +30,7 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 11. | Letecké práce | povolenie | § 44 zák. č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov |
 
-- 12. | Cestná motorová doprava (nepravidelná autobusová doprava, nákladná cestná doprava, taxislužba) | osvedčenie*) | § 3 zák. č. 168/1996 Z. z. o cestnej doprave v znení zák. č. 386/1 996 Z. z., zák. č. 58/1997 Z. z. a zák. č. 340/2000 Z. z.*) nevyžaduje sa pre podnikanie najviac s piatimi vozidlami, z ktorých každé má užitočnú hmotnosť najviac 3,5 t alebo celkovú hmotnosť najviac 6 t |
+- 12. | Cestná motorová doprava (vnútroštátna nepravidelná autobusová doprava, vnútroštátna nákladná cestná doprava, vnútroštátna taxislužba) | osvedčenie*)dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám:osvedčenie o odbornej spôsobilosti, doklad o finančnej spoľahlivosti | § 3 zák. č. 168/1996 Z. z. o cestnej doprave v znení zák. č. 386/1 996 Z. z., zák. č. 58/1997 Z. z. a zák. č. 340/2000 Z. z.dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám § 3 a 3a zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov*) nevyžaduje sa pre podnikanie najviac s piatimi vozidlami, z ktorých každé má užitočnú hmotnosť najviac 3,5 t alebo celkovú hmotnosť najviac 6 t |
 
 - 13. | Zasielateľstvo | 1 . stredoškolské vzdelanie v odbore a 2 roky praxe v odbore alebo2. odborná spôsobilosť podlá § 22 písm. c) živnostenského zákona alebo3. nepretržitá 5 -ročná prax v odbore v postavení vedúceho podniku | | IV
 
