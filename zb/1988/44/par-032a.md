@@ -10,7 +10,7 @@
 
 (5) Úhrada podľa odseku 1 je vo výške 50 % príjmom štátneho rozpočtu a vo výške 50 % príjmom obce, na ktorej území sa nachádza dobývací priestor. Ak sa dobývací priestor nachádza na územiach viacerých obcí, obvodný banský úrad určí pomerné podiely obcí podľa veľkosti častí dobývacieho priestoru na ich územiach. Príslušnú časť úhrady odvedie obvodný banský úrad do rozpočtu obce do 30 dní od prijatia úhrady.
 
-(6) Úhrady podľa odsekov 2 a 3 sú príjmom štátneho rozpočtu.
+(6) Úhrady podľa odsekov 2 a 3 sú príjmom Environmentálneho fondu.
 
 (7) Povinnosť platiť úhradu za dobývací priestor začína kalendárnym rokom nasledujúcim po roku, v ktorom bol dobývací priestor určený, a končí sa rokom, v ktorom bol dobývací priestor zrušený. Úhrada sa platí každoročne, najneskôr do konca februára kalendárneho roka. V tomto termíne predkladá organizácia obvodnému banskému úradu priznanie úhrady za dobývací priestor.
 
