@@ -152,6 +152,10 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - 7. V § 24 ods. 1 sa v písmene r) za slovom „ústavy,“ vypúšťa čiarka a vkladajú slová „a sanatóriá,“.
 
+- 8. V § 24 ods. 1 sa vypúšťa písmeno v).
+
+- 9. V § 24 ods. 4 sa slová „h) až p) a v)“ nahrádzajú slovami „a h) až p)“.
+
 - 10. V § 26 ods. 1 sa za písmeno j) vkladá nové písmeno k), ktoré znie:
 
 - „k)
@@ -163,6 +167,10 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 - 11. V § 26 ods. 2 písm. d) sa za slová „samosprávnemu kraju“ vkladajú slová „a Ústavu zdravotníckych informácií a štatistiky“.
 
 - 12. V § 31 ods. 1 písm. a) sa za slovom „ústav,“ vypúšťa čiarka a vkladajú slová „a sanatórium,“.
+
+- 13. V § 31 ods. 4 sa vypúšťa písmeno r).
+
+- 14. V § 32 ods. 5 sa vypúšťajú slová „§ 31 ods. 4 písm. r) a“ a slová „v odseku 4 písm. h) a l)“ sa nahrádzajú slovami „v odseku 4 písm. g) a k)“.
 
 - 15. V § 33 ods. 2 sa vypúšťajú slová „zdravotnícky obvod,“.
 
