@@ -11,5 +11,3 @@ Príloha C zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 2 | využitia nerastného bohatstva | zák. č. 41/1957 Zb. | § 34 ods. 2 a 3 | schvaľovanie dohôd v prípade stretov záujmov medzi ťažobným podnikom a organizáciou, ktorá spravuje ohrozený objekt alebo zariadenie, prípadne s orgánom štátnej správy, ktorému patrí ochrana týchto záujmov; podávanie stanoviska, ak nedôjde k dohode, prípadne ak dohoda nebude schválená
 
 3 | financií a správy a ochrany národného majetku | vyhl. č. 66/1966 Zb. | § 5 ods. 3 | povoľovanie zvýšenia hornej hranice zľavy poskytovanej z ceny bytu, a to pre určité mesto alebo obec
-
-4 | kultúry a informácií | zák. č. 55/1957 Zb. | § 10 ods. 2 | povoľovanie prevádzania neštátneho divadla socialistickým organizáciám a určovanie podmienok a spôsobu prevádzania divadla
