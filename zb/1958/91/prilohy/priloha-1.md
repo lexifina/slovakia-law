@@ -22,11 +22,9 @@
 
     - § 5
 
-      - (1) Závodom sa na účely nemocenského poistenia rozumejú pracoviská, pre ktoré sa volí závodný výbor základnej organizácie odborového sväzu (ďalej len „závodný výbor“).
+      - (1) Závodom sa na účely nemocenského poistenia rozumie zamestnávateľ, ktorý má viac než 20 zamestnancov. Závodom sa rozumie aj zamestnávateľ, ktorý má menej zamestnancov, ak má útvar, v ktorom sa vedie evidencia miezd, alebo ak evidenciu miezd vedie pre neho iná organizácia.
 
-      - (2) Malým závodom sa na účely nemocenského poistenia rozumie pracovisko, pre ktoré sa závodný výbor nevolí a na zamestnancov ktorého sa pritom nevzťahuje ani pôsobnosť iného závodného výboru.
-
-      - (3) Závodmi, prípadne malými závodmi sa rozumejú nielen podniky a závody výrobné a obchodné, ale aj úrady, súdy, zariadenia štátnej správy, iné zariadenia, dobrovoľné a iné organizácie, ako aj súkromné hospodárstva a domácnosti.
+      - (2) Zamestnávatelia neuvedení v odseku 1 sa na účely nemocenského poistenia považujú za malé závody.
 
     - § 6
 
@@ -48,7 +46,7 @@
 
     - § 7 Orgány v závode
 
-      - (1) Závodný výbor riadi vykonávanie nemocenského poistenia v závode a dbá na to, aby sa uskutočňovalo podľa platných predpisov v súlade so záujmami pracujúcich a aby sa s jeho prostriedkami riadne hospodárilo.
+      - (1) Závodný výbor odborové organizácie (ďalej len „závodný výbor“) riadi vykonávanie nemocenského poistenia v závode a dbá na to, aby sa uskutočňovalo podľa platných predpisov v súlade so záujmami pracujúcich a aby sa s jeho prostriedkami riadne hospodárilo.
 
       - (2) Ako orgán závodného výboru pri vykonávaní nemocenského poistenia pôsobí komisia národného poistenia. Ak sú v závode zriadené dielenské výbory Revolučného odborového hnutia, pôsobia pri vykonávaní nemocenského poistenia ako ich orgány aj dielenské komisie národného poistenia. Tieto orgány rozhodujú najmä o dávkach podľa ďalších ustanovení opatrenia a podľa predpisov o dávkach.*) Ak nie je komisia národného poistenia (dielenská komisia národného poistenia) zriadená, vykonáva jej pôsobnosť závodný (dielenský) výbor priamo.
 
@@ -57,6 +55,8 @@
       - (4) O zriaďovaní komisií národného poistenia uvedených v odseku 2 a o spôsobe konania a uznášania odborových orgánov v závode vo veciach nemocenského poistenia platia organizačné smernice Revolučného odborového hnutia. Výdavky spojené s činnosťou orgánov podľa predchádzajúcich odsekov uhrádza závodný výbor z vlastných prostriedkov.
 
       - (5) Pri vykonávaní nemocenského poistenia v závode závod spolupôsobí podľa ustanovení v ďalších častiach opatrenia a v predpisoch o dávkach.*)
+
+      - (6) Ak v závode nie je ustanovená odborová organizácia, ktorá má svoj výbor, plní jej úlohy pri vykonávaní poistenia okresná správa nemocenského poistenia príslušná podľa sídla závodu.
 
       - § 8 Správa nemocenského poistenia
 
