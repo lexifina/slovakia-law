@@ -116,25 +116,15 @@
 
 - Platenie poplatkov
 
-- 1. S výhradou ustanovení článku 6 sa Úradu platia poplatky v EUR alebo v mene, ktorá je voľne prevoditeľná na EUR:
+- 1. Úrad prijíma poplatky v EUR nasledujúcim spôsobom:
 
-- a) platbou alebo prevodom na bankový účet úradu;
+- a) platbou alebo prevodom na bankový účet Úradu;
 
-- b) platbou alebo prevodom na žírový účet alebo;
+- b) platbou alebo prevodom na žírový účet Úradu;
 
-- c) podaním alebo odoslaním šeku splatného v prospech úradu.
+- c) podaním alebo odoslaním šeku splatného v prospech Úradu.
 
 - 2. Prezident Úradu môže pripustiť aj iné spôsoby platenia poplatkov, než aké sú uvedené v odseku 1.
-
-- Článok 6
-
-- Meny
-
-- 1. Platby alebo prevody na bankový alebo žírový účet podľa článku 5 odsek 1(a) a (b) sa vykonávajú v EUR alebo v mene štátu, v ktorom je bankový alebo žírový účet vedený.
-
-- 2. Platby podľa článku 5 odsek 1(c) sa vykonávajú v EUR alebo v mene štátu, kde má sídlo banková inštitúcia, na ktorú je vystavený šek, pokiaľ boli v tejto mene prezidentom Úradu stanovené ekvivalenty poplatkov v EUR.
-
-- 3. Pre platby určené pre Úrad a vykonávané v iných menách než je EUR, stanoví prezident Úradu po prípadnej konzultácii s Výborom pre rozpočet a financie poplatky, ktoré sú v tomto poriadku uvedené v EUR, ich ekvivalent v týchto iných menách. Týmto spôsobom prezident Úradu zaistí, že kolísanie výmenných kurzov nespôsobí úradu škodu. Takto určené čiastky sa zverejňujú v úradnom vestníku Európskeho patentového úradu. Revidované čiastky sú záväzné pre platby poplatkov, vykonávané v deň alebo po dni stanovenom prezidentom Úradu.
 
 - Článok 7
 
