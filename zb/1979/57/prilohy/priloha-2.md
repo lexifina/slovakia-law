@@ -38,24 +38,24 @@ Príloha č. 2 vyhlášky č. 57/1979 Zb.
 
 - Druh vozidla | Zdvihový objem motora v cm<sup>3</sup> | | Sadzby náhrad za 1 km jazdy v Kčs | | |
 
-- | nad | do | Sadzba spolu | Rezerva | Hodnota motorovej nafty | Sadzba po odpočítaní rezervy a hodnoty nafty
+- | nad | do | Sadzba spolu | Rezerva | Hodnota motorovej nafly | Sadzba po odpočítaní rezervy a hodnoty nafty
 
 - | 1 | 2 | 3 | 4 | 5 | 6
 
-- osobný (dodávkový) automobil | 1200 | 1500 | 1,20 | 0,11 | 0,70 | 0,39
+- osobný (dodávkový) automobil | 1200 | 1500 | 1,38 | 0,11 | 0,88 | 0,39
 
-- | 1500 | 2000 | 1,30 | 0,11 | 0,77 | 0,42
+- | 1500 | 2000 | 1,49 | 0,11 | 0,96 | 0,42
 
-- | 2000 | | 1,50 | 0,13 | 0,90 | 0,47
+- | 2000 | | 1,73 | 0,13 | 1,13 | 0,47
 
 - | Celková hmotnosť vozidla v tonách | | | | |
 
 - | nad | do | | | |
 
-- nákladný automobil | | 4,5 | 2,45 | 0,15 | 1,68 | 0,62
+- nákladný automobil | | 4,5 | 2,87 | 0,15 | 2,10 | 0,62
 
-- | 4,5 | 6,0 | 2,88 | 0,17 | 1,85 | 0,86
+- | 4,5 | 6,0 | 3,34 | 0,17 | 2,31 | 0,86
 
-- a) Ak pracovník vráti blokové poukážky na automobilový benzín alebo motorovú naftu v dôsledku nižšej spotreby pohonnej látky, zvýši sa časť náhrady patriaca podľa stĺpca 6 o hodnotu automobilového benzínu alebo motorovej nafty podľa vrátených poukážok, a to až do výšky 20 % finančnej hodnoty spotreby automobilového benzínu alebo motorovej nafty vypočítanej podľa stĺpca 5.
+  - a) Ak pracovník vráti blokové poukážky na automobilový benzín alebo motorovú naftu v dôsledku nižšej spotreby pohonnej látky, zvýši sa časť náhrady patriaca podľa stĺpca 6 o hodnotu automobilového benzínu alebo motorovej nafty podľa vrátených poukážok, a to až do výšky 20 % finančnej hodnoty spotreby automobilového benzínu alebo motorovej nafty vypočítanej podľa stĺpca 5.
 
-- b) Ak pracovník používa služobné vozidlo prevažne na vnútromestskú dopravu v mestách nad 50 tisíc obyvateľov, môže organizácia zvýšiť časť náhrady poskytovanú za spotrebu pohonnej látky formou blokovej poukážky podľa stĺpca 5 s prihliadnutím na sťažené prevádzkové pomery až o 10 %.
+  - b) Ak pracovník používa služobné vozidlo prevažne na vnútromestskú dopravu v mestách nad 50 tisíc obyvateľov, môže organizácia zvýšiť časť náhrady poskytovanú za spotrebu pohonnej látky formou blokovej poukážky podľa stĺpca 5 s prihliadnutím na sťažené prevádzkové pomery až o 10 %.

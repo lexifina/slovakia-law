@@ -42,18 +42,18 @@ Príloha č. 1 vyhlášky č. 57/1979 Zb.
 
 - | 1 | 2 | 3
 
-- osobný (dodávkový) automobil | 1200 | 1500 | 1,61
+- osobný (dodávkový) automobil | 1200 | 1500 | 1,79
 
-- | 1500 | 2000 | 1,84
+- | 1500 | 2000 | 2,03
 
-- | 2000 | | 2,12
+- | 2000 | | 2,35
 
 - | Celková hmotnosť vozidla v tonách | |
 
 - | nad | do |
 
-- nákladný automobil, autobus | | 4,5 | 2,79
+- nákladný automobil, autobus | | 4,5 | 3,22
 
-- | 4,5 | 6,0 | 3,30
+- | 4,5 | 6,0 | 3,75
 
-- | 6,0 | | 4,55
+- | 6,0 | | 5,32
