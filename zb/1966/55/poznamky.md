@@ -1,0 +1,1 @@
+- *) Štatút bude uverejnený vo Vestníku Ústrednej správy vodného hospodárstva.
