@@ -2,7 +2,7 @@
 
 # § 88b
 
-(1) Pri odhaľovaní, zisťovaní a usvedčovaní páchateľov trestných činov uvedených v osobitnom zákone<sup>2</sup>) alebo korupcie možno použiť agenta. Jeho použitie je prípustné len vtedy, ak odhaľovanie, zisťovanie a usvedčovanie páchateľov uvedených trestných činov by bolo iným spôsobom podstatne sťažené a získané poznatky odôvodňujú podozrenie z trestnej činnosti alebo úmyslu osoby spáchať takýto trestný čin.
+(1) Pri odhaľovaní, zisťovaní a usvedčovaní páchateľov trestných činov uvedených v osobitnom zákone, trestných činov korupcie a trestného činu podľa § 158 Trestného zákona možno použiť agenta. Jeho použitie je prípustné len vtedy, ak odhaľovanie, zisťovanie a usvedčovanie páchateľov uvedených trestných činov by bolo iným spôsobom podstatne sťažené a získané poznatky odôvodňujú podozrenie z trestnej činnosti alebo úmyslu osoby spáchať takýto trestný čin.
 
 (2) Neprípustnou činnosťou agenta je, ak sám iniciatívne
 

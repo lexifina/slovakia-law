@@ -4,7 +4,7 @@
 
 (2) Proti výroku o náhrade škody, ktorým bola priznaná náhrada škody, môže poškodený podať odpor; ak poškodený odpor podal, trestný rozkaz sa ruší vo výroku o náhrade škody. Samosudca odkáže uznesením poškodeného na konanie o občianskoprávnych veciach.
 
-(3) Ak proti trestnému rozkazu podala oprávnená osoba v lehote odpor, trestný rozkaz sa ruší a samosudca nariadi vo veci hlavné pojednávanie; pri prejednávaní veci na hlavnom pojednávaní nie je samosudca viazaný právnou kvalifikáciou ani druhom a výmerom trestu obsiahnutými v trestnom rozkaze. Inak sa trestný rozkaz stane právoplatným a vykonateľným.
+(3) Ak proti trestnému rozkazu podala oprávnená osoba v lehote odpor, samosudca nariadi vo veci hlavné pojednávanie; pri prejednávaní veci na hlavnom pojednávaní nie je samosudca viazaný právnou kvalifikáciou ani druhom a výmerom trestu obsiahnutými v trestnom rozkaze. Inak sa trestný rozkaz stane právoplatným a vykonateľným.
 
 (4) Ak bol obvinený stíhaný pre trestný čin uvedený v § 163a, môže poškodený vziať súhlas s trestným stíhaním späť až do doby, kým sa trestný rozkaz nedoručí niektorej z osôb uvedených v odseku 1. Späťvzatím súhlasu sa trestný rozkaz ruší a samosudca trestné stíhanie zastaví.
 
