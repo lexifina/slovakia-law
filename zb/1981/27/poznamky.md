@@ -4,10 +4,6 @@
 
 - 3) Vyhláška Federálneho ministerstva poľnohospodárstva a výživy č. 49/1977 Zb., ktorou sa vydávajú základné podmienky dodávky potravinárskych a niektorých iných výrobkov.
 
-- 4) §7 ods. 1 vyhlášky Štátnej plánovacej komisie a Štátnej arbitráže Československej socialistickej republiky č. 48/1980 Zb. o hmotnom bilancovaní a prerokovaní dodávateľsko-odberateľských vzťahov v plánovacom procese; podľa § 4 ods. 5 písm. e) a l) je prerokovanie dodávateľsko-odberateľských vzťahov povinné.
-
-- 5) §7 ods. 6 vyhlášky č. 48/1980 Zb.
-
 - 6) Vyhláška Štátnej arbitráže Československej socialistickej republiky č. 17/1979 Zb. o právnych úkonoch odovzdávaním dát.
 
 - 7) Odborový podnik Ústav sér a očkovacích látek, Praha.
