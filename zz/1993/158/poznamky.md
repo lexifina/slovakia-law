@@ -1,1 +1,0 @@
-- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 84/1993 Z. z. o úprave výšky stravného a základných náhrad za používanie cestných motorových vozidiel pri pracovných cestách.
