@@ -1,0 +1,1 @@
+- 10) § 45 zákona ČNR č. 114/1988 Sb., o působnosti orgánů Českéĺ socialistické republiky v sociálním zabezpečení, ve znění zákona ČNRĺ č. 144/1991 Sb.
