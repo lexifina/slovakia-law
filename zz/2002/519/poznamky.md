@@ -1,0 +1,1 @@
+- 1) Vyhláška Národnej banky Slovenska č. 80/1999 Z. z. o vydaní bankoviek po 200 Sk vzoru 1999 do obehu.
