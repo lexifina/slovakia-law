@@ -78,10 +78,6 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 30. | Činnosť vykonávaná banským spôsobom*) | osvedčenie o odbornej spôsobilosti | § 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom*) v rozsahu § 3 písm. b) až i) zák. č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe |
 
-- 31. | Znehodnocovanie streliva | preukaz pyrotechnika skupiny A alebo B, alebo C, vek 21 rokov a súhlas útvaru Policajného zboru*) | *) § 31 zák. NR SR č. 246/ 1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/ 1995 Z. z. |
-
-- | | | vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
-
 - 32. | Ničenie a zneškodňovanie výbušnín | preukaz pyrotechnika skupiny C, vek 21 rokov | § 15 ods. 2 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 78/1993 Z. z., ktorou sa ustanovujú požiadavky na zaistenie bezpečnosti a ochrany zdravia pri výrobe a spracúvaní výbušnín§ 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
 - 33. | Vykonávanie ohňostrojových prác | preukaz odpaľovača ohňostrojov | § 4 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |

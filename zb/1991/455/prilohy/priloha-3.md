@@ -4,19 +4,19 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 302 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | | | |
 
-- 1. | Nákup, predaj, požičiavanie zbraní | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
+- 1. | Vývoj a výroba zbraní alebo streliva | stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo 10 rokov praxe v odbore | |
 
-- 2. | Nákup, predaj streliva | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
+- 2. | Opravy, úpravy, ničenie, znehodnocovanie alebo výroba rezu zbraní | stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo 10 rokov praxe v odbore | |
 
-- 3. | Vývoj, výroba, opravy, úpravy a znehodnocovanie zbraníVývoj, výroba streliva | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
+- 3. | Ničenie, znehodnocovanie alebo výroba rezu streliva | vek 21 rokov a preukaz pyrotechnika skupiny A alebo B, alebo C | |
 
-- 4. | Preprava zbraní a streliva | súhlas útvaru Policajného zboru*) *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. | |
+- 4. | Nákup, predaj, prenájom alebo úschova zbraní a streliva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | |
 
-- 5. | Zriaďovanie a prevádzkovanie strelníc | preukaz pyrotechnika skupiny A alebo B, alebo C, vek 21 rokov a súhlas útvaru Policajného zboru*) | *) § 31 a 39 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z.vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
+- 5. | Preprava zbraní a streliva | | |
+
+- 6. | Prevádzkovanie strelnice | | |
 
 - SKUPINA 307 - Výroba chemických výrobkov | | | |
-
-- 6. | Zrušená od 1. 7. 2002. | | |
 
 - 7. | Výskum, vývoj, výroba a spracovanie, výbušnín | súhlas | § 23 ods. 1 zák. Slovenskej národnej rady č. 51/1988 Zb. v znení zákona NR SR č. 154/1995 Z. z. |
 
@@ -26,7 +26,7 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 9. | Zrušená od 1. 7. 2002. | | |
 
-- 10. | Zmenárne | vyjadrenie Národnej banky Slovenska | § 6 ods. 2 zák. NR SR č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zák. SNR č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov |
+- 10. | Zmenárne | devízová licencia | § 6 ods. 9 zák. NR SR č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zák. SNR č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov |
 
 - 11. | Letecké práce | povolenie | § 44 zák. č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov |
 

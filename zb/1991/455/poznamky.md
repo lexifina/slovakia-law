@@ -20,10 +20,6 @@
 
 - Zákon SNR č. 132/1990 Zb. o advokácii.
 
-- 5) Zákon ČNR č. 209/1990 Zb. o komerčných právnikoch a právnej pomoci nimi poskytovanej.
-
-- Zákon SNR č. 129/1991 Zb. o komerčných právnikoch.
-
 - 5a) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 
 - 6) Zákon č. 237/1991 Zb. o patentových zástupcoch.
@@ -53,6 +49,18 @@
 - 12) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+
+- 12a) § 2 ods. 8 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
+
+- 12b) § 2 ods. 9 zákona č. 510/2002 Z. z.
+
+- 12c) § 21 ods. 2 zákona č. 510/2002 Z. z.
+
+- 12d) § 31 ods. 1 písm. c) a ods. 5, § 38 ods. 1, § 48 ods. 1 a 3 a § 61 zákona č. 510/2002 Z. z.
+
+- 12e) § 2 písm. l) a § 6 ods. 7 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení zákona č. 602/2003 Z. z.
+
+- 12f) § 2 písm. j) a § 6 ods. 7 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení zákona č. 602/2003 Z. z.
 
 - 13) Zákon SNR č. 24/1991 Zb. o poisťovníctve.
 
