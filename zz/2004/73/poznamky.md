@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 69/2004 Z. z., ktorým sa ustanovujú podmienky na dovoz a priemestňovanie určitých škodlivých organizmov, rastlín, rastlinných produktov a iných predmetov na vedecké, výskumné alebo šľachtiteľské účely.
