@@ -17,3 +17,5 @@
 (4) Zdravotné výkony na účely sociálnej pomoci sa poskytujú na základe písomného vyžiadania štátneho orgánu sociálnej pomoci.
 
 (5) Výpisy zo zdravotnej dokumentácie a ďalšie podklady a údaje sa poskytujú štátnym orgánom sociálnej pomoci v lehotách určených týmito orgánmi.
+
+(6) Pri poskytovaní sociálnej pomoci obcou a samosprávnym krajom sa odseky 1 až 5 použijú rovnako.

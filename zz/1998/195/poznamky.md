@@ -36,8 +36,6 @@
 
 - 16) § 145b ods. 2 a 3 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 308/1995 Z. z.
 
-- 16a) § 3 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení neskorších predpisov.
-
 - 16b) § 43 ods. 2 a 3 a § 46 Zákona o rodine.
 
 - 16c) § 44 a 45 Zákona o rodine.

@@ -2,7 +2,7 @@
 
 (1) Na príslušnú obec a na príslušný samosprávny kraj prechádza s účinnosťou od 1. júla 2002 rozhodovacia pôsobnosť príslušného okresného úradu o poskytovaní prepravnej služby a o úhrade za prepravnú službu poskytovanú príslušným okresným úradom podľa predpisov platných do 30. júna 2002. Príslušný samosprávny kraj je samosprávny kraj, na ktorého území má sídlo príslušný okresný úrad.
 
-(2) Stanice opatrovateľskej služby, zariadenia pestúnskej starostlivosti, domovy pre osamelých rodičov, útulky, rehabilitačné strediská a zariadenia opatrovateľskej služby, ktoré zriadil príslušný okresný úrad podľa predpisov platných do 30. júna 2002, prechádzajú ako samosprávna pôsobnosť samosprávnemu kraju.
+(2) Stanice opatrovateľskej služby, zariadenia pestúnskej starostlivosti, domovy pre osamelých rodičov, útulky, rehabilitačné strediská, ktoré zriadil príslušný okresný úrad podľa predpisov platných do 30. júna 2002, prechádzajú ako samosprávna pôsobnosť samosprávnemu kraju.
 
 (3) Príslušný samosprávny kraj je samosprávny kraj, na ktorého území má sídlo príslušné zariadenie sociálnych služieb. Príslušný okresný úrad je okresný úrad, ktorý zriadil príslušné zariadenie sociálnych služieb podľa predpisov platných do 30. júna 2002.
 
