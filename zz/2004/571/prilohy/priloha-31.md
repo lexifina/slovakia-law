@@ -1,0 +1,3 @@
+Príloha č. 31 k vyhláške č. 571/2004 Z. z.
+
+- ŽIADOSŤ O REGISTRÁCIU SEMENÁČIKOV A SADENÍC LESNÝCH DREVÍN [Vzor 31](../assets/f040d5668804b6e94181a02ef8e4c8511649d7f5e7d6c3d79d2bdc1304404a72.pdf)

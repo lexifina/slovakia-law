@@ -1,0 +1,3 @@
+Príloha č. 32 k vyhláške č. 571/2004 Z. z.
+
+- HLÁSENIE O SKLADOVANOM ZOSTATKU REGISTROVANÉHO OSIVA [Vzor 32](../assets/8b00c6e61b33bd60b246aeca5fd8795b6a3c8270b8d077a1238245bdbdb79f66.pdf)
