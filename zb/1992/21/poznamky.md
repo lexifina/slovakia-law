@@ -133,3 +133,5 @@
 - 11) § 186 a 187 Obchodného zákonníka.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z.
+
+- 13) § 12 ods. 2 písm. d) zákona č. 372/1999 Z. z. o štátnom rozpočte na rok 2000.
