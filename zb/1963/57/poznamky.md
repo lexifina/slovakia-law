@@ -1,0 +1,1 @@
+- *) Zrušená je aj úprava ministra spravodlivosti z 23. januára 1959, ktorou sa vydáva organizačný poriadok Ústredia advokátskych poradní.
