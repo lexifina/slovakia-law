@@ -5,3 +5,5 @@
 (2) Príslušníci Zboru nápravnej výchovy požívajú pri výkone svojej právomoci zákonnú ochranu ako verejní činitelia. Kto ruší alebo sťažuje výkon ich právomoci, zodpovedá podľa zákona.
 
 (3) Príslušníci Zboru nápravnej výchovy majú právo bezprostredne prenasledovať osobu utekajúcu z výkonu trestu odňatia slobody alebo z výkonu väzby a robiť nevyhnutné opatrenia na jej zadržanie, najmä sú oprávnení zisťovať totožnosť podozrivých osôb a vykonať prehliadku objektu alebo dopravného prostriedku, ak je dôvodné podozrenie, že sa v nich utekajúca osoba zdržiava; v rozsahu tohto oprávnenia majú práva a povinnosti orgánov Zboru národnej bezpečnosti.
+
+(4) Príslušníci Zboru nápravnej výchovy sú oprávnení v nebezpečenstve pri plnení služobnej úlohy požiadať každého o pomoc. Kto bol požiadaný o pomoc, je povinný ju poskytnúť; nemusí tak urobiť, ak mu v tom bráni dôležitá okolnosť alebo ak by tým vydal vážnemu ohrozeniu seba alebo blízku osobu.
