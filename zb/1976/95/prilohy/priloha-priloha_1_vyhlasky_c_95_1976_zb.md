@@ -8,13 +8,13 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 1 | 801 | Budovy občianskej výstavby
 
-- 1 | 802 | Objekty halovej občianskej výstavby
+- 1 | 802 | Haly občianskej výstavby
 
 - 1 | 803 | Budovy na bývanie
 
-- 1 | 811 | Pozemné halové objekty
+- 1 | 811 | Haly pre výrobu a služby
 
-- 1 | 812 | Budovy pre výrobu a služby (okrem hál)
+- 1 | 812 | Budovy pre výrobu a služby
 
 - Stavby (včítane rozvodných stavieb)
 
@@ -22,41 +22,43 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - triedy | odboru |
 
-- 2 | 813 | Veže a stožiare
+- 2 | 813 | Veže, stožiare, komíny
 
-- 2 | 814 | Čistiarne odpadových vôd (okrem budov), vodojemy a zásobníky
+- 2 | 814 | Nádrže a záchytky čistiarní vôd a ostatné pozemné nádrže, zásobníky, jamy
 
 - 2 | 815 | Zvláštne pozemné objekty
-
-- 2 | 816 | Žiarotechnické objekty
 
 - 2 | 821 | Mosty
 
 - 2 | 822 | Pozemné komunikácie a letiská
 
-- 2 | 823 | Územné plochy a úpravy
+- 2 | 823 | Plochy a úpravy územia
 
-- 2 | 824 | Železnice
+- 2 | 824 | Koľajové dráhy
 
 - 2 | 825 | Podzemné objekty (okrem banských)
 
 - 2 | 826 | Podzemné banské objekty
 
-- 2 | 827 | Podzemné vedenia (inžinierske siete)
+- 2 | 827 | Diaľkové a prípojné rúrové vedenia
 
-- 2 | 828 | Nadzemné vedenia
+- 2 | 828 | Elektrické vedenia a visuté dráhy
 
 - 2 | 831 | Meliorácie
 
 - 2 | 832 | Hrádze a objekty na tokoch
 
-- 2 | 833 | Úpravy v stavidle, úpravy tokov a kanály
+- 2 | 833 | Nádrže na tokoch, úpravy tokov a kanály
 
 - Energetické a hnacie stroje a zariadenia
 
 - Kódy | | Názov odboru
 
 - triedy | odboru |
+
+- 3 | 336 | Agregáty a hydraulické prvky
+
+- | | z tohto odboru sa zatrieďujú len hydraulické agregáty v skupine 336 7 a náradie s motorovým pohonom hydraulicky ovládané v podskupine 336 89
 
 - 3 | 346 | Elektrochemické zdroje prúdu
 
@@ -86,7 +88,7 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 3 | 428 | Turbokompresory
 
-- 3 | 429 | Vzduchotechnické výrobky
+- 3 | 429 | Vzduchotechnické zariadenia
 
 - | | okrem jednoúčelových zariadení pre pneumatickú dopravu zatriedených v skupine 429 6, ktoré patria do triedy 6 - Dopravné prostriedky
 
@@ -126,9 +128,11 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 4 | 435 | Zariadenia na čerpanie a meranie tekutých palív
 
-- 4 | 463 | Riečne a jazerné lode a plávajúce zariadenia (bez športových lodí)
+- 4 | 463 | Vnútrozemské lode a plávajúce zariadenia (bez športových lodí)
 
 - | | z tohto odboru sa do triedy 4 zatrieďujú len podskupiny 463 31 nasávacie bagre a 463 32 korčekové a iné bagre; ostatná náplň tohto odboru patrí do triedy 6 - Dopravné prostriedky
+
+- 4 | 479 | Priemyselné roboty a manipulátory
 
 - 4 | 492 | Stroje a zariadenia na hlbinné dobývanie
 
@@ -212,7 +216,7 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 5 | 382 | Zariadenia pre drôtovú telekomunikáciu
 
-- 5 | 383 | Výrobky pre rádiokomunikácie a televíziu
+- 5 | 383 | Zariadenia pre rádiokomunikácie
 
 - 5 | 388 | Mechanické meracie prístroje (okrem váh a časomerných prístrojov)
 
@@ -230,7 +234,7 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 5 | 396 | Vedecké a laboratórne prístroje a vákuové zariadenia
 
-- 5 | 397 | Výrobky zdravotníckej techniky (včítane prístrojov)
+- 5 | 397 | Zdravotnícka technika včítane prístrojov
 
 - 5 | 401 | Reprografické zariadenia
 
@@ -238,7 +242,7 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 5 | 403 | Stroje na spracovanie dát
 
-- 5 | 404 | Výrobky pre návestné a zabezpečovacie zariadenia
+- 5 | 404 | Návestné a zabezpečovacie zariadenia
 
 - 5 | 405 | Prístroje pre automatickú reguláciu a riadenie
 
@@ -246,13 +250,25 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 5 | 425 | Priemyselné mazacie zariadenia
 
+- 5 | 545 | Lovecké a športové zbrane a účelové strelné zariadenia
+
+- | | z tohto odboru sa zatrieďujú len expanzné prístroje v skupine 545 4; zbrane v skupinách 545 2 a 545 3 sa zatrieďujú do triedy 7
+
+- 5 | 566 | Stavebnicové bloky, stavebnotechnologických komplexov
+
+- | | okrem blokových zariadení pre automatickú reguláciu potrubnej dopravy ropy a iných kvapalných substrátov v skupine 566 5
+
+- 5 | 632 | Technické laboratórne sklo
+
+- | | z tohto odboru sa zatrieďujú celosklené prístroje, prípadne iné predmety zo všetkých skupín, ak spĺňajú znaky základného prostriedku, najmä výrobky z taveného a spekaného čadiča a kremeňa v skupine 632 3 a technické sklo pre priemyselnú potrebu v skupine 632 6
+
 - Dopravné prostriedky
 
 - Kódy | | Názov odboru
 
 - triedy | odboru |
 
-- 6 | 429 | Vzduchotechnické výrobky
+- 6 | 429 | Vzduchotechnické zariadenia
 
 - | | z tohto odboru sa do triedy 6 zatrieďujú len jednoúčelové zariadenia pre pneumatickú dopravu - zatriedené v skupine 429 6; ostatná náplň tohto odboru patrí do triedy 3 - Energetické a hnacie stroje a zariadenia
 
@@ -280,11 +296,11 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 6 | 459 | Koľajové vozidlá na nákladnú dopravu
 
-- 6 | 463 | Riečne a jazerné lode a plávajúce zariadenia (bez športových lodí)
+- 6 | 463 | Vnútrozemské lode a plávajúce zariadenia (bez športových lodí)
 
 - | | okrem podskupín 463 31 - nasávacie bagre a 463 22 - korčekové a iné bagre, ktoré patria do triedy 4 - Pracovné stroje a zariadenia
 
-- 6 | 464 | Lode námornej a zmiešanej dopravy
+- 6 | 464 | Námorné lode a lode zmiešanej plavby
 
 - 6 | 465 | Lietadlá
 
@@ -308,6 +324,8 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 6 | 531 | Kolesové a pásové traktory
 
+- 6 | 543 | Drobné dopravné prostriedky
+
 - Inventár
 
 - Kódy | | Názov odboru
@@ -322,7 +340,15 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 7 | 542 | Elektrické spotrebiče a chladničky pre domácnosť (bez vykurovacích zariadení, zdrojov svetla a svietidiel)
 
+- 7 | 545 | Lovecké a športové zbrane a účelové strelné zariadenia
+
+- | | z tohto odboru sa zatrieďujú len zbrane v skupinách 545 2 a 545 3, expanzné prístroje v skupine 545 4 sa zatrieďujú do triedy 5
+
 - 7 | 557 | Kovový nábytok
+
+- 7 | 612 | Prvky pre montované stavby z dreva a z ostatných ľahkých materiálov
+
+- | | z tohto odboru sa zatrieďujú len mobilné bunky, stánky, maringotky, garáže, telefónne kabíny a i. uvedené v podskupine 612 54
 
 - 7 | 615 | Nábytok z dreva a z ostatných hmôt (okrem kovového)
 
@@ -332,11 +358,11 @@ Príloha 1 vyhlášky č. 95/1976 Zb.
 
 - 7 | 697 | Bytové textílie
 
-- | | z tohto odboru sa nezatrieďujú skupiny 697 1 - poťahové tkaniny, 697 2 - závesové a pokrývkové tkaniny, 697 3 - netkané poťahové a závesové textílie
+- | | z tohto odboru sa nezatrieďujú skupiny 697 1 - poťahové tkaniny, 697 2 - závesové a pokrývkové tkaniny, 697 3 - netkané poťahové a závesové textílie a 697 7 - bytové dvojplyšové textílie
 
 - 7 | 738 | Školské a kancelárske potreby
 
-- | | z tohto odboru sa zatrieďujú len výučbové pomôcky a zariadenia, ako sú vyučovacie stroje, trenažéry a pod. zo skupiny 738 8 - učebné pomôcky
+- | | z tohto odboru sa zatrieďujú len výučbové pomôcky a zariadenia, ako sú vyučovacie stroje, trenažéry a pod. zo skupiny 738 8 a špeciálne geodetické a kartografické pomôcky zo skupiny 738 9, pokiaľ spĺňajú znaky základného prostriedku
 
 - 7 | 739 | Javiskové zariadenia a divadelné potreby
 
