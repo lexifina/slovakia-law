@@ -1,0 +1,1 @@
+- 22) Vyhláška ministerstva práce a sociálních věcí ČR č. 347/1991 Sb., o zabezpečení pracovníků organizací, kteří pracují po kratší pracovní dobu pro přechodné odbytové a finanční potíže.
