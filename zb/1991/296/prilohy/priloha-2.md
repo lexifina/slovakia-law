@@ -86,11 +86,13 @@
 
           - (vi) údaj o prihlasovateľovej voľbe príslušného orgánu pre medzinárodnú rešerš.
 
-        - (c) Žiadosť môže obsahovať:
+        - (c) Žiadosť môže obsahovať
 
           - (i) údaje týkajúce sa vynálezcu, ak národné zákonodarstvo žiadneho z určených štátov nepožaduje, aby sa meno vynálezcu uviedlo pri podaní národnej prihlášky;
 
-          - (ii) požiadavku adresovanú prijímaciemu úradu, aby odovzdal medzinárodnému úradu prioritný doklad, a to v prípade, že prihláška, z ktorej sa priorita uplatňuje, bola podaná na národnom úrade alebo na medzivládnom orgáne, ktoré sú prijímacím úradom.
+          - (ii) žiadosť na prijímací úrad, aby pripravil a odoslal Medzinárodnému úradu prioritný doklad, ak prihláška, na ktorú sa nárokuje priorita, bola podaná na národnom úrade alebo medzivládnom orgáne, ktorý je prijímacím úradom.
+
+          - (iii) vyhlásenia tak, ako stanovuje pravidlo 4.17.
 
         - (d) Žiadosť musí byť podpísaná.
 
@@ -122,9 +124,11 @@
 
         - (d) V žiadosti smú byť uvedení, pre rôzne určené štáty, rôzni prihlasovatelia. V takom prípade sa v žiadosti uvedie prihlasovateľ alebo prihlasovatelia pre každý určený štát alebo skupinu určených štátov.
 
+        - (e) Ak je prihlasovateľ registrovaný na národnom úrade, ktorý pôsobí ako prijímací úrad, v žiadosti sa môže uviesť číslo alebo iný údaj, pod ktorým je prihlasovateľ takto registrovaný.
+
       - 4.6 Vynálezca
 
-        - (a) V prípade uplatnenia pravidla 4.1 (a) (v) musí žiadosť obsahovať meno a adresu vynálezcu alebo každého vynálezcu, ak je ich viac.
+        - (a) Ak sa aplikuje pravidlo 4.1(a)(v) alebo (c)(i), v žiadosti sa musí uviesť meno a adresa pôvodcu alebo v prípade viacerých pôvodcov meno a adresa každého z nich.
 
         - (b) Ak je prihlasovateľ vynálezcom, musí žiadosť obsahovať namiesto údaja uvedeného v odseku (a) oznámenie v tomto smere.
 
@@ -132,11 +136,13 @@
 
       - 4.7 Zástupca
 
-        - Ak sú ustanovení zástupcovia, uvedie sa to v žiadosti a súčasne sa uvedú ich mená a adresy.
+        - (a) Ak je menovaný zástupca, v žiadosti sa musí uviesť táto skutočnosť a meno a adresa zástupcu.
 
-      - 4.8. Spoločný splnomocnenec
+        - (b) Ak je zástupca registrovaný národným úradom, ktorý pôsobí ako prijímací úrad, v žiadosti sa môže uviesť číslo alebo iný údaj, pod ktorým je zástupca takto registrovaný.
 
-      - Ak bol určený spoločný splnomocnenec, musí sa tento údaj v žiadosti uviesť.
+      - 4.8 Spoločný zástupca
+
+      - Ak je menovaný spoločný zástupca, v žiadosti sa musí táto skutočnosť uviesť.
 
       - 4.9. Určenie štátov
 
@@ -218,11 +224,25 @@
 
         - (b) Ak meno krajiny nie je napísané latinskou abecedou, musí sa takisto uviesť v anglickom jazyku.
 
-      - 4.17 Dodatkové údaje
+      - 4.17 Vyhlásenia týkajúce sa národných požiadaviek tak, ako ich stanovuje pravidlo 51bis.1(a)(i) až (v)
 
-        - (a) Žiadosť nesmie obsahovať žiadne iné údaje než tie, ktoré sú uvedené v pravidlách 4.1 až 4.16, pričom Administratívne smernice môžu dovoliť, nie však nariadiť aby boli do žiadosti zahrnuté dodatkové údaje týmito predpismi vymenované.
+      - Žiadosť môže obsahovať pre potreby národného zákonodarstva aplikovaného v jednom alebo vo viacerých určených štátoch jedno alebo viaceré z nasledujúcich vyhlásení tak, ako predpisujú Administratívne smernice:
 
-        - (b) Ak žiadosť obsahuje iné údaje než tie, ktoré sú uvedené v pravidlách 4.1 až 4.16, alebo ktoré dovoľujú podľa odseku (a) Administratívne smernice, prijímací úrad tieto dodatkové údaje vyčiarkne z úradnej moci.
+        - (i) vyhlásenie o totožnosti prihlasovateľa, ako sa uvádza v pravidle 51bis.1(a)(i);
+
+        - (ii) vyhlásenie o prihlasovateľovom práve ako pri dátume medzinárodného podania na prihlásenie a udelenie patentu, ako sa uvádza v pravidle 51bis.1(a)(ii);
+
+        - (iii) vyhlásenie o prihlasovateľovom práve ako pri dátume medzinárodného podania na nárokovanie priority skoršej prihlášky, ako sa uvádza v pravidle 51bis.1(a)(iii);
+
+        - (iv) vyhlásenie o pôvodcovstve, ako sa uvádza v pravidle 51bis.1(a)(iv), ktoré musí byť podpísané tak, ako predpisujú Administratívne smernice;
+
+        - (v) vyhlásenie o zverejneniach, ktoré nie sú na škodu udelenia patentu, alebo o výnimkách pri nedostatku novosti, ako sa uvádza v pravidle 51bis.1(a)(v).
+
+      - 4.18 Dodatkové údaje
+
+        - (a) Žiadosť nesmie obsahovať iné údaje ako tie, ktoré sa uvádzajú v pravidlách 4.1 až 4.17, za predpokladu, že Administratívne smernice môžu dovoliť, ale nemôžu nariadiť, aby sa do žiadosti zahrnuli akékoľvek dodatkové údaje, ktoré sú uvedené v Administratívnych smerniciach.
+
+        - (b) Ak žiadosť obsahuje iné údaje než tie, ktoré sa uvádzajú v pravidlách 4.1 až 4.17 alebo ktoré dovoľujú podľa odseku (a) Administratívne smernice, prijímací úrad tieto dodatkové položky vymaže ex officio.
 
     - PRAVIDLO 5 OPIS
 
@@ -1118,6 +1138,18 @@
 
         - (c) Ak prijímací úrad alebo Medzinárodný úrad vydal uznesenie podľa odseku (b), Medzinárodný úrad na žiadosť prihlasovateľa prijatú Medzinárodným úradom pred skončením technických príprav na medzinárodné zverejnenie za predpokladu, že zaplatil osobitný poplatok, ktorému žiadosť podlieha a ktorého výška je daná Administratívnymi smernicami, zverejní spolu s medzinárodnou prihláškou informácie týkajúce sa nároku na prioritu, ktoré sa považovali za nevykonané. Kópia tejto žiadosti bude obsiahnutá v ozname podľa článku 20, ak sa kópia brožúry nepoužije na oznam alebo ak sa medzinárodná prihláška nezverejní z dôvodov uvedených v článku 64(3).
 
+    - Pravidlo 26ter Oprava alebo doplnenie vyhlásení podľa pravidla 4.17
+
+      - 26ter.1 Oprava alebo doplnenie vyhlásení
+
+        - Prihlasovateľ môže opraviť alebo doplniť do žiadosti akékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17, prostredníctvom oznámenia, ktoré podá na Medzinárodný úrad v lehote 16 mesiacov od dátumu priority, pričom akékoľvek oznámenie, ktoré Medzinárodný úrad prijme po uplynutí stanovenej lehoty, sa bude považovať za prijaté v posledný deň uvedenej lehoty za predpokladu, že ho Medzinárodný úrad prijme pred dokončením technických príprav na zverejnenie medzinárodnej prihlášky.
+
+      - 26ter.2 Spracovanie vyhlásení
+
+        - (a) Ak prijímací úrad alebo Medzinárodný úrad zistí, že akékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17, nie je formulované tak, ako sa vyžaduje, alebo v prípade vyhlásenia týkajúceho sa pôvodcovstva, na ktoré sa odkazuje v pravidle 4.17(iv), nie je podpísané tak, ako sa vyžaduje, prijímací úrad alebo Medzinárodný úrad môže prípadne vyzvať prihlasovateľa, aby opravil vyhlásenie v lehote 16 mesiacov od dátumu priority.
+
+        - (b) Ak Medzinárodný úrad prijme akúkoľvek opravu alebo doplnenie vyhlásenia podľa pravidla 26ter.1 po uplynutí lehoty tohto pravidla, Medzinárodný úrad podľa toho upovedomí prihlasovateľa a bude ďalej postupovať tak, ako stanovujú Administratívne smernice.
+
     - PRAVIDLO 27 NEZAPLATENIE POPLATKOV
 
       - 27.1. Poplatky
@@ -1490,6 +1522,8 @@
 
         - (a-bis) Medzinárodný úrad musí oznámiť každému určenému úradu pri postúpení podľa článku 20 skutočnosť prijatia archívneho vyhotovenia a dátum tohto prijatia a skutočnosť prijatia prioritného dokladu a dátum tohto prijatia. Toto oznámenie sa musí tiež zaslať každému určenému úradu, ktorý sa vzdal práva na postúpenie podľa ustanovenia článku 20, pokiaľ sa taký úrad tiež nevzdal práva na oznámenie o svojom určení.
 
+        - (a-ter) Oznámenie podľa odseku (a-bis) musí obsahovať ktorékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17(i) až (iv), a akúkoľvek jeho opravu podľa pravidla 26ter.1, ktorú Medzinárodný úrad prijal pred uplynutím lehoty podľa pravidla 26ter.1 za predpokladu, že určený úrad informoval Medzinárodný úrad o skutočnosti, že aplikovateľné národné zákonodarstvo vyžaduje poskytnutie dokladov alebo dôkazov týkajúcich sa podstaty, na ktorú sa vyhlásenie vzťahuje.
+
         - (b) K postúpeniu dôjde bez zbytočného odkladu po medzinárodnom zverejnení medzinárodnej prihlášky, najneskôr do konca 19. mesiaca od dátumu priority. Medzinárodný úrad dá na vedomie určeným úradom bez zbytočného odkladu všetky úpravy, ktoré mu došli v lehote podľa pravidla 46.1, pokiaľ neboli obsiahnuté už v postúpení, a oznámi to prihlasovateľovi.
 
         - (c) Medzinárodný úrad odošle správu prihlasovateľovi a uvedie v nej určené úrady, ktorým podklady postúpil, a dátum, keď k postúpeniu došlo. Správu odošle ten istý deň, keď došlo k postúpeniu. Každý určený úrad bude okrem postúpenia ešte osobitne informovaný o odoslaní správy a dátume, keď sa správa podala na poštovú prepravu. Všetky určené úrady budú túto správu považovať za nezvratný dôkaz o tom, že k postúpeniu riadne došlo dňom uvedeným v správe.
@@ -1526,7 +1560,7 @@
 
       - 48.2. Obsah
 
-        - (a) Brožúra má obsahovať:
+        - (a) Brožúra musí obsahovať
 
           - (i) normalizovanú titulnú stránku;
 
@@ -1544,15 +1578,19 @@
 
           - (viii) všetky údaje z každého odkazu týkajúceho sa uloženého biologického materiálu predloženého podľa pravidla 13bis osobitne od opisu spolu s uvedením dátumu, keď Medzinárodný úrad takéto údaje dostal;
 
-          - (ix) každé oznámenie týkajúce sa nároku na prioritu, ktoré sa považuje za neuskutočnené podľa pravidla 26bis.2(b), ktorého zverejnenie sa požaduje podľa pravidla 26bis.2(c).
+          - (ix) akúkoľvek informáciu, ktorá sa týka uplatnenia priority, ktorá sa považuje za nevykonanú podľa pravidla 26bis.2(b), ktorého zverejnenie sa vyžaduje podľa pravidla 26bis.2(c),
 
-        - (b) S výhradou odseku (c) titulná stránka obsahuje:
+          - (x) akékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17(v), a akúkoľvek jeho opravu podľa pravidla 26ter.1, ktorú Medzinárodný úrad prijal pred uplynutím lehoty podľa pravidla 26ter.1.
+
+        - (b) Bez ohľadu na odsek (c) titulná strana obsahuje
 
           - (i) údaje prevzaté z formulára žiadosti a iné údaje predpísané Administratívnymi smernicami;
 
           - (ii) obrázok alebo obrázky, ak medzinárodná prihláška obsahuje výkresy, ibaže platí pravidlo 8.2 (b);
 
-          - (iii) anotáciu; ak je v angličtine a v ďalšom jazyku, anglický text sa uvedie na prvom mieste.
+          - (iii) abstrakt; ak je abstrakt v anglickom jazyku a v inom jazyku, anglický text sa uvedie ako prvý,
+
+          - (iv) údaj, že žiadosť obsahuje akékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17, ktoré Medzinárodný úrad prijal pred uplynutím lehoty podľa pravidla 26ter.1.
 
         - (c) Ak sa vydalo rozhodnutie podľa článku 17 (2) (a), titulná strana na to výrazne poukáže a nemusí na nej byť ani výkres ani anotácia.
 
@@ -1698,23 +1736,21 @@
 
         - K uplynutiu lehoty podľa článku 25 (2) (a) dôjde zároveň s lehotou podľa pravidla 51.1.
 
-    - PRAVIDLO 51 bis NIEKTORÉ NÁRODNÉ POŽIADAVKY PRÍPUSTNÉ PODĹA ČLÁNKU 27 (1), (2), (6) a (7)
+    - PRAVIDLO 51 bis Niektoré národné požiadavky prípustné podľa článku 27
 
       - 51 bis 1 Niektoré prípustné národné požiadavky
 
-        - (a) Doklady podľa článku 27 (2) (ii) alebo dôkazy podľa článku 27 (6), ktorých predloženie možno od prihlasovateľa žiadať podľa národného zákonodarstva aplikovaného určeným úradom, sú najmä
+        - (a) Bez ohľadu na pravidlo 51bis.2 národné zákonodarstvo aplikované určeným úradom môže podľa článku 27 vyžadovať od prihlasovateľa, aby predovšetkým poskytol
 
-          - (i) doklady týkajúce sa totožnosti vynálezcu;
+          - (i) akýkoľvek doklad, ktorý sa týka totožnosti pôvodcu,
 
-          - (ii) doklady týkajúce sa prevodu alebo postúpenia práva k prihláške;
+          - (ii) akýkoľvek doklad, ktorý sa týka prihlasovateľovho práva na prihlásenie alebo udelenie patentu,
 
-          - (iii) doklady obsahujúce prísahu alebo vyhlásenie vynálezcu, pokiaľ ide o jeho autorstvo k vynálezu;
+          - (iii) akýkoľvek doklad, ktorý obsahuje dôkaz o prihlasovateľovom práve nárokovať si prioritu skoršej prihlášky, ak prihlasovateľ nie je prihlasovateľom, ktorý podal skoršiu prihlášku, alebo ak prihlasovateľovo meno bolo zmenené po dátume podania skoršej prihlášky,
 
-          - (iv) doklady obsahujúce vyhlásenie prihlasovateľa o vymenovaní vynálezcu alebo potvrdzujúce jeho práva k prihláške;
+          - (iv) ak medzinárodná prihláška určuje štát, ktorého národné zákonodarstvo vyžaduje, aby národné prihlášky boli podané pôvodcom, akýkoľvek dokument, ktorý obsahuje prísahu alebo vyhlásenie o pôvodcovstve,
 
-          - (v) doklady obsahujúce dôkaz o práve prihlasovateľa uplatniť prioritu, ak ide o iného prihlasovateľa než pri prvšej prihláške, ktorej priorita sa uplatňuje;
-
-          - (vi) všetky dôkazné prostriedky týkajúce sa nezávadnosti preduverejnenia alebo výnimiek z nedostatku novosti, napríklad preduverejnenie v dôsledku protiprávnych činov, preduverejnenie na určitých výstavách a preduverejnenie prihlasovateľom v určitom časovom období.
+          - (v) akýkoľvek dôkaz týkajúci sa zverejnení, ktoré nie sú na škodu, alebo výnimiek pri nedostatku novosti, ako sú zverejnenia vyplývajúce zo zneužitia, zverejnenia pri určitých výstavách a zverejnenia prihlasovateľom počas určitého časového obdobia.
 
         - (b) V súlade s článkom 27 (7) môže národné zákonodárstvo aplikované určeným úradom požadovať, aby:
 
@@ -1724,13 +1760,43 @@
 
         - (c) V súlade s článkom 27 (1) môže národné zákonodarstvo aplikované určeným úradom požadovať, aby sa medzinárodná prihláška, jej preklad a každý k nej príslušný doklad predložili v niekoľkých vyhotoveniach.
 
-        - (d) V súlade s článkom 27 (2) (ii) môže národné zákonodarstvo aplikované určeným úradom požadovať, aby preklad medzinárodnej prihlášky dodaný prihlasovateľom podľa článku 22 buď prihlasovateľ, alebo osoba, ktorá medzinárodnú prihlášku preložila, overil, a to vyhlásením, že preklad je podľa najlepšieho vedomia úplný a verný.
+        - (d) Národné zákonodarstvo aplikované určeným úradom môže v súlade s článkom 27(2)(ii) vyžadovať, aby preklad medzinárodnej prihlášky, ktorý poskytol prihlasovateľ podľa článku 22, bol
 
-      - 51 bis 2 Príležitosť splniť národné požiadavky
+          - (i) overený prihlasovateľom alebo osobou, ktorá preložila túto medzinárodnú prihlášku s vyhlásením v tom zmysle, že preklad je úplný a vierohodný pri jej najlepšom vedomí;
 
-        - (a) Ak požiadavky podľa pravidla 51 bis 1 alebo iné požiadavky národného zákonodarstva aplikovaného určeným úradom, ktoré tento úrad uplatňuje podľa článku 27 (1), (2), (6) alebo (7), nie sú splnené už v lehote, v ktorej treba splniť požiadavky podľa článku 22, prihlasovateľovi sa musí dať príležitosť splniť ich ešte po uplynutí tejto lehoty.
+          - (ii) potvrdený štátnym orgánom alebo súdnym tlmočníkom, ale len v tom prípade, ak určený úrad odôvodnene pochybuje o správnosti prekladu.
 
-        - (b) Národné zákonodarstvo aplikované určeným úradom môže podľa článku 27 (2) (ii) vyžadovať, aby prihlasovateľ na výzvu určeného úradu predložil v primeranej, vo výzve určenej lehote preklad medzinárodnej prihlášky overený verejným orgánom alebo prísažným prekladateľom, a to v prípade, že to určený úrad považuje podľa okolností za potrebné.
+        - (e) Národné zákonodarstvo aplikované určeným úradom v súlade s článkom 27 môže vyžadovať od prihlasovateľa, aby poskytol preklad prioritného dokladu za predpokladu, že taký preklad sa môže vyžiadať len vtedy, ak platnosť nároku na prioritu je relevantná na určenie patentovateľnosti daného vynálezu.
+
+        - (f) Ak 17. marca 2000 podmienka v odseku (e) nebude zlučiteľná s národným zákonodarstvom aplikovaným určeným úradom, táto podmienka sa nebude aplikovať na tento úrad tak dlho, kým daná podmienka nebude zlučiteľná s týmto právom za predpokladu, že dotknutý úrad podľa toho neinformoval Medzinárodný úrad do 30. novembra 2000. Medzinárodný úrad bude promptne publikovať prijatú informáciu vo Vestníku.
+
+      - 51bis.2 Určité okolnosti, pri ktorých sa nemusia vyžadovať dokumenty alebo dôkazy
+
+        - (a) Tam, kde aplikované národné zákonodarstvo nevyžaduje, aby boli národné prihlášky podané pôvodcom, určený úrad nebude vyžadovať, ak neexistujú odôvodnené pochybnosti o vierohodnosti daných údajov a vyhlásení, žiadne dokumenty alebo dôkazy
+
+          - (i) týkajúce sa totožnosti pôvodcu [pravidlo 51bis.1(a)(i)], ak sú údaje o pôvodcovi v súlade s pravidlom 4.6 zahrnuté v žiadosti alebo ak vyhlásenie o totožnosti pôvodcu je v súlade s pravidlom 4.17(i) zahrnuté v žiadosti alebo je priamo podané na určený úrad;
+
+          - (ii) týkajúce sa prihlasovateľovho práva tak ako pri dátume medzinárodného podania na prihlásenie a udelenie patentu [pravidlo 51bis.1(a)(ii)], ak je vyhlásenie o tejto záležitosti v súlade s pravidlom 4.17(ii) obsiahnuté v žiadosti alebo je priamo podané na určený úrad;
+
+          - (iii) týkajúce sa prihlasovateľovho práva tak ako pri dátume medzinárodného podania na nárokovanie si priority skoršej prihlášky [pravidlo 51bis.1(a)(iii)], ak je vyhlásenie o tejto záležitosti v súlade s pravidlom 4.17(iii) obsiahnuté v žiadosti alebo je priamo podané na určený úrad.
+
+        - (b) Tam, kde aplikované národné zákonodarstvo vyžaduje, aby boli národné prihlášky podané pôvodcom, určený úrad nebude vyžadovať, ak neexistujú odôvodnené pochybnosti o vierohodnosti daných údajov a vyhlásení, žiadne dokumenty alebo dôkazy
+
+          - (i) týkajúce sa totožnosti pôvodcu [pravidlo 51bis.1(a)(i)], iné ako doklad obsahujúci prísahu alebo vyhlásenie o pôvodcovstve [pravidlo 51bis.1(a)(iv)], ak údaje týkajúce sa pôvodcu v súlade s pravidlom 4.6 sú obsiahnuté v žiadosti;
+
+          - (ii) týkajúce sa prihlasovateľovho práva tak ako pri dátume medzinárodného podania na nárokovanie si priority skoršej prihlášky [pravidlo 51bis.1(a)(iii)], ak je vyhlásenie o tejto záležitosti v súlade s pravidlom 4.17(iii) obsiahnuté v žiadosti alebo je priamo podané na určený úrad;
+
+          - (iii) obsahujúce prísahu alebo vyhlásenie o pôvodcovstve [pravidlo 51bis.1(a)(iv)], ak je vyhlásenie o pôvodcovstve v súlade s pravidlom 4.17(iv) obsiahnuté v žiadosti alebo je priamo podané na určený úrad.
+
+        - (c) Ak 17. marca 2000 nebude odsek (a) v súlade s ktorýmkoľvek bodom v tomto odseku s aplikovaným národným zákonodarstvom určeného štátu, odsek (a) sa na danú záležitosť nebude aplikovať na tento úrad tak dlho, kým daný odsek nebude zlučiteľný s týmto zákonodarstvom za predpokladu, že dotknutý úrad podľa toho neinformoval Medzinárodný úrad do 30. novembra 2000. Medzinárodný úrad bude prijatú informáciu promptne publikovať vo Vestníku.
+
+      - 51bis.3 Možnosť vyhovieť národným požiadavkám
+
+        - (a) Tam, kde požiadavky, na ktoré sa odkazuje v pravidle 51bis.1(a)(i) až (iv) a (c) až (e), alebo akákoľvek iná požiadavka národného zákonodarstva aplikovaného určeným úradom, ktoré tento úrad môže použiť v súlade s článkom 27(1) alebo (2), ešte nie je splnená v tej istej lehote, počas ktorej požiadavky podľa článku 22 musia byť splnené, určený úrad vyzve prihlasovateľa, aby vyhovel tejto požiadavke v lehote, ktorá nesmie byť kratšia ako dva mesiace od dátumu výzvy. Každý určený úrad môže požadovať od prihlasovateľa zaplatenie poplatku za vyhovenie národným požiadavkám v reakcii na výzvu.
+
+        - (b) Tam, kde akákoľvek požiadavka národného zákonodarstva aplikovaného určeným úradom, ktorú tento úrad môže použiť v súlade s článkom 27(6) alebo (7), ešte nie je splnená v tej istej lehote, počas ktorej požiadavky podľa článku 22 musia byť splnené, prihlasovateľ má možnosť vyhovieť tejto požiadavke po uplynutí tejto lehoty.
+
+        - (c) Ak 17. marca 2000 odsek (a) a lehota, na ktoré tento odsek odkazuje, nebudú zlučiteľné s národným zákonodarstvom aplikovaným určeným úradom, tento odsek (a) a lehota, na ktoré tento odsek odkazuje, nebudú sa aplikovať na tento úrad tak dlho, kým daný odsek nebude zlučiteľný s týmto zákonodarstvom za predpokladu, že príslušný úrad bude podľa toho informovať Medzinárodný úrad do 30. novembra 2000. Prijatá informácia bude promptne publikovaná Medzinárodným úradom vo Vestníku.
 
     - PRAVIDLO 52 ÚPRAVA NÁROKOV, OPISU A VÝKRESOV NA URČENÝCH ÚRADOCH
 
@@ -1742,7 +1808,7 @@
 
   - ČASŤ C Pravidlá, ktorá sa týkajú hlavy II Zmluvy
 
-    - PRAVIDLO 53 NÁVRH
+    - PRAVIDLO 53 Žiadosť
 
       - 53.1. Forma
 
@@ -1774,9 +1840,9 @@
 
         - Pokiaľ ide o údaje týkajúce sa prihlasovateľa, platia pravidlá 4.4 a 4.16 a pravidlo 4.5 platí primerane. Požaduje sa, aby sa v návrhu uviedli iba prihlasovatelia pre zvolené štáty.
 
-      - 53.5. Zástupca alebo spoločný splnomocnenec
+      - 53.5 Zástupca alebo spoločný zástupca
 
-        - Ak bol ustanovený zástupca alebo spoločný splnomocnenec, musí sa to uviesť v návrhu. Platia pravidlá 4.4 a 4.16 a pravidlo 4.7 platí primerane.
+        - Ak je menovaný zástupca alebo spoločný zástupca, v žiadosti sa musí táto skutočnosť uviesť. Pravidlá 4.4 a 4.16 sa musia aplikovať a pravidlo 4.7 sa bude aplikovať mutatis mutandis.
 
       - 53.6. Údaje o medzinárodnej prihláške
 
@@ -2170,7 +2236,7 @@
 
         - (a) Ak orgán pre medzinárodný predbežný prieskum potrebuje kópiu prihlášky, ktorej priorita sa uplatňuje v medzinárodnej prihláške, Medzinárodný úrad mu ju na žiadosť bez odkladu dodá. Ak orgán pre medzinárodný predbežný prieskum nedostane kópiu preto, že prihlasovateľ nesplnil požiadavky podľa pravidla 17.1, možno správu o medzinárodnom predbežnom prieskume spracovať tak, akoby k uplatneniu priority nedošlo.
 
-        - (b) Ak prihláška, ktorej priorita sa uplatňuje v medzinárodnej prihláške, je v inom jazyku než v jazyku alebo v jednom z jazykov orgánu pre medzinárodný predbežný prieskum, môže tento orgán vyzvať prihlasovateľa, aby predložil preklad v príslušnom jazyku alebo v jednom z príslušných jazykov do dvoch mesiacov odo dňa výzvy. Ak sa preklad v tejto lehote nepredloží, možno správu o medzinárodnom predbežnom prieskume spracovať tak, akoby k uplatneniu nedošlo.
+        - (b) Ak prihláška, ktorej priorita sa nárokuje v medzinárodnej prihláške, je v inom jazyku než v jazyku alebo v jednom z jazykov, ktoré používa Orgán pre medzinárodný predbežný prieskum, môže tento orgán, ak platnosť nároku na prioritu je relevantná na vyjadrenie názoru, na ktorý sa odkazuje v článku 33(1), vyzvať prihlasovateľa, aby predložil preklad v príslušnom jazyku alebo v jednom z príslušných jazykov v lehote dvoch mesiacov od dátumu výzvy. Ak sa preklad v tejto lehote nepredloží, možno správu o medzinárodnom predbežnom prieskume spracovať tak, ako keby k nárokovaniu priority nebolo došlo.
 
       - 66.8 Forma úprav
 
