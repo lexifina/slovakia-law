@@ -1,3 +1,11 @@
-K prílohe č. 1 vyhl. č. 162/1970 Zb.
+Príloha č. 2
 
-- Vzor tlačiva č. 2 [Vzor 01](../assets/cdd3602ceefeaa60a3c7c03a9441c0ddc18da54661b68beef13f5dda689c035a.pdf)
+- SÚHRNNÉ ÚDAJE A ZÁKLADNÉ UKAZOVATELE STAVBY KOMPLEXNEJ BYTOVEJ VÝSTAVBY [Vzor 02](../assets/3a7f63c77142603e290f282ffcdd3a363f1a787446a90f18ce618dee3cd0fb51.pdf)
+
+  - SÚHRNNÉ ÚDAJE A ZÁKLADNÉ UKAZOVATELE STAVBY KBV - technická a občianska vybavenosť
+
+  - Vzor 03
+
+  - SÚHRNNÉ ÚDAJE A ZÁKLADNÉ UKAZOVATELE STAVBY
+
+  - Vzor 04
