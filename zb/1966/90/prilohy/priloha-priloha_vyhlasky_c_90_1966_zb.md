@@ -40,6 +40,22 @@ Príloha vyhlášky č. 90/1966 Zb.
 
     - Vysoká vojenská škola pozemného vojska hrdinu ZSSR kpt. O. Jaroša vo Vyškove na Morave,
 
+    - c)
+
+    - Vysoká vojenská letecká škola Slovenského národného povstania v Košiciach,
+
+    - d)
+
+    - Vysoká vojenská veliteľsko-technická škola v Martine,
+
+    - e)
+
+    - Vysoká vojenská technická škola Československo-sovietskeho priateľstva v Liptovskom Mikuláši,
+
+    - f)
+
+    - Vysoká vojenská škola tylového a technického zabezpečenia hrdinu ČSSR Jana Švermu v Žiline,
+
     - g)
 
     - Vojenská fakulta Vysokej školy dopravnej v Žiline.
