@@ -1,0 +1,1 @@
+- 1) § 59 zákona č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z.
