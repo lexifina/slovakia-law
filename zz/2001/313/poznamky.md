@@ -20,6 +20,8 @@
 
 - 9) Napríklad vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
 
+- 9a) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+
 - 10) Zákon č. 29/1984 Zb. v znení neskorších predpisov.
 
 - Zákon č. 172/1990 Zb. v znení neskorších predpisov.
@@ -76,6 +78,8 @@
 
 - 26b) § 56 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 118/2002 Z. z.
 
+- 26c) Napríklad zákon č. 133/2002 Z. z. o Slovenskej akadémii vied.
+
 - 27) § 5 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. a § 12 vyhlášky Ministerstva školstva a vedy Slovenskej republiky č. 353/1994 Z. z. o predškolských zariadeniach.
 
 - 28) § 50 zákona č. 29/1984 Zb. v znení zákona č. 171/1990 Zb. a § 6 ods. 2 písm. c) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
@@ -88,9 +92,21 @@
 
 - 29c) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
-- 29d) Zákon č. 61/2000 Z. z. o osvetovej činnosti v znení zákona č. 416/2001 Z. z.
+- 29d) § 2 zákona č. 61/2000 Z. z. o osvetovej činnosti.
 
-- 29e) Zákon č. 384/1997 Z. z. v znení zákona č. 416/2001 Z. z.Zákon č. 114/2000 Z. z.
+- 29e) Zákon Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
+
+- 29f) Zákon č. 384/1997 Z. z. o divadelnej činnosti v znení zákona č. 416/2001 Z. z.
+
+- 29g) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 29h) Zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
+- 29i) Zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
+
+- 29j) Zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
+
+- 29k) Vládne nariadenie č. 96/1953 Zb. o Hydrometeorologickom ústave.
 
 - 30) Napríklad zákon Slovenskej národnej rady č. 74/1963 Zb. o Slovenskej akadémii vied v znení neskorších predpisov, § 1 ods. 1 a § 27 ods. 1 zákona č. 172/1990 Zb., § 24 ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
 
