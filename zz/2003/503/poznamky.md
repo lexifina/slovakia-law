@@ -44,6 +44,8 @@
 
 - 18) § 108 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 18a) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 86/2002 Z. z. o stanovení všeobecnej hodnoty majetku v znení vyhlášky č. 576/2003 Z. z.
+
 - 19) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) § 6 a 7 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona č. 498/1991 Zb. a zákona č. 558/2001 Z. z.
