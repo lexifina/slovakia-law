@@ -28,8 +28,10 @@
 
 (4) Ak likvidátor zistí, že podnik v likvidácii je predlžený, podá bez zbytočného odkladu návrh na vyhlásenie konkurzu.<sup>12</sup>)
 
-(5) Účtovnú závierku vypracovanú ku dňu vstupu podniku do likvidácie a plán likvidácie majetku podniku je likvidátor povinný zaslať zakladateľovi a ministerstvu do 30 dní odo dňa vstupu podniku do likvidácie. Plán likvidácie majetku doručí aj príslušnému daňovému úradu. Personálnu časť plánu likvidácie (profesijnú skladbu, počty a termíny uvoľňovania zamestnancov) prerokuje s príslušným odborovým orgánom.
+(5) Ak súd návrh likvidátora na vyhlásenie konkurzu zamietne pre nedostatok majetku,<sup>12a</sup>) likvidátor vypracuje záverečnú správu o skončení likvidácie, v ktorej uvedie, ako bolo naložené s jeho majetkom vrátane súpisu nevyporiadaných záväzkov a pohľadávok a označenia miesta, v ktorom sú uschované písomnosti. V prípade nevyporiadania všetkého majetku zakladateľ rozhodne o jeho prevode do iného podniku v likvidácii podľa § 15b ods. 2. Ak je nevyporiadaný majetok v správe Slovenského pozemkového fondu,<sup>12b</sup>) spôsob, ako sa s ním naloží, určí Slovenský pozemkový fond.
 
-(6) Likvidátor štvrťročne predkladá zakladateľovi a ministerstvu správu o stave majetku likvidovaného podniku a ku dňu skončenia likvidácie im predloží účtovnú závierku s návrhom na vyporiadanie likvidačného zostatku spolu so záverečnou správou o priebehu likvidácie.
+(6) Účtovnú závierku vypracovanú ku dňu vstupu podniku do likvidácie a plán likvidácie majetku podniku je likvidátor povinný zaslať zakladateľovi a ministerstvu do 30 dní odo dňa vstupu podniku do likvidácie. Plán likvidácie majetku doručí aj príslušnému daňovému úradu. Personálnu časť plánu likvidácie (profesijnú skladbu, počty a termíny uvoľňovania zamestnancov) prerokuje s príslušným odborovým orgánom.
 
-(7) Konanie podľa osobitných predpisov<sup>13</sup>) sa prerušuje vstupom podniku do likvidácie.
+(7) Likvidátor štvrťročne predkladá zakladateľovi a ministerstvu správu o stave majetku likvidovaného podniku a ku dňu skončenia likvidácie im predloží účtovnú závierku s návrhom na vyporiadanie likvidačného zostatku spolu so záverečnou správou o priebehu likvidácie.
+
+(8) Konanie podľa osobitných predpisov<sup>13</sup>) sa prerušuje vstupom podniku do likvidácie.

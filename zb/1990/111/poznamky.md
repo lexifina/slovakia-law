@@ -44,11 +44,19 @@
 
 - 9) § 9 a nasl. zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
 
+- 9a) Napríklad § 57 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 9b) § 128a ods. 1 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
+
 - 10) Zákon č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 626/1992 Zb., zákona Národnej rady Slovenskej republiky č. 124/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 326/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 367/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 368/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 58/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 281/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z. a zákona Národnej rady Slovenskej republiky č. 126/1996 Z. z.
 
 - 11) Zákon Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení zákona Slovenskej národnej rady č. 571/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 12) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona č. 471/1992 Zb., zákona Národnej rady Slovenskej republiky č. 91/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 159/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 190/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 58/1996 Z. z. a zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z.
+
+- 12a) § 13 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
+
+- 12b) § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 13) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -57,3 +65,5 @@
 - 15) Napríklad § 140 Občianskeho zákonníka.
 
 - 16) § 47b zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 16a) § 281 až 288 Obchodného zákonníka.
