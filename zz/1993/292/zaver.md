@@ -1,1 +1,0 @@
-Rudolf Krč v. r.
