@@ -12,6 +12,8 @@ Dňa 22. novembra 1966 bola v Moskve podpísaná Dohoda medzi vládou Českoslov
 
 Podľa svojho článku 21 vstúpila Dohoda v platnosť dňom podpisu.
 
+Nadobudnutím platnosti dohody o leteckej doprave sa vo vzťahu medzi Slovenskou republikou a Ruskou federáciou končí platnosť tejto dohody (oznámenie č. 344/1996 Z. z.).
+
 České znenie Dohody sa vyhlasuje súčasne.*)
 
 Prvý námestník ministra:
