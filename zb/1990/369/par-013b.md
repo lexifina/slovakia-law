@@ -6,10 +6,8 @@
 
 (3) Obecné zastupiteľstvo na návrh starostu ustanoví okruh úkonov a činností, ktoré je zástupca starostu oprávnený vykonávať.
 
-(4) Zástupca starostu zvolá obecné zastupiteľstvo v prípadoch podľa § 13c ods. 3.
+(4) Zástupca starostu zvolá obecné zastupiteľstvo v prípadoch podľa § 13a ods. 3, ak ho nezvolá starosta.
 
-(5) Ak zanikne mandát starostu pred uplynutím funkčného obdobia [§ 13c ods. 1 písm. c) až h)], plní úlohy starostu v plnom rozsahu zástupca starostu s pomocou obecnej rady. Ak obecná rada nie je zriadená, obecné zastupiteľstvo určí dvoch svojich poslancov na pomoc zástupcovi starostu. Zastupovanie sa skončí zložením sľubu nového starostu.
+(5) Ak zanikne mandát starostu pred uplynutím funkčného obdobia [§ 13a ods. 1 písm. c) až i)], plní úlohy starostu v plnom rozsahu zástupca starostu. Zastupovanie sa skončí zložením sľubu novozvoleného starostu.
 
-- c) požaduje to petícia<sup>11</sup>) skupiny obyvateľov obce v počte 20 % všetkých oprávnených voličov v obci,
-
-obecné zastupiteľstvo sa môže trojpätinovou väčšinou všetkých poslancov uzniesť na voľbe nového starostu. Zároveň sa môže uzniesť na tom, že funkciu starostu bude do zvolenia nového starostu vykonávať zástupca starostu. Na toto zastupovanie sa vzťahuje odsek 4.
+(6) Zástupcovi starostu, ktorý plní úlohy starostu podľa odseku 5, patrí plat podľa osobitného zákona.<sup>15a</sup>)
