@@ -1,38 +1,34 @@
 - 1) Zákon č. 153/2001 Z. z. o prokuratúre.
 
-- 2) Nariadenie Rady (EÚ) 2017/1939 z 12. októbra 2017, ktorým sa vykonáva posilnená spolupráca na účely zriadenia Európskej prokuratúry (Ú. v. EÚ L 283, 31. 10. 2017).
+- 2) § 2 ods. 1 písm. b) druhý bod zákona č. 370/1997 Z. z. o vojenskej službe v znení zákona č. 10/2000 Z. z.
 
-- 4) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) § 4 ods. 1 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
-- 7) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 4) § 21 ods. 3 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
-- 7a) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 5) § 25 ods. 1 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 141/1991 Zb. o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách.
 
-- 8) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+- 6) § 25 ods. 2 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
-- 9) § 116 Občianskeho zákonníka.
+- 7) Zákon č. 311/1999 Z. z. o registri trestov.
+
+- 8) § 8 až 12 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
+
+- 9) § 97 až 102 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
+
+- 10) § 24 ods. 3 zákona č. 370/1997 Z. z.
 
 - 11) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
 
-- 11b) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12) § 31a ods. 2 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
-- 11ba) Napríklad zákon č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
+- 13) § 244 až 250k Občianskeho súdneho poriadku.
 
-- 11c) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+- 14) § 80 písm. c) Občianskeho súdneho poriadku.
 
-- 13) § 177 a 193 Správneho súdneho poriadku.
+- 15) § 116 Občianskeho zákonníka.
 
-- 14) § 137 písm. c) Civilného sporového poriadku.
-
-- 14a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
-
-- 15) § 11 až 16 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
-
-- Zákon č. 122/2013 Z. z. o ochrane osobných údajov v znení zákona č. 84/2014 Z. z.
-
-- 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 89 až 92 Civilného sporového poriadku a § 49 až 52 Správneho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 16a) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+- 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 22 až 24, § 27 a 28 Občianskeho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 17) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
@@ -44,13 +40,15 @@
 
 - 21) Čl. 6 ústavného zákona Národnej rady Slovenskej republiky č. 119/1995 Z. z. o zamedzení rozporu záujmov pri výkone funkcií ústavných činiteľov a vyšších štátnych funkcionárov.
 
-- 21a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
-
 - 22) § 1 a 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení zákona Národnej rady Slovenskej republiky č. 201/1996 Z. z.
 
 - 23) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z.
 
 - 24) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+
+- 25) § 1 ods. 4 a § 40 až 49 zákona č. 380/1997 Z. z. o peňažných náležitostiach vojakov.
+
+- 26) Zákon č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
 - 27) Zákon č. 351/1997 Z. z. Branný zákon.
 
@@ -64,27 +62,23 @@
 
 - Zákon č. 380/1997 Z. z.
 
+- 32) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
+
 - 33) § 6 ods. 10 zákona č. 366/1999 Z. z. o daniach z príjmov.
+
+- 34) § 144 zákona č. 370/1997 Z. z.
 
 - 35) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
 
-- 36) Zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 36a) § 10 ods. 3 a 4 zákona č. 548/2003 Z. z.
+- 36) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
 
 - 37) § 66 ods. 1 a § 85 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 38) § 67 ods. 1 a § 85 zákona č. 385/2000 Z. z.
 
-- 39) Opatrenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 400/2014 Z. z., ktorým sa ustanovuje platový koeficient príslušného štátu.
-
-- 39a) Štvrtá časť zákona č. 283/2002 Z. z. v znení neskorších predpisov.
-
-- 39b) § 33b až 33k zákona č. 283/2002 Z. z. v znení neskorších predpisov.
+- 39) § 1 ods. 4 a § 8 zákona č. 380/1997 Z. z.
 
 - 40) § 22c a 22d zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 57/1999 Z. z.
-
-- 40a) Opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 502/2010 Z. z., ktorým sa ustanovuje platový koeficient príslušného štátu.
 
 - 41) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
@@ -92,49 +86,57 @@
 
 - 43) Zákon č. 366/1999 Z. z. v znení neskorších predpisov.
 
-- 44) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 44) Napríklad § 251 až 351 Občianskeho súdneho poriadku, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 45) Napríklad § 71 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 235/1998 Z. z.
+- 45) Napríklad § 279 Občianskeho súdneho poriadku, § 71 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 235/1998 Z. z.
+
+- 46) § 1 ods. 4 zákona č. 380/1997 Z. z.
 
 - 47) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z., zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z.
 
-- 49) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+- 48) § 18 až 59a zákona č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
 
-- 49a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
-
-- 49b) § 12 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 49) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
 - 50) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
+
+- 51) Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
 
 - 52) Zákon č. 71/1967 Zb.
 
 - 53) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
-- 54) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
-
-- 54a) Čl. 113 nariadenia (EÚ) 2017/1939.
+- 54) Zákon č. 58/1969 Zb. o zodpovednosti za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom.
 
 - 55) Vyhláška ministerstiev zdravotníctva a spravodlivosti, Štátneho úradu sociálneho zabezpečenia a Ústrednej rady odborov č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení neskorších predpisov.
 
 - 56) Zákon č. 238/1998 Z. z. o príspevku na pohreb.
 
-- 56a) Čl. 113 ods. 3 a 4 nariadenia (EÚ) 2017/1939.
+- 57) Napríklad § 2 ods. 1 a § 10 ods. 1 písm. g) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 57) Zákon č. 432/2021 Z. z. o disciplinárnom poriadku Najvyššieho správneho súdu Slovenskej republiky a o zmene a doplnení niektorých zákonov (disciplinárny súdny poriadok).
+- 58) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
-- 57b) Zákon č. 372/1990 Z. z. v znení neskorších predpisov.
+- 59) § 159 ods. 1 písm. b), § 171 ods. 1, § 188 ods. 1 písm. b), § 222 ods. 2 a § 257 písm. a) zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
 
-- 57c) Napríklad § 58 ods. 2 a 3 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, § 64 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 11 ods. 4 až 6 zákona č. 377/2004 Z. z. v znení neskorších predpisov, § 91 ods. 1 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
+- 60) § 49 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb.
 
-- 57d) Napríklad § 11 až 18 a § 20 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, § 92 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 11 ods. 2 a 3 zákona č. 377/2004 Z. z. v znení neskorších predpisov, § 91 ods. 1 písm. d) piaty bod, ods. 3, 5 a 6 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
+- 61) § 49 ods. 1 písm. b) zákona Slovenskej národnej rady č. 372/1990 Zb.
 
-- 57da) Čl. 17 ods. 4 nariadenia (EÚ) 2017/1939.
+- 62) § 49 ods. 1 písm. d) zákona Slovenskej národnej rady č. 372/1990 Zb.
 
-- 66) § 9 ods. 1 písm. a) zákona č. 432/2021 Z. z.
+- 63) § 50 zákona Slovenskej národnej rady č. 372/1990 Zb.
 
-- 66a) § 30a až 30c zákona č. 153/2001 Z. z. v znení zákona č. 401/2015 Z. z.
+- 64) § 100 zákona č. 141/1961 Zb.
 
-- 67) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 65) Napríklad § 251 až 351 Občianskeho súdneho poriadku.
+
+- 66) Zákon č. 141/1961 Zb. v znení neskorších predpisov.
+
+- 67) Zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení neskorších predpisov.
+
+- 68) Štvrtá časť zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
+
+- 69) Zákon č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.Zákon č. 380/1997 Z. z.Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
 
 - 70) Zákonník práce.
 
@@ -144,6 +146,8 @@
 
 - 72) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení neskorších predpisov.
 
-- 75) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
+- 73) § 18 ods. 2 písm. a) zákona č. 351/1997 Z. z.
 
-- 76) § 215k zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 74) § 14 zákona č. 351/1997 Z. z.
+
+- 75) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
