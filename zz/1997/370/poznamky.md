@@ -48,11 +48,15 @@
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení článku II zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
-- 25) Napríklad § 84 ods. 1 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok), § 18 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
+- 25) Napríklad § 84 ods. 1 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok), § 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 26) § 180 Trestného zákona.
 
 - 27) Zákon Národnej rady Slovenskej republiky č. 237/1993 Z. z. o registri trestov.
+
+- 27a) § 2 ods. 2 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 27b) § 7 zákona č. 428/2002 Z. z.
 
 - 29) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky v znení neskorších predpisov.
 
@@ -75,6 +79,10 @@
 - 38) § 38 ods. 1 písm. c) a e) a odsek 4 zákona č. 153/2001 Z. z. o prokuratúre.
 
 - 39) § 20 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- 39a) § 41 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 39b) Napríklad § 31 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry, § 27 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 40) § 21 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
@@ -167,6 +175,8 @@
 - 70c) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok v znení zákona č. 439/2000 Z. z.
 
 - 70d) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
+- 70da) Zákon č. 428/2002 Z. z.
 
 - 70e) § 6 ods. 3 písm. e) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 

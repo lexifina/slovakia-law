@@ -54,6 +54,10 @@ i)
 
 prestal spĺňať niektorú z podmienok uvedených v § 8 ods. 1 písm. b), f), g) alebo h).
 
+j)
+
+mu zaniklo určenie oboznamovať sa s utajovanými skutočnosťami<sup>39a</sup>) a nie je pre neho iné vhodné zaradenie.
+
 (2)
 
 Zo služobného pomeru možno prepustiť profesionálneho vojaka, ktorý
@@ -77,6 +81,10 @@ nesplnil niektorú zo základných povinností vojaka uvedených v § 72 alebo p
 e)
 
 bol právoplatne odsúdený pre trestný čin, ak nejde o prípad uvedený v odseku 1 písm. e).
+
+f)
+
+nespĺňa kvalifikačné predpoklady vzdelania alebo kvalifikačné požiadavky na výkon funkcie, do ktorej je ustanovený, a ak ho nemožno ustanoviť do inej funkcie.
 
 (3)
 
@@ -150,7 +158,7 @@ spĺňa podmienky nároku na starobný, invalidný alebo čiastočný invalidný
 
 b)
 
-bol prepustený zo služobného pomeru podľa § 32 ods. 1 písm. a), b), d), e), g), h) a i) a podľa § 32 ods. 2 písm. a), b), d) a e).
+bol prepustený zo služobného pomeru podľa § 32 ods. 1 písm. a), b), d), e), g), h), i) a j) a podľa § 32 ods. 2 písm. a), b), d) a e).
 
 (4)
 

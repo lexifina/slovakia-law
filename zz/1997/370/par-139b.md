@@ -4,7 +4,7 @@
 
 - a) naturálne stravovanie poskytované vojakovi základnej služby, vojakovi náhradnej služby, vojakovi zdokonaľovacej služby, vojakovi mimoriadnej služby, vojakovi prípravnej služby a žiakovi vojenskej školy,
 
-- b) bezplatné stravovanie poskytované profesionálnemu vojakovi pri výkone služby, ktorá trvá nepretržite 24 hodín, alebo pri výcviku, zabezpečovaní letovej akcie, zabezpečovaní kontroly preberajúcich letov lietadiel, výkone služby v pohotovostnom systéme protivzdušnej obrany štátu, výkone špeciálneho prieskumu, výkone čestnej stráže v strážnej zmene, ktorý trvá nepretržite 12 hodín, pri preventívnej rehabilitácii a pri výkone vrcholového športu,
+- b) bezplatné stravovanie poskytované profesionálnemu vojakovi pri výkone služby, ktorá trvá nepretržite 24 hodín, alebo pri výcviku, zabezpečovaní letovej akcie, zabezpečovaní kontroly preberajúcich letov lietadiel, výkone služby v pohotovostnom systéme protivzdušnej obrany štátu, výkone špeciálneho prieskumu, výkone čestnej stráže v strážnej zmene, ktorý trvá nepretržite 12 hodín, pri výcviku výkonného letca a výkonného výsadkára, pri preventívnej rehabilitácii a pri výkone vrcholového športu,
 
 - c) materiálové prostriedky poskytované vojakovi základnej služby, vojakovi náhradnej služby, vojakovi mimoriadnej služby, vojakovi prípravnej služby a žiakovi vojenskej školy.
 
