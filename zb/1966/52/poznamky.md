@@ -1,1 +1,0 @@
-- 1) Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
