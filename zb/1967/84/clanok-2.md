@@ -1,3 +1,0 @@
-# Článok 2
-
-Táto vyhláška nadobúda účinnosť 1. septembrom 1967.
