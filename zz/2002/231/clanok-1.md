@@ -84,6 +84,10 @@ Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých z
 
 - poskytuje informácie o pracovných podmienkach podľa osobitného predpisu<sup>8a</sup>) najmä v súvislosti s vykonávaním stavebných prác vrátane výkopových prác, terénnych úprav, montáže a demontáže konštrukčných prvkov, opráv vrátane technického, technologického a energetického vybavenia stavieb, búracích prác a udržiavacích prác,
 
+- o)
+
+- spolupracuje s príslušnými orgánmi Európskej únie a členských štátov Európskej únie pri zisťovaní, kontrole a hodnotení pracovných podmienok podľa písmena n) a poskytuje im príslušné informácie o pracovných podmienkach,<sup>8a</sup>)
+
 - p)
 
 - vydáva oprávnenia a osvedčenia a odoberá oprávnenia a osvedčenia<sup>9</sup>) podnikateľom<sup>2</sup>) a fyzickým osobám na vykonávanie činnosti na zariadeniach v jadrovej energetike určených osobitnými predpismi,
