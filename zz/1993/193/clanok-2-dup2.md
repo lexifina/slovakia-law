@@ -1,0 +1,3 @@
+# Čl. II
+
+Súd, ktorý má na konanie o opatrovníctve právomoc, môže preniesť opatrovníctvo na súd druhej zmluvnej strany, ak osoba, ktorej bol ustanovený opatrovník, má na území tejto zmluvnej strany bydlisko alebo pobyt alebo majetok. K preneseniu opatrovníctva dôjde, ak dožiadaný súd prevezme opatrovníctvo a upovedomí o tom dožadujúci súd. Súd, ktorý prevzal vedenie opatrovníctva, vedie ho podľa právneho poriadku svojho štátu, avšak pokiaľ ide o spôsobilosť na práva a právne úkony, postupuje podľa právneho poriadku zmluvnej strany, ktorej štátnym občanom je opatrovanec. Tento súd nie je oprávnený rozhodovať o osobnom stave opatrovanca, môže však rozhodnúť o povolení uzavrieť manželstvo.
