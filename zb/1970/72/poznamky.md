@@ -1,1 +1,0 @@
-- *) § 85 ods. 6 vl. nar. č. 100/1966 Zb. o plánovitom riadení národného hospodárstva v znení vl. nar. č. 169/1969 Zb.
