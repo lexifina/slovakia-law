@@ -10,7 +10,7 @@
 
 - a) zabezpečiť skúšanie zdrojov elektromagnetického žiarenia a uchovávať protokoly o výsledkoch skúšok,
 
-- b) oznámiť príslušnému orgánu na ochranu zdravia a štátnemu zdravotnému ústavu termín preskúšania podľa písmena a) tri dni pred začatím skúšok,
+- b) oznámiť príslušnému orgánu na ochranu zdravia termín preskúšania podľa písmena a) tri dni pred začatím skúšok,
 
 - c) vypracovať prevádzkový poriadok pred začatím prevádzky a predložiť ho na schválenie príslušnému orgánu na ochranu zdravia [§ 27 ods. 2 písm. e)],
 

@@ -4,7 +4,7 @@
 
 - a) zabezpečiť systematické meranie a hodnotenie obsahu prírodných rádionuklidov v stavebných výrobkoch<sup>6c</sup>) a v dodávanej vode, viesť evidenciu výsledkov merania a uchovávať ju najmenej päť rokov od skončenia výroby alebo od uskutočnenia dovozu,
 
-- b) údaje z evidencie podľa písmena a) oznamovať príslušnému štátnemu zdravotnému ústavu (§ 25),
+- b) údaje z evidencie podľa písmena a) oznamovať úradu verejného zdravotníctva,
 
 - c) vykonať opatrenia na zníženie obsahu prírodných rádionuklidov v stavebných výrobkoch<sup>6c</sup>) a v dodávanej vode pri prekročení odvodených zásahových úrovní ustanovených všeobecne záväzným právnym predpisom vydaným podľa § 17y písm. f).
 
@@ -18,6 +18,6 @@
 
 - a) pred výstavbou stavieb zabezpečiť meranie a hodnotenie objemovej aktivity radónu v pôdnom vzduchu a priepustnosti základových pôd stavebného pozemku, viesť evidenciu výsledkov merania a uchovávať ju najmenej päť rokov od skončenia výstavby,
 
-- b) údaje z evidencie podľa písmena a) oznamovať príslušnému štátnemu zdravotnému ústavu (§ 25),
+- b) údaje z evidencie podľa písmena a) oznamovať úradu verejného zdravotníctva,
 
 - c) pred odovzdaním stavieb do užívania vykonať opatrenia proti prenikaniu radónu z podložia stavby pri prekročení odvodenej zásahovej úrovne ustanovenej všeobecne záväzným právnym predpisom vydaným podľa § 17y písm. f).

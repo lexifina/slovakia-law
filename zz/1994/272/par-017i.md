@@ -1,6 +1,6 @@
 # § 17i Žiadosť o vydanie povolenia na činnosti vedúce k ožiareniu a činnosti dôležité z hľadiska radiačnej ochrany
 
-(1) Žiadosť o vydanie povolenia predkladá žiadateľ ministerstvu zdravotníctva alebo štátnemu krajskému hygienikovi.
+(1) Žiadosť o vydanie povolenia podľa § 17f ods. 2 a 3 predkladá žiadateľ úradu verejného zdravotníctva.
 
 (2) Ak je žiadateľ fyzická osoba, v žiadosti uvedie
 
@@ -44,4 +44,4 @@
 
 - c) doklad o dosiahnutom vzdelaní, doklad alebo čestné vyhlásenie o dĺžke odbornej praxe, osvedčenie o odbornej spôsobilosti, doklad o zdravotnej spôsobilosti a výpis z registra trestov odborného zástupcu; výpis nesmie byť starší ako šesť mesiacov,
 
-- d) dokumentáciu, ktorá je uvedená v prílohe k tomuto zákonu.
+- d) dokumentáciu, ktorá je uvedená v prílohe č. 1 k tomuto zákonu.

@@ -1,4 +1,4 @@
-Príloha k zákonu č. 470/2000 Z. z.
+Príloha č. 1 k zákonu č. 272/2000 Z. z.
 
 - DOKUMENTÁCIA NA VYDANIE POVOLENIA A POSUDKU I. Dokumentácia na vydanie povolenia podľa § 17f ods. 2 písm. a) a ods. 4 písm. a)
 

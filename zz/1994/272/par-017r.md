@@ -26,7 +26,7 @@
 
 (9) Náklady spojené s nakladaním s inštitucionálnymi rádioaktívnymi odpadmi od ich vzniku až po ich ukladanie vrátane ukladania uhrádza pôvodca inštitucionálnych rádioaktívnych odpadov.
 
-(10) Nakladanie s inštitucionálnymi rádioaktívnymi odpadmi, ktorých pôvodca nie je známy, môže vykonávať len právnická osoba a fyzická osoba na základe povolenia ministerstva zdravotníctva [(§ 17f ods. 2 písm. p)]. Ministerstvo zdravotníctva určí právnickú osobu alebo fyzickú osobu, ktorá má povolenie na nakladanie s inštitucionálnymi rádioaktívnymi odpadmi, ktorých pôvodca nie je známy; v rozhodnutí vymedzí rozsah nakladania s takýmito inštitucionálnymi rádioaktívnymi odpadmi a spôsob jeho úhrady.
+(10) Nakladanie s inštitucionálnymi rádioaktívnymi odpadmi, ktorých pôvodca nie je známy, môže vykonávať len právnická osoba a fyzická osoba na základe povolenia úradu verejného zdravotníctva [(§ 17f ods. 2 písm. p)]. Úrad verejného zdravotníctva určí právnickú osobu alebo fyzickú osobu, ktorá má povolenie na nakladanie s inštitucionálnymi rádioaktívnymi odpadmi, ktorých pôvodca nie je známy; v rozhodnutí vymedzí rozsah nakladania s takýmito inštitucionálnymi rádioaktívnymi odpadmi a spôsob jeho úhrady.
 
 (11) Držiteľ povolenia podľa odseku 10 prepravuje inštitucionálne rádioaktívne odpady, ktorých pôvodca nie je známy, právnickej osobe alebo fyzickej osobe určenej podľa osobitných predpisov.<sup>6j</sup>)
 

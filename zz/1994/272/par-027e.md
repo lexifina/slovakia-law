@@ -1,6 +1,6 @@
 # § 27e Žiadosť o vydanie povolenia
 
-(1) Žiadosť o vydanie povolenia predkladá žiadateľ ministerstvu zdravotníctva.
+(1) Žiadosť o vydanie povolenia predkladá žiadateľ úradu verejného zdravotníctva.
 
 (2) Ak je žiadateľ fyzická osoba, v žiadosti uvedie
 

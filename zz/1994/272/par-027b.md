@@ -1,8 +1,8 @@
 # § 27b Podmienky na vydanie povolenia
 
-(1) Ministerstvo zdravotníctva vydá na činnosť uvedenú v § 27a povolenie fyzickej osobe a právnickej osobe, ak spĺňajú podmienky ustanovené týmto zákonom.
+(1) Úrad verejného zdravotníctva vydá na činnosť uvedenú v § 27a povolenie fyzickej osobe a právnickej osobe, ak spĺňajú podmienky ustanovené týmto zákonom.
 
-(2) Ministerstvo zdravotníctva vydá na činnosť uvedenú v § 27a povolenie fyzickej osobe, ak
+(2) Úrad verejného zdravotníctva vydá na činnosť uvedenú v § 27a povolenie fyzickej osobe, ak
 
 - a) má spôsobilosť na právne úkony v celom rozsahu,
 
@@ -24,7 +24,7 @@
 
 - c) skončené úplné stredné odborné vzdelanie technického smeru a najmenej sedemročná odborná prax.
 
-(4) Ministerstvo zdravotníctva vydá na činnosť uvedenú v § 27a povolenie právnickej osobe, ak má
+(4) Úrad verejného zdravotníctva vydá na činnosť uvedenú v § 27a povolenie právnickej osobe, ak má
 
 - a) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie, alebo autorizáciu na úradné meranie podľa osobitných predpisov,<sup>10a</sup>)
 

@@ -18,4 +18,4 @@
 
 (9) Pracovisko so zdrojmi ionizujúceho žiarenia môže byť zrušené až po odstránení všetkých zdrojov ionizujúceho žiarenia a po dekontaminácii pracoviska.
 
-(10) Na prechodných pracoviskách možno pracovať so zdrojmi ionizujúceho žiarenia, len ak sa s nimi vykonávajú krátkodobé práce, ktoré sú vopred časovo obmedzené. Termín začatia prác a predpokladaný čas výkonu prác na prechodnom pracovisku je držiteľ povolenia povinný písomne oznámiť príslušnému štátnemu zdravotnému ústavu (§ 25) najmenej jeden deň vopred, skončenie prác bezodkladne po ich skončení. Pracovná skupina na prechodnom pracovisku musí byť najmenej dvojčlenná.
+(10) Na prechodných pracoviskách možno pracovať so zdrojmi ionizujúceho žiarenia, len ak sa s nimi vykonávajú krátkodobé práce, ktoré sú vopred časovo obmedzené. Termín začatia prác a predpokladaný čas výkonu prác na prechodnom pracovisku je držiteľ povolenia povinný písomne oznámiť príslušnému úradu verejného zdravotníctva najmenej jeden deň vopred, skončenie prác bezodkladne po ich skončení. Pracovná skupina na prechodnom pracovisku musí byť najmenej dvojčlenná.

@@ -1,6 +1,6 @@
 # § 17v Povinnosti držiteľov povolení na činnosti vedúce k ožiareniu a činnosti dôležité z hľadiska radiačnej ochrany
 
-(1) Držitelia povolení na činnosti vedúce k ožiareniu (§ 17f ods. 2 a 4) sú povinní
+(1) Držitelia povolení na činnosti vedúce k ožiareniu (§ 17f ods. 2 a 3) sú povinní
 
 - a) dodržiavať základné princípy radiačnej ochrany (§ 17a), sústavne hodnotiť súlad vykonávaných činností s nimi, uplatňovať výsledky hodnotenia v praxi a zabezpečiť sústavný dozor nad dodržiavaním požiadaviek na radiačnú ochranu,
 

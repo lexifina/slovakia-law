@@ -2,7 +2,7 @@
 
 # § 17j
 
-(1) Orgán na ochranu zdravia príslušný na vydanie povolenia podľa § 17f ods. 2 až 4 vydá povolenie, ak žiadateľ preukázal splnenie podmienok podľa tohto zákona.
+(1) Orgán na ochranu zdravia príslušný na vydanie povolenia podľa § 17f ods. 2 a 3 vydá povolenie, ak žiadateľ preukázal splnenie podmienok podľa tohto zákona.
 
 (2) Povolenie obsahuje
 
@@ -16,4 +16,4 @@
 
 (3) Ak nie je v povolení určený kratší čas platnosti, povolenie platí päť rokov od jeho vydania.
 
-(4) Na žiadosť držiteľa povolenia môže orgán na ochranu zdravia príslušný na vydanie povolenia podľa § 17f ods. 2 až 4 predĺžiť platnosť povolenia najviac o päť rokov, ak držiteľ povolenia v uplynulom období vykonával činnosť, na ktorú bolo povolenie vydané.
+(4) Na žiadosť držiteľa povolenia môže orgán na ochranu zdravia príslušný na vydanie povolenia podľa § 17f ods. 2 a 3 predĺžiť platnosť povolenia najviac o päť rokov, ak držiteľ povolenia v uplynulom období vykonával činnosť, na ktorú bolo povolenie vydané.

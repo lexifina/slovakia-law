@@ -6,7 +6,7 @@
 
 (3) Na pracoviskách uvedených v odseku 2 je zamestnávateľ povinný
 
-- a) vypracovať monitorovací plán, zabezpečiť jeho plnenie a výsledky monitorovania oznamovať príslušnému štátnemu zdravotnému ústavu (§ 25),
+- a) vypracovať monitorovací plán, zabezpečiť jeho plnenie a výsledky monitorovania oznamovať úradu verejného zdravotníctva,
 
 - b) dodržiavať limity ožiarenia, zásady hodnotenia ožiarenia a požiadavky na hodnotenie ožiarenia zamestnancov ustanovené všeobecne záväzným právnym predpisom vydaným podľa § 17y písm. c) a k),
 

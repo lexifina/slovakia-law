@@ -68,9 +68,17 @@
 
 - 6l) § 22 zákona č. 130/1998 Z. z.
 
+- 6m) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
+- 6n) § 10 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 7) Napr. zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia, zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni.
 
 - 7b) § 3 ods. 1 písm. f) a g) zákona č. 163/2001 Z. z.
+
+- 7b) § 54 a nasl. zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+
+- 7c) § 84 a nasl. zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 8) Napr. zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 

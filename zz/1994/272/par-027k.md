@@ -1,6 +1,6 @@
 # § 27k
 
-(1) Ministerstvo zdravotníctva povolenie zruší, ak držiteľ povolenia
+(1) Úrad verejného zdravotníctva povolenie zruší, ak držiteľ povolenia
 
 - a) požiada o zrušenie povolenia,
 
@@ -8,4 +8,4 @@
 
 - c) závažným spôsobom alebo opakovane porušuje predpisy o ochrane zdravia ľudí a podmienky uvedené v povolení.
 
-(2) Ministerstvo zdravotníctva môže povolenie zrušiť, ak držiteľ povolenia nedodrží oznamovaciu povinnosť (§ 27h).
+(2) Úrad verejného zdravotníctva môže povolenie zrušiť, ak držiteľ povolenia nedodrží oznamovaciu povinnosť (§ 27h).

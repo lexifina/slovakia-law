@@ -1,6 +1,6 @@
 # § 17x Povinnosti držiteľov povolení na činnosti vedúce k ožiareniu v prípade radiačnej nehody a radiačnej havárie
 
-Držitelia povolení na činnosti vedúce k ožiareniu (§ 17f ods. 2 a 4) sú povinní v prípade radiačnej nehody a radiačnej havárie
+Držitelia povolení na činnosti vedúce k ožiareniu (§ 17f ods. 2 a 3) sú povinní v prípade radiačnej nehody a radiačnej havárie
 
 - a) zabezpečiť, aby do miesta radiačnej nehody a radiačnej havárie mali prístup len osoby vykonávajúce záchranné, lokalizačné a likvidačné práce,<sup>6b</sup>) osoby, ktoré vykonávajú štátny zdravotný dozor (§ 26) a inšpektori jadrovej bezpečnosti,<sup>6h</sup>)
 
@@ -10,7 +10,7 @@ Držitelia povolení na činnosti vedúce k ožiareniu (§ 17f ods. 2 a 4) sú p
 
 - d) ihneď vykonať zásah,
 
-- e) neodkladne oznámiť radiačnú nehodu a radiačnú haváriu príslušnému orgánu štátneho zdravotného dozoru (§ 24 a 25) a ďalším dotknutým orgánom uvedeným v havarijnom pláne pracoviska so zdrojmi ionizujúceho žiarenia,
+- e) neodkladne oznámiť radiačnú nehodu a radiačnú haváriu úradu verejného zdravotníctva a ďalším dotknutým orgánom uvedeným v havarijnom pláne pracoviska so zdrojmi ionizujúceho žiarenia,
 
 - f) zistiť a vyhodnotiť rozsah, príčiny a možné následky radiačnej nehody a radiačnej havárie,
 
