@@ -26,8 +26,6 @@
 
 - †) Zák. č. 36/1967 Zb. o znalcoch a tlmočníkoch a čiastka 1/1970 Ústredného vestníka ČSR.
 
-- ††) Pozri čl. 3 - 7 smerníc Štátnej komisie pre techniku č. 7/1967 o rozpočtovaní vedľajších rozpočtových nákladov v sústredenej bytovej výstavbe.
-
 - *) Spôsob zostavenia a ocenenia týchto rozpočtov sa spravuje aj ustanoveniami vl. nar. č. 168/1969 Zb.
 
 - **) § 45 vyhl. Štátnej komisie pre financie, ceny a mzdy č. 47/1967 Zb. o cenách v znení vyhlášky Českého cenového úradu č. 74/1969 Zb. a vyhlášky Slovenského cenového úradu č. 89/1969 Zb.
