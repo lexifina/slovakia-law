@@ -2,7 +2,7 @@
 
 (1) Ozdravný režim predchádza zavedeniu nútenej správy. Obec je povinná zaviesť ozdravný režim, ak neuhradila uznaný záväzok do 60 dní odo dňa splatnosti a celková výška záväzkov po lehote splatnosti presiahne 15 % skutočných bežných príjmov obce predchádzajúceho rozpočtového roka.
 
-(2) Ak nastanú skutočnosti uvedené v odseku 1, starosta obce je povinný do siedmich dní pripraviť návrh opatrení na prijatie ozdravného režimu vrátane návrhu ozdravného rozpočtu a predložiť ich do 15 dní na rokovanie obecného zastupiteľstva.
+(2) Ak nastanú skutočnosti uvedené v odseku 1, starosta obce je povinný do siedmich dní pripraviť návrh opatrení na prijatie ozdravného režimu vrátane návrhu ozdravného rozpočtu a predložiť ich do 15 dní na rokovanie obecného zastupiteľstva. Pri zostavení ozdravného rozpočtu nie je obec povinná dodržať ustanovenie § 29 ods. 2.
 
 (3) Počas ozdravného režimu môže obec používať svoje finančné prostriedky len v súlade so schváleným ozdravným rozpočtom, pričom každé použitie finančných prostriedkov obce musí vopred písomne odsúhlasiť hlavný kontrolór obce.
 
@@ -10,7 +10,7 @@
 
 (5) Hlavný kontrolór obce je povinný predložiť obecnému zastupiteľstvu písomnú správu k návrhu ozdravného režimu, k návrhu ozdravného rozpočtu a ku každej správe o plnení ozdravného režimu a ozdravného rozpočtu.
 
-(6) Obec bezodkladne písomne oznámi ministerstvu rozhodnutie o prijatí ozdravného režimu. V lehote do siedmich dní po uplynutí 90 dní od prijatia ozdravného režimu obec oznámi ministerstvu výsledky jeho plnenia vrátane plnenia ozdravného rozpočtu a stavu záväzkov spolu so stanoviskom hlavného kontrolóra obce.
+(6) Obec bezodkladne písomne oznámi ministerstvu rozhodnutie o prijatí ozdravného režimu. V lehote do siedmich dní po uplynutí 90 dní od prijatia ozdravného režimu obec oznámi ministerstvu výsledky jeho plnenia vrátane plnenia ozdravného rozpočtu a stavu záväzkov spolu so stanoviskom hlavného kontrolóra obce. Ak obec preukáže, že plnením prijatých opatrení dosiahla zlepšenie výsledkov hospodárenia a zníženie celkových záväzkov uvedených v odseku 1, ministerstvo môže na základe žiadosti obce vydať súhlas na predĺženie hospodárenia v ozdravnom režime s určením jeho lehoty.
 
 (7) Ministerstvo je oprávnené rozhodnúť<sup>21</sup>) o zavedení nútenej správy nad obcou, ak nastali skutočnosti uvedené v odseku 1 a obec nezaviedla ozdravný režim alebo ak ozdravný režim zavedený obcou po uplynutí 120 dní od vzniku skutočností uvedených v odseku 1 neviedol k náprave a tieto skutočnosti naďalej pretrvávajú, a to na základe
 
@@ -46,7 +46,7 @@
 
 (17) Obec je povinná do siedmich dní od doručenia rozhodnutia o zavedení nútenej správy toto rozhodnutie zverejniť spôsobom v obci obvyklým. Obec je povinná zavedenie nútenej správy oznámiť všetkým bankám, ktoré vedú účty obce, ďalej príslušnému vyššiemu územnému celku a veriteľom.
 
-(18) Obec je povinná do 30 dní od doručenia rozhodnutia o zavedení nútenej správy zostaviť a schváliť krízový rozpočet na obdobie do konca rozpočtového roka, podľa ktorého bude obec hospodáriť. V krízovom rozpočte sa povinne rozpočtujú nevyhnutné výdavky podľa § 27 ods. 1 písm. a) až c). Ak sa nútená správa neskončí v príslušnom rozpočtovom roku, obec je povinná do 31. decembra bežného roka zostaviť a schváliť krízový rozpočet aj na nasledujúci rozpočtový rok.
+(18) Obec je povinná do 30 dní od doručenia rozhodnutia o zavedení nútenej správy zostaviť a schváliť krízový rozpočet na obdobie do konca rozpočtového roka, podľa ktorého bude obec hospodáriť. V krízovom rozpočte sa povinne rozpočtujú nevyhnutné výdavky podľa § 27 ods. 1 písm. a) až c). Ak sa nútená správa neskončí v príslušnom rozpočtovom roku, obec je povinná do 31. decembra bežného roka zostaviť a schváliť krízový rozpočet aj na nasledujúci rozpočtový rok. Pri zostavení krízového rozpočtu nie je obec povinná dodržať ustanovenie § 29 ods. 2.
 
 (19) Ak obec neschváli krízový rozpočet v lehotách uvedených v odseku 18, obec hospodári podľa krízového rozpočtu zostaveného núteným správcom.
 

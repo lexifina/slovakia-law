@@ -8,13 +8,19 @@
 
 - 2b) Zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.Zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni.
+- 3) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni.
+
+- Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
 
 - 4) § 22 zákona č. 366/1999 Z. z. o daniach z príjmov.
 
 - 4a) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 5) Napríklad zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
+
+- 5a) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
 - 6) Zákon č. 563/1991 Zb. o účtovníctve.
 
@@ -80,6 +86,8 @@
 
 - 19c) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
+- 19ca) § 2 ods. 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
+
 - 19d) Zákon č. 513/1991 Zb. v znení neskorších predpisov.
 
 - 20) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
@@ -122,7 +130,7 @@
 
 - 29b) Zákon č. 231/1999 Z. z. o štátnej pomoci.
 
-- 29c) § 1 ods. 1 písm. e) zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+- 29c) § 3 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
 - 29d) Napríklad § 38 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 

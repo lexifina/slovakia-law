@@ -24,8 +24,8 @@
 
 (3) Vyšší územný celok môže poskytovať dotácie obciam na svojom území ako účasť na financovaní spoločných úloh v záujme všestranného rozvoja územia vyššieho územného celku.
 
-(4) Iným právnickým osobám a fyzickým osobám podnikateľom na svojom území, ako sú uvedené v odsekoch 2 a 3, vyšší územný celok môže poskytovať dotácie a návratné finančné výpomoci len z vlastných príjmov a na podporu verejnoprospešných činností, podnikania a zamestnanosti.
+(4) Iným právnickým osobám a fyzickým osobám podnikateľom na svojom území, ako sú uvedené v odsekoch 2 a 3, vyšší územný celok môže poskytovať dotácie a návratné finančné výpomoci len z vlastných príjmov a na podporu všeobecne prospešných služieb,<sup>19ca</sup>) podnikania a zamestnanosti.
 
 (5) Poskytnutie finančných prostriedkov podľa odsekov 2 až 4 nesmie zvyšovať dlh vyššieho územného celku na konci rozpočtového roka a podlieha ročnému zúčtovaniu s rozpočtom vyššieho územného celku. Konkrétne akcie, úlohy a účelové použitie prostriedkov podľa odsekov 3 a 4 sa schvaľuje v rámci rozpočtu vyššieho územného celku na príslušný rozpočtový rok za podmienok ustanovených všeobecne záväzným nariadením vyššieho územného celku.
 
-(6) Okrem výdavkov podľa odsekov 1 až 4 vyšší územný celok uhrádza zo svojho rozpočtu aj splátky istiny prijatých pôžičiek, úverov a návratných finančných výpomocí a menovitú hodnotu emitovaných dlhopisov.
+(6) Splátky istiny prijatých pôžičiek, úverov, návratných finančných výpomocí, menovitú hodnotu emitovaných dlhopisov a poskytnuté návratné finančné výpomoci uhrádza vyšší územný celok zo svojho rozpočtu mimo výdavkov podľa odsekov 1 až 4.
