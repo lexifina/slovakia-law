@@ -46,6 +46,8 @@
 
 - Zákon č. 17/1992 Zb. o ochrane životného prostredia. § 1 ods. 3 písm. g) vyhlášky Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky č. 14/1978 Zb. o kategorizácii lesov, spôsoboch hospodárenia a hospodárskej úprave lesov v znení neskorších predpisov.
 
+- 10b) § 108 ods. 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 11) § 8 zákona č. 169/1949 Zb. o vojenských obvodoch.
 
 - 12) § 6 a 7 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon).
