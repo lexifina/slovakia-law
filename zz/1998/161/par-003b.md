@@ -1,16 +1,8 @@
 # § 3b Odborná spôsobilosť
 
-(1) Odbornou spôsobilosťou je súhrn vedomostí, praktických skúseností a aplikačných postupov, ktoré sú nevyhnutné na riadny výkon kominárskych prác.
+(1) Odbornou spôsobilosťou je súhrn vedomostí, praktických skúseností a aplikačných postupov, ktoré sú nevyhnutné na riadny výkon odborného preskúšania komínov.
 
-(2) Odbornou spôsobilosťou kominárov je najmä znalosť
-
-- a) predpisov súvisiacich s kominárskou činnosťou,
-
-- b) technologických postupov kontroly a čistenia komínov, dymovodov a palivových spotrebičov,
-
-- c) navrhovania a zhotovovania komínov a dymovodov, ako aj inštalácie palivových spotrebičov.
-
-(3) Odbornou spôsobilosťou revíznych technikov komínov je najmä znalosť
+(2) Odbornou spôsobilosťou revíznych technikov komínov je najmä znalosť
 
 - a) predpisov súvisiacich s činnosťou revíznych technikov komínov,
 
@@ -22,4 +14,4 @@
 
 - e) technologických postupov kontroly a čistenia komínov, dymovodov a palivových spotrebičov.
 
-(4) Obsah odbornej prípravy na získanie odbornej spôsobilosti podľa odsekov 2 a 3 je uvedený v prílohe č. 1.
+(3) Obsah odbornej prípravy na získanie odbornej spôsobilosti podľa odseku 2 je uvedený v prílohe č. 1.

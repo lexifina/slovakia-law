@@ -1,3 +1,3 @@
-Príloha č. 3
+Príloha č. 3 k zákonu č. 161/1998 Z. z.
 
-- VZOR OSVEDČENIA [Príloha 03](../assets/31d27924cf98aa5703fc0f1be9f960340eab2fffb75e907a6ce8d50835825149.pdf)
+- VZOR ODTLAČKU PEČIATKY ![Príloha 03](../assets/ebe2e83a0088c1636d1e89fac31ef52c0bf9cd28d174e41e498247e89269460e.tiff)

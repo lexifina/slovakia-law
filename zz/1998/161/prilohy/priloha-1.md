@@ -1,32 +1,6 @@
 Príloha č. 1 k zákonu č. 161/1998 Z. z.
 
-- OBSAH ODBORNEJ PRÍPRAVY Odborná príprava na získanie odbornej spôsobilosti kominár obsahuje najmä
-
-  - a) predpisy súvisiace s kominárskou činnosťou
-
-    - 1. stavebný zákon a jeho vykonávacie predpisy,
-
-    - 2. zákon o ochrane pred požiarmi a jeho vykonávacie predpisy,
-
-    - 3. predpisy o ochrane životného prostredia súvisiace s emisiami vznikajúcimi pri horení látok v palivových spotrebičoch,
-
-    - 4. právne a technické predpisy súvisiace s posudzovaním zhody výrobkov,
-
-  - b) technologické postupy kontroly a čistenia komínov, dymovodov a palivových spotrebičov
-
-    - 1. vykonávanie čistiacich prác komínov a dymovodov pri pripojení jednotlivých druhov palivových spotrebičov,
-
-    - 2. kontrolu komínov a dymovodov z hľadiska bezpečnej, spoľahlivej a efektívnej prevádzky,
-
-  - c) zhotovovanie komínov a dymovodov, ako aj inštalácie palivových spotrebičov
-
-    - 1. vlastnosti materiálov používaných na zhotovovanie komínov a dymovodov,
-
-    - 2. požiadavky na zhotovovanie komínov a dymovodov,
-
-    - 3. umiestňovanie palivových spotrebičov v stavbe a ich pripájanie na komín.
-
-- Odborná príprava na získanie odbornej spôsobilosti revízny technik komínov obsahuje najmä
+- OBSAH ODBORNEJ PRÍPRAVY Odborná príprava na získanie odbornej spôsobilosti revízny technik komínov obsahuje najmä
 
   - a) predpisy súvisiace s činnosťou revízneho technika komínov
 
