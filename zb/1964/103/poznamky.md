@@ -1,3 +1,5 @@
+- *) Ak tehotná družstevníčka vykonáva prácu, ktorá je tehotným ženám zakázaná alebo ktorá podľa lekárskeho posudku ohrozuje jej tehotnosť, je družstvo povinné podľa Zákonníka práce (§ 153 ods. 1 a § 162) previesť ju dočasne na prácu, ktorá je pre ňu vhodná a pri ktorej môže dosahovať rovnaké pracovné odmeny ako na doterajšej práci.
+
 - *) Zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie,dekrét č. 53/1945 Zb. o odčinení krívd československým verejným zamestnancom azákon č. 47/1946 Zb. o odstránení krívd a o niektorých ochranných opatreniach v odbore verejnoprávneho sociálneho poistenia.
 
 - **) Vyhláška č. 102/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
