@@ -10,6 +10,8 @@
 
 - 5) Zákon SNR č. 84/1991 Zb. o daňových orgánoch v znení zákona SNR č. 136/1992 Zb.
 
+- 5b) Zákon Slovenskej národnej rady č. 518/1990 Zb. o prechode zakladateľskej alebo zriaďovateľskej funkcie národných výborov na obce, ústredné orgány štátnej správy a orgány miestnej štátnej správy.
+
 - 6) § 4 zákona SNR č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 7) Napr. zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
@@ -18,10 +20,30 @@
 
 - 9) Napr. zákon č. 172/1990 Zb. o vysokých školách.
 
-- 10) § 16 zákona č. 213/1992 Zb. o spotrebných daniach.
+- 10) § 15 zákona Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína.
 
-- § 42 zákona č. 222/1992 Zb. o dani z pridanej hodnoty.
+- § 15 zákona Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva.
 
-- § 23 zákona SNR č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľnosti.
+- § 16 zákona Národnej rady Slovenskej republiky č. 311/1993 Z. z. o spotrebnej dani z liehu.
 
-- § 62 zákona SNR č. 511/1992 Zb. o správe daní a poplatkov.
+- § 16 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov.
+
+- § 15 zákona Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív.
+
+- § 42 zákona č. 222/1992 Zb. o dani z pridanej hodnoty v znení neskorších predpisov.
+
+- § 23 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností.
+
+- § 35 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
+
+- § 45 a 46 zákona č. 528/1990 Zb. Devízový zákon v znení neskorších predpisov.
+
+- § 251, 255, 271 a 272 zákona č. 618/1992 Zb. Colný zákon v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch.
+
+- Zákon č. 526/1990 Zb. o cenách.
+
+- Zákon č. 563/1991 Zb. o účtovníctve.
+
+- 11) Napr. zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
