@@ -1,0 +1,1 @@
+[Príloha č. 1 zákona č. 123/1985 Zb.](../assets/0326e2f262596351700590fb6a5950d564f90672b81b510f8f36dd4c070bd8e0.pdf)
