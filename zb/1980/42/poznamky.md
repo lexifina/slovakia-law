@@ -1,4 +1,18 @@
-- 13) Napr. vyhláška Federálneho ministerstva zahraničného obchodu a Federálneho ministerstva financií č. 8/1981 Zb. o odberných poukazoch PZO Tuzex a vyhláška Federálneho ministerstva zahraničného obchodu a Federálneho ministerstva financií č. 83/1988 Zb. o podmienkach predaja tovaru a poskytovaní služieb za devízové prostriedky na území Československej socialistickej republiky.
+- 4) § 521 Zákonníka medzinárodného obchodu.
+
+- 5) § 2 písm. a) a b) zákona č. 123/1965 Zb. o Československej tlačovej kancelárii.
+
+- 6) Zákon č. 142/1970 Zb. o devízovom hospodárstve.
+
+- 7) Zákon č. 144/1970 Zb. o Štátnej banke československej.
+
+- 8) Zákon ČNR č. 118/1975 Zb. a zákon SNR č. 133/1975 Zb. o advokácii.
+
+- 9) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
+
+- 10) § 44 ods. 1 písm. b) zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon).
+
+- 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 1) § 14 Hospodárskeho zákonníka.
 
