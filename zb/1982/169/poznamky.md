@@ -1,5 +1,7 @@
 - 1) Zákon č. 161/1982 Zb. o odvodoch do štátneho rozpočtu.
 
+- 1) § 13 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov.
+
 - 2) Zákon č. 164/1982 Zb. o dôchodkovej dani.
 
 - 3) Zákon Slovenskej národnej rady č. 134/1974 Zb. o rozpočtovom určení výnosu a správe poľnohospodárskej ale a o niektorých zmenách zákona č. 143/1961 Zb. o domovej dani.
