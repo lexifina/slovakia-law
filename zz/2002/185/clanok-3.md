@@ -100,6 +100,10 @@ Zákon č. 335/1991 Zb. o súdoch a sudcoch v znení zákona č. 264/1992 Zb., z
 
 - Činnosť súdov sa pri zabezpečovaní riadneho výkonu súdnictva určuje v rozvrhu práce na kalendárny rok, ak tento zákon neustanovuje inak.
 
+- (2)
+
+- Veci sa v súlade s rozvrhom práce prideľujú sudcom náhodným výberom pomocou technických prostriedkov a programových prostriedkov schválených Ministerstvom spravodlivosti Slovenskej republiky (ďalej len „ministerstvo spravodlivosti") tak, aby bola vylúčená možnosť ovplyvňovania pridelenia vecí.
+
 - (3)
 
 - Rozvrh práce obsahuje
@@ -124,9 +128,17 @@ Zákon č. 335/1991 Zb. o súdoch a sudcoch v znení zákona č. 264/1992 Zb., z
 
 - spôsob a podmienky vykonania zmien v rozvrhu práce, ak sa zmení personálne obsadenie súdu, vylúčia sa sudcovia alebo ďalší zamestnanci súdu podľa osobitného predpisu uvedení v rozvrhu práce; zmena v rozvrhu práce z dôvodu výrazného zaťaženia len niektorých sudcov v priebehu kalendárneho roka sa nemôže týkať vecí, v ktorých sa už začalo konanie pred súdom,
 
+- f)
+
+- spôsob prideľovania vecí sudcom v prípade nemožnosti využitia technických prostriedkov a programových prostriedkov,
+
 - g)
 
 - rozvrh služieb určujúci sudcov a spôsob ich zastupovania v prípade nemožnosti prideľovania vecí náhodným výberom.
+
+- (4)
+
+- Nemožnosťou využitia technických prostriedkov a programových prostriedkov podľa odseku 3 písm. f) sa na účely tohto zákona rozumie ich porucha znemožňujúca prístup k dátam potrebným na prideľovanie vecí v trvaní najmenej dvoch pracovných dní.
 
 - (5)
 
