@@ -2,92 +2,20 @@ Príloha
 
 nariadenia vlády Slovenskej republiky č. 166/1994 Z. z.
 
-ZARIADENIE ÚZEMIA DO JEDNOTLIVÝCH KATEGÓRIÍ PODĽA ÚZEMNÝCH OBVODOV OKRESNÝCH ÚRADOV SLOVENSKEJ REPUBLIKY
+ZARADENIE ÚZEMIA DO JEDNOTLIVÝCH KATEGÓRIÍ PODĽA ÚZEMNÝCH OBVODOV OBVODNÝCH ÚRADOV SLOVENSKEJ REPUBLIKY
 
 1. Do kategórie I sa zaraďujú územné obvody
 
-Bratislava I | Košice III
-
-Bratislava II | Košice IV
-
-Bratislava III | Levice
-
-Bratislava IV | Ružomberok
-
-Bratislava V | Trnava
-
-Košice I | Žilina
-
-Košice II |
+Bratislava Košice Levice Trnava Žilina
 
 2. Do kategórie II sa zaraďujú územné obvody
 
-Banská Bystrica | Piešťany
-
-Galanta | Poprad
-
-Hlohovec | Prešov
-
-Humenné | Púchov
-
-Košice-okolie | Senica
-
-Martin | Šaľa
-
-Nitra | Trenčín
-
-Nové Zámky | Zlaté Moravce
+Banská Bystrica Dunajská Streda Galanta Humenné Košice - okolie Martin Michalovce Nitra Nové Mesto nad Váhom Nové Zámky Piešťany Poprad Považská Bystrica Prešov Prievidza Ružomberok Senica Šaľa Trenčín Vranov nad Topľou
 
 3. Do kategórie III sa zaraďujú územné obvody
 
-Čadca | Ilava
+Čadca Dolný Kubín Kežmarok Komárno Liptovský Mikuláš Lučenec Malacky Námestovo Pezlnok Rimavská Sobota Spišská Nová Ves Topoľčany Trebišov Veľký Krtíš Zvolen Žiar nad Hronom
 
-Dolný Kubín | Komárno
+| 4. Do kategórie IV sa zaraďujú územné obvody
 
-Dunajská Streda | Liptovský Mikuláš
-
-Lučenec | Spišská Nová Ves
-
-Malacky | Topoľčany
-
-Michalovce | Trebišov
-
-Nové Mesto nad Váhom | Tvrdošín
-
-Partizánske | Veľký Krtíš
-
-Pezinok | Vranov nad Topľou
-
-Považská Bystrica | Zvolen
-
-Prievidza | Žarnovica
-
-Rimavská Sobota | Žiar nad Hronom
-
-4. Do kategórie IV sa zaraďujú územné obvody
-
-Bánovce nad Bebravou | Námestovo
-
-Banská Štiavnica | Poltár
-
-Bardejov | Revúca
-
-Brezno | Rožňava
-
-Bytča | Sabinov
-
-Detva | Senec
-
-Gelnica | Skalica
-
-Kežmarok | Snina
-
-Krupina | Sobrance
-
-Kysucké Nové Mesto | Stará Ľubovňa
-
-Levoča | Stropkov
-
-Medzilaborce | Svidník
-
-Myjava | Turčianske Teplice
+| Bánovce nad Bebravou Bardejov Brezno Rožňava Senec Stará Ľubovňa Stropkov Svidník Štúrovo
