@@ -182,6 +182,14 @@
 
 - 84) § 138 až 143 a § 145 zákona č. 566/2001 Z. z.
 
+- 84a) § 138 zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
+
+- 84b) § 143b zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
+
+- 84c) § 143a až 143o a § 145 zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
+
+- 84d) § 143b písm. b) zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
+
 - 85) Napríklad § 138 zákona č. 566/2001 Z. z.
 
 - 86) Napríklad Trestný zákon v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov.
