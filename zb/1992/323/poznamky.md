@@ -16,6 +16,10 @@
 
 - 6b) Napríklad § 34 ods. 2 druhá veta zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 80/1998 Z. z., § 16 ods. 1 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
 
+- 6ba) § 151ma Občianskeho zákonníka.
+
+- 6bb) § 151a až 151md Občianskeho zákonníka.
+
 - 6c) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 7) Občiansky súdny poriadok.
