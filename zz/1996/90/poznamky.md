@@ -1,5 +1,7 @@
 - 1) § 83 ods. 3 až 5 Zákonníka práce.
 
+- 1a) § 83 ods. 2 Zákonníka práce.
+
 - 2) § 86 Zákonníka práce.
 
 - 3) Napríklad § 111 ods. 2 Zákonníka práce, § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení zákona Národnej rady Slovenskej republiky č. 52/1996 Z. z., § 3 ods. 2 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch.
