@@ -14,6 +14,10 @@
 
 - 3) Zákon SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
+- 3a) § 21 ods. 2 zákona č. 172/1990 Zb. o vysokých školách.
+
+- 3b) § 21 ods. 1 zákona č. 172/1990 Zb.
+
 - 4) § 8 ods. 3 zákona SNR č. 84/1991 Zb.
 
 - 5) § 68 a 69 Obchodného zákonníka.
