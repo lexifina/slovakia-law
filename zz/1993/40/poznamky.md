@@ -5,3 +5,5 @@
 - 3) § 74 zákona č. 94/1963 Zb. o rodine v znení zákona č. 132/1982 Zb.
 
 - 4) § 7 zákona č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
+
+- 4a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
