@@ -62,7 +62,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 1.5 Palivá
 
-      - Palivo je každá tuhá, kvapalná alebo plynná látka používaná na spaľovanie v zariadeniach na spaľovanie palív okrem odpadov, na ktoré sa vzťahujú ustanovenia časti V. tejto prílohy, najmä fosílne palivá a palivá z nich vyrobené (hnedé a čierne palivové uhlie, lignit, rašelina, koks, brikety, nafta, vykurovacie oleje a ťažké ropné frakcie štandardizovanej kvality spaľované v rafinériách ako vlastná produkcia), biomasa, zemný plyn naftový, skvapalnené uhľovodíkové plyny, bioplyn, prípadne priemyselné plyny osobitne uvedené v bodoch 1.8.2 a 1.8.3.
+      - Palivo je každá tuhá, kvapalná alebo plynná látka používaná na spaľovanie v zariadeniach na spaľovanie palív okrem odpadov, na ktoré sa vzťahujú ustanovenia časti V. tejto prílohy; sú to fosílne palivá a palivá z nich vyrobené (hnedé a čierne palivové uhlie, lignit, rašelina, koks, brikety, nafta, vykurovacie oleje a ťažké ropné frakcie štandardizovanej kvality spaľované v rafinériách ako vlastná produkcia), biomasa, zemný plyn naftový, skvapalnené uhľovodíkové plyny, bioplyn, prípadne priemyselné plyny osobitne uvedené v bodoch 1.8.2 a 1.8.3.
 
       - Za palivo sa do 27. decembra 2005 považujú aj odpadové oleje, ak neobsahujú chlór v množstve väčšom ako 0,5 % hmot. a PCB a PCT v množstve väčšom ako 10 mg.kg<sup>-1.</sup>
 
@@ -78,7 +78,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 1.6.2 Emisné limity pre tuhé znečisťujúce látky.
 
-    - 1.6.2.1 Emisný limit pre zariadenia uvedené v bode 1.2.1 s platnosťou do 31. decembra 2007 a pre zariadenia uvedené v bode 1.2.2 s platnosťou do dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám.
+    - 1.6.2.1 Emisný limit pre zariadenia uvedené v bode 1.2.1 s platnosťou do 31. decembra 2007 a pre zariadenia uvedené v bode 1.2.2 s platnosťou do dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám s výnimkou zariadení s tepelným príkonom 0,3 MW a vyšším do 2,5 MW vrátane, pre ktoré platia emisné limity do 31. decembra 2007.
 
     - Menovitý tepelný príkon | Emisný limit [mg.m<sup>-3</sup>]
 
@@ -90,7 +90,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 0,3 MW a vyšší až do 2,5 MW vrátane | Emisný limit sa neurčuje a neplatia ani všeobecné emisné limity
 
-    - 1.6.2.2 Emisný limit pre zariadenia uvedené v bode 1.2.3, pre zariadenia uvedené v bode 1.2.1 s platnosťou od 1. januára 2008 a pre zariadenia uvedené v bode 1.2.2 s platnosťou odo dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám.
+    - 1.6.2.2 Emisný limit pre zariadenia uvedené v bode 1.2.3, pre zariadenia uvedené v bode 1.2.1 s platnosťou od 1. januára 2008 a pre zariadenia uvedené v bode 1.2.2 s platnosťou odo dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám s výnimkou zariadení s tepelným príkonom 0,3 MW a vyšším do 2,5 MW vrátane, pre ktoré platia emisné limity od 1. januára 2008.
 
     - Menovitý tepelný príkon | Emisný limit [mg.m<sup>-3</sup>]
 
@@ -118,9 +118,9 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 0,3 MW a vyšší až do 2,5 MW vrátane | 250
 
-    - 1.6.3 Emisný limit pre oxidy síry vyjadrené ako oxid siričitý.
+    - 1.6.3 Emisný limit pre oxid siričitý.
 
-    - 1.6.3.1 Emisný limit pre zariadenia uvedené v bode 1.2.1 s platnosťou do 31. decembra 2007 a pre zariadenia uvedené v bode 1.2.2 s platnosťou do dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám.
+    - 1.6.3.1 Emisný limit pre zariadenia uvedené v bode 1.2.1 s platnosťou do 31. decembra 2007 a pre zariadenia uvedené v bode 1.2.2 s platnosťou do dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám s výnimkou zariadení s tepelným príkonom 0,3 MW a vyšším do 7 MW vrátane, pre ktoré platia emisné limity do 31. decembra 2007.
 
     - Menovitý tepelný príkon | Emisný limit [mg.m<sup>-3</sup>]
 
@@ -136,11 +136,11 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - <sup>1</sup>) Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, nesmie byť stupeň odsírenia nižší ako 85 %.
 
-    - <sup>2</sup>) Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť stupeň odsírenia nižší ako 40 %. V takom prípade koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
+    - <sup>2</sup>) Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť stupeň odsírenia nižší ako 40 %. V takom prípade koncentrácia oxidu siričitého v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
     - <sup>3</sup>) Ak pre vysoký obsah síry v domácom palive nemožno túto hodnotu dosiahnuť, nesmie byť stupeň odsírenia nižší ako 85 %.
 
-    - 1.6.3.2 Emisný limit pre zariadenia uvedené v bode 1.2.3, pre zariadenia uvedené v bode 1.2.1 s platnosťou od 1. januára 2008 a pre zariadenia uvedené v bode 1.2.2 s platnosťou odo dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám.
+    - 1.6.3.2 Emisný limit pre zariadenia uvedené v bode 1.2.3, pre zariadenia uvedené v bode 1.2.1 s platnosťou od 1. januára 2008 a pre zariadenia uvedené v bode 1.2.2 s platnosťou odo dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám s výnimkou zariadení s tepelným príkonom 0,3 MW a vyšším do 50 MW, pre ktoré platia emisné limity od 1. januára 2008.
 
     - Menovitý tepelný príkon | Emisný limit [mg.m<sup>-3</sup>]
 
@@ -154,7 +154,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 0,3 MW a vyšší až do 50 MW | 2 500 pri hmotnostnom toku vyššom ako 10 kg.h<sup>-1</sup>
 
-    - <sup>1</sup>) Emisný limit sa vypočíta podľa vzťahu EL = 2 400 - 4 × MTP, kde EL je emisný limit a MTP je menovitý tepelný príkon.
+    - <sup>1</sup>) Emisný limit sa vypočíta podľa vzťahu EL = 2 400 - 4 × MTP, kde EL je emisný limit a MTP je menovitý tepelný príkon. Pre všetky zariadenia pri spaľovaní biomasy platí emisný limit 200 mg.m<sup>-3</sup> od 1. januára 2008.
 
       - Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť určené koncentračné emisné limity pre zariadenia s tepelným príkonom 50 MW a vyšším, a pri fluidných zariadeniach s cirkulujúcou alebo pretlakovou fluidnou vrstvou s príkonom vyšším ako 2,5 MW, nesmie byť s platnosťou do 31.12. 2007 stupeň odsírenia nižší, ako je uvedené v tabuľke:
 
@@ -174,7 +174,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - Fluidné spaľovacie zariadenia s cirkulujúcou alebo pretlakovou fluidnou vrstvou s príkonom vyšším ako 2,5 MW | 85
 
-      - Ak sa uplatní stupeň odsírenia, koncentrácia oxidov síry v spalinách vyjadrená ako oxid siričitý nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3.</sup>
+      - Ak sa uplatní stupeň odsírenia, koncentrácia oxidu siričitého v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
       - S platnosťou od 1. januára 2008, ak vzhľadom na vlastnosti paliva nemožno dosiahnuť určený emisný limit, nesmie byť stupeň odsírenia nižší, ako je uvedené v tejto tabuľke:
 
@@ -258,7 +258,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 1.6.5 Emisný limit pre oxid uhoľnatý
 
-    - 1.6.5.1 Emisný limit pre zariadenia uvedené v bodoch 1.2.3 a 1.2.4
+    - 1.6.5.1 Emisný limit pre zariadenia uvedené v bodoch 1.2.3 a 1.2.4 a s platnosťou od 1. januára 2008 pre zariadenia uvedené v bodoch 1.2.1 a 1.2.2
 
     - Menovitý tepelný príkon | Emisný limit [mg.m<sup>-3</sup>]
 
@@ -286,7 +286,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - Vyšší ako 7 MW | 50
 
-    - 1.6.6.2 Emisný limit pre zariadenia uvedené v bodoch 1.2.3 a1.2.4
+    - 1.6.6.2 Emisný limit pre zariadenia uvedené v bodoch 1.2.3 a 1.2.4 a s platnosťou od 1. januára 2008 pre zariadenia uvedené v bodoch 1.2.1 a 1.2.2
 
     - Menovitý tepelný príkon | Emisný limit [mg.m<sup>-3</sup>]
 
@@ -330,7 +330,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - <sup>1</sup>) Ak sa emisné limity pre tuhé znečisťujúce látky dosahujú bez odlučovania, všeobecné emisné limity pre druhú skupinu znečisťujúcich látok (príloha č. 3 časť II bod 2) sa neuplatňujú.
 
-    - 1.7.3 Emisné limity pre oxidy síry vyjadrené ako oxid siričitý
+    - 1.7.3 Emisné limity pre oxid siričitý
 
     - 1.7.3.1 Emisný limit pre zariadenia uvedené v bode 1.2.1 s platnosťou do 31. decembra 2007 a pre zariadenia uvedené v bode 1.2.2 s platnosťou emisného limitu do dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii a Európskym spoločenstvám
 
@@ -404,7 +404,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 0,3 MW a vyšší až do 7 MW vrátane | 500
 
-    - 1.7.5 Emisný limit pre oxid uhoľnatý
+    - 1.7.5 Emisný limit pre oxid uhoľnatý pre zariadenia uvedené v bodoch 1.2.1 až 1.2.4
 
     - Menovitý tepelný príkon | Emisný limit [mg.m<sup>-3</sup>]
 
@@ -452,7 +452,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 0,3 MW a vyšší - spaľovanie ostatných využiteľných plynov z výroby ocele | 30
 
-    - 1.8.3 Emisný limit pre oxidy síry vyjadrené ako oxid siričitý
+    - 1.8.3 Emisný limit pre oxid siričitý
 
     - 1.8.3.1 Emisný limit pre zariadenia uvedené v bodoch 1.2.1, 1.2.2 a 1.2.3
 
@@ -510,23 +510,11 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 50 MW a vyšší - ostatné plyny | 200
 
-    - 1.8.5 Emisný limit pre oxid uhoľnatý
+    - 1.8.5 Emisný limit pre oxid uhoľnatý pre zariadenia uvedené v bodoch 1.2.1 až 1.2.4
 
     - Menovitý tepelný príkon - palivo | Emisný limit [mg.m<sup>-3</sup>]
 
     - 0,3 MW a vyšší | 100
-
-    - 1.8.6 Technické požiadavky na jednotlivé kotly s tepelným príkonom menej ako 0,3 MW
-
-    - Znečisťujúce látka | Prípustná medzná koncentrácia [mg.m<sup>-3</sup>]
-
-    - Oxidy dusíka vyjadrené ako NO<sub>2</sub> | 200
-
-    - Oxid uhoľnatý | 100
-
-      - Poznámka: Uvedená medzná koncentrácia pre oxidy dusíka platí pre spaľovanie palív druhej triedy - zemný plyn. Pri zariadeniach prevádzkovaných palivami tretej triedy s obsahom butánu sa medzná hodnota oxidov dusíka vynásobí súčiniteľom 1,3 a pri zariadeniach prevádzkovaných len propánom sa medzná hodnota vynásobí súčiniteľom 1,20.
-
-      - Technické požiadavky sa preukazujú v rámci posudzovania zhody podľa osobitného predpisu.<sup>1</sup>)
 
     - 1.9 Viacpalivové zariadenia na spaľovanie palív
 
@@ -610,9 +598,11 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 1.10.5 Okresný úrad môže na obmedzený čas, najviac však na 10 dní, povoliť vyššie emisie oxidov síry, ako sú určené emisné limity pre zariadenia, ktoré za normálnych podmienok spaľujú len plynné palivo a z dôvodov náhleho výpadku dodávky paliva by sa na zabezpečenie prednostnej dodávky energie muselo spaľovať iné palivo, ktoré by si na zabezpečenie emisného limitu vyžadovalo odsírenie.
 
-    - 1.11 Platnosť emisných limitov pri rozširovaní kapacity zariadenia
+    - 1.10.6 Pre zariadenia na spaľovanie palív s menovitým tepelným príkonom do 50 MW, ktoré sú podľa dokumentácie používané na núdzovú a inú obdobnú prevádzku, ktorá má trvanie najviac 240 hodín ročne, sa emisné limity neuplatňujú. Emisie z takýchto zariadení majú zodpovedať požiadavkám podľa technických noriem a iných obdobných špecifikácií, ktoré sa na príslušné zariadenia vzťahujú.
 
-      - Ak sa kapacita zariadenia na spaľovanie palív rozšíri o menovitý príkon 50 MW a viac, platí emisný limit pre novú časť podľa tepelného príkonu celého zariadenia. Uvedené neplatí pre prípady uvedené v bode 1.9.4.
+    - 1.11 Platnosť emisných limitov pri rozširovaní kapacity a pri zmenách
+
+      - Ak sa kapacita zriadenia na spaľovanie palív rozšíri o menovitý príkon 50 MW a viac, pre novú časť sa uplatňuje emisný limit pre zariadenia uvedené v bode v 1.2.4 podľa tepelného príkonu celého zariadenia; to sa nevzťahuje na prípady uvedené v bode 1.9.4. Ak sa na zariadení na spaľovanie palív vykoná podstatná zmena podľa osobitného predpisu,<sup>2</sup>) uplatňujú sa emisné limity pre zariadenia uvedené v bode 1.2.4.
 
     - 1.12 Kombinovaná výroba tepla a elektriny
 
@@ -642,7 +632,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 2.2 Podmienky platnosti emisných limitov
 
-      - Emisné limity určené ako koncentrácie znečisťujúcich látok v odpadových plynoch platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka 15 % obj. Emisné limity platia pre jednotlivé turbíny pri základnom zaťažení vyššom ako 70 %.
+      - Emisné limity určené ako koncentrácie znečisťujúcich látok v odpadových plynoch platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka 15 % obj. Emisné limity platia pre jednotlivé turbíny pri základnom zaťažení vyššom ako 70 %. Pre plynové turbíny používané na núdzovú prevádzku, ktorá má trvanie menej ako 500 hodín ročne, sa emisné limity neuplatňujú.
 
     - 2.3 Emisný limit pre znečisťujúce látky
 
@@ -674,7 +664,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - Zemný plyn | 50<sup>1</sup>)
 
-    - Kvapalné palivá<sup>2</sup>) | 150
+    - Kvapalné palivá<sup>2</sup>) | 120
 
     - Iné plynné palivá ako zemný plyn | 120
 
@@ -720,15 +710,19 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
       - V prípade zaradenia spalinového kotla za plynovú turbínu platia emisné limity a podmienky ich platnosti ako pre plynové turbíny.
 
-    - 3. ZARIADENIA NA SUŠENIE ALEBO NA INÉ TEPELNÉ ÚPRAVY, PRI KTORÝCH DOCHÁDZA K PRIAMEMU STYKU SPALÍN ALEBO PLAMEŇA S OHRIEVANÝM MÉDIOM
+    - 3. ZARIADENIA NA SUŠENIE ALEBO INÉ TEPELNÉ UPRAVY, PRI KTORÝCH DOCHÁDZA K PRIAMEMU STYKU SPALÍN ALEBO PLAMEŇA S OHRIEVANÝM MÉDIOM
 
-    - 3.1. Všeobecné podmienky prevádzkovania pre nové zdroje
+    - 3.1 Všeobecné podmienky prevádzkovania pre nové zdroje
 
-      - V zariadeniach na sušenie alebo na iné tepelné úpravy možno spaľovať len plynné palivá, skvapalnené uhľovodíkové plyny, kvapalné palivá s obsahom síry najviac 0,2 % hmot. alebo tuhé palivá s mernou sírnatosťou najviac 0,5 g.MJ<sup>-1.</sup>
+      - V zariadeniach na sušenie alebo na iné tepelné úpravy možno spaľovať len plynné palivá, skvapalnené uhľovodíkové plyny, kvapalné palivá s obsahom síry najviac 1 % hmotnosti alebo tuhé palivá s mernou sírnatosťou najviac 0,5 g.MJ<sup>-1</sup>.
 
     - 3.2 Emisné limity
 
-      - V zariadeniach na sušenie alebo na iné tepelné úpravy platia také emisné limity pre znečisťujúce látky, ktorých emisia závisí len od paliva a spôsobu spaľovania, aké platia pre ostatné zariadenia na spaľovanie palív podľa druhu spaľovaného paliva pri referenčnom obsahu kyslíka 17 %.
+      - Ak ide o zariadenie na sušenie alebo iné tepelné úpravy, uplatňujú sa emisné limity pre znečisťujúce látky, ktorých emisia závisí len od paliva a od spôsobu jeho spaľovania, ktoré platia pre príslušné zariadenie na spaľovanie palív podľa menovitého tepelného príkonu zariadenia a druhu paliva pri referenčnom obsahu kyslíka 17 % objemu.
+
+    - 3.3 Platnosť všeobecných podmienok prevádzkovania a emisných limitov
+
+      - Všeobecné podmienky prevádzkovania podľa bodu 3.1 a emisné limity podľa bodu 3.2 platia pre všetky kategórie zdrojov, ak táto príloha neustanovuje inak.
 
     - 4. STACIONÁRNE PIESTOVÉ SPAĽOVACIE MOTORY - NOVÉ ZDROJE
 
@@ -1120,7 +1114,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - | Tuhé znečisťujúce látky | Oxidy dusíka vyjadrené ako NO<sub>2</sub>
 
-    - Všetky operácie | 50<sup>1</sup>) |
+    - Všetky operácie okrem hydrátora vápna | 50<sup>1</sup>) |
 
     - Nové zdroje | |
 
@@ -1138,49 +1132,67 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 3.1 Podmienky platnosti emisného limitu pre nové zdroje
 
-    - 3.2 Emisné limity platia prepočítané na koncentrácie pre obsah kyslíka v spalinách 17 % obj.
+      - Emisné limity platia prepočítané na koncentrácie pre obsah kyslíka v spalinách 17 % objemu.
 
-    - 3.2 Emisný limit pre tuhé znečisťujúce látky
+    - 3.2 Emisný limit pre nové zdroje
 
-    - 3.2.1 Emisný limit pre nové zdroje
+    - 3.2.1 Koncentrácia emisií tuhých znečisťujúcich látok nesmie pri všetkých operáciách prekročiť hodnotu 30 mg.m<sup>-3</sup>.
 
-      - Koncentrácia emisií tuhých znečisťujúcich látok nesmie pri všetkých operáciách prekročiť hodnotu 30 mg.m<sup>-3.</sup>
+    - 3.2.2 Koncentrácia emisií oxidu uhoľnatého nesmie pri všetkých operáciách prekročiť hodnotu 500 mg.m<sup>-3</sup>.
 
-    - 3.2.2 Emisný limit pre jestvujúce zdroje
+    - 3.2.3 Koncentrácia emisií organických plynov a pár vyjadrených ako celkový organický uhlík nesmie pri všetkých operáciách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-      - Koncentrácia emisií tuhých znečisťujúcich látok nesmie pri všetkých operáciách prekročiť hodnotu 50 mg.m<sup>-3.</sup>
+    - 3.3 Emisný limit pre jestvujúce zdroje
 
-    - 3.3 Všeobecné podmienky prevádzkovania - obmedzenie obsahu síry v palive pre nové zdroje znečisťovania
+    - 3.3.1 Koncentrácia emisií tuhých znečisťujúcich látok nesmie pri všetkých operáciách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-      - Pri výrobe bitúmenových zmesí sa nesmie používať kvapalné palivo s obsahom síry vyšším ako 1 % alebo tuhé palivo s merným obsahom síry vyšším ako 0,5 g.MJ<sup>-1.</sup>
+    - 3.3.2 Emisný limit pre oxid uhoľnatý a organické plyny a pary vyjadrené ako celkový organický uhlík sa pre zdroje povolené do 31. decembra 2003 neuplatňuje.
+
+    - 3.4 Všeobecné podmienky prevádzkovania – obmedzenie obsahu síry v palive pre nové zdroje
+
+      - Pri výrobe bitúmenových zmesí sa nesmie používať kvapalné palivo s obsahom síry vyšším ako 1% alebo tuhé palivo s merným obsahom síry vyšším ako 0,5 g.MJ<sup>-1</sup>.
 
     - 4. VÝROBA MAGNEZITU
 
     - 4.1 Podmienky platnosti emisných limitov pre nové zdroje
 
-      - Emisné limity pre znečisťujúce látky v odpadových plynoch z rotačných vypaľovacích pecí platia pre koncentrácie prepočítané na obsah kyslíka 11 % obj.
+      - Emisné limity pre znečisťujúce látky v odpadových plynoch z rotačných vypaľovacích pecí platia pre koncentrácie prepočítané na obsah kyslíka 11 % objemu.
 
     - 4.2 Emisný limit pre jednotlivé znečisťujúce látky
 
     - Technologické uzly | Emisný limit [mg.m<sup>-3</sup>] | |
 
-    - | Tuhé znečisťujúce látky | Oxidy síry vyjadrené ako oxid siričitý | Oxidy dusíka vyjadrené ako NO<sub>2</sub>
+    - | Tuhé znečis- ťujúce látky | Oxidy síry vyjadrené ako SO<sub>2</sub> | Oxidy dusíka vyjadre- né ako NO<sub>2</sub>
 
-    - Všetky operácie | 50<sup>1</sup>) | |
+    - Všetky operácie a všetky suroviny | 50<sup>1</sup>) | |
 
-    - Výpal slinku | | 400 |
+    - Výpal slinku z vyťažených (primárnych) magnezitových surovín | | 400 |
 
     - Nové zdroje | | |
 
-    - - vypaľovacie pece | | | 1 500
+    - - všetky typy pecí | | | 1 500
 
     - Jestvujúce zdroje | | |
 
-    - - rotačné pece | | | 1 800
+    - - rotačné pece - ostatné pece | | | 1 800 1 500
 
-    - - ostatné pece | | | 1 500
+    - Výpal slinku z tuhých prachových a briketovaných odpadov z čistenia odpadových plynov | | Emisný limit sa neurčuje<sup>2</sup>) |
+
+    - Nové zdroje - všetky typy pecí | | | 1 500
+
+    - Jestvujúce zdroje | | |
+
+    - - rotačné pece | | | 2 500
+
+    - - ostatné typy pecí | | | 1 500
 
     - <sup>1</sup>) Celkové emisie tuhých znečisťujúcich látok pre nové zdroje nesmú prekročiť hodnotu 1,5 kg na tonu vypáleného magnezitu v mesačnom priemere.
+
+    - <sup>2</sup> ) Pri vypaľovaní slinku z tuhých prachových a briketovaných odpadov z čistenia odpadových plynov sa môžu použiť kvapalné palivá s obsahom síry najviac 1 % hmotnosti.
+
+    - 4.3 Platnosť emisného limitu pre jestvujúce zdroje
+
+      - Emisný limit pre oxidy dusíka vyjadrené ako NO<sub>2</sub> pre rotačné pece pri výpale slinku z tuhých prachových a briketovaných odpadov z čistenia odpadových plynov určený pre nové zdroje platí pre jestvujúce zdroje od 1. januára 2009.
 
     - 5. VÝROBA SKLA A SKLÁRSKYCH VÝROBKOV A SKLENENÝCH VLÁKEN
 
@@ -1894,6 +1906,8 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
       - 3. Pre spaľovne odpadov s kapacitou menej ako 6 t.h<sup>-1</sup> platí uvedený emisný limit pre oxidy dusíka aj od 27. decembra 2005.
 
+      - 4. Emisné limity pre ďalšie znečisťujúce látky, ktoré sú uvedené v prílohe č. 1, sa neurčujú a neuplatňujú sa ani všeobecné emisné limity, ktoré sú uvedené v prílohe č. 3.
+
     - 4.1.2 Emisné limity pre spaľovne nebezpečných odpadov
 
     - Znečisťujúca látka - kapacita | 3 t.h<sup>-1</sup> a menej | Viac ako 3 t.h<sup>-1</sup>
@@ -1929,6 +1943,8 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
       - 2. Ak nemožno dosiahnuť uvedený emisný limit pre SO<sup>2</sup> bez odsírenia (napr. pri spaľovaní nebezpečných odpadov s vysokým obsahom síry), emisný stupeň oxidov síry nesmie prekročiť hodnotu 10 %.
 
       - 3. Pre spaľovne odpadov s kapacitou menej ako 6 t.h<sup>-1</sup> platí emisný limit pre oxidy dusíka 400 mg.m<sup>-3</sup> aj od 27. decembra 2005.
+
+      - 4. Emisné limity pre ďalšie znečisťujúce látky, ktoré sú uvedené v prílohe č. 1, sa neurčujú a neuplatňujú sa ani všeobecné emisné limity, ktoré sú uvedené v prílohe č. 3.
 
     - 4.1.3 Platnosť emisných limitov od 28. decembra 2005
 
@@ -2028,6 +2044,10 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - Okresný úrad môže určiť pre spaľovne odpadov na princípe fluidného lôžka iné emisné hodnoty CO, nie však vyššie ako 100 mg.m<sup>-3</sup> ako hodinový priemer.
 
+    - 4.2.6 Emisné limity pre ďalšie znečisťujúce látky
+
+      - Emisné limity pre ďalšie znečisťujúce látky, ktoré sú uvedené v prílohe č. 1, sa neurčujú a neuplatňujú sa ani všeobecné emisné limity, ktoré sú uvedené v prílohe č. 3.
+
     - 5. EMISNÉ LIMITY PRE ZARIADENIA NA SPOLUSPAĽOVANIE ODPADOV
 
     - 5.1 Emisné limity pre zariadenia na spoluspaľovanie odpadov uvedené do prevádzky do 31. decembra 2001, ktoré začnú spoluspaľovanie do 29. decembra 2004, platné do 27. decembra 2005
@@ -2124,7 +2144,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 5.3.3 Osobitné podmienky na spoluspaľovanie odpadov v zariadeniach na spaľovanie palív
 
-      - Spoluspaľovať odpady možno len v zariadeniach na spaľovanie palív s tepelným príkonom 5 MW a viac.
+      - Spoluspaľovať odpady možno len v kotloch na spaľovanie palív s tepelným príkonom 5 MW a viac. Podľa druhu, zloženia a množstva odpadu, ak nehrozí riziko ohrozenia životného prostredia, možno spoluspaľovanie povoliť aj v kotli s tepelným príkonom od 0,3 MW do 5 MW.
 
       - Emisné limity platia ako denné priemery pri štandardných podmienkach: teplota 273 K, tlak 101,325 kPa, suchý plyn. Polhodinové priemery sú potrebné len na výpočet denných priemerov. Emisné limity sú členené podľa tepelného príkonu v MW.
 
@@ -2206,7 +2226,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
       - C v ng.m<sup>-3.</sup> Všetky priemerné hodnoty počas odberu vzorky v trvaní min. 6 hodín a max. 8 hodín.
 
-    - Znečisťujúca látka | C[mg.m<sup>-3</sup>]
+    - Znečisťujúca látka | C[ng.m<sup>-3</sup>]
 
     - Dioxíny a furány | 0,1
 
@@ -2302,142 +2322,64 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
       - b) pri brúsení vo výrobe dýh, preglejok, dosiek a nábytku nesmie koncentrácia tuhých znečisťujúcich látok prekročiť hodnotu 10 mg.m<sup>-3.</sup>
 
-    - 1.2 Povrchové úpravy nanášaním látok obsahujúcich organické rozpúšťadlá
+    - 2. VÝROBA A RAFINÁCIA CUKRU
 
-      - Platia emisné limity a všeobecné podmienky prevádzkovania podľa časti VI bodu 2.2 (ostatné zariadenia na lakovanie).
+    - 2.1 Emisný limit pre tuhé znečisťujúce látky
 
-    - 2. LAKOVNE
-
-    - 2.1 Sériové (strojové) lakovanie automobilových karosérií a iných obdobných predmetov s výnimkou autobusov a nadstavieb nákladných automobilov
-
-    - 2.1.1 Všeobecné podmienky prevádzkovania pre nové zdroje
-
-      - V zariadeniach na sériové lakovanie je potrebné vykonať dostupné opatrenia s prihliadnutím na vynaložené náklady na obmedzovanie emisií, ako napr. používanie lakovacích systémov s nízkym alebo so žiadnym obsahom organických riedidiel, nanášanie lakovacích vrstiev s vysokou účinnosťou, odsávaním a čistením odpadových plynov.
-
-    - 2.1.2 Emisný limit pre tuhé znečisťujúce látky
-
-      - Koncentrácia tuhých znečisťujúcich látok (čiastočky laku) v odpadových plynoch nesmie prekročiť hodnotu 3 mg.m<sup>-3.</sup>
-
-    - 2.1.3 Emisný limit pre organické zlúčeniny z celého zariadenia
-
-      - Emisie organických riedidiel v odpadových plynoch z celého zariadenia vrátane konzervácie nesmú prekročiť hodnotu v mesačnom priemere pri
-
-      - a) jednofarebnom lakovaní 60 g.m<sup>-2</sup> lakovanej plochy,
-
-      - b) metalizačnom a viacfarebnom lakovaní 120 g.m<sup>-2</sup> lakovanej plochy.
-
-    - 2.1.4 Emisný limit organických zlúčenín pre striekacie kabíny (striekacie zóny)
-
-      - Pre odpadové plyny zo striekacích kabín neplatia všeobecné emisné limity podľa prílohy č. 3 časti II bodov 4.2 a 4.3.
-
-    - 2.1.5 Emisný limit organických zlúčenín pre sušenie
-
-      - Emisie prchavých organických látok vyjadrené ako celkový organický uhlík v odpadových plynoch zo sušiarne nesmú prekročiť hodnotu 50 mg.m<sup>-3.</sup> Ak sa odpadové plyny privádzajú na dodatočné spaľovanie, určí okresný úrad podmienky spaľovania, ako napr. koncentráciu oxidu uhoľnatého, teplotu spaľovania a potrebnú zádrž.
-
-    - 2.2 Ostatné zariadenia na lakovanie
-
-    - 2.2.1 Všeobecné podmienky prevádzkovania pre nové zdroje
-
-      - V zariadeniach na lakovanie treba vykonať dostupné opatrenia s prihliadnutím na vynaložené náklady, na obmedzovanie emisií, ako napr. používanie lakovacích systémov s nízkym alebo so žiadnym obsahom organických riedidiel, nanášanie lakovacích vrstiev s vysokou účinnosťou alebo čistenie odpadových plynov s cieľom dosiahnuť úroveň emisných limitov podľa prílohy č. 3 časti II bodov 4.2 a 4.3.
-
-    - 2.2.2 Emisný limit pre tuhé znečisťujúce látky
-
-      - Koncentrácia tuhých znečisťujúcich látok (čiastočky laku) v odpadovom plyne nesmie prekročiť hodnotu 3 mg.m<sup>-3.</sup>
-
-      - Pri práškovom lakovaní nesmie koncentrácia tuhých znečisťujúcich látok prekročiť hodnotu 15 mg.m<sup>-3.</sup>
-
-    - 2.2.3 Emisný limit organických zlúčenín pre striekacie kabíny (striekacie zóny)
-
-      - Pre odpadové plyny zo striekacích kabín neplatia všeobecné emisné limity podľa prílohy č. 3 časti II bodov 4.2 a 4.3.
-
-    - 2.2.4 Emisný limit organických zlúčenín pre sušenie
-
-      - Emisie prchavých organických látok vyjadrené ako celkový organický uhlík v odpadových plynoch zo sušiarne nesmú prekročiť hodnotu 50 mg.m<sup>-3.</sup> Ak sa odpadové plyny privádzajú na dodatočné spaľovanie, určí okresný úrad podmienky spaľovania, ako napr. koncentráciu oxidu uhoľnatého, teplotu spaľovania a potrebnú zádrž.
-
-    - 2.2.5 Pri použití bezrozpúšťadlových (práškovacích) alebo nízkorozpúšťadlových lakovacích systémov limity organických látok a podmienky prevádzkovania určí okresný úrad s prihliadnutím na hmotnostný tok emitovaných prchavých organických látok.
-
-    - 3. ZARIADENIA NA ČISTENIE TEXTÍLIÍ
-
-    - 3.1 Všeobecné podmienky prevádzkovania pre nové zdroje
-
-      - V prevádzkach na čistenie textílií pomocou chlórovaných uhľovodíkov sa musia koncentrované pary uhľovodíkov z čistiacich strojov zachytávať.
-
-    - 3.2 Emisný limit pre organické zlúčeniny
-
-    - 3.2.1 Čistenie pomocou chlórovaných uhľovodíkov
-
-      - V prevádzkach na čistenie textílií pomocou chlórovaných uhľovodíkov koncentrácia pár rozpúšťadla v plynoch odsávaných zo sušiarní a z pracovného prostredia nesmie prekročiť pri hmotnosti jednej dávky textílií
-
-      - a) do 30 kg 150 mg.m<sup>-3,</sup>
-
-      - b) 30 kg a viac 100 mg.m<sup>-3.</sup>
-
-      - Celkový emisný faktor nesmie prekročiť hodnotu 30 g rozpúšťadla na 1 kg čistených textílií v mesačnom priemere.
-
-    - 3.2.2 Čistenie pomocou technického benzínu
-
-      - V prevádzkach na čistenie textílií pomocou technického benzínu 150/200 nesmie prekročiť koncentrácia benzínu v odpadovom plyne hodnotu 6 000 mg.m<sup>-3.</sup>
-
-      - Celkový emisný faktor nesmie prekročiť hodnotu 150 g na 1 kg čistených textílií v mesačnom priemere.
-
-    - 4. ODMASŤOVANIE KOVOVÝCH SÚČIASTOK
-
-    - 4.1 Všeobecné podmienky prevádzkovania pre nové zdroje
-
-      - Pri zariadeniach na odmasťovanie kovových súčiastok pomocou chlórovaných uhľovodíkov treba podľa technických možností s prihliadnutím na primeranosť výdavkov pary rozpúšťadiel odsávať a zneškodňovať.
-
-    - 4.2 Emisný limit pre organické zlúčeniny
-
-      - V plynoch zo strojov na odmasťovanie kovových súčiastok pomocou chlórovaných uhľovodíkov koncentrácia pár rozpúšťadla nesmie prekročiť pri hmotnostnom toku 0,5 kg.h<sup>-1</sup> a vyššom hodnotu 100 mg.m<sup>-3.</sup>
-
-    - 5. VÝROBA A RAFINÁCIA CUKRU
-
-    - 5.1 Emisný limit pre tuhé znečisťujúce látky
-
-    - 5.1.1 Emisný limit pre nové zdroje
+    - 2.1.1 Emisný limit pre nové zdroje
 
       - Koncentrácia tuhých znečisťujúcich látok v odpadových plynoch nesmie prekročiť hodnotu 75 mg.m<sup>-3</sup> počítanú vo vlhkom plyne.
 
-    - 5.1.2 Emisný limit pre jestvujúce zdroje znečisťovania
+    - 2.1.2 Emisný limit pre jestvujúce zdroje znečisťovania
 
       - Platí všeobecný emisný limit pre jestvujúce zdroje.
 
-    - 6. SUŠIARNE ZELENÝCH KRMÍV
+    - 3. SUŠIARNE ZELENÝCH KRMÍV
 
-    - 6.1 Emisný limit pre tuhé znečisťujúce látky
+    - 3.1 Emisný limit pre tuhé znečisťujúce látky
 
-    - 6.1.1 Emisný limit pre nové zdroje
+    - 3.1.1 Emisný limit pre nové zdroje
 
       - Koncentrácia tuhých znečisťujúcich látok v odpadových plynoch nesmie prekročiť hodnotu 150 mg.m<sup>-3</sup> počítanú vo vlhkom plyne.
 
-    - 6.1.2 Emisný limit pre jestvujúce zdroje znečisťovania
+    - 3.1.2 Emisný limit pre jestvujúce zdroje znečisťovania
 
       - Platí všeobecný emisný limit pre jestvujúce zdroje.
 
-    - 6.2 Všeobecné podmienky prevádzkovania - obmedzenie obsahu síry v palive pre nové zdroje
+    - 3.2 Emisný limit pre ostatné znečisťujúce látky
 
-      - V zariadeniach na sušenie možno spaľovať len zemný plyn naftový, kvapalné palivá s obsahom síry najviac 0,2 % hmot. a tuhé palivá s merným obsahom síry najviac 0,5 g S.MJ<sup>-1.</sup>
+    - 3.2.1 Emisný limit pre nové zdroje
 
-    - 7. ZARIADENIA NA ÚDENIE MÄSA A RÝB
+      - Pre ostatné znečisťujúce látky okrem oxidu uhoľnatého platia emisné limity podľa I. časti bodu 3.2 tejto prílohy. Emisný limit pre oxid uhoľnatý sa určí osobitne podľa § 33 ods. 3 písm. l) zákona.
 
-    - 7.1 Všeobecné podmienky prevádzkovania
+    - 3.2.2 Emisný limit pre jestvujúce zdroje znečisťovania
+
+      - Platí všeobecný emisný limit pre jestvujúce zdroje.
+
+    - 3.3 Všeobecné podmienky prevádzkovania pre nové zdroje-obmedzenie obsahu síry v palive pre nové zdroje
+
+      - V zariadeniach na sušenie možno spaľovať len zemný plyn naftový, skvapalnené uhľovodíkové plyny, kvapalné palivá s obsahom síry najviac 1 % hmotnosti alebo tuhé palivá s mernou sírnatosťou najviac 0,5 g.MJ<sup>-1</sup>.
+
+    - 4. ZARIADENIA NA ÚDENIE MÄSA A RÝB
+
+    - 4.1 Všeobecné podmienky prevádzkovania
 
       - Na obmedzenie emisií zapáchajúcich látok treba odpadové plyny z procesu údenia zachytávať a odvádzať na čistenie alebo realizovať iné rovnocenné opatrenia.
 
-    - 7.2 Platnosť všeobecných podmienok prevádzkovania
+    - 4.2 Platnosť všeobecných podmienok prevádzkovania
 
       - Všeobecné podmienky prevádzkovania platia pre veľké zdroje a stredné zdroje, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby od 1. januára 2003. Pre zdroje, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do 31. decembra 2002, platia všeobecné podmienky prevádzkovania od 1. januára 2006
 
-    - 8. ZARIADENIA NA PRAŽENIE A BALENIE KÁVY A KÁVOVÍN
+    - 5. ZARIADENIA NA PRAŽENIE A BALENIE KÁVY A KÁVOVÍN
 
-    - 8.1 Všeobecné podmienky prevádzkovania
+    - 5.1 Všeobecné podmienky prevádzkovania
 
       - Technologické zariadenia vrátane skladovania materiálov, pri ktorých môžu vznikať zapáchajúce látky, je potrebné umiestniť do uzavretých priestorov. Zapáchajúce odpadové plyny treba zachytávať a odvádzať na čistenie alebo realizovať iné rovnocenné opatrenia.
 
-    - 8.2 Emisné limity pri zneškodňovaní zapáchajúcich látok v odpadových plynoch spaľovaním
+    - 5.2 Emisné limity pri zneškodňovaní zapáchajúcich látok v odpadových plynoch spaľovaním
 
       - Pri spaľovaní odpadových plynov nesmie koncentrácia plynných organických látok vyjadrených ako celkový organický uhlík prekročiť hodnotu 50 mg.m<sup>-3.</sup> Okresný úrad určí podmienky spaľovania, najmä teplotu spaľovania, potrebnú zádrž.
 
-    - 8.3 Platnosť všeobecných podmienok prevádzkovania a emisných limitov
+    - 5.3 Platnosť všeobecných podmienok prevádzkovania a emisných limitov
 
       - Všeobecné podmienky prevádzkovania a emisné limity platia pre zdroje, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby od 1. januára 2003. Pre zdroje, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do 31. decembra 2002, platia všeobecné podmienky prevádzkovania a emisné limity od 1. januára 2006.
