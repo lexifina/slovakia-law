@@ -8,6 +8,10 @@
 
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 5) Druhá časť zákona č. 405/1991 Zb. o kontrole v Českej a Slovenskej Federatívnej Republike.
+- 4a) § 247 a nasl. Občianskeho súdneho poriadku.
+
+- 4b) § 36 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 5) § 16 až § 22 zákona Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole.
 
 - 6) Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva v znení neskorších predpisov.

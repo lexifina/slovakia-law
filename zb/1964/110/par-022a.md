@@ -1,3 +1,5 @@
 # § 22a
 
-Do doby nadobudnutia účinnosti zákonov národných rád uvedených v § 21 ods. 4 rozhoduje Federálne ministerstvo spojov v správnom konaní i v iných veciach podľa tohto zákona než uvedených v § 21 ods. 3.
+(1) Pokiaľ sa v zákone č. 110/1964 Zb. o telekomunikáciách v znení zákona č. 150/1992 Zb. používa názov Federálne ministerstvo spojov, rozumie sa tým Ministerstvo dopravy, spojov a verejných prác Slovenskej republiky, ak tento zákon neustanovuje inak.
+
+(2) Pokiaľ sa v zákone č. 110/1964 Zb. o telekomunikáciách v znení zákona č. 150/1992 Zb. používa názov „národný výbor“, rozumie sa tým príslušný obvodný úrad životného prostredia alebo okresný úrad životného prostredia.
