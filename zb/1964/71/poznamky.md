@@ -1,0 +1,1 @@
+- *) T. j. choroby označené v indikačnom zozname krížikom.
