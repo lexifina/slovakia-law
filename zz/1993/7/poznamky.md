@@ -18,9 +18,7 @@
 
 - 7) § 61 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb. v znení neskorších predpisov.
 
-- 8) § 49 ods. 2 zákona č. 100/1988 Zb.
-
-- § 18 zákona č. 88/1968 Zb.
+- 8) § 18 zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
 
 - 9) § 2 ods. 3 zákona č. 382/1990 Zb. o rodičovskom príspevku v znení zákona č. 117/1992 Zb.
 
@@ -28,23 +26,31 @@
 
 - 11) § 7 zákona č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov.
 
-- 12) § 92 ods. 5 zákona č. 100/1988 Zb.
+- 12) § 16 písm. a) bod 3, písm. b) bod 3, zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.
 
-- § 1 vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 105/1992 Zb. o sociálnej odkázanosti.
+- § 37 ods. 1 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení neskorších predpisov.
 
 - 13) § 8 ods. 2 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb. v znení neskorších predpisov.
 
-- 14) § 16 písm. a) bod 3,písm. b) bod 3 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia. § 37 ods. 1 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb. v znení neskorších predpisov.
+- 14) § 92 ods. 5 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
-- 15) § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku. § 3 ods. 2 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch. Zákon Slovenskej národnej rady č. 356/1990 Zb. o plate a náhradách výdavkov poslancov Slovenskej národnej rady. Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov.
+- § 1 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 243/1993 Z. z. o sociálnej odkázanosti.
+
+- 14a) Zákon č. 18/1992 Zb. o civilnej službe.
+
+- 14b) § 29 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
+
+- 15) § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku. § 3 ods. 2 zákona č. 143/1992 Zb. o plate a o odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch. Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky. Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.
 
 - 16) § 3 ods. 1 písm. a) zákona č. 286/1992 Zb. o daniach z príjmov.
+
+- 16a) Nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby.
 
 - 17) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb.
 
 - 18) § 2 ods. 1 písm. b) nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde.
 
-- 18) § 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde.
+- 18) § 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení neskorších predpisov.
 
 - 19) § 124 až 130 Zákonníka práce.
 
@@ -65,5 +71,9 @@
 - 26) Nariadenie vlády Československej socialistickej republiky č. 148/1971 Zb. o ochrane hospodárskeho a služobného tajomstva v znení nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 420/1990 Zb.
 
 - 26a) Zákon Národnej rady Slovenskej republiky č. 14/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1993 a o zmene zákonov v oblasti sociálneho zabezpečenia a niektorých ďalších zákonov.
+
+- 26b) § 1 ods. 4 zákona Slovenskej národnej rady č. 543/1990 Zb. v znení neskorších predpisov.
+
+- 26c) § 21 ods. 3 až 5 zákona č. 1/1991 Zb. v znení neskorších predpisov.
 
 - 27) Zákon č. 33/1965 Zb. o úhrade nákladov vznikajúcich štátu z úrazov, z chorôb z povolania a iných poškodení na zdraví (o regresných náhradách).
