@@ -1,7 +1,13 @@
 # § 169b Pohŕdanie súdom
 
-Kto opakovane závažným spôsobom ruší pojednávanie súdu, alebo
+Kto opakovane
 
-kto sa opakovane na takom pojednávaní k súdu správa urážlivo alebo súd znevažuje,
+- a) ruší závažným spôsobom pojednávanie súdu,
 
-potresce sa odňatím slobody až na dva roky alebo peňažným trestom.
+- b) správa sa na pojednávaní k súdu urážlivo,
+
+- c) neuposlúchne príkaz súdu bez dostatočného ospravedlnenia, alebo
+
+- d) nevyhovie výzve súdu,
+
+potresce sa odňatím slobody až na jeden rok alebo peňažným trestom.

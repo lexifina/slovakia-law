@@ -1,6 +1,8 @@
-# § 216a Obchodovanie s deťmi
+## Obchodovanie s deťmi
 
-(1) Kto za odmenu zverí dieťa do moci iného za účelom adopcie, využívania detskej práce alebo na iný účel, potresce sa odňatím slobody až na tri roky alebo peňažným trestom.
+# § 216a
+
+(1) Kto za odmenu zverí dieťa do moci iného za účelom adopcie, potresce sa odňatím slobody až na tri roky alebo peňažným trestom.
 
 (2) Odňatím slobody na dva roky až osem rokov sa páchateľ potresce,
 

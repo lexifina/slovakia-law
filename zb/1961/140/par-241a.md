@@ -4,8 +4,10 @@
 
 (2) Odňatím slobody na päť až dvanásť rokov sa páchateľ potresce,
 
-- a) ak spôsobí činom uvedeným v odseku 1 ťažkú ujmu na zdraví alebo
+- a) ak spôsobí činom uvedeným v odseku 1 ťažkú ujmu na zdraví,
 
-- b) ak spácha taký čin na osobe mladšej ako pätnásť rokov.
+- b) ak spácha taký čin na osobe mladšej ako pätnásť rokov, alebo
+
+- c) ak spácha taký čin na blízkej osobe alebo osobe, ktorá je v jeho starostlivosti alebo výchove.
 
 (3) Odňatím slobody na desať až pätnásť rokov sa páchateľ potresce, ak spôsobí činom uvedeným v odseku 1 smrť.
