@@ -4,7 +4,7 @@
 
 - a) skutočnosti nasvedčujúce tomu, že iný spáchal trestný čin legalizácie príjmu z trestnej činnosti podľa § 252 alebo
 
-- b) podozrivé bankové operácie
+- b) neobvyklú obchodnú operáciu
 
 napriek tomu, že taká povinnosť mu vyplýva z jeho zamestnania, povolania, postavenia alebo funkcie, potresce sa odňatím slobody na dva roky až osem rokov alebo zákazom činnosti, alebo peňažným trestom.
 
