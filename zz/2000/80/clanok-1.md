@@ -488,6 +488,14 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - Doterajšie odseky 13 až 15 sa označujú ako odseky 14 až 16.
 
+- 48. V § 65a sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+- „(7)
+
+- Prírodné liečivé vody a prírodné minerálne stolové vody plnené do spotrebiteľského balenia z jedného prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody sa môžu distribuovať do verejnej siete v Slovenskej republike len pod jedným obchodným názvom.“.
+
+- Doterajšie odseky 7 až 11 sa označujú ako odseky 8 až 12.
+
 - 49. V § 65a sa odsek 9 dopĺňa písmenom f), ktoré znie:
 
 - „f)
