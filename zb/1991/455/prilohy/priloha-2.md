@@ -12,13 +12,13 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Revízie a skúšky vyhradených tlakových zariadení *) | Osvedčenie (§ 8 vyhl. č. 23/ 1979 Zb. v znení vyhl. č. 485/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 7 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990 Zb.
 
-- Výroba, montáž, opravy a rekonštrukcie vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 24/ 1979 Zb. v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.
+- Výroba, montáž, opravy a rekonštrukcie vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 24/ 1979 Zb. v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 24/1979Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.
 
 - Individuálne vyskúšanie, overovacie skúšky, revízie a revízne skúšky vyhradených zdvíhacích zariadení *) | Osvedčenie (§ 4, 5, 7 a 8 vyhl. č. 24/ 1979 Zb. , ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce
 
-- Montáž, opravy a revízie vyhradených plynových zariadení *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
+- Montáž, opravy a revízie vyhradených plynových zariadení *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb. vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
+- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb. vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
 
 - Revízie a skúšky vyhradených plynových zariadení *) | Osvedčenie (§ 4 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce;
 
@@ -44,7 +44,7 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 205 - Výroba elektrických prístrojov | |
 
-- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487 / 1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
+- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487 / 1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
 
 - Revízia vyhradených elektrických zariadení | Osvedčenie (§ 9 vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/ 1982 Zb.
 
@@ -148,4 +148,6 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Nákup a predaj pyrotechnických výrobkov | a) preukaz pyrotechnika alebob) preukaz strelmajstra aleboc) preukaz odpaľovača ohňostrojov alebod) potvrdenie o kvalifikácii predavača pyrotechnických výrobkov | § 6, 7, 8 a 9 vyhl. č. 536/1991 Zb. o pyrotechnických výrobkoch; § 40 vyhl. č. 71/1988 Zb. o výbušninách v znení vyhl. č. 534/1991 Zb.; vyhl. č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov
 
-- Pedikúra | osvedčenie vydané vzdelávacím zariadením akreditovaným Ministerstvom školstva a vedy SR |
+- Pedikúra | osvedčenie vydané vzdelávacím zariadením akreditovaným Ministerstvom školstva a vedy SR
+
+- Inseminácia | Osvedčenie vydané Ministerstvom pôdohospodárstva Slovenskej republiky | § 22 a 25 zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
