@@ -150,6 +150,12 @@
 
 - 21) Napr. vyhláška Ministerstva zdravotníctva Českej republiky č. 242/1991 Zb. o sústave zdravotníckych zariadení zriaďovaných okresnými úradmi a obcami, vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 19/1975 Zb. o sústave zdravotníckych zariadení, zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona ČNR č. 548/1991 Zb., zákona SNR č. 196/1990 Zb. a zákona SNR č. 419/1991 Zb.
 
+- 21a) § 20 zákona č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
+
+- Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
+
+- § 3 zákona č. 195/1991 Zb. o odstupnom poskytovanom pri skončení pracovného pomeru v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
+
 - 22) Zákon č. 119/1992 Zb. o cestovných náhradách. Limity stravného pri zahraničných pracovných cestách vyhlasované v Zbierke zákonov.
 
 - 23) Zákon ČNR č. 133/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
