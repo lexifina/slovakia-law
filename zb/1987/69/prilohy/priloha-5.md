@@ -1,0 +1,1 @@
+Príloha č. 4 [Vzor 04](../assets/4dc2e5a99ce512022b958197493b8a02663e0351791c7e741e1a6ee8d40ee18c.pdf)
