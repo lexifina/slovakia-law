@@ -4,4 +4,4 @@
 
 (2) Ak žalobu podá niekto, kto tvrdí, že mu rozhodnutie správneho orgánu nebolo doručené, hoci sa s ním ako s účastníkom konania malo konať, súd overí správnosť tohto tvrdenia a uloží správnemu orgánu doručiť tomuto účastníkovi správne rozhodnutie a podľa okolností odloží jeho vykonateľnosť. Týmto stanoviskom súdu je správny orgán viazaný. Po uskutočnenom doručení predloží správny orgán spisy súdu na rozhodnutie o žalobe.
 
-(3) Prokurátor môže žalobu podať do dvoch mesiacov od právoplatnosti rozhodnutia, ktorým nebolo vyhovené protestu, najneskôr však do jedného roka od právoplatnosti rozhodnutia správneho orgánu.
+(3) Prokurátor môže žalobu podať do dvoch mesiacov od právoplatnosti rozhodnutia, ktorým nebolo vyhovené protestu, najneskôr však do jedného roka od právoplatnosti rozhodnutia správneho orgánu. Ak nebolo vyhovené upozorneniu krajského úradu na porušenie zákonov a ostatných všeobecne záväzných právnych predpisov, krajský úrad môže žalobu podať do dvoch mesiacov po uplynutí lehoty určenej na podanie informácie o vykonaných opatreniach, najneskôr však do jedného roka odo dňa, v ktorom došlo k postupu správneho orgánu.

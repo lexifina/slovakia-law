@@ -5,3 +5,5 @@
 (2) Rozhodnúť spor rozsudkom na základe čiastočného uznania nároku možno len na návrh žalobcu a na základe úplného alebo čiastočného vzdania sa nároku len so súhlasom žalovaného.
 
 (3) Rozsudkom na základe uznania alebo vzdania sa nároku nemožno rozhodnúť spor, ktorý účastníci nemôžu skončiť súdnym zmierom.
+
+(4) Rozsudkom na základe uznania alebo vzdania sa nároku rozhoduje súd bez nariadenia pojednávania.

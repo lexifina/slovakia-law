@@ -1,6 +1,10 @@
 - 1) § 7 ods. 4 zákona č. 424/1991 Zb. o združovaní v politických stranách a politických hnutiach.
 
-- 1a) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
+- 1a) § 4 ods. 1 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení zákona č. 54/1996 Z. z.
+
+- 1aa) Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
+
+- 1b) Obchodný zákonník v znení neskorších predpisov.
 
 - 2) § 476 a nasl. Obchodného zákonníka.
 
@@ -70,6 +74,12 @@
 
 - Čl. IV zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení neskorších predpisov a zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 33aa) § 65 ods. 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- 33ab) Napríklad § 456 Občianskeho zákonníka.
+
+- 33b) § 161 ods. 5 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
 - 34) Vyhláška Ministerstva spravodlivosti Českej republiky č. 270/1990 Zb. o odmenách advokátov a komerčných právnikov za poskytovanie právnej pomoci v znení vyhlášky č. 573/1990 Zb.
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 44/1991 Zb.
@@ -86,9 +96,23 @@
 
 - 34f) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
 
+- 34fa) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 15/1993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
+
+- 34fb) § 3a, § 28b Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
+- 34fc) § 68a Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
+- 34fd) § 218a ods. 2 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
+- 34fe) § 181 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
 - 34g) § 11 a nasl. Občianskeho zákonníka.
 
 - 34h) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
+
+- 34i) § 2 písm. a) zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
 
 - 35) V súčasnosti ide najmä o tieto prípady:
 

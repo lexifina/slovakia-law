@@ -84,7 +84,7 @@ Príloha A (§ 248 ods. 3)
 
 - Štátne tajomstvo | Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva v znení zákona č. 383/1990 Zb. § 21 | rozhodnutie o zákaze fotografovania a filmovania
 
-- Stavebný poriadok | Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. § 32 písm. a), c) a d) | územné rozhodnutie o chránenom území alebo o ochrannom pásme, o stavebnej uzávere a umiestnení stavby s výnimkou jednoduchých stavieb podľa § 2 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. v znení neskorších predpisov
+- Stavebný poriadok | Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. § 32 písm. c) a d) | územné rozhodnutie o chránenom území, ochrannom pásme a o stavebnej uzávere
 
 - | § 91 | rozhodnutie o príkaze na odstránenie stavby, ak sú bezprostredne ohrozené životy osôb a ak nemožno stavbu zachovať
 

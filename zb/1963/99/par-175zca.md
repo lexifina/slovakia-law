@@ -2,7 +2,7 @@
 
 (1) Notár poverený súdom (§ 38 ods. 1) vydá osvedčenie o dedičstve, ak
 
-- a) dedičstvo nadobudol jediný dedič,
+- a) dedičstvo nadobudol jediný dedič, ktorý nesmie byť maloletý, ani osobou, ktorá musí mať opatrovníka podľa zákona,
 
 - b) dedičstvo, ktoré nenadobudol žiadny dedič, pripadlo štátu,
 
@@ -38,4 +38,6 @@
 
 (4) Účastník môže do 15 dní od prevzatia osvedčenia o dedičstve požiadať súd o pokračovanie v konaní o dedičstve podľa § 175l až 175z. Ak žiadosť nie je včas podaná, osvedčenie o dedičstve nadobudne účinky právoplatného uznesenia o dedičstve [§ 175q ods. 1 písm. a) až c), § 175l a 175o]; včas podanou žiadosťou osvedčenie o dedičstve stráca platnosť a súd pokračuje v konaní bez zreteľa na jeho vydanie.
 
-(5) Na opravu osvedčenia o dedičstve sa primerane použijú ustanovenia osobitného predpisu.<sup>34e</sup>)
+(5) Účastník sa môže vzdať práva na podanie žiadosti podľa odseku 4. V tomto prípade dňom vzdania sa práva na podanie žiadosti všetkými účastníkmi nadobudne osvedčenie o dedičstve účinky právoplatného uznesenia o dedičstve.
+
+(6) Na opravu osvedčenia o dedičstve sa primerane použijú ustanovenia osobitného predpisu.<sup>34e</sup>)
