@@ -22,8 +22,6 @@
 
 - 12) § 147 a nasl. výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 981/1996-100 z 20. mája 1996, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky o vydaní výnosu č. 195/1996 Z. z.).
 
-- 13) § 6 ods. 4 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
-
 - 14) Napríklad zákon Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore.
 
 - 15) Zákon č. 634/1992 Zb. o ochrane spotrebiteľa.Zákon Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa.Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.§ 45 a 46 Obchodného zákonníka.
@@ -40,7 +38,7 @@
 
 - 21) Zákon č. 61/1964 Zb. v znení zákona č. 132/1989 Zb.Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z.
 
-- 22) Zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení zákona Slovenskej národnej rady č. 271/1991 Zb.§ 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
+- 22) § 19 a § 23 ods. 1 zákona č. 23/2002 Z. z., ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov a o zmene niektorých zákonov.
 
 - 23) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
 
