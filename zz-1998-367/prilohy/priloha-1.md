@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 367/1998 Z. z. [Vzor 01 - Žiadosť o udelenie licencie na podnikanie v energetických odvetviach](../assets/4152b324eafb6e931e331c35b4dea7ea562386a17747dee67552c6fc07201e53.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 10 k vyhláške č. 367/1998 Z. z. [Vzor 10 - Žiadosť o zrušenie licencie na podnikanie v energetických odvetviach](../assets/4f56710c3572439d08f144f850c70ca90e6006db102ccbc00c2247e0fea6ef28.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 367/1998 Z. z. [Vzor 02 - Údaje o rozsahu podnikania, Výroba elektriny alebo kombinovaná výroba tepla a elektriny, alebo výroba tepla](../assets/0ea267dffc90376b43fbcb09eea6d192ee3d610381052ae0dea2cc8449d5b419.pdf)

@@ -1,0 +1,1 @@
+- 1) § 76 až 85 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov (úplné znenie č. 109/1998 Z. z.).
