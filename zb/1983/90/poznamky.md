@@ -1,1 +1,0 @@
-- 1) Platí iba pre prípravné obdobie zasahujúce do IV. ročníka.
