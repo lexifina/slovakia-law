@@ -10,6 +10,10 @@
 
 - 2) Článok 6 bis Parížskeho dohovoru na ochranu priemyslového vlastníctva z 20. marca 1883, revidovaného v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Stockholme 14. júla 1967, vyhláseného vyhláškou ministra zahraničných vecí č. 64/1975 Zb. v znení vyhlášky ministra zahraničných vecí č. 81/1985 Zb.
 
+- 2a) Nariadenie Rady (ES) č. 40/94 z 20. decembra 1993 o ochrannej známke Spoločenstva.
+
+- Nariadenie Rady (ES) č. 3288/94 z 22. decembra 1994, ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 40/94.
+
 - 3) Niceská dohoda o medzinárodnom triedení výrobkov a služieb pre zápis známok z 15. júna 1957, revidovaná v Stockholme 14. júla 1967 a v Ženeve 13. mája 1977, vyhlásená vyhláškou ministra zahraničných vecí č. 118/1979 Zb. v znení vyhlášky ministra zahraničných vecí č. 77/1985 Zb.
 
 - 4) Napríklad § 69, 479 a 487 Obchodného zákonníka, § 460 a 469 Občianskeho zákonníka, § 12 až 17 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
