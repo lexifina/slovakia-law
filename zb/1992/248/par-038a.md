@@ -1,7 +1,0 @@
-# § 38a
-
-(1) Investičné spoločnosti a právnické osoby, ktoré vykonávajú funkciu depozitára, sú povinné dať do súladu svoje právne postavenie a splniť povinnosti podľa tohto zákona do 31. mája 1996.
-
-(2) Investičné spoločnosti, ktoré mali do účinnosti tohto zákona právnu formu spoločnosti s ručením obmedzeným, sú povinné ju premeniť v súlade s § 2 tohto zákona do 31. mája 1996. Na tento účel sú povinné podať žiadosť podľa § 8 ods. 3 a 4 tohto zákona do 31. októbra 1995; ak žiadosť v tejto lehote nepodajú, súd aj bez návrhu nariadi ich likvidáciu. Ministerstvo financií Slovenskej republiky zašle súdu zoznam investičných spoločností, ktoré v uvedenej lehote nepodali žiadosť podľa § 8 ods. 3 a 4. Za podanie žiadosti sa správny poplatok neplatí.
-
-(3) Investičné fondy, ktoré boli zriadené pre prvú vlnu kupónovej privatizácie, sú povinné dať sa do súladu s ustanoveniami § 24 ods. 3, § 24 ods. 5, § 24 ods. 7 a § 24 ods. 11 tohto zákona do 31. decembra 1996. Tieto investičné fondy môžu odo dňa nadobudnutia účinnosti tohto zákona uplatňovať vlastnícke práva len v súlade s § 24 ods. 3 tohto zákona a môžu byť zastúpené len v kontrolných orgánoch spoločností, ktorých akcie majú vo svojom majetku. Do obchodného registra sa ako člen kontrolného orgánu zapisuje investičný fond s uvedením svojho obchodného mena a sídla. Funkciu člena kontrolného orgánu vykonáva v mene investičného fondu ním splnomocnená fyzická osoba.
