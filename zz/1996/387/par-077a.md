@@ -6,6 +6,8 @@
 
 - a) príspevky do garančného fondu podľa § 128a,
 
+- b) účelová dotácia zo štátneho rozpočtu vo výške zodpovedajúcej príspevkom do garančného fondu podľa písmena a),
+
 - c) úroky z finančných prostriedkov garančného fondu uložených v bankách znížené o osobitnú sadzbu dane,<sup>12a</sup>)
 
 - d) prijaté penále za omeškané platenie príspevkov do garančného fondu,
