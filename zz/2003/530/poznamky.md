@@ -26,7 +26,17 @@
 
 - 14) § 223 ods. 2 Obchodného zákonníka.
 
+- 14a) Článok 5 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov.
+
+- § 3 zákona č. 177/2004 Z. z. o európskom zoskupení hospodárskych záujmov, ktorým sa mení a dopĺňa zákon č. 595/2003 Z. z. o dani z príjmov.
+
+- 14b) Článok 4 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov.
+
 - 15) § 218l ods. 1 Obchodného zákonníka.
+
+- 15a) § 68 ods. 3 písm. d) Obchodného zákonníka.
+
+- 15b) § 68 ods. 8 Obchodného zákonníka.
 
 - 16) Občiansky súdny poriadok.
 
