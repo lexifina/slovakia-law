@@ -1,3 +1,3 @@
-[Príloha k opatreniu č. 21 577/2002-92](../assets/f307d237e02a4815b6ee26e6825bbbc75d1b8ce867b17963b2ed0ad8dc719581.pdf)
+[Príloha k opatreniu č. 21 577/2002-92](../assets/93727c7c4f9f360ce99fea37f6cc5167d737f4cbb2aa13c82de35a570b50d11d.pdf)
 
-Účtová osnova pre zdravotné poisťovne, Sociálnu poisťovňu a Národný úrad práce
+Účtová osnova pre zdravotné poisťovne, Sociálnu poisťovňu
