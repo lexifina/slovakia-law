@@ -36,6 +36,8 @@
 
 - 10a) § 12 zákona č. 121/2004 Z. z.
 
+- 10b) § 91 zákona č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
 - 11) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z., zákon č. 513/1991 Zb.
 
 - 11a) § 11 zákona č. 121/2004 Z. z.
@@ -49,6 +51,8 @@
 - 15) § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 15a) § 4 ods. 4 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
+
+- 15a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 16) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
