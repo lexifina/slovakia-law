@@ -8,6 +8,10 @@
 
 - 5) Napríklad § 29 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
 
+- 5a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
+
+- 5b) § 4 zákona č. 264/1999 Z. z.
+
 - 6) Vyhláška ministra zahraničných vecí č. 160/1988 Zb. o Medzinárodnom dohovore o harmonizovanom systéme opisu a číselného označovania tovaru a Protokole o jeho zmene.
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
