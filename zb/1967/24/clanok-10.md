@@ -7,3 +7,5 @@ K § 12 zákona
 (2) Platiteľ zrazí daň pri každej výplate mzdy z celej sumy podrobenej dani. Z preddavkov vyplácaných počas mzdového obdobia sa daň nezráža, ale až z úhrnu pri konečnom vyúčtovaní.
 
 (3) Ak druhý alebo ďalší platiteľ zašle na žiadosť daňovníka hrubú mzdu (odmenu) organizácii, aby ju vyplatila pracovníkovi, ktorý je u nej v pracovnom pomere, zdaní ju táto organizácia spolu so mzdou, ktorú daňovníkovi vypláca.
+
+(4) Podiely na hospodárskych výsledkoch organizácie sa zdaňujú pri vyúčtovaní podielu, a to oddelene od ostatnej mzdy pracovníka, sadzbami dane zo mzdy pre mesačné výplatné obdobie s prihliadnutím na všetky skutočnosti rozhodujúce pre zrážku dane v mzdovom období, v ktorom boli podiely vyúčtované.*) Pri zúčtovaní dane zo mzdy sa na podiely na hospodárskych výsledkoch neprihliada.

@@ -11,3 +11,5 @@
 - *) Platnosť potvrdení okresných národných výborov o vyživovaných osobách a zľavách podľa § 9 zákona vydaných pred 1. aprílom 1967 zostáva nedotknutá.
 
 - *) Pod ustanovenie § 20 ods. 1 zákona nespadajú spory o tom, či platiteľ má voči pracovníkovi nárok na vrátenie dane, ktorú podľa § 15 ods. 3 zákona zaplatil.
+
+- *) Z preddavkov podielov na hospodárskych výsledkoch sa zrazí daň zo mzdy preddavkove v tých prípadoch, v ktorých možno predpokladať, že by sa zo súm podielu pri jeho účtovaní neuhradila daň zo mzdy z celého podielu.

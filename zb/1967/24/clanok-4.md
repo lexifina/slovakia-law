@@ -8,7 +8,7 @@ Od dane sú oslobodené:
 
 - 2. až do úhrnnej výšky 2 000 Kčs ročne:
 
-  - a) vecné a peňažné dary poskytované platiteľom pracovníkovi pri významných pracovných a životných výročiach pracovníka (napr. 25, 30, 40 rokov nepretržitej práce u toho istého platiteľa, dosiahnutie veku 50, 60 atď. rokov) alebo pri jeho odchode do dôchodku,
+  - a) vecné a peňažné odmeny a dary poskytované platiteľom pracovníkovi pri významných pracovných a životných výročiach pracovníka (napr. 20, 30, 40 rokov nepretržitej práce v tej istej organizácii, dovŕšenie 50, 60 rokov) alebo pri jeho odchode do dôchodku, s výnimkou tých odmien, ktoré patria pracovníkovi podľa mzdových predpisov alebo kolektívnej zmluvy vo výške určenej s prihliadnutím na počet odpracovaných rokov v tej istej organizácii.
 
   - b) mimoriadne jednorazové odmeny vyplatené za iniciatívu a súťaženie pracovníkov zamerané na konkrétne činy, ktoré bezprostredne prinášajú zlepšenie hospodárskych výsledkov podniku alebo zvýšenie bezpečnosti práce, a odmeny, ktoré organizácia poskytuje svojim pracovníkom pri príležitosti udelenia štátnych vyznamenaní, radov, Červených zástav a odznakov ministra „Najlepší pracovník“,
 
