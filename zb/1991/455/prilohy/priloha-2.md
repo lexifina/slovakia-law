@@ -1,135 +1,157 @@
 Príloha č. 2 zákona č. 455/1991 Zb.
 
-- VIAZANÉ ŽIVNOSTI
+- VIAZANÉ ŽIVNOSTI Živnosť | Preukaz spôsobilosti | Poznámka
 
-  - SKUPINA 201: Výroba kovov a kovových výrobkov
+- SKUPINA 201 - Výroba kovov a kovových výrobkov | |
 
-- Odbor 1 | Preukaz spôsobilosti 2 | Poznámka 3
+- Zlievanie drahých kovov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie o splnení ďalších podmienok odbornej spôsobilosti | § 48 zák. č. 539/1992 Zb. o puncovníctve a skúšaní drahých kovov (puncový zákon)
 
-- Zlievanie drahých kovov | Odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a splnenie ďalších podmienok podľa predpisov o štátnej službe pre drahé kovy | § 37 vyhl. č. 93/1962 Zb. o štátnej službe pre drahé kovy
+- SKUPINA 202 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | |
 
-  - SKUPINA 202: Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia
+- Výroba, montáž, opravy, rekonštrukcie vyhradených tlakových zariadení a vykonávanie revízií a skúšok kotlov a tlakových nádob dodávateľským spôsobom a periodické skúšky nádob na plyn *) | Oprávnenie (§ 4 vyhl. č. 23/1979 Zb. v znení vyhl. č. 84/1982 Zb. a vyhl. č. 485/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 84/ 1982 Zb. a vyhl.
 
-- Odbor 1 | Preukaz spôsobilosti 2 | Poznámka 3
+- Revízie a skúšky vyhradených tlakových zariadení *) | Osvedčenie (§ 8 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 7 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990 Zb.
 
-- Výroba, montáž, opravy a rekonštrukcie a periodické skúšky vyhradených tlakových zariadení *) | Oprávnenie (§ 4 vyhl. č. 18/1979 Zb. v znení vyhl. č. 97/1982 Zb. a vyhl. č. 551/1990 Zb. a § 4 vyhl. č. 23/ 1979 Zb. v znení vyhl. č. 84/1982 Zb. a vyhl. č. 485/1990 Zb.) | *) § 4 zákona č. 174/1968 Zb. o štátnom dozore nad bezpečnosťou práce (s pôsobnosťou pre ČR v znení zákona ČNR č. 575/1990 Zb.); § 2 vyhl. č. 18/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 97/1982 Zb. a vyhl. č. 551/1990 Zb.,§ 2 vyhl. č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 84/1982 Zb. a vyhl. č. 485/1990 Zb.
+- Výroba, montáž, opravy a rekonštrukcie vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 24/1979 Zb. v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.
 
-- Revízie a skúšky prevádzkovaných kotlov a tlakových nádob *) | Osvedčenie (§ 8 vyhl. č. 18/1979 Zb. v znení vyhl. č. 551/1990Zb. a § 8 vyhl. č. 23/1979Zb. v znení vyhl. č. 485/ 1990 Zb.) | *) § 7 vyhl. č. 18/1979 Zb. v znení vyhl. č. 551/1990 Zb., § 7 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990 Zb.
+- Individuálne vyskúšanie, overovacie skúšky, revízie a revízne skúšky vyhradených zdvíhacích zariadení *) | Osvedčenie (§ 4, 5, 7 a 8 vyhl. č. 24/1979 Zb. , ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce
 
-- Výroba, montáž, generálne opravy a rekonštrukcie a vykonávanie revíznych skúšok vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 19/1979 Zb. v znení vyhl. č. 552/1990 Zb., § 3 vyhl. č. 24/1979 Zb. v znení vyhl. č. 486/1990 Zb.) | *) § 4 zákona č. 174/1968 Zb. o štátnom dozore nad bezpečnosťou práce a § 2 vyhl. č. 19/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 552/1990 Zb., § 2 vyhl. č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 486/1990 Zb.
+- Montáž, opravy a revízie vyhradených plynových zariadení *) | Oprávnenie (§ 3 vyhl. č. 26/1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Revízne skúšky prevádzkovej spôsobilosti zdvíhacieho zariadenia *) | Osvedčenie (§ 8 vyhl. č. 19/1979 Zb. v znení vyhl. č. 552/1990 Zb., § 8 vyhl č. 24/1979 Zb. v znení vyhl. č. 486/1990 Zb.) | *) § 4 zákona č. 174/1968 Zb. o štátnom dozore nad bezpečnosťou práce
+- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Montáž, opravy a revízie vyhradených plynových zariadení *), plnenie tlakových nádob na plyny | Oprávnenie (§ 3 vyhl. č. 21/1979 Zb. v znení vyhl. č. 554/1990 Zb., § 3 vyhl. č. 26/1979 Zb. v znení vyhl. č. 488/1990 Zb.) | *) § 4 zákona č. 174/1968 Zb. o štátnom dozore nad bezpečnosťou práce a § 2 vyhl. č. 21/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 554/1990 Zb., § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 488/1990 Zb.
+- Revízie a skúšky vyhradených plynových zariadení *) | Osvedčenie (§ 4 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce;
 
-- Revízie a skúšky vyhradených plynových zariadení *) | Osvedčenie (§ 4 vyhl. č. 21/1979 Zb. v znení vyhl. č. 554/ 1990 Zb., § 4 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990 Zb.) | *) § 4 zákona č. 174/1968 Zb. o štátnom dozore nad bezpečnosťou práce
+- SKUPINA 203 - Výroba motorových a ostatných dopravných prostriedkov | |
 
-  - SKUPINA 203: Výroba motorových a ostatných dopravných prostriedkov
+- Výroba, inštalácia, opravy a výstroje elektrických trakčných vozidiel | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- 1 | 2 | 3
+- Výroba, montáž, opravy a rekonštrukcie určených technických dopravných zariadení (tlakové, plynové, elektrické a zdvíhacie) *) a lanových dráh | Potvrdenie [§ 20 ods. 3 písm. b) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974 Zb.] | *) § 1 vyhl. č. 61/1982 Zb. o určených technických zariadeniach
 
-- Výroba, inštalácia, opravy a výstroje elektrických trakčných vozidiel | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike *) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Opravy kontajnerov ISO a opravy výmenných nadstavieb | Potvrdenie [§ 4 ods. 4 písm. a) vyhl. č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku] |
 
-- Výroba, montáž, opravy a rekonštrukcie určených technických dopravných zariadení (tlakové, plynové, elektrické a zdvíhacie) *) a lanových dráh | Potvrdenie (§ 20 ods. 3 písm. b) zákona č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974 Zb.) | *) § 1 vyhl. č. 61/1982 Zb. o určených technických zariadeniach
+- Výroba zváraných oceľových drážnych mostných konštrukcií, zváranie koľajových vozidiel a vyhradených koľajových zariadení v doprave | Potvrdenie [§ 20 ods. 3 písm. d) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974Zb.] |
 
-- Opravy kontejnerov ISO radu 1 | Potvrdenie (§ 4 ods. 4 písm. a) vyhl. č. 72/1984 Zb. o podmienkach spôsobilosti kontejnerov ISO radu 1 na bezpečnú a plynulú prevádzku) |
+- Defektoskopické kontroly, montáž lán, zalievanie koncoviek a spojok lán, spletanie lán lanových dráh | Potvrdenie [§ 20 ods. 3 písm. b) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974Zb.] |
 
-- Výroba zváraných oceľových mostných konštrukcií ČSD, zváranie koľajových vozidiel a vyhradených koľajových zariadení v doprave | Potvrdenie (§ 20 ods. 3 písm. d) zákona č. 51/1964 Zb. o dráhach v znení zákona č. 104/ 1974 Zb.) |
+- Revízie a skúšky určených technických zariadení *) a lanových dráh, kontajnerov ISO | Osvedčenie [§ 20 ods. 3 písm. c) zák. č. 51/1964 Zb. o dráhach v znení zák.č. 104/1974 Zb.; § 4 ods. 4 písm. a) vyhl. č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku] | *) § 1 vyhl. č. 61/1982 Zb. o určených technických zariadeniach
 
-- Defektoskopické kontroly, montáž lán, zalievanie koncoviek a spojok lán, splietanie lán lanových dráh | Potvrdenie (§ 20 ods. 3 písm. b) zákona č. 51/1964 Zb. o dráhach v znení zákona č. 104/ 1974 Zb.) |
+- Výroba a opravy ostatných motorových dopravných prostriedkov a motorových vozíkov (pokiaľ nie sú uvedené v prílohe č. 1) | Odborná spôsobilosť vysokoškolské vzdelanie technického zamerania a 5 rokov praxe v odbore |
 
-- Revízie a skúšky určených technických zariadení *) a lanových dráh, kontejnerov ISO radu 1 | Osvedčenie (§ 20 ods. 3 písm. c) zákona č. 51/1964 Zb. o dráhach v znení zákona č. 104/ 1974 Zb. a § 4 ods. 4 písm. b) vyhl. č. 72/1984 Zb. o podmienkach spôsobilosti kontejnerov ISO radu 1 na bezpečnú a plynulú prevádzku) | *) § 1 vyhl. č. 61/1982 Zb. o určených technických zariadeniach
+- SKUPINA 204 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | |
 
-- Výroba a opravy ostatných motorových dopravných prostriedkov (pokiaľ nie sú uvedené v prílohe č. 1) | Odborná spôsobilosť vysokoškolské vzdelanie technického zameranie a 5 rokov praxe v odbore |
+- Výroba, opravy a montáž meradiel | registrácia na Úrade pre normalizáciu, § 19 zák. č. 505/1990 Zb. o metrológii metrológiu a skúšobníctvo SR vykonaná po zistení, že podnik má na náležitý výkon činnosti vytvorené potrebné predpoklady | § 19 zák. č. 505/1990 Zb. o meterológii
 
-  - SKUPINA 204: Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
+- SKUPINA 205 - Výroba elektrických prístrojov | |
 
-- 1 | 2 | 3
+- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
 
-- Výroba, opravy a montáž meradiel | registrácia na Federálnom úrade pre normalizáciu a meranie vykonaná po zistení, že podnik má pre náležitý výkon činnosti vytvorené potrebné predpoklady | § 19 zákona č. 505/1990 Zb. o metrológii
+- Revízia vyhradených elektrických zariadení | Osvedčenie (§ 9 vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/ 1982 Zb.
 
-  - SKUPINA 205: Výroba elektrických prístrojov
+- Projektovanie elektrických zariadení | Osvedčenie (§ 10 vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- 1 | 2 | 3
+- Výroba, inštalácia a opravy elektrických strojov a prístrojov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 20/1979 Zb. v znení vyhl. č. 553/1990 Zb., § 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487/1990 Zb.) | *) § 4 zákona č. 174/1968 Zb. o štátnom dozore nad bezpečnosťou práce a § 2 vyhl. č. 20/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 553/1990 Zb., § 2 vyhl. č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 487/1990 Zb.
+- Montáž a opravy kancelárskej a reprodukčnej techniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Revízia elektrických zariadení | odborná spôsobilosť podľa § 9 vyhl. č. 50/1978 Zb. a vyhl. č. 51/1978Zb. *) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb.
+- Výroba, montáž a opravy výrobkov a zariadení spotrebnej elektrotechniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- | | o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba, inštalácia a opravy chladiacich zariadení | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Projektovanie elektrických zariadení | odborná spôsobilosť podľa § 10 vyhl. č. 50/1978 Zb. a vyhl. č. 51/1978Zb. *) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba, inštalácia a opravy ústredného vykurovania a vetrania | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Výroba, inštalácia a opravy elektrických strojov a prístrojov | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike*) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba a opravy elektrických šijacích strojov a elektrických prístrojov pre domácnosť | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Montáž a opravy kancelárskej a reprodukčnej elektroniky | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike*) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Montáž a opravy meracej a regulačnej techniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Výroba, montáž a opravy výrobkov a zariadení spotrebnej elektroniky | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike*) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- SKUPINA 207 - Výroba chemických výrobkov | |
 
-- Výroba, inštalácia a opravy chladiacich zariadení | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike*) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba a odbyt jedov a žieravín s výnimkou jedov zvlášť nebezpečných | a) vysokoškolské vzdelanie v odbore lekárstva, veterinárneho lekárstva alebo farmácie, príp. na inej vysokej škole s postgraduálnym štúdiom priemyselnej toxikológie alebo | § 15 a 16 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/ 1990 Zb. a č. 83/ 1992 Zb.
 
-- Výroba, inštalácia a opravy ústredného vykurovania a vetrania | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike*) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- | b) iné vysokoškolské vzdelanie alebo stredoškolské vzdelania s maturitnou skúškou a skúška pred komisiou pre prácu s jedmi alebo |
 
-- Výroba a opravy elektrických šijacích strojov a elektrických prístrojov pre domácnosť | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike*) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- | c) iné vzdelanie a skúška pred komisiou pre prácu s jedmi, opakovaná vždy po 5 rokoch |
 
-- Montáž a opravy meracej a regulačnej techniky | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike*) | *) vyhl. č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- SKUPINA 213 - Stavebníctvo | |
 
-  - SKUPINA 207: Výroba chemických výrobkov
+- Projektová činnosť v investičnej výstavbe | oprávnenie na projektovú činnosť (preukaz osobitnej spôsobilosti) alebo vysokoškolské lesnícke vzdelanie | § 2 a 5 vyhl. č. 186/1990 Zb. o oprávnení na projektovú činnosť
 
-- 1 | 2 | 3
+- Vykonávanie dopravných stavieb | vysokoškolské vzdelanie stavebné dopravný smer alebo vysokoškolské lesnícke vzdelanie a 8 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
 
-- Výroba a odbyt jedov a žieravín, s výnimkou jedov zvlášť nebezpečných | a) vysokoškolské vzdelanie v odbore lekárstva, veterinárneho lekárstva alebo farmácie, príp. na inej vysokej škole s postgraduálnym štúdiom priemyselnej toxikológie alebo b) iné vysokoškolské vzdelanie alebo stredoškolské vzdelanie zakončené maturitnou skúškou a skúška pred komisiou pre prácu z jedmi alebo c) iné vzdelanie a skúška pred komisiou pre prácu s jedmi, opakovaná vždy po 5 rokoch | § 15 a 16 nar. vlády ČSR č. 192/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády ČR č. 182/1990 Zb.; § 15 a 16 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb.
+- Vykonávanie inžinierskych stavieb, priemyselných stavieb, bytových a občianskych stavieb (vrátane vybavenosti sídliskových celkov) | vysokoškolské vzdelanie stavebné alebo lesnícke a 5 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
 
-  - SKUPINA 213: Stavebníctvo
+- Staviteľ (vykonávanie jednoduchých stavieb *) a poddodávok pre vyššie uvedené stavby) | strednáodborná škola stavebná s maturitnou skúškou a 5 rokov praxe v stavebníctve alebo vysokoškolské vzdelanie stavebné alebo lesnícke a 2 roky praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť; *) § 2 vyhl. č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhl. č. 155/1980 Zb. a vyhl. č. 378/1992 Zb.
 
-- 1 | 2 | 3
+- Vykonávanie stavebných prác vo výškach pomocou horolezeckej alebo speleologickej techniky | osvedčenie vydané vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce alebo inštruktorom horolezeckej (speleologickej) techniky | § 1, 9 a 50 vyhl. č. 374/ 1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach
 
-- Projektová činnosť v investičnej výstavbe | oprávnenie na projektovú činnosť (preukaz osobitnej spôsobilosti) | § 2 a 5 vyhl. č. 186/1990 Zb. o oprávnení na projektovú činnosť
+- Elektroinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Vykonávanie dopravných stavieb | vysokoškolské stavebné vzdelanie dopravný smer a 8 rokov praxe v odbore | nezahŕňa oprávnenie na projektovú činnosť
+- Plynoinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (23 a 24 vyhl. č. 175/1975 Zb., ktorou sa vykonávajú niektoré ustanovenia plynárenského zákona v znení vyhl. č. 8/1986Zb.) *) | *) vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Vykonávanie inžinierskych stavieb (včítane technickej vybavenosti sídliskových celkov) | vysokoškolské stavebné vzdelanie a 5 rokov praxe v odbore | nezahŕňa oprávnenie na projektovú činnosť
+- SKUPINA 214 - Ostatné | |
 
-- Vykonávanie priemyselných stavieb | vysokoškolské stavebné vzdelanie a 8 rokov praxe v odbore | nezahŕňa oprávnenie na projektovú činnosť
+- Automatizované spracovanie dát | a) vysokoškolské vzdelanie alebo b) stredoškolské vzdelanie s maturitnou skúškou |
 
-- Vykonávanie bytových a občianskych stavieb | vysokoškolské stavebné vzdelanie a 5 rokov praxe v odbore | nezahŕňa oprávnenie na projektovú činnosť
+- Poskytovanie softwaru - predaj hotových programov na základe dohody s autorom | a) vysokoškolské vzdelanie alebo b) stredoškolské vzdelanie s maturitnou skúškou | netýka sa poskytovania softwaru autorom podľa autorského práva
 
-- Staviteľ (vykonávanie jednoduchých stavieb a poddodávok pre uvedené stavby)Vykonávanie stavebných prác vo výškach pomocou horolezeckej alebo speleologickej techniky | stredná odborná stavebná škola s maturitnou skúškou a 5 rokov praxeosvedčenie o odbornej spôsobilosti vydané vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce príslušnej republiky alebo inštruktorom horolezeckej (speleologickej) techniky | nezahŕňa oprávnenie na projektovú činnosť§ 1, 9 a 50 vyhl. č. 324/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach; § 1, 9 a 50 vyhl. č. 374/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach
+- Vyučovanie vedenia motorových vozidiel | Osvedčenie (§ 12 a 13 vyhl. č. 55/1991 Zb.) *) | *) vyhl. č. 55/ 1991 Zb. o výcviku a zdokonaľovaní odbornej spôsobilosti vodičov cestných motorových vozidiel
 
-- Elektroinštalatérstvo | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike *) | *) vyhláška č. 50/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 98/1982 Zb.; vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Činnosť účtovných poradcov | a) vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore alebo b) stredoškolské vzdelanie príslušného smeru s maturitnou skúškou a 10 rokov praxe v odbore |
 
-- Plynoinštalatérstvo | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a odborná skúška pre obsluhu a opravy plynových zariadení*) | *) vyhl. č. 21/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 554/1990 Zb.; vyhláška č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti, v znení vyhl. č. 488/1990 Zb.
+- Vedenie účtovníctva | stredoškolské vzdelanie s maturitnou skúškou a 2 rokov praxe v odbore |
 
-- Studniarstvo, s výnimkou zriaďovania studní banským spôsobom *) | odborná spôsobilosť podľa § 21, 22 živnostenského zákona a odborná skúška (zaškolenie) pre povolanie studniar**) | *) § 3 písm. d) a h) zákona ČNR č. 61/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe; § 3 písm. d) a h) zákona SNR č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe **) výnosy Ministerstva priemyslu ČR a Ministerstva výstavby a stavebníctva SR
+- Činnosť organizačných a ekonomických poradcov | a) vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore alebo |
 
-  - SKUPINA 214: Ostatné
+- | b) stredoškolské vzdelanie príslušného smeru s maturitnou skúškou a 10 rokov praxe v odbore |
 
-- 1 | 2 | 3
+- Sprievodca cestovného ruchu | stredoškolské vzdelanie s maturitnou skúškou, prax 2 roky v odbore |
 
-- Automatizované spracovanie údajov | a) stredoškolské vzdelanie zakončené maturitnou skúškou alebo b) vysokoškolské vzdelanie |
+- Masérske služby | a) absolvovanie strednej zdravotníckej školy s maturitnou skúškou v odbore rehabilitácie alebo b) absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy alebo c) absolvovanie lekárskej fakulty v odboroch telovýchovného lekárstva alebo balneológie alebo d) absolvovanie vysokej školy telovýchovného smeru |
 
-- Poskytovanie softwaru (predaj hotových programov na základe zmluvy s autormi alebo vyhotovovanie programov na zákazku) | a) stredoškolské vzdelanie zakončené maturitnou skúškou alebo b) vysokoškolské vzdelanie | netýka sa poskytovania softwaru autorom podľa autorského zákona
+- Prevádzkovanie verejných telovýchovných škôl; organizovanie kurzov pre cvičiteľov, trénerov a rozhodcov; organizovanie telovýchovných kurzov a činnosť športových inštruktorov Prevádzkovanie telovýchovných zariadení Prevádzkovanie zariadení slúžiacich na regeneráciu a rekondíciu | a) trénersky preukaz alebo cvičiteľský preukaz I. alebo II. triedy vydaný podľa nariadenia vlády SR č. 469/1991 Zb., ktorým sa vykonáva zákon Slovenskej národnej rady č. 198/1990 Zb. o telesnej kultúre alebo |
 
-- Vyučovanie vedenia motorových vozidiel | overenie odbornej spôsobilosti príslušným orgánom dopravnej polície (osvedčenie pre učiteľov, § 12 a 13 vyhl. č. 55/1991 Zb.) | vyhláška č. 55/1991 Zb. o zdokonaľovaní odbornej spôsobilosti vodičov cestných motorových vozidiel
+- | b) vysokoškolské telovýchovné vzdelanie s príslušnou špecializáciou alebo |
 
-- Činnosť účtovných poradcov | a) vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore alebo b) stredoškolské vzdelanie príslušného smeru zakončené maturitnou skúškou a 10 rokov praxe v odbore |
+- | c) osvedčenie o odbornej spôsobilosti vydané vzdelávacím zariadením akreditovaným Ministerstvom školstva a vedy SR |
 
-- Činnosť organizačných a ekonomických poradcov | a) vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore alebo b) stredoškolské vzdelanie príslušného smeru zakončené maturitnou skúškou a 10 rokov praxe v odbore |
+- Vodná záchranárska služba | osvedčenie o odbornej spôsobilosti vydané ústredným orgánom Červeného kríža alebo príslušným telovýchovným zväzom |
 
-- Sprievodcovská činnosť | a) osvedčenie vydané ministerstvom obchodu a cestovného ruchu príslušnej republiky a b) stredoškolské vzdelanie zakončené maturitnou skúškou |
+- Vykonávanie lektorskej činnosti inštruktora lešenárskej a horolezeckej (speleologickej) techniky | preukaz inštruktora lešenárskej, horolezeckej (speleologickej) techniky vydaný vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru na bezpečnosťou práce | § 9 ods. 3 vyhl. č. 374/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach
 
-- Masérske služby | a) absolvovanie strednej zdravotníckej školy zakončené maturitnou skúškou v odbore rehabilitácie alebo b) absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy republiky alebo c) absolvovanie lekárskej fakulty v odboroch telovýchovné lekárstvo alebo balneológia alebo d) absolvovanie vysokej školy telovýchovného smeru |
+- Inštruktor vstreľovania expanznými prístrojmi | preukaz inštruktora vstreľovania | úprava SÚBP a SBÚ č. 11/1975 Ústred. vestníka SSR o expanzných prístrojoch na vstreľovanie
 
-- Prevádzkovanie verejných telovýchovných škôl; organizovanie kurzov pre cvičiteľov, trénerov a rozhodcov; organizovanie telovýchovných kurzov a činnosť športových inštruktorov | a) trénersky alebo cvičiteľský preukaz I. alebo II. triedy vydaný príslušným telovýchovným zväzom alebo b) vysokoškolské telovýchovné vzdelanie s príslušnou špecializáciou alebo c) osvedčenie o odbornej spôsobilosti vydané vzdelávacím zariadením akreditovaným ministerstva školstva, mládeže a telovýchovy (športu) príslušnej republiky |
+- Vstreľovanie expanznými prístrojmi | preukaz vstreľovača | úprava SÚBP a SBÚ č. 11/1975 Ústred. vestníka SSR o expanzných prístrojoch na vstreľovanie
 
-- Prevádzkovanie telovýchovných zariadení a zariadení slúžiacich regenerácii a rekondícii | a) pre prevádzkovanie telovýchovných zariadení preukaz spôsobilosti podľa osobitných predpisov b) pre prevádzkovanie zariadení slúžiacich regenerácii a rekondícii preukaz spôsobilosti ako pre prevádzkovanie verejných telovýchovných škôl |
+- Vyučovanie v odbore cudzích jazykov | dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky alebo preukázanie aspoň 10-ročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať |
 
-- Vodná záchranárska služba | osvedčenie o odbornej spôsobilosti vydané ústredným republikovým orgánom Čs. Červeného kríža alebo príslušným telovýchovným zväzom |
+- Vyučovanie v odbore umenia | dokončené štúdium na príslušnej umeleckej škole alebo spôsobilosť preukázaná 10-ročnou praktickou činnosťou v odbore |
 
-- Vykonávanie lektorskej činnosti inštruktora lešenárskej techniky | preukaz inštruktora lešenárskej techniky vydaný vzdelávacím zariadením, akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce príslušnej republiky | § 9 ods. 3 vyhl. č. 324/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach; § 9 ods. 3 vyhl. č. 374/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach
+- Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia [§ 3 ods. 1 písm. c) bod 9] | a) stredoškolské vzdelanie v odbore s maturitnou skúškou a 5 rokov praxe v odbore alebo |
 
-- Vyučovanie v odbore umenia a v odbore cudzích jazykov | a) pre odbor umenia dokončené štúdium na príslušnej umeleckej škole alebo spôsobilosť preukázaná dlhodobou praktickou činnosťou v odbore; b) pre odbor cudzích jazykov dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky |
+- | b) vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore |
 
-- Výroba a predaj nenahraných nosičov zvukových alebo zvukovo-obrazových záznamov a predaj a požičiavanie nahraných zvukových a zvukovo-obrazových záznamov | a) stredoškolské vzdelanie zakončené maturitnou skúškou a 3 roky praxe v odbore alebo v príbuznom odbore alebo b) vysokoškolské vzdelanie a 1 rok praxe v odbore alebo príbuznom odbore | Odpis živnostenského listu, ktorý bol podnikateľovi vydaný, zašle živnostenský úrad organizácii, ktorej bolo podľa § 44 ods. 1 zákona č. 35/1965 Zb. autorský zákon v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.) priznané výhradné oprávnenie zastupovať autorov alebo výkonných umelcov vo výkone ich práv podľa autorského zákona (§ 48 ods. 4 živnostenského zákona, vyhláška Ministerstva kultúry ČR č. 241/1991 Zb. o výhradnom oprávnení niektorých organizácií zastupujúcich autorov alebo výkonných umelcov.)
+- Psychologické služby neklinické-ho charakteru | vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore |
 
-- Reštaurovanie a konzervovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov | a) vyučenie v odbore konzervárstvo a reštaurátorstvo a 8 rokov praxe alebo b) stredoškolské vzdelanie v rovnakom odbore a 5 rokov praxe alebo c) vysokoškolské vzdelanie v rovnakom odbore a 3 roky praxe | § 10 ods. 5 vyhlášky Ministerstva kultúry ČR č. 66/1988 Zb., ktorou sa vykonáva zákon ČNR č. 20/1987 Zb. o štátnej pamiatkovej starostlivosti; vyhláška Ministerstva kultúry SSR č. 21/1988 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona SNR č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti
+- Technik požiarnej ochrany | Osvedčenie (§11 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov; § 10 vyhl. č. 446/1991 Zb.) *) | *) § 4 a 5 vyhl. č. 446/ 1991 Zb. , ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
+
+- Špecialista požiarnej ochrany | Osvedčenie (§11 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov; § 10 vyhl. č. 446/1991 Zb.) *) | *) § 4 a 5 vyhl. č. 446/ 1991 Zb. , ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
+
+- Opravy, plnenie a revízie hasiacich prístrojov | Oprávnenie (§ 26 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane) |
+
+- Projektovanie, inštalovanie, oprava a vykonávanie revízií elektrickej požiarnej signalizácie | Poverenie (§ 25 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane) |
+
+- Projektovanie, inštalovanie, oprava a vykonávanie revízií stabilných a polostabilných hasiacich zariadení | Poverenie (§ 25 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane) |
+
+- Geodetické a kartografické práce | vysokoškolské alebo stredoškolské vzdelanie s maturitou v odbore geodézie a kartografie |
+
+- Overovanie geometrických plánov a iných výsledkov geodetických prác | oprávnenie | zák. č. 46/1971 Zb. o geodézii a iných geodetických prác a kartografii; § 3 vyhl. č. 82/1973 Zb. o overovaní geometrických plánov a iných výsledkov geodetických prác
+
+- Činnosť vykonávaná banským spôsobom *) | osvedčenie o odbornej spôsobilosti vydané obvodným banským úradom podľa vyhl. č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom | *) v rozsahu § 3 písm. c) až i) zák. č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe
+
+- Ničenie a zneškodňovanie výbušnín | preukaz pyrotechnika skupiny C, vek 21 rokov a osvedčenie podľa zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR | § 15 ods. 2 vyhl. č. 78/1993 Z. z.; § 5 vyhl. č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov
+
+- Vykonávanie ohňostrojových prác | preukaz odpaľovača ohňostrojov | § 4 vyhl. č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov
+
+- Nákup a predaj pyrotechnických výrobkov | a) preukaz pyrotechnika alebo b) preukaz strelmajstra aleboc) preukaz odpaľovača ohňostrojov alebo d) potvrdenie o kvalifikácii predavača pyrotechnických výrobkov | § 6, 7, 8 a 9 vyhl. č. 536/1991 Zb. o pyrotechnických výrobkoch; § 40 vyhl. č. 71/1988 Zb. o výbušninách v znení vyhl. č. 534/1991 Zb.; vyhl. č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov
+
+- Pedikúra | osvedčenie vydané vzdelávacím zariadením akreditovaným Ministerstvom školstva a vedy SR |

@@ -2,9 +2,7 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
 - REMESELNÉ ŽIVNOSTI
 
-  - SKUPINA 101: Výroba kovov a kovových výrobkov
-
-  - Kováčstvo
+  - SKUPINA 101 – Výroba kovov a kovových výrobkov
 
   - Zámočníctvo
 
@@ -14,17 +12,15 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Kovoobrábanie
 
-  - Galvanizácia kovov
-
-  - Zlievanie železných aj neželezných obyčajných kovov
+  - Galvanizácia kovov Zlievanie železných a neželezných obyčajných kovov
 
   - Smaltovanie
 
-  - SKUPINA 102: Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia
+  - SKUPINA 102 – Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia
 
-  - Stavba strojov s mechanickým pohonom
+  - Výroba a stavba strojov a prístrojov s mechanickým pohonom
 
-  - SKUPINA 103: Výroba motorových a ostatných dopravných prostriedkov
+  - SKUPINA 103 – Výroba motorových a ostatných dopravných prostriedkov
 
   - Opravy motorových vozidiel
 
@@ -32,11 +28,11 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Opravy karosérií
 
-  - SKUPINA 104: Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
+  - SKUPINA 104 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
 
   - Výroba teplomerov
 
-  - Výroba bandáží
+  - Výroba protetických výrobkov
 
   - Výroba ortopedickej obuvi
 
@@ -44,7 +40,7 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Hodinárstvo
 
-  - SKUPINA 106: Výroba a spracovanie kameniva a zemín, keramika
+  - SKUPINA 106 – Výroba a spracovanie kameniva a zemín, keramika
 
   - Brúsenie a leptanie skla
 
@@ -52,15 +48,17 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Spracovanie kameňa
 
-  - SKUPINA 107: Výroba chemických výrobkov
+  - SKUPINA 107 – Výroba chemických výrobkov
 
-  - Výroba mydla
+  - Výroba saponátových, čistiacich a leštiacich výrobkov
 
-  - Výroba kozmetických prípravkov
+  - Výroba kozmetických výrobkov
 
-  - SKUPINA 108: Výroba potravín a nápojov
+  - SKUPINA 108 – Výroba potravín a nápojov
 
   - Mäsiarstvo a údenárstvo
+
+  - Výroba hotových jedál a polotovarov
 
   - Mlynárstvo
 
@@ -68,11 +66,17 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Výroba mliečnych výrobkov
 
-  - SKUPINA 109: Výroba textilná a odevná
+  - Výroba mliečnej zmrzliny a smotanových krémov
+
+  - Výroba pekárskych výrobkov
+
+  - Výroba cukrárskych výrobkov
+
+  - SKUPINA 109 – Výroba textilná a odevná
 
   - Farbenie látok a priadze
 
-  - SKUPINA 110: Výroba kože, kožených výrobkov (včítane obuvi), výroba gumových výrobkov a výrobkov z plastických látok
+  - SKUPINA 110 – Výroba kože, kožených výrobkov (vrátane obuvi), výroba gumových výrobkov a výrobkov z plastických látok
 
   - Garbiarne
 
@@ -86,29 +90,29 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Vulkanizácia
 
-  - SKUPINA 111: Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov
+  - SKUPINA 111 – Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov
 
   - Stolárstvo
 
-  - Stavba člnov a lodí, s výnimkou nemotorových športových lodí
+  - Stavba člnov a lodí s výnimkou nemotorových športových lodí
 
   - Zlatníctvo a strieborníctvo, klenotníctvo a kovotepectvo
 
-  - SKUPINA 112: Výroba papierenská a polygrafická
+  - SKUPINA 112 – Výroba papierenská a polygrafická
 
   - Kníhtlač
 
-  - Kamenotlač
+  - Kameňotlač
 
   - Sieťotlač, gumotlač, chemigrafia, stereotypia, galvanoplastika, ofsetová tlač
 
-  - SKUPINA 113: Stavebníctvo
+  - SKUPINA 113 – Stavebníctvo
 
   - Murárstvo
 
-  - Tesárstvo
-
   - Obkladačské práce
+
+  - Tesárstvo
 
   - Pokrývačstvo
 
@@ -120,13 +124,15 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Štukatérstvo
 
-  - Podlahárstvo (kladenie podlahovín)
+  - Podlahárstvo
 
   - Vodoinštalatérstvo
 
-  - Čistenie fasád a pomníkov
+  - Kúrenárske práce
 
-  - SKUPINA 114: Ostatné
+  - Vŕtanie studní
+
+  - SKUPINA 114 – Ostatné
 
   - Očná optika – prax 5 rokov (§ 21 ods. 1)
 
@@ -136,8 +142,4 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - Kozmetické služby
 
-  - Pedikúra
-
-  - Čistenie textilu
-
-  - Drogistická živnosť
+  - Čistenie odevov, bytového textilu a podlahových krytín
