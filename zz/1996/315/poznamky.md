@@ -40,6 +40,8 @@
 
 - 20) Napríklad vyhláška ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení vyhlášky ministra zahraničných vecí č. 82/1984 Zb., vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 208/1991 Zb. o bezpečnosti práce a technických zariadení pri prevádzke, údržbe a opravách vozidiel.
 
+- 20a) § 58 ods. 3 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 21) § 72 Trestného zákona.
 
 - 22) § 49 a 50 Trestného zákona.
@@ -52,7 +54,7 @@
 
 - 25) § 3 ods. 5 zákona č. 135/1982 Zb.
 
-- 26) § 6 zákona Národnej rady Slovenskej republiky č. 73/l995 Z. z.
+- 26) § 17 ods. 1 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 27) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.
 
@@ -79,6 +81,8 @@
 - 36) Zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
 - 37) Zákon č. 505/1990 Zb. o metrológii v znení neskorších predpisov.
+
+- 37b) § 21 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 38) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
