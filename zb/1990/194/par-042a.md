@@ -4,7 +4,7 @@
 
 Povolenie nemožno vydať právnickej osobe so zahraničnou majetkovou účasťou ani právnickej osobe, v ktorej má táto spoločnosť majetkovú účasť.
 
-Povolenie na prevádzkovanie lotérií a iných podobných hier pre akciovú spoločnosť sa môže vydať len za podmienky, že všetky jej akcie znejú na meno. Ustanovenia druhej a tretej vety sa nevzťahujú na spotrebiteľské lotérie podľa § 1 ods. 3 a na stávkové hry podľa § 2 písm. i). Podrobnosti o maximálnom počte kasín na prevádzkovanie stávkových hier podľa § 2 písm. i) a určenie, v ktorých mestách možno prevádzkovať tieto stávkové hry v kasíne, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+Povolenie na prevádzkovanie lotérií a iných podobných hier pre akciovú spoločnosť sa môže vydať len za podmienky, že všetky jej akcie znejú na meno. Podrobnosti o maximálnom počte kasín na prevádzkovanie stávkových hier podľa § 2 písm. i) a určenie, v ktorých mestách možno prevádzkovať tieto stávkové hry v kasíne, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
 
 (2) Povolenie na prevádzkovanie lotérie alebo inej podobnej hry podľa odseku 1 možno vydať právnickej osobe pred zápisom do obchodného registra, ak sa preukázalo, že právnická osoba bola založená. Oprávnenie na prevádzkovanie vzniká dňom zápisu do obchodného registra. Ak právnická osoba nepodá návrh na zápis do 90 dní od doručenia povolenia na prevádzkovanie lotérie alebo inej podobnej hry alebo ak sa návrhu na zápis do obchodného registra nevyhovie, musí právnická osoba vydané povolenie vrátiť orgánu, ktorý lotériu alebo inú podobnú hru povolil.
 
