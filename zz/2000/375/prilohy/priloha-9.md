@@ -96,6 +96,8 @@ Základné textilné materiály:
 
 - umelé chemické nekonečné vlákna,
 
+- elektricky vodivé vlákna,
+
 - syntetické chemické strižné vlákna z polypropylénu,
 
 - syntetické chemické strižné vlákna z polyesteru,
@@ -141,10 +143,6 @@ Všívaná textília čísla 5802 z bavlnenej priadze čísla 5205 a bavlnenej t
 Príklad:
 
 Ak uvedená všívaná textília bola vyrobená z bavlnenej priadze čísla 5205 a zo syntetickej tkaniny čísla 5407, potom je zrejmé, že použité priadze sú dva samostatné textilné materiály, a preto je všívaná textília zmesový výrobok.
-
-Príklad:
-
-Všívaný koberec so slučkami z umelých priadzí, bavlnených priadzí a jutového podkladu je zmesový výrobok, pretože na jeho výrobu sa použili tri základné textilné materiály. Akýkoľvek nepôvodný materiál z vyššieho štádia spracovania, ako určuje pravidlo, sa môže použiť za predpokladu, že jeho celková hmotnosť nepresiahne 10 % hmotnosti textilných materiálov koberca. Preto sa jutový podklad a/alebo umelé priadze môžu doviezť v tomto štádiu výroby za predpokladu, že spĺňajú hmotnostnú požiadavku.
 
 5.3 V prípade, že výrobky obsahujú „priadzu z polyuretánu segmentovanú pružnými prvkami polyéteru, tiež opradenú“, je tolerancia vzťahujúca sa na takúto priadzu 20 %.
 

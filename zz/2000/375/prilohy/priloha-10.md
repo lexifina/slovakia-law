@@ -6,4 +6,4 @@ OPRACOVANIE ALEBO SPRACOVANIE NEPÔVODNÝCH MATERIÁLOV, KTORÉ TREBA VYKONAŤ, 
 
 Nie všetky výrobky uvedené v zozname sú predmetom dohody. Preto treba prihliadať na ostatné časti dohody.
 
-[Príloha 09](../assets/32af5d24a2e2b150f244777e52ec5332f596bd9745fccf9d73bfba5169074e7e.pdf)
+[Príloha 09](../assets/352c0eabf11d858b9f876f92826b063488ca2c477d4b6cf72e5cab50001caf6c.pdf)

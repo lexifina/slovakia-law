@@ -126,7 +126,7 @@ g) „hodnota materiálov“ znamená colnú hodnotu použitých nepôvodných m
 
 h) „hodnota pôvodných materiálov“ znamená hodnotu týchto materiálov určenú podľa písmena g) uplatňovanú mutatis mutandis,
 
-i) „pridaná hodnota“ znamená cenu zo závodu zníženú o colnú hodnotu všetkých použitých materiálov, ktoré nie sú pôvodné v krajine, v ktorej boli výrobky získané,
+i) pridanou hodnotou sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov pôvodných v ostatných krajinách, uvedených v článku 4, alebo ak colná hodnota nie je známa alebo sa nedá zistiť, znížená o prvú cenu preukázateľne zaplatenú za tieto výrobky v strane,
 
 j) „kapitola“ a „čísla“ znamenajú kapitoly a čísla (štvormiestne kódy) používané v nomenklatúre Harmonizovaného systému opisu a číselného označovania tovarov, ďalej len „Harmonizovaný systém“ alebo „HS“,
 
@@ -150,21 +150,17 @@ a) výrobky úplne získané v strane podľa článku 5 tohto protokolu,
 
 b) výrobky získané v strane obsahujúce materiály, ktoré tu neboli úplne získané, za predpokladu, že takéto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu v strane podľa článku 6 tohto protokolu.
 
-Článok 3
-
-Dvojstranná kumulácia pôvodu
-
-Materiály pôvodné v jednej strane sa pokladajú za pôvodné v druhej strane, ak sú obsiahnuté vo výrobku v nej získanom. Nie je nutné, aby také materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu za predpokladu, že boli podrobené opracovaniu alebo spracovaniu presahujúcemu operácie uvedené v článku 7 ods. 1 tohto protokolu.
-
 Článok 4
 
-Diagonálna kumulácia pôvodu
+Kumulácia pôvodu
 
-1. S výhradou ustanovení odsekov 2 a 3 sa materiály pôvodné v Európskom spoločenstve, Poľsku, Maďarsku, Českej republike, Bulharsku, Rumunsku, Lotyšsku, Estónsku, Slovinsku, Islande, Nórsku alebo vo Švajčiarsku podľa dohôd medzi stranou a týmito krajinami považujú za pôvodné v tejto strane, ak sú obsiahnuté vo výrobku v nich získanom. Nie je nutné, aby takéto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu.
+1. Bez toho, aby boli dotknuté ustanovenia článku 2, výrobky sa považujú za pôvodné v strane, ak tam boli získané, obsahujúce materiály pôvodné v Európskom spoločenstve, Bulharsku, Poľsku, Maďarsku, Českej republike, na Slovensku, v Rumunsku, Litve, Lotyšsku, Estónsku, Slovinsku, na Islande, v Nórsku, vo Švajčiarsku (vrátane Lichtenštajnska)<sup>1</sup>) alebo v Turecku, v súlade s ustanoveniami opatrení Protokolu o pravidlách pôvodu medzi touto stranou a každou z týchto strán, za predpokladu, že opracovanie alebo spracovanie, vykonané v tejto strane presahuje operácie uvedené v článku 7 tohto protokolu. Nie je nevyhnutné, aby tieto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu.
 
-2. Výrobky, ktoré získali štatút pôvodného výrobku podľa odseku 1, sa ďalej považujú za výrobky pôvodné v strane iba vtedy, ak v nej získaná pridaná hodnota presahuje hodnotu použitých materiálov pôvodných v ktorejkoľvek z ostatných krajín uvedených v odseku 1. Ak táto podmienka nie je splnená, uvedené výrobky sa považujú za pôvodné v tej krajine uvedenej v odseku 1, v ktorej bol pridaný najvyšší podiel hodnoty. Pri určovaní krajiny pôvodu sa neberie do úvahy hodnota materiálov pôvodných v ostatných krajinách uvedených v odseku 1, ktoré boli podrobené dostatočnému opracovaniu alebo spracovaniu v strane.
+2. Ak opracovanie alebo spracovanie vykonané v strane nepresahuje operácie uvedené v článku 7, získaný výrobok sa považuje za pôvodný v strane, len ak hodnota tam pridaná je vyššia ako hodnota použitých materiálov pôvodných v ktorejkoľvek z krajín uvedených v odseku 1. Ak tak nie je, získaný výrobok sa považuje za pôvodný v tej krajine, v ktorej pôvodné materiály použité vo výrobe v strane predstavujú najvyššiu hodnotu.
 
-3. Kumulácia ustanovená v tomto článku sa môže uplatniť iba vtedy, ak použité materiály získajú štatút pôvodného výrobku pri použití rovnakých pravidiel pôvodu, ako sú pravidlá v tomto protokole. Strany si navzájom oznámia podrobné informácie o dohodách a im zodpovedajúcich pravidlách pôvodu uzavretých s ostatnými krajinami uvedenými v odseku 1.
+3. Výrobky pôvodné v jednej z krajín uvedených v odseku 1, ktoré neboli podrobené žiadnemu opracovaniu ani spracovaniu v strane, si zachovajú pôvod, ak sú vyvezené do niektorej z uvedených krajín.
+
+4. Kumulácia uvedená v tomto článku sa môže uplatniť len na materiály a výrobky, ktoré získali štatút pôvodu uplatnením pravidiel pôvodu identických s pravidlami v tomto protokole.
 
 Článok 5
 
@@ -300,13 +296,33 @@ HLAVA III
 
 Územný princíp
 
-1. Podmienky ustanovené v hlave II týkajúce sa získania štatútu pôvodu musia byť v stranách splnené bez prerušenia okrem ustanovení článku 4.
+1. Podmienky na získanie štatútu pôvodu ustanovené v hlave II musia byť v strane splnené po celý čas bez prerušenia s výnimkou ustanovení článku 4 a odseku 3 tohto článku.
 
-2. Pôvodné výrobky vyvezené zo strany do inej krajiny, ktoré sa vracajú späť, okrem ustanovení článku 4, sa považujú za nepôvodné, ak nie je možné uspokojivo preukázať colným orgánom, že
+2. Ak sa pôvodný tovar vyvezený zo strany do inej krajiny vracia späť, musí sa považovať s výnimkou ustanovení článku 4 za nepôvodný, ak nemožno uspokojivo preukázať colným orgánom, že
 
-a) späť dovážané výrobky sú totožné s vyvezenými a
+a) tovar, ktorý sa vracia späť, je totožný s vyvezeným a
 
-b) neboli podrobené inej operácii ako operácii nevyhnutnej na ich uchovanie v dobrom stave v danej krajine alebo pri vývoze.
+b) nebol podrobený inej operácii ako operácii nevyhnutnej na jeho uchovanie v dobrom stave v danej krajine alebo pri vývoze.
+
+3. Získanie štatútu pôvodu podľa podmienok uvedených v hlave II nie je dotknuté opracovaním ani spracovaním vykonaným mimo územia strany na materiáloch vyvezených z jednej zo strán a následne tam späť dovezených za predpokladu, že
+
+a) uvedené materiály sú úplne získané v jednej zo strán, alebo boli podrobené opracovaniu alebo spracovaniu nad rámec nedostatočných operácií uvedených v článku 7 predtým, ako boli vyvezené, a
+
+b) možno uspokojivo preukázať colným orgánom, že
+
+i) späť dovezený tovar bol získaný opracovaním alebo spracovaním vyvezených materiálov a
+
+ii) celková pridaná hodnota získaná mimo strany uplatnením ustanovení tohto článku nepresahuje 10 % ceny zo závodu konečného výrobku, pre ktorý sa štatút pôvodu požaduje.
+
+4. Na účely odseku 3 sa podmienky na získanie štatútu pôvodu podľa hlave II neuplatnia na opracovanie ani spracovanie vykonané mimo územia strany. Ak však pravidlo v prílohe II ustanovuje najvyššiu hodnotu všetkých použitých nepôvodných materiálov pri určení štatútu pôvodu konečného výrobku, celková hodnota nepôvodných materiálov použitých na území príslušnej strany spolu s celkovou pridanou hodnotou získanou mimo územia strany podľa ustanovení tohto článku nesmie presiahnuť uvedené percento.
+
+5. Na účely uplatnenia ustanovení odsekov 3 a 4 sa „celkovou pridanou hodnotou“ rozumejú všetky náklady vzniknuté mimo strán vrátane hodnoty materiálov tam použitých.
+
+6. Ustanovenia odsekov 3 a 4 sa neuplatnia na výrobky, ktoré nespĺňajú podmienky uvedené v zozname v prílohe II alebo ktoré sa môžu považovať za dostatočne opracované alebo spracované len uplatnením všeobecných hodnôt uvedených v článku 6 ods. 2.
+
+7. Ustanovenia odsekov 3 a 4 sa neuplatnia na výrobky patriace do kapitol 50 až 63 Harmonizovaného systému.
+
+8. Akékoľvek opracovanie alebo spracovanie podľa ustanovení tohto článku vykonané mimo územia strán sa musí vykonať v režime pasívneho zušľachťovacieho styku alebo podľa obdobného postupu.
 
 Článok 13
 
@@ -372,7 +388,7 @@ a) ak ide o výrobky zaradené do kapitol 25 až 49 a 64 až 97 HS, použije sa 
 
 b) ak ide o výrobky zaradené do kapitol 50 až 63 HS, použije sa 10 % sadzba alebo nižšia sadzba, ktorá platí v strane.
 
-Ustanovenia tohto odseku sa budú uplatňovať do 31. decembra 1998 a môžu sa po vzájomnej dohode prehodnotiť.
+Ustanovenia tohto odseku sa budú uplatňovať do 31. decembra 2000 a môžu sa po vzájomnej dohode prehodnotiť.
 
 HLAVA V
 
@@ -472,7 +488,7 @@ Podmienky na vystavenie vyhlásenia na faktúre
 
 a) schválený vývozca podľa článku 22 alebo
 
-b) ktorýkoľvek vývozca na akúkoľvek zásielku skladajúcu sa z jedného kusa alebo viacerých nákladových kusov a obsahujúcu pôvodné výrobky, ktorých celková hodnota nepresahuje 6 000 ECU.
+b) ktorýkoľvek vývozca na akúkoľvek zásielku skladajúcu sa z jedného kusa alebo viacerých nákladových kusov a obsahujúcu pôvodné výrobky, ktorých celková hodnota nepresahuje 6 000 euro.
 
 2. Vyhlásenie na faktúre sa môže vystaviť, ak sa príslušné výrobky môžu považovať za pôvodné v strane alebo v jednej z krajín uvedených v článku 4 a ak sú splnené ostatné podmienky tohto protokolu.
 
@@ -524,11 +540,11 @@ V prípade, keď sa na žiadosť dovozcu a za podmienok určených colnými org�
 
 Oslobodenie od dôkazu o pôvode
 
-1. Výrobky posielané ako malé zásielky súkromnými osobami súkromným osobám alebo tvoriace časť osobnej batožiny cestujúcich sa pokladajú za pôvodné výrobky bez predloženia dôkazu o pôvode za predpokladu, že tieto výrobky sa nedovážajú na obchodné účely, boli vyhlásené za výrobky spĺňajúce požiadavky tohto protokolu a neexistujú žiadne pochybnosti o pravdivosti takého vyhlásenia. V prípade výrobkov zasielaných poštou sa toto vyhlásenie môže uviesť na colnom vyhlásení C2/CP3 alebo na liste, ktorý sa pripojí k tomuto dokladu.
+1. Výrobky posielané ako malé zásielky súkromnými osobami súkromným osobám alebo tvoriace časť osobnej batožiny cestujúcich sa pokladajú za pôvodné výrobky bez predloženia dôkazu o pôvode za predpokladu, že tieto výrobky sa nedovážajú na obchodné účely, boli vyhlásené za výrobky spĺňajúce požiadavky tohto protokolu a neexistujú žiadne pochybnosti o pravdivosti takého vyhlásenia. V prípade výrobkov zasielaných poštou sa toto vyhlásenie môže uviesť na colnom vyhlásení CN22/CN23 alebo na liste, ktorý sa pripojí k tomuto dokladu.
 
 2. Dovozy, ktoré sú príležitostné a pozostávajú výhradne z výrobkov na uspokojenie osobných potrieb príjemcov alebo cestujúcich, alebo ich rodín, sa nepovažujú za obchodné, ak je z povahy a množstva výrobkov zrejmé, že nejde o obchodný účel dovozu.
 
-3. Celková hodnota týchto výrobkov nesmie presiahnuť 500 ECU v prípade malých zásielok a 1 200 ECU v prípade výrobkov tvoriacich časť osobnej batožiny cestujúcich.
+3. Celková hodnota týchto výrobkov nesmie presiahnuť 500 euro v prípade malých zásielok a 1 200 euro v prípade výrobkov tvoriacich časť osobnej batožiny cestujúcich.
 
 Článok 27
 
@@ -566,15 +582,15 @@ Nezrovnalosti a formálne chyby
 
 Článok 30
 
-Sumy vyjadrené v ECU
+Sumy vyjadrené v eure
 
-1. Sumy v národnej mene vyvážajúcej strany, ktoré zodpovedajú sumám vyjadreným v ECU, určí vyvážajúca strana a oznámi ich dovážajúcej strane.
+1. Sumy v národnej mene vyvážajúcej zmluvnej strany, ktoré zodpovedajú sumám vyjadreným v eure, určí vyvážajúca zmluvná strana a oznámi ich dovážajúcej zmluvnej strane.
 
-2. Ak tieto sumy prevyšujú zodpovedajúce sumy určené dovážajúcou stranou, uzná ich táto strana za predpokladu, že výrobky sú fakturované v mene vyvážajúcej strany. Ak sú výrobky fakturované v mene jednej z krajín uvedených v článku 4, uzná dovážajúca strana sumu oznámenú touto krajinou.
+2. Ak tieto sumy prevyšujú zodpovedajúce sumy určené dovážajúcou zmluvnou stranou, uzná ich táto strana za predpokladu, že výrobky sú fakturované v mene vyvážajúcej zmluvnej strany. Ak sú výrobky fakturované v mene niektorej z krajín uvedených v článku 4, uzná dovážajúca zmluvná strana sumu oznámenú touto krajinou.
 
-3. Sumy vyjadrené v ktorejkoľvek národnej mene sú ekvivalentom tejto národnej meny voči ECU podľa kurzu platného v prvý pracovný deň mesiaca októbra 1995.
+3. Sumy vyjadrené v ktorejkoľvek národnej mene sú ekvivalentom tejto národnej meny voči euru podľa kurzu platného v prvý pracovný deň mesiaca októbra 1999.
 
-4. Sumy vyjadrené v ECU a ich ekvivalenty v národných menách strán preskúma Spoločný výbor, ak o to požiada jedna zo strán. V prípade zmien po tomto preskúmaní Spoločný výbor zaručí, aby nedošlo k zníženiu súm vyjadrených v národných menách, a posúdi potrebu zachovania rovnocenných účinkov týchto limitov. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v ECU.
+4. Sumy vyjadrené v eure a ich ekvivalenty v národnej mene zmluvnej strany preskúma Spoločný výbor, ak o to zmluvná strana požiada. Pri preskúmaní Spoločný výbor zabezpečí, že nedôjde k zníženiu súm vyjadrených v ktorejkoľvek národnej mene, a posúdi potrebu zachovania účinkov týchto limitov v reálnych hodnotách. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v eure.
 
 HLAVA VI
 
