@@ -92,4 +92,4 @@ Zair
 
 Zambia
 
-Západná Sahara
+Západná Samoa
