@@ -1,0 +1,1 @@
+- 1) § 14 zákona č. 158/1989 Zb. o bankách a sporiteľniach.
