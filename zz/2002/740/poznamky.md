@@ -12,9 +12,9 @@
 
 - 3) § 28 ods. 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
-- 4) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 4) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
-- 5) § 26 ods. 7 zákona č. 366/1999 Z. z. v znení neskorších predpisov.
+- 5) § 22 ods. 7 zákona č. 595/2003 Z. z.
 
 - 6) Zákon č. 50/1976 Zb. o územnom plánovania stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. Opatrenie Štatistického úradu Slovenskej republiky č. 128/2000 Z. z., ktorým sa vyhlasuje Klasifikácia stavieb.
 
@@ -22,13 +22,13 @@
 
 - 8) Napríklad zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z. (úplné znenie č. 34/2001 Z. z.).
 
-- 9) § 26 ods. 2 zákona č. 366/1999 Z. z. v znení neskorších predpisov.
+- 9) § 22 ods. 2 zákona č. 595/2003 Z. z.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - Vyhláška Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 11) § 33 zákona č. 366/1999 Z. z. v znení neskorších predpisov.
+- 11) § 29 zákona č. 595/2003 Z. z.
 
 - 12) Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
@@ -36,7 +36,7 @@
 
 - 13) § 121 ods. 1 Občianskeho zákonníka.
 
-- 14) § 28 ods. 2 zákona č. 366/1999 Z. z. v znení zákona č. 466/2000 Z. z.
+- 14) § 24 ods. 1 písm. a) zákona č. 595/2003 Z. z.
 
 - 15) § 8 písm. d) zákona č.566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
@@ -44,11 +44,9 @@
 
 - 17) § 7 zákona č. 368/1999 Z. z. o rezervách a opravných položkách na zistenie základu dane z príjmov.
 
-- 18) § 489 až 496 Obchodného zákonníka v znení zákona č. 264/1992 Zb.
+- 19a) § 19 ods. 5 písm. b) zákona č. 595/2003 Z. z.
 
-- 19) § 36 zákona č. 366/1999 Z. z. v znení zákona č. 466/2000 Z. z.
-
-- 20) § 28 ods. 3 zákona č. 366/1999 Z. z. v znení zákona č. 466/2000 Z. z.
+- 20) § 24 ods. 2 zákona č. 595/2003 Z. z.
 
 - 21) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
@@ -70,11 +68,11 @@
 
 - 30) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
+- 30a) § 43 ods. 7 zákona č. 595/2003 Z. z.
+
 - 31) Napríklad zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení neskorších predpisov.
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
-
-- 33) Zákon č. 368/1999 Z. z.
 
 - 34) § 157 Obchodného zákonníka v znení neskorších predpisov.
 

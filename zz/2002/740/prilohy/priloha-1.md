@@ -288,7 +288,7 @@ Príloha k opatreniu č. 23054/2002-92
 
 - 373 – Pohľadávky a záväzky z pevných termínových operácií
 
-- 374 – Pohľadávky z prenájmu
+- 374 – Pohľadávky z nájmu
 
 - 375 – Pohľadávky z vydaných dlhopisov
 
@@ -378,7 +378,7 @@ Príloha k opatreniu č. 23054/2002-92
 
 - 473 – Vydané dlhopisy
 
-- 474 – Záväzky z prenájmu
+- 474 - Záväzky z nájmu
 
 - 475 – Dlhodobé prijaté preddavky
 
