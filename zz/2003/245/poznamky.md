@@ -14,7 +14,7 @@
 
 - 8) § 7 ods. 1 písm. a) až e) a k) a § 16 ods. 1 písm. a) až c) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
-- 9) § 6 ods. 2 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
+- 9) § 8 ods. 6 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
 - 10) § 10 ods. 7 zákona č. 61/1977 Zb. o lesoch a § 20 ods. 6 zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva.
 
