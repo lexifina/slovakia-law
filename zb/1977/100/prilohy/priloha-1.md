@@ -64,7 +64,7 @@ Trenčín | Trenčín | Trenčín
 
 | Čadca | Čadca
 
-| | Kysucké Nové Mesto
+| Kysucké Nové Mesto | Kysucké Nové Mesto
 
 | Dolný Kubín | Dolný Kubín
 
