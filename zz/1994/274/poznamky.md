@@ -2,6 +2,8 @@
 
 - 1a) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.
 
+- 1b) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
 - 2) § 124 Zákonníka práce.
 
 - 3) Zákon č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb., zákona č. 513/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 62/1993 Z. z.
@@ -115,6 +117,8 @@
 - 24c) Občiansky súdny poriadok.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 24d) § 524 až 530 zákona č. 40/1964 Zb. Občiansky zákonník.
+
+- 24e) § 12 ods. 10 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 534/2002 Z. z.
 
 - 25) Zákon č. 563/1991 Zb. o účtovníctve.
 
