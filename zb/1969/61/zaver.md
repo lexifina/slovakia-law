@@ -1,3 +1,0 @@
-Ministr:
-
-Toman v. r.
