@@ -2,8 +2,6 @@
 
 - 2) § 8 ods. 3 zákona Slovenskej národnej rady č. 307/1992 Zb.
 
-- 2a) § 1 a 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
-
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 4) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
@@ -25,5 +23,9 @@
 - 12) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
 
 - 13) Zákon č. 223/2001 Z. z.
+
+- 13a) § 1 a 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
+
+- 13b) § 1 až 3 a § 13 zákona č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
 - 14) § 8 ods. 4 zákona Slovenskej národnej rady č. 307/1992 Zb.
