@@ -4,6 +4,8 @@
 
 - 3) Zoznam zdravotníckych výkonov a Zoznam liečiv, zdravotníckych pomôcok a zdravotníckych potrieb sa uverejňujú ako samostatné publikácie.
 
+- 3a) Zmeny v Zozname zdravotníckych výkonov sa uverejnia ako samostatná publikácia.
+
 - 4) Zákon č. 526/1990 Zb. o cenách.
 
 - Zákon Slovenskej národnej rady č. 127/1991 Zb. o pôsobnosti orgánov Slovenskej republiky v oblasti cien.
