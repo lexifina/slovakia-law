@@ -1,0 +1,1 @@
+- *) Podle § 7 zákona č. 41/1953 Sb. se dnem 1.6.1953 ruší pohledávky a závazky z tuzemských cenných papírů v povinné úschově podle tohoto dekretu.
