@@ -1,1 +1,0 @@
-Miroslav Maxon v. r.
