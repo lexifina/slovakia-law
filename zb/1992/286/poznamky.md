@@ -184,6 +184,8 @@
 
 - 30) § 1 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení neskorších predpisov.
 
+- 30a) Napr. § 67, 124 a 217 Obchodného zákonníka.
+
 - 31) § 21 zákona č. 1/1991 Zb. v znení neskorších predpisov.
 
 - 32) Smernice k štátnym štatistickým výkazom za úsek Práce a mzdy vydané Federálnym štatistickým úradom.
