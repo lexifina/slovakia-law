@@ -19,3 +19,5 @@ Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 221/1993 Z. z. o
 - „3a)
 
 - Zmeny v Zozname zdravotníckych výkonov sa uverejnia ako samostatná publikácia.“.
+
+- 4. Zoznam liečiv, zdravotníckych pomôcok a zdravotníckych potrieb sa nahrádza znením, ktoré tvorí prílohu tejto vyhlášky.<sup>3</sup>)
