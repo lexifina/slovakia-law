@@ -1,0 +1,1 @@
+Dolanský v.r.
