@@ -1,3 +1,0 @@
-Ministryně:
-
-Synková v. r.
