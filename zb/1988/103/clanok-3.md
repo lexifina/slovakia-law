@@ -1,0 +1,5 @@
+# Čl. III Prechodné ustanovenia
+
+(1) Družstevníkovi, ktorému sa nepriznali peňažné dávky zo zabezpečenia v chorobe a zabezpečenia matky a dieťaťa len preto, že podľa predpisov platných pred 1. októbrom 1988 nesplnil podmienky účasti na tomto zabezpečení, patria odo dňa účinnosti tohto zákona peňažné dávky zo zabezpečenia v chorobe a zabezpečenia matky a dieťaťa, ak by podmienky účasti na tomto zabezpečení boli splnené podľa predpisov platných po 30. septembri 1988. Peňažné dávky sa potom vyplácajú v rozsahu a za podmienok ustanovených predpismi o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa.
+
+(2) Príslušný orgán sociálneho zabezpečenia najneskoršie do 30. septembra 1989 posúdi, ktoré z detí, ktoré bolo pred 1. októbrom 1988 uznané za invalidné a vyžadujúce stálu starostlivosť podľa prv platných predpisov, spĺňa podmienku pre uznanie za dieťa dlhodobo ťažko zdravotne postihnuté a vyžadujúce mimoriadnu starostlivosť s nárokom na príplatok k prídavkom na deti vo výške 700 Kčs mesačne.
