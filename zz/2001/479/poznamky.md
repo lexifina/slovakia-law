@@ -1,0 +1,1 @@
+- 1) Týmto dňom stráca platnosť rozhodnutie povereníka zdravotníctva zo 4. mája 1960 č. 9732, ktorým boli určené dočasné ochranné pásma pre minerálne pramene v Lipovciach.
