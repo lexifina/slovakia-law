@@ -1,0 +1,1 @@
+- 2a) § 9 odst. 3 a 4 zákona č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 519/1991 Sb.
