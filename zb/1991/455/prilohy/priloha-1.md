@@ -28,7 +28,7 @@ SKUPINA 104 - Výroba zdravotníckych výrobkov, presných a optických prístro
 
 11. | Hodinárstvo | I
 
-12. | Očná optika |
+12. | zrušené od 1.12.2001 |
 
 SKUPINA 106 - Výroba a spracovanie kameniva a zemín, keramika | |
 
