@@ -1,0 +1,17 @@
+# § 138a
+
+(1) Odvolaciu disciplinárnu komisiu zriaďuje predseda zo štátnych zamestnancov v stálej štátnej službe alebo nominovanej štátnej službe. Odvolacia disciplinárna komisia má troch členov. Všetci členovia tejto komisie musia mať vysokoškolské vzdelanie právnického smeru. Predsedu odvolacej disciplinárnej komisie vymenuje predseda.
+
+(2) O odvolaní proti rozhodnutiu disciplinárnej komisie zriadenej na okresnom súde rozhoduje odvolacia disciplinárna komisia zriadená na krajskom súde. Odvolaciu disciplinárnu komisiu zriaďuje a jej predsedu vymenúva predseda krajského súdu. Odvolacia disciplinárna komisia má päť členov, najmenej dvaja členovia musia byť sudcovia. O odvolaní proti rozhodnutiu disciplinárnej komisie zriadenej na krajskom súde rozhoduje odvolacia disciplinárna komisia zriadená na ministerstve spravodlivosti. Odvolaciu disciplinárnu komisiu zriaďuje a jej predsedu vymenúva minister spravodlivosti. Odvolacia disciplinárna komisia má päť členov; všetci členovia tejto komisie musia mať vysokoškolské právnické vzdelanie. O odvolaní proti rozhodnutiu disciplinárnej komisie zriadenej na najvyššom súde rozhoduje odvolacia disciplinárna komisia zriadená na najvyššom súde. Odvolaciu disciplinárnu komisiu zriaďuje a jej predsedu vymenúva predseda najvyššieho súdu. Odvolacia disciplinárna komisia musí mať päť členov; jeden jej člen musí byť z toho odboru štátnej služby ako štátny zamestnanec, o ktorého disciplinárnom previnení rozhodovala disciplinárna komisia, dvaja členovia musia byť sudcovia a ďalší dvaja musia byť štátni zamestnanci na Úrade pre štátnu službu, ktorých navrhne predseda.
+
+(3) O odvolaní proti rozhodnutiu disciplinárnej komisie zriadenej na generálnej prokuratúre, na vyššej vojenskej prokuratúre a na krajskej prokuratúre rozhoduje odvolacia disciplinárna komisia zriadená na generálnej prokuratúre. Odvolaciu disciplinárnu komisiu zriaďuje a jej predsedu vymenúva generálny prokurátor. Odvolacia disciplinárna komisia musí mať päť členov; jeden jej člen musí byť z toho odboru štátnej služby ako štátny zamestnanec, o ktorého disciplinárnom previnení rozhodovala disciplinárna komisia, dvaja členovia musia byť štátni zamestnanci na Úrade pre štátnu službu, ktorých navrhne predseda.
+
+(4) O odvolaní proti rozhodnutiu disciplinárnej komisie zriadenej na najvyššom kontrolnom úrade rozhoduje odvolacia disciplinárna komisia zriadená na najvyššom kontrolnom úrade. Odvolaciu disciplinárnu komisiu zriaďuje a jej predsedu vymenúva predseda najvyššieho kontrolného úradu.
+
+(5) Ak má účastník konania pochybnosti o nezaujatosti niektorého člena odvolacej disciplinárnej komisie, oznámi to bez meškania predsedovi, ktorý rozhodne, či bude člen odvolacej disciplinárnej komisie vylúčený. V prípade vylúčenia člena tejto komisie z konania zároveň rozhoduje, kto nahradí vylúčeného člena.
+
+(6) Ustanovenie odseku 5 sa rovnako vzťahuje aj na súdy, na prokuratúru a na najvyšší kontrolný úrad s tým, že pôsobnosť predsedu vykonáva zriaďovateľ odvolacej disciplinárnej komisie.
+
+(7) Odvolacia disciplinárna komisia je schopná uznášať sa, ak sú prítomní všetci jej členovia. Na schválenie uznesenia je potrebný súhlas väčšiny všetkých členov odvolacej disciplinárnej komisie. Člen odvolacej disciplinárnej komisie sa nesmie zdržať hlasovania.
+
+(8) Na služobných úradoch uvedených v § 7 ods. 1 písm. b) v prvom bode až vo štvrtom bode sa odseky 1 až 7 a ustanovenia § 126a a 126b použijú primerane.
