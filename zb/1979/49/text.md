@@ -24,6 +24,8 @@ Dňom 1. 5. 1997 vo vzťahoch medzi Slovenskou republikou a Ruskou federáciou s
 
 Dňom 5. 7. 2000 sa skončila vo vzájomných vzťahoch medzi Slovenskou republikou a Bieloruskou republikou platnosť tejto zmluvy (oznámenie MZV SR č. 112/2001 Z. z.).
 
+Dňom 2. 5. 2001 vo vzájomných vzťahoch medzi Slovenskou republikou a Bulharskou republikou stratila platnosť táta zmluva (oznámenie č. 287/2001 Z. z.).
+
 Prvý námestník:
 
 Ing. Knížka v. r.
