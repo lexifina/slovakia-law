@@ -56,6 +56,8 @@
 
 - § 281 až 288 Obchodného zákonníka.
 
+- 4c) Napríklad zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
 - 5) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch.
 
 - Zákon Národnej rady Slovenskej republiky č. 136/1995 Z. z.
@@ -107,6 +109,8 @@
 - 10l) § 151n, 151o, 151p a 151r Občianskeho zákonníka.
 
 - 10m) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 282/1993 Z. z. o zmiernení niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam.
+
+- 10ma) Zákon č. 245/2003 Z. z.
 
 - 11) § 20a zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
