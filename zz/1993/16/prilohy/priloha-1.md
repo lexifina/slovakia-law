@@ -1,10 +1,10 @@
 Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 16/1993 Z. z.
 
-- K A T A L Ó G Č I N N O S T Í ŠTÁTNYCH ZAMESTNANCOV V KANCELÁRII PREZIDENTA SLOVENSKEJ REPUBLIKY
+- CHARAKTERISTIKY PLATOVÝCH TRIED ŠTÁTNEHO ZAMESTNANCA V KANCELÁRII PREZIDENTA SLOVENSKEJ REPUBLIKY
 
   - 4. PLATOVÁ TRIEDA
 
-  - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+  - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
   - Funkcia: hlavný referent
 
@@ -38,7 +38,7 @@ Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 16/1993 Z. z.
 
   - 6. PLATOVÁ TRIEDA
 
-  - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+  - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
   - Funkcia: samostatný radca
 
@@ -60,7 +60,7 @@ Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 16/1993 Z. z.
 
   - 7. PLATOVÁ TRIEDA
 
-  - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+  - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
   - Funkcia: odborný radca
 
@@ -96,7 +96,7 @@ Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 16/1993 Z. z.
 
   - 8. PLATOVÁ TRIEDA
 
-  - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+  - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
   - Funkcia: hlavný radca
 
@@ -126,7 +126,7 @@ Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 16/1993 Z. z.
 
   - 9. PLATOVÁ TRIEDA
 
-  - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax nad deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+  - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
   - Funkcia: štátny radca
 
