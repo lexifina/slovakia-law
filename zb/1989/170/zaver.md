@@ -1,0 +1,3 @@
+Predseda:
+
+Mička v. r.
