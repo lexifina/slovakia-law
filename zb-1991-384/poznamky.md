@@ -1,0 +1,1 @@
+- 1) § 21 odst. 3 až 5 zákona č. 1/1991 Sb., o zaměstnanosti, ve znění zákona č. 305/1991 Sb.
