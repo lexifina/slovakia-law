@@ -158,51 +158,169 @@
 
   - Oddiel C Správa vnútorného obchodu, zahraničného obchodu a niektorých iných podnikaní
 
-  - Pol. | Predmet poplatku | Poplatok Kčs
+  - Pol. | Predmet poplatku | Poplatok |
 
-  - 23 | Udelenie akéhokoľvek živnostenského oprávnenia | 200
+  - | | mesačne Kčs | ak je prevádzateľ prestarnutý alebo invalidný, ročne Kčs
 
-  - 24 | Schválenie prevádzkárne alebo zmien prevádzkárne podľa III. hlavy živnostenského poriadku, pokiaľ sa týka živnostenského zákona | 100 až 2000
+  - 23 | A Udelenie oprávnenia alebo predĺženie platnosti oprávnenia fyzických osôb na prevádzanie ľudovej zábavy, a to ak ide o | |
 
-  - | Poznámky: 1. V medziach sadzby vyrubuje sa poplatok spravidla vo výške 1/2 % z ceny strojového vybavenia prevádzkárne a iných investícií. 2. Národné podniky a iné organizácie, na ktoré sa vzťahujú predpisy o národných podnikoch, podniky miestneho priemyslu a podniky komunálneho hospodárstva sú od tohto poplatku oslobodené. |
+  - | a) kruhový podnik (lochness, autodráhu, šikmú vlnovú želenicu), za každé sedadlo | 20 | -
 
-  - 25 | Povolenie výnimky z ustanovenia § 2 ods. 1 zák. č. 119/1948 Zb., o vyhradení zahraničného obchodu a medzinárodného zasielateľstva určitým podnikom (§ 2 ods. 4 cit. zák.) | 500 až 40 000 (podľa významu povolenia pre žiadateľa).
+  - | b) retiazkový kolotoč | |
 
-  - 26 | a) Povolenie na zriadenie účastinnej spoločnosti | 200 až 20 000 (podľa účastinného kapitálu);
+  - | s pódiom, za každé sedadlo | 35 | 20 až 30
 
-  - | b) schválenie stanov alebo zmeny stanov už jestvujúcej účastinnej spoločnosti | 200 až 10 000 (podľa rozsahu stanov alebo ich zmeny);
+  - | bez pódia, za každé sedadlo | 20 | 20 až 30
 
-  - | c) predĺženie lehoty na preukaz o splnení podmienok určených v povolení na zriadenie účastinnej spoločnosti | 200 až 10 000
+  - | c) detský kolotoč do 15 miest | 150 | 200 až 300
 
-  - | Poznámka: Správny orgán môže od vybrania poplatkov podľa tejto položky upustiť. |
+  - | do 20 miest | 200 | 200 až 300
 
-  - 27 | Povolenie dovozu, vývozu, prípadne prevozu tovaru, z ceny tovaru | 1/2 % najmenej však 10 Kčs.
+  - | do 30 miest | 300 | 250 až 350
 
-  - | Poznámka: Od poplatku sú oslobodené národné podniky a iné organizácie, na ktoré sa vzťahujú predpisy o národných podnikoch, podniky miestneho priemyslu, podniky komunálneho hospodárstva a ľudové družstvá, ako i podniky zahraničného obchodu. |
+  - | nad 30 miest | 400 | 350 až 400
 
-  - 28 | Colné prejednanie tovaru na colnisku mimo úradných hodín, povolené podľa voľnej úvahy za každého zúčastneného zamestnanca a za každú i len začatú hodinu úkonu | 5
+  - | d) detské retiazkové kolo | 140 | 150 až 200
 
-  - | Poznámky: 1. Za úkon trvajúci kratší čas než 1/4 hodiny sa poplatok nevyberá. 2. Podniky zahraničného obchodu sú od tohto poplatku oslobodené. |
+  - | e) ruské detské kolo, za každú gondolu | 60 | -
 
-  - 29 | Colné prejednanie tovaru mimo colniska, povolené podľa voľnej úvahy, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu |
+  - | f) hojdačky veľké, za každú loď | 30 | 30 až 50
 
-  - | a) v úradných hodinách | 3
+  - | detské, za každú loď | 20 | 30 až 40
 
-  - | b) mimo úradných hodín | 8
+  - | g) detský vláčik | 400 | -
 
-  - | Poznámky: 1. Za vyžiadaný úkon, ktorý vyslaný zamestnanec nemohol po príchode na miesto vykonať vinou žiadateľa alebo pre iné príčiny colnou správou nezavinené, vyberie sa poplatok 40 Kčs. 2. Pri vzdialenosti miesta úkonu od pravidelného pracovného miesta vyslaného zamestnanca nad 10 km zvyšuje sa celý poplatok, s výnimkou poplatku uvedeného v poznámke 1, o 2 Kčs za každých ďalších 5 km alebo zlomok tejto vzdialenosti. Ak žiada stránka, aby vyslaný zamestnanec použil pri ceste na miesto úkonu rýchlik, vyberie sa zvýšenie za prvých 5 km (ich zlomok) nad vzdialenosť 10 km sumou 16 Kčs a za každých ďalších 5 km (ich zlomok) sumou 2 Kčs. Vzdialenosť sa meria podľa ciest najrýchlejšieho dopravného spojenia. 3. Náhrada cestovných výdavkov sa popri poplatku nepožaduje. 4. Podniky zahraničného obchodu sú od tohto poplatku oslobodené. |
+  - | h) hipodrom, za každého koníka | 30 | -
 
-  - 30 | Colný sprievod tovaru podliehajúceho colnému dozoru v doprave po ceste, avšak mimo úseku medzi colnou hranicou a pohraničnou colnicou, ako i colný sprievod v doprave po vode, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu | 6
+  - | ch) strelnicu | |
 
-  - | Poznámky: 1. Pri vzdialenosti konečného miesta sprievodu od pravidelného pracovného miesta vyslaného zamestnanca nad 10 km zvyšuje sa celý poplatok o 2 Kčs za každých ďalších 5 km alebo zlomok tejto vzdialenosti. Vzdialenosť sa meria podľa cesty sprievodu. 2. Náhrada cestovných výdavkov sa popri poplatku nepožaduje. 3. Podniky zahraničného obchodu sú od tohto poplatku oslobodené. |
+  - | 1. stanovu s pultom do 4 m dĺžky | 400 | 500 až 700
 
-  - 31 | a) Povolenie na vývoz vecných darov, sťahovaných zvrškov a cenných predmetov, z ceny vyvážaných predmetov | 3 % až 50 % najmenej však 10 Kčs;
+  - | do 6 m dĺžky | 500 | 500 až 700
 
-  - | b) predĺženie platnosti povolenia uvedeného pod písm. a) | 10 až 200
+  - | do 8 m dĺžky | 600 | 600 až 800
 
-  - | c) udelenie povolenia podľa zákona o devízovom hospodárstve, vynímajúc povolenie uvedené pod písm. a), z ceny | 1/2 % až 20 %
+  - | do 10 m dĺžky | 700 | 600 až 800
 
-  - | Poznámky: 1. Poplatok určený pod písm. b) vyrubuje sa v medziach sadzby vo výške 10 % poplatku vyrubeného podľa písm. a) za povolenie, ktorého platnosť sa predlžuje. 2. Ak je to vo všeobecnom záujme, môže správny orgán od vybrania poplatkov podľa tejto položky upustiť; od vybrania poplatkov podľa písm. a) a b) môže správny orgán upustiť aj vtedy, ak neprevyšuje cena vyvážaných predmetov 100 Kčs. |
+  - | nad 10 m dĺžky | 800 | 600 až 800
+
+  - | 2. vozovú s pultom do 4 m dĺžky | 500 | 600 až 800
+
+  - | do 6 m dĺžky | 600 | 600 až 800
+
+  - | do 7 m dĺžky | 700 | 600 až 800
+
+  - | nad 7 m dĺžky | 800 | 600 až 800
+
+  - | 3. kombinovanú s hádzaním lôpt, stanovú alebo vozovú | podľa písm. ch) č. 1 alebo 2 | -
+
+  - | 4. športovú bez akýchkoľvek výhier (propagácia brannej výchovy) | 200 | -
+
+  - | i) hádzanie lôpt | |
+
+  - | 1. stanové s pultom do 4 m dĺžky | 300 | 300 až 500
+
+  - | 2. vozové s pultom do 4 m dĺžky | 400 | 300 až 500
+
+  - | 3. stanové alebo vozové s pultom nad 4 m dĺžky | podľa písm. ch) č. 1 alebo 2 | 300 až 500
+
+  - | j) gulečník stanový, za každý stôl | 150 | 500 až 1000
+
+  - | vozový, za každý stôl | 200 | 500 až 1000
+
+  - | k) automat športový (futbalový a pod.) | 50 | 200
+
+  - | l) silomer, dychomer alebo tzv. skúšač krvi | 100 | 200 až 300
+
+  - | m) mechanickú hudobnú atrakciu (elektrickú kapelu) | 150 | -
+
+  - | n) zábavné skúšanie skiel | 100 | -
+
+  - | o) ukážku drobných živých alebo preparovaných zvierat alebo ukážku nerastov | 300 | -
+
+  - | ukážku živých cudzokrajných zvierat (aligátorov, hadov a pod.) | 400 až 800 | -
+
+  - | p) športové strieľanie lukom | 150 | -
+
+  - | r) hádzanie šípov | 150 | -
+
+  - | s) cestu kočíkom | - | 200
+
+  - | t) kukadielko | - | 200
+
+  - | u) mechanické divadlo | - | 300
+
+  - | v) ukážku vtáctva | - | 200
+
+  - | y) povrazochodcov alebo produkcie na stožiari | 800 až 1400 | -
+
+  - | z) gymnastické predstavenia v stane | 600 až 1200 | -
+
+  - | aa) predvádzanie cvičených zvierat | 400 až 1000 | -
+
+  - | bb) manéžové produkcie s cirkusovým programom | 900 až 3000 | -
+
+  - | cc) hudobníkov | 40 | -
+
+  - | dd) divadlo maňáskové | 140 | -
+
+  - | bábkové | 400 až 500 | -
+
+  - | ee) divadielko zvláštností | 140 | -
+
+  - | ff) akrobatické jazdy na motocykli | 600 až 800 | -
+
+  - | gg) výlučne kúzelnícke produkcie | 400 až 1200 | -
+
+  - | kúzelnícke a akrobatické produkcie | 600 až 1400 | -
+
+  - | | Poplatok Kčs |
+
+  - | B. Udelenie akéhokoľvek iného živnostenského oprávnenia | 200 |
+
+  - | Poznámky k písm. A: 1. Poplatky určené rámcovo (najnižšou a najvyššou prípustnou sumou) vyrubujú sa v medziach sadzby podľa rozsahu a vybavenia podniku, prípadne podľa rozsahu podniku a programu, u prevádzateľov prestarnutých a invalidných podľa sociálnych pomerov. 2. Poplatok vyrubený za udelenie oprávnenia alebo predĺženie jeho platnosti mesačnou sadzbou, určenou pre iných prevádzateľov než prestarnutých alebo invalidných, zníži sa za každé prevádzateľovo dieťa vo veku do 15 rokov o 60 Kčs, pokiaľ ide o 1. až 5. dieťa, a o 100 Kčs, pokiaľ ide o 6. a každé ďalšie dieťa; aj v týchto prípadoch treba však vyrubiť poplatok najmenej sumou 40 Kčs, ak ide o činnosti uvedené pod písm. A a) až r), sumou 400 Kčs, ak ide o činnosť uvedenú pod písm. A y), sumou 300 Kčs, ak ide o činnosť uvedenú pod písm. A z), sumou 200 Kčs, ak ide o činnosť uvedenú pod písm. A aa), sumou 450 Kčs, ak ide o činnosť uvedenú pod písm. A bb), sumou 40 Kčs, ak ide o činnosť uvedenú pod písm. A cc), sumou 40 Kčs, ak ide o maňáskové divadlo podľa písm. A dd), sumou 100 Kčs, ak ide o bábkové divadlo podľa písm. A dd), sumou 40 Kčs, ak ide o činnosť uvedenú pod písm. A ee), sumou 200 Kčs, ak ide o činnosť uvedenú pod písm. A ff), sumou 300 Kčs, ak ide o výlučne kúzelnícke produkcie podľa písm. A gg), sumou 300 Kčs, ak ide o kúzelnícke a akrobatické produkcie podľa písm. A gg). 3. Za prestarnutého sa považuje prevádzateľ starší ako 65 rokov. Za invalidného sa považuje prevádzateľ, ktorý lekárskym vysvedčením ústavu národného zdravia preukáže invaliditu vyššiu ako 60 %. | |
+
+  - 24 | Schválenie prevádzkárne alebo zmien prevádzkárne podľa III. hlavy živnostenského poriadku, pokiaľ sa týka živnostenského zákona | 100 až 2000 |
+
+  - | Poznámky: 1. V medziach sadzby vyrubuje sa poplatok spravidla vo výške 1/2 % z ceny strojového vybavenia prevádzkárne a iných investícií. 2. Národné podniky a iné organizácie, na ktoré sa vzťahujú predpisy o národných podnikoch, podniky miestneho priemyslu a podniky komunálneho hospodárstva sú od tohto poplatku oslobodené. | |
+
+  - 25 | Povolenie výnimky z ustanovenia § 2 ods. 1 zák. č. 119/1948 Zb., o vyhradení zahraničného obchodu a medzinárodného zasielateľstva určitým podnikom (§ 2 ods. 4 cit. zák.) | 500 až 40 000 (podľa významu povolenia pre žiadateľa). |
+
+  - 26 | a) Povolenie na zriadenie účastinnej spoločnosti | 200 až 20 000 (podľa účastinného kapitálu); |
+
+  - | b) schválenie stanov alebo zmeny stanov už jestvujúcej účastinnej spoločnosti | 200 až 10 000 (podľa rozsahu stanov alebo ich zmeny); |
+
+  - | c) predĺženie lehoty na preukaz o splnení podmienok určených v povolení na zriadenie účastinnej spoločnosti | 200 až 10 000 |
+
+  - | Poznámka: Správny orgán môže od vybrania poplatkov podľa tejto položky upustiť. | |
+
+  - 27 | Povolenie dovozu, vývozu, prípadne prevozu tovaru, z ceny tovaru | 1/2 % najmenej však 10 Kčs. |
+
+  - | Poznámka: Od poplatku sú oslobodené národné podniky a iné organizácie, na ktoré sa vzťahujú predpisy o národných podnikoch, podniky miestneho priemyslu, podniky komunálneho hospodárstva a ľudové družstvá, ako i podniky zahraničného obchodu. | |
+
+  - 28 | Colné prejednanie tovaru na colnisku mimo úradných hodín, povolené podľa voľnej úvahy za každého zúčastneného zamestnanca a za každú i len začatú hodinu úkonu | 5 |
+
+  - | Poznámky: 1. Za úkon trvajúci kratší čas než 1/4 hodiny sa poplatok nevyberá. 2. Podniky zahraničného obchodu sú od tohto poplatku oslobodené. | |
+
+  - 29 | Colné prejednanie tovaru mimo colniska, povolené podľa voľnej úvahy, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu | |
+
+  - | a) v úradných hodinách | 3 |
+
+  - | b) mimo úradných hodín | 8 |
+
+  - | Poznámky: 1. Za vyžiadaný úkon, ktorý vyslaný zamestnanec nemohol po príchode na miesto vykonať vinou žiadateľa alebo pre iné príčiny colnou správou nezavinené, vyberie sa poplatok 40 Kčs. 2. Pri vzdialenosti miesta úkonu od pravidelného pracovného miesta vyslaného zamestnanca nad 10 km zvyšuje sa celý poplatok, s výnimkou poplatku uvedeného v poznámke 1, o 2 Kčs za každých ďalších 5 km alebo zlomok tejto vzdialenosti. Ak žiada stránka, aby vyslaný zamestnanec použil pri ceste na miesto úkonu rýchlik, vyberie sa zvýšenie za prvých 5 km (ich zlomok) nad vzdialenosť 10 km sumou 16 Kčs a za každých ďalších 5 km (ich zlomok) sumou 2 Kčs. Vzdialenosť sa meria podľa ciest najrýchlejšieho dopravného spojenia. 3. Náhrada cestovných výdavkov sa popri poplatku nepožaduje. 4. Podniky zahraničného obchodu sú od tohto poplatku oslobodené. | |
+
+  - 30 | Colný sprievod tovaru podliehajúceho colnému dozoru v doprave po ceste, avšak mimo úseku medzi colnou hranicou a pohraničnou colnicou, ako i colný sprievod v doprave po vode, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu | 6 |
+
+  - | Poznámky: 1. Pri vzdialenosti konečného miesta sprievodu od pravidelného pracovného miesta vyslaného zamestnanca nad 10 km zvyšuje sa celý poplatok o 2 Kčs za každých ďalších 5 km alebo zlomok tejto vzdialenosti. Vzdialenosť sa meria podľa cesty sprievodu. 2. Náhrada cestovných výdavkov sa popri poplatku nepožaduje. 3. Podniky zahraničného obchodu sú od tohto poplatku oslobodené. | |
+
+  - 31 | a) Povolenie na vývoz vecných darov, sťahovaných zvrškov a cenných predmetov, z ceny vyvážaných predmetov | 3 % až 50 % najmenej však 10 Kčs; |
+
+  - | b) predĺženie platnosti povolenia uvedeného pod písm. a) | 10 až 200 |
+
+  - | c) udelenie povolenia podľa zákona o devízovom hospodárstve, vynímajúc povolenie uvedené pod písm. a), z ceny | 1/2 % až 20 % |
+
+  - | Poznámky: 1. Poplatok určený pod písm. b) vyrubuje sa v medziach sadzby vo výške 10 % poplatku vyrubeného podľa písm. a) za povolenie, ktorého platnosť sa predlžuje. 2. Ak je to vo všeobecnom záujme, môže správny orgán od vybrania poplatkov podľa tejto položky upustiť; od vybrania poplatkov podľa písm. a) a b) môže správny orgán upustiť aj vtedy, ak neprevyšuje cena vyvážaných predmetov 100 Kčs. | |
 
   - Oddiel D Vodné hospodárstvo
 
@@ -210,7 +328,7 @@
 
   - 32 | Povolenie alebo súhlas udelený vodohospodárskym orgánom | 40 až 2000
 
-  - | Poznámky: 1. V medziach sadzby sa poplatok vyrubuje: a) podľa množstva vody, odoberanej alebo vypúšťanej za deň (jeho časť), prepočítaného na priemer v l/sec za 24 hodín, a to pri množstve do 0.50 l/sec sumou 40 Kčs od 0.51 do 0.75 l/sec sumou 80 Kčs od 0.76 do 1.00 l/sec sumou 120 Kčs od 1.01 do 1.50 l/sec sumou 200 Kčs od 1.51 do 2.00 l/sec sumou 300 Kčs od 2.01 do 3.00 l/sec sumou 400 Kčs od 3.01 do 5.00 l/sec sumou 500 Kčs od 5.01 do 10.00 l/sec sumou 700 Kčs nad 10.00 l/sec sumou 1000 Kčs b) podľa rozpočítaného nákladu na vodohospodársku alebo stavebnú investíciu, a to pri náklade do 7 000 Kčs sumou 40 Kčs od 7 000 Kčs do 12 000 Kčs sumou 60 Kčs od 12 000 Kčs do 20 000 Kčs sumou 100 Kčs od 20 000 Kčs do 50 000 Kčs sumou 200 Kčs od 50 000 Kčs do 100 000 Kčs sumou 350 Kčs od 100 000 Kčs do 200 000 Kčs sumou 600 Kčs nad 200 000 Kčs sumou 1000 Kčs c) podľa významu povolenia alebo súhlasu pre žiadateľa (napr. podľa úžitku z investície a pod.), ak nemožno poplatok určiť podľa písm. a) alebo b). Ak je konanie obťažné (rozsiahle a zložité zisťovanie podkladov, zabezpečovanie dôkazov a pod.), zvýšia sa sadzby uvedené pod písm. a) a b) o 50 až 100 %. Za povolenie alebo súhlas, za ktorý by sa v medziach sadzby mohol vyrubiť poplatok ako podľa písm. a), tak podľa písm. b) alebo c) (ak sa týka konanie viacej žiadostí toho istého žiadateľa), vyrubí sa poplatok len jednou z týchto sadzieb, a to tou, ktorá je najvyššia. 2. Od poplatku sú oslobodené národné podniky a iné organizácie, na ktoré sa vzťahujú predpisy o národných podnikoch, podniky miestneho priemyslu a podniky komunálneho hospodárstva. |
+  - | Poznámky: 1. V medziach sadzby sa poplatok vyrubuje: a) podľa množstva vody, odoberanej alebo vypúšťanej za deň (jeho časť), prepočítaného na priemer v l/sec za 24 hodín, a to pri množstve do 0.50 l/sec sumou 40 Kčs od 0.51 do 0.75 l/sec sumou 80 Kčs od 0.76 do 1.00 l/sec sumou 120 Kčs od 1.01 do 1.50 l/sec sumou 200 Kčs od 1.51 do 2.00 l/sec sumou 300 Kčs od 2.01 do 3.00 l/sec sumou 400 Kčs od 3.01 do 5.00 l/sec sumou 500 Kčs od 5.01 do 10.00 l/sec sumou 700 Kčs nad 10.00 l/sec sumou 1000 Kčs b) podľa rozpočítaného nákladu na vodohospodársku alebo stavebnú investíciu, a to pri náklade do 7 000 Kčs sumou 40 Kčs od 7 000 Kčs do 12 000 Kčs sumou 60 Kčs od 12 000 Kčs do 20 000 Kčs sumou 100 Kčs od 20 000 Kčs do 50 000 Kčs sumou 200 Kčs od 50 000 Kčs do 100 000 Kčs sumou 350 Kčs od 100 000 Kčs do 200 000 Kčs sumou 600 Kčs nad 200 000 Kčs sumou 1000 Kčs c) podľa významu povolenia alebo súhlasu pre žiadateľa (napr. podľa úžitku z investície a pod.), ak nemožno poplatok určiť podľa písm. a) alebo b). Ak je konanie obťažné (rozsiahle a zložité zisťovanie podkladov, zabezpečovanie dôkazov a pod.), zvýšia sa sadzby uvedené pod písm. a) a b) o 50 až 100 %. Za povolenie alebo súhlas, za ktorý by sa v medziach sadzby mohol vyrubiť poplatok ako podľa písm. a), tak podľa písm. b) alebo c) (ak sa týka konanie viacej žiadostí toho istého žiadateľa), vyrubí sa poplatok len jednou z týchto sadzieb, a to tou, ktorá je najvyššia. 2. Od poplatku sú oslobodené jednotné roľnícke družstvá, ktoré prijali vzorové stanovy. |
 
   - Oddiel E Výstavba. Odborný technický dozor Štátnej technickej inšpekcie
 
@@ -228,11 +346,9 @@
 
   - 35 | Povolenie výnimky zo záväznosti typu stavby, určeného Ministerstvom miestneho hospodárstva, z rozpočítaného stavebného nákladu | 1/2 <sup>o</sup>/<sub>oo</sub>, najmenej však 100 Kčs,
 
-  - 36 | Konanie o žiadosti za určenie prípustnej výšky nájomného z bytov, častí bytov, iných miestností alebo z budov alebo za určenie prípustnej výšky vedľajších platieb spojených s užívaním týchto nájomných predmetov, z doterajšieho ročného nájomného alebo z doterajších ročných vedľajších platieb | 1/2 <sup>o</sup>/<sub>oo</sub>, najmenej však 10 Kčs,
+  - 36 | Konanie o žiadosti (sťažnosti) o určenie prípustnej výšky nájomného z bytov, častí bytov, iných miestností alebo z budov alebo o určenie prípustnej výšky vedľajších platieb spojených s užívaním týchto nájomných predmetov, za každý nájomný predmet | 10
 
-  - | ak nebol nájomný predmet doteraz prenajatý, za každý nájomný predmet | 10
-
-  - | Poznámky: 1. Ak sa žiada o určenie prípustnej výšky nájomného alebo vedľajších platieb zo všetkých miestností prenajatých v budove rôznym nájomníkom, platí sa poplatok zo súčtu doterajšieho ročného nájomného (doterajších ročných vedľajších platieb) zo všetkých prenajatých miestností v budove. 2. Nájomným predmetom rozumie sa miestnosť alebo súbor miestností, ktoré sú predmetom jednej nájomnej zmluvy. 3. Popri poplatku podľa tejto položky nevyberá sa poplatok za komisionálne konanie podľa pol. 6. 4. Viď poznámku 1 k celému sadzobníku. |
+  - | Poznámky: 1. Nájomným predmetom sa rozumie miestnosť alebo súbor miestností, ktoré sú predmetom jednej nájomnej zmluvy. 2. Vedľa poplatku podľa tejto položky sa nevyberá poplatok za komisionálne konanie podľa pol. 6. 3. Pozri poznámku 1 k celému sadzobníku. |
 
   - | II. Odborný technický dozor Štátnej technickej inšpekcie |
 
@@ -444,53 +560,53 @@
 
   - | Poznámky: 1. Poplatok sa vyberie plnou sadzbou, i keď skúška sa nemôže bez zavinenia skúšobného orgánu ani začať. 2. Pri motorových vozidlách zariadených pre invalidov znižuje sa poplatok na polovicu. 3. Od poplatku je oslobodená skúška, ktorá predchádza schváleniu technickej spôsobilosti, za ktoré sa vyberá poplatok podľa pol. 74. | |
 
-  - 73 | a) Pridelenie štátnej poznávacej značky a vydanie technického preukazu a osvedčenia o technickom preukaze pre motorové vozidlo hromadne vyrobené alebo dovezené alebo pre jednotlivé motorové vozidlo zostavené výrobcom socialistického sektora | 50 | 30
+  - 73 | a) Pridelenie štátnej poznávacej značky a vydanie dokladov pre motorové vozidlo (príves) hromadne vyrobené alebo dovezené (i jednotlivo) | 50 | 30
 
-  - | b) pridelenie štátnej poznávacej značky a vydanie technického preukazu a osvedčenia o technickom preukaze pre jednotlivé motorové vozidlo, a to, ak ide | |
+  - | b) pridelenie štátnej poznávacej značky a vydanie dokladov pre motorové vozidlo jednotlivo zostavené, a to ak ide | |
 
-  - | aa) o motocykel (i s prívesným alebo postranným vozíkom) alebo motocyklovú trojkolku (rikšu) s novými konštrukčnými prvkami, zostavené súkromným výrobcom (i amatérsky) zo súčiastok: | |
+  - | aa) o motocykel (aj s postranným vozíkom), skúter alebo motocyklovú trojkolku (rikšu) s novými konštrukčnými prvkami, zostavené zo súčiastok, | |
 
-  - | o motocykel s obsahom valcov do 125 ccm | - | 1200
+  - | pri motocykli s obsahom valcov do 125 ccm | - | 1200
 
-  - | o motocykel s obsahom valcov do 150 ccm | - | 1600
+  - | pri motocykli s obsahom valcov do 175 ccm | - | 1600
 
-  - | o motocykel s obsahom valcov do 250 ccm | - | 2500
+  - | pri motocykli s obsahom valcov do 250 ccm | - | 2500
 
-  - | o motocykel s obsahom valcov nad 250 ccm | - | 3000
+  - | pri motocykli s obsahom valcov nad 250 ccm | - | 3000
 
-  - | o motocyklovú trojkolku (rikšu) bez ohľadu na obsah valcov | - | 3000
+  - | pri motocyklovej trojkolke (rikši) bez ohľadu na obsah valcov | - | 3000
 
-  - | o motorový vozík pre invalidov | - | 130
+  - | bb) o motorový vozík pre invalidov, zostavený zo súčiastok | - | 100
 
-  - | bb) o osobný automobil, dodávkový automobil zariadený aj na prepravu osôb (napr. Station-Wagon) alebo o tzv. ľudové vozidielko, zostavené súkromným výrobcom (i amatérsky) zo súčiastok | 25 % úradnej odhadnej ceny vozidla v kompletnom stave, zistenej bezprostredne pred vykonaním skúšky za účelom schválenia jeho technickej spôsobilosti |
+  - | cc) o osobný automobil (aj tzv. Station-Wagon) alebo o tzv. ľudové vozidielko, zostavené zo súčiastok | 30 % úradnej odhadnej ceny vozidla v kompletnom stave, zistenej bezprostredne pred vykonaním skúšky za účelom schválenia jeho technickej spôsobilosti; | -
 
   - | c) pridelenie evidenčnej značky pre motorové kolo s obsahom do 50 ccm | - | 10
 
-  - | Poznámky: 1. Poplatok podľa písm. a) sa pri motorových vozidlách zariadených pre invalidov znižuje na polovicu. 2. Ak sa vo výnimočných prípadoch dodatočne povolí stavba motorového vozidla uvedeného pod písm. b), ktoré bolo súkromným výrobcom zostavené bez predchádzajúceho povolenia dopravného inšpektorátu a výkonného orgánu krajského národného výboru, vyberie sa za pridelenie štátnej poznávacej značky poplatok podľa písm. b) aa) a bb) dvojnásobnou sadzbou. | |
+  - | Poznámky: 1. Poplatok podľa písm. a) sa pri motorových vozidlách zariadených pre invalidov znižuje na polovicu. 2. Ak sa vo výnimočných prípadoch povolí dodatočne stavba motorového vozidla uvedeného pod písm. b), ktoré bolo zostavené bez predchádzajúceho povolenia dopravného inšpektorátu a výkonného orgánu krajského národného výboru, vyberie sa za pridelenie štátnej poznávacej značky poplatok podľa písm. b) dvojnásobnou sadzbou. | |
 
   - 74 | Schválenie technickej spôsobilosti | |
 
-  - | a) nákladného automobilu pre hromadnú prepravu osôb | 20 | -
+  - | a) nákladného automobilu pre hromadnú prepravu osôb | 50 | -
 
-  - | b) častí motorového vozidla, vyrábaných hromadne alebo jednotlivo | 20 | 20
+  - | b) častí motorového vozidla hromadne vyrábaných | 100 | 100
 
-  - | c) motorového vozidla alebo prívesu po zmene jeho podstatných častí, a to, | |
+  - | c) motorového vozidla alebo prívesu po zmene jeho podstatných častí, a to | |
 
-  - | aa) ak zmena záleží v prestavbe dodávkového automobilu na automobil osobný alebo automobil dodávkový, zariadený aj na prepravu osôb | 1000 | -
+  - | aa) ak záleží zmena v prestavbe dodávkového automobilu na osobný automobil (aj tzv. Station-Wagon) | 1000 | -
 
-  - | bb) ak vznikne zmenou podstatných častí motocykel iného typu, | |
+  - | bb) po výmene druhej podstatnej časti, ak sa ako pri prvej, tak pri druhej výmene použili podstatné časti iného typu, ako boli pôvodné časti, a to | |
 
-  - | pri obsahu valcov do 125 ccm | - | 1200
+  - | pri motocykli s obsahom valcov do 125 ccm | - | 1200
 
-  - | pri obsahu valcov do 150 ccm | - | 1600
+  - | pri motocykli s obsahom valcov do 175 ccm | - | 1600
 
-  - | pri obsahu valcov do 250 ccm | - | 2500
+  - | pri motocykli s obsahom valcov do 250 ccm | - | 2500
 
-  - | pri obsahu valcov nad 250 ccm | - | 3000
+  - | pri osobnom automobile (aj tzv. Station-Wagon) alebo ľudovom vozidielku | 30 % úradnej odhadnej ceny vozidla v kompletnom stave, zistenej bezprostredne pred vykonaním skúšky za účelom schválenia jeho technichnickej spôsobilosti; | -
 
-  - | cc) v iných než pod písm. aa) a bb) uvedených prípadoch, najmä tiež, ak sa k motocyklu pripojí postranný vozík | 200 |
+  - | cc) v iných ako pod písm. aa) a bb) uvedených prípadoch, najmä tiež ak sa k motocyklu pripojí postranný vozík | 200 | 100
 
-  - | Poznámky k písm. c) bb): 1. Za zmenu typu motocykla sa považuje už výmena motora a rámu (súčasná alebo postupná) za motor a rám patriaci k jednému typu, odlišnému od typu pôvodného motora a rámu. Ak motocykel bol zostavený zo súčiastok rôznych typov, považuje sa za zmenu typu výmena motora alebo rámu alebo oboch týchto súčiastok, ak ňou vznikne motocykel jedného typu. 2. Poplatok podľa písm. c) bb) sa zvýši o 20 %, ak bola schválená technická spôsobilosť motocykla, ktorého prestavba bola vykonaná bez predchádzajúceho povolenia dopravného inšpektorátu a bola vo výnimočných prípadoch povolená dodatočne. | 140 |
+  - | Poznámky k písm. c): 1. Poplatok podľa písm. c) bb) sa zvýši o 20 %, ak bola schválená technická spôsobilosť vozidla, ktorého prestavba bola vykonaná bez predchádzajúceho povolenia dopravného inšpektorátu a bola vo výnimočných prípadoch povolená dodatočne. 2. Pri motorových vozidlách zariadených pre invalidov znižuje sa poplatok podľa písm. c) cc) na polovicu. 3. Súčasná výmena dvoch podstatných častí motorového vozidla za časti iného typu sa považuje za zostavenie vozidla zo súčiastok. | |
 
   - 75 | Povolenie výnimiek z ustanovení o rozmeroch, výstroji a prevádzkových podmienkach motorových vozidiel alebo prívesov | 20 až 1000 (podľa osobitnej smernice). | 20 až 1000 (podľa osobitnej smernice).
 
