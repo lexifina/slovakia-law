@@ -1,1 +1,0 @@
-- 1) Adresa: Sokolov, námestie Budovateľov - Dom kultúry, telefón č. 2252.
