@@ -52,6 +52,12 @@
 
       - Strany si vzájomne poskytujú právnu pomoc vykonávaním jednotlivých procesných úkonov, najmä obstarávaním a zasielaním spisov a písomností, odňatím, zaslaním a vydaním vecí, vykonávaním dôkazov výsluchom (svedkov, strán, obvinených a podobne), súdnou ohliadkou, znaleckým posudkom a prehľadaním, ako aj vybavovaním žiadostí o doručenie.
 
+    - Článok 4A
+
+      - (1) Právna pomoc zahŕňa aj zisťovanie pobytu osôb na území zmluvnej strany, proti ktorým osoby majúce bydlisko na území druhej zmluvnej strany uplatňujú alebo budú uplatňovať občianskoprávne alebo rodinnoprávne nároky. Dožadujúce sa orgány sú povinné poskytnúť za tým účelom podklady, z ktorých vyplývajú údaje pre zistenie pobytu.
+
+      - (2) Právna pomoc obsahuje ďalej zisťovanie organizácie, v ktorej sú zamestnané osoby povinné platiť výživné, ak výživné uplatňujú alebo majú uplatňovať osoby oprávnené výživné požadovať, ktoré majú bydlisko alebo pobyt na území druhej zmluvnej strany. Táto povinnosť zahŕňa aj zistenie výšky mesačného príjmu, ktorý dlžník dosahoval v posledných 12 mesiacoch.
+
     - Článok 5 Úprava písomností
 
       - (1) Písomnosti, ktoré si zasielajú úrady pri poskytovaní právnej pomoci, musia sa doložiť pečiatkou.
@@ -132,7 +138,13 @@
 
     - Článok 16 Jazyk
 
-      - Úrady Strán používajú vo vzájomných stykoch vlastný jazyk alebo jazyk ruský.
+      - (1) Orgány zmluvných strán používajú vo vzájomnom právnom styku vlastný jazyk alebo ruský jazyk.
+
+      - (2) Na uľahčenie právneho styku sa podľa možnosti pripájajú preklady písomností v jazyku dožiadanej zmluvnej strany aj v tých prípadoch, v ktorých ich Zmluva povinne nepredpisuje.
+
+    - Článok 16A Dohody na vykonanie Zmluvy
+
+      - Príslušné ministerstvá a generálni prokurátori zmluvných strán môžu na základe Zmluvy a na jej vykonanie dojednávať dohody.
 
   - ODDIEL II Osobitná časť
 
@@ -194,7 +206,9 @@
 
         - Článok 22
 
-          - Príslušníkom jednej Strany sa poskytne na území druhej Strany oslobodenie od poplatkov a preddavkov za tých istých podmienok a v tom istom rozsahu ako tuzemcom.
+          - (1) Štátnym občanom jednej zmluvnej strany sa na území druhej zmluvnej strany poskytne oslobodenie od poplatkov a preddavkov na konanie za rovnakých podmienok a v rovnakom rozsahu ako vlastným štátnym občanom.
+
+          - (2) Oslobodenie od poplatkov a preddavkov podľa odseku 1 platí pre všetky procesné úkony, ktoré sa v tomto konaní vyskytnú aj pred súdmi druhej zmluvnej strany, včítane výkonu rozhodnutia.
 
         - Článok 23
 
@@ -228,25 +242,71 @@
 
           - (3) Vyhlásenie nezvestného za mŕtveho sa spravuje právom Strany, ktorej príslušníkom bol v čase, keď podľa posledných zpráv bol ešte nažive.
 
-        - Článok 27 Uznanie rozhodnutia v manželských veciach
+        - Článok 27 Uzavretie manželstva
 
-          - (1) Právoplatné rozhodnutia súdov jednej Strany v manželských veciach sú účinné na území druhej Strany bez uznávacieho konania, ak v čase, keď nastala právoplatnosť rozhodnutia, bol aspoň jeden z manželov príslušníkom Strany, na území ktorej sa nachádza rozhodujúci súd a žiadny súd na území druhej Strany už predtým vo veci samej právoplatne nerozhodol.
+          - (1) Podmienky uzavretia manželstva sa určujú pre každého z budúcich manželov podľa zákonov zmluvnej strany, ktorej je štátnym občanom.
 
-          - (2) Ustanovenie odseku 1 sa použije aj na rozhodnutia vydané predtým, než táto zmluva nadobudne účinnosť.
+          - (2) Forma uzavretia manželstva sa spravuje podľa zákonov zmluvnej strany, na území ktorej sa manželstvo uzaviera.
 
-      - Zapretie a zistenie otcovstva
+          - (3) Forma uzavretia manželstva, ktoré sa uzaviera pred členom diplomatického alebo konzulárneho zastúpenia, ktorý je na to splnomocnený, sa spravuje podľa zákonov štátu vysielajúceho diplomatického alebo konzulárneho zástupcu.
+
+      - Osobné a majetkové vzťahy manželov
+
+        - Článok 27A
+
+          - (1) Osobné a majetkové vzťahy manželov rovnakého štátneho občianstva sa spravujú podľa zákonov zmluvnej strany, ktorej sú štátnymi občanmi.
+
+          - (2) Ak je jeden z manželov štátnym občanom jednej zmluvnej strany a druhý štátnym občanom druhej zmluvnej strany, spravujú sa ich osobné a majetkové vzťahy zákonmi zmluvnej strany, na území ktorej majú alebo mali posledné spoločné bydlisko. Ak také spoločné bydlisko nemali, použije súd vlastné právo.
+
+        - Článok 27B
+
+          - (1) Rozhodovať o osobných a majetkových vzťahoch manželov má právomoc súd zmluvnej strany, ktorej sú manželia štátnymi občanmi. Ak manželia v čase podania návrhu majú svoje bydlisko na území druhej zmluvnej strany, má právomoc aj súd tejto zmluvnej strany.
+
+          - (2) Ak jeden z manželov je štátnym občanom jednej zmluvnej strany a druhý štátnym občanom druhej zmluvnej strany, má právomoc rozhodovať o osobných a majetkových vzťahoch manželov súd zmluvnej strany, na území ktorej majú alebo mali manželia posledné spoločné bydlisko.
+
+          - (3) Ak manželia nemajú spoločné bydlisko, majú právomoc súdy oboch zmluvných strán.
+
+          - (4) Ak sa konanie začalo na súde jednej zmluvnej strany, nemôže sa ten istý nárok medzi tými istými účastníkmi uplatňovať na súde druhej zmluvnej strany. Súd, na ktorom sa nárok uplatnil neskoršie, vysloví z úradnej moci svoju nepríslušnosť.
+
+      - Rozvod
+
+        - Článok 27C
+
+          - (1) O rozvode manželstva platia zákony zmluvnej strany, ktorej štátnymi občanmi sú oba manželia v čase podania návrhu.
+
+          - (2) Ak jeden z manželov je štátnym občanom jednej zmluvnej strany a druhý štátnym občanom druhej zmluvnej strany, použije súd, na ktorom sa konanie o rozvod vykonáva, vlastné zákony.
+
+        - Článok 27D
+
+          - (1) Pre rozvod podľa článku 27C ods. 1 Zmluvy má právomoc súd zmluvnej strany, ktorej štátnymi občanmi sú manželia v čase podania návrhu. Ak obaja manželia majú v čase podania návrhu svoje bydlisko na území druhej zmluvnej strany, má právomoc aj tento súd.
+
+          - (2) Pre rozvod podľa článku 27C ods. 2 Zmluvy má právomoc súd zmluvnej strany, na území ktorej majú obaja manželia svoje bydlisko.
+
+          - (3) Ak jeden z manželov má svoje bydlisko na území jednej zmluvnej strany a druhý na území druhej zmluvnej strany, majú pre konanie o rozvod manželstva právomoc súdy oboch zmluvných strán.
+
+          - (4) Ak sa konanie začalo na súde jednej zmluvnej strany, nemôže sa ten istý nárok medzi tými istými účastníkmi uplatňovať na súde druhej zmluvnej strany. Súd, na ktorom sa nárok uplatnil neskoršie, vysloví z úradnej moci svoju nepríslušnosť.
+
+        - Článok 27E
+
+          - O zistení neplatnosti manželstva alebo o určení, či tu manželstvo je alebo nie, rovnako ako aj o právomoci v týchto prípadoch, platia primerane ustanovenia článkov 27 a 27D Zmluvy.
+
+      - Právne vzťahy medzi rodičmi a deťmi
 
         - Článok 28
 
-          - Otázku, či dieťa pochádza z manželstva, treba rozhodnúť podľa právneho poriadku Strany, ktorej občianstvo dieťa získalo narodením.
+          - (1) Určenie a popretie otcovstva sa spravuje podľa zákonov zmluvnej strany, ktorej štátne občianstvo získalo dieťa narodením.
+
+          - (2) Pre formu uznania otcovstva stačí dodržať zákony zmluvnej strany, na území ktorej sa vyhlásenie o uznaní urobilo.
 
         - Článok 29
 
-          - Právne pomery medzi dieťaťom narodeným mimo manželstva a jeho matkou na strane jednej a otcom na strane druhej sa spravujú právnym poriadkom Strany, ktorej občianstvo dieťa získalo narodením.
+          - Právne vzťahy medzi rodičmi a deťmi sa spravujú zákonmi zmluvnej strany, ktorej štátnym občanom je dieťa.
 
         - Článok 30
 
-          - Na zapretie a zistenie otcovstva je kompetentný súd Strany, ktorej právny poriadok je rozhodný podľa článku 28 a 29. Ak majú navrhovateľ i odporca (žalobca a žalovaný) svoje bydlisko na území tej istej Strany, je i súd tejto Strany kompetentný.
+          - (1) Rozhodovať o právnych vzťahoch uvedených v článkoch 28 a 29 Zmluvy má právomoc tak súd zmluvnej strany, ktorej štátnym občanom je dieťa, ako aj súd zmluvnej strany, na území ktorej má dieťa svoje bydlisko alebo pobyt.
+
+          - (2) Ak sa konanie začalo na súde jednej zmluvnej strany, nemôže sa ten istý nárok medzi tými istými účastníkmi uplatňovať na súde druhej zmluvnej strany. Súd, na ktorom sa nárok uplatnil neskoršie, vysloví z úradnej moci svoju nepríslušnosť.
 
       - Poručenstvo a opatrovanstvo
 
@@ -380,6 +440,10 @@
 
         - Článok 49
 
+          - Právoplatné rozhodnutia orgánov jednej zmluvnej strany o nemajetkových veciach občianskych a rodinných sa budú na území druhej zmluvnej strany bez ďalšieho konania uznávať, ak orgán, ktorý rozhodnutie vydal, má právomoc podľa ustanovení tejto Zmluvy a ak žiaden iný orgán druhej zmluvnej strany nevydal už prv právoplatné rozhodnutie v tejto veci medzi tými istými účastníkmi konania.
+
+        - Článok 49A
+
           - (1) Rozhodnutia v občianskoprávnych veciach a veciach rodinného práva, ktoré boli vydané na území jednej Strany, budú uznané na území druhej Strany, pokiaľ sú rozhodnutiami o majetkovoprávnych nárokoch a sú vydané po tom, keď táto Zmluva nadobudla účinnosť.
 
           - (2) Na žiadosť ministra spravodlivosti jednej Strany môže minister spravodlivosti druhej Strany uznať právoplatné majetkovoprávne rozhodnutia, ktoré boli vydané v dobe medzi 8. májom 1945 a dňom, keď táto Zmluva nadobudne účinnosť.
@@ -406,7 +470,7 @@
 
           - (1) O návrhu na nariadenie exekúcie (na udelenie doložky o vykonateľnosti alebo na vyhlásenie vykonateľnosti) rozhoduje kompetentný justičný úrad Strany, na území ktorej sa má exekúcia vykonať.
 
-          - (2) Návrh treba podať buď na justičnom úrade, ktorý o veci rozhodol v prvej stolici, alebo na justičnom úrade, ktorý je kompetentný návrh vybaviť vo veci samej. Návrh podaný na súde prvej stolice bude postúpený justičnému úradu kompetentnému na rozhodnutie vo veci samej.
+          - (2) Návrh treba podať buď na justičnom úrade, ktorý o veci rozhodol v prvej stolici, alebo na justičnom úrade, ktorý je príslušný návrh vybaviť vo veci samej. Návrh podaný na súde prvej stolice sa postúpi justičnému úradu príslušnému rozhodovať vo veci samej. Návrh na povolenie výkonu rozhodnutia sa pokladá zároveň za návrh na vykonanie rozhodnutia. Zmluvné strany zaručujú, že rozhodnutie bude vykonané z úradnej moci.
 
           - (3) Náležitosti návrhu sa spravujú zákonmi Strany, na území ktorej sa má exekúcia vykonať.
 
@@ -460,17 +524,45 @@
 
         - e) ak bol proti osobe, o vydanie ktorej sa žiada, na území dožiadanej Strany vynesený rozsudok pre ten istý trestný čin, alebo vydané rozhodnutie, ktorým sa konanie skončilo.
 
-      - Článok 60 Prevzatie trestného stíhania
+      - Článok 60 Žiadosť o prevzatie trestného stíhania
 
-        - (1) Strany sa zaväzujú, že na žiadosť druhej Strany zavedú podľa vlastných právnych predpisov trestné stíhanie svojich štátnych občanov, ktorí sú podozrelí, že na území druhej Strany spáchali extradičný trestný čin.
+        - (1) Zmluvné strany sa zaväzujú na žiadosť druhej zmluvnej strany uskutočňovať podľa vlastných zákonov trestné stíhanie svojich štátnych občanov, ktorí sú podozriví, že na území dožadujúcej zmluvnej strany spáchali trestný čin alebo prečin (Straftat).
 
-        - (2) K žiadosti sa pripoja všetky údaje a dôkazy o trestnom čine, ktoré sú poruke.
+        - (2) Zmluvné strany môžu žiadať o prevzatie stíhania takých porušení práva, ktoré sa podľa právneho poriadku dožadujúcej zmluvnej strany považujú za trestný čin alebo prečin (Straftat) a podľa právneho poriadku dožiadanej zmluvnej strany iba za priestupok alebo porušenie poriadkových predpisov.
 
-        - (3) Dožiadaná Strana upovedomí Stranu dožadujúcu o výsledku trestného konania a ak dôjde k vydaniu rozsudku, zašle tiež jeho odpis.
+        - Dožiadaná zmluvná strana vybaví dožiadanie podľa vlastných právnych predpisov.
+
+        - (3) Občianskoprávne nároky osôb poškodených porušením práva, uplatnené v prevzatom konaní, sa stanú - ak bol podaný návrh na náhradu škody - súčasťou konania.
+
+      - Článok 60A Konanie pri žiadostiach o prevzatie trestného stíhania
+
+        - (1) K žiadosti o prevzatie trestného stíhania treba pripojiť:
+
+        - - údaje týkajúce sa osoby, včítane jej štátneho občianstva,
+
+        - - opis skutkového stavu,
+
+        - - dôkazné prostriedky,
+
+        - - prvopis spisov alebo ich overený odpis, pokiaľ je to potrebné, inak výsledok vyšetrovania,
+
+        - - odpis znenia ustanovení, ktoré sa majú použiť na čin podľa práva platného v mieste činu,
+
+        - - návrh na náhradu škody,
+
+        - - návrh na trestné stíhanie, pokiaľ je to podľa práva dožiadanej zmluvnej strany potrebné.
+
+        - (2) Žiadosť o prevzatie trestného stíhania musí byť podpísaná a opatrená pečiatkou príslušného orgánu.
+
+        - (3) Ak obvinený je v čase žiadosti o prevzatie trestného stíhania vo vyšetrovacej väzbe alebo ak bol predbežne zadržaný, treba zabezpečiť jeho prevezenie na územie druhej zmluvnej strany.
+
+        - (4) Dožiadaná zmluvná strana je povinná dožadujúcej zmluvnej strane podať správu o konečnom rozhodnutí. Na požiadanie dožadujúcej zmluvnej strany treba jej zaslať vyhotovenie konečného rozhodnutia.
 
       - Článok 61 Spôsob styku
 
-        - Ministri spravodlivosti sa stýkajú vo veciach vydávania a prevzatia trestného stíhania priamo. Dokiaľ obžaloba sa nepodala, stýkajú sa generálni prokurátori vo veciach prevzatia trestného stíhania priamo.
+        - (1) Vo veciach vydania a pri prevzatí trestného stíhania sú ministri spravodlivosti a generálni prokurátori zmluvných strán vo vzájomnom styku v rámci svojej pôsobnosti.
+
+        - (2) Činitelia uvedení v odseku 1 sa môžu dohodnúť, že pri prevzatí trestného stíhania budú vo vzájomnom styku súdy alebo prokurátori zmluvných strán.
 
       - Článok 62 Žiadosť o vydanie
 
