@@ -1,0 +1,1 @@
+- 1) Podtrieda 94 jednotnej klasifikácie zamestnaní vydanej podľa vyhlášky Federálneho štatistického úradu č. 129/1971 Zb.
