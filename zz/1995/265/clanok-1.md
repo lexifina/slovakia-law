@@ -16,6 +16,8 @@ Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a št
 
 - Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti, zákon č. 23/1962 Zb. o poľovníctve v znení neskorších predpisov, zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov.“.
 
+- 4. V § 7 ods. 2 sa vypúšťa druhá veta.
+
 - 5. V § 9 sa za odsek 1 vkladajú nové odseky 2, 3, 4 a 5, ktoré znejú:
 
 - „(2)
