@@ -6,10 +6,6 @@
 
 - b) peňažná pomoc v materstve,
 
-- c) podpora pri narodení dieťaťa,
-
-- d) pohrebné,
-
 - e) kúpeľná starostlivosť.
 
 (2) Samostatne zárobkovo činná osoba má nárok na dávku, ak zaplatila poistné na nemocenské poistenie za obdobie od vzniku účasti na nemocenskom poistení samostatne zárobkovo činných osôb do konca kalendárneho mesiaca predchádzajúceho kalendárnemu mesiacu, v ktorom vznikol dôvod na poskytnutie dávky s výnimkou obdobia, za ktoré nie je povinná platiť poistné na nemocenské poistenie podľa osobitného predpisu,<sup>16b</sup>) najneskôr v poslednom dni splatnosti poistného na nemocenské poistenie za kalendárny mesiac predchádzajúci kalendárnemu mesiacu, v ktorom vznikol dôvod na poskytnutie dávky.
