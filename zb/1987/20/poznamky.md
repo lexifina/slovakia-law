@@ -1,18 +1,6 @@
 - 1) Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon).
 
-- 2) Zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů.
-
 - 3) § 100 písm. b) stavebního zákona.
-
-- 4) Zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů.
-
-- 5) Vyhláška č. 122/1984 Sb., o náhradách při vyvlastnění staveb, pozemků, porostů a práv k nim.
-
-- Výnos federálního cenového úřadu, Českého cenového úřadu a Slovenského cenového úřadu ze dne 29. listopadu 1985 č. V-1/86, o cenách sjednávaných dohodou, uveřejněný v Cenovém věstníku částka 52/1985 ze dne 11. prosince 1985, reg. v částce 32/1985 Sb.
-
-- Vyhláška č. 149/1961 Sb., o nákupu, zadávání a prodeji děl výtvarných umění a o některých jiných opatřeních v oboru výtvarných umění, ve znění vyhlášky č. 39/1966Sb.
-
-- Vyhláška č. 128/1984 Sb., o cenách staveb, pozemků, úhradách za zřízení práva osobního užívání pozemků a náhradách za dočasné užívání pozemků.
 
 - 6) § 4 a 5 vyhlášky č. 90/1984 Sb., o správě národního majetku.
 
