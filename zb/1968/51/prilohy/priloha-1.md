@@ -1,0 +1,1 @@
+- Kresby: 4 ![Obrázok 01](../assets/d9161e78058ffe47aa508f25f48ee1b4d08f7cc5eab9f5553825cd92ca9f2f2e.png)
