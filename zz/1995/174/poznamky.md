@@ -1,0 +1,1 @@
+- 1) § 6 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
