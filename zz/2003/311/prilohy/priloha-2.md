@@ -66,7 +66,7 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
   - 9. V miestnosti musí byť systém odstraňovania tekutých a pevných odpadov, ktorý spĺňa hygienické požiadavky.
 
-  - 10. Prevádzkarne na spracovanie zveriny musia mať primerane vybavenú uzamykateľnú miestnosť na výlučné používanie zamestnancami orgánu veterinárnej a potravinovej správy, alebo ak ide o sklady, iné vhodné zariadenia.
+  - 10. Prevádzkarne na spracovanie zveriny musia mať primerane vybavenú uzamykateľnú miestnosť na výlučné používanie zamestnancami orgánu veterinárnej správy, alebo ak ide o sklady, iné vhodné zariadenia.
 
   - 11. V miestnosti musí byť zariadenie umožňujúce vykonávať veterinárne prehliadky a inšpekcie podľa tohto nariadenia v každom čase.
 
@@ -86,7 +86,7 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
     - c) vybavenie, zariadenia a nástroje, ktoré sa používajú pri práci s mäsom, sa musia udržiavať v čistote a dobrom technickom stave; musia sa dôsledne čistiť a dezinfikovať niekoľkokrát počas pracovného dňa, na konci pracovného dňa a vždy pred opätovným použitím, ak boli znečistené.
 
-  - 2. Priestory, miestnosti, nástroje a výrobné zariadenie sa nemôžu používať na iné účely, ako je práca s čerstvým mäsom, hydinovým mäsom alebo zverinou. Rozrábanie tiel voľne žijúcej srstnatej zveri alebo pernatej zveri sa musí vykonávať v inom čase ako rozrábanie čerstvého mäsa alebo hydinového mäsa, alebo králičieho mäsa a pred opätovným použitím na rozrábanie mäsa z iných druhov zvierat sa rozrábkareň musí úplne vyčistiť a vydezinfikovať. Nástroje na rozrábanie mäsa možno používať len na tento účel.
+  - 2. Priestory, miestnosti, nástroje a výrobné zariadenie sa nemôžu používať na iné účely, ako je práca s čerstvým mäsom, hydinovým mäsom alebo zverinou. Rozrábanie tiel voľne žijúcej srstnatej alebo voľne žijúcej pernatej zveri sa musí vykonávať v inom čase a pred opätovným použitím na rozrábanie mäsa z iných druhov zvierat sa rozrábkáreň musí úplne vyčistiť a vydezinfikovať.
 
   - 3. Pracovné nástroje a pomôcky sa nesmú ponechávať zabodnuté v mäse; čistenie mäsa útierkami alebo inými podobnými materiálmi a nafukovanie je zakázané.
 
@@ -106,15 +106,15 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
     - a) veľká voľne žijúca zver musí byť otvorená a vyvrhnutá a orgány dutiny hrudnej, aj keď sú oddelené od tela, a ďalej pečeň a slezina musia sprevádzať zver a musí byť zabezpečená ich identita takým spôsobom, aby úradný veterinárny lekár mohol vykonať prehliadku vnútorností po usmrtení v spojitosti so zvyšným telom zveri; ostatné orgány dutiny brušnej musia byť odstránené a prehliadnuté na mieste. Hlava sa môže oddeliť ako trofej,
 
-    - b) malá voľne žijúca zver musí byť bez dotknutia postupu uvedeného v § 3 ods. 1 písm. a) bode 3 úplne alebo čiastočne vypitvaná na mieste alebo v prevádzkarni na spracovanie zveriny, ak je zver dopravená do tejto prevádzkarne pri teplote prostredia, ktorá neprekračuje 4 <sup>o</sup>C, do 12 hodín od usmrtenia.
+    - b) malá voľne žijúca zver musí byť bez dotknutia postupu uvedeného v § 3 ods. 1 písm. a) bode 2 úplne alebo čiastočne vypitvaná na mieste alebo v prevádzkarni na spracovanie zveriny, ak je zver dopravená do tejto prevádzkarne pri teplote prostredia, ktorá neprekračuje 4 <sup>o</sup>C, do 12 hodín od usmrtenia.
 
-  - 2. Voľne žijúca zver sa musí bezprostredne po vykonaní úkonov uvedených v bode 1 vychladiť na vnútornú teplotu +7 <sup>o</sup>C alebo nižšiu; ak ide o veľkú zver, na teplotu +4 <sup>o</sup>C, alebo nižšiu, ak ide o malú zver. Ak nie je vonkajšia teplota dostatočne nízka, musí sa usmrtená zver premiestniť čo najskôr, a v každom prípade najdlhšie do 12 hodín po usmrtení do prevádzkarne na spracovanie zveriny alebo do zberného strediska a musia sa dodržať tieto požiadavky:
+  - 2. Voľne žijúca zver sa musí bezprostredne po vykonaní úkonov uvedených v bode 1 vychladiť na vnútornú teplotu +7 <sup>o</sup>C alebo nižšiu; ak ide o veľkú zver, na vnútornú teplotu +4 <sup>o</sup>C, alebo nižšiu, ak ide o malú zver. Ak nie je vonkajšia teplota dostatočne nízka, musí sa usmrtená zver premiestniť čo najskôr, a v každom prípade najdlhšie do 12 hodín po usmrtení do prevádzkarne na spracovanie zveriny alebo do zberného strediska a musia sa dodržať tieto požiadavky:
 
     - a) veľká zver sa musí prepravovať do prevádzkarne na spracovanie čo najskôr po vykonaní úkonov uvedených v bode 1 za vyhovujúcich hygienických podmienok, a najmä sa musí zabrániť jej hromadeniu a preprave vo vrstvách,
 
-    - b) počas prepravy do prevádzkarne na spracovanie zveriny musí byť voľne žijúca zver sprevádzaná certifikátom vystaveným úradným veterinárnym lekárom, ktorý potvrdzuje vyhovujúci výsledok prehliadky a stanovuje približný čas usmrtenia.
+    - b) počas prepravy do prevádzkarne na spracovanie zveriny musí byť voľne žijúca zver, ktorej vnútornosti už boli veterinárne prehliadnuté, sprevádzaná certifikátom vystaveným úradným veterinárnym lekárom, ktorý potvrdzuje vyhovujúci výsledok prehliadky a stanovuje približný čas usmrtenia.
 
-  - 3. Vyňatie vnútorností, ak sa to nevykonalo na mieste, sa musí vykonať bez zbytočného omeškania po príchode do prevádzkarne na spracovanie zveriny okrem prípadu uvedeného v § 3 ods.1 písm. e). Pľúca, srdce, pečeň, slezina a mediastinum môžu byť buď oddelené, alebo ponechané v prirodzenom spojení s telom.
+  - 3. Vyňatie vnútorností, ak sa to nevykonalo na mieste, sa musí vykonať bez zbytočného omeškania po príchode do prevádzkarne na spracovanie zveriny okrem prípadu uvedeného v § 3 ods.1 písm. e). Pľúca, srdce, pečeň, obličky, slezina a mediastinum môžu byť buď oddelené, alebo ponechané v prirodzenom spojení s telom.
 
   - 4. Až do ukončenia prehliadky nesmú telá a orgány neprehliadnutej zveri prichádzať do styku s telami a orgánmi zveri, ktorá už bola prehliadnutá, a oddeľovanie, odstraňovanie, rozrábanie a ďalšie ošetrovanie tela pred ukončením prehliadky sa zakazuje.
 
@@ -126,7 +126,7 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
 - ČASŤ D POŽIADAVKY NA ZVERINU Z VOĽNE ŽIJÚCEJ ZVERI URČENÚ NA ROZRÁBANIE
 
-  - 1. Rozrábanie a delenie na menšie časti, ako sú telá, alebo ak ide o veľkú voľne žijúcu zver, ako sú polovičky tiel, vykosťovanie je povolené len v prevádzkarni na spracovanie zveriny schválenej podľa § 7 a vybavenej miestnosťou na sťahovanie koží a miestnosťou na rozrábanie.
+  - 1. Rozrábanie a delenie na menšie časti, ako sú telá, alebo ak ide o veľkú voľne žijúcu zver, ako sú polovičky tiel, vykosťovanie je povolené len v prevádzkarni na spracovanie zveriny schválenej podľa § 7 alebo podľa osobitného predpisu<sup>2</sup>) a vybavenej miestnosťou na sťahovanie koží a miestnosťou na rozrábanie.
 
   - 2. Prevádzkovateľ alebo zodpovedný zástupca prevádzkarne na spracovanie zveriny musí uľahčiť činnosti pri dozore v prevádzkarni a najmä všetky manipulácie, ktoré sa považujú pri tom za potrebné, a musí poskytnúť orgánu veterinárnej správy, ktorý vykonáva dozor, potrebné zariadenia. Najmä musí byť schopný na požiadanie informovať úradného veterinárneho lekára, ktorý vykonáva dozor, o zdroji mäsa privezeného do prevádzkarne a o pôvode usmrtenej zveri.
 
@@ -134,7 +134,7 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
     - a) prisúvať do pracovných miestností postupne a v potrebnom množstve. Po rozrobení, a ak sa vykonáva po zabalení do druhého obalu, sa musí čo najskôr premiestniť do vhodných chladiarenských alebo mraziarenských miestností,
 
-    - b) pri vstupe do miestnosti na rozrábanie skontrolovať; ak sa vykoná jej úprava, pracovné miesto na tieto operácie musí byť vybavené vhodnými zariadeniami a dostatočne osvetlené,
+    - b) pri vstupe do miestnosti na rozrábanie skontrolovať; ak ju treba orezať, pracovné miesto na tieto operácie musí byť vybavené vhodnými zariadeniami a dostatočne osvetlené,
 
     - c) počas rozrábania, vykosťovania, balenia do priameho obalu a do druhého obalu udržiavať trvale na vnútornej teplote +7 <sup>o</sup>C alebo nižšej, ak ide o veľkú voľne žijúcu zver, alebo na teplote +4 <sup>o</sup>C alebo nižšej, ak ide o malú voľne žijúcu zver; počas rozrábania teplota prostredia v miestnosti rozrábkarne nesmie prevýšiť +12 <sup>o</sup>C,
 
@@ -186,7 +186,7 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
     - c) sa pri prehliadke po usmrtení u nej zistili nálezy uvedené v bode 3 písm. e),
 
-    - d) malá zver bola posúdená ako nepožívateľná na základe výsledkov prehliadky podľa § 3 ods.1 písm. e) bodu 4,
+    - d) malá voľne žijúca zver bola posúdená ako nepožívateľná na základe výsledkov prehliadky podľa § 3 ods.1 písm. e) bodu 4,
 
     - e) sa u nej zistila infestácia trichinelami.
 
@@ -220,11 +220,11 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
     - a) päťuholníková značka, ktorá obsahuje v dokonale čitateľnej forme tieto údaje:
 
-      - 1. v hornej časti plný názov alebo skratku názvu krajiny odoslania veľkými písmenami, ak ide o členské štáty Európskych spoločenstiev, písmenami: B, D, DK, EL, ESP, F, IRL, I, L, NL, P, UK, RSM, AT, FI, SE; ak ide o Slovenskú republiku od 1. januára 2004, písmenami SK,
+      - 1. v hornej časti plný názov alebo skratku názvu krajiny odoslania veľkými písmenami, ak ide o členské štáty Európskych spoločenstiev, podľa právneho predpisu Európskych spoločenstiev uvedeného v prílohe č. 1; ak ide o Slovenskú republiku, od 1. mája 2004 písmenami SK,
 
       - 2. v strede veterinárne schvaľovacie číslo prevádzkarne na spracovanie zveriny, alebo ak je to vhodné, rozrábkarne,
 
-      - 3. v dolnej časti jednu z týchto skratiek : CEE, EOEF, EWG, EOK, EEC, EEG, CE-RSM, ETY, ak ide o členské štáty Európskych spoločenstiev, alebo ak ide o tretiu krajinu, skratku, ktorá identifikuje tretiu krajinu pôvodu zveriny, ak ide o Slovenskú republiku od 1. januára 2004, písmenami SK; výška písmen a číslic musí zodpovedať požiadavkám uvedeným v osobitnom predpise podľa § 20, ak ide o veľkú voľne žijúcu zver, alebo ak ide o malú voľne žijúcu zver,
+      - 3. v dolnej časti jednu zo skratiek podľa právneho predpisu Európskych spoločenstiev uvedeného v prílohe č. 1, ak ide o členské štáty Európskych spoločenstiev alebo ak ide o tretiu krajinu skratku, ktorá identifikuje tretiu krajinu pôvodu zveriny; ak ide o Slovenskú republiku, od 1. mája 2004 písmenami SK; výška písmen a číslic musí zodpovedať požiadavkám pre čerstvé mäso uvedeným v osobitnom predpise,<sup>3</sup>) ak ide o veľkú voľne žijúcu zver, alebo uvedeným v osobitnom predpise,<sup>4</sup>) ak ide a malú voľne žijúcu zver.
 
     - b) päťuholníková pečiatka dostatočne veľká na to, aby obsahovala údaje uvedené v písmene a),
 

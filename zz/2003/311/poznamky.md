@@ -103,3 +103,9 @@
 - 1) § 33 a 34 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 195/1996 Z. z.).
 
 - § 21 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
+
+- 2) Nariadenie vlády Slovenskej republiky č. 281/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého mäsa na trh v znení nariadenia vlády Slovenskej republiky č. 490/2003 Z. z.Nariadenie vlády Slovenskej republiky č. 282/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého hydinového mäsa na trh.
+
+- 3) Príloha č. 2 časť K k nariadeniu vlády Slovenskej republiky č. 281/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 490/2003 Z. z.
+
+- 4) Príloha č. 2 časť C k nariadeniu vlády Slovenskej republiky č. 300/2003 Z. z. o požiadavkách na zdravie zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri produkcii králičieho mäsa a zveriny zo zveri z farmových chovov a pri ich uvádzaní na trh v znení nariadenia vlády Slovenskej republiky č. 501/2003 Z. z.
