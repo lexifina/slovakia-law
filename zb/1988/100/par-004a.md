@@ -14,10 +14,12 @@
 
 - f) športovci, ktorí športovú činnosť podľa svojho vyhlásenia vykonávajú zárobkovo ako svoje povolanie, ale nie v pracovnoprávnom alebo obdobnom vzťahu,
 
-- g) osoby, ktoré vykonávajú nezávislé povolanie alebo činnosť,<sup>1g</sup>) ak nepatria do okruhu osôb uvedených v tomto odseku.
+- g) obchodní zástupcovia,<sup>1ga</sup>) ak podľa svojho vyhlásenia vykonávajú túto činnosť sústavne,
+
+- h) osoby, ktoré vykonávajú nezávislé povolanie alebo činnosť,<sup>1g</sup>) ak nepatria do okruhu osôb uvedených v tomto odseku.
 
 (2) Za rovnakých podmienok a v rovnakom rozsahu sú na nemocenskom poistení a dôchodkovom zabezpečení samostatne zárobkovo činných osôb zúčastnené spolupracujúce osoby samostatne zárobkovo činných osôb, za ktoré sa na tieto účely považujú
 
 - a) manželia, deti a súrodenci od skončenia povinnej školskej dochádzky, rodičia, svokor, svokra, zať a nevesta, druh (družka) osôb uvedených v odseku 1 písm. a), ako aj manžel (manželka) tejto spolupracujúcej osoby, ak sa podieľajú na ich činnosti a ak nejde o pracovnoprávny vzťah,
 
-- b) manželia osôb uvedených v odseku 1 písm. b) až d) a g), ak sa podieľajú na ich činnosti.
+- b) manželia osôb uvedených v odseku 1 písm. b) až d), g) a h), ak sa podieľajú na ich činnosti.
