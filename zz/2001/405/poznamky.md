@@ -1,0 +1,1 @@
+- *) Do prílohy č. 1 a č. 2 tohto memoranda možno nazrieť na Ministerstve dopravy, pôšt a telekomunikácií Slovenskej republiky.
