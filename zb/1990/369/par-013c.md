@@ -14,9 +14,7 @@
 
 - f) zmenou trvalého pobytu mimo územia obce; v mestách podľa § 22 ods. 8 aj v prípade zmeny trvalého pobytu mimo územia mestskej časti, v ktorej vykonáva funkciu,
 
-- g) zlúčením, rozdelením alebo zrušením obce,
-
-- h) smrťou.
+- g) smrťou.
 
 (2) Vzdanie sa funkcie musí byť písomné a jeho účinky nastávajú doručením obecnému úradu. Vzdanie sa funkcie nemožno vziať späť.
 
