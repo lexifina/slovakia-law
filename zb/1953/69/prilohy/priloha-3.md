@@ -1,1 +1,0 @@
-- TABULKA ODMĚN. [Tabulka 01](../assets/955ad96af2ab4e3fb9b2fff4a95a6ae73493bf2368a933459e3684f21e6426dd.pdf)
