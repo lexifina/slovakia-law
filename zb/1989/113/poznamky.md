@@ -1,1 +1,0 @@
-- 1) Zákon SNR č. 1/1955 Zb. SNR o štátnej ochrane prírody v znení zákona SNR č. 72/1969 Zb., zákona SNR č. 100/1977 Zb. a zákona SNR č. 72/1986 Zb.
