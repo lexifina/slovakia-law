@@ -1,0 +1,1 @@
+- DOKUMENTY, KTORÉ SA TÝKAJÚ PRISTÚPENIA ŠPANIELSKEHO KRÁĽOVSTVA A PORTUGALSKEJ REPUBLIKY K EURÓPSKYM SPOLOČENSTVÁM [DOKUMENTY, ktoré sa týkajú pristúpenia Španielskeho kráľovstva a Portugalskej republiky k Európskym spoločenstvám](../assets/cb006acf655fb4e31211bcdb20d56f29ad4ed4269c3e44813e2c6d443b548ace.pdf)

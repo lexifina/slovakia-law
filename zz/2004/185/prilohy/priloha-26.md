@@ -1,0 +1,1 @@
+- Dokumenty o pristúpení Rakúskej republiky, Fínskej republiky a Švédskeho kráľovstva k Európskej únii [DOKUMENTY o pristúpení Rakúskej republiky, Fínskej republiky a Švédskeho kráľovstva k Európskej únii](../assets/38ec6b0954a3cbbd501631aab7a2d095abd3ce464c4c6460f16cc0a907371bd3.pdf)

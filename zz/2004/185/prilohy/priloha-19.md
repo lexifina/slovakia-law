@@ -1,0 +1,1 @@
+- Záverečný akt [ZÁVEREČNÝ AKT](../assets/0c410a7fc603e6450d6e6ede66b586d53e95b159d807be1672c9b99fc56e7e75.pdf)

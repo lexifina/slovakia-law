@@ -1,0 +1,1 @@
+Príloha I [PRÍLOHA I - Zoznam ustanovení Schengenského acquis, ako je zahrnuté do rámca Európskej únie, a aktov na ňom založených alebo inak s ním súvisiacich, ktoré sú od pristúpenia záväzné a uplatniteľné v nových členských štátoch (uvedený v článku 3 aktu o pristúpení)](../assets/f944a0d8e85e02fc67d61e09ea739e1e8b66fa339ce2be8c0423ef54575fc361.pdf)
