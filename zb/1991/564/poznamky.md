@@ -30,6 +30,12 @@
 
 - 15) § 13 a 14 Trestného zákona.
 
+- 15a) § 2 ods. 1 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín.
+
 - 16) § 74 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 17) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
+
+- 18) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+
+- 19) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
