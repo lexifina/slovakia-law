@@ -536,11 +536,17 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 1307 | Záhradník Záhradníčka | Ch D | Práce spojené s pestovaním ovocných a okrasných stromov a kríkov, zeleniny a kvetín. Vo vinárskych oblastiach tiež pestovanie viniča, zber a spracovanie hrozna. | 3 | 1,5
 
+- 1308 | Poľnohospodár mechanizátor Poľnohospodárka mechanizátorka | Ch D | Práce spojené so zoradením, obsluhou pri práci a bežnou údržbou základných poľnohospodárskych strojov v živočíšnej a rastlinnej výrobe, vrátane vedenia traktoru a ostatné najdôležitejšie odborné práce v rastlinnej a živočíšnej výrobe. | 2 | 1
+
 - 1321 | Opravár poľnohospodárskych strojov Opravárka poľnohospodárskych strojov | Ch D | Opravy a údržba všetkých poľnohospodárskych strojov, traktorov a mechanizačných zariadení poľnohospodárskej výroby. Údržbaelektrospotrebičov a vodoinštalácia. | 3 | 1,5
 
 - 1322 | Kováč a podkúvač | Ch | Kováčske práce pri výrobe a opravách poľnohospodárskych strojov, náradia a zariadení. Ošetrovanie kopýt a paznechtov, podkúvanie záprahových zvierat. | 3 | 1,5
 
 - 1323 | Poľnohospodársky mechanizátor*) Poľnohospodárska mechanizátorka*) | Ch D | Obrábanie pôdy, ošetrovanie a zber plodín všetkých druhov traktormi so závesným náradím a vykonávanie ich údržby. | 1 | -
+
+- 1324 | Pestovateľ mechanizátor*) Pestovateľka mechanizátorka*) | Ch D | Zoradenie, obsluha pri práci a údržba ťažkých a zložitých mechanizačných prostriedkov v rastlinnej výrobe, najmä kombajnu. | 1 | -
+
+- 1325 | Chovateľ mechanizátor*) Chovateľka mechanizátorka*) | Ch D | Zoradenie, obsluha pri práci a údržba zložitých mechanizmov v živočíšnej výrobe, najmä dojacích automatov a špeciálne odborné práce pri ošetrovaní dobytka, najmä plemenného dobytka. | 1 | -
 
 - 1351 | Lesník | Ch | Práce pri zbere lesných semien, v škôlkach, pri zalesňovaní, ošetrovaní porastov, ochrane lesa a v pridruženej lesnej výrobe. Ťažba dreva všetkými spôsobmi. Manipulácia, nakladanie a skladovanie dreva. | 2 | 1
 
