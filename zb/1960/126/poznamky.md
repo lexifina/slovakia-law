@@ -1,0 +1,1 @@
+- *) Porovnaj čl. 3 ods. 1 písm. d) inštrukcie Ministerstva financií porad. číslo 3/1958 Zb. instr.
