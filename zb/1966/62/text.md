@@ -142,60 +142,6 @@ Na zabezpečenie jednotného postupu na ústredných orgánoch štátnej správy
 
 IV. Zásady pre riešenie mzdových a pracovnoprávnych otázok v súvislosti so skracovaním týždenného pracovného času (úpravou režimov)
 
-Mzdové otázky
-
-Normy spotreby práce
-
-38.
-
-V záujme zabezpečenia plánovaného objemu výroby (výkonov) po zavedení skráteného pracovného času musí sa v organizáciách zníženie fondu pracovného času v zásade nahradiť zodpovedajúcim zvýšením hodinovej produktivity práce, ktoré sa má docieliť uplatnením vhodných technickoorganizačných opatrení a mobilizáciou priamych rezerv pracovného času. Zníženie spotreby pracovného času na podklade týchto opatrení musí sa v zmysle ustanovenia § 114 Zákonníka práce premietnuť do príslušných noriem spotreby práce. Ak sa budú uvedené opatrenia v organizáciách postupne uplatňovať už pred zavedením skráteného pracovného času ako nevyhnutný predpoklad pre zvýšenie hodinovej produktivity práce a ak budú mať za následok prechodné zvýšenie objemu produkcie, musia sa ihneď pri svojej realizácii premietnuť do noriem spotreby práce, ale aj do prémiových ukazovateľov.
-
-Všetky tieto opatrenia musia sa vykonávať tak, aby z dôvodu skrátenia pracovného času nedošlo k prekračovaniu prostriedkov na mzdy, prípadne k zhoršeniu ostatných základných ukazovateľov výroby.
-
-Mzdové tarify (mzdové vyrovnanie)
-
-39.
-
-Pracovníkom odmeňovaným podľa hodinových mzdových taríf (úkolových a časových) sa poskytne náhrada za odpadnutý pracovný čas uplatnením zvýšených (t. j. prepočítaných doterajších, ďalej len zvýšených) mzdových taríf uvedených v prílohe č. 1, avšak len za predpokladu, že sa úmerným znížením rozsahu práce nadčas zabezpečí, aby uplatnenie prepočítaných taríf neviedlo k prekročeniu doterajšieho objemu mzdových prostriedkov, prípadne k narušeniu ekonomickej funkcie mzdy.
-
-Použitie jednotlivých taríf sa spravuje príslušnými mzdovými predpismi.
-
-40.
-
-Ak sa nesplní predpoklad uvedený v predchádzajúcom bode, poskytne sa pracovníkom na prechodný čas namiesto zvýšených taríf mzdové vyrovnanie. Mzdové vyrovnanie je pri skrátení pracovného času na 44 hod. týždenne 4,5 %, pri skrátení pracovného času na 43 hod,. týždenne 7,0 % a pri skrátení pracovného času na 42 hodín týždenne 9,5 % zárobku dosiahnutého v skrátenom pracovnom čase. Do základu pre výpočet mzdového vyrovnania sa nezhŕňa odmena za prácu nadčas, náhrada mzdy pri prekážka v práci (s výnimkou náhrad pri prekážkach na strane organizácie), náhrada mzdy za dovolenku na zotavenie a sviatky, príplatky za prácu v sťaženom a zdraviu škodlivom prostredí, príplatky za vedenie čiat, odmeny inštruktorom za zaškoľovanie, prémie, výška ktorých sa nevypočítava zo mzdovej tarify alebo zárobku pracovníka, príplatky za prácu v nočných smenách, príplatky za tzv. banícku sobotu a pod.
-
-41.
-
-Mesačné a týždenné mzdy pracovníkov, ktorí majú plný pracovný čas, sa z dôvodu jeho skrátenia nemenia.
-
-42.
-
-Pracovníci s hodinovou mzdou, ktorí majú kratší pracovný čas na vlastnú žiadosť alebo preto, že povaha práce nevyžaduje plný pracovný čas, dostanú mzdu podľa zvýšených mzdových taríf alebo mzdu podľa zvýšených mzdových taríf a mzdové vyrovnanie, či už sa im pracovný čas úmerne skráti alebo nie. Pracovníci s mesačnou (týždennou) mzdou dostanú pomernú časť mesačnej (týždennej) mzdy.
-
-Obdobne sa postupuje pri odmeňovaní mladistvých pracovníkov vo veku do 16 rokov, u ktorých je pracovný čas ustanovený na 36 hodín týždenne.
-
-43.
-
-Výška poplatkov za prácu v sťaženom a zdraviu škodlivom pracovnom prostredí, ako aj ostatných príplatkov, ktoré sa vyplácajú podľa skutočne odpracovaného času, zostáva nezmenená.
-
-Práca nadčas
-
-44.
-
-Technickoorganizačné a iné opatrenia vykonávané v súvislosti s prípravou skrátenia pracovného času treba taktiež zamerať na odstraňovanie príčin nadčasovej práce. Podstatné obmedzenie a odstránenie neodôvodnených nadčasov je nevyhnutným predpokladom pre zavedenie skráteného pracovného času.
-
-45.
-
-Prácou nadčas je práca vykonávaná nad týždenný pracovný čas vyplývajúca z vopred určeného rozdelenia pracovného času a mimo rámca rozvrhu pracovných smien. U pracovníkov, ktorí majú dojednaný kratší pracovný čas, je prácou nadčas práca presahujúca týždenný pracovný čas určený harmonogramom smien pre pracovníkov s plným pracovným úväzkom. Ak je napr. v priebehu štyroch týždňov rozdelený 44 hodinový týždenný pracovný čas tak, že v nepárnych týždňoch sa pracuje 48 hodín a v párnych týždňoch 40 hodín, je prácou nadčas v nepárnych týždňoch 49. hodina a v párnych týždňoch 41. hodina.
-
-46.
-
-Pracovníci s mesačnou mzdou dostanú za každú hodinu práce nadčas, pokiaľ platné predpisy neustanovujú inak, pri skrátení pracovného času na 44 hodín týždenne jednu stodeväťdesiatinu, pri skrátení pracovného času na 43 hodín týždenne jednu stopäťaosemdesiatinu a pri skrátení pracovného času na 42 hodín týždenne jednu stoosemdesiatinu základnej mesačnej mzdy a príslušný nadčasový príplatok. To platí obdobne pre príslušníkov závodných stráží, závodných požiarnych útvarov a zborov, strážnikov a vrátnikov s tým rozdielom, že v ich mzde je už zahrnutá i mzda za prípadnú prácu nadčas až do 10 hodín týždenne v mesačnom priemere.
-
-Pracovníci s týždennou mzdou dostanú za každú hodinu práce nadčas mzdu vo výške jednej štyriaštyridsatiny, jednej triaštyridsatiny, prípadne jednej dvaaštyridsatiny základnej týždennej mzdy a príslušný nadčasový príplatok.
-
-Ustanovenie predchádzajúcich odsekov sa nevzťahuje na pracovníkov, u ktorých sa pri určovaní mzdy už prihliadalo na prípadnú prácu nadčas.
-
 Pracovnoprávne otázky
 
 - Brigádnické voľno
@@ -264,10 +210,6 @@ Pracovnoprávne otázky
 
   - 52. Pri určení pomernej časti dodatkovej dovolenky sa vychádza vždy zo zásady, že jedna dvanástina dodatkovej dovolenky je polovica pracovného dňa, a to bez ohľadu na rozsah skrátenia pracovného času.
 
-- Náhrada mzdy za dovolenku
-
-  - 53. Náhrada mzdy za dovolenku dostane pracovník za toľko pracovných dní, koľko mu ich podľa harmonogramu smien v čase jeho dovolenky odpadlo, či už vyberá dovolenku vcelku, po týždňoch alebo po kratších častiach. Náhrada mzdy za dovolenku patrí vo výške priemerného zárobku.
-
 - Prekážky v práci
 
   - 54. Vedenie organizácie a závodný výbor základnej organizácie revolučného odborového hnutia budú dbať na to, aby si pracujúci svoje dôležité osobné veci, pre vybavovanie ktorých im inak patrí pracovné voľno, vybavovali v čase voľna získaného skrátením pracovného času (úpravou režimov), pokiaľ to bude možné s ohľadom na povahu prekážky v práci. Ak platená prekážka v práci pripadne na voľný deň získaný skrátením pracovného času (úpravou režimov), neposkytuje sa náhrada ušlého zárobku.
@@ -275,10 +217,6 @@ Pracovnoprávne otázky
 - Vernostný prídavok baníkov
 
   - 55. Pri výpočte vernostného prídavku baníkov podľa vládneho nariadenia č. 21/1952 Zb. v znení vyhlášky č. 155/1952 Zb. (č. 194/1952 Ú. v.), vyhlášky č. 16/1965 Zb. a ďalších vykonávacích smerníc sa postupuje tak, že k skutočne odpracovaným hodinám v rozhodujúcom období sa pripočíta počet hodín, ktoré odpadli skrátením pracovného času. odpadnuté hodiny z titulu skráteného pracovného času sa nepripočítavajú v prípadoch, ak pracovník je neprítomný v práci tak bezprostredne predo dňom pracovného voľna, ako aj bezprostredne po tomto dni.
-
-- Priemerný zárobok
-
-  - 56. Priemerný zárobok sa zisťuje za tzv. rozhodujúce obdobie (spravidla je to predchádzajúci kalendárny rok) podľa § 275 Zákonníka práce a § 30 až 34 vládneho nariadenia č. 66/1965 Zb. Do mzdy sa zahŕňa aj mzda za prácu nadčas, nie však náhrady mzdy.*)
 
 - Nemocenské poistenie
 
