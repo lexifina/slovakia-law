@@ -1,10 +1,16 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+- 1) § 11 a 12 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
+- 1a) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+
+- 1b) § 50 zákona č. 435/2000 Z. z. o námornej plavbe.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, o financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní.
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
-- 3a) § 18 ods. 2 písm. a) 1. a 2. bod, písm. b) 1. bod a písm. c) zákona č. 351/1997 Z. z. Branný zákon.
+- 3a) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
+
+- 3b) § 18 ods. 2 písm. a) 1. a 2. bod, písm. b) 1. bod a písm. c) zákona č. 351/1997 Z. z. Branný zákon.
 
 - 4) § 38 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
 
@@ -17,6 +23,10 @@
 - 7a) § 115 Občianskeho zákonníka.
 
 - 7aa) § 12 ods. 8 a § 16 ods. 6 zákona č. 351/1997 Z. z.
+
+- 7ab) § 13 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci.
+
+- 7ac) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch v znení zákona č. 309/2000 Z. z.
 
 - 7b) § 39 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
@@ -48,9 +58,23 @@
 
 - 14) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
 
+- 14a) § 25 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z. § 15 zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení zákona Národnej rady Slovenskej republiky č. 84/1995 Z. z.
+
+- 14b) Zákon č. 311/1999 Z. z. o registri trestov.
+
+- 14c) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+
 - 15) Napr. zákon Narodnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách.
 
 - 15a) § 4a ods. 2 zákona č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+
+- 15aa) Zákon č. 311/2001 Z. z. Zákonník práce.
+
+- 15ab) § 7d nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch.§ 19 ods. 12 zákona č. 313/2001 Z. z. o verejnej službe v znení zákona č. 118/2002 Z. z.
+
+- 15ac) § 7b ods. 1 nariadenia vlády Slovenskej republiky č. 249/1992 Zb.§ 19 ods. 9 zákona č. 313/2001 Z. z. v znení zákona č. 118/2002 Z. z.
+
+- 15ad) Napríklad § 7b ods. 2 a 3 nariadenia vlády Slovenskej republiky č. 249/1992 Zb., § 10 a 11 zákona č. 313/2001 Z. z. v znení zákona č. 118/2002 Z. z.
 
 - 16) Článok 4 Ústavy Slovenskej republiky.
 
@@ -68,4 +92,6 @@
 
 - 24) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
-- 25) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
+- 25) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
+
+- 26) Zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
