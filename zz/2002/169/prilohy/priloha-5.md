@@ -78,7 +78,7 @@ Príloha č. 5 k vyhláške č. 169/2002 Z. z.
 
 - záložná zásahová frekvencia na spojenie v prípadoch, keď v rádiovej sieti v priestore zásahu pracuje veľký počet rádiostaníc, ktoré sa na frekvencii K navzájom rušia; o jej použití rozhoduje veliteľ zásahu.
 
-- 11. Organizačné a riadiace frekvencie (F, G, H, J, L) sa používajú na spojenie
+- 10. Organizačné a riadiace frekvencie (F, G, H, J, L) sa používajú na spojenie
 
 - a) medzi základňovou rádiostanicou a vozidlovými rádiostanicami počas cesty hasičskej jednotky na miesto požiaru alebo inej mimoriadnej udalosti,
 
@@ -94,9 +94,9 @@ Príloha č. 5 k vyhláške č. 169/2002 Z. z.
 
 - g) ministerstva v rámci siete krajského riaditeľstva alebo okresného riaditeľstva.
 
-- 12. Organizačné a riadiace frekvencie možno používať na spojenie v priestore zdolávania požiaru alebo inej mimoriadnej udalosti, ak sa na likvidácii zúčastňujú najviac dve hasičské jednotky a nie je zriadený riadiaci štáb.
+- 11. Organizačné a riadiace frekvencie možno používať na spojenie v priestore zdolávania požiaru alebo inej mimoriadnej udalosti, ak sa na likvidácii zúčastňujú najviac dve hasičské jednotky a nie je zriadený riadiaci štáb.
 
-- 13. Zásobovacie frekvencie (M, P, R) sa používajú na spojenie
+- 12. Zásobovacie frekvencie (M, P, R) sa používajú na spojenie
 
 - a) v priestore zdolávania požiaru alebo inej mimoriadnej udalosti s riadiacim štábom v rádiovej sieti pomocníka náčelníka štábu pre tylo,
 
@@ -104,7 +104,7 @@ Príloha č. 5 k vyhláške č. 169/2002 Z. z.
 
 - c) výnimočne v ostatných rádiových sieťach pri zdolávaní udalosti, ak jej rozsah a vzniknuté okolnosti si vyžadujú organizovať zásahové jednotky (skupiny) z viacerých okresov toho istého kraja rozdelené do spoločných zásahových úsekov.
 
-- 14. Frekvencie, ktoré sú povolené pre iný územný celok, možno používať s týmito výnimkami:
+- 13. Frekvencie, ktoré sú povolené pre iný územný celok, možno používať s týmito výnimkami:
 
 - a) spoločné zdolávanie požiaru alebo inej mimoriadnej udalosti hasičskými jednotkami z viacerých okresov, keď sa v prípade potreby môže použiť kmitočet toho regiónu, na teritóriu ktorého sa zasahuje,
 
@@ -112,29 +112,29 @@ Príloha č. 5 k vyhláške č. 169/2002 Z. z.
 
 - c) pri vstupe rádiostaníc ministerstva do stálej rádiovej siete okresného riaditeľstva alebo krajského riaditeľstva.
 
-- 15. Ak iná rádiostanica požaduje vstup do stálej rádiovej siete, môže spojenie nadviazať prostredníctvom dozornej rádiovej stanice na určenej frekvencii. Ďalšia komunikácia sa uskutočňuje podľa určených zásad používania frekvencií.
+- 14. Ak iná rádiostanica požaduje vstup do stálej rádiovej siete, môže spojenie nadviazať prostredníctvom dozornej rádiovej stanice na určenej frekvencii. Ďalšia komunikácia sa uskutočňuje podľa určených zásad používania frekvencií.
 
-- 16. V rádiových sieťach organizovaných v priestore zdolávania požiaru alebo inej mimoriadnej udalosti všetci účastníci dodržiavajú zásadu neprípustnosti svojvoľnej komunikácie rádiostaníc mimo siete, do ktorej boli zaradení.
+- 15. V rádiových sieťach organizovaných v priestore zdolávania požiaru alebo inej mimoriadnej udalosti všetci účastníci dodržiavajú zásadu neprípustnosti svojvoľnej komunikácie rádiostaníc mimo siete, do ktorej boli zaradení.
 
-- 17. Vo výnimočných a odôvodnených prípadoch možno rádiové siete v priestore zdolávania požiaru alebo inej mimoriadnej udalosti na základe rozhodnutia veliteľa zásahu organizačne a frekvenčne prispôsobiť vývoju situácie; veliteľ zásahu neustále prihliada na prioritné dodržiavanie zásad organizácie rádiových sietí a jednotného systému rádiového spojenia.
+- 16. Vo výnimočných a odôvodnených prípadoch možno rádiové siete v priestore zdolávania požiaru alebo inej mimoriadnej udalosti na základe rozhodnutia veliteľa zásahu organizačne a frekvenčne prispôsobiť vývoju situácie; veliteľ zásahu neustále prihliada na prioritné dodržiavanie zásad organizácie rádiových sietí a jednotného systému rádiového spojenia.
 
-- 18. Ak v niektorej rádiovej sieti organizovanej pri zásahu veliteľ zásahu nariadi zmenu použitia frekvencií oproti pôvodnému určeniu, informuje o tom ostatných účastníkov vstupujúcich do tejto rádiovej siete. Súčinnosť medzi zúčastnenými rádiostanicami sa dosahuje vždy tak, že volajúca rádiostanica prechádza na frekvenciu volaného.
+- 17. Ak v niektorej rádiovej sieti organizovanej pri zásahu veliteľ zásahu nariadi zmenu použitia frekvencií oproti pôvodnému určeniu, informuje o tom ostatných účastníkov vstupujúcich do tejto rádiovej siete. Súčinnosť medzi zúčastnenými rádiostanicami sa dosahuje vždy tak, že volajúca rádiostanica prechádza na frekvenciu volaného.
 
-- 19. Pre rádiové siete pracujúce na vyhradených frekvenciách hasičských jednotiek platia tieto zásady:
+- 18. Pre rádiové siete pracujúce na vyhradených frekvenciách hasičských jednotiek platia tieto zásady:
 
-- a) základňová rádiostanica operačného strediska okresného riaditeľstva je riadiacou a dozornou rádiostanicou stálych rádiových sietí vo svojom zásahovom obvode pracujúcich na vyhradených frekvenciách hasičských jednotiek; rádiostanice pracujúce v jej sieti rešpektujú bez meškania jej prevádzkové pokyny; na území hlavného mesta Slovenskej republiky Bratislavy plní túto úlohu základňová rádiostanica mestského hasičského a záchranného zboru,
+- a) základňová rádiostanica operačného strediska okresného riaditeľstva je riadiacou a dozornou rádiostanicou stálych rádiových sietí vo svojom zásahovom obvode pracujúcich na vyhradených frekvenciách hasičských jednotiek; rádiostanice pracujúce v jej sieti rešpektujú bez meškania jej prevádzkové pokyny; na území hlavného mesta Slovenskej republiky Bratislavy plní túto úlohu základňová rádiostanica mestského hasičského a záchranného útvaru,
 
 - b) riadiacou rádiostanicou sietí organizovaných v priestore zdolávania požiaru alebo inej mimoriadnej udalosti je rádiostanica určená veliteľom zásahu s volacím znakom Hviezda; spojenie sa organizuje podľa zásad uvedených v bodoch 16 až 18, pričom sa efektívne využívajú frekvencie a spojenie sa organizuje tak, aby sa zasahujúce hasičské jednotky čo najmenej navzájom rušili.
 
-- 20. V prípade potreby má riadiaca rádiostanica právo vo svojej sieti použiť obežníkový volací znak VŠETKÝM.
+- 19. V prípade potreby má riadiaca rádiostanica právo vo svojej sieti použiť obežníkový volací znak VŠETKÝM.
 
-- 21. Ak v rádiovej sieti pracuje rádiostanica, ktorá nedodržuje prevádzkovú disciplínu alebo zdĺhavou komunikáciou sťažuje, či znemožňuje plynulú prácu ostatných účastníkov rádiovej siete, má riadiaca rádiostanica právo skončiť prevádzku tejto rádiostanice. Toto rozhodnutie musí rádiostanica bez meškania rešpektovať.
+- 20. Ak v rádiovej sieti pracuje rádiostanica, ktorá nedodržuje prevádzkovú disciplínu alebo zdĺhavou komunikáciou sťažuje, či znemožňuje plynulú prácu ostatných účastníkov rádiovej siete, má riadiaca rádiostanica právo skončiť prevádzku tejto rádiostanice. Toto rozhodnutie musí rádiostanica bez meškania rešpektovať.
 
-- 22. V spojovacej prevádzke hasičských jednotiek majú najvyššiu prioritu všetky správy a informácie o vzniknutých požiaroch, živelných pohromách a iných mimoriadnych udalostiach spolu so žiadosťami o poskytnutie pomoci. Nižšiu dôležitosť má vzájomné spojenie zamestnancov a členov počas zásahu.
+- 21. V spojovacej prevádzke hasičských jednotiek majú najvyššiu prioritu všetky správy a informácie o vzniknutých požiaroch, živelných pohromách a iných mimoriadnych udalostiach spolu so žiadosťami o poskytnutie pomoci. Nižšiu dôležitosť má vzájomné spojenie zamestnancov a členov počas zásahu.
 
-- 23. Veliteľ zásahu môže počas zásahu zmeniť prioritu spojenia. Obsluha na operačnom stredisku ju neodkladne potvrdí a zaznačí do príslušnej dokumentácie.
+- 22. Veliteľ zásahu môže počas zásahu zmeniť prioritu spojenia. Obsluha na operačnom stredisku ju neodkladne potvrdí a zaznačí do príslušnej dokumentácie.
 
-- 24. Na riadenie rádiovej prevádzky v rádiových sieťach a rádiových smeroch sa používajú
+- 23. Na riadenie rádiovej prevádzky v rádiových sieťach a rádiových smeroch sa používajú
 
 - a) volacie znaky určené v povoľovacej listine na zriadenie a prevádzku vysielacích rádiostaníc,
 
@@ -142,4 +142,4 @@ Príloha č. 5 k vyhláške č. 169/2002 Z. z.
 
 - c) obežníkový volací znak.
 
-- 25. Používatelia rádiových staníc používajú volacie znaky určené v povoľovacej listine. Používajú sa na riadenie prevádzky vo všetkých rádiových sieťach a rádiových smeroch okrem prípadov, keď je účelné použiť otvorené volacie znaky.
+- 24. Používatelia rádiových staníc používajú volacie znaky určené v povoľovacej listine. Používajú sa na riadenie prevádzky vo všetkých rádiových sieťach a rádiových smeroch okrem prípadov, keď je účelné použiť otvorené volacie znaky.

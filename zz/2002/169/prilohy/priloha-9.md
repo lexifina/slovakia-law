@@ -32,10 +32,6 @@ Príloha č. 9 k vyhláške č. 169/2002 Z. z.
 
 - IX. | Základy požiarnej prevencie | 8 | -
 
-- X. | Poradová príprava | - | 8
-
-- XI. | Fyzická príprava | - | 8
-
 - | SPOLU: | 90 | 310
 
 - OBSAH ZÁKLADNEJ PRÍPRAVY ZAMESTNANCOV

@@ -1,6 +1,6 @@
 Príloha č. 11 k vyhláške č. 169/2002 Z. z.
 
-- OBSAH ŠPECIALIZOVANEJ PRÍPRAVY VELITEĽOV ZÁVODNÝCH HASIČSKÝCH ZBOROV A VELITEĽOV OBECNÝCH HASIČSKÝCH ZBOROV A VELITEĽOV OBECNÝCH HASIČSKÝCH ZBOROV 1. Organizácia ochrany pred požiarmi
+- OBSAH ŠPECIALIZOVANEJ PRÍPRAVY VELITEĽOV ZÁVODNÝCH HASIČSKÝCH ZBOROV A VELITEĽOV OBECNÝCH (MESTSKÝCH) HASIČSKÝCH ZBOROV 1. Organizácia ochrany pred požiarmi
 
 - a) právne predpisy o ochrane pred požiarmi,
 

@@ -20,7 +20,7 @@
 
 - 11) § 19 vyhlášky Ministerstva vnútra Slovenskej republiky č. 288/2000 Z. z., ktorou sa ustanovujú technické požiadavky na požiarnu bezpečnosť pri výstavbe a pri užívaní stavieb.
 
-- 12) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 377/1996 Z. z. o poskytovaní osobných ochranných pracovných prostriedkov.
+- 12) Nariadenie vlády Slovenskej republikyč. 504/2002 Z. z. o podmienkach poskytovania osobných ochranných pracovných prostriedkov.
 
 - 13) § 49 ods. 2 zákona č. 314/2001 Z. z. o ochrane pred požiarmi.
 
