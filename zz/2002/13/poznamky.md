@@ -16,11 +16,13 @@
 
 - 8) Napríklad § 55 zákona č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
 
+- 8a) § 21 ods. 6 zákona č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
+
 - 9) § 13 ods. 7 písm. b) tretí bod zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 10) § 16 ods. 3 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
-- 11) Zákon Slovenskej národnej rady č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 11) § 24 až 28 zákona č. 431/2002 Z. z. o účtovníctve.
 
 - 12) § 28 a 29 zákona č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
