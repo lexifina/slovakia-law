@@ -34,7 +34,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 11. | Vypracovanie dokumentácie a projektu jednoduchých stavieb, drobných stavieb a zmien týchto stavieb | 1. vysokoškolské vzdelanie stavebného alebo architektonického smeru alebo 2. odborné stredoškolské vzdelanie stavebného smeru | § 45 ods. 6 zák. č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov |
 
-- | Vypracovanie dokumentácie a projektu technického, technologického a energetického vybavenia týchto stavieb | 1. vysokoškolské vzdelanie príslušného technického smeru alebo 2. odborné stredoškolské vzdelanie príslušného technického smeru | |
+- | Vypracovanie dokumentácie a projektu technického, technologického a energetického vybavenia týchto stavieb | 1. vysokoškolské vzdelanie príslušného technického smeru alebo 2. odborné stredoškolské vzdelanie príslušného technického smeru
+
+- | Projektovanie stavieb | osvedčenie o vykonaní odbornej skúšky | § 43c zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 554/2001 Z. z. |
 
 - 12. | Uskutočňovanie stavieb a ich zmien | 1. vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru a 4 roky praxe v odbore alebo 2. odborné stredoškolské vzdelanie stavebného smeru a 8 rokov praxe v odbore | | I
 
@@ -48,7 +50,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 17. | Vykonávanie činnosti inštruktora lešenárskej a horolezeckej (speleologickej) techniky | preukaz inštruktora lešenárskej, horolezeckej (speleologickej) techniky vydaný vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce | § 9 ods. 3 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 374/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach |
 
-- 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie | § 4 ods. 3 zák. č. 90/1998 Z. z. o stavebných výrobkoch v znení zák. č. 264/1999 Z. z. |
+- 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie | § 4 ods. 3 zák. č. 90/1998 Z. z. o stavebných výrobkoch v znení zák. č. 264/1 999 Z. z. |
 
 - SKUPINA 214 - Ostatné | | | |
 
@@ -64,7 +66,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 24. | Výkon špecializovaných činností v oblasti telesnej kultúry | doklad o odbornej spôsobilosti | § 2 ods. 1 a 5 vyhl. Ministerstva školstva Slovenskej republiky č. 257/1998 Z. z. o podmienkach získavania odbornej spôsobilosti na vykonávanie špecializovaných činností v oblasti telesnej kultúry |
 
-- 25. | Vykonávanie odbornej prípravy na úseku požiarnej ochrany | oprávnenie | § 24 ods. 4 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/1995 Z. z.§ 36 vyhl. Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona SNR o požiarnej ochrane v oblasti prevencie v znení vyhl. č. 86/1997 Z. z. |
+- 25. | Vykonávanie odbornej prípravy na úseku požiarnej ochrany | oprávnenie | § 24 ods. 4 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/ 1995 Z. z.§ 36 vyhl. Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona SNR o požiarnej ochrane v oblasti prevencie v znení vyhl. č. 86/1997 Z. z. |
 
 - 26. | Čistenie a kontrola komínov, Preskúšavanie komínov | osvedčenie | § 3 písm. c) zák. č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zák. č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
@@ -76,7 +78,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 30. | Činnosť vykonávaná banským spôsobom*) | osvedčenie o odbornej spôsobilosti | § 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom*) v rozsahu § 3 písm. b) až i) zák. č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe |
 
-- 31. | Znehodnocovanie streliva | preukaz pyrotechnika skupiny A alebo B, alebo C, vek 21 rokov a súhlas útvaru Policajného zboru*) | *) § 31 zák. NR SR č. 246/ 1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
+- 31. | Znehodnocovanie streliva | preukaz pyrotechnika skupiny A alebo B, alebo C, vek 21 rokov a súhlas útvaru Policajného zboru*) | *) § 31 zák. NR SR č. 246/ 1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/ 1995 Z. z. |
 
 - | | | vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
