@@ -1,0 +1,1 @@
+- 1) Príjmy ostatných dedičov podliehajú dani z príjmov obyvateľstva podľa zákona č. 145/1961 Zb.
