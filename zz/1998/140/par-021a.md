@@ -1,6 +1,6 @@
 # § 21a Posúdenie žiadosti o registráciu lieku
 
-(1) Štátny ústav posúdi žiadosť o registráciu lieku v lehote 180 dní od predloženia žiadosti ministerstvu zdravotníctva. Štátny ústav môže písomne požiadať o doplnenie žiadosti vrátane pripojenej dokumentácie; v takom prípade sa lehota na posúdenie žiadosti prerušuje až do predloženia požadovaného doplnenia, najdlhšie však na 180 dní. Kompletnosť dokumentácie podľa § 21 ods. 4 posúdi štátny ústav do 30 dní od jej doručenia.
+(1) Štátny ústav posúdi žiadosť o registráciu lieku do 210 dní od jej doručenia. Štátny ústav môže písomne požiadať o doplnenie žiadosti vrátane pripojenej dokumentácie; v takom prípade sa lehota na posúdenie žiadosti prerušuje až do predloženia požadovaného doplnenia, najdlhšie však na 180 dní. Kompletnosť dokumentácie podľa § 21 ods. 4 posúdi štátny ústav do 30 dní od jej doručenia.
 
 (2) Pri posúdení žiadosti o registráciu lieku štátny ústav skúma najmä to, či
 
@@ -22,11 +22,9 @@
 
 (3) Žiadateľ pri podaní žiadosti o registráciu, o zmenu registrácie alebo o predĺženie platnosti registrácie uhradí správny poplatok podľa osobitného predpisu.<sup>12</sup>)
 
-(4) Po posúdení žiadosti a vydaní posudku o výsledku skúšok štátny ústav zašle žiadosť na vybavenie ministerstvu zdravotníctva, ktoré o žiadosti rozhodne do 30 dní od jej prijatia.
+(4) Štátny ústav môže zamietnuť žiadosť o registráciu, ak liek nedosahuje najmenej rovnaké hodnoty kvality, bezpečnosti a účinnosti ako porovnateľný liek, ktorý je už registrovaný.
 
-(5) Ministerstvo zdravotníctva môže zamietnuť žiadosť o registráciu, ak liek nedosahuje najmenej rovnaké hodnoty kvality, bezpečnosti a účinnosti ako porovnateľný liek, ktorý je už registrovaný.
-
-(6) Ministerstvo zdravotníctva rozhodne o zamietnutí žiadosti o registráciu, ak
+(5) Štátny ústav rozhodne o zamietnutí žiadosti o registráciu, ak
 
 - a) žiadosť nie je v súlade s ustanoveniami tohto zákona,
 

@@ -8,7 +8,7 @@
 
 - c) určilo odborného zástupcu zodpovedného za prípravu transfúznych liekov, ktorý je lekár so špecializáciou v odbore hematológia a transfuziológia alebo farmaceut so špecializáciou v odbore farmaceutická technológia,
 
-- d) určilo odborného zástupcu zodpovedného za zabezpečenie kvality transfúznych liekov, ktorý je farmaceut so špecializáciou v odbore farmaceutická analytika,
+- d) určilo odborného zástupcu zodpovedného za zabezpečenie kvality transfúznych liekov, ktorý je farmaceut so špecializáciou v odbore farmaceutická analytika alebo lekárenstvo,
 
 - e) odborný zástupca zodpovedný za prípravu transfúznych liekov a odborný zástupca zodpovedný za zabezpečovanie kvality transfúznych liekov nie sú vo vzájomnej riadiacej pôsobnosti.
 
