@@ -98,6 +98,8 @@
 
 - 13hh) Občiansky súdny poriadok.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
+- 13hi) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 13i) § 11 a 12 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia, zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni a zákon Národnej rady Slovenskej republiky č. 201/1994 Z. z. o zdravotnom poistení železničiarov a o Železničiarskej zdravotnej poisťovni.
