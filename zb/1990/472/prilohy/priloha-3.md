@@ -24,8 +24,6 @@ pol. | úsek štátnej správy | Na úseku štátnej správy prechádza pôsobno
 
 | | vyhl. č. 22/1977 Zb. | 6 ods. 1 |
 
-8. | | zák. SNR č. 206/1968 Zb. | 14 ods. 3 | rozhodovanie o prepustení zo štátneho zväzku Slovenskej republiky
-
 9. | | zák. č. 268/1949 Zb. v znení vl. nar. č. 93/1958 Zb. | 7 ods. 2 | vedenie druhopisu matrík a zbierky listín
 
 10. | | vyhl. č. 22/1977 Zb. | 6 ods. 1 | dozor nad vedením matrík

@@ -102,8 +102,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 74. | | | 53 | prijímanie súhlasného vyhlásenia rodičov o určení otcovstva k ešte nenarodenému dieťaťu, ak je už počaté
 
-75. | | zák. SNR č. 206/1968 Zb. | 12 | prijímanie vyhlásenia o nadobudnutí štátneho občianstva narodením a uzavretím manželstva
-
 76. | | vyhl. č. 22/1977 Zb. | 1 ods. 1 | vedenia matrík a úloh s tým spojených
 
 77. | | | 3 ods. 1 | ustanovovanie matrikára a jeho zástupcu
