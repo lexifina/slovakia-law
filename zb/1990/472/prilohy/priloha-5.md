@@ -32,8 +32,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 20. | | zák. č. 61/1964 Zb. | 28 ods. 1 | udeľovanie súhlasu na zrušenie chmeľnice na návrh Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho
 
-25. | | vyhl. č. 62/1964 Zb. | 36 ods. 3 | nariaďovanie účinného hromadného zásahu, ak sa vyskytnú škodcovia v nebezpečnom rozsahu, alebo aj je dôvodná obava z ich nebezpečného rozšírenia
-
 29. | | zák. SNR č. 110/1972 Zb. | 4 ods. 3 | spolupracovanie s plemenárskymi organizáciami pri plnení úloh štátnej starostlivosti o rozvoj plemenárstva
 
 37. | zák. č. 102/1963 Zb. | rybárstva | 48 ods. 2 | vykonávanie opatrení na ochranu prírody, kultúrnych pamiatok a iných vedeckých záujmov pri výkone rybárskeho práva a pri hospodárení na rybníkoch na návrh orgánov štátnej ochrany
