@@ -1,15 +1,17 @@
 Príloha č. 2 k vyhláške č. 145/1998 Z. z.
 
-- Požiadavky na chemické a fyzikálne zloženie tokajských vín | Tokajská Lipovina Tokajský Furmint Tokajský Muškát žltý | Tokajské samorodné suché | Tokajské samorodné sladké | Tokajský výber
+- POŽIADAVKY NA ORGANOLEPTICKÉ A SENZORICKÉ VLASTNOSTI TOKAJSKÝCH VÍN Druh tokajského vína | Čistota | Farba | Vôňa | Chuť
 
-- Ukazovateľ | 1 | 2 | 3 | 4
+- Tokajský Furmint Tokajská Lipovina Tokajský Muškát žltý | číre | zlatožltá s miernym odtieňom jantárovej farby | výrazná, tokajského charakteru | výrazná, tokajského charakteru príslušnej odrody
 
-- Objemové percento alkoholu najmenej | 12,0 | 12,0 | 12,0 | 9,0
+- Tokajské samorodné | číre | bledožltá až zlatožltá s hnedastým odtieňom, možné sú aj slabšie odtiene | výrazná, charakteristická pre tokajské vína | výrazná, charakteristická pre tokajské vína
 
-- Prchavé kyseliny (ako kyselina octová) v g.1<sup>-1</sup> | 1,2 | 2,0 | 2,0 | 2,0
+- Tokajský výber trojputňový až šesťputňový | číre | žltá až hlboko jantárovožltá | výrazná, charakteristická pre tokajské vína | výrazná, charakteristická pre tokajské vína
 
-- Nespáliteľný zvyšok v g.l<sup>-1</sup> najmenej | 1,5 | 1,5 | 1,6 | 2,0
+- Tokajský mášláš | číre | bledožltá až jantárovožltá | výrazná, charakteristická pre tokajské vína | výrazná, charakteristická pre tokajské vína
 
-- Bezcukrový extrakt v g.l<sup>-1</sup> najmenej | 22,0 | 23,0 | 23,0 | dvojputňový 23,0 trojputňový 25,0 štvorputňový 30,0 päťputňový 35,0 šesťputňový 40,0
+- Tokajský fordítáš | číre | bledožltá až zlatožltá | výrazná, charakteristická pre tokajské vína | výrazná, charakteristická pre tokajské vína
 
-- Cukor v g.l<sup>-1</sup> | hraničná hodnota sa neurčuje | najviac 10,0 | nad 10,0 | dvojputňový najmenej 40,0 trojputňový najmenej 60,0 štvorputňový najmenej 90,0 päťputňový najmenej 120,0 šesťputňový najmenej 150,0
+- Tokajská výberová esencia | číre | žltá až hlboko jantárovožltá | výrazná, charakteristická pre tokajské vína | výrazná, charakteristická pre tokajské vína
+
+- Tokajská esencia | číre | žltá až sýta jantárovožltá | výrazná, charakteristická pre tokajské vína | výrazná, charakteristická pre tokajské vína
