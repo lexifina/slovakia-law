@@ -74,7 +74,7 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 213 - Stavebníctvo | |
 
-- Spracovanie územnoplánovacích podkladov a územnoplánovacej dokumentácieProjektovanie staviebStatické výpočty nosných konštrukcií staviebVýkon činnosti stavbyvedúcehoVýkon činnosti stavebného dozoruPrieskum, skúšanie a diagnostika stavieb | preukaz o odbornej spôsobilosti | § 11 ods. 3 zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov
+- Spracovanie územnoplánovacích podkladov a územnoplánovacej dokumentácie Projektovanie stavieb Statické výpočty nosných konštrukcií stavieb Výkon činnosti stavbyvedúceho Výkon činnosti stavebného dozoru Prieskum, skúšanie a diagnostika stavieb | preukaz o odbornej spôsobilosti | § 11 ods. 3 zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov
 
 - Vykonávanie dopravných stavieb | vysokoškolské vzdelanie stavebné dopravný smer alebo vysokoškolské lesnícke vzdelanie a 8 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
 
@@ -86,7 +86,7 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Elektroinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Plynoinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (§ 23 a 24 vyhl. č. 175/1975 Zb., ktorou sa vykonávajú niektoré ustanovenia plynárenského zákona v znení vyhl. č.m!8/1986Zb.) *) | *) vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
+- Plynoinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (§ 23 a 24 vyhl. č. 175/1975 Zb., ktorou sa vykonávajú niektoré ustanovenia plynárenského zákona v znení vyhl. č. 8/1986Zb.) *) | *) vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
 - SKUPINA 214 - Ostatné | |
 
@@ -108,11 +108,9 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Masérske služby | a) absolvovanie strednej zdravotníckej školy s maturitnou skúškou v odbore rehabilitácie alebo b) absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy alebo c) absolvovanie lekárskej fakulty v odboroch telovýchovného lekárstva alebo balneológie alebo d) absolvovanie vysokej školy telovýchovného smeru |
 
-- Prevádzkovanie verejných telovýchovných škôl; organizovanie kurzov pre cvičiteľov, trénerov a rozhodcov; organizovanie telovýchovných kurzov a činnosť športových inštruktorov Prevádzkovanie telovýchovných zariadení Prevádzkovanie zariadení slúžiacich na regeneráciu a rekondíciu | a) trénersky preukaz alebo cvičiteľský preukaz I. alebo II. triedy vydaný podľa nariadenia vlády SR č. 469/1991 Zb., ktorým sa vykonáva zákon Slovenskej národnej rady č. 198/1990 Zb. o telesnej kultúre alebo |
+- Prevádzkovanie vzdelávacích zariadení na prípravu vykonávania špecializovaných činností v oblasti telesnej kultúry | akreditácia vydaná Ministerstvom školstva SR podľa zákona č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov
 
-- | b) vysokoškolské telovýchovné vzdelanie s príslušnou špecializáciou alebo |
-
-- | c) osvedčenie o odbornej spôsobilosti vydané vzdelávacím zariadením akreditovaným Ministerstvom školstva a vedy SR |
+- Výkon špecializovaných činností v oblasti telesnej kultúry | odborná spôsobilosť podľa zákona č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov
 
 - Vodná záchranárska služba | osvedčenie o odbornej spôsobilosti vydané ústredným orgánom Červeného kríža alebo príslušným telovýchovným zväzom |
 

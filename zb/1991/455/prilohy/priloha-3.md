@@ -46,8 +46,6 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
   - SKUPINA 313: Stavebníctvo
 
-- Zriaďovanie poplašných zariadení (s výnimkou elektropožiarnej signalizácie a autoalarmov) | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie podľa zákona č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | | *) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
-
   - SKUPINA 314: Ostatné
 
 - Vykonávanie trhacích prác | 1. streľmajstrovský preukaz vydaný orgánom štátnej správy, vek 21 rokov alebo 2. streľmajstrovský preukaz s odbornou spôsobilosťou technického vedúceho odstrelu vydaný orgánom štátnej správy, vek 24 rokov a osvedčenie podľa zák. č. 451/1991 Zb.*) | | | § 27, 35 a 36 zák. SNR č. 51/1988 Zb. o banskej činnosti, výbušninách a štátnej banskej správe v znení zák. č. 499/1991 Zb., úplné znenie č. 336/1992 Zb.;§ 40 a 41 vyhl. č. 71/1988 Zb. o výbušninách v znení vyhl. č. 534/1991 Zb.;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
@@ -64,10 +62,6 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Prevádzkovanie cestovnej kancelárie | a) stredoškolské vzdelanie v odbore cestovného ruchu alebo v príbuznom odbore s maturitnou skúškou a 5 rokov praxe v odbore alebob) vysokoškolské vzdelanie ekonomického alebo právnického smeru a 2 roky praxe v odbore | | |
 
-- Horská sprievodcovská činnosť - vedenie návštevníkov po turisticky značkovaných chodníkoch a cestách | osvedčenie o odbornej spôsobilosti vydané Horskou službou v príslušnej oblasti | | |
-
-- Horská vodcovská činnosť - vedenie návštevníkov v horách pri nehorolezeckých túrach, horolezeckých túrach a lyžiarskych vysokohorských túrach | osvedčenie o odbornej spôsobilosti vydané Národnou asociáciou horských vodcov Slovenskej republiky | | |
-
 - Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach a v chatovej osade triedy ***, v kempingoch triedy *** a vo vyšších triedach | a) vysokoškolské vzdelanie v odbore cestovného ruchu alebo v príbuznom odbore a 2 roky praxe v odbore alebob) stredoškolské vzdelanie s maturitnou skúškou v odbore cestovného ruchu alebo v príbuznom odbore a 5 rokov praxe v odbore | | |
 
 - Pohostinská činnosť v zariadeniach II. skupiny a vo vyšších skupinách | a) vysokoškolské vzdelanie v odbore cestovného ruchu alebo v príbuznom odbore a 2 roky praxe v odbore alebob) stredoškolské vzdelanie s maturitnou skúškou v odbore cestovného ruchu alebo v príbuznom odbore a 3 roky praxe v odbore | | |
@@ -78,19 +72,15 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Zmenárne | stredoškolské vzdelanie zakončené maturitnou skúškou | | Národná banka Slovenska | § 7 ods. 5 devízového zákona č. 528/1990 Zb. v znení zák. č. 228/1992 Zb.
 
-- Cestná motorová doprava | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 29 a 31 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
+- Cestná motorová doprava | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 29 a 31 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
 
-- Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
+- Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
 
 - Vnútrozemská plavba | preukaz spôsobilosti žiadateľa na zamýšľanú činnosť | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, spojov a verejných prác SR | zák. č. 26/1964 Zb. o vnútrozemskej plavbe
 
 - Činnosti v oblasti civilného letectva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, spojov a verejných prác SR | zák. č. 47/1956 Zb. o civilnom letectve (letecký zákon) v znení zák. č. 43/1976 Zb. (úplné znenie č. 127/1976 Zb.), zák. č. 90/1990 Zb. a zák. č. 383/1990 Zb.
 
 - Zasielateľstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | okresný úrad | § 41 až 45 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
-
-- Služby súkromných detektívov | stredoškolské vzdelanie s maturitnou skúškou a osvedčenie podľa zák. č. 451/1991 Zb.*) | bezúhonnosť podľa § 6 ods. 2 a spoľahlivosť podľa § 27 ods. 2 živnostenského zákona všetkých zamestnancov | | *) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
-
-- Podniky zabezpečujúce ochranu majetku a osôb | stredoškolské vzdelanie s maturitnou skúškou a osvedčenie podľa zák. č. 451/1991 Zb.*) | bezúhonnosť podľa § 6 ods. 2 a spoľahlivosť podľa § 27 ods. 2 živnostenského zákona všetkých zamestnancov | | *) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
 
 - Služby verejných nosičov a poslov | | zjavné používanie stanoveného označenia, spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | |
 
@@ -103,3 +93,5 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 - Inseminácia | | | Ministerstvo pôdohospodárstva SR | § 9 ods. 3 zák. SNR č. 110/1972 Zb. o plemenitbe hospodárskych zvierat v znení zák. SNR č. 256/1991 Zb.
 
 - Kominárstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | |
+
+- Poskytovanie technických služieb na ochranu majetku a osôb | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | spoľahlivosť a bezúhonnosť všetkých zamestnancov | Ministerstvo vnútra Slovenskej republiky | zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách)

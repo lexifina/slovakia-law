@@ -104,6 +104,8 @@
 
 - 23d) Zákon č. 28/1984 Zb. o štátnom dozore nad jadrovou bezpečnosťou jadrových zariadení. Zákon č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce.
 
+- 23e) Zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
+
 - 24) Napr. § 73 ods. 4 a 5 a § 75 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 231/1992 Zb., § 29 ods. 1 zákona č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení zákona č. 228/1991 Zb., § 52 ods. 4 zákona č. 335/1991 Zb. o súdoch a sudcoch, § 152a zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení zákona Slovenskej národnej rady č. 490/1992 Zb.
 
 - 25) Zákon č. 498/1990 Zb. o utečencoch.
