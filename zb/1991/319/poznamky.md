@@ -8,11 +8,19 @@
 
 - 3) Zákon č. 87/1991 Zb.
 
+- 3a) § 59 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
+
 - 4) § 3 ods. 2 zákona č. 138/1948 Zb. o hospodárení s bytmi.
 
 - 5) § 5 až 7 zákona č. 87/1991 Zb.
 
 - 5a) § 18 ods. 2 zákona č. 87/1991 Zb.
+
+- 5b) § 115 Občianskeho zákonníka.
+
+- 5c) § 13 ods. 5 zákona č. 87/1991 Zb.
+
+- § 1 nariadenia vlády Slovenskej republiky č. 289/1991 Zb. o výške finančnej náhrady vyplatenej v hotovosti pri mimosúdnych rehabilitáciách.
 
 - 6) § 10 ods. 4 zákona č. 87/1991 Zb.
 
@@ -23,6 +31,14 @@
 - 9) Zákon č. 88/1950 Zb. Trestný zákon správny.
 
 - Zákon č. 89/1950 Zb. o trestnom konaní správnom.
+
+- 9a) Zákon č. 87/1991 Zb. v znení zákona č. 267/1992 Zb.
+
+- 9b) § 13 písm. a) zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
+
+- 9c) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb.
+
+- 9d) § 10 ods. 2 zákona č. 92/1991 Zb.
 
 - 10) § 9 ods. 1 písm. b) zákona č. 58/1969 Zb. o zodpovednosti za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom.
 
@@ -36,6 +52,10 @@
 
 - Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení zákona Slovenskej národnej rady č. 130/1991 Zb.
 
+- 13a) Zákon č. 87/1991 Zb.
+
+- Vyhláška Ministerstva financií Slovenskej republiky č. 392/1991 Zb., ktorou sa ustanovuje postup podľa § 34 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
+
 - 14) Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
 - 15) § 5 ods. 2 zákona č. 87/1991 Zb.
@@ -47,3 +67,5 @@
 - 18) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 532/1990 Zb. o vydaní štátnych dlhopisov na úhrady pohľadávok z priznaných odškodnení podľa zákona č. 119/1990 Zb. o súdnej rehabilitácii.
 
 - Nariadenie vlády Slovenskej republiky č. 289/1991 Zb.
+
+- 19) § 47 ods. 3 zákona č. 92/1991 Zb. v znení zákona č. 92/1992 Zb.
