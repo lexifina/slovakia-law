@@ -1,8 +1,4 @@
-- 1b) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
-
-- 1) Napríklad § 2 Obchodného zákonníka v znení neskorších predpisov, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov, zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov, zákon č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
-
-- 1a) § 24 zákona Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení zákona Národnej rady Slovenskej republiky č. 278/1996 Z. z.
+- 1) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
 - 2) Napr. zákon č. 334/1991 Zb. o služobnom pomere policajtov zaradených vo Federálnom policajnom zbore a v Zbore hradnej polície.
 
@@ -17,6 +13,10 @@
 - § 1 a 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch.
 
 - 4b) § 9 ods. 3 Zákonníka práce.
+
+- 4c) Napríklad zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 14/1977 Zb. o ochrane pred nepriaznivými účinkami hluku a vibrácií, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 123/1993 Z. z. o ochrane zdravia pred nepriaznivými účinkami elektromagnetického poľa, úprava Ministerstva zdravotníctva Slovenskej socialistickej republiky č. Z-7631/1984-B/2-06 o hygienických zásadách pri práci s chemickými karcinogénmi (reg. v čiastke 24/1985 Zb.) v znení výnosu Ministerstva zdravotníctva Slovenskej republiky č. 8/1990 Vestníka MZ SR (reg. pod č. 375/1990 Zb.), úprava Ministerstva zdravotníctva Slovenskej socialistickej republiky č. Z-7199/1981-B/3-06 o hygienických zásadách pre prácu s lasermi (reg. v čiastke 25/1982 Zb.), úprava Ministerstva zdravotníctva Slovenskej socialistickej republiky č. Z-1629/1978-B/3-06 o hygienických požiadavkách na pracovné prostredie (reg. v čiastke 20/1978 Zb.) v znení úpravy č. Z-9021/84-B/2-06 (reg. v čiastke 24/1985 Zb.).
+
+- 4d) § 12 písm. c) a § 20 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
 - 5) § 11 zákona Českej národnej rady č. 37/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
