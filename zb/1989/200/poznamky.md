@@ -1,0 +1,1 @@
+- 1) § 2 (včítane poznámky 1) a § 3 nariadenia vlády ČSSR č. 127/1982 Zb. o závodnom stravovaní.
