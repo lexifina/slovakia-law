@@ -46,8 +46,6 @@
 
 - 24) Napríklad zákon č. 83/1990 Zb. o združovaní občanov, zákon Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore.
 
-- 25) Zákon Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.§ 28 ods. 6 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
-
 - 26) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 27) Zákon č. 142/1991 Zb. v znení neskorších predpisov.
