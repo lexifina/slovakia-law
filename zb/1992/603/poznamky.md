@@ -1,0 +1,1 @@
+- 1) Colný sadzobník sa uverejňuje ako samostatná príloha Zbierky zákonov (bude vydaný ako osobitná publikácia SEVT, a. s. Praha).
