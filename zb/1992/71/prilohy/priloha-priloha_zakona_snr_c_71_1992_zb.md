@@ -124,15 +124,17 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) Z návrhu na súpis zadržaných hnuteľných vecí súdnym vykonávateľom podľa § 672 Občianskeho zákonníka | 500 Sk
 
-- c) Z návrhu na zastavenie výkonu rozhodnutia alebo na jeho odklad | 500 Sk
+- c) Z návrhu na zastavenie výkonu rozhodnutia a exekúcie alebo na ich odklad | 500 Sk
 
 - d) Za konanie súdu o odvolaní proti uzneseniu súdu o nariadení výkonu rozhodnutia | 500 Sk
 
-- e) Zo žiadosti na vydanie poverenia súdnemu exekútorovi | 500 Sk
+- e) Zo žiadosti o udelenie poverenia súdnemu exekútorovi | 500 Sk
 
 - f) Za konanie súdu o námietkach proti exekúcii vykonávanej podľa zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov | 5 % z vymáhaného nároku, najmenej 500 Sk, najviac 200 000 Sk
 
-- Poznámka: Ak sa spojí v návrhu na základe toho istého vykonateľného rozhodnutia výkon rozhodnutia niekoľkými spôsobmi, zaplatí sa súčet príslušných poplatkov. |
+- g) Z návrhu na rozhodnutie o vykonateľnosti rozhodnutia cudzieho orgánu podľa § 250w ods. 1 Občianskeho súdneho poriadku | 1 000 Sk
+
+- Poznámky: 1. Ak sa spojí v návrhu na základe toho istého vykonateľného rozhodnutia výkon rozhodnutia niekoľkými spôsobmi, zaplatí sa súčet príslušných poplatkov.2. Poplatok podľa písmena e) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. |
 
 - Položka 14 |
 
@@ -158,29 +160,27 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Vo veciach obchodného registra |
 
-- a) z návrhu na prvý zápis alebo výmaz |
+- a) z návrhu na prvý zápis alebo na výmaz |
 
 - 1. akciovej spoločnosti | 20 000 Sk
 
 - 2. iných právnických osôb | 10 000 Sk
 
-- 3. organizačnej zložky právnickej osoby | 5 000 Sk
+- 3. fyzickej osoby - podnikateľa | 5 000 Sk
 
-- 4. organizačnej zložky fyzickej osoby | 1 000 Sk
+- 4. organizačnej zložky právnickej osoby | 5 000 Sk
 
-- b) z návrhu na prvý zápis alebo výmaz pre fyzické osoby | 5 000 Sk
+- 5. organizačnej zložky fyzickej osoby - podnikateľa | 1 000 Sk
 
-- c) z návrhu na zmeny a doplnenie v obchodnom registri, okrem písmen e) a f) | 500 Sk
+- b) z návrhu na zmenu právnej formy obchodnej spoločnosti (družstva) | 10 000 Sk
 
-- d) z návrhu na zápis alebo výmaz osôb oprávnených konať za subjekt zapísaný v obchodnom registri a zaň podpisovať, vrátane prokuristov a likvidátorov, za každú osobu | 500 Sk
+- c) z návrhu na zápis zmeny alebo na doplnenie akéhokoľvek počtu údajov týkajúcich sa jednej zapísanej osoby s výnimkou zmeny alebo doplnenia údajov v názve obce, v poštovom smerovacom čísle, v názve ulice alebo iného verejného priestranstva, prípadne s tým súvisiacej zmeny orientačného čísla alebo súpisného čísla, ak nedochádza k zmene jej sídla, miesta podnikania alebo bydliska | 1 500 Sk
 
-- e) z návrhu na doplnenie zápisu rodného čísla spoločníka, osôb, ktoré sú štatutárnym orgánom alebo jeho členmi, člena dozornej rady, za každú osobu | 200 Sk
+- d) z návrhu akcionára na poverenie na zvolanie valného zhromaždenia | 500 Sk
 
-- f) z návrhu na zápis zmeny bydliska osôb uvedených pod písmenom d) | 200 Sk
+- e) za uloženie listiny do zbierky listín, ak ide o listinu, ktorá sa ukladá do zbierky listín bez zápisu | 1 000 Sk
 
-- g) z návrhu na zvolanie zasadnutia valného zhromaždenia akciovej spoločnosti súdom | 500 Sk
-
-- Poznámky: 1. Ak je v jednom podaní na zápis do obchodného registra zahrnutých viac návrhov, spoplatňuje sa každý návrh osobitne.2. Ak sa navrhuje v jedinom návrhu na zápis zmeny stanov v niekoľkých smeroch, spoplatní sa návrh jediným poplatkom uvedeným pod písmenom c).3. Zmenou zápisu sa rozumie výmaz pôvodnej a zápis novej skutočnosti.4. Ak sa má vykonať zápis do obchodného registra na súde príslušnom pre odštepný závod, ktorého sídlo je mimo obvodu súdu príslušného pre podnikateľa, poplatok sa vyberie len raz na súde príslušnom pre podnikateľa.5. Ak navrhovateľ vzal návrh na zápis do obchodného registra späť pred jeho vykonaním, poplatok sa vráti.6. Odvolania vo veciach obchodného registra poplatku nepodliehajú. |
+- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis.2. V poplatkoch podľa písmen a), b), c) a e) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov a zverejnenie oznámenia o uložení listiny do zbierky listín v Obchodnom vestníku.3. Zmenou zápisu sa rozumie výmaz pôvodného a zápis nového údaja.4. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre odštepný závod alebo inú organizačnú zložku podniku, ktorých sídlo je mimo obvodu registrového súdu príslušného pre podnikateľa, poplatok sa vyberie len raz na súde príslušnom pre podnikateľa.5. Ak navrhovateľ vzal návrh na zápis späť pred vykonaním zápisu, poplatok sa mu vráti.6. Poplatok podľa písmena e) tejto položky sa vyberá za uloženie tých listín do zbierky listín, ktoré nie sú prílohou návrhu na zápis, a vyberá sa osobitne za každú takto ukladanú listinu.7. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaní vo veciach obchodného registra podľa § 200a Občianskeho súdneho poriadku poplatku nepodliehajú. |
 
 - Položka 18 |
 
@@ -282,13 +282,13 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 24b |
 
-- a) Za vyhotovenie a vydanie výpisu z obchodného registra v konaní za každú aj začatú stranu | 50 Sk
+- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadku, za každú, aj začatú stranu | 100 Sk
 
-- b) Za vyhotovenie a vydanie výpisu z obchodného registra mimo konania za každú aj začatú stranu | 100 Sk
+- b) za vyhotovenie fotokópie listiny uloženej v zbierke listín, za každú, aj začatú stranu | 10 Sk
 
-- c) za vyhotovenie fotokópie listín uložených v zbierke listín, ktorá je súčasťou spisu obchodného registra, za každú aj začatú stranu | 10 Sk
+- c) za vyhotovenie a vydanie odpisu z obchodného registra, potvrdenia o tom, že v obchodnom registri určitý zápis nie je, a za vydanie potvrdenia o tom, že určitá listina nie je uložená do zbierky listín | 100 Sk
 
-- Poznámky: Za výpis podľa písmena a) sa považuje len výpis alebo výpisy vydané spolu s uznesením o zápise, povolení zmeny zápisu alebo o výmaze z obchodného registra. |
+- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov a podľa § 200b ods. 4 Občianskeho súdneho poriadku, poplatku nepodlieha. |
 
 - Položka 24c |
 
@@ -316,17 +316,13 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 28 |
 
-- Za vyhotovenie ďalšieho rovnopisu rozhodnutia vydaného súdom alebo za vyhotovenie odpisu alebo výpisu zo záznamov, zápisníc a spisov vedených súdom | 50 Sk
+- Za vyhotovenie ďalšieho rovnopisu rozhodnutia vydaného súdom alebo za vyhotovenie odpisu alebo výpisu zo záznamov, zápisníc a spisov vedených súdom | 50 Sk za každých začatých desať strán rovnopisu, odpisu alebo výpisu
 
 - Položka 29 |
 
-- a) Za oznámenie mena znalca alebo tlmočníka | 50 Sk
+- a) Z návrhu na vymenovanie za znalca alebo tlmočníka | 2 000 Sk
 
-- b) Za nahliadnutie do zoznamu znalcov a tlmočníkov | 50 Sk
-
-- c) Z návrhu na vymenovanie za znalca alebo tlmočníka | 500 Sk
-
-- d) Z návrhu na zápis do zoznamu správcov konkurznej podstaty | 500 Sk
+- b) Z návrhu na zápis do zoznamu správcov konkurznej podstaty | 2 000 Sk
 
 - IV. Poplatky za úkony prokuratúry |
 
