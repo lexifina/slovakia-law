@@ -1,0 +1,7 @@
+# § 12a
+
+(1) Ak návrh na vyhlásenie konkurzu neobsahuje náležitosti podľa tohto zákona a súd nepovolil osobe oprávnenej podať návrh na vyhlásenie konkurzu podľa § 4 ods. 1 primeranú dodatočnú lehotu na predloženie niektorých z chýbajúcich náležitostí alebo nebol uhradený preddavok na úhradu odmeny predbežného správcu podľa § 4 ods. 7, súd najneskôr do 60 dní odo dňa doručenia návrhu alebo najneskôr do 30 dní od uplynutia lehoty uvedenej vo výzve na doplnenie niektorej z chýbajúcich náležitostí podľa § 4 ods. 4 až 6 konanie uznesením zastaví.
+
+(2) Ak súd nezastavil konanie podľa odseku 1 a návrh na vyhlásenie konkurzu podal veriteľ, súd do 30 dní odo dňa doručenia návrhu na vyhlásenie konkurzu spĺňajúceho náležitosti podľa § 4 ods. 3 až 6 zabezpečí odoslanie rovnopisu návrhu na vyhlásenie konkurzu aj s prílohami dlžníkovi; spolu s rovnopisom návrhu na vyhlásenie konkurzu zašle súd dlžníkovi výzvu, aby najneskôr do 30 dní od doručenia rovnopisu návrhu na vyhlásenie konkurzu predložil súdu zoznam aktív a pasív.
+
+(3) Súd v lehote 30 dní odo dňa doručenia zoznamu aktív a pasív alebo odo dňa uplynutia lehoty na predloženie zoznamu aktív a pasív podľa odseku 2 posúdi, či sú splnené podmienky na ustanovenie predbežného správcu podľa § 9a ods. 1 alebo sú splnené podmienky na zamietnutie návrhu na vyhlásenie konkurzu, alebo či sú splnené podmienky na rozhodnutie o vyhlásení konkurzu. Súd v lehote nie dlhšej ako 60 dní vydá rozhodnutie.

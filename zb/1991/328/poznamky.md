@@ -66,7 +66,7 @@
 
 - 5) § 149 ods. 4 Občianskeho zákonníka v znení neskorších predpisov.
 
-- 5a) § 258a a 258b Colného zákona v znení zákona č. 239/2000 Z. z.§ 95 a 95a zákona č. 511/1992 Zb. v znení zákona č. 240/2000 Z. z.§ 128c a 128d zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení zákona č. 241/2000 Z. z.§ 71c a 71d zákona č. 273/1994 Z. z. v znení zákona č. 242/2000 Z. z.§ 25a zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení zákona č. 243/2000 Z. z.§ 24 ods. 2 zákona č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení zákona č. 242/2000 Z. z.
+- 5a) § 258a a 258b Colného zákona v znení zákona č. 239/2000 Z. z.§ 95 a 95a zákona č. 511/1992 Zb. v znení zákona č. 240/2000 Z. z.§ 128c a 128d zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení zákona č. 241/2000 Z. z.§ 25a zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení zákona č. 243/2000 Z. z.
 
 - 5b) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -75,10 +75,6 @@
 - 6a) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení neskorších predpisov.
 
 - 6b) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
-- 6c) § 28 ods. 1 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.§ 2 ods. 1 zákona č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov.
-
-- 6d) § 32 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
 
 - 6e) § 5 zákona Národnej rady Slovenskej republiky č. 192/1995 Z. z.
 
