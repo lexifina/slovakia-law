@@ -170,6 +170,124 @@ Zákonník práce č. 65/1965 Zb. v znení zákona č. 88/1968 Zb., zákona č. 
 
 - členov posádok námorných lodí.“.
 
+- 11. Za § 64 sa vkladajú § 64a až 64f, ktoré vrátane nadpisu znejú:
+
+- „Platobná neschopnosť zamestnávateľa a uspokojovanie nárokov zamestnancov z pracovného pomeru pri platobnej neschopnosti
+
+- § 64a
+
+- (1)
+
+- Na účely uspokojovania nárokov zamestnancov z pracovného pomeru pri platobnej neschopnosti sa zamestnávateľ považuje za platobne neschopného, ak bol podaný návrh na vyhlásenie konkurzu a súd rozhodol o
+
+- a)
+
+- vyhlásení konkurzu,
+
+- b)
+
+- zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku.
+
+- (2)
+
+- Dňom vzniku platobnej neschopnosti je deň vydania rozhodnutia súdu o vyhlásení konkurzu alebo deň vydania rozhodnutia súdu, ktorým súd zamietol návrh na vyhlásenie konkurzu pre nedostatok majetku.
+
+- § 64b
+
+- (1)
+
+- Ak sa zamestnávateľ stane platobne neschopný podľa § 64a a nemôže uspokojiť nároky zamestnancov z pracovného pomeru, uspokoja sa tieto nároky z garančného fondu.<sup>16a</sup>)
+
+- (2)
+
+- Nároky zamestnancov z pracovného pomeru, ktoré sa uspokojujú z garančného fondu (ďalej len „peňažná náhrada“), sú
+
+- a)
+
+- nárok na mzdu a odmenu za pracovnú pohotovosť,
+
+- b)
+
+- nárok na náhradu mzdy za sviatky a pri prekážkach v práci,
+
+- c)
+
+- nárok na náhradu mzdy za dovolenku na zotavenie, na ktorú vznikol nárok počas kalendárneho roka, v ktorom došlo k platobnej neschopnosti zamestnávateľa, ako aj za predchádzajúci kalendárny rok,
+
+- d)
+
+- nárok na odstupné, ktoré patrí zamestnancom pri skončení pracovného pomeru,
+
+- e)
+
+- nárok na náhradu mzdy pri okamžitom zrušení pracovného pomeru (§ 54),
+
+- f)
+
+- nárok na náhradu mzdy pri neplatnom rozviazaní pracovného pomeru (§ 61),
+
+- g)
+
+- nároky cestovných, sťahovacích a iných výdavkov, ktoré vznikli pri plnení pracovných povinností,
+
+- h)
+
+- nárok na náhradu škody v súvislosti s pracovným úrazom alebo chorobou z povolania,
+
+- i)
+
+- súdne trovy v súvislosti s uplatnením nárokov z pracovného pomeru zamestnanca na súde z dôvodu zrušenia zamestnávateľa vrátane nákladov na právneho zástupcu.
+
+- (3)
+
+- Peňažná náhrada sa podľa odseku 2 písm. a) až h) poskytne zamestnancovi vo výške príslušného nároku zníženého o poistné na nemocenské poistenie, dôchodkové zabezpečenie, zdravotné poistenie, príspevok na poistenie v nezamestnanosti, ktoré je povinný platiť zamestnanec, príspevok na doplnkové dôchodkové poistenie, ktoré platí zamestnanec podľa osobitného predpisu, a preddavok na daň z príjmov zo závislej činnosti a funkčných požitkov podľa osobitného predpisu vypočítaných podľa podmienok platných v príslušnom kalendárnom mesiaci, za ktorý sa uvedený nárok zamestnanca zisťuje.
+
+- (4)
+
+- Peňažná náhrada z garančného fondu sa poskytne za posledné dva mesiace pred vznikom platobnej neschopnosti zamestnávateľa alebo za posledné dva mesiace pred skončením pracovného pomeru z dôvodu zrušenia zamestnávateľa v súvislosti s jeho platobnou neschopnosťou (ďalej len „skončenie pracovného pomeru“).
+
+- (5)
+
+- Výška peňažnej náhrady z garančného fondu nesmie presiahnuť dvojnásobok sumy priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky za prvý polrok predchádzajúceho kalendárneho roka.
+
+- § 64c
+
+- (1)
+
+- Zamestnávateľ alebo správca konkurznej podstaty sú povinní písomne informovať príslušný odborový orgán, a ak u zamestnávateľa nepôsobí odborová organizácia, priamo zamestnancov o platobnej neschopnosti do piatich pracovných dní od jej vzniku.
+
+- (2)
+
+- Zamestnanec je povinný oznámiť správcovi konkurznej podstaty alebo zamestnávateľovi na jeho žiadosť informácie potrebné v súvislosti s potvrdením nárokov z pracovného pomeru podľa § 64b.
+
+- (3)
+
+- Zamestnávateľ, správca konkurznej podstaty a zamestnanec sú povinní oznámiť okresnému úradu práce informácie súvisiace s poskytnutím peňažnej náhrady.
+
+- § 64d
+
+- Zamestnávateľ alebo správca konkurznej podstaty zamestnancovi potvrdí nároky z pracovného pomeru podľa § 64b a ich výšku za posledné dva mesiace pracovného pomeru pred vznikom platobnej neschopnosti zamestnávateľa alebo za posledné dva mesiace pred skončením pracovného pomeru. Potvrdenie o nárokoch zamestnanca z pracovného pomeru a o ich výške súčasne predloží okresnému úradu práce.
+
+- § 64e
+
+- (1)
+
+- Nárok na peňažnú náhradu z garančného fondu zamestnanec uplatňuje na okresnom úrade práce, a to do 30 dní od vzniku platobnej neschopnosti zamestnávateľa alebo odo dňa skončenia pracovného pomeru.
+
+- (2)
+
+- Nárok na peňažnú náhradu môže zamestnanec uplatniť aj po lehote uvedenej v odseku 1, najneskoršie do 60 dní od vzniku platobnej neschopnosti zamestnávateľa, ak lehotu zmeškal pre dôležitú prekážku na svojej strane.
+
+- § 64f
+
+- Zamestnanec nemá nárok na peňažnú náhradu, ak pracovnú zmluvu uzatvoril po vzniku platobnej neschopnosti zamestnávateľa, ak bol na platobnú neschopnosť zamestnávateľa upozornený.“.
+
+- Poznámka pod čiarou k odkazu 16a znie:
+
+- „16a)
+
+- § 77a zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 292/1999 Z. z.“.
+
 - 12. § 70 vrátane nadpisu znie:
 
 - „§ 70
