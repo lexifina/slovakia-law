@@ -17,3 +17,7 @@ Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v zn
 - 2. V prílohe č. 3 skupine č. 314 - Ostatné poradové č. 12
 
   - a) v stĺpci Živnosť znie: „Cestná motorová doprava (vnútroštátna nepravidelná autobusová doprava, vnútroštátna nákladná cestná doprava, vnútroštátna taxislužba)",
+
+  - b) v stĺpci Preukaz spôsobilosti znie: „osvedčenie o odbornej spôsobilosti, doklad o finančnej spoľahlivosti",
+
+  - c) v stĺpci Poznámka znie: „§ 3 a 3a zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.".
