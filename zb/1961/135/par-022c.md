@@ -10,7 +10,7 @@
 
   - 3. v ochrannom pásme diaľnice, cesty alebo miestnej komunikácie vykoná práce (činnosti), ktoré by mohli ohroziť pozemnú komunikáciu alebo premávku na nej,
 
-  - 4. vykoná pripojenie komunikácie na diaľnicu, cestu alebo na miestnu komunikáciu alebo zriadi zjazd z týchto komunikácií na priľahlé nehnuteľnosti alebo zruší napojenie komunikácií a zjazdov,
+  - 4. vykoná pripojenie komunikácie na diaľnicu, cestu alebo na miestnu komunikáciu alebo zriadi vjazd z týchto komunikácií na priľahlé nehnuteľnosti alebo zruší napojenie komunikácií a vjazdov,
 
   - 5. zamení, pozmení, premiestni, odstráni, umiestni alebo zakryje dopravnú značku alebo iné zariadenie, ktoré je súčasťou pozemnej komunikácie,
 
@@ -26,9 +26,9 @@
 
 - g) ako vodič použije vymedzené úseky diaľnic a ciest pre motorové vozidlá bez označenia motorového vozidla platnou nálepkou,
 
-- h) umiestni reklamné zariadenia na diaľniciach a cestách pre motorové vozidlá a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.
+- h) umiestni reklamné, informačné a propagačné zariadenia na diaľniciach, cestách pre motorové vozidlá a medzinárodných cestných ťahoch a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.
 
-(2) Za priestupok podľa odseku 1 písm. a) až f) možno uložiť pokutu do 10 000 Sk.
+(2) Za priestupok podľa odseku 1 písm. a) až f) a písm. h) možno uložiť pokutu do 10 000 Sk.
 
 (3) Za priestupok podľa odseku 1 písm. g) možno uložiť vodičovi pokutu vo výške dvojnásobku úhrady uvedenej v sadzobníku, ktorý je prílohou tohto zákona.
 

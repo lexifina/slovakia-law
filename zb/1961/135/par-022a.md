@@ -16,7 +16,7 @@ Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 1 
 
   - 4. používa pri veľkých stavbách, ťažobných prácach alebo pri terénnych úpravách vyžadujúcich stavebné povolenie alebo iné povolenie podľa osobitných predpisov<sup>7</sup>) pozemnú komunikáciu, ktorej stavebno-technické vybavenie nezodpovedá požadovanej premávke,
 
-  - 5. vykoná pripojenie komunikácie na diaľnicu, cestu alebo na miestnu komunikáciu alebo zriadi zjazd z týchto komunikácií na priľahlé nehnuteľnosti alebo zruší napojenie komunikácií a zjazdov,
+  - 5. vykoná pripojenie komunikácie na diaľnicu, cestu alebo na miestnu komunikáciu alebo zriadi vjazd z týchto komunikácií na priľahlé nehnuteľnosti alebo zruší napojenie komunikácií a vjazdov,
 
   - 6. zamení, pozmení, premiestni, odstráni, umiestni alebo zakryje dopravnú značku alebo iné zariadenie, ktoré je súčasťou pozemnej komunikácie,
 
@@ -34,4 +34,4 @@ Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 1 
 
 - h) nedodrží podmienky uvedené v povolení na zvláštne užívanie diaľnic, ciest a miestnych komunikácií pre nadmernú a nadrozmernú prepravu,
 
-- ch) umiestni reklamné zariadenia na diaľniciach a cestách pre motorové vozidlá a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.
+- ch) umiestni reklamné, informačné a propagačné zariadenia na diaľniciach, cestách pre motorové vozidlá a medzinárodných cestných ťahoch a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.
