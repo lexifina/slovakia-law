@@ -2,6 +2,12 @@
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína.
 
+- 2a) ČSN 567005 Liehoviny spoločné ustanovenia.
+
+- 2b) § 76 ods. 2 zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z.
+
+- 2c) § 2 ods. 4 vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 16/1972 Zb. o hospodárení s liehom v znení vyhlášky č. 66/1991 Zb.
+
 - 3) § 2 písm. m) zákona č. 618/1992 Zb. Colný zákon.
 
 - 4) § 1 ods. 4 vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 16/1972 Zb. o hospodárení s liehom v znení vyhlášky Federálneho ministerstva hospodárstva č. 66/1991 Zb.
@@ -30,6 +36,8 @@
 
 - 16) ČSN 660860 Denaturovaný lieh.
 
+- 16a) § 63 ods. 2 písm. a) Colného zákona.
+
 - 17) § 1 ods. 1 a § 2 ods. 1 vyhlášky Ministerstva poľnohospodárstva a výživy Slovenskej socialistickej republiky č. 245/1988 Zb. o pestovateľskom pálení ovocia.
 
 - 18) § 2 Obchodného zákonníka.
@@ -39,3 +47,5 @@
 - 20) § 226 Colného zákona.
 
 - 21) § 10 vyhlášky Ministerstva financií Slovenskej republiky č. 117/1993 Z. z. o kontrole výroby a obehu liehu.
+
+- 22) § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
