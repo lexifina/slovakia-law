@@ -26,6 +26,8 @@
 
 - 14) § 16 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky.
 
+- 14a) § 2 ods. 2 písm. b) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
 - 15) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
 
 - 16) Napríklad § 2 ods. 1 zákona č. 513/1991 Zb. Obchodný zákonník, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -37,3 +39,7 @@
 - 19) Napríklad zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z., zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 21) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
+
+- 22) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
