@@ -32,7 +32,7 @@ Príloha zákona SNR č. 131/1970 Zb. o zriadení krajských výborov v Slovensk
 
 12 | | vyhl. č. 108/1966 Zb. | § 2 ods. 1 | udeľovanie oprávnení na projektovú činnosť organizáciám
 
-13 | | smernice por. č. 9/1966 Zb. NV | čl. 20 ods. 2 | vymedzenie oblastí, v ktorých stavby uskutočňované podľa týchto smerníc musia spĺňať osobitné podmienky, po prerokovaní s dotknutými orgánmi štátnej správy
+13 | Zrušená od 1. 1. 1972. | | |
 
 14 | | vl. nariadenie č. 9/1968 Zb. | § 3 ods. 2 | udeľovanie súhlasu okresným národným výborom na zriadovanie útvarov územného plánovania a architektúry
 
@@ -52,7 +52,7 @@ Príloha zákona SNR č. 131/1970 Zb. o zriadení krajských výborov v Slovensk
 
 | využitie nerastného bohatstva | | |
 
-20 | | zák. č. 41/1957 Zb. | § 34 ods. 2 a 3 | schvaľovanie dohôd v prípade stretov záujmov medzi tažobným podnikom a organizáciou, ktorá spravuje ohrozený objekt alebo zariadenie, prípadne s orgánom štátnej správy, ktorému patrí ochrana týchto záujmov; ak nedôjde k stretu záujmov
+20 | Zrušená od 1. 1. 1972. | | |
 
 | energetiky | | |
 
@@ -82,7 +82,7 @@ Príloha zákona SNR č. 131/1970 Zb. o zriadení krajských výborov v Slovensk
 
 31 | | vyhl. č. 66/1966 Zb. | § 5 ods. 2 | určovanie ďalších miest, v ktorých k cene bytu môže národný výbor určiť prirážku do 15 %
 
-32 | | | § 5 ods. 3 | povoľovanie zvýšenia hornej hranice zľavy poskytovanej z ceny bytu, a to pre určitý okres, mesto alebo obec
+32 | | | § 5 ods. 3 | povoľovanie zvýšenia hornej hranice zľavy poskytovanej z ceny bytu, a to pre určitý okres
 
 | školstva | | |
 
@@ -132,7 +132,7 @@ Príloha zákona SNR č. 131/1970 Zb. o zriadení krajských výborov v Slovensk
 
 | kultúry a informácií | | |
 
-50 | | zák. č. 55/1957 Zb. | § 10 ods. 2 | povoľovanie prevádzania neštátneho divadla socialistickým organizáciám a urcčvanie podmienok a spôsobu a prevádzania divadla
+50 | Zrušená od 1. 1. 1972. | | |
 
 51 | | zák. SNR č. 109/1961 Zb. | § 6 ods. 1 | vypracúvanie plánu siete múzeí a galérií a určovanie, ktoré z nich plnia aj vedeckovýskumné úlohy a poskytujú odbornú metodickú pomoc ostatným múzeám a galériám
 
