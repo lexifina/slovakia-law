@@ -1,1 +1,0 @@
-- 1) Pozri zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie a zákon č. 462/1919 Zb. o prepožičiavaní miest legionárom v znení zákona č. 196/1946 Zb."
