@@ -116,8 +116,6 @@
 
 - 41) Zákon č. 224/1925 Zb. a n. o úprave pomerov vzniklých z usídlenia osadníkov na základe pomeru námezdného alebo pomerov podobných na nemovitom štátnom majetku na Slovensku a v Podkarpatskej Rusi.
 
-- 41a) Zákon č. 219/1991 Zb., ktorým sa mení a dopĺňa zákon č. 105/1990 Zb. o súkromnom podnikaní občanov.
-
 - 42) Napr. zákon č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby v znení neskorších predpisov.
 
 - 43) § 6 ods. 4 zákona č. 229/1991 Zb.
