@@ -98,6 +98,8 @@
 
 - 36) Čl. 42 ods. 2 Ústavy Slovenskej republiky.
 
+- 36a) Napríklad nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
+
 - 37) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 38) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
@@ -108,7 +110,7 @@
 
 - 40) Zákon č. 428/2002 Z. z.
 
-- 40a) § 8 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
+- 40a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 41) § 85 ods. 5 zákona č. 311/2001 Z. z.
 
@@ -132,7 +134,9 @@
 
 - 49) Zákon č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok v znení neskorších predpisov.
 
-- 49a) Napríklad zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+- 49a) Článok 11 nariadenia Rady (EHS) č. 1612/68 z 15. októbra 1968 o slobodnom pohybe pracovníkov v rámci Spoločenstva (Ú. v. ES L 257, 19.10.1968) v znení nariadenia (EHS) č. 312/76 z 9. februára 1976 (Ú. v. ES L 39, 14.2.1976) v znení nariadenia (EHS) č. 2434/92 z 27. júla 1992 (Ú. v. ES L 245, 26.8.1992).
+
+- 49b) Napríklad zákon č. 477/2002 Z. z. v znení neskorších predpisov, zákon č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
 - 50) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
