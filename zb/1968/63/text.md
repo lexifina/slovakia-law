@@ -134,49 +134,23 @@ Na ústredných orgánoch štátnej správy, na národných výboroch a na ostat
 
 Mzdové otázky Úhrada odpadnutého pracovného času
 
-- 22. Pri prechode na skrátený týždenný pracovný čas musí sa úbytok pracovného času v zásade plne uhradiť zodpovedajúcim zvýšením hodinovej produktivity práce. Opatrenia na zabezpečenie rastu hodinovej produktivity práce v rozsahu potrebnom pre plnú úhradu odpadnutého pracovného času musia sa premietnuť do noriem spotreby práce (§ 114 Zákonníka práce), nie však paušálne, ale vzhľadom na rôzne možnosti na jednotlivých pracoviskách diferencovane, pri plnom využití možností prevádzať pracovníkov medzi jednotlivými pracoviskami (vrátane administratívy a ostatných režijných pracovísk) v rámci jednotlivých organizácií. Všetky tieto opatrenia musia sa vykonávať tak, aby sa nezvýšili celkové mzdové náklady na jednotku výroby alebo služieb.
-
-Ak sa budú uvedené opatrenia uplatňovať v organizácii postupne už pred zavedením skráteného pracovného času ako nevyhnutný predpoklad pre zvýšenie hodinovej produktivity práce a ak budú mať za následok prechodné zvýšenie objemu produkcie, musia sa ihneď pri svojej realizácii premietnuť nielen do noriem spotreby práce, ale aj do prémiových ukazovateľov.
+- 22. Zrušený od 16. 1. 1992.
 
 Úhrada mzdy za odpadnutý pracovný čas
 
-- 23. Na úhradu mzdy za odpadnutý pracovný čas možno pre pracovníkov odmeňovaných podľa hodinových mzdových taríf (úkolových a časových) použiť niektorú z týchto foriem:
+- 23. Zrušený od 16. 1. 1992.
 
-  - a) zvýšenú mzdovú tarifu (príloha č. 1 týchto zásad), t. j. mzdovú tarifu prepočítanú pre skrátený týždenný pracovný čas na jednosmenných pracoviskách (na 42 <sup>1</sup>/<sub>2</sub> hodín týždenne). Tam, kde pre jednosmenné pracoviská vo výrobných ucelených organizačných jednotkách s nepretržitou prevádzkou zostáva zachovaný už predtým zavedený 42 hodinový týždenný pracovný čas, môže sa ako základ použiť mzdová tarifa prepočítaná na 42 hodín týždenne (príloha č. 1 vyhlášky č. 62/1966 Zb.).
+- 24. Zrušený od 16. 1. 1992.
 
-- Pri používaní zvýšenej mzdovej tarify prepočítanej na 42 1/2 hodín týždenne sa na viacsmenných výrobných pracoviskách poskytujú pre druhú a tretiu smenu percentné príplatky k mzdovej tarife vo výške 6% pri druhej a vo výške 13% pri tretej smene; pri používaní tarify prepočítanej na 42 hodín týždenne sú tieto príplatky 5% a 12%. Okrem toho patrí v doterajšej výške príplatok za nočnú prácu. Aby sa pritom neznížili doterajšie zárobky v odpoludňajšej a nočnej smene, zvýši sa percento príplatku k mzdovej tarife priemerným koeficientom zodpovedajúcim dosiahnutej výške nadtarifnej zložky. Pritom možno príplatok paušalizovať s prihliadnutím na výšku nadtarifnej zložky dosahovanej za určité obdobie; možno tak urobiť buď pre určité skupiny pracovníkov, pracovné úseky alebo skupiny kvalifikačných tried za odpracovanú smenu celkom.
+- 25. Zrušený od 16. 1. 1992.
 
-- Na prácach v podzemí pri ťažbe uhlia, rúd a nerudných surovín, v banskej výstavbe a na banských pracoviskách geologického prieskumu zostáva základom mzdová tarifa prepočítaná na 40 hodín týždenne (úprava Ministerstva baníctva č. 1 z 1. 4. 1967) bez uvedených príplatkov za prácu v druhej a tretej smene;
-
-  - b) mzdové vyrovnanie k zárobku dosiahnutému v skrátenom pracovnom čase pri nezvýšenej mzdovej tarife ako dočasné opatrenie vo výnimočných prípadoch, v ktorých nemožno z časových dôvodov vykonať zmenu všetkých výrobných podkladov. Mzdové vyrovnanie sa poskytuje v tejto percentnej výške, ktorá zodpovedá úbytku fondu pracovného času (v úhrne za všetky smeny):
-
-- Percentná výška mzdového vyrovnania pri skrátení pracovného času
-
-- z týždennej dĺžky: | | na týždennú dĺžku: |
-
-- | 42 1/2 h | 41 1/4 h | 40,0 h
-
-- 44 h | 3,5 % | 6,7 % | 10,0 %
-
-- 43 h | 1,2 % | 4,2 % | 7,5 %
-
-- 42 h | - | 1,8 % | 5,0 %
-
-- Do základu pre výpočet mzdového vyrovnania sa nezahŕňa mzda za prácu nadčas, náhrada mzdy pri prekážkach v práci s výnimkou náhrad pri prekážkach na strane organizácie, náhrada mzdy za dovolenku na zotavenie a za sviatky, príplatky všetkých druhov a prémie, výška ktorých sa nevypočítava zo mzdovej tarify alebo zárobku pracovníka.
-
-- 24. Mesačné a týždenné mzdy pracovníkov, ktorí pracujú po určený týždenný pracovný čas, sa z dôvodov jeho skrátenia nemenia.
-
-- 25. Pracovníci s hodinovou mzdou, ktorí majú kratší pracovný čas na vlastnú žiadosť alebo preto, že povaha práce nevyžaduje plný pracovný čas, dostanú mzdu podľa zvýšených mzdových taríf [bod 23 a)] alebo podľa doterajších mzdových taríf a mzdové vyrovnanie [bod 23 b)], či už sa im pracovný čas úmerne skráti alebo nie. Pracovníci s mesačnou alebo týždennou mzdou dostanú pomernú časť mesačnej alebo týždennej mzdy. Obdobne sa postupuje pri odmeňovaní mladistvých pracovníkov vo veku do 16 rokov, u ktorých je pracovný čas určený na 36 hodín týždenne.
-
-- 26. Výška príplatkov, ktoré patria podľa skutočne odpracovaného času, zostáva nezmenená.
+- 26. Zrušený od 16. 1. 1992
 
 - 27. Zrušený od 1. 1. 1969.
 
 Odmena pracovníkov s mesačnou mzdou za prácu nadčas
 
-- 28. Pracovníci s mesačnou mzdou dostanú za každú hodinu práce nadčas, pokiaľ platné mzdové predpisy neustanovujú inak, jednu stopäťaosemdesiatinu základnej mesačnej mzdy a príslušný nadčasový príplatok.
-
-Toto ustanovenie sa nevzťahuje na pracovníkov, u ktorých sa pri určení mzdy už prihliadalo na prípadnú prácu nadčas.
+- 28. Zrušený od 16. 1. 1992.
 
 Pracovnoprávne otázky a nemocenské
 
