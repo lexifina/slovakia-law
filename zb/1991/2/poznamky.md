@@ -10,7 +10,23 @@
 
 - 4a) Položka 2 písm. a) zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
 
+- 4b) Zákon č. 311/1999 Z. z. o registri trestov.
+
+- 4c) § 2 zákona č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
+
 - 5) § 274 písm. h) Občianskeho súdneho poriadku.
+
+- 5a) Čl. 3 Dohovoru Medzinárodnej organizácie práce o slobode združovania a ochrane práva organizovať sa č. 87 z roku 1948 (oznámenie Federálneho ministerstva zahraničných vecí č. 489/1990 Zb. a bod 28 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z. o potvrdení sukcesie Slovenskej republiky do záväzkov z príslušných mnohostranných zmluvných dokumentov Medzinárodnej organizácie práce, ktorých depozitárom je generálny riaditeľ Medzinárodného úradu práce).
+
+- Čl. 2 Dohovoru Medzinárodnej organizácie práce o použití zásad práva organizovať sa a kolektívne vyjednávať č. 98 z roku 1949 (oznámenie Federálneho ministerstva zahraničných vecí č. 470/1990 Zb. a bod 33 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
+
+- 5b) Čl. 8 ods. 1 písm. d), čl. 8 ods. 2 a 3 Medzinárodného paktu o hospodárskych, sociálnych a kultúrnych právach (vyhláška ministra zahraničných vecí č. 120/1976 Zb.).
+
+- Čl. 6 ods. 4 Európskej sociálnej charty (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 329/1998 Z. z.).
+
+- Čl. 3 Dohovoru Medzinárodnej organizácie práce o slobode združovania a ochrane práva organizovať sa č. 87 z roku 1948 (oznámenie Federálneho ministerstva zahraničných vecí č. 489/1990 Zb. a bod 28 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
+
+- Čl. 2 Dohovoru Medzinárodnej organizácie práce o použití zásad práva organizovať sa a kolektívne vyjednávať č. 98 z roku 1949 (oznámenie Federálneho ministerstva zahraničných vecí č. 470/1990 Zb. a bod 33 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
 
 - 6) § 46 až 48 zákona č. 92/1949 Zb. branný zákon (úplné znenie č. 309/1990 Zb.).
 
