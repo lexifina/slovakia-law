@@ -1,10 +1,10 @@
-- 1) ČSN 56 6635 Pivo.
+- 1) STN 560186 Metóda skúšania piva.
 
 - 2) § 2 Obchodného zákonníka.
 
-- 3) § 2 písm. m) Colného zákona.
+- 2a) § 14 a 24 zákona č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon).
 
-- 4) Vyhláška Ministerstva financií Slovenskej republiky č. 82/1993 Z. z. o forme, obsahu a náležitostiach colného vyhlásenia a o spôsobe vedenia colnej štatistiky.
+- 3) § 2 písm. m) Colného zákona.
 
 - 5) § 194 a nasl. Colného zákona.
 
