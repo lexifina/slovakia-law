@@ -60,8 +60,6 @@
 
 - 23) § 6 ods. 2 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku.
 
-- 24) § 61 ods. 8 vyhlášky č. 105/1981 Zb.
-
 - 25) Príloha č. 17 vyhlášky č. 105/1981 Zb.
 
 - Výmer Federálneho cenového úradu č. 8065/10/81, ktorým sa určujú sadzby vedľajších rozpočtových nákladov.
@@ -69,8 +67,6 @@
 - 26) § 32 až 37 vyhlášky Štátnej arbitráže Československej socialistickej republiky č. 104/1973 Zb., ktorou sa vydávajú základné podmienky dodávky stavebných prác.
 
 - 27) Vyhláška Ministerstva dopravy č. 126/1964 Zb. o styku medzi celoštátnymi dráhami a vlečkami a o vzťahoch medzi zúčastnenými organizáciami (vlečkové podmienky) v znení neskorších predpisov.
-
-- 28) § 39 vyhlášky č. 104/1973 Zb.
 
 - 29) § 22 vyhlášky č. 104/1973 Zb.
 
@@ -85,16 +81,6 @@
 - 34) § 66 vyhlášky č. 105/1981 Zb.
 
 - 35) § 13 ods. 4 vyhlášky č. 105/1981 Zb.
-
-- 36) Príloha č. 17 vyhlášky č. 105/1981 Zb.
-
-- Výmer Federálneho cenového úradu č. 8065/10/81 z 23. 4. 1981.
-
-- Výmer Federálneho cenového úradu č. 8145/10/83 z 25. 7. 1983.
-
-- 37) Príloha č. 17 vyhlášky č. 105/1981 Zb.
-
-- 38) § 25 ods. 3 písm. a) podods. aa) vyhlášky č. 105/1981 Zb.
 
 - 39) Počítačovým systémom pre systémy riadenia sa na účely tejto vyhlášky rozumie funkčne ucelená jednota
 
