@@ -1,1 +1,0 @@
-- 1) Po čas trvania účelovej ašpirantúry vysielajúca organizácia (ani školiace pracovisko) nepočíta vyslaných pracovníkov do evidenčného počtu a v tomto počte ich nevykazuje v zmysle smerníc Federálneho štatistického úradu k štátnym štatistickým výkazom za úsek „Pracovníci a mzdy" (Smernice FŠÚ 21 Práce Všeob).
