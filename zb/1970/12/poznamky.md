@@ -1,0 +1,1 @@
+- *) Oddiel C prílohy II tejto vyhlášky.
