@@ -20,6 +20,10 @@
 
 - 11) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
 
+- 11a) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.
+
+- 11a) § 26 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
 - 12) § 31a ods. 2 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
 - 13) § 244 až 250k Občianskeho súdneho poriadku.
