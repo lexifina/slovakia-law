@@ -1,0 +1,1 @@
+- 1) § 100 odst. 1 zákona č. 95/1963 Sb., o státním notařství a o řízení před státním notářstvím.
