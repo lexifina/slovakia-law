@@ -106,4 +106,22 @@ Príloha č. 7
 
 - 10. | Úhrnná výmera pozemkov patriacich k rekreačnému objektu je menšia ako 400 m<sup>2</sup> | 4
 
+- 11. | Ak ide o samostatné sídlo alebo časť obce, ktoré nie sú s obcou stavebne zrastené |
+
+- 11.1. | v hl. m. SR Bratislave, v Banskej Bystrici, Košiciach, Sliači, | 60
+
+- 11.2. | Piešťanoch, Starom Smokovci, Štrbskom Plese, Tatranskej Lomnici a Trenčianskych Tepliciach | 55
+
+- 11.3. | v Trnave, Trenčíne, Nitre, Žiline, Prešove, Poprade, Zvolene, Liptovskom Mikuláši a Martine | 40
+
+- 11.4. | v ostatných mestách a obciach | 30
+
+- 12. | Ak ide o časť obce, ktorá je s obcou stavebne zrastená, ale bola k obci pričlenená po 1. 1. 1965 |
+
+- 12.1. | v mestách uvedených v položkách 11.1. a 11.2. | 45
+
+- 12.2. | v mestách uvedených v položkách 11.3. a 11.4. | 30
+
+- Ak sa cena znižuje podľa položky č. 11. a 12., počítajú sa položky č. 1. až 10. už z takto upravenej ceny a nie zo základnej ceny uvedenej v § 15 ods. 1.
+
 - II. tabuľka platí pre pozemky oceňované podľa § 15 ods. 5 a pozemky vyňaté z I. tabuľky.

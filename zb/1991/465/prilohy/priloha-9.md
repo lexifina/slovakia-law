@@ -2175,5 +2175,3 @@ Príloha č. 8
 - Podrobný popis BPEJ zverejnilo FMPVŽ, MPVŽ ČR a MPVŽ SR v Užívateľskej príručke „Bonitácia čs. poľnohospodárskych pôd a smery ich využitia“ - diel 1: Vymedzenie a mapovanie bonitovaných pôdno-ekologických jednotiek ČSSR". Praha - Bratislava 1984, 132 s.
 
 - Údaje BPEJ konkrétneho pozemku určí pozemkový úrad.
-
-[Príloha 09](../assets/903db173e4e8542ca5c5afba7a25d53869b9e1595bd5915fc1113b68a117f88b.pdf)

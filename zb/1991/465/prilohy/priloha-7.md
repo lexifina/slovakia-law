@@ -91,5 +91,3 @@ Príloha č. 6
 - o.p. = obostavaný priestor
 
 - z.p. = zastavaná plocha
-
-[Príloha 07](../assets/a91bafdd50417cbe975cff12e940684a6a4b55f08404dba38060bd08072af9c5.pdf)

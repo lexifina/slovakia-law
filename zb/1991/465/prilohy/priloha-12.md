@@ -27,5 +27,3 @@ P. č. | Drevina | Rub. vek | Relatívna bonita | | | | | | | | | |
 10 | Breza (jarabina) | 60 | 214 | 188 | 162 | 136 | 110 | - | - | - | - | - | -
 
 Priemerná porastová zásoba dreva sa vypočíta podľa cieľového zastúpenia drevín.
-
-[Príloha 10](../assets/4ccae721866035a3ff89ac8c7a964c66459235b73cfb2b18c261872835fc1ba9.pdf)

@@ -1,6 +1,8 @@
-- 1) § 198 ods. 2 Občianskeho zákonníka.
+- 1) Napr. zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností.
 
-- 2) § 397 ods. 3 Občianskeho zákonníka.
+- 2) Výmer Ministerstva financií Slovenskej republiky č. 6/55/1992, ktorým sa určujú spôsoby a podmienky oceňovania majetku podnikov a ich častí v procese veľkej privatizácie (bude uverejnený vo Finančnom spravodajcovi).
+
+- 2a) Vyhláška Federálneho štatistického úradu č. 124/1980 Zb. o jednotnej klasifikácii stavebných objektov a stavebných prác výrobnej povahy.
 
 - 3) § 88 ods. 1 a 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
@@ -12,6 +14,10 @@
 
 - 6) § 1 ods. 3 zákona č. 526/1990 Zb. o cenách.
 
+- 6a) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb.
+
+- 6b) Napr. § 9 zákona č. 530/1990 Zb. o dlhopisoch a šiesta časť zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
+
 - 7) § 128 ods. 1 Občianskeho zákonníka.
 
 - § 60 ods. 1 zákona č. 41/1964 Zb. o hospodárení s bytmi.
@@ -21,6 +27,8 @@
 - 9) Čl. 48 a 50 ČSN 73 4301 „Obytné budovy".
 
 - 10) § 59 zákona č. 41/1964 Zb.
+
+- 10a) § 4 vyhlášky Ústrednej správy pre rozvoj miestneho hospodárstva č. 60/1964 Zb. o úhrade za užívanie bytu a za služby spojené s užívaním bytu v znení neskorších predpisov.
 
 - 11) § 48 a 51 vyhlášky FMTIR č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu.
 
@@ -35,8 +43,6 @@
 - 16) § 47 vyhlášky č. 83/1976 Zb.
 
 - 17) Časť A, pol. č. 1, 2, 3 a 5 prílohy vyhlášky č. 23/1964 Zb. v znení vyhlášky č. 133/1965 Zb.
-
-- 18) Časť II. 3 výmeru Ministerstva financií SR č. 2/16/1991.
 
 - 19) § 14 až 16 a § 22 až 25 zákona č. 229/1991 Zb. o úprave vlastnickych vzťahov k pôde a k inému poľnohospodárskemu majetku.
 

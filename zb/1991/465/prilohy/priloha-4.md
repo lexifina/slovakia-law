@@ -32,11 +32,11 @@ Príloha č. 4
 
 - | 4.1. vápenná omietka alebo škárované murivo | 65
 
-- | 4.2. dvojnásobný náter | 25
+- | 4.2. dvojnásobný náter | 30
 
 - | 4.3. jednomurovka s vápennou omietkou alebo škárovaná | 50
 
-- | 4.4. jednoduchý náter | 30
+- | 4.4. jednoduchý náter | 25
 
 - | 4.5. základný náter alebo napustenie impregnáciou | 15
 

@@ -235,5 +235,3 @@ Príloha č. 3
   - Znaky č. 5, 6, 17 sa započítavajú v nadzemnom podlaží s najväčšou zastavanou plochou.
 
 - Znak č. 10 sa počíta rovnakou hodnotou vo všetkých nadzemných podlažiach.
-
-[Príloha 04](../assets/858c3e0a335f32126e6ea7b3b6e74f4d298682b30394b342cbf1fa4c72d67aa1.pdf)
