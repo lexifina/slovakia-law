@@ -57,3 +57,7 @@ Nariadenie vlády Slovenskej republiky č. 250/1992 Zb. o platových pomeroch pr
 - Výšku osobitného príplatku v rámci rozpätia ustanoveného v odsekoch 2 až 4 určí zamestnávateľ.“.
 
 - 6. Príloha č. 2 nariadenia vlády Slovenskej republiky č. 250/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 637/1992 Zb., nariadenia vlády Slovenskej republiky č. 73/1993 Z. z., nariadenia vlády Slovenskej republiky č. 279/1994 Z. z. a nariadenia vlády Slovenskej republiky č. 193/1996 Z. z. sa nahrádza prílohou č. 7 tohto nariadenia.
+
+- 7. Príloha č. 2a nariadenia vlády Slovenskej republiky č. 250/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 193/1996 Z. z. sa nahrádza prílohou č. 8 tohto nariadenia.
+
+- 8. Nariadenie vlády Slovenskej republiky č. 250/1992 Zb. o platových pomeroch príslušníkov Zboru požiarnej ochrany Slovenskej republiky v znení nariadenia vlády Slovenskej republiky č. 637/1992 Zb., nariadenia vlády Slovenskej republiky č. 73/1993 Z. z., nariadenia vlády Slovenskej republiky č. 279/1994 Z. z. a nariadenia vlády Slovenskej republiky č. 193/1996 Z. z. sa dopĺňa prílohou č. 2b, ktorá je obsiahnutá v prílohe č. 9 tohto nariadenia.

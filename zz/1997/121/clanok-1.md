@@ -12,6 +12,24 @@ Nariadenie vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch za
 
 - „Rovnako sa postupuje u zamestnancov v služobnom pomere, ktorým výkon podnikateľskej činnosti neumožňujú osobitné predpisy,<sup>9a</sup>) vrátane zamestnancov v služobnom pomere, ktorí majú určený tarifný plat podľa § 7a, 7b alebo § 7d.“.
 
+- 4. § 7a znie:
+
+- „§ 7a
+
+- (1)
+
+- Zamestnancovi, ktorý vykonáva úkony priamo spojené so zdravotnou starostlivosťou<sup>9b</sup>) v štátnom zdravotníckom zariadení, ktoré je finančným vzťahom napojené na rozpočtovú kapitolu zriaďovateľa, patrí tarifný plat vo výške platovej tarify určenej pre platovú triedu a platový stupeň, do ktorých je zaradený. Platové tarify sú uvedené v prílohe č. 2b.
+
+- (2)
+
+- Zamestnávateľ zamestnanca uvedeného v odseku 1 môže postupovať podľa § 7 ods. 2, 5 a 7 a u zamestnanca, ktorý je v služobnom pomere, aj podľa § 7 ods. 3. Ustanovenie § 7 ods. 8 týmto nie je dotknuté.“.
+
+- Poznámka pod čiarou k odkazu <sup>9b</sup>) znie:
+
+- „9b)
+
+- § 54 ods. 2 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.“.
+
 - 5. Za § 7a sa vkladajú § 7b, 7c a 7d, ktoré znejú:
 
 - „§ 7b
@@ -23,6 +41,20 @@ Nariadenie vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch za
 - (2)
 
 - Zamestnávateľ zamestnanca uvedeného v odseku 1 môže postupovať podľa § 7 ods. 2, 5 a 7 a u zamestnanca, ktorý je v služobnom pomere, aj podľa § 7 ods. 3. Ustanovenie § 7 ods. 8 týmto nie je dotknuté.
+
+- § 7c
+
+- (1)
+
+- Zamestnancovi, ktorý zabezpečuje poskytovanie zdravotnej starostlivosti<sup>9d</sup>) v ústave sociálnej starostlivosti, detskom domove a zariadení opatrovateľskej služby pre ťažko zdravotne postihnutých občanov a starých občanov,<sup>9e</sup>) ktoré sú finančným vzťahom napojené na rozpočtovú kapitolu zriaďovateľa, patrí tarifný plat vo výške platovej tarify určenej pre platovú triedu a platový stupeň, do ktorých je zaradený. Platové tarify sú uvedené v prílohe č. 2b.
+
+- (2)
+
+- Za zabezpečovanie poskytovania zdravotnej starostlivosti v zariadeniach podľa odseku 1 na účely tohto nariadenia sa považujú odborné práce a činnosti zamerané na zabezpečenie včasného zistenia zmeny zdravotného stavu občana, ktorému sa poskytuje starostlivosť v týchto zariadeniach, a ďalšie činnosti vykonávané zamestnancom, ktorý získal vzdelanie podľa osobitného predpisu<sup>9b</sup>) a ktorý sa priamo podieľa na výkone týchto činností.
+
+- (3)
+
+- Zamestnávateľ zamestnanca uvedeného v odsekoch 1 a 2 môže postupovať podľa § 7 ods. 2, 5 a 7. Ustanovenie § 7 ods. 8 týmto nie je dotknuté.
 
 - § 7d
 
