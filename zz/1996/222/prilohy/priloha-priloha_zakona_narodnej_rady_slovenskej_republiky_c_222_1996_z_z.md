@@ -4,7 +4,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 3. | | zák. č. 40/1961 Zb. v znení neskorších predpisov | § 19 ods. 1 | ukladá povinnosti štátnym orgánom, hospodárskym, spolocenským a iným organizáciám i obcanom v súvislosti s prípravami alebo preskúšavaním opatrení pre cas brannej pohotovosti štátu
 
-- 4. | všeobecná vnútorná správa | Občiansky zákonník | § 20i ods. 2 | vedie register záujmových združení právnických osôb
+- 4. | všeobecná vnútorná správa | Obciansky zákonník | § 20i ods. 2 | vedie register záujmových združení právnických osôb
 
 - 5. | | zák. SNR č. 63/1973 Zb. v znení neskorších predpisov | § 5 ods. 1 písm. b), §6, § 16, § 17 | povoluje, zrušuje a zastavuje konanie a vykonáva kontrolu a dozor nad dodržiavaním zákona pri verejnej zbierke, ktorá sa má konat na území kraja alebo jeho casti, ak nie je príslušný okresný úrad
 
@@ -53,28 +53,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 - 27. | | | § 73 ods. 2 | sústreduje a nasadzuje jednotky požiarnej ochrany bez ohladu na to, komu sú podriadené, a vecné prostriedky požiarnej ochrany bez ohladu na to, kto nimi disponuje v prípade naliehavej potreby pri zdolávaní požiarov
 
 - 28. | | | §74 | spolupracuje s príslušnými orgánmi dobrovolných spolocenských organizácií
-
-- 29. | civilná ochrana obyvatelstva | zák. NR SR č. 42/1994 Z. z. | § 13 písm. a) | vypracúva analýzu možného ohrozenia osôb a majetku na území kraja pre prípad mimoriadnej udalosti
-
-- 30. | civilná ochrana obyvatelstva | zák. NR SR č. 42/1994 Z. z. | § 13 písm. b) | koordinuje plnenie úloh a opatrení obmedzujúcich nepriaznivé vplyvy na ludí a majetok v prípadoch uvedených pod písmenom a)
-
-- 31. | | | § 13 písm. c) | uplatnuje stavebnotechnické požiadavky na stavby z hladiska požiadaviek civilnej ochrany a rozhoduje o zrušení zariadení na úcely civilnej ochrany
-
-- 32. | | | § 13 písm. d) | vypracúva a vedie dokumentáciu civilnej ochrany
-
-- 33. | | | § 13 písm. e) | riadi a kontroluje plnenie úloh civilnej ochrany v pôsobnosti okresných úradov
-
-- 34. | | | § 13 písm. f) | organizuje preventívnovýchovnú a propagacnú cinnost v civilnej ochrane
-
-- 35. | | | § 13 písm. g) | riadi záchranné, lokalizacné a likvidacné práce, ak nepatria do pôsobnosti okresného úradu
-
-- 36. | | | § 13 písm. h) | plánuje, vyhlasuje, riadi a zabezpecuje evakuáciu, ak nepatrí do pôsobnosti okresného úradu
-
-- 37. | | | § 13 písm. i) | zabezpecuje úlohy ustanovené pre civilnú ochranu za brannej pohotovosti štátu
-
-- 38. | | | § 13 písm. j) | vypracúva v súcinnosti s okresnými úradmi plán ochrany obyvatelstva
-
-- 39. | | | § 13 ods. 2 | vyhlasuje a odvoláva mimoriadnu situáciu na území kraja, ak rozsah mimoriadnej udalosti presahuje územný obvod okresného úradu, a neodkladne vyžaduje prostredníctvom ministerstva vnútra vyhlásenie mimoriadnej situácie, ak rozsah mimoriadnej udalosti presahuje jeho územný obvod
 
 - 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. a) a príloha | povoluje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
 
@@ -302,7 +280,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 159. | zdravotníctvo | zák. NR SR č. 277/1994 Z. z. v znení neskorších predpisov | § 23 ods. 2 | spolupracuje s ministerstvom zdravotníctva a s orgánmi miestnej samosprávy pri usporiadaní zdravotníckych zariadení do siete zdravotníckych zariadení
 
-- 160. | | | § 24 ods. 1 písm. a) | zriaďuje ambulancie vrátane ambulancií v ústavoch sociálnej starostlivosti a ambulancií v detských domovoch
+- 160. | | | § 24 ods. 1 písm. a) | zriaduje ambulancie vrátane ambulancií v ústavoch sociálnej starostlivosti a ambulancií v detských domovoch
 
 - 161. | | | § 24 ods. 1 písm. b) | zriaduje agentúry domácej ošetrovatelskej starostlivosti
 
@@ -364,7 +342,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 190. | | | § 5 ods. 7 | môže zriadit so súhlasom ministerstva útvar správy stredných odborných ucilíšt na riadenie stredných odborných ucilíšt ako svoje zariadenie
 
-- 191. | školstvo, mládež a telesná kultúra | zák. SNR č. 542/1990 Zb. v znení neskorších predpisov | § 5 ods. 8 | zabezpecuje zhromaždovanie, predspracovanie a prenos informácií, ako aj ich uchovávanie a spracúvanie v rámci jednotného informacného systému na urcenom území; na tento úcel zriaduje so súhlasom ministerstva školské výpoctové strediská
+- 191. | školstvo, mládež a telesná kultúra | zák. SNR čc. 542/1990 Zb. v znení neskorších predpisov | § 5 ods. 8 | zabezpecuje zhromaždovanie, predspracovanie a prenos informácií, ako aj ich uchovávanie a spracúvanie v rámci jednotného informacného systému na urcenom území; na tento úcel zriaduje so súhlasom ministerstva školské výpoctové strediská
 
 - 192. | | zák. NR SR č. 279/1993 Z. z. v znení neskorších predpisov | § 5 ods. 4 | vykonáva štátnu správu na úseku špeciálnych materských škôl
 
@@ -386,11 +364,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 202. | | zák. SNR č. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
 
-- 204. | | zák. SNR č. 27/1987Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
+- 204. | | zák. SNR č. 27/1987 Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
 
 - 205. | | | § 7 ods. 2 | vedie zoznamy kultúrnych pamiatok
 
-- 206. | kultúra | zák. SNR č. 27/1987Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
+- 206. | kultúra | zák. SNR č. 27/1987 Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
 
 - 207. | | | § 11 ods. 2 | rozhoduje o podmienkach a zákaze výkonu cinnosti ohrozujúcej národnú kultúrnu pamiatku
 
