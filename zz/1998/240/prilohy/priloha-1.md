@@ -1,4 +1,4 @@
-Príloha k zákonu č. 240/1998 Z. z.
+Príloha č. 1 k zákonu č. 240/1998 Z. z.
 
 - Spôsob zisťovania rozhodného množstva dovozu Rozhodné množstvo dovozu príslušného poľnohospodárskeho tovaru sa zistí podľa možností jeho prístupu na trh ako pomer priemeru jeho dovozu a priemeru jeho domácej spotreby za rovnaké trojročné obdobie takto:
 
