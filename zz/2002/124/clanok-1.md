@@ -48,7 +48,15 @@ Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Úst
 
 - (2)
 
-- Kanceláriu riadi a v jej mene vystupuje vedúci Kancelárie. Vedúceho Kancelárie vymenúva a odvoláva predseda Ústavného súdu, ktorému zodpovedá za jej činnosť.“.
+- Kanceláriu riadi a v jej mene vystupuje vedúci Kancelárie. Vedúceho Kancelárie vymenúva a odvoláva predseda Ústavného súdu, ktorému zodpovedá za jej činnosť.
+
+- (3)
+
+- Úlohy Kancelárie plnia štátni zamestnanci<sup>1</sup>) a zamestnanci.<sup>2</sup>)
+
+- (4)
+
+- Podrobnosti o organizácii a činnosti Kancelárie a postavenie štátnych zamestnancov v Kancelárii a zamestnancov Kancelárie určuje jej organizačný poriadok, ktorý vydáva vedúci Kancelárie.“.
 
 - Poznámky pod čiarou k odkazom 1 a 2 znejú:
 
@@ -61,6 +69,38 @@ Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Úst
 - Zákon č. 313/2001 Z. z. o verejnej službe.“.
 
 - Doterajší odkaz a poznámka pod čiarou k odkazu 1 sa označujú ako odkaz a poznámka pod čiarou k odkazu 7.
+
+- 11. Za § 9 sa vkladajú § 9a a 9b, ktoré znejú:
+
+- „§ 9a
+
+- (1)
+
+- Štátni zamestnanci v Kancelárii sú odmeňovaní podľa katalógu činností v štátnej službe v Kancelárii, podľa stupnice platových taríf štátnych zamestnancov v Kancelárii a podľa osobitného predpisu.<sup>3</sup>) Katalóg činností v štátnej službe v Kancelárii je uvedený v prílohe č. 1 a stupnice platových taríf štátnych zamestnancov v Kancelárii sú uvedené v prílohe č. 2.
+
+- (2)
+
+- Na odmeňovanie štátnych zamestnancov v Kancelárii a na ich ďalšie náležitosti sa vzťahuje osobitný predpis,<sup>3</sup>) ak tento zákon neustanovuje inak.
+
+- (3)
+
+- Zvýšenie stupnice platových taríf štátnych zamestnancov v Kancelárii sa každoročne upravuje v súlade s výškou určenou podľa osobitného predpisu.<sup>4</sup>) O túto výšku sa upravujú stupnice platových taríf štátnych zamestnancov v Kancelárii. Zvýšenú stupnicu platových taríf štátnych zamestnancov v Kancelárii a termín jej platnosti určí služobný predpis.
+
+- § 9b
+
+- Vedúcemu Kancelárie určuje plat, paušálnu náhradu výdavkov spojených s výkonom funkcie a ďalšie náležitosti predseda Ústavného súdu.“.
+
+- Poznámky pod čiarou k odkazom 3 a 4 znejú:
+
+- „3)
+
+- § 78 až 106 a § 159 zákona č. 312/2001 Z. z.
+
+- 4)
+
+- § 105 zákona č. 312/2001 Z. z.“.
+
+- Doterajší odkaz a poznámka pod čiarou k odkazu 3 sa označujú ako odkaz a poznámka pod čiarou k odkazu 23.
 
 - 12. V § 11 sa vypúšťajú odseky 2 až 4.
 
