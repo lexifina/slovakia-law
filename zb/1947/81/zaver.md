@@ -1,1 +1,0 @@
-Ing. Kopecký v. r.
