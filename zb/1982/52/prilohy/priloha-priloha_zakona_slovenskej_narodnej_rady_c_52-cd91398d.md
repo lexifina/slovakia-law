@@ -28,24 +28,6 @@ Príloha zákona Slovenskej národnej rady č. 52/1982 Zb., ktorým sa mení a d
 
 11 | | zák. č. 68/1979 Zb. | § 29 ods. 2 písm. b) | udeľovanie povolenia na vykonávanie cestnej dopravy nemotorovými vozidlami
 
-12 | sociálneho zabezpečenia | zák. SNR č. 132/1975 Zb. | § 8 písm. a) bod 8 | rozhodovanie o podpore pri narodení dieťaťa dôchodkyni alebo manželke, príp. inej rodinnej príslušníčke nepracujúceho dôchodcu
-
-13 | | zák. SNR č. 132/1975 Zb. | § 8 písm. a) bod 9 | rozhodovanie o príspevku na rekreáciu detí nepracujúceho dôchodcu
-
-14 | | zák. SNR č. 132/1975 Zb. | § 8 písm. a) bod 10 | rozhodovanie o pohrebnom pri úmrtí nepracujúceho dôchodcu, príp. člena jeho rodiny
-
-15 | | zák. č. 132/1975 Zb. | § 8 písm. a) bod 11 | rozhodovanie o pohrebnom pri úmrtí jednotlivo hospodáriaceho roľníka, spolupracujúceho člena jeho rodiny alebo rodinného príslušníka
-
-16 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 15 písm. a) bod 3 § 23 a 24 | rozhodovanie o poskytnutí vecnej pomoci a peňažných príspevkov v starostlivosti o rodinu a deti
-
-17 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 15 písm. c) § 18 ods. 3 | vykonávanie určeného dohľadu nad deťmi
-
-18 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 18 písm. a) bod 3 § 18 ods. 1 a 2 | rozhodovanie o uložení obmedzenia maloletému, ktoré zabráni škodlivým vplyvom na jeho výchovu
-
-19 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 18 písm. b) § 14 ods. 1 | plnenie úloh pri koordinácii činnosti orgánov pôsobiacich v starostlivosti o rodinu a deti
-
-20 | | zák. SNR č. 132/1975 Zb. | § 32 | poskytovanie vecnej pomoci a peňažných príspevkov občanom, ktorí sa v dôsledku mimoriadnych udalostí ocitli v osobitne ťažkých pomeroch a nemôžu ich prekonať vlastným pričinením ani za pomoci svojej rodiny
-
-21 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 33 § 48 ods. 1 a 2 § 49 ods. 1 § 51 ods. 1 a 2 | poskytovanie výchovnej starostlivosti, poradenskej služby a podľa potreby aj vecnej pomoci a peňažných príspevkov občanom, ktorí žijú v mimoriadne ťažkých pomeroch, a preto potrebujú pomoc spoločnosti na prekonanie dôsledkov a návykov prameniacich z rozdielneho spôsobu života v minulosti
+12-21 | Zrušené od 1. 1. 1983. | | |
 
 22 | požiarnej ochrany | zák. č. 18/1958 Zb. | § 7 | rozhodovanie o vylúčení z užívania vecí ohrozujúcich svojimi nedostatkami požiarnu bezpečnosť ľudí alebo majetku, a to v objektoch, v ktorých sú oprávnené vykonávať protipožiarne prehliadky.
