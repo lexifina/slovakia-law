@@ -1,0 +1,1 @@
+- *) Platí teda do 30. 6. 1966 predmet podnikania podľa § 2 ods. 1 vyhlášky č. 307/1953 Ú. l. (č. 352/1953 Ú. v.)
