@@ -8,8 +8,12 @@
 
 - 5) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
+- 5a) § 264 a 265 Obchodného zákonníka.
+
+- 5b) Napríklad § 9 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 25 a 29 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 128/2002 Z. z.
+
 - 6) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
 
-- 8) § 9 zákona č. 128/2002 Z. z.
+- 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
