@@ -1,1 +1,0 @@
-Karol Česnek v. r.
