@@ -138,6 +138,8 @@
 
 - 68) § 37 ods. 2 zákona č. 576/2004 Z. z.
 
+- 68a) § 13 ods. 2 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
 - 69) § 43 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 70) Zákon č. 578/2004 Z. z., zákon č. 576/2004 Z. z., zákon č. 577/2004 Z. z.
@@ -199,3 +201,5 @@
 - 97) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
 - 98) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z.
+
+- 99) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
