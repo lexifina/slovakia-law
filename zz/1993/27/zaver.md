@@ -1,0 +1,1 @@
+V. Mečiar v. r.
