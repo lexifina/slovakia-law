@@ -1,0 +1,209 @@
+# Čl. I
+
+Vyhláška Slovenského geologického úradu č. 9/1989 Zb. o registrácii geologických prác, o odovzdávaní a sprístupňovaní ich výsledkov, o zisťovaní starých banských diel a vedení ich registra sa mení a dopĺňa takto:
+
+- 1. V § 2 sa slová „výsledkov a vedením registra“ nahrádzajú slovami „výsledkov, vedením evidencie prieskumných území a registra“.
+
+- 2. V § 3 sa vypúšťa odsek 1; doterajšie odseky 2 až 5 sa označujú ako odseky 1 až 4.
+
+- 3. V § 3 sa odsek 1 končí slovami „zodpovedajúcom geologickej úlohe“. Slová za bodkočiarkou sa vypúšťajú.
+
+- 4. V § 3 ods. 4 sa vypúšťa písmeno h); doterajšie písmeno i) sa označuje ako písmeno h).
+
+- 5. V § 4 sa vypúšťa odsek 1; doterajšie odseky 2 a 3 sa označujú ako odseky 1 a 2.
+
+- 6. V § 4 sa odsek 1 končí slovami „doplnky a vysvetlenia“; ďalšie slová sa vypúšťajú.
+
+- 7. § 4 ods. 2 znie:
+
+- „(2)
+
+- Ak sú splnené podmienky podľa odseku 1 a § 3 ods. 4, Geofond zaregistruje geologické práce do 15 dní od podania žiadosti o registráciu alebo od jej doplnenia.“.
+
+- 8. V § 5 ods. 1 sa vypúšťajú slová „alebo termínu ich ukončenia“.
+
+- 9. V § 5 ods. 3 sa slová „oznámiť to Geofondu.“ nahrádzajú slovami „to oznámiť do 30 dní Geofondu.“.
+
+- 10. V § 5 ods. 4 sa slová „dvoch rokov“ nahrádzajú slovami „jedného roka“.
+
+- 11. § 6 písm. a) znie:
+
+- „a)
+
+- geologické práce ložiskového prieskumu vyhradených nerastov, pre ktoré Slovenský geologický úrad určí organizácii prieskumné územie,<sup>5</sup>)“.
+
+  - Poznámka pod čiarou č. 5) znie:
+
+  - „5)
+
+  - § 4 a § 4a zákona SNR č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade v znení zákona SNR č. 497/1991 Zb.“.
+
+- 12. V § 6 písm. b) bod 4 sa na konci pripájajú slová „v hraniciach svojho dobývacieho priestoru,“.
+
+- 13. § 6 písm. c) znie:
+
+- „c)
+
+- geologické práce zamerané na získanie doplňujúcich údajov pre projektovú prípravu stavieb, a to práce na spresnenie znalostí o inžinierskogeologických pomeroch územia
+
+- 1.
+
+- kde sa dokončil inžinierskogeologický prieskum v etape podrobného prieskumu a spracovanie projektu stavby vyžaduje čiastkové doplňujúce údaje,
+
+- 2.
+
+- s jednoduchými známymi geologickými pomermi alebo vykonávané pre jednoduché stavby.<sup>7</sup>)“.
+
+- 14. V § 7 ods. 1 sa za slovo „Organizácia“ vkladá čiarka a slová „na ktorej náklady sa vykonali geologické práce,“.
+
+- 15. V § 7 ods. 1 sa vypúšťajú písmená f) až h).
+
+- 16. V § 7 ods. 2 sa slová „písm. b) až f)“ nahrádzajú slovami „písm. b) až e)“.
+
+- 17. V § 8 sa odsek 1 končí slovami Slovenským geologickým úradom."; ďalšie slová sa vypúšťajú.
+
+- 18. § 8 ods. 2 znie:
+
+- „(2)
+
+- Organizácia, na ktorej náklady sa vykonali geologické práce, určí pri odovzdaní dokumentácie Geofondu podmienky, za ktorých môže Geofond túto dokumentáciu sprístupňovať a poskytovať z nej informácie. V týchto podmienkach môže organizácia určiť
+
+- a)
+
+- vybrané časti dokumentácie, ktoré sprístupňuje alebo z ktorých poskytuje informácie výhradne organizácia,
+
+- b)
+
+- vybrané časti dokumentácie, ktoré môže Geofond sprístupňovať alebo poskytovať z nich informácie len s jej predchádzajúcim súhlasom,
+
+- c)
+
+- ostatné časti dokumentácie bez obmedzenia sprístupňovania alebo poskytovania informácií,
+
+- d)
+
+- dobu, počas ktorej platia obmedzujúce podmienky podľa písmen a) a b), najviac však 7 rokov od vyhotovenia dokumentácie.“.
+
+- Poznámka pod čiarou č. 11) sa vypúšťa.
+
+- 19. V § 8 ods. 4 sa za slová „na ďalšie účely“ dáva čiarka a vkladajú sa slová „a to so zabezpečením podmienok organizácie podľa odseku 2“.
+
+- 20. V § 9 sa slová „na objednávku vykonáva“ nahrádzajú slovami„ vykonáva za odplatu“.
+
+- 21. Za § 9 sa vkladá nová štvrtá časť; doterajšia štvrtá a piata časť sa označujú ako piata a šiesta časť.
+
+  - Štvrtá časť vrátane nadpisu znie:
+
+  - „ŠTVRTÁ ČASŤ
+
+  - PRIESKUMNÉ ÚZEMIA
+
+  - § 9a
+
+  - Návrh na určenie prieskumného územia
+
+  - (1)
+
+  - Ak organizácia zamýšľa vykonávať geologický prieskum v etape vyhľadávacieho ložiskového prieskumu alebo podrobného ložiskového prieskumu,<sup>11a</sup>) prípadne jeho vykonávanie zadať, podá najneskôr 30 dní pred začatím geologických prác Slovenskému geologickému úradu návrh na určenie prieskumného územia na tlačive, ktoré vydá tento úrad.
+
+  - (2)
+
+  - Návrh na určenie prieskumného územia obsahuje okrem údajov uvedených v § 3 ods. 4 písm. a) až e) a písm. g) a h) aj
+
+  - a)
+
+  - návrh vymedzenia prieskumného územia uzavretým geometrickým obrazcom v mapovom podklade v mierke 1:50 000 alebo 1:25 000 s údajom rozsahu v km<sup>2</sup> zaokrúhleným na desatinu,
+
+  - b)
+
+  - údaje o povolení vykonávať geologické práce spolu s názvom a sídlom organizácie, ktorá je oprávnená tieto práce vykonávať,<sup>11b</sup>) ak navrhujúca organizácia, na ktorej náklady sa majú geologické práce vykonávať, takéto oprávnenie nemá,
+
+  - c)
+
+  - doklady o vyjadreniach orgánov a organizácií, ktorým prislúcha vyjadriť sa k návrhu prieskumného územia z hľadiska záujmov chránených podľa osobitných predpisov.<sup>11c</sup>)
+
+  - (3)
+
+  - Pri návrhu na zmenu alebo zrušenie prieskumného územia sa postupuje podľa odseku 2, pričom sa vyznačia v ňom údaje, ktoré sa oproti rozhodnutiu o určení prieskumného územia menia.
+
+  - (4)
+
+  - Návrh organizácie na predĺženie platnosti rozhodnutia o určení prieskumného územia sa podáva podľa odsekov 2 a 3.
+
+  - § 9b
+
+  - Vykonávanie iných prieskumných prác v prieskumnom území
+
+  - (1)
+
+  - V prieskumnom území možno vykonávať geologický prieskum v etape vyhľadávacieho ložiskového prieskumu alebo podrobného ložiskového prieskumu vyhradených nerastov na iný účel, než je sledovaný projektom, len na základe určenia prieskumného územia na tento účel. Ak tento geologický prieskum zamýšľa vykonávať iná organizácia ako tá, ktorej bolo určené prieskumné územie, musí mať žiadajúca organizácia vopred jej súhlas s určením podmienok na vykonávanie tohto prieskumu. V prípade nesúhlasu organizácie s týmito podmienkami rozhodne o nich Slovenský geologický úrad.
+
+  - (2)
+
+  - Ak organizácia dobývajúca výhradné ložisko je nútená zabezpečiť v nevyhnutnom predstihu ďalší prieskum ložiska mimo dobývacieho priestoru, je povinná vopred podať návrh na určenie prieskumného územia Slovenskému geologickému úradu.
+
+  - (3)
+
+  - Vykonávať iné geologické práce v prieskumnom území, než je ložiskový prieskum vyhradených nerastov, možno len so súhlasom organizácie, ktorej bolo toto prieskumné územie určené. V prípade nesúhlasu tejto organizácie rozhodne o podmienkach vykonávania iných geologických prác Slovenský geologický úrad.
+
+  - (4)
+
+  - Iné geologické práce treba pred ich začatím registrovať. V žiadosti o registráciu sa uvedie o aké prieskumné územie ide a pripojí sa jeho identifikácia.
+
+  - (5)
+
+  - Úhradu za prieskumné územie vykonáva organizácia, ktorej bolo prieskumné územie určené.<sup>11d</sup>) Úhrada sa vykoná aj vtedy, keď sa nové prieskumné územie čiastočne alebo celkom prekrýva s už určeným prieskumným územím.
+
+  - § 9c
+
+  - Evidencia prieskumných území
+
+  - (1)
+
+  - Slovenský geologický úrad zašle rozhodnutie o určení prieskumného územia aj Geofondu. Geofond vedie evidenciu prieskumných území, ich zmien a zrušenia a poskytuje Slovenskému geologickému úradu a Slovenskému banskému úradu podklady na ich rozhodovanie.
+
+  - (2)
+
+  - Geofond sprístupňuje evidenciu prieskumných území oprávneným záujemcom (§ 12).“.
+
+- 22. Poznámky pod čiarou č. 11a) až 11d) znejú:
+
+- „11a)
+
+- § 5 ods. 1 písm. a) vyhlášky Slovenského geologického úradu č. 127/1989 Zb. o projektovaní, vykonávaní a vyhodnocovaní geologických prác, o udeľovaní povolenia a o odbornej spôsobilosti na ich výkon.
+
+- 11b)
+
+- § 3 ods. 1 písm. a) zákona SNR č. 52/1988 Zb.
+
+- 11c)
+
+- § 22 zákona SNR č. 52/1988 Zb.
+
+- 11d)
+
+- § 4c zákona SNR č. 52/1988 Zb.“.
+
+- 23. V § 10 ods. 5 sa slová „národného výboru“ nahrádzajú slovami „obvodného úradu životného prostredia“.
+
+- 24. V § 10 sa vypúšťa odsek 6.
+
+- 25. V § 12 ods. 1 úvodná veta znie:„Oprávnenými záujemcami podľa 9, § 9c ods. 2 a § 11 ods. 3 tejto vyhlášky sú:“.
+
+- 26. § 12 ods. 1 písm. b) znie:
+
+- „b)
+
+- organizácie oprávnené vykonávať geologické práce,<sup>13a</sup>)“.
+
+  - Poznámka pod čiarou č. 13a) znie:
+
+  - „13a)
+
+  - § 3 ods. 1 zákona SNR č. 52/1988 Zb.“.
+
+- 27. V § 12 ods. 1 písm. c) sa vypúšťa slovo „socialistické“.
+
+- 28. V § 12 ods. 1 sa vypúšťa znenie písmena d); doterajšie písmená e) a f) sa označujú ako písmená d) a e).
+
+- 29. V § 12 ods. 2 sa slová „písm. a) až d)“ nahrádzajú slovami „písm. a) až c)“.
