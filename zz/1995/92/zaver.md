@@ -1,1 +1,0 @@
-Ľubomír Šutek v. r.
