@@ -46,6 +46,30 @@ Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov 
 
 - nadácia,<sup>4</sup>) neinvestičný fond,<sup>4a</sup>) nezisková organizácia poskytujúca všeobecne prospešné služby,<sup>5</sup>) združenie občanov<sup>5a</sup>) alebo spoločenstvo vlastníkov bytov a nebytových priestorov,<sup>5b</sup>)
 
+- c)
+
+- právnická osoba, ktorá nie je uvedená v písmene b), s výnimkou
+
+- 1.
+
+- banky,<sup>5c</sup>) obchodníka s cennými papiermi,<sup>5d</sup>) ktorý nie je bankou, centrálneho depozitára evidencie zaknihovaných cenných papierov,<sup>5d</sup>) burzy cenných papierov,<sup>5e</sup>) komoditnej burzy,<sup>5f</sup>) správcovskej spoločnosti vrátane majetku v podielovom fonde,<sup>5g</sup>) poisťovne,<sup>5h</sup>) doplnkovej dôchodkovej poisťovne,<sup>5i</sup>) pošty,<sup>5j</sup>) právnickej osoby prevádzkujúcej lotérie alebo iné podobné hry<sup>5k</sup>) a s výnimkou Exportno-importnej banky Slovenskej republiky,
+
+- 2.
+
+- slovenskej právnickej osoby neuvedenej v bode 1 alebo zahraničnej právnickej osoby, ktorá má čo len čiastočne rovnaký predmet činnosti ako niektorá z právnických osôb uvedených v bode 1,<sup>5l</sup>)
+
+- 3.
+
+- právnickej osoby neuvedenej v bode 1 alebo 2, ktorá podľa osobitného zákona<sup>5m</sup>) musí povinne mať účtovnú závierku overenú audítorom,
+
+- 4.
+
+- štátu, štátneho fondu, obce, vyššieho územného celku, ich rozpočtovej organizácie alebo príspevkovej organizácie a orgánov verejnej moci,<sup>5n</sup>)
+
+- 5.
+
+- právnickej osoby zriadenej zákonom a neuvedenej v bodoch 1 až 4.
+
 - (4)
 
 - Týmto zákonom nie je chránený
@@ -271,6 +295,10 @@ Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov 
 - a)
 
 - náhradu vo výške 90 % z nedostupného vkladu,
+
+- b)
+
+- v súhrne jednému vkladateľovi alebo inej osobe oprávnenej podľa tohto zákona náhradu podľa písmena a) najviac vo výške sumy, ktorá sa rovná prepočtu 20 000 EUR na slovenské koruny podľa kurzu vyhláseného Národnou bankou Slovenska ku dňu, keď sa vklady v banke stali nedostupnými podľa § 3 ods. 5; týmto ustanovením nie je dotknuté ustanovenie § 28a.
 
 - (3)
 
