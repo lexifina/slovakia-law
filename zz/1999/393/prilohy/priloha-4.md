@@ -6,6 +6,8 @@ Označenie CE sa skladá z písmen „CE" podľa § 21 zákona.
 
 ![Obrázok 04-1](../assets/1cfcf02eb08dd7ab3a84ccdeca7479cd63848e6b3216f4781e31a479a9a69fcb.png)
 
+CE označenie musí byť doplnené identifikačným kódom autorizovanej osoby zahrnutej do fázy kontroly výroby.
+
 Ak je označenie zmenšené alebo zväčšené, mierka rozmerov zostáva zachovaná.
 
 Jednotlivé prvky označenia CE majú približne rovnaký vertikálny rozmer, ktorý je najmenej 5 mm.
