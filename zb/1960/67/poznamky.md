@@ -1,1 +1,0 @@
-- *) Elektrizačný zákon č. 79/1957 Zb.
