@@ -1,10 +1,14 @@
-- 1) Čl. 42 ods. 2 Ústavy Slovenskej republiky.
+- 1) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
-- 1a) § 2 písm. b) až d) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
+- 1a) § 4 písm. b) zákona Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
 
-- 1b) § 29 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
+- 1b) Čl. 42 ods. 2 Ústavy Slovenskej republiky.
 
-- 1c) § 4 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+- 1c) § 2 písm. b) až d) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
+
+- 1d) § 29 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
+
+- 1e) § 4 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
 - 2) § 348 Hospodárskeho zákonníka.
 
