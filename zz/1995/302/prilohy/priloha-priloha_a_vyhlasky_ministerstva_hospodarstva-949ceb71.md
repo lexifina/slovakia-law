@@ -264,6 +264,66 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 2208 | nedenaturovaný etylalkohol s merným alkoholickým titrom menším ako 80 % vol.; destiláty, likéry a ostatné liehové nápoje; zložené alkoholické prípravky používané na prípravu nápojov | LPA | všetky štáty
 
+  - 0204 | mäso oviec a kôz | tona | Bulharsko
+
+  - 0405 20 | nátierky z mliečnych tukov | tona | všetky štáty okrem ČR
+
+  - 0405 90 | ostatné nátierky z mliečnych tukov | tona | všetky štátny okrem ČR
+
+  - 0703 10 19 | cibuľa | tona | Bulharsko
+
+  - 0703 10 90 | šalotka | tona | Bulharsko
+
+  - 0703 20 00 | cesnak | tona | Bulharsko
+
+  - 0703 90 00 | pór a iná cesnakovitá zelenina | tona | Bulharsko
+
+  - 0709 51 10 | huby rodu Agaricus (šampiňóny) | tona | Bulharsko
+
+  - 0709 60 10 a 0709 60 99 | sladká paprika | tona | Bulharsko
+
+  - 0710 90 00 | zeleninové zmesi | tona | Bulharsko
+
+  - 0807 11 00 | vodné melóny | tona | Bulharsko
+
+  - 0807 19 00 | ostatné melóny | tona | Bulharsko
+
+  - 0809 20 | čerešne, višne | tona | Bulharsko
+
+  - 0809 40 90 | trnky | tona | Bulharsko
+
+  - 0812 | ovocie a orechy, dočasne konzervované | tona | Bulharsko
+
+  - 1101 00 | pšeničná múka alebo múka zo súraže | tona | Bulharsko
+
+  - 1102 | obilné múky, iné ako pšeničné alebo múka zo súraže | tona | Bulharsko
+
+  - 1512 11 a 1512 19 | slnečnicový olej alebo požltový olej a ich frakcie | tona | všetky štátny okrem ČR
+
+  - 1514 | repkový alebo horčicový olej a ich frakcie, tiež rafinované, ale chemicky neupravené | tona | všetky štátny okrem ČR
+
+  - 1515 11 00 | surový ľanový olej a jeho frakcie | tona | všetky štátny okrem ČR
+
+  - 1515 90 | ostatné rastlinné tuky a oleje | tona | všetky štátny okrem ČR
+
+  - 1516 | tuky a oleje živočíšne alebo rastlinné a ich frakcie čiastočne alebo úplne hydrogenované, interesterifikované, reesterifikované alebo elaidinizované, tiež rafinované, ale inak neupravené | tona | všetky štátny okrem ČR
+
+  - 2002 | paradajky pripravené alebo konzervované inak ako v octe alebo v kyseline octovej | tona | Bulharsko
+
+  - 2005 10 00 | homogenizovaná zelenina pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
+
+  - 2005 20 | zemiaky pripravené alebo konzervované inak ako v octe | tona | Bulharsko
+
+  - 2005 40 00 | hrach pripravený alebo konzervovaný inak ako v octe | tona | Bulharsko
+
+  - 2005 51 00 a 2005 59 00 | fazuľa pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
+
+  - 2005 60 00 | špargľa pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
+
+  - 2005 80 00 | sladká kukurica pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
+
+  - 2005 90 | ostatná zelenina a zeleninové zmesi pripravené alebo konzervované inak ako v octe | tona | Bulharsko
+
   - Tabak a vyrobené tabakové náhradky | | |
 
   - 2401 | nespracovaný tabak; tabakový odpad | tona | všetky štáty okrem ČR

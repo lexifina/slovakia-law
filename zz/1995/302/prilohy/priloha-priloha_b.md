@@ -12,7 +12,29 @@ Príloha B
 
   - 0102 10 | živý hovädzí dobytok | tona | 10 000 | všetky štáty okrem ČR
 
-  - a 0102 90 | | | |
+  - 0102 90 05 | | | |
+
+  - 0102 90 21 | | | |
+
+  - 0102 90 29 | | | |
+
+  - 0102 90 41 | | | |
+
+  - 0102 90 49 | | | |
+
+  - 0102 90 51 | | | |
+
+  - 0102 90 59 | | | |
+
+  - 0102 90 61 | | | |
+
+  - 0102 90 69 | | | |
+
+  - ex 0102 90 71 | (iba s hmotnosťou do 450 kg) | | |
+
+  - 0102 90 79 | | | |
+
+  - 0102 90 90 | | | |
 
   - 0103 91 | živý bravčový dobytok do 50 kg (domáci) | tona | 2 000 | všetky štáty okrem ČR
 
@@ -31,6 +53,8 @@ Príloha B
   - až 0204 43 | | | |
 
   - 0207 | kohúty a sliepky vrátane kureniec a ich dielov | tona | 1 200 | všetky štáty okrem ČR
+
+  - 0407 00 30 | vajcia z domácej hydiny | ks | 10 000 000 | všetky štáty okrem ČR
 
   - 0402 | sušené a kondenzované mlieko | tona | 5 000 | všetky štáty okrem ČR
 
@@ -94,19 +118,17 @@ Príloha B
 
   - 1101 00 | pšeničná múka alebo múka zo súraže | tona | 15 000 | všetky štáty okrem ČR
 
+  - 1102 | obilné múky, iné ako pšeničná alebo múka zo súraže | tona | 10 000 | všetky štáty okrem ČR
+
   - 1701 | trstinový alebo repný cukor a chemicky čistá | | |
 
   - | sacharóza v pevnom stave | tona | 5 000 | všetky štáty okrem ČR
 
   - 1703 | melasa | tona | 10 000 | všetky štáty okrem ČR
 
-  - 2207 | etylalkohol nedenaturovaný s merným | | |
+  - 2207 | etylalkohol nedenaturovaný s merným alkoholometrickým titrom 80 % vol. alebo viac; etylalkohol a destiláty denaturované s akýmkoľvek alkoholometrickým titrom | hl | 20 000 | všetky štáty okrem ČR
 
-  - | alkoholometrickým titrom 80 % vol. alebo viac; | | |
-
-  - | etylalkohol a destiláty denaturované | | |
-
-  - | s akýmkoľvek alkoholometrickým titrom | hl | 20 000 | všetky štáty okrem ČR
+  - 2302 až 2306 a 230990 | otruby, pokrutiny a šroty, kŕmne zmesi | tona | 10 000 | všetky štáty okrem ČR
 
   - 2302 až 2306 | otruby, pokrutiny a šroty, kŕmne zmesi | tona | 10 000 | všetky štáty okrem ČR
 
@@ -114,13 +136,13 @@ Príloha B
 
   - 2505 | prírodné piesky | m<sup>3</sup> | 200 000 | všetky štáty okrem ČR
 
-  - 2517 10 | okruhliaky, štrk, lámaný alebo drvený kameň | m<sup>3</sup> | 500 000 | všetky štáty okrem ČR
+  - 2517 10 | okruhliaky, štrk, lámaný alebo drvený kameň | m<sup>3</sup> | 1 300 000 | všetky štáty okrem ČR
 
-  - 2523 10 00 | cementové slinky | tona | 20 000 | všetky štáty okrem ČR
+  - 2523 10 00 | cementové slinky | tona | 100 000 | všetky štáty okrem ČR
 
-  - 2523 21 00 | portlandský cement - biely | tona | 120 000 | všetky štáty okrem ČR
+  - 2523 21 00 | portlandský cement - biely | tona | 80 000 | všetky štáty okrem ČR
 
-  - 2523 29 00 | portlandský cement - šedý | tona | 1 800 000 | všetky štáty okrem ČR
+  - 2523 29 00 | portlandský cement - šedý | tona | 1 500 000 | všetky štáty okrem ČR
 
   - 2702 | hnedé uhlie, tiež aglomerované | tona | 1 000 000 | všetky štáty okrem ČR
 
@@ -214,21 +236,21 @@ Príloha B
 
   - | smrekové: | | |
 
-  - 4403 20 10 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 20 10 10 | výrezy l. až IV. triedy akosti | | |
 
-  - 4403 20 10 90 | vlákninové drevo | | |
+  - 4403 20 10 90 | ostatné drevo | | |
 
   - | borovicové: | | |
 
-  - 4403 20 30 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 20 30 10 | výrezy l. až IV. triedy akosti | | |
 
-  - 4403 20 30 90 | vlákninové drevo | | |
+  - 4403 20 30 90 | ostatné drevo | | |
 
   - | ostatné: | | |
 
-  - 4403 20 90 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 20 90 10 | výrezy l. až IV. triedy akosti | | |
 
-  - 4403 20 90 90 | vlákninové drevo | | |
+  - 4403 20 90 90 | ostatné drevo | | |
 
   - | surové drevo listnaté, tiež nahrubo opracované | | |
 
@@ -236,35 +258,35 @@ Príloha B
 
   - | dubové: | | |
 
-  - 4403 91 00 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 91 00 10 | výrezy l. až IV. triedy akosti | | |
 
-  - 4403 91 00 90 | vlákninové drevo | | |
+  - 4403 91 00 90 | ostatné drevo | | |
 
   - | bukové: | | |
 
-  - 4403 92 00 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 92 00 10 | výrezy l. až IV. triedy akosti | | |
 
   - 4403 92 00 90 | vlákninové drevo | | |
 
   - | topoľové: | | |
 
-  - 4403 99 10 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 99 10 10 | výrezy l. až IV. triedy akosti | | |
 
-  - 4403 99 10 90 | vlákninové drevo | | |
+  - 4403 99 10 90 | ostatné drevo | | |
 
   - | gaštanové: | | |
 
-  - 4403 99 20 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 99 20 10 | výrezy l. až IV. triedy akosti | | |
 
-  - 4403 99 20 90 | vlákninové drevo | | |
+  - 4403 99 20 90 | ostatné drevo | | |
 
   - 4403 99 50 | brezové | | |
 
   - | ostatné: | | |
 
-  - 4403 99 99 10 | výrezy l. až III. triedy akosti | | |
+  - 4403 99 99 10 | výrezy l. až IV. triedy akosti | | |
 
-  - 4403 99 99 90 | vlákninové drevo | | |
+  - 4403 99 99 90 | ostatné drevo | | |
 
   - 4406 | drevené železničné a podobné podvaly | m<sup>3</sup> | 20 000 | všetky štáty okrem ČR
 
@@ -426,25 +448,25 @@ Príloha B
 
   - Motorové vozidlá | | | |
 
-  - ex8601 | lokomotívy použité alebo určené na zošrotovanie | tona | 1 000 | všetky štáty
+  - ex 8601 | lokomotívy použité alebo určené na zošrotovanie | tona | 1 000 | všetky štáty
 
-  - ex8602 | ostatné lokomotívy použité alebo určené na | | |
-
-  - | zošrotovanie | tona | 1 000 | všetky štáty
-
-  - ex8603 | motorové vozne použité alebo určené na | | |
+  - ex 8602 | ostatné lokomotívy použité alebo určené na | | |
 
   - | zošrotovanie | tona | 1 000 | všetky štáty
 
-  - ex8604 00 00 | vozidlá na údržbu železničných tratí - použité | | |
+  - ex 8603 | motorové vozne použité alebo určené na | | |
+
+  - | zošrotovanie | tona | 1 000 | všetky štáty
+
+  - ex 8604 00 00 | vozidlá na údržbu železničných tratí - použité | | |
 
   - | alebo určené na zošrotovanie | tona | 1 000 | všetky štáty
 
-  - ex8606 | nákladné vagóny - použité alebo určené na | | |
+  - ex 8606 | nákladné vagóny - použité alebo určené na | | |
 
   - | zošrotovanie | tona | 4 000 | všetky štáty
 
-  - ex8607 | časti a súčasti železničných vozidiel - použité | | |
+  - ex 8607 | časti a súčasti železničných vozidiel - použité | | |
 
   - | alebo určené na zošrotovanie | tona | 1 000 | všetky štáty
 
@@ -464,7 +486,7 @@ Príloha B
 
   - | etnografickej alebo numizmatickej hodnoty | ks | | všetky štáty
 
-  - ex9706 00 00 | starožitnosti staršie ako 50 rokov | ks | | všetky štáty
+  - ex 9706 00 00 | starožitnosti staršie ako 100 rokov | ks | | všetky štáty
 
   - ex – niektoré z tovarov zaradených pod uvedené číslo
 
@@ -474,7 +496,27 @@ Príloha B
 
   - 0102 10 | živý hovädzí dobytok | tona | ČR
 
-  - a 0102 90 | | |
+  - 0102 90 05 | | |
+
+  - 0102 90 21 | | |
+
+  - 0102 90 29 | | |
+
+  - 0102 90 41 | | |
+
+  - 0102 90 49 | | |
+
+  - 0102 90 59 | | |
+
+  - 0102 90 61 | | |
+
+  - 0102 90 69 | | |
+
+  - ex 0102 90 71 | (iba s hmotnosťou do 450 kg) | |
+
+  - 0102 90 79 | | |
+
+  - 0102 90 90 | | |
 
   - 0103 91 | živý bravčový dobytok do 50 kg (domáci) | tona | ČR
 
@@ -485,6 +527,8 @@ Príloha B
   - 0201 a 0202 | hovädzie mäso čerstvé, chladené alebo mrazené | tona | ČR
 
   - 0203 | bravčové mäso čerstvé, chladené alebo mrazené | tona | ČR
+
+  - 0407 00 30 | vajcia z domácej hydiny | tona | ČR
 
   - Rastlinné výrobky | | |
 
@@ -499,6 +543,12 @@ Príloha B
   - 1004 00 00 | ovos | tona | ČR
 
   - 1005 90 00 | kukurica | tona | ČR
+
+  - 1101 00 | pšeničná múka alebo múka zo súraže | tona | ČR
+
+  - 1102 | obilné múky, iné ako pšeničná alebo múka zo súraže | tona | ČR
+
+  - 2302 až 2306 a 2309 90 | otruby, pokrutiny a šroty, kŕmne zmesi | tona | ČR
 
   - 1205 00 | semená repky, semená repky olejky, tiež drvené | tona | ČR
 
@@ -580,7 +630,7 @@ Príloha B
 
   - | chrómom v mokrom stave (wetblue) | tona | ČR
 
-  - | Drevo a výrobky z dreva | | |
+  - Drevo a výrobky z dreva | | |
 
   - 4403 10 00 | palivové drevo (polená, kláty, vetvy, viazanice | |
 

@@ -46,7 +46,7 @@ Príloha D
 
   - 2825 90 50 | Oxid ortutnatý | (6) | kg
 
-  - 2827 39 00 | Chlorid ortutnatý (kalomel) | (6) | kg
+  - 2827 39 90 | Chlorid ortutnatý (kalomel) | (6) | kg
 
   - 2830 90 19 | Sírnik amónny (vrátane kyslého) | (6) | kg
 
@@ -56,7 +56,7 @@ Príloha D
 
   - 2836 70 00 | Uhličitan olovnatý | (6) | kg
 
-  - 2841 60 10 | Manganistan draselný | (4) | tona
+  - 2841 60 00 | Manganistan draselný | (4) | tona
 
   - 2842 90 10 | Soli, podvojné soli alebo komplexné soli kyseliny seleničitej alebo teluričitej, z toho | |
 
@@ -72,9 +72,9 @@ Príloha D
 
   - 2845 90 10 | Tetradeuterometanol | (2) | kg
 
-  - 2848 10 00 | Fosfidy medi | (2) | kg
+  - 2848 00 00 | Fosfidy medi | (2) | kg
 
-  - 2848 90 00 | Fosfidy iných kovov alebo nekovov, z toho len | | kg
+  - | Fosfidy iných kovov alebo nekovov, z toho len | | kg
 
   - | - fosfidy | (2) |
 
@@ -105,8 +105,6 @@ Príloha D
   - 2903 23 00 | Tetrachlóretylén | (6) | kg
 
   - 2903 30 31 | 1 ,2-dibrómmetán | (6) | kg
-
-  - 2903 30 33 | Metylbromid | (2) | kg
 
   - 2903 30 90 | Metyljodid | (6) | kg
 
@@ -184,7 +182,7 @@ Príloha D
 
   - | - prchavé estery kyseliny brómoctovej (metyl-, etyl-, propyl- a butylbrómacetát) | (6) |
 
-  - 2916 33 | Kyselina fenyloctová, jej soli, estery | (4) | tona
+  - 2916 34 00 | Kyselina fenyloctová, jej soli, estery | (4) | tona
 
   - 2918 13 00 | Soli a estery kyseliny vínnej, z toho len | | kg
 
@@ -322,7 +320,7 @@ Príloha D
 
   - | - amfepramón | (3) |
 
-  - 2922 49 50 | Kyselina antranilová | (4) | kg
+  - 2922 43 00 | Kyselina antranilová | (4) | kg
 
   - 2922 49 80 | Tilidín | (1) | kg
 
@@ -348,7 +346,7 @@ Príloha D
 
   - | - amid kyseliny monojódoctovej | (2) |
 
-  - 2924 29 40 | Kyselina N-acetylantranilová | (4) | kg
+  - 2924 22 00 | Kyselina N-acetylantranilová | (4) | kg
 
   - 2924 29 90 | Ostatné zlúčeniny s karboxyamidovou funkciou, zlúčeniny kyseliny uhličitej | |
 
@@ -474,17 +472,17 @@ Príloha D
 
   - | - beta-propiolaktón | (6) |
 
-  - 2932 90 71 | Safrol | (4) | kg
+  - 2932 94 00 | Safrol | (4) | kg
 
-  - 2932 90 73 | Izosafrol | (4) | kg
+  - 2932 91 00 | Izosafrol | (4) | kg
 
-  - 2932 90 75 | Piperonal | (4) | kg
+  - 2932 93 00 | Piperonal | (4) | kg
 
-  - 2932 90 79 | 5-metoxy-3,4-metyléndioxyamfetamín (MMDA) | (3) | kg
+  - 2932 99 70 | 5-metoxy-3,4-metyléndioxyamfetamín (MMDA) | (3) | kg
 
   - | 3,4-metyléndioxymetamfetamín (MDMA) | (3) | kg
 
-  - 2932 90 90 | Heterocyklické zlúčeniny len s kyslíkatými heteroatómami, z toho len | | kg
+  - 2932 99 90 | Heterocyklické zlúčeniny len s kyslíkatými heteroatómami, z toho len | | kg
 
   - | - carbofurán | (2) |
 
@@ -498,7 +496,7 @@ Príloha D
 
   - 2933 32 00 | Piperidín | (4) | kg
 
-  - 2933 39 90 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre nekondenzovaný pyridínový | |
+  - 2933 32 00 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre nekondenzovaný pyridínový | |
 
   - | kruh (hydrogenovaný alebo nehydrogenovaný), z toho len | | kg
 
@@ -600,7 +598,7 @@ Príloha D
 
   - | - vinylbital | (3) |
 
-  - 2933 59 90 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre pyrimidonový kruh | |
+  - 2934 90 89 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre pyrimidonový kruh | |
 
   - | (hydrogenovaný alebo nehydrogenovaný) alebo piperazínový kruh, nukleové | |
 
@@ -854,17 +852,17 @@ Príloha D
 
   - | - buprenorfín | (3) |
 
-  - 2939 40 10 | Efedrín | (4) | kg
+  - 2939 41 00 | Efedrín | (4) | kg
 
-  - 2939 40 30 | Pseudoefedrín | (4) | kg
+  - 2939 42 00 | Pseudoefedrín | (4) | kg
 
-  - 2939 60 10 | Ergometrín | (4) | kg
+  - 2939 61 00 | Ergometrín | (4) | kg
 
-  - 2939 60 30 | Ergotamín | (4) | kg
+  - 2939 62 00 | Ergotamín | (4) | kg
 
-  - 2939 60 50 | Kyselina lysergová | (4) | kg
+  - 2939 63 00 | Kyselina lysergová | (4) | kg
 
-  - 2939 60 90 | Alkaloidy žitného námeľa a ich deriváty, ich soli, z toho len | | kg
+  - 2939 69 00 | Alkaloidy žitného námeľa a ich deriváty, ich soli, z toho len | | kg
 
   - | - (+)-N,N-dietyllysergamid (LSD) | (3) |
 
@@ -910,15 +908,13 @@ Príloha D
 
   - 2844 40 20 | Umelé rádioaktívne izotopy | | kg
 
-  - ČASŤ III – LÁTKY POŠKODZUJÚCE OZÓNOVÚ VRSTVU ZEME Položka | Názov tovaru | Kategória | Merná jednotka
+  - ČASŤ III – LÁTKY POŠKODZUJÚCE OZÓNOVÚ VRSTVU ZEME Položka colného sadzobníka | Názov tovaru | Kategória | Merná jednotka
 
-  - colného | | |
-
-  - | | | | sadzobníka
-
-  - 2903 14 00 | | | | tetrachlórmetán | | tona
+  - 2903 14 00 | tetrachlórmetán | | tona
 
   - 2903 19 10 | 1,1,1 -trichlóretán | | tona
+
+  - 2903 30 33 | metylbromid | (2) | kg
 
   - 2903 41 00 | trichlórfluórmetán | | tona
 
