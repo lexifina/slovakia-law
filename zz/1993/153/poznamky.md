@@ -1,4 +1,4 @@
-- 1) § 19 ods. 1 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
+- 1) § 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
 - 2) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
@@ -6,7 +6,7 @@
 
 - 4) Zákon Slovenskej národnej rady č. 319/1992 Zb. o cestnej dani.
 
-- 5) § 5 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
+- 5) § 24 ods. 4 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
 - 6) Napríklad vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov.
 
@@ -14,4 +14,4 @@
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 9) § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
+- 9) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
