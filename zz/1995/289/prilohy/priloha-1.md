@@ -74,6 +74,8 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - 15121999 | - Požltový olej
 
+- 151419 | - Ostatné len pre potravinárske účely
+
 - 151490 | - Ostatné
 
 - 15159059 | - Tuhé, ostatné; tekuté
