@@ -16,7 +16,7 @@
 
 - 9) § 53 ods. 3 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení neskorších predpisov.
 
-- 10) Zákon Slovenskej národnej rady č. 190/1990 Zb. o príspevku politickým stranám a politickým hnutiam zo štátneho rozpočtu Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 86/1993 Z. z.
+- 10) § 20 zákona č. 424/1991 Zb. v znení neskorších predpisov.
 
 - 11) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
