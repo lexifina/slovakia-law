@@ -6,4 +6,4 @@
 
 (3) Do konca januára a júla každého kalendárneho roka je hypotekárna banka povinná predložiť Národnej banke Slovenska a ministerstvu informáciu o záznamoch z registra hypoték, ktoré sa vykonali za posledných šesť mesiacov.
 
-(4) Náležitosti registra hypoték a náležitosti informácie podľa odsekov 2 a 3 podrobnejšie ustanoví Národná banka Slovenska a ministerstvo všeobecne záväzným právnym predpisom.
+(4) Náležitosti a spôsob vedenia registra hypoték a náležitosti informácie podľa odsekov 2 a 3 podrobnejšie ustanoví Národná banka Slovenska a ministerstvo všeobecne záväzným právnym predpisom.

@@ -7,3 +7,5 @@
 (3) Nehnuteľnosť sa nepovažuje za zaťaženú záložným právom vtedy, ak pohľadávka, ktorá je zabezpečená záložným právom v prospech tretej osoby alebo obmedzením prevodu nehnuteľnosti, zanikne na základe poskytnutého hypotekárneho úveru alebo komunálneho úveru, ktorým sa pohľadávka splatí, a ak záložné právo k nehnuteľnosti alebo obmedzenie prevodu nehnuteľnosti zanikne.
 
 (4) Záložné právo k nehnuteľnosti zriadené na zabezpečenie pohľadávok z hypotekárneho úveru alebo z komunálneho úveru zaniká splatením tohto úveru s príslušenstvom.
+
+(5) Hypotekárna banka môže pri výkone záložného práva založenú nehnuteľnosť predať exekúciou podľa osobitného zákona<sup>9a</sup>) na základe dohody vyhotovenej vo forme notárskej zápisnice, uzatvorenej medzi hypotekárnou bankou, jej dlžníkom a záložcom, ak ním nie je dlžník, ktorá obsahuje právny záväzok, vyznačenie oprávnenej osoby a povinnej osoby, právny dôvod, predmet a čas plnenia, ak sa zmluvné strany v tejto dohode dohodnú na exekúcii podľa osobitného zákona.<sup>9a</sup>)

@@ -1,6 +1,6 @@
 # § 36ch
 
-(1) Hypotekárna banka poskytuje hypotekárne úvery a komunálne úvery podľa ňou vydaných všeobecných podmienok na poskytovanie hypotekárnych úverov a komunálnych úverov schválených Národnou bankou Slovenska, ktoré musia obsahovať najmä
+(1) Hypotekárna banka poskytuje hypotekárne úvery a komunálne úvery podľa ňou vydaných všeobecných podmienok na poskytovanie hypotekárnych úverov a komunálnych úverov, ktoré musia obsahovať najmä
 
 - a) náležitosti žiadosti o hypotekárny úver a komunálny úver,
 

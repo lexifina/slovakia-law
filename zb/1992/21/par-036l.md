@@ -6,4 +6,4 @@
 
 (3) Hypotekárneho správcu a jeho zástupcu odvoláva Národná banka Slovenska po dohode s ministerstvom.
 
-(4) Hypotekárnym správcom a jeho zástupcom môže byť len fyzická osoba, ktorá je na túto činnosť odborne spôsobilá a občiansky bezúhonná.
+(4) Hypotekárnym správcom a jeho zástupcom môže byť len fyzická osoba, ktorá je na túto činnosť odborne spôsobilá a občiansky bezúhonná. Za odborne spôsobilú osobu sa považuje fyzická osoba s ukončeným ekonomickým alebo právnickým vysokoškolským vzdelaním, ktorá vykonávala ekonomickú alebo právnickú prax najmenej päť rokov.

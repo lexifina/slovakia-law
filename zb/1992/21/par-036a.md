@@ -11,5 +11,3 @@
 - b) poskytovanie komunálnych úverov a s tým spojené vydávanie komunálnych obligácií bankou.<sup>7e</sup>)
 
 (2) Hypotekárne obchody sa musia realizovať v slovenských korunách.
-
-(3) Hypotekárne obchody nemôže vykonávať pobočka zahraničnej banky.

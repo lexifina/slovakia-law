@@ -1,0 +1,17 @@
+# § 26a
+
+(1) Osobe, ktorá vykonala úkon, ktorým došlo k porušeniu § 16 ods. 1 písm. a), môže Národná banka Slovenska pozastaviť výkon práva zúčastniť sa a hlasovať na valnom zhromaždení banky a práva požiadať o zvolanie mimoriadneho valného zhromaždenia banky. Výkon týchto práv môže Národná banka Slovenska pozastaviť aj osobe, ktorej pôsobenie týkajúce sa banky je na ujmu riadneho a obozretného podnikania banky alebo u ktorej možno takéto pôsobenie dôvodne očakávať v prípadoch ustanovených v § 16 ods. 8.
+
+(2) Banka je povinná päť dní pred dňom konania valného zhromaždenia dať v súlade s osobitným predpisom<sup>5a</sup>) príkaz na registráciu pozastavenia výkonu práva nakladať so zaknihovanými cennými papiermi pre všetky zaknihované akcie, ktoré vydala.
+
+(3) Banka je povinná predložiť Národnej banke Slovenska výpis z jej registra emitenta zaknihovaných cenných papierov vyhotovený v deň, keď bol vykonaný príkaz banky na registráciu pozastavenia výkonu práva nakladať so zaknihovanými cennými papiermi podľa osobitného predpisu<sup>5a</sup>) pre všetky zaknihované akcie, ktoré banka vydala. Výpis sa nesmie vyhotoviť skôr, ako sa takáto registrácia vykonala. Tento výpis je banka povinná doručiť Národnej banke Slovenska v deň jeho vyhotovenia. Národná banka Slovenska bez zbytočného odkladu na tomto výpise písomne označí osobu, ktorej pozastavila výkon práv uvedených v odseku 1, a doručí ho banke najneskôr v deň predchádzajúci konaniu valného zhromaždenia banky. Ak Národná banka Slovenska na tomto výpise písomne označí osobu, u ktorej novo zistila dôvod na pozastavenie výkonu práv uvedených v odseku 1, je tým začaté konanie o pozastavení výkonu práv uvedených v odseku 1 takto označenej osobe; predbežné opatrenie (§ 40ch) vo veci pozastavenia výkonu práv uvedených v odseku 1 doručí Národná banka Slovenska tejto osobe a banke najneskôr v deň konania valného zhromaždenia. Týmto predbežným opatrením je banka viazaná. Za doručenie sa považuje doručenie predbežného opatrenia aj splnomocnenému zástupcovi.
+
+(4) Banka nesmie na svojom valnom zhromaždení pripustiť účasť osoby označenej Národnou bankou Slovenska podľa odseku 3 ani účasť osoby neuvedenej vo výpise predloženom bankou podľa odseku 3, ani osôb splnomocnených týmito osobami na konanie v ich mene.
+
+(5) Akcie, s ktorými sú spojené pozastavené práva uvedené v odseku 1, sa počas pozastavenia týchto práv nepovažujú za akcie s hlasovacím právom. Na tieto akcie sa neprihliada pri posudzovaní schopnosti valného zhromaždenia uznášať sa ani pri rozhodovaní valného zhromaždenia. Na takto vzniknuté zvýšenie podielu na hlasovacích právach ostatných osôb, ktoré sú uvedené vo výpise predloženom bankou podľa odseku 3, sa nevyžaduje predchádzajúci súhlas Národnej banky Slovenska podľa § 16 ods.1 písm. a).
+
+(6) Ak pominú dôvody na pozastavenie výkonu práv uvedených v odseku 1, Národná banka Slovenska ich pozastavenie bezodkladne zruší.
+
+(7) Stredisko cenných papierov Slovenskej republiky<sup>5a</sup>) je povinné z evidencií, ktoré vedie, poskytovať Národnej banke Slovenska na jej požiadanie informácie potrebné na výkon bankového dohľadu.
+
+(8) Národná banka Slovenska je oprávnená podať súdu návrh na vyhlásenie rozhodnutia valného zhromaždenia banky za neplatné z dôvodu rozporu so zákonmi, s inými všeobecne záväznými právnymi predpismi alebo so stanovami banky do troch mesiacov odo dňa, keď sa o tomto rozhodnutí dozvedela, najneskôr do jedného roka od prijatia tohto rozhodnutia.
