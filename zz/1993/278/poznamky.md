@@ -64,8 +64,6 @@
 
 - 14a) § 21 ods. 4 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
-- 14b) § 4 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
-
 - 15) Zákon č. 526/1990 Zb. o cenách.
 
 - 16) § 43 a nasl. Občianskeho zákonníka.
