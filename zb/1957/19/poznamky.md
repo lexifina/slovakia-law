@@ -1,0 +1,1 @@
+- *) Zmeny vykonané zákonným opatrením predsedníctva Národného zhromaždenia č. 64/1955 Zb. o zmene a doplnení zákona č. 103/1951 Zb. o jednotnej preventívnej a liečebnej starostlivosti, nadobudli účinnosť 29. decembrom 1955 a zmeny vykonané zákonom č. 17/1957 Zb. 1. januárom 1957.
