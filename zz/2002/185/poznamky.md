@@ -6,6 +6,8 @@
 
 - 2) Čl. 141a ods. 4 písm. g) Ústavy Slovenskej republiky.
 
+- 2a) § 6 ods. 1 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.
+
 - 3) § 58 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
 - 4) Napríklad zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
@@ -13,6 +15,10 @@
 - 4a) Čl. 141a ods. 1 Ústavy Slovenskej republiky.
 
 - 5) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+
+- 5a) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5b) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
 
 - 6) § 11 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
