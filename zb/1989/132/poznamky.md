@@ -10,6 +10,8 @@
 
 - 1d) Dohovor o medzinárodných výstavách dojednaný v Paríži 22. novembra 1928 (Zbierka zákonov a nariadení štátu československého č. 46/1932).
 
+- 1f) § 27 ods. 5 a 6 zákona č. 435/2001 o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon).
+
 - 2) Zákon č. 61/1964 Zb. o rozvoji rastlinnej výroby v znení zákona č. 132/1989 Zb. a zákona Národnej rady Slovenskej republiky č. 184/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 285/1995 Z. z.Zákon Slovenskej národnej rady č. 110/1972 Zb.
 
 - 2a) § 12a až 12h zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
