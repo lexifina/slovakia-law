@@ -1,0 +1,3 @@
+Ministr:
+
+Jakubík v. r.
