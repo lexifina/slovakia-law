@@ -1,3 +1,3 @@
 # § 287a
 
-Ustanovenie § 102 sa v roku 1999 nepoužije.
+Ďalší služobný plat podľa § 102 sa uplatní v roku 2000 len v prvom polroku tohto kalendárneho roku.
