@@ -70,6 +70,8 @@
 
 - 5e) § 36 ods. 1 zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov.
 
+- 5f) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
+
 - 6) § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
 - 7) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
@@ -129,6 +131,8 @@
 - 16d) § 6 ods. 2 Obchodného zákonníka.
 
 - 16e) Vyhláška Ministerstva financií Slovenskej republiky č. 21/1993 Z. z. o účelových poistných fondoch.
+
+- 16f) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov.
 
 - 17) Zákon č. 563/1991 Zb. o účtovníctve.
 
