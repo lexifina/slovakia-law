@@ -1,8 +1,16 @@
 - 1) § 22 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) (ďalej len „zákon“).
 
+- 1a) Zákon Národnej rady Slovenskej republiky č.180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- 1b) § 21 a 22 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
+
 - 2) § 8 ods. 2 a § 62 ods. 4 zákona.
 
 - 3) § 18 písm. k) zákona.
+
+- 3a) Zákon č. 92/1991 Zb. o prevode majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 3b) § 5 a 16 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
 
 - 4) § 2 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam v znení neskorších predpisov.§ 63 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 

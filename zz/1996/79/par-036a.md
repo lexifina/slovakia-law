@@ -1,6 +1,6 @@
 # § 36a
 
-(1) Listy vlastníctva sa plombujú v deň doručenia zakladateľskej listiny obchodnej spoločnosti, verejnej listiny alebo inej listiny, najneskôr však v nasledujúci pracovný deň.
+(1) Listy vlastníctva sa plombujú v deň doručenia zmluvy, verejnej listiny alebo inej listiny alebo v deň začatia konania o oprave chyby v katastrálnom operáte, najneskôr však v nasledujúci pracovný deň.
 
 (2) Ak sa plomba týka iba niektorej nehnuteľnosti alebo iba niektorého spoluvlastníckeho podielu, plomba sa vyznačí v časti A listu vlastníctva alebo v časti B listu vlastníctva.
 
