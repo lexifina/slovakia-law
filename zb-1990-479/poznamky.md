@@ -1,0 +1,1 @@
+- 1) § 2 ods. 1 písm. d) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon). Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 84/1976 Zb. o územnoplánovacích podkladoch a územnoplánovacej dokumentácii.
