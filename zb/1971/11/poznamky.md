@@ -17,3 +17,5 @@
 - *) V učebnom odbore č. 0101 je na jedného majstra odborného výcviku až 30 učňov, pokiaľ sú učni pridelení pri práci na povrchu bane kádrovým robotníkom.
 
 - **) Podľa jednotnej klasifikácie študijných a učebných odborov, ktorú vydal Federálny štatistický úrad (ako časť 8 jednotnej sústavy sociálno-ekonomických klasifikácií) nákladom Štatistického a evidenčného vydavateľstva tlačív, Praha v r. 1970).
+
+- 1) Kód je ustanovený úpravou Federálneho štatistického úradu č. 2817/78-03 o doplnení jednotnej klasifikácie študijných a učebných odborov.
