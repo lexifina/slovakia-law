@@ -1,0 +1,1 @@
+- 1) Za leden 1991 se provede odvod odpovídající skutečné těžbě za tento měsíc.
