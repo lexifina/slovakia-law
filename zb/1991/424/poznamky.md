@@ -12,6 +12,8 @@
 
 - 5) Napríklad zákon č. 366/1999 Z. z. o daniach z príjmov.
 
+- 5a) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
+
 - 6) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 7) § 2 ods. 3 a § 14 až 21 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
