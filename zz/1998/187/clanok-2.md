@@ -44,10 +44,6 @@ Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 36/1967 Z
 
 - o odmietnutí registrácie kandidátnej listiny, môže sa politická strana obrátiť na Najvyšší súd Slovenskej republiky s návrhom na vydanie rozhodnutia o zaregistrovaní tejto kandidátnej listiny.
 
-- (2)
-
-- Účastníkmi konania sú politická strana a Ústredná volebná komisia.
-
 - (3)
 
 - Súd rozhodne uznesením, a to do piatich dní od podania návrhu.“.

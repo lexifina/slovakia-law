@@ -33,9 +33,3 @@ Zákon č. 468/1991 Zb. o prevádzkovaní rozhlasového a televízneho vysielani
 - a)
 
 - vysiela reláciu, ktorej obsah je v rozpore s povinnosťami prevádzkovateľov uvedenými v § 5 písm. a), b), c), g) a h),“.
-
-- 5. Za § 20 sa vkladá § 20a, ktorý znie:
-
-- „§ 20a
-
-- Ak prevádzkovateľ porušil povinnosti ustanovené týmto zákonom alebo podmienky udelenej licencie, rada najviac na jeden mesiac pozastaví reláciu, v ktorej došlo k porušeniu zákona, alebo uloží prevádzkovateľovi povinnosť odvysielať oznam o zistenom porušení zákona v rozsahu, forme a vysielacom čase, ktorý určí rada. Ustanovenia § 20 tým nie sú dotknuté.“.
