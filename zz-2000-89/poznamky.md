@@ -1,0 +1,1 @@
+- 1) § 65 ods. 15 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 241/1998 Z. z.
