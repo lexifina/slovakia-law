@@ -1,0 +1,1 @@
+Milan Čič v. r.
