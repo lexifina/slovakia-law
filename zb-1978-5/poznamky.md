@@ -1,0 +1,1 @@
+- 1) Vydanie úpravy bolo oznámené v čiastke 46/1969 Zb.
