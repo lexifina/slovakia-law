@@ -1,0 +1,1 @@
+- *) Pozri vyhlášku ministra zahraničného obchodu č.2050/1948 Ú.l.I. a vyhlášky ministra zahraničného obchodu č.298/1953 Ú.l. (č.343/1953 Ú.v.) v znení článku V vyhlášky ministra zahraničného obchodu č.147/1965 Zb.
