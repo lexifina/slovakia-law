@@ -4,6 +4,8 @@
 
 - 3) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 3a) § 50 zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+
 - 4) § 21 ods. 2 Obchodného zákonníka.
 
 - 5) § 187 Obchodného zákonníka.
@@ -16,11 +18,15 @@
 
 - 9) § 200 Obchodného zákonníka.
 
-- 10) Napr. § 1 ods. 3 zákona č. 21/1992 Zb. o bankách.
+- 10) § 45 a nasl. zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
 - 11) § 4 zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
 
-- 12) § 1 ods. 5 zákona č. 530/1991 Zb. o dlhopisoch.
+- 11a) § 73 ods. 2 zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+
+- 12) § 1 ods. 5 zákona č. 530/1990 Zb. o dlhopisoch.
+
+- § 1 zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
 - 13) § 191 a nasl. Obchodného zákonníka.
 
