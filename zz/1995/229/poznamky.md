@@ -38,7 +38,7 @@
 
 - 19a) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
-- 20) § 33 ods. 1 zákona Slovenskej národnej rady č. 511/1992 Zb.
+- 20) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, § 299 Obchodného zákonníka, Občiansky súdny poriadok.
 
 - 21) Vyhláška Ministerstva financií Slovenskej republiky č. 303/1994 Z. z. o označovaní spotrebiteľského balenia liehu, liehovín a destilátov kontrolnou páskou.
 
@@ -51,6 +51,8 @@
 - 25) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
 - 26) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+
+- 26a) § 69 Obchodného zákonníka.
 
 - 27) § 63 ods. 2 písm. a) zákona č. 618/1992 Zb.
 
@@ -67,6 +69,8 @@
 - 33) § 38 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 34) § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 34a) § 73 až 93 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 35) § 84 zákona č. 618/1992 Zb.
 
