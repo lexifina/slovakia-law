@@ -29,5 +29,3 @@ Vozidlo kategórie M | do 9 miest | 102 | 100 | 98
 Vozidlo kategórie N | do 3,5 t | 112 | 110 | 108
 
 | nad 3,5 t | 116 | 114 | 112
-
-[Príloha 06](../assets/dd34fc82a41d9c0c79810249d7ff7bc51bcea4f7b1a32b5fd6f38068246bcc17.pdf)
