@@ -1,1 +1,0 @@
-Štefan Condík v. r.
