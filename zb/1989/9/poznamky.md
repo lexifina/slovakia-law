@@ -6,7 +6,7 @@
 
 - 4) Článok 1 úpravy Federálneho štatistického úradu č. 1793/78-032-918 z 9. 6. 1978, ktorou sa upravuje číselné označovanie krajov a okresov v ČSSR (reg. v čiastke 25/1978 Zb.).
 
-- 5) § 7 ods. 3 zákona SNR č. 52/1988 Zb.
+- 5) § 4 a § 4a zákona SNR č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade v znení zákona SNR č. 497/1991 Zb.
 
 - 6) § 31 ods. 3 banského zákona.
 
@@ -18,11 +18,19 @@
 
 - 10) ČSN 73 1002 Pilótové základy.
 
-- 11) § 11 zákona SNR č. 52/1988 Zb.
+- 11a) § 5 ods. 1 písm. a) vyhlášky Slovenského geologického úradu č. 127/1989 Zb. o projektovaní, vykonávaní a vyhodnocovaní geologických prác, o udeľovaní povolenia a o odbornej spôsobilosti na ich výkon.
+
+- 11b) § 3 ods. 1 písm. a) zákona SNR č. 52/1988 Zb.
+
+- 11c) § 22 zákona SNR č. 52/1988 Zb.
+
+- 11d) § 4c zákona SNR č. 52/1988 Zb.
 
 - 12) § 72 a 77 zákona č. 194/1988 Zb. o pôsobnosti federálnych ústredných orgánov štátnej správy.
 
 - 13) § 35 ods. 4 banského zákona.
+
+- 13a) § 3 ods. 1 zákona SNR č. 52/1988 Zb.
 
 - 14) Zákon č. 141/1961 Zb. o trestnom súdnom konaní (trestný poriadok) v znení neskorších predpisov.
 
