@@ -1,1 +1,0 @@
-- *) Úradné oznámenie v čiastke 74/1958 Ú. l. (Ú. v.).
