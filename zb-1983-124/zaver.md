@@ -1,0 +1,1 @@
+Šalgovič v. r.
