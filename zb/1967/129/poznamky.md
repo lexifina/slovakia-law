@@ -1,0 +1,1 @@
+- *) Tieto predpisy platia v znení všetkých úprav a zmien vykonaných do 31. decembra 1967.
