@@ -74,6 +74,8 @@
 
 - 16a) § 11 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov. Vyhláška Federálneho ministerstva financií č. 119/1988 Zb. o hospodárení s národným majetkom v znení neskorších predpisov.
 
+- 16aa) § 5 ods. 3 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 72/1999 Z. z.
+
 - 17) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.Zákon Slovenskej národnej rady č. 330/1991 Zb.
 
 - 18) § 46 zákona č. 162/1990 Zb.
