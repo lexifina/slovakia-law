@@ -1,25 +1,65 @@
 Príloha č. 2 k nariadeniu vlády č. 391/1999 Z. z.
 
-- NÁLEŽITOSTI A OBSAH TECHNICKEJ DOKUMENTÁCIE 1. Technická konštrukčná dokumentácia sa vypracúva v štátnom jazyku a obsahuje najmä
+- NÁLEŽITOSTI A OBSAH VYHLÁSENIA O ZHODE A. Obsah ES vyhlásenia o zhode strojových zariadení
 
-- a) celkový výkres strojového zariadenia vrátane schém ovládacích obvodov,
+- Vyhlásenie o zhode musí obsahovať tieto údaje:
 
-- b) podrobné výkresy doplnené výpočtami, výsledkami skúšok atď., ktoré sú nevyhnutné na overenie zhody strojového zariadenia s technickými požiadavkami uvedenými v prílohe č. 1,
+- a) názov a adresu výrobcu alebo jeho splnomocnenca,
 
-- c) zoznam
+- b) opis strojového zariadenia (značku, typ, výrobné číslo, ak existujú, atď.),
 
-- 1. technických požiadaviek,
+- c) všetky príslušné ustanovenia, ktorým strojové zariadenie vyhovuje,
 
-- 2. harmonizovaných slovenských technických noriem alebo slovenských technických noriem,
+- d) v prípade potreby názov a adresu autorizovanej osoby a číslo certifikátu skúšky typu,
 
-- 3. ostatných technických predpisov, ktoré boli použité pri navrhovaní daného strojového zariadenia,
+- e) v prípade potreby názov a adresu autorizovanej osoby, ktorej bola poskytnutá dokumentácia podľa § 3 ods. 2 písm. c) bodu 1,
 
-- d) opis metód prijatých na odstránenie alebo na obmedzenie nebezpečenstva spôsobeného strojovým zariadením,
+- f) v prípade potreby názov a adresu autorizovanej osoby, ktorá vykonala overenie podľa § 3 ods. 2 písm. c) bodu 2,
 
-- e) podľa uváženia výrobcu alebo dovozcu technické správy alebo certifikáty získané od autorizovanej osoby alebo od osoby akreditovanej podľa zákona,
+- g) v prípade potreby odkazy na harmonizované slovenské technické normy,
 
-- f) technickú správu obsahujúcu výsledky skúšok vykonaných na základe vlastnej voľby buď výrobcom, alebo dovozcom, alebo autorizovanou osobou, alebo osobou akreditovanou podľa zákona, ak výrobca alebo dovozca vyhlasuje zhodu s harmonizovanou slovenskou technickou normou,
+- h) v prípade potreby použité slovenské technické normy a technické predpisy,
 
-- g) návod na používanie strojového zariadenia.
+- i) identifikáciu osoby oprávnenej podpisovať za výrobcu vyhlásenie o zhode alebo jeho splnomocnenca.
 
-- 2. V prípade sériovej výroby technická dokumentácia obsahuje vnútropodnikové opatrenia, ktoré budú vykonané na zabezpečnie trvalej zhody strojového zariadenia s ustanovenými technickými požiadavkami.
+- B. Obsah vyhlásenia, ktoré vydáva výrobca alebo jeho splnomocnenec
+
+- Vyhlásenie, ktoré vydáva výrobca a ktoré je uvedené v § 5 ods. 2, musí obsahovať tieto podrobné údaje:
+
+- a) názov a adresu výrobcu alebo jeho splnomocnenca,
+
+- b) opis strojového zariadenia alebo častí strojového zariadenia,
+
+- c) v prípade potreby meno a adresu autorizovanej osoby a číslo certifikátu skúšky typu,
+
+- d) v prípade potreby názov a adresu autorizovanej osoby, ktorej bol zaslaný súbor dokumentácie podľa § 3 ods. 2 písm. c) bodu 1,
+
+- e) v prípade potreby názov a adresu autorizovanej osoby, ktorá vykonala overenie podľa § 3 ods. 2 písm. c) bodu 2,
+
+- f) v prípade potreby odkazy na harmonizované slovenské technické normy,
+
+- g) vyhlásenie, že strojové zariadenie sa nesmie uviesť do prevádzky, ak na strojové zariadenie, do ktorého sa má toto strojové zariadenie začleniť, nebola vyhlásená zhoda s ustanoveniami tohto nariadenia,
+
+- h) identifikácia osoby s podpisovým právom.
+
+- C. Obsah ES vyhlásenia o zhode bezpečnostnej časti samostatne uvádzanej na trh
+
+- ES vyhlásenie o zhode musí obsahovať tieto podrobné údaje:
+
+- a) názov a adresu výrobcu alebo jeho splnomocnenca,
+
+- b) opis bezpečnostného komponentu (značku, typ, výrobné číslo, ak existujú, atď.),
+
+- c) bezpečnostnú funkciu, ktorú plní bezpečnostný komponent, ak nie je zrejmá z opisu,
+
+- d) v prípade potreby názov a adresu autorizovanej osoby a číslo certifikátu typovej skúšky,
+
+- e) v prípade potreby názov a adresu autorizovanej osoby, ktorej bol zaslaný súbor dokumentácie podľa § 3 ods. 2 písm. c) bodu 1,
+
+- f) v prípade potreby názov a adresu autorizovanej osoby, ktorá vykonala overenie podľa § 3 ods. 2 písm. c) bodu 2,
+
+- g) v prípade potreby odkazy na harmonizované slovenské technické normy,
+
+- h) v prípade potreby použité slovenské technické normy a technické predpisy,
+
+- i) určenie osoby oprávnenej podpisovať za výrobcu alebo jeho splnomocnenca.

@@ -4,7 +4,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - Všeobecné požiadavky
 
-  - 1. Podrobnosti o technických požiadavkách sa uplatnia len vtedy, ak sa pri danom strojovom zariadení objaví príslušné ohrozenie za podmienok používania predpokladaných výrobcom. V každom prípade technické požiadavky v bodoch 1.1.2, 1.7.4 a 1.7.5 platia pre všetky strojové zariadenia.
+  - 1. Podrobnosti o technických požiadavkách sa uplatnia len vtedy, ak sa pri danom strojovom zariadení alebo bezpečnostnej časti (ďalej len „strojové zariadenie") objaví príslušné ohrozenie za podmienok používania predpokladaných výrobcom. V každom prípade technické požiadavky v bodoch 1.1.2, 1.7.4 a 1.7.5 platia pre všetky strojové zariadenia.
 
   - 2. Technické požiadavky podľa tohto nariadenia sú záväzné. Za súčasného technického stavu nemusí byť vždy možné splnenie vytýčených cieľov. V takom prípade sa musí navrhnúť a vyrobiť strojové zariadenie tak, aby sa k týmto cieľom čo najviac priblížilo.
 
@@ -18,7 +18,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - a) nebezpečný priestor: akýkoľvek priestor vnútri alebo mimo stroja, v ktorom je osoba vystavená úrazu alebo poškodeniu zdravia,
 
-    - b) ohrozená osoba: každá osoba, ktorá sa celkom alebo čiastočne nachádza v nebezpečnom priestore,
+    - b) ohrozená osoba: každá osoba, ktorá sa celkom alebo čiastočne nachádza v nebezpečnom priestore - osoba vystavená ohrozeniu,
 
     - c) obsluha: osoba alebo osoby, ktoré sú poverené inštaláciou, obsluhou, nastavovaním, údržbou, čistením, opravou alebo prepravou strojového zariadenia.
 
@@ -32,7 +32,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 2. vykoná potrebné ochranné opatrenia proti nebezpečenstvám, ktoré nemožno odstrániť,
 
-  - 3. informuje používateľa o zostatkovom riziku vyplývajúcom z nedostatočnej účinnosti vykonaných bezpečnostných opatrení; poukáže na prípadnú potrebu špeciálneho vyškolenia a používania osobných ochranných pracovných prostriedkov.
+  - 3. informuje používateľa o zostatkovom riziku vyplývajúcom zo zlyhania vykonaných bezpečnostných opatrení; určí prípadnú potrebu špeciálneho vyškolenia a používania osobných ochranných pracovných prostriedkov.
 
     - c) Pri vývoji a výrobe strojového zariadenia, ako aj pri spracúvaní návodu na používanie výrobca predvída nielen bežné použitie stroja, ale aj také použitie, ktoré možno po zvážení očakávať; strojové zariadenie treba navrhnúť tak, aby sa predišlo nezvyčajnému použitiu, ak by spôsobilo vznik ohrozenia, prípadne v návode na používanie osobitne poukázať na nesprávne použitie známe zo skúsenosti.
 
@@ -40,11 +40,11 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - e) Pri navrhovaní a výrobe strojového zariadenia výrobca berie do úvahy obmedzenia, ktoré obsluhe vzniknú pri nevyhnutnom alebo predpokladanom používaní osobných ochranných pracovných prostriedkov (napr. rukavíc, obuvi).
 
-    - f) Strojové zariadenie sa musí dodávať so všetkým podstatným osobitným vybavením a príslušenstvom, aby sa nastavenie, údržba a prevádzka mohli vykonať bez ohrozenia personálu.
+    - f) Strojové zariadenie sa musí dodávať so všetkým podstatným osobitným vybavením a príslušenstvom, aby sa nastavenie, údržba a prevádzka mohli vykonať bez rizika.
 
   - 1.1.3 Materiály a výrobky
 
-    - Materiály použité na výrobu strojového zariadenia alebo látky, materiály a produkty použité a vzniknuté počas prevádzky nesmú ohrozovať bezpečnosť ani zdravie príslušných osôb. Najmä tam, kde sa používajú tekutiny (tlakové médiá), musí sa strojové zariadenie navrhnúť a vyrobiť tak, aby nemohlo nastať ohrozenie obsluhy pri ich plnení, používaní, regenerácii alebo vypúšťaní.
+    - Materiály použité na výrobu strojového zariadenia alebo látky, materiály a produkty použité a vytvorené počas prevádzky nesmú ohrozovať bezpečnosť ani zdravie ohrozených osôb. Najmä tam, kde sa používajú tekutiny (tlakové médiá), musí sa strojové zariadenie navrhnúť a vyrobiť tak, aby nemohla nastať nebezpečná situácia pri ich plnení, používaní, regenerácii alebo vypúšťaní.
 
   - 1.1.4 Osvetlenie
 
@@ -68,9 +68,11 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - c) Strojové zariadenie, prípadne jeho časti, ktoré sa majú ručne premiestňovať, musia byť
 
-  - 1. ľahko premiestniteľné,
+  - 1. ľahko premiestniteľné alebo
 
-  - 2. vybavené pomôckami na nosenie (napr. rukoväťou a pod.) na bezpečné premiestnenie.
+  - 2. vybavené pomôckami na zdvíhanie (napr. rukoväťou a pod.) na bezpečné premiestnenie.
+
+    - Osobitné opatrenia treba dodržať pri manipulácii s nástrojmi alebo s časťami strojov, ktoré môžu byť nebezpečné (tvar, materiál, atď.), a to aj v prípade, ak majú nízku hmotnosť.
 
   - 1.2 Ovládacie zariadenia
 
@@ -100,7 +102,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - g) vyrobené tak, aby vydržali predpokladané namáhania; platí to najmä pre ovládače núdzového zastavenia, ktoré sa môžu mimoriadne namáhať.
 
-      - Ak je ovládač navrhnutý a vyrobený na viaceré rôzne účinky, t. j. jeho účinok nie je jednoznačný (napr. klávesnica a pod.), musí byť príslušný ovládací účinok zrozumiteľne vyznačený, prípadne aj potvrdený. Ovládače musia byť skonštruované tak, aby uplatnením ergonomických zásad bolo ich umiestnenie, pohyb a odpor voči ovládaniu v súlade s ovládacím účinkom. Do úvahy sa musí vziať aj obmedzenie spôsobené nevyhnutným alebo predpokladaným používaním osobných ochranných pracovných prostriedkov (ako je obuv, rukavice a pod.). Strojové zariadenie musí byť vybavené bezpečnostne dôležitými oznamovacími prostriedkami (stupnicami, signalizačnými zariadeniami a pod.) a upozorneniami, ktoré musia byť viditeľné pre obsluhu z jej pracovného miesta. Z hlavného pracovného miesta má obsluha možnosť presvedčiť sa, že v nebezpečnom priestore sa nenachádzajú žiadne osoby. Ak to nie je možné, ovládací systém sa musí navrhnúť a vyrobiť tak, aby kedykoľvek, keď sa má zariadenie spustiť, bol vydaný akustický alebo vizuálny výstražný signál. Ohrozená osoba musí mať čas a možnosť, aby okamžitým zásahom zabránila uvedeniu stroja do chodu.
+      - Ak je ovládač navrhnutý a vyrobený na viaceré rôzne funkcie, t. j. jeho funkcia je viacúčelová (napr. klávesnica a pod.), musí byť príslušná ovládacia funkcia zrozumiteľne vyznačená, prípadne aj predmetom potvrdenia. Ovládače sa musia skonštruovať tak, aby uplatnením ergonomických zásad bolo ich umiestnenie, pohyb a odpor proti ovládaniu v súlade s činnosťou, ktorú majú vykonávať. Do úvahy sa musí vziať aj obmedzenie spôsobené nevyhnutným alebo predpokladaným používaním osobných ochranných pracovných prostriedkov (ako je obuv, rukavice a pod.). Strojové zariadenie musí byť vybavené ukazovateľmi požadovanými na bezpečné fungovanie (stupnicami, signalizačnými zariadeniami a pod.), ktoré musia byť viditeľné pre obsluhu z jej pracovného miesta. Z hlavného pracovného miesta má obsluha možnosť presvedčiť sa, že v nebezpečnom priestore sa nenachádzajú žiadne osoby. Ak to nie je možné, ovládací systém sa musí navrhnúť a vyrobiť tak, aby kedykoľvek, keď sa má zariadenie spustiť, vydalo akustický alebo vizuálny výstražný signál. Ohrozená osoba musí mať čas a možnosť okamžitým zásahom zabrániť uvedeniu stroja do chodu.
 
   - 1.2.3 Uvedenie do chodu
 
@@ -110,9 +112,9 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - b) určitej výraznej zmene v prevádzkových podmienkach (napr. pri rýchlosti, tlaku) s výnimkou takého uvedenia do chodu alebo zmeny v prevádzkových podmienkach, ktoré nevytvárajú ohrozenie pre obsluhu.
 
-      - Táto požiadavka neplatí pre opätovné spúšťanie strojového zariadenia alebo pre zmenu v prevádzkových podmienkach, ktoré vyplývajú z bežného sledu operácií automatizovaného cyklu. Ak je strojové zariadenie vybavené viacerými ovládačmi na uvádzanie do chodu, a z toho dôvodu môže nastať vzájomné ohrozenie obsluhy, na vylúčenie takejto situácie sa musí strojové zariadenie vybaviť doplnkovým zariadením (napr. blokovacím zariadením alebo prepínačom dovoľujúcim v jednom okamihu ovládať len jednu časť spúšťacieho mechanizmu). Pre automatizované strojové zariadenie pracujúce v automatickom režime musí existovať možnosť ľahkého uvedenia do chodu po vypnutí, ak boli splnené bezpečnostné podmienky.
+      - Táto požiadavka neplatí pre opätovné spúšťanie strojového zariadenia alebo pre zmenu v prevádzkových podmienkach, ktoré vyplývajú z bežného sledu operácií automatizovaného cyklu. Ak je strojové zariadenie vybavené viacerými ovládačmi na uvádzanie do chodu, a z toho dôvodu môže nastať vzájomné ohrozenie obsluhy obsluhujúcej tieto rôzne ovládače, na vylúčenie takejto situácie sa musí strojové zariadenie vybaviť doplnkovým zariadením (napr. blokovacím zariadením alebo prepínačom dovoľujúcim v jednom okamihu ovládať len jednu časť spúšťacieho mechanizmu). Pre automatizované strojové zariadenie pracujúce v automatickom režime musí existovať možnosť ľahkého uvedenia do chodu po vypnutí, ak boli splnené bezpečnostné podmienky.
 
-  - 1.2.4 Zariadenie na zastavenie
+  - 1.2.4 Zariadenie na zastavenie chodu, vypínacie zariadenie
 
     - Bežné zastavenie
 
@@ -132,7 +134,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 2. zastaviť nebezpečný proces čo najrýchlejšie, pričom nesmie spôsobiť prídavné ohrozenie,
 
-  - 3. prípadne uviesť do chodu určité časti alebo umožniť ich pohyb na zaistenie bezpečnosti.
+  - 3. ak je to potrebné, spustiť alebo zabrániť spusteniu určitých bezpečnostných pohybov.
 
     - Keby sa aktívna funkcia zariadenia núdzového zastavenia po uvoľnení ovládača mala skončiť, musí byť príkaz na zastavenie strojového zariadenia poistený zablokovaním zariadenia núdzového zastavenia až po jeho vypnutie z aktívnej funkcie príslušným predpísaným úkonom. Toto zablokovanie nesmie byť možné, ak nebol uvoľnený ovládač núdzového zastavenia. Vypnutie nesmie uviesť strojové zariadenie znovu do chodu, iba to musí umožniť.
 
@@ -142,15 +144,15 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 1.2.5 Volič prevádzkového režimu
 
-    - Zvolený režim ovládania musí byť nadradený všetkým ostatným ovládacím režimom s výnimkou núdzového zastavenia. Ak sa strojové zariadenie navrhlo a vyrobilo tak, že sú možné viaceré ovládacie alebo prevádzkové režimy s rozličným stupňom bezpečnosti (napr. pri nastavovaní, údržbe, kontrole a pod.), musí byť vybavené voličom režimu prevádzky (prepínačom) uzamykateľným v každej polohe. Každá poloha prepínača smie zodpovedať iba jednému ovládaciemu alebo prevádzkovému režimu. Prepínač môže nahradiť iný selekčný prostriedok, ktorý umožní vykonať určité funkcie strojového zariadenia len určitým kategóriám obslužného personálu (napr. vstupné kódy pre určité numericky riadené funkcie a pod.). Ak je pri určitých operáciách potrebná prevádzka strojového zariadenia s neúčinným ochranným zariadením, k zodpovedajúcej polohe prepínača treba priradiť tieto riadiace pokyny:
+    - Zvolený režim ovládania musí byť nadradený všetkým ostatným ovládacím režimom s výnimkou núdzového zastavenia. Ak sa strojové zariadenie navrhlo a vyrobilo tak, že sú možné viaceré ovládacie alebo prevádzkové režimy s rozličným stupňom bezpečnosti (napr. pri nastavovaní, údržbe, kontrole a pod.), musí byť vybavené voličom režimu prevádzky (prepínačom) blokovateľným v každej polohe. Každá poloha prepínača smie zodpovedať iba jednému ovládaciemu alebo prevádzkovému režimu. Prepínač môže nahradiť iný selekčný prostriedok, ktorý umožní vykonať určité funkcie strojového zariadenia len určitým kategóriám obslužného personálu (napr. vstupné kódy pre určité numericky riadené funkcie a pod.). Ak je pri určitých operáciách potrebná prevádzka strojového zariadenia s neúčinným ochranným zariadením, volič prevádzkového režimu musí súčasne uskutočniť.
 
-    - a) zablokovanie automatického riadiaceho systému,
+    - a) zablokovanie automatického ovládacieho režimu alebo riadiaceho režimu,
 
-    - b) umožnenie pohybu len vtedy, ak sa bude ovládač kontinuálne ovládať (ovládače so samočinným návratom do spätnej polohy),
+    - b) umožnenie pohybu len vtedy, ak sa bude ovládač nepretržite ovládať (ovládače so samočinným návratom do spätnej polohy),
 
     - c) umožnenie nebezpečných pohybov častí len za prísnejších bezpečnostných podmienok (napr. znížená rýchlosť, znížený výkon, krokovanie prevádzky alebo iné vhodné opatrenia), čím sa vylúči ohrozenie v dôsledku nadväznosti ovládacích povelov,
 
-    - d) zablokovanie pohybov strojového zariadenia, ktoré by mohli vzniknúť z priameho alebo nepriameho pôsobenia na vnútorné senzory stroja a vyvolať ohrozenie.
+    - d) zablokovanie pohybov strojového zariadenia, ktoré by mohli vzniknúť z priameho alebo nepriameho pôsobenia na vnútorné snímače stroja a vyvolať ohrozenie.
 
       - Z miesta ovládania prepínača režimu sa musia dať ovládať príslušné prevádzkové časti strojového zariadenia.
 
@@ -200,9 +202,9 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - b) ak sa nástroj zámerne alebo náhodne uvedie do pohybu a/alebo zastaví, musia byť pohyby obrobku a nástroja synchrónne.
 
-    - 1.3.3 Ohrozenie padajúcimi alebo odletujúcimi predmetmi
+    - 1.3.3 Ohrozenie padajúcimi alebo vymrštenými predmetmi
 
-      - Musia sa vykonať preventívne opatrenia na zabránenie ohrozenia padajúcimi alebo odletujúcimi predmetmi (napr. obrobkami, nástrojmi, odrezkami, úlomkami, odpadom).
+      - Musia sa vykonať preventívne opatrenia na zabránenie ohrozenia padajúcimi alebo vymrštenými predmetmi (napr. obrobkami, nástrojmi, odrezkami, úlomkami, odpadom).
 
     - 1.3.4 Ohrozenie povrchom, hranami a rohmi
 
@@ -230,7 +232,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - 1. pevné (stabilne pripevnené) ochranné kryty vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.2.1,
 
-    - 2. pohyblivé ochranné kryty vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.2.2.
+    - 2. pohyblivé ochranné kryty vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.2.2 písm. a).
 
       - Pohyblivé kryty sa majú používať tam, kde sa predpokladá častý prístup.
 
@@ -240,7 +242,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - 1. všade tam, kde je to možné, pevné ochranné kryty vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.2.1,
 
-    - 2. v ostatných prípadoch pohyblivé ochranné kryty vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.2.2 alebo iné ochranné zariadenia, ako sú ochranné vypínacie zariadenia (napr. svetelné závory a clony, nášľapové mostíky), zariadenia s viazanou prítomnosťou obsluhy na určité miesto (napr. dvojručné ovládacie zariadenie), alebo automaticky odťahujúce ochranné zariadenia vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.3.
+    - 2. v ostatných prípadoch pohyblivé ochranné kryty vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.2.2 písm. b) alebo iné ochranné zariadenia, ako sú ochranné vypínacie zariadenia (napr. svetelné závory a clony, nášľapové mostíky), zariadenia s viazanou prítomnosťou obsluhy na určité miesto (napr. dvojručné ovládacie zariadenie), alebo automaticky odťahujúce ochranné zariadenia vyhovujúce požiadavkám v bodoch 1.4.1 a 1.4.3.
 
   - c) Ak však určité pohyblivé pracovné časti nemôžu byť počas prevádzky pri pracovných operáciách vyžadujúcich siahanie obsluhy do pracovného priestoru celkom alebo čiastočne neprístupné, musia byť takéto časti, ak je to technicky možné, vybavené
 
@@ -330,7 +332,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - 1.5.4 Vady montáže, inštalácie
 
-      - Vady, ktoré by mohli nastať pri montáži, inštalovaní alebo opätovnom zostavovaní určitých častí a ktoré by mohli zapríčiniť vznik ohrozenia, treba vylúčiť konštrukciou takýchto častí, prípadne upozornením uvedeným priamo na týchto častiach a/alebo na ich krytoch. Rovnaké upozornenie musí byť na pohyblivých častiach a/alebo na ich krytoch, ak je znalosť smeru pohybu nevyhnutná na zabránenie ohrozenia. Všetky ďalšie potrebné informácie musí obsahovať návod na používanie. Ak by mohol byť zdrojom ohrozenia vadný prípoj alebo prívod, musí byť nesprávne pripojenie potrubia alebo elektrických vodičov vylúčené už konštrukciou, prípadne upozornením na potrubí (vodičoch) a/alebo na svorkách.
+      - Vady, ktoré by mohli nastať pri montáži, inštalovaní alebo opätovnom zostavovaní určitých častí a ktoré by mohli zapríčiniť vznik ohrozenia, treba vylúčiť konštrukciou takýchto častí, prípadne upozornením uvedeným priamo na týchto častiach a/alebo na ich krytoch. Rovnaké upozornenie musí byť na pohyblivých častiach a/alebo na ich krytoch, ak je znalosť smeru pohybu nevyhnutná na zabránenie ohrozenia. Všetky ďalšie potrebné informácie musia obsahovať návody na používanie. Ak by mohol byť zdrojom ohrozenia vadný prípoj alebo prívod, musí byť nesprávne pripojenie potrubia alebo elektrických vodičov vylúčené už konštrukciou, prípadne upozornením na potrubí (vodičoch) a/alebo na svorkách.
 
     - 1.5.5 Extrémne teploty
 
@@ -394,7 +396,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - 1.6.1 Údržba strojového zariadenia
 
-      - Miesta (časti stroja) určené na nastavovanie a bežnú údržbu vrátane mazania musia byť mimo nebezpečného priestoru. Nastavovanie a údržbárske práce, ako sú opravy a bežná údržba vrátane čistenia, musí byť možné vykonať v stave pokoja strojového zariadenia. Ak sa nemôže niektorá z uvedených podmienok z technických dôvodov splniť, musí byť možnosť vykonať tieto operácie za bezpečných podmienok (pozri najmä bod 1.2.5). V prípade automatizovaného strojového zariadenia a vtedy, keď je to nevyhnutné, aj pri inom strojovom zariadení výrobca urobí opatrenia na pripojenie diagnostického zariadenia na vyhľadávanie vád (porúch). Časti automatizovaného strojového zariadenia, ktoré treba obzvlášť často meniť z dôvodu zmeny výroby, predčasného opotrebovania alebo poškodenia následkom prevádzkovej poruchy, musia sa prispôsobiť na bezproblémovú a bezpečnú montáž a demontáž. Prístup k týmto častiam musí umožniť vykonanie týchto úkonov pomocou príslušných technických pomôcok (nástrojov, meracích prístrojov a pod.) podľa pracovných postupov uvedených výrobcom.
+      - Miesta (časti stroja) určené na nastavovanie a bežnú údržbu vrátane mazania musia byť mimo nebezpečného priestoru. Nastavovanie a údržbárske práce, ako sú opravy a bežná údržba vrátane čistenia, musí byť možné vykonať v stave pokoja strojového zariadenia. Ak sa nemôže niektorá z uvedených podmienok z technických dôvodov splniť, musí byť možnosť vykonať tieto operácie bez rizika (1.2.5). V prípade automatizovaného strojového zariadenia a vtedy, keď je to nevyhnutné, aj pri inom strojovom zariadení výrobca urobí opatrenia na pripojenie diagnostického zariadenia na vyhľadávanie vád (porúch). Časti automatizovaného strojového zariadenia, ktoré treba obzvlášť často meniť z dôvodu zmeny výroby, predčasného opotrebovania alebo poškodenia následkom prevádzkovej poruchy, musia sa prispôsobiť na bezproblémovú a bezpečnú montáž a demontáž. Prístup k týmto častiam musí umožniť vykonanie týchto úkonov pomocou príslušných technických pomôcok (nástrojov, meracích prístrojov a pod.) podľa pracovných postupov uvedených výrobcom.
 
     - 1.6.2 Prístup k miestu obsluhy a k miestu ďalších potrebných prác
 
@@ -402,7 +404,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - 1.6.3 Odpojenie od energetických zdrojov
 
-      - Každé strojové zariadenie sa musí vybaviť prostriedkami na odpojenie od všetkých energetických zdrojov (centrálnym ovládačom). Tieto prostriedky sa musia zreteľne označiť. Musia byť uzamykateľné, ak by opätovné zapnutie mohlo spôsobiť ohrozenie príslušných osôb. V prípade strojového zariadenia s elektrickým pohonom, ktoré je zapojené na elektrickú sieť zástrčkou, stačí vytiahnutie zo zásuvky. Hlavný (centrálny) ovládač musí byť uzamykateľný aj vtedy, ak obsluha nemá možnosť z príslušného pracovného miesta kontrolovať vypnutú polohu ovládača (permanentné vypnutie). Zvyšková energia, prípadne naakumulovaná energia, ktorá by mohla zostať aj po odpojení zdroja, musí sa dať odviesť bez nebezpečenstva ohrozenia príslušných osôb. Odchýlka od tejto požiadavky je prípustná pri určitých obvodoch, ktoré môžu zostať pripojené na svoje energetické zdroje, napríklad na zabezpečenie určitej polohy niektorých strojových častí, na ochranu informácií, osvetlenie vnútorných častí atď. V takom prípade sa musia vykonať osobitné preventívne opatrenia na zaistenie bezpečnosti obsluhy.
+      - Každé strojové zariadenie sa musí vybaviť prostriedkami na odpojenie od všetkých energetických zdrojov (centrálnym ovládačom). Tieto prostriedky sa musia zreteľne označiť. Musia byť uzamykateľné, ak by opätovné zapnutie mohlo spôsobiť ohrozenie príslušných osôb. V prípade strojového zariadenia s elektrickým pohonom, ktoré je zapojené na elektrickú sieť zástrčkou, stačí vytiahnutie zo zásuvky. Hlavný vypínač musí byť blokovateľný aj vtedy, ak obsluha nemá možnosť z príslušného pracovného miesta kontrolovať vypnutú polohu vypínača (trvalé vypnutie). Zvyšková energia, prípadne naakumulovaná energia, ktorá by mohla zostať aj po odpojení zdroja, musí sa dať odviesť bez nebezpečenstva ohrozenia príslušných osôb. Odchýlka od tejto požiadavky je prípustná pri určitých obvodoch, ktoré môžu zostať pripojené na svoje energetické zdroje, napríklad na zabezpečenie určitej polohy niektorých strojových častí, na ochranu informácií, osvetlenie vnútorných častí atď. V takom prípade sa musia vykonať osobitné preventívne opatrenia na zaistenie bezpečnosti obsluhy.
 
     - 1.6.4 Zasahovanie obsluhy
 
@@ -412,9 +414,9 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
       - Strojové zariadenia sa musia navrhnúť a vyrobiť tak, aby sa tie vnútorné časti, ktoré obsahovali nebezpečné látky alebo prípravky, dali vyčistiť bez nutnosti vstupu do nich; akékoľvek nevyhnutné odblokovanie (uvoľnenie) sa musí dať vykonať zvonka. Ak je absolútne nemožné vylúčiť vstup do strojového zariadenia, výrobca vykoná také konštrukčné opatrenia, aby sa umožnilo čistenie za minimálneho nebezpečenstva.
 
-    - 1.7 Oznamovacie a informačné prostriedky
+    - 1.7 Indikátory a informačné prostriedky
 
-    - 1.7.1 Oznamovače
+    - 1.7.1 Indikátory
 
       - Informácie potrebné na ovládanie stroja musia byť jednoznačné a ľahko pochopiteľné. Súčasne treba dbať, aby obsluha nebola preťažená informáciami. Ak by v dôsledku poruchy činnosti strojového zariadenia, ktoré nie je pod dohľadom, mohlo nastať ohrozenie zdravia alebo bezpečnosti príslušných osôb, musí sa takéto strojové zariadenie vybaviť zariadením vydávajúcim primeraný výstražný akustický alebo svetelný signál.
 
@@ -424,7 +426,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - 1.7.3 Výstraha pred zostatkovým nebezpečenstvom
 
-      - Ak napriek všetkým prijatým preventívnym opatreniam naďalej zostáva určité ohrozenie obsluhy alebo ide o potenciálne, nie hneď zrejmé ohrozenie (napr. elektrické rozvodné skrine, zdroje rádioaktivity, odvzdušnenie hydraulických obvodov, neviditeľné časti a pod.), výrobca na to upozorní. Takéto výstražné upozornenia musia prednostne používať ľahko pochopiteľné grafické symboly alebo musia byť napísané v štátnom jazyku, alebo možno použiť oba spôsoby informovania.
+      - Ak napriek všetkým prijatým preventívnym opatreniam naďalej zostáva určité ohrozenie obsluhy alebo ide o potenciálne, nie hneď zrejmé ohrozenie (napr. elektrické rozvodné skrine, zdroje rádioaktivity, odvzdušnenie hydraulických obvodov, neviditeľné časti a pod.), výrobca na to upozorní. Takéto výstražné upozornenia musia prednostne používať ľahko pochopiteľné grafické symboly alebo musia byť napísané v jazyku krajiny, v ktorej sa má strojové zariadenie používať, alebo v jazyku zrozumiteľnom pre obsluhu, alebo možno použiť oba spôsoby informovania.
 
     - 1.7.4 Označovanie
 
@@ -432,7 +434,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - a) názov a adresa výrobcu,
 
-  - b) označenie slovenskou značkou zhody,
+  - b) označenie značkou zhody,
 
   - c) označenie série alebo typu,
 
@@ -472,13 +474,13 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - i) použitie nástrojov a náradia, ktoré sa majú pripojiť k strojovému zariadeniu, ak je to potrebné.
 
-    - b) Návod na používanie v štátnom jazyku sa musí dodať spolu so strojovým zariadením a musí prípadne upozorniť na nevhodný spôsob používania strojového zariadenia.
+    - b) Pri uvedení do prevádzky sa musí dodať návod na používanie v štátnom jazyku spolu so strojovým zariadením a ten musí prípadne upozorniť na nevhodný spôsob používania strojového zariadenia.
 
     - c) Návod na používanie musí obsahovať nákresy a schémy, ako aj všetky významné informácie, najmä informácie týkajúce sa bezpečnosti, nevyhnutné na uvedenie do prevádzky, na údržbu, prehliadky, overenie správneho chodu a prípadnú opravu strojového zariadenia.
 
     - d) Žiadne podklady opisujúce strojové zariadenie nesmú byť v rozpore s návodom na používanie vzhľadom na bezpečnostné aspekty. Technická dokumentácia opisujúca strojové zariadenie musí poskytovať informácie o emisii hluku do okolitého prostredia uvedené pod písmenom f). V prípade ručného a/alebo ručne vedeného strojového zariadenia musí obsahovať aj informácie o vibráciách uvedených v bode 2.2.
 
-    - e) V návode na používanie sa v prípade potreby musia uviesť nariadenia na inštaláciu a montáž, aby sa znížil hluk a vibrácie (napr. tlmiče, druh a hmotnosť podstavca a pod.).
+    - e) V návodoch sa tam, kde je to vhodné, musia uviesť požiadavky na inštaláciu a montáž strojového zariadenia, aby sa znížil hluk a vibrácie (napr. tlmiče, druh a hmotnosť základovej dosky a pod.).
 
     - f) Návod na používanie musí obsahovať tieto informácie týkajúce sa hluku, ktorého zdrojom je strojové zariadenie (skutočnú hodnotu alebo hodnotu zistenú na základe merania na identickom zariadení):
 
@@ -498,11 +500,11 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - Strojové zariadenia určené na prípravu a spracúvanie potravín (napr. na varenie, chladenie, rozmrazovanie, umývanie, manipuláciu, balenie, skladovanie, prepravu, distribúciu) sa musia navrhnúť a vyrobiť tak, aby sa vylúčilo nebezpečenstvo infekcie, ochorenia alebo nákazy. Navyše sa musia dodržať tieto hygienické zásady:
 
-    - a) materiály, ktoré sa dostávajú alebo sa môžu dostať do styku s potravinami, musia vyhovovať príslušným smerniciam. Strojové zariadenie sa musí navrhnúť a vyrobiť tak, aby sa jeho časti z takýchto materiálov dali pred každým použitím vyčistiť,
+    - a) materiály, ktoré sú v kontakte alebo sú určené na to, aby sa dostali do styku s potravinami, musia vyhovovať príslušným smerniciam. Strojové zariadenie sa musí navrhnúť a vyrobiť tak, aby sa jeho časti z takýchto materiálov dali pred každým použitím vyčistiť,
 
     - b) akýkoľvek povrch vrátane spojov musí byť hladký, nesmie mať výstupky ani štrbiny, v ktorých by sa mohli usadzovať organické látky,
 
-    - c) spoje musia byť skonštruované tak, aby sa výstupky, hrany a vnútorné kúty vyskytovali čo najmenej. Mali by byť zhotovené prevažne zváraním alebo lepením,
+    - c) spoje musia byť skonštruované tak, aby sa výstupky, hrany a vnútorné kúty vyskytovali čo najmenej. Mali by byť zhotovené prevažne zváraním alebo lepením. Skrutky, matice a nity sa môžu použiť len v prípade, ak sú technicky nevyhnutné,
 
     - d) všetky plochy prichádzajúce do styku s potravinami sa musia dať ľahko čistiť a dezinfikovať, prípadne sa to musí umožniť po odložení ľahko demontovateľných častí. Vnútorné povrchové plochy musia byť zaoblené s takým polomerom, ktorý umožní dôkladné vyčistenie,
 
@@ -524,7 +526,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - b) ak rukoväte nemožno pustiť bez toho, aby nastalo ohrozenie, musia sa strojové zariadenia vybaviť ovládačmi na uvedenie do chodu a/alebo zastavenie tak, aby si ich umiestnenie nevyžadovalo pri ovládaní uvoľnenie rukoväte; neplatí to, ak táto požiadavka nie je technicky splniteľná alebo ak je ovládanie nezávislé,
 
-    - c) musia sa navrhnúť, vyrobiť a vybaviť tak, aby sa vylúčilo ohrozenie následkom náhodného uvedenia do chodu a/alebo zotrvania v chode po pustení rukoväte; ak táto požiadavka nie je technicky realizovateľná, musia sa vykonať náhradné opatrenia,
+    - c) musia sa navrhnúť, vyrobiť a vybaviť tak, aby sa vylúčilo ohrozenie následkom náhodného uvedenia do chodu a/alebo zotrvania v chode po pustení rukoväte; ak táto požiadavka nie je technicky realizovateľná, musia sa vykonať rovnocenné opatrenia,
 
     - d) prenosné ručné strojové zariadenia sa musia navrhnúť a vyrobiť tak, aby v prípade potreby umožňovali vizuálnu kontrolu vnikania nástroja do obrábaného materiálu.
 
@@ -546,7 +548,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
       - 3 Hygienické a bezpečnostné požiadavky na vylúčenie špecifického nebezpečenstva vyvolaného pohyblivosťou strojových zariadení
 
-      - Strojové zariadenia, pri ktorých hrozí nebezpečenstvo v dôsledku ich pohyblivosti, musia sa navrhnúť a vyrobiť tak, aby vyhoveli ustanoveným požiadavkám. Nebezpečenstvo podmienené pohyblivosťou existuje pri všetkých samohybných, ťahaných, tlačených strojových zariadeniach alebo zariadeniach prevážaných na inom stroji alebo traktorom, ktoré sa nasadia na pracovisko a pri práci sa musia pohybovať, prípadne vyžadujú nepretržitý alebo poloplynulý presun medzi po sebe nasledujúcimi alebo vopred stanovenými pracoviskami. Nebezpečenstvo podmienené pohyblivosťou sa môže vyskytovať aj pri strojových zariadeniach, ktoré sa počas práce nepohybujú, ale sú vybavené zariadením, ktorého pomocou sa môžu v prípade potreby ľahšie presunúť na iné miesto [stroje vybavené kolesami, valcami, lyžinami a pod. alebo umiestnené na podvozku, vozíku (drezine) a pod.]. Aby sa overilo, či pôdne frézy a rotačné brány neznamenajú pre ohrozené osoby mimoriadne nebezpečenstvo, musí výrobca vykonať alebo dať vykonať príslušné skúšky strojového zariadenia každého typu.
+      - Strojové zariadenia, pri ktorých hrozí nebezpečenstvo v dôsledku ich pohyblivosti, musia sa navrhnúť a vyrobiť tak, aby vyhoveli ustanoveným požiadavkám. Nebezpečenstvo podmienené pohyblivosťou existuje pri všetkých samohybných, ťahaných, tlačených strojových zariadeniach alebo zariadeniach prevážaných na inom stroji alebo traktorom, ktoré sa nasadia na pracovisko a pri práci sa musia pohybovať, prípadne vyžadujú nepretržitý alebo poloplynulý presun medzi po sebe nasledujúcimi alebo vopred stanovenými pracoviskami. Nebezpečenstvo podmienené pohyblivosťou sa môže vyskytovať aj pri strojových zariadeniach, ktoré sa počas práce nepohybujú, ale sú vybavené zariadením, ktorého pomocou sa môžu v prípade potreby ľahšie presunúť na iné miesto [stroje vybavené kolesami, valcami, lyžinami a pod. alebo umiestnené na podvozku, vozíku (drezine) a pod.]. Aby sa overilo, či pôdne frézy a rotačné brány neznamenajú pre ohrozené osoby mimoriadne nebezpečenstvo, musí výrobca alebo jeho splnomocnenec vykonať alebo dať vykonať príslušné skúšky strojového zariadenia každého typu.
 
   - 3.1 Všeobecné požiadavky
 
@@ -560,7 +562,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 3.1.3 Návrh strojového zariadenia s prihliadnutím na ľahšiu manipuláciu
 
-    - Počas manipulácie so strojovým zariadením a/alebo s jeho časťami sa nesmú robiť neočakávané pohyby alebo nesmie prísť k ohrozeniu následkom nedostatočnej stability, ak sa táto manipulácia vykonáva v súlade s pokynmi výrobcu.
+    - Počas manipulácie so strojovým zariadením a/alebo s jeho časťami sa nesmú robiť neočakávané pohyby alebo nesmie prísť k ohrozeniu následkom nedostatočnej stability, ak sa táto manipulácia vykonáva v súlade s návodmi výrobcu.
 
   - 3.2 Pracovné miesta
 
@@ -616,7 +618,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 3.4.3 Prevrátenie
 
-    - Ak existuje pri samohybných strojových zariadeniach s vezúcim sa vodičom, prípadne aj s ďalšími prepravovanými členmi obsluhy nebezpečenstvo prevrátenia, musí sa strojové zariadenie navrhnúť a vybaviť kotviacimi bodmi na pripevnenie ochrannej konštrukcie chrániacej pri prevrátení (ROP). Táto konštrukcia musí byť taká, aby v prípade prevrátenia zaručila vodičovi a prípadným prepravovaným členom obsluhy primeraný priestor chránený pred deformáciou (DLV). Na overenie, či konštrukcia spĺňa požiadavky, musí výrobca vykonať príslušné skúšky každého typu konštrukcie. Ochrannú konštrukciu chrániacu pri prevrátení musia mať stroje na zemné práce s výkonom presahujúcim 15 kW:
+    - Ak existuje pri samohybných strojových zariadeniach s vezúcim sa vodičom, prípadne aj s ďalšími prepravovanými členmi obsluhy nebezpečenstvo prevrátenia, musí sa strojové zariadenie navrhnúť a vybaviť kotviacimi bodmi na pripevnenie ochrannej konštrukcie chrániacej pri prevrátení (ROP). Táto konštrukcia musí byť taká, aby v prípade prevrátenia zaručila vodičovi a prípadným prepravovaným členom obsluhy primeraný priestor chránený pred deformáciou (DLV). Na overenie, či konštrukcia spĺňa požiadavky, musí výrobca alebo jeho splnomocnenec vykonať príslušné skúšky každého typu konštrukcie. Ochrannú konštrukciu chrániacu pri prevrátení musia mať stroje na zemné práce s výkonom presahujúcim 15 kW:
 
     - a) pásové alebo kolesové nakladače,
 
@@ -632,7 +634,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 3.4.4 Padajúce predmety
 
-  - Ak existuje pri strojových zariadeniach s vodičom, prípadne s ďalšími prepravovanými členmi obsluhy ohrozenie od padajúcich predmetov alebo materiálov, musí sa strojové zariadenie, ak to jeho rozmery umožňujú, navrhnúť a vybaviť kotviacimi bodmi na pripevnenie ochrannej konštrukcie pred padajúcimi predmetmi (FOPS). Táto konštrukcia musí byť taká, aby v prípade pádu predmetov alebo materiálu zaručila prepravovanému personálu príslušný priestor chránený pred deformáciou (DLV). Na overenie, či konštrukcia spĺňa požiadavky, výrobca vykoná príslušné skúšky každého typu konštrukcie.
+  - Ak existuje pri strojových zariadeniach s vodičom, prípadne s ďalšími prepravovanými členmi obsluhy ohrozenie od padajúcich predmetov alebo materiálov, musí sa strojové zariadenie, ak to jeho rozmery umožňujú, navrhnúť a vybaviť kotviacimi bodmi na pripevnenie ochrannej konštrukcie pred padajúcimi predmetmi (FOPS). Táto konštrukcia musí byť taká, aby v prípade pádu predmetov alebo materiálu zaručila prepravovanému personálu príslušný priestor chránený pred deformáciou (DLV). Na overenie, či konštrukcia spĺňa požiadavky, výrobca alebo jeho splnomocnenec vykoná príslušné skúšky každého typu konštrukcie.
 
   - 3.4.5 Umožnenie prístupu (prístupnosť)
 
@@ -708,7 +710,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
       - 4 Hygienické a bezpečnostné požiadavky na vylúčenie špecifického nebezpečenstva vyvolaného zdvíhaním
 
-      - Strojové zariadenia, pri ktorých hrozí nebezpečenstvo v dôsledku zdvíhania – predovšetkým nebezpečenstvo pádu a kolízie alebo prevrátenia bremena pri zdvíhaní, sa musia navrhnúť a vyrobiť tak, aby vyhoveli požiadavkám. Takéto nebezpečenstvo sa vyskytuje najmä pri strojových zariadeniach, ktoré prepravujú jednotlivé bremená do výšky. Bremenom môžu byť predmety, materiály alebo sypký tovar.
+      - Strojové zariadenia, pri ktorých hrozí nebezpečenstvo v dôsledku zdvíhania – predovšetkým nebezpečenstvo pádu a kolízie alebo prevrátenia bremena pri zdvíhaní, sa musia navrhnúť a vyrobiť tak, aby vyhoveli ďalej uvedeným požiadavkám. Takéto nebezpečenstvo sa vyskytuje najmä pri strojových zariadeniach, ktoré prepravujú jednotlivé bremená do výšky. Bremenom môžu byť predmety, materiály alebo sypký tovar.
 
   - 4.1 Všeobecné požiadavky
 
@@ -732,7 +734,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 4.1.2.1 Ohrozenie nedostatočnou stabilitou
 
-    - Strojové zariadenia sa musia navrhovať a vyrábať tak, aby sa stabilita požadovaná v bode 1.3.1 zachovala v prevádzke aj mimo prevádzky vrátane celého transportu, montáže a demontáže, pri predvídateľných poruchách, ako aj počas skúšok vykonávaných podľa návodu na prevádzku. Na tento účel výrobca používa príslušné metódy overovania; najmä pri motorových vozíkoch so zdvihom presahujúcim 1,80 m výrobca vykoná skúšku stability na vyklápacej plošine alebo podobnú skúšku každého typu príslušného motorového vozíka.
+    - Strojové zariadenia sa musia navrhovať a vyrábať tak, aby sa stabilita požadovaná v bode 1.3.1 zachovala v prevádzke aj mimo prevádzky vrátane celého transportu, montáže a demontáže, pri predvídateľných poruchách, ako aj počas skúšok vykonávaných podľa návodu na prevádzku. Na tento účel výrobca alebo jeho splnomocnenec používa príslušné metódy overovania; najmä pri motorových vozíkoch so zdvihom presahujúcim 1,80 m výrobca alebo jeho splnomocnenec vykoná skúšku stability na vyklápacej plošine alebo podobnú skúšku každého typu príslušného motorového vozíka.
 
   - 4.1.2.2 Vodiace a koľajové dráhy
 
@@ -750,7 +752,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 4.1.2.4 Kladky, bubny, reťaze a laná
 
-    - Priemer kladiek, bubnov a kolies musí zodpovedať rozmerom lán alebo reťazí, ktoré sa na nich použijú. Bubny a kladky sa musia navrhnúť, vyrobiť a umiestniť tak, aby sa laná a reťaze, pre ktoré sú určené, navíjali na ne bez spadnutia (bez odchýlky od predvídanej dráhy). Laná, ktoré sa majú používať priamo na zdvíhanie alebo na prenášanie bremien, sa smú spájať (zväzovať) len na koncoch. (Zväzovanie sa toleruje pri inštaláciách, pri ktorých ich konštrukcia predpokladá zmenu výstroja podľa potrieb prevádzky.) Prevádzkový koeficient lán a koncov lán sa volí tak, aby sa zaručila primeraná bezpečnostná úroveň. Tento koeficient má spravidla hodnotu 5. Prevádzkový koeficient zdvíhacích reťazí sa volí tak, aby sa zaručila primeraná bezpečnostná úroveň. Tento koeficient má spravidla hodnotu 4. Na overenie, že sa dosiahol príslušný prevádzkový koeficient, výrobca vykoná príslušné skúšky každého typu reťaze a lana používaných na priame zdvíhanie a zakončenia lán.
+    - Priemer kladiek, bubnov a kolies musí zodpovedať rozmerom lán alebo reťazí, ktoré sa na nich použijú. Bubny a kladky sa musia navrhnúť, vyrobiť a umiestniť tak, aby sa laná a reťaze, pre ktoré sú určené, navíjali na ne bez spadnutia (bez odchýlky od predvídanej dráhy). Laná, ktoré sa majú používať priamo na zdvíhanie alebo na prenášanie bremien, sa smú spájať (zväzovať) len na koncoch. (Zväzovanie sa toleruje pri inštaláciách, pri ktorých ich konštrukcia predpokladá zmenu výstroja podľa potrieb prevádzky.) Prevádzkový koeficient lán a koncov lán sa volí tak, aby sa zaručila primeraná bezpečnostná úroveň. Tento koeficient má spravidla hodnotu 5. Prevádzkový koeficient zdvíhacích reťazí sa volí tak, aby sa zaručila primeraná bezpečnostná úroveň. Tento koeficient má spravidla hodnotu 4. Na overenie, že sa dosiahol príslušný prevádzkový koeficient, výrobca alebo jeho splnomocnenec vykoná príslušné skúšky každého typu reťaze a lana používaných na priame zdvíhanie a zakončenia lán.
 
   - 4.1.2.5 Jednotlivé zdvíhacie prostriedky
 
@@ -766,7 +768,7 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - e) Maximálna pracovná nosnosť viacpramenného viazacieho prostriedku sa stanoví na základe bezpečnostného koeficientu najslabšieho prameňa, počtu prameňov a redukčného faktora závislého od typu lana.
 
-    - f) Po overení dosiahnutia zodpovedajúceho prevádzkového koeficientu výrobca vykoná príslušné skúšky každého typu súčastí uvedených v písmenách a), b), c) a d).
+    - f) Po overení dosiahnutia zodpovedajúceho prevádzkového koeficientu výrobca alebo jeho splnomocnenec vykoná alebo si nechá vykonať príslušné skúšky každého typu súčastí uvedených v písmenách a), b), c) a d).
 
   - 4.1.2.6 Ovládanie (riadenie) pohybu
 
@@ -828,13 +830,13 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
   - 4.2.4 Spôsobilosť na výkon funkcie
 
-    - Ak sa strojové zariadenie uvádza na trh alebo sa prvýkrát uvádza do prevádzky, výrobca vykoná alebo nechá vykonať také opatrenia, aby zaistil, že zdvíhacie príslušenstvo a strojové zariadenie pripravené na používanie – poháňané ručne alebo motorom – budú bezpečne vykonávať svoju funkciu. Pri týchto opatreniach sa berú do úvahy aj statické a dynamické aspekty (vlastnosti) strojového zariadenia. Ak strojové zariadenie nemôže byť zmontované u výrobcu alebo na pracovisku dovozcu, je nutné vykonať príslušné opatrenia na mieste použitia. V opačnom prípade sa tieto opatrenia môžu vykonať v mieste výroby alebo na mieste použitia.
+    - Ak sa strojové zariadenie uvádza na trh alebo sa prvýkrát uvádza do prevádzky, výrobca alebo jeho splnomocnenec vykoná alebo nechá vykonať také opatrenia, aby zaistil, že zdvíhacie príslušenstvo a strojové zariadenie pripravené na používanie – poháňané ručne alebo motorom – budú bezpečne vykonávať svoju funkciu. Pri týchto opatreniach sa berú do úvahy aj statické a dynamické aspekty (vlastnosti) strojového zariadenia. Ak strojové zariadenie nemôže byť zmontované u výrobcu alebo na pracovisku dovozcu, je nutné vykonať príslušné opatrenia na mieste použitia. V opačnom prípade sa tieto opatrenia môžu vykonať v mieste výroby alebo na mieste použitia.
 
   - 4.3 Označovanie
 
   - 4.3.1 Reťaze a laná
 
-    - Akákoľvek časť reťaze, lana alebo popruhu na dvíhanie bremena, ktoré nie je súčasťou konštrukčnej zostavy, musí mať značku. Ak to nie je možné, musí mať štítok alebo neodstrániteľný krúžok s názvom a adresou výrobcu, ako aj odkaz na príslušné osvedčenie. Osvedčenie musí obsahovať informácie požadované harmonizovanými normami alebo ak neexistujú, tak prinajmenšom tieto informácie:
+    - Akákoľvek časť reťaze, lana alebo popruhu na dvíhanie bremena, ktoré nie je súčasťou konštrukčnej zostavy, musí mať značku. Ak to nie je možné, musí mať štítok alebo neodstrániteľný krúžok s názvom a adresou výrobcu alebo jeho splnomocnenca, ako aj odkaz na príslušné osvedčenie. Osvedčenie musí obsahovať informácie požadované harmonizovanými normami alebo ak neexistujú, tak prinajmenšom tieto informácie:
 
     - a) meno a priezvisko fyzickej osoby alebo obchodné meno právnickej osoby, ktorá je výrobcom, prípadne dovozcom, a jej sídlo,
 
@@ -862,9 +864,9 @@ Príloha č. 1 k nariadeniu vlády č. 391/1999 Z. z.
 
     - b) identifikáciu materiálu (napríklad medzinárodná klasifikácia), ak je to nevyhnutné na kompatibilitu dimenzovania,
 
-    - c) menovitú nosnosť,
+    - c) najväčšiu pracovnú nosnosť,
 
-    - d) označenie slovenskou značkou zhody.
+    - d) označenie značkou zhody.
 
       - Na príslušenstvo obsahujúce súčasti, ako sú laná alebo reťaze, ktorých priame označenie je fyzicky nemožné, sa musia tieto údaje uviesť na spoľahlivo pripevnenom štítku alebo na inom mieste. Tieto údaje musia byť čitateľné. Musia byť na takom mieste, kde nezmiznú v dôsledku používania alebo opotrebovania, prípadne kde neznížia pevnosť daného prostriedku.
 
