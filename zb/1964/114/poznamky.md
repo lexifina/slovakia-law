@@ -1,0 +1,1 @@
+- *) zriadených podľa § 38 ods. 3 zákona č. 11/1955 Zb. o vodnom hospodárstve v znení zákona č. 12/1959 Zb., vyhlášky č. 108/1959 Ú.l. (Ú.v.) a vzorových stanov uverejnených vo Vestníku Ministerstva poľnohospodárstva, lesného a vodného hospodárstva v čiastke 43 a 44 z roku 1961.
