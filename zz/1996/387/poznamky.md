@@ -46,23 +46,59 @@
 
 - 12a) Zákon č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 173/1998 Z. z.
 
+- 12b) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+
+- 12c) § 2 ods. 1 písm. c) zákona č. 565/2001 Z. z. o investičných stimuloch a o zmene a doplnení niektorých zákonov.
+
+- 12d) § 2 ods. 1 písm. b) zákona č. 565/2001 Z. z.
+
+- 12e) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 434/2001 Z. z.
+
 - 13) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
-- 13a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+- 13a) § 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
 
-- 13b) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+- 13aa) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 13c) Zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
+- 13b) § 8 zákona č. 253/1998 Z. z.
 
-- 13d) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
+- 13ba) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
-- 13e) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 13c) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
-- 13f) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 13d) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
-- 13g) § 6 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+- 13e) Zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
 
-- 13h) § 12 ods. 4 a 8 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.§ 15 ods. 4 a 5 a § 16 ods. 12 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+- 13f) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
+
+- 13g) § 68 písm. a) tretí, štvrtý a piaty bod zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- 13h) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+
+- 13i) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení zákona č. 394/2000 Z. z.
+
+- 13j) § 6 ods. 1 písm. k) zákona č. 308/1991 Zb.
+
+- 13k) Napríklad zákon Slovenskej národnej rady č. 9/1992 Zb. o obchodných a priemyselných komorách v znení neskorších predpisov, zákon Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore, zákon Slovenskej národnej rady č. 14/1992 Zb. o Slovenskej komore stredných zdravotníckych pracovníkov a o Slovenskej komore zubných technikov.
+
+- 13l) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
+- Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+
+- 13m) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 13n) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 13o) Opatrenie Štatistického úradu Slovenskej republiky č. 236/1993 Z. z., ktorým sa ustanovujú klasifikácie, číselník a register v oblasti štátnej štatistiky v znení opatrenia Štatistického úradu Slovenskej republiky č. 16/2001 Z. z.
+
+- 13p) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 434/2001 Z. z.
+
+- 13q) § 30 ods. 2 Zákonníka práce.
+
+- 13r) § 12 ods. 4 a 8 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- § 15 ods. 4 a 5 a § 16 ods. 14 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení zákona Národnej rady Slovenskej republiky č. 81/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 120/1996 Z. z. a zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z.
 
