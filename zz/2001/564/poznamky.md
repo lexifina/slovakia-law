@@ -36,12 +36,18 @@
 
 - 18) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 19) Zákon č. 313/2001 Z. z. o verejnej službe.
+- 19) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
 - Zákon č. 311/2001 Z. z. Zákonník práce.
 
-- 20) Zákon č. 312/2001 Z. z.Zákon č. 313/2001 Z. z.
+- 20) Zákon č. 312/2001 Z. z.Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
 
-- 21) Zákon č. 312/2001 Z. z.Zákon č. 313/2001 Z. z.Zákon č. 311/2001 Z. z.
+- 21) Zákon č. 312/2001 Z. z.
 
-- 22) § 105 zákona č. 312/2001 Z. z.
+- Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 311/2001 Z. z.
+
+- 22) § 105 zákona č. 312/2001 Z. z. v znení zákona č. 551/2003 Z. z.
+
+- § 28 zákona č. 553/2003 Z. z.

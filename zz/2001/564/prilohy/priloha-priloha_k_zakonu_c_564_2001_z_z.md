@@ -2,9 +2,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
 - PLATOVÝ PORIADOK KANCELÁRIE VEREJNÉHO OCHRANCU PRÁV
 
-  - KATALÓG ČINNOSTÍ
-
-  - štátnych zamestnancov v Kancelárii verejného ochrancu práv
+  - Charakteristiky platových tried štátneho zamestnanca v Kancelárii verejného ochrancu práv
 
   - 5. PLATOVÁ TRIEDA
 
@@ -24,7 +22,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: samostatný radca
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 6.01 Samostatná odborná činnosť súvisiaca s tvorbou rozhodnutí VOP vo vecne vymedzených oblastiach.
 
@@ -40,7 +38,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: odborný radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 7.01 Samostatná odborná činnosť súvisiaca s tvorbou rozhodnutí VOP.
 
@@ -66,7 +64,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: hlavný radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 8.01 Koordinačná a metodická odborná činnosť súvisiaca s tvorbou rozhodnutí VOP.
 
@@ -134,7 +132,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: štátny radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 9.01 Koordinačná a metodická odborná činnosť súvisiaca s tvorbou rozhodnutí VOP s medzinárodným dosahom.
 
@@ -152,7 +150,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
   - KATALÓG ČINNOSTÍ
 
-  - zamestnancov Kancelárie verejného ochrancu s prevahou duševnej práce vo verejnej službe
+  - zamestnancov Kancelárie verejného ochrancu s prevahou duševnej práce pri výkone práce vo verejnom záujme
 
     - 3. PLATOVÁ TRIEDA
 
@@ -480,7 +478,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
   - KATALÓG ČINNOSTÍ
 
-  - zamestnancov Kancelárie verejného ochrancu remeselných, manuálnych alebo manipulačných s prevahou fyzickej práce vo verejnej službe
+  - zamestnancov Kancelárie verejného ochrancu remeselných, manuálnych alebo manipulačných s prevahou fyzickej práce pri výkone práce vo verejnom záujme
 
     - 1. PLATOVÁ TRIEDA
 
@@ -664,35 +662,27 @@ Príloha k zákonu č. 564/2001 Z. z.
 
       - 6.05 Kontrola činnosti centrálneho regulačného systému, opravy, nastavovanie hodnôt zložitých regulačných obvodov, diaľkové meranie, registrácia ovládacích centier a meracích ústrední vrátane uvedenia do prevádzky, komplexného odskúšania a konečného nastavenia.
 
-    - STUPNICA PLATOVÝCH TARÍF ŠTÁTNYCH ZAMESTNANCOV KANCELÁRIE VEREJNÉHO OCHRANCU PRÁV
+    - PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV V KANCELÁRII VEREJNÉHO OCHRANCU PRÁV (Sk mesačne)
 
-    - Platový stupeň | Počet rokov praxe | Platová trieda | | | | | | | |
+    - Platová trieda Platová tarifa
 
-    - | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+    - 1. 9 700
 
-    - 1 | do 2 | 8 200 | 8 800 | 9 500 | 10 300 | 12 400 | 13 200 | 14 800 | 15 900 | 17 200
+    - 2. 10 300
 
-    - 2 | do 4 | 8 700 | 9 300 | 10 100 | 10 900 | 13 100 | 14 000 | 15 700 | 16 900 | 18 200
+    - 3. 11 300
 
-    - 3 | do 6 | 9 200 | 9 800 | 10 700 | 11 500 | 13 800 | 14 800 | 16 600 | 17 900 | 19 200
+    - 4. 12 100
 
-    - 4 | do 9 | 9 700 | 10 300 | 11 300 | 12 100 | 14 500 | 15 600 | 17 500 | 18 900 | 20 200
+    - 5. 14 500
 
-    - 5 | do 12 | 10 200 | 10 800 | 11 900 | 12 700 | 15 200 | 16 400 | 18 400 | 19 900 | 21 200
+    - 6. 15 600
 
-    - 6 | do 15 | 10 700 | 11 300 | 12 500 | 13 300 | 15 900 | 17 200 | 19 300 | 20 900 | 22 200
+    - 7. 17 500
 
-    - 7 | do 18 | 11 200 | 11 800 | 13 100 | 13 900 | 16 600 | 18 000 | 20 200 | 21 900 | 23 200
+    - 8. 20 900
 
-    - 8 | do 21 | 11 700 | 12 300 | 13 700 | 14 500 | 17 300 | 18 800 | 21 100 | 22 900 | 24 200
-
-    - 9 | do 24 | 12 200 | 12 800 | 14 300 | 15 100 | 18 000 | 19 600 | 22 000 | 23 900 | 25 200
-
-    - 10 | do 28 | 12 700 | 13 300 | 14 900 | 15 700 | 18 700 | 20 400 | 22 900 | 24 900 | 26 200
-
-    - 11 | do 32 | 13 200 | 13 800 | 15 500 | 16 300 | 19 400 | 21 200 | 23 800 | 25 900 | 27 200
-
-    - 12 | nad 32 | 13 700 | 14 300 | 16 100 | 16 900 | 20 100 | 22 000 | 24 700 | 26 900 | 28 200
+    - 9. 24 200.
 
     - STUPNICA PLATOVÝCH TARÍF ZAMESTNANCOV KANCELÁRIE VEREJNÉHO OCHRANCU PRÁV PRI VYKONÁVANÍ VEREJNEJ SLUŽBY
 
