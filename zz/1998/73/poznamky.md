@@ -1,4 +1,6 @@
-- 1) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 1) Napríklad Zákonník práce č. 65/1965 Zb. v znení neskorších predpisov.
+
+- 1a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 2) Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
 
@@ -18,15 +20,25 @@
 
 - 10) § 15 a 16 zákona č. 33/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
 
+- 10a) Napríklad § 2 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
 - 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 12) § 20 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- 12a) § 2 zákona Slovenskej národnej rady č. 347/1990 Zb. v znení neskorších predpisov.
 
 - 13) Napríklad zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona Národnej rady Slovenskej republiky č. 72/1995 Z. z. a zákon Slovenskej národnej rady č. 347/1990 Zb. v znení neskorších predpisov.
 
 - 14) § 10 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 15) § 14 a 15 zákona Slovenskej národnej rady č. 372/1990 Zb.
+
+- 15a) § 12 ods. 1 zákona č. 141/1961 Zb. o trestnom konaní súdnom (trestný poriadok) v znení neskorších predpisov.
+
+- 15b) Napríklad § 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 15c) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe, zákon č. 152/1998 Z. z. o sťažnostiach, zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov a zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky.
 
 - 16) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
