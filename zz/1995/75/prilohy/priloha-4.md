@@ -2,45 +2,103 @@ Príloha č. 4 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
 - ODPORÚČANÉ ZLOŽENIE EVAKUAČNEJ KOMISIE
 
-  - A. Evakuačná komisia okresu
+  - A. Evakuačná komisia kraja
+
+    - a) predseda komisie – zástupca prednostu krajského úradu,
+
+    - b) podpredseda komisie – vedúci odboru civilnej ochrany obyvateľstva krajského úradu,
+
+    - c) tajomník komisie – zamestnanec odboru civilnej ochrany obyvateľstva krajského úradu,
+
+    - d) členovia komisie – možno ich vymenovať z odborných zamestnancov krajských orgánov, organizácií, z odborov a oddelení krajského úradu, právnických osôb a fyzických osôb
+
+      - 1. odboru civilnej ochrany obyvateľstva,
+
+      - 2. Policajného zboru,
+
+      - 3. Železničnej polície,
+
+      - 4. zboru požiarnej ochrany,
+
+      - 5. cestnej, železničnej, leteckej a vodnej dopravy,
+
+      - 6. Armády Slovenskej republiky,
+
+      - 7. zdravotníctva,
+
+      - 8. pôdohospodárstva a veterinárneho úseku,
+
+      - 9. sociálnych vecí,
+
+      - 10. obchodu,
+
+      - 11. školstva,
+
+      - 12. a ďalších podľa potreby.
+
+  - B. Evakuačná komisia okresu
 
     - a) predseda komisie
 
-  - - prednosta okresného úradu;
+  - – zástupca prednostu okresného úradu,
 
-    - b) podpredsedovia komisie
+    - b) podpredseda komisie
 
-  - - zástupca prednostu okresného úradu,
+  - – vedúci odboru civilnej ochrany obyvateľstva okresného úradu,
 
-  - - vedúci referátu civilnej ochrany;
+    - c) tajomník komisie
 
-    - c) členovia komisie
+  - – zamestnanec odboru civilnej ochrany obyvateľstva okresného úradu,
 
-  - - možno ich vymenovať z odborných zamestnancov okresných orgánov, organizácií, z odborných referátov a oddelení okresného úradu, právnických osôb a fyzických osôb
+    - d) členovia komisie
 
-  - 1. referátu civilnej ochrany,
+  - – možno ich vymenovať zo zamestnancov okresných orgánov, organizácií, z odborov okresného úradu, právnických osôb a fyzických osôb.
 
-  - 2. policajného zboru,
+  - 1.
 
-  - 3. železničnej polície,
+  - odboru civilnej ochrany obyvateľstva,
 
-  - 4. zboru požiarnej ochrany,
+  - 2.
 
-  - 5. cestnej, železničnej, leteckej, vodnej dopravy,
+  - policajného zboru,
 
-  - 6. vojenskej správy,
+  - 3.
 
-  - 7. zdravotníctva a veterinárneho úseku,
+  - železničnej polície,
 
-  - 8. sociálnych vecí,
+  - 4.
 
-  - 9. obchodu,
+  - zboru požiarnej ochrany,
 
-  - 10. školstva
+  - 5.
 
-  - 11. a ďalších podľa potreby.
+  - cestnej, železničnej, leteckej, vodnej dopravy,
 
-  - B. Evakuačná komisia obce
+  - 6.
+
+  - vojenskej správy,
+
+  - 7.
+
+  - zdravotníctva a veterinárneho úseku,
+
+  - 8.
+
+  - sociálnych vecí,
+
+  - 9.
+
+  - obchodu,
+
+  - 10.
+
+  - školstva
+
+  - 11.
+
+  - a ďalších podľa potreby.
+
+  - C. Evakuačná komisia obce
 
     - a) predseda komisie
 

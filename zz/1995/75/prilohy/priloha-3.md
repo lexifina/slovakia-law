@@ -14,12 +14,14 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - 2. Matky v domácnosti s deťmi predškolského veku, s deťmi vyzdvihnutými alebo poslanými domov z predškolských a školských zariadení sa evakuujú prostredníctvom evakuačného strediska, ktoré zriaďuje príslušná obec.
 
-  - 3. Deti zo zdravotníckych zariadení, ktorým sa rozumie napríklad dojčenský ústav, pôrodnícke a detské oddelenie nemocnice, a deti zo zariadení sociálnej starostlivosti podľa osobitného predpisu<sup>9</sup>) sa zásadne evakuujú s týmto zariadením. Zariadenie plní funkciu evakuačného strediska. Tieto deti sa ubytovávajú v zariadeniach obdobného druhu v miestach ubytovania evakuovaných.
+  - 3. Zdravotne postihnutí občania v domácnosti s rodinnými príslušníkmi alebo s osobami, ktoré poskytujú opatrovateľskú službu.
 
-  - 4. Ostatní chorí zo zdravotníckych zariadení a zariadení sociálnej starostlivosti sa evakuujú s týmito zariadeniami do vopred určeného obdobného, podmienkami zodpovedajúceho zariadenia. Zariadenie plní funkciu evakuačného strediska.
+  - 4. Deti zo zdravotníckych zariadení, ktorým sa rozumie napríklad dojčenský ústav, pôrodnícke a detské oddelenie nemocnice, a deti zo zariadení sociálnej starostlivosti podľa osobitného predpisu<sup>9</sup>) sa zásadne evakuujú s týmto zariadením. Zariadenie plní funkciu evakuačného strediska. Tieto deti sa ubytovávajú v zariadeniach obdobného druhu v miestach ubytovania evakuovaných.
 
-  - 5. Personál podieľajúci sa na evakuácii uvedených zariadení si môže vziať so sebou svoje deti vo veku do 15 rokov.
+  - 5. Ostatní chorí zo zdravotníckych zariadení a zariadení sociálnej starostlivosti sa evakuujú s týmito zariadeniami do vopred určeného obdobného, podmienkami zodpovedajúceho zariadenia. Zariadenie plní funkciu evakuačného strediska.
 
-  - 6. Evakuáciu pracovníkov orgánov štátnej správy, samosprávy, právnických osôb a fyzických osôb s ich rodinnými príslušníkmi riadia tieto orgány.
+  - 6. Personál podieľajúci sa na evakuácii uvedených zariadení si môže vziať so sebou svoje deti vo veku do 15 rokov.
 
-  - 7. Evakuáciu ostatného obyvateľstva riadi obec po evakuačných obvodoch, v ktorých sa zriaďujú evakuačné strediská.
+  - 7. Evakuáciu zamestnancov orgánov štátnej správy, samosprávy, právnických osôb a fyzických osôb s ich rodinnými príslušníkmi riadia tieto orgány.
+
+  - 8. Evakuáciu ostatného obyvateľstva riadi obec po evakuačných obvodoch, v ktorých sa zriaďujú evakuačné strediská.

@@ -4,7 +4,7 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - 1. Evakuačné zberné miesto
 
-    - a) Zoznam pracovníkov evakuačného zberného miesta a spôsob ich zvolania.
+    - a) Zoznam zamestnancov evakuačného zberného miesta a spôsob ich zvolania.
 
     - b) Schéma rozmiestnenia evakuačného zberného miesta s vyznačením evakuačných trás.
 
@@ -14,7 +14,7 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - 2. Evakuačné stredisko
 
-    - a) Zoznam pracovníkov evakuačného strediska a spôsob ich zvolania.
+    - a) Zoznam zamestnancov evakuačného strediska a spôsob ich zvolania.
 
     - b) Grafický plán evakuačného strediska so zakreslením stanovišťa vedúceho evakuačného strediska, zhromaždísk evakuovaných, miesta výdaja stravy, miesta zdravotníckej pomoci, hygienických zariadení, stanovíšť dopravných prostriedkov, zdrojov pitnej vody (spracúva sa na pláne vhodnej mierky).
 
@@ -30,7 +30,7 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - 3. Stanica nástupu (výstupu) evakuovaných
 
-    - a) Zoznam pracovníkov stanice nástupu (výstupu) evakuovaných a spôsob ich zvolania.
+    - a) Zoznam zamestnancov stanice nástupu (výstupu) evakuovaných a spôsob ich zvolania.
 
     - b) Harmonogramy jednotlivých druhov prepráv (cestná, železničná, letecká, vodná).
 
@@ -38,7 +38,7 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - 4. Regulačné stanovište
 
-    - a) Zoznam pracovníkov regulačného stanovišťa a spôsob ich zvolania.
+    - a) Zoznam zamestnancov regulačného stanovišťa a spôsob ich zvolania.
 
     - b) Grafický plán presunu evakuovaných cez regulačné stanovište do miest ubytovania evakuovaných so zakreslením regulačného stanovišťa, evakuačných trás, miest ubytovania evakuovaných, regulačných a poriadkových hliadok (spracúva sa na mape vhodnej mierky).
 
@@ -48,9 +48,19 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - e) Pomocná dokumentácia (prehľad počtov evakuovaných, záznam správ, výkazová dokumentácia a pod.).
 
-  - 5. Miesto ubytovania evakuovaných
+  - 5. Kontrolné stanovište
 
-    - a) Zoznam pracovníkov miesta ubytovania evakuovaných a spôsob ich zvolania.
+    - a) Zoznam členov kontrolného stanovišťa a spôsob ich zvolania.
+
+    - b) Grafický plán kontrolného stanovišťa s uvedením jednotlivých trás presunu na vykonanie hygienickej očisty, dezaktivácie, špeciálnej očisty a zabezpečenia nevyhnutnej regulácie pohybu.
+
+    - c) Plán spojenia.
+
+    - d) Pomocná dokumentácia (prehľad o počte kontaminovaných osôb, o kontaminovanom materiáli a technike, prehľad o počte evakuovaných odoslaných na vykonanie hygienickej očisty, dezaktivácie a špeciálnej očisty, záznam správ a hlásení).
+
+  - 6. Miesto ubytovania evakuovaných
+
+    - a) Zoznam zamestnancov miesta ubytovania evakuovaných a spôsob ich zvolania.
 
     - b) Prehľad o počtoch a čase prísunu evakuovaných do obce.
 

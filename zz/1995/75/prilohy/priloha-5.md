@@ -46,13 +46,29 @@ Príloha č. 5 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - d) sleduje priebeh evakuácie a v určených lehotách informuje príslušnú evakuačnú komisiu.
 
-  - 5. Miesto ubytovania evakuovaných
+  - 5. Kontrolné stanovište
+
+    - a) zaraďuje osoby do skupín na kontaminované a nekontaminované účinkami nebezpečných látok,
+
+    - b) triedi dopravné prostriedky na kontaminované a nekontaminované účinkami nebezpečných látok,
+
+    - c) zabezpečuje a udržiava režim života, organizovanosť činnosti, plynulý a rýchly odsun evakuovaných po vykonaní špeciálnej očisty na pôvodné evakuačné trasy,
+
+    - d) sústreďuje údaje o dopravnej situácii,
+
+    - e) eviduje osoby a dopravné prostriedky,
+
+    - f) plní úlohy regulačného stanovišťa,
+
+    - g) vykonáva dozimetrickú kontrolu a kontrolu kontaminácie osôb, vecí a techniky.
+
+  - 6. Miesto ubytovania evakuovaných
 
     - a) zabezpečuje príjem a ubytovanie evakuovaných,
 
     - b) vedie evidenciu evakuovaných,
 
-    - c) organizuje a zabezpečuje zapojenie evakuovaných do platného zásobovacieho a zdravotníckeho systému,
+    - c) organizuje a zabezpečuje zapojenie evakuovaných do zásobovacieho a zdravotníckeho systému,
 
     - d) zabezpečuje evakuovaným podľa potreby jednotlivých skupín a vlastných možností potrebnú starostlivosť, zapojenie do pracovného pomeru alebo učebného procesu,
 

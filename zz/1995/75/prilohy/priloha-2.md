@@ -35,3 +35,9 @@ Príloha č. 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
     - b) núdzové zásobovanie počas presunu evakuovaných,
 
     - c) núdzové zásobovanie v miestach ubytovania evakuovaných.
+
+  - 5. Pôdohospodárske a veterinárne zabezpečenie
+
+    - a) evakuácia domácich zvierat,
+
+    - b) opatrenia na zabránenie vzniku epidémií a nákaz.
