@@ -2,6 +2,12 @@
 
 - 2) Zákon č. 85/1990 Zb. o petičnom práve.
 
+- 2a) § 15 písm. f) zákona Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
+
+- 2b) Čl. 93 Ústavy Slovenskej republiky.
+
+- 2c) § 1 ods. 4 zákona č. 85/1990 Zb. o petičnom práve.
+
 - 3) § 13 ods. 1 a § 24 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - § 17 ods. 1 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
