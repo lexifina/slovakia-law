@@ -1,3 +1,0 @@
-Minister:
-
-Poláček v. r.
