@@ -1,0 +1,1 @@
+- 1) OJ L 226, 13. 8. 1987, p. 2 – Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 187/1996 Z. z. o pristúpení Slovenskej republiky k Dohovoru o spoločnom tranzitnom režime.
