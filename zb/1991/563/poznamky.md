@@ -26,6 +26,14 @@
 
 - 7) Najmä zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov, zákon č. 92/1949 Zb., branný zákon (úplné znenie č. 309/1990 Zb., zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon), úplné znenie č. 247/1990 Zb.
 
+- 7a) § 2 ods. 2 zákona č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty.
+
+- 7b) § 14 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
+
+- 7c) § 6 ods. 3 zákona č. 115/1998 Z. z. v znení zákona č. 387/2001 Z. z.
+
+- § 13 ods. 3 zákona č. 183/2000 Z. z.
+
 - 8) § 40 ods. 4 Občianskeho zákonníka č. 40/1964 Zb. v znení neskorších predpisov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.
