@@ -314,13 +314,13 @@ Za zamestnanie II. pracovnej kategórie sa považuje aj zamestnanie pracovníkov
 
 Za zamestnanie II. pracovnej kategórie sa považuje vykonávanie práce v týchto oblastiach:
 
-a) Afrika, s výnimkou Alžírskej republiky, Juhoafrickej republiky, Tunisu, Maroka, Egyptskej arabskej republiky a Líbye,
+a) Afrika, s výnimkou Alžírskej republiky, Juhoafrickej republiky, Tunisu, Maroka a Líbye,
 
 b) Stredná Amerika, včítane Karibskej oblasti, s výnimkou Mexika a Kuby,
 
 c) Južná Amerika až po30 stupňov južnej šírky, s výnimkou miest Sao Paulo a Rio de Janeiro,
 
-d) Ázia, s výnimkou Japonska, Izraela, Čínskej ľudovej republiky, Kórejskej ľudovodemokratickej republiky a ázijskej časti Zväzu sovietskych socialistických republík a s výnimkou miest Damask, Ankara a Bejrút,
+d) Ázia, s výnimkou Japonska, Izraela, Čínskej ľudovej republiky, Kórejskej ľudovodemokratickej republiky a ázijskej časti Zväzu sovietskych socialistických republík a s výnimkou mesta Ankary,
 
 e) Arktída a Antarktída,
 
