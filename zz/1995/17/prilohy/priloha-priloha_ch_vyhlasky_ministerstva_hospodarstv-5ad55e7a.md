@@ -1,0 +1,1 @@
+Príloha CH vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 17/1995 Z. z. [Vzor - Žiadosť o udelenie licencie na dovoz alebo vývoz tovaru uvedeného v prílohe E](../assets/caf11ab0d17101ef15716f4e5736f13b824f0e61443b98eaba1b8a6981952a25.pdf)
