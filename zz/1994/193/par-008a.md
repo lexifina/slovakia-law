@@ -18,9 +18,9 @@ nárok na prídavky na deti sa opätovne posúdi.
 
 - c) starostlivosti o nezaopatrené dieťa, ktorému sa poskytuje starostlivosť v zariadení celoročne, ak je dôvodom takejto starostlivosti výkon ústavnej výchovy na základe právoplatného rozhodnutia príslušného orgánu alebo výkon ochrannej výchovy na základe právoplatného rozhodnutia súdu alebo starostlivosti o inú spoločne posudzovanú osobu, ktorej sa poskytuje starostlivosť v zariadení sociálnych služieb celoročne.<sup>14c</sup>)
 
-- d) nástupu na základnú (náhradnú) vojenskú službu alebo civilnú službu,
+- d) nástupu na základnú službu alebo náhradnú službu<sup>2f</sup>) v ozbrojených silách<sup>2g</sup>) alebo civilnú službu,
 
-- e) výkonu trestu odňatia slobody,
+- e) väzby alebo výkonu trestu odňatia slobody,
 
 - f) uzavretia manželstva nezaopatreného dieťaťa, na ktoré si oprávnená osoba už neuplatňuje nárok na prídavky na deti,
 
@@ -38,9 +38,9 @@ príjem zistený podľa § 7 sa opätovne posúdi tak, že sa na príjem osôb, 
 
 - e) o nezaopatrené dieťa uvedené v § 3 ods. 2, ak zanikli dôvody, pre ktoré naň nevznikol nárok na prídavky na deti,
 
-- f) o inú osobu s výnimkou nezaopatreného dieťaťa, ktorá sa vrátila zo zariadenia sociálnej starostlivosti s celoročným pobytom a patrí podľa § 8 ods. 1 do okruhu spoločne posudzovaných osôb,
+- f) o inú osobu s výnimkou nezaopatreného dieťaťa, ktorá sa vrátila zo zariadenia sociálnych služieb s celoročným pobytom a patrí podľa § 8 ods. 1 do okruhu spoločne posudzovaných osôb,
 
-- g) o spoločne posudzovanú osobu, ktorá ukončila základnú (náhradnú) vojenskú službu alebo civilnú službu alebo výkon trestu odňatia slobody,
+- g) o spoločne posudzovanú osobu, ktorá skončila základnú službu alebo náhradnú službu<sup>2f</sup>) v ozbrojených silách<sup>2g</sup>) alebo civilnú službu alebo skončila väzbu alebo výkon trestu odňatia slobody,
 
 - h) o nezaopatrené dieťa, ktoré žije v manželstve a na ktoré si oprávnená osoba uplatňuje nárok na prídavky na deti,
 
