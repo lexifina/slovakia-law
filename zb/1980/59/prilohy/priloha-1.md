@@ -12,14 +12,12 @@ Príloha č. 1 vyhlášky č. 59/1980 Zb.
 
   - 5. koberce;
 
-  - 6. brúsené sklo;
+  - 6. úžitkový porcelán;
 
-  - 7. úžitkový porcelán;
+  - 7. smaltovaný a hliníkový riad;
 
-  - 8. smaltovaný a hliníkový riad;
+  - 8. lustre s výnimkou oveskových;
 
-  - 9. lustre;
+  - 9. inštalačný a elektroinštalačný materiál;
 
-  - 10. inštalačný a elektroinštalačný materiál;
-
-  - 11. stavebné materiály.
+  - 10. stavebné materiály.

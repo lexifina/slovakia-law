@@ -18,7 +18,7 @@ Príloha č. 2 vyhlášky č. 59/1980 Zb.
 
   - 8. posteľná bielizeň;
 
-  - 9. pančuchové výrobky každého druhu;
+  - 9. pančuchové výrobky každého druhu s výnimkou jemných pančuchových nohavičiek pre ženy;
 
   - 10. odevy z usní a kožušinové výrobky každého druhu včítane umelých;
 
