@@ -1,3 +1,0 @@
-Minister:
-
-Hájek v. r.
