@@ -26,12 +26,6 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 10. | | | 19 ods. 2 | rozhodovanie o podmienkach prenechania národnej kultúrnej pamiatky na dočasné užívanie
 
-11. | poľnohospodárstva | zák. SNR č. 78/1976 Zb. | 4 ods. 2 písm. a) | vyhradzovanie si rozhodovania v pochybnostiach o tom, či ide o súčasti poľnohospodárskeho pôdneho fondu
-
-12. | | | 4 ods. 2 písm. c) | vyhradzovanie udeľovania súhlasu k návrhom územných plánov zón, ak udeľovanie tohto súhlasu neprislúcha ministerstvu
-
-13. | | | 4 ods. 2 písm. d) | vyhradzovanie udeľovania súhlasu k návrhom trás nadzemných a podzemných vedení, ak ide o stavby krajského významu
-
 15. | | zák. č. 110/1978 Zb. | 6 | zriaďovanie nákazových komisii na plnenie svojich úloh súvisiacich s ochranou proti nákazám a iným hromadným ochoreniam
 
 16. | energetiky | zák. č. 67/1960 Zb. | 5 ods. 2 | vydávanie súhlasu k novému zriaďovaniu, podstatnému rozširovaniu a prevádzkovaniu zariadení na výrobu vyhrievacích plynov inými organizáciami ako plynárenskými podnikmi
