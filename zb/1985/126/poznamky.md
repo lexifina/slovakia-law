@@ -46,4 +46,6 @@
 
 - 17) Zákon č. 71/1967 Zb.
 
+- 17a) Napr. zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon), zákon č. 513/1991 Zb. Obchodný zákonník, zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplné znenie č. 47/1992 Zb.).
+
 - 18) Nariadenie vlády Slovenskej socialistickej republiky č. 155/1982 Zb. o zriaďovaní odborov a iných útvarov národných výborov.
