@@ -4,6 +4,8 @@
 
 - Zákon Slovenskej národnej rady č. 592/1990 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Slovenskej národnej rady č. 574/1991 Zb.
 
+- 1a) § 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
+
 - 2) Zákon Českej národnej rady č. 425/1990 Zb. o okresných úradoch, úprave ich pôsobnosti a o niektorých ďalších opatreniach s tým súvisiacich.
 
 - Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
