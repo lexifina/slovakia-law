@@ -16,9 +16,9 @@
 
 - Článok 2
 
-- Poplatky stanovené v Dohovore a vo vykonávacom predpise
+- Poplatky stanovené v Dohovore a vo Vykonávacom predpise
 
-- Poplatky, ktoré sa platia úradu podľa článku 1, sú nasledujúce:
+- Poplatky, ktoré sa platia Úradu podľa článku 1, sú:
 
 - | EUR
 
@@ -40,7 +40,7 @@
 
 - 3b. Príplatok k prihlasovaciemu poplatku, poplatku za rešerš, poplatku za určenie (pravidlo 85a) | 50% príslušného poplatku alebo poplatkov, najviac však celkom 650 EUR
 
-- 3c. Príplatok za oneskorené podanie prekladu medzinárodnej prihlášky alebo žiadosti o prieskum, alebo za oneskorené zaplatenie národného základného poplatku, poplatku za rešerš alebo poplat kov za určenie (pravidlo 108 odsek 3) | 50 % príslušného poplatku, ale najmenej 500 EUR za oneskorené podanie prekladu až do sumy 1 750 EUR
+- 3c. Príplatok za oneskorené podanie prekladu medzinárodnej prihlášky alebo žiadosti o prieskum alebo za oneskorené zaplatenie národného základného poplatku, poplatku za rešerš alebo poplatkov za určenie (pravidlo 108 odseky 3 a 4) | 50 % príslušného poplatku, ale najmenej 500 EUR za oneskorené podanie prekladu až do sumy 1 750 EUR
 
 - 4. Udržiavacie poplatky za európsku patentovú prihlášku (článok 86 odsek 1), počítané v každom prípade odo dňa podania prihlášky |
 
@@ -80,9 +80,9 @@
 
 - 11. Poplatok za sťažnosť (článok 108) | 1 020
 
-- 12. Poplatok za pokračovanie v konaní (článok 121 odsek 2) | 75
+- 12. Poplatok za pokračovanie v konaní (článok 121 odsek 2) | 200
 
-- 13. Poplatok za uvedenie do predošlého stavu (článok 122 odsek 3) | 75
+- 13. Poplatok za uvedenie do predošlého stavu (článok 122 odsek 3) | 350
 
 - 14. Poplatok za zmenu (článok 136 odsek 1 a článok 140) | 50
 

@@ -836,7 +836,7 @@
 
 - 3) Oznámenia podľa článku 96 odsek 2 sú odôvodnené a uvádzajú sa v nich všetky dôvody, ktoré bránia udeleniu európskeho patentu.
 
-- 4) Predtým, ako prieskumové oddelenie rozhodne o udelení patentu, informuje prihlasovateľa o znení textu, v ktorom zamýšľa európsky patent udeliť, a vyzve ho, aby zaplatil poplatky za udelenie a vytlačenie a predložil preklad patentových nárokov v dvoch iných úradných jazykoch Európskeho patentového úradu, ako je jazyk konania, v stanovenej lehote, ktorá nemôže byť kratšia ako dva mesiace alebo dlhšia ako štyri mesiace. Lehota sa môže jedenkrát predĺžiť maximálne o dva mesiace, ak o to prihlasovateľ požiada pred jej uplynutím. Ak prihlasovateľ zaplatí poplatky a predloží preklad v tejto lehote, bude sa predpokladať, že prihlasovateľ súhlasí s textom zamýšľaným na udelenie patentu.
+- 4) Predtým, ako prieskumový odbor rozhodne o udelení patentu, informuje prihlasovateľa o znení textu, v ktorom zamýšľa európsky patent udeliť, a vyzve ho, aby zaplatil poplatky za udelenie a vytlačenie a predložil preklad patentových nárokov v dvoch iných úradných jazykoch Európskeho patentového úradu, ako je jazyk konania, v stanovenej lehote, ktorá nemôže byť kratšia ako dva mesiace alebo dlhšia ako štyri mesiace. Ak prihlasovateľ zaplatí poplatky a predloží preklad v tejto lehote, bude sa predpokladať, že prihlasovateľ súhlasí s textom zamýšľaným pre udelenie patentu.
 
 - 5) Ak prihlasovateľ v lehote stanovenej v odseku 4 požaduje zmeny podľa pravidla 86 odsek 3 alebo opravy chýb podľa pravidla 88, musí predložiť, ak boli patentové nároky zmenené alebo opravené, preklad zmenených alebo opravených patentových nárokov. Ak prihlasovateľ zaplatil poplatky a predloží preklad v tejto lehote, bude sa predpokladať, že súhlasí s udelením takto zmeneného alebo opraveného patentu.
 
@@ -874,9 +874,7 @@
 
 - Európska patentová listina
 
-- 1) Bezodkladne po zverejnení európskeho patentového spisu vydá Európsky patentový úrad majiteľovi patentu európsku patentovú listinu, ku ktorej je priložený európsky patentový spis. Európska patentová listina osvedčuje, že osobe uvedenej v listine bol pre zmluvné štáty určené v patentovom spise udelený patent na vynález opísaný v tomto spise.
-
-- 2) Majiteľ patentu môže požiadať, aby mu boli po zaplatení správneho poplatku vystavené ďalšie vyhotovenia európskej patentovej listiny.
+- Hneď, ako je európsky patentový spis zverejnený, vydá Európsky patentový úrad majiteľovi patentu európsku patentovú listinu. Prezident Európskeho patentového úradu predpíše obsah, formu a komunikačné prostriedky odoslania patentovej listiny a ďalej určí okolnosti platby správnych poplatkov.
 
 - ČASŤ V
 
@@ -1671,6 +1669,8 @@
 - 2) Určenie zmluvného štátu, pre ktorý nebol včas zaplatený poplatok za určenie, sa bude považovať za vzaté späť.
 
 - 3) Ak Európsky patentový úrad zistí, že prihláška alebo určenie zmluvného štátu bolo vzaté späť podľa odseku 1 alebo 2, oznámi to prihlasovateľovi. Pravidlo 69 odsek 2 sa uplatní primerane. Ak v lehote dvoch mesiacov od doručenia oznámenia podľa vety 1 prihlasovateľ vykoná opomenutý úkon a zaplatí príplatok, predpokladá sa, že k strate práv nedošlo.
+
+- (4) Poplatok za určenie, vo vzťahu ku ktorému prihlasovateľ nevyžaduje oznámenie podľa odseku 3, možno zaplatiť ešte v dodatočnej lehote dvoch mesiacov od uplynutia riadnej lehoty, ak je v tej istej lehote zaplatený aj príplatok.
 
 - Pravidlo 109
 
