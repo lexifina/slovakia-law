@@ -38,6 +38,8 @@
 
 - 20) § 47 zákona č. 71/1967 Zb.
 
+- 20a) Príloha č. 1 k zákonu č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
+
 - 21) § 18 zákona č. 468/2002 Z. z. o systéme environmentálne orientovaného riadenia a auditu.
 
 - 22) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
