@@ -1,9 +1,0 @@
-# Čl. VIII Uvoľňovanie pracovníkov pre činnosť kultúrnych a rekreačných zariadení a pre pionierske tábory Revolučného odborového hnutia
-
-- 1. Pre činnosť kultúrnych zariadení Revolučného odborového hnutia možno pre niektoré funkcie dlhodobe alebo krátkodobe uvoľniť príslušných funkcionárov a pracovníkov. Ak závod nemá vo svojom stave kvalifikovaných pracovníkov pre výkon príslušnej funkcie alebo práce v kultúrnom zariadení, uzavrie pracovný pomer s vhodným pracovníkom podľa návrhu závodného výboru. Uvoľňovanie a odmeňovanie pracovníkov pre jednotlivé typy týchto kultúrnych zariadení sa spravuje osobitnými predpismi.*)
-
-- 2. Výnimočne možno podľa tejto vyhlášky uvoľňovať pracovníkov pre závodné rekreačné zariadenia a pionierske tábory Revolučného odborového hnutia. Počet uvoľnených pracovníkov na výkon funkcie v týchto zariadeniach a dĺžku ich uvoľnenia určí členská schôdza alebo konferencia základnej organizácie svojím uznesením.
-
-- 3. Pracovníkom uvoľneným podľa odseku 2 a pracovníkom krátkodobe uvoľneným na výkon niektorej funkcie v kultúrnom zariadení sa poskytuje náhrada mzdy podľa ustanovení článku V.
-
-- Závodné výbory refundujú vedeniu závodu náhrady miezd, ktoré závody vyplatili, vrátane dane zo mzdy a príslušnej sumy nemocenského poistenia. Povinnosť tejto úhrady (refundácie) odpadá, keď uvoľnený funkcionár sám alebo jeho spolupracovníci nahradia zameškanú prácu bez zvýšenia osobných nákladov. U ostatných pracovníkov, ktorých vedenie závodu určí na zabezpečenie prevádzky týchto zariadení, ako sú správca, strážnik a pod., sa závody spravujú vyhláškou Ministerstva financií a Ústrednej rady odborov č. 121/1965 Zb. V organizáciách, ktoré nehospodária podľa zásad novej sústavy plánovitého riadenia národného hospodárstva, platí vyhláška Ústrednej rady odborov a Ministerstva financií č. 122/1960 Zb.
