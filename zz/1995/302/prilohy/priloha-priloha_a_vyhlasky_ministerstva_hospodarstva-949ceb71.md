@@ -12,6 +12,8 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 2202 | voda vrátane minerálnych vôd a sódoviek, s prídavkom cukru alebo iných sladidiel alebo aromatizované a iné nealkoholické nápoje s výnimkou ovocných alebo zeleninových štiav čísla 2009 | hl | 450 000 | ČR
 
+  - 2203 00 | pivo zo sladu | hl | 532 000 | ČR
+
   - 2701 | čierne uhlie, brikety, bulety a podobné tuhé palivá vyrobené z čierneho uhlia | tona | 4 000 000 | okrem EÚ, EZVO a ČR<sup>4</sup>)
 
   - 2702 | hnedé uhlie, tiež aglomerované, okrem gagátu | tona | 300 000 | okrem EÚ, EZVO a ČR
@@ -420,7 +422,7 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - | zeleninových štiav čísla 2009 | |
 
-  - 2203 00 | pivo zo sladu | hl | všetky štáty
+  - 2203 00 | pivo zo sladu | hl | všetky štáty okrem ČR
 
   - 2204 | víno z čerstvého hrozna vrátane vína obohateného | hl | všetky štáty
 
@@ -880,7 +882,7 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - | | m<sup>2</sup> | všetky štáty okrem
 
-  - | | | ČR, Slovinska
+  - | | | ČR, MR a Slovinska
 
   - 7005 10 | | |
 

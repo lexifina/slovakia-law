@@ -10,7 +10,7 @@ Príloha B
 
   - Živé zvieratá a živočíšne výrobky | | | |
 
-  - | živý hovädzí dobytok: | tona | 5 000 | všetky štáty okrem ČR
+  - | živý hovädzí dobytok: | tona | 10 000 | všetky štáty okrem ČR
 
   - 0102 10 | | | |
 
@@ -94,12 +94,6 @@ Príloha B
 
   - 0604 91 29 | | | |
 
-  - | vetvy ihličnanov: | tona | 100 | všetky štáty okrem ČR
-
-  - 0604 91 41 | | | |
-
-  - 0604 91 49 | | | |
-
   - 1001 | pšenica a súraž | tona | 0 | všetky štáty okrem ČR
 
   - 1002 00 00 | raž | tona | 0 | všetky štáty okrem ČR
@@ -121,10 +115,6 @@ Príloha B
   - 1206 00 | slnečnicové semená | tona | 15000 | všetky štáty okrem ČR
 
   - 1209 99 10 | semená lesných stromov | tona | 20 | všetky štáty okrem ČR
-
-  - 1210 | chmeľové šuštičky, čerstvé, sušené, tiež | tona | 300 | všetky štáty okrem ČR
-
-  - | drvené v prášku; lupulín | | |
 
   - Výrobky potravinárskeho priemyslu | | | |
 
@@ -160,17 +150,7 @@ Príloha B
 
   - 1703 | melasa | tona | 20 000 | všetky štáty okrem ČR
 
-  - 1901 20 00 | zmesi a cestá na prípravu pekárskeho tovaru, | tona | 0 | všetky štáty okrem ČR
-
-  - | jemného alebo trvanlivého pečiva čísla 1905 | | |
-
-  - 2207 | etylalkohol nedenaturovaný s merným | hl | 20 000 | všetky štáty okrem ČR
-
-  - | alkoholometrickým titrom 80 % vol. alebo | | |
-
-  - | viac; etylalkohol a destiláty denaturované | | |
-
-  - | s akýmkoľvek alkoholometrickým titrom | | |
+  - 1901 20 00 | zmesi a cestá na prípravu pekárskeho tovaru, jemného alebo trvanlivého pečiva čísla 1905 | tona | 0 | všetky štáty okrem ČR
 
   - 2302 až 2306 a | otruby, pokrutiny a šroty, kŕmne zmesi | tona | 0 | všetky štáty okrem ČR
 
@@ -180,11 +160,11 @@ Príloha B
 
   - 2505 | prírodné piesky | m<sup>3</sup> | 50 000 | okrem EÚ, EZVO a ČR
 
-  - 2517 10 10 | okruhliaky, štrk, lámaný alebo drvený kameň | m<sup>3</sup> | 50 000 | okrem EÚ, EZVO a ČR
+  - 2517 10 10 | okruhliaky, štrk, troska a pazúrik | m<sup>3</sup> | 50 000 | okrem EÚ, EZVO a ČR
 
-  - 2517 10 20 | vápenec, dolomit a ostatné vápencové kamene | tona | 30 000 | okrem EÚ, EZVO a ČR
+  - 2517 10 20 | vápenec, dolomit a ostatné vápencové kamene lámané alebo drvené | m<sup>3</sup> | 30 000 | okrem EÚ, EZVO a ČR
 
-  - 2517 10 80 | ostatné kamene | tona | 100 000 | okrem EÚ, EZVO a ČR
+  - 2517 10 80 | ostatné | m<sup>3</sup> | 100 000 | okrem EÚ, EZVO a ČR
 
   - 2523 10 00 | cementové slinky | tona | 20 000 | okrem EÚ, EZVO a ČR
 
@@ -272,19 +252,13 @@ Príloha B
 
   - Drevo a drevené výrobky | | | |
 
-  - 4401 10 00 | palivové drevo (polená, kláty, vetvy, viazanice | m<sup>3</sup> | 10 000 | okrem EÚ, EZVO a ČR
-
-  - | a podobne) | | |
-
   - 4403 10 10 | stĺpy ihličnaté, surové a impregnované | m<sup>3</sup> | 10 000 | okrem EÚ, EZVO a ČR
 
   - | surové drevo ihličnaté, tiež nahrubo | m<sup>3</sup> | 105 000 | okrem EÚ, EZVO a ČR
 
   - | opracované (napr. prizmy): | | |
 
-  - | smrekové: | | |
-
-  - 4403 20 10 10 | výrezy I. až IV. triedy akosti | | |
+  - 4403 20 10 10 | smrekové výrezy I. až III. triedy akosti | | |
 
   - 4403 20 10 90 | ostatné drevo | | |
 
@@ -317,8 +291,6 @@ Príloha B
   - 4403 92 00 90 | ostatné drevo | | |
 
   - | topoľové: | | |
-
-  - 4403 99 10 10 | výrezy l. až IV. triedy akosti | | |
 
   - 4403 99 10 90 | ostatné drevo | | |
 
@@ -406,7 +378,7 @@ Príloha B
 
   - Obyčajné kovy a výrobky z obyčajných kovov | | | |
 
-  - | surové železo a oceľ v ingotoch alebo | tona | 10 000 | okrem EÚ, EZVO a ČR
+  - | surové železo a oceľ v ingotoch alebo | tona | 30 000 | okrem EÚ, EZVO a ČR
 
   - | v iných základných tvaroch: | | |
 
@@ -504,9 +476,17 @@ Príloha B
 
   - 0203 | bravčové mäso čerstvé, chladené alebo mrazené | tona | ČR
 
+  - 0207 | kohúty a sliepky, vrátane kureniec a ich dielov | tona | ČR
+
   - 0407 00 30 | vajcia z domácej hydiny | ks | ČR
 
   - Rastlinné výrobky | | |
+
+  - | vetvy ihličnanov | tona | všetky štáty okrem ČR
+
+  - 0604 91 41 | | |
+
+  - 0604 91 49 | | |
 
   - 1001 | pšenica a súraž | tona | ČR
 
@@ -542,7 +522,7 @@ Príloha B
 
   - 1206 00 | slnečnicové semená | tona | ČR
 
-  - 2302 až 2306 £ | i otruby, pokrutiny a šroty, kŕmne zmesi | tona | ČR
+  - 2302 až 2306 a | i otruby, pokrutiny a šroty, kŕmne zmesi | tona | ČR
 
   - 2309 90 | | |
 
@@ -650,7 +630,7 @@ Príloha B
 
   - Drevo a drevené výrobky | | |
 
-  - 4401 10 00 | palivové drevo (polená, kláty, vetvy, viazanice a podobne) | m<sup>3</sup> | EÚ, EZVO a ČR
+  - 4401 10 00 | palivové drevo (polená, kláty, vetvy, viazanice a podobne) | m<sup>3</sup> | všetky štáty
 
   - 4403 10 10 | stĺpy ihličnaté, surové a impregnované | m<sup>3</sup> | EÚ, EZVO a ČR
 
@@ -694,7 +674,7 @@ Príloha B
 
   - | topoľové: | |
 
-  - 4403 99 10 10 | výrezy l. až IV. triedy akosti | |
+  - 4403 99 10 10 | výrezy l. až IV. triedy akosti | | všetky štáty
 
   - 4403 99 10 90 | ostatné drevo | |
 
