@@ -86,27 +86,49 @@
 
     - 1. Na prestup štátnej hranice môžu sa použiť tieto pohraničné priechody:
 
-      - Vojtanov - Schönberg Jiříkov - Neugersdorf
+      - Vojtanov - Schönberg
 
-      - Kraslice - Klingenthal Varnsdorf - Groschönau
+      - Kraslice - Klingenthal
 
-      - Potůčky - Johanngeorgenstadt Hrádek n. N. - Harthau-Zittau
+      - Potůčky - Johanngeorgenstadt
 
-      - Vejprty - Bärenstein Cínovec - Zinnwald
+      - Vejprty - Bärenstein
 
-      - Brandov - Oberneuschönberg Šluknov - Schland
+      - Brandov (Zelený Důl) - Obernhau
 
-      - Mníšek - Deutsch-Einsiedel Hranice - Bad Elster
+      - Mníšek - Deutsch-Einsiedel
 
-      - Moldava - Holzhau Luby - Wernitzgrűn
+      - Moldava - Neu-Rehfeld
 
-      - Petrovice- Hellersdorf Plesná - Bad Brambach
+      - Petrovice - Hellersdorf
 
-      - Hřensko - Schmilka Dolní Paseky - Bad Brambach
+      - Hřensko - Schmilka
 
-      - Poustevna- Sebnitz Doubrava - Bad Elster
+      - Poustevna - Sebnitz
+
+      - Jiříkov - Neugersdorf
+
+      - Varnsdorf - Grosschönau
+
+      - Hrádek n. Nisou - Harthau-Zittau
+
+      - Cínovec - Zinnwald
+
+      - Šluknov - Schland
+
+      - Hranice - Bad Elster
+
+      - Luby - Wernitzgrün
+
+      - Plesná - Bad Brambach
+
+      - Dolní Paseky - Bad Brambach
+
+      - Doubrava - Bad Elster
 
       - Hranice - Ebmath
+
+      - Boží Dar - Oberwiesenthal
 
     - 2. Pohraničné priechody štátnej hranice môžu sa zriaďovať a meniť dohodou príslušných orgánov obidvoch zmluvných strán.
 
