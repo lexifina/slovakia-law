@@ -28,6 +28,12 @@
 
 - 11b) § 18 ods. 3 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
 
+- 11c) Napríklad zákon Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov, zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- 11d) Zákon Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
+
+- 11e) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+
 - 12) Napr. čl. 10 Ústavy ČSFR č. 100/1960 Zb. v znení neskorších ústavných zákonov, § 11a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb., § 46a zákona SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona SNR č. 525/1990 Zb.
 
 - 13) § 198 a nasl. Občianskeho zákonníka.
@@ -46,21 +52,37 @@
 
 - 16) § 3 ods. 2 písm. d) zákona SNR č. 518/1990 Zb.
 
+- 16a) Napríklad zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
 - 17) Napr. § 12 a nasl. Hospodárskeho zákonníka a § 136 a nasl. Občianskeho zákonníka.
 
 - 18) § 2 ods. 2 zákona SNR č. 377/1990 Zb. v znení zákona SNR č. 523/1990 Zb.
 
 - § 2 ods. 2 zákona SNR č. 401/1990 Zb.
 
-- 19) Zákon č. 111/1990 Zb. o štátnom podniku.
+- 19) § 56 Obchodného zákonníka.
 
-- 19a) § 2 zákona Slovenskej národnej rady č. 518/1990 Zb.
+- 19a) Napríklad zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
-- 19b) § 32 ods. 2 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
+- 19b) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
+- 19c) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
 - 20) Čl. 4 ods. 3 ústavného zákona č. 143/1968 Zb. v znení neskorších predpisov.
 
-- 21) Zákon č. 21/1971 Zb. o jednotnej sústave sociálno-ekonomických informácií v znení neskorších predpisov.
+- 21) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+
+- 21a) Zákon Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
+
+- Zákon č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 21b) § 66 písm. j) zákona č. 195/1998 Z. z. v znení zákona č. 450/2000 Z. z.
+
+- 21c) § 151a až 151m Občianskeho zákonníka v znení neskorších predpisov.
+
+- 21d) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 21e) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov a zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 22) § 2 ods. 2 a § 3 zákona SNR č. 377/1990 Zb. v znení zákona SNR č. 523/1990 Zb.
 
@@ -85,6 +107,10 @@
 - 26) § 4 a nasl. zákona č. 427/1990 Zb.
 
 - 26a) § 659 a nasl. Občianskeho zákonníka.
+
+- 26b) § 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+
+- 26c) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 27) Zákon č. 279/1949 Zb. o finančnom hospodárení národných výborov.
 

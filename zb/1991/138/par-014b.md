@@ -1,0 +1,7 @@
+# § 14b
+
+(1) Odovzdávajúci subjekt, ktorý do dňa prechodu majetku Slovenskej republiky mal tento majetok v správe, ktorý podľa § 2b ods. 1 tohto zákona prechádza na obce, spíše písomný protokol s príslušnou obcou o odovzdaní tohto majetku najneskôr do dvoch mesiacov odo dňa prechodu majetku Slovenskej republiky podľa tohto zákona a podľa osobitného zákona. Protokol obsahuje presné vymedzenie a hodnotu odovzdávaného majetku vedenú v účtovníctve podľa osobitného zákona,<sup>21</sup>) súvisiace majetkové práva a záväzky ku dňu prechodu majetku Slovenskej republiky na obec; ak ide o nehnuteľnosť, protokol obsahuje aj údaje katastra nehnuteľností podľa osobitného zákona<sup>26b</sup>) a prípadné vyčíslenie nákladov na nevyhnutné opravy tejto nehnuteľnosti. Protokol podpisuje štatutárny orgán subjektu, ktorý mal v správe majetok, ktorého vlastníctvo prechádza podľa tohto zákona na obec a štatutárny orgán obce.
+
+(2) Obce sú povinné do 12 mesiacov odo dňa nadobudnutia majetku štátu podľa § 2b podať na príslušnom katastri nehnuteľností návrh na zápis vlastníckeho práva k tomuto majetku podľa osobitných zákonov.<sup>26c</sup>)
+
+(3) Veci uvedené v § 2b ods. 1 prechádzajú do vlastníctva obcí dňom nadobudnutia účinnosti osobitného zákona, ktorým prechádza zriaďovateľská funkcia na obec; tento deň je dňom prechodu majetku Slovenskej republiky na obec. Veci uvedené v § 2b ods. 2 prechádzajú do vlastníctva obcí dňom uvedeným v dohode alebo dňom ustanoveným v osobitnom zákone.
