@@ -8,4 +8,4 @@
 
 (4) Organizácia nesmie vo vedľajšom pracovnom pomere zamestnávať mladistvých pracovníkov.
 
-(5) Ako vedľajší sa posudzuje aj pracovný pomer dojednaný členom výrobného družstva alebo jednotného roľníckeho družstva, ak má tento člen družstva plný pracovný úväzok.
+(5) Ako vedľajší sa posudzuje aj pracovný pomer dojednaný členom družstva, kde súčasťou členstva je tiež pracovný vzťah, ak má tento člen družstva plný pracovný úväzok.

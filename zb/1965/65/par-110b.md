@@ -12,7 +12,7 @@
 
 (3) Za dovolenku alebo jej časť, ktorú pracovník nemohol vyčerpať, prislúcha nárhada mzdy vo výške priemerného zárobku.
 
-(4) Učiteľom a učiteľkám materských škôl, vychovávateľom a majstrom odbornej výchovy prislúcha náhrada mzdy najviac za štyri týždne nevyčerpanej dovolenky.
+(4) Pracovníkom uvedeným v § 102 ods. 4 prislúcha náhrada mzdy najviac za štyri týždne nevyčerpanej dovolenky.
 
 (5) Pracovník je povinný vrátiť vyplatenú náhradu mzdy za dovolenku alebo jej časť, na ktorú stratil nárok, prípadne na ktorú mu nárok nevznikol.
 

@@ -1,3 +1,5 @@
+## ZÁKLADNÉ ZÁSADY
+
 # Článok III
 
-Pracovnoprávne vzťahy, v ktorých sa pracovníci zúčastňujú na spoločenskej práci podľa tohto zákonníka, môžu vzniknúť len so súhlasom občana a socialistickej organizácie. Výkon práv a povinností vyplývajúcich z pracovnoprávnych vzťahov musí byť v súlade s pravidlami socialistického spolužitia.
+Občania majú právo na prácu a slobodnú voľbu zamestnania, na spravodlivé a uspokojivé pracovné podmienky a na ochranu proti nezamestnanosti. Tieto práva im prislúchajú bez akýchkoľvek obmedzení a diskriminácie podľa rasy, farby pleti, jazyka, pohlavia, sociálneho pôvodu, veku, náboženstva, politických alebo iných názorov, politickej príslušnosti, odborovej činnosti, príslušnosti k národnosti alebo etnickej skupine alebo iného postavenia. Pracovnoprávne vzťahy podľa tohto zákonníka môžu vzniknúť len so súhlasom občana a organizácie. Výkon práv a povinností vyplývajúcich z pracovnoprávnych vzťahov musí byť v súlade s pravidlami slušnosti a občianskeho spolužitia; nikto nesmie tieto práva zneužívať na škodu druhého účastníka pracovnoprávneho vzťahu alebo spolupracovníkov.

@@ -6,4 +6,4 @@
 
 (2) Pracovník, ktorý sa uvedie vlastnou vinou do takého stavu, že nie je schopný ovládnuť svoje konanie alebo posúdiť jeho následky, zodpovedá za škodu v tomto stave spôsobenú.
 
-(3) Za škodu zodpovedá aj pracovník, ktorý ju spôsobil úmyselným konaním proti pravidlám socialistického spolužitia.
+(3) Za škodu zodpovedá aj pracovník, ktorý ju spôsobil úmyselným konaním proti pravidlám slušnosti a občianskeho spolužitia.

@@ -1,3 +1,3 @@
 # Článok X
 
-Účasť Revolučného odborového hnutia v pracovných vzťahoch upravených týmto zákonníkom je nedeliteľnou súčasťou týchto vzťahov.
+Odborové orgány sa zúčastňujú na pracovnoprávnych vzťahoch včítane kolektívneho vyjednávania za podmienok ustanovených zákonom.

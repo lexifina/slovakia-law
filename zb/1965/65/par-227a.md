@@ -1,10 +1,10 @@
 # § 227a
 
-(1) Organizácia, pre ktorú sa žiak pripravuje na povolanie, môže so žiakom stredného odborného učilišťa (osobitného odborného učilišťa) uzavrieť dohodu, v ktorej sa žiak zaviaže, že po vykonaní záverečnej skúšky alebo maturitnej skúšky, prípadne po uplynutí doby štúdia (prípravy), zotrvá v organizácii v pracovnom pomere po určitú dobu, najviac však tri roky. Do doby zotrvania v pracovnom pomere sa nezapočítavajú doby uvedené v § 143 ods. 4. Dohoda sa môže uzavrieť len pri uzavieraní pracovnej zmluvy; musí sa uzavrieť písomne, inak je neplatná.
+(1) Organizácia, pre ktorú sa žiak pripravuje na povolanie, môže so žiakom učilišťa uzavrieť dohodu, v ktorej sa žiak zaviaže, že po vykonaní záverečnej skúšky alebo maturitnej skúšky, prípadne po uplynutí doby štúdia (prípravy), zotrvá v organizácii v pracovnom pomere po určitú dobu, najviac však tri roky. Do doby zotrvania v pracovnom pomere sa nezapočítavajú doby uvedené v § 143 ods. 4. Dohoda sa môže uzavrieť len pri uzavieraní pracovnej zmluvy; musí sa uzavrieť písomne, inak je neplatná.
 
-(2) Ak pracovníkovi vznikne v dobe, po ktorú sa zaviazal zotrvať v pracovnom pomere podľa predchádzajúceho odseku pracovný pomer, členský pomer k výrobnému družstvu alebo jednotnému roľníckemu družstvu alebo služobný pomer k inej organizácii, je táto organizácia povinná uhradiť predchádzajúcej organizácii pomernú časť primeraných nákladov na jeho výchovu v učebnom alebo študijnom odbore. To isté platí, ak pracovníkovi vznikne v tejto dobe niektorý z uvedených pracovných vzťahov v ďalšej organizácii (v ďalších organizáciách).
+(2) Ak pracovníkovi vznikne v dobe, po ktorú sa zaviazal zotrvať v pracovnom pomere podľa predchádzajúceho odseku pracovný pomer, členský pomer k družstvu, kde súčasťou členstva je tiež pracovný vzťah alebo služobný pomer k inej organizácii, je táto organizácia povinná uhradiť predchádzajúcej organizácii pomernú časť primeraných nákladov na jeho výchovu v učebnom alebo študijnom odbore. To isté platí, ak pracovníkovi vznikne v tejto dobe niektorý z uvedených pracovných vzťahov v ďalšej organizácii (v ďalších organizáciách).
 
-(3) Uhrádzajú sa primerané náklady za celý čas výchovy v strednom odbornom učilište (osobitnom odbornom učilišti). Pomerná časť primeraných nákladov je ich časť, ktorá zodpovedá nesplnenej dobe záväzku.
+(3) Uhrádzajú sa primerané náklady za celý čas výchovy v učilišti. Pomerná časť primeraných nákladov je ich časť, ktorá zodpovedá nesplnenej dobe záväzku.
 
 (4) Povinnosť organizácie uhradiť náklady nevzniká, ak
 
@@ -16,4 +16,6 @@
 
 - d) pracovník nasleduje manžela do miesta jeho bydliska alebo mladistvý pracovník nasleduje rodičov do miesta ich nového bydliska,
 
-- e) predchádzajúca organizácia rozviaže s pracovníkom pracovný pomer.
+- e) predchádzajúca organizácia rozviaže s pracovníkom pracovný pomer,
+
+- f) z údajov predchádzajúcej organizácie v potvrdení o zamestnaní nevyplýva, že ďalšej organizácii vznikne povinnosť uhradiť tieto náklady.
