@@ -2860,19 +2860,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 210
 
-  - Žiadosť o vydanie rozhodnutia o tom, či činnosti a konania podnikateľa nie sú v rozpore s § 3 a 4 alebo či jednotlivé dohody obmedzujúce súťaž nie sú v rozpore s § 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže v znení neskorších predpisov (negatívny atest) .................................................................................................................................. | 2 000 Sk
+  - Návrh na vydanie rozhodnutia Protimonopolného úradu Slovenskej republiky o tom, že činnosti alebo konania podnikateľov nie sú dohodou obmedzujúcou súťaž alebo že spoločný podiel účastníkov dohody obmedzujúcej súťaž alebo podiel ani jedného z nich nie je vyšší ako 10 % celkového podielu tovarov na relevantnom trhu v Slovenskej republike a že ich dohoda obmedzujúca súťaž môže byť vyňatá spod zákazu dohôd obmedzujúcich súťaž ...................................................................... | 2 000 Sk
 
     - Položka 211
 
-  - Žiadosť o vydanie rozhodnutia o tom, že zákaz podľa § 3 a 4 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. v znení neskorších predpisov sa nevzťahuje na dohodu obmedzujúcu súťaž .............................................................................................................................................................. | 5 000 Sk
+  - Návrh na vydanie rozhodnutia Protimonopolného úradu Slovenskej republiky o tom, že zákaz dohôd obmedzujúcich súťaž sa na čas určený v rozhodnutí Protimonopolného úradu Slovenskej republiky nevzťahuje na dohodu obmedzujúcu súťaž, ktorá súčasne spĺňa podmienky uvedené v zákone ................ | 5 000 Sk
 
     - Položka 212
 
-  - Návrh na vydanie súhlasu s koncentráciou, ak spoločný obrat účastníkov koncentrácie je |
+  - Oznámenie koncentrácie, ak spoločný obrat účastníkov koncentrácie je |
 
-  - a) menej ako 1 000 000 000 Sk .................................................................................................... | 30 000 Sk
+  - a) menej ako 750 000 000 Sk ....................................................................................................... | 30 000 Sk
 
-  - b) najmenej 1 000 000 000 Sk ...................................................................................................... | 100 000 Sk
+  - b) najmenej 750 000 000 Sk ......................................................................................................... | 100 000 Sk
 
   - XV. ČASŤ PUNCOVNÍCTVO
 
