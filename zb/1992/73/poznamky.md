@@ -6,7 +6,7 @@
 
 - 3a) § 38 ods. 2 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
-- 3b) § 116 a 117 Občianskeho zákonníka.
+- 3b) Zákon č. 424/1991 Zb. o združovaní v politických stranách a politických hnutiach v znení neskorších predpisov.
 
 - 4) § 76 až 153 Obchodného zákonníka.
 
@@ -17,6 +17,8 @@
 - 4c) § 97 Obchodného zákonníka.
 
 - 5) § 244 až 250 Občianskeho súdneho poriadku.
+
+- 5a) § 18 ods. 2 písm. a) zákona č. 424/1991 Zb. o združovaní v politických stranách a v politických hnutiach v znení neskorších predpisov.
 
 - 6) § 266a Zákonníka práce.
 
