@@ -1,6 +1,8 @@
-- 1) § 10 ods. 3 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
+- 1) § 4 ods. 3 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
-- 2) § 14 ods. 3 a § 5 písm. l) zákona č. 488/2002 Z. z.
+- 1a) § 2 nariadenia vlády Slovenskej republiky č. 280/2003 Z. z. o zdravotných problémoch, ktoré ovplyvňujú výmenu s hovädzím dobytkom a ošípanými.
+
+- 2) § 6 ods. 2 písm. p) zákona č. 488/2002 Z. z.
 
 - 3) § 14 ods. 2 písm. f) zákona č. 488/2002 Z. z.
 

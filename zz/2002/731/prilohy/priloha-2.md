@@ -2,54 +2,54 @@ Príloha č. 2 k nariadeniu vlády č. 731/2002 Z. z.
 
 - ZOZNAM LABORATÓRIÍ
 
-  - Belgicko a Luxembursko
+  - 1. Belgicko a Luxembursko
 
     - Belgium and Luxembourg: Institut national de recherches vétérinaires, Groeselenberg 99, B-1180 Bruxelles.
 
-  - Dánsko
+  - 2. Dánsko
 
     - Denmark: Statens veterinaere institut for virusforskning, Lindholm.
 
-  - Taliansko
+  - 3. Taliansko
 
-    - Italy: Istituto zooprofilattico sperimentale & San Marino della lombardia e delľemilia romagna, Brescia.
+    - Italy: Istituto zooprofilattico sperimentale & San Marino della lombardia e dell´emilia romagna, Brescia.
 
-  - Veľká Británia a Severné Írsko
+  - 4. Veľká Británia a Severné Írsko
 
     - United Kingdom: Institute for Animal Health, Pirbright and Ireland: Woking, Surrey.
 
-  - Francúzsko
+  - 5. Francúzsko
 
-    - France: Laboratoire national de pathologie bovine, Lyon; Laboratoire central de recherche vétérinaire, Maisons-alfort.
+    - France: laboratoire national de pathologie bovine, Lyon; laboratoire central de recherche vétérinaire, Maisons-alfort.
 
-  - Grécko
+  - 6. Grécko
 
     - Greece: Institute for foot and mouth disease and exotic diseases, Attiki 15310.
 
-  - Nemecká spolková republika
+  - 7. Nemecká spolková republika
 
-    - Germany: Bundesforschungsanstalt für Viruskrankheiten der Tiere, Tübingen.
+    - Germany: Bundesforschungsanstalt fuer Viruskrankheiten der Tiere, Tuebingen.
 
-  - Holandsko
+  - 8. Holandsko
 
     - The Netherlands: Centraal diergeneeskundig instituut, Lelystad.
 
-  - Španielsko
+  - 9. Španielsko
 
     - Spain: Laboratorio de alta seguridad biologica (inia), 28130 Madrid.
 
-  - Portugalsko
+  - 10. Portugalsko
 
     - Portugal: Laboratorio Nacional de Investigacao, Veterinaria, Lisboa.
 
-  - Rakúsko
+  - 11. Rakúsko
 
     - Austria: Bundesanstalt für Virusseuchenbekämpfung bei Haustieren, Wien-Hetzendorf.
 
-  - Fínsko
+  - 12. Fínsko
 
     - Finland: Statens veterinaere institut for virusforskning, Lindholm, Denmark.
 
-  - Švédsko
+  - 13. Švédsko
 
     - Sweden: Statens veterinärmedicinska anstalt, Uppsala.
