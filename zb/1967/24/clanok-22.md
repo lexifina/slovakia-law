@@ -1,0 +1,3 @@
+# Čl. 22 Účinnosť
+
+Táto vyhláška nadobúda účinnosť 1. aprílom 1967.
