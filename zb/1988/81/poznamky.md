@@ -1,1 +1,0 @@
-- 6a) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 82/1988 Zb., ktorou sa upravuje uvoľňovanie, umiestňovanie a hmotné zabezpečenie pracovníkov v súvislosti s prestavbou národného hospodárstva a ústredných orgánov.
