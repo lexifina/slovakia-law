@@ -1,4 +1,4 @@
-- 1) § 5a ods. 2 a 3 zákona SNR č. 132/1975 Zb. o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení zákona SNR č. 140/1982 Zb.
+- 1) § 25 písm. a) bod 2 zákona SNR č. 132/1975 Zb. o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení zákona SNR č. 140/1982 Zb.
 
 - 1a) § 5a ods. 2 zákona SNR.
 
@@ -6,7 +6,7 @@
 
 - 1c) § 100 Zákona o rodine.
 
-- 2) § 25 zákona č. 54/1956 Zb. o nemocenskom poistení pracovníkov v znení zákona č. 87/1968 Zb. o zmenách v nemocenskom poistení a v nemocenskej starostlivosti.
+- 2) ČSN 30 0033.
 
 - 3) Najmä § 16 zákona č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa.
 
