@@ -1,6 +1,6 @@
 - 1) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 46/1985 Zb. o postupe pri úmrtí a o pohrebníctve.
 
-- 2) Zákon č. 17/1992 Zb. o životnom prostredí.
+- 2) § 37 ods. 1 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 217/2003 Z. z.
 
 - 3) Napr. zákon Slovenskej národnej rady č. 134/1992 Zb. o štátnej správe ochrany ovzdušia, zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 84/1994 Z. z. o Slovenskom Červenom kríži a o ochrane znaku a názvu Červeného kríža.
 
