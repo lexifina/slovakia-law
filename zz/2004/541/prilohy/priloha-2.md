@@ -16,13 +16,13 @@ Príloha č. 2 k zákonu č. 541/2004 Z. z.
 
     - 2. dopravný poriadok vrátane havarijného dopravného poriadku,
 
-    - 3. dokumentácia systému manažérstva kvality pre prepravu,
+    - 3. dokumentácia systému kvality pre prepravu,
 
     - 4. plán zabezpečenia fyzickej ochrany,
 
   - f) doklad o schválení typu prepravného zariadenia,
 
-  - g) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu, ak sa vyžaduje podľa osobitného predpisu,<sup>7b</sup>)
+  - g) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu, ak sa vyžaduje,
 
   - h) ak ide o povolenie na tranzit jadrových materiálov a vyhoretého jadrového paliva, doklad od príslušného orgánu štátu odosielateľa, že je zabezpečené ich spätné prevzatie, pokiaľ sa tranzit nedokončí,
 
@@ -36,13 +36,13 @@ Príloha č. 2 k zákonu č. 541/2004 Z. z.
 
   - m) povolenie na nakladanie s jadrovými materiálmi udelené fyzickej osobe alebo právnickej osobe, ktorá jadrové materiály vyváža alebo dováža.
 
-- B. Dokumentácia potrebná k písomnej žiadosti o povolenie na dovoz a vývoz jadrových materiálov, vývoz špeciálnych materiálov a zariadení podľa § 14
+- B. Dokumentácia potrebná k písomnej žiadosti o povolenie na dovoz a vývoz jadrových materiálov, špeciálnych materiálov a zariadení podľa § 14
 
   - a) identifikačné údaje žiadateľa, a to ak je fyzickou osobou, meno a priezvisko, dátum narodenia, adresa trvalého pobytu, ak je právnickou osobou, názov, sídlo, identifikačné číslo organizácie, meno, priezvisko a adresa trvalého pobytu štatutárneho orgánu alebo jeho člena,
 
-  - b) druh a množstvo jadrových materiálov, ktoré majú byť dovezené alebo vyvezené, druh a množstvo špeciálnych materiálov a zariadení, ktoré majú byť vyvezené,
+  - b) druh a množstvo jadrových materiálov, špeciálnych materiálov a zariadení, ktoré majú byť dovezené alebo vyvezené,
 
-  - c) názov štátu, do ktorého majú byť jadrové materiály, špeciálne materiály a zariadenia vyvezené alebo z ktorého majú byť jadrové materiály dovezené,
+  - c) názov štátu, do ktorého majú byť jadrové materiály, špeciálne materiály a zariadenia vyvezené alebo z ktorého majú byť dovezené,
 
   - d) predpokladaný dátum dovozu alebo vývozu,
 
@@ -50,7 +50,7 @@ Príloha č. 2 k zákonu č. 541/2004 Z. z.
 
   - f) pri vývoze jadrových materiálov, špeciálnych materiálov a zariadení záruka od štátu prijímateľa, že s jadrovými materiálmi, špeciálnymi materiálmi a zariadeniami sa nebude nakladať v rozpore s požiadavkami medzinárodnej zmluvy, ktorou je Slovenská republika viazaná,<sup>1</sup>)
 
-  - g) pri dovoze jadrových materiálov, vyhlásenie žiadateľa o povolenie, v ktorom sa zaväzuje
+  - g) pri dovoze jadrových materiálov, špeciálnych materiálov a zariadení vyhlásenie žiadateľa o povolenie, v ktorom sa zaväzuje
 
     - 1. nepoužívať uvedený materiál alebo zariadenie na účely, ktoré by boli v rozpore s medzinárodnou zmluvou, ktorou je Slovenská republika viazaná,<sup>1</sup>) a napomáhali by dosiahnutie akýchkoľvek vojenských cieľov,
 

@@ -2,7 +2,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
 - DOKUMENTÁCIA JADROVÝCH ZARIADENÍ POTREBNÁ K JEDNOTLIVÝM ROZHODNUTIAM
 
-  - A. Dokumentácia potrebná k písomnej žiadosti o vydanie rozhodnutia o stavebnom zámere stavby a povolenia na umiestnenie stavby jadrového zariadenia podľa § 5 ods. 3 písm. o)
+  - A. Dokumentácia potrebná k písomnej žiadosti o súhlas na umiestnenie stavby jadrového zariadenia
 
     - a) zadávacia bezpečnostná správa,
 
@@ -20,7 +20,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - h) hodnotenie vplyvu jadrového zariadenia na životné prostredie, ak tak ustanovuje osobitný predpis,<sup>8</sup>) ako aj hodnotenie potenciálneho vplyvu okolitého prostredia na jadrové zariadenie.
 
-  - B. Dokumentácia potrebná k písomnej žiadosti o overenie projektu stavby
+  - B. Dokumentácia potrebná k písomnej žiadosti o stavebné povolenie na stavbu jadrového zariadenia
 
     - a) predbežná bezpečnostná správa, ktorá preukazuje plnenie zákonných požiadaviek na jadrovú bezpečnosť na základe údajov, o ktorých sa uvažuje v projekte,
 
@@ -34,7 +34,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - f) predbežný plán fyzickej ochrany,
 
-    - g) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu A písm. e),
+    - g) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu A písm. e),
 
     - h) predbežný vnútorný havarijný plán,
 
@@ -46,9 +46,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - l) predbežné vymedzenie veľkosti oblasti ohrozenia jadrovým zariadením spresnením údajov uvedených v bode A písm. g),
 
-    - m) dokumentácia podľa § 6 ods. 2 písm. j),
-
-    - n) povolenie pre spaľovne rádioaktívnych odpadov podľa osobitného predpisu.<sup>46a</sup>)
+    - m) dokumentácia podľa § 6 ods. 2 písm. j).
 
   - C. Dokumentácia potrebná k písomnej žiadosti o povolenie na uvádzanie jadrového zariadenia do prevádzky a prevádzku
 
@@ -62,7 +60,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - e) program prevádzkových kontrol vybraných zariadení,
 
-    - f) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu B písm. g),
+    - f) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu B písm. g),
 
     - g) prevádzkové predpisy určené úradom,
 
@@ -72,13 +70,13 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - j) pre jadrové zariadenia s jadrovým reaktorom pravdepodobnostné hodnotenie bezpečnosti prevádzky pre odstavený reaktor a pre nízke výkonové hladiny, ako aj pre plný výkon reaktora,
 
-    - k) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 10, ako aj opisu spôsobu vykonávania letu vo vzdušnom priestore zriadenom na ochranu jadrového zariadenia,
+    - k) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 8, ako aj opisu spôsobu vykonávania leteckých činností<sup>13</sup>) v objektoch alebo v blízkosti jadrového zariadenia,
 
     - l) plán nakladania s rádioaktívnymi odpadmi a s vyhoretým jadrovým palivom vrátane ich prepravy,
 
     - m) koncepčný plán vyraďovania jadrového zariadenia z prevádzky,
 
-    - n) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu okrem úložiska podľa osobitného predpisu,<sup>7b</sup>)
+    - n) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu okrem úložiska,
 
     - o) systém odbornej prípravy zamestnancov,
 
@@ -96,17 +94,13 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - v) vymedzenie veľkosti oblasti ohrozenia jadrovým zariadením spresnením údajov uvedených v bode B písm. l),
 
-    - w) dokumentácia podľa § 6 ods. 2 písm. j),
-
-    - x) súhlas na povolenie skúšobnej prevádzky alebo na predčasné užívanie podľa osobitného predpisu,<sup>46b</sup>)
-
-    - y) súhlas na trvalé užívanie zdroja podľa osobitného predpisu<sup>46c</sup>) pre trvalú prevádzku.
+    - w) dokumentácia podľa § 6 ods. 2 písm. j).
 
   - D. Dokumentácia potrebná k písomnej žiadosti o povolenie na etapu vyraďovania
 
     - a) limity a podmienky bezpečného vyraďovania,
 
-    - b) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia,
+    - b) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia,
 
     - c) vnútorný havarijný plán,
 
@@ -114,11 +108,11 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - e) koncepcia vyraďovania pre obdobie po skončení povoľovanej etapy vyraďovania,
 
-    - f) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 10, ako aj opisu spôsobu vykonávania letu vo vzdušnom priestore zriadenom na ochranu jadrového zariadenia,
+    - f) plán fyzickej ochrany vrátane zmluvy s Policajným zborom podľa § 26 ods. 8, ako aj opisu spôsobu vykonávania leteckých činností<sup>13</sup>) v objektoch alebo v blízkosti jadrového zariadenia,
 
     - g) plán nakladania a prepravy rádioaktívnych odpadov a plán nakladania s konvenčným odpadom z vyraďovania,
 
-    - h) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu podľa osobitného predpisu,<sup>7b</sup>)
+    - h) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu,
 
     - i) program kontrol vybraných zariadení,
 
@@ -156,22 +150,18 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - g) doklady o splnení kvalifikačných požiadaviek odborne spôsobilých zamestnancov,
 
-    - h) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia,
+    - h) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia,
 
     - i) zmeny hraníc jadrového zariadenia špecifikáciou údajov uvedených v bode C písm. u),
 
     - j) zmeny veľkosti oblasti ohrozenia jadrovým zariadením špecifikáciou údajov uvedených v bode C písm. v).
 
-  - F. Dokumentácia potrebná k písomnej žiadosti o súhlas na vyňatie jadrového zariadenia z pôsobnosti tohto zákona:
+  - F. Dokumentácia potrebná k písomnej žiadosti o súhlas na vyňatie jadrového zariadenia z pôsobnosti tohto zákona
 
     - a) konečný opis územia jadrového zariadenia vyradeného z prevádzky a všetkých prác vykonaných počas vyraďovania,
 
-    - b) súhrnné údaje o množstve a aktivite uložených alebo dlhodobo skladovaných rádioaktívnych odpadov a o množstve rádioaktívnych odpadov z vyraďovania a materiálov uvoľnených do životného prostredia,
+    - b) súhrnné údaje o množstve a aktivite uložených alebo dlhodobo skladovaných rádioaktívnych odpadov a o množstve ostatných odpadov a materiálov uvoľnených do životného prostredia,
 
     - c) zoznam údajov, ktoré sa budú uchovávať po skončení vyraďovania s uvedením času uchovávania,
 
-    - d) záverečné hodnotenie radiačnej situácie objektov a územia,
-
-    - e) inštitucionálne opatrenia na obmedzené využitie objektov a územia,
-
-    - f) zmluva podľa § 20 ods. 7, ak si to okolnosti vyžadujú.
+    - d) výsledky záverečnej kontroly radiačnej situácie podložené nezávislým overením vrátane stanoviska dozorného orgánu nad radiačnou ochranou.

@@ -1,19 +1,101 @@
 Príloha č. 4 k zákonu č. 541/2004 Z. z.
 
-- Zoznam preberaných právne záväzných aktov Európskej únie
+- ČASŤ A OBLASTI V JADROVEJ ENERGII, V KTORÝCH SA VYŽADUJE REGULOVANÉ VZDELÁVANIE ALEBO ASPOŇ PÄŤMESAČNÁ PRAX SÚVISIACA S
 
-  - 1. Smernica 62/302/ES z 5. marca 1962 o voľnom prístupe ku kvalifikovaným povolaniam v oblasti jadrovej energie (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES 57, 9. 7. 1962).
+  - a) výskumom jadrovej energie v oblastiach uvedených v časti B,
 
-  - 2. Smernica Rady 89/618/Euratom z 27. novembra 1989 o informovaní verejnosti o opatreniach na ochranu zdravia, ktoré sa majú uplatniť, a o krokoch, ktoré sa majú vykonať v prípade rádiologickej havarijnej situácie (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 1; Ú. v. ES L 357, 7. 12. 1989).
+  - b) riadením, údržbou, opravou alebo technickou prevádzkou objektov a zariadení na
 
-  - 3. Smernica Rady 2006/117/Euratom z 20. novembra 2006 o dozore a kontrole pri preprave rádioaktívneho odpadu a vyhoretého jadrového paliva (Ú. v. EÚ L 337, 5. 12. 2006).
+    - 1. výrobu, separáciu alebo akékoľvek použitie rúd, zdrojových materiálov alebo osobitných štiepnych materiálov alebo na prepracovanie vyhoretých jadrových palív,
 
-  - 4. Smernica Rady 2009/71/Euratom z 25. júna 2009, ktorou sa zriaďuje rámec Spoločenstva pre jadrovú bezpečnosť jadrových zariadení (Ú. v. EÚ L 172, 2. 7. 2009).
+    - 2. separáciu izotopov,
 
-  - 5. Smernica Rady 2011/70/Euratom z 19. júla 2011, ktorou sa zriaďuje rámec Spoločenstva pre zodpovedné a bezpečné nakladanie s vyhoretým palivom a rádioaktívnym odpadom (Ú. v. EÚ L 199, 2. 8. 2011).
+    - 3. výrobu osobitných materiálov potrebných v jadrovej oblasti, ako sú urýchľovače a konštrukčné, povlakové a tieniace materiály špeciálne navrhnuté na jadrové účely,
 
-  - 6. Smernica Európskeho parlamentu a Rady 2011/92/EÚ z 13. decembra 2011 o posudzovaní vplyvov určitých verejných a súkromných projektov na životné prostredie (kodifikované znenie) (Ú. v. EÚ L 26, 28. 1. 2012).
+    - 4. výrobu jadrovej energie,
 
-  - 7. Smernica Rady 2013/59/Euratom z 5. decembra 2013, ktorou sa stanovujú základné bezpečnostné normy ochrany pred nebezpečenstvami vznikajúcimi v dôsledku ionizujúceho žiarenia, a ktorou sa zrušujú smernice 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom a 2003/122/Euratom (Ú. v. EÚ L 13, 17. 1. 2014).
+    - 5. ukladanie jadrového odpadu a rádioaktívnych nečistôt,
 
-  - 8. Smernica Rady 2014/87/Euratom z 8. júla 2014, ktorou sa mení smernica 2009/71/Euratom z 25. júna 2009, ktorou sa zriaďuje rámec Spoločenstva pre jadrovú bezpečnosť jadrových zariadení (Ú. v. EÚ L 219, 25. 7. 2014).
+    - 6. prepravu alebo uskladnenie rádioaktívnych materiálov,
+
+    - 7. výrobu, prípravu alebo použitie rádioaktívnych izotopov,
+
+  - c) plánovaním, navrhovaním alebo výstavbou objektov alebo zariadení alebo nosných častí objektov alebo zariadení používaných v oblastiach uvedených v písmenách a) a b),
+
+  - d) ochranou proti žiareniu.
+
+- ČASŤ B ZOZNAM REGULOVANÝCH POVOLANÍ V OBLASTI JADROVEJ ENERGIE
+
+  - Povolanie, ktoré si vyžaduje vedomosti rovnocenné vedomostiam jadrového inžiniera alebo jadrového technika
+
+  - Povolanie, ktoré si vyžaduje vedomosti v jednej z nasledujúcich oblastí:
+
+  - a) pracovné podmienky typické v jadrovom odvetví a pri navrhovaní jadrových zariadení (jadrový inžinier a jadrový technik),
+
+  - b) špeciálne mechanické problémy v jadrovom odvetví a pri navrhovaní pomocných zariadení (strojný inžinier a technik),
+
+  - c) pôsobenie žiarenia na materiály a jadrové vlastnosti rôznych látok používaných ako palivá, urýchľovače a konštrukčné materiály pre jadrové zariadenia; príprava jadrových látok, prepracovanie vyhoretých palív, ukladanie rádioaktívneho odpadu alebo dekontaminácia (chemický inžinier a technik),
+
+  - d) vlastnosti keramiky používanej v oblasti jadrovej energie (oxidy uránu a tória, karbid uránu atď.) (inžinier a technik keramiky),
+
+  - e) vlastnosti konštrukčných materiálov pre jadrové reaktory, povlakových materiálov pre palivo a pre kovové palivo; správanie takýchto materiálov počas ožiarenia a za prítomnosti látok používaných v reaktoroch alebo v regeneračných zariadeniach (metalurgický inžinier a technik),
+
+  - f) riadenie jadrových reaktorov, meranie rádioaktivity (elektrotechnický inžinier a technik),
+
+  - g) neutrónová fyzika jadrových reaktorov a z toho vyplývajúce hlavné požiadavky (inžinier pre termodynamické analýzy a technik),
+
+  - h) špeciálne vlastnosti a prevádzkový dozor reaktora a opatrenia potrebné, ak ide o veľkú poruchu (prevádzkový inžinier a technik),
+
+  - i) vyhodnocovanie a kontrola technickej bezpečnosti reaktora a experimentálneho jadrového zariadenia (bezpečnostný inžinier a technik).
+
+  - Prospektor
+
+  - Povolanie, ktoré zahŕňa indikáciu rádioaktivity za pomoci špeciálnych prístrojov (Geigerove-Müllerove počítadlá atď.) v miestach označených geológmi; interpretácia informácií získaných na účel vedenia neskoršieho výskumu.
+
+  - Testovací vŕtač v uránových baniach
+
+  - Povolanie, ktoré si vyžaduje schopnosť riadiť činnosti súvisiace s testovacími vrtmi na účel stanovenia vlastností krajiny a zistenia prítomnosti rádioaktívnych materiálov a interpretovať informácie získané na účel smerovania neskorších činností.
+
+  - Vedúci uránovej bane
+
+  - Povolanie, ktoré zahŕňa vedenie, dohľad a/alebo kontrolu jednej alebo viacerých alebo všetkých podzemných sekcií alebo činností uránovej bane alebo vykonávanie technického výskumu alebo zložitých meraní a dohľadu plnenia bezpečnostných opatrení, ktoré si vyžaduje špeciálny charakter takýchto baní.
+
+  - Laboratórny technik
+
+  - Povolanie, ktoré zahŕňa štúdium rádioaktívnych rúd a v spolupráci s analytikmi vykonávanie chemických a fyzikálnych analýz vzoriek na účel stanovenia intenzity žiarenia vzoriek, ich chemického zloženia a iných vlastností.
+
+  - Odborný pracovník (príprava palivových článkov)
+
+  - Povolanie, ktoré zahŕňa vykonávanie činností pri výrobe palivových článkov kovaním, ich kontrolu a testovanie; príprava a akceptácia kovového pokrytia paliva.
+
+  - Operátor reaktora
+
+  - Povolanie, ktoré zahŕňa prevádzku reaktora a vyžaduje vedomosti zo základov elektrotechniky a dynamiky reaktora, ako aj schopnosť interpretovať schémy a lokalizovať a opravovať malé poruchy.
+
+  - Vedúci prevádzky reaktora
+
+  - Povolanie, ktoré zahŕňa prevádzku reaktora a vyžaduje dobré všeobecné vedomosti a dôkladné vedomosti o všetkých typických vlastnostiach reaktora; schopnosť vydávať príkazy a prijímať rozhodnutia.
+
+  - Odborný pracovník pre zavážanie, vyvážanie a chladenie jadrových palív
+
+  - Povolanie, ktoré si vyžaduje schopnosť manipulovať so zariadeniami na plnenie, vyprázdňovanie a chladenie jadrových palív v súlade s pokynmi.
+
+  - Laboratórny technik (horúce laboratórium)
+
+  - Povolanie, ktoré zahŕňa schopnosť interpretovať schémy a vykonávať potrebné montáže a nastavenia, vykonať samostatne testy v súlade s detailnými pokynmi a vyjadriť výsledky v kvantitatívnych energetických hladinách; vedomosti o nebezpečenstve vznikajúcom zo žiarenia a schopnosť používať prístroje na diaľkové ovládanie.
+
+  - Konštruktér (špecialista v jadrovej oblasti)
+
+  - Povolanie, ktoré si vyžaduje schopnosť pripraviť jednoduchý návrh z napísaných dát a tieto dáta znázorniť rýchlo vytvorenými nákresmi alebo skicami poskytujúcimi vizuálne znázornenie predmetu návrhu podľa zadania a používať platné nariadenia na ochranu proti žiareniu.
+
+  - Operátor (urýchľovač častíc)
+
+  - Povolanie, ktoré zahŕňa prevádzku a manipulovanie vysokonapäťových zariadení pre elektrostatické urýchľovače; konštruovanie, používanie a manipulovanie s iónovými zdrojmi; manipulovanie a prevádzka prístrojov na zisťovanie a meranie rádioaktivity atď.
+
+  - Technik radiačnej ochrany
+
+  - Povolanie, ktoré zahŕňa dohľad nad bezpečnosťou pracovníkov, ktorí prevádzkujú reaktory, alebo pracovníkov v uránových baniach alebo iných jadrových zariadení, a ktoré si vyžaduje hlboké poznatky o nebezpečenstvách, ktoré pochádzajú zo žiarenia, a o radiačnej ochrane.
+
+  - Technik dekontaminácie
+
+  - Povolanie, ktoré zahŕňa schopnosť vykonávať v prípade kontaminácie potrebné opatrenia a určité špeciálne dekontaminačné činnosti a v prípade potreby vykonať praktické opatrenia.
