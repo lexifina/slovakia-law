@@ -6,7 +6,7 @@
 
 (1) Zaopatrovací príspevok patrí, ak občan vykonáva základnú (náhradnú) službu v ozbrojených silách Českej a Slovenskej Federatívnej Republiky alebo civilnú službu<sup>20</sup>) namiesto tejto služby (ďalej len „vojak“),
 
-- a) dieťaťu vojaka uvedenému v § 71 ods. 2; dieťaťu, ktoré je zverené do pestúnskej starostlivosti, však nepatrí zaopatrovací príspevok z dôvodu rodinného vzťahu k rodičom,
+- a) dieťaťu vojaka uvedenému v § 100 ods. 3; dieťaťu, ktoré je zverené do pestúnskej starostlivosti, však nepatrí zaopatrovací príspevok z dôvodu rodinného vzťahu k rodičom,
 
 - b) manželke vojaka, ktorá sa stará o dieťa vo veku do troch rokov alebo je invalidná alebo z iného vážneho dôvodu nie je zárobkovo činná,
 

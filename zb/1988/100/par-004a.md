@@ -6,7 +6,7 @@
 
 - b) osoby, ktoré majú oprávnenie prevádzkovať živnosť,<sup>1c</sup>)
 
-- c) osoby, ktoré majú oprávnenie na vykonávanie činnosti podľa osobitných predpisov,<sup>1d</sup>)
+- c) osoby, ktoré majú oprávnenie na vykonávanie činnosti podľa osobitných predpisov,<sup>1d</sup>) s výnimkou znalcov a tlmočníkov, ak vykonávajú činnosť podľa osobitného predpisu<sup>1da</sup>) v konaní pred štátnymi orgánmi a orgánmi, na ktoré prešli úlohy štátnych orgánov,
 
 - d) osoby, ktoré vykonávajú umeleckú alebo inú tvorivú činnosť na základe zákona o literárnych, vedeckých a umeleckých dielach (autorský zákon) <sup>1e</sup>) mimo pracovnoprávnych a obdobných vzťahov, ak túto činnosť podľa svojho vyhlásenia vykonávajú sústavne a ak súčasne nevykonávajú iné činnosti uvedené v tomto odseku,
 
