@@ -1,0 +1,1 @@
+- *) Najmä vyhláška č. 156/1968 Zb. o veterinárnom vyšetrení domácich zakáľačiek niektorých jatočných zvierat.
