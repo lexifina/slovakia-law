@@ -6,7 +6,7 @@
 
 - 5) Zákon č. 110/1964 Zb. o telekomunikáciách v znení neskorších predpisov.
 
-- 6) § 5 vyhlášky Federálneho ministerstva spojov č. 51/1985 Zb., ktorou sa vydáva Rozhlasový a televízny poriadok, v znení vyhlášky č. 76/1987 Zb., vyhlášky č. 39/1988 Zb. a vyhlášky č. 315/1990 Zb.
+- 6) § 4 zákona Národnej rady Slovenskej republiky č. 212/1995 Z. z. o koncesionárskych poplatkoch a o zmene zákona č. 468/1991 Zb. o prevádzkovaní rozhlasového a televízneho vysielania v znení neskorších predpisov.
 
 - 7) Druhá časť zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
 
