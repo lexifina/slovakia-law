@@ -1,0 +1,3 @@
+# Článok IX
+
+Aktívna a iniciatívna účasť pracujúcich a ich podiel na riadení národného hospodárstva, najmä na vytváraní plánov, zvyšovaní hospodárnosti, uzavieraní hospodárskych zmlúv a na kontrole plnenia plánov i hospodárskych zmlúv, je predpokladom trvalého rozvoja národného hospodárstva. Túto účasť pracujúcich a ich podiel na riadení zabezpečujú spoločenské organizácie, najmä Revolučné odborové hnutie a orgány socialistickej samosprávy. Orgány socialistických organizácií sú povinné vytvárať vhodné predpoklady rozširovania účasti pracujúcich a zvyšovania ich podielu na riadení národného hospodárstva.
