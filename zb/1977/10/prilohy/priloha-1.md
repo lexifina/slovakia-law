@@ -1,119 +1,255 @@
 Príloha č. 1 vyhlášky č. 10/1977 Zb.
 
-- Zoznam vodárenských tokov (SSR) Por. č. toku | Názov toku | Číslo hydrolog. poradia<sup>4</sup>) | Ukončujúci profil (názov lokality)
+- ZOZNAM VODÁRENSKÝCH TOKOV Por. č. | Názov toku | Číslo hydrologického poradia *) | Vodárenský tok v úseku |
 
-- 1. | Mlynica | 3-01-02-014 | Štrbské Pleso
+- | | | od km | do km
 
-- 2. | Červený potok | 3-01-02-043 | Nový Smokovec
+- 1. | Javorinka | 3-01-01-007 | 10,60 | 18,50
 
-- 3. | Biela voda | 3-01-03-004 | Kežmarok
+- 2. | Lipník | 3-01-01-039 | 1,85 | 14,50
 
-- 4. | Jakubianka | 3-01-03-083 | Jakubany
+- 3. | Poprad | 3-01-02-002 | 139,90 | 142,50
 
-- 5. | Čierny Váh | 4-21-01-020 | Chmelinec
+- | Ľadový potok | 3-01-02-001 | 0,00 | 2,00
 
-- 6. | Hybica | 4-21-01-058 | Hybe
+- 4. | Veľký Šum | 3-01-02-005 | 4,20 | 7,80
 
-- 7. | Belá | 4-21-01-072 | Podbanské
+- 5. | Mlynica | 3-01-02-012 | 17,20 | 21,60
 
-- 8. | Demänovka | 4-21-02-060 | Demänová
+- 6. | Hromadná voda | 3-01-02-032 | 2,00 | 3,40
 
-- 9. | Revúca | 4-21-02-112 | Liptovská Osada
+- 7. | Slavkovský potok | 3-01-02-041 | 11,80 | 16,20
 
-- 10. | Ľubochnianka | 4-21-02-138 | Ľubochňa
+- 8. | Štiavnik | 3-01-02-042 | 4,50 | 8,30
 
-- 11. | Biela Orava | 4-21-03-010 | Lomná
+- 9. | Studený potok | 3-01-02-053 | 9,25 | 16,80
 
-- 12. | Polhoranka | 4-21-03-062 | Oravská Polhora
+- 10. | Kežmarská Biela voda | 3-01-03-003 | 6,60 | 18,20
 
-- 13. | Oravica | 4-21-04-016 | Tvrdošín
+- | Zelený potok | 3-01-03-002 | 0,00 | 3,80
 
-- 14. | Zázrivka | 4-21-04-077 | Párnica
+- 11. | Lomnický potok | 3-01-03-049 | 3,50 | 7,20
 
-- 15. | Turiec | 4-21-05-022 | Turček
+- 12. | Jakubianka | 3-01-03-075 | 10,00 | 21,50
 
-- 16. | Kysuca | 4-21-06-044 | Čadca
+- 13. | Ipoltica | 4-21-01-016 | 0,00 | 17,20
 
-- 17. | Oščadnica | 4-21-06-069 | Oščadnica
+- 14. | Kamenistý potok | 4-21-01-073 | 0,00 | 7,30
 
-- 18. | Bystrica | 4-21-06-077 | Nová Bystrica
+- 15. | Demänovka | 4-21-02-028 | 4,10 | 18,30
 
-- 19. | Soľka | 4-22-01-008 | Soľka
+- | Priečny potok | 4-21-02-028 | 0,00 | 3,60
 
-- 20. | Tužina | 4-22-01-012 | Tužina
+- | Otupnianka | 4-21-02-029 | 0,00 | 3,50
 
-- 21. | Osliansky potok | 4-22-01-078 | Horná Ves
+- | Zadná voda | 4-21-02-029 | 0,00 | 6,80
 
-- 22. | Nitrica | 4-22-01-094 | Liešťany
+- 16. | Ľubochnianka | 4-21-02-120 | 5,60 | 24,70
 
-- 23. | Žitava | 4-22-03-007 | Obyce
+- 17. | Nová rieka | 4-21-03-002 | 0,00 | 4,60
 
-- 24. | Kamenistý potok | 4-23-01-104 | Hronček
+- 18. | Riečka | 4-21-03-018 | 0,00 | 2,80
 
-- 25. | Osrblianka | 4-23-01-106 | Osrblie
+- 19. | Mútňanka | 4-21-03-022 | 12,70 | 22,40
 
-- 26. | Vajskovský potok | 4-23-02-019 | Dolná Lehota
+- 20. | Polhoranka | 4-21-03-054 | 15,60 | 27,00
 
-- 27. | Jaseniansky potok | 4-23-02-033 | Jasenie
+- 21. | Studený potok | 4-21-04-020 | 14,00 | 25,80
 
-- 28. | Slatina | 4-23-03-009 | Hriňová
+- 22. | Turiec | 4-21-05-020 | 69,40 | 77,40
 
-- 29. | Hučava | 4-23-03-070 | Očová
+- 23. | Pivovarský potok | 4-21-05-099 | 3,85 | 7,90
 
-- 30. | Ipeľ | 4-24-01-007 | Málinec
+- 24. | Kysuca | 4-21-06-012 | 30,80 | 63,50
 
-- 31. | Litava | 4-24-03-068 | Drienovo
+- 25. | Stankovský potok | 4-21-06-051 | 1,80 | 3,10
 
-- 32. | Vydranka | 4-30-03-022 | Vydraň
+- 26. | Oščadnica | 4-21-06-063 | 7,20 | 13,20
 
-- 33. | Udava | 4-30-03-085 | Adidovce
+- 27. | Bystrica | 4-21-06-073 | 20,80 | 31,20
 
-- 34. | Cirocha | 4-30-03-105 | Starina
+- 28. | Klubinský potok | 4-21-06-090 | 0,00 | 8,70
 
-- 35. | Čierny potok | 4-30-03-128 | Zemplínske Hámre
+- 29. | Petrovička | 4-21-07-007 | 8,00 | 16,50
 
-- 36. | Kamenica | 4-30-03-141 | Kamienka
+- 30. | Štiavnik | 4-21-07-048 | 9,50 | 19,20
 
-- 37. | Okna | 4-30-06-030 | Remetské Hámre
+- 31. | Papradnianka | 4-21-07-056 | 11,30 | 22,00
 
-- 38. | Surový potok | 4-30-06-049 | Koňuš
+- 32. | Tužina | 4-21-11-010 | 7,25 | 15,00
 
-- 39. | Breznický potok | 4-30-06-053 | Priekopa
+- 33. | Nitrica | 4-21-11-084 | 33,70 | 51,60
 
-- 40. | Vojtovec | 4-30-08-061 | Vojtovce
+- 34. | Čierny Hron | 4-23-01-080 | 15,85 | 25,40
 
-- 41. | Ondava | 4-30-08-116 | Hencovce
+- | Čierny potok | 4-23-01-081 | 0,00 | 4,30
 
-- 42. | Topľa | 4-30-09-039 | Bardejov
+- 35. | Kamenistý potok | 4-23-01-098 | 0,40 | 25,80
 
-- 43. | Slaná | 4-31-01-003 | Rejdová
+- 36. | Osrblianka | 4-23-01-106 | 6,50 | 15,90
 
-- 44. | Súľovský potok | 4-31-01-029 | Gemerská Poloma
+- 37. | Vajskovský potok | 4-23-02-020 | 2,70 | 17,50
 
-- 45. | Čučmiansky potok | 4-31-01-038 | Čučma
+- 38. | Jaseniansky potok | 4-23-02-029 | 5,60 | 18,60
 
-- 46. | Klenovská Rimava | 4-31-03-026 | Klenovec
+- 39. | Slatina | 4-23-03-001 | 48,00 | 58,95
 
-- 47. | Bodva | 4-31-04-005 | Nižný Medzev
+- 40. | Hučava | 4-23-03-068 | 15,00 | 28,20
 
-- 48. | Zábava | 4-31-04-016 | Poproč
+- 41. | Smrečník | 4-23-04-038 | 0,00 | 4,50
 
-- 49. | Ida | 4-31-04-031 | Bukovec
+- 42. | Vydričný potok | 4-23-04-067 | 1,65 | 5,56
 
-- 50. | Hornád | 4-32-01-030 | Smižany
+- 43. | Prochotský potok | 4-23-04-078 | 12,50 | 14,90
 
-- 51. | Levočský potok | 4-32-01-049 | Levoča
+- 44. | Vyhniansky potok | 4-23-04-081 | 12,70 | 12,80
 
-- 52. | Zimná | 4-32-01-060 | Rudňany
+- 45. | Starohutský potok | 4-23-04-115 | 5,80 | 8,40
 
-- 53. | Slovinský potok | 4-32-01-101 | Slovinky
+- 46. | Ipeľ | 4-24-01-001 | 179,80 | 197,90
 
-- 54. | Herlíkov potok | 4-32-02-057 | Prakovce
+- 47. | Litava | 4-24-03-060 | 14,80 | 47,80
 
-- 55. | Tokáreň | 4-32-02-063 | Perlová dolina
+- 48. | Daňová | 4-30-03-020 | 2,70 | 6,15
 
-- 56. | Svinka | 4-32-03-056 | Obišovce
+- | Kryštálový potok | 4-30-03-020 | 0,00 | 1,80
 
-- 57. | Torysa | 4-32-04-013 | Tichý Potok
+- 49. | Udáva | 4-30-03-064 | 11,70 | 39,00
 
-- 58. | Lutinka | 4-32-04-053 | Olejníkov
+- 50. | Cirocha | 4-30-03-087 | 37,25 | 55,20
+
+- 51. | Barnov | 4-30-03-121 | 7,30 | 9,80
+
+- 52. | Čierny potok | 4-30-03-121 | 0,90 | 2,50
+
+- 53. | Hybkaňa | 4-30-03-121 | 0,10 | 2,60
+
+- 54. | Kamenica | 4-30-03-130 | 7,70 | 19,50
+
+- 55. | Suchý potok | 4-30-03-135 | 0,90 | 5,50
+
+- 56. | Zbojský potok | 4-30-05-012 | 14,50 | 21,40
+
+- 57. | Ráztoka | 4-30-05-013 | 0,00 | 4,90
+
+- 58. | Bystriansky potok | 4-30-05-014 | 0,00 | 4,50
+
+- 59. | Brusný potok | 4-30-05-043 | 1,20 | 4,30
+
+- 60. | Žiarovnica | 4-30-06-010 | 11,20 | 15,30
+
+- 61. | Syrový potok | 4-30-06-021 | 3,10 | 9,30
+
+- 62. | Ondava | 4-30-08-001 | 51,20 | 148,70
+
+- | Rusinec | 4-30-08-013 | 0,00 | 3,90
+
+- | Ladomirka | 4-30-08-017 | 0,00 | 20,70
+
+- | Zimný potok | 4-30-08-037 | 0,00 | 3,65
+
+- | Chotčianka | 4-30-08-038 | 0,00 | 26,20
+
+- | Kazimírsky potok | 4-30-08-104 | 0,00 | 9,50
+
+- 63. | Topia | 4-30-09-001 | 62,90 | 136,80
+
+- 64. | Lysá | 4-30-09-130 | 0,00 | 1,30
+
+- 65. | Hermanovský potok | 4-30-09-143 | 6,20 | 10,90
+
+- 66. | Slaná | 4-31-01-001 | 84,30 | 92,60
+
+- 67. | Súľovský potok | 4-31-01-023 | 4,60 | 14,00
+
+- 68. | Rožňavský potok | 4-31-01-032 | 5,20 | 13,10
+
+- 69. | Lepkavý potok | 4-31-01-047 | 0,60 | 5,70
+
+- 70. | Židlovský potok | 4-31-01-063 | 0,80 | 4,40
+
+- 71. | Klenovská Rimava | 4-31-03-016 | 7,25 | 22,00
+
+- 72. | Kokavka | 4-31-03-038 | 1,30 | 13,50
+
+- 73. | Hornád | 4-32-01-001 | 136,70 | 178,60
+
+- | Bystrá | 4-32-01-004 | 0,00 | 15,20
+
+- | Veľká Biela voda | 4-32-01-024 | 0,00 | 12,80
+
+- 74. | Holubnica | 4-32-01-036 | 10,40 | 12,00
+
+- 75. | Čierny potok | 4-32-01-041 | 0,75 | 2,20
+
+- 76. | Peklisko | 4-32-01-046 | 0,50 | 5,10
+
+- 77. | Smrdiace mláky | 4-32-01-047 | 0,80 | 2,70
+
+- 78. | Zimná | 4-32-01-062 | 2,20 | 4,20
+
+- 79. | Slovinský potok | 4-32-01-098 | 8,85 | 16,20
+
+- 80. | Poráčsky potok | 4-32-01-101 | 6,00 | 11,40
+
+- 81. | Stará voda | 4-32-02-027 | 0,00 | 12,60
+
+- 82. | Bystrý potok | 4-32-02-033 | 7,65 | 10,00
+
+- 83. | Smolník | 4-32-02-044 | 13,00 | 19,40
+
+- 84. | Veľký Hutný potok | 4-32-02-055 | 2,60 | 5,00
+
+- 85. | Hrelíkov potok | 4-32-02-057 | 3,30 | 5,50
+
+- 86. | Perlový potok | 4-32-02-062 | 5,20 | 12,00
+
+- 87. | Žakarovský potok | 4-32-02-064 | 4,50 | 5,40
+
+- 88. | Kojšovský potok | 4-32-02-065 | 7,70 | 15,80
+
+- 89. | Myslavský potok | 4-32-03-070 | 15,50 | 19,30
+
+- 90. | Torysa | 4-32-04-001 | 109,20 | 131,70
+
+- | Rovinný potok | 4-32-04-004 | 0,00 | 4,40
+
+- | Olsavica | 4-32-04-006 | 0,00 | 5,10
+
+- | Škapová | 4-32-04-008 | 0,00 | 6,80
+
+- 91. | Ľutinka | 4-32-04-048 | 8,40 | 17,10
+
+- 92. | Veľký potok | 4-32-04-070 | 0,00 | 14,00
+
+- 93. | Pastevník | 4-32-04-081 | 4,70 | 8,20
+
+- 94. | Fričkovský potok | 4-32-04-085 | 5,00 | 8,30
+
+- 95. | Hrabovec | 4-32-04-091 | 10,30 | 13,80
+
+- 96. | Šebastovka | 4-32-04-116 | 9,50 | 13,00
+
+- | Šebastovík | 4-32-04-116 | 0,70 | 4,20
+
+- 97. | Sigordský potok | 4-32-04-127 | 0,45 | 2,60
+
+- 98. | Svinický potok | 4-32-05-022 | 13,70 | 16,70
+
+- | Medvedí potok | 4-32-05-022 | 0,00 | 0,40
+
+- 99. | Bodva | 4-33-01-001 | 39,00 | 48,40
+
+- | Porča | 4-33-01-004 | 0,00 | 4,70
+
+- 100. | Piverský potok | 4-33-01-006 | 1,00 | 4,30
+
+- 101. | Zlatná | 4-33-01-008 | 2,90 | 8,50
+
+- 102. | Zábava | 4-33-01-017 | 5,90 | 8,10
+
+- | Hájny potok | 4-33-01-017 | 0,00 | 1,80
+
+- 103. | Ida | 4-33-01-027 | 37,50 | 53,70
+
+- *) Číslo hydrologického poradia je určené podlá vodohospodárskej mapy v mierke 1 : 50 000, 2. vydanie.
