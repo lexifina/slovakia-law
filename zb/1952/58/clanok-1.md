@@ -1,0 +1,21 @@
+# Čl. I.
+
+Ustanovenie § 10 zákona č. 168/1948 Sb., o doplnení Slovenskej národnej rady podľa výsledku volieb do Národného shromaždenia, sa mení a zneje:
+
+„§ 10.
+
+(1)
+
+Ak sa uprázdni mandát, povoláva sa za poslanca Slovenskej národnej rady náhradník z osôb uvedených na listine, sostavenej Ústredným akčným výborom Slovenského národného frontu. Náhradníka povoláva povereník vnútra na návrh Ústredného akčného výboru Slovenského národného frontu.
+
+(2)
+
+Do listiny sa môžu pojať iba osoby voliteľné do Národného shromaždenia.
+
+(3)
+
+Listina musí obsahovať meno, priezvisko, zamestnanie a bydlisko všetkých náhradníkov. K listine treba pripojiť vlastnoručne podpísané vyhlásenie všetkých náhradníkov, že so svojím zaradením na listinu súhlasia a že sú voliteľní (odsek 2).
+
+(4)
+
+Povolanie náhradníka vyhlási povereník vnútra v Úradnom vestníku.“.
