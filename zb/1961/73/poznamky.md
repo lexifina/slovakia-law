@@ -1,0 +1,1 @@
+- *) Podmienkou prijatia je vyučenie v učebnom odbore Pestovateľ-chovateľ, Pestovateľka-chovateľka - č. 1301.
