@@ -1,1 +1,0 @@
-- *) Tieto stavby boli určené najmä vládnymi uzneseniami č. 502 z 11. júna 1962 a č. 938 z 3. októbra 1962.
