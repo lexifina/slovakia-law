@@ -4,4 +4,4 @@
 
 (2) Pokutu nemožno uložiť, ak bola organizácii za to isté porušenie pracovnoprávnych predpisov uložená už pokuta alebo iná majetková sankcia iným orgánom podľa osobitných predpisov.
 
-(3) Pri ukladaní pokút sa postupuje podľa všeobecných predpisov o správnom konaní. Pokuty plynú do príslušného štátneho rozpočtu. To isté platí o ukladaní poriadkových pokút (§ 270a ods. 4).
+(3) Pri ukladaní pokút sa postupuje podľa všeobecných predpisov o správnom konaní. Pokuty sú príjmom Fondu zamestnanosti Slovenskej republiky. To isté platí o ukladaní poriadkových pokút (§ 270a ods. 4).

@@ -10,6 +10,6 @@
 
 (4) Pracovníkom organizácie, ktorí v určenej lehote nesplnia povinnosť, ktorá je im uložená podľa odsekov 2 a 3, môže pracovník poverený vykonaním kontroly uložiť poriadkovú pokutu až do sumy 1 000 Kčs, a to aj opätovne, ak uložená povinnosť nebola splnená ani v novourčenej lehote. Poriadkovú pokutu možno uložiť v lehote jedného roka odo dňa, keď k nesplneniu povinnosti došlo.
 
-(5) V zariadeniach ozbrojených síl a ozbrojených zborov v pôsobnosti Federálneho ministerstva obrany, Federálneho ministerstva vnútra, ministerstiev vnútra a ministerstiev spravodlivosti republík a v orgánoch spoločenských organizácií možno kontrolu podľa odseku 1 vykonávať len so súhlasom príslušných ústredných orgánov.
+(5) V zariadeniach ozbrojených síl a ozbrojených zborov v pôsobnosti ministerstva obrany, ministerstva vnútra, ministerstiev vnútra a ministerstiev spravodlivosti republík a v orgánoch spoločenských organizácií možno kontrolu podľa odseku 1 vykonávať len so súhlasom príslušných ústredných orgánov.
 
 (6) Kontrolnou činnosťou podľa odseku 1 nie sú dotknuté povinnosti orgánov podľa § 26 ani kontrolné oprávnenia iných orgánov podľa osobitných predpisov.
