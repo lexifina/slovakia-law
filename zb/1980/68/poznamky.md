@@ -1,1 +1,0 @@
-- 1) § 5 a 6 zákona č. 50/1973 Zb. o pestúnskej starostlivosti.
