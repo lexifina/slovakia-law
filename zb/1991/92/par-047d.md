@@ -1,6 +1,6 @@
 # § 47d
 
-(1) Ak rozhodnutie o privatizácii podniku uvedeného v § 10 ods. 2 určuje vloženie časti majetku alebo celého majetku do akciovej spoločnosti a zároveň určuje majetkovú účasť štátu v spoločnosti, prechádza dňom vzniku akciovej spoločnosti výkon práv a povinností štátu ako akcionára tejto spoločnosti na zakladateľa sprivatizovaného štátneho podniku.
+(1) Ak rozhodnutie o privatizácii podniku uvedeného v § 10 ods. 2 určuje vloženie časti majetku alebo celého majetku do akciovej spoločnosti a zároveň určuje majetkovú účasť fondu v spoločnosti, prechádza dňom vzniku akciovej spoločnosti výkon práv a povinností fondu ako akcionára tejto spoločnosti na zakladateľa sprivatizovaného podniku.
 
 (2) V akciových spoločnostiach uvedených v § 10 ods. 2 prevedie fond na základe zmluvy do 30 dní odo dňa účinnosti tohto zákona výkon práv a povinností akcionára na zakladateľa.
 
