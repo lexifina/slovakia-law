@@ -118,107 +118,111 @@ Príloha č. 1 k nariadeniu vlády č. 213/2004 Z. z.
 
   - 3. angiológia
 
-  - 4. dorastové lekárstvo
+  - 4. diabetológia, poruchy látkovej premeny a výživy
 
-  - 5. epidemiológia
+  - 5. dorastové lekárstvo
 
-  - 6. farmakoekonomika
+  - 6. epidemiológia
 
-  - 7. foniatria
+  - 7. farmakoekonomika
 
-  - 8. gerontopsychiatria
+  - 8. foniatria
 
-  - 9. gynekologická sexuológia
+  - 9. gerontopsychiatria
 
-  - 10. gynekologická urológia
+  - 10. gynekologická sexuológia
 
-  - 11. hepatológia
+  - 11. gynekologická urológia
 
-  - 12. hygiena detí a mládeže
+  - 12. hepatológia
 
-  - 13. hygiena výživy
+  - 13. hygiena detí a mládeže
 
-  - 14. hygiena životného prostredia
+  - 14. hygiena výživy
 
-  - 15. klinické pracovné lekárstvo a klinická toxikológia
+  - 15. hygiena životného prostredia
 
-  - 16. letecké lekárstvo
+  - 16. klinické pracovné lekárstvo a klinická toxikológia
 
-  - 17. mamológia
+  - 17. letecké lekárstvo
 
-  - 18. materno-fetálna medicína
+  - 18. mamológia
 
-  - 19. medicína drogových závislostí
+  - 19. materno-fetálna medicína
 
-  - 20. medicínska informatika a bioštatistika
+  - 20. medicína drogových závislostí
 
-  - 21. neonatológia
+  - 21. medicínska informatika a bioštatistika
 
-  - 22. ochrana zdravia pred ionizujúcim žiarením
+  - 22. neonatológia
 
-  - 23. onkológia v gynekológii
+  - 23. ochrana zdravia pred ionizujúcim žiarením
 
-  - 24. onkológia v chirurgii
+  - 24. onkológia v gynekológii
 
-  - 25. onkológia v urológii
+  - 25. onkológia v chirurgii
 
-  - 26. ortopedická protetika
+  - 26. onkológia v urológii
 
-  - 27. paliatívna medicína
+  - 27. ortopedická protetika
 
-  - 28. pediatrická endokrinológia
+  - 28. paliatívna medicína
 
-  - 29. pediatrická gastroenterológia, hepatológia a výživa
+  - 29. pediatrická endokrinológia
 
-  - 30. pediatrická gynekológia
+  - 30. pediatrická gastroenterológia, hepatológia a výživa
 
-  - 31. pediatrická hematológia a onkológia
+  - 31. pediatrická gynekológia
 
-  - 32. pediatrická kardiológia
+  - 32. pediatrická hematológia a onkológia
 
-  - 33. pediatrická imunológia a alergiológia
+  - 33. pediatrická kardiológia
 
-  - 34. pediatrická anestéziológia
+  - 34. pediatrická imunológia a alergiológia
 
-  - 35. pediatrická infektológia
+  - 35. pediatrická anestéziológia
 
-  - 36. pediatrická nefrológia
+  - 36. pediatrická infektológia
 
-  - 37. pediatrická neurológia
+  - 37. pediatrická nefrológia
 
-  - 38. pediatrická oftalmológia
+  - 38. pediatrická neurológia
 
-  - 39. pediatrická ortopédia
+  - 39. pediatrická oftalmológia
 
-  - 40. pediatrická otorinolaryngológia
+  - 40. pediatrická ortopédia
 
-  - 41. pediatrická pneumológia a ftizeológia
+  - 41. pediatrická otorinolaryngológia
 
-  - 42. pediatrická reumatológia
+  - 42. pediatrická pneumológia a ftizeológia
 
-  - 43. pediatrická urgentná medicína
+  - 43. pediatrická reumatológia
 
-  - 44. preventívne pracovné lekárstvo a toxikológia
+  - 44. pediatrická urgentná medicína
 
-  - 45. posudkové lekárstvo
+  - 45. preventívne pracovné lekárstvo a toxikológia
 
-  - 46. psychiatrická sexuológia
+  - 46. primárna starostlivosť o deti a dorast
 
-  - 47. reprodukčná medicína
+  - 47. posudkové lekárstvo
 
-  - 48. revízne lekárstvo
+  - 48. psychiatrická sexuológia
 
-  - 49. súdne lekárstvo
+  - 49. reprodukčná medicína
 
-  - 50. telovýchovné lekárstvo
+  - 50. revízne lekárstvo
 
-  - 51. ultrazvuk v gynekológii a pôrodníctve
+  - 51. súdne lekárstvo
 
-  - 52. výchova k zdraviu
+  - 52. telovýchovné lekárstvo
 
-  - 53. závodné zdravotné služby
+  - 53. ultrazvuk v gynekológii a pôrodníctve
 
-  - 54. zdravotnícka ekológia
+  - 54. výchova k zdraviu
+
+  - 55. závodné zdravotné služby
+
+  - 56. zdravotnícka ekológia
 
   - e) Certifikované pracovné činnosti v certifikovaných metódach
 
