@@ -182,7 +182,7 @@
 
       - Čl. 19. Jak se mají cestující chovati. Náhrada za poškození nebo znečištění.
 
-        - § 1. Cestující se musí sám starati, aby nastoupil v nástupní stanici nebo přestoupil v přestupní stanici do správného vlaku a vystoupil na správné straně v cílové stanici nebo nezastavuje-li tam vlak, ve stanici před ní.
+        - § 1. Cestujúci sa musí sám starať, aby na určených miestach a na správnej strane v nástupnej stanici nastúpil alebo v prestupnej stanici prestúpil do správneho vlaku, ako aj v cieľovej stanici vystúpil z vlaku alebo, ak nezastavuje tam vlak, v stanici pred ňou. Ak je vlak v pohybe, nesmie cestujúci otvárať dvere vozňa, vychyľovať sa von z okien, vystupovať alebo nastupovať, ani sa zdržiavať na stúpadlách, spojovacích môstkoch a plošinách vozňa, okrem prípadu, že je užitie spojovacích môstkov alebo pobyt na plošinách výslovne dovolený.
 
         - § 2. Provozovati podomní obchod, kočovnou živnost nebo hudbu, žebrati, cestující obtěžovati nebo ohrožovati na zdraví nebo na bezpečnosti je zakázáno. Užívati psacích a podobných hlukem obtěžujících strojů je dovoleno jen za souhlasu cestujících téhož oddílu.
 
@@ -512,7 +512,7 @@
 
       - § 5. Neustanovuje-li tarif jinak, je železnice povinna pro účely přepravní smlouvy zjistiti při přijetí spěšniny počet kusů a váhu; odesilateli je dovoleno zúčastniti se tohoto zjišťování. Tarif určuje, zda železnice počítá za zjištění počtu kusů nebo váhy poplatek a jaký.
 
-      - § 6. Přepravní smlouva je sjednána, jakmile přijme železnice ku přepravě spěšninu a spěšninový lístek. Po přijetí spěšniny ku přepravě vydá zavazadlová výpravna odesilateli druhopis spěšninového lístku.
+      - § 6. Přepravní smlouva je sjednána, jakmile přijme železnice ku přepravě spěšninu a spěšninový lístek. Po prijatí spešniny na prepravu vydá železnica odosielateľovi druhopis spešninového lístku, pokiaľ tarifa neustanovuje inak.
 
       - § 7. Tarif stanoví podmínky pro výpočet a placení přepravného (dovozného a vedlejších poplatků), jakož i zda a za kterých podmínek jest odesilateli dovoleno uložiti na spěšninu dobírku. Poskytnutí zálohy může železnice odepříti.
 
@@ -992,23 +992,23 @@
 
         - § 5. Zboží, které má nakládati železnice, jakož i železniční vozidlo přepravované na vlastních kolech je povinen odesilatel odevzdati železnici na místech ustanovených železnicí buď trvale nebo případ od případu. Podej musí býti ukončen ve lhůtě, která trvá alespoň 24 hodin (lhůta prostá skladištného nebo lhůta prostá stojného), pokud pro některé zboží nebo pro některá železniční vozidla tento řád anebo tarif neustanovuje jinak (viz i § 13). Neodevzdal-li odesilatel ve lhůtě prosté skladištného všechno zboží zapsané v nákladním listu nebo ve lhůtě prosté stojného železniční vozidlo přepravované na vlastních kolech, vybere železnice po uplynutí těchto lhůt za zboží skladištné nebo za železniční vozidlo přepravované na vlastních kolech stojné.
 
-        - § 6. Zboží, které má nakládati odesilatel, jest odesilatel povinen nakládati ve stanici na místech, ustanovených železnicí buď trvale nebo případ od případu. Nakládání musí býti ukončeno ve lhůtě, která se stanoví vývěskem ve stanici (nakládací lhůta), pokud pro některé zboží tento řád nebo tarif neustanovuje jinak. Nenaložil-li odesilatel v nakládací lhůtě všechno zboží zapsané v nákladním listu, vybere železnice po uplynutí této lhůty zdržné. Je-li nakládací lhůta překročena, může železnice zboží na útraty a nebezpečí odesilatelovo vyložiti a vzíti na sklad nebo odevzdati na sklad špeditérovi nebo do veřejného skladiště, při čemž odpovídá za pečlivost řádného obchodníka; učiní-li tak, podá odesilateli o tom na jeho útraty zprávu.
+        - § 6. Zboží, které má nakládati odesilatel, jest odesilatel povinen nakládati ve stanici na místech ustanovených železnicí buď trvale nebo případ od případu. Nakládání musí býti ukončeno ve lhůtě, která trvá alespoň 24 hodin (nakládací lhůta), pokud pro některé zboží tento řád anebo tarif neustanovuje jinak (viz i § 13). Nenaložil-li odesilatel v nakládací lhůtě všechno zboží zapsané v nákladním listu, vybere železnice po uplynutí této lhůty zdržné. Uplynula-li nakládací lhůta teprve po 14. hodině v den, který přímo předchází neděli, zákonný svátek nebo památný den, nevybírá železnice za neděli, zákonný svátek nebo památný den zdržné; následuje-li tu však neděle a zákonný svátek nebo památný den, nebo zákonný svátek a památný den, anebo několik zákonných svátků nebo památných dnů přímo po sobě, vybírá železnice zdržné za jeden z těchto dnů. Je-li nakládací lhůta překročena o více než 24 hodin, může železnice zboží na útraty a nebezpečí odesilatelovo vyložiti a vzíti na sklad nebo odevzdati na sklad špeditérovi nebo do veřejného skladiště, při čemž odpovídá za pečlivost řádného obchodníka; učiní-li tak, podá odesilateli o tom na jeho útraty zprávu.
 
         - § 7. Železnice vybírá skladištné, stojné nebo zdržné též tehdy, jestliže odesilatel ve lhůtách uvedených v §§ 5 nebo 6 neodevzdal železnici nákladní list nebo nevrátil opravený nákladní list, který mu železnice vrátila pro nesprávnost, nepřesnost nebo neúplnost, že učinil zápisy na jiném místě než pro ně určeném anebo že nepřipojil k nákladnímu listu předepsané listiny průvodní (srovnej však čl. 57, § 1). Tytéž poplatky vybírá železnice i tehdy, jestliže odesilatel v těchto lhůtách buď nezaplatil pohledávky železnice, pokud mají býti placeny napřed, anebo nedal na ně přibližnou jistotu.
 
         - § 8. Neustanovuje-li tarif jinak, není dovoleno v neděli, o zákonných svátcích nebo o památných dnech podávati nákladní zboží. Rychlé zboží může býti podáváno, nepřekáží-li nic řízení celnímu, bernímu, finančnímu, policejnímu nebo řízení jiných úřadů správních.
 
-        - § 9. Podej kusového zboží jest odesilatel povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která jest oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.
+        - § 9. Podávanie a nakladanie tovaru je odosielateľ povinný vykonať v čase určenom tarifou alebo výveskom na stanici; okrem tohto času len so súhlasom stanice, ktorá je oprávnená vyberať za to poplatok určený tarifou alebo výveskom na stanici.
 
         - § 9a. Podej a nakládání vozových zásilek je odesilatel povinen provésti v době od 7 do 19 hodin, pokud stanice vývěskem nebo případ od případu nestanovila jinak.
 
-        - § 10. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 5) a nakládací lhůta (§ 6) se staví po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem. Lhůta prostá skladištného se staví též v neděli, o zákonných svátcích nebo památných dnech.
+        - § 10. Lehota oslobodená od skladištného alebo lehota oslobodená od stojného (§ 5) a nakladacia lehota (§ 6) spočíva za čas plnenia predpisov colných, daňových, finančných, policajných alebo predpisov iných správnych úradov, pokiaľ plnenie nebolo zdržované odosielateľom, lehota oslobodená od skladištného alebo lehota oslobodená od stojného aj v nedeľu, v zákonných sviatkoch alebo pamätných dňoch. Železnica môže so schválením dozorného úradu vyhlásiť, že v nedeľu, v zákonných sviatkoch alebo pamätných dňoch spočíva i nakladacia lehota; také spočívanie lehoty sa nevzťahuje však na zásielky, pre ktoré bol vozeň objednaný výslovne na nedeľu, zákonný sviatok alebo pamätný deň.
 
         - § 11. Železnice může v místě odesílací stanice nebo z okolních míst sama nebo povozníky přivážeti zboží na stanici za poplatek, který vyhlásí vývěskem ve stanici. Osoby, kterých při tom užije, se pokládají za zaměstnance železnice podle čl. 101, která odpovídá jako povozník. Tyto osoby jsou povinny předložiti na požádání poplatkový tarif. Odesilatelé mají na vůli buď užíti tohoto opatření, nebo si zboží přivážeti nebo dáti je přivážeti.
 
         - § 12. Pro podej zásilek může železnice zříditi pobočné výpravny.
 
-        - § 13. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného nebo stojného, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné, zdržné nebo poplatek za odvolání objednaného vozu. Tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
+        - § 13. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného, stojného nebo nakládací lhůtu, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné, zdržné nebo poplatek za odvolání objednaného vozu. Výjimečně může železnice zkrátiti nakládací lhůtu až na 6 denních hodin, nakládá-li odesilatel do vozu, z kterého vyložil zboží pro něho došlé. Železnice může též odvolati úlevy ve výpočtu zdržného uvedené v § 6. Všechna tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
 
       - Čl. 61. Zatímní úschova.
 
@@ -1124,23 +1124,23 @@
 
         - § 1. Zboží, které má vykládati železnice, jakož i železniční vozidlo přepravované na vlastních kolech má příjemce odebrati ve stanici určení na místech ustanovených železnicí buď trvale nebo případ od případu v odběrní lhůtě, která trvá alespoň 24 hodin (lhůta prostá skladištného nebo lhůta prostá stojného), pokud pro některé zboží nebo pro některá železniční vozidla tento řád anebo tarif neustanovuje jinak (viz i § 9).
 
-        - § 2. Zboží, které má vykládati příjemce, má odebrati a vykládati na místech ustanovených železnicí buď trvale nebo případ od případu v odběrní lhůtě, která se stanoví vývěskem ve stanici (vykládací lhůta), pokud pro některé zásilky tento řád nebo tarif neustanovuje jinak.
+        - § 2. Zboží, které má vykládati příjemce, má příjemce odebrati a vykládati na místech ustanovených železnicí buď trvale nebo případ od případu v odběrní lhůtě, která trvá alespoň 24 hodin (vykládací lhůta), pokud pro některé zásilky tento řád anebo tarif neustanovuje jinak. (Viz i § 9.)
 
         - § 3. Odběrní lhůta (§§ 1 a 2) se počíná okamžikem, kdy se pokládá zpráva o příchodu zásilky za uskutečněnou (čl. 66, § 3). Nebyla-li však zásilka včas přichystána k odběru nebo navrhl-li odesilatel v nákladním listu, aby byla zásilka ponechána na dráze na přihlášku, nebo zřekl-li se příjemce zprávy písemně nebo není-li zpráva možná, počíná se odběrní lhůta přichystáním zásilky k odběru.
 
         - § 4. Neustanovuje-li tento řád anebo tarif jinak, není dovoleno v neděli, o zákonných svátcích neb o památných dnech odebírati nákladní zboží. Rychlé zboží může býti odebráno, nepřekáží-li nic řízení celnímu, bernímu, finančnímu, policejnímu nebo řízení jiných úřadů správních.
 
-        - § 5. Odběr a odvezení zásilek, které má vykládati železnice, je příjemce povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která jest oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.
+        - § 5. Odber a odvezenie zásielok, v prípade § 2 aj vykladanie zásielok, je príjemca povinný vykonať v čase určenom tarifou alebo výveskom na stanici; okrem toho času len so súhlasom stanice, ktorá je oprávnená vyberať za to poplatok určený tarifou alebo výveskom na stanici.
 
         - § 5a. Odběr a vykládku vozových zásilek je příjemce povinen provésti v době od 7 do 19 hodin, pokud stanice vývěskem nebo případ od případu nestanovila jinak.
 
-        - § 6. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 1) a vykládací lhůta (§ 2) se staví po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem nebo příjemcem. Lhůta prostá skladištného se staví též v neděli, o zákonných svátcích nebo památných dnech.
+        - § 6. Lehota oslobodená od skladištného alebo lehota oslobodená od stojného (§ 1) a vykladacia lehota (§ 2) spočíva za čas plnenia predpisov colných, daňových, finančných, policajných alebo predpisov iných úradov správnych, pokiaľ plnenie nebolo zdržované odosielateľom alebo príjemcom, lehota oslobodená od skladištného alebo lehota oslobodená od stojného aj v nedeľu, v zákonných sviatkoch alebo pamätných dňoch. Železnica môže so schválením dozorného úradu vyhlásiť, že v nedeľu, v zákonných sviatkoch alebo pamätných dňoch spočíva i vykladacia lehota.
 
-        - § 7. Nebyla-li zásilka v odběrní lhůtě (§§ 1, 2 a 6) odebrána, v případě § 2 i vyložena, vybírá železnice po uplynutí této lhůty skladištné, stojné nebo zdržné. Je-li vykládací lhůta překročena, může železnice zásilku na útraty a nebezpečí oprávněného vyložiti; učiní-li tak, podá oprávněnému o tom na jeho útraty zprávu.
+        - § 7. Nebyla-li zásilka v odběrní lhůtě (§§ 1, 2 a 6) odebrána, v případě § 2 i vyložena, vybírá železnice po uplynutí této lhůty skladištné, stojné nebo zdržné. Uplynula-li vykládací lhůta teprve po 14. hodině v den, který přímo předchází neděli, zákonný svátek nebo památný den, nevybírá železnice za neděli, zákonný svátek nebo památný den zdržné; následuje-li tu však neděle a zákonný svátek nebo památný den, anebo zákonný svátek a památný den, anebo několik zákonných svátků nebo památných dnů přímo po sobě, vybírá železnice zdržné za jeden z těchto dnů. Je-li vykládací lhůta překročena o více než 24 hodin, může železnice zásilku na útraty a nebezpečí oprávněného vyložiti; učiní-li tak, podá oprávněnému o tom na jeho útraty zprávu.
 
         - § 8. Hlásí-li se příjemce, kterému byla o příchodu zásilky podána zpráva, k odběru a nelze-li mu přichystati zásilku nejpozději za hodinu, kdy se dostavil, nahradí železnice příjemci na žádost útraty vzešlé tím, že se marně pokusil zásilku odebrati. Na požádání příjemce potvrdí železnice v nákladním listu, že se marně pokusil o odběr.
 
-        - § 9. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného nebo stojného, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné nebo zdržné. Tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
+        - § 9. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného, stojného nebo vykládací lhůtu, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné nebo zdržné. Výjimečně může železnice zkrátiti vykládací lhůtu až na 6 denních hodin, vykládá-li příjemce z vozu, do kterého potom nakládá. Železnice může též odvolati úlevy ve výpočtu zdržného uvedené v § 7. Všechna tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
 
       - Čl. 68. Placení pohledávek železnice.
 
@@ -1178,7 +1178,7 @@
 
         - § 3. Je dovoleno zapsati do nákladního listu několik platebních záznamů uvedených v § 2 odst. a) až f), které se vzájemně doplňují.
 
-        - § 4. U zboží, které - podle úsudku odesílací stanice - rychle se kazí nebo svou nepatrnou hodnotou nebo svou povahou nehradí bezpečně přepravné, jakož i u zboží, které má býti přepravováno za zlevněné dovozné, je železnice oprávněna stanoviti tarifem, zda-li má býti zaplaceno odesilatelem přepravné podle § 2a), anebo má-li býti placeno příjemcem. Viz i přílohu A.
+        - § 4. U zboží, které - podle úsudku odesílací stanice - rychle se kazí nebo svou nepatrnou hodnotou nebo svou povahou nehradí bezpečně přepravné, jakož i u zboží, které má býti přepravováno za zlevněné dovozné, je železnice oprávněna stanoviti tarifem, zda-li má býti zaplaceno odesilatelem přepravné podle § 2a), anebo má-li býti placeno příjemcem.
 
         - § 5. Nelze-li při podeji přesně určiti dovozné nebo jeho část anebo vedlejší poplatky anebo výdaje, které má odesilatel platiti, může odesílací stanice žádati, aby odesilatel dal přibližnou jistotu za ty částky, které nelze přesně vypočísti; o tom vydá mu stvrzenku. Tyto částky budou zapsány do výplatního účtu, podle kterého je železnice povinna nejpozději do 14 dnů po odevzdání nákladního listu příjemci provésti s odesilatelem zúčtování. Při zúčtování vydá odesílací stanice odesilateli výplatní účet, vrátí-li stvrzenku o jistotě. Danou jistotu železnice nezúročí.
 
