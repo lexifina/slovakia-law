@@ -1,6 +1,8 @@
 - 1) § 2 ods. 1 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 105/1981 Zb. o dokumentácii stavieb.
 
-- 2) Jednotné metodické pokyny Štátnej plánovacej komisie pre vypracovanie návrhov päťročných a vykonávacích plánov.
+- 2) Jednotné metodické pokyny pre ministerstvá a ostatné ústredné orgány ČSSR a republík na vypracovanie návrhu päťročného plánu a päťročného rozpočtového výhľadu na roky 1986-1990 a návrhu vykonávacieho plánu a rozpočtu na rok 1986 (oznámené v čiastke 10/1985 Zb.).
+
+- 2a) Smernice Federálneho štatistického úradu k štátnym štatistickým výkazom za úsek investičná výstavba „5 Iv" z 11. júna 1985 (oznámené v čiastke 1/1986 Zb.).
 
 - 3) § 17 vyhlášky č. 105/1981 Zb.
 
@@ -23,6 +25,10 @@
 - Zásady postupu pri prerokúvaní návrhov na rozmiestňovanie (lokalizáciu) investícií s orgánmi oblastného plánovania (Ú. v. ČSR č. 1/1983 a Ú. v. SSR č. 1/1983).
 
 - 12) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 157/1976 Zb. o režimoch stavieb.
+
+- 12a) § 295 ods. 1 Hospodárskeho zákonníka.
+
+- 12b) Štátny plán rozvoja národného hospodárstva ČSSR na roky 1986-1990.
 
 - 13) Smernice Federálneho štatistického úradu 5 Iv, výkaz Iv RS 2b-12.
 
