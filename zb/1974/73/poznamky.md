@@ -1,6 +1,8 @@
-- 1) Spoločná rozhlasová a televízna anténa (STA) je v zmysle ČSN 34 2830 "Předpisy pro společné rozvody rozhlasových a televizních signálů" najjednoduchším typom spoločného rozvodu rozhlasových a televíznych signálov po kábloch, keď sa tento rozvod realizuje iba terciárnou sieťou pozostávajúcou zo súosého kábla s príslušenstvom, ktorým sa rozvádzajú signály zo vstupnej časti k jednotlivým účastníkom v obytnej budove.
+- 1) Systémami pre spoločný príjem a rozvod televíznych a rozhlasových signálov sa podľa ČSN 36 7211-1. časť rozumejú spoločné televízne antény (STA) a televízne káblové rozvody (TKR).
 
-- 2) Toto ustanovenie sa nevzťahuje na uskutočňovanie typových a informačných skúšok na odrušenie podľa zákona č. 30/1968 Zb. o štátnom skúšobníctve a vyhl. ÚNM č. 32/1968 Zb., ktorou sa vykonáva zákon o štátnom skúšobníctve. Odrušenie musí vyhovovať ČSN 34 2850 "Základní předpisy pro ochranu rádiového příjmu před rušením" a pridruženým normám.
+- 2) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 2a) ČSN 36 7211 atď.
 
 - 3) ČSN 34 2000 "Základní předpisy pro elektrická sdělovací zařízení".
 
