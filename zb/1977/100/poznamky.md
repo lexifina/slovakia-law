@@ -50,7 +50,7 @@
 
 - 15) Zákon č. 147/1983 Zb. o zbraniach a strelive v znení zákona č. 49/1990 Zb.
 
-- 16) Zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánoch štátnej správy v znení zákona SNR č. 197/1991 Zb. a zákona č. 298/1991 Zb.
+- 16) § 24 a § 26 ods. 7 zákona Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 471/2001 Z. z.Zákon Národnej rady Slovenskej republiky č. 291/1996 Z. z. o odrodách a osivách v znení zákona č. 470/2002 Z. z.
 
 - 17) § 5 ods. 4 a 5 zákona SNR č. 131/1991 Zb. o štátnom fonde zveľaďovania lesa Slovenskej republiky.
 
