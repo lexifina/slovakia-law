@@ -3242,29 +3242,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - Položka 233
 
-    - a) Podanie prihlášky označenia pôvodu výrobkov ..... | 2 000 Sk
+    - a) Podanie prihlášky označenia pôvodu výrobku alebo zemepisného označenia výrobku ..... | 2 000 Sk
 
     - b) Podanie žiadosti o |
 
-    - 1. zápis ďalšieho užívateľa označenia pôvodu výrobkov ..... | 2 000 Sk
+    - 1. zápis zmeny špecifikácie poľnohospodárskeho výrobku alebo potraviny, alebo vymedzenia výrobku ..... | 500 Sk
 
-    - 2. zápis prevodu alebo prechodu zapísaného označenia pôvodu výrobkov na iného užívateľa ..... | 600 Sk
-
-    - 3. zápis zmeny mena, priezviska alebo trvalého pobytu, obchodného mena, názvu alebo sídla prihlasovateľa alebo užívateľa označenia pôvodu výrobkov ..... | 200 Sk
-
-    - 4. zápis zmeny zástupcu prihlasovateľa alebo užívateľa označenia pôvodu výrobkov ..... | 200 Sk
-
-    - 5. zápis každého ďalšieho rozhodujúceho údaja do registra označení pôvodu ..... | 200 Sk
-
-    - Oslobodenie Od poplatku podľa písmena b) druhého bodu tejto položky sú oslobodené žiadosti podľa zákona č. 92/1991 Zb. v znení neskorších predpisov. |
+    - 2. zápis každého ďalšieho rozhodujúceho údaja do registra označení pôvodu alebo zemepisných označení ..... | 200 Sk
 
       - Položka 234
 
-    - Návrh na zrušenie zápisu označenia pôvodu výrobkov ..... | 2 000 Sk
+    - Návrh na zrušenie označenia pôvodu výrobku alebo zemepisného označenia výrobku ..... | 2 000 Sk
 
       - Položka 235
 
-    - Podanie žiadosti o medzinárodný zápis označenia pôvodu výrobkov ................................... | 1 000 Sk
+    - Podanie žiadosti o medzinárodný zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku ............................................................................................................ | 1 000 Sk
 
   - XVII. ČASŤ METROLÓGIA, TECHNICKÁ NORMALIZÁCIA, ŠTÁTNE SKÚŠOBNÍCTVO A CERTIFIKÁCIA
 
