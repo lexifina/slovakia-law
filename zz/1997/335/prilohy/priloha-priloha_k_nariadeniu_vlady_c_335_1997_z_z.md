@@ -1,1 +1,0 @@
-Príloha k nariadeniu vlády č. 335/1997 Z. z. [Vzor - Výpočet odvodu podľa § 3 nariadenia vlády Slovenskej republiky č. 335/1997 Z. z.](../assets/8a6edfb06c109fe17e8a1c2e05827a4ba62cb192786611b9b8b69ac39a0ea41d.pdf)
