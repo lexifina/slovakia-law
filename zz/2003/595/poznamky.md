@@ -272,7 +272,7 @@
 
 - 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
-- 123) § 2 zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+- 123) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 124) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
 
@@ -319,6 +319,8 @@
 - 145) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 146) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
+- 146a) § 35 a 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 147) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
