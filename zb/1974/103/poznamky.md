@@ -1,8 +1,14 @@
 - 1) Zákon č. 22/1964 Zb. o evidencii nehnuteľností a § 3 ods. 1 vyhlášky č. 23/1964 Zb., ktorou sa vykonáva zákon č. 22/1964 Zb. o evidencii nehnuteľností.
 
+- 1) Na rok 1978 a ďalšie roky, pokiaľ nebude ustanovené inak, sú to: limit výdavkov na pohostenie a dary, limit nákladov na cestovné a limit ostatných služieb nemateriálnej povahy.
+
 - 2) Časť B bod 5 písm. e) prílohy vyhlášky č. 23/1964 Zb., ktorou sa vykonáva zákon č. 22/1964 Zb. o evidencii nehnuteľností.
 
+- 2) § 2 ods. 1 č. 2 písm. e) vyhlášky č. 157/1975 Zb. o usmerňovaní mzdového vývoja a odmieňaní práce.
+
 - 3) § 14 zákona č. 53/1966 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
+
+- 3) § 57 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov.
 
 - 4) § 360a Hospodárskeho zákonníka č. 109/1964 Zb., úplné znenie č. 37/1971 Zb.
 
