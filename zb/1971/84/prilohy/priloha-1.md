@@ -8,7 +8,7 @@
 
   - Článok 2
 
-    - Poslaním domov kultúry je prispievať k lepšiemu poznaniu kultúrnych a materiálnych hodnôt národov oboch krajín organizovaním kultúrnych akcií, poskytovaním informácií a predajom kultúrnych statkov.
+    - Poslaním domov kultúry je prispievať k lepšiemu poznaniu kultúrnych a materiálnych hodnôt národov oboch krajín organizovaním kultúrnych akcií, poskytovaním informácií.
 
     - Domy kultúry budú tiež prispievať k plneniu ustanovení vykonávacích plánov Dohody o kultúrnej spolupráci, platných medzi oboma štátmi.
 
@@ -46,15 +46,11 @@
 
     - Akcie nezaradené do programu sa prerokujú osobitne.
 
-    - Predajná činnosť domov kultúry podlieha právnym predpisom prijímajúceho štátu a jeho orgány majú právo ju kontrolovať.
-
   - Článok 9 Domy kultúry vyvíjajú:
 
     - a) činnosť v oblasti literatúry, divadla, filmu, hudby, výtvarného umenia, vedy, školstva a osvety, a to formou výstav, koncertov, recitálov, filmových predstavení, literárnych večerov, stretnutí s vedcami a kultúrnymi pracovníkmi, jazykových kurzov a ďalšími formami;
 
-    - b) informačnú činnosť o kultúrnom, hospodárskom a politickom živote zriaďujúceho štátu formou konzultácií, vypožičiavania kníh a periodík z fondu knižnice, usporadúvania prednášok a besied, rozširovania informačných materiálov, vydávania informačného bulletinu a ďalšími formami;
-
-    - c) predajnú činnosť kultúrneho tovaru.
+    - b) informačnú činnosť o kultúrnom, hospodárskom a politickom živote zriaďujúceho štátu formou konzultácií, vypožičiavania kníh a periodík z fondu knižnice, usporadúvania prednášok a besied, rozširovania informačných materiálov, vydávania informačného bulletinu a ďalšími formami.
 
   - Článok 10
 
@@ -78,7 +74,7 @@
 
   - Článok 14
 
-    - Domy kultúry si môžu zriadiť bežné účty v Kčs, respektíve v Lei v štátnych alebo obchodných bankách prijímajúceho štátu v súlade s jeho platnými predpismi.
+    - Domy kultúry si môžu zriadiť bežné účty v Kčs, respektíve v Lei v štátnych bankách prijímajúceho štátu v súlade s jeho platnými predpismi.
 
   - Článok 15
 
