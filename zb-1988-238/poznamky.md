@@ -1,0 +1,1 @@
+- 1) Prílohy č. 1 až 4 nariadenia vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu.
