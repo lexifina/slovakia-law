@@ -12,14 +12,6 @@ Príloha B zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 3. | | | 15 | rozhodovanie o vykonaní pozemkových úprav z dôvodov zvláštneho všeobecného záujmu
 
-4. | | zák. SNR č. 78/1976 Zb. | 4 ods. 1 | udeľovanie predchádzajúceho súhlasu, ak ide o poľnohospodársku pôdu s výmerou do 3 hektárov alebo o inú poľnohospodársku pôdu s výmerou nad 1 ha do 5 ha
-
-5. | | | 4 ods. 1 písm. a) | udeľovanie súhlasu k návrhom na určenie dobývacích priestorov
-
-6. | | | 4 písm. b) | rozhodovanie o udelení predchádzajúceho súhlasu; pritom určujú aj zásadné podmienky na zabezpečenie ochrany poľnohospodárskeho pôdneho fondu, schvaľujú plán rekultivácie, pripadne určujú osobitný režim jeho vykonávania
-
-7. | | | 4 ods. 2 písm. b) | vyhradzovanle si povoľovania zmien kultúr vnútri poľnohospodárskeho pôdneho fondu, ak ide o značný rozsah, pripadne dosah zmien
-
 8. | rybárstva | zák. č. 102/1963 Zb. | 5 | ukladanie investorovi vykonať výstavbu náhradného rybníka
 
 9. | | | 12 ods. 1 | vyhlasovanie časti rybárskych revírov za chránené rybie oblasti a určovanie potrebných obmedzení všeobecného užívania vody

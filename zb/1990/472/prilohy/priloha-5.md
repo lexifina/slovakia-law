@@ -74,8 +74,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 33. | | | 19 ods. 1 | požadovanie od plemenárskych organizácii, aby im oznámili chovateľov a pripárovacie plány párenia koni
 
-34. | | zák. SNR č. 78/1976 Zb. | 2 ods. 1 | zisťovanie v obvode svojej pôsobnosti poľnohospodárskych pozemkov, pri ktorých doterajšie hospodárske využitie je menej výnosné ako pri ornej pôde, prerokúvanie ich premeny na ornú pôdu s orgánmi štátneho hospodárskeho riadenia poľnohospodárstva a s užívateľmi (vlastníkmi) pôdy a oprávnenie uložiť takúto premenu
-
 35. | rybárstva | zák. č. 102/1963 Zb. | 9 ods. 4 | schvaľovanie rybárskeho hospodára a jeho zástupcu
 
 36. | | | 11 ods. 1 | vydávanie rybárskych lístkov

@@ -106,50 +106,6 @@ Príloha D zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 | | | 12a ods. 3 | zrušovanie práva užívania hospodárskej budovy
 
-52. | | zák. SNR č. 78/1976 Zb. | 2 ods. 2 | prerokúvanie vykonávania prác pri geologickom a hydrogeologickom prieskume a pri budovaní, opravách a údržbe nadzemných a podzemných vedení na poľnohospodárskych pozemkoch
-
-53. | | | 3 ods. 1 písm. a) | rozhodovanie o pochybnostiach o tom, či ide o súčasti poľnohospodárskeho pôdneho fondu
-
-54. | | | 3 ods. 1 písm. b) | zisťovanie a vyhlasovanie pozemkov za súčasť poľnohospodárskeho pôdneho fondu a robenie opatrení na ich využitie na poľnohospodársku výrobu
-
-55. | | | 3 ods. 1 písm. c) | povoľovanie zmien kultúr vo vnútri poľnohospodárskeho pôdneho fondu
-
-56. | | | 3 ods. 1 písm. d) | ukladanie užívateľom (vlastníkom) poľnohospodárskych pozemkov opatrení potrebných na intenzívne a racionálne využívanie týchto pozemkov na poľnohospodársku výrobu a na zvyšovanie ich úrodnosti a užívateľom (vlastníkom) ostatných pozemkov patriacich do poľnohospodárskeho pôdneho fondu na riadne udržiavanie týchto pozemkov
-
-57. | | | 3 ods. 1 písm. e) | udeľovanie súhlasu k návrhom územných plánov zón, ak udeľovanie tohto súhlasu neprislúcha ministerstvu
-
-58. | | | 3 ods. 1 písm. f) | udeľovanie súhlasu k návrhom trás nadzemných a podzemných vedení
-
-59. | | | 3 ods. 1 písm. g) | určovanie plôch, na ktoré sa má odviezť a rozložiť vrchná kultúrna vrstva pôdy, pripadne aj hlbšie uložené zúrodnenia schopné zeminy, ktoré boli získané skrývkou
-
-60. | | | 3 ods. 1 písm. h) | schvaľovanie plánov na dokončenie pôvodných úprav a prác na zahladenie následkov ťažby alebo inej priemyselnej činnosti
-
-61. | | | 3 ods. 1 písm. i) | povoľovanie výnimiek z povinnosti vykonať skrývku kultúrnej vrstvy pôdy pri geologickom a hydrogeologickom prieskume a pri budovaní, opravách a údržbe nadzemných a podzemných vedení na poľnohospodárskych pozemkoch a v ostatných prípadoch
-
-62. | | | 3 ods. 1 písm. j) | udeľovanie súhlasu na odňatie poľnohospodárskej pôdy poľnohospodárskej výrobe na dobu dlhšiu ako jeden rok prevádzateľom geologických a hydrogeologických prieskumných prác a investorom stavieb nadzemných a podzemných vedení
-
-63. | | | 3 ods. 1 písm. k) | rozhodovanie v pochybnostiach o tom, či pri odňatí poľnohospodárskej pôdy poľnohospodárskej výrobe ide o podstatný zásah do hospodárenia poľnohospodárskej organizácie
-
-64. | | | 3 ods. 1 písm. l) | rozhodovanie o odňatí poľnohospodárskej pôdy poľnohospodárskej výrobe a o odňatí súčasti poľnohospodárskeho pôdneho fondu, ktoré nie sú poľnohospodárskou pôdou, a určovanie podmienok, za ktorých odňatie povoľujú
-
-65. | | | 3 ods. 1 písm. m) | predpisovanie odvodov za odňatie poľnohospodárskej pôdy poľnohospodárskej výrobe
-
-66. | | | 3 ods. 1 písm. n) | schvaľovanie dohôd o odstránení ekonomickej ujmy a ak nedôjde k tejto dohode alebo ak uzavretá dohoda nie je v súlade s právnymi predpismi, rozhodovanie o povinnosti ekonomickú ujmu odstrániť a určovanie lehôt na jej splnenie
-
-67. | | | 3 ods. 1 písm. o) | ukladanie pokút organizáciám a ich pracovníkom
-
-68. | | | 3 ods. 2 písm. a) | udeľovanie súhlasu s návrhom na určenie dobývacích priestorov, ak ide o poľnohospodársku pôdu, ktorej výmera nepresahuje 1 ha
-
-69. | | | 3 ods. 2 písm. b) | rozhodovanie o udelení predchádzajúceho súhlasu, ak ide o poľnohospodársku pôdu, ktorej výmera nepresahuje 1 ha; určovanie zásadných podmienok na zabezpečenie ochrany poľnohospodárskeho pôdneho fondu, schvaľovanie plánov rekultivácie, pripadne určovanie osobitných režimov jeho vykonávania
-
-70. | | | 3 ods. 3 | rozhodovanie so súhlasom ministerstva, pripadne so súhlasom ministerstva a Ministerstva financií Slovenskej republiky o znížení odvodov za odňatie poľnohospodárskej pôdy poľnohospodárskej výrobe
-
-71. | | | 3 ods. 4 | rozhodovanie v pochybnostiach o tom, či poľnohospodárske pozemky patria do zastavaného územia obce
-
-72. | | | 3 ods. 5 | prerokúvanie použitia poľnohospodárskej pôdy na nepoľnohospodárske účely po dobu kratšiu ako jeden rok; prijímanie hlásenia o ukončení nepoľnohospodárskeho použitia tejto pôdy a jej uvedenia do pôvodného stavu
-
-73. | | | 3 ods. 6 | vyhradzovanle ukladania opatrení pre jednotlivé prípady
-
 75. | | zák. č. 110/1987 Zb. | 4 písm. b) | určovanie miesta výstav, trhov, prehliadok alebo súťaži zvierat, pripadne zvodov zvierat na iné účely po dohode s príslušným orgánom veterinárnej správy a povoľovanie ich konania
 
 76. | | | 4 písm. c) | rozhodovanie o poskytovaní podpôr a náhrad na úhradu alebo zmiernenie škôd, pripadne nákladov vzniknutých vykonávaním ochranných zdolávacích opatrení, ako aj škôd vzniknutých uhynutím zvierat v dôsledku nákazy alebo iného hromadného ochorenia zvierat
