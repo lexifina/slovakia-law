@@ -108,6 +108,10 @@ Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých 
 
 - 23. V § 106 v novooznačenom odseku 7 sa v prvej vete vypúšťa slovo „ministerstvo,".
 
+- 24. V § 107 ods. 1 poslednej vete sa slová „30 dní" nahrádzajú slovami „15 dní".
+
+- 25. V § 108 ods. 1 poslednej vete sa slová „30 dní" nahrádzajú slovami „15 dní".
+
 - 26. Za § 153 sa vkladá § 153a, ktorý znie:
 
 - „§ 153a
