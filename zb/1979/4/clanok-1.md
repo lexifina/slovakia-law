@@ -78,7 +78,7 @@ Vyhláška č. 74/1970 Zb., ktorou sa upravuje uvoľňovanie, umiestňovanie a h
 
 - (5)
 
-- Mzdové vyrovnanie poskytne pracovníkovi v termínoch určených na výplatu mzdy organizácia, ktorá ho prijala do zamestnania, z ostatných osobných nákladov.<sup>1</sup>) Poskytnutú sumu mzdového vyrovnania uhradí tejto organizácii uvoľňujúca organizácia z ostatných osobných nákladov, a to po skončení doby, za ktorú mzdové vyrovnanie patrí.
+- Mzdové vyrovnanie poskytne pracovníkovi v termínoch určených na výplatu mzdy organizácia, ktorá ho prijala do zamestnania, z ostatných osobných nákladov.<sup>1</sup>) Poskytnutú sumu mzdového vyrovnania uhradí tejto organizácii uvoľňujúca organizácia z ostatných osobných nákladov.
 
 - (6)
 
