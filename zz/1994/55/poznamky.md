@@ -5,3 +5,5 @@
 - 3) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
 - 4) Vyhláška Federálneho štatistického úradu č. 114/1972 Zb. o zavedení a využívaní jednotnej klasifikácie výkonov v znení neskorších predpisov.
+
+- 5) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.

@@ -1,6 +1,8 @@
 Príloha č. 2 vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z.
 
-[Príloha 02](../assets/2731ea327a66ca13eb6b918eae8b5a5400c8d547b3f9c50de90aaa48a43b2049.pdf)
+Denný výkaz obratov platiteľa dane z pridanej hodnoty
+
+[Príloha 02](../assets/b9f99233792bcd27039e332f02e7dd1a05df76fefba8d1a33653489eac92acae.pdf)
 
 1. Dátum - uvedie sa dátum vykonania uzávierky.
 
@@ -18,16 +20,18 @@ Príloha č. 2 vyhlášky Ministerstva financií Slovenskej republiky č. 55/199
 
 8. Denný obrat v sadzbe 25 % DPH - uvedie sa denný obrat uskutočnený v sadzbe dane z pridanej hodnoty 25 %.
 
-9. Denná DPH v sadzbe 6 % - uvedie sa daň z pridanej hodnoty v sadzbe 6 % spolu.
+9. Denný obrat oslobodený – uvedie sa denný obrat oslobodený od dane z pridanej hodnoty (napr. v prípade predaja liekov oslobodených podľa zákona o dani z pridanej hodnoty).
 
-10. Denná DPH v sadzbe 25 % - uvedie sa daň z pridanej hodnoty v sadzbe 25 % spolu.
+10. Denná DPH v sadzbe 6 % - uvedie sa daň z pridanej hodnoty v sadzbe 6 % spolu.
 
-11. Storno - uvedie sa výdavok z pokladnice za vrátený tovar.
+11. Denná DPH v sadzbe 25 % - uvedie sa daň z pridanej hodnoty v sadzbe 25 % spolu.
+
+12. Storno - uvedie sa výdavok z pokladnice za vrátený tovar.
 
 Zľavy - uvedú sa množstvové zľavy.
 
 Záporné položky - uvedie sa výber z pokladnice v hotovosti.
 
-12. Mesačný obrat - uvedie sa súčet obratov v jednotlivých sadzbách dane z pridanej hodnoty za deň.
+13. Mesačný obrat - uvedie sa súčet obratov v jednotlivých sadzbách dane z pridanej hodnoty za deň.
 
-13. Podpis pokladníka - podpis pokladníka, ktorý vykonal uzávierku.
+14. Podpis pokladníka - podpis pokladníka, ktorý vykonal uzávierku.
