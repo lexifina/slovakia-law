@@ -10,4 +10,6 @@
 
 (3) Bližšie podmienky pre zriaďovanie a činnosť súkromných škôl ustanoví ministerstvo školstva, a pokiaľ ide o súkromné stredné zdravotnícke školy, po dohode s Ministerstvom zdravotníctva Slovenskej republiky vyhláškou.
 
-(4) Vláda Slovenskej republiky ustanoví nariadením podmienky a výšku poskytovania dotácií súkromným školám.
+(4) Žiakov, ktorí úspešne skončia ôsmy ročník základnej školy, možno prijať do prvého ročníka strednej školy, v ktorej sa uskutočňuje výchova a vzdelávanie v cudzom jazyku (§ 3a ods. 3), do tried s päťročným štúdiom. Títo žiaci splnia povinnú školskú dochádzku skončením druhého roku štúdia na strednej škole (§ 34 ods. 3).
+
+(5) Vláda Slovenskej republiky ustanoví nariadením podmienky a výšku poskytovania dotácií súkromným školám.

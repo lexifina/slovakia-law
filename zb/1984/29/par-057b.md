@@ -5,3 +5,5 @@
 (2) Pôsobnosť pri zabezpečovaní povinnej školskej dochádzky a vo veciach všeobecne pedagogických vykonáva voči cirkevných školám ministerstvo školstva.
 
 (3) Bližšie podmienky pre zriaďovanie a činnosť cirkevných škôl ustanoví ministerstvo školstva a Ministerstvo zdravotníctva Slovenskej republiky vyhláškou.
+
+(4) Žiakov, ktorí úspešne skončia ôsmy ročník základnej školy, možno prijať do prvého ročníka strednej školy, v ktorej sa uskutočňuje výchova a vzdelávanie v cudzom jazyku (§ 3a ods. 3), do tried s päťročným štúdiom. Títo žiaci splnia povinnú školskú dochádzku skončením druhého roku štúdia na strednej škole (§ 34 ods. 3).
