@@ -16,17 +16,11 @@
 
 - 8) § 420 zákona č. 47/1992 Zb. Občiansky zákonník.
 
-- 9) § 115 Občianskeho zákonníka.
-
-- 10) § 116 Občianskeho zákonníka.
-
 - 10a) § 63 ods. 2 písm. b) Colného zákona.
 
 - 10b) § 36 a 50 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
 
 - 11) § 226 a nasl. Colného zákona.
-
-- 12) § 33 zákona č. 455/1991 Zb.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.§ 299 Obchodného zákonníka.
 
