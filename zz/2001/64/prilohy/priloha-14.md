@@ -1,3 +1,0 @@
-Príloha č. 14 k vyhláške č. 64/2001 Z. z.
-
-- ZOZNAM LESNÝCH PORASTOV S FENOTYPOVOU KATEGORIZÁCIOU [Vzor 14](../assets/c0e24c8fe6ceb548a37c0a04ed45c63c71ca10ac27242519e9440acf8514564e.pdf)
