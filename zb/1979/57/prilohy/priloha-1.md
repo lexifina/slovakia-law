@@ -1,57 +1,59 @@
-Príloha č. 1 vyhlášky č. 57/1979 Zb. A. Pri pohone vozidla na automobilový benzín | | |
+Príloha č. 1 vyhlášky č. 57/1979 Zb.
 
-Druh vozidla | Zdvihový objem motora v cm<sup>3</sup> | | Sadzby náhrad za 1 km jazdy v Kčs
+- Sadzby náhrad za používanie vlastného vozidla A. Pri pohone vozidla na automobilový benzín | | |
 
-| nad | do |
+- Druh vozidla | Zdvihový objem motora v cm<sup>3</sup> | | Sadzby náhrad za 1 km jazdy v Kčs
 
-| 1 | 2 | 3
+- | nad | do |
 
-moped, motocykel, skúter | | 150 | 0,48
+- | 1 | 2 | 3
 
-| 150 | 250 | 0,58
+- moped, motocykel, skúter | - | 150 | 0,48
 
-| 250 | | 0,64
+- | 150 | 250 | 0,58
 
-motorová trojkolka, motocykel (skúter) s postranným vozíkom | | | 0,80
+- | 250 | - | 0,64
 
-osobný (dodávkový) automobil | | 900 | 1,22
+- motorová trojkolka, motocykel (skúter) s postranným vozíkom | - | - | 0,80
 
-| 900 | 1200 | 1,55
+- osobný (dodávkový) automobil | - | 900 | 1,22
 
-| 1200 | 1500 | 1,75
+- | 900 | 1 200 | 1,55
 
-| 1500 | 2000 | 1,95
+- | 1 200 | 1 500 | 1,75
 
-| 2000 | | 2,30
+- | 1 500 | 2 000 | 1,95
 
-| Celková hmotnosť vozidla v tonách | |
+- | 2 000 | - | 2,30
 
-| nad | do |
+- | Celková hmotnosť vozidla v tonách | |
 
-nákladný automobil, autobus | | 4,5 | 2,65
+- | nad | do |
 
-| 4,5 | 6,0 | 3,15
+- nákladný automobil, autobus | - | 4,5 | 2,65
 
-B. Pri pohone vozidla na motorovú naftu | | |
+- | 4,5 | 6,0 | 3,15
 
-Druh vozidla | Zdvihový objem motora v cm<sup>3</sup> | | Sadzby náhrad za 1 km jazdy v Kčs
+- B. Pri pohone vozidla na motorovú naftu | | |
 
-| nad | do |
+- Druh vozidla | Zdvihový objem motora v cm<sup>3</sup> | | Sadzby náhrad za 1 k jazdy v Kčs
 
-| 1 | 2 | 3
+- | nad | do |
 
-osobný (dodávkový) automobil | 1200 | 1500 | 1,25
+- | 1 | 2 | 3
 
-| 1500 | 2000 | 1,44
+- osobný (dodávkový) automobil | 1 200 | 1 500 | 1,35
 
-| 2000 | | 1,65
+- | 1 500 | 2 000 | 1,55
 
-| Celková hmotnosť vozidla v tonách | |
+- | 2 000 | - | 1,78
 
-| nad | do |
+- | Celková hmotnosť vozidla v tonách | |
 
-nákladný automobil, autobus | | 4,5 | 1,95
+- | nad | do |
 
-| 4,5 | 6,0 | 2,30
+- nákladný automobil, autobus | - | 4,5 | 2,23
 
-| 6,0 | | 2,80
+- | 4,5 | 6,0 | 2,60
+
+- | 6,0 | - | 3,32
