@@ -12,6 +12,8 @@ Dňa 17. decembra 1981 bola v Prahe podpísaná Dohoda medzi vládou Českoslove
 
 České znenie Dohody sa vyhlasuje súčasne.*)
 
+Dňom 18. apríla 1994 platí pre občanov Moldavskej republiky, Gruzínskej republiky, Arménskej republiky, Azerbajdžanskej republiky, Kazašskej republiky, Kirgizskej republiky, Tadžickej republiky a Turkménskej republiky pri vstupe na územie Slovenskej republiky vízová povinnosť (oznámenie č. 107/1994 Z. z.).
+
 Minister:
 
 Ing. Chňoupek v. r.
