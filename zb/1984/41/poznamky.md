@@ -168,19 +168,19 @@
 
 - 74) ONA 30 1002.
 
-- 75) Predpis EHK č. 40, 47, 15 a 83. Vykonávaním homologizačných skúšok je poverený ÚVMV.
+- 75) Predpis EHK č. 40, 47, 15 a 83.
 
 - 75a) Množstvo CO, HC a NOx sa zisťuje podľa metodík predpisu EHK č. 83.
 
-- 76) Predpis EHK č. 24 a č. 49. Pokiaľ vozidlo kategórie M<sub>1</sub> a N<sub>1</sub> so zápalnými motormi nie je homologizované podľa týchto predpisov, musí sa homologizovať podľa predpisu EHK č. 83. Vykonávaním týchto homologizačných skúšok je poverený ÚVMV.
+- 76) Predpis EHK č. 24 a 49. Ak vozidlo kategórie M<sub>1</sub> a N<sub>1</sub>so zápalnými motormi nie je homologizované podľa týchto predpisov, musí sa homologizovať podľa predpisu EHK č. 83.
 
 - 77) Predpis EHK č. 49; vykonávaním homologizačných skúšok je poverený ÚVMV.
 
-- 78) Úprava Federálneho ministerstva dopravy č. 10 729 z 30. marca 1984 o zisťovaní dymivosti zápalných motorov vozidiel v prevádzke.
+- 78) Úprava Federálneho ministerstva dopravy č. 10729 z 30. marca 1984 o zisťovaní dymivosti zápalných motorov vozidiel v prevádzke.
 
-- 79) Zábehom vozidla sa na tieto účely rozumie kilometrický prebeh vozidla v záručnej lehote do prehliadky určenej výrobcom, pri ktorej sa vozidlo nastavuje z hľadiska emisií škodlivín vo výfukových plynoch, najviac však do 3000 km.
+- 79) Zábehom vozidla sa na tieto účely rozumie kilometrický priebeh vozidla v záručnej lehote do prehliadky určenej výrobcom, pri ktorej sa vozidlo nastavuje z hľadiska emisií znečisťujúcich látok vo výfukových plynoch, najviac však do 3 000 km.
 
-- 80) Obsah kysličníka uhoľnatého vo výfukových plynoch sa zisťuje podľa metodiky ÚVMV.
+- 80) § 5 ods. 5 a 6 a § 9 ods. 2 zákona č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona č. 218/1992 Zb. a zákona Národnej rady Slovenskej republiky č.148/1994 Z. z.
 
 - 80a) § 83 vyhlášky Ministerstva vnútra č. 145/1956 Ú. v. (Ú. l.).
 
@@ -237,6 +237,8 @@
 - 106) Predpis EHK č. 43; vykonávaním homologizačných skúšok je poverený ÚVMV.
 
 - 107) Predpis EHK č. 39; vykonávaním homologizačných skúšok je poverený ÚVMV.
+
+- 107a) Predpis EHK č. 89.
 
 - 108) Bezprievanovým pohybom vzduchu sa rozumie prúdenie vzduchu so strednou rýchlosťou v priestore hláv cestujúcich najviac 0,5 m.s<sup>-1</sup>.
 

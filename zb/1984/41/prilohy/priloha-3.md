@@ -23,3 +23,5 @@ Príloha č. 3 vyhlášky č. 41/1984 Zb.
 - N<sub>2</sub> a N<sub>3</sub>, | ktorých motor prevyšuje výkon 147 kW | 80
 
 - [príloha](../assets/059ddc8df13e4859b4602785fa65ce3d824ffc1e0c1faf5b74d9960ab78c3a68.pdf)
+
+- [Príloha 04](../assets/33d5a4ef4a1943fbba3510d54f17ef2e65640f5026d12384a4f284eb9b13c970.pdf)
