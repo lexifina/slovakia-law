@@ -2,6 +2,8 @@
 
 - 2) Napríklad § 1a 2 zákona Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, § 1 a 2 zákona Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov, § 2 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
+- 2a) § 20f Občianskeho zákonníka.
+
 - 3) § 2 a 3 zákona č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 4) § 32 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
@@ -20,11 +22,13 @@
 
 - 11) § 2 zákona č. 222/1946 Zb. o pošte.
 
+- 11a) § 108 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 11b) § 22 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+
 - 12) § 2 ods. 2 Obchodného zákonníka.§ 22 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 13) § 281 až 288 Obchodného zákonníka.
-
-- 14) Napríklad § 46a zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 15) § 273 Obchodného zákonníka.
 

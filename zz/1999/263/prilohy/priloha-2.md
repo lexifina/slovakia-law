@@ -4,330 +4,322 @@ OBSAH PREDBEŽNÉHO OZNÁMENIA
 
 A. Zmluvy na dodanie tovarov
 
-1. Identifikácia obstarávateľa: názov a sídlo, telefónne číslo, faxové číslo, príp. e-mail.
+- 1. Identifikácia obstarávateľa: názov a sídlo, identifikačné číslo organizácie, telefónne číslo, faxové číslo, príp. e-mail.
 
-2. Druh a množstvo tovarov, ktoré sa majú dodať, a súvisiacich služieb.
+- 2. Druh a množstvo tovarov, ktoré sa majú dodať, a súvisiacich služieb.
 
-3. a) predpokladaný termín vyhlásenia metódy verejného obstarávania a typ zmluvy, ktorá sa uzavrie, ak je známy,
+- 3. a) predpokladaný termín vyhlásenia metódy verejného obstarávania a typ zmluvy, ktorá sa uzavrie, ak je známy,
 
-b) metóda verejného obstarávania, ktorá sa použije.
+- b) metóda verejného obstarávania, ktorá sa použije.
 
-4. Ďalšie informácie.
+- 4. Ďalšie informácie.
 
-5. Dátum odoslania predbežného oznámenia obstarávateľom do vestníka.
+- 5. Dátum odoslania predbežného oznámenia obstarávateľom do vestníka.
 
-6. Miesto dodania tovarov.
+- 6. Miesto dodania tovarov.
 
-B. Zmluvy na dodanie služieb
+- B. Zmluvy na dodanie služieb
 
-1. Identifikácia obstarávateľa: názov a sídlo, telefónne číslo, faxové číslo, príp. e-mail.
+- 1. Identifikácia obstarávateľa: názov a sídlo, identifikačné číslo organizácie, telefónne číslo, faxové číslo, príp. e-mail.
 
-2. Zoznam služieb, ktoré bude obstarávateľ zabezpečovať.
+- 2. Zoznam služieb, ktoré bude obstarávateľ zabezpečovať.
 
-3. a) predpokladaný termín vyhlásenia metódy verejného obstarávania a typ zmluvy, ktorá sa uzavrie, ak je známy,
+- 3. a) predpokladaný termín vyhlásenia metódy verejného obstarávania a typ zmluvy, ktorá sa uzavrie, ak je známy,
 
-b) metóda verejného obstarávania, ktorá sa použije.
+- b) metóda verejného obstarávania, ktorá sa použije.
 
-4. Ďalšie informácie.
+- 4. Ďalšie informácie.
 
-5. Dátum odoslania predbežného oznámenia obstarávateľom do vestníka.
+- 5. Dátum odoslania predbežného oznámenia obstarávateľom do vestníka.
 
-6. Miesto dodania služieb.
+- 6. Miesto dodania služieb.
 
-C. Zmluvy na dodanie prác
+- C. Zmluvy na dodanie prác
 
-1. Identifikácia obstarávateľa: názov a sídlo, telefónne číslo, faxové číslo, príp. e-mail.
+- 1. Identifikácia obstarávateľa: názov a sídlo, identifikačné číslo organizácie, telefónne číslo, faxové číslo, príp. e-mail.
 
-2. a) miesto realizácie,
+- 2. a) miesto realizácie,
 
-b) druh a rozsah prác, ktoré sa majú dodať, hlavné charakteristiky práce alebo položiek prác,
+- b) druh a rozsah prác, ktoré sa majú dodať, hlavné charakteristiky práce alebo položiek prác,
 
-c) predpokladané náklady prác, ktoré sa majú dodať.
+- c) predpokladané náklady prác, ktoré sa majú dodať.
 
-3. a) metóda verejného obstarávania, ktorá sa použije,
+- 3. a) metóda verejného obstarávania, ktorá sa použije,
 
-b) predpokladaný termín vyhlásenia metódy verejného obstarávania a typ zmluvy, ktorá sa uzavrie, ak je známy,
+- b) predpokladaný termín vyhlásenia metódy verejného obstarávania a typ zmluvy, ktorá sa uzavrie, ak je známy,
 
-c) predpokladaný termín začatia prác,
+- c) predpokladaný termín začatia prác,
 
-d) predpokladaný termín dokončenia prác.
+- d) predpokladaný termín dokončenia prác.
 
-4. Ďalšie informácie.
+- 4. Ďalšie informácie.
 
-5. Dátum odoslania predbežného oznámenia obstarávateľom do vestníka.
+- 5. Dátum odoslania predbežného oznámenia obstarávateľom do vestníka.
 
-6. Miesto dodania prác.
+- 6. Miesto dodania prác.
 
-OBSAH OZNÁMENIA O VYHLÁSENÍ METÓDY VEREJNÉHO OBSTARÁVANIA
+- OBSAH OZNÁMENIA O VYHLÁSENÍ METÓDY VEREJNÉHO OBSTARÁVANIA
 
-A. Verejná súťaž
+- A. Verejná súťaž
 
-1. Identifikácia obstarávateľa: názov a sídlo, telefónne číslo, faxové číslo, príp. e-mail.
+- 1. Identifikácia obstarávateľa: názov a sídlo, identifikačné číslo organizácie, telefónne číslo, faxové číslo, príp. e-mail.
 
-2. Typ zmluvy, ktorá bude výsledkom verejnej súťaže, a predmet obstarávania definovaný číslom na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a opis.
+- 2. Typ zmluvy, ktorá bude výsledkom verejnej súťaže, a predmet obstarávania definovaný číslom na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a opis.
 
-3. Miesto dodania tovarov, služieb alebo prác.
+- 3. Miesto dodania tovarov, služieb alebo prác.
 
-4. Pri obstarávaní tovarov alebo prác
+- 4. Pri obstarávaní tovarov alebo prác
 
-a) druh a množstvo tovarov, ktoré sa majú dodať, alebo charakter a rozsah služieb, ktoré sa majú poskytovať s tovarom,
+- a) druh a množstvo tovarov, ktoré sa majú dodať, alebo charakter a rozsah služieb, ktoré sa majú poskytovať s tovarom,
 
-b) označenie, či dodávatelia môžu ponúknuť určité alebo všetky požadované tovary,
+- b) označenie, či dodávatelia môžu ponúknuť určité alebo všetky požadované tovary,
 
-c) poradie podľa veľkosti položiek a možnosť predloženia ponuky na jednu položku, na niekoľko položiek alebo na všetky tieto položky, ak je v prípade uzatvárania zmlúv na dodanie prác práca rozdelená do niekoľkých položiek.
+- c) poradie podľa veľkosti položiek a možnosť predloženia ponuky na jednu položku, na niekoľko položiek alebo na všetky tieto položky, ak je v prípade uzatvárania zmlúv na dodanie prác práca rozdelená do niekoľkých položiek.
 
-5. Pri obstarávaní služieb
+- 5. Pri obstarávaní služieb
 
-a) označenie, či je dodanie služby podmienené osobitnou spôsobilosťou,
+- a) označenie, či je dodanie služby podmienené osobitnou spôsobilosťou,
 
-b) označenie, či uchádzači majú uviesť mená a profesionálnu kvalifikáciu zamestnancov zodpovedných za dodanie služby,
+- b) označenie, či uchádzači majú uviesť mená a profesionálnu kvalifikáciu zamestnancov zodpovedných za dodanie služby,
 
-c) označenie, či uchádzači môžu predložiť ponuku na dodanie iba určitých častí služieb.
+- c) označenie, či uchádzači môžu predložiť ponuku na dodanie iba určitých častí služieb.
 
-6. Oprávnenie predložiť variantné riešenia.
+- 6. Oprávnenie predložiť variantné riešenia.
 
-7. Použitie aj iných špecifikácií ako tých, ktoré sa uvádzajú v § 29.
+- 7. Použitie aj iných špecifikácií ako tých, ktoré sa uvádzajú v § 29.
 
-8. Lehoty na dodanie alebo dokončenie predmetu obstarávania alebo trvanie zmluvy.
+- 8. Lehoty na dodanie alebo dokončenie predmetu obstarávania alebo trvanie zmluvy.
 
-9. Miesto a spôsob prevzatia súťažných podkladov:
+- 9. Miesto a spôsob prevzatia súťažných podkladov:
 
-a) adresa, na ktorej sa môžu požadovať súťažné podklady,
+- a) adresa, na ktorej sa môžu požadovať súťažné podklady,
 
-b) výška a podmienky úhrady za súťažné podklady, ak sa vyžadujú.
+- b) výška a podmienky úhrady za súťažné podklady, ak sa vyžadujú.
 
-10. Lehota na predloženie ponúk a jazyk ponúk:
+- 10. Lehota na predloženie ponúk a jazyk ponúk:
 
-a) deň, mesiac a rok uplynutia lehoty,
+- a) deň, mesiac, rok a hodina uplynutia lehoty,
 
-b) adresa, na ktorú sa majú ponuky doručiť,
+- b) adresa, na ktorú sa majú ponuky doručiť,
 
-c) jazyk alebo jazyky, v ktorých sa musia ponuky predložiť.
+- c) jazyk alebo jazyky, v ktorých sa musia ponuky predložiť.
 
-11. Otváranie ponúk:
+- 11. Otváranie ponúk: dátum, hodina a miesto otvárania obálok s ponukami.
 
-a) rozhodnutie obstarávateľa o možnosti účasti uchádzačov na otváraní ponúk,
+- 12. Výška zábezpeky, ak sa požaduje.
 
-b) dátum, hodina a miesto otvárania ponúk.
+- 13. Hlavné podmienky týkajúce sa financovania predmetu obstarávania a platby alebo odkazy na dokumenty, v ktorých sa uvádzajú.
 
-12. Výška zábezpeky, ak sa požaduje.
+- 14. Zákonná forma právnickej osoby, ktorú má vytvoriť skupina podnikateľov (uchádzačov), alebo typ zmluvy, ktorú majú podnikatelia vo vzájomnom vzťahu uzatvoriť, ak sa vyžaduje na uzavretie zmluvy.
 
-13. Hlavné podmienky týkajúce sa financovania predmetu obstarávania a platby alebo odkazy na dokumenty, v ktorých sa uvádzajú.
+- 15. Podmienky účasti uchádzačov vo verejnej súťaži.
 
-14. Zákonná forma právnickej osoby, ktorú má vytvoriť skupina podnikateľov (uchádzačov), alebo typ zmluvy, ktorú majú podnikatelia vo vzájomnom vzťahu uzatvoriť, ak sa vyžaduje na uzavretie zmluvy.
+- 16. Lehota viazanosti ponúk.
 
-15. Podmienky účasti uchádzačov vo verejnej súťaži.
+- 17. Kritériá na hodnotenie splnenia podmienok účasti uchádzačov vo verejnej súťaži a kritériá na hodnotenie ponúk.
 
-16. Lehota viazanosti ponúk.
+- 18. Ďalšie informácie obstarávateľa.
 
-17. Kritériá na hodnotenie splnenia podmienok účasti uchádzačov vo verejnej súťaži a kritériá na hodnotenie ponúk.
+- 19. Ak sa publikovalo predbežné oznámenie, termín jeho zverejnenia vo vestníku.
 
-18. Ďalšie informácie obstarávateľa.
+- 20. Dátum odoslania oznámenia obstarávateľom do vestníka.
 
-19. Ak sa publikovalo predbežné oznámenie, termín jeho zverejnenia vo vestníku.
+- B. Užšia súťaž
 
-20. Dátum odoslania oznámenia obstarávateľom do vestníka.
+- 1. Identifikácia obstarávateľa: názov a sídlo, identifikačné číslo organizácie, telefónne číslo, faxové číslo, príp. e-mail.
 
-B. Užšia súťaž
+- 2. Typ zmluvy, ktorá bude výsledkom užšej súťaže, a predmet obstarávania definovaný číslom na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a opis.
 
-1. Identifikácia obstarávateľa: názov a sídlo, telefónne číslo, faxové číslo, príp. e-mail.
+- 3. Miesto dodania tovarov, služieb alebo prác.
 
-2. Typ zmluvy, ktorá bude výsledkom užšej súťaže, a predmet obstarávania definovaný číslom na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a opis.
+- 4. Pri obstarávaní tovarov alebo prác
 
-3. Miesto dodania tovarov, služieb alebo prác.
+- a) druh a množstvo tovarov, ktoré sa majú dodať, alebo charakter a rozsah služieb, ktoré sa majú poskytovať s tovarom,
 
-4. Pri obstarávaní tovarov alebo prác
+- b) označenie, či dodávatelia môžu ponúknuť určité alebo všetky požadované tovary,
 
-a) druh a množstvo tovarov, ktoré sa majú dodať, alebo charakter a rozsah služieb, ktoré sa majú poskytovať s tovarom,
+- c) poradie podľa veľkosti položiek a možnosť predloženia ponuky na jednu položku, na niekoľko položiek alebo na všetky tieto položky, ak je v prípade uzatvárania zmlúv na dodanie prác práca rozdelená do niekoľkých položiek.
 
-b) označenie, či dodávatelia môžu ponúknuť určité alebo všetky požadované tovary,
+- 5. Pri obstarávaní služieb
 
-c) poradie podľa veľkosti položiek a možnosť predloženia ponuky na jednu položku, na niekoľko položiek alebo na všetky tieto položky, ak je v prípade uzatvárania zmlúv na dodanie prác práca rozdelená do niekoľkých položiek.
+- a) označenie, či je dodanie služby podmienené osobitnou spôsobilosťou,
 
-5. Pri obstarávaní služieb
+- b) označenie, či záujemcovia majú uviesť mená a profesionálnu kvalifikáciu zamestnancov zodpovedných za dodanie služby,
 
-a) označenie, či je dodanie služby podmienené osobitnou spôsobilosťou,
+- c) označenie, či záujemcovia môžu predložiť ponuku na dodanie iba určitých častí služieb.
 
-b) označenie, či záujemcovia majú uviesť mená a profesionálnu kvalifikáciu zamestnancov zodpovedných za dodanie služby,
+- 6. Oprávnenie predložiť variantné riešenia.
 
-c) označenie, či záujemcovia môžu predložiť ponuku na dodanie iba určitých častí služieb.
+- 7. Použitie aj iných špecifikácií ako tých, ktoré sú uvedené v § 29.
 
-6. Oprávnenie predložiť variantné riešenia.
+- 8. Lehoty na dodanie alebo dokončenie predmetu obstarávania alebo trvanie zmluvy.
 
-7. Použitie aj iných špecifikácií ako tých, ktoré sú uvedené v § 29.
+- 9. Miesto a spôsob prevzatia súťažných podkladov:
 
-8. Lehoty na dodanie alebo dokončenie predmetu obstarávania alebo trvanie zmluvy.
+- a) adresa, na ktorej sa môžu požadovať súťažné podklady,
 
-9. Miesto a spôsob prevzatia súťažných podkladov:
+- b) výška a podmienky úhrady za súťažné podklady, ak sa vyžaduje.
 
-a) adresa, na ktorej sa môžu požadovať súťažné podklady,
+- 10. Lehota na predloženie dokumentov preukazujúcich splnenie podmienok účasti záujemcov v užšej súťaži:
 
-b) výška a podmienky úhrady za súťažné podklady, ak sa vyžaduje.
+- a) deň, mesiac, rok a hodina uplynutia lehoty,
 
-10. Lehota na predloženie dokumentov preukazujúcich splnenie podmienok účasti záujemcov v užšej súťaži:
+- b) adresa, na ktorú sa majú dokumenty doručiť,
 
-a) deň, mesiac a rok uplynutia lehoty,
+- c) lehota na oznámenie výsledku splnenia podmienok účasti záujemcov.
 
-b) adresa, na ktorú sa majú dokumenty doručiť,
+- 11. Lehota na predloženie ponúk a jazyk ponúk:
 
-c) lehota na oznámenie výsledku splnenia podmienok účasti záujemcov.
+- a) deň mesiac, rok a hodina uplynutia lehoty,
 
-11. Lehota na predloženie ponúk a jazyk ponúk:
+- b) adresa, na ktorú sa majú ponuky doručiť,
 
-a) deň mesiac a rok uplynutia lehoty,
+- c) jazyk alebo jazyky, v ktorých sa musia ponuky predložiť.
 
-b) adresa, na ktorú sa majú ponuky doručiť,
+- 12. Lehota, v ktorej obstarávateľ odošle výzvy na predloženie ponúk.
 
-c) jazyk alebo jazyky, v ktorých sa musia ponuky predložiť.
+- 13. Otváranie ponúk: dátum, hodina a miesto otvárania obálok s ponukami.
 
-12. Lehota, v ktorej obstarávateľ odošle výzvy na predloženie ponúk.
+- 14. Výška zábezpeky, ak sa požaduje.
 
-13. Otváranie ponúk:
+- 15. Hlavné podmienky týkajúce sa financovania predmetu obstarávania a platby alebo odvolávky na dokumenty, v ktorých sa podmienky uvádzajú.
 
-a) rozhodnutie obstarávateľa o možnosti účasti záujemcov na otváraní ponúk,
+- 16. Zákonná forma právnickej osoby, ktorú má vytvoriť skupina podnikateľov (záujemcov), alebo typ zmluvy, ktorú majú podnikatelia vo vzájomnom vzťahu uzatvoriť, ak sa vyžaduje na uzavretie zmluvy.
 
-b) dátum, hodina a miesto otvárania ponúk.
+- 17. Podmienky účasti záujemcov v užšej súťaži.
 
-14. Výška zábezpeky, ak sa požaduje.
+- 18. Lehota viazanosti ponúk.
 
-15. Hlavné podmienky týkajúce sa financovania predmetu obstarávania a platby alebo odvolávky na dokumenty, v ktorých sa podmienky uvádzajú.
+- 19. Kritériá na hodnotenie splnenia podmienok účasti záujemcov v užšej súťaži a kritériá na hodnotenie ponúk.
 
-16. Zákonná forma právnickej osoby, ktorú má vytvoriť skupina podnikateľov (záujemcov), alebo typ zmluvy, ktorú majú podnikatelia vo vzájomnom vzťahu uzatvoriť, ak sa vyžaduje na uzavretie zmluvy.
+- 20. Ďalšie informácie obstarávateľa.
 
-17. Podmienky účasti záujemcov v užšej súťaži.
+- 21. Ak sa publikovalo predbežné oznámenie, termín jeho zverejnenia vo vestníku.
 
-18. Lehota viazanosti ponúk.
+- 22. Dátum odoslania oznámenia obstarávateľom do vestníka.
 
-19. Kritériá na hodnotenie splnenia podmienok účasti záujemcov v užšej súťaži a kritériá na hodnotenie ponúk.
+- C. Rokovacie konanie
 
-20. Ďalšie informácie obstarávateľa.
+- 1. Identifikácia obstarávateľa: názov a sídlo, identifikačné číslo organizácie, telefónne číslo, faxové číslo, príp. e-mail.
 
-21. Ak sa publikovalo predbežné oznámenie, termín jeho zverejnenia vo vestníku.
+- 2. Typ zmluvy, ktorá bude výsledkom rokovacieho konania, a predmet obstarávania definovaný číslom na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a opis.
 
-22. Dátum odoslania oznámenia obstarávateľom do vestníka.
+- 3. Miesto dodania tovarov, služieb alebo prác.
 
-C. Rokovacie konanie
+- 4. Pri obstarávaní tovarov alebo prác
 
-1. Identifikácia obstarávateľa: názov a sídlo, telefónne číslo, faxové číslo, príp. e-mail.
+- a) charakter a množstvo tovarov, ktoré sa majú dodať, alebo charakter a rozsah služieb, ktoré sa majú poskytovať s tovarom,
 
-2. Typ zmluvy, ktorá bude výsledkom rokovacieho konania, a predmet obstarávania definovaný číslom na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a opis.
+- b) označenie, či dodávatelia môžu ponúknuť určité alebo všetky požadované tovary,
 
-3. Miesto dodania tovarov, služieb alebo prác.
+- c) poradie podľa veľkosti položiek a možnosť predloženia ponuky na jednu položku, na niekoľko položiek alebo na všetky tieto položky, ak je v prípade uzatvárania zmlúv na dodanie prác práca rozdelená do niekoľkých položiek.
 
-4. Pri obstarávaní tovarov alebo prác
+- 5. Pri obstarávaní služieb
 
-a) charakter a množstvo tovarov, ktoré sa majú dodať, alebo charakter a rozsah služieb, ktoré sa majú poskytovať s tovarom,
+- a) označenie, či je dodanie služby podmienené osobitnou spôsobilosťou,
 
-b) označenie, či dodávatelia môžu ponúknuť určité alebo všetky požadované tovary,
+- b) označenie, či záujemcovia majú uviesť mená a profesionálnu kvalifikáciu zamestnancov zodpovedných za dodanie služby,
 
-c) poradie podľa veľkosti položiek a možnosť predloženia ponuky na jednu položku, na niekoľko položiek alebo na všetky tieto položky, ak je v prípade uzatvárania zmlúv na dodanie prác práca rozdelená do niekoľkých položiek.
+- c) označenie, či záujemcovia môžu predložiť ponuku na dodanie iba určitých častí služieb.
 
-5. Pri obstarávaní služieb
+- 6. Oprávnenie predložiť variantné riešenia.
 
-a) označenie, či je dodanie služby podmienené osobitnou spôsobilosťou,
+- 7. Použitie aj iných špecifikácií ako tých, ktoré sú uvedené v § 29.
 
-b) označenie, či záujemcovia majú uviesť mená a profesionálnu kvalifikáciu zamestnancov zodpovedných za dodanie služby,
+- 8. Lehoty na dodanie alebo dokončenie predmetu obstarávania alebo trvanie zmluvy.
 
-c) označenie, či záujemcovia môžu predložiť ponuku na dodanie iba určitých častí služieb.
+- 9. Lehota na predloženie dokumentov preukazujúcich splnenie podmienok účasti záujemcov na rokovacom konaní:
 
-6. Oprávnenie predložiť variantné riešenia.
+- a) deň, mesiac, identifikačné číslo organizácie, rok uplynutia lehoty,
 
-7. Použitie aj iných špecifikácií ako tých, ktoré sú uvedené v § 29.
+- b) adresa, na ktorú sa majú dokumenty doručiť,
 
-8. Lehoty na dodanie alebo dokončenie predmetu obstarávania alebo trvanie zmluvy.
+- c) lehota na oznámenie výsledku hodnotenia splnenia podmienok účasti záujemcov.
 
-9. Lehota na predloženie dokumentov preukazujúcich splnenie podmienok účasti záujemcov na rokovacom konaní:
+- 10. Otváranie ponúk: predpokladaný dátum, hodina a miesto otvárania obálok s ponukami.
 
-a) deň, mesiac a rok uplynutia lehoty,
+- a) rozhodnutie obstarávateľa o možnosti účasti záujemcov na otváraní ponúk,
 
-b) adresa, na ktorú sa majú dokumenty doručiť,
+- b) predpokladaný dátum, hodina a miesto otvárania ponúk.
 
-c) lehota na oznámenie výsledku hodnotenia splnenia podmienok účasti záujemcov.
+- 11. Výška zábezpeky, ak sa požaduje.
 
-10. Otváranie ponúk:
+- 12. Hlavné podmienky týkajúce sa financovania predmetu obstarávania a platby alebo odvolávky na dokumenty, v ktorých sa uvádzajú.
 
-a) rozhodnutie obstarávateľa o možnosti účasti záujemcov na otváraní ponúk,
+- 13. Zákonná forma právnickej osoby, ktorú má vytvoriť skupina podnikateľov (záujemcov), alebo typ zmluvy, ktorú majú podnikatelia vo vzájomnom vzťahu uzatvoriť, ak sa vyžaduje na uzavretie zmluvy.
 
-b) predpokladaný dátum, hodina a miesto otvárania ponúk.
+- 14. Podmienky účasti záujemcov v rokovacom konaní.
 
-11. Výška zábezpeky, ak sa požaduje.
+- 15. Kritériá na hodnotenie splnenia podmienok účasti záujemcov v rokovacom konaní a kritériá na hodnotenie ponúk.
 
-12. Hlavné podmienky týkajúce sa financovania predmetu obstarávania a platby alebo odvolávky na dokumenty, v ktorých sa uvádzajú.
+- 16. Ďalšie informácie obstarávateľa.
 
-13. Zákonná forma právnickej osoby, ktorú má vytvoriť skupina podnikateľov (záujemcov), alebo typ zmluvy, ktorú majú podnikatelia vo vzájomnom vzťahu uzatvoriť, ak sa vyžaduje na uzavretie zmluvy.
+- 17. Ak sa publikovalo predbežné oznámenie, termín jeho zverejnenia vo vestníku.
 
-14. Podmienky účasti záujemcov v rokovacom konaní.
+- 18. Dátum odoslania oznámenia obstarávateľom do vestníka.
 
-15. Kritériá na hodnotenie splnenia podmienok účasti záujemcov v rokovacom konaní a kritériá na hodnotenie ponúk.
+- Príloha č. 3 k zákonu č. 263/1999 Z. z.
 
-16. Ďalšie informácie obstarávateľa.
+- OBSAH OZNÁMENIA O VÝSLEDKU VEREJNÉHO OBSTARÁVANIA
 
-17. Ak sa publikovalo predbežné oznámenie, termín jeho zverejnenia vo vestníku.
+- Verejná súťaž, užšia súťaž, rokovacie konanie
 
-18. Dátum odoslania oznámenia obstarávateľom do vestníka.
+- I. Informácie na zverejnenie vo vestníku
 
-Príloha č. 3 k zákonu č. 263/1999 Z. z.
+- 1. Názov a sídlo, identifikačné číslo organizácie, telefónne číslo obstarávateľa.
 
-OBSAH OZNÁMENIA O VÝSLEDKU VEREJNÉHO OBSTARÁVANIA
+- 2. Typ zmluvy, ktorá sa uzavrela na základe výsledku verejného obstarávania, a predmet obstarávania.
 
-Verejná súťaž, užšia súťaž, rokovacie konanie
+- 3. Označenie predmetu obstarávania na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a jeho opis.
 
-I. Informácie na zverejnenie vo vestníku
+- 4. a) použitá metóda verejného obstarávania,
 
-1. Názov a sídlo obstarávateľa.
+- b) dátum zverejnenia predbežného oznámenia vo vestníku, ak bolo zverejnené,
 
-2. Typ zmluvy, ktorá sa uzavrela na základe výsledku verejného obstarávania, a predmet obstarávania.
+- c) dátum zverejnenia oznámenia o vyhlásení metódy verejného obstarávania vo vestníku,
 
-3. Označenie predmetu obstarávania na základe colného sadzobníka (tovary) alebo klasifikácie produkcie (služby alebo práce) a jeho opis.
+- d) v prípade rokovacieho konania podmienka jeho použitia.
 
-4. a) použitá metóda verejného obstarávania,
+- 5. Počet doručených ponúk.
 
-b) dátum zverejnenia predbežného oznámenia vo vestníku, ak bolo zverejnené,
+- 6. Dátum uzavretia zmluvy.
 
-c) dátum zverejnenia oznámenia o vyhlásení metódy verejného obstarávania vo vestníku,
+- 7. Zmluvná cena.
 
-d) v prípade rokovacieho konania podmienka jeho použitia.
+- 8. Meno alebo názov, adresa alebo sídlo úspešného uchádzača.
 
-5. Počet doručených ponúk.
+- 9. Podiel tovarov, služieb alebo prác, ktoré sa budú realizovať v subdodávke.
 
-6. Dátum uzavretia zmluvy.
+- 10. Voliteľné informácie.
 
-7. Zmluvná cena.
+- II. Informácie, o ktoré sa dopĺňajú oznámenia o výsledku verejného obstarávania v prípadoch, keď sa vyžadujú výkony
 
-8. Meno alebo názov, adresa alebo sídlo úspešného uchádzača.
+- 1. Opis výkonu.
 
-9. Podiel tovarov, služieb alebo prác, ktoré sa budú realizovať v subdodávke.
+- 2. Celkový počet uchádzačov.
 
-10. Voliteľné informácie.
+- 3. Počet zahraničných uchádzačov s uvedením krajiny ich sídla.
 
-II. Informácie, o ktoré sa dopĺňajú oznámenia o výsledku verejného obstarávania v prípadoch, keď sa vyžadujú výkony
+- 4. Počet a výška cien, ak sa udelili.
 
-1. Opis výkonu.
+- 5. Výška odmeny uchádzačom.
 
-2. Celkový počet uchádzačov.
+- 6. Ďalšie informácie.
 
-3. Počet zahraničných uchádzačov s uvedením krajiny ich sídla.
+- III. Informácie, ktoré nie sú určené na zverejnenie
 
-4. Počet a výška cien, ak sa udelili.
+- 1. Počet uzavretých zmlúv (kde sa zmluva uzavrela s viacerými zmluvnými partnermi na predmet obstarávania).
 
-5. Výška odmeny uchádzačom.
+- 2. Krajina pôvodu predmetu obstarávania.
 
-6. Ďalšie informácie.
+- 3. Použitie aj iných špecifikácií ako tých, ktoré sú uvedené v § 29.
 
-III. Informácie, ktoré nie sú určené na zverejnenie
+- 4. Použité zvýhodnenia schválené úradom a dátum udelenia súhlasu.
 
-1. Počet uzavretých zmlúv (kde sa zmluva uzavrela s viacerými zmluvnými partnermi na predmet obstarávania).
+- 5. Použité kritériá na hodnotenie splnenia podmienok účasti vo verejnom obstarávaní a na hodnotenie ponúk.
 
-2. Krajina pôvodu predmetu obstarávania.
+- 6. Oznámenie, či prijatá ponuka bola variantným riešením.
 
-3. Použitie aj iných špecifikácií ako tých, ktoré sú uvedené v § 29.
+- 7. Ponuky, ktoré sa vylúčili z dôvodu neúmerne nízkej ceny s identifikáciou vylúčených uchádzačov.
 
-4. Použité zvýhodnenia schválené úradom a dátum udelenia súhlasu.
-
-5. Použité kritériá na hodnotenie splnenia podmienok účasti vo verejnom obstarávaní a na hodnotenie ponúk.
-
-6. Oznámenie, či prijatá ponuka bola variantným riešením.
-
-7. Ponuky, ktoré sa vylúčili z dôvodu neúmerne nízkej ceny s identifikáciou vylúčených uchádzačov.
-
-8. Dátum odoslania oznámenia o vyhlásení metódy verejného obstarávania do vestníka.
+- 8. Dátum odoslania oznámenia o vyhlásení metódy verejného obstarávania do vestníka.
