@@ -1,10 +1,10 @@
 ## Oddiel 5
 
-## Ďalšia pôsobnosť obvodného úradu
+## Ďalšia pôsobnosť okresného úradu
 
 # § 23a
 
-Obvodný úrad rozhoduje v rozsahu svojej pôsobnosti podľa predcházajúcich ustanovení
+Okresný úrad rozhoduje v rozsahu svojej pôsobnosti podľa predcházajúcich ustanovení
 
 - a) o znížení alebo odňatí dávky sociálnej starostlivosti a zastavení jej výplaty,<sup>37a</sup>)
 
