@@ -1,1 +1,0 @@
-- 1) V prípade, že medzi Československou socialistickou republikou a iným štátom alebo v medzinárodných organizáciách, ktorých je Československá socialistická republika členom, sa dohodli vzorové texty zmlúv o vedecko-technickej spolupráci, prihliadajú československé právnické osoby pri zostavovaní zmlúv na tieto vzorové texty.
