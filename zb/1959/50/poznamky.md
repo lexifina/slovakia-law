@@ -1,0 +1,1 @@
+- *) Predaj vína priamo spotrebiteľom je zakázaný vyhláškou č. 103/1962 Zb. o úprave predaja prebytkov poľnohospodárskych výrobkov.
