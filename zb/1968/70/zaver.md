@@ -1,1 +1,0 @@
-Dr. Husák v. r.
