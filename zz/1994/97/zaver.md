@@ -1,1 +1,0 @@
-Ľubomír Harach v. r.
