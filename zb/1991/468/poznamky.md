@@ -10,6 +10,14 @@
 
 - 6) § 4 zákona Národnej rady Slovenskej republiky č. 212/1995 Z. z. o koncesionárskych poplatkoch a o zmene zákona č. 468/1991 Zb. o prevádzkovaní rozhlasového a televízneho vysielania v znení neskorších predpisov.
 
+- 6a) § 476 až 488 Obchodného zákonníka v znení neskorších predpisov.
+
+- 6b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 6c) § 251 až 275 Občianskeho súdneho poriadku v znení neskorších predpisov.
+
+- 6d) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
 - 7) Druhá časť zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
 
 - 8) § 1 písm. c) zákona č. 136/1991 Zb. o rozdelení pôsobnosti medzi Českou a Slovenskou Federatívnou Republikou a Českou republikou a Slovenskou republikou vo veciach tlače a iných informačných prostriedkov.
