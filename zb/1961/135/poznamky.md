@@ -16,7 +16,7 @@
 
 - 2d) Vyhláška Federálneho ministerstva vnútra č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách (pravidlá cestnej premávky) v znení neskorších predpisov.
 
-- 2e) Vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej socialistickej republiky č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení neskorších predpisov.
+- 2e) § 64 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
 
 - 2f) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
@@ -41,3 +41,7 @@
 - § 2 Obchodného zákonníka.
 
 - 10) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 11) § 88 až 93 zákona č. 50/1976 Zb.
+
+- 12) § 93 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
