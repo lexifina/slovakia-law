@@ -96,6 +96,8 @@
 
 - § 116 ods. 2 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 38a) § 19 zákona č. 5/2004 Z. z. v znení zákona č. 82/2005 Z. z.
+
 - 39) Zákon č. 95/2002 o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 581/2004 Z. z.
