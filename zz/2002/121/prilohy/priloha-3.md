@@ -1,1 +1,1 @@
-Príloha č. 2b k vyhláške č. 121/2002 Z. z. ![Osvedčenie o odbornej spôsobilosti](../assets/65e63a5625233f430c8de330b4213f2257541830780016288a8d541d3918f010.jpg)
+Príloha č. 3 k vyhláške č. 121/2002 Z. z. [Vzor 03](../assets/e2a17ed44c2518d3a76bbb6a714cbe65032112af49eb8503bed67042bd8bd6dc.pdf)
