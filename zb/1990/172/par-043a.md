@@ -1,9 +1,0 @@
-# § 43a
-
-(1) Vedecká výchova ašpirantov uskutočňovaná formou internej vedeckej ašpirantúry, externej vedeckej ašpirantúry, účelovej vedeckej ašpirantúry a vedeckej ašpirantúry pracovníkov školiacich pracovísk, ktorá sa začala pred nadobudnutím účinnosti tohto zákona, môže sa podľa doterajších predpisov<sup>16</sup>) skončiť najneskôr do 31. decembra 1998. Od nadobudnutia účinnosti tohto zákona nemožno prijímať nových ašpirantov na uvedené formy vedeckej výchovy.
-
-(2) Fakulty a vysoké školy, ak sa nečlenia na fakulty, a externé vzdelávacie inštitúcie, na ktorých sa uskutočňuje doktorandské štúdium, umožnia doterajším vedeckým ašpirantom zo všetkých školiacich pracovísk v Slovenskej republike prestup na ich žiadosť na doktorandské štúdium v príslušnom vednom odbore. Ak sa umožní prestup na doktorandské štúdium, takým účastníkom vedeckej výchovy sa uznajú už vykonané skúšky.
-
-(3) Fakulta alebo vysoká škola, ak sa nečlení na fakulty, na ktorej sa uskutočňuje vedecká výchova formou postgraduálneho štúdia podľa doterajšieho § 22, a bude sa do šiestich mesiacov od nadobudnutia účinnosti tohto zákona uchádzať o získanie práva uskutočňovať doktorandské štúdium, môže výnimočne uskutočňovať toto štúdium do rozhodnutia ministerstva školstva o priznaní alebo odňatí tohto práva podľa § 15 ods. 1 písm. h). Doterajších študentov postgraduálneho štúdia môže fakulta alebo vysoká škola, ak sa nečlení na fakulty, preradiť na doktorandské štúdium.
-
-(4) Externá vzdelávacia inštitúcia, ktorá má oprávnenie uskutočňovať vedeckú výchovu ašpirantov podľa doterajších predpisov a bude sa do šiestich mesiacov od nadobudnutia účinnosti tohto zákona uchádzať o získanie práva uskutočňovať doktorandské štúdium, môže výnimočne uskutočňovať toto štúdium do rozhodnutia ministerstva školstva o priznaní alebo odňatí tohto práva podľa § 15 ods. 1 písm. h).
