@@ -168,6 +168,8 @@
 
 - 70) Zákon č. 67/1997 Z. z. o ochrane nefajčiarov.§ 6 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
+- 70a) § 41 zákona č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení zákona č. 563/2001 Z. z.
+
 - 71) § 2 zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
 
 - 72) Napríklad zákon č. 124/1992 Zb. o vojenskej polícii, zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z.
@@ -175,6 +177,16 @@
 - 73) § 274 písm. h) Občianskeho súdneho poriadku.
 
 - 74) § 110 Občianskeho zákonníka.
+
+- 74a) § 200 zákona č. 311/2001 Z. z. Zákonník práce.
+
+- 74b) § 12 zákona č. 114/1998 Z. z. o sociálnom zabezpečení vojakov.
+
+- 74c) § 5 ods. 2 zákona č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
+
+- 74d) § 195 až 209 zákona č. 311/2001 Z. z.
+
+- 74e) § 34 ods. 1 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z.
 
 - 75) § 13 a 14 Trestného zákona.
 
