@@ -20,4 +20,6 @@
 
 - 11a) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
 
+- 11b) § 47 ods. 2 písm. d) zákona č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže.
+
 - 12) § 8 a 9 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby.
