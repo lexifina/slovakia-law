@@ -1,0 +1,1 @@
+- 1) Vyhláška Federálneho ministerstva financií č. 79/1989 Zb. o vydaní bankoviek po 100 Kčs.
