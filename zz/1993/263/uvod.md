@@ -1,0 +1,7 @@
+## 263
+
+ZÁKON
+
+NÁRODNEJ RADY SLOVENSKEJ REPUBLIKY
+
+z 1. októbra 1993
