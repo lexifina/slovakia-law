@@ -1,0 +1,9 @@
+## 164
+
+ZÁKON
+
+z 15. decembra 1982
+
+## o dôchodkovej dani
+
+Federálne zhromaždenie Československej socialistickej republiky sa uznieslo na tomto zákone:
