@@ -1,0 +1,1 @@
+- *) Při vymezení hranic volebních obvodů je použito názvů obcí, popřípadě části obcí.
