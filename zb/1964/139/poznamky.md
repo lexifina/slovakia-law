@@ -1,1 +1,0 @@
-- *) Podľa ustanovenia § 209 ods. 1 zákona nemusí odberateľ v tomto prípade v rozsahu vadného plnenia zaplatiť faktúru, príp. môže žiadať vrátenie už zaplatenej sumy.
