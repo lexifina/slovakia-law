@@ -10,6 +10,8 @@ Príloha č. 2 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
 
   - 3. MC 97-1 Mikrocenzus 1997
 
+  - 4. Energia 1997 Spotreba energií v domácnostiach
+
   - Charakteristiky zisťovaní
 
   - 1. Názov zisťovania: Hlásenie o sťahovaní
@@ -103,6 +105,38 @@ Príloha č. 2 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
     - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: od 12. 3. do 21. 3. sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad SR.
+
+    - Orgán zabezpečujúci spracovanie: Štatistický úrad SR.
+
+  - 4. Názov zisťovania: Spotreba energií v domácnostiach
+
+    - Značka štatistického formulára: Energia 1997
+
+      - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať informácie o spotrebe palív a energie v domácnostiach.
+
+      - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: dotazník.
+
+    - Použitá metóda: výberové zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: údaje o spotrebe jednotlivých druhov palív a energie vo fyzikálnych jednotkách a v Sk, o byte a jeho vybavenosti spotrebičmi palív a energie.
+
+      - c) Okruh spravodajských jednotiek
+
+    - Spravodajskú povinnosť pre uvedené zisťovanie stanoví obyvateľom v zmysle § 1 ods. 1 písm. a) a § 6 zákona NR SR č. 45/1993 Z. z. o štátnych štatistických zisťovaniach vykonávaných u obyvateľstva Štatistický úrad SR na základe vymedzených kritérií.
+
+      - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: jednorazovo.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: od 15. 5. do 15. 7. 1997.
+
+      - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
     - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad SR.
 

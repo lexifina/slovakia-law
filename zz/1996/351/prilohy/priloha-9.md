@@ -128,8 +128,6 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
 
 - | | poisťovne - pobočky
 
-- 51. | V (MPSVR SR) 3-01 | Ročný výkaz o počte občanov so zdravotným postihnutím a ich štruktúre
-
 - 52. | V (MPSVR SR) 4-01 | Ročný výkaz o obytných zoskupeniach na nízkom sociokultúrnom stupni
 
 - | | (rómske osady)
@@ -437,6 +435,10 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
 - ÚRAD GEODÉZIE, KARTOGRAFIE A KATASTRA SR | |
 
 - 164. | Mer (ÚGKK SR) 1-02 | Výkaz o stave zásob štátnych mapových diel a o plnení edičného plánu ÚGKK SR
+
+- MINISTERSTVO ZDRAVOTNÍCTVA SR | |
+
+- 165. | A (MZ SR) 20-01 | Ročný výkaz o počte občanov so zdravotným postihnutím a ich štruktúre
 
   - Charakteristiky zisťovaní
 
@@ -2930,38 +2932,6 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
 
   - Orgán zabezpečujúci spracovanie: Sociálna poisťovňa.
 
-  - 51. Názov zisťovania: Ročný výkaz o počte občanov so zdravotným postihnutím a ich štruktúre
-
-    - Značka štatistického formulára: V (MPSVR SR) 3-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom zisťovania je získať informácie o počte občanov SR so zdravotným postihnutím s možnosťou ich využitia pre potreby ústredných orgánov štátnej správy.
-
-    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
-
-      - Druh štatistického zisťovania: výkaz.
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa počtu občanov so zdravotným postihnutím podľa vekových kategórií a druhu zdravotného postihnutia.
-
-    - c) Okruh spravodajských jednotiek
-
-      - Ambulancia praktického lekára pre deti a dorast, ambulancia dorastového lekára, ambulancia praktického lekára pre dospelých.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročná.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: ambulancia praktického lekára do 15. kalendárneho dňa, ÚZIŠ do 30. kalendárneho dňa nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo práce, sociálnych vecí a rodiny SR.
-
-      - Orgán zabezpečujúci spracovanie: Ústav zdravotníckych informácií a štatistiky, Ministerstvo práce, sociálnych vecí a rodiny SR.
-
   - 52.
 
   - Názov zisťovania:
@@ -3094,7 +3064,7 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
 
       - Periodicita zisťovania: ročná.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: obvodné úrady do 30. kalendárneho dňa a okresné úrady do 35. kalendárneho dňa nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: okresné úrady do 30. kalendárneho dňa a krajské úrady do 35. kalendárneho dňa nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3376,7 +3346,7 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
 
       - Periodicita zisťovania: ročná.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: zariadenia sociálnej starostlivosti a zariadenia sociálnych služieb do 15. kalendárneho dňa, okresné úrady do 30. kalendárneho dňa nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: zariadenia sociálnej starostlivosti a zariadenia sociálnych služieb do 15. kalendárneho dňa, krajské úrady do 30. kalendárneho dňa nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -8481,3 +8451,35 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 351/199
   - Orgán vykonávajúci štatistické zisťovanie: Úrad geodézie, kartografie a katastra SR.
 
   - Orgán zabezpečujúci spracovanie: Úrad geodézie, kartografie a katastra SR.
+
+  - 165. Názov zisťovania: Ročný výkaz o počte občanov so zdravotným postihnutím a ich štruktúre
+
+    - Značka štatistického formulára: A (MZ SR) 20-01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom zisťovania je získať informácie o počte občanov SR so zdravotným postihnutím s možnosťou ich využitia pre potreby ústredných orgánov štátnej správy.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+      - Druh štatistického zisťovania: výkaz.
+
+      - Použitá metóda: vyčerpávajúce zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa počtu občanov so zdravotným postihnutím podľa vekových kategórií a druhu zdravotného postihnutia.
+
+    - c) Okruh spravodajských jednotiek
+
+      - Ambulancia praktického lekára pre deti a dorast, ambulancia dorastového lekára, ambulancia praktického lekára pre dospelých.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita zisťovania: ročná.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa nasledujúceho roka.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva SR.
+
+      - Orgán zabezpečujúci spracovanie: Ústav zdravotníckych informácií a štatistiky v Bratislave.
