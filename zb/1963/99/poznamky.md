@@ -70,9 +70,7 @@
 
 - 32) § 259 ods. 4 Obchodného zákonníka.
 
-- 33a) § 62 zákona č. 94/1963 Zb. o rodine v znení neskorších predpisov.
-
-- Čl. IV zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení neskorších predpisov a zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+- 33a) Čl. IV zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení neskorších predpisov a zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 33aa) § 65 ods. 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
@@ -82,7 +80,7 @@
 
 - 33abcd) Napríklad zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
-- 33ac) Čl. 81 a 82 Zmluvy o založení Európskeho spoločenstva (úplné znenie Úradný vestník Európskeho spoločenstva C 325, 24/12/2002).
+- 33ac) § 108 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 33b) § 161 ods. 5 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
@@ -94,7 +92,13 @@
 
 - 34f) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
 
-- 34fa) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
+- 34fa) § 33 a 58 zákona č. 36/2005 Z. z.
+
+- 34faa) § 52 ods. 6, § 55 ods. 2, § 98 až 104 zákona č. 36/2005 Z. z.
+
+- 34fab) § 102 ods. 1 zákona č. 36/2005 Z. z.
+
+- 34fac) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
 
 - 34fb) § 6 a 7 zákona č. 530/2003 Z. z.
 
