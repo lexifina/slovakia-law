@@ -1,1 +1,0 @@
-- *) Vládne nariadenie č. 35/1949 Zb. v znení vládneho nariadenia č. 232/1949 Zb. platí odo dňa 8. novembra 1949.
