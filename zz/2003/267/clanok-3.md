@@ -1,5 +1,0 @@
-# Čl. III
-
-Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z., zákona č. 358/1997 Z. z., zákona č. 377/1998 Z. z., zákona č. 348/1999 Z. z., zákona č. 441/2000 Z. z., zákona č. 82/1994 Z. z., zákona č. 445/2001 Z. z., zákona č. 502/2001 Z. z., zákona č. 506/2001 Z. z., zákona č. 553/2001 Z. z., zákona č. 559/2001 Z. z., zákona č. 291/2002 Z. z., zákona č. 427/2002 Z. z. a zákona č. 163/2003 Z. z. sa dopĺňa takto:
-
-- V § 2 ods. 1 písm. a) treťom bode sa za slovami „Kancelária verejného ochrancu práv“ vypúšťa bodka a na konci sa pripájajú tieto slová: „a Kancelária Súdnej rady Slovenskej republiky.“.
