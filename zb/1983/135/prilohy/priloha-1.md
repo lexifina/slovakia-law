@@ -1,3 +1,0 @@
-Príloha č. 1
-
-- VZOR PREUKAZU ČLENA ZÁVODNEJ STRÁŽE [Vzor 01](../assets/1f4267c6835631fdff1c5397c040e5f6d1d6a03bd5fb1c066945758b91257bde.pdf)
