@@ -6,7 +6,7 @@
 
   - a) nového tuzemského alebo cudzieho tovaru za 1 g zliatiny
 
-    - 1. striebro 0,50 Sk
+    - 1. striebro 1 Sk
 
     - 2. zlato 6,00 Sk
 
@@ -14,11 +14,11 @@
 
   - b) starého alebo opraveného tovaru za 1 g zliatiny
 
-    - 1. striebro 1,00 Sk
+    - 1. striebro 3 Sk
 
-    - 2. zlato 40,00 Sk
+    - 2. zlato 60 Sk
 
-    - 3. platina 60,00 Sk
+    - 3. platina 100 Sk
 
       - Poznámky:
 
@@ -32,29 +32,29 @@
 
   - a) za každý kus tovaru
 
-    - 1. strieborného 0,20 Sk
+    - 1. strieborného 3 Sk
 
     - 2. zlatého 5,00 Sk
 
     - 3. platinového 10,00 Sk
 
-  - b) za každú značku pri oprave puncovej značky, doznačení alebo storne značky 2,00 Sk
+  - b) za každú značku pri oprave puncovej značky, doznačení alebo storne značky 5 Sk
 
     - Položka 3
 
     - Kvalitatívne zistenie kovu na skúšobnom kameni: striebro, zlato, platina, obyčajný kov
 
-  - - za jedno vyskúšanie 10,00 Sk
+  - - za jedno vyskúšanie 20 Sk
 
   - Položka 4
 
   - Približné určenie rýdzosti zliatin drahých kovov na skúšobnom kameni
 
-  - a) striebro 20,00 Sk
+  - a) striebro 30 Sk
 
-  - b) zlato 30,00 Sk
+  - b) zlato 50 Sk
 
-  - c) platina 50,00 Sk
+  - c) platina 80 Sk
 
     - Položka 5
 
@@ -62,23 +62,23 @@
 
   - a) striebro
 
-    - 1. titráciou alebo kupeláciou 30,00 Sk
+    - 1. titráciou alebo kupeláciou 50 Sk
 
-    - 2. podľa Gay-Lussaca 60,00 Sk
+    - 2. podľa Gay-Lussaca 100 Sk
 
-    - 3. vážkovo 45,00 Sk
+    - 3. vážkovo 80 Sk
 
   - b) zlato
 
-    - 1. kupeláciou 50,00 Sk
+    - 1. kupeláciou 250 Sk
 
-    - 2. mokrým spôsobom 150,00 Sk
+    - 2. mokrým spôsobom 500 Sk
 
-  - c) striebro a zlato kupeláciou 80,00 Sk
+  - c) striebro a zlato kupeláciou 350 Sk
 
-  - d) zliatiny zlata s obsahom niklu 80,00 Sk
+  - d) zliatiny zlata s obsahom niklu 400 Sk
 
-  - e) platina 150,00 Sk
+  - e) platina 500 Sk
 
     - Poznámky:
 
@@ -92,25 +92,25 @@
 
   - a) v kovových odpadoch
 
-    - 1. určenie striebra 80,00 Sk
+    - 1. určenie striebra 300 Sk
 
-    - 2. určenie zlata 150,00 Sk
+    - 2. určenie zlata 500 Sk
 
-    - 3. určenie platiny a platinových kovov - za každý kov 400,00 Sk
+    - 3. určenie platiny a platinových kovov - za každý kov 1000 Sk
 
   - b) v steroch
 
-    - 1. určenie striebra 110,00 Sk
+    - 1. určenie striebra 300 Sk
 
-    - 2. určenie zlata 200,00 Sk
+    - 2. určenie zlata 800 Sk
 
-    - 3. určenie platiny a platinových kovov - za každý kov 450,00 Sk
+    - 3. určenie platiny a platinových kovov - za každý kov 1 500 Sk
 
-    - 4. určenie platiny v platinovom katalyzátore na nosiči 1 700,00 Sk
+    - 4. určenie platiny v platinovom katalyzátore na nosiči 3 000 Sk
 
-    - 5. určenie straty žíhaním 80,00 Sk
+    - 5. určenie straty žíhaním 150 Sk
 
-    - 6. určenie vlhkosti 50,00 Sk
+    - 6. určenie vlhkosti 100 Sk
 
       - Poznámka:
 
@@ -122,25 +122,29 @@
 
   - a) striebro
 
-    - 1. do 250 g 30,00 Sk
+    - 1. do 250 g 80 Sk
 
-    - 2. nad 250 g do 1 000 g 120,00 Sk
+    - 2. nad 250 g do 1 000 g 300 Sk
 
-    - 3. za každých ďalších začatých 1 000 g 120,00 Sk
+    - 3. za každých ďalších začatých 1 000 g 300 Sk
 
-  - b) zlato
+  - b) zlato - kupeláciou
 
-    - 1. do 10 g 50,00 Sk
+    - 1. do 10 g 250 Sk
 
-    - 2. nad 10 g do 50 g 100,00 Sk
+    - 2. nad 10 g do 50 g 300 Sk
 
-    - 3. nad 50 g do 500 g 150,00 Sk
+    - 3. nad 50 g do 500 g 500 Sk
 
-    - 4. za každých ďalších začatých 500 g 150,00 Sk
+    - 4. za každých ďalších začatých 500 g 500 Sk
 
-  - c) platina 160,00 Sk
+  - c) platina
 
-    - Poznámky:
+    - 1. do 500 g 1 000 Sk
+
+    - 2. za každých ďalších aj začatých 500 g 1 000 Sk
+
+      - Poznámky:
 
     - 1. Podľa charakteru alebo množstva materiálu môže byť zákazka rozložená do viacerých položiek, z ktorých sa každá bude účtovať samostatne.
 
@@ -148,22 +152,12 @@
 
       - Položka 8
 
-      - Ostatné úkony
+  - a) vydanie náhradného dokladu o vykonanom úkone 100 Sk
 
-  - a) overenie kvality skúšobného kameňa - za 1 kus 70,00 Sk
+  - b) vyhotovenie odborného posudku, za každú aj začatú hodinu potrebnú na jeho vyhotovenie 500 Sk
 
-  - b) vybavenie požiadavky na úradné úkony poštou okrem poštovného 10,00 Sk
-
-  - c) vyhľadanie predmetu pri strate ústrižku, príp. potvrdenia 10,00 Sk
-
-  - d) vydanie náhradného dokladu o vykonanom úkone 10,00 Sk
+  - c) upevnenie plomby na skúšaný tovar, za každú plombu 3 Sk
 
     - Položka 9
 
-    - Predaj skúšobných pomôcok
-
-  - a) skúšobná kyselina na striebro a platinu - za 50 ml 10,00 Sk
-
-  - b) koncentrovaná kyselina dusičná na zlato 250, 333/1000 - za 50 ml 4,00 Sk
-
-  - c) akékoľvek druhy lúčavky kráľovskej - za 50 ml 8,00 Sk
+    - Odborná príprava skúšobných kyselín na drahé kovy, za každých 100 ml 60 Sk
