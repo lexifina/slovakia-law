@@ -1,1 +1,0 @@
-- *) Oddiel B čl. 4 ods. 6 podrobnejších predpisov o poľovníctve č. 44/1962 Zbierky smerníc pre národné výbory.
