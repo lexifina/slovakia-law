@@ -1,1 +1,0 @@
-- *) Vyhláška č. 162/1959 Ú. l. (Ú. v.) o výkupe poľnohospodárskych výrobkov.
