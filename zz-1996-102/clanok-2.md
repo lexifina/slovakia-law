@@ -1,0 +1,3 @@
+# Čl. II
+
+Záväznosť stráca opatrenie Ministerstva vnútra Slovenskej republiky z 13. decembra 1990, ktorým sa uverejnil zoznam obcí tvoriacich územné obvody obvodných úradov v Slovenskej republike (uverejnené v čiastke 12/1991 Zb.) v znení opatrenia Ministerstva vnútra Slovenskej republiky zo 6. decembra 1991 č. OVV/2-1352/1991 (uverejnené v čiastke 11/1992 Zb.), opatrenia Ministerstva vnútra Slovenskej republiky z 10. februára 1992 č. OVV/2-139/1992 (uverejnené v čiastke 24/1992 Zb.), opatrenia Ministerstva vnútra Slovenskej republiky č. 65/1993 Z. z., opatrenia Ministerstva vnútra Slovenskej republiky č. 34/1994 Z. z. a opatrenia Ministerstva vnútra Slovenskej republiky č. 33/1996 Z. z.
