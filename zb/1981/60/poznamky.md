@@ -72,6 +72,6 @@
 
 - ČSN 63 1912 - Protektorovanie a opravy radiálnych plášťov pre motorové a prípojné vozidlá.
 
-- 22) Pokiaľ údaj o spotrebe pohonných hmôt nie je v technickom preukaze vozidla uvedený, určí sa podľa ČSN 30 0510 alebo podľa spotreby porovnateľného vozidla.
+- 22) Pokiaľ táto hodnota spotreby pohonných hmôt nie je v technickom preukaze vozidla uvedená, ustanovuje sa podľa ČSN 30 0510, alebo podľa spotreby porovnateľného vozidla.
 
 - 23) Pokiaľ údaje o mernej spotrebe pohonných hmôt prídavných zariadení vozidla včítane nezávislého kúrenia nie sú k dispozícii, určia sa na základe skutočnej spotreby vyhodnotenej za primerane dlhé obdobie.
