@@ -1,0 +1,3 @@
+# Čl. III
+
+Táto vyhláška nadobúda účinnosť 1. februára 2002.
