@@ -1,1 +1,0 @@
-Dr. Drtina v. r.
