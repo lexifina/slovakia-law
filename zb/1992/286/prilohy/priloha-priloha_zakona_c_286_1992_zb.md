@@ -98,9 +98,11 @@ Príloha zákona č. 286/1992 Zb.
 
 - 1-37 | 36.63.77 | Ostatné rozličné výrobky inde neuvedené
 
-- 1-38 | 72.20 | Nehmotný majetok: počítačové programy (software) - nehmotné nosiče
+- 1-38 | | Nehmotný majetok, z toho len:
 
-- | | údajov pre stroje s automatickým spracovaním údajov
+- | | - počítačové programy (software),
+
+- | | - markentigové štúdie.
 
 - | | Odpisová skupina 2
 
@@ -308,6 +310,16 @@ Príloha zákona č. 286/1992 Zb.
 
 - 2-65 | 36.63.1 | Kolotoče, hojdačky, strelnice a ostatné lunaparkové atrakcie
 
+- 2-66 | | Nehmotný majetok, okrem:
+
+- | | - počítačových programov (software),
+
+- | | - patentov,
+
+- | | - markentigových štúdií,
+
+- | | - opravnej položky k nadobudnutému majetku.
+
 - | | Odpisová skupina 3
 
 - Položka<sup>*</sup>) | KP<sup>**</sup>) | Názov<sup>***</sup>)
@@ -416,11 +428,11 @@ Príloha zákona č. 286/1992 Zb.
 
 - Položka<sup>*</sup>) | JKSO<sup>****</sup>)odbor | Názov<sup>***</sup>)
 
-- 5-1 | 801, 802, | Budovy a haly
+- 5-1*****) | 801, 802, | Budovy a haly
 
 - | 803,811,812 | okrem budov a hál z dreva a ľahkých stavebných látok
 
-- 5-2 | | Stavby s výnimkou odborov uvedených v 4. odplsovej skupine
+- 5-2*****) | | Stavby s výnimkou odborov uvedených v 4. odplsovej skupine
 
 - *) – položka – označuje číslo odpisovej skupiny (1–5) a poradové číslo položky v príslušnej odpisovej skupine
 
@@ -429,3 +441,5 @@ Príloha zákona č. 286/1992 Zb.
 - ***) – názov – obsahové vymedzenie jednotlivých položiek a kódov, prevažne s použitím textácie KP
 
 - ****) – – súčasťou KP nie je nová klasifikácia stavebných objektov. Na účely zákona o daniach z príjmov preto rovnako ako na štatistické účely ostáva v platnosti JKSO pre triedenie budov a stavieb.
+
+- *****) – súčasťou stavby je zariadenie tvoriace technické a technologické vybavenie stavby, ktoré zabezpečuje jej prevádzkovú funkciu alebo účel, na ktorý bola stavba zhotovená; súčasťou stavby je toto zariadenie odo dňa jeho pevného zabudovania do stavby.

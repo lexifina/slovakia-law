@@ -10,7 +10,7 @@
 
 - d) predložením preukazu ZŤP-S (zdravotne ťažko poškodený so sprievodcom), ak je daňovník uvedený v písmene c) jeho držiteľom,
 
-- e) rozhodnutím o priznaní starobného dôchodku a dokladom o výplate dôchodku, ak je daňovník jeho príjemcom a ak neprevyšuje ročne hranicu ustanovenú v § 15 ods. 2,
+- e) rozhodnutím o priznaní starobného dôchodku alebo dôchodku za výsluhu rokov z dôchodkového zabezpečenia, alebo dôchodku zo zahraničného povinného poistenia rovnakého druhu a dokladom o výplate dôchodku, ak je daňovník jeho príjemcom a ak neprevyšuje ročne hranicu ustanovenú v § 15 ods. 2,
 
 - f) rozhodnutím alebo posudkom posudkovej komisie sociálneho zabezpečenia regionálnej národnej poisťovne o tom, že dieťa je dlhodobo ťažko zdravotne postihnuté a vyžaduje mimoriadnu starostlivosť alebo osobitne náročnú mimoriadnu starostlivosť, ak daňovník uplatňuje nárok na zníženie dane z titulu nezdaniteľnej časti zo základu dane z dôvodu, že vyživuje v spoločnej domácnosti takéto dieťa,
 
@@ -18,7 +18,7 @@
 
   - 1. vyživuje v spoločnej domácnosti plnoleté dieťa uvedené v § 15 ods. 4 písm. b) bodoch 2 a 3,
 
-  - 2. poberá iný dôchodok, ktorého jednou z podmienok je invalidita, ale jeho žiadosť o invalidný dôchodok bola zamietnutá z iných dôvodov ako z dôvodov jeho invalidity, ako aj pri súbehu nároku na starobný, invalidný a čiastočný invalidný dôchodok.
+  - 2. poberá iný dôchodok, ktorého jednou z podmienok je invalidita, ale jeho žiadosť o invalidný dôchodok bola zamietnutá z iných dôvodov ako z dôvodov jeho invalidity, ako aj pri súbehu nároku na starobný, invalidný a čiastočný invalidný dôchodok a dôchodok za výsluhu rokov,
 
 - h) predložením dokladov na uplatnenie zvýšenej sumy na čiastočnú úhradu výdavkov spojených s výkonom práce podľa § 6 ods. 12 písm. b).
 

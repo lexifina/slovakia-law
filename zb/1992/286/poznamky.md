@@ -46,15 +46,17 @@
 
 - 4c) Zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
 
-- 4d) § 2 zákona č. 92/1949 Zb. Branný zákon v znení neskorších predpisov.
+- 4d) § 2 ods. 2 zákona č. 351/1997 Z. z. Branný zákon.
 
 - 4e) § 9 nariadenia vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby.
 
 - 4f) § 16 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby.
 
-- 4g) § 29 ods. 1 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
+- 4g) § 19 ods. 2 písm. e), § 29 ods. 1 a § 29a zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
 - 4h) § 29 písm. d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
+
+- 4k) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 5) Napr. zákon č. 119/1992 Zb. o cestovných náhradách.
 
@@ -64,15 +66,13 @@
 
 - 5c) Napr. zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky.
 
-- 5d) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 5d) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 5e) § 36 ods. 1 zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov.
 
 - 5f) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
-- 6) § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
+- 6) § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.§ 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
 
 - 7) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
 
@@ -86,6 +86,10 @@
 
 - Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov.
 
+- 8a) § 476 až 488 Obchodného zákonníka.
+
+- 8b) § 13 ods. 4 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
+
 - 9) Časť II a časť IV zákona č. 35/1965 Zb.
 
 - 10) Napr. § 842 Občianskeho zákonníka.
@@ -94,7 +98,7 @@
 
 - Zákon SNR č. 194/1990 Zb. o lotériách a iných podobných hrách v znení zákona SNR č. 68/1992 Zb.
 
-- 11a) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb.
+- 11a) Zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
 
 - 12) Podľa údajov vyhlasovaných orgánmi štatistiky.
 
@@ -103,6 +107,8 @@
 - 12b) § 829 a nasl. Občianskeho zákonníka.
 
 - 12c) § 115 Občianskeho zákonníka.
+
+- 12d) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
 
 - 13) Zákon č. 22/1992 Zb. o Štátnej banke česko-slovenskej.
 
@@ -142,11 +148,17 @@
 
 - 18a) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení zákona Národnej rady Slovenskej republiky č. 200/1996 Z. z.
 
+- 18b) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
 - 19) § 116 a 117 Občianskeho zákonníka.
+
+- 19b) § 497 až 507 Obchodného zákonníka.
+
+- 19c) § 15 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 20) Napr. zákon č. 238/1991 Zb. o odpadoch, zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona č. 218/1992 Zb.
 
-- 20a) § 5 ods. 6 zákona č. 222/1992 Zb. v znení neskorších predpisov.
+- 20a) Zákon č. 610/1992 Zb. o rezervách pre zistenie základu dane z príjmov.
 
 - 20b) § 19 ods. 1 zákona č. 222/1992 Zb. v znení neskorších predpisov.
 
@@ -164,7 +176,7 @@
 
 - 21c) Zákon č. 119/1992 Zb. v znení neskorších predpisov.
 
-- 22) Zákon č. 119/1992 Zb. o cestovných náhradách. Limity stravného pri zahraničných pracovných cestách vyhlasované v Zbierke zákonov.
+- 22) § 659 až 662 Občianskeho zákonníka.
 
 - 23) Zákon ČNR č. 133/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
 
@@ -176,7 +188,9 @@
 
 - 24b) Napr. zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
-- 24c) § 2 písm. a) až d) a f) zákona Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
+- 24c) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
+
+- 24e) Napríklad § 642 až 651 Obchodného zákonníka.
 
 - 25) Zákon č. 238/1991 Zb. o odpadoch v znení neskorších predpisov.
 
@@ -223,6 +237,8 @@
 - 33d) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 33e) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
+
+- 33f) § 75 ods. 1 Obchodného zákonníka.
 
 - 34) Vyhláška Federálneho ministerstva financií č. 586/1990 Zb. v znení vyhlášky č. 345/1991 Zb.
 

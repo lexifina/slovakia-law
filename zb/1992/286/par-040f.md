@@ -12,7 +12,7 @@
 
 - e) príspevky na doplnkové dôchodkové poistenie, ktoré platí zamestnanec podľa osobitného predpisu,<sup>5f</sup>)
 
-- f) nezdaniteľné časti základu dane; základ dane pre výpočet preddavku za kalendárny mesiac sa zníži o 1/12 nezdaniteľnej časti základu dane. Na preukázanú nezdaniteľnú sumu základu dane na manželku [§ 15 ods. 1 písm. c)], na sumu, o ktorú sa znižuje základ dane u požívateľa starobného dôchodku (§ 15 ods. 2), a na hodnotu darov (15 ods. 8) platiteľ dane prihliadne až pri ročnom zúčtovaní preddavkov za zdaňovacie obdobie.
+- f) nezdaniteľné časti základu dane; základ dane pre výpočet preddavku za kalendárny mesiac sa zníži o 1/12 nezdaniteľnej časti základu dane. Na preukázanú nezdaniteľnú sumu základu dane na manželku [§ 15 ods. 1 písm. c)], na sumu, o ktorú sa znižuje základ dane u požívateľa starobného dôchodku (§ 15 ods. 2) alebo dôchodku za výsluhu rokov z dôchodkového zabezpečenia, alebo dôchodku zo zahraničného povinného poistenia rovnakého druhu, a na hodnotu darov (15 ods. 8) platiteľ dane prihliadne až pri ročnom zúčtovaní preddavkov za zdaňovacie obdobie.
 
 (2) Preddavok sa zrazí pri výplate alebo pri pripísaní mzdy daňovníkovi k dobru bez ohľadu na to, za ktoré obdobie sa mzda vypláca. Ak platiteľ vykonáva vyúčtovanie miezd mesačne, zrazí preddavok pri vyúčtovaní mzdy za uplynulý mesiac.
 
