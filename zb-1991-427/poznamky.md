@@ -1,0 +1,1 @@
+- 1) § 11 zákona ČNR č. 284/1991 Sb., o pozemkových úpravách a pozemkových úřadech.
