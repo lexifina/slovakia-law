@@ -456,6 +456,10 @@
 
 - 123) § 108 ods. 2 písm. a), b) a d) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
+- 123a) § 2a vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 265/1996 Z. z. o emisných kontrolách cestných motorových vozidiel v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 307/1999 Z. z.
+
+- 123b) § 2 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 327/1997 Z. z. o kontrolách technického stavu vozidiel.
+
 - 124) § 101 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 125) § 103 ods. 3 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
