@@ -1,0 +1,1 @@
+Milan Kňažko v. r.
