@@ -4,6 +4,6 @@
 
 (2) Súhlas Ministerstva pôdohospodárstva Slovenskej republiky na prevod vlastníctva majetku štátu sa vyžaduje aj vtedy, ak majú byť predmetom prevodu podľa odseku 1 poľnohospodárske a lesné nehnuteľnosti<sup>11a</sup>), ktoré sú v správe Slovenského pozemkového fondu.
 
-(3) Podľa odseku 1 môže podnik postupovať iba vtedy, ak ide o hmotný investičný majetok jedného podniku v zostatkovej hodnote najviac 5 000 000 Sk alebo vklad do obchodnej spoločnosti vo výške najviac 200 000 Sk v jednom kalendárnom roku.
+(3) Podľa odseku 1 môže podnik postupovať iba vtedy, ak ide pri každom prevode o hmotný investičný majetok podniku v zostatkovej hodnote najviac 5 000 000 Sk alebo vklad do obchodnej spoločnosti vo výške najviac 200 000 Sk.
 
 (4) Na prevod nehnuteľnosti na umiestnenie zastupiteľského úradu cudzieho štátu, medzinárodnej vládnej organizácie alebo inštitúcie, ktorej podľa medzinárodného práva patria diplomatické výsady a imunity, je okrem súhlasu podľa odseku 1 potrebný aj súhlas Ministerstva zahraničných vecí Slovenskej republiky.
