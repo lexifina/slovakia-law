@@ -24,6 +24,8 @@
 
 - 13) § 76 až 104 Obchodného zákonníka.
 
+- 13a) Napríklad Obchodný zákonník, Občiansky zákonník.
+
 - 14) § 71 zákona č. 461/2003 Z. z. o sociálnom poistení.
 
 - 15) Zákon č. 461/2003 Z. z.
@@ -34,17 +36,27 @@
 
 - 18) § 233 zákona č. 461/2003 Z. z.
 
+- 18a) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+
+- 18b) Nariadenie Rady (EHS) č. 311/76 z 9. februára 1976 o zostavovaní štatistík zahraničných pracovníkov (Ú. v. ES L 039, 14. 2. 1976).
+
 - 19) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) § 73 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
-- 20a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+- 20a) § 233 ods. 12 zákona č. 461/2003 Z. z. v znení zákona č. 82/2005 Z. z.
 
 - 21) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 22a) § 23 ods. 6 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22aa) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
+- 24a) § 23 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+
+- 24b) § 22 zákona č. 48/2002 Z. z. v znení zákona č. 606/2003 Z. z.
 
 - 25) § 2 zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
@@ -131,6 +143,8 @@
 - 62) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+
+- 62a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 63) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
