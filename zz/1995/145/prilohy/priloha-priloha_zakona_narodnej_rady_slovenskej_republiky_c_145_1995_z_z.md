@@ -2326,9 +2326,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) Vydanie rozhodnutia o zmene registrácie veterinárneho lieku |
 
-  - 1. zmena balenia, výrobcu, držiteľa rozhodnutia, druhu obalu, zmena názvu veterinárneho lieku ............................................................................................................................ | 3 000 Sk
+  - 1. zmena balenia, výrobcu, držiteľa rozhodnutia, druhu obalu, zmena názvu veterinárneho lieku ............................................................................................................................... | 3 000 Sk
 
-  - 2. zmeny v ochranných lehotách, spôsobe skladovania v dávkovaní, času použiteľnosti veterinárneho lieku .............................................................................................. | 20 000 Sk
+  - 2. zmeny v ochranných lehotách, spôsobe skladovania v dávkovaní, času použiteľnosti veterinárneho lieku ............................................................................................................................. | 20 000 Sk
 
   - g) Vydanie rozhodnutia o registrácii homeopatického lieku, lieku s obsahom alergénu a registrovaného lieku<sup>36c</sup>) ................................................................................................................ | 5 000 Sk
 
@@ -2336,9 +2336,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) Vydanie rozhodnutia o zmene registrácie podľa písmena g) ................................................. | 2 000 Sk
 
-  - j) vydanie rozhodnutia o zaradení alebo vyradení lieku zo zoznamu liekov ............................. | 1 000 Sk
+  - j) žiadosť o zaradenie lieku do zoznamu alebo o zmenu zaradenia lieku v zozname liekov | 1 000 Sk
 
-  - k) vydanie rozhodnutia o zaradení alebo vyradení zdravotníckej pomôcky zo zoznamu zdravotníckych pomôcok ............................................................................................. | 1 000 Sk
+  - k) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok ...................................................... | 1 000 Sk
+
+  - l) žiadosť o zaradenie dietetickej potraviny na osobitné medicínske účely do zoznamu dietetických potravín ............................................................................................................................ | 1 000 Sk
 
     - Položka 153
 
