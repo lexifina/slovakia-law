@@ -1,3 +1,0 @@
-# Čl. X
-
-Tento zákon nadobúda účinnosť 1. januárom 1957; vykonajú ho všetci členovia vlády.
