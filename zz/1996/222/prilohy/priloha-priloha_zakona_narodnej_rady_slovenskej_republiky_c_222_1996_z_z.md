@@ -112,8 +112,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 72. | | | § 2 ods. 2 písm. g) a § 4 písm. a) | dáva súhlas podľa § 6 ods. 2 zákona o odpadoch na prepravu nebezpečných odpadov presahujúcu územie kraja alebo okresu
 
-- 73. | tvorba a ochrana životného prostredia -ochrana prírody a krajiny | zák. SNR č. 52/1988 Zb. v znení neskorších predpisov | § 4a ods. 1 | dohodne sa o určení prieskumného územia a jeho zmien
-
 - 74. | | zák. NR SR č. 287/1994 Z. z. | § 12 ods. 2, § 16 ods. 1, § 17 ods. 1, § 18 ods. 1, §22, § 34 ods. 1 a 5, § 35 až 37, § 39 | vyhlasuje, mení alebo zrušuje chránený areál, prírodnú rezerváciu, prírodnú pamiatku a ich ochranné pásmo, súkromné chránené územie, chránený strom a jeho ochranné pásmo
 
 - 75. | | | § 15, § 19 ods. 8 | vydáva návštevný poriadok národného parku a návštevný poriadok sprístupnenej jaskyne a priepasti
@@ -190,22 +188,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 109. | | zák. SNR č. 330/1991 Zb. v znení neskorších predpisov | § 13 ods. 4 | rozhoduje o námietkach proti projektu pozemkových úprav
 
-- 133. | verejné a koncesné obstarávanie | zák. NR SR č. 263/1993 Z. z. v znení neskorších predpisov | § 21 ods. 2 písm. a) | dohliada na dodržiavanie tohto zákona a upozornuje obstarávatela, prípadne nadriadený orgán obstarávatela, na zistené nedostatky
-
-- 134. | | | § 21 ods. 2 písm. b) | dohliada na pripravenost obstarávania akcií limitovaných v § 4 ods. 2 písm. b)
-
-- 135. | | | § 21 ods. 2 písm. c) | vykonáva previerky použitých foriem obstarávania
-
-- 136. | | | § 21 ods. 2 písm. d) | zaujíma stanoviská k stažnostiam, petíciám, oznámeniam a podnetom v oblasti verejného obstarávania
-
-- 137. | verejné a koncesné obstarávanie | zák. NR SR č. 263/1993 Z. z. v znení neskorších predpisov | § 21 ods. 2 písm. e) | ukladá pokuty podla § 23
-
-- 138. | | zák. NR SR č. 119/1996 Z. z. v znení neskorších predpisov | § 2 ods. 2 písm. g) | požaduje predloženie dokumentácie o koncesnom obstarávaní na výkon dohladu
-
-- 139. | | | § 24 písm. a) | dohliada na dodržiavanie zákona o koncesnom obstarávaní a upozornuje na zistené nedostatky ústredný orgán štátnej správy alebo obec, do ktorých pôsobnosti patrí obstarávatel, za úcelom vykonania nápravy
-
-- 140. | | | § 24 písm. b) | dohliada na pripravenost stavieb, pri ktorých koncesiu udeluje vláda
-
 - 153. | zdravotníctvo | zák. NR SR č. 272/1994 Z. z. | § 21 písm. a) | odborne usmerňuje činnost štátnych okresných hygienikov
 
 - 154. | | | § 21 písm. b) | riadi a vykonáva štátny zdravotný dozor
@@ -240,11 +222,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 202. | | zák. SNR č. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
 
-- 204. | | zák. SNR č. 27/1987Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
+- 204. | | zák. SNR č. 27/1987 Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
 
 - 205. | | | § 7 ods. 2 | vedie zoznamy kultúrnych pamiatok
 
-- 206. | kultúra | zák. SNR č. 27/1987Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
+- 206. | kultúra | zák. SNR č. 27/1987 Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
 
 - 207. | | | § 11 ods. 2 | rozhoduje o podmienkach a zákaze výkonu cinnosti ohrozujúcej národnú kultúrnu pamiatku
 
