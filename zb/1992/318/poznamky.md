@@ -36,6 +36,10 @@
 
 - 6d) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
+- 6e) § 4 a nasl. a § 46 a nasl. zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
+
+- 6f) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 9b) § 28 až 32 a § 34 až 37 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
 
 - 9c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
