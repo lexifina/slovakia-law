@@ -20,6 +20,10 @@
 
 - 8c) § 22 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
 
+- 8d) § 54 ods. 3 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.§ 18 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
+
+- 8e) § 27 ods. 3 a 5 nariadenia vlády Slovenskej republiky č. 156/2002 Z. z. o odbornej spôsobilosti pracovníkov v zdravotníctve.
+
 - 9) § 82 ods. 2 Zákonníka práce.
 
 - 9a) Napr. zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
