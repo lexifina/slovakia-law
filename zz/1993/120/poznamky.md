@@ -1,5 +1,9 @@
 - 1) Čl. 75 ods. 1 Ústavy Slovenskej republiky.
 
+- 1a) § 51 a 853 Občianskeho zákonníka.
+
+- § 269 ods. 2 Obchodného zákonníka.
+
 - 2) § 124 ods. 1 Zákonníka práce.
 
 - 3) Napr. zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch, nariadenie vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch.
