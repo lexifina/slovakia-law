@@ -22,4 +22,4 @@
 
 (7) Ak zastúpenie nedodržiava podmienky určené v rozhodnutí o registrácii alebo závažným spôsobom poruší právne predpisy Slovenskej republiky, Národná banka Slovenska môže registráciu zrušiť.
 
-(8) Na konanie o registrácii zastúpenia a o zrušení registrácie sa vzťahujú ustanovenia § 40 a nasl. tohto zákona.
+(8) Zastúpenie je povinné poskytnúť Národnej banke Slovenska ňou požadovanú súčinnosť pri vykonávaní kontroly dodržiavania podmienok určených v rozhodnutí o registrácii a ustanovených v právnych predpisoch Slovenskej republiky.
