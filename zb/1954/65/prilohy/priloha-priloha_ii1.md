@@ -1,0 +1,1 @@
+Príloha II [Vzor 01](../assets/e3ad278e51483030fe64604b543a54cb37a665c844e9b9ec383972c5ad3c9476.pdf)
