@@ -18,8 +18,6 @@
 
 - 5) § 5 zákona č. 195/2000 Z. z.
 
-- 6) § 13 ods. 2 a 3 a § 20 ods. 2 zákona Slovenskej národnej rady č. 335/1991 Zb. o súdoch a sudcoch v znení čl. III zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
-
 - 7) § 18 ods. 1 zákona č. 58/1969 Zb. o zodpovednosti štátu za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom.
 
 - 8) § 158, 178 a 257a zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
