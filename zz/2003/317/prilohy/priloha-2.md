@@ -110,6 +110,20 @@ Príloha č. 2 k nariadeniu vlády č. 317/2003 Z. z.
 
   - 1. Mleté mäso a mäsové prípravky musia byť označené na priamom obale alebo na druhom obale zdravotnou značkou.
 
+  - 2. Zdravotnú značku určenú pre Európske spoločenstvo možno použiť len na mleté mäso získané v súlade s § 3 alebo na mäsové prípravky získané v súlade s § 5 a vyrobené vo výrobni, ktorá je schválená v súlade s § 8. Táto zdravotná značka musí zodpovedať,
+
+    - a) ak ide o mleté mäso, oválnej zdravotnej značke pre čerstvé mäso podľa osobitného predpisu,<sup>15</sup>)
+
+    - b) ak ide o mäsové prípravky
+
+    - 2.1. z čerstvého mäsa jatočných zvierat alebo zo zveriny zo zveri z farmových chovov, oválnej zdravotnej značke pre čerstvé mäso alebo zverinu zo zveri z farmových chovov podľa osobitného predpisu,<sup>15</sup>)
+
+    - 2.2. z čerstvého hydinového mäsa alebo malej pernatej alebo srstnatej zveri z farmových chovov, oválnej značke podľa osobitného predpisu,<sup>16</sup>)
+
+    - 2.3. z usmrtenej voľne žijúcej zveri, päťuholníkovej značke podľa osobitného predpisu.<sup>17</sup>)
+
+  - 3. Ak sa mleté mäso alebo mäsové prípravky vyrábajú v samostatnej výrobnej jednotke, musí zdravotná značka obsahovať úradné schvaľovacie číslo pridelené tejto jednotke podľa § 8 ods. 1 príslušným orgánom veterinárnej správy.<sup>18</sup>)
+
   - 4. Ak ide o mäsové prípravky a ak to nie je zrejmé z označenia, pod ktorým sa výrobok predáva, alebo zo zoznamu zložiek podľa osobitného predpisu,<sup>19</sup>) musia byť z inšpekčných dôvodov na druhom obale viditeľne a čitateľne uvedené tieto údaje:
 
     - 4.1. živočíšny druh zvieraťa, z ktorého bolo získané mäso; ak ide o zmes mias, percentuálny podiel každého druhu,
