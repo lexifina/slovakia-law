@@ -1,0 +1,3 @@
+# Článok 6
+
+Subjekty obchodno-hospodárskych vzťahov oboch krajín budú medzi sebou uskutočňovať zúčtovanie a platby vo voľne vymeniteľnej mene v bežných svetových cenách v súlade s princípmi, podmienkami a formami používanými v medzinárodnej obchodnej, finančnej a bankovej praxi. Zmluvné strany budú v súlade so zákonodarstvom platným v oboch zmluvných krajinách vytvárať vhodné podmienky na realizáciu obchodnej výmeny tovarov a poskytovaných služieb vrátane možností otvorenia účtov v každej zo zmluvných krajín, prostredníctvom ktorých sa môže realizovať časť zúčtovania vzájomných dodávok. Splnomocnené banky zmluvných strán môžu určovať mechanizmus vzájomného zúčtovania a platieb a v súvislosti s tým uzatvárať potrebné dohody.
