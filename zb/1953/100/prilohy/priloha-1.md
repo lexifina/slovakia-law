@@ -270,31 +270,7 @@
 
       - Náhrady za poistné škody.
 
-        - § 35.
-
-          - (1) Ak so strany závodu neboly zachované povinnosti vyplývajúce z predpisov o bezpečnosti pri práci alebo z predpisov zdravotníckych, najmä ak
-
-            - a) prevádzkové zariadenia nezodpovedaly týmto predpisom,
-
-            - b) bol použitý postup zakázaný podľa týchto predpisov,
-
-            - c) nebol dodržaný pracovný postup predpísaný z dôvodu bezpečnosti pri práci alebo ochrany zdravia, poprípade
-
-            - d) zamestnancovi neboly poskytnuté predpísané ochranné pracovné pomôcky
-
-          - a zamestnancovi tak bola spôsobená škoda ublížením na zdraví, je závod povinný nahradiť odborovému sväzu pre účely nemocenského poistenia dávky poskytnuté z tohto dôvodu. Plnenie takých dávok sa považuje za škodu, ktorá bola bezprostredne spôsobená štátu (nemocenskému poisteniu).
-
-          - (2) Nedotknutý ostáva postih, ktorý má závod voči tomu, kto bol zodpovedný za dodržiavanie predpisov o bezpečnosti pri práci alebo predpisov zdravotníckych.
-
-        - § 36.
-
-          - Ak nejde o prípad uvedený v § 35 a ak má zamestnanec, rodinný príslušník alebo pozostalý nárok na náhradu škody z dôvodu, pre ktorý boly priznané dávky, náleží nárok na túto náhradu štátu (nemocenskému poisteniu) až do výšky poskytnutých dávok. Plnenie takých dávok sa považuje za škodu, ktorá bola bezprostredne spôsobená štátu (nemocenskému poisteniu).
-
         - § 37.
-
-          - (1) Nárok na náhradu škody podľa §§ 35 a 36 uplatňuje vo vlastnom mene ústredný výbor. Ak neuzná závod alebo tretia osoba povinnosť na náhradu škody, uplatní sa nárok na súde.
-
-          - (2) Nárok na náhradu škody sa premlčuje v troch rokoch odo dňa, keď došlo k poslednej výplate dávky.
 
           - (3) Predpisy o povinnosti hlásiť úraz, pri ktorom môže vzniknúť nárok na náhradu škody, vydá Ústredná rada odborov po dohode so zúčastnenými ústrednými úradmi.
 
@@ -474,8 +450,6 @@
 
         - g) sleduje činnosť odborových orgánov v odbore podporných zariadení v závodoch a dbá, aby bola v súlade so zásadami mzdovej politiky a národného poistenia,
 
-        - h) spravuje a prevádza zariadenie slúžiace osobitnej liečebnej starostlivosti a výberovej rekreácii Revolučného odborového hnutia.
-
       - (2) Ústredná rada odborov zodpovedá za vykonávanie nemocenského poistenia vláde.
 
   - Piata časť. Spoločné, prechodné a záverečné ustanovenia.
@@ -503,10 +477,6 @@
     - § 65.
 
       - Predpisy, podľa ktorých Ústredná národná poisťovňa a jej organizačné složky nie sú povinné platiť dane, dávky a poplatky, platia naďalej pre Revolučné odborové hnutie, pokiaľ spravuje a vykonáva nemocenské poistenie.
-
-    - § 66.
-
-      - Národné výbory, súdy a iné štátne orgány, ako i ústavy, zariadenia a podniky sú povinné vyhovieť v medziach svojej pôsobnosti žiadostiam odborových orgánov vo veciach nemocenského poistenia a podávať im bezplatne oznámenia potrebné pre jeho vykonávanie a správu.
 
     - § 67.
 
