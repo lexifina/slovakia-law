@@ -27,3 +27,5 @@
 - **) Zákon č. 89/1952 Zb. o dôchodkovom zaopatrení príslušníkov ozbrojených síl azákon č. 33/1957 Zb. o sociálnom zaopatrení príslušníkov ozbrojených síl v znení zákona č. 18/1959 Zb.
 
 - *) Podľa § 1 ods. 1 písm. f) zákona č. 255/1946 Zb. je účastníkom povstania, kto sa zúčastnil povstania v máji 1945, pričom za bojov padol, bol ťažko zranený alebo utrpel ťažkú poruchu zdravia.
+
+- *) § 18 ods. 5, § 28 ods. 4, § 31 ods. 3 druhá veta a § 122a zákona o sociálnom zabezpečení a § 47 ods. 4, § 48 ods. 3, § 58 ods. 4, § 59 ods. 5, § 66 ods. 3 druhá veta a § 137a zákona o sociálnom zabezpečení družstevných roľníkov v doterajšom znení.
