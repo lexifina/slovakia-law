@@ -1,1 +1,0 @@
-- 1) Zákon č. 15/1990 Zb. o politických stranách.
