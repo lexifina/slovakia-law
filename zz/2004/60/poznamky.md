@@ -1,1 +1,0 @@
-- 1) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
