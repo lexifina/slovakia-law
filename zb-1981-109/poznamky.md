@@ -1,0 +1,1 @@
+- 1) Vyhláška ministerstva kultury České socialistické republiky č. 110/1981 Sb., o úpravě odměn za hudební činnost vykonávanou členy souborů lidových hudebníků.
