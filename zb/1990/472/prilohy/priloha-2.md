@@ -94,6 +94,4 @@ Príloha B zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 44. | | vyhl. č. 42/1966 Zb. | 66 ods. 5 | rozhodovanie o poskytnutí bezplatnej llečebno-preventlvnej starostlivosti cudzím štátnym príslušníkom
 
-45. | zásobovania, obchodu, verejného a závodného stravovania a cestovného ruchu | zák. SNR č. 130/1981 Zb. v zneni zák. SNR č. 108/1988 Zb. | 31 ods. 1 pism. b) | vykonávanie štátnej správy pre vnútorný obchod
-
 46. | starostlivosti o telesnú kultúru | zák. SNR č. 198/1990 Zb. | 5 ods. 2 | vykonávanie štátnej správy na úseku starostlivosti o telesnú kultúru pri plnení úloh podľa odseku 1 a v súlade so svojou pôsobnosťou podľa osobitných predpisov

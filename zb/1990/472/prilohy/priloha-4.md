@@ -60,13 +60,7 @@ Príloha D zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 27. | | | 35 ods. 1 ods. 2 | rozhodovanie o uložení pokuty organizáciám
 
-28. | ochrany a využívania nerastného bohatstva | zák. SNR č. 51/1988 Zb. | 16 ods. 4 | rozhodovanie sporov o jednorazových náhradách škôd
-
-29. | | | 25 ods. 2 | povoľovanie odberu výbušnín
-
-30. | | | 27 ods. 3 písm. a) | povoľovanie trhacích prác malého rozsahu a ohňostrojných prác
-
-31. | | zák. SNR č. 62/1988 Zb. | 14 ods. 2 | rozhodovanie o rozsahu, spôsobe a čase výkonu geologických prác
+31. | ochrany a využívania nerastného bohatstva | zák. SNR č. 62/1988 Zb. | 14 ods. 2 | rozhodovanie o rozsahu, spôsobe a čase výkonu geologických prác
 
 32. | | | 16 ods. 5 | rozhodovanie sporov o jednorazových náhradách škôd
 
@@ -226,14 +220,6 @@ Príloha D zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 104. | | vyhl. č. 119/1988 Zb. | 10 ods. 2 | rozhodovanie o odovzdaní nehnuteľného národného majetku do trvalého užívania
 
-105. | zásobovania, obchodu, verejného a závodného stravovania a cestovného ruchu | zák. SNR č. 130/1981 Zb. v znení zák. SNR č. 108/1988 Zb. | 31 ods. 1 písm. b) | vykonávanie štátnej správy pre vnútorný obchod
-
-106. | | | 33 ods. 1 | hodnotenie úrovne uspokojovania potrieb občanov, vypracúvanie koncepcie rozvoja siete vnútorného obchodu, vykonávanie štátneho odborného dozoru a plnenie ďalších úloh vo vnútornom obchode a cestovnom ruchu
-
-107. | | | 37 ods. 1 | vykonávanie štátneho obchodného dozoru vo vnútornom obchode
-
-108. | | | 46 ods. 1 | ukladanie pokút organizáciám
-
 109. | dopravy | zák. č. 51/1964 Zb. v znení zák. č. 104/1974 Zb. | 25 ods. 2 | rozhodovanie o odstránení zrušenej dráhy
 
 110. | | zák. č. 68/1979 Zb. v znení zák. č. 118/1990 Zb. | 8 ods. 2 | povoľovanie na prepravu osôb v ložnom priestore vozidla určeného pre nákladnú dopravu
@@ -335,8 +321,6 @@ Príloha D zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 | | zák. SNR č. 176/1989 Zb. | 9 |
 
 154. | | zák. SNR č. 372/1990 Zb. | 53 ods. 3 | prejednávanie priestupkov
-
-155. | súkromného podnikania občanov | zák. SNR č. 130/1990 Zb. | 3 ods. 1 | registrovanie súkromného podnikania občanov
 
 156. | zdravotníctva | vyhl. č. 34/1965 Zb. | 2 ods. 1 | rozhodovanie o regresných náhradách
 
