@@ -1,1 +1,0 @@
-Príloha G vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 315/1993 Z. z. [Vzor G - Žiadosť o udelenie vývoznej/dovoznej licencie zbrojárskej techniky](../assets/08a5be593bc2efb24e4eda87bcc2bde4ca8f1cced62816524d6deb5d2d942d1b.pdf)
