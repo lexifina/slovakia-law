@@ -1,31 +1,11 @@
-Príloha č. 2 k zákonu č. 312/2001 Z. z.
+Príloha č. 3 k zákonu č. 312/2001 Z. z.
 
-- STUPNICA PLATOVÝCH TARÍF ŠTÁTNYCH ZAMESTNANCOV (Sk mesačne) Platový stupeň | Počet rokov praxe | Stupnica platových taríf podľa platových tried a platových stupňov | | | | | | | |
+- PERCENTUÁLNY PODIEL PRÍPLATKU ZA RIADENIE Stupeň riadenia | | Percentuálny podiel
 
-- | | Platová trieda | | | | | | | |
+- 1. | vedúci úradu, ktorým je ministerstvo, iný ústredný orgán štátnej správy, Kancelária Národnej rady Slovenskej republiky, Najvyšší kontrolný úrad Slovenskej republiky, Kancelária prezidenta Slovenskej republiky, Kancelária verejného ochrancu práv, Kancelária Súdnej rady Slovenskej republiky, Ústavný súd Slovenskej republiky, predstavený v politickej funkcii týchto úradov a predseda | 47 – 90
 
-- | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+- 2. | vedúci úradu neuvedeného v bode 1 a predstavený v politickej funkcii služobného úradu neuvedeného v bode 1, zástupca vedúceho úradu uvedeného v bode 1 | 17 – 75
 
-- 1 | do 2 | 3 250 | 6 740 | 7 300 | 7 890 | 9 500 | 10 090 | 11 370 | 12 200 | 13 170
+- 3. | predstavený, ktorý riadi viac útvarov alebo predstavený, ktorý riadi viac útvarov a ktorý je súčasne aj zástupcom vedúceho úradu uvedeného v bode 2 | 8 – 55
 
-- 2 | do 4 | 6 620 | 7 140 | 7 740 | 8 380 | 10 060 | 10 690 | 12 070 | 12 940 | 13 960
-
-- 3 | do 6 | 6 980 | 7 540 | 8 170 | 8 870 | 10 630 | 11 290 | 12 770 | 13 690 | 14 760
-
-- 4 | do 9 | 7 350 | 7 940 | 8 610 | 9 360 | 11 190 | 11 880 | 13 60 | 14 430 | 15 550
-
-- 5 | do 12 | 7 720 | 8 340 | 9 050 | 9 850 | 11 760 | 12 480 | 14 160 | 15 170 | 16 350
-
-- 6 | do 15 | 8 080 | 8 740 | 9 480 | 10 340 | 12 320 | 13 080 | 14 860 | 15 910 | 17 140
-
-- 7 | do 18 | 8 450 | 9 130 | 9 920 | 10 830 | 12 890 | 13 680 | 15 560 | 16 660 | 17 940
-
-- 8 | do 21 | 8 810 | 9 530 | 10 350 | 11 320 | 13 450 | 14 280 | 16 260 | 17 400 | 18 730
-
-- 9 | do 24 | 9 180 | 9 930 | 10 790 | 11 811 | 14 020 | 14 880 | 16 960 | 18 140 | 19 530
-
-- 10 | do 28 | 9 550 | 10 330 | 11 230 | 12 290 | 14 580 | 15 470 | 17 650 | 18 880 | 20 320
-
-- 11 | do 32 | 9 910 | 10 730 | 11 660 | 12 780 | 15 150 | 16 070 | 18 350 | 19 630 | 21 120
-
-- 12 | viac ako 32 | 10 280 | 11 130 | 12 100 | 13 270 | 15 710 | 16 670 | 19 050 | 20 370 | 21 910
+- 4. | predstavený, ktorý riadi podriadených štátnych zamestnancov alebo štátnych zamestnancov a iných zamestnancov alebo iných zamestnancov a ktorý môže byť súčasne aj zástupcom predstaveného uvedeného v bode 3 | 5,5 – 40
