@@ -46,7 +46,7 @@ Presun pracovného voľna a pracovného času
 
 Odmeňovanie práce v ďalších smenách a pri presune pracovného času
 
-(12) Pracovníkovi, ktorý v dôsledku presunu pracovného času (odsek 9) bude pracovať v sobotu, nepatrí za prácu vykonávanú v tento deň mzdové zvýhodnenie za prácu cez soboty a nedele;<sup>1</sup>) tak isto pri odmeňovaní práce nadčas sa tieto dni nepovažujú za dni pracovného pokoja.
+(12) Pracovníkovi, ktorý v dôsledku presunu pracovného času (odsek 9) bude pracovať v sobotu alebo v nedeľu, nepatrí za prácu vykonávanú v tieto dni mzdové zvýhodnenie za prácu cez soboty a nedele;<sup>1</sup>) - tak isto pri odmieňaní práce nadčas sa tieto dni nepovažujú za dni pracovného pokoja. Pracovníkovi, ktorému sa poskytne mzdové zvýhodnenie za prácu cez soboty a nedele, patrí však toto zvýhodnenie za prácu v piatok 10. mája, v utorok 24., v pondelok 30. a v utorok 31. decembra 1974.
 
 (13) Za prácu v ďalších smenách patrí pracovníkovi mzda vo výške ustanovenej mzdovými predpismi. Pracovníkovi odmeňovanému mesačnou mzdou sa v súvislosti s odpracovaním ďalších pracovných smien jeho základná mzda nezvyšuje.
 
