@@ -1,7 +1,3 @@
-# § 13a Dodatkové odvody v súvislosti so zmenami cien
+# § 13a Dodatkový odvod za výrobky s nedostatočnou efektívnosťou pri vývoze
 
-(1) Organizácii sa môže uložiť dodatkový odvod prostriedkov alebo časti prostriedkov získaných v dôsledku opatrenia príslušného orgánu, ktoré nie je premietnuté do ceny výrobku, najmä v dôsledku zmeny ceny poddodávky, v dôsledku povolenej odchýlky od podstatnej kvalitatívnej alebo dodacej podmienky dodávaných výrobkov alebo inej povolenej zmeny alebo v dôsledku ceny rozdielnej pre dodávateľa a odberateľa.
-
-(2) Dodatkový odvod prostriedkov získaných v dôsledku opatrenia organizácie na úsporu alebo na zámenu materiálu sa môže tejto organizácii uložiť len v prípadoch vymedzených osobitným predpisom.<sup>7</sup>)
-
-(3) Dodatkové odvody podľa odsekov 1 a 2 ukladá príslušný cenový úrad.<sup>8</sup>)
+Dodatkový odvod pri výrobkoch, ktorých cenové znevýhodnenie sa určí v závislosti od cien dosahovaných pri vývoze, tvorí najviac 30 % z veľkoobchodnej ceny, prípadne evidenčnej veľkoobchodnej ceny. Vymedzenie rozsahu výrobkov a spôsob výpočtu výšky dodatkového odvodu podľa dosahovaných cien, prípadne podielov z dodatkového odvodu určia pre výrobné organizácie a pre organizácie zahraničného obchodu cenové úrady osobitným rozhodnutím.
