@@ -32,6 +32,8 @@
 
 - 17) § 31 zákona č. 138/1973 Zb.
 
+- 17a) Zákon č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov.
+
 - 18) § 32 až 42 a § 126 zákona č. 50/1976 Zb. v znení zákona č. 262/1992 Zb.
 
 - 19) § 66 až 70, § 120, 121 a 126 zákona č. 50/1976 Zb. v znení zákona č. 262/1992 Zb.
@@ -86,7 +88,7 @@
 
 - 44) § 151o a § 151r Občianskeho zákonníka.Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z.Zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.Zákon č. 46/1971 Zb. o geodézii a kartografii v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
-- 45) Napríklad Dohovor o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín – CITES (oznámenie Federálneho ministerstva zahraničných vecí č. 572/1992 Zb.).
+- 45) Napríklad Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 93/1998 Z. z.).
 
 - 46) § 127 zákona č. 50/1976 Zb.
 
