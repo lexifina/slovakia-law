@@ -20,6 +20,8 @@
 
 - 11) Zákon č. 21/1992 Zb. o bankách.
 
+- 11a) § 1 a 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
+
 - 12) Zákon č. 222/1946 Zb. o pošte (poštový zákon).
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
