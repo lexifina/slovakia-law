@@ -32,4 +32,4 @@
 
 (6) Likvidátor štvrťročne predkladá zakladateľovi a ministerstvu správu o stave majetku likvidovaného podniku a ku dňu skončenia likvidácie im predloží účtovnú závierku s návrhom na vyporiadanie likvidačného zostatku spolu so záverečnou správou o priebehu likvidácie.
 
-(7) Likvidáciu podniku nie je možné prerušiť iným konaním podľa osobitných predpisov.<sup>13</sup>)
+(7) Konanie podľa osobitných predpisov<sup>13</sup>) sa prerušuje vstupom podniku do likvidácie.
