@@ -1,0 +1,9 @@
+# Článok 65
+
+(1) Na zabezpečenie štrukturálnych zmien a medziodborových proporcií, správneho rozmiestňovania výrobných síl a priaznivého vývoja rozostavanosti ústredné orgány ustanovia, ktoré významnejšie alebo rozsiahlejšie stavby posúdia ešte pred zostavením plánu a rozhodnú o povolení na ich začatie v nasledujúcom roku.
+
+(2) Štátna plánovacia komisia a Štátna komisia pre techniku posudzujú a pri príprave plánu dávajú súhlas na uskutočnenie nových stavieb, ktorými sa zvýši pracovná príležitosť o viac ako 300 osôb alebo pri ktorých rozpočtový náklad stavebnej časti presahuje 20 mil. Kčs (stavby posudzované centrálne.*) Toto ustanovenie sa nevzťahuje na tieto druhy stavieb: banské práce na udržanie ťažby, nové poschodia, spojenie baní a lomov, doprava v lomoch a baniach, vetranie, výsypky, haldy, plynovody, teplovody, vedenia a rozvodne, ropovody a produktovody (okrem medzinárodných) a stavby spojovej siete (okrem medzinárodných spojov), kabelizácia, autoblok, zvýšenie výkonnosti tratí, železničný dispečing, zvláštne poľnohospodárske investície (vinice, chmeľnice a pod.), samostatné akcie rozšírenia a obnovy vodovodnej a kanalizačnej siete, úpravy a doplnenie uličnej siete obcí, učňovské zariadenia (učilištia, internáty a pod., okrem združovaných zariadení pre viac odborov), ubytovne, slobodárne, internáty, školy I. a II. cyklu a bytová výstavba.
+
+(3) Stavby posudzované podľa odseku 2 môžu sa do vykonávacieho plánu zaradiť len vtedy, ak majú príslušnú projektovú a rozpočtovú dokumentáciu podľa predpisov Štátnej komisie pre techniku. Prípravná dokumentácia týchto stavieb sa z uvedených hľadísk prerokúva so Štátnou komisiou pre techniku a so Štátnou plánovacou komisiou (centrálne posudzovanými stavbami sa rozumejú i stavby uložené vládou ako záväzná úloha).
+
+(4) Centrálne posúdenie stavieb podľa odseku 2 neznamená priznanie vyššieho stupňa dôležitosti ani prednostného zabezpečovania dodávateľmi oproti ostatným investíciám.
