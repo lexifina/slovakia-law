@@ -28,6 +28,8 @@
 
 - 6ba) § 151ma Občianskeho zákonníka.
 
+- 6baa) Napríklad nariadenie Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Úradný vestník Európskych spoločenstiev L 294 z 10. novembra 2001), zákon č. 562/2004 Z. z. o európskej spoločnosti a o zmene a doplnení niektorých zákonov, zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
+
 - 6bb) § 151a až 151md Občianskeho zákonníka.
 
 - 6c) Zákon č. 152/1998 Z. z. o sťažnostiach.
