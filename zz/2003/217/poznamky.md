@@ -52,6 +52,8 @@
 
 - 20) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
+- 20a) Nariadenie Európskej komisie (ES) č. 2032/2003 zo 4. novembra 2003 o druhej fáze desaťročného pracovného programu podľa článku 16(2) smernice Európskeho parlamentu a Rady 98/8/EC o uvedení biocídnych výrobkov na trh, ktorou sa mení a dopĺňa nariadenie Komisie (ES) č. 1896/2000 (Úradný vestník Európskej únie L 307, 24. 11. 2003).
+
 - 21) § 23 až 26 zákona č. 163/2001 Z. z. v znení zákona č. 128/2002 Z. z.
 
 - 22) § 21 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.

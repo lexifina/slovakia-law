@@ -2,7 +2,7 @@ Príloha
 
 - Typy biocídnych výrobkov Typ výrobku | Názov typu výrobku | Oblasť použitia
 
-- Dezinfikačné prípravky (Nezahŕňa čistiace prípravky, ktoré sú určené na používanie ako biocídne výrobky so zaručenou účinnosťou, vrátane tekutých pracích prostriedkov, čistiacich práškov a podobných výrobkov) | |
+- Dezinfikačné prípravky (Nezahŕňa čistiace prípravky, ktoré nie sú určené na používanie ako biocídne výrobky so zaručenou účinnosťou, vrátane tekutých pracích prostriedkov, čistiacich práškov a podobných výrobkov) | |
 
 - 1 | Biocídne výrobky na osobnú hygienu | Prípravky používané na osobnú hygienu na účely všeobecnej dezinfekcie s výnimkou prípravkov s liečivým účinkom a prípravkov, ktorých primárny účinok a účel použitia je kozmetický a účinok biocídny je doplnkový, ako napr. antimikrobionálne mydlá, šampóny proti lupinám a ústne vody.
 
