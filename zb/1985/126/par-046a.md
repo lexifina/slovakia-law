@@ -12,7 +12,7 @@
 
 (3) Správy Zboru požiarnej ochrany sú v zásade zriaďované podľa územného členenia Slovenskej republiky. Hlavná správa Zboru požiarnej ochrany je útvarom ministerstva vnútra; v rozsahu vymedzenom ministrom vnútra plní úlohy ministerstva vnútra na úseku požiarnej ochrany.
 
-(4) Ak ide o štátnu správu, ktorá nevyžaduje styk s občanmi alebo sa vyskytuje zriedkavo, môže okresná správa Zboru požiarnej ochrany poveriť jednu obvodnú správu Zboru požiarnej ochrany jej výkonom aj pre územný obvod inej susediacej obvodnej správy Zboru požiarnej ochrany.
+(4) Ak ide o štátnu správu, ktorá nevyžaduje styk s fyzickými osobami alebo sa vyskytuje zriedkavo, môže okresná správa Zboru požiarnej ochrany poveriť jednu obvodnú správu Zboru požiarnej ochrany jej výkonom aj pre územný obvod inej susediacej obvodnej správy Zboru požiarnej ochrany.
 
 (5) Ministerstvo vnútra môže poveriť jednu okresnú správu Zboru požiarnej ochrany výkonom niektorých špecializovaných agend aj pre územný obvod inej okresnej správy Zboru požiarnej ochrany.
 
