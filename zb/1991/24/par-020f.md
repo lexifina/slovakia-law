@@ -1,0 +1,9 @@
+# § 20f Prevod poistného kmeňa
+
+(1) Povinnosť previesť poistný kmeň alebo jeho časť (§ 20) môže nariadiť dozorný orgán v súvislosti s ohrozením schopnosti poisťovne splniť prevzaté záväzky alebo v súvislosti so zavedením nútenej správy, alebo v súvislosti s pozastavením oprávnenia na uzatváranie zmlúv alebo s odňatím povolenia na vznik poisťovne a podnikanie v poisťovníctve. Poisťovňa je povinná v lehote, ktorú určil dozorný orgán, najneskôr však v lehote 30 dní od nadobudnutia právoplatnosti rozhodnutia, ktorým dozorný orgán nariadil poisťovni vykonať prevod poistného kmeňa, predložiť dozornému orgánu na schválenie návrh postupu prevodu na preberajúcu poisťovňu. Súčasťou návrhu musí byť vyjadrenie preberajúcej poisťovne, že s prevodom poistného kmeňa súhlasí. Ak z predloženého návrhu vyplýva, že sa účel prevodu poistného kmeňa nedosiahne, dozorný orgán rozhodne o ďalšom postupe.
+
+(2) Prevod poistného kmeňa sa môže uskutočniť i na základe žiadosti poisťovne. Prílohou k žiadosti je návrh postupu prevodu poistného kmeňa na preberajúcu poisťovňu, ktorého súčasťou musí byť vyjadrenie preberajúcej poisťovne, že s prevodom poistného kmeňa súhlasí. O takejto žiadosti dozorný orgán rozhodne v lehote 30 dní od jej podania. Dozorný orgán schváli prevod poistného kmeňa, len ak s tým preberajúca poisťovňa súhlasí.
+
+(3) Preberajúca poisťovňa je povinná do 30 dní po právoplatnosti rozhodnutia dozorného orgánu, ktorým bol schválený postup prevodu poistného kmeňa podľa odseku 1 alebo schválený prevod poistného kmeňa podľa odseku 2, oznámiť poisteným, ktorých poistných zmlúv sa prevod poistného kmeňa týka, obchodné meno a sídlo preberajúcej poisťovne a dátum, dokedy sa musí prevod poistného kmeňa skončiť.
+
+(4) Dňom, keď nadobudlo právoplatnosť rozhodnutie dozorného orgánu podľa odseku 1 alebo 2, preberajúca poisťovňa vstupuje do všetkých práv a záväzkov odovzdávajúcej poisťovne, ktoré boli predmetom prevodu.
