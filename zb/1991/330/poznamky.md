@@ -4,9 +4,15 @@
 
 - 1aa) § 151a až 151n Občianskeho zákonníka.
 
-- 2) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 69 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, § 22 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 2) § 21b ods. 1 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
-- 3) § 1 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení zákona SNR č. 130/1991 Zb.
+- 2a) § 6 až 17 zákona č. 64/1997 Z. z. o užívaní pozemkov v zriadených záhradkárskych osadách a vyporiadaní vlastníctva k nim v znení nálezu Ústavného súdu Slovenskej republiky č. 224/2001 Z. z.
+
+- 3) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
+- 3a) Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- 3b) Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 471/2001 Z. z.
 
 - 4) § 4 zákona č. 229/1991 Zb.
 
@@ -125,6 +131,8 @@
 - 23e) § 8 a 26 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 23f) § 108 ods. 2 písm. a) a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 23fa) § 659 Občianskeho zákonníka.
 
 - 23g) § 40 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
