@@ -1,3 +1,3 @@
-Príloha č. 2
+Príloha č. 3
 
-- HRANIČNÁ PRIEPUSTKA [Vzor 02](../assets/e018e33e8ffb5eedeebb4ad9b6edb137ef06255c13938391ea78ead70581c247.pdf)
+- PREUKAZ [Vzor 03](../assets/4bb6d6e1c6a4b8eda08300db3f29518a1e24bce8b419121ad97584c9246d1c20.pdf)

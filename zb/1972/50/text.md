@@ -18,6 +18,8 @@ V súlade so svojím článkom 15 nadobudlo Dojednanie platnosť súčasne s uve
 
 České znenia uvedených zmluvných dokumentov sa vyhlasujú súčasne.<sup>*</sup>)
 
+Dňom nadobudnutia platnosti dohody (oznámenie č. 29/2007 Z. z.) vo vzťahu medzi Slovenskou republikou a Poľskou republikou sa skončila platnosť článku 3, 3a) a prílohy č. 1 Dojednania medzi vládou Československej socialistickej republiky a vládou Poľskej ľudovej republiky o spolupráci pri výkone kontroly v železničnom a cestnom styku cez štátne hranice (oznámenie č. 29/2007 Z. z. nezohľadnilo oznámenie č. 67/2003 Z. z., ktoré s platnosťou od 10. júla 2000 uvedené ustanovenia už zrušilo).
+
 Minister:
 
 Ing. Chňoupek v. r.

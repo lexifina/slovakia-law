@@ -30,20 +30,6 @@
 
     - V zmysle článku 5 ods. 1 Zmluvy medzi Československou socialistickou republikou a Poľskou ľudovou republikou o spolupráci pri výkone kontroly osôb, tovaru a dopravných prostriedkov prestupujúcich československo-poľské štátne hranice v železničnom a cestnom styku môže dôjsť k prerušeniu cesty, navráteniu alebo odprevadeniu osoby na územie štátu, z ktorého vystupuje, v tých prípadoch, keď osoba nie je na prestup štátnych hraníc oprávnená, alebo ak sú iné zákonné dôvody.
 
-  - Článok 3
-
-    - Prehľad otvorených hraničných priechodov a druhov hraničného styku na týchto priechodoch, staniciach a úsekoch železničných tratí, ako aj na iných miestach, na ktorých orgány oboch zmluvných strán vykonávajú spoločnú kontrolu, obsahuje príloha č. 1 tohto Dojednania.
-
-  - Článok 3a
-
-    - (1) Z dôvodov spoločenských, náboženských, kultúrnych a iných obdobných akcií organizovaných v prihraničných obciach oboch štátov možno povoliť prekračovanie spoločných štátnych hraníc mimo otvorených hraničných priechodov.
-
-    - (2) Organizátori týchto uvedených akcií požiadajú o povolenie najmenej 30 dní pred uskutočnením akcie príslušný vnútroštátny orgán svojho štátu.
-
-    - (3) Prechod v chránených krajinných oblastiach a v oblastiach nebezpečných alebo ohrozujúcich zdravie alebo život účastníkov sa nebude povoľovať.
-
-    - (4) Ustanovenia tohto článku sa nedotýkajú zásad tohto Dojednania o výkone pasovej a colnej kontroly.
-
   - Článok 4
 
     - 1. Pasovú kontrolu začínajú orgány tej strany, ktorej územie osoby opúšťajú. Pasové orgány prijímajú od osôb prestupujúcich štátne hranice príslušné doklady a po ich kontrole ich bezodkladne odovzdávajú orgánom pasovej kontroly druhej strany, ktoré ich po vykonaní kontroly vracajú držiteľom.
