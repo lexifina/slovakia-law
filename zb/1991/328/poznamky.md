@@ -4,6 +4,8 @@
 
 - 1b) § 92 ods. 2 Občianskeho súdneho poriadku.
 
+- 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
+
 - 2) § 91 ods. 2 Občianskeho súdneho poriadku.
 
 - 2a) Napríklad Občiansky súdny poriadok, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok), zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.

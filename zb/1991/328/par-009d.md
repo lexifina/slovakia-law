@@ -6,7 +6,7 @@
 
 (2) Policajný zbor je povinný poskytovať správcovi na jeho žiadosť súčinnosť pri výkone správy.
 
-(3) Štátne a iné orgány a právnické osoby, ktoré z úradnej moci alebo vzhľadom na predmet svojej činnosti vedú evidenciu osôb a ich majetku, sú povinné oznámiť správcovi na jeho písomnú žiadosť údaje potrebné na výkon správy; túto povinnosť má najmä orgán poverený evidenciou nehnuteľností, daňový orgán, orgán, ktorý vedie evidenciu motorových vozidiel, a stredisko cenných papierov.
+(3) Štátne a iné orgány a právnické osoby, ktoré z úradnej moci alebo vzhľadom na predmet svojej činnosti vedú evidenciu osôb a ich majetku, sú povinné oznámiť správcovi na jeho písomnú žiadosť údaje potrebné na výkon správy; túto povinnosť má najmä orgán poverený evidenciou nehnuteľností, daňový orgán, orgán, ktorý vedie evidenciu motorových vozidiel, a centrálny depozitár<sup>1c</sup>).
 
 (4) Osoby, ktoré majú listiny a iné veci, ktoré môžu byť dôkazným prostriedkom pri zistení alebo pri zabezpečení dlžníkovho majetku, sú povinné správcovi na jeho písomnú žiadosť tieto listiny a veci vydať alebo zapožičať.
 
