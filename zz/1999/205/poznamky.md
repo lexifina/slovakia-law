@@ -1,0 +1,1 @@
+- 1) Dňa 2. júla 1999 bola v zmysle zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov vykonaná zmena názvu Slovenského spolku cukrovarníckeho na Slovenský cukrovarnícky spolok.
