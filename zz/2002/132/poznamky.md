@@ -62,6 +62,10 @@
 
 - 31) § 4 ods. 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
+- 31a) § 81 zákona č. 131/2002 Z. z. v znení zákona č. 528/2003 Z. z.
+
+- 31b) § 84 zákona č. 131/2002 Z. z. v znení zákona č. 528/2003 Z. z.
+
 - 32) § 22 až 29 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
 - 33) Napríklad zákon č. 241/2001 Z. z., zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch, zákon č. 211/2000 Z. z.
@@ -71,3 +75,5 @@
 - 35) § 17 až 20 zákona č. 513/1991 Zb. Obchodný zákonník.
 
 - 36) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 36a) § 109 ods. 4 a 5 zákona č. 131/2002 Z. z. v znení zákona č. 528/2003 Z. z.
