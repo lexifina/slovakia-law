@@ -24,4 +24,6 @@
 
 - 13) Napríklad § 20 zákona č. 468/1991 Zb., § 8 zákona Národnej rady Slovenskej republiky č. 1/1996 Z. z., § 28 a 29 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z., § 28 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z., § 23 a 24 zákona č. 634/1992 Zb., zákon Slovenskej národnej rady č. 71/1986 Zb. v znení neskorších predpisov.
 
+- 13a) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
 - 14) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, § 20f a nasl. Občianskeho zákonníka.
