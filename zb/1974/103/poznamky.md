@@ -10,6 +10,8 @@
 
 - 3) § 57 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov.
 
+- 3a) § 36 ods. 2 písm. b) zákona č. 122/1975 Zb. o poľnohospodárskom družstevníctve.
+
 - 4) § 360a Hospodárskeho zákonníka č. 109/1964 Zb., úplné znenie č. 37/1971 Zb.
 
 - 5) § 26 vyhlášky č. 2/1972 Zb. o kooperačných vzťahoch pri rozvoji špecializácie a koncentrácie poľnohospodárskej výroby.
@@ -30,9 +32,9 @@
 
 - 13) § 8 zákona č. 103/1974 o poľnohospodárskej dani.
 
-- 14) § 57 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov.
+- 16) § 57 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov.
 
-- 15) Jednotlivé prírodné stanovištia sú zaradené do týchto skupín:
+- 17) Jednotlivé prírodné stanovištia sú zaradené do týchto skupín:
 
 - I. černozemné veľmi teplé oblasti (ČMt 1 až 23)
 
@@ -50,4 +52,4 @@
 
 - Čísla v jednotlivých skupinách vyjadrujú rozdielne klimatické a terénne podmienky.
 
-- 16) Označenie prírodných stanovíšť sa uvádza v prílohe č. 1.
+- 18) Označenie prírodných stanovíšť sa uvádza v prílohe č. 1.
