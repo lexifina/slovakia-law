@@ -8,8 +8,6 @@
 
 (4) Platitelia v združení, ktorí nie sú poverenou osobou podľa odseku 1, nesmú vo svojom mene vyhotovovať doklady podľa tohto zákona za zdaniteľné plnenia združenia.
 
-(5) Odpočet dane za prijaté zdaniteľné plnenia (§ 20) pre združenie smie uplatniť len poverená osoba podľa odseku 1, a to len ak daňový doklad znie na jej meno.
+(5) Odpočítať daň pri prijatom zdaniteľnom plnení (§ 20) pre združenie môže len poverená osoba podľa odseku 1, a to len ak daňový doklad znie na jej meno.
 
-(6) Pre platiteľov, ktorí vykonávajú zdaniteľné plnenia spoločne na základe zmluvy o združení, je zdaňovacím obdobím kalendárny mesiac.
-
-(7) Za vyrubenú daň a uložené sankcie zodpovedajú účastníci združenia spoločne a nerozdielne.
+(6) Za vyrubenú daň a uložené sankcie zodpovedajú účastníci združenia spoločne a nerozdielne.

@@ -40,9 +40,11 @@
 
 - 8a) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 9) § 29 ods. 2 zákona č. 286/1992 Zb. o daniach z príjmov.
+- 8b) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 174/1988 Zb. o ochranných známkach v znení neskorších predpisov, zákon č. 159/1973 Zb. o ochrane označení pôvodu výrobkov v znení neskorších predpisov.
 
-- 10) § 10 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
+- 9) Zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z.
+
+- 10) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
 
 - 11) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení zákona Slovenskej národnej rady č. 417/1991 Zb., zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách.
 
@@ -102,17 +104,13 @@
 
 - 31) § 476 a 487 Obchodného zákonníka.
 
-- 32) § 2 zákona č. 222/1946 Zb. o pošte (poštový zákon).
-
-- 33) § 5 zákona č. 222/1946 Zb.
-
-- 34) Zákon č. 110/1964 Zb. o telekomunikáciách v znení neskorších predpisov.
+- 32) § 3 zákona č. 507/2001 Z. z. o poštových službách.
 
 - 35) Zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov.
 
 - Zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
-- 35a) § 716 Obchodného zákonníka.
+- 35a) Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
 
 - 36) § 8 ods. 1, § 28 až 33 zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
 
@@ -150,7 +148,7 @@
 
 - 47) § 170 a nasl. zákona č. 618/1992 Zb.
 
-- 48) § 63 zákona č. 618/1992 Zb.
+- 48) § 9 ods. 1 písm. b) zákona č. 238/2001 Z. z. Colný zákon.
 
 - 49) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií, vyhláška ministra zahraničných vecí č. 52/1956 Zb. o prístupe Československej republiky k Dohovoru o výsadách a imunitách Organizácie Spojených národov schválenému Valným zhromaždením Organizácie Spojených národov 13. februára 1946, zákon č. 125/1992 Zb. o zriadení Sekretariátu Konferencie o bezpečnosti a spolupráci v Európe a o výsadách a imunitách tohto sekretariátu a ďalších inštitúcií Konferencie o bezpečnosti a spolupráci v Európe.
 
@@ -187,6 +185,10 @@
 - 56ac) § 42 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 56b) § 73 až 93 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 56c) § 2 ods. 1 a 2 zákona č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov.
+
+- 56d) § 2 ods. 3 písm. a) zákona č. 281/2001 Z. z.
 
 - 57) § 84 až 88 zákona č. 618/1992 Zb.
 

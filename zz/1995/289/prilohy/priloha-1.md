@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
-- ZOZNAM TOVAROV A SLUŽIEB PODLIEHAJÚCICH SADZBE DANE 6 % Kapitoly alebo | Názov tovaru
+- ZOZNAM TOVAROV A SLUŽIEB PODLIEHAJÚCICH SADZBE DANE 14 % Kapitoly alebo | Názov tovaru
 
 - položky colného |
 
@@ -28,9 +28,7 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - 05119190 | - Ostatné - len ikry v očných bodoch
 
-- 05119950 | - Embryá hovädzieho dobytka
-
-- 05119980 | - Ostatné - len kančie spermie
+- 05119990 | - Ostatné - len embryá hovädzieho dobytka a kančie spermie
 
 - 0602 | - Ostatné živé rastliny (vrátane ich koreňov), odrezky a vrúble; podhubie
 
@@ -130,7 +128,7 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | ako 5 % hmotnosti glukózy alebo škrobu
 
-- 21069098 | - Ostatné - len nealkoholické nápoje a šľahačka
+- 21069098 | - Ostatné - len nealkoholické nápoje, šľahačka a syry
 
 - 2201 | - Voda vrátane minerálnych vôd prírodných alebo umelých a sódoviek bez prísady cukru alebo
 
@@ -164,25 +162,17 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | - Vykurovacie oleje:
 
-- 27100074 | - S obsahom síry nepresahujúcim 1 % hmotnosti
+- 27101961 | - S obsahom síry nepresahujúcim 1 % hmotnosti
 
-- 27100076 | - S obsahom síry prevyšujúcim 1 % hmotnosti, ale nepresahujúcim 2 % hmotnosti
+- 27101963 | - S obsahom síry prevyšujúcim 1 % hmotnosti, ale nepresahujúcim 2 % hmotnosti
 
 - 2711 | - Zemný plyn a iné plynné uhľovodíky
 
 - 27160000 | - Elektrická energia
 
-- 28444011 | - Ferourán - len pre zdravotníctvo
+- ex 284440 | - Rádioaktívne prvky a izotopy a zlúčeniny iné ako podpoložiek 2844 10, 2844 20 alebo 2844 30; zliatiny, disperzie (vrátane cermetov), keramické výrobky a zmesi obsahujúce tieto prvky, izotopy alebo zlúčeniny; rádioaktívne zvyšky
 
-- 28444019 | - Ostatné - len pre zdravotníctvo
-
-- 28444020 | - Umelé rádioaktívne izotopy (Euratom) - len pre zdravotníctvo
-
-- 28444030 | - Zlúčeniny umelých rádioaktívnych izotopov (Euratom) - len pre zdravotníctvo
-
-- 28444040 | - Anorganické výrobky používané ako „luminofóry" aktivované rádioaktívnymi zlúčeninami - len
-
-- | pre zdravotníctvo
+- | len pre zdravotníctvo
 
 - 28444090 | - Ostatné - len pre zdravotníctvo
 
@@ -206,7 +196,7 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | laboratórne reagencie, tiež na podložke, iné ako čísla 3002 alebo 3006
 
-- 38249095 | - Ostatné - iba bioplyn
+- ex 38249099 | - Ostatné - iba bioplyn
 
 - 39229000 | - Ostatné - len sedačka do vane na použitie pre ťažko zdravotne postihnutých občanov
 
@@ -222,21 +212,9 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | tvaroch
 
-- 480252 | - S plošnou hmotnosťou do 40 g.m<sup>-2</sup> alebo vyššou, nie však vyššou ako 150 g.m<sup>-2</sup> - len Braille
+- ex 4802 | - len Braille papier
 
-- | papier
-
-- 480253 | - S plošnou hmotnosťou vyššou ako 150 g.m<sup>-2</sup> - len Braille papier
-
-- 48026091 | - V kotúčoch - len Braille papier
-
-- 48026099 | - V listoch (hárkoch) - len Braille papier
-
-- 48056090 | - Ostatné - len Braille papier
-
-- 48057090 | - Ostatné - len Braille papier
-
-- 48058090 | - Ostatné - len Braille papier
+- ex 4805 | - len Braille papier
 
 - 481810 | - Toaletný papier vyrobený z viac ako 70 % recyklovaného papiera
 
@@ -248,7 +226,7 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - 48209000 | - Ostatné, len ak ide o školské výrobky z papiera alebo z kartónu
 
-- 48235990 | - Ostatné - len Braille papier
+- ex 4823 | - len Braille papier
 
 - 4901 | - Knihy, brožúry, letáky a podobné tlačiarenské výrobky, tiež v jednotlivých listoch (v hárkoch)
 
@@ -310,17 +288,13 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - 7017 | - Laboratórne hygienické sklo, farmaceutické, tiež vybavené stupnicami alebo kalibrované
 
-- 84191900 | - Slnečné absorbčné kolektory na ohrievanie vody
-
 - 84192000 | - Sterilizačné prístroje na lekárske, chirurgické alebo na laboratórne účely
-
-- 84212190 | - Domáce prístroje na úpravu vody a malé čističky odpadových vôd pre rodinné domy
 
 - 842310 | - Osobné váhy vrátane detských váh; kuchynské váhy
 
 - | len s hlasovým výstupom pre nevidiacich
 
-- 84254290 | - Ostatné - len vaňový zdvihák na použitie pre ťažko zdravotne postihnutých občanov
+- ex 84289098 | - Ostatné - len vaňový zdvihák na použitie pre občanov s ťažkým zdravotným postihnutím
 
 - 8469 | - Písacie stroje (iné ako tlačiarne čísla 8471) a stroje na spracovanie textu
 
@@ -328,13 +302,7 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | končatinou
 
-- 84701010 | - Elektronické kalkulačky pracujúce bez vonkajšieho zdroja energie s hlasovým výstupom pre
-
-- | nevidiacich
-
-- 84701090 | - Vreckové prístroje na záznam, vyvolanie a zobrazenie údajov s výpočtovými funkciami
-
-- | s hlasovým výstupom pre nevidiacich
+- ex 84701000 | - Elektronické kalkulačky pracujúce bez vonkajšieho zdroja energie a vreckové prístroje na záznam, vyvolanie a zobrazenie údajov výpočtovými funkciami s hlasovým výstupom pre osoby so zrakovým postihnutím
 
 - 84713000 | - Prenosné digitálne zariadenia na automatické spracovanie údajov s hmotnosťou
 
@@ -384,9 +352,13 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | sluchovo postihnutých detí
 
-- 85318090 | - Ostatné
+- ex 85318030 | - Prístroje s plochým panelovým displejom
 
-- | len špeciálne signalizačné prístroje pre nepočujúcich a nevidomých
+- | len pre osoby so sluchovým a zrakovým postihnutím
+
+- ex 85318080 | - Ostatné
+
+- | len pre osoby so sluchovým a zrakovým postihnutím
 
 - ex8703 | - Sanitné vozidlá a vozidlá rýchlej lekárskej pomoci
 
@@ -402,11 +374,9 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | postihnutých
 
-- 87100000 | - Tanky a iné obrnené bojové vozidlá, tiež vybavené zbraňami, ich časti a súčasti
+- 871300 | - Vozíky pre telesne postihnuté osoby, tiež s motorom alebo s iným mechanickým pohonným zariadením
 
-- 8713 | - Vozíky pre invalidov, tiež s motorom alebo s iným mechanickým pohonným zariadením
-
-- 87142000 | - Vozíky pre invalidov
+- 87142000 | - Časti, súčasti a príslušenstvá vozíkov pre telesne postihnuté osoby
 
 - 90013000 | - Kontaktné šošovky
 
@@ -458,10 +428,6 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - 90251191 | - Klinické alebo zverolekárske teplomery
 
-- 90268091 | - Elektronické merače množstva spotrebovaného tepla v domácnostiach
-
-- 90268099 | - Ostatné merače množstva spotrebovaného tepla v domácnostiach
-
 - 9027 | - Prístroje, zariadenia a nástroje na fyzikálne alebo na chemické rozbory (napr. polarimetre,
 
 - | refraktometre, spektrometre, analyzátory plynov alebo dymu); prístroje a nástroje na
@@ -471,8 +437,6 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 - | nástroje na kalorimetrické, akustické alebo fotometrické merania alebo kontrolu (vrátane
 
 - | expozimetrov); mikrotómy
-
-- 90282000 | - Vodomery na teplú a studenú vodu pre spotrebu vody v domácnostiach
 
 - 9102 | - Náramkové hodinky, vreckové hodinky a podobné hodinky (vrátane stopiek), s výnimkou
 
@@ -487,16 +451,6 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 - 94012000 | - Sedadlá používané v motorových vozidlách
 
 - | iba detské sedačky do automobilov
-
-- 93010000 | - Vojenské zbrane, iné revolvery, pištole a zbrane čísla 9307 - len samohybná húfnica ZUZANA
-
-- 93063010 | - Do revolverov a pištolí čísla 9302 a do samopalov čísla 9301
-
-- | len na použitie v ozbrojených silách
-
-- 93063030 | - Do vojenských zbraní
-
-- 93069010 | - Na vojenské účely
 
 - 9402 | - Lekársky, chirurgický, zubolekársky alebo zverolekársky nábytok (napr. operačné stoly,
 
@@ -527,8 +481,6 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 - 05.00.5 | - Služby súvisiace s chovom rýb a s rybolovom
 
 - 29.32.92 | - Opravy a údržba strojov a prístrojov pre poľnohospodárstvo a lesníctvo
-
-- 29.60.92 | - Opravy a údržba zbraní a zbrojných systémov
 
 - 33.10.92 | - Opravy a údržba lekárskeho a chirurgického zariadenia a prístrojov
 

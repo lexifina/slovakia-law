@@ -1,6 +1,6 @@
 Príloha č. 2 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z.
 
-- Zoznam tovarov, ktoré sa pevne zabudovávajú ako súčasť stavby a ktoré podliehajú sadzbe dane 23 % (§ 7 ods. 11 a § 10 ods. 3) Číselný kód | Názov tovaru
+- ZOZNAM TOVAROV, KTORÉ SA PEVNE ZABUDOVÁVAJÚ AKO SÚČASŤ STAVBY A KTORÉ PODLIEHAJÚ SADZBE DANE 20 % (§ 7 ods. 11 a § 10 ods. 3) Číselný kód | Názov tovaru
 
 - 57 | - Koberce a iné textilné podlahové krytiny
 
