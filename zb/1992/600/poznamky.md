@@ -26,6 +26,8 @@
 
 - 11) Napr. § 155 Obchodného zákonníka, § 3 zákona č. 530/1990 Zb., § 23 zákona č. 92/1991 Zb., § 11 zákona č. 248/1992 Zb.
 
+- 11a) § 3 zákona č. 530/1990 Zb. o dlhopisoch.
+
 - 12) § 2 ods. 1 Obchodného zákonníka.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona Národnej rady Slovenskej republiky č. 26/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
@@ -94,11 +96,21 @@
 
 - 36) § 65 Obchodného zákonníka.
 
-- 36a) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+- 36a) § 850 Občianskeho zákonníka.
+
+- 36b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 36c) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
 - 37) Zákon ČNR č. 552/1991 Zb. o štátnej kontrole.
 
 - Zákon SNR č. 418/1991 Zb. o štátnej kontrole.
+
+- 37a) Napr. Obchodný zákonník, Občiansky zákonník, zákon č. 248/l992 Zb.
+
+- 37b) Napr. Trestný zákon, Zákonník práce.
+
+- 37c) § 38 zákona č. 2l/l992 Zb. o bankách v znení neskorších predpisov.
 
 - 38) § 22 ods. 1 zákona č. 92/1991 Zb.
 
@@ -111,3 +123,7 @@
 - Zákon SNR č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
 
 - 41) § 1 ods. 5 zákona č. 530/1990 Zb. v nadväznosti na § 36 zákona č. 22/1992 Zb.
+
+- 42) Zákon č. 214/1992 Zb. o burze cenných papierov v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
+
+- 43) Zákon č. 513/1991 Zb.
