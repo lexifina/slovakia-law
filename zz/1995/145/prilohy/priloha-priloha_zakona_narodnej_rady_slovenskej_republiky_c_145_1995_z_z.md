@@ -2264,7 +2264,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) Vydanie rozhodnutia o zmene registrácie veterinárneho lieku |
 
-  - 1. zmena balenia, výrobcu, držiteľa rozhodnutia, druhu obalu, zmena názvu veterinárneho lieku ........................................................................................................................ | 3 000 Sk
+  - 1. zmena balenia, výrobcu, držiteľa rozhodnutia, druhu obalu, zmena názvu veterinárneho lieku .................................................................................................................. | 3 000 Sk
 
   - 2. zmeny v ochranných lehotách, spôsobe skladovania v dávkovaní, času použiteľnosti veterinárneho lieku ............................................................................................................................. | 20 000 Sk
 
@@ -2274,23 +2274,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) Vydanie rozhodnutia o zmene registrácie podľa písmena g) ................................................. | 2 000 Sk
 
-  - j) žiadosť o zaradenie lieku do zoznamu alebo o zmenu zaradenia lieku v zozname liekov | 1 000 Sk
+  - j) žiadosť o vzájomné uznanie registrácie humánneho lieku .................................................... | 60 000 Sk
 
-  - k) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok ...................................................... | 1 000 Sk
+  - k) žiadosť o vzájomné uznanie registrácie veterinárneho lieku ................................................. | 35 000 Sk
 
-  - l) žiadosť o zaradenie dietetickej potraviny na osobitné medicínske účely do zoznamu dietetických potravín ............................................................................................................................ | 1 000 Sk
+  - l) žiadosť o zaradenie lieku do zoznamu alebo o zmenu zaradenia lieku v zozname liekov | 1 000 Sk
 
-  - m) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) ......................................................................................................................................... | 3 000 Sk
+  - m) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok ...................................................... | 1 000 Sk
 
-  - n) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) .... | 500 Sk
+  - n) žiadosť o zaradenie dietetickej potraviny na osobitné medicínske účely do zoznamu dietetických potravín ................................................................................................. | 1 000 Sk
 
-  - o) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok <sup>36l</sup>) ........................................................................................................................................ | 500 Sk
+  - o) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) ............................................................................................... | 3 000 Sk
 
-  - p) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ........................................................................................................................ | 500 Sk
+  - p) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) .... | 500 Sk
 
-  - r) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku .............................. | 10 000 Sk
+  - r) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) ............................................................................................................. | 500 Sk
 
-  - s) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky ................... | 5 000 Sk
+  - s) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ................................................................................................... | 500 Sk
+
+  - t) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku .............................. | 10 000 Sk
+
+  - u) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky ................... | 5 000 Sk
 
     - Položka 153
 
@@ -2882,103 +2886,105 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 195
 
-  - Vydanie rozhodnutia o súhlase na |
+  - Vydanie rozhodnutia o schválení |
 
-  - a) výstavbu jadrového zariadenia vrátane miestneho zisťovania .................................................... | 5 000 Sk
+  - a) typu prepravného zariadenia na prepravu rádioaktívnych materiálov ........................................................ | 5 000 Sk
 
-  - b) začatie každej jednotlivej etapy uvádzania jadrového zariadenia do prevádzky, najmä na zavážanie jadrového paliva do reaktora, na začatie fyzikálneho spúšťania, energetického spúšťania a prevádzky jadrového zariadenia vrátane miestneho zisťovania .............................. | 5 000 Sk
+  - b) dokumentácie systému kvality žiadateľov o súhlas alebo povolenie alebo držiteľov súhlasu alebo povolenia .............................................................................................................. | 5 000 Sk
 
-  - c) vykonanie zmien ovplyvňujúcich jadrovú bezpečnosť jadrového zariadenia vrátane miestneho zisťovania .............................................................................................................................. | 3 000 Sk
+  - c) požiadaviek na kvalitu jadrových zariadení, kategorizácie vybraných zariadení do bezpečnostných tried a požiadaviek na kvalitu vybraných zariadení ............................................................................................. | 5 000 Sk
 
-  - d) predĺženie doby prevádzky jadrového zariadenia .......................................................................... | 5 000 Sk
+  - d) systému odbornej prípravy zamestnancov ...................................................................................................... | 5 000 Sk
 
-  - Splnomocnenie 1. V prípade písomného podania s neúplnou alebo nevyhovujúcou dokumentáciou môže správny orgán zvýšiť poplatok podľa tejto položky až o 50 % určenej sadzby. 2. Od poplatku podľa písmena c) tejto položky môže správny orgán upustiť, ak rozsah zmien je malý a nevyžaduje veľké nároky na posúdenie správnym orgánom. |
+  - e) programu prípravy vybraných zamestnancov .................................................................................................. | 1 000 Sk
+
+  - f) plánu fyzickej ochrany ........................................................................................................................................... | 5 000 Sk
+
+  - g) predbežného vnútorného havarijného plánu .................................................................................................. | 5 000 Sk
+
+  - h) vnútorného havarijného plánu ........................................................................................................................... | 5 000 Sk
+
+  - i) limitov a podmienok bezpečnej prevádzky ....................................................................................................... | 5 000 Sk
+
+  - j) limitov a podmienok bezpečného vyraďovania ................................................................................................ | 5 000 Sk
+
+  - k) programu uvádzania jadrového zariadenia do prevádzky členeného na etapy ........................................ | 5 000 Sk
+
+  - l) hraníc jadrového zariadenia a ich zmien .......................................................................................................... | 5 000 Sk
+
+  - m) veľkosti oblasti ohrozenia jadrovým zariadením a jej zmien ...................................................................... | 5 000 Sk
+
+  - n) realizácie zmien ovplyvňujúcich jadrovú bezpečnosť .................................................................................... | 1 000 Sk
+
+  - Splnomocnenie Ak ide o zmeny rozhodnutí podľa písmen a) až n), správny orgán môže poplatok znížiť až na 50 % uvedenej sadzby. |
 
     - Položka 196
 
-  - a) Vydanie rozhodnutia o schválení vrátane miestneho zisťovania |
+  - Vydanie rozhodnutia |
 
-  - 1. limitov a podmienok bezpečnej prevádzky ................................................................................ | 5 000 Sk
+  - a) o súhlase na umiestnenie stavby jadrového zariadenia .......................................................................... | 10 000 Sk
 
-  - 2. dokumentu systému kvality, programu zabezpečovania kvality a požiadaviek na kvalitu jadrových zariadení a činností ............................................................................................................ | 3 000 Sk
+  - b) o stavebnom povolení na stavbu jadrového zariadenia vrátane miestneho zisťovania ..................... | 10 000 Sk
 
-  - 3. programu uvádzania jadrového zariadenia do prevádzky členeného na etapy .................. | 5 000 Sk
+  - c) o povolení na uvádzanie jadrového zariadenia do prevádzky vrátane miestneho zisťovania ............ | 10 000 Sk
 
-  - 4. vnútorného havarijného plánu ..................................................................................................... | 3 000 Sk
+  - d) o povolení na prevádzku jadrového zariadenia ........................................................................................... | 10 000 Sk
 
-  - 5. typu prepravného zariadenia na prepravu jadrových materiálov a rádioaktívnych odpadov | 3 000 Sk
+  - e) o povolení na prevádzku jadrového zariadenia po vykonaní systematického a komplexného hodnotenia jadrovej bezpečnosti ........................................................................................................................ | 10 000 Sk
 
-  - 6. havarijného dopravného poriadku .............................................................................................. | 3 000 Sk
+  - f) o povolení na etapu vyraďovania ...................................................................................................................... | 10 000 Sk
 
-  - b) Zmena rozhodnutí podľa písmena a) .......................................................................................... | 50 % príslušnej sadzby
+  - g) o povolení na uzatvorenie úložiska a inštitucionálnu kontrolu .................................................................. | 10 000 Sk
+
+  - h) o povolení na nakladanie s rádioaktívnymi odpadmi a s vyhoretým jadrovým palivom ....................... | 5 000 Sk
+
+  - i) o povolení na nakladanie s jadrovými materiálmi ........................................................................................ | 5 000 Sk
+
+  - j) o povolení na dovoz alebo vývoz jadrových materiálov, špeciálnych materiálov a zariadení ................ | 5 000 Sk
+
+  - k) o povolení na prepravu rádioaktívnych materiálov ....................................................................................... | 5 000 Sk
+
+  - l) o povolení na odbornú prípravu zamestnancov držiteľa povolenia ........................................................... | 5 000 Sk
+
+  - m) o povolení na spätnú prepravu rádioaktívnych odpadov ........................................................................... | 5 000 Sk
+
+  - n) o povolení na dovoz rádioaktívnych odpadov ................................................................................................ | 5 000 Sk
+
+  - o) o povolení na nakladanie s jadrovými materiálmi mimo jadrového zariadenia .................................... | 1 000 Sk
+
+  - Splnomocnenie 1. Ak ide o písomné podanie s neúplnou alebo nevyhovujúcou dokumentáciou, môže správny orgán zvýšiť poplatok podľa tejto položky až o 50 % určenej sadzby. 2. Ak ide o zmeny rozhodnutí uvedených v položke 196, môže správny orgán poplatok znížiť až na 50 % uvedenej sadzby. |
 
     - Položka 197
 
-  - Vydanie povolenia na |
+  - Vydanie rozhodnutia o posúdení havarijného dopravného poriadku .................................... | 5 000 Sk
 
-  - a) nadobúdanie a používanie jadrových materiálov vrátane miestneho zisťovania ..................... | 1 000 Sk
-
-  - b) osobitné používanie jadrového materiálu<sup>40</sup>) vrátane miestneho zisťovania ............................ | 500 Sk
-
-  - c) dovoz alebo vývoz jadrových materiálov alebo špeciálnych materiálov a zariadení vrátane miestneho zisťovania ................................................................................................................ | 1 000 Sk
-
-  - d) prepravu jadrového materiálu alebo rádioaktívneho odpadu vrátane miestneho zisťovania | 1 500 Sk
-
-  - e) uvádzanie nevyužiteľných materiálov z jadrových zariadení obsahujúcich rádionuklidy, ktoré nie sú rádioaktívnymi odpadmi do životného prostredia vrátane miestneho zisťovania .. | 1 500 Sk
-
-  - f) jednotlivé činnosti nakladania s rádioaktívnymi odpadmi vrátane miestneho zisťovania ...... | 3 000 Sk
-
-  - g) každú jednotlivú etapu vyraďovania jadrového zariadenia z prevádzky vrátane miestneho zisťovania ................................................................................................................................................... | 3 000 Sk
-
-  - h) vykonávanie špeciálnej leteckej činnosti v zakázaných vzdušných priestoroch v blízkosti jadrových zariadení ................................................................................................................................... | 1 000 Sk
-
-  - Splnomocnenie V prípade vydania povolenia podľa písmen a) a d) tejto položky na dlhšie časové obdobie môže správny orgán zvýšiť poplatok až o 50 % príslušnej sadzby. |
-
-  - Poznámka Ak povolenie podľa písmena f) tejto položky obsahuje viac činností, správny orgán vyberie len jeden poplatok. |
+  - Splnomocnenie Ak ide o zmeny rozhodnutia uvedeného v položke 197, môže správny orgán poplatok znížiť až na 50 % uvedenej sadzby. |
 
     - Položka 198
 
-  - a) Vydanie oprávnenia právnickej osobe alebo fyzickej osobe na |
+  - Vydanie rozhodnutia o súhlase |
 
-  - 1. umiestňovanie, projektovanie, výstavbu, dovoz, uvádzanie do prevádzky, prevádzku a rekonštrukcie jadrových zariadení a ich vyraďovanie z prevádzky ..................................................................................... | 5 000 Sk
+  - a) s realizáciou zmien ovplyvňujúcich jadrovú bezpečnosť ............................................................ | 1 000 Sk
 
-  - 2. navrhovanie, projektovanie, konštruovanie, výrobu, dovoz, montáž, skúšanie, údržbu, opravy a rekonštrukcie vybraných zariadení ........................................................................................................... | 5 000 Sk
+  - b) s použitím nového typu paliva .......................................................................................................... | 3 000 Sk
 
-  - 3. nadobúdanie a používanie jadrových materiálov okrem ich prepravy ....................................................... | 1 000 Sk
+  - c) na vyňatie jadrového zariadenia z pôsobnosti zákona ................................................................ | 5 000 Sk
 
-  - 4. nakladanie s rádioaktívnymi odpadmi ........................................................................................................ | 3 000 Sk
+  - d) na rozriedenie a spotrebu jadrových materiálov .......................................................................... | 3 000 Sk
 
-  - 5. odbornú prípravu zamestnancov jadrových zariadení v špecializovaných zariadeniach ........................ | 5 000 Sk
+  - e) na jednotlivé etapy uvádzania jadrového zariadenia do prevádzky .......................................... | 3 000 Sk
 
-  - b) Predĺženie platnosti oprávnení podľa písmena a) ...................................................................................... | 500 Sk
-
-  - c) Rozšírenie rozsahu oprávnenia vydaného podľa písmena a).................................................................... | 50 % príslušnej sadzby
-
-  - Splnomocnenie Správny orgán môže poplatok podľa písmena a) druhého bodu v odôvodnených prípadoch znížiť až na jednu desatinu určenej sadzby. |
+  - Splnomocnenie Ak ide o zmeny rozhodnutí uvedených v položke 198, môže správny orgán poplatok znížiť až na 50 % uvedenej sadzby. |
 
     - Položka 199
 
-  - Vydanie posudku o |
+  - a) Vydanie preukazu o osobitnej odbornej spôsobilosti ................................. | 500 Sk
 
-  - a) pracovnom programe<sup>41</sup>) prevádzkovateľa .................................................. | 500 Sk
+  - b) Predĺženie platnosti preukazu o osobitnej odbornej spôsobilosti ........... | 200 Sk
 
-  - b) havarijnom dopravnom poriadku .................................................................. | 1 000 Sk
+  - c) Vydanie preukazu o odbornej spôsobilosti ................................................... | 1 000 Sk
 
-    - Položka 200
-
-  - a) Schválenie učebnej osnovy prípravy zamestnancov jadrového zariadenia v špecializovanom zariadení | 300 Sk
-
-  - b) Schválenie spôsobu prípravy zamestnancov jadrového zariadenia ................................................................ | 1 000 Sk
-
-  - c) Vydanie oprávnenia zamestnancovi špecializovaného zariadenia na prípravu vybraných zamestnancov | 300 Sk
-
-  - d) Zmena schválenej učebnej osnovy podľa písmena a) ...................................................................................... | 200 Sk
-
-  - e) Zmena schváleného spôsobu prípravy zamestnancov podľa písmena b) .................................................... | 500 Sk
-
-    - Položka 201
-
-  - Vydanie preukazu o osobitnej odbornej spôsobilosti ....................................................................... | 300 Sk
+  - d) Predĺženie platnosti preukazu o odbornej spôsobilosti ............................. | 500 Sk
 
   - XIII. ČASŤ BEZPEČNOSŤ PRÁCE A TECHNICKÉ ZARIADENIA
 
