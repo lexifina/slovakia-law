@@ -14,6 +14,8 @@
 
 - 6) Zákonník práce č. 65/1965 Zb. v znení neskorších predpisov.
 
+- 6a) § 1 zákona Slovenskej národnej rady č. 192/1992 Zb. o registrácii cirkví a náboženských spoločností.
+
 - 7) § 244 až 250 zákona č. 99/1963 Zb. o občianskom súdnom poriadku v znení neskorších predpisov.
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
