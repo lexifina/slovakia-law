@@ -20,4 +20,6 @@
 
 - 11) § 40 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
 
+- 11a) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
+
 - 12) § 8 a 9 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby.
