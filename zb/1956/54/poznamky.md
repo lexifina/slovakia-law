@@ -3,5 +3,3 @@
 - *) § 23 vyhlášky č. 143/1965 Zb.
 
 - *) Vyhláška č. 88/1967 Zb. o nemocenskom poistení členov výrobných družstiev.
-
-- **) § 14 až 20 vyhlášky č. 143/1965 Zb. a vyhláška č. 97/1967 Zb., ktorou sa vykonávajú niektoré ďalšie ustanovenia Zákonníka práce a predpisov o nemocenskom poistení.
