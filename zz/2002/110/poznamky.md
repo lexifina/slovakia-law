@@ -1,5 +1,3 @@
-- 1) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
-
 - 2) Nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
 
 - 3) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
@@ -10,9 +8,13 @@
 
 - 6) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
+- 6a) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
 - 7) Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
 
-- 8) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 79/1981 Zb. o zdravotníckych pracovníkoch a iných odborných pracovníkoch v zdravotníctve.
+- 8) Nariadenie vlády Slovenskej republiky č. 156/2002 Z. z. o odbornej spôsobilosti pracovníkov v zdravotníctve.Nariadenie vlády Slovenskej republiky č. 157/2002 Z. z. o ďalšom vzdelávaní pracovníkov v zdravotníctve.
+
+- 8a) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 9) Oznámenie Ministerstva pôdohospodárstva Slovenskej republiky č. 101/2001 Z. z. o vydaní výnosu, ktorým sa ustanovujú podrobnosti o organizácii, spôsobe a formách ďalšieho vzdelávania veterinárnych lekárov a odborných veterinárnych pracovníkov.
 

@@ -116,8 +116,6 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 3.04 Zabezpečovanie odbornej agendy spojenej so sprístupňovaním informácií.
 
-- 3.05 Usmerňovanie a kontrola utajovaných skutočností vykonávané štátnym zamestnancom po získaní osvedčenia.<sup>1</sup>)
-
 - 4. PLATOVÁ TRIEDA
 
 - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -134,11 +132,9 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 4.04 Samostatné vybavovanie ucelenej agendy na úseku oslobodzovania občanov od povinnosti vykonať mimoriadnu službu v ústrednom orgáne štátnej správy, v inom orgáne štátnej správy s celoštátnou pôsobnosťou alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
 
-- 4.05 Metodické usmerňovanie a kontrola utajovaných skutočností z úrovne ústredného orgánu štátnej správy, z iného orgánu štátnej správy s celoštátnou pôsobnosťou alebo z úrovne štátneho orgánu vykonávajúceho štátne záležitosti s celoštátnou pôsobnosťou vykonávané štátnym zamestnancom po získaní osvedčenia.<sup>1</sup>)
-
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -164,7 +160,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -190,13 +186,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.10 Analytická činnosť a príprava podkladov na rozhodovanie vo vymedzenej oblasti správy štátneho fondu alebo štátnej podpornej politiky.
 
-- 6.11 Koordinačná, analytická a kontrolná činnosť na úseku ochrany utajovaných skutočností z úrovne ústredného orgánu štátnej správy, iného orgánu štátnej správy s celoštátnou pôsobnosťou alebo štátneho orgánu vykonávajúceho štátne záležitosti s celoštátnou pôsobnosťou vykonávaná štátnym zamestnancom po získaní osvedčenia.<sup>1</sup>)
+- 6.12 Analytická, metodická a organizačná činnosť v oblasti zverejňovania informácií, ako aj priame zverejňovanie informácií v ústrednom orgáne štátnej správy, v inom orgáne štátnej správy s celoštátnou pôsobnosťou alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
 
-- 6.12 Analytická, metodická a organizačná činnosť v oblasti zverejňovania informácií, ako aj priame zverejňovanie informácií v ústrednom orgáne štátnej správy alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
+- 6.13 Analytická, metodická a organizačná činnosť v oblasti sprístupňovania informácií, prípadne aj s priamym spracovaním a sprístupnením informácie v ústrednom orgáne štátnej správy, v inom orgáne štátnej správy s celoštátnou pôsobnosťou alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
 
-- 6.13 Analytická, metodická a organizačná činnosť v oblasti sprístupňovania informácií, prípadne aj s priamym spracovaním a sprístupnením informácie v ústrednom orgáne štátnej správy alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
-
-- 6.14 Rozhodovacia činnosť v oblasti sprístupňovania informácií v ústrednom orgáne štátnej správy alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
+- 6.14 Rozhodovacia činnosť v oblasti sprístupňovania informácií v ústrednom orgáne štátnej správy, v inom orgáne štátnej správy s celoštátnou pôsobnosťou alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
 
 - 6.15 Kontrolná činnosť vrátane spracúvania návrhov na uloženie postihov, ako aj prešetrovania a kontroly vybavovania závažných podaní na celoštátnej úrovni, na úrovni viacerých krajov alebo na úrovni kraja.
 
@@ -204,9 +198,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.17 Koordinovanie a organizovanie kontrolných akcií, ich príprava a analýza vrátane spracúvania programu kontroly, kontrolná činnosť a spolupráca pri realizácii výsledkov kontroly alebo vybavovania podaní na úrovni okresu.
 
+- 6.18 Analytická a realizačná činnosť pri zabezpečovaní projektov častí štátneho informačného systému.
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -264,9 +260,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.26 Koncepčná, koordinačná a kontrolná činnosť vrátane vedenia kontrolnej skupiny v rámci viacerých krajov alebo v rámci kraja.
 
+- 7.27 Analýza finančného riadenia a predkladanie návrhov riešení pri vykonávaní vnútorného auditu v pôsobnosti ústredného orgánu štátnej správy alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
+
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -314,15 +312,17 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8.21 Systémová a vývojová činnosť pri projektovaní častí štátneho informačného systému.
 
-- 8.22 Tvorba koncepcie, koordinovanie vývoja a realizácie štátneho informačného systému.
+- 8.22 Tvorba koncepcie, koordinovanie vývoja a realizácie štátneho informačného systému alebo častí štátneho informačného systému v ústrednom orgáne štátnej správy alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
 
 - 8.23 Koncepčná, koordinačná a organizačná činnosť v rozsahu vecnej a územnej pôsobnosti správy finančnej kontroly alebo daňového orgánu vrátane usmerňovania jeho jednotlivých činností.
 
 - 8.24 Tvorba koncepcie a programov rozvoja kraja.
 
+- 8.25 Koncepčná audítorská a usmerňovacia činnosť vrátane vykonávania vnútorného auditu v oblasti finančného riadenia v rozsahu pôsobnosti ústredného orgánu štátnej správy alebo štátneho orgánu vykonávajúceho štátne záležitosti s celoštátnou pôsobnosťou.
+
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -334,7 +334,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 9.03 Tvorba zákonov v ústrednom orgáne štátnej správy alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
 
-- 9.04 Koordinovanie celoštátneho alebo medzištátneho systému s vnútornými a vonkajšími väzbami na ďalšie systémy rôznorodých odborov a smerov z ústredného orgánu štátnej správy.
+- 9.04 Koordinovanie celoštátneho alebo medzištátneho systému s vnútornými a vonkajšími väzbami na ďalšie systémy rôznorodých odborov a smerov z ústredného orgánu štátnej správy alebo v inom orgáne štátnej správy s celoštátnou pôsobnosťou na základe kompetencie ustanovenej osobitným zákonom alebo uznesením vlády.
 
 - 9.05 Tvorba koncepcií a koordinovanie programov pre vstup do medzinárodných integračných štruktúr v ústrednom orgáne štátnej správy alebo v štátnom orgáne vykonávajúcom štátne záležitosti s celoštátnou pôsobnosťou.
 
@@ -374,7 +374,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -384,7 +384,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -420,15 +420,15 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.15 Samostatná odborná činnosť pri kontrole, meraní, rozhodovaní a povoľovaní v štátnej správe pošty v oblasti dohľadu nad trhom poštových služieb.
 
-- 6.16 Rozhodovacia činnosť v povoľovacom konaní v cestnom hospodárstve v stanovenom rozsahu vrátane kontrolnej činnosti v cestnom hospodárstve na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 6.16 Rozhodovacia činnosť v povoľovacom konaní v oblasti správneho orgánu pre cesty v stanovenom rozsahu vrátane kontrolnej činnosti na cestách na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 6.17 Rozhodovacia činnosť v povoľovacom konaní v cestnom hospodárstve v stanovenom rozsahu vrátane kontrolnej činnosti v cestnom hospodárstve na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 6.17 Rozhodovacia činnosť v povoľovacom konaní v oblasti správneho orgánu pre miestne a účelové komunikácie v stanovenom rozsahu vrátane kontrolnej činnosti na miestnych a účelových komunikáciách na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 6.18 Rozhodovacia činnosť v povoľovacom konaní podľa zákona o premávke na pozemných komunikáciách vrátane kontrolnej činnosti na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 6.18 Rozhodovacia činnosť v povoľovacom konaní podľa zákona o premávke na pozemných komunikáciách vrátane kontrolnej činnosti na úrovni kraja alebo na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -468,17 +468,19 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.17 Metodická, koordinačná, dozorná a rozhodovacia činnosť v štátnej správe pošty v oblasti dohľadu nad trhom poštových služieb.
 
-- 7.18 Koncepčná a rozhodovacia činnosť v povoľovacom konaní v oblasti špeciálneho stavebného úradu pre cesty v stanovenom rozsahu vrátane kontrolnej činnosti v cestnom hospodárstve na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 7.18 Koncepčná a rozhodovacia činnosť v povoľovacom konaní v oblasti špeciálneho stavebného úradu alebo správneho orgánu pre cesty v stanovenom rozsahu vrátane kontrolnej činnosti na cestách na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 7.19 Koncepčná a rozhodovacia činnosť v povoľovacom konaní v oblasti cestnej dopravy v stanovenom rozsahu vrátane kontrolnej činnosti v cestnej doprave na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 7.20 Koncepčná a rozhodovacia činnosť v povoľovacom konaní pre mestské dráhy a dráhy osobitného určenia v stanovenom rozsahu vrátane kontrolnej činnosti vo vymedzenom rozsahu na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 7.21 Koncepčná, koordinačná a rozhodovacia činnosť v povoľovacom konaní v oblasti špeciálneho stavebného úradu pre miestne a účelové komunikácie v stanovenom rozsahu vrátane kontrolnej činnosti v cestnom hospodárstve na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 7.21 Koncepčná, koordinačná a rozhodovacia činnosť v povoľovacom konaní v oblasti špeciálneho stavebného úradu alebo správneho orgánu pre miestne a účelové komunikácie v stanovenom rozsahu vrátane kontrolnej činnosti na miestnych a účelových komunikáciách na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
+- 7.22 Analytická a rozhodovacia činnosť v oblasti štátneho odborného dozoru nad diaľnicami, špeciálneho stavebného úradu pre diaľnice alebo cestného správneho orgánu na diaľniciach vykonávaná v ústrednom orgáne štátnej správy.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -508,9 +510,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8.12 Koncepčná, koordinačná a kontrolná činnosť pri vykonávaní štátnej správy, spolupráca s ústrednými orgánmi štátnej správy pri rozvoji a plnení úloh štátnej dopravnej politiky na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 8.13 Koordinačná a metodická činnosť ústredného orgánu štátnej správy na úseku štátneho odborného dozoru, špeciálneho stavebného úradu alebo cestného správneho orgánu nad cestami, miestnymi komunikáciami a účelovými komunikáciami alebo diaľnicami.
+
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -550,7 +554,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -568,7 +572,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -584,9 +588,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.05 Vykonávanie všetkých úkonov súvisiacich s vymáhaním daňových pohľadávok a daňových nedoplatkov.
 
+- 6.06 Analyzovanie a hodnotenie podozrení z trestných činov súvisiacich s porušením daňových zákonov.
+
+- 6.07 Posudzovanie podozrení z trestných činov súvisiacich s porušením daňových zákonov a príprava rozhodnutí.
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -610,9 +618,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.09 Koordinovanie rozhodujúcich smerov rozvoja vo finančnej a daňovej oblasti v rozsahu pôsobnosti daňového orgánu alebo správy finančnej kontroly.
 
+- 7.10 Preverovanie podozrení z trestných činov súvisiacich s porušením daňových zákonov a rozhodovanie o týchto podozreniach.
+
+- 7.11 Koordinačná a metodická činnosť v oblasti daňového preverovania na celoštátnej úrovni.
+
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -623,6 +635,8 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 - 8.02 Rozhodovanie o poskytnutí štátnej pomoci na podporu hospodárskeho rozvoja v orgáne štátnej správy s celoštátnou pôsobnosťou.
 
 - 8.03 Koordinovanie a organizovanie komplexného celoštátneho daňového systému a usmerňovanie jeho jednotlivých úsekov činností.
+
+- 8.04 Koncepčná a koordinačná činnosť v rozsahu celoštátneho daňového preverovania vrátane usmerňovania jeho jednotlivých činností.
 
 - 2.03 GEODÉZIA, KARTOGRAFIA A KATASTER
 
@@ -662,7 +676,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -672,7 +686,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -686,7 +700,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -726,7 +740,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -762,7 +776,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 3.02 Príprava návrhov na rozhodovanie o určení kvality zliatkov a drahých kovov vrátane označovania zliatkov a drahých kovov.
 
-- 3.03 Kontrolná činnosť v oblasti obchodu a služieb na vnútornom trhu v rozsahu stanovenom platnými predpismi pod vedením vedúceho kontrolnej skupiny.
+- 3.03 Kontrolná činnosť na úseku ochrany spotrebiteľa pri predaji výrobkov a poskytovaní služieb spotrebiteľom na vnútornom trhu pod vedením vedúceho kontrolnej skupiny.
 
 - 4. PLATOVÁ TRIEDA
 
@@ -776,15 +790,19 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 4.02 Kontrola rýdzosti drahých kovov deštruktívnymi skúšobnými metódami vrátane prípravy rozhodnutí o zaradení do príslušného stupňa rýdzosti.
 
+- 4.03 Samostatná kontrolná činnosť na úseku ochrany spotrebiteľa na vnútornom trhu vrátane preverovania a prešetrovania podaní občanov.
+
+- 4.04 Príprava podkladov na rozhodovanie štátnej správy na úseku puncovej inšpekcie u podnikateľov.
+
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
 - Činnosti:
 
-- 5.01 Kontrolná činnosť v právnických osobách a fyzických osobách na vnútornom trhu v oblasti obchodu a služieb na zisťovanie nedostatkov, ich príčin a osôb zodpovedných za ich vznik.
+- 5.01 Kontrolná činnosť pri zabezpečovaní náročných kontrolných akcií v právnických osobách a fyzických osobách predávajúcich výrobky na vnútorný trh alebo dodávajúcich výrobky na vnútorný trh, alebo poskytujúcich služby vrátane zisťovania nedostatkov, ich príčin a osôb zodpovedných za ich vznik.
 
 - 5.02 Zabezpečovanie vykonávania štátnej správy na úseku puncovej inšpekcie v podnikateľských subjektoch.
 
@@ -794,7 +812,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -806,7 +824,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.03 Odborná špecializovaná činnosť štátneho odborného dozoru vo vymedzenej oblasti energetiky (elektrina, plyn, teplo).
 
-- 6.04 Kontrolná činnosť v právnických osobách a vo fyzických osobách na vnútornom trhu, v oblasti obchodu a služieb vrátane vedenia kontrolnej skupiny.
+- 6.04 Kontrolná činnosť pri zabezpečovaní a realizácii kontrolných akcií na úseku technickej kontroly výrobkov a posudzovania zhody výrobkov na vnútornom trhu vrátane vedenia kontrolnej skupiny.
 
 - 6.05 Analytická a kontrolná činnosť na úseku ochrany spotrebiteľa na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
@@ -814,7 +832,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -834,9 +852,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.07 Koordinačná, kontrolná a dozorná činnosť pri vykonávaní štátnej správy na úseku ochrany spotrebiteľa vrátane vydávania rozhodnutí na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 7.08 Koordinačná a plánovacia činnosť pri vykonávaní kontroly na úseku ochrany spotrebiteľa a nedovolených obchodných praktík (napr. obchodných podmienok veriteľov pri zmluvných podmienkach).
+
+- 7.09 Analytická, metodická a koordinačná činnosť pri vykonávaní štátnej regulácie v sieťových odvetviach.
+
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -844,7 +866,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8.01 Koordinovanie zahraničnej obchodnej politiky a obchodných záujmov štátu v zahraničí.
 
-- 8.02 Koncepčná a metodická činnosť pri tvorbe systému kontroly obchodnej činnosti na vnútornom trhu, výrobnej alebo inej činnosti slúžiacej na zabezpečenie potrieb vnútorného trhu, verejného stravovania a úrovne poskytovania služieb na celoštátnej úrovni.
+- 8.02 Koncepčná a metodická činnosť pri tvorbe systému kontroly a určovaní hlavných smerov kontroly obchodnej činnosti na vnútornom trhu, výrobnej alebo inej činnosti slúžiacej na zabezpečovanie potrieb vnútorného trhu, služieb cestovného ruchu a ubytovacích služieb, ako aj trhového dohľadu na celoštátnej úrovni.
 
 - 8.03 Hlavný dozor v baníctve a pri činnostiach vykonávaných banským spôsobom, metodické usmerňovanie činností vrátane rozhodnutí o povoľovaní pri hlavnom dozore v baníctve, pri výrobe výbušnín, spracovaní a používaní výbušnín na trhanie a ohňostrojové práce vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>6</sup>)
 
@@ -856,7 +878,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -868,7 +890,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -880,7 +902,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -900,7 +922,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -922,7 +944,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -932,7 +954,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -942,7 +964,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -952,57 +974,65 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 2.07 KULTÚRA
 
+- 4. PLATOVÁ TRIEDA
+
+- Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+- Funkcia: hlavný referent
+
+- Činnosti:
+
+- 4.01 Registrácia periodickej tlače na úrovni okresu alebo na úrovni kraja vrátane rozhodovania o udeľovaní postihov vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
 - Činnosti:
 
-- 5.01 Samostatné zabezpečovanie a vykonávanie čiastkovej odbornej činnosti, kontrolnej činnosti alebo previerkovej činnosti v rámci štátneho dozoru na úseku pamiatkovej starostlivosti vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 5.01 Samostatné zabezpečovanie a vykonávanie čiastkovej odbornej, kontrolnej alebo previerkovej činnosti na úseku ochrany pamiatkového fondu.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
 - Činnosti:
 
-- 6.01 Štátny dozor na úseku pamiatkovej starostlivosti vykonávaný štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 6.01 Vykonávanie štátnej správy na úseku ochrany pamiatkového fondu.
 
-- 6.02 Vykonávanie štátnej správy na úseku kultúry.
+- 6.02 Samostatné spracúvanie návrhov a odborných podkladov na rozhodovanie o vyhlásení, zmene alebo zrušení vyhlásenia národnej kultúrnej pamiatky a pamiatkového územia.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
 - Činnosti:
 
-- 7.01 Koordinovanie štátneho dozoru a kontrola vykonávania štátnej správy v oblasti pamiatkovej starostlivosti vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 7.01 Vykonávanie štátneho dohľadu a metodické usmerňovanie odbornej činnosti na úseku ochrany pamiatkového fondu.
 
-- 7.02 Metodické usmerňovanie a kontrola odbornej činnosti na úseku kultúry z úrovne orgánu štátnej správy.
+- 7.02 Koordinovanie a metodické usmerňovanie prípravy návrhov a odborných podkladov na rozhodovanie o vyhlásení, zmene alebo zrušení vyhlásenia národnej kultúrnej pamiatky a pamiatkového územia.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
 - Činnosti:
 
-- 8.01 Tvorba koncepcie štátneho dozoru v oblasti pamiatkovej starostlivosti na celoštátnej úrovni alebo na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
-
-- 8.02 Koncepčná a koordinačná činnosť štátnej správy na úseku kultúry.
+- 8.01 Koncepčná a koordinačná činnosť štátnej správy na úseku ochrany pamiatkového fondu.
 
 - 2.08 NORMALIZÁCIA, METROLÓGIA A SKÚŠOBNÍCTVO
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1012,7 +1042,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1024,7 +1054,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -1040,7 +1070,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -1086,15 +1116,27 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 4.01 Príprava podkladov na rozhodovanie v druhom stupni správneho konania na úseku obrany na území viacerých krajov.
 
-- 4.02 Vykonávanie štátnej správy v druhom stupni na úseku obrany vo veciach, v ktorých v správnom konaní v prvom stupni konajú okresné vojenské správy.
+- 4.02 Vykonávanie štátnej správy v druhom stupni na úseku obrany vo veciach, v ktorých v správnom konaní v prvom stupni konajú územné vojenské správy.
 
-- 4.03 Samostatná odborná činnosť pri príprave podkladov na rozhodovanie o zdravotnej spôsobilosti brancov, odvedencov, vojakov vo výkone vojenskej služby, vojakov, ktorým bol výkon základnej služby alebo náhradnej služby prerušený, a vojakov v zálohe vykonávať vojenskú službu vykonávaná v okresnej vojenskej správe alebo v úrade vojenskej správy.
+- 4.03 Samostatná odborná činnosť pri príprave podkladov na rozhodovanie o zdravotnej spôsobilosti brancov, odvedencov, vojakov vo výkone vojenskej služby, vojakov, ktorým bol výkon základnej služby alebo náhradnej služby prerušený, a vojakov v zálohe vykonávať vojenskú službu vykonávaná v územnej vojenskej správe alebo vo vyššej vojenskej správe.
 
 - 4.04 Vybavovanie ucelených odborných agend pri vykonávaní štátnej správy (napr. na úseku registrácie a kontroly podnikateľov, pamiatkovej starostlivosti, cestnej dopravy, prírodných zdrojov, obchodu alebo základnej technickej vybavenosti) na území vojenského obvodu.
 
+- 5. PLATOVÁ TRIEDA
+
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.<sup>2</sup>)
+
+- Funkcia: radca
+
+- Činnosti:
+
+- 5.01 Príprava rozhodnutí v konaní o náhrade škody podľa osobitného predpisu<sup>6a</sup>) na organizačnej zložke ozbrojených síl alebo na útvare Policajného zboru.
+
+- 5.02 Príprava podkladov v disciplinárnom konaní podľa osobitného predpisu<sup>6a</sup>) na organizačnej zložke ozbrojených síl alebo na útvare Policajného zboru.
+
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1108,9 +1150,15 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.04 Plánovacia činnosť alebo kontrolná činnosť vo vzťahu k hlavným plánovacím a riadiacim dokumentom v oblasti obrannej politiky, obranného plánovania alebo systému obrany štátu v ústrednom orgáne štátnej správy.
 
+- 6.05 Koordinovanie a kontrola činnosti vojenského a hospodárskeho využívania územia vojenského obvodu vrátane rozhodovacej činnosti štátnej správy na úseku všeobecnej vnútornej správy na území vojenského obvodu.
+
+- 6.06 Metodické usmerňovanie konania o náhrade škody podľa osobitného predpisu<sup>6a</sup>) vrátane prípravy a kontroly rozhodnutí v druhom stupni konania na organizačnej zložke ozbrojených síl s celoštátnou pôsobnosťou alebo na útvare Policajného zboru s krajskou pôsobnosťou.
+
+- 6.07 Metodická, odborná a poradenská činnosť v disciplinárnych veciach na organizačnej zložke ozbrojených síl s celoštátnou pôsobnosťou alebo na útvare Policajného zboru s krajskou pôsobnosťou.
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -1128,7 +1176,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.06 Koordinačná a metodická činnosť vojenských správ pri organizovaní a zabezpečovaní výkonu civilnej služby a kontrola plnenia povinností vyplývajúcich zo zákona u zamestnávateľov a na mieste výkonu civilnej služby s celoštátnou pôsobnosťou.
 
-- 7.07 Štátna správa na okresnej vojenskej správe alebo na úrade vojenskej správy na úseku obrany štátu pri rozhodovaní o zdravotnej spôsobilosti brancov, odvedencov, vojakov vo výkone vojenskej služby, vojakov, ktorým bol výkon základnej služby alebo náhradnej služby prerušený, a vojakov v zálohe vykonávať vojenskú službu vykonávaná lekárom po získaní špecializácie prvého stupňa z príslušného odboru.<sup>8</sup>)
+- 7.07 Štátna správa na územnej vojenskej správe alebo vyššej vojenskej správe na úseku obrany pri rozhodovaní o zdravotnej spôsobilosti brancov, odvedencov, vojakov vo výkone vojenskej služby, vojakov, ktorým bol výkon základnej služby alebo náhradnej služby prerušený, a vojakov v zálohe vykonávať vojenskú službu vykonávaná štátnym zamestnancom po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 7.08 Tvorba koncepcie vojenskej zahraničnej politiky v konkrétnom teritóriu vrátane analytickej činnosti v oblasti vojenskej zahraničnej politiky pre potreby ústredných orgánov štátnej správy.
 
@@ -1136,7 +1184,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -1156,7 +1204,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8.07 Štátny požiarny dozor vo vojenských útvaroch a vojenských zariadeniach a pri používaní špeciálnej vojenskej techniky vykonávaný ústredným orgánom štátnej správy.
 
-- 8.08 Koncepčná a koordinačná činnosť na úseku vojenskej lekárskej posudkovej činnosti v ústrednom orgáne štátnej správy vykonávaná lekárom po získaní špecializácie druhého stupňa z príslušného odboru.<sup>8</sup>)
+- 8.08 Koncepčná a koordinačná činnosť na úseku vojenskej lekárskej posudkovej činnosti v ústrednom orgáne štátnej správy vykonávaná štátnym zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 8.09 Koncepčná a koordinačná činnosť orgánov právnej služby ozbrojených zložiek pri uplatňovaní práv a záujmov vyplývajúcich zo vzťahov, v ktorých jedným z účastníkov je štát (napr. občianskoprávne, obchodné, správne, pracovnoprávne).
 
@@ -1182,6 +1230,8 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 3.02 Zabezpečovanie komunikačného spojenia iných krajín s ústredným orgánom štátnej správy.
 
+- 3.03 Usmerňovanie a kontrola utajovaných skutočností vykonávané štátnym zamestnancom po získaní osvedčenia.<sup>8a</sup>)
+
 - 4. PLATOVÁ TRIEDA
 
 - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -1196,9 +1246,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 4.03 Odborná činnosť na úseku šifrovej služby a zabezpečovania úloh ochrany diplomatickej misie v zahraničí, činnosť vyplývajúca zo súčinnosti odborných zložiek diplomatických misií.
 
+- 4.04 Metodické usmerňovanie a kontrola utajovaných skutočností z úrovne ústredného orgánu štátnej správy, z iného orgánu štátnej správy s celoštátnou pôsobnosťou, z úrovne štátneho orgánu vykonávajúceho štátne záležitosti s celoštátnou pôsobnosťou alebo z úrovne kraja vykonávané štátnym zamestnancom po získaní osvedčenia.<sup>8a</sup>)
+
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1208,7 +1260,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1216,9 +1268,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.01 Špeciálny servis pre šifrové orgány štátnej správy v oblasti aplikovanej kryptológie.
 
+- 6.02 Koordinačná, analytická a kontrolná činnosť na úseku ochrany utajovaných skutočností z úrovne ústredného orgánu štátnej správy, iného orgánu štátnej správy s celoštátnou pôsobnosťou, štátneho orgánu vykonávajúceho štátne záležitosti s celoštátnou pôsobnosťou alebo z úrovne kraja vykonávaná štátnym zamestnancom po získaní osvedčenia.<sup>8a</sup>)
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -1230,7 +1284,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -1240,7 +1294,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -1258,7 +1312,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - Činnosti:
 
-- 3.01 Príprava podkladov na vykonávanie štátnej odbornej kontroly rastlín, rastlinných produktov alebo osív a sadív vrátane analytickej a laboratórnej činnosti pri použití osobitných metód zisťovania.
+- 3.01 Príprava podkladov na vykonávanie štátnej odbornej kontroly pôdy, hnojív, krmív, pesticídov, rastlín, rastlinných produktov alebo osív a sadív vrátane analytickej a laboratórnej činnosti pri použití osobitných metód zisťovania.
 
 - 3.02 Odborné úkony pri prehliadke jatočných zvierat a prehliadke mäsa a orgánov zvierat, vyšetrovanie zrakom, prerezávaním a narezávaním ako podklad na rozhodovanie pri vykonávaní štátnej správy vykonávané zamestnancom po získaní osvedčenia o atestácii.<sup>9</sup>)
 
@@ -1268,7 +1322,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1278,7 +1332,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5.02 Odborná činnosť pri zakladaní a vyhodnocovaní štátnych odrodových pokusov rastlín alebo pokusov právnej ochrany rastlín a vegetačných skúšok ako podklad na rozhodovanie o štátnej registrácii odrôd a na uznávanie a kontrolu množiteľských porastov osív a sadív.
 
-- 5.03 Príprava rozhodnutí na registračné konanie vrátane zakladania a vyhodnocovania pokusov biologickej účinnosti pesticídov, krmív alebo biologického testovania výživy hospodárskych zvierat.
+- 5.03 Príprava rozhodnutí na registračné konanie vrátane zakladania a vyhodnocovania pokusov biologickej účinnosti pesticídov, hnojív, krmív alebo biologického testovania výživy hospodárskych zvierat.
 
 - 5.04 Príprava rozhodnutí na vykonávanie štátnej správy na úseku potravinového dozoru vrátane vykonávania mikrobiologických analýz (biochémia, serológia), ich vyhodnocovanie a identifikácia jednotlivých skupín a druhov mikroorganizmov.
 
@@ -1286,13 +1340,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5.06 Štátna správa na úseku veterinárnej starostlivosti, veterinárneho dozoru a kontroly (napr. zdravie zvierat a ochrana zvierat, veterinárna hygiena a ekológia, hygiena potravín a potravinový dozor) vykonávaná štátnym zamestnancom pod vedením veterinárneho lekára s atestáciou.
 
-- 5.07 Štátna správa na úseku poradenskej a informačnej služby pre podnikateľské subjekty agrokomplexu so zameraním na rozvojové programy regiónu.
+- 5.07 Štátna správa na úseku poradenskej a informačnej služby pre podnikateľské subjekty pôdohospodárstva so zameraním na rozvojové programy regiónu.
 
-- 5.08 Štátna správa na úseku podpornej politiky štátu na zabezpečenie pomoci pri rozvojových aktivitách podnikateľských subjektov agrokomplexu formou dotácií, pôžičiek, úverov a pod.
+- 5.08 Štátna správa na úseku podpornej politiky štátu na zabezpečenie pomoci pri rozvojových aktivitách podnikateľských subjektov pôdohospodárstva formou dotácií, pôžičiek, úverov a pod.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1302,21 +1356,21 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.02 Rastlinolekárska kontrola pri dovoze a vývoze rastlín, rastlinných produktov alebo prípravkov na ochranu rastlín alebo vykonávanie fytoopatrení vo vnútrozemí.
 
-- 6.03 Štátna odborná kontrola pri výrobe, spracúvaní, skladovaní, preprave a uvádzaní do obehu hnojív, krmív, osív a sadív alebo vo vinárstve a vinohradníctve.
+- 6.03 Štátna odborná kontrola pri výrobe, spracúvaní, skladovaní, preprave a uvádzaní do obehu a používaní hnojív, krmív, osív a sadív alebo vo vinárstve a vinohradníctve alebo odborná špecializovaná činnosť pri skúšaní, overovaní, hodnotení a registrácii hnojív, krmív, osív a sadív.
 
 - 6.04 Diagnostikovanie chorôb a škodcov rastlín a produktov rastlinného pôvodu ako súčasť vykonávania štátnej odbornej poľnohospodárskej kontroly.
 
-- 6.05 Štátna správa na úseku veterinárnej starostlivosti, veterinárneho dozoru a kontroly v oblasti špecializovanej odbornej činnosti (napr. zdravie zvierat a jeho ochrana, ochrana zvierat, veterinárna hygiena a ekológia, hygiena potravín, potravinový dozor) vykonávaná štátnym zamestnancom po získaní osvedčenia o atestácii prvého stupňa.<sup>9</sup>)
+- 6.05 Štátna správa na úseku veterinárnej starostlivosti, veterinárneho dozoru a kontroly v oblasti špecializovanej odbornej činnosti (napr. zdravie zvierat a jeho ochrana, ochrana zvierat, veterinárna hygiena a ekológia, hygiena potravín) vykonávaná štátnym zamestnancom po získaní osvedčenia o atestácii prvého stupňa.<sup>9</sup>)
 
 - 6.06 Metodické usmerňovanie a zodpovednosť za správnosť uplatňovania kontrolného systému kvality potravín.
 
 - 6.07 Štátny dozor na úseku plemenitby a šľachtenia hospodárskych zvierat vrátane dozoru nad odbornou spôsobilosťou chovateľov vykonávaný štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>10</sup>)
 
-- 6.08 Komplexné zabezpečovanie a metodické usmerňovanie podnikateľských subjektov agrokomplexu na úseku poradenskej a informačnej služby (napr. o koncepcii rozvoja kraja, výživovej politiky štátu).
+- 6.08 Komplexné zabezpečovanie a metodické usmerňovanie podnikateľských subjektov pôdohospodárstva na úseku poradenskej a informačnej služby (napr. o koncepcii rozvoja kraja, výživovej politiky štátu).
 
-- 6.09 Komplexné zabezpečovanie a metodické usmerňovanie vykonávania štátnej správy na úseku podpornej politiky štátu s cieľom zabezpečiť rozvoj agrokomplexu vrátane prípravy rozhodnutí o priznaní dotácií.
+- 6.09 Komplexné zabezpečovanie a metodické usmerňovanie vykonávania štátnej správy na úseku podpornej politiky štátu s cieľom zabezpečiť rozvoj pôdohospodárstva vrátane prípravy rozhodnutí o priznaní dotácií.
 
-- 6.10 Komplexné zabezpečovanie a metodické usmerňovanie podnikateľských subjektov a nepodnikateľských subjektov agrokomplexu v oblasti hospodárskej mobilizácie, štátneho a služobného tajomstva a civilnej ochrany.
+- 6.10 Komplexné zabezpečovanie a metodické usmerňovanie podnikateľských subjektov a nepodnikateľských subjektov pôdohospodárstva v oblasti hospodárskej mobilizácie, štátneho a služobného tajomstva a civilnej ochrany.
 
 - 6.11 Odborná činnosť pri vykonávaní štátnej správy a dozoru v lesoch, vydávanie rozhodnutí o využívaní a vyňatí pozemku z lesného pôdneho fondu a usmerňovanie rozvoja lesného hospodárstva na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>),<sup>11</sup>)
 
@@ -1330,19 +1384,23 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.16 Odborná činnosť pri zabezpečovaní vykonávania štátnej správy v konaní o pozemkových úpravách pri sceľovaní, parcelácii, usporiadaní pozemkov, rozmiestňovaní druhov pozemkov, arondácii hraníc, navrhovaní vodohospodárskych, protierozívnych, ekologických, komunikačných a iných opatrení v súlade s požiadavkami a podmienkami ochrany a zlepšenia životného prostredia vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 6.17 Odborná činnosť pri zabezpečovaní vykonávania štátnej správy pri spracúvaní projektov pozemkových úprav a iných konaní súvisiacich s výkonom geodetických činností pri usporiadaní pozemkového vlastníctva vykonávaná štátnym zamestnancom po získaní osobitnej odbornej spôsobilosti<sup>4</sup>) a po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 6.17 Odborná činnosť pri zabezpečovaní vykonávania štátnej správy pri spracúvaní projektov pozemkových úprav a iných konaní súvisiacich s výkonom geodetických činností pri usporiadaní pozemkového vlastníctva vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 6.18 Odborná činnosť pri zabezpečovaní vykonávania štátnej správy na úseku ochrany poľnohospodárskeho pôdneho fondu na úrovni okresu vrátane vydávania rozhodnutí o ochrane, využívaní, zmene druhu, prípadne vyňatí poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 6.19 Analytická činnosť pri realizácii priamych platieb a zúčtovania prostriedkov štátneho rozpočtu a Európskej únie na úseku podpornej a dotačnej politiky štátu v pôdohospodárstve.
+
+- 6.20 Metodické usmerňovanie a zodpovednosť za spracovanie vyhodnotenia mikrobiologických, chromatografických a biochemických vyšetrení rastlín, rastlinných produktov, krmív, hnojív alebo osív a sadív.
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
 - Činnosti:
 
-- 7.01 Odborná metodická činnosť na úseku agrochémie, rastlinolekárskej starostlivosti, odrodového skúšobníctva, krmív, ekologického poľnohospodárstva alebo právnej ochrany odrôd vrátane registrácie odrôd a uznávania a kontroly osív a sadív.
+- 7.01 Odborná metodická činnosť na úseku agrochémie, rastlinolekárskej starostlivosti, odrodového skúšobníctva, krmív alebo právnej ochrany odrôd vrátane registrácie, ekologického poľnohospodárstva alebo uznávania a kontroly osív a sadív.
 
 - 7.02 Odborná činnosť pri vykonávaní štátnej správy na úseku potravinového dozoru nad výrobou potravín alebo tabakových výrobkov, manipuláciou s nimi, ich uvádzaním do obehu a nad ich dovozom a vývozom z hľadiska ich zdravotnej neškodnosti a kvality, pričom pri tabakových výrobkoch len z hľadiska kvality vrátane vydávania rozhodnutí.
 
@@ -1372,13 +1430,17 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.15 Metodické usmerňovanie a kontrola vykonávania štátnej správy pri rozhodovaní o reštitučných nárokoch, o pozemkových úpravách, v ďalších konaniach súvisiacich s usporiadaním pozemkového vlastníctva a pri povoľovaní vkladov do katastra nehnuteľností vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 7.16 Rozhodovanie v rámci riadnych a mimoriadnych opravných prostriedkov v oblasti pozemkových úprav v druhom stupni správneho konania na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 7.16 Rozhodovanie v rámci riadnych a mimoriadnych opravných prostriedkov v druhom stupni správneho konania (napr. v oblasti pozemkových úprav, ochrany poľnohospodárskeho pôdneho fondu) na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 7.17 Koordinovanie a metodické usmerňovanie vykonávania štátnej správy na úseku ochrany poľnohospodárskeho pôdneho fondu na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 7.18 Metodické usmerňovanie a koordinovanie okresov a vykonávanie štátnej správy na úseku rybárstva na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
+- 7.19 Koncepčná a metodická činnosť na úseku podpornej a dotačnej politiky štátu v pôdohospodárstve pri realizácii priamych platieb a zúčtovania prostriedkov štátneho rozpočtu a Európskej únie.
+
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -1432,11 +1494,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 4.08 Organizačné zabezpečovanie poskytovania opatrovateľskej služby občanom s ťažkým zdravotným postihnutím a občanom s nepriaznivým zdravotným stavom v teréne a organizačné zabezpečenie poskytovania opatrovateľskej starostlivosti v zariadeniach sociálnych služieb, ktoré boli zriadené ako organizačná súčasť príslušného orgánu, vykonávané na úrovni okresu štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 4.09 Zisťovanie, prešetrovanie a preverovanie podkladov vo veci nároku na štátne sociálne dávky na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 4.09 Zisťovanie, prešetrovanie a preverovanie podkladov vo veci nároku na štátne sociálne dávky, dávku sociálnej pomoci a peňažné príspevky na kompenzáciu vrátane prípravy rozhodnutí na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1460,7 +1522,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1484,13 +1546,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.09 Rozhodovanie o štátnych sociálnych dávkach na úrovni okresu alebo na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 6.10 Posudzovanie miery funkčnej poruchy občanov na účely kompenzácie sociálnych dôsledkov ťažkého zdravotného postihnutia na úrovni kraja alebo na úrovni okresu vykonávané lekárom po získaní špecializácie prvého stupňa a nadstavbovej špecializácie z príslušného odboru.<sup>8</sup>)
+- 6.10 Posudzovanie miery funkčnej poruchy občanov na účely kompenzácie sociálnych dôsledkov ťažkého zdravotného postihnutia alebo posudzovanie dlhodobo nepriaznivého zdravotného stavu dieťaťa na účely štátnych sociálnych dávok na úrovni kraja alebo na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 6.11 Vydávanie posudkov na účely kompenzácie sociálnych dôsledkov ťažkého zdravotného postihnutia na úrovni kraja alebo na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 6.12 Rozhodovanie v prvom stupni správneho konania o poskytovaní starostlivosti v zariadení sociálnych služieb zriadenom krajským úradom alebo okresným úradom, o skončení poskytovania starostlivosti v ňom a o úhrade za poskytnutú starostlivosť v ňom vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 6.13 Rozhodovanie o dávke sociálnej pomoci, o sociálnych službách a o peňažných príspevkoch na kompenzáciu na úrovni kraja alebo na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 6.13 Rozhodovanie o dávke sociálnej pomoci, o sociálnych službách, o miere funkčnej poruchy a o tom, že ide o občana s ťažkým zdravotným postihnutím na účely vydania preukazu občana s ťažkým zdravotným postihnutím, a o peňažných príspevkoch na kompenzáciu na úrovni kraja alebo na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 6.14 Rozhodovanie v druhom stupni správneho konania o poskytovaní starostlivosti v zariadení sociálnych služieb, o skončení poskytovania starostlivosti v ňom a o úhrade za poskytnutú starostlivosť v ňom na úrovni kraja alebo na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
@@ -1504,7 +1566,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -1532,13 +1594,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.11 Metodické usmerňovanie vrátane kontroly na úseku dávky sociálnej pomoci, peňažných príspevkov na kompenzáciu na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 7.12 Metodické usmerňovanie v oblasti aplikácie informačného systému pri poskytovaní štátnych sociálnych dávok na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 7.12 Metodické usmerňovanie v oblasti aplikácie informačného systému pri poskytovaní štátnych sociálnych dávok alebo dávok sociálnej pomoci a peňažných príspevkov na kompenzáciu na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 7.13 Koordinačná, metodická a kontrolná činnosť na úseku štátnych sociálnych dávok na úrovni kraja alebo na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 7.13 Koordinačná, metodická a kontrolná činnosť na úrovni kraja alebo na úrovni okresu na úseku štátnych sociálnych dávok alebo na úseku kompenzácie sociálnych dôsledkov ťažkého zdravotného postihnutia vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu,<sup>2</sup>) alebo na úseku lekárskej posudkovej činnosti vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 7.14 Metodická činnosť, usmerňovanie a rozhodovanie v sociálnej oblasti vrátane supervízie na úrovni kraja alebo na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 7.15 Metodické usmerňovanie vykonávania lekárskej posudkovej činnosti z úrovne kraja vykonávané lekárom po získaní špecializácie prvého stupňa a nadstavbovej špecializácie z príslušného odboru.<sup>8</sup>)
+- 7.15 Metodické usmerňovanie vykonávania lekárskej posudkovej činnosti z úrovne kraja vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 7.16 Metodické usmerňovanie vykonávania nelekárskej posudkovej činnosti z úrovne kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
@@ -1548,7 +1610,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -1572,11 +1634,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8.09 Tvorba koncepcií a koordinovanie aktivít na úseku dávky sociálnej pomoci a peňažných príspevkov na kompenzáciu na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 8.10 Tvorba koncepcie sociálnych služieb poskytovaných neštátnymi subjektmi a obcami na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 8.10 Tvorba koncepcie sociálnych služieb na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
+- 8.11 Koordinovanie celoštátneho systému inšpekcie práce a systému ochrany práce alebo systému vykonávania inšpekcie práce s vnútornými a vonkajšími väzbami na ďalšie systémy z úrovne Národného inšpektorátu práce.
 
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -1628,7 +1692,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1638,7 +1702,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1652,7 +1716,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -1670,7 +1734,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -1690,7 +1754,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -1700,7 +1764,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -1722,7 +1786,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -1738,7 +1802,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -1756,7 +1820,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1766,7 +1830,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1776,9 +1840,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.02 Štátna správa na úseku starostlivosti o telesnú kultúru mládeže na úrovni okresu alebo na úrovni kraja vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 6.03 Dohľad nad výživou detí a mládeže na úrovni kraja alebo na úrovni okresu vykonávaný štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -1786,11 +1852,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.01 Štátna školská inšpekcia nad úrovňou výchovno-vzdelávacieho procesu a riadenia škôl a školských zariadení.
 
-- 7.02 Koordinovanie metodickej činnosti, usmerňovanie činností metodických združení a predmetových komisií v školách na úrovni okresu alebo na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 7.02 Koordinovanie metodickej činnosti, usmerňovanie činností metodických združení a predmetových komisií v školách alebo metodikov v školských zariadeniach na úrovni okresu alebo na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -1830,7 +1896,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1842,7 +1908,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1854,7 +1920,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -1864,7 +1930,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -1892,13 +1958,15 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - Činnosti:
 
-- 4.01 Samostatné zabezpečovanie ucelenej agendy súvisiacej s tvorbou právnych predpisov a aproximáciou práva.
+- 4.01 Samostatné zabezpečovanie ucelenej agendy súvisiacej s tvorbou právnych predpisov alebo aproximáciou práva.
 
 - 4.02 Samostatné zabezpečovanie ucelenej vládnej agendy súvisiacej s rozhodovacou činnosťou vlády.
 
+- 4.03 Samostatné zabezpečovanie ucelenej agendy súvisiacej s tvorbou hospodárskej politiky vlády a s rozhodovacou činnosťou vlády.
+
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -1908,7 +1976,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -1922,9 +1990,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.04 Vyhodnocovanie reakcie na jednotlivé postupy vlády alebo rezortu v masmédiách a príprava podkladov na rozhodovanie v otázkach ďalšieho smerovania masmediálnej politiky vlády alebo rezortu.
 
+- 6.05 Analytická a organizačná činnosť v oblasti informačných systémov súvisiacich s elektronickým záznamom rokovaní vlády v úrade vlády.
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -1952,9 +2022,17 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.11 Metodická a koordinačná činnosť v oblasti jazykovej a štylistickej správnosti materiálov predkladaných na rokovanie vlády.
 
+- 7.12 Revízia prekladov právnych textov a vydávanie metodických usmernení z úradu vlády.
+
+- 7.13 Koordinačná a metodická činnosť v oblasti informačných systémov súvisiacich s elektronickým záznamom rokovaní vlády v úrade vlády.
+
+- 7.14 Koncepčná a koordinačná informačno-dokumentačná činnosť v oblasti slovenských menšín a komunít v zahraničí v úrade vlády.
+
+- 7.15 Koordinačná a metodická činnosť vo vymedzenej oblasti v úrade vlády (napr. v oblasti ľudských práv, národnostných menšín, etnických skupín, rozvoja regiónu).
+
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -1980,9 +2058,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8.10 Tvorba nariadení vlády a aproximácia práva v úrade vlády.
 
+- 8.11 Koncepčná, metodická a koordinačná činnosť v úrade vlády súvisiaca s aproximáciou práva a legislatívy v oblasti vývoja, realizácie a technickej podpory nadrezortných komplexných informačných systémov s medzinárodnými väzbami.
+
+- 8.12 Koncepčná a koordinačná činnosť vo vymedzenej oblasti v úrade vlády (napr. v oblasti ľudských práv, národnostných menšín, etnických skupín, rozvoja regiónu).
+
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -2006,11 +2088,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 9.09 Tvorba návrhov rozhodnutí, stanovísk a odporúčaní v legislatívnom procese alebo v procese aproximácie práva v úrade vlády pre legislatívnu radu vlády a vládu.
 
+- 9.10 Tvorba hospodárskej politiky vlády v úrade vlády.
+
 - 2.19 VEREJNÉ OBSTARÁVANIE
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2020,9 +2104,19 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5.02 Poradenské usmerňovanie o zákonných podmienkach na zápis do zoznamu odborne spôsobilých osôb a oznamovacej povinnosti v oblasti verejného obstarávania.
 
+- 6. PLATOVÁ TRIEDA
+
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+- Funkcia: samostatný radca
+
+- Činnosti:
+
+- 6.01 Odborná špecializovaná redakčná činnosť pri vydávaní Vestníka verejného obstarávania.
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2033,6 +2127,8 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 - 7.02 Vedenie správneho konania vo verejnom obstarávaní vrátane konania o uložení pokuty.
 
 - 7.03 Rozhodovanie o námietkach proti postupu obstarávateľa vo verejnom obstarávaní.
+
+- 7.04 Koordinovanie činností a odborno-organizačné zabezpečovanie jednotlivých vydaní Vestníka verejného obstarávania.
 
 - 2.20 VNÚTRO - ARCHÍVNICTVO
 
@@ -2062,7 +2158,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2074,7 +2170,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2086,7 +2182,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2098,7 +2194,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -2130,7 +2226,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2142,7 +2238,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5.03 Usmerňovanie a kontrola plnenia úloh na úseku prípravy občanov na sebaochranu a vzájomnú pomoc na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 5.04 Koordinovanie organizačno-operačných úloh a prípravy na civilnú ochranu na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>1</sup>)
+- 5.04 Koordinovanie organizačno-operačných úloh a prípravy na civilnú ochranu na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 5.05 Koordinovanie evakuácie obyvateľstva na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
@@ -2162,7 +2258,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2182,7 +2278,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2204,7 +2300,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2216,7 +2312,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2228,7 +2324,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -2268,6 +2364,8 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 3.05 Usmerňovanie a kontrola registratúrnych stredísk na krajskom úrade alebo na okresnom úrade z úrovne ústredného orgánu štátnej správy.
 
+- 3.06 Odborná príprava a zabezpečovanie podkladov potrebných na rozhodovanie vyšetrovateľa na úrade vyšetrovania Policajného zboru (úrade justičnej polície).
+
 - 4. PLATOVÁ TRIEDA
 
 - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -2282,7 +2380,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 4.03 Samostatná činnosť na úseku pasovej služby vrátane prípravy prvostupňového rozhodnutia na úrovni okresu.
 
-- 4.04 Samostatná odborná činnosť pri príprave podkladov na rozhodovanie o zdravotnej spôsobilosti policajtov vykonávať štátnu službu vykonávaná na úrovni lekárskej komisie štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>8</sup>)
+- 4.04 Samostatná odborná činnosť pri príprave podkladov na rozhodovanie o zdravotnej spôsobilosti policajtov vykonávať štátnu službu vykonávaná na úrovni lekárskej komisie štátnym zamestnancom po špecializačnej príprave.<sup>8</sup>)
 
 - 4.05 Kontrolná činnosť vedenia matrík, vedenia a uloženia zbierky listín v územnom obvode z úrovne okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
@@ -2290,9 +2388,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 4.07 Vedenie a aktualizácia živnostenského registra na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 4.08 Matričná činnosť v osobitnej matrike vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2300,15 +2400,17 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5.01 Analytická a operatívna činnosť na úseku medzinárodného pátrania po osobách, veciach a ukradnutých motorových vozidlách v spolupráci s príslušnými pracoviskami kriminálnej polície členských štátov Interpolu.
 
-- 5.02 Samostatné vybavovanie ucelených agend na úseku obrany krajského úradu vo vzťahu k rade obrany kraja a ku kompetencii rady obrany kraja alebo okresného úradu vo vzťahu k rade obrany okresu a ku kompetencii rady obrany okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+- 5.02 Samostatné vybavovanie ucelených agend na úseku obrany krajského úradu vo vzťahu k bezpečnostnej rade kraja alebo na úseku obrany okresného úradu vo vzťahu k bezpečnostnej rade okresu.
 
 - 5.03 Vykonávanie ucelenej agendy pri príprave konania o priestupkoch na úrovni okresu alebo na úrovni kraja štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
 - 5.04 Metodické usmerňovanie a kontrola registratúrnych stredísk z úrovne ústredného orgánu štátnej správy.
 
+- 5.05 Analytická a rozhodovacia činnosť v osobitnej matrike vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2336,7 +2438,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2366,7 +2468,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -2386,9 +2488,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8.07 Tvorba koncepcií a programov dlhodobého rozvoja rezortnej vzdelávacej sústavy vrátane školskej inšpekcie na úrovni ústredného orgánu štátnej správy.
 
-- 8.08 Zabezpečovanie štátneho zdravotného a potravinového dozoru na území kraja a kontrola vykonávania štátnej správy na úseku ochrany zdravia, zdravých životných a pracovných podmienok a zdravého spôsobu života vykonávané štátnym zamestnancom po získaní druhej špecializácie.<sup>8</sup>)
+- 8.08 Zabezpečovanie štátneho zdravotného a potravinového dozoru na území kraja a kontrola vykonávania štátnej správy na úseku ochrany zdravia, zdravých životných a pracovných podmienok a zdravého spôsobu života vykonávané štátnym zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 8.09 Tvorba koncepcií, koordinačná a metodická činnosť pri vykonávaní štátnej správy na úseku správneho konania vo veciach priestupkov vrátane poradenskej činnosti na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
+- 8.10 Špeciálne psychofyziologické vyšetrenie pravdovravnosti osôb podozrivých z trestnej činnosti pre orgány činné v trestnom konaní alebo spoľahlivosti osôb na vykonávanie funkcie.
+
+- 8.11 Tvorba koncepcií a tvorba špecifických testovacích metód pre jednotlivé oblasti aplikovanej psychofyziológie v rezorte ministerstva vnútra.
 
 - 2.24 VÝSTAVBA A REGIONÁLNY ROZVOJ
 
@@ -2404,7 +2510,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2414,7 +2520,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2434,7 +2540,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2456,9 +2562,13 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.08 Tvorba opatrení v rozvoji bývania vrátane vydávania rozhodnutí a koordinovania činností pri plnení koncepcií a programov rozvoja bývania na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 7.09 Metodická a analytická činnosť v oblasti posudzovania stavebných zámerov verejných prác v procese ich prípravy formou štátnej expertízy.
+
+- 7.10 Koordinačná a analytická činnosť vrátane vykonávania štátneho dozoru nad verejnými prácami v procese ich prípravy, realizácie a ukončenia na ústredných orgánoch štátnej správy a u ostatných správcov rozpočtových kapitol.
+
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -2469,10 +2579,6 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 - 8.02 Koncepčná a koordinačná činnosť v oblasti verejných prác alebo bývania vrátane metodického usmerňovania z ústredného orgánu štátnej správy.
 
 - 8.03 Koncepčná a metodická činnosť v oblasti štátneho dozoru nad verejnými prácami v ústrednom orgáne štátnej správy.
-
-- 8.04 Štátny dozor nad verejnými prácami v ústredných orgánoch štátnej správy a u ostatných správcov rozpočtových kapitol v procese ich prípravy, realizácie a skončenia.
-
-- 8.05 Posudzovanie najnáročnejších technických, konštrukčných, technologických a ekonomických riešení stavebných zámerov verejných prác v procese ich prípravy formou štátnej expertízy.
 
 - 8.06 Tvorba zásadných materiálov na realizáciu štátnej regionálnej politiky v ústrednom orgáne štátnej správy.
 
@@ -2496,7 +2602,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2508,7 +2614,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -2522,7 +2628,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -2540,7 +2646,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -2552,7 +2658,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2562,53 +2668,69 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
 - Činnosti:
 
-- 6.01 Príprava podkladov na koordinovanie činnosti štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení na úrovni okresu, podiel na koncepčnom a organizačnom zabezpečení zdravotníctva v okrese alebo príprava podkladov na vymedzovanie zdravotníckych obvodov a určovanie ich sídiel v rámci okresu vykonávané štátnym zamestnancom po získaní špecializácie prvého stupňa z príslušného odboru.<sup>8</sup>)
+- 6.01 Príprava podkladov na koordinovanie činnosti štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení na úrovni okresu, podiel na koncepčnom a organizačnom zabezpečení zdravotníctva v okrese alebo príprava podkladov na vymedzovanie zdravotníckych obvodov a určovanie ich sídiel v rámci okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 6.02 Zabezpečovanie právnej agendy v pôsobnosti okresného úradu na úseku poskytovania zdravotnej starostlivosti alebo zabezpečovanie správnej agendy štátneho okresného hygienika alebo štátneho okresného farmaceuta vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 6.03 Vypracúvanie rozhodnutí vo vecne vymedzenej oblasti (napr. registrácia liekov a zdravotníckych pomôcok, sledovanie nežiaducich účinkov liekov a zdravotníckych pomôcok, klinické skúšanie liekov a zdravotníckych pomôcok, pozastavenie výdaja alebo stiahnutie z obehu liekov alebo zdravotníckych pomôcok) vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
 - Činnosti:
 
-- 7.01 Metodické usmerňovanie vykonávania štátnej správy na úseku zdravotníctva alebo podiel na koncepčnom a organizačnom zabezpečení zdravotníctva a príprava podkladov na koordinovanie činnosti štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení na úrovni kraja vykonávané štátnym zamestnancom po získaní špecializácie prvého stupňa z príslušného odboru.<sup>8</sup>)
+- 7.01 Metodické usmerňovanie vykonávania štátnej správy na úseku zdravotníctva alebo podiel na koncepčnom a organizačnom zabezpečení zdravotníctva a príprava podkladov na koordinovanie činnosti štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 7.02 Zabezpečovanie právnej agendy v pôsobnosti krajského úradu na úseku poskytovania zdravotnej starostlivosti alebo samostatné odborné činnosti na úseku aplikovania právnych noriem pri zabezpečovaní správnej agendy štátneho krajského hygienika alebo štátneho krajského farmaceuta vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
-- 7.03 Zabezpečovanie a organizovanie činnosti štátnej správy v okresnom úrade alebo spracúvanie návrhov na vymedzenie zdravotníckych obvodov a určovanie ich sídiel alebo koordinovanie činnosti štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení v rámci okresu vykonávané štátnym zamestnancom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie z príslušného odboru.<sup>8</sup>)
+- 7.03 Zabezpečovanie a organizovanie činnosti štátnej správy v okresnom úrade alebo spracúvanie návrhov na vymedzenie zdravotníckych obvodov a určovanie ich sídiel alebo koordinovanie činnosti štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení v rámci okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
-- 7.04 Usmerňovanie a organizovanie činnosti štátnej správy na úseku plnenia programov ochrany a podpory zdravia alebo odborné usmerňovanie plnenia programov ochrany a podpory zdravia v určenej oblasti na úrovni okresu vykonávané štátnym zamestnancom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie z príslušného odboru.<sup>8</sup>)
+- 7.04 Usmerňovanie a organizovanie činnosti štátnej správy na úseku plnenia programov ochrany a podpory zdravia alebo odborné usmerňovanie plnenia programov ochrany a podpory zdravia v určenej oblasti na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
-- 7.05 Usmerňovanie a organizovanie činnosti štátnej správy na úseku zaobchádzania s liekmi a zdravotníckymi pomôckami a plnenie úloh štátnej správy na úseku humánnej a veterinárnej farmácie na úrovni okresu vykonávané štátnym zamestnancom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie z príslušného odboru.<sup>8</sup>)
+- 7.05 Usmerňovanie a organizovanie činnosti štátnej správy na úseku zaobchádzania s liekmi a zdravotníckymi pomôckami a plnenie úloh štátnej správy na úseku humánnej a veterinárnej farmácie na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
+
+- 7.06 Koordinačná a metodická činnosť v oblasti uvádzania nových chemických látok na trh alebo v oblasti inventarizácie chemických látok, balenia, označovania a klasifikácie.
+
+- 7.07 Analýza, systemizovanie a príprava podkladov na rozhodovanie o otázkach existujúcich chemických látok alebo pri oznamovaní nových látok a návrh požiadaviek na minimalizáciu expozície chemickými látkami z hľadiska ochrany života a zdravia a životného prostredia.
+
+- 7.08 Vykonávanie inšpekcie dodržiavania zásad správnej výrobnej praxe, správnej klinickej praxe, správnej laboratórnej praxe alebo správnej veľkodistribučnej praxe, správnej lekárenskej praxe alebo kontrola dodržiavania ustanovení Slovenského liekopisu a Slovenského farmaceutického kódexu vrátane vykonávania inšpekcie v zahraničí vykonávané štátnym zamestnancom po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
+
+- 7.09 Koordinovanie odborných činností vrátane inšpekčnej činnosti pri chemickoanalytickej a farmaceutickej kontrole humánnych liekov, farmaceutických látok a zdravotníckych pomôcok v oblastných laboratóriách vykonávané štátnym zamestnancom po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
 - Činnosti:
 
-- 8.01 Koordinovanie činnosti štátnej správy v krajskom úrade, metodické usmerňovanie vykonávania štátnej správy v okresných úradoch alebo koordinovanie činnosti štátnych a neštátnych zdravotníckych zariadení na úrovni kraja vykonávané štátnym zamestnancom po získaní špecializácie prvého stupňa a nadstavbovej špecializácie z príslušného odboru.<sup>8</sup>)
+- 8.01 Koordinovanie činnosti štátnej správy v krajskom úrade, metodické usmerňovanie vykonávania štátnej správy v okresných úradoch alebo koordinovanie činnosti štátnych a neštátnych zdravotníckych zariadení na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
-- 8.02 Zabezpečovanie štátneho zdravotného a potravinového dozoru na úrovni kraja alebo kontrola vykonávania štátnej správy na úseku ochrany zdravia, zdravých životných a pracovných podmienok a zdravého spôsobu života alebo odborné usmerňovanie činnosti štátnych okresných hygienikov na úrovni kraja vykonávané štátnym zamestnancom po získaní špecializácie druhého stupňa z príslušného odboru.<sup>8</sup>)
+- 8.02 Zabezpečovanie štátneho zdravotného a potravinového dozoru na úrovni kraja alebo kontrola vykonávania štátnej správy na úseku ochrany zdravia, zdravých životných a pracovných podmienok a zdravého spôsobu života alebo odborné usmerňovanie činnosti štátnych okresných hygienikov na úrovni kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
 
-- 8.03 Koordinovanie a odborné usmerňovanie činnosti štátnej správy na úseku humánnej a veterinárnej farmácie v pôsobnosti kraja vykonávané štátnym zamestnancom po získaní špecializácie druhého stupňa z príslušného odboru.<sup>8</sup>)
+- 8.03 Koordinovanie a odborné usmerňovanie činnosti štátnej správy na úseku humánnej a veterinárnej farmácie v pôsobnosti kraja vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu<sup>2</sup>) a po získaní základnej špecializácie v príslušnom odbore.<sup>8</sup>)
+
+- 8.04 Tvorba koncepcie štátnej liekovej politiky, koordinovanie systému liekovej politiky so systémami v štátoch Európskej únie a v ostatných štátoch sveta vykonávané štátnym zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
+
+- 8.05 Koncepčná a koordinačná činnosť pri dodržiavaní zásad štátnej liekovej politiky v nadväznosti na medzinárodné dohody a záväzky vykonávaná štátnym zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
+
+- 8.06 Vykonávanie štátneho dozoru v oblasti farmaceutickej a zdravotníckej výroby alebo vykonávanie inšpekcie dodržiavania zásad správnej výrobnej praxe, správnej klinickej praxe, správnej laboratórnej praxe, správnej veľkodistribučnej praxe, správnej lekárenskej praxe alebo kontrola dodržiavania ustanovení Slovenského liekopisu a Slovenského farmaceutického kódexu vykonávané štátnym zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>8</sup>)
 
 - 2.27 ŽIVOTNÉ PROSTREDIE
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2628,7 +2750,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2646,9 +2768,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6.06 Koordinovanie, kontrola a vykonávanie štátnej správy na úseku tvorby a ochrany životného prostredia, územného plánovania a stavebného poriadku na úrovni kraja alebo na úrovni okresu vykonávané štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 6.07 Štátny dozor na úseku prevencie závažných priemyselných havárií na úrovni okresu alebo na úrovni kraja vrátane rozhodovania o kategorizácii podnikov a rozhodovania o povinnosti prevádzkovateľa zriadiť osobitný útvar na koordinovanie a kontrolu zabezpečovania úloh vyplývajúcich zo zákona o prevencii závažných priemyselných havárií v podniku vykonávaný štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2670,9 +2794,11 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7.08 Určovanie rozhodujúcich smerov štátnej environmentálnej politiky na úrovni okresu vykonávaná štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
 
+- 7.09 Štátny dozor v oblasti životného prostredia na úseku závažných priemyselných havárií na úrovni kraja vrátane rozhodovania o preradení podniku do vyššej kategórie na základe množstva vybraných nebezpečných látok prítomných v objekte alebo na základe relevantných dôvodov vykonávaný štátnym zamestnancom po splnení osobitného kvalifikačného predpokladu.<sup>2</sup>)
+
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -2700,7 +2826,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca
 
@@ -2710,7 +2836,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca
 
@@ -2724,7 +2850,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 9. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: štátny radca
 
@@ -2784,7 +2910,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 5. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: radca
 
@@ -2796,7 +2922,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 6. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: samostatný radca
 
@@ -2808,7 +2934,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
@@ -2818,7 +2944,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 8. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: hlavný radca alebo krajský radca
 
@@ -2870,7 +2996,7 @@ Príloha č. 1 k nariadeniu vlády č. 110/2002 Z. z.
 
 - 7. PLATOVÁ TRIEDA
 
-- Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+- Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 - Funkcia: odborný radca alebo okresný radca
 
