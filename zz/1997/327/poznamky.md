@@ -24,6 +24,22 @@
 
 - 13) § 3 ods. 1 písm. b) a § 6 a 7 zákona č. 505/1990 Zb.
 
+- 13a) § 8 ods. 2 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 90/2003 Z. z. o emisných kontrolách cestných motorových vozidiel.
+
+- 13b) § 8 ods. 3 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 90/2003 Z. z.
+
+- 13c) § 126 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
+- 13d) § 93 a 108 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení zákona č. 405/2000 Z. z.
+
+- 13e) § 2 písm. ap) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
+- 13f) § 107 ods. 9 zákona Národnej rady Slovenskej repuliky č. 315/1996 Z. z.
+
+- 13g) § 5 ods. 5, 6 a 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 90/2003 Z. z.
+
+- 13h) § 3 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 90/2003 Z. z.
+
 - 14) § 107 ods. 1 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 15) § 2 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z.
@@ -51,6 +67,8 @@
 - 26) § 110 ods. 1 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z.
 
 - 27) § 65 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
+- 27a) § 120 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. a § 22 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 28) § 107 ods. 3 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 

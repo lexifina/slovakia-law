@@ -168,23 +168,25 @@ KONTROLNÁ NÁLEPKA, VYHOTOVENIE, VYZNAČOVANIE A NALEPOVANIE
 
 Vyhotovenie kontrolnej nálepky
 
-(v mierke 1,5 : 1)
+mierka 1,5 : 1
 
-![Obrázok 06-1](../assets/73cd7c0720e3fbbf52863ae7ee38f7bbc346bdfa65ba0c0ed203f23f33a10f41.png)
+![Obrázok 06-1](../assets/8e297a56ea729b43a9658d6f8a9012c2f0293fcf561ca4773de0cb4c68d8cab0.tiff)
 
-Kontrolná nálepka je označená sériou, ktorá sa skladá z označenia „SK“ a šesťmiestneho evidenčného čísla. Po naplnení série „SK“ nasledujú série „SKA“ až „SKZ“.
+![obrázok](../assets/8e297a56ea729b43a9658d6f8a9012c2f0293fcf561ca4773de0cb4c68d8cab0.tiff)
+
+Kontrolná nálepka je označená sériou, ktorá sa skladá z označenia „SKA" a šesťmiestneho evidenčného čísla. Po naplnení série „SKA" nasledujú série „SKB" až „SKZ".
 
 Rozmery: výška kontrolnej nálepky 37 mm,
 
-šírka kontrolnej nálepky 32 mm,
+šírka kontrolnej nálepky 32 mm
 
 priemery kružníc 27 mm, 17 mm, 7 mm,
 
 výška číslic 1 až 12 (označenie mesiaca) 3 mm,
 
-výška dvojčíslic (označenie roku) 1,5 mm,
+výška číslic (označenie roku) 1,5 mm,
 
-výška symbolu (písmen) „TK“ 3 mm,
+výška symbolu (písmen) „TK" 3 mm,
 
 výška písmen a číslic označenia série a evidenčného čísla 3 mm.
 
@@ -194,7 +196,7 @@ pole nálepky červené,
 
 stredový kruh a veľký kruhový výsek žlté,
 
-kružnice, úsečky, číslice, dvojčíslice a symbol (písmená) „TK“ čierne.
+kružnice, úsečky, číslice a symbol (písmená) „TK" čierne.
 
 Vyznačovanie
 
@@ -204,13 +206,19 @@ Nalepovanie
 
 Kontrolná nálepka sa lepí na zadnú tabuľku s evidenčným číslom vozidla, ak je
 
-– jednoriadková tabuľka, do hornej polovice medzery za prvou skupinou písmen,
+- jednoriadková tabuľka, do hornej polovice medzery za prvou skupinou písmen,
 
-– dvojriadková tabuľka, v hornom riadku do ľavej polovice medzery za prvou skupinou písmen.
+- dvojriadková tabuľka, v hornom riadku, do ľavej polovice medzery za prvou skupinou písmen.
 
-![Obrázok 06-2](../assets/7b18f1e505dc0554ca687a4fcf010b672134469253d2541d735a1f09d6abadce.png)
+![Obrázok 06-2](../assets/1fc94b11e06853875203573ba8624d2e58b26fcc7978a36c67f96214cdb8f846.tiff)
 
-![Obrázok 06-3](../assets/8d067b225a5af6cb9f3ec9c7751f6fd54e727c8049e7c81a8755ad7431527c3f.png)
+![Obrázok 06-3](../assets/8e6c1dd423f746c57982284a0026ab961a1a12fa981f81695add6dd22e413b63.tiff)
+
+Platnosť
+
+1. Kontrolné nálepky majú platnosť po dobu na nich vyznačenú.
+
+2. Doterajšie kontrolné nálepky ostávajú v platnosti do doby na nich vyznačenej.
 
 Príloha č. 7 k vyhláške č. 327/1997 Z. z.
 
@@ -271,3 +279,21 @@ Vzor označenia oprávnenej osoby (stanice technickej kontroly)
 ![Vzor 15-1](../assets/0fc43a45749d701d37c8dc829b7d52e496f021405f01ebcaaabca5a1a6a455f2.png)
 
 Označenie oprávnenej osoby (pracoviska stanice technickej kontroly) má rozmer 600 x 600 mm, farby zodpovedajú farebnému vyhotoveniu kontrolnej nálepky rozšírenému o rámik a nápis vyhotovený v zelenej farbe.
+
+Príloha č. 16 k vyhláške č. 327/1997 Z. z.
+
+VZOR
+
+SPRÁVA O CESTNEJ KONTROLE TECHNICKEJ SPÔSOBILOSTI
+
+[Vzor 16-1](../assets/9097e235b81c217676d803ef0e2e87d8305fec71e8a158760d0a18604b661460.pdf)
+
+Príloha č. 17 k vyhláške č. 327/1997 Z. z.
+
+Touto vyhláškou sa transponujú tieto právne akty Európskych spoločenstiev:
+
+1. Smernica Európskeho parlamentu a Rady 2000/30/ES zo 6. júna 2000 o cestnej technickej kontrole spôsobilosti úžitkových automobilov pre premávku na pozemných komunikáciách Spoločenstva, Ú. v. ES, L 203, uverejnená dňa 10. augusta 2000, s. 0001 - 0008.
+
+2. Smernica Komisie 2003/26/ES z 3. apríla 2003, ktorou sa prispôsobuje technickému pokroku Smernica Európskeho parlamentu a Rady 2000/30/ES z hľadiska obmedzovačov rýchlosti a výfukových emisií úžitkových vozidiel, Ú. v. EÚ, L 90, uverejnená dňa 8. apríla 2003, s. 0037 – 0040.
+
+Revidované preklady týchto smerníc sa nachádzajú v databáze prekladov Centrálnej prekladateľskej jednotky sekcie Inštitút pre aproximáciu práva Úradu vlády Slovenskej republiky.
