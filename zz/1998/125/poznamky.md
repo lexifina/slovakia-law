@@ -37,3 +37,5 @@
 - 16) § 6 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
 - 17) Napríklad § 11 písm. b) piaty a šiesty bod zákona č. 54/1956 Zb. v znení neskorších predpisov, § 11 ods. 2 písm. c) a d) zákona č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov, § 7 písm. c) druhý a tretí bod zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 17a) § 90b ods. 4 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 556/2001 Z. z.
