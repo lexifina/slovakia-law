@@ -1,35 +1,41 @@
-# § 6a Bezpečný výrobok
+# § 6a Bezpečný výrobok a povinnosti pri uvádzaní výrobku do obehu
 
-(1) Povinnosťou výrobcu a dovozcu je dávať do obehu iba bezpečné výrobky.
+(1) Bezpečným výrobkom je výrobok, ktorý za bežných alebo rozumne predvídateľných podmienok používania nepredstavuje po dobu určenú výrobcom alebo po dobu obvyklej použiteľnosti nebezpečenstvo alebo jeho používanie predstavuje pre spotrebiteľa vzhľadom na bezpečnosť a ochranu zdravia len minimálne nebezpečenstvo. Pre stanovenie bezpečného výrobku sa zohľadňujú najmä
 
-(2) Bezpečný výrobok je výrobok, ktorý za reálne predpokladateľných podmienok jeho používania nepredstavuje žiadne nebezpečenstvo ohrozenia života, zdravia alebo majetku alebo predstavuje len minimálne nebezpečenstvo, ktoré možno považovať za prípustné pri používaní výrobku pri zabezpečení vysokého stupňa ochrany života, zdravia a majetku spotrebiteľa.
+- a) vlastnosti výrobku, jeho zloženie, životnosť, obal, návod na jeho montáž a uvedenie do prevádzky, dostupnosť, odporúčaný spôsob používania vrátane vymedzenia prostredia používania, označenie výstrah, údržba a likvidácia, podmienky skladovania, podmienky prepravy a rozsah ďalších údajov a informácií poskytovaných výrobcom; všetky takéto údaje a informácie musia byť uvedené spôsobom zrozumiteľným spotrebiteľovi a v štátnom jazyku,
 
-(3) Pri posudzovaní bezpečnosti výrobku sa prihliada na
+- b) vplyv výrobku na iné výrobky, ak sa predpokladá, že sa bude používať spolu s nimi,
 
-- a) vlastnosti výrobku vrátane jeho životnosti, zloženia, označovania, balenia, na návod na montáž a uvedenie do prevádzky, návod na jeho použitie, údržbu a likvidáciu,
+- c) spôsob predvedenia výrobku,
 
-- b) účinok na iné výrobky všade tam, kde možno reálne predpokladať, že sa bude používať spolu s inými výrobkami,
+- d) skupiny spotrebiteľov, ktoré môžu byť pri používaní výrobku vystavené riziku, najmä deti a staršie osoby.
 
-- c) spôsoby prezentácie výrobku a všetky údaje a informácie o výrobku poskytované výrobcom,
+(2) Za bezpečný výrobok sa považuje aj výrobok, ktorý spĺňa požiadavky osobitného predpisu,<sup>3</sup>) ktorým sa ustanovujú požiadavky na bezpečnosť výrobku alebo na obmedzenie rizika, ktoré je s výrobkom pri jeho používaní spojené. Ak takýto predpis ustanovuje len niektoré hľadiská bezpečnosti, ostatné hľadiská bezpečného výrobku sa posudzujú podľa tohto zákona.
 
-- d) skupinu spotrebiteľov, ktorá môže byť vážne ohrozená pri používaní výrobku, a to najmä deti.
+(3) Ak v právnych aktoch Európskych spoločenstiev a Európskej únie nie sú určené požiadavky na bezpečnosť výrobku alebo na obmedzenie rizík spätých s používaním výrobku, za bezpečný sa považuje výrobok, ktorý je v zhode s právnym predpisom toho členského štátu Európskej únie, v ktorom je uvedený do obehu, ak takýto právny predpis zaručuje ochranu, ktorá je rovnocenná s požiadavkami podľa odseku 1.
 
-(4) Za bezpečný výrobok sa považuje najmä výrobok, ktorý spĺňa požiadavky
+(4) Ak sa bezpečnosť výrobku nezistí podľa odsekov 2 alebo 3, posudzuje sa podľa
 
-- a) technického predpisu<sup>8a</sup>) alebo
+- a) slovenskej technickej normy,<sup>8a</sup>) ktorá preberá európsku normu, na ktorú odkazuje Komisia Európskych spoločenstiev (ďalej len „Komisia") v Úradnom vestníku Európskych spoločenstiev, a tento odkaz je zverejnený vo Vestníku Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky,
 
-- b) slovenských technických noriem, alebo spĺňa požiadavky správnej výrobnej praxe v príslušnom výrobnom odvetví,<sup>8b</sup>) ak pre výrobok nebol vydaný technický predpis podľa písmena a).
+- b) slovenskej technickej normy, ktorá preberá inú európsku normu než podľa písmena a),
 
-(5) Výrobok, ktorý nespĺňa požiadavky bezpečného výrobku podľa odsekov 2 až 4, sa považuje za nebezpečný. Za nebezpečný výrobok sa považuje aj výrobok, ktorý síce nie je potravina, ale vzhľadom na svoj tvar, vôňu, farbu, vzhľad, balenie, označenie, objem alebo veľkosť môže vyvolať riziko zámeny s potravinou u spotrebiteľov, najmä u detí, a tým ohroziť ich život, zdravie alebo majetok.
+- c) technickej normy toho členského štátu Európskej únie, v ktorom je výrobok uvedený do obehu,
 
-(6) Výrobok nemožno považovať za nebezpečný iba preto, že bol do obehu uvedený bezpečnejší výrobok.
+- d) odporúčania Komisie, ktoré obsahuje pokyny pre posudzovanie bezpečnosti výrobku,
 
-(7) Splnenie požiadaviek podľa odsekov 2 až 4 nebráni orgánom, ktoré vykonávajú dozor nad dodržiavaním povinností ustanovených týmto zákonom,<sup>14</sup>) prijať vhodné opatrenia na zabránenie uvedenia výrobku do obehu alebo jeho stiahnutie z obehu, ak existuje dôkaz, že aj napriek splneniu uvedených požiadaviek je výrobok nebezpečný.
+- e) pravidiel správnej praxe bezpečnosti výrobku platných v príslušnom odbore,
 
-(8) Výrobca, dovozca, dodávateľ a predávajúci sú povinní poskytovať spotrebiteľom o výrobku všetky informácie, ktoré spotrebiteľom umožnia poznať a posúdiť riziká výrobku, ktoré môžu ohroziť ich život, zdravie alebo majetok.
+- f) súčasného stavu poznatkov vedy a techniky,
 
-(9) Výrobca a dovozca sú povinní robiť opatrenia, ktoré im umožnia získavať informácie o možných rizikách výrobku, napríklad skúšať výrobok a hodnotiť sťažnosti spotrebiteľov, a ak je to potrebné, aj stiahnuť výrobok z obehu.
+- g) rozumného očakávania spotrebiteľa týkajúceho sa bezpečnosti.
 
-(10) Dodávateľ je povinný dbať na bezpečnosť výrobku a nesmie dodávať výrobok, o ktorom vie alebo na základe informácií alebo odborných znalostí má vedieť, že nie je bezpečný. Dodávateľ je najmä povinný sprostredkovať predávajúcemu všetky informácie o rizikách výrobku a spolupracovať pri činnostiach zameraných na odstránenie takýchto rizík.
+(5) Možnosť dosiahnutia vyššej úrovne bezpečnosti výrobku alebo dostupnosti iných výrobkov, ktoré predstavujú nižší stupeň ohrozenia, nie je dôvodom na to, aby bol výrobok považovaný za nebezpečný.
 
-(11) Výrobky, ktoré pre svoje vlastnosti majú určenú dobu spotreby, sa nesmú ponúkať, predávať, uvádzať do obehu alebo ponechávať v obehu po uplynutí tejto doby.
+(6) Výrobok, ktorý nespĺňa požiadavky určené v odsekoch 1 až 4, sa považuje za nebezpečný.
+
+(7) Za nebezpečný výrobok sa považuje aj výrobok, ktorý svojím tvarom, vôňou, farbou, vzhľadom, balením, označením, objemom alebo veľkosťou môže u spotrebiteľa, najmä u detí, vyvolať riziko zámeny s potravinou, a ohroziť tak ich život, zdravie.
+
+(8) Ak výrobca vyrába alebo dovozca dováža výrobok zo štátu, ktorý nie je členským štátom Európskej únie, orgány dozoru a kontroly pri uvádzaní výrobku do obehu postupujú podľa osobitného predpisu.<sup>8b</sup>)
+
+(9) Podrobnosti o požiadavkách na bezpečnosť vlákien, textilných, usňových a odevných výrobkov z textilu a usne určených na priamy styk s pokožkou ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo hospodárstva Slovenskej republiky (ďalej len „ministerstvo").

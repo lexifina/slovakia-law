@@ -24,6 +24,8 @@
 
 - 8a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
+- 8b) Nariadenie Rady (EHS) č. 339/1993 z 8. februára 1993 o kontrole zhody výrobkov dovážaných z tretích krajín s právnymi predpismi o bezpečnosti výrobkov (Ú.v. ES L 40, 17. 02. 1993) v platnom znení.
+
 - 9) Hlava V prvej časti zákona č. 513/1991 Zb.
 
 - 9a) Zákon Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
@@ -58,14 +60,20 @@
 
 - 13a) § 623 Občianskeho zákonníka.
 
+- 13b) § 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
+
+- § 64 a 65 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+
+- § 8, 9, 11 a 13 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
+
+- 13c) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
+
 - 14) Zákon Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa.
 
-- 14a) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 14a) § 5 ods. 3 zákona č. 199/2004 Z. z. Colného zákona a o zmene a doplnení niektorých zákonov.
 
 - 14b) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení zákona Slovenskej národnej rady č. 417/1991 Zb. (úplné znenie č. 32/1992 Zb.), zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení zákona Slovenskej národnej rady č. 271/1991 Zb., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov, zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
 - 14c) § 84 a 85 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
 
-- 14d) § 23 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
-
-- 15) Najmä zákon č. 83/1990 Zb. alebo Občiansky zákonník.
+- 14d) Napríklad Občiansky zákonník, zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon č. 128/2002 Z. z., zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov, zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji, zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
