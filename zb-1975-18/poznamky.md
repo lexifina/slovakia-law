@@ -1,0 +1,1 @@
+- 1) § 2 zákona č. 52/1949 Zb. o hlásení obyvateľstva v znení zákona č. 76/1957 Zb. a zákona č. 68/1965 Zb.
