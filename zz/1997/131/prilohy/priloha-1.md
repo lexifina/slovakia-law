@@ -1,3 +1,0 @@
-Príloha č. 1 k vyhláške č. 131/1997 Z. z. VEDNÉ ODBORY A UMELECKÉ ODBORY DOKTORANDSKÉHO ŠTÚDIA A ICH ŠPECIALIZÁCIE
-
-[Príloha 01](../assets/07185aa3dc2ad3fdc24c50020e852a19ba030aa00a154aff1730eac6fc0ab4c2.pdf)
