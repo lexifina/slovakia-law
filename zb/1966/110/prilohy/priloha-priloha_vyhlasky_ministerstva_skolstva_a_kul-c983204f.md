@@ -10,6 +10,10 @@ Príloha vyhlášky Ministerstva školstva a kultúry č. 110/1966 Zb. o označo
 
 - Absolvent filozofických odborov (neučiteľského smeru) | Master of Arts (in .....) | Licencié ès Lettres Diplomé d'Etudes Supérieures en .....
 
+- Absolvent odboru politickej a sociálnej vedy | Master of Political and Social Sciences (in...) | Licencié en Sciences politiques et sociales Diplomé d'Etudes Supérrieures en...
+
+- Absolvent odborov telesnej výchovy a športu (neučiteľského smeru) | Master of Science (in...) | Licencié ès Sciences Diplomé d'Etudes Supérieures en ...
+
 - Absolvent odboru osvety a novinárstva | Master of Arts (in .....) | Licencié ès Lettres Diplomé d'Etudes Supérieures en Journalisme
 
 - Absolvent odboru farmácie | Master of Pharmacy | Pharmacien
@@ -40,7 +44,7 @@ Príloha vyhlášky Ministerstva školstva a kultúry č. 110/1966 Zb. o označo
 
 - Absolventi pedagogických fakúlt | Teaching Diploma for Secondary Schools (lower degree) in ..... | Certificat d'Aptitude au Professorat d'Enseignement Secondaire (l<sup>er</sup> cycle) en .....
 
-- Absolventi fakúlt telesnej výchovy a športu | Teaching Diploma for Physical Education on Secondary Schools (higher degree) | Licencié en Education physique Certificat d'Aptitude au Professorat d'Enseignement Secondaire (2<sup>e</sup> cycle)
+- Absolventi učiteľského štúdia na fakultách telesnej výchovy a športu | Teaching Diploma for Physical Education on Secondary physique Schools (higher degree) | Licencié en Education Certificat d'Aptitude au Professorat d'Enseingnement Secondaire (2<sup>e</sup> cycle)
 
 - Absolventi učiteľského štúdia na filozofických a prírodovedeckých fakultách | Teaching Diploma for Secondary Schools (higher degree) in..... | Certificat d'Aptitude au Professorat d'Enseignement Secondaire (2<sup>e</sup> cycle) en.....
 
