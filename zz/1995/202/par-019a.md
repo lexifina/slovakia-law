@@ -4,7 +4,7 @@
 
 (2) Cudzozemec nemôže nadobudnúť vlastnícke právo
 
-- a) k pôde, ktorá tvorí poľnohospodársky pôdny fond<sup>19</sup>) nachádzajúci sa za hranicou zastavaného územia obce a k pôde, ktorá tvorí lesný pôdny fond<sup>20</sup>) nachádzajúci sa za hranicou zastavaného územia obce; toto obmedzenie neplatí pre cudzozemca, ktorý je
+- a) k pôde, ktorá tvorí poľnohospodársky pôdny fond<sup>19</sup>) nachádzajúci sa za hranicou zastavaného územia obce a k pôde, ktorá tvorí lesný pôdny fond<sup>20</sup>) nachádzajúci sa za hranicou zastavaného územia obce; toto obmedzenie neplatí pre cudzozemca pri dedení ani pre cudzozemca, ktorý je
 
   - 1. občanom Slovenskej republiky,
 

@@ -52,9 +52,9 @@
 
 - 17a) § 5 ods. 1 písm. a) až c) zákona č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 17b) Napríklad Občiansky súdny poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) v znení neskorších predpisov.
+- 17b) Zákon č. 367/2000 Z. z. v znení neskorších predpisov.
 
-- 18) Zákon č. 367/2000 Z. z. v znení neskorších predpisov.
+- 18) Napríklad Občiansky súdny poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 18a) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
