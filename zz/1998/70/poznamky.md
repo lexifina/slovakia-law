@@ -38,6 +38,14 @@
 
 - 15) Zákon č. 505/1990 Zb.
 
+- 15a) § 27 ods. 2 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky.
+
+- 15b) § 27 ods. 3 zákona č. 319/2002 Z. z.
+
+- 15c) § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 15d) § 39a, 54 a 66 zákona č. 50/1976 Zb.
+
 - 16) § 21 až 23 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 17) § 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
