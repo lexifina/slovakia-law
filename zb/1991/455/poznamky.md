@@ -8,6 +8,8 @@
 
 - Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.)
 
+- 2a) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov.
+
 - 3) § 25 ods. 1 zákona č. 87/1987 Zb. o veterinárnej starostlivosti v znení zákona č. 239/1991 Zb.
 
 - Zákon ČNR č. 240/1991 Zb. o šľachtení a plemenitbe hospodárskych zvierat.
