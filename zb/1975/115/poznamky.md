@@ -1,0 +1,1 @@
+- 1) Nové klinické laboratórne vyšetrovacie spôsoby, ktoré sú vyriešením technického problému, môžu byť chránené ako vynálezy na základe § 24 zákona č. 84/1972 Zb.
