@@ -87,3 +87,5 @@
 - 31) § 9 a 10 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
 
 - 32) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
+- 33) § 7 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
