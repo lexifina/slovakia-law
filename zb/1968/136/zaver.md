@@ -1,3 +1,0 @@
-Minister:
-
-Valeš v. r.
