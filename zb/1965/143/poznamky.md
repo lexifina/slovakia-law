@@ -58,8 +58,6 @@
 
 - ***) § 150 ods. 3 a § 153 Zákonníka práce.
 
-- +) T. j. zaokrúhlený hodinový priemer z čistej dennej mzdy 100 Kčs.
-
 - *) Napr. ak je prevedená z pracoviska, kde bola vystavená účinkom rtg. žiarenia a kde pracovný čas bol 36 hodín týždenne, na inú prácu s pracovným časom 46 hodín týždenne.
 
 - *) Závodný, prípadne obvodný lekár po vyjadrení odborného ženského lekára.
@@ -114,7 +112,7 @@
 
 - 1) Zákon č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch; vyhláška č. 106/1972 Zb. o odmeňovaní objavov, vynálezov, zlepšovacích návrhov a priemyselných vzorov.
 
-- 1) § 83 Zákonníka práce.
+- 1) Táto suma je zo sumy 750 Kčs, prípadne zo sumy 900 Kčs, napr. pri 42,5 hodinovom týždňovom pracovnom čase 17,60 Kčs prípadne 21,10 Kčs, pri 42 hodinovom týždňovom pracovnom čase 17,80 Kčs, prípadne 21,40 Kčs, a pri 41,25 hodinovom týždňovom pracovnom čase 18,10 Kčs, prípadne 21,80 Kčs.
 
 - 1) § 18 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 148/1983 Zb. o zjednotení sadzieb nemocenského.
 
@@ -123,6 +121,8 @@
 - 2) Časť I prílohy nariadenia vlády Československej socialistickej republiky č. 74/1982 Zb. o niektorých úpravách v nemocenskom poistení a dôchodkovom zabezpečení pracujúcich v baníctve.
 
 - 2) § 84 a 85 Zákonníka práce.
+
+- 2) § 83 Zákonníka práce.
 
 - 3) Napr. úprava Ministerstva baníctva č. 8 z 1. 4. 1967 o deputátnom uhlí a dreve v uhoľnom priemysle.
 
