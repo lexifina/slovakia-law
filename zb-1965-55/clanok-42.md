@@ -1,0 +1,9 @@
+# Čl. 42 Vykonávací plán
+
+(1) Ročný plán výrobného programu stavebných podnikov sa zostavuje s výhľadom na ďalší jeden až dva roky. Dodávateľské stavebné podniky prednostne prerokujú a kapacitne zabezpečia menovité stavby. S investormi dohodnú objemy stavebných prác na ostatných stavbách, vrátane novozačínaných stavieb pre plán prvého roka. Objemy stavebných prác vykonávané na všetkých stavbách v prvom roku dohodnú až do času dokončenia stavieb. Pritom sa vo výhľade na ďalší jeden až dva roky uvedú iba objemy prác na stavbách rozostavaných k 31. decembru prvého roka a celkový kapacitný návrh. Predbežne sa prerokujú i práce a dodávky na celú dobu výstavby pre menovité stavby a stavby, začatie ktorých sa bude centrálne posudzovať a prichádza do úvahy v ďalšom roku.
+
+(2) Pri rozostavaných stavbách sa ročné objemy stavebných prác pre plánovaný rok a výhľad na ďalšie roky určia podľa platného projektu organizácie uskutočňovania stavby; pri novozačínaných stavbách sa ročné objemy stavebných prác určia podľa dohodnutého kalendárneho plánu a projektu organizácie uskutočňovania stavby. Pri drobnej výstavbe a udržiavacích prácach sa ročné objemy stavebných prác určia podľa skúseností a prieskumu štruktúry a rozmiestnenia potrieb stavebných prác; môžu byť uvedené i v globálnych položkách, ktoré sa prípadne vecne dohodnú v priebehu roka.
+
+(3) Stavebné podniky riadené Ministerstvom stavebníctva uvádzajú dojednania medzi dodávateľmi a investormi za jednotlivé stavby na plánovacích kartách stavieb, ktoré sú podkladom pre diernoštítkové spracovanie výrobného programu. Ostatným ústredným orgánom riadiacim stavebné organizácie sa odporúča obdobný postup.
+
+(4) Poddodávateľské vzťahy sa prerokúvajú medzi odberateľskými a dodávateľskými podnikmi a s konečnou platnosťou sa riešia na úrovni odborových riaditeľstiev.
