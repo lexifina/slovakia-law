@@ -1,0 +1,1 @@
+- 1) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.
