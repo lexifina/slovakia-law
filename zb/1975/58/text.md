@@ -10,6 +10,6 @@ z 11. júna 1975
 
 Predsedníctvo Federálneho zhromaždenia
 
-vyhlasuje podľa čl. 59 ústavného zákona o československej federácii a podľa § 50 zákona č. 44/1971 Zb. o voľbách do Federálneho zhromaždenia doplňovacie voľby vo volebnom obvode č. 13 pre voľby do Snemovne ľudu na sobotu 30. augusta 1975.
+vyhlasuje podľa čl. 59 ústavného zákona o československej federácii a podľa § 50 zákona č. 44/1971 Zb. o voľbách do Federálneho zhromaždenia doplňovacie voľby vo volebnom obvode č. 13 pre voľby do Snemovne ľudu na piatok 29. augusta 1975 a na sobotu 30. augusta 1975.
 
 Indra v. r.
