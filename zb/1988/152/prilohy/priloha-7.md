@@ -2,13 +2,9 @@ Příloha č. 7 k vyhlášce č. 152/1988 Sb.
 
 - Úhrady za další služby poskytované v domovech-penziónech pro důchodce Druh služby | Výše úhrady
 
-- (1) Stravování |
+- (1) Stravování | podle vyhlášky MZSV ČR ze dne 26. června 1990 o stravování v zařízeních sociální péče
 
-- a) ze zařízení sociální péče | podle výnosu MPSV ČSR ze dne 8. 9. 1987 o stravování pracovníků v zařízeních sociální péče a některých dalších občanů z kuchyní těchto zařízení (reg. v částce 21/1987 Sb.)
-
-- b) z jiného zařízení | ve výši, kterou tato organizace požaduje
-
-- Za dopravu jídla do zařízení, případně za donášku jídla do obytných jednotek obyvatel (v nutných případech, kdy je omezená pohyblivost obyvatele) se úhrada nepožaduje. |
+- Za dopravu jídla do zařízení, případně za donášku do obytné jednotky obyvatele (v nutných případech, kdy je omezena pohyblivost obyvatele) se úhrada nepožaduje |
 
 - (2) Praní a žehlení |
 
