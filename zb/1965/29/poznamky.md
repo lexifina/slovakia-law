@@ -1,0 +1,1 @@
+- *) Cenový výmer Ministerstva poľnohospodárstva, lesného a vodného hospodárstva č. B-3/1965 z 26. marca 1965.
