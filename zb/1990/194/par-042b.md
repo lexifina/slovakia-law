@@ -8,7 +8,15 @@
 
 - b) s právnickou osobou alebo fyzickou osobou, ktorá na základe zmluvy sprostredkúva činnosti spojené s prevádzkovaním lotérií pre prevádzkovateľa, ktorému sa vydalo povolenie.
 
-(3) Zamestnanci prevádzkovateľa lotérií a iných podobných hier musia byť bezúhonní a odborne spôsobilí. Pracovníci vo funkciách riaditeľ, vedúci ekonóm, vedúci kasína musia mať slovenské štátne občianstvo.
+(3) Zamestnanci prevádzkovateľa lotérií a iných podobných hier musia byť bezúhonní a odborne spôsobilí. Zamestnanci vo funkciách riaditeľ, vedúci ekonóm, vedúci kasína musia mať
+
+- a) slovenské štátne občianstvo alebo
+
+- b) občianstvo štátu Európskeho hospodárskeho priestoru alebo občianstvo štátu Organizácie pre hospodársku spoluprácu a rozvoj a
+
+  - 1. povolenie na prechodný pobyt alebo povolenie na trvalý pobyt udelené podľa osobitného zákona<sup>6</sup>) alebo
+
+  - 2. právo na prechodný pobyt na základe registrácie podľa osobitného zákona.<sup>6</sup>)
 
 (4) Osoba oprávnená prijímať stávky sa nesmie zúčastňovať stávok u prevádzkovateľa, pre ktorého prijíma stávky.
 

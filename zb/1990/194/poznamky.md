@@ -8,7 +8,7 @@
 
 - 5) Napr. zákon Slovenskej národnej rady č. 96/1991 Zb. o verejných kultúrnych podujatiach.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
+- 6) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov
 
 - 7) § 1 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní.
 

@@ -10,6 +10,6 @@
 
 (3) Penále, odvody a ich preddavky podľa § 4a a 42d sa zaokrúhľujú na celé koruny nahor.
 
-(4) Preplatky prevádzkovateľa lotérie alebo inej podobnej hry na jednotlivých odvodoch podľa § 4a a 42d sa vrátia do 31. mája bežného roka nasledujúceho po kalendárnom roku, za ktorý preplatok vznikol. Ak nebolo ročné vyúčtovanie podané v termíne do 31. marca bežného roka, vrátia sa preplatky podľa § 4a a 42d najneskôr do dvoch mesiacov od podania tohtoročného vyúčtovania. Preplatok nepresahujúci 50 Sk sa nevracia.
+(4) Preplatky prevádzkovateľa lotérie alebo inej podobnej hry na jednotlivých odvodoch podľa § 4a a 42d sa vrátia prevádzkovateľovi na základe jeho písomnej žiadosti do 31. mája bežného roka nasledujúceho po kalendárnom roku, v ktorom preplatok vznikol. Ak nebolo ročné vyúčtovanie podané do 31. marca bežného roka, preplatky podľa § 4a a 42d sa vrátia na základe písomnej žiadosti prevádzkovateľovi najneskôr do dvoch mesiacov od podania tohto ročného vyúčtovania. Ak prevádzkovateľ nepožiada o vrátenie preplatku, ten sa stane preddavkom na odvod za bežný rok. Preplatok nepresahujúci 50 Sk sa nevracia.
 
 (5) Nárok na vrátenie preplatku zaniká do troch rokov od konca kalendárneho roka, v ktorom preplatok vznikol.
