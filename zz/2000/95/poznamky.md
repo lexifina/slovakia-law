@@ -32,9 +32,13 @@
 
 - 10) Vyhláška Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z.
 
+- 10a) § 12 zákona č. 121/2004 Z. z.
+
 - 11) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z., zákon č. 513/1991 Zb.
 
-- 12) § 86 písm. c) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
+- 11a) § 11 zákona č. 121/2004 Z. z.
+
+- 12) § 86 písm. c) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.§ 12 ods. 4 a 5 zákona č. 121/2004 Z. z.
 
 - 13) Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 111/1975 Zb. o evidencii a registrácii pracovných úrazov a o hlásení prevádzkových nehôd (havárií) a porúch technických zariadení v znení vyhlášky Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 483/1990 Zb.
 
