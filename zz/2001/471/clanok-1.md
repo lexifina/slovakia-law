@@ -202,6 +202,10 @@ Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekársk
 
 - Registrácia výrobcov, dovozcov a vývozcov sa zaznamenáva v úradnom registri (ďalej len „register výrobcov, dovozcov a vývozcov“) pod registračným číslom, ktorým sú príslušné osoby jednoznačne identifikované. Register výrobcov, dovozcov a vývozcov vedie kontrolný ústav.
 
+- (3)
+
+- Výrobca registrovaný podľa odseku 2 označuje rastliny a rastlinné produkty rastlinným pasom, ktorým potvrdzuje, že spĺňajú požiadavky týkajúce sa ich zdravotného stavu.
+
 - (4)
 
 - Rastlinný pas je doklad, ktorý potvrdzuje, že rastliny alebo rastlinné produkty boli vypestované alebo vyrobené pod sústavnou rastlinolekárskou kontrolou.
@@ -301,6 +305,10 @@ Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekársk
 - 12. V poznámke pod čiarou k odkazu 3 sa citácia „§ 16 ods. 1 zákona č. 618/1992 Zb. Colný zákon.“ nahrádza citáciou „§ 2 písm. i) a § 21 až 54 zákona č. 238/2001 Z. z. Colný zákon.“.
 
 - 13. V § 4 odsek 4 znie:
+
+- „(4)
+
+- Ministerstvo ustanoví všeobecne záväzným právnym predpisom podrobnosti o dovoze, vývoze a prevoze rastlín, rastlinných produktov, ako aj predmetov, ktoré môžu byť nositeľmi škodlivých organizmov, prípady, v ktorých zásielka nemusí mať fytocertifikát, ako aj podrobnosti o vydávaní, používaní a uchovávaní rastlinných pasov a podrobnosti o dovoze a ich prevoze cez chránené zóny.“.
 
 - 14. § 4 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
 
