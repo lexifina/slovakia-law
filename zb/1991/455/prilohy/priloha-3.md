@@ -28,7 +28,7 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 10. | Zmenárne | devízová licencia | § 6 ods. 9 zák. NR SR č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zák. SNR č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov |
 
-- 11. | Letecké práce | povolenie | § 44 zák. č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov |
+- 11. | Zrušená od 1. 11. 2004. | | |
 
 - 12. | Cestná motorová doprava (vnútroštátna nepravidelná autobusová doprava, vnútroštátna nákladná cestná doprava, vnútroštátna taxislužba) | osvedčenie*)dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám:osvedčenie o odbornej spôsobilosti, doklad o finančnej spoľahlivosti | § 3 zák. č. 168/1996 Z. z. o cestnej doprave v znení zák. č. 386/1 996 Z. z., zák. č. 58/1997 Z. z. a zák. č. 340/2000 Z. z.dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám § 3 a 3a zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov*) nevyžaduje sa pre podnikanie najviac s piatimi vozidlami, z ktorých každé má užitočnú hmotnosť najviac 3,5 t alebo celkovú hmotnosť najviac 6 t |
 
