@@ -1,1 +1,0 @@
-- *) Zákon č. 71/1967 Zb. o správnom konaní.
