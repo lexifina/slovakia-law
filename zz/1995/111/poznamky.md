@@ -1,0 +1,1 @@
+- *) Právo určenej leteckej spoločnosti Ukrajiny poskytovať služby pri preprave cestujúcich, tovaru a pošty z bodov Slovenskej republiky do tretích štátov bude predmetom osobitnej dohody medzi vládnymi orgánmi civilného letectva štátov oboch zmluvných strán.
