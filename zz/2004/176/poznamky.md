@@ -40,32 +40,12 @@
 
 - 21) § 533 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 22) Napríklad čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
-
-- 22a) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 22b) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
-
-- 22c) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 22d) § 19 ods. 15 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 22e) § 38 a 39 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
-
-- 22f) § 18 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 4/2019 Z. z.
-
-- 22g) Napríklad § 2 ods. 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 300/2012 Z. z., § 9 ods. 2 zákona č. 321/2014 Z. z.
-
-- 22h) § 12 ods. 1 zákona č. 251/2012 Z. z. o energetike v znení neskorších predpisov.
+- 22) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 23) § 829 až 841 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 24) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 25) § 116 Občianskeho zákonníka.
-
-- 25b) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
-
-- 25c) § 18 zákona č. 315/2016 Z. z.
 
 - 26) Občiansky zákonník, Obchodný zákonník.
