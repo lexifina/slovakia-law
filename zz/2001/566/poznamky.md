@@ -96,6 +96,8 @@
 
 - 49) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
+- 49a) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
 - 50) § 21 a 28 ods. 3 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 51) § 27 ods. 5 Zákonníka práce v znení neskorších predpisov.
