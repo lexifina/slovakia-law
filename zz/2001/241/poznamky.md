@@ -14,12 +14,6 @@
 
 - 8) § 89 ods. 11 Trestného zákona.
 
-- 8a) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich v znení neskorších predpisov.Zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
-
-- Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 458/2003 Z. z.
-
-- Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z.
-
 - 9) Čl. 142 ods. 1 Ústavy Slovenskej republiky.
 
 - 10) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
@@ -54,9 +48,7 @@
 
 - 24) Zákon č. 71/1967 Zb.
 
-- 25) § 11 ods. 3, § 28, § 29 a § 151c zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
-- § 10 ods. 6, § 20, § 21, § 24b a § 265a zákona č. 154/2001 Z. z. v znení zákona č. 458/2003 Z. z.
+- 25) Zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
 - 26) Vyhláška Úradu jadrového dozoru Slovenskej republiky č. 284/1999 Z. z. o podrobnostiach prepravy jadrových materiálov a rádioaktívnych odpadov.
 
