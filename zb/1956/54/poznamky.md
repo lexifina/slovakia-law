@@ -2,6 +2,8 @@
 
 - *) § 23 vyhlášky č. 143/1965 Zb.
 
-- *) Vyhláška č. 88/1967 Zb. o nemocenskom poistení členov výrobných družstiev.
-
 - 1) § 85 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 153/1969 Zb. a zákona č. 20/1975 Zb.
+
+- 1) § 244 a nasl. Občianskeho súdneho poriadku.
+
+- 1) § 8 a 10b vyhlášky predsedu vlády č. 91/1958 Zb., ktorou sa uverejňuje opatrenie Ústrednej rady odborov o organizácii a vykonávaní nemocenského poistenia zamestnancov, v znení vyhlášky č. 178/1968 Zb.
