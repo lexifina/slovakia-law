@@ -1,0 +1,1 @@
+- 1) § 12 ods. 1 písm. a), b), c), d) vyhlášky Federálneho ministerstva vnútra č. 100/1975 Zb. o pravidlách cestnej premávky v znení vyhlášky Federálneho ministerstva vnútra č. 70/1979 Zb.
