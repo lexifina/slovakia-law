@@ -1,143 +1,87 @@
-Príloha č. 1 zákona č. 455/1991 Zb.
+Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov Por. č. | Živnosť | Zoznam
 
-- REMESELNÉ ŽIVNOSTI
+SKUPINA 101 - Výroba kovov a kovových výrobkov | |
 
-  - SKUPINA 101 – Výroba kovov a kovových výrobkov
+1. | Zámočníctvo | I
 
-  - Zámočníctvo
+2. | Nástrojárstvo | I
 
-  - Výroba nástrojov
+3. | Kovoobrábanie | I
 
-  - Brúsenie a leštenie kovov s výnimkou brúsenia nožov, nožníc a jednoduchých nástrojov
+4. | Galvanizácia kovov | I
 
-  - Kovoobrábanie
+5. | Smaltovanie | I
 
-  - Galvanizácia kovov Zlievanie železných a neželezných obyčajných kovov
+SKUPINA 103 - Výroba motorových a ostatných dopravných prostriedkov | |
 
-  - Smaltovanie
+6. | Opravy pracovných strojov | I
 
-  - SKUPINA 102 – Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia
+7. | Opravy cestných motorových vozidiel | I
 
-  - Výroba a stavba strojov a prístrojov s mechanickým pohonom
+8. | Opravy karosérií | I
 
-  - SKUPINA 103 – Výroba motorových a ostatných dopravných prostriedkov
+SKUPINA 104 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | |
 
-  - Opravy motorových vozidiel
+9. | Výroba a opravy protetických výrobkov | I
 
-  - Výroba a opravy poľnohospodárskych strojov
+10. | Výroba a opravy ortopedickej obuvi | I
 
-  - Opravy karosérií
+11. | Hodinárstvo | I
 
-  - SKUPINA 104 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
+12. | Očná optika |
 
-  - Výroba teplomerov
+SKUPINA 106 - Výroba a spracovanie kameniva a zemín, keramika | |
 
-  - Výroba protetických výrobkov
+13. | Kamenárstvo | I
 
-  - Výroba ortopedickej obuvi
+SKUPINA 108 - Výroba potravín a nápojov | |
 
-  - Jemná mechanika
+14. | Mäsiarstvo a údenárstvo | I
 
-  - Hodinárstvo
+15. | Výroba piva a sladu | I
 
-  - SKUPINA 106 – Výroba a spracovanie kameniva a zemín, keramika
+16. | Výroba mliečnych výrobkov | I
 
-  - Brúsenie a leptanie skla
+17. | Výroba pekárskych a cukrárskych výrobkov | I
 
-  - Výroba cementového tovaru a umelého kameňa
+SKUPINA 110 - Výroba kože, kožených výrobkov (vrátane obuvi), výroba gumových výrobkov a výrobkov z plastických látok | |
 
-  - Spracovanie kameňa
+18. | Kožušníctvo | I
 
-  - SKUPINA 107 – Výroba chemických výrobkov
+SKUPINA 111 - Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov | |
 
-  - Výroba saponátových, čistiacich a leštiacich výrobkov
+19. | Stolárstvo | I
 
-  - Výroba kozmetických výrobkov
+20. | Zlatníctvo a klenotníctvo | I
 
-  - SKUPINA 108 – Výroba potravín a nápojov
+SKUPINA 112 - Výroba papierenská a polygrafická | |
 
-  - Mäsiarstvo a údenárstvo
+21. | Polygrafická výroba | I
 
-  - Výroba hotových jedál a polotovarov
+SKUPINA 113 - Stavebníctvo | |
 
-  - Mlynárstvo
+22. | Murárstvo | I
 
-  - Výroba piva a sladu
+23. | Tesárstvo | I
 
-  - Výroba mliečnych výrobkov
+24. | Pokrývačstvo | I
 
-  - Výroba mliečnej zmrzliny a smotanových krémov
+25. | Klampiarstvo | I
 
-  - Výroba pekárskych výrobkov
+26. | Izolatérstvo | I
 
-  - Výroba cukrárskych výrobkov
+27. | Vodoinštalatérstvo a kúrenárstvo | I
 
-  - SKUPINA 109 – Výroba textilná a odevná
+28. | Inštalácia a opravy chladiarenských zariadení |
 
-  - Farbenie látok a priadze
+29. | Elektroinštalatérstvo |
 
-  - SKUPINA 110 – Výroba kože, kožených výrobkov (vrátane obuvi), výroba gumových výrobkov a výrobkov z plastických látok
+30. | Plynoinštalatérstvo |
 
-  - Garbiarne
+SKUPINA 114 - Ostatné | |
 
-  - Irchárne
+31. | Holičstvo a kaderníctvo | III
 
-  - Semišové vyčiňovanie koží
+32. | Kozmetické služby | V
 
-  - Farbenie koží
-
-  - Kožušníctvo a farbenie kožušín
-
-  - Vulkanizácia
-
-  - SKUPINA 111 – Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov
-
-  - Stolárstvo
-
-  - Stavba člnov a lodí s výnimkou nemotorových športových lodí
-
-  - Zlatníctvo a strieborníctvo, klenotníctvo a kovotepectvo
-
-  - SKUPINA 112 – Výroba papierenská a polygrafická
-
-  - Kníhtlač
-
-  - Kameňotlač
-
-  - Sieťotlač, gumotlač, chemigrafia, stereotypia, galvanoplastika, ofsetová tlač
-
-  - SKUPINA 113 – Stavebníctvo
-
-  - Murárstvo
-
-  - Obkladačské práce
-
-  - Tesárstvo
-
-  - Pokrývačstvo
-
-  - Klampiarstvo
-
-  - Vykonávanie tepelných a hlukových izolácií
-
-  - Pozlacovačstvo
-
-  - Štukatérstvo
-
-  - Podlahárstvo
-
-  - Vodoinštalatérstvo
-
-  - Kúrenárske práce
-
-  - Vŕtanie studní
-
-  - SKUPINA 114 – Ostatné
-
-  - Holičstvo
-
-  - Kaderníctvo
-
-  - Kozmetické služby
-
-  - Čistenie odevov, bytového textilu a podlahových krytín
+33. | Pohostinská činnosť | V

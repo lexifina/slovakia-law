@@ -1,89 +1,39 @@
-Príloha č. 3 zákona č. 455/1991 Zb.
+Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
-- KONCESOVANÉ ŽIVNOSTI
+- KONCESOVANÉ ŽIVNOSTI Por. č. | Živnosť | Preukaz spôsobilosti | Poznámka | Zoznam
 
-  - SKUPINA 302 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia
+- SKUPINA 302 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | | | |
 
-- Vývoj, výroba, opravy, úpravy a znehodnocovanie zbraní | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie podľa zák. č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 31 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 1. | Nákup, predaj, požičiavanie zbraní | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
 
-- Nákup, predaj, požičiavanie zbraní | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie podľa zákona č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 31 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 2. | Nákup, predaj streliva | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
 
-- Preprava zbraní | osvedčenie podľa zák. č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 31 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 3. | Vývoj, výroba, opravy, úpravy a znehodnocovanie zbraníVývoj, výroba streliva | odborná spôsobilosť podlá § 21 a 22 živnostenského zákona a súhlas útvaru Policajného zboru*) | *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. |
 
-- Vývoj, výroba streliva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie podľa zák. č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 31 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 4. | Preprava zbraní a streliva | súhlas útvaru Policajného zboru*) *) § 31 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z. | |
 
-- Nákup, predaj streliva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie podľa zák. č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 31 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 5. | Zriaďovanie a prevádzkovanie strelníc | preukaz pyrotechnika skupiny A alebo B, alebo C, vek 21 rokov a súhlas útvaru Policajného zboru*) | *) § 31 a 39 zákona NR SR č. 246/1993 Z. z. o zbraniach a strelive v znení zák. NR SR č. 284/1995 Z. z.vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
-- Preprava streliva | osvedčenie podľa zák. č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 31 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- SKUPINA 307 - Výroba chemických výrobkov | | | |
 
-- Znehodnocovanie streliva | preukaz pyrotechnika skupiny ABC, vek 21 rokov | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 31 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 6. | Zaobchádzanie so zvlášť nebezpečnými jedmi | povolenie | § 5 nar. vlády SSR č. 206 /1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu |
 
-- Zriaďovanie a prevádzkovanie strelníc | preukaz pyrotechnika skupiny ABC, vek 21 rokov a osvedčenie podľa zák. č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | príslušný útvar Policajného zboru SR | § 39 zák. NR SR č. 246/1993 Z. z. o zbraniach a strelive;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 7. | Výskum, vývoj, výroba a spracovanie, výbušnín | súhlas | § 23 ods. 1 zák. Slovenskej národnej rady č. 51/1988 Zb. v znení zákona NR SR č. 154/1995 Z. z. |
 
-  - SKUPINA 304: Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
+- SKÚPINA 314 - Ostatné | | | |
 
-- Výroba, oprava a úprava zdravotníckych pomôcok | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | Ministerstvo zdravotníctva SR | § 27 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame
+- 8. | Prevádzkovanie pohrebísk | súhlas | § 17 vyhl. Ministerstva zdravotníctva SSR č. 46/1985 Zb. o postupe pri úmrtí | V
 
-- Hubenie škodlivých živočíchov, rastlín, mikroorganizmov a potláčanie ďalších škodlivých činiteľov jedmi vrátane ochrannej dezinfekcie, dezinsekcie, deratizácie | absolvovanie odborného kurzu, úspešné zloženie záverečnej skúšky a 1 rok praxe | opakovanie skúšky každé 3 roky , odborná spôsobilosť pracovníkov na výkon ochrannej dezinfekcie a deratizácie, schválenie platných technologických pracovných postupov orgánmi štátnej správy na úseku zdravotníctva | štátny obvodný lekár | § 15 ods. 5 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb. a č. 83/1992 Zb.; § 23 vyhl. č. 103/1984 Zb. o opatreniach proti prenosným chorobám
+- 9. | Predaj jedov v maloobchode | odborná spôsobilosť podlá osobitných predpisov*) | *) § 15 ods. 3 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu |
 
-- Úradné meranie | doklad o spôsobilosti v oblasti metrológie*) | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky | Úrad pre normalizáciu, metrológiu a skúšobníctvo SR | § 20 zákona č. 142/2000 Z. z. o metrológii, *) § 29 zákona č. 142/2000 Z. z. o metrológii
+- 10. | Zmenárne | vyjadrenie Národnej banky Slovenska | § 6 ods. 2 zák. NR SR č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zák. SNR č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov |
 
-- Overovanie určených meradiel | doklad o spôsobilosti v oblasti metrológie*) | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky | | § 15 zákona č. 142/2000 Z. z. o metrológii, *) § 29 zákona č. 142/2000 Z. z. o metrológii
+- 11. | Letecké práce | povolenie | § 44 zák. č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov |
 
-  - SKUPINA 307: Výroba chemických výrobkov
+- 12. | Cestná motorová doprava (nepravidelná autobusová doprava, nákladná cestná doprava, taxislužba) | osvedčenie*) | § 3 zák. č. 168/1996 Z. z. o cestnej doprave v znení zák. č. 386/1 996 Z. z., zák. č. 58/1997 Z. z. a zák. č. 340/2000 Z. z.*) nevyžaduje sa pre podnikanie najviac s piatimi vozidlami, z ktorých každé má užitočnú hmotnosť najviac 3,5 t alebo celkovú hmotnosť najviac 6 t |
 
-- Výroba a odbyt zvlášť nebezpečných jedov | a) vysokoškolské vzdelanie v odbore lekárstva, veterinárneho lekárstva alebo farmácie, príp.na inej vysokej škole s postgraduálnym štúdiom priemyselnej toxikológie alebob) iné vysokoškolské vzdelanie alebo stredoškolské vzdelanie zakončené maturitnou skúškou a skúška pred komisiou pre prácu s jedmi aleboc) iné vzdelanie a skúška pred komisiou pre prácu s jedmi, opakovaná vždy po 5 rokochosvedčenie podľa zák. č. 451/1991 Zb.*) | | štátny obvodný lekár | § 5, 15 a 16 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb. a č. 83/1992 Zb.; *) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 13. | Zasielateľstvo | 1 . stredoškolské vzdelanie v odbore a 2 roky praxe v odbore alebo2. odborná spôsobilosť podľa § 22 písm. c) živnostenského zákona alebo3. nepretržitá 5 -ročná prax v odbore v postavení vedúceho podniku | | IV
 
-- Výskum, vývoj, výroba, spracovanie, ničenie, uvádzanie výbušnín do obehu | osvedčenie podľa § 3 ods. 3 vyhl. č. 78/1993 Z. z. alebo doklady podľa § 3 ods. 8 vyhl. č. 78/1993 Z. z. a osvedčenie podľa zák. č. 451/1991 Zb.*) | § 30, 32 zák. SNR č. 51/1988 Zb. o banskej činnosti v znení zák. č. 499/1991 Zb.; zabezpečenie výbušnín proti odcudzeniu a vybavenie objektu tak, aby prípadný výbuch nemohol ohroziť bezpečnosť osôb a majetku | Ministerstvo hospodárstva SR | *) § 23 zák. SNR č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zák. č. 499/1991 Zb., úplné znenie č. 336/1992 Zb.; § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
+- 14. | Veterinárna asanácia | záväzné stanovisko príslušného orgánu veterinárnej starostlivosti | § 51 ods. 4 zák. č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov |
 
-- Výskum, vývoj, výroba pyrotechnických výrobkov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona,osvedčenie podľa zák. č. 451/1991 Zb.*) | zabezpečenie výrobkov proti odcudzeniu alebo zneužitiu a vybavenie objektu tak, aby prípadný výbuch nemohol ohroziť bezpečnosť osôb a majetku | Ministerstvo hospodárstva SR | *) § 23 zák. SNR č. 51/1988 Zb.; § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
-
-  - SKUPINA 313: Stavebníctvo
-
-  - SKUPINA 314: Ostatné
-
-- Vykonávanie trhacích prác | 1. streľmajstrovský preukaz vydaný orgánom štátnej správy, vek 21 rokov alebo 2. streľmajstrovský preukaz s odbornou spôsobilosťou technického vedúceho odstrelu vydaný orgánom štátnej správy, vek 24 rokov a osvedčenie podľa zák. č. 451/1991 Zb.*) | | | § 27, 35 a 36 zák. SNR č. 51/1988 Zb. o banskej činnosti, výbušninách a štátnej banskej správe v znení zák. č. 499/1991 Zb., úplné znenie č. 336/1992 Zb.;§ 40 a 41 vyhl. č. 71/1988 Zb. o výbušninách v znení vyhl. č. 534/1991 Zb.;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
-
-- Pohrebná služba vrátane prepravy zosnulých | | | štátny obvodný lekár | vyhl. č. 46/1985 Zb. o postupe pri úmrtí a o pohrebníctve
-
-- Prevádzkovanie cintorínov a krematórií | | dodržiavanie poriadku pre pohrebištia určeného obcou, príp. mestom | štátny obvodný lekár | vyhl. č. 46/1985 Zb. o postupe pri úmrtí a o pohrebníctve
-
-- Predaj jedov a žieravín v maloobchode | a) vysokoškolské vzdelanie v odbore lekárstva, veterinárneho lekárstva alebo farmácie, príp. na inej vysokej škole s postgraduálnym štúdiom priemyselnej toxikológie alebob) iné vysokoškolské vzdelanie alebo stredoškolské vzdelanie zakončené maturitnou skúškou pred komisiou pre prácu s jedmi aleboc) iné vzdelanie a skúška pred komisiou pre prácu s jedmi, opakovaná vždy po 5 rokoch | každoročné doškoľovanie v odbore práce s jedmi | štátny obvodný lekár | § 15 ods. 5 a § 16 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb. a č. 83/1992 Zb.
-
-- Vykonávanie dražieb mimo výkonu rozhodnutia | a) vysokoškolské vzdelanie ekonomického, umelecko-historického alebo umeleckého smeru a 1 rok praxe alebob) iné vysokoškolské vzdelanie príbuzného smeru a 2 roky praxec) stredoškolské vzdelanie s maturitnou skúškou a 8 rokov praxe | spoľahlivosť všetkých zametnancov podľa § 27 ods. 2 živnostenského zákona | |
-
-- Obchod so starožitnosťami | a) vysokoškolské vzdelanie ekonomického, umelecko-historického alebo umeleckého smeru a 1 rok praxe alebo b) iné vysokoškolské vzdelanie príbuzného smeru a 2 roky praxe alebo c) stredoškolské vzdelanie zakončené maturitnou skúškou a 8 rokov praxe | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | |
-
-- Prevádzkovanie cestovnej kancelárie | a) stredoškolské vzdelanie v odbore cestovného ruchu alebo v príbuznom odbore s maturitnou skúškou a 5 rokov praxe v odbore alebob) vysokoškolské vzdelanie ekonomického alebo právnického smeru a 2 roky praxe v odbore | | |
-
-- Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach a v chatovej osade triedy ***, v kempingoch triedy *** a vo vyšších triedach | a) vysokoškolské vzdelanie v odbore cestovného ruchu alebo v príbuznom odbore a 2 roky praxe v odbore alebob) stredoškolské vzdelanie s maturitnou skúškou v odbore cestovného ruchu alebo v príbuznom odbore a 5 rokov praxe v odbore | | |
-
-- Pohostinská činnosť v zariadeniach II. skupiny a vo vyšších skupinách | a) vysokoškolské vzdelanie v odbore cestovného ruchu alebo v príbuznom odbore a 2 roky praxe v odbore alebob) stredoškolské vzdelanie s maturitnou skúškou v odbore cestovného ruchu alebo v príbuznom odbore a 3 roky praxe v odbore | | |
-
-- Pohostinská činnosť (bez ubytovacích zariadení) | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | |
-
-- Záložne | a) vysokoškolské vzdelanie a 1 rok praxe v obchodnej činnosti alebo b) stredoškolské vzdelanie s maturitnou skúškou a 5 rokov praxe v obchodnej činnosti | | |
-
-- Zmenárne | stredoškolské vzdelanie zakončené maturitnou skúškou | | Národná banka Slovenska | § 7 ods. 5 devízového zákona č. 528/1990 Zb. v znení zák. č. 228/1992 Zb.
-
-- Cestná motorová doprava | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 29 a 31 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
-
-- Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
-
-- Letecké práce a iné podnikanie v civilnom letectve | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie podľa § 21 ods. 1, povolenie podľa § 23 ods. 1 a 2, § 44 ods. 2 a § 45 ods. 3 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky, Letecký úrad Slovenskej republiky | Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov
-
-- Zasielateľstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | okresný úrad | § 41 až 45 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
-
-- Služby verejných nosičov a poslov | | zjavné používanie stanoveného označenia, spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | |
-
-- Podnikanie v oblasti nakladania s odpadmi | Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z. | obvodný úrad životného prostredia | § 2 ods. 6, § 4 ods. 1 písm. d), § 7 a 8 zák. č. 238/1991 Zb. o odpadoch
-
-- Asanačný podnik | 1. absolvovanie vysokej školy veterinárnej alebo absolvovanie strednej odbornej školy veterinárnej, príp. absolvovanie pomaturitného štúdia veterinárneho odboru alebo spôsobilosť na výkon príslušných odborných činností získaná dokončením zodpovedajúceho štúdia,2. splnenie ďalších osobitných kvalifikačných predpokladov, ak sú stanovené Ministerstvom poľnohospodárstva SR | 1. overenie príslušným orgánom veterinárnej starostlivosti, že podnikateľ má k dispozícii potrebné zariadenia a prístroje a podmienky na dodržiavanie potrebných protinákazových a hygienických opatrení,2. povinnosť zabezpečovať za odplatu odvoz odpadov živočíšneho pôvodu v určenom obvode | okresná veterinárna správa | § 3a písm. a), § 19 ods. 1 písm. a) až c), § 21 ods. 1 písm. b), ods. 2 a 3, § 25, § 35 ods. 1 písm. e) č. 4 a ods. 3 zák. č. 239/ 1991 Zb., ktorým sa mení a dopĺňa zákon č. 87/1987 Zb. o veterinárnej starostlivosti (úplné znenie č. 215/1992 Zb.)
-
-- Zriaďovanie a prevádzkovanie jednotky požiarnej ochrany | osvedčenie | opakované skúšky každých 5 rokov | Ministerstvo vnútra SR | § 72 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zák. SNR č. 525/1990 Zb., § 66 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
-
-- Kominárstvo | osvedčenie o odbornej spôsobilosti vydané Komorou kominárov Slovenska* | územný rozsah oprávnenia | Komora kominárov Slovenska | § 4 ods. 4 písm. b) zákona č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov *§ 11 ods. 2 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov§ 34 až 39 vyhlášky Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane v oblasti prevencie
-
-- Poskytovanie technických služieb na ochranu majetku a osôb | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | spoľahlivosť a bezúhonnosť všetkých zamestnancov | Ministerstvo vnútra Slovenskej republiky | zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách)
-
-- Činnosť autorizovanej osoby | Rozhodnutie o autorizácii | | Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky | § 11 zákona č. 264/1999 Z. z.
+- 15. | Poskytovanie technických služieb na ochranu majetku a osôb | súhlasné vyjadrenie Ministerstva vnútra Slovenskej republiky | § 62 ods. 1 zák. č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení zák. č. 225/2000 Z. z. |
