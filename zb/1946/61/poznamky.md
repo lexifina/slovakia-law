@@ -1,0 +1,1 @@
+- *) Rozumí se, pokud jde o původní znění, dnem vyhlášení dekretu č. 124/1945 Sb., t. j. dnem 15. listopadu 1945. Změny, provedené čl. II. zákona č. 60/1946 Sb., nabývají účinnosti dnem vyhlášení tohoto zákona.
