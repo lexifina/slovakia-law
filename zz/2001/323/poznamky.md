@@ -1,0 +1,1 @@
+- 1) § 22 ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 279/2001 Z. z.
