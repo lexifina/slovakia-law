@@ -1,8 +1,8 @@
 # § 181b
 
-(1) Kto z nedbanlivosti vážne ohrozí životné prostredie (§ 181a ods. 1), potresce sa odňatím slobody až na jeden rok alebo nápravným opatrením alebo zákazom činnosti alebo peňažným trestom.
+(1) Kto z nedbanlivosti spôsobí ohrozenie životného prostredia (§ 181a ods. 1), potresce sa odňatím slobody až na jeden rok alebo zákazom činnosti alebo peňažným trestom.
 
-(2) Odňatím slobody až na tri roky alebo nápravným opatrením alebo zákazom činnosti sa páchateľ potresce,
+(2) Odňatím slobody až na tri roky alebo zákazom činnosti sa páchateľ potresce,
 
 - a) ak spácha čin uvedený v odseku 1 preto, že porušil dôležitú povinnosť vyplývajúcu z jeho zamestnania, povolania, postavenia alebo funkcie alebo uloženú mu podľa zákona, alebo
 

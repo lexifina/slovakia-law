@@ -1,8 +1,8 @@
-## Ohrozenie bezpečnosti vzdušného dopravného prostriedku
+## Ohrozenie bezpečnosti vzdušného dopravného prostriedku a civilného plavidla
 
 # § 180a
 
-(1) Kto na palube vzdušného dopravného prostriedku s úmyslom získať alebo vykonávať kontrolu nad takým prostriedkom
+(1) Kto na palube vzdušného dopravného prostriedku alebo civilného plavidla s úmyslom získať alebo vykonávať kontrolu nad takým prostriedkom
 
 - a) použije proti inému násilie alebo pohrozenie bezprostredným násilím,
 
@@ -12,7 +12,7 @@
 
 potresce sa odňatím slobody na osem až pätnásť rokov alebo prepadnutím majetku.
 
-(2) Odňatím slobody na dvanásť až pätnásť rokov alebo trestom smrti, prípadne popri týchto trestoch aj prepadnutím majetku sa páchateľ potresce,
+(2) Odňatím slobody na dvanásť až pätnásť rokov alebo výnimočným trestom , prípadne popri týchto trestoch aj prepadnutím majetku sa páchateľ potresce,
 
 - a) ak spôsobí činom uvedeným v odseku 1 smrť alebo
 

@@ -1,6 +1,10 @@
+## Piaty oddiel
+
+## Iné rušenia činnosti štátneho orgánu
+
 # § 169a Zasahovanie do nezávislosti súdu
 
-(1) Kto pôsobí na sudcu, aby porušil svoje povinnosti v konaní pred súdom, potresce sa odňatím slobody na šesť mesiacov až tri roky alebo nápravným opatrením.
+(1) Kto pôsobí na sudcu, aby porušil svoje povinnosti v konaní pred súdom, potresce sa odňatím slobody na šesť mesiacov až tri roky.
 
 (2) Odňatím slobody na tri roky až desať rokov sa páchateľ potresce, ak spácha čin uvedený v odseku 1 v úmysle
 
