@@ -74,6 +74,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - štát.“.
 
+- 12. V nadpise a celom texte § 129, v § 138 ods. 14 a ods. 15 písm. a), § 139, § 140 ods. 5 a 6 a v § 149 sa slová „rezervného fondu“ nahrádzajú slovami „rezervného fondu solidarity“.
+
 - 13. V § 131 odsek 1 znie:
 
 - „(1)
