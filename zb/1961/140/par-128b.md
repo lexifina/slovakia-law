@@ -8,4 +8,4 @@ Kto sa dopustí machinácií v súvislosti s verejnou súťažou tým, že
 
 - c) žiada alebo prijme majetkový alebo iný prospech za to, že sa zdrží účasti na súťaži,
 
-potresce sa odňatím slobody až na dva roky.
+potresce sa odňatím slobody na šesť mesiacov až tri roky alebo peňažným trestom.
