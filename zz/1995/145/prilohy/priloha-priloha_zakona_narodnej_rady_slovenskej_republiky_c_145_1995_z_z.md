@@ -74,13 +74,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) | Vyhotovenie a osvedčenie matričných dokladov a iných potvrdení o osobnom stave zasielané cudzím zastupiteľským úradom v Slovenskej republike | 300 Sk
 
-  - d) | Rozhodnutie o uznaní dokladov o vzdelaní ..... | 200 Sk
+  - d) | Uznávanie dokladov o vzdelaní na iné účely než na účel výkonu regulovaných povolaní a regulovaných odborných činností v Slovenskej republike ..... | 200 Sk
 
-  - e) | Podanie žiadosti o uznanie dokladu o vzdelaní občanov členských štátov Európskej únie na účely výkonu regulovaných povolaní v Slovenskej republike ..... | 3 000 Sk
+  - e) | Uznávanie dokladov o vzdelaní na účely výkonu regulovaných povolaní a regulovaných odborných činností v Slovenskej republike ..... | 3 000 Sk
 
   - f) | Vyhotovenie rozhodnutia o rovnocennosti dokladov o vzdelaní<sup>8a</sup>) ..... | 100 Sk
 
-  - Oslobodenie Od poplatkov podľa písmen a) a b) tejto položky sú oslobodené osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie a štátne divadlá. | |
+  - g) | Vydávanie potvrdení o regulovaných povolaniach a odbornej praxi nadobudnutej v Slovenskej republike ..... | 200 Sk
+
+  - h) | Uznávanie dokladov o vzdelaní získaných mimo Európskej únie, Nórska, Lichtenštajnska, Islandu a Švajčiarska, ktoré už boli uznané v niektorom členskom štáte Európskej únie, Nórsku, Lichtenštajnsku, na Islande a vo Švajčiarsku, a uznávanie stupňa dosiahnutého vzdelania ..... | 1000 Sk
+
+  - Oslobodenie Od poplatkov podľa písmen a) a b) tejto položky sú oslobodené osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie a štátne divadlá. Od poplatkov podľa písmen e) a g) tejto položky sú oslobodené úkony týkajúce sa dokladov o získaných špecializáciách zdravotníckych pracovníkov. | |
 
   - Poznámky 1. Poplatok podľa písmena a) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. 2. Poplatok podľa písmena a) tejto položky sa nevyberie za vyhotovenie úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí po oprave chybného údaja vykonaného z úradnej povinnosti. | |
 
