@@ -108,4 +108,6 @@
 
 - 47) § 2 ods. 1 a 8 zákona č. 483/2001 Z. z.
 
+- 47a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
 - 48) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
