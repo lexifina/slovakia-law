@@ -74,8 +74,6 @@
 
 - § 25 devízového zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb. (úplné znenie č. 457/1992 Zb.).
 
-- 24a) Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam v znení neskorších predpisov.
-
 - 25) § 1 zákona SNR č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
 - § 11 zákona SNR č. 369/1990 Zb.
@@ -83,12 +81,6 @@
 - § 11 zákona SNR č. 377/1990 Zb. v znení zákona SNR č. 523/1990 Zb.
 
 - § 10 zákona SNR č. 401/1990 Zb.
-
-- 25a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
-
-- 25b) § 3 zákona č. 169/1949 Zb. o vojenských obvodoch.
-
-- 25c) § 611 Občianskeho zákonníka.
 
 - 26) § 4 a nasl. zákona č. 427/1990 Zb.
 
@@ -125,3 +117,17 @@
 - Zákon č. 44/1988 Zb. v znení zákona SNR č. 498/1991 Zb.
 
 - 33) § 76 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 34) Ústavný zákon č. 541/1992 Zb. o delení majetku Českej a Slovenskej Federatívnej Republiky medzi Českú republiku a Slovenskú republiku a jeho prechode na Českú republiku a Slovenskú republiku.Ústavný zákon č. 542/1992 Zb. o zániku Českej a Slovenskej Federatívnej Republiky.
+
+- 35) § 611 Občianskeho zákonníka.
+
+- 36) Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov (úplné znenie č. 15/1994 Z. z.).
+
+- 37) Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
+
+- Zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+
+- 38) § 19 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 2/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 83/1994 Z. z.
+
+- Zákon č. 169/1949 Zb. o vojenských obvodoch.
