@@ -8,6 +8,8 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - Medzinárodná zmluva, ktorou je Slovenská republika viazaná, má prednosť pred ustanoveniami tohto zákona.“.
 
+- 2. V § 2 ods. 1 písm. a) v prvom a v štvrtom bode sa vypúšťajú slová „a príspevkových organizácií“, za slovo „vzťahov“ sa vkladajú slová „k ich príspevkovým organizáciám,“ a v druhom bode sa za slová „Ústavný súd Slovenskej republiky“ vkladajú slová „Najvyšší súd Slovenskej republiky,“.
+
 - 3. V § 2 ods. 1 písmeno c) znie:
 
 - „c)
@@ -31,6 +33,12 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
   - Doterajšie písmená e) a f) sa označujú ako písmená d) a e).
 
 - 5. V § 3 ods. 3 v poslednej vete sa za slovo „sú“ vkladá slovo „najmä“.
+
+- 6. V § 3 odsek 4 znie:
+
+- „(4)
+
+- V štátnom rozpočte, v rozpočtoch štátnych fondov a v rozpočtoch obcí sa uplatňuje rozpočtová klasifikácia, podľa ktorej sa jednotne triedia príjmy a výdavky, ako aj jednotným spôsobom sleduje ich plnenie. Rozpočtová klasifikácia zároveň určuje, ktoré výdavky rozpočtu sa financujú z bežných výdavkov a ktoré z kapitálových výdavkov. Rozpočtovú klasifikáciu ustanovuje opatrenie, ktoré vydá ministerstvo a ktoré sa vyhlasuje zverejnením oznámenia o jeho vydaní v Zbierke zákonov Slovenskej republiky.“.
 
 - 7. § 3 sa dopĺňa odsekom 5, ktorý znie:
 
@@ -97,6 +105,12 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - „(6)
 
 - Návratnú finančnú výpomoc podľa odseku 5 možno poskytnúť na základe zmluvy o návratnej finančnej výpomoci uzatvorenej medzi ministerstvom a prijímateľom návratnej finančnej výpomoci, pričom za poskytnutie návratnej finančnej výpomoci podľa odseku 5 písm. a) sa považujú plnenia poskytnuté podľa § 15 ods. 3 aj pred uzavretím zmluvy o návratnej finančnej výpomoci. V zmluve musí byť dohodnutý úrok, doba, na ktorú sa návratná finančná výpomoc poskytuje, a spôsob jej splácania. Doba, na ktorú sa návratná finančná výpomoc poskytuje, nemôže byť dlhšia ako štyri roky. Poskytnutú návratnú finančnú výpomoc nemožno zmeniť na iný druh finančného vzťahu. Pri poskytovaní návratných finančných výpomocí podľa odseku 5 písm. b) a c) úrok môže byť predmetom zmluvy.“.
+
+- 16. V § 6 ods. 9 sa na konci pripájajú tieto slová: „v súlade s rozpočtovou klasifikáciou vydanou podľa § 3 ods. 4“.
+
+- 17. V § 6 ods. 10 sa vypúšťajú slová „a tovary, ktorých doba použiteľnosti je kratšia ako jeden rok“.
+
+- 18. V § 6 ods. 11 sa vypúšťajú slová „pričom na účely tohto zákona sa vstupnou cenou<sup>7</sup>) rozumie súčet cien predmetov obstarávania bez ohľadu na množstvo a cenu jednotlivých obstarávaných predmetov,“.
 
 - 19. V § 8 odsek 2 znie:
 
@@ -341,6 +355,8 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - Rozpočtová organizácia zostavuje svoj rozpočet príjmov a výdavkov. Pritom sa riadi záväznými ukazovateľmi štátneho rozpočtu a ďalšími ukazovateľmi určenými zriaďovateľom. Na hospodárenie rozpočtových organizácií, ktoré sú vysokými školami, sa vzťahujú ustanovenia tohto zákona, ak osobitný zákon neustanoví inak.“.
 
 - 57. V § 34 ods. 3 sa na konci pripája táto veta: „Na financovanie preddavkových organizácií, ktoré sú zastupiteľskými úradmi Slovenskej republiky v zahraničí, sa vzťahuje § 20 ods. 5.“.
+
+- 58. V § 34 ods. 9 sa vypúšťajú slová „obstarávania hmotného a nehmotného majetku a jeho technického zhodnotenia a financovanie“.
 
 - 59. V § 38 ods. 1 sa slová „úlohami a záväznými limitmi“ nahrádzajú slovom „ukazovateľmi“ a slová „úlohami a limitmi“ sa nahrádzajú slovom „ukazovateľmi“.
 
