@@ -1,3 +1,0 @@
-Minister:
-
-Barák v. r.
