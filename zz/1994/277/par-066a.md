@@ -1,6 +1,6 @@
-# § 66a Úhrada za využívanie prírodných liečivých zdrojov a prírodných zdrojov minerálnych stolových vôd
+# § 66a Úhrada za využívanie prírodných liečivých zdrojov a zdrojov prírodných minerálnych vôd
 
-(1) Za odber z prírodného liečivého zdroja alebo z prírodného zdroja minerálnej stolovej vody platí využívateľ úhradu. Ak je na odbernom potrubí technicky spôsobilé meracie zariadenie, úhrada sa vypočíta zo skutočne odobratého množstva; v takomto prípade úhradu tvorí súčin skutočne odobratého množstva v m<sup>3</sup> a sadzby v Sk podľa druhu využitia prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody. Ak nie je na odbernom potrubí technicky spôsobilé meracie zariadenie, úhrada sa vypočíta z povoleného odberného množstva. V takomto prípade úhradu tvorí súčin povoleného odberného množstva v m<sup>3</sup> zníženého o 20 % a sadzby v Sk podľa druhu využitia prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody.
+(1) Za odber z prírodného liečivého zdroja alebo zo zdroja prírodnej minerálnej vody platí využívateľ úhradu. Ak je na odbernom potrubí technicky spôsobilé meracie zariadenie, úhrada sa vypočíta zo skutočne odobratého množstva; v takomto prípade úhradu tvorí súčin skutočne odobratého množstva v m<sup>3</sup> a sadzby v Sk podľa druhu využitia prírodného liečivého zdroja alebo zdroja prírodnej minerálnej vody. Ak nie je na odbernom potrubí technicky spôsobilé meracie zariadenie, úhrada sa vypočíta z povoleného odberného množstva. V takomto prípade úhradu tvorí súčin povoleného odberného množstva v m<sup>3</sup> zníženého o 20 % a sadzby v Sk podľa druhu využitia prírodného liečivého zdroja alebo zdroja prírodnej minerálnej vody.
 
 (2) Sadzba podľa odseku 1 je pri odbere
 
@@ -16,9 +16,9 @@
 
 - d) vody z prírodného liečivého zdroja na energetické účely 7 Sk/m<sup>3</sup>,
 
-- e) vody z prírodného zdroja minerálnej stolovej vody na plniarenské účely 15 Sk/m<sup>3</sup>,
+- e) vody zo zdroja prírodnej minerálnej vody na plniarenské účely 15 Sk/m<sup>3</sup>,
 
-- f) vody z prírodného liečivého zdroja alebo z prírodného zdroja minerálnej stolovej vody na iné účely 25 Sk/m<sup>3</sup>,
+- f) vody z prírodného liečivého zdroja alebo zo zdroja prírodnej minerálnej vody na iné účely 25 Sk/m<sup>3</sup>,
 
 - g) rašeliny, slatiny alebo bahná z prírodného liečivého zdroja na liečebné účely 10 Sk/m<sup>3</sup>.
 

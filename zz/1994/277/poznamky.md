@@ -100,6 +100,8 @@
 
 - 16) Článok 4 Ústavy Slovenskej republiky.
 
+- 16a) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
 - 17) § 2 zákona Slovenskej národnej rady č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade v znení zákona Slovenskej národnej rady č. 497/1991 Zb.
 
 - 18) § 2 a 3 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.

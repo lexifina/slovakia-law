@@ -1,20 +1,20 @@
-# § 65a Povolenie na využívanie prírodného liečivého zdroja a prírodného zdroja minerálnej stolovej vody
+# § 65a Povolenie na využívanie prírodného liečivého zdroja a zdroja prírodnej minerálnej vody
 
-(1) Prírodný liečivý zdroj alebo prírodný zdroj minerálnej stolovej vody môže využívať fyzická osoba alebo právnická osoba iba na základe povolenia vydaného ministerstvom zdravotníctva.
+(1) Prírodný liečivý zdroj alebo zdroj prírodnej minerálnej vody môže využívať fyzická osoba alebo právnická osoba iba na základe povolenia vydaného ministerstvom zdravotníctva.
 
-(2) Využitie rašelín a slatín vyhlásených za prírodný liečivý zdroj môže ministerstvo zdravotníctva povoliť len po predchádzajúcom súhlase Ministerstva životného prostredia Slovenskej republiky.
+(2) Využitie rašelín a slatín uznaných za prírodný liečivý zdroj môže ministerstvo zdravotníctva povoliť len po predchádzajúcom súhlase Ministerstva životného prostredia Slovenskej republiky.
 
-(3) Úpravu technických zariadení prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody a úpravu ich produktov možno vykonať len po predchádzajúcom povolení ministerstva zdravotníctva.
+(3) Úpravu technických zariadení prírodného liečivého zdroja alebo zdroja prírodnej minerálnej vody a úpravu ich produktov možno vykonať len po predchádzajúcom povolení ministerstva zdravotníctva.vôd“ v príslušnom tvare.
 
-(4) Na plnenie do spotrebiteľského balenia a na verejnú distribúciu pod označením „Prírodná liečivá voda“ možno využívať len prírodný zdroj vody vyhlásený za prírodný liečivý zdroj.
+(4) Na plnenie do spotrebiteľského balenia a na uvádzanie do obehu pod označením „Prírodná liečivá voda" možno využívať len prírodný zdroj vody uznaný za prírodný liečivý zdroj.
 
-(5) Na plnenie do spotrebiteľského balenia a na verejnú distribúciu pod označením „Prírodná minerálna stolová voda“ možno využívať len prírodný zdroj vody vyhlásený za prírodný zdroj minerálnej stolovej vody.
+(5) Plniť do spotrebiteľského balenia a uvádzať do obehu s označením podľa osobitného predpisu<sup>16a</sup>) možno len prírodnú vodu uznanú za prírodnú minerálnu vodu.
 
 (6) Akékoľvek iné označenie pre prírodné minerálne vody plnené do spotrebiteľského balenia a verejne distribuované je zakázané.
 
-(7) Prírodné liečivé vody a prírodné minerálne stolové vody plnené do spotrebiteľského balenia z jedného prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody sa môžu distribuovať do verejnej siete v Slovenskej republike len pod jedným obchodným názvom.
+(7) Prírodné liečivé vody a prírodné minerálne stolové vody plnené do spotrebiteľského balenia z jedného prírodného liečivého zdroja alebo zdroja prírodnej minerálnej vody sa môžu distribuovať do verejnej siete v Slovenskej republike len pod jedným obchodným názvom.
 
-(8) Žiadosť o vydanie povolenia na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody musí obsahovať
+(8) Žiadosť o vydanie povolenia na využívanie prírodného liečivého zdroja alebo zdroja prírodnej minerálnej vody musí obsahovať
 
 - a) údaje uvedené v § 65 ods. 7 písm. a),
 
@@ -26,7 +26,7 @@
 
 - e) záväzné stanovisko obce k predmetu činnosti žiadateľa.
 
-(9) Povolenie na využívanie prírodných liečivých zdrojov alebo prírodných zdrojov minerálnych stolových vôd obsahuje
+(9) Povolenie na využívanie prírodných liečivých zdrojov alebo zdrojov prírodných minerálnych vôd obsahuje
 
 - a) údaje uvedené v § 65 ods. 7 písm. a),
 
@@ -42,11 +42,11 @@
 
 (10) Povolenie sa vydáva najviac na desať rokov.
 
-(11) Využívateľ prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody je povinný
+(11) Využívateľ prírodného liečivého zdroja alebo zdroja prírodnej minerálnej vody je povinný
 
-- a) udržiavať v bezchybnom technickom a hygienickom stave balneotechnické, balneoterapeutické alebo plniarenské zariadenia podľa podmienok určených ministerstvom zdravotníctva v povolení na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnych stolových vôd,
+- a) udržiavať v bezchybnom technickom a hygienickom stave balneotechnické, balneoterapeutické alebo plniarenské zariadenia podľa podmienok určených ministerstvom zdravotníctva v povolení na využívanie prírodného liečivého zdroja alebo zdroja prírodných minerálnych vôd,
 
-- b) zabezpečiť vykonávanie fyzikálnych, chemických, mikrobiologických a biologických analýz v časových intervaloch uvedených v povolení a sledovať hydrologické a ďalšie hodnoty zdroja určené ministerstvom zdravotníctva v povolení na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnych stolových vôd,
+- b) zabezpečiť vykonávanie fyzikálnych, chemických, mikrobiologických a biologických analýz v časových intervaloch uvedených v povolení a sledovať hydrologické a ďalšie hodnoty zdroja určené ministerstvom zdravotníctva v povolení na využívanie prírodného liečivého zdroja alebo zdroja prírodných minerálnych vôd,
 
 - c) zabezpečovať odborné využitie zdroja,
 
@@ -56,4 +56,4 @@
 
 - f) umožniť výkon dozoru a kontroly nad využívaním a ochranou zdroja oprávneným osobám.
 
-(12) Náklady spojené s plnením povinností podľa odseku 11 znáša využívateľ zdroja. Ak prírodný liečivý zdroj alebo prírodný zdroj minerálnej stolovej vody využívajú viacerí využívatelia zdroja, náklady spojené s plnením povinností podľa odseku 11 znášajú pomerne podľa povoleného odberného množstva zo zdroja.
+(12) Náklady spojené s plnením povinností podľa odseku 11 znáša využívateľ zdroja. Ak prírodný liečivý zdroj alebo zdroj prírodnej minerálnej vody využívajú viacerí využívatelia zdroja, náklady spojené s plnením povinností podľa odseku 11 znášajú pomerne podľa povoleného odberného množstva zo zdroja.
