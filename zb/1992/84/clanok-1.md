@@ -214,6 +214,12 @@ Vyhláška Federálneho ministerstva dopravy č. 122/1979 Zb., ktorou sa vykoná
 
 - 38. V § 29 sa vypúšťa odsek 2 a doterajší odsek 3 sa označuje ako odsek 2.
 
+- 39. V § 32 ods. 2 znie:
+
+- „(2)
+
+- V medzinárodnej nepravidelnej autobusovej doprave prevádzkovanej čs. prevádzkovateľom musí mať vodič počas prepravy vo vozidle cestovný doklad, ktorý obsahuje názov a sídlo prevádzkovateľa dopravy, mená vodičov, menný zoznam cestujúcich, údaje o obsaditeľnosti autobusu a jeho štátnu poznávaciu značku, časové a miestne údaje o priebehu cesty a hraničné priechody.“.
+
 - 40. V § 33 ods. 1 znie:
 
 - „(1)
