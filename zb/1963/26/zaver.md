@@ -1,0 +1,3 @@
+Minister:
+
+Vokáč v. r.
