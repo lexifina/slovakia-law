@@ -160,6 +160,16 @@ Dodatok k č. 213/2002 Z. z.
 
   - 3. „the Director of Justice Affairs Department“
 
+    - Dominika (Dominické spoločenstvo)
+
+  - 1. „the Attorney General“,
+
+  - 2. „the Solicitor General“,
+
+  - 3. „the Registrar“,
+
+  - 4. „the Deputy Registrar“.
+
     - Estónsko
 
   - 1. „Välisministeerium, konsulaarosakonna őigusbüroo“, Islandi väljak 1, 15049 Tallinn, phone +372 6317 440, fax +372 631 7454
@@ -1487,6 +1497,12 @@ Dodatok k č. 213/2002 Z. z.
   - 6. The Registrar of the Supreme Court,
 
   - 7. The Solicitor General.
+
+    - Svätý Vincent a Grenadíny
+
+  - 1. „The Permanent Secretary, Ministry of Foreign Affairs“,
+
+  - 2. „The Registrar, High Court“.
 
     - Španielsko
 
