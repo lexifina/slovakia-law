@@ -7,3 +7,5 @@
 (3) Ak dovolací súd zruší rozhodnutie odvolacieho súdu a súdu prvého stupňa z dôvodov uvedených v § 237 písm. a), b), d) a e), rozhodne svojím uznesením tiež o zastavení konania.
 
 (4) Ustanovenia § 218 ods. 1, § 224 ods. 1, § 225 a 226 platia pre konanie na dovolacom súde obdobne. Ak dovolateľ vezme dovolanie späť, dovolací súd konanie uznesením zastaví.
+
+(5) Ak rozhodnutie dovolacieho senátu nebolo prijaté jednomyseľne, sudca, ktorý nesúhlasí s väčšinovým rozhodnutím dovolacieho senátu, má právo, aby sa jeho odlišné stanovisko pripojilo k rozhodnutiu a aby sa doručilo účastníkom konania.

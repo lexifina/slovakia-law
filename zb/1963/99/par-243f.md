@@ -6,9 +6,7 @@
 
 - b) konanie je postihnuté inou vadou, ktorá mala za následok nesprávne rozhodnutie vo veci,
 
-- c) rozhodnutie vychádza zo skutkového zistenia, ktoré nemá v podstatnej časti oporu vo vykonanom dokazovaní,
-
-- d) rozhodnutie spočíva v nesprávnom právnom posúdení veci.
+- c) rozhodnutie spočíva v nesprávnom právnom posúdení veci.
 
 (2) Mimoriadne dovolanie nie je prípustné proti rozhodnutiu súdu, ktorým sa rozhodlo
 

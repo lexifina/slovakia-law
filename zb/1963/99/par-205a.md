@@ -6,10 +6,8 @@
 
 - b) má byť nimi preukázané, že v konaní došlo k vadám, ktoré mohli mať za následok nesprávne rozhodnutie vo veci samej,
 
-- c) má byť nimi spochybnená vierohodnosť dôkazných prostriedkov, z ktorých vychádza rozhodnutie súdu prvého stupňa,
+- c) odvolateľ nebol riadne poučený podľa § 120 ods. 4,
 
-- d) odvolateľ nebol riadne poučený podľa § 120 ods. 4,
-
-- e) ich účastník konania bez svojej viny nemohol označiť alebo predložiť do rozhodnutia súdu prvého stupňa.
+- d) ich účastník konania bez svojej viny nemohol označiť alebo predložiť do rozhodnutia súdu prvého stupňa.
 
 (2) Ustanovenie odseku 1 sa nepoužije v konaniach podľa § 120 ods. 2.

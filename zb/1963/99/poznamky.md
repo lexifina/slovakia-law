@@ -88,12 +88,6 @@
 
 - 34b) § 150 Občianskeho zákonníka.
 
-- 34c) § 13 ods. 3 písm. a) zákona Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení zákona č. 187/1998 Z. z.
-
-- 34d) § 19 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení zákona č. 187/1998 Z. z.
-
-- 34e) § 15 ods. 3 a § 20 ods. 2 zákona č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
-
 - 34f) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
 
 - 34fa) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
@@ -108,11 +102,13 @@
 
 - 34fe) § 181 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 34g) § 11 a nasl. Občianskeho zákonníka.
-
 - 34h) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
-- 34i) § 2 písm. a) zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
+- 34i) § 13 ods. 3 písm. a) zákona Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení zákona č. 187/1998 Z. z.
+
+- 34j) § 19 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení zákona č. 187/1998 Z. z.
+
+- 34k) § 15 ods. 3 a § 20 ods. 2 zákona č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
 
 - 35) V súčasnosti ide najmä o tieto prípady:
 
