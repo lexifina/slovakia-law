@@ -1,27 +1,33 @@
-## Piata časť
+## PIATA ČASŤ
 
-## POKUTY ORGANIZÁCIÁM
+## SANKCIE
 
-# § 22a Pokuty organizáciám
+# § 22a Pokuty
 
-(1) Cestný správny orgán uloží pokutu až do výšky 200 000 Kčs organizácii, ktorá
+Cestný správny orgán v rozsahu svojej pôsobnosti uloží pokutu do 1 000 000 Sk právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak
 
-- a) zničí, odstráni, poškodí, znečistí, zamení alebo zakryje dopravnú značku alebo iné zariadenie, ktoré je súčasťou diaľnice, cesty, miestnej komunikácie alebo účelovej komunikácie,
+- a) bez povolenia cestného správneho orgánu alebo v rozpore s vydaným povolením
 
-- b) zničí alebo poškodí cestnú zeleň.
+  - 1. užíva diaľnicu, cestu alebo miestnu komunikáciu iným spôsobom než zvyčajným alebo na iné účely, než na ktoré sú určené, s výnimkou nadmerných a nadrozmerných prepráv (zvláštne užívanie),
 
-(2) Pokutu až do výšky 500 000 Kčs uloží cestný správny orgán organizácii, ktorá
+  - 2. vykoná uzávierku diaľnice, cesty alebo miestnej komunikácie alebo nedodrží povolený termín uzávierky a obchádzky,
 
-- a) bez jeho súhlasu alebo povolenia, prípadne za nedodržanie podmienok určených v povolení, vykonáva výkopové práce v telese pozemnej komunikácie (s výnimkou havárií), zriaďuje nadzemné i podzemné vedenie každého druhu alebo umiestňuje na komunikácii rozličné iné zariadenia a predmety,
+  - 3. v ochrannom pásme diaľnice, cesty alebo miestnej komunikácie vykoná práce (činnosti), ktoré by mohli ohroziť pozemnú komunikáciu alebo premávku na nej,
 
-- b) neodstráni bez prieťahov poškodenie alebo znečistenie diaľnice, cesty alebo miestnej komunikácie, ktorým spôsobila alebo mohla spôsobiť závadu v zjazdnosti alebo schodnosti, a neuvedie komunikáciu do pôvodného stavu,
+  - 4. používa pri veľkých stavbách, ťažobných prácach alebo pri terénnych úpravách vyžadujúcich stavebné povolenie alebo iné povolenie podľa osobitných predpisov<sup>7</sup>) pozemnú komunikáciu, ktorej stavebno-technické vybavenie nezodpovedá požadovanej premávke,
 
-- c) prekročí lehoty určené na uzávierku premávky na diaľnici, ceste alebo miestnej komunikácii.
+  - 5. vykoná pripojenie komunikácie na diaľnicu, cestu alebo na miestnu komunikáciu alebo zriadi zjazd z týchto komunikácií na priľahlé nehnuteľnosti alebo zruší napojenie komunikácií a zjazdov,
 
-(3) Pri určení výšky pokuty sa prihliada na závažnosť, význam, čas trvania, protiprávnu činnosť a na rozsah spôsobenej škody.
+  - 6. zamení, pozmení, premiestni, odstráni, umiestni alebo zakryje dopravnú značku alebo iné zariadenie, ktoré je súčasťou pozemnej komunikácie,
 
-(4) Pokutu možno uložiť len do jedného roka odo dňa, keď sa cestný správny orgán dozvedel o tom, že organizácia porušila alebo nesplnila svoju povinnosť, najneskôr však do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+- b) zničí, poškodí alebo znečistí dopravnú značku alebo iné zariadenie, ktoré je súčasťou pozemnej komunikácie, alebo cestnú zeleň,
 
-(5) Pokuta je splatná do pätnástich dní odo dňa, keď rozhodnutie o jej uložení nadobudlo právoplatnosť.
+- c) znečistí alebo poškodí diaľnicu, cestu alebo miestnu komunikáciu tak, že spôsobí alebo môže spôsobiť chybu v zjazdnosti alebo v schodnosti pozemnej komunikácie,
 
-(6) Pokuty plynú do štátneho rozpočtu federácie alebo do rozpočtov národných výborov, a to podľa pôsobnosti cestného správneho orgánu, ktorý pokutu uložil.
+- d) v prípade opravy porúch na podzemných vedeniach uložených v diaľnici, ceste alebo v miestnej komunikácii nesplní ohlasovaciu povinnosť alebo nesplní podmienky určené cestným správnym orgánom na vykonanie prác súvisiacich s uvedením komunikácie do pôvodného stavu,
+
+- e) neplní opatrenia uložené orgánom štátneho odborného dozoru na zabránenie ohrozenia alebo sťaženia premávky na pozemných komunikáciách,
+
+- f) neodstráni v termíne určenom cestným správnym orgánom pevnú prekážku na diaľnici, ceste alebo na miestnej komunikácii alebo nesplní podmienky udelenej výnimky,
+
+- g) neplní úlohy správy a údržby diaľnice, cesty alebo miestnej komunikácie, ktoré pre ňu vyplývajú z tohto zákona.
