@@ -5,3 +5,5 @@ PRÍLOHA I
 - Poriadok pre medzinárodnú železničnú prepravu nebezpečného tovaru (RID)
 
 - (v osobitnom zväzku)
+
+- Do textu zmien a doplnkov k poriadku možno nazrieť na Ministerstve dopravy, pôšt a telekomunikácií Slovenskej republiky.
