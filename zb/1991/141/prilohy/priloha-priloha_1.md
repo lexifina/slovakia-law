@@ -1,0 +1,3 @@
+Príloha 1
+
+- NOSTRIFIKAČNÁ DOLOŽKA [vzor 01](../assets/386a7ff7cd300a2cb7b7457d011229bb58f7f16461ab1a614a7bd5cf29667605.pdf)
