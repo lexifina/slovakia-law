@@ -2,6 +2,8 @@ Príloha k § 2 ods. 2 zákona č. 289/1948 Sb.
 
 Územný popis krajov.
 
+Územie jednotlivých okresov sa upravuje tak, ako je ustanovené v časti I prílohy nariadenia č. 3/1949 Sb.
+
 1. Pražský kraj.
 
 Sídlo krajského národného výboru je v Prahe.
