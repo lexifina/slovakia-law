@@ -11,3 +11,5 @@
 - b) ak ide o okresný úrad, krajský úrad,<sup>14b</sup>)
 
 - c) v ostatných prípadoch ministerstvo financií.
+
+(4) Ministerstvo financií alebo zriaďovateľ je oprávnený udeliť súhlas s nakladaním s majetkom štátu podľa tohto zákona len vtedy, ak správca dodržal všetky podmienky ustanovené týmto zákonom a osobitnými zákonmi vzťahujúcimi sa na nakladanie s majetkom štátu.
