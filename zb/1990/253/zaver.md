@@ -1,0 +1,3 @@
+Minister:
+
+Mečiar v. r.
