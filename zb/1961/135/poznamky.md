@@ -24,7 +24,7 @@
 
 - 2h) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
-- 3) § 1 až 4 vládneho nariadenia č. 54/1953 Zb. o premávke na cestách.
+- 3) § 2 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 

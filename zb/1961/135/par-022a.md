@@ -4,7 +4,7 @@
 
 # § 22a Pokuty
 
-Cestný správny orgán v rozsahu svojej pôsobnosti uloží pokutu do 1 000 000 Sk právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak
+Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 1 000 000 Sk právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak
 
 - a) bez povolenia cestného správneho orgánu alebo v rozpore s vydaným povolením
 
@@ -30,4 +30,8 @@ Cestný správny orgán v rozsahu svojej pôsobnosti uloží pokutu do 1 000 000
 
 - f) neodstráni v termíne určenom cestným správnym orgánom pevnú prekážku na diaľnici, ceste alebo na miestnej komunikácii alebo nesplní podmienky udelenej výnimky,
 
-- g) neplní úlohy správy a údržby diaľnice, cesty alebo miestnej komunikácie, ktoré pre ňu vyplývajú z tohto zákona.
+- g) neplní úlohy správy a údržby diaľnice, cesty alebo miestnej komunikácie, ktoré pre ňu vyplývajú z tohto zákona,
+
+- h) nedodrží podmienky uvedené v povolení na zvláštne užívanie diaľnic, ciest a miestnych komunikácií pre nadmernú a nadrozmernú prepravu,
+
+- ch) umiestni reklamné zariadenia na diaľniciach a cestách pre motorové vozidlá a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.

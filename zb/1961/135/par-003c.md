@@ -4,9 +4,9 @@
 
 - a) nad diaľnicami ministerstvo,
 
-- b) nad cestami I. a II. triedy okresné úrady,
+- b) nad cestami I. a II. triedy krajské úrady,
 
-- c) nad cestami III. triedy, miestnymi komunikáciami a účelovými komunikáciami obvodné úrady.
+- c) nad cestami III. triedy, miestnymi komunikáciami a účelovými komunikáciami okresné úrady.
 
 (2) Orgány štátneho odborného dozoru dbajú na zabezpečenie ochrany pozemných komunikácií a dozerajú, či sa dodržiavajú povinnosti a podmienky užívania pozemných komunikácií ustanovené týmto zákonom, predpismi vydanými na jeho vykonanie, ako aj opatrenia cestných správnych orgánov.
 
