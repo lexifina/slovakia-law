@@ -2,7 +2,7 @@
 
 (1) Samosudca obžalobu predbežne neprejednáva, preskúma ju však z hľadísk uvedených v § 181 ods. 1 a § 186. Podľa výsledkov preskúmania obžaloby samosudca
 
-- a) urobí niektoré z rozhodnutí uvedených v § 188 ods. 1 písm. a) až e),
+- a) urobí niektoré z rozhodnutí uvedených v § 188 ods. 1 písm. a) až d),
 
 - b) môže zastaviť trestné stíhanie, ak sú tu okolnosti uvedené v § 172 ods. 2 alebo
 

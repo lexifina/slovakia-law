@@ -6,7 +6,7 @@
 
 - b) ak ide o podmienečné prepustenie z výkonu trestu odňatia slobody mladistvého, ktorý v čase konania verejného zasadania nedovŕšil devätnásty rok,
 
-- c) ak je vo väzbe alebo vo výkone trestu odňatia slobody, alebo
+- c) ak je vo väzbe, alebo
 
 - d) ak sú pochybnosti o jeho spôsobilosti náležite sa obhajovať.
 
@@ -18,4 +18,6 @@
 
 - c) ak je mladistvý a v čase konania verejného zasadania o sťažnosti pre porušenie zákona alebo o návrhu na povolenie obnovy nedovŕšil devätnásty rok, alebo
 
-- d) ak sú pochybnosti o jeho spôsobilosti náležite sa obhajovať.
+- d) ak sú pochybnosti o jeho spôsobilosti náležite sa obhajovať,
+
+- e) ak ide o konanie proti odsúdenému, ktorý zomrel.
