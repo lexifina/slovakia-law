@@ -1,14 +1,6 @@
 - 1) Napr. § 6 ods. 1 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí.
 
-- 1a) § 3 ods. 1 zákona č. 351/1997 Z. z. Branný zákon.
-
-- 1b) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
-
-- Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
-
-- 1c) § 21 až 23 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
-
-- 1d) Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky v znení neskorších predpisov.
+- 2) § 711 ods. 1 písm. b) Občianskeho zákonníka.
 
 - 3) Napr. § 5 ods. 3 písm. a) zákona č. 491/1991 Zb. o organizácii Ústavného súdu Českej a Slovenskej Federatívnej Republiky a o konaní pred ním.
 
