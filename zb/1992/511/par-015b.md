@@ -4,7 +4,7 @@
 
 - a) ak daňový subjekt žiada o vrátenie dane dodatočným daňovým priznaním,
 
-- b) ak daňový subjekt žiada o vrátenie dane podľa osobitného zákona,<sup>6eb</sup>)
+- b) ak daňový subjekt žiadal o vrátenie dane podľa osobitného zákona,<sup>6eb</sup>)
 
 - c) na podnet ministerstva alebo odvolacieho orgánu podľa § 48 ods. 1.
 
