@@ -1,0 +1,3 @@
+Minister:
+
+Krosnář v. r.
