@@ -68,7 +68,7 @@ Vyhláška Štátnej komisie pre financie, ceny a mzdy č. 47/1967 Zb. o cenách
 
 - g)
 
-- činnosti spojené s riešením výskumných a vývojových úloh (s výnimkou komplexných a samostatných hlavných úloh štátneho plánu výskumných a vývojových prác, ktoré sa zaraďujú do maximálnych cien), riešenie úloh technickej normalizácie (s výnimkou prípadov osobitne ustanovených Úradom pre normalizáciu a meranie), ďalej odborné posudky, expertízy a výkony ekonomického a technického zamerania vykonávané socialistickými organizáciami, programovacie a výpočtové práce, skúšky a hodnotenia výrobkov,
+- riešenie úloh technickej normalizácie (s výnimkou prípadov osobitne ustanovených Úradom pre normalizáciu a meranie), ďalej odborné posudky, expertízy a výkony ekonomického a technického zamerania vykonávané socialistickými organizáciami, programovacie a výpočtové práce, skúšky a hodnotenia výrobkov,
 
 - h)
 
