@@ -16,7 +16,7 @@
 
 - 9) Zákon č. 81/1966 Zb. v znení neskorších predpisov.
 
-- 10) § 5 ods. 2 zákona č. 81/1966 Zb. v znení zákona č. 186/1997 Z. z.§ 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+- 10) § 5 ods. 2 zákona č. 81/1966 Zb. v znení zákona č. 186/1997 Z. z.
 
 - 11) Zákon Slovenskej národnej rady č. 149/1975 o archívnictve v znení neskorších predpisov.
 
