@@ -4,11 +4,11 @@
 
 - 1) § 17 ods. 2 a § 113 Hospodárskeho zákonníka.
 
-- 2) § 2 zákona č. 101/1963 Zb. o právnych vzťahoch v medzinárodnom obchodnom styku (Zákonník medzinárodného obchodu).
+- 2) § 26a Hospodárskeho zákonníka. Článok III bod 1 zákona č. 98/1988 Zb., ktorým sa mení a dopĺňa Hospodársky zákonník.
 
-- 3) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
+- 3) § 26c Hospodárskeho zákonníka.
 
-- 4) § 24 ods. 2 Hospodárskeho zákonníka.
+- 4) § 5 ods. 3 zákona č. 88/1988 Zb. o štátnom podniku.
 
 - 5) § 142 ods. 4 Hospodárskeho zákonníka.
 
