@@ -150,9 +150,7 @@ Príloha D zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 73. | | | 3 ods. 6 | vyhradzovanle ukladania opatrení pre jednotlivé prípady
 
-74. | | zák. č. 110/1987 Zb. | 4 písm. a) | rozhodovanie o nariadení a ukončení mimoriadnych veterinárnych opatrení podľa zákona, o veterinárnej starostlivosti, ak sa netýkajú len individuálne určenej organizácie alebo občana, na dozeranie na ich plnenie
-
-75. | | | 4 písm. b) | určovanie miesta výstav, trhov, prehliadok alebo súťaži zvierat, pripadne zvodov zvierat na iné účely po dohode s príslušným orgánom veterinárnej správy a povoľovanie ich konania
+75. | | zák. č. 110/1987 Zb. | 4 písm. b) | určovanie miesta výstav, trhov, prehliadok alebo súťaži zvierat, pripadne zvodov zvierat na iné účely po dohode s príslušným orgánom veterinárnej správy a povoľovanie ich konania
 
 76. | | | 4 písm. c) | rozhodovanie o poskytovaní podpôr a náhrad na úhradu alebo zmiernenie škôd, pripadne nákladov vzniknutých vykonávaním ochranných zdolávacích opatrení, ako aj škôd vzniknutých uhynutím zvierat v dôsledku nákazy alebo iného hromadného ochorenia zvierat
 
