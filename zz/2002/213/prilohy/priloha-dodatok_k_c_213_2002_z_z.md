@@ -1474,19 +1474,19 @@ Dodatok k č. 213/2002 Z. z.
 
     - Svätá Lucia
 
-  - 1. „The Permanent Secretary, Ministry of Foreign Affairs and International Trade"
+  - 1. The Permanent Secretary, Ministry of Foreign Affairs and International Trade,
 
-  - 2. „The Deputy Permanent Secretary, Ministry of Foreign Affairs and International Trade"
+  - 2. The Deputy Permanent Secretary, Ministry of Foreign Affairs and International Trade,
 
-  - 3. „The Permanent Secretary, Ministry of Commerce, International Financial Services and Consumer Affairs"
+  - 3. The Permanent Secretary, Ministry of Finance,
 
-  - 4. „The Deputy Permanent Secretary, Ministry of Commerce, International Financial Services and Consumer Affairs"
+  - 4. The Deputy Permanent Secretary, Ministry of Finance,
 
-  - 5. „The Registrar of Companies and Intellectual Property"
+  - 5. The Registrar of Companies and Intellectual Property,
 
-  - 6. „The Registrar of the Supreme Court"
+  - 6. The Registrar of the Supreme Court,
 
-  - 7. „The Solicitor General"
+  - 7. The Solicitor General.
 
     - Španielsko
 
