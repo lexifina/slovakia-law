@@ -12,6 +12,8 @@ Dňa 2. decembra 1959 bola v Prahe podpísaná Dohoda medzi Československou rep
 
 S Dohodou vyslovilo Národné zhromaždenie súhlas 25. mája 1960 a prezident republiky ju ratifikoval 6. júna 1960. Ratifikačné listiny boli vymenené v Moskve 28. júna 1960. Podľa svojho článku 20 Dohoda nadobudla platnosť 1. júla 1960.
 
+Dňom nadobudnutia platnosti zmluvy uzavretej medzi Slovenskou republikou a Ukrajinou o sociálnom zabezpečení sa skončila platnosť tejto dohody (oznámenie č. 53/2002 Z. z.).
+
 České znenie Dohody sa vyhlasuje súčasne.*)
 
 David v. r.
