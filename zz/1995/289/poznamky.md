@@ -72,6 +72,8 @@
 
 - 26) Napríklad § 445 Obchodného zákonníka.
 
+- 26a) § 553 Občianskeho zákonníka.
+
 - 27) § 536 Obchodného zákonníka.
 
 - 28) § 663 Občianskeho zákonníka.
@@ -149,6 +151,14 @@
 - 55) § 15 ods. 1 písm. a) zákona č. 111/1990 Zb.
 
 - 56) § 69 Obchodného zákonníka.
+
+- 56a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- § 299 Obchodného zákonníka.
+
+- Občiansky súdny poriadok.
+
+- 56b) § 73 až 93 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 57) § 84 až 88 zákona č. 618/1992 Zb.
 
