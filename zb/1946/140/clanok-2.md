@@ -1,0 +1,3 @@
+# Čl. II.
+
+Dosavadní zřízenci poštovní služby výkonné v dílenské nebo automobilové službě, kteří splnili podmínky předepsané pro ustanovení řemeslníkem v příslušné kategorii (§ 4, odst. 1 vl. nař. č. 16/1927 Sb.) a konali alespoň po šest roků práce příslušných řemeslnických kategorií, se převedou dnem, kdy toto nařízení nabývá účinnosti, do kategorie dílenských nebo do kategorie řidičů automobilů, pomocní zřízenci v těchto službách, kteří splnili podmínky předepsané pro ustanovení řemeslníkem v příslušné kategorii (§ 4, odst. 1 vl. nař. č. 16/1927 Sb.) a konali práce příslušných řemeslnických kategorií, se převedou týmž dnem do příslušné kategorie pomocných řemeslníků.
