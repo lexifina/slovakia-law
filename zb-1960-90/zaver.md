@@ -1,0 +1,3 @@
+Povereník:
+
+Marcely v. r.
