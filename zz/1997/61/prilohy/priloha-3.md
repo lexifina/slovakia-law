@@ -1,1 +1,0 @@
-Príloha č. 3 k vyhláške Ministerstva financií Slovenskej republiky č. 61/1997 Z. z. [Vzor 03 - Vzor záručnej listiny na zabezpečenie colného dlhu zárukou podľa § 214 písm. c) Colného zákona](../assets/f7abcf218332a3bc9b43c1a210ec6388a5e6b9d6700175f42b76728872ca0f43.pdf)
