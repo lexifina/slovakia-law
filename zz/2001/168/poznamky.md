@@ -1,1 +1,0 @@
-- 1) § 2 ods. 2 Obchodného zákonníka.
