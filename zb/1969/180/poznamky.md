@@ -1,1 +1,0 @@
-- 1) Vyhláška č. 220/1954 Ú.v. o sadzbách prevádzkových honorárov za verejné nedivadelné prevádzanie hudobných diel v znení vyhlášky č. 183/1968 Zb.
