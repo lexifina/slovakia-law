@@ -8,15 +8,17 @@
 
 - 2a) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
 
+- 2b) § 34 a 35 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
+
 - 3) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov, zákon č. 147/1983 Zb. o zbraniach a strelive v znení zákona č. 49/1990 Zb., zákon č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
 
 - 4) Napríklad Trestný zákon,Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 5) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení zákona č. 389/1999 Z. z.
-
-- 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o súdoch a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a voľbách prísediacich (zákon o štátnej správe súdov) v znení zákona Národnej rady Slovenskej republiky č. 12/1993 Z. z.
+- 5) Zákon Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov, a o zmene a doplnení niektorých zákonov v znení zákona č. 481/2002 Z. z.
 
 - 7) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- 7a) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
 - 8) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
