@@ -24,14 +24,6 @@
 
 - †) Toto ustanovenie sa nevzťahuje na podniky zahraničného obchodu; pre tieto podniky platia osobitné predpisy o výdavkoch na pohostenie a dary.
 
-- *) Vyhláška č. 93/1965 Zb. o financovaní neinvestičných nákladov rozvoja vedy a techniky.
-
-- **) Čl. 176 metodických pokynov Štátnej plánovacej komisie pre vypracovanie štátneho plánu rozvoja národného hospodárstva č. 55/1965 Zb.
-
-- ***) § 3 a § 31 zákona č. 34/1957 Zb. o vynálezoch, objavoch a zlepšovacích návrhoch. Na chránené vzory sa vzťahuje nariadenie ministra-predsedu SÚP č. 15/1952 Zb. na vykonanie zákona č. 8/1952 Zb. o ochranných známkach a chránených vzoroch; na tematické úlohy sa vzťahuje vyhláška predsedu Štátneho úradu pre vynálezy a normalizáciu č. 166/1957 Ú. l. (Ú. v.) o tematických úlohách.
-
-- †) Vyhláška Ministerstva financií č. 93/1965 Zb. o financovaní neinvestičných nákladov rozvoja vedy a techniky.
-
 - ††) Časť IV. vládnej vyhlášky č. 90/1965 Zb. o plánovitom riadení národného hospodárstva.
 
 - †††) Financované podľa časti III vládnej vyhlášky č. 90/1965 Zb. o plánovitom riadení národného hospodárstva.
