@@ -4,8 +4,6 @@
 
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
-- 2a) Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
-
 - 2b) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
 - 2c) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2002 Z. z.
@@ -27,6 +25,8 @@
 - 5) Napríklad zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
 
 - 5a) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
+- 5aa) Napríklad zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.
 
 - 6) Zákon č. 431/2002 Z. z. o účtovníctve.
 
@@ -59,6 +59,10 @@
 - 10b) Zákon č. 203/2001 Z. z. o Agentúre na podporu vedy a techniky v znení zákona č. 132/2002 Z. z.
 
 - 10c) Zákon č. 553/2001 Z. z. o zrušení niektorých štátnych fondoch, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov v znení zákona č. 440/2002 Z. z.
+
+- 10d) § 428a zákona č. 238/2001 Z. z. v znení zákona č. 464/2003 Z. z.
+
+- § 63a zákona č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
 
 - 11) § 829 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
