@@ -1,0 +1,17 @@
+# § 95a Účinky vyhlásenia konkurzu a povolenia vyrovnania
+
+(1) Ak bol na daňový subjekt vyhlásený konkurz alebo ak súd povolil daňovému subjektu vyrovnanie, v čase od vyhlásenia konkurzu do zrušenia konkurzu alebo po povolení vyrovnania nemožno začať daňové konania vrátane daňového exekučného konania týkajúce sa daňových pohľadávok vzniknutých pred vyhlásením konkurzu alebo pred povolením vyrovnania; ak sa začalo daňové konanie vrátane daňového exekučného konania, tieto sa prerušujú.
+
+(2) V čase od vyhlásenia konkurzu do zrušenia konkurzu alebo po povolení vyrovnania možno začať daňové konania uvedené v odseku 1 alebo v nich pokračovať len na základe výzvy súdu; nemožno však pokračovať v daňovom exekučnom konaní ani ho začať.
+
+(3) V čase od vyhlásenia konkurzu do zrušenia konkurzu nemožno začať daňové exekučné konanie na daňové pohľadávky vzniknuté po vyhlásení konkurzu. V čase od vyhlásenia konkurzu do zrušenia konkurzu správca dane nemôže vyrubovať sankcie. Od povolenia vyrovnania správca dane nemôže vyrubovať sankcie, ktoré sa považujú za daňové pohľadávky vzniknuté pred povolením vyrovnania.
+
+(4) Vyhlásením konkurzu sa nesplatné daňové pohľadávky vzniknuté pred vyhlásením konkurzu stávajú splatnými. Vyhlásením konkurzu sa stávajú splatnými aj nesplatné daňové záväzky. V čase od vyhlásenia konkurzu do zrušenia konkurzu lehoty ustanovené pre premlčanie alebo zánik daňových pohľadávok a daňových záväzkov neplynú.
+
+(5) V daňovom konaní sa v čase od vyhlásenia konkurzu do zrušenia konkurzu správca konkurznej podstaty stáva účastníkom daňového konania namiesto daňového subjektu; v čase od vyhlásenia konkurzu do zrušenia konkurzu sa správca konkurznej podstaty považuje za daňový subjekt. V čase od vyhlásenia konkurzu do zrušenia konkurzu sa na správcu konkurznej podstaty vzťahujú všetky ustanovenia tohto zákona a osobitných zákonov,<sup>1</sup>) ktoré upravujú práva a povinnosti daňového subjektu. Daňové priznania, daňové doklady a iné písomnosti, ktoré majú význam pre určenie práv a povinností daňového subjektu alebo iných fyzických osôb, alebo právnických osôb podľa tohto zákona alebo osobitného zákona,<sup>1</sup>) vystavené správcom konkurznej podstaty namiesto daňového subjektu sa považujú za doklady vystavené daňovým subjektom.
+
+(6) V čase od vyhlásenia konkurzu do zrušenia konkurzu nie je možné vzájomné započítanie daňových pohľadávok a daňových záväzkov a ustanovenia § 63 ods. 2, 3, 4 prvá veta a ods. 8 sa nepoužijú. Za započítanie sa nepovažuje odpočítanie dane na vstupe od dane na výstupe pri dani z pridanej hodnoty za jednotlivé zdaňovacie obdobia.
+
+(7) Potvrdením vyrovnania zanikajú daňové pohľadávky alebo ich časti, ktoré daňový subjekt na základe schváleného vyrovnacieho plánu nemusí plniť. Zanikajú aj všetky daňové pohľadávky vzniknuté pred povolením vyrovnania alebo ich časti, ktoré nemožno vo vyrovnaní uspokojiť. Zanikajú aj sankcie alebo tie ich časti, ktoré neboli na účely vyrovnacieho konania považované za daňové pohľadávky podľa § 95 ods. 1, ak sa tieto sankcie vzťahujú na daňové pohľadávky vzniknuté pred povolením vyrovnania. Tieto daňové pohľadávky a sankcie alebo ich časti nemožno po skončení vyrovnania dodatočne vyrubiť.
+
+(8) Správca dane môže začať daňové konanie alebo v ňom pokračovať, ak daňový subjekt vyrovnanie nesplní, a to dňom právoplatnosti uznesenia súdu, ktorým potvrdí nesplnenie vyrovnania; v takomto prípade nezanikajú daňové pohľadávky podľa odseku 7.
