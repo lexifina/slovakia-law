@@ -1,0 +1,1 @@
+- 1) Např. útvar obrany, aparát výboru lidové kontroly, štáb civilní obrany.
