@@ -6,9 +6,9 @@
 
 (1) Vojakovi patrí príspevok na úhradu za užívanie bytu. Tento príspevok patrí aj vtedy, keď nemá občan nárok na zabezpečenie pri vojenskom cvičení a ďalších druhoch služby v ozbrojených silách a pri civilnej službe vykonávanej namiesto vojenského cvičenia.
 
-(2) Príspevok na úhradu za užívanie bytu sa poskytuje na plnú úhradu za užívanie bytu, najviac však v sume 400 Kčs mesačne. Príspevok nepatrí, pokiaľ za prenájom bytu po dobu služby má vojak (občan) príjem.
+(2) Príspevok na úhradu za užívanie bytu sa poskytuje na plnú úhradu za užívanie bytu, najviac však v sume 400 Sk mesačne. Príspevok nepatrí, pokiaľ za prenájom bytu po dobu služby má vojak (občan) príjem.
 
-(3) Do sumy úhrady za užívanie bytu sa započítava aj úhrada za služby spojené s užívaním bytu. Pokiaľ táto úhrada nie je zahrnutá v úhrade za užívanie bytu alebo je v nej zahrnutá v úhrade za užívanie bytu alebo je v nej zahrnutá len sčasti, predpokladá sa, že úhrada za služby spojené s užívaním bytu je 100 Kčs mesačne, pokiaľ skutočné náklady na tieto služby nie sú nižšie.
+(3) Do sumy úhrady za užívanie bytu sa započítava aj úhrada za služby spojené s užívaním bytu. Pokiaľ táto úhrada nie je zahrnutá v úhrade za užívanie bytu alebo je v nej zahrnutá v úhrade za užívanie bytu alebo je v nej zahrnutá len sčasti, predpokladá sa, že úhrada za služby spojené s užívaním bytu je 100 Sk mesačne, pokiaľ skutočné náklady na tieto služby nie sú nižšie.
 
 (4) Za byt sa považuje aj obytná miestnosť v zariadení určenom na trvalé bývanie pridelená príslušným orgánom alebo organizáciou.
 
