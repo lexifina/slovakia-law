@@ -4,19 +4,29 @@
 
 - 3) § 57 vyhlášky č. 42/1966 Zb. o poskytovaní liečebno-preventívnej starostlivosti.
 
-- 4) Uznesenie Národného zhromaždenia ČSSR č. 109/1967 Zb., ktorým sa vydáva Vzorový štatút mestských národných výborov.
+- 4) § 10 ods. 3 a 4 zákona o národných výboroch.
 
 - 5) Vyhláška č. 42/1966 Zb. o poskytovaní liečebno-preventívnej starostlivosti.
 
 - Vyhláška č. 19/1975 Zb. o sústave zdravotníckych zariadení.
 
-- 6) § 34 ods. 1 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
+- 6) § 34 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
 
-- 7) § 36 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
+- 7) § 37 školského zákona.
 
-- 8) § 20 ods. 2 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
+- 7a) § 41 školského zákona.
 
-- 9) § 15 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
+- 8) § 52 ods. 2 a § 62 ods. 1 školského zákona.
+
+- 9) § 14 a § 61 ods. 2 školského zákona.
+
+- 9a) § 30 ods. 3 a § 32 ods. 4 školského zákona.
+
+- 9b) § 61 ods. 2 školského zákona.
+
+- 9c) § 19 ods. 2 školského zákona.
+
+- 9d) § 61 ods. 1 školského zákona.
 
 - 10) § 12 a 15 zákona SNR č. 78/1978 Zb. o školských zariadeniach.
 
@@ -28,8 +38,14 @@
 
 - 14) § 40 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
 
+- 14a) § 20 ods. 2 školského zákona.
+
 - 15) § 23 až 31 zákona SNR č. 78/1978 Zb. o školských zariadeniach.
 
 - 16) § 29 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
+
+- 16a) § 3 školského zákona.
+
+- 16b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 17) Zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
