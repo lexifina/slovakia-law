@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 390/1999 Z. z. [Príloha 04](../assets/83e2d641f5ec6298704300aa35e823e3a2f88952b1f521b9fc6db4f89637c337.pdf)
+[Príloha 06](../assets/fbba33edf41cafe43833b0d36a29c4daefda31c0684002873f2723f0ecce6cb8.pdf)
