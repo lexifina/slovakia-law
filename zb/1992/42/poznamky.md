@@ -44,6 +44,36 @@
 
 - 12) Vlastníctvo možno preukázať napríklad kúpnou zmluvou, potvrdením notárstva o nadobudnutí dedičstva, dokladom, že družstvo prevzalo majetok, členskou prihláškou do družstva, výpisom z pozemkovej knihy a pod.
 
+- 12a) § 1 ods. 1 písm. m) zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z.
+
+- 12b) § 3 zákona č. 600/1992 Zb.
+
+- 12c) § 1 ods. 2 a 4 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 246/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+
+- 12d) Zákon č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 246/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+
+- 12e) § 5 ods. 5 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+
+- 12f) Nariadenie vlády Slovenskej republiky č. 97/1992 Zb., ktorým sa upravujú niektoré otázky náhrad podľa zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení nariadenia vlády Slovenskej republiky č. 20/1993 Z. z.
+
+- 12g) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 565/1992 Zb. o predĺžení lehoty na preukazovanie vlastníctva na účely úpravy majetkových vzťahov a vyporiadaní majetkových nárokov v poľnohospodárskych družstvách.
+
+- 12h) § 236 Obchodného zákonníka.
+
+- 12i) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 12j) § 25 zákona č. 214/1992 Zb. o burze cenných papierov a § 50 ods. 4 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 246/1994 Z. z.
+
+- 12k) § 6 ods. 3 Obchodného zákonníka.
+
+- 12l) § 56, 57 a 60 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+
+- 12m) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
+
+- 12n) § 223 Obchodného zákonníka.
+
+- 12o) § 240 ods. 1 Obchodného zákonníka.
+
 - 13) § 221 a nasl. zákona č. 513/1991 Zb.
 
 - 14) Zákon č. 389/1990 Zb. o dani z príjmov obyvateľstva.
