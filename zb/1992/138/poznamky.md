@@ -10,6 +10,8 @@
 
 - 4) § 3 ods. 1 písm. c) bod 8 zákona č. 455/1991 Zb.
 
+- 4b) § 44 ods. 2 a § 46b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+
 - 5) § 847 a nasl. Občianskeho zákonníka.
 
 - 6) Napr. § 635 ods. 3, § 638 ods. 1 a 2 a § 642 ods. 1 Občianskeho zákonníka.
@@ -28,7 +30,7 @@
 
 - 12) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.).
 
-- 13) § 2 ods. 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 253/1990 Zb., ktorou sa vykonáva zákon Slovenskej národnej rady o používaní štátneho znaku, štátnej vlajky, štátnej pečate a štátnej hymny Slovenskej republiky.
+- 13) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
 
 - 14) § 49 ods. 1 a 2 Trestného zákona.
 
