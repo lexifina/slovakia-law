@@ -54,11 +54,11 @@
 
 - 9) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
-- 9a) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 9a) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 9b) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
+- 9b) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
-- 10) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 10) Napríklad zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov, zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 10a) Napríklad zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení neskorších predpisov.
 
@@ -96,7 +96,7 @@
 
 - 16e) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
-- 16f) Napríklad § 32a zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 16f) Napríklad zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
 
 - 16g) § 11 ods. 3 zákona č. 152/1998 Z. z.
 
