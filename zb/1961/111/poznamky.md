@@ -1,0 +1,1 @@
+- *) Vyhláška Štátnej plánovacej komisie č. 186/1959 Ú. l. (Ú. v.) o podrobnejšom vymedzení pôsobnosti v odbore plánovania, tvorby a kontroly cien v znení vyhlášky č. 229/1959 Ú. l. (Ú. v.), vyhláška Štátnej plánovacej komisie č. 187/1959 Ú. l. (Ú. v.) o metodike tvorby cien.
