@@ -4,4 +4,4 @@
 
 (2) Melioračné družstvá sú socialistickými právnickými osobami a sa zapisujú do podnikového registra; ustanovenia zákona č. 53/1954 Zb. o ľudových družstvách a družstevných organizáciách, sa na ne nevzťahujú.
 
-(3) Na zriadenie melioračného družstva je potrebný súhlas rady okresného národného výboru; ak presahuje pôsobnosť družstva obvod okresného národného výboru, je potrebný súhlas rady krajského národného výboru, a ak presahuje obvod krajského národného výboru, súhlas Ministerstva poľnohospodárstva a lesného hospodárstva.
+(3) Na zriadenie melioračného družstva je potrebný súhlas rady okresného národného výboru; ak presahuje pôsobnosť družstva obvod okresného národného výboru, je potrebný súhlas Ministerstva poľnohospodárstva a výživy, a ak presahuje obvod krajského národného výboru, súhlas Ministerstva poľnohospodárstva a lesného hospodárstva.
