@@ -4,4 +4,6 @@
 
 - 1) Smernice č. 4/1974 Vestníka Ministerstva zdravotníctva SSR o hlásení a evidencii chorôb z povolania, profesionálnych otráv a iných poškodení zdravia pri práci (registrované v čiastke 18/1974 Zb.).
 
+- 1a) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 273/l994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
+
 - 2) §77 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
