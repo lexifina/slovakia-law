@@ -181,3 +181,5 @@
 - 76) § 16 písm. d) zákona Slovenskej národnej rady č. 347/1990 Zb. v znení neskorších predpisov.
 
 - 77) § 8 ods. 1 písm. f) zákona č. 347/1990 Zb.
+
+- 77a) § 33 Branného zákona.
