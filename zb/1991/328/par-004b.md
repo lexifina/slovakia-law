@@ -4,7 +4,7 @@
 
 - a) zdržať sa konania smerujúceho k zmenšeniu jeho majetku s výnimkou bežnej obchodnej činnosti;
 
-- b) na výzvu súdu zostaviť zoznam aktív a pasív s uvedením svojich dlžníkov, veriteľov a ich adries a odovzdať ho súdu v lehote ním určenej; táto lehota nesmie byť kratšia ako 15 dní.
+- b) na výzvu súdu zostaviť zoznam aktív a pasív s uvedením svojich dlžníkov, veriteľov a ich adries a odovzdať ho súdu v lehote podľa § 12a ods. 2.
 
 (2) Zoznam aktív a pasív podľa odseku 1 písm. b) musí dlžník podpísať a výslovne uviesť, že je správny a úplný.
 

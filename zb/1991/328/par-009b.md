@@ -1,6 +1,6 @@
 # § 9b
 
-(1) Povinnosťou predbežného správcu je najmä zistiť dlžníkov majetok a preskúmať dlžníkove obchodné knihy.
+(1) Povinnosťou predbežného správcu je najmä zistiť dlžníkov majetok a preskúmať dlžníkove obchodné knihy a správu o tom predkladať súdu k ostatnému dňu príslušného mesiaca.
 
 (2) Súd môže na žiadosť predbežného správcu požiadať príslušný orgán o vykonanie daňovej kontroly.
 
