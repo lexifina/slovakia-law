@@ -14,11 +14,13 @@
 
 - 7) § 3 ods. 5 zákona č. 135/1982 Zb.
 
-- 8) § 6 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z.
+- 8) § 17 ods. 1 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 9) § 85 ods. 1 písm. a), c), d) a § 86 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 10) § 99 a § 100 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
+- 10a) § 2 zákona č. 36/1967 Zb. o znalcoch a tlmočníkoch.
 
 - 11) § 71 ods. 3 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
@@ -57,3 +59,5 @@
 - 28) § 110 písm. g) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 29) Položka 55 sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
+
+- 1) Úradný vestník Európskych spoločenstiev L 370, 31. 12. 1985.
