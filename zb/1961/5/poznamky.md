@@ -1,1 +1,0 @@
-- *) Vládne nariadenie č. 44/1959 Zb. nadobudlo účinnosť 22. júlom 1959. Zmeny vykonanáí vládnym nariadením č. 2/1961 Zb. nadobúdajú účinnosť 24. januárom 1961.
