@@ -1,5 +1,7 @@
 - 1) Napr. § 2 ods. 1 a § 10 ods. 1 písm. b) zákona ČNR č. 200/1990 Zb. o priestupkoch a § 2 ods. 1 a § 10 ods. 1 písm. b) zákona SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
 
+- 1a) Napríklad § 52 ods. 4 a § 54 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
+
 - 2) Napr. zákon ČNR č. 200/1990 Zb. a zákon SNR č. 372/1990 Zb. v znení zákona SNR č. 524/1990 Zb.
 
 - 3) § 44 ods. 3 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení zákona Národnej rady Slovenskej republiky č. 12/1993 Z. z.
