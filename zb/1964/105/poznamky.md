@@ -7,3 +7,5 @@
 - *) Príloha vyhlášky č. 102/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
 
 - **) § 8 zákona č. 101/1964 Zb. o sociálnom zabezpečení.
+
+- *) Ide o dôchodky priznané podľa § 18 tejto vyhlášky.
