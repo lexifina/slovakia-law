@@ -18,6 +18,12 @@
 
 - 10) § 360a ods. 3 Hospodárskeho zákonníka. Pri koncernovom usporiadaní výrobnej hospodárskej jednotky schvaľuje zmluvu o združení prostriedkov uzavieranú koncernovým podnikom, pokiaľ mu to umožňuje štatút koncernu, generálny riaditeľ koncernu.
 
+- 10a) Zákon č. 69/1967 Zb. o národných výboroch v úplnom znení vyhlásenom pre ČSR pod č. 31/1983 Zb. a pre SSR pod č. 35/1983 Zb.
+
+- 10b) Zásady koordinačnej činnosti národných výborov pri združovaní prostriedkov a činností socialistických organizácií č. 52/1983 Zb.
+
+- 10c) Piata hlava oddiel 2 zákona č. 69/1967 Zb. o národných výboroch v úplnom znení vyhlásenom pre ČSR pod č. 31/1983 Zb. a pre SSR pod č. 35/1983 Zb.
+
 - 11) Najmä podľa mzdových predpisov, ako je vyhláška č. 157/1975 Zb. o usmerňovaní mzdového vývoja a odmieňaní práce.
 
 - 12) Doplnkovými zdrojmi sú napr. fond kultúrnych a sociálnych potrieb a pri národných výboroch aj fond rezerv a rozvoja.
@@ -36,7 +42,7 @@
 
 - 19) Vyhláška č. 153/1975 Zb. o financovaní neinvestičných výdavkov na rozvoj vedy a techniky.
 
-- 20) Vyhláška č. 155/1975 Zb.; v súčasnosti možno na výstavbu materských škôl a jaslí budovaných v rámci akcie Z použiť aj prostriedky fondu výstavby, prípadne iné zdroje určené na financovanie investičnej výstavby podľa uznesenia vlády ČSSR č. 315 z 28. novembra 1977, uznesenia vlády ČSR č. 360 a uznesenia vlády SSR č. 412 z 30. novembra 1977 (Finančný spravodajca č. 1/1978, por. č.
+- 20) Napr. vyhláška Federálneho ministerstva financií a predsedu Štátnej banky Československej č. 162/1980 Zb. o financovaní reprodukcie základných prostriedkov v znení vyhlášky č. 180/1982 Zb. (fond výstavby, fond rozvoja).
 
 - 21) § 11 ods. 15 vyhlášky č. 152/1975 Zb. o financovaní reprodukcie základných prostriedkov.
 
