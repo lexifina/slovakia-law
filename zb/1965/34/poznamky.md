@@ -1,4 +1,4 @@
-- 1) Vládne nariadenie č. 66/1960 Zb. o úprave niektorých pomerov poslancov národných výborov a občanov zvolených za členov komisií národných výborov.
+- 1) Položka 160 prílohy D zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
 - 2) Vyhláška č. 118/1961 Zb. o registrácii pracovných úrazov a smernice Ústrednej komisie ľudovej kontroly a štatistiky "Pracovná neschopnosť a úrazovosť" č. 18 Nem. Úr./1964.
 
