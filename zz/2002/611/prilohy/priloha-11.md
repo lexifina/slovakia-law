@@ -1,0 +1,5 @@
+Príloha č. 2 B
+
+- ZOZNAM ODBERATEĽOV TEPLA A ZMLUVNE DOHODNIUTÉ MNOŽSTVO TEPLA
+
+[Príloha 2B](../assets/a2ee798e216afd042b4765f084d09ea1f490b709dba4defb222e99ee514af8c9.pdf)
