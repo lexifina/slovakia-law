@@ -1,4 +1,4 @@
-- 1) Vyhláška č. 93/1970 Zb. o určovaní názvov obcí a ich častí, ulíc a iných verejných priestranstiev a o číslovaní budov.
+- 1) Napr. zákon SNR č. 544/1990 Zb. o miestnych poplatkoch.
 
 - 2) Zákon Slovenskej národnej rady č. 130/1970 Zb. o územnom členení Slovenskej republiky.
 
