@@ -1,0 +1,1 @@
+- *) Podrobná charakteristika pozemkov je uvedená v smerniciach Ústrednej správy geodézie a kartografie a Ministerstva potravinárskeho priemyslu a výkupu pôdohospodárskych výrobkov č. 154/1957 Ú. l. (Ú. v.).
