@@ -4,6 +4,6 @@
 
 - b) kultúrne a kultúrno-výchovné organizácie a zariadenia, ako aj zariadenia sociálneho zabezpečenia s výnimkou tých, ktoré spravujú národné výbory nižších stupňov a ústredné orgány štátnej správy.
 
-(2) Krajský národný výbor môže spravovať rozpočtové a príspevkové organizácie, ktoré slúžia uspokojovaniu potrieb viacerých okresov alebo krajov, ak je správa na tomto stupni účelnejšia.
+(2) Krajský národný výbor môže riadiť hospodárske organizácie a spravovať rozpočtové a príspevkové organizácie, ktoré slúžia uspokojovaniu potrieb viacerých okresov alebo krajov, ak je riadenie alebo správa na tomto stupni účelnejšia.
 
-(3) V otázkach zriaďovania a zrušovania organizácií a zariadení uvedených v odseku 1 a 2 a v otázkach ich odborného vedenia sa krajské národné výbory spravujú všeobecne záväznými predpismi a smernicami ústredných orgánov štátnej správy.
+(3) V otázkach zriaďovania a zrušovania rozpočtových a príspevkových organizácií, ako aj zariadení uvedených v odsekoch 1 a 2 a v otázkach ich odborného vedenia sa krajské národné výbory spravujú všeobecne záväznými predpismi a smernicami ústredných orgánov štátnej správy.
