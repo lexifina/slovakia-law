@@ -1,14 +1,12 @@
 - 1) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 70/1997 Z. z.
 
-- 2) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch.
+- 2) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
 
 - 3) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z.
 
 - Zákon č. 70/1997 Z. z.
-
-- 5) § 712 ods. 4 Občianskeho zákonníka.
 
 - 6) § 21 až 23 a § 34 až 43 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
@@ -24,33 +22,9 @@
 
 - 10) § 3 zákona č. 125/1998 Z. z.
 
-- 11) § 34 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
-
-- 12) § 53 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
-
-- 13) § 47 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
-
-- 14) § 85 a 86 Zákona o rodine.
-
-- 15) § 91 a 92 Zákona o rodine.
-
-- 16) § 145b ods. 2 a 3 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 308/1995 Z. z.
-
-- 16b) § 43 ods. 2 a 3 a § 46 Zákona o rodine.
-
-- 16c) § 44 a 45 Zákona o rodine.
-
-- 17) § 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
-
-- 18) § 21 zákona č. 100/1988 Zb.
-
-- 19) § 29 ods. 2 zákona č. 100/1988 Zb. v znení neskorších predpisov.
-
 - 20) Napríklad § 322 Občianskeho súdneho poriadku,§ 115 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
 - 21) § 2 písm. e) zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku.
-
-- 22) § 46 Zákona o rodine.
 
 - 23) § 43 ods. 2 Zákona o rodine.
 
@@ -68,6 +42,8 @@
 
 - 29) Zákon Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
 
+- 29a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
 - 30) § 4 ods. 3 písm. j) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona Národnej rady Slovenskej republiky č. 252/1994 Z. z.
 
 - 30a) § 33 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
@@ -78,25 +54,25 @@
 
 - 32a) § 28 a 31 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
-- 33) § 2 písm. c) zákona č. 125/1998 Z. z.
+- 33) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
 - 34) § 13 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
 
 - 35) § 170 až 203, § 205 a 206 Zákonníka práce.
 
-- 36) § 2 písm. a) zákona č. 125/1998 Z. z.
+- 36) § 2 písm. a) zákona č. 601/2003 Z. z.
 
 - 37) § 175a až 175z Občianskeho súdneho poriadku.
-
-- 39) § 251 až 351 Občianskeho súdneho poriadku.
-
-- Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 40) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 192/1994 Z. z. o všeobecných technických požiadavkách na stavby užívané osobami s obmedzenou schopnosťou pohybu.
 
 - 41) Napríklad zákon č. 286/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - 41a) § 27 ods. 2 Občianskeho zákonníka.
+
+- 41aa) § 3 zákona č. 601/2003 Z. z.
+
+- 41ab) § 8 zákona č. 599/2003 Z. z.
 
 - 41b) § 51 a 853 Občianskeho zákonníka.
 
@@ -118,11 +94,25 @@
 
 - 49a) Napríklad vyhláška Federálneho ministerstva zahraničných vecí č. 104/1991 Zb. o dojednaní Dohovoru o právach dieťaťa.
 
+- 49b) Články 14 až 25 Ústavy Slovenskej republiky.
+
+- 49c) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
+- 49d) Napríklad § 8 ods. 1 zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 49e) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
 - 50) § 10 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.Nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
 
 - 51) § 4 ods. 1 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 52) § 24 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
+
+- 52a) Napríklad zákon Národnej rady Slovenskej republiky č. 84/1994 Z. z. o Slovenskom Červenom kríži a o ochrane znaku a názvu Červeného kríža, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 52b) § 10 zákona č. 750/2002 Z. z. o štátnom rozpočte na rok 2003.
+
+- 52c) § 51 Občianskeho zákonníka.
 
 - 53) Napríklad zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z., zákon č. 213/1997 Z. z.
 

@@ -1,0 +1,5 @@
+# § 112j
+
+(1) Na príslušnú obec prechádza s účinnosťou od 1. januára 2004 rozhodovacia pôsobnosť príslušného samosprávneho kraja o poskytovaní prepravnej služby a o úhrade za prepravnú službu a o poskytovaní opatrovateľskej služby a o úhrade za opatrovateľskú službu poskytovanú príslušným samosprávnym krajom podľa predpisov platných do 31. decembra 2003. Príslušná obec je obec, na ktorej území má občan, ktorému príslušný samosprávny kraj do 31. decembra 2003 poskytoval prepravnú službu alebo opatrovateľskú službu, alebo občan, ktorý si do 31. decembra 2003 podal žiadosť o poskytovanie prepravnej služby alebo opatrovateľskej služby, o ktorej príslušný samosprávny kraj nerozhodol do 31. decembra 2003, trvalý pobyt.
+
+(2) O žiadostiach o poskytovanie prepravnej služby a opatrovateľskej služby a o úhrade za poskytnutú prepravnú službu a o úhrade za poskytnutú opatrovateľskú službu, ktoré boli podané a o ktorých príslušný samosprávny kraj nerozhodol do 31. decembra 2003, rozhoduje príslušná obec podľa tohto zákona.

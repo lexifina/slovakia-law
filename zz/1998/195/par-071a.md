@@ -6,35 +6,27 @@ Samosprávny kraj pri výkone samosprávnej pôsobnosti
 
 - b) rozhoduje:
 
-  - 1. o poskytovaní opatrovateľskej služby a o úhrade za opatrovateľskú službu, ak túto opatrovateľskú službu neposkytuje a ak o nej nerozhoduje príslušná obec na území príslušného samosprávneho kraja,
+  - 1. o poskytovaní starostlivosti v zariadení sociálnych služieb, ktoré zriadil ako svoju organizačnú jednotku, o skončení poskytovania starostlivosti v tomto zariadení a o úhrade za poskytnutú starostlivosť v tomto zariadení,
 
-  - 2. o poskytovaní prepravnej služby a o úhrade za prepravnú službu,
+  - 2. o povinnosti občana zaplatiť úhradu za poskytnutú starostlivosť v zariadení sociálnych služieb, ktoré zriadil, ak sa starostlivosť poskytla neprávom, bez úhrady alebo za nižšiu úhradu,
 
-  - 3. o poskytovaní starostlivosti v zariadení sociálnych služieb, ktoré zriadil ako svoju organizačnú jednotku, o skončení poskytovania starostlivosti v tomto zariadení a o úhrade za poskytnutú starostlivosť v tomto zariadení,
+  - 3. o povinnosti osôb uvedených v § 45 ods. 1 a 2 platiť úhradu za poskytnutú starostlivosť v zariadení sociálnych služieb, ktoré zriadil ako svoju organizačnú jednotku, a o výške úhrady, ak nedôjde k dohode o úhrade s týmito osobami,
 
-  - 4. o povinnosti občana zaplatiť úhradu za opatrovateľskú službu, ktorá sa poskytla neprávom, bez úhrady alebo za nižšiu úhradu,
+  - 4. o odňatí sociálnej služby, o zastavení poskytovania sociálnej služby, o znížení alebo zvýšení úhrady za poskytnutú sociálnu službu a o neplatení úhrady za sociálnu službu,
 
-  - 5. o povinnosti občana zaplatiť úhradu za prepravnú službu, ktorá sa poskytla neprávom, bez úhrady alebo za nižšiu úhradu,
+  - 5. o zamietnutí žiadosti právnických osôb a fyzických osôb o registráciu na poskytovanie sociálnych služieb podľa tohto zákona (ďalej len „registrácia“),
 
-  - 6. o povinnosti občana zaplatiť úhradu za poskytnutú starostlivosť v zariadení sociálnych služieb, ktoré zriadil, ak sa starostlivosť poskytla neprávom, bez úhrady alebo za nižšiu úhradu,
+  - 6. o výmaze subjektu, ktorý poskytuje sociálnu pomoc podľa tohto zákona, z registra subjektov, ktoré poskytujú sociálne služby (ďalej len „register“),
 
-  - 7. o povinnosti osôb uvedených v § 45 ods. 1 a 2 platiť úhradu za sociálnu službu, ktorú poskytuje, alebo za poskytnutú starostlivosť v zariadení sociálnych služieb, ktoré zriadil ako svoju organizačnú jednotku, a o výške úhrady, ak nedôjde k dohode o úhrade s týmito osobami,
-
-  - 8. o odňatí sociálnej služby, o zastavení poskytovania sociálnej služby, o znížení alebo zvýšení úhrady za poskytnutú sociálnu službu a o neplatení úhrady za sociálnu službu,
-
-  - 9. o zamietnutí žiadosti právnických osôb a fyzických osôb o registráciu na poskytovanie sociálnych služieb podľa tohto zákona (ďalej len „registrácia“),
-
-  - 10. o výmaze subjektu, ktorý poskytuje sociálnu pomoc podľa tohto zákona, z registra subjektov, ktoré poskytujú sociálne služby (ďalej len „register“),
-
-  - 11. o zákaze poskytovať sociálnu službu subjektu, ktorý poskytuje sociálnu pomoc podľa tohto zákona,
+  - 7. o zákaze poskytovať sociálnu službu subjektu, ktorý poskytuje sociálnu pomoc podľa tohto zákona,
 
 - c) rozhoduje v druhom stupni vo veciach, v ktorých v správnom konaní v prvom stupni koná a rozhoduje zariadenie sociálnych služieb, ktoré zriadil ako rozpočtovú organizáciu alebo príspevkovú organizáciu,
 
-- d) zriaďuje a kontroluje zariadenia sociálnych služieb uvedené v § 18 ods. 4 a môže zriaďovať a kontrolovať zariadenia sociálnych služieb uvedené v § 18 ods. 2,
+- d) zriaďuje a kontroluje zariadenie sociálnych služieb uvedené v § 18 ods. 4 a môže zriaďovať a kontrolovať zariadenia sociálnych služieb uvedené v § 18 ods. 2,
 
 - e) uzatvára dohodu:
 
-  - 1. o úhrade za sociálnu službu, ktorú poskytuje, alebo za poskytnutú starostlivosť v zariadení sociálnych služieb, ktoré zriadil ako svoju organizačnú jednotku, s osobami uvedenými v § 45 ods. 1 a 2,
+  - 1. o úhrade za poskytnutú starostlivosť v zariadení sociálnych služieb, ktoré zriadil ako svoju organizačnú jednotku, s osobami uvedenými v § 45 ods. 1 a 2,
 
   - 2. o počte ďalších odoberaných jedál podľa § 20 ods. 5, ak sa občanovi poskytuje starostlivosť v zariadení sociálnych služieb, ktoré zriadil ako svoju organizačnú jednotku,
 
