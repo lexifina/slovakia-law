@@ -2,6 +2,8 @@
 
 - 1a) § 36 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
+- 1b) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
+
 - 2) § 71 a nasl. zákona č. 600/1992 Zb. o cenných papieroch.
 
 - 3) § 497 a nasl. Obchodného zákonníka.
@@ -13,6 +15,8 @@
 - 4b) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 5a) Zákon č. 231/1999 Z. z. o štátnej pomoci.
 
 - 6) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
