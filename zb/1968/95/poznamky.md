@@ -2,6 +2,8 @@
 
 - Zákon č. 39/1980 Zb. o vysokých školách.
 
+- 1) § 69 Zákona o rodine.
+
 - 2) § 142 ods. 2 Zákonníka práce.
 
 - 3) § 130 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
