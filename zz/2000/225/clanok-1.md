@@ -750,7 +750,11 @@ Zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služi
 
 - (7)
 
-- Štátny dozor a kontrolu podľa odsekov 1 a 2 v prípadoch podľa § 17 ods. 2 vykonáva ministerstvo a krajské riaditeľstvo spravidla v súčinnosti s orgánmi, ktoré vykonávajú štátny odborný dozor podľa osobitného zákona.<sup>21</sup>)“.
+- Štátny dozor a kontrolu podľa odsekov 1 a 2 v prípadoch podľa § 17 ods. 2 vykonáva ministerstvo a krajské riaditeľstvo spravidla v súčinnosti s orgánmi, ktoré vykonávajú štátny odborný dozor podľa osobitného zákona.<sup>21</sup>)
+
+- (8)
+
+- Na zabezpečenie výkonu štátneho dozoru a kontroly sa zriaďuje úrad v pôsobnosti ministerstva.“.
 
 - Poznámka pod čiarou k odkazu 21 znie:
 
