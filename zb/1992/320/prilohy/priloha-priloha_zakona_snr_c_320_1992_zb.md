@@ -474,6 +474,8 @@ Príloha zákona SNR č. 320/1992 Zb.
 
   - 2. makléra | 5 000 Sk
 
+  - f) na emisiu verejne obchodovateľných cenných papierov<sup>8b</sup>) akciovej spoločnosti zaradenej do príslušnej vlny kupónovej privatizácie | 2 000 Sk
+
   - Položka 25h
 
   - Podanie žiadosti |
