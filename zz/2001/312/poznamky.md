@@ -16,6 +16,8 @@
 
 - 4c) § 3 ods. 1 zákona č. 370/1997 Z. z.
 
+- 4d) Napríklad zákon č. 608/2003 Z. z. o štátnej správe pre územné plánovanie, stavebný poriadok a bývanie a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 5) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, § 143 ods. 5 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z., zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení zákona č. 411/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení zákona č. 166/2003 Z. z., zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 5a) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
