@@ -16,4 +16,6 @@
 
 - *) Organizácia, priebeh a postup kontraktačných rokovaní medzi výrobnými a obchodnými organizáciami sú upravené v kontraktačných poriadkoch dohodnutých medzi nadriadenými orgánmi dodávateľov a odberateľov.
 
+- *) Zoznam určených výrobkov sa uverejňuje v Ústrednom vestníku Českej socialistickej republiky a v Ústrednom vestníku Slovenskej socialistickej republiky.
+
 - *) Vyhláška č. 30/1964 Zb. Ústrednej správy pre rozvoj miestneho hospodárstva a Ministerstva spotrebného priemyslu o hospodárení zbernými surovinami a priemyslovým textilným odpadom.
