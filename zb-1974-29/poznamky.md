@@ -1,0 +1,1 @@
+- 1) Smernice Ministerstva financií ČSR č. 153/15 299/1971 z 25. augusta 1971, registrované v Zbierke zákonov v čiastke 24/1971, smernice Ministerstva financií SSR č. 83/2004/1971, registrované v Zbierke zákonov v čiastke 16/1972.
