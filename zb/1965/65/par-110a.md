@@ -1,3 +1,0 @@
-# § 110a
-
-Ak zamestnanec zmení v priebehu toho istého kalendárneho roka zamestnanie, môže mu ktorýkoľvek zo zúčastnených zamestnávateľov poskytnúť dovolenku (časť dovolenky), na ktorú mu vznikol (vznikne) nárok u druhého zamestnávateľa, ak o to zamestnanec požiada najneskôr pred skončením pracovného pomeru u doterajšieho zamestnávateľa a zúčastnení zamestnávatelia sa dohodnú na úhrade vyplatenej náhrady mzdy za dovolenku (jej časť), na ktorú zamestnancovi u zamestnávateľa poskytujúceho dovolenku (jej časť) nárok nevznikol. Zmenou zamestnania podľa predchádzajúcej vety sa rozumie skončenie pracovného pomeru u doterajšieho zamestnávateľa a nástup zamestnanca bez zbytočného prieťahu do nového pracovného pomeru u iného zamestnávateľa.

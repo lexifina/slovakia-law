@@ -1,7 +1,0 @@
-# § 205b
-
-(1) Zamestnávateľ je povinný nahradiť zamestnancovi skutočnú škodu, a to v peniazoch, pokiaľ škodu neodčiní uvedením do predošlého stavu. Ak ide o inú škodu na zdraví než z dôvodu pracovného úrazu alebo choroby z povolania (§ 187), platia pre spôsob a rozsah jej náhrady ustanovenia o pracovných úrazoch s tým obmedzením, že jednorazové odškodnenie pozostalým neprislúcha.
-
-(2) Pri určení výšky škody na veci sa vychádza z ceny v čase poškodenia.
-
-(3) Náhradu za stratu na zárobku vypláca zamestnávateľ pravidelne raz mesačne.
