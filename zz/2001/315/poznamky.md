@@ -18,6 +18,10 @@
 
 - 7) § 89 ods. 13 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
 
+- 7a) § 21 ods. 1 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
+
+- 7b) Napríklad § 21 ods. 2 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb., § 2 ods. 1 písm. b) vyhlášky Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch.
+
 - 8) § 2 ods. 1 písm. b) zákona č. 314/2001 Z. z.
 
 - 9) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
