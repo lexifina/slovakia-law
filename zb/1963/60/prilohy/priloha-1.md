@@ -142,18 +142,6 @@
 
   - ČASŤ V Osobitné ustanovenia
 
-    - Článok 15
-
-      - 1. V prípade živelnej pohromy v pásme pohraničného styku jednej zmluvnej strany môžu záchranné oddiely druhej zmluvnej strany prekročiť štátne hranice bez pohraničných priepustiek, pokiaľ sú požiadané o pomoc príslušnými orgánmi zmluvnej strany, na území ktorej k živelnej pohrome došlo. Sprostredkovanie takej žiadosti vykonávajú pohraničné orgány.
-
-      - 2. Pri lesných požiaroch na štátnych hraniciach môžu požiarne oddiely zmluvných strán, ak hrozí nebezpečenstvo z omeškania, zasahovať aj vtedy, keď nie sú požiadané o pomoc.
-
-      - 3. Štátne hranice môžu prekročiť bez pohraničných priepustiek aj pracovníci zdravotnej alebo veterinárnej služby, ak sú požiadaní o pomoc v prípadoch ohrozenia života alebo zdravia osôb alebo zvierat.
-
-      - 4. Osoby, uvedené v odsekoch 1, 2 a 3 tohto článku môžu prekročiť štátne hranice na ktoromkoľvek mieste a sú oprávnené sa zdržiavať v pásme pohraničného styku druhej zmluvnej strany, pokiaľ sú tam nevyhnutne potrebné, a môžu so sebou vziať bez osobitného povolenia všetky potreby nutné na vykonanie záchranných prác. Pri návrate sú povinné použiť najbližší hraničný priechod.
-
-      - 5. V prípade povodne, požiaru alebo v iných odôvodnených prípadoch, keď je ohrozený život alebo zdravie obyvateľov pásiem pohraničného styku, môžu títo obyvatelia prekročiť štátne hranice na územie druhej zmluvnej strany bez pohraničných priepustiek a na ktoromkoľvek mieste, pokiaľ je to potrebné na záchranu ich života alebo zdravia. Sú však povinní hlásiť sa neodkladne na miestnych orgánoch druhej zmluvnej strany.
-
     - Článok 16
 
       - Účastníkom pohraničného styku môžu sa prideľovať platidlá druhého štátu na krytie nutných výdavkov pri pobyte v pásme pohraničného styku druhej zmluvnej strany v množstve, ktoré je primerané účelu a dĺžke trvania pobytu. Podrobnosti určia príslušné orgány zmluvných strán.
