@@ -1,0 +1,1 @@
+- Vyobrazení k vládnímu nařízení č. 4 a č. 5/1941 Úř. věst. čsl. (vyhlášky č. 41 a č. 42/1946 Sb.). [Obrázok 01](../assets/70333288b6ecf8699487ef4028a7072f759eb41bb8400eedff66978360bb4d74.pdf)
