@@ -8,8 +8,24 @@
 
 - 1) § 8 a 10b vyhlášky predsedu vlády č. 91/1958 Zb., ktorou sa uverejňuje opatrenie Ústrednej rady odborov o organizácii a vykonávaní nemocenského poistenia zamestnancov, v znení vyhlášky č. 178/1968 Zb.
 
-- 1) § 7 ods. 1 zákona č. 1/1991 Zb. o zamestnanosti.
+- 1a) Napríklad zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
 
-- 1a) § 18 ods. 4 zákona č. 172/1990 Zb. o vysokých školách.
+- 2) § 6 ods. 1 písm. b) zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
-- 1b) § 29, 31 a 33 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
+- 3) Vyhláška Ústrednej rady odborov č. 165/1979 Zb. o nemocenskom poistení niektorých pracovníkov a o poskytovaní dávok nemocenského poistenia občanom v osobitných prípadoch v znení neskorších predpisov.
+
+- 4) § 62 a 225 Obchodného zákonníka.
+
+- 4a) § 68 a 231 Obchodného zákonníka.
+
+- 5) Napríklad zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
+
+- Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky.
+
+- Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky.
+
+- 6) § 7 ods. 1 zákona č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov.
