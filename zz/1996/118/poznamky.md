@@ -24,6 +24,48 @@
 
 - 5b) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
+- 5c) Zákon č. 483/2001 Z. z.
+
+- Zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
+
+- 5d) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 5da) § 2 ods. 8 zákona č. 510/2002 Z. z.
+
+- 5db) § 2 ods. 9 zákona č. 510/2002 Z. z.
+
+- 5dc) § 21 ods. 2 zákona č. 510/2002 Z. z.
+
+- 5dd) § 31 ods. 1 písm. c) a ods. 5, § 38 ods. 1, § 48 ods. 1 a 3 a § 61 zákona č. 510/2002 Z. z.
+
+- 5de) § 31 ods. 7, § 32 ods. 1 až 4, § 40 ods. 1 a 2 a § 50 ods. 1 a 2 zákona č. 510/2002 Z. z.
+
+- 5df) § 99 až 111 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+
+- 5dg) § 99 ods. 3 písm. h) a ods. 15 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+
+- 5e) Zákon č. 429/2002 Z. z. o burze cenných papierov.
+
+- 5f) Zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
+
+- 5g) Zákon č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
+
+- 5h) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+
+- 5i) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
+
+- 5j) § 2 ods. 2 a § 5 zákona č. 507/2001 Z. z. o poštových službách.
+
+- 5k) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
+
+- 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 a 4 a § 163 ods. 1 a 6 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 14 ods. 1 a § 20 ods. 1 zákona č. 385/1999 Z. z. v znení neskorších predpisov, § 4 ods. 5 a 6 a § 11 ods. 5 a 6 zákona č. 95/2002 Z. z., § 30 zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z. v znení zákona č. 409/2000 Z. z.
+
+- 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 19 zákona č. 431/2002 Z. z. o účtovníctve.
+
+- 5n) Napríklad zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
+
+- 5o) Napríklad § 80 ods. 1 zákona č. 566/2001 Z. z.
+
 - 6) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 7) § 63 a 64 zákona č. 483/2001 Z. z.
@@ -117,6 +159,12 @@
 - 18a) § 4 ods. 1 písm. a), b) a c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
 
 - 18b) § 91 ods. 3 zákona č. 483/2001 Z. z.
+
+- 18ba) Napríklad § 69 a 69a, § 476 až 488 Obchodného zákonníka.
+
+- 18bb) § 36 ods. 1 a 2 prvá veta, § 39 a § 452 Občianskeho zákonníka.
+
+- 18bc) § 11 ods. 1 až 3 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
 - 18c) § 2 ods. 1 Obchodného zákonníka.
 
