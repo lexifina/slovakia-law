@@ -36,6 +36,8 @@
 
 - Zákon Slovenskej národnej rady č. 11/1992 Zb.
 
+- 14a) § 6 ods. 5 a § 6b zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
 - 15) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
 - 16) Zákon č. 71/1967 Zb.
