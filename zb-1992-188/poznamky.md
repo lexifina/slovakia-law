@@ -1,0 +1,1 @@
+- 1) Čl. 3 písm c) a d) ústavného zákona Slovenskej národnej rady č. 7/1991 Zb. o Ústavnom súde Slovenskej republiky.
