@@ -18,6 +18,16 @@
 
 - 4d) § 19 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
 
+- 4da) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení zákona č. 152/1997 Z. z.
+
+- 4db) Zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
+
+- 4dc) Čl. 4 Ústavy Slovenskej republiky.
+
+- 4dd) Zákon č. 222/1946 Zb. o pošte (poštový zákon).
+
+- 4de) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 4e) § 2 ods. 3 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
 
 - Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
@@ -64,6 +74,8 @@
 
 - 8g) § 17a a 32 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- 8ga) Napríklad zákon Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
+
 - 8h) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení neskorších predpisov.
 
 - 9) § 163 ods. 1 písm. e) Obchodného zákonníka.
@@ -77,6 +89,8 @@
 - 11) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 11a) § 1 písm. b) a c) a § 17 ods. 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
+- 11b) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 12) § 34 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
