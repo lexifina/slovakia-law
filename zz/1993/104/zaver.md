@@ -1,1 +1,0 @@
-Jaroslav Kubečka v. r.
