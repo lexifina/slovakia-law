@@ -1,3 +1,0 @@
-# Čl.2.
-
-Toto nariadenie nadobúda účinnosť dňom vyhlásenia; vykoná ho minister financií po dohode so zúčastnenými ministrami.
