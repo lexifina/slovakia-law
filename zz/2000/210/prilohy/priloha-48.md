@@ -1,3 +1,3 @@
 Príloha č. 48 k vyhláške č. 210/2000 Z. z.
 
-- STACIONÁRNE NÁDRŽE [Príloha 48](../assets/c8f0c543ebbc2354a1027eb405770d1b6474e20541e2962d30f6fd0b2131b72f.pdf)
+- STACIONÁRNE NÁDRŽE [Príloha 48](../assets/ad7270ee64741d8954bcba3c9547cc396b02324d27750802187c779cdceb8512.pdf)

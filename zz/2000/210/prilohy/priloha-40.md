@@ -1,3 +1,3 @@
 Príloha č. 40 k vyhláške č. 210/2000 Z. z.
 
-- MERADLÁ TLAKU KRVI [Príloha 40](../assets/d1e0e9b95445d9141f978a8c928bcbb2aa55fca33f7174f9a9c5fcef38748ea6.pdf)
+- MERADLÁ TLAKU KRVI [Príloha 40](../assets/27b31c001ced061cf7cdab24fac7ae9bf420d4c7c303759d4b00ac984e200f44.pdf)

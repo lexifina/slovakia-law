@@ -1,3 +1,3 @@
 Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
-- CESTNÉ RADAROVÉ RÝCHLOMERY [Príloha 31](../assets/b9b1f0331a4c2d789c63d4d70ec6de6e56f8f3daaca691cf6f77d111ffe71f8e.pdf)
+- CESTNÉ RADAROVÉ RÝCHLOMERY [Príloha 31](../assets/a1a8ce2a0a0512d373457d0effa946def08cb1ebcfa50021feed0e3ed5a2c6c1.pdf)
