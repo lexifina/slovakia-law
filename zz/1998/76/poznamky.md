@@ -38,8 +38,6 @@
 
 - 17) Čl. 45 Ústavy Slovenskej republiky.
 
-- 18) Zákon Slovenskej národnej rady č. 128/1991 Zb. o Štátnom fonde životného prostredia Slovenskej republiky.
-
 - 19) § 247 až 254 Colného zákona.
 
 - 20) § 242 až 246 Colného zákona.
