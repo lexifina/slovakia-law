@@ -1,8 +1,8 @@
 - *) Vyhláška č. 204/1964 Zb. o fakturovaní a platení dodávok neinvestičnej povahy.
 
-- *) Zákon č. 51/1959 Zb. o výkupe poľnohospodárskych výrobkov (§ 10).
+- *) Smernice Ministerstva poľnohospodárstva a výživy ČSR na zabezpečenie nákupu poľnohospodárskych výrobkov od jednotlivo hospodáriacich roľníkov, uverejnené vo Vestníku Ministerstva poľnohospodárstva a výživy ČSR v čiastke 6/1970 pod por. č. 18 Smernice Ministerstva poľnohospodárstva a výživy SSR o realizácii uznesenia vlády ČSSR č. 399/1968 o úprave vzťahov štátu k jednotlivo hospodáriacim roľníkom, uverejnené vo Vestníku Ministerstva poľnohospodárstva a výživy SSR v čiastke 13/1970 pod por. č. 22.
 
-- **) Vládne nariadenie č. 91/1960 Zb. o správnom konaní.
+- **) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - ***) Ak sa malo podľa zmluvy plniť výhradne v určitý deň alebo do určitej lehoty, nie je poľnohospodárska organizácia povinná po uplynutí tejto lehoty poľnohospodárske potreby prevziať (pozri § 140 zákona).
 
@@ -35,5 +35,11 @@
 - - pre dopravu nákladnými automobilmi - sadzobník č. 1 tarify TR - 4 platnej od 1. januára 1967.
 
 - Náhrada prepravného môže sa medzi organizáciami dohodnúť ako paušálna sadzba.
+
+- *) Vyhláška č. 30/1966 Zb. o odpredaji niektorých poľnohospodárskych výrobkov pracovníkom štátnych majetkov a ostatných štátnych organizácií s poľnohospodárskou výrobou v znení vyhlášky č. 17/1969 Zb. a vlastné stanovy JRD.
+
+- *) Smernice Ministerstva poľnohospodárstva a výživy ČSR z 12. 8. 1970 č. 690/70-II/1 upravujúce podmienky výroby, predaja a nákupu vína.
+
+- **) Zákon č. 61/1964 Zb. o rozvoji rastlinnej výroby a vyhláška č. 62/1964 Zb., ktorou sa vydávajú vykonávacie predpisy k zákonu o rozvoji rastlinnej výroby.
 
 - *) Skutočnosť, že plnenie sa stalo nemožným, je poľnohospodárska organizácia povinná ihneď písomne oznámiť odberateľovi (pozri § 120 zákona).
