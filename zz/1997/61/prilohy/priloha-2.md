@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške Ministerstva financií Slovenskej republiky č. 61/1997 Z. z. [Vzor 02 - Vzor záručnej listiny na zabezpečenie colného dlhu zárukou podľa § 214 písm. b) Colného zákona](../assets/9895e5bc75151d491123d06c57035c81eda7984e3df9dc86b1ab77834373e52f.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške Ministerstva financií Slovenskej republiky č. 61/1997 Z. z. [Vzor 01 - Vzor záručnej listiny na zabezpečenie colného dlhu zárukou podľa § 214 písm. a) Colného zákona](../assets/7813501c6cfae4c63e61c2f3056de7a97853bb4a8308bbce37bcc6f3406725a1.pdf)
