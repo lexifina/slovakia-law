@@ -1,0 +1,1 @@
+- 1) § 27a až 27e Hospodárskeho zákonníka.
