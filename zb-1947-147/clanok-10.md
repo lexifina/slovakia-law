@@ -1,0 +1,3 @@
+# Článek 10. Přistání na celním letišti.
+
+Kromě případu, kdy podle podmínek této Úmluvy nebo zvláštního zmocnění jest dovoleno, aby letadlo přeletělo území smluvního státu, aniž přistálo, bude každé letadlo, které vstoupí na území smluvního státu, povinno, vyžadují-li toho předpisy tohoto státu, přistáti na letišti, které tento stát určí za účelem celní nebo jiné prohlídky. Při odletu z území smluvního státu odletí takové letadlo z celního letiště podobně určeného. Podrobné údaje o všech letištích prohlášených za celní letiště budou státem uveřejněny a oznámeny Mezinárodní organisaci pro civilní letectví, zřízené podle části II. této Úmluvy, za účelem sdělení všem ostatním smluvním státům.

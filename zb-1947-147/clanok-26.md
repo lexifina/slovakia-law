@@ -1,0 +1,3 @@
+# Článek 26. Vyšetřování nehod.
+
+Dojde-li k nehodě letadla smluvního státu ne území jiného smluvního státu, kterou bude způsobena smrt nebo těžké poškození na těle anebo kterou se projeví vážná technická porucha letadla nebo leteckých pomocných zařízení, zavede stát, v němž k nehodě došlo, šetření o okolnostech nehody, a to, pokud to jeho zákony dovolují, v souhlase s postupem, který by Mezinárodní organisace pro civilní letectví doporučila. Státu, ve kterém letadlo jest zapsáno do rejstříku, se umožní, aby jmenoval pozorovatele, kteří by byli přítomni šetření, a stát provádějící šetření podá onomu státu o věci zprávu a sdělí výsledek.

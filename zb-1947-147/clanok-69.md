@@ -1,0 +1,3 @@
+# Článek 69. Zdokonalování leteckých pomocných zařízení.
+
+Má-li Rada za to, že letiště nebo jiná letecká pomocná zařízení některého smluvního státu, počítajíc v to služby radiové a povětrnostní, nevyhovují přiměřeně bezpečnému, pravidelnému, účinnému a hospodárnému provozu dosavadních nebo zamýšlených mezinárodních leteckých dopravních služeb, zahájí jednání s přímo zúčastněným státem a s jinými státy majícími na věci zájem, aby se vyhledaly prostředky, jak situaci napraviti, a může učiniti příslušná doporučení. Žádný smluvní stát nebude vinen porušením této Úmluvy, neprovede-li tato doporučení.

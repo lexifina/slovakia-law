@@ -1,0 +1,5 @@
+# Článek 24. Clo.
+
+- a) Letadla, letící do území jiného smluvního státu, z něho nebo přes ně, budou dočasně osvobozena od cla, podrobí-li se celním předpisům tohoto státu. Pohonné hmoty, mazací oleje, náhradní součástky, pravidelná výstroj a letadlové zásoby, které jsou na palubě letadel smluvního státu při vstupu na území jiného smluvního státu a zůstanou na palubě při výstupu z území tohoto státu, budou osvobozeny od cla, kontrolních dávek nebo podobných státních neb místních dávek a poplatků. Toto osvobození se nebude vztahovati na složená množství nebo předměty, leč by to bylo v souhlase s předpisy tohoto státu, který může žádati, aby tato množství nebo předměty zůstaly pod celním dozorem.
+
+- b) Náhradní součástky a výstroj, dovezené na území smluvního státu, aby jimi byla vybavena letadla jiného smluvního státu, používaná k mezinárodnímu létání, nebo aby se jich na těchto letadlech užilo, budou osvobozeny od cla s výhradou, že se podrobí předpisům příslušného státu, kterými lze stanoviti, že tyto předměty setrvají pod celním dozorem a kontrolou.

@@ -1,0 +1,3 @@
+# Článek 14. Ochrana proti šíření se nakažlivých nemocí.
+
+Každý smluvní stát se shoduje na tom, že učiní účinná opatření, aby se zabránilo, aby se létáním nešířila cholera, tyfus (epidemický), neštovice, žlutá horečka a mor, jakož i jiné nakažlivé nemoci, které budou rozhodnutím smluvních států čas od času určeny a za tím účelem smluvní státy budou v těsném poradním styku s orgány, které se zabývají mezinárodními předpisy, týkajícími se zdravotních opatření, platných pro letadla. Tento poradní styk nebude na překážku provádění jakékoliv platné mezinárodní Úmluvy o tomto předmětu, již by smluvní státy byly stranou.

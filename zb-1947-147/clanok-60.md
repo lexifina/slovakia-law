@@ -1,0 +1,3 @@
+# Článek 60. Immunity a výsady zaměstnanců.
+
+Každý smluvní stát se zavazuje, že pokud to jest možné podle jeho ústavního řádu, přizná předsedovi Rady, generálnímu tajemníkovi a ostatním zaměstnancům organisace immunity a výsad, přiznávané podobným zaměstnancům jiných veřejných mezinárodních organisací. Bude-li sjednána všeobecná mezinárodní dohoda o immunitách a výsadách mezinárodních úředníků, budou immunity a výsady, přiznané předsedovi Rady, generálnímu tajemníkovi a ostatním zaměstnancům organisace, tytéž, jako immunity a výsady, přiznávané podle ustanovení této všeobecné mezinárodní dohody.

@@ -1,0 +1,3 @@
+# Článek 12. Pravidla pro létání.
+
+Každý smluvní stát se zavazuje, že učiní opatření, aby bylo zajištěno, že každé letadlo letící nad jeho územím nebo pohybující se na jeho území, jakož i každé letadlo, jež nese značku jeho státní příslušnosti, ať se nachází kdekoliv, se podrobí platným tam pravidlům a předpisům, které se týkají letu a pohybu letadel. Každý smluvní stát se zavazuje udržovati své vlastní předpisy o těchto věcech největší možnou měrou ve shodě s předpisy, stanovenými čas od času podle této Úmluvy. Na širém moři budou platiti pravidla stanovená podle této Úmluvy. Každý smluvní stát se zavazuje, že zajistí stíhání všech osob, které by porušily předpisy v tom směru platné.

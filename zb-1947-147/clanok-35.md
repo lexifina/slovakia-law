@@ -1,0 +1,5 @@
+# Článek 35. Omezení dopravy zboží.
+
+- a) Válečné střelivo nebo válečný materiál nebude směti býti dopravován letadlem, používaným k mezinárodnímu létání na území některého státu nebo nad ním, vyjímajíc případ, že tento stát dá k tomu svolení. Každý stát stanoví v předpisech, co jest ve smyslu tohoto článku rozuměti válečným střelivem nebo válečným materiálem, při čemž jest v zájmu jednotnosti náležitě dbáti doporučení, která může čas od času učiniti Mezinárodní organisace pro civilní letectví.
+
+- b) Každý smluvní stát si vyhrazuje právo, upraviti nebo zakázati z důvodů veřejného pořádku a bezpečnosti na svém území nebo nad ním dopravu jiných předmětů, než které jsou uvedeny v odst. a), s výhradou však, že při tom nebude činěno rozdílu mezi jeho domácími letadly, používanými k mezinárodnímu létání, a podobně používanými letadly jiných států, a dále s výhradou, že nebudou ukládána žádná omezení, která by překážela dopravě a používání na letadlech přístrojů potřebných k provozu nebo k vedení letadel, nebo pro bezpečnost personálu nebo cestujících.
