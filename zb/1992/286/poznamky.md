@@ -26,6 +26,10 @@
 
 - 4) Zákon č. 18/1992 Zb. o civilnej službe.
 
+- 4a) § 22 ods. 1 Devízového zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 26/1993 Z. z.
+
+- 4b) Zákon č. 530/1990 Zb. o dlhopisoch v znení zákona č. 600/1992 Zb.
+
 - 5) Zákon č. 119/1992 Zb. o cestovných náhradách.
 
 - 5a) § 158 Obchodného zákonníka.
