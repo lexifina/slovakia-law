@@ -1,0 +1,3 @@
+Ministr:
+
+Kubát v. r.

@@ -1,0 +1,1 @@
+- 1) Závazné limitní ukazatele pro výrobu a složení krmných směsí a premixů se uveřejňují jako samostatná příloha Sbírky zákonů (bude vydána jako zvláštní publikace a.s. SEVT Praha).
