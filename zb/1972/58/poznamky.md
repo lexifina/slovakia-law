@@ -1,0 +1,1 @@
+- *) Vyhláška Ministerstva energetiky č. 10/1958 Ú. l. (Ú. v.).
