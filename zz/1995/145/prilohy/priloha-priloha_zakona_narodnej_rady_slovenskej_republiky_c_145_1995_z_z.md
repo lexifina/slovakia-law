@@ -1496,6 +1496,22 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) o schválenie všeobecných poistných podmienok alebo ich zmeny, ak nejde súčasne o udelenie povolenia podnikania v poisťovníctve........................................................................................................... | 20 000 Sk
 
+    - Položka 104a
+
+  - Žiadosť
+
+  - a) o udelenie povolenia na zriadenie doplnkovej dôchodkovej poisťovne<sup>21a</sup>) .......................................... | 5 000 Sk
+
+  - b) o schválenie štatútu doplnkovej dôchodkovej poisťovne ........................................................................... | 1 000 Sk
+
+  - c) o schválenie dávkového plánu doplnkovej dôchodkovej poisťovne ......................................................... | 1 000 Sk
+
+  - d) o schválenie zmeny alebo doplnku štatútu a schválenie zmeny alebo doplnku dávkového plánu doplnkovej dôchodkovej poisťovne ..................................................................................... | 500 Sk
+
+  - | | e) o udelenie povolenia na zlúčenie, splynutie alebo na rozdelenie | 2 000 Sk
+
+  - doplnkových dôchodkových poisťovní .................................................................................................................
+
     - Položka 105
 
   - Podanie žiadosti |

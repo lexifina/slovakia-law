@@ -46,6 +46,8 @@
 
 - 21) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
+- 21a) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
+
 - 22) § 34 devízového zákona č. 528/1990 Zb.
 
 - 23) § 25 zákona č. 530/1990 Zb. o dlhopisoch.
