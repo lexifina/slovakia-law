@@ -1,1 +1,0 @@
-- 38) Úprava FMTIR a ŠPK č. 8 z 10. júna 1983 o úprave nákladov v dokumentácii stavieb na cenovú úroveň platnú od 1. januára 1984 a o súvisiacich opatreniach (Spravodajca FMTIR, MVT ČSR a MVT SSR čiastka 4-5/1983).
