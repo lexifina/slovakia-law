@@ -22,7 +22,7 @@
 
 - j) zrušením obce.
 
-(2) Vzdanie sa mandátu starostu sa musí urobiť písomne a jeho účinky nastávajú doručením obecnému úradu. Vzdanie sa mandátu nemožno vziať späť.
+(2) Vzdanie sa mandátu starostu sa musí urobiť písomne a jeho účinky nastávajú dňom uvedeným v tomto písomnom úkone, najskôr však dňom doručenia obecnému úradu. Vzdanie sa mandátu nemožno vziať späť.
 
 (3) Obecné zastupiteľstvo
 
