@@ -6,8 +6,6 @@ Príloha č. 1 k zákonu č. 217/2004 Z. z.
 
 - 02 | SP | Smrek pichľavý | Picea pungens
 
-- 07 | SO | Smrek omorikový (omorika) | Picea omorica
-
 - 03 | JD | Jedla biela | Abies alba
 
 - 04 | JO | Jedla obrovská | Abies grandis
@@ -15,6 +13,8 @@ Príloha č. 1 k zákonu č. 217/2004 Z. z.
 - 05 | BO | Borovica lesná (sosna) | Pinus sylvestris
 
 - 06 | BC | Borovica čierna | Pinus nigra
+
+- 07 | BB | Borovica barinná | Pinus uncinata
 
 - 08 | BS | Borovica Banksova | Pinus banksiana
 
@@ -24,123 +24,113 @@ Príloha č. 1 k zákonu č. 217/2004 Z. z.
 
 - 11 | DG | Duglaska tisolistá | Pseudotsuga menziesii
 
-- 12 | LB | Borovica limbová | Ptnus cembra
+- 12 | LB | Borovica limbová | Pinus cembra
 
 - 13 | SC | Smrekovec opadavý | Larix decidua
 
-- 14 | SJ | Smrekovec japonský | Larix kaempferi syn. Larix leptolepis
+- 14 | SJ | Smrekovec japonský | Larix kaempferi, syn. Larix leptolepis
 
 - 15 | TX | Tis obyčajný | Taxus baccata
 
-- 19 | DL | Dub letný | Quercus robur
+- 16 | DZ | Dub zimný | Quercus petraea
 
-- 20 | DZ | Dub zimný | Quercus petraea
+- 17 | DL | Dub letný | Quercus robur
 
-- 21 | DC | Dub červený | Quercus rubra
+- 18 | DC | Dub červený | Quercus rubra
 
-- 22 | DP | Dub plstnatý | Quercus pubescens
+- 19 | DP | Dub plstnatý | Quercus pubescens
 
-- 25 | CR | Dub cerový (cer) | Quercus cerris
+- 20 | CR | Dub cerový (cer) | Quercus cerris
 
-- 26 | BK | Buk lesný | Fagus sylvatica
+- 21 | BK | Buk lesný | Fagus sylvatica
 
-- 27 | HB | Hrab obyčajný | Carpinus betulus
+- 22 | HB | Hrab obyčajný | Carpinus betulus
 
-- 28 | JH | Javor horský | Acer pseudoplatanus
+- 23 | JH | Javor horský | Acer pseudoplatanus
 
-- 29 | JM | Javor mliečny | Acer platanoides
+- 24 | JM | Javor mliečny | Acer platanoides
 
-- 30 | JP | Javor poľný | Acer campestre
+- 25 | JP | Javor poľný | Acer campestre
 
-- 31 | JT | Javor tatársky | Acer tataricum
+- 26 | JT | Javor tatársky | Acer tataricum
 
-- 32 | JI | Javor introdukovaný | Acer introd. sp.
+- 27 | JS | Jaseň štíhly | Fraxinus excelsior
 
-- 33 | JS | Jaseň štíhly | Fraxinus excelsior
+- 28 | JU | Jaseň úzkolistý | Fraxinus angustifolia
 
-- 16 | JU | Jaseň úzkolistý | Fraxinus angustifolia
+- 29 | JI | Jaseň introdukovaný | Fraxinus sp. intr.
 
-- 35 | JK | Jaseň manový | Fraxinus ornus
+- 30 | JK | Jaseň manový | Fraxinus ornus
 
-- 36 | BZ | Baza čierna | Sambucus nigra
+- 31 | BH | Brest horský | Ulmus montana, syn. Ulmus glabra
 
-- 37 | BH | Brest horský | Ulmus montana, syn. Ulmus glabra
+- 32 | BP | Brest poľný (hrabolistý) | Ulmus minor, syn. Ulmus carpinifolia
 
-- 38 | BP | Brest poľný (hrabolistý) | Ulmus minor, syn. Ulmus carpinifolia
+- 33 | VZ | Brest väzový | Ulmus laevis
 
-- 39 | VZ | Brest väzový | Ulmus laevis
+- 34 | AG | Agát biely | Robinia pseudoacacia
 
-- 17 | BD | Brest sibírsky | Ulmus pinnato-ramosa
+- 35 | BR | Breza | Betula sp.
 
-- 40 | AG | Agát biely | Robinia pseudoacacia
+- 36 | JL | Jelša lepkavá | Alnus glutinosa
 
-- 41 | BR | Breza bradavičnatá | Betula pendula syn. Betula verrucosa
+- 37 | JX | Jelša sivá | Alnus incana
 
-- 18 | BV | Breza plstnatá | Betula pubescens
+- 38 | JZ | Jelša zelená | Alnus viridis
 
-- 42 | JL | Jelša lepkavá | Alnus glutinosa
+- 39 | VB | Vŕba biela | Salix alba
 
-- 43 | JX | Jelša sivá | Alnus tncana
+- 40 | VF | Vŕba krehká | Salix fragilis
 
-- 44 | JZ | Jelša zelená | Alnus viridis
+- 41 | VK | Vŕba krovitá | Salve sp.
 
-- 23 | VB | Vŕba biela | Salix alba
+- 42 | LM | Lipa malolistá | Tilia cordata
 
-- 24 | VF | Vŕba krehká | Salix fragilis
+- 43 | LV | Lipa veľkolistá | Tilia platyphyllos.
 
-- 45 | VK | Vŕba krovitá | Salix sp.
+- 44 | OS | Topoľ osikový (osika) | Populus tremula
 
-- 46 | LM | Lipa malolistá | Tilia cordata
+- 45 | TS | Topoľ šľachtený | Populus x hybr.
 
-- 47 | LV | Lipa veľkolistá | Tilia platyphyllos
+- 46 | TC | Topoľ čierny | Populus nigra
 
-- 48 | OS | Topoľ osikový (osika) | Populus tremula
+- 47 | TB | Topoľ biely | Populus alba, P. canescens
 
-- 49 | TS | Topoľ šľachtený | Populus x hybr.
+- 48 | TI | Topoľ I 214 | Populus x euroamerícana ('I -214')
 
-- 50 | TC | Topoľ čierny | Populus nigra
+- 49 | TR | Topoľ Robusta | Populus x euroamericana ('Robusta')
 
-- 34 | TB | Topoľ biely | Populus alba, P. canescens
+- 50 | CS | Čerešňa vtáčia | Prunus avium
 
-- 51 | TI | Topoľ I 214 | Populus x euroamericana ('I-214')
+- 51 | MH | Čerešňa mahalebková (mahalebka) | Prunus mahaleb
 
-- 52 | TR | Topoľ Robusta | Populus x euroamericana ('Robusta')
+- 52 | JB | Jarabina vtáčia | Sorbus aucuparía
 
-- 53 | CS | Čerešňa vtáčia | Prunus avium
+- 53 | MK | Jarabina mukyňová (mukyňa) | Sorbus aria
 
-- 54 | MH | Čerešňa mahalebková (mahalebka) | Prunus mahaleb
+- 54 | BX | Jarabina brekyňová (brekyňa) | Sorbus torminalis
 
-- 55 | JB | Jarabina vtáčia | Sorbus aucuparia
+- 55 | OK | Jarabina oskorušová (oskoruša) | Sorbus domestica
 
-- 56 | MK | Jarabina mukyňová (mukyňa) | Sorbus aria
+- 56 | OC | Orech čierny | Juglans nigra
 
-- 57 | BX | Jarabina brekyňová (brekyňa) | Sorbus torminalis
+- 57 | OV | Orech vlašský | Juglans regia
 
-- 58 | OK | Jarabina oskorušová (oskoruša) | Sorbus domestica
+- 58 | GJ | Gaštan jedlý | Castanea sativa
 
-- 59 | OC | Orech čierny | Juglans nigra
+- 59 | GK | Pagaštan konský | Aesculus hippocastanum
 
-- 60 | OV | Orech vlašský | Juglans regia
+- 60 | TP | Čremcha obyčajná (tŕpka) | Padus avium, syn. Padus racemosa
 
-- 61 | GJ | Gaštan jedlý | Castanea sativa
+- 61 | PL | Platan | Platanus sp.
 
-- 62 | GK | Pagaštan konský | Aesculus hippocastanum
+- 62 | HR | Hruška obyčajná | Pyrus x pyraster
 
-- 63 | TP | Čremcha obyčajná (tŕpka) | Podus avium, syn. Podus racemosa
+- 63 | JN | Jabloň planá (plánka) | Malus x sylvestris
 
-- 64 | DR | Drieň obyčajný | Cornus mas
+- Iné druhy lesných drevín |
 
-- 65 | HR | Hruška obyčajná | Pyrus pyraster
-
-- 66 | JN | Jabloň planá (plánka) | Malus sylvestris
-
-- 67 | HJ | Hloh jednosemenný | Crataeus monogyna
-
-- 68 | HO | Hloh obyčajný | Crataegus oxyacantha
-
-- Iné druhy lesných drevín | |
-
-- Názov | Latinský názov |
+- Názov | Latinský názov
 
 - Borovica bielokôra | Pinus leucodermis
 
@@ -148,21 +138,21 @@ Príloha č. 1 k zákonu č. 217/2004 Z. z.
 
 - Borovica halepská | Pinus halepensis
 
-- Borovica kanárska | Ptnus canarensis
+- Borovica kanárska | Plnus canarensis
 
-- Borovica píniová | Pinus pinea
+- Borovica píniová | Ptnus ptnea
 
 - Borovica prímorská | Ptnus pinaster
 
 - Borovica stočená | Ptnus contorta
 
-- Borovica lúčovltá | Pinus radiata
+- Borovica lúčovitá | Pinus radiata
 
 - Céder atlantický | Cedrus atlantica
 
 - Céder libanonský | Cedrus libani
 
-- Dub cezmĺnovltý | Quercus ilex
+- Dub cezmínovitý | Quercus ilex
 
 - Dub korkový | Quercus suber
 
@@ -170,7 +160,7 @@ Príloha č. 1 k zákonu č. 217/2004 Z. z.
 
 - Jedla španielska | Abies pinsapo
 
-- Smrek sltkanský | Picea sitchensis
+- Smrek sitkanský | Picea sitchensis
 
 - Smrekovec krížený | Larix x eurolepis
 
