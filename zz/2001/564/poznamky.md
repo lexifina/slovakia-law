@@ -6,13 +6,7 @@
 
 - 4) Zákon č. 311/1999 Z. z. o registri trestov.
 
-- 5) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
-
-- Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
-
 - 6) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
-
-- 7) Zákon č. 241/2001 Z. z.
 
 - 8) § 3 písm. a) zákona č. 52/1998 Z. z.
 
