@@ -1,1 +1,0 @@
-Adamec v.r.
