@@ -72,7 +72,9 @@
 
 - Nariadenie ministra dopravy č. 75/1953 Zb., ktorým sa vykonávajú niektoré ustanovenia zákona o námornej plavbe.
 
-- 19) Zákon č. 68/1989 Zb. o organizácii Československé štátne dráhy.
+- 19) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
+
+- Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 20) Zákon č. 110/1964 Zb. o telekomunikáciách.
 

@@ -82,13 +82,11 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Cestná motorová doprava | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 29 a 31 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
 
-- Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
+- Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
 
 - Vnútrozemská plavba | preukaz spôsobilosti žiadateľa na zamýšľanú činnosť | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, spojov a verejných prác SR | zák. č. 26/1964 Zb. o vnútrozemskej plavbe
 
 - Činnosti v oblasti civilného letectva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, spojov a verejných prác SR | zák. č. 47/1956 Zb. o civilnom letectve (letecký zákon) v znení zák. č. 43/1976 Zb. (úplné znenie č. 127/1976 Zb.), zák. č. 90/1990 Zb. a zák. č. 383/1990 Zb.
-
-- Prevádzkovanie železníc s výnimkou celoštátnych [§ 3 ods. 2 písm. g) živnostenského zákona] | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | územný, časový, miestny a vecný rozsah oprávnenia | | § 19 zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974 Zb.
 
 - Zasielateľstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | okresný úrad | § 41 až 45 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
 
