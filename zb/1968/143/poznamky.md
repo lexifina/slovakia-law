@@ -1,0 +1,1 @@
+- *) Národná rada Slovenskej republiky podľa čl. 154 ods. 1 Ústavy Slovenskej republiky č. 460/1992 Zb.
