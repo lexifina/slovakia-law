@@ -26,6 +26,8 @@
 
 - 14) § 47 zákona.
 
+- 14a) § 38 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
 - 15) § 19 zákona.
 
 - 16) § 20 zákona.
@@ -59,3 +61,5 @@
 - 30) § 69 ods. 1 zákona.
 
 - 31) § 3 ods. 12 zákona.
+
+- 32) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
