@@ -52,6 +52,16 @@
 
 - 19) § 3 ods. 1 písm. a) zákona č. 286/1992 Zb. o daniach z príjmov.
 
+- 19a) § 110b, § 117 ods. 3,§ 124, § 128 až 130 Zákonníka práce.
+
+- § 11 ods. 3 zákona č. 1/1991 Zb. o zamestnanosti.
+
+- 19b) § 195 Zákonníka práce.
+
+- 19c) § 97 ods. 2 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
+
+- 19d) Napr. nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby.
+
 - 20) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb.
 
 - 20a) § 86 Zákonníka práce.
