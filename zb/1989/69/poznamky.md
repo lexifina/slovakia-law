@@ -1,1 +1,0 @@
-- 1) Nariadenie vlády Československej socialistickej republiky č. 228/1988 Zb., ktorým sa vydáva colný sadzobník obchodného tovaru.
