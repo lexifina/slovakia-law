@@ -16,8 +16,6 @@
 
 - 4c) Napr. § 8 ods. 2 zákona č. 17/1992 Zb.
 
-- 4d) § 19 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
-
 - 4da) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení zákona č. 152/1997 Z. z.
 
 - 4db) Zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
