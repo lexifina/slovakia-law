@@ -1,0 +1,3 @@
+Ministr.
+
+Vopěnka v. r.
