@@ -82,7 +82,7 @@ Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 38/1993 Z. z. v
 
     - 7.07 Systémová a vývojová činnosť pri riešení jednotlivých úloh častí štátneho informačného systému.
 
-    - 7.08 Koordinovanie a metodické usmerňovanie civilnej ochrany.
+    - 7.08 Špecializovaná odborná činnosť v oblasti ochrany utajovaných skutočností na všetkých stupňoch utajenia, koordinovanie a metodické usmerňovanie civilnej ochrany.
 
     - 7.09 Kontrola hospodárenia s prostriedkami štátneho rozpočtu, s prostriedkami zo zahraničia a s majetkom štátu.
 
