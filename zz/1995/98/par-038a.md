@@ -1,8 +1,8 @@
-## Zaradenie liekov do zoznamu liekov a zaradenie zdravotníckych pomôcok do zoznamu zdravotníckych pomôcok
+## Zaradenie liekov do zoznamu liekov, zaradenie zdravotníckych pomôcok do zoznamu zdravotníckych pomôcok a zaradenie dietetických potravín do zoznamu dietetických potravín
 
-# § 38a Žiadosť o zaradenie liekov do zoznamu liekov
+# § 38a Žiadosť o zaradenie lieku do zoznamu liekov alebo o zmenu zaradenia lieku v zozname liekov
 
-(1) Žiadosť o zaradenie lieku do zoznamu liekov podávajú držitelia rozhodnutia o registrácii lieku alebo nimi splnomocnení zástupcovia ministerstvu. Pri podaní žiadosti uhradí žiadateľ správny poplatok.<sup>26a</sup>)
+(1) Žiadosť o zaradenie lieku do zoznamu liekov alebo o zmenu zaradenia lieku v zozname liekov podáva držiteľ rozhodnutia o registrácii lieku alebo ním splnomocnený zástupca ministerstvu. Pri podaní žiadosti uhradí žiadateľ správny poplatok.<sup>26a</sup>)
 
 (2) Žiadosť o zaradenie lieku do zoznamu liekov musí obsahovať
 
@@ -72,9 +72,9 @@
 
 (3) K žiadosti o zaradenie lieku do zoznamu liekov žiadateľ predloží tieto doklady:
 
-- a) osvedčenú fotokópiu právoplatného rozhodnutia o registrácii lieku,
+- a) fotokópiu právoplatného rozhodnutia o registrácii lieku,
 
-- b) osvedčenú fotokópiu dokladu o schválenej maximálnej cene lieku od výrobcu,
+- b) fotokópiu dokladu o schválenej maximálnej cene lieku od výrobcu,
 
 - c) doklad o zaplatení správneho poplatku.<sup>26a</sup>)
 
@@ -83,3 +83,5 @@
 - a) prehľad významných porovnávacích klinických skúšok,
 
 - b) prehľadné články z odbornej literatúry.
+
+(5) Osoba uvedená v odseku 1 môže požiadať o vyradenie lieku zo zoznamu liekov; v žiadosti o vyradenie lieku zo zoznamu liekov uvedie dôvody vyradenia.

@@ -25,3 +25,5 @@
 - b) nákladovosť liečby zdravotníckou pomôckou,
 
 - c) referenčná úhrada pre všetky porovnateľné zdravotnícke pomôcky danej skupiny na úrovni základného funkčného typu.
+
+(8) Zaradenie zdravotníckej pomôcky do zoznamu zdravotníckych pomôcok alebo vyradenie zdravotníckej pomôcky zo zoznamu zdravotníckych pomôcok, sumu úhrady za zdravotnícku pomôcku na základe zdravotného poistenia, preskripčné obmedzenia, indikačné obmedzenia, určenie množstvových limitov alebo finančných limitov, alebo zmenu týchto údajov podľa odsekov 5 až 7 a § 38d až 38f určuje ministerstvo rozhodnutím o kategorizácii zdravotníckych pomôcok uhrádzaných alebo čiastočne uhrádzaných na základe zdravotného poistenia (ďalej len „rozhodnutie o kategorizácii zdravotníckej pomôcky“).

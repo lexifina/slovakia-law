@@ -1,6 +1,6 @@
-# § 38d Žiadosť o zaradenie zdravotníckej pomôcky do zoznamu zdravotníckych pomôcok
+# § 38d Žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok
 
-(1) Žiadosť o zaradenie zdravotníckej pomôcky do zoznamu zdravotníckych pomôcok podávajú držitelia rozhodnutia o schválení zdravotníckej pomôcky alebo nimi splnomocnení zástupcovia ministerstvu. Pri podaní žiadosti uhradí žiadateľ správny poplatok.<sup>26a</sup>)
+(1) Žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok podáva výrobca zdravotníckych pomôcok alebo ním splnomocnený zástupca ministerstvu. Pri podaní žiadosti uhradí žiadateľ správny poplatok.<sup>26a</sup>)
 
 (2) Žiadosť o zaradenie zdravotníckej pomôcky do zoznamu zdravotníckych pomôcok musí obsahovať
 
@@ -62,12 +62,14 @@
 
 (3) K žiadosti o zaradenie zdravotníckej pomôcky do zoznamu zdravotníckych pomôcok sa prikladajú tieto doklady:
 
-- a) osvedčená fotokópia právoplatného rozhodnutia o schválení zdravotníckej pomôcky,
+- a) osvedčený doklad o splnení požiadaviek podľa osobitného predpisu<sup>26d</sup>) na uvedenie zdravotníckej pomôcky na trh,
 
-- b) osvedčená fotokópia dokladu o schválenej maximálnej cene zdravotníckej pomôcky od výrobcu alebo o zmluvnej cene so zdravotnými poisťovňami,
+- b) fotokópia dokladu o schválenej maximálnej cene zdravotníckej pomôcky od výrobcu alebo o zmluvnej cene so zdravotnými poisťovňami,
 
 - c) osvedčená fotokópia dokladu o pridelení kódu Štátneho ústavu pre kontrolu liečiv,
 
 - d) doklad o zaplatení správneho poplatku,<sup>26a</sup>)
 
 - e) zobrazenie zdravotníckej pomôcky so stručnou charakteristikou.
+
+(4) Osoba uvedená v odseku 1 môže požiadať o vyradenie zdravotníckej pomôcky zo zoznamu zdravotníckych pomôcok; v žiadosti o vyradenie zdravotníckej pomôcky zo zoznamu zdravotníckych pomôcok uvedie dôvody vyradenia.

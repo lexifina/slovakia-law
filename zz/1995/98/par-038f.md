@@ -42,4 +42,8 @@
 
 - a) vysoká nákladovosť použitia zdravotníckej pomôcky pri zohľadnení zdravotného postihnutia alebo určenej diagnózy, funkčného využitia, estetického vzhľadu, hmotnosti a iných úžitkových vlastností, ak sú k dispozícii iné porovnateľné zdravotnícke pomôcky s nižšou nákladovosťou použitia zdravotníckej pomôcky alebo
 
-- b) zrušenie rozhodnutia o schválení zdravotníckej pomôcky podľa osobitného predpisu.<sup>26c</sup>)
+- b) nesplnenie požiadaviek podľa osobitného predpisu<sup>26d</sup>) na uvedenie zdravotníckej pomôcky na trh alebo,
+
+- c) návrh žiadateľa o vyradenie.
+
+(3) O vyradení zdravotníckej pomôcky zo zoznamu zdravotníckych pomôcok môže ministerstvo rozhodnúť podľa odseku 2 aj bez návrhu žiadateľa.

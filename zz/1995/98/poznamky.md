@@ -8,6 +8,8 @@
 
 - 4) § 2 a 37 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
 
+- 4a) § 4a zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 118/2002 Z. z.
+
 - 5) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
 - 6) § 54 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
@@ -74,8 +76,10 @@
 
 - 26c) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 26d) § 244 a 247 Občianskeho súdneho poriadku.
+- 26d) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
 - 27) § 10 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
+
+- 27a) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
 - 28) § 38 ods. 6 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
