@@ -1,7 +1,0 @@
-# Článok 10
-
-- 1. Príslušné sovietske orgány vo veciach patriacich do ich jurisdikcie, v ktorých budú poškodené fyzické alebo právnické osoby Československej socialistickej republiky alebo fyzické či právnické osoby tretích štátov na území Československej socialistickej republiky, oznamujú príslušným československým orgánom výsledky vyšetrovania a rozhodnutia v týchto veciach, informujú ich na ich žiadosť o stave veci, zasielajú odpisy obžalôb, oznámení a začatie súdneho prejednávania a odpisy vynesených rozsudkov alebo uznesení, ktorými sa konanie vo veci ukončuje.
-
-- 2. Príslušné československé orgány oznamujú vo veciach patriacich do ich jurisdikcie najbližšiemu vojenskému prokurátorovi posádky sovietskych vojsk každý prípad začatia trestného stíhania osôb patriacich k sovietskym vojskám alebo členov ich rodín, zasielajú odpisy obžalôb, oznámení o začatí súdneho prejednávania a odpisy vynesených rozsudkov alebo uznesení, ktorými sa konanie vo veci ukončuje.
-
-- 3. Príslušné československé orgány taktiež oznamujú príslušným sovietskym orgánom výsledky vyšetrovania a rozhodnutia vo veciach trestnej činnosti občanov Československej socialistickej republiky alebo občanov tretích štátov nachádzajúcich sa na území Československej socialistickej republiky, pokiaľ sa dotýka záujmov sovietskych vojsk, alebo ak poškodenými sú osoby patriace k sovietskym vojskám alebo členovia ich rodín.
