@@ -1,59 +1,57 @@
-- Protokol č. 6 k Dohovoru o ochrane ľudských práv a základných slobôd týkajúci sa zrušenia trestu smrti
+- Protokol č. 4 k Dohovoru o ochrane ľudských práv a základných slobôd priznávajúci niektoré práva a slobody iné než tie, ktoré sú už uvedené v Dohovore a v prvom dodatkovom protokole k Dohovoru
 
-  - Členské štáty Rady Európy, ktoré podpísali tento protokol k Dohovoru o ochrane ľudských práv a základných slobôd, podpísanému v Ríme 4. novembra 1950 (ďalej len „Dohovor“),
+  - Podpísané vlády, členovia Rady Európy,
 
-  - berúc do úvahy, že vývoj, ku ktorému došlo v niektorých členských štátoch Rady Európy, vyjadruje všeobecnú tendenciu v prospech zrušenia trestu smrti,
+  - rozhodnuté prijať opatrenia na zabezpečenie kolektívneho vykonávania určitých práv a slobôd odlišných od tých, ktoré sú už uvedené v hlave I Dohovoru o ochrane ľudských práv a základných slobôd, podpísanom v Ríme 4. novembra 1950 (ďalej len „Dohovor“), a v článkoch 1 až 3 prvého dodatkového protokolu k Dohovoru, podpísaného v Paríži 20. marca 1952,
 
   - dohodli sa na nasledujúcom:
 
   - Článok 1
 
-    - Trest smrti sa zrušuje. Nikoho nemožno na taký trest odsúdiť ani popraviť.
+    - Nikoho nemožno pozbaviť slobody iba pre neschopnosť dodržať zmluvný záväzok.
 
   - Článok 2
 
-    - Štát môže zákonom ustanoviť trest smrti za činy spáchané v čase vojny alebo bezprostrednej hrozby vojny; tento trest sa uloží iba v prípadoch, ktoré predvída zákon, a v súlade s jeho ustanoveniami. Štát oznámi generálnemu tajomníkovi Rady Európy príslušné ustanovenia tohto zákona.
+    - 1. Každý, kto sa právoplatne zdržiava na území niektorého štátu, má na tomto území právo slobody pohybu a slobody zvoliť si miesto pobytu.
+
+    - 2. Každý môže slobodne opustiť ktorúkoľvek krajinu, aj svoju vlastnú.
+
+    - 3. Žiadne obmedzenia sa nemôžu uvaliť na výkon týchto práv okrem tých, ktoré ustanovuje zákon a sú nevyhnutné v demokratickej spoločnosti v záujme národnej bezpečnosti, verejnej bezpečnosti, udržania verejného poriadku, predchádzania zločinnosti, ochrany zdravia alebo morálky alebo ochrany práv a slobôd iných.
+
+    - 4. Práva uvedené v odseku 1 môžu v určitých oblastiach podliehať obmedzeniam ustanoveným podľa zákona a odôvodneným verejným záujmom v demokratickej spoločnosti.
 
   - Článok 3
 
-    - Od ustanovení tohto protokolu nemožno odstúpiť podľa článku 15 Dohovoru.
+    - 1. Nikto nebude, či už individuálne alebo hromadne, vyhostený z územia štátu, ktorého je štátnym občanom.
+
+    - 2. Nikto nebude pozbavený práva vstúpiť na územie štátu, ktorého je štátnym občanom.
 
   - Článok 4
 
-    - K ustanoveniam tohto protokolu nie je prípustná žiadna výhrada podľa článku 64 Dohovoru.
+    - Hromadné vyhostenie cudzincov je zakázané.
 
   - Článok 5
 
-    - 1. Každý štát môže pri podpise alebo uložení ratifikačných listín, listín o prijatí alebo schválení, určiť jedno alebo viaceré územia, na ktoré sa tento protokol bude vzťahovať.
+    - 1. Každá Vysoká zmluvná strana môže pri podpise alebo ratifikácii tohto protokolu alebo kedykoľvek neskôr oznámiť generálnemu tajomníkovi Rady Európy vyhlásenie, v ktorom uvedie, v akom rozsahu sa budú vzťahovať ustanovenia tohto protokolu na územia uvedené v tomto vyhlásení, za ktorých medzinárodné styky je zodpovedná.
 
-    - 2. Každý štát môže kedykoľvek neskôr vyhlásením zaslaným generálnemu tajomníkovi Rady Európy rozšíriť vykonávanie tohto protokolu na ktorékoľvek iné územie uvedené v tomto vyhlásení. Protokol nadobudne platnosť vo vzťahu k tomuto územiu prvým dňom mesiaca, ktorý nasleduje po prijatí takého vyhlásenia generálnym tajomníkom.
+    - 2. Každá Vysoká zmluvná strana, ktorá oznámila vyhlásenie podľa predchádzajúceho odseku, môže z času na čas oznámiť ďalšie vyhlásenie pozmeňujúce znenie ktoréhokoľvek predchádzajúceho vyhlásenia alebo ukončujúce používanie ustanovení tohto protokolu vo vzťahu ku ktorémukoľvek územiu.
 
-    - 3. Každé vyhlásenie urobené podľa oboch predchádzajúcich odsekov sa bude môcť odvolať, pokiaľ ide o ktorékoľvek územie uvedené v tomto vyhlásení, oznámením zaslaným generálnemu tajomníkovi. Odvolanie nadobudne účinnosť prvým dňom mesiaca, ktorý nasleduje po prijatí takého oznámenia generálnym tajomníkom.
+    - 3. Vyhlásenie urobené podľa tohto článku sa bude považovať za urobené podľa odseku 1 článku 63 Dohovoru.
+
+    - 4. Územie každého štátu, na ktoré sa vzťahuje tento protokol vzhľadom na jeho ratifikáciu alebo jeho prijatie týmto štátom, a každé územie, na ktoré sa protokol vzťahuje vzhľadom na vyhlásenie urobené týmto štátom podľa tohto článku, sa budú považovať za rôzne územia, pokiaľ ide o odkazy na územie štátu urobené v článkoch 2 a 3.
 
   - Článok 6
 
-    - Členské štáty považujú články 1 až 5 tohto protokolu za dodatkové články k Dohovoru a všetky ustanovenia Dohovoru sa plnia v súlade s tým.
+    - 1. Vysoké zmluvné strany budú považovať články 1 až 5 tohto protokolu za dodatkové články k Dohovoru a všetky ustanovenia Dohovoru budú plniť v súlade s tým.
+
+    - 2. Právo podať individuálnu sťažnosť priznané vyhlásením podľa článku 25 Dohovoru alebo uznania obligatórnej právomoci Súdu vyhlásením podľa článku 46 Dohovoru možno vo vzťahu k tomuto protokolu vykonávať, pokiaľ dotknutá Vysoká zmluvná strana vyhlásila, že uznáva toto právo alebo že prijíma túto jurisdikciu, len pokiaľ ide o všetky alebo niektoré z článkov 1 až 4 protokolu.
 
   - Článok 7
 
-    - Tento protokol je otvorený na podpis členom Rady Európy, ktorí podpísali Dohovor. Podlieha ratifikácii, prijatiu alebo schváleniu. Členský štát Rady Európy nebude môcť ratifikovať, prijať alebo schváliť tento protokol bez toho, aby zároveň alebo skôr ratifikoval Dohovor. Ratifikačné listiny alebo listiny o prijatí alebo schválení budú uložené u generálneho tajomníka Rady Európy.
+    - 1. Tento protokol je otvorený na podpis členom štátom Rady Európy, ktoré podpísali Dohovor; podlieha ratifikácii súčasne s Dohovorom alebo po jeho ratifikácii. Nadobudne platnosť po uložení piatich ratifikačných listín. Pre každý štát, ktorý ho podpísal a ktorý ho bude ratifikovať neskôr, nadobudne protokol platnosť ihneď po uložení ratifikačných listín.
 
-  - Článok 8
+    - 2. Ratifikačné listiny budú uložené u generálneho tajomníka Rady Európy, ktorý oznámi všetkým členom mená tých, ktorí ho ratifikovali.
 
-    - 1. Tento protokol nadobudne platnosť prvým dňom mesiaca, ktorý nasleduje po dni, keď päť členských štátov Rady Európy vyjadrí svoj súhlas byť viazaný protokolom v súlade s ustanovením článku 7.
+    - Na dôkaz toho podpísaní, ktorí na to boli riadne splnomocnení, podpísali tento protokol.
 
-    - 2. Pre každý členský štát, ktorý vyjadrí dodatočne svoj súhlas byť viazaný protokolom, nadobudne tento protokol platnosť prvým dňom mesiaca, ktorý nasleduje po dátume uloženia ratifikačnej listiny alebo listiny o prijatí alebo schválení.
-
-  - Článok 9 Generálny tajomník Rady Európy oznámi členským štátom Rady:
-
-    - a) každý podpis;
-
-    - b) uloženie každej ratifikačnej listiny alebo listiny o prijatí alebo schválení;
-
-    - c) dátum nadobudnutia platnosti tohto protokolu podľa jeho článkov 5 a 8;
-
-    - d) akýkoľvek iný úkon, oznámenie alebo oznámenie týkajúce sa tohto protokolu.
-
-- Na dôkaz toho podpísaní, ktorí na to boli riadne splnomocnení, podpísali tento protokol.
-
-- Dané v Štrasburgu 28. apríla 1983 vo francúzštine a angličtine, pričom obe znenia majú rovnakú platnosť, v jednom vyhotovení, ktoré bude uložené v archíve Rady Európy. Jeho overené kópie zašle generálny tajomník Rady Európy všetkým členským štátom Rady Európy.
+    - Dané v Štrasburgu 16. septembra 1963 vo francúzštine a angličtine, pričom obe znenia majú rovnakú platnosť, v jednom vyhotovení, ktoré bude uložené v archíve Rady Európy. Jeho overené kópie zašle generálny tajomník Rady Európy všetkým členským štátom, ktoré Dohovor podpísali.
