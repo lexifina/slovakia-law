@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 145/1992 Zb. o ľudových školách jazykov, jazykových školách a o štátnych jazykových skúškach.
