@@ -66,6 +66,10 @@
 
 - 7ca) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
+- 7cb) Napríklad zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
+
+- 7cc) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
 - 7d) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 7dd) § 12 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z.
