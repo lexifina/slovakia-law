@@ -1,0 +1,5 @@
+- PRÍLOHA č. 1a
+
+- HRANICE ÚZEMIA, NA KTORÉ SA DOHODA VZŤAHUJE
+
+![Obrázok 01a-1](../assets/653e2930e6d84c6ec7fa7df8c3a4937654cfae02db20468ffe988b38979222eb.png)
