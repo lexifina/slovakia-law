@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu č. 104/2004 Z. z. [VZOR 02-1](../assets/f9db210b15b86037c3c1fd48329e330911085e4081386f0ba5875b6242b6edf6.pdf)
+Príloha č. 2 k zákonu č. 104/2004 Z. z. v znení zákona č. 629/2004 Z. z. [VZOR 02-1](../assets/830f460a727018088dcf16a48d894fd708a067baa2576fc39a76533579d7852b.pdf)

@@ -20,10 +20,6 @@
 
 - 10) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008, 11/01/1996, s. 11-15).
 
-- 11) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
-
-- 12) § 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
-
 - 13) § 16 zákona Národnej rady Slovenskej republiky č. 332/1996 Z. z. o vinohradníctve a vinárstve a o zmene zákona č. 61/1964 Zb. o rozvoji rastlinnej výroby v znení zákona č. 132/1989 Zb. v znení neskorších predpisov.
 
 - 14) § 19 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
@@ -61,6 +57,8 @@
 - Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov.
 
 - Zákon č. 107/2004 Z. z.
+
+- 26a) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
 
 - 27) § 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
