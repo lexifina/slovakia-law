@@ -1,3 +1,0 @@
-# § 47b Náhradné doručenie pri doručovaní do vlastných rúk
-
-Ak nemožno písomnosť doručiť do vlastných rúk príjemcu, hoci sa v mieste doručenia zdržuje, zanechá doručovateľ na niektorom z miest uvedených v § 47a ods. 2 písomnú výzvu, aby bol v určitý deň a hodinu prítomný na prijatie písomnosti. Ak sa tejto výzve nevyhovie, uloží doručovateľ písomnosť (§ 47a ods. 1) a v oznámení o uložení (§ 47a ods. 2) uvedie, že si príjemca má doručovanú písomnosť do troch dní vyzdvihnúť. Ak sa písomnosť uložila a príjemca si ju v lehote troch dní nevyzdvihne, považuje sa posledný deň lehoty za deň, keď doručenie sa vykonalo, i keď sa príjemca o uložení písomnosti nedozvedel.
