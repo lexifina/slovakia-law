@@ -6,9 +6,9 @@
 
 - b) vstupovať aj do obydlia, ak obydlie slúži na podnikanie,
 
-- c) nazerať do evidencií, účtovných písomností, listín a iných dokladov, spisov a záznamov na technickom nosiči dát, robiť si z nich výpisky, poznámky a kópie, žiadať vydanie týchto vecí alebo ich zaistiť podľa § 21. V prípade zaistenia veci vydá potvrdenie o zaistenej veci dotknutej osobe a pracovníkovi správcu dane. Potvrdenie musí obsahovať presný súpis zaistených vecí, odtlačok úradnej pečiatky a podpisy oprávnených osôb.
+- c) nazerať do evidencií, účtovných písomností, listín a iných dokladov, spisov a záznamov na technickom nosiči dát, robiť si z nich výpisky, poznámky a kópie, žiadať vydanie týchto vecí alebo ich zaistiť podľa § 21. V prípade zaistenia veci vydá potvrdenie o zaistenej veci dotknutej osobe. Potvrdenie musí obsahovať presný súpis zaistených vecí, odtlačok úradnej pečiatky a podpisy oprávnených osôb.
 
-(2) Ustanovenie odseku 1 sa nepoužije pri trestnom čine spáchanom v súvislosti s používaním colných predpisov.
+(2) Ustanovenie odseku 1 sa nepoužije pri trestnom čine spáchanom v súvislosti s používaním daňových predpisov, colných predpisov a osobitného predpisu<sup>11d</sup>). To neplatí, ak je trestný čin v súvislosti s používaním daňových predpisov a osobitného predpisu<sup>11d</sup>) páchaný v súbehu s iným trestným činom.
 
 (3) Pri vykonávaní úkonov podľa odseku 1 je policajt služby finančnej polície a služby kriminálnej polície povinný umožniť prítomnosť dotknutých osôb.
 
