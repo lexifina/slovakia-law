@@ -48,4 +48,6 @@
 
 - Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 22. marca 2000 č. 636/2/2000-100 (oznámenie č. 164/2000 Z. z.).
 
+- 6a) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 13. februára 2003 č. 414/2003-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca cudzorodé látky v potravinách (oznámenie č. 101/2003 Z. z.).Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 15. marca 2004 č. 608/4/2004-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca rezíduá prípravkov na ochranu rastlín (oznámenie č. 195/2004 Z. z.).
+
 - 7) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.) v znení neskorších predpisov.

@@ -26,7 +26,7 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
   - 3. oddelený priestor a vhodné zariadenia na čistenie a dezinfekciu pevných a pohyblivých kontajnerov, obalov a tankov; tento priestor a zariadenia sa nevyžadujú, ak má prevádzkareň zabezpečené čistenie a dezinfekciu kontajnerov a tankov v inom stredisku,
 
-  - 4. zariadenia na zásobovanie výlučne pitnou vodou pod tlakom, ktorá spĺňa požiadavky osobitného predpisu<sup>1</sup>) v súlade s osobitným predpisom<sup>2</sup>) uvedeným v prílohe č. 3 bode 3; zariadenia na zásobovanie úžitkovou vodou sa povoľujú na účely výroby pary, protipožiarne účely a na ochladzovanie chladiarenského zariadenia, s podmienkou, že potrubia na tento účel sú inštalované tak, že vylučujú použitie takejto vody na iné účely a táto voda nepredstavuje žiadne riziko kontaminácie vaječných výrobkov; úžitková voda a para vyrobená z nej nesmie prísť do styku s vaječnými výrobkami alebo sa nesmie používať na čistenie alebo dezinfekciu kontajnerov, obalov, priestorov alebo zariadení, ktoré prichádzajú do styku s vaječnými výrobkami; potrubia vedúce úžitkovú vodu musia byť zreteľne odlíšené od potrubí na pitnú vodu,
+  - 4. zariadenia na zásobovanie výlučne pitnou vodou pod tlakom, ktorá spĺňa požiadavky osobitného predpisu<sup>1</sup>) v súlade s osobitným predpisom;<sup>2</sup>) zariadenia na zásobovanie úžitkovou vodou sa povoľujú na účely výroby pary, protipožiarne účely a na ochladzovanie chladiarenského zariadenia, s podmienkou, že potrubia na tento účel sú inštalované tak, že vylučujú použitie takejto vody na iné účely a táto voda nepredstavuje žiadne riziko kontaminácie vaječných výrobkov; úžitková voda a para vyrobená z nej nesmie prísť do styku s vaječnými výrobkami alebo sa nesmie používať na čistenie alebo dezinfekciu kontajnerov, obalov, priestorov alebo zariadení, ktoré prichádzajú do styku s vaječnými výrobkami; potrubia vedúce úžitkovú vodu musia byť zreteľne odlíšené od potrubí na pitnú vodu,
 
   - 5. vhodné zariadenie na ochranu proti škodcom, ako je hmyz a hlodavce,
 
@@ -64,7 +64,7 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
     - 6. miestnosť na skladovanie iných potravín a prídavných látok,
 
-    - 7. ak sa výrobky balia do jednorazových obalov, vhodný, ak je to potrebné, oddelený priestor na skladovanie týchto obalov a materiálov určených na ich výrobu a zostavovanie,
+    - 7. ak sa výrobky balia do jednorazových obalov, vhodný, ak je to potrebné, oddelený priestor na skladovanie týchto obalov a materiálov určených na ich výrobu,
 
     - 8. zariadenia na bezprostredné odstraňovanie prázdnych škrupín a zariadenia a miestnosť na ich oddelené skladovanie a na skladovanie vajec a vaječných výrobkov, ktoré sú nepožívateľné pre ľudí,
 
@@ -120,7 +120,7 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
     - 6. pri akomkoľvek postupe vytĺkanie vajec sa musí vykonávať tak, aby sa čo najviac vylúčila kontaminácia vaječných obsahov; vaječné obsahy nemožno získavať odstreďovaním alebo drvením vajec a odstreďovanie sa nesmie používať ani na získavanie zvyškov vaječného bielka z prázdnych škrupín; zvyšky škrupín alebo podškrupinových blán sa musia z vaječných výrobkov odstrániť, aby ich obsah bol čo najnižší, a najmä nesmie prekročiť množstvo uvedené v časti F bode 2. písm. c),
 
-    - 7. po vytlčení vajec sa musí každý vaječný výrobok čo najrýchlejšie ošetriť; tepelné ošetrenie pozostáva z ošetrenia vaječného výrobku pri takej kombinácii teploty a času, ktorá je dostatočná na zničenie všetkých choroboplodných mikroorganizmov, ktoré sú vo vaječnom obsahu prítomné; počas tepelného ošetrenia sa musia nepretržite automaticky registrovať teploty; záznamy o tepelnom ošetrení každej dávky vaječných výrobkov sa musia uchovávať najmenej dva roky tak, aby ich výrobca mohol na požiadanie dať k dispozícii orgánu veterinárnej správy; každú dávku, ktorá bola nedostatočne ošetrená, možno ihneď opätovne ošetriť v rovnakej prevádzkarni, ak sa novým ošetrením dosiahne a overí sa jej požívateľnosť a vhodnosť na spotrebu ľuďmi; ak sa overením opätovne ošetrenej dávky vaječných výrobkov zistí, že nie je vhodná na výživu ľudí, musí sa ako nepožívateľná denaturovať a odstrániť podľa časti D bodu 3.
+    - 7. po vytlčení vajec sa musí každá časť vaječného výrobku čo najrýchlejšie ošetriť; tepelné ošetrenie pozostáva z ošetrenia vaječného výrobku pri takej kombinácii teploty a času, ktorá je dostatočná na zničenie všetkých choroboplodných mikroorganizmov, ktoré sú vo vaječnom obsahu prítomné; počas tepelného ošetrenia sa musia nepretržite automaticky registrovať teploty; záznamy o tepelnom ošetrení každej dávky vaječných výrobkov sa musia uchovávať najmenej dva roky tak, aby ich výrobca mohol na požiadanie dať k dispozícii orgánu veterinárnej správy; každú dávku, ktorá bola nedostatočne ošetrená, možno ihneď opätovne ošetriť v rovnakej prevádzkarni, ak sa novým ošetrením dosiahne a overí sa jej požívateľnosť a vhodnosť na spotrebu ľuďmi; ak sa overením opätovne ošetrenej dávky vaječných výrobkov zistí, že nie je vhodná na výživu ľudí, musí sa ako nepožívateľná denaturovať a odstrániť podľa časti D bodu 3.
 
     - 8. ak sa ošetrenie nevykoná ihneď po vytlčení vajec, musí sa neošetrený vaječný obsah skladovať za vhodných hygienických podmienok, a to buď zmrazený, alebo pri teplote, ktorá neprevyšuje +4 <sup>o</sup>C; čas skladovania neošetreného vaječného obsahu pri teplote +4 <sup>o</sup>C nesmie prekročiť 48 hodín okrem zložiek určených na odcukrenie; odcukrené vaječné výrobky sa musia ošetriť ihneď po ukončení fermentácie,
 
@@ -144,11 +144,11 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
     - Všetky dávky vaječných výrobkov sa musia po ošetrení podrobiť mikrobiologickým kontrolám vzoriek odobratých prevádzkarňou, kde boli ošetrené, aby sa zaručilo, že spĺňajú tieto požiadavky:
 
-      - a) salmonely nesmú byť prítomné v 25 g alebo 25 ml vzorky vaječného výrobku, pričom n = 10, c = 0 a m = 0,
+      - a) salmonely sa nenachádzajú v 25 g alebo 25 ml vzorky vaječného výrobku, pričom n = 10, c = 0 a m = 0,
 
       - b) ostatné mikrobiologické požiadavky, kde „M“ je najvyšší počet mikróbov a kde výsledok nevyhovuje, ak sa počet baktérií v jednej jednotke alebo vo viacerých jednotkách vzorky rovná alebo je vyšší ako M
 
-        - 1. mezofilné aeróbne baktérie M = 10<sup>4</sup> v 1 grame alebo v 1 ml vaječného výrobku, pričom m = 10, n = 5 a c = 3,
+        - 1. mezofilné aeróbne baktérie M = 10<sup>5</sup> v 1 grame alebo v 1 ml vaječného výrobku, pričom m = 10<sup>4</sup>, n = 5 a c = 3,
 
         - 2. Enterobacteriaceae M = 10<sup>2</sup> v 1 grame alebo v 1 ml vaječného výrobku, pričom m = 10, n = 5 a c = 2,
 
@@ -168,7 +168,7 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
       - c) obsah zvyškov vaječných škrupín, vaječných blán a iných častíc vo vaječnom výrobku nesmie prekročiť množstvo 100 mg.kg- 1 vaječného výrobku,
 
-      - d) obsah rezíduí látok uvedených v § 5 ods. 1 tohto nariadenia nesmie prekračovať najvyššie prípustné množstvá alebo maximálne limity rezíduí uvedené v § 5 ods. 4 tohto nariadenia.
+      - d) obsah rezíduí látok uvedených v § 5 ods. 1 tohto nariadenia nesmie prekračovať najvyššie prípustné množstvá alebo maximálne limity rezíduí uvedené v osobitnom predpise.<sup>6a</sup>)
 
     - 3. Ako referenčné metódy pre analýzy a testy uvedené v bodoch 1 a 2 sa uznávajú medzinárodne uznávané analytické metódy.
 
@@ -220,7 +220,7 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
       - e) musia byť vyhradené na prepravu vaječných výrobkov,
 
-      - f) na území Slovenskej republiky ich možno použiť aj na prepravu iných potravín, ale len ak sa zaručí, že iné potraviny nemôžu byť nepriaznivo ovplyvnené alebo kontaminované a že po použití na prepravu iných potravín a po umytí, vyčistení a dezinfekcii nenastane kontaminácia alebo nepriaznivé ovplyvnenie vaječných výrobkov; orgány veterinárnej správy nemôžu pri výmenách s členskými štátmi, ktoré povoľujú rovnakú výnimku, zakázať vstup takýchto dopravných prostriedkov na územie Slovenskej republiky.
+      - f) na území Slovenskej republiky ich možno použiť aj na prepravu iných potravín, ale len ak sa zaručí, že iné potraviny nemôžu byť nepriaznivo ovplyvnené alebo kontaminované a že po použití na prepravu iných potravín a po umytí, vyčistení a dezinfekcii nenastane kontaminácia alebo nepriaznivé ovplyvnenie vaječných výrobkov; orgány veterinárnej správy nemôžu pri výmenách s členskými štátmi v súlade s právnymi aktmi Európskych spoločenstiev a Európskej únie, ktoré povoľujú rovnakú výnimku, zakázať vstup takýchto dopravných prostriedkov na územie Slovenskej republiky.
 
   - ČASŤ I SKLADOVANIE
 
@@ -252,13 +252,13 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
       - b) úradným číslom prevádzkarne,
 
-      - c) v dolnej časti so skratkou názvu Európskych hospodárskych spoločenstiev alebo skratkou „EFTA“ alebo „ETY“; ak je odosielajúcou krajinou Slovenská republika, skratkou „EHS“, alebo
+      - c) v dolnej časti; ak je odosielajúcou krajinou Slovenská republika, skratkou „EHS“, alebo
 
       - d) v hornej časti s názvom odosielajúcej krajiny veľkými písmenami, ak je odosielajúcou krajinou Slovenská republika, názvom „SLOVENSKÁ REPUBLIKA“,
 
       - e) v strede s úradným číslom prevádzkarne,
 
-      - f) v dolnej časti so skratkou názvu Európskych hospodárskych spoločenstiev alebo skratkou „EFTA“ alebo „ETY“, ak je odosielajúcou krajinou Slovenská republika, skratkou „EHS“,
+      - f) v dolnej časti, ak je odosielajúcou krajinou Slovenská republika, skratkou „EHS“,
 
       - g) teplotou, pri ktorej sa vaječné výrobky musia uchovávať, a lehotou, dokedy je zaručená ich trvanlivosť.
 

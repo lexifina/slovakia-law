@@ -1,6 +1,6 @@
 Príloha č. 1 k nariadeniu vlády č. 272/2003 Z. z.
 
-- ZOZNAM TRANSPONOVANÝCH PRÁVNYCH PREDPISOV
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
   - Smernica rady 89/437/EHS o hygienických a veterinárnych otázkach, ktoré ovplyvňujú výrobu vaječných výrobkov a ich uvádzanie na trh (Úradný vestník Európskych spoločenstiev, L 212, 22. 7. 1989, s. 87). (Úradný vestník Európskych spoločenstiev, L 212, 22. 7. 1989, s. 87) v znení
 
