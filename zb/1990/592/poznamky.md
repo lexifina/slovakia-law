@@ -1,1 +1,0 @@
-- 1) Zákon SNR č. 369/1990 Zb. o obecnom zriadení.
