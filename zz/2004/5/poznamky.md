@@ -124,6 +124,8 @@
 
 - 60) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
+- 60a) § 51 a 853 Občianskeho zákonníka.
+
 - 61) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
 - 62) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
