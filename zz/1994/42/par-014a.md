@@ -8,7 +8,7 @@
 
 - c) poskytuje krajskému úradu údaje o zariadeniach civilnej ochrany a spolupracuje s orgánmi štátnej správy a obcami pri plánovaní a riešení ukrytia obyvateľstva,
 
-- d) spolupracuje s orgánmi štátnej správy najmä pri príprave na civilnú ochranu,
+- d) metodicky riadi a vykonáva prípravu obyvateľstva na sebaochranu a vzájomnú pomoc, ako aj prípravu na poskytovanie prvej pomoci v spolupráci s verejnoprávnymi inštitúciami s humanitným poslaním,<sup>14</sup>)
 
 - e) podieľa sa na preventívnovýchovnej a propagačnej činnosti v civilnej ochrane.
 
