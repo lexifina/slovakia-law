@@ -1,0 +1,1 @@
+- ČESKOSLOVENSKÉ ÚRADNÉ ZNAČKY pre platinový, zlatý a strieborný tovar. [Obrázok 01](../assets/67d464ac132c7568556409864ee1471cb04c2e41d57846eb33bc501a34de774c.pdf)
