@@ -1,77 +1,89 @@
-Príloha č. 2 nariadenia vlády SR č. 519/1992 Zb.
+Príloha č. 2 nariadenia vlády Slovenskej republiky č. 519/1992 Zb. o platových pomeroch príslušníkov Policajného zboru Slovenskej republiky a príslušníkov Zboru väzenskej a justičnej stráže Slovenskej republiky
 
-- Príplatok za vedenie
+- Príplatok za riadenie
 
   - PRVÁ ČASŤ
 
-    - Policajný zbor Slovenskej republiky 1. Ústredné orgány | |
+    - Policajný zbor
 
-    - funkcia | | príplatok za vedenie Kčs mesačne
+      - 1. Ministerstvo vnútra Slovenskej republiky
 
-    - 1.01 | prezident Policajného zboru SR, riaditeľ sekcie | 4000 - 6000
+    - | Funkcia | Príplatok za riadenie Sk mesačne
 
-    - 1.02 | riaditeľ útvaru ministerstva, zástupca prezidenta, zástupca riaditeľa sekcie | 3000 - 4500
+    - 1.01 | prezident Policajného zbor | 5 000-7 500
 
-    - 1.03 | zástupca riaditeľa útvaru ministerstva, vedúci odboru | 1500 - 3500
+    - 1.02 | vrchný riaditeľ sekcie | 4 000-6 200
 
-    - 1.04 | zástupca vedúceho odboru, vedúci samostatného oddelenia | 1000 - 2500
+    - 1.03 | riaditeľ útvaru, úradu, správy, zástupca prezidenta Policajného zboru, zástupca |
 
-    - 1.05 | vedúci oddelenia | 500 - 1500
+    - | vrchného riaditeľa sekcie | 3 000-5 500
 
-    - 1.06 | zástupca vedúceho oddelenia | 300 - 1000
+    - 1.04 | riaditeľ odboru, expozitúry, zástupca riaditeľa útvaru, úradu, správy | 1 500-3 800
 
-    - 2. Útvary, organizácie a zariadenia riadené ministerstvom | |
+    - 1.05 | vedúci samostatného oddelenia, zástupca riaditeľa odboru | 1 000-3 000
 
-    - funkcia | | príplatok za vedenie Kčs mesačne
+    - 1.06 | riaditeľ kancelárie sekcie, vedúci oddelenia | 500-1 900
 
-    - 2.01 | riaditeľ úradu, riaditeľ (rektor) Policajnej akadémie Policajného zboru SR | 3000 - 4000
+    - 1.07 | vedúci skupiny, zástupca vedúceho oddelenia | 300-1 200
 
-    - 2.02 | zástupca riaditeľa úradu, zástupca riaditeľa (prorektor) Policajnej akadémie Policajného zboru SR, riaditeľ strednej odbornej školy | 1200 - 3000
+      - 2. Útvary, organizácie a zariadenia riadené Ministerstvom vnútra Slovenskej republiky
 
-    - 2.03 | vedúci (veliteľ) útvaru, zástupca riaditeľa strednej odbornej školy | 1000 - 2000
+    - | Funkcia | Príplatok za riadenie Sk mesačne
 
-    - 2.04 | vedúci katedry, zástupca vedúceho (veliteľa) útvaru | 800 - 1800
+    - 2.01 | rektor Akadémie Policajného zboru | 3 000-5 000
 
-    - 2.05 | vedúci (veliteľ) oddelenia, skupiny | 300 - 1200
+    - 2.02 | riaditeľ organizácie, prorektor Akadémie Policajného zboru | 1 200-3 500
 
-    - 3. Územné orgány | |
+    - 2.03 | vedúci zariadenia, zástupca riaditeľa organizácie | 1 000-2 500
 
-    - funkcia | | príplatok za vedenie Kčs mesačne
+    - 2.04 | vedúci katedry, zástupca vedúceho zariadenia | 800-2 200
 
-    - 3.01 | riaditeľ krajského úradu vyšetrovania, veliteľ okresného (mestského ) veliteľsltva | 1600 - 3500
+    - 2.05 | vedúci oddelenia, vedúci predmetovej skupiny, zástupca vedúceho katedry | 500-1 500
 
-    - 3.02 | zástupca funkcionára uvedeného v bode 3.01. | 1200 - 3000
+    - 2.06 | vedúci skupiny, zástupca vedúceho oddelenia | 300-1 000
 
-    - 3.03 | riaditeľ okresného úradu vyšetrovania, veliteľ správy mestského veliteľstva | 1000 - 2500
+      - 3. Územné útvary Policajného zboru
 
-    - 3.04 | zástupca funkcionára uvedeného v bode 3.03., vedúci(veliteľ) odboru | 800 - 2000
+    - | Funkcia | Príplatok za riadenie Sk mesačne
 
-    - 3.05 | veliteľ obvodného, hraničného oddelenia | 600 - 1500
+    - 3.01 | riaditeľ krajského riaditeľstva | 2 500-5 000
 
-    - 3.06 | zástupca vedúceho (veliteľa) odboru, zástupca veliteľa obvodného oddelenia | 500 - 1500
+    - 3.02 | riaditeľ krajského úradu vyšetrovania, riaditeľ okresného riaditeľstva, |
 
-    - 3.07 | vedúci oddelenia, skupiny | 300 - 1200
+    - | zástupca riaditeľa krajského riaditeľstva | 1 600-4 500
 
-  - DRUHÁ ČASŤ Zbor väzenskej a justičnej stráže Slovenskej republiky 1. Ústredie | |
+    - 3.03 | zástupca funkcionára uvedeného v bode 3.02 | 1 200-4 000
 
-  - funkcia | | príplatok za vedenie Kčs mesačne
+    - 3.04 | riaditeľ odboru krajského riaditeľstva, riaditeľ okresného úradu vyšetrovania | 1 000-3 000
 
-  - 1.01 | generálny riaditeľ zboru | 4000 - 6000
+    - 3.05 | riaditeľ odboru okresného riaditeľstva, riaditeľ základného útvaru, |
 
-  - 1.02 | námestník generálneho riaditeľa zboru | 2200 - 4000
+    - | zástupca funkcionára uvedeného v bode 3.04 | 800-2 500
 
-  - 1.03 | riaditeľ odboru | 1200 - 2200
+    - 3.06 | vedúci samostatného oddelenia, zástupca funkcionára uvedeného v bode 3.05 | 500-2 000
 
-  - 1.04 | zástupca riaditeľa odboru, vedúci oddelenia*) | 300 - 1200
+    - 3.07 | vedúci oddelenia, skupiny | 300-1 500
 
-  - 2. Ústavy | |
+  - DRUHÁ ČASŤ Zbor väzenskej a justičnej stráže Slovenskej republiky
 
-  - funkcia | | príplatok za vedenie Kčs mesačne
+    - 1. Generálne riaditeľstvo
 
-  - 2.01 | riaditeľ ústavu zboru | 2500 - 4000
+  - | Funkcia | Príplatok za riadenie Sk mesačne
 
-  - 2.02 | zástupca riaditeľa ústavu zboru | 1200 - 2500
+  - 1.01 | generálny riaditeľ zboru | 4 000-7 500
 
-  - 2.03 | vedúci oddelenia*) | 300 - 1200
+  - 1.02 | námestník generálneho riaditeľa | 2 200-5 000
 
-  - *) vedúci zamestnanec, ktorý riadi ďalších pracovníkov
+  - 1.03 | riaditeľ (náčelník) odboru | 1 200-2 900
+
+  - 1.04 | vedúci oddelenia, vedúci skupiny (úseku),<sup>1</sup>) zástupca funkcionára v bode 1.03 | 300-1 500
+
+    - 2. Ústavy
+
+  - | Funkcia | Príplatok za riadenie Sk mesačne
+
+  - 2.01 | riaditeľ ústavu | 2 500-5 000
+
+  - 2.02 | zástupca riaditeľa ústavu | 1 200-2 900
+
+  - 2.03 | vedúci (náčelník) oddelenia, vedúci skupiny (úseku)<sup>1</sup>) | 300-1 500
