@@ -1,0 +1,5 @@
+# § 6a Súčinnosť pri vybavovaní petície
+
+(1) Ten, kto podal petíciu, je na požiadanie príslušného orgánu verejnej správy povinný v primeranej lehote poskytnúť nevyhnutnú súčinnosť pri vybavovaní petície. Ak bez vážneho dôvodu neposkytne súčinnosť, orgán verejnej správy nie je povinný petíciu vybaviť. O tomto následku musí byť ten, kto podal petíciu, písomne poučený už pri požiadaní o súčinnosť pri vybavovaní petície. V čase od požiadania o súčinnosť do jej poskytnutia neplynú lehoty uvedené v § 5.
+
+(2) Orgány verejnej správy a nimi zriadené organizácie, ako aj štátne fondy a verejnoprávne inštitúcie sú povinné poskytnúť orgánu vybavujúcemu petíciu potrebné doklady, iné písomnosti, vyjadrenia, informácie vrátane technických nosičov údajov na vybavenie petície, ako aj súčinnosť nevyhnutnú pri vybavovaní petície, ak osobitný predpis<sup>5</sup>) neustanovuje inak. Od iných právnických osôb a od fyzických osôb možno požadovať súčinnosť len s ich súhlasom, ak osobitný predpis<sup>5</sup>) neustanovuje inak.
