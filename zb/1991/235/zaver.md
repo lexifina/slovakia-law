@@ -1,3 +1,0 @@
-Minister:
-
-Posluch v. r.
