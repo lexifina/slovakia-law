@@ -1,0 +1,3 @@
+# Čl. 32. Zvláštní případy. (K § 22, odst. 2 a 3 zákona.)
+
+V případech a za podmínek uvedených v § 195, odst. 2 a § 216, odst. 1 a 2 vládního nařízení ze dne 13. prosince 1927, č. 168 Sb., jímž se provádí celní zákon, vrátí příslušný úřad celní správy na žádost daň z obratu nebo příslušnou její část, vybranou při dovozu, zároveň se clem nebo rozdílem na cle. To platí i tehdy, jde-li při tom o vývoz (zpětný vývoz) podle § 22, odst. 5 zákona; vývozce musí v tomto případě v žádosti prohlásiti, že neuplatní nárok na náhradu vývozcům-obchodníkům způsobem, uvedeným v § 22, odst. 7 a 8 zákona, a že se tohoto nároku vzdává.

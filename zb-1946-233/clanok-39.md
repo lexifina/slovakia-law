@@ -1,0 +1,3 @@
+# Čl. 39. Poměr k dosavadnímu nařízení.
+
+Vládní nařízení ze dne 4. července 1924, č. 156 Sb., jímž se provádí zákon o dani z obratu a dani přepychové, ve znění vládních nařízení č. 247/1926 Sb., č. 189/1930 Sb., č. 58/1932 Sb., č. 175/1932 Sb. a č. 269/1935 Sb., pozbývá platnosti dnem 31. prosince 1946. Jeho věcných (hmotně-právních) ustanovení se však použije, pokud není v čl. 40, odst. 2 stanoveno jinak, v mezích ustanovení § 32, odst. 2, druhé věty zákona i po 31. prosinci 1946, jde-li o daň z obratu z dodávek, výkonů a vlastní spotřeby, u nichž daňová povinnost vznikla v době od 1. března 1946 do 31. prosince 1946.

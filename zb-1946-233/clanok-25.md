@@ -1,0 +1,17 @@
+# Čl. 25. Přiznání k dani z obratu. (K § 17, odst. 1 zákona.)
+
+(1) Přiznání jest povinen podati každý podnikatel, i když provádí toliko dodávky nebo výkony od daně osvobozené anebo dodávky nebo výkony, u nichž daň jest kryta paušálem. Tato povinnost se vztahuje i na osoby, uvedené v § 5, odst. 1, č. 3, 7, 8 a 10 zákona.
+
+(2) Tuzemský podnikatel jest povinen podati zpravidla pouze jedno přiznání, t.j. přiznání za celou podnikatelskou činnost, nehledíc na to, zda provozoval toliko jeden či více podniků, závodů nebo provozoven. U které berní správy jest toto přiznání podati, stanoví čl. 29.
+
+(3) Vyvíjel-li však tuzemský podnikatel podnikatelskou činnost jak v zemích České a Moravskoslezské (nebo jen v jedné z těchto zemí) tak i na Slovensku, jest povinen podati dvě přiznání, a to zvlášť za podnik, závod nebo provozovnu (podniky, závody nebo provozovny) v zemích České a Moravskoslezské (nebo jen v jedné z těchto zemí) a zvlášť za podnik, závod nebo provozovnu (podniky, závody nebo provozovny) na Slovensku. U kterých berních správ jest tato přiznání podati, stanoví čl. 29.
+
+(4) Cizozemský podnikatel jest povinen podati daňové přiznání každé berní správě, v jejímž obvodu činnost provozoval, do 3 dnů po uplynutí každého kalendářního měsíce, a netrvala-li jeho činnost celý kalendářní měsíc, do 3 dnů po jejím ukončení. Je dále povinen připojiti k daňovému přiznání výkaz úplat za dodávky a výkony, které provedl na předcházející objednávku.
+
+(5) Podnikatel jest povinen uvésti v přiznání též úplaty za takové dodávky pro něho provedené, z nichž je povinen platiti daň místo dodavatele (§ 5, odst. 1, č. 7, druhá věta a § 5, odst. 1, č. 8, druhá věta zákona).
+
+(6) Bylo-li podnikateli povoleno, aby místo přijatých úplat přiznával ceny za dodávky a výkony účtované (§ 17, odst. 7 zákona), nesmějí býti ze souhrnu účtovaných cen vyloučeny nezaplacené pohledávky. Rovněž ceny, účtované za zrušené dodávky nebo výkony, dále slevy a srážky, poskytnuté odběratelům, a účtované částky, které se staly prokázaně nedobytnými, nesmějí býti vyloučeny ze souhrnu účtovaných cen, mohou však býti odečteny jako srážkové položky.
+
+(7) Srážkové položky (§ 15, odst. 2, čtvrtá věta zákona) lze odečítati jen od souhrnu přijatých úplat (po příp. účtovaných cen), které podléhají téže daňové sazbě. Jakým způsobem nutno prokázati srážkové položky, stanoví čl. 28.
+
+(8) Tuzemští podnikatelé, kteří obchodují předměty, jejichž dodávky podléhají různým daňovým sazbám nebo jsou od daně osvobozeny nebo u nichž jest daň paušalována, mohou si v přiznání pro 3 %ní daň z obratu od souhrnu přijatých úplat (po příp. účtovaných cen), do něhož však musejí býti zahrnuty i úplaty (po příp. účtované ceny) za dodávky, podléhající 1 %ní dani z obratu, odečísti částky (čítajíc v to daň), jež podle nákupních účtů připadají na předměty, jejichž dodávky podléhají dani 1 %ní nebo jsou od daně osvobozeny nebo u nichž jest daň paušalována. K těmto odečteným částkám mohou připočítati částku odpovídající poměrné části režie a podnikatelského zisku. O částku zjištěnou tímto způsobem zmenší se základ pro vyměření 3 %ní daně. Odečtené částky, které podléhají 1 %ní dani z obratu nebo jsou od daně osvobozeny nebo u nichž jest daň kryta paušálem, nutno uvésti v příslušných rubrikách přiznání. Podmínkou této úlevy jest, že podnikatel neobchoduje výhradně ve velkém a že může vyloučené částky prokázati nákupními účty. Podle stejných zásad mohou tito podnikatelé zjistiti také výši daňových splátek.

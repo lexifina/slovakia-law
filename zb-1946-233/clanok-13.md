@@ -1,0 +1,3 @@
+# Čl. 13. Osvobození některých výkonů pro cizinu. (K § 4, odst. 1, č. 18 zákona.)
+
+Podle § 4, odst. 1, č. 18 zákona jsou osvobozeny od daně z obratu pouze výkony, které záležejí ve zpracování movitých věcí hmotných a jsou prováděny v tuzemsku z příkazu a na účet cizozemského objednatele (t.j. objednatele, který nemá v tuzemsku ani bydliště nebo sídlo ani provozovnu). Podmínkou osvobození je, že podnikatel, který tyto výkony provedl, prokáže, že se výkon děje z příkazu a na účet cizozemského objednatele, a dále že prokáže obdobně způsobem, stanoveným v čl. 4, odst. 6, 7 a 8, že předměty, získané zpracováním movitých věcí hmotných, vyvezl nebo dal vyvézti do ciziny. Ustanovení čl. 4, odst. 10, 11 a 12 platí tu obdobně.
