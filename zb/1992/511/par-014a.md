@@ -1,8 +1,8 @@
 # § 14a Zabezpečenie a prepadnutie tovaru a veci
 
-(1) Zamestnanec správcu dane môže zabezpečiť tovar a veci nevyhnutne potrebné na preukázanie skutočností v daňovom konaní; správca dane a daňový subjekt je povinný zabezpečený tovar a veci riadne opatrovať. Toto opatrenie sa využije najmä vtedy, ak chýba riadne preukázanie spôsobu nadobudnutia tovaru alebo veci, ich množstva, ceny, kvality alebo riadneho usporiadania finančných povinností v súvislosti s ich dovozom alebo nákupom. Veci, ktoré nie je možné na mieste spoľahlivo zabezpečiť, môže správca dane na náklady ich majiteľa alebo držiteľa nechať previezť na miesto vhodné na tento účel. Ak je to pre dokazovanie nevyhnutné, môže zamestnanec správcu dane bezodplatne odobrať na účely bližšej obhliadky alebo expertízy vzorky zabezpečených vecí. Odobraté vzorky sa po expertíze či obhliadke vrátia, ak to ich povaha pripúšťa. Pri zabezpečovaní tovaru a veci sa postupuje primerane podľa § 36.
+(1) Zamestnanec správcu dane môže zabezpečiť tovar a veci nevyhnutne potrebné na preukázanie skutočností pri správe daní; správca dane a daňový subjekt je povinný zabezpečený tovar a veci riadne opatrovať. Toto opatrenie sa využije najmä vtedy, ak chýba riadne preukázanie spôsobu nadobudnutia tovaru alebo veci, ich množstva, ceny, kvality alebo riadneho usporiadania finančných povinností v súvislosti s ich dovozom alebo nákupom. Veci, ktoré nie je možné na mieste spoľahlivo zabezpečiť, môže správca dane na náklady ich majiteľa alebo držiteľa nechať previezť na miesto vhodné na tento účel. Ak je to pre dokazovanie nevyhnutné, môže zamestnanec správcu dane bezodplatne odobrať na účely bližšej obhliadky alebo expertízy vzorky zabezpečených vecí. Odobraté vzorky sa po expertíze či obhliadke vrátia, ak to ich povaha pripúšťa. Pri zabezpečovaní tovaru a veci sa postupuje primerane podľa § 36.
 
-(2) Správca dane vydá o zabezpečení tovaru alebo veci rozhodnutie o zabezpečení, v ktorom uvedie dôvody zabezpečenia tovaru alebo veci. Proti rozhodnutiu o zabezpečení sa možno odvolať.
+(2) Správca dane vydá o zabezpečení tovaru alebo veci rozhodnutie o zabezpečení, v ktorom uvedie dôvody zabezpečenia tovaru alebo veci. Proti rozhodnutiu o zabezpečení sa možno odvolať. Odvolanie nemá odkladný účinok.
 
 (3) Ak majiteľ alebo držiteľ tovaru alebo veci v lehote do 15 dní od právoplatnosti rozhodnutia o ich zabezpečení neodstráni pochybnosti, ktoré viedli k zabezpečeniu tovaru a veci, správca dane vydá rozhodnutie o prepadnutí tohto tovaru alebo veci v prospech štátu. Proti rozhodnutiu o prepadnutí tovaru a veci sa možno odvolať.
 
@@ -22,8 +22,8 @@
 
 - b) úhradu daní podľa § 58 ods. 7,
 
-- c) úhradu nedoplatkov z neoprávnene použitých alebo zadržaných prostriedkov zo štátneho rozpočtu, štátnych fondov a rozpočtov obcí.
+- c) úhradu daňových nedoplatkov z neoprávnene použitých alebo zadržaných prostriedkov zo štátneho rozpočtu, štátnych fondov a rozpočtov obcí.
 
 (10) Zvyšok výťažku z predaja zabezpečeného a prepadnutého tovaru a veci po použití podľa odseku 9 pripadne štátu.
 
-(11) Správca dane určí spôsob zničenia prepadnutého tovaru alebo veci (majetku štátu), ktoré nemožno predať, a vymenuje trojčlennú komisiu, ktorá bude dozerať na zničenie takéhoto tovaru alebo veci. Náklady spojené so skladovaním a zničením prepadnutého tovaru alebo veci uhrádza fyzická osoba alebo právnická osoba, ktorá prepadnutý tovar alebo vec predávala,<sup>6g</sup>) prepravovala alebo skladovala; o zničení tohto tovaru alebo veci spíše komisia zápisnicu, ktorej kópiu pošle do pätnástich dní daňovému riaditeľstvu.
+(11) Správca dane určí spôsob zničenia prepadnutého tovaru alebo veci (majetku štátu), ktoré nemožno predať, a vymenuje trojčlennú komisiu, ktorá bude dozerať na zničenie takéhoto tovaru alebo veci. Náklady spojené so skladovaním a zničením prepadnutého tovaru alebo veci uhrádza fyzická osoba alebo právnická osoba, ktorá prepadnutý tovar alebo vec predávala,<sup>6g</sup>) prepravovala alebo skladovala; o zničení tohto tovaru alebo veci spíše komisia zápisnicu, ktorej kópiu pošle do pätnástich dní orgánu najbližšie nadriadenému správcovi dane.

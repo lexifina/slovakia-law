@@ -14,4 +14,4 @@
 
 (7) Potvrdením vyrovnania zanikajú daňové pohľadávky alebo ich časti, ktoré daňový subjekt na základe schváleného vyrovnacieho plánu nemusí plniť. Zanikajú aj všetky daňové pohľadávky vzniknuté pred povolením vyrovnania alebo ich časti, ktoré nemožno vo vyrovnaní uspokojiť. Zanikajú aj sankcie alebo tie ich časti, ktoré neboli na účely vyrovnacieho konania považované za daňové pohľadávky podľa § 95 ods. 1, ak sa tieto sankcie vzťahujú na daňové pohľadávky vzniknuté pred povolením vyrovnania. Tieto daňové pohľadávky a sankcie alebo ich časti nemožno po skončení vyrovnania dodatočne vyrubiť.
 
-(8) Správca dane môže začať daňové konanie alebo v ňom pokračovať, ak daňový subjekt vyrovnanie nesplní, a to dňom právoplatnosti uznesenia súdu, ktorým potvrdí nesplnenie vyrovnania; v takomto prípade nezanikajú daňové pohľadávky podľa odseku 7.
+(8) Správca dane môže začať daňové konanie vrátane daňového exekučného konania alebo v nich pokračovať, ak daňový subjekt vyrovnanie nesplní, a to dňom právoplatnosti uznesenia súdu, ktorým potvrdí nesplnenie vyrovnania; v takomto prípade nezanikajú daňové pohľadávky podľa odseku 7.
