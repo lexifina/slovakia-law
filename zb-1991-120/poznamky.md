@@ -1,0 +1,1 @@
+- ) 2) Registrován v částce 34/1982 Sb.3) Registrován v částce 45/1990 Sb.
