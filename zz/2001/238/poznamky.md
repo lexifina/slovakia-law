@@ -116,6 +116,8 @@
 
 - 58) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov, zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení neskorších predpisov.
 
+- 58a) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+
 - 59) § 25 ods. 3 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 149/2001 Z. z.
 
 - 60) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
