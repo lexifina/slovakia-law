@@ -4,7 +4,7 @@
 
 - 1b) § 21 ods. 2 Obchodného zákonníka.
 
-- 1c) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+- 1c) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov
 
 - 2a) § 460 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
@@ -43,7 +43,5 @@
 - 4) § 361 až 36r zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
 - 4a) Napríklad Občiansky zákonník, Obchodný zákonník.
-
-- 4b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 5) § 185i až 185s Občianskeho súdneho poriadku v znení neskorších predpisov.
