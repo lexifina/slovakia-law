@@ -1,0 +1,11 @@
+# Čl. II
+
+Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 58/1997 Z. z., zákona č. 281/1997 Z. z., zákona č. 288/1997 Z. z., zákona č. 384/1997 Z. z., zákona č. 117/1998 Z. z., zákona č. 195/1998 Z. z., zákona č. 225/1998 Z. z., zákona č. 241/1998 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 185/1999 Z. z., zákona č. 263/1999 Z. z., zákona č. 313/1999 Z. z., zákona č. 83/2000 Z. z., zákona č. 183/2000 Z. z., zákona č. 186/2000 Z. z., zákona č. 237/2000 Z. z., zákona č. 223/2001 Z. z., zákona č. 255/2001 Z. z., zákona č. 314/2001 Z. z., zákona č. 416/2001 Z. z., zákona č. 453/2001 Z. z., zákona č. 49/2002 Z. z., zákona č. 128/2002 Z. z., zákona č. 543/2002 Z. z. a zákona č. 103/2003 Z. z. sa mení a dopĺňa takto:
+
+- 1. V § 3 sa odsek 1 dopĺňa písmenom v), ktoré znie:
+
+- „v)
+
+- územného plánovania a stavebného poriadku.“.
+
+- 2. V § 6 ods. 2 písm. c) sa na konci vypúšťa čiarka a pripájajú sa tieto slová: „a územných plánov zón,“.
