@@ -1,3 +1,7 @@
+## Druhý diel
+
+## Zabezpečenie matky a dieťaťa
+
 ## Prvý oddiel
 
 # § 19a Vyrovnávací príspevok v tehotnosti a materstve
@@ -10,6 +14,4 @@
 
 (4) Vyrovnávací príspevok sa poskytuje za dobu, za ktorú družstevníčka má po prevedení na inú prácu nárok na pracovnú odmenu alebo na jej náhradu; v tehotnosti sa poskytuje najdlhšie do nástupu materskej dovolenky a po ukončení materskej dovolenky najdlhšie do konca deviateho mesiaca po pôrode.
 
-(5) Vyrovnávací príspevok nepatrí, ak družstevníčka po prevedení na inú prácu neodpracovala bez vážnych dôvodov v kalendárnom mesiaci aspoň osem pracovných dní.
-
-(6) Ministerstvo práce a sociálnych vecí<sup>3</sup>) po dohode s Ministerstvom poľnohospodárstva a výživy a s Ústrednou radou odborov vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.
+(5) Ministerstvo práce a sociálnych vecí<sup>3</sup>) po dohode s Ministerstvom poľnohospodárstva a výživy a s Ústrednou radou odborov vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.
