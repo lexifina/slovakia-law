@@ -1,0 +1,1 @@
+- 1) Uvedený text reprodukuje zmenený text pravidla 90bis. Ak odsek alebo položka neboli zmenené, uvádza sa označenie (bez zmeny).
