@@ -1,0 +1,5 @@
+# § 2 (k § 3 ods. 1 zákonného opatrenia)
+
+(1) Výkaz o majetku organizácií uvedených v § 3 ods. 1 zákonného opatrenia tvorí prílohu tejto vyhlášky. Uvedený výkaz vypĺňajú organizácie, ktoré sú povinné viesť podvojné účtovníctvo, a organizácie, ktoré sú povinné viesť jednoduché účtovníctvo. V prípade potreby je organizácia povinná doložiť na vyžiadanie preverujúceho orgánu údaje výkazu inventúrnymi súpismi, účtovnými knihami a účtovnými dokladmi. Ďalej je organizácia povinná predložiť na vyžiadanie preverujúceho orgánu zápisy v operatívnej evidencii v prípade pozemkov a iného hmotného majetku, ktoré nie sú obsiahnuté vo výkaze.
+
+(2) Pri plnení povinnosti uloženej organizáciám druhou vetou § 3 ods. 1 zákonného opatrenia pripojí organizácia v prípadoch prevodov svojho nehnuteľného majetku odpisy zmlúv o prevodoch vlastníctva i odpisy zmlúv o prevodoch práva hospodárenia; ďalej pripojí odpisy zmlúv o prevode vlastníctva hnuteľných vecí a prehľad pohybu na účtoch termínovaných vkladov vedených v peňažných ústavoch za obdobie od 1. novembra 1989 do nadobudnutia účinnosti zákonného opatrenia.
