@@ -1,0 +1,3 @@
+- 1) Napríklad Medzinárodná charta o ochrane a obnove pamiatok a pamiatkových sídel, Benátky 1964, Konvencia o ochrane svetového kultúrneho a prírodného dedičstva UNESCO, Paríž 1972, Európsky dohovor o ochrane archeologického dedičstva, Rada Európy, Malta 1992.
+
+- 2) Napríklad zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty, zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej, zákon Slovenskej národnej rady č.149/1975 Zb. o archívnictve v znení neskorších predpisov.
