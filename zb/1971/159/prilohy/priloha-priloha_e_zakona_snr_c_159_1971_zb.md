@@ -18,7 +18,7 @@ Príloha E zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 6 | | | § 23 ods. 1 a 3 | povoľovanie zakladania remíz a políčok pre zver na žiadosť užívateľov lesných poľovných revírov a podľa potreby vydávanie príkazov na kŕmenie zveri
 
-7 | | Obč. zák. č. 40/1964 Zb. | § 490 ods. 2 | dávanie súhlasu na uzavretie zmluvy o prevode budovy, ktorá je v súkromnom vlastníctve, a zmluvy o prevode alebo prenájme poľnohospodárskych pozemkov medzi občanmi
+7 | | zrušená od 1.11.1983 | |
 
 8 | | zák. č. 102/1963 Zb. vyhl. č. 103/1963 Zb. | § 11 § 12 | vydávanie rybárskych lístkov
 
