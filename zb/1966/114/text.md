@@ -448,7 +448,7 @@ Druhá časť
 
     - (48)
 
-    - Daň sa zníži poplatníkom, ktorí majú maloleté deti (vlastné i osvojené, vnukov), ak s poplatníkom žijú v spoločnej domácnosti. Pre zníženie dane nie je rozhodujúce, či deti majú alebo nemajú vlastné príjmy.
+    - Zníženie dane sa poskytne poplatníkom, ktorí majú maloleté deti (vlastné i osvojené, vnukov), ak žijú s poplatníkom v spoločnej domácnosti. Ak patria poplatníkovi alebo inej osobe prídavky na tieto deti alebo výchovné, prihliada sa pri znížení dane iba na jedno dieťa. Pre zníženie dane nie je rozhodujúce, či majú alebo nemajú vlastné príjmy.
 
     - (49)
 
