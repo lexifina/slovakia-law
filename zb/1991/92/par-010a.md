@@ -50,6 +50,6 @@
 
 - e) určenie podielu na výmenu dlhopisov fondu za akcie fondu.
 
-(5) Prílohu privatizovaného projektu vybraného rozhodnutím o privatizácii na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
+(5) Prílohu privatizačného projektu vybraného rozhodnutím o privatizácii na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
 
 (6) Pri privatizačnom projekte majetkových účastí možno rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja, prípadne vyporiadanie nároku osoby oprávnenej podľa osobitných predpisov.<sup>2</sup>)

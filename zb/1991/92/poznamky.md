@@ -56,8 +56,6 @@
 
 - 7f) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
-- 7g) Nariadenie vlády Slovenskej republiky č. 134/1994 Z. z. o vydávaní a použití investičných kupónov v znení nariadenia vlády Slovenskej republiky č. 139/1996 Z. z. a nálezu Ústavného súdu Slovenskej republiky č. 77/1997 Z. z.
-
 - 8) Zákon č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení zákona č. 600/1992 Zb.
 
 - 8a) § 13 a 19 zákona č. 600/1992 Zb. o cenných papieroch.
