@@ -253,3 +253,29 @@
   - a) Dohovor pre Ekvádor nadobudol platnosť 1. septembra 2003.
 
   - b) Ekvádor neurobil pri podpise ani pri uložení ratifikačnej listiny vyhlásenia ani neuplatnil výhrady.
+
+  - Slovinská republika
+
+  - a) Dohovor pre Slovinskú republiku nadobudol platnosť 1. februára 2005.
+
+  - b) Ratifikačná listina Slovinskej republiky obsahuje tieto vyhlásenia:
+
+  - Podľa článku 34 ods. 2 dohovoru Slovinská republika vyhlasuje, že žiadosti podľa odseku 1 tohto článku sa musia zasielať len prostredníctvom Ministerstva práce, rodiny a sociálnych vecí.
+
+  - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na uplatnenie jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom sa bude uznávať a vykonávať v Slovinskej republike použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
+
+  - Podľa článku 29 dohovoru Slovinská republika určila tento ústredný orgán:
+
+  - Ministerstvo práce, rodiny a sociálnych vecí
+
+  - Kotnikova 5
+
+  - 1000 Ljubljana
+
+  - Slovinská republika
+
+  - Tel.: +386 1 478 3450
+
+  - Fax: +386 1 478 3456
+
+  - E-mail: gp.mddsz@gov.si
