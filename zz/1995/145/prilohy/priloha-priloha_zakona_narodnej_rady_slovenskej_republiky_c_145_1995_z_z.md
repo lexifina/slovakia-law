@@ -62,7 +62,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) | Vyhotovenie odpisu (fotokópie), výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, evidencií, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove s výnimkou prvého úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí, za každú aj začatú stranu ..... | 50 Sk
 
-  - b) | Osvedčenie odpisu (fotokópie), výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu |
+  - b) | Osvedčenie odpisu (fotokópie), výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu ..... |
 
   - | v slovenskom jazyku ..... | 50 Sk
 
@@ -72,21 +72,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) | Nostrifikácia dokladov o vzdelaní ..... | 200 Sk
 
+  - e) | Podanie žiadosti o uznanie dokladu o vzdelaní občanov členských štátov Európskej únie na účely výkonu regulovaných povolaní v Slovenskej republike ..... | 3 000 Sk
+
   - Oslobodenie Od poplatkov podľa písmen a) a b) tejto položky sú oslobodené národné metodické centrá, osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie a štátne divadlá. | |
 
   - Poznámky 1. Poplatok podľa písmena a) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. 2. Poplatok podľa písmena a) tejto položky sa nevyberie za vyhotovenie úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí po oprave chybného údaja vykonaného z úradnej povinnosti. | |
 
     - Položka 3
 
-  - Osvedčenie |
+  - 1. | Osvedčenie |
 
-  - a) podpisu na listine alebo na jej rovnopise, za každý podpis ..... | 30 Sk
+  - | a) podpisu na listine alebo na jej rovnopise, za každý podpis ..... | 30 Sk
 
-  - b) odtlačku úradnej pečiatky a úradného podpisu, za každý odtlačok a za každý podpis ..... | 100 Sk
+  - | b) odtlačku úradnej pečiatky a úradného podpisu, za každý odtlačok a za každý podpis ..... | 100 Sk
 
-  - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené osvedčenie podpisu na listinách potrebných na vykonanie zákona č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie. |
+  - 2. | overenie správnosti údajov v žiadosti o výpis z registra trestov a v žiadosti o odpis registra trestov ..... | 50 Sk
 
-  - Splnomocnenie Správny orgán môže poplatok podľa tejto položky zvýšiť až o 100 %, ak úkon vyžaduje zvýšenú náročnosť, urýchlené vybavenie alebo vykonanie tohto úkonu mimo úradnej miestnosti. |
+  - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené osvedčenie podpisu na listinách potrebných na vykonanie zákona č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie. | |
+
+  - Splnomocnenie Správny orgán môže poplatok podľa tejto položky zvýšiť až o 100 %, ak úkon vyžaduje zvýšenú náročnosť, urýchlené vybavenie alebo vykonanie tohto úkonu mimo úradnej miestnosti. | |
+
+  - Poznámka Poplatok podľa 2. bodu sa vyberá podľa zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov. | |
 
     - Položka 4
 
@@ -2078,7 +2084,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Vydanie povolenia na poskytovanie zdravotnej starostlivosti |
 
-  - 1. krajským úradom |
+  - 1. samosprávnym krajom |
 
   - 1.1. pre fyzické osoby ................................................................................................................................ | 2 000 Sk
 
@@ -2094,7 +2100,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Zmena povolenia na poskytovanie zdravotnej starostlivosti vydaného |
 
-  - 1. krajským úradom ..................................................................................................................................... | 1 000 Sk
+  - 1. samosprávnym krajom .......................................................................................................................... | 1 000 Sk
 
   - 2. Ministerstvom zdravotníctva Slovenskej republiky ............................................................................. | 5 000 Sk
 
