@@ -1,5 +1,5 @@
 Príloha č. 6
 
-vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 311/1996 Z. z.
+k vyhláške č. 311/1996 Z. z.
 
-[Príloha 06](../assets/0be8de1d6885b3f1f123bdb30e14d08a9c5fbf4aa11383ea0bbff35bfe8bd682.pdf)
+[Príloha 06](../assets/8628b61272becf7c4e37fabe9feef662635460822ae1fa26e7710c637fc1af8d.pdf)

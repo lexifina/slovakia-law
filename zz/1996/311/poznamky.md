@@ -1,4 +1,4 @@
-- 1) § 2 ods. 2 a § 29 písm. a) zákona.
+- 1) § 29 ods. 2 písm. c) zákona.
 
 - 2) § 8 a 9 Obchodného zákonníka.
 
