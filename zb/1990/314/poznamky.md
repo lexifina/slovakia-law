@@ -1,1 +1,0 @@
-- 4) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb.Nariadenie vlády ČSFR č. 231/1990 Zb. o zvýšení vyplácaných dôchodkov a hraníc nízkych dôchodkov, ktoré sú jediným zdrojom príjmu.
