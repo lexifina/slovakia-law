@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 600/2001 Z. z. [Vzor 04](../assets/97fba15076f18d0ef02fdbae896e7c806806ceaef697f31a53d4b9d244f21119.pdf)
+Príloha č. 4 k vyhláške č. 600/2001 Z. z. [Príloha 04](../assets/f74e88844a95b7477d465f739bcd3695523596e9558b0eb376cb73c43cdfeffe.pdf)
