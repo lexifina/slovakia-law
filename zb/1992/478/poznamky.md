@@ -4,9 +4,7 @@
 
 - 3) § 29, 39, 49 a 50 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 4) Napr. § 8 až 10, 14 až 16, 64 až 68, 70, 71 a 75 zákona č. 527/1990 Zb.,
-
-- § 19 vyhlášky Federálneho úradu pre vynálezy č. 550/1990 Zb. o konaní vo veciach vynálezov a priemyselných vzorov.
+- 4) Zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon).
 
 - 5) Zákon č. 105/1951 Zb. o správnych poplatkoch v znení zákonného opatrenia Predsedníctva Národného zhromaždenia č. 138/1960 Zb.
 
