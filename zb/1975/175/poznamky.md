@@ -22,17 +22,19 @@
 
 - 12) Občiansky zákonník - zákon č. 40/1964 Zb. (§ 11, 163, 197) a vyhláška Ministerstva spravodlivosti č. 45/1964 Zb., ktorou sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
 
+- 12a) § 17 ods. 2 Hospodárskeho zákonníka č. 109/1964 Zb., ktorého úplné znenie bolo vyhlásené pod č. 45/1983 Zb.
+
 - 13) ČSN 38 6501 Plynové spotrebiče pre domácnosť, veľkokuchyne a pod. účely, ČSN 38 6601 Priemyselné plynové spotrebiče, ČSN 06 3003 Priemyselné plynové pece.
 
 - 14) Zákon č. 64/1962 Zb., ktorým sa rozširuje pôsobnosť Štátnej energetickej inšpekcie.
 
 - 15) ČSN 36 6441 Plynovody v budovách.
 
-- 16) Zákon č. 87/1958 Zb. o stavebnom poriadku a vyhláška č. 144/1959 Ú.l. (Ú.v.), ktorou sa vykonáva zákon o stavebnom poriadku.
+- 16) § 17 zákona č. 102/1971 Zb. o ochrane štátneho tajomstva.
 
 - 17) Zákon č. 30/1968 Zb. o štátnom skúšobníctve, ČSN 38 6501 Plynové spotrebiče pre domácnosť, veľkokuchyne a podobné účely.
 
-- 18) Napr. ČSN 38 6420 Plynovody v priemyselných závodoch, ČSN 38 6441 Plynovody v budovách, ČSN 38 6460 Predpisy na inštaláciu a rozvod skvapalneného vykurovacieho plynu v obytných budovách, ČSN 38 6462 Rozvod a použitie propánu-butánu v priemyselných závodoch, ČSN 06 3003 Priemyselné plynové pece. Základné ustanovenia.
+- 18) Vyhláška Českého úradu bezpečnosti práce č. 85/1978 Zb. o kontrolách, revíziách a skúškach plynových zariadení. Vyhláška Slovenského úradu bezpečnosti práce č. 86/1978 Zb. o kontrolách, revíziách a skúškach plynových zariadení.
 
 - 19) Práce na meracích, regulačných, automatizačných a spojových zariadeniach.
 
