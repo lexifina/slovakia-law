@@ -36,7 +36,9 @@
 
 - 6ch) Zákon č. 21/1992 Zb. o bankách.
 
-- 6i) § 24 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 190/1995 Z. z.
+- 6i) § 24 zákona č. 92/1991 Zb. v znení neskorších predpisov.
+
+- 6j) § 20 a 21 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
 - 7) § 348 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
 
@@ -47,6 +49,8 @@
 - 9a) Napríklad § 57 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 9b) § 128a ods. 1 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
+
+- 9c) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
 - 10) Zákon č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 626/1992 Zb., zákona Národnej rady Slovenskej republiky č. 124/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 326/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 367/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 368/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 58/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 281/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z. a zákona Národnej rady Slovenskej republiky č. 126/1996 Z. z.
 
@@ -67,3 +71,9 @@
 - 16) § 47b zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 16a) § 281 až 288 Obchodného zákonníka.
+
+- 17) § 66 ods. 3 Obchodného zákonníka.
+
+- 18) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 19) § 116 Občianskeho zákonníka.
