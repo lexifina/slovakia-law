@@ -2,6 +2,16 @@
 
 Vyhláška Ministerstva financií Slovenskej republiky č. 170/2002 Z. z. o výške poplatkov za úkony Úradu pre finančný trh v znení vyhlášky č. 517/2002 Z. z. sa mení a dopĺňa takto:
 
+- 1. V prílohe v položke 1 písmeno a) znie:
+
+  - „a) na vznik a činnosť správcovskej spoločnosti<sup>1</sup>) | 100 000 Sk".
+
+- Poznámka pod čiarou k odkazu 1 znie:
+
+- „1)
+
+- § 6 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.“.
+
 - 2. V prílohe v položke 1 sa vypúšťajú písmená c), t) a ze) vrátane poznámok pod čiarou.
 
   - Doterajšie písmená d) až s) sa označujú ako písmená c) až r) a písmená u) až zd) sa označujú ako písmená s) až zb).
@@ -18,6 +28,16 @@ Vyhláška Ministerstva financií Slovenskej republiky č. 170/2002 Z. z. o vý�
 
 - 4. V prílohe v položke 1 v písmene n) sa číslo „80 000" nahrádza číslom „100 000".
 
+- 5. V prílohe v položke 2 písmeno a) znie:
+
+  - „a) na vznik a činnosť správcovskej spoločnosti<sup>27</sup>) | 5 000 Sk".
+
+- Poznámka pod čiarou k odkazu 27 znie:
+
+- „27)
+
+- § 7 ods. 3 zákona č. 385/1999 Z. z. v znení neskorších predpisov.“.
+
 - 6. V prílohe sa položka 2 dopĺňa písmenom h), ktoré znie:
 
   - „h) na vznik a činnosť burzy cenných papierov<sup>30a</sup>) | 15 000 Sk".
@@ -27,6 +47,16 @@ Vyhláška Ministerstva financií Slovenskej republiky č. 170/2002 Z. z. o vý�
 - „30a)
 
 - § 5 ods. 2 zákona č. 429/2002 Z. z.“.
+
+- 7. V prílohe v položke 3 písmeno a) znie:
+
+  - „a) na voľbu osôb navrhovaných za členov predstavenstva správcovskej spoločnosti, dozornej rady a za vedúceho organizačnej zložky zahraničnej správcovskej spoločnosti<sup>31</sup>) | 2 000 Sk".
+
+- Poznámka pod čiarou k odkazu 31 znie:
+
+- „31)
+
+- § 9 ods. 1 písm. c) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.“.
 
 - 8. V prílohe v položke 3 sa za písmeno a) vkladajú nové písmená b) až k), ktoré znejú:
 
