@@ -1,5 +1,3 @@
-[Príloha 01](../assets/e155116964eae59163d791c5efcaac27c814564d5aa5c2ee557a32a632aec2c1.pdf)
-
 Príloha k opatreniu č. 4/2000 Z. z.
 
 ZÁKLADNÉ ZNAKY A ŠTRUKTÚRA ÚDAJOV O OBYVATEĽOCH, DOMOCH A O BYTOCH ZISŤOVANÝCH PRI SČÍTANÍ V ROKU 2001
@@ -8,13 +6,13 @@ ZÁKLADNÉ ZNAKY A ŠTRUKTÚRA ÚDAJOV O OBYVATEĽOCH, DOMOCH A O BYTOCH ZISŤOV
 
 1. Adresa trvalého bydliska:
 
-okres,
+ulica, súpisné číslo domu, orientačné číslo domu,
+
+mestská časť, ak ide o Bratislavu a Košice,
 
 obec,
 
-mestská časť v Bratislave a v Košiciach,
-
-ulica, súpisné číslo, orientačné číslo.
+okres.
 
 2. Meno a priezvisko:
 
@@ -106,23 +104,11 @@ maďarská,
 
 rómska,
 
+česká,
+
 rusínska,
 
 ukrajinská,
-
-česká,
-
-nemecká,
-
-poľská,
-
-chorvátska,
-
-srbská,
-
-ruská,
-
-židovská,
 
 iná (zapíše sa konkrétna národnosť).
 
@@ -134,61 +120,49 @@ maďarský,
 
 rómsky,
 
+český,
+
 rusínsky,
 
 ukrajinský,
 
-český,
-
-nemecký,
-
-poľský,
-
-chorvátsky,
-
-srbský,
-
-ruský,
-
-jidiš,
-
 iný (zapíše sa konkrétny materinský jazyk).
 
-14. Náboženské vyznanie:
+14. Náboženské vyznanie/cirkev:
 
-rímskokatolícke,
+Rímskokatolícka cirkev,
 
-gréckokatolícke,
+Evanjelická cirkev augsburského vyznania,
 
-pravoslávne,
+Gréckokatolícka cirkev,
 
-slovenské evanjelické augsburské,
+Reformovaná kresťanská cirkev,
 
-reformované kresťanské,
+Pravoslávna cirkev,
 
-evanjelické metodistické,
+Náboženská spoločnosť Jehovovi svedkovia,
 
-apoštolské,
-
-starokatolícke,
+Evanjelická cirkev metodistická,
 
 Bratská jednota baptistov,
 
-čs. husitské,
+Cirkev bratská,
 
 Cirkev adventistov siedmeho dňa,
 
-Cirkev bratská,
+Apoštolská cirkev,
 
-Kresťanský zbor,
+Židovské náboženské obce,
 
-Židovská náboženská obec,
+Starokatolícka cirkev,
 
-Jehovovi svedkovia,
+Kresťanské zbory,
 
-iné (zapíše sa konkrétne náboženské vyznanie),
+Cirkev československá husitská,
 
-bez vyznania.
+bez vyznania,
+
+iné (zapíše sa konkrétne náboženské vyznanie).
 
 15. Prvé trvalé bydlisko:
 
@@ -228,7 +202,7 @@ názov školy (pri vysokých školách aj názov fakulty) - slovný údaj.
 
 17. Ekonomická aktivita:
 
-pracujúci,
+pracujúci (okrem dôchodcov),
 
 učeň, učnica,
 
@@ -274,13 +248,13 @@ iná bližšie nešpecifikovaná.
 
 20. Názov a adresa zamestnávateľa alebo navštevovanej školy:
 
-názov zamestnávateľa alebo školy,
+názov,
 
-okres,
+mestská časť, ak ide o Bratislavu a Košice,
 
 obec,
 
-mestská časť v Bratislave a v Košiciach.
+okres.
 
 21. Periodicita dochádzky do zamestnania alebo do školy:
 
@@ -290,19 +264,19 @@ inak ako denne,
 
 nedochádza.
 
-22. Čas strávený dennou dochádzkou do zamestnania alebo do školy:
+22. Čas strávený dennou dochádzkou do zamestnania alebo do školy v minútach:
 
-jednoznačný číselný údaj.
+číselný údaj.
 
 23. Miesto pracoviska:
 
-okres,
+ulica, orientačné číslo domu,
+
+mestská časť, ak ide o Bratislavu a Košice,
 
 obec,
 
-mestská časť v Bratislave a v Košiciach,
-
-ulica, orientačné číslo.
+okres.
 
 ÚDAJE O BYTOCH
 
@@ -342,31 +316,31 @@ domovnícky, služobný byt,
 
 iný byt.
 
-26. Vek bytu:
+26. Vek bytu (obdobie výstavby):
 
 do roku 1899,
 
-1900 - 1919,
+1900 – 1919,
 
-1920 - 1945,
+1920 – 1945,
 
-1946 - 1960,
+1946 – 1960,
 
-1961 - 1970,
+1961 – 1970,
 
-1971 - 1980,
+1971 – 1980,
 
-1981 - 1985,
+1981 – 1985,
 
-1986 - 1990,
+1986 – 1990,
 
-1991 - 1995,
+1991 – 1995,
 
-1996 - 1999,
+1996 – 1999,
 
 2000 a neskôr.
 
-27. Veľkosť bytu:
+27. Veľkosť bytu (zaokrúhli sa na celé číslo):
 
 celková podlahová plocha bytu v m<sup>2</sup>,
 
@@ -560,31 +534,31 @@ iné vlastníctvo.
 
 jednoznačný číselný údaj.
 
-35. Počet poschodí:
+35. Počet nadzemných podlaží:
 
-jednoznačný číselný údaj.
+číselný údaj.
 
-36. Obdobie výstavby:
+36. Obdobie výstavby (rekonštrukcie):
 
 do roku 1899,
 
-1900 - 1919,
+1900 – 1919,
 
-1920 - 1945,
+1920 – 1945,
 
-1946 - 1960,
+1946 – 1960,
 
-1961 - 1970,
+1961 – 1970,
 
-1971 - 1980,
+1971 – 1980,
 
-1981 - 1985,
+1981 – 1985,
 
-1986 - 1990,
+1986 – 1990,
 
-1991 - 1995,
+1991 – 1995,
 
-1996 - 1999,
+1996 – 1999,
 
 2000 a neskôr.
 
