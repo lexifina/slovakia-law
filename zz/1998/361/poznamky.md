@@ -1,0 +1,1 @@
+- 1) Zákon č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
