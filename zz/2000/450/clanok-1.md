@@ -986,6 +986,20 @@ Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 389/1998 Z. z
 
 - neštátny subjekt alebo obec vypracuje a predloží výročnú správu o svojej činnosti a o hospodárení za predchádzajúci kalendárny rok.“.
 
+- 115. V § 86 odsek 3 znie:
+
+- „(3)
+
+- Príslušný orgán poskytne finančný príspevok neštátnemu subjektu alebo obci najmenej vo výške 50 % rozdielu medzi priemernými bežnými výdavkami a príjmami na poskytovanie porovnateľného druhu sociálnej služby, ktorú poskytuje príslušný orgán alebo zariadenie sociálnych služieb, ktoré zriadil ako rozpočtovú organizáciu alebo príspevkovú organizáciu na občana a na rozpočtový rok v prepočte na
+
+- a)
+
+- počet občanov, ktorí spĺňajú podmienky na poskytovanie sociálnej služby podľa tohto zákona a nemôžu vzhľadom na príjem a majetok uhradiť náklady za poskytovanú službu, a
+
+- b)
+
+- príslušné obdobie, v ktorom neštátny subjekt alebo obec poskytuje týmto občanom sociálnu službu.“.
+
 - 116. V § 86 ods. 4 sa za slovo „prevenciu“ vkladajú slová „alebo vybrané činnosti sociálnoprávnej ochrany,“ a za slovo „prevencie“ sa vkladajú slová „alebo vybraných činností sociálnoprávnej ochrany,“.
 
 - 117. V § 86 ods. 6 sa za slovo „prevencie“ vkladajú slová „alebo vybraných činností sociálnoprávnej ochrany,“.
