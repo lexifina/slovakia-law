@@ -54,7 +54,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 28. | | | §74 | spolupracuje s príslušnými orgánmi dobrovolných spoločenských organizácií
 
-- 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974Zb. | § 4 ods. 1 písm. a) a príloha | povoľuje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
+- 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. a) a príloha | povoľuje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
 
 - 41. | | | § 4 ods. 1 písm. b) | povoľuje odber podzemných a povrchových vôd pre potreby verejných vodovodov, ktoré presahujú územie jedného okresu alebo sa dotýkajú záujmov viacerých okresov
 
@@ -64,7 +64,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 44. | | | § 4 ods. 1 písm. e) | povoľuje zachytávanie povrchových vôd v nádržiach s celkovým objemom 1 milión m<sup>3</sup> alebo s výškou hrádzového telesa nad 8 m od dna základového výpustu vrátane vodohospodárskych diel a zariadení umožnujúcich využitie vodnej energie
 
-- 45. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974Zb. | § 4 ods. 1 písm. f) | povoľuje stavby na ochranu pred povodnami presahujúce územie jedného okresu a vodohospodárske diela na vodných cestách zriadované na plavebné účely alebo ovplyvňujúce podmienky plavby
+- 45. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. f) | povoľuje stavby na ochranu pred povodnami presahujúce územie jedného okresu a vodohospodárske diela na vodných cestách zriadované na plavebné účely alebo ovplyvňujúce podmienky plavby
 
 - 46. | | | § 4 ods. 1 písm. g) | povoľuje vodohospodárske diela odvodnovacích sústav vo výmere nad 2 000 hektárov
 
@@ -88,13 +88,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 56. | | | § 6 ods. 2, § 7 | rozhoduje v pochybnostiach o miestnej príslušnosti okresného úradu na povolenie vodohospodárskeho diela a o príslušnosti v prípadoch, ak ten istý žiadateľ požaduje súčasné vydanie niekoľkých povolení, na vydanie ktorých sú príslušné vodohospodárske orgány rôznych stupnov
 
-- 57. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974Zb. | § 10 ods. 1 a 2 | dozerá v rozsahu svojej pôsobnosti na dodržiavanie ustanovení vodného zákona a zákona o štátnej správe vo vodnom hospodárstve a na dodržiavanie ním vydaných rozhodnutí a ukladá opatrenia na odstránenie zistených nedostatkov
+- 57. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 10 ods. 1 a 2 | dozerá v rozsahu svojej pôsobnosti na dodržiavanie ustanovení vodného zákona a zákona o štátnej správe vo vodnom hospodárstve a na dodržiavanie ním vydaných rozhodnutí a ukladá opatrenia na odstránenie zistených nedostatkov
 
 - 58. | | | § 10 ods. 4 | vykonáva v rozsahu svojej pôsobnosti technicko-bezpečnostný dozor nad vodohospodárskymi dielami, ktorých stav by mohol ohroziť bezpečnosť osôb alebo majetku
 
 - 59. | | | § 15 ods. 1 a 2 | vedie vodohospodársku evidenciu ním vydaných povolení, súhlasov, vyjadrení a iných rozhodnutí
 
-- 60. | | vyhl. č. 34/1977Zb. | §5 | udeľuje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
+- 60. | | vyhl. č. 34/1977 Zb. | §5 | udeľuje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
 
 - 67. | tvorba a ochrana životného prostredia -odpadové hospodárstvo | zák. SNR č. 494/1991 Zb. v znení neskorších predpisov | § 4 písm. b) | dáva podľa § 4 ods. 2 zákona o odpadoch vyjadrenie k zariadeniam a činnostiam, ktoré svojím dopadom presahujú územie okresu
 
@@ -216,15 +216,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 199. | | | §41 | vykonáva štátnu správu na úseku školských výpoctových stredísk
 
-- 201. | kultúra | zák. č. 53/1959 Zb. v znení neskorších predpisov | § 6 ods. 2 písm. c) | zriaduje a zrušuje krajské ludové knižnice
-
 - 202. | | zák. SNR č. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
 
-- 204. | | zák. SNR č. 27/1987 Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
+- 204. | | zák. SNR č. 27/1987Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
 
 - 205. | | | § 7 ods. 2 | vedie zoznamy kultúrnych pamiatok
 
-- 206. | kultúra | zák. SNR č. 27/1987 Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
+- 206. | kultúra | zák. SNR č. 27/1987Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
 
 - 207. | | | § 11 ods. 2 | rozhoduje o podmienkach a zákaze výkonu cinnosti ohrozujúcej národnú kultúrnu pamiatku
 

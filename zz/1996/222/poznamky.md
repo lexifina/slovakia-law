@@ -12,6 +12,6 @@
 
 - 7) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva.
 
-- 7a) § 200ha zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
+- 7a) § 46c ods. 3 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
 
 - 8) Napríklad § 16 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
