@@ -1,0 +1,7 @@
+# Článok 24 Ochrana duševného vlastníctva
+
+- 1. Strany budú poskytovať a zabezpečovať dostatočnú, účinnú a nediskriminačnú ochranu práv duševného vlastníctva vrátane opatrenia na poskytovanie a vynucovanie takých práv. Tam, kde to bude potrebné, sa ochrana bude postupne zdokonaľovať tak, aby pred koncom roku 1998 dosiahla úroveň zodpovedajúcu vecným normám mnohostranných dohôd, ktoré sú špecifikované v Prílohe III k tejto dohode.
+
+- 2. Na účely tejto dohody pojem „ochrana duševného vlastníctva“ zahŕňa najmä ochranu autorských práv a príbuzných práv pri origináloch literárnych, vedeckých a umeleckých diel vrátane hudobných diel, počítačových programov, databáz, zvukových a vizuálnych nahrávok, obchodných známok, zemepisných označení, priemyselných vzorov, patentov, topografií, integrovaných obvodov, ako aj utajovaných informácií vrátane „know-how“ a ochrany nových odrôd rastlín.
+
+- 3. Strany budú spolupracovať v otázkach duševného vlastníctva. Na požiadanie ktorejkoľvek strany sa uskutočnia konzultácie expertov o týchto otázkach, najmä o činnostiach vzťahujúcich sa na existujúce alebo na budúce medzinárodné zmluvy o harmonizácii, vykonávaní a vynucovaní duševného vlastníctva a o činnostiach medzinárodných organizácií, ako je Svetová obchodná organizácia, Svetová organizácia pre duševné vlastníctvo, ako aj o vzťahoch strán k tretím krajinám v otázkach týkajúcich sa duševného vlastníctva.

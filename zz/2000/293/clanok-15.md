@@ -1,0 +1,3 @@
+# Článok 15 Všeobecné výnimky
+
+Táto dohoda nevylučuje zákazy alebo obmedzenia dovozu, vývozu alebo tranzitu tovarov oprávnené z dôvodov verejnej morálky, verejného záujmu alebo verejnej bezpečnosti, ochrany zdravia a života ľudí, zvierat alebo rastlín vrátane ekologických opatrení nevyhnutných pre ochranu života alebo zdravia ľudí, zvierat alebo rastlín, ochranu národných pamiatok umeleckej, historickej alebo archeologickej hodnoty, ochranu duševného vlastníctva alebo pravidiel týkajúcich sa zlata alebo striebra, alebo zachovania vyčerpateľných prírodných zdrojov. Také zákazy alebo obmedzenia sa však nesmú stať prostriedkom svojvoľnej diskriminácie alebo skrytého obmedzenia obchodu medzi stranami.
