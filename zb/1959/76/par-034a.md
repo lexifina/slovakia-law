@@ -1,6 +1,6 @@
 # § 34a Náhrada škody
 
-(1) Štát zodpovedá za škodu osobe, ktorá poskytla pomoc vojakovi v činnej službe pri výkone poriadkovej, strážnej, eskortnej a dozornej služby na žiadosť vojaka alebo s jeho vedomím (ďalej len „poškodený“). Štát sa tejto zodpovednosti môže zbaviť len vtedy, ak si poškodený spôsobil škodu úmyselne.
+(1) Štát zodpovedá za škodu spôsobenú osobou alebo osobe, ktorá poskytla pomoc vojakovi v činnej službe pri výkone poriadkovej, strážnej, eskortnej a dozornej služby alebo vojenskému policajtovi alebo v prospech vojenského obranného spravodajstva na ich žiadosť alebo s ich vedomím. Štát sa tejto zodpovednosti môže zbaviť len vtedy, ak osoba škodu spôsobila úmyselne.
 
 (2) Ak u poškodeného došlo k ujme na zdraví alebo k smrti, postupuje sa podľa predpisov o odškodňovaní pracovných úrazov pracovníkov. Vláda Českej a Slovenskej Federatívnej Republiky môže ustanoviť všeobecne záväzným právnym predpisom, v ktorých prípadoch a v akom rozsahu:
 
@@ -14,4 +14,4 @@
 
 (5) Štát zodpovedá aj za škody spôsobené vojakmi v činnej službe v súvislosti s plnením ich úloh ustanovených zákonom.
 
-(6) Náhradu škody poskytuje za vojakov v činnej službe v zastúpení štátu Federálne ministerstvo obrany.
+(6) Náhradu škody poskytuje za vojakov v činnej službe, osobám a za osoby uvedené v odseku 1 v zastúpení štátu Federálne ministerstvo obrany a Federálne ministerstvo vnútra.
