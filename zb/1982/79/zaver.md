@@ -1,0 +1,3 @@
+Predseda:
+
+Hoffmann v. r.
