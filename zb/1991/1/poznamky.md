@@ -20,7 +20,7 @@
 
 - 9) § 121a vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení vyhlášky č. 123/1990 Zb.
 
-- 10) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 235/1988 Zb. o zisťovaní a používaní priemerného zárobku.
+- 10) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
 
 - 11) § 29 ods. 2 písm. c) zákona č. 100/1988 Zb.
 
@@ -43,3 +43,27 @@
 - 17) § 27 Zákonníka práce.
 
 - 18) § 40 zákona č. 60/1965 Zb. o prokuratúre v znení neskorších predpisov.
+
+- 19) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 552/1990 Zb.
+
+- Zákon č. 172/1990 Zb. o vysokých školách.
+
+- 20) § 116 vyhlášky č. 149/1988 Zb.
+
+- 21) Zákon č. 195/1991 Zb. o odstupnom poskytovanom pri skončení pracovného pomeru.
+
+- Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 19/1991 Zb. o pracovnom uplatnení a hmotnom zabezpečení pracovníkov v baníctve dlhodobo nespôsobilých na doterajšiu prácu.
+
+- 22) § 31 ods. 4 zákona č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
+
+- § 108 zákona č. 100/1970 Zb. o služobnom pomere príslušníkov Zboru národnej bezpečnosti.
+
+- § 96 zákona č. 334/1991 Zb. o služobnom pomere policajtov zaradených vo Federálnom policajnom zbore a v Zbore hradnej polície.
+
+- § 117 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
+
+- 23) § 11 ods. 6 vyhlášky č. 149/1988 Zb. v znení zákona č. 306/1991 Zb.
+
+- 24) § 49 ods. 2 zákona č. 100/1988 Zb.
+
+- 25) Napríklad § 61 a 130 Zákonníka práce.
