@@ -10,7 +10,7 @@
 
     - (4) Bez povolení Národní banky smějí devisoví tuzemci přijímati v tuzemsku od devisových cizozemců platy na úhradu výdajů spojených s jejich pobytem v tuzemsku (zaopatření v hotelu, cestovné v tuzemsku, nákup předmětů pro osobní potřebu, předmětů upomínkových a pod.).
 
-    - (5) Bez povolení Národní banky smí devisový tuzemec zaplatiti za devisového cizozemce v tuzemsku náklady jeho pobytu až do částky 5.000 Kčs týdně, činí-li tak z důvodů přátelských nebo obchodních styků a aniž tyto náklady s ním jakýmkoliv způsobem zúčtuje.
+    - (5) Bez povolení Národní banky nesmí devisový tuzemec zaplatiti za devisového cizozemce jakékoliv náklady jeho pobytu v tuzemsku, ať by tak činil z jakéhokoliv důvodu a ať by je s ním zúčtoval či nikoliv.
 
   - Čl. 2. Celní pohledávky za devisovými cizozemci. K § 7, odst. 4, § 17 a § 20:
 
