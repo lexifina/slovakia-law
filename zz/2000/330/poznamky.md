@@ -1,4 +1,6 @@
-- 1) Napríklad § 14 zákona č. 600/1992 Zb. o cenných papieroch.
+- 1) § 5 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
+
+- 1a) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 2) Obchodný zákonník v znení neskorších predpisov.
 
@@ -13,6 +15,8 @@
 - 7) § 30 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 8) § 158 a 159 Obchodného zákonníka.
+
+- 8a) § 99 zákona č. 566/2001 Z. z.
 
 - 9) § 66b Obchodného zákonníka v znení zákona č. 127/1999 Z. z.
 
@@ -36,17 +40,23 @@
 
 - 19) § 45 a 45a zákona č. 600/1992 Zb. v znení neskorších predpisov.§ 5 zákona č. 385/1999 Z. z.
 
-- 20) § 71 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 20) Zákon č. 566/2001 Z. z.
 
 - 21) § 2 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 22) § 73 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 22) Zákon č. 566/2001 Z. z.
 
-- 23) § 80 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 22a) § 123 zákona č. 566/2001 Z. z.
+
+- 22b) § 107 ods. 9 zákona č. 566/2001 Z. z.
+
+- 23) § 130 zákona č. 566/2001 Z. z.
 
 - 24) § 160 Obchodného zákonníka.
 
 - 25) § 27 ods. 3 písm. e) a f) zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+
+- 25a) § 103 ods. 2 písm. k) zákona č. 566/2001 Z. z.
 
 - 26) Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
 
