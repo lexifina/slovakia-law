@@ -1,1 +1,0 @@
-- *) Biochemickou spotrebou kyslíka (BSK<sub>5</sub>) sa rozumie množstvo kyslíka, ktorý spotrebujú hnilobné organické látky obsiahnuté vo vode na svoj rozklad za dobu piatich dní.
