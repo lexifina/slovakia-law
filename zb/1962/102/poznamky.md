@@ -1,1 +1,0 @@
-- *) Združenie plynární vykonáva podľa vyhlášky č. 168/1959 Ú. l. (Ú. v.) o riadení výroby, rozvodu a odbytu vyhrievacích plynov a rozvoji plynárenského odboru gesciu v plynárenskom odbore.
