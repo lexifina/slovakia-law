@@ -24,9 +24,7 @@ Príloha A zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 9 | | vyhl. č. 47/1968 Zb. | § 3 ods. 2 | schvaľovanie zmluvy o zriadení spoločného družstevného podniku, ak členmi tohto podniku sú organizácie z viacerých okresov
 
-10 | | zrušené od 1.10.1976 | |
-
-11 | | | |
+10-11 | | zrušené od 1.10.1976 | |
 
 12-19 | lesného a vodného hodpodárstva | zrušené od 1.1.1978 | |
 
@@ -78,13 +76,11 @@ Príloha A zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 43 | | | čl. 4 ods. 7 písm. b) | vydávanie súhlasu na použitie označenia okresný odborník aj pre ďalšie odbory
 
-44 | | | čl. 5 ods. 14 | vyjadrovanie sa k ustanoveniu a uvoľňovaniu riaditeľov stredných zdravotníckych škôl s výnimkou riaditeľstiev stredných zdravotníckych škôl spravovaných krajskými národnými výbormi
+44 | | | | zrušená od 1.9.1978
 
 45 | | | čl. 5 ods. 17 | vyjadrovanie sa k vymenúvaniu riaditeľa, jeho zástupcu a primárov (vedúcich) oddelení v nemocnici s poliklinikou III. typu spravovanej okresným národným výborom
 
-46 | | záväzné opatrenie por. č. 1/1969 Vest. MZd, reg. v čiastke 34/1969 Zb. | čl. 2 ods. 1 | vymenúvanie predsedov maturitných komisií na stredných zdravotníckych školách v kraji
-
-47 | | klasifikačný a disciplinárny poriadok pre stredné školy, Zvesti MŠ SSR, reg. v čiastke 15/1971 Zb. | § 5 ods. 7 | rozhodovanie o vylúčení žiakov zo štúdia na zdravotníckych školách v kraji
+46-47 | | zrušené 1.9.1978 | |
 
 48 | požiarnej ochrany | zák. č. 18/1958 Zb. a vyhl. č. 106/1959 Ú. v. | § 6 ods. 2 § 4 ods. 2 | zisťovanie príčin požiarov v závažných prípadoch
 
