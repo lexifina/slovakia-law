@@ -24,7 +24,7 @@
 
 - 11) Zákon č. 79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon).
 
-- 12) § 15 ods. 6 až 11 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a enáhradách za doasné užívanie pozemkov.
+- 12) § 15 ods. 6 až 11 (príloha č. 8 a príloha č. 9) vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a enáhradách za doasné užívanie pozemkov.
 
 - 13) § 47 a nasl. vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu.
 
