@@ -4,6 +4,8 @@
 
 (2) Uplynutím volebného obdobia, vzdaním sa funkcie alebo odvolaním z funkcie, do ktorej je profesionálny vojak vymenovaný, zvolený alebo ustanovený podľa osobitných predpisov,<sup>34a</sup>) sa služobný pomer neskončí; profesionálny vojak sa ustanoví do funkcie podľa tohto zákona s výnimkou § 14.
 
+(3) Podrobnosti o priebežnom hodnotení ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
 Štvrtý oddiel
 
 Skončenie služobného pomeru
@@ -18,11 +20,11 @@ Služobný pomer profesionálneho vojaka sa skončí prepustením, ak
 
 a)
 
-služobný orgán vydal rozhodnutie o nespôsobilosti profesionálneho vojaka vykonávať vojenskú službu,<sup>39b</sup>)
+je zdravotne nespôsobilý na výkon profesionálnej služby,
 
 b)
 
-zo zdravotných dôvodov nie je spôsobilý vykonávať doterajšiu funkciu a nie je preňho iné vhodné zaradenie,
+je zdravotne nespôsobilý na výkon zastávanej funkcie a nie je preňho iné vhodné zaradenie,
 
 c)
 

@@ -1,22 +1,18 @@
-- 1) § 3 zákona č. 351/1997 Z. z. Branný zákon.
+- 1) § 2 ods. 2 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
 - 2) Článok 1 Ústavy Slovenskej republiky.
 
-- 3) § 18 ods. 2 písm. a) bod 1 Branného zákona.
+- 3) § 10 ods. 2 písm. a) zákona č. 320/2002 Z. z. o brannej povinnosti.
 
-- 4) § 18 ods. 2 písm. a) bod 2 Branného zákona.
+- 4) § 10 ods. 2 písm. b) zákona č. 320/2002 Z. z.
 
-- 5) § 18 ods. 2 písm. a) bod 3 Branného zákona.
+- 5) § 10 ods. 2 písm. c) zákona č. 320/2002 Z. z.
 
-- 6) § 18 ods. 2 písm. c) Branného zákona.
+- 6) § 10 ods. 2 písm. d) zákona č. 320/2002 Z. z.
 
-- 7) § 18 ods. 2 písm. b) bod 1 a § 27 Branného zákona.
+- 8a) § 9 ods. 3 zákona č. 311/2001 Z. z. Zákonník práce.§ 9 ods. 1 a § 10 ods. 1 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 8) § 18 ods. 2 písm. b) bod 2 a § 28 Branného zákona.
-
-- 8a) § 9 ods. 3 Zákonníka práce.
-
-- 9) Článok 102 ods. 1 písm. j) Ústavy Slovenskej republiky.
+- 9) Čl. 102 písm. k) Ústavy Slovenskej republiky.
 
 - 10) Článok 54 Ústavy Slovenskej republiky.
 
@@ -42,7 +38,7 @@
 
 - 21) Napríklad § 14 ods. 4 zákona Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení neskorších predpisov (úplne znenie č. 247/1996 Z. z.), § 5 ods. 5 zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe.
 
-- 21a) § 5 a 56 Branného zákona.
+- 21a) § 3 a § 18 ods. 3 zákona č. 321/2002 Z. z.
 
 - 22) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
@@ -60,29 +56,23 @@
 
 - 29a) § 3 Branného zákona.
 
-- 30) § 2b ods. 7 zákona Národnej rady Slovenskej republiky č. 3/1993 Z. z.
-
 - 31) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 33) § 15 ods. 3 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
-
-- 34) § 1 ods. 5 zákona Národnej rady Slovenskej republiky č. 3/1993 Z. z.
 
 - 34a) Napríklad článok 102 ods. 1 písm. g) Ústavy Slovenskej republiky, zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov, zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 314/1996 Z. z. o prokuratúre v znení neskorších predpisov.
 
 - 35) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
 
-- 36) § 18a písm. b) a § 21 ods. 1 písm. b) a c) zákona č. 172/1990 Zb. v znení neskorších predpisov.
+- 36) § 53 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
+
+- 36a) § 12 ods. 1 písm. c) zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
 
 - 37) Zákon č. 335/1991 Zb. v znení neskorších predpisov.
 
-- 38) § 1 ods. 5 zákona Národnej rady Slovenskej republiky č. 3/1993 Z. z.Zákon Národnej rady Slovenskej republiky č. 274/1996 Z. z. o kárnej zodpovednosti prokurátorov.
+- 38) § 38 ods. 1 písm. c) a e) a odsek 4 zákona č. 153/2001 Z. z. o prokuratúre.
 
 - 39) § 20 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
-
-- 39a) Zákon Národnej rady Slovenskej republiky č. 253/1994 Z. z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov.
-
-- 39b) § 16 Branného zákona.
 
 - 40) § 21 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
@@ -134,17 +124,13 @@
 
 - 59) Článok 93 ods. 2 Ústavy Slovenskej republiky.
 
-- 60) § 34 Branného zákona.
-
-- 60a) § 26 ods. 1 Branného zákona.
+- 60a) § 22 ods. 2 zákona č. 320/2002 Z. z.
 
 - 61) Článok 102 písm. g) Ústavy Slovenskej republiky.
 
 - 62) Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
 
-- 62a) § 34 písm. a) Branného zákona.
-
-- 63) Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z.
+- 63) Zákon č. 321/2002 Z. z.
 
 - 63a) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z.Zákon č. 124/1992 Zb. o Vojenskej polícii.
 
@@ -158,17 +144,31 @@
 
 - 65) Napríklad zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov, zákon č. 50/1973 Zb.
 
-- 66) § 33 ods. 1 písm. b) Branného zákona.
+- 66) § 19 ods. 1 písm. b) zákona č. 320/2002 Z. z.
 
 - 67) Časť I písm. a) a b) prílohy vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 18/1991 Zb. o iných úkonoch vo všeobecnom záujme.
 
 - 68) § 1 ods. 2 Trestného poriadku.
+
+- 68a) § 4 ods. 3 a § 12 zákona č. 321/2002 Z. z.
 
 - 69) § 8 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci.
 
 - 70) Zákon č. 67/1997 Z. z. o ochrane nefajčiarov.§ 6 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
 - 70a) § 41 zákona č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení zákona č. 563/2001 Z. z.
+
+- 70aa) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
+
+- 70b) § 29 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 70c) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok v znení zákona č. 439/2000 Z. z.
+
+- 70d) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
+- 70e) § 6 ods. 3 písm. e) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 70f) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
 - 71) § 2 zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
 
@@ -188,10 +188,12 @@
 
 - 74e) § 34 ods. 1 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z.
 
-- 75) § 13 a 14 Trestného zákona.
-
 - 76) § 16 písm. d) zákona Slovenskej národnej rady č. 347/1990 Zb. v znení neskorších predpisov.
 
 - 77) § 8 ods. 1 písm. f) zákona č. 347/1990 Zb.
 
-- 77a) § 33 Branného zákona.
+- 77a) Zákon národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 77b) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
+
+- 77c) § 40 zákona č. 328/2002 Z. z.

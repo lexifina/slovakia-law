@@ -4,11 +4,11 @@
 
 # § 71a
 
-(1) Žiak vojenskej strednej školy, študent vojenskej vysokej školy a študent vzdelávacieho a výcvikového zariadenia ozbrojených síl sú povinní nahradiť náklady vynaložené na ich materiálne a finančné zabezpečenie počas štúdia, prípravy alebo výcviku (ďalej len „náklady"), ak
+(1) Žiak vojenskej strednej školy, študent vojenskej vysokej školy a študent vzdelávacieho a výcvikového zariadenia ozbrojených síl sú povinní nahradiť náklady vynaložené na ich naturálne a finančné zabezpečenie počas štúdia, prípravy alebo výcviku (ďalej len „náklady"), ak
 
 - a) neprevezmú záväzok na prípravnú službu,
 
-- b) skončia prípravnú službu z dôvodov uvedených v § 68 ods. 1 písm. b), c) alebo d),
+- b) skončia štúdium z dôvodov uvedených v § 68 ods. 1 písm. b), c) alebo d),
 
 - c) nevznikne služobný pomer z dôvodov nimi zavinených.
 
@@ -20,6 +20,6 @@
 
 (5) Profesionálny vojak, ktorý bude pred splnením prevzatého záväzku na profesionálnu službu prepustený zo služobného pomeru podľa § 32 ods. 1 písm. e), h) alebo i), alebo podľa § 32 ods. 2 písm. a), d) alebo e), alebo ktorého služobný pomer sa skončí podľa § 35, je povinný nahradiť náklady.
 
-(6) Ak profesionálny vojak splní záväzok zotrvať v služobnom pomere po dohodnutý čas len čiastočne, náhrada nákladov sa pomerne zníži.
+(6) Ak profesionálny vojak splní záväzok zotrvať v služobnom pomere po dohodnutý čas len čiastočne, náhrada nákladov sa pomerne zníži. Ak profesionálny vojak opätovne plní záväzok na profesionálnu službu, náhrada nákladov sa nevymáha; ak opätovný služobný pomer bude trvať kratšiu dobu ako doba záväzku, vymáhanie náhrady nákladov po skončení opätovného služobného pomeru bude pokračovať podľa tohto zákona.
 
 (7) Určenie sumy náhrady nákladov a ich pomerného zníženia ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
