@@ -1,1 +1,0 @@
-- 1) § 18a a 102 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov (úplné znenie č. 45/1983 Zb.).
