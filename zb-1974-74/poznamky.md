@@ -1,0 +1,1 @@
+- 4) Vyhláška Ústrednej správy spojov č. 111/1964 Zb., ktorou sa vykonáva zákon o telekomunikáciách.
