@@ -8,52 +8,52 @@ Príloha č. 1 vyhlášky č. 57/1979 Zb.
 
 - | 1 | 2 | 3
 
-- moped, motocykel, skúter | - | 150 | 0,48
+- moped, motocykel, skúter | | 150 | 0,59
 
-- | 150 | 250 | 0,58
+- | 150 | 250 | 0,71
 
-- | 250 | - | 0,64
+- | 250 | | 0,80
 
-- motorová trojkolka, motocykel (skúter) s postranným vozíkom | - | - | 0,80
+- motorová trojkolka, motocykel (skúter) s postranným vozíkom | | | 1,00
 
-- osobný (dodávkový) automobil | - | 900 | 1,22
+- osobný (dodávkový) automobil | | 900 | 1,49
 
-- | 900 | 1 200 | 1,55
+- | 900 | 1200 | 1,86
 
-- | 1 200 | 1 500 | 1,75
+- | 1200 | 1500 | 2,19
 
-- | 1 500 | 2 000 | 1,95
+- | 1500 | 2000 | 2,40
 
-- | 2 000 | - | 2,30
+- | 2000 | | 2,85
 
 - | Celková hmotnosť vozidla v tonách | |
 
 - | nad | do |
 
-- nákladný automobil, autobus | - | 4,5 | 2,65
+- nákladný automobil, autobus | | 4,5 | 3,53
 
-- | 4,5 | 6,0 | 3,15
+- | 4,5 | 6,0 | 4,23
 
 - B. Pri pohone vozidla na motorovú naftu | | |
 
-- Druh vozidla | Zdvihový objem motora v cm<sup>3</sup> | | Sadzby náhrad za 1 k jazdy v Kčs
+- Druh vozidla | Zdvihový objem motora v cm<sup>3</sup> | | Sadzby náhrad za 1 km jazdy v Kčs
 
 - | nad | do |
 
 - | 1 | 2 | 3
 
-- osobný (dodávkový) automobil | 1 200 | 1 500 | 1,35
+- osobný (dodávkový) automobil | 1200 | 1500 | 1,44
 
-- | 1 500 | 2 000 | 1,55
+- | 1500 | 2000 | 1,65
 
-- | 2 000 | - | 1,78
+- | 2000 | | 1,89
 
 - | Celková hmotnosť vozidla v tonách | |
 
 - | nad | do |
 
-- nákladný automobil, autobus | - | 4,5 | 2,23
+- nákladný automobil, autobus | | 4,5 | 2,44
 
-- | 4,5 | 6,0 | 2,60
+- | 4,5 | 6,0 | 2,84
 
-- | 6,0 | - | 3,32
+- | 6,0 | | 3,73
