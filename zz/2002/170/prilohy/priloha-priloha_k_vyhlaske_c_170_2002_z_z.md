@@ -4,7 +4,7 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - Položka 1 - Udeľovanie povolenia
 
-- a) na vznik a činnosť vrátane schválenia stanov správcovskej spoločnosti a schválenia štatútu a predajného prospektu podielového fondu<sup>1</sup>) | 100 000 Sk
+- a) na vznik a činnosť správcovskej spoločnosti<sup>1</sup>) | 100 000 Sk
 
 - b) na zhromažďovanie peňažných prostriedkov od verejnosti na území Slovenskej republiky predajom cenných papierov vydávaných zahraničnou správcovskou spoločnosťou alebo predajom cenných papierov vydávaných ňou spravovanou zahraničnou správcovskou spoločnosťou<sup>2</sup>) pre zahraničnú správcovskú spoločnosť alebo pre obchodníka s cennými papiermi, alebo pre zahraničného obchodníka s cennými papiermi | 40 000 Sk
 
@@ -66,7 +66,7 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - Položka 2 - Zmena rozhodnutia, ktorým bolo udelené povolenie
 
-- a) na vznik a činnosť správcovskej spoločnosti vrátane schválenia stanov správcovskej spoločnosti a schválenia štatútu a predajného prospektu podielového fondu<sup>27</sup>) | 1 000 Sk
+- a) na vznik a činnosť správcovskej spoločnosti<sup>27</sup>) | 5 000 Sk
 
 - b) rozšírenie udeleného povolenia na poskytovanie investičných služieb pre obchodníka s cennými papiermi, resp. zahraničného obchodníka s cennými papiermi, za každú ďalšiu hlavnú investičnú službu<sup>28</sup>) | 10 000 Sk
 
@@ -84,19 +84,19 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - Položka 3 - Vydávanie predchádzajúceho súhlasu
 
-- a) na voľbu alebo vymenovanie nových členov predstavenstva, dozornej rady alebo prokuristu správcovskej spoločnosti<sup>31</sup>) | 2 000 Sk
+- a) na voľbu osôb navrhovaných za členov predstavenstva správcovskej spoločnosti, dozornej rady a za vedúceho organizačnej zložky zahraničnej správcovskej spoločnosti<sup>31</sup>) | 2 000 Sk
 
-- b) na nadobudnutie alebo prekročenie podielu na základnom imaní správcovskej spoločnosti alebo na hlasovacích právach v správcovskej spoločnosti vo výške 10 %, 20 %, 33 %, 50 % a 66 % v jednej alebo v niekoľkých operáciách priamo alebo konaním v zhode<sup>31a</sup>)Pozn. redakcie: Účinnosť: od 1. 1. 2003 | 10 000 Sk
+- b) na nadobudnutie alebo prekročenie podielu na základnom imaní správcovskej spoločnosti alebo na hlasovacích právach v správcovskej spoločnosti vo výške 10 %, 20 %, 33 %, 50 % a 66 % v jednej alebo v niekoľkých operáciách priamo alebo konaním v zhode<sup>31a</sup>) | 10 000 Sk
 
-- c) na zníženie základného imania správcovskej spoločnosti, ak nejde o zníženie z dôvodov straty<sup>31b</sup>)Pozn. redakcie: Účinnosť: od 1. 1. 2003 | 20 000 Sk
+- c) na zníženie základného imania správcovskej spoločnosti, ak nejde o zníženie z dôvodov straty<sup>31b</sup>) | 20 000 Sk
 
-- d) zlúčenie alebo splynutie správcovskej spoločnosti<sup>31c</sup>)Pozn. redakcie: Účinnosť: od 1. 1. 2003 | 20 000 Sk
+- d) zlúčenie alebo splynutie správcovskej spoločnosti<sup>31c</sup>) | 20 000 Sk
 
-- e) na zmenu stanov správcovskej spoločnosti<sup>31d</sup>)Pozn. redakcie: Účinnosť: od 1. 1. 2003 | 5 000 Sk
+- e) na zmenu stanov správcovskej spoločnosti<sup>31d</sup>) | 5 000 Sk
 
-- f) na zmenu depozitára správcovskej spoločnosti a depozitára podielového fondu<sup>31e</sup>)Pozn. redakcie: Účinnosť: od 1. 1. 2003 | 5 000 Sk
+- f) na zmenu depozitára správcovskej spoločnosti a depozitára podielového fondu<sup>31e</sup>) | 5 000 Sk
 
-- g) na nadobudnutie cenných papierov do majetku v podielovom fonde od akcionárov správcovskej spoločnosti spravujúcej tento podielový fond alebo na predaj cenných papierov z majetku podielového fondu akcionárom správcovskej spoločnosti spravujúcej tento podielový fond<sup>31f</sup>)Pozn. redakcie: Účinnosť: od 1. 1. 2003 | 5 000 Sk
+- g) na nadobudnutie cenných papierov do majetku v podielovom fonde od akcionárov správcovskej spoločnosti spravujúcej tento podielový fond alebo na predaj cenných papierov z majetku podielového fondu akcionárom správcovskej spoločnosti spravujúcej tento podielový fond<sup>31f</sup>) | 5 000 Sk
 
 - h) na nadobudnutie alebo prekročenie podielu na základnom imaní burzy cenných papierov alebo na hlasovacích právach v burze cenných papierov vo výške 5 %, 10 %, 20 %, 33 %, 50 % a 66 % v jednej alebo v niekoľkých operáciách priamo alebo konaním v zhode<sup>31g</sup>) | 10 000 Sk
 

@@ -1,4 +1,4 @@
-- 1) § 7 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
+- 1) § 6 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 2) § 15 zákona č. 385/1999 Z. z.
 
@@ -50,7 +50,7 @@
 
 - 26) § 37 ods. 5 zákona č. 95/2002 Z. z.
 
-- 27) § 9 ods. 1 zákona č. 385/1999 Z. z.
+- 27) § 7 ods. 3 zákona č. 385/1999 Z. z. v znení neskorších predpisov.
 
 - 28) § 59 ods. 4 zákona č. 566/2001 Z. z.
 
@@ -60,7 +60,19 @@
 
 - 30a) § 5 ods. 2 zákona č. 429/2002 Z. z.
 
-- 31) § 9 ods. 2 zákona č. 385/1999 Z. z.
+- 31) § 9 ods. 1 písm. c) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+
+- 31a) § 9 ods. 1 písm. a) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+
+- 31b) § 9 ods. 1 písm. b) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+
+- 31c) § 9 ods. 1 písm. d) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+
+- 31d) § 9 ods. 1 písm. e) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+
+- 31e) § 9 ods. 1 písm. f) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+
+- 31f) § 9 ods. 1 písm. g) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
 
 - 31g) § 6 ods. 1 písm. a) zákona č. 429/2002 Z. z.
 
