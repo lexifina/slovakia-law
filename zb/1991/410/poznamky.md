@@ -50,9 +50,9 @@
 
 - 19) § 33 zákona č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
 
-- 20) § 9 a 10 zákona č. 46/1991 Zb. o zvyšovaní dôchodkov.
+- 20) Zákon Národnej rady Slovenskej republiky č. 320/1993 Z. z. o úprave náhrady za stratu na zárobku po skončení pracovnej neschopnosti vzniknutej pracovným úrazom alebo chorobou z povolania.
 
-- 21) § 100 a 103 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb.
+- 21) § 100 a 103 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb. a v znení zákona Národnej rady Slovenskej republiky č. 240/1993 Z. z.
 
 - 22) Napr. Občiansky súdny poriadok.
 
