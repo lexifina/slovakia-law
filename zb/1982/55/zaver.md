@@ -1,3 +1,0 @@
-Minister:
-
-Janovic v. r.
