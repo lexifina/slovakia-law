@@ -1,0 +1,1 @@
+- *) ustanovenia § 10 a 499 Občianskeho zákonníka č. 40/1964 Zb.
