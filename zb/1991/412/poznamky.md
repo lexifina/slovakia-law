@@ -2,7 +2,9 @@
 
 - 2) Napr. zákon ČNR č. 200/1990 Zb. a zákon SNR č. 372/1990 Zb. v znení zákona SNR č. 524/1990 Zb.
 
-- 3) § 44 ods. 2 zákona č. 335/1991 Zb. o súdoch a sudcoch.
+- 3) § 44 ods. 3 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení zákona Národnej rady Slovenskej republiky č. 12/1993 Z. z.
+
+- 3a) § 44 ods. 1 a 2 zákona č. 335/1991 Zb.
 
 - 4) § 47 zákona č. 335/1991 Zb.
 
@@ -27,3 +29,5 @@
 - 12) § 14 ods. 3 zákona ČNR č. 200/1990 Zb.§ 14 ods. 3 zákona SNR č. 372/1990 Zb. v znení zákona SNR č. 524/1990 Zb.
 
 - 13) § 46 ods. 3 zákona č. 335/1991 Zb.
+
+- 14) § 67 a 68 zákona č. 335/1991 Zb. o súdoch a sudcoch.
