@@ -96,7 +96,9 @@
 
 - 48) § 18 až 59a zákona č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
 
-- 49) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
+- 49) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+
+- 49a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
 - 50) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
 
