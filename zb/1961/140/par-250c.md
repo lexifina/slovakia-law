@@ -1,6 +1,6 @@
 # § 250c Poisťovací podvod
 
-(1) Kto vyláka od iného poistné plnenie tým, že ho uvedie do omylu v otázke splnenia podmienok na jeho poskytnutie, a tak mu spôsobí škodu nie malú alebo získa pre seba prospech nie malý, potresce sa odňatím slobody až na tri roky alebo zákazom činnosti, alebo peňažným trestom.
+(1) Kto vyláka od iného poistné plnenie tým, že ho uvedie do omylu v otázke splnenia podmienok na jeho poskytnutie, a tak mu spôsobí škodu nie nepatrnú alebo získa pre seba prospech nie nepatrný, potresce sa odňatím slobody až na tri roky alebo zákazom činnosti, alebo peňažným trestom.
 
 (2) Rovnako ako v odseku 1 sa potresce, kto ako zamestnanec, člen, zástupca alebo iná osoba oprávnená konať za toho, kto poistné plnenie poskytuje, napomáha získať poistné plnenie tomu, o kom vie, že nespĺňa podmienky určené na jeho poskytnutie.
 

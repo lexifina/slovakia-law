@@ -4,7 +4,7 @@
 
 (1) Kto pre iného organizuje nedovolené prekročenie štátnej hranice Slovenskej republiky alebo inému umožní alebo pomáha nedovolene prekročiť štátnu hranicu Slovenskej republiky, potresce sa odňatím slobody na jeden rok až päť rokov alebo peňažným trestom.
 
-(2) Odňatím slobody na dva roky až osem rokov sa páchateľ potresce, ak spácha čin uvedený v odseku 1
+(2) Odňatím slobody na tri roky až osem rokov sa páchateľ potresce, ak spácha čin uvedený v odseku 1
 
 - a) ako člen organizovanej skupiny, alebo
 
@@ -12,7 +12,7 @@
 
 (3) Rovnako ako v odseku 2 sa páchateľ potresce, ak získa činom uvedeným v odseku 1 pre seba alebo iného väčší prospech.
 
-(4) Odňatím slobody na tri roky až desať rokov sa páchateľ potresce, ak činom uvedeným v odseku 1
+(4) Odňatím slobody na päť rokov až dvanásť rokov sa páchateľ potresce, ak činom uvedeným v odseku 1
 
 - a) spôsobí ťažkú ujmu na zdraví, alebo
 

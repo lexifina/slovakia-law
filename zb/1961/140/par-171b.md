@@ -2,7 +2,7 @@
 
 (1) Kto prekročí štátnu hranicu za použitia násilia alebo hrozby bezprostredného násilia, potresce sa odňatím slobody na jeden rok až päť rokov alebo prepadnutím majetku.
 
-(2) Odňatím slobody na tri roky až desať rokov alebo prepadnutím majetku sa páchateľ potresce, ak
+(2) Odňatím slobody na päť rokov až dvanásť rokov alebo prepadnutím majetku sa páchateľ potresce, ak
 
 - a) čin uvedený v odseku 1 zorganizuje,
 

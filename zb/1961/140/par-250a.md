@@ -1,6 +1,6 @@
 # § 250a Úverový podvod
 
-(1) Kto vyláka od iného úver alebo záruku na úver tým, že ho uvedie do omylu v otázke splnenia podmienok na poskytnutie úveru alebo na splácanie úveru, a tak mu spôsobí škodu nie malú alebo získa pre seba prospech nie malý, potresce sa odňatím slobody až na tri roky alebo zákazom činnosti, alebo peňažným trestom.
+(1) Kto vyláka od iného úver alebo záruku na úver tým, že ho uvedie do omylu v otázke splnenia podmienok na poskytnutie úveru alebo na splácanie úveru, a tak mu spôsobí škodu nie nepatrnú alebo získa pre seba prospech nie nepatrný, potresce sa odňatím slobody až na tri roky alebo zákazom činnosti, alebo peňažným trestom.
 
 (2) Rovnako ako v odseku 1 sa potresce, kto ako zamestnanec, člen, zástupca alebo iná osoba oprávnená konať za toho, kto úver poskytuje, umožní získať úver tomu, o kom vie, že nespĺňa podmienky určené na jeho poskytnutie.
 
