@@ -1,0 +1,3 @@
+Minister:
+
+Šimko v. r.
