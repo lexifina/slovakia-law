@@ -1,3 +1,0 @@
-Minister:
-
-Kahuda v. r.
