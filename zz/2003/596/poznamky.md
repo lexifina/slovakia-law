@@ -96,6 +96,8 @@
 
 - 41) § 3a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
+- 41a) Napríklad zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
+
 - 42) Zákon č. 152/1998 Z. z.
 
 - 43) Zákon č. 85/1990 Zb. v znení neskorších predpisov.
