@@ -13,3 +13,9 @@
 - 7) Zákon SNR č. 254/1991 Zb.
 
 - 8) Zákon SNR č. 255/1991 Zb.
+
+- 9) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- 10) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+
+- 11) § 100 a nasl. Zákonníka práce.
