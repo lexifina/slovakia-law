@@ -1,0 +1,3 @@
+# Článok 2
+
+Toto nariadenie nadobúda účinnosť 1. septembrom 1966.
