@@ -24,6 +24,8 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 
 - Pracovnoprávne vzťahy zamestnancov cirkví a náboženských spoločností, ktorí vykonávajú duchovenskú činnosť, sa spravujú týmto zákonom, ak tento zákon, osobitný predpis, medzinárodná zmluva, zmluva uzatvorená medzi Slovenskou republikou a cirkvami a náboženskými spoločnosťami alebo vnútorné predpisy cirkví a náboženských spoločností neustanovujú inak.“.
 
+- 6. V § 5 ods. 2 úvodná veta znie: „Pracovnoprávne vzťahy zamestnancov, ktorých zamestnávatelia vysielajú na výkon prác k inému zamestnávateľovi z územia členského štátu Európskej únie na územie Slovenskej republiky, sa spravujú týmto zákonom, osobitnými predpismi alebo príslušnou kolektívnou zmluvou, ktoré upravujú“.
+
 - 7. V § 7 ods. 3 sa slová „ktorý je štatutárnym orgánom“ nahrádzajú slovami „ktorý je aj štatutárnym orgánom alebo členom štatutárneho orgánu“.
 
 - 8. V § 7 ods. 4 sa slová „plnenie svojich úloh“ nahrádzajú slovami „prevažujúci predmet činnosti“.
