@@ -1,3 +1,0 @@
-# Čl. III
-
-Tento zákon nadobúda účinnosť dňom vyhlásenia; vykoná ho Predsedníctvo Slovenskej národnej rady.
