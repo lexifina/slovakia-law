@@ -17,3 +17,5 @@
 - ***) Vyhláška Štátnej komisie pre financie, ceny a mzdy č. 96/1967 Zb. o náhradách cestovných, sťahovacích a iných výdavkov.
 
 - *) Vyhláška Ministerstva vnútra č. 62/1953 Ú. l. (č. 94/1953 Ú. v.) o zásadách pre vyraďovanie (škartáciu) písomností a škartačné smernice príslušných ústredných orgánov, smernice Ministerstva vnútra o ukladaní a vyraďovaní (škartácii) písomností výkonných orgánov národných výborov zo 4. januára 1959 č. NV/3-10 262/1958 (por. č. 4/1959 Zb. inštr. pre výk. org. NV, na Slovensku smernicami Povereníctva vnútra por. č. 24/1959 Zb. inštr.).
+
+- 1) Zmena názvu funkcie vyplýva z opatrenia Federálneho ministerstva práce a sociálnych vecí z 31. 12. 1975 č. II/3-1998/75-7201 k úprave celoštátnych predpisov pre uplatnenie racionalizácie práce a mzdových sústav.
