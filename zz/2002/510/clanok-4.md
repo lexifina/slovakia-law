@@ -60,7 +60,11 @@ Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady 
 
 - d)
 
-- práva na zábezpeku, ktorú účastník platobného systému alebo účastník systému vyrovnania poskytol v súvislosti s jeho účasťou v tomto platobnom systéme alebo systéme vyrovnania; nedotknuté zostávajú aj práva na uplatnenie a výkon nárokov z takejto zábezpeky, a to kedykoľvek v priebehu konkurzu za predpokladu, že budú splnené podmienky dohodnuté na uplatnenie a výkon nárokov z poskytnutej zábezpeky.“.
+- práva na zábezpeku, ktorú účastník platobného systému alebo účastník systému vyrovnania poskytol v súvislosti s jeho účasťou v tomto platobnom systéme alebo systéme vyrovnania; nedotknuté zostávajú aj práva na uplatnenie a výkon nárokov z takejto zábezpeky, a to kedykoľvek v priebehu konkurzu za predpokladu, že budú splnené podmienky dohodnuté na uplatnenie a výkon nárokov z poskytnutej zábezpeky.
+
+- (7)
+
+- Vyhlásením konkurzu nie sú dotknuté práva na zábezpeku, ktorá je poskytnutá na zabezpečenie práv Európskej centrálnej banky a práv centrálnej banky niektorého z členských štátov Európskych spoločenstiev a Európskej únie, alebo práv centrálnej banky niektorého z ďalších štátov Európskeho hospodárskeho priestoru; nedotknuté zostávajú aj práva na uplatnenie a výkon nárokov z takejto zábezpeky, a to kedykoľvek v priebehu konkurzu za predpokladu, že budú splnené podmienky dohodnuté na uplatnenie a výkon nárokov z poskytnutej zábezpeky.“.
 
 - Doterajšie odseky 6 a 7 sa označujú ako odseky 8 a 9.
 

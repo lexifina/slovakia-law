@@ -48,7 +48,9 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - (16)
 
-- Úrad poskytuje krajským súdom a Najvyššiemu súdu Slovenskej republiky zoznam centrálnych depozitárov a ďalších účastníkov systémov vyrovnania.“.
+- Úrad poskytuje krajským súdom a Najvyššiemu súdu Slovenskej republiky zoznam centrálnych depozitárov a ďalších účastníkov systémov vyrovnania.
+
+- Úrad informuje komisiu o centrálnych depozitároch a ďalších účastníkoch systémov vyrovnania v rozsahu ustanovenom právne záväznými aktmi Európskych spoločenstiev a Európskej únie upravujúcimi platobné systémy a systémy vyrovnania obchodov s cennými papiermi.“.
 
 - 14. V § 102 ods. 4 sa slová „písm. a) až f)" nahrádzajú slovami „písm. b) až f)".
 
@@ -95,6 +97,10 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - (7)
 
 - Ak je centrálnemu depozitárovi doručené oznámenie súdu o vyhlásení konkurzu na majetok alebo o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku účastníka systému vyrovnania, ktorý je prevádzkovaný podľa tohto zákona, centrálny depozitár je povinný túto skutočnosť bez zbytočného odkladu oznámiť všetkým ostatným účastníkom tohto systému vyrovnania.
+
+- (8)
+
+- Povinnosť podľa odseku 7 má centrálny depozitár aj v prípade doručenia oznámenia o vyhlásení konkurzu na majetok alebo o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku účastníka systému vyrovnania, ktorý je prevádzkovaný podľa tohto zákona, od orgánov členského štátu, ktoré na to boli určené v súlade s právom daného štátu.
 
 - (9)
 
