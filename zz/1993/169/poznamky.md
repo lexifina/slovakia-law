@@ -1,5 +1,7 @@
 - 1) Príloha č. 1 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení nariadenia vlády Slovenskej republiky č. 636/1992 Zb. a nariadenia vlády Slovenskej republiky č. 72/1993 Z. z.
 
+- 1a) Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
+
 - 2) Napr. vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 79/1981 Zb. o zdravotníckych pracovníkoch a iných odborných pracovníkoch v zdravotníctve.
 
 - 3) § 9 ods. 1 a 3 Zákonníka práce.
@@ -12,6 +14,10 @@
 
 - 7) Zákon č. 119/1992 Zb. o cestovných náhradách.
 
+- 7a) § 124 a nasl. Zákonníka práce.
+
 - 8) § 17 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
+
+- 9) § 110b Zákonníka práce.
 
 - 9) Vyhláška ministerstiev zdravotníctva a zahraničných veci č. 75/1967 Zb. o dodatkovej dovolenke pracovníkov, ktorí vykonávajú zdraviu škodlivé alebo zvlášť obťažné práce, a o náhrade za stratu na zárobku po skončení pracovnej neschopnosti pri niektorých chorobách z povolania v znení neskorších predpisov.
