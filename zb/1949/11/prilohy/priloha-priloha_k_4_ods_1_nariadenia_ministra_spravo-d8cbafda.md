@@ -470,8 +470,6 @@ Príloha k § 4, ods. 1 nariadenia ministra spravodlivosti č. 11/1949 Sb.
 
 - | Hnúšťa | Hnúšťa
 
-- | Jesenské | Jesenské
-
 - | Kremnica | Kremnica
 
 - | Krupina | Krupina
@@ -489,6 +487,10 @@ Príloha k § 4, ods. 1 nariadenia ministra spravodlivosti č. 11/1949 Sb.
 - | Šahy | Šahy
 
 - | Zvolen | Zvolen
+
+- | Fiľakovo | Fiľakovo
+
+- | Poltár | Poltár
 
 - Žilina | Žilina | Žilina
 
