@@ -38,6 +38,10 @@ Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení 
 
 - 10. V § 5 ods. 2 úvodnej vete sa slová „vo vodnom hospodárstve“ nahrádzajú slovami „v poštových službách“ a v písmene a) sa slovo „cien,“ nahrádza slovami „maximálnych alebo pevných cien a určenie“.
 
+- 11. V § 6 ods. 1 sa slová „maximálnej, pevnej alebo minimálnej“ nahrádzajú slovami „maximálnej alebo pevnej“.
+
+- 12. V § 6 sa vypúšťa odsek 4.
+
 - 13. V § 6 sa vypúšťajú odseky 5 a 6.
 
 - 14. § 7, 8, 9 a 10 sa vypúšťajú.
@@ -74,6 +78,8 @@ Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení 
 
 - Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.“.
 
+- 18. V § 17 ods. 1 písm. a) sa vypúšťajú slová „alebo za nižšiu ako minimálnu cenu“.
+
 - 19. V § 17 ods. 1 písmeno c) znie:
 
 - „c)
@@ -83,6 +89,8 @@ Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení 
 - 20. V § 17 ods. 1 sa vypúšťajú písmená d) a e).
 
   - Doterajšie písmeno f) sa označuje ako písmeno d).
+
+- 21. V § 17 ods. 2 sa vypúšťajú slová „za nižšiu ako minimálnu cenu alebo“ a slová „ods. 6“.
 
 - 22. V § 17 ods. 3 sa slová „podľa § 5 až 9“ nahrádzajú slovami „podľa § 5 a 6“.
 
