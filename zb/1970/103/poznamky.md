@@ -1,1 +1,0 @@
-- *) Pôvodné označenie odboru 532 sa pozmeňuje na 536.
