@@ -86,7 +86,7 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
       - Čl. 10. Poznávacia značka a vlajka
 
-        - (1) Všetky lode musia byť označené číslom alebo menom lode a názvom organizácie, ktorej lode patria, ako i menom prístavu, kde sú zapísané.
+        - (1) Všetky lode musia byť označené číslom alebo menom lode a názvom organizácie, ktorej lode patria, ako i menom prístavu, kde sú zapísané. Ak je v postrkovom vleku vlečná loď zakrytá vlečenými loďmi, musí byť číslo alebo meno lode a názov organizácie vyznačené na štítoch dostatočne veľkých, umiestených na bočných stranách veliteľského môstika a z oboch bokov dobre viditeľných.
 
         - (2) Loď je povinná niesť od východu do západu slnca na korme vlajku štátu, ktorému náleží.
 
@@ -224,7 +224,7 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
           - b) v noci - dvoma červenými smerovými svetlami, viditeľnými len so strany, s ktorej plavidlo vchádza do otvoru, a umiestenými taktiež s prihliadnutím na os plavebnej dráhy.
 
-        - (3) Okrem toho označia sa v noci piliere mosta, medzi ktorými je plavebný otvor, podľa smeru plavby lode pravý zeleným a ľavý červeným svetlom.
+        - (3) Okrem toho označia sa v noci piliere mosta, medzi ktorými je plavebný otvor, podľa smeru prúdu pravý pilier zeleným, ľavý červeným svetlom.
 
         - (4) Loď musí skôr než sa priblíži k lodnému mostu, oznámiť svoje priblíženie jedným dlhým zvukovým signálom píšťaly alebo sirény, zmierniť rýchlosť a upraviť ju tak, aby nevplávala do mostného otvoru skôr, než bude úplne voľný.
 
@@ -286,7 +286,9 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
             - b) dva krátke zvuky = idem naľavo,
 
-            - c) tri krátke zvuky = môj stroj ide zpät, lebo mám v úmysle sa obrátiť.
+            - c) tri krátke zvuky = mám v úmysle obrátiť,
+
+            - d) štyri krátke zvuky = môj stroj ide naspäť.
 
           - (2) Loď, ktorá dala jeden zo zvukových signálov uvedených v odseku 1, musí vykonať manéver predpísaný oným signálom.
 
@@ -298,7 +300,7 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
       - Čl. 29. Loď plávajúca po prúde volí smer
 
-        - (1) Pri stretnutí lodí náleží právo voliť smer lodi, ktorá pláva po prúde.
+        - (1) Pri stretnutí lodí náleží právo voliť smer lodi, ktorá pláva po prúde. Ak nemôže loď plávajúca po prúde pre kľukatosť riečišťa alebo pre iné dôvody určiť, z ktorej strany je vhodné minúť loď plávajúcu oproti, musí dať včas (najmenej jeden a pol kilometra) dva dlhé za sebou idúce zvukové signále; v tomto prípade má právo voliť smer loď, ktorá pláva proti prúdu.
 
         - (2) Ak sa približujú k obťažnému úseku súčasne dve lode, náleží právo, preplávať ako prvá, lodi, ktorá pláva po prúde.
 
@@ -310,7 +312,9 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
       - Čl. 31. Vyhýbanie na obťažných úsekoch rieky
 
-        - Na obťažných úsekoch rieky, kde miestne podmienky vyžadujú opatrnosť, musia lode plávajúce proti prúdu upraviť svoju plavbu tak, aby k stretnutiu alebo vyhnutiu s loďami plávajúcimi po prúde došlo na mieste na ten účel vhodnom.
+        - (1) Na obťažných úsekoch rieky, kde miestne podmienky vyžadujú opatrnosť, musia lode plávajúce proti prúdu upraviť svoju plavbu tak, aby k stretnutiu alebo vyhnutiu s loďami plávajúcimi po prúde došlo na mieste na ten účel vhodnom.
+
+        - (2) Lode plávajúce proti prúdu musia, ak je to potrebné, pri vyhýbaní zamieriť k okraju plavebnej dráhy, kde neprekážajú lodiam plávajúcim po prúde alebo kde ich neohrozujú.
 
       - Čl. 32.
 
@@ -334,7 +338,7 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
       - Čl. 36. Predchádzanie pred vchodom do úžiny
 
-        - Ak je jednotlive plávajúca loď o malej rýchlosti alebo vlek dohnaný bezprostredne pred vchodom do obťažného úseku inou jednotlive plávajúcou loďou, musí sa dať predísť skôr než vpláva do tohto úseku, ak to žiada táto loď piatimi dlhými za sebou idúcimi zvukovými signálmi. Obidve lode sú v tomto prípade povinné spravovať sa ustanoveniami čl. 34.
+        - Ak je jednotlive plávajúca loď o malej rýchlosti alebo vlek dohnaný bezprostredne pred vchodom do obťažného úseku inou jednotlive plávajúcou loďou, musí sa dať predísť skôr než vpláva do tohto úseku, ak to žiada táto loď piatimi dlhými za sebou idúcimi zvukovými signálmi. Obidve lode sú v tomto prípade povinné spravovať sa ustanoveniami čl. 34. Predchádzanie lodí bezprostredne pred vchodom do úžiny je pri plavbe po prúde zakázané.
 
       - Čl. 37. Uvoľňovanie cesty malými loďami
 
@@ -396,7 +400,9 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
       - (2) Každý záblesk musí trvať asi jednu sekundu; záblesky musia byť od seba oddelené úplným zatemnením toho istého trvania. Záblesky musia byť viditeľné na vzdialenosť najmenej 1,5 km a iba v smere lode, s ktorou dochádza k stretnutiu.
 
-      - (3) Ak boly tieto denné a nočné signále raz dané, musia byť udržované bez prerušenia, dokiaľ stretnutie lodí neskončilo.
+      - (3) Postrkový vlek dáva za plavby optické signále podľa odseku 1 a 2 z pravého boku lode, ktorá je na pravej strane vleku a nesie zelené bočné svetlo.
+
+      - (4) Ak boly tieto denné a nočné signále raz dané, musia byť udržované bez prerušenia, dokiaľ stretnutie lodí neskončilo.
 
     - Čl. 44. Svetlá plávajúcich samohybných lodí
 
@@ -452,9 +458,9 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
       - (5) Remorkér musí okrem toho po dobu vlečenia niesť za svojim komínom alebo na svojom kormovom stožiari jedno malé biele svetlo, podľa ktorého sa spravujú vlečené lode; sila tohto svetla musí byť však stlmená matným sklom a svetlo nesmie byť viditeľné z prednej časti remorkéra.
 
-    - Čl. 49. Poznávacie znaky remorkérov vo dne
+    - Čl. 49. Poznávacie znaky remorkéra a postrkového vleku vo dne
 
-      - Remorkér musí niesť pri vlečení vo dne na vrcholu stožiara modrú vlajku pravouhlého tvaru.
+      - Remorkér musí niesť pri vlečení vo dne na vrchole stožiara modrú vlajku pravouhlého tvaru vo výške najmenej 6 m nad palubou; postrkový vlek nesie túto vlajku v rovnakej výške na čele najprednejšej lode na vrchole prenosného stožiara.
 
     - Čl. 50. Modré svetlo pri vlečení
 
@@ -465,6 +471,32 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
       - (3) Ak sú lode vlečené v závese za sebou (v línii) alebo vedľa seba (v bočnom soskupení), nesú modré svetlo, i keď remorkér vlečie súčasne lode upevnené po obidvoch svojich bokoch, len tie lode, ktoré sú na konci každej skupiny vleku.
 
       - (4) Ak pláva na konci vleku rada bočne soskupených lodí, nesú modré svetlo len lode, ktoré sú na vonkajších stranách radu vleku.
+
+    - Čl. 50a. Svetlá postrkového vleku pri plavbe
+
+      - (1) Plávajúci postrkový vlek musí niesť
+
+        - a) v prednej časti vleku na prenosnom stožiari v rovnakej vzdialenosti medzi zeleným a červeným bočným svetlom vo výške najmenej 6 m nad vodoryskou najvyššie prípustného ponoru jedno jasné biele svetlo osvetľujúce neprerušovanou žiarou obzorový výsek 225<sup>o</sup>; svetlo musí byť umiestené tak, aby osvetľovalo po 112<sup>o</sup> 30´ na každú stranu vleku, t. j. merané od čela až do 22<sup>o</sup> 30´ za čiaru kolmú na pozdĺžnu osu vleku z každej strany; toto svetlo musí byť viditeľné na vzdialenosť najmenej 4 km;
+
+        - b) vo vzdialenosti 1 až 2 m zvisle pod jasným bielym svetlom ešte jedno jasné biele svetlo rovnakej konštrukcie, ako je uvedené pod písmenom a);
+
+        - c) na vrchole prenosného stožiara vo vzdialenosti 1 až 2 m pod jasným bielym svetlom zelené svetlo osvetľujúce neprerušovanou žiarou obzorový výsek 225<sup>o</sup>; svetlo musí byť umiestené tak, aby osvetľovalo po 112<sup>o</sup> 30´ na každú stranu vleku, t. j. merané od čela až do 22<sup>o</sup> 30´ za čiaru kolmú na pozdĺžnu osu vleku z každej strany; toto svetlo musí byť viditeľné na vzdialenosť najmenej 3 km; je rozoznávacím znakom pohybu vleku lodí postrkom;
+
+        - d) v najširšej časti vleku na pravom boku (pravej strane) vleku zelené svetlo osvetľujúce neprerušovanou žiarou obzorový výsek 112<sup>o</sup> 30´ a viditeľné v smere od čela na pravú stranu až do 22<sup>o</sup> 30´ za čiaru kolmú na pozdĺžnu osu vleku; toto svetlo musí byť viditeľné na vzdialenosť najmenej 2 km;
+
+        - e) v najširšej časti vleku na ľavom boku (ľavej strane) vleku červené svetlo osvetľujúce neprerušovanou žiarou obzorový výsek 112<sup>o</sup> 30´ a viditeľné v smere od čela na ľavú stranu až do 22<sup>o</sup> 30´ za čiaru kolmú na pozdĺžnu osu vleku; toto svetlo musí byť viditeľné na vzdialenosť najmenej 2 km;
+
+        - f) na korme každej z posledných lodí vlekovej zostavy, ktoré zaujímajú krajné miesto vo vleku, modré svetlo osvetľujúce neprerušovanou žiarou obzorový výsek 135<sup>o</sup>, t. j. po 67<sup>o</sup> 30´ na každú stranu pozdĺžnej osi lode priamo dozadu; toto svetlo musí byť viditeľné na vzdialenosť najmenej 500 m.
+
+      - (2) Zelené a červené svetlo uvedené v odseku 1 písm. d) a e) musia mať z lodnej strany tienidlá, ktoré presahujú svetlá najmenej o 90 cm smerom dopredu tak, aby žiadne z týchto svetiel nemohlo byť vidno z druhej strany čela lode.
+
+      - (3) Kormové modré svetlo musí mať z lodnej strany tienidlo takého rozsahu, aby nebolo viditeľné z čela.
+
+      - (4) Ak korma postrkujúcej vlečnej lode prečnieva kormy krajných posledných lodí vleku, musí niesť na korme tiež modré svetlo rovnakej konštrukcie, ako je ustanovené v odseku 1 písm. f).
+
+      - (5) Výškový rozdiel medzi bočným zeleným a červeným svetlom [odsek 1 písm. d) a e)] a spodným jasným bielym svetlom [odsek 1 písm. b)] musí byť najmenej 3 m.
+
+      - (6) Vlečenie jednej alebo viacerých lodí pripojených bokom k vlečnej lodi sa nepovažuje za vlečenie postrkom; vlečná loď nesie v tomto prípade svetlá podľa čl. 44 a 48.
 
     - Čl. 51. Optické signále plávajúcich veslových lodí
 
