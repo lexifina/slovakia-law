@@ -1,3 +1,0 @@
-Príloha č. 8 k vyhláške č. 125/2000 Z. z.
-
-- (VZOR) POTVRDENIE O VYKONANÍ OPRAVY A PLNENIA PRENOSNÉHO HASIACEHO PRÍSTROJA [Obrázok 08](../assets/b0cc4789dd5042ec368cfd57dbc8995e45e7b6d7121aac15d65ea9ebde5e1937.pdf)
