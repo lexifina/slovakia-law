@@ -2,8 +2,6 @@
 
 - 2) § 22 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
-- 2a) § 21 ods. 2 Obchodného zákonníka.
-
 - 2b) § 10 ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 3) § 2 ods. 1 písm. e) zákona č. 634/1992 Zb. o ochrane spotrebiteľa v znení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. a zákona č. 137/1998 Z. z.
@@ -22,7 +20,7 @@
 
 - 9) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení zákona Národnej rady Slovenskej republiky č. 290/1996 Z. z., zákon č. 90/1998 Z. z.
 
-- 9a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z.
+- 9a) Napríklad nariadenie vlády Slovenskej republiky č. 391/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na strojové zariadenia v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 392/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 393/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na spotrebiče plynných palív v znení nariadenia vlády Slovenskej republiky č. 148/2002 Z. z., nariadenie vlády Slovenskej republiky č. 394/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na výrobky z hľadiska elektromagnetickej kompatibility v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 395/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na hračky.
 
 - 10) § 591 až 600 Obchodného zákonníka.
 
