@@ -30,12 +30,12 @@
 
 - 13) § 9 vyhlášky Ministerstva školstva Slovenskej socialistickej republiky, Ministerstva zdravotníctva Slovenskej socialistickej republiky a Ministerstva práce a sociálnych vecí Slovenskej socialistickej republiky č. 88/1984 Zb. o poskytovaní štipendií a hmotného zabezpečenia žiakom gymnázií a stredných odborných škôl.
 
-- 14) § 3 a 4 vyhlášky Ministerstva školstva, mládeže a telesnej výchovy Slovenskej republiky č. 326/1990 Zb. o poskytovaní štipendií študentom vysokých škôl.
+- 14) § 96 a 97 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov a § 3 vyhlášky Ministerstva školstva Slovenskej socialistickej republiky, Ministerstva zdravotníctva Slovenskej socialistickej republiky a Ministerstva práce a sociálnych vecí Slovenskej socialistickej republiky č. 88/1984 Zb.
 
 - 15) § 3 vyhlášky Ministerstva školstva a vedy Slovenskej republiky č. 245/1993 Z. z. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, špeciálnych stredných odborných učilíšť, odborných učilíšť a učilíšť.
 
 - 16) § 6 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
-- 17) Napríklad § 11 písm. b) piaty a šiesty bod zákona č. 54/1956 Zb. v znení neskorších predpisov, § 11 ods. 2 písm. c) a d) zákona č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov, § 7 písm. c) druhý a tretí bod zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+- 17) Napríklad zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony, zákon č. 238/1998 Z. z. o príspevku na pohreb, § 11 ods. 1 písm. a) zákona č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti, § 2 ods. 3 zákona č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
 - 17a) § 90b ods. 4 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 556/2001 Z. z.
