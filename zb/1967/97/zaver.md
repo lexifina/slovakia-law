@@ -1,0 +1,3 @@
+Predseda:
+
+Pastyřík v. r.
