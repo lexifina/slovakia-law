@@ -522,7 +522,7 @@
 
       - § 3. Spěšninu doprovází spěšninový lístek, do kterého jest odesilatel povinen zapsati:
 
-        - a) jméno odesílací stanice a stanice určení, podle potřeby i přepravní cestu;
+        - a) jméno stanice určení a podle potřeby i přepravní cestu;
 
         - b) adresu příjemce a odesilatele;
 
@@ -538,7 +538,7 @@
 
       - § 7. Tarif stanoví podmínky pro výpočet a placení přepravného (dovozného a vedlejších poplatků), jakož i zda a za kterých podmínek jest odesilateli dovoleno uložiti na spěšninu dobírku. Poskytnutí zálohy může železnice odepříti.
 
-      - § 8. Tarif stanoví, zda a za jakých podmínek má právo odesilatel pozměniti přepravní smlouvu. Toto právo zaniká, i má-li odesilatel přijímací list spěšninový, jakmile je odevzdán spěšninový lístek příjemci, nebo jakmile příjemce uplatní své nároky z přepravní smlouvy podle čl. 42, § 4.
+      - § 8. Tarif stanoví, zda a za jakých podmínek má právo odesilatel pozměniti přepravní smlouvu. Toto právo zaniká, i má-li odesilatel druhopis spěšninového lístku, jakmile je odevzdán spěšninový lístek příjemci, nebo jakmile příjemce uplatní své nároky z přepravní smlouvy podle čl. 42, § 4.
 
     - Čl. 41. Přeprava spěšnin.
 
@@ -660,7 +660,7 @@
 
         - § 3. Odesilatel zapíše do nákladního listu též (viz i § 4):
 
-          - a) vlastnickou značku, řadu a číslo vozu, nakládá-li zásilku;
+          - a) vlastnickou značku, řadu a číslo vozu, vlastní váhu vozu, ložnou váhu nebo plochu vozu a údaj, zda vůz jest otevřený či krytý - nakládá-li zásilku;
 
           - b) poznámku o zboží neb obalu podle čl. 56;
 
@@ -680,7 +680,7 @@
 
           - k) tarify nebo přepravní cestu (čl. 54, §§ 2 a 3, čl. 55, § 10 a čl. 96, § 1);
 
-          - l) návrh na přepravu ve vozech krytých nebo na otevřených vozech (čl. 59, § 2);
+          - l) zrušené od 1. 1. 1948;
 
           - m) stanici nebo místo, kde má býti vykonáno řízení celní, berní, finanční, policejní nebo řízení jiných úřadů správních;
 
@@ -728,7 +728,7 @@
 
         - § 3. U kusových zásilek, které má nakládati železnice (čl. 58, § 1), je železnice, přijímajíc je, povinna pro účely přepravní smlouvy zjistiti v odesílací stanici váhu. Tarif určuje, zda železnice počítá za to poplatek a jaký. Zapsal-li odesilatel váhu do nákladního listu a nenavrhl v nákladním listu zjištění váhy, může odesílací stanice upustiti od zjištění váhy nebo může kusy téhož druhu zvážiti zkusmo.
 
-        - § 4. U všech ostatních zásilek je železnice povinna pro účely přepravní smlouvy zjistiti váhu, není-li tato váha zapsána v nákladním listu nebo navrhl-li odesilatel v nákladním listu zjistiti váhu a dostačují-li k tomu váhy. Za toto zjištění může železnice počítati tarifní poplatek. Zjištění váhy se koná v odesílací stanici, a jen nedovolovaly-li by to provozní poměry, podle volby železnice buď na cestě, nebo ve stanici určení.
+        - § 4. U všech ostatních zásilek je železnice povinna pro účely přepravní smlouvy zjistiti váhu, není-li tato váha zapsána v nákladním listu nebo navrhl-li odesilatel v nákladním listu zjistiti váhu a dostačují-li k tomu váhy, nebo dovolují-li to provozní poměry, a to v odesílací stanici, nebo alespoň podle volby železnice buď na cestě nebo ve stanici určení. Za toto zjištění může železnice počítati tarifní poplatek.
 
         - § 5. Volba vah a způsobu zjištění váhy přísluší železnici.
 
@@ -802,7 +802,7 @@
 
       - Čl. 52. Zatížení vozu. Přetěž.
 
-        - § 1. Pro zatížení vozu je rozhodná ložná váha na něm označená. Zatížiti vůz až do nosnosti na něm označené je dovoleno jen tehdy, není-li třeba obávati se podle přirozené povahy zboží, že zatížení vlivem povětrnosti za přepravy překročí nosnost. Má-li vůz jen jeden nápis, je jím označena ložná váha, kterou lze za týchž podmínek překročiti až do 5 %. Zatížení přesahující nosnost - přetížení - není dovoleno. Bylo-li přetížení vozu zjištěno v odesílací stanici nebo v některé stanici na cestě, musí býti přetěž z vozu vyložena.
+        - § 1. Pro zatížení vozu je rozhodná ložná váha na něm označená. Zatížiti vůz až do nosnosti na něm označené je dovoleno jen tehdy, není-li třeba obávati se podle přirozené povahy zboží, že zatížení vlivem povětrnosti za přepravy překročí nosnost. Má-li vůz jen jeden nápis, je jím označena ložná váha, kterou lze za týchž podmínek překročiti až do 5 %. Zatížení přesahující nosnost - přetížení - není dovoleno, pokud železnice na přechodnou dobu v zájmu provozu, avšak bez újmy jeho bezpečnosti, nestanoví se schválením dozorčího úřadu jinak. Bylo-li přetížení vozu zjištěno v odesílací stanici nebo v některé stanici na cestě, musí býti přetěž z vozu vyložena.
 
         - § 2. Bylo-li zjištěno přetížení vozu v odesílací stanici, může železnice žádati, aby odesilatel přetěž z vozu vyložil. Neučiní-li tak odesilatel ihned nebo bylo-li přetížení vozu zjištěno v některé stanici na cestě, železnice přetěž na odesilatelovo nebezpečí vyloží. Zároveň vyzve odesilatele - podle své volby - buď přímo nebo prostřednictvím odesílací stanice, aby navrhl, jak jednati s přetěží. Výdaje železnice váznou na zásilce. Neučiní-li odesilatel proveditelný návrh ve lhůtě stanovené tarifem, je železnice oprávněna jednati podle čl. 74, §§ 6, 7 a 11. Za vykládání, uložení a třebas i přikládání přetěže a za zdržení vozu může železnice vybrati poplatky podle tarifu. Za přetěž se počítá přepravné podle ustanovení tarifu z odesílací stanice až do stanice, kde byla přetěž vyložena. Přirážka vázne na zásilce, která zůstala ve voze. Navrhl-li odesilatel, aby byla přetěž vrácena do odesílací stanice nebo zaslána dále, jedná se s ní jako se samostatnou zásilkou. Za provádění návrhů může železnice vybírati poplatek podle tarifu.
 
@@ -942,6 +942,8 @@
 
         - § 5. Nejsou-li tarifem ustanoveny výjimky, jest odesilatel povinen u kusových zásilek opatřiti dostatečně trvanlivým způsobem a zřetelně každý kus znamením, t. j. značkou a číslem, které vylučují jakoukoli záměnu a shodují se úplně se zápisy v nákladním listu [čl. 48, § 2 c)], nebo místo nich adresou příjemcovou. Viz i přílohu A. Mimo to jest odesilatel povinen dostatečně trvanlivým způsobem opatřiti každý kus názvem stanice určení, pokud tarif neustanovuje jinak. Staré nápisy a štítky, týkající se dřívější přepravy, je povinen odesilatel odstraniti nebo zřetelně přeškrtnouti.
 
+        - § 5a. U vozových zásilek v krytých vozech jest odesilatel povinen připevniti na vnitřní stěnu vozů u obou dveří lístky s údaji o zásilce, zvláště s údajem adresy příjemce zásilky, obsahu a váhy.
+
         - § 6. Železnice může žádati, aby bylo drobné zboží kusové stejného druhu (drobné výrobky železné nebo pod.), které nelze přijímati ani nakládati bez značné ztráty času, svázáno nebo baleno ve větší jednotky.
 
         - § 7. Podmínky pro balení a nakládání předmětů přílohy A ustanovuje tato příloha. Železnice může též v tarifu stanoviti podmínky pro balení a nakládání zboží, které sice nenáleží k předmětům přílohy A, může však způsobiti svými vlastnostmi za přepravy závady.
@@ -984,7 +986,7 @@
 
         - § 1. Pokud tento řád nemá zvláštních předpisů, ustanovuje tarif, zdali se přepravuje zboží ve vozech krytých nebo otevřených - podle potřeby přikryté plachtou - nebo ve vozech zvlášť zařízených a za jakých podmínek.
 
-        - § 2. Nebrání-li tomu předpisy tohoto řádu, předpisy celní, berní, finanční, policejní nebo předpisy jiných úřadů správních, předpisy o užívání vozů nebo provozní důvody, jest odesilatel oprávněn navrhnouti v nákladním listu, aby zboží
+        - § 2. Nebrání-li tomu předpisy tohoto řádu, předpisy celní, berní, finanční, policejní nebo předpisy jiných úřadů správních, předpisy o užívání vozů nebo provozní důvody, jest odesilatel oprávněn navrhnouti, aby zboží
 
           - a) pro které určuje tarif otevřené vozy, bylo přepraveno ve vozech krytých,
 
@@ -1012,21 +1014,23 @@
 
         - § 5. Zboží, které má nakládati železnice, jakož i železniční vozidlo přepravované na vlastních kolech je povinen odesilatel odevzdati železnici na místech ustanovených železnicí buď trvale nebo případ od případu. Podej musí býti ukončen ve lhůtě, která trvá alespoň 24 hodin (lhůta prostá skladištného nebo lhůta prostá stojného), pokud pro některé zboží nebo pro některá železniční vozidla tento řád anebo tarif neustanovuje jinak (viz i § 13). Neodevzdal-li odesilatel ve lhůtě prosté skladištného všechno zboží zapsané v nákladním listu nebo ve lhůtě prosté stojného železniční vozidlo přepravované na vlastních kolech, vybere železnice po uplynutí těchto lhůt za zboží skladištné nebo za železniční vozidlo přepravované na vlastních kolech stojné.
 
-        - § 6. Zboží, které má nakládati odesilatel, jest odesilatel povinen nakládati ve stanici na místech ustanovených železnicí buď trvale nebo případ od případu. Nakládání musí býti ukončeno ve lhůtě, která trvá alespoň 24 hodin (nakládací lhůta), pokud pro některé zboží tento řád anebo tarif neustanovuje jinak (viz i § 13). Nenaložil-li odesilatel v nakládací lhůtě všechno zboží zapsané v nákladním listu, vybere železnice po uplynutí této lhůty zdržné. Uplynula-li nakládací lhůta teprve po 14. hodině v den, který přímo předchází neděli, zákonný svátek nebo památný den, nevybírá železnice za neděli, zákonný svátek nebo památný den zdržné; následuje-li tu však neděle a zákonný svátek nebo památný den, nebo zákonný svátek a památný den, anebo několik zákonných svátků nebo památných dnů přímo po sobě, vybírá železnice zdržné za jeden z těchto dnů. Je-li nakládací lhůta překročena o více než 24 hodin, může železnice zboží na útraty a nebezpečí odesilatelovo vyložiti a vzíti na sklad nebo odevzdati na sklad špeditérovi nebo do veřejného skladiště, při čemž odpovídá za pečlivost řádného obchodníka; učiní-li tak, podá odesilateli o tom na jeho útraty zprávu.
+        - § 6. Zboží, které má nakládati odesilatel, jest odesilatel povinen nakládati ve stanici na místech, ustanovených železnicí buď trvale nebo případ od případu. Nakládání musí býti ukončeno ve lhůtě, která se stanoví vývěskem ve stanici (nakládací lhůta), pokud pro některé zboží tento řád nebo tarif neustanovuje jinak. Nenaložil-li odesilatel v nakládací lhůtě všechno zboží zapsané v nákladním listu, vybere železnice po uplynutí této lhůty zdržné. Je-li nakládací lhůta překročena, může železnice zboží na útraty a nebezpečí odesilatelovo vyložiti a vzíti na sklad nebo odevzdati na sklad špeditérovi nebo do veřejného skladiště, při čemž odpovídá za pečlivost řádného obchodníka; učiní-li tak, podá odesilateli o tom na jeho útraty zprávu.
 
         - § 7. Železnice vybírá skladištné, stojné nebo zdržné též tehdy, jestliže odesilatel ve lhůtách uvedených v §§ 5 nebo 6 neodevzdal železnici nákladní list nebo nevrátil opravený nákladní list, který mu železnice vrátila pro nesprávnost, nepřesnost nebo neúplnost, že učinil zápisy na jiném místě než pro ně určeném anebo že nepřipojil k nákladnímu listu předepsané listiny průvodní (srovnej však čl. 57, § 1). Tytéž poplatky vybírá železnice i tehdy, jestliže odesilatel v těchto lhůtách buď nezaplatil pohledávky železnice, pokud mají býti placeny napřed, anebo nedal na ně přibližnou jistotu.
 
         - § 8. Neustanovuje-li tarif jinak, není dovoleno v neděli, o zákonných svátcích nebo o památných dnech podávati nákladní zboží. Rychlé zboží může býti podáváno, nepřekáží-li nic řízení celnímu, bernímu, finančnímu, policejnímu nebo řízení jiných úřadů správních.
 
-        - § 9. Podej a nakládání zboží jest odesilatel povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která je oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.
+        - § 9. Podej kusového zboží jest odesilatel povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která jest oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.
 
-        - § 10. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 5) a nakládací lhůta (§ 6) se staví v neděli, o zákonných svátcích nebo památných dnech, jakož i po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem.
+        - § 9a. Podej a nakládání vozových zásilek je odesilatel povinen provésti v době od 7 do 19 hodin, pokud stanice vývěskem nebo případ od případu nestanovila jinak.
+
+        - § 10. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 5) a nakládací lhůta (§ 6) se staví po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem. Lhůta prostá skladištného se staví též v neděli, o zákonných svátcích nebo památných dnech.
 
         - § 11. Železnice může v místě odesílací stanice nebo z okolních míst sama nebo povozníky přivážeti zboží na stanici za poplatek, který vyhlásí vývěskem ve stanici. Osoby, kterých při tom užije, se pokládají za zaměstnance železnice podle čl. 101, která odpovídá jako povozník. Tyto osoby jsou povinny předložiti na požádání poplatkový tarif. Odesilatelé mají na vůli buď užíti tohoto opatření, nebo si zboží přivážeti nebo dáti je přivážeti.
 
         - § 12. Pro podej zásilek může železnice zříditi pobočné výpravny.
 
-        - § 13. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného, stojného nebo nakládací lhůtu, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné, zdržné nebo poplatek za odvolání objednaného vozu. Výjimečně může železnice zkrátiti nakládací lhůtu až na 6 denních hodin, nakládá-li odesilatel do vozu, z kterého vyložil zboží pro něho došlé. Železnice může též odvolati úlevy ve výpočtu zdržného uvedené v § 6. Všechna tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
+        - § 13. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného nebo stojného, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné, zdržné nebo poplatek za odvolání objednaného vozu. Tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
 
       - Čl. 61. Zatímní úschova.
 
@@ -1142,21 +1146,23 @@
 
         - § 1. Zboží, které má vykládati železnice, jakož i železniční vozidlo přepravované na vlastních kolech má příjemce odebrati ve stanici určení na místech ustanovených železnicí buď trvale nebo případ od případu v odběrní lhůtě, která trvá alespoň 24 hodin (lhůta prostá skladištného nebo lhůta prostá stojného), pokud pro některé zboží nebo pro některá železniční vozidla tento řád anebo tarif neustanovuje jinak (viz i § 9).
 
-        - § 2. Zboží, které má vykládati příjemce, má příjemce odebrati a vykládati na místech ustanovených železnicí buď trvale nebo případ od případu v odběrní lhůtě, která trvá alespoň 24 hodin (vykládací lhůta), pokud pro některé zásilky tento řád anebo tarif neustanovuje jinak. (Viz i § 9.)
+        - § 2. Zboží, které má vykládati příjemce, má odebrati a vykládati na místech ustanovených železnicí buď trvale nebo případ od případu v odběrní lhůtě, která se stanoví vývěskem ve stanici (vykládací lhůta), pokud pro některé zásilky tento řád nebo tarif neustanovuje jinak.
 
         - § 3. Odběrní lhůta (§§ 1 a 2) se počíná okamžikem, kdy se pokládá zpráva o příchodu zásilky za uskutečněnou (čl. 66, § 3). Nebyla-li však zásilka včas přichystána k odběru nebo navrhl-li odesilatel v nákladním listu, aby byla zásilka ponechána na dráze na přihlášku, nebo zřekl-li se příjemce zprávy písemně nebo není-li zpráva možná, počíná se odběrní lhůta přichystáním zásilky k odběru.
 
         - § 4. Neustanovuje-li tento řád anebo tarif jinak, není dovoleno v neděli, o zákonných svátcích neb o památných dnech odebírati nákladní zboží. Rychlé zboží může býti odebráno, nepřekáží-li nic řízení celnímu, bernímu, finančnímu, policejnímu nebo řízení jiných úřadů správních.
 
-        - § 5. Odběr a odvezení zásilek, v případě § 2 i vykládání zásilek, je příjemce povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která jest oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.
+        - § 5. Odběr a odvezení zásilek, které má vykládati železnice, je příjemce povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která jest oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.
 
-        - § 6. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 1) a vykládací lhůta (§ 2) se staví - pokud pro některé zboží tento řád anebo tarif neustanovuje jinak - v neděli, o zákonných svátcích nebo o památných dnech, jakož i u všech zásilek po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem nebo příjemcem.
+        - § 5a. Odběr a vykládku vozových zásilek je příjemce povinen provésti v době od 7 do 19 hodin, pokud stanice vývěskem nebo případ od případu nestanovila jinak.
 
-        - § 7. Nebyla-li zásilka v odběrní lhůtě (§§ 1, 2 a 6) odebrána, v případě § 2 i vyložena, vybírá železnice po uplynutí této lhůty skladištné, stojné nebo zdržné. Uplynula-li vykládací lhůta teprve po 14. hodině v den, který přímo předchází neděli, zákonný svátek nebo památný den, nevybírá železnice za neděli, zákonný svátek nebo památný den zdržné; následuje-li tu však neděle a zákonný svátek nebo památný den, anebo zákonný svátek a památný den, anebo několik zákonných svátků nebo památných dnů přímo po sobě, vybírá železnice zdržné za jeden z těchto dnů. Je-li vykládací lhůta překročena o více než 24 hodin, může železnice zásilku na útraty a nebezpečí oprávněného vyložiti; učiní-li tak, podá oprávněnému o tom na jeho útraty zprávu.
+        - § 6. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 1) a vykládací lhůta (§ 2) se staví po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem nebo příjemcem. Lhůta prostá skladištného se staví též v neděli, o zákonných svátcích nebo památných dnech.
+
+        - § 7. Nebyla-li zásilka v odběrní lhůtě (§§ 1, 2 a 6) odebrána, v případě § 2 i vyložena, vybírá železnice po uplynutí této lhůty skladištné, stojné nebo zdržné. Je-li vykládací lhůta překročena, může železnice zásilku na útraty a nebezpečí oprávněného vyložiti; učiní-li tak, podá oprávněnému o tom na jeho útraty zprávu.
 
         - § 8. Hlásí-li se příjemce, kterému byla o příchodu zásilky podána zpráva, k odběru a nelze-li mu přichystati zásilku nejpozději za hodinu, kdy se dostavil, nahradí železnice příjemci na žádost útraty vzešlé tím, že se marně pokusil zásilku odebrati. Na požádání příjemce potvrdí železnice v nákladním listu, že se marně pokusil o odběr.
 
-        - § 9. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného, stojného nebo vykládací lhůtu, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné nebo zdržné. Výjimečně může železnice zkrátiti vykládací lhůtu až na 6 denních hodin, vykládá-li příjemce z vozu, do kterého potom nakládá. Železnice může též odvolati úlevy ve výpočtu zdržného uvedené v § 7. Všechna tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
+        - § 9. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného nebo stojného, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné nebo zdržné. Tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.
 
       - Čl. 68. Placení pohledávek železnice.
 
@@ -1450,7 +1456,7 @@
 
         - § 3. Pokud není ustanoveno jinak, může býti odepřeno přijetí nemocných nebo poraněných zvířat.
 
-        - § 4. Zvířata nakládati přísluší odesilateli, neustanovuje-li tarif jinak nebo nebyla-li sjednána a do nákladního listu pojata zvláštní dohoda mezi odesilatelem a železnicí. Pomůcky potřebné k uvázání zvířat musí opatřiti odesilatel.
+        - § 4. Zvířata nakládati přísluší odesilateli, neustanovuje-li tarif jinak nebo nebyla-li sjednána a do nákladního listu pojata zvláštní dohoda mezi odesilatelem a železnicí. Velká zvířata (koně a skot) musí odesilatel ve voze uvázati.
 
         - § 5. Při nakládání nesmí býti schránami se zvířaty házeno a nesmějí býti překlápěny.
 
@@ -1464,7 +1470,7 @@
 
         - § 10. Vozy s drůbeží beze schrán musí býti opatřeny kovovou závěrkou.
 
-        - § 11. U skotu a vepřového dobytka beze schrán musí býti podlaha vozu vystlána. Podlaha otevřeného vozu nebo vozu, který má toliko laťové stěny, a vozu, jehož dveře nejsou za přepravy uzavřeny, nesmí býti vystlána snadno hořlavými látkami. Za snadno hořlavé látky se pokládají zejména plevy, piliny s příměskem písku nebo bez něho, pak seno a travnaté nebo rašelinné stelivo, nejsou-li pokropeny vodou, jakož i sláma. Nepodestlal-li odesilatel zvířata, učiní tak železnice za poplatek ustanovený tarifem. Jsou-li podestlaná zvířata nedoprovázená cestou překládána, je železnice povinna obstarati podestlání ve voze pro další přepravu; železnice má právo vybrati za podestlání tarifní poplatky, pokud překládání sama nezavinila.
+        - § 11. U zvířat beze schrán musí odesilatel vystlati podlahu vozu. Podlaha otevřeného vozu nebo vozu, který má toliko laťové stěny, a vozu, jehož dveře jsou za přepravy otevřeny do větší šířky, než stanoví čl. 82, § 1, nesmí býti vystlána snadno hořlavými látkami. Za snadno hořlavé látky se pokládají zejména plevy, travnaté stelivo a sláma. Jsou-li podestlaná zvířata nedoprovázená cestou překládána, obstará železnice podestlání ve voze pro další přepravu. Železnice má právo vybrati za podestlání tarifní poplatky, pokud překládání sama nezavinila.
 
         - § 12. Železnice jest oprávněna stanoviti tarifem, zda-li má býti odesilatelem zaplaceno přepravné podle čl. 68, § 2 a).
 
@@ -1476,17 +1482,17 @@
 
       - Čl. 82. Vozy pro živá zvířata.
 
-        - § 1. Zvířata třeba přepravovati v krytých vozech, jejichž světlá šířka činí alespoň 2.6 m a které mají u střechy v podélných nebo čelních stěnách po dvou větracích otvorech, dlouhých alespoň po 0.40 m a širokých alespoň po 0.30 m, které lze zavírati zevnitř. Mimo to musí býti vozy opatřeny na dveřích zařízením umožňujícím stále jich pootevření v šířce 0.35 m u velkých zvířat a 0.15 m u drobných zvířat. Větrací otvory a dveře musí zůstati za přepravy takto otevřeny proto, aby vzduch měl dostatečný přístup, ledaže by odesilatel navrhl něco jiného v nákladním listu. Otvory ve dveřích musí odesilatel zahraditi prknem alespoň 30 cm širokým, aby bylo zabráněno vypadávání výkalů a steliva. Na odesilatelův návrh v nákladním listu přepraví železnice zvířata, vyjma drůbež, v otevřených vozech vysokostěnných.
+        - § 1. Zvířata třeba přepravovati v krytých vozech, jejichž světlá šířka činí alespoň 2.6 m a které mají u střechy v podélných nebo čelních stěnách po dvou větracích otvorech, dlouhých alespoň po 0.40 m a širokých alespoň po 0.30 m, které lze zavírati zevnitř. Mimo to musí býti vozy opatřeny na dveřích zařízením umožňujícím stále jich pootevření v šířce 0.35 m u velkých zvířat a 0.15 m u drobných zvířat. Větrací otvory a dveře musí zůstati za přepravy takto otevřeny proto, aby vzduch měl dostatečný přístup, ledaže by odesilatel navrhl něco jiného v nákladním listu. Otvory ve dveřích musí odesilatel zahraditi prknem alespoň 30 cm širokým, aby bylo zabráněno vypadávání výkalů a steliva. Na odesilatelův návrh přepraví železnice v době od 1. dubna do 31. října veliká jatečná zvířata v otevřených vozech vysokostěnných.
 
         - § 2. Je-li nutné výjimečně užíti pro veliká zvířata vozů bez větracích otvorů, musí býti dveře alespoň z polovice otevřeny a v této poloze bezpečně upevněny proti posunutí, ledaže by odesilatel navrhl něco jiného v nákladním listu. Otvory ve dveřích musí býti zahrazeny dřevěnými paženími nebo mřížemi.
 
-        - § 3. Vepřový dobytek, ovce, kozy a drůbež beze schrán se přepravují v krytých vozech s několika patry, s laťovými stěnami a s napajedly. Stěny musí býti tak vysoko zhotoveny z prken k sobě těsně přiléhajících, nebo opatřeny příklopkami přiléhajícími k sobě tak těsně, aby zvířata byla chráněna proti průvanu zdola a aby bylo zabráněno vypadávání výkalů a steliva. Není-li vozů s laťovými stěnami, musí býti vepřový dobytek, ovce a kozy přepravovány v krytých vozech s mřížemi ve dveřích a s napajedly.
+        - § 3. Vepřový dobytek, telata, ovce, kozy a drůbež beze schrán, avšak vepřový dobytek a telata jen v době od 1. dubna do 31. října, se přepravují v krytých vozech s několika patry, s laťovými stěnami a s napajedly, která podle potřeby dodá odesilatel. Stěny musí býti tak vysoko zhotoveny z prken k sobě těsně přiléhajících, nebo opatřeny příklopkami přiléhajícími k sobě tak těsně, aby zvířata byla chráněna proti průvanu zdola a aby bylo zabráněno vypadávání výkalů a steliva. Není-li vozů s laťovými stěnami, musí býti vepřový dobytek, telata, ovce a kozy přepravovány v krytých vozech s větracími otvory, s mřížemi ve dveřích a s napajedly, dodanými odesilatelem. Stejným způsobem musí býti přepravován vepřový dobytek a telata v době od 1. listopadu do 31. března.
 
         - § 4. Dřevěná pažení a mříže, jichž upevnění ve dveřích přísluší odesilateli, musí býti alespoň 1,5 m vysoké a musí míti na dolním okraji alespoň 30 cm široké prkno, aby bylo zabráněno vypadávání výkalů a steliva. Tarif stanoví, zda železnice na odesilatelovo požádání dodá dřevěná pažení nebo mříže nebo i napajedla a za jakých podmínek.
 
         - § 5. Koně, muly a mezky přepravuje železnice na odesilatelův návrh v nákladním listu za podmínek ustanovených tarifem ve voze opatřeném polštáři (stájovém voze), který může míti světlou šířku menší než 2,6 m.
 
-        - § 6. Schrán na spodní straně vozu lze užíti, pokud tarif neustanovuje jinak, toliko k přepravě zvířat, která onemocněla nebo se poranila za železniční přepravy.
+        - § 6. Schrán na spodní straně vozu lze užíti, pokud tarif neustanovuje jinak, toliko k přepravě zvířat, která uhynula za železniční přepravy.
 
         - § 7. Vůz musí býti opatřen uvnitř zařízeními, aby mohla býti zvířata uvázána (železnými kruhy a pod.).
 
@@ -1500,7 +1506,7 @@
 
         - § 2. Na tratích se silnou přepravou zvířat zavede železnice dobytčí vlaky, jezdící buď pravidelně denně nebo v určité dny, nebo jezdící jen podle potřeby. Železnice vyhlásí v tarifu nebo vývěskem ve stanici dobytčí vlaky jezdící pravidelně denně nebo v určité dny. Dobytčí vlaky musí býti zavedeny tak, aby zvířata přicházející s přípojných tratí nebo přecházející na ně pobyla v přípojných stanicích jen dobu nezbytně nutnou. V napájecích stanicích se musí dobytčí vlak zdržeti po dobu potřebnou k napájení zvířat.
 
-        - § 3. Zvířata, o jichž přepravě lze předpokládati, že bude trvati déle než 24 hodin, musí odesilatel před nakládáním nakrmiti a napojiti. Trvá-li přeprava déle než 36 hodin, musí býti zvířata napájena nejpozději po každých 36 hodinách. Za přepravy přísluší krmiti a napájeti zvířata, jakož i postřikovati vepřový dobytek průvodci. Na odesilatelův návrh a nebezpečí ponechá železnice za přepravy za podmínek, které určuje tarif, napájeti a krmiti zvířata, jakož i postřikovati vepřový dobytek odesilatelovu zmocněnci. Nejsou-li zvířata doprovázena nebo neprovedl-li odesilatelův zmocněnec napojení nebo nakrmení zvířat ve stanovené lhůtě, železnice obstará na odesilatelovo nebezpečí napojení zvířat, nakrmení, přidal-li odesilatel krmivo, a navrhl-li to odesilatel v nákladním listu, též postřikování vepřového dobytka; podmínky určuje tarif.
+        - § 3. Zvířata, o jichž přepravě lze předpokládati, že bude trvati déle než 24 hodin, musí odesilatel před nakládáním nakrmiti a napojiti. Trvá-li přeprava déle než 36 hodin, musí býti zvířata nakrmena a napojena vždy nejpozději po každých 36 hodinách. Za parného počasí jest však nutno napojiti přepravovaná zvířata alespoň jednou za 24 hodiny. Za přepravy přísluší krmiti a napájeti zvířata, jakož i postřikovati vepřový dobytek průvodci. Na odesilatelův návrh a nebezpečí ponechá železnice za přepravy za podmínek, které určuje tarif, napájeti a krmiti zvířata, jakož i postřikovati vepřový dobytek odesilatelovu zmocněnci. Nejsou-li zvířata doprovázena nebo neprovedl-li odesilatelův zmocněnec napojení nebo nakrmení zvířat ve stanovené lhůtě, železnice obstará na odesilatelovo nebezpečí napojení zvířat, nakrmení, přidal-li odesilatel krmivo, a navrhl-li to odesilatel v nákladním listu, též postřikování vepřového dobytka; podmínky určuje tarif.
 
         - § 4. Posunování vozů se zvířaty musí býti omezeno na nejnutnější potřebu a vykonáno vždy se zvláštní opatrností.
 
