@@ -1,1 +1,1 @@
-Príloha č. 5 k zákonu č. 98/2004 Z. z. [Vzor 05](../assets/20940ff31f9aa7bf576754e08afb350497e5d49a1fe51562eef1eddc1df6587b.pdf)
+Príloha č. 5 k zákonu č. 98/2004 Z. z. [Vzor 05](../assets/2258fb9065d4d847213de4fe7a9725438a3cee1f5056dd7386941eb2ab518993.pdf)
