@@ -20,9 +20,9 @@
 
 - c) podiely na hospodárskych výsledkoch,
 
-- d) ročné odmeny vedúcim pracovníkom,
+- d) ročné odmeny (ročné prémie) vedúcim pracovníkom poskytované podľa všeobecne záväzných predpisov o odmeňovaní alebo vnútrodružstevných predpisov o odmeňovaní a o hmotnej zainteresovanosti vedúcich pracovníkov, ak sa ich výška neurčí percentnou sadzbou zo základnej pracovnej odmeny dosiahnutej za kalendárny rok,
 
-- e) stabilizačné odmeny za odpracované roky a stabilizačné náborové odmeny,
+- e) stabilizačné a náborové odmeny (príspevky),
 
 - f) náhrada pracovnej odmeny poskytovaná členom družstva za čas, v ktorom nevykonávali práce (napr. za dovolenku na zotavenie), a náhrada za nevyčerpanú dovolenku na zotavenie,
 
@@ -33,3 +33,5 @@
 - ch) náhrady škody (napr. pri pracovných úrazoch a chorobách z povolania).
 
 - i) príjmy, ktoré by sa nezahrnuli do započítateľných zárobkov pracovníka preto, že boli sčasti oslobodené od dane zo mzdy.<sup>1</sup>)
+
+- j) mzdové vyrovnanie a ďalšie peňažné plnenia poskytované pri uvoľňovaní a prevádzaní pracovníkov v baníctve alebo v súvislosti s vykonávaním racionalizačných a organizačných opatrení.
