@@ -1,1 +1,0 @@
-- 1) § 100 ods. 1 zákona č. 95/1963 Zb. o štátnom notárstve a o konaní pred štátnym notárstvom (notársky poriadok).
