@@ -1,15 +1,33 @@
-# § 14a Odpis zásob výhradných ložísk
+# § 14a Odpis zásob výhradného ložiska
 
-(1) Odpisom zásob výhradných ložísk sa rozumie ich vyňatie z evidencie zásob alebo ich prevod z bilančných zásob do nebilančných zásob.
+(1) Odpisom zásob výhradného ložiska sa rozumie ich vyňatie z evidencie zásob alebo ich prevod z bilančných zásob do nebilančných zásob.
 
 (2) Zásoby výhradného ložiska možno odpísať
 
-- a) z dôvodov osobitne zložitých banskotechnických, bezpečnostných alebo geologických pomerov súvisiacich s prírodnými podmienkami alebo vzniknutých nepredvídanými udalosťami,
+- a) z dôvodov osobitne zložitých banskotechnických, bezpečnostných alebo geologických pomerov súvisiacich s prírodnými podmienkami alebo vzniknutých nepredvídanými udalosťami alebo
 
-- b) ak ide o zásoby časti výhradného ložiska, ktorých vydobytie nie je hospodársky účelné,
+- b) vtedy, ak nevyhovujú podmienkam využiteľnosti zásob výhradného ložiska (§ 13 ods. 2), alebo
 
-- c) ak ide o zásoby, ktorých dobývanie by ohrozilo dôležité celospoločenské záujmy, najmä ochranu životného prostredia a význam ochrany prevyšuje záujem na vydobytí týchto zásob.
+- c) vtedy, ak ide o zásoby, ktorých dobývanie by ohrozilo dôležité verejné záujmy, najmä ochranu životného prostredia, a význam ochrany prevyšuje záujem na vydobytí týchto zásob.
 
-(3) Návrh na odpis zásob výhradného ložiska predkladá organizácia. O návrhu rozhoduje Slovenský geologický úrad po dohode s Ministerstvom hospodárstva Slovenskej republiky alebo Ministerstvom výstavby a stavebníctva Slovenskej republiky<sup>5a</sup>) (ďalej len „príslušné ministerstvo“) a so Slovenským banským úradom. O návrhu na odpis malého množstva zásob rozhoduje obvodný banský úrad. O návrhu na odpis zásob rozhodnú uvedené orgány do 1 mesiaca od predloženia návrhu.
+(3) Návrh na odpis zásob výhradného ložiska vypracuje organizácia, ktorá má určený dobývací priestor, alebo organizácia, ktorá výhradné ložisko eviduje (§ 10 ods. 2), len čo zistí, že zásoby nie je možné alebo účelné vydobyť z dôvodov uvedených v odseku 2.
 
-(4) Podrobnosti o odpisoch zásob výhradných ložísk ustanoví a rozsah malého množstva zásob vymedzí všeobecne záväzným právnym predpisom Slovenský geologický úrad.
+(4) Návrh na odpis zásob výhradného ložiska obsahuje
+
+- a) názov a sídlo organizácie, ak ide o právnickú osobu, meno, priezvisko, trvalý pobyt, ak ide o fyzickú osobu, názov dobývacieho priestoru alebo chráneného ložiskového územia,
+
+- b) druh nerastu, množstvo zásob navrhnutých na odpis podľa blokov zásob, ich klasifikáciu, kvalitatívnu charakteristiku a návrh na vyňatie z evidencie zásob alebo návrh na ich prevod z bilančných zásob do nebilančných zásob,
+
+- c) dôvody, pre ktoré sa zásoby navrhujú na odpis,
+
+- d) mapy a rezy s prehľadne vyznačenými časťami ložiska, v ktorých sa navrhujú zásoby na odpis,
+
+- e) ďalšie grafické a písomné doklady o ložisku a zásobách navrhnutých na odpis potrebné na odôvodnenie návrhu,
+
+- f) stanovisko Ministerstva životného prostredia Slovenskej republiky.
+
+(5) Návrh na odpis zásob výhradného ložiska predkladá organizácia na odsúhlasenie obvodnému banskému úradu, do ktorého obvodu pôsobnosti výhradné ložisko patrí.<sup>3</sup>) Obvodný banský úrad posúdi návrh na odpis z hľadiska jeho obsahu a dôvodov odpisu podľa odsekov 2 a 4; ak návrh na odpis zásob nespĺňa dôvody odpisu a neobsahuje požadované náležitosti, obvodný banský úrad návrh na odpis zásob zamietne.
+
+(6) Odsúhlasený odpis zásob výhradného ložiska zasiela organizácia Ministerstvu životného prostredia Slovenskej republiky na jeho zápis do súhrnnej evidencie zásob výhradných ložísk (§ 29 ods. 4).
+
+(7) Odsúhlasený odpis zásob výhradného ložiska je súčasťou banskomeračskej a geologickej dokumentácie a evidencie zásob v organizácii.<sup>4</sup>)
