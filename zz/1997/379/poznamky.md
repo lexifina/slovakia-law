@@ -8,7 +8,9 @@
 
 - 4) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 5) Napríklad zákon Národnej rady Slovenskej republiky č. 314/1996 Z. z. o prokuratúre, zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
+- 4a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 5) Napríklad zákon č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
 
 - 6) § 124 Zákonníka práce.Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 18/1991 Zb. o iných úkonoch vo všeobecnom záujme.§ 57 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení neskorších predpisov.
 
