@@ -6,8 +6,6 @@
 
 (3) Komisia posúdi spôsobilosť jednotlivých uchádzačov na vykonávanie funkcie riaditeľa s prihliadnutím na umelecké zameranie, úlohy a podmienky činnosti divadla. Po zhodnotení výsledkov verejného konkurzu navrhne komisia vypisovateľovi uchádzačov, ktorí spĺňajú podmienky na vymenovanie do funkcie riaditeľa.
 
-## TRETIA ČASŤ
-
-## 
+TRETIA ČASŤ
 
 AGENTÚRNA ČINNOSŤ (K § 3, 17 a 30 zákona)
