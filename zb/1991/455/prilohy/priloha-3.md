@@ -22,7 +22,7 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
   - SKUPINA 304: Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
 
-- Výroba, opravy lekárskych prístrojov a nástrojov a zdravotníckych potrieb | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | Ministerstvo zdravotníctva SR | § 23 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame
+- Výroba, oprava a úprava zdravotníckych pomôcok | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | Ministerstvo zdravotníctva SR | § 27 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame
 
 - Hubenie škodlivých živočíchov, rastlín, mikroorganizmov a potláčanie ďalších škodlivých činiteľov jedmi vrátane ochrannej dezinfekcie, dezinsekcie, deratizácie | absolvovanie odborného kurzu, úspešné zloženie záverečnej skúšky a 1 rok praxe | opakovanie skúšky každé 3 roky , odborná spôsobilosť pracovníkov na výkon ochrannej dezinfekcie a deratizácie, schválenie platných technologických pracovných postupov orgánmi štátnej správy na úseku zdravotníctva | štátny obvodný lekár | § 15 ods. 5 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb. a č. 83/1992 Zb.; § 23 vyhl. č. 103/1984 Zb. o opatreniach proti prenosným chorobám
 
