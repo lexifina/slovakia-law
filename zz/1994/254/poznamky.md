@@ -6,9 +6,11 @@
 
 - 4) § 6 ods. 2 písm. a) a ods. 3 a § 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- 4a) § 19 ods. 1 zákona č. 130/1998 Z. z.
+- 4a) § 18 ods. 2 zákona č. 130/1998 Z. z.
 
-- 4b) § 3 ods. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996 Z. z. o zabezpečovaní ochrany obyvateľstva pri výrobe, preprave, skladovaní a manipulácii s nebezpečnými škodlivinami v znení vyhlášky Ministerstva vnútra Slovenskej republiky č. 347/1998 Z. z.
+- 4b) § 17 ods. 2 zákona č. 130/1998 Z. z.
+
+- 4c) § 17f ods. 2 písm. p) a § 17r ods. 10 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení zákona č. 470/2000 Z. z.§ 17 ods. 9 a 10 zákona č. 130/1998 Z. z.
 
 - 5) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
