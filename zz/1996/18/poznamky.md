@@ -16,7 +16,7 @@
 
 - 8) Napríklad zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
 
-- 9) Zákon Slovenskej národnej rady č. 270/1991 Zb. o Štátnom fonde trhovej regulácie Slovenskej republiky v poľnohospodárstve v znení neskorších predpisov.
+- 9) § 6 ods. 2 písm. a) zákona č. 491/2001 Z. z. o organizovaní trhu s vybranými poľnohospodárskymi výrobkami.
 
 - 9a) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
