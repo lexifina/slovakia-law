@@ -64,6 +64,8 @@
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
+- 31a) § 2 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
+
 - 32) § 17 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 33) § 18 zákona č. 229/1991 Zb. v znení neskorších predpisov.
