@@ -1,0 +1,5 @@
+Příloha č. 2 vyhlášky č. 185/1990 Sb.
+
+[Příloha 01](../assets/8d675e54da763421a6b55fb3363850f8d0157cc14e9832a7763ae7e7cad4c992.pdf)
+
+[Příloha 03](../assets/7d3668691524684b8e92f98e9599b93b0eee858d651e01a92305745ae88d8830.pdf)
