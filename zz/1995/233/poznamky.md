@@ -22,6 +22,14 @@
 
 - 11) § 716 a nasl. Obchodného zákonníka.
 
+- 11a) § 2 Obchodného zákonníka.
+
+- § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb. a zákona č. 455/1991 Zb.
+
+- 11b) § 2 až 6 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
+
+- § 7 nariadenia vlády Slovenskej republiky č. 95/1994 Z. z., ktorým sa vykonávajú niektoré ustanovenia zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z. týkajúce sa dlžníkov hospodáriacich na pôde.
+
 - 12) § 2 písm. e) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 13) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
