@@ -87,3 +87,5 @@
 - 35) Zákon č. 33/1957 Zb. o sociálnom zaopatrení príslušníkov ozbrojených síl v znení zákona č. 18/1959 Zb., § 131 ods. 3 zákona č. 101/1964 Zb. a čl. I zákona č. 161/1968 Zb.
 
 - 36) Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení zákona č. 59/1969 Zb. a zákon č. 100/1970 Zb. o služobnom pomere príslušníkov Zboru národnej bezpečnosti.
+
+- 1) § 55 ods. 4 zákona č. 121/1975 Zb. a obdobné ustanovenia prv platných predpisov.
