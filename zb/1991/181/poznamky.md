@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 32/1987 Zb. o záväznosti Československého liekopisu.
