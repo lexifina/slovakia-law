@@ -1,1 +1,0 @@
-- *) Rodné číslo detí narodených v r. 1969 a 1970 prideľuje okresné oddelenie Českého štatistického úradu, resp. okresné oddelenie Slovenského štatistického úradu podľa miesta narodenia, rodné číslo osôb narodených v r. 1968 a skôr a osôb narodených v cudzine prideľuje Úrad dôchodkového zabezpečenia v Prahe 5, Křížová ulica č. 25.
