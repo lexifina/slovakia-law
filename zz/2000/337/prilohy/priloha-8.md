@@ -3440,7 +3440,7 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - h) „hodnotou pôvodných materiálov“ sa rozumie hodnota týchto materiálov určená podľa písmena g) mutatis mutandis,
 
-- i) „pridanou hodnotou“ sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov pôvodných v ostatných krajinách, uvedených v článku 4, alebo ak colná hodnota nie je známa alebo sa nedá zistiť, znížená o prvú cenu preukázateľne zaplatenú za tieto výrobky v strane,
+- i) „pridanou hodnotou“ sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov pôvodných v ostatných krajinách, uvedených v článku 4, alebo ak colná hodnota nie je známa alebo sa nedá zistiť, znížená o prvú cenu preukázateľne zaplatenú za materiály v Slovenskej republike alebo v Lotyšskej republike,
 
 - j) „kapitoly“ a „čísla“ znamenajú kapitoly a čísla (štvormiestne kódy) používané v nomenklatúre Harmonizovaného systému opisu a číselného označovania tovaru (ďalej len „Harmonizovaný systém“ alebo „HS“),
 
@@ -3536,29 +3536,43 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - Nedostatočné opracovanie alebo spracovanie
 
-- 1. Bez dotknutia odseku 2 sa za opracovanie alebo spracovanie nepostačujúce na priznanie štatútu pôvodu, a to bez ohľadu na splnenie požiadaviek uvedených v článku 6, považujú tieto operácie:
+- 1. Bez toho, aby boli dotknuté ustanovenia odseku 2, sa tieto operácie považujú za nedostatočné na priznanie štatútu pôvodu výrobkov bez ohľadu na splnenie alebo nesplnenie požiadaviek uvedených v článku 6:
 
-- a) operácie, ktoré formou ochrany zabezpečujú dobrý stav počas dopravy a skladovania (vetranie, rozloženie, sušenie, chladenie, naloženie do soli, oxidu siričitého alebo iných vodných roztokov, odstránenie poškodených častí a podobné operácie),
+- a) operácie, ktoré zabezpečujú zachovanie dobrého stavu výrobkov počas prepravy a skladovania,
 
-- b) jednoduché operácie skladajúce sa z odstránenia prachu, preosievania, triedenia alebo združovania (vrátane tvorby súprav predmetov), umývania, natierania, rezania,
+- b) delenie a zostavovanie zásielok,
 
-- c)
+- c) pranie, čistenie, odstraňovanie prachu, oxidu, oleja, farby alebo iných nánosov,
 
-- i) zmeny balenia, rozobratie a zostavenie zásielok,
+- d) žehlenie alebo mangľovanie textilu,
 
-- ii) jednoduché uloženie do fliaš, baniek, vriec, debien, škatúľ, upevnenie na karty alebo dosky atď. a všetky iné jednoduché baliace operácie,
+- e) operácie jednoduchého natierania a leštenia,
 
-- d) pripájanie značiek, štítkov a iných rozlišovacích označení na výrobky alebo ich obaly,
+- f) lúpanie, čiastočné alebo úplné bielenie, leštenie a glazúrovanie obilnín a ryže,
 
-- e) jednoduché zmiešavanie výrobkov, tiež odlišného druhu, ak jedna alebo viac zložiek zmesi nespĺňa podmienky ustanovené týmto protokolom, ktoré by umožnili považovať ich za pôvodné v strane,
+- g) operácie farbenia cukru alebo formovanie do kociek,
 
-- f) jednoduché zostavovanie častí s cieľom vytvoriť kompletný výrobok,
+- h) šúpanie, vylupovanie kôstok a lúskanie ovocia, orechov a zeleniny,
 
-- g) kombinácie dvoch alebo viacerých operácií uvedených v písmenách a) až f);
+- i) brúsenie, jednoduché mletie alebo jednoduché rezanie,
 
-- h) zabitie zvierat.
+- j) osievanie, preosievanie, triedenie, klasifikovanie, združovanie (vrátane tvorby súprav predmetov),
 
-- 2. Všetky operácie uskutočnené s danými výrobkami v stranách sa posudzujú spoločne pri rozhodovaní, či sa opracovanie alebo spracovanie považuje za nedostatočné v zmysle odseku 1.
+- k) jednoduché uloženie do fliaš, plechoviek, baniek, demižónov, vriec, debien, škatúľ, upevnenie na karty alebo dosky a všetky iné jednoduché baliace operácie,
+
+- l) pripájanie alebo odtlačenie značiek, štítkov, loga a iných rozlišovacích označení na výrobky alebo ich obaly,
+
+- m) jednoduché miešanie výrobkov aj odlišného druhu,
+
+- n) jednoduché skladanie častí predmetov s cieľom vytvoriť kompletný výrobok alebo rozloženie výrobku na časti,
+
+- o) kombinácia dvoch alebo viacerých operácií uvedených v písmenách a) až n),
+
+- p) zabitie zvierat.
+
+- 2.
+
+- Všetky operácie uskutočnené na danom výrobku na Slovensku alebo v Lotyšsku sa posudzujú spoločne pri rozhodovaní, či sa opracovanie alebo spracovanie na ňom uskutočnené považuje za nedostatočné v zmysle odseku 1.
 
 - Článok 8
 
@@ -3700,7 +3714,7 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - b) ak ide o výrobky zaradené do kapitol 50 až 63 Harmonizovaného systému, na vrátenie cla sa použije 10 % sadzba alebo nižšia sadzba, ktorá je platná v strane.
 
-- Ustanovenia tohto odseku sa budú uplatňovať do 31. decembra 2000 a môžu sa prehodnotiť po vzájomnej dohode.
+- Ustanovenia tohto odseku sa budú uplatňovať do 31. decembra 2001.
 
 - HLAVA V
 
@@ -3792,6 +3806,22 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - Ak sú pôvodné výrobky pod dohľadom colných orgánov strany, možno nahradiť pôvodný dôkaz o pôvode jedným alebo viacerými pôvodnými osvedčeniami EUR. 1 na účely vývozu všetkých alebo časti výrobkov na iné územie v rámci strán. Nahradenie pôvodného (pôvodných) osvedčenia (osvedčení) EUR. 1 uskutoční colný úrad, pod ktorého dohľadom sa tovary nachádzajú.
 
+- Článok 20a
+
+- Účtovné delenie
+
+- 1. Ak pre oddelené skladovanie zásob pôvodných a nepôvodných materiálov, ktoré sú rovnaké a vzájomne zameniteľné, vzniknú značné náklady alebo materiálové problémy, môžu colné orgány na základe písomnej žiadosti toho, koho sa to týka, povoliť používať metódu takzvaného „účtovného delenia“ na spravovanie takýchto zásob.
+
+- 2. Takáto metóda musí zabezpečiť, že v určitom referenčnom období množstvo získaných výrobkov, ktoré sa môžu považovať za „pôvodné“, bude rovnaké, ako to, ktoré by sa získalo pri fyzickom delení zásob.
+
+- 3. Colné orgány môžu podmieniť udelenie takého povolenia akýmikoľvek podmienkami, ktoré považujú za účelné.
+
+- 4. Táto metóda sa zaznamenáva a uplatňuje na základe všeobecných účtovníckych princípov uplatňovaných v krajine, kde sa výrobok vyrobil.
+
+- 5. Držiteľ takéhoto povolenia môže požiadať o dôkaz o pôvode, prípadne, ak je to možné, vystaviť takýto dôkaz na množstvo výrobkov, ktoré sa môžu považovať za pôvodné. Na požiadanie colných orgánov držiteľ poskytne prehľad, ak boli množstvá spravované.
+
+- 6. Colné orgány budú monitorovať používanie povolenia a môžu ho kedykoľvek odobrať, ak držiteľ toto oprávnenie akokoľvek nesprávne použije alebo neplní akékoľvek iné podmienky uvedené v tomto protokole.
+
 - Článok 21
 
 - Podmienky na vystavenie vyhlásenia na faktúre
@@ -3816,7 +3846,9 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - Schválený vývozca
 
-- 1. Colné orgány vyvážajúcej strany môžu oprávniť vývozcu, ktorý uskutočňuje časté vývozy výrobkov, na ktoré sa vzťahuje táto dohoda, aby vystavoval vyhlásenie na faktúre bez ohľadu na hodnotu týchto výrobkov. Vývozca, ktorý takéto oprávnenie získa, musí po-skytnúť colným orgánom dostatočné záruky nevyhnutné na overenie štatútu pôvodu výrobkov a splnenie všetkých požiadaviek tohto protokolu.
+- 1.
+
+- Colné orgány vyvážajúcej strany môžu oprávniť vývozcu, (ďalej len „schválený vývozca“), ktorý uskutočňuje časté vývozy výrobkov, na ktoré sa vzťahuje táto dohoda, aby vystavoval vyhlásenie na faktúre bez ohľadu na hodnotu týchto výrobkov. Vývozca, ktorý takéto oprávnenie získa, musí poskytnúť colným orgánom dostatočné záruky nevyhnutné na overenie štatútu pôvodu výrobkov a splnenie všetkých požiadaviek tohto protokolu.
 
 - 2. Colné orgány majú právo podmieniť vydanie oprávnenia schválenému vývozcovi splnením akýchkoľvek požiadaviek, ktoré považujú za účelné.
 
@@ -3898,15 +3930,19 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - Článok 30
 
-- Sumy vyjadrené v eure
+- Sumy vyjadrené v euro
 
-- 1. Sumy v národnej mene vyvážajúcej zmluvnej strany, ktoré zodpovedajú sumám vyjadreným v eure, určí vyvážajúca zmluvná strana a oznámi ich dovážajúcej zmluvnej strane.
+- 1. Na uplatnenie ustanovení článku 21 ods. 1 písm. b) a článku 26 ods. 3 v prípadoch, ak sú výrobky fakturované v inej mene ako v euro, sa sumy v národných menách krajín uvedených v článku 4, ktoré zodpovedajú sumám vyjadreným v euro, určia ročne každou z príslušných krajín.
 
-- 2. Ak tieto sumy prevyšujú zodpovedajúce sumy určené dovážajúcou zmluvnou stranou, uzná ich táto strana za predpokladu, že výrobky sú fakturované v mene vyvážajúcej zmluvnej strany. Ak sú výrobky fakturované v mene niektorej z krajín uvedených v článku 4, uzná dovážajúca zmluvná strana sumu oznámenú touto krajinou.
+- 2. Na zásielku sa uplatnia ustanovenia článku 21 ods. 1 písm. b) alebo článku 26 ods. 3 s poukazom na menu, v ktorej je vystavená faktúra podľa sumy určenej príslušnou krajinou.
 
-- 3. Sumy vyjadrené v ktorejkoľvek národnej mene sú ekvivalentom tejto národnej meny voči euru podľa kurzu platného v prvý pracovný deň mesiaca októbra 1999.
+- 3. Sumy vyjadrené v ktorejkoľvek národnej mene sú ekvivalentom tejto národnej meny k euro podľa kurzu platného v prvý pracovný deň mesiaca októbra a použijú sa od 1. januára nasledujúceho roka. Príslušné sumy sa oznámia každej zo strán.
 
-- 4. Sumy vyjadrené v eure a ich ekvivalenty v národnej mene zmluvnej strany preskúma Spoločný výbor, ak o to zmluvná strana požiada. Pri preskúmaní Spoločný výbor zabezpečí, že nedôjde k zníženiu súm vyjadrených v ktorejkoľvek národnej mene, a posúdi potrebu zachovania účinkov týchto limitov v reálnych hodnotách. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v eure.
+- 4. Krajina môže zaokrúhliť nahor alebo nadol sumy, ktoré sú výsledkom prepočtu súm vyjadrených v euro na národnú menu. Zaokrúhlená suma sa od sumy, ktorá je výsledkom prepočtu, nesmie odlišovať o viac ako 5 %. Krajina môže ponechať nezmenené sumy ekvivalentov v národnej mene k sumám vyjadreným v euro, ak v čase ročnej úpravy podľa odseku 3 prepočítané sumy v národnej mene pred zaokrúhlením nahor nie sú vyššie o viac ako 15 %. Sumy ekvivalentov v národnej mene sa môžu ponechať nezmenené, ak by výsledkom prepočtu bolo zníženie hodnoty ekvivalentu.
+
+- 5. Sumy vyjadrené v euro preskúma Spoločný výbor, ak o to požiada strana.
+
+- V prípade zmien po tomto preskúmaní Spoločný výbor posúdi potrebu zachovania rovnocenných účinkov týchto limitov. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v euro.
 
 - HLAVA VI
 
