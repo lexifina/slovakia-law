@@ -36,14 +36,6 @@
 
 - *) Závodný, prípadne obvodný lekár po vyjadrení odborného ženského lekára.
 
-- 1) Tretia časť Zákonníka práce č. 65/1965 Zb.
-
-- 2) § 142 ods. 2 Zákonníka práce a vyhláška č. 132/1967 Zb. o odmeňovaní a hmotnom zabezpečení mladistvých nastupujúcich po skončení povinnej školskej dochádzky priamo do pracovného pomeru.
-
-- 3) Vyhláška č. 87/1967 Zb. o finančnom a hmotnom zabezpečení učňov v internátnych učňovských školách pre mládež vyžadujúcu osobitnú starostlivosť a v učňovských školách navštevovaných učňami z ústavov sociálnej starostlivosti pre telesne chybnú mládež.
-
-- 4) Školský zákon č. 186/1960 Zb. a zákon č. 19/1966 Zb. o vysokých školách.
-
 - 5) § 232 Zákonníka práce.
 
 - 1) § 14 ods. 1 písm. c) č. 4 vyhlášky č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
@@ -79,3 +71,11 @@
 - 6) § 64 až 68 vyhlášky Ústrednej rady odborov č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení v znení neskorších predpisov.
 
 - 7) Časť I a II prílohy nariadenia vlády Československej socialistickej republiky č. 74/1982 Zb.
+
+- 19) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
+
+- Zákon č. 39/1980 Zb. o vysokých školách.
+
+- 20) § 142 ods. 2 Zákonníka práce.
+
+- 21) § 130 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
