@@ -1,0 +1,1 @@
+- 1) Týmto opatrením sa mení opatrenie Ministerstva vnútra Slovenskej republiky č. 102/1996 Z. z, ktorým sa uverejňuje Zoznam obcí tvoriacich územné obvody obvodných úradov v okresoch Slovenskej republiky v znení opatrenia Ministerstva vnútra Slovenskej republiky č. 179/1996 Z. z.
