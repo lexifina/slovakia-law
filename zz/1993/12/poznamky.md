@@ -1,0 +1,1 @@
+- 1) § 34 zákona č. 335/1991 Zb. o súdoch a sudcoch.“.
