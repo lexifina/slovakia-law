@@ -52,8 +52,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 
 21-65-2 | strojník komplexne mechanizovaných porubov a predkov | 0105
 
-21-66-2 | strojník dopravných zariadení | 0106
-
 21-67-2 | banský zámočník | 0107
 
 21-68-2 | banský elektromontér | 0108
@@ -80,11 +78,7 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 
 22-83-2 | reťaziar reťaziarka | 0233
 
-22-91-2 | skúšač kovov skúšačka kovov | 0241
-
-22-92-2 | laborant v hutách laborantka v hutách | 0242
-
-22-93-2 | laborant v rudných baniach laborantka v rudných baniach | 0243
+0243
 
 24 Strojárstvo a ostatná kovospracujúca výroba | |
 
@@ -144,8 +138,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 
 24-45-2 | ostrič nástrojov | 0445
 
-24-46-2 | obrábačka kovov | 0446
-
 24-51-4, 2 | automechanik automechanička | 0451
 
 24-52-4, 2 | mechanik motorových rušňov a motorových vozňov | 0452
@@ -169,8 +161,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 24-64-2 | mechanik mechanička | 0464
 
 24-71-2 | galvanizér | 0471
-
-24-72-2 | smaltér smaltérka | 0472
 
 24-73-2 | kábelár kábelárka | 0473
 
@@ -198,8 +188,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 
 26-86-4, 2 | mechanik elektronických zariadení mechanička elektronických zariadení | 0506
 
-26-87-4, 2 | elektromechanik oznamovacích a zabezpečovacích zariadení elektromechanička oznamovacích a zabezpečovacích zariadení | 0507
-
 26-88-2 | spojový montér | 0508
 
 26-89-4, 2 | spojový mechanik spojová mechanička | 0509
@@ -207,8 +195,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 26-90-4, 2 | mechanik diaľkových spojov mechanička diaľkových spojov | 0510
 
 26-92-4, 2 | mechanik meracích a regulačných prístrojov mechanička meracích a regulačných prístrojov | 0512
-
-26-96-2 | mechanička elektrotechnickej výroby | 0521
 
 27 Technická chémia silikátov | |
 
@@ -346,8 +332,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 
 31-51-2 | pletiar pletiarka | 1011
 
-31-53-2 | úpravárka a retiazkovačka pančúchc | 1013
-
 31-56-2 | strojová čipkárka | 1016
 
 31-57-2 | tkáč čipiek tkáčka čipiek | 1017
@@ -440,8 +424,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 
 33-59-2 | debnár a obaliar | 0809
 
-33-60-2 | kolár | 0810
-
 33-61-2 | košikár a pletiar nábytku košikárka a pletiarka nábytku | 0811
 
 33-62-2 | kefár kefárka | 0812
@@ -449,8 +431,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 33-63-2 | sústružník dreva a nekovových materiálov sústružníčka dreva a nekovových materiálov | 0813
 
 33-64-2 | ramár ramárka | 0814
-
-33-65-2 | tužkár tužkárka | 0815
 
 33-66-2 | mechanik výroby konštrukčných dosák mechanička výroby konštrukčných dosák | 0816
 
@@ -472,8 +452,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 
 34-56-4, 2 | tlačiar na ofsetových strojoch | 0906
 
-34-58-2 | planograf planografka | 0908
-
 34-67-2 | stereotypér | 0917
 
 34-68-2 | pečiatkár pečiatkárka | 0918
@@ -491,8 +469,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 34-91-2 | fotograf fotografka | 0951
 
 34-92-2 | filmový laborant filmová laborantka | 0952
-
-34-93-2 | lisovačka gramofónových platní | 0953
 
 36 Stavebníctvo a zememeračstvo | |
 
@@ -529,8 +505,6 @@ Nový číselný znak**) | Názov učebného odboru | Číselný znak zodpovedaj
 36-85-2 | lakovač lakovčka | 0625
 
 36-88-2 | kominár | 0628
-
-36-91-2 | geodetický merač geodetická meračka | 0631
 
 37 Doprava, pošty a telekomunikácie (prevádzkové odbory) | |
 
