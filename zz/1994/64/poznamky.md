@@ -1,0 +1,1 @@
+- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 324/1993 Z. z. o úprave výšky sadzieb základných náhrad za používanie cestných motorových vozidiel pri pracovných cestách.
