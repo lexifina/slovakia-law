@@ -2,15 +2,13 @@
 
 - 2) Zákon č. 174/1968 Zb.
 
-- Úprava Slovenského úradu bezpečnosti práce č. 2638 z 8. 8. 1980, ktorou sa vyhradzuje výkon štátneho odborného dozoru nad jadrovoenergetickými zariadeniami, registrovaná v čiastke 38/1980 Zbierky zákonov,
+- Úprava Slovenského úradu bezpečnosti práce č. 2638 z 8. 8. 1980, ktorou sa vyhradzuje výkon štátneho odborného dozoru nad jadrovoenergetickými zariadeniami, registrovaná v čiastke 38/1980 Zbierky zákonov.
 
-- § 20 a § 65 ods. 7 písm. f) vyhlášky Štátnej komisie pre vedeckotechnický a investičný rozvoj č. 5/1987 Zb. o dokumentácii stavieb.
+- 3) § 3 ods. 4. vyhlášky Štátnej komisie pre vedeckotechnický a investičný rozvoj č. 43/1990 Zb. o projektovej príprave stavieb.
 
-- 3) § 7 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhlášky č. 155/1980 Zb.
+- 4) § 4 vyhlášky č. 43/1990 Zb.
 
-- 4) § 20 vyhlášky č. 85/1976 Zb.
-
-- § 38 vyhlášky č. 5/1987 Zb.
+- 4a) § 7 vyhlášky č. 43/1990 Zb.
 
 - 5) § 39 vyhlášky č. 85/1976 Zb.
 
