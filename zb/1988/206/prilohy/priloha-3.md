@@ -362,6 +362,8 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 
 - butalbital (Butalbitalum) kyselina 5-allyl-5-izobutalbarbiturová;
 
+- Buprenorfín buprenorphinum 21-cyklopropyl-7-(S)-l-hydro-l, 2, 2-trimethylpropyl-6, 14-endo-ethano-6, 7, 8, 14-tetrahydrooripavin
+
 - a soli látok uvedených v tejto skupine vo všetkých prípadoch, keď je možná existencia takýchto solí.
 
 - Skupina IV.
@@ -475,6 +477,8 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 - oxazolam (Oxazolamum) 11b-fenyl-10-chlór-2-metyl-2,3,7,11b-tetrahydrooxazolo[3,2-d]
 
 - [1,4]benzodiazepín-6 (5H)-ón
+
+- Pemolín pemolinum 5-fenyl-2-imino-4-oxazolidinon
 
 - pinazepam (Pinazepamum) 1,3-dihydro-5-fenyl-7-chlór-1-(2-propinyl)-2H-1,4-
 
