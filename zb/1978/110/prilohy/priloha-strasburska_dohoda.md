@@ -136,7 +136,7 @@
 
         - iii) reviduje a schvaľuje správy a činnosť generálneho riaditeľa týkajúce sa Osobitnej únie a dáva mu v otázkach spadajúcich do pôsobnosti Osobitnej únie všetky potrebné pokyny;
 
-        - iv) určuje program, schvaľuje trojročný rozpočet Osobitnej únie a schvaľuje jej záverečné účty;
+        - iv) určuje program, schvaľuje dvojročný rozpočet Osobitnej únie a schvaľuje jej záverečné účty;
 
         - v) schvaľuje finančný poriadok Osobitnej únie;
 
@@ -168,7 +168,7 @@
 
     - 4.
 
-      - a) Zhromaždenie sa schádza na riadnom zasadaní zvolanom generálnym riaditeľom raz za tri roky a okrem mimoriadnych prípadov v rovnakom čase a na rovnakom mieste ako valné zhromaždenie Organizácie.
+      - a) Zhromaždenie sa schádza na riadnom zasadaní zvolanom generálnym riaditeľom raz za dva roky a okrem mimoriadnych prípadov v rovnakom čase a na rovnakom mieste ako valné zhromaždenie Organizácie.
 
       - b) Zhromaždenie sa schádza na mimoriadne zasadanie na základe pozvania rozoslaného generálnym riaditeľom na žiadosť jednej štvrtiny členských krajín zhromaždenia.
 
