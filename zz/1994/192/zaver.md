@@ -1,1 +1,0 @@
-Juraj Hraško v.r.
