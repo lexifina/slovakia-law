@@ -1,10 +1,12 @@
-- 1) § 4 ods. 1 a § 4b zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 1) § 4 ods. 1 zákona č. 461/2003 Z. z. o sociálnom poistení.
 
-- 2) § 7 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
+- 2) § 7 ods. 1, 3 a 4 zákona č. 461/2003 Z. z.
 
-- 4) § 2 ods. 1 písm. m) a n) a § 12 ods. 2 písm. f) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+- 3) § 37 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení zákona č. 251/1997 Z. z.
 
-- 5) § 138 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 4) § 11 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+
+- 5) Napríklad § 118 zákona č. 311/2001 Z. z. Zákonník práce, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
 
 - 6) § 34 ods. 2 a § 59 ods. 2 a ods. 3 písm. a) zákona č. 461/2003 Z. z.
 
@@ -12,12 +14,16 @@
 
 - 8) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
-- 10) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 9) § 4 ods. 2 zákona č. 280/2002 Z. z. v znení zákona č. 643/2002 Z. z.
 
-- 11) § 25 ods. 2 zákona č. 314/2018 Z. z. o Ústavnom súde Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+- 10) § 6 ods. 3 písm. b) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
+
+- 11) § 10 ods. 2 písm. a) až c) zákona č. 320/2002 Z. z. o brannej povinnosti.
+
+- 12) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov.
+
+- 13) § 55 zákona č. 461/2003 Z. z.
 
 - 14) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
-- 15) § 54 ods. 1, 2, 9 a 10 zákona č. 461/2003 Z. Z. o nemocenskom poistení v znení zákona č. 543/2010 Z. z.
-
-- 16) § 11 zákona č. 461/2003 Z. z. v znení zákona č. 721/2004 Z. z.
+- 15) § 54 zákona č. 461/2003 Z. z.
