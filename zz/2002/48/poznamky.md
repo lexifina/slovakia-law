@@ -1,4 +1,4 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch v znení zákona č. 309/2000 Z. z.
+- 1) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
 
 - 2) § 57 Trestného zákona v znení neskorších predpisov.
 
@@ -16,13 +16,19 @@
 
 - 8) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
-- 9) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
+- 8a) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z. ).
+
+- 9) § 2 ods. 2 Obchodného zákonníka.
 
 - 10) Napríklad Zákonník práce.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
+- 11a) Článok 1 bod 1 písm. c) Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z. ).
+
 - 12) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 105/1987 Zb., ktorou sa určuje, ktoré choroby sa považujú za nákazlivé v zmysle Trestného zákona.
+
+- 12a) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
 - 13) Európska dohoda o pridružení uzatvorená medzi Európskymi spoločenstvami a ich členskými štátmi na strane jednej a Slovenskou republikou na strane druhej (oznámenie č. 158/1997 Z. z. v znení neskorších predpisov).
 
@@ -59,3 +65,7 @@
 - 29) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 30) Zákon Národnej rady Slovenskej republiky č. 145/1995 Zb. o správnych poplatkoch v znení neskorších predpisov.
+
+- 30a) Dohovor o zrušení požiadavky vyššieho overenia zahraničných verejných listín (oznámenie č. 213/2002 Z. z.).
+
+- 30b) Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
