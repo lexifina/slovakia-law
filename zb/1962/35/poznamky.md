@@ -1,1 +1,0 @@
-- 1) Vzťah Úradu pre normalizáciu a meranie určený v § 54 ods. 1 zákona č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev sa nemení.
