@@ -110,6 +110,18 @@
 
       - (h) stavenisko alebo stavbu alebo montáž, ktoré trvajú dlhšie ako dvanásť mesiacov;
 
+    - 3. Výraz „stála prevádzkáreň“ nebude zahŕňať:
+
+      - (a) zariadenie, ktoré sa využíva iba na uskladnenie, vystavenie alebo dodanie tovaru patriaceho podniku;
+
+      - (b) zásobu tovaru patriaceho podniku, ktorá sa udržiava iba za účelom uskladnenia, vystavenia alebo dodania;
+
+      - (c) zásobu tovaru patriaceho podniku, ktorá sa udržiava iba za účelom spracovania iným podnikom;
+
+      - (d) trvalé zariadenie pre podnikanie, ktoré sa využíva iba za účelom nákupu tovaru alebo zhromažďovania informácií pre podnik;
+
+      - (e) trvalé zariadenie pre podnikanie, ktoré sa udržiava pre podnik iba za účelom reklamy, poskytovania informácií, vedeckých rešerší alebo podobných činností, ktoré majú prípravný alebo pomocný charakter;
+
       - (f) trvalé zariadenie pre podnikanie, ktoré sa udržiava iba na výkon akéhokoľvek spojenia činností uvedených v pododsekoch (a) - (e) tohto odseku, pokiaľ celková činnosť trvalého zariadenia, vyplývajúca z tohto spojenia, má prípravný alebo pomocný charakter.
 
     - 4. Ak bez ohľadu na ustanovenia odsekov 1 a 2 tohto článku, osoba - iná než nezávislý zástupca, na ktorého sa vzťahuje odsek 5 tohto článku - koná v zmluvnom štáte na účet podniku a má plnomocenstvo, ktoré jej dovoľuje uzavierať zmluvy v mene podniku, predpokláda sa, že tento podnik má stálu prevádzkáreň v tomto štáte vo vzťahu ku všetkým činnostiam, ktoré táto osoba vykonáva pre podnik, pokiaľ činnosť tejto osoby nie je obmedzená na činnosti uvedené v odseku 3 tohto článku, ktoré, pokiaľ by sa uskutočňovali v trvalom zariadení, by nezakladali existenciu stálej prevádzkárne podľa ustanovenia tohto odseku.
