@@ -30,4 +30,4 @@ Príloha zákona Slovenskej národnej rady č. 52/1982 Zb., ktorým sa mení a d
 
 12-21 | Zrušené od 1. 1. 1983. | | |
 
-22 | požiarnej ochrany | zák. č. 18/1958 Zb. | § 7 | rozhodovanie o vylúčení z užívania vecí ohrozujúcich svojimi nedostatkami požiarnu bezpečnosť ľudí alebo majetku, a to v objektoch, v ktorých sú oprávnené vykonávať protipožiarne prehliadky.
+22 | Zrušené od 1. 7. 1986. | | |
