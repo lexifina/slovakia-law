@@ -6,6 +6,8 @@
 
 - 1d) Napríklad zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii. Zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení zákona Národnej rady Slovenskej republiky č. 149/1994 Z. z.
 
+- 1da) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
+
 - 1e) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov.
 
 - 1f) Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
@@ -44,6 +46,10 @@
 
 - 7e) Zákon č. 463/1991 Zb.
 
+- 7f) § 29,§ 31, § 33 a 34 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
+
+- 7g) § 5 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti.
+
 - 8) § 1 ods. 1 č. 1 písm. g) zákona č. 255/1946 Zb.
 
 - 9) § 1 ods. 1 č. 1 písm. a) až d) a č. 2 zákona č. 255/1946 Zb.
@@ -71,6 +77,10 @@
 - 12a) Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 111/1992 Zb. o úhrade nákladov za ubytovanie a základnú starostlivosť v domovoch - penziónoch pre dôchodcov.
 
 - 12b) Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 105/1992 Zb. o sociálnej odkázanosti.
+
+- 12c) § 4 a 5 zákona č. 463/1991 Zb. o životnom minime v znení zákona Národnej rady Slovenskej republiky č. 277/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 133/1995 Z. z.
+
+- 12d) § 6 ods. 1 a § 7 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 304/1994 Z. z. o rozsahu a bližších podmienkach poskytovania služieb v ústavoch sociálnej starostlivosti, o úhrade za služby a o vreckovom.
 
 - 13) §97 ods. 3 zákona č. 121/1975 Zb.
 
@@ -109,6 +119,10 @@
 - Zákon č. 36/1965 Zb. o dani z príjmov z literárnej a umeleckej činnosti v znení neskorších predpisov.
 
 - 27) § 14 ods. 1 písm. a) zákona č. 1/1991 Zb. o zamestnanosti.
+
+- 27a) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
+
+- 27b) Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 28) Zákon č. 244/1991 Zb. o Federálnej bezpečnostnej informačnej službe a o používaní spravodajských prostriedkov.
 
