@@ -1,5 +1,3 @@
-- 1) Dohovor o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín (registrovaný v čiastke 115/1992 Zb.).
-
 - 2) Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie č. 93/1998 Z. z.).
 
 - 3) § 181a až 181c Trestného zákona.§ 64 až 66 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
@@ -10,11 +8,11 @@
 
 - 6) § 7 písm. g) a § 54 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
-- 7) Článok III bod 2, článok IV bod 2 a článok V bod 2 Dohovoru o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín (registrovaný v čiastke 115/1992 Zb.).
+- 7) § 13 až 17 zákona č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov.
 
 - 8) Článok VII bod 5 Dohovoru o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín (registrovaný v čiastke 115/1992 Zb.).
 
-- 9) Článok I písm. b) Dohovoru o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín (registrovaný v čiastke 115/1992 Zb.).
+- 9) § 3 písm. c) zákona č. 237/2002 Z. z.
 
 - 10) Napríklad § 67 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z., zákon Národnej rady Slovenskej republiky č.180/1996 Z. z. Colný zákon v znení neskorších predpisov, § 15 a 18 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch, § 52 ods. 3 a § 55 ods. 3 Trestného zákona.
 
@@ -35,6 +33,8 @@
 - 18) Článok VIII Dohovoru o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín (registrovaný v čiastke 115/1992 Zb.).
 
 - 19) Zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty.Vyhláška Ministerstva kultúry Slovenskej republiky č. 342/1998 Z. z. o odbornej správe múzejných zbierkových predmetov a galerijných zbierkových predmetov.
+
+- 19a) § 27 zákona č. 237/2002 Z. z.§ 16 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 346/2002 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov.
 
 - 20) § 47 ods. 3 zákona č. 337/1998 Z. z.Oznámenie Ministerstva pôdohospodárstva Slovenskej republiky č. 34/1999 Z. z. o vydaní výnosu o fytosanitárnych podmienkach na dovoz, vývoz a prevoz rastlín, rastlinných produktov, ako aj predmetov, ktoré môžu byť nositeľmi škodlivých organizmov.
 
