@@ -12,9 +12,7 @@ Vyhláška Ministerstva školstva a kultúry č. 111/1965 Zb. o záverečných u
 
 - 3. § 2 ods. 4 znie:
 
-- „(4)
-
-- Skúšky z odborných predmetov vykonávajú pracovníci v čase od 1. februára do 30. apríla. Záverečné učňovské skúšky vykonávajú učni alebo pracovníci v čase od 16. júna do 31. augusta. Pre absolventov stredných všeobecnovzdelávacích škôl v učebnom pomere s jedenapolročnou učebnou dobou určia dátum vykonania záverečných učňovských skúšok krajské národné výbory. Opravné skúšky z odborných predmetov vykonávajú pracovníci v čase od 1. októbra do 31. októbra. Opravné záverečné učňovské skúšky vykonávajú učni alebo pracovníci v čase od 1. novembra do 31. decembra.“.
+- „(4) Skúšky z odborných predmetov vykonávajú pracovníci v čase od 1. februára do 30. apríla. Záverečné učňovské skúšky vykonávajú učni alebo pracovníci v čase od 16. júna do 31. augusta. Pre absolventov stredných všeobecnovzdelávacích škôl v učebnom pomere s jedenapolročnou učebnou dobou určí dátum vykonania záverečných učňovských skúšok Ministerstvo školstva. Opravné skúšky z odborných predmetov vykonávajú pracovníci v čase od 1. októbra do 31. októbra. Opravné záverečné učňovské skúšky vykonávajú učni alebo pracovníci v čase od 1. novembra do 31. decembra.“
 
 - 4. § 3 sa v odseku 2 za prvou vetou dopĺňa touto vetou:
 
