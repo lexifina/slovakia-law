@@ -32,6 +32,12 @@
 
 - 14b) Článok 4 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov.
 
+- 14c) Čl. 12 ods. 2 nariadenia Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Úradný vestník Európskych spoločenstiev L 294 z 10. novembra 2001).
+
+- 14d) Čl. 32 a 33 nariadenia Rady (ES) č. 2157/2001.
+
+- 14e) Čl. 3 ods. 2 nariadenia Rady (ES) č. 2157/2001.
+
 - 15) § 218l ods. 1 Obchodného zákonníka.
 
 - 15a) § 68 ods. 3 písm. d) Obchodného zákonníka.
