@@ -1,0 +1,1 @@
+- *) Vyhláška č. 161/1976 Zb., ktorou sa vykonáva zákon o dani zo mzdy.
