@@ -1,8 +1,14 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
+- 1) Napríklad Medzinárodný dohovor o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov, Medzinárodný dohovor o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov, Medzinárodný dohovor o nákladovej značke (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 1a) Nariadenie vlády Slovenskej republiky č. 180/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a o postupoch posudzovania zhody na plavidlá určené na rekreačné účely.
+
+- 1b) Zákon Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 51/1993 Z. z. o štandarde prezidenta Slovenskej republiky.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 2a) Nariadenie vlády Slovenskej republiky č. 243/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na námorné vybavenie v znení nariadenia vlády Slovenskej republiky č. 307/2002 Z. z.
 
 - 3) § 123 až 142 a § 151a až 151g Občianskeho zákonníka.
 
@@ -28,6 +34,8 @@
 
 - 13) § 151a až 151m Občianskeho zákonníka.
 
+- 13a) Napríklad Medzinárodný dohovor o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 v znení zmien a doplnkov z roku 1995 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
 - 14) Napríklad Dohovor o ochrane zdravia a lekárskej starostlivosti pre námorníkov (č. 164) (oznámenie č. 445/1991 Zb.), zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
 - 15) § 37 ods. 3 Zákonníka práce v znení neskorších predpisov.
@@ -41,6 +49,8 @@
 - 19) § 46 ods. 1 písm. f) Zákonníka práce.
 
 - 20) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 20a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21) Obchodný zákonník v znení neskorších predpisov.
 
