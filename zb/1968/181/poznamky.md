@@ -1,0 +1,1 @@
+- *) Ide o dôchodky priznané podľa § 18 tejto vyhlášky.
