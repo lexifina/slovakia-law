@@ -2,6 +2,8 @@
 
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
+- 2a) Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.Zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
 - 4) § 22 zákona č. 286/1992 Zb. o daniach z príjmov.
@@ -17,6 +19,8 @@
 - 9) Napríklad zákon Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení zákona Národnej rady Slovenskej republiky č. 81/1994 Z. z.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 10a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
 - 11) § 829 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
@@ -56,9 +60,7 @@
 
 - 29) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 30) § 15 zákona Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení zákona Národnej rady Slovenskej republiky č. 179/1994 Z. z.§ 15 zákona Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva v znení zákona Národnej rady Slovenskej republiky č. 180/1994 Z. z.§ 20 zákona Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu.§ 16 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení zákona Národnej rady Slovenskej republiky č. 182/1994 Z. z.§ 15 zákona Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení zákona Národnej rady Slovenskej republiky č. 183/1994 Z. z.§ 42 zákona č. 222/1992 Zb. o dani z pridanej hodnoty v znení neskorších predpisov.§ 23 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností.§ 35 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.§ 28 a 34 zákona č. 202/1995 Z. z. Devízový zákon.§ 251 a 255 zákona č. 618/1992 Zb. Colný zákon.Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. v znení neskorších predpisov.Zákon č. 526/1990 Zb. o cenách v znení zákona Národnej rady Slovenskej republiky č. 58/1995 Z. z.Zákon č. 563/1991 Zb. o účtovníctve.§ 40r zákona č. 286/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 326/1993 Z. z.
-
-- § 5 zákona Národnej rady Slovenskej republiky č. 160/1993 Z. z. o niektorých opatreniach pri vzájomnom započítavaní pohľadávok podnikateľov.
+- 30) § 15 zákona Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení zákona Národnej rady Slovenskej republiky č. 179/1994 Z. z.§ 15 zákona Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva v znení zákona Národnej rady Slovenskej republiky č. 180/1994 Z. z.§ 20 zákona Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu.§ 16 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení zákona Národnej rady Slovenskej republiky č. 182/1994 Z. z.§ 15 zákona Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení zákona Národnej rady Slovenskej republiky č. 183/1994 Z. z.§ 44 a 45 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty.§ 23 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností.§ 35 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.§ 28 a 34 zákona č. 202/1995 Z. z. Devízový zákon.§ 243 a 249 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon. Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.Zákon č. 563/1991 Zb. o účtovníctve.§ 40r zákona č. 286/1992 Zb. v znení neskorších predpisov.§ 5 zákona Národnej rady Slovenskej republiky č. 160/1993 Z. z. o niektorých opatreniach pri vzájomnom započítavaní pohľadávok podnikateľov.
 
 - 31) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
