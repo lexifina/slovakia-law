@@ -1,1 +1,0 @@
-- *) Podmienkou prijatia je vyučenie v učebnom odbore Poľnohospodár mechanizátor, Poľnohospodárka mechanizátorka č. 1308.
