@@ -130,9 +130,7 @@ PRÍLOHA I
 
       - (2) Dopravca musí každému hraničnému colnému úradu odovzdať potvrdenie o prestupe hranice. Vzor potvrdenia je uvedený v prílohe II.
 
-      - (3) Hraničné colné úrady kontrolujú tovar len v prípade, ak majú podozrenie z protiprávneho konania, ktoré by mohlo viesť k zneužitiu.
-
-      - (4) Ak sa preprava uskutoční cez iný hraničný colný úrad ako ten, ktorý je uvedený v tranzitnom doklade T1, odošle tento hraničný colný úrad potvrdenie o prestupe hranice bezodkladne hraničnému colnému úradu uvedenému v tranzitnom doklade T1.
+      - (3) Ak sa preprava uskutoční cez iný hraničný colný úrad ako ten, ktorý je uvedený v tranzitnom doklade T1, odošle tento hraničný colný úrad potvrdenie o prestupe hranice bezodkladne hraničnému colnému úradu uvedenému v tranzitnom doklade T1.
 
       - Ak sa pri preprave v rámci tranzitného režimu Spoločenstva medzi dvoma štátmi Spoločenstva nachádza hraničný colný úrad niektorého štátu EZVO, tento úrad si ponechá potvrdenie o prestupe hranice.
 
@@ -332,11 +330,15 @@ PRÍLOHA I
 
       - (3) Na žiadosť príslušného úradu krajiny, ktorý v súlade s článkom 34 žiada zaplatenie cla a iných platieb, prevedie príslušný úrad krajiny, v ktorej sa nachádza úrad odoslania, bezodkladne tomuto úradu sumy zložené podľa odseku 2 s podmienkou, že sa predloží exekučný titul. Sumy sa nepoukážu, ak pohľadávka a/alebo exekučný titul sú napadnuté.
 
-    - Článok 30 Bez dotknutia predpisov, ktoré predpokladajú oslobodenie z iných dôvodov, zbavia príslušné úrady dotknutých krajín hlavného zodpovedného povinnosti zaplatiť clo a iné platby, ak
+    - Článok 30
 
-      - a) tovar bol preukázateľne zničený z dôvodu vyššej moci alebo nepredvídanej udalosti,
+      - (1) Bez dotknutia predpisov, ktoré predpokladajú oslobodenie z iných dôvodov, zbavia príslušné úrady dotknutých krajín hlavného zodpovedného povinnosti zaplatiť clo a iné platby, ak
 
-      - b) boli úradne uznané úbytky tovaru, ktoré vyplývajú z osobitného charakteru tovaru.
+        - a) tovar bol preukázateľne zničený z dôvodu vyššej moci alebo nepredvídanej udalosti,
+
+        - b) boli úradne uznané úbytky tovaru, ktoré vyplývajú z osobitného charakteru tovaru.
+
+          - 2. V prípade potreby sa k sprievodnému tranzitnému dokladu pripojí zoznam položiek, ktorý je jeho neoddeliteľnou súčasťou a zodpovedá vzoru uvedenému v prílohe III.
 
     - Článok 31
 
