@@ -40,6 +40,22 @@ Nariadenie vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch za
 
 - 6. | 5 150“.
 
+  - 7. V § 7d ods. 2 sa tabuľka platových taríf podľa bodu 6 nahrádza týmto znením:
+
+  - „platová trieda | Sk mesačne
+
+  - 1. | 3 820
+
+  - 2. | 4 010
+
+  - 3. | 4 320
+
+  - 4. | 4 690
+
+  - 5. | 5 130
+
+  - 6. | 5 600“.
+
 - 8. V § 9 ods. 11 druhá veta znie: „Zamestnancovi Najvyššieho kontrolného úradu Slovenskej republiky, ktorý vykonáva kontrolnú činnosť, možno poskytnúť príplatok vo výške 100 až 1 200 Sk mesačne a zamestnancovi Úradu jadrového dozoru Slovenskej republiky, ktorý vykonáva dozornú činnosť nad jadrovou bezpečnosťou jadrových zariadení, možno poskytnúť príplatok vo výške 100 až 4 000 Sk mesačne.“.
 
 - 9. Príloha č. 2 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 636/1992 Zb., nariadenia vlády Slovenskej republiky č. 72/1993 Z. z., nariadenia vlády Slovenskej republiky č. 279/1994 Z. z., nariadenia vlády Slovenskej republiky č. 193/1996 Z. z., nariadenia vlády Slovenskej republiky č. 121/1997 Z. z. a nariadenia vlády Slovenskej republiky č. 157/1998 Z. z. sa nahrádza prílohou č. 1 k tomuto nariadeniu.
@@ -51,3 +67,5 @@ Nariadenie vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch za
 - 12. Príloha č. 2c nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 193/1996 Z. z. a nariadenia vlády Slovenskej republiky č. 121/1997 Z. z. sa nahrádza prílohou č. 4 k tomuto nariadeniu.
 
 - 13. Príloha č. 2d nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 121/1997 Z. z. a nariadenia vlády Slovenskej republiky č. 157/1998 Z. z. sa nahrádza prílohou č. 5 k tomuto nariadeniu.
+
+- 14. Príloha č. 2d nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 121/1997 Z. z., nariadenia vlády Slovenskej republiky č. 157/1998 Z. z. a v znení bodu 13 tohto článku sa nahrádza prílohou č. 6 k tomuto nariadeniu.
