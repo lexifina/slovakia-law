@@ -1,0 +1,3 @@
+# Čl. 8
+
+Ak národný výbor pri plnení ročného rozpočtu dosiahne v súlade so záujmom spoločnosti vyššie priame príjmy alebo úspory na výdavkoch, než aké boli rozpočtované, ponechá sa mu na podklade ročných komplexných rozborov percentný podiel na nadplánovaných príjmoch a úsporách na výdavkoch zaslúžene dosiahnutých. Výška tohto percentného podielu sa určí vopred v opatrení vlády a v politicko-hospodárskych smerniciach národného výboru vyššieho stupňa. Využitie finančných prostriedkov získaných dosiahnutím vyšších priamych príjmov alebo úsporami na výdavkoch počas plnenia ročného rozpočtu treba zabezpečiť predovšetkým z vlastných materiálových zdrojov národných výborov.
