@@ -1,135 +1,183 @@
-- Vlády
+- DOHODA o zriadení Organizácie pre spoluprácu v priemysle valivých ložísk
 
-- - Bulharskej ľudovej republiky,
+  - Vlády
 
-- - Maďarskej ľudovej republiky,
+  - - Bulharskej ľudovej republiky,
 
-- - Nemeckej demokratickej republiky,
+  - - Maďarskej ľudovej republiky,
 
-- - Poľskej ľudovej republiky a
+  - - Nemeckej demokratickej republiky,
 
-- - Československej socialistickej republiky
+  - - Poľskej ľudovej republiky a
 
-- riadiac sa zásadami medzinárodnej socialistickej deľby práce a
+  - - Československej socialistickej republiky
 
-- rozhodli sa uzavrieť túto Dohodu:
+  - riadiac sa zásadami medzinárodnej socialistickej deľby práce a
 
-- Článok III
+  - prajúc si zabezpečiť čo najrýchlejší rozvoj priemyslu valivých ložísk, zvýšiť jeho technickú úroveň a plnšie kryť vo svojich štátoch potrebu valivých ložísk,
 
-  - 16. vypracúva návrhy na vytvorenie spoločných konštrukčných kancelárií, laboratórií a ústavov;
+  - majúc na zreteli, že úzka spolupráca na základe rovnoprávnosti, vzájomných výhod a súdružskej vzájomnej pomoci povedie k ďalšiemu rozvoju priemyslu valivých ložísk,
 
-- Článok IV
+  - rozhodli sa uzavrieť túto Dohodu:
 
-  - 1. Prácu OSPVL riadi Správa, ktorá sa skladá zo stálych zástupcov všetkých zmluvných strán, po jednom za každý štát.
+  - Článok I
 
-  - 2. Správa si ustanovuje rokovací poriadok.
+    - Pre ďalšiu spoluprácu v priemysle valivých ložísk zriaďujú zmluvné strany Organizáciu pre spoluprácu v priemysle valivých ložísk (ďalej označovanú len „OSPVL“) so sídlom vo Varšave v Poľskej ľudovej republike.
 
-  - 3. Správa zasadá podľa potreby, najmenej však raz za šesť mesiacov, v mieste určenom Správou.
+  - Článok II
 
-  - 4. Správa OSPVL prerokúva otázky, ktoré podľa článku III tejto Dohody patria do jej pôsobnosti, a k týmto otázkam sa uznáša na rozhodnutiach alebo odporúčaniach. Rozhodnutia i odporúčania vykonáva Správa len so súhlasom všetkých zmluvných strán.
+    - Organizácia pre spoluprácu v priemysle valivých ložísk rozvíja svoju činnosť podľa tejto Dohody a podľa Štatútu OSPVL, ktorý je súčasťou Dohody.
 
-  - 5. Zasadaniam Správy predsedajú zástupcovia štátov postupne v poradí názvov štátov podľa ruskej abecedy na obdobie jedného roka.
+  - Článok III
 
-  - 6. Správa určuje ročné i perspektívne plány svojej práce a sústavne preveruje priebeh prác.
+    - Organizácia pre spoluprácu v priemysle valivých ložísk bude vypracúvať opatrenia na plnšie krytie potrieb valivých ložísk v príslušnom sortimente zvyšovaním tempa rastu výroby valivých ložísk a zavádzaním modernej technológie a organizácie výroby a na racionálne využitie výrobných kapacít priemyslu valivých ložísk jednotlivých zmluvných strán. Na ten cieľ vykonáva OSPVL túto pôsobnosť:
 
-  - 7. Správa môže meniť štatút OSPVL podľa ustanovení tejto Dohody.
+    - 1. vypracúva návrhy na špecializáciu výroby valivých ložísk a opatrenia na uskutočňovanie týchto návrhov;
 
-- Článok V
+    - 2. zosúlaďuje ročné plány výroby valivých ložísk so zreteľom na potreby štátov a na platné dlhodobé obchodné zmluvy;
 
-  - 1. Správa sa uznáša k bodom 1 - 10 článku III na rozhodnutiach a k bodom 11 - 17 toho istého článku na odporúčaniach.
+    - 3. vypracúva návrhy a opatrenia na uspokojenie potreby valivých ložísk v zmluvných stranách vlastnou výrobou so zreteľom na vývoz valivých ložísk do štátov, ktoré nie sú účastníkmi Dohody, a na dovoz z týchto štátov;
 
-  - 2. Rozhodnutia nadobúdajú platnosť, ak príslušné orgány zmluvných strán nepodajú prostredníctvom svojich zástupcov v OSPVL námietky do 30 dní od podpísania protokolu o zasadaní Správy.
+    - 4. zosúlaďuje za účasti zahraničného obchodu nomenklatúru, objem a lehoty vzájomných dodávok valivých ložísk a ich súčastí pre neskoršie zahrnutie dohodnutých vzájomných dodávok do obchodných zmlúv;
 
-  - 3. Odporúčania uskutočňujú zmluvné strany na základe rozhodnutí príslušných orgánov svojich štátov.
+    - 5. vypracúva opatrenia na organizovanie výroby valivých ložísk, ktoré sa v zmluvných stranách nevyrábajú alebo sa vyrábajú v nedostatočnom množstve;
 
-  - Zmluvné strany oznámia vedúcemu sekretariátu prostredníctvom zástupcov v Správe do 60 dní odo dňa podpísania protokolu výsledok prerokovania odporúčaní príslušnými orgánmi svojich štátov.
+    - 6. organizuje vzájomnú operatívnu pomoc pri dodávkach súčastí a dodávkach valivých ložísk zo skladových zásob;
 
-  - Vedúci sekretariátu o tom bez meškania upovedomí všetkých zástupcov v Správe.
+    - 7. koordinuje výskumné a vývojové práce súvisiace s výrobou a používaním valivých ložísk;
 
-- Článok VI
+    - 8. vypracúva typizované technologické pochody, unifikované uloženia a unifikované vnútorné konštrukcie valivých ložísk;
 
-  - 1. Stálym pracovným orgánom OSPVL je sekretariát Správy.
+    - 9. organizuje spôsobom určeným v jednotlivých štátoch, najmä konzultáciami a bezprostredným oboznamovaním odborníkov s výrobou operatívnejšiu výmenu technickej dokumentácie, vedecko-technických výsledkov a pokrokových skúseností vo výrobe a použití valivých ložísk;
 
-  - 2. Sekretariát sa skladá z vedúceho sekretariátu, jeho námestníkov, potrebného počtu odborných pracovníkov a technických a pomocných zamestnancov, ktorí sú občanmi zmluvných strán.
+    - 10. skúma základné otázky ekonomiky výroby valivých ložísk, vypracúva opatrenia na jej zdokonaľovanie so zreteľom na svetovú úroveň a organizuje výmenu technických a ekonomických informácií;
 
-  - 3. Práva, povinnosti, pracovný poriadok, organizačné členenie a systemizáciu sekretariátu i pracovné podmienky zamestnancov sekretariátu upravia pravidlá určené Správou.
+    - 11. zosúlaďuje perspektívne plány výroby v nomenklatúre valivých ložísk podľa odporúčaní orgánov RVHP pre koordináciu perspektívnych plánov rozvoja národného hospodárstva členských štátov Rady vzájomnej hospodárskej pomoci;
 
-  - 4. Vedúceho sekretariátu, jeho námestníkov a odborných pracovníkov vymenúva a odvoláva Správa.
+    - 12. vypracúva návrhy na rozvoj priemyslu valivých ložísk a podľa potreby i návrhy na rekonštrukciu závodov a výstavbu nových závodov;
 
-  - 5. Sekretariát má sídlo vo Varšave v Poľskej ľudovej republike.
+    - 13. pripravuje návrhy na výstavbu spoločných podnikov na výrobu valivých ložísk i pomocných podnikov pre toto priemyslové odvetvie;
 
-- Článok VII
+    - 14. určuje potrebu technologického zariadenia, prístrojov a hlavných i pomocných materiálov pre priemysel valivých ložísk a vypracúva odporúčania k tejto otázke;
 
-  - Zmluvné strany súhlasia s tým, že vláda Poľskej ľudovej republiky poskytne OSPVL vhodné miestnosti a potrebné zariadenie.
+    - 15. zosúlaďuje stanoviská k otázkam súvisiacim s nakupovaním a využívaním licencií pre priemysel valivých ložísk;
 
-- Článok VIII
+    - 16. vypracúva návrhy na vytvorenie spoločných konštrukčných kancelárií, laboratórií a ústavov;
 
-  - 1. Zmluvné strany uhradzujú rovnakým dielom náklady spojené s činnosťou OSPVL.
+    - 17. vypracúva odporúčania pre typizáciu a normalizáciu valivých ložísk i unifikáciu technických podmienok prebierky materiálov a valivých ložísk.
 
-  - 2. Činnosť OSPVL a jej sekretariátu sa financuje na podklade rozpočtu vypracúvaného na obdobie jedného roka; pritom sa vychádza najmä z týchto nákladových položiek:
+  - Článok IV
 
-    - a) správne náklady, vrátane výdavkov na zamestnancov sekretariátu, a náklady na služby poskytované OSPVL a na úhradu za práce vykonávané pre OSPVL inými organizáciami;
+    - 1. Prácu OSPVL riadi Správa, ktorá sa skladá zo stálych zástupcov všetkých zmluvných strán, po jednom za každý štát.
 
-    - b) amortizačné odpisy za poskytnutie miestností a ich zariadení OSPVL Poľskou ľudovou republikou.
+    - 2. Správa si ustanovuje rokovací poriadok.
 
-  - 3. Náklady pobytu účastníkov zasadaní a porád konaných v rámci OSPVL uhrádza štát vysielajúci svojich zástupcov na tieto zasadania a porady. Náklady spojené s poskytnutím miestností a technických prostriedkov pre uvedené zasadania a porady uhrádza štát, na území ktorého sa tieto zasadania a porady konajú.
+    - 3. Správa zasadá podľa potreby, najmenej však raz za šesť mesiacov, v mieste určenom Správou.
 
-  - 4. Rozpočet určuje a zprávu o použití finančných prostriedkov schvaľuje Správa. Na preverovanie finančnej činnosti sekretariátu Správy OSPVL vytvára Správa revíznu komisiu, zloženie ktorej určuje Štatút OSPVL.
+    - 4. Správa OSPVL prerokúva otázky, ktoré podľa článku III tejto Dohody patria do jej pôsobnosti, a k týmto otázkam sa uznáša na rozhodnutiach alebo odporúčaniach. Rozhodnutia i odporúčania vykonáva Správa len so súhlasom všetkých zmluvných strán.
 
-  - 5. Príspevky určené na financovanie činnosti Správy OSPVL a jej sekretariátu majú povahu neobchodných platieb a zmluvné strany ich uhrádzajú polročne na základe platných platobných dohôd medzi zmluvnými stranami.
+    - 5. Zasadaniam Správy predsedajú zástupcovia štátov postupne v poradí názvov štátov podľa ruskej abecedy na obdobie jedného roka.
 
-  - 6. Pravidlá pre finančnú činnosť OSPVL a pre činnosť revíznej komisie určuje osobitný dokument.
+    - 6. Správa určuje ročné i perspektívne plány svojej práce a sústavne preveruje priebeh prác.
 
-- Článok IX
+    - 7. Správa môže meniť štatút OSPVL podľa ustanovení tejto Dohody.
 
-  - OSPVL požíva práva právnickej osoby.
+  - Článok V
 
-- Článok X
+    - 1. Správa sa uznáša k bodom 1 - 10 článku III na rozhodnutiach a k bodom 11 - 17 toho istého článku na odporúčaniach.
 
-  - Oficiálnymi jazykmi OSPVL sú jazyky zmluvných strán. Pracovným jazykom OSPVL je ruský jazyk.
+    - 2. Rozhodnutia nadobúdajú platnosť, ak príslušné orgány zmluvných strán nepodajú prostredníctvom svojich zástupcov v OSPVL námietky do 30 dní od podpísania protokolu o zasadaní Správy.
 
-- Článok XI
+    - 3. Odporúčania uskutočňujú zmluvné strany na základe rozhodnutí príslušných orgánov svojich štátov.
 
-  - Táto Dohoda vyžaduje schválenie vládami všetkých zmluvných strán. Dohoda nadobudne platnosť uplynutím 30 dní odo dňa odovzdania posledného dokumentu o schválení Dohody depozitárovi, o čom depozitár upovedomí všetky zmluvné strany.
+    - Zmluvné strany oznámia vedúcemu sekretariátu prostredníctvom zástupcov v Správe do 60 dní odo dňa podpísania protokolu výsledok prerokovania odporúčaní príslušnými orgánmi svojich štátov.
 
-- Článok XII
+    - Vedúci sekretariátu o tom bez meškania upovedomí všetkých zástupcov v Správe.
 
-  - Táto Dohoda sa ukladá u vlády Poľskej ľudovej republiky, ktorá je depozitárom tejto Dohody.
+  - Článok VI
 
-- Článok XIII
+    - 1. Stálym pracovným orgánom OSPVL je sekretariát Správy.
 
-  - Dohoda sa uzaviera na neobmedzený čas.
+    - 2. Sekretariát sa skladá z vedúceho sekretariátu, jeho námestníkov, potrebného počtu odborných pracovníkov a technických a pomocných zamestnancov, ktorí sú občanmi zmluvných strán.
 
-  - Dohodu možno meniť len so súhlasom všetkých zmluvných strán.
+    - 3. Práva, povinnosti, pracovný poriadok, organizačné členenie a systemizáciu sekretariátu i pracovné podmienky zamestnancov sekretariátu upravia pravidlá určené Správou.
 
-  - Iné štáty môžu pristúpiť k tejto Dohode tým, že odovzdajú depozitárovi dokument o pristúpení, ktoré nadobudne platnosť dňom súhlasu všetkých zmluvných strán.
+    - 4. Vedúceho sekretariátu, jeho námestníkov a odborných pracovníkov vymenúva a odvoláva Správa.
 
-  - Každá zmluvná strana môže vypovedať túto Dohodu do konca februára každého roka tým, že prostredníctvom depozitára tejto Dohody oznámi to ostatným zmluvným stranám. Vypovedanie Dohody nadobudne platnosť 1. januárom budúceho roka. Vypovedanie Dohody nezbaví zmluvnú stranu záväzkov prevzatých na základe Dohody.
+    - 5. Sekretariát má sídlo vo Varšave v Poľskej ľudovej republike.
 
-- Článok XIV
+  - Článok VII
 
-  - Dohoda bola spísaná v jednom vyhotovení v ruskom jazyku. Overené odpisy Dohody zašle depozitár všetkým zmluvným stranám.
+    - Zmluvné strany súhlasia s tým, že vláda Poľskej ľudovej republiky poskytne OSPVL vhodné miestnosti a potrebné zariadenie.
 
-  - Na dôkaz toho splnomocnení zástupcovia zmluvných strán podpísali túto Dohodu.
+  - Článok VIII
 
-  - Spísané v Moskve 25. apríla 1964.
+    - 1. Zmluvné strany uhradzujú rovnakým dielom náklady spojené s činnosťou OSPVL.
 
-Z plnomocenstva vlády Bulharskej ľudovej republiky
+    - 2. Činnosť OSPVL a jej sekretariátu sa financuje na podklade rozpočtu vypracúvaného na obdobie jedného roka; pritom sa vychádza najmä z týchto nákladových položiek:
 
-S. Todorov v. r.
+      - a) správne náklady, vrátane výdavkov na zamestnancov sekretariátu, a náklady na služby poskytované OSPVL a na úhradu za práce vykonávané pre OSPVL inými organizáciami;
 
-Z plnomocenstva vlády Maďarskej ľudovej republiky
+      - b) amortizačné odpisy za poskytnutie miestností a ich zariadení OSPVL Poľskou ľudovou republikou.
 
-A. Apró v. r.
+    - 3. Náklady pobytu účastníkov zasadaní a porád konaných v rámci OSPVL uhrádza štát vysielajúci svojich zástupcov na tieto zasadania a porady. Náklady spojené s poskytnutím miestností a technických prostriedkov pre uvedené zasadania a porady uhrádza štát, na území ktorého sa tieto zasadania a porady konajú.
 
-Z plnomocenstva vlády Nemeckej demokratickej republiky
+    - 4. Rozpočet určuje a zprávu o použití finančných prostriedkov schvaľuje Správa. Na preverovanie finančnej činnosti sekretariátu Správy OSPVL vytvára Správa revíznu komisiu, zloženie ktorej určuje Štatút OSPVL.
 
-B. Leuschner v. r.
+    - 5. Príspevky určené na financovanie činnosti Správy OSPVL a jej sekretariátu majú povahu neobchodných platieb a zmluvné strany ich uhrádzajú polročne na základe platných platobných dohôd medzi zmluvnými stranami.
 
-Z plnomocenstva vlády Poľskej ľudovej republiky
+    - 6. Pravidlá pre finančnú činnosť OSPVL a pre činnosť revíznej komisie určuje osobitný dokument.
 
-P. Jaroszewicz v. r.
+  - Článok IX
 
-Z plnomocenstva vlády Československej socialistickej republiky
+    - OSPVL požíva práva právnickej osoby.
 
-O. Šimůnek v.r.
+  - Článok X
+
+    - Oficiálnymi jazykmi OSPVL sú jazyky zmluvných strán. Pracovným jazykom OSPVL je ruský jazyk.
+
+  - Článok XI
+
+    - Táto Dohoda vyžaduje schválenie vládami všetkých zmluvných strán. Dohoda nadobudne platnosť uplynutím 30 dní odo dňa odovzdania posledného dokumentu o schválení Dohody depozitárovi, o čom depozitár upovedomí všetky zmluvné strany.
+
+  - Článok XII
+
+    - Táto Dohoda sa ukladá u vlády Poľskej ľudovej republiky, ktorá je depozitárom tejto Dohody.
+
+  - Článok XIII
+
+    - Dohoda sa uzaviera na neobmedzený čas.
+
+    - Dohodu možno meniť len so súhlasom všetkých zmluvných strán.
+
+    - Iné štáty môžu pristúpiť k tejto Dohode tým, že odovzdajú depozitárovi dokument o pristúpení, ktoré nadobudne platnosť dňom súhlasu všetkých zmluvných strán.
+
+    - Každá zmluvná strana môže vypovedať túto Dohodu do konca februára každého roka tým, že prostredníctvom depozitára tejto Dohody oznámi to ostatným zmluvným stranám. Vypovedanie Dohody nadobudne platnosť 1. januárom budúceho roka. Vypovedanie Dohody nezbaví zmluvnú stranu záväzkov prevzatých na základe Dohody.
+
+  - Článok XIV
+
+    - Dohoda bola spísaná v jednom vyhotovení v ruskom jazyku. Overené odpisy Dohody zašle depozitár všetkým zmluvným stranám.
+
+    - Na dôkaz toho splnomocnení zástupcovia zmluvných strán podpísali túto Dohodu.
+
+    - Spísané v Moskve 25. apríla 1964.
+
+- Z plnomocenstva vlády Bulharskej ľudovej republiky
+
+- S. Todorov v. r.
+
+- Z plnomocenstva vlády Maďarskej ľudovej republiky
+
+- A. Apró v. r.
+
+- Z plnomocenstva vlády Nemeckej demokratickej republiky
+
+- B. Leuschner v. r.
+
+- Z plnomocenstva vlády Poľskej ľudovej republiky
+
+- P. Jaroszewicz v. r.
+
+- Z plnomocenstva vlády Československej socialistickej republiky
+
+- O. Šimůnek v.r.

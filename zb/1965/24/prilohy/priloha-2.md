@@ -1,119 +1,125 @@
-- I. Všeobecné ustanovenia
+- ŠTATÚT Organizácie pre spoluprácu v priemysle valivých ložísk
 
-  - 2. OSPVL plní svoje úlohy prostredníctvom svojich orgánov, ktorými sú Správa OSPVL a sekretariát OSPVL.
+  - I. Všeobecné ustanovenia
 
-  - 3. Na zabezpečenie plnenia svojich úloh je OSPVL oprávnená
+    - 1. Úlohy Organizácie pre spoluprácu v priemysle valivých ložísk sú ustanovené Dohodou o zriadení OSPVL podpísanou 25. apríla 1964.
 
-    - v medziach svojej právomoci vyžadovať prostredníctvom stálych zástupcov v OSPVL a s ich súhlasom od orgánov zmluvných strán potrebné materiály;
+    - 2. OSPVL plní svoje úlohy prostredníctvom svojich orgánov, ktorými sú Správa OSPVL a sekretariát OSPVL.
 
-    - podľa potreby a v súlade s plánom práce OSPVL zvolávať porady expertov zmluvných strán na rozpracovanie jednotlivých otázok.
+    - 3. Na zabezpečenie plnenia svojich úloh je OSPVL oprávnená
 
-  - 4. OSPVL požíva práva právnickej osoby a je oprávnená nadobúdať majetkové práva a brať na seba záväzky potrebné na splnenie úloh, ktoré sú v rámci jej právomoci.
+      - v medziach svojej právomoci vyžadovať prostredníctvom stálych zástupcov v OSPVL a s ich súhlasom od orgánov zmluvných strán potrebné materiály;
 
-- II.
+      - podľa potreby a v súlade s plánom práce OSPVL zvolávať porady expertov zmluvných strán na rozpracovanie jednotlivých otázok.
 
-  - Právomoc Správy OSPVL
+    - 4. OSPVL požíva práva právnickej osoby a je oprávnená nadobúdať majetkové práva a brať na seba záväzky potrebné na splnenie úloh, ktoré sú v rámci jej právomoci.
 
-  - 1. Správa riadi prácu OSPVL.
+  - II.
 
-  - 2. Správa určuje ročné a perspektívne plány svojej činnosti a sústavne preveruje priebeh prác.
+    - Právomoc Správy OSPVL
 
-  - 3. Správa sa na zabezpečenie splnenia úloh uvedených v bodoch 1-10 článku III Dohody uznáša na rozhodnutiach.
+    - 1. Správa riadi prácu OSPVL.
 
-  - 4. Správa na zabezpečenie splnenia úloh uvedených v bodoch 11-17 článku III Dohody vypracúva odporúčania.
+    - 2. Správa určuje ročné a perspektívne plány svojej činnosti a sústavne preveruje priebeh prác.
 
-  - 5. Správa určuje rozpočet OSPVL a schvaľuje zprávu sekretariátu OSPVL o čerpaní rozpočtu a protokoly revíznej komisie o previerke finančnej činnosti sekretariátu OSPVL.
+    - 3. Správa sa na zabezpečenie splnenia úloh uvedených v bodoch 1-10 článku III Dohody uznáša na rozhodnutiach.
 
-  - 6. Správa vymenúva a odvoláva vedúceho sekretariátu OSPVL, jeho námestníkov, odborných pracovníkov a hlavného účtovníka.
+    - 4. Správa na zabezpečenie splnenia úloh uvedených v bodoch 11-17 článku III Dohody vypracúva odporúčania.
 
-  - 7. Správa určuje personálny stav sekretariátu a rozdelenie funkcií medzi odborných pracovníkov zmluvných strán.
+    - 5. Správa určuje rozpočet OSPVL a schvaľuje zprávu sekretariátu OSPVL o čerpaní rozpočtu a protokoly revíznej komisie o previerke finančnej činnosti sekretariátu OSPVL.
 
-  - 8. Správa určuje smernice pre činnosť sekretariátu OSPVL.
+    - 6. Správa vymenúva a odvoláva vedúceho sekretariátu OSPVL, jeho námestníkov, odborných pracovníkov a hlavného účtovníka.
 
-  - 9. Správa určuje organizačné členenie a systemizáciu sekretariátu OSPVL.
+    - 7. Správa určuje personálny stav sekretariátu a rozdelenie funkcií medzi odborných pracovníkov zmluvných strán.
 
-  - 10. Správa mení Štatút OSPVL podľa ustanovení Dohody.
+    - 8. Správa určuje smernice pre činnosť sekretariátu OSPVL.
 
-- III.
+    - 9. Správa určuje organizačné členenie a systemizáciu sekretariátu OSPVL.
 
-  - Zloženie Správy OSPVL a spôsob jej konania
+    - 10. Správa mení Štatút OSPVL podľa ustanovení Dohody.
 
-  - 1. Správa OSPVL sa skladá zo stálych zástupcov zmluvných strán, po jednom za každý štát.
+  - III.
 
-    - Ak sa stály zástupca niektorej zmluvnej strany nemôže zúčastniť práce Správy OSPVL, vymenuje táto strana náhradníka svojho stáleho zástupcu.
+    - Zloženie Správy OSPVL a spôsob jej konania
 
-  - 2. Zasadaniam Správy predsedajú zástupcovia štátov postupne v poradí názvov štátov podľa ruskej abecedy na obdobie jedného roka. Prvý rok je predsedom zástupca štátu, na území ktorého je sídlo OSPVL. Predseda Správy OSPVL riadi zasadania Správy, organizuje prostredníctvom sekretariátu činnosť OSPVL v období medzi zasadaniami a sleduje prípravu otázok pre zasadanie Správy a plnenie rozhodnutí, na ktorých sa uzniesla Správa. Na zasadaniach Správy OSPVL vystupuje predseda súčasne ako zástupca zmluvnej strany.
+    - 1. Správa OSPVL sa skladá zo stálych zástupcov zmluvných strán, po jednom za každý štát.
 
-  - 3. Správa zasadá podľa plánu práce alebo podľa potreby, najmä však raz za šesť mesiacov, v mieste určenom Správou. Zasadanie Správy OSPVL môže byť zvolané taktiež na žiadosť jedného alebo niekoľkých stálych zástupcov alebo na žiadosť vedúceho sekretariátu OSPVL.
+      - Ak sa stály zástupca niektorej zmluvnej strany nemôže zúčastniť práce Správy OSPVL, vymenuje táto strana náhradníka svojho stáleho zástupcu.
 
-  - 4. Dátum a predbežný program rokovania budúceho zasadania Správy OSPVL určuje Správa na každom svojom zasadaní.
+    - 2. Zasadaniam Správy predsedajú zástupcovia štátov postupne v poradí názvov štátov podľa ruskej abecedy na obdobie jedného roka. Prvý rok je predsedom zástupca štátu, na území ktorého je sídlo OSPVL. Predseda Správy OSPVL riadi zasadania Správy, organizuje prostredníctvom sekretariátu činnosť OSPVL v období medzi zasadaniami a sleduje prípravu otázok pre zasadanie Správy a plnenie rozhodnutí, na ktorých sa uzniesla Správa. Na zasadaniach Správy OSPVL vystupuje predseda súčasne ako zástupca zmluvnej strany.
 
-  - 5. Správa OSPVL prijíma všetky svoje uznesenia na svojich zasadaniach. Vo výnimočných prípadoch sa môže uznášať jednotlivým súhlasom stálych zástupcov na podklade dotazu.
+    - 3. Správa zasadá podľa plánu práce alebo podľa potreby, najmä však raz za šesť mesiacov, v mieste určenom Správou. Zasadanie Správy OSPVL môže byť zvolané taktiež na žiadosť jedného alebo niekoľkých stálych zástupcov alebo na žiadosť vedúceho sekretariátu OSPVL.
 
-  - 6. Správa OSPVL je schopná uznášať sa, ak sa na jej zasadaní zúčastnia stáli zástupcovia alebo ich náhradníci zo všetkých zmluvných strán.
+    - 4. Dátum a predbežný program rokovania budúceho zasadania Správy OSPVL určuje Správa na každom svojom zasadaní.
 
-  - 7. Protokoly o zasadaniach Správy OSPVL sa spisujú v jednom vyhotovení. Protokoly podpisujú stáli zástupcovia zmluvných strán alebo ich náhradníci v poradí názvov štátov podľa ruskej abecedy. Prvopis protokolu sa ukladá v sekretariáte OSPVL. Overené odpisy protokolu sa zasielajú stálym zástupcom.
+    - 5. Správa OSPVL prijíma všetky svoje uznesenia na svojich zasadaniach. Vo výnimočných prípadoch sa môže uznášať jednotlivým súhlasom stálych zástupcov na podklade dotazu.
 
-- IV.
+    - 6. Správa OSPVL je schopná uznášať sa, ak sa na jej zasadaní zúčastnia stáli zástupcovia alebo ich náhradníci zo všetkých zmluvných strán.
 
-  - Rozhodnutia a odporúčania Správy OSPVL
+    - 7. Protokoly o zasadaniach Správy OSPVL sa spisujú v jednom vyhotovení. Protokoly podpisujú stáli zástupcovia zmluvných strán alebo ich náhradníci v poradí názvov štátov podľa ruskej abecedy. Prvopis protokolu sa ukladá v sekretariáte OSPVL. Overené odpisy protokolu sa zasielajú stálym zástupcom.
 
-  - 1. Správa sa uznáša na rozhodnutiach a odporúčaniach len so súhlasom všetkých zmluvných strán.
+  - IV.
 
-  - 2. K bodom 1-10 článku III Dohody sa Správa uznáša na rozhodnutiach a k bodom 11-17 toho istého článku na odporúčaniach.
+    - Rozhodnutia a odporúčania Správy OSPVL
 
-  - 3. Rozhodnutia nadobúdajú platnosť, ak príslušné orgány zmluvných strán nepodajú prostredníctvom svojich zástupcov v OSPVL námietky do 30 dní odo dňa podpísania protokolu o zasadaní Správy. Vedúci sekretariátu bez meškania upovedomí všetkých zástupcov v Správe o došlých námietkach.
+    - 1. Správa sa uznáša na rozhodnutiach a odporúčaniach len so súhlasom všetkých zmluvných strán.
 
-  - 4. Odporúčania uskutočňujú zmluvné strany na základe rozhodnutí príslušných orgánov svojich štátov. Zmluvné strany oznámia vedúcemu sekretariátu prostredníctvom zástupcov v Správe do 60 dní odo dňa podpísania protokolu výsledok prerokovania odporúčaní príslušnými orgánmi svojich štátov. Vedúci sekretariátu o tom bez meškania upovedomí všetkých zástupcov v Správe.
+    - 2. K bodom 1-10 článku III Dohody sa Správa uznáša na rozhodnutiach a k bodom 11-17 toho istého článku na odporúčaniach.
 
-- V.
+    - 3. Rozhodnutia nadobúdajú platnosť, ak príslušné orgány zmluvných strán nepodajú prostredníctvom svojich zástupcov v OSPVL námietky do 30 dní odo dňa podpísania protokolu o zasadaní Správy. Vedúci sekretariátu bez meškania upovedomí všetkých zástupcov v Správe o došlých námietkach.
 
-  - Sekretariát
+    - 4. Odporúčania uskutočňujú zmluvné strany na základe rozhodnutí príslušných orgánov svojich štátov. Zmluvné strany oznámia vedúcemu sekretariátu prostredníctvom zástupcov v Správe do 60 dní odo dňa podpísania protokolu výsledok prerokovania odporúčaní príslušnými orgánmi svojich štátov. Vedúci sekretariátu o tom bez meškania upovedomí všetkých zástupcov v Správe.
 
-  - 1. Sekretariát sa skladá z vedúceho sekretariátu, jeho námestníkov, hlavného účtovníka, potrebného počtu odborných pracovníkov a technických a pomocných zamestnancov, ktorí sú občanmi zmluvných strán.
+  - V.
 
-  - 2. Vedúci sekretariátu riadi jeho prácu a je podriadený a zodpovedný Správe OSPVL.
+    - Sekretariát
 
-  - 3. Vedúceho sekretariátu, jeho námestníkov a odborných pracovníkov vymenúva a odvoláva Správa. Technických zamestnancov vymenúva a odvoláva vedúci sekretariátu.
+    - 1. Sekretariát sa skladá z vedúceho sekretariátu, jeho námestníkov, hlavného účtovníka, potrebného počtu odborných pracovníkov a technických a pomocných zamestnancov, ktorí sú občanmi zmluvných strán.
 
-  - 4. Vedúci sekretariátu zastupuje Správu podľa jej pokynov voči orgánom a organizáciám zmluvných strán aj iných štátov.
+    - 2. Vedúci sekretariátu riadi jeho prácu a je podriadený a zodpovedný Správe OSPVL.
 
-  - 5. V období medzi zasadaniami Správy je vedúci sekretariátu oprávnený robiť operatívne opatrenia podľa rozhodnutí Správy, jej plánu práce a pokynov predsedu Správy.
+    - 3. Vedúceho sekretariátu, jeho námestníkov a odborných pracovníkov vymenúva a odvoláva Správa. Technických zamestnancov vymenúva a odvoláva vedúci sekretariátu.
 
-- VI.
+    - 4. Vedúci sekretariátu zastupuje Správu podľa jej pokynov voči orgánom a organizáciám zmluvných strán aj iných štátov.
 
-  - Činnosť sekretariátu
+    - 5. V období medzi zasadaniami Správy je vedúci sekretariátu oprávnený robiť operatívne opatrenia podľa rozhodnutí Správy, jej plánu práce a pokynov predsedu Správy.
 
-  - Sekretariát Správy
+  - VI.
 
-  - 1. napomáha plniť uznesenia Správy OSPVL;
+    - Činnosť sekretariátu
 
-  - 2. organizuje prípravu zasadaní Správy OSPVL;
+    - Sekretariát Správy
 
-  - 3. organizuje prípravu konferencií a porád konaných v rámci OSPVL;
+    - 1. napomáha plniť uznesenia Správy OSPVL;
 
-  - 4. predkladá Správe OSPVL návrhy týkajúce sa činnosti OSPVL;
+    - 2. organizuje prípravu zasadaní Správy OSPVL;
 
-  - 5. podľa pokynov Správy OSPVL zabezpečuje prípravu materiálov pre jej zasadania;
+    - 3. organizuje prípravu konferencií a porád konaných v rámci OSPVL;
 
-  - 6. organizuje a vedie evidenciu plnenia rozhodnutí;
+    - 4. predkladá Správe OSPVL návrhy týkajúce sa činnosti OSPVL;
 
-  - 7. vypracúva a rozosiela všetkým stálym zástupcom spolu s potrebnými materiálmi spravidla 20 dní pred začiatkom zasadania Správy návrh programu rokovania zasadania. Do návrhu programu rokovania sa zahrnú otázky vyplývajúce z plánu práce a z predchádzajúcich uznesení Správy OSPVL, ako aj otázky predložené stálymi zástupcami zmluvných strán alebo vedúcim sekretariátu;
+    - 5. podľa pokynov Správy OSPVL zabezpečuje prípravu materiálov pre jej zasadania;
 
-- VII.
+    - 6. organizuje a vedie evidenciu plnenia rozhodnutí;
 
-  - Finančné otázky
+    - 7. vypracúva a rozosiela všetkým stálym zástupcom spolu s potrebnými materiálmi spravidla 20 dní pred začiatkom zasadania Správy návrh programu rokovania zasadania. Do návrhu programu rokovania sa zahrnú otázky vyplývajúce z plánu práce a z predchádzajúcich uznesení Správy OSPVL, ako aj otázky predložené stálymi zástupcami zmluvných strán alebo vedúcim sekretariátu;
 
-  - 1. Pravidlá pre finančnú činnosť OSPVL určuje osobitný dokument vydaný Správou.
+    - 8. na splnenie úloh uložených sekretariátu sa odborní pracovníci sekretariátu podľa potreby oboznamujú na mieste so stavom priemyslu valivých ložísk zmluvných strán.
 
-  - 2. Finančnú činnosť sekretariátu OSPVL preveruje revízna komisia.
+  - VII.
 
-- VIII.
+    - Finančné otázky
 
-  - Revízna komisia
+    - 1. Pravidlá pre finančnú činnosť OSPVL určuje osobitný dokument vydaný Správou.
 
-  - 1. Revízna komisia sa skladá z troch odborníkov vymenovaných zmluvnými stranami, po jednom za každú zmluvnú stranu, v poradí názvov štátov podľa ruskej abecedy. Členovia revíznej komisie sú vymenovaní na obdobie troch rokov.
+    - 2. Finančnú činnosť sekretariátu OSPVL preveruje revízna komisia.
 
-  - 2. Revízna komisia je zodpovedná a podriadená Správe OSPVL.
+  - VIII.
 
-  - 3. Pravidlá pre činnosť revíznej komisie určuje osobitný dokument vydaný Správou.
+    - Revízna komisia
+
+    - 1. Revízna komisia sa skladá z troch odborníkov vymenovaných zmluvnými stranami, po jednom za každú zmluvnú stranu, v poradí názvov štátov podľa ruskej abecedy. Členovia revíznej komisie sú vymenovaní na obdobie troch rokov.
+
+    - 2. Revízna komisia je zodpovedná a podriadená Správe OSPVL.
+
+    - 3. Pravidlá pre činnosť revíznej komisie určuje osobitný dokument vydaný Správou.
