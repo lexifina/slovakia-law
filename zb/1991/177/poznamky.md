@@ -1,1 +1,0 @@
-- 1) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 145/1991 Zb. o usmerňovaní mzdových prostriedkov rozpočtových a príspevkových organizácií.
