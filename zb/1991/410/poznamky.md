@@ -16,6 +16,10 @@
 
 - 8) Napr. zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
 
+- 8a) Napríklad zákon Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
+
+- 8b) § 17 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
+
 - 9) § 276 a nasl. Občianskeho súdneho poriadku.
 
 - 10) § 121 ods. 2 Zákonníka práce.
@@ -38,7 +42,7 @@
 
 - 16) Vyhláška č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení neskorších predpisov.
 
-- 17) § 202 ods. 2 Zákonníka práce.
+- 17) Zákon č. 297/1991 Zb. o úprave náhrady za stratu na zárobku po skončení pracovnej neschopnosti vzniknutej pracovným úrazom alebo chorobou z povolania.
 
 - 18) Zákon č. 1/1991 Zb. o zamestnanosti.
 
