@@ -4,7 +4,7 @@
 
 - 3) § 176 Obchodného zákonníka.
 
-- 4) § 28 zákona č. 385/1999 Z. z. o kolektívnom investovaní.
+- 4) § 40 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 5) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
@@ -40,11 +40,15 @@
 
 - 21) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 22) § 5 zákona č. 385/1999 Z. z.
+- 22) § 3 zákona č. 594/2003 Z. z.
 
 - 23) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
+
+- 24a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+
+- 24b) § 5 písm. j) zákona č. 594/2003 Z. z.
 
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
@@ -54,9 +58,9 @@
 
 - 27) Napríklad § 22 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 2 ods. 3 zákona č. 144/1998 Z. z.
 
-- 28) Napríklad § 155 ods. 2 Obchodného zákonníka v znení neskorších predpisov, § 28 ods. 4 zákona č. 385/1999 Z. z.
+- 28) Napríklad § 155 ods. 2 Obchodného zákonníka v znení neskorších predpisov.
 
-- 29) § 6 ods. 2 zákona č. 530/1990 Zb. v znení neskorších predpisov, § 25 ods. 4 a § 41 ods. 4 zákona č. 385/1999 Z. z.
+- 29) § 6 ods. 2 zákona č. 530/1990 Zb. v znení neskorších predpisov, § 25 ods. 4 a § 36 zákona č. 594/2003 Z. z.
 
 - 30) Napríklad § 168 ods. 3 Obchodného zákonníka.
 
@@ -138,9 +142,11 @@
 
 - 58j) Opatrenie Národnej banky Slovenska z 12. decembra 2002 č. 8/2002 o majetkovej angažovanosti bánk (oznámenie č. 697/2002 Z. z.).
 
-- 59) Zákon č. 563/1991 Zb. v znení neskorších predpisov.
+- 59) § 17 až 20 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
 - 60) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
+
+- 60a) § 19 ods. 1 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
 - 61) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
@@ -154,6 +160,8 @@
 
 - 66) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
+- 66a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z.
+
 - 67) Zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
 
 - 68) Zákon č. 222/1946 Zb. o pošte (poštový zákon).
@@ -162,7 +170,7 @@
 
 - 70) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
-- 71) Napríklad § 20 zákona č. 563/1991 Zb. v znení zákona č. 336/1999 Z. z.
+- 71) Napríklad § 21 zákona č. 431/2002 Z. z.
 
 - 72) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -186,7 +194,7 @@
 
 - § 101 a 785 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 79) Napríklad zákon č. 563/1991 Zb. v znení neskorších predpisov, vyhláška Ministerstva financií Slovenskej republiky č. 25/2000 Z. z. o spôsobe určenia hodnoty cenných papierov v majetku v podielovom fonde.
+- 79) Napríklad zákon č. 431/2002 Z. z. v znení zákona č. 562/2003 Z. z., vyhláška Ministerstva financií Slovenskej republiky č. 611/2003 Z. z. o spôsobe určenia hodnoty cenných papierov, nástrojov peňažného trhu a derivátov v majetku v podielovom fonde.
 
 - 80) § 20 ods. 1 zákona č. 330/2000 Z. z.
 
@@ -203,6 +211,10 @@
 - 86) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
 
 - 87) Napríklad § 784 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 87a) § 7 ods. 3 a § 10 ods. 1 písm. d) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 87b) Napríklad zákon č. 431/2002 Z. z.
 
 - 88) Napríklad zákon č. 563/1991 Zb. v znení neskorších predpisov.
 
@@ -236,7 +248,11 @@
 
 - 102) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
-- 103) § 3 ods. 2 zákona č. 385/1999 Z. z.
+- 102a) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+
+- 102b) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+
+- 103) § 5 písm. b) zákona č. 594/2003 Z. z.
 
 - 103a) Zákon č. 429/2002 Z. z. o burze cenných papierov.
 
@@ -252,13 +268,25 @@
 
 - 107c) Napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
+- 107d) § 33 zákona č. 428/2002 Z. z.
+
 - 108) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
+
+- 108a) Zákon č. 428/2002 Z. z.
 
 - 109) Občiansky súdny poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
 
 - 110) § 13 zákona č. 329/2000 Z. z.
 
-- 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 385/1999 Z.z v znení zákona č. 329/2000 Z. z.
+- 110a) § 2 ods. 2 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+
+- 110b) Napríklad zákon č. 594/2003 Z. z.
+
+- 110c) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 95/2002 Z. z. v znení neskorších predpisov.
+
+- 110d) § 35 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+
+- 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov.
 
 - 112) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
