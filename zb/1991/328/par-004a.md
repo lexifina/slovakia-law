@@ -1,25 +1,7 @@
-## Dohodovanie
-
 # § 4a
 
-(1) Ak návrh na dohodovanie podáva dlžník, je povinný k tomuto návrhu priložiť zoznam veriteľov s výškou pohľadávok voči dlžníkovi. Dlžník je povinný zvolať schôdzu tuzemských veriteľov (ďalej len „schôdza veriteľov“) do 30 dní odo dňa podania návrhu na dohodovanie.
+(1) Ak pred rozhodnutím súdu o návrhu na vyhlásenie konkurzu je doručený súdu ďalší návrh na vyhlásenie konkurzu na toho istého dlžníka, súd tento návrh bez rozhodnutia pripojí k predchádzajúcemu návrhu, ak spĺňa náležitosti podľa § 4; inak konanie o tomto návrhu zastaví. Ak súd pripojí ďalší návrh na vyhlásenie konkurzu, rozumie sa tým, že dňom pripojenia tohto návrhu ďalší navrhovateľ pristúpil do konania. Pripojením návrhu navrhovateľ prijíma stav konania, v ktorom je v čase pripojenia návrhu.
 
-(2) Ak návrh na dohodovanie podal tuzemský veriteľ, je povinný bezodkladne jedno vyhotovenie návrhu doručiť dlžníkovi. Dlžník je povinný predložiť súdu do troch dní odo dňa doručenia návrhu zoznam veriteľov s výškou ich pohľadávok a do 30 dní zvolať schôdzu veriteľov.
+(2) Ak sú inak dané dôvody na pripojenie návrhu podľa odseku 1, avšak predchádzajúci konkurz je prerušený, súd o tomto ďalšom návrhu koná bez jeho pripojenia.
 
-(3) Ak návrh na dohodovanie nepodal dlžník alebo jeho tuzemský veriteľ v lehote podľa § 4 ods. 1, súd vyzve dlžníka, aby do 15 dní odo dňa doručenia výzvy zvolal schôdzu veriteľov. Dohodovanie sa v tomto prípade začína dňom doručenia výzvy dlžníkovi.
-
-(4) Schôdza veriteľov, zvolaná podľa odsekov 1 až 3, sa uskutoční do 30 dní od jej zvolania.
-
-(5) Schôdza veriteľov najmä
-
-- a) volí a odvoláva členov rady tuzemských veriteľov (ďalej len „rada veriteľov“),
-
-- b) schvaľuje projekt ozdravenia,
-
-- c) schvaľuje návrh rady veriteľov na skončenie dohodovania pre neplnenie projektu ozdravenia podľa § 4g ods. 1 písm. d).
-
-(6) Na platnosť uznesenia schôdze veriteľov a voľby a odvolania členov rady veriteľov je potrebná nadpolovičná väčšina hlasov tuzemských veriteľov prítomných na schôdzi veriteľov. Každý tuzemský veriteľ má jeden hlas.
-
-(7) Ak je dlžník zapísaný v obchodnom, živnostenskom alebo inom registri, požiada do siedmich dní od začatia dohodovania o vyznačenie tejto skutočnosti v príslušnom registri a v katastri nehnuteľností. V príslušnom registri a v katastri nehnuteľností sa vyznačí aj zastavenie konkurzného konania podľa § 4g ods. 2. Orgán, ktorý vedie register, zaznamená túto skutočnosť v registri bez toho, aby o tom vydal rozhodnutie.
-
-(8) Priebeh a výsledky schôdze veriteľov osvedčuje notár. Notár oznámi súdu do piatich dní od konania schôdze veriteľov skutočnosť, že rada veriteľov nebola zvolená.
+(3) Navrhovateľ môže vziať svoj návrh späť až do vyhlásenia konkurzu. Súd konanie zastaví, ak s tým súhlasia všetci navrhovatelia, ktorí pristúpili do konania.
