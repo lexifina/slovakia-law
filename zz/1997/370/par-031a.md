@@ -76,7 +76,7 @@ dosiahol vekovú hranicu a neplní prevzatý záväzok na profesionálnu službu
 
 d)
 
-nesplnil niektorú zo základných povinností vojaka uvedených v § 72 alebo porušil niektorý zákaz ustanovený týmto zákonom,
+závažným spôsobom porušil niektorú zo základných povinností vojaka ustanovených týmto zákonom alebo porušil niektorý zákaz ustanovený týmto zákonom,
 
 e)
 
@@ -86,15 +86,23 @@ f)
 
 nespĺňa kvalifikačné predpoklady vzdelania alebo kvalifikačné požiadavky na výkon funkcie, do ktorej je ustanovený, a ak ho nemožno ustanoviť do inej funkcie.
 
+g)
+
+v konaní o úmyselnom trestnom čine bolo právoplatne rozhodnuté o podmienečnom zastavení trestného stíhania,
+
+h)
+
+závažným spôsobom porušil ustanovenie osobitného predpisu súvisiace s výkonom služby.
+
 (3)
 
-Návrhy na prepustenie z dôvodov uvedených v odseku 2 písm. a), d) a e) posudzuje komisia zriadená ministrom alebo ním splnomocneným služobným orgánom.
+Za závažný spôsob porušenia základnej povinnosti podľa odseku 2 písm. d) sa považuje najmä výkon služby pod vplyvom alkoholických nápojov alebo iných návykových látok, spôsobenie dopravnej nehody pod vplyvom alkoholických nápojov alebo iných návykových látok, prijatie úplatku a inej nenáležitej výhody, podplácanie alebo nepriama korupcia.
 
 § 33
 
 (1)
 
-O prepustení profesionálneho vojaka zo služobného pomeru rozhoduje služobný orgán. O prepustení profesionálneho vojaka zo služobného pomeru podľa § 32 ods. 1 a § 32 ods. 2 písm. a), d) a e) rozhodne služobný orgán do dvoch mesiacov odo dňa, keď dôvod na prepustenie zistil, najneskôr však do jedného roka odo dňa, keď tento dôvod vznikol.
+O prepustení profesionálneho vojaka zo služobného pomeru rozhoduje služobný orgán. O prepustení profesionálneho vojaka zo služobného pomeru podľa § 32 ods. 1 písm. e) až i) a § 32 ods. 2 písm. a), d), e), g) a h) rozhodne služobný orgán do dvoch mesiacov odo dňa, keď dôvod na prepustenie zistil, najneskôr však do jedného roka odo dňa, keď tento dôvod vznikol.
 
 (2)
 
@@ -158,7 +166,7 @@ spĺňa podmienky nároku na starobný, invalidný alebo čiastočný invalidný
 
 b)
 
-bol prepustený zo služobného pomeru podľa § 32 ods. 1 písm. a), b), d), e), g), h), i) a j) a podľa § 32 ods. 2 písm. a), b), d) a e).
+splnil podmienky na prepustenie zo služobného pomeru podľa § 32 ods. 1 písm. a), b), d), e), g) až j) alebo podľa § 32 ods. 2 písm. a), b), d) až h).
 
 (4)
 
