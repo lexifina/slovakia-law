@@ -56,6 +56,8 @@
 
 - 26) Vyhláška Ministerstva vnútra Slovenskej republiky č. 300/1996 Z. z. o zabezpečení ochrany obyvateľstva pri výrobe, preprave, skladovaní a manipulácii s nebezpečnými škodlivinami.
 
+- 26a) § 54a ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.
+
 - 27) § 3 až 7 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 369/1999 Z. z.
 
 - 28) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
