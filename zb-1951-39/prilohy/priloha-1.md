@@ -1,0 +1,1 @@
+- Kresba pamätného stokorunáka: ![Obrázok 01](../assets/93fd9f3af4ac2135b6e6bd5d06be9dfd08ae4b6ef99551a8c5278ee7b0bfd120.png)
