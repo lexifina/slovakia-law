@@ -1,3 +1,0 @@
-Príloha č. 6 k vyhláške č. 346/2002 Z. z. [Vzor 06-1](../assets/7437056263cfe8ff5b46bb913de5d769b6cd1c441283b163536a8534657c211e.pdf)
-
-[Vzor 06-2](../assets/cfdc71a4505638043377b7deffc8d3c36634f7ebfa61a690262280032771e936.pdf)
