@@ -60,7 +60,9 @@
 
 - 6b) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 6d) § 2 a 3 zákona Národnej rady Slovenskej republiky č. 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností.
+- 6c) § 28 ods. 1 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.§ 2 ods. 1 zákona č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov.
+
+- 6d) § 32 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
 
 - 6e) § 5 zákona Národnej rady Slovenskej republiky č. 192/1995 Z. z.
 
