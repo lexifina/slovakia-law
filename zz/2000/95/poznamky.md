@@ -48,6 +48,8 @@
 
 - 15) § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
+- 15a) § 4 ods. 4 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
+
 - 16) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 17) Napríklad Zákonník práce, zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
