@@ -64,7 +64,7 @@ Zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych l
 
 - môže podať návrh sadzobníka minimálnych cien Ministerstvu financií Slovenskej republiky.“.
 
-- 13. V § 9 ods. 4 sa slová „Štátna veterinárna správa Slovenskej republiky“ nahrádzajú slovom „ministerstvo“.
+- 13. V § 9 ods. 4 sa slová „Štátna veterinárna a potravinová správa Slovenskej republiky“ nahrádzajú slovom „ministerstvo“.
 
 - 14. V § 11 ods. 2 písmeno f) znie:
 
