@@ -12,8 +12,6 @@ Zrušujú sa:
 
 - 5. vyhláška Štátnej arbitráže ČSSR č. 31/1972 Zb. o zmluvách o príprave dodávky niektorých stavieb,
 
-- 6. ustanovenia § 6 ods. 2, § 53 ods. 4, § 106 ods. 4 a § 123 zákona č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch,
-
 - 7. vyhláška Federálneho ministerstva financií č. 154/1975 Zb. o fakturovaní a platení dodávok neinvestičnej povahy,
 
 - 8. vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 89/1976 Zb. o oprávnení na inžinierske činnosti vo výstavbe,
