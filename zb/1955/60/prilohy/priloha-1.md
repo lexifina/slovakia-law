@@ -638,9 +638,9 @@
 
   - | a) po prevode ochodeného osobného automobilu prvým prevodcom | 40 % úradnej odhadnej ceny automobilu v kompletnom stave, zistenej bezprostredne pred prevodom; |
 
-  - | b) v iných než pod písm. a) uvedených prípadoch | 100 | 30
+  - | b) v iných než pod písm. a) uvedených prípadoch | 300 | 100
 
-  - | ak ide o motorové kolo s obsahom do 50 ccm | - | 5
+  - | ak ide o motorové kolo s obsahom do 50 ccm | - | 10
 
   - | Poznámky k písm. a): 1. Pod ochodeným osobným automobilom sa rozumie osobný automobil alebo podvozok (chassis) dodatočne opatrený osobnou karosériou, nadobudnutý pred 1. januárom 1949, i keď sa pred týmto dňom automobil nepoužil na cestu. Ochodený osobný automobil prestavaný po 21. júli 1950 na automobil dodávkový považuje sa pre vybranie poplatku za automobil osobný, ak bol po prevode opäť upravený na automobil osobný. 2. Prvým prevodcom sa rozumie ten, kto automobil, ktorého je nepretržite držiteľom od 31. decembra 1948 alebo od času ešte skoršieho, prevedie po 31. júli 1953. Pre určenie, kto je držiteľom automobilu a či prevodca je držiteľom automobilu nepretržite aspoň od 31. decembra 1948, prípadne pre určenie dňa nadobudnutia automobilu jeho prevodcom, sú rozhodné údaje zaznamenané v dokladoch vydaných podľa predpisov o premávke na cestách; iné doklady o vlastníctve k vozidlu sú rozhodné, ak len nadobudol prevodca podľa nich vozidlo alebo jeho držbu prv než podľa dokladov vydaných podľa predpisov o premávke na cestách alebo ak nemožno uvedené skutočnosti z dokladov vydaných podľa týchto predpisov zistiť. Pri ochodených automobiloch nadobudnutých po 21. júli 1950 dedičstvom považuje sa za prvého prevodcu ten, kto automobil ďalej prevedie. 3. Poplatok sa neplatí za zápis zmeny držiteľa, ak nadobudol nový držiteľ osobný automobil dedičstvom; v tom prípade sa platí len poplatok podľa písm. b). 4. Poplatok je povinný zaplatiť doterajší držiteľ pri ohlásení prevodu. 5. Pri bojových vozidlách (KDF, Jeep a pod.) sa poplatok znižuje o 30 %. | |
 
@@ -966,7 +966,7 @@
 
   - Pol. | Predmet poplatku | Poplatok Kčs
 
-  - 116 | Povolenie vecnej lotérie, z hernej istiny | 5 %, najmenej však 20 Kčs.
+  - 116 | Povolenie vecnej lotérie, z hernej istiny | 10 %, najmenej však 40 Kčs
 
   - 117 | Povolenie reklamného a pod. zlosovania, z ceny všetkých výher daných do zlosovania | 10 %, najmenej však 40 Kčs.
 
