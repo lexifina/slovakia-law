@@ -1,1 +1,0 @@
-- 1) Usnesení vlády České socialistické republiky ze dne 18. června 1975 č . 137 uveřejněné ve Sbírce zákonů ČSSR dne 23. června 1975 pod č. 60 bylo s účinností od 1. ledna 1977 zrušeno usnesením vlády České socialistické republiky ze dne 15. prosince 1976 č. 320.
