@@ -6,7 +6,7 @@ Príloha č. 2 k zákonu č. 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
 
     - Všeobecná podmienka: zmena povolenia na výrobu sa musí predložiť kompetentnému orgánu.
 
-  - 1. 1. Zmena názvu výrobcu lieku.
+  - 1. 1. Zmena názvu držiteľa povolenia na výrobu liekov.
 
     - Podmienka, ktorá sa musí dodržať: miesto výroby musí byť to isté.
 
@@ -22,7 +22,7 @@ Príloha č. 2 k zákonu č. 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
 
   - 3. Zmena názvu alebo adresy držiteľa rozhodnutia o registrácii lieku.
 
-    - Podmienka, ktorá sa musí dodržať: držiteľom rozhodnutia o registrácii lieku musí byť tá istá osoba.
+    - Podmienka, ktorá sa musí dodržať: držiteľom rozhodnutia o registrácii lieku musí byť tá istá osoba alebo osoba, na ktorú prešli práva a povinnosti tejto osoby.
 
   - 4. Nahradenie pomocnej látky porovnateľnou pomocnou látkou (okrem pomocných látok pri vakcínach a biologicky vyrobených pomocných látok).
 

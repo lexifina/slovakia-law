@@ -6,9 +6,23 @@
 
 - b) má vlastné alebo zmluvné kontrolné laboratórium,
 
-- c) určilo odborného zástupcu zodpovedného za prípravu transfúznych liekov, ktorý je lekár so špecializáciou v odbore hematológia a transfuziológia alebo farmaceut so špecializáciou v odbore farmaceutická technológia,
+- c) určilo odborného zástupcu zodpovedného za prípravu transfúznych liekov, ktorým môže byť lekár so špecializáciou v odbore hematológia a transfuziológia alebo farmaceut so špecializáciou v odbore farmaceutická technológia, alebo iný zdravotnícky pracovník so špecializáciou v odbore farmaceutické technologické postupy,<sup>3</sup>)
 
-- d) určilo odborného zástupcu zodpovedného za zabezpečenie kvality transfúznych liekov, ktorý je farmaceut so špecializáciou v odbore farmaceutická analytika alebo lekárenstvo,
+- d) určilo odborného zástupcu zodpovedného za zabezpečovanie kvality transfúznych liekov, ktorým môže byť
+
+  - 1. farmaceut
+
+  - 1.1 so špecializáciou v odbore farmaceutická kontrola a zabezpečovanie kvality liekov s certifikátom na zabezpečovanie kvality transfúznych liekov,
+
+  - 1.2 so špecializáciou v odbore farmaceutická technológia s certifikátom na zabezpečovanie kvality transfúznych liekov alebo
+
+  - 1.3 so špecializáciou v odbore lekárenstvo s certifikátom na zabezpečovanie kvality transfúznych liekov,
+
+  - 2. iný zdravotnícky pracovník
+
+  - 2.1 so špecializáciou v odbore zabezpečovanie kvality liekov s certifikátom na zabezpečovanie kvality transfúznych liekov alebo
+
+  - 2.2 so špecializáciou v odbore vyšetrovacie metódy v hematológii a transfuziológii.<sup>3</sup>)
 
 - e) odborný zástupca zodpovedný za prípravu transfúznych liekov a odborný zástupca zodpovedný za zabezpečovanie kvality transfúznych liekov nie sú vo vzájomnej riadiacej pôsobnosti.
 
