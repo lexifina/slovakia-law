@@ -12,19 +12,15 @@
 
 - 5) Brehové porasty na svahoch brehov a v bezprostrednej blízkosti koryta - § 31 ods. 1 zákona č. 138/1973 Zb. o vodách (vodný zákon) - stromy a kry na pozemkoch pri vodnom toku - § 34 ods. 1 písm. b) a § 38 vodného zákona. § 11 vyhlášky Ministerstva lesného a vodného hospodárstva Českej socialistickej republiky č. 19/1978 Zb., ktorou sa určujú povinnosti správcov vodných tokov a upravujú sa niektoré otázky týkajúce sa vodných tokov - stromy a kry v zátopových územiach § 10 písm. a) a § 13 ods. 2 vodného zákona.
 
-- 6) § 6 (zverina a živá zver) vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 73/1985 Zb. o základných podmienkach dodávky poľnohospodárskych výrobkov a poľnohospodárskych potrieb.
+- 6) Vyhláška Federálneho ministerstva poľnohospodárstva a výživy č. 155/1988 Zb. o základných podmienkach dodávky poľnohospodárskych výrobkov.
 
-- 7) Vyhláška Federálneho ministerstva poľnohospodárstva a výživy č. 159/1975 Zb. o spolupráci v poľnohospodárstve a jej formách v znení vyhlášky č. 100/1983 Zb.
+- 7) § 3 zákona č. 90/1988 Zb. o poľnohospodárskom družstevníctve.
 
-- 8) § 260a a § 391 ods. 4 zákona.
+- 8) Vyhláška Ministerstva lesného a vodného hospodárstva Českej socialistickej republiky č. 101/1985 Zb. o určení vybraných lesných výrobkov a organizácií oprávnených na ich nákup.
+
+- Vyhláška Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky č. 102/1985 Zb. o určení vybraných lesných výrobkov a organizácií oprávnených na ich nákup.
 
 - 9) Napr. ČSN 48 0055 - Ihličnaté sortimenty surového dreva. Technické požiadavky. ČSN 48 0056 -Listnaté sortimenty surového dreva. Technické požiadavky.
-
-- 10) § 3 zákona ČNR č. 96/1977 Zb.§ 3 zákona SNR č. 100/1977 Zb.
-
-- 11) § 114a ods. 2 zákona.
-
-- 12) § 7 ods. 6 vyhlášky Štátnej plánovacej komisie a Štátnej arbitráže Československej socialistickej republiky č. 48/1980 Zb. o hmotnom bilancovaní a prerokúvaní dodávateľsko-odberateľských vzťahov v plánovacom procese.
 
 - 13) Jednotná klasifikácia výrobkov v poľnohospodárstve a lesníctve vydaná Federálnym štatistickým úradom (oznámené v čiastke 33/1976 Zb.) v znení neskorších doplnkov a zmien.
 
@@ -52,8 +48,6 @@
 
 - ČSN 48 0050 Surové drevo. Základné a spoločné ustanovenia.
 
-- 18) Smernice pre vzájomné zastúpenie podnikov štátnych lesov pri dodávkach dreva (Zbierka pokynov štátnych lesov 1965 čl. 34).
-
 - 19) Cenník veľkoobchodných cien odbor 052 - VC 19/1-1985 Výrobky ťažby dreva - surové drevo, platný od 1. 1. 1985, výmer FCÚ 6112 - 09 84 z 29. 3. 1984.
 
 - 20) ČSN 49 0071 - Usporiadanie skladov z hľadiska požiarnej bezpečnosti.
@@ -63,8 +57,6 @@
 - 22) Prvotná evidencia a obeh dokladov v štátnych lesoch, reg. č. 47/1967 Zb. v znení neskorších doplnkov a zmien.
 
 - Inštrukcie k režimu prvotnej evidencie, Vestník Ministerstva lesného a vodného hospodárstva ČSR č. 20/1983.
-
-- 23) Inštrukcie na výrobu dreva socialistickými organizáciami a občanmi vlastnými prostriedkami (samovýrobu dreva) por. č. 5/1985, Vestník ministerstva lesného a vodného hospodárstva Českej socialistickej republiky čiastka 7/1985. Úprava Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky č. 61-222/80 pre plánovanie a realizáciu samovýroby dreva. Úprava Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky č. 1032/84-222/82 - vykazovanie samovýroby dreva.
 
 - 24) ON 48 0511 - Vianočné stromčeky.
 
