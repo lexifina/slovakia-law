@@ -60,6 +60,4 @@
 
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 15) § 3 zákona Slovenskej národnej rady č. 128/1991 Zb. o Štátnom fonde životného prostredia Slovenskej republiky v znení zákona Slovenskej národnej rady č. 311/1992 Zb.
-
 - 16) § 6 ods. 1 zákona Slovenskej národnej rady č. 311/1992 Zb. o poplatkoch za znečisťovanie ovzdušia.
