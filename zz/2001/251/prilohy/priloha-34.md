@@ -1,0 +1,3 @@
+Príloha č. 34 k vyhláške č. 251/2001 Z. z.
+
+- VZOR POVOLENIE NA REŽIM PREPRACOVANIE POD COLNÝM DOHĽADOM [Vzor 34](../assets/3f4d5ad9f9070d5ec60d29d2be4d9ebff33ad24085ebaa19411577010b618f42.pdf)

@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 251/2001 Z. z.
+
+- VZOR ŽIADOSŤ O VYDANIE ZÁVÄZNEJ INFORMÁCIE O NOMENKLATÚRNOM ZATRIEDENÍ TOVARU [Vzor 02](../assets/63c0df53d22c70a960efffc36cb2d011c9cc3e82342e68772a8e77d84b75c0bf.pdf)

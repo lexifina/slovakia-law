@@ -1,0 +1,3 @@
+Príloha č. 31 k vyhláške č. 251/2001 Z. z.
+
+- VZOR ŽIADOSŤ O POVOLENIE NA POUŽITIE REŽIMU PASÍVNY ZUŠĽACHŤOVACÍ STYK [Vzor 31](../assets/15ba782670b0c6d1f0a178e2c3696a2d9c0c88af356551ed0197ad945ac56aef.pdf)

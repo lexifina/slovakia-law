@@ -1,0 +1,3 @@
+Príloha č. 8 k vyhláške č. 251/2001 Z. z.
+
+- VZOR OSVEDČENIE O PÔVODE TOVARU PRE DOVOZ POĽNOHOSPODÁRSKEHO TOVARU [Vzor 08](../assets/39a85030f8636d0ea3924701bfe4e2f1a6998dfee87eddbbe3fd0d6b61e13815.pdf)

@@ -1,0 +1,3 @@
+Príloha č. 28 k vyhláške č. 251/2001 Z. z.
+
+- VZOR ŽIADOSŤ O POVOLENIE NA POUŽITIE REŽIMU AKTÍVNY ZUŠĽACHŤOVACÍ STYK [Vzor 28](../assets/e1e64c5369733c603c7a06c518f412aa2e36b29acb930ed5200bbf6bc7395041.pdf)
