@@ -1,0 +1,5 @@
+# § 173n
+
+(1) Nezaopatrenému dieťaťu po policajtovi, profesionálnom vojakovi a vojakovi prípravnej služby, ktorému vznikol nárok na sirotský výsluhový dôchodok a ktorému Sociálna poisťovňa priznala v období od 1. júla 2002 do 30. júna 2003 sirotský dôchodok po zomretom rodičovi (osvojiteľovi) alebo občanovi, ktorý prevzal dieťa do starostlivosti nahrádzajúcej starostlivosť rodičov, po ktorom bol priznaný sirotský výsluhový dôchodok, nárok na sirotský dôchodok zaniká od 1. júla 2003.
+
+(2) Ak nezaopatrené dieťa po policajtovi, profesionálnom vojakovi a vojakovi prípravnej služby, ktorému vznikol nárok na sirotský výsluhový dôchodok, požiadalo v období od 1. júla 2002 do 30. júna 2003 Sociálnu poisťovňu o priznanie sirotského dôchodku po zomretom rodičovi (osvojiteľovi) alebo občanovi, ktorý prevzal dieťa do starostlivosti nahrádzajúcej starostlivosť rodičov, po ktorom bol priznaný sirotský výsluhový dôchodok, a konanie o priznaní sirotského dôchodku nebolo pred 1. júlom 2003 právoplatne skončené, Sociálna poisťovňa rozhodne o nároku na sirotský dôchodok podľa predpisov účinných po 30. júni 2003.
