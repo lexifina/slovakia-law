@@ -14,14 +14,14 @@
 
 - 8) Nariadenie vlády Slovenskej republiky č. 279/2003 Z. z., ktorým sa ustanovujú zdravotné predpisy týkajúce sa živočíšnych vedľajších produktov, ktoré nie sú určené na ľudskú spotrebu.
 
-- 9) Nariadenie vlády Slovenskej republiky č. 279/2003 Z. z.
+- 9) Nariadenie vlády Slovenskej republiky č. 303/2003 Z. z.
 
-- 10) Prílohy č. 3 a 4 nariadenia vlády Slovenskej republiky č. 279/2003 Z. z.
+- 10) Prílohy č. 3 a 4 nariadenia vlády Slovenskej republiky č. 303/2003 Z. z.
 
-- 11) § 3 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 279/2003 Z. z.
+- 11) § 3 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 303/2003 Z. z.
 
-- 12) § 15 nariadenia vlády Slovenskej republiky č. 279/2003 Z. z.
+- 12) § 15 nariadenia vlády Slovenskej republiky č. 303/2003 Z. z.
 
-- 13) § 2 písm. g) nariadenia vlády Slovenskej republiky č. 279/2003 Z. z.
+- 13) § 2 písm. g) nariadenia vlády Slovenskej republiky č. 303/2003 Z. z.
 
-- 14) Príloha č. 4 nariadenia vlády Slovenskej republiky č. 279/2003 Z. z.
+- 14) Príloha č. 4 nariadenia vlády Slovenskej republiky č. 303/2003 Z. z.
