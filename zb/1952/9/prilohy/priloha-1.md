@@ -70,7 +70,11 @@
 
   - Poznámky k celému sadzobníku:
 
-  - 1. Poplatky podľa pol. 18 (konanie vo veciach priestupku urážky na cti) a podľa pol. 84 (konanie o prihláške plemenníka na základný výber plemenníkov) sú sročné bez vyrubenia pri predložení podania, ktorým sa má konanie začať. Platia sa kolkovými známkami, ktoré sa nalepia na podanie alebo na písomnú výzvu na zaplatenie poplatku (§ 7 ods. 1 zákona). Ostatné poplatky podľa tohto sadzobníka sa vyrubujú (§ 2 nariadenia).
+  - 1. Poplatok podľa pol. 18 písm. a) (konanie vo veciach priestupku urážky na cti) je sročný bez vyrubenia pred začatím trestného konania správneho o návrhu urazeného, ak pokus o smier na okresnom národnom výbore zostal bezvýsledný.
+
+  - Poplatok podľa pol. 18 písm. b) je sročný bez vyrubenia pri podaní odvolania. Poplatok podľa pol. 84 (konanie o prihláške plemenníka k základnému výberu plemenníkov) je sročný bez vyrubenia pri predložení podania, ktorým sa má konanie začať.
+
+  - Poplatky podľa uvedených položiek sa platia kolkovými známkami, ktoré sa nalepia na podanie alebo na písomnú výzvu na zaplatenie poplatku (§ 7 ods. 1 zákona). Ostatné poplatky podľa tohto sadzobníka sa vyrubujú (§ 2 nariadenia).
 
   - 2. Ak sa preukáže pri vydávaní dokladu náhradou za doklad stratený, zničený alebo neupotrebiteľný [pol. 7 písm. d), 17, 25, 54 a 116 písm. d)], že strata, zničenie alebo neupotrebiteľnosť dokladu nebola jeho majiteľom zavinená (najmä ak dôjde k strate, zničeniu alebo neupotrebiteľnosti dokladu pri požiari alebo vôbec vyššou mocou), môže správny orgán poplatok za vydanie náhradného dokladu snížiť až na sumu primeranú výdavkom za tlačivo.
 
@@ -86,7 +90,7 @@
 
 - 3 | Overenie neúradného odpisu, vyžiadané stranou, ak nie je zaň uložený v ďalších dieloch osobitný poplatok, za každú i len začatú stránku listiny, odpis ktorej sa overuje, a to, a) ak sa overuje odpis cudzojazyčnej listiny b) inak | 20 10
 
-- 4 | Znalecký alebo odborný posudok úradu na žiadosť strany, ak nie je v ďalších dieloch uložený osobitný poplatok | 300 až 15.000
+- 4 | Znalecký alebo odborný posudok úradu na žiadosť strany, ak nie je v ďalších dieloch uložený osobitný poplatok | 30 až 3.000
 
 - 5 | Úkony archívov, ak neslúžia na účely vedeckého bádania: |
 
@@ -96,7 +100,7 @@
 
 - | c) overenie odpisu archiválie, kresby alebo fotografie zhotovenej stranou, za každú i len začatú stránku archiválie, pri kresbách a fotografiách za každý list | 100
 
-- | d) osvedčenie z archívneho materiálu | 100
+- | d) osvedčenie z archívneho materiálu | 20 až 100
 
 - | e) preklad z latinčiny alebo zo starej nemčiny (pred rokom 1748) do češtiny alebo slovenčiny, za každú i len začatú stránku | 300
 
@@ -124,23 +128,19 @@
 
 - | f) stavby uskutočňovanej alebo podporovanej podľa zákona č. 49/1931 Sb. alebo zákona č. 50/1931 Sb., poprípade podľa zákona č. 20/1941 Sl. z. |
 
-- 7 | a) Skúšky spôsobilosti, a to: staviteľská, strelmajstrovská, majstra murárskeho, tesárskeho, kamenárskeho alebo studniarskeho, vodiča motorových vozidiel, učiteľa jazdy motorovými vozidlami, vodiča strojov pre zemné a stavebné práce, kinooperatéra, rádiooperatéra vysielacej stanice rádioelektrickej, vodcu vnútrozemských alebo námorných plavidiel, kuriča, strojníka alebo rušňovodiča, člena odborného lesného personálu alebo plavčíka, i s prípadným vydaním preukazu (osvedčenia) spôsobilosti, ako i každé opakovanie ktorejkoľvek z uvedených skúšok alebo jej časti | 100
+- 7 | a) Skúšky spôsobilosti, a to: staviteľská, strelmajsterská, majstra murárskeho, tesárskeho, kamenárskeho alebo studniarskeho, vodiča motorových vozidiel, trolejbusov alebo mestských koľajových vozidiel, vodiča strojov pre zemné a stavebné práce, kinooperatéra, rádiooperatéra vysielacej stanice rádioelektrickej, vodcu vnútrozemských alebo námorných plavidiel, kuriča, strojníka alebo rušňovodiča, člena odborného lesného personálu alebo plavčíka, i s prípadným vydaním preukazu (osvedčenia) spôsobilosti, ako i každé opakovanie ktorejkoľvek z uvedených skúšok alebo jej časti | 20
 
-- | b) preskúšanie vodiča motorových vozidiel, vodcu, kuriča alebo strojníka plavidiel alebo vodiča strojov pre zemné a stavebné práce | 50
+- | b) skúška učiteľa vodičov motorových vozidiel, trolejbusov alebo mestských koľajových vozidiel i s prípadným vydaním osvedčenia, ako i každé opakovanie tejto skúšky alebo jej časti | 40
 
-- | c) vydanie akéhokoľvek preukazu (osvedčenia) spôsobilosti bez skúšky (po jej odpustení) alebo podľa dokladu o skúške složenej pred iným orgánom (aj pred orgánom podniku alebo dobrovoľnej organizácie), ako i obnova vodičského povolenia po uplynutí času jeho platnosti alebo vrátenie dočasne odňatého vodičského povolenia | 100
+- | c) preskúšanie vodiča motorových vozidiel, trolejbusov alebo mestských koľajových vozidiel, vodcu, kuriča alebo strojníka plavidiel alebo vodiča strojov pre zemné a stavebné práce | 10
 
-- | d) vydanie akéhokoľvek preukazu (osvedčenia) spôsobilosti náhradou za preukaz stratený (i s prípadným verejným vyhlásením listiny za neplatnú), zničený alebo za preukaz, ktorý sa stal neupotrebiteľným | 100
+- | d) vydanie akéhokoľvek preukazu (osvedčenia) spôsobilosti bez skúšky (po jej odpustení) alebo podľa dokladu o skúške složenej pred iným orgánom (aj pred orgánom podniku alebo dobrovoľnej organizácie), ako i vrátenie dočasne odňatého vodičského preukazu (po uplynutí času, na ktorý bol preukaz odňatý) | 20
 
-- | e) povolenie výnimky z doby praxe predpísanej pre vedenie niektorých motorových vozidiel | 100
+- | e) vydanie nového vodičského preukazu vodiča motorových vozidiel, trolejbusov alebo mestských koľajových vozidiel náhradou za preukaz zavinene odcudzený alebo stratený | 300
 
-- | Poznámky: |
+- | f) vydanie akéhokoľvek preukazu (osvedčenia) spôsobilosti, vynímajúc prípady uvedené pod písm. e), náhradou za preukaz stratený (i s prípadným verejným vyhlásením listiny za neplatnú), zničený alebo za preukaz, ktorý sa stal neupotrebiteľným | 20
 
-- | 1. K písm. a) Skúškou sa rozumie aj skúška doplňovacia alebo na účel rozšírenia oprávnenia. Ak sa skladá skúška zo skúšky teoretickej a praktickej, platí sa poplatok za každú z nich, vyjmúc skúšky strelmajstrovskú, vodiča motorových vozidiel, učiteľa jazdy motorovými vozidlami, vodiča strojov pre zemné a stavebné práce, kuriča, strojníka, rušňovodiča alebo plavčíka, za ktoré sa platí len jeden poplatok. Len jeden poplatok sa platí i vtedy, keď žiadateľ o vodičské povolenie koná skúšku pre viac skupín motorových vozidiel. |
-
-- | 2. K písm. d) Viď poznámku 2 k celému sadzobníku. |
-
-- | 3. K celej položke. Od poplatkov podľa tejto položky sú oslobodené úkony, ktoré výhradne na svoje účely vykonajú orgány ozbrojených sborov pre príslušníkov týchto sborov v činnej službe. |
+- | Poznámky: K písm. a). 1. Skúškou sa rozumie aj skúška doplňovacia alebo za účelom rozšírenia oprávnenia. Ak sa skladá skúška zo skúšky teoretickej a praktickej, platí sa poplatok za každú z nich, vynímajúc skúšky strelmajstrovskú, vodiča motorových vozidiel, trolejbusov alebo mestských koľajových vozidiel, učiteľa vodičov motorových vozidiel, trolejbusov alebo mestských koľajových vozidiel, vodiča strojov pre zemné a stavebné práce, kuriča, strojníka, rušňovodiča alebo plavčíka, za ktoré sa platí len jeden poplatok. Len jeden poplatok sa platí i vtedy, keď žiadateľ o vodičské povolenie koná skúšku pre viac skupín motorových vozidiel. 2. Vydanie vodičského preukazu výmenou za osvedčenie po uplynutí skúšobného času a výmenou za dočasný vodičský preukaz poplatku nepodlieha. 3. K písm. f). Viď poznámku 2 k celému sadzobníku. 4. K celej položke. Od poplatkov podľa tejto položky sú oslobodení vojaci základnej služby. Vojaci základnej služby v období 6 mesiacov po prepustení platia poplatky podľa tejto položky polovičnými sadzbami. |
 
   - Diel B.
 
@@ -172,7 +172,11 @@
 
 - | Poznámka: Viď poznámku 2 k celému sadzobníku. |
 
-- 18 | Konanie a) pred okresným národným výborom o návrhu na stíhanie priestupku rážky na cti b) o odvolaní proti trestnému výmeru o priestupku urážky na cti | 300 500
+- 18 | Konanie |
+
+- | a) pred okresným národným výborom o návrhu na stíhanie priestupku urážky na cti, ak pokus o smier na okresnom národnom výbore zostal bezvýsledný | 60
+
+- | b) o odvolaní proti trestnému výmeru o priestupku urážky na cti | 100
 
 - | Poznámka: Viď poznámku 1 k celému sadzobníku. |
 
@@ -198,7 +202,7 @@
 
 - Pol. | Predmet poplatku | Poplatok Kčs
 
-- 25 | a) Vydanie náhradného lístku pre domácnosť b) vydanie náhradnej odhlášky zo zásobovania | 100 20
+- 25 | Zrušený od 7. 10. 1953. |
 
 - | Poznámka: Viď poznámku 2 k celému sadzobníku. |
 
@@ -244,15 +248,15 @@
 
 - Pol. | Predmet poplatku | Poplatok Kčs
 
-- 32 | Právoplatné rozhodnutie o prípustnosti stavby (i prístavby, nadstavby, stavebných zmien alebo udržovacích prác), povolenie na užívanie stavby alebo na jej zbúranie | 100 až 10.000
+- 32 | Rozhodnutie o prípustnosti stavby (i prístavby, nadstavby, stavebných zmien alebo udržovacích prác), ktorým sa žiadosti vyhovuje, ďalej povolenie na užívanie stavby alebo na jej zbúranie | 20 až 2 000
 
-- | Poznámka: Národné a komunálne podniky, ako aj jednotné roľnícke družstvá III. a IV. typu sú od tohto poplatku oslobodené. |
+- | Poznámka: Národné podniky a podniky miestneho priemyslu a komunálneho hospodárstva, ako aj jednotné roľnícke družstvá III. a IV. typu sú od tohto poplatku oslobodené. |
 
 - 33 | Povolenie výnimiek zo stavebných obmedzení v ochranných cestných pásmach | 500 až 10.000 (podľa rozsahu povolenej stavebnej akcie).
 
 - 34 | Povolenie výnimky zo záväznosti typu stavby, určeného Ministerstvom stavebného priemyslu, z rozpočítaného stavebného nákladu | ½ %<sub>o</sub>, najmenej však 500 Kčs.
 
-- 35 | Vydanie osvedčenia prípustnosti typu acetylénových prístrojov do 100 l výkonu/hod. alebo pri náplni karbidu do 2 kg do 300 l výkonu/hod. alebo pri náplni karbidu do 4 kg ak ide o väčší prístroj | 500 1.000 2.000
+- 35 | Zrušný od 7. 10. 1953. |
 
   - Diel F.
 
@@ -552,17 +556,11 @@
 
 - | Poznámka k písm. a) až c): Poplatky podľa písm. a) až c) sa nevyberú za nostrifikáciu diplomu a za uznanie skúšok absolventov a študentov vysokých škôl v SSSR a v štátoch ľudovodemokratických, ktorí boli do týchto škôl vyslaní alebo odporúčaní štátnou správou; |
 
-- | d) vydanie druhopisu (duplikátu, overeného odpisu) aa) indexu, za každý semester zapísaný v originále bb) diplomu osvedčujúceho dosiahnutie akademickej hodnosti, ak je druhopis vydaný súčasne s originálom inak cc) vysvedčenia o záverečnej skúške alebo iných vysvedčení a listín vystavených vysokou školou | 100 100 200 100
+- | d) vydanie druhopisu (duplikátu, overeného odpisu) aa) indexu, za každý semester zapísaný v originále bb) diplomu osvedčujúceho dosiahnutie akademickej hodnosti, ak je druhopis vydaný súčasne s originálom inak cc) vysvedčenia o záverečnej skúške alebo iných vysvedčení a listín vystavených vysokou školou | 20 20 40 až 200 20 až 100
 
-- 88 | Výberové školy tretieho stupňa: a) nostrifikácia vysvedčenia o záverečnej skúške (skúške dospelosti), iného záverečného vysvedčenia alebo vysvedčenia učiteľskej spôsobilosti | 1.000 až 5.000
+- 88 | Všeobecne vzdelávacie školy (9.-11. postupný ročník), pedagogické školy, výberové odborné školy a školské zariadenia štátnych pracovných záloh (učilištia a školy štátnych pracovných záloh): a) nostrifikácia vysvedčenia o záverečnej skúške (skúške dospelosti), iného záverečného vysvedčenia alebo vysvedčenia učiteľskej spôsobilosti | 200 až 1.000
 
-- | Poznámka: Poplatok sa nevyberie za nostrifikáciu vysvedčení absolventov a žiakov škôl v SSSR a v štátoch ľudovodemokratických; |
-
-- | b) individuálne povolená úľava z predpisov platných pre pripustenie na štúdium alebo z predpisov o rozsahu akejkoľvek skúšky | 100 až 1.000
-
-- | c) povolenie druhého alebo ďalšieho konania záverečnej skúšky | 200
-
-- | d) vydanie druhopisu (duplikátu) vysvedčenia o skúške záverečnej (dospelosti), iného vysvedčenia alebo listiny vystavenej výberovou školou tretieho stupňa | 100
+- | Poznámka: Poplatok sa nevyberie za nostrifikáciu vysvedčenia absolventov a žiakov škôl v SSSR a v štátoch ľudovodemokratických; b) individuálne povolená úľava z predpisov platných pre pripustenie na štúdium alebo z predpisov o rozsahu akejkoľvek skúšky c) povolenie druhého alebo ďalšieho konania záverečnej skúšky d) vydanie druhopisu (duplikátu) vysvedčenia o skúške záverečnej (dospelosti), iného vysvedčenia alebo listiny vystavenej školou | 20 až 200 40 20
 
 - 89 | a) Povolenie súkromného vyučovania v odbore umenia, |
 
@@ -588,11 +586,15 @@
 
 - | Poznámka: Za úkon trvajúci kratší čas než 1/4 hodiny sa poplatok nevyberá. |
 
-- 91 | Colné prejednanie tovaru mimo colnišťa, povolené podľa voľnej úvahy, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu a) v úradných hodinách b) mimo úradných hodín | 15 40
+- 91 | Colné prejednanie tovaru mimo colnišťa, povolené podľa voľnej úvahy, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu a) v úradných hodinách b) mimo úradných hodín | 3 8
 
-- | Poznámky: 1. Pri vzdialenosti miesta úkonu od pravidelného pracovného miesta vyslaného zamestnanca nad 10 km zvyšuje sa celý poplatok o 10 Kčs za každých ďalších 5 km alebo zlomok tejto vzdialenosti. Vzdialenosť sa meria podľa ciest najrýchlejších dopravných spojov. 2. Náhrada cestovných výdavkov sa popri poplatku podľa tejto položky nepožaduje. |
+- | Poznámky: 1. Za vyžiadaný úkon, ktorý vyslaný zamestnanec nemohol po príchode na miesto vykonať vinou žiadateľa alebo pre iné príčiny colnou správou nezavinené, vyberie sa poplatok 40 Kčs. 2. Pri vzdialenosti miesta úkonu od pravidelného pracovného miesta vyslaného zamestnanca nad 10 km zvyšuje sa celý poplatok, s výnimkou poplatku uvedeného v poznámke 1, o 2 Kčs za každých ďalších 5 km alebo zlomok tejto vzdialenosti. Ak žiada strana, aby vyslaný zamestnanec použil pri ceste na miesto úkonu rýchlik, vyberie sa zvýšenie za prvých 5 km (ich zlomok) nad vzdialenosť 10 km sumou 16 Kčs a za každých ďalších 5 km (ich zlomok) sumou 2 Kčs. Vzdialenosť sa meria podľa ciest najrýchlejšieho dopravného spojenia. 3. Náhrada cestovných výdavkov sa popri poplatku nepožaduje. |
 
-- 92 | Colný sprievod tovaru podliehajúceho colnému dozoru v doprave po ceste, avšak mimo úseku medzi colnou hranicou a pohraničnou colnicou, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu | 40
+- 92 | Colný sprievod tovaru podliehajúceho colnému dozoru v doprave po ceste, avšak mimo úseku medzi colnou hranicou a pohraničnou colnicou, za každého vyslaného zamestnanca a za každú i len začatú hodinu úkonu | 6
+
+- | Poznámky: 1. Pri vzdialenosti konečného miesta sprievodu od pravidelného pracovného miesta vyslaného zamestnanca nad 10 km zvyšuje sa celý poplatok o 2 Kčs za každých ďalších 5 km alebo zlomok tejto vzdialenosti. Vzdialenosť sa meria podľa cesty sprievodu. 2. Náhrada cestovných výdavkov sa popri poplatku nepožaduje. |
+
+- 92a) | Povolenie uskladniť colný tovar na inom mieste než v colnom skladišti po dlhší čas než 14 dní, za každých ďalších povolených 10 dní uskladnenia (zlomok tohto času) z ceny tovaru | ½%<sub>o</sub>, najmenej však 10 Kčs.
 
 - 93 | Úschova tovaru z úradnej moci na colnici alebo dobrovoľná úschova tovaru alebo platidiel na colnici, za každých i začatých 10 dní úschovy z ceny tovaru alebo z uschovanej sumy | ½ %, najmenej však 10 Kčs za celý čas úschovy.
 
@@ -606,7 +608,7 @@
 
 - 96 | Povolenie reklamného vyžrebovania, z ceny všetkých výhier daných do vyžrebovania | 10 %, najmenej však 200 Kčs.
 
-- 97 | Zaúčtovanie výhier na žreby čs. triednej lotérie predajňou stratené, zo zaúčtovanej ceny výhier | 10 %, najviac však 1.000 Kčs.
+- 97 | Zrušený od 7. 10. 1953. |
 
   - Diel O.
 
@@ -614,25 +616,23 @@
 
 - Pol. | Predmet poplatku | Poplatok Kčs
 
-- 98 | Vydanie jedného listu odtlačku katastrálnej mapy, a to, ak ide a) o odtlačok vyhotovený na papieri druhu III (dobrý kladivkový papier kresliaci váhy 150-175 g/m<sup>2</sup>) b) o odtlačok vyhotovený na papieri druhu VII/a (nerozpíjavý, dobre glejený ofsetový papier váhy 100-120 g/m<sup>2</sup>) c) o odtlačok vyhotovený na papieri druhu VII/b (menej akostný ofsetový papier váhy 80-90 g/m<sup>2</sup>) | 200 150 100
+- 98 | Zrušený od 7. 10. 1953 |
 
-- | Poznámky: 1. Časť listu väčšia než polovica celého listu sa počíta za celý list. Za vydanie polovice celého listu alebo listu menšieho vyberá sa poplatok polovičnou sadzbou. 2. Ak bol odtlačok katastrálnej mapy upravený na spôsob príručnej katastrálnej mapy, zvyšuje sa sadzba poplatku o 15 Kčs za každú štvrtku alebo jej diel. |
-
-- 99 | Vydanie jedného listu odtlačku štátnej mapy 1:5 000, a to, ak ide a) o odtlačok vyhotovený na papieri druhu III (dobrý kladivkový papier kresliaci váhy 150-175 g/m<sup>2</sup>) b) o odtlačok vyhotovený na papieri druhu VII/a (nerozpíjavý, dobre glejený ofsetový papier váhy 100-120 g/m<sup>2</sup>) c) o odtlačok vyhotovený na papieri druhu VII/b (menej akostný ofsetový papier váhy 80-90 g/m<sup>2</sup>) | 100 50 40
+- 99 | Zrušený od 7. 10. 1953. |
 
 - 100 | Doplnenie odtlačku mapy neskoršími zmenami v popise a kresbe: a) za každých 20 zmenených parciel v mierke: aa) 1:2 000 a menšej bb) 1:1 440 a väčšej b) ak prebieha zákres vybudovaných ciest, ciest, vodných tokov a železníc cez komplexy (napr. lesy) alebo ak ide o vkresbu elektrických vedení vysokého napätia, obvodov zaplavovaného územia, kde nemožno brať do úvahy zmeny obvodu parciel, za každý dm<sup>2</sup> vkresby do mapy | 60 80 15
 
 - | Poznámka: Zmenami v popise sa rozumejú vpísanie, výmaz a zmeny parcelných čísel a akostných tried. Zmenenými parcelami v kresbe sa rozumejú parcely novo vzniknuté alebo vo svojom obvode zmenené. |
 
-- 101 | Ručne vyhotovené snímky z máp podľa práve platného stavu, z geometrických (polohopisných) plánov alebo ich konceptov a z poľných náčrtov i s upravením (adjustovaním), vpísaním mier a s náhradou za kresliaci materiál, za každých 20 parciel (alebo menej) a 10 ha (alebo menej) kresby v mierke: a) 1:2 000 a menšej b) 1:1 440 a väčšej | 75 100
-
-- | Poznámky: 1. Upravením (adjustovaním) sa rozumie vyznačenie zastavaných plôch, vodstiev, komunikácií, pieskovní a hlinísk príslušnou farbou a vpísanie značiek a skratiek na žiadosť strany. 2. Za snímky obsahujúce výškopisné údaje (kóty, vrstevnice) zvyšuje sa sadzba poplatku o 40 %. |
+- 101 | Ručne vyhotovené snímky z máp podľa práve platného stavu, z geometrických (polohopisných) plánov alebo ich konceptov a z poľných náčrtov i s upravením(adjustovaním), vpísaním mier a s náhradou za kresliaci materiál, až včítane do 20 parciel a 10 ha kresby v mierke a) 1:2 000 a menšej b) 1:1 440 a väčšej za každú ďalšiu parcelu kresby v mierke a) 1:2 000 a menšej b) 1:1 440 a väčšej za každý ďalší ha kresby v mierke a) 1:2 000 a menšej b) 1:1 440 a väčšej | 15 20 0.50 0.65 0.25 0.35
 
 - 102 | Vpísanie akostných tried a vyznačenie ich rozhrania farebnou ceruzkou na odtlačku katastrálnej mapy alebo príručnej katastrálnej mapy, za každých 20 parciel (alebo menej) | 15
 
-- 103 | Planografické odtlačky grafických elaborátov, za každý i len začatý 1 dm2 kresby: a) prvý odtlačok b) ďalšie odtlačky po | 10 2
+- 103 | Planografické, fotoreprodukčné a podobné odtlačky grafických elaborátov, za kus | 4 až 200
 
-- 104 | Vyfarbenie odtlačku mapy alebo snímky z mapy (celého alebo len časti), za každých 20 parciel (alebo menej) a 20 ha (alebo menej) v mierke: a) 1:2 000 a menšej b) 1:1 440 a väčšej | 40 80
+- | Poznámka: Poplatok sa v rámci sadzby vypočíta podľa platných kalkulačných normálov polygrafického priemyslu. |
+
+- 104 | Vyfarbenie odtlačku mapy alebo snímky z mapy (celej alebo len časti), až včítane do 20 parciel a 20 ha v mierke a) 1:2 000 a menšej b) 1:1 440 a väčšej za každú ďalšiu parcelu alebo ha v mierke a) 1:2 000 a menšej b) 1:1 440 a väčšej | 8 16 0.20 0.40
 
 - | Poznámka: Pri určení poplatku sa počítajú len skutočne vyfarbené parcely a hektáry kresby. |
 
@@ -640,7 +640,7 @@
 
 - | Poznámka: Z porovnávacieho sostavenia je zrejmé označenie starého a nového stavu parciel alebo ich častí s výmerami, meno a bydlisko držiteľa. Základom poplatku je súčet parciel starého a nového stavu. |
 
-- 106 | Odpisy alebo výpisy alebo ich neskoršie doplnenia zmenami: a) z písomného operátu (i vyradeného), z niektorých častí sbierky listín (z odpisov hraníc katastrálnych území, výpočtových zápisníc, zápisníc a vyhlášok o všetkých konaniach, ohlasovacích listov, výkazov zmien, záznamov zmien, vyradených častí všetkých písomných operátov), z niektorých pomocných častí pozemkového katastru (z opisov odhadných okresov, z klasifikačných zápisníc všeobecného vceňovania, soznamov domov, sostavení akostných tried) alebo z iných výkazov a sostavení (z preukazu o výmere vlastného - spoločenstevného poľovného okresu, zo zistení celkovej výmery pozemkov jednej akostnej triedy v katastrálnom území alebo okrese), za každých 30 položiek (alebo menej) b) z výkazov úhrnných katastrálnych hodnôt a prehľadov pozemnostných hárkov, za každých 10 položiek (alebo menej) | 25 30
+- 106 | Odpisy alebo výpisy alebo ich neskoršie doplnenia zmenami: a) z písomného operátu (i vyradeného), z niektorých častí sbierky listín (z opisov hraníc katastrálnych území, výpočtových zápisníc, zápisníc a vyhlášok o všetkých konaniach, ohlasovacích listov, výkazov zmien, záznamov zmien, vyradených častí všetkých písomných operátov), z niektorých pomocných častí pozemkového katastra (z opisu odhadných okresov, z klasifikačných zápisníc všeobecného vceňovania, soznamov domov, sostavení akostných tried) alebo z iných výkazov a sostavení (z preukazov o výmere vlastného - spoločenstevného poľovného okresu, zo zistení celkovej výmery pozemkov jednej akostnej triedy v katastrálnom území alebo okrese), až včítane do 30 položiek (i s cenou tlačiva) za každú ďalšiu položku b) z výkazov úhrnných katastrálnych hodnôt a prehľadov v pozemkových hárkov, za každých 10 položiek (alebo menej) | 5 0.15 6
 
 - | Poznámka: Položkou sa rozumie každý odpísaný, opravený, zmenený, doplnený alebo zrušený vodorovný riadok, tedy i vodorovný riadok na titulnej strane. |
 
@@ -666,7 +666,13 @@
 
 - 114 | Práce technicko-dokumentačnej služby, a to: a) vyhľadávanie a sostavenie študijného materiálu (rešerš), za každú i len začatú pracovnú hodinu b) písomná informácia c) vyhotovenie mikrofilmu predlohy až do formátu A/4, za každý negatív 24x36 mm d) vyhotovenie reflexnej kópie formátu A/4 A/5 | 30 30 5 10 5
 
-- 115 | Zememeračské práce vykonávané zememeračskou službou národných výborov, ktoré nie sú uvedené v predchádzajúcich položkách tohto dielu, a to a) poľné meracie práce inžinierske, za každú i len začatú hodinu b) kancelárske technické práce inžinierske, za každú i len začatú hodinu c) poľné meračské práce práce pomocne technické, za každú i len začatú hodinu d) kancelárske pomocne technické práce, za každú i len začatú hodinu e) kancelárske práce, za každú i len začatú hodinu | 120 80 90 60 50
+- 115 | Zememeračské a kartografické práce vykonávané zememeračskou službou národných výborov, ktoré nie sú uvedené v predchádzajúcich položkách tohto dielu, a to: a) poľné meračské práce inžinierske (pracovná trieda VIII a IX), za každú hodinu b) kancelárske technické práce inžinierske (pracovná trieda VIII a IX), za každú hodinu c) poľné meračské práce technické (pracovná trieda VI a VII), za každú hodinu d) kancelárske pomocné technické práce (pracovná trieda VI a VII), za každú hodinu e) kancelárske práce (pracovná trieda IV a V), za každú hodinu f) všetky pomocné práce pri poľných meračských prácach, za každú hodinu | 24 16 18 12 10 9
+
+- | Poznámka: Počet pracovných hodín potrebný na výkon objednaných prác a služieb sa určí podľa schválených jednotných výkonových noriem pre zememeračstvo a kartografiu s presnosťou až na jednu desatinu hodiny. Zaokruhľovanie začatých desatín hodiny sa vykonáva podľa týchto zásad: na zlomok menší než 0.05 hodiny normovaného výkonu sa neprihliada. Väčší zlomok hodiny normovaného výkonu sa zaokrúhli na najbližšie vyššiu desatinu hodiny. Zlomok 0.05 hodiny normovaného výkonu sa zaokrúhli na najbližší párny počet desatín hodiny. Pri prácach dosiaľ nenormovaných je pre výšku poplatku rozhodný počet pracovných hodín, po ktoré skutočne trvala práca zúčastnených pracovníkov. |
+
+- 115a) | Vydanie tlačív používaných pri zakladaní, udržovaní a obnovovaní operátu pozemkového katastra: a) až včítane do formátu A 4 1. jednolistového, za kus 2. dvojlistového, za kus b) formátu väčšieho než A 4, za kus | 0.50 1 1.50
+
+- | Poznámka: Poplatok podľa tejto položky sa vyberá, ak sa nevykonáva zároveň niektorý z úkonov poplatných podľa pol. 105 až 108. |
 
   - Diel P.
 
@@ -742,6 +748,8 @@
 
   - bb) za úkony týkajúce sa drobných zvierat chovaných v bytoch (mačiek, papagájov a pod.).
 
+  - Ustanovenie tejto poznámky neplatí pre poplatky podľa dielov 7 a 8.
+
   - 4. Na účely poznámky 3 posúdi veterinár (obvodný veterinár, obvodný veterinársky pracovník, zveroklieštič) podľa dokladu predloženého poplatníkom alebo podľa miestnych znalostí, či ide o strážneho psa, t. j. o psa používaného na účely bezpečnosti a ochrany osôb alebo vecí, alebo o iného psa, u ktorého sa poplatok podľa poznámky 3 písm. c) aa) nezvyšuje.
 
   - 5. Ak veterinár vykoná úkon mimo svojho pravidelného pracovného miesta, zvyšuje sa poplatok, s výnimkou poplatku za hromadný úkon (pozn. 7),
@@ -757,6 +765,8 @@
   - a) ak sa vykoná úkon v obci (mestskom obvode), v ktorom je pravidelné pracovné miesto veterinára, alebo
 
   - b) ak dodá poplatník na svoj náklad vhodný dopravný prostriedok pre dopravu veterinára na miesto úkonu a zpät. Rovnako sa zvýšia i poplatky za úkony vykonané v takom prípade na tej istej ceste pre iných poplatníkov.
+
+  - Ustanovenie tejto poznámky neplatí pre poplatky podľa dielov 7 a 8.
 
   - 6. Za vyžiadaný úkon, ktorý veterinár nemohol po príchode na miesto vinou žiadateľa vykonať, vyberie sa poplatok 200 Kčs.
 
@@ -802,17 +812,21 @@
 
   - Čas, spôsob vyrubenia a sročnosť poplatkov.
 
-  - 17. Poplatky podľa tohto sadzobníka i s prípadnou náhradou výdavkov sa vyrubujú po vykonaní úkonu, a to,
+  - 17. Poplatky podľa tohto sadzobníka i s prípadnou náhradou výdavkov sa vyrubujú po vykonaní úkonov, a to
 
-  - a) ak ide o hromadný úkon, soznamom poplatníkov, ktorý vyhotoví dvojmo priepisom orgán miestneho národného výboru (s uvedením mien a bydlísk poplatníkov, druhu a počtu zvierat, ktorých sa úkony týkajú, výšky poplatkov a s prípadnými náhradami výdavkov a s podpismi poplatníkov, potvrdzujúcimi správnosť údajov soznamu);
+  - a) soznamom poplatníkov, ktorý vyhotoví dvojmo priepisom orgán miestneho národného výboru, ak ide o hromadný úkon. V sozname sa uvedú mená a bydlisko poplatníkov, druh a počet zvierat, ktorých sa úkony týkajú, výška poplatku i s prípadnými náhradami výdavkov. Správnosť údajov v sozname potvrdia poplatníci svojimi podpismi;
 
-  - b) ak ide o iný úkon, platobným výmerom.
+  - b) výkazom o zabitých zvieratách a dovezenom mäse, ak ide o úkon poplatný podľa dielu 7, ktorý bol vykonaný v bitúnku, s výnimkou prehliadky vykonanej pre samozásobiteľov, alebo ktorý bol vykonaný v bitúnku i mimo bitúnku, ak sa týka prehliadka mäsa dovezeného do obce;
+
+  - c) platobným výmerom, ak ide o iný úkon.
 
   - 18. Platobné výmery na poplatky za úkony týkajúce sa zvierat pri prevoze, prepravovaných po železnici (pol 94 až 96), doručí veterinár s vplatnými lístkami príslušnej železničnej stanici, ktorá tým prejíma povinnosti poplatníka.
 
   - 19. Poplatky (i s náhradou výdavkov) za hromadné úkony sú sročné bez meškania po vykonaní úkonu do rúk orgánu miestneho národného výboru; vybrané sumy odvedie miestny národný výbor okresnému národnému výboru, ktorému zároveň zašle druhopis soznamu.
 
-  - 20. Poplatky (i s náhradou výdavkov) vyrubené platobným výmerom sú sročné bez meškania po doručení tohto výmeru a platia sa do rúk veterinára vykonávajúceho poplatný úkon; poplatky, ktoré poplatník takto nezaplatí, platia sa na šekový účet okresného národného výboru.
+  - 20. Poplatky vyrubené výkazom o zabitých zvieratách a dovezenom mäse [pozn. 17 písm. b)] sú sročné týždenne a platia sa na účet okresného národného výboru.
+
+  - Poplatky (i s náhradou výdavkov) vyrubené platobným výmerom [pozn. 17 písm. c)] sú sročné bezodkladne po doručení tohto výmeru a platia sa do rúk veterinára vykonávajúceho poplatný úkon; poplatky, ktoré poplatník takto nezaplatí, platia sa na účet okresného národného výboru.
 
   - 21. Ak to nezabraňuje všeobecný záujem, nevydá sa doklad o úkone (osvedčenie, písomný posudok a pod.), dokiaľ poplatník nezaplatí poplatok.
 
@@ -1108,7 +1122,7 @@
 
 - | Diel 3. Prehliadky a pitvy zabitých alebo zahynutých zvierat na žiadosť. |
 
-- 85 | Zpráva o škode na poistenom zvierati (na formulári vydanom poisťovňou), ak sa nekoná pitva zvieraťa, a to, ak ide o a) veľké zviera, za kus b) malé zviera, za kus c) ošípanú, bez ohľadu na počet kusov | 80 60 30
+- 85 | Zušený od 7. 10. 1953. |
 
 - 86 | Pitva (i so zprávou alebo vysvedčením o jej výsledku, avšak bez pitevného nálezu s posudkom), ak nie je za ňu uložený ďalej osobitný poplatok, a to, ak ide o a) veľké zviera b) malé zviera c) drobné zviera | 250 až 400 100 až 200 50
 
@@ -1159,6 +1173,28 @@
 - | Diel 6. Veterinárno-zdravotný dozor na niektoré zariadenia. |
 
 - 100 | Veterinárno-zdravotný dozor na a) prehliadky alebo výstavy drobných zvierat a psov, svody a trhy zvierat, do 150 kusov pri viac než 150 kusoch b) dostihy c) obchody s vtáctvom a psami, za každú dohliadku | 200 400 500 200
+
+- | Diel 7. Veterinárno-zdravotná prehliadka jatočných zvierat a mäsa. | |
+
+- | Poznámka k celému dielu: Ak treba bakteriologické vyšetrenie, vyberá sa i v bitúnku poplatok za prehliadku sumou určenou za prehliadku mimo bitúnku. | |
+
+- 101 | Veterinárno-zdravotná prehliadka jatočných zvierat a mäsa, a to, ak ide o a) jednokopytníka alebo hovädzí dobytok, s výnimkou žriebät a teliat, za kus b) žriebä alebo teľa, za kus c) ošípanú, s výnimkou prasaťa (i s vyšetrením na svalovca), za kus d) ostatné zvieratá (i s vyšetrením na svalovca), za kus | 6.60 3 5.20 2 | 11 5 7 3
+
+- 102 | Len vyšetrenie na svalovca a) mäsa prasaťa, za celé zviera alebo jeho časť b) mäsa ostatných zvierat, za celé zviera alebo jeho časť | 1 2 | 1 3
+
+- 103 | Vyšetrenie mäsa, slaniny alebo tukov, ak sú dovezené do obce a určené na jedenie pre ľudí, alebo ak sú s tým istým určením z obce vyvážané, za každý i začatý kg | 0.06 | 0.06 (celkový poplatok za prehliadku sa zvyšuje vždy o 2 Kčs).
+
+- | Poznámka: Poplatok podľa tejto položky sa vyberie len v prípade, že sa pri vyšetrení zistia závady majúce vplyv na zdravotnú nezávadnosť, trvanlivosť a biologickú hodnotu mäsa. Ak bol poplatok zaplatený za vyšetrenie v obci vývozu, platí sa v obci dovozu len v prípade, že sa pri vyšetrení v tejto obci zistí závada neuvedená v sprievodnom zdravotnom osvedčení. | |
+
+- | Diel 8. Vyšetrenie mäsa, mäsových výrobkov a tukov dovážaných do colného vnútrozemska. | Poplatok Kčs |
+
+- | Poznámky k celému dielu: 1. Poplatky podľa tohto dielu zahrnujú i prípadné úkony orgánov hygienickej a protiepidemickej služby vykonané v súvislosti s poplatnými úkonmi. 2. Výsadné spoločnosti pre zahraničný obchod a národné podniky sú od poplatkov podľa tohto dielu oslobodené. | |
+
+- 104 | Vyšetrenie mäsa, mäsových výrobkov a tukov dovážaných do colného vnútrozemska, a to, ak ide o a) mäso jednokopytníka alebo hovädzieho dobytka, s výnimkou teľaťa, za celé zviera b) polovičku alebo štvrtinu hovädzieho dobytka c) mäso teľaťa alebo ošípanej (i diviaka), za celé zviera d) polovičku ošípanej, celú ovcu alebo kozu alebo polovičku ovce e) upravené mäso alebo tuk, a to aa) črevá (i zmrazené), za každý i začatý kg bb) masť, slaninu alebo iné tuky (i v zmrazenom stave), za každý i začatý kg cc) iné už upravené mäso (i zmrazené), za každý i začatý kg f) mäso hydiny, zveriny alebo rýb, za každý i začatý kg | 6 2.50 2 1.50 0.20 0.04 0.08 0.02 |
+
+- | Poznámky: 1. Poplatok podľa písm. a), b) a c) sa zvyšuje o 20%, ak nebolo mäso včas pripravené na prehliadku. 2. Poplatok podľa písm. e) a f) je za zásielku najmenej 2 Kčs. | |
+
+- 105 | Vyšetrenie mäsa na svalovca, a to, ak ide o a) celú ošípanú (i diviaka), polovičku alebo štvrtinu zmrazenej alebo upravenej ošípanej b) jednotlivý kus mäsa | 1.50 1 |
 
   - Sadzobník III
 
@@ -1556,7 +1592,7 @@
 
 - | b) bez vymáhania alebo obyčajné zakročenie na účel vybratia, ak poukáže dlžník platbu priamo prijímateľovi, zo sumy alebo ceny | 1% | 1%
 
-- | Poznámka: Poplatok sa vyberie vždy najmenej sumou 150 Kčs v európskych a 300 Kčs v mimoeurópskych štátoch; týmito sumami sa poplatok vyberie i vtedy, ak je zakročenie bezvýsledné. | |
+- | Poznámka: Poplatok sa vyberie vždy najmenej sumou 30 Kčs v europských a 60 Kčs v mimoeuropských štátoch; týmito sumami sa poplatok vyberie i vtedy, ak je zakročenie bezvýsledné. Správny orgán môže však poplatok vybrať nižšími než uvedenými sumami alebo od jeho vybrania upustiť, ak nepresahuje vybraná suma (cena) 60 Kčs v europských a 120 Kčs v mimoeuropských štátoch a ak sú výdavky spojené s vybraním nepatrné. | |
 
 - 4 | Úhrn úkonov v konaní o dedičstve, ako intervencie na súdoch, vybratie a doručenie dedičstva, a to i v prípadoch úrazového odškodnenia a pod., z rýdzej ceny prejednaného dedičstva | 2 % | 2 %
 
@@ -1594,7 +1630,7 @@
 
 - 9 | Vidovanie cestovného pasu, a to: a) vstupné vízum jednorázové b) prechodové vízum jednosmerné c) prechodové vízum obojsmerné d) prechodové vízum trvalé e) návratné vízum jednorázové f) návratné vízum trvalé | 150 20 40 80 150 300 | 150 20 40 80 150 300
 
-- | Poznámky: 1. Ministerstvo financií môže po dohode s Ministerstvom zahraničných vecí určiť, že sa poplatky podľa tejto položky vyberajú podľa zásady vzájomnosti. 2. Ako cestovné pasy sa posudzujú aj námornícke knižky, dočasné námornícke preukazy a plavecké knižky, pokiaľ pri cestách do cudziny nahradzujú cestovné pasy. 3. Za vidovanie zájazdovej súpisky sa vyberá poplatok desatinou sumy, ktorá by vyšla spočítaním poplatkov za jednotlivé víza pre všetkých účastníkov cesty, najmenej však poplatok podľa tejto položky. 4. Za vidovanie cestovného pasu, pri ktorom sa pripojí zdravotná doložka (pri epidémiách), vyberá sa poplatok o 100 % vyšší. 5. Od poplatku sú oslobodené: a) predbežné víza (t. j. overovacie doložky, že cestovný pas je právoplatný); b) diplomatické víza; c) víza pre príslušníkov cudzích štátov na základe vzájomnosti; d) vidovanie čs. cestovných pasov osobám vracajúcim sa do ČSR. | |
+- | Poznámky: 1. Ministerstvo financií môže po dohode s Ministerstvom zahraničných vecí určiť, že sa poplatky podľa tejto položky vyberajú podľa zásady vzájomnosti. 2. Ako cestovné pasy sa posudzujú aj námornícke knižky, dočasné námornícke preukazy a plavecké knižky, pokiaľ pri cestách do cudziny nahradzujú cestovné pasy. 3. Za vidovanie zájazdovej súpisky sa vyberá poplatok desatinou sumy, ktorá by vyšla spočítaním poplatkov za jednotlivé víza pre všetkých účastníkov cesty, najmenej však poplatok podľa tejto položky. 4. Za vidovanie cestovného pasu, pri ktorom sa pripojí zdravotná doložka (pri epidémiách), vyberá sa poplatok o 100 % vyšší. 5. Od poplatku sú oslobodené: a) predbežné víza (t. j. overovacie doložky, že cestovný pas je právoplatný); b) víza na diplomatické a služobné pasy; c) víza pre príslušníkov cudzích štátov na základe vzájomnosti; d) vidovanie čs. cestovných pasov osobám vracajúcim sa do ČSR. | |
 
 - 10 | Vyhotovenie pasu pre mŕtvolu | 900 | 1.800
 
