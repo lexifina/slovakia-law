@@ -1,3 +1,3 @@
 Príloha č. 6 k vyhláške č. 210/2000 Z. z.
 
-- KONTINUÁLNE SČÍTAVACIE VÁHY S AUTOMATICKOU ČINNOSŤOU [Príloha 06](../assets/b57a7e60af61ec8c2e81072f215e922e5e0e4440165deb5e9d493c5a6aea1310.pdf)
+- KONTINUÁLNE SČÍTAVACIE VÁHY S AUTOMATICKOU ČINNOSŤOU [Príloha 06](../assets/67aac70eed43c0241615ebe63cc9b05c99bbd675dc41f737d53e7b9c6fab467b.pdf)

@@ -1,0 +1,3 @@
+Príloha č. 23 k vyhláške č. 210/2000 Z. z.
+
+- ANALYZÁTORY VÝFUKOVÝCH PLYNOV MOTOROVÝCH VOZIDIEL SO ZÁŽIHOVÝM MOTOROM [Príloha 23](../assets/4714cd0b24ce417332fe483065fc3d9e2c8a2cda155ad38bb1f66bbfa24cf51e.pdf)
