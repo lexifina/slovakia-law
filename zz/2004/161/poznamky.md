@@ -8,7 +8,11 @@
 
 - 5) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
+- 5a) § 57 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 6) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
+
+- 6a) § 44 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 7) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
@@ -32,10 +36,10 @@
 
 - 16) § 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
+- 16a) § 2 ods. 2 písm. i) zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
+
 - 17) § 10 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z.
 
 - 18) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov, zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní, zákon č. 461/2003 Z. z. o sociálnom poistení.
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
-
-- 20) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 532/2002 Z. z., ktorou sa ustanovujú podrobnosti o všeobecných technických požiadavkách na výstavbu a o všeobecných technických požiadavkách na stavby užívané osobami s obmedzenou schopnosťou pohybu a orientácie.
