@@ -1,1 +1,0 @@
-- *) Pozri § 1 ods. 1 vyhlášky Ministerstva zahraničného obchodu č. 121/1968 Zb.
