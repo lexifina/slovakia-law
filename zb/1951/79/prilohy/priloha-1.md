@@ -1,1 +1,0 @@
-- Kresba hliníkového dvadsiatnika: ![Obrázok 01](../assets/62fb2594cafe33a210c2988f6729207de603b078cb8c4178e9f3bf0303ef62bf.png)
