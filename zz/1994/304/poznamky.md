@@ -4,7 +4,7 @@
 
 - 3) Vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Zb. o stravovaní v zariadeniach sociálnej starostlivosti v znení vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 354/1990 Zb., vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 443/1991 Zb. a vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 214/1994 Z. z.
 
-- 4) § 16 písm. b) č. 4 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení zákona Slovenskej národnej rady č. 195/1992 Zb.
+- 4) § 70 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 240/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 135/1995 Z. z.§ 36 a 37 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 123/1990 Zb. a vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 260/1990 Zb.§ 16 písm. b) č. 3 a 4 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení zákona Slovenskej národnej rady č. 195/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z.
 
 - 5) § 8 Občianskeho zákonníka.
 
