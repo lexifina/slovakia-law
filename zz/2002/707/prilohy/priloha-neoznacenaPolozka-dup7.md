@@ -1,143 +1,101 @@
 Príloha č. 9 k nariadeniu vlády č. 707/2002 Z. z.
 
-ZOZNAM PODĽA SPOLOČNEJ POZÍCIE RADY EURÓPSKEJ ÚNIE Č. 2002/847/CFSP
+ZOZNAM PODĽA SPOLOČNEJ POZÍCIE RADY EURÓPSKEJ ÚNIE Č. 2002/931/CFSP V ZNENÍ SPOLOČNEJ POZÍCIE RADY EURÓPSKEJ ÚNIE Č. 2002/976/CFSP
 
 Sankcionované osoby
 
 Fyzické osoby:
 
-1. ALBERDI URANGA, Itziar (E.T.A.), dátum narodenia 7.10.1963 v Durangu, č. identifikačnej karty 78.865.693.
+1. ABOU, Rabah Naami (alias Naami Hamza, alias Mihoubi Faycal, alias Fellah Ahmed, alias Dafri Rémi Lahdi), dátum narodenia: 1. 2. 1966 Alžír (Alžírsko); člen al Takfir a al Hijra.
 
-2. ALBISU IRIARTE, Miguel (E.T.A.); skupina Gestoras Pro-amnistía), dátum narodenia 7.6.1961 v San Sebastiáne, č. identifikačnej karty 15.954.596.
+2. ABOUD, Maisi (alias The Swiss Abderrahme), dátum narodenia: 17. 10. 1964 v Alžíri (Alžírsko), člen al Takfir a al Hijra.
 
-3. AL-MUGHASSIL, Ahmad Ibrahim (alias ABU OMRAN; alias AL-MUGHASSIL, Ahmed Ibrahim), dátum narodenia 26.6.1967 v Qatif-Bab al Shamal v Saudskej Arábii; občan Saudskej Arábie.
+3. AL-MUGHASSIL, Ahmad Ibrahim (alias ABU OMRAN; alias AL-MUGHASSIL, Ahmed Ibrahim), dátum narodenia: 26. 6. 1967 v Qatif-Bab al Shamal v Saudskej Arábii; občianstvo Saudskej Arábie.
 
-4. AL-NASSER, Abdelkarim Hussein Mohamed, dátum narodenia v Al Ihsa, v Saudskej Arábii; občan Saudskej Arábie.
+4. AL-NASSER, Abdelkarim Hussein Mohamed, narodený v Al Ihsa, v Saudskej Arábii; občianstvo Saudskej Arábie.
 
-5. AL YACOUB, Ibrahim Salih Mohammed, dátum narodenia 6.10.1966 v Tarut v Saudskej Arábii; občianstvo Saudskej Arábie.
+5. AL YACOUB, Ibrahim Salih Mohammed, dátum narodenia: 6. 10. 1966 v Tarute, v Saudskej Arábii; občianstvo Saudskej Arábie.
 
-6. APAOLAZA SANCHO, Iván (E.T.A.; skupina K.Madrid), dátum narodenia 10.11.1971 v Beasain (Guipúzcoa), č. identifikačnej karty 44.129.178.
+6. ARIOUA, Azzedine, dátum narodenia: 20. 11. 1960 v Costantine (Alžírsko), člen al Takfir a al Hijra.
 
-7. ARZALLUS TAPIA, Eusebio (E.T.A.), narodený 8.11.1957 v Regil (Guipúzcoa), č. identifikačnej karty 15.927.207.
+7. ARIOUA, Kamel, (alias Lamine Kamel), dátum narodenia: 18. 8. 1969 v Costantine (Alžírsko), člen al Takfir a al Hijra.
 
-8. ATWA, Ali (alias BOUSLIM Ammar Mansour; alias SALIM Hassan Rostom), Libanon, narodený v r. 1960 v Libanone; občianstvo Libanonu.
+8. ASLI, Rabah, dátum narodenia: 13. 5. 1975 v Ain Taya (Alžírsko), člen al Takfir a al Hijra.
 
-9. BERASATEGUI ESCUDERO, Ismael (aktivista E.T.A.; člen K. Behorburu), dátum narodenia 15.6.1969 v Eibar (Guipúzcoa), č. identifikačnej karty 15.379.555.
+9. ATWA, Ali (alias BOUSLIM, Ammar Mansour; alias SALIM, Hassan Rostom), Libanon, narodený v r. 1960 v Libanone; občianstvo Libanonu.
 
-10. ECHEBERRIA SIMARRO, Leire (aktivista E.T.A.), dátum narodenia 20.12.1977 v Basauri, č. identifikačnej karty 45.625.646.
+10. DARIB, Noureddine (alias Carreto, alias Zitoun Mourad), dátum narodenia: 1. 2. 1972 v Alžírsku, člen al Takfir a al Hijra.
 
-11. ECHEGARAY ACHIRICA, Alfonso (E.T.A.), dátum narodenia 10.1.1958 v Plencia, č. identifikačnej karty 16.027.051.
+11. DJABALI, Abderrahmane (alias Touil), dátum narodenia: 1. 6. 1970 v Alžírsku, člen al Takfir a al Hijra.
 
-12. ELCORO AYASTUY, Paulo (E.T.A., skupina Jarrai/Haika/Segi), dátum narodenia 22.10.1973 vo Vergara, č. identifikačnej karty 15.394.062.
+12. EL-HOORIE, Ali Saed Bin Ali (alias AL-HOURI, Ali Saed Bin Ali, alias EL-HOURI, Ali Saed Bin Ali) dátum narodenia: 10. 7. 1965 alebo 11. 7. 1965 v El Dibabiya, Saudská Arábia, občianstvo Saudská Arábia.
 
-13. EL-HOORIE, Ali Saed Bin Ali (alias AL-HOURI Ali Saed Bin Ali, alias EL-HOURI Ali Saed Bin Ali), dátum narodenia 10.7.1965 alebo 11.7.1965 v El Dibabiya, Saudská Arábia; občianstvo Saudskej Arábie.
+13. FAHAS, Sofiane, Yacine, dátum narodenia: 10. 9. 1971 v Alžíri (Alžírsko), člen al Takfir a al Hijra.).
 
-14. FIGAL ARRANZ, Antonio Agustín (E.T.A., skupina Kas/Ekin), dátum narodenia 2.12.1972 v Baracaldo (Biscay), č. identifikačnej karty 20.172.692.
+14. IZZ-AL-DIN, Hasan (alias GARBAYA, AHMED; alias SA-ID; alias SALWWAN, Samir), Libanon, rok narodenia: 1963 v Libanone, občianstvo Libanon.
 
-15. GOGEASCOECHEA ARRONATEGUI, Eneko (E.T.A.), dátum narodenia 29.4.1967 v Guernice, č. identifikačnej karty 44.556.097.
+15. LASSASSI, Saber (alias Mimiche), dátum narodenia: 30. 11. 1970, v Constantine (Alžírsko), člen al Takfir a al Hijra.
 
-16. GOIRICELAYA GONZALEZ, Cristina (E.T.A., skupina Herri Batasuna/E.H/Batasuna), dátum narodenia 23.12.1967 vo Vergara (Guipúzcoa), č. identifikačnej karty 16.282.556.
+16. MOHAMMED, Khalid Shaikh (alias ALI Salem; alias BIN KHALID Fahd Bin Adballah; alias HENIN Ashraf Refaat Nabith alias WADOOD, Khalid Adbul) dátum narodenia: 14. 4. 1965 alebo 1. 3. 1964 v Kuvajte, občianstvo Kuvajt.
 
-17. IPARRAGUIRRE GUENECHEA, Ma Soledad (E.T.A.), dátum narodenia 25.4.1961 v Escoriaza (Navarra), č. identifikačnej karty 16.255.819.
+17. MUGHNIYAH, Imad Fa'iz (alias MUGHNIYAH, Imad Fayiz), starší spravodajský dôstojník HIZBALLAH, dátum narodenia: 7. 12. 1962 v Tayr Dibba, Libanon, č. pasu: 432298 (Libanon).
 
-18. IZTUETA BARANDICA, Enrique (E.T.A.), dátum narodenia 30.7.1955 v Santurce (Biscay), č. identifikačnej karty 14.929.950.
+18. NOUARA, Farid, dátum narodenia: 25. 11. 1973 v Alžíri (Alžírsko), člen al Takfir a al Hijra.
 
-19. IZZ-AL-DIN, Hasan (alias GARBAYA, Ahmed; alias SA-ID; alias SALWWAN, Samir), Libanon, rok narodenia 1963 v Libanone, občianstvo Libanonu.
+19. RESSOUS, Hoari (alias Hallasa Farid), dátum narodenia: 11. 9. 1968 v Alžíri (Alžírsko), člen al Takfir a al Hijra.
 
-20. MOHAMMED, Khalid Shaikh (alias ALI, Salem; alias BIN KHALID, Fahd Bin Adballah; alias HENIN, Ashraf Refaat Nabith alias WADOOD, Khalid Adbul), dátum narodenia 14.4.1965 alebo 1.3.1964 v Kuvajte, občianstvo Kuvajtu.
+20. SEDKAOUI, Noureddine (alias Nounou), dátum narodenia: 23. 6. 1963 v Alžíri (Alžírsko), člen al Takfir a al Hijra.
 
-21. MORCILLO TORRES, Gracia (E.T.A., skupina Kas/Ekin), dátum narodenia 15.3.1967 v San Sebastián (Guipúzcoa), č. identifikačnej karty 72.439.052.
+21. SELMANI, Abdelghani (alias Gano), dátum narodenia: 14. 6. 1974 v Alžíri (Alžírsko), člen al Takfir a al Hijra.
 
-22. MUGHNIYAH, Imad Fa'iz (alias MUGHNIYAH, Imad Fayiz), starší spravodajský dôstojník HIZBALLAHU, dátum narodenia 7.12.1962 v Tayr Dibba, Libanon, č. pasu 432298 (Libanon).
+22. SENOUCI, Sofiane, dátum narodenia: 15. 4. 1971, v Hussein Dey (Alžírsko), člen al Takfir a al Hijra.
 
-23. MUNOA ORDOZGOITI, Alona (E.T.A., skupina Kas/Ekin), dátum narodenia 6.7.1976 v Segura (Guipúzcoa), č. identifikačnej karty 35.771.259.
+23. SISON, Jose Maria (alias Armando Liwanag, alias Joma, vedúci NPA), dátum narodenia: 8. 2. 1939 v Cabugao, Filipíny.
 
-24. NARVÁEZ GONI, Juan Jesús (E.T.A.), dátum narodenia 23.2.1961 v Pamplone, č. identifikačnej karty 15.841.101.
+24. TINGUALI, Mohammed (alias Mouh di Kouba), dátum narodenia: 21. 4. 1964 v Blida (Alžírsko), člen al Takfir a al Hijra.
 
-25. ORBE SEVILLANO, Zigor (E.T.A., skupina Jarrai/Haika/Segi), dátum narodenia 22.9.1975 v Basauri, č. identifikačnej karty 45.622.851.
+Právnické osoby a skupiny fyzických osôb:
 
-26. OTEGUI UNANUE, Mikel (E.T.A., skupina Jarrai/Haika/Segi), dátum narodenia 8.10.1972 v Itsasondo, č. identifikačnej karty 44.132.976.
+1. Abu Nidal Organisation (ANO – Organizácia Abu Nidal); do skupiny Abu Nidal patrí aj revolučná rada Fatah (Fatah Revolutionary Council), Arabské revolučné brigády (Arab Revolutionary Brigades), organizácia Čierny september (Black September) a Revolučná organizácia moslimských socialistov (Revolutionary Organisation of Socialist Muslims).
 
-27. PALACIOS ALDAY, Gorka (E.T.A., skupina K.Madrid), dátum narodenia 17.10.1974 v Baracaldo (Biscay), č. identifikačnej karty 30.654.356.
+2. Al-Aqsa Martyr`s Brigade (Brigáda mučeníkov Al Aqsa).
 
-28. PEREZ ARAMBURU, Jon Inaki (E.T.A., skupina Jarrai/Haika/Segi), dátum narodenia 18.9.1964 v San Sebastián, č. identifikačnej karty 15.976.521.
+3. Al-Takfir a Al-Hijra.
 
-29. QUINTANA ZORROZUA, Asier (E.T.A., skupina K.Madrid), dátum narodenia 27.2.1968 v Bilbao, č. identifikačnej karty 30.609.430.
+4. Aum Shinrikyo.
 
-30. RUBENACH ROIG, Juan Luis (E.T.A., skupina K.Madrid), dátum narodenia 18.9.1964 v Bilbao, č. identifikačnej karty 18.197.545.
+5. Babbar Khalsa.
 
-31. SAEZ DE EGUILAZ MURGUIONDO, Carlos (E.T.A., skupina Kas/Ekin), dátum narodenia 9.12.1963 v San Sebastian, č. identifikačnej karty 15.962.687.
+6. Gama'a al-Islamiyya, resp. Al-Gama'a al-Islamiyya, IG (Islamská skupina Islamic Group).
 
-32. SISON, Jose Maria (alias Armando Liwanag, alias Joma, vedúci NPA), dátum narodenia 8.2.1939 v Cabugao, Filipíny.
+7. Hamas-Izz al-Din al-Qassem (teroristické krídlo Hamasu).
 
-33. URANGA ARTOLA, Kemen (E.T.A., skupina Herri Batasuna/E.H/Batasuna), dátum narodenia 25.5.1969 Ondarroa, č. identifikačnej karty 30.627.290.
+8. Holy Land Foundation for Relief and Development (Nadácia pre pomoc a obnovu Svätej zeme).
 
-34. VALLEJO FRANCO, Inigo (E.T.A.), dátum narodenia 21.5.1976 v Bilbao, č. identifikačnej karty 29.036.694.
+9. International Sikh Youth Federation (ISYF – Medzinárodná federácia sikhskej mládeže).
 
-35. VILA MICHELENA, Fermín (E.T.A., skupina Kas/Ekin), dátum narodenia 12.3.1970 v Irún, č. identifikačnej karty 15.254.214.
+10. Kahane Chai (Kach).
 
-Právnické osoby a skupiny fyzických osôb
+11. Kurdistan Workers'Party (PKK – Strana kurdských pracujúcich).
 
-1. Abu Nidal Organisation (ANO - Organizácia Abu Nidal); do skupiny Abu Nidal patrí aj revolučná rada Fatah (Fatah Revolutionary Council), Arabské revolučné brigády (Arab Revolutionary Brigades), organizácia Čierny september (Black September) a Revolučná organizácia moslimských socialistov (Revolutionary Organisation of Socialist Muslims)
+12. Lashkar e Tayyaba (LET)/Pashan-e-Ahle Hadis.
 
-2. Al-Aqsa Martyr's Brigade (Brigáda mučeníkov Al Aqsa)
+13. Mujahedin-e Khalq Organisation (MEK or MKO) [minus the `National Council of Resistance of Iran'(NCRI)][alias The National Liberation Army of Iran (NLA, the militant wing of the MEK), the People's Mujahidin of Iran (PMOI), Muslim Iranian Studenťs Society].
 
-3. Aum Shinrikyo
+14. New People`s Army (NPA) – Nová ľudová armáda, Filipíny, spájaná so Sison Jose Maria C. alias Armando Liwanag, alias Joma, vedúci NPA.
 
-4. Babbar Khalsa
+15. Palestine Liberation Front (PLF – Front oslobodenia Palestíny).
 
-5. Continuity Irish Republican Army (CIRA)
+16. Palestinian Islamic Jihad (PIJ – Palestínsky islamský džihád).
 
-6. Euskadi Ta Askatasuna/Tierra Vasca y Libertad/Basque Fatherland and Liberty (E.T.A.); nasledujúce štruktúry sú súčasťami tejto teroristickej skupiny: K.a.s., Xaki; Ekin, Jarrai-Haika-Segi, Gestoras pro-amnistía, Askata-suna
+17. Popular Front for the Liberation of Palestine (PFLP – Ľudový front oslobodenia Palestíny).
 
-7. Gama'a al-Islamiyya, resp. Al-Gama'a al-Islamiyya, IG (Islamská skupina Islamic Group)
+18. Popular Front for the Liberation of Palestine – General Command, (Hlavné veliteľstvo Ľudového frontu oslobodenia Palestíny).
 
-8. Grupos de Resistencia Antifascista Primero de Octubre/Antifascist Resistance Groups First of October (G.R.A.P.O. - Odbojová skupina 1. október)
+19. Revolutionary Armed Forces of Colombia (FARC – Revolučné ozbrojené sily Kolumbie).
 
-9. Hamas-Izz al-Din al-Qassem (teroristické krídlo Hamasu)
+20. Revolutionary People's Liberation Army/Front/Party (DHKP/C).
 
-10. Holy Land Foundation for Relief and Development (Nadácia pre pomoc a obnovu Svätej zeme)
+21. Shining Path (SL – Svetlý chodník), (Sendero Luminoso).
 
-11. International Sikh Youth Federation (ISYF - Medzinárodná federácia sikhskej mládeže)
-
-12. Kahane Chai (Kach)
-
-13. Kurdistan Workers' Party (PKK - Strana kurdských pracujúcich)
-
-14. Lashkar e Tayyaba (LET)/Pashan-e-Ahle Hadis
-
-15. Loyalist Volunteer Force (LVF - Lojalistické dobrovoľnícke sily)
-
-16. Mujahedin-e Khalq Organisation (MEK or MKO) (minus the `National Council of Resistance of Iran'(NCRI))(známa tiež ako The National Liberation Army of Iran (NLA, the militant wing of the MEK), the People's Mujahidin of Iran (PMOI), Muslim Iranian Studenťs Society)
-
-17. New People´s Army (NPA) - Nová ľudová armáda, Filipíny, spájaná so Sison Jose Maria C., alias Armando Liwanag, alias Joma, vedúci NPA
-
-18. Orange Volunteers (OV - Oranžskí dobrovoľníci)
-
-19. Palestine Liberation Front (PLF - Front oslobodenia Palestíny)
-
-20. Palestinian Islamic Jihad (PIJ - Palestínsky islamský džihád)
-
-21. Popular Front for the Liberation of Palestine (PFLP - Ľudový front oslobodenia Palestíny)
-
-22. Popular Front for the Liberation of Palestine - General Command (Hlavné veliteľstvo ľudového frontu pre oslobodenie Palestíny)
-
-23. Real IRA (Pravá IRA)
-
-24. Red Hand Defenders (RHD)
-
-25. Revolutionary Armed Forces of Colombia (FARC - Revolučné ozbrojené sily Kolumbie)
-
-26. Revolutionary Nuclei/Epanastatiki Pirines
-
-27. Revolutionary Organisation 17 November/Dekati Evdomi Noemvri (Revolučná organizácia 17. november)
-
-28. Revolutionary People's Liberation Army/Front/Party (DHKP/C)
-
-29. Revolutionary Popular Struggle/Epanastatikos Laikos Agonas (ELA)
-
-30. Shining Path (SL - Svetlý chodník) (Sendero Luminoso)
-
-31. Ulster Defence Association/Ulster Freedom Fighters (UDA/UFF - Bojovníci za oslobodenie Ulsteru)
-
-32. United Self-Defense Forces/Group of Colombia (AUC) (Autodefensas Unidas de Colombia - Spojené oslobodzovacie sily Kolumbie)
+22. United Self-Defense Forces/Group of Colombia (AUC), (Autodefensas Unidas de Colombia – Spojené oslobodzovacie sily Kolumbie).

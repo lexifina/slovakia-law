@@ -9,3 +9,9 @@ ZOZNAM PODĽA REZOLÚCIE BEZPEČNOSTNEJ RADY ORGANIZÁCIE SPOJENÝCH NÁRODOV Č
 2.1 fyzické osoby zdržiavajúce sa v štátoch susediacich s Rwandskou republikou
 
 2.2 právnické osoby so sídlom v štátoch susediacich s Rwandskou republikou
+
+3. prvý vstup: letisko Kanombe, Kigali, Rwanda.
+
+druhý vstup: Rusumo, Rwanda, cez prístav Dar Es Salaam, Tanzánia,
+
+tretí vstup: Gatuna, Rwanda, cez prístav Mobassa, Keňa.
