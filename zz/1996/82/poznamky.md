@@ -2,6 +2,8 @@
 
 - 2) § 2 ods. 1 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
 
+- 2a) STN 73 0804 Požiarna bezpečnosť stavieb. Výrobné objekty.
+
 - 3) Napríklad STN 01 8012 Bezpečnostné značky a tabuľky.STN 34 3510 Bezpečnostné tabuľky a nápisy pre elektrické zariadenia.
 
 - 4) § 6 a 7 zákona č. 513/1991 Zb. Obchodný zákonník.
