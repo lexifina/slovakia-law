@@ -1,1 +1,0 @@
-- *) Dohovor o zjednotení niektorých pravidiel o medzinárodnej leteckej doprave (tzv. Varšavský) uverejnený pod č. 15/1935 Zb. a Protokol, ktorým sa mení Dohovor o zjednotení niektorých pravidiel o medzinárodnej leteckej doprave, podpísaný vo Varšave 12.októbra 1929 (tzv. Haagský) uverejnený pod č. 15/1966 Zb.
