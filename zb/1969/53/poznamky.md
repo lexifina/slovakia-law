@@ -1,0 +1,1 @@
+- *) České znenie Predpisu č. 9 možno taktiež objednať pod č. 0232272 na ÚVTEI, Praha 1, Konviktská č. 5.
