@@ -1,1 +1,0 @@
-- 1) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení zákona č. 84/1968 Zb., zákona č. 127/1968 Zb. a zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 99/1969 Zb.
