@@ -212,6 +212,8 @@ XX. Arzén a jeho zlúčeniny CAS č. 7440-38-2
 
 3. Prípravky typu DFA (dinitrofenol-fluorid-arzén) sa môžu použiť na opravy in situ už postavených stožiarov, ktoré nesú elektrické káble. S týmito prípravkami môžu zaobchádzať len odborníci pri použití vákua a tlaku.
 
+Bez toho, aby boli dotknuté ostatné ustanovenia osobitného predpisu o klasifikácii, balení a označovaní nebezpečných látok a prípravkov,<sup>1a</sup>) akékoľvek ošetrené drevo uvádzané na trh musí byť osobitne označené textom „Len na použitie v priemyselných zariadeniach a na ošetrovanie dreva odborníkmi. Obsahuje arzén“.
+
 XXI. Organociničité zlúčeniny
 
 - 1. Nesmú sa dodávať na trh na použitie ako látky a zložky prípravkov, ktoré pôsobia ako biocídy vo voľných spájacích náterových hmotách.
@@ -894,7 +896,7 @@ b) pri mazaní usní.
 
 XLIII. Azofarbivá
 
-1. Azofarbivá, ktoré môžu v dôsledku redukčného štiepenia jednej azo skupiny alebo viacerých azo skupín uvoľňovať jeden aromatický amín alebo viac aromatických amínov uvedených v Zozname aromatických amínov v zistiteľných koncentráciách, t. j. nad 30 ppm v hotových výrobkoch alebo v ich farbených častiach podľa testovacej metódy stanovenej slovenskou technickou normou,<sup>2</sup>) sa nesmú používať v textilných, usňových a odevných výrobkoch z textilu a usní, ktoré môžu prichádzať do priameho a dlhodobého styku s pokožkou alebo ústnou dutinou, ako napríklad:
+- 1. Azofarbivá, ktoré môžu v dôsledku redukčného štiepenia jednej azo skupiny alebo viacerých azo skupín uvoľňovať jeden aromatický amín alebo viac aromatických amínov uvedených v Zozname aromatických amínov v zistiteľných koncentráciách, t. j. nad 30 ppm v hotových výrobkoch alebo v ich farbených častiach podľa testovacej metódy stanovenej slovenskou technickou normou,<sup>5a</sup>)sa nesmú používať v textilných, usňových a odevných výrobkoch z textilu a usní, ktoré môžu prichádzať do priameho a dlhodobého styku s pokožkou alebo ústnou dutinou, ako napríklad:
 
 a) osobná bielizeň, vrchné a spodné ošatenie, lôžkoviny, uteráky, príčesky, parochne, klobúky, plienky a iné hygienické výrobky, spacie vaky,
 
