@@ -720,13 +720,13 @@
 
 - 44. Rehoľný dom saleziánov Žilina
 
-  - pozemky č. k. 4437/4 stavebná plocha
+  - čp. 2807 budova so stavebnou plochou č. k. 4437/4, č. k. 4437/3 stavebná plocha
 
-  - Vlastník: Čs. štát – Podnik bytového hospodárstva Žilina
+    - Vlastník: Čs. štát – Podnik bytového hospodárstva Žilina
 
-  - Užívateľ: ako vlastník
+    - Užívateľ: ako vlastník
 
-  - Zapísané na SG Žilina na LV č. 79 pre obec a k. ú. Žilina
+    - Zapísané na SG Žilina na LV č. 79 pre obec a k. ú. Žilina
 
   - čp. 2806 budova so stavebnou plochou 4434
 
