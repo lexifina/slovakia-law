@@ -1,9 +1,23 @@
-# § 13c Výkon funkcie starostu sa skončí
+# § 13c
 
-- a) uplynutím funkčného obdobia, ak tento zákon neustanovuje inak,
+(1) Mandát starostu zaniká
 
-- b) vzdaním sa funkcie,
+- a) odmietnutím sľubu alebo zložením sľubu s výhradou,
 
-- c) ak bol právoplatne odsúdený za úmyselný trestný čin,
+- b) uplynutím funkčného obdobia (§ 13 ods. 1),
 
-- d) zložením sľubu nového starostu.
+- c) vzdaním sa funkcie,
+
+- d) právoplatným odsúdením za úmyselný trestný čin,
+
+- e) pozbavením spôsobilosti na právne úkony alebo obmedzením spôsobilosti na právne úkony,
+
+- f) zmenou trvalého pobytu mimo územia obce; v mestách podľa § 22 ods. 8 aj v prípade zmeny trvalého pobytu mimo územia mestskej časti, v ktorej vykonáva funkciu,
+
+- g) zlúčením, rozdelením alebo zrušením obce,
+
+- h) smrťou.
+
+(2) Vzdanie sa funkcie musí byť písomné a jeho účinky nastávajú doručením obecnému úradu. Vzdanie sa funkcie nemožno vziať späť.
+
+(3) Súd oznamuje obci skutočnosti podľa odseku 1 písm. d) a e).
