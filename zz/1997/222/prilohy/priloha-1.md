@@ -30,13 +30,13 @@ Skutočnosť, že tieto veci neobsahujú látky poškodzujúce ozónovú vrstvu 
 
 3. Použité kuchynské roboty, práčky a umývačky riadu.
 
-4. Ojazdené motorové vozidlá alebo havarované motorové vozidlá určené na súčiastky, ktoré nespĺňajú požiadavky podľa všeobecne záväzného právneho predpisu<sup>7</sup>) s výnimkou historických vozidiel a vozidiel na športové účely.
+4. Ojazdené alebo poškodené motorové vozidlá vrátane motorových vozidiel určených na súčiastky, ktoré nespĺňajú požiadavky podľa všeobecne záväzného právneho predpisu,<sup>7</sup>) s výnimkou historických vozidiel a vozidiel špeciálne upravených na športové účely.
 
-5. Ojazdené pneumatiky, ktoré nespĺňajú požiadavky podľa všeobecne záväzného právneho predpisu.<sup>7</sup>)
+5. Pneumatiky, ktoré nespĺňajú požiadavky podľa všeobecne záväzného právneho predpisu.<sup>7</sup>)
 
 6. Použitá spodná bielizeň, použité nočné košele a pyžamy.
 
-7. Použitý pančuchový tovar, tričká, košele a iné odevné výrobky, ktoré sa dostanú priamo do styku s ľudským telom.
+7. Použitý pančuchový tovar.
 
 8. Použitá posteľná bielizeň.
 
@@ -68,4 +68,8 @@ b) ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v
 
 c) pri dovoze týchto vecí právnickou osobou alebo fyzickou osobou na charitatívne účely, ak dovozca priloží doklad z krajiny vývozu o dezinfekcii a dezinsekcii alebo o odbornom vyčistení vecí a súhlas na ich dovoz od príslušného orgánu hygieny Slovenskej republiky.
 
-4. Zákaz dovozu vecí uvedených v bode 14 sa neuplatní, ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska.
+4. Zákaz dovozu vecí uvedených v bodoch 9 a 10 sa neuplatní, ak ide o veci v balíkových zásielkach v poštovom styku zasielané fyzickou osobou zo zahraničia v primeranom množstve fyzickej osobe v tuzemsku.
+
+5. Zákaz dovozu vecí uvedených v bodoch 2, 3, 9 a 10, 12 až 14 sa neuplatní, ak ide o veci preukázateľne získané v zahraničí dedením.
+
+6. Zákaz dovozu vecí uvedených v bode 14 sa neuplatní, ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska.
