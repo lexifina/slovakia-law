@@ -38,8 +38,4 @@
 
 - 18. Majetok stálej celoštátnej poľnohospodárskej výstavy, n. p., Nitra,
 
-- 19. Sokolovský revír, statky a lesy, n. p., Sokolov,
-
-- 20. Rekultivace, n. p., Havířov,
-
 - 21. Velkochov laboratorních zvířat, n. p., Praha - Lysolaje.
