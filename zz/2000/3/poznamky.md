@@ -1,0 +1,1 @@
+- *) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
