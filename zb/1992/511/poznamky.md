@@ -42,6 +42,8 @@
 
 - 6g) Napr. § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení zákona Národnej rady Slovenskej republiky č. 182/1994 Z. z.
 
+- 6ga) § 151j až 151md Občianskeho zákonníka.
+
 - 6h) § 12 ods. 1 Trestného poriadku v znení neskorších predpisov.
 
 - 7) Napr. § 18 zákona SNR č. 317/1992 Zb. o dani z nehnuteľností.
@@ -74,7 +76,7 @@
 
 - 8g) Zákon č. 231/1999 Z. z. o štátnej pomoci.
 
-- 8h) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
+- 8h) § 73d až 73i zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 8i) § 58 ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní v znení neskorších predpisov.
 
@@ -128,7 +130,7 @@
 
 - 13a) § 7 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
 
-- 13b) § 151a až 151m Občianskeho zákonníka.
+- 13b) § 151a až 151md Občianskeho zákonníka, § 73d až 73i zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 13c) Napr. § 262 zákona č. 618/1992 Zb. Colný zákon.
 
@@ -140,7 +142,11 @@
 
 - 13eb) § 68 ods. 2 Obchodného zákonníka.
 
-- 13f) Zákon č. 366/1999 Z. z.
+- 13f) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 13g) § 151d Občianskeho zákonníka.
+
+- 13h) § 151e Občianskeho zákonníka.
 
 - 14) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
@@ -212,6 +218,8 @@
 
 - 19m) § 105 až 153 Obchodného zákonníka v znení neskorších predpisov.
 
+- 19ma) § 70a zákona Slovenskej národnej rady č. 323/1992 Zb. v znení zákona č. 527/2002 Z. z.
+
 - 19n) Zákon Slovenskej národnej rady č. 318/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
 
 - 19o) § 31 a 54 zákona č. 328/1991 Zb. v znení neskorších predpisov.
@@ -226,7 +234,9 @@
 
 - 23) § 24 ods. 4 a 6 zákona č. 92/1991 Zb. v znení neskorších predpisov.
 
-- 24) § 36 ods. 2 písm. c) bod 2 zákona č. 366/1999 Z. z.
+- 24) § 4 ods. 7 zákona č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly.
+
+- 25) Napríklad zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení neskorších predpisov.
 
 - 25) § 43h ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
