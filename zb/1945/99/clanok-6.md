@@ -1,0 +1,7 @@
+# Čl. 6.
+
+(1) Ustanovení předchozích článků platí i pro poplatníky, kteří podléhali v roce 1942 srážce daně důchodové, pokud u nich došlo k vyměření daně důchodové na berní rok 1942, a pro poplatníky, kteří podléhali v roce 1944 srážce daně ze mzdy, pokud u nich dojde k vyměření daně důchodové na berní rok 1944.
+
+(2) Nedošlo-li u zaměstnanců k vyměření daně důchodové na berní rok 1942, bude daň důchodová na berní rok 1943 vyměřena, jsou-li pro to pro berní rok 1943 dány předpoklady podle hlavy I. z. o př. d. pozměněné tímto dekretem. Nejsou-li tyto předpoklady dány, bude srážkou daně důchodové, provedenou řádně v roce 1942, učiněno zadost povinnosti k dani důchodové na berní rok 1943. Poplatníkům nepřísluší právo podle § 32, odst. 5 z. o př. d. žádati o řádné vyměření daně na berní rok 1943. Poplatníci mají nárok, aby jim byla - pokud se tak již nestalo - vrácena z daně sražené v roce 1942 taková částka, jaká jim byla vrácena z daně sražené v roce 1941, nejvýše však do výše srážky provedené v kalendářním roce 1942.
+
+(3) Nedojde-li u zaměstnanců k vyměření daně důchodové na berní rok 1944, bude daň důchodová na berní rok 1945 vyměřena, jsou-li pro to v kalendářním roce 1944 dány předpoklady podle hlavy I. z. o př. d. pozměněné tímto dekretem. Nejsou-li tyto předpoklady dány, bude srážkou daně ze mzdy, provedenou řádně v roce 1944, učiněno zadost povinnosti k dani důchodové na berní rok 1945.
