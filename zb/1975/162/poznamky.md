@@ -13,3 +13,5 @@
 - 7) Zákon č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby.
 
 - 8) § 345 až 370 Občianskeho zákonníka, § 358 až 360 Hospodárskeho zákonníka, vyhláška č. 48/1964 Zb. o poistných podmienkach pre poistenie majetku.
+
+- 9) Rozhodnutie Ministerstva poľnohospodárstva a výživy SSR č. 7114/79-EK zo 16. júla 1979 o stálych zúčtovacích cenách a skupinových stálych cenách na oceňovanie poľnohospodárskych produktov.
