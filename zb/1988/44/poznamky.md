@@ -54,7 +54,7 @@
 
 - 16b) § 11 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
-- 16c) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 434/2001 Z. z.
+- 16c) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 16d) § 5 a 6 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
