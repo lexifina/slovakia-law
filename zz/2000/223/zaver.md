@@ -1,0 +1,1 @@
+Ľudovít Hogh v. r.
