@@ -44,13 +44,7 @@ Príloha č. 3 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 1.1 Emisné limity pre 1. podskupinu karcinogénnych látok
 
-    - 1.1.1 Emisné limity pre nové zdroje znečisťovania
-
-    - Pri hmotnostnom toku vyššom ako 0,5 g.h<sup>-1</sup> nesmie prekročiť suma koncentrácií látok 1. podskupiny v odpadovom plyne hodnotu 0,1 mg.m<sup>-3</sup>.
-
-    - 1.1.2 Emisné limity pre jestvujúce zdroje znečisťovania
-
-    - Pri hmotnostnom toku vyššom ako 1 g.h<sup>-1</sup> nesmie prekročiť suma koncentrácií látok 1. podskupiny v odpadovom plyne hodnotu 0,2 mg.m<sup>-3</sup>.
+    - Pri hmotnostnom toku vyššom ako 0,5 g.h<sup>-1</sup> nesmie suma koncentrácií látok 1. podskupiny v odpadovom plyne prekročiť hodnotu 0,1 mg.m<sup>-3</sup>.
 
     - 1.2 Emisné limity pre 2. podskupinu karcinogénnych látok
 

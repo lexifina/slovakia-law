@@ -4,7 +4,7 @@ Príloha č. 1 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
   - A. JESTVUJÚCE ZDROJE ZNEČISŤOVANIA
 
-  - I. ZÁKLADNÉ ZNEČISŤUJÚCE LÁTKY
+  - I. ZÁKLADNÉ ZNEČISŤUJÚCE LÁTKY A VYBRANÉ ZNEČISŤUJÚCE LÁTKY
 
     - tuhé znečisťujúce látky<sup>1</sup>)
 
@@ -19,6 +19,10 @@ Príloha č. 1 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
     - pachové látky<sup>2</sup>)
 
     - organické látky, ktoré sú v odpadových plynoch v plynnej fáze vyjadrené ako celkový organický uhlík
+
+    - dibenzodioxíny
+
+    - dibenzofurány uvedené v prílohe č. 4 v V. časti bode 8
 
   - II. OSTATNÉ ZNEČISŤUJÚCE LÁTKY
 

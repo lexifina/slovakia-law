@@ -4,21 +4,17 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
   - I. PALIVOVO-ENERGETICKÝ PRIEMYSEL
 
-    - 1. TECHNOLOGICKÉ CELKY OBSAHUJÚCE STACIONÁRNE ZARIADENIA NA SPAĽOVANIE PALÍV (TEPLÁRNE, ELEKTRÁRNE, VÝHREVNE A ZARIADENIA NA PROCESNÉ SPAĽOVANIE) SO SÚHRNNÝM TEPELNÝM VÝKONOM 0,2 MW A VÄČŠÍM
+    - 1. TECHNOLOGICKÉ CELKY OBSAHUJÚCE STACIONÁRNE ZARIADENIA NA SPAĽOVANIE PALÍV (TEPLÁRNE, ELEKTRÁRNE, VÝHREVNE A ZARIADENIA NA PROCESNÉ SPAĽOVANIE) SO SÚHRNNÝM TEPELNÝM PRÍKONOM 0,3 MW A VÄČŠÍM
 
-    - 1.1 Zariadenie pre nové zdroje
+    - 1.1 Zariadenie pre nové zdroje znečisťovania
 
-      - Za zariadenie sa v zmysle tohto nariadenia považuje kotlová jednotka alebo skupina kotlových jednotiek (prípadne procesných ohrevov), ktoré vypúšťajú alebo môžu vypúšťať odpadové plyny cez spoločný komín.
+      - Za zariadenie pre nové zdroje znečisťovania sa považuje kotol alebo skupina kotlov (prípadne procesných ohrevov), ktoré vypúšťajú alebo môžu vypúšťať odpadové plyny cez spoločný odvod spalín. Na priradenie emisného limitu podľa príkonu sa spočítavajú príkony kotlov spaľujúcich palivo rovnakého typu (tuhé, kvapalné, plynné). Pri dvojpalivovom systéme, ak podiel privedeného tepla druhým palivom neprekročí 30 %, sa z hľadiska priradenia emisného limitu berie kotol, ako keby spaľoval len palivo privádzajúce prevažujúci tepelný príkon. Ak kotol spaľuje prídavné palivo vo väčšom podiele ako 30 % privedeného tepla, príkon tohto kotla sa k príkonom kotlov spaľujúcich len jedno palivo (alebo považovaných za také) nepripočítava a na priradenie emisného limitu sa počíta príkon každého takého kotla samostatne. Osobitne sa spočítavajú príkony kotlov s cirkulujúcou fluidnou alebo pretlakovou vrstvou a osobitne sa spočítavajú príkony kotlov s výtavným ohniskom.
 
-      - Na priradenie emisného limitu podľa výkonu sa spočítavajú výkony kotlov spaľujúcich palivo rovnakého typu (pevné, kvapalné, plynné). V prípade dvojpalivového systému, keď podiel privedeného tepla druhým palivom neprekročí 30 %, sa z hľadiska priradenia emisného limitu berie kotol, ako keby spaľoval len palivo privádzajúce prevažujúci tepelný príkon. Ak kotol spaľuje prídavné palivo vo väčšom podiele ako 30 % privedeného tepla, výkon tohto kotla sa k výkonom kotlov spaľujúcich len jedno palivo (alebo považovaných za také) nepripočítava a pre priradenie emisného limitu sa počíta výkon každého takéhoto kotla samostatne.
+    - 1.2 Zariadenie pre jestvujúce zdroje znečisťovania platné do 31. decembra 2009
 
-      - Osobitne sa spočítavajú výkony kotlov s cirkulujúcou fluidnou alebo pretlakovou vrstvou a osobitne sa spočítavajú výkony kotlov s výtavným ohniskom.
+      - Za zariadenie pre jestvujúce zdroje znečisťovania platné do 31. decembra 2009 sa považuje kotol alebo skupina kotlov (prípadne procesných ohrevov), ktoré vypúšťajú odpadové plyny cez spoločný odvod spalín a ktorých jednotlivé tepelné príkony sú nižšie ako 62 MW alebo jednotlivé kotly a zariadenia na procesné spaľovanie s menovitým tepelným príkonom 62 MW a vyšším. Na priradenie emisného limitu podľa príkonu sa spočítavajú príkony kotlov spaľujúcich palivo rovnakého typu (tuhé, kvapalné, plynné). Pri dvojpalivovom systéme, ak podiel privedeného tepla druhým palivom neprekročí 30 %, sa z hľadiska priradenia emisného limitu berie kotol, ako keby spaľoval len palivo privádzajúce prevažujúci tepelný príkon. Ak kotol spaľuje prídavné palivo vo väčšom podiele ako 30 % privedeného tepla, príkon tohto kotla sa k príkonom kotlov spaľujúcich len jedno palivo (alebo považovaných za také) nepripočítava a na priradenie emisného limitu sa počíta príkon každého takého kotla samostatne. Osobitne sa spočítavajú príkony kotlov s cirkulujúcou fluidnou alebo pretlakovou vrstvou a osobitne sa spočítavajú príkony kotlov s výtavným ohniskom.
 
-    - 1.2 Zariadenie pre jestvujúce zdroje s platnosťou do 31. 12. 2009
-
-      - Za zariadenia sa považujú skupiny kotlov alebo zariadení na procesné spaľovanie v danej technologickej jednotke, ktorých jednotlivé tepelné výkony sú nižšie ako 50 MW alebo jednotlivé kotly a zariadenia na procesné spaľovanie s tepelným výkonom 50 MW a vyšším.
-
-      - Pre jestvujúce zdroje platí po 1. 1. 2010 definícia zariadenia podľa bodu 1.1.
+      - Od 1. januára 2010 platí pre jestvujúce zdroje znečisťovania bod 1.1.
 
     - 1.3 Zariadenie pre procesné spaľovanie
 
@@ -26,133 +22,131 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 1.4 Palivá
 
-      - V zariadeniach na spaľovanie palív sa môžu spaľovať len fosílne palivá a palivá z nich vyrobené (hnedé a čierne palivové uhlie, lignit, rašelina, koks, brikety, nafta, vykurovacie oleje a ťažké ropné frakcie štandardizovanej kvality spaľované v rafinériách ako vlastná produkcia), drevo, drevný odpad a iná hmota rastlinného pôvodu, prípadne opotrebované oleje, pokiaľ neobsahujú chlór v množstve väčšom ako 0,5 % hmot. a PCB a PCT väčšom ako 10 mg.kg<sup>-1</sup>, zemný plyn naftový, prípadne priemyselné plyny osobitne uvedené v ďalšej časti tejto prílohy.
+      - V zariadeniach na spaľovanie palív sa môžu spaľovať len fosílne palivá a palivá z nich vyrobené (hnedé a čierne palivové uhlie, lignit, rašelina, koks, brikety, nafta, vykurovacie oleje a ťažké ropné frakcie štandardizovanej kvality spaľované v rafinériách ako vlastná produkcia), biomasa, odpadové oleje (do 31. decembra 2006), ak neobsahujú chlór v množstve väčšom ako 0,5 % hmot. a PCB a PCT v množstve väčšom ako 10 mg.kg<sup>-1</sup>, zemný plyn naftový, skvapalnené uhľovodíkové plyny, bioplyn, prípadne priemyselné plyny osobitne uvedené v bodoch 1.7.2.3, 1.7. 3a a 1.7. 3b.
 
-      - Pri spaľovaní drevného odpadu sa rozumie drevná hmota, ktorá nebola ošetrená ochranným moridlom (napr. proti hmyzu, hubám, zápalnosti) alebo neobsahuje vrstvu organických zlúčenín s obsahom chlóru.
+      - Biomasa je každá rastlinná hmota alebo časť rastlinnej hmoty, ktorá môže byť využitá na výrobu energie. Drevný odpad a rastlinný odpad sú tiež biomasou, ak sú uvedené v bode 1.2 písm. b) v bodoch 1 až 5 V. časti tejto prílohy.
 
     - 1.5 Emisné limity pre spaľovanie tuhých palív
 
-    - 1.5.1 Podmienky stanovenia emisných limitov
+    - 1.5.1 Podmienky určenia emisných limitov
 
-      - Všetky emisné limity uvedené v bode 1.5 platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,325 kPa a 0 oC a pre obsah kyslíka v odpadových plynoch vo výške 6 % obj. Odchylne od tohto ustanovenia sa pri spaľovaní dreva a inej hmoty rastlinného pôvodu koncentrácie prepočítavajú na obsah kyslíka v spalinách vo výške 11 % obj.
+      - Všetky emisné limity uvedené v bode 1.5 platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,325 kPa a 0 <sup>o</sup>C a pre obsah kyslíka v odpadových plynoch vo výške 6 % obj. Odchylne od tohto určenia sa pri spaľovaní dreva a inej hmoty rastlinného pôvodu koncentrácie prepočítavajú na obsah kyslíka v spalinách vo výške 11 % obj.
 
     - 1.5.2 Emisný limit pre tuhé znečisťujúce látky
 
     - 1.5.2.1 Emisný limit pre nové zdroje znečisťovania
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 400 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
+      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 500 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 50 MW a vyšším až do 400 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 50 MW a vyšším až do 500 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
-      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom vyšším ako 2 MW až do 50 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 150 mg.m<sup>-3</sup>.
+      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom vyšším ako 2,5 MW až do 50 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 150 mg.m<sup>-3</sup>.
 
-      - d) Odchylne od ustanovenia v písmene c) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou alebo pretlakovou fluidnou vrstvou s menovitým tepelným výkonom vyšším ako 2 MW do 400 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+      - d) Odchylne od určenia v písmene c) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou alebo pretlakovou fluidnou vrstvou s menovitým tepelným príkonom vyšším ako 2,5 MW do 500 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
-      - e) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 2 MW vrátane nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 250 mg.m<sup>-3</sup>.
+      - e) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 2,5 MW vrátane nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 250 mg.m<sup>-3</sup>.
 
-    - 1.5.2.2 Emisný limit pre jestvujúce zdroje znečisťovania s platnosťou do 31. 12. 2009
+    - 1.5.2.2 Emisný limit pre nové zdroje znečisťovania, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby po 31. decembri 2001
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 50 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+    - Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 50 MW a vyšším až do 500 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>. Tento emisný limit platí od 1. januára 2010 pre všetky zariadenia uvedených príkonov jestvujúcich a nových zdrojov znečisťovania.
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom vyšším ako 2 MW do 50 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 150 mg.m<sup>-3</sup>.
+    - 1.5.2.3 Emisný limit pre jestvujúce zdroje znečisťovania platný do 31. decembra 2009
 
-      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 2 MW vrátane sa emisný limit pre tuhé znečisťujúce látky neurčuje a neplatia ani všeobecne platné emisné limity.
+      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 62 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
-      - d) Odchylne od ustanovenia v písmene b) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou alebo s pretlakovou fluidnou vrstvou s menovitým tepelným výkonom vyšším ako 2 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom vyšším ako 2,5 MW do 62 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 150 mg.m<sup>-3</sup>.
 
-    - 1.5.3 Emisný limit pre oxidy síry
+      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 2,5 MW vrátane sa emisný limit pre tuhé znečisťujúce látky neurčuje a neplatia ani všeobecne platné emisné limity.
+
+      - d) Odchylne od určenia v písmene b) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou alebo s pretlakovou fluidnou vrstvou s menovitým tepelným príkonom vyšším ako 2,5 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+
+    - 1.5.3 Emisný limit pre oxidy síry (okrem spaľovania biomasy)
 
     - 1.5.3.1 Emisný limit pre nové zdroje znečisťovania
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 400 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, nesmie byť emisný stupeň oxidov síry vyšší ako 10 %.
+      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 500 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, nesmie byť emisný stupeň oxidov síry vyšší ako 10 %.
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 140 MW a vyšším až do 400 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu vypočítanú podľa vzťahu
+      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 175 MW a vyšším až do 500 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu vypočítanú podľa vzťahu
 
-        - EL = 2 400 - 5 x MTV,
+        - EL = 2400 - 4 x MTP,
 
         - kde EL je emisný limit [mg.m<sup>-3</sup>],
 
-        - MTV je menovitý tepelný výkon [MW<sub>t</sub>].
+        - MTP je menovitý tepelný príkon [MW].
 
-        - Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, nesmie byť emisný stupeň vyšší ako hodnota vypočítaná podľa vzťahu
+        - Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, pre zariadenia s menovitým tepelným príkonom 175 MW a vyšším až do 500 MW nesmie byť emisný stupeň vyšší ako hodnota vypočítaná podľa vzťahu
 
-        - ES = 84 - 0,185 x MTV,
+        - ES = 85 - 0,15 x MTP,
 
         - kde ES je emisný stupeň [%].
 
-        - V takom prípade koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
+        - Ak sa uplatní emisný stupeň, koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
-      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 40 MW a vyšším až do 140 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, nesmie byť emisný stupeň vyšší ako 60 %. V takom prípade koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
+      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 50 MW a vyšším až do 175 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1700 mg.m<sup>-3</sup>.
 
-      - d) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 40 MW pri hmotnostnom toku vyššom ako 10 kg.h<sup>-1</sup> nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
+      - Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť hodnotu emisného limitu pod písmenom c), pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 50 MW a vyšším až do 167 MW nesmie byť emisný stupeň vyšší ako 60 %. Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 167 MW a vyšším až do 175 MW nesmie byť emisný stupeň vyšší ako hodnota vypočítaná podľa vzťahu pre emisný stupeň pod písmenom b). Ak sa uplatní emisný stupeň, koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
-      - e) Odchylne od ustanovení v písmenách a) až d) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou fluidnou vrstvou alebo pretlakovou fluidnou vrstvou s menovitým tepelným výkonom vyšším ako 2 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup> alebo emisný stupeň nesmie byť vyšší ako 15 %.
+      - d) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 50 MW pri hmotnostnom toku vyššom ako 10 kg.h<sup>-1</sup> nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
-    - 1.5.3.2 Emisný limit pre jestvujúce zdroje znečisťovania s platnosťou do 31. 12. 2009
+      - e) Odchylne od ustanovení v písmenách a) až d) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou fluidnou vrstvou alebo pretlakovou fluidnou vrstvou s menovitým tepelným príkonom vyšším ako 2,5 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup> alebo emisný stupeň nesmie byť vyšší ako 15 %.
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom vyšším ako 300 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 500 mg.m<sup>-3</sup>. Ak nemožno túto hodnotu dosiahnuť bez odsírenia spalín, nesmie byť emisný stupeň oxidov síry vyšší ako 15 %.
+    - 1.5.3.2 Emisný limit pre jestvujúce zdroje znečisťovania platný do 31. decembra 2009
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 50 MW a vyšším až do 300 MW vrátane nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 60 %. V takom prípade koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
+      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom vyšším ako 375 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 500 mg.m<sup>-3</sup>. Ak nemožno túto hodnotu dosiahnuť bez odsírenia spalín, nesmie byť emisný stupeň oxidov síry vyšší ako 15 %.
 
-      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom vyšším ako 5 MW až do 50 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 62 MW a vyšším až do 375 MW vrátane nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 60 %. V takom prípade koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
-      - d) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 5 MW vrátane pri hmotnostnom toku oxidu siričitého vyššom ako 20 kg.h<sup>-1</sup> nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
+      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom vyšším ako 7 MW až do 62 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
-      - e) Odchylne od ustanovení v písmenách a) až d) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou fluidnou vrstvou alebo pretlakovou fluidnou vrstvou s menovitým tepelným výkonom vyšším ako 2 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup> alebo emisný stupeň nesmie byť vyšší ako 15 % .
+      - d) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 7 MW vrátane pri hmotnostnom toku oxidu siričitého vyššom ako 20 kg.h<sup>-1</sup> nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
 
-    - 1.5.3.3 Emisné limity pre jestvujúce zdroje znečisťovania s platnosťou po 1. 1. 2010
+      - e) Odchylne od ustanovení v písmenách a) až d) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou fluidnou vrstvou alebo pretlakovou fluidnou vrstvou s menovitým tepelným príkonom vyšším ako 2,5 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup> alebo emisný stupeň nesmie byť vyšší ako 15 %.
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 400 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 10 %.
+    - 1.5.3.3 Podmienky dodržania emisného limitu
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 50 MW a vyšším až do 400 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 60 %. V takom prípade koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách nesmie zároveň prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
-
-      - c) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom vyšším ako 5 MW až do 50 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
-
-      - d) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 0,2 MW až do 5 MW vrátane pri hmotnostnom toku oxidu siričitého vyššom ako 20 kg.h<sup>-1</sup> nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 2 500 mg.m<sup>-3</sup>.
-
-      - e) Odchylne od ustanovení v písmenách a) až d) pri zariadeniach na fluidné spaľovanie tuhých palív s cirkulujúcou fluidnou vrstvou alebo s pretlakovou fluidnou vrstvou s menovitým tepelným výkonom vyšším ako 2 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup> alebo emisný stupeň nesmie byť vyšší ako 15 %.
-
-    - 1.5.3.4 Podmienky dodržania emisného limitu
-
-    - Spaľovacie zariadenie možno prevádzkovať aj pri výpadku zariadenia na obmedzovanie emisií oxidu siričitého, ak doba výpadku neprekročí 96 po sebe nasledujúcich hodín a počas kalendárneho roka spolu 360 hodín.
+    - Spaľovacie zariadenie možno prevádzkovať aj pri výpadku zariadenia na obmedzenie emisií oxidu siričitého, ak doba výpadku neprekročí 96 hodín nasledujúcich po sebe a počas kalendárneho roka spolu 360 hodín.
 
     - 1.5.4 Emisný limit pre oxidy dusíka
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom vyšším ako 50 MW nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 550 mg.m<sup>-3</sup>.
+      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom vyšším ako 62 MW nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 550 mg.m<sup>-3</sup>.
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 50 MW vrátane nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 650 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 62 MW vrátane nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 650 mg.m<sup>-3</sup>.
 
-      - c) Odchylne od ustanovenia v písmenách a) a b) pri spaľovaní tuhých palív vo výtavných kotloch nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 1 100 mg.m<sup>-3</sup>.
+      - c) Odchylne od ustanovení v písmenách a) a b) pri spaľovaní tuhých palív vo výtavných kotloch nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 1 100 mg.m<sup>-3</sup>.
 
-      - d) Odchylne od ustanovení v písmenách a) a b) pri zariadeniach pre fluidné spaľovanie s cirkulujúcou fluidnou vrstvou alebo pretlakovou fluidnou vrstvou s menovitým tepelným výkonom vyšším ako 2 MW nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>.
+      - d) Odchylne od ustanovení v písmenách a) a b) pri zariadeniach pre fluidné spaľovanie s cirkulujúcou fluidnou vrstvou alebo pretlakovou fluidnou vrstvou s menovitým tepelným príkonom vyšším ako 2,5 MW nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>.
 
     - 1.5.5 Emisný limit pre oxid uhoľnatý
 
     - 1.5.5.1 Emisný limit pre nové zdroje znečisťovania
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom vyšším ako 5 MW nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 250 mg.m<sup>-3</sup>.
+      - a) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom vyšším ako 7 MW nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 250 mg.m<sup>-3</sup>.
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 5 MW vrátane pri hmotnostnom toku väčšom ako 5 kg.h<sup>-1</sup> nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 850 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie tuhých palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 7 MW vrátane pri hmotnostnom toku väčšom ako 5 kg.h<sup>-1</sup> nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 850 mg.m<sup>-3</sup>.
 
-    - 1.5.5.2 Emisný limit pre jestvujúce zdroje znečisťovania s platnosťou do 31. 12. 2009
+    - 1.5.5.2 Emisný limit pre jestvujúce zdroje znečisťovania platný do 31. decembra 2009
 
-      - a) Pri zariadeniach na spaľovanie tuhých palív s roštovým kúreniskom všetkých typov s menovitým tepelným výkonom 0,2 MW a vyšším až do 2 MW vrátane sa emisný limit pre oxid uhoľnatý neurčuje.
+      - a) Pri zariadeniach na spaľovanie tuhých palív s roštovým kúreniskom všetkých typov s menovitým tepelným príkonom 0,3 MW a vyšším až do 2,5 MW vrátane sa emisný limit pre oxid uhoľnatý neurčuje.
 
-      - b) Pri zariadeniach na spaľovanie tuhých palív s roštovým kúreniskom s pohadzovačom s menovitým tepelným výkonom vyšším ako 2 MW nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 1 100 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie tuhých palív s roštovým kúreniskom s pohadzovačom s menovitým tepelným príkonom vyšším ako 2,5 MW nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 1 100 mg.m<sup>-3</sup>.
 
-      - c) V ostatných zariadeniach na spaľovanie tuhých palív, ktoré nie sú uvedené v písmenách a) a b), s menovitým tepelným výkonom 0,2 MW a vyšším až do 5 MW vrátane pri hmotnostnom toku 5 kg.h<sup>-1</sup> a väčšom, nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 850 mg.m<sup>-3</sup>.
+      - c) V ostatných zariadeniach na spaľovanie tuhých palív, ktoré nie sú uvedené v písmenách a) a b), s menovitým tepelným príkonom 0,3 MW a vyšším až do 7 MW vrátane pri hmotnostnom toku 5 kg.h<sup>-1</sup> a väčšom nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 850 mg.m<sup>-3</sup>.
 
-      - d) V ostatných zariadeniach na spaľovanie tuhých palív, ktoré nie sú uvedené v písmene b), s menovitým tepelným výkonom vyšším ako 5 MW, nesmie koncentrácia oxidu uhoľnatého v odpadových plynoch prekročiť hodnotu 250 mg.m<sup>-3</sup>.
+      - d) V ostatných zariadeniach na spaľovanie tuhých palív, ktoré nie sú uvedené v písmene b), s menovitým tepelným príkonom vyšším ako 7 MW, nesmie koncentrácia oxidu uhoľnatého v odpadových plynoch prekročiť hodnotu 250 mg.m<sup>-3</sup>.
 
     - 1.5.6 Emisný limit pre organické látky
 
-    - 1.5.6.1. Emisný limit pre nové zdroje
+    - 1.5.6.1 Emisný limit pre nové zdroje znečisťovania
 
-    - Pri spaľovaní dreva, kôry, drevného odpadu a inej hmoty rastlinného pôvodu v zariadeniach s menovitým tepelným výkonom 0,2 MW a vyšším nesmie koncentrácia organických látok vyjadrená ako celkový organický uhlík v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
+    - Pri spaľovaní dreva, kôry, drevného odpadu a inej hmoty rastlinného pôvodu (biomasa) v zariadeniach s menovitým tepelným príkonom 0,3 MW a vyšším nesmie koncentrácia organických látok vyjadrená ako celkový organický uhlík v spalinách prekročiť hodnotu
 
-    - 1.5.6.2 Emisný limit pre jestvujúce zdroje
+      - a) pri zariadeniach s menovitým tepelným príkonom 0,3 MW a vyšším do 1 MW vrátane 100 mg.m<sup>-3</sup>,
 
-    - Pri spaľovaní dreva, kôry, drevného odpadu a inej hmoty rastlinného pôvodu v zariadeniach s menovitým tepelným výkonom vyšším ako 5 MW nesmie koncentrácia organických látok vyjadrená ako celkový organický uhlík v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
+      - b) pri zariadeniach s menovitým tepelným príkonom viac ako 1 MW 50 mg.m<sup>-3</sup>.
+
+    - 1.5.6.2 Emisný limit pre jestvujúce zdroje znečisťovania
+
+    - Pri spaľovaní dreva, kôry, drevného odpadu a inej hmoty rastlinného pôvodu (biomasa) v zariadeniach s menovitým tepelným príkonom vyšším ako 7 MW nesmie koncentrácia organických látok vyjadrená ako celkový organický uhlík v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
     - 1.5.7 Emisné limity pre ostatné znečisťujúce látky uvedené v prílohe č. 1
 
@@ -160,99 +154,113 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 1.6 Emisné limity pre spaľovanie kvapalných palív
 
-    - 1.6.1 Podmienky stanovenia emisných limitov
+    - 1.6.1 Podmienky platnosti emisných limitov
 
     - Všetky emisné limity uvedené v bode 1.6 platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,325 kPa a 0 <sup>o</sup>C a pre obsah kyslíka v spalinách vo výške 3 % obj.
 
     - 1.6.2 Emisný limit pre tuhé znečisťujúce látky
 
-      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom 50 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
+      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom 50 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 50 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 50 MW nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
-      - c) V prípade, že emisné limity pre tuhé znečisťujúce látky uvedené v písmenách a) a b) sa dosahujú bez odlučovania, všeobecne platné emisné limity pre druhú skupinu znečisťujúcich látok (príloha č. 3 časť II bod 2) sa neuplatňujú.
+      - c) Ak sa emisné limity pre tuhé znečisťujúce látky uvedené v písmenách a) a b) dosahujú bez odlučovania, všeobecne platné emisné limity pre druhú skupinu znečisťujúcich látok (príloha č. 3 časť II. bod 2) sa neuplatňujú.
 
     - 1.6.3 Emisný limit pre oxidy síry
 
     - 1.6.3.1 Emisný limit pre nové zdroje znečisťovania
 
-      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom 435 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, nesmie byť emisný stupeň oxidov síry vyšší ako 10 %.
+      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom 500 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu, nesmie byť emisný stupeň oxidov síry vyšší ako 10 %.
 
-      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom 260 MW a vyšším až do 435 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu vypočítanú podľa vzťahu
+      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom 300 MW a vyšším až do 500 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu vypočítanú podľa vzťahu
 
-        - EL = 3 630 - 7,425 x MTV,
+        - EL = 3 650 - 6,5 x MTP,
 
         - kde EL je emisný limit [mg.m<sup>-3</sup>],
 
-        - MTV je menovitý tepelný výkon [MW<sub>t</sub>].
+        - MTP je menovitý tepelný príkon [MW].
 
         - Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 10 %.
 
-      - c) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom vyšším ako 5 MW až do 260 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>.
+      - c) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom vyšším ako 7 MW až do 300 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>.
 
-    - 1.6.3.2 Emisný limit pre jestvujúce zdroje znečisťovania s platnosťou do 31. 12. 2009
+    - 1.6.3.2 Emisný limit pre jestvujúce zdroje znečisťovania platný do 31. decembra 2009
 
-      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom vyšším ako 300 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v odpadových plynoch prekročiť hodnotu 500 mg.m<sup>-3</sup>. Ak nemožno túto hodnotu dosiahnuť bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 15 %.
+      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom vyšším ako 350 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v odpadových plynoch prekročiť hodnotu 500 mg.m<sup>-3</sup>. Ak nemožno túto hodnotu dosiahnuť bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 15 %.
 
-      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom vyšším ako 5 MW až do 300 MW vrátane nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom vyšším ako 7 MW až do 350 MW vrátane nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>.
 
-    - 1.6.3.3 Emisný limit pre jestvujúce zdroje znečisťovania s platnosťou od 1. 1. 2010
+    - 1.6.3.3 Podmienky dodržania emisného limitu
 
-      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom 435 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 400 mg.m<sup>-3</sup>. Ak pre vysoký obsah síry v domácom palive nemožno dosiahnuť túto hodnotu bez odsírenia, nesmie byť emisný stupeň oxidov síry vyšší ako 10 %.
+    - Spaľovacie zariadenie možno prevádzkovať aj pri výpadku zariadenia na obmedzovanie emisií oxidu siričitého, ak doba výpadku neprekročí 96 hodín nasledujúcich po sebe a počas kalendárneho roka spolu 360 hodín.
 
-      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom vyšším ako 5 MW až do 435 MW nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť hodnotu 1 700 mg.m<sup>-3</sup>.
+    - 1.6.3.4 Všeobecné podmienky prevádzkovania - obmedzenie obsahu síry v palive
 
-    - 1.6.3.4 Podmienky dodržania emisného limitu
-
-    - Spaľovacie zariadenie možno prevádzkovať aj pri výpadku zariadenia na obmedzovanie emisií oxidu siričitého, ak doba výpadku neprekročí 96 po sebe nasledujúcich hodín a počas kalendárneho roka spolu 360 hodín.
-
-    - 1.6.3.5 Všeobecné podmienky prevádzkovania – obmedzenie obsahu síry v palive
-
-    - V zariadeniach na spaľovanie kvapalných palív s tepelným výkonom 0,2 MW a vyšším až do 5 MW vrátane sa nesmie spaľovať palivo s obsahom síry vyšším ako 1 % hmot. Toto obmedzenie neplatí pri spaľovaní vlastných technologických olejov, pritom však koncentrácia oxidov síry v spalinách nesmie prekročiť hodnotu 1 700 mg.m<sup>-3</sup>.
+    - V zariadeniach na spaľovanie kvapalných palív s tepelným príkonom 0,3 MW a vyšším až do 7 MW vrátane sa nesmie spaľovať palivo s obsahom síry vyšším ako 1 % hmot. Toto obmedzenie neplatí pri spaľovaní vlastných technologických olejov, pritom však koncentrácia oxidov síry v spalinách nesmie prekročiť hodnotu 1 700 mg.m<sup>-3</sup>.
 
     - 1.6.4 Emisný limit pre oxidy dusíka
 
-      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom vyšším ako 5 MW nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 450 mg.m<sup>-3</sup>.
+      - a) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom vyšším ako 7 MW nesmie koncentrácia oxidu dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 450 mg.m<sup>-3</sup>.
 
-      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom 0,2 MW a vyšším až do 5 MW vrátane nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 500 mg.m<sup>-3</sup>.
+      - b) Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom 0,3 MW a vyšším až do 7 MW vrátane nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 500 mg.m<sup>-3</sup>.
 
     - 1.6.5 Emisný limit pre oxid uhoľnatý
 
-    - Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným výkonom 0,2 MW a vyšším nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 175 mg.m<sup>-3</sup>.
+    - Pri zariadeniach na spaľovanie kvapalných palív s menovitým tepelným príkonom 0,3 MW a vyšším nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 175 mg.m<sup>-3</sup>.
 
-    - 1.6.6 Emisné limity pri spaľovaní opotrebovaných olejov
+    - 1.6.6 Emisné limity pri spaľovaní odpadových olejov
 
-    - Pri spaľovaní opotrebovaných olejov podľa bodu 1.4 platia emisné limity pre základné znečisťujúce látky podľa bodov 1.6.1 až 1.6.5 okrem bodu 1.6.2 písm. c), ktorý sa pri spaľovaní opotrebovaných olejov neuplatňuje. Ďalšie podmienky spaľovania opotrebovaných olejov určí orgán ochrany ovzdušia.
+    - 1.6.6.1 Emisné limity pre zariadenia, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby alebo jej zmeny, zmeny technologických zariadení alebo zmeny ich využívania po 31. decembri 2001
+
+    - Pri spaľovaní odpadových olejov platia emisné limity a všeobecné podmienky prevádzkovania ako pre spoluspaľovanie odpadov podľa V. časti.
+
+    - 1.6.6.2 Emisné limity pre ostatné zariadenia ako v bode 1.6.6.1 s platnosťou do 31. decembra 2006
+
+    - Pri spaľovaní odpadových olejov platia emisné limity pre základné znečisťujúce látky podľa bodov 1.6.1 až 1.6.5 okrem bodu 1.6.2 písmena c), ktorý sa pri spaľovaní odpadových olejov neuplatňuje. Ďalšie podmienky spaľovania odpadových olejov určí orgán ochrany ovzdušia.
+
+    - Od 1. januára 2007 platia emisné limity podľa bodu 1.6.6.1.
 
     - 1.7 Emisné limity pre spaľovanie plynných palív
 
-    - 1.7.1 Podmienky stanovenia emisných limitov
+    - 1.7.1 Podmienky platnosti emisných limitov
 
-    - Všetky emisné limity v bode 1.7 platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101, 325 kPa a 0 <sup>o</sup>C a pre obsah kyslíka v spalinách vo výške 3 % obj.
+    - Všetky emisné limity v bode 1.7 platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,325 kPa a 0 <sup>o</sup>C a pre obsah kyslíka v spalinách vo výške 3 % obj.
 
     - 1.7.2 Emisný limit pre tuhé znečisťujúce látky
 
-      - a) Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným výkonom 0,2 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 10 mg.m<sup>-3</sup>.
+    - 1.7.2.1 Emisný limit pre tuhé znečisťujúce látky platný do 31. decembra 2004
 
-      - b) Odchylne od ustanovení v písmene a) pri spaľovaní priemyselných plynov z výroby ocele nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
+    - Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným príkonom 0,3 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 10 mg.m<sup>-3</sup>.
+
+    - 1.7.2.2 Emisný limit pre nové zdroje znečisťovania, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby po 31. decembri 2001
+
+    - Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným príkonom 0,3 MW a vyšším nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 5 mg.m<sup>-3</sup>. Tento emisný limit platí od 1. januára 2005 pre všetky zariadenia uvedené v bode 1.7.2.1.
+
+    - 1.7.2.3 Emisný limit pre spaľovanie plynov z výroby ocele
+
+    - Odchylne od ustanovení 1.7.2.1 a 1.7.2.2 pri spaľovaní plynov z výroby ocele nesmie koncentrácia tuhých znečisťujúcich látok v spalinách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
     - 1.7.3 Emisný limit pre oxidy síry
 
-    - Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným výkonom 0,2 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť
+    - Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným príkonom 0,3 MW a vyšším nesmie koncentrácia oxidov síry vyjadrená ako oxid siričitý v spalinách prekročiť
 
       - a) pri spaľovaní priemyselných plynov z rafinérií hodnotu 100 mg.m<sup>-3</sup>,
 
       - b) pri spaľovaní nízkovýhrevných priemyselných plynov (napr. vysokopecný plyn, koksárenský plyn, kalový plyn) a ich zmesí hodnotu 800 mg.m<sup>-3</sup>,
 
-      - c) pri spaľovaní ostatných plynov hodnotu 35 mg.m<sup>-3</sup>.
+      - c) pri spaľovaní skvapalneného plynu hodnotu 5 mg.m<sup>-3</sup>,
+
+      - d) pri spaľovaní ostatných plynov hodnotu 35 mg.m<sup>-3</sup>.
 
     - 1.7.4 Emisný limit pre oxidy dusíka
 
-    - Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným výkonom 0,2 MW a vyšším nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 200 mg.m<sup>-3</sup>.
+      - a) Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným príkonom 0,3 MW a vyšším nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 200 mg.m<sup>-3</sup>.
+
+      - b) Odchylne od ustanovenia v písmene a) pri spaľovaní skvapalnených uhľovodíkových plynov nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý v spalinách prekročiť hodnotu 300 mg.m<sup>-3</sup>.
 
     - 1.7.5 Emisný limit pre oxid uhoľnatý
 
-    - Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným výkonom 0,2 MW a vyšším nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+    - Pri zariadeniach na spaľovanie plynných palív s menovitým tepelným príkonom 0,3 MW a vyšším nesmie koncentrácia oxidu uhoľnatého v spalinách prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
     - 1.8 Spaľovanie viacerých druhov palív
 
@@ -260,55 +268,55 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Pri spaľovaní viacerých druhov palív v jednom spaľovacom zariadení tak, že je spaľovaný vždy len jeden druh paliva, platí emisný limit pre spaľovaný druh paliva.
 
-    - 1.8.2. Spaľovanie viacerých druhov palív súčasne v jednom zariadení
+    - 1.8.2 Spaľovanie viacerých druhov palív súčasne v jednom zariadení
 
-    - 1.8.2.1 Pre nové zdroje znečisťovania
+    - 1.8.2.1 Emisný limit pre nové zdroje znečisťovania
 
       - a) Pri spaľovaní viacerých druhov palív súčasne v jednom spaľovacom zariadení sa emisný limit určí ako modifikovaný vážený priemer emisných limitov používaných palív podľa vzťahu
 
-        - ![Vzorec 01](../assets/d9f6b000c17ae9ca64aa049164b36c480df0699d908fe868f9e5a6f540517b71.png)
+        - EL<sub>mix,</sub>O<sub>ref</sub>=(20,95-O<sub>ref</sub>)/Q<sub>celk</sub>.[Q<sub>i</sub>.EL<sub>i</sub>/(20,95<sub>-</sub>O<sub>r,i</sub>) +...+Q<sub>n</sub>.EL<sub>n</sub>/(20,95-O<sub>r,n</sub>)],
 
         - kde
 
-        - Q<sub>i</sub>je tepelný príkon v i-tom palive,
+        - Q<sub>i</sub> je tepelný príkon v i-tom palive,
 
-        - Q<sub>celk</sub>je celkový tepelný príkon,
+        - Q<sub>celk</sub> je celkový tepelný príkon,
 
         - EL<sub>i</sub> je emisný limit pre dané palivo a ref. kyslík,
 
-        - EL <sub>mix</sub>, o<sub>ref</sub> je celkový emisný limit,
+        - EL<sub>mix</sub>,O<sub>ref</sub> je celkový emisný limit,
 
         - O<sub>ref</sub> je referenčný kyslík pre prevládajúce palivo podľa príkonu v obj. %,
 
-        - O<sub>r,i</sub> je referenčný kyslík pre i-te palivo v obj. %,
+        - O<sub>r,i</sub>je referenčný kyslík pre i-te palivo v obj. %,
 
-      - b) v prípade, že podiel tepelného príkonu jedného paliva je 70 % a viac, platí emisný limit podľa tohto paliva.
+      - b) ak podiel tepelného príkonu jedného paliva je 70 % a viac, platí emisný limit podľa tohto paliva.
 
-    - 1.8.2.2 Pre jestvujúce zdroje znečisťovania s platnosťou do 31. 12. 2009
+    - 1.8.2.2 Emisný limit pre jestvujúce zdroje znečisťovania platný do 31. decembra 2009
 
     - Pri spaľovaní viacerých druhov palív súčasne v jednom zariadení je emisný limit určený tým druhom paliva, ktorého podiel na tepelnom príkone je najväčší; za zariadenie sa v tomto prípade považuje každý jednotlivý kotol.
 
     - 1.8.3 Súčasné spaľovanie viacerých druhov palív v rôznych typoch stacionárnych zariadení na spaľovanie palív
 
-    - Ak sú v rámci jedného zdroja spaliny z viacerých zariadení alebo skupín zariadení odvádzané spoločným komínom a pre jednotlivé zariadenia alebo skupiny sú týmto nariadením určené rôzne emisné limity, môže sa na účely preukázania podmienok dodržania emisných limitov (§ 9) použiť vzťah uvedený v bode 1.8.2.1 písm. a).
+    - Ak sú v rámci jedného zdroja znečisťovania spaliny z viacerých zariadení alebo skupín zariadení odvádzané spoločným odvodom spalín a pre jednotlivé zariadenia alebo skupiny sú týmto nariadením určené rôzne emisné limity, môže sa na účely preukázania podmienok dodržania emisných limitov (§ 9) použiť vzťah uvedený v bode 1.8.2.1 písm. a).
 
     - 2. PLYNOVÉ TURBÍNY
 
-    - 2.1 Podmienky stanovenia emisného limitu
+    - 2.1 Podmienky určenia emisného limitu
 
-    - Emisné limity uvedené v bode 2 platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka 15 %.
+    - Emisné limity uvedené v bodoch 2.3 až 2.6 platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka 15 %.
 
     - 2.2 Emisný limit pre tuhé znečisťujúce látky
 
     - Prevádzka plynovej turbíny sa musí viesť tak, aby tvorba tuhých znečisťujúcich látok (sadzí) nebola
 
-      - a) pri objeme spalín 60 000 m<sup>3</sup>.h<sup>-1</sup> a väčšom pri nábehu vyššia ako tretí stupeň Bacharachovej stupnice a pri trvalej prevádzke vyššia ako druhý stupeň Bacharachovej stupnice,
+      - a) pri objeme spalín 60 000 m<sup>3</sup>.h<sup>-1</sup> a väčšom (menovitý tepelný príkon 20 MW a vyšší) pri nábehu vyššia ako tretí stupeň podľa Bacharachovej stupnice a pri trvalej prevádzke vyššia ako druhý stupeň podľa Bacharachovej stupnice,
 
-      - b) pri objeme spalín do 60 000 m<sup>3</sup>.h<sup>-3</sup> pri všetkých stavoch prevádzky vyššia ako štvrtý stupeň podľa Bacharachovej stupnice.
+      - b) pri objeme spalín do 60 000 m<sup>3</sup>.h<sup>-1</sup> (menovitý tepelný príkon do 20 MW) pri všetkých stavoch prevádzky vyššia ako štvrtý stupeň podľa Bacharachovej stupnice.
 
     - 2.3 Emisný limit pre oxid siričitý
 
-    - 2.3.1 Emisný limit pre nové zdroje znečisťovania
+    - Emisný limit pre nové zdroje znečisťovania
 
     - Pri použití kvapalného paliva s obsahom síry koncentrácia oxidu siričitého v spalinách nesmie prekročiť hodnotu 600 mg.m<sup>-3</sup>.
 
@@ -320,25 +328,39 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Koncentrácia oxidov dusíka v spalinách vyjadrená ako oxid dusičitý nesmie prekročiť hodnotu
 
-      - a) pri objeme spalín 60 000 m<sup>3</sup>.h<sup>-1</sup> a väčšom 300 mg.m<sup>-3</sup>,
+      - a) pri objeme spalín 60 000 m<sup>3</sup>.h<sup>-1</sup> a väčšom (menovitý tepelný príkon 20 MW a vyšší) 300 mg.m<sup>-3</sup>,
 
-      - b) pri objeme spalín do 60 000 m<sup>3</sup>.h<sup>-1</sup> 350 mg.mÄ3.
+      - b) pri objeme spalín do 60 000 m<sup>3</sup>.h<sup>-1</sup> (menovitý tepelný príkon do 20 MW) 350 mg.m<sup>-3</sup>,
+
+      - c) emisné limity podľa písmen a) a b) platia pre jednotlivé plynové turbíny s mechanickou účinnosťou do 30 % vrátane. Pre plynové turbíny s účinnosťou viac ako 30 % sa emisný limit koriguje vynásobením hodnotou podielu ŋ/30, kde ŋ je skutočná účinnosť v %.
 
     - 2.5 Emisný limit pre oxid uhoľnatý
 
     - Koncentrácia oxidu uhoľnatého v spalinách pri trvalej prevádzke nesmie prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
-    - 2.6 Integrácia kotla s plynovou turbínou – nové zdroje
+    - 2.6 Integrácia kotla s plynovou turbínou
 
-    - V prípade zaradenia spalinového kotla za plynovou turbínou platia emisné limity a podmienky ich stanovenia ako pre plynové turbíny. V prípade prikurovania spalinového kotla s príkonom väčším ako 30 % príkonu plynovej turbíny sa počíta emisný limit ako vážený priemer emisného limitu pre plynovú turbínu a spalinový kotol podľa vzťahu uvedeného v bode 1.8.2.1 písm. a).
+    - 2.6.1 Emisné limity pre nové zdroje znečisťovania
 
-    - 3. VŠEOBECNÉ PODMIENKY PREVÁDZKOVANIA PRE ZARIADENIA NA SUŠENIE ALEBO NA INÉ TEPELNÉ ÚPRAVY, PRI KTORÝCH DOCHÁDZA K PRIAMEMU STYKU SPALÍN ALEBO PLAMEŇA S OHRIEVANÝM MÉDIOM – OBMEDZENIE DRUHU PALIVA PRE NOVÉ ZDROJE
+    - V prípade zaradenia spalinového kotla za plynovú turbínu platia emisné limity a podmienky ich platnosti ako pre plynové turbíny. V prípade prikurovania spalinového kotla s príkonom väčším ako 30 % príkonu plynovej turbíny sa počíta emisný limit ako vážený priemer emisného limitu pre plynovú turbínu a spalinový kotol podľa vzťahu uvedeného v bode 1.8.2.1 písm. a).
 
-    - V zariadeniach na sušenie alebo na iné tepelné úpravy je možné spaľovať len plynné palivá, kvapalné palivá s obsahom síry najviac 1 % hm alebo pevné palivá s mernou sírnatosťou najviac 0,5 g.MJ<sup>-1</sup>.
+    - 2.6.2. Emisné limity pre jestvujúce zdroje znečisťovania
 
-    - 4. STACIONÁRNE PIESTOVÉ SPAĽOVACIE MOTORY – NOVÉ ZDROJE
+    - V prípade zaradenia spalinového kotla za plynovú turbínu platia emisné limity a podmienky ich platnosti ako pre plynové turbíny.
 
-    - 4.1 Podmienky stanovenia emisného limitu
+    - 3. ZARIADENIA NA SUŠENIE ALEBO NA INÉ TEPELNÉ ÚPRAVY, PRI KTORÝCH DOCHÁDZA K PRIAMEMU STYKU SPALÍN ALEBO PLAMEŇA S OHRIEVANÝM MÉDIOM
+
+    - 3.1. Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+
+    - V zariadeniach na sušenie alebo na iné tepelné úpravy možno spaľovať len plynné palivá, skvapalnené uhľovodíkové plyny, kvapalné palivá s obsahom síry najviac 0,2 % hmot. alebo pevné palivá s mernou sírnatosťou najviac 0,5 g.MJ<sup>-1</sup>.
+
+    - 3.2 Emisné limity
+
+    - V zariadeniach na sušenie alebo na iné tepelné úpravy platia také emisné limity pre znečisťujúce látky, ktorých emisia závisí len od paliva a spôsobu spaľovania, aké platia pre ostatné zariadenia na spaľovanie palív podľa druhu spaľovaného paliva pri referenčnom obsahu kyslíka 17 %.
+
+    - 4. STACIONÁRNE PIESTOVÉ SPAĽOVACIE MOTORY – NOVÉ ZDROJE ZNEČISŤOVANIA
+
+    - 4.1 Podmienky určenia emisného limitu
 
     - Emisné limity platia pri štandardných podmienkach 101,32 kPa, teplote 0 <sup>o</sup>C a pri obsahu kyslíka 5 % obj. Emisné limity neplatia pre agregáty používané výlučne na núdzovú prevádzku.
 
@@ -350,9 +372,9 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý nesmie prekročiť hodnotu
 
-      - a) pri vznetových motoroch s výkonom
+      - a) pri vznetových motoroch s menovitým tepelným príkonom
 
-      - 0,2 MW a vyšším do 3 MW 4 000 mg.m<sup>-3</sup>,
+      - 0,3 MW a vyšším do 3 MW 4 000 mg.m<sup>-3</sup>,
 
       - 3 MW a vyšším 2 000 mg.m<sup>-3</sup>,
 
@@ -368,101 +390,95 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 4.5 Všeobecné podmienky prevádzkovania – obmedzenie obsahu síry v palive
 
-    - V stacionárnych spaľovacích motoroch je možné spaľovať len plynné palivá a kvapalné palivá s obsahom síry najviac 1 % hm.
+    - V stacionárnych spaľovacích motoroch možno spaľovať len plynné palivá a kvapalné palivá s obsahom síry najviac 0,2 % hm.
 
-    - 5. LIMIT PRE STUPEŇ ZNEČISŤOVANIA OVZDUŠIA (TMAVOSŤ DYMU) PRE ZDROJE S MENOVITÝM TEPELNÝM VÝKONOM NIŽŠÍM AKO 0,2 MW – NOVÉ ZDROJE
+    - 5. VÝROBA KOKSU
 
-      - a) Pri spaľovaní tuhých palív v zariadeniach s tepelným výkonom nižším ako 0,2 MW (malé zdroje) nesmie byť vypúšťaný dym tmavší ako druhý stupeň Ringelmannovej stupnice alebo hodnota opacity pri meraní optickým prístrojom nesmie byť väčšia ako 40 %. Výnimočne môže byť dym tmavší ako uvedené hodnoty počas rozkurovania zo studeného stavu alebo pri odstavovaní zariadenia po dobu, ktorú stanoví výrobca spaľovacieho zariadenia, najviac však 3 hodiny pri nábehu a 30 minút pri odstavovaní zariadenia. Ani vtedy však nesmie byť dym tmavší ako tretí stupeň Ringelmannovej stupnice alebo hodnota opacity väčšia ako 60 %.
+    - 5.1 Vykurovanie koksárenských batérií
 
-      - b) Pri spaľovaní kvapalných palív v zariadeniach s tepelným výkonom nižším ako 0,2 MW (malé zdroje) okrem podmienok podľa predchádzajúceho odseku nesmie byť tvorba sadzí vyššia ako štvrtý stupeň podľa Bacharachovej stupnice pri žiadnom z troch po sebe idúcich testoch, pričom aspoň dva z troch po sebe idúcich testov nesmú mať hodnotu vyššiu ako tretí stupeň podľa Bacharacha. Pri rozkurovaní sa Bacharachov test nerobí.
-
-    - 6. VÝROBA KOKSU
-
-    - 6.1 Vykurovanie koksárenských batérií
-
-    - 6.1.1 Emisný limit pre tuhé znečisťujúce látky
+    - 5.1.1 Emisný limit pre tuhé znečisťujúce látky
 
     - Dym vypúšťaný z komína koksárenskej batérie nesmie byť tmavší ako druhý stupeň Ringelmannovej stupnice.
 
-    - 6.1.2 Emisný limit pre oxidy dusíka
+    - 5.1.2 Emisný limit pre oxidy dusíka
 
     - Koncentrácia oxidov dusíka v spalinách vykurovacieho plynu vyjadrená ako oxid dusičitý nesmie prekročiť hodnotu 500 mg.m<sup>-3</sup>. Uvedený emisný limit platí pre obsah kyslíka v spalinách vo výške 5 %.
 
-    - 6.1.3 Obmedzenie obsahu sulfánu (sírovodíka) vo vykurovacom plyne
+    - 5.1.3 Obmedzenie obsahu sulfánu (sírovodíka) vo vykurovacom plyne
 
     - Koncentrácia sulfánu vo vykurovacom plyne nesmie prekročiť hodnotu 500 mg.m<sup>-3</sup>.
 
-    - 6.2 Príprava koksárenskej vsádzky
+    - 5.2 Príprava koksárenskej vsádzky
 
-    - 6.2.1 Všeobecné podmienky prevádzkovania pre nové zdroje
+    - 5.2.1 Všeobecné podmienky prevádzkovania pre nové zdroje
 
     - Emisie tuhých znečisťujúcich látok zo všetkých zariadení a miest vzniku sa musia podľa technických možností s prihliadnutím na primeranosť výdavkov obmedziť (napr. odsávaním, odprašovaním, hermetizáciou).
 
-    - 6.2.2 Emisný limit pre tuhé znečisťujúce látky
+    - 5.2.2 Emisný limit pre tuhé znečisťujúce látky
 
-    - 6.2.2.1 Emisný limit pre nové zdroje znečisťovania
+    - 5.2.2.1 Emisný limit pre nové zdroje znečisťovania
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadovom plyne nesmie prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-    - 6.2.2.2 Emisný limit pre jestvujúce zdroje znečisťovania
+    - 5.2.2.2 Emisný limit pre jestvujúce zdroje znečisťovania
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadovom plyne nesmie prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
-    - 6.3 Plnenie koksovacích komôr
+    - 5.3 Plnenie koksovacích komôr
 
-    - 6.3.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+    - 5.3.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
 
     - Plniace plyny je potrebné zaviesť do technologického plynu alebo do inej koksovacej komory, ak je takýto odvod s ohľadom na ďalšie spracovanie surového dechtu možný. V opačnom prípade sa musia spaľovať.
 
     - Všetky otvory koksárenských batérií musia byť utesnené tak, aby v uzavretom stave pri vizuálnej kontrole podiel dymiacich otvorov oproti celkovému počtu otvorov na koksovacej batérii nebol vyšší ako 10 %.
 
-    - 6.3.2 Emisný limit pre tuhé znečisťujúce látky
+    - 5.3.2 Emisný limit pre tuhé znečisťujúce látky
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadových plynoch zo spaľovania plniacich plynov nesmie prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-    - 6.4 Vytlačovanie koksu
+    - 5.4 Vytlačovanie koksu
 
-    - 6.4.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+    - 5.4.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
 
     - Vytlačovaná môže byť len úplne skoksovaná vsádzka. Pri vytlačovaní koksu sa musia odpadové plyny odviesť do odprašovacieho zariadenia.
 
-    - 6.4.2 Emisný limit pre tuhé znečisťujúce látky
+    - 5.4.2 Emisný limit pre tuhé znečisťujúce látky
 
     - Celkové emisie tuhých znečisťujúcich látok nesmú byť väčšie ako 0,035 kg na tonu koksu v mesačnom priemere.
 
-    - 6.5 Chladenie koksu
+    - 5.5 Chladenie koksu
 
-    - 6.5.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+    - 5.5.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
 
     - Pri chladení koksu je potrebné zaviesť procesy s nízkymi emisiami tuhých znečisťujúcich látok, ako napr. suché chladenie koksu.
 
-    - 6.5.2 Emisný limit pre tuhé znečisťujúce látky pre nové zdroje znečisťovania
+    - 5.5.2 Emisný limit pre tuhé znečisťujúce látky pre nové zdroje znečisťovania
 
     - Pri suchom chladení koksu nesmú celkové emisie tuhých znečisťujúcich látok prekročiť hodnotu 0,02 kg na tonu koksu v mesačnom priemere.
 
-    - 6.5.3 Všeobecné podmienky prevádzkovania a emisný limit pre tuhé znečisťujúce látky pre jestvujúce zdroje znečisťovania
+    - 5.5.3 Všeobecné podmienky prevádzkovania a emisný limit pre tuhé znečisťujúce látky pre jestvujúce zdroje znečisťovania
 
-    - Všeobecné podmienky prevádzkovania a emisný limit pre tuhé znečisťujúce látky podľa bodov 6.5.1 a 6.5.2 sa vzťahujú na jestvujúce zdroje s účinnosťou od 1. 1. 2015.
+    - Všeobecné podmienky prevádzkovania a emisný limit pre tuhé znečisťujúce látky podľa bodov 5.5.1 a 5.5.2 sa vzťahujú na jestvujúce zdroje s účinnosťou od 1. 1. 2015.
 
-    - 6.6 Triediarne koksu
+    - 5.6 Triediarne koksu
 
-    - 6.6.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+    - 5.6.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
 
     - Zariadenia na drvenie a triedenie koksu sa musia odsávať a odprašovať.
 
-    - 6.6.2 Emisný limit pre tuhé znečisťujúce látky
+    - 5.6.2 Emisný limit pre tuhé znečisťujúce látky
 
-    - 6.6.2.1 Emisný limit pre nové zdroje znečisťovania
+    - 5.6.2.1 Emisný limit pre nové zdroje znečisťovania
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadovom plyne nesmie prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-    - 6.6.2.2 Emisný limit pre jestvujúce zdroje znečisťovania
+    - 5.6.2.2 Emisný limit pre jestvujúce zdroje znečisťovania
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadovom plyne nesmie prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
-    - 6.7 Chemické prevádzky koksární
+    - 5.7 Chemické prevádzky koksární
 
-    - 6.7.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+    - 5.7.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
 
       - a) Zariadenia chemických prevádzok musia byť zabezpečené proti únikom prchavých látok do ovzdušia.
 
@@ -570,6 +586,22 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadovom plyne nesmie prekročiť hodnotu 100 mg.m<sup>-3</sup>.
 
+    - 2.3 Ohrievače vetra
+
+    - 2.3.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+
+    - Emisie tuhých znečisťujúcich látok zo všetkých zariadení a miest vzniku sa musia podľa technických možností s prihliadnutím na primeranosť výdavkov obmedziť (napr. odsávaním, odprašovaním, hermetizáciou zariadenia).
+
+    - 2.3.2 Emisný limit pre jednotlivé znečisťujúce látky
+
+      - a) Koncentrácia tuhých znečisťujúcich látok v odpadovom plyne nesmie prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+
+      - b) Koncentrácia oxidu uhoľnatého v odpadovom plyne nesmie prekročiť hodnotu 6 000 mg.m<sup>-3</sup>.
+
+    - 2.3.3 Podmienky platnosti emisného limitu
+
+    - Emisné limity platia pre obsah kyslíka v odpadových plynoch 7 % obj.
+
     - 3. VÝROBA OCELE
 
     - 3.1 Kyslíkové konvertory
@@ -595,6 +627,10 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
       - a) v odpadových plynoch z konvertora 50 mg.m<sup>-3</sup>,
 
       - b) v odpadových plynoch z odsávania z dopravy a manipulácie so vsádzkou 100 mg.m<sup>-3</sup>.
+
+    - 3.1.2.3 Podmienka platnosti emisných limitov pre nové zdroje znečisťovania
+
+    - Ak sa odvádzajú vyčistené odpadové plyny na koncové spaľovanie, platia emisné limity pre tuhé znečisťujúce látky pred spaľovaním.
 
     - 3.2 Elektrické oblúkové pece, indukčné pece a vákuovacie zariadenia
 
@@ -631,6 +667,10 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
     - 3.2.3.2 Emisný limit pre jestvujúce zdroje znečisťovania
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadových plynoch z odsávania z dopravy a manipulácie so vsádzkou a z delenia ťažkého kovového odpadu rezaním kyslíkom nesmie prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+
+    - 3.2.3.3 Podmienka platnosti emisných limitov pre nové zdroje znečisťovania
+
+    - Ak sa odvádzajú vyčistené odpadové plyny na koncové spaľovanie, platia emisné limity pre tuhé znečisťujúce látky pred spaľovaním.
 
     - 4. ZLIEVÁRENSKÉ TECHNOLÓGIE
 
@@ -669,6 +709,10 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
     - 5.3.2. Emisný limit pre jestvujúce zdroje znečisťovania
 
     - Koncentrácia tuhých znečisťujúcich látok v odpadových plynoch z odsávania z dopravy, manipulácie so vsádzkou a z ostatných zariadení nesmie prekročiť hodnotu 100 mg.m<sup>-3</sup>.
+
+    - 5.3.3 Podmienka platnosti emisných limitov pre nové zdroje znečisťovania
+
+    - Ak sa odvádzajú vyčistené odpadové plyny na koncové spaľovanie, platia emisné limity pre tuhé znečisťujúce látky pred spaľovaním.
 
     - 6. HUTNÍCKA DRUHOVÝROBA (napr. valcovne, drôtovne, kováčovne a iná tepelná úprava)
 
@@ -864,11 +908,7 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Koncentrácia emisií tuhých znečisťujúcich látok nesmie pri všetkých operáciách prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
-    - 3.3 Tmavosť dymu
-
-    - Dym odchádzajúci z obaľovne nesmie byť tmavší ako prvý stupeň Ringelmannovej stupnice alebo hodnota opacity väčšia ako 20 % s výnimkou prvých 10 minút pri nabiehaní spaľovacieho procesu. Počas týchto 10 minút dym nesmie byť tmavší ako tretí stupeň Ringelmannovej stupnice alebo hodnota opacity väčšia ako 60 %.
-
-    - 3.4 Všeobecné podmienky prevádzkovania – obmedzenie obsahu síry v palive pre nové zdroje znečisťovania
+    - 3.3 Všeobecné podmienky prevádzkovania – obmedzenie obsahu síry v palive pre nové zdroje znečisťovania
 
     - Pri výrobe bitúmenových zmesí sa nesmie používať kvapalné palivo s obsahom síry vyšším ako 1 % alebo pevné palivo s merným obsahom síry vyšším ako 0,5 g.MJ<sup>-1</sup>.
 
@@ -904,9 +944,9 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý nesmie prekročiť hodnotu
 
-      - a) pri šachtových peciach 1 500 mg.m<sup>-3</sup>,
+      - a) pri rotačných peciach 1 800 mg.m<sup>-3</sup>,
 
-      - b) pri rotačných peciach 1 800 mg.m<sup>-3</sup>.
+      - b) pri ostatných peciach 1 500 mg.m<sup>-3</sup>.
 
     - 5. VÝROBA SKLA A SKLÁRSKYCH VÝROBKOV A SKLENENÝCH VLÁKEN
 
@@ -1012,7 +1052,7 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
       - Ak je z dôvodu kvality výrobku nutné nitrátové čerenie, nesmie koncentrácia oxidov dusíka vyjadrená ako oxid dusičitý prekročiť dvojnásobok hodnôt uvedených v písmenách a), b) a c).
 
-    - 5.5 Emisný limit pre zlúčeniny fluóru
+    - 5.5 Emisný limit pre plynné zlúčeniny fluóru
 
     - 5.5.1 Emisný limit pre nové zdroje znečisťovania
 
@@ -1022,7 +1062,7 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Koncentrácia zlúčenín fluóru vyjadrená ako fluorovodík nesmie prekročiť pri hmotnostnom toku 0,1 kg.h<sup>-1</sup> a vyššom hodnotu 10 mg.m<sup>-3</sup>.
 
-    - 5.6 Emisný limit pre zlúčeniny chlóru
+    - 5.6 Emisný limit pre plynné zlúčeniny chlóru
 
     - 5.6.1 Emisný limit pre nové zdroje znečisťovania
 
@@ -1062,7 +1102,7 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 7.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
 
-    - Emisie tuhých znečisťujúcich látok zo všetkých zariadení a miest vzniku sa musia podľa technických možností s prihliadnutím na primeranosť výdavkov obmedziť (napr. odsávaním, odprašovaním, hermetizáciou).
+    - Odpadové plyny z výroby a spracovania viskózy je potrebné podľa technických možností a primeranosti nákladov odvádzať na zneškodňovanie alebo regeneráciu.
 
     - 7.2 Emisný limit pre tuhé znečisťujúce látky
 
@@ -1258,7 +1298,7 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 9.1.4 Spustenie a odstavenie výroby
 
-    - Plyny, ktoré odchádzajú pri spustení a odstavení výroby, je potrebné zaviesť do zberného systému plynov. Ak to nie je možné, je potrebné ich odviesť na poľný horák.
+    - Plyny, ktoré odchádzajú pri spustení a odstavení výroby, je potrebné zaviesť do zberného systému plynov. Ak to nie je možné, je potrebné ich odviesť na poľný horák. Poľný horák musí byť skonštruovaný a nastavený tak, aby bolo zabezpečené bezdymové spaľovanie.
 
     - 9.1.5 Sulfán (sírovodík)
 
@@ -1286,15 +1326,11 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 9.3 Emisný limit pre jednotlivé znečisťujúce látky a technologické procesy
 
-    - 9.3.1 Emisný limit pre organické zlúčeniny
-
-    - Pri spaľovaní plynov na poľnom horáku pri nabiehaní a odstavovaní výroby emisný stupeň organických zlúčenín vyjadrený ako celkový organický uhlík nesmie prekročiť 1 %.
-
-    - 9.3.2 Emisný limit pre sulfán (sírovodík)
+    - 9.3.1 Emisný limit pre sulfán (sírovodík)
 
     - Koncentrácia sulfánu v odpadových plynoch zo spaľovania plynov s obsahom sulfánu nesmie prekročiť hodnotu 10 mg.m<sup>-3</sup>.
 
-    - 9.3.3 Emisný limit pre katalytické štiepenie – pre nové zdroje znečisťovania
+    - 9.3.2 Emisný limit pre katalytické štiepenie – pre nové zdroje znečisťovania
 
     - Emisie jednotlivých znečisťujúcich látok v odpadových plynoch zo zariadenia na regeneráciu katalyzátora z katalytického štiepenia procesom fluidného lôžka nesmú prekročiť hodnotu
 
@@ -1310,7 +1346,7 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 10.1.1 Vymedzenie platnosti podmienok prevádzkovania
 
-    - Uvedené všeobecné podmienky prevádzkovania platia pre zriadenia a prevádzku čerpacích staníc a ich zariadení s kapacitou 1 000 m<sup>3</sup> a väčšou benzínu za rok.
+    - Všeobecné podmienky prevádzkovania uvedené v bode 10.1.3 platia pre čerpacie stanice s projektovaným ročným obratom čerpania benzínu 1 000 m<sup>3</sup> a viac.
 
     - 10.1.2 Plnenie skladových nádrží motorovými benzínmi
 
@@ -1420,177 +1456,661 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - Platí všeobecne platný emisný limit pre jestvujúce zdroje.
 
-      - V. SPRACOVANIE A ZNEŠKODŇOVANIE ODPADU
+      - V. SPAĽOVANIE A SPOLUSPAĽOVANIE ODPADOV
 
-    - 1. SPAĽOVANE KOMUNÁLNEHO ODPADU
+    - 1. ROZSAH PLATNOSTI
 
-    - 1.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+    - 1.1 Ustanovenia V. časti tejto prílohy platia pre spaľovne odpadov a zariadenia na spoluspaľovanie odpadov.<sup>5a</sup>)
 
-      - a) Pri všetkých zariadeniach na spaľovanie komunálneho odpadu musí byť zásobník odpadov vyhotovený tak, aby v ňom bolo možné trvalo udržiavať podtlak a odsávaný vzduch bol privádzaný do ohniska. Ak je spaľovacie zariadenie mimo prevádzky, musí sa vzduch zo zásobníka odpadov odvádzať do výduchu určeného orgánom ochrany ovzdušia.
+    - 1.2 Ustanovenia V. časti tejto prílohy neplatia pre
 
-      - b) Všetky zariadenia na spaľovanie komunálneho odpadu musia v spaľovacom priestore za posledným prívodom vzduchu zabezpečiť dodržanie teploty najmenej 850 oC po dobu najmenej 2 sekúnd, a to pri obsahu kyslíka v spalinách najmenej 6 % obj. V prípade špeciálnych spaľovacích zariadení, napr. typu pyrolýznych pecí alebo iných, určia podmienky spaľovania individuálne orgány ochrany ovzdušia.
+      - a) experimentálne zariadenia používané na výskum, vývoj a testovanie spaľovacích procesov, ak nespaľujú viac ako 50 t/r odpadu,
 
-      - c) Zariadenie musí byť vyhotovené tak, aby sa zabezpečilo dostatočné zdržanie spaľovaného odpadu v spaľovacom priestore na dokonalé vyhorenie.
+      - b) spaľovacie zariadenia, v ktorých sa nakladá len s týmito odpadmi:
 
-      - d) Odpad možno pridávať do ohniska postupne vtedy a v takom množstve, aby sa vždy dodržali podmienky podľa písmena b).
+    - 1. rastlinný odpad z poľnohospodárstva a lesného hospodárstva,
 
-    - 1.2 Emisné limity pre spaľovanie komunálneho odpadu
+    - 2. rastlinný odpad z potravinárskeho priemyslu, ak sa teplo zo spaľovania využíva na výrobu energie,
 
-    - 1.2.1 Podmienky stanovenia emisných limitov
+    - 3. vláknitý drevný odpad z prvotnej výroby celulózy a výroby papiera z celulózy, ak je spoluspaľovaný v mieste vzniku a teplo zo spaľovania sa využíva na výrobu energie,
 
-    - Emisné limity pre zariadenia na spaľovanie komunálneho odpadu platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka v spalinách pri zariadeniach s kapacitou 1 tony a menšou za hodinu 17 % obj. a pri zariadeniach s kapacitou vyššou ako 1 tona za hodinu 11 % obj.
+    - 4. drevný odpad s výnimkou takých odpadov, ktoré obsahujú halogénované organické látky a ťažké kovy a upravený drevný odpad zo stavieb a demolácií,
 
-    - 1.2.2 Emisné limity pre zariadenia na spaľovanie komunálneho odpadu s kapacitou 1 tona a menšou spaľovaného odpadu za hodinu
+    - 5. korkový odpad,
 
-    - Pri zariadeniach na spaľovanie odpadov s kapacitou 1 tona za hodinu a menšou nesmie koncentrácia jednotlivých znečisťujúcich látok v spalinách prekročiť hodnotu
+    - 6. plynné odpady vypúšťané do ovzdušia,
 
-      - a) pre tuhé znečisťujúce látky 50 mg.m<sup>-3</sup>,
+    - 7. rádioaktívny odpad,
 
-      - b) pre oxid uhoľnatý 100 mg.m<sup>-3</sup>,
+    - 8. odpad vznikajúci pri prieskume, ťažbe, úprave a skladovaní nerastných surovín a pri ťažbe a spracovaní kameňa,
 
-      - c) pre organické zlúčeniny vyjadrené ako celkový organický uhlík 20 mg.m<sup>-3</sup>,
+    - 9. mŕtve telá zvierat a ďalší poľnohospodársky odpad, ako fekálie a iné prírodné látky používané v poľnohospodárstve, ktoré nie sú nebezpečné,
 
-      - d) pre chlorovodík 30 mg.m<sup>-3</sup>.
+    - 10. odpadové vody okrem kvapalných odpadov,
 
-    - 1.2.3 Emisné limity pre zariadenia na spaľovanie komunálneho odpadu s kapacitou vyššou ako 1 tona za hodinu
+    - 11. výbušniny vyradené z dozoru (evidencie),
 
-    - Pri zariadeniach na spaľovanie komunálneho odpadu s kapacitou vyššou ako 1 tona nesmie koncentrácia jednotlivých znečisťujúcich látok v spalinách prekročiť hodnotu
+    - 12. odpad, ktorý pochádza z prieskumu nálezísk ropy a plynu a ich ťažby, ak sa ťažba zabezpečuje z ťažobných ostrovov, kde sa odpad aj spaľuje.
 
-      - a) pre tuhé znečisťujúce látky 30 mg.m<sup>-3</sup>,
+    - 1.3 Ustanovenia V. časti bodov 2.2.3 a 3.3 písm. e) tejto prílohy určené pre nebezpečné odpady neplatia pre tieto nebezpečné odpady:
 
-      - b) pre oxid uhoľnatý 100 mg.m<sup>-3</sup>,
+      - a) horľavé kvapalné odpady vrátane odpadových olejov definovaných v osobitnom predpise,<sup>1</sup>) ak spĺňajú tieto kritériá:
 
-      - c) pre organické zlúčeniny vyjadrené ako celkový organický uhlík 20 mg.m<sup>-3</sup>,
+      - aa) celkový obsah polychlórovaných aromatických uhľovodíkov, napríklad polychlórovaných bifenylov (PCB) alebo pentachlórfenol (PCP) nie sú vyššie ako 50 ppm,
 
-      - d) pre oxidy síry vyjadrené ako SO<sub>2</sub> 300 mg.m<sup>-3</sup>,
+      - ab) nie sú nebezpečné, pretože neobsahujú ďalšie zložky uvedené v bode 10 v takom množstve alebo v takej koncentrácii, ktoré by spôsobili pri ich spaľovaní
 
-      - ak nemožno túto hodnotu dosiahnuť bez odsírenia, nesmie emisný stupeň oxidov síry prekročiť hodnotu 30 %,
+      - - ohrozenie kvality vody, ovzdušia a pôdy, rastlín a živočíchov,
 
-      - e) pre oxidy dusíka vyjadrené ako NO<sub>2</sub> 350 mg.m<sup>-3</sup>,
+      - - ohrozenie životného prostredia, napríklad hlukom alebo zápachom,
 
-      - f) pre plynné zlúčeniny chlóru vyjadrené ako chlorovodík 30 mg.m<sup>-3</sup>,
+      - - nepriaznivé ovplyvňovanie krajiny alebo miest zvláštneho záujmu,<sup>2</sup>)
 
-      - g) pre plynné zlúčeniny fluóru vyjadrené ako fluorovodík 2 mg.m<sup>-3</sup>,
+      - ac) ich výhrevnosť je minimálne 30 MJ/kg,
 
-      - h) pre kovy vyskytujúce sa v spalinách v plynnej, kvapalnej a pevnej fáze
+      - b) akékoľvek kvapalné odpady, pri ktorých spaľovaní nevznikajú vyššie emisie ako pri spaľovaní plynového oleja podľa osobitného predpisu.<sup>3</sup>)
 
-      - ha) pre nové zdroje znečisťovania
+    - 2. VŠEOBECNÉ PODMIENKY PREVÁDZKOVANIA
 
-      - – ortuť, tálium, kadmium spolu 0,2 mg.m<sup>-3</sup>,
+    - 2.1 Všeobecné podmienky prevádzkovania pre spaľovne komunálnych odpadov – nové zdroje povolené do 31. decembra 2001 platné do 31. decembra 2006
 
-      - – arzén, nikel, chróm, kobalt spolu 1,0 mg.m<sup>-3</sup>,
+    - 2.1.1 Pri všetkých zariadeniach na spaľovanie komunálnych odpadov musí byť zásobník odpadov vyhotovený tak, aby v ňom bolo možné trvalo udržiavať podtlak a aby bol odsávaný vzduch privádzaný do ohniska. Ak je spaľovacie zariadenie mimo prevádzky, musí sa vzduch zo zásobníka odpadov odvádzať do výduchu určeného orgánom ochrany ovzdušia.
 
-      - – olovo, meď, mangán spolu 5,0 mg.m<sup>-3</sup>,
+    - 2.1.2 Všetky zariadenia na spaľovanie komunálnych odpadov musia v spaľovacom priestore za posledným prívodom vzduchu zabezpečiť dodržanie teploty najmenej 850 <sup>o</sup>C po dobu najmenej dvoch sekúnd, a to pri obsahu kyslíka v spalinách najmenej 6 % obj. Pre špeciálne spaľovacie zariadenia, napríklad typu pyrolýznych pecí alebo iných, individuálne určia podmienky spaľovania príslušné orgány ochrany ovzdušia.
 
-      - hb) pre jestvujúce zdroje znečisťovania
+    - 2.1.3 Zariadenie na spaľovanie komunálnych odpadov musí byť vyhotovené tak, aby sa zabezpečilo dostatočné zdržanie spaľovaného odpadu v spaľovacom priestore na dokonalé vyhorenie.
 
-      - – ortuť, tálium, kadmium spolu 0,2 mg.m<sup>-3</sup>,
+    - 2.1.4 Odpad možno pridávať do ohniska postupne vtedy a v takom množstve, aby sa vždy dodržali podmienky podľa bodu 2.1.2.
 
-      - – arzén, nikel, chróm, kobalt spolu 2,0 mg.m<sup>-3</sup>,
+    - 2.1.5 Od 1. januára 2007 platia všeobecné podmienky prevádzkovania pre nové a jestvujúce zdroje – spaľovne komunálnych odpadov podľa bodu 2.3.
 
-      - – olovo, meď, mangán spolu 5,0 mg.m<sup>-3</sup>.
+    - 2.2 Všeobecné podmienky prevádzkovania pre spaľovne zvláštnych a nebezpečných odpadov – nové zdroje povolené do 31. decembra 2001 platné do 31. decembra 2006
 
-    - 1.2.4 Emisné limity pre zariadenie na spaľovanie komunálneho odpadu s kapacitou vyššou ako 3 tony odpadu za hodinu
+    - 2.2.1 Pri všetkých zariadeniach na spaľovanie zvláštnych a nebezpečných odpadov musí byť zásobník tuhého odpadu vyhotovený tak, aby sa v ňom mohol trvale udržiavať podtlak a aby sa odsávaný vzduch privádzal do ohniska. Pri kvapalných odpadoch vzdušnina odsávaná z miesta odčerpávania a odvzdušnenia nádrží musí byť zavedená do spaľovacieho priestoru. Ak je spaľovacie zariadenie mimo prevádzky, musí sa odsávaný vzduch rozptyľovať vo výške určenej orgánom ochrany ovzdušia.
 
-    - Odchylne od ustanovení uvedených v bode 1.2.3 písm. a), d), f) a g) pri zariadeniach na spaľovanie komunálneho odpadu s kapacitou vyššou ako 3 tony odpadu za hodinu nesmie koncentrácia znečisťujúcich látok v spalinách prekročiť hodnotu
+    - 2.2.2 Všetky zariadenia na spaľovanie zvláštnych a nebezpečných odpadov musia byť vybavené dodatočným spaľovaním. V spaľovacom priestore sa za posledným prívodom vzduchu musí udržiavať taká teplota, ktorá zabezpečuje termickú a oxidačnú deštrukciu všetkých odchádzajúcich nebezpečných látok a ktorá bude najmenej 900 <sup>o</sup>C po dobu najmenej dvoch sekúnd a pri obsahu kyslíka najmenej 6 % obj., pri spaľovaní kvapalných odpadov najmenej 3 % obj. Pre špeciálne spaľovacie zariadenia, napríklad typu pyrolýznych pecí alebo iných, osobitné podmienky spaľovania určia orgány ochrany ovzdušia.
 
-      - a) pre tuhé znečisťujúce látky 20 mg.m<sup>-3</sup>,
+    - 2.2.3 Ak sa spaľuje zvláštny a nebezpečný odpad obsahujúci vysokostabilné organické látky, napríklad typu polychlórovaných bifenylov (PCB), musí sa v spaľovacom priestore za posledným prívodom vzduchu udržiavať teplota najmenej 1100 <sup>o</sup>C počas zotrvania spalín v tomto priestore najmenej dve sekundy a pri obsahu kyslíka najmenej 6 % obj., pri spaľovaní kvapalných odpadov 3 % obj.
 
-      - b) pre oxidy síry vyjadrené ako SO<sub>2</sub> 100 mg.m<sup>-3</sup>,
+    - 2.2.4 Od 1. januára 2007 platia všeobecné podmienky prevádzkovania pre nové a jestvujúce zdroje – spaľovne zvláštnych a nebezpečných odpadov podľa bodu 2.3.
 
-      - ak nemožno túto hodnotu dosiahnuť bez odsírenia, nesmie emisný stupeň oxidu siričitého prekročiť hodnotu 10 %,
+    - 2.3 Všeobecné podmienky prevádzkovania pre spaľovne odpadov a zariadenia na spoluspaľovanie odpadov, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby, zmeny technologických zariadení alebo zmeny ich využívania po 31. decembri 2001
 
-      - c) pre plynné zlúčeniny chlóru vyjadrené ako chlorovodík 15 mg.m<sup>-3</sup>,
+    - 2.3.1 Pri prevádzkovaní spaľovní odpadov a zariadení na spoluspaľovanie odpadov sa musia vykonať všetky preventívne opatrenia, aby sa pri dodávke a príjme a medziskladovaní odpadov zabránilo zaťaženiu životného prostredia, a ak to nie je možné, v maximálnej miere obmedzilo najmä znečistenie ovzdušia, obťažovanie zápachom, ako aj priame ohrozenie zdravia ľudí.
 
-      - d) pre plynné zlúčeniny fluóru vyjadrené ako fluorovodík 1 mg.m<sup>-3</sup>.
+    - 2.3.2 Spaľovne odpadov musia byť prevádzkované s takou účinnosťou spaľovania, aby obsah celkového organicky viazaného uhlíka (TOC) vo zvyškovej škváre a popolčeku bol nižší ako 3 %, alebo spaľovacie straty boli nižšie ako 5 % suchej váhy spaľovaných odpadov. Ak sa táto hodnota nezabezpečí, musí sa odpad pred spálením vhodne upraviť.
 
-    - 2. SPAĽOVNE ZVLÁŠTNEHO A NEBEZPEČNÉHO ODPADU
+    - 2.3.3 Všetky spaľovne odpadov musia byť navrhnuté, vybavené, vybudované a prevádzkované tak, aby teplota spalín za posledným prívodom spaľovacieho vzduchu riadeným a rovnomerným spôsobom aj pri najnepriaznivejších podmienkach dosahovala hodnotu 850 <sup>o</sup>C počas min. dvoch sekúnd pri obsahu kyslíka najmenej 6 %; teplota sa musí merať v blízkosti vnútornej steny spaľovacej komory alebo na inom reprezentatívnom mieste v súlade s povolením orgánu ochrany ovzdušia. Ak sa spaľujú nebezpečné odpady s obsahom organických zlúčenín chlóru viac ako 1 % vyjadrené ako chlór, musí sa teplota zvýšiť na 1100 <sup>o</sup>C.
 
-    - 2.1 Všeobecné podmienky prevádzkovania pre nové zdroje znečisťovania
+    - 2.3.4 Každá spaľovacia linka spaľovne odpadov musí byť vybavená najmenej jedným prídavným horákom. Tieto horáky musia byť automaticky uvedené do prevádzky, ak teplota spalín po poslednom prívode spaľovacieho vzduchu klesne pod 850 <sup>o</sup>C, resp. 1 100 <sup>o</sup>C. Prídavné horáky musia byť v prevádzke aj počas nábehu a odstavovania, aby teplota v žiadnom intervale spaľovania neklesla pod 850 <sup>o</sup>C, resp. 1 100 <sup>o</sup>C po celý čas, kým sa v spaľovacom priestore nachádza ešte nespálený odpad.
 
-      - a) Pri všetkých zariadeniach na spaľovanie zvláštneho a nebezpečného odpadu musí byť zásobník tuhého odpadu vyhotovený tak, aby sa v ňom mohol trvale udržiavať podtlak a odsávaný vzduch sa privádzal do ohniska. V prípade kvapalných odpadov vzdušnina odsávaná z miesta odčerpávania a odvzdušnenia nádrží musí byť zavedená do spaľovacieho priestoru. Ak je spaľovacie zariadenie mimo prevádzky, musí sa odsávaný vzduch rozptyľovať vo výške určenej orgánom ochrany ovzdušia.
+    - Počas nábehu a odstavovania, keď teplota spalín nedosahuje 850 <sup>o</sup>C, resp. 1 100 <sup>o</sup>C, môžu sa prídavné horáky prevádzkovať len s kvapalnými palivami, pri ktorých nebudú vyššie emisie ako pri spaľovaní plynového oleja<sup>3</sup>) s obsahom síry max. 0,2 % objemu, skvapalnenými plynmi alebo zemným plynom.
 
-      - b) Všetky zariadenia na spaľovanie zvláštneho a nebezpečného odpadu musia byť vybavené dodatočným spaľovaním. V spaľovacom priestore sa za posledným prívodom vzduchu musí udržiavať taká teplota, ktorá zabezpečuje termickú a oxidačnú deštrukciu všetkých odchádzajúcich nebezpečných látok a ktorá bude najmenej 900 <sup>o</sup>C po dobu najmenej 2 sekúnd a pri obsahu kyslíka najmenej 6 % obj., pri spaľovaní kvapalných odpadov najmenej 3 % obj. V prípade špeciálnych spaľovacích zariadení, napr. typu pyrolýznych pecí alebo iných, podmienky spaľovania určia osobitne orgány ochrany ovzdušia.
+    - 2.3.5 Zariadenia na spoluspaľovanie odpadov musia byť navrhnuté, vybavené, vybudované a prevádzkované tak, aby teplota spalín pri spaľovaní odpadov po poslednom prívode spaľovacieho vzduchu riadeným a rovnomerným spôsobom aj pri najnepriaznivejších podmienkach dosahovala hodnotu 850 <sup>o</sup>C počas najmenej dvoch sekúnd. Ak sa spoluspaľuje nebezpečný odpad s obsahom organických zlúčenín chlóru viac ako 1 % vyjadrených ako chlór, musí sa teplota zvýšiť na 1 100 <sup>o</sup>C.
 
-      - c) V prípade spaľovania zvláštneho a nebezpečného odpadu obsahujúceho vysokostabilné organické látky, napr. typu polychlórovaných bifenylov (PCB), musí sa v spaľovacom priestore za posledným prívodom vzduchu udržiavať teplota najmenej 1 200 <sup>o</sup>C pri dobe zotrvania spalín v tomto priestore najmenej 2 sekundy a pri obsahu kyslíka najmenej 6 % obj., pri spaľovaní kvapalných odpadov 3 % obj.
+    - 2.3.6 Spaľovne odpadov a zariadenia na spoluspaľovanie odpadov musia byť vybavené automatickým systémom, ktorý zabezpečí odstavenie prísunu odpadu
 
-    - 2.2 Emisné limity pre spaľovanie zvláštnych a nebezpečných odpadov
+      - a) pri nábehu, keď sa ešte nedosiahla teplota 850 <sup>o</sup>C, resp. 1 100 <sup>o</sup>C alebo teplota určená orgánom ochrany ovzdušia v zmysle bodov 2.3.7 a 2.3.8,
 
-    - 2.2.1 Podmienky stanovenia emisných limitov
+      - b) pri každom poklese teploty pod 850 <sup>o</sup>C, resp. 1 100 <sup>o</sup>C alebo pod teplotu určenú orgánom ochrany ovzdušia v zmysle bodov 2.3.7 a 2.3.8,
 
-    - Emisné limity pre zariadenia na spaľovanie zvláštneho a nebezpečného odpadu platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka v spalinách 11 % obj.
+      - c) v každom prípade, keď kontinuálne meranie zabudované podľa podmienok osobitného predpisu<sup>4</sup>) ukáže, že v dôsledku poruchy zariadení na čistenie odpadových plynov boli prekročené emisné limity.
 
-    - 2.2.2 Emisné limity pre jednotlivé znečisťujúce látky
+    - 2.3.7 Orgán ochrany ovzdušia môže pre určité kategórie odpadov alebo určité tepelné procesy, ktoré musia byť vyšpecifikované v povolení, povoliť aj iné prevádzkové podmienky, ako sú uvedené v bode 2.3.3. Odlišné prevádzkové podmienky však nesmú spôsobiť vyššiu tvorbu zvyškov zo spaľovania alebo vyšší obsah organického uhlíka vo zvyškoch, ako je uvedené v bode 2.3.2.
 
-    - Pri zariadeniach na spaľovanie zvláštneho a nebezpečného odpadu nesmie koncentrácia znečisťujúcich látok v spalinách prekročiť hodnotu
+    - 2.3.8 Orgán ochrany ovzdušia môže pre určité kategórie odpadov alebo určité tepelné procesy, ktoré musia byť vyšpecifikované v povolení, povoliť aj iné prevádzkové podmienky, ako sú uvedené v bode 2.3.5, za podmienok, že emisné limity pre organický uhlík a CO v odpadových plynoch nebudú prekročené.
 
-      - a) pre tuhé znečisťujúce látky 30 mg.m<sup>-3</sup>,
+    - V priemysle výroby celulózy a papiera je podmienkou udelenia takého povolenia, že pri spaľovaní vlastných odpadov v kotle na drevnú kôru v mieste vzniku odpadu nebude prekročený emisný limit pre plynné organické látky vyjadrené ako celkový organický uhlík podľa bodu 4.2.
 
-      - b) pre oxid uhoľnatý 100 mg.m<sup>-3</sup>,
+    - 2.3.9 Spaľovne odpadov a zariadenia na spoluspaľovanie odpadov musia byť navrhnuté, vybavené, vybudované a prevádzkované tak, aby emisie vypúšťané do ovzdušia nespôsobili významné znečistenie prízemného ovzdušia; osobitne je potrebné odpadové plyny kontrolovane (riadene) vypúšťať cez komín za podmienok dodržania kvality ovzdušia podľa prílohy č. 6. Výška komína sa musí voliť tak, aby sa zaručila ochrana zdravia ľudí a životného prostredia v súlade s prílohou č. 7.
 
-      - c) pre organické znečisťujúce látky vyjadrené ako celkový organický uhlík 20 mg.m<sup>-3</sup>,
+    - 2.3.10 Teplo vznikajúce pri spaľovaní alebo spoluspaľovaní odpadov musí byť podľa možnosti využité.
 
-      - d) pre oxid siričitý 300 mg.m<sup>-3</sup>,
+    - 2.3.11 Infekčný nemocničný odpad sa podáva do spaľovacieho zariadenia bez predbežného zmiešania s inými druhmi odpadov a bez priameho kontaktu obsluhy.
 
-      - ak nemožno túto hodnotu dosiahnuť bez odsírenia (napr. pri spaľovaní zvláštnych odpadov s vysokým obsahom síry), emisný stupeň oxidov síry nesmie prekročiť hodnotu 10 %,
+    - 3. PODMIENKY PLATNOSTI EMISNÝCH LIMITOV
 
-      - e) pre oxidy dusíka vyjadrené ako oxid dusičitý 500 mg.m<sup>-3</sup>,
+    - 3.1 Podmienky platnosti emisných limitov pre spaľovne komunálnych odpadov povolené do 31. decembra 2001 platné do 31. decembra 2006
 
-      - f) pre plynné zlúčeniny chlóru vyjadrené ako chlorovodík 30 mg.m<sup>-3</sup>,
+    - 3.1.1 Emisné limity pre zariadenia na spaľovanie komunálnych odpadov platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka v spalinách pre zariadenia s kapacitou 1 tony a menšou za hodinu 17 % obj. a pre zariadenia s kapacitou vyššou ako 1 tona za hodinu 11 % obj.
 
-      - g) pre plynné zlúčeniny fluóru vyjadrené ako fluorovodík 2 mg.m<sup>-3</sup>,
+    - 3.1.2 Od 1. januára 2007 podmienky platnosti emisných limitov pre spaľovne komunálnych odpadov platia podľa bodu 3.3.
 
-      - h) pre kovy vyskytujúce sa v spalinách v plynnej, kvapalnej a pevnej fáze
+    - 3.2 Podmienky platnosti emisných limitov pre spaľovne zvláštnych a nebezpečných odpadov povolené do 31. decembra 2001 platné do 31. decembra 2006
 
-      - ha) pre nové zdroje
+    - 3.2.1 Emisné limity pre zariadenia na spaľovanie zvláštnych a nebezpečných odpadov platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach 101,32 kPa a 0 <sup>o</sup>C a pri obsahu kyslíka v spalinách 11 % obj.
 
-      - – ortuť, tálium, kadmium spolu 0,2 mg.m<sup>-3</sup>,
+    - 3.2.2 Od 1. januára 2007 podmienky platnosti emisných limitov pre spaľovne zvláštnych a nebezpečných odpadov platia podľa bodu 3.3.
 
-      - – arzén, nikel, chróm, kobalt spolu 1,0 mg.m<sup>-3</sup>,
+    - 3.3 Podmienky platnosti emisných limitov pre spaľovne odpadov a zariadenia na spoluspaľovanie odpadov, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby alebo jej zmeny, zmeny technologických zariadení alebo zmeny ich využívania po 31. decembri 2001
 
-      - – olovo, meď, mangán spolu 5,0 mg.m<sup>-3</sup>,
+    - Podmienky platnosti emisných limitov sú:
 
-      - hb) pre jestvujúce zdroje
+      - a) teplota 273 K, tlak 101,3 kPa, obsah kyslíka 11 %, suchý plyn,
 
-      - – ortuť, tálium, kadmium spolu 0,2 mg.m<sup>-3</sup>,
+      - b) teplota 273 K, tlak 101,3 kPa, obsah kyslíka 3 %, suchý plyn, ak sa spaľujú výlučne odpadové oleje podľa osobitného predpisu,<sup>1</sup>)
 
-      - – arzén, nikel, chróm, kobalt spolu 2,0 mg.m<sup>-3</sup>,
+      - c) ak sa odpad spaľuje alebo spoluspaľuje v atmosfére obohatenej kyslíkom, môže orgán ochrany ovzdušia určiť iný obsah referenčného kyslíka, ktorý zodpovedá týmto podmienkam,
 
-      - – olovo, meď, mangán spolu 5,0 mg.m<sup>-3</sup>.
+      - d) pri spoluspaľovaní odpadov sa emisné limity vzťahujú na celkový obsah kyslíka určeného podľa bodu 5.3.1,
 
-    - 2.2.3 Emisné limity zariadenia na spaľovanie zvláštnych a nebezpečných odpadov s kapacitou vyššou ako 3 tony spaľovaného odpadu za hodinu
+      - e) ak sa v spaľovni odpadov alebo v zariadení na spoluspaľovanie odpadov spaľujú nebezpečné odpady a na týchto zariadeniach je zabudované a prevádzkované zariadenie na čistenie spalín, výsledky merania emisných hodnôt sa prepočítajú na referenčný kyslík len v tom prípade, ak je skutočná koncentrácia kyslíka meraná v rovnakom intervale (perióde), ako je príslušná znečisťujúca látka spaľovaná, vyššia ako hodnota určeného referenčného kyslíka.
 
-    - Odchylne od ustanovení uvedených v bode 2.2.2 písm. a), d), f) a g) pri zariadeniach na spaľovanie zvláštneho a nebezpečného odpadu s kapacitou vyššou ako 3 tony odpadu za hodinu nesmie koncentrácia znečisťujúcich látok v spalinách prekročiť hodnotu
+    - 4. EMISNÉ LIMITY PRE SPAĽOVNE ODPADOV
 
-      - a) pre tuhé znečisťujúce látky 20 mg.m<sup>-3</sup>,
+    - 4.1 Emisné limity pre spaľovne odpadov povolené do 31. decembra 2001 platné do 31. decembra 2006
 
-      - b) pre oxidy síry vyjadrené ako SO<sub>2</sub>100 mg.m<sup>-3</sup>,
+    - 4.1.1 Emisné limity pre spaľovne komunálnych odpadov
 
-      - ak nemožno túto hodnotu dosiahnuť bez odsírenia (napr. pri spaľovaní zvláštnych odpadov s vysokým obsahom síry), emisný stupeň oxidov síry nesmie prekročiť hodnotu 10 %
+    - Znečisťujúca látka - kapacita | 1 t.h<sup>-1</sup> a menej | 1 až 3 t.h<sup>-1</sup> vrátane | Viac ako 3 t.h<sup>-1</sup>
 
-      - c) pre plynné zlúčeniny chlóru vyjadrené ako chlorovodík 15 mg.m<sup>-3</sup>,
+    - Emisný limit [mg.m<sup>-3</sup>] | | |
 
-      - d) pre plynné zlúčeniny fluóru vyjadrené ako fluorovodík 1 mg.m<sup>-3</sup>.
+    - Tuhé znečisťujúce látky spolu | 50 | 30 | 20
 
-    - 3. SPAĽOVANIE ODPADOV V INÝCH ZARIADENIACH, AKO SÚ SPAĽOVNE ODPADOV
+    - Organické znečisťujúce látky vo forme plynov a pár vyjadrené ako celkový organický uhlík | 20 | 20 | 20
 
-      - Pri spaľovaní odpadov v iných zariadeniach, ako sú spaľovne odpadov, platia pre vybrané znečisťujúce látky emisné limity pre danú technológiu alebo zariadenie, ktoré sú určené v prílohe č. 4.
+    - Ťažké kovy | * | |
 
-      - Pre znečisťujúce látky, ktoré sa v spalinách vyskytujú len v dôsledku spaľovania odpadov, platia emisné limity pre spaľovne odpadov podľa druhu a množstva odpadov (vrátane referenčného kyslíka).
+    - Pb, Cu, Mn | | spolu 5 | spolu 5
 
-      - Pre znečisťujúce látky, ktoré sú vnášané súčasne palivom alebo surovinou a spaľovaným odpadom alebo vznikajú pri danom technologickom procese aj bez spaľovania odpadu, platia emisné limity pre spaľovne odpadov (vrátane referenčného kyslíka), ak podiel odpadom vnášanej alebo pri spaľovaní odpadu vznikajúcej znečisťujúcej látky z celkového hmotnostného toku danej znečisťujúcej látky odvádzanej spalinami je vyšší ako 30 % . Hmotnostný tok danej znečisťujúcej látky odvádzanej spalinami sa zistí ako rozdiel hmotnostného toku pri spaľovaní odpadu a bez spaľovania odpadu. Ak je hmotnostný podiel 30 % a menší, platia všeobecne platné emisné limity (bez prepočtu na referenčný kyslík), ak v prílohe č. 4 nie je pre danú technológiu a znečisťujúcu látku určené inak.
+    - As, Ni, Cr, Co | | spolu 1 | spolu 1
 
-      - Pre ostatné znečisťujúce látky platia všeobecne platné emisné limity. Emisné limity platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach. Emisné limity pre vybrané znečisťujúce látky pri vybraných technológiách alebo zariadeniach platia pre referenčný obsah kyslíka, ktorý je určený v prílohe č. 4. Prírastok hmotnostného toku jednotlivých znečisťujúcich látok odvádzaných spalinami (okrem tuhých znečisťujúcich látok, NOx, SO<sub>2</sub>a CO) zistený ako rozdiel hmotnostných tokov pri spaľovaní a bez spaľovania odpadov nesmie byť vyšší ako 1,2-násobok hmotnostného toku znečisťujúcich látok odvádzaných spalinami z technologicky a výkonovo zodpovedajúcej spaľovne odpadov (hmotnostné toky zodpovedajúce príslušným koncentračným limitom pre spaľovne).
+    - Hg, Tl, Cd | | spolu 0,2 | spolu 0,2
 
-      - Pre rotačné cementárske pece je možné považovať za palivo aj opotrebované ropné oleje, ak neobsahujú chlór vo väčšom množstve ako 0,5 % a PCB a PCT vo väčšom množstve ako 50 mg.kg<sup>-1</sup>.
+    - Plynné zlúčeniny chlóru vyjadrené ako HCl | 30 | 30 | 15
 
-      - Podmienky spaľovania odpadov z hľadiska ochrany ovzdušia v iných zariadeniach, ako sú spaľovne, určí orgán ochrany ovzdušia. Všeobecné podmienky prevádzkovania (body 1.1 a 2.1) sa uplatňujú primerane v závislosti od charakteru, množstva a doby spaľovania.
+    - Plynné zlúčeniny fluóru vyjadrené ako HF | * | 2 | 1
+
+    - Oxid uhoľnatý (CO) | 100 | 100 | 100
+
+    - Oxidy síry (SO<sub>2</sub>) | * | 300 | 100
+
+    - Oxidy dusíka ako NO<sub>2</sub> | * | 400 | 400
+
+    - * Platia všeobecne platné emisné limity podľa prílohy č. 3.Poznámky:1. Do 31. decembra 2004 platí emisný limit pre jestvujúce zdroje pre As, Ni, Cr a Co 2 mg.m<sup>-1</sup>.2. Referenčný kyslík pre zariadenia s kapacitou 1 t.h<sup>-1</sup> a menej je 17 %.3. Pre spaľovne odpadov s kapacitou menej ako 6 t.h<sup>-1</sup> platí emisný limit pre oxidy dusíka aj po 31. decembri 2006.
+
+    - 4.1.2 Emisné limity pre spaľovne zvláštnych a nebezpečných odpadov
+
+    - Znečisťujúca látka - kapacita | 3 t.h<sup>-1</sup> a menej | viac ako 3 t.h<sup>-1</sup>
+
+    - Emisný limit [mg.m<sup>-3</sup>] | |
+
+    - Tuhé znečisťujúce látky spolu | 30 | 20
+
+    - Organické znečisťujúce látky vo forme plynov a pár vyjadrené ako celkový organický uhlík | 20 | 20
+
+    - Ťažké kovy | |
+
+    - Pb, Cu, Mn | spolu 5 | spolu 5
+
+    - As, Ni, Cr, Co | spolu 1 | spolu 1
+
+    - Cd, Hg, Tl | spolu 0,2 | spolu 0,2
+
+    - Plynné zlúčeniny chlóru vyjadrené ako HCl | 30 | 15
+
+    - Plynné zlúčeniny fluóru vyjadrené ako HF | 2 | 1
+
+    - Oxid uhoľnatý (CO) | 100 | 100
+
+    - Oxidy síry (SO<sub>2</sub>) | 300 | 100
+
+    - Oxidy dusíka ako NO<sub>2</sub> | 500 | 500
+
+    - Poznámky:1. Do 31. decembra 2004 platí emisný limit pre jestvujúce zdroje pre As, Ni, Cr a Co 2 mg.m<sup>-1</sup>.2. Ak nemožno dosiahnuť uvedený emisný limit pre SO<sub>2</sub> bez odsírenia (napr. pri spaľovaní zvláštnych odpadov s vysokým obsahom síry), emisný stupeň oxidov síry nesmie prekročiť hodnotu 10 %.3. Pre spaľovne odpadov s kapacitou menej ako 6 t.h<sup>-1</sup> platí po 31. decembri 2006 emisný limit pre oxidy dusíka 400 mg.m<sup>-3</sup>.
+
+    - 4.1.3 Platnosť emisných limitov od 1. januára 2007
+
+    - Od 1. januára 2007 platia emisné limity podľa bodu 4.2 okrem emisných limitov pre oxidy dusíka pre spaľovne odpadov s menovitou kapacitou menej ako 6 t.h<sup>-1</sup>.
+
+    - 4.2 Emisné limity pre spaľovne odpadov, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby alebo jej zmeny, zmeny technologických zariadení alebo zmeny ich využívania po 31. decembri 2001
+
+    - 4.2.1 Emisné limity určené ako denné priemery
+
+    - Znečisťujúca látka | Emisný limit [mg.m<sup>-3</sup>]
+
+    - Celkové tuhé znečisťujúce látky | 10
+
+    - Organické znečisťujúce látky vo forme plynov a pár vyjadrené ako celkový organický uhlík | 10
+
+    - Plynné zlúčeniny chlóru vyjadrené ako HCl | 10
+
+    - Plynné zlúčeniny fluóru vyjadrené ako HF | 1
+
+    - Oxid siričitý (SO<sub>2</sub>) | 50
+
+    - Oxid dusnatý (NO) a oxid dusičitý (NO<sub>2</sub>) vyjadrené ako oxid dusičitý | 200*
+
+    - * Pre spaľovne odpadov s kapacitou do 6 t.h<sup>-1</sup> vrátane, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby alebo jej zmeny pred 31. decembrom 2001, platia emisné limity aj po 1. januári 2007 podľa bodov 4.1.1 a 4.1.2.
+
+    - 4.2.2 Emisné limity určené ako polhodinové priemery
+
+    - Znečisťujúca látka | (100 %) A | (97 %) B
+
+    - Emisný limit [mg.m<sup>-3</sup>] | |
+
+    - Celkové tuhé znečisťujúce látky | 30 | 10
+
+    - Organické znečisťujúce látky vo forme plynov a pár vyjadrené ako celkový organický uhlík | 20 | 10
+
+    - Plynné zlúčeniny chlóru vyjadrené ako HCl | 60 | 10
+
+    - Plynné zlúčeniny fluóru vyjadrené ako HF | 4 | 2
+
+    - Oxid siričitý (SO<sub>2</sub>) | 200 | 50
+
+    - Oxid dusnatý (NO) a oxid dusičitý (NO<sub>2</sub>) vyjadrené ako oxid dusičitý | 400* | 200*
+
+  - * Pre spaľovne odpadov s kapacitou do 6 t.h<sup>-1</sup> vrátane, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby alebo jej zmeny pred 31. decembrom 2001, platia emisné limity aj po 1. januári 2007 podľa bodov 4.1.1 a 4.1.2 a § 9.
+
+  - Podmienky dodržania emisného limitu:
+
+  - A - žiadna hodnota polhodinového priemeru v roku nesmie prekročiť uvedené hodnoty.
+
+  - B - 97 % polhodinových priemerov v roku nesmie prekročiť uvedené hodnoty.
+
+    - 4.2.3 Emisné limity pre ťažké kovy
+
+    - Znečisťujúce látky | Emisný limit [mg.m<sup>-3</sup>]
+
+    - Tálium a jeho zlúčeniny vyjadrené ako tálium (Tl) | Spolu 0,05
+
+    - Kadmium a jeho zlúčeniny vyjadrené ako kadmium (Cd) |
+
+    - Ortuť a j ej zlúčeniny vyjadrené ako ortuť (Hg) | 0,05
+
+    - Antimón a jeho zlúčeniny vyjadrené ako antimón (Sb) | Spolu 0,5
+
+    - Arzén a jeho zlúčeniny vyjadrené ako arzén (As) |
+
+    - Olovo a jeho zlúčeniny vyjadrené ako olovo (Pb) |
+
+    - Chróm a jeho zlúčeniny vyjadrené ako chróm (Cr) |
+
+    - Kobalt a jeho zlúčeniny vyjadrené ako kobalt (Co) |
+
+    - Meď a jej zlúčeniny vyjadrené ako meď (Cu) |
+
+    - Mangán a jeho zlúčeniny vyjadrené ako mangán (Mn) |
+
+    - Nikel a jeho zlúčeniny vyjadrené ako nikel (Ni) |
+
+    - Vanád a jeho zlúčeniny vyjadrené ako vanád (V) |
+
+    - Emisné limity sú určené ako priemerné hodnoty merania pri trvaní odberu vzorky min. 30 min. a max. 8 hodín.
+
+    - Priemerné hodnoty platia aj pre plynné formy emisií ťažkých kovov a ich zlúčenín.
+
+    - 4.2.4 Emisné limity pre dioxíny a furány
+
+    - Dioxíny a furány | 0,1 ng.m<sup>-3</sup>
+
+    - Emisné limity sú určené ako priemerné hodnoty pri trvaní odberu vzorky min. 6 hodín a max. 8 hodín. Hodnota emisného limitu sa vzťahuje na celkovú koncentráciu dioxínov a furánov prepočítaných na toxický ekvivalent podľa bodu č. 8.
+
+    - 4.2.5 Emisný limit pre oxid uhoľnatý
+
+    - Pre oxid uhoľnatý platia tieto limitné koncentrácie v odpadových plynoch s výnimkou nábehových a odstavných fáz:
+
+    - - 50 mg.m<sup>-3</sup> ako denný priemer,
+
+    - - 150 mg.m<sup>-3</sup> pri 95 % všetkých meraní ako 10-minútový priemer alebo 100 mg.m<sup>-3</sup> pri všetkých meraniach ako polhodinový priemer počas 24 hodín.
+
+    - Orgán ochrany ovzdušia môže určiť pre spaľovne odpadov na princípe fluidného lôžka iné emisné hodnoty CO, nie však vyššie ako 100 mg.m<sup>-3</sup> ako hodinový priemer.
+
+    - 5. EMISNÉ LIMITY PRE ZARIADENIA NA SPOLUSPAĽOVANIE ODPADOV
+
+    - 5.1 Emisné limity pre zariadenia na spoluspaľovanie odpadov platné do 31. decembra 2006
+
+    - Pri spaľovaní odpadov v iných zariadeniach, ako sú spaľovne odpadov, platia pre vybrané znečisťujúce látky pre danú technológiu alebo zariadenie emisné limity, ktoré sú určené v prílohe č. 4.
+
+    - Pre znečisťujúce látky, ktoré sa v spalinách vyskytujú len v dôsledku spaľovania odpadov, platia emisné limity pre spaľovne odpadov podľa druhu a množstva odpadov (vrátane referenčného kyslíka).
+
+    - Pre znečisťujúce látky, ktoré sú vnášané súčasne palivom alebo surovinou a spaľovaným odpadom alebo vznikajú pri danom technologickom procese aj bez spaľovania odpadu, platia emisné limity pre spaľovne odpadov (vrátane referenčného kyslíka), ak podiel vznikajúcej znečisťujúcej látky vnášanej odpadom alebo pri spaľovaní odpadu z celkového hmotnostného toku danej znečisťujúcej látky odvádzanej spalinami je vyšší ako 30 %. Hmotnostný tok danej znečisťujúcej látky odvádzanej spalinami sa zistí ako rozdiel hmotnostného toku pri spaľovaní odpadu a bez spaľovania odpadu. Ak je hmotnostný podiel 30 % a menší, platia všeobecne platné emisné limity (bez prepočtu na referenčný kyslík), ak v prílohe č. 4 nie je pre danú technológiu a znečisťujúcu látku určené inak.
+
+    - Pre ostatné znečisťujúce látky platia všeobecne platné emisné limity. Emisné limity platia pre koncentrácie prepočítané na suchý plyn pri štandardných podmienkach. Emisné limity pre vybrané znečisťujúce látky pri vybraných technológiách alebo zariadeniach platia pre referenčný obsah kyslíka, ktorý je určený v prílohe č. 4. Prírastok hmotnostného toku jednotlivých znečisťujúcich látok odvádzaných spalinami (okrem tuhých znečisťujúcich látok, NO<sub>x</sub>, SO<sub>2</sub> a CO) zistený ako rozdiel hmotnostných tokov pri spaľovaní a bez spaľovania odpadov nesmie byť vyšší ako 1,2-násobok hmotnostného toku znečisťujúcich látok odvádzaných spalinami z technologicky a výkonovo zodpovedajúcej spaľovne odpadov (hmotnostné toky zodpovedajúce príslušným koncentračným limitom pre spaľovne).
+
+    - Pre rotačné cementárske pece možno považovať za palivo aj odpadové ropné oleje, ak neobsahujú chlór vo väčšom množstve ako 0,5 % a PCB a PCT vo väčšom množstve ako 50 mg.kg<sup>-1</sup>.
+
+    - Podmienky spaľovania odpadov z hľadiska ochrany ovzdušia v iných zariadeniach, ako sú spaľovne, určí orgán ochrany ovzdušia. Všeobecné podmienky prevádzkovania (body 2.1 a 2.2) sa uplatňujú primerane v závislosti od charakteru, množstva a času spaľovania.
+
+    - 5.2 Platnosť emisných limitov pre zariadenia na spoluspaľovanie odpadov od 1. januára 2007
+
+    - Od 1. januára 2007 platia emisné limity pre zariadenia na spoluspaľovanie odpadov podľa bodu 5.3.
+
+    - 5.3 Emisné limity pre nové zariadenia na spoluspaľovanie odpadov, pre ktoré sa začne konanie o vydanie súhlasu na povolenie stavby alebo jej zmeny, zmeny technologických zariadení alebo zmeny ich využívania po 31. decembri 2001
+
+    - 5.3.1 Všeobecné podmienky určenia emisných limitov pri spoluspaľovaní odpadov
+
+    - Ak nie je v uvedených tabuľkách pre jednotlivé technológie uvedený celkový emisný limit „C“, použije sa pre výpočet emisného limitu pre danú znečisťujúcu látku zmesný vzťah.
+
+    - Emisný limit pre každú príslušnú znečisťujúcu látku a CO v odpadových plynoch zo zariadení, v ktorých sa spoluspaľujú odpady, sa vypočíta podľa tohto vzťahu:
+
+    - C = (V<sub>odpad</sub> x C<sub>odpad</sub> + V<sub>proces</sub> x C<sub>proces</sub>) / (V<sub>odpad</sub> + V<sub>proces</sub>)
+
+    - V<sub>odpad</sub>: Objem spalín výlučne zo spaľovania odpadov určený podľa odpadu s najnižšou výhrevnosťou uvedenou v povolení a vztiahnutý na podmienky tohto nariadenia.
+
+    - Pokiaľ je uvoľnené teplo zo spaľovania odpadu menšie ako 10 % z celkového uvoľneného tepla, vypočíta sa hodnota V<sub>odpad</sub> z takého predpokladaného množstva odpadu, ktorého spálením by sa uvoľnilo 10 % z celkového uvoľneného tepla.
+
+    - C<sub>odpad:</sub>Objem odpadových plynov zo zariadenia využívaného (príslušného) procesu vrátane spaľovania povolených a v procese bežne používaných palív (s vylúčením odpadov) pri zohľadnení referenčného kyslíka určeného pre daný proces, resp. zariadenie. V prípade, že pre daný proces alebo zariadenie nie je určený referenčný kyslík, treba vziať za základ skutočný obsah kyslíka v odpadových plynoch bez zriedenia prívodom vzduchu, ktorý pre proces nie je potrebný. Ostatné podmienky určenia emisných limitov (tlak, teplota, suchý plyn) sú určené v bodoch 5.3.2 až 5.3.4.
+
+    - C<sub>proces</sub>:Emisné limity pre vybrané technologické procesy, uvedené v bode 5.3.3, alebo emisné limity pre iné technologické procesy spaľovaní štandardných povolených palív (bez odpadov). Ak takéto emisné limity nie sú určené právnym predpisom, použijú sa emisné limity určené v povolení. Ak v povolení nie sú určené emisné limity, použijú sa skutočné emisné koncentrácie.
+
+    - C: Celková hodnota emisného limitu a referenčného kyslíka určeného pre vybrané technológie alebo vypočítaného podľa uvedeného vzťahu, ktorá nahradí určené emisné limity.
+
+    - Ak sa v zariadení na spoluspaľovanie odpadov získa viac ako 40 % energie zo spaľovania nebezpečných odpadov alebo ak sa v zariadení na spoluspaľovanie odpadov spaľuje neupravený miešaný komunálny odpad, platia emisné limity ako pre spaľovne odpadov podľa bodu 4.2 a ustanovenia na určenie emisného limitu pre zariadenia na spoluspaľovanie odpadov sa neuplatňujú.
+
+    - 5.3.2 Osobitné podmienky pre cementárske rotačné pece
+
+    - Denné priemery pri kontinuálnom meraní: periódy odberu vzoriek a ostatné požiadavky merania sa uplatňujú podľa ustanovení tohto nariadenia a osobitného predpisu.<sup>4</sup>) Všetky hodnoty sú v mg.m<sup>-3</sup>, pre dioxíny v ng.m<sup>-3</sup>. Priemerné polhodinové koncentrácie sú potrebné len na výpočet denného priemeru.
+
+    - Výsledky merania musia byť prepočítané na tieto štandardné podmienky: teplota 273 K, tlak 101,32 kPa pri obsahu kyslíka 10 % v suchom plyne.
+
+    - 5.3.2.1 C – celkové emisné limity
+
+    - Znečisťujúca látka | C [mg.m<sup>-3</sup>]
+
+    - Celkové tuhé znečisťujúce látky | 30
+
+    - Plynné zlúčeniny chlóru vyjadrené ako HCl | 10
+
+    - Plynné zlúčeniny fluóru vyjadrené ako HF | 1
+
+    - NO<sub>x</sub> ako NO<sub>2</sub> | 800
+
+    - Cd + Tl | 0,05
+
+    - Hg | 0,05
+
+    - Sb, As, Pb, Cr, Co, Cu, Mn, Ni, V | 0,5
+
+    - Dioxíny a furány | 0,1 ng.m<sup>-3</sup>
+
+    - Do 1. januára 2008 môže orgán ochrany ovzdušia povoliť výnimku pre NO<sub>x</sub> pre cementárske pece pracujúce mokrým spôsobom, ktoré spaľujú menej ako 3 t.h<sup>-1</sup> odpadu, ak v povolení určená koncentrácia NO<sub>x</sub> nebude vyššia ako 1 200 mg.m<sup>-3</sup>.Do 1. januára 2008 môže orgán ochrany ovzdušia povoliť výnimku pre tuhé znečisťujúce látky pre cementárske pece, ktoré spaľujú menej ako 3 t.h<sup>-1</sup> odpadu, ak v povolení určená koncentrácia tuhých znečisťujúcich látok nebude vyššia ako 50 mg.m<sup>-3</sup>.
+
+    - 5.3.2.2 C – celkové emisné limity pre SO<sub>2</sub> a celkový organický uhlík
+
+    - Znečisťujúca látka | C [mg.m<sup>-3</sup>]
+
+    - SO<sub>2</sub> | 50
+
+    - Celkový organický uhlík (TOC) | 10
+
+    - Orgán ochrany ovzdušia môže povoliť výnimku, keď SO<sub>2</sub> a TOC nepochádzajú zo spaľovania odpadov.
+
+    - 5.3.2.3 Emisné limity pre CO
+
+    - Emisné limity pre CO môže určiť orgán ochrany ovzdušia.
+
+    - 5.3.3 Osobitné podmienky na spoluspaľovanie odpadov v zariadeniach na spaľovanie palív
+
+    - Emisné limity platia ako denné priemery pri štandardných podmienkach: teplota 273 K, tlak 101,32 kPa, suchý plyn. Polhodinové priemery sú potrebné len na výpočet denných priemerov. Emisné limity sú členené podľa tepelného príkonu v MW.
+
+    - 5.3.3.1 C<sub>proces</sub> pre tuhé palivá v mg.m<sup>-3</sup> pri obsahu kyslíka 6 %
+
+    - Znečisťujúca látka | < 50 MW | 50 - 100 MW | 100 - 300 MW | > 300 MW
+
+    - [mg.m<sup>-3</sup>] | | | |
+
+    - SO2 | | 850 | 850 až 200 | 200
+
+    - Všeobecne | | | lineárne znižovanie od 100 do 300 MW |
+
+    - Domáce palivo | | alebo účinnosť odsírenia ≥ 90 % | alebo účinnosť odsírenia ≥ 92 % | alebo účinnosť odsírenia ≥ 95 %
+
+    - NO<sub>x</sub> vyjadrené o NO<sub>2</sub> | | 400 | 300 | 200
+
+    - Tuhé znečisťujúce látky | 50 | 50 | 30 | 30
+
+    - Do 1. januára 2007 neplatí emisný limit pre NO<sub>x</sub> pre zariadenia, v ktorých sa spoluspaľujú výlučne nebezpečné odpady.Do 1. januára 2008 môže povoliť orgán ochrany ovzdušia výnimku pre NO<sub>x</sub> a SO<sub>2</sub> pre jestvujúce zariadenia na spaľovanie tuhých palív na princípe fluidného spaľovania s príkonom 100 až 300 MW, ak v povolení určená koncentrácia C<sub>proces</sub> pre NO<sub>x</sub> nebude vyššia ako 350 mg.m<sup>-3</sup> a pre SO<sub>2</sub> nebude vyššia od 850 mg.m<sup>-3</sup> do 400 mg.m<sup>-3</sup> v lineárnej závislosti od príkonu 100 až 300 MW.
+
+    - 5.3.3.2 C<sub>proces</sub> pre biomasu v mg.m<sup>-3</sup> pri obsahu kyslíka 6 %
+
+    - Znečisťujúca látka | < 50 MW | 50 - 100 MW | 100 - 300 MW | > 300 MW
+
+    - [mg.m<sup>-3]</sup> | | | |
+
+    - SO2 | | 200 | 200 | 200
+
+    - NO<sub>x</sub> vyjadrené o NO<sub>2</sub> | | 350 | 300 | 300
+
+    - Tuhé znečisťujúce látky | 50 | 50 | 30 | 30
+
+    - Do 1. januára 2008 môže povoliť orgán ochrany ovzdušia výnimku pre NO<sub>x</sub>pre jestvujúce zariadenia na spaľovanie tuhých palív na princípe fluidného spaľovania s príkonom 100 až 300 MW, ak koncentrácia C<sub>proces</sub>pre NO<sub>x</sub> určená v povolení nebude vyššia ako 350 mg.m<sup>-3</sup>.
+
+    - 5.3.3.3 C<sub>proces</sub> pre kvapalné palivá v mg.m<sup>-3</sup> pri obsahu kyslíka 3 %
+
+    - Znečisťujúca látka | <50 MW | 50 - 100 MW | 100 - 300 MW | > 300MW
+
+    - [mg.m<sup>-3</sup>] | | | |
+
+    - SO<sub>2</sub> | | 850 | 850 až 200 lineárne znižovanie od 100 do 300 MW | 200
+
+    - NO<sub>x</sub> vyjadrené o NO<sub>2</sub> | | 400 | 300 | 200
+
+    - Tuhé znečisťujúce látky | 50 | 50 | 30 | 30
+
+    - Do 1. januára 2007 neplatí emisný limit pre NO<sub>x</sub> pre zariadenia, v ktorých sa spoluspaľujú výlučne nebezpečné odpady.
+
+    - 5.3.3.4 C – celkový emisný limit pre ťažké kovy, dioxíny a furány
+
+    - C v mg.m<sup>-3</sup> pri obsahu kyslíka 6 %. Všetky priemerné hodnoty počas odberu vzorky min. 30 minút a max. 8 hodín.
+
+    - Znečisťujúca látka | C [mg. m<sup>-3</sup>]
+
+    - Cd + Tl | 0,05
+
+    - Hg | 0,05
+
+    - Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V | 0,5
+
+    - C v ng.m<sup>-3</sup> pri obsahu kyslíka 6 %. Všetky priemerné hodnoty počas odberu vzorky v trvaní min. 6 hodín a max. 8 hodín.
+
+    - Znečisťujúca látka | C [ng.m<sup>-3</sup>]
+
+    - Dioxíny a furány | 0,1
+
+    - 5.3.4 Osobitné podmienky pre ostatné neuvedené technologické procesy
+
+    - C – celkové emisné limity pre dioxíny, furány a ťažké kovy
+
+    - C v ng.m<sup>-3</sup>. Všetky priemerné hodnoty počas odberu vzorky v trvaní min. 6 hodín a max. 8 hodín.
+
+    - Znečisťujúca látka | C [ng.m<sup>-3</sup>]
+
+    - Dioxíny a furány | 0,1
+
+    - C v mg.m<sup>-3</sup>. Všetky priemerné hodnoty počas odberu vzorky min. 30 minút a max. 8 hodín.
+
+    - Znečisťujúca látka | C [mg.m<sup>-3</sup>]
+
+    - Cd + Tl | 0,05
+
+    - Hg | 0,05
+
+    - 6. Zvyšky
+
+    - Zvyškami sa rozumejú všetky kvapalné a tuhé látky (vrátane roštového popola a škváry, kotlového a filtračného popolčeka, tuhých reakčných produktov z čistenia spalín, kalov z čistenia odpadových vôd, použitých katalyzátorov a aktívneho uhlia), ktoré vznikajú pri spaľovaní, čistení spalín, čistení odpadových vôd alebo pri iných procesoch v rámci spaľovania odpadu.
+
+    - Pri prevádzke spaľovne odpadov alebo zariadenia na spoluspaľovanie odpadov treba predchádzať tvorbe zvyškov alebo ich tvorbu podľa množstva a škodlivosti obmedziť na minimum. Zvyšky sa musia podľa možnosti zhodnotiť (recyklovať) priamo v zariadení na spaľovanie odpadov alebo mimo neho pri dodržaní osobitných predpisov.<sup>5</sup>) Suché zvyšky vo forme prachu, napríklad kotlový popolček a vysušené zvyšky z čistenia spalín, sa musia dopravovať a medziskladovať tak, aby sa zamedzilo ich rozprašovaniu do prostredia, napríklad v uzavretých kontajneroch.
+
+    - Pri zneškodňovaní alebo zužitkovaní zvyškov zo spaľovania alebo spoluspaľovania odpadov sa postupuje podľa osobitných predpisov.<sup>5</sup>)
+
+    - 7. Mimoriadne prevádzkové stavy
+
+    - Prevádzkovateľ musí v prípade poruchy prevádzku v čo najkratšom čase obmedziť alebo odstaviť, kým sa prevádzka neuvedie do riadneho prevádzkového stavu.
+
+    - Ak sa prekročí emisný limit, nemôžu sa odpady v spaľovni alebo v zariadení na spoluspaľovanie odpadov bez prerušenia ďalej spaľovať alebo spaľovacie linky ďalej neprerušene prevádzkovať viac ako 4 hodiny; celkový čas takého stavu počas roka nesmie prekročiť 60 hodín.
+
+    - Priemerná polhodinová koncentrácia tuhých znečisťujúcich látok v emisiách nesmie v žiadnom prípade prekročiť hodnotu 150 mg.m<sup>-3</sup>; emisný limit CO a organických látok vyjadrených ako celkový organický uhlík do ovzdušia sa nesmie prekročiť. Všetky ostatné prevádzkové podmienky a požiadavky podľa bodu 2 a požiadavky týkajúce sa emisií CO sa musia dodržať.
+
+    - 8. Ekvivalentné faktory pre dibenzodioxíny a dibenzofurány
+
+    - Na určenie kumulatívnej hodnoty emisie dioxínov a furánov je potrebné hmotnostné koncentrácie jednotlivých uvedených dioxínov a furánov pred ich sčítaním vynásobiť týmito faktormi:
+
+    - Názov | Toxický ekvivalent
+
+    - 2,3,7,8 tetrachlódibenzodioxín (TCDD) | 1
+
+    - 1,2,3,7,8 pentachlórdibenzodioxín (PeCDD) | 0,5
+
+    - 1,2,3,4,7,8 hexachlórdibenzodioxín (HxCDD) | 0,1
+
+    - 1,2,3,6,7,8 hexachlórdibenzodioxín (HxCDD) | 0,1
+
+    - 1,2,3,7,8,9 hexachlórdibenzodioxín (HxCDD) | 0,1
+
+    - 1,2,3,4,6,7,8 heptachlórdibenzodioxín (HpCDD) | 0,01
+
+    - oktachlórdibenzodioxín (OCDD) | 0,001
+
+    - 2,3,7,8 tetrachlórdibenzofurán (TCDF) | 0,1
+
+    - 2,3,4,7,8 pentachlórdibenzofurán (PeCDF) | 0,5
+
+    - 1,2,3,7,8 pentachlórdibenzofurán (PeCDF) | 0,05
+
+    - 1,2,3,4,7,8 hexachlórdibenzofurán (HxCDF) | 0,1
+
+    - 1,2,3,6,7,8 hexachlórdibenzofurán (HxCDF) | 0,1
+
+    - 1,2,3,7,8,9 hexachlórdibenzofurán (HxCDF) | 0,1
+
+    - 2,3,4,6,7,8 hexachlórdibenzofurán (HxCDF) | 0,1
+
+    - 1,2,3,4,6,7,8 heptachlórdibenzofurán (HpCDF) | 0,01
+
+    - 1,2,3,4,7,8,9 heptachlórdibenzofurán (HpCDF) | 0,01
+
+    - oktachlórdibenzofurán (OCDF) | 0,001
+
+    - 9. Interval spoľahlivosti merania emisných hodnôt
+
+    - Na úrovni hodnoty emisného limitu určeného ako denný priemer nesmú hodnoty 95 % intervalov spoľahlivosti merania jednotlivej emisnej hodnoty prekročiť uvedené percentuálne podiely hodnôt určeného emisného limitu:
+
+    - oxid uhoľnatý – 10 %,
+
+    - oxid siričitý – 20 %,
+
+    - oxidy dusíka – 20 %,
+
+    - tuhé znečisťujúce látky – 30 %,
+
+    - chlorovodík – 40 %,
+
+    - fluorovodík – 40 %,
+
+    - celkový organický uhlík – 30 %.
+
+    - 10. Zložky odpadov, ktoré ich robia nebezpečnými
+
+    - 1. berýlium; zlúčeniny berýlia,
+
+    - 2. zlúčeniny vanádu,
+
+    - 3. zlúčeniny 6-mocného chrómu,
+
+    - 4. zlúčeniny kobaltu,
+
+    - 5. zlúčeniny niklu,
+
+    - 6. zlúčeniny medi,
+
+    - 7. zlúčenina zinku,
+
+    - 8. arzén; zlúčeniny arzénu,
+
+    - 9. selén; zlúčeniny selénu,
+
+    - 10. zlúčenina striebra,
+
+    - 11. kadmium; zlúčeniny kadmia,
+
+    - 12. zlúčeniny cínu,
+
+    - 13. antimón; zlúčeniny antimónu,
+
+    - 14. telúr; zlúčeniny telúru,
+
+    - 15. zlúčeniny bária; okrem síranu barnatého,
+
+    - 16. ortuť; zlúčeniny ortuti,
+
+    - 17. tálium; zlúčeniny tália,
+
+    - 18. olovo; zlúčeniny olova,
+
+    - 19. anorganické sírany (sulfidy),
+
+    - 20. anorganické zlúčeniny fluóru; vrátane fluoridu vápenatého,
+
+    - 21. anorganické kyanidy,
+
+    - 22. alkalické kovy a kovy alkalických zemín: lítium, sodík, draslík, vápnik, horčík nie v chemicky viazanej forme,
+
+    - 23. kyslé roztoky alebo kyseliny v tuhej forme,
+
+    - 24. zásadité roztoky alebo zásady v pevnej forme,
+
+    - 25. azbest (prach a vlákna),
+
+    - 26. fosfor: zlúčeniny fosforu vrátane minerálnych fosfátov,
+
+    - 27. karbonyly kovov,
+
+    - 28. peroxidy,
+
+    - 29. chlorečnany,
+
+    - 30. perchloridy,
+
+    - 31. azidy,
+
+    - 32. PCB a/alebo PCT,
+
+    - 33. liečivá a veterinárne prípravky,
+
+    - 34. biocidy a prostriedky na ochranu rastlín (napr. pesticídy),
+
+    - 35. infekčné látky,
+
+    - 36. kreozoty,
+
+    - 37. izokyanáty, tiokyanáty,
+
+    - 38. organické kyanidy (napr. nitily),
+
+    - 39. fenol; zlúčenina fenolu,
+
+    - 40. halogénované rozpúšťadlá,
+
+    - 41. organické rozpúšťadlá okrem halogénovaných,
+
+    - 42. chlórované organické zlúčeniny okrem inertných polymerizovaných materiálov a iných zlúčenín uvedených v tomto bode,
+
+    - 43. aromatické zlúčeniny; polycyklické a heterocyklické organické zlúčeniny,
+
+    - 44. alifatické amíny,
+
+    - 45. aromatické amíny,
+
+    - 46. étery,
+
+    - 47. látky explozívneho charakteru,
+
+    - 48. organické zlúčeniny síry,
+
+    - 49. všetky kongenéry polychlórovaných dibenzo-furánov,
+
+    - 50. všetky kongenéry polychlórovaných dibenzo-p-dioxínov,
+
+    - 51. uhľovodíky a ich zlúčeniny obsahujúce kyslík, dusík alebo síru.
 
       - VI. OSTATNÝ PRIEMYSEL A ZARIADENIA
 
     - 1. SPRACOVANIE DREVA
 
-    - 1.1 Mechanické spracovanie dreva
+    - 1.1 Spracovanie dreva
 
       - a) Pri všetkých technologických operáciách, pri ktorých vznikajú emisie tuhých znečisťujúcich látok, nesmie ich koncentrácia prekročiť hodnotu 50 mg.m<sup>-3</sup>.
 
@@ -1644,7 +2164,7 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 2.2.2.1 Emisný limit pre nové zdroje
 
-    - Koncentrácia tuhých znečisťujúcich látok (čiastočky laku) v odpadovom plyne nesmie prekročiť hodnotu 3 mg.m<sup>-3</sup>.
+    - Pri práškovom lakovaní nesmie koncentrácia tuhých znečisťujúcich látok prekročiť hodnotu 15 mg.m<sup>-3</sup>.
 
     - 2.2.2.2 Emisný limit pre jestvujúce zdroje
 
@@ -1657,6 +2177,8 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
     - 2.2.4 Emisný limit organických zlúčenín pre sušenie
 
     - Emisie prchavých organických látok vyjadrené ako celkový organický uhlík v odpadových plynoch zo sušiarne nesmú prekročiť hodnotu 50 mg.m<sup>-3</sup>. Ak sa odpadové plyny privádzajú na dodatočné spaľovanie, určí orgán ochrany ovzdušia podmienky spaľovania, ako napr. koncentráciu oxidu uhoľnatého, teplotu spaľovania a potrebnú zádrž.
+
+    - 2.2.5 Pri použití bezrozpúšťadlových (práškovacích) alebo nízkorozpúšťadlových lakovacích systémov limity organických látok a podmienky prevádzkovania sa určia s prihliadnutím na hmotnostný tok emitovaných prchavých organických látok.
 
     - 3. ZARIADENIA NA ČISTENIE TEXTÍLIÍ
 
@@ -1718,4 +2240,4 @@ Príloha č. 4 nariadenia vlády Slovenskej republiky č. 92/1996 Z. z.
 
     - 6.2 Všeobecné podmienky prevádzkovania – obmedzenie druhu paliva pre nové zdroje znečisťovania
 
-    - V zariadeniach na sušenie je možné spaľovať len zemný plyn naftový, kvapalné palivá s obsahom síry najviac 1 % a pevné palivá s merným obsahom síry najviac 0,5 g S.MJ<sup>-1</sup>.
+    - V zariadeniach na sušenie možno spaľovať len zemný plyn naftový, kvapalné palivá s obsahom síry najviac 0,2 % hmot. a tuhé palivá s merným obsahom síry najviac 0,5 g S.MJ<sup>1</sup>.
