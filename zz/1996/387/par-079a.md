@@ -1,3 +1,0 @@
-# § 79a
-
-Na riešenie zásadných otázok zamestnanosti a na schvaľovanie použitia nástrojov aktívnej politiky trhu práce úrad práce, sociálnych vecí a rodiny vytvára výbor pre otázky zamestnanosti. Členmi výboru pre otázky zamestnanosti sú zástupcovia samosprávneho kraja, v ktorého územnom obvode sídli úrad práce, sociálnych vecí a rodiny, a zástupcovia úradu práce, sociálnych vecí a rodiny. Zástupcov samosprávneho kraja do výboru pre otázky zamestnanosti volí a odvoláva zastupiteľstvo samosprávneho kraja. Zástupcov úradu práce, sociálnych vecí a rodiny vymenúva a odvoláva generálny riaditeľ Ústredia práce, sociálnych vecí a rodiny.
