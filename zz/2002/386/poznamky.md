@@ -10,6 +10,8 @@
 
 - 5) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
+- 5a) Napríklad zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon č. 291/2002 Z. z. v znení zákona č. 386/2002 Z. z.
+
 - 6) § 49b ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 348/1999 Z. z.
 
 - 7) § 53 zákona č. 566/2001 Z. z.
