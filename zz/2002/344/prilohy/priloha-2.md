@@ -61,3 +61,9 @@
   - 814 99 Bratislava.“.
 
   - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na uplatnenie jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom je uznateľné a vykonateľné v Slovenskej republike použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
+
+  - Maroko
+
+  - a) Dohovor pre Maroko nadobudol platnosť 1. decembra 2002.
+
+  - b) Maroko pri podpise a uložení ratifikačnej listiny vyhlásenia ani výhrady neurobilo.
