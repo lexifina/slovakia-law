@@ -1110,6 +1110,8 @@ XLIV. Difenyléter, pentabrómderivát C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>
 
 2. Tovar sa nesmie uvádzať na trh, ak tovar samotný alebo jeho časť, ktorá bola opracovaná na účely zníženia horľavosti, obsahuje túto látku v koncentráciách vyšších ako 0,1 hmotnostných percent.
 
+3. Odchýlkou sa body 1 a 2 nebudú uplatňovať na letecké núdzové evakuačné systémy do 31. marca 2006.
+
 XLIVA. Difenyléter, oktabrómderivát C<sub>12</sub>H<sub>5</sub>Br<sub>8</sub>O CAS č. 32536-52-0 EC č. 251-087-9
 
 1. Nesmie sa uvádzať na trh ani používať ako látka alebo zložka látok alebo prípravkov v koncentráciách vyšších ako 0,1 hmotnostných percent.
