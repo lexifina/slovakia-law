@@ -30,7 +30,7 @@
 
 - 3eb) § 1 ods. 4 zákona č. 600/1992 Zb. v znení neskorších predpisov.
 
-- 3ec) § 4 zákona č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+- 3ec) § 281 až 288 Obchodného zákonníka.
 
 - 3ed) § 12 zákona č. 263/1999 Z. z.
 
