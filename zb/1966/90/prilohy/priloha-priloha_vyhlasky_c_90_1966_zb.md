@@ -22,39 +22,43 @@ Príloha vyhlášky č. 90/1966 Zb.
 
     - 1. Vojenské vysoké školy, samostatné fakulty a vzdelávacie zariadenia ozbrojených síl, pokiaľ majú postavenie vysokých škôl (ďalej len „vojenské vysoké školy"), sa ku dňu účinnosti zákona členia na vojenské vysoké školy technického smeru a vojenské vysoké školy univerzitného smeru. Riadne štúdium sa zakončuje na všetkých vojenských školách štátnou záverečnou skúškou. Študent, ktorý ukončil štúdium na vojenskej vysokej škole štátnou záverečnou skúškou, je absolventom vysokej školy.
 
-    - 2. Vojenskými vysokými školami technického smeru ku dňu účinnosti zákona sú:
+    - 2. Vysokými vojenskými školami technického smeru sú:
 
-      - a) Vojenská akadémia Antonína Zápotockého v Brne, vyznamenaná Rádom republiky a Rádom červenej hviezdy, je vojenskou vysokou školou, ktorá sa člení na fakulty:
+      - a) Vojenská akadémia Antonína Zápotockého v Brne s fakultami
 
-    - 1. technického smeru:
+    - - veliteľskou
 
-    - veliteľsko-organizátorskú so sídlom vo Vyškove - Dědiciach,
+    - - inžinierskou pozemných vojsk
 
-    - inžiniersku pozemných vojsk so sídlom v Brne,
+    - - leteckou a protivzdušnej obrany
 
-    - leteckú, PVO a spojovaciu so sídlom v Brne,
+    - - diaľkovou
 
-    - vyšších veliteľov so sídlom v Brne,
-
-    - zahraničnú so sídlom v Brne.
-
-    - Ich absolventom patrí od účinnosti zákona titul „inžinier“ (v skratke „Ing.“). Podmienky priznania titulu Ing. absolventom, ktorí zakončili školu pred účinnosťou zákona, ustanovil minister národnej obrany Rozkazom č. 16/1966, ktorý bol registrovaný v Zbierke zákonov ČSSR v čiastke 39 z 3. decembra 1966;
-
-    - 2. univerzitného smeru:
-
-    - vojenskopolitickú so sídlom v Bratislave.
-
-    - Jej absolventom, ktorí vykonajú predpísané rigorózne skúšky, patrí od účinnosti zákona v závislosti od zamerania štúdia titul „doktor sociálnopolitických naúk“ (v skratke „RSDr.“) alebo „doktor filozofie“ (v skratke „PhDr.“).
+    - - zahraničnou,
 
     - b)
 
-    - Vojenská fakulta Vysokej školy dopravnej v Žiline, ktorá pripravuje kvalifikované kádre pre zastávanie veliteľských, veliteľsko-technických, technických aj iných funkcií vyžadujúcich vysokoškolské vzdelanie špeciálne zamerané pre oblasť dopravy. Jej absolventom patrí titul „inžinier" (v skratke „Ing.").
+    - Vysoká vojenská škola pozemného vojska hrdinu ZSSR kpt. O. Jaroša vo Vyškove na Morave,
 
-    - 3. Vojenskými vysokými školami univerzitného smeru ku dňu účinnosti zákona sú:
+    - g)
 
-      - a) Vojenskopolitická fakulta Vojenskej akadémie Antonína Zápotockého so sídlom v Bratislave.
+    - Vojenská fakulta Vysokej školy dopravnej v Žiline.
 
-      - b) Vojenský lekársky výskumný a doškoľovací ústav Jana Evangelistu Purkyňu v Hradci Králové (ďalej len VLVDÚ), ktorý má postavenie vojenskej vysokej školy. Absolventom patrí titul „doktor medicíny (v skratke „MUDr."). Podrobnosti ustanoví štatút VLVDÚ.
+    - Absolventom vysokých vojenských škôl technického smeru priznávajú vysoké vojenské školy titul „inžinier“ (v skratke „Ing.“).
+
+    - 3. Vysokými vojenskými školami univerzitného smeru sú:
+
+      - a) Vojenská politická akadémia Klementa Gottwalda v Bratislave s fakultami
+
+      - - vojensko-politickou
+
+      - - vojensko-pedagogickou a samostatnou fakultou-Vysokou vojenskou politickou školou,
+
+      - b) Vojenský lekársky výskumný a doškoľovací ústav Jana Evangelistu Purkyně v Hradci Králové,
+
+      - c) Vojenský odbor pri fakulte telesnej výchovy a športu Univerzity Karlovej v Prahe.
+
+      - Absolventom Vojenského lekárskeho výskumného a doškoľovacieho ústavu Jana Evangelistu Purkyně priznáva vysoká vojenská škola titul „doktor medicíny“ (v skratke „MUDr.“). Absolventom Vojenskej politickej akadémie Klementa Gottwalda a vojenského odboru pri fakulte telesnej výchovy a športu Univerzity Karlovej, ktorí vykonajú predpísanú rigoróznu skúšku, priznávajú vysoké vojenské školy titul „doktor filozofie“ (v skratke „PhDr.“).
 
     - 4. Z predchádzajúcich ustanovení sa vzťahujú
 
