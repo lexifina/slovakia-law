@@ -16,7 +16,7 @@ Zaradenie zamestnaní do I. pracovnej kategórie odôvodňujú práce vykonávan
 
 5. členmi leteckých posádok (leteckého personálu) a pracovníkmi sústavne činnými v lietadle za letu,
 
-6. s tečúcim kovom pri vysokopecnej výrobe surového železa a pri výrobe surovej ocele a ferozliatin v základnej hutnej prvovýrobe a v hutnej výrobe neželezných kovov, antimónu, hliníka, medi a olova,
+- 6. s tečúcim kovom pri vysokopecnej výrobe surového železa a pri výrobe surovej ocele a ferozliatin v základnej hutnej prvovýrobe a v hutnej výrobe neželezných kovov, antimónu, hliníka, medi, olova a ortuti,
 
 7. pri vytĺkaní žeravých odliatkov z pieskových foriem pneumatickými kladivami alebo inými nástrojmi,
 
@@ -36,7 +36,7 @@ Zaradenie zamestnaní do I. pracovnej kategórie odôvodňujú práce vykonávan
 
 - chemické spracovanie uránových rúd na chemický uránový koncentrát (dávkovaním, rozkladom, lúhovaním, premývaním, separáciou, sedimentáciou, filtráciou, zrážaním, elúciou, sorpciou, zahusťovaním a sušením), plnenie kontejnerov, vzorkovanie a expedícia, včítane čistenia a údržby výrobných aparatúr,
 
-14. v jadrovej elektrárni v kontrolovanom pásme jadrového reaktora za hygienickou slučkou,
+- 14. v jadrovej elektrárni v kontrolovanom pásme jadrového reaktora za hygienickou slučkou a pri obsluhe cyklotrónu a výskumného reaktora,
 
 15. pri výrobe výbušnín, kde sa vo veľkej miere používajú nitroestery, najmä dinitroglykol a nitroglycerín; v pyrotechnických prevádzkach, najmä pri výrobe traskavín a pri niektorých manipuláciách s nimi,
 
@@ -44,7 +44,15 @@ Zaradenie zamestnaní do I. pracovnej kategórie odôvodňujú práce vykonávan
 
 17. členov posádok námorných lodí,
 
-18. v ťažbe a pri opracúvaní kameňa, pri mletí a drvení kremeňa, kremenca a živca, pri formovaní žiaruvzdorných výrobkov a pri úprave keramických surovín v prostredí vysokej koncentrácie agresívneho fibroplastického prachu nadmerne ohrozujúcom pracujúcich silikózou.
+- 18. v ťažbe a pri opracovaní kameňa, pri mletí a drvení kremeňa, kremenca a živca, pri formovaní žiaruvzdorných výrobkov, pri úprave keramických surovín a v prostredí vysokej koncentrácie agresívneho fibroplastického prachu nadmerne ohrozujúcom pracujúcich silikózou a pri spracovaní azbestu prevažne suchou cestou v prostredí vysokej koncentrácie azbestového prachu nadmerne ohrozujúcom pracujúcich azbestózou,
+
+19. pri výrobe fenyl-metylpyrazolónu,
+
+20. pri výrobe antiparazitných prípravkov na báze organických zlúčenín fosforu,
+
+21. pri výrobe smolného koksu,
+
+22. pri výrobe anódovej hmoty.
 
 Diel II
 
@@ -124,7 +132,7 @@ Zaradenie zamestnaní do II. pracovnej kategórie odôvodňujú práce vykonáva
 
 - pri výrobe brúsnych prostriedkov,
 
-- s dinasom, šamotom, dolomitom a azbestom za vysokých teplôt, pokiaľ nejde o práce uvedené v diele I č. 18,
+- s dinasom, šamotom, dolomitom a azbestom, pokiaľ nejde o práce uvedené v diele I č. 18,
 
 - pri výrobe lupkov, pokiaľ nejde o práce uvedené v diele I č. 18,
 
@@ -189,6 +197,8 @@ Zaradenie zamestnaní do II. pracovnej kategórie odôvodňujú práce vykonáva
 - v kotolniach priemyselných podnikov a obdobných energetických zariadeniach, najmä pri vyvážaní žeravej trosky, popola a škvary a pri čistení vo vnútri kotlov,
 
 - zváranie v uzavretých nádobách;
+
+- zváranie plazmou;
 
 7. s dráždivými (karcinogénnymi) látkami
 
@@ -295,6 +305,8 @@ Zaradenie zamestnaní do II. pracovnej kategórie odôvodňujú preto aj práce 
 - požiarnikmi verejných požiarnych útvarov a vybraných závodných útvarov určených na likvidáciu požiarov, katastrof a živelných pohrôm,
 
 - členmi Horskej služby z povolania, ktorí sa zúčastňujú na záchranných akciách a zaisťujú v teréne bezpečnosť návštevníkov hôr.
+
+- vodičmi autocisterien prepravujúcich propán-bután.
 
 C
 
