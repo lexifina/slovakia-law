@@ -2,7 +2,11 @@
 
 (1) Na území Slovenskej republiky možno propagovať len tie lotérie a iné podobné hry, na ktoré bolo vydané povolenie v zmysle tohto zákona.
 
-(2) Pri prevádzkovaní lotérií a iných podobných hier musia byť osoby oprávnené prijímať stávky (predávať žreby) a vyplácať výhry v pracovnom pomere alebo v pomere obdobnom pracovnému pomeru s organizáciou, ktorej bolo vydané povolenie.
+(2) Pri prevádzkovaní lotérií a iných podobných hier musia byť osoby oprávnené prijímať stávky (predávať žreby) a vyplácať výhry v pracovnoprávnom vzťahu
+
+- a) s prevádzkovateľom, ktorému sa vydalo povolenie,
+
+- b) s právnickou osobou alebo fyzickou osobou, ktorá na základe zmluvy sprostredkúva činnosti spojené s prevádzkovaním lotérií pre prevádzkovateľa, ktorému sa vydalo povolenie.
 
 (3) Zamestnanci prevádzkovateľa lotérií a iných podobných hier musia byť bezúhonní a odborne spôsobilí. Pracovníci vo funkciách riaditeľ, vedúci ekonóm, vedúci kasína musia mať slovenské štátne občianstvo.
 
@@ -10,11 +14,11 @@
 
 (5) Prevádzkovateľ stávkových hier podľa § 2 písm. g), h) a i) je povinný oznámiť ministerstvu každoročne do 15. februára totožnosť osôb, ktoré v predchádzajúcom kalendárnom roku mali účasť na jeho majetku.
 
-(6) Účasť na lotériách a stávkových hrách podľa § 2 písm. c), e) až i) je zakázaná osobám mladším ako 18 rokov. Prevádzkovateľ hry je povinný vykonať opatrenia, aby sa tieto osoby nemohli zúčastňovať lotérií a stávkových hier. Prevádzkovateľ má právo požadovať predloženie preukazu totožnosti.
+(6) Účasť na lotériách a stávkových hrách okrem spotrebiteľských lotérií je zakázaná osobám mladším ako 18 rokov. Prevádzkovateľ hry je povinný vykonať opatrenia, aby sa tieto osoby nemohli zúčastňovať lotérií a stávkových hier. Prevádzkovateľ má právo požadovať predloženie preukazu totožnosti.
 
-(7) Stávky možno prijímať len v hotovosti. Ministerstvo môže povoliť bezhotovostný príjem stávok pri tipovaní prostredníctvom telekomunikačných zariadení podľa osobitne schváleného herného poriadku. Takto prijímané stávky možno uhrádzať len z účtu hráča na základe jeho príkazu pri prevádzkovaní stávkových hier podľa § 2 písm. c) a h).
+(7) Stávky možno prijímať vopred v hotovosti alebo bezhotovostne.
 
-(8) Lotérie a iné podobné hry je zakázané vykonávať
+(8) Lotérie a iné podobné hry uvedené v § 2 písm. e) až j) je zakázané vykonávať
 
 - a) na Veľký piatok, 24. a 25. decembra,
 
@@ -37,3 +41,7 @@
 (13) Všetky účtovné operácie uskutočňované v súvislosti s prevádzkovaním lotérií a iných podobných hier sa musia viesť oddelene od ďalších hospodárskych operácií organizácie, ktorá ich prevádzkuje. Ak organizácia (prevádzkovateľ) prevádzkuje viac lotérií a iných podobných hier, musí viesť oddelenú účtovnú evidenciu za každú z nich.
 
 (14) Prevádzkovateľ hry podľa § 2 písm. c), f) až i) je povinný denne vyúčtovať tržby. Ministerstvo môže povoliť denné vyúčtovanie stávkových hier podľa § 2 písm. e) a i) aj s použitím videotechniky. Prevádzkovateľ hry podľa § 2 písm. e) je povinný viesť evidenciu tržieb osobitne za každý výherný prístroj.
+
+(15) Slovo „kasíno“, jeho preklady alebo slová, v ktorých základe sa tieto slová vyskytujú, smie používať v obchodnom mene alebo na označenie prevádzky iba právnická osoba, ktorej bolo vydané povolenie na prevádzkovanie stávkových hier v kasínach podľa § 2 písm. i), pokiaľ nie je zrejmé zo súvislosti, v ktorej sa slovo „kasíno“ používa, že táto osoba sa nezaoberá činnosťou uvedenou v § 1 a 2.
+
+(16) Ustanovenie odseku 15 sa nevzťahuje na právnické osoby, ktorých obchodné meno alebo názov je zavedený alebo uznávaný zákonom alebo medzinárodnou zmluvou.
