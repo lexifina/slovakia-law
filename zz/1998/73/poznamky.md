@@ -1,4 +1,4 @@
-- 1) Napríklad Zákonník práce č. 65/1965 Zb. v znení neskorších predpisov.
+- 1) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
@@ -14,7 +14,7 @@
 
 - 7) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
 
-- 8) Zákon č. 52/l998 Z. z. o ochrane osobných údajov v informačných systémoch.
+- 8) Zákon č. 428/2002 Z. z. o ochrane osobných údajov
 
 - 9) § 116 zákona č. 40/1964 Zb. Občiansky zákonník.
 
@@ -33,6 +33,12 @@
 - 12a) § 2 zákona Slovenskej národnej rady č. 347/1990 Zb. v znení neskorších predpisov.
 
 - 13) Napríklad zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona Národnej rady Slovenskej republiky č. 72/1995 Z. z. a zákon Slovenskej národnej rady č. 347/1990 Zb. v znení neskorších predpisov.
+
+- 13a) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 13b) § 143a Občianskeho zákonníka.
+
+- 13c) § 115 Občianskeho zákonníka.
 
 - 14) § 10 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -101,6 +107,12 @@
 - 39) § 26 zákona č. 32/1957 Zb.
 
 - 40) Zákon Národnej rady Slovenskej republiky č. 320/1993 Z. z. o úprave náhrady za stratu na zárobku po skončení pracovnej neschopnosti vzniknutej pracovným úrazom alebo chorobou z povolania v znení neskorších predpisov.
+
+- 40a) Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 40b) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- Zákon č. 413/2002 Z. z. o sociálnom poistení v znení zákona č. 639/2002 Z. z.
 
 - 41) Zákon č. 32/1957 Zb.
 
