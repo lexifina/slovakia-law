@@ -34,9 +34,19 @@
 
 - 16) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
-- 17) Napríklad § 10 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z., § 23 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, § 11 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
-
 - 18) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
+
+- 18a) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
+
+- 18b) § 13 až 25 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite.
+
+- 18c) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 18d) Zákon č. 152/1998 Z. z. o sťažnostiach.
+
+- 18e) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
+
+- 18f) Napríklad § 32a zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 19) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
