@@ -290,43 +290,59 @@
 
       - Poistné sa platí za jednotlivé kalendárne mesiace; je zročné v deň, ktorý je v závode určený na výplatu miezd a platov za príslušný mesiac. Ak nie je tento deň určený, je poistné zročné vždy prvého dňa každého kalendárneho mesiaca za všetky výplatné obdobia ukončené v predchádzajúcom mesiaci.
 
-    - Výpočet, vykazovanie a odvod poistného
+    - Vykazovanie, zúčtovanie a úhrada dávok a poistného
 
       - § 24
 
-        - (1) Závod je povinný sám vypočítať poistné za každý mesiac a vykázať ho príslušnej krajskej odborovej rade.
+        - (1) Dávky nemocenského poistenia, ktoré závod vyplatil (zúčtoval) podľa § 16, sa mu uhrádzajú z prostriedkov nemocenského poistenia spôsobom ďalej ustanoveným.
 
-        - (2) Zároveň s poistným je závod povinný vykázať krajskej odborovej rade dávky, ktoré vyplatil za mesiac, ktorého sa výpočet týka, a dávky, ktoré v tomto mesiaci vyplatil dodatočne za obdobie skoršie. Tieto dávky odpočíta od vykázaného poistného; nemožno však odpočítať dávky vypočítané nesprávne vyššou sumou, dávky neprávom poskytnuté a dávky, ktorých výplata nie je doložená.
-
-        - (3) Zročné poistné alebo rozdiel, o ktorý toto poistné prevyšuje vykázané dávky, odvádza závod krajskej odborovej rade bez vyrubenia.
-
-        - (4) Krajská odborová rada predpíše závodu platobným výmerom poistné, ak sa správne alebo vôbec nevykázalo alebo ak sa neprávom odpočítali dávky, ktoré podľa odseku 2 nemožno odpočítať. Ak neposkytne závod podklady na to potrebné, môže mu krajská odborová rada vyrubiť poistné podľa dát obdobného závodu približne rovnakej veľkosti.
-
-        - (5) Ak nezašle závod riadne vyplnený výkaz poistného a dávok v určenej lehote (§§ 25 a 26), môže mu krajská odborová rada predpísať platobným výmerom penále vo výške od 20 Kčs do 200 Kčs.
+        - (2) Závod je povinný vykázať za každý kalendárny mesiac krajskej odborovej rade, ktorá je preňho príslušná (§ 10 ods. 3 a 4), zúčtované dávky. Dávky poskytnuté neprávom, sumy prevyšujúce správnu výšku dávok a dávky, výplata ktorých nie je doložená, nemožno vykazovať a uhrádzať z prostriedkov nemocenského poistenia.
 
       - § 25
 
-        - (1) Ak je závod hospodárskou alebo rozpočtovou organizáciou, prípadne jej súčasťou alebo ak je inou organizáciou, pre ktorú platia obdobné predpisy o čerpaní prostriedkov na mzdy alebo platy, odvádza poistné a vyberá prostriedky na výplatu dávok prostredníctvom peňažného ústavu a jeho prostredníctvom predkladá aj krajskej odborovej rade výkaz poistného a dávok. Úhrady na poistné a dávky majú povahu úhrad na mzdy a platy.
+        - (1) Ak závod je organizáciou, ktorá odvádza poistné do štátneho rozpočtu alebo do rozpočtu národného výboru ako súčasť odvodu z hrubého dôchodku alebo zisku,*) ako súčasť odvodu dôchodkovej dane družstevných a iných organizácií**) alebo ako súčasť odvodu poľnohospodárskej dane,***) alebo je začlenený do takej organizácie, vykazuje príslušnej krajskej odborovej rade na predpísanom výkaze dávok len zúčtované dávky.
 
-        - (2) Peňažný ústav neuvoľní prostriedky na výplatu miezd a platov, ak nedostane zároveň pri ich výbere výkaz poistného a dávok. Ak je vykázané poistné vyššie než vykázané dávky, pripojí závod k výkazu realizovateľný príkaz na úhradu rozdielu v prospech krajskej odborovej rady. Ak sú však dávky vyššie než poistné, pripojí závod príkaz, ktorým si vyberie čiastku tohto rozdielu z účtu krajskej odborovej rady.
+        - (2) Závod predkladá výkaz dávok a vyberá si prostriedky na ich úhradu prostredníctvom pobočky Štátnej banky československej, v ktorej má účet prostriedkov nemocenského poistenia krajská odborová rada preňho príslušná. Výkaz dávok spolu so zodpovedajúcim prevodným príkazom je závod povinný predložiť tejto pobočke za každý kalendárny mesiac najneskôr v deň, ktorý je v závode určený na výplatu miezd a platov za mesiac, ktorého sa výkaz týka. Štátna banka československá nevykoná príkaz, ak nie je doložený výkazom dávok.
+
+        - (3) Ak závod vybral neprávom úhradu na dávky, ktoré nesmie podľa § 24 ods. 2 vykazovať a uhrádzať, krajská odborová rada mu platobným výmerom*) predpíše poistné vo výške neprávom vybratej úhrady. Toto poistné je závod povinný uhradiť v plnej výške najneskôr do 15 dní od doručenia platobného výmeru priamo krajskej odborovej rade v prospech účtu prostriedkov nemocenského poistenia.
+
+        - (4) Ustanovenia predchádzajúcich odsekov platia aj pre rozpočtové a príspevkové organizácie, v ktorých sa poistné vyrovnáva zodpovedajúcou úpravou ich rozpočtov.
 
       - § 26
 
-        - Závod, ktorý nepatrí medzi organizácie uvedené v § 25 ods. 1, je povinný predložiť krajskej odborovej rade výkaz poistného a dávok do 8 dní odo dňa zročnosti poistného. Ak je vykázané poistné vyššie než vykázané dávky, uhradí závod krajskej odborovej rade v tej istej lehote rozdiel. Ak sú však dávky vyššie než poistné, poukáže krajská odborová rada závodu rozdiel do 8 dní odo dňa doručenia výkazu.
+        - (1) Závod, na ktorý sa nevzťahuje § 25, je povinný sám vypočítať poistné za každý kalendárny mesiac a vykázať ho spolu s dávkami zúčtovanými za tento mesiac príslušnej krajskej odborovej rade na predpísanom výkaze poistného a dávok.
+
+        - (2) Výkaz poistného a dávok závod predkladá krajskej odborovej rade prostredníctvom pobočky Štátnej banky československej, v ktorej má závod svoj účet. Súčasne predkladá tejto pobočke príkaz na úhradu rozdielu medzi poistným a dávkami v prospech účtu prostriedkov nemocenského poistenia spravovaného príslušnou krajskou odborovou radou. Závod je povinný predložiť tieto doklady najneskôr v deň, ktorý je v závode určený na výplatu miezd a platov za mesiac, ktorého sa výkaz týka, prípadne ak tento deň nie je určený, najneskôr do 8 dní po uplynutí mesiaca, ktorého sa výkaz týka. Ak sú však dávky vyššie ako poistné, závod predkladá výkaz poistného a dávok pobočke Štátnej banky československej, v ktorej má účet príslušná krajská odborová rada, spolu s príkazom na úhradu rozdielu na ťarchu účtu prostriedkov nemocenského poistenia spravovaného krajskou odborovou radou.
+
+        - (3) Ak závod nemá účet v niektorej pobočke Štátnej banky československej, je povinný predložiť výkaz poistného a dávok priamo príslušnej krajskej odborovej rade najneskôr do 8 dní odo dňa splatnosti poistného, a najneskôr do tej istej lehoty jej uhradiť rozdiel, o ktorý poistné prevyšuje dávky. Ak sú dávky vyššie ako poistné, krajská odborová rada uhradí sumu vyplývajúcu v prospech závodu do 8 dní odo dňa, keď jej bol doručený výkaz.
+
+        - (4) Krajská odborová rada predpíše platobným výmerom závodu uvedenému v odseku 1 poistné, ak závod
+
+          - a) ho nevykázal vôbec alebo ho vypočítal a vykázal nesprávne nižšou sumou alebo
+
+          - b) neprávom odpočítal od poistného dávky, ktoré podľa § 24 ods. 2 nesmie vykazovať a uhrádzať, a neoprávnene tak skrátil odvod poistného.
+
+        - Ak závod neposkytne podklady potrebné na zistenie správnej výšky poistného, ktoré mal odviesť, môže mu krajská odborová rada predpísať poistné podľa pomerov v obdobnom závode približne rovnako veľkom. Predpísané poistné je závod povinný uhradiť najneskôr do 15 dní odo dňa doručenia platobného výmeru v plnej výške krajskej odborovej rade v prospech účtu prostriedkov nemocenského poistenia.
 
       - § 27 Prirážka k poistnému
 
-        - (1) Ak nevyhovuje zariadenie závodu podľa právoplatného rozhodnutia orgánu inšpekcie práce alebo orgánu odborného technického dozoru predpisom o bezpečnosti pri práci alebo podľa právoplatného rozhodnutia orgánmi štátnej zdravotnej správy predpisom zdravotníckym, môže okresná odborová rada závodu uložiť platenie prirážky k poistnému.
+        - (1) Ak zariadenie závodu nevyhovuje podľa právoplatného rozhodnutia orgánu dozoru nad bezpečnosťou a ochranou zdravia pri práci, predpisom na zaistenie bezpečnosti a ochrany zdravia pri práci alebo podľa právoplatného rozhodnutia orgánu štátnej zdravotníckej správy zdravotníckym predpisom alebo ak nie je podľa zistenia týchto orgánov inštalované alebo riadne v prevádzke zariadenie na ochranu pracovníkov, okresná odborová rada uloží závodu platenie prirážky k poistnému.
 
-        - (2) Prirážka sa ukladá až do 50 % sadzby poistného. Platí sa od prvého dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom došlo k rozhodnutiu o nedostatkoch v zariadení závodu. Ak sa určila lehota na odstránenie nedostatkov, platí sa prirážka od prvého dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom lehota bezvýsledne prešla. Povinnosť platiť prirážku zaniká uplynutím posledného dňa kalendárneho mesiaca, v ktorom nedostatky v zariadení závodu sa odstránili; odstránenie závod preukáže potvrdením orgánu, ktorý o nedostatkoch rozhodol.
+        - (2) Prirážka sa ukladá až do 5 % úhrnu miezd určeného podľa § 21. Platí sa od prvého dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom došlo k rozhodnutiu alebo k zisteniu o nedostatkoch v zariadení závodu. Ak bola určená lehota na odstránenie nedostatkov, platí sa prirážka k poistnému od prvého dňa kalendárneho mesiaca, v ktorom lehota bezvýsledne uplynula. Povinnosť platiť prirážku zaniká uplynutím posledného dňa kalendárneho mesiaca, v ktorom boli odstránené nedostatky v zariadení závodu; preukaz o tom sa podáva potvrdením orgánu, ktorý o nedostatkoch rozhodol.
 
-        - (3) Uloženú prirážku je závod povinný vykazovať a uhradzovať pravidelne za každý kalendárny mesiac spolu s poistným príslušnej krajskej odborovej rade.
+        - (3) Uloženú prirážku závod je povinný uhrádzať za každý kalendárny mesiac priamo príslušnej krajskej odborovej rade v prospech účtu prostriedkov nemocenského poistenia.
 
-        - (4) Pre prirážku k poistnému platia obdobne ustanovenia o poistnom.
+        - (4) Pre prirážku k poistnému inak obdobne platia ustanovenia § 21 až 23 a § 28 až 34.
 
-      - § 28 Penále pre nezaplatenie poistného
+      - § 28 Penále
 
-        - Ak nezaplatí závod zročné poistné alebo rozdiel medzi vykázaným poistným a vykázanými dávkami do 8 dní odo dňa zročnosti, je povinný platiť penále vo výške 0,05% za každý deň meškania odo dňa zročnosti, najmenej však celkom sumu 10 Kčs; toto penále je povinný závod platiť aj vtedy, ak sa poistné predpísalo platobným výmerom.
+        - (1) Ak závod neuhradil do 8 dní odo dňa splatnosti poistné, ktoré je podľa predchádzajúcich ustanovení povinný za jednotlivé kalendárne mesiace uhrádzať krajskej odborovej rade, alebo neuhradil rozdiel medzi vykázaným poistným a vykázanými dávkami do 8 dní odo dňa splatnosti poistného, je povinný platiť penále vo výške 0,05 % za každý deň omeškania odo dňa splatnosti, najmenej však v jednom prípade meškania sumu 10 Kčs.
+
+        - (2) S poistným predpísaným platobným výmerom (§ 25 ods. 3 a § 26 ods. 4) je závod povinný zaplatiť penále z predpísanej sumy vo výške 0,05 % za každý deň odo dňa, keď došlo k skráteniu poistného, prípadne odo dňa jeho pôvodnej splatnosti až do dňa, keď krajskej odborovej rade bola platba zúčtovaná na jej účet, najmenej však sumu 10 Kčs za každý predpis.
+
+        - (3) Ak závod v určenej lehote nezašle riadne vyplnený výkaz dávok (§ 25) alebo výkaz poistného a dávok (§ 26), môže mu krajská odborová rada predpísať platobným výmerom penále vo výške od 20 Kčs do 200 Kčs.
+
+        - (4) Pre penále podľa predchádzajúcich odsekov, ako aj pre penále podľa iných ustanovení tohto opatrenia (§ 13 ods. 4, § 50 ods. 3) platia ustanovenia o vykazovaní nedoplatkov, o vykonateľnosti, vymáhaní, premlčaní a vracaní poistného (§ 29 až 34).
 
       - § 29 Výkaz nedoplatkov poistného
 
@@ -575,3 +591,9 @@
         - (1) Ustanovenia tohto opatrenia o opravnom konaní v dávkových veciach nemocenského poistenia (§§ 39 až 42) platia i pre konanie o opravných prostriedkoch proti rozhodnutiam odborových orgánov v dávkových veciach vydaným pred 1. januáraom 1961, o ktorých do tohto dňa sa nerozhodlo. Ak sa však opravný prostriedok proti rozhodnutiam odborového orgánu pred 1. januárom 1961 už predložil krajskému výboru odborového sväzu, rozhodne o ňom tento krajský výbor.
 
         - (2) Rozhodnutia a úpravy vykonané pred 1. januárom 1961 v zhode s ustanoveniami tohto opatrenia považujú sa za vykonané podľa tohto opatrenia.
+
+  - Čl. II
+
+    - 1. Vykazovanie, zúčtovanie a úhrada dávok a poistného sa uskutočňuje podľa tohto opatrenia začínajúc dávkami a poistným zúčtovanými v zúčtovacej a výplatnej listine za mesiac január 1967.
+
+    - 2. Ustanovenie § 27 o prirážke k poistnému v znení tohto opatrenia sa použije prvý raz pre prirážku k poistnému za mesiac január 1967.
