@@ -28,7 +28,7 @@
 
 - 9a) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
-- 9b) § 2 ods. 1 písm. b) nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení neskorších predpisov.
+- 9b) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení neskorších predpisov.
 
 - 10) § 16 písm. a) bod 3 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.§ 37 ods. 1 až 3 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
 
