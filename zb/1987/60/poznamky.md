@@ -1,1 +1,0 @@
-- 2) Podrobnosti vyhotovenia značiek ustanovuje ČSN 01 0810.
