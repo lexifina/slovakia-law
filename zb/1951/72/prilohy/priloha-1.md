@@ -1,0 +1,1 @@
+- Kresba hliníkového päťdesiatnika: ![Obrázok 01](../assets/a951e6e75d9b624481a3b16caa4f0a07a5883cf6461ab9eae0b5da3daacabcdb.png)
