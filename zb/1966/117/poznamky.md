@@ -11,9 +11,3 @@
 - § 93 ods. 1 zákona č. 103/1964 Zb. a
 
 - § 25 č. 9 vyhlášky č. 105/1964 Zb.
-
-- ***) § 55 ods. 1 zákona č. 101/1964 Zb. o sociálnom zabezpečení.
-
-- § 93 ods. 1 zákona č. 103/1964 Zb. o sociálnom zabezpečení družstevných roľníkov a
-
-- § 25 č. 9 vyhlášky č. 105/1964 Zb. o dôchodkovom poistení jednotlivo hospodáriacich roľníkov a iných samostatne hospodáriacich osôb a o poskytovaní zaopatrovacieho príspevku členom ich rodín.
