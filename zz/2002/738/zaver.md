@@ -4,7 +4,7 @@ podpredseda vlády a minister financií
 
 Príloha č. 1 k opatreniu č. 21 832/2002-92
 
-[Súvaha](assets/c8aacbf0d9d94c503ea785cf8368e35135020b36615506f023ae7c06893495bf.pdf)
+[Súvaha](assets/414f7b54b9ff48998f4b0a9b1de1eb1b326d756f7bfac6093e1ba0a9ed5d0948.pdf)
 
 Príloha č. 2 k opatreniu č. 21 832/2002-92
 
