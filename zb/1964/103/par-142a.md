@@ -1,3 +1,7 @@
+## Druhý diel
+
+## Záverečné ustanovenia
+
 # § 142a
 
 Vláda môže v súlade s dlhodobým programom spoločenskej starostlivosti o rodiny s nezaopatrenými deťmi

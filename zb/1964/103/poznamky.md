@@ -14,6 +14,8 @@
 
 - *) § 37 zákona č. 101/1964 Zb.
 
+- *) Podľa § 1 ods. 1 č. 1 písm. f) zákona č. 255/1946 Zb. je účastníkom povstania, kto sa zúčastnil povstania v máji 1945, pričom za bojov padol, bol ťažko zranený alebo utrpel ťažkú poruchu zdravia.
+
 - *) Zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky.
 
 - **) Nárok na zaopatrovací príspevok členov rodiny družstevníka, ktorý popri svojej činnosti v družstve vykonáva zamestnanie v pracovnom pomere, posudzuje sa podľa zákona č. 101/1964 Zb. o sociálnom zabezpečení.
