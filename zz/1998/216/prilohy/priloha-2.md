@@ -94,9 +94,7 @@ Príloha č. 2 k nariadeniu vlády č. 216/1998 Z. z.
 
           - d) na plochách určených na bytovú výstavbu vo Vysokých Tatrách, v ich mestskej časti Dolný Smokovec v lokalite Pod lesom a v miestnej časti Tatranská Štrba v lokalite Pod Lieskovcom,
 
-          - e) na plochách ochranných obvodov na dobudovanie stredísk štátnych lesov Tatranského národného parku stavbami na prevádzkovú a hospodársku činnosť bez stavieb na bývanie s výnimkou dobudovania služobných bytov v ochrannom obvode Fľak v katastrálnom území Tatranská Lomnica a v ochrannom obvode Dolný Smokovec,
-
-          - f) nachádzajúcich sa v katastrálnom území Vysoké Tatry,
+          - e) na plochách ochranných obvodov na dobudovanie stredísk štátnych lesov Tatranského národného parku stavbami na prevádzkovú a hospodársku činnosť bez stavieb na bývanie s výnimkou dobudovania služobných bytov v ochrannom obvode Fľak v katastrálnom území Tatranská Lomnica a v ochrannom obvode Dolný Smokovec nachádzajúcom sa v katastrálnom území Starý Smokovec,
 
         - 2.3.2 nezvyšovať počet lôžok novými ubytovacími zariadeniami a ani prístavbou, nadstavbou v existujúcich ubytovacích zariadeniach okrem lôžok na plochách s rekreačnou funkciou v miestnej časti Tatranská Štrba v lokalite Lieskovec,
 
