@@ -108,7 +108,7 @@ Príloha č. 2 k vyhláške č. 207/2000 Z. z.
 
 - n počet balení vo výbere určenom na túto kontrolu,
 
-- s odhad smerodajnej odchýlky od skutočných obsahov v dávke,
+- s odhad smerodajnej odchýlky skutočných obsahov v dávke,
 
 - t<sub>(1- α)</sub> Studentov t - faktor závislý od počtu stupňov voľnosti ν = n - 1 a pravdepodobnosti (1 - α) = 0,995.
 
@@ -138,7 +138,7 @@ Príloha č. 2 k vyhláške č. 207/2000 Z. z.
 
 - d) odhad rozptylu:
 
-- ![Vzorec 02-8](../assets/61645acc7d62dfc99e698bc3e12d420eee15ad008c74fb541c7d37315701d059.png)
+- ![Vzorec 02-8](../assets/464c5b1535fb9ad997adb78bbcbc77cab03d09053c41498df910d35a2b2e77cc.png)
 
 - Odhad smerodajnej odchýlky:
 

@@ -1,129 +1,73 @@
-Príloha č. 7
+Príloha č. 6
 
 k vyhláške č. 207/2000 Z. z.
 
-REFERENČNÉ METÓDY KONTROLY ODMERNÝCH NÁDOB
+POŽIADAVKY NA ODMERNÉ NÁDOBY
 
-1. Metódy výberu
+1. Odmerné nádoby sa charakterizujú nasledujúcimi objemami, ktoré sa špecifikujú vždy pri teplote 20 <sup>o</sup>C:
 
-Výber sú vzorky odmerných nádob toho istého vzoru a toho istého výrobcu; musia byť vybraté z dávky, ktorá v princípe zodpovedá hodinovej produkcii.
+1.1 Menovitý objem V<sub>n</sub> je objem vyznačený na nádobe. Je to objem kvapaliny, ktorý má nádoba obsahovať, ak je naplnená za podmienok použitia, pre ktoré je určená.
 
-Ak výsledok kontroly z dávky zodpovedajúcej hodinovej produkcii nie je uspokojivý, možno vykonať druhú skúšku na základe
+1.2 Celkový objem nádoby je objem kvapaliny v nádobe naplnenej po okraj.<sup>1</sup>)
 
-a) výberu z dávky zodpovedajúcej dlhšiemu času produkcie, alebo
+1.3 Skutočný objem nádoby je objem kvapaliny, ktorý nádoba skutočne obsahuje, keď je naplnená presne za podmienok zodpovedajúcich teoreticky menovitému objemu.
 
-b) výsledkov zaznamenaných na kontrolných kartách výrobcu, ak sa kontrola výroby vykonáva postupom schváleným úradom.
+1.4 Hĺbka hladiny je zvislá vzdialenosť hladiny zodpovedajúcej menovitému objemu od horného okraja nádoby.
 
-Počet odmerných nádob vo výbere musí byť 35 alebo 40 v závislosti od toho, ktorá z dvoch metód spracovania výsledkov uvedených v bode 3 sa použije.
+2. Odmerné nádoby sa plnia dvojakým spôsobom, a to na konštantnú
 
-2. Meranie objemu odmerných nádob vo výbere
+a) výšku hladiny alebo
 
-Odmerné nádoby sa odvážia prázdne. Naplnia sa vodou s teplotou 20 <sup>o</sup>C známej hustoty až po hladinu zodpovedajúcu použitej metóde kontroly. Po naplnení sa odmerné nádoby odvážia. Kontrola sa vykoná určenými meradlami vhodnými na tieto účely. Chyba merania objemu nesmie byť väčšia ako 1/5 najväčšej dovolenej chyby zodpovedajúcej menovitému objemu odmernej nádoby.
+b) hĺbku hladiny.
 
-3. Spracovanie výsledkov
+Nádoby rovnakého typu musia mať hĺbku hladiny, ako aj veľkosť expanzného objemu dostatočne konštantnú.
 
-3.1 Metóda smerodajnej odchýlky.
+3. Aby bolo možné za predpokladu bežných neistôt pri plnení merať objem obsahu odmernej nádoby s dostatočnou presnosťou a najmä s presnosťou požadovanou v prílohe č. 2 k tejto vyhláške, odmerné nádoby musia spĺňať požiadavku najväčšej dovolenej chyby. Najväčšie dovolené chyby objemu odmernej nádoby, t. j. najväčšie dovolené rozdiely medzi menovitým objemom Vn a skutočným objemom nádoby pri teplote 20 <sup>o</sup>C a za podmienok kontroly ustanovených v prílohe č. 7 sú uvedené v tejto tabuľke:
 
-Počet odmerných nádob vo výbere je 35.
+Menovitý objem V<sub>n</sub> v ml | | | | Najväčšie dovolené chyby |
 
-3.1.1 Vypočítajú sa (pozri bod 3.1.4):
+| | | | v % z V<sub>n</sub> | v ml
 
-3.1.1.1 Výberový priemer x zo skutočných objemov x<sub>i</sub> nádob vo výbere.
+od | 50 | do | 100 | - | ± 3
 
-3.1.1.2 Odhad smerodajnej odchýlky s od skutočných objemov x<sub>i</sub> nádob v dávke.
+od | 100 | do | 200 | ± 3 | -
 
-3.1.2 Vypočítajú sa:
+od | 200 | do | 300 | - | ± 6
 
-3.1.2.1 Horná hranica T<sub>s</sub>: súčet vyznačeného objemu (pozri prílohu č. 6, bod 8) a najväčšej dovolenej chyby zodpovedajúcej tomuto objemu.
+od | 300 | do | 500 | ± 2 | -
 
-3.1.2.2 Dolná hranica T<sub>i</sub>: rozdiel medzi vyznačeným objemom (pozri prílohu č. 6, bod 8) a najväčšou dovolenou chybou zodpovedajúcou tomuto objemu.
+od | 500 | do | 1 000 | - | ± 10
 
-3.1.3 Kritériá prijatia:
+od | 1 000 | do | 5000 | ± 1 | -
 
-Dávka sa považuje za vyhovujúcu požiadavkám tejto vyhlášky, ak čísla x a s súčasne vyhovujú týmto trom nerovnostiam:
+Najväčšia dovolená chyba celkového objemu nádoby je rovnaká ako najväčšia dovolená chyba zodpovedajúceho menovitého objemu.
 
-![Vzorec 07-1](../assets/3e10a8e9f086329e96d734982cffbd842c942c667fcdd6afe35df9865f7d2ebf.png)
+4. V praxi sa skutočný objem nádoby kontroluje určením množstva vody pri teplote 20 <sup>o</sup>C, ktoré nádoba skutočne obsahuje, ak je naplnená po hladinu teoreticky zodpovedajúcu menovitému objemu. Kontrolu možno vykonať aj nepriamo ekvivalentnou metódou.
 
-kde k = 1,57 a F = 0,266.
+5. Každý výrobca odmerných nádob predkladá úradu na schválenie značku, ktorá umožňuje jeho identifikáciu.
 
-3.1.4 Výpočet výberového priemeru x a odhadu smerodajnej odchýlky dávky
+Úrad schválenie značky oznamuje orgánom Európskych spoločenstiev a členským štátom Európskych spoločenstiev, ak tak ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná.
 
-Vypočítajú sa:
+Výrobca na svoju zodpovednosť umiestňuje značku Európskych spoločenstiev označujúcu meradlo, ktoré nepodlieha schváleniu typu. Značka musí byť vysoká minimálne 3 mm.
 
-a) suma z 35 meraní skutočných objemov x<sub>i</sub>: Σx<sub>i</sub>
+6. Slovenský metrologický inšpektorát (ďalej len „metrologický inšpektorát“) kontroluje, či odmerné nádoby vyhovujú ustanoveniam tejto vyhlášky. Kontrola sa vykonáva odoberaním vzoriek odmerných nádob priamo u výrobcu alebo v prevádzke dovozcu.
 
-b) výberový priemer z 35 meraní
+Táto štatistická kontrola vzoriek sa vykonáva v súlade s prijatými metódami kontroly kvality. Jej účinnosť má byť porovnateľná s účinnosťou kontroly vykonanej referenčnou metódou špecifikovanou v prílohe č. 7.
 
-![Vzorec 07-2](../assets/c4e77cc6f633d4d1cf7fa0d77ff8dab9960b8df1145243c9de86128a53ad78a2.png)
+7. Výkonom dozoru metrologickým inšpektorátom nie je dotknutá pôsobnosť ostatných orgánov štátnej správy vykonávať kontrolu odmerných nádob v ľubovoľnej etape uvádzania na trh podľa osobitných predpisov.
 
-c) suma štvorcov z 35 meraní
+8. Na odmerných nádobách musia byť vyznačené nezmazateľné, viditeľné a ľahko čitateľné tieto údaje:
 
-![Vzorec 07-3](../assets/37b6c130ff8c68ec867304e72119228c0b4cb6c99e0f768b3e808be4b16e48b0.png)
+8.1 Na boku, na spodnom okraji alebo na dne:
 
-d) štvorec sumy z 35 meraní (Σ x<sub>i</sub>)<sup>2</sup>, potom
+8.1.1 Údaj o menovitom objeme vyjadrený v litroch, centilitroch alebo mililitroch vyznačený číslicami s výškou najmenej 6 mm, ak je menovitý objem väčší ako 100 cl, 4 mm, ak je v rozsahu nad 20 cl do 100 cl vrátane, a 3 mm, ak je menovitý objem do 20 cl vrátane. Za touto číslicou nasleduje symbol jednotky, prípadne jej názov.
 
-![Vzorec 07-4](../assets/a6626be8a16072a1768b04abfdf914dc9b16660ce1598654bdde21faaa8e683e.png)
+8.1.2 Identifikačná značka výrobcu.
 
-e) korigovaný súčet:
+8.1.3 Značka Európskych spoločenstiev označujúca meradlo, ktoré nepodlieha schváleniu typu, je uvedená v osobitnom predpise.
 
-![Vzorec 07-5](../assets/7aac740e8bd9f9d0c0f169d3a2bff063cd2336a12a5c1b306dabfc4437edbe55.png)
+8.2 Na dne alebo na spodnom okraji musia byť vyznačené ďalšie údaje v závislosti od metódy alebo metód plnenia, na ktorú je odmerná nádoba určená, a to tak, aby nedošlo k ich zámene s údajmi o menovitom objeme, pričom číslice vyznačujúce tieto údaje musia byť minimálne také vysoké ako číslice menovitého objemu:
 
-f) odhad rozptylu:
+8.2.1 Hodnota celkového objemu vyjadrená v centilitroch, avšak bez symbolu „cl“ a/alebo
 
-![Vzorec 07-6](../assets/aa100d8594169bce7c919a0c869b25f1c2311138d957db41320725e8a7254d18.png)
-
-Odhad smerodajnej odchýlky:
-
-![Vzorec 07-7](../assets/b6e4627e4f2a73e64a5b59becbd6c6f412984398b7b2f5d2ea2e45ed9bbb8235.png)
-
-3.2 Metóda priemerného rozpätia
-
-Počet odmerných nádob vo výbere je 40.
-
-3.2.1 Vypočítajú sa (pozri bod 3.2.4):
-
-3.2.1.1 Výberový priemer x skutočných objemov x<sub>i</sub> nádob vo výbere.
-
-3.2.1.2 Priemerné rozpätie R skutočných objemov x<sub>i</sub> nádob vo výbere.
-
-3.2.2 Vypočítajú sa:
-
-3.2.2.1 Horná hranica T<sub>s</sub>: súčet vyznačeného objemu (pozri prílohu č. 6, bod 8) a najväčšej dovolenej chyby zodpovedajúcej tomuto objemu.
-
-3.2.2.2 Dolná hranica T<sub>i</sub>: rozdiel medzi vyznačeným objemom (pozri prílohu č. 6, bod 8) a najväčšou dovolenou chybou zodpovedajúcou tomuto objemu.
-
-3.2.3 Kritériá prijatia:
-
-Dávka sa považuje za vyhovujúcu požiadavkám tejto vyhlášky, ak čísla x a R súčasne vyhovujú týmto trom nerovnostiam:
-
-![Vzorec 07-8](../assets/e9261674d3febbd8a4f22f60d8d727a7895a039719193d0411c04c6f99286e58.png)
-
-kde k' = | 0,668
-
-a F' = | 0,628
-
-3.2.4 Výpočet výberového priemeru x a priemerného rozpätia R zo 40 odmerných nádob vo výbere.
-
-3.2.4.1 Postup výpočtu hodnoty x:
-
-a) suma zo 40 meraní skutočných objemov x <sub>i</sub>: Σ x<sub>i</sub>
-
-b) výberový priemer z týchto 40 meraní
-
-![Vzorec 07-9](../assets/e9261674d3febbd8a4f22f60d8d727a7895a039719193d0411c04c6f99286e58.png)
-
-3.2.4.2 R sa vypočíta delením výberu v chronologickom poradí, vznikne 8 podvýberov, v každom z nich je 5 odmerných nádob.
-
-Postup výpočtu:
-
-a) rozpätie v každom podvýbere, t. j. rozdiel medzi skutočným objemom najväčšej a najmenšej z 5 odmerných nádob v podvýbere; získa sa tak 8 rozpätí:
-
-R<sub>1</sub>; R<sub>2</sub>; ....; R<sub>8</sub>
-
-b) suma rozpätí z 8 podvýberov:
-
-Σ R<sub>i</sub> = R<sub>1</sub> + R<sub>2</sub> + .... + R<sub>8</sub>.
-
-Priemerné rozpätie R je potom:
-
-![Vzorec 7-10](../assets/a526575b4ec6059ad7d3e7d29fb83034a1dda3030ffd54ebb82965405b261de9.png)
+8.2.2 Hodnota hĺbky hladiny vyjadrená v milimetroch, za ktorou nasleduje symbol „mm“. Na nádobe môžu byť vyznačené aj iné údaje za predpokladu, že nespôsobia zámenu s povinnými údajmi.

@@ -1,69 +1,61 @@
-Príloha č. 5 k vyhláške č. 207/2000 Z. z.
+Príloha č. 5 k vyhláške č. 207/2000 Z. z. RAD OBJEMOV PEVNÝCH OBALOVÝCH NÁDOB
 
-- A. HODNOTY DOVOLENÝCH OBJEMOV PEVNÝCH OBALOV PRE DRUHY VÝROBKOV V OZNAČENÝCH SPOTREBITEĽSKÝCH BALENIACH Druh výrobku | | Objem obalu (ml)
+1. Konzervy a polokonzervy v plechovkách a v sklených obalových nádobách: rastlinné/zeleninové výrobky (ovocie, zelenina, paradajky, zemiaky; okrem špargle, polievok, ovocných alebo zeleninových štiav a ovocných nektárov) určené na konzumáciu
 
-- 1. | Konzervy a polokonzervy v plechovkách a v sklených pohároch: rastlinné výrobky (ovocie, zelenina, paradajky, zemiaky okrem špargle, polievok, ovocných a zeleninových štiav a ovocných nektárov) určené na konzumáciu |
+1.1 Plechovky a sklenené obalové nádoby (objem v ml)
 
-- 1.1 | plechovky a sklené poháre | 106 - 156 - 212 - 228 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1 062 - 1 700 - 2 650 - 3 100 - 4 250 - 10 200
+106 - 156 - 212 - 228 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1 062 - 1 700 - 2 650 - 3 100 - 4 250 - 10 200.
 
-- 1.2 | dovolené objemy pre vybrané výrobky |
+1.2 Objemy vybraných výrobkov (objem v ml)
 
-- 1.2.1 | hľuzovky | 26 - 53 - 71 - 106 - 212 - 425 - 720 - 850
+1.2.1 Hľuzovky: 26 - 53 - 71 - 106 - 212 - 425 - 720 - 850,
 
-- 1.2.2 | paradajkový koncentrát | 71 - 142 - 212 - 370 - 425 - 720 - 850 - 3 100 - 4 250
+1.2.2 Rajčiakové koncentráty: 71 - 142 - 212 - 370 - 425 - 720 - 850 - 3 100 - 4 250,
 
-- 1.2.3 | paradajky šúpané alebo nešúpané | 236 - 370 - 425 - 720 - 850 - 2 650 - 3 100
+1.2.3 Rajčiaky lúpané alebo nelúpané: 236 - 370 - 425 - 720 - 850 - 2 650 - 3 100,
 
-- 1.2.4 | ovocné koktaily a kompóty | 106 - 156 - 212 - 228 - 236 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1 062 - 1 700 - 2 650 - 3 100 - 4 250 - 10 200
+1.2.4 Ovocné koktaily, kompóty: 106 - 156 - 212 - 228 - 236 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1 062 - 1 700 - 2 650 - 3 100 - 4 250 - 10 200.
 
-- 2. | Nesušená potrava pre mačky a psov | 212 - 228 - 314 - 425 - 446 - 850 - 1 062 - 1 700 - 2 650
+2. Krmivo pre domáce mačky a psov (okrem suchého) (objem v ml)
 
-- 3. | Práškové pracie a čistiace prostriedky | škatule:
+212 - 228 - 314 - 425 - 446 - 850 - 1 062 - 1 700 - 2 650.
 
-- | | 375 - 750 - 1 500 - 2 250 - 3 750 - 7 700 - 11 450 - 15 200 - 18 950 - 22 700
+3. Prostriedky na umývanie, pranie a čistenie v práškovej forme
 
-- | | valcové škatule:
+Objemy pevných obalov:
 
-- | | 3 950 - 7 700 - 11 450 - 15 200 - 18 950 - 22 700
+Označenie lepenkových krabíc: | Objem v ml
 
-- B. HODNOTY OBJEMOV PRE VÝROBKY PREDÁVANÉ V AEROSOLOVOM BALENÍ OKREM VÝROBKOV UVEDENÝCH V BODE 4 PÍSM. d) PRÍLOHY Č. 4 A MEDICÍNSKYCH VÝROBKOV
+E 0,5 | 375
 
-- Výrobky predávané v aerosolovom balení vyhovujúce požiadavkám tejto vyhlášky nemusia byť označené údajom o menovitej hmotnosti ich obsahu.
+E 1 | 750
 
-- 1. Výrobky predávané v kovových obaloch
+E2 | 1 500
 
-- Objem kvapalnej fázy (ml) | Objem obalu (ml) pre |
+E3 | 2 250
 
-- | výrobky hnané skvapalneným plynom | a) výrobky hnané len stlačenými plynmi
+E5 | 3 750
 
-- | | b) výrobky hnané len oxidom dusným alebo len oxidom uhličitým alebo ich zmesou, ak Bunsenov koeficient výrobku nepresahuje 1,2
+E 10 | 7 700
 
-- 25 | 40 | 47
+E 15 | 11 450
 
-- 50 | 75 | 89
+E 20 | 15200
 
-- 75 | 110 | 140
+E 25 | 18950
 
-- 100 | 140 | 175
+ESO | 22700
 
-- 125 | 175 | 210
+Označenie bubnov: |
 
-- 150 | 210 | 270
+E5 | 3 950
 
-- 200 | 270 | 335
+E 10 | 7 700
 
-- 250 | 335 | 405
+E 15 | 11 450
 
-- 300 | 405 | 520
+E 20 | 15 200
 
-- 400 | 520 | 650
+E 25 | 18 950
 
-- 500 | 650 | 800
-
-- 600 | 800 | 1 000
-
-- 750 | 1 000 | -
-
-- 2. Výrobky predávané v priehľadných alebo nepriehľadných sklených alebo plastových obaloch
-
-- Objem kvapalnej fázy (ml): 25 - 50 - 75 - 100 - 125 - 150
+ESO | 22 700.
