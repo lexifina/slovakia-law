@@ -4,7 +4,7 @@
 
 (2) Žiadosť o zaradenie zdravotníckej pomôcky do zoznamu zdravotníckych pomôcok musí obsahovať
 
-- a) meno a priezvisko alebo obchodné meno a adresu držiteľa rozhodnutia o schválení zdravotníckej pomôcky, a ak je ustanovený splnomocnený zástupca, aj meno a priezvisko alebo obchodné meno a adresu splnomocneného zástupcu,
+- a) meno a priezvisko alebo obchodné meno a adresu výrobcu zdravotníckej pomôcky, a ak je ustanovený splnomocnený zástupca, aj meno a priezvisko alebo obchodné meno a adresu splnomocneného zástupcu,
 
 - b) názov zdravotníckej pomôcky,
 
@@ -20,7 +20,7 @@
 
 - h) návod na použitie zdravotníckej pomôcky,
 
-- i) údaj o doterajšej úhrade na základe zdravotného poistenia,
+- i) údaj o doterajšej úhrade na základe povinného zdravotného poistenia,
 
 - j) cenu od výrobcu v zahraničí v príslušnej národnej mene, ak je zdravotnícka pomôcka registrovaná
 
@@ -50,7 +50,7 @@
 
   - 3. nová zdravotnícka pomôcka bez väčších výhod oproti existujúcim alternatívnym zdravotníckym pomôckam,
 
-- l) návrh úhrady na základe zdravotného poistenia,
+- l) návrh úhrady na základe povinného zdravotného poistenia,
 
 - m) návrh preskripčných obmedzení na
 

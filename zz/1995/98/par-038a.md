@@ -20,7 +20,7 @@
 
 - g) údaj o maximálnej cene od výrobcu schválenej Ministerstvom financií Slovenskej republiky a prepočet na maximálnu cenu v lekárni,
 
-- h) údaj o doterajšej úhrade na základe zdravotného poistenia,
+- h) údaj o doterajšej úhrade na základe povinného zdravotného poistenia,
 
 - i) cenu od výrobcu v zahraničí v príslušnej národnej mene, ak je liek registrovaný
 
@@ -50,7 +50,7 @@
 
   - 3. generický liek,<sup>26b</sup>)
 
-- k) návrh úhrady na základe zdravotného poistenia,
+- k) návrh úhrady na základe povinného zdravotného poistenia,
 
 - l) návrh preskripčných obmedzení na
 
@@ -85,3 +85,5 @@
 - b) prehľadné články z odbornej literatúry.
 
 (5) Osoba uvedená v odseku 1 môže požiadať o vyradenie lieku zo zoznamu liekov; v žiadosti o vyradenie lieku zo zoznamu liekov uvedie dôvody vyradenia.
+
+(6) Žiadateľ pred vydaním zoznamu liekov navrhuje cenu lieku od výrobcu prepočítanú na maximálnu cenu lieku v lekárni; táto cena lieku, ktorá nesmie byť vyššia ako maximálna cena lieku od výrobcu prepočítaná na maximálnu cenu lieku v lekárni, sa uvedie v zozname liekov.

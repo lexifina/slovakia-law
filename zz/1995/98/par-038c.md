@@ -40,7 +40,7 @@
 
 - e) s prihliadnutím na vyššie uvedené kritériá.
 
-(3) Dôvodom na nezaradenie do zoznamu liekov, prípadne na vyradenie lieku zo zoznamu liekov môže byť okrem nesplnenia podmienok podľa odseku 2
+(3) Dôvodom na nezaradenie do zoznamu liekov na zmenu zaradenia v zozname liekov, prípadne na vyradenie lieku zo zoznamu liekov môže byť okrem nesplnenia podmienok podľa odseku 2
 
 - a) zaradenie lieku medzi lieky, ktorých výdaj nie je viazaný na lekársky predpis,
 
@@ -51,3 +51,7 @@
 - d) nepredĺženie registrácie lieku podľa osobitného predpisu.<sup>26c</sup>)
 
 (4) O vyradení lieku zo zoznamu liekov môže ministerstvo rozhodnúť podľa odseku 3 písm. a), b) a d) aj bez návrhu žiadateľa.
+
+(5) O zmene zaradenia lieku v zozname liekov môže ministerstvo rozhodnúť podľa odsekov 1 a 2 a odseku 3 písm. a) a b) aj bez návrhu žiadateľa.
+
+(6) Ak výrobca zvýši navrhnutú cenu lieku podľa § 38a ods. 6 uvedenú v zozname liekov, ministerstvo vyradí liek zo zoznamu liekov.

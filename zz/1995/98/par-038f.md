@@ -10,9 +10,9 @@
 
   - 3. malé zlepšenie liečebného procesu charakterizované zvýšením pohodlnosti použitia alebo doplnením funkčných vlastností,
 
-  - 4. bez prínosu pre liečebný proces s možnosťou úhrady na základe zdravotného poistenia,
+  - 4. bez prínosu pre liečebný proces s možnosťou úhrady na základe povinného zdravotného poistenia,
 
-  - 5. bez prínosu pre liečebný proces s odmietnutím úhrady na základe zdravotného poistenia,
+  - 5. bez prínosu pre liečebný proces s odmietnutím úhrady na základe povinného zdravotného poistenia,
 
 - b) podpora stabilizácie zdravotného stavu alebo jeho výrazné zlepšenie, alebo vylúčenie jeho zhoršenia s prihliadnutím na
 
@@ -34,7 +34,7 @@
 
   - 4. odhadu celkových nákladov,
 
-  - 5. odhadu mesačných úspor finančných prostriedkov zo zdravotného poistenia,
+  - 5. odhadu mesačných úspor finančných prostriedkov z povinného zdravotného poistenia,
 
   - 6. odhadu prospechu pre pacienta (najmä zlepšenie kvality života, zachránené roky života, získané roky života, odpútanie od lôžka, samostatnosť základných životných úkonov).
 
@@ -47,3 +47,5 @@
 - c) návrh žiadateľa o vyradenie.
 
 (3) O vyradení zdravotníckej pomôcky zo zoznamu zdravotníckych pomôcok môže ministerstvo rozhodnúť podľa odseku 2 aj bez návrhu žiadateľa.
+
+(4) O zmene zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok môže ministerstvo rozhodnúť podľa odseku 1 aj bez návrhu žiadateľa.
