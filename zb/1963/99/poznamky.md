@@ -4,8 +4,6 @@
 
 - 1aa) Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
 
-- 1b) Obchodný zákonník v znení neskorších predpisov.
-
 - 2) § 476 a nasl. Obchodného zákonníka.
 
 - 3) § 591 a nasl. Obchodného zákonníka.
@@ -29,10 +27,6 @@
 - 12) § 720 a nasl. Obchodného zákonníka.
 
 - 13) § 725 a nasl. Obchodného zákonníka.
-
-- 14) Zákon č. 63/1991 Zb. o ochrane hospodárskej súťaže.
-
-- 15) § 44 a nasl. Obchodného zákonníka.
 
 - 15a) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení zákona č. 465/2002 Z. z. a zákona č. 204/2004 Z. z.
 
@@ -59,8 +53,6 @@
 - 22) § 231 ods. 4 Obchodného zákonníka.
 
 - 23) § 20 – 23 zákona č. 98/1963 Zb. o rozhodcovskom konaní v medzinárodnom obchodnom styku a o výkone rozhodcovských rozhodnutí.
-
-- 24) § 37 ods. 1 a 2 zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom.
 
 - 25) § 68 ods. 3 Obchodného zákonníka.
 
