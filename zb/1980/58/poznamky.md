@@ -1,1 +1,0 @@
-- 1) § 360a ods. 1 až 3 Hospodárskeho zákonníka č. 109/1964 Zb. v znení uverejnenom pod č. 37/1971 Zb.
