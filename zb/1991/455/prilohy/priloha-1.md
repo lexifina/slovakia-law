@@ -1,37 +1,143 @@
-Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
+Príloha č. 1 zákona č. 455/1991 Zb.
 
-- REMESELNÉ ŽIVNOSTI Por. č. | Živnosť | Zoznam
+- REMESELNÉ ŽIVNOSTI
 
-- SKUPINA | 101 - Výroba kovov a kovových výrobkov |
+  - SKUPINA 101: Výroba kovov a kovových výrobkov
 
-- 1. 2. 3. | Zámočníctvo Nástrojárstvo Kovoobrábanie | I I I
+  - Kováčstvo
 
-- SKUPINA | 103 - Výroba motorových a ostatných dopravných prostriedkov |
+  - Zámočníctvo
 
-- 6. 7. 8. | Opravy pracovných strojov Diagnostika a opravy cestných motorových vozidiel Opravy karosérií | I I I
+  - Výroba nástrojov
 
-- SKUPINA | 104 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín |
+  - Brúsenie a leštenie kovov s výnimkou brúsenia nožov, nožníc a jednoduchých nástrojov
 
-- 11. | Hodinárstvo | I
+  - Kovoobrábanie
 
-- SKUPINA | 106 - Výroba a spracovanie kameniva a zemín, keramika |
+  - Galvanizácia kovov
 
-- 12. | Kamenárstvo | I
+  - Zlievanie železných aj neželezných obyčajných kovov
 
-- SKUPINA | 108 - Výroba potravín a nápojov |
+  - Smaltovanie
 
-- 13. 14. 15. 16. | Mäsiarstvo Výroba piva a sladu Výroba mliečnych výrobkov Výroba pekárskych a cukrárskych výrobkov | I I I I
+  - SKUPINA 102: Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia
 
-- SKUPINA | 111 - Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov |
+  - Stavba strojov s mechanickým pohonom
 
-- 17. 18. | Stolárstvo Zlatníctvo a klenotníctvo | I I
+  - SKUPINA 103: Výroba motorových a ostatných dopravných prostriedkov
 
-- SKUPINA | 113 - Stavebníctvo |
+  - Opravy motorových vozidiel
 
-- 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. | Murárstvo Tesárstvo Pokrývačstvo Klampiarstvo Izolatérstvo Strechár Vodoinštalatérstvo a kúrenárstvo Inštalácia a opravy chladiarenských zariadení Podlahárstvo Montáž, rekonštrukcia a údržba vyhradených technických zariadení | I I I I I I I I I I
+  - Výroba a opravy poľnohospodárskych strojov
 
-- 29. | Kachliarstvo | I
+  - Opravy karosérií
 
-- SKUPINA | 114 - Ostatné |
+  - SKUPINA 104: Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
 
-- 30. 31. 32. 33. 34. 35. | Pánske, dámske a detské kaderníctvo Kozmetické služby Pohostinská činnosť a výroba hotových jedál určených na priamu spotrebu mimo prevádzkových priestorov Čistenie a kontrola komínov Manikúra Pedikúra | I III III III III
+  - Výroba teplomerov
+
+  - Výroba bandáží
+
+  - Výroba ortopedickej obuvi
+
+  - Jemná mechanika
+
+  - Hodinárstvo
+
+  - SKUPINA 106: Výroba a spracovanie kameniva a zemín, keramika
+
+  - Brúsenie a leptanie skla
+
+  - Výroba cementového tovaru a umelého kameňa
+
+  - Spracovanie kameňa
+
+  - SKUPINA 107: Výroba chemických výrobkov
+
+  - Výroba mydla
+
+  - Výroba kozmetických prípravkov
+
+  - SKUPINA 108: Výroba potravín a nápojov
+
+  - Mäsiarstvo a údenárstvo
+
+  - Mlynárstvo
+
+  - Výroba piva a sladu
+
+  - Výroba mliečnych výrobkov
+
+  - SKUPINA 109: Výroba textilná a odevná
+
+  - Farbenie látok a priadze
+
+  - SKUPINA 110: Výroba kože, kožených výrobkov (včítane obuvi), výroba gumových výrobkov a výrobkov z plastických látok
+
+  - Garbiarne
+
+  - Irchárne
+
+  - Semišové vyčiňovanie koží
+
+  - Farbenie koží
+
+  - Kožušníctvo a farbenie kožušín
+
+  - Vulkanizácia
+
+  - SKUPINA 111: Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov
+
+  - Stolárstvo
+
+  - Stavba člnov a lodí, s výnimkou nemotorových športových lodí
+
+  - Zlatníctvo a strieborníctvo, klenotníctvo a kovotepectvo
+
+  - SKUPINA 112: Výroba papierenská a polygrafická
+
+  - Kníhtlač
+
+  - Kamenotlač
+
+  - Sieťotlač, gumotlač, chemigrafia, stereotypia, galvanoplastika, ofsetová tlač
+
+  - SKUPINA 113: Stavebníctvo
+
+  - Murárstvo
+
+  - Tesárstvo
+
+  - Obkladačské práce
+
+  - Pokrývačstvo
+
+  - Klampiarstvo
+
+  - Vykonávanie tepelných a hlukových izolácií
+
+  - Pozlacovačstvo
+
+  - Štukatérstvo
+
+  - Podlahárstvo (kladenie podlahovín)
+
+  - Vodoinštalatérstvo
+
+  - Čistenie fasád a pomníkov
+
+  - SKUPINA 114: Ostatné
+
+  - Očná optika – prax 5 rokov (§ 21 ods. 1)
+
+  - Holičstvo
+
+  - Kaderníctvo
+
+  - Kozmetické služby
+
+  - Pedikúra
+
+  - Čistenie textilu
+
+  - Drogistická živnosť
