@@ -55,3 +55,15 @@
 - 5) Okrem fliaš a nádrží so zvýšenou sterilitou na lekárske účely.
 
 - 1) S výnimkou použitia tovaru len na montáž.
+
+- 1) CN Code
+
+- 2) CN Code
+
+- 1) CN kód
+
+- 2) CN kód
+
+- 1) CN kód
+
+- 2) CN kód
