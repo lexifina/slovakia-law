@@ -40,6 +40,8 @@
 
 - 17) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
+- 17a) § 13 zákona č. 314/2001 Z. z.§ 19 vyhlášky Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
+
 - 18) § 143 a 143a Občianskeho zákonníka.
 
 - 19) § 115 Občianskeho zákonníka.
@@ -64,6 +66,8 @@
 
 - 27) Občiansky súdny poriadok v znení neskorších predpisov.
 
+- 27a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+
 - 28) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
 
 - 29) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
@@ -82,6 +86,10 @@
 
 - 35) § 13 ods. 2 nariadenia vlády Slovenskej republiky č. 250/1992 Zb.
 
+- 35a) § 55 ods. 2 zákona č. 313/2001 Z. z.
+
+- § 32 ods. 1 písm. a) zákona č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení neskorších predpisov.
+
 - 36) § 5 ods. 7 písm. c) nariadenia vlády Slovenskej republiky č. 250/1992 Zb.
 
 - § 5 ods. 7 písm. d) nariadenia vlády Slovenskej republiky č. 249/1992 Zb.
@@ -94,8 +102,20 @@
 
 - § 5 ods. 6 nariadenia vlády Slovenskej republiky č. 250/1992 Zb.
 
+- 38a) § 55 ods. 2 zákona č. 313/2001 Z. z.
+
+- § 32 ods. 1 písm. b) zákona č. 380/1997 Z. z.
+
+- 38b) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 313/2001 Z. z.
+
+- 38c) § 32 ods. 1 zákona č. 314/2001 Z. z.
+
 - 39) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 40) Napríklad Zákonník práce.
+
+- 40a) Napríklad § 63 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
 - 41) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
