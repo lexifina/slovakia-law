@@ -1,0 +1,1 @@
+- 1) § 24, 31, 56, 64,70, 133, 135 a 139 zákona č.100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
