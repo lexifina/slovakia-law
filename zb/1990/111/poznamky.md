@@ -52,6 +52,8 @@
 
 - 13) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 14) § 47b zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb., zákona č. 264/1992 Zb., ústavného zákona č. 541/1992 Zb., zákona č. 544/1992 Zb., zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 244/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 369/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 190/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 56/1996 Z. z.
+- 14) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
-- 15) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
+- 15) Napríklad § 140 Občianskeho zákonníka.
+
+- 16) § 47b zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.

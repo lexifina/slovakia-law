@@ -28,7 +28,7 @@
 
 (4) Ak likvidátor zistí, že podnik v likvidácii je predlžený, podá bez zbytočného odkladu návrh na vyhlásenie konkurzu.<sup>12</sup>)
 
-(5) Účtovnú závierku vypracovanú ku dňu vstupu podniku do likvidácie a plán likvidácie majetku podniku je likvidátor povinný zaslať zakladateľovi a Ministerstvu pre správu a privatizáciu národného majetku Slovenskej republiky (ďalej len „ministerstvo“) do 30 dní odo dňa vstupu podniku do likvidácie. Plán likvidácie majetku doručí aj príslušnému daňovému úradu. Personálnu časť plánu likvidácie (profesijnú skladbu, počty a termíny uvoľňovania zamestnancov) prerokuje s príslušným odborovým orgánom.
+(5) Účtovnú závierku vypracovanú ku dňu vstupu podniku do likvidácie a plán likvidácie majetku podniku je likvidátor povinný zaslať zakladateľovi a ministerstvu do 30 dní odo dňa vstupu podniku do likvidácie. Plán likvidácie majetku doručí aj príslušnému daňovému úradu. Personálnu časť plánu likvidácie (profesijnú skladbu, počty a termíny uvoľňovania zamestnancov) prerokuje s príslušným odborovým orgánom.
 
 (6) Likvidátor štvrťročne predkladá zakladateľovi a ministerstvu správu o stave majetku likvidovaného podniku a ku dňu skončenia likvidácie im predloží účtovnú závierku s návrhom na vyporiadanie likvidačného zostatku spolu so záverečnou správou o priebehu likvidácie.
 

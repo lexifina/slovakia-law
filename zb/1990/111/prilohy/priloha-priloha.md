@@ -58,7 +58,7 @@ Príloha
 
     - (9) Dražiteľom, ktorí neboli na dražbe úspešní, sa dražobná zábezpeka vráti v plnej výške; likvidátor ju vráti do siedmich dní od konania dražby na bankový účet alebo na adresu, ktorú určí dražiteľ.
 
-    - (10) Ak predmet dražby nie je vydražený v prvom kole, uskutoční sa opakovaná dražba. Počet opakovaných dražieb je neobmedzený. Na opakovanú dražbu sa vzťahujú podmienky uvedené v čl. IV bode 13 dražobného poriadku.
+    - (10) Ak predmet dražby nie je vydražený v prvom kole, uskutoční sa opakovaná dražba. Na opakovanú dražbu sa vzťahujú podmienky uvedené v čl. IV bode 13 dražobného poriadku.
 
   - Čl. III Podmienky účasti na dražbe
 
