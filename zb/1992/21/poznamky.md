@@ -14,6 +14,8 @@
 
 - Devízový zákon č. 528/1990 Zb. v znení neskorších predpisov.
 
+- 7a) § 1 ods. 1 a § 261 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
+
 - 8) Občiansky súdny poriadok č. 99/1963 Zb. v znení neskorších predpisov.
 
 - 9) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
