@@ -1,0 +1,9 @@
+# Článok 10 Riešenie sporov medzi zmluvnými stranami
+
+- 1. Spory medzi zmluvnými stranami týkajúce sa výkladu a uplatnenia tejto dohody sa budú riešiť rokovaniami. Ak sa týmto spôsobom spor nebude dať vyriešiť v lehote šiestich mesiacov, na žiadosť ktorejkoľvek zmluvnej strany sa predloží na riešenie rozhodcovskému súdu.
+
+- 2. Rozhodcovský súd sa zriadi pre každý jednotlivý prípad. Každá zmluvná strana určí jedného člena rozhodcovského súdu. Takto ustanovení rozhodcovia vyberú občana tretieho štátu za predsedu, ktorého po vzájomnej dohode zmluvných strán vymenujú do funkcie. Rozhodcovia rozhodcovského súdu musia byť vymenovaní do dvoch mesiacov od chvíle, keď jedna zo zmluvných strán prejaví záujem odovzdať spor na riešenie rozhodcovskému súdu. Predsedu rozhodcovského súdu vymenujú do troch mesiacov odo dňa vymenovania členov rozhodcovského súdu.
+
+- 3. Ak sa v uvedených lehotách podľa odseku 2 nevykonalo vymenovanie, každá zo zmluvných strán môže, ak sa nedohodne inak, požiadať predsedu Medzinárodného súdneho dvora, aby uskutočnil vymenovanie. Ak predseda je občanom štátu niektorej zmluvnej strany alebo z iného dôvodu nemôže vykonávať túto funkciu, o vymenovanie sa požiada podpredseda Medzinárodného súdneho dvora. Ak podpredseda je tiež občanom štátu niektorej zmluvnej strany alebo z iného dôvodu nemôže vykonávať toto poverenie, o vymenovanie sa požiada najstarší člen Medzinárodného súdneho dvora, ktorý nie je občanom štátu ani jednej zmluvnej strany.
+
+- 4. Rozhodcovský súd prijíma svoje rozhodnutie väčšinou hlasov. Toto rozhodnutie je záväzné. Každá zmluvná strana uhradí výdavky spojené s činnosťou svojho rozhodcu pri rozhodcovskom konaní. Výdavky spojené s činnosťou predsedu a ostatné náklady zmluvné strany budú hradiť rovnakým dielom. Rozhodcovský súd vo všetkých ostatných otázkach si určí vlastné pravidlá rokovania.

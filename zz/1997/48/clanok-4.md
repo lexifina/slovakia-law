@@ -1,0 +1,3 @@
+# Článok 4 Náhrada strát
+
+Zmluvná strana, na ktorej území vznikla investíciám investorov štátu druhej zmluvnej strany škoda v dôsledku vojny, ozbrojeného konfliktu, občianskych nepokojov, vyhlásenia výnimočného stavu alebo iných podobných udalostí, poskytne týmto investorom, ak ide o uvedenie majetku do pôvodného stavu, okrem kompenzácií alebo iných spôsobov vyrovnania, také zaobchádzanie, ktoré nebude menej priaznivé, než poskytne táto zmluvná strana vlastným investorom alebo investorom tretích štátov. Platby spojené s týmito náhradami sa budú uskutočňovať bez neodôvodneného meškania a budú sa voľne transferovať.
