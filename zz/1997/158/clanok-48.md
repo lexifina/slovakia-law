@@ -1,0 +1,3 @@
+# Článok 48
+
+Ustanovenia článku 46 nevylučujú, aby jedna zmluvná strana použila zvláštne pravidlá na etablovanie sa a činnosť pobočiek a zastúpení podnikov druhej zmluvnej strany na jej území, ktoré nie sú zaregistrované na území prvej zmluvnej strany, ktoré sú odôvodnené právnymi alebo technickými rozdielmi medzi takýmito pobočkami a zastúpeniami v porovnaní s pobočkami a zastúpeniami podnikov zaregistrovanými na jej území, alebo pokiaľ ide o finančné služby, z praktických dôvodov a po starostlivom zvážení. Rozdiel zaobchádzania nebude presahovať rámec toho, čo je vyložene nevyhnutné v dôsledku takýchto právnych a technických rozdielov, alebo pokiaľ ide o finančné služby, rámec toho, čo je popísané v prílohe XVIa, z praktických dôvodov a po starostlivom zvážení.

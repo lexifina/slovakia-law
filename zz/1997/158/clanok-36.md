@@ -1,0 +1,3 @@
+# Článok 36
+
+Dohoda nevylučuje zákazy alebo obmedzenia dovozu, vývozu alebo prepravovaného tovaru, ktoré budú zdôvodnené na základe verejnej morálky, štátnej politiky alebo štátnej bezpečnosti; ochrany zdravia a života ľudí, zvierat alebo rastlín; ochrany neobnoviteľných prírodných zdrojov; ochrany národných pamiatok umeleckej, historickej alebo archeologickej hodnoty alebo ochrany duševného, priemyselného a komerčného vlastníctva alebo ktoré vyplývajú z predpisov týkajúcich sa zlata a striebra. Tieto zákazy alebo obmedzenia sa však nesmú stať nástrojom svojvoľnej diskriminácie alebo skrytého obmedzovania obchodu medzi zmluvnými stranami.
