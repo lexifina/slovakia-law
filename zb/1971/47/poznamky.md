@@ -1,1 +1,0 @@
-- *) Vyhlásené v oznámení vo Vestníku MZO zo 14. 2. 1969 v čiastke 2 na str. 26.
