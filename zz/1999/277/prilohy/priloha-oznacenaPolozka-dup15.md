@@ -1,0 +1,1 @@
+- Dané v Bratislave 21. apríla 1997 v dvoch pôvodných vyhotoveniach, každé v jazyku slovenskom a maďarskom, pričom obe znenia majú rovnakú platnosť.
