@@ -8,7 +8,7 @@
 
 - 5) § 22 zákona SNR č. 372/1990 Zb.
 
-- 6) Vyhláška FMV č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách.
+- 6) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
 - 7) § 89 ods. 9 Trestného zákona.
 
@@ -30,4 +30,6 @@
 
 - 15) § 13 a 14 Trestného zákona.
 
-- 16) Napr. § 63 zákona SNR č. 204/1991 Zb. O Policajnom zbore Slovenskej republiky.
+- 16) § 74 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+
+- 17) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
