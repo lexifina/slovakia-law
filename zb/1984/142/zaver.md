@@ -1,0 +1,3 @@
+Minister:
+
+Mišeje v. r.
