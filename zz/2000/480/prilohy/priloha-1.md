@@ -861,3 +861,15 @@ Príloha č. 9 k nariadeniu vlády č. 480/2000 Z. z.
 - Zoznam farmaceutických medziproduktov, t. j. zlúčenín používaných na výrobu konečných farmaceutických výrobkov
 
 [Príloha 09](../assets/599317af09c5b6996c472f1b0eb0a41f36f6be7935bbf9f68b828c6400981b11.pdf)
+
+Príloha č. 10 k nariadeniu vlády č. 480/2000 Z. z.
+
+DOČASNÁ ÚPRAVA colnej sadzby a colnej kvóty na dovoz obilnín
+
+Číselné znaky | Dočasná colná kvóta (TNN) | Dočasná colná sadzba (%) | Platnosť do
+
+1001 90 99 | 100 000 | 0 | 31. 5. 2001
+
+1003 00 90 | 200 000 | 0 | 31. 5. 2001
+
+1005 90 00 | 82 000 | 0 | 31. 5. 2001
