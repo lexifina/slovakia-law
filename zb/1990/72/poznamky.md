@@ -1,1 +1,0 @@
-- 1) § 20 ods. 2 branného zákona.
