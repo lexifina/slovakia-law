@@ -1,1 +1,0 @@
-Rudolf Autner v. r.
