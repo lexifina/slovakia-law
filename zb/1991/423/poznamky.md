@@ -1,5 +1,9 @@
 - 1) Napr. § 442 až 449 Občianskeho zákonníka.
 
+- 1a) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
+
 - 2) § 115 Občianskeho zákonníka.
 
 - 3) Vyhláška Federálneho ministerstva dopravy č. 41/1984 Zb. o podmienkach prevádzky vozidiel na pozemných komunikáciách v znení vyhlášky č. 248/1991 Zb.
