@@ -1,3 +1,7 @@
+- ZMLUVA
+
+- medzi Slovenskou republikou a Českou republikou o vytvorení colnej únie
+
 - Slovenská republika a Česká republika (ďalej len „Zmluvné strany“),
 
 - majúc na zreteli význam vzťahov medzi nimi a spoločné hodnoty, ktoré zdieľajú,
@@ -132,7 +136,7 @@
 
   - Čl. 16
 
-    - Na poľnohospodárske výrobky sa nevzťahujú ustanovenia článkov 19 a 26 tejto dohody.
+    - Na poľnohospodárske výrobky sa nevzťahujú ustanovenia článkov 19 a 26 tejto zmluvy.
 
   - Čl. 17
 
@@ -154,7 +158,11 @@
 
   - Čl. 19
 
+    - 1. Akákoľvek podpora poskytovaná Zmluvnou stranou alebo prostredníctvom štátnych zdrojov v akejkoľvek forme, ktorá narúša alebo hrozí narušením hospodárskej súťaže, zvýhodňovaním určitých podnikov alebo výroby určitého tovaru, ak môže postihnúť obchod medzi Zmluvnými stranami, je nezlučiteľná s riadnym uskutočňovaním tejto zmluvy.
+
     - 2. Všetky prípady, ktoré sú v rozpore s odsekom 1 tohto článku, budú sa hodnotiť na základe kritérií, ktoré budú dohodnuté.
+
+    - 3. Na žiadosť Zmluvnej strany môže Rada navrhnúť, že podpora, ktorú Zmluvná strana udelila alebo zamýšľa udeliť, bude sa považovať za zlučiteľnú so zmluvou ako výnimka z ustanovení odseku 1, ak bude tento návrh odôvodnený výnimočnými okolnosťami.
 
   - Čl. 20
 
