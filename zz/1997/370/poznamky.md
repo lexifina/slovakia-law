@@ -14,6 +14,8 @@
 
 - 9) Čl. 102 písm. k) Ústavy Slovenskej republiky.
 
+- 9a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 10) Článok 54 Ústavy Slovenskej republiky.
 
 - 11) Článok 29 ods. 3 Ústavy Slovenskej republiky.
