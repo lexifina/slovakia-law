@@ -48,8 +48,6 @@ Príloha A (§ 248 ods. 3)
 
 - | § 15 | ustanovenie osobitných podmienok
 
-- Ochrana odrôd rastlín a plemien zvierat | Zákon č. 132/1989Zb. o ochrane práv k novým odrodám rastlín a plemenám zvierat § 21 | udelenie šľachtiteľského osvedčenia
-
 - Ochrana ovzdušia | Zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami v znení zákona č. 218/1992 Zb. |
 
 - | § 12 ods. 2 písm. a) | rozhodnutie o obmedzení alebo zastavení prevádzky veľkého alebo stredného zdroja znečisťovania, ak tento zdroj pri vážnom a bezprostrednom ohrození alebo poškodení kvality ovzdušia nesplní povinnosti podľa § 7 ods. 1 písm. h)
