@@ -18,6 +18,6 @@
 
 - c) neprítomnosti pre úraz, ku ktorému došlo pri výkone funkcie alebo v súvislosti s výkonom funkcie,
 
-- d) dočasného pridelenia,
+- d) dočasného pridelenia a poverenia sudcu plnením úloh v orgáne Európskej únie,
 
 - e) prehlbovania kvalifikácie, čerpania študijného voľna pri zvyšovaní kvalifikácie.

@@ -56,6 +56,8 @@
 
 - 18) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
 
+- 18a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách.
+
 - 19) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
 - 20) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
@@ -63,6 +65,8 @@
 - 20a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
 - 21) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
+
+- 21a) Napríklad opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 120.100/2003 z 30. mája 2003, ktorým sa ustanovujú platové relácie (oznámenie č.191/2003 Z. z.).
 
 - 22) Napríklad Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
