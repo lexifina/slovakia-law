@@ -1,0 +1,1 @@
+- *) Ak požívateľ takého dôchodku pracuje v družstve, ktoré nebolo uznané za družstvo s vyššou úrovňou hospodárenia, patrí dôchodok už podľa § 49 zákona č. 103/1964 Zb. o sociálnom zabezpečení družstevných roľníkov, a to až do výšky 600 Kčs mesačne.
