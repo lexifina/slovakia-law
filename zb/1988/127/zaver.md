@@ -1,1 +1,0 @@
-Štrougal v.r.
