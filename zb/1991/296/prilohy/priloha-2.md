@@ -72,7 +72,7 @@
 
           - (v) údaje týkajúce sa vynálezcu, ak národné zákonodarstvo aspoň jedného z určených štátov požaduje, aby sa meno vynálezcu uviedlo pri podaní národnej prihlášky.
 
-        - (b) Žiadosť prípadne obsahuje:
+        - (b) Žiadosť prípadne obsahuje
 
           - (i) uplatnenie priority;
 
@@ -82,7 +82,9 @@
 
           - (iv) údaj, že prihlasovateľ si praje získať regionálny patent
 
-          - (v) odkaz na základnú prihlášku alebo na základný patent.
+          - (v) odkaz na základnú prihlášku alebo na základný patent
+
+          - (vi) údaj o prihlasovateľovej voľbe príslušného orgánu pre medzinárodnú rešerš.
 
         - (c) Žiadosť môže obsahovať:
 
@@ -197,6 +199,10 @@
       - 4.14 „Pokračovanie“ alebo „čiastkové pokračovanie“
 
         - Ak si prihlasovateľ praje prerokovať svoju medzinárodnú prihlášku v niektorom z určených štátov vo forme prihlášky, ktorá je „pokračovaním“ alebo „čiastkovým pokračovaním“ prvšej prihlášky, musí to uviesť v žiadosti a opísať príslušnú základnú prihlášku.
+
+      - 4.14 bis Voľba orgánu pre medzinárodnú rešerš
+
+        - Ak je na medzinárodnú rešerš medzinárodnej prihlášky príslušných viacero orgánov, prihlasovateľ označí v žiadosti ten orgán, ktorý si vybral.
 
       - 4.15. Podpis
 
@@ -356,7 +362,7 @@
 
         - (e) Všeobecne sa používajú iba také technické výrazy, značky a symboly, ktoré sú v odbore všeobecne zavedené.
 
-        - (f) Ak je medzinárodná prihláška alebo jej preklad v angličtine alebo v japončine, začiatok každého desatinného zlomku sa označuje bodkou; ak je medzinárodná prihláška alebo jej preklad v inom jazyku než v angličtine alebo japončine, označuje sa čiarkou.
+        - (f) Ak je medzinárodná prihláška alebo jej preklad v čínštine, v angličtine alebo v japončine, začiatok každého desatinného miesta sa označuje bodkou; ak je medzinárodná prihláška alebo jej preklad v inom jazyku než v čínštine, v angličtine alebo v japončine, označuje sa čiarkou.
 
       - 10.2 Dôslednosť
 
@@ -448,13 +454,13 @@
 
         - (a) Žiadosť, opis, nároky a anotácia sa píšu strojom alebo sa tlačia.
 
-        - (b) V prípade potreby možno napísať rukou alebo nakresliť iba grafické symboly a znaky, chemické alebo matematické vzorce a niektoré znaky v japončine.
+        - (b) V prípade potreby možno napísať rukou alebo nakresliť len grafické symboly a znaky, chemické alebo matematické vzorce a niektoré znaky v čínštine alebo v japončine.
 
         - (c) Strojopis má medziriadkovú medzeru 1 1/2.
 
         - (d) Všetky textové časti musia byť napísané takým písmom, pri ktorom sú veľké písmená vysoké najmenej 0,21 cm, čiernou nezmazateľnou farbou a tak, aby boli splnené požiadavky uvedené v pravidle 11.2.
 
-        - (e) Údaje uvedené o medzerách a o rozmeroch písmen v odsekoch (c) a (d) sa nevzťahujú na texty písané v japončine.
+        - (e) Ustanovenia odsekov (c) a (d), pokiaľ ide o medzery a o rozmery znakov, sa nevzťahujú na texty v čínštine alebo v japončine.
 
       - 11.10 Výkresy, vzorce a tabuľky v textovej časti
 
@@ -782,17 +788,17 @@
 
     - PRAVIDLO 18 PRIHLASOVATEĽ
 
-      - 18.1 Pobyt
+      - 18.1. Trvalý pobyt (sídlo) a občianstvo
 
-        - (a) S výhradou ustanovenia odseku (b) je otázka, či prihlasovateľ má pobyt v tom zmluvnom štáte, ktorého sa dovoláva, otázkou národného zákonodarstva tohto štátu a rozhoduje ju prijímací úrad.
+        - (a) S výnimkou ustanovení odsekov (b) a (c) je otázka, či prihlasovateľ má trvalý pobyt v príslušnom zmluvnom štáte, v ktorom si uplatňuje nárok, alebo či je občanom takéhoto zmluvného štátu, otázkou národného zákonodarstva a rozhoduje o nej prijímací úrad.
 
-        - (b) Držba pravej a faktickej priemyselnej alebo obchodnej firmy v zmluvnom štáte sa v každom prípade považuje za pobyt v tomto štáte.
+        - (b) V každom prípade
 
-      - 18.2 Občianstvo
+          - (i) vlastníctvo skutočného a fungujúceho priemyselného alebo obchodného podniku v zmluvnom štáte sa považuje za sídlo v tomto štáte a
 
-        - (a) S výhradou ustanovenia odseku (b) je otázka, či prihlasovateľ je občanom zmluvného štátu, ktorého sa dovoláva, otázkou národného zákonodarstva tohto štátu a rozhoduje ju prijímací úrad.
+          - (ii) právnická osoba konštituovaná podľa národného zákonodarstva zmluvného štátu sa považuje za občana tohto štátu.
 
-        - (b) Právnická osoba, zriadená podľa národného zákonodarstva zmluvného štátu sa v každom prípade považuje za občana tohto štátu.
+        - (c) Ak sa medzinárodná prihláška podala na Medzinárodnom úrade ako na prijímacom úrade, Medzinárodný úrad požiada v prípadoch uvedených v Administratívnej smernici národný úrad zmluvného štátu alebo vykonávací úrad pre tento zmluvný štát, aby rozhodol o otázke uvedenej v odseku (a). Medzinárodný úrad informuje o tejto žiadosti prihlasovateľa. Prihlasovateľ môže predložiť svoje argumenty priamo národnému úradu. Národný úrad rozhodne o tejto otázke bezodkladne.
 
       - 18.3. Dvaja alebo viacerí prihlasovatelia
 
@@ -806,7 +812,13 @@
 
       - 19.1 Kde sa podávajú prihlášky
 
-        - (a) S výhradou ustanovenia odseku (b) sa medzinárodná prihláška podáva podľa voľby prihlasovateľa buď na národnom úrade zmluvného štátu, v ktorom má prihlasovateľ pobyt, resp. na úrade činnom pre taký štát, alebo na národnom úrade zmluvného štátu, ktorého je prihlasovateľ občanom, resp. na úrade činnom pre taký štát.
+        - (a) S výnimkou ustanovenia odseku (b) sa medzinárodná prihláška podáva podľa voľby prihlasovateľa
+
+          - (i) na národnom úrade zmluvného štátu, v ktorom má prihlasovateľ trvalý pobyt, resp. na úrade činnom pre taký štát,
+
+          - (ii) na národnom úrade zmluvného štátu, ktorého je prihlasovateľ občanom, resp. na vykonávacom úrade pre tento štát,
+
+          - (iii) na Medzinárodnom úrade bez ohľadu na zmluvný štát, v ktorom má prihlasovateľ pobyt alebo ktorého je občanom.
 
         - (b) Každý Zmluvný štát sa môže dohodnúť s druhým zmluvným štátom alebo ktoroukoľvek medzivládnou organizáciou, že národný úrad druhého štátu alebo medzivládna organizácia bude vo všetkých alebo v niektorých veciach konať na mieste národného úradu prvého štátu ako prijímací úrad pre prihlasovateľov, ktorí sú občanmi prvého štátu alebo v ňom majú pobyt. Bez ohľadu na takú dohodu sa národný úrad prvého štátu považuje za príslušný prijímací úrad na účely článku 15 (5).
 
@@ -814,13 +826,25 @@
 
       - 19.2. Dvaja alebo viacerí prihlasovatelia
 
-      - Ak sú dvaja alebo viacerí prihlasovatelia, považujú sa požiadavky pravidla 19.1 za splnené, keď národný úrad, na ktorom sa medzinárodná prihláška podala, je národným úradom zmluvného štátu alebo úradom činným pre zmluvný štát, ktorého občianstvo má aspoň jeden z prihlasovateľov alebo aspoň jeden z prihlasovateľov má v tomto štáte sídlo.
+      - Ak sú dvaja a viacerí prihlasovatelia,
+
+        - (i) požiadavky pravidla 19.1. sa považujú za splnené, ak národný úrad, na ktorom sa medzinárodná prihláška podala, je národným úradom zmluvného štátu alebo úradom činným pre taký zmluvný štát, v ktorom má aspoň jeden z prihlasovateľov trvalý pobyt alebo ktorého je občanom,
+
+        - (ii) medzinárodnú prihlášku možno podať na Medzinárodnom úrade podľa pravidla 19.1. (a) (iii), ak má aspoň jeden z prihlasovateľov trvalý pobyt v zmluvnom štáte alebo je občanom zmluvného štátu.
 
       - 19.3 Uverejnenie skutočností o postúpení úloh prijímacieho úradu
 
         - (a) Zmluvný štát, ktorý postúpi úlohy prijímacieho úradu národnému úradu iného zmluvného štátu alebo medzivládnej organizácii, oznámi každú dohodu uzavretú podľa pravidla 19.1 (b) bez zbytočného odkladu Medzinárodnému úradu.
 
         - (b) Medzinárodný úrad uverejní také oznámenie bez zbytočného odkladu vo Vestníku.
+
+      - 19.4. Odovzdanie medzinárodnej prihlášky Medzinárodnému úradu ako prijímaciemu úradu
+
+        - (a) V prípade, keď medzinárodnú prihlášku podal na národnom úrade, ktorý vykonáva funkciu prijímacieho úradu podľa Zmluvy, prihlasovateľ, ktorý má pobyt v zmluvnom štáte alebo je občanom tohto štátu, ale tento národný úrad nie je príslušným úradom podľa pravidla 19.1. alebo podľa pravidla 19.2. na jej prijatie, považuje sa táto medzinárodná prihláška s výhradou odseku (b) za prijatú týmto úradom v zastúpení Medzinárodného úradu, ktorý vykonáva funkciu prijímacieho úradu podľa pravidla 19.1. (a) (iii).
+
+        - (b) V prípade, keď podľa odseku (a) medzinárodnú prihlášku prijal národný úrad v zastúpení Medzinárodného úradu, ktorý vykonáva funkciu prijímacieho úradu podľa pravidla 19.1. (a) (iii), odovzdá ju národný úrad bezodkladne, ak tomu nebránia predpisy týkajúce sa národnej bezpečnosti, Medzinárodnému úradu. Národný úrad môže požadovať za toto odovzdanie zaplatenie poplatku vo svoj prospech, ktorý sa rovná odovzdávaciemu poplatku určenému úradom podľa pravidla 14.
+
+        - Takto odoslaná medzinárodná prihláška sa považuje za prijatú Medzinárodným úradom, ktorý vykonáva funkciu prijímacieho úradu podľa pravidla 19.1. (a) (iii), dňom, keď ju prijal národný úrad.
 
     - PRAVIDLO 20 PRÍJEM MEDZINÁRODNEJ PRIHLÁŠKY
 
@@ -1158,7 +1182,7 @@
 
         - (f) Na účely tohto pravidla sa prihlášky, ktoré boli iba vyložené na verejné nahliadnutie, nepovažujú za zverejnené prihlášky.
 
-    - PRAVIDLO 35 ORGÁN PRÍSLUŠNÝ PRE MEDZINÁRODNÚ REŠERŠ
+    - PRAVIDLO 35 Orgán príslušný na medzinárodnú rešerš
 
       - 35.1 Prípad, keď je príslušný iba jediný orgán pre medzinárodnú rešerš
 
@@ -1173,6 +1197,14 @@
           - (ii) že vyhlási za príslušný jeden alebo viac orgánov pre určité druhy medzinárodných prihlášok na ňom podaných a jeden alebo viac orgánov za príslušný pre iné druhy medzinárodných prihlášok na ňom podaných, pričom pri týchto druhoch medzinárodných prihlášok, pre ktoré je príslušných niekoľko orgánov pre medzinárodnú rešerš, ponechá voľbu na prihlasovateľovi.
 
         - (b) Každý prijímací úrad, ktorý použije možnosť ustanovenú v odseku (a), to oznámi bez odkladu Medzinárodnému úradu a Medzinárodný úrad túto informáciu bez odkladu uverejní.
+
+      - 35.3. V prípade, keď je Medzinárodný úrad prijímacím úradom podľa pravidla 19.1. (a) (iii)
+
+        - (a) Ak sa medzinárodná prihláška podala na Medzinárodnom úrade ako na prijímacom úrade podľa pravidla 19.1. (a) (iii), je na medzinárodnú rešerš tejto medzinárodnej prihlášky príslušný orgán pre medzinárodnú rešerš, ktorý by bol príslušný, keby sa bola táto medzinárodná prihláška podala na prijímacom úrade príslušnom podľa pravidla 19.1. (a) (i) alebo (ii), (b) alebo (c) alebo podľa pravidla 19.2. (i).
+
+        - (b) Ak sú dva alebo viaceré orgány pre medzinárodnú rešerš príslušné podľa odseku (a), voľba sa ponechá na prihlasovateľa.
+
+        - (c) Pravidlá 35.1. a 35.2. sa nepoužijú v prípade, keď Medzinárodný úrad je prijímacím úradom podľa pravidla 19.1. (a) (iii).
 
     - PRAVIDLO 36 MINIMÁLNE POŽIADAVKY NA ORGÁN PRE MEDZINÁRODNÚ REŠERŠ
 
@@ -1450,9 +1482,9 @@
 
       - 48.3 Jazyky
 
-        - (a) Ak je medzinárodná prihláška podaná v angličtine, francúzštine, japončine, ruštine alebo španielčine, zverejní sa v jazyku, v ktorom bola podaná.
+        - (a) Ak sa medzinárodná prihláška podá v čínštine, angličtine, francúzštine, nemčine, japončine, ruštine alebo v španielčine, zverejní sa v jazyku, v ktorom bola podaná.
 
-        - (b) Ak je medzinárodná prihláška podaná v inom jazyku ako v angličtine, francúštine, nemčine, japončine, ruštine alebo španielčine, zverejní sa v anglickom preklade. Za vyhotovenie prekladu nesie zodpovednosť orgán pre medzinárodnú rešerš, ktorého povinnosťou je mať preklad natoľko včas, aby k medzinárodnému zverejneniu mohlo dôjsť v predpísanej lehote alebo aby pri uplatnení článku 64 (3) (b) mohlo dôjsť k postúpeniu podľa článku 20 pred uplynutím 19. mesiaca od dátumu priority. Bez ohľadu na pravidlo 16.1 (a) môže orgán pre medzinárodnú rešerš prihlasovateľovi účtovať poplatok za vyhotovenie prekladu. Orgán pre medzinárodnú rešerš dá prihlasovateľovi možnosť vyjadriť sa k návrhu prekladu. Na vyjadrenie určí orgán pre medzinárodnú rešerš podľa okolností primeranú lehotu. Ak nemožno vziať vyjadrenie do úvahy pre nedostatok času pred postúpením prekladu alebo ak má prihlasovateľ a uvedený orgán na správnosť prekladu rôzny názor, môže prihlasovateľ zaslať kópiu svojho vyjadrenia alebo jeho nevybavený zvyšok Medzinárodnému a každému určenému úradu, ktorému sa preklad postúpil. Medzinárodný úrad zverejní podstatu vyjadrenia buď zároveň s prekladom medzinárodného rešeršového orgánu, alebo dodatočne.
+        - (b) Ak sa medzinárodná prihláška podá v inom jazyku ako v čínštine, angličtine, francúzštine, nemčine, japončine, ruštine alebo v španielčine, zverejní sa v anglickom preklade. Za vykonanie prekladu je zodpovedný orgán pre medzinárodnú rešerš, ktorého povinnosťou je mať preklad dostatočne včas, aby mohol medzinárodnú prihlášku zverejniť v predpísanej lehote alebo aby ju mohol pri uplatnení článku 64 (3) (b) Zmluvy postúpiť podľa článku 20 pred uplynutím devätnásteho mesiaca od dátumu priority. Bez ohľadu na pravidlo 16.1.(a) môže orgán pre medzinárodnú rešerš účtovať prihlasovateľovi poplatok za preklad. Orgán pre medzinárodnú rešerš umožní prihlasovateľovi vyjadriť sa k návrhu prekladu. Na toto vyjadrenie určí orgán pre medzinárodnú rešerš podľa okolností prípadu primeranú lehotu. Ak pre nedostatok času nie je možné vziať vyjadrenie prihlasovateľa do úvahy pred postúpením prekladu alebo ak prihlasovateľ a uvedený orgán majú na správnosť prekladu rôzny názor, môže prihlasovateľ zaslať kópiu svojho vyjadrenia alebo jeho nevybavenú časť Medzinárodnému úradu a každému určenému úradu, ktorému preklad postúpil. Medzinárodný úrad zverejní podstatu vyjadrenia buď zároveň s prekladom orgánu pre medzinárodnú rešerš, alebo následne po jeho zverejnení.
 
         - (c) Ak je medzinárodná prihláška zverejnená v inom jazyku než anglickom, zverejní sa medzinárodná rešeršová správa v rozsahu podľa pravidla 48.2 (a) (v) alebo rozhodnutie podľa článku 17 (2) (a), názov vynálezu, anotácia a všetky texty k obrázku alebo obrázkom v anotácii tak v tomto jazyku, ako aj v angličtine. Za vyhotovenie prekladu nesie zodpovednosť Medzinárodný úrad.
 
@@ -1694,9 +1726,11 @@
 
     - PRAVIDLO 54 PRIHLASOVATEĽ OPRÁVNENÝ NA PODANIE NÁVRHU
 
-      - 54.1 Pobyt a občianstvo
+      - 54.1. Trvalý pobyt (sídlo) a občianstvo
 
-      - Pojem pobytu a občianstva prihlasovateľa sa na účely článku 31 (2) ustanovuje podľa pravidiel 18.1 a 18.2.
+        - (a) S výnimkou ustanovenia odseku (b) pobyt alebo občianstvo prihlasovateľa sa na účely článku 31 (2) Zmluvy určí podľa pravidla 18.1. (a) a (b).
+
+        - (b) Orgán pre medzinárodný predbežný prieskum požiada v prípadoch uvedených v Administratívnej smernici prijímací úrad, alebo ak sa medzinárodná prihláška podala na Medzinárodnom úrade ako na prijímacom úrade, národný úrad zmluvného štátu alebo úrad činný pre tento zmluvný štát, aby rozhodol o otázke, či má prihlasovateľ trvalý pobyt alebo sídlo v zmluvnom štáte, v ktorom si uplatňuje nárok, alebo či je občanom takého zmluvného štátu. Orgán pre medzinárodný predbežný prieskum informuje prihlasovateľa o každej takejto žiadosti. Prihlasovateľ môže predložiť svoje argumenty priamo úradu, ktorého sa to týka. Úrad rozhodne o tejto otázke bezodkladne.
 
       - 54.2. Dvaja alebo viacerí prihlasovatelia
 
@@ -1705,6 +1739,10 @@
         - (i) občanom zmluvného štátu, ktorý je viazaný hlavou II Zmluvy alebo má v tomto štáte sídlo, a medzinárodná prihláška bola podaná na prijímacom úrade zmluvného štátu viazaného hlavou II Zmluvy alebo na úrade činnom pre tento štát, alebo
 
         - (ii) je osobou oprávnenou podávať návrhy podľa článku 31 (2) (b) a medzinárodná prihláška bola podaná v súlade s rozhodnutím Zhromaždenia.
+
+      - 54.3. Medzinárodné prihlášky podané na Medzinárodnom úrade ako na prijímacom úrade
+
+        - Ak sa medzinárodná prihláška podala na Medzinárodnom úrade ako na prijímacom úrade podľa pravidla 19.1. (a) (iii), považuje sa Medzinárodný úrad na účely článku 31 (2) Zmluvy za úrad činný pre zmluvný štát, v ktorom má prihlasovateľ pobyt alebo ktorého je občanom.
 
       - 54.4. Prihlasovateľ, ktorý nie je oprávnený podať návrh
 
@@ -1834,9 +1872,11 @@
 
     - PRAVIDLO 59 ORGÁN PRÍSLUŠNÝ PRE MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM
 
-      - 59.1. Návrhy podľa článku 31 (2) (a)
+      - 59.1. Návrhy podľa článku 31 (2) (a) Zmluvy
 
-      - Pre návrhy podľa ustanovenia článku 31 (2) (a) musí každý prijímací úrad zmluvného štátu viazaného ustanoveniami hlavy II Zmluvy alebo úrad činný pre takýto zmluvný štát, podľa podmienok príslušnej dohody podľa článku 32 (2) a (3), oznámiť Medzinárodnému úradu, ktorý orgán pre medzinárodný predbežný prieskum je príslušný na vykonávanie medzinárodného predbežného prieskumu medzinárodných prihlášok, ktoré sa na ňom podali. Medzinárodný úrad túto informáciu bez odkladu zverejní. Ak príslušných orgánov pre medzinárodný predbežný prieskum je niekoľko, platia ustanovenia pravidla 35.2 primerane.
+        - (a) Pri návrhoch podľa článku 31 (2) (a) Zmluvy musí každý prijímací úrad zmluvného štátu viazaný ustanoveniami hlavy II Zmluvy alebo úrad činný pre tento zmluvný štát v súlade s podmienkami príslušnej dohody podľa článku 32 (2) a (3) Zmluvy Medzinárodnému úradu oznámiť, ktorý orgán pre medzinárodný predbežný prieskum je príslušný na vykonanie medzinárodného predbežného prieskumu medzinárodných prihlášok, ktoré sa na ňom podali. Medzinárodný úrad túto informáciu bezodkladne zverejní. Ak je na medzinárodný predbežný prieskum príslušných niekoľko orgánov, platí mutatis mutandis pravidlo 35.2.
+
+        - (b) Ak sa medzinárodná prihláška podala na Medzinárodnom úrade ako na prijímacom úrade podľa pravidla 19.1. (a) (iii), platí mutatis mutandis pravidlo 35.3. (a) a (b). Odsek (a) tohto pravidla sa nepoužije v prípade, keď Medzinárodný úrad je príjímacím úradom podľa pravidla 19.1. (a) (iii).
 
       - 59.2 Návrhy podľa článku 31 (2) (b)
 
@@ -2436,6 +2476,12 @@
 
         - Medzinárodný úrad, príslušný orgán pre medzinárodnú rešerš a príslušný orgán pre medzinárodný predbežný prieskum môžu požadovat predloženie dôkazu o práve podľa článku 49.
 
+      - 83.1.bis Prípad, keď Medzinárodný úrad je prijímacím úradom
+
+        - (a) Každá osoba, ktorá má právo vystupovať pred národným úradom zmluvného štátu alebo pred úradom činným pre tento štát, v ktorom má prihlasovateľ, alebo ak je prihlasovateľov viac, aspoň jeden z týchto prihlasovateľov, trvalý pobyt alebo sídlo alebo je jeho občanom, je oprávnená vystupovať, ak ide o medzinárodnú prihlášku, pred Medzinárodným úradom, ktorý vykonáva funkciu prijímacieho úradu podľa pravidla 19.1. (a) (iii).
+
+        - (b) Každá osoba, ktorá má právo vystupovať pred Medzinárodným úradom, ktorý vykonáva funkciu prijímacieho úradu, je oprávnená, ak ide o medzinárodnú prihlášku, vystupovať pred Medzinárodným úradom, ktorý vykonáva všetky jeho ďalšie funkcie, pred príslušným orgánom pre medzinárodnú rešerš a pred príslušným orgánom pre medzinárodný predbežný prieskum.
+
       - 83.2 Informácie
 
         - (a) Národný úrad alebo medzinárodná orgánizácia poskytne na žiadosť Medzinárodnému úradu, príslušnému orgánu pre medzinárodnú rešerš alebo príslušnému orgánu pre medzinárodný predbežný prieskum informáciu o tom, či určitá osoba, o ktorej sa tvrdí, že má právo pred národným úradom alebo medzinárodnou organizáciou vystupovať, toto právo skutočne má.
@@ -2570,19 +2616,19 @@
 
   - ČASŤ F Pravidlá, ktoré sa týkajú niekoľkých hláv Zmluvy
 
-    - Pravidlo 90 Zástupci a spoloční splnomocnenci
+    - Pravidlo 90 Zástupcovia a spoloční zástupcovia
 
       - 90.1. Ustanovenie zástupcu
 
-        - (a) Osobu, ktorá má právo vystupovať pred národným úradom, na ktorom sa podávajú medzinárodné prihlášky, smie ustanoviť prihlasovateľ ako svojho zástupcu na zastupovanie pred týmto úradom ako prijímacím úradom a pred Medzinárodným úradom, orgánom pre medzinárodnú rešerš a orgánom pre medzinárodný predbežný prieskum.
+        - (a) Osobu, ktorá má právo vystupovať pred národným úradom, na ktorom sa podala medzinárodná prihláška, alebo ak sa medzinárodná prihláška podala na Medzinárodnom úrade, osobu, ktorá má právo vystupovať, ak ide o medzinárodnú prihlášku, pred Medzinárodným úradom, ktorý vykonáva funkciu prijímacieho úradu, môže prihlasovateľ ustanoviť za svojho zástupcu na zastupovanie pred prijímacím úradom, pred Medzinárodným úradom, pred príslušným orgánom pre medzinárodnú rešerš a pred orgánom pre medzinárodný predbežný prieskum.
 
         - (b) Osobu, ktorá má právo vystupovať pred národným úradom alebo pred medzinárodnou organizáciou, ktorá pôsobí ako orgán pre medzinárodnú rešerš, smie ustanoviť prihlasovateľ ako svojho zástupcu na zastupovanie osobitne pred týmto orgánom.
 
         - (c) Osobu, ktorá má právo vystupovať pred národným úradom alebo pred medzinárodnou organizáciou, ktorá pôsobí ako orgán pre medzinárodný predbežný prieskum, smie ustanoviť prihlasovateľ ako svojho zástupcu na zastupovanie osobitne pred týmto orgánom.
 
-        - (d) Zástupca ustanovený podľa odseku (a) môže, pokiaľ nie je niečo iné uvedené v dokumente, ktorým bol ustanovený, ustanoviť ďalšieho alebo niekoľko ďalších zástupcov, aby zastupovali prihlasovateľa ako zástupcovia prihlasovateľa:
+        - (d) Zástupca ustanovený podľa odseku (a) môže, ak nie je v ustanovujúcom dokumente uvedené niečo iné, určiť jedného alebo niekoľkých ďalších zástupcov, aby zastupovali prihlasovateľa ako zástupcovia prihlasovateľa
 
-          - (i) pred prijímacím úradom, Medzinárodným úradom, orgánom pre medzinárodnú rešerš a orgánom pre medzinárodný predbežný prieskum s podmienkou, že osoba takto ustanovená ako ďalší zástupca má právo vystupovať pred národným úradom, na ktorom bola medzinárodná prihláška podaná;
+          - (i) pred prijímacím úradom, pred Medzinárodným úradom, pred príslušným orgánom pre medzinárodnú rešerš a pred orgánom pre medzinárodný predbežný prieskum s podmienkou, že každá takto ustanovená osoba ako ďalší zástupca má právo vystupovať pred národným úradom, na ktorom sa podala medzinárodná prihláška, alebo ak ide o medzinárodnú prihlášku, pred Medzinárodným úradom, ktorý vykonáva funkciu prijímacieho úradu, podľa toho, o ktorý prípad ide,
 
           - (ii) osobitne pred orgánom pre medzinárodnú rešerš alebo pred orgánom pre medzinárodný predbežný prieskum, s podmienkou, že osoba takto ustanovená ako ďalší zástupca má právo vystupovať pred národným úradom alebo medzivládnou organizáciou, ktorá pôsobí ako orgán pre medzinárodnú rešerš alebo orgán pre medzinárodný predbežný prieskum.
 
@@ -2698,9 +2744,9 @@
 
         - (b) Oznámenie podľa odseku (a) musí Medzinárodný úrad ihneď zverejniť vo Vestníku a bude platiť pre medzinárodné prihlášky podané viac ako jeden mesiac po dátume tohto zverejnenia.
 
-    - PRAVIDLO 91 ZJAVNÉ OMYLY V DOKLADOCH
+    - Pravidlo 91 Zjavné chyby v dokladoch
 
-      - 91.1 Náprava
+      - 91.1. Oprava
 
         - (a) S výhradou ustanovenia odseku (a) až (g-quater) možno zjavné omyly v medzinárodnej prihláške alebo iných listinách predložených prihlasovateľom napraviť.
 
@@ -2710,13 +2756,13 @@
 
         - (d) Náprava sa vykoná na žiadosť prihlasovateľa. Orgán, ktorý zistil zjavný omyl, môže vyzvať prihlasovateľa, aby podal žiadosť o nápravu podľa odsekov (e) až (g-quater). Pravidlo 26.4 (a) platí primerane aj pre žiadosti o nápravu.
 
-        - (e) Žiadna náprava sa nevykoná bez výslovného schválenia
+        - (e) Žiadna oprava sa nevykoná bez výslovného oprávnenia
 
           - (i) prijímacieho úradu, ak ide o omyl v žiadosti;
 
           - (ii) orgánu pre medzinárodnú rešerš, ak ide o omyl v inej časti medzinárodnej prihlášky, než je žiadosť, alebo v iných písomnostiach predložených tomuto orgánu;
 
-          - (iii) orgánu pre medzinárodný predbežný prieskum, ak ide o omyl v inej časti medzinárodnej prihlášky, než je žiadosť, alebo v iných písomnostiach predložených tomuto orgánu;
+          - (iii) orgánu pre medzinárodný predbežný prieskum, ak ide o chyby v ktorejkoľvek časti medzinárodnej prihlášky, okrem žiadosti, alebo v ktorejkoľvek písomnosti predloženej tomuto orgánu
 
           - (iv) Medzinárodného úradu, ak ide o chybu v inej písomnosti predloženej tomuto úradu, než je medzinárodná prihláška alebo jej úpravy a opravy.
 
