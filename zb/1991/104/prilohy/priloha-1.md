@@ -396,7 +396,7 @@
 
       - 1. Pre zisťovanie pokroku dosiahnutého štátmi, ktoré sú zmluvnou stranou Dohovoru, pri plnení záväzkov prijatých týmto Dohovorom sa zriaďuje Výbor pre práva dieťaťa, ktorý vykonáva určené funkcie.
 
-      - 2. Výbor sa skladá z desiatich odborníkov vysokého morálneho charakteru a uznávaných schopností v oblasti, ktorá je predmetom tohto Dohovoru. Členov výboru volia štáty, ktoré sú zmluvnou stranou Dohovoru, z radov ich štátnych príslušníkov a vykonávajú túto funkciu ako súkromné osoby, pričom sa berie ohľad na spravodlivé zemepisné rozdelenie a na zastúpenie hlavných právnych systémov.
+      - 2. Výbor sa skladá z osemnástich odborníkov vysokého morálneho charakteru a uznávaných schopností v oblasti, ktorá je predmetom tohto Dohovoru. Členov výboru volia štáty, ktoré sú zmluvnou stranou Dohovoru, z radov ich štátnych príslušníkov a vykonávajú túto funkciu ako súkromné osoby, pričom sa berie ohľad na spravodlivé zemepisné rozdelenie a na zastúpenie hlavných právnych systémov.
 
       - 3. Členovia výboru sa volia tajným hlasovaním zo zoznamu osôb navrhnutých štátmi, ktoré sú zmluvnou stranou Dohovoru. Každý štát, ktorý je zmluvnou stranou Dohovoru, môže zo svojich občanov vymenovať jednu osobu.
 
