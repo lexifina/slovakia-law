@@ -58,6 +58,10 @@ Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na poz
 
 - Oprávnenie na používanie osobitného označenia na vozidle uvedenom v odseku 1 písm. a) až c) sa preukazuje preukazom osobitného označenia vozidla vydaného krajským úradom uvedeným v odseku 4.
 
+- (6)
+
+- Vodič vozidla uvedeného v odseku 1 písm. a) a c) a označeného osobitným označením je povinný pri vedení vozidla mať pri sebe preukaz uvedený v odseku 5 a na výzvu policajta sa ním preukázať.
+
 - (7)
 
 - Vodič osobitne označeného vozidla uvedeného v odseku 1 písm. a) a c) nemusí po nevyhnutne potrebný čas dodržiavať zákaz státia. Pritom nesmie ohroziť bezpečnosť cestnej premávky. Týmto oprávnením nie je dotknutá povinnosť vodiča uposlúchnuť pokyn, výzvu alebo požiadavku policajta súvisiace s výkonom jeho oprávnení podľa tohto zákona.
