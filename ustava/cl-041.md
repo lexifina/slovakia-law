@@ -1,0 +1,13 @@
+# Čl. 41
+
+(1) Manželstvo, rodičovstvo a rodina sú pod ochranou zákona. Zaručuje sa osobitná ochrana detí a mladistvých.
+
+(2) Žene v tehotenstve sa zaručuje osobitná starostlivosť, ochrana v pracovných vzťahoch a zodpovedajúce pracovné podmienky.
+
+(3) Deti narodené v manželstve i mimo neho majú rovnaké práva.
+
+(4) Starostlivosť o deti a ich výchova je právom rodičov; deti majú právo na rodičovskú výchovu a starostlivosť. Práva rodičov možno obmedziť a maloleté deti možno od rodičov odlúčiť proti vôli rodičov len rozhodnutím súdu na základe zákona.
+
+(5) Rodičia, ktorí sa starajú o deti, majú právo na pomoc štátu.
+
+(6) Podrobnosti o právach podľa odsekov 1 až 5 ustanoví zákon.

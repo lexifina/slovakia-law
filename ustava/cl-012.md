@@ -1,0 +1,9 @@
+# Čl. 12
+
+(1) Ľudia sú slobodní a rovní v dôstojnosti i v právach. Základné práva a slobody sú neodňateľné, nescudziteľné, nepremlčateľné a nezrušiteľné.
+
+(2) Základné práva a slobody sa zaručujú na území Slovenskej republiky všetkým bez ohľadu na pohlavie, rasu, farbu pleti, jazyk, vieru a náboženstvo, politické, či iné zmýšľanie, národný alebo sociálny pôvod, príslušnosť k národnosti alebo etnickej skupine, majetok, rod alebo iné postavenie. Nikoho nemožno z týchto dôvodov poškodzovať, zvýhodňovať alebo znevýhodňovať.
+
+(3) Každý má právo slobodne rozhodovať o svojej národnosti. Zakazuje sa akékoľvek ovplyvňovanie tohto rozhodovania a všetky spôsoby nátlaku smerujúce k odnárodňovaniu.
+
+(4) Nikomu nesmie byť spôsobená ujma na právach pre to, že uplatňuje svoje základné práva a slobody.
