@@ -4,6 +4,18 @@
 
 - 2a) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
 
+- Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 2b) Zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
+
+- 2c) Zákon Slovenskej národnej rady č. 270/1991 Zb. o Štátnom fonde trhovej regulácie Slovenskej republiky v poľnohospodárstve v znení neskorších predpisov.
+
 - 3) § 59 a 223 Obchodného zákonníka.
 
 - 4) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
@@ -18,7 +30,9 @@
 
 - 5a) § 2 ods. 5 písm. a) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
 
-- 6) § 84 až 169 zákona č. 618/1992 Zb. Colný zákon.
+- 5b) § 104 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+
+- 6) § 159 až 376 zákona č. 238/2001 Z. z. Colný zákon.
 
 - 7) § 829 zákona č. 40/1964 Zb. Občiansky zákonník.
 
@@ -35,8 +49,6 @@
 - 12) Napríklad § 2 zákona č. 526/1990 Zb. o cenách, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 44/1991 Zb.
 
 - 13) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení vyhlášky Ministerstva financií Slovenskej republiky č. 59/1995 Z. z.
-
-- 13a) § 4 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení zákona Národnej rady Slovenskej republiky č. 179/1994 Z. z.
 
@@ -82,6 +94,8 @@
 
 - 28) § 663 Občianskeho zákonníka.
 
+- 28a) Napríklad § 577 až 590 a § 601 až 609 Obchodného zákonníka.
+
 - 29) § 251 ods. 1 písm. c), § 256, § 259, § 265, § 269 a § 272 zákona č. 618/1992 Zb.§ 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 146/1995 Z. z.
 
 - 30) § 72 ods. 13 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z.
@@ -100,13 +114,13 @@
 
 - 35a) § 716 Obchodného zákonníka.
 
-- 36) § 313 Obchodného zákonníka.
+- 36) § 8 ods. 1, § 28 až 33 zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
 
 - 37) § 682 Obchodného zákonníka.
 
 - 38) § 692 Obchodného zákonníka.
 
-- 38a) § 8 ods. 1 zákona č. 600/1992 Zb. o cenných papieroch.
+- 38a) Zákon č. 385/1999 Z. z. o kolektívnom investovaní v znení zákona č. 329/2000 Z. z.
 
 - 38b) § 14 zákona č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení zákona Národnej rady Slovenskej republiky č. 91/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 191/1995 Z. z.
 
@@ -144,6 +158,8 @@
 
 - 50a) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
 
+- 50b) § 2 ods. 7 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+
 - 51) § 38 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 146/1995 Z. z.
 
 - 52) § 15 zákona č. 111/1990 Zb. o štátnom podniku.
@@ -163,6 +179,12 @@
 - § 299 Obchodného zákonníka.
 
 - Občiansky súdny poriadok.
+
+- 56aa) § 13 ods. 1 zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
+
+- 56ab) § 38 ods. 7 a 8 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 146/1995 Z. z.
+
+- 56ac) § 42 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 56b) § 73 až 93 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
@@ -201,6 +223,8 @@
 - 67) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách.
 
 - 67a) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl.
+
+- 67a) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 68) Vyhláška ministra zahraničných vecí č. 160/1988 Zb. o Medzinárodnom dohovore o harmonizovanom systéme opisu a číselného označovania tovaru a Protokole o jeho zmene
 

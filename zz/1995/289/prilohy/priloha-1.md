@@ -78,6 +78,10 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - 151490 | - Ostatné
 
+- 15159059 | - Tuhé, ostatné; tekuté
+
+- | len surový tekvicový olej ne ľudskú výživu
+
 - 1516 | - Tuky a oleje živočíšne alebo rastlinné a ich frakcie čiastočne alebo úplne hydrogenované,
 
 - | interesterifikované, reesterifikované alebo elaidinizované, tiež rafinované, ale inak neupravené
@@ -126,7 +130,7 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | ako 5 % hmotnosti glukózy alebo škrobu
 
-- 21069098 | - Ostatné - len nealkoholické nápoje v prášku
+- 21069098 | - Ostatné - len nealkoholické nápoje a šľahačka
 
 - 2201 | - Voda vrátane minerálnych vôd prírodných alebo umelých a sódoviek bez prísady cukru alebo
 
@@ -293,6 +297,14 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 - 66020000 | - Palice, palice so sedadielkom, biče, jazdecké bičíky a podobné výrobky
 
 - | len pre nevidiace a čiastočne vidiace osoby
+
+- 69139091 | - Kameninové výrobky
+
+- | len ľudovoumelecké výrobky ručne vyrábené
+
+- 69139093 | - Hlinený tovar alebo jemný hrnčiarsky tovar
+
+- | len ľudovoumelecké výrobky ručne vyrábené
 
 - 70151000 | - Okuliarové sklá korekčné
 
@@ -472,6 +484,10 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | len v úprave pre nevidiacich
 
+- 94012000 | - Sedadlá používané v motorových vozidlách
+
+- | iba detské sedačky do automobilov
+
 - 93010000 | - Vojenské zbrane, iné revolvery, pištole a zbrane čísla 9307 - len samohybná húfnica ZUZANA
 
 - 93063010 | - Do revolverov a pištolí čísla 9302 a do samopalov čísla 9301
@@ -551,6 +567,10 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 - | okrem číselného kódu 63.21.25 - Ostatné pomocné služby v cestnej doprave inde
 
 - | neklasifikované
+
+- 64.20.21 | - Služby spojené s televíznym vysielaním a prenosom televízneho signálu
+
+- 64.20.22 | - Služby spojené s rozhlasovým vysielaním a prenosom rozhlasového signálu
 
 - 71.40.12 | - Služby spojené s leasingom a prenájmom videonahrávok
 
