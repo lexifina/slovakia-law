@@ -1,0 +1,1 @@
+- 1) Členy komise za Slovenskou socialistickou republiku jmenuje ministerstvo financí Slovenské socialistické republiky.
