@@ -1,4 +1,4 @@
-- 1) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi, zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z. o Kancelárii prezidenta Slovenskej republiky, zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení zákona č. 458/2000 Z. z., zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly, zákon č. 238/2001 Z. z. Colný zákon, zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 153/2001 Z. z. o prokuratúre, zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov, zákon č. 351/1997 Z. z. Branný zákon v znení zákona č. 401/2000 Z. z.
+- 1) Napríklad zákon č. 314/2001 Z. z. o ochrane pred požiarmi, zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z. o Kancelárii prezidenta Slovenskej republiky, zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení zákona č. 458/2000 Z. z., zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly, zákon č. 238/2001 Z. z. Colný zákon, zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 153/2001 Z. z. o prokuratúre, zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov, zákon č. 351/1997 Z. z. Branný zákon v znení zákona č. 401/2000 Z. z., zákon č. 564/2001 Z. z. o verejnom ochrancovi práv.
 
 - 2) Napríklad zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov, zákon č. 153 /2001 Z. z.
 
@@ -8,7 +8,9 @@
 
 - 4) § 3 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
-- 5) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z., zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, § 143 ods. 5 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z.
+- 4a) Napríklad zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly, zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov, zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov, § 7 zákona Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
+
+- 5) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z., zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, § 143 ods. 5 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z., zákon č. 564/2001 Z. z.
 
 - 6) Zákon č. 311/1999 Z. z. o registri trestov.
 
@@ -73,6 +75,8 @@
 - 32) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 32a) Zákon č. 313/2001 Z. z. o verejnej službe v znení zákona č. 118/2002 Z. z.
+
+- 32aa) § 3a nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 32b) § 5 ods. 7 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
