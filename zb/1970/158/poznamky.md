@@ -8,10 +8,6 @@
 
 - ***) § 114 ods. 4 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 153/1969 Zb., ktorým sa mení a dopĺňa Zákonník práce.
 
-- *) § 4 písm. a) a § 8 ods. 1 vyhlášky č. 145/1968 Zb. o fonde kultúrnych a sociálnych potrieb a o pobádacom fonde.
-
-- **) § 6 ods. 1 a § 8 ods. 3 vyhlášky č. 145/1968 Zb.
-
 - ***) Úprava Štátnej komisie pre techniku č. 27 819/II-25/1967.
 
 - †) Uznesenie vlády ČSSR a Ústrednej rady Československého revolučného odborového hnutia z 29. decembra 1970 na rozvoj iniciatívy pracujúcich v rokoch 1971-1975; § 6 a 19 vyhlášky č. 103/1966 Zb. a čl. 4 ods 2 smerníc č. 10/1967 Ú. v.
