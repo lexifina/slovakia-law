@@ -1,0 +1,1 @@
+- 1) lékopis společně vydávají ministerstvo zdravotníctví České socialistické republiky a ministerstvo zdravotníctví Slovenské socialistické republiky ve Zdravotnickém nakladatelství.
