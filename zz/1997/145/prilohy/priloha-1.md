@@ -196,4 +196,6 @@ KP | Názov
 
 29.11.13 | Piestové vznetové motory s vnútorným spaľovaním
 
+34.10.4 | Motorové vozidlá na nákladnú dopravu
+
 Vysvetlivky:KP - klasifikácia produkciei.n. - inde neuvedené
