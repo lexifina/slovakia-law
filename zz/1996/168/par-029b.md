@@ -12,7 +12,7 @@ Samosprávny kraj
 
 - e) ukladá dopravcom pokuty za porušenie povinností (§ 35 ods. 1 a 2), ak nejde o medzinárodnú pravidelnú autobusovú dopravu,
 
-- f) prejednáva priestupky (§ 36),
+- f) prejednáva priestupky podľa § 36 a podľa osobitného predpisu,<sup>28b</sup>) ak boli spáchané na úseku štátnej správy v pôsobnosti samosprávneho kraja,
 
 - g) vedie evidenciu dopravcov, ktorým udelil dopravnú licenciu,
 

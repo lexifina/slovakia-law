@@ -66,7 +66,9 @@
 
 - 28) § 21 ods. 2 Obchodného zákonníka.
 
-- 28a) § 11 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+- 28a) Článok I § 4 ods. 2 zákona č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky.
+
+- 28b) § 23 ods. 1 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
