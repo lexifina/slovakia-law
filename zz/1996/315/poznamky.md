@@ -70,6 +70,10 @@
 
 - 34) Napríklad Občiansky zákonník, zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
+- 34a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 35) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z.
+
 - 35a) § 51 ods. 2 a § 51 ods. 3 písm. a) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
 - 36) Zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
