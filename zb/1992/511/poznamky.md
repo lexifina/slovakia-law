@@ -1,6 +1,10 @@
 - 1) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č.87/1994 Z. z. o cestnej dani v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 544/1990 Zb. o miestnych poplatkoch v znení neskorších predpisov.
 
-- 1a) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.
+- 1a) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly.
+
+- 1b) Zákon č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov.
+
+- 1c) Zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
 - 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
@@ -50,13 +54,19 @@
 
 - 8a) Napr. § 25 ods. 2 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
-- 8aa) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 8aa) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
+
+- 8ab) Zákon č. 563/1991 Zb. v znení neskorších predpisov.
 
 - 8b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 8c) § 20 ods. 2 zákona č. 286/1992 Zb. v znení neskorších predpisov.
+- 8ba) § 10 zákona Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov.
 
-- 8d) § 36 ods. 2 písm. a) bod 3 zákona č. 286/1992 Zb. v znení neskorších predpisov.
+- 8bb) § 11 zákona Slovenskej národnej rady č. 78/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 378/1996 Z. z.
+
+- 8bc) § 12 zákona Slovenskej národnej rady č. 78/1992 Zb. v znení neskorších predpisov.
+
+- 8bd) § 6 ods. 12 zákona č. 366/1999 Z. z. v znení zákona č. 466/2000 Z. z.
 
 - 8e) Napríklad Zmluva medzi Slovenskou republikou a Českou republikou o zamedzení dvojakého zdanenia v odbore daní z príjmov a z majetku (oznámenie č. 229/1993 Z. z.).
 
@@ -64,11 +74,17 @@
 
 - 8g) Zákon č. 231/1999 Z. z. o štátnej pomoci.
 
+- 8h) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
+
+- 8i) § 58 ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní v znení neskorších predpisov.
+
+- 8j) Zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení zákona č. 70/1997 Z. z.
+
 - 9) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
 - 10) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb.
 
-- 10a) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov.
+- 10a) Napríklad zákon č. 366/1999 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov.
 
 - 10b) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
@@ -88,7 +104,21 @@
 
 - 11d) Napr. zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
-- 11da) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 11da) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
+
+- 11db) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 11dc) § 13 ods. 4 zákona č. 366/1999 Z. z. v znení zákona č. 466/2000 Z. z.
+
+- 11dd) Napríklad § 148 a 250 Trestného zákona.
+
+- 11de) § 158 Trestného poriadku.
+
+- 11df) Zákon Slovenskej národnej rady č. 318/1992 Zb. v znení neskorších predpisov.
+
+- 11dg) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
+
+- 11dh) § 36 zákona č. 366/1999 Z. z. v znení neskorších predpisov.
 
 - 12) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
 
@@ -107,6 +137,10 @@
 - 13d) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 310/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 312/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. v znení neskorších predpisov.
 
 - 13e) Napríklad zákon č. 286/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 87/1994 Z. z. v znení neskorších predpisov.
+
+- 13ea) Zákon Národnej rady Slovenskej republiky č. 87/1994 Z. z. o cestnej dani v znení neskorších predpisov.
+
+- 13eb) § 68 ods. 2 Obchodného zákonníka.
 
 - 13f) Zákon č. 366/1999 Z. z.
 
@@ -175,8 +209,6 @@
 - 19i) § 481 Obchodného zákonníka.
 
 - 19j) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
-
-- 19k) Zákon Národnej rady Slovenskej republiky č. 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností v znení neskorších predpisov.
 
 - 19l) Obchodný zákonník v znení neskorších predpisov.
 

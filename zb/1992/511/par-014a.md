@@ -26,4 +26,4 @@
 
 (10) Zvyšok výťažku z predaja zabezpečeného a prepadnutého tovaru a veci po použití podľa odseku 9 pripadne štátu.
 
-(11) Správca dane určí spôsob zničenia prepadnutého tovaru alebo veci (majetku štátu), ktoré nemožno predať, a vymenuje trojčlennú komisiu, ktorá bude dozerať na zničenie takéhoto tovaru alebo veci. Náklady spojené so skladovaním a zničením prepadnutého tovaru alebo veci uhrádza fyzická osoba alebo právnická osoba, ktorá prepadnutý tovar alebo vec predávala,<sup>6g</sup>) prepravovala alebo skladovala; o zničení tohto tovaru alebo veci spíše komisia zápisnicu, ktorej kópiu pošle do pätnástich dní ústrednému riaditeľstvu.
+(11) Správca dane určí spôsob zničenia prepadnutého tovaru alebo veci (majetku štátu), ktoré nemožno predať, a vymenuje trojčlennú komisiu, ktorá bude dozerať na zničenie takéhoto tovaru alebo veci. Náklady spojené so skladovaním a zničením prepadnutého tovaru alebo veci uhrádza fyzická osoba alebo právnická osoba, ktorá prepadnutý tovar alebo vec predávala,<sup>6g</sup>) prepravovala alebo skladovala; o zničení tohto tovaru alebo veci spíše komisia zápisnicu, ktorej kópiu pošle do pätnástich dní daňovému riaditeľstvu.
