@@ -1,1 +1,1 @@
-Príloha č. 4 k zákonu č. 106/2004 Z. z. [VZOR 04-1](../assets/2c475ffcea0b7d42f40cc81230518156f8b5629a2de8ce301f4200934a4a046c.pdf)
+Príloha č. 4 k zákonu č. 106/2004 Z. z. [VZOR 04-1](../assets/0d7415c92737c2c00760c193a4a41f49a2840135abb2c664f43e9cd350d8c0f7.pdf)
