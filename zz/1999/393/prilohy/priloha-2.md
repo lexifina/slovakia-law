@@ -32,7 +32,7 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 2. Overovanie zhody výrobku s certifikovaným typom podľa § 3 ods. 1 písm. a)
 
-- 2.1 Overovanie zhody výrobku s certifikovaným typom je postup, keď výrobca alebo splnomocnenec vyhlasuje, že spotrebič alebo vybavenie sú v zhode s typom opísaným v certifikáte typu a spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo jeho splnomocnenec vypracuje a uchováva písomné vyhlásenie o zhode na výrobky vyrobené mimo štátov, s ktorými má Slovenská republika medzinárodnú zmluvu.
+- 2.1 Overovanie zhody výrobku s certifikovaným typom je postup, keď výrobca vyhlasuje, že spotrebič alebo vybavenie sú v zhode s typom opísaným v certifikáte typu a spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo jeho splnomocnenec vypracuje a uchováva písomné vyhlásenie o zhode na výrobky vyrobené mimo štátov, s ktorými má Slovenská republika medzinárodnú zmluvu.
 
 - 2.2 Výrobca alebo splnomocnenec vykoná všetky nevyhnutné opatrenia na to, aby výrobný proces vrátane výstupnej kontroly a skúšok konečného výrobku zabezpečoval jednotnosť výroby a zhodu spotrebičov alebo vybavení s typom opísaným v certifikáte typu a s technickými požiadavkami, ktoré sú na neho aplikovateľné. Autorizovaná osoba, ktorú si zvolil výrobca alebo splnomocnenec, vykonáva náhodné kontroly spotrebičov alebo vybavení podľa bodu 2.3.
 
@@ -66,7 +66,7 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - d) prostriedkov na kontrolu požadovanej kvality spotrebičov alebo vybavení a efektívneho využívania systému kvality.
 
-- 3.3.3 Autorizovaná osoba preveruje a vyhodnocuje systém kvality s cieľom zistiť, či systém vyhovuje požiadavkám uvedeným v bode 3.3.2. Predpoklad zhody s týmito požiadavkami je splnený pri systémoch kvality, ktoré zodpovedajú slovenským technickým normám. Autorizovaná osoba odovzdá tomu, kto o schválenie systému kvality požiadal, správu, ktorá obsahuje výsledky previerky, identifikačné údaje o autorizovanej osobe a odôvodnené rozhodnutie o vyhodnotení vzťahujúce sa na spotrebiče alebo vybavenia, ktorých sa to týka.
+- 3.3.3 Autorizovaná osoba preveruje a vyhodnocuje systém kvality s cieľom zistiť, či systém vyhovuje požiadavkám uvedeným v bode 3.3.2. Predpoklad zhody s týmito požiadavkami je splnený pri systémoch kvality, ktoré zodpovedajú harmonizovaným normám<sup>2</sup>). Ak autorizovaná osoba odoberie výrobcovi certifikát systému kvality, musí o tom informovať iné autorizované osoby s príslušným odôvodnením.
 
 - 3.3.4 Výrobca informuje autorizovanú osobu, ktorá schválila systém kvality, o všetkých zmenách v tomto systéme, napr. v dôsledku nových technológií a koncepcie kvality. Autorizovaná osoba overuje prípadné zmeny a rozhoduje o tom, či zmenený systém kvality zodpovedá príslušným ustanoveniam alebo či je nevyhnutné nové hodnotenie. Svoje rozhodnutie oznamuje výrobcovi. Toto oznámenie obsahuje výsledky overení a jeho odôvodnené závery.
 
@@ -112,7 +112,7 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - c) prostriedkov na kontrolu efektívneho využívania systému kvality.
 
-- 4.3.3 Autorizovaná osoba preveruje a vyhodnocuje systém kvality s cieľom zistiť, či systém vyhovuje požiadavkám uvedeným v bode 4.3.2. Predpoklad zhody s týmito požiadavkami je splnený pri systémoch kvality, ktoré zodpovedajú slovenským technickým normám. Autorizovaná osoba odovzdá tomu, kto o schválenie systému kvality požiadal, správu, ktorá obsahuje výsledky previerky, identifikačné údaje o autorizovanej osobe a odôvodnené rozhodnutie o vyhodnotení vzťahujúce sa na spotrebiče a vybavenia, ktorých sa to týka.
+- 4.3.3 Autorizovaná osoba preveruje a vyhodnocuje systém kvality s cieľom zistiť, či systém vyhovuje požiadavkám uvedeným v bode 4.3.2. Predpoklad zhody s týmito požiadavkami je splnený pri systémoch kvality, ktoré zodpovedajú harmonizovaným normám<sup>2</sup>). Ak autorizovaná osoba odoberie výrobcovi certifikát systému kvality, musí o tom informovať ostatné autorizované osoby s príslušným odôvodnením.
 
 - 4.3.4 Výrobca informuje autorizovanú osobu, ktorá schválila systém kvality, o všetkých zmenách v tomto systéme, napr. v dôsledku nových technológií a koncepcie kvality. Autorizovaná osoba overuje prípadné zmeny a rozhoduje, či zmenený systém kvality zodpovedá príslušným ustanoveniam alebo či je nevyhnutné nové hodnotenie. Svoje rozhodnutie oznamuje výrobcovi. Toto oznámenie obsahuje výsledky overenia a jeho odôvodnené závery.
 
@@ -144,7 +144,7 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 5.4.1 Všetky spotrebiče alebo vybavenia musia byť jednotlivo posúdené a musia byť vykonané skúšky, ktoré sú ustanovené v harmonizovaných slovenských technických normách, alebo musia byť vykonané príslušné skúšky tak, aby sa overila zhoda s technickými požiadavkami, ktoré sa na ne vzťahujú.
 
-- 5.4.2 Autorizovaná osoba vypracuje písomný certifikát o zhode pre spotrebiče alebo vybavenia, ktoré vyhoveli vykonaným skúškam, a na každom spotrebiči alebo vybavení zabezpečí umiestnenie slovenskej značky zhody.
+- 5.4.2 Autorizovaná osoba vypracuje písomný certifikát o zhode pre spotrebiče alebo vybavenia, ktoré vyhoveli vykonaným skúškam, a na každom spotrebiči alebo vybavení umiestni alebo zabezpečí umiestnenie svojho identifikačného kódu. Výrobca alebo jeho splnomocnenec každému na základe žiadosti poskytne certifikát zhody, ktorý vydala autorizovaná osoba.
 
 - 5.5 Štatistické overovanie
 
@@ -156,14 +156,16 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - b) minimálna úroveň kvality skúšanej skupiny, zodpovedajúca pravdepodobnosti prijateľnosti 95 % s percentom nezhody medzi 5 a 10 %.
 
-- 5.5.3 Ak je skupina prijatá, autorizovaná osoba vydá písomný certifikát o zhode spotrebičov alebo vybavení, ktorý sa vzťahuje na všetky spotrebiče alebo vybavenia zo skupiny, a zabezpečí na nich umiestnenie slovenskej značky zhody s výnimkou tých, pri ktorých nebola zistená zhoda. Toto označenie môže výrobca so súhlasom autorizovanej osoby umiestniť na výrobky už v priebehu výroby. Ak je skupina odmietnutá, autorizovaná osoba o tom vydá správu, ktorú odovzdá výrobcovi alebo dovozcovi, aby sa zabránilo uvedeniu spotrebičov z tejto skupiny na trh. V prípade opakovaného odmietnutia skupín môže autorizovaná osoba zastaviť štatistické overovanie.
+- 5.5.3 Ak je skupina prijatá, autorizovaná osoba vydá písomný certifikát o zhode spotrebičov alebo vybavení, ktorý sa vzťahuje na všetky spotrebiče alebo vybavenia zo skupiny, a umiestni alebo zabezpečí umiestnenie svojho identifikačného kódu s výnimkou tých, pri ktorých nebola zistená zhoda. Toto označenie môže výrobca so súhlasom autorizovanej osoby umiestniť na výrobky už v priebehu výroby. Ak je skupina odmietnutá, autorizovaná osoba o tom vydá správu, ktorú odovzdá výrobcovi alebo dovozcovi, aby sa zabránilo uvedeniu spotrebičov z tejto skupiny na trh. V prípade opakovaného odmietnutia skupín môže autorizovaná osoba zastaviť štatistické overovanie.
 
 - 6. Overovanie zhody každého výrobku autorizovanou osobou
 
 - 6.1 Overovanie zhody každého výrobku autorizovanou osobou je postup, pri ktorom výrobca alebo dovozca zabezpečuje a vyhlasuje, že spotrebič alebo vybavenie, na ktoré bol vydaný certifikát podľa bodu 6.2, zodpovedá technickým požiadavkám, ktoré sa naň vzťahujú. Výrobca alebo splnomocnenec vypracuje písomné vyhlásenie o zhode.
 
-- 6.2 Autorizovaná osoba posúdi spotrebič alebo vybavenie a podrobí ho s prihliadnutím na technickú dokumentáciu potrebným skúškam s cieľom zistiť jeho zhodu s technickými požiadavkami. Autorizovaná osoba vydá certifikát o zhode spotrebiča alebo vybavenia, ak vyhovel vykonaným skúškam, a zabezpečí na nich umiestnenie slovenskej značky zhody.
+- 6.2 Autorizovaná osoba posúdi spotrebič alebo vybavenie a podrobí ho s prihliadnutím na technickú dokumentáciu potrebným skúškam s cieľom zistiť jeho zhodu s technickými požiadavkami. Autorizovaná osoba vydá certifikát o zhode spotrebiča alebo vybavenia, ak vyhovel vykonaným skúškam, a umiestni alebo zabezpečí umiestnenie svojho identifikačného kódu.
 
 - 6.3 Technická dokumentácia uvedená v prílohe č. 3 musí byť dostupná autorizovanej osobe.
 
 - 6.4 Ak to autorizovaná osoba považuje za nevyhnutné, vykoná kontrolu a preskúšanie po inštalácii spotrebiča alebo vybavenia.
+
+- 6.5 Výrobca alebo jeho splnomocnenec každému na základe žiadosti poskytne certifikát zhody, ktorý vydala autorizovaná osoba.
