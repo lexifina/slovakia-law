@@ -56,11 +56,11 @@
 
         - S výhradou ustanovení pravidla 3.3 upravia podrobnosti tlačeného formulára žiadosti a žiadosti podávanej ako počítačový výtlačok Administratívne smernice.
 
-    - PRAVIDLO 4 ŽIADOSŤ (OBSAH)
+    - Pravidlo 4 Žiadosť (obsah)
 
       - 4.1 Povinný a fakultatívny obsah; podpis
 
-        - (a) Žiadosť musí obsahovať:
+        - (a) Žiadosť musí obsahovať
 
           - (i) petit;
 
@@ -68,9 +68,7 @@
 
           - (iii) údaje týkajúce sa prihlasovateľa a zástupcu, ak je zástupca ustanovený;
 
-          - (iv) určenie štátov;
-
-          - (v) údaje týkajúce sa vynálezcu, ak národné zákonodarstvo aspoň jedného z určených štátov požaduje, aby sa meno vynálezcu uviedlo pri podaní národnej prihlášky.
+          - (iv) údaje týkajúce sa vynálezcu, ak národné zákonodarstvo aspoň jedného z určených štátov požaduje, aby sa meno vynálezcu uviedlo pri podaní národnej prihlášky.
 
         - (b) Žiadosť prípadne obsahuje
 
@@ -78,13 +76,9 @@
 
           - (ii) odkaz na prvšiu medzinárodnú rešerš alebo na prvšiu rešerš medzinárodného typu alebo na inú rešerš;
 
-          - (iii) výber určitých druhov ochrany;
+          - (iii) odkaz na základnú prihlášku alebo základný patent
 
-          - (iv) údaj, že prihlasovateľ si praje získať regionálny patent
-
-          - (v) odkaz na základnú prihlášku alebo na základný patent
-
-          - (vi) údaj o prihlasovateľovej voľbe príslušného orgánu pre medzinárodnú rešerš.
+          - (iv) údaj o prihlasovateľovej voľbe príslušného orgánu pre medzinárodnú rešerš.
 
         - (c) Žiadosť môže obsahovať
 
@@ -116,7 +110,13 @@
 
       - 4.5 Prihlasovateľ
 
-        - (a) V žiadosti sa musí uviesť meno, adresa, štátna príslušnosť a sídlo prihlasovateľa alebo každého prihlasovateľa, ak ich je viac.
+        - (a) Žiadosť musí uvádzať
+
+          - (i) meno
+
+          - (ii) adresu a
+
+          - (iii) štátnu príslušnosť a sídlo prihlasovateľa alebo každého prihlasovateľa, ak ich je viac.
 
         - (b) Štátna príslušnosť prihlasovateľa sa musí uviesť názvom štátu, ktorého je príslušníkom.
 
@@ -144,25 +144,17 @@
 
       - Ak je menovaný spoločný zástupca, v žiadosti sa musí táto skutočnosť uviesť.
 
-      - 4.9. Určenie štátov
+      - 4.9 Určenie štátov; druhy ochrany; národné a regionálne patenty
 
-        - (a) Zmluvné štáty musia byť v žiadosti určené:
+        - (a) Podanie žiadosti založí:
 
-          - (i) v prípade určenia na účely získania národných patentov - označením každého štátu, ktorého sa to týka;
+          - (i) určenie všetkých zmluvných štátov, ktoré sú viazané zmluvou ku dňu medzinárodného podania;
 
-          - (ii) v prípade určenia na účely získania regionálneho patentu - údajom o tom, že sa požaduje regionálny patent pre všetky zmluvné štáty, ktoré sú členmi príslušnej zmluvy o regionálnom patente, alebo iba pre tie zmluvné štáty, ktoré sú presne určené.
+          - (ii) údaj, že medzinárodná prihláška, ak ide o každý určený štát, ktorý uplatňuje články 43 a 44, je na udelenie každého druhu ochrany, ktorý je dostupný určením tohto štátu;
 
-        - (b) Žiadosť smie obsahovať údaj o tom, že všetky určenia, ktoré by boli podľa Zmluvy dovolené, iné než tie, ktoré sú vykonané podľa odseku (a), sú tiež vykonané, za predpokladu, že:
+          - (iii) údaj, že medzinárodná prihláška, ak ide o každý určený štát, v ktorom sa uplatňuje článok 45(1), je na udelenie regionálneho patentu, a tiež národného patentu, ak sa neuplatňuje článok 45(2).
 
-          - (i) aspoň jeden zmluvný štát je určený podľa odseku (a), a
-
-          - (ii) žiadosť obsahuje aj vyhlásenie, že každé určenie podľa tohto odseku je podrobené potvrdeniu podľa odseku (c) a že určenie, ktoré nebude takto potvrdené pred uplynutím lehoty 15 mesiacov od dátumu priority, sa bude považovať za späťvzaté prihlasovateľom pri uplynutí tejto lehoty.
-
-          - (c) Potvrdenie každého určenia vykonané podľa odseku (b) nadobudne platnosť
-
-          - (i) podaním písomnej správy na prijímacom úrade obsahujúcej údaj podľa odseku (a) (i) alebo (ii), a
-
-          - (ii) zaplatením poplatku za určenie a potvrdzovacieho poplatku prijímaciemu úradu podľa ustanovení pravidla 15.5. v lehote podľa odseku (b) (ii).
+        - (b) Bez ohľadu na odsek (a)(i), ak k 1. októbru 2002 národné zákonodarstvo zmluvného štátu stanoví, že podanie medzinárodnej prihlášky, ktorá obsahuje určenie tohto štátu a ktorá uplatňuje prioritu skoršej národnej prihlášky, majúcej účinok v tomto štáte, musí viesť k upusteniu od skoršej národnej prihlášky, čo má také isté dôsledky ako späťvzatie skoršej národnej prihlášky, akákoľvek žiadosť môže, tak dlho, ako to národné zákonodarstvo dovolí, obsahovať tento údaj nepretržite za predpokladu, že určený úrad informoval Medzinárodný výbor do 1. januára 2003, že bude uplatňovať tento odsek vo vzťahu k určeniu tohto štátu. Medzinárodný úrad prijatú informáciu okamžite zverejní vo vestníku.
 
       - 4.10 Uplatnenie priority
 
@@ -188,23 +180,21 @@
 
         - (d) Ak 29. septembra 1999 nie sú zmenené odseky (a) a (b), ktoré nadobudnú platnosť od 1. januára 2000, v súlade s platnou národnou legislatívou určeného úradu budú sa tieto odseky uplatňovať aj po tomto dátume ďalej tak, ako sú v platnosti do 31. decembra 1999, vzhľadom na určený úrad tak dlho, pokiaľ uvedené odseky, tak ako sú zmenené, nebudú v súlade s platnou národnou legislatívou, za predpokladu, že uvedený úrad o tom upovedomí Medzinárodný úrad do 31. októbra 1999. Medzinárodný úrad urýchlene zverejní prijaté informácie vo Vestníku.
 
-      - 4.11 Odkaz na prvšiu rešerš
+      - 4.11 Odkaz na skoršiu rešerš, pokračovanie, alebo čiastkové pokračovanie alebo základnú prihlášku, alebo udelenie
 
-      - Ak bola podľa článku 15 (5) pre prihlášku požadovaná medzinárodná rešerš alebo rešerš medzinárodného typu ak si prihlasovateľ praje, aby orgán pre medzinárodnú rešerš založil medzinárodnú rešeršovú správu úplne alebo čiastočne na výsledkoch rešerše inej než medzinárodnej alebo medzinárodného typu vykonanej národným úradom alebo medzivládnou organizáciou, ktoré sú orgánom pre medzinárodnú rešerš pre medzinárodnú prihlášku, žiadosť musí na túto skutočnosť odkázať. Taký odkaz musí buď identifikovať prihlášku (prípadne jej preklad), pre ktorú bola prvšia rešerš vykonaná, s uvedením krajiny, dátumu a čísla alebo musí identifikovať spomenutú rešerš, s uvedením, podľa okolností, dátumu a čísla žiadosti o rešerš.
+        - (a) Ak
 
-      - 4.12 Výber niektorých druhov ochrany
+          - (i) sa vyžiadala medzinárodná rešerš alebo typ medzinárodnej rešerše na prihlášku podľa článku 15(5);
 
-        - (a) Ak si prihlasovateľ praje, aby sa jeho medzinárodná prihláška v niektorom určenom štáte prerokúvala nie ako prihláška patentu, ale ako prihláška na niektorý iný druh ochrany uvedený v článku 43, musí to uviesť v žiadosti. Na účely tohto odseku neplatí článok 2 (ii).
+          - (ii) si prihlasovateľ praje, aby orgán pre medzinárodnú rešerš založil celú medzinárodnú rešeršnú správu úplne alebo čiastočne na výsledkoch rešerše inej než medzinárodnej alebo na rešerši medzinárodného typu vykonanej národným úradom alebo medzivládnou organizáciou, ktorá je kompetentným medzinárodným rešeršným orgánom pre medzinárodnú prihlášku;
 
-        - (b) V prípade uvedenom v článku 44 prihlasovateľ uvedie oba druhy ochrany, a ak požaduje jeden z dvoch druhov ochrany prednostne, uvedie aj to, ktorý druh ochrany považuje za prednostný a ktorý za podporný.
+          - (iii) prihlasovateľ zamýšľa označiť podľa pravidla 49bis.1(a) alebo (b), že si praje, aby medzinárodná prihláška bola spracovaná v každom určenom štáte ako prihláška dodatkového patentu, dodatkového osvedčenia, dodatkového autorského osvedčenia na vynález alebo dodatkového osvedčenia na úžitkový vzor, alebo
 
-      - 4.13 Uvádzanie základnej prihlášky alebo základného patentu
+          - (iv) prihlasovateľ zamýšľa označiť podľa pravidla 49bis.1(c), že si želá, aby medzinárodná prihláška bola spracovaná v ktoromkoľvek určenom štáte ako prihláška, ktorá je „pokračovaním“ alebo „čiastkovým pokračovaním“ skoršej prihlášky;
 
-        - Ak si prihlasovateľ praje, aby sa jeho medzinárodná prihláška prerokúvala v niektorom z určených štátov ako prihláška o dodatkový patent alebo dodatkové osvedčenie, dodatkové autorské osvedčenie na vynález alebo dodatkové osvedčenie na úžitkový vzor, musí uviesť základnú prihlášku alebo základný patent, základné autorské osvedčenie na vynález alebo základné osvedčenie o úžitkovom vzore, na ktorý sa dodatkový patent alebo osvedčenie, dodatkové autorské osvedčenie na vynález alebo dodatkové osvedčenie o úžitkovom vzore bude vzťahovať, ak bude udelené. Na účel tohto odseku neplatí článok 2 (ii).
+        - musí to uviesť v žiadosti, prípadne identifikovať prihlášku, na ktorú bola skoršia rešerš vykonaná, alebo inak identifikovať rešerš, alebo označiť relevantnú hlavnú prihlášku, alebo hlavný patent, alebo iný udelený patent.
 
-      - 4.14 „Pokračovanie“ alebo „čiastkové pokračovanie“
-
-        - Ak si prihlasovateľ praje prerokovať svoju medzinárodnú prihlášku v niektorom z určených štátov vo forme prihlášky, ktorá je „pokračovaním“ alebo „čiastkovým pokračovaním“ prvšej prihlášky, musí to uviesť v žiadosti a opísať príslušnú základnú prihlášku.
+        - (b) Zahrnutie označenia do žiadosti podľa odseku (a)(iii) alebo (iv) nemá vplyv na použitie pravidla 4.9.
 
       - 4.14 bis Voľba orgánu pre medzinárodnú rešerš
 
@@ -584,7 +574,7 @@
 
         - (d) Ak prijímací úrad zaslal prihlasovateľovi výzvu podľa odseku (c) a prihlasovateľ nepredložil v lehote stanovenej podľa odseku (c)(ii) požadovaný preklad a nezaplatil žiadny poplatok požadovaný za oneskorené predloženie, medzinárodná prihláška sa bude považovať za späťvzatú a prijímací úrad o tom vydá uznesenie. Každý preklad a každá platba, ktoré prijímací úrad dostane pred vydaním uznesenia v zmysle predchádzajúcej vety a pred uplynutím 15 mesiacov od dátumu priority, budú sa považovať za prijaté pred uplynutím tejto lehoty.
 
-        - (e) Predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad spoplatniť za neskoré predloženie vo svoj prospech, pričom sa jeho výška rovná 50 % základného poplatku uvedeného v bode 1(a) sadzobníka poplatkov.
+        - (e) Za predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad požadovať vo svoj prospech zaplatenie poplatku za oneskorené predloženie prekladu vo výške 25 % poplatku za medzinárodné podanie, ktorý je uvedený v sadzobníku poplatkov v bode 1, neberúc do úvahy poplatok za každú stranu medzinárodnej prihlášky nad 30 strán.
 
       - 12.4 Preklad na účely medzinárodného zverejnenia
 
@@ -596,7 +586,7 @@
 
         - (d) Ak prihlasovateľ nepredložil v rámci lehoty podľa odseku (c) požadovaný preklad a nezaplatil požadovaný poplatok, medzinárodná prihláška sa považuje za späťvzatú, čo prijímací úrad aj vyhlási. Preklad a poplatok prijaté prijímacím úradom pred vykonaním vyhlásenia úradu podľa predchádzajúcej vety a pred uplynutím 17 mesiacov od dátumu práva prednosti sa považujú za predložené pred uplynutím tejto lehoty.
 
-        - (e) Predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad spoplatniť za neskoré predloženie vo výške 50 % základného poplatku uvedeného v bode 1(a) sadzobníka poplatkov vo svoj prospech.
+        - (e) Za predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad požadovať vo svoj prospech zaplatenie poplatku za oneskorené predloženie prekladu vo výške 25 % poplatku za medzinárodné podanie, ktorý je uvedený v sadzobníku poplatkov v bode 1, neberúc do úvahy poplatok za každú stranu medzinárodnej prihlášky nad 30 strán.
 
     - PRAVIDLO 13 JEDNOTNOSŤ VYNÁLEZU
 
@@ -718,47 +708,31 @@
 
         - (c) Odovzdávací poplatok sa musí zaplatiť do jedného mesiaca od dátumu prijatia medzinárodnej prihlášky. Výška poplatku je suma, ktorá je splatná k dátumu prijatia medzinárodnej prihlášky.
 
-    - PRAVIDLO 15 MEDZINÁRODNÝ POPLATOK
+    - PRAVIDLO 15 Medzinárodný poplatok za podanie
 
-      - 15.1. Základný poplatok a poplatok za určenie
+      - 15.1 Medzinárodný poplatok za podanie
 
-        - Každá medzinárodná prihláška podlieha poplatku v prospech Medzinárodného úradu („medzinárodný poplatok“), ktorý vyberá prijímací úrad a ktorý sa skladá:
+        - Každá medzinárodná prihláška podlieha poplatku v prospech Medzinárodného úradu („poplatok za medzinárodné podanie“), ktorý vyberá prijímací úrad.
 
-          - (i) zo „základného poplatku“ a
+      - 15.2 Výška poplatku
 
-          - (ii) z toľkých „poplatkov za určenie“, koľko národných a regionálnych patentov sa požaduje podľa pravidla 4.9(a) s výnimkou, keď sa na určenie aplikuje ustanovenie článku 44 a za toto určenie sa platí iba jeden poplatok a keď sadzobník poplatkov udáva maximálny počet splatných poplatkov za určenie.
+        - (a) Výšku poplatku za medzinárodné podanie stanovuje sadzobník poplatkov.
 
-      - 15.2 Výška poplatkov
+        - (b) Poplatok za medzinárodné podanie sa musí zaplatiť v mene alebo v jednej z mien, ktorá je predpísaná prijímacím úradom ako „predpísaná mena“, to znamená, že ak prevedie prijímací úrad tento poplatok Medzinárodnému úradu, bude voľne zmeniteľný na švajčiarsku menu. Výšku medzinárodného poplatku určí generálny riaditeľ pre každý prijímací úrad, ktorý určuje výšku tohto poplatku v inej mene než švajčiarskej, po porade s prijímacím úradom štátu alebo úradom konajúcim podľa pravidla 19.1(b) pre tento štát, ktorého úradná mena je rovnaká ako predpísaná mena. Suma takto stanovená musí byť ekvivalentná v zaokrúhlených číslach sume vo švajčiarskej mene stanovenej v sadzobníku poplatkov. Medzinárodný úrad oznámi každému prijímaciemu úradu predpísanú výšku poplatku v predpísanej mene a zverejní ju vo vestníku.
 
-        - (a) Výšku základného poplatku a poplatku za určenie ustanovuje sadzobník poplatkov.
+        - (c) Ak dôjde k zmene výšky medzinárodného poplatku stanovenej sadzobníkom, zodpovedajúca suma v predpísaných menách sa použije odo dňa zmeny sadzobníka.
 
-        - (b) Základný poplatok a poplatok za určenie je splatný v mene alebo v jednej z mien predpísaných prijímacím úradom („predpísaná mena“), to znamená, že ak prevedie prijímací úrad tieto poplatky Medzinárodnému úradu, budú voľne zameniteľné na švajčiarsku menu. Výška základného poplatku a poplatku za určenie bude predpísaná generálnym riaditeľom pre každý prijímací úrad, ktorý predpisuje platby týchto poplatkov, v inej mene než švajčiarskej po porade s prijímacím úradom štátu alebo s úradom konajúcim podľa pravidla 19.1(b) v mieste úradu, ktorého úradná mena je rovnaká ako predpísaná mena. Takto stanovené sumy budú ekvivalentné hodnoty v zaokrúhlených číslach súm uvedených v švajčiarskej mene v sadzobníku poplatkov. Medzinárodný úrad oznámi každému prijímaciemu úradu predpísané sumy v predpísanej mene a zverejnení ich vo Vestníku.
-
-        - (c) Ak dôjde k zmene výšky poplatkov ustanovenej sadzobníkom, zodpovedajúce sumy v predpísaných menách sa použijú odo dňa zmeny sadzobníka.
-
-        - (d) Ak sa výmenný kurz medzi švajčiarskou menou a predpísanou menou oproti poslednému použitému výmennému kurzu zmení, generálny riaditeľ stanoví nové výšky poplatkov v predpísanej mene podľa smerníc Zhromaždenia. Novostanovené výšky poplatkov sa použijú po uplynutí dvoch mesiacov od ich zverejnenia vo Vestníku s tým, že sa prijímací úrad uvedený v druhej vete odseku (b) a generálny riaditeľ môžu dohodnúť na dátume v rámci tejto dvojmesačnej lehoty, a v takom prípade sa tieto sumy použijú počnúc týmto dátumom.
+        - (d) Ak sa výmenný kurz medzi švajčiarskou menou a predpísanou menou oproti poslednému použitému výmennému kurzu zmení, generálny riaditeľ určí novú výšku poplatku v predpísanej mene podľa smerníc Zhromaždenia. Novostanovená výška poplatku sa použije po uplynutí dvoch mesiacov od jej zverejnenia vo vestníku s tým, že sa prijímací úrad uvedený v odseku (b) v druhej vete a generálny riaditeľ môžu dohodnúť na dátume v rámci tejto dvojmesačnej lehoty, a v takom prípade sa tieto sumy použijú počnúc týmto dátumom.
 
       - 15.4 Lehota splatnosti; splatná výška poplatku
 
-        - (a) Základný poplatok sa musí zaplatiť do jedného mesiaca od dátumu prijatia medzinárodnej prihlášky. Výška poplatku je suma splatná k dátumu prijatia medzinárodnej prihlášky.
+        - Poplatok za medzinárodné podanie sa musí zaplatiť do jedného mesiaca od dátumu prijatia medzinárodnej prihlášky. Splatná výška poplatku je suma splatná v deň prijatia.
 
-        - (b) Poplatok za určenie je splatný:
-
-          - (i) do jedného roku od dátumu priority alebo
-
-          - (ii) do jedného mesiaca od dátumu prijatia medzinárodnej prihlášky, ak jednomesačná lehota uplynie neskôr ako jeden rok od dátumu priority.
-
-        - (c) Ak sa poplatok za určenie platí pred uplynutím jedného mesiaca od dátumu prijatia medzinárodnej prihlášky, poplatok bude suma, ktorá platí k dátumu prijatia medzinárodnej prihlášky. Ak sa použije lehota podľa odseku (b)(i) a poplatok za určenie sa platí pred uplynutím tejto lehoty, ale neskôr než jeden mesiac od dátumu prijatia medzinárodnej prihlášky, poplatok bude suma, ktorá je platná k dátumu platby.
-
-      - 15.5. Poplatky podľa pravidla 4.9. (c)
-
-        - (a) Bez ohľadu na pravidlo 15.4(b) potvrdenie každého určenia podľa pravidla 4.9(c) vykonané podľa pravidla 4.9(b) je predmetom platby prijímaciemu úradu toľkých poplatkov za určenie (v prospech Medzinárodného úradu), koľko národných patentov a regionálnych patentov prihlasovateľ na základe potvrdenia požaduje, a potvrdzovacieho poplatku (v prospech prijímacieho úradu), ktorý sa rovná 50 % súčtu poplatkov za určenie splatných podľa tohto odseku. Tieto poplatky sú splatné pre každé takto potvrdené určenie, i keď je už splatný maximálny počet poplatkov za určenie uvedený v položke 2(a) sadzobníka poplatkov alebo i keď je poplatok za určenie už splatný s prihliadnutím na určenie podľa pravidla 4.9(a) pre ten istý štát na iný účel.
-
-        - (b) Ak suma zaplatená prihlasovateľom v lehote podľa ustanovenia pravidla 4.9 (b) (ii) nepostačuje, aby pokryla poplatky podľa odseku (a), musí prijímací úrad prideliť sumu tak, ako určil prihlasovateľ, alebo ak taká špecifikácia od prihlasovateľa chýba, podľa toho, ako je predpísané v Administratívnych smerniciach.
+      - 15.5 (zrušené)
 
       - 15.6 Vrátenie poplatku
 
-      - Prijímací úrad vráti medzinárodný poplatok prihlasovateľovi:
+      - Prijímací úrad vráti prihlasovateľovi poplatok za medzinárodné podanie
 
         - (i) ak je zistenie podľa článku 11(1) negatívne;
 
@@ -766,7 +740,7 @@
 
         - (iii) ak sa vzhľadom na predpisy o národnej bezpečnosti s medzinárodnou prihláškou nenakladá.
 
-    - PRAVIDLO 16 REŠERŠOVÝ POPLATOK
+    - Pravidlo 16 Rešeršný poplatok
 
       - 16.1 Právo žiadať poplatok
 
@@ -780,7 +754,7 @@
 
         - (e) Tam, kde je pri platení rešeršového poplatku v mene prijímacieho úradu, pokiaľ je to iná než určená mena alebo určené meny, suma skutočne došlá orgánu pre medzinárodnú rešerš v mene sídla nižšia než suma ním určená, uhradí orgánu pre medzinárodnú rešerš rozdiel Medzinárodný úrad, zatiaľ čo, ak bude suma skutočne došlá vyššia, bude rozdiel patriť Medzinárodnému úradu.
 
-        - (f) Ak ide o lehotu splatnosti rešeršného poplatku a výšku poplatku, ustanovenie pravidla 15.4(a) týkajúceho sa základného poplatku sa použije primerane.
+        - (f) Ak ide o lehotu splatnosti rešeršného poplatku a výšku poplatku, ustanovenie pravidla 15.4, týkajúce sa poplatku za medzinárodné podanie, sa použije primerane.
 
       - 16.2 Vrátenie poplatku
 
@@ -800,47 +774,55 @@
 
       - 16bis.1 Výzva prijímacieho úradu
 
-        - (a) Ak v okamihu splatnosti podľa pravidiel 14.1(c), 15.4(a) a 16.1(f) prijímací úrad zistí, že mu neboli zaplatené žiadne poplatky alebo že zaplatená suma nie je dostatočná na pokrytie odovzdávacieho poplatku, základného poplatku a rešeršného poplatku, prijímací úrad prihlasovateľa vyzve, aby mu zaplatil sumu požadovanú na pokrytie týchto poplatkov spolu s prípadným poplatkom za oneskorenú platbu podľa pravidla 16bis.2 v lehote jedného mesiaca od dátumu výzvy.
+        - (a) Ak v okamihu splatnosti podľa pravidla 14.1 (c), 15.4 a 16.1(f) prijímací úrad zistí, že mu neboli zaplatené žiadne poplatky alebo zaplatená suma je nedostatočná na pokrytie odovzdávacieho poplatku, poplatku za medzinárodné podanie a rešeršného poplatku, prijímací úrad prihlasovateľa vyzve, aby mu zaplatil sumu požadovanú na pokrytie týchto poplatkov spolu s prípadným poplatkom za oneskorenú platbu podľa pravidla 16bis.2 v lehote jedného mesiaca od dátumu výzvy.
 
-        - (b) Ak v okamihu splatnosti podľa pravidla 15.4(b) prijímací úrad zistí, že mu neboli zaplatené žiadne poplatky alebo že zaplatená suma nie je dostatočná na pokrytie poplatkov za určenie nutných na pokrytie všetkých určení podľa pravidla 4.9(a), prijímací úrad vyzve prihlasovateľa, aby zaplatil sumu požadovanú na pokrytie týchto poplatkov spolu s prípadným poplatkom za oneskorenú platbu podľa pravidla 16bis.2 v lehote jedného mesiaca od dátumu výzvy. Výška poplatku týkajúceho sa každého poplatku za určenie je suma, ktorá je splatná v posledný deň lehoty jedného roku od dátumu priority, ak sa použije lehota podľa pravidla 15.4(b)(i), alebo suma, ktorá je splatná v deň prijatia medzinárodnej prihlášky, ak sa použije lehota podľa pravidla 15.4(b)(ii).
+        - (b) (zrušené)
 
-        - (c) Ak prijímací úrad zaslal prihlasovateľovi výzvu podľa odseku (a) alebo (b) a prihlasovateľ v lehote uvedenej v tomto odseku nezaplatil celú splatnú sumu vrátane prípadného poplatku za oneskorenú platbu podľa pravidla 16bis.2, s výnimkou odseku (d), prijímací úrad:
+        - (c) Ak prijímací úrad zaslal prihlasovateľovi výzvu podľa odseku (a) a prihlasovateľ v lehote uvedenej v tomto odseku nezaplatil celú splatnú sumu vrátane prípadného poplatku za neskorú platbu podľa 16bis.2 s výnimkou odseku (d), prijímací úrad
 
-          - (i) pridelí zaplatenú sumu podľa určenia prihlasovateľa alebo v prípade, že taká špecifikácia chýba, podľa predpisu Administratívnych smerníc;
+          - (i) vydá príslušné uznesenie podľa článku 14(3) a
 
-          - (ii) vydá prípadné uznesenie podľa článku 14 (3), a
+          - (ii) postupuje, ako je uvedené v pravidle 29.
 
-          - (iii) postupuje, ako je uvedené v pravidle 29.
+        - (d) Každá platba, ktorú prijímací úrad dostane pred odoslaním výzvy podľa odseku (a), sa považuje za prijatú pred uplynutím lehoty podľa pravidiel 14.1(c), 15.4 alebo 16.1(f).
 
-        - (d) Každá platba, ktorú prijímací úrad dostane pred odoslaním výzvy podľa odseku (a) alebo (b), sa považuje za prijatú pred uplynutím lehoty podľa pravidiel 14.1(c), 15.4(a) alebo (b) alebo podľa pravidla 16.1(f) v závislosti od prípadu.
-
-        - (e) Každá platba, ktorú prijímací úrad dostane skôr, než vydá príslušné uznesenie podľa článku 14(3), bude sa považovať za prijatú pred uplynutím lehoty uvedenej v odseku (a) alebo (b).
+        - (e) Každá platba, ktorú prijímací úrad dostane skôr, než vydá príslušné uznesenie podľa článku 14(3), sa bude považovať za prijatú pred uplynutím lehoty uvedenej v odseku (a).
 
       - 16bis.2 Poplatok za oneskorenú platbu
 
-        - (a) Platbu poplatkov ako odozvu na výzvu podľa pravidla 16bis.1(a) alebo (b) môže prijímací úrad podrobiť poplatku za oneskorenú platbu vo svoj prospech. Výška tohto poplatku je:
+        - (a) Platbu poplatkov ako reakciu na výzvu podľa pravidla 16bis.1(a) môže prijímací úrad podrobiť poplatku za oneskorenú platbu vo svoj prospech. Výška poplatku je
 
-          - (i) 50 % sumy nezaplatených poplatkov, určenej vo výzve, alebo
+          - (i) 50 % sumy nezaplatených poplatkov určenej vo výzve, alebo
 
-          - (ii) ak je suma vypočítaná podľa bodu (i) menšia, ako je odovzdávací poplatok, sumu rovnajúcu sa odovzdávaciemu poplatku.
+          - (ii) ak je suma vypočítaná podľa bodu (i) menšia ako poplatok za podanie, suma rovnajúca sa poplatku za podanie.
 
-        - (b) Výška poplatku za oneskorenú platbu však nesmie prekročiť sumu základného poplatku uvedeného v položke 1(a) v sadzobníku poplatkov.
+        - (b) Výška poplatku za oneskorenú platbu však nesmie prekročiť 50 % sumy medzinárodného poplatku za podanie, uvedeného v sadzobníku poplatkov v bode 1, neberúc do úvahy poplatok za každú stranu medzinárodnej prihlášky nad 30 strán.
 
         - (c) (zrušené)
 
-    - PRAVIDLO 17 PRIORITNÝ DOKLAD
+    - Pravidlo 17 Prioritný doklad
 
       - 17.1 Povinnosť predložiť kópiu skoršej národnej alebo medzinárodnej prihlášky
 
-        - (a) Ak sa uplatňuje priorita zo skoršej národnej alebo medzinárodnej prihlášky podľa článku 8, musí prihlasovateľ predložiť kópiu skoršej prihlášky overenú orgánom, na ktorom bola podaná („prioritný doklad“), s výnimkou odseku (b), Medzinárodnému úradu alebo prijímaciemu úradu najneskôr do 16 mesiacov od dátumu priority, ak už nebola podaná na prijímacom úrade spolu s medzinárodnou prihláškou, v ktorej sa priorita uplatňuje, pričom každá kópia skoršej prihlášky, ktorú dostane Medzinárodný úrad po uplynutí tejto lehoty, bude sa považovať za prijatú týmto úradom v posledný deň tejto lehoty, ak ju dostane pred dátumom medzinárodného zverejnenia medzinárodnej prihlášky.
+        - (a) Ak sa uplatňuje priorita skoršej národnej alebo medzinárodnej prihlášky podľa článku 8, musí prihlasovateľ predložiť kópiu skoršej prihlášky overenú orgánom, na ktorom bola podaná („prioritný doklad“), ak už nebol prioritný doklad podaný na prijímacom úrade spolu s medzinárodnou prihláškou, ktorej priorita sa uplatňuje, a s výhradou odsekov (b) a (b-bis), Medzinárodnému úradu alebo prijímaciemu úradu najneskôr do 16 mesiacov od dátumu priority za predpokladu, že kópia uvedenej skoršej prihlášky prijatej Medzinárodným úradom po uplynutí tejto lehoty sa bude považovať za prijatú Medzinárodným úradom v posledný deň lehoty, ak je predložená pred dátumom medzinárodného zverejnenia medzinárodnej prihlášky.
 
         - (b) Ak prioritný doklad vydáva prijímací úrad, prihlasovateľ môže namiesto jeho predloženia požiadať prijímací úrad, aby pripravil a odovzdal prioritný doklad Medzinárodnému úradu. Taká žiadosť sa musí podať najneskôr do 16 mesiacov od dátumu priority a prijímací úrad ju môže podrobiť poplatku.
 
-        - (c) Ak nie sú splnené požiadavky žiadneho z predchádzajúcich odsekov, ktorýkoľvek z určených štátov môže neuznať požiadavku priority za predpokladu, že žiadny z určených štátov neuzná požiadavku priority bez toho, aby predtým žiadateľovi nedal príležitosť predložiť prioritný doklad v primeranej lehote za daných okolností.
+        - (b-bis) Ak je prioritný doklad, v súlade s Administratívnymi smernicami, dostupný prijímaciemu úradu alebo Medzinárodnému úradu z digitálnej knižnice, môže prihlasovateľ namiesto zaslania prioritného dokladu prípadne
+
+          - (i) požiadať prijímací úrad, aby si zadovážil prioritný doklad z tejto knižnice a odovzdal ho Medzinárodnému úradu, alebo
+
+          - (ii) požiadať Medzinárodný úrad, aby si z tejto knižnice zadovážil prioritný doklad.
+
+          - Žiadosť sa musí podať najneskôr do 16 mesiacov od dátumu priority a prijímací úrad alebo Medzinárodný úrad ju môže spoplatniť.
+
+        - (c) Ak nie sú splnené požiadavky ani jedného z troch predchádzajúcich odsekov, ktorýkoľvek z určených štátov nemusí s výhradou odseku (d) brať do úvahy právo prednosti za predpokladu, že žiadny z určených úradov nesmie prehliadnuť právo prednosti bez toho, aby neumožnil prihlasovateľovi predložiť prioritný doklad v lehote primeranej okolnostiam.
+
+        - (d) Žiadny určený úrad nesmie prehliadať uplatnenie priority podľa odseku (c), ak skoršia prihláška v zmysle odseku (a) bola podaná v tomto úrade ako v národnom úrade alebo ak má prioritný doklad, v súlade s Administratívnymi smernicami, k dispozícii z digitálnej knižnice.
 
       - 17.2 Predkladanie kópie
 
-        - (a) Ak prihlasovateľ vyhovie ustanoveniu pravidla 17.1(a) alebo (b), Medzinárodný úrad na osobitnú žiadosť určeného úradu urýchlene, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky, dodá kópiu prioritného dokladu tomuto úradu. Žiadny určený úrad nebude požadovať predloženie kópie prioritného dokladu od prihlasovateľa. Prihlasovateľ nie je povinný predložiť preklad určenému úradu pred uplynutím lehoty podľa článku 22. Ak prihlasovateľ podá žiadosť o urýchlené konanie podľa článku 23(2) pred medzinárodným zverejnením, Medzinárodný úrad dodá na osobitnú žiadosť určeného úradu kópiu prioritného dokladu tomuto úradu ihneď po prijatí tejto žiadosti.
+        - (a) Ak prihlasovateľ vyhovie ustanoveniu pravidla 17.1(a), (b) alebo (b-bis), Medzinárodný úrad na osobitnú žiadosť určeného úradu urýchlene, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky, dodá kópiu prioritného dokladu tomuto úradu. Žiadny takýto úrad nebude požadovať predloženie kópie prioritného dokladu od prihlasovateľa. Prihlasovateľ nie je povinný predložiť preklad určenému úradu pred uplynutím lehoty podľa článku 22. Ak prihlasovateľ výslovne požiada určený úrad podľa článku 23(2), pred medzinárodným zverejnením, Medzinárodný úrad dodá na osobitnú žiadosť určeného úradu kópiu prioritného dokladu tomuto úradu ihneď po prijatí tejto žiadosti.
 
         - (b) Medzinárodný úrad nezverejní kópie prioritného dokladu pred medzinárodným zverejnením medzinárodnej prihlášky.
 
@@ -872,7 +854,7 @@
 
         - (c) Medzinárodný úrad periodicky uverejňuje informácie o rôznych národných zákonodarstvách, pokiaľ ide o otázku, kto je oprávnený (vynálezca, právny nástupca vynálezcu, majiteľ vynálezu a iní) podať národnú prihlášku, a k informáciám pripojí upozornenie, že účinok medzinárodnej prihlášky v každom určenom štáte môže závisieť od toho, či osoba uvedená v medzinárodnej prihláške ako prihlasovateľ pre tento štát je osobou, ktorá je podľa národného zákonodarstva tohto štátu oprávnená podať národnú prihlášku.
 
-    - PRAVIDLO 19 PRÍSLUŠNÝ PRIJÍMACÍ ÚRAD
+    - Pravidlo 19 Príslušný prijímací úrad
 
       - 19.1 Kde sa podávajú prihlášky
 
@@ -914,9 +896,7 @@
 
         - (b) V prípade, keď podľa odseku (a) medzinárodnú prihlášku prijal národný úrad v zastúpení Medzinárodného úradu, ktorý vykonáva funkciu prijímacieho úradu podľa pravidla 19.1. (a) (iii), odovzdá ju národný úrad bezodkladne, ak tomu nebránia predpisy týkajúce sa národnej bezpečnosti, Medzinárodnému úradu. Národný úrad môže požadovať za toto odovzdanie zaplatenie poplatku vo svoj prospech, ktorý sa rovná odovzdávaciemu poplatku určenému úradom podľa pravidla 14.
 
-        - (c) Na účely pravidiel 14.1(c), 15.4(a) až (c) a 16.1(f), keď bola medzinárodná prihláška odovzdaná Medzinárodnému úradu podľa odseku (b), bude sa za dátum prijatia medzinárodnej prihlášky považovať dátum, keď bola medzinárodná prihláška skutočne prijatá Medzinárodným úradom. Na účely tohto odseku sa nepoužije posledná veta odseku (b).
-
-        - Takto odoslaná medzinárodná prihláška sa považuje za prijatú Medzinárodným úradom, ktorý vykonáva funkciu prijímacieho úradu podľa pravidla 19.1. (a) (iii), dňom, keď ju prijal národný úrad.
+        - (c) Na účely pravidiel 14.1(c), 15.4 a 16.1(f), keď bola medzinárodná prihláška odovzdaná Medzinárodnému úradu podľa odseku (b), bude sa za dátum prijatia medzinárodnej prihlášky považovať dátum, keď Medzinárodný úrad skutočne prijal medzinárodnú prihlášku. Na účely tohto odseku sa nepoužije posledná veta odseku (b).
 
     - PRAVIDLO 20 PRÍJEM MEDZINÁRODNEJ PRIHLÁŠKY
 
@@ -1040,13 +1020,13 @@
 
         - (c) Každý výpis sekvencií v strojovo čitateľnej forme, ktorý je predložený prijímaciemu úradu, odovzdá prijímací úrad orgánu pre medzinárodnú rešerš.
 
-    - PRAVIDLO 24 PRÍJEM ARCHÍVNEHO VYHOTOVENIA MEDZINÁRODNÝM ÚRADOM
+    - Pravidlo 24 Príjem archívneho vyhotovenia medzinárodným úradom
 
       - 24.1 zrušené
 
-      - 24.2. Oznámenie o prijatí archívneho vyhotovenia
+      - 24.2 Oznámenie o prijatí archívneho vyhotovenia
 
-        - (a) Medzinárodný úrad oznámi ihneď:
+        - (a) Medzinárodný úrad ihneď oznámi
 
           - (i) prihlasovateľovi,
 
@@ -1054,11 +1034,7 @@
 
           - (iii) orgánu pre medzinárodnú rešerš (pokiaľ tento neoznámil Medzinárodnému úradu, že si nepraje byť takto informovaný), že prijal archívne vyhotovenie, a dátum tohto prijatia. V oznámení musí byť označená medzinárodná prihláška číslom, dátumom medzinárodného podania a menom prihlasovateľa a musí obsahovať aj dátum podania prvšej prihlášky, z ktorej sa uplatňuje priorita. Oznámenie zasielané prihlasovateľovi musí obsahovať aj zoznam štátov určených podľa pravidla 4.9 (a) a prípadne tých štátov, ktorých určenia boli potvrdené podľa pravidla 4.9 (c).
 
-        - (b) Každý určený úrad, ktorý oznámil Medzinárodnému úradu, že si praje dostávať oznámenia podľa odseku (a) pred postúpením podľa pravidla 47.1, musí byť Medzinárodným úradom informovaný:
-
-          - (i) ak sa príslušné určenie vykonalo podľa pravidla 4.9 (a), ihneď po prijatí archívneho vyhotovenia;
-
-          - (ii) ak sa príslušné určenie vykonalo podľa pravidla 4.9 (b), ihneď po tom, čo prijímací úrad informoval Medzinárodný úrad o potvrdení tohto určenia.
+        - túto skutočnosť a dátum prijatia archívneho vyhotovenia. V oznámení musí byť medzinárodná prihláška označená svojím číslom, dátumom medzinárodného podania a menom prihlasovateľa a musí uvádzať dátum podania skoršej prihlášky, z ktorej sa uplatňuje priorita. Oznámenie zasielané prihlasovateľovi musí obsahovať aj zoznam určených úradov, prípadne určenie úradu, ktorý je zodpovedný za udelenie regionálnych patentov, a určenie zmluvných štátov pre takýto regionálny patent.
 
         - (c) Ak sa archívne vyhotovenie prijalo po uplynutí lehoty uvedenej v pravidle 22.3, musí Medzinárodný úrad ihneď informovať prihlasovateľa, prijímací úrad a orgán pre medzinárodnú rešerš.
 
@@ -1079,6 +1055,12 @@
       - 26.2 Lehota na vykonanie opráv
 
         - Lehota podľa článku 14 (1) (b) musí byť primeraná okolnostiam prípadu a určí ju v každom prípade prijímací úrad. Nesmie byť kratšia ako jeden mesiac od výzvy na opravu. Pred vydaním rozhodnutia ju môže prijímací úrad kedykoľvek predĺžiť.
+
+      - 26.2bis Preskúmanie požiadaviek podľa článku 14(1)(a)(i) a (ii)
+
+        - (a) Na účely článku 14(1)(a)(i), ak je viac prihlasovateľov, stačí, aby žiadosť podpísal jeden z nich.
+
+        - (b) Na účely článku 14(1)(a)(ii) stačí, ak je viac prihlasovateľov, uviesť údaje o jednom z nich, ktoré sa vyžadujú podľa pravidla 4.5(a)(ii) a (iii), ktorý je oprávnený podľa pravidla 19.1 podať medzinárodnú prihlášku v prijímacom úrade.
 
       - 26.3 Preskúmanie požiadaviek na vonkajšiu úpravu podľa článku 14(1)(a)(v)
 
@@ -1162,13 +1144,13 @@
 
         - (b) Ak Medzinárodný úrad prijme akúkoľvek opravu alebo doplnenie vyhlásenia podľa pravidla 26ter.1 po uplynutí lehoty tohto pravidla, Medzinárodný úrad podľa toho upovedomí prihlasovateľa a bude ďalej postupovať tak, ako stanovujú Administratívne smernice.
 
-    - PRAVIDLO 27 NEZAPLATENIE POPLATKOV
+    - Pravidlo 27 Nezaplatenie poplatkov
 
-      - 27.1. Poplatky
+      - 27.1 Poplatky
 
-        - (a) Na účely ustanovenia článku 14 (3) (a) sa pod pojmom „poplatky predpísané podľa článku 3 (4) (iv)“ rozumie: odovzdávací poplatok (pravidlo 14), základný poplatok ako časť medzinárodného poplatku [pravidlo 15.1 (i)], rešeršový poplatok (pravidlo 16) a poplatok za neskoré platenie, pokiaľ sa vyžaduje (pravidlo 16 bis. 2.).
+        - (a) Na účely článku 14(3)(a) sa pod pojmom „predpísané poplatky podľa článku 3(4)(iv)“ rozumie poplatok za podanie (pravidlo 14), poplatok za medzinárodné podanie (pravidlo 15.1), rešeršný poplatok (pravidlo 16), prípadne poplatok za neskorú platbu (pravidlo 16bis.2).
 
-        - (b) Na účely ustanovenia článku 14 (3) (a) a (b) sa pod pojmom „poplatky predpísané podľa článku 4 (2)“ rozumie poplatok za určenie ako časť medzinárodného poplatku [pravidlo 15.1(ii)] a poplatok za neskoré platenie, pokiaľ sa vyžaduje (pravidlo 16 bis. 2).
+        - (b) Na účely článku 14.3(a) a (b) sa pod pojmom „predpísané poplatky podľa článku 4(2)“ rozumie poplatok za medzinárodné podanie (pravidlo 15.1), prípadne poplatok za oneskorenú platbu (pravidlo 16bis.2).
 
     - PRAVIDLO 28 NEDOSTATKY ZISTENÉ MEDZINÁRODNÝM ÚRADOM
 
@@ -1178,11 +1160,11 @@
 
         - (b) Prijímací úrad postupuje podľa článku 14 (1) (b) a pravidla 26, ibaže s touto mienkou nesúhlasí.
 
-    - Pravidlo 29 Medzinárodné prihlášky alebo určenia, ktoré sa považujú za späťvzaté
+    - Pravidlo 29 Medzinárodné prihlášky považované za späťvzaté
 
-      - 29.1 Zistenie prijímacím úradom
+      - 29.1 Zistenie prijímacieho úradu
 
-        - (a) Ak prijímací úrad vyhlási podľa článku 14(1)(b) a pravidla 26.5, že nebola vykonaná oprava zrejmých chýb, alebo podľa článku 14(3)(a), že neboli zaplatené predpísané poplatky podľa pravidla 27.1(a), alebo podľa článku 14.4, že sa neskoro zistil nesúlad s požiadavkami uvedenými v bodoch (i) až (iii) článku 11(1), alebo podľa pravidla 12.3(d) alebo 12.4(d), že nebol predložený požadovaný preklad, alebo ak sa to vyžaduje, zaplatený poplatok za neskoré predloženie, alebo podľa pravidla 92.4(g)(i), že nebol predložený originál dokumentov, takáto medzinárodná prihláška sa považuje za späťvzatú:
+        - Ak prijímací úrad vydá uznesenie podľa článku 14(1)(b) a pravidla 26.5 (opomenutie opravy určitých nedostatkov) alebo podľa článku 14(3)(a) [nezaplatenie predpísaných poplatkov podľa pravidla 27.1(a)], alebo podľa článku 14(4) [neskoršie zistenie, že neboli splnené požiadavky uvedené v bodoch (i) až (iii) článku 11(1)], alebo pravidla 12.3(d), alebo 12.4(d) (opomenutie predloženia prekladu alebo prípadne poplatku za neskorú platbu), alebo podľa pravidla 92.4(g)(i) (opomenutie predloženia originálu dokladu), že medzinárodná prihláška sa považuje za späťvzatú.
 
         - (i) odovzdá archívne vyhotovenia (pokiaľ sa už neodovzdalo) a každú opravu navrhnutú prihlasovateľom Medzinárodnému úradu;
 
@@ -1191,8 +1173,6 @@
         - (iii) neodovzdá rešeršové vyhotovenie podľa pravidla 23, a ak toto vyhotovenie už odovzdal, oznámi orgánu pre medzinárodnú rešerš svoje uznesenie;
 
         - (iv) Medzinárodný úrad nemusí oznámiť prihlasovateľovi, že došlo archívne vyhotovenie.
-
-        - (b) Ak prijímací úrad vydá podľa ustanovenia článku 14 (3) (b) [nezaplatenie predpísaného poplatku za určenie podľa pravidla 27.1 (b)] uznesenie, že určenie určitého štátu sa považuje za späťvzaté, prijímací úrad toto uznesenie ihneď oznámi tak prihlasovateľovi, ako aj Medzinárodnému úradu. Medzinárodný úrad to oznámi každému určenému úradu, ktorý už bol upovedomený o svojom určení.
 
       - 29.2 zrušené
 
@@ -1224,31 +1204,23 @@
 
     - Pravidlo 32 Rozšírenie účinkov medzinárodnej prihlášky na určité nástupnícke štáty
 
-      - 32.1. Požiadavka na rozšírenie medzinárodnej prihlášky na nástupnícky štát
+      - 32.1 Rozšírenie medzinárodnej prihlášky na nástupnícky štát
 
-        - (a) Účinky medzinárodnej prihlášky, ktorej dátum podania spadá do obdobia uvedeného v odseku (b), pod podmienkou, že prihlasovateľ vykoná úkony uvedené v odseku (c), môžu sa rozšíriť na štát („nástupnícky štát“), ktorého územie bolo pred nezávislosťou tohto štátu časťou územia zmluvného štátu, ktorý následne zanikol („predošlý štát“), za predpokladu, že nástupnícky štát sa stal zmluvným štátom uložením vyhlásenia o pokračovaní u generálneho riaditeľa, na základe ktorého sa táto Zmluva aplikuje aj na nástupnícky štát.
+        - (a) Účinky medzinárodnej prihlášky, ktorej dátum medzinárodného podania patrí do obdobia uvedeného v odseku (b), sa rozšíria na štát („nástupnícky štát“), ktorého územie bolo pred vyhlásením nezávislosti časťou územia zmluvného štátu určeného v medzinárodnej prihláške, ktorý následne zanikol („predošlý štát“), za predpokladu, že nástupnícky štát sa stane zmluvným štátom uložením vyhlásenia o pokračovaní u generálneho riaditeľa, na základe ktorého sa Zmluva aplikuje na nástupnícky štát.
 
         - (b) Obdobie uvedené v odseku (a) sa začína dňom nasledujúcim po poslednom dni existencie predošlého štátu a končí sa dva mesiace po dni, keď generálny riaditeľ oznámil vyhlásenie podľa odseku (a) vládam členských štátov Parížskeho dohovoru na ochranu priemyselného vlastníctva. Ak však deň nezávislosti nástupníckeho štátu predchádza dňu nasledujúcemu po poslednom dni existencie predošlého štátu, potom nástupnícky štát smie vyhlásiť, že uvedené obdobie sa začína dňom jeho nezávislosti; také vyhlásenie možno urobiť spolu s vyhlásením uvedeným v odseku (a) a musí sa v ňom presne určiť deň nezávislosti.
 
-        - (c) Pokiaľ ide o medzinárodnú prihlášku, ktorej dátum podania spadá do obdobia uvedeného v odseku (b), Medzinárodný úrad pošle prihlasovateľovi oznámenie, v ktorom ho informuje, že môže požiadať o rozšírenie, ak do troch mesiacov od dátumu tohto oznámenia vykoná tieto úkony:
+        - (c) Informácie o každej medzinárodnej prihláške, ktorej dátum podania patrí do príslušného obdobia podľa odseku (b) a ktorej účinok je rozšírený na nástupnícky štát, zverejní Medzinárodný úrad vo vestníku.
 
-          - (i) podá na Medzinárodnom úrade žiadosť o rozšírenie,
+      - 32.2 Účinky rozšírenia na nástupnícky štát
 
-          - (ii) zaplatí Medzinárodnému úradu poplatok za rozšírenie v švajčiarskych frankoch, ktorého výška je rovnaká ako výška poplatku za určenie podľa pravidla 15.2.(a).
-
-        - (d) Toto pravidlo sa nepoužije v prípade Ruskej federácie.
-
-      - 32.2. Účinky rozšírenia na nástupnícky štát
-
-        - (a) Tam, kde sa podala žiadosť o rozšírenie podľa pravidla 32.1.,
+        - (a) Ak sa účinky medzinárodnej prihlášky rozšíria na nástupnícky štát v súlade s pravidlom 32.1
 
           - (i) nástupnícky štát sa považuje za štát určený v medzinárodnej prihláške a
 
-          - (ii) príslušná lehota podľa článku 22 alebo podľa článku 39 (1) Zmluvy, ak ide o tento štát, sa predĺži až do uplynutia najmenej troch mesiacov od dátumu podania žiadosti o rozšírenie.
+          - (ii) príslušná lehota podľa článku 22 alebo 39(1), ak ide o tento štát, sa predĺži až do uplynutia najmenej šiestich mesiacov od dátumu zverejnenia informácie podľa pravidla 32.1(c).
 
-        - (b) V prípade, že nástupnícky štát je viazaný hlavou II Zmluvy a žiadosť o rozšírenie sa podala neskôr, avšak návrh sa podal pred uplynutím devätnásťmesačnej lehoty od dátumu priority a nástupnícky štát bol zvolený do troch mesiacov od dátumu podania žiadosti o rozšírenie, príslušná lehota podľa odseku (a) (ii) musí byť najmenej 30 mesiacov od dátumu priority.
-
-        - (c) Nástupnícky štát môže určiť lehoty, ktoré uplynú neskôr než lehoty určené v odsekoch (a) (ii) a (b). Medzinárodný úrad zverejní informáciu o takýchto lehotách vo Vestníku.
+        - (b) Nástupnícky štát môže stanoviť lehotu, ktorá uplynie neskôr, ako je lehota stanovená v odseku (a)(ii). Medzinárodný výbor zverejní informáciu o týchto lehotách vo vestníku.
 
     - PRAVIDLO 33 RELEVANTNÝ ZNÁMY STAV TECHNIKY PRE MEDZINÁRODNÚ REŠERŠ
 
@@ -1334,17 +1306,19 @@
 
         - (c) Pravidlá 35.1. a 35.2. sa nepoužijú v prípade, keď Medzinárodný úrad je prijímacím úradom podľa pravidla 19.1. (a) (iii).
 
-    - PRAVIDLO 36 MINIMÁLNE POŽIADAVKY NA ORGÁN PRE MEDZINÁRODNÚ REŠERŠ
+    - Pravidlo 36 Minimálne požiadavky na orgán pre medzinárodnú rešerš
 
-      - 36.1. Vymedzenie minimálnych požiadaviek
+      - 36.1 Vymedzenie minimálnych požiadaviek
 
-      - Minimálne požiadavky podľa ustanovenia článku 16 (3) (c) sú tieto:
+      - Minimálne požiadavky podľa ustanovenia článku 16 (3)(c) sú tieto:
 
         - (i) národný úrad alebo medzivládna organizácia musí mať aspoň 100 zamestnancov s plným pracovným úväzkom, ktorí majú dostatočnú technickú kvalifikáciu na vykonávanie rešerší;
 
         - (ii) tento úrad alebo organizácia musí vlastniť alebo mať prístup aspoň k minimálnej dokumentácii podľa ustanovení pravidla 34, riadne usporiadanú na účely rešerše, v papierovej forme alebo v mikrozázname alebo uloženú na elektronickom nosiči.
 
-        - (iii) úrad alebo organizácia musí mať personál schopný vykonávať rešerše v požadovaných technických odboroch s jazykovými znalosťami aspoň tých jazykov, v ktorých je spísaná alebo do ktorých je preložená minimálna dokumentácia podľa pravidla 34.
+        - (iii) úrad alebo organizácia musí mať personál schopný vykonávať rešerše v požadovaných technických odboroch a s jazykovými znalosťami aspoň tých jazykov, v ktorých je spísaná alebo preložená minimálna dokumentácia podľa pravidla 34,
+
+        - (iv) úrad alebo organizácia musí byť menovaná ako orgán pre medzinárodný predbežný prieskum.
 
     - PRAVIDLO 37 CHÝBAJÚCI ALEBO CHYBNÝ NÁZOV
 
@@ -1476,11 +1450,27 @@
 
         - Požiadavky na vonkajšiu formu medzinárodnej rešeršovej správy upravia Administratívne smernice.
 
-    - PRAVIDLO 44 Odovzdanie medzinárodnej rešeršovej správy, atď.
+    - Pravidlo 43bis Písomný posudok orgánu pre medzinárodnú rešerš
 
-      - 44.1 Vyhotovenie správy alebo vyhlásenie
+      - 43bis.1 Písomný posudok
 
-        - Orgán pre medzinárodnú rešerš odovzdá rovnaký deň jedno vyhotovenie medzinárodnej rešeršovej správy alebo rozhodnutia podľa článku 17 (2) (a) Medzinárodnému úradu a jedno vyhotovenie prihlasovateľovi.
+        - (a) S výhradou pravidla 69.1(b-bis) orgán pre medzinárodnú rešerš musí súčasne s vyhotovením správy o medzinárodnej rešerši vypracovať písomný posudok, či
+
+          - (i) uplatnený vynález je nový, obsahuje tvorivé riešenie (neobvyklé) a či je priemyselne využiteľný,
+
+          - (ii) medzinárodná prihláška je v súlade s požiadavkami Zmluvy a tých pravidiel, ktoré kontroluje orgán pre medzinárodnú rešerš.
+
+          - K písomnému posudku sa pripoja ďalšie pripomienky, ktoré sú stanovené v pravidlách.
+
+        - (b) Na účely vyhotovenia písomného posudku sa články 33(2) až (6), 35(2) a 35(5) a pravidlá 43.4, 64, 65, 66.1(e), 66.7, 67, 70.2(b) a (d), 70.3, 70.4(ii), 70.5(a), 70.6 až 70.10, 70.12, 70.14 a 70.15(a) použijú primerane.
+
+        - (c) Písomný posudok musí obsahovať oznámenie informujúce prihlasovateľa, že ak je podaný návrh na medzinárodný predbežný prieskum, písomný posudok sa bude podľa pravidla 66.1bis(a), ale s výhradou pravidla 66.1bis(b) považovať za písomný posudok orgánu pre medzinárodný predbežný prieskum na účely pravidla 66.2(a). V tomto prípade je prihlasovateľ vyzvaný, aby pred uplynutím lehoty podľa pravidla 54bis.1(a) predložil orgánu písomnú odpoveď spolu s prípadnými zmenami.
+
+    - Pravidlo 44 Odovzdanie správy o medzinárodnej rešerši, písomný posudok atď.
+
+      - 44.1 Vyhotovenie správy alebo vyhlásenia a písomného posudku
+
+        - Orgán pre medzinárodnú rešerš odovzdá v rovnaký deň jednu kópiu medzinárodnej rešeršnej správy a písomný posudok vypracovaný podľa pravidla 43bis.1 alebo vyhlásenia podľa pravidla 17(2)(a) Medzinárodnému úradu a jedno vyhotovenie prihlasovateľovi.
 
       - 44.2. Názov alebo anotácia
 
@@ -1493,6 +1483,48 @@
         - (b) Orgán pre medzinárodnú rešerš môže od účastníka (prihlasovateľa alebo určeného úradu), ktorý žiadosť podal, žiadať náhradu nákladov za obstaranie a zaslanie kópií. Výšku nákladov za obstaranie upravia dohody podľa článku 16 (3) (b), uzavreté medzi orgánom pre medzinárodnú rešerš a Medzinárodným úradom.
 
         - (d) Každý orgán pre medzinárodnú rešerš môže svoje povinnosti podľa ustanovení odsekov (a) a (b) vykonávať prostredníctvom inej úradovne, ktorá voči nemu má zodpovednosť.
+
+    - Pravidlo 44bis Správa orgánu pre medzinárodnú rešerš o medzinárodnom predbežnom prieskume na patentovateľnosť
+
+      - 44bis.1 Vydanie správy. Odovzdanie prihlasovateľovi
+
+        - (a) Ak správa o medzinárodnom predbežnom prieskume nebola alebo nebude vypracovaná, Medzinárodný úrad vydá správu v mene orgánu pre medzinárodnú rešerš (v tomto pravidle ide o „správu“) podľa pravidla 43bis.1(a). Správa musí mať ten istý obsah ako písomný posudok vypracovaný podľa pravidla 43bis.1.
+
+        - (b) Správa nesie názov „Správa o medzinárodnom predbežnom prieskume na patentovateľnosť (hlava I Zmluvy o patentovej spolupráci)“ spolu s údajom, že sa podľa tohto pravidla predkladá Medzinárodnému úradu v mene orgánu pre medzinárodný predbežný prieskum.
+
+        - (c) Medzinárodný úrad ihneď odovzdá jednu kópiu správy vypracovanej podľa odseku (a) prihlasovateľovi.
+
+      - 44bis.2 Postúpenie určeným úradom
+
+        - (a) Ak bola správa vydaná podľa pravidla 44bis.1, Medzinárodný úrad ju postúpi každému určenému úradu v súlade s pravidlom 93bis.1, ale nie pred uplynutím 30 mesiacov od dátumu priority.
+
+        - (b) Ak prihlasovateľ výslovne požiada určený úrad podľa článku 23(2), Medzinárodný úrad bezodkladne predloží tomuto úradu kópiu písomného posudku vypracovaného orgánom pre medzinárodnú rešerš podľa pravidla 43bis.1, na základe žiadosti úradu alebo prihlasovateľa.
+
+      - 44bis.3 Preklad pre určené úrady
+
+        - (a) Každý určený štát môže, ak bola vydaná správa podľa pravidla 44bis.1 v inom jazyku, než je oficiálny jazyk alebo jeden z oficiálnych jazykov národného úradu, žiadať preklad správy do angličtiny. Taká požiadavka sa musí oznámiť Medzinárodnému úradu, ktorý ju bezodkladne zverejní vo vestníku.
+
+        - (b) Ak sa vyžaduje preklad podľa odseku (a), pripraví ho Medzinárodný úrad alebo bude zaň zodpovedný.
+
+        - (c) Medzinárodný úrad zašle kópiu prekladu každému zainteresovanému určenému úradu a prihlasovateľovi súčasne so zaslaním správy tomuto úradu.
+
+        - (d) V prípade pravidla 44bis.2(b) Medzinárodný úrad preloží písomný posudok vypracovaný podľa pravidla 43bis.1 do angličtiny alebo bude za preklad zodpovedný na základe žiadosti príslušného určeného úradu. Medzinárodný úrad odovzdá kópiu prekladu príslušnému určenému úradu v lehote dvoch mesiacov od dátumu prijatia žiadosti o preklad a súčasne zašle kópiu prihlasovateľovi.
+
+      - 44bis.4 Pripomienky k prekladu
+
+        - Prihlasovateľ môže písomne vyjadriť pripomienky k správnosti prekladu podľa pravidla 44bis.3(b) alebo (d) a kópiu písomných pripomienok zašle každému zainteresovanému určenému úradu a Medzinárodnému úradu.
+
+    - Pravidlo 44ter Dôverný charakter písomného posudku, správy, prekladu a pripomienok
+
+      - 44ter.1 Dôverný charakter
+
+        - (a) Medzinárodný úrad a orgán pre medzinárodnú rešerš, ak ich prihlasovateľ nepožiada alebo ak nemajú oprávnenie od prihlasovateľa, neumožnia žiadnej osobe alebo orgánu pred uplynutím 30 mesiacov od dátumu priority prístup
+
+          - (i) k písomnému posudku vypracovanému podľa pravidla 43bis.1, k akémukoľvek jeho prekladu vypracovanému podľa pravidla 44bis.3(d) alebo k písomným pripomienkam k prekladu, ktorý zaslal prihlasovateľ podľa pravidla 44bis.4,
+
+          - (ii) k správe vydanej podľa pravidla 44bis.1, ak bola vydaná, k jej prekladu vypracovanému podľa pravidla 44bis.3(b) alebo k písomným pripomienkam, ktoré zaslal prihlasovateľ podľa pravidla 44bis.4.
+
+        - (b) Na účely odseku (a) výraz „prístup“ zahŕňa všetky prostriedky, ktorými môžu tretie strany získať vedomosti vrátane individuálneho styku a všeobecného zverejnenia.
 
     - PRAVIDLO 45 PREKLAD MEDZINÁRODNEJ REŠERŠOVEJ SPRÁVY
 
@@ -1526,31 +1558,41 @@
 
         - (b) a (c) zrušené
 
-    - PRAVIDLO 47 POSTÚPENIE URČENÝM ÚRADOM
+    - Pravidlo 47 Postúpenie určeným úradom
 
       - 47.1 Postup
 
-        - (a) Postúpenie ustanovené v článku 20 vykoná Medzinárodný úrad.
+        - (a) Postúpenie uvedené v článku 20 vykoná Medzinárodný úrad každému určenému úradu v súlade s pravidlom 93bis.1, ale s výhradou pravidla 47.4, nie však pred medzinárodným zverejnením medzinárodnej prihlášky.
 
-        - (a-bis) Medzinárodný úrad musí oznámiť každému určenému úradu pri postúpení podľa článku 20 skutočnosť prijatia archívneho vyhotovenia a dátum tohto prijatia a skutočnosť prijatia prioritného dokladu a dátum tohto prijatia. Toto oznámenie sa musí tiež zaslať každému určenému úradu, ktorý sa vzdal práva na postúpenie podľa ustanovenia článku 20, pokiaľ sa taký úrad tiež nevzdal práva na oznámenie o svojom určení.
+        - (a-bis) Medzinárodný úrad musí oznámiť každému určenému úradu v súlade s pravidlom 93bis.1 prijatie archívneho vyhotovenia, dátum prijatia archívneho vyhotovenia, prijatie prioritného dokladu a dátum prijatia prioritného dokladu.
 
         - (a-ter) Oznámenie podľa odseku (a-bis) musí obsahovať ktorékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17(i) až (iv), a akúkoľvek jeho opravu podľa pravidla 26ter.1, ktorú Medzinárodný úrad prijal pred uplynutím lehoty podľa pravidla 26ter.1 za predpokladu, že určený úrad informoval Medzinárodný úrad o skutočnosti, že aplikovateľné národné zákonodarstvo vyžaduje poskytnutie dokladov alebo dôkazov týkajúcich sa podstaty, na ktorú sa vyhlásenie vzťahuje.
 
-        - (b) K postúpeniu dôjde bez zbytočného odkladu po medzinárodnom zverejnení medzinárodnej prihlášky, najneskôr do konca 19. mesiaca od dátumu priority. Medzinárodný úrad dá na vedomie určeným úradom bez zbytočného odkladu všetky úpravy, ktoré mu došli v lehote podľa pravidla 46.1, pokiaľ neboli obsiahnuté už v postúpení, a oznámi to prihlasovateľovi.
+        - (b) Medzinárodný úrad dá na vedomie určeným úradom bez zbytočného odkladu všetky úpravy, ktoré mu došli v lehote podľa pravidla 46.1, pokiaľ neboli obsiahnuté už v postúpení podľa článku 20, a oznámi to prihlasovateľovi.
 
-        - (c) Medzinárodný úrad odošle správu prihlasovateľovi a uvedie v nej určené úrady, ktorým podklady postúpil, a dátum, keď k postúpeniu došlo. Správu odošle ten istý deň, keď došlo k postúpeniu. Každý určený úrad bude okrem postúpenia ešte osobitne informovaný o odoslaní správy a dátume, keď sa správa podala na poštovú prepravu. Všetky určené úrady budú túto správu považovať za nezvratný dôkaz o tom, že k postúpeniu riadne došlo dňom uvedeným v správe.
+        - (c) Medzinárodný úrad bez zbytočného odkladu, po uplynutí 28 mesiacov od dátumu priority, zašle prihlasovateľovi správu, ktorá uvádza
+
+          - (i) určené úrady, ktoré žiadali, aby sa postúpenie podľa článku 20 vykonalo podľa pravidla 93bis.1, a dátum postúpenia týmto úradom a
+
+          - (ii) určené úrady, ktoré nežiadali, aby sa postúpenie podľa článku 20 vykonalo podľa pravidla 93bis.1.
+
+      - (c-bis) Oznámenie uvedené v odseku (c) musí určený úrad akceptovať
+
+      - (i)
+
+      - v prípade určeného úradu podľa odseku (c)(i) ako rozhodujúci dôkaz, že postúpenie podľa článku 20 sa vykonalo v deň uvedený v oznámení,
+
+      - (ii)
+
+      - v prípade určeného úradu podľa odseku (c)(ii) ako rozhodujúci dôkaz, že zmluvný štát, pre ktorý úrad koná ako určený úrad, nevyžaduje od prihlasovateľa predloženie kópie medzinárodnej prihlášky podľa článku 22.
 
         - (d) Každý určený úrad dostane na žiadosť medzinárodné rešeršové správy a rozhodnutia podľa článku 17 (2) (a) v preklade podľa pravidla 45.1.
 
-        - (e) Ak sa niektorý určený úrad vzdal požiadavky na postúpenie podľa článku 20, zašlú sa kópie podkladov, ktoré by sa inak zaslali tomuto úradu, prihlasovateľovi; dôjde k tomu na žiadosť tohto úradu alebo prihlasovateľa, a to zároveň so správou podľa odseku (c).
+        - (e) Ak žiadny určený úrad nepožiadal pred uplynutím 28 mesiacov od dátumu priority Medzinárodný úrad, aby vykonal postúpenie podľa článku 20 v súlade s pravidlom 93bis.1, zmluvný štát, pre ktorý tento úrad koná ako určený úrad, bude považovať, že oznámenie Medzinárodného úradu sa vykonalo podľa pravidla 49.1(a-bis), to znamená, že nebude žiadať od prihlasovateľa podľa článku 22, aby predložil kópiu medzinárodnej prihlášky.
 
       - 47.2 Kópie
 
-        - (a) Kópie potrebné pre postúpenie vyhotoví Medzinárodný úrad.
-
-        - (b) Budú na listoch formátu A4.
-
-        - (c) Pokiaľ určený úrad neoznámi Medzinárodnému úradu opak, možno kópie brožúry podľa pravidla 48 použiť na postúpenie medzinárodnej prihlášky podľa ustanovenia článku 20.
+        - Kópie na postúpenie vyhotoví Medzinárodný úrad. Ďalšie detaily týkajúce sa kópií na postúpenie sa uvedú v Administratívnych smerniciach.
 
       - 47.3 Jazyky
 
@@ -1558,9 +1600,9 @@
 
         - (b) Ak je jazyk zverejnenia medzinárodnej prihlášky iný než jazyk, v ktorom bola podaná, Medzinárodný úrad odovzdá ktorémukoľvek určenému úradu na jeho žiadosť kópiu tejto prihlášky v jazyku, v ktorom bola podaná.
 
-      - 47.4. Výslovná žiadosť podľa článku 23 (2)
+      - 47.4 Výslovná žiadosť podľa článku 23(2) pred medzinárodným zverejnením
 
-        - V prípade podania výslovnej žiadosti prihlasovateľa na určenom úrade podľa ustanovení článku 23 (2) predtým, než došlo k postúpeniu podľa ustanovení článku 20, musí Medzinárodný úrad na žiadosť prihlasovateľa alebo určeného úradu ihneď uskutočniť toto postúpenie tomuto úradu.
+        - V prípade podania výslovnej žiadosti prihlasovateľa na určenom úrade podľa článku 23(2) pred medzinárodným zverejnením medzinárodnej prihlášky musí Medzinárodný úrad na základe žiadosti prihlasovateľa alebo určeného úradu ihneď vykonať postúpenie podľa článku 20 tomu úradu.
 
     - Pravidlo 48 Medzinárodné zverejnenie
 
@@ -1640,7 +1682,7 @@
 
       - 48.6 Ohlásenie určitých skutočností
 
-        - (a) Ak dôjde ohlásenie podľa pravidla 29.1 (a) (ii) Medzinárodnému úradu neskôr, než možno zabrániť medzinárodnému zverejneniu medzinárodnej prihlášky, Medzinárodný úrad bez odkladu uverejní vo Vestníku poznámku obsahujúcu podstatu ohlásenia.
+        - (a) Ak Medzinárodný úrad dostane ohlásenie podľa pravidla 29.1(ii) neskôr, než možno zabrániť medzinárodnému zverejneniu medzinárodnej prihlášky, Medzinárodný úrad bez odkladu uverejní vo vestníku poznámku obsahujúcu podstatu ohlásenia.
 
         - (b) zrušené
 
@@ -1736,6 +1778,26 @@
 
         - (f) Ak k 1. októbru 2002 odseky (a) až (e) nie sú v súlade s platným národným zákonom, nebudú sa vzhľadom na určený úrad uplatňovať dovtedy, kým nebudú v súlade s týmto zákonom, za predpokladu, že uvedený úrad bude o tom informovať Medzinárodný úrad do 1. januára 2003. Medzinárodný úrad prijatú informáciu okamžite zverejní vo vestníku.
 
+    - Pravidlo 49bis Údaje o zamýšľanej ochrane na účely národného konania
+
+      - 49bis.1 Výber určitých druhov ochrany
+
+        - (a) Ak si prihlasovateľ želá, aby medzinárodná prihláška bola spracovaná v určenom štáte s ohľadom na uplatnenie článku 43 ako prihláška nie na udelenie patentu, ale na udelenie iného druhu ochrany uvedeného v tomto článku, prihlasovateľ to musí uviesť určenému úradu, keď vykonáva úkony uvedené v článku 22.
+
+        - (b) Ak si prihlasovateľ želá, aby medzinárodná prihláška bola spracovaná v určenom štáte s ohľadom na uplatnenie článku 44 ako prihláška na udelenie viacerých ako jedného druhu ochrany uvedených v článku 43, musí to prihlasovateľ uviesť určenému úradu, keď vykonáva úkony uvedené v článku 22, a prípadne uviesť, ktorý druh ochrany je základný a ktorý druh je vedľajší.
+
+        - (c) V prípadoch uvedených v odsekoch (a) a (b), ak si prihlasovateľ želá, aby medzinárodná prihláška bola spracovaná v určenom štáte ako prihláška na udelenie dodatkového patentu, dodatkového autorského osvedčenia na vynález alebo dodatkového osvedčenia na úžitkový vzor, prihlasovateľ, keď vykonáva úkony uvedené v článku 22, uvedie relevantnú hlavnú prihlášku, základný patent alebo iný poskytnutý zdroj.
+
+        - (d) Ak si prihlasovateľ želá, aby medzinárodná prihláška bola spracovaná v určenom štáte ako prihláška na „pokračovanie“ alebo „čiastkovým pokračovaním“ skoršej prihlášky, prihlasovateľ tak označí určenému úradu, keď vykonáva úkony uvedené v článku 22, a uvedie relevantnú hlavnú prihlášku.
+
+        - (e) Ak prihlasovateľ priamo nevykoná označenie podľa odseku (a), keď vykonáva úkony uvedené v článku 22, ale národný poplatok uvedený v článku 22, ktorý prihlasovateľ zaplatil zodpovedá národnému poplatku za príslušný druh ochrany, platba tohto poplatku sa považuje za prejav, že si prihlasovateľ želá, aby medzinárodná prihláška bola spracovaná ako prihláška pre tento druh ochrany, a určený úrad o tom primerane informuje prihlasovateľa.
+
+      - 49bis.2 Lehota na predloženie údajov
+
+        - (a) Žiadny určený úrad nesmie žiadať od prihlasovateľa, aby predložil akýkoľvek údaj uvedený v pravidle 49bis.1 alebo prípadne údaj, či sa prihlasovateľ usiluje o udelenie národného alebo regionálneho patentu pred tým, ako vykoná úkony podľa článku 22.
+
+        - (b) Prihlasovateľ môže, ak to dovoľuje národné zákonodarstvo príslušného určeného úradu, predložiť takýto údaj alebo ak sa dovoľuje, konvertovať kedykoľvek neskôr z jedného druhu ochrany na iný druh ochrany.
+
   - PRAVIDLO 50
 
   - OPRÁVNENIE PODĽA ČLÁNKU 22 (3)
@@ -1758,11 +1820,11 @@
 
   - Oznámenia, ktoré sa týkajú predĺženia prv určených lehôt, budú platiť od dňa ich uverejnenia Medzinárodným úradom vo Vestníku pre medzinárodné prihlášky, ktoré sú v tom čase v konaní, alebo pre prihlášky podané po dátume uverejnenia, prípadne od neskoršieho dátumu, ak tak ustanovil zmluvný štát v oznámení.
 
-    - PRAVIDLO 51 PRESKÚMANIE URČENÝMI ÚRADMI
+    - Pravidlo 51 Preskúmanie určenými úradmi
 
-      - 51.1. Lehota pre podanie žiadosti o zaslanie kópií
+      - 51.1 Lehota na podanie žiadosti o zaslanie kópií
 
-        - Lehota uvedená v článku 25 (1) (c) je dva mesiace od dátumu oznámenia zaslaného prihlasovateľovi podľa ustanovení pravidiel 20.7 (i), 24.2 (c), 29.1 (a) (ii) alebo 29.1 (b).
+        - Lehota uvedená v článku 25(1)(c) je dva mesiace od dátumu oznámenia zaslaného prihlasovateľovi podľa ustanovení pravidiel 20.7(i), 24.2(c) alebo 29.1(ii).
 
       - 51.2 Kópia oznámenia
 
@@ -1772,11 +1834,11 @@
 
         - K uplynutiu lehoty podľa článku 25 (2) (a) dôjde zároveň s lehotou podľa pravidla 51.1.
 
-    - PRAVIDLO 51 bis Niektoré národné požiadavky prípustné podľa článku 27
+    - Pravidlo 51bis Niektoré národné požiadavky prípustné podľa článku 27
 
-      - 51 bis 1 Niektoré prípustné národné požiadavky
+      - 51bis.1 Niektoré prípustné národné požiadavky
 
-        - (a) Bez ohľadu na pravidlo 51bis.2 národné zákonodarstvo aplikované určeným úradom môže podľa článku 27 vyžadovať od prihlasovateľa, aby predovšetkým poskytol
+        - (a) S výhradou pravidla 51bis.2 môže národné zákonodarstvo aplikované určeným úradom v súlade s článkom 27 žiadať prihlasovateľa o predloženie najmä
 
           - (i) akýkoľvek doklad, ktorý sa týka totožnosti pôvodcu,
 
@@ -1786,7 +1848,11 @@
 
           - (iv) ak medzinárodná prihláška určuje štát, ktorého národné zákonodarstvo vyžaduje, aby národné prihlášky boli podané pôvodcom, akýkoľvek dokument, ktorý obsahuje prísahu alebo vyhlásenie o pôvodcovstve,
 
-          - (v) akýkoľvek dôkaz týkajúci sa zverejnení, ktoré nie sú na škodu, alebo výnimiek pri nedostatku novosti, ako sú zverejnenia vyplývajúce zo zneužitia, zverejnenia pri určitých výstavách a zverejnenia prihlasovateľom počas určitého časového obdobia.
+          - (v) všetkých dôkazových prostriedkov týkajúcich sa nezávadnosti preduverejnenia alebo výnimiek z nedostatku novosti, ako je preduverejnenie v dôsledku protiprávnych činov, preduverejnenie na určitých výstavách a preduverejnenie prihlasovateľom v určitom časovom období,
+
+          - (vi) overenia medzinárodnej prihlášky podpisom každého prihlasovateľa pre určený štát, ktorý nepodpísal žiadosť,
+
+          - (vii) každého chýbajúceho údaja vyžadovaného podľa pravidla 4.5(a)(ii) a (iii) pokiaľ ide o prihlasovateľa pre určený štát.
 
         - (b) V súlade s článkom 27 (7) môže národné zákonodárstvo aplikované určeným úradom požadovať, aby:
 
@@ -1834,17 +1900,17 @@
 
         - (c) Ak 17. marca 2000 odsek (a) a lehota, na ktoré tento odsek odkazuje, nebudú zlučiteľné s národným zákonodarstvom aplikovaným určeným úradom, tento odsek (a) a lehota, na ktoré tento odsek odkazuje, nebudú sa aplikovať na tento úrad tak dlho, kým daný odsek nebude zlučiteľný s týmto zákonodarstvom za predpokladu, že príslušný úrad bude podľa toho informovať Medzinárodný úrad do 30. novembra 2000. Prijatá informácia bude promptne publikovaná Medzinárodným úradom vo Vestníku.
 
-    - PRAVIDLO 52 ÚPRAVA NÁROKOV, OPISU A VÝKRESOV NA URČENÝCH ÚRADOCH
+    - Pravidlo 52 Úprava nárokov, opisu a výkresov na určených úradoch
 
       - 52.1 Lehota
 
-        - (a) V určenom štáte, kde sa konanie o medzinárodnej prihláške alebo jej prieskum začína bez osobitnej žiadosti, vykoná prihlasovateľ svoje právo podľa článku 28, ak chce tak urobiť, do jedného mesiaca od splnenia požiadaviek podľa článku 22; z predpokladu, že nedošlo k postúpeniu podľa pravidla 47.1 v lehote podľa článku 22, vykoná toto právo najneskôr do štyroch mesiacov od uplynutia spomenutej lehoty. V oboch prípadoch môže prihlasovateľ vykonať uvedené právo kedykoľvek neskôr, ak to pripúšťa národné zákonodarstvo uvedeného štátu.
+        - (a) V určenom štáte, kde sa konanie alebo prieskum začína bez osobitnej žiadosti, využije prihlasovateľ svoje právo podľa článku 28, ak tak chce urobiť, do jedného mesiaca od splnenia požiadaviek podľa článku 22; za predpokladu, že nedošlo k postúpeniu podľa pravidla 47.1 v lehote podľa článku 22, využije toto právo najneskôr do štyroch mesiacov od uplynutia spomenutej lehoty. V oboch prípadoch môže prihlasovateľ využiť uvedené právo kedykoľvek neskôr, ak to pripúšťa národné zákonodarstvo uvedeného štátu.
 
         - (b) V každom určenom štáte, kde národné zákonodarstvo ustanovuje, že sa prieskum začína len na osobitnú žiadosť, je lehota alebo doba na výkon práva prihlasovateľa podľa článku 28 rovnaká ako lehota alebo doba na podanie úprav národných prihlášok s prieskumom na osobitnú žiadosť, pokiaľ taká lehota neuplynie alebo doba nenastane pred uplynutím lehoty podľa odseku (a).
 
   - ČASŤ C Pravidlá, ktorá sa týkajú hlavy II Zmluvy
 
-    - PRAVIDLO 53 Žiadosť
+    - Pravidlo 53 Návrh
 
       - 53.1. Forma
 
@@ -1862,9 +1928,7 @@
 
           - (iii) údaje o príslušnej medzinárodnej prihláške;
 
-          - (iv) voľbu štátov,
-
-          - (v) prípadne vyhlásenie týkajúce sa úprav
+          - (iv) prípadne vyhlásenie týkajúce sa úprav
 
         - (b) Návrh musí byť podpísaný.
 
@@ -1872,9 +1936,9 @@
 
         - Petit musí mať ďalej uvedený obsah, pričom sa odporúča toto jeho znenie: „Návrh podľa článku 31 Zmluvy o patentovej spolupráci: Podpísaný žiada, aby ďalej uvedená medzinárodná prihláška bola podrobená medzinárodnému predbežnému prieskumu podľa ustanovení Zmluvy o patentovej spolupráci“.
 
-      - 53.4. Prihlasovateľ
+      - 53.4 Prihlasovateľ
 
-        - Pokiaľ ide o údaje týkajúce sa prihlasovateľa, platia pravidlá 4.4 a 4.16 a pravidlo 4.5 platí primerane. Požaduje sa, aby sa v návrhu uviedli iba prihlasovatelia pre zvolené štáty.
+        - Ak ide o údaje týkajúce sa prihlasovateľa, uplatňujú sa pravidlá 4.4 a 4.16 a pravidlo 4.5 platí primerane.
 
       - 53.5 Zástupca alebo spoločný zástupca
 
@@ -1884,15 +1948,9 @@
 
         - Medzinárodná prihláška sa uvedie menom a adresou prihlasovateľa, názvom vynálezu, dátumom medzinárodného podania (ak je tento dátum známy prihlasovateľovi) a číslom medzinárodnej prihlášky, alebo ak toto číslo nie je prihlasovateľovi známe, názvom prijímacieho úradu, na ktorom bola medzinárodná prihláška podaná.
 
-      - 53.7 Voľba štátov
+      - 53.7 Zvolenie štátov
 
-        - (a) V návrhu sa z určených štátov, ktoré sú viazané hlavou II Zmluvy („štáty prichádzajúce do úvahy“) uvedie aspoň jeden zmluvný štát ako zvolený štát.
-
-        - (b) Voľba zmluvných štátov sa v návrhu urobí:
-
-          - (i) uvedením, že sú zvolené všetky štáty prichádzajúce do úvahy, alebo
-
-          - (ii) v prípade štátov, ktoré boli určené za účelom získania národných patentov, uvedením týchto štátov prichádzajúcich do úvahy, ktoré sú zvolené, a v prípade štátov, ktoré boli určené za účelom získania regionálneho patentu, uvedením príslušného regionálneho patentu spolu s údajom, že buď všetky štáty prichádzajúce do úvahy, ktoré sú členskými štátmi Zmluvy o príslušnom regionálnom patente, sú zvolené, alebo uvedením tých zo spomenutých štátov, ktoré sú zvolené.
+        - Podanie návrhu zakladá zvolenie všetkých zmluvných štátov, ktoré sú určené a sú viazané hlavou II Zmluvy.
 
       - 53.8. Podpis
 
@@ -1938,6 +1996,18 @@
 
         - Ak prihlasovateľ nemá právo podať návrh, alebo v prípade dvoch alebo viacerých prihlasovateľov, ktorých nemajú právo podať návrh podľa ustanovení pravidla 54.2., platí, že návrh nebol predložený.
 
+    - Pravidlo 54bis Lehota na podanie návrhu
+
+      - 54bis.1 Lehota na podanie návrhu
+
+        - (a) Návrh sa môže podať kedykoľvek pred uplynutím nasledovného obdobia, podľa toho, ktoré uplynie neskôr
+
+          - (i) tri mesiace od doručenia správy o medzinárodnej rešerši prihlasovateľovi a vypracovania písomného posudku podľa pravidla 43bis.1 alebo vyhlásenia týkajúceho sa článku 17(2)(a) alebo
+
+          - (ii) 22 mesiacov od dátumu priority.
+
+        - (b) Návrh vypracovaný po uplynutí lehoty podľa odseku (a) sa považuje za nepredložený a orgán pre medzinárodný predbežný prieskum tak deklaruje.
+
     - Pravidlo 55 Jazyky (medzinárodný predbežný prieskum)
 
       - 55.1. Jazyk návrhu
@@ -1966,42 +2036,6 @@
 
         - (c) Ak prihlasovateľ nevyhovie výzve v lehote uvedenej v odseku (b), zmena sa nevezme do úvahy na účely medzinárodného predbežného prieskumu.
 
-    - PRAVIDLO 56 NESKORŠIA VOĽBA
-
-      - 56.1. Voľby predložené neskôr ako návrh
-
-        - (a) Voľba štátov po tom, čo sa predložil návrh („neskoršia voľba“), sa vykoná oznámením predloženým Medzinárodnému úradu. V oznámení musia byť uvedené medzinárodná prihláška a návrh a musí v ňom byť uvedený údaj podľa ustanovenia pravidla 53.7 (b) (ii).
-
-        - (b) S výhradou odseku (c) musí oznámenie podľa odseku (a) podpísať prihlasovateľ pre príslušné zvolené štáty alebo, ak je viac ako jeden prihlasovateľ pre tieto štáty, všetci prihlasovatelia.
-
-        - (c) Ak dvaja alebo viacerí prihlasovatelia podajú oznámenie o neskoršej voľbe štátu, ktorého národné zákonodarstvo požaduje, aby národné prihlášky podával vynálezca, a ak prihlasovateľ pre tento zvolený štát, ktorý je vynálezcom, odmietol podpísať oznámenie, alebo ho nemohli nájsť alebo dosiahnuť ani po vynaložení značného úsilia, oznámenie nemusí podpísať tento prihlasovateľ („dotyčný prihlasovateľ“), ak ho podpísal aspoň jeden prihlasovateľ a ak
-
-          - (i) sa Medzinárodnému úradu predloží uspokojivé vysvetlenie týkajúce sa chýbajúceho podpisu dotyčného prihlasovateľa, alebo
-
-          - (ii) dotyčný prihlasovateľ nepodpísal žiadosť, ale požiadavkám pravidla 4.15 b) sa vyhovelo, alebo nepodpísal návrh, ale požiadavkám ustanovenia pravidla 53.8 b) sa vyhovelo.
-
-        - (d) Prihlasovateľ pre štát zvolený neskoršou voľbou nemusí byť uvedený ako prihlasovateľ v návrhu.
-
-        - (e) Ak oznámenie o neskoršej voľbe sa predloží po uplynutí 19 mesiacov od dátumu priority, Medzinárodný úrad oznámi prihlasovateľovi, že voľba nemá účinok určený v článku 39 (1) (a), a že pokiaľ ide o dotyčný zvolený úrad, úkony podľa ustanovení článku 22 musia byť vykonané v lehote podľa článku 22.
-
-        - (f) Bez ohľadu na ustanovenie odseku (a), ak predloží prihlasovateľ oznámenie týkajúce sa neskoršej voľby radšej orgánu pre medzinárodný predbežný prieskum ako Medzinárodnému úradu, potom tento orgán vyznačí dátum prijatia tohto oznámenia a doručí ho ihneď Medzinárodnému úradu. V takom prípade platí, že oznámenie bolo predložené Medzinárodnému úradu podľa uvedeného dátumu.
-
-      - 56.2 Údaje o medzinárodnej prihláške
-
-        - Medzinárodná prihláška sa uvedie podľa pravidla 53.6.
-
-      - 56.3 Údaje o návrhu
-
-        - Návrh sa uvedie podľa dátumu podania a názvu orgánu pre medzinárodný predbežný prieskum, kde bol podaný.
-
-      - 56.4. Forma neskoršej voľby
-
-        - Oznámenie o neskoršej voľbe sa odporúča formulovať takto: „V súvislosti s medzinárodnou prihláškou podanou na ....., (dňa)..... pod číslom ..... prihlasovateľom ..... a v súvislosti s návrhom na medzinárodný predbežný prieskum predloženým (dňa) ..... , (orgánu.....), volí podpísaný tieto ďalšie štáty (štát) podľa článku 31 Zmluvy o patentovej spolupráci: .... .“
-
-      - 56.5 Jazyk neskoršej voľby
-
-        - Neskoršia voľba bude v jazyku návrhu.
-
     - Pravidlo 57 Manipulačný poplatok
 
       - 57.1 Poplatková povinnosť
@@ -2018,21 +2052,25 @@
 
         - (e) Ak sa výmenný kurz medzi švajčiarskou menou a predpísanou menou oproti poslednému použitému výmennému kurzu zmení, určí generálny riaditeľ nové sumy v predpísanej mene podľa smerníc Zhromaždenia. Novourčené sumy sa použijú po uplynutí dvoch mesiacov od ich uverejnenia vo Vestníku, ibaže sa príslužný orgán pre medzinárodný predbežný prieskum s generálnym riaditeľom dohodne na kratšej lehote, v tomto prípade príslušný orgán používa spomenuté sumy až od dohodnutého dátumu.
 
-      - 57.3 Lehota na platbu; Výška poplatku
+      - 57.3 Dátum a spôsob platenia
 
-        - (a) Manipulačný poplatok je splatný do jedného mesiaca od dátumu, keď bol návrh predložený, pričom ak bol návrh odovzdaný orgánu pre medzinárodný predbežný prieskum podľa pravidla 59.3, manipulačný poplatok je splatný do jedného mesiaca od dátumu prijatia návrhu týmto orgánom. Výška poplatku je suma, ktorá je splatná v deň predloženia alebo prípadne v deň prijatia návrhu. Na účely predchádzajúcich dvoch viet sa nepoužije pravidlo 59.3(e).
+        - (a) S výhradou odsekov (b) a (c) manipulačný poplatok je splatný v lehote jedného mesiaca od dátumu predloženia návrhu alebo 22 mesiacov od dátumu priority, podľa toho, ktorá lehota uplynie neskôr.
 
-        - (c) (zrušené)
+        - (b) S výhradou odseku (c), ak bol návrh predložený orgánu pre medzinárodný predbežný prieskum podľa pravidla 59.3, manipulačný poplatok je splatný v lehote jedného mesiaca od dátumu, keď ho orgán prijal, alebo 22 mesiacov od dátumu priority, podľa toho, ktorá lehota uplynie neskôr.
+
+        - (c) Ak v súlade s pravidlom 69.1(b) chce orgán pre medzinárodný predbežný prieskum začať medzinárodný prieskum súčasne s medzinárodnou rešeršou, orgán vyzve prihlasovateľa, aby zaplatil manipulačný poplatok v lehote jedného mesiaca od dátumu výzvy.
+
+        - (d) Výška manipulačného poplatku je výška poplatku platná v deň platby.
 
       - 57.4 (zrušené)
 
       - 57.6. Vrátenie poplatku
 
-      - Orgán pre medzinárodný predbežný prieskum vráti manipulačný poplatok prihlasovateľovi:
+      - Orgán pre medzinárodný predbežný prieskum vráti manipulačný poplatok prihlasovateľovi
 
         - (i) ak sa návrh vezme späť predtým, než ho zaslal tento orgán Medzinárodnému úradu, alebo
 
-        - (ii) ak sa návrh považuje za nepredložený podľa pravidla 54.4.
+        - (ii) ak sa návrh podľa pravidla 54.4 alebo 54bis.1(b) považuje za nepodaný.
 
     - PRAVIDLO 58 POPLATOK ZA PREDBEŽNÝ PRIESKUM
 
@@ -2048,11 +2086,17 @@
 
         - Orgány pre medzinárodný predbežný prieskum informujú Medzinárodný úrad o rozsahu a podmienkach prípadného vrátenia súm zaplatených na poplatok za predbežný prieskum v prípade, že sa návrh považuje za nepodaný, a Medzinárodný úrad tieto informácie bez odkladu uverejní.
 
-    - Pravidlo 58bis Predĺženie lehoty na platenie poplatkov
+    - Pravidlo 58bis Predĺženie lehôt na platbu poplatkov
 
       - 58bis.1 Výzva orgánu pre medzinárodný predbežný prieskum
 
-        - (a) Ak v lehote podľa pravidiel 57.3 a 58.1(b) orgán pre medzinárodný predbežný prieskum zistí, že sa nezaplatili žiadne poplatky alebo že zaplatená suma nie je dostatočná na pokrytie manipulačného poplatku a poplatku za medzinárodný predbežný prieskum, vyzve tento orgán prihlasovateľa, aby zaplatil sumu požadovanú na pokrytie týchto poplatkov, prípadne spolu s poplatkom za oneskorenú platbu podľa pravidla 58bis.2, v lehote jedného mesiaca od dátumu výzvy.
+        - (a) Ak orgán pre medzinárodný predbežný prieskum zistí, že
+
+          - (i) zaplatená suma je nedostatočná na pokrytie manipulačného poplatku a poplatku za predbežný prieskum alebo
+
+          - (ii) poplatky podľa pravidla 57.3 a 58.1(b) nie sú zaplatené,
+
+        - orgán vyzve prihlasovateľa, aby zaplatil požadovanú sumu, ktorá pokryje tieto poplatky, prípadne spolu s poplatkom za neskorú platbu podľa pravidla 58bis.2 v lehote jedného mesiaca od dátumu výzvy.
 
         - (b) Ak orgán pre medzinárodný predbežný prieskum poslal výzvu podľa odseku (a) a prihlasovateľ v lehote stanovenej v tomto odseku nezaplatil celú sumu, prípadne ani poplatok za oneskorenú platbu podľa pravidla 58bis.2, bude sa návrh s výnimkou odseku (c) považovať za nepredložený a orgán pre medzinárodný predbežný prieskum o tom vydá uznesenie.
 
@@ -2070,7 +2114,7 @@
 
         - (b) Výška poplatku za oneskorenú platbu však nepresiahne sumu, ktorá sa rovná dvojnásobku manipulačného poplatku.
 
-    - PRAVIDLO 59 ORGÁN PRÍSLUŠNÝ PRE MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM
+    - Pravidlo 59 Príslušný orgán pre medzinárodný predbežný prieskum
 
       - 59.1. Návrhy podľa článku 31 (2) (a) Zmluvy
 
@@ -2082,17 +2126,17 @@
 
         - Pre návrhy podľa článku 31 (2) (b) dá Zhromaždenie pri určovaní orgánu pre medzinárodný predbežný prieskum príslušného pre medzinárodné prihlášky podané na národnom úrade, ktorý je sám orgánom pre medzinárodný predbežný prieskum, prednosť tomuto orgánu; ak národný úrad nie je sám orgánom pre medzinárodný predbežný prieskum. Zhromaždenie dá prednosť orgánu odporučenému týmto úradom.
 
-      - 59.3 Odovzdanie návrhu orgánu príslušnému pre medzinárodný predbežný prieskum
+      - 59.3 Odovzdanie návrhu príslušnému orgánu pre medzinárodný predbežný prieskum
 
         - (a) Ak sa návrh predloží prijímaciemu úradu, orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum, ktorý nie je príslušný vykonávať medzinárodný predbežný prieskum medzinárodnej prihlášky, tento úrad alebo orgán označí návrh dátumom, keď návrh dostal, a ak sa nerozhodne postupovať podľa odseku (f), návrh ihneď predloží Medzinárodnému úradu.
 
         - (b) Ak sa návrh predloží Medzinárodnému úradu, Medzinárodný úrad označí návrh dátumom, keď návrh dostal.
 
-        - (c) Ak sa návrh odovzdá Medzinárodnému úradu podľa odseku (a) alebo predloží podľa odseku (b), Medzinárodný úrad bez zbytočného odkladu:
+        - (c) Ak je zaslaný návrh Medzinárodnému úradu podľa odseku (a) alebo postúpený Medzinárodnému úradu podľa odseku (b), Medzinárodný úrad bezodkladne
 
           - (i) odovzdá návrh tomuto orgánu a upovedomí o tom prihlasovateľa, ak je iba jediným orgánom príslušným vykonať medzinárodný predbežný prieskum, alebo
 
-          - (ii) vyzve prihlasovateľa, aby do 15 dní od dátumu výzvy alebo do 19 mesiacov od dátumu priority podľa toho, ktorá lehota uplynie neskôr, oznámil orgán príslušný pre medzinárodný predbežný prieskum, ak sú dva orgány alebo je viac orgánov pre medzinárodný predbežný prieskum príslušných vykonať medzinárodný predbežný prieskum, ktorému sa má návrh odovzdať.
+          - (ii) vyzve prihlasovateľa, ak sú príslušné dva alebo viac orgánov pre medzinárodný predbežný prieskum, aby v rámci lehoty platnej podľa pravidla 54bis.1(a) alebo 15 dní od dátumu výzvy, podľa toho, ktorá uplynie neskôr, uviedol príslušný orgán pre medzinárodný predbežný prieskum, ktorému má zaslať návrh.
 
         - (d) Ak sa oznámenie predloží podľa požiadavky odseku (c)(ii), Medzinárodný úrad bez zbytočného odkladu odovzdá návrh orgánu príslušnému na medzinárodný predbežný prieskum uvedený prihlasovateľom. Ak sa také oznámenie nepredloží, návrh sa bude považovať za nepredložený a Medzinárodný úrad o tom vydá uznesenie.
 
@@ -2100,81 +2144,89 @@
 
         - (f) Ak sa úrad alebo orgán, ktorému bol návrh predložený podľa odseku (a), rozhodne odovzdať tento návrh priamo príslušnému orgánu pre medzinárodný predbežný prieskum, odseky (c) až (e) sa použijú mutatis mutandis.
 
-    - Pravidlo 60 Niektoré nedostatky návrhu alebo voľby
+    - Pravidlo 60 Niektoré nedostatky návrhu
 
-      - 60.1. Nedostatky návrhu
+      - 60.1 Nedostatky návrhu
 
-        - (a) Ak návrh nevyhovuje požiadavkám uvedeným v pravidlách 53.1., 53.2.(a) (i) až (iv), 53.2.(b), 53.3. až 53.8. a 55.1., orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby nedostatky opravil v lehote, ktorá je primeraná okolnostiam. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum môže lehotu predĺžiť kedykoľvek pred vydaním rozhodnutia.
+        - (a) S výhradou odsekov (a-bis) a (a-ter), ak návrh nie je v súlade s požiadavkami stanovenými v pravidlách 53.1, 53.2(a)(i) až (iii), 53.2(b), 53.3 až 53.8 a 55.1, orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby opravil nedostatky v návrhu v lehote primeranej okolnostiam. Lehota nesmie byť kratšia ako mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum ju môže predĺžiť kedykoľvek pred prijatím rozhodnutia.
 
-        - (b) Ak prihlasovateľ vyhovie výzve v lehote podľa odseku (a), predpokladá sa, že návrh došiel s pôvodným dátumom podania pod podmienkou, že návrh pri predložení obsahoval aspoň voľbu a umožňoval identifikáciu medzinárodnej prihlášky; inak sa predpokladá, že návrh došiel dňom, keď orgán pre medzinárodný predbežný prieskum dostal opravu.
+        - (a-bis) Na účely pravidla 53.4, ak sú dvaja alebo viacerí prihlasovatelia, stačí, ak údaje uvedené v pravidle 4.5(a)(ii) a (iii) uvedie jeden z nich, ktorý má právo podľa pravidla 54.2 podať návrh.
 
-        - (c) S výnimkou odseku (d), ak prihlasovateľ nevyhovie výzve v lehote podľa odseku (a), bude sa návrh považovať za nepredložený a orgán pre medzinárodný predbežný prieskum o tom vydá uznesenie.
+        - (a-ter) Na účely pravidla 53.8, ak sú dvaja alebo viac prihlasovateľov, stačí, ak návrh podpíše jeden z nich.
 
-        - (d) Ak po uplynutí lehoty podľa odseku (a) chýba podpis podľa pravidla 53.8 alebo predpísaný údaj týkajúci sa prihlasovateľa pre určitý zvolený štát, predpokladá sa, že voľba tohto štátu sa nevykonala.
+        - (b) Ak prihlasovateľ vyhovie výzve v lehote podľa odseku (a), predpokladá sa, že návrh došiel s pôvodným dátumom podania pod podmienkou, že návrh pri predložení umožňoval identifikáciu medzinárodnej prihlášky; inak sa predpokladá, že návrh došiel v deň, keď orgán pre medzinárodný predbežný prieskum dostal opravu.
 
-        - (e) Ak nedostatok zistil Medzinárodný úrad, upozorní tento úrad na nedostatok orgán pre medzinárodný predbežný prieskum, ktorý potom postupuje podľa odsekov (a) až (d).
+        - (c) Ak prihlasovateľ nevyhovie výzve v lehote podľa odseku (a), predpokladá sa, že návrh považuje za nepredložený a orgán pre medzinárodný predbežný prieskum tak deklaruje.
+
+        - (e) Ak nedostatok zistil Medzinárodný úrad, upozorní na tento nedostatok orgán pre medzinárodný predbežný prieskum, ktorý potom postupuje podľa odsekov (a) až (c).
 
         - (f) Ak návrh neobsahuje vyhlásenie týkajúce sa úprav, bude orgán pre medzinárodný predbežný prieskum postupovať podľa pravidiel 66.1 a 69.1 (a) alebo (b).
 
         - (g) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že úpravy podľa článku 34 sa predkladajú s návrhom [pravidlo 53.9 (c)], ale žiadne úpravy sa v skutočnosti nepredložili, vyzve orgán pre medzinárodný predbežný prieskum prihlasovateľa, aby úpravy predložil v lehote ustanovenej vo výzve, a bude postupovať podľa pravidla 69.1 (e).
 
-      - 60.2 Nedostatky v neskoršej voľbe
+    - Pravidlo 61 Oznámenie návrhu a voľby
 
-        - (a) Ak oznámenie o neskoršej voľbe nevyhovuje požiadavkám pravidla 56, vyzve Medzinárodný úrad prihlasovateľa, aby opravil nedostatky v primeranej lehote. Táto lehota nesmie byť kratšia než jeden mesiac od dátumu výzvy. Medzinárodný úrad ju môže kedykoľvek pred rozhodnutím predĺžiť.
-
-        - (b) Ak prihlasovateľ vyhovie výzve v lehote podľa odseku (a), predpokladá sa, že oznámenie došlo s pôvodným dátumom podania pod podmienkou, že oznámenie pri predložení obsahovalo aspoň jednu voľbu a umožňovalo identifikáciu medzinárodnej prihlášky; inak sa predpokladá, že oznámenie došlo dňom, keď Medzinárodný úrad dostal opravu.
-
-        - (c) S výnimkou odseku (d), ak prihlasovateľ nevyhovie výzve v lehote podľa odseku (a), oznámenie sa bude považovať za nepredložené a Medzinárodný úrad o tom vydá uznesenie.
-
-        - (d) Ak chýba po uplynutí lehoty podľa odseku (a), pokiaľ ide o prihlasovateľa pre určitý zvolený štát, podpis požadovaný podľa pravidla 56.1 (b) a (c), alebo meno alebo adresa, predpokladá sa, že voľba tohto štátu sa nevykonala.
-
-    - PRAVIDLO 61 OZNÁMENIE NÁVRHU A VOLIEB
-
-      - 61.1. Oznámenie Medzinárodnému úradu a prihlasovateľovi
+      - 61.1 Oznámenie Medzinárodnému úradu a prihlasovateľovi
 
         - (a) Orgán pre medzinárodný predbežný prieskum vyznačí na návrhu dátum prijatia alebo, ak je to možné, dátum podľa pravidla 60.1(b). Orgán pre medzinárodný predbežný prieskum bez zbytočného odkladu alebo zašle návrh Medzinárodnému úradu a kópiu ponechá vo svojich spisoch, alebo zašle kópiu Medzinárodnému úradu a žiadosť ponechá vo svojich spisoch.
 
-        - (b) Orgán pre medzinárodný predbežný prieskum bez zbytočného odkladu oznámi prihlasovateľovi dátum prijatia návrhu. Ak sa návrh považuje podľa pravidiel 54.4, 55.2(d), 58bis.1(b) alebo 60.1(c) za nepredložený alebo ak sa predpokladá, že voľba nebola podľa pravidla 60.1(d) vykonaná, oznámi to orgán pre medzinárodný predbežný prieskum prihlasovateľovi a Medzinárodnému úradu.
+        - (b) Orgán pre medzinárodný predbežný prieskum ihneď informuje prihlasovateľa o dátume prijatia návrhu. Ak sa návrh posudzuje podľa pravidiel 54.4, 55.2(d), 58bis.1(b) alebo 60.1(c) ako nepredložený, orgán pre medzinárodný predbežný prieskum to oznámi prihlasovateľovi a Medzinárodnému úradu.
 
-        - (c) Medzinárodný úrad musí ihneď oznámiť prihlasovateľovi príjem a dátum prijatia oznámenia o neskoršej voľbe. Dátumom je buď dátum skutočného prijatia Medzinárodným úradom, alebo prípadne dátum podľa pravidla 56.1 (f) alebo 60.2 (b). Ak podľa pravidla 60.2 (c) platí, že oznámenie sa nepredložilo, alebo keď podľa pravidla 60.2 (d) sa neskoršia voľba považuje za nevykonanú, oznámi to Medzinárodný úrad prihlasovateľovi.
-
-      - 61.2. Správa zvoleným úradom
+      - 61.2 Správa zvoleným úradom
 
         - (a) Správou podľa článku 31 (7) podá Medzinárodný úrad.
 
-        - (b) V správe musí byť uvedené číslo a dátum podania medzinárodnej prihlášky, meno prihlasovateľa, dátum podania prihlášky, ktorej priorita sa uplatňuje (ak sa priorita uplatňuje), dátum prijatia návrhu orgánom pre medzinárodný predbežný prieskum a v prípade neskoršej voľby dátum prijatia oznámenia o neskoršej voľbe. Tento dátum musí byť skutočným dátumom prijatia Medzinárodným úradom, alebo prípadne dátumom podľa ustanovenia pravidla 56.1 (f) alebo 60.2 (b).
+        - (b) V správe musí byť uvedené číslo a dátum podania medzinárodnej prihlášky, meno prihlasovateľa, dátum podania prihlášky, ktorej priorita sa uplatňuje, (ak sa priorita uplatňuje), a dátum prijatia návrhu orgánom pre medzinárodný predbežný prieskum.
 
         - (c) Správa sa musí zaslať zvolenému úradu spolu s postúpením podľa článku 20. Voľby vykonané po tomto postúpení sa musia oznámiť ihneď po tom, čo sa uskutočnili.
 
-        - (d) Ak prihlasovateľ výslovne požiada zvolený úrad podľa ustanovenia článku 40 (2), pred tým, než došlo k postúpeniu podľa článku 20, musí Medzinárodný úrad na žiadosť prihlasovateľa alebo zvoleného úradu ihneď uskutočniť postúpenie tomuto úradu.
+        - (d) Ak prihlasovateľ výslovne požiada zvolený úrad podľa článku 40(2) pred medzinárodným zverejnením medzinárodnej prihlášky, musí Medzinárodný úrad na základe žiadosti prihlasovateľa alebo zvoleného úradu ihneď uskutočniť postúpenie podľa článku 20 tomuto úradu.
 
       - 61.3. Informácie pre prihlasovateľa
 
         - Medzinárodný úrad písomne informuje prihlasovateľa o správe podľa pravidla 61.2 a o zvolených úradoch oznámených podľa článku 31 (7).
 
-      - 61.4 Zverejnenie vo Vestníku
+      - 61.4 Zverejnenie vo vestníku
 
-        - Ak bol návrh podaný pred uplynutím 19 mesiacov od dátumu priority, Medzinárodný úrad zverejní vo Vestníku oznámenie o podaní návrhu a o príslušných zvolených štátoch v zmysle Administratívnej smernice bez zbytočného odkladu po podaní návrhu, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky.
+        - Medzinárodný úrad musí ihneď po podaní návrhu, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky zverejniť informáciu o návrhu a príslušných zvolených štátoch vo vestníku, ako stanovujú Administratívne smernice.
 
-    - Pravidlo 62 Kópie úprav podľa článku 19 pre orgán pre medzinárodný predbežný prieskum
+    - Pravidlo 62 Kópia písomného posudku orgánu pre medzinárodnú rešerš a zmeny podľa článku 19 pre medzinárodný predbežný prieskum
 
-      - 62.1 Úpravy vykonané pred podaním návrhu
+      - 62.1 Kópia písomného posudku orgánu pre medzinárodnú rešerš a úpravy vykonané pred podaním návrhu
 
-      - Po prijatí návrhu alebo jeho kópie od orgánu pre medzinárodný predbežný prieskum Medzinárodný úrad odovzdá bez zbytočného odkladu kópiu všetkých úprav podľa článku 19 a každého vyhlásenia podľa tohto článku tomuto orgánu, ak tento orgán neoznámil, že už túto kópiu prijal.
+      - Po prijatí návrhu alebo jeho kópie od orgánu pre medzinárodný predbežný prieskum, Medzinárodný úrad ihneď bezodkladne zašle tomuto orgánu
+
+        - (i) kópiu písomného posudku vypracovaného podľa pravidla 43bis.1, ak tak už neurobil národný úrad alebo medzivládna organizácia, ktorá koná ako orgán pre medzinárodnú rešerš a tiež koná ako orgán pre medzinárodný predbežný prieskum, a
+
+        - (ii) kópiu zmien podľa článku 19 a stanovisko uvedené v tomto článku, ak orgán už neuviedol, že už túto kópiu prijal.
 
       - 62.2 Úpravy vykonané po podaní návrhu
 
         - Ak v čase podania úprav podľa článku 19 bol už návrh predložený, musí prihlasovateľ, najlepšie súčasne s podaním úprav Medzinárodnému úradu, podať aj orgánu pre medzinárodný predbežný prieskum kópiu týchto úprav a každého vyhlásenia podľa tohto článku. V každom prípade musí Medzinárodný úrad bez zbytočného odkladu zaslať kópiu týchto úprav a vyhlásenia tomuto orgánu.
 
-    - PRAVIDLO 63 MINIMÁLNE POŽIADAVKY NA ORGÁNY PRE MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM Minimálne požiadavky podľa článku 32 (3) sú tieto:
+    - Pravidlo 62bis Preklad písomného posudku orgánu pre medzinárodnú rešerš pre orgán pre medzinárodný predbežný prieskum
 
-      - 63.1 Vymedzenie minimálnych požiadaviek:
+      - 62bis.1 Preklad a pripomienky
+
+        - (a) Na základe žiadosti orgánu pre medzinárodný predbežný prieskum, ak nie je písomný posudok vypracovaný podľa pravidla 43bis.1 v anglickom alebo inom jazyku, ktorý akceptuje tento orgán, preloží písomný posudok Medzinárodný úrad do angličtiny alebo bude zaň zodpovedný.
+
+        - (b) Medzinárodný úrad zašle kópiu prekladu orgánu pre medzinárodný predbežný prieskum v lehote dvoch mesiacov od dátumu prijatia žiadosti o preklad a kópiu zároveň zašle prihlasovateľovi.
+
+        - (c) Prihlasovateľ môže vypracovať písomné pripomienky k správnosti prekladu a zaslať ich orgánu pre medzinárodný predbežný prieskum a Medzinárodnému úradu.
+
+    - Pravidlo 63 Minimálne požiadavky na orgány pre medzinárodný predbežný prieskum
+
+      - 63.1 Vymedzenie minimálnych požiadaviek
+
+      - Minimálne požiadavky uvedené v článku 32(3) sú:
 
         - (i) národný úrad alebo medzivládna organizácia musí mať aspoň 100 zamestnancov s plným pracovným úväzkom, ktorí mají dostatočnú technickú kvalifikáciu na vykonávanie prieskumu;
 
         - (ii) úrad alebo organizácia musí mať u seba aspoň minimálnu dokumentáciu podľa pravidla 34, a to riadne usporiadanú na účely prieskumu;
 
-        - (iii) úrad alebo organizácia musí mať personál schopný vykonávať prieskum v požadovaných technických odboroch a s jazykovými znalosťami aspoň tých jazykov, v ktorých je spísaná alebo do ktorých je preložená minimálna dokumentácia podľa pravidla 34.
+        - (iii) úrad alebo organizácia musí mať personál schopný vykonávať prieskum v požadovaných technických odboroch a so znalosťou aspoň tých jazykov, v ktorých je spísaná alebo preložená minimálna dokumentácia podľa pravidla 34,
+
+        - (iv) úrad alebo organizácia musí byť vymenovaná ako orgán pre medzinárodnú rešerš.
 
     - PRAVIDLO 64 ZNÁMY STAV TECHNIKY PRE MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM
 
@@ -2206,7 +2258,7 @@
 
         - Na účely článku 33 (3) je dátum rozhodný pre posúdenie tvorivého riešenia (riešenia, ktoré nie je naporúdzi) dátum podľa pravidla 64.1.
 
-    - PRAVIDLO 66 KONANIE PRED ORGÁNOM PRE MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM
+    - Pravidlo 66 Konanie pred orgánom pre medzinárodný predbežný prieskum
 
       - 66.1. Podklad medzinárodného predbežného prieskumu
 
@@ -2220,7 +2272,17 @@
 
         - (e) Návrhy týkajúce sa vynálezov, vo vzťahu ku ktorým sa nevyhotovila žiadna medzinárodná rešeršová správa, nemusia byť predmetom medzinárodného predbežného prieskumu.
 
-      - 66.2. Prvý písomný posudok orgánu pre medzinárodný predbežný prieskum
+      - 66.1bis Písomný posudok orgánu pre medzinárodnú rešerš
+
+        - (a) S výhradou odseku (b) písomný posudok vypracovaný orgánom pre medzinárodnú rešerš podľa pravidla 43bis.1 sa bude považovať za písomný posudok orgánu pre medzinárodný predbežný prieskum na účely pravidla 66.2(a).
+
+        - (b) Orgán pre medzinárodný predbežný prieskum môže oznámiť Medzinárodnému úradu, že odsek (a) neuplatňuje vo svojom konaní s ohľadom na písomné posudky vypracované podľa pravidla 43bis.1 orgánom pre medzinárodnú rešerš alebo orgánmi uvedenými v oznámení za predpokladu, že takéto oznámenie sa neuplatňuje v tom prípade, ak národný úrad alebo medzivládna organizácia koná ako orgán pre medzinárodnú rešerš, ako aj orgán pre medzinárodný predbežný prieskum. Medzinárodný výbor okamžite zverejní každé takéto oznámenie vo vestníku.
+
+        - (c) Ak písomný posudok vypracovaný orgánom pre medzinárodnú rešerš podľa pravidla 43bis.1 sa na základe oznámenia podľa odseku (b) nepovažuje za písomný posudok orgánu pre medzinárodný predbežný prieskum na účely pravidla 66.2(a), orgán pre medzinárodný predbežný prieskum to písomne oznámi prihlasovateľovi.
+
+        - (d) Písomný posudok vypracovaný orgánom pre medzinárodnú rešerš podľa pravidla 43bis.1, ktorý nie je na základe odseku (b) považovaný za písomný posudok orgánu pre medzinárodný predbežný prieskum na účely pravidla 66.2(a), musí ho orgán pre medzinárodný predbežný prieskum aj napriek tomu vziať do úvahy v konaní podľa pravidla 66.2(a).
+
+      - 66.2 Písomný posudok orgánu pre medzinárodný predbežný prieskum
 
         - (a) Ak sa orgán pre medzinárodný predbežný prieskum
 
@@ -2242,7 +2304,9 @@
 
         - (c) Oznámenie obsahuje výzvu prihlasovateľovi, aby predložil písomnú odpoveď a prípadné úpravy.
 
-        - (d) Oznámenie musí určiť lehotu pre odpoveď. Lehota musí byť primeraná okolnostiam. Je obvykle dvojmesačná od dátumu oznámenia. V žiadnom prípade nesmie byť kratšia než jeden mesiac od uvedeného dátumu. Je aspoň dvojmesačná od uvedeného dátumu, ak správa o medzinárodnom predbežnom prieskume je odosielaná zároveň s oznámením. Nesmie byť dlhšia ako tri mesiace od uvedeného dátumu, ale môže sa na žiadosť prihlasovateľa podanú pred uplynutím lehoty predĺžiť.
+        - (d) Oznámenie musí určiť lehotu na odpoveď. Lehota musí byť primeraná okolnostiam. Obvykle je dvojmesačná od dátumu oznámenia. V žiadnom prípade nesmie byť kratšia než jeden mesiac od uvedeného dátumu. Lehota je aspoň dvojmesačná od uvedeného dátumu, ak správa o medzinárodnej rešerši je odosielaná zároveň s oznámením. S výhradou odseku (e) nesmie byť dlhšia ako tri mesiace od uvedeného dátumu.
+
+        - (e) Lehota na odpoveď na oznámenie sa môže na žiadosť prihlasovateľa podanú pred uplynutím lehoty predĺžiť.
 
       - 66.3 Riadna odpoveď orgánu pre medzinárodný predbežný prieskum
 
@@ -2268,9 +2332,9 @@
 
         - Orgán pre medzinárodný predbežný prieskum sa môže kedykoľvek spojiť s prihlasovateľom neformálne, a to telefonicky, písomne alebo pri osobnom rozhovore. Uvedený orgán rozhodne podľa úvahy, či na žiadosť prihlasovateľa povolí viac osobných rozhovorov, alebo či odpovie na neformálne písomné oznámenie prihlasovateľa.
 
-      - 66.7 Prioritný doklad
+      - 66.7 Kópia a preklad skoršej prihlášky, ktorej priorita sa uplatňuje
 
-        - (a) Ak orgán pre medzinárodný predbežný prieskum potrebuje kópiu prihlášky, ktorej priorita sa uplatňuje v medzinárodnej prihláške, Medzinárodný úrad mu ju na žiadosť bez odkladu dodá. Ak orgán pre medzinárodný predbežný prieskum nedostane kópiu preto, že prihlasovateľ nesplnil požiadavky podľa pravidla 17.1, možno správu o medzinárodnom predbežnom prieskume spracovať tak, akoby k uplatneniu priority nedošlo.
+        - (a) Ak orgán pre medzinárodný predbežný prieskum potrebuje kópiu skoršej prihlášky, ktorej priorita sa uplatňuje v medzinárodnej prihláške, Medzinárodný úrad mu ju na požiadanie bez odkladu dodá. Ak orgán pre medzinárodný predbežný prieskum nedostane kópiu preto, lebo prihlasovateľ nesplnil požiadavky podľa pravidla 17.1, a ak skoršia prihláška nebola podaná orgánu, ktorý koná ako národný úrad, alebo prioritný doklad nie je dostupný tomuto orgánu z digitálnej knižnice v súlade s Administratívnymi smernicami, správa o medzinárodnom predbežnom prieskume môže byť vypracovaná, ako keby k uplatneniu priority nedošlo.
 
         - (b) Ak prihláška, ktorej priorita sa nárokuje v medzinárodnej prihláške, je v inom jazyku než v jazyku alebo v jednom z jazykov, ktoré používa Orgán pre medzinárodný predbežný prieskum, môže tento orgán, ak platnosť nároku na prioritu je relevantná na vyjadrenie názoru, na ktorý sa odkazuje v článku 33(1), vyzvať prihlasovateľa, aby predložil preklad v príslušnom jazyku alebo v jednom z príslušných jazykov v lehote dvoch mesiacov od dátumu výzvy. Ak sa preklad v tejto lehote nepredloží, možno správu o medzinárodnom predbežnom prieskume spracovať tak, ako keby k nárokovaniu priority nebolo došlo.
 
@@ -2340,37 +2404,45 @@
 
     - Pravidlo 69 Začatie a lehota na medzinárodný predbežný prieskum
 
-      - 69.1. Začatie medzinárodného predbežného prieskumu
+      - 69.1 Začatie medzinárodného predbežného prieskumu
 
-        - (a) S výhradou odsekov (b) až (e) začne orgán pre medzinárodný predbežný prieskum, ak má k dispozícii tak návrh, ako aj medzinárodnú rešeršovú správu, alebo oznámenie o rozhodnutí orgánu pre medzinárodnú rešerš podľa článku 17 (2) (a), že medzinárodná rešeršová správa nebude spracovaná.
+        - (a) S výhradou odsekov (b) a (e) orgán pre medzinárodný predbežný prieskum začne medzinárodný predbežný prieskum, ak má k dispozícii:
 
-        - (b) Ak príslušný orgán pre medzinárodný predbežný prieskum je súčasťou toho istého národného úradu alebo medzivládnej organizácie, ako príslušný orgán pre medzinárodnú rešerš, môže sa medzinárodný predbežný prieskum, ak si to orgán pre medzinárodný predbežný prieskum praje a s výhradou odseku (d), začať zároveň s medzinárodnou rešeršou.
+          - (i) návrh;
+
+          - (ii) vrátane prípadného poplatku za neskorú platbu podľa pravidla 58bis.2 a
+
+          - (iii) správu o medzinárodnej rešerši a písomný posudok vypracovaný podľa pravidla 43bis.1 alebo oznámenie o vyhlásení orgánu pre medzinárodnú rešerš podľa článku 17(2)(a), že správa o medzinárodnej rešerši nebude vypracovaná
+
+          - za predpokladu, že orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum pred uplynutím príslušnej lehoty podľa pravidla 54bis.1(a), iba ak prihlasovateľ vyslovene žiadal začať skôr.
+
+        - (b) Ak národný úrad alebo medzivládna organizácia, ktorá koná ako orgán pre medzinárodnú rešerš a tiež koná ako orgán pre medzinárodný predbežný prieskum, môže sa medzinárodný predbežný prieskum, ak si to národný úrad alebo medzivládna organizácia želá a s výhradou odsekov (d) a (e), začať súčasne s medzinárodnou rešeršou.
+
+        - (b-bis) Ak v súlade s odsekom (b) národný úrad alebo medzivládna organizácia, ktorá koná ako orgán pre medzinárodnú rešerš, aj ako orgán pre medzinárodný predbežný prieskum, si želá začať medzinárodný predbežný prieskum súčasne s medzinárodnou rešeršou a posúdi, že sú splnené všetky podmienky uvedené v článku 34(2)(c)(i) až (iii), národný úrad alebo medzivládna organizácia nemusí vo svojej kompetencii ako orgán pre medzinárodnú rešerš vypracovať písomný posudok podľa pravidla 43bis.1.
 
         - (c) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že sa majú vziať do úvahy úpravy podľa článku 19 [pravidlo 53.9 (a) (i)], orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum skôr, dokiaľ nedostane kópiu dotyčných úprav.
 
-        - (d) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že začatie medzinárodného predbežného prieskumu bolo odložené [pravidlo 53.9. (b)], orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum pred
+        - (d) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že začatie medzinárodného predbežného prieskumu bolo odložené (pravidlo 53.9(b)), orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum pred
 
-          - (i) dôjdením kópie úprav podľa článku 19,
+          - (i) prijatím kópie úprav vykonaných podľa článku 19,
 
-          - (ii) dôjdením oznámenia od prihlasovateľa, že nehodlá urobiť úpravy podľa článku 19, alebo
+          - (ii) prijatím oznámenia od prihlasovateľa, že nehodlá robiť úpravy podľa článku 19 alebo
 
-          - (iii) uplynutím 20 mesiacov od dátumu priority, podľa toho, k čomu dôjde skôr.
+          - (iii) pred uplynutím platnej lehoty podľa pravidla 54bis.1(a).
 
         - (e) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že úpravy podľa článku 34 sa predkladajú s návrhom [pravidlo 53.9 (c)], ale v skutočnosti neboli také úpravy predložené, nezačne orgán pre medzinárodný predbežný prieskum medzinárodný predbežný prieskum predtým, než dostane úpravy, alebo pred uplynutím lehoty ustanovenej vo výzve podľa pravidla 60.1 (g), podľa toho, k čomu dôjde skôr.
 
       - 69.2 Lehota na medzinárodný predbežný prieskum
 
-      - Lehota na spracovanie správy o medzinárodnom predbežnom prieskume je:
+      - Lehota na vypracovanie správy o medzinárodnom predbežnom prieskume bude podľa toho, ktorá uplynie neskôr:
 
-        - (i) 28 mesiacov od dátumu priority, alebo
+        - (i) 28 mesiacov od dátumu priority alebo
 
-        - (ii) osem mesiacov od dátumu zaplatenia poplatkov podľa pravidiel 57.1 a 58.1(a), alebo
+        - (ii) šesť mesiacov od začatia medzinárodného predbežného prieskumu stanoveného v pravidle 69.1, alebo
 
-        - (iii) osem mesiacov od dátumu, keď orgán pre medzinárodný predbežný prieskum dostal preklad predložený podľa pravidla 55.2,
+        - (iii) šesť mesiacov od dátumu, keď orgán pre medzinárodný predbežný prieskum prijal preklad predložený podľa pravidla 55.2.
 
-      - podľa toho, ktorá lehota uplynie ako posledná.
-
-    - PRAVIDLO 70 SPRÁVA O MEDZINÁRODNOM PREDBEŽNOM PRIESKUME
+    - Pravidlo 70 Správa orgánu pre medzinárodný predbežný prieskum o medzinárodnom predbežnom prieskume na patentovateľnosť (Správa o medzinárodnom predbežnom prieskume)
 
       - 70.1 Vymedzenie
 
@@ -2458,13 +2530,17 @@
 
         - V správe sa uvedie meno úradníka orgánu pre medzinárodný predbežný prieskum, ktorý je zodpovedný za túto správu.
 
-      - 70.15 Forma
+      - 70.15 Forma; názov
 
-      - Požiadavky na vonkajšiu formu správy upravia Administratívne smernice.
+        - (a) Požiadavky na vonkajšiu formu správy upravia Administratívne smernice.
 
-      - 70.16 Prílohy k správe
+        - (b) Správa bude mať názov „Správa o medzinárodnom predbežnom prieskume na patentovateľnosť (hlava II Zmluvy o patentovej spolupráci)“ spolu s uvedením, že správu o medzinárodnom predbežnom prieskume vypracoval orgán pre medzinárodný predbežný prieskum.
 
-      - Každý náhradný list podľa pravidla 66.8(a) alebo (b), každý náhradný list obsahujúci úpravy podľa článku 19 a každý náhradný list obsahujúci opravy zjavných omylov potvrdených podľa pravidla 91.1(e)(iii) musia sa, ak nie sú neskôr nahradené predloženými listami alebo úpravami spočívajúcimi v zrušení celých listov podľa pravidla 66.8(b), priložiť k správe. Úpravy podľa článku 19, ktoré sa považujú za zrušené úpravami podľa článku 34, a listy podľa pravidla 66.8 sa neprikladajú.
+      - 70.16 Prílohy ku správe
+
+        - (a) Každý náhradný list podľa pravidla 66.8(a) alebo (b), každý náhradný list obsahujúci úpravy podľa článku 19 a každý náhradný list obsahujúci opravy zrejmých omylov potvrdených podľa pravidla 91.1(e)(iii) musia sa, ak nie sú neskôr nahradené predloženými listami alebo úpravami spočívajúcimi v zrušení celých listov podľa pravidla 66.8(b), priložiť k správe. Náhradné listy obsahujúce úpravy podľa článku 19 sa považujú za zrušené úpravami podľa článku 34, a listy podľa pravidla 66.8 sa neprikladajú.
+
+        - (b) Napriek odseku (a) každý nahradený alebo zrušený náhradný list uvedený v tomto odseku sa prikladá k správe, ak orgán pre medzinárodný predbežný prieskum posúdi, že príslušná náhrada alebo zrušenie úpravy presahuje obsah medzinárodnej prihlášky, ako bola podaná, a správa obsahuje dotyčný údaj podľa pravidla 70.2(c). V takomto prípade nahradený alebo zrušený náhradný list sa označí podľa administratívnych smerníc.
 
       - 70.17. Jazyky vyhotovenia správy a príloh
 
@@ -2486,7 +2562,7 @@
 
         - (d) Každý orgán pre medzinárodný predbežný prieskum môže vykonávať svoje povinnosti podľa odsekov (a) a (b) prostredníctvom inej úradovne, ktorá voči nemu nesie zodpovednosť.
 
-    - PRAVIDLO 72 PREKLAD SPRÁVY O MEDZINÁRODNOM PREDBEŽNOM PRIESKUME
+    - Pravidlo 72 Preklad správy o medzinárodnom predbežnom prieskume a písomného posudku orgánu pre medzinárodnú rešerš
 
       - 72.1 Jazyky
 
@@ -2498,19 +2574,31 @@
 
         - Medzinárodný úrad odovzdá kópiu prekladu podľa pravidla 72.1 (a) správy o medzinárodnom predbežnom prieskume prihlasovateľovi zároveň s postúpením tohto prekladu príslušnému zvolenému úradu alebo úradom.
 
+      - 72.2bis Preklad písomného posudku orgánu pre medzinárodnú rešerš podľa pravidla 43bis.1
+
+        - V prípade uvedenom v pravidle 73.2(b)(ii) písomný posudok vypracovaný orgánom pre medzinárodnú rešerš podľa pravidla 43bis.1 musí na základe žiadosti príslušného zvoleného úradu Medzinárodný úrad preložiť do angličtiny alebo byť zaň zodpovedný. Medzinárodný úrad musí zaslať kópiu prekladu príslušnému zvolenému úradu v lehote dvoch mesiacov od dátumu prijatia žiadosti o preklad a zároveň zaslať kópiu prihlasovateľovi.
+
       - 72.3 Pripomienky k prekladu
 
-        - Prihlasovateľ môže podať písomné pripomienky k chybám, ktoré sú podľa jeho názoru v preklade správy o medzinárodnom predbežnom prieskume, pričom kópiu pripomienok zašle každému príslušnému zvolenému úradu a Medzinárodnému úradu.
+        - Prihlasovateľ sa môže písomne vyjadriť o správnosti prekladu správy o medzinárodnom predbežnom prieskume alebo o správnosti písomného posudku vypracovanému orgánom pre medzinárodnú rešerš podľa pravidla 43bis.1 a musí zaslať kópiu pripomienok každému príslušnému zvolenému úradu a Medzinárodnému úradu.
 
-    - PRAVIDLO 73 ODOVZDANIE SPRÁVY O MEDZINÁRODNOM PREDBEŽNOM PRIESKUME
+    - Pravidlo 73 Odovzdanie správy o medzinárodnom predbežnom prieskume alebo písomného posudku orgánu pre medzinárodnú rešerš
 
       - 73.1 Príprava kópií
 
         - Medzinárodný úrad vyhotoví kópie dokladov odovzdávaných podľa článku 36 (3) (a).
 
-      - 73.2. Lehota na odovzdanie
+      - 73.2 Odovzdanie zvoleným úradom
 
-      - Odovzdanie podľa článku 36 (3) (a) sa vykoná čo najskôr, ako je to možné, ale nie skôr než odovzdanie podľa článku 20.
+        - (a) Medzinárodný úrad odovzdá predloženú správu podľa článku 36(3)(a) každému zvolenému úradu v súlade s pravidlom 93bis.1, ale nie pred uplynutím 30 mesiacov od dátumu priority.
+
+        - (b) Ak prihlasovateľ vyslovene požiada zvolený úrad podľa pravidla 40(2), Medzinárodný úrad musí na základe žiadosti tohto úradu alebo prihlasovateľa
+
+          - (i) bezodkladne zaslať správu podľa článku 36(3)(a) tomuto úradu, ak správa o medzinárodnom predbežnom prieskume už bola zaslaná Medzinárodnému úradu podľa pravidla 71.1,
+
+          - (ii) (bezodkladne zaslať tomuto úradu kópiu písomného posudku vypracovaného podľa pravidla 43bis.1 orgánom pre medzinárodnú rešerš, ak správa o medzinárodnom predbežnom prieskume ešte nebola zaslaná Medzinárodnému úradu podľa pravidla 71.1.
+
+        - (c) Ak prihlasovateľ vzal návrh späť alebo akékoľvek zvolenie alebo celé zvolenie, aj napriek tomu sa musí vykonať odovzdanie podľa odseku (a) zvolenému úradu alebo úradom dotknutým účinkom späťvzatia, ak Medzinárodný úrad prijal správu o medzinárodnom predbežnom prieskume.
 
     - Pravidlo 74 Preklad príloh k správe o medzinárodnom predbežnom prieskume a jeho predloženie
 
@@ -2520,7 +2608,7 @@
 
         - (b) Ak predloženie prekladu medzinárodnej prihlášky podľa článku 39 (1) Zmluvy zvolený úrad nepožaduje, môže tento úrad požadovať od prihlasovateľa, aby predložil v lehote uvedenej v tomto článku preklad každého náhradného listu uvedeného v pravidle 70.16., ktorý je priložený k správe o medzinárodnom predbežnom prieskume a nie je v jazyku, v ktorom bola medzinárodná prihláška zverejnená.
 
-    - PRAVIDLO 76 Vyhotovenie, preklad a poplatok podľa článku 39 (1); preklad prioritného dokladu
+    - Pravidlo 76 Vyhotovenie, preklad a poplatok podľa článku 39 (1); preklad prioritného dokladu
 
       - 76.1 zrušené
 
@@ -2532,9 +2620,9 @@
 
         - Prihlasovateľ nie je povinný predložiť žiadnemu zvolenému úradu preklad prioritného dokladu pred uplynutím príslušnej lehoty podľa článku 39.
 
-      - 76.5. Použitie pravidiel 22.1 (g), 49 a 51 bis
+      - 76.5 Použitie pravidiel 22.1(g), 47.1, 49, 49bis a 51bis
 
-      - Pravidlá 22.1 (g), 49 a 51 bis sa použijú s podmienkou, že
+      - Pravidlá 22.1(g), 47.1, 49, 49bis a 51bis sa použijú za predpokladu, že
 
         - (i) určený úrad, prípadne určený štát sa považuje za zvolený úrad, prípadne za zvolený štát;
 
@@ -2542,11 +2630,9 @@
 
         - (iii) (bez zmeny, okrem toho, že bodka sa nahrádza bodkočiarkou);
 
-        - (iv) na účely článku 39 (1), ak bola spracovaná správa o medzinárodnom predbežnom prieskume, bude sa preklad každej úpravy podľa článku 19 požadovať iba vtedy, ak je táto úprava priložená k správe.
+        - (iv) ak bola vypracovaná správa o medzinárodnom predbežnom prieskume na účely článku 39(1), preklad úprav podľa článku 19 sa bude vyžadovať iba vtedy, ak sú úpravy priložené k správe,
 
-      - 76.6. Prechodné ustanovenie
-
-        - Ak k dátumu 12. júla 1991 nie je ustanovenie pravidla 76.5 (iv) zlučiteľné s národným zákonodarstvom zvoleného úradu, pokiaľ ide o upravené nároky podľa ustanovení článku 19, nebude sa pravidlo 76.5 (iv) aplikovať v tomto ohľade na tento zvolený úrad, pokiaľ bude nezlučiteľnosť s týmto zákonodarstvom pokračovať, a ak spomenutý úrad o tom informuje Medzinárodný úrad do 31. decembra 1991. Došlé oznámenie Medzinárodný úrad ihneď zverejní vo Vestníku.
+        - (v) použitie pravidiel 47.1(a) až 47.4 sa zúži vo vzťahu k pravidlu 61.2(d).
 
     - PRAVIDLO 77 OPRÁVNENIE PODĽA ČLÁNKU 39 (1) (b)
 
@@ -2560,17 +2646,13 @@
 
         - (d) Oznámenie o predĺžení skôr určenej lehoty platí od dátumu, keď ho Medzinárodný úrad uverejní vo Vestníku, pre návrhy, ktoré sú v tom čase v konaní, a pre návrhy podané neskôr, ibaže zmluvný štát určí neskorší dátum platnosti oznámenia.
 
-    - PRAVIDLO 78 ÚPRAVA NÁROKOV, OPISU A VÝKRESOV NA ZVOLENÝCH ÚRADOCH
+    - Pravidlo 78 Úprava nárokov, opisu a výkresov vo zvolených úradoch
 
-      - 78.1. Lehota v prípade, ak došlo k voľbe pred uplynutím 19 mesiacov od dátumu priority
+      - 78.1 Lehota
 
-        - (a) Ak k voľbe zmluvného štátu došlo pred uplynutím 19 mesiacov od dátumu priority, vykoná prihlasovateľ, pokiaľ si to praje, svoje právo podľa článku 41 na úpravu nárokov, opisu a výkresov pri dotyčnom zvolenom úrade do jedného mesiaca od splnenia požiadaviek podľa článku 39 (1) (a), s podmienkou, že ak nedošlo k odovzdaniu správy o medzinárodnom predbežnom prieskume podľa článku 36 (1) pred uplynutím lehoty podľa článku 39, musí vykonať svoje právo najneskôr do štyroch mesiacov po tejto lehote. V každom prípade môže prihlasovateľ vykonať svoje právo kedykoľvek, ak to dovoľuje národné zákonodarstvo príslušného štátu.
+        - (a) Ak si prihlasovateľ želá uplatniť právo podľa článku 41 na úpravu nárokov, opisu a výkresov pred príslušným zvoleným úradom v lehote jedného mesiaca od splnenia požiadaviek podľa článku 39(1)(a) za predpokladu, že ak predloženie správy o medzinárodnom predbežnom prieskume podľa článku 36(1) sa neuskutočnilo pred uplynutím lehoty platnej podľa článku 39, musí uplatniť uvedené právo najneskôr do štyroch mesiacov od uplynutia tohto dátumu. V každom prípade prihlasovateľ môže uplatniť právo kedykoľvek neskôr, ak to dovoľuje vnútroštátne právo uvedeného štátu.
 
-        - (b) V každom zvolenom štáte, v ktorom národné zákonodarstvo ustanovuje, že prieskum sa začína iba na osobitnú žiadosť, môže národné zákonodarstvo ustanoviť, že lehota alebo doba, v ktorom môže prihlasovateľ vykonať právo podľa článku 41, bude, ak je voľba zmluvného štátu uskutočnená pred uplynutím 19 mesiacov od dátumu priority, rovnaká ako dovoľuje národné zákonodarstvo na predloženie úprav v prípade prieskumu národných prihlášok na osobitnú žiadosť, s podmienkou, že táto lehota neuplynie pred, alebo že táto doba nenastane pred uplynutím lehoty podľa odseku (a).
-
-      - 78.2 Lehota, ak došlo k voľbe po uplynutí 19 mesiacov od dátumu priority
-
-        - Ak došlo k voľbe zmluvného štátu po uplynutí 19 mesiacov od dátumu priority a prihlasovateľ chce vykonať úpravy podľa článku 41, platí lehota na vykonanie úprav podľa článku 28.
+        - (b) V zvolenom štáte, v ktorom národné zákonodarstvo ustanovuje, že prieskum sa začína iba na osobitnú žiadosť, môže národné zákonodarstvo ustanoviť, že lehota, v ktorej môže prihlasovateľ vykonať právo podľa článku 41, bude rovnaká, ako dovoľuje národné zákonodarstvo na predloženie úprav v prípade prieskumu národných prihlášok na osobitnú žiadosť s podmienkou, že táto lehota neuplynie pred uplynutím lehoty podľa odseku (a).
 
       - 78.3 Úžitkové vzory
 
@@ -2584,7 +2666,7 @@
 
         - Prihlasovatelia, národné úrady, prijímacie úrady, orgány pre medzinárodnú rešerš a pre medzinárodný predbežný prieskum a Medzinárodný úrad používajú na účely Zmluvy a Vykonávacieho predpisu dátumy podľa kresťanského letopočtu a gregoriánskeho kalendára; ak používajú aj iné letopočty alebo kalendáre, uvedú aj údaj kresťanského letopočtu a gregoriánskeho kalendára.
 
-    - PRAVIDLO 80 POČÍTANIE LEHÔT
+    - Pravidlo 80 Počítanie lehôt
 
       - 80.1 Ročné časové obdobia
 
@@ -2604,9 +2686,19 @@
 
         - (b) Dátum, ktorým obdobie uplynie, je dátum, ktorý platí v mieste, kde sa musí podať požadovaný doklad alebo zaplatiť požadovaný poplatok.
 
-      - 80.5 Uplynutie lehoty v deň pracovného pokoja
+      - 80.5 Uplynutie lehoty v deň pracovného pokoja alebo v deň štátneho sviatku
 
-      - Ak okamih uplynutia nejakého obdobia, v ktorom má nejaký doklad alebo poplatok dôjsť národnému úradu alebo medzivládnej organizácii, pripadá na deň, keď taký úrad alebo organizácia nie je prípustná verejnosti na vybavovanie úradných záležitostí, alebo na deň, keď sa v mieste sídla takého úradu alebo organizácie nedoručuje obyčajná pošta, uplynie také obdobie najbližším nasledujúcim dňom, keď obe uvedené okolnosti odpadli.
+      - Ak okamih uplynutia nejakého obdobia, v ktorom má nejaký doklad alebo poplatok dôjsť národnému úradu alebo medzivládnej organizácii, pripadá na deň
+
+        - (i) keď úrad alebo organizácia nie je prístupná verejnosti na vybavovanie úradných záležitostí,
+
+        - (ii) keď sa v mieste sídla takéhoto úradu alebo organizácie nedoručuje obyčajná pošta,
+
+        - (iii) ktorý, v prípade situovania takého úradu alebo organizácie vo viacerých lokalitách, je štátnym sviatkom aspoň v jednej z lokalít, v ktorej je takýto úrad alebo organizácia situovaná, a úrad koná o národných prihláškach za podmienok daných príslušným národným zákonom, v takom prípade lehota uplynie nasledujúcim dňom, alebo
+
+        - (iv) ktorý, keď je takýto úrad vládnym orgánom zmluvného štátu poverený udeľovaním patentov, je štátnym sviatkom v časti takéhoto zmluvného štátu, a úrad koná o národných prihláškach za podmienok príslušného národného zákona, v takom prípade lehota uplynie nasledujúcim dňom;
+
+      - lehota uplynie ďalším nasledujúcim dňom, keď prestanú existovať štyri uvedené okolnosti.
 
       - 80.6 Dátum dokladov
 
@@ -2864,7 +2956,7 @@
 
       - 89bis.3 Odovzdávanie medzi úradmi
 
-        - Ak sa v Zmluve, vo vykonávacom predpise alebo v Administratívnej smernici uvádza, že doklady, oznámenia, komunikácie alebo korešpondencia sú odovzdané jedným národným úradom alebo medzivládnym orgánom inému úradu alebo orgánu, môže sa toto odovzdanie uskutočniť elektronickou formou alebo elektronickými prostriedkami v prípade, že súhlasia obaja, odosielateľ aj príjemca.
+        - Ak je v Zmluve, vo vykonávacom predpise alebo Administratívnej smernici uvedené, že podanie, oznámenie alebo odovzdávanie („podania“) medzinárodnej prihlášky, oznámenia, podania, korešpondencie alebo iného dokumentu jedným národným úradom alebo medzivládnou organizáciou inému úradu alebo orgánu, ak súhlasia obaja, odosielateľ aj príjemca, toto odovzdanie sa môže uskutočniť elektronickou formou alebo elektronickými prostriedkami.
 
     - Pravidlo 89ter Kópia dokladov podaných v papierovej forme v elektronickej forme
 
@@ -2890,11 +2982,11 @@
 
           - (ii) osobitne pred orgánom pre medzinárodnú rešerš alebo pred orgánom pre medzinárodný predbežný prieskum, s podmienkou, že osoba takto ustanovená ako ďalší zástupca má právo vystupovať pred národným úradom alebo medzivládnou organizáciou, ktorá pôsobí ako orgán pre medzinárodnú rešerš alebo orgán pre medzinárodný predbežný prieskum.
 
-      - 90.2. Spoločný splnomocnenec
+      - 90.2 Spoločný splnomocnenec
 
-        - (a) Ak sú dvaja alebo viacerí prihlasovatelia a prihlasovatelia neustanovili zástupcu, ktorý by ich všetkých zastupoval („spoločný zástupca“) podľa pravidla 90.1 (a), smie byť jeden z prihlasovateľov, ktorý je oprávnený podať medzinárodnú prihlášku podľa článku 9, ustanovený ostatnými prihlasovateľmi ako ich spoločný splnomocnenec.
+        - (a) Ak sú dvaja alebo viacerí prihlasovatelia a prihlasovatelia neustanovili zástupcu, ktorý by ich všetkých zastupoval („spoločný zástupca“) podľa pravidla 90.1(a), smie byť jeden z prihlasovateľov, ktorý je oprávnený podať medzinárodnú prihlášku podľa článku 9, ustanovený ostatnými prihlasovateľmi ako ich spoločný splnomocnenec.
 
-        - (b) Ak sú dvaja alebo viacerí prihlasovatelia a všetci prihlasovatelia neustanovili spoločného zástupcu podľa pravidla 90.1 (a) alebo spoločného splnomocnenca podľa odseku (a), bude sa prvý prihlasovateľ uvedený v žiadosti, ktorý je oprávnený podľa pravidla 19.1 podať medzinárodnú prihlášku na prijímacom úrade považovať za spoločného splnomocnenca všetkých prihlasovateľov.
+        - (b) Ak sú dvaja alebo viacerí prihlasovatelia a všetci prihlasovatelia neustanovili spoločného zástupcu podľa pravidla 90.1(a) alebo spoločného splnomocnenca podľa odseku (a), bude sa prvý prihlasovateľ, ktorý je uvedený v žiadosti, ktorý je oprávnený podľa pravidla 19.1 podať medzinárodnú prihlášku na prijímacom úrade, považovať za spoločného splnomocnenca všetkých prihlasovateľov.
 
       - 90.3. Účinky úkonov zástupcov a spoločných splnomocnencov alebo voči zástupcom a spoločným splnomocnencom
 
@@ -2904,13 +2996,17 @@
 
         - (c) S výhradou pravidla 90 bis 5 (a), druhá veta, má každý úkon spoločného splnomocnenca alebo jeho zástupcu, alebo úkon voči nim, účinok úkonu všetkých prihlasovateľov alebo účinok úkonu voči nim.
 
-      - 90.4. Spôsob ustanovenia zástupcu alebo spoločného splnomocnenca
+      - 90.4 Spôsob ustanovenia zástupcu alebo spoločného splnomocnenca
 
         - (a) Ustanovenia zástupcu vykoná prihlasovateľ podpísaním žiadosti, návrhu alebo plnomocenstva. Ak sú dvaja alebo viacerí prihlasovatelia, vykoná sa ustanovenie spoločného zástupcu alebo spoločného splnomocnenca podpisom žiadosti, návrhu alebo plnomocenstva každého prihlasovateľa, podľa jeho voľby
 
         - (b) S výhradou pravidla 90.5, plnomocenstvo sa predloží buď prijímaciemu úradu, alebo Medzinárodnému úradu, s podmienkou, že ak je plnomocenstvom ustanovený zástupca podľa pravidla 90.1 (b), (c) alebo (d) (ii), predloží sa plnomocenstvo orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum.
 
         - (c) Ak plnomocenstvo nie je podpísané, alebo keď sa požadované plnomocenstvo stratilo, alebo keď údaj týkajúci sa mena alebo adresy ustanovenej osoby nevyhovuje pravidlu 4.4, predpokladá sa, že plnomocenstvo neexistuje, pokiaľ sa nedostatok neodstráni.
+
+        - (d) S výhradou odseku (e) prijímací úrad, orgán pre medzinárodnú rešerš, orgán pre medzinárodný predbežný prieskum a Medzinárodný úrad sa môžu zrieknuť požiadavky podľa pravidla (b), aby sa im predložilo individuálne splnomocnenie, v tomto prípade sa nebude uplatňovať odsek (c).
+
+        - (e) Ak zástupca alebo splnomocnenec predložil oznámenie o späťvzatí, ktoré sa týka pravidiel 90bis.1 až 90bis.4, požiadavka podľa odseku (b) na individuálne splnomocnenie sa podľa odseku (d) nesmie vziať späť.
 
       - 90.5. Všeobecné plnomocenstvo
 
@@ -2921,6 +3017,10 @@
           - (ii) jeho kópia je pripojená k žiadosti, návrhu alebo k oddelenému oznámeniu; táto kópia nemusí byť podpísaná.
 
         - (b) Všeobecné plnomocenstvo sa uloží na prijímacom úrade, s podmienkou, že ak sa ustanovuje zástupca podľa pravidla 90.1 (b), (c) alebo (d) (ii), uloží sa na orgáne pre medzinárodnú rešerš alebo na orgáne pre medzinárodný predbežný prieskum.
+
+        - (c) Ktorýkoľvek prijímací úrad, medzinárodný rešeršný orgán a orgán pre medzinárodný predbežný prieskum sa smie zrieknuť požiadavky podľa odseku (a)(ii) na priloženie kópie plnej moci k žiadosti, návrhu alebo na zvláštnom ozname, podľa toho, o ktorý prípad ide.
+
+        - (d) Napriek odseku (c), ak zástupca zašle akékoľvek oznámenie o späťvzatí podľa pravidla 90bis.1 až 90bis.4 prijímaciemu úradu, medzinárodnému rešeršnému orgánu alebo orgánu pre medzinárodný predbežný prieskum, musí zaslať kópiu všeobecného plnomocenstva tomuto úradu alebo orgánu.
 
       - 90.6. Odvolanie a zrieknutie sa
 
@@ -2976,17 +3076,17 @@
 
         - (c) Ak oznámenie o späťvzatí prihlasovateľ predloží orgánu pre medzinárodný predbežný prieskum, vyznačí tento orgán dátum prijatia na oznámení a postúpi ho ihneď Medzinárodnému úradu. Predpokladá sa, že oznámenie sa predložilo Medzinárodnému úradu v termíne podľa vyznačeného dátumu.
 
-      - 90 bis.5. Podpis
+      - 90bis.5 Podpis
 
-        - (a) Každé oznámenie o späťvzatí podľa pravidiel 90 bis.1 až 90 bis.4 musí s výhradou odseku (b) podpísať prihlasovateľ. Ak je jeden z prihlasovateľov považovaný za spoločného splnomocnenca podľa pravidla 90.2 (b), bude sa na tomto oznámení, s výhradou odseku (b), požadovať podpis všetkých prihlasovateľov.
+        - (a) Každé oznámenie o späťvzatí podľa pravidiel 90bis.1 až 90bis.4 musí s výhradou odseku (b) podpísať prihlasovateľ. Ak sú dvaja alebo viac prihlasovateľov, vyžaduje sa podpis všetkých. Prihlasovateľ, ktorý sa považuje za spoločného splnomocnenca podľa pravidla 90.2(b), nie je oprávnený s výhradou pravidla (b) podpísať takéto oznámenie v mene ostatných prihlasovateľov.
 
-        - (b) Ak dvaja alebo viacerí prihlasovatelia podajú medzinárodnú prihlášku, ktorou sa určuje štát, ktorého národné zákonodarstvo požaduje, aby národné prihlášky podávali vynálezcovia, a ak prihlasovateľa pre tento určený štát, ktorý je vynálezcom, nemožno nájsť alebo dosiahnuť po vynaložení značného úsilia, nemusí oznámenie o späťvzatí podľa pravidiel 90 bis.1 až 90 bis.4 podpísať tento prihlasovateľ („dotyčný prihlasovateľ“), ak ho podpísal aspoň jeden prihlasovateľ a
+        - (b) Ak dvaja alebo viacerí prihlasovatelia podajú medzinárodnú prihlášku, ktorou sa určuje štát, ktorého národné zákonodarstvo požaduje, aby národné prihlášky podávali vynálezcovia, a ak prihlasovateľa pre tento určený štát, ktorý je vynálezcom, nemožno nájsť alebo zastihnúť po vynaložení značného úsilia, nemusí oznámenie o späťvzatí podľa pravidiel 90bis.1 až 90bis.4 podpísať tento prihlasovateľ („dotyčný prihlasovateľ“), ak ho podpísal aspoň jeden prihlasovateľ, a
 
           - (i) poskytlo sa prijímaciemu úradu, Medzinárodnému úradu alebo orgánu pre medzinárodný predbežný prieskum uspokojivé vysvetlenie týkajúce sa chýbajúceho podpisu dotyčného prihlasovateľa, alebo
 
           - (ii) v prípade oznámenia o späťvzatí podľa pravidla 90 bis.1 (b), 90 bis.2 (d) alebo 90 bis.3 (c) dotyčný prihlasovateľ nepodpísal žiadosť, ale požiadavkam podľa pravidla 4.15 (b) sa vyhovelo, alebo
 
-          - (iii) v prípade oznámenia o späťvzatí podľa pravidla 90 bis.4 (b) dotyčný prihlasovateľ nepodpísal návrh, ale požiadavkám podľa pravidla 53.8 (b) sa vyhovelo, alebo nepodpísal dotyčnú neskoršiu voľbu, ale požiadavkám podľa pravidla 56.1 (c) sa vyhovelo.
+          - (iii) v prípade oznámenia o späťvzatí podľa pravidla 90bis.4(b) dotyčný prihlasovateľ nepodpísal návrh, ale požiadavkám podľa pravidla 53.8(b) sa vyhovelo.
 
       - 90 bis.6. Účinok späťvzatia
 
@@ -3096,9 +3196,9 @@
 
         - (h) Žiadny národný úrad alebo medzivládna organizácia nemusí prijať doklad predložený prostriedkami podľa odseku (a), pokiaľ neoznámil Medzinárodnému úradu, že je pripravený také dokumenty prijímať týmito prostriedkami, a Medzinárodný úrad túto informáciu nezverejnil vo Vestníku.
 
-    - PRAVIDLO 92 bis ZÁZNAM ZMIEN URČITÝCH ÚDAJOV V ŽIADOSTI ALEBO V NÁVRHU
+    - Pravidlo 92bis Záznam zmien určitých údajov v žiadosti alebo návrhu
 
-      - 92 bis 1 Záznam zmien Medzinárodným úradom
+      - 92bis.1 Záznam zmien Medzinárodným úradom
 
         - (a) Na žiadosť prihlasovateľa alebo prijímacieho úradu zaznamená Medzinárodný úrad zmeny týchto údajov v žiadosti alebo v návrhu:
 
@@ -3106,11 +3206,7 @@
 
           - (ii) osoba, meno alebo adresa zástupcu, spoločného splnomocnenca alebo vynálezcu.
 
-        - (b) Medzinárodný úrad nezaznamená požadovanú zmenu, ak mu žiadosť o záznam došla po uplynutí
-
-          - (i) lehoty podľa článku 22 (1), ak pre žiaden zmluvný štát nemožno uplatniť článok 39 (1);
-
-          - (ii) lehoty podľa článku 39 (1), ak možno článok 39 (1) uplatniť aspoň pre jeden zmluvný štát.
+        - (b) Medzinárodný úrad nezaznamená požadovanú zmenu, ak žiadosť o záznam prijal po uplynutí 30 mesiacov od dátumu priority.
 
     - PRAVIDLO 93 UCHOVÁVANIE ZÁZNAMOV A SPISOV
 
@@ -3132,13 +3228,23 @@
 
         - Na účely tohto pravidla sa záznamy, kópie a spisy môžu uchovávať ako fotografické, elektronické a iné reprodukcie za predpokladu, že reprodukcie sú také, aby sa splnila povinnosť uchovávať záznamy, kópie a spisy podľa pravidla 93.1 až 93.3.
 
-    - Pravidlo 94<sup>2</sup>) Prístup k spisom
+    - Pravidlo 93bis Spôsob podania dokumentov
 
-      - 94.1 Prístup k spisu uchovávaného Medzinárodným úradom
+      - 93bis.1 Postúpenie na požiadanie; postúpenie prostredníctvom digitálnej knižnice
+
+        - (a) Ak Zmluva, tieto pravidlá alebo Administratívne smernice umožňuje Medzinárodnému úradu komunikovanie, oznámenie alebo odovzdanie („podanie“) medzinárodnej prihlášky, oznámenia, podania a korešpondenciu alebo iný dokument („dokument“) postúpiť určenému alebo zvolenému úradu, takáto komunikácia sa uskutoční iba na základe žiadosti príslušného úradu a v lehote stanovenej týmto úradom. Táto žiadosť sa môže podať s ohľadom na individuálnu špecifikáciu dokumentov alebo špecifikáciu tried, alebo tried dokumentov.
+
+        - (b) Podanie podľa odseku (a), ak s tým súhlasil Medzinárodný úrad a určený alebo príslušný zvolený úrad, považuje sa za vykonané v lehote, keď Medzinárodný úrad sprístupní dokument tomuto úradu v elektronickej forme z digitálnej knižnice v súlade s Administratívnymi smernicami, z ktorej má úrad oprávnenie získať tento dokument.
+
+    - Pravidlo 94 Prístup ku spisom
+
+      - 94.1 Prístup ku spisu uchovávaného Medzinárodným úradom
 
         - (a) Na žiadosť prihlasovateľa alebo inej ním oprávnenej osoby dodá Medzinárodný úrad po zaplatení nákladov kópiu akýchkoľvek dokladov, ktoré obsahujú jeho spisy.
 
-        - (b) Medzinárodný úrad dodá na žiadosť prihlasovateľa alebo inej osoby, ale nikdy pred medzinárodným zverejnením medzinárodnej prihlášky s výnimkou článku 38 po zaplatení nákladov, kópie akýchkoľvek dokladov, ktoré sú obsiahnuté v jeho spisoch.
+        - (b) Medzinárodný úrad dodá na žiadosť ktorejkoľvek osoby, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky a s výhradou článku 38 a pravidla 44ter.1 po zaplatení nákladov, kópie akýchkoľvek dokladov, ktoré sú obsiahnuté v jeho spise.
+
+        - (c) Medzinárodný úrad zašle, ak ho požiada zvolený úrad, kópie správ o medzinárodnom predbežnom prieskume podľa odseku (b) v mene tohto úradu. Medzinárodný úrad bez odkladu zverejní detaily každej žiadosti vo vestníku.
 
       - 94.2 Prístup k spisu uchovávaného orgánom pre medzinárodný predbežný prieskum
 

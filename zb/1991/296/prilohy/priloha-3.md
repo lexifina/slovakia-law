@@ -1,29 +1,21 @@
-- SADZOBNÍK POPLATKOV
+- Sadzobník poplatkov Poplatok | Suma
 
-  - (platný od 17. októbra 2002)
+- 1. Poplatok za medzinárodné podanie: (pravidlo 15.2) | 1 400 švajčiarskych frankov plus 15 švajčiarskych frankov za každý list
 
-- | Poplatok | Suma
-
-- 1. | Základný poplatok: [pravidlo 15. 2 (a)] |
-
-- | (a) ak medzinárodná prihláška neobsahuje viac ako 30 listov | 650 švajčiarskych frankov
-
-- | (b) ak medzinárodná prihláška obsahuje viac ako 30 listov | 650 švajčiarskych frankov plus 15 švajčiarskych frankov za každý list nad 30 listov
-
-- 2. | Poplatok za určenie: [pravidlo 15. 2 (a)] |
-
-- | (a) za určenia vykonané podlá pravidla 4.9(a) | 140 švajčiarskych frankov za jedno určenie podlá pravidla 4.9(a), nad 5 určení sa nevyžaduje poplatok za určenie
-
-- | (b) za určenia vykonané podľa pravidla 4.9(b) a potvrdené podlá pravidla 4.9(c) | 140 švajčiarskych frankov za určenie
-
-- 3. | Manipulačný poplatok [pravidlo 57.2(a)] | 233 švajčiarskych frankov
+- 2. Manipulačný poplatok (pravidlo 57.2) | 200 švajčiarskych frankov
 
   - Zľavy
 
-  - 4. Celková suma poplatkov splatných podľa bodov 1 a 2(a) je znížená o 200 švajčiarskych frankov, ak je medzinárodná prihláška v súlade s Administratívnymi smernicami a podaná.
+  - 3. Poplatok za medzinárodné podanie je znížený o nasledujúcu sumu, ak je medzinárodná prihláška v súlade s Administratívnymi smernicami podaná
 
-    - (a) na papieri a s kópiu v elektronickej forme alebo
+  - (a) na papieri spolu s jej kópiou v elektronickej forme: | 100 švajčiarskych frankov
 
-    - (b) v elektronickej forme.
+  - (b) v elektronickej forme, ak text opisu, nárokov a anotácia nie sú kódované v znakovom formáte: | 200 švajčiarskych frankov
 
-  - 5. Všetky poplatky (ak je aplikovateľná zľava podľa bodu 4) sú znížené o 75 % pre medzinárodné prihlášky podané prihlasovateľom, ktorý je fyzickou osobou a ktorý je občanom štátu alebo má sídlo v štáte, ktorého národný dôchodok na osobu je nižší ako 3 000 USD (podľa výpočtu priemerného národného dôchodku na osobu použitého Organizáciou Spojených národov na určenie ich kritérií ohodnotenia výšky príspevkov splatných v rokoch 1995, 1996, 1997); ak je niekoľko prihlasovateľov, musí toto kritérium spĺňať každý z nich.
+  - (c) v elektronickej forme, ak text opisu, nárokov a anotácia sú kódované v znakovom formáte: | 300 švajčiarskych frankov
+
+  - 4. Medzinárodný poplatok za podanie (ak je príslušná zľava podľa bodu 3) a manipulačný poplatok sú znížené o 75 %, ak je medzinárodná prihláška podaná
+
+    - (a) prihlasovateľom, ktorý je fyzickou osobou a ktorý je občanom alebo má sídlo v štáte, ktorého národný dôchodok na jedného obyvateľa je nižší ako 3 000 USD (podľa výpočtu priemerného národného dôchodku na jedného obyvateľa použitého Organizáciou Spojených národov na určenie ich kritérií ohodnotenia výšky príspevkov splatných v rokoch 1995, 1996, 1997); ak je niekoľko prihlasovateľov, musí toto kritérium spĺňať každý z nich alebo
+
+    - (b) prihlasovateľom, či je fyzickou osobou, alebo nie, ktorý je občanom alebo má sídlo v štáte, ktorý je klasifikovaný Organizáciou Spojených národov prinajmenšom ako rozvojová krajina; za predpokladu, že ak je niekoľko prihlasovateľov, každý musí spĺňať kritériá vysvetlené pod položkami (a) alebo (b).
