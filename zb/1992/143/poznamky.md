@@ -18,6 +18,8 @@
 
 - 7) § 9 ods. 3 Zákonníka práce.
 
+- 7a) § 2 ods. 3 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Slovenskej národnej rady č. 453/1992 Zb.
+
 - 8) § 99 Zákonníka práce.
 
 - 9) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov, zákon č. 44/1974 Zb. colný zákon v znení neskorších predpisov, zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane, zákon Českej národnej rady č. 133/1985 Zb. o požiarnej ochrane.
