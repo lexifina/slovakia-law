@@ -1,0 +1,1 @@
+- 1) Štátny hlavný dozor (§ 2 ods. 3 úpravy o štátnom dozore na dráhach - reg. v čiastke 2 Zbierky zákonov v ročníku 1966.
