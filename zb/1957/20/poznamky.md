@@ -1,0 +1,1 @@
+- *) Zmeny vykonané zákonom č. 18/1957 Zb. nadobúdajú účinnosť 23. marcom 1957.
