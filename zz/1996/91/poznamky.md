@@ -8,6 +8,10 @@
 
 - 4) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
+- 4a) § 18 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+
+- 4b) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+
 - 5) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 6) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
