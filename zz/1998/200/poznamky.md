@@ -64,11 +64,11 @@
 
 - 32) § 5 zákona č. 88/1968 Zb.
 
-- 33) Zákon č. 88/1968 Zb. v znení neskorších predpisov.
+- 33) § 10 zákona č. 328/2002 Z. z.
 
 - 34) Zákon č. 382/1990 Zb. v znení neskorších predpisov.
 
-- 35) Zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. v znení neskorších predpisov.
+- 35) § 9 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
 - 36) Vyhláška ministerstiev zdravotníctva a spravodlivosti, Štátneho úradu sociálneho zabezpečenia a Ústrednej rady odborov č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení neskorších predpisov.
 
@@ -95,6 +95,8 @@
 - 47) § 5 ods. 7 a § 11 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 48) § 17 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
+
+- 48a) § 85 zákona č. 328/2002 Z. z.
 
 - 49) Zákon č. 195/1991 Zb. o odstupnom poskytovanom pri skončení pracovného pomeru v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
 
