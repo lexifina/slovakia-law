@@ -150,6 +150,6 @@ Príloha č. 1 vyhlášky č. 37/1963 Zb.
 
   - hloh
 
-  - Za kvitnúce porasty sa považujú aj porasty bôbu a repky navštevované včelami pri výskyte medovice.
+  - Za kvitnúce porasty sa považujú aj porasty bôbu a repy navštevované včelami pri výskyte medovice.
 
   - Za kvitnúce stromy a kry sa považujú aj stromy a kry navštevované včelami pri výskyte medovice.
