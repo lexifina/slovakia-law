@@ -1,4 +1,4 @@
-# Čl. II Prechodné a záverečné ustanovenia
+# § 11a Prechodné a záverečné ustanovenia
 
 (1) Podľa tejto vyhlášky sa postupuje pri určení odmeny správcu ustanoveného pred nadobudnutím jej účinnosti, ak nebola v konkurznom konaní vyvesená na úradnej tabuli súdu konečná správa a ak správca vrátil do konkurznej podstaty odmenu vyplatenú podľa doterajšieho ustanovenia § 8.
 
