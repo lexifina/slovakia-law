@@ -116,6 +116,8 @@ Kvalifikačné predpoklady: neustanovujú sa.
 
 08 Stráženie objektu so služobným psom vrátane starostlivosti o psa.
 
+09 Dozor a ochrana zbierkových, múzejných alebo výstavných fondov, verejného priestoru alebo kultúrneho zariadenia.
+
 02.1.02. Pracovné činnosti nevyžadujúce vzdelanie z okruhu polygrafie:
 
 01 Rozmnožovanie a kopírovanie technických a iných dokumentov na rotačných xerografických a diazografických strojoch s pripojeným znášacím zariadením.
@@ -220,6 +222,8 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 01 Dozor a ochrana zbierkových, múzejných a výstavných fondov, verejného priestoru alebo kultúrneho zariadenia s prípadným využívaním priemyselnej televízie, videotechniky vrátane spolupráce s políciou.
 
+02 Ponuka a samostatný predaj tovaru, preberanie, uskladňovanie, vystavovanie a aranžovanie tovaru v predajni, vyberanie poplatkov alebo vystavovanie potrebného dokladu pre pokladnicu.
+
 03.2.02. Pracovné činnosti vyžadujúce stredné vzdelanie z okruhu polygrafie:
 
 01 Príprava tlačovej formy, nastavenie stroja, jednofarebná jednostranná tlač na maloformátovom stroji.
@@ -241,8 +245,6 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 03 Výroba a výdaj bežných druhov múčnikov a cukrárskych výrobkov (napr. koláče, bábovky, vianočky), výroba teplých múčnikov (napr. šišky, ovocné nákypy), hromadná výroba cukrárskych výrobkov a múčnikov v závodnom, školskom alebo obdobnom stravovacom zariadení.
 
 04 Samostatné preberanie objednávok, stolovanie a obsluha zákazníkov.
-
-05 Ponuka a samostatný predaj tovaru, preberanie, uskladňovanie, vystavovanie a aranžovanie tovaru v predajni, vyberanie poplatkov alebo vystavenie potrebného dokladu pre pokladnicu.
 
 03.2.04. Pracovné činnosti vyžadujúce stredné vzdelanie z okruhu ubytovania, upratovania a čistenia:
 
@@ -334,6 +336,8 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 04 Plnenie základných povinností poriadkovej služby vo vymedzenom rozsahu.
 
+05 Zaobstarávanie a nákup tovaru vrátane jeho uskladňovania, samostatného predaja, vystavovania a aranžovania v predajni, príprava podkladov na fakturáciu, inkaso alebo vystavovanie potrebného dokladu pre pokladnicu.
+
 04.2.02. Pracovné činnosti vyžadujúce stredné vzdelanie z okruhu polygrafie:
 
 01 Zhotovovanie farebných snímok, mikrofilmov, mikrofišov a ich kópií.
@@ -365,8 +369,6 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 06 Výroba pekárskych výrobkov vrátane expedície podľa objednávok.
 
 07 Obsluha skupiny veľkokapacitných a programovo riadených kuchynských strojov na výrobu alebo mrazenie pokrmov v centrálnej kuchyni alebo vo vývarovni vrátane určenia technologického postupu a kontroly hotových výrobkov.
-
-08 Zaobstarávanie a nákup tovaru vrátane jeho uskladňovania, samostatného predaja, vystavovania a aranžovania v predajni, príprava podkladov na fakturáciu, inkaso alebo vystavovanie potrebného dokladu pre pokladnicu.
 
 09 Samostatné preberanie objednávok, vystavovanie a aranžovanie jedál, stolovanie a obsluha zákazníkov vrátane inkasa tržieb.
 
@@ -424,6 +426,8 @@ Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
 
 04 Základný výcvik a ošetrovanie psov v chovateľskej stanici zaoberajúcej sa veľkochovom psov až po ich odovzdanie do priameho výkonu.
 
+05 Zabezpečovanie prevádzky zvereného úseku prevádzkovej jednotky (napr. predajňa, stravovacia jednotka), vybavovanie reklamácií a objednávok.
+
 05.3.02. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie z okruhu polygrafie:
 
 01 Príprava tlačovej formy, nastavovanie stroja, dvojfarebná obojstranná tlač na maloformátovom stroji.
@@ -454,9 +458,7 @@ Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
 
 04 Organizovanie práce obsluhujúcich zamestnancov pri zahraničných návštevách (napr. hlava štátu, predseda a podpredseda parlamentu, predseda a podpredseda vlády, minister, generálny tajomník OSN, generálny tajomník NATO) vo vybranom zariadení, uvádzanie hostí na miesta pri stole, preberanie a realizácia najzložitejších objednávok s poradenskou službou.
 
-05 Výroba najzložitejších diétnych jedál podľa diétneho programu záväzného v zdravotníckom zariadení, v školskom zariadení alebo v zariadení sociálnych služieb.
-
-06 Zabezpečovanie prevádzky zvereného úseku prevádzkovej jednotky, vybavovanie reklamácií a objednávok.
+05 Výroba najzložitejších diétnych jedál podľa diétneho programu záväzného v zdravotníckom zariadení, v školskom zariadení alebo v zariadení sociálnych služieb, alebo v stravovacom zariadení strediska vrcholového športu.
 
 05.3.05. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie z okruhu manipulácie:
 
@@ -506,6 +508,8 @@ Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
 
 18 Vysokošpecializovaná zámočnícka práca vyžadujúca osobitné oprávnenie (napr. zváranie tlakových nádob, oceľových konštrukcií).
 
+19 Strojové čistenie skladovacích nádrží pohonných hmôt a mazadiel vrátane vykonávania ich údržby a kontroly s použitím dýchacej techniky.
+
 06. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: úplné stredné vzdelanie.
@@ -517,6 +521,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie.
 02 Zabezpečovanie ozbrojenej ochrannej služby v organizačnej jednotke s veľkým množstvom výbušnín, zbraní, horľavín alebo jedov.
 
 03 Zabezpečovanie ochrany, prepravy a doručovania písomností a iných materiálov označených rôznym stupňom utajenia a kuriérskych zásielok na diplomatické misie do zahraničia vrátane príjmu, evidencie a dopravy diplomatických zásielok.
+
+04 Zabezpečovanie prevádzky v prevádzkových jednotkách (napr. predajňa, stravovacia jednotka) a vybavovanie reklamácií a objednávok vrátane kontrolnej činnosti.
 
 06.4.02. Pracovné činnosti vyžadujúce úplné stredné vzdelanie z okruhu polygrafie:
 
@@ -534,9 +540,9 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie.
 
 07 Reštaurovanie historickej knižnej väzby.
 
-06.4.03. Pracovné činnosti vyžadujúce úplné stredné vzdelanie z okruhu stravovania:
+08 Príprava tlačovej formy, nastavenie tlačiarenského stroja, náročná obojstranná braillová tlač.
 
-01 Zabezpečovanie prevádzky v prevádzkových jednotkách a vybavovanie reklamácií a objednávok vrátane kontrolnej činnosti.
+06.4.03. Pracovné činnosti vyžadujúce úplné stredné vzdelanie z okruhu stravovania:
 
 02 Organizovanie výroby jedál vrátane určovania technologických postupov a kalkulácií, zostavovanie vlastných receptúr a jedálnych lístkov pri osobitných príležitostiach (napr. banket, recepcia, akcia s medzinárodnou účasťou).
 
@@ -638,8 +644,6 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 03.2.01. Pracovné činnosti vyžadujúce stredné vzdelanie:
 
-01 Vedenie cestných motorových vozidiel určených na prepravu osôb s počtom miest na sedenie maximálne päť vrátane vodiča alebo s hmotnosťou nepresahujúcou 3 500 kg vrátane jednoduchej základnej údržby vozidla.
-
 02 Vedenie, obsluha a údržba ľahkých traťových mechanizmov (napr. motorový vozík, koľajový zdvihák typu MAMUT a PRM).
 
 03 Vedenie a údržba kolesových traktorov s prívesom pri doprave.
@@ -700,7 +704,7 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 04.2.01. Pracovné činnosti vyžadujúce stredné vzdelanie:
 
-01 Vedenie a bežná údržba cestných motorových vozidiel určených na prepravu osôb s počtom miest na sedenie od šesť do dvadsaťpäť vrátane vodiča (napr. FORD TRANSIT, RENAULT MASTER) alebo vozidiel s celkovou hmotnosťou od 3 500 kg do 12 000 kg.
+01 Vedenie a bežná údržba cestných motorových vozidiel určených na prepravu osôb s počtom do 22 miest na sedenie okrem miesta pre vodiča alebo vozidiel s celkovou hmotnosťou do 12 000 kg.
 
 02 Vedenie, obsluha a údržba hnacích vozidiel (rušňov) na vlečkách.
 
@@ -774,7 +778,7 @@ Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
 
 05.3.01. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie:
 
-01 Vedenie a bežná údržba cestných motorových vozidiel určených na prepravu osôb s počtom miest na sedenie nad dvadsaťpäť vrátane vodiča alebo vozidiel s celkovou hmotnosťou nad 12 000 kg, špeciálnych motorových vozidiel a techniky na údržbu ciest a vnútorných komunikácií v extrémnych vysokohorských podmienkach alebo techniky na údržbu ciest, miestnych a účelových komunikácií v zimných podmienkach; vedenie, údržba a obsluha ťažkej ženijnej alebo vyslobodzovacej techniky.
+01 Vedenie a bežná údržba cestných motorových vozidiel určených na prepravu osôb s počtom nad 22 miest na sedenie okrem miesta pre vodiča alebo vozidiel s celkovou hmotnosťou nad 12 000 kg, alebo špeciálnych motorových vozidiel a techniky na údržbu pozemných komunikácií (napr. zametač s objemom zásobníka nad 5 m<sup>3</sup>, autožeriav s nosnosťou nad 8 ton, nakladač).
 
 02 Obsluha, údržba a oprava ťažkých mechanizmov na úpravu štrkového lôžka (napr. PUŠL 71, PUŠL 74, ZŠ 72).
 
@@ -871,6 +875,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie.
 12 Oprava a nastavovanie technických zariadení určených na snímanie a vyhodnocovanie stavu pozemných komunikácií s ohľadom na poveternostné podmienky (napr. Boschung).
 
 13 Vedenie a obsluha špeciálnych mechanizmov určených na diagnostikovanie mostov (napr. Numela, Barin).
+
+14 Vedenie a bežná údržba špeciálnych motorových vozidiel a techniky určených na zimnú údržbu pozemných komunikácií (napr. sypač, snehová fréza a pod.) alebo špeciálnych mechanizmov na údržbu pozemných komunikácií (napr. UNIMOG, UDS, kanalizačno-fekálna nadstavba, umývač tunela), vedenie, údržba a obsluha ťažkej ženijnej techniky alebo vyslobodzovacej techniky.
 
 06.4.30. Pracovné činnosti vyžadujúce úplné stredné vzdelanie z okruhu spojov:
 
@@ -1012,6 +1018,8 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 02 Príprava a obsluha pevne zabudovaného premietacieho zariadenia vrátane prípravy a ošetrovania filmových kópií.
 
+03 Samostatné preberanie rekvizít, ich skladovanie a vykonávanie inventarizácie.
+
 03.2.22. Pracovné činnosti vyžadujúce stredné vzdelanie z okruhu divadelníctva:
 
 01 Našívanie zvrškov a oprava scénickej obuvi a krojovej obuvi.
@@ -1038,7 +1046,7 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 04.2.21. Pracovné činnosti vyžadujúce stredné vzdelanie z okruhu manipulácie v kultúre:
 
-01 Príprava a obsluha premietacieho zariadenia vrátane riadiaceho pultu v hľadisku, premietanie špeciálnymi technológiami.
+01 Príprava a obsluha premietacieho zariadenia v kine vrátane obsluhy analógovej reprodukcie zvuku.
 
 02 Samostatné zabezpečovanie, uskladňovanie a označovanie, vedenie a expedovanie filmov podľa požiadaviek a vnútorných predpisov zamestnávateľa.
 
@@ -1073,6 +1081,10 @@ Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
 05.3.21. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie z okruhu manipulácie v kultúre:
 
 01 Obsluha a nastavovanie pracovných charakteristík reprodukčného zariadenia, realizácia elektroakustickej zložky inscenácie na scéne i za scénou, technické zabezpečovanie nahrávania a zhrávania podľa scenára.
+
+02 Príprava a obsluha premietacieho zariadenia v kine vrátane obsluhy digitálnej reprodukcie zvuku.
+
+03 Zabezpečovanie stavby a montáže orchestriska na domácom pódiu a na iných pódiách pri zájazdoch orchestra.
 
 05.3.22. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie z okruhu divadelníctva:
 
@@ -1113,6 +1125,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie.
 07 Zhotovovanie slohových malieb vrátane samostatného doplnenia daného námetu; sondáže vrstiev malieb, určenie chemických a fyzikálnych vlastností použitých materiálov; vytváranie scénických malieb všetkých druhov.
 
 08 Zhotovovanie modelov a plastík všetkých druhov z rôznych materiálov a povrchových úprav podľa návrhu výtvarníka pre scénografickú výrobu; snímanie masiek alebo častí tváre živých modelov.
+
+09 Údržba a priebežné ladenie všetkých klávesových nástrojov podľa sluchu (napr. klavír, organ, spinety, čembalo).
 
 06.4.21. Pracovné činnosti vyžadujúce úplné stredné vzdelanie z okruhu manipulácie v kultúre:
 
@@ -1600,7 +1614,7 @@ Kvalifikačné predpoklady: neustanovujú sa.
 
 02.1.01. Pracovné činnosti nevyžadujúce vzdelanie:
 
-01 Opatrovateľská služba pre mobilných občanov v domácnosti, v domove s opatrovateľskou službou alebo v stanici osobnej hygieny pre občanov vyžadujúcich opatrovateľskú starostlivosť.
+01 Opatrovateľská služba v domácnosti pre deti alebo pre mobilných občanov, v domove s opatrovateľskou službou alebo v stanici osobnej hygieny pre občanov vyžadujúcich opatrovateľskú starostlivosť.
 
 02 Čiastková starostlivosť o občanov ťažko sociálne prispôsobivých pod vedením sociálneho pracovníka.
 
@@ -1760,6 +1774,8 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 08 Dozor nad sústredenou skládkou tuhého komunálneho odpadu a kontrola základných fyzikálnych, chemických a biologických odpadov, organizovanie plnenia skládky, planírovanie povrchu skládky.
 
+09 Ručný výkop, zasypanie hrobu a úprava hrobu na určenom mieste.
+
 03.2.07. Pracovné činnosti vyžadujúce stredné vzdelanie z okruhu obsluhy, remeselných, opravárskych a údržbárskych prác:
 
 01 Inštalačná a kúrenárska práca (napr. zostavenie a montáž vykurovacích telies, montáž ručných čerpadiel krídlových dvojčinných, demontáž kotlov dodaných vcelku, potrubia a armatúr na ďalšiu montáž).
@@ -1880,6 +1896,8 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 
 07 Nastavovanie, údržba a vykonávanie bežných opráv v spaľovacích zariadeniach; čistenie a úprava popola, ukladanie popola do urien, vsyp alebo rozptyl popola, prípadne pietny akt vsypu alebo rozptylu popola.
 
+08 Všetky úpravy vlasov, fúzov a brady.
+
 04.2.07. Pracovné činnosti vyžadujúce stredné vzdelanie z okruhu obsluhy, remeselných, opravárskych a údržbárskych prác:
 
 01 Oprava, údržba a zabezpečovanie chodu mechanických strojov a zariadení (napr. vežové hodiny, stenové hodiny).
@@ -1977,6 +1995,8 @@ Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
 01 Individuálne zhotovovanie reklamných pútačov najzložitejších tvarov (napr. figurálne, štylizované, pohybové, svetelné, ornamentálne, plošné a plastické) podľa vlastných návrhov rôznymi technikami tvarovania, modelovania, kreslenia a pod.
 
 02 Samostatná realizácia námetov s textami, nápismi a pod., samostatná realizácia výtvarne vysoko- náročného aranžovania a dekorovania (napr. miestností, sál na trhové akcie, prehliadky) podľa vlastných návrhov.
+
+03 Úpravy vlasov náročnými spôsobmi (napr. zhotovovanie osobitne náročných spoločenských účesov, zhotovovanie špeciálnych módnych strihov vlasov).
 
 05.3.07. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie z okruhu obsluhy, remeselných, opravárskych a údržbárskych prác:
 
@@ -2265,6 +2285,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie.
 03 Oprava a nastavovanie nástrojov na mikrochirurgiu alebo zhotovovanie prototypov chirurgických nástrojov; testovanie dýchacieho prístroja pre klinické prostredie.
 
 04 Oprava a nastavovanie zložitých regulačných obvodov a zariadení diaľkového merania a zapisovania pre nemocnice.
+
+05 Samostatné zhotovovanie stomatologických protéz a čeľustnoortopedických aparátov, stomatochirurgických dláh, epitéz a iných pomôcok v oblasti stomatológie a ďalších medicínskych odborov, oprava stomatologických protéz a čeľustnoortopedických aparátov.
 
 22. ŽIVOTNÉ PROSTREDIE
 

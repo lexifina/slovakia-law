@@ -146,13 +146,17 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 17 Sledovanie a riadenie centrálneho regulačného systému, zabezpečovanie kontroly ovládacích centier, klimatizačných zariadení, tepelného hospodárstva a výmenníkových staníc prostredníctvom špeciálneho programu výpočtovej techniky vrátane koordinovania odstraňovania chýb.
 
+18 Zabezpečovanie odbornej práce a koordinovanie spracúvania stanovísk v sekretariáte generálneho riaditeľa v ústrednom orgáne štátnej správy alebo u splnomocnenca vlády.
+
+19 Vykonávanie odbornej práce legislatívnotechnického charakteru podľa všeobecne záväzných právnych predpisov v ústrednom orgáne štátnej správy.
+
 07. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 07.4.5. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
-01 Zabezpečovanie odbornej práce a agendy v kancelárii predstaviteľa štátnej moci (napr. koordinovanie spracúvania stanovísk a materiálov, organizačné zabezpečovanie medzinárodných stykov).
+01 Zabezpečovanie odbornej práce a agendy (napr. koordinovanie spracúvania stanovísk a materiálov, organizačné zabezpečovanie medzinárodných stykov) štatutárneho orgánu ústredného orgánu štátnej správy alebo štátneho orgánu vykonávajúceho štátne záležitosti s celoštátnou pôsobnosťou, vedúceho služobného úradu, ktorým je ústredný orgán štátnej správy alebo štátny orgán vykonávajúci štátne záležitosti s celoštátnou pôsobnosťou, alebo orgán štátnej správy s celoštátnou pôsobnosťou, ktorý nemá nadriadený orgán.
 
 02 Samostatná odborná práca na vymedzenom úseku personálnej práce (napr. posudzovanie nároku na dovolenku, práca nadčas, podklady pre mzdovú učtáreň).
 
@@ -180,9 +184,13 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 14 Koordinovanie a organizovanie prác zamestnancov s prevahou fyzickej práce (napr. na úseku ubytovania, stravovania, v stavebnej alebo špedičnej prevádzke) s plnou hmotnou zodpovednosťou.
 
+15 Zabezpečovanie správy majetku zamestnávateľa vo vymedzenej oblasti (napr. správa strojov, prístrojov a zariadení).
+
+16 Samostatná odborná práca pri príprave podkladov na výkon konzulárnych funkcií v príslušnej krajine v súlade s Viedenským dohovorom o konzulárnych stykoch.
+
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -195,6 +203,10 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 04 Koordinovanie a zabezpečovanie činností spojených s procesom výberu zmluvného partnera pri obstarávaní tovarov, prác a služieb zamestnancom po získaní odbornej spôsobilosti.<sup>3</sup>)
 
 05 Metodické usmerňovanie a kontrola utajovaných skutočností u zamestnávateľa na celoštátnej úrovni alebo u zamestnávateľa s priamo riadenými zamestnávateľmi vykonávané zamestnancom po získaní osvedčenia.<sup>1</sup>)
+
+06 Samostatné zabezpečovanie a spracúvanie náročnej mzdovej agendy.
+
+07 Vybavovanie ucelenej odbornej agendy prevádzkovateľa retransmisie a vysielateľa televízneho a rozhlasového vysielania vrátane prípravy rozhodnutí.
 
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -214,13 +226,15 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
 01 Samostatné zabezpečovanie ekonomiky práce.
 
 02 Samostatné zabezpečovanie rozpočtovania alebo financovania.
+
+03 Metodická činnosť pri zabezpečovaní a spracúvaní mzdovej agendy z úrovne zamestnávateľa na celoštátnej úrovni alebo s priamo riadenými zamestnávateľmi.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -240,9 +254,15 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08 Vypracúvanie analýz a plánovanie procesov vo verejnom obstarávaní zamestnancom po získaní odbornej spôsobilosti.<sup>3</sup>)
 
+09 Rozpracúvanie metodiky účtovníctva a výkazníctva u zamestnávateľa na celoštátnej úrovni alebo u zamestnávateľa s priamo riadenými zamestnávateľmi.
+
+10 Tvorba, organizovanie a zabezpečovanie vzdelávacích podujatí vo vzdelávacom zariadení na celoštátnej úrovni.
+
+11 Monitorovanie vysielania rozhlasových a televíznych staníc vrátane analýzy a spracovania výsledkov pre rozhodovaciu činnosť.
+
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -278,9 +298,17 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 16 Komplexné zabezpečovanie správy rozsiahleho hnuteľného majetku a nehnuteľného majetku alebo rozsiahlych rekreačných zariadení na celoštátnej úrovni.
 
+17 Koordinovanie činností pri výberových a špecifických monitoringoch rozhlasového a televízneho vysielania.
+
+18 Zabezpečovanie a realizácia prieskumov a analýz v oblasti ochrany maloletých vo vysielaní vrátane spracúvania odborných stanovísk a opatrení.
+
+19 Analytická, organizačná a rozhodovacia činnosť v oblasti sprístupňovania informácií vrátane priameho spracovania a sprístupnenia informácií u zamestnávateľa na celoštátnej úrovni.
+
+20 Spracovanie podkladov na vypracovanie plánov frekvenčného spektra a jeho využitia vrátane výberu vhodných frekvencií pre rozhlasové a televízne vysielanie.
+
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -306,13 +334,19 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 11 Koncepčné a koordinačné zabezpečovanie súťažných podkladov s rozhodujúcim vplyvom na výsledok procesu verejného obstarávania zamestnancom po získaní odbornej spôsobilosti.<sup>3</sup>)
 
+12 Tvorba metodiky postupov v oblasti monitoringu vysielania, štatistiky a programových typov.
+
+13 Tvorba koncepcie využitia frekvenčného spektra pre rozhlasové a televízne vysielanie.
+
+14 Koordinovanie a metodické usmerňovanie civilnej ochrany a obrany u zamestnávateľa na celoštátnej úrovni.
+
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
-01 Koncepčná a analytická činnosť a príprava podkladov na rozhodovanie o ekonomických otázkach spadajúcich do rozsahu kompetencie ústredného orgánu štátnej správy alebo zamestnávateľa na celoštátnej úrovni.
+01 Koncepčná a analytická činnosť a príprava podkladov na rozhodovanie o ekonomických otázkach spadajúcich do rozsahu kompetencie ústredného orgánu štátnej správy, vyššieho územného celku alebo zamestnávateľa na celoštátnej úrovni.
 
 02 Koordinovanie celoštátnych a medzinárodných programov v oblasti výskumu a vývoja a vedných prepojení na medzinárodnú vedecko-technickú spoluprácu a vedecko-technický rozvoj.
 
@@ -328,9 +362,13 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 08 Metodické usmerňovanie činností v oblasti verejného obstarávania z úrovne ústredného orgánu štátnej správy alebo zamestnávateľa na celoštátnej úrovni zamestnancom po získaní odbornej spôsobilosti.<sup>3</sup>)
 
+16 Tvorba projektov zameraných na vzdelávanie zamestnancov zahraničného obchodu alebo zahraničnej služby.
+
+17 Tvorba koncepcie monitoringu vysielania, obsahových analýz a programových typov vrátane výkonu Európskeho dohovoru vo vzťahu k obsahu vysielania.
+
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -350,7 +388,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -358,7 +396,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -368,7 +406,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -376,7 +414,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -426,9 +464,13 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08 Príprava analytických podkladov pre hodnotiace činnosti dopravného inžinierstva v oblasti cestnej dopravy.
 
+09 Príprava výroby vrátane zavádzania technologických postupov.
+
+10 Samostatná odborná práca na úseku predaja a distribúcie diaľničných nálepiek.
+
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -438,21 +480,23 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 03 Kontrolovanie a posudzovanie stavu a prevádzkyschopnosti letiskových pohybových plôch a svetelných zabezpečovacích zariadení na letisku zamestnancom po získaní osvedčenia o odbornej spôsobilosti.<sup>2</sup>)
 
-04 Zabezpečovanie funkčnosti systémov leteckej techniky vykonávané zamestnancom po získaní osvedčenia o odbornej spôsobilosti.<sup>2</sup>)
+04 Zabezpečovanie funkčnosti systémov leteckej techniky.
 
 05 Koordinovanie činností prevádzkových služieb na letisku.
 
 06 Príprava a realizácia opráv pozemných komunikácií vrátane súvisiacich objektov a diagnostikovanie a prehliadky vozoviek a mostov v štádiu výstavby, opráv a prevádzky v obvode strediska.
 
-07 Zabezpečovanie dokumentácie (technickej a majetkovoprávnej) na investičnú činnosť v etape prípravy stavieb pozemných komunikácií.
+07 Zabezpečovanie dokumentácie (technickej a majetkovoprávnej) na investičnú činnosť v etape prípravy stavieb pozemných komunikácií alebo železničných dráh.
 
 08 Samostatná odborná práca pri spracúvaní majetkovoprávnej dokumentácie stavieb pozemných komunikácií.
 
-09 Organizovanie činností pri zabezpečovaní údržby vymedzeného úseku pozemných komunikácií vykonávané zamestnancom po získaní oprávnenia na výkon činnosti.<sup>7</sup>)
+09 Organizovanie činností pri zabezpečovaní údržby vymedzeného úseku pozemných komunikácií vykonávané zamestnancom po získaní oprávnenia na výkon činnosti<sup>7</sup>) alebo železničných dráh a mostov vykonávané zamestnancom po získaní odbornej spôsobilosti.<sup>7a</sup>)
 
 10 Metodické usmerňovanie vykonávania zberu a spracúvania dát cestnej databanky.
 
 11 Koordinovanie a zabezpečovanie odborných prác ochrany letiska zamestnancom po získaní odbornej spôsobilosti.<sup>8</sup>)
+
+12 Distribúcia diaľničných nálepiek vrátane preberania nepredaných diaľničných nálepiek.
 
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -470,7 +514,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 07 Organizovanie a koordinovanie činností pri zabezpečovaní technickej obsluhy lietadiel.
 
-08 Samostatná odborná práca v oblasti kontroly a cenotvorby v procese prípravy a realizácie stavieb pre potreby stavieb cestného hospodárstva.
+08 Samostatná odborná práca v oblasti kontroly a cenotvorby v procese prípravy a realizácie stavieb pre potreby stavieb cestného hospodárstva alebo železničných dráh.
 
 09 Spracúvanie podkladov pri tvorbe krátkodobých a dlhodobých plánov v oblasti mechanizácie a dopravy v obvode strediska.
 
@@ -486,9 +530,15 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 15 Analytická a hodnotiaca činnosť v oblasti posudzovania pozemných komunikácií z hľadiska územnoplánovacej a projektovej dokumentácie v rozsahu okresnej pôsobnosti.
 
+16 Spracúvanie podkladov pri tvorbe krátkodobých a dlhodobých plánov v oblasti materiálno-technického zabezpečenia v rámci základne technickej ochrany a obnovy železníc.
+
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+09.5.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, orientačná dĺžka odbornej praxe viac ako 9 rokov:
+
+01 Kontrola funkčnosti systémov a prístrojov leteckej techniky vykonávaná zamestnancom po získaní odbornej spôsobilosti.<sup>6</sup>)
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -500,6 +550,10 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 04 Koordinovanie a organizovanie úloh majetkovej správy a údržby diaľnic v obvode strediska vykonávané zamestnancom po získaní oprávnenia na výkon činnosti.<sup>7</sup>)
 
+05 Investičná činnosť pri príprave alebo realizácii stavieb železničných tratí a mostných provizórií vykonávaná zamestnancom po získaní odbornej spôsobilosti.<sup>7a</sup>)
+
+06 Koordinácia nasadenia železničnej techniky do technologického prúdu stavby železničných tratí zamestnancom po získaní odbornej spôsobilosti.<sup>7a</sup>)
+
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
 01 Koordinovanie a metodické usmerňovanie činností leteckých dopravcov v oblasti poskytovania prevádzkových služieb.
@@ -508,23 +562,27 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 03 Spracúvanie technologických postupov v oblasti energetického dispečingu technickej prevádzky letísk zamestnancom po získaní osvedčenia o odbornej spôsobilosti.<sup>2</sup>)
 
-04 Príprava a realizácia opráv pozemných komunikácií vrátane súvisiacich objektov a diagnostikovanie vozoviek a mostov v štádiu výstavby, opráv a prevádzky v danej oblasti (napr. kraj, diaľničný úsek).
+04 Príprava a realizácia opráv pozemných komunikácií alebo železničných dráh vrátane súvisiacich objektov a diagnostikovanie vozoviek alebo železničných tratí a mostov v štádiu výstavby, opráv a prevádzky (napr. kraj, diaľničný úsek alebo železničný úsek).
 
 05 Operačné riadenie prevádzky celoštátneho informačného systému diaľnic a ciest v obvode strediska.
 
 06 Spracúvanie geodetickej časti dokumentácie skutočného vyhotovenia dopravnej stavby a majetkovoprávnej dokumentácie v digitálnej forme.
 
-07 Navrhovanie postupov týkajúcich sa cenovej časti zadávacích podkladov súťažných návrhov pre potreby cestného hospodárstva.
+07 Navrhovanie postupov týkajúcich sa cenovej časti zadávacích podkladov súťažných návrhov pre potreby cestného hospodárstva alebo železničných dráh.
 
 08 Preberanie a správa majetku pozemných komunikácií vrátane súvisiacich objektov na určenom úseku pozemnej komunikácie.
 
 09 Tvorba dlhodobých plánov činností prevádzky a údržby pozemných komunikácií vrátane súvisiacich objektov na celoštátnej úrovni.
 
-10 Tvorba krátkodobých a dlhodobých plánov v oblasti mechanizácie a dopravy v obvode strediska.
+10 Tvorba krátkodobých a dlhodobých plánov v oblasti mechanizácie a dopravy v obvode strediska údržby diaľnic alebo ciest, alebo základne technickej ochrany a obnovy železníc.
+
+11 Tvorba krátkodobých a dlhodobých plánov v oblasti materiálno-technického zabezpečenia v rámci technickej ochrany a obnovy železníc u zamestnávateľa na celoštátnej úrovni.
+
+12 Určovanie technologických postupov pri výrobe prototypových výrobkov a prípravkov na skúšanie výrobkov.
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -542,9 +600,9 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 07 Investičná činnosť v etape investičnej prípravy objektov alebo častí stavieb pozemných komunikácií.
 
-08 Investičná činnosť v štádiu realizácie objektov alebo častí stavieb pozemných komunikácií.
+08 Investičná činnosť v štádiu realizácie objektov alebo častí stavieb pozemných komunikácií alebo železničných dráh.
 
-09 Technický dozor na objektoch pozemných komunikácií.
+09 Technický dozor na objektoch pozemných komunikácií alebo železničných dráh.
 
 10 Spravovanie majetku pozemných komunikácií vo zverenom obvode.
 
@@ -562,7 +620,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 17 Vypracúvanie individuálnych postupov týkajúcich sa cenovej časti zadávacích podkladov súťažných návrhov s účasťou zahraničných finančných inštitúcií a fondov pre potreby cestného hospodárstva.
 
-18 Koordinačná činnosť v oblasti plánovania mechanizácie a dopravy na celoštátnej úrovni.
+18 Koordinačná činnosť v oblasti plánovania mechanizácie a dopravy na celoštátnej úrovni pre oblasť cestného hospodárstva, diaľničného hospodárstva alebo železničného hospodárstva.
 
 19 Koordinačná a analytická činnosť v oblasti tvorby krátkodobých a dlhodobých plánov prevádzky a údržby pozemných komunikácií vrátane súvisiacich objektov na celoštátnej úrovni.
 
@@ -570,9 +628,15 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 21 Analýza vzniku nehôd a tvorba opatrení v oblasti bezpečnosti dopravy v rámci regiónu.
 
+22 Koordinačná a metodická činnosť v oblasti plánovania dopravy a prepravy materiálu technickej ochrany a obnovy železníc na celoštátnej úrovni vykonávaná zamestnancom po získaní odbornej spôsobilosti.<sup>7a</sup>)
+
+23 Koordinačná činnosť pri zabezpečovaní realizácie opatrení v období brannej pohotovosti štátu na úseku hospodárskej mobilizácie a technickej ochrany a obnovy železníc na celoštátnej úrovni.
+
+24 Tvorba distribučnej a predajnej siete vrátane koordinácie distribúcie a predaja diaľničných nálepiek na celoštátnej úrovni.
+
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -586,9 +650,9 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 05 Koncepčná a analytická práca v oblasti investičnej činnosti v etape investičnej prípravy väčších celkov stavieb pozemných komunikácií.
 
-06 Koncepčná a analytická práca v oblasti investičnej činnosti v štádiu realizácie väčších celkov stavieb pozemných komunikácií.
+06 Koncepčná a analytická práca v oblasti investičnej činnosti v štádiu realizácie väčších celkov stavieb pozemných komunikácií alebo železničných dráh.
 
-07 Technický dozor na stavbách pozemných komunikácií.
+07 Technický dozor na stavbách pozemných komunikácií alebo železničných dráh.
 
 08 Zabezpečovanie právnej agendy a majetkovoprávnych vzťahov rozsiahlych investičných celkov od predinvestičnej prípravy až po porealizačné vyrovnania.
 
@@ -618,7 +682,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -638,7 +702,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 08 Koordinovanie investičnej činnosti v etape investičnej prípravy komplexu stavieb pozemných komunikácií na celoštátnej úrovni.
 
-09 Koordinovanie investičnej činnosti v štádiu realizácie komplexu stavieb pozemných komunikácií na celoštátnej úrovni.
+09 Koordinovanie investičnej činnosti v štádiu realizácie komplexu stavieb pozemných komunikácií alebo železničných dráh na celoštátnej úrovni.
 
 10 Koordinovanie špecializovaných a tvorivých dopravnoinžinierskych prác v oblasti cestnej dopravy.
 
@@ -654,7 +718,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -666,7 +730,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 14. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 14.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -674,9 +738,17 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 04. FINANCIE
 
+07. PLATOVÁ TRIEDA
+
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+07.4.5. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
+
+01 Samostatné zabezpečovanie pátrania po nedodanom tovare v spoločnom tranzitnom režime u zamestnávateľa na celoštátnej úrovni.
+
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -684,9 +756,11 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 02 Vnútroštátne vykonávanie medzištátnych majetkovoprávnych dohôd vrátane usporiadania nehnuteľného majetku do vlastníctva štátu.
 
+03 Zabezpečovanie výstroja a výzbroje v ozbrojených zložkách alebo v colnej správe u zamestnávateľa na celoštátnej úrovni.
+
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -696,7 +770,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -750,7 +824,7 @@ Kvalifikačný predpoklad: úplné stredné vzdelanie a osobitný kvalifikačný
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -770,7 +844,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -790,7 +864,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.7.5. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -810,7 +884,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -826,7 +900,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -840,7 +914,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -852,7 +926,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -860,7 +934,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -874,7 +948,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -890,7 +964,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -899,6 +973,16 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 02 Koordinovanie celoštátnych a medzinárodných systémov v oblasti marketingu a propagácie cestovného ruchu.
 
 03 Koncepčná, koordinačná a rozhodovacia činnosť v oblasti priamych zahraničných investícií.
+
+13. PLATOVÁ TRIEDA
+
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie druhého stupňa, orientačná dĺžka odbornej praxe viac ako 9 rokov:
+
+01 Tvorba a koordinovanie celoštátnych a medzinárodných programov v oblasti nakladania s jadrovými materiálmi.
+
+02 Tvorba a koordinovanie medzinárodných programov v oblasti nových technológií v energetike vrátane jadrových technológií a vypracúvanie medzinárodných zmlúv na celoštátnej úrovni.
 
 07. INFORMATIKA
 
@@ -936,7 +1020,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -946,7 +1030,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -964,7 +1048,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -982,7 +1066,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1002,7 +1086,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -1018,7 +1102,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -1046,7 +1130,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -1064,7 +1148,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -1072,7 +1156,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1080,7 +1164,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -1174,7 +1258,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 11 Realizácia priestorového riešenia a výtvarného stvárnenia výstav alebo výtvarného dotvorenia kultúrnych podujatí.
 
-12 Zabezpečovanie technickej úrovne vydávanej publikácie celoštátneho významu.
+12 Zabezpečovanie odbornej úrovne a jazykovej úrovne alebo výtvarnej úrovne a grafickej úrovne vydávanej publikácie celoštátneho významu.
 
 13 Samostatná odborná práca pri sadzbe a úprave textu s obrázkami, s grafmi, s tabuľkami pomocou počítačov a príslušného programového vybavenia.
 
@@ -1184,6 +1268,16 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 16 Koordinovanie manuálnych zamestnancov pri vykonávaní odborných prác v polygrafickom zariadení, určovanie technologických postupov tlačiarenskej výroby vrátane jej zabezpečovania.
 
+17 Spravovanie a sprístupňovanie základných registrov a kartoték evidencie ústredného zoznamu pamiatkového fondu celoštátneho dosahu.
+
+18 Vykonávanie čiastkových konzervátorských a reštaurátorských úkonov pri záchrane umeleckých diel podľa usmernení.
+
+19 Samostatná odborná práca pri zhotovovaní kópií a obnove fondu zvukových kníh a časopisov nahratých v analógovej a digitálnej forme pre nevidiacich a slabozrakých.
+
+20 Výber aktuálnych informácií z dennej periodickej tlače a ich aplikácia v periodikách pre nevidiacich a slabozrakých.
+
+21 Spracúvanie aktuálnych informácií o literárnom dianí vrátane ich sprístupňovania.
+
 07.6.1. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
 01 Tvorivá interpretácia hudobných diel jednoduchších foriem.
@@ -1192,7 +1286,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -1202,19 +1296,23 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 03 Samostatné spracúvanie a vedenie odbornej evidencie a dokumentácie zbierkových predmetov v múzeu alebo v galérii so zložitou štruktúrou zbierok a rozsiahlym viacodborovým zbierkovým fondom, vedenie dokumentácie z odbornej ochrany a pohybu zbierok.
 
-04 Samostatné organizovanie návštevníckej prevádzky a lektorovania v kultúrnych zariadeniach alebo v pamiatkových objektoch, obsahová príprava lektorských textov a odborný výklad s diferencovaným prístupom pre jednotlivé skupiny návštevníkov (napr. deti, občania so zdravotným postihnutím).
+04 Samostatné organizovanie návštevníckej prevádzky a lektorovania v kultúrnych zariadeniach, osvetových zariadeniach alebo v pamiatkových objektoch, obsahová príprava lektorských textov a odborný výklad s diferencovaným prístupom pre jednotlivé skupiny návštevníkov (napr. deti, občania so zdravotným postihnutím).
 
 05 Samostatné konzervovanie alebo preparovanie zbierkových predmetov, archívnych dokumentov, knižničných fondov alebo mobiliárnych fondov s aplikáciou zložitých metód a technologických postupov.
 
 06 Koordinovanie a organizovanie správcov jednotlivých zbierok vo viacodborovom depozitári, analýza a vyhodnocovanie stavu zbierkových predmetov, spravovanie a starostlivosť o uložené zbierkové predmety v múzeu alebo v galérii.
 
-07 Samostatná odborná práca pri vyhotovovaní fotoreprodukcií a umeleckých fotografií na prezentáciu a propagačné účely kultúrnych zariadení.
+07 Samostatná odborná práca pri vyhotovovaní fotoreprodukcie alebo umeleckej fotografie na prezentáciu a propagačné účely kultúrnych zariadení.
 
 08 Röntgenovanie, snímkovanie a prieskum zbierkových predmetov, reprodukovanie a vyhodnocovanie röntgenových snímok.
 
 09 Samostatné rozpracúvanie návrhov priestorového riešenia a výtvarného dotvorenia výstav alebo výtvarného dotvorenia kultúrnych podujatí podľa koncepcie výtvarnej štúdie formou realizačných projektov.
 
 10 Koordinovanie prevádzky historických lesných úvraťových železníc so zreteľom na zachovanie a prezentáciu ich historických, technických a funkčných hodnôt vykonávané zamestnancom s odbornou spôsobilosťou.<sup>11</sup>)
+
+11 Vykonávanie ucelených konzervátorských a reštaurátorských úkonov pri záchrane umeleckých diel podľa návrhov na reštaurovanie umeleckého diela.
+
+12 Odborné zameriavanie historických objektov a objektov pamiatkového fondu a čiastkové spracúvanie výsledkov zamerania.
 
 08.6.4. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1250,7 +1348,13 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+09.6.5. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
+
+01 Tvorivá interpretácia jednoduchších foriem symfonického diela, vokálneho diela, vokálno-symfonického diela alebo komorného diela.
+
+02 Tvorivá interpretácia tanečnej časti hudobného diela alebo hudobnodramatického diela.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1290,17 +1394,17 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 15 Samostatné spracovanie a sprístupňovanie ústredného zoznamu kultúrnych pamiatok celoštátneho dosahu.
 
-16 Základný prieskum vytypovaných pamiatok vrátane prípravných prác, vyhodnocovanie ich výsledkov a spracúvanie dokumentácie, stanovovanie príčin poškodenia pamiatok, overovanie a vyhodnocovanie účinnosti a vhodnosti sanačných a konzervačných zásahov pri starostlivosti o pamiatkový fond, vykonávanie pamiatkového dohľadu nad úpravou a obnovou pamiatok.
+16 Základný prieskum vytypovaných pamiatok vrátane prípravných prác, vyhodnocovanie ich výsledkov a spracúvanie dokumentácie, stanovovanie príčin poškodenia pamiatok, overovanie a vyhodnocovanie účinnosti a vhodnosti sanačných a konzervačných zásahov pri starostlivosti o pamiatkový fond.
 
 17 Samostatná tvorivá odborná publicistická činnosť.
 
-18 Samostatné zabezpečovanie technickej úrovne a grafickej úrovne vydávaných publikácií alebo notografická príprava hudobného textu do tlače.
+18 Posudzovanie odbornej úrovne a jazykovej úrovne alebo výtvarnej úrovne a grafickej úrovne vydávanej publikácie alebo notografická príprava hudobného textu do tlače.
 
 19 Tvorivé vykonávanie strihových prác filmov a audiovizuálnych programov.
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -1320,7 +1424,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 08 Tvorivá interpretácia kolektívnej časti hudobného diela, symfonického diela, vokálneho diela, vokálno-symfonického diela, komorného diela alebo hudobnodramatického diela s dosahom na ich prezentáciu na celoštátnej úrovni.
 
-09 Tvorba umelecko-akustickej zložky umeleckého diela podľa zámerov režiséra so zodpovednosťou za umeleckú úroveň a technickú úroveň.
+09 Tvorba umelecko-akustickej zložky alebo umelecko-vizuálnej zložky umeleckého diela podľa zámerov režiséra so zodpovednosťou za umeleckú úroveň a technickú úroveň.
 
 10 Tvorba a realizácia plánov činnosti umeleckej prevádzky, repertoárových a študijných plánov vrátane organizačného zabezpečovania zájazdov umeleckého telesa doma i v zahraničí.
 
@@ -1358,7 +1462,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 27 Prieskum pamiatok, ich súborov a historických sídel, komplexné spracúvanie ich dokumentácie a vyhodnocovanie výsledkov prieskumných prác, riešenie koncepcií ochrany, obnovy a prezentácie pamiatok a historických sídel, samostatná poradenská činnosť a spracúvanie expertíz na riešenie zložitých problémov v starostlivosti o pamiatkový fond.
 
-28 Samostatné spracúvanie výsledkov zamerania historických objektov vrátane spracúvania dokumentácie súvisiacej s pamiatkovou starostlivosťou.
+28 Samostatné spracúvanie výsledkov zamerania historických objektov vrátane spracúvania dokumentácie súvisiacej s ochranou pamiatkového fondu.
 
 29 Vykonávanie čiastkových technologických prieskumných prác na hnuteľných pamiatkach a nehnuteľných pamiatkach vrátane vyhodnocovania výsledkov technologických prieskumov.
 
@@ -1370,9 +1474,19 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 33 Komplexné zabezpečovanie polygrafickej výroby a koordinovanie činností pri určovaní a dodržiavaní technológie tlače.
 
+34 Analytická činnosť v oblasti dát o registrovaných cirkvách a náboženských spoločnostiach.
+
+35 Samostatné zabezpečovanie realizácie prijatej koncepcie dotačného a štipendijného systému pri vydávaní a šírení slovenskej literatúry v zahraničí.
+
+36 Prieskum literárnej tvorby a analýza poznatkov z oblasti literárneho diania vrátane interpretácie odborných informácií doma a v zahraničí.
+
+37 Tvorba umelecko-akustickej zložky zvukových kníh a časopisov určených pre nevidiacich a slabozrakých.
+
+38 Tvorba koncepcie a koordinovanie výroby ľudovo-umeleckých výrobkov a tvorba obchodnej stratégie.
+
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1432,8 +1546,6 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 28 Tvorba zásad obnovy hnuteľných pamiatok a nehnuteľných pamiatok na základe výskumu.
 
-29 Štátny dozor v oblasti pamiatkovej starostlivosti vrátane inšpekčnej, kontrolnej a preventívnej činnosti.
-
 30 Tvorba návrhov rekonštrukcie alebo dotvorenia chýbajúcich častí umelecko-historických objektov, architektonických objektov alebo archeologických objektov osobitým spôsobom.
 
 31 Vykonávanie ucelených technologických prieskumov hnuteľných pamiatok a nehnuteľných pamiatok, ich vyhodnocovanie a odborné spracúvanie technologických návrhov.
@@ -1442,15 +1554,21 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 33 Komplexné zabezpečovanie prevádzky redakcie, sumarizácia podkladov na vydanie a na zasadania redakčnej rady.
 
-34 Komplexné zabezpečovanie obsahového, technického a výtvarného riešenia vydávaných publikácií alebo odbornej notografickej prípravy.
+34 Komplexné zabezpečovanie odbornej úrovne, jazykovej úrovne, výtvarnej úrovne a grafickej úrovne vydávanej publikácie alebo odborná notografická príprava hudobného textu do tlače.
 
 35 Tvorivá realizácia a stvárňovanie filmov a audiovizuálnych programov.
 
 36 Naštudovanie a tvorivá interpretácia hudobného diela, symfonického diela, vokálno-symfonického diela, komorného diela alebo hudobnej stránky hudobnodramatického diela a interpretácia sólových partov.
 
+37 Tvorba scenára na spracovanie slovesného diela do elektronickej podoby i na digitálnych nosičoch pre nevidiacich a slabozrakých.
+
+38 Tvorba a dolaďovanie knižnično-informačného programu pre nevidiacich a slabozrakých používateľov.
+
+39 Príprava a realizácia projektov šírenia slovenskej literatúry doma alebo v zahraničí.
+
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -1482,11 +1600,9 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 14 Koordinovanie a určovanie metód a metodiky reštaurovania vrátane vykonávania najnáročnejších reštau-rátorských prác.
 
-15 Koordinovanie a metodické usmerňovanie systému evidencie a informatiky na úseku kultúrnych pamiatok v rámci štátneho informačného systému vrátane publikovania v počítačových sieťach.
+15 Koordinovanie a metodické usmerňovanie systému evidencie a informatiky na úseku kultúrnych pamiatok.
 
-16 Tvorba metodiky prieskumu pamiatkového fondu historických sídlisk a súborov pamiatok, spracúvanie koncepcií, koordinovanie a kontrola odborných prác zaoberajúcich sa problematikou pamiatkovej starostlivosti v regionálnom aj nadregionálnom rozsahu vrátane medzinárodnej spolupráce v rámci ochrany kultúrneho dedičstva.
-
-17 Koordinovanie, metodické usmerňovanie a kontrola vykonávania štátneho dozoru v oblasti pamiatkovej starostlivosti na celoštátnej úrovni.
+16 Tvorba metodiky prieskumu pamiatkového fondu, historických sídiel a súborov pamiatok a spracúvanie koncepcií zaoberajúcich sa problematikou ochrany pamiatkového fondu.
 
 18 Tvorba metodiky dokumentovania všetkých typov historických objektov a pamiatkových výskumov.
 
@@ -1498,9 +1614,15 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 22 Koordinovanie najzložitejších umeleckých väzieb s cieľom vytvorenia jedinečného umeleckého poňatia hudobného diela, symfonického diela, vokálno-symfonického diela, komorného diela alebo hudobnej stránky hudobnodramatického diela vrátane interpretácie najzložitejších sólových partov.
 
+23 Koncepčná a koordinačná činnosť v oblasti analýz vzťahov štátu a cirkví.
+
+24 Tvorba koncepcie šírenia, podpory a propagácie slovenskej literatúry v zahraničí.
+
+25 Tvorba vývojových trendov a prognóz v jednotlivých oblastiach kultúry alebo umenia s dosahom na zahraničie.
+
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -1517,10 +1639,6 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 06 Tvorivé riešenie vývojových trendov a prognóz v oblasti múzejníctva, galerijníctva a rozvoja muzeologickej teórie.
 
 07 Špeciálne reštaurátorské a výskumné práce na dielach osobitného významu, vysokej historickej a kultúrnej hodnoty.
-
-08 Tvorivé riešenie súhrnných koncepcií, prognóz a programov ochrany v oblasti pamiatkového fondu.
-
-09 Tvorba koncepčných a rozvojových projektov a koordinovanie úloh štátneho dozoru v oblasti starostlivosti o kultúrne pamiatky.
 
 10 Tvorba metodiky technologických návrhov reštaurovania, sanácie a konzervovania pamiatkových objektov s využívaním výsledkov vlastných výskumov a ich aplikácia v oblasti pamiatkovej starostlivosti.
 
@@ -1548,7 +1666,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -1558,7 +1676,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1570,7 +1688,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -1586,7 +1704,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1608,7 +1726,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -1674,13 +1792,13 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 07 Kontrolná činnosť v oblasti dodržiavania technológií podľa preberacieho plánu, posudzovanie chýb a odchýlok od technologickej dokumentácie a konštrukčnej dokumentácie vrátane vstupnej kontroly, medzioperačnej kontroly a výstupnej kontroly.
 
-08 Príprava podkladov na rozhodovanie o pridelení bytu alebo o výmene bytu v rezorte ministerstva obrany alebo ministerstva vnútra.
+08 Príprava podkladov na rozhodovanie o pridelení bytu alebo o výmene bytu v rezorte ministerstva obrany alebo ministerstva vnútra, alebo v rezorte ministerstva financií.
 
 09 Zabezpečovanie odborných prác súvisiacich s organizačnou prípravou vyučovania a výcviku v škole ministerstva obrany alebo ministerstva vnútra.
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -1700,7 +1818,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -1720,7 +1838,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -1746,7 +1864,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1780,7 +1898,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -1798,13 +1916,13 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
 01 Veterinárny dozor a zabezpečovanie dodržiavania príslušných veterinárno-hygienických požiadaviek a zásad a zoohygienických požiadaviek pri chove a výžive zvierat na celoštátnej úrovni vykonávané veterinárnym lekárom po získaní osvedčenia o atestácii druhého stupňa.<sup>18</sup>)
 
-02 Koncepčná a metodická činnosť zdravotníckej služby v oblasti liečebno-preventívnej starostlivosti v ozbrojených silách vykonávané lekárom po získaní špecializácie druhého stupňa.<sup>20</sup>)
+02 Koncepčná a metodická činnosť zdravotníckej služby v oblasti liečebno-preventívnej starostlivosti v ozbrojených silách vykonávané lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 03 Koordinovanie celoštátnych systémov pri tvorbe a spracovaní úprav a noriem na podmienky Európskej únie v oblasti zabezpečenia obrany štátu a pri právnom zabezpečovaní plnenia záväzkov z medzinárodných zmlúv o spoločnej obrane proti napadnutiu na celoštátnej úrovni.
 
@@ -1864,13 +1982,15 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
 01 Záchranárska práca pri úrazoch v horskom teréne.
 
 02 Koordinovanie prác manuálnych zamestnancov v lesných prevádzkových jednotkách so zložitými pracovnými procesmi a následnými väzbami v drevárskej výrobe alebo pri výrobe sadeníc v škôlkárskych zariadeniach v národnom parku.
+
+03 Samostatná odborná práca pri vyhodnocovaní projektov podnikateľských subjektov so zameraním na rozvoj pôdohospodárstva a vidieka na účel poskytnutia finančných prostriedkov zo štátneho rozpočtu a z fondov Európskej únie.
 
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -1880,7 +2000,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1896,7 +2016,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -1922,7 +2042,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11 Koordinovanie kontroly úžitkovosti a dedičnosti hospodárskych zvierat vrátane ich označovania a registrácie v rámci regiónu vykonávané zamestnancom po získaní odbornej spôsobilosti.<sup>21</sup>)
 
-12 Analýza a vyhodnocovanie informačného systému trhu s drevom a ostatnými produktmi lesa v tuzemsku a v zahraničí.
+12 Analýza a vyhodnocovanie informačného systému trhu s drevom a ostatnými produktmi lesa alebo s agrokomoditami v tuzemsku a v zahraničí.
 
 13 Samostatná odborná práca súvisiaca s vykonávaním kontroly v mieste predkladania projektov u žiadateľa v rámci programu podpory rozvoja vidieka a poľnohospodárstva (napr. SAPARD).
 
@@ -1930,13 +2050,15 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 15 Komplexné zabezpečovanie prác na úseku vymáhania pohľadávok pozemkového fondu vrátane metodického usmerňovania regionálnych pracovísk.
 
-16 Analytická činnosť a príprava podkladov na rozhodovanie vo vymedzenej oblasti organizovania agropotravinárskeho trhu.
+16 Analytická činnosť a príprava podkladov na rozhodovanie vo vymedzenej oblasti organizovania agropotravinárskeho trhu alebo v rámci poskytovania finančných prostriedkov zo štátneho rozpočtu a z fondov Európskej únie na rozvoj pôdohospodárstva a vidieka.
 
 17 Metodické usmerňovanie marketingu a propagácie agropotravinárskych výrobkov.
 
+18 Analýza, posudzovanie a vyhodnocovanie investícií realizovaných z finančných prostriedkov Európskej únie a štátneho rozpočtu v oblasti rozvoja pôdohospodárstva a vidieka na úrovni zamestnávateľa s celoštátnou pôsobnosťou (SAPARD).
+
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -1962,17 +2084,17 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 11 Metodické usmerňovanie v oblasti kontroly úžitkovosti a kontroly dedičnosti hospodárskych zvierat vrátane ich označovania a registrácie z úrovne regiónu vykonávané zamestnancom po získaní odbornej spôsobilosti.<sup>21</sup>)
 
-12 Tvorba a rozvoj informačného systému o lesníckych komoditách pri zohľadnení väzieb na informačnú banku a informačné systémy v lesnom hospodárstve a na medzinárodné informačné systémy.
+12 Tvorba a rozvoj informačného systému o lesných komoditách alebo agrokomoditách pri zohľadnení väzieb na informačnú banku a informačné systémy v pôdohospodárstve a na medzinárodné informačné systémy.
 
 13 Odborná činnosť spojená s certifikáciou, posudzovaním zhody a skúšaním domácich a zahraničných potravinárskych výrobkov, poľnohospodárskych alebo tabakových výrobkov vrátane vydávania rozhodnutí.
 
-14 Koordinačná a metodická činnosť pri rozhodovaní o efektívnom vynakladaní prostriedkov štátu na organizovanie agropotravinárskeho trhu.
+14 Koordinačná a metodická činnosť pri rozhodovaní o efektívnom vynakladaní prostriedkov štátu alebo Európskej únie na organizovanie agropotravinárskeho trhu alebo na rozvoj pôdohospodárstva a vidieka.
 
 15 Koncepčná činnosť na celoštátnej úrovni v oblasti marketingu a propagácie agropotravinárskych výrobkov.
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -2008,9 +2130,13 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 16 Koordinovanie celoštátnych a medzinárodných systémov v oblasti marketingu na podporu predaja a odbytu agropotravinárskych výrobkov.
 
+17 Koncepčná a koordinačná činnosť pri tvorbe monitorovacích a hodnotiacich kritérií prístupového programu Európskej únie na vstup do Európskej únie u zamestnávateľa na celoštátnej úrovni (SAPARD).
+
+18 Koncepčná a koordinačná činnosť pri tvorbe špeciálneho účtovného softvéru zohľadňujúceho požiadavky Európskej únie a slovenskej legislatívy u zamestnávateľa na celoštátnej úrovni (SAPARD).
+
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2025,6 +2151,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 05 Koncepčná a metodická činnosť na úseku starostlivosti o lesy, pri zabezpečovaní ochrany prírody a životného prostredia v súlade s medzinárodnými dohovormi, s aplikáciou na podmienky národného parku vykonávané zamestnancom po získaní odbornej spôsobilosti.<sup>24</sup>)
 
 06 Koncepčná a koordinačná činnosť pri plnení úloh pozemkového fondu v oblasti nakladania s pôdou a spravovania nehnuteľností u zamestnávateľa na celoštátnej úrovni.
+
+07 Koordinovanie postupov v multidisciplinárnych súvislostiach vo väzbe na rozvoj pôdohospodárstva a vidieka v oblasti financovania prístupového programu Európskej únie u zamestnávateľa na celoštátnej úrovni (SAPARD).
 
 14. PRÁCA A SOCIÁLNE VECI
 
@@ -2046,13 +2174,15 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 01 Výchova a starostlivosť o deti v rodinách na profesionálne vykonávanie náhradnej starostlivosti vo vlastnom rodinnom prostredí mimo detského domova poskytovaná profesionálnym náhradným rodičom.
 
-02 Samostatné zabezpečovanie poskytovania zdravotnej starostlivosti občanom v zariadeniach sociálnych služieb alebo v špeciálnych výchovných zariadeniach a koordinovanie prác so zamestnávateľmi poskytujúcimi zdravotnú starostlivosť.
-
 03 Sociálno-poradenská práca prvého kontaktu vrátane predbežnej klasifikácie problému klienta a poradenského usmernenia.
+
+07.6.1. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
+
+01 Samostatné zabezpečovanie poskytovania zdravotnej starostlivosti občanom v zariadeniach sociálnych služieb alebo v špeciálnych výchovných zariadeniach a koordinovanie prác so zamestnávateľmi poskytujúcimi zdravotnú starostlivosť.
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2060,17 +2190,21 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 02 Formovanie a prehlbovanie praktických návykov a zručností občanov v oblasti pracovných aktivít a pracovnej terapie v zariadeniach na pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou alebo v zariadeniach sociálnych služieb.
 
-03 Koordinovanie a vykonávanie špecializovaných terapeutických a sociálnych opatrení počas trvalej opatery telesne, duševne, zmyslovo alebo inak závažne postihnutého občana v zariadeniach na pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou, v zariadeniach sociálnych služieb alebo v špeciálnych výchovných zariadeniach vykonávané zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-04 Koordinovanie a vykonávanie individuálneho rekondičného rehabilitačného plánu občana v zariadeniach na pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou alebo v zariadeniach sociálnych služieb zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-05 Organizačné zabezpečovanie a metodické usmerňovanie poskytovania opatrovateľskej služby vrátane koordinovania a odborného riadenia zamestnancov poskytujúcich opatrovateľskú službu v domácnostiach opatrovaných osôb a opatrovateľskú starostlivosť v zariadeniach sociálnych služieb vykonávané zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
 06 Zabezpečovanie sociálnoprávnej agendy občanov v zariadeniach sociálnych služieb vrátane poskytovania sociálnoprávnej služby vykonávanej zamestnancom po overení odbornej spôsobilosti.<sup>26</sup>)
+
+07 Tvorba zámerov a cieľov skupinovej práce a vedenia skupiny s preventívnovýchovným alebo resocializačným zameraním.
+
+08.6.4. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
+
+01 Koordinovanie a vykonávanie špecializovaných terapeutických a sociálnych opatrení počas trvalej opatery telesne, duševne, zmyslovo alebo inak závažne postihnutého občana v zariadeniach na pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou, v zariadeniach sociálnych služieb alebo v špeciálnych výchovných zariadeniach vykonávané zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+
+02 Koordinovanie a vykonávanie individuálneho rekondičného rehabilitačného plánu občana v zariadeniach na pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou alebo v zariadeniach sociálnych služieb vykonávané zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+
+03 Organizačné zabezpečovanie a metodické usmerňovanie poskytovania opatrovateľskej služby vrátane koordinovania a odborného riadenia zamestnancov poskytujúcich opatrovateľskú službu v domácnostiach opatrovaných osôb a opatrovateľskú starostlivosť v zariadeniach sociálnych služieb vykonávané zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -2084,7 +2218,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -2102,7 +2236,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -2122,11 +2256,11 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
-01 Zabezpečovanie poskytovania zdravotnej starostlivosti v zariadeniach na pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou alebo v zariadeniach sociálnych služieb v záujme vytvorenia biopsychosociálnej integrity telesne, duševne, zmyslovo alebo inak závažne postihnutého občana lekárom po získaní špecializácie prvého stupňa.<sup>20</sup>)
+01 Zabezpečovanie poskytovania zdravotnej starostlivosti v zariadeniach na pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou alebo v zariadeniach sociálnych služieb v záujme vytvorenia biopsychosociálnej integrity telesne, duševne, zmyslovo alebo inak závažne postihnutého občana lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 02 Tvorba koncepčných, metodických a analytických materiálov v oblasti rodinnej politiky.
 
@@ -2148,7 +2282,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 04.4.1. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
-01 Vykonávanie hliadkovej služby pod dohľadom.
+01 Vykonávanie hliadkovej služby pod dohľadom pred získaním odbornej spôsobilosti.<sup>27</sup>)
 
 02 Vybavovanie rutinných odborných agend ako podklad na riadenie, rozhodovanie alebo kontrolu v samospráve (napr. v oblasti stavebného poriadku, ochrany spotrebiteľa, životného prostredia).
 
@@ -2232,9 +2366,13 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 13 Vedenie matrík vrátane rozhodovacej činnosti na prvom stupni správneho konania vykonávané zamestnancom po vykonaní skúšky.<sup>29</sup>)
 
+14 Rozvíjanie vedomostí, zručností, návykov a všestranný rozvoj osobnosti detí v detských jasliach.
+
+15 Príprava a realizácia volieb, referenda alebo miestneho hlasovania.
+
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2254,6 +2392,16 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08 Organizovanie činností zložiek integrovaného záchranného systému vrátane vykonávania vyrozumievania zamestnancov v pôsobnosti vyššieho územného celku.
 
+09 Usmerňovanie a koordinovanie činností pri rozvíjaní vedomostí, zručností, návykov a všestranného rozvoja osobnosti detí v detských jasliach vrátane ich výchovy.
+
+10 Obnova a aktualizácia súborov geodetických informácií geografického informačného systému obce.
+
+11 Samostatné vybavovanie agendy vo vymedzenej oblasti samosprávy pri príprave a zabezpečovaní výkonu individuálnych právnych aktov.
+
+12 Odborná strelecká a telesná príprava a realizácia taktických a previerkových cvičení vrátane ich organizačnej a obsahovej prípravy vykonávané obecným policajtom po získaní odbornej spôsobilosti.<sup>27</sup>)
+
+13 Samostatná odborná práca na operatívno-technickom úseku spočívajúca v určovaní správnych postupov na záchranu života a majetku, na ochranu verejného poriadku alebo na riešenie mimoriadnych udalostí, vykonávaná obecným policajtom po získaní odbornej spôsobilosti.<sup>27</sup>)
+
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
 01 Vypracúvanie analýz a hodnotenie regionálneho rozvoja podľa príslušných odvetví (napr. cestovný ruch, energetika, trh práce, zdravotníctvo, školstvo, kultúra, demografia) na úrovni vyššieho územného celku.
@@ -2266,9 +2414,11 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 05 Samostatná analytická činnosť na úseku služieb sociálnej starostlivosti a sociálnych služieb poskytovaných právnickými osobami a fyzickými osobami na úrovni vyššieho územného celku alebo obce.
 
+06 Samostatná odborná práca v oblasti objasňovania priestupkov na úrovni samosprávy vykonávaná obecným policajtom po získaní odbornej spôsobilosti.<sup>27</sup>)
+
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -2279,6 +2429,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 03 Zabezpečovanie zložitých odborných technicko-opravárenských prác a servisu špeciálnej techniky a technických prostriedkov požiarnej ochrany na zdolávanie požiarov a mimoriadnych udalostí v rámci Mestského hasičského a záchranného zboru hlavného mesta Slovenskej republiky Bratislavy vykonávané zamestnancom po získaní odbornej spôsobilosti.<sup>5</sup>)
 
 04 Koordinovanie spolupráce právnických osôb a fyzických osôb na úseku cestovného ruchu a pri zabezpečovaní realizácie programu rozvoja cestovného ruchu na úrovni obce.
+
+05 Metodická a analytická činnosť v oblasti objasňovania priestupkov na úrovni samosprávy vykonávaná obecným policajtom po získaní odbornej spôsobilosti.<sup>27</sup>)
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -2306,9 +2458,11 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 12 Metodické usmerňovanie a kontrola stravovania a liečebnej výživy v zariadeniach sociálnych služieb na úrovni vyššieho územného celku alebo obce.
 
+03 Koordinovanie a zabezpečovanie volieb, referenda alebo miestneho hlasovania.
+
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -2366,7 +2520,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -2412,9 +2566,11 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 21 Metodické usmerňovanie a kontrola v oblasti hospodárskeho riadenia škôl a školských zariadení v zriaďovateľskej pôsobnosti vyššieho územného celku alebo obce.
 
+22 Projektová práca pri tvorbe základnej bázy dát geografického informačného systému obce, spravovanie údajov základnej bázy v rastrovom a vektorovom tvare v rozsahu územia obce.
+
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -2436,15 +2592,15 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 09 Tvorba koncepcie rozvoja sociálnych služieb poskytovaných právnickými osobami, fyzickými osobami alebo neštátnymi subjektmi na úrovni vyššieho územného celku.
 
-10 Koordinovanie výkonu územnej samosprávy na úseku zdravotnej starostlivosti v úrade samosprávneho kraja, koordinovanie obcí pri výkone územnej samosprávy na úseku zdravotnej starostlivosti a koordinovanie činností štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení na území vyššieho územného celku, ktoré vykonáva zamestnanec po získaní nadstavbovej špecializácie z príslušného odboru.<sup>20</sup>)
+10 Koordinovanie výkonu územnej samosprávy na úseku zdravotnej starostlivosti v úrade samosprávneho kraja, koordinovanie obcí pri výkone územnej samosprávy na úseku zdravotnej starostlivosti a koordinovanie činností štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení na území vyššieho územného celku, ktoré vykonáva zamestnanec po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-11 Koordinovanie výkonu územnej samosprávy na úseku humánnej farmácie na úrovni vyššieho územného celku a koordinovanie činnosti obcí pri výkone územnej samosprávy na úseku humánnej farmácie, ktoré vykonáva zamestnanec po získaní nadstavbovej špecializácie z príslušného odboru.<sup>20</sup>)
+11 Koordinovanie výkonu územnej samosprávy na úseku humánnej farmácie na úrovni vyššieho územného celku a koordinovanie činnosti obcí pri výkone územnej samosprávy na úseku humánnej farmácie, ktoré vykonáva zamestnanec po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 12 Tvorba koncepcie rozvoja školstva v zriaďovateľskej pôsobnosti vyššieho územného celku.
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2538,9 +2694,15 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 15 Vyhľadávanie voľných pracovných miest, poskytovanie informácií zamestnávateľom o situácii na trhu práce v regióne.
 
+16 Metodické usmerňovanie závodov podľa zákona o štátnej správe sociálneho zabezpečenia v oblasti vedenia evidenčných listov dôchodkového zabezpečenia vrátane kontroly správnosti údajov.
+
+17 Vedenie a kontrola evidenčných listov dôchodkového zabezpečenia zamestnancov malých závodov podľa zákona o štátnej správe sociálneho zabezpečenia, samostatne zárobkovo činných osôb a osobitných skupín poistencov.
+
+18 Kontrola dodržiavania liečebného režimu práceneschopným vrátane vybavovania odvolaní.
+
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2560,7 +2722,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08 Odborná činnosť súvisiaca s uplatňovaním náhrad nákladov za poskytnutú zdravotnú starostlivosť alebo vyplatených dávok sociálneho zabezpečenia v dôsledku protiprávneho konania tretej osoby.
 
-09 Odborné spracúvanie podkladov, rozhodovanie a vykonávanie odborných činností súvisiacich s poskytovaním dávok a peňažných náhrad z garančného fondu na regionálnej úrovni.
+09 Odborné spracúvanie podkladov, rozhodovanie a vykonávanie odborných činností súvisiacich s poskytovaním dávok a peňažných náhrad z garančného fondu alebo dávok dôchodkového zabezpečenia na regionálnej úrovni.
 
 10 Sprostredkovateľsko-poradenská činnosť pre evidovaných nezamestnaných, ich kontaktovanie so zamestnávateľmi a rozhodovacia činnosť na prvom stupni správneho konania.
 
@@ -2578,7 +2740,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -2610,6 +2772,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 14 Schvaľovanie likvidácie poistných udalostí z poistenia zodpovednosti zamestnávateľa za škodu pri pracovnom úraze a pri chorobe z povolania.
 
+15 Konzultačná a poradensko-informačná činnosť a riešenie sporných prípadov v oblasti sociálneho zabezpečenia na regionálnej úrovni.
+
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
 01 Konzultačná a poradenská činnosť vo vymedzenej oblasti registra, výberu, vymáhania poistného, poplatku za nesplnenie oznamovacej povinnosti, penále a pokút alebo príspevku na poistenie v nezamestnanosti a do garančného fondu.
@@ -2618,7 +2782,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.7.5. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -2634,7 +2798,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 04 Schvaľovanie rozhodnutí o dávke dôchodkového zabezpečenia a jej výplate podľa predpisov o sociálnom zabezpečení, podľa správneho poriadku a podľa medzištátnych zmlúv o sociálnom zabezpečení.
 
-05 Tvorba a určovanie postupov v oblasti nemocenského poistenia alebo štátnych sociálnych dávok.
+05 Tvorba a určovanie postupov v oblasti sociálneho zabezpečenia alebo v oblasti štátnych sociálnych dávok.
 
 06 Koordinačná a kontrolná činnosť na prvom stupni správneho konania v oblasti sociálneho zabezpečenia.
 
@@ -2664,7 +2828,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -2700,7 +2864,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -2724,19 +2888,19 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 10 Koncepčná a koordinačná činnosť v oblasti tvorby a aplikácie liekovej politiky v zdravotnej poisťovni na celoštátnej úrovni.
 
-11 Kontrolná a revízna činnosť poskytovania zdravotnej starostlivosti vykonávaná lekárom po získaní špecializácie prvého stupňa.<sup>20</sup>)
+11 Kontrolná a revízna činnosť poskytovania zdravotnej starostlivosti vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-12 Kontrolná a revízna činnosť poskytovania liekov alebo zdravotníckych pomôcok vykonávaná lekárnikom po získaní špecializácie prvého stupňa.<sup>20</sup>)
+12 Kontrolná a revízna činnosť poskytovania liekov alebo zdravotníckych pomôcok vykonávaná lekárnikom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-13 Metodická a analytická činnosť revízneho lekára v oblasti zdravotného poistenia vykonávaná lekárom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+13 Metodická a analytická činnosť revízneho lekára v oblasti zdravotného poistenia vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-14 Metodická a analytická činnosť revízneho lekárnika v oblasti zdravotného poistenia vykonávaná lekárnikom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+14 Metodická a analytická činnosť revízneho lekárnika v oblasti zdravotného poistenia vykonávaná lekárnikom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-15 Metodická a analytická činnosť posudkového lekára v oblasti sociálneho zabezpečenia vykonávaná lekárom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+15 Metodická a analytická činnosť posudkového lekára v oblasti sociálneho zabezpečenia vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-16 Posudková činnosť v oblasti sociálneho zabezpečenia vykonávaná lekárom po získaní špecializácie prvého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+16 Posudková činnosť v oblasti sociálneho zabezpečenia vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-17 Lekárska posudková činnosť na účely zamestnanosti, posudzovanie zdravotnej spôsobilosti na prácu na účely sprostredkovania vhodného zamestnania evidovaným nezamestnaným vykonávaná lekárom po získaní špecializácie prvého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+17 Lekárska posudková činnosť na účely zamestnanosti, posudzovanie zdravotnej spôsobilosti na prácu na účely sprostredkovania vhodného zamestnania evidovaným nezamestnaným vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 18 Navrhovanie priorít politiky trhu práce na celoštátnej úrovni.
 
@@ -2758,7 +2922,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2768,9 +2932,9 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 03 Tvorba koncepcie rozvoja a strategické plánovanie činnosti zdravotnej poisťovne na celoštátnej úrovni.
 
-04 Koncepčná a koordinačná činnosť revízneho lekárstva v oblasti zdravotného poistenia vykonávaná zamestnancom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+04 Koncepčná a koordinačná činnosť revízneho lekárstva v oblasti zdravotného poistenia vykonávaná zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Koncepčná činnosť posudkového lekára v oblasti sociálneho zabezpečenia vykonávaná lekárom po získaní špecializácie druhého stupňa alebo špecializácie prvého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+05 Koncepčná činnosť posudkového lekára v oblasti sociálneho zabezpečenia vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 06 Tvorba dlhodobých stratégií a medzinárodných dokumentov, koordinovanie činností systému sociálneho zabezpečenia.
 
@@ -2830,9 +2994,15 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08 Zabezpečovanie vrcholovej športovej prípravy športovcov mládežníckych kategórií.
 
+09 Výchovno-vzdelávacia a komunitná činnosť zameraná na vytvorenie podporného učebného prostredia pre deti z nedostatočne podnetného sociálneho a kultúrneho prostredia vykonávaná asistentom učiteľa v škole alebo v predškolskom zariadení po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
+
+10 Technická príprava výroby vrátane normovania spotreby materiálu a spotreby práce v strednej škole, učilišti, odbornom učilišti, praktickej škole, stredisku odbornej praxe alebo v stredisku praktického vyučovania.
+
+11 Zabezpečovanie športovej činnosti v školských zariadeniach inštruktorom telesnej výchovy.
+
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6 Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2860,8 +3030,6 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
-01 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností a zručností žiakov v čase mimo vyučovania v oblasti využívania voľného času, spoločenských a prírodných vied v školskom zariadení, v zariadení pre pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou, v zariadení sociálnych služieb alebo v športovom stredisku mládeže, ktorú vykonáva vychovávateľ s bakalárskym vzdelaním po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
-
 02 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností a zručností žiakov v čase mimo vyučovania v oblasti využívania voľného času v školskom zariadení, v športovom stredisku mládeže alebo špeciálnom výchovnom zariadení vykonávaná vychovávateľom do splnenia podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
 03 Organizovanie a koordinovanie prác pri zabezpečovaní činnosti a prípravy športového družstva.
@@ -2870,7 +3038,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.5.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -2878,9 +3046,11 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 02 Výchovno-vzdelávacia činnosť zameraná na rozvoj a upevňovanie odborných praktických zručností a návykov žiakov so špeciálnymi výchovno-vzdelávacími potrebami s využitím zložitých kompenzačných technológií, ktorú vykonáva majster odbornej výchovy v špeciálnej strednej škole, učilišti, odbornom učilišti, praktickej škole, stredisku odbornej praxe alebo v stredisku praktického vyučovania po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
+03 Výchovno-vzdelávacia činnosť, ktorú vykonáva učiteľ základnej umeleckej školy, zameraná na posudzovanie talentu žiakov, rozvoj schopností, zručností a návykov a osvojovanie si vedomostí a zručnosti, rozvoj umeleckej tvorivosti, príprava žiakov na vyšší stupeň odborného vzdelávania na stredných školách a vysokých školách umelecko-pedagogického zamerania a odborná práca v príslušnom umeleckom odbore v prípravnom štúdiu, v štúdiu na prvom a druhom stupni základného štúdia a v štúdiu pre dospelých v základnej umeleckej škole po splnení podmienok ustanovených všeobecne záväzným právnym predpisom.<sup>25</sup>)
+
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
-01 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností a zručností žiakov v čase mimo vyučovania, v oblasti využívania voľného času, spoločenských a prírodných vied, na prácu s deťmi a žiakmi s postihnutím, ktorí sú začlenení do štandardného vzdelávania v škole, v školskom zariadení, v zariadení pre pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou, v zariadení sociálnych služieb alebo v športovom stredisku mládeže, ktorú vykonáva vychovávateľ s bakalárskym vzdelaním po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
+01 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností a zručností žiakov v čase mimo vyučovania, v oblasti využívania voľného času, spoločenských a prírodných vied, na prácu s deťmi a žiakmi s postihnutím, ktorí sú začlenení do štandardného vzdelávania v škole, v školskom zariadení, v zariadení pre pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou, v zariadení sociálnych služieb alebo v športovom stredisku mládeže, ktorú vykonáva vychovávateľ po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
 02 Výchovno-vzdelávacia činnosť zameraná na získavanie odborných vedomostí, praktických zručností a návykov žiakov v odboroch prípravy na povolanie so zreteľom na riešenie konkrétnych úloh v podmienkach praxe, ktorú vykonáva majster odbornej výchovy v strednom odbornom učilišti, združenej strednej škole, odbornom učilišti, učilišti, praktickej škole, stredisku praktického vyučovania alebo stredisku odbornej praxe po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
@@ -2898,8 +3068,6 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 01 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie vedomostí, zručností a návykov a na všestranný rozvoj osobnosti detí predškolského veku s využitím špecifických diagnostických, výchovných a vzdelávacích metód, spojená s poradenskou a metodickou činnosťou, ktorú vykonáva učiteľ materskej školy po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
-02 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností detí a mládeže v čase mimo vyučovania v oblasti využívania voľného času, spoločenských vied a prírodných vied vrátane spracúvania programov výchovnej a záujmovej činnosti, spojená s poradenskou činnosťou a diagnostikovaním, ktorú vykonáva vychovávateľ školy, školského zariadenia alebo zariadenia pre pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
-
 03 Výchovno-vzdelávacia činnosť zameraná na rozširovanie a prehlbovanie vedomostí, zručností a návykov detí s využitím výchovných a vzdelávacích metód, ktorú vykonáva učiteľ základnej školy alebo strednej školy do splnenia podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
 04 Výchovno-vzdelávacia individuálne orientovaná činnosť so zdravotne postihnutými deťmi a mládežou s narušeným psycho-sociálnym vývinom zameraná na rozširovanie a prehlbovanie ich vedomostí, zručností a návykov, ktorú vykonáva učiteľ špeciálnej školy alebo zariadenia pre pracovnú rehabilitáciu do splnenia podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
@@ -2910,7 +3078,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.7.5. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -2918,19 +3086,15 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 02 Pedagogická činnosť vo vymedzenej oblasti vzdelávania, vedenie cvičení a podieľanie sa na zabezpečovaní ostatných vzdelávacích aktivít v bakalárskych študijných odboroch, ktorú vykonáva učiteľ vysokej školy.
 
+03 Výchovno-vzdelávacia činnosť individuálne orientovaná na žiakov so špeciálnymi výchovno-vzdelávacími potrebami systematicky doplňujúca školskú výučbu zameraná na rozvíjanie ich tvorivých schopností a zručností vykonávaná vychovávateľom špeciálnej školy, špeciálneho školského zariadenia alebo zariadenia sociálnych služieb po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
+
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
 01 Výchovno-vzdelávacia činnosť, ktorú vykonáva učiteľ špeciálnej materskej školy, zameraná na rozvíjanie vedomostí, zručností, návykov a na všestranný rozvoj osobnosti detí predškolského veku so špeciálnymi výchovno-vzdelávacími potrebami s využitím špecifických diagnostických, výchovných a vzdelávacích metód, spojená s poradenskou a metodickou činnosťou po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
-02 Výchovno-vzdelávacia činnosť, ktorú vykonáva učiteľ materskej školy, zameraná na rozvíjanie vedomostí, zručností, návykov, tvorivých schopností a na všestranný rozvoj osobnosti detí predškolského veku s využitím špecifických diagnostických, výchovných, vzdelávacích a kontrolných metód, spojená s poradenskou a metodickou činnosťou po vykonaní skúšky podľa osobitného všeobecne záväzného právneho predpisu.<sup>25</sup>)
-
 03 Výchovno-vzdelávacia činnosť zameraná na všestranný rozvoj detí predškolského veku, na formovanie vedomostí, zručností, návykov a tvorivých schopností vrátane spolupráce pri tvorbe variabilných metodických postupov v pedagogickej práci s deťmi predškolského veku s využitím špecifických diagnostických, variabilných výchovných a vzdelávacích metód, spojená s poradenskou a metodickou činnosťou, ktorú vykonáva učiteľ materskej školy po splnení podmienok podľa osobitného všeobecne záväzného právneho predpisu. 25)
 
-04 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností detí a mládeže v čase mimo vyučovania v oblasti spoločenských a prírodných vied vrátane vypracúvania programov výchovnej a záujmovej činnosti, spojená s poradenskou činnosťou a diagnostikovaním, ktorú vykonáva vychovávateľ školského zariadenia, športového strediska mládeže, vychovávateľ pre deti alebo dospelých občanov v zariadeniach sociálnych služieb po vykonaní skúšky podľa osobitného všeobecne záväzného právneho predpisu.<sup>25</sup>)
-
 05 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností detí a mládeže v čase mimo vyučovania v oblasti využívania voľného času, spoločenských vied a prírodných vied vrátane vypracúvania programov výchovnej a záujmovej činnosti alebo výchovno-vzdelávacia činnosť s deťmi a žiakmi so špeciálnymi výchovno-vzdelávacími potrebami spojená s poradenskou činnosťou a diagnostikovaním, ktorú vykonáva vychovávateľ školy alebo školského zariadenia, alebo zariadenia pre pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
-
-06 Výchovno-vzdelávacia činnosť individuálne orientovaná na žiakov so špeciálnymi výchovno-vzdelávacími potrebami systematicky doplňujúca školskú výučbu, zameraná na rozvíjanie ich tvorivých schopností a zručností, ktorú vykonáva vychovávateľ špeciálnej školy, špeciálneho školského zariadenia alebo zariadenia sociálnych služieb po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
 07 Výchovno-vzdelávacia činnosť zameraná na rozširovanie a prehlbovanie vedomostí, zručností a návykov detí alebo mládeže s využitím špecifických diagnostických, vzdelávacích a kontrolných metód, ktorú vykonáva učiteľ základnej školy alebo strednej školy po splnení podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
@@ -2954,11 +3118,11 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 17 Zabezpečovanie výchovy alebo prípravy športového družstva, vypracúvanie komplexných plánov športovej prípravy a samotná príprava reprezentantov SR (účastníkov majstrovstiev sveta, olympijských hier alebo majstrovstiev Európy).
 
-18 Vykonávanie športových činností v športových strediskách vrcholového športu s umiestnením sa v prvej tretine štartového poľa na majstrovstvách sveta alebo na olympijských hrách, do desiateho miesta na majstrovstvách Európy, do tretieho miesta na majstrovstvách sveta juniorov alebo majstrovstvách Európy juniorov.
+18 Vykonávanie športových činností v športových strediskách vrcholového športu s umiestnením sa v prvej tretine štartového poľa na majstrovstvách sveta alebo na olympijských hrách, do 10. miesta na majstrovstvách Európy, do šiesteho miesta na majstrovstvách sveta juniorov alebo majstrovstvách Európy juniorov.
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -2998,11 +3162,11 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 18 Zabezpečovanie a vykonávanie trénerských činností v príprave reprezentantov zaradených v strediskách vrcholového športu, v športových školách alebo v športových triedach s umiestnením do šiesteho miesta na majstrovstvách sveta alebo na majstrovstvách sveta juniorov, alebo na olympijských hrách, do tretieho miesta na majstrovstvách Európy alebo na majstrovstvách Európy juniorov, alebo prekonanie európskeho rekordu.
 
-19 Vykonávanie športových činností v strediskách vrcholového športu s umiestnením sa do šiesteho miesta na majstrovstvách sveta alebo na majstrovstvách sveta juniorov, alebo na olympijských hrách, do tretieho miesta na majstrovstvách Európy alebo na majstrovstvách Európy juniorov, alebo prekonanie európskeho rekordu.
+19 Vykonávanie športových činností v športových strediskách vrcholového športu s umiestnením sa do šiesteho miesta na majstrovstvách sveta alebo na olympijských hrách, do tretieho miesta na majstrovstvách Európy alebo na majstrovstvách sveta juniorov alebo majstrovstvách Európy juniorov alebo prekonanie európskeho rekordu.
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -3026,11 +3190,11 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 10 Zabezpečovanie a vykonávanie trénerských činností v príprave reprezentantov v strediskách vrcholového športu s umiestnením do tretieho miesta na majstrovstvách sveta alebo na majstrovstvách sveta juniorov, alebo na olympijských hrách, vybojovanie prvého miesta na majstrovstvách Európy alebo na majstrovstvách Európy juniorov, alebo prekonanie svetového rekordu.
 
-11 Vykonávanie športových činností v strediskách vrcholového športu s umiestnením sa do tretieho miesta na majstrovstvách sveta alebo na majstrovstvách sveta juniorov, alebo na olympijských hrách, vybojovanie prvého miesta na majstrovstvách Európy alebo na majstrovstvách Európy juniorov, alebo prekonanie svetového rekordu.
+11 Vykonávanie športových činností v športových strediskách vrcholového športu s umiestnením sa do tretieho miesta na majstrovstvách sveta alebo olympijských hrách, vybojovanie prvého miesta na majstrovstvách Európy alebo majstrovstvách sveta juniorov alebo majstrovstvách Európy juniorov alebo prekonanie svetového rekordu.
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -3038,7 +3202,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 14. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 14.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -3084,7 +3248,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -3092,7 +3256,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -3100,7 +3264,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -3110,7 +3274,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -3120,7 +3284,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -3138,7 +3302,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -3150,7 +3314,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 14. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 14.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -3186,7 +3350,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -3194,7 +3358,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -3202,7 +3366,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -3210,7 +3374,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -3218,7 +3382,7 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -3272,15 +3436,19 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 07 Samostatná odborná práca na vymedzenom úseku rozhodovacieho procesu priznávania dávok sociálneho zabezpečenia alebo výsluhového zabezpečenia príslušníkov ozbrojených zložiek.
 
+08 Samostatná odborná práca v oblasti zaistených motorových vozidiel v rezorte ministerstva vnútra.
+
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
 01 Technická práca na úseku linkového a rádiového spojenia vrátane technického servisu telekomunikačných zariadení a systémov v rezorte ministerstva vnútra alebo ministerstva obrany vykonávaná zamestnancom po získaní osvedčenia o odbornej spôsobilosti.<sup>32</sup>)
 
-02 Odborná príprava vodičov služobných vozidiel a špeciálny výcvik vodičov služobných vozidiel v rezorte ministerstva vnútra alebo ministerstva obrany vykonávaná zamestnancom po získaní inštruktorského oprávnenia.<sup>34</sup>)
+02 Odborná príprava vodičov služobných vozidiel a špeciálny výcvik vodičov služobných vozidiel v rezorte ministerstva vnútra alebo ministerstva obrany, alebo obecnej polície vykonávaná zamestnancom po získaní inštruktorského oprávnenia.<sup>34</sup>)
+
+03 Organizovanie a vykonávanie výučby a výcviku obsluhy motorových vozidiel zamestnancom po vykonaní skúšky podľa osobitného predpisu.<sup>34</sup>)
 
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -3290,7 +3458,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -3302,7 +3470,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
@@ -3310,7 +3478,7 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -3320,13 +3488,21 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
 01 Tvorba koncepcie a programov dlhodobého rozvoja systému psychologickej služby v ozbrojených zložkách.
 
-21. ZDRAVOTNÍCTVO
+- 21. ZDRAVOTNÍCTVO
+
+05. PLATOVÁ TRIEDA
+
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+05.4.3. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
+
+01 Komplexná hygienická starostlivosť o chorých na lôžkových oddeleniach zdravotníckych zariadení vrátane asistencie sestre pri odborných liečebných a ošetrovateľských výkonoch vykonávaná zdravotníckym asistentom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
 06. PLATOVÁ TRIEDA
 
@@ -3334,25 +3510,23 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 06.4.4. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
-01 Základné hematologické, imunologické a hemokoagulačné laboratórne vyšetrenia, odber vzoriek krvi na špeciálne hematologické vyšetrenia, základné vyšetrenia hodnôt krvných zložiek vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+01 Základné hematologické, imunologické a hemokoagulačné laboratórne vyšetrenia, odber vzoriek krvi na špeciálne hematologické vyšetrenia, základné vyšetrenia hodnôt krvných zložiek vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-02 Asistencia farmaceutovi pri individuálnej príprave liečivých prípravkov všetkých liekových foriem a hromadnej príprave liečiv v šaržiach, spolupráca pri zabezpečovaní, uchovávaní, kontrole a výdaji doplnkového sortimentu a zdravotníckych pomôcok vykonávaná farmaceutickým laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+02 Asistencia farmaceutovi pri individuálnej príprave liekov všetkých liekových foriem a hromadnej príprave liečiv v šaržiach, spolupráca pri zabezpečovaní, uchovávaní, kontrole, príprave liekov a výdaji doplnkového sortimentu a zdravotníckych pomôcok vykonávaná farmaceutickým laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-03 Podiel na vykonávaní štátneho zdravotného a potravinového dozoru v oblasti hygieny a epidemiológie vrátane meraní, odberu vzoriek a ukladaní blokových pokút vykonávaný asistentom hygieny a epidemiológie po overení odbornej spôsobilosti.<sup>20</sup>)
+03 Podiel na vykonávaní štátneho zdravotného a potravinového dozoru v oblasti hygieny a epidemiológie vrátane meraní, odberu vzoriek a ukladaní blokových pokút vykonávaný asistentom hygieny a epidemiológie po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-04 Základné histologické a cytologické techniky pri príprave a spracúvaní bioptického alebo nekroptického materiálu vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+04 Základné laboratórne vyšetrenia v odbore lekárskej mikrobiológie, klinickej biochémie alebo mikrobiológie a biológie životného prostredia vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-05 Základné laboratórne vyšetrenia v odbore lekárskej mikrobiológie vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+05 Základná rádiodiagnostická skiagrafia a asistencia pri zložitejších skiaskopických vyšetreniach s kontrastnými látkami alebo zložitejších rádiodiagnostických, rádioterapeutických vyšetreniach vykonávaná rádiologickým asistentom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-06 Základná rádiodiagnostická skiagrafia a asistencia pri zložitejších skiaskopických vyšetreniach s kontrastnými látkami alebo zložitejších rádiodiagnostických vyšetreniach vykonávaná rádiologickým asistentom po overení odbornej spôsobilosti.<sup>20</sup>)
+06 Základné laboratórne vyšetrenia, príprava biologického materiálu, jeho testovanie a analyzovanie v odbore lekárskej genetiky vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-07 Základné laboratórne vyšetrenia, príprava biologického materiálu, jeho testovanie a analyzovanie v odbore lekárskej genetiky vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+07 Ošetrovateľská starostlivosť o pacientov na lôžkovom oddelení zdravotníckych zariadení alebo kúpeľných liečební, asistencia lekárovi a sestre špecialistke pri liečebných, diagnostických a ošetrovateľských výkonoch vykonávaná sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-08 Ošetrovateľská a hygienická starostlivosť o pacientov na lôžkových oddeleniach, asistencia lekárovi a sestre špecialistke pri liečebných, diagnostických a ošetrovateľských výkonoch vykonávaná sestrou po overení odbornej spôsobilosti.<sup>20</sup>)
+08 Individuálna a skupinová liečebná rehabilitácia, zácvik používania ortopedických a protetických pomôcok alebo prístrojov a fyzikálna terapia vykonávaná fyzioterapeutom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-09 Individuálna a skupinová liečebná rehabilitácia, zácvik používania ortopedických a protetických pomôcok alebo prístrojov a fyzikálna terapia vykonávaná rehabilitačným asistentom po overení odbornej spôsobilosti.<sup>20</sup>)
-
-10 Asistencia pri zabezpečovaní liečebnej výživy pre pacientov v lôžkových zdravotníckych zariadeniach a pri kontrole prípravy a výdaja stravy vykonávaná asistentom výživy po overení odbornej spôsobilosti.<sup>20</sup>)
+09 Asistencia pri zabezpečovaní liečebnej výživy pacientov v zdravotníckych zariadeniach a pri kontrole prípravy a výdaja stravy vykonávaná asistentom výživy alebo sestrou v mliečnej kuchyni po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
 07. PLATOVÁ TRIEDA
 
@@ -3360,305 +3534,301 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 07.4.5. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
-01 Laboratórne vyšetrovanie podľa predpísaných metód na úseku klinickej biochémie vrátane výpočtu a analýzy nameraných hodnôt, špeciálne odbery biologického materiálu a jeho predanalytické spracúvanie vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+01 Odborné histologické a cytologické techniky pri príprave a spracúvaní bioptického alebo nekroptického materiálu vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-02 Základné funkčné rádionuklidové a gamagrafické vyšetrenia, asistencia pri ožarovaní pacientov na kobaltových ožarovačoch a prístrojoch na povrchovú a hĺbkovú terapiu na oddelení nukleárnej medicíny alebo rádioterapie vykonávané rádiologickým asistentom po overení odbornej spôsobilosti.<sup>20</sup>)
+02 Laboratórne vyšetrovanie podľa predpísaných metód na úseku klinickej biochémie vrátane výpočtu a analýzy nameraných hodnôt, špeciálne odbery biologického materiálu a jeho predanalytické spracúvanie vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-03 Odborná ošetrovateľská starostlivosť v ambulancii primárnej starostlivosti vykonávaná sestrou po získaní dlhodobej prípravy.<sup>20</sup>)
+03 Ošetrovanie chorých, ranených a rodičiek, príprava na transport, poskytovanie základnej neodkladnej pomoci pri stavoch ohrozujúcich zdravie alebo život pod vedením lekára alebo zdravotníckeho záchranára špecialistu vykonávané zdravotníckym záchranárom alebo sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-04 Komplexná hygienická a ošetrovateľská starostlivosť o pacientov na lôžkových nemocničných oddeleniach vrátane asistencie lekárovi vykonávaná sestrou po overení odbornej spôsobilosti.<sup>20</sup>)
+04 Imunologické, sérologické a virologické vyšetrenia vrátane diferencovania náterov krvných a ostatných telesných tekutín vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-05 Samostatná odborná ošetrovateľská starostlivosť o pacientov v ambulancii na špeciálnych úsekoch činnosti (napr. funkčná diagnostika, EEG, EKG, audiometria) vykonávaná sestrou po získaní dlhodobej prípravy.<sup>20</sup>)
+05 Laboratórne vyšetrenia podľa predpísaných metód na úseku tkanivového bankovníctva vrátane predanalytického spracúvania vzoriek vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-06 Ošetrovanie chorých, ranených a rodičiek, príprava na transport, poskytovanie základnej neodkladnej pomoci pri stavoch ohrozujúcich zdravie alebo život pod vedením lekára alebo zdravotníckeho záchranára špecialistu vykonávané zdravotníckym záchranárom po overení odbornej spôsobilosti.<sup>20</sup>)
+06 Laboratórne vyšetrenia podľa predpísaných metód v odbore lekárskej mikrobiológie, klinickej mikrobiológie alebo mikrobiológie a biológie životného prostredia vykonávané zdravotníckym laborantom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-07 Imunologické, sérologické a virologické vyšetrenia vrátane diferencovania náterov krvných a ostatných telesných tekutín vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+07 Samostatná odborná práca pri zabezpečovaní liečebnej výživy pacientov v zdravotníckych zariadeniach, odborný dohľad nad prípravou a výdajom stravy vykonávané asistentom výživy po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-08 Laboratórne vyšetrenia podľa predpísaných metód na úseku tkanivového bankovníctva vrátane predanalytického spracúvania vzoriek vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
+08 Odborná práca pri vedení zdravotnej dokumentácie a vypracúvanie povinných hlásení a štatistických výkazov za príslušný zdravotnícky odbor vykonávaná zdravotníckym asistentom alebo sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-09 Laboratórne vyšetrenia podľa predpísaných metód v odbore lekárskej alebo klinickej mikrobiológie vykonávané zdravotným laborantom po overení odbornej spôsobilosti.<sup>20</sup>)
-
-10 Samostatné odborné práce pri zabezpečovaní liečebnej výživy pacientov v lôžkových nemocničných oddeleniach, odborný dohľad nad prípravou a výdajom stravy pri tabletovom systéme vykonávané asistentom výživy po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-11 Samostatná odborná ošetrovateľská starostlivosť o pacientov v odbornej ambulancii vykonávaná sestrou po získaní dlhodobej prípravy.<sup>20</sup>)
-
-12 Odborná práca pri vedení zdravotnej dokumentácie a vypracúvanie povinných hlásení a štatistických výkazov za príslušný zdravotnícky odbor vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+09 Príprava individuálne pripravovaných liekov alebo hromadne pripravovaných liekov, ak neobsahujú silno a veľmi silno účinné látky podľa Slovenského liekopisu alebo laboratórnych diagnostík a cytostatík a odborná práca pri kontrole, zabezpečovaní a uchovávaní liekov a zdravotníckych pomôcok vykonávané farmaceutickým laborantom v špecializačnej príprave.<sup>20</sup>)
 
 07.6.1. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
-01 Merania a odbery vzoriek pri sledovaní faktorov životného a pracovného prostredia, vzoriek na expozičné testy a odbery biologického materiálu vrátane prípravy podkladov na vydávanie nápravných opatrení vykonávané diplomovaným asistentom hygieny a epidemiológie.
+01 Merania a odbery vzoriek pri sledovaní faktorov životného a pracovného prostredia, vzoriek na expozičné testy a odbery biologického materiálu vrátane prípravy podkladov na vydávanie nápravných opatrení vykonávané diplomovaným asistentom hygieny a epidemiológie po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+02 Samostatná rehabilitačná práca na úseku liečebnej telesnej výchovy individuálne i v skupinách, na úseku fyzikálnej terapie a asistencia pri odborných liečebných výkonoch vykonávané fyzioterapeutom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+03 Základné funkčné rádionuklidové a gamagrafické vyšetrenia, asistencia pri ožarovaní pacientov na kobaltových ožarovačoch a prístrojoch na povrchovú a hĺbkovú terapiu alebo asistencia pri zložitejších skiaskopických vyšetreniach s kontrastnými látkami alebo zložitejších rádiodiagnostických vyšetreniach na oddelení nukleárnej medicíny, rádioterapie alebo rádiodiagnostiky vykonávané rádiologickým asistentom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+04 Odborná ošetrovateľská starostlivosť v ambulancii primárnej starostlivosti vykonávaná sestrou po získaní certifikátu v príslušnom odbore.<sup>20</sup>)
+
+05 Komplexná ošetrovateľská starostlivosť o pacientov na lôžkovom oddelení zdravotníckych zariadení alebo kúpeľných liečební vrátane asistencie lekárovi vykonávaná sestrou alebo komplexná ošetrovateľská starostlivosť o ženu na gynekologicko-pôrodníckom oddelení zdravotníckych zariadení a pôrodných sálach vrátane asistencie lekárovi vykonávaná pôrodnou asistentkou, po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+06 Samostatná odborná ošetrovateľská starostlivosť o pacientov v ambulancii na špeciálnych úsekoch činností (napr. funkčná diagnostika, EEG, EKG, audiometria, transfúzne oddelenie, poliklinické oddelenie klinickej onkológie, sonografia, angiografia) alebo v diabetologickej ambulancii vykonávaná sestrou po získaní certifikátu v príslušnom odbore.<sup>20</sup>)
+
+07 Samostatná odborná ošetrovateľská starostlivosť o pacientov v odbornej ambulancii vykonávaná sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
-01 Laboratórne vyšetrenia podľa predpísaných metód v odbore klinickej mikrobiológie, na zabezpečenie bakteriologickej, virologickej, imunologickej, mykologickej alebo parazitologickej diagnostiky vykonávané zdravotným laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+01 Laboratórne vyšetrenia podľa predpísaných metód na zabezpečenie bakteriologickej, virologickej, imunologickej, mykologickej alebo parazitologickej diagnostiky v odbore klinickej mikrobiológie alebo mikrobiológie a biológie životného prostredia vykonávané zdravotníckym laborantom po získaní špecialízácie v príslušnom odbore.<sup>20</sup>)
 
 02 Chemicko-analytické, mikrobiologické a farmakologické skúšky pri laboratórnej kontrole liekov a skúšok zdravotníckych pomôcok vykonávané farmaceutickým laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-03 Odborná spolupráca pri zabezpečovaní, príprave a kontrole liečiv alebo zabezpečovanie, uchovávanie a výdaj zdravotníckych potrieb, pomôcok, lekárenského doplnkového sortimentu a liekov, ktorých výdaj nie je viazaný na lekársky predpis, vykonávaná farmaceutickým laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+03 Odborná práca pri zabezpečovaní, príprave a kontrole liekov, zabezpečovanie, uchovávanie a výdaj zdravotníckych pomôcok, lekárenského doplnkového sortimentu a liekov, ktorých výdaj nie je viazaný na lekársky predpis, vykonávaná farmaceutickým laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-04 Samostatný štátny zdravotný dozor, zisťovanie rizík vplývajúcich na zdravie ľudí, návrh opatrení na ochranu a podporu zdravia vykonávaný asistentom hygieny a epidemiológie po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+04 Hematologické a imunohematologické laboratórne vyšetrenia, diferencovanie patologických krvných obrazov, kostných drení a uzlín vykonávané zdravotníckym laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Štátny zdravotný dozor na pracoviskách so zdrojmi ionizujúceho žiarenia a pri manipulácii s rádioaktívnym odpadom vykonávaný asistentom hygieny a epidemiológie po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+05 Samostatné chemické a fyzikálne analýzy s cieľom detekcie rizikových faktorov zo zložiek životného a pracovného prostredia v štátnom zdravotnom ústave vykonávané zdravotníckym laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-06 Hematologické a imunohematologické laboratórne vyšetrenia, diferencovanie patologických krvných obrazov, kostných drení a uzlín vykonávané zdravotným laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+06 Imunologické alebo infektologické laboratórne vyšetrenia biologického materiálu a protilátok vykonávané zdravotníckym laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-07 Samostatné chemické a fyzikálne analýzy s cieľom detekcie rizikových faktorov zo zložiek životného a pracovného prostredia v štátnom zdravotnom ústave vykonávané zdravotným laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+07 Špecializované biochemické alebo toxikologické laboratórne vyšetrenia podľa predpísaných metód, funkčné vyšetrenia obličiek, pečene, glycidového a lipidového metabolizmu, vyšetrenia enzýmov a vnútorného prostredia vykonávané zdravotníckym laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-08 Imunologické alebo infektologické laboratórne vyšetrenia biologického materiálu a protilátok vykonávané zdravotným laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+08 Odborná laboratórna práca na niektorom z úsekov histológie, histochémie, cytológie alebo imunohistochémie vykonávaná zdravotníckym laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-09 Špecializované biochemické alebo toxikologické laboratórne vyšetrenia podľa predpísaných metód, funkčné vyšetrenia obličiek, pečene, glycidového a lypidového metabolizmu, vyšetrenia enzýmov a vnútorného prostredia vykonávané zdravotným laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+09 Cytogenetické, genealogické a antropogenetické vyšetrenia vrátane vykonávania špeciálnych farbiacich metód v odbore lekárskej genetiky vykonávané zdravotníckym laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-10 Špecializovaná laboratórna práca, diagnostické alebo rádioizotopové vyšetrenia v odbore nukleárnej medicíny alebo rádioterapie vykonávané rádiologickým asistentom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+10 Zabezpečovanie liečebnej výživy a stravovania zo stránky dietetickej, hospodárskej a prevádzkovej v lôžkovom zdravotníckom zariadení vrátane vypracúvania vhodných receptúr jedál a informačných pokynov na ich prípravu vykonávané asistentom výživy po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-11 Odborná laboratórna práca na niektorom z úsekov histológie, histochémie, cytológie alebo imunohistochémie vykonávaná zdravotným laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-12 Špecializované skiagrafické vyšetrenia, špeciálne vyšetrenia na lokalizáciu cudzích telies vrátane asistencie pri náročných kontrastných vyšetreniach vykonávané rádiologickým asistentom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-13 Cytogenetické, genealogické a antropogenetické vyšetrenia vrátane vykonávania špeciálnych farbiacich metód v odbore lekárskej genetiky vykonávané zdravotným laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-14 Odborné liečebné rehabilitačné úkony na úseku fyzikálnej terapie, ergoterapie a liečebnej telesnej výchovy vykonávané rehabilitačným asistentom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-15 Zabezpečovanie liečebnej výživy a stravovania zo stránky dietetickej, hospodárskej a prevádzkovej v lôžkovom zdravotníckom zariadení vrátane vypracúvania vhodných receptúr jedál a informačných pokynov na ich prípravu vykonávané asistentom výživy po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-16 Zisťovanie sociálnej anamnézy chorého a sprostredkovanie sociálnej a právnej pomoci chorým vrátane poskytovania základných a zložitejších zdravotno-sociálnych služieb vyžadujúcich styk s orgánmi miestnej štátnej správy, súdov a iných právnických osôb a fyzických osôb vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-17 Samostatná odborná práca na špecializovanom poliklinickom oddelení pre liečbu tuberkulózy a respiračných chorôb vykonávaná kalmetizačnou alebo dispenzárnou sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-18 Samostatná odborná práca v rozhodovaní a posudzovaní dôležitosti a urgentnosti ohlásených stavov na poskytnutie základnej neodkladnej pomoci pri stavoch ohrozujúcich zdravie alebo život vykonávaná zdravotníckym záchranárom na dispečingu po získaní špecializácie v odbore anestéziológia, resuscitácia a intenzívna starostlivosť.<sup>20</sup>)
-
-19 Príprava setov inštrumentov a zdravotníckeho materiálu, ich dezinfekcia a sterilizácia vrátane kontroly efektu sterilizácie a dezinfekcie pre potreby zdravotníckeho zariadenia vykonávaná sestrou po získaní špecializácie v centrálnej sterilizácii.<sup>20</sup>)
-
-20 Odborná práca spojená so sledovaním vitálnych funkcií pacienta po podaní premedikácie a spolupráca s lekárom anestéziológom počas operačných výkonov a zákrokov vykonávaná sestrou po získaní špecializácie v odbore anestéziológia, resuscitácia a intenzívna starostlivosť.<sup>20</sup>)
-
-21 Komplexná ošetrovateľská starostlivosť pri ošetrovaní starých, dlhodobo chorých a multimorbídnych pacientov na geriatrickom lôžkovom oddelení vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-22 Samostatná ošetrovateľská práca pri psychoterapii, režimovej, kognitívnej a behaviorálnej terapii na lôžkovom oddelení psychiatrie alebo v centrách liečby drogových závislostí vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-23 Komplexná ošetrovateľská starostlivosť v domácom prostredí pacienta vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-24 Samostatná ošetrovateľská práca na lôžkových oddeleniach pre fyziologických alebo patologických novorodencov alebo na nedonoseneckých oddeleniach vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-25 Asistencia lekárovi pri endoskopických vyšetreniach vrátane špecializovaných prác pri odberoch materiálov na bakteriologické, cytologické alebo histologické vyšetrenia vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-26 Odborná ošetrovateľská starostlivosť vrátane zvýšenej hygienickej starostlivosti o pacientov po aplikácii rádioaktívnych žiaričov na lôžkových oddeleniach nukleárnej medicíny alebo rádioterapie vykonávaná sestrou po overení odbornej spôsobilosti.<sup>20</sup>)
+11 Samostatná odborná práca v rozhodovaní a posudzovaní dôležitosti a urgentnosti ohlásených stavov na poskytnutie základnej neodkladnej pomoci pri stavoch ohrozujúcich zdravie alebo život vykonávaná zdravotníckym záchranárom alebo sestrou na dispečingu po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
 08.6.4. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
-01 Samostatná odborná práca pri zabezpečovaní komplexného ošetrovateľského procesu a vykonávanie odborných ošetrovateľských prác na detskom lôžkovom oddelení diplomovanou detskou sestrou.
+01 Samostatný štátny zdravotný dozor, zisťovanie rizík vplývajúcich na zdravie ľudí, návrh opatrení na ochranu a podporu zdravia vykonávaný asistentom hygieny a epidemiológie po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+
+02 Štátny zdravotný dozor na pracoviskách so zdrojmi ionizujúceho žiarenia a pri manipulácii s rádioaktívnym odpadom vykonávaný asistentom hygieny a epidemiológie po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+
+03 Samostatná odborná práca pri zabezpečovaní komplexného ošetrovateľského procesu a vykonávanie odborných ošetrovateľských prác na lôžkových oddeleniach zdravotníckych zariadení a oddeleniach centrálneho príjmu vykonávané sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+04 Samostatná odborná laboratórna práca, diagnostické alebo rádioizotopové vyšetrenia v odbore nukleárnej medicíny, rádiodiagnostiky alebo rádioterapie vykonávané rádiologickým asistentom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+05 Samostatné odborné skiagrafické vyšetrenia, špeciálne vyšetrenia na lokalizáciu cudzích telies vrátane asistencie pri náročných kontrastných vyšetreniach vykonávané rádiologickým asistentom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+06 Odborná liečebná rehabilitačná práca na úseku fyzikálnej terapie, ergoterapie a liečebnej telesnej výchovy vykonávaná fyzioterapeutom po získaní certifikátu v príslušnom odbore.<sup>20</sup>)
+
+07 Zisťovanie sociálnej anamnézy chorého a sprostredkovanie sociálnej a právnej pomoci chorým vrátane poskytovania základných a zložitejších zdravotno-sociálnych služieb vyžadujúcich styk s orgánmi miestnej štátnej správy, súdov a iných právnických osôb a fyzických osôb vykonávané sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+08 Samostatná odborná práca na špecializovanom poliklinickom oddelení na liečbu tuberkulózy a respiračných chorôb vykonávaná kalmetizačnou alebo dispenzárnou sestrou po získaní certifikátu v príslušnom odbore.<sup>20</sup>)
+
+09 Príprava setov inštrumentov a zdravotníckeho materiálu, ich dezinfekcia a sterilizácia vrátane kontroly efektu sterilizácie a dezinfekcie pre potreby zdravotníckeho zariadenia vykonávaná sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+10 Odborná práca spojená so sledovaním vitálnych funkcií pacienta po podaní premedikácie a spolupráca s lekárom anestéziológom počas operačných výkonov a zákrokov vykonávané sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+11 Samostatná ošetrovateľská práca pri psychoterapii, režimovej, kognitívnej a behaviorálnej terapii na lôžkovom oddelení psychiatrie alebo v centrách liečby drogových závislostí vykonávaná sestrou po získaní certifikátu v príslušnom odbore.<sup>20</sup>)
+
+12 Komplexná ošetrovateľská starostlivosť v domácom prostredí pacienta vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+
+13 Asistencia lekárovi pri endoskopických vyšetreniach vrátane špecializovaných prác pri odberoch materiálov na bakteriologické, cytologické alebo histologické vyšetrenia alebo špecializovaná práca pri podávaní chemoterapie na poliklinických chemoterapeutických oddeleniach vykonávané sestrou po získaní certifikátu v príslušnom odbore.<sup>20</sup>)
+
+14 Odborná ošetrovateľská starostlivosť vrátane zvýšenej hygienickej starostlivosti o pacientov po aplikácii rádioaktívnych žiaričov na diagnostických pracoviskách nukleárnej medicíny alebo rádioterapie vykonávaná sestrou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+15 Odborné preventívne a terapeutické činnosti vykonávané diplomovanou dentálnou hygieničkou po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+16 Analýza a vyhodnocovanie technologických možností protetického riešenia objednávky stomatológa, rozhodovanie o použití technologických postupov a stomatologických materiálov, vyhodnocovanie všetkých druhov stomatologických protéz, čeľustno-ortopedických aparátov, epitéz a liečebných pomôcok, spolupráca pri vývoji a zavádzaní nových technológií, materiálov a nástrojov, organizovanie a riadenie práce v zubnej technike vykonávané diplomovaným zubným technikom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.5.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
-01 Samostatná odborná práca na jednotkách intenzívnej starostlivosti spojená s poskytovaním komplexnej ošetrovateľskej starostlivosti zameranej na sledovanie a monitorovanie fyziologických funkcií a prejavov pacienta na jeho celkový telesný a duševný stav s použitím zložitých zdravotníckych prístrojov a nástrojov vykonávaná sestrou po získaní špecializácie v odbore anestéziológia, resuscitácia a intenzívna starostlivosť.<sup>20</sup>)
-
-02 Ošetrovateľská starostlivosť o pacientov s akútnym alebo chronickým postihnutím funkcie obličiek alebo s akútnymi intoxikáciami na dialyzačnom oddelení vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-03 Samostatná odborná ošetrovateľská práca na základe individuálnych potrieb pacientov a samostatné ošetrovateľské výkony podľa ordinácie lekára v lôžkových nemocničných oddeleniach vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
-
-04 Samostatná odborná práca pri ošetrovaní chorých, ranených a rodičiek, príprava na transport, poskytovanie základnej neodkladnej pomoci pri stavoch ohrozujúcich zdravie alebo život vykonávaná zdravotníckym záchranárom po získaní špecializácie v odbore anestéziológia, resuscitácia a intenzívna starostlivosť.<sup>20</sup>)
-
-05 Samostatná odborná ošetrovateľská práca na lôžkovom oddelení nukleárnej medicíny zameraná na liečbu s otvorenými rádioaktívnymi žiaričmi vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+01 Poskytovanie odborných informácií a konzultácií o liekoch, ktorých výdaj nie je viazaný na lekársky predpis, o lekárenskom doplnkovom sortimente alebo poskytovanie odborných informácií a konzultácií v oblasti zdravotníckych pomôcok vykonávané farmaceutickým laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
 09.6.5. Pracovné činnosti vyžadujúce vyššie odborné vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
-01 Hormonálne, imunochemické, toxikologické, hematologické alebo imunohematologické vyšetrenia vrátane výpočtu a analýzy nameraných hodnôt vykonávané diplomovaným medicínsko-technickým laborantom.
+01 Hormonálne, imunochemické, toxikologické, hematologické alebo imunohematologické vyšetrenia vrátane výpočtu a analýzy nameraných hodnôt vykonávané diplomovaným medicínsko-technickým laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-02 Samostatné odborné spracúvanie bioptického a nekroptického materiálu a vykonávanie imunohistochemických, imunoenzýmohistologických, histochemických alebo elektromikroskopických laboratórnych vyšetrení vrátane cytologického skríningu v odbore patológia alebo súdne lekárstvo vykonávané diplomovaným medicínsko-technickým laborantom.
+02 Samostatné odborné spracúvanie bioptického a nekroptického materiálu a vykonávanie imunohistochemických, imunoenzýmohistologických, histochemických alebo elektromikroskopických laboratórnych vyšetrení vrátane cytologického skríningu v odbore patológia alebo súdne lekárstvo vykonávané diplomovaným medicínsko-technickým laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-03 Samostatné vykonávanie štátneho zdravotného dozoru, zber, príprava a spracúvanie vzoriek slúžiacich na analyzovanie zdravia obyvateľstva vrátane prípravy návrhu opatrení, sankcií a blokových pokút vykonávané diplomovaným asistentom hygieny a epidemiológie.
+03 Samostatné vykonávanie štátneho zdravotného dozoru, zber, príprava a spracúvanie vzoriek slúžiacich na analyzovanie zdravia obyvateľstva vrátane prípravy návrhu opatrení, sankcií a blokových pokút vykonávané diplomovaným asistentom hygieny a epidemiológie po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-04 Odborné imunologické alebo mikrobiologické laboratórne vyšetrovanie podľa predpísaných metód vykonávané diplomovaným medicínsko-technickým laborantom.
+04 Odborné imunologické alebo mikrobiologické laboratórne vyšetrovanie podľa predpísaných metód vykonávané diplomovaným medicínsko-technickým laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Samostatná odborná ošetrovateľská práca na úseku starostlivosti o psychiatrických pacientov alebo pacientov drogovo závislých, monitorovanie vitálnych funkcií pacienta pred liečebným zákrokom, počas zákroku a po ňom so zameraním na mechanizmy osobnosti a na techniky zvládania stresu vrátane asistencie pri náročných terapeutických výkonoch lekára a psychoterapeuta vykonávaná diplomovanou psychiatrickou sestrou.
+05 Samostatná odborná práca pri ošetrovaní chorých, ranených a rodičiek, príprava na transport, poskytovanie základnej neodkladnej pomoci pri stavoch ohrozujúcich zdravie alebo život vykonávaná zdravotníckym záchranárom alebo sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-06 Samostatná odborná ošetrovateľská práca pri starostlivosti o tehotné ženy a šestonedieľky na gynekologicko-pôrodníckom oddelení vo všetkých oblastiach sekundárnej a následnej ošetrovateľskej starostlivosti vykonávaná diplomovanou pôrodnou asistentkou.
+06 Samostatná odborná ošetrovateľská práca na úseku starostlivosti o psychiatrických pacientov alebo pacientov drogovo závislých, monitorovanie vitálnych funkcií pacienta pred liečebným zákrokom, počas zákroku a po ňom so zameraním na mechanizmy osobnosti a na techniky zvládania stresu vrátane asistencie pri náročných terapeutických výkonoch lekára a psychoterapeuta vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-07 Samostatná odborná práca na operačných sálach spojená s prípravou na vykonanie operácie a inštrumentovanie pri náročných operačných výkonoch vykonávaná diplomovanou operačnou sestrou.
+07 Samostatná odborná ošetrovateľská práca pri starostlivosti o tehotné ženy a šestonedieľky na gynekologicko-pôrodníckom oddelení vo všetkých oblastiach sekundárnej a následnej ošetrovateľskej starostlivosti vykonávaná diplomovanou pôrodnou asistentkou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-09.7.4. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
+08 Samostatná odborná práca na operačných sálach spojená s prípravou na vykonanie operácie a inštrumentovanie pri náročných operačných výkonoch vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-01 Samostatná odborná ošetrovateľská práca sestry na lôžkovom oddelení vrátane podielu na organizovaní, koordinovaní a kontrole ošetrovateľskej starostlivosti a vyhodnocovaní individuálnych ošetrovateľských plánov.
+09 Samostatná odborná práca spojená s poskytovaním komplexnej ošetrovateľskej starostlivosti zameranej na sledovanie a monitorovanie fyziologických funkcií a prejavov pacienta na jeho celkový telesný a duševný stav s použitím zložitých zdravotníckych prístrojov a nástrojov na jednotkách intenzívnej starostlivosti, oddeleniach akútnej intenzívnej medicíny alebo na anestéziologických úsekoch vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-02 Koordinovanie a kontrola laboratórnych vyšetrení podľa predpísaných metód na spoločných vyšetrovacích a liečebných zložkách vrátane tvorby a vyhodnocovania laboratórnych plánov.
+10 Ošetrovateľská starostlivosť o pacientov s akútnym alebo chronickým postihnutím funkcie obličiek alebo s akútnymi intoxikáciami na dialyzačnom oddelení vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
+11 Špecializovaná ošetrovateľská starostlivosť poskytovaná metódou ošetrovateľského procesu a samostatné ošetrovateľské výkony podľa ordinácie lekára na lôžkových oddeleniach zdravotníckych zariadení vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-01 Príprava a realizácia epidemiologických štúdií, hodnotenie faktorov pracovného prostredia a životného prostredia na zdravie obyvateľstva vykonávané iným zdravotníckym zamestnancom po overení odbornej spôsobilosti.<sup>20</sup>)
+12 Samostatná odborná ošetrovateľská práca na lôžkovom oddelení nukleárnej medicíny zameraná na liečbu s otvorenými rádioaktívnymi žiaričmi vykonávaná sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-02 Odborné laboratórne vyšetrenia podľa predpísaných metód vrátane spracúvania základných analytických hodnotení na oddeleniach spoločných vyšetrovacích a liečebných zložiek vykonávané iným zdravotníckym zamestnancom po overení odbornej spôsobilosti.<sup>20</sup>)
+13 Samostatná špecializovaná práca na úseku liečebnej fyzioterapie a mobilizačnej terapie s využitím špeciálnych techník vrátane asistencie lekárovi pri diagnostických činnostiach vykonávaná fyzioterapeutom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-03 Základná diagnostická činnosť v laboratóriu lekárskej genetiky vykonávaná iným zdravotníckym zamestnancom po overení odbornej spôsobilosti.<sup>20</sup>)
+09.7.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie prvého stupňa, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
-04 Asistencia pri komplexnom zabezpečovaní psychodiagnostiky, psychoterapie a poradenskej činnosti vykonávaná psychológom po overení odbornej spôsobilosti.<sup>20</sup>)
+01 Samostatná odborná ošetrovateľská práca sestry na lôžkovom oddelení zdravotníckeho zariadenia alebo kúpeľnej liečebne vrátane podielu na organizovaní, koordinovaní a kontrole ošetrovateľskej starostlivosti a vyhodnocovaní individuálnych ošetrovateľských plánov po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Terapeuticko-výchovná pomoc pri integrácii, reedukácii a resocializácii jedinca do spoločnosti vykonávaná liečebným pedagógom po overení odbornej spôsobilosti.<sup>20</sup>)
+09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie druhého stupňa, orientačná dĺžka odbornej praxe nie je ustanovená:
 
-06 Farmaceutické laboratórne činnosti spojené s hodnotením kvality liekov alebo liečiv a liečivých prípravkov vykonávané farmaceutom po overení odbornej spôsobilosti.<sup>20</sup>)
+01 Príprava a realizácia epidemiologických štúdií, hodnotenie faktorov pracovného prostredia a životného prostredia na zdravie obyvateľstva vykonávané iným zdravotníckym zamestnancom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-07 Diagnostická a preventívno-liečebná činnosť vykonávaná lekárom po nástupnej praxi pod vedením lekára so špecializáciou v príslušnom odbore.
+02 Odborné laboratórne vyšetrenia podľa predpísaných metód vrátane spracúvania základných analytických hodnotení na oddeleniach spoločných vyšetrovacích a liečebných zložiek vykonávané iným zdravotníckym zamestnancom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-08 Štátny zdravotný a potravinový dozor, zisťovanie a spracúvanie údajov o zdravotnom stave obyvateľstva vo vzťahu k životným a pracovným podmienkam vykonávané lekárom pod vedením lekára so špecializáciou v príslušnom odbore.
+03 Asistencia pri komplexnom zabezpečovaní psychodiagnostiky, psychoterapie a poradenskej činnosti vykonávaná psychológom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-09 Asistencia pri diagnostických činnostiach spojených s poskytovaním zdravotnej starostlivosti a spracúvanie základných analytických hodnotení vykonávané iným odborným zamestnancom v zdravotníctve do overenia odbornej spôsobilosti.<sup>20</sup>)
+04 Terapeuticko-výchovná pomoc pri integrácii, reedukácii a resocializácii jedinca do spoločnosti vykonávaná liečebným pedagógom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-10 Odborná práca pri diagnostikovaní a terapii osôb s narušenou komunikačnou schopnosťou ľahkého a stredného stupňa alebo asistencia pri diagnostikovaní a terapii osôb s narušenou komunikačnou schopnosťou ťažkého stupňa vykonávaná logopédom po overení odbornej spôsobilosti.<sup>20</sup>)
+05 Farmaceutické laboratórne činnosti spojené s hodnotením kvality liekov alebo liečiv vykonávané farmaceutom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-10. PLATOVÁ TRIEDA
+06 Diagnostická a preventívno-liečebná činnosť vykonávaná lekárom alebo zubným lekárom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+07 Štátny zdravotný a potravinový dozor, zisťovanie a spracúvanie údajov o zdravotnom stave obyvateľstva vo vzťahu k životným a pracovným podmienkam vykonávané lekárom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-10.7.5. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
+08 Asistencia pri diagnostických činnostiach spojených s poskytovaním zdravotnej starostlivosti a spracúvanie základných analytických hodnotení vykonávané iným odborným zamestnancom v zdravotníctve po získaní osvedčenia o príprave na výkon práce v zdravotníctve.<sup>20</sup>)
+
+09 Odborná práca pri diagnostikovaní a terapii osôb s narušenou komunikačnou schopnosťou ľahkého a stredného stupňa alebo asistencia pri diagnostikovaní a terapii osôb s narušenou komunikačnou schopnosťou ťažkého stupňa vykonávaná logopédom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
+
+- 10. PLATOVÁ TRIEDA
+
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+- 10.7.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie prvého stupňa, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
 01 Organizácia, plánovanie, koordinovanie a kontrola ošetrovateľského procesu v rámci oddelenia alebo kliniky vrátane tvorby špecifických individuálnych ošetrovateľských postupov a plánov starostlivosti o pacienta vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 1 rok:
+- 10.8.3. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie druhého stupňa, orientačná dĺžka odbornej praxe viac ako 1 rok:
 
-01 Pitvanie a základné vyšetrovanie nekroptického alebo bioptického materiálu predpísanými histologickými alebo histochemickými technikami vykonávané lekárom pod vedením lekára so špecializáciou v príslušnom odbore.
+01 Koordinovanie a kontrola laboratórnych vyšetrení podľa predpísaných metód na spoločných vyšetrovacích a liečebných zložkách vrátane tvorby a vyhodnocovania laboratórnych plánov vykonávané laborantom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-02 Odborná laboratórna práca spojená s kontrolou kvality liekov a zdravotníckych pomôcok vrátane overovania liekopisných metód a postupov vykonávaná farmaceutom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+02 Pitvanie a základné vyšetrovanie nekroptického alebo bioptického materiálu predpísanými histologickými alebo histochemickými technikami vykonávané lekárom po získaní osvedčenia o nástupnej odbornej praxi.<sup>20</sup>)
 
-03 Samostatná odborná práca v lekárni pri výdaji liekov na lekársky predpis a zdravotníckych pomôcok na lekársky poukaz s odbornou informáciou pacientovi a poradenskou činnosťou o užívaní lieku vykonávaná farmaceutom po úspešnom absolvovaní prvého roku špecializačnej prípravy prvého stupňa.<sup>20</sup>)
+03 Odborná laboratórna práca spojená s kontrolou kvality liekov a zdravotníckych pomôcok vrátane overovania liekopisných metód a postupov vykonávaná farmaceutom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-04 Registrácia liečiv a certifikácia zdravotníckych pomôcok a sledovanie nežiaducich účinkov liečiv vrátane metrologického overovania prístrojov a určených meradiel vykonávané farmaceutom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+04 Samostatná odborná práca v lekárni pri poskytovaní lekárenskej starostlivosti vykonávaná farmaceutom po úspešnom absolvovaní prvého roku špecializačnej prípravy.<sup>20</sup>)
 
 05 Teoretická a praktická príprava vrátane praktickej výučby zdravotníckych zamestnancov v rámci ďalšieho odborného vzdelávania vykonávaná lektorom po získaní pedagogickej spôsobilosti.<sup>35</sup>)
 
-06 Samostatné vykonávanie základných diagnostických a liečebných výkonov alebo asistencia pri zložitejších diagnostických a liečebných výkonoch a úkonoch vykonávaná lekárom počas špecializačnej prípravy prvého stupňa.
+06 Samostatné vykonávanie základných diagnostických a liečebných výkonov alebo asistencia pri zložitejších diagnostických a liečebných výkonoch a úkonoch vykonávaná lekárom počas špecializačnej prípravy v príslušnom základnom špecializačnom odbore.<sup>20</sup>)
 
-07 Rozpracúvanie koncepcií a metodických usmernení, zabezpečovanie koordinovania kontroly, vypracúvanie analýz a hodnotení poskytovania ošetrovateľskej starostlivosti v zdravotníckom zariadení.
+07 Rozpracúvanie koncepcií a metodických usmernení, zabezpečovanie koordinovania kontroly, vypracúvanie analýz a hodnotení poskytovania ošetrovateľskej starostlivosti v zdravotníckom zariadení vykonávané sestrou po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-11. PLATOVÁ TRIEDA
+08 Samostatná odborná laboratórna činnosť pri stanovovaní biochemických parametrov vykonávaná podľa pokynov zdravotníckeho zamestnanca so špecializáciou na spoločných vyšetrovacích a liečebných zložkách zdravotníckych zariadení iným zdravotníckym zamestnancom po získaní osvedčenia o príprave na výkon práce v zdravotníctve.<sup>20</sup>)
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+09 Koordinovanie a kontrola rehabilitačného procesu v zdravotníckych zariadeniach vrátane vykonávania fyzioterapeutickej činnosti a vyšetrovacích metód vykonávané fyzioterapeutom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
+- 11. PLATOVÁ TRIEDA
 
-01 Samostatná odborná špecializovaná práca súvisiaca s edukáciou, reedukáciou, rehabilitáciou a resocializáciou porúch reči, hlasu a sluchu vykonávaná klinickým logopédom po získaní špecializácie v príslušnom úseku činnosti.<sup>20</sup>)
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
-02 Práca klinického psychológa pri uplatňovaní špecifických poznatkov a metód v oblasti duševnej hygieny a psychológie zdravia, komplexné zabezpečovanie úloh v oblasti psychodiagnostiky, psychoterapie a poradenskej činnosti o psychicky chorých po získaní špecializácie v príslušnom úseku činnosti.<sup>20</sup>)
+- 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie druhého stupňa, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
-03 Samostatná odborná práca v príslušnom odbore hygieny, epidemiológie, mikrobiológie alebo preventívneho pracovného lekárstva vykonávaná iným zdravotníckym zamestnancom po získaní špecializácie v príslušnom úseku činnosti.<sup>20</sup>)
+01 Samostatná odborná špecializovaná práca súvisiaca s edukáciou, reedukáciou, rehabilitáciou a resocializáciou porúch reči, hlasu a sluchu vykonávaná klinickým logopédom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-04 Odborná špecializovaná laboratórna činnosť spojená s chemicko-toxikologickými, histochemickými, mikrobiologickými alebo inými vyšetreniami biologického materiálu vykonávaná na spoločných vyšetrovacích a liečebných zložkách zdravotníckych zariadení iným zdravotníckym zamestnancom po získaní špecializácie v príslušnom úseku činnosti.<sup>20</sup>)
+02 Práca klinického psychológa pri uplatňovaní špecifických poznatkov a metód v oblasti duševnej hygieny a psychológie zdravia, komplexné zabezpečovanie úloh v oblasti psychodiagnostiky, psychoterapie a poradenskej činnosti o psychicky chorých po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Liečebno-pedagogické úkony, poskytovanie terapeuticko-výchovnej pomoci zrakovo, sluchovo, telesne alebo mentálne postihnutým pacientom a duševne chorým pri integrácii, reedukácii a resocializácii vykonávané liečebným pedagógom po získaní špeciálnej prípravy špecializácie v odbore liečebná pedagogika.<sup>20</sup>)
+03 Samostatná odborná práca v príslušnom odbore hygieny, epidemiológie, mikrobiológie alebo preventívneho pracovného lekárstva vykonávaná iným zdravotníckym zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-06 Samostatná odborná práca na úseku lekárskej mikrobiológie vrátane prípravy podkladov na rozhodovací proces vykonávaná lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+04 Odborná špecializovaná laboratórna činnosť spojená s vyšetreniami biologického materiálu vykonávaná na spoločných vyšetrovacích a liečebných zložkách zdravotníckych zariadení iným zdravotníckym zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-07 Odborné sterilizačné a iné dekontaminačné postupy v rámci prevencie vzniku a šírenia nozokomiálnych nákaz v oddelení centrálnej sterilizácie vykonávané lekárom, farmaceutom alebo iným zdravotníckym zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
+05 Liečebno-pedagogické úkony, poskytovanie terapeuticko-výchovnej pomoci zrakovo, sluchovo, telesne alebo mentálne postihnutým pacientom a duševne chorým pri integrácii, reedukácii a resocializácii vykonávané liečebným pedagógom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-08 Štátny zdravotný a potravinový dozor vrátane prípravy podkladov na rozhodovanie orgánov v oblasti ochrany zdravia (napr. navrhovanie opatrení proti vzniku a šíreniu prenosných chorôb) vykonávaný lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+06 Samostatná odborná práca na úseku klinickej mikrobiológie vykonávaná lekárom po získaní základnej špecializácie v príslušnom odbore<sup>20</sup>) alebo na úseku mikrobiológie a biológie životného prostredia, príprava podkladov na rozhodovací proces vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-09 Inšpekčná činnosť na úseku farmaceutickej kontroly riadenia kvality výroby a distribúcie liekov, zdravotníckych pomôcok a kontroly lekární vykonávaná farmaceutom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+07 Odborné sterilizačné a iné dekontaminačné postupy v rámci prevencie vzniku a šírenia nozokomiálnych nákaz v oddelení centrálnej sterilizácie vykonávané lekárom alebo farmaceutom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
+
+08 Štátny zdravotný a potravinový dozor vrátane prípravy podkladov na rozhodovanie orgánov v oblasti ochrany zdravia (napr. navrhovanie opatrení proti vzniku a šíreniu prenosných chorôb) vykonávaný lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
+
+09 Samostatné cielené rehabilitačné zhodnotenie funkčných porúch pohybového systému, následné terapeutické výkony na odvrátenie funkčných a štrukturálnych porúch, handicapu a reintegrácia jedinca s využitím vlastných prostriedkov odboru fyziatrie, balneológie a liečebnej rehabilitácie vykonávané fyzioterapeutom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
-12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
+12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie druhého stupňa, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
-01 Príprava liečiv a liečivých prípravkov na žiadanky z jednotlivých oddelení nemocnice s poliklinikou podľa liekopisných technologických operácií vykonávaná farmaceutom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+01 Vedenie seminárov, konzultácií a školení v školiacich aktivitách a praktická výučba účastníkov ďalšieho vzdelávania zdravotníckych zamestnancov s vysokoškolským vzdelaním vykonávané asistentom po získaní základnej špecializácie v príslušnom odbore<sup>20</sup>) a po udelení vedecko-akademickej hodnosti.<sup>12</sup>)
 
-02 Vedenie seminárov, konzultácií a školení v školiacich aktivitách a praktická výučba účastníkov ďalšieho vzdelávania zdravotníckych zamestnancov s vysokoškolským vzdelaním vykonávané asistentom po získaní špecializácie prvého stupňa v príslušnom odbore<sup>20</sup>) a po udelení vedecko-akademickej hodnosti.<sup>12</sup>)
+02 Špecializovaná diagnostická a preventívno-liečebná činnosť vrátane konziliárnej činnosti a invazívnych zákrokov na lôžkovom oddelení alebo v odbornej ambulancii v neoperačných odboroch vykonávaná lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-03 Samostatná diagnostická a preventívno-liečebná činnosť na lôžkovom oddelení alebo v odbornej ambulancii v neoperačných odboroch vykonávaná lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+03 Celková alebo lokálna anestézia pri operačných zákrokoch vrátane kanylácie centrálneho venózneho systému a artériového systému alebo starostlivosť o kriticky chorého pacienta vrátane umelej pľúcnej ventilácie a hemodynamického monitorovania vykonávaná lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-04 Celková alebo lokálna anestézia pri operačných zákrokoch vrátane kanylácie centrálnej venóznej sústavy a artériového systému vykonávaná lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+04 Samostatná bioptická alebo nekroptická diagnostická činnosť vrátane vykonávania pitiev a podielu na príprave a spracúvaní posudkov vykonávaná lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Diagnostická činnosť vrátane vykonávania pitiev a podielu na príprave a spracúvaní posudkov vykonávaná lekárom po získaní špecializácie prvého stupňa z patológie.<sup>20</sup>)
+05 Samostatná diagnostická a preventívno-liečebná činnosť na lôžkovom nemocničnom oddelení operačného odboru alebo v ambulancii operačného odboru vrátane konziliárnej činnosti a operačných zákrokov vykonávaná lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-06 Samostatná diagnostická a preventívno-liečebná činnosť na lôžkovom nemocničnom oddelení v operačných odboroch vrátane konziliárnej činnosti vykonávaná lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+06 Samostatné diagnostické vyšetrenia pomocou rádiodiagnostických zobrazovacích metód a ich vyhodnocovanie na spoločných vyšetrovacích a liečebných zložkách vykonávané lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-07 Samostatná odborná diagnostická a preventívno-liečebná činnosť v ambulancii operačných odborov vrátane operačných zákrokov vykonávaná lekárom po získaní špecializácie prvého stupňa v príslušnom operačnom odbore.<sup>20</sup>)
+07 Rádioterapeutické alebo rádioizotopové výkony a náročné ožarovacie postupy vykonávané lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-08 Diagnostické vyšetrenia pomocou zobrazovacích metód a ich vyhodnocovanie na spoločných vyšetrovacích a liečebných zložkách vykonávané lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+08 Špecializovaná odborná činnosť v lekárni pri poskytovaní lekárenskej starostlivosti vykonávaná farmaceutom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-09 Rádioterapeutické alebo rádioizotopové výkony a náročné ožarovacie postupy vykonávané lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+09 Samostatná diagnostická a preventívno-liečebná činnosť v ambulancii primárnej starostlivosti vykonávaná lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-10 Špecializovaná odborná činnosť v lekárni vrátane poskytovania poradenskej a metodickej činnosti odborným zdravotníckym zamestnancom vykonávaná farmaceutom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+10 Samostatné preventívno-liečebné a diagnostické úkony v odbornej stomatologickej ambulancii alebo na stomatologickom lôžkovom oddelení vykonávané zubným lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-11 Samostatná diagnostická a preventívno-liečebná činnosť v ambulancii primárnej starostlivosti vykonávaná lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+11 Mikroskopické analýzy biologického materiálu, stanovovanie izoenzýmov, hormónov náročnými vyšetrovacími metódami (napr. chromatografické, spektrofotometrické, elektrochemické) vrátane vyšetrení a vyhodnotení špeciálnych parametrov na zložitých laboratórnych prístrojoch vykonávané iným zdravotníckym zamestnancom po získaní špecializácie v príslušnom odbore.<sup>20</sup>)
 
-12 Samostatné preventívno-liečebné a diagnostické úkony v odbornej stomatologickej ambulancii vykonávané lekárom po získaní špecializácie prvého stupňa v príslušnom odbore.<sup>20</sup>)
+12 Diagnostická, preventívna a liečebná činnosť s uplatňovaním fyzikálnych a balneologických prostriedkov a liečebno-rehabilitačných postupov vykonávaná lekárom po získaní základnej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-13 Mikroskopické analýzy cytogenetických preparátov vrátane stanovovania cytogenetickej diagnózy na základe zostavených karyotypov vykonávané iným zdravotníckym zamestnancom po získaní špecializácie z lekárskej genetiky.<sup>20</sup>)
-
-14 Metodické usmerňovanie, kontrola a vypracúvanie expertných posudkov v rámci oblastných laboratórií humánnych liekov alebo veterinárnych liekov a zdravotníckych pomôcok vykonávané farmaceutom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
-
-15 Koordinovanie odborných činností v oblastných laboratóriách pri chemicko-analytickej a farmaceutickej kontrole humánnych liekov alebo veterinárnych liekov, farmaceutických látok a zdravotníckych pomôcok vykonávané farmaceutom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
-
-16 Diagnostická, preventívna a liečebná činnosť s uplatňovaním fyzikálnych a balneologických prostriedkov a liečebno-rehabilitačných postupov vykonávaná lekárom po získaní špecializácie prvého stupňa a nadstavbovej špecializácie z odboru fyziatria, balneológia a liečebná rehabilitácia.<sup>20</sup>)
-
-17 Koordinovanie štátneho zdravotného dozoru v rozsahu pôsobnosti štátneho zdravotného ústavu na úseku plnenia programov ochrany a podpory zdravia vo vymedzenom spádovom území vykonávané lekárom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
+13 Koordinovanie štátneho zdravotného dozoru v rozsahu pôsobnosti štátneho zdravotného ústavu na úseku plnenia programov ochrany a podpory zdravia vo vymedzenom spádovom území vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
-13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
+13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie druhého stupňa, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
-01 Samostatná odborná činnosť pri zabezpečovaní, uchovávaní a výdaji liekov a liečiv na požiadavky z nemocničných oddelení a kliník, konzultačná a informačná činnosť o liekoch a liečivách, spolupráca pri klinickom skúšaní liekov vykonávaná farmaceutom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
+01 Samostatná odborná práca pri zabezpečovaní, uchovávaní a výdaji liekov a liečiv na požiadavky nemocničných oddelení a kliník, konzultačná a informačná činnosť o liekoch a liečivách alebo spolupráca pri klinickom skúšaní liekov vykonávané farmaceutom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-02 Odborná špecializovaná diagnostická a preventívno-liečebná práca na lôžkovom neoperačnom oddelení vrátane konziliárnej činnosti vykonávaná lekárom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
+02 Odborná špecializovaná diagnostická a preventívno-liečebná práca na lôžkovom neoperačnom oddelení vrátane konziliárnej činnosti vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-03 Príprava a vedenie seminárov, konzultácií a praktickej výučby školiacich aktivít usporadúvaných pre odborné vzdelávanie zamestnancov v zdravotníctve, oponovanie záverečných špecializačných atestácií a seminárnych prác lekárov a farmaceutov v Slovenskej postgraduálnej akadémii medicíny vykonávaná odborným asistentom po získaní špecializácie druhého stupňa v príslušnom odbore<sup>20</sup>) a po získaní vedecko-pedagogického titulu.<sup>12</sup>)
+03 Príprava a vedenie seminárov, konzultácií a praktickej výučby školiacich aktivít usporadúvaných na odborné vzdelávanie zamestnancov v zdravotníctve, oponovanie záverečných špecializačných skúšok a seminárnych prác lekárov a farmaceutov v Slovenskej postgraduálnej akadémii medicíny vykonávané odborným asistentom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore<sup>20</sup>) a po získaní vedecko-pedagogického titulu.<sup>12</sup>)
 
-04 Štátny zdravotný a potravinový dozor, zabezpečovanie opatrení proti vzniku a šíreniu prenosných chorôb, chorôb z povolania a iných poškodení zdravia súvisiacich s prácou a spôsobom života vykonávané lekárom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
+04 Štátny zdravotný a potravinový dozor, zabezpečovanie opatrení proti vzniku a šíreniu prenosných chorôb, chorôb z povolania a iných poškodení zdravia súvisiacich s prácou a spôsobom života vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Súdnolekárske a súdne pitvy, spracúvanie posudkov a konziliárna činnosť vykonávané lekárom po získaní nadstavbovej špecializácie zo súdneho lekárstva.<sup>20</sup>)
+05 Súdnolekárske a súdne pitvy, spracúvanie posudkov a konziliárna činnosť vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-06 Štátny zdravotný dozor na úseku lekárskej bakteriológie, virológie, parazitológie, mykológie, antiinfekčnej imunológie, mikrobiológie životného prostredia a biológie životného prostredia vrátane tvorby podkladov na rozhodnutia vykonávaný lekárom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
+06 Štátny zdravotný dozor na úseku lekárskej bakteriológie, virológie, parazitológie, mykológie, antiinfekčnej imunológie, mikrobiológie životného prostredia a biológie životného prostredia vrátane tvorby podkladov na rozhodnutia vykonávaný lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-07 Štátny zdravotný dozor pri zisťovaní úrovne výskytu rádioaktivity vo výrobných prevádzkach, v pobytových priestoroch budov, baniach, vo vode, pôde a ovzduší a pri manipulácii s rádioaktívnym odpadom vykonávaný lekárom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
+07 Štátny zdravotný dozor pri zisťovaní úrovne výskytu rádioaktivity vo výrobných prevádzkach, v pobytových priestoroch budov, baniach, vo vode, pôde a ovzduší a pri manipulácii s rádioaktívnym odpadom vykonávaný lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-08 Diagnostická činnosť na základe biochemických, imunochemických a toxikologických laboratórnych vyšetrení vrátane biochemických vyšetrení pomocou rádioizotopov a konziliárna služba vykonávané lekárom po získaní špecializácie druhého stupňa z klinickej biochémie.<sup>20</sup>)
+08 Diagnostická činnosť na základe biochemických, imunochemických a toxikologických laboratórnych vyšetrení vrátane biochemických vyšetrení pomocou rádioizotopov a konziliárna služba vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-09 Prevencia, diagnostika a terapia chorôb krvi a krvotvorby, využívanie krvi, krvotvorných buniek a orgánov na preventívne, diagnostické a liečebné účely, výskum fyziológie a patológie krvi, krvotvorných buniek a orgánov v úzkej spolupráci so všetkými odvetviami klinickej medicíny vykonávané lekárom po získaní nadstavbovej špecializácie z hematológie a transfuziológie.<sup>20</sup>)
+09 Prevencia, diagnostika a terapia chorôb krvi a krvotvorby, využívanie krvi, krvotvorných buniek a orgánov na preventívne, diagnostické a liečebné účely, výskum fyziológie a patológie krvi, krvotvorných buniek a orgánov v úzkej spolupráci so všetkými odvetviami klinickej medicíny vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-10 Špecializované vyšetrenia pomocou diagnostického zobrazenia na spoločných vyšetrovacích a liečebných zložkách podľa predpísaných metód vykonávané lekárom po získaní druhej špecializácie v príslušnom odbore alebo po získaní prvej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
+10 Špecializované vyšetrenia pomocou diagnostického zobrazenia na spoločných vyšetrovacích a liečebných zložkách podľa predpísaných metód vykonávané lekárom po získaní základnej špecializácie v príslušnom odbore<sup>20</sup>) alebo základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-11 Celková anestézia pri operačných zákrokoch u pacientov so zložitými komplikujúcimi ochoreniami a sprievodnými javmi vykonávaná lekárom po získaní špecializácie druhého stupňa v príslušnom odbore alebo špecializácie prvého stupňa a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
+11 Celková alebo zvodná anestézia pri náročných operačných zákrokoch u pacientov so zložitými komplikujúcimi ochoreniami a sprievodnými javmi, využívanie invazívnych metód vrátane konziliárnej činnosti vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-12 Špecializované diagnostické a preventívno-liečebné zákroky a činnosť na lôžkových oddeleniach v operačných odboroch vrátane konziliárnej činnosti vykonávané lekárom po získaní špecializácie prvého stupňa a nadstavbovej špecializácie v príslušnom operačnom odbore alebo špecializácie druhého stupňa v príslušnom operačnom odbore.<sup>20</sup>)
+12 Špecializované diagnostické a preventívno-liečebné zákroky a činnosť na lôžkových oddeleniach v operačných odboroch vrátane konziliárnej činnosti vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-13 Diagnostická a preventívno-liečebná činnosť vrátane operačných zákrokov a konziliárnej činnosti vykonávaná lekárom v špecializovaných ambulanciách lôžkových zdravotníckych zariadení po získaní špecializácie druhého stupňa v príslušnom operačnom odbore alebo špecializácie prvého stupňa a nadstavbovej špecializácie v príslušnom operačnom odbore.<sup>20</sup>)
+13 Diagnostická a preventívno-liečebná činnosť vrátane operačných zákrokov a konziliárnej činnosti vykonávaná lekárom v špecializovaných ambulanciách lôžkových zdravotníckych zariadení po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-14 Špecializovaná diagnostická a preventívno-liečebná činnosť vrátane konziliárnej činnosti a intenzívnych zákrokov v odborných ambulanciách neoperačných odborov po získaní špecializácie druhého stupňa v príslušnom odbore alebo špecializácie prvého stupňa a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
+14 Špecializovaná diagnostická a preventívno-liečebná činnosť vrátane konziliárnej činnosti a invazívnych zákrokov v odborných ambulanciách neoperačných odborov vykonávaná lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-15 Špecializované rádioterapeutické vyšetrenia alebo rádioizotopové vyšetrenia, zadávanie cieľových radiačných objemov, radiačnej techniky a celkovej tumóznej dávky vrátane konziliárnej činnosti na rádioterapeutických pracoviskách vykonávané lekárom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
+15 Špecializované rádioterapeutické alebo rádioizotopové vyšetrenia, zadávanie cieľových radiačných objemov, radiačnej techniky a celkovej tumóznej dávky vrátane konziliárnej činnosti na rádioterapeutických pracoviskách vykonávané lekárom po získaní základnej špecializácie a certifikátu v príslušnom odbore.<sup>20</sup>)
 
-16 Štátna inšpekcia, dozor a kontrola v oblasti štandardizácie, farmaceutickej a zdravotníckej výroby vykonávané farmaceutom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
-
-17 Koncepčná, koordinačná a kontrolná činnosť pri dodržiavaní zásad štátnej liekovej politiky v nadväznosti na medzinárodné dohody a záväzky vykonávaná farmaceutom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
-
-18 Tvorba návrhu koncepcie štátnej liekovej politiky, koordinovanie systému liekovej politiky so systémami štátov Európskej únie a ostatnými štátmi sveta vykonávané farmaceutom po získaní špecializácie druhého stupňa a nadstavbovej špecializácie.<sup>20</sup>)
+16 Samostatná odborná špecializovaná činnosť pri individuálnej a hromadnej príprave liekov (napr. sterilných liekov, liekov určených na perorálnu, rektálnu a miestnu aplikáciu) podľa požiadaviek kliník alebo oddelení zdravotníckych zariadení ústavnej starostlivosti, pri uchovávaní a výdaji individuálne a hromadne pripravovaných liekov a pri konzultačnej a informačnej činnosti vykonávaná farmaceutom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 14. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
-14.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
+14.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie druhého stupňa, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
-01 Diagnostická a preventívno-liečebná činnosť vykonávaná lekárom po získaní špecializácie druhého stupňa v príslušnom operačnom odbore alebo špecializácie prvého stupňa a nadstavbovej špecializácie v príslušnom operačnom odbore<sup>20</sup>) výlučne v špecializovaných ambulanciách kliník lôžkových zdravotníckych zariadení v operačných odboroch alebo vo vysokošpecializovaných odborných ústavoch v operačných odboroch vrátane konziliárnej činnosti.
+01 Diagnostická a preventívno-liečebná činnosť v odbore urgentná medicína, neodkladná prednemocničná starostlivosť v terénnych podmienkach vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-02 Diagnostická a preventívno-liečebná činnosť v odbore urgentná medicína, neodkladná prednemocničná starostlivosť v terénnych podmienkach vykonávaná lekárom po získaní špecializácie druhého stupňa z urgentnej medicíny alebo špecializácie prvého stupňa a nadstavbovej špecializácie z urgentnej medicíny.<sup>20</sup>)
+02 Tvorba koncepcie, náplne a obsahu špecializačných medicínskych odborov, zodpovednosť za úroveň praktickej výučby poskytovanej zdravotníckym zamestnancom pripravujúcim sa na kvalifikačné skúšky v Slovenskej postgraduálnej akadémii medicíny zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore<sup>20</sup>) a po získaní vedecko-pedagogického titulu.<sup>12</sup>)
 
-03 Tvorba koncepcie, náplne a obsahu špecializačných medicínskych odborov, zodpovednosť za úroveň praktickej výučby poskytovanej zdravotníckym zamestnancom pripravujúcim sa na kvalifikačné atestácie na Slovenskej postgraduálnej akadémii medicíny zamestnancom po získaní špecializácie druhého stupňa v príslušnom odbore<sup>20</sup>) a po získaní vedecko-pedagogického titulu.<sup>12</sup>)
+03 Tvorivé riešenie náročných problémov biomedicínskeho charakteru s využitím moderných metód zodpovedajúcich príslušnému trendu rozvoja lekárskych vied, odborné prenášanie výsledkov vedeckovýskumnej činnosti do pedagogického procesu na klinických pracoviskách, teoretická a praktická výučba zamestnancov pripravujúcich sa na špeciálne odborné výkony v príslušnom medicínskom odbore vykonávané zamestnancom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore<sup>20</sup>) a po získaní vedecko-pedagogického titulu.<sup>12</sup>)
 
-04 Tvorivé riešenie náročných problémov biomedicínskeho charakteru s využitím moderných metód zodpovedajúcich príslušnému trendu rozvoja lekárskych vied, odborné prenášanie výsledkov vedeckovýskumnej činnosti do pedagogického procesu na klinických pracoviskách, teoretická a praktická výučba zamestnancov pripravujúcich sa na špeciálne odborné výkony v príslušnom medicínskom odbore vykonávané zamestnancom po získaní špecializácie druhého stupňa v príslušnom odbore<sup>20</sup>) a po získaní vedecko-pedagogického titulu.<sup>12</sup>)
+04 Náročné diagnostické a preventívno-liečebné zákroky a činnosti vrátane konziliárnej činnosti na lôžkových oddeleniach a špecializovaných ambulanciách operačných odborov výlučne na klinikách výučbových základní lekárskych fakúlt alebo Slovenskej postgraduálnej akadémie medicíny, alebo vo vysokošpecializovaných odborných ústavoch vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-05 Náročné diagnostické a preventívno-liečebné zákroky a činnosti vykonávané lekárom po získaní špecializácie druhého stupňa a nadstavbovej špecializácie v príslušnom operačnom odbore<sup>20</sup>) výlučne na klinikách lôžkových zdravotníckych zariadení v operačných odboroch alebo vo vysokošpecializovaných odborných ústavoch v operačných odboroch vrátane konziliárnej činnosti.
+05 Intenzívna preventívno-liečebná starostlivosť na lôžkovom oddelení anestéziológie a intenzívnej medicíny alebo poskytovanie odborných zákrokov a výkonov vrátane umelej pľúcnej ventilácie a hemodynamického monitorovania výlučne na jednotkách intenzívnej starostlivosti kliník výučbových základní lekárskych fakúlt alebo Slovenskej postgraduálnej akadémie medicíny alebo vo vysokošpecializovaných odborných ústavoch vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
-06 Intenzívna preventívno-liečebná starostlivosť na lôžkovom anesteziologicko-resuscitačnom oddelení alebo poskytovanie odborných zákrokov a výkonov výlučne na jednotkách intenzívnej starostlivosti kliník alebo vo vysokošpecializovaných odborných ústavoch vykonávané lekárom po získaní špecializácie druhého stupňa v príslušnom odbore.<sup>20</sup>)
-
-07 Vyšetrovanie a diagnostika nekroptického alebo bioptického materiálu histologickými alebo cytologickými a imunohistochemickými technikami vrátane konziliárnej činnosti vykonávané lekárom po získaní špecializácie druhého stupňa z patológie alebo špecializácie prvého stupňa z patológie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
+06 Vyšetrovanie a diagnostika nekroptického alebo bioptického materiálu histologickými alebo cytologickými a imunohistochemickými technikami vrátane konziliárnej činnosti vykonávané lekárom po získaní základnej špecializácie a nadstavbovej špecializácie v príslušnom odbore.<sup>20</sup>)
 
 22. ŽIVOTNÉ PROSTREDIE
 
@@ -3714,7 +3884,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 08.4.6. Pracovné činnosti vyžadujúce úplné stredné vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 
@@ -3738,7 +3908,7 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 09. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad ustanovený osobitným predpisom alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -3756,9 +3926,11 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 07 Samostatné spracúvanie systému lektorovania, organizovania a zabezpečovania prevádzky v environmentálnych vzdelávacích centrách a informačných strediskách ochrany prírody alebo životného prostredia.
 
+08 Samostatná odborná práca pri výkone štátneho stavebného dohľadu.
+
 10. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 10.7.5. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -3788,9 +3960,11 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 11 Tvorba koncepcie a metodiky lektorovania, organizovania a zabezpečovania návštevníckej prevádzky v environmentálnych vzdelávacích centrách a informačných strediskách ochrany prírody alebo životného prostredia.
 
+12 amostatná odborná práca a príprava rozhodnutí vo vymedzenej oblasti na úseku ochrany a tvorby životného prostredia, územného rozhodovania a stavebného poriadku.
+
 11. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 11.8.4. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 3 roky:
 
@@ -3812,9 +3986,11 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 09 Projektovanie, geologické mapovanie a vyhodnocovanie výsledkov spojených s geologickým mapovaním a zostavovanie základných a účelových máp, hodnotenie zdrojov nerastných surovín a vôd vykonávané zamestnancom s odbornou spôsobilosťou.<sup>36</sup>)
 
+10 Koordinovanie, kontrola a vykonávanie štátnej správy na úseku ochrany a tvorby životného prostredia, územného rozhodovania a stavebného poriadku.
+
 12. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 12.8.5. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 6 rokov:
 
@@ -3832,9 +4008,11 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 07 Koncepčná a koordinačná činnosť v oblasti územného plánovania a priestorového rozvoja územia republiky a zabezpečovanie územnoplánovacej činnosti na celoštátnej úrovni.
 
+08 Tvorba koncepcií na úseku ochrany a tvorby životného prostredia, územného rozhodovania a stavebného poriadku v súlade so stratégiou, zásadami a prioritami štátnej environmentálnej politiky vo väzbe na regionálne koncepcie.
+
 13. PLATOVÁ TRIEDA
 
-Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
 13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
 

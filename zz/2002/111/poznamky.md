@@ -12,6 +12,8 @@
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 7a) § 46 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 260/2001 Z. z.
+
 - 8) Zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
@@ -20,7 +22,7 @@
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších zákonov.
 
-- 12) Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+- 12) Zákon č. 131/2002 Z. z. o vysokých školách a o doplnení niektorých zákonov.
 
 - 13) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
@@ -36,7 +38,7 @@
 
 - 19) Zákon č. 370/1997 Z. z. o vojenskej službe v znení zákona č. 10/2000 Z. z.
 
-- 20) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 79/1981 Zb. o zdravotníckych a iných odborných pracovníkoch v zdravotníctve.
+- 20) Nariadenie vlády Slovenskej republiky č. 156/2002 Z. z. o odbornej spôsobilosti pracovníkov v zdravotníctve.Nariadenie vlády Slovenskej republiky č. 157/2002 Z. z. o ďalšom vzdelávaní pracovníkov v zdravotníctve.
 
 - 21) Zákon č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
