@@ -2170,6 +2170,66 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
+    - Položka 150a
+
+  - a) Vydanie povolenia na sprostredkovanie zamestnania za úhradu |
+
+  - 1. pre fyzické osoby .................................................................................................................................... | 500 Sk
+
+  - 2. pre právnické osoby .............................................................................................................................. | 1 000 Sk
+
+  - b) Predĺženie povolenia na sprostredkovanie zamestnania za úhradu |
+
+  - 1. pre fyzické osoby ................................................................................................................................... | 250 Sk
+
+  - 2. pre právnické osoby .............................................................................................................................. | 500 Sk
+
+  - c) Zmena povolenia na sprostredkovanie zamestnania za úhradu |
+
+  - 1. pre fyzické osoby ................................................................................................................................... | 250 Sk
+
+  - 2. pre právnické osoby ............................................................................................................................. | 500 Sk
+
+  - d) Vydanie povolenia na činnosť agentúry dočasného zamestnávania |
+
+  - 1. pre fyzické osoby ................................................................................................................................... | 1 500 Sk
+
+  - 2. pre právnické osoby ............................................................................................................................. | 3 000 Sk
+
+  - e) Predĺženie povolenia na činnosť agentúry dočasného zamestnávania |
+
+  - 1. pre fyzické osoby ................................................................................................................................... | 750 Sk
+
+  - 2. pre právnické osoby ............................................................................................................................. | 1 500 Sk
+
+  - f) Zmena povolenia na činnosť agentúry dočasného zamestnávania |
+
+  - 1. pre fyzické osoby .................................................................................................................................. | 750 Sk
+
+  - 2. pre právnické osoby ............................................................................................................................ | 1 500 Sk
+
+  - g) Vydanie povolenia na činnosť agentúry podporovaného zamestnávania |
+
+  - 1. pre fyzické osoby .................................................................................................................................... | 1 500 Sk
+
+  - 2. pre právnické osoby ............................................................................................................................. | 3 000 Sk
+
+  - h) Predĺženie povolenia na činnosť agentúry podporovaného zamestnávania |
+
+  - 1. pre fyzické osoby ................................................................................................................................... | 750 Sk
+
+  - 2. pre právnické osoby ............................................................................................................................. | 1 500 Sk
+
+  - i) Zmena povolenia na činnosť agentúry podporovaného zamestnávania |
+
+  - 1. pre fyzické osoby ................................................................................................................................... | 750 Sk
+
+  - 2. pre právnické osoby ............................................................................................................................. | 1 500 Sk
+
+  - j) Vyhotovenie duplikátu povolení uvedených v písmenách a) až i) | 100 Sk
+
+  - Poznámky Správny orgán odpustí poplatok podľa písmena a) až f) fyzickej osobe, ktorá je držiteľom preukazu ZŤP alebo ZŤP-S a preukazu občana s ťažkým zdravotným postihnutím, ak uvedenú činnosť bude vykonávať ako osoba samostatne zárobkovo činná a nebude zamestnancom. |
+
     - Položka 151
 
   - a) Vydanie povolenia na zaobchádzanie s omamnými a psychotropnými látkami a prekurzormi skupiny I a registrácia prevádzkovateľov zaobchádzajúcich s prekurzormi skupín II a III ............ | 1 000 Sk
