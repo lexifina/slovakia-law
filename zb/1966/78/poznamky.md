@@ -1,1 +1,0 @@
-- *) Napr. podľa pravidiel pre odmeňovanie funkcionárov a pracovníkov národných výborov za mimoriadne zásluhy z fondu rezerv a rozvoja hospodárstva národných výborov vydaných Ministerstvom vnútra na základe § 80 vládnej vyhlášky č. 90/1965 Zb.
