@@ -1,79 +1,41 @@
-- 1) Napríklad zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov, zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 514/2009 Z. z. o doprave na dráhach v znení neskorších predpisov, zákon č. 56/2012 Z. z. o cestnej doprave v znení neskorších predpisov, zákon č. 329/2018 Z. z. o poplatkoch za uloženie odpadov a o zmene a doplnení zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov, zákon č. 30/2019 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 190/2023 Z. z. o poplatkoch za znečisťovanie ovzdušia, nariadenie vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
+- 1) Napríklad zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov, zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov, zákon Slovenskej národnej rady č. 320/1992 Zb. o správnych poplatkoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 544/1990 Zb. o miestnych poplatkoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 309/1992 Zb. o poplatkoch za uloženie odpadov, zákon Slovenskej národnej rady č. 311/1992 Zb. o poplatkoch za znečisťovanie ovzdušia, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci, zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z., vyhláška Ministerstva životného prostredia Slovenskej republiky č. 192/1993 Z. z. o spoločenskom ohodnotení vybraných častí prírody, nariadenie vlády Československej socialistickej republiky č. 35/1979 Zb. o odplatách vo vodnom hospodárstve v znení neskorších predpisov.
 
-- 1a) Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+- 2) Napríklad zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
-- 1b) Zákon č. 452/2021 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+- 3) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov.
 
-- 2) § 4 zákona č. 260/2011 Z. z. o ukončení a spôsobe usporiadania niektorých nájomných vzťahov k bytom a o doplnení zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+- 4) Nariadenie vlády Slovenskej republiky č. 300/1995 Z. z., ktorým sa vydáva colný sadzobník.
 
-- 3) Napríklad zákon č. 513/2009 Z. z. v znení neskorších predpisov.
+- 5) Opatrenie Štatistického úradu Slovenskej republiky č. 236/1993 Z. z., ktorým sa ustanovujú klasifikácie, číselník a register v oblasti štátnej štatistiky.
 
-- 3a) § 18 ods. 3 písm. b) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 6) Napríklad zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty, zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z., zákon Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení neskorších predpisov, zákon č. 618/1992 Zb. Colný zákon v znení neskorších predpisov.
 
-- 4) Nariadenie Rady (EHS) č. 2658/87 z 23. júla 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 2; Ú. v. ES L 256, 7. 9. 1987) v platnom znení.
+- 7) Zákon Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
 
-- 5) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+- 8) Napríklad zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
 
-- 6) Napríklad zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov, zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov, zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení neskorších predpisov.
+- 9) Zákon Slovenskej národnej rady č. 270/1991 Zb. o Štátnom fonde trhovej regulácie Slovenskej republiky v poľnohospodárstve v znení neskorších predpisov.
 
-- 7) § 16 ods. 1 písm. h) zákona č. 187/2021 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení niektorých zákonov.
+- 10) § 7 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z.
 
-- 7b) § 15 ods. 1 písm. e) zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
+- 11) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
-- 7c) Zákon č. 222/2022 Z. z. o štátnej podpore nájomného bývania a o zmene a doplnení niektorých zákonov.
+- 12) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.
 
-- 9) § 6 ods. 2 písm. a) zákona č. 491/2001 Z. z. o organizovaní trhu s vybranými poľnohospodárskymi výrobkami.
+- 13) Zákon Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole v znení neskorších predpisov.
 
-- 10) § 5 ods. 2 zákona č. 187/2021 Z. z.
-
-- 10a) § 26 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
-
-- 10b) § 2 ods. 6 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
-
-- 10c) § 9 ods. 2 písm. a) zákona č. 431/2002 Z. z.
-
-- 10d) § 17 ods. 4 písm. b) zákona č. 431/2002 Z. z.
-
-- 11) Nariadenie Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v platnom znení.
-
-- § 19 ods. 2 zákona č. 540/2001 Z. z.
-
-- 13) § 20 až 28 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 14) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 14) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 15) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
-
-- 15a) Napríklad zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
-
-- 15b) § 20 ods. 2 a 3 a § 24 ods. 7 zákona č. 659/2007 Z. z.
 
 - 16) § 451 a nasl. Občianskeho zákonníka.
 
 - 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 18a) Zákon č. 324/2011 Z. z. v znení neskorších predpisov.
+- 18) § 244 a nasl. Občianskeho súdneho poriadku.
 
-- Zákon č. 250/2012 Z. z. v znení neskorších predpisov.
+- 19) § 2 ods. 2 písm. b) zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení zákona Slovenskej národnej rady č. 417/1991 Zb.
 
-- Zákon č. 452/2021 Z. z. v znení neskorších predpisov.
-
-- 19) Zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
-
-- 19a) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
-
-- 19aa) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
-
-- 19aaa) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
-
-- 19aaaa) Príloha č. 7 k zákonu č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
-
-- 20) § 7 písm. h) Správneho súdneho poriadku.
+- 20) § 248 ods. 3 zákona č. 99/1963 Zb. Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 21) § 3 zákona Slovenskej národnej rady č. 500/1991 Zb. o pôsobnosti obcí vo veciach nájmu a podnájmu nebytových priestorov.
-
-- 23) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
-
-- 24) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
-
-- 25) Príloha č. 7 k zákonu č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
