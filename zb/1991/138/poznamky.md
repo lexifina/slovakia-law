@@ -96,6 +96,8 @@
 
 - 22c) § 116 Občianskeho zákonníka.
 
+- 22d) Napríklad § 140 Občianskeho zákonníka.
+
 - 23) § 2 zákona SNR č. 369/1990 Zb.
 
 - § 4 zákona SNR č. 517/1990 Zb. o územnom členení Slovenskej republiky.
