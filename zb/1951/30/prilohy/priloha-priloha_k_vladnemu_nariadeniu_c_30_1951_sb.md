@@ -34,9 +34,9 @@ Príloha k vládnemu nariadeniu č. 30/1951 Sb.
 
     - (3) Zároveň s radom dostane vyznamenaný diplom a radovú knižku ako doklad na nosenie radu.
 
-    - (4) Rad Republiky má tvar oválu 40 mm širokého a 43 mm vysokého, dolný okraj ktorého tvoria dve lipové ratolesti, sviazané stuhou do oblúka. Z ratolestí vybiehajú dve žrde so smaltovanými vlajúcimi vlajkami, vpredu vlajkou československou, za ňou vlajkou tmavočervenou. Uprostred radu je kosák a kladivo, podklad tvorí múr vystavaný z tehál. Na rube radu sú medzi dvoma proti sebe položenými vavrínovými ratolesťami písmená ČSR a dole matričné číslo. Rad je razený zo striebra, lipové ratolesti, kosák a kladivo sú pozlátené. Zlatým závesom, vytvoreným dvoma lipovými ratolesťami, je zavesený na stuhe 38 mm širokej a 55 mm dlhej; stuha je modrá (farby pracovného obleku) s 15 mm širokým tmavočerveným pruhom uprostred. Vyobrazenie je pripojené.
+    - (4) Rad republiky má tvar červeného, striebrom rámovaného štvorca, ktorého strana má 40 mm. Do stredu koso položeného štvorca je umiestnená pozlátená modro lemovaná päťcípa hviezda s farebným znakom ČSSR v pravidelnom päťuholníku. Medzi cípami hviezdy sú pozlátené lipové trojlístky. Hviezda je podložená desiatimi striebornými lúčmi s useknutými hrotmi, z ktorých štyri horné a štyri dolné presahujú okraj odznaku. Na červenej ploche sú úzke strieborné medzilúče. Horný roh štvorca je spojený lichobežníkovým strieborným uškom s tmavomodrou 38 mm širokou prievlečnou stuhou, na dolnej časti ktorej je kovový pozlátený vlys z desiatich lipových lístkov. Nad vlysom je vodorovný biely a červený prúžok. Biely prúžok je široký 2,5 mm, červený 2,5 mm a vlys 5 mm. Rub štvorca je hladký s vyrytým matričným číslom hore.
 
-    - (5) Rad Republiky sa nosí na ľavej strane pŕs. Ak sa nosí len stužka radu, je napätá na pravouhlej lište 10 mm širokej a 38 mm dlhej.
+    - (5) Ak sa nosí iba stužka radu, je napnutá na pravouhlej lište rozmeru 38 x 10 mm. Tvorí ju vodorovný prúžok biely, červený a modrý v pomere 2,5 : 2,5 : 5. Modrý prúžok je prekrytý kovovým pozláteným vlysom z desiatich lipových lístkov.
 
   - Čl. IV Rad Práce.
 
