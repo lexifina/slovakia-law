@@ -28,13 +28,13 @@
 
 - 11) § 4 ods. 3 zákona č. 488/2002 Z. z.
 
-- 12) Príloha č. 2 časť B body 3.1.4 až 3.1.6 a časť H, bod 4. A. 2 nariadenia vlády Slovenskej republiky č. 281/2003 Z. z.
+- 12) Príloha č. 2 časť B body 3.2. až 3.4. a časť H bod 4.A.2 nariadenia vlády Slovenskej republiky č. 281/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 490/2003 Z. z.
 
 - 13) Prílohy č. 2 a 3 nariadenia vlády Slovenskej republiky č. 286/2003 Z. z.
 
 - 14) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 281/2003 Z. z.Príloha č. 2 a 3 nariadenia vlády Slovenskej republiky č. 286/2003 Z. z.
 
-- 15) Príloha č. 1 nariadenia vlády Slovenskej republiky č. 280/2003 Z. z.
+- 15) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 280/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 487/2003 Z. z.
 
 - 16) § 4 až 8 a príloha č. 2 nariadenia vlády Slovenskej republiky č. 304/2003 Z. z.
 
@@ -62,7 +62,7 @@
 
 - 28) § 35 ods. 1 písm. a) zákona č. 488/2002 Z. z.
 
-- 29) Nariadenie vlády Slovenskej republiky č. 319/2003 Z. z., ktorým sa upravujú podrobnosti o zákaze používania niektorých látok s hormonálnym alebo tyreostatickým účinkom a beta-agonistických látok v chove hospodárskych zvierat.
+- 29) § 5 ods. 1 a 2 a § 8 ods. 1 a 2 nariadenia vlády Slovenskej republiky č. 319/2003 Z. z., ktorým sa upravujú podrobnosti o zákaze používania niektorých látok s hormonálnym a tyreostatickým účinkom a beta-agonistickýh látok v chove hospodárskych zvierat v znení nariadenia vlády Slovenskej republiky č. 484/2003 Z. z.
 
 - 30) Príloha č. 2 časť K bod 9 nariadenia vlády Slovenskej republiky č. 281/2003 Z. z.
 
@@ -70,7 +70,7 @@
 
 - 32) § 4 a 5 nariadenia vlády Slovenskej republiky č. 287/2003 Z. z. o požiadavkách na zdravie zvierat pri výmene mäsových výrobkov s členskými štátmi.
 
-- 33) § 7 a 10 nariadenia vlády Slovenskej republiky č. 287/2003 Z. z.
+- 33) § 2 písm. f) nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
 
 - 34) Nariadenie vlády Slovenskej republiky č. 286/2003 Z. z.
 
@@ -82,10 +82,16 @@
 
 - 38) § 7 nariadenia vlády Slovenskej republiky č. 286/2003 Z. z.
 
-- 39) § 2 písm. d) nariadenia vlády Slovenskej republiky č. 286/2003 Z. z.
+- 39) § 2 písm. f) nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
 
-- 40) Príloha č. 3 nariadenia vlády Slovenskej republiky č. 286/2003 Z. z.
+- 40) Príloha č. 3 časť D nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
 
-- 41) Príloha č. 3 časť B nariadenia vlády Slovenskej republiky č. 286/2003 Z. z.
+- 41) Príloha č. 3 časti B a H nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
 
-- 42) § 24 ods. 2 písm. c) zákona č. 488/2002 Z. z.
+- 42) Príloha č. 3 časť E nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
+
+- 43) Príloha č. 3 časť F nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
+
+- 44) Príloha č. 3 časť G nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
+
+- 45) § 24 ods. 2 písm. c) zákona č. 488/2002 Z. z.
