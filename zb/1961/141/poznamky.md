@@ -12,6 +12,8 @@
 
 - 7b) § 29a ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
+- 7c) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+
 - 8) § 30 zákona č. 435/2000 Z. z.
 
 - 8a) § 21 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 353/1997 Z. z.
