@@ -1,0 +1,1 @@
+- 1) § 81 odst. 1 zákona ČNR č. 337/1992 Sb., o správě daní a poplatků.
