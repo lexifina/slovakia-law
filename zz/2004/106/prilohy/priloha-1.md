@@ -1,17 +1,23 @@
-Príloha č. 1 k zákonu č. 106/2004 Z. z.
+Príloha č. 1 k zákonu č. 106/2004 Z. z. Týmto zákonom sa preberajú smernice:
 
-- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+- 1. Smernica Rady č. 92/12/EHS z 25. 2. 1992 o všeobecnom systéme, držbe, preprave a kontrole tovarov podliehajúcich spotrebnej dani v znení neskorších zmien a doplnkov.
 
-  - 1. Smernica Rady 2011/64/EÚ z 21. júna 2011 o štruktúre a sadzbách spotrebnej dane z tabakových výrobkov (kodifikované znenie) (Ú. v. EÚ L 176, 5. 7. 2011).
+(Úradný vestník Európskych spoločenstiev L 076, 23/03/1992, strany 1 – 13).
 
-  - 2. Smernica Rady 2007/74/ES z 20. decembra 2007 o oslobodení tovaru, ktorý dovážajú osoby cestujúce z tretích krajín, od dane z pridanej hodnoty a spotrebnej dane (Ú. v. EÚ L 346, 29. 12. 2007).
+- 2. Smernica Rady č. 92/79/EHS z 19. 10. 1992 o priblížení sadzieb daní z cigariet v znení neskorších zmien a doplnkov.
 
-  - 3. Smernica Rady 2013/61/EÚ zo 17. decembra 2013, ktorou sa menia smernice 2006/112/ES a 2008/118/ES, pokiaľ ide o najvzdialenejšie francúzske regióny, a najmä Mayotte (Ú. v. EÚ L 353, 28. 12. 2013).
+(Úradný vestník Európskych spoločenstiev L 316, 31/10/1992, strana 8).
 
-  - 4. Smernica Rady (EÚ) 2019/475 z 18. februára 2019, ktorou sa menia smernice 2006/112/ES a 2008/118/ES, pokiaľ ide o začlenenie talianskej obce Campione d´Italia a talianskych vôd jazera Lugano do colného územia Únie a do územnej pôsobnosti smernice 2008/118/ES (Ú. v. EÚ L 83, 25. 3. 2019).
+- 3. Smernica Rady č. 92/80/EHS z 19. 10. 1992 o priblížení sadzieb daní z tabakových výrobkov iných ako cigarety v znení neskorších zmien a doplnkov.
 
-  - 5. Smernica Rady (EÚ) 2019/2235 zo 16. decembra 2019, ktorou sa mení smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty a smernica 2008/118/ES o všeobecnom systéme spotrebných daní, pokiaľ ide o obranné úsilie v rámci Únie
+(Úradný vestník Európskych spoločenstiev L 316, 31/10/1992, strana 10).
 
-  - (Ú. v. EÚ L 336, 30. 12. 2019).
+- 4. Smernica Rady č. 95/59/ES z 25. 11. 1995 o iných spotrebných daniach z tabaku a tabakových výrobkov, ako je daň z obratu cigarety v znení neskorších zmien a doplnkov.
 
-  - 6. Smernica Rady (EÚ) 2020/262 z 19. decembra 2019, ktorou sa ustanovuje všeobecný systém spotrebných daní (prepracované znenie) (Ú. v. EÚ L 58, 27. 2. 2020).
+(Úradný vestník Európskych spoločenstiev L 291, 6/12/1995, strana 40).
+
+- 5. Smernica Rady č. 69/169/EHS z 28. 5. 1969 o zosúladení zákonov, iných predpisov a správnych opatrení týkajúcich sa oslobodenia od dane z obratu a od spotrebnej dane pre dovoz v rámci medzinárodného cestovania v znení neskorších zmien a doplnkov.
+
+(Úradný vestník Európskych spoločenstiev L 133, 04/06/1969, strany 6 – 8).
+
+Preklady smerníc sa nachádzajú v Centrálnej prekladateľskej jednotke sekcie Inštitút pre aproximáciu práva Úradu vlády Slovenskej republiky.
