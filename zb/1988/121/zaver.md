@@ -1,0 +1,3 @@
+Ministr:
+
+Juliš v. r.
