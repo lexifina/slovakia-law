@@ -40,6 +40,8 @@
 
 - 21) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
 
+- 21a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
 - 22) Nariadenie vlády Slovenskej republiky č. 460/2000 Z. z. o dĺžke trvania a rozsahu odbornej prípravy zamestnancov obecnej polície a o ustanovení a zložení odborných komisií Policajného zboru.
 
 - 23) § 10 Občianskeho zákonníka.
