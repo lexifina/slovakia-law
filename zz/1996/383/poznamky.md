@@ -1,0 +1,1 @@
+- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 213/1996 Z. z. o úprave výšky sadzieb náhrad stravného.
