@@ -1,0 +1,3 @@
+Minister:
+
+Király v. r.
