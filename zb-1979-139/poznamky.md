@@ -1,0 +1,1 @@
+- 1) Vyhláška ministra financií č. 28/1963 Zb. o vydaní mincí po 50 halieroch.
