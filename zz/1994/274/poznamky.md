@@ -42,6 +42,8 @@
 
 - 16) § 8 ods. 2 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb. v znení neskorších predpisov.
 
+- 16a) § 91a zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 245/2000 Z. z.
+
 - 17) § 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení nariadenia vlády Slovenskej republiky č. 645 /1992 Zb. a nariadenia vlády Slovenskej republiky č. 248/1993 Z. z.
 
 - 18) § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
@@ -66,9 +68,19 @@
 
 - 20) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb.
 
-- 20a) § 86 Zákonníka práce.
+- 20c) § 86 Zákonníka práce.
+
+- 20a) § 15 zákona č. 366/1999 Z. z. o daniach z príjmov.
+
+- 20b) § 16 zákona č. 366/1999 Z. z.
 
 - 21) § 279 ods. 2 Občianskeho súdneho poriadku
+
+- 21a) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 21b) § 31 ods. 3 a § 54 ods. 1 písm. c) zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
+
+- 21c) § 20, § 31 ods. 5 a § 56 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
 
 - 22) § 112 zákona č. 100/1988 Zb. v znení neskorších predpisov.
 
