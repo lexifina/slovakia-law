@@ -22,7 +22,7 @@ Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a dopl
 
   - V štvrtom stĺpci text znie:
 
-  - „Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky, Dopravný Slovenskej republiky“.
+  - „Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky, Letecký úrad Slovenskej republiky“.
 
 - V piatom stĺpci text znie:
 
