@@ -1,0 +1,1 @@
+Pavol Hrušovský v. r.
