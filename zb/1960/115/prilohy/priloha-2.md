@@ -50,17 +50,17 @@
 
       - d) oslobodenie od osobných plnení a od priamych daní a dávok z platu vyplácaného zástupcom štátom, ktorý ich vymenoval.
 
-    - 2. Predstavitelia štátov v Rade a ich námestníci požívajú okrem výsad a imunít uvedených v bode 1 tohto článku aj výsady a imunity, ktoré členský štát poskytuje diplomatickým zástupcom.
+    - 2. Stáli predstavitelia štátov v Rade a ich námestníci požívajú okrem výsad a imunít uvedených v bode 1 tohto článku aj výsady a imunity, ktoré členský štát poskytuje diplomatickým zástupcom.
 
     - 3. Výsady a imunity ustanovené v tomto článku sa poskytujú uvedeným osobám výlučne v záujme výkonu funkcie. Každý členský štát Rady sa vzdá imunity svojho zástupcu vo všetkých prípadoch, v ktorých má za to, že imunita je prekážkou výkonu súdnictva a že vydanie sa imunity nebude na ujmu cieľom, pre ktoré sa imunita poskytla.
 
     - 4. Ustanovenia bodov 1 a 2 tohto článku neplatia o pomere medzi zástupcom a orgánmi štátu, ktorého je zástupca občanom.
 
-    - 5. Zástupcami v zmysle tohto článku sa rozumejú predstavitelia štátov v Rade, ich námestníci, vedúci delegácií, ich členovia a sekretári a poradcovia a experti.
+    - 5. Zástupcami v zmysle bodu 1 tohto článku sa rozumejú stáli predstavitelia štátov v Rade, ich námestníci, vedúci delegácií, ich členovia a sekretári a poradcovia a experti.
 
   - Článok V Funkcionári Rady
 
-    - 1. Porada predstaviteľov štátov v Rade vzájomnej hospodárskej pomoci určí na návrh sekretára Rady kategórie funkcionárov, na ktorých sa vzťahujú ustanovenia tohto článku. Mená týchto funkcionárov sekretár Rady pravidelne oznamuje príslušným orgánom členských štátov Rady.
+    - 1. Výkonný výbor Rady vzájomnej hospodárskej pomoci určí na návrh sekretára Rady kategórie funkcionárov, na ktorých sa vzťahujú ustanovenia tohto článku. Mená týchto funkcionárov oznamuje sekretár Rady pravidelne členským štátom Rady.
 
     - 2. Funkcionári Rady na území členských štátov Rady
 
@@ -74,7 +74,7 @@
 
     - 3. Sekretár Rady a jeho námestníci požívajú okrem výsad a imunít uvedených v bode 2 tohto článku aj výsady a imunity, ktoré členský štát poskytuje diplomatickým zástupcom.
 
-    - 4. Výsady a imunity ustanovené v tomto článku sa poskytujú uvedeným osobám výlučne v záujme Rady a nezávislého výkonu služobných funkcií. Sekretár Rady sa vzdá imunity poskytovanej ktorémukoľvek funkcionárovi v tých prípadoch, v ktorých podľa jeho názoru imunita je prekážkou výkonu súdnictva a možno sa jej vzdať, bez toho, že by to bolo na ujmu záujmom Rady. Pokiaľ ide o sekretára Rady a jeho námestníkov, prislúcha právo vzdať sa imunity Porade predstaviteľov štátov v Rade.
+    - 4. Výsady a imunity ustanovené v tomto článku sa poskytujú uvedeným osobám výlučne v záujme Rady a nezávislého výkonu služobných funkcií. Sekretár Rady sa vzdá imunity poskytovanej ktorémukoľvek funkcionárovi v tých prípadoch, v ktorých podľa jeho názoru imunita je prekážkou výkonu súdnictva a možno sa jej vzdať, bez toho, že by to bolo na ujmu záujmom Rady. Pokiaľ ide o sekretára Rady a jeho námestníkov, patrí právo vzdať sa imunity Výkonnému výboru Rady.
 
     - 5. Ustanovenia bodu 2 písm. b) a c) tohto článku sa nevzťahujú na funkcionárov Rady, ktorí sú občanmi štátu, na území ktorého má svoje sídlo orgán Rady, v ktorom pracujú.
 
@@ -86,7 +86,7 @@
 
     - 3. Dohovor nadobudne platnosť, len čo všetky členské štáty Rady, ktoré Dohovor podpísali, uložia ratifikačné listiny; depozitár upovedomí o tom tieto štáty.
 
-    - 4. Pre štát, ktorý bude podľa článku II bodu 2 Štatútu Rady vzájomnej hospodárskej pomoci prijatý do Rady, nadobúda tento Dohovor platnosť dňom, keď tento štát uloží listinu o ratifikácii Dohovoru; depozitár o tom upovedomí členské štáty Rady.
+    - 4. Pre štát, ktorý bude podľa článku II bodu 2 Štatútu Rady vzájomnej hospodárskej pomoci prijatý do Rady, a vyhlási svoj súhlas s prístupom k tomuto Dohovoru, nadobúda tento Dohovor platnosť dočasne dňom, keď sa Zasadanie Rady uznesie o prijatí tohto štátu za člena Rady, a s konečnou platnosťou dňom, keď tento štát uloží listinu o ratifikácii Dohovoru; depozitár o tom upovedomí členské štáty Rady.
 
     - 5. Tento Dohovor sa spísal v jednom vyhotovení v jazyku ruskom. Dohovor sa uloží u vlády Sväzu sovietskych socialistických republík, ktorá overené odpisy Dohovoru rozošle vládam všetkých ostatných členských štátov Rady a bude upovedomovať tieto vlády a sekretára Rady, že ratifikačné listiny sa uložili u vlády Sväzu sovietskych socialistických republík.
 
