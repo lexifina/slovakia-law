@@ -138,105 +138,89 @@
 
       - 2. O tom, ktoré motorové vozidlá sa posudzujú ako motocykle, platí pre účely správnych poplatkov obdobne ustanovenie § 4 ods. 1 vyhlášky č. 99/1964 Zb., ktorou sa vykonáva zákon o dani z motorových vozidiel.
 
-    - Pol. | Predmet poplatku | Poplatok Kčs | | | | | |
+    - Pol. | Predmet poplatku | Poplatok Kčs | | | |
 
-    - 20. | Schválenie technickej spôsobilosti motorového vozidla zostaveného (i amatérsky) zo súčiastok, a to ak ide o: | | | | | | |
+    - 20. | Schválenie technickej spôsobilosti motorového vozidla zostaveného (i amatérsky) zo súčiastok, a to ak ide o: | | | | |
 
-    - | a) jednostopové vozidlá s obsahom do 50 ccm | 500,- | | | | | |
+    - | a) jednostopové vozidlá s obsahom do 50 ccm | 500,- | | | |
 
-    - | b) ostatné jednostopové vozidlá (vrátane motocyklov s postranným vozíkom a motorových trojkoliek - ríkš) | 2000,- | | | | | |
+    - | b) ostatné jednostopové vozidlá (vrátane motocyklov s postranným vozíkom a motorových trojkoliek - ríkš) | 2000,- | | | |
 
-    - | c) osobné automobily (vráane tzv. autíčok) | 12 000,- | | | | | |
+    - | c) osobné automobily (vráane tzv. autíčok) | 12 000,- | | | |
 
-    - | d) ostatné dvojstopové vozidlá | 15 000,- | | | | | |
+    - | d) ostatné dvojstopové vozidlá | 15 000,- | | | |
 
-    - | Poznámky 1. V poplatku je zahrnutý i poplatok za skúšku na schválenie technickej spôsobilosti, za vydanie technického preukazu a osvedčenia o technickom preukaze pre motorové vozidlo. 2. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. b) a c) o 50 %. 3. Ak sa vo výnimočných prípadoch dodatočne povolí stavba motorového vozidla, ktoré bolo zostavené bez predchádzajúceho povolenia príslušných orgánov, vyberie sa poplatok sadzbou zvýšenou o 30 %. 4. Podľa tejto položky sa vyberie poplatok tiež v prípadoch, ak schvaľuje správny orgán technickú spôsobilosť motorového vozidla, ktoré bolo predtým na žiadosť držiteľa alebo z úradného príkazu trvale vyradené z prevádzky. Správny orgán môže v prípadoch uvedených v predchádzajúcej vete podľa okolností znížiť poplatok až na jednu pätinu sadzby. 5. Poplatok podľa pol. 20 písm. d) za schválenie technickej spôsobilosti špeciálneho automobilu (sériove nevyrábaného) a traktora zostaveného zo súčiastok sa znižuje na jednu tretinu. | | | | | | |
+    - | Poznámky 1. V poplatku je zahrnutý i poplatok za skúšku na schválenie technickej spôsobilosti, za vydanie technického preukazu a osvedčenia o technickom preukaze pre motorové vozidlo. 2. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. b) a c) o 50 %. 3. Ak sa vo výnimočných prípadoch dodatočne povolí stavba motorového vozidla, ktoré bolo zostavené bez predchádzajúceho povolenia príslušných orgánov, vyberie sa poplatok sadzbou zvýšenou o 30 %. 4. Podľa tejto položky sa vyberie poplatok tiež v prípadoch, ak schvaľuje správny orgán technickú spôsobilosť motorového vozidla, ktoré bolo predtým na žiadosť držiteľa alebo z úradného príkazu trvale vyradené z prevádzky. Správny orgán môže v prípadoch uvedených v predchádzajúcej vete podľa okolností znížiť poplatok až na jednu pätinu sadzby. 5. Poplatok podľa pol. 20 písm. d) za schválenie technickej spôsobilosti špeciálneho automobilu (sériove nevyrábaného) a traktora zostaveného zo súčiastok sa znižuje na jednu tretinu. | | | | |
 
-    - 21. | Schválenie technickej spôsobilosti motorového vozidla alebo prívesu po zmene jeho podstatnej časti, ak sa použili časti iného typu, ako boli pôvodné | | | | | | |
+    - 21. | Schválenie technickej spôsobilosti motorového vozidla alebo prívesu po zmene jeho podstatnej časti, ak sa použili časti iného typu, ako boli pôvodné | | | | |
 
-    - | a) jednostopových motorových vozidiel | | | | | | |
+    - | a) jednostopových motorových vozidiel | | | | |
 
-    - | aa) s obsahom valcov do 50 ccm | 50,- | | | | | |
+    - | aa) s obsahom valcov do 50 ccm | 50,- | | | |
 
-    - | bb) s obsahom valcov nad 50 ccm (včítane motorových trojkoliek - ríkš) | 200,- | | | | | |
+    - | bb) s obsahom valcov nad 50 ccm (včítane motorových trojkoliek - ríkš) | 200,- | | | |
 
-    - | b) dvojstopových motorových vozidiel (včítane tzv. autíčok) | 400,- | | | | | |
+    - | b) dvojstopových motorových vozidiel (včítane tzv. autíčok) | 400,- | | | |
 
-    - | Poznámky 1. Súčasná alebo postupná výmena dvoch podstatných častí motorového vozidla za časti iného typu sa považuje za zostavenie vozidla zo súčiastok. 2. Za schválenie technickej spôsobilosti motorového vozidla, ak sa pripojí a) k motocyklu postranný vozík, b) za osobný alebo dodávkový automobil alebo za motocykel prívesný vozík, vyberie sa poplatok vo výške 100 Kčs. Pri prívesných a postranných vozíkoch k motocyklu, technickú spôsobilosť ktorých schválilo Ministerstvo dopravy pre určitý typ motocykla, a pri schválených typoch prívesov za osobné a dodávkové automobily sa vyberie poplatok podľa položky 23b. 3. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. a) bb) o polovicu, podľa písm. b) o 30 %. 4. Za schválenie technickej spôsobilosti vozidla, ktorého prestavba sa vykonala bez predchádzajúceho povolenia, poplatok sa primerane zvýši až na dvojnásobok sadzby, najmenej však o 20 %. | | | | | | |
+    - | Poznámky 1. Súčasná alebo postupná výmena dvoch podstatných častí motorového vozidla za časti iného typu sa považuje za zostavenie vozidla zo súčiastok. 2. Za schválenie technickej spôsobilosti motorového vozidla, ak sa pripojí a) k motocyklu postranný vozík, b) za osobný alebo dodávkový automobil alebo za motocykel prívesný vozík, vyberie sa poplatok vo výške 100 Kčs. Pri prívesných a postranných vozíkoch k motocyklu, technickú spôsobilosť ktorých schválilo Ministerstvo dopravy pre určitý typ motocykla, a pri schválených typoch prívesov za osobné a dodávkové automobily sa vyberie poplatok podľa položky 23b. 3. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. a) bb) o polovicu, podľa písm. b) o 30 %. 4. Za schválenie technickej spôsobilosti vozidla, ktorého prestavba sa vykonala bez predchádzajúceho povolenia, poplatok sa primerane zvýši až na dvojnásobok sadzby, najmenej však o 20 %. | | | | |
 
-    - 22. | Zápis zmeny držiteľa motorového vozidla alebo prívesu (aj s vykonaním opráv v príslušných dokladoch): | | | | | | |
+    - 22. | Zápis zmeny držiteľa motorového vozidla alebo prívesu (aj s vykonaním opráv v príslušných dokladoch): | | | | |
 
-    - | a) jednostopových motorových vozidiel | | | | | | |
+    - | a) jednostopových motorových vozidiel | | | | |
 
-    - | aa) do 50 ccm | 20,- | | | | | |
+    - | aa) do 50 ccm | 20,- | | | |
 
-    - | bb) ostatných (vrátane motocyklov s prívesným alebo postranným vozíkom a motorových trojkoliek - ríkš) | 200,- | | | | | |
+    - | bb) ostatných (vrátane motocyklov s prívesným alebo postranným vozíkom a motorových trojkoliek - ríkš) | 200,- | | | |
 
-    - | b) dvojstopových motorových vozidiel nadobudnutých pred 10. 6. 1969 a na poradník po 9. 6. 1969, ak ide o zápis prvej zmeny držiteľa motorového vozidla: | | | | | | |
+    - | b) dvojstopových osobných motorových vozidiel nadobudnutých pred 10. júnom 1969 a na poradník po 9. júni 1969, ak ide o zápis prvej zmeny držiteľa motorového vozidla s výnimkou Škoda 1000 MB a Š 100 všetky vyhotovenia: | | | | |
 
-    - | Poplatok pri veku motorového vozidla | | | | | | |
+    - | Poplatok pri veku motorového vozidla | | | | |
 
-    - | Značka a typ | do 1 roku vrátane | staršieho | | | | |
+    - | Značka a typ | do 1 roka vrátane | do 2 rokov vrátane | do 3 rokov vrátane | do 4 rokov vrátane | do 5 rokov vrátane
 
-    - | | | ako 1 rok do 2 rokov vrátane | ako 2 roky do 3 rokov vrátane | ako 3 roky do 4 rokov vrátane | ako 4 roky do 5 rokov vrátane | ako 5 roky do 6 rokov vrátane | ako 6 roky do 7 rokov vrátane
+    - | I. skupina Simca 1301, 1501 všetky vyhotovenia | 14 000 | 12 000 | 10 000 | 6 000 | 3 000
 
-    - | I. Trabant 600, 601 Wartburg 311 Simca Aronde, Elysée, Étoile, Arianne, Monthlery Warszawa 201 všetky vyhotovenia Moskvič 403, 407 Záporožec | 9 000 | 8 000 | 7 000 | 6 000 | 4 000 | 2 000 | 1 000
+    - | II. skupina Ford Cortina všetky typy a vyhotovenia Saab všetky vyhotovenia Fiat 850 Volga všetky vyhotovenia Tatra 603 všetky vyhotovenia | 10 000 | 8 000 | 6 000 | 4 000 | 2 000
 
-    - | II. Škoda Octavia, Felicia, všetky vyhotovenia Škoda 1 000 MB všetky vyhotovenia Škoda 1 100 MB všetky vyhotovenia Škoda 1 202 všetky vyhotovenia Wartburg 353 všetky vyhotovenia Warszawa 203 všetky vyhotovenia Renault R-8 Hillman-Minx všetky vyhotovenia Moskvič 408 Fiat 600 všetky vyhotovenia | 18 000 | 16 000 | 14 000 | 12 000 | 8 000 | 4 000 | 2 000
+    - | III. skupina Motorové vozidlá neuvedené v skupine I a II | 5 000 | 4 000 | 3 000 | 2 000 | 1 000
 
-    - | III. Fiat 600 D, 850 všetky vyhotovenia Renault R - 10 Ford Cortina všetky vyhotovenia Saab 96 | 27 000 | 24 000 | 21 000 | 18 000 | 12 000 | 6 000 | 3 000
+    - | c) ostatných dvojstopových motorových vozidiel (vrátane Š 1000 MB a Š 100) | 600,- | | | |
 
-    - | IV. Simca 1 300, 1 500, 1 301, 1 501 všetky vyhotovenia Ford Cortina 1 300, 1 500, 1 600 všetky vyhotovenia Saab 96 - V 4 a 99 všetky vyhotovenia Volga všetky vyhotovenia Fiat 125 - P Tatra T-603 všetky vyhotovenia Renault R - 16 | 36 000 | 32 000 | 28 000 | 24 000 | 16 000 | 8 000 | 4 000
+    - | Poznámky 1. Ak došlo k prvej zmene držiteľa motorového vozidla uvedeného v I. až III. skupine staršieho ako 5 rokov, vyberie sa poplatok podľa písm. c) tejto položky. 2. Ak došlo k prvej zmene držiteľa motorového vozidla pred 10. júnom 1969 medzi blízkymi osobami,*) nepovažuje sa táto zmena za prvú zmenu v zmysle položky 22 písm. b). 3. Poplatok je povinný zaplatiť doterajší držiteľ pri ohlásení prevodu. 4. Pokiaľ pre určenie sadzby poplatku rozhoduje vek vozidla, je pre posúdenie rozhodujúci ročník výroby zaznačený v evidencii dopravného inšpektorátu VB. V tých prípadoch, v ktorých sa koncom roka dodávajú vozidlá, pri ktorých je na typovom štítku a v technickom preukaze uvedený nasledujúci rok ako rok výroby, je pre určenie sadzby poplatku rozhodujúci rok, v ktorom bolo vozidlo zapísané do evidencie. Ak bolo motorové vozidlo prestavané na iný typ, rozhoduje typ, ktorý je zaznačený v evidencii dopravného inšpektorátu VB. 5. Ak sa už za zápis zmeny držiteľa motorového vozidla vybral poplatok podľa písm. b), všetky ďalšie zápisy zmien držiteľa tohto vozidla podliehajú sadzbe podľa písm. c). 6. Ak došlo k zmene držiteľa motorového vozidla uvedeného pod písm. b) úplne alebo čiastočne bezodplatným prevodom, odpočíta sa od určeného poplatku zaplatený notársky poplatok z darovania, ktorý sa preukázateľne zaplatil za darované vozidlo. 7. Poplatok sa neplatí, ak došlo k zmene držiteľa motorového vozidla - z poručiteľa na dediča, - na úradný príkaz alebo rozhodnutím súdu, - pre zánik manželstva a s ním spojené vyrovnanie bezpodielového spoluvlastníctva manželov, - darovaním medzi rodičmi a deťmi, ak sa preukázateľne zaplatil notársky poplatok z darovania. Ak však ide v spomenutých prípadoch o motorové vozidlá uvedené pod písm. b), vyberie sa poplatok za zápis zmeny držiteľa motorového vozidla pri ďalšom prevode sadzbou podľa cit. ustanovenia zodpovedajúcou veku vozidla v čase zápisu zmeny držiteľa. Ak už došlo k prevodu motorového vozidla uvedeného pod písm. b) z poručiteľa na dediča, na úradný príkaz, rozhodnutím súdu alebo pre zánik manželstva a s ním spojené vyrovnanie bezpodielového spoluvlastníctva manželov alebo darovaním medzi rodičmi a deťmi pred 10. júnom 1969 a poplatok sa nevybral alebo sa vybral vo výške 600 Kčs, poplatok za zápis zmeny držiteľa motorového vozidla na ďalšie osoby sa vyberie v uvedených prípadoch podľa písm. b). 8. Pri vzájomnej prvej výmene dvojstopových motorových vozidiel, ktorých ročník výroby sa neodlišuje o viac ako dva roky, platí každý držiteľ poplatok vo výške určenej pod písm. c). Ak ide o motorové vozidlá uvedené pod písm. b), zaplatí prevodca pri najbližšom budúcom zápise zmeny držiteľa motorového vozidla poplatok sadzbou podľa citovaného ustanovenia zodpovedajúcou veku vozidla v čase zápisu zmeny. 9. Za zápis zmeny držiteľa dvojstopového motorového vozidla zariadeného pre invalidov a prevádzaného medzi invalidmi vyberie sa poplatok znížený o polovicu. 10. Za motorové vozidlá získané na poradník sa považujú aj vozidlá získané z rezervy vedúcich ústredných orgánov, na základe príslušných smerníc nositeľmi čs. radov a vyznamenaní, ďalej vozidlá poškodené, výstavné alebo ojazdené a získané občanom od socialistickej organizácie. Toto ustanovenie sa nevzťahuje na vozidlá zakúpené socialistickou organizáciou za ceny voľného trhu platné po 9. júni 1969. Ak prevádza socialistická organizácia poškodené, výstavné alebo ojazdené motorové vozidlo na súkromného držiteľa alebo na inú socialistickú organizáciu, zaplatí za zápis zmeny držiteľa motorového vozidla poplatok podľa písm. c). 11. Za zápis prvej (i ďalšej) zmeny držiteľa motorového vozidla továrenskej značky Volga a Tatra 603 získaného na poradník po 9. júni 1969 vyberie sa poplatok podľa písm. c). Ak však ide o prvý prevod týchto motorových vozidiel získaných občanmi kúpou od socialistickej organizácie po 9. júni 1969, ktorá ich zakúpila pred 10. júnom 1969, vyberie sa poplatok podľa písm. b). 12. Za zápis zmeny držiteľa motorového vozidla získaného výhrou vo vecnej lotérii a individuálne dovezeného z cudziny pred 10. júnom 1969 vyberie sa za prvý prevod poplatok podľa písm. b) znížený o 50 % sadzby, s výnimkou motorových vozidiel Š 1000 MB a Š 100. 13. Za zápis zmeny držiteľa motorového vozidla zakúpeného na tuzexové poukážky a individuálne dovezeného z cudziny po 9. júni 1969 vyberie sa poplatok podľa písm. c). 14. Za zápis zmeny držiteľa motorového vozidla zakúpeného priamo od zahraničnej afilácie a prepraveného do Československej socialistickej republiky po 9. júni 1969 vyberie sa za prvý prevod poplatok podľa písm. c) za predpokladu, že sa zaplatil colný poplatok. Ak sa colný poplatok nezaplatil, vyberie sa poplatok sadzbou podľa písm. b). Za zápis zmeny držiteľa motorového vozidla zakúpeného priamo od zahraničnej afilácie a prepraveného do Československej socialistickej republiky pred 10. júnom 1969, vyberie sa za prvý prevod poplatok podľa písm. b) znížený o 50 % sadzby. Motorové vozidlo zakúpené prostredníctvom afilácie a prevzaté kupujúcim na území Československej socialistickej republiky, ktoré nepodlieha colnému poplatku, posudzuje sa na účely správnych poplatkov ako vozidlo zakúpené od tuzemskej socialistickej organizácie, i keď faktúru vystavila zahraničná firma (zástupca). Za prvý zápis zmeny držiteľa takto zakúpeného vozidla vyberie sa poplatok podľa písm. b). | | | | |
 
-    - | V. Z motorových vozidiel neuvedených v skupine I. až IV. sa vyberie poplatok pri vozidlách s obsahom valcov: | | | | | | |
+    - 23. | a) Vydanie štátnej poznávacej značky pre osobné automobily, ktoré neboli dosiaľ v evidencii dopravného inšpektorátu | 100,- | | | |
 
-    - | a) do 900 ccm | | sadzbou uvedenou v I. skupine | | | | |
+    - | b) Vydanie štátnej poznávacej značky v prípadoch, na ktoré sa nevzťahuje pol. 23 písm. a), vydanie zvláštnej poznávacej značky, zápis zmeny stanovišťa motorového vozidla, zmeny mena alebo priezviska alebo adresy držiteľa motorového vozidla a iné podobné zmeny i s vydaním príslušných dokladov alebo vykonanie zmeny v nich | 10,- | | | |
 
-    - | b) nad 900 ccm do 1 250 ccm | | sadzbou uvedenou v II. skupine | | | | |
+    - | Poznámky 1. Ak sa poplatok vymeral podľa pol. 20, 21 alebo 22, nevymeria sa už poplatok podľa tejto položky. 2. Poplatok podľa písm. b) možno vymerať až vo výške desaťnásobku sadzby, ak sa neohlásili v určenej lehote skutočnosti, ktorých hlásenie je nariadené príslušnými predpismi o premávke na cestách.*) | | | | |
 
-    - | c) nad 1 250 ccm do 1 500 ccm | | sadzbou uvedenou v III. skupine | | | | |
+    - 24. | Za povolenie individuálneho výcviku vodičov | | | | |
 
-    - | d) nad 1 500 ccm | | sadzbou uvedenou v IV. skupine | | | | |
+    - | a) jednostopových motorových vozidiel | | | | |
 
-    - | Pri vozidlách starších ako 7 rokov sa vyberie poplatok 600 Kčs. | | | | | | |
+    - | aa) do 50 ccm | 50,- | | | |
 
-    - | c) ostatných dvojstopových motorových vozidiel | 600,- | | | | | |
+    - | bb) ostatných | 150,- | | | |
 
-    - | Poznámky 1. Ak došlo k prvej zmene držiteľa motorového vozidla pred 10.6.1969 medzi blízkymi osobami,*) nepovažuje sa táto zmena za prvú zmenu v zmysle položky 22 písm. b). 2. Poplatok je povinný zaplatiť doterajší držiteľ pri ohlásení prevodu. 3. Pokiaľ pre určenie sadzby poplatku rozhoduje vek vozidla, je pre posúdenie rozhodujúci ročník výroby zaznačený v evidencii dopravného inšpektorátu VB. V tých prípadoch, v ktorých sa koncom roka dodávajú vozidlá, pri ktorých je na typovom štítku a v technickom preukaze uvedený nasledujúci rok ako rok výroby, je pre určenie sadzby poplatku rozhodujúci rok, v ktorom bolo vozidlo zapísané do evidencie. Ak bolo motorové vozidlo prestavané na iný typ, rozhoduje typ, ktorý je zaznačený v evidencii dopravného inšpektorátu VB. 4. Ak došlo k zmene držiteľa motorového vozidla uvedeného pod písm. b) úplne alebo čiastočne bezodplatným prevodom, odpočíta sa od určeného poplatku zaplatený notársky poplatok z darovania, ktorý sa preukázateľne zaplatil za darované vozidlo. 5. Ak došlo k zmene držiteľa motorového vozidla z poručiteľa na dediča, poplatok sa neplatí; ak však ide o motorové vozidlá uvedené pod písm. b), vyberie sa poplatok za zápis zmeny držiteľa motorového vozidla z dediča na ďalšieho držiteľa sadzbou podľa citovaného ustanovenia zodpovedajúcou veku motorového vozidla v čase zápisu zmeny držiteľa. Predchádzajúce ustanovenie tejto poznámky sa použije obdobne, ak dôjde k zmene držiteľa na úradný príkaz, rozhodnutím súdu alebo pre zánik manželstva a s ním spojeného vyporiadania bezpodielového spoluvlastníctva manželov alebo darovaním vozidla medzi rodičmi a deťmi. 6. Ak došlo k prevodu motorového vozidla uvedeného pod písmenom b) z poručiteľa na dediča, na úradný príkaz, rozhodnutím súdu alebo pre zánik manželstva a s ním spojeného vyporiadania bezpodielového spoluvlastníctva manželov alebo darovaním medzi rodičmi a deťmi pred 10. 6. 1969 a nevybral sa poplatok alebo sa vybral poplatok vo výške 600 Kčs, vyberie sa poplatok za zápis zmeny držiteľa motorového vozidla na ďalšie osoby v uvedených prípadoch podľa písmena b). 7. Pri vzájomnej výmene dvojstopových motorových vozidiel, ktorých ročník výroby sa neodlišuje o viac ako 2 roky, platí každý držiteľ poplatok vo výške určenej pod písmenom c). Ak ide o motorové vozidlá uvedené pod písmenom b), zaplatí prevodca pri najbližšom budúcom zápise zmeny držiteľa motorového vozidla poplatok sadzbou podľa citovaného ustanovenia zodpovedajúcou veku vozidla v čase zápisu zmeny. 8. Za zápis zmeny držiteľa dvojstopového motorového vozidla zariadeného pre invalidov a prevádzaného medzi invalidmi vyberá sa poplatok znížený o polovicu. 9. Za motorové vozidlá získané na poradník sa považujú aj vozidlá získané z rezervy vedúcich ústredných orgánov, získané na základe príslušných smerníc nositeľmi čs. radov a vyznamenaní, ďalej vozidlá poškodené, ojazdené, výstavné a iné získané od socialistických organizácií. 10. Za zápis zmeny držiteľa motorového vozidla získaného výhrou v lotérii alebo individuálne dovezeného z cudziny znižuje sa poplatok podľa písmena b) na polovicu. Za zápis zmeny držiteľa motorového vozidla zakúpeného v Tuzexe vyberie sa poplatok podľa písmena c). 11. Ak sa za zápis zmeny držiteľa motorového vozidla vybral poplatok podľa písmena b), podliehajú všetky ďalšie zápisy zmien držiteľa tohto vozidla sadzbe podľa písmena c). | | | | | | |
+    - | b) dvojstopových motorových vozidiel | 450,- | | | |
 
-    - 23. | a) Vydanie štátnej poznávacej značky pre osobné automobily, ktoré neboli dosiaľ v evidencii dopravného inšpektorátu | 100,- | | | | | |
+    - | Poznámky 1. Ak povoľuje správny orgán tomu istému žiadateľovi súčasne výcvik vodičov tak jednostopových, ako aj dvojstopových motorových vozidiel, poplatok je 600 Kčs. 2. Správny orgán môže poplatok znížiť, príp. od jeho vybratia upustiť, ak povoľuje individuálny výcvik vodičov-invalidov, ktorí v dôsledku svojej invalidity potrebujú osobitnú úpravu motorového vozidla. | | | | |
 
-    - | b) Vydanie štátnej poznávacej značky v prípadoch, na ktoré sa nevzťahuje pol. 23 písm. a), vydanie zvláštnej poznávacej značky, zápis zmeny stanovišťa motorového vozidla, zmeny mena alebo priezviska alebo adresy držiteľa motorového vozidla a iné podobné zmeny i s vydaním príslušných dokladov alebo vykonanie zmeny v nich | 10,- | | | | | |
+    - 25. | Povolenie na vykonávanie dopravy osôb alebo nákladov udelené podľa zákona č. 57/1950 Zb. o úprave podnikania v cestnej doprave tuzemskej alebo zahraničnej organizácii (podniku, podnikateľovi) | 200,- až 1000,- | | | |
 
-    - | Poznámky 1. Ak sa poplatok vymeral podľa pol. 20, 21 alebo 22, nevymeria sa už poplatok podľa tejto položky. 2. Poplatok podľa písm. b) možno vymerať až vo výške desaťnásobku sadzby, ak sa neohlásili v určenej lehote skutočnosti, ktorých hlásenie je nariadené príslušnými predpismi o premávke na cestách.*) | | | | | | |
+    - | Poznámky 1. Poplatok sa nevyberie, ak ide o nepravidelnú prepravu osôb pri zabezpečovaní brigádnických prác a pri nepravidelnej preprave osôb a telovýchovného inventára, ak sa tým zabezpečuje plnenie plánu rozvoja telovýchovy a športu. 2. Ak sa vodič motorového vozidla pri vstupe na územie ČSSR a pri výstupe z územia ČSSR nepreukáže riadnym povolením, vyberie sa poplatok vo výške dvojnásobku sadzby. 3. Správny orgán so súhlasom Ministerstva financií určí poplatok na základe vzájomnosti vo výške, v akej vyberá poplatok štát, ktorého je podnik (podnikateľ) príslušníkom, prípadne môže od vybratia poplatku upustiť. | | | | |
 
-    - 24. | Za povolenie individuálneho výcviku vodičov | | | | | | |
+    - 25a. | Povolenie na zvláštne užívanie ciest a miestnych komunikácií I., II. a III. triedy pri preprave zvlášť ťažkých, rozmerných predmetov a na užívanie vozidiel, ktorých rozmer alebo váha presahuje mieru ustanovenú osobitnými predpismi | | | | |
 
-    - | a) jednostopových motorových vozidiel | | | | | | |
+    - | a) pri doprave po cestách presahujúcich územie obvodu jedného okresu | 200,- | | | |
 
-    - | aa) do 50 ccm | 50,- | | | | | |
+    - | b) pri doprave po cestách v obvode jedného okresu | 100,- | | | |
 
-    - | bb) ostatných | 150,- | | | | | |
+    - | >Poznámka V prípadoch uvedených pod písm. a) vyberá poplatok KNV (NVP), aj keď doprava presahuje jeho územie, v prípadoch uvedených pod písm. b) ONV. | | | | |
 
-    - | b) dvojstopových motorových vozidiel | 450,- | | | | | |
+    - 25b. | Povolenie na zvláštne užívanie pozemnej komunikácie podľa písm. b) až g) § 13 vyhlášky č. 136/1961 Zb., ktorou sa vykonáva zákon o cestných komunikáciách (cestný zákon) | 100,- až 500,- | | | |
 
-    - | Poznámky 1. Ak povoľuje správny orgán tomu istému žiadateľovi súčasne výcvik vodičov tak jednostopových, ako aj dvojstopových motorových vozidiel, poplatok je 600 Kčs. 2. Správny orgán môže poplatok znížiť, príp. od jeho vybratia upustiť, ak povoľuje individuálny výcvik vodičov-invalidov, ktorí v dôsledku svojej invalidity potrebujú osobitnú úpravu motorového vozidla. | | | | | | |
-
-    - 25. | Povolenie na vykonávanie dopravy osôb alebo nákladov udelené podľa zákona č. 57/1950 Zb. o úprave podnikania v cestnej doprave tuzemskej alebo zahraničnej organizácii (podniku, podnikateľovi) | 200,- až 1000,- | | | | | |
-
-    - | Poznámky 1. Poplatok sa nevyberie, ak ide o nepravidelnú prepravu osôb pri zabezpečovaní brigádnických prác a pri nepravidelnej preprave osôb a telovýchovného inventára, ak sa tým zabezpečuje plnenie plánu rozvoja telovýchovy a športu. 2. Ak sa vodič motorového vozidla pri vstupe na územie ČSSR a pri výstupe z územia ČSSR nepreukáže riadnym povolením, vyberie sa poplatok vo výške dvojnásobku sadzby. 3. Správny orgán so súhlasom Ministerstva financií určí poplatok na základe vzájomnosti vo výške, v akej vyberá poplatok štát, ktorého je podnik (podnikateľ) príslušníkom, prípadne môže od vybratia poplatku upustiť. | | | | | | |
-
-    - 25a. | Povolenie na zvláštne užívanie ciest a miestnych komunikácií I., II. a III. triedy pri preprave zvlášť ťažkých, rozmerných predmetov a na užívanie vozidiel, ktorých rozmer alebo váha presahuje mieru ustanovenú osobitnými predpismi | | | | | | |
-
-    - | a) pri doprave po cestách presahujúcich územie obvodu jedného okresu | 200,- | | | | | |
-
-    - | b) pri doprave po cestách v obvode jedného okresu | 100,- | | | | | |
-
-    - | Poznámka V prípadoch uvedených pod písm. a) vyberá poplatok KNV (NVP), aj keď doprava presahuje jeho územie, v prípadoch uvedených pod písm. b) ONV. | | | | | | |
-
-    - 25b. | Povolenie na zvláštne užívanie pozemnej komunikácie podľa písm. b) až g) § 13 vyhlášky č. 136/1961 Zb., ktorou sa vykonáva zákon o cestných komunikáciách (cestný zákon) | 100,- až 500,- | | | | | |
-
-    - | Poznámky 1. Poplatok sa nevyberie, ak ide o povolenie na zloženie materiálu potrebného na opravu alebo údržbu pozemnej komunikácie, pokiaľ doba skládky nepresiahla dobu potrebnú na vykonanie prác. 2. Poplatok sa taktiež nevyberie za povolenie za užívanie pozemnej komunikácie, ak ide o usporiadanie kultúrneho, zábavného, športového alebo iného podniku celoštátneho významu. | | | | | | |
+    - | Poznámky 1. Poplatok sa nevyberie, ak ide o povolenie na zloženie materiálu potrebného na opravu alebo údržbu pozemnej komunikácie, pokiaľ doba skládky nepresiahla dobu potrebnú na vykonanie prác. 2. Poplatok sa taktiež nevyberie za povolenie za užívanie pozemnej komunikácie, ak ide o usporiadanie kultúrneho, zábavného, športového alebo iného podniku celoštátneho významu. | | | | |
 
   - Oddiel E Letecká doprava a telekomunikácie Pol. | Predmet poplatku | Poplatok Kčs
 
