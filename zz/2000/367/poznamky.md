@@ -12,9 +12,11 @@
 
 - 7) Zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
 
-- 8) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- 8) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
-- 9) Zákon č. 222/1946 Zb. o pošte (poštový zákon).
+- 9) § 5 zákona č. 507/2001 Z. z. o poštových službách.
+
+- 9a) § 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 32/2002 Z. z.
 
 - 10) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
 
@@ -28,15 +30,15 @@
 
 - 15) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
 
+- 15a) Napríklad zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení zákona č. 302/1999 Z. z., zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 15b) § 347 zákona č. 238/2001 Z. z. Colný zákon.
+
+- 15c) Napríklad zákon č. 539/1992 Zb. o puncovníctve a skúšaní drahých kovov (puncový zákon).
+
 - 16) Zákon Národnej rady Slovenskej republiky č. 162/1993 Zb. o občianskych preukazoch v znení neskorších predpisov.Zákon č. 381/1997 Z. z. o cestovných dokladoch.Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.Zákon č. 351/1997 Z. z. Branný zákon.
 
-- 17) Zákon Národnej rady Slovenskej republiky č. 283/1995 Zb. o utečencoch v znení zákona č. 309/2000 Z. z.
-
-- 18) § 2 ods. 2 zákona č. 513/1991 Zb.
-
 - 19) Napríklad zákon č. 21/1992 Zb. v znení neskorších predpisov.
-
-- 20) Napríklad zákon č. 21/1992 Zb. v znení neskorších predpisov.
 
 - 21) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 116/2000 Z. z.
 
@@ -48,6 +50,4 @@
 
 - 25) Napríklad zákon č. 21/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, zákon Slovenskej národnej rady č. 24/1991 Zb. v znení neskorších predpisov.
 
-- 26) Napríklad zákon č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov, zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov, zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov a zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
-
-- 27) § 78 ods. 5 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
+- 25a) Napríklad zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov, zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
