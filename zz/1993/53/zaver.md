@@ -42,7 +42,7 @@ e) platby fyzickej osobe s trvalým pobytom a právnickej osobe so sídlom na ú
 
 f) príspevky z členstva v medzinárodných mimovládnych organizáciách so sídlom na území druhej republiky,
 
-g) nepredvídané výdavky spojené s dopravou alebo odťahom poškodených a havarovaných motorových vozidiel z územia druhej republiky,
+g) nepredvídané výdavky spojené s dopravou alebo odťahom poškodených a havarovaných dopravných prostriedkov z územia druhej republiky,
 
 h) výdavky za naliehavé lekárske ošetrenie na území druhej republiky a nevyhnutnú dopravu pacienta do tuzemska,
 
@@ -65,3 +65,5 @@ p) podpory fyzickým osobám s trvalým pobytom na území druhej republiky do v
 q) výdavky spojené s údržbou hrobov na území druhej republiky,
 
 r) iné výdavky podľa dohody zmluvných strán.
+
+s) úhrady preukázateľných výdavkov spojených so správou a udržiavaním nehnuteľností na území druhej republiky, ako aj na platenie bežných úrokov a splátok hypotekárnych pôžičiek dohodnutých v súlade so zákonom, pokiaľ na ich platenie nie je možné použiť výnosy z tejto nehnuteľnosti.
