@@ -16,6 +16,8 @@
 
 - 9) Zákon č. 71/1967 Zb.
 
+- 9a) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+
 - 10) § 673 až 681 Obchodného zákonníka.
 
 - 11) § 55 zákona č. 600/1992 Zb. v znení neskorších predpisov.
@@ -57,8 +59,6 @@
 - 29) § 116 Občianskeho zákonníka.
 
 - 30) § 80 zákona č. 600/1992 Zb. v znení neskorších predpisov.
-
-- 31) § 9 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 32) § 70 ods. 3, § 71 ods. 5, § 72 ods. 1, § 73, 74 a 75 ods. 4 Obchodného zákonníka.
 
