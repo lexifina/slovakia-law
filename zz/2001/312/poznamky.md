@@ -4,6 +4,8 @@
 
 - 3) Napríklad zákon č. 351/1997 Z. z. v znení zákona č. 401/2000 Z. z., zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
+- 3a) § 13 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2002 Z. z.
+
 - 4) § 3 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 5) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z., zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, § 143 ods. 5 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z.
