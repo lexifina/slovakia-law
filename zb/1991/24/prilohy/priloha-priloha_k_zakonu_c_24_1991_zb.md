@@ -80,7 +80,7 @@ Príloha k zákonu č. 24/1991 Zb.
 
   - 10. Poistenie zodpovednosti
 
-    - a) za škodu vyplývajúcu z vlastníctva alebo z používania motorového dopravného prostriedku,
+    - a) za škodu spôsobenú prevádzkou motorového vozidla,
 
     - b) dopravcu.
 
