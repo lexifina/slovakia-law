@@ -1,1 +1,0 @@
-- Príloha č. 2 vyhlášky Ministerstva práce a sociálnych vecí č. 63/1968 Zb. - Zrušená od 16. 1. 1992.
