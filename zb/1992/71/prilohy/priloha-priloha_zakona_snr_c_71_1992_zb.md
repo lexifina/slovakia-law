@@ -158,7 +158,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Poznámky: 1. Poplatok podľa rovnakej sadzby sa platí aj v odvolacom konaní.2. Poznámky č. 1 a 2 k položke platia primerane aj pre túto položku. |
 
-- Spoločná poznámka k položkám 1, 6, 7, 9, 14 a 16: Ak bol rozsudok zrušený v dôsledku odvolania, obnovy konania alebo dovolania, poplatok z odvolania proti novému rozhodnutiu súdu I.stupňa, dovolania, alebo za obnovu konania neplatí poplatník, ktorý už raz poplatok zaplatil. |
+- Spoločná poznámka k položkám 1, 6, 7, 9, 14 a 16: Ak bol rozsudok zrušený v dôsledku odvolania, obnovy konania alebo dovolania, poplatok z odvolania proti novému rozhodnutiu súdu I.stupňa, dovolania, alebo za obnovu konania neplatí poplatník, ktorý už raz poplatok zaplatil. Ak Najvyšší súd Slovenskej republiky pri prerokúvaní dovolania zistí, že dovolanie podané účastníkom podľa § 238 ods. 2 Občianskeho súdneho poriadku bolo bezdôvodné, účastník je povinný dodatočne zaplatiť súdny poplatok z dovolania. |
 
 - Položka 17 |
 
