@@ -1,6 +1,12 @@
-- 1) Výpočet náhrad škôd a iných náhrad za lesné porasty podľa § 10 zákona č. 61/1977 Zb. o lesoch pozri pokyny MLVH č. 24 504-3301/OLH z 23. 10. 1968 uverejnené v Spravodajcovi MLVH 1968, čiastka 8, a oznámenie Federálneho ministerstva pre technický a investičný rozvoj z 25. 5. 1977 uverejnené v Spravodajcovi FMTIR 1977, čiastka 3-4.
+- 1) Nariadenie vlády Slovenskej republiky č. 1/1994 Z. z. o sadzbách odvodov za vyňatie lesných pozemkov z lesného pôdneho fondu.
 
-- 2) Oznámenie Federálneho ministerstva pre technický a investičný rozvoj z 15. 4. 1977 o spôsobe skúmania ekonomickej efektívnosti investícií, ktoré sa majú dotknúť lesnej pôdy (Spravodajca FMTIR 1977, čiastka 3-4).
+- 2) § 9 ods. 2 písm. e) a § 54 písm. e) zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
+
+- 2a) § 19 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+
+- 2b) § 65 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
+
+- 2c) § 3 a 11 zákona č. 61/1977 Zb. o lesoch.§ 16 ods. 1 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
 
 - 3) § 4 ods. 3 zákona č. 61/1977 Zb. o lesoch.
 
