@@ -1,13 +1,9 @@
 # § 8a
 
-Štátna arbitráž Českej socialistickej republiky a Štátna arbitráž Slovenskej socialistickej republiky majú postavenie ústredného orgánu štátnej správy príslušnej republiky. Tieto arbitráže
+Štátna arbitráž Českej republiky a Štátna arbitráž Slovenskej republiky
 
-- a) vedú krajské štátne arbitráže a dozerajú na zákonnosť rozhodovania a na ostatnú ich činnosť,
+- a) sledujú rozhodovanie krajských štátnych arbitráží a dozerajú na zákonnosť ich rozhodovania,
 
-- b) pripravujú a predkladajú vládam republík rozbory a návrhy na opatrenia,
+- b) zabezpečujú hospodárenie, personálnu agendu a správu aj na krajských štátnych arbitrážach a v týchto oblastiach tieto arbitrážne orgány riadia,
 
-- c) dbajú o riadne a včasné zmluvné zabezpečovanie zvlášť dôležitých úloh ustanovených vládou Československej socialistickej republiky, ako aj úloh ustanovených vládami republík menovite ústredným a iným orgánom týchto republík a národným výborom a pomáhajú svojou činnosťou zabezpečiť ich plnenie,
-
-- d) po prerokovaní so Štátnou arbitrážou Československej socialistickej republiky vydávajú inštrukcie pre činnosť krajských štátnych arbitráží a zvolávajú pravidelné porady arbitrážnych orgánov a aktívy hospodárskych právnikov,
-
-- e) spolupracujú pri plnení svojich úloh s ministerstvami a ostatnými ústrednými orgánmi a národnými výbormi príslušných republík a využívajú skúsenosti a poznatky, ktoré tieto orgány získali pri riadení zverených úsekov národného hospodárstva.
+- c) po prerokovaní so Štátnou arbitrážou Československej socialistickej republiky vydávajú inštrukcie pre mimorozhodovaciu činnosť krajských štátnych arbitráží a zvolávajú pravidelné porady arbitrážnych orgánov a aktívy hospodárskych právnikov,

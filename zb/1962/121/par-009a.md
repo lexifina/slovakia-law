@@ -1,6 +1,6 @@
 # § 9a
 
-(1) Za štátneho arbitra sa môže ustanoviť politicky a odborne vyspelý, bezúhonný československý občan, ktorý
+(1) Za štátneho arbitra sa môže ustanoviť odborne vyspelý, bezúhonný československý občan, ktorý
 
 - a) má vysokoškolské vzdelanie v študijnom odbore právo,
 
