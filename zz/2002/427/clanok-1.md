@@ -22,9 +22,37 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - 8. Poznámka pod čiarou k odkazu 3 sa dopĺňa citáciou, ktorá znie: „Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.".
 
+- 9. V § 5 ods. 1 písm. c) sa vypúšťa slovo „clá,".
+
 - 10. V § 5 ods. 1 písm. e) sa vypúšťajú slová „Slovenskej republiky (ďalej len „vláda")".
 
+- 11. V § 5 ods. 1 písm. j) sa vypúšťajú slová „alebo cla".
+
 - 12. V § 5 ods. 1 písm. k) sa za slová „(ďalej len „prostriedky Európskych spoločenstiev")" vkladajú slová „znížené o úrok z omeškania (§ 47a ods. 4)".
+
+- 13. V § 5 ods. 1 sa za písmeno k) vkladá nové písmeno l), ktoré znie:
+
+- „l)
+
+- podiel na vybratých finančných prostriedkoch odvádzaných do rozpočtu Európskych spoločenstiev ako kompenzácia výdavkov súvisiacich s ich výberom,“.
+
+- Doterajšie písmená l) až n) sa označujú ako písmená m) až o).
+
+- 14. V § 5 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Prostriedky z rozpočtu Európskych spoločenstiev poskytnuté Slovenskej republike na základe medzinárodných zmlúv uzatvorených po dni nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii sa zaraďujú do príjmov štátneho rozpočtu, ak z iných právne záväzných aktov Európskych spoločenstiev a Európskej únie nevyplýva iné.“.
+
+- Doterajší odsek 2 sa označuje ako odsek 3.
+
+- 15. V § 6 ods. 1 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- odvody do rozpočtu Európskych spoločenstiev zo zdroja založeného na dani z pridanej hodnoty a zo zdroja založeného na hrubom národnom produkte,“.
+
+- Doterajšie písmená c) až g) sa označujú ako písmená d) až h).
 
 - 16. V § 6 ods. 3 sa vypúšťajú slová „[§ 5 ods. 1 písm. k)]".
 
@@ -49,6 +77,12 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - „(6)
 
 - Na uzatváranie zmlúv o návratnej finančnej výpomoci podľa odseku 5 písm. a) sa vzťahuje osobitný predpis.<sup>5a</sup>) Návratnú finančnú výpomoc podľa odseku 5 písm. b) a c) možno poskytnúť na základe zmluvy o návratnej finančnej výpomoci uzatvorenej medzi ministerstvom a prijímateľom návratnej finančnej výpomoci. V zmluve o poskytnutí návratnej finančnej výpomoci podľa odseku 5 písm. b) a c) musí byť dohodnutá doba, na ktorú sa návratná finančná výpomoc poskytuje, a spôsob jej splácania. Doba, na ktorú sa návratná finančná výpomoc podľa odseku 5 písm. b) a c) poskytuje, nemôže byť dlhšia ako štyri roky. Poskytnutú návratnú finančnú výpomoc podľa odseku 5 písm. b) a c) nemožno zmeniť na iný druh finančného vzťahu. Pri poskytovaní návratných finančných výpomocí podľa odseku 5 písm. b) a c) úrok môže byť predmetom zmluvy.“.
+
+- 20. § 6 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Na použitie účelovo určených prostriedkov rozpočtu Európskych spoločenstiev poskytnutých Slovenskej republike a zaradených do príjmov štátneho rozpočtu sa v štátnom rozpočte rozpočtujú príslušné výdavky.“.
 
 - 21. V § 8 ods. 1 sa na konci pripája táto veta: „Súčasťou východísk na zostavenie návrhu štátneho rozpočtu je aj určenie podielu súhrnného schodku verejného rozpočtu na hrubom domácom produkte tak, aby sa postupne dosiahla referenčná hodnota tohto podielu platná pre Európske spoločenstvá.".
 
@@ -99,6 +133,16 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - „d)
 
 - rezerva na štátne záruky,<sup>5a</sup>)“.
+
+- 30. V § 15 sa odsek 2 dopĺňa písmenami e) a f), ktoré znejú:
+
+- „e)
+
+- rezerva na doplatenie odvodov zo zdroja založeného na dani z pridanej hodnoty a zdroja založeného na hrubom národnom produkte do rozpočtu Európskych spoločenstiev,
+
+- f)
+
+- rezerva na úhradu sankcií za neoprávnene použité alebo zadržané prostriedky Európskych spoločenstiev.“.
 
 - 31. V § 15 odsek 3 znie:
 
@@ -183,6 +227,14 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - „21b)
 
 - § 20 a 20a zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.“.
+
+- 50. V § 34 sa za odsek 5 vkladá nový odsek 6, ktorý znie:
+
+- „(6)
+
+- Rozpočtová organizácia, ktorá sústreďuje prostriedky určené na odvody do rozpočtu Európskych spoločenstiev, ich vedie na samostatnom účte v Štátnej pokladnici, z ktorého ich prevádza na osobitný účet vedený ministerstvom v mene Komisie Európskych spoločenstiev, zriadený v Štátnej pokladnici. Na osobitný účet vedený ministerstvom v mene Komisie Európskych spoločenstiev sa z výdavkov štátneho rozpočtu prevádzajú aj odvody do rozpočtu Európskych spoločenstiev [§ 6 ods. 1 písm. c)].“.
+
+- Doterajšie odseky 6 až 9 sa označujú ako odseky 7 až 10.
 
 - 51. V § 46 ods. 1 sa na konci pripájajú tieto vety:
 
