@@ -54,7 +54,7 @@ Príloha D zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 24 | cestného hospodárstva | | § 12 | určovanie stavebnej uzávery a povoľovanie výnimky z nej na cestách v územnom obvode mesta
 
-25 | školstva a starostlivosti o deti | vyhl. č. 104/1965 Zb. | § 1 ods. 3 | udeľovanie oprávnenie na súkromné vyučovanie v odbore umenia a v odbore cudzích jazykov
+25 | zrušená od 1.9.1984 | | |
 
 26 | zrušená od 1.7.1978 | | |
 
