@@ -1,1 +1,0 @@
-- *) Vyhláška Ministerstva školstva a kultúry č. 26/1966 Zb.
