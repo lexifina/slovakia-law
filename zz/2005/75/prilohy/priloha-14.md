@@ -1,0 +1,1 @@
+Príloha č. 14 k vyhláške č. 75/2005 Z. z. [Skrátená verzia ročnej správy a polročnej správy o hospodárení s vlastným majetkom dôchodkovej správcovskej spoločnosti - vzor](../assets/a41b61ec7b4bd7ae8c901301c955a9dd946a1207f37bc81da88c427f999d5b96.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 75/2005 Z. z. [Hodnota dôchodkovej jednotky a priemerné zhodnotenie majetku v dôchodkovom fonde - vzor](../assets/d4a975d507e3c442cee8fbca8f4eca4afbd88767f0b51d93103e5be0a88c0b8c.pdf)

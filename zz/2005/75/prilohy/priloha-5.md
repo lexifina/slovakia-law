@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 75/2005 Z. z. [Stav a zmeny majetku v dôchodkovom fonde podľa sektorového, regionálneho a menového hľadiska - vzor](../assets/b578e516776ed751e503dc55f3c169fd0bd421c664f36f9b8774aa0992e0ade7.pdf)
