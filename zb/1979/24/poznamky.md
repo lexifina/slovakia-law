@@ -1,5 +1,11 @@
-- 1) § 3 ods. 1 zákona.
+- 1) § 3 ods.1 zákona č. 174/1968 Zb. o štátnom odborovom dozore nad bezpečnosťou práce.
 
-- 2) § 37 zákona č. 41/1957 Zb. o využití nerastného bohatstva (banský zákon), § 3 zákona č. 42/1972 Zb. o organizácii a o rozšírení dozoru štátnej banskej správy.
+- 2) § 39 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe.
 
 - 3) Týmto dňom strácajú účinnosť ustanovenia vyhlášky č. 133/1973 Zb. týkajúce sa vyhradených zdvíhacích zariadení, ktorá bola zrušená vyhláškou č. 22/1979 Zb.
+
+- 4) Zákon č. 104/1990 Zb. o akciových spoločnostiach.
+
+- Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov.
+
+- Zákon č. 173/1988 Zb. o podniku so zahraničnou majetkovou účasťou v znení zákona č. 112/1990 Zb.
