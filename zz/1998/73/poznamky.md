@@ -8,7 +8,7 @@
 
 - 4) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
-- 5) Zákon Národnej rady Slovenskej republiky č. 237/l993 Z. z. o registri trestov.
+- 5) Zákon č. 311/1999 Z. z. o registri trestov v znení zákona č. 48/2002 Z. z.
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
@@ -18,9 +18,11 @@
 
 - 9) § 116 zákona č. 40/1964 Zb. Občiansky zákonník.
 
-- 10) § 15 a 16 zákona č. 33/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
+- 10) § 6 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
 - 10a) Napríklad § 2 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- 10aa) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -44,7 +46,11 @@
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení neskorších predpisov.
 
+- 17a) § 10 zákona č. 328/2002 Z. z.
+
 - 18) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- 18a) Zákon č. 328/2002 Z. z.
 
 - 19) Zákon č. 88/l968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.Zákon č. 382/l990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
 
@@ -58,7 +64,9 @@
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
 
-- 25) Nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby v znení nariadenia vlády Slovenskej republiky č. 157/1995 Z. z.
+- 25) § 99 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 25a) Nariadenie vlády Slovenskej republiky č. 170/1993 Z. z. o poskytovaní náhrad niektorých výdavkov zamestnancom zahraničnej služby v znení neskorších predpisov.
 
 - 26) § 5 ods. 1 zákona č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
@@ -78,7 +86,7 @@
 
 - 34) Napríklad zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
-- 35) § 5 zákona č. 88/l968 Zb.
+- 35) § 9 zákona č. 328/2002 Z. z.
 
 - 36) Zákon č. 382/l990 Zb.
 
@@ -107,6 +115,8 @@
 - 47) Zákon č. 100/1988 Zb. v znení neskorších predpisov.
 
 - 48) § 15 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
+
+- 48a) § 85 zákona č. 328/2002 Z. z.
 
 - 49) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
