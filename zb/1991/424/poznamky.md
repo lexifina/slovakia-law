@@ -4,4 +4,4 @@
 
 - Zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
-- 3) § 54 ods. 3 zákona č. 47/1990 Zb. o voľbách do Federálneho zhromaždenia.
+- 3) Zákon Slovenskej národnej rady č. 190/1992 Zb. o príspevku politickým stranám a politickým hnutiam zo štátneho rozpočtu Slovenskej republiky.
