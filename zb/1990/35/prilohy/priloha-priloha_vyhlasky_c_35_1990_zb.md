@@ -266,6 +266,8 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - 89. | 583 313 | Štrkopiesky ťažené a dodávané z miestnych zdrojov organizáciami v cenovej pôsobnosti národných výborov okrem š. p. Silnice v ČSR, š. p. Pražské silniční a vodohospodárske stavby a š. p. Cestné stavby v SSR - len veľkoobchodné ceny
 
+- 89a. | 583 | Prírodný kameň a štrkopiesky – len veľkoobchodné ceny, okrem veľkoobchodných cien dodávok tých organizácií, ktoré v skutočnosti v roku 1989 dosiahli v tomto odbore vyššiu rentabilitu než 20 % zo spracovacích nákladov – do zmluvných cien možno kalkulovať sadzbu zisku maximálne do výšky 20 % zo spracovacích nákladov
+
 - 90. | 583 | Prírodný kameň a štrkopiesky - len nerasty na účely výuky a 583 89 ostatné kamenárske výrobky dodávané zahraničným fyzickým osobám
 
 - 91. | 583 993 | Skúšobný kameň na určenie rýdzosti drahých kovov v zliatinách
@@ -412,9 +414,35 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - 145. | 762 | Dovážané rybacie výrobky<sup>34</sup>) výhradne od firmy Frionor a predávané v predajniach Frionor
 
-- 146. | 765 89 | Zabité perličky, nutrie, holuby a slimáky a výrobky z nich
+- 145a. | 764 151 | Baranie mäso (i kozie) v jatočnej úprave
+
+- | 764 166 | Konské a žriebäcie mäso
+
+- | 764 167 | Mäso z jahniat z intenzívneho a polointenzívneho výkrmu
+
+- | 764 175 | Surový baraní loj
+
+- | 764 176 | Surové konské sadlo
+
+- | 764 241-3 | Čerstvé, mrazené a balíčkované baranie (i kozie) výsekové mäso
+
+- | 764 3 | Výsekové mäsá z iných zvierat
+
+- | 764 841 | Baranie (i kozie) droby
+
+- | 764 861 | Konské droby
+
+- 146. | 765 4 | Zverina drobná upravená
+
+- | 765 5 | Zverina delená, porciovaná a inak upravená
+
+- | 765 6 | Zabité drobné hospodárske zvieratá (okrem hydiny) a výrobky z nich
+
+- 146a. | 766 | Vajcia a vaječné výrobky
 
 - 147. | 767 | Mliekárenské výrobky vyrobené výlučne z kozieho mlieka - len nákupné a veľkoobchodné ceny
+
+- 147a. | 773 4 | Pekárenské výrobky extrudované – okrem skupiny 773 410 – extrudované výrobky z obilnín
 
 - 148. | 780 | Pestovateľské pálenie ovocných destilátov, lisovanie ovocných štiav a moštovanie
 
@@ -424,7 +452,7 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - | 786 273 |
 
-- 151. | 791 | Priemyselné krmivá, len kŕmne pasty a tekuté krmivá z odpadových surovín
+- 151. | 791 | Priemyselné krmivá – len maloobchodné ceny; toto obmedzenie sa nevzťahuje na kŕmne pasty a tekuté krmivá z odpadových surovín
 
 - 152. | 793 3 | Okuliarové rámy - okrem tuzemských detských rámov a rámov pre OÚNZ - ceny sa dojednávajú v rámci maximálnych cien<sup>35</sup>) s povolenou odchýlkou do + 10 %; maximálne ceny sa nevzťahujú na dovážané výrobky
 
@@ -894,6 +922,36 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - 280. | | Stavebné a montážne práce na jestvujúcich stavebných objektoch a prevádzkových súboroch (t. j. modernizácie, rekonštrukcie, opravy a údržba) oceňované podľa zásad novej oceňovacej sústavy v investičnej výstavbe; ceny sa dojednávajú za podmienok ustanovených osobitným rozhodnutím<sup>53</sup>)
 
+- 280a. | | 1. Objekty a prevádzkové súbory stavieb s rozpočtovou dokumentáciou spracovanou podľa vyhlášky č. 5/1987 Zb. o dokumentácii stavieb – ceny možno dojednávať pri dodržaní podmienky neprekročenia celkových rozpočtových nákladov hl. II až VIII súhrnného rozpočtu v schválenom úvodnom projekte
+
+- | | a) v rámci maximálnych cien, ktorými sú veľkoobchodné ceny stavebných a montážnych prác<sup>53</sup>) platné v čase dojednania zmluvnej ceny s dohodnutou odchylkou, alebo
+
+- | | b) podľa § 3 ods. 2 písm. d), pričom sadzba zisku môže byť maximálne 12 % zo spracovacích nákladov, alebo
+
+- | | c) do výšky schválených rozpočtových nákladov pri rešpektovaní cien materiálov, výrobkov a služieb platných v čase dojednania zmluvnej ceny
+
+- | | Súčasťou podstatných kvalitatívnych a dodacích podmienok ceny je aj termín dokončenia objektu alebo prevádzkového súboru rešpektujúci termín dokončenia celej stavby.
+
+- | | 2. Stavby, objekty a prevádzkové súbory s dokumentáciou spracovanou podľa vyhlášky č. 43/1990 Zb. o projektovej príprave stavieb – ceny možno dojednávať
+
+- | | a) ak je vypísaná súťaž tuzemskou organizáciou (odberateľom), na ktorej sa zúčastnia aspoň dvaja uchádzači o dodávku stavby, objektu alebo prevádzkového súboru, alebo
+
+- | | b) ponuka vyššieho dodávateľa technologickej časti stavby obsahuje technicky nové riešenie (najmä nové stroje a zariadenia) a investorom odsúhlasený prepočet rentability budúcej produkcie je priaznivejší než rentabilita porovnateľnej produkcie, alebo
+
+- | | c) ponuka vyššieho dodávateľa technologickej časti stavby je svojou cenou a lehotami výstavby porovnateľná s ponukou vyššieho dodávateľa akceptovanou v zahraničí alebo ponukou zahraničného dodávateľa prijatou v ČSFR, alebo
+
+- | | d) v rámci maximálnych cien, ktorými sú veľkoobchodné ceny stavebných a montážnych prác<sup>53</sup>) platné v čase dojednania zmluvnej ceny s povolenou odchýlkou do + 7 %, alebo
+
+- | | e) podľa § 3 ods. 2 písm. d), pričom sadzba zisku môže byť maximálne 12 % zo spracovacích nákladov
+
+- | | 3. Stavby, objekty a prevádzkové súbory, pre ktoré investor zabezpečuje účasť zahraničného dodávateľa (poddodávateľa) a tuzemský dodávateľ sa zaviaže v rámci podstatných kvalitatívnych a dodacích podmienok zmluvnej ceny, že splní podmienky dodávky ako zahraničný dodávateľ – ceny sa dojednávajú v rámci maximálnych cien, ktorými sú ceny vypočítané podľa osobitných rozhodnutí.<sup>53a</sup>)
+
+- | | Pri dojednaní cien podľa bodu 1 písm. a) a c), bodu 2 písm. d) možno uplatniť aj prirážku za skrátenie lehoty výstavby podľa položky č. 277
+
+- | | Dodávateľ, ktorý dojedná zmluvnú cenu s odberateľom (stavebníkom), môže obdobne dojednávať zmluvnú cenu so svojím poddodávateľom
+
+- | | Zmluvné ceny dojednané podľa bodu 1, bodu 2 písm. b) až e) a bodu 3 zasiela dodávateľ, podľa bodu 2 písm. a) odberateľ, na evidenciu<sup>53b</sup>) príslušnému ústrednému cenovému orgánu.
+
 - 281. | | Stavebné a montážne práce pri rekonštrukcii, modernizácii, opravách a údržbe stavebných objektov a prevádzkových súborov zastupiteľských úradov vykonávané pre Federálne ministerstvo zahraničných vecí mimo územia ČSSR; pre tieto ceny platí ustanovenie § 3 ods. 2 písm. d), pričom sadzba zisku môže byť maximálne 10 % zo spracovacích nákladov
 
 - 282. | | Opravy a kontroly primárnej časti blokov jadrových elektrární vykonávané externým spôsobom podľa osobitného rozhodnutia;<sup>54</sup>) pre tieto ceny platí ustanovenie § 3 ods. 2 písm. d), pričom sadzba zisku môže byť maximálne 10 % zo spravovacích nákladov; súčasťou predbežnej kalkulácie bude aj špecifikácia režijných nákladov
@@ -901,6 +959,8 @@ Príloha vyhlášky č. 35/1990 Zb.
 - 283. | | Stavebné a montážne práce pri haváriách a živelných pohromách vykonávané bez projektovej dokumentácie alebo na základe zjednodušenej projektovej dokumentácie bez rozpočtu; pre tieto ceny platí ustanovenie § 3 ods. 2 písm. d), pričom sadzba zisku môže byť maximálne 10 % zo spracovacích nákladov; kalkuláciu možno vypracovať po začatí prác na základe ich zisteného rozsahu
 
 - 284. | | Cenové zvýhodnenie výrobkovx) - okrem prípadov, keď si cenový orgán vyhradí jeho určenie; podmienky uplatnenia ustanovuje rozhodnutie ústredných cenových orgánov<sup>55</sup>)
+
+- 285. | | Vývozné finálne dodávky pre hlavného dodávateľa, ktorý oceňuje dodávku vývozného investičného celku kúpnou cenou a dodávky v nadväzujúcich poddodávateľských vzťahoch.
 
 - <sup>x</sup>) Pri takto označenom výrobku musí organizácia štátneho a družstevného obchodu zabezpečiť jednotnosť maloobchodných cien podľa § 3 ods. 5<sup>1</sup>) Výmer MFCM ČSR a MFCM SSR č. 1650/1482/1989 o určení záväzných pravidiel pre tvorbu cien v odboroch 021 – ovocie, 024 – zelenina, 003 111 a 112 rané zemiaky.
 
@@ -996,7 +1056,7 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - <sup>47</sup>) Ceny podľa Cenníka VC – 4/2/88 – I. diel a Cenníka VC – 5/2/88 – I. diel, prepočítané určeným indexom.
 
-- <sup>48</sup>) Cenník NC – VC – 30/19/89 <sup>48a</sup>)Vyhláška Ministerstva financií, cien a miezd Českej socialistickej republiky č. 182/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov.
+- <sup>48</sup>) Cenník NC – VC – 30/19/89 <sup>48a</sup>) Vyhláška Ministerstva financií, cien a miezd Českej socialistickej republiky č. 182/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov.
 
 - Vyhláška Ministerstva financií, cien a miezd Slovenskej socialistickej republiky č. 205/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a o náhradách za dočasné užívanie pozemkov.
 
@@ -1008,8 +1068,6 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - <sup>52</sup>) Výmer FCÚ č. 5013/5/90 o podmienkach dojednávania prirážok za skrátenie lehôt výstavby.
 
-- <sup>53</sup>) Výmer FCÚ č. 5012/5/90 o podmienkach uplatnenia zmluvných cien stavebných a montážnych prác vykonávaných pri rekonštrukciách, modernizáciách, opravách a údržbe.
-
-- <sup>54</sup>) Opatrenie FMHŤS č. 12/1984, FMEP č. 19/1984 a FMPE č. 14/1984, ktorým sa vydávajú podmienky dodávok typových generálnych opráv technologických uzlov sekundárnej časti a vybraných prác a výkonov pri opravách a kontrolách primárnej časti blokov JE typu VVER 440.
+- <sup>53</sup>) Výmer FCÚ č. 8241/331/88, ktorým sa ustanovujú Pravidlá pre určovanie cien stavebných prác (Cenový vestník čiastka 2-3/1989), v znení neskorších predpisov.Výmer FCÚ č. 5030/5.1/89, ktorým sa ustanovujú Pravidlá pre určovanie cien montážnych prác (Cenový vestník čiastka 9/1989), v znení neskorších predpisov.Výmer FCÚ č. 8170/331/88, ktorým sa určujú sadzby vedľajších rozpočtových nákladov stavieb (Cenový vestník čiastka 45/1988), v znení neskorších predpisov.<sup>53a</sup>) Čl. 10 ods. 1 výmeru FCÚ č. 8241/331/88 v znení neskorších predpisov. Čl. 23 ods. 1 výmeru FCÚ č. 5030/5.1/89 v znení neskorších predpisov.<sup>53b</sup>) Výmer FCÚ č. 5012/90 o podmienkach uplatnenia zmluvných cien stavebných a montážnych prác vykonávaných pri rekonštrukciách, modernizáciách, opravách a údržbe (Cenový vestník čiastka 21/1990) v znení výmeru FCÚ č. 5135/7.3/90 (Cenový vestník čiastka 30/1990).<sup>54</sup>) Opatrenie FMHŤS č. 12/1984, FMEP č. 19/1984 a FMPE č. 14/1984, ktorým sa vydávajú podmienky dodávok typových generálnych opráv technologických uzlov sekundárnej časti a vybraných prác a výkonov pri opravách a kontrolách primárnej časti blokov JE typu VVER 440.
 
 - <sup>55</sup>) Výmer FCÚ, MFCM ČSR a MFCM SSR č. 01/90 o metodike tvorby cien, Cenový vestník čiastka 8/1990.
