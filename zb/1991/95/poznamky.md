@@ -8,4 +8,6 @@
 
 - 2b) § 6 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
+- 2c) Zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. v znení neskorších predpisov.
