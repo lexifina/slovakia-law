@@ -156,8 +156,6 @@ Príloha č. 4 k opatreniu č. 380/1998 Z. z.
 
   - 77. Energ P 6-01 Ročný podnikový výkaz o zdrojoch a rozdelení palív
 
-  - 78. ŠIS 1-01 Ročný výkaz o stave rozvoja štátneho informačného systému
-
   - 79. MOŠ – MIS 1-01 Ročný výkaz o vybraných ukazovateľoch regionálnej štatistiky
 
   - 80. PaT P 5-01 Ročný podnikový výkaz v pošte a v telekomunikáciách
@@ -2483,36 +2481,6 @@ Príloha č. 4 k opatreniu č. 380/1998 Z. z.
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad SR.
 
       - Orgán zabezpečujúci štatistické zisťovanie a jeho spracovanie: Štatistický úrad SR prostredníctvom Krajskej správy ŠÚ SR v Banskej Bystrici.
-
-  - 78. Názov zisťovania: Ročný výkaz o stave rozvoja štátneho informačného systému
-
-  - Značka štatistického formulára: ŠIS 1-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom zisťovania je získať informácie o rozvoji štátneho informačného systému v oblasti vybavenosti a využívania informačných technológií, prípravy a realizácie rezortných a medzirezortných projektov štátneho informačného systému a finančného zabezpečenia rozvoja štátneho informačného systému.
-
-    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: základné údaje o zamestnancoch a mzdách, o informačných technológiách, ktoré zahŕňajú technické a programové vybavenie a komunikačné rozhranie, riešené a pripravované projekty informatizácie a finančné prostriedky vynaložené na informatizáciu.
-
-    - c) Okruh spravodajských jednotiek
-
-      - Spravodajskú povinnosť pre štatistické zisťovanie majú v súlade s § 2 písm. b) a c) zákona SNR č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov ministerstvá a ostatné ústredné orgány štátnej správy Slovenskej republiky, Kancelária Národnej rady Slovenskej republiky, Kancelária prezidenta Slovenskej republiky, Ústavný súd Slovenskej republiky, Najvyšší súd Slovenskej republiky, Najvyšší kontrolný úrad Slovenskej republiky, Generálna prokuratúra Slovenskej republiky, Národná banka Slovenska a verejnoprávne organizácie za časti štátneho informačného systému vo svojej pôsobnosti.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročná.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 16. 3. nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad SR.
-
-      - Orgán zabezpečujúci štatistické zisťovanie a jeho spracovanie: Štatistický úrad SR prostredníctvom Krajskej správy ŠÚ SR v Bratislave.
 
   - 79. Názov zisťovania: Ročný výkaz o vybraných ukazovateľoch regionálnej štatistiky
 
