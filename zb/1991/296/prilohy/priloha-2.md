@@ -40,13 +40,13 @@
 
         - Tlačené formuláre poskytne prihlasovateľovi bezplatne prijímací úrad alebo Medzinárodný úrad, ak si to prijímací úrad praje.
 
-      - 3.3. Kontrolný zoznam
+      - 3.3 Kontrolný zoznam
 
-        - (a) Žiadosť musí obsahovať zoznam, ktorý udáva:
+        - (a) Žiadosť obsahuje zoznam, ktorý uvádza:
 
           - (i) celkový počet listov, ktoré obsahuje medzinárodná prihláška, a počet listov každej časti medzinárodnej prihlášky: žiadosť, opis (samostatne sa označuje počet listov každej časti opisu obsahujúcej výpis sekvencií), nároky, výkresy, anotáciu;
 
-          - (ii) tam, kde sa to vyžaduje, treba pripojiť plnú moc (t. j. doklad ustanovujúci zástupcu alebo spoločného splnomocnenca), kópie všeobecnej plnej moci, prioritný doklad, výpis sekvencií v strojovo čitateľnej forme, doklad, ktorý sa týka úhrady poplatkov, alebo aj akýkoľvek iný doklad (musí byť špecifikovaný v kontrolnom zozname);
+          - (ii) kde je to potrebné, či k medzinárodnej prihláške tak, ako bola podaná, je priložené plnomocenstvo (t. j. doklad ustanovujúci zástupcu alebo spoločného splnomocnenca), odpis všeobecného plnomocenstva, prioritný doklad, výpis sekvencií v elektronickej forme, doklad o zaplatení poplatkov alebo akýkoľvek iný doklad (špecifikovaný v kontrolnom zozname);
 
           - (iii) číslo obrázku výkresov, ktorý by sa podľa návrhu prihlasovateľa mal zverejniť spolu s anotáciou; vo výnimočných prípadoch môže prihlasovateľ navrhnúť viac ako jeden obrázok.
 
@@ -128,7 +128,7 @@
 
       - 4.6 Vynálezca
 
-        - (a) Ak sa aplikuje pravidlo 4.1(a)(v) alebo (c)(i), v žiadosti sa musí uviesť meno a adresa pôvodcu alebo v prípade viacerých pôvodcov meno a adresa každého z nich.
+        - (a) V prípade uplatnenia pravidla 4.1(a)(iv) alebo (c)(i) musí žiadosť obsahovať meno a adresu vynálezcu alebo každého vynálezcu, ak ich je viac.
 
         - (b) Ak je prihlasovateľ vynálezcom, musí žiadosť obsahovať namiesto údaja uvedeného v odseku (a) oznámenie v tomto smere.
 
@@ -678,25 +678,27 @@
 
     - Pravidlo 13 ter Výpisy sekvencií nukleotidov a/alebo aminokyselín
 
-      - 13ter.1 Výpis sekvencií pre medzinárodné orgány
+      - 13ter.1 Konanie pred orgánom pre medzinárodnú rešerš
 
-        - (a) Ak orgán pre medzinárodnú rešerš zistí, že medzinárodná prihláška obsahuje opis jednej sekvencie alebo viacerých sekvencií nukleotidov a/alebo aminokyselín, ale
+        - (a) Ak medzinárodná prihláška obsahuje informácie o výpise jednej alebo viacerých sekvencií nukleotidov a/alebo aminokyselín, orgán pre medzinárodnú rešerš môže vyzvať prihlasovateľa, aby mu zaslal na účely medzinárodnej rešerše výpis sekvencie v elektronickej forme, ktorá zodpovedá norme predpísanej administratívnymi smernicami, ak mu už takýto výpis v elektronickej forme nie je dostupný formou a spôsobom, ktorý je pre neho akceptovateľný, a aby prípadne zaplatil poplatok za neskoré predloženie uvedený v odseku (c) v lehote určenej vo výzve.
 
-          - (i) medzinárodná prihláška neobsahuje výpis sekvencií, ktorý je v súlade so štandardom daným Administratívnou smernicou, tento orgán môže vyzvať prihlasovateľa, aby mu v lehote stanovenej vo výzve predložil výpis sekvencií v takej forme, ktorá vyhovuje tomuto štandardu;
+        - (b) Ak sa aspoň časť prihlášky podá na papieri a orgán pre medzinárodnú rešerš zistí, že opis nie je v súlade s pravidlom 5.2(a), môže vyzvať prihlasovateľa, aby na účely medzinárodnej rešerše zaslal výpis sekvencie v papierovej forme, ktorá zodpovedá norme predpísanej administratívnymi smernicami, ak mu takýto výpis v papierovej forme už nie je dostupný formou a spôsobom, ktorý je pre neho akceptovateľný, bez ohľadu, či predložil, alebo nepredložil výpis sekvencií v elektronickej forme, vyzve ho podľa odseku (a), aby prípadne zaplatil poplatok za neskoré predloženie uvedené v odseku (c) v lehote určenej vo výzve.
 
-          - (ii) prihlasovateľ ešte nepredložil výpis sekvencií v strojovo čitateľnej forme vyhovujúci štandardu danému Administratívnou smernicou, tento orgán môže vyzvať prihlasovateľa, aby mu v lehote stanovenej vo výzve predložil výpis sekvencií v takej forme, aká je v súlade s týmto štandardom.
+        - (c) Zaslanie výpisu sekvencie v odpovedi na výzvu podľa odseku (a) alebo (b) môže orgán pre medzinárodnú rešerš podrobiť poplatku za neskoré predloženie vo svoj prospech, ktorého výšku určuje orgán pre medzinárodnú rešerš, ale nesmie prekročiť 25 % medzinárodného poplatku za podanie uvedeného v bode 1 Sadzobníka poplatkov, nepočítajúc poplatok za každú stranu medzinárodnej prihlášky nad 30 strán, za predpokladu, že poplatok za neskoré predloženie sa vyžaduje podľa odseku (a) alebo (b), ale nie podľa obidvoch.
 
-        - (c) Ak prihlasovateľ nevyhovie výzve podľa odseku (a) v lehote stanovenej vo výzve, orgán pre medzinárodnú rešerš nie je povinný vykonať rešerš medzinárodnej prihlášky, ak toto nevyhovenie má za následok, že sa nedá vykonať hodnoverná rešerš.
+        - (d) Ak prihlasovateľ v stanovenej lehote vo výzve podľa odseku (a) alebo (b) nepredloží požadovaný výpis sekvencie a nezaplatí požadovaný poplatok za neskoré predloženie, od orgánu pre medzinárodnú rešerš sa vyžaduje, aby vykonal rešerš na medzinárodnú prihlášku iba v zmysluplnom rozsahu bez výpisu sekvencií.
 
-        - (d) Ak orgán pre medzinárodnú rešerš zistí, že opis nevyhovuje pravidlu 5.2(b), vyzve prihlasovateľa na podanie požadovanej opravy. Pravidlo 26.4 sa použije mutatis mutandis pre každú opravu navrhnutú prihlasovateľom. Orgán pre medzinárodnú rešerš odovzdá opravu prijímaciemu úradu a Medzinárodnému úradu.
+        - (e) Výpis sekvencie, ktorý nie je obsiahnutý v medzinárodnej prihláške tak, ako bola podaná, aj keď sa zašle v odpovedi na výzvu podľa odseku (a) alebo (b), alebo inak, nebude časťou medzinárodnej prihlášky, ale tento odsek nebude brániť prihlasovateľovi zmeniť opis, ak sa týka výpisu sekvencie v súlade s článkom 34(2)(b).
 
-        - (e) Odseky (a) a (c) sa použijú mutatis mutandis na konanie pred orgánom pre medzinárodný predbežný prieskum.
+        - (f) Ak orgán pre medzinárodnú rešerš zistí, že opis nie je v súlade s pravidlom 5.2(b), vyzve prihlasovateľa, aby predložil požadovanú opravu. Pravidlo 26.4 sa použije primerane na akúkoľvek opravu, ktorú navrhne prihlasovateľ. Orgán pre medzinárodnú rešerš odovzdá opravu prijímaciemu úradu a medzinárodnému úradu.
 
-        - (f) Žiadny výpis sekvencií, ktorý nie je obsiahnutý v medzinárodnej prihláške pri jej podaní, nesmie tvoriť podľa článku 34 súčasť medzinárodnej prihlášky.
+      - 13ter.2 Konanie pred orgánom pre medzinárodný predbežný prieskum
 
-      - 13ter.2 Výpis sekvencií pre určený úrad
+      - Pravidlo 13ter.1 sa použije primerane na konanie pred orgánom pre medzinárodný predbežný prieskum.
 
-        - (a) Hneď po začatí konania o medzinárodnej prihláške na určenom úrade sa použije pri konaní na tomto úrade pravidlo 13ter.1(a) mutatis mutandis. Žiadny určený úrad nesmie požadovať, aby mu prihlasovateľ predložil iný výpis sekvencií než výpis sekvencií, ktorý je v súlade so štandardom daným Administratívnou smernicou.
+      - 13ter.3 Výpis sekvencie pre určený úrad
+
+        - Žiadny určený úrad nebude žiadať od prihlasovateľa, aby zaslal iný výpis sekvencie ako výpis sekvencie v súlade s normou ustanovenou administratívnymi smernicami.
 
     - PRAVIDLO 14 ODOVZDÁVACÍ POPLATOK
 
@@ -770,15 +772,15 @@
 
         - Ak sa v medzinárodnej prihláške uplatňuje priorita z prvšej medzinárodnej prihlášky, ktorá bola predmetom medzinárodnej rešerše na rovnakom orgáne pre medzinárodnú rešerš, vráti tento orgán rešeršový poplatok zaplatený v súvislosti s neskoršou medzinárodnou prihláškou v rozsahu a za podmienok uvedených v dohode podľa článku 16 (3) (b), pokiaľ možno medzinárodnú rešeršovú správu pre neskoršiu prihlášku úplne alebo sčasti oprieť o výsledky medzinárodnej rešerše vykonanej pre prvšiu medzinárodnú prihlášku.
 
-    - Pravidlo 16bis Predĺženie lehôt platenia poplatkov
+    - Pravidlo 16bis Predĺženie lehoty na zaplatenie poplatkov
 
       - 16bis.1 Výzva prijímacieho úradu
 
-        - (a) Ak v okamihu splatnosti podľa pravidla 14.1 (c), 15.4 a 16.1(f) prijímací úrad zistí, že mu neboli zaplatené žiadne poplatky alebo zaplatená suma je nedostatočná na pokrytie odovzdávacieho poplatku, poplatku za medzinárodné podanie a rešeršného poplatku, prijímací úrad prihlasovateľa vyzve, aby mu zaplatil sumu požadovanú na pokrytie týchto poplatkov spolu s prípadným poplatkom za oneskorenú platbu podľa pravidla 16bis.2 v lehote jedného mesiaca od dátumu výzvy.
+        - (a) Ak v okamihu splatnosti podľa pravidiel 14.1(c), 15.4 a 16.1(f) prijímací úrad zistí, že neboli zaplatené žiadne poplatky, alebo zaplatená suma, ktorú tomuto úradu zaplatil prihlasovateľ, je nedostatočná, aby pokryla odovzdávací poplatok, poplatok za medzinárodné podanie a poplatok za rešerš, prijímací úrad s výhradou odseku (d) vyzve prihlasovateľa, aby zaplatil sumu požadovanú na krytie týchto poplatkov spolu s prípadným poplatkom za neskorú platbu podľa pravidla 16bis. 2 v lehote jedného mesiaca od dátumu výzvy.
 
         - (b) (zrušené)
 
-        - (c) Ak prijímací úrad zaslal prihlasovateľovi výzvu podľa odseku (a) a prihlasovateľ v lehote uvedenej v tomto odseku nezaplatil celú splatnú sumu vrátane prípadného poplatku za neskorú platbu podľa 16bis.2 s výnimkou odseku (d), prijímací úrad
+        - (c) Ak prijímací úrad zaslal prihlasovateľovi výzvu podľa odseku (a) a prihlasovateľ nezaplatil v stanovenej lehote uvedenej v tomto odseku celú splatnú sumu vrátane prípadného poplatku za neskoré platenie podľa pravidla 16bis.2 s výnimkou odseku (e), prijímací úrad:
 
           - (i) vydá príslušné uznesenie podľa článku 14(3) a
 
@@ -1010,15 +1012,15 @@
 
         - Lehota podľa článku 12 (3) je tri mesiace od dátumu oznámenia, ktoré Medzinárodný úrad zaslal prihlasovateľovi podľa pravidla 22.1 (c) alebo (g).
 
-    - Pravidlo 23 Odovzdanie rešeršnej kópie, preklad a výpis sekvencií
+    - Pravidlo 23 Odovzdanie rešeršnej kópie, preklad a výpis sekvencie
 
-      - 23.1 Postup
+      - 23.1 Konanie
 
         - (a) Ak sa nevyžaduje preklad medzinárodnej prihlášky podľa pravidla 12.3(a), prijímací úrad odovzdá rešeršnú kópiu orgánu pre medzinárodnú rešerš najneskôr v ten deň, keď odovzdá archívnu kópiu Medzinárodnému úradu, ak nebol zaplatený rešeršný poplatok. V takom prípade sa rešeršná kópia odovzdá ihneď po zaplatení rešeršného poplatku.
 
         - (b) Ak sa predložil preklad medzinárodnej prihlášky podľa pravidla 12.3, kópiu prekladu a žiadosti, ktoré sa spoločne považujú za rešeršnú kópiu podľa článku 12(1), odovzdá prijímací úrad orgánu pre medzinárodnú rešerš. Ak nebol zaplatený žiadny rešeršný poplatok, v takom prípade kópiu prekladu a žiadosti odovzdá ihneď po zaplatení rešeršného poplatku.
 
-        - (c) Každý výpis sekvencií v strojovo čitateľnej forme, ktorý je predložený prijímaciemu úradu, odovzdá prijímací úrad orgánu pre medzinárodnú rešerš.
+        - (c) Každý výpis sekvencie v elektronickej forme, ktorý sa zaslal na účely pravidla 13ter, ale podal sa v prijímacom úrade namiesto orgánu pre medzinárodnú rešerš, úrad okamžite zašle tomuto orgánu.
 
     - Pravidlo 24 Príjem archívneho vyhotovenia medzinárodným úradom
 
@@ -1360,27 +1362,29 @@
 
         - (vi) programy pre počítače potiaľ, pokiaľ orgán pre medzinárodnú rešerš nie je vybavený na vykonávanie rešerší na známy stav techniky v tomto odbore.
 
-    - PRAVIDLO 40 Nedostatok jednotnosti vynálezu (medzinárodnej rešerše)
+    - Pravidlo 40 Nedostatky jednotnosti vynálezu (Medzinárodná rešerš)
 
-      - 40.1 Výzva na zaplatenie
+      - 40.1 Výzva na zaplatenie dodatočných poplatkov; lehota
 
-      - Vo výzve na zaplatenie dodatočných poplatkov podľa článku 17 (3) (a) sa uvedú dôvody, prečo medzinárodná prihláška nezodpovedá požiadavke jednotnosti vynálezu, a suma, ktorú treba zaplatiť.
+      - Výzva na zaplatenie dodatočných poplatkov podľa článku 17(3)(a) bude
+
+        - (i) špecifikovať dôvody, prečo medzinárodná prihláška nezodpovedá požiadavke jednotnosti vynálezu,
+
+        - (ii) vyzývať prihlasovateľa, aby zaplatil dodatočné poplatky v lehote jedného mesiaca od dátumu výzvy, a uvádzať výšku poplatkov, ktorú treba zaplatiť, a
+
+        - (iii) vyzývať prihlasovateľa, aby zaplatil, ak je treba, poplatok za sťažnosť podľa pravidla 40.2(e) v lehote jedného mesiaca od dátumu výzvy, a uvádzať sumu, ktorú treba zaplatiť.
 
       - 40.2 Dodatočné poplatky
 
-        - (a) Sumu dodatočného poplatku za rešerš podľa článku 17 (3) (a) určí príslušný orgán pre medzinárodnú rešerš.
+        - (a) Sumu dodatočných poplatkov za rešerš podľa článku 17(3)(a) určí kompetentný orgán pre medzinárodnú rešerš.
 
-        - (b) Dodatočný poplatok za rešerš podľa článku 17 (3) (a) sa platí priamo orgánu pre medzinárodnú rešerš.
+        - (b) Dodatočné poplatky za rešerš podľa článku 17(3)(a) sa platia priamo orgánu pre medzinárodnú rešerš.
 
-        - (c) Prihlasovateľ môže zaplatiť dodatočný poplatok so sťažnosťou, ku ktorej sa pripojí odôvodnené vyhlásenie, že medzinárodná prihláška je v súlade s požiadavkou jednotnosti vynálezu alebo že suma požadovaného dodatočného poplatku je nadmerná. Sťažnosť preskúma trojčlenná komisia alebo iná osobitná stolica orgánu pre medzinárodnú rešerš alebo iný príslušný vyšší orgán, ktorý potiaľ, pokiaľ zistí, že sťažnosť bola oprávnená, rozhodne o úplnom alebo častočnom vrátení dodatočného poplatku prihlasovateľovi. Na žiadosť prihlasovateľa sa tak text sťažnosti, ako aj rozhodnutie o nej oznámi určeným úradom spolu so správou o medzinárodnej rešerši. Prihlasovateľ dodá prípadný preklad spolu s prekladom medzinárodnej prihlášky požadovaným podľa článku 22.
+        - (c) Prihlasovateľ môže zaplatiť dodatočné poplatky so sťažnosťou, ku ktorej sa pripojí odôvodnené vyhlásenie, že medzinárodná prihláška je v súlade s požiadavkou jednotnosti vynálezu alebo že suma požadovaných dodatočných poplatkov je nadmerná. Protest preskúma kontrolný orgán vytvorený v rámci orgánu pre medzinárodnú rešerš, ktorý, ak zistí, že sťažnosť bola oprávnená, rozhodne o úplnom alebo čiastočnom vrátení dodatočných poplatkov. Na žiadosť prihlasovateľa sa tak text sťažnosti, ako aj rozhodnutie o nej oznámi určeným úradom spolu so správou o medzinárodnej rešerši. Prihlasovateľ predloží prípadný preklad spolu s požadovaným prekladom medzinárodnej prihlášky podľa článku 22.
 
-        - (d) Členom trojčlennej komisie, osobitnej stolice alebo príslušného vyššieho orgánu spomenutých v odseku (c) nesmie byť ten, kto vydal rozhodnutie napadnuté sťažnosťou.
+        - (d) Členom kontrolného orgánu uvedeného v odseku (c) môže byť aj osoba, ktorá vydala rozhodnutie o predmete sťažnosti.
 
-        - (e) Ak prihlasovateľ, podľa ustanovenia odseku (c), zaplatil dostatočný poplatok so sťažnosťou, smie orgán pre medzinárodnú rešerš po tom, čo preskúmal oprávnenosť výzvy, zaplatiť dodatočný poplatok, požadovať, aby prihlasovateľ zaplatil poplatok za preskúmanie sťažnosti (poplatok za „sťažnosť“). Poplatok za sťažnosť sa musí zaplatiť do jedného mesiaca od dátumu oznámenia výsledku preskúmania prihlasovateľovi. Pokiaľ je poplatok za sťažnosť v tejto lehote zaplatený, považuje sa sťažnosť za späťvzatú. Poplatok za sťažnosť sa vráti prihlasovateľovi, ak trojčlenná komisia, osobitná stolica alebo vyšší orgán uvedené v odseku (c) zistia, že sťažnosť bola úplne oprávnená.
-
-      - 40.3. Lehota
-
-        - Lehotu podľa článku 17 (3) (a) určí podľa okolností v každom jednotlivom prípade orgán pre medzinárodnú rešerš; nesmie byť kratšia ako 15 alebo 30 dní podľa toho, či adresa prihlasovateľa je v rovnakej alebo inej krajíne než orgán pre medzinárodnú rešerš, nie však dlhšia ako 45 dní od dátumu výzvy.
+        - (e) Preskúmanie sťažnosti uvedenej v odseku (c) môže vykonať orgán pre medzinárodnú rešerš za poplatok za sťažnosť, ktorý prihlasovateľ zaplatí v jeho prospech. Ak prihlasovateľ v lehote podľa pravidla 40.1(iii) nezaplatil požadovaný poplatok za sťažnosť, bude sa sťažnosť považovať za nepodanú, ak orgán pre medzinárodnú rešerš tak rozhodne. Poplatok za sťažnosť sa vráti prihlasovateľovi, ak kontrolný orgán uvedený v odseku (c) zistí, že sťažnosť bola celkom oprávnená.
 
     - PRAVIDLO 41 PREDCHÁDZAJÚCA NEMEDZINÁRODNÁ REŠERŠ
 
@@ -1454,13 +1458,13 @@
 
       - 43bis.1 Písomný posudok
 
-        - (a) S výhradou pravidla 69.1(b-bis) orgán pre medzinárodnú rešerš musí súčasne s vyhotovením správy o medzinárodnej rešerši vypracovať písomný posudok, či
+        - (a) S výhradou pravidla 69.1(b-bis) orgán pre medzinárodnú rešerš musí súčasne s vyhotovením správy o medzinárodnej rešerši alebo vyhlásenia uvedeného v článku 17(2)(a) vypracovať písomný posudok, či:
 
           - (i) uplatnený vynález je nový, obsahuje tvorivé riešenie (neobvyklé) a či je priemyselne využiteľný,
 
           - (ii) medzinárodná prihláška je v súlade s požiadavkami Zmluvy a tých pravidiel, ktoré kontroluje orgán pre medzinárodnú rešerš.
 
-          - K písomnému posudku sa pripoja ďalšie pripomienky, ktoré sú stanovené v pravidlách.
+        - K písomnému posudku sa pripoja ďalšie pripomienky, ktoré sú ustanovené v pravidlách.
 
         - (b) Na účely vyhotovenia písomného posudku sa články 33(2) až (6), 35(2) a 35(5) a pravidlá 43.4, 64, 65, 66.1(e), 66.7, 67, 70.2(b) a (d), 70.3, 70.4(ii), 70.5(a), 70.6 až 70.10, 70.12, 70.14 a 70.15(a) použijú primerane.
 
@@ -1470,7 +1474,7 @@
 
       - 44.1 Vyhotovenie správy alebo vyhlásenia a písomného posudku
 
-        - Orgán pre medzinárodnú rešerš odovzdá v rovnaký deň jednu kópiu medzinárodnej rešeršnej správy a písomný posudok vypracovaný podľa pravidla 43bis.1 alebo vyhlásenia podľa pravidla 17(2)(a) Medzinárodnému úradu a jedno vyhotovenie prihlasovateľovi.
+        - Orgán pre medzinárodnú rešerš v ten istý deň zašle jednu kópiu správy o medzinárodnej rešerši alebo vyhlásenia uvedeného v článku 17(2)(a) a jednu kópiu písomného posudku vypracovaného podľa pravidla 43bis.1 medzinárodnému úradu a jednu kópiu prihlasovateľovi.
 
       - 44.2. Názov alebo anotácia
 
@@ -1964,7 +1968,7 @@
 
           - (ii) dotyčný prihlasovateľ nepodpísal žiadosť, ale požiadavkám pravidla 4.15 (b) sa vyhovelo.
 
-      - 53.9. Vyhlásenie týkajúce sa úprav
+      - 53.9 Vyhlásenie týkajúce sa úprav
 
         - (a) Ak sa urobili úpravy podľa ustanovení článku 19, musí byť vo vyhlásení týkajúcom sa úprav uvedené, či si na účely medzinárodného predbežného prieskumu prihlasovateľ praje, aby sa tieto úpravy
 
@@ -1972,7 +1976,7 @@
 
           - (ii) považovali za zrušené úpravou podľa ustanovení článku 34.
 
-        - (b) Ak sa podľa článku 19 neurobili žiadne úpravy a lehota na podanie takých úprav dosiaľ neuplynula, môže sa vo vyhlásení uviesť, že si prihlasovateľ praje, aby sa začatie medzinárodného predbežného prieskumu odložilo podľa ustanovenia pravidla 69.1 (d).
+        - (b) Ak si orgán pre medzinárodný predbežný prieskum želá začať medzinárodný predbežný prieskum súčasne s medzinárodnou rešeršou v súlade s pravidlom 69.1(b) a neurobila sa žiadna zmena podľa článku 19 a neuplynula lehota na podanie týchto zmien, v stanovisku sa môže uviesť, že prihlasovateľ si želá, aby sa začiatok medzinárodného predbežného prieskumu odložil v súlade s pravidlom 69.1(d),
 
         - (c) Ak sú podľa ustanovení článku 34 predložené úpravy spolu s návrhom, musí sa to uviesť vo vyhlásení.
 
@@ -2372,7 +2376,7 @@
 
         - (vi) programy pre počítače potiaľ, pokiaľ orgán pre medzinárodný predbežný prieskum nie je vybavený na vykonávanie medzinárodného predbežného prieskumu na tieto programy.
 
-    - PRAVIDLO 68 NEDOSTATOK JEDNOTNOSTI VYNÁLEZU (MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM)
+    - Pravidlo 68 Nedostatok jednotnosti vynálezu (Medzinárodný predbežný prieskum)
 
       - 68.1. Bez výzvy na obmedzenie alebo zaplatenie
 
@@ -2380,19 +2384,29 @@
 
       - 68.2 Výzva na obmedzenie alebo na zaplatenie
 
-      - Ak orgán pre medzinárodný predbežný prieskum zistí, že nebola splnená požiadavka jednotnosti vynálezu, a rozhodne sa vyzvať prihlasovateľa, aby podľa svojej voľby buď obmedzil nároky, alebo zaplatil dodatočné poplatky, musí uviesť aspoň jednu možnosť obmedzenia, ktorá by podľa názoru orgánu pre medzinárodný predbežný prieskum zodpovedala platnej požiadavke, a určiť výšku dodatočných poplatkov a uviesť dôvody, pre ktoré medzinárodná prihláška nespĺňa požiadavku jednotnosti vynálezu. Zároveň určí podľa okolností prípadu lehotu na splnenie výzvy; lehota nesmie byť kratšia ako jeden mesiac a dlhšia ako dva mesiace od dátumu výzvy.
+      - Ak orgán pre medzinárodný predbežný prieskum zistí, že požiadavka jednotnosti vynálezu nie je splnená a rozhodne sa vyzvať prihlasovateľa, aby podľa svojej voľby obmedzil nároky alebo zaplatil dodatočné poplatky, vo výzve musí
+
+        - (i) uviesť aspoň jednu možnosť obmedzenia, ktorá by podľa názoru orgánu pre medzinárodný prieskum zodpovedala platnej požiadavke,
+
+        - (ii) uviesť dôvody, pre ktoré medzinárodná prihláška nezodpovedá požiadavke jednotnosti vynálezu,
+
+        - (iii) vyzvať prihlasovateľa, aby vyhovel výzve v lehote jedného mesiaca od dátumu výzvy,
+
+        - (iv) uviesť sumu požadovaných dodatočných poplatkov, ktoré musí prihlasovateľ zaplatiť v prípade, že tak rozhodne, a
+
+        - (v) vyzvať prihlasovateľa, aby zaplatil, podľa okolností, poplatok za sťažnosť uvedený v pravidle 68.3(e) v lehote jedného mesiaca od dátumu výzvy, a uviesť požadovanú sumu, ktorú treba zaplatiť.
 
       - 68.3 Dodatočné poplatky
 
-        - (a) Sumu dodatočného poplatku za medzinárodný predbežný prieskum podľa článku 34 (3) (a) určí príslušný orgán pre medzinárodný predbežný prieskum.
+        - (a) Sumu dodatočných poplatkov za medzinárodný predbežný prieskum podľa článku 34(3)(a) určí kompetentný orgán pre medzinárodný predbežný prieskum.
 
-        - (b) Dodatočný poplatok za medzinárodný predbežný prieskum podľa článku 34 (3) (a) sa platí priamo orgánu pre medzinárodný predbežný prieskum.
+        - (b) Dodatočné poplatky za medzinárodný predbežný prieskum podľa článku 34(3)(a) sa platia priamo orgánu pre medzinárodný predbežný prieskum.
 
-        - (c) Prihlasovateľ môže zaplatiť dodatočný poplatok so sťažnosťou, ku ktorej sa pripojí odôvodnené vyhlásenie, že medzinárodná prihláška je v súlade s požiadavkou jednotnosti vynálezu alebo že suma požadovaného dodatočného poplatku je nadmerná. Sťažnosť preskúma trojčlenná komisia alebo iná osobitná stolica orgánu pre medzinárodný predbežný prieskum alebo iný príslušný vyšší orgán, ktorý potiaľ, pokiaľ zistí, že sťažnosť bola oprávnená, rozhodne o úplnom alebo čiastočnom vrátení dodatočného poplatku prihlasovateľovi. Na žiadosť prihlasovateľa sa tak text sťažnosti, ako aj rozhodnutie o nej oznámi zvoleným úradom v prílohe správy o medzinárodnom predbežnom prieskume.
+        - (c) Prihlasovateľ môže zaplatiť dodatočné poplatky zároveň so sťažnosťou, ku ktorej sa pripojí odôvodnené vyhlásenie, že medzinárodná prihláška je v súlade s požiadavkou jednotnosti vynálezu alebo že suma požadovaných poplatkov je nadmerná. Sťažnosť preskúma kontrolný orgán vytvorený v rámci orgánu pre medzinárodný predbežný prieskum, ktorý, ak zistí, že sťažnosť bola oprávnená, rozhodne o úplnom alebo čiastočnom vrátení dodatočných poplatkov prihlasovateľovi. Na žiadosť prihlasovateľa sa text sťažnosti, ako aj rozhodnutie o nej oznámi zvoleným úradom v prílohe správy o medzinárodnom predbežnom prieskume.
 
-        - (d) Členom trojčlennej komisie, osobitnej stolice alebo príslušného vyššieho orgánu spomenutých v odseku (c) nesmie byť ten, kto vydal rozhodnutie napadnuté sťažnosťou.
+        - (d) Členom kontrolného orgánu uvedeného v odseku (c) môže byť aj osoba, ktorá vydala rozhodnutie o predmete sťažnosti.
 
-        - (e) Ak prihlasovateľ zaplatil podľa odseku (c) dodatočný poplatok so sťažnosťou, môže orgán pre medzinárodný predbežný prieskum po tom, čo vopred preskúmal oprávnenosť výzvy zaplatiť dodatočný poplatok, požiadať prihlasovateľa, aby zaplatil poplatok za preskúšanie sťažnosti („poplatok za sťažnosť“). Poplatok za sťažnosť sa musí zaplatiť do jedného mesiaca od dátumu oznámenia výsledku preskúmania prihlasovateľovi. Ak poplatok za sťažnosť nie je takto zaplatený, bude sa sťažnosť považovať za odvolanú. Poplatok za sťažnosť sa vráti prihlasovateľovi, ak trojčlenná komisia, osobitná stolica alebo vyšší orgán, spomenuté v ustanovení odseku (c), zistí, že sťažnosť bola úplne oprávnená.
+        - (e) Preskúmanie žiadosti uvedenej v odseku (c) môže orgán pre medzinárodný predbežný prieskum podrobiť poplatku za sťažnosť vo svoj prospech. Ak prihlasovateľ v predpísanej lehote podľa pravidla 68.2(v) nezaplatil požadovaný poplatok za sťažnosť, sťažnosť sa bude považovať za nepodanú a orgán pre medzinárodný predbežný prieskum to oznámi. Poplatok za sťažnosť sa vráti prihlasovateľovi, ak kontrolný orgán uvedený v odseku (c) zistí, že sťažnosť bola úplne oprávnená.
 
       - 68.4 Postup v prípade nedostatočného obmedzenia nárokov
 
@@ -2402,19 +2416,19 @@
 
         - V prípade pochybnosti, ktorý vynález je hlavným vynálezom na účely článku 34 (3) (c), sa považuje vynález uvedený v nárokoch na prvom mieste za hlavný vynález.
 
-    - Pravidlo 69 Začatie a lehota na medzinárodný predbežný prieskum
+    - Pravidlo 69 Začatie a lehota pre medzinárodný predbežný prieskum
 
       - 69.1 Začatie medzinárodného predbežného prieskumu
 
-        - (a) S výhradou odsekov (b) a (e) orgán pre medzinárodný predbežný prieskum začne medzinárodný predbežný prieskum, ak má k dispozícii:
+        - (a) S výnimkou odsekov (b) až (e) orgán pre medzinárodný predbežný prieskum začne medzinárodný predbežný prieskum, keď bude mať k dispozícii:
 
           - (i) návrh;
 
           - (ii) vrátane prípadného poplatku za neskorú platbu podľa pravidla 58bis.2 a
 
-          - (iii) správu o medzinárodnej rešerši a písomný posudok vypracovaný podľa pravidla 43bis.1 alebo oznámenie o vyhlásení orgánu pre medzinárodnú rešerš podľa článku 17(2)(a), že správa o medzinárodnej rešerši nebude vypracovaná
+          - (iii) buď správu o medzinárodnej rešerši, alebo vyhlásenie orgánu pre medzinárodnú rešerš podľa článku 17(2)(a), že nebude vypracovaná žiadna rešeršná správa a písomný posudok podľa pravidla 43bis.1
 
-          - za predpokladu, že orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum pred uplynutím príslušnej lehoty podľa pravidla 54bis.1(a), iba ak prihlasovateľ vyslovene žiadal začať skôr.
+          - za predpokladu, že orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum pred uplynutím lehoty ustanovenej v pravidle 54bis.1(a), ak prihlasovateľ vyslovene nepožiada o skoršie začatie.
 
         - (b) Ak národný úrad alebo medzivládna organizácia, ktorá koná ako orgán pre medzinárodnú rešerš a tiež koná ako orgán pre medzinárodný predbežný prieskum, môže sa medzinárodný predbežný prieskum, ak si to národný úrad alebo medzivládna organizácia želá a s výhradou odsekov (d) a (e), začať súčasne s medzinárodnou rešeršou.
 
@@ -2422,13 +2436,13 @@
 
         - (c) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že sa majú vziať do úvahy úpravy podľa článku 19 [pravidlo 53.9 (a) (i)], orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum skôr, dokiaľ nedostane kópiu dotyčných úprav.
 
-        - (d) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že začatie medzinárodného predbežného prieskumu bolo odložené (pravidlo 53.9(b)), orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum pred
+        - (d) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, aby sa medzinárodný predbežný prieskum odložil [pravidlo 53.9(b)], orgán pre medzinárodný predbežný prieskum nezačne medzinárodný predbežný prieskum pred
 
           - (i) prijatím kópie úprav vykonaných podľa článku 19,
 
           - (ii) prijatím oznámenia od prihlasovateľa, že nehodlá robiť úpravy podľa článku 19 alebo
 
-          - (iii) pred uplynutím platnej lehoty podľa pravidla 54bis.1(a).
+          - (iii) uplynutím príslušnej lehoty ustanovenej podľa pravidla 46.1.
 
         - (e) Ak vyhlásenie týkajúce sa úprav obsahuje údaj, že úpravy podľa článku 34 sa predkladajú s návrhom [pravidlo 53.9 (c)], ale v skutočnosti neboli také úpravy predložené, nezačne orgán pre medzinárodný predbežný prieskum medzinárodný predbežný prieskum predtým, než dostane úpravy, alebo pred uplynutím lehoty ustanovenej vo výzve podľa pravidla 60.1 (g), podľa toho, k čomu dôjde skôr.
 
@@ -2608,7 +2622,7 @@
 
         - (b) Ak predloženie prekladu medzinárodnej prihlášky podľa článku 39 (1) Zmluvy zvolený úrad nepožaduje, môže tento úrad požadovať od prihlasovateľa, aby predložil v lehote uvedenej v tomto článku preklad každého náhradného listu uvedeného v pravidle 70.16., ktorý je priložený k správe o medzinárodnom predbežnom prieskume a nie je v jazyku, v ktorom bola medzinárodná prihláška zverejnená.
 
-    - Pravidlo 76 Vyhotovenie, preklad a poplatok podľa článku 39 (1); preklad prioritného dokladu
+    - Pravidlo 76 Preklad prioritného dokladu; použitie niektorých pravidiel o konaní pred zvolenými úradmi
 
       - 76.1 zrušené
 
@@ -2620,9 +2634,9 @@
 
         - Prihlasovateľ nie je povinný predložiť žiadnemu zvolenému úradu preklad prioritného dokladu pred uplynutím príslušnej lehoty podľa článku 39.
 
-      - 76.5 Použitie pravidiel 22.1(g), 47.1, 49, 49bis a 51bis
+      - 76.5 Použitie niektorých pravidiel o konaní pred zvolenými úradmi
 
-      - Pravidlá 22.1(g), 47.1, 49, 49bis a 51bis sa použijú za predpokladu, že
+      - Pravidlá 13ter.3, 22.1(g), 47.1, 49, 49bis a 51bis použijú s podmienkou, že:
 
         - (i) určený úrad, prípadne určený štát sa považuje za zvolený úrad, prípadne za zvolený štát;
 
