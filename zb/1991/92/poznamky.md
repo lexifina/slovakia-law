@@ -54,7 +54,7 @@
 
 - 8c) § 15 a 16 ods. 1 zákona Slovenskej národnej rady č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.§ 7 písm. b), § 10 ods. 3 a § 22 ods. 3 zákona č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
 
-- 8d) Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
+- 8d) Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov. Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 8e) § 16 ods. 2 zákona Slovenskej národnej rady č. 474/1990 Zb. v znení neskorších predpisov.
 
@@ -73,6 +73,8 @@
 - 11) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 12) § 34 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
+
+- 13) § 7 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 1) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
 
