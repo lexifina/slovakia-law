@@ -1,8 +1,14 @@
-- 2) Článok 4 Opčného protokolu k Medzinárodnému paktu o občianskych a politických právach (oznámenie č. 169/1991 Zb.).
+- 1) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 2) Zákon č. 313/2001 Z. z. o verejnej službe.
+
+- 3) § 78 až 106 a § 159 zákona č. 312/2001 Z. z.
+
+- 4) § 105 zákona č. 312/2001 Z. z.
 
 - 5) § 123 až 130, § 133 a 134 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
-- 1) § 4 ods. 1 zákona č. 335/1991 Zb. o súdoch a sudcoch.
+- 7) § 4 ods. 1 zákona č. 335/1991 Zb. o súdoch a sudcoch.
 
 - 8) Občiansky súdny poriadok a Trestný poriadok.
 
@@ -46,4 +52,4 @@
 
 - 2a) Článok 34 Protokolu č. 11 k Dohovoru o ochrane ľudských práv a základných slobôd meniaci kontrolný systém založený dohovorom (oznámenie č. 102/1999 Z. z.).
 
-- 3) Čl. 152 ods. 2 Ústavy.
+- 23) Čl. 152 ods. 2 Ústavy.
