@@ -2,8 +2,6 @@
 
 - 2) § 360a ods. 4 Hospodárskeho zákonníka alebo § 636 Zákonníka medzinárodného obchodu.
 
-- 3) § 389a ods. 1 Hospodárskeho zákonníka.
-
 - 4) Napríklad vyhláška Federálneho ministerstva financií č. 90/1972 Zb. o financovaní niektorých zariadení spoločenskej spotreby a niektorých činností štátnych hospodárskych organizácií a organizácií zahraničného obchodu.
 
 - 5) Zákon č. 42/1980 Zb. o hospodárskych stykoch so zahraničím.
