@@ -1,1 +1,0 @@
-- 1) S odpadmi obsahujúcimi drahé kovy sa nakladá podľa predpisov o štátnej službe pre drahé kovy.
