@@ -28,6 +28,8 @@
 
 - 8a) § 5 ods. 2 zákona č. 311/2001 Z. z.
 
+- 8b) § 10 ods. 1 až 3 zákona č. 121/2004 Z. z. o pracovnom čase a dobe odpočinku v doprave a o zmene a doplnení niektorých zákonov.
+
 - 9) Napríklad § 3 a 14 vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti, § 14 vyhlášky Slovenského úradu bezpečnosti práce č. 25/1984 Zb. na zaistenie bezpečnosti práce v nízkotlakových kotolniach v znení vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 75/1996 Z. z.
 
 - 10) Vyhláška Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z.
