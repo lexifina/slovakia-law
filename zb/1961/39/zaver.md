@@ -1,3 +1,0 @@
-Minister:
-
-Krajčír v. r.
