@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 177/1997 Z. z. [Vzor 02 - Potvrdenie o úhrade príspevku vývozcu do záručného fondu Exportno-importnej banky Slovenskej republiky](../assets/dea22db34c1c2f08b0fee95b1222408369d9e2724fda3ad7f7ef54e61e49fc4e.pdf)
