@@ -376,7 +376,13 @@ Zákon č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 358/2000 Z. 
 
 - 60. V § 25 ods. 2 písm. a) sa na konci pripájajú tieto slová: „a m)“.
 
+- 61. V § 26 ods. 2 sa za slovami „na účely tohto zákona“ vypúšťajú slová „s výnimkou zásob“ a v písmene a) sa suma „20 000 Sk“ nahrádza sumou „30 000 Sk“.
+
 - 62. V § 26 ods. 3 sa na začiatok vkladá táto veta: „Hmotným majetkom na účely tohto zákona nie sú zásoby.“.
+
+- 63. V § 26 ods. 6 písm. c), d) a e) sa suma „20 000 Sk“ nahrádza sumou „30 000 Sk“.
+
+- 64. V § 26 ods. 7 sa suma „40 000 Sk“ nahrádza sumou „50 000 Sk“ a suma „20 000 Sk“ sa nahrádza sumou „30 000 Sk“.
 
 - 65.V § 26 ods. 11 sa písmeno a) dopĺňa piatym bodom, ktorý znie:
 
@@ -385,6 +391,68 @@ Zákon č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 358/2000 Z. 
 - prevedie hmotný majetok štátu v dôsledku delimitácie na inú rozpočtovú organizáciu alebo príspevkovú organizáciu<sup>77</sup>) alebo rozpočtovú organizáciu alebo príspevkovú organizáciu zriadenú obcou;<sup>77</sup>)“.
 
 - 66. V § 26 ods. 12 písm. b) sa na konci pripájajú tieto slová: „alebo rozpočtových organizácií alebo príspevkových organizácií zriadených obcou<sup>77</sup>)“.
+
+- 67. V § 27 ods. 2 písm. b) sa suma „20 000 Sk“ nahrádza sumou „30 000 Sk“.
+
+- 68. V § 30 ods. 1 tabuľka znie:
+
+- „
+
+- Odpisová skupina | Doba odpisovania
+
+- 1 | 4 roky
+
+- 2 | 6 rokov
+
+- 3 | 12 rokov
+
+- 4 | 20 rokov
+
+- 5 | 30 rokov
+
+- “.
+
+- 69. V § 31 ods. 1 tabuľka znie:
+
+- „
+
+- Odpisová skupina | Ročná odpisová sadzba | |
+
+- | v prvom roku odpisovania | v ďalších rokoch odpisovania | pre zvýšenú vstupnú cenu
+
+- 1 | 14,2 | 28,6 | 25,0
+
+- 2 | 8,5 | 18,3 | 16,7
+
+- 3 | 4,3 | 8,7 | 8,4
+
+- 4 | 3,1 | 5,1 | 5,0
+
+- 5 | 1,4 | 3,4 | 3,4
+
+- “.
+
+- 70. V § 32 ods. 1 tabuľka znie:
+
+- „
+
+- Koeficient pre zrýchlené odpisovanie | | |
+
+- Odpisová skupina | v prvom roku odpisovania | v ďalších rokoch odpisovania | pre zvýšenú zostatkovú cenu
+
+- 1 | 4 | 5 | 4
+
+- 2 | 6 | 7 | 6
+
+- 3 | 12 | 13 | 12
+
+- 4 | 20 | 21 | 20
+
+- 5 | 30 | 31 | 30
+
+- “.
+
+- 71. V § 33 ods. 1 sa suma „20 000 Sk“ nahrádza sumou „30 000 Sk“.
 
 - 72. V § 34 sa odsek 1 dopĺňa písmenom c), ktoré znie:
 
