@@ -1,0 +1,3 @@
+# Čl. 28
+
+Úverom na sezónne náklady a náklady nasledujúcich období umožňuje banka organizáciám preklenúť sezónny výkyv v nákladoch, ktorý súvisí s nerovnomernosťou vo výrobnom procese počas kalendárneho roka a s potrebným zabezpečením plánovaných úloh; ďalej úveruje vybrané dlhodobé náklady nasledujúcich období súvisiace najmä s predstihmi skrývok, generálnymi opravami energetických agregátov, nákladmi na licencie, prípravou a zábehom nových výrob a služieb. Pritom pôsobí na dodržiavanie plánovaných nákladov. V záujme dosahovania najvyššej hospodárnosti poskytuje banka úver na skutočne vynaložené náklady najviac však do plánovanej výšky. Nad plánovanú výšku poskytuje úver len výnimočne, pokiaľ prekračovanie nákladov súvisí so žiadúcim predstihom výkonov.
