@@ -1,0 +1,7 @@
+PRÍLOHA 1
+
+- VZOR TLAČIVA JEDNOTNÉHO DOKLADU
+
+  - PODĽA ČLÁNKU 1 ODS. 1 PÍSM. A) DODATKU II
+
+  - [Příloha 02](../assets/25cad69a299fb8f853fcd4347a4a2b9065a3fb2ca979202c9c5197f345d3cac2.pdf)
