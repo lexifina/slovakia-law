@@ -14,6 +14,6 @@
 
 (4) Ak nebude postarané o nápravu, vydá orgán štátneho odborného dozoru rozhodnutie, v ktorom nariadi postarať sa o nápravu, prípadne aj o zastavenie nezákonne vykonávaných činností.
 
-(5) Zamestnanci poverení výkonom štátneho odborného dozoru sú povinní viesť užívateľov k ochrane pozemných komunikácií a k zachovávaniu poriadku na nich. Sú oprávnení zisťovať totožnosť osôb, ktorých konanie ohrozuje pozemnú komunikáciu alebo prevádzku na nej. Pri výkone štátneho odborného dozoru sú povinní preukázať sa kontrolným odznakom a preukazom.
+(5) Zamestnanci poverení výkonom štátneho odborného dozoru sú povinní viesť užívateľov k ochrane pozemných komunikácií a k zachovávaniu poriadku na nich. Sú oprávnení zisťovať totožnosť osôb, ktorých konanie ohrozuje pozemnú komunikáciu alebo prevádzku na nej. Pri výkone štátneho odborného dozoru sú povinní preukázať sa preukazom.
 
 (6) Dohľad na výkon štátneho odborného dozoru nad cestami, miestnymi komunikáciami a účelovými komunikáciami patrí ministerstvu (hlavný štátny odborný dozor).
