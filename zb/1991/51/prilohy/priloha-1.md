@@ -1,0 +1,1 @@
+- Vzor odtlačku pečiatky k označeniu osvedčenia s celoštátnou platnosťou ![Obrázok](../assets/01f66afc474560596e43d5877254bef71043f69beadce0f60746ce24bce37135.png)
