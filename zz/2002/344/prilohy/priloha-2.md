@@ -115,3 +115,9 @@
   - a) Dohovor pre Austráliu nadobudol platnosť 1. augusta 2003.
 
   - b) Austrália neurobila pri podpise ani pri uložení ratifikačnej listiny vyhlásenia ani neuplatnila výhrady.
+
+  - Ekvádor
+
+  - a) Dohovor pre Ekvádor nadobudol platnosť 1. septembra 2003.
+
+  - b) Ekvádor neurobil pri podpise ani pri uložení ratifikačnej listiny vyhlásenia ani neuplatnil výhrady.
