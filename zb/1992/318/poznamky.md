@@ -14,6 +14,12 @@
 
 - 7a) § 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov. § 2 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky.
 
+- 7aa) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 7ab) § 476 Obchodného zákonníka.
+
+- 7ac) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 255/2000 Z. z. o stanovení hodnoty podniku, jeho častí a zložiek majetku podniku.
+
 - 7b) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
 
 - 8) Napr. Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
