@@ -1,0 +1,1 @@
+- 1) Kód je ustanovený úpravou Federálneho štatistického úradu č. 2817/78-03 o doplnení jednotnej klasifikácie študijných a učebných odborov.".
