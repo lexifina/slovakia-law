@@ -1,33 +1,37 @@
-- 1) Zákon č. 309/1991 Zb., o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší).
+- 1) Zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení neskorších predpisov.
 
-- 2) Zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona SNR č. 197/1991 Zb. a zákona SNR č. 298/1991 Zb. (úplné znenie vyhlásené zákonom Slovenskej národnej rady č. 31/1992 Zb.).
+- 2) Zákon Slovenskej národnej rady č. 453/1992 Zb., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
-- § 2 zákona SNR č. 599/1990 Zb. o štátnej správe pre životné prostredie.
+- § 2 zákona Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.
 
 - 3) § 7 a 8 zákona SNR č. 595/1990 Zb.
 
 - 4) § 3 až 6 zákona SNR č. 595/1990 Zb.
 
-- 5) § 5 zákona SNR č. 369/1990 Zb. o obecnom zriadení.
+- 5) § 5 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- § 2 a 11 zákona SNR č. 595/1990 Zb.
+- § 2 a 11 zákona Slovenskej národnej rady č. 595/1990 Zb.
 
-- 6) Zákon č. 142/1991 Zb. o česko-slovenských technických normách.
+- 6) Zákon č. 142/1991 Zb. o česko-slovenských technických normách v znení zákona č. 632/1992 Zb.
 
-- 7) § 14 ods. 5 zákona o ovzduší.
+- 7) § 5 ods. 4 zákona o ovzduší v znení neskorších predpisov.
 
-- 8) § 18 zákona o ovzduší.
+- 8) § 18 zákona o ovzduší v znení neskorších predpisov.
 
 - 9) Článok 139a ústavného zákona č. 143/1968 Zb. o československej federácii v znení neskorších predpisov.
+
+- 9a) § 74 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona Slovenskej národnej rady č. 419/1991 Zb. a zákona Slovenskej národnej rady č. 295/1992 Zb.
 
 - 10) § 15 zákona o ovzduší.
 
 - 11) § 45 a 46 zákona SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
 
-- 12) § 3 písm. c) a § 8 zákona o ovzduší.
+- 12) § 3 ods. 2 písm. c) a § 8 zákona o ovzduší v znení neskorších predpisov.
 
-- 13) Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva v znení zákona č. 383/1990 Zb.
+- 13) Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva v znení zákona č. 383/1990 Zb. a zákona č. 558/1991 Zb.
 
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 15) § 3 zákona SNR č. 128/1991 Zb. o Štátnom fonde životného prostredia Slovenskej republiky.
+- 15) § 3 zákona Slovenskej národnej rady č. 128/1991 Zb. o Štátnom fonde životného prostredia Slovenskej republiky v znení zákona Slovenskej národnej rady č. 311/1992 Zb.
+
+- 16) § 6 ods. 1 zákona Slovenskej národnej rady č. 311/1992 Zb. o poplatkoch za znečisťovanie ovzdušia.
