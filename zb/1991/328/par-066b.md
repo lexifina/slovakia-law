@@ -1,6 +1,6 @@
 # § 66b Opatrenie
 
-(1) Súd rozhoduje opatrením, ak ukladá správcovi povinnosť, pri dohliadacej činnosti, ak rozhoduje o ustanovení opatrovníka, odmene opatrovníka, predbežnej odmene správcu, zbavení správcu mlčanlivosti, odmene likvidátora alebo ak dáva súhlas podľa tohto zákona.
+(1) Súd rozhoduje opatrením, ak ukladá správcovi povinnosť, pri dohliadacej činnosti, ak rozhoduje o ustanovení opatrovníka a osobitného správcu, odmene opatrovníka, predbežnej odmene správcu, zbavení správcu mlčanlivosti, odmene likvidátora alebo ak dáva súhlas podľa tohto zákona.
 
 (2) V písomnom vyhotovení opatrenia sa uvedie, ktorý súd ho vydal, označenie úpadcu, správcu, osôb, ktorým vzniklo právo, výrok, odôvodnenie, poučenie o odvolaní, deň a miesto vydania.
 

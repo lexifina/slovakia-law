@@ -1,8 +1,12 @@
 - 1) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
 
-- 2) § 91 ods. 2 zákona č. 99/1963 Zb. v znení neskorších predpisov.
+- 1a) Napríklad zákon č.100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov, zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
 
-- 2a) Napríklad Občiansky súdny poriadok, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok), zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 1b) § 92 ods. 2 Občianskeho súdneho poriadku.
+
+- 2) § 91 ods. 2 Občianskeho súdneho poriadku.
+
+- 2a) Napríklad Občiansky súdny poriadok, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok), zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 3) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
 
@@ -10,19 +14,43 @@
 
 - Zákon SNR č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
-- 4) § 116 Občianskeho zákonníka č. 40/1964 v znení neskorších predpisov.
+- 3a) § 5 Obchodného zákonníka.
+
+- 3b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z.
+
+- 3c) § 156 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z.
+
+- 4) § 116 Občianskeho zákonníka.
 
 - 4a) § 11 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov.
 
 - 4b) Napr. § 8 ods. 2 zákona č. 17/1992 Zb.
 
-- 4c) § 476 a nasl. Obchodného zákonníka.
+- 4ba) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
 
-- 4d) § 11 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov.
+- 4c) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
+- 4d) § 710 až 714 Občianskeho zákonníka.
+
+- 4da) § 476 až 488 Obchodného zákonníka.
+
+- 4db) § 242 až 246 Colného zákona.
+
+- 4dc) Príloha č. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 4dd) § 11 a 12 zákona č. 455/1991 Zb.
+
+- 4de) Napríklad § 31 zákona č. 563/1991 Zb. o účtovníctve v znení zákona č. 336/1999 Z. z.
+
+- 4df) § 408a Obchodného zákonníka v znení zákona č. 11/1998 Z. z.
 
 - 4e) § 408a Obchodného zákonníka.
 
 - 5) § 149 ods. 4 Občianskeho zákonníka v znení neskorších predpisov.
+
+- 5a) § 258a a 258b Colného zákona v znení zákona č. 239/2000 Z. z.§ 95 a 95a zákona č. 511/1992 Zb. v znení zákona č. 240/2000 Z. z.§ 128c a 128d zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení zákona č. 241/2000 Z. z.§ 71c a 71d zákona č. 273/1994 Z. z. v znení zákona č. 242/2000 Z. z.§ 25a zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení zákona č. 243/2000 Z. z.§ 24 ods. 2 zákona č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení zákona č. 242/2000 Z. z.
+
+- 5b) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 6) § 80 písm. c) Občianskeho súdneho poriadku.
 
