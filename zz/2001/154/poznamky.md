@@ -26,6 +26,8 @@
 
 - 14) § 80 písm. c) Občianskeho súdneho poriadku.
 
+- 14a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 15) § 116 Občianskeho zákonníka.
 
 - 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 22 až 24, § 27 a 28 Občianskeho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
