@@ -52,11 +52,15 @@
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
 
+- 14a) § 69 ods. 4 Obchodného zákonníka.
+
 - 15) § 89 ods. 14 Trestného zákona.
 
 - 16) § 8 ods. 2 zákona č. 17/1992 Zb. o životnom prostredí.
 
 - 16a) § 12 ods. 2 písm. c) zákona č. 259/2001 Z. z.
+
+- 16b) § 179 ods. 1 Trestného zákona.
 
 - 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
