@@ -82,7 +82,7 @@
 
 - 34d) § 19 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení zákona č. 187/1998 Z. z.
 
-- 34e) § 43 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
+- 34e) § 15 ods. 3 a § 20 ods. 2 zákona č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
 
 - 34f) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
 
