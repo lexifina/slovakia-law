@@ -1,1 +1,0 @@
-- 1) Hospodársky zákonník č. 109/1964 Zb. v znení neskorších predpisov.
