@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 154/1998 Z. z. [VZOR 01](../assets/2428eb8025ee2a36fa03e4ffd8d73b5d4427739bd7833be8f7e36c0af50a4bcc.pdf)
+Príloha č. 1 k vyhláške č. 154/1998 Z. z. [Vzor 01](../assets/0d00f645d07b90bf67e23a78db3e20d58ed00c138cc14364fb2bc32311c28923.pdf)
