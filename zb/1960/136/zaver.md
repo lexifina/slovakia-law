@@ -1,3 +1,0 @@
-Minister:
-
-Štrougal v. r.
