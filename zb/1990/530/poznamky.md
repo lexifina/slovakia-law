@@ -34,19 +34,13 @@
 
 - 3e) § 160 Obchodného zákonníka.
 
-- 3ea) § 10 ods. 1 zákona č. 566/2001 Z. z.
+- 3f) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 3eb) § 10 ods. 3 zákona č. 566/2001 Z. z.
+- 3fa) § 14 až 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 3eba) § 21 ods. 4 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 3fb) § 3 zákona č. 386/2002 Z. z.
 
-- 3ec) § 281 až 288 Obchodného zákonníka.
-
-- 3eca) § 6 ods. 3 písm. d) alebo § 99 ods. 4 písm. a) zákona č. 566/2001 Z. z.
-
-- 3ed) § 2 ods. 7 zákona č. 483/2001 Z. z.
-
-- 3f) § 54 zákona č. 566/2001 Z. z.
+- 3fc) § 99 zákona č. 566/2001 Z. z.
 
 - 3g) Napríklad Obchodný zákonník, zákon č. 566/2001 Z. z.
 
