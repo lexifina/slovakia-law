@@ -6,12 +6,14 @@
 
 - 1c) § 7 písm. a) 1., 2., 5. až 9. bod a § 54 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
-- 1d) § 115 Občianskeho zákonníka.
+- 1d) § 57 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 1e) Zákon č. 52/1998 o ochrane osobných údajov v informačných systémoch.
+- 1e) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
 
 - Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - Zákon č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
+
+- 3) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
