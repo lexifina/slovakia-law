@@ -1,0 +1,1 @@
+- 1) Zákon č. 22/1964 Sb., o evidenci nemovitostí.
