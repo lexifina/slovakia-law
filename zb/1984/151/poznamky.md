@@ -1,0 +1,1 @@
+- 1) § 18a a 102 hospodářského zákoníku č. 109/1964 Sb., ve znění pozdějších předpisů (úplné znění č. 45/1983 Sb.).
