@@ -20,13 +20,23 @@
 
 - 7) § 20 ods. 3 a 4 zákona č. 1/1991 Zb. v znení zákona č. 231/1992 Zb.
 
+- 7a) Napr. zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní,
+
+- zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
+
 - 8) § 61 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 123/1990 Zb. a zákona č. 306/1991 Zb.
 
 - 9) § 29 ods. 2 písm. d) zákona č. 100/1988 Zb. v znení neskorších predpisov.
 
-- 9a) § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku. § 3 ods. 2 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch. Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky. Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.
+- 9a) Napr. § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.§ 3 ods. 2 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch.Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky.
 
 - 10) § 3 ods. 1 písm. a) zákona č. 286/1992 Zb. o daniach z príjmov.
+
+- 10a) § 110b), § 117 ods. 3, § 124, § 128 až 130 Zákonníka práce.§ 6 zákona č. 1/1992 Zb.§ 14 zákona č. 143/1992 Zb.
+
+- 10b) § 97 ods. 2 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
+
+- 10c) § 194 a nasledujúce Zákonníka práce.
 
 - 11) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb.
 
