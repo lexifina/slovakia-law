@@ -38,7 +38,13 @@
 
 - § 12 vyhlášky č. 136/1961 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon).
 
+- **) Pravidlá technickej prevádzky mestských dráh.
+
 - *) Napr. § 2 ods. 4, § 13 ods. 2, § 16 ods. 3, § 20 ods. 2 písm. a), § 29 ods. 1, § 31 ods. 1, § 43 ods. 5 a § 48 ods. 3.
+
+- *) Najvyššia prípustná rýchlosť uvedená v technickom preukaze nepresahuje 50 km za hodinu.
+
+- **) ČSN 73 6100 Názvoslovie ciest a diaľníc, čl. 237.
 
 - *) ČSN 26 8805 Bezpečnostné predpisy pre premávku motorových dopravných vozíkov.
 
@@ -47,3 +53,5 @@
 - § 13 vyhlášky č. 136/1961 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon).
 
 - **) Podľa rozhodnutí príslušných národných výborov sa zrušujú vyhláška Ústredného národného výboru hlavného mesta Prahy č. 183/1956 Ú. l. (Ú. v.), ktorou sa vydáva dopravný poriadok pre hlavné mesto Prahu, a pravidlá premávky v Bratislave vydané 27. októbra 1965 Mestským národným výborom v Bratislave.
+
+- *) ČSN 73 6100 Názvoslovie ciest a diaľnic, čl. 237.
