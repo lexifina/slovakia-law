@@ -12,6 +12,8 @@
 
 - Úprava Ministerstva zdravotníctva Slovenskej socialistickej republiky - hlavného hygienika SSR č. Z-3480/1977-B/3-04 o hygienických požiadavkách na zriaďovanie a prevádzku hromadných ubytovní (reg. v čiastke 17/1978 Zb.).
 
+- 6a) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 82/1988 Zb., ktorou sa upravuje uvoľňovanie, umiestňovanie a hmotné zabezpečenie pracovníkov v súvislosti s prestavbou národného hospodárstva a ústredných orgánov
+
 - 7) Jednotné metodické pokyny pre vypracovanie návrhu päťročného plánu na roky 1981-1985 a návrhu vykonávacieho plánu na rok 1981 - ŠPK č. 70200/80, FMF č. III/715/80 príloha I oddiel II časť 12 - plán stavebníctva (reg. v čiastke 18/1980 Zb.).
 
 - 8) Vyhláška predsedu Štátnej banky československej a Federálneho ministerstva financií č. 118/1972 Zb. o pokladničných operáciách v socialistických organizáciách v znení vyhlášok č. 10/1978 Zb. a č. 91/1980 Zb.
