@@ -1,0 +1,1 @@
+- 1) Zákon č. 119/1992 Zb. o cestovných náhradách.
