@@ -8,7 +8,7 @@
 
 (4) Správca dane vydá daňový exekučný príkaz len do výšky záväzku tretej osoby, najviac do výšky vymáhaného daňového nedoplatku.
 
-(5) Po doručení daňového exekučného príkazu je poddlžník povinný poukázať záväzok, ktorý je splatný, na účet správcu dane uvedený v daňovom exekučnom príkaze.
+(5) Po doručení daňového exekučného príkazu je poddlžník povinný poukázať záväzok, ktorý je splatný, na účet správcu dane uvedený v daňovom exekučnom príkaze. Ak je poddlžník platiteľom dane z pridanej hodnoty, poukazuje splatný záväzok znížený o sumu dane z pridanej hodnoty, ak na účely odpočtu tejto dane podľa osobitného zákona<sup>19</sup>) platí túto daň daňovému dlžníkovi.
 
 (6) Správca dane je oprávnený vydať daňový exekučný príkaz aj na pohľadávku splatnú v budúcnosti, a to aj v prípade, ak budú daňovému dlžníkovi vznikať postupne čiastkové pohľadávky z toho istého právneho dôvodu.
 

@@ -1,6 +1,6 @@
 # § 84b Súpis hnuteľných vecí
 
-(1) Správca dane vykoná súpis takých hnuteľných vecí, na ktoré nebolo zriadené správcom dane zákonné záložné právo (§ 71). Súpis hnuteľných vecí vykoná správca dane pri doručení daňovej exekučnej výzvy. Spíšu sa predovšetkým veci, bez ktorých sa daňový dlžník môže najľahšie zaobísť a ktoré možno ľahko preniesť, uschovať a predať.
+(1) Súpis hnuteľných vecí vykoná správca dane pri doručení daňovej exekučnej výzvy. Spíšu sa predovšetkým veci, bez ktorých sa daňový dlžník môže najľahšie zaobísť a ktoré možno ľahko preniesť, uschovať a predať.
 
 (2) Veci, ktoré rýchlo podliehajú skaze alebo ich prevoz, úschova, udržiavanie a predaj by vyžadoval neúmerne vysoké náklady, sa spíšu len vtedy, keď nie je dostatok iných vecí alebo ak je možné zabezpečiť ich rýchly predaj.
 

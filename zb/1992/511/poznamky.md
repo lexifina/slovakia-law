@@ -92,6 +92,10 @@
 
 - 12a) Napr. zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
 
+- 12b) § 544 až 587 Občianskeho zákonníka.
+
+- 12c) § 48 zákona č. 366/1999 Z. z. o daniach z príjmov.
+
 - 13a) § 7 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
 
 - 13b) § 151a až 151m Občianskeho zákonníka.
@@ -147,6 +151,8 @@
 - 19) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov.
 
 - 19a) § 14 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 45/1998 Z. z.
+
+- 19aa) § 4 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov.
 
 - 19b) Napríklad § 1 ods. 1 písm. d) zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
