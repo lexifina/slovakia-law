@@ -1,1 +1,0 @@
-- *) § 55 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) a § 8 vládneho nariadenia č. 107/1967 Zb. o zabezpečení vzťahov organizácií k štátnemu rozpočtu.
