@@ -1,0 +1,1 @@
+- 1) Opatrenie Národnej banky Slovenska č. 11/2001 o predkladaní výkazov bankami a pobočkami zahraničných bánk Národnej banke Slovenska. Oznámenie č. 552/2001 Z. z.
