@@ -1,0 +1,1 @@
+- 1) Príloha č. 1 písmeno B bod 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996 Z. z. o zabezpečovaní ochrany obyvateľstva pri výrobe, preprave, skladovaní a manipulácii s nebezpečnými škodlivinami.
