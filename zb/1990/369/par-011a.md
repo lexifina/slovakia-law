@@ -16,7 +16,7 @@
 
 (5) Ak sa hlasovaním obyvateľov obce podľa predchádzajúcich odsekov rozhodlo o zrušení v obci už zavedenej miestnej dane alebo miestneho poplatku, prípadne o tom, že sa vyrubovanie takejto dane alebo vyberanie takéhoto poplatku v obci nezavedie, môže obecné zastupiteľstvo o zavedení takejto miestnej dane alebo miestneho poplatku vo svojej pôsobnosti rozhodnúť až po uplynutí jedného roka odo dňa, keď sa miestne referendum uskutočnilo.
 
-(6) Obecné zastupiteľstvo môže vyhlásiť hlasovanie obyvateľov obce aj pred rozhodnutím o ďalších dôležitých veciach.
+(6) Obecné zastupiteľstvo môže vyhlásiť hlasovanie obyvateľov obce aj pred rozhodnutím o ďalších dôležitých veciach samosprávy obce (§ 4); hlasovanie obyvateľov obce o iných otázkach nie je prípustné.
 
 (7) Hlasovanie obyvateľov obce je platné, ak sa ho zúčastní nadpolovičná väčšina obyvateľov obce oprávnených voliť podľa osobitných predpisov.<sup>12</sup>) Rozhodnutie obyvateľov obce je prijaté vtedy, ak dostalo nadpolovičnú väčšinu platných hlasov.
 
