@@ -38,6 +38,8 @@
 
 - 16) § 116 Občianskeho zákonníka.
 
+- 16a) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+
 - 17) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
 - 17a) § 13 zákona č. 314/2001 Z. z.§ 19 vyhlášky Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
@@ -68,7 +70,7 @@
 
 - 27a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
-- 28) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
+- 28) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
 - 29) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
