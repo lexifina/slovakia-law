@@ -96,22 +96,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 60. | | vyhl. č. 34/1977 Zb. | §5 | udeľuje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
 
-- 67. | tvorba a ochrana životného prostredia -odpadové hospodárstvo | zák. SNR č. 494/1991 Zb. v znení neskorších predpisov | § 4 písm. b) | dáva podľa § 4 ods. 2 zákona o odpadoch vyjadrenie k zariadeniam a činnostiam, ktoré svojím dopadom presahujú územie okresu
-
-- 68. | | | § 4 písm. c) | zakáže podľa § 9 zákona o odpadoch do odstránenia závady činnosť
-
-- | | | | - pôvodcu, ak nemá zabezpecené využitie alebo zneškodnenie odpadu a ak by v dôsledku toho mohlo dôjsť k závažnej ekologickej ujme
-
-- | | | | - prevádzkovateľa zariadenia na zneškodnovanie odpadov, ak tento nesplní povinnosti ustanovené zákonom o odpadoch alebo jeho vykonávacími predpismi a ak by v dôsledku toho mohlo dôjsť k závažnej ekologickej ujme
-
-- 69. | tvorba a ochrana životného prostredia -odpadové hospodárstvo | zák. SNR č. 494/1991 Zb. v znení neskorších predpisov | § 4 písm. d) | poskytuje pôvodcovi podla § 4 ods. 5 zákona o odpadoch na jeho požiadanie informácie o existencii a sídlach zariadení vhodných na zneškodnenie ním vyprodukovaného odpadu
-
-- 70. | | | § 4 písm. e) | vydáva, aktualizuje a zverejňuje program odpadového hospodárstva pre územie kraja
-
-- 71. | | | § 4 písm. f) | vydáva v odpadovom hospodárstve pre územie kraja všeobecne záväzné vyhlášky
-
-- 72. | | | § 2 ods. 2 písm. g) a § 4 písm. a) | dáva súhlas podľa § 6 ods. 2 zákona o odpadoch na prepravu nebezpečných odpadov presahujúcu územie kraja alebo okresu
-
 - 74. | | zák. NR SR č. 287/1994 Z. z. | § 12 ods. 2, § 16 ods. 1, § 17 ods. 1, § 18 ods. 1, §22, § 34 ods. 1 a 5, § 35 až 37, § 39 | vyhlasuje, mení alebo zrušuje chránený areál, prírodnú rezerváciu, prírodnú pamiatku a ich ochranné pásmo, súkromné chránené územie, chránený strom a jeho ochranné pásmo
 
 - 75. | | | § 15, § 19 ods. 8 | vydáva návštevný poriadok národného parku a návštevný poriadok sprístupnenej jaskyne a priepasti
@@ -218,11 +202,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 202. | | zák. SNR č. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
 
-- 204. | | zák. SNR č. 27/1987Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
+- 204. | | zák. SNR č. 27/1987 Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
 
 - 205. | | | § 7 ods. 2 | vedie zoznamy kultúrnych pamiatok
 
-- 206. | kultúra | zák. SNR č. 27/1987Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
+- 206. | kultúra | zák. SNR č. 27/1987 Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
 
 - 207. | | | § 11 ods. 2 | rozhoduje o podmienkach a zákaze výkonu cinnosti ohrozujúcej národnú kultúrnu pamiatku
 
@@ -254,7 +238,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 221. | | | § 7 ods. 1 a 2 | vyjadruje sa k zásadám koncepcného riešenia rozvojovej teplofikacnej štúdie zahrnujúcej územie kraja
 
-- 222. | regionálny rozvoj | zák. č. 89/1987 Zb. | § 8 ods. 1 | vydáva súhlas na schválenie rozvojovej teplofikacnej štúdie
+- 222. | regionálny rozvoj | zák. c. 89/1987 Zb. | § 8 ods. 1 | vydáva súhlas na schválenie rozvojovej teplofikacnej štúdie
 
 - 223. | | | § 17 ods. 1 | vydáva súhlas na zrušenie, premiestnenie, dlhodobé zastavenie alebo obmedzenie dodávky tepla pre obyvatelov
 
