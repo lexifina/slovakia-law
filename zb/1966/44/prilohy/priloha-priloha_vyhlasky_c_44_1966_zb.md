@@ -136,7 +136,7 @@ Príloha vyhlášky č. 44/1966 Zb.
 
   - 1. pri špecializácii vo všetkých odboroch
 
-  - farmakológia
+  - farmakognózie
 
   - 2. pri špecializácii vo farmaceutickej technológii
 
