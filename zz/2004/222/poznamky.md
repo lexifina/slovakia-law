@@ -10,13 +10,13 @@
 
 - 6) Napríklad zákon č. 107/2004 Z. z. o spotrebnej dani z piva.
 
+- 6a) Zákon č. 610/2003 Z. z. o elektronických komunikáciách.
+
 - 7) § 3 zákona č. 507/2001 Z. z. o poštových službách.
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 9) § 20a zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
-
-- 10) § 7 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
 - 11) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
@@ -32,8 +32,6 @@
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
-- 16) Napríklad zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
-
 - 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 18) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
@@ -41,6 +39,10 @@
 - 19) § 43h zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 20) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+
+- 20a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z.
+
+- 20b) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
 - 21) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
 
