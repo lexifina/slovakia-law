@@ -1,0 +1,33 @@
+- 1) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb., zákona č. 262/1992 Zb., zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
+
+- 2) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
+
+- 3) Zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
+
+- 4) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení zákona č. 27/1984 Zb. a zákona Národnej rady Slovenskej republiky č. 160/1996 Z. z.
+
+- 5) Vyhláška Federálneho ministerstva vnútra č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách (pravidlá cestnej premávky) v znení vyhlášky Federálneho ministerstva vnútra č. 24/1990 Zb., vyhlášky Federálneho ministerstva vnútra č. 619/1992 Zb., vyhlášky Ministerstva vnútra Slovenskej republiky č. 113/1993 Z. z. a vyhlášky Ministerstva vnútra Slovenskej republiky č. 267/1994 Z. z.
+
+- 6) § 120 zákona č. 50/1976 Zb.
+
+- 7) § 58 a nasl. zákona č. 50/1976 Zb. v znení zákona č. 262/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
+
+- 8) § 76 a nasl. zákona č. 50/1976 Zb. v znení zákona č. 262/1992 Zb.
+
+- 9) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
+
+- 10) Zákon Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky v znení zákona Slovenskej národnej rady č. 295/1992 Zb.
+
+- 11) Zákon č. 110/1964 Zb. o telekomunikáciách v znení zákona č. 150/1992 Zb., zákona Národnej rady Slovenskej republiky č. 96/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 212/1995 Z. z.
+
+- 12) Zákon č. 92/1949 Zb. Branný zákon, ako vyplýva zo zmien a doplnení vykonaných Ústavou Československej socialistickej republiky č. 100/1960 Zb. v znení ústavného zákona č. 101/1990 Zb., ústavným zákonom o československej federácii č. 143/1968 Zb. v znení ústavného zákona č. 125/1970 Zb. a ústavného zákona č. 126/1970 Zb., zákonom č. 86/1950 Zb., zákonom č. 88/1950 Zb., zákonom č. 19/1958 Zb., zákonom č. 140/1961 Zb. v znení neskorších predpisov, zákonom č. 100/1970 Zb. v znení neskorších predpisov, zákonom č. 40/1974 Zb. v znení neskorších predpisov, zákonom č. 64/1978 Zb., zákonom č. 72/1990 Zb., zákonom č. 227/1991 Zb., zákonom č. 164/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 166/1995 Z. z. a zákonom Národnej rady Slovenskej republiky č. 161/1996 Z. z.
+
+- 13) Napríklad zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z., vyhláška Slovenského banského úradu č. 71/1988 Zb. o výbušninách v znení vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 77/1996 Z. z. a vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 78/1996 Z. z.
+
+- 14) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
+
+- 15) § 89 ods. 14 Trestného zákona.
+
+- 16) § 8 ods. 2 zákona č. 17/1992 Zb. o životnom prostredí.
+
+- 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
