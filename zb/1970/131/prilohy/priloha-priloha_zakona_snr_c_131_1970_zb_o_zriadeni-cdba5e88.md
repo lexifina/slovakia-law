@@ -190,13 +190,7 @@ Príloha zákona SNR č. 131/1970 Zb. o zriadení krajských výborov v Slovensk
 
 | sociálneho zabezpečenia a starostlivosti | | |
 
-78 | | vyhl. č. 102/1964 Zb. | § 105 | udeľovanie súhlasu na zriadenie alebo zrušenie ústavov sociálnej starostlivosti a na odňatie ich objektov ich účelu
-
-79 | | vl. nar. č. 59/1964 zb. | § 20 písm. a) | riadenie a kontrolovanie činnosti okresných národných výborov pri starostlivosti o deti
-
-80 | | | § 20 písm. b) | vykonávanie kontroly zariadení, v ktorých sú mladiství vo väzbe alebo kde sa vykonáva trest odňatia slobody im uložený, po stránke výchovnej
-
-81 | | vyhl. č. 108/1964 Zb. v znení vyhl. č. 78/1968 Zb. | § 4 ods. 3 | udeľovanie súhlasu okresným národným výborom na zriaďovanie osobitných okresných posudkových komisií sociálneho zabezpečenia
+78-81 | Zrušené od 1. 1. 1976. | | |
 
 | obrany štátu | | |
 
