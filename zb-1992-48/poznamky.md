@@ -1,0 +1,1 @@
+- 1) § 12a - § 12b zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
