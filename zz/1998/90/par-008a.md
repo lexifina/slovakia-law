@@ -47,3 +47,5 @@
 - e) kritériá zhody.
 
 (10) Výrobca je povinný po celý čas výroby a desať rokov odo dňa jej skončenia uschovávať úplnú dokumentáciu o stavebných výrobkoch a o jednotlivých šaržiach vyrobených stavebných výrobkov vrátane výrobných detailov a údajov o ich vlastnostiach, ako aj záznamy o tom, komu boli expedované stavebné výrobky alebo ich šarže ako prvému. Stavebné výrobky a ich šarže musia byť jednoznačne identifikovateľné a podrobnosti o ich výrobe spätne sledovateľné.
+
+(11) Povinnosť ustanovená v ods. 7 sa nevzťahuje na výrobcov, ktorí zamestnávajú vo výrobe stavebného výrobku menej ako 20 zamestnancov.
