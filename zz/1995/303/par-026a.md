@@ -39,3 +39,5 @@
 (4) Príjmy rozpočtov vyšších územných celkov z podielov na daniach v správe štátu, štruktúru a spôsob ich rozdeľovania ustanoví osobitný zákon.
 
 (5) Dotácie zo štátneho rozpočtu na príslušný rozpočtový rok sa poskytujú vyšším územným celkom na výkon samosprávnych funkcií a na prenesený výkon štátnej správy.
+
+(6) Finančné prostriedky súvisiace s rozpočtovým hospodárením vyšších územných celkov sa vedú na príjmových, výdavkových a mimorozpočtových účtoch v Štátnej pokladnici.
