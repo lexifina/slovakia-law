@@ -1,3 +1,0 @@
-# Čl. 2
-
-Tento zákon nadobúda účinnosť 1. januárom 1980.
