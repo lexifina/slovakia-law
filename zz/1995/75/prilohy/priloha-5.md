@@ -52,13 +52,13 @@ Príloha č. 5 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - b) triedi dopravné prostriedky na kontaminované a nekontaminované účinkami nebezpečných látok,
 
-    - c) zabezpečuje a udržiava režim života, organizovanosť činnosti, plynulý a rýchly odsun evakuovaných po vykonaní špeciálnej očisty na pôvodné evakuačné trasy,
+    - c) zabezpečuje a udržiava režim života, organizovanosť činnosti, plynulý a rýchly odsun evakuovaných po vykonaní dekontaminácie na pôvodné evakuačné trasy,
 
     - d) sústreďuje údaje o dopravnej situácii,
 
     - e) eviduje osoby a dopravné prostriedky,
 
-    - f) plní úlohy regulačného stanovišťa,
+    - f) plní úlohy regulačného stanovišťa, ak nie je zriadené samostatne,
 
     - g) vykonáva dozimetrickú kontrolu a kontrolu kontaminácie osôb, vecí a techniky.
 

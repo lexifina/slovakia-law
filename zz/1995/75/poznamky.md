@@ -2,7 +2,7 @@
 
 - 7) § 12 ods. 1 písm. d) a ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
-- 7a) § 13 ods. 1 písm. h) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
+- 7a) § 13 ods. 1 písm. g) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 7b) § 9 ods. 4 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
