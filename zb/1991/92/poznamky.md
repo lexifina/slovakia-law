@@ -46,6 +46,8 @@
 
 - 7f) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
+- 7g) Nariadenie vlády Slovenskej republiky č. 134/1994 Z. z. o vydávaní a použití investičných kupónov v znení nariadenia vlády Slovenskej republiky č. 139/1996 Z. z. a nálezu Ústavného súdu Slovenskej republiky č. 77/1997 Z. z.
+
 - 8) Zákon č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení zákona č. 600/1992 Zb.
 
 - 8a) § 13 a 19 zákona č. 600/1992 Zb. o cenných papieroch.
@@ -68,9 +70,13 @@
 
 - 10) § 489 až 496 Obchodného zákonníka.
 
+- 10a) Napríklad zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
+
 - 10b) § 11 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 383/1991 Zb. o vydaní a použití investičných kupónov.
 
 - 11) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
+- 11a) § 1 písm. b) a c) a § 17 ods. 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 12) § 34 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
