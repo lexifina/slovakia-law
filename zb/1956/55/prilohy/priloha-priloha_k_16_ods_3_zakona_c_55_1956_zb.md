@@ -26,7 +26,7 @@ Príloha k § 16 ods. 3 zákona č. 55/1956 Zb.
 
 - 12 | Onemocnenie z nitro- a amino- zlúčenín benzénu alebo jeho homológov a ich odvodenín |
 
-- 13 | Onemocnenie z halogenizovaných uhľovodíkov mastného radu |
+- 13 | Ochorenie z halogenizovaných uhľovodíkov |
 
 - 14 | Onemocnenie z dusičných estérov glycerínu a dusičných estérov iných látok mastného radu |
 
@@ -44,32 +44,34 @@ Príloha k § 16 ods. 3 zákona č. 55/1956 Zb.
 
 - 21 | Onemocnenie prenosnými a parazitárnymi nemocami | Na všetkých zdravotníckych pracoviskách, kde preukázateľný styk s infekčne nemocnými alebo s infekčným materiálom je súčasťou výkonu zamestnania
 
-- 22 | Nemoci prenosné zo zvierat na ľudí buď priamo alebo prostredníctvom prenášačov | v ktorých sú zamestnanci vydaní tomuto nebezpečiu alebo kde onemocnenie vzniklo preukázateľne výkonom zamestnania
+- 22 | Tropické choroby prenosné a parazitárne | v ktorých sú zamestnanci vo zvýšenej miere vydaní týmto ochoreniam pri pobyte v trópoch
 
-- 23 | Onemocnenie vyvolané prácou v stlačenom vzduchu | v ktorých sa používajú kesóny, potápacie zvony alebo skafandre
+- 23 | Nemoci prenosné zo zvierat na ľudí buď priamo alebo prostredníctvom prenášačov | v ktorých sú zamestnanci vydaní tomuto nebezpečiu alebo kde onemocnenie vzniklo preukázateľne výkonom zamestnania
 
-- 24 | Onemocnenie kostí, kĺbov, svalov, ciev a nervov končatín spôsobené pri práci otrasmi s vysokými frekvenciami | K č. 24 a 25: v ktorých sú zamestnanci vydaní tomuto nebezpečiu
+- 24 | Onemocnenie vyvolané prácou v stlačenom vzduchu | v ktorých sa používajú kesóny, potápacie zvony alebo skafandre
 
-- 25 | Onemocnenie dolných dýchacích ciest a pľúc spôsobené hliníkovým prachom a prachom z hliníkových zliatin (zaprášenie pľúc hliníkom - fibróza pľúc) |
+- 25 | Onemocnenie kostí, kĺbov, svalov, ciev a nervov končatín spôsobené pri práci otrasmi s vysokými frekvenciami | K č. 24 a 25: v ktorých sú zamestnanci vydaní tomuto nebezpečiu
 
-- 26 | Onemocnenie dolných dýchacích ciest a pľúc z berýlia a jeho zlúčenín | K č. 26-28: v ktorých sú zamestnanci vydaní tomuto nebezpečiu
+- 26 | Onemocnenie dolných dýchacích ciest a pľúc spôsobené hliníkovým prachom a prachom z hliníkových zliatin (zaprášenie pľúc hliníkom - fibróza pľúc) |
 
-- 27 | Onemocnenie zaprášením pľúc prachom obsahujúcim kysličník kremičitý (silikóza): a) pri ktorom sú zistené typické rtg znaky a klinickofunkcionálne poruchy z tohto onemocnenia; poruchy funkcie spôsobené súčasnou inaktívnou tuberkulózou sa hodnotia tak, akoby boli spôsobené silikózou b) v spojení s aktívnou tuberkulózou |
+- 27 | Onemocnenie dolných dýchacích ciest a pľúc z berýlia a jeho zlúčenín | K č. 26-28: v ktorých sú zamestnanci vydaní tomuto nebezpečiu
 
-- 28 | Onemocnenie zaprášením pľúc azbestovým prachom (azbestóza): a) pri ktorom sú zistené typické rtg znaky a klinickofunkcionálne poruchy z tohto onemocnenia, b) v spojení s pľúcnou rakovinou |
+- 28 | Ochorenie zaprášením pľúc prachom obsahujúcim kysličník kremičitý (silikóza, silikotuberkulóza)a) s typickými rtg znakmi s prihliadnutím na dynamiku ochoreníb) v spojení s aktívnou tuberkulózou |
 
-- 29 | Onemocnenie dolných dýchacích ciest a pľúc škodlivými účinkami Thomasovej múčky | ktoré dopravujú alebo spracúvajú Thomasovu trosku alebo spracúvajú, uskladňujú alebo dopravujú Thomasovu múčku
+- 29 | Ochorenie zaprášením pľúc azbestovým prachom (azbestóza)a) pri ktorom sú zistené typické rtg znakyb) v spojení s pľúcnou rakovinou |
 
-- 30 | Onemocnenie z chrómových zlúčenín | v ktorých sa tieto zlúčeniny vyrábajú, spracúvajú alebo kde sa používajú
+- 30 | Onemocnenie dolných dýchacích ciest a pľúc škodlivými účinkami Thomasovej múčky | ktoré dopravujú alebo spracúvajú Thomasovu trosku alebo spracúvajú, uskladňujú alebo dopravujú Thomasovu múčku
 
-- 31 | Onemocnenie hluchotou alebo ťažkou nedoslýchavosťou spôsobenou hlukom | v ktorých sú zamestnanci vydaní nadmiernemu hluku
+- 31 | Onemocnenie z chrómových zlúčenín | v ktorých sa tieto zlúčeniny vyrábajú, spracúvajú alebo kde sa používajú
 
-- 32 | Onemocnenie šedým zákalom | v ktorých sú zamestnanci vydaní nadmiernemu pôsobeniu krátkovlnných tepelných lúčov
+- 32 | Onemocnenie hluchotou alebo ťažkou nedoslýchavosťou spôsobenou hlukom | v ktorých sú zamestnanci vydaní nadmiernemu hluku
 
-- 33 | Onemocnenie nystagmom v ťažkých a zložitých tvaroch | v baniach
+- 33 | Onemocnenie šedým zákalom | v ktorých sú zamestnanci vydaní nadmiernemu pôsobeniu krátkovlnných tepelných lúčov
 
-- 34 | Onemocnenie laketného nervu otlakom | v brusiarňach skla
+- 34 | Onemocnenie nystagmom v ťažkých a zložitých tvaroch | v baniach
 
-- 35 | Rozdutie pľúc fúkačov skla | v ktorých sú zamestnanci vydaní tomuto nebezpečiu
+- 35 | Onemocnenie laketného nervu otlakom | v brusiarňach skla
 
-- 36 | Profesionálna nedomykavosť hlasiviek alebo uzlíky na hlasivkách, nútiace na zmenu zamestnania; u spevákov a hercov z povolania a učiteľov | v divadlách a školách
+- 36 | Rozdutie pľúc fúkačov skla | v ktorých sú zamestnanci vydaní tomuto nebezpečiu
+
+- 37 | Profesionálna nedomykavosť hlasiviek alebo uzlíky na hlasivkách, nútiace na zmenu zamestnania; u spevákov a hercov z povolania a učiteľov | v ktorých sú zamestnanci vydaní tomuto ochoreniu, najmä v divadlách, školách a profesionálnych speváckych telesách
