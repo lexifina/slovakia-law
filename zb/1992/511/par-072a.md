@@ -21,3 +21,5 @@
 (10) Ak sa výkon zhabania alebo výkon predaja vzťahuje na viac daňových dlžníkov alebo sa uskutočňuje spoločne a hotové výdavky sa týkajú týchto prípadov, rozvrhne sa ich výška podľa pomeru jednotlivých vymáhaných nedoplatkov.
 
 (11) Náhrada exekučných nákladov podľa odsekov 3 a 4 sa vymáha spolu s nedoplatkom, pre ktorý sa exekúcia vykonáva.
+
+(12) Ak výťažok z predaja vecí je vyšší ako súčet daňového nedoplatku, pre ktorý sa exekúcia vykonáva, a náhrady exekučných nákladov, môže správca dane s týmto rozdielom naložiť ako s daňovým preplatkom podľa § 63 ods. 2 a 3.
