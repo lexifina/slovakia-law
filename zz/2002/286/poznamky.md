@@ -1,0 +1,1 @@
+- 1) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
