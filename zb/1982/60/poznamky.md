@@ -1,0 +1,3 @@
+- 1) § 193 a 195 Zákonníka práce. § 112 zákona č. 99/1948 Zb. o národnom poistení. § 6 zákona č. 58/1956 Zb. o náhrade škody za pracovné úrazy a o náhrade nákladov liečebnej starostlivosti a dávok nemocenského poistenia a dôchodkového zabezpečenia. § 8 zákona č. 30/1965 Zb. o odškodňovaní pracovných úrazov a chorôb z povolania.
+
+- 2) Zákon č. 161/1968 Zb. o osobitnom prídavku k dávkam, o zmenách v dôchodkovom zabezpečení účastníkov odboja a o niektorých ďalších zmenách v sociálnom zabezpečení. Zákon č. 106/1971 Zb. o zvýšení dôchodkov staro dôchodcov a niektorých nízkych dôchodkov v sociálnom zabezpečení. § 136 až 141, 144 a 145 zákona č. 121/1975 Zb. o sociálnom zabezpečení. Zákonné opatrenie Predsedníctva Federálneho zhromaždenia č. 76/1979 Zb. o zvýšení dôchodkov.
