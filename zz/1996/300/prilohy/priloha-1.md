@@ -32,11 +32,11 @@ Príloha č. 1 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - m) prehľad mimoriadnych udalostí,
 
-      - n) prehľad prepráv nebezpečných škodlivín,
+      - n) prehľad prepráv nebezpečných látok,
 
-      - o) prehľad nebezpečných škodlivín s uvedením
+      - o) prehľad nebezpečných látok s uvedením
 
-    - 1. druhu nebezpečnej škodliviny,
+    - 1. druhu nebezpečnej látky,
 
     - 2. obchodného názvu,
 
@@ -48,23 +48,21 @@ Príloha č. 1 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - p) rozhodnutie o realizácii opatrení na zabezpečenie ochrany obyvateľstva.
 
-    - 2. Pre prípad havárie atómovej elektrárne textová časť obsahuje aj
+    - 2. Pre prípad havárie jadrového zariadenia textová časť obsahuje aj
 
-      - a) plán ukrytia obyvateľstva,
+      - a) plán dozimetrického zabezpečenia,
 
-      - b) plán dozimetrického zabezpečenia,
+      - b) plán regulácie pohybu osôb a zabezpečenia jódovej profylaxie,
 
-      - c) plán regulácie pohybu osôb a zabezpečenia jódovej profylaxie,
+      - c) plán dezaktivácie, ktorého súčasťou je plán likvidácie a trvalého uloženia dezaktivačných prostriedkov a ostatného kontaminovaného materiálu, ktorý po použití predstavuje rádioaktívny materiál,
 
-      - d) plán dezaktivácie, ktorého súčasťou je plán likvidácie a trvalého uloženia dezaktivačných prostriedkov a ostatného kontaminovaného materiálu, ktorý po použití predstavuje rádioaktívny materiál,
-
-      - e) plán regulácie spotreby potravín, krmovín a vody.
+      - d) plán regulácie spotreby potravín, krmovín a vody.
 
   - B. Grafická časť
 
     - 1. Grafická časť plánu ochrany obyvateľstva sa vypracúva na mapových listoch a obsahuje údaje o
 
-      - a) polohe zdroja nebezpečnej škodliviny s predbežným vyhodnotením oblasti ohrozenia,
+      - a) polohe zdroja nebezpečnej látky s predbežným vyhodnotením oblasti ohrozenia,
 
       - b) evakuačných trasách a priestoroch umiestnenia evakuovaných osôb,
 
@@ -80,4 +78,4 @@ Príloha č. 1 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - h) rozmiestnení jednotiek a zariadení civilnej ochrany.
 
-    - 2. Grafická časť plánu ochrany obyvateľstva sa vypracúva na mapách alebo plánoch obcí v mierkach 1:1 440, 1:2 880, 1:5 000 alebo 1:10 000, na okresnej úrovni v mierkach 1:25 000 alebo 1:50 000, na krajskej a republikovej úrovni v mierkach 1:200 000 alebo 1:500 000 podľa konkrétnych podmienok a možností.
+    - 2. Grafická časť plánu ochrany obyvateľstva sa vypracúva na mapách alebo plánoch obcí v mierkach 1:1 440, 1:2 880, 1:5 000 alebo 1:10 000, na okresnej úrovni v mierkach 1:25 000 alebo 1:50 000, na krajskej a republikovej úrovni v mierkach 1:100 000, 1:200 000 alebo 1:500 000 podľa konkrétnych podmienok a možností.

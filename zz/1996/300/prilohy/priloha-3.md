@@ -4,15 +4,15 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
   - A. Chemické látky
 
-    - 1. Na určenie polomeru pásma smrteľného ohrozenia a pásma ohrozenia zdravia v odkrytom rovinatom teréne za predpokladu, že nebezpečná škodlivina nepodlieha samovoľnému chemickému rozkladu,
+    - 1. Na určenie polomeru pásma smrteľného ohrozenia a pásma ohrozenia zdravia v odkrytom rovinatom teréne za predpokladu, že nebezpečná látka nepodlieha samovoľnému chemickému rozkladu,
 
       - ![Vzorec 01](../assets/ae29526d91c2685b2eb663f374c66b9e693d1aa529068454026a54af835ee629.png)
 
       - kde
 
-      - „H“ je polomer (hĺbka) pásma smrteľného alebo pásma zraniteľného zamorenia udaný v metroch (m),
+      - „H“ je polomer (hĺbka) pásma smrteľného ohrozenia alebo pásma ohrozenia zdravia udaný v metroch (m),
 
-      - „M“ je hmotnosť uvoľnenej nebezpečnej škodliviny udaná v kilogramoch,
+      - „M“ je hmotnosť uvoľnenej nebezpečnej látky udaná v kilogramoch,
 
       - „D“ je smrtiaci alebo zraňujúci expozičný súčin udaný v miligramoch na liter vzduchu pri minútovej inhalačnej expozícii,
 
@@ -26,7 +26,7 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - c) konvekcii číslu 4,
 
-        - „N“ je teplotne závislý korekčný faktor okamihového odparu nebezpečnej škodliviny.
+        - „N“ je teplotne závislý korekčný faktor okamihového odparu nebezpečnej látky.
 
         - Hodnota korekčného faktora sa vypočíta zo vzťahu
 
@@ -34,13 +34,13 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
         - kde
 
-        - „t“ je teplota v mieste úniku nebezpečnej škodliviny,
+        - „t“ je teplota v mieste úniku nebezpečnej látky,
 
-        - „t<sub>v</sub>“ je teplota varu nebezpečnej škodliviny za normálneho atmosferického tlaku,
+        - „t<sub>v</sub>“ je teplota varu nebezpečnej látky za normálneho atmosferického tlaku,
 
-        - „L<sub>v</sub>“ je merné výparné teplo nebezpečnej škodliviny,
+        - „L<sub>v</sub>“ je merné výparné teplo nebezpečnej látky,
 
-        - „cp“ je merné teplo nebezpečnej škodliviny v plynnej fáze.
+        - „cp“ je merné teplo nebezpečnej látky v plynnej fáze.
 
     - 2. Na určenie polomeru pásma smrteľného ohrozenia a pásma ohrozenia zdravia pre potreby spracovania havarijných plánov a plánov ochrany hodnota
 
@@ -50,7 +50,7 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - „N“ = 0,13.
 
-    - 3. Pre škodliviny, ktorých teplota varu je nad teplotou okolia, nemožno na výpočet faktora „N“ použiť uvedený vzorec, a preto je pre ne taxatívne určený faktor
+    - 3. Pre látky, ktorých teplota varu je nad teplotou okolia, nemožno na výpočet faktora „N“ použiť uvedený vzorec, a preto je pre ne taxatívne určený faktor
 
       - „N“ = 0,13.
 
@@ -62,7 +62,7 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - „RrCL(x)“ je inhalačná smrteľná koncentrácia pre krysu v mg.m<sup>-3</sup> s časom pôsobenia v hodinách,
 
-      - „X“ je čas pôsobenia škodliviny v hodinách.
+      - „X“ je čas pôsobenia látky v hodinách.
 
       - Vo výpočte sa uvažuje s hodnotou RrCL(x), pričom (x) = 4; potom základný vzťah pre výpočet smrteľného expozičného súčinu je
 
@@ -78,7 +78,7 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - kde
 
-      - „U“ je čas trvania úniku nebezpečnej škodliviny pri havárii v minútach.
+      - „U“ je čas trvania úniku nebezpečnej látky pri havárii v minútach.
 
     - 7. Vertikálna stálosť atmosféry sa určuje podľa vzťahu
 
@@ -112,9 +112,15 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - b) výbušné na základe množstva látky a maximálneho výbuchového tlaku.
 
+    - 10. Za množstvo nebezpečnej látky sa považuje jednotkové množstvo limitované kapacitou technologického zariadenia alebo zásobníka, ktoré môže preukázateľne jednorazovo uniknúť pri mimoriadnej udalosti.
+
+    - 11. V prípade, že sú technologické zariadenia alebo zásobníky tak navzájom vzdialené, že účinky mimoriadnej udalosti môžu spôsobiť ich súčasné poškodenie, berie sa za jednotkové množstvo súčet jednotlivých jednotkových množstiev.
+
+    - 12. Pre každý druh nebezpečnej látky a jednotkové množstvo sa výpočet a vyhodnotenie vykonáva samostatne.
+
   - B. Rádioaktívne látky
 
-    - Vymedzenie oblasti je v pôsobnosti Úradu jadrového dozoru Slovenskej republiky pre každé novozriadené jadrovoenergetické zariadenie.
+    - Oblasť sa vymedzuje pre každé jadrové zariadenie samostatne.<sup>1a</sup>)
 
   - C. Biologické látky
 

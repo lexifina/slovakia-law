@@ -6,31 +6,31 @@ Príloha č. 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
     - 1. Oblasť ohrozenia sa člení na
 
-      - a) pásmo, v ktorom sa pôsobenie nebezpečných škodlivín prejaví ohrozením života a životného prostredia (ďalej len „pásmo smrteľného ohrozenia“),
+      - a) pásmo, v ktorom sa pôsobenie nebezpečných látok prejaví ohrozením života, zdravia alebo majetku (ďalej len „pásmo smrteľného ohrozenia“),
 
-      - b) pásmo, v ktorom sa pôsobenie nebezpečných škodlivín prejaví ohrozením zdravia a životného prostredia (ďalej len „pásmo ohrozenia zdravia“).
+      - b) pásmo, v ktorom sa pôsobenie nebezpečných látok prejaví ohrozením života, zdravia alebo majetku (ďalej len „pásmo ohrozenia zdravia“).
 
     - 2. Oblasť predpokladaného ohrozenia sa člení na
 
-      - a) pásmo priameho ohrozenia nebezpečnými škodlivinami, ktorého vonkajšia hranica je minimálne 50 metrov od zdroja ohrozenia daná stredovým uhlom 360<sup>O</sup>,
+      - a) pásmo priameho ohrozenia nebezpečnými látkami, ktorého vonkajšia hranica je minimálne 50 metrov od zdroja ohrozenia daná stredovým uhlom 360<sup>o</sup>,
 
       - b) ochranné pásmo, ktorého vonkajšia hranica je minimálne 100 metrov od zdroja ohrozenia daná stredovým uhlom 360<sup>O</sup>,
 
-      - c) pásmo ohrozenia výparmi nebezpečnej škodliviny, ktoré je na účely predbežného vyhodnotenia dané 40<sup>O</sup>výsečou, pričom jej stred je orientovaný v smere prízemného vetra,
+      - c) pásmo ohrozenia výparmi nebezpečnej látky, ktoré je na účely predbežného vyhodnotenia dané 40<sup>o</sup>výsečou, pričom jej stred je orientovaný v smere prízemného vetra,
 
-      - d) bezpečný priestor, v ktorom sa výskyt nebezpečnej škodliviny nepredpokladá a ktorý je vzdialený najmenej 100 metrov od miesta výskytu nebezpečnej škodliviny.
+      - d) bezpečný priestor, v ktorom sa výskyt nebezpečnej látky nepredpokladá a ktorý je vzdialený najmenej 100 metrov od miesta výskytu nebezpečnej látky.
 
-    - 3. Na účely spracovania plánu ochrany obyvateľov sa na vyhodnotenie oblasti ohrozenia pri mimoriadnej udalosti s únikom chemickej látky používa stredový uhol 360<sup>O</sup>. Miesto výskytu nebezpečnej škodliviny sa označuje typovou značkou
+    - 3. Na účely spracovania plánu ochrany obyvateľov sa na vyhodnotenie oblasti ohrozenia pri mimoriadnej udalosti s únikom chemickej látky používa stredový uhol 360<sup>o</sup>. Miesto výskytu nebezpečnej látky sa označuje typovou značkou
 
     - ![Obrázek 01](../assets/d35eaabcd1d16401dccd6d58945006eb4c997b31ff708a2997059473aaf5f903.png) 100 x,
 
     - kde
 
-    - „![Obrázok 01](../assets/d35eaabcd1d16401dccd6d58945006eb4c997b31ff708a2997059473aaf5f903.png)" je značka miesta výskytu nebezpečnej škodliviny,
+    - „![Obrázok 01](../assets/d35eaabcd1d16401dccd6d58945006eb4c997b31ff708a2997059473aaf5f903.png)" je značka miesta výskytu nebezpečnej látky,
 
-    - „100“ je množstvo nebezpečnej škodliviny v tonách,
+    - „100“ je množstvo nebezpečnej látky v tonách,
 
-    - „x“ je druh nebezpečnej škodliviny vyznačený chemickou značkou.
+    - „x“ je druh nebezpečnej látky vyznačený chemickou značkou.
 
     - 4. Hranica pásma smrteľného ohrozenia sa zakresľuje dvojitou modrou čiarou, hranica ohrozenia zdravia jednoduchou modrou prerušovanou čiarou a typová značka modrou farbou vyfarbená žltou farbou.
 
@@ -44,9 +44,9 @@ Príloha č. 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - a) na územie
 
-    - 1. vymedzené 30-kilometrovým okruhom okolo jadrovoenergetického zariadenia v Jaslovských Bohuniciach,
+    - 1. vymedzené 30-kilometrovým okruhom okolo jadrového zariadenia v Jaslovských Bohuniciach,
 
-    - 2. vymedzené 20-kilometrovým okruhom okolo jadrovoenergetického zariadenia v Mochovciach,
+    - 2. vymedzené 20-kilometrovým okruhom okolo jadrového zariadenia v Mochovciach,
 
       - b) na pásmo
 
@@ -54,7 +54,7 @@ Príloha č. 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
     - 2. vymedzené 5-kilometrovou, 10-kilometrovou a 20-kilometrovou vzdialenosťou od zdroja v Mochovciach,
 
-      - c) na 16 sektorov s veľkosťou stredového uhla 22,5O, pričom nultý stupeň prvého sektora je orientovaný na sever.
+      - c) na 16 sektorov s veľkosťou stredového uhla 22,5<sup>o</sup>, pričom stred prvého sektora je orientovaný na sever.
 
     - 2. Z oblasti ohrozenia sa v prípade jadrovej havárie a na základe skutočnej meteorologickej situácie vyčleňuje aj
 
@@ -62,17 +62,17 @@ Príloha č. 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996
 
       - b) ohrozené územia, ktoré predstavuje 5 sektorov od 10-kilometrového pásma do 30-kilometrového pásma pri zdroji v Jaslovských Bohuniciach alebo od 10-kilometrového pásma do 20-kilometrového pásma pri zdroji v Mochovciach, pričom stred prostredného z nich je orientovaný v smere prízemného vetra.
 
-    - 3. Pri preprave nebezpečných škodlivín s možnosťou úniku rádioaktívnych látok sa oblasť ohrozenia neplánuje.
+    - 3. Pri preprave nebezpečných látok s možnosťou úniku rádioaktívnych látok sa oblasť ohrozenia neplánuje.
 
-    - 4. Hranica pásma sa zakresľuje plnou čiarou
+    - 4. V plánovacej dokumentácii sa hranica pásma vymedzená vzdialenosťou
 
-      - a) čiernej farby 5 km od zdroja ohrozenia,
+      - a) 5 km od zdroja ohrozenia označuje písmenom A a zakresľuje sa prerušovanou čiarou čiernej farby,
 
-      - b) hnedej farby 10 km od zdroja ohrozenia,
+      - b) 10 km od zdroja ohrozenia označuje písmenom B a zakresľuje sa plnou čiarou hnedej farby,
 
-      - c) červenej farby 30 km a 20 km od zdroja ohrozenia.
+      - c) 20 km a 30 km od zdroja ohrozenia označuje písmenom C a zakresľuje sa prerušovanou čiarou červenej farby.
 
-    - 5. Hranica bližšie ohrozeného územia a hranica ohrozeného územia sa zakresľujú čiernou farbou.
+    - 5. Pri vzniku jadrovej havárie na jadrových zariadeniach<sup>1</sup>) sa hranica bližšie ohrozeného a hranica ohrozeného územia zakresľuje plnou čiernou čiarou.
 
   - C. Biologické látky
 
