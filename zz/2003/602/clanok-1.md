@@ -470,6 +470,8 @@ Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon 
 
 - 27. § 14 vrátane nadpisu sa vypúšťa.
 
+- 28. V § 19a ods. 2 písm. a) druhom bode sa vypúšťajú slová „k Európskym spoločenstvám a“.
+
 - 29. V nadpise tretej časti sa vypúšťajú slová „A KONTROLA PRI DOVOZE A VÝVOZE BANKOVIEK A MINCÍ“.
 
 - 30. V § 24 ods. 2 prvej vete sa vypúšťajú slová „(ďalej len „devízové predpisy")“.
