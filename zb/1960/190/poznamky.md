@@ -1,0 +1,1 @@
+- *) Zmeny urobené vládnym nariadením č. 189/1960 Zb. nadobúdajú účinnosť 30. decembrom 1960.
