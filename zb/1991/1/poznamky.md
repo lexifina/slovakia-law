@@ -86,4 +86,4 @@
 
 - 25) Napríklad § 61 a 130 Zákonníka práce.
 
-- 26) Zákon č. 498/1990 Zb. o utečencoch.
+- 26) § 58a ods. 1 Zákonníka práce.
