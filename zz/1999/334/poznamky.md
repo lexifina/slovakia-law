@@ -1,1 +1,0 @@
-- 1) § 27 zákona Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
