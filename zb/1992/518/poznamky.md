@@ -1,0 +1,1 @@
+- 11a) Čl. 77 ods. 2 Ústavy Slovenskej republiky.
