@@ -1,0 +1,1 @@
+- *) Všeobecne platné prepravné podmienky ustanovuje vyhláška Ministerstva dopravy č. 134/1964 Zb. o prepravnom poriadku vodnej dopravy.
