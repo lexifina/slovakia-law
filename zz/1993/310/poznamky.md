@@ -26,6 +26,8 @@
 
 - 12) § 420a Občianskeho zákonníka.
 
+- 12a) § 63 ods. 2 písm. b) Colného zákona.
+
 - 13) § 54 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 14) § 39 a 63 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
