@@ -1,0 +1,3 @@
+# Čl. VI
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 92/1992 Zb., zákonom č. 264/1992 Zb., ústavným zákonom č. 541/1992 Zb., zákonom č. 544/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 17/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 172/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 278/1993 Z. z. a týmto zákonom.
