@@ -130,6 +130,8 @@
 
       - 2. Pri doprave podľa odseku 1 tohto článku musí mať vodič pri sebe všetky dokumenty a doklady, ktoré osvedčujú, že ide o jeden z vymenovaných druhov dopravy.
 
+      - 3. Zmiešaná komisia zriadená podľa článku 17 tejto dohody môže rozšíriť zoznam prepráv oslobodených od povolenia uvedených v odseku 1 tohto článku.
+
     - Článok 9
 
       - 1. Ak hmotnosť alebo rozmery vozidla alebo nákladu prekročia hmotnosť alebo rozmery prípustné na území štátu druhej zmluvnej strany, musí byť vozidlo vybavené osobitným povolením vydaným príslušným orgánom štátu druhej zmluvnej strany.
@@ -146,7 +148,13 @@
 
     - Článok 11
 
-      - Dopravcovia, ktorí majú sídlo na území štátu jednej zo zmluvných strán a ktorí vykonávajú prepravu podľa tejto dohody, platia za prepravu uskutočňovanú na území štátu druhej zmluvnej strany dane, správne poplatky a dávky určené platnými vnútroštátnymi predpismi štátu tejto druhej zmluvnej strany.
+      - 1. Doprava vozidlami evidovanými na území štátu jednej zmluvnej strany dočasne vykonávaná v súlade s ustanoveniami tejto dohody sa na území štátu druhej zmluvnej strany oslobodzuje od všetkých daní a poplatkov spojených s používaním alebo vlastníctvom vozidiel a prevádzkou vozidiel na cestách štátu druhej zmluvnej strany.
+
+      - 2. Palivo obsiahnuté v bežných výrobcom pevne zabudovaných nádržiach vozidiel na účely pohonu vozidla a na uchovanie tovaru pri kontrolovanej teplote, ako aj mazivá, sú oslobodené od cla, daní a iných platieb vyberaných pri dovoze podľa vnútroštátnych právnych predpisov štátov zmluvných strán.
+
+      - 3. Náhradné dielce dočasne dovezené na územie štátu druhej zmluvnej strany na účely opravy poškodených vozidiel vykonávajúcich dopravu podľa tejto dohody sú oslobodené od cla v súlade s platnými colnými predpismi štátu zmluvnej strany. Vymenené dielce sa vyvezú späť alebo sa zničia pod dohľadom príslušných colných orgánov štátu tejto druhej zmluvnej strany.
+
+      - 4. Doprava vykonávaná podľa ustanovení tejto dohody na území štátu druhej zmluvnej strany podlieha poplatkom za používanie ciest, mostov a tunelov. Tieto poplatky sa vyberajú od vnútroštátnych i zahraničných dopravcov na základe nediskriminácie.
 
     - Článok 12
 
