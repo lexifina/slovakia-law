@@ -708,8 +708,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 8.41. Zavádzanie nových metodík odberu vzoriek ovzdušia a merania fyzikálnych faktorov v teréne.
 
-- 8.42. Výkon funkcie právneho čakateľa vo vojenskej prokuratúre.
-
 - 8.43. Dispečerské alebo priame riadenie zložitých výrob alebo prevádzok.
 
 - 8.44. Pátranie po osobách a veciach, kontrola osôb dôvodne podozrivých z páchania trestnej alebo nepriateľskej činnosti.
@@ -806,8 +804,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 9.43. Zabezpečovanie neradarových rozostupov medzi riadenými letmi, zodpovednosť za koordináciu letovej premávky so spolupracujúcimi stanovišťami a pracoviskami, udržiavanie spojenia s lietadlami, poskytovanie letových informácií lietadlám a vedúcim zmien.
 
-- 9.44. Výkon činnosti prokurátora, vyšetrovateľa alebo staršieho vyšetrovateľa vojenskej obvodovej prokuratúry.
-
 - 9.45. Samostatné posudzovanie najnáročnejších technických riešení oproti svetovému stavu vo vývoji techniky v odbore priemyselného vlastníctva.
 
 - 9.46. Komplexné zabezpečovanie konania o predmetoch priemyselného vlastníctva, rozhodovanie o poskytnutí právnej ochrany na predložené riešenie v zložitých prípadoch konania.
@@ -888,8 +884,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 10.33. Zabezpečovanie spojenia so službami riadenia letovej premávky, včasnosti a úplnosti podávaných informácií, kontroly správnej činnosti všetkých spojovacích zariadení pred letom a v priebehu letu.
 
-- 10.34. Výkon činnosti vojenského obvodového prokurátora a jeho námestníka, vedúceho prokurátora a staršieho prokurátora hlavnej vojenskej prokuratúry, náčelníka oddelenia, staršieho prokurátora a staršieho vyšetrovateľa vyššej vojenskej prokuratúry.
-
 - 10.35. Samostatné rozpracovanie koncepcií rozvoja Armády SR pre určitú odbornosť alebo službu vo vojsku.
 
 - 10.36. Organizácia inšpekčnej a kontrolnej činnosti s celoarmádnou pôsobnosťou, jej plánovanie, usmerňovanie a vyhodnocovanie.
@@ -932,8 +926,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 11.11. Vedenie lietadla so vzletovou hmotnosťou nad 80 000 kg, zodpovednosť za presné a bezpečné vykonávanie leteckých činností vrátane zodpovednosti za činnosť celej posádky od začatia predletovej prípravy do ukončenia letu.
 
-- 11.12. Výkon činnosti vyššieho vojenského prokurátora a jeho námestníka, náčelníka oddelenia a zástupcu náčelníka oddelenia hlavnej vojenskej prokuratúry.
-
 - 11.13. Navrhovanie nových a tvorivá aplikácia všeobecných matematických metód v kryptológii pri tvorbe nových šifrovacích systémov, pri rozboroch a lúštení cudzích šifrovacích systémov.
 
 - 11.14. Komplexné systémové riešenie otázok súvisiacich s ochranou vnútorného poriadku a bezpečnosti štátu na zverených úsekoch.
@@ -949,8 +941,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 12.02. Tvorivá koordinácia celoštátnych alebo medzinárodných systémov s najširšími vnútornými a vonkajšími väzbami na zložité a rozsiahle systémy rôznych odborov a smerov.
 
 - 12.03. Vedenie veľkokapacitného lietadla s najzložitejšou elektronickou výzbrojou (napr. typu Airbus, A 310/300); zodpovednosť za kvalitné, bezpečné a hospodárne uskutočnenie letu vrátane zodpovednosti za činnosť posádky od začatia predletovej prípravy do ukončenia letu.
-
-- 12.04. Výkon činnosti hlavného vojenského prokurátora a jeho zástupcu.
 
 - B. Kultúra
 
@@ -2938,11 +2928,11 @@ Ozbrojené sily
 
 Funkcia | | Príplatok za riadenie v Sk mesačne
 
-1.1 | veliteľ Armády SR, prvý zástupca veliteľa Armády SR, hlavný vojenský prokurátor, námestník generálneho prokurátora | 5 000 - 6 000
+1.1 | veliteľ Armády SR, prvý zástupca veliteľa Armády SR, námestník generálneho prokurátora | 5 000 - 6 000
 
 1.2 | náčelník hlavného štábu, veliteľ pozemného vojska, veliteľ letectva a protivzdušnej obrany, veliteľ logistiky, náčelník hlavnej správy vzdelávania, sociálnych a personálnych vecí veliteľstva Armády SR | 4 000 - 5 000
 
-1.3 | náčelník správy, zástupca náčelníka hlavnej správy, zástupca hlavného vojenského prokurátora | 3 600 - 4 400
+1.3 | náčelník správy, zástupca náčelníka hlavnej správy | 3 600 - 4 400
 
 1.4 | zástupca náčelníka správy, náčelník oddelenia | 2 800 - 3 600
 
@@ -2954,9 +2944,9 @@ Funkcia | | Príplatok za riadenie v Sk mesačne
 
 Funkcia | | Príplatok za riadenie v Sk mesačne
 
-2.1 | náčelník vojenského úradu, riaditeľ inštitútu, vyšší vojenský prokurátor | 3 000 - 4 000
+2.1 | náčelník vojenského úradu, riaditeľ inštitútu | 3 000 - 4 000
 
-2.2 | zástupca náčelníka vojenského úradu, zástupca riaditeľa inštitútu, námestník vyššieho vojenského prokurátora | 2 400 - 3 400
+2.2 | zástupca náčelníka vojenského úradu, zástupca riaditeľa inštitútu | 2 400 - 3 400
 
 2.3 | náčelník oddelenia | 1 800 - 2 600
 
