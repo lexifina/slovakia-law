@@ -2,6 +2,8 @@
 
 - 1a) Napríklad zákon č.100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov, zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
 
+- 1aa) § 65c zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+
 - 1b) § 92 ods. 2 Občianskeho súdneho poriadku.
 
 - 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
