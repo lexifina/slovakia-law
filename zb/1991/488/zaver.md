@@ -1,3 +1,0 @@
-Minister:
-
-Snopko v. r.
