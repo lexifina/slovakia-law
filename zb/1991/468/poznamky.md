@@ -1,5 +1,7 @@
 - 2) § 44 ods. 1 zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.)
 
+- 1) Čl. I zákona č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov.
+
 - 3) Česko-slovenský liekopis 4. vydanie, záväznosť v Českej republike určená vyhláškou Ministerstva zdravotníctva ČSR č. 10/1987 Zb. o záväznosti Československého liekopisu – štvrtého vydania v ČSR v znení vyhlášky Ministerstva zdravotníctva a sociálnych vecí ČSR č. 62/1990 Zb. o záväznosti Opráv a zmien Československého liekopisu – štvrtého vydania v ČSR.
 
 - Vyhláška Ministerstva zdravotníctva SSR č. 32/1987 Zb. o záväznosti Československého liekopisu – štvrtého vydania v SSR v znení vyhlášky Ministerstva zdravotníctva SR č. 181/1991 Zb. o záväznosti opráv, zmien a doplnkov Česko-slovenského liekopisu – štvrtého vydania.
