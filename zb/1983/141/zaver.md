@@ -1,3 +1,0 @@
-Minister:
-
-Boďa v. r.
