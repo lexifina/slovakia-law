@@ -1,0 +1,1 @@
+- *) Zákon č. 174/1950 Zb. o dražbách mimo exekúcie a vyhláška Ministerstva vnútorného obchodu č. 4/1952 Ú. l. v znení vyhlášky č. 295/1952 Ú. l. (č. 10/1952 Ú. v. v znení vyhlášky č. 343/1952 Ú. v.).
