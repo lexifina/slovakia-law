@@ -16,17 +16,31 @@
 
 - 5) Nomenklatúru stavebných objektov, príp. prevádzkových súborov technickej a občianskej vybavenosti a ich rozsah určuje sústava technicko-hospodárskych ukazovateľov komplexnej bytovej výstavby.
 
+- 5) Pokyn FCÚ, ČCÚ a SCÚ č. P-5/77 o tvorbe veľkoobchodných cien typových stavebných objektov (Cenový vestník č. 1, ročník 1978).
+
 - 6) Vyšší dodávateľ - pozri § 280 ods. 1 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov; úplné znenie č. 37/1971 Zb. (ďalej len „Hosp. zák.").
+
+- 6) § 10 vyhlášky č. 95/1977 Zb. o typizácii vo výstavbe.
 
 - 7) § 118 Hosp. zák.
 
+- 7) § 9 vyhlášky č. 95/1977 Zb.
+
 - 8) § 116 a 280 Hosp. zák.
+
+- 8) § 9 ods. 8 vyhlášky č. 95/1977 Zb.
 
 - 9) Vyhl. č. 108/1966 Zb. o oprávnení na projektovú činnosť v znení vyhl. č. 137/1970 Zb.
 
+- 9) § 10 ods. 3 a § 9 ods. 6 vyhlášky č. 95/1977 Zb.
+
 - 10) § 272 a 299-301 Hosp. zák.
 
+- 10) Úprava FMTIR č. 4/1978 o rozpočtovaní súhrnných cien typových stavebných objektov a opakovaných stavebných objektov alebo prevádzkových súborov (Spravodajca FMTIR, MVT ČSR a MVT SSR čiastka 3-4 ročníka 1978).
+
 - 11) § 12 ods. 1 vyhl. č. 75/1971 Zb. o typizácii vo výstavbe.
+
+- 11) Úprava FMTIR č. 3/1978 o osobitnom postupe pri príprave stavieb na území hlavného mesta Prahy (Spravodajca FMTIR, MVT ČSR a MVT SSR čiastka 3-4 ročníka 1978).
 
 - 12) § 8 ods. 1 písm. b) a c) vyhl. č. 75/1971 Zb.
 
