@@ -1,3 +1,0 @@
-# § 9a
-
-Zriaďuje sa Zbor ozbrojenej ochrany železníc (ďalej len „zbor"), ktorý pôsobí v obvode celoštátnych dráh. Základnou úlohou zboru je chrániť plynulosť a bezpečnosť železničnej prevádzky, objekty a zariadenia, verejný poriadok a bezpečnosť osôb aj majetku v obvode celoštátnych dráh. Jednotlivé zložky (útvary a skupiny) zboru zriaďuje Federálne ministerstvo dopravy, ktoré tiež určuje početné stavy, výzbroj a výstroj zboru, zásady jeho organizácie, ako aj zásady výcviku a výkonu služby jeho príslušníkov, a to po dohode s Federálnym ministerstvom vnútra a Federálnym ministerstvom národnej obrany.
