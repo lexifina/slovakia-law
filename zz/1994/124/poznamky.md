@@ -1,1 +1,0 @@
-- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskejĺ republiky č. 35/1994 Z.z. o úprave výšky sadzieb náhrad stravného.
