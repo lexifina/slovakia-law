@@ -46,6 +46,8 @@
 
 - 15d) § 39a, 54 a 66 zákona č. 50/1976 Zb.
 
+- 15e) § 67 ods. 2 a § 72a zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2004 Z. z.
+
 - 16) § 21 až 23 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 17) § 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
