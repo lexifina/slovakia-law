@@ -1,0 +1,155 @@
+# VZN 6/1995 o prevode vlastníctva bytov a nebytových priestorov.
+
+Zrušuje všeobecne záväzné nariadenie č. 1/1994 v znení VZN č. 4/1994.
+Úplné znenie vo všeobecne záväznom nariadení č. 14/1996.
+Zmenené a doplnené všeobecne záväzným nariadením č. 9/1997.
+Zmenené a doplnené všeobecne záväzným nariadením č. 3/2000.
+Úplné znenie vo všeobecne záväznom nariadení č. 4/2000.
+Zmenené a doplnené všeobecne záväzným nariadením č. 10/2000.
+Zmenené všeobecne záväzným nariadením č. 4/2004.
+Zmenené všeobecne záväzným nariadením č. 3/2007.
+Zmenené všeobecne záväzným nariadením č. 10/2008.
+Zmenené všeobecne záväzným nariadením č. 8/2010.
+Všeobecne záväzné nariadenie
+hlavného mesta Slovenskej republiky Bratislavy
+č. 6/1995
+z 19. októbra 1995
+o prevode vlastníctva bytov a nebytových priestorov
+Mestské zastupiteľstvo hlavného mesta Slovenskej republiky Bratislavy podľa § 11 ods. 5 písm. a) a b) zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave, § 9 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, § 18b zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z. a na zabezpečenie výkonu vlastníckeho práva hlavného mesta Slovenskej republiky Bratislavy sa uznieslo na tomto všeobecne záväznom nariadení:
+§ 1
+Úvodné ustanovenia
+(1) Toto všeobecne záväzné nariadenie (ďalej len „nariadenie“) upravuje:
+a) určenie bytov a nebytových priestorov vo vlastníctve hlavného mesta Slovenskej republiky Bratislavy (ďalej len „hlavné mesto“), ktoré sú predmetom prevodu ich vlastníctva,
+b) postup hlavného mesta a mestských častí hlavného mesta (ďalej len „mestská časť“) pri prevode bytov a nebytových priestorov z vlastníctva hlavného mesta do vlastníctva iných osôb,
+c) spôsob určenia ceny bytov a nebytových priestorov, ktoré sú predmetom prevodu vlastníctva,
+d) spôsob určenia ceny pozemkov, na ktorých je postavený dom a ktoré patria k domu, napríklad dvory, záhrady (ďalej len „priľahlý pozemok“) a príslušenstva domu (ďalej len „príslušenstvo“).
+(2) Toto nariadenie sa nevzťahuje na prevod vlastníctva bytov a nebytových priestorov v domoch v podielovom spoluvlastníctve hlavného mesta.
+§ 2
+Predmet prevodu vlastníctva bytov a nebytových priestorov
+(1) Predmetom prevodu vlastníctva bytov a nebytových priestorov podľa tohto nariadenia sú byty a nebytové priestory v domoch vo vlastníctve hlavného mesta okrem:
+a) bytov osobitného určenia,1)
+b) bytov v domoch osobitného určenia,2)
+c) bytov a nebytových priestorov v domoch určených podľa schváleného územného plánu na asanáciu,
+d) služobných bytov určených primátorom hlavného mesta (ďalej len „primátor“) v domoch nezverených do správy mestských častí a starostom mestskej časti (ďalej len „starosta“) v domoch zverených do správy mestských častí,
+e) bytov a nebytových priestorov v obytných domoch, ktoré boli vo vlastníctve cirkví a náboženských spoločností, rádov a kongregácií a podliehajú reštitúcii podľa osobitného zákona,3)
+f) bytov, pri ktorých bol podaný návrh na súd na privolenie výpovede nájmu bytu podľa osobitných predpisov do doby právoplatného rozhodnutia súdu o návrhu,
+g) nebytových priestorov, pri ktorých bola daná výpoveď nájmu podľa § 3 tohto nariadenia,
+h) priestorov využívaných pre potreby civilnej ochrany obyvateľstva.
+(2) Hlavné mesto určí domy nezverené do správy mestských častí, v ktorých sú všetky byty vyňaté z prevodu vlastníctva z dôvodu zabezpečovania bývania sociálne slabších vrstiev obyvateľstva.4) V týchto domoch vylúči z prevodu vlastníctva aj nebytové priestory.
+(3) Mestské časti určia domy zverené do ich správy, v ktorých sú všetky byty vyňaté z prevodu vlastníctva z dôvodu zabezpečovania bývania sociálne slabších vrstiev obyvateľstva.5) V týchto domoch vylúčia z prevodu vlastníctva aj nebytové priestory.
+§ 3
+(1) Prenajímateľ bytu podá návrh na súd na privolenie k písomnej výpovedi z nájmu najmä ak:6)
+a) nájomca alebo tí, ktorí s ním bývajú, napriek písomnej výstrahe hrubo porušujú dobré mravy v dome,
+b) nájomca hrubo porušuje svoje povinnosti vyplývajúce z nájmu bytu najmä tým, že nezaplatil nájomné alebo úhradu za plnenia spojené s užívaním bytu za čas dlhší ako tri mesiace,
+c) nájomca má dva alebo viac bytov, okrem prípadov, že od neho nemožno spravodlivo požadovať, aby užíval iba jeden byt,
+d) nájomca neužíva byt bez vážnych dôvodov.
+(2) Prenajímateľ bytu po privolení súdu podľa odseku 1 nájom bytu vypovie.
+(3) Byt podľa odseku 1, pri ktorom súd vyslovil súhlas s písomnou výpoveďou z nájmu, sa neprevedie do vlastníctva doterajšiemu nájomcovi, ak súd svojím právoplatným rozhodnutím privolí výpoveď nájmu bytu.
+(4) Prenajímateľ písomne vypovie zmluvu o nájme nebytového priestoru najmä ak:7)
+a) nájomca užíva nebytový priestor v rozpore so zmluvou,
+b) nájomca o viac ako jeden mesiac mešká s platením nájomného alebo za služby, ktorých poskytovanie je spojené s nájmom,
+c) nájomca, ktorý na základe zmluvy má prenajímateľovi poskytovať na úhradu nájomného určité služby, tieto služby neposkytuje riadne a včas,
+d) nájomca alebo osoby, ktoré s ním užívajú nebytový priestor, napriek písomnému upozorneniu hrubo porušujú pokoj alebo poriadok v dome,
+e) užívanie nebytového priestoru je viazané na užívanie bytu a nájomcovi bola uložená povinnosť byt vypratať,
+f) bolo rozhodnuté o odstránení stavby alebo o zmenách stavby, čo bráni užívať nebytový priestor,
+g) nájomca prenechá nebytový priestor alebo jeho časť do podnájmu bez súhlasu prenajímateľa.
+5) Po dobu účinnosti zmluvy o nájme nebytového priestoru vypovedanej z dôvodu podľa odseku 4 alebo počas výpovednej lehoty sa vlastníctvo nebytového priestoru na doterajšieho nájomcu neprevedie.
+§ 4
+Magistrát hlavného mesta Slovenskej republiky Bratislavy (ďalej len „magistrát“) a miestny úrad mestskej časti (ďalej len „miestny úrad“) zabezpečia podklady podľa § 5, § 7 a § 18 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov za jednotlivé byty a nebytové priestory v domoch, ktoré spravujú a ktoré nie sú vyňaté z prevodu vlastníctva, na účely prevodu vlastníctva podľa tohto nariadenia.
+§ 5
+(1) Magistrát prijíma žiadosti o prevod vlastníctva bytov a nebytových priestorov (ďalej len „žiadosť“) v domoch nezverených do správy mestskej časti. Miestny úrad prijíma žiadosti o prevod vlastníctva bytov a nebytových priestorov v domoch zverených do správy mestskej časti.
+(2) Magistrát a miestny úrad písomne vyrozumejú žiadateľa o prijatí jeho žiadosti. Toto ustanovenie sa nevzťahuje na opakovane podané žiadosti. Prijatie žiadosti nie je prijatie návrhu na uzavretie zmluvy o prevode vlastníctva podľa § 43a Občianskeho zákonníka.
+(3) Ak je žiadosť podľa odseku 1 doručená nepríslušnému úradu podľa odseku 1, príjemca ju odstúpi úradu príslušnému na konanie podľa odseku 1, ak mu je známy, o čom upovedomí žiadateľa.
+(4) Žiadosť obsahuje najmä:
+a) meno, priezvisko a rodné číslo žiadateľa o prevod vlastníctva bytu,
+b) meno, priezvisko a rodné číslo žiadateľa o prevod vlastníctva nebytového priestoru,
+c) kópiu dokladu o užívacom vzťahu k bytu alebo nebytovému priestoru, o prevod ktorého žiada.
+(5) Žiadosti podané pred účinnosťou tohto nariadenia doplnia žiadatelia na výzvu o náležitosti podľa odseku 4 pred podaním žiadosti starostu o predchádzajúci súhlas primátora s prevodom vlastníctva bytu alebo nebytového priestoru.
+(6) V prípade, že primátor do jedného mesiaca odo dňa prijatia žiadosti starostu o predchádzajúci súhlas k prevodu vlastníctva bytu alebo nebytového priestoru súhlas nevydá alebo neoznámi svoj nesúhlas, znamená to, že súhlas je udelený.
+(7) Hlavné mesto pri domoch nezverených do správy mestských častí a mestská časť pri domoch zverených do jej správy predložia príslušnému zastupiteľstvu podľa § 12 tohto nariadenia návrh na schválenie prevodu vlastníctva nebytového priestoru do 90 dní odo dňa jej doručenia podľa odseku 1. Porušenie tejto povinnosti je porušením povinnosti podľa čl. 38 ods. 1 písm. b) Štatútu hlavného mesta Slovenskej republiky Bratislavy v znení neskorších doplnkov.
+§ 6
+Právo na prednostný prevod nebytových priestorov
+Právo na prednostný prevod nebytového priestoru do vlastníctva8) majú:
+a) nájomca nebytového priestoru, ktorý nevznikol na základe rozhodnutia o zmene užívania stavby9) zo spoločných častí domu alebo spoločných zariadení domu,
+b) vlastníci bytov v dome,
+c) nájomcovia bytov v dome, a to v uvedenom poradí.
+§ 7
+(1) Nebytový priestor, ktorý vznikol na základe rozhodnutia o zmene užívania stavby zo spoločných častí domu alebo spoločných zariadení domu, sa pri prevode vlastníctva bytov prevedie do podielového spoluvlastníctva vlastníkov bytov. Veľkosť spoluvlastníckych podielov sa určí podielmi podlahových plôch bytov k úhrnu podlahových plôch všetkých bytov v dome. Nájomné za užívanie takýchto priestorov je príjmom fondu prevádzky, údržby a opráv príslušného domu.
+(2) Ak je nebytový priestor podľa odseku 1 prenajatý, záväzky vyplývajúce z nájomnej zmluvy sa prenesú do zmlúv o prevode vlastníctva nebytového priestoru.
+§ 8
+Voľný prevod vlastníctva bytov a nebytových priestorov
+(1) Voľný byt a byt, ktorého užívateľom je osoba, ktorej bol ukončený nájom bytu s privolením súdu z dôvodov uvedených v § 3 ods. 1 písm. a) až d) tohto nariadenia, sa môže po predchádzajúcom zániku nájmu previesť do vlastníctva tretej osoby na základe obchodnej verejnej súťaže10) alebo verejnej dražby. Ak je uvoľnenie bytu viazané na zabezpečenie bytovej náhrady, podmienkou účasti záujemcu v obchodnej verejnej súťaži alebo verejnej dražbe je spoľahlivé preukázanie zabezpečenia bytovej náhrady11) pre doterajšieho užívateľa.
+(2) Vlastníctvo k nebytovému priestoru, ku ktorému nemá žiadna osoba právo prednostnej kúpy podľa § 6 tohto nariadenia alebo ho v lehote určenej predávajúcim nevyužila, možno previesť na inú osobu na základe obchodnej verejnej súťaže10) alebo verejnej dražby pri dodržaní osobitného postupu.8)
+(3) Lehota podľa odseku 2 nesmie byť kratšia ako 14 dní.
+§ 9
+Určenie ceny bytu a ateliéru
+(1) Ak sa prevádza byt alebo ateliér do vlastníctva doterajšieho nájomcu, cena za 1m2 podlahovej plochy bytu alebo atelieru sa určuje tak, že z obstarávacej ceny domu sa odpočíta:
+a) pri byte základný štátny príspevok poskytnutý na porovnateľný družstevný byt podľa roku začatia výstavby domu,
+b) pri byte 2 % a pri ateliéri 0,5 % opotrebenia za každý začatý rok veku domu
+a vydelí sa súčtom podlahových plôch bytov a ateliérov v dome. Celkové zníženie podľa tohto odseku môže byť najviac 80 % z obstarávacej ceny domu. Ak je súčasťou obstarávacej ceny domu iný nebytový priestor alebo garáž, obstarávacia cena domu sa odborným prepočtom zníži o časť prislúchajúcu tomuto nebytovému priestoru alebo garáži. Odborný prepočet sa vykoná tak, že obstarávacia cena domu sa zníži o časť, ktorá prislúcha podielu plôch nebytových priestorov v dome.
+(2) Hlavné mesto pri prevode bytu alebo ateliéru v dome nezvereného do správy mestskej časti a mestská časť pri prevode bytu alebo ateliéru v dome zvereného do správy mestskej časti do vlastníctva nájomcu bytu alebo ateliéru poskytne nadobúdateľovi bytu alebo ateliéru zrážku z ceny zistenej podľa odseku 1 vo výške 30 %.
+(3) Hlavné mesto pri prevode bytu v dome nezvereného do správy mestskej časti a mestská časť pri prevode bytu v dome zvereného do správy mestskej časti do vlastníctva nájomcu bytu:
+a) umožní nadobúdateľovi, ktorý uhradí minimálne 15 % z ceny bytu vypočítanej podľa odseku 1 a 2 a 15 % z ceny pozemku a príslušenstva do 15 dní odo dňa podpisu zmluvy, uhrádzať zostatok v pravidelných bezúročných splátkach a
+b) poskytne nadobúdateľovi bytu zľavu 50 % z ceny bytu vypočítanej podľa odseku 1 a 2 a 50 % z ceny spoluvlastníckeho podielu na zastavanom a priľahlom pozemku a príslušenstva, ak nadobúdateľ uhradí do 15 dní odo dňa podpisu zmluvy o prevode vlastníctva bytu a spoluvlastníckeho podielu na zastavanom a priľahlom pozemku v hotovosti 50 % z ceny bytu podľa odseku 1 a 2 a 50 % z ceny spoluvlastníckeho podielu na zastavanom a priľahlom pozemku a príslušenstve.
+(4) Minimálna výška splátky podľa odseku 3 písm. a) a b) tohto nariadenia sa určuje sumou 2000,-- Sk, ktorá je splatná vždy k 1. júnu a 1. decembru bežného roka. Maximálna doba splácania sa určuje na 10 rokov. Výška bežnej splátky sa určí tak, aby posledná splátka bola najnižšia.
+(5) Úhrada ceny bytu alebo jeho časti dlhopismi12) bude upravená všeobecne záväzným nariadením.
+(6) Ak sa byt prevádza do vlastníctva inej osobe ako nájomcovi bytu, určuje sa ako minimálna cena bytu obstarávacia cena domu prepočítaná na plochu bytu, najmenej však cena podľa osobitného predpisu,13) ktorá nemôže byť nižšia, ako cena vypočítaná podľa zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z..
+(7) Na spôsob splácania ceny ateliéru vypočítanej podľa odseku 1 a 2 sa použijú ustanovenia § 10 ods. 6 tohto nariadenia.
+(8) Primátor v domoch nezverených do správy mestských častí a starosta v domoch zverených do správy mestskej časti môže navrhnúť nižšiu cenu bytu prevádzaného do vlastníctva doterajšieho nájomcu bytu z dôvodu, že cena bytu podľa odseku 1 prepočítaná na 1 m2 plochy bytu je vyššia ako:
+a) 4500,- Sk pre byty dokončené v roku 1990,
+b) 4950,- Sk pre byty dokončené v roku 1991,
+c) 5400,- Sk pre byty dokončené v roku 1992,
+d) 5850,- Sk pre byty dokončené v roku 1993,
+e) 6300,- Sk pre byty dokončené v roku 1994,
+f) 6750,- Sk pre byty dokončené v roku 1995.
+V týchto prípadoch navrhne cenu podľa písmena a) až f) podľa roku dokončenia bytu.
+§ 10
+Určenie ceny nebytového priestoru
+(1) Minimálna cena nebytového priestoru okrem ateliérov a garáží sa určuje ako 7-násobok ceny ročného nájmu v danom mieste obvyklej.
+(2) Minimálna cena garáže sa určuje ako 7-násobok ročnej ceny nájmu garáže v danom mieste obvyklej.
+(3) Cena podľa odseku 1 sa môže znížiť o náklady, ktoré sa na základe zmluvy o nájme nebytového priestoru vynaložili na primeranú úpravu nebytového priestoru za účelom dosiahnutia jeho užívaniaschopného stavu.
+(4) Primátor, ak ide o nebytové priestory v domoch nezverených do správy mestskej časti, a starosta, ak ide o nebytové priestory v domoch zverených do správy mestskej časti, môže v odôvodnených prípadoch navrhnúť nižšiu cenu podľa odseku 1 a 2.
+(5) Cena garáže sa môže určiť nižšie, ak sa má garáž previesť do vlastníctva ťažko zdravotne postihnutej osoby14) alebo osoby, ktorá žije v spoločnej domácnosti s ťažko zdravotne postihnutou osobou a je vlastníkom motorového vozidla.
+(6) Pri prevode nebytových priestorov do vlastníctva nájomcu nebytového priestoru je nadobúdateľ povinný uhradiť minimálne 70 % z ceny nebytového priestoru a zostatok v pravidelných splátkach do dvoch rokov od podpísania zmluvy.
+§ 11
+Cena pozemku a príslušenstva domu
+(1) Cena pozemku zastavaného domom a priľahlého pozemku sa určuje podľa osobitného predpisu15).
+(2) Cena príslušenstva domu a trvalých porastov sa určí dohodou. Ak nadobúdateľ o to požiada, cena sa určí podľa osobitného predpisu.16) Náklady na určenie ceny príslušenstva a trvalých porastov podľa osobitného predpisu hradí nadobúdateľ.
+(3) Podiel na výnose z prevodu vlastníctva pozemku zastavaného domom a priľahlého pozemku, príslušenstva domu a trvalých porastov mestské časti sú povinné odviesť na účet hlavného mesta každoročne k dňom 15. 3., 15. 6., 15. 9. a 15. 12.. Výnosom z prevodu vlastníctva pozemku sa rozumie cena pozemku podľa odseku 1.
+§ 12
+Prevod bytov a nebytových priestorov z vlastníctva hlavného mesta schvaľuje:
+a) miestne zastupiteľstvo mestskej časti, ak ide o byty a nebytové priestory v domoch, ktoré boli mestskej časti zverené do správy,
+b) Mestské zastupiteľstvo hlavného mesta Slovenskej republiky Bratislavy, ak ide o ostatné byty a nebytové priestory v domoch vo vlastníctve hlavného mesta.
+§ 13
+Podpisovanie zmlúv nadobúdateľom
+Nadobúdateľ podpisuje zmluvu o kúpe bytu alebo nebytového priestoru po jej podpísaní primátorom alebo ním poverenou osobou.
+§ 14
+Zabezpečenie pohľadávok
+Pohľadávky z neuhradenej časti ceny bytu, nebytového priestoru, pozemku a príslušenstva domu predávajúci v zmluve o prevode vlastníctva zabezpečí zriadením
+a) záložného práva v prospech hlavného mesta na vymáhanie čiastky podľa § 9 ods. 2 tohto nariadenia,
+b) záložného práva v prospech hlavného mesta vo výške neuhradenej časti z ceny zníženej o zrážku podľa § 9 ods. 2 a 3 tohto nariadenia.
+§ 15
+Zaokrúhľovanie
+Výsledná cena bytu, nebytového priestoru, podielu na pozemku, príslušenstve domu a trvalých porastov sa zaokrúhľuje na desiatky korún smerom dole.
+§ 16
+Zmluvu o výkone správy a zmluvu o spoločenstve vlastníkov bytov a nebytových priestorov v dome zverenom do správy mestskej časti pripravuje a uzatvára príslušná mestská časť.
+§ 17
+Byty a nebytové priestory v domoch zverených do správ mestských častí, ktoré zostali vo vlastníctve hlavného mesta, dňom právoplatnosti vkladu prvej zmluvy o prevode vlastníctva bytu alebo nebytového priestoru v dome ostávajú zverené v správach mestských častí. Do správ mestských častí sa zverujú aj nepredané spoluvlastnícke podiely na zastavaných a priľahlých pozemkoch.
+§ 18
+Pokuty a sankcie
+(1) Hlavné mesto pri prevode vlastníctva bytov a nebytových priestorov v domoch nezverených do správy mestských častí a mestská časť pri prevode vlastníctva bytov a nebytových priestorov v domoch zverených do správy mestskej časti v zmluve o prevode vlastníctva určí jednorázovú pokutu za omeškanie platby vo výške 500,-Sk a pokutu vo výške 0,5 % z omeškanej platby príslušnej splátky za každý deň omeškania platby splátky.
+(2) Výnosy zo zmluvných pokút a sankcií sa delia medzi hlavné mesto a mestskú časť podielom určeným osobitným predpisom17) a sú príjmami príslušných fondov rozvoja bývania.18) Výnos z pokút za porušenie tohto nariadenia19) je príjmom Fondu rozvoja bývania hlavného mesta Slovenskej republiky Bratislavy.
+§ 19
+Mestská časť môže v súlade s týmto nariadením pre prevody vlastníctva bytov a nebytových priestorov v domoch zverených do jej správy ustanoviť všeobecne záväzným nariadením
+a) podrobnejší postup mestskej časti pri prevode bytov a nebytových priestorov z vlastníctva hlavného mesta,
+b) ďalšie podmienky a spôsoby zníženia ceny bytu podľa § 9 ods. 8 tohto nariadenia,
+c) podmienky a spôsob zníženia ceny pozemku vo vybraných územiach mestskej časti, pričom cena pozemku zostane minimálne 600,- Sk/m2.
+§ 20
+(1) Cena bytu písomne dojednaná s nadobúdateľom podľa všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy č. 1/1994 v znení všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy č. 4/1994 pred dňom účinnosti tohto nariadenia sa do troch mesiacov odo dňa účinnosti tohto nariadenia považuje za cenu dojednanú podľa tohto nariadenia, ak nie je vyššia ako cena bytu podľa tohto nariadenia.
+(2) Cena pozemku dojednaná s nadobúdateľom podľa všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy č. 1/1994 v znení všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy č. 4/1994 pred dňom účinnosti tohto nariadenia sa považuje za cenu dojednanú podľa tohto nariadenia, ak nie je vyššia ako cena pozemku podľa tohto nariadenia.
+§ 21
+Zrušuje sa všeobecne záväzné nariadenie hlavného mesta Slovenskej republiky Bratislavy č. 1/1994 o prevode bytov a nebytových priestorov z vlastníctva hlavného mesta Slovenskej republiky Bratislavy do vlastníctva iných osôb v znení všebecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy č. 4/1994.
+§ 22
+Toto nariadenie nadobúda účinnosť 10. novembra 1995.
+Peter Kresánek v. r.
+primátor
