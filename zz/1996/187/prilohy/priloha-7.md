@@ -1,0 +1,1 @@
+- DODATOK III Dohovor o spoločnom tranzitnom režime z 20. mája 1987 (článok 5 prílohy IV) [Príloha 04-3](../assets/ca8bc223375d6c03744277a77e5ebedae07486ed74a48ee8987a3a542969b089.pdf)

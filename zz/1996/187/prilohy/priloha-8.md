@@ -1,0 +1,1 @@
+- DODATOK IV Dohovor o spoločnom tranzitnom režime z 20. mája 1987 (články 6 až 13 prílohy IV) [Príloha 04-4](../assets/e0540dd53faf0b7bf053ac15681dc11632066d034212bbbe2c10901eb37351bb.pdf)
