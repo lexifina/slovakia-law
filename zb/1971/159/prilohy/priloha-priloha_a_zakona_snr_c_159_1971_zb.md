@@ -28,21 +28,7 @@ Príloha A zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 11 | | | |
 
-12 | lesného a vodného hodpodárstva | zák. č. 166/1960 Zb. | § 10 ods. 1 | vyhradzovanie si rozhodovania o závažnejších zásahoch do lesného fondu alebo o vyňatí väčšej plochy lesnej pôdy
-
-13 | | | § 26 | schvaľovanie návrhov na vytvorenie lesných hospodárskych celkov, schvaľovanie lesných hospodárskych plánov a ostatných diel hospodárskej úpravy lesov a kontrole ich vykonávania
-
-14 | | zák. č. 166/1960 Zb. v spojení s čl. 24 ods. 1 vyhl. č. 17/1961 Zb. | § 30 | vyhlasovanie príslušných lesov o výmere nad 10 ha do 100 ha za účelové
-
-15 | | zák. č. 166/1960 Zb. | § 37 ods. 2 | vyhradzovanie si rozhodovania o povoľovaní výnimiek z neprípustných druhov ťažieb dreva
-
-16 | | vyhl. č. 17/1961 Zb. v znení vyhl. č. 58/1968 Zb. | čl. 3 ods. 1 a 2 | vyjadrovanie sa k územným plánom a dokumentácii stavieb z hľadiska ochrany lesného fondu a vymedzovanie plochy nevyhnutne potrebnej na požadované účely, ak má dôjsť k rozsiahlejšiemu vyňatiu pozemkov z lesného fondu
-
-17 | | | čl. 16 ods. 1 a 2 | povoľovanie zmien obvodov lesných hospodárskych celkov vo zvlášť odôvodnených prípadoch a udeľovanie súhlasu na zmeny hospodárskych skupín
-
-18 | | | čl. 21 | konanie pri vyhotovovaní lesných hospodárskych plánov a pri ich schvaľovaní
-
-19 | | | čl. 42 a čl. 43 ods. 1 | vymenúvanie skúšobnej komisie pre odborných lesných hospodárov, rozhodovanie o pripustení na skúšku a vykonávanie skúšok
+12-19 | lesného a vodného hodpodárstva | zrušené od 1.1.1978 | |
 
 20 | | vl. nar. č. 14/1959 Zb. | § 26 ods. 2 | rozhodovanie o príslušnosti okresných národných výborov na vydanie povolenia na zriadenie vodohospodárskeho diela alebo zariadenia v prípade pochybnosti
 
