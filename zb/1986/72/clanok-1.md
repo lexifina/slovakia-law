@@ -84,10 +84,6 @@ Zákon Slovenskej národnej rady č. 1/1955 Zb. SNR o štátnej ochrane prírody
 
 - Ak sa v tomto zákone neustanovuje inak, platia o priestupkoch a ich prejednávaní všeobecné predpisy.<sup>4</sup>)
 
-- (5)
-
-- Pokuta je príjmom národného výboru, ktorý ju uložil.
-
 - § 19b
 
 - Pokuty organizáciám
@@ -166,11 +162,7 @@ Zákon Slovenskej národnej rady č. 1/1955 Zb. SNR o štátnej ochrane prírody
 
 - (7)
 
-- Uložením pokuty organizácii zostáva nedotknutá zodpovednosť organizácie, prípadne jej pracovníkov podľa osobitných predpisov.
-
-- (8)
-
-- Pokuta je príjmom národného výboru, ktorý ju uložil.“.
+- Uložením pokuty organizácii zostáva nedotknutá zodpovednosť organizácie, prípadne jej pracovníkov podľa osobitných predpisov.“.
 
 - 2. § 20 sa dopĺňa odsekom 3, ktorý znie:
 
