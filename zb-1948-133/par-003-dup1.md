@@ -1,0 +1,3 @@
+# § 3
+
+Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr sociální péče v dohodě se zúčastněnými ministry.
