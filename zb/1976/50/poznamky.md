@@ -2,11 +2,9 @@
 
 - § 6 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 2) § 18a Hospodárskeho zákonníka,
+- 2) § 2 ods. 2 Obchodného zákonníka.
 
-- § 4 písm. f) zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce.
-
-- 3) Zásady pre poskytovanie niektorých služieb a opráv občanmi na základe povolenia národného výboru schválené uznesením vlády z 3. marca 1965, uverejnené pod č. 20/1965 Zb.
+- 3) § 8 a 9 zákona č. 17/1992 Zb. o životnom prostredí.
 
 - 4) § 192 Hospodárskeho zákonníka.
 
