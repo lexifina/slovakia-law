@@ -1,0 +1,5 @@
+# § 2.
+
+(1) Je-li soudce (konceptní úředník úřadu veřejné žaloby) ustanoven v den, kdy tento zákon nabývá účinnosti, na služebním místě, které se podle tohoto zákona zařazuje do vyšší stupnice funkčního služného, nabude práv vyplývajících z tohoto vyššího zařazení teprve propůjčením služebního místa v příslušné vyšší stupnici funkčního služného.
+
+(2) Je-li soudce (konceptní úředník úřadu veřejné žaloby) ustanoven na služebním místě, s nímž jest spojen služební přídavek podle ustanovení § 148 platového zákona, a byl-li mu tento přídavek skutečně přiznán, obdrží ve vyšší stupnici funkčního služného funkční služné, rovnající se součtu dosavadního funkčního služného a příslušného přídavku, a není-li takového funkčního služného, nejblíže vyšší funkční služné. Rovná-li se funkční služné, vyplývající z propůjčení služebního místa ve vyšší stupnici funkčního služného, součtu dosavadního funkčního služného a příslušného služebního přídavku, nebo je-li vyšší, zanikne služební přídavek; jinak přísluší dosavadní služební přídavek v mezích o něm platných předpisů i nadále, a to ve výši příslušného rozdílu.

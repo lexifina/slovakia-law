@@ -1,0 +1,3 @@
+# § 5.
+
+Po dobu, než budou upraveny zvláštním zákonem jednotné úřední tituly soudců a konceptních úředníků úřadů veřejné žaloby, zůstávají u těch služebních míst, jež byla tímto zákonem zařazena do vyšší stupnice funkčního služného nebo mimo skupinu, v platnosti úřední tituly, dosud spojené s těmito služebními místy. Náměstkům předsedů senátů nejvyššího soudu, po případě nejvyššího správního soudu, ustanoveným na služebních místech systemisovaných pro tuto funkci, přísluší úřední titul “náměstek senátního presidenta (předsedy) nejvyššího soudu„, po případě “náměstek senátního presidenta (předsedy) nejvyššího správního soudu„.
