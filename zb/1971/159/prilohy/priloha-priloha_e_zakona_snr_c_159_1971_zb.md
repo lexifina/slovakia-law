@@ -36,7 +36,7 @@ Príloha E zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 15 | kultúry a informácií | zák. č. 81/1957 Zb. | § 12 | povoľovanie usporiadania verejných produkcií koncertných a verejných produkcií hudobníkov z povolania a vykonávanie dozoru nad nimi
 
-16 | | zák. č. 55/1957 Zb. | § 17 ods. 2 | povoľovanie verejných ochotníckych divadelných predstavení
+16 | | zrušená od 1.7.1978 | |
 
 17 | | vyhl. č. 149/1961 Zb. | § 16 ods. 2 | povoľovanie výstav prác ľudovej výtvarnej tvorivosti
 

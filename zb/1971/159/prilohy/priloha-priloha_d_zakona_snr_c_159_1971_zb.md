@@ -56,7 +56,7 @@ Príloha D zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 25 | školstva a starostlivosti o deti | vyhl. č. 104/1965 Zb. | § 1 ods. 3 | udeľovanie oprávnenie na súkromné vyučovanie v odbore umenia a v odbore cudzích jazykov
 
-26 | kultúry a informácií | zák. č. 55/1957 Zb. | § 18 ods. 2 | povoľovanie produkcie jednotlivých divadelných diel na verejných divadelných prestaveniach mimo prevádzky divadla
+26 | zrušená od 1.7.1978 | | |
 
 27 | všeobecnej vnútornej správy | zák. č. 55/1950 Zb. | § 2 | povoľovanie zmeny mena alebo priezviska
 
