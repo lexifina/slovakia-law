@@ -1,9 +1,0 @@
-# § 391c
-
-(1) Na konanie v neskončených veciach, v ktorých bola podľa doterajších predpisov založená vecná príslušnosť Najvyššieho súdu Českej a Slovenskej Federatívnej Republiky, je príslušný najvyšší súd, ak vo veci v prvom stupni rozhodoval orgán činný v trestnom konaní so sídlom na území Slovenskej republiky.
-
-(2) Na konanie o sťažnosti pre porušenie zákona, na ktoré by podľa doterajších predpisov bol príslušný Najvyšší súd Českej a Slovenskej Federatívnej Republiky, je príslušný najvyšší súd, ak orgán, ktorý vo veci rozhodol v prvom stupni, mal sídlo na území Slovenskej republiky.
-
-(3) Na konanie o sťažnosti pre porušenie zákona vo veciach, v ktorých rozhodol bývalý Štátny súd alebo bývalý Najvyšší súd ako súd prvého stupňa, je príslušný najvyšší súd, ak by podľa doteraz platných predpisov bol vo veci príslušný v prvom stupni konať súd so sídlom na území Slovenskej republiky.
-
-(4) V konaní o odňatí veci súdu so sídlom v Slovenskej republike a jeho prikázaní súdu v Českej republike a naopak sa od 1. januára 1993 nebude pokračovať.

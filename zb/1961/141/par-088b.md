@@ -1,4 +1,4 @@
-## Agent
+## Ôsmy oddiel Agent
 
 # § 88b
 
@@ -14,9 +14,9 @@
 
 (4) Ak je to na vytvorenie alebo zachovanie legendy nevyhnutné, možno za podmienok uvedených v osobitnom zákone<sup>11</sup>) vyhotoviť, zmeniť a používať krycie doklady.
 
-(5) Príkaz na použitie agenta pred začatím prípravného konania a v prípravnom konaní vydáva sudca na návrh prokurátora, v konaní pred súdom aj bez takého návrhu predseda senátu.
+(5) Príkaz na použitie agenta pred začatím trestného stíhania a v prípravnom konaní vydáva sudca na návrh prokurátora, v konaní pred súdom aj bez takého návrhu predseda senátu.
 
-(6) Ak ide o vec, ktorá nestrpí odklad, môže prokurátor, ak použitie agenta nie je spojené so vstupom do bytu iného, príkaz uvedený v odseku 5 dať pred začatím prípravného konania a v prípravnom konaní. Takýto príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
+(6) Ak ide o vec, ktorá nestrpí odklad, môže prokurátor, ak použitie agenta nie je spojené so vstupom do bytu iného, príkaz uvedený v odseku 5 dať pred začatím trestného stíhania a v prípravnom konaní. Takýto príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
 
 (7) Príkaz podľa odsekov 5 a 6 musí byť písomný a musí byť v ňom určený čas, po ktorý bude agent použitý. Nakladá sa s ním ako s utajovanou skutočnosťou.
 

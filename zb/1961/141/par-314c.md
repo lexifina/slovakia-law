@@ -8,9 +8,9 @@
 
 - c) vráti vec prokurátorovi na došetrenie, ak v prípravnom konaní neboli objasnené základné skutočnosti dôležité pre rozhodnutie o vine,
 
-- d) trestné stíhanie podmienečne zastaví podľa § 307.
+- d) trestné stíhanie podmienečne zastaví podľa § 307 alebo rozhodne o schválení zmieru podľa § 309.
 
-(2) Ustanovenia § 189 až 191 sa použijú aj na konanie pred samosudcom.
+(2) Ustanovenia § 189 až 191 sa použijú aj na konanie pred samosudcom. O schválení zmieru môže samosudca rozhodnúť na verejnom zasadnutí.
 
 (3) Ak je obvinený vo väzbe, rozhodne samosudca po preskúmaní obžaloby vždy tiež o ďalšom trvaní väzby, pokiaľ nenariadi hlavné pojednávanie.
 

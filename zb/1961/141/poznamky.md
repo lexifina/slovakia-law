@@ -12,11 +12,11 @@
 
 - 7b) § 29a ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 8) § 36 zákona č. 61/1952 Zb. o námornej plavbe.
+- 8) § 30 zákona č. 435/2000 Z. z.
 
 - 8a) § 21 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 353/1997 Z. z.
 
-- 9) § 1 ods. 1, § 2 a § 3 ods. 1 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+- 9) § 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 10) § 35 a § 39 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
 
