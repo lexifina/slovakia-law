@@ -1,1 +1,0 @@
-- 1) §1 vyhlášky Štátnej arbitráže Československej socialistickej republiky č. 38/1980 Zb., ktorou sa vydávajú základné podmienky dodávky výrobkov dodávaných organizáciami vnútorného obchodu.
