@@ -1070,6 +1070,34 @@
 
         - Za prípravu vyhotovení žiadaných podľa článku 13 zodpovedá Medzinárodný úrad.
 
+    - Pravidlo 32 Rozšírenie účinkov medzinárodnej prihlášky na určité nástupnícke štáty
+
+      - 32.1. Požiadavka na rozšírenie medzinárodnej prihlášky na nástupnícky štát
+
+        - (a) Účinky medzinárodnej prihlášky, ktorej dátum podania spadá do obdobia uvedeného v odseku (b), pod podmienkou, že prihlasovateľ vykoná úkony uvedené v odseku (c), môžu sa rozšíriť na štát („nástupnícky štát“), ktorého územie bolo pred nezávislosťou tohto štátu časťou územia zmluvného štátu, ktorý následne zanikol („predošlý štát“), za predpokladu, že nástupnícky štát sa stal zmluvným štátom uložením vyhlásenia o pokračovaní u generálneho riaditeľa, na základe ktorého sa táto Zmluva aplikuje aj na nástupnícky štát.
+
+        - (b) Obdobie uvedené v odseku (a) sa začína dňom nasledujúcim po poslednom dni existencie predošlého štátu a končí sa dva mesiace po dni, keď generálny riaditeľ oznámil vyhlásenie podľa odseku (a) vládam členských štátov Parížskeho dohovoru na ochranu priemyselného vlastníctva. Ak však deň nezávislosti nástupníckeho štátu predchádza dňu nasledujúcemu po poslednom dni existencie predošlého štátu, potom nástupnícky štát smie vyhlásiť, že uvedené obdobie sa začína dňom jeho nezávislosti; také vyhlásenie možno urobiť spolu s vyhlásením uvedeným v odseku (a) a musí sa v ňom presne určiť deň nezávislosti.
+
+        - (c) Pokiaľ ide o medzinárodnú prihlášku, ktorej dátum podania spadá do obdobia uvedeného v odseku (b), Medzinárodný úrad pošle prihlasovateľovi oznámenie, v ktorom ho informuje, že môže požiadať o rozšírenie, ak do troch mesiacov od dátumu tohto oznámenia vykoná tieto úkony:
+
+          - (i) podá na Medzinárodnom úrade žiadosť o rozšírenie,
+
+          - (ii) zaplatí Medzinárodnému úradu poplatok za rozšírenie v švajčiarskych frankoch, ktorého výška je rovnaká ako výška poplatku za určenie podľa pravidla 15.2.(a).
+
+        - (d) Toto pravidlo sa nepoužije v prípade Ruskej federácie.
+
+      - 32.2. Účinky rozšírenia na nástupnícky štát
+
+        - (a) Tam, kde sa podala žiadosť o rozšírenie podľa pravidla 32.1.,
+
+          - (i) nástupnícky štát sa považuje za štát určený v medzinárodnej prihláške a
+
+          - (ii) príslušná lehota podľa článku 22 alebo podľa článku 39 (1) Zmluvy, ak ide o tento štát, sa predĺži až do uplynutia najmenej troch mesiacov od dátumu podania žiadosti o rozšírenie.
+
+        - (b) V prípade, že nástupnícky štát je viazaný hlavou II Zmluvy a žiadosť o rozšírenie sa podala neskôr, avšak návrh sa podal pred uplynutím devätnásťmesačnej lehoty od dátumu priority a nástupnícky štát bol zvolený do troch mesiacov od dátumu podania žiadosti o rozšírenie, príslušná lehota podľa odseku (a) (ii) musí byť najmenej 30 mesiacov od dátumu priority.
+
+        - (c) Nástupnícky štát môže určiť lehoty, ktoré uplynú neskôr než lehoty určené v odsekoch (a) (ii) a (b). Medzinárodný úrad zverejní informáciu o takýchto lehotách vo Vestníku.
+
     - PRAVIDLO 33 RELEVANTNÝ ZNÁMY STAV TECHNIKY PRE MEDZINÁRODNÚ REŠERŠ
 
       - 33.1 Relevantný známy stav techniky pre medzinárodnú rešerš
