@@ -6,8 +6,6 @@
 
 - § 12 ods. 2 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 
-- 3a) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
-
 - 4) § 2 ods. 1 a 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
 - 5) § 2 ods. 2 zákona č. 513/1991 Zb. v znení neskorších predpisov.§ 5 ods.1 a nasl. zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
