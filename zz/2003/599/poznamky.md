@@ -18,6 +18,14 @@
 
 - 8) § 5 zákona č. 595/2003 Z. z.
 
+- 8a) § 53 zákona č. 461/2003 Z. z.
+
+- 8b) § 73 ods. 1 zákona č. 461/2003 Z. z.
+
+- 8c) § 77 zákona č. 461/2003 Z. z.
+
+- 8d) § 74 zákona č. 461/2003 Z. z.
+
 - 9) Zákon č. 600/2003 Z. z.
 
 - 10) § 3 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
@@ -68,11 +76,15 @@
 
 - 23) § 3 ods. 3 písm. a) zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
+- 23a) Zákon č. 280/2002 Z. z. v znení neskorších predpisov.
+
 - 24) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 25a) § 51 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
+
+- 25b) § 717 Občianskeho zákonníka.
 
 - 26) § 115 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
