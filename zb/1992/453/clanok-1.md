@@ -260,7 +260,7 @@ Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a
 
 - a)
 
-- cestnú a mestskú dopravu, mestské dráhy a dráhy osobitného určenia, dialničné hospodárstvo, cestné hospodárstvo a automobilové opravárenstvo,
+- cestnú a mestskú dopravu, celoštátne dráhy, mestské dráhy, dráhy osobitného určenia a vlečky, bezpečnosť a plynulosť železničnej premávky, výkon štátneho dozoru na dráhach a vlečkách, diaľničné hospodárstvo, cestné hospodárstvo, automobilové opravárenstvo a železničné opravárenstvo a strojárstvo,
 
 - b)
 
