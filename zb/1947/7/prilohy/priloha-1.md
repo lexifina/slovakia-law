@@ -74,7 +74,7 @@
 
 - | b) v ostatních případech | od 200 Kčs do 100.000 Kčs.
 
-- 2. | Za osvědčení o československém státním občanství | od 30 Kčs do 700 Kčs.
+- 2. | Za osvědčení o československém státním občanství | od 30 Kčs do 400 Kčs.
 
 - 3. | Za potvrzení o tom, že strana podala žádost za udělení československého státního občanství | od 30 Kčs do 300 Kčs.
 
@@ -204,7 +204,7 @@
 
 - 50. | Za povolení podniku totalisatorského | od 500 Kčs do 12.000 Kčs.
 
-- 51. | Za cestovní pas, jeho prodloužení nebo rozšíření | od 20 Kčs do 1.000 Kčs (podle účelu cesty, doby platnosti a majetkových poměrů žadatele).
+- 51. | Za cestovní pas, jeho prodloužení nebo rozšíření | od 100 Kčs do 5.000 Kčs (podle účelu cesty, doby platnosti a majetkových poměrů žadatele).
 
 - 52. | Za osvědčení pro přechod hranic v malém pohraničním styku | od 10 Kčs do 1.000 Kčs (podle účelu cesty, doby platnosti a majetkových poměrů žadatele).
 
@@ -424,13 +424,15 @@
 
 - | ss) nabývání pohledávek z dopravních obchodů vůči drahám a jiným dopravním podnikům a jich uplatňování vlastním jménem a na vlastní účet | 480, 960, 1.440, 2.400, 3.600 Kčs,
 
-- | tt) prodej radiotelegrafních a radiotelefonních zařízení | 480, 960, 1.200, 1.440, 1.920 Kčs,
+- | tt) živnost radiotechnickou | od 4.000 Kčs do 8.000 Kčs (podle rozsahu podniku)
 
-- | uu) přechovávání radiotelegrafních a radiotelefonních zařízení | 120, 240, 300, 360, 480 Kčs,
+- | uu) živnost radiomechanickou | 480, 960, 1.200, 1.440 a 1.920 Kčs;
 
-- | vv) výrobu radiotelegrafních a radiotelefonních zařízení i s případným schválením provozovny | od 4.000 Kčs do 8.000 Kčs (podle rozsahu podniku),
+- | Poznámka: Osobám, které nabudou radiomechanické koncese podle § 13, odst. 1 zákona č. 128/1947 Sb., vyměří se dávka podle písm. uu) poloviční sazbou. |
 
-- | xx) povolení přeložení místností určených pro výrobu nebo prodej radiotelegrafních a radiotelefonních zařízení v téže obci | jedna desetina dávky příslušející podle zásad shora uvedených za propůjčení koncese,
+- | vv) obchod s radioelektrickými zařízeními | 480, 960, 1.200, 1.440 a 1.920 Kčs,
+
+- | xx) zrušená od 19. 6. 1948. |
 
 - | yy) masérství a pěstění lidského těla | od 120 Kčs do 2.400 Kčs (podle rozsahu oprávnění a velikosti podniku),
 
@@ -564,9 +566,13 @@
 
 - 32. | Za ověření podpisů komorních funkcionářů | 80 Kčs.
 
-- 33. | Za zkoušku vážných | 200 Kčs.
+- 33. | Za zkoušku vážných | 50 Kčs.
 
-- | Poznámka: Tato dávka se nevybírá, pokud se za zkoušku vážných vybírá taxa podle nařízení ministra obchodu č. 126/1876 ř. z. |
+- | Poznámka: Tato dávka se vybírá místo taxy za zkoušku vážných podle nařízení ministerstva obchodu č. 126/1876 ř. z. |
+
+- 34. | a) Za povolení k výkonu hospodářské a daňové poradní činnosti v plném rozsahu | od 2.000 Kčs do 8.000 Kčs (podle hospodářského významu uděleného povolení, podle majetkových poměrů žadatele a se zřetelem k místním poměrům);
+
+- | b) za povolení k výkonu hospodářské a daňové poradní činnosti v užším rozsahu | od 1.000 Kčs do 5.000 Kčs (podle rozsahu oprávnění, podle majetkových poměrů žadatele a se zřetelem k místním poměrům).
 
   - F. Sazebník pro obor zahraničního obchodu.
 
@@ -2580,23 +2586,7 @@
 
 - 7. | Za povolení odrůdy (§ 20, odst. 2 vl. nař. č. 69/1941 Sb.) | 2.400 Kčs.
 
-- 8. | Za vydání honebního lístku: |
-
-- | a) ročního pro tuzemce | 300 Kčs,
-
-- | b) denního pro tuzemce | 100 Kčs,
-
-- | c) ročního pro cizince | 2.000 Kčs,
-
-- | d) denního pro cizince | 400 Kčs,
-
-- | e) ročního sokolnického | 80 Kčs,
-
-- | f) ročního pro mladistvé | 200 Kčs,
-
-- | g) duplikátu | 50 Kčs.
-
-- | Poznámky: 1. Dávky vybere úřad, který honební lístek vydá. 2. Od zaplacení dávky za honební lístek jsou osvobozeni: a) Lesní úředníci a zřízenci ve veřejné nebo soukromé službě, mají-li přiměřené vzdělání a jsou-li činni ve svém povolání jako lesní nebo myslivečtí úředníci nebo zřízenci. Stejných výhod požívají osoby v řádném školení, jakož i osoby, které lesní dohlédací úřad uzná za lesní úředníky nebo zřízence a které zaujímají odpovídající postavení. b) Myslivci z povolání, činní ve svém povolání, kteří vykonali mysliveckou zkoušku (zkoušku pro myslivost a mysliveckou ochrannou službu), anebo jsou v řádném školení u učebního pána. Stejné výhody požívají myslivci z povolání, kteří dnem 1. ledna 1941 dokončili 55. rok svého věku a jejichž hlavní činností v posledních 15 letech bylo nepřetržité zaměstnání v myslivecké ochranné službě, přiznalo-li jim ministerstvo zemědělství na návrh titul pomocného nebo revírního myslivce bez vykonání některé shora jmenované zkoušky. 3. Lesní úředníci a zřízenci, jakož i myslivci z povolání, kteří jsou ve výslužbě, mohou býti osvobozeni od zaplacení dávky za honební lístek, doporučuje-li to dřívější žadatelův úřad a okresní národní výbor. Těžcí váleční invalidé mohou obdržeti honební lístky za poloviční dávky. 4. Cizincům může býti vydán honební lístek za dávky pro tuzemce se svolením ministerstva zemědělství. 5. Dávky stanovené v této položce se na Slovensku nevybírají, pokud se vybírá daň z lovu podle vl. nař. č. 162/1939 Sl. z. |
+- 8. | Zrušená od 19. 6. 1948 |
 
 - 9. | Za vystavení průkazu na vydání rybářského lístku na Slovensku | od 40 Kčs do 800 Kčs (podle rozsahu rybolovného práva a hodnoty rybářského revíru).
 
@@ -2696,6 +2686,10 @@
 
 - | b) za vydání vysvědčení o osvobození od zvláštní praktické zkoušky zubotechnické (§ 3, odst. 3 a § 4 zák. č. 303/1920 Sb.) | 1.400 Kčs.
 
+- | c) Za vydání vysvědčení o zkoušce z oboru zubní techniky podle vládního nařízení č. 673/1920 Sb. a § 1, písm. d) vl. nař. č. 106/1946 Sb. | 300 Kčs;
+
+- | Poznámka: Dávka stanovená pod písm. c) se vybírá místo taxy stanovené v § 8 vl. nař. č. 673/1920 Sb. a § 6, odst. 4 vl. nař. č. 106/1946 Sb. |
+
 - 9. | Za udělení koncese lékárnické a za převod reální lékárny, pokud se reální lékárna nepřevádí na vdovu nebo nezletilé descendenty majitelovy, jakož i za povolení přenosu osobní koncese lékárnické na Slovensku: |
 
 - | a) v obci s počtem obyvatel přes 100.000 | 10.000 Kčs,
@@ -2786,7 +2780,7 @@
 
 - | c) za schválení jakékoliv změny povolené již speciality, jakož i za schválení změny v osobě ohlašovatele nebo výrobce | 100 Kčs,
 
-- | d) za povolení dovozu omamných látek podle § 10 zákona č. 29/1938 Sb. | od 2.000 Kčs do 10.000 Kčs.
+- | d) za zvláštní povolení podle § 10 zákona č. 29/1938 Sb., | od 2.000 Kčs do 10.000 Kčs.
 
 - 26. | Za úřední schválení, aby směl být vyráběn a dán do oběhu desinfekční prostředek, který je opatřen ochrannou známkou | 60 Kčs.
 
@@ -2836,7 +2830,7 @@
 
 - | c) při převozu mrtvol do ciziny | 600 Kčs.
 
-- | Poznámka: Dávka se nevybere za povolení převozu mrtvol: a) vojáků, kteří zemřeli ve světové válce, b) čsl. vojáků, kteří padli nebo zemřeli v poli, c) účastníků národního boje za osvobození a obětí nepřátelské persekuce a války; ministerstvo financí v dohodě se zúčastněnými ministerstvy vyhlásí v Úředním listě republiky Československé, koho jest pro účely této poznámky považovati za účastníka národního boje za osvobození a za oběť nepřátelské persekuce a války, a za jakých podmínek se dávka podle tohoto ustanovení nevybírá. |
+- | Poznámka: Dávka se nevybere za povolení k převozu mrtvol: a) vojáků, kteří zemřeli ve světové válce, b) československých vojáků, kteří padli nebo zemřeli v poli, c) účastníků národního boje za osvobození a obětí nepřátelské persekuce a války, uvedených v § 1 zák. č. 13/1947 Sb., pokud zemřeli za okolností nebo z příčin uvedených v § 2, odst. 1 cit. zák. |
 
 - 41. | Za povolení k exhumaci (vykopávce) mrtvoly při otevření hrobu za účelem přenesení pozůstatků: |
 
@@ -3308,6 +3302,8 @@
 
 - 46. | Za vydání osvědčení na chmel, vyvážený v cylindrech nebo bednách, za každý cylindr nebo bednu | 2 Kčs.
 
+- 47. | Za potvrzení, že osoba chtějící se trvale vystěhovati plně vyhověla svým povinnostem v oboru daní a veřejných dávek | od 200 Kčs do 15.000 Kčs.
+
   - T. Sazebník pro obor správy zahraničních věcí.
 
 - Čís. | Předmět dávky | Dávka
@@ -3332,9 +3328,9 @@
 
 - 1. | Za diplomy pro absolventy vysoké školy vojenské | 75 Kčs.
 
-- 2. | Za zařadění do náhradní zálohy podle zák. č. 53/1927 Sb. na žádost | 125 Kčs.
+- 2. | Za zařadění do náhradní zálohy podle zák. č. 53/1927 Sb. na žádost | od 100 Kčs do 1.000 Kčs (podle majetkových a sociálních poměrů žadatele).
 
-- 3. | Za propuštění přebytečných branců z činné služby vojenské na žádost | 125 Kčs.
+- 3. | Za propuštění přebytečných branců z činné služby vojenské na žádost | od 100 Kčs do 1.000 Kčs (podle majetkových a sociálních poměrů žadatele).
 
 - 4. | Za povolení vstupu do cizích vojenských služeb | 70 Kčs.
 
@@ -3350,7 +3346,7 @@
 
 - 10. | Za bezplatné zapůjčení vojenského materiálu korporacím a osobám pro účely, z nichž pro ně vyplývá nějaký zisk nebo výhoda, | od 50 Kčs do 1.000 Kčs.
 
-- 11. | Za povolení nebo prodloužení odkladu presenční služby | od 50 Kčs do 500 Kčs (podle majetkových poměrů žadatele, resp. jeho živitele).
+- 11. | Zrušená od 19. 6. 1948 |
 
   - V. Sazebník pro obor justiční správy.
 
