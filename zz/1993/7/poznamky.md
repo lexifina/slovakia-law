@@ -44,7 +44,7 @@
 
 - 18) § 2 ods. 1 písm. b) nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde.
 
-- 18) § 2 ods. 1 písm. b) nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde.
+- 18) § 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde.
 
 - 19) § 124 až 130 Zákonníka práce.
 
