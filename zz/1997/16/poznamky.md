@@ -1,1 +1,0 @@
-- 1) § 16 ods. 5 zákona č. 530/1990 Zb. o dlhopisoch v znení zákona Národnej rady Slovenskej republiky č. 58/1996 Z. z.
