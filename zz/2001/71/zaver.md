@@ -1,0 +1,1 @@
+Jozef Migaš v. r.
