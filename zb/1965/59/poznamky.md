@@ -16,16 +16,20 @@
 
 - chorobám."
 
-- 1) V zmysle čl. 9 a čl. 144 ods. 2 ústavného zákona č. 143/1968 Zb. o československej federácii vykonávajú občiansku kontrolu nad výkonom trestu v rámci svojej pôsobnosti obe národné rady svojimi orgánmi.
+- 1) § 116 Občianskeho zákonníka.
 
-- 2) Ide o splnomocnenie obsiahnuté v týchto zákonoch: zák. č. 88/1952 Zb. o materiálnom zabezpečení príslušníkov ozbrojených síl,
+- 2) § 33, § 41 ods. 2, § 165 a § 166 ods. 2 Trestného poriadku.
 
-- zák. č. 76/1959 Zb. o niektorých služobných pomeroch vojakov,
+- 3) § 135 ods. 2 písm. a), b), c), f) Zákonníka práce.
 
-- zák. č. 101/1964 Zb. o sociálnom zabezpečení,
+- 4) § 97 ods. 1 až 3 Zákonníka práce.
 
-- Zákonník práce č. 65/1965 Zb.,
+- 5) § 187, 205a a 205b Zákonníka práce.
 
-- zák. č. 20/1966 Zb. o starostlivosti o zdravie ľudu,
+- 6) § 190 až 203 Zákonníka práce.
 
-- vyhl. č. 46/1966 Zb. o opatreniach proti prenosným chorobám.
+- 7) § 204 a 205 Zákonníka práce.
+
+- 8) § 71 až 80 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 9) § 152 ods. 1 písm. a) Trestného poriadku.
