@@ -1,67 +1,57 @@
 Príloha č. 1 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 299/1995 Z. z.
 
-- ZÁSADY VÝKONU MERANIA
+- ZÁSADY VÝKONU OPRÁVNENÉHO MERANIA
 
-  - 1. Vykonávanie meraní podľa metód a metodík zodpovedajúcich súčasnému stavu techniky merania, ktoré sa vzťahujú k ustanoveným limitom znečisťovania, platných právnych predpisov a iných technických predpisov vzťahujúcich sa na ochranu ovzdušia a meranie (§ 2).
+  - 1. Vykonávať oprávnené merania podľa metód a metodík zodpovedajúcich súčasnému stavu techniky oprávneného merania, ktoré sa vzťahujú na ustanovené limity znečisťovania, podľa platných právnych predpisov a iných technických predpisov vzťahujúcich sa na ochranu ovzdušia a na oprávnené meranie (§ 2).
 
-  - 2. Oznámenie plánovaného termínu začatia merania najmenej desať pracovných dní vopred a skutočného termínu merania, ak nie je totožný s plánovaným termínom, najmenej dva pracovné dni pred jeho začatím pri meraní emisií a imisií obvodnému úradu životného prostredia, na ktorého území sa meranie vykonáva, a organizácii vykonávajúcej kontrolu správnosti výsledkov – pri meraní emisií vecne príslušnému inšpektorátu ochrany ovzdušia Slovenskej inšpekcie životného prostredia a pri meraní imisií územne príslušnej pobočke Slovenského hydrometeorologického ústavu.
+  - 2. Oznamovať predmet, účel, merané údaje a plánovaný termín začatia oprávneného merania najmenej desať pracovných dní vopred a skutočný termín oprávneného merania, ak nie je totožný s plánovaným termínom, najmenej dva pracovné dni pred jeho začatím pri meraní emisií a imisií okresnému úradu, na ktorého území sa oprávnené meranie vykonáva, a organizácii vykonávajúcej kontrolu správnosti výsledkov – pri oprávnenom meraní emisií vecne príslušnému inšpektorátu ochrany ovzdušia Slovenskej inšpekcie životného prostredia a pri oprávnenom meraní imisií územne príslušnému pracovisku Slovenského hydrometeorologického ústavu.
 
-  - 3. Na požiadanie orgánu štátnej správy ochrany ovzdušia alebo organizácie poverenej kontrolou správnosti výsledkov vysvetlenie správy z merania a súvisiacich podkladov.
+  - 3. Vysvetliť na požiadanie orgánu štátnej správy ochrany ovzdušia alebo organizácie poverenej kontrolou správnosti výsledkov správu z oprávneného merania a súvisiace podklady.
 
-  - 4. Uschovávanie správ, záznamov, materiálov a podkladov dokumentujúcich podmienky merania, pôvodné zistenia a z nich odvodené závery, výpočty a podobne počas najmenej troch rokov od odovzdania alebo doplnenia správy z merania.
+  - 4. Uschovávať správy, záznamy, materiály a podklady dokumentujúce podmienky oprávneného merania, pôvodné zistenia a z nich odvodené závery, výpočty, prehľadné tabuľky o dodržiavaní právnych predpisov vo veciach ochrany ovzdušia a normatívnych parametrov metodík oprávneného merania počas najmenej štyroch rokov od odovzdania alebo od doplnenia správy z oprávneného merania.
 
-  - 5. Zachovávanie mlčanlivosti voči tretím osobám vo veciach tvoriacich obchodné a služobné tajomstvo prevádzkovateľa zdroja znečisťovania (účastníka konania). Za tretiu stranu sa nepovažujú konajúce orgány štátnej správy ochrany ovzdušia alebo organizácie poverené kontrolou správnosti výsledkov meraní.
+  - 5. Zachovávať voči tretím stranám mlčanlivosť vo veciach tvoriacich obchodné a služobné tajomstvo prevádzkovateľa zdroja znečisťovania (účastníka konania). Za tretiu stranu sa nepovažujú konajúce orgány štátnej správy ochrany ovzdušia alebo organizácie poverené kontrolou správnosti výsledkov oprávnených meraní.
 
-  - 6. Pravidelné uskutočňovanie interných kontrol kvality výkonu meraní podľa schválenej príručky kvality alebo iného zodpovedajúceho dokumentu a vedenie dôsledných záznamov o internej kontrole kvality.
+  - 6. Vykonávať pravidelnú internú kontrolu kvality výkonu oprávnených meraní podľa schválenej príručky kvality alebo iného zodpovedajúceho dokumentu a o internej kontrole kvality viesť dôsledné záznamy.
 
-  - 7. Zúčastňovanie sa na medzilaboratórnych alebo na im zodpovedajúcich meracích porovnávacích skúškach určených ministerstvom.
+  - 7. Zúčastňovať sa na medzilaboratórnych alebo na im zodpovedajúcich porovnávacích meraniach určených ministerstvom.
 
-  - 8. Zaslanie zoznamu meraní vykonávaných podľa oprávnenia so stručným uvedením údajov o objednávateľovi, účele, predmete a čase, prehľadnej tabuľky výsledkov merania a prehľadnej tabuľky dodržiavania normatívnych parametrov podľa požiadaviek ustanovenej metodiky merania, a to jedenkrát ročne ministerstvu alebo ministerstvom určenej organizácii.
+  - 8. Zasielať raz do roka ministerstvu alebo ministerstvom určenej organizácii zoznam vykonaných oprávnených meraní so stručným uvedením údajov o objednávateľovi, účele, predmete, čase a prehľadnú tabuľku výsledkov oprávneného merania.
 
-  - 9. Preberanie záruk za dohodnutý výkon merania vo vzťahu k objednávateľovi merania podľa všeobecne platných právnych predpisov a uzavretej zmluvy.
+  - 9. Preberať záruky za dohodnutý výkon oprávneného merania vo vzťahu k objednávateľovi merania podľa všeobecne platných právnych predpisov a uzavretej zmluvy – spravidla o kontrolnej činnosti.
 
-  - 10. Umožnenie kontroly správnosti výsledkov merania; na požiadanie umožnenie kontroly merania na mieste, bezodkladné poskytovanie úplných a pravdivých informácií súvisiacich s posúdením správnosti výsledkov merania vrátane vykonania prípadných porovnávacích medzilaboratórnych skúšok alebo súvisiacich rozborov overovacích vzoriek.
+  - 10. Umožniť kontrolu správnosti výsledkov oprávneného merania; na požiadanie umožniť kontrolu oprávneného merania na mieste, bezodkladne poskytovať úplné a pravdivé informácie súvisiace s posúdením správnosti výsledkov oprávneného merania vrátane vykonania prípadných porovnávacích medzilaboratórnych skúšok alebo súvisiacich rozborov overovacích vzoriek.
 
-  - 11. Vykonávanie meraní výlučne zodpovednými osobami a ďalších činností odborne kvalifikovanými osobami tak, ako je to určené v príslušnej pracovnej príručke alebo príručke kvality.
+  - 11. Vykonávať oprávnené merania výlučne zodpovednými osobami a ďalšie činnosti odborne kvalifikovanými osobami tak, ako je to určené v príručke kvality alebo v príslušnej pracovnej príručke.
 
-  - 12. V prípadoch, ak oprávnená osoba nemá oprávnenie na úplný rozsah merania, vybrané časti merania zabezpečí iba prostredníctvom obdobne oprávnenej osoby; analytický rozbor (alebo iný obdobný rozbor, stanovenie a podobne) vzorky plynu sa môže v nevyhnutných prípadoch zabezpečiť aj prostredníctvom iného subjektu za podmienok, že
+  - 12. Vykonávať vybrané časti oprávneného merania, najmä analytický rozbor alebo iný obdobný rozbor vzorky, špecifické kvalitatívne stanovenie zloženia odpadových plynov a vonkajšieho ovzdušia v prípadoch uvedených v oprávnení (§ 7) prostredníctvom subdodávateľa s tým, že subdodávateľ
 
-    - a) tento subjekt je akreditovaný alebo autorizovaný pre danú činnosť podľa platných postupov, najmä STN EN radu 45 000,
+  - 12.1 je uvedený v príručke kvality oprávnenej osoby a zmluvné podmienky vykonávania subdodávok sú opísané do náležitých podrobností,
 
-    - b) použitá metóda a metodika je kompatibilná s postupmi štandardizovanými v Slovenskej republike, najmä technickými normami a ostatnými predpismi,
+  - 12.2 vykonáva stanovenia a rozbory podľa metodík, ktoré zodpovedajú súčasnému stavu techniky (§ 2), a v rámci overenia splnenia podmienok na udelenie oprávnenia preukáže (§ 6), že má potvrdenú a zdokumentovanú ich platnosť,
 
-    - c) oprávnená osoba v plnom rozsahu oboznámi tento subjekt so súvisiacimi okolnosťami rozhodujúcimi pre kvalifikovaný výkon kvantitatívno-kvalitatívneho stanovenia znečisťujúcich látok.
+  - 12.3 má v svojom systéme kvality zavedené podmienky na udelenie oprávnenia, doplnkové kritériá a požiadavky určené ministerstvom, zásady výkonu oprávneného merania a náležitosti protokolu z vybranej časti oprávneného merania podľa významu dotknutých ustanovení tejto vyhlášky a podľa vykonávaných vybraných častí oprávneného merania,
 
-  - 13. Nevykonanie merania, ak vo vzťahu k predmetu merania, k orgánom vykonávajúcim konanie a k účastníkom konania možno mať pochybnosť o nezaujatosti oprávnenej alebo zodpovednej osoby:
+  - 12.4 je v potrebnom rozsahu oboznámený so súvisiacimi okolnosťami rozhodujúcimi pre kvalifikovaný výkon subdodávky.
 
-    - a) Rozhodujúce pre posúdenie nezaujatosti oprávnenej osoby a zodpovednej osoby je:
+  - 13. Nevykonať oprávnené meranie, ak vo vzťahu k predmetu merania, k príslušnému orgánu ochrany ovzdušia a k účastníkom konania možno mať pochybnosť o nezaujatosti oprávnenej osoby, zodpovednej osoby alebo subdodávateľa. Rozhodujúce zásady pre posúdenie nezaujatosti oprávnenej osoby, zodpovednej osoby a subdodávateľa sú:
 
-      - 1. Vylúčenie iného priameho alebo nepriameho prospechu alebo postihu vo vzťahu k výsledku merania okrem finančnej čiastky, ktorá je primeraná vykonanej práci.
+  - 13.1 Vylúčiť iný priamy alebo nepriamy prospech alebo postih vo vzťahu k výsledku oprávneného merania okrem finančnej sumy, ktorá je primeraná vykonanej práci.
 
-      - 2. Vylúčenie merania pre vlastnú potrebu, potrebu priameho zamestnávateľa alebo pre právnickú osobu, ktorej je zamestnávateľ faktickým vlastníkom (napríklad dcérske spoločnosti), ak by sa nezaujatosť neriešila podľa postupu uvedeného v písmene b).
+  - 13.2 Nevykonávať oprávnené merania pre vlastnú potrebu a pre ostatné ekonomicky alebo personálne subjekty prepojené s oprávnenou osobou.<sup>1</sup>)
 
-      - 3. Odmeňovanie zodpovedných osôb a ďalších pracovníkov zúčastňujúcich sa na meraní nesmie závisieť od výsledkov merania.
+  - 13.3 Odmeňovanie zodpovedných osôb a ďalších zamestnancov zúčastňujúcich sa na oprávnenom meraní nesmie závisieť od výsledkov oprávneného merania.
 
-      - 4. Vylúčenie vlastníctva alebo spoluvlastníctva autorských práv vynálezov a zlepšovacích návrhov alebo iných obdobných práv na predmet merania (napríklad patentová ochrana).
+  - 13.4 Vylúčiť vlastníctvo alebo spoluvlastníctvo autorských práv vynálezov a zlepšovacích návrhov alebo iných obdobných práv k predmetu oprávneného merania, napríklad patentová ochrana.
 
-      - 5. Vylúčenie priameho príbuzenského vzťahu k osobám uvedeným v predchádzajúcich bodoch, ktoré majú vo väzbe na výsledky merania priamy prospech alebo ktoré by mohli byť na základe výsledkov meraní postihované bez ohľadu na formu postihnutia (napríklad členovia štatutárnych orgánov právnických osôb alebo fyzických osôb oprávnených na podnikanie, zodpovední pracovníci vnútornej organizačnej jednotky až po najnižšiu úroveň zodpovedného pracovníka meraného zdroja alebo výrobne vrátane smenového majstra alebo predáka).
+  - 13.5 Vylúčiť príbuzenský vzťah k osobám uvedeným v predchádzajúcich bodoch, ktoré majú vo väzbe na výsledky oprávneného merania priamy prospech alebo ktoré by mohli byť na základe výsledkov oprávnených meraní postihované bez ohľadu na formu postihnutia, napríklad členovia štatutárnych orgánov právnických osôb alebo fyzických osôb oprávnených na podnikanie, zodpovední pracovníci vnútornej organizačnej jednotky až po najnižšiu úroveň zodpovedného pracovníka meraného zdroja alebo výrobne vrátane zmenového majstra alebo predáka.
 
-      - 6. Vylúčenie priameho príbuzenského vzťahu aj k osobe konajúcej v mene orgánu ochrany ovzdušia v konkrétnom konaní.
+  - 13.6 Vylúčiť príbuzenský vzťah aj k osobe konajúcej v mene orgánu ochrany ovzdušia v konkrétnom konaní.
 
-    - b) Na posúdenie nezaujatosti oprávnenej osoby je podstatné najmä:
+  - 13.7 Vylúčiť účasť pracovníkov orgánov štátnej správy ochrany ovzdušia a pracovníkov poverených kontrolou správnosti výsledkov v štatutárnych, dozorných a kontrolných orgánoch právnickej osoby alebo ich majetkového podielu v organizácii; výnimkou je majetková účasť formou kupónovej privatizácie, ak nie je dominantná.
 
-      - 1. Vylúčenie účasti pracovníkov orgánov štátnej správy ochrany ovzdušia a pracovníkov poverených výkonom kontroly správnosti výsledkov v štatutárnych, dozorných a kontrolných orgánoch právnickej osoby alebo ich majetkového podielu v organizácii; výnimkou je majetková účasť formou kupónovej privatizácie, ak nie je dominantná.
+  - 13.8 Dôsledne preskúmať plnenie tejto zásady pred oprávneným meraním, pričom sa predpokladá, že na posúdenie možných pochybností o zaujatosti oprávnená osoba, zodpovedná osoba a subdodávateľ poznajú vec do všetkých podrobností.
 
-      - 2. Organizačná a primeraná ekonomická nezávislosť, ktorou je v prípade skúšobného laboratória, ktoré je organizačnou zložkou väčšieho celku, najmenej jeho samostatné interné účtovníctvo, možnosť priameho zmluvného konania voči tretím stranám, vylúčenie finančných a pracovnoprávnych ovplyvnení a závislosti na výsledkoch merania.
+  - 13.9 Ak by o nezaujatosti boli pochybnosti, na vylúčenie možných nejasností prerokovať konkrétny prípad s príslušným orgánom ochrany ovzdušia pred vykonaním oprávneného merania. Na naplnenie podstaty nesplnenia týchto zásad je rozhodujúci už vznik dôvodnej pochybnosti; zaujatosť a správnosť výsledku oprávneného merania sa v tomto zmysle neskôr neskúmajú a orgánom ochrany ovzdušia ani nedokazujú.
 
-    - c) Zásady riešenia zaujatosti sú:
-
-      - 1. Námietky o zaujatosti môže vzniesť každý účastník konania pred konajúcim orgánom štátnej správy ochrany ovzdušia.
-
-      - 2. Na naplnenie podstaty neplnenia tejto zásady je rozhodujúci už vznik dôvodnej pochybnosti; zaujatosť sa v uvedenom zmysle ani neskôr neskúma a ani nedokazuje orgánom štátnej správy.
-
-      - 3. Oprávnená osoba a zodpovedná osoba dôsledne preskúmajú plnenie tejto zásady pred meraním, pričom sa predpokladá, že na posúdenie možných pochybností poznajú vec do najväčších podrobností.
-
-      - 4. V prípadoch, ak by oprávnená osoba alebo zodpovedná osoba nevedeli alebo mali pochybnosti o plnení tejto zásady, je na vylúčenie možných nejasností potrebné konkrétny prípad prerokovať s konajúcim orgánom štátnej správy.
-
-      - 5. Vo výnimočných prípadoch, ak by sa niektorá zo zásad nezaujatosti podľa písmen a) alebo b) nemohla splniť, možno meranie uskutočniť len za podmienok určených konajúcim orgánom štátnej správy ochrany ovzdušia.
+  - 13.10 Vo výnimočných prípadoch, ak sa niektorá z uvedených zásad nezaujatosti nemôže splniť, možno oprávnené meranie uskutočniť len za osobitných podmienok určených príslušným orgánom ochrany ovzdušia.
