@@ -1,0 +1,1 @@
+- 1) Zákon č. 41/1957 Sb., o využití nerostného bohatství (horní zákon).
