@@ -1,4 +1,4 @@
-- 1) § 5 ods. 1 a § 6 ods. 3 písm. a) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
+- 1) § 6 ods. 3 písm. a) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
 
 - 2) Vyhláška MŠ SSR č. 119/1980 Zb. o výkone ústavnej výchovy a ochrannej výchovy v školských výchovných zariadeniach v znení vyhlášky č. 46/1982 Zb. a vyhlášky č. 56/1986 Zb.
 
@@ -18,7 +18,9 @@
 
 - 9) § 95 ods. 1 vyhlášky MZSV SSR č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon SNR o pôsobnosti orgánov Slovenskej republiky v sociálnom zabezpečení, v znení neskorších predpisov.
 
-- 10) § 3 ods. 3 písm. b) a ods. 4 písm. c) zákona SNR č. 542/1990 Zb.
+- 10) § 3 ods. 7 písm. d) a ods. 8 písm. b) zákona Slovenskej národnej rady č. 542/1990 Zb.
+
+- 10a) § 2 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 44 zákona č. 29/1984 Zb.
 
