@@ -17,3 +17,5 @@
 - 9) § 48 ods. 1 zákona č. 223/2001 Z. z.
 
 - 10) § 48 ods. 2 zákona č. 223/2001 Z. z.
+
+- 11) § 54 ods. 1 zákona č. 223/2001 Z. z. v znení zákona č. 96/2002 Z. z.
