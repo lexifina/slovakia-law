@@ -45,3 +45,5 @@
 - v) zabezpečiť zdroje ionizujúceho žiarenia proti ich odcudzeniu.
 
 (2) Držitelia povolení na činnosti dôležité z hľadiska radiačnej ochrany (§ 17f ods. 3) sú povinní dodržiavať povinnosti uvedené v odseku 1 písm. a) až f), písm. s) a t) a podmienky určené v povolení.
+
+(3) Monitorovanie podľa odseku 1 písm. h) je opakované meranie veličín, ktorými alebo pomocou ktorých sa kontroluje, sleduje a hodnotí ožiarenie osôb, a meranie rádioaktívnej kontaminácie pracovníkov so zdrojmi ionizujúceho žiarenia a pracoviska so zdrojmi ionizujúceho žiarenia.

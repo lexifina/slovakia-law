@@ -12,13 +12,15 @@
 
 - b) obsahovať toxický vodný kvet, decht, materiály a predmety, ktoré by mohli ohroziť zdravie ľudí.
 
-(5) Ak sa zistia ďalšie faktory znečistenia, príslušný orgán na ochranu zdravia nariadi ich vyšetrenie, vykonanie opatrenia na ochranu zdravia alebo zakáže používanie vody na kúpanie.
+(5) Medzné hodnoty ukazovateľov kvality vody na kúpanie sa nevzťahujú na prírodné kúpaliská v pohraničnej oblasti, ak kvalita vody na kúpanie je ovplyvnená vodami prechádzajúcimi hranice; v takých prípadoch ukazovatele kvality vody na kúpanie a ich medzné hodnoty sa určia dohodou s príslušným susedným štátom.
 
-(6) Ak voda na kúpanie nespĺňa požiadavky podľa odseku 4 alebo jej používanie bolo orgánom na ochranu zdravia zakázané, musí byť táto skutočnosť viditeľne a zreteľne uvedená v mieste, na ktoré sa vzťahuje.
+(6) Ak sa zistia ďalšie faktory znečistenia, príslušný orgán na ochranu zdravia nariadi ich vyšetrenie, vykonanie opatrenia na ochranu zdravia alebo zakáže používanie vody na kúpanie.
 
-(7) Na prírodnom kúpalisku musí byť vyhradená vodná plocha na kúpanie. Ak má prírodné kúpalisko vodnú plochu menšiu ako 200 ha, motorové plavidlá sa môžu používať iba na účely záchrannej služby. Na prírodných kúpaliskách s vodnou plochou väčšou ako 200 ha musí byť na používanie plavidiel vyhradená vodná plocha, oddelená od vodnej plochy vyhradenej na kúpanie.
+(7) Ak voda na kúpanie nespĺňa požiadavky podľa odseku 4 alebo jej používanie bolo orgánom na ochranu zdravia zakázané, musí byť táto skutočnosť viditeľne a zreteľne uvedená v mieste, na ktoré sa vzťahuje.
 
-(8) Prevádzkovateľ kúpaliska je povinný
+(8) Na prírodnom kúpalisku musí byť vyhradená vodná plocha na kúpanie. Ak má prírodné kúpalisko vodnú plochu menšiu ako 200 ha, motorové plavidlá sa môžu používať iba na účely záchrannej služby. Na prírodných kúpaliskách s vodnou plochou väčšou ako 200 ha musí byť na používanie plavidiel vyhradená vodná plocha, oddelená od vodnej plochy vyhradenej na kúpanie.
+
+(9) Prevádzkovateľ kúpaliska je povinný
 
 - a) zabezpečiť, aby voda na kúpanie neprekračovala medzné hodnoty ukazovateľov kvality vody na kúpanie,
 
@@ -32,7 +34,7 @@
 
 - f) viesť evidenciu o výsledkoch kontroly kvality vody na kúpanie a uchovávať ju päť rokov.
 
-(9) Prevádzkovateľ umelého kúpaliska je ďalej povinný zabezpečiť
+(10) Prevádzkovateľ umelého kúpaliska je ďalej povinný zabezpečiť
 
 - a) úpravu, výmenu a kontrolu vody v bazénoch a zabezpečiť jej recirkuláciu pri prevádzkovaní bazénu s recirkuláciou vody,
 
@@ -44,7 +46,7 @@
 
 - e) miestnosť na poskytovanie prvej pomoci a na jej prevádzku, na viditeľných miestach vyvesiť pokyny na poskytovanie prvej pomoci a zabezpečiť dostatočný počet plavčíkov na poskytovanie prvej pomoci.
 
-(10) Všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva, ustanoví
+(11) Všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva, ustanoví
 
 - a) ukazovatele kvality vody na kúpanie a ich medzné hodnoty,
 

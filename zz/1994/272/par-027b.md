@@ -26,10 +26,8 @@
 
 (4) Ministerstvo zdravotníctva vydá na činnosť uvedenú v § 27a povolenie právnickej osobe, ak má
 
-- a) v doklade o zriadení alebo založení právnickej osoby uvedenú činnosť, na ktorú žiada vydať povolenie,
+- a) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie, alebo autorizáciu na úradné meranie podľa osobitných predpisov,<sup>10a</sup>)
 
-- b) má osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie, alebo autorizáciu na úradné meranie podľa osobitných predpisov,<sup>10a</sup>)
-
-- c) určeného odborného zástupcu.
+- b) určeného odborného zástupcu.
 
 (5) Odborný zástupca musí spĺňať podmienky ustanovené v odseku 2 písm. a) až e) a musí byť v pracovnom pomere alebo v obdobnom pracovnom vzťahu k držiteľovi povolenia. Odborný zástupca zodpovedá za odborné vykonávanie činnosti, na ktorú bolo povolenie vydané.

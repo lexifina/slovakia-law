@@ -40,7 +40,9 @@
 
 - 6an) § 3 ods. 1 písm. g) a i) zákona č. 163/2001 Z. z.
 
-- 6ao) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+- 6ao) § 2 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6ap) § 2 písm. d) zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 6b) Vyhláška Ministerstva vnútra Slovenskej republiky č. 173/1995 Z. z. o zabezpečovaní záchranných, lokalizačných a likvidačných prác v znení vyhlášky Ministerstva vnútra Slovenskej republiky č. 383/1998 Z. z.
 
@@ -66,11 +68,13 @@
 
 - 7) Napr. zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia, zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni.
 
-- 7a) § 3 ods. 1 písm. f) a g) zákona č. 163/2001 Z. z.
+- 7b) § 3 ods. 1 písm. f) a g) zákona č. 163/2001 Z. z.
 
 - 8) Napr. zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
-- 9) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+- 9) § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení zákona č. 23/2002 Z. z.
+
+- 9a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
 - 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 

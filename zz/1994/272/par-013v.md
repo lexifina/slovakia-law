@@ -30,7 +30,7 @@
 
 - j) vopred oznámiť príslušnému orgánu na ochranu zdravia prvé použitie biologického faktora najmenej 30 dní pred začiatkom práce a každé použitie ďalšieho biologického faktora alebo nového druhu biologického faktora v rozsahu ustanovenom všeobecne záväzným právnym predpisom (odsek 6).
 
-(4) Použitie biologických faktorov musí byť schválené príslušným orgánom na ochranu zdravia; schváleniu podlieha aj každá zmena použitia biologického faktora [§ 27 ods. 2 písm. k)].
+(4) Použitie biologických faktorov musí byť schválené príslušným orgánom na ochranu zdravia; schváleniu podlieha aj každá zmena použitia biologického faktora [§ 27 ods. 2 písm. j)].
 
 (5) Ak výsledky posúdenia rizika podľa odseku 1 preukážu, že vystavenie alebo možné vystavenie zamestnancov biologickému faktoru zaradenému do prvej skupiny nepredstavuje riziko pre zdravie zamestnancov, ustanovenia odsekov 2 až 4 sa neuplatnia.
 

@@ -30,10 +30,6 @@
 
 - b) skončené úplné stredné odborné alebo vyššie odborné vzdelanie na strednej zdravotníckej škole a najmenej sedemročná odborná prax.
 
-(5) Orgán na ochranu zdravia príslušný na vydanie povolenia podľa § 17f ods. 2 až 4 vydá povolenie právnickej osobe, ak má
-
-- a) v doklade o zriadení alebo založení právnickej osoby uvedenú činnosť, na ktorú žiada vydať povolenie,
-
-- b) určeného odborného zástupcu.
+(5) Orgán na ochranu zdravia príslušný na vydanie povolenia podľa § 17f ods. 2 až 4 vydá povolenie právnickej osobe, ak má určeného odborného zástupcu.
 
 (6) Odborný zástupca musí spĺňať podmienky ustanovené v odseku 2 a musí byť v pracovnom pomere alebo v obdobnom pracovnom vzťahu k držiteľovi povolenia. Odborný zástupca zodpovedá za zabezpečenie radiačnej ochrany.
