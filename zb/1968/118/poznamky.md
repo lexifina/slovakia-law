@@ -1,0 +1,1 @@
+- *) Hodinové tarify sú uvedené pre 44 hod. pracovný týždeň. Pri skracovaní pracovného času sa použijú tarify ustanovené príslušnými predpismi pre skracovanie pracovného času a pre úpravu pracovných a prevádzkových režimov.
