@@ -1,1 +1,0 @@
-- 1) Položka 111a bod 2 prílohy k zákonu č. 1/1998 Z. z., ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
