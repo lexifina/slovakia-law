@@ -206,6 +206,8 @@ Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 71 účinnosť dňa 1. júla 19
 
 Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 74 účinnosť dňa 1. júla 1951. | | | | |
 
+Podľa predpisu č. 34/1958 Zb. v pol. 74 z výkonných orgánov krajských národných výborov sa prenáša pôsobnosť na výkonné orgány okresných národných výborov. | | | | |
+
 75 | Ministerstva sociálnej starostlivosti a Ministerstva priemyslu | záruk | zák. č. 87/1922 Sb. vl. nar. č. 150/1922 Sb. | | Záruky za pôžičky výrobným a pracovným družstvám robotníckym.
 
 76 | Ministerstva sociálnej starostlivosti | úpravy | zák. č. 91/1918 Sb. | § 1, ods. 5 | Povoľovanie inej úpravy pracovnej pracovnej doby, než je doby uvedená v § 1, ods. 1, pre jednotlivé skupiny podnikov v obvode kraja.
@@ -600,6 +602,8 @@ Podľa predpisu č. 122/1951 Zb. v pol. 199 sa prenáša na okresné národné v
 
 266 | | | | § 14 | Povoľovaniea) zmien hospodárskych celkov,b) ťažieb dreva presahujúcich prípustnú hornú hranicu,c) odchýlok od lesných hospodárskych plánov,d) zmeny doby porubnej,e) lehoty na obnovu a revíziu lesných hospodárskych plánov, aknejde v prípadoch uvedených pod písm. a) až e) o lesy spravovanévojenskou správou.
 
+Podľa predpisu č. 34/1958 Zb. v pol. 266 z výkonných orgánov krajských národných výborov sa prenáša pôsobnosť na výkonné orgány okresných národných výborov. | | | | |
+
 267 | | | vyhl. predsedu vlády č. 295/1939 Sb. | § 9 | Rozhodovanie o odvolaní proti uloženiu poriadkovej pokuty predsedom Trhového sdruženia.
 
 268 | | | zák. č. 206/1948 Sb. | § 10 | Určovanie pozemkov konfiškovaných a pozemkov prevzatých alebo vykúpených v pozemkovej reforme na zalesnenie podľa zásad asmerníc Ministerstva pôdohospodárstva.
@@ -705,6 +709,8 @@ Podľa predpisu č. 122/1951 Zb. v pol. 290 sa prenáša na okresné národné v
 316 | Min. techniky a Min. sociál. starostlivost | | | §§ 19 až 25 | Všetka pôsobnosť vo veciach štátnej podpory na obnovu i priznaná v uvedených ustanoveniach zákona ústredným úradom.
 
 Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 316 účinnosť dňa 1. júla 1951. | | | | |
+
+Podľa predpisu č. 34/1958 Zb. v pol. 316 z výkonných orgánov krajských národných výborov sa prenáša pôsobnosť na výkonné orgány okresných národných výborov. | | | | |
 
 317 | Ministerstva techniky | civilných technikov | vl. nar. č. 180/1946 Sb. | § 1 | Odpúšťanie časti času praktického zamestnania predpísaného pre dosiahnutie oprávnenia civilného technika a pre povolenie na výkon predpísanej skúšky.
 
