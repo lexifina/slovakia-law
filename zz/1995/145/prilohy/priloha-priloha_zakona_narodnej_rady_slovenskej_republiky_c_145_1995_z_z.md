@@ -2030,27 +2030,33 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 148
 
-  - a) Vydanie živnostenského listu .............................................................................................................. | 1 000 Sk
+  - a) Vydanie živnostenského listu .................................................................................................................................. | 1 000 Sk
 
-  - b) Vydanie koncesnej listiny ..................................................................................................................... | 2 000 Sk
+  - b) Vydanie koncesnej listiny ......................................................................................................................................... | 2 000 Sk
 
-  - c) Žiadosť o nahliadnutie do živnostenského registra, za jedného podnikateľa ........................... | 50 Sk
+  - c) Žiadosť o nahliadnutie do živnostenského registra, za jedného podnikateľa ............................................... | 50 Sk
 
-  - d) Výpis zo živnostenského registra, za jedného podnikateľa .......................................................... | 100 Sk
+  - d) Výpis zo živnostenského registra, za jedného podnikateľa ............................................................................... | 100 Sk
 
-  - e) Vydanie náhradného živnostenského listu alebo koncesnej listiny náhradou za stratený, zničený, poškodený alebo odcudzený list alebo listinu ...................................................................... | 300 Sk
+  - e) Vydanie náhradného živnostenského listu alebo koncesnej listiny náhradou za stratený, zničený, poškodený alebo odcudzený list alebo listinu ........................................................................................... | 300 Sk
 
-  - f) Vydanie povolenia na vykonávanie funkcie zodpovedného zástupcu vo viac ako jednej prevádzkarni ................................................................................................................................................ | 200 Sk
+  - f) Vydanie povolenia na vykonávanie funkcie zodpovedného zástupcu vo viac ako jednej prevádzkarni ..................................................................................................................................................................... | 200 Sk
 
-  - g) Autorizácia inšpekčnej knihy ............................................................................................................... | 50 Sk
+  - g) Autorizácia inšpekčnej knihy .................................................................................................................................... | 50 Sk
 
-  - h) Za vykonanie zmien v živnostenskom liste a zmien v koncesnej listine ..................................... | 100 Sk
+  - h) Za vykonanie zmien v živnostenskom liste a zmien v koncesnej listine .......................................................... | 100 Sk
 
-  - i) Zrušenie živnostenského oprávnenia na jednu alebo viac živností .............................................. | 150 Sk
+  - i) Zrušenie živnostenského oprávnenia na jednu alebo viac živností ................................................................... | 150 Sk
 
-  - j) Žiadosť o pozastavenie prevádzkovania živnosti .............................................................................. | 200 Sk
+  - j) Žiadosť o pozastavenie prevádzkovania živnosti alebo o zmenu pozastavenia prevádzkovania živnosti ... | 200 Sk
 
-  - k) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa osobitného predpisu<sup>33</sup>) ............................................................................................................................ | 200 Sk
+  - k) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa osobitného predpisu<sup>33</sup>) ................................................................................................................................................. | 200 Sk
+
+  - l) Vydanie potvrdenia o povahe a dĺžke praxe v činnostiach, ktoré sú živnosťou ................................................ | 200 Sk
+
+  - m) Žiadosť o uznanie odbornej spôsobilosti občanov členských štátov Európskej únie na účely prevádzkovania živnosti v Slovenskej republike ........................................................................................ | 3 000 Sk
+
+  - n) Vydanie potvrdenia o tom, že v živnostenskom registri nie je zápis .................................................................. | 100 Sk
 
   - Poznámky 1. Na poplatok podľa písmena h) nemá vplyv počet živnostenských listov a počet koncesných listín, na ktorých sa zmena vyznačí, ani počet súčasne vyznačených zmien. 2. Za zmenu adresy bydliska, miesta podnikania alebo sídla vyznačenú v dôsledku premenovania názvov obcí a ulíc, alebo zmenu dokladov o živnostenskom oprávnení a údajov v nich uvedených vyplývajúcu z právnych zmien podmienok živnostenského podnikania sa poplatok nevyberie. |
 
