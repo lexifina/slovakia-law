@@ -1,3 +1,0 @@
-Minister:
-
-Brabec v. r.
