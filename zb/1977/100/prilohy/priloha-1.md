@@ -1,7 +1,7 @@
-[Príloha 01](../assets/3cce06e2dbf08e37ec74a56c01e69762022ddd755d452311a5079222c641411a.pdf)
+[Príloha 01](../assets/692a43e56495befa673fc3c523e424b07f6783a537fc6cfd9fb3b46a355dde1a.pdf)
 
 Príloha č. 1
 
 Sídla orgánov štátnej správy lesného hospodárstva a poľovníctva
 
-[Príloha 01](../assets/af333dc7e4b1f7e9a55f1687728679f59c9648d7be4ed29c84fc613b3c25c936.pdf)
+[Príloha 01](../assets/3b4fba81635bb9e0fff826306947e7e4f225802dfe15a564e9644b7a8cf980b6.pdf)
