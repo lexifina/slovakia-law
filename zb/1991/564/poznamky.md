@@ -18,6 +18,8 @@
 
 - 10) § 116 Občianskeho zákonníka.
 
+- 10a) Napr. zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+
 - 11) § 15 zákona SNR č. 372/1990 Zb.
 
 - 12) § 16 zákona SNR č. 372/1990 Zb.
