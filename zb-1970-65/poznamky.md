@@ -1,0 +1,1 @@
+- *) Průkazem je ve smyslu zvláštních dohod mezinárodní karta automobilního pojištění nebo jiný doklad.
