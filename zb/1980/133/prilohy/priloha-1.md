@@ -298,7 +298,7 @@
 
         - (v) skúma a schvaľuje správy a činnosť svojho Výkonného výboru a dáva tomuto výboru inštrukcie;
 
-        - (vi) určuje program, prijíma trojročný<sup>2</sup>) rozpočet Únie a schvaľuje jej záverečné účty;
+        - (vi) určuje program, prijíma dvojročný<sup>2</sup>) rozpočet Únie a schvaľuje jej záverečné účty;
 
         - (vii) uznáša sa o finančnom poriadku Únie;
 
@@ -334,7 +334,7 @@
 
     - (4)
 
-      - a) Zhromaždenie sa schádza na riadne zasadanie, ktoré zvoláva generálny riaditeľ raz v každom treťom<sup>2</sup>) kalendárnom roku, a to, ak nejde o výnimočné okolnosti, na ten istý čas a na to isté miesto ako Valné zhromaždenie Organizácie.
+      - a) Zhromaždenie sa schádza na riadne zasadanie, ktoré zvoláva generálny riaditeľ raz v každom druhom<sup>2</sup>) kalendárnom roku, a to, ak nejde o výnimočné okolnosti, na ten istý čas a na to isté miesto ako Valné zhromaždenie Organizácie.
 
       - b) Zhromaždenie sa schádza na mimoriadne zasadanie, ktoré zvoláva generálny riaditeľ na žiadosť Výkonného výboru alebo na žiadosť jednej štvrtiny členských štátov Zhromaždenia.
 
@@ -370,9 +370,7 @@
 
         - (i) pripravuje návrh programu rokovania Zhromaždenia;
 
-        - (ii) predkladá Zhromaždeniu námety k návrhu programu a trojročného<sup>2</sup>) rozpočtu Únie pripravenému generálnym riaditeľom;
-
-        - (iii) schvaľuje v rámci programu a trojročného rozpočtu ročné rozpočty a programy pripravené generálnym riaditeľom;<sup>3</sup>)
+        - (ii) predkladá Zhromaždeniu námety k návrhu programu a dvojročného<sup>2</sup>) rozpočtu Únie pripravenému generálnym riaditeľom;
 
         - (iv) predkladá Zhromaždeniu s príslušným vyjadrením periodické správy generálneho riaditeľa a revidované ročné účtovné správy;
 
