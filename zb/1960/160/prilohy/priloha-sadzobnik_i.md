@@ -46,9 +46,13 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 | Poznámka 1. Podľa zásady vzájomnosti možno od vybratia poplatku upustiť, príp. so súhlasom Ministerstva financií poplatok primerane zvýšiť. | | | | |
 
-8. | Udelenie náhradného vstupného alebo precestovacieho víza orgánmi pasovej kontroly | | | | | 40,-
+8. | Udelenie náhradného víza orgánmi pasovej kontroly | | | | |
 
-| Poznámka 1. Podľa zásady vzájomnosti možno od vybratia poplatku upustiť, príp. so súhlasom Ministerstva financií poplatok primerane zvýšiť. | | | | |
+| a) vstupného | | | | | 60,-
+
+| b) precestovacieho | | | | | 40,-
+
+| Poznámka Podľa zásady vzájomnosti možno poplatok znížiť, príp. od jeho vybratia upustiť alebo so súhlasom Ministerstva financií poplatok primerane zvýšiť. | | | | |
 
 9. | Vydanie osvedčenia pre prechod hraníc v malom pohraničnom styku | | | | | 5,-
 
@@ -102,13 +106,13 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 16. | Schválenie technickej spôsobilosti motorového vozidla zostaveného súkromným výrobcom (aj amatérsky) zo súčiastok, a to ak ide o | | | | |
 
-| a) jednostopové vozidlá s obsahom valcov do 50 ccm | | | | | 300,-
+| a) jednostopové vozidlá s obsahom valcov do 50 ccm | | | | | 500,-
 
-| b) ostatné jednostopové vozidlá (vrátane motocyklov s prívesným alebo postranným vozíkom a motorových trojkoliek - ríkš) | | | | | 1500,-
+| b) ostatné jednostopové vozidlá (vrátane motocyklov s prívesným alebo postranným vozíkom a motorových trojkoliek - ríkš) | | | | | 2 000,-
 
-| c) dvojstopové vozidlá (vrátane tzv. autíčok) | | | | | 3000,-
+| c) dvojstopové vozidlá (vrátane tzv. autíčok) | | | | | 8 000,-
 
-| Poznámky 1. V poplatku je zahrnutý i poplatok za skúšku na schválenie technickej spôsobilosti, za vydanie technického preukazu a osvedčenia o technickom preukaze pre motorové vozidlo. 2. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. b) o 50 %, podľa písm. c) o 30 %. 3. Ak sa vo výnimočných prípadoch dodatočne povolí stavba motorového vozidla, ktoré bolo zostavené bez predchádzajúceho povolenia príslušných orgánov, vyberie sa poplatok sadzbou zvýšenou o 30 %. | | | | |
+| Poznámky 1. V poplatku je zahrnutý i poplatok za skúšku na schválenie technickej spôsobilosti, za vydanie technického preukazu a osvedčenie o technickom preukaze pre motorové vozidlo. 2. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. b) a c) o 50 %. 3. Ak sa vo výnimočných prípadoch dodatočne povolí stavba motorového vozidla, ktoré bolo zostavené bez predchádzajúceho povolenia príslušných orgánov, vyberie sa poplatok sadzbou zvýšenou o 30 %. | | | | |
 
 17. | Schválenie technickej spôsobilosti motorového vozidla alebo prívesu po zmene jeho podstatnej časti, ak sa použili časti iného typu, ako boli pôvodné | | | | |
 
@@ -167,6 +171,14 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 | b) Vydanie štátnej poznávacej značky v prípadoch, na ktoré sa nevzťahuje pol. 19 písm. a), vydanie medzinárodnej alebo zvláštnej poznávacej značky, zápis zmeny stanovišťa motorového vozidla, zmeny mena, povolania alebo adresy držiteľa motorového vozidla a iné podobné zmeny i s vydaním príslušných dokladov alebo vykonaní opráv v nich | | | | | 10,-
 
 | Poznámky 1. Poplatok podľa písmena a) sa vyberie, len ak držiteľ prihlasuje nový osobný automobil kúpený od výrobcu (dovezený z cudziny) do evidencie. Inak sa vyberá poplatok podľa písmena b), a to za každú tabuľku štátnej poznávacej značky. 2. Ak bol vyrubený poplatok podľa pol. 16, 17 alebo 18, nevyrubí sa už poplatok podľa tejto položky. | | | | |
+
+19a. | Za povolenie individuálneho výcviku vodičov motorových vozidiel | | | | |
+
+| a) jednostopových | | | | | 150,-
+
+| b) dvojstopových | | | | | 300,-
+
+| Poznámka Správny orgán môže poplatok znížiť, príp. od jeho vybratia upustiť, ak povoľuje individuálny výcvik vodičov-invalidov, ktorí v dôsledku svojej invalidity potrebujú osobitnú úpravu motorového vozidla. | | | | |
 
 20. | Vydanie medzinárodného preukazu (osvedčenia) pre motorové vozidlá | | | | | 100,-
 
@@ -244,21 +256,57 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 | ÚKONY VETERINÁRNEJ SLUŽBY | | | | |
 
-| Poznámky spoločné pre poplatky za úkony veterinárnej služby (pol. 30 až 34). 1. Poplatky sa vymeriavajú po vykonaní úkonov. Na poplatok musí sa vždy vydať riadny platobný výmer, ktorého prijatie poplatník potvrdí. Poplatky sú splatné ihneď po doručení platobného výmeru. Platia sa do rúk veterinára, ktorý je povinný požadovať okamžité zaplatenie. 2. Ak tomu všeobecný záujem nebráni, nevydá sa doklad o úkone (osvedčenie, písomný posudok a pod.), dokiaľ poplatník nezaplatí poplatok. 3. Od poplatkov podľa pol. 30 až 34 sú oslobodené fyzické osoby, ktoré vykonávajú poľnohospodársku výrobu podrobenú pôdohospodárskej dani, a to aj keď sú od platenia tejto dane oslobodené. | | | | |
+30. | Veterinárna prehliadka zvierat určených na prevoz, zvierat dovezených cudzími chovateľmi na výstavy a na iné účely, a to | | | | |
 
-30. | Porada bez vyšetrenia zvieraťa ústna aj s prípadným napísaním receptu | | | | | 10,-
+| a) veľkých zvierat, zveri srstnatej a čiernej a iných zvierat ďalej neuvedených za zásielku do 10 kusov | | | | | 20,-
 
-31. | Bežné vyšetrenie zvieraťa aj s vydaním vysvedčenia a napísania receptu | | | | | 20,-
+| za každý ďalší kus | | | | | 1,-
 
-32. | Podrobné a zvláštne vyšetrenie zvieraťa vrátane vydania receptu a nálezu | | | | | 40,-
+| b) psov, za zásielku do 3 kusov | | | | | 20,-
 
-33. | Za osobitné úkony, ošetrenia a operačné zákroky sa vyberajú poplatky vo výške náhrad určených pre úkony vo veterinárnych ústavoch a zariadeniach podľa oddielu VI vyhlášky Ministerstva pôdohospodárstva č. 141/1951 Ú. l. (č. 168/51 Ú. v.), ktorou sa vykonávajú niektoré ustanovenia zákona o zdokonalení živočíšnej výroby. | | | | |
+| za každý ďalší kus | | | | | 4,-
 
-| Poznámky spoločné pre položky 30 až 33. 1. Ak sa úkony vykonávajú v mieste pracoviska veterinára, ale mimo pracoviska, vyberajú sa poplatky dvojnásobkom sadzby. 2. Za úkony mimo miesta pracoviska veterinára vyberajú sa poplatky štvornásobkom sadzby. 3. Popri poplatkoch je poplatník povinný zaplatiť skutočnú obstarávaciu cenu liečív, očkovacích látok a iného zdravotníckeho materiálu použitého alebo dodaného pri úkone, s výnimkou materiálu potrebného na dezinfekciu. Tieto náhrady neplatia organizácie a osoby oslobodené od správnych poplatkov. 4. Náhrady za cestovné výdavky, ani iné než v poznámke 3 uvedené výdavky sa popri poplatku nevyberajú. 5. Za vyžiadaný úkon, ktorý veterinár nemohol po príchode na miesto vykonať vinou žiadateľa, vyberie sa poplatok 50,- Kčs. 6. Podrobný popis úkonov zodpovedajúcich pojmu bežného, podrobného a zvláštneho vyšetrenia vydá Ministerstvo poľnohospodárstva, lesného a vodného hospodárstva. | | | | |
+| c) iných malých zvierat, za zásielku do 20 kusov | | | | | 20,-
 
-34. | Veterinárno-zdravotná prehliadka jatočných zvierat a mäsa ošípaných, ovcí a kôz na bitúnkoch | | | | | 5,-
+| za každý ďalší kus | | | | | 0,60
 
-| Poznámky 1. Za prehliadku mimo bitúnka sa vyberá poplatok dvojnásobkom, ak sa koná prehliadka v mieste pracoviska veterinára, štvornásobkom mimo miesta pracoviska veterinára. 2. Poplatok podľa tejto položky sa nevyberá za veterinárno-zdravotnú prehliadku pri domácich zakáľačkách ošípaných, za povolenie ktorých sa vybral poplatok podľa pol. 26. | | | | |
+| d) odstavčiat, jahniat, kozliat, za zásielku do 50 kusov | | | | | 20,-
+
+| za každý ďalší kus | | | | | 0,40
+
+| e) hydiny, pernatej zveri a holubov, za zásielku do 10 kusov | | | | | 20,-
+
+| za každý ďalší kus | | | | | 0,20
+
+| Poznámky 1. Za zásielku sa vyberie poplatok najviac v sume 100,- Kčs. 2. Ak majú zvieratá dovezené cudzími chovateľmi na výstavy a na iné účely veterinárny preukaz o zdravotnej nezávadnosti vydaný v cudzine a zodpovedajúci platným medzinárodným predpisom, možno od vybratia poplatku upustiť, ak je zaručená vzájomnosť. 3. Správny orgán môže so súhlasom Ministerstva financií určiť poplatok na základe vzájomnosti vo výške, v akej vyberá obdobný poplatok štát, ktorého občanom je poplatník, prípadne od vybratia poplatku upustiť. | | | | |
+
+31. | Veterinárny zdravotný dozor mimo vstupnej stanice pri kŕmení a napájaní zvierat určených na prevoz, a to | | | | |
+
+| a) veľkých zvierat, za kus | | | | | 2,-
+
+| b) malých zvierat, za kus | | | | | 1,-
+
+| c) drobných zvierat, za každý železničný vozeň alebo auto | | | | | 10,-
+
+| Poznámka Za celú zásielku sa vyberie najviac 100,- Kčs. | | | | |
+
+32. | Vyšetrenie a pitva zvierat, ktoré pri prevoze počas dopravy uhynú alebo boli zabité, a to | | | | |
+
+| a) veľkých zvierat, za kus | | | | | 60,-
+
+| b) malých zvierat, za kus | | | | | 30,-
+
+| c) drobných zvierat, bez ohľadu na počet vyšetrovaných a pitvaných kusov, za zásielku | | | | | 10,-
+
+33. | Veterinárny zdravotný dozor a prehliadka potravín a surovín živočíšneho pôvodu, pokiaľ je prehliadka podľa platných predpisov nariadená | | | | |
+
+| a) za každú vozňovú (vagónovú) zásielku | | | | | 40,-
+
+| b) za každú kusovú zásielku do 100 kg | | | | | 10,-
+
+| nad 100 kg | | | | | 20,-
+
+34. | Zrušená od 1. 2. 1964. | | | | | 5,-
 
 | Oddiel H | | | | |
 
@@ -274,7 +322,7 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 | Poznámky 1. Poplatok sa nevyberá za povolenie na vývoz predmetov z drahých kovov, drahokamov a perál, ktorých hodnota nepresahuje 100,- Kčs. 2. Podľa zásady vzájomnosti alebo z dôvodu všeobecného záujmu možno od vybratia poplatku podľa tejto položky upustiť alebo ho znížiť, príp. poplatok vyberať až vo výške dvojnásobku alebo vo výške, v akej vyberá poplatok štát, ktorého je žiadateľ príslušníkom. | | | | |
 
-37. | Povolenie podľa zákona o devízovom hospodárstve s výnimkou povolenia podľa pol. 36, z ceny | | | | | 1 % až 25 %
+37. | Povolenie podľa zákona o devízovom hospodárstve s výnimkou povolení podľa pol. 36, z ceny | | | | | 1 % až 100 %
 
 | Poznámka Poznámka č. 2 k položke 36 platí tu obdobne. | | | | |
 
@@ -288,21 +336,29 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 | Poznámka spoločná pre celý oddiel. Poplatky podľa tohto oddielu vyberajú len Ministerstvo zahraničných vecí a čs. zastupiteľské úrady, ak jednotlivé položky (a poznámky k nim) neurčujú inak. | | | | |
 
-39. | Vydanie národného cestovného pasu alebo cestovného preukazu totožnosti pre cestu do cudziny | | | | | 50,- až 100,-
+39. | Vydanie cestovného pasu alebo iného preukazu totožnosti pre cestu do cudziny | | | | | 20,- až 400,-
 
-| Poznámky 1. Ako cestovné pasy sa posudzujú aj námornícke knižky, dočasné námornícke preukazy a plavecké knižky, ak pri ceste do cudziny nahradzujú cestovný pas. 2. Poplatok sa platí vopred pri podaní žiadosti o pas bez zreteľa na výsledok žiadosti. Ak sa žiadosti nevyhovie, poplatok sa nevráti. 3. Za vydanie zájazdovej súpisky sa vyberá poplatok vo výške 10,- Kčs za každú osobu v súpiske uvedenú (s výnimkou detí do 15 rokov); ustanovenie poznámky č. 1 platí aj tu. 4. Za vydanie cestovného pasu za účelom vysťahovania možno poplatok zvýšiť podľa dôvodov vysťahovania a majetkových pomerov žiadateľa až na päťdesiatnásobok sadzby. 5. Diplomatické a zvláštne (služobné) pasy a doklady nahradzujúce služobné pasy sú od poplatku oslobodené. | | | | |
+| Poznámky 1. Poplatok sa platí vopred pri podaní žiadosti o pas. 2. Pri vydávaní hromadných cestovných dokladov sa vyberá poplatok za každú osobu uvedenú v hromadnom cestovnom doklade. 3. Poplatok sa nevyberá za deti do 15 rokov - s výnimkou prípadov, že sa vydáva i pre ne samostatný cestovný pas (doklad). 4. Za vydanie cestovného pasu na účely vysťahovania možno poplatok zvýšiť podľa dôvodov vysťahovania a majetkových pomerov žiadateľa až na pätnásťnásobok sadzby. 5. Diplomatické a služobné pasy a doklady nahradzujúce služobné pasy sú od poplatku oslobodené. | | | | |
 
 40. | Predĺženie alebo rozšírenie platnosti cestovného pasu | | | | | 30,-
 
 | Poznámka Od poplatku je oslobodené predĺženie alebo rozšírenie platnosti cestovného pasu a dokladov nahradzujúcich cestovný pas pre čs. zamestnancov, ktorí sú v cudzine zo služobných dôvodov a pre ich rodiny. | | | | |
 
-41. | Vidovanie cestovného pasu (vstupné, precestovacie alebo návratné vízum alebo časove obmedzené) | | | | | 20,-
+41. | Vidovanie cestovného pasu | | | | |
 
-| Poznámky 1. Podľa tejto položky sa vyberie aj poplatok za udelenie spätného víza cudzím štátnym príslušníkom žijúcim trvale v ČSSR, ktorí chcú dočasne odcestovať. 2. Ministerstvo zahraničných vecí môže určiť poplatok na základe vzájomnosti vo výške, v akej vyberá poplatok štát, ktorého štátnym príslušníkom je držiteľ pasu. 3. Od poplatku sú oslobodené a) diplomatické a zvláštne víza (služobné), b) víza na čs. cestovné pasy osobám vracajúcim sa do ČSSR, c) víza udelené významným osobám. | | | | |
+| a) vstupné vízum, spätné vízum, návratné vízum jednorazové | | | | | 30,-
+
+| b) návratné vízum trvalé - s obmedzeným počtom ciest | | | | | 60,-
+
+| c) návratné vízum trvalé - bez obmedzenia počtu ciest | | | | | 120,-
+
+| d) precestovacie vízum, turistické vízum alebo vízum na kúpeľný pobyt v ČSSR | | | | | 20,-
+
+| Poznámky 1. Poplatok za turistické vízum alebo za vízum na kúpeľný pobyt v ČSSR sa vyberá pri zakúpení služieb v devízach. 2. Ministerstvo zahraničných vecí môže určiť poplatok na základe vzájomnosti vo výške, v akej vyberá poplatok štát, ktorého je občanom držiteľ pasu, príp. poplatok znížiť alebo odpustiť. 3. Od poplatku sú oslobodené a) diplomatické a zvláštne víza, b) vidovania čs. pasov osôb, ktoré majú trvalé bydlisko v cudzine, na cestu do ČSSR, c) víza udelené významným osobám. | | | | |
 
 42. | Konanie o podaniach na zastupiteľských úradoch, ak nie je za úkony podaním vyvolané uložený osobitný poplatok | | | | | 20,-
 
-| Poznámky 1. Podľa obťažnosti prípadu možno poplatok vybrať násobkom základnej sadzby, najviac však vo výške 200,- Kčs. 2. Poplatok základnou sadzbou 20,- Kčs sa vyberie, aj keď žiadaný úkon bol bezvýsledný. | | | | |
+| Poznámky 1. Podľa obťažnosti prípadu možno poplatok vybrať násobkom základnej sadzby, najviac však vo výške 500,- Kčs. 2. Poplatok základnou sadzbou 20,- Kčs sa vyberie, aj keď žiadaný úkon bol bezvýsledný. | | | | |
 
 43. | Vybratie pohľadávky, renty a pod., s výnimkou požitkov zo sociálneho zabezpečenia, alebo úhrn úkonov v konaní o dedičstvo (vrátane intervencie u príslušných orgánov, vymáhanie priamo zastupiteľským úradom a doručenie) z vybratej sumy (ceny) alebo z čistej hodnoty dedičstva | | | | | 2 % najmenej však 30,-
 
