@@ -96,6 +96,8 @@
 
 - 20b) Výmer Ministerstva financií Slovenskej republiky z 12. marca 1996 č. R-1/1996, ktorým sa určuje rozsah tovaru s regulovanými cenami (oznámenie č. 89/1996 Z. z.) v znení neskorších predpisov.
 
+- 20c) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
 - 21) § 659 a nasl. Občianskeho zákonníka.
 
 - 21a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
@@ -104,7 +106,7 @@
 
 - 23) § 151a a nasl. Občianskeho zákonníka.
 
-- 23a) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+- 23a) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 23aa) § 151n Občianskeho zákonníka.
 
@@ -131,3 +133,5 @@
 - 26) § 2b, 4a a 14b zákona Slovenskej národnej rady č. 138/1991 Zb. v znení zákona č. 447/2001 Z. z.
 
 - § 3 až 5 zákona č. 446/2001 Z. z.
+
+- 27) Zákon č. 581/2004 Z. z. v znení neskorších predpisov.
