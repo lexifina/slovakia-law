@@ -1,0 +1,1 @@
+- 1) Zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů.
