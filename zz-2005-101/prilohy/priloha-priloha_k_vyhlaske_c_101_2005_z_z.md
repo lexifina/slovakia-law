@@ -1,0 +1,5 @@
+Príloha k vyhláške č. 101/2005 Z. z. VZOR
+
+SLUŽOBNÉHO ODZNAKU VODNEJ STRÁŽE
+
+![Obrázek 01](../assets/61b847d93486d816fb232540d407c718985c21a45a55d50bc7de345fab996310.jpg)
