@@ -1,12 +1,12 @@
 - 1) ČSN 34 0035
 
-- 2) Vyhláška ministerstva energetiky č. 10/1958 Ú. l. (Ú. v.) o jednotných podmienkach pre pripojovanie obdberných elektrických zariadení na zariadenia pre verejný rozvod elektriny (pripojovacie podmienky) a ČSN 38 0610.
+- 2) Používanie elektriny na okurovanie a ohrev úžitkovej vody sa spravuje smernicou Federálneho ministerstva palív a energetiky č. 22/1977.
 
-- 3) ČN 34 3800
+- 3) Ide o regulačné opatrenie, ktoré nemení podmienky cenníka VC 3/ 2/77.
 
-- 4) Vyhláška ministerstva palív a energetiky č. 95/1961 Zb. o podmienkach odbornej spôsobilosti pre vykonávanie a riadenie montáže a údržby elektrických zariadení, hromozvodov a antén.
+- 4) Napr. vyhláška Ministerstva energetiky č. 10/1958 Ú. l. (Ú. v.) o jednotných podmienkach pripájania odberných elektrických zariadení na zariadenia pre rozvod elektriny (pripájacie podmienky).
 
-- 5) Inštrukcia Úradu pre normalizáciu a meranie č. 1-2210.
+- 5) ČSN 38 0110.
 
 - 6) Úpravu fakturovania a platenia dodávok elektriny zo zariadení na verejný rozvod odchýlenú od niektorých ustanovení vyhlášky ministerstva financií č. 204/1964 Zb. o fakturovaní a platení dodávok neinvestičnej povahy povolilo Federálne ministerstvo financií pod č. V /2/9148/73 zo 4. septembra 1973 v tomto znení:
 
