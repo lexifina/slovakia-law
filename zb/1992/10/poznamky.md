@@ -6,8 +6,6 @@
 
 - 4) § 25 ods. 2 zákona č. 172/1990 Zb. o vysokých školách.
 
-- 5) § 34 zákona č. 87/1987 Zb.
-
 - 6) Zákon č. 87/1987 Zb.
 
 - 7) § 25 ods. 1 písm. b) a c) zákona č. 87/1987 Zb.
