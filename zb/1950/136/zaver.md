@@ -1,0 +1,1 @@
+Dr. Palečková v. r.
