@@ -2,9 +2,9 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
 - VZOR
 
-- ZMLUVY, KTOROU SA ŽIADATEĽ OPRÁVŇUJE POUŽÍVAŤ NÁRODNÚ ENVIRONMENTÁLNU ZNAČKU
+- ZMLUVY, KTOROU SA ŽIADATEĽ OPRÁVŇUJE POUŽÍVAŤ ENVIRONMENTÁLNU ZNAČKU
 
-  - Zmluva o podmienkach používania národnej environmentálnej značky
+- A. Zmluva o podmienkach používania národnej environmentálnej značky
 
   - Zmluva podľa § 8 ods. 2 tohto zákona, ktorou sa žiadateľ oprávňuje používať národnú environmentálnu značku, obsahuje nasledujúce náležitosti:
 
@@ -22,33 +22,33 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
     - V tomto článku sa uvedie najmä
 
-  - a) poskytnutie (zo strany ministerstva ako poskytovateľa) oprávnenia žiadateľovi (ako nadobúdateľovi) používať národnú environmentálnu značku na príslušný produkt - uvedie sa presná špecifikácia produktu a oznámenia o určení skupín produktov, podskupín produktov a osobitných podmienok na udelenie národnej environmentálnej značky, spolu s odkazom na prílohu č. 1 a 2 k tejto zmluve,
+  - a) poskytnutie (zo strany ministerstva ako poskytovateľa) oprávnenia žiadateľovi (ako nadobúdateľovi) používať národnú environmentálnu značku na príslušný výrobok - uvedie sa presná špecifikácia výrobku a výnosu, ktorým boli vydané osobitné podmienky na udelenie národnej environmentálnej značky, spolu s odkazom na prílohu č. 1 a 2 k tejto zmluve,
 
   - b) povinnosť používať národnú environmentálnu značku tak, aby bola viditeľná a iba v tvare a farbe uvedenej v špecifikáciách pre národnú environmentálnu značku v prílohe č. 3 k tejto zmluve, ako aj upozornenie, že oprávnenie používať národnú environmentálnu značku sa nevzťahuje na jej používanie ako súčasti ochrannej známky,
 
-  - c) povinnosť nadobúdateľa zabezpečiť, aby príslušný produkt spĺňal počas platnosti tejto zmluvy všetky požiadavky a podmienky používania ustanovené v tejto zmluve, ako aj osobitné podmienky na udelenie národnej environmentálnej značky podľa prílohy č. 2 k tejto zmluve. Zároveň sa uvedie, že na zmenu vlastností produktu, ktoré nemajú vplyv na súlad s osobitnými podmienkami podľa prílohy č. 2 k tejto zmluve, sa nepožaduje nová žiadosť a nadobúdateľ môže naďalej používať na označenie príslušného produktu národnú environmentálnu značku pod podmienkou, že
+  - c) povinnosť nadobúdateľa zabezpečiť, aby príslušný výrobok spĺňal počas platnosti tejto zmluvy všetky požiadavky a podmienky používania ustanovené v tejto zmluve, ako aj osobitné podmienky na udelenie národnej environmentálnej značky podľa prílohy č. 2 k tejto zmluve. Zároveň sa uvedie, že na zmenu vlastností výrobku, ktoré nemajú vplyv na súlad s osobitnými podmienkami podľa prílohy č. 2 k tejto zmluve, sa nepožaduje nová žiadosť a nadobúdateľ môže naďalej používať na označenie príslušného výrobku národnú environmentálnu značku pod podmienkou, že
 
     - 1. o takejto zmene bezodkladne písomne upovedomí poskytovateľa a
 
     - 2. poskytovateľ má právo tieto skutočnosti vhodným spôsobom preveriť,
 
-  - d) možnosť rozšíriť zmluvu na širší okruh produktov patriacich do tej istej skupiny produktov a spĺňajúcich osobitné podmienky podľa prílohy č. 2 k tejto zmluve pod podmienkou, že
+  - d) možnosť rozšíriť zmluvu na širší okruh výrobkov patriacich do tej istej skupiny výrobkov a spĺňajúcich osobitné podmienky podľa prílohy č. 2 k tejto zmluve pod podmienkou, že
 
     - 1. s tým poskytovateľ súhlasí - na základe prípadného overenia potrebných skutočností,
 
-    - 2. sa upraví špecifikácia produktov podľa písmena a), ako aj v prílohe č. 1 k tejto zmluve,
+    - 2. sa upraví špecifikácia výrobkov podľa písmena a), ako aj v prílohe č. 1 k tejto zmluve,
 
     - 3. na požiadanie poskytovateľa nadobúdateľ podľa potreby uhradí primerané náklady na toto overenie,
 
-  - e) upozornenie, že poskytnutím oprávnenia používať národnú environmentálnu značku nie sú dotknuté povinnosti vyplývajúce zo všeobecne záväzných právnych predpisov ani iné záväzné požiadavky vzťahujúce sa na rôzne štádiá životného cyklu výrobku, prípadne na službu.
+  - e) upozornenie, že poskytnutím oprávnenia používať národnú environmentálnu značku nie sú dotknuté povinnosti vyplývajúce zo všeobecne záväzných právnych predpisov ani iné záväzné požiadavky vzťahujúce sa na rôzne štádiá životného cyklu tovaru, prípadne na službu.
 
     - Článok 2 - Propagácia a reklama
 
-  - a) právo a povinnosť nadobúdateľa používať národnú environmentálnu značku alebo zmienku o nej iba vo vzťahu k produktu uvedenému v čl. 1 a v prílohe č. 1 k tejto zmluve,
+  - a) právo a povinnosť nadobúdateľa používať národnú environmentálnu značku alebo zmienku o nej iba vo vzťahu k výrobku uvedenému v čl. 1 a v prílohe č. 1 k tejto zmluve,
 
   - b) zákaz pre nadobúdateľa robiť reklamu, propagáciu alebo iné vyhlásenie alebo použiť národnú environmentálnu značku alebo logo spôsobom, ktorý je nesprávny alebo zavádzajúci, alebo spochybňujúci integritu národnej environmentálnej značky,
 
-  - c) zodpovednosť nadobúdateľa za spôsob, akým sa národná environmentálna značka použije vo vzťahu k jeho produktu, najmä v súvislosti s reklamou.
+  - c) zodpovednosť nadobúdateľa za spôsob, akým sa národná environmentálna značka použije vo vzťahu k jeho výrobku, najmä v súvislosti s reklamou.
 
     - Článok 3 - Sledovanie zhody
 
@@ -82,7 +82,7 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
       - Článok 6 - Obmedzenie zodpovednosti a náhrada škody
 
-  - a) zákaz nadobúdateľovi zahrnúť národnú environmentálnu značku ako časť akéhokoľvek ručenia alebo záruky vo vzťahu k produktu uvedenému v článku 1 tejto zmluvy,
+  - a) zákaz nadobúdateľovi zahrnúť národnú environmentálnu značku ako časť akéhokoľvek ručenia alebo záruky vo vzťahu k výrobku uvedenému v článku 1 tejto zmluvy,
 
   - b) prehlásenie o tom, že poskytovateľ ani ním poverené osoby nezodpovedajú za žiadnu stratu alebo škodu, ktorú utrpí
 
@@ -112,7 +112,7 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
   - a) právo poskytovateľa
 
-    - 1. informovať nadobúdateľa o sťažnostiach na produkt, ktorému bola udelená národná environmentálna značka vrátane práva odoprieť identifikáciu sťažovateľa, ako aj
+    - 1. informovať nadobúdateľa o sťažnostiach na výrobok, ktorému bola udelená národná environmentálna značka vrátane práva odoprieť identifikáciu sťažovateľa, ako aj
 
     - 2. požadovať od nadobúdateľa, aby reagoval na túto sťažnosť,
 
@@ -124,7 +124,7 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
     - 1. začiatok platnosti zmluvy určený spravidla dňom jej podpísania oboma zmluvnými stranami,
 
-    - 2. koniec platnosti zmluvy; zmluva sa uzatvára na obdobie troch rokov,
+    - 2. koniec platnosti zmluvy určený dátumom ustanoveným v tomto článku alebo dátumom skončenia platnosti osobitných podmienok podľa prílohy č. 2 k tejto zmluve, pričom platný je dôvod zániku platnosti, ktorý nastane skôr,
 
   - b) právo poskytovateľa v prípade porušenia podmienok používania národnej environmentálnej značky riešiť to
 
@@ -134,9 +134,17 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
   - c) právo nadobúdateľa písomne vypovedať zmluvu s trojmesačnou výpovednou lehotou,
 
-  - d) zákaz používania národnej environmentálnej značky vo vzťahu k produktu podľa čl. 1 po skončení platnosti tejto zmluvy s výnimkou prípadov ustanovených vo vykonávacom predpise podľa § 8 ods. 11 tohto zákona,
+  - d) klauzula o tom, že
 
-  - e) spôsob riešenia sporov medzi zmluvnými stranami - vzájomnou dohodou a v prípade neúspechu súdnou cestou.
+    - 1. ak sa osobitné podmienky podľa prílohy č. 2 k tejto zmluve predĺžia bez zmien alebo doplnkov na ďalšie obdobie a
+
+    - 2. ak poskytovateľ najmenej tri mesiace pred uplynutím časovej platnosti týchto osobitných podmienok a tejto zmluvy nepodal nadobúdateľovi písomnú výpoveď,
+
+      - poskytovateľ bude informovať nadobúdateľa aspoň tri mesiace vopred, že zmluva sa automaticky obnovuje až do času novej časovej platnosti osobitných podmienok podľa prílohy č. 2 k tejto zmluve,
+
+  - e) zákaz používania národnej environmentálnej značky vo vzťahu k výrobku podľa čl. 1 po skončení platnosti tejto zmluvy s výnimkou prípadov ustanovených vo vykonávacom predpise podľa § 8 ods. 11 tohto zákona,
+
+  - f) spôsob riešenia sporov medzi zmluvnými stranami - vzájomnou dohodou a v prípade neúspechu súdnou cestou.
 
     - Záverečná časť
 
@@ -150,10 +158,28 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
     - Povinnou a neoddeliteľnou súčasťou zmluvy sú:
 
-    - Príloha č. 1 - špecifikácie o produkte, na ktorý bola udelená národná environmentálna značka; tieto musia obsahovať prinajmenšom podrobnosti o názve produktu a prípadných referenčných číslach výrobcu, o mieste (miestach) jeho výroby a registračné číslo žiadosti o udelenie národnej environmentálnej značky.
+    - Príloha č. 1 - špecifikácie o výrobku, na ktorý bola udelená národná environmentálna značka; tieto musia obsahovať prinajmenšom podrobnosti o názve výrobku a prípadných referenčných číslach výrobcu, o mieste (miestach) jeho výroby a registračné číslo žiadosti o udelenie národnej environmentálnej značky.
 
-    - Príloha č. 2 – kópia oznámenia ministerstva o určení skupín produktov, podskupín produktov a osobitných podmienok na udelenie národnej environmentálnej značky pre príslušnú skupinu a podskupinu produktov.
+    - Príloha č. 2 - kópia výnosu ministerstva, ktorým sa ustanovujú osobitné podmienky na udelenie národnej environmentálnej značky pre príslušnú skupinu výrobkov.
 
     - Príloha č. 3 - bližšie údaje o národnej environmentálnej značke (s prihliadnutím najmä na § 8 ods. 3 a prílohu č. 2 k tomuto zákonu) ustanovujúce najmä jej farebné vyhotovenie, umiestnenie a spôsob použitia.
 
     - Konkrétna zmluva môže obsahovať aj ďalšie prílohy.
+
+- B. Zmluva o podmienkach používania environmentálnej značky Európskeho spoločenstva
+
+  - Pre náležitosti zmluvy, ktorou sa nadobúdateľ oprávňuje používať environmentálnu značku Európskeho spoločenstva, platia ustanovenia časti A prílohy č. 4 k tomuto zákonu s týmito odchýlkami:
+
+  - 1. Neoddeliteľnou súčasťou zmluvy sú nasledujúce prílohy:
+
+    - Príloha č. 1 - kópia nariadenia Európskeho parlamentu a Rady (ES) č. 1980/2000 o zrevidovanom systéme udeľovania environmentálnej značky Spoločenstva [v štátnom jazyku<sup>2</sup>)].
+
+    - Príloha č. 2 - špecifikácia výrobku (rovnako ako príloha č. 1 v časti A tejto prílohy).
+
+    - Príloha č. 3 - kópia rozhodnutia Komisie Európskeho spoločenstva o kritériách pre príslušnú skupinu výrobkov (§ 11 tohto zákona) v štátnom jazyku.<sup>2</sup>)
+
+    - Príloha č. 4 - bližšie údaje o environmentálnej značke Európskeho spoločenstva (obdobne ako v prílohe č. 3 časti A tejto prílohy), avšak s prihliadnutím na § 8 ods. 3 a § 13 a prílohu č. 3 k tomuto zákonu.
+
+    - Príloha č. 5 - kópia rozhodnutia Komisie Európskeho spoločenstva č. 2000/728/ES ustanovujúceho náklady a poplatky spojené s environmentálnou značkou Spoločenstva v štátnom jazyku.<sup>2</sup>)
+
+  - 2. V príslušných častiach zmluvy sa namiesto slov „národná environmentálna značka“ použijú slová „environmentálna značka Európskeho spoločenstva“ v príslušnom tvare, ako aj prípadné odkazy na príslušné ustanovenia tohto zákona, prípadne aj vykonávacieho predpisu.
