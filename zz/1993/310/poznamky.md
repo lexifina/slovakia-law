@@ -33,3 +33,7 @@
 - 14) § 39 a 63 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 15) § 226 a nasl. Colného zákona.
+
+- 16) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.§ 299 Obchodného zákonníka.Občiansky súdny poriadok.
+
+- 17) § 73 až 93 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
