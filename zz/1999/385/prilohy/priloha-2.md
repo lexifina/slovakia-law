@@ -64,7 +64,7 @@ e) čistá hodnota majetku.
 
 4. Stav cenných papierov v majetku (zloženie portfólia), pričom ich treba rozčleniť podľa jednotlivých verejných trhov na
 
-a) cenné papiere, s ktorými sa obchoduje na hlavnom trhu burzy cenných papierov,
+a) cenné papiere, s ktorými sa obchoduje na trhu kótovaných cenných papierov burzy cenných papierov,
 
 b) cenné papiere, s ktorými sa obchoduje na vedľajšom trhu burzy cenných papierov,
 

@@ -20,9 +20,13 @@
 
 - 10) § 673 až 681 Obchodného zákonníka.
 
-- 11) § 55 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 11) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
+
+- 11a) § 104 zákona č. 566/2001 Z. z.
 
 - 12) § 21 a § 28 ods. 3 Obchodného zákonníka.
+
+- 12a) § 54 až 56 zákona č. 566/2001 Z. z.
 
 - 13) Zákon č. 21/1992 Zb. v znení neskorších predpisov.
 
@@ -30,7 +34,7 @@
 
 - 15) § 27 až 33 zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
-- 16) § 48 a 86 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 16) § 54 zákona č. 566/2001 Z. z.
 
 - 17) § 708 až 715 Obchodného zákonníka.
 
@@ -54,11 +58,11 @@
 
 - 27) § 44 až 52 Obchodného zákonníka.
 
-- 28) § 74 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 28) § 21 zákona č. 330/2000 Z. z. o burze cenných papierov.
 
 - 29) § 116 Občianskeho zákonníka.
 
-- 30) § 80 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 30) § 122 zákona č. 483/2001 Z. z.
 
 - 32) § 70 ods. 3, § 71 ods. 5, § 72 ods. 1, § 73, 74 a 75 ods. 4 Obchodného zákonníka.
 
