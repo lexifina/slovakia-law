@@ -32,7 +32,9 @@
 
 - 7) Napr. § 18 zákona SNR č. 317/1992 Zb. o dani z nehnuteľností.
 
-- 7a) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.§ 20a zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 74/1995 Z. z.
+- 7a) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
+
+- § 20a zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 74/1995 Z. z.
 
 - 8) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov (úplné znenie č. 501/1992 Zb.).
 
@@ -55,6 +57,8 @@
 - 10c) § 1 zákona č. 21/1992 Zb. o bankách.
 
 - 10d) Napr. § 22 zákona Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov.
+
+- 10e) Napríklad § 6 ods. 1 zákona Národnej rady Slovenskej republiky č. 13/1993 Z. z. o umeleckých fondoch.
 
 - 11) § 38 ods. 3 písm. c) zákona č. 21/1992 Zb. o bankách.
 
