@@ -204,11 +204,13 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 0457 | mechanik odevných strojov mechanička odevných strojov | CH D | Opravy, údržba a nastavovanie bežných i špeciálnych strojov v odevnom priemysle. | 3 | 22 | 1,5 | 10 | 6-10 | 0457
 
-0461 | mechanik mechanička | CH D | Výroba, nastavovanie, údržba a opravy optických, meracích a iných prístrojov rôznych druhov. | 3 | 22 | 1,5 | 10 | 8-12 | 0461
+0461 | mechanik optických prístrojov mechanička optických prístrojov | CH D | Výroba, nastavovanie, údržba a opravy optických a meracích prístrojov a zariadení. | 3 | 22 | 1,5 | 10 | 8-12 | 0461
 
 0462 | mechanik organizačných a výpočtových strojov mechanička organizačných a výpočtových strojov | CH D | Výroba, nastavovanie, údržba a opravy kancelárskych strojov, mechanických a elektrónkových triediacich strojov. | 3 | 22 | 1,5 | 10 | 8-10 | 0462
 
 0463 | hodinár hodinárka | CH D | Výroba a opravy hodiniek, budíkov a rôznych druhov hodín. | 3 | 22 | 1,5 | 10 | 6-8 | 0463
+
+0464 | mechanik mechanička | CH D | Výroba, nastavovanie, údržba a opravy rôznych druhov mechanických prístrojov. | 3 | 22 | 1,5 | 10 | 8-12 | 0461
 
 0471 | galvanizér | CH | Elektrolytické pokovovanie predmetov, prípravné a dokončovacie práce. Bežná údržba galvanického zariadenia. | 3 | 22 | 1,5 | 10 | 8-12 | 0471
 
@@ -384,9 +386,11 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 0817 | výrobca športových potrieb výrobkyňa športových potrieb | CH D | Odborné práce pri sériovej a individuálnej výrobe a oprave športového náradia a člnov z dreva a plastických látok a čiastočne kovov. Nastavovanie, údržba a obsluha drevoobrábacích a niektorých kovoobrábacích strojov a nástrojov. | 3 | 22 | 1,5 | 10 | 8-12 | 0817
 
+0821 | priemyselný obrábač dreva priemyselná obrábačka dreva | CH D | Nastavovanie, obsluha a údržba drevoobrábacích strojov, príprava obrábacích nástrojov a pomocných obrábacích prípravkov. Odborné práce spojené so skladovaním a prípravou dreva pre výrobu. | 2 | 10 | 1 | 6 | 8-12 | -
+
 0851 | mechanik strunových hudobných nástrojov mechanička strunových hudobných nástrojov | CH D | Základné a odborné práce v odvetví výroby sláčikových a brnkacích nástrojov a ich montovanie. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 2 | 16 | 8-12 | 0851
 
-0852 | mechanik klávesových hudobných nástrojov mechanička klávesových hudobných nástrojov | CH D | Základné a odborné práce v odvetví výroby a opráv pián, pianín, harmónií a harmoník. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 2 | 16 | 8-12 | 0852
+0852 | mechanik klávesových hudobných nástrojov mechanička klávesových hudobných nástrojov | CH D | Základné a odborné práce v odvetví výroby a opráv klávesových hudobných nástrojov. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 2 | 16 | 8-12 | 0852
 
 0853 | mechanik dychových hudobných nástrojov mechanička dychových hudobných nástrojov | CH D | Základné a odborné práce v odvetví výroby kovových a drevených dychových nástrojov. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 2 | 16 | 8-12 | 0853
 
@@ -486,7 +490,7 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 11 - Spracovanie kože a výroba obuvi | | | | | | | | |
 
-1101 | garbiar | CH | Spracovanie koží a kožiek všetkých druhov na usne. Druhy a vlastnosti spracúvanej suroviny, obsluha a jednoduchá údržba používaných strojov a zariadení. | 2 | 10 | 1 | 6 | 6-10 | 1101
+1101 | garbiar | CH | Príprava chemických roztokov pri spracovaní koží na usne. Vykonávanie prevádzkovokontrolných skúšok a meraní. Obsluha a nastavovanie strojov a zariadení. | 3 | 22 | 1,5 | 6 | 6-10 | 1101
 
 1102 | vyrábač kožušín | CH | Čistenie kožušín, úprava, miazdrenie, ručný i strojový námok, príprava na činenie, sušenie a úpravu po činení. Manipulácia a základná údržba používaných strojov. | 3 | 22 | 1,5 | 10 | 6-10 | 1102
 
@@ -504,7 +508,7 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 1117 | bandažista bandažistka | CH D | Výroba ortopedických pomôcok a protéz podľa lekárskeho predpisu. | 3 | 18 | 1,5 | 9 | 6-10 | 1117
 
-1150 | úpravárka usní | D | Spracovanie všetkých druhov usní na obuvnícke a galantérne účely na úpravárenskom úseku, začínajúc strojovým vyrážaním až do konečnej úpravy, okrem strojového leštenia. | 2 | 10 | 1 | 6 | 6-10 | 1150
+1150 | úpravárka usní | D | Povrchová úprava obuvníckych a galantérnych usní. Jednoduchá príprava apretúr. Obsluha strojov a zariadení pre povrchovú úpravu. | 2 | 10 | 1 | 6 | 6-10 | 1150
 
 1151 | vysekávač usní vysekávačka usní | CH D | Vysekávanie a úprava zvrškových a spodkových dielcov na výrobu obuvi. Znalosť základných i pomocných materiálov. Obsluha a bežná údržba používaných strojov. | 3 | 22 | 1 | 8 | 6-10 | 1151
 
@@ -586,9 +590,13 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 *) Podmienkou pre prijatie do učebného odboru č. 1324 a 1325 je vyučenie v učebnom odbore č. 1308 poľnohospodár mechanizátor, poľnohospodárka mechanizátorka. | | | | | | | | |
 
-1351 | lesník | CH | Práce pri zbere lesných semien, v škôlkach, pri zalesňovaní, ošetrovaní porastov, ochrane lesa a v pridruženej lesnej výrobe. Ťažba dreva všetkými spôsobmi. Manipulácia, nakladanie a skladovanie dreva. | 2 | 10 | 1 | 6 | 8-15 | 1351
+1351 | lesník | CH | Práca v ťažbe dreva s motorovou pílou. Sústreďovanie dreva kolesovými traktormi. Práce v skladoch dreva. Mechanizované práce v pestovaní a ochrane lesa. Zber semien z vysokých stojacích stromov. | 2 | 10*) | 1 | 6*) | 5-9 | 1351
 
-1352 | lesný mechanizátor | CH | Obsluha všetkých mechanizačných prostriedkov lesného hospodárstva, ich údržba a bežné opravy. Vedenie pracovných skupín pracujúcich s mechanizačnými prostriedkami. | 3 | 22 | 1,5 | 10 | 8-12 | 1352
+*) Dĺžka prípravného obdobia pre učňov, ktorých učebný pomer pokračuje v nadstavbovom učebnom odbore č. 1352 lesný mechanizátor, sa predlžuje na 12 mesiacov (u učňov s úplným stredným všeobecným vzdelaním zostáva 6 mesiacov). | | | | | | | | |
+
+1352 | lesný mechanizátor**) | CH | Obsluha a údržba bežne používaných mechanizačných prostriedkov v pestovaní lesa, v ťažbe, pri sústreďovaní a odvoze dreva a pri manipulácii s drevom v skladoch. Údržba, bežné a stredné opravy používaných strojov. Obsluha, nastavovanie a údržba špeciálnych mechanizačných prostriedkov pre lesné hospodárstvo. | 2 | 18 | 1 | 6 | 5-9 | 1352
+
+**) Podmienkou prijatia do učebného odboru č. 1352 je úspešné ukončenie 1. ročníka učebného odboru č. 1351 lesník (u učňov s úplným stredným všeobecným vzdelaním úspešné ukončenie I. polroku v učebnom odbore č. 1351). | | | | | | | | |
 
 1361 | chovateľ laboratórnych zvierat**) chovateľka laboratórnych zvierat**) | CH D | | | | | | |
 
