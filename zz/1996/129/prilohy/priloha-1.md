@@ -1,31 +1,27 @@
-Príloha č. 1
+Príloha
 
-k zákonu Národnej rady Slovenskej republiky č. 129/1996 Z. z. v znení zákona č. 275/2007 Z. z.
+zákona Národnej rady Slovenskej republiky č. 129 /1996 Z. z.
 
-ROZOSTAVANÉ STAVBY DIAĽNIC
+Diaľnice, na ktorých prípravu výstavby sa vzťahujú opatrenia podľa tohto zákona
 
-D 1 Bratislava Viedenská cesta – Bratislava – Prístavný most
+D 1 štátna hranica s Českou republikou – Drietoma
 
-D 1 Bratislava – Mierová ulica – Senecká cesta
+D 1 Nemšová – Žilina (Višňové)
 
-D 1 Ladce – Sverepec
+D 1 Žilina (Višňové) – Ivachnová
 
-D 1 Vrtižer – Hričovské Podhradie
+D 1 Hybe – Poprad
 
-D 1 Hybe – Jánovce
+D 1 Poprad – Prešov-juh
 
-D 1 Svinia – Prešov-západ
+D 1 Budimír – štátna hranica s Ukrajinou
 
-D 2 Bratislava Lamačská cesta – Staré Grunty
+D 2 Bratislava (Viedenská cesta) – štátna hranica s Maďarskou republikou
 
-D 3 Hričovské Podhradie – Žilina
+D 18 Žilina (Višňové) – štátna hranica s Poľskou republikou
 
-R 1 Budča – Kováčová
+D 61 štátna hranica s Rakúskou spolkovou republikou – Bratislava (Bajkalská ulica)
 
-R 2 Ožďany – preložka
+D 61 Bratislava (Bajkalská ulica – Senecká cesta)
 
-R 2 Figa – obchvat
-
-R 2 Tornaľa – preložka
-
-R 3 Oravský Podzámok – Horná Lehota
+D 61 Horná Streda – Chocholná
