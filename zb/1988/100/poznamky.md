@@ -56,6 +56,10 @@
 
 - § 132 až 134 a 139 vyhlášky č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
 
+- 12a) Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 111/1992 Zb. o úhrade nákladov za ubytovanie a základnú starostlivosť v domovoch - penziónoch pre dôchodcov.
+
+- 12b) Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 105/1992 Zb. o sociálnej odkázanosti.
+
 - 13) §97 ods. 3 zákona č. 121/1975 Zb.
 
 - 14) § 44 zákona č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev.
