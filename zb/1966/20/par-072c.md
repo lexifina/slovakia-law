@@ -6,7 +6,7 @@
 
 (3) V rozhodnutí o uložení pokuty sa určí aj lehota, v ktorej sa má odstrániť nedostatok. Ak organizácia nedostatok neodstráni, uloží sa jej ďalšia pokuta až do výšky dvojnásobku pokuty uloženej podľa odseku 1.
 
-(4) Výnos z pokút je príjmom štátneho rozpočtu Slovenskej republiky.
+(4) Výnos z pokút je príjmom Štátneho fondu zdravia.
 
 (5) Pokuta je splatná do 15 dní odo dňa právoplatnosti rozhodnutia, ktorým bola uložená. Organizácia je povinná zaplatiť za každý deň omeškania penále vo výške jedného promile z uloženej pokuty.
 
