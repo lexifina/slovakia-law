@@ -2208,15 +2208,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 153
 
-  - a) Žiadosť o registráciu novej chemickej látky alebo novej chemickej látky obsiahnutej v chemickom prípravku ........................................................................................................................ | 3 000 Sk
+  - a) Žiadosť o oznámenie novej chemickej látky alebo novej chemickej látky obsiahnutej v chemickom prípravku ........................................................................................................................... | 3 000 Sk
 
-  - b) Žiadosť o schválenie klasifikácie, balenia a označovania existujúcej chemickej látky alebo prípravku ..................................................................................................................................... | 2 000 Sk
+  - d) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky alebo prípravku ... | 20 000 Sk
 
-  - c) Žiadosť o schválenie karty bezpečnostných údajov nebezpečnej chemickej látky alebo nebezpečného chemického prípravku .................................................................................. | 2 000 Sk
+  - Poznámka Poplatok tejto položky sa vzťahuje na chemický prípravok, ktorý sa skladá z dvoch chemických látok. Za každú ďalšiu chemickú látku obsiahnutú v chemickom prípravku sa príslušná sadzba poplatku zvyšuje o 25 %. |
 
-  - d) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky alebo prípravku | 20 000 Sk
+    - Položka 153a
 
-  - Poznámka Poplatok podľa písmen a) až c) tejto položky sa vzťahuje na chemický prípravok, ktorý sa skladá z dvoch chemických látok. Za každú ďalšiu chemickú látku obsiahnutú v chemickom prípravku sa príslušná sadzba poplatku zvyšuje o 25 %. |
+  - 1. Vydanie rozhodnutia o autorizácii biocídneho výrobku ........................................................................... | 200 000 Sk
+
+  - 2. Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom ............................................. | 100 000 Sk
+
+  - 3. Zmena rozhodnutia o autorizácii biocídneho výrobku alebo zmena rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom ............................................................................................................. | 75 000 Sk
+
+  - 4. Vydanie rozhodnutia o autorizácii biocídneho výrobku alebo vydanie rozhodnutia registrácie biocídneho výrobku s nízkym rizikom na základe vzájomného uznania .................................................. | 50 000 Sk
+
+  - Poznámka 1. Centrum pre chemické látky a prípravky vyberie poplatok podľa prvého bodu za žiadosť podanú podľa § 4 ods. 2 zákona č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov. 2. Centrum pre chemické látky a prípravky vyberie poplatok podľa druhého bodu za žiadosť podanú podľa § 4 ods. 4 zákona č. 217/2003 Z. z. 3. Centrum pre chemické látky a prípravky vyberie poplatok podľa tretieho bodu za žiadosť podanú podľa § 11 ods. 1 písm. c), § 7 ods. 9 zákona č. 217/2003 Z. z. 4. Centrum pre chemické látky a prípravky vyberie poplatok podľa štvrtého bodu za žiadosť podanú podľa § 10 zákona č. 217/2003 Z. z. |
 
     - Položka 154
 
