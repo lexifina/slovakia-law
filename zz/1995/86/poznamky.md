@@ -1,0 +1,1 @@
+- 1) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
