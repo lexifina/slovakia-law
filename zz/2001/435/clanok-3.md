@@ -6,7 +6,7 @@ V § 21 odsek 2 znie:
 
 „(2)
 
-Na uplatňovanie práva na úžitkový vzor, vzťahy spolupôvodcov, vzťahy spolumajiteľov, prevod, prechod, záložné právo, zmluvnú licenciu, ponuku licencie, postavenie účastníkov konania, zastupovanie pred úradom, zastavenie konania, predĺženie lehoty, pokračovanie v konaní, uvedenie do predošlého stavu, určovacie konanie, opravné prostriedky a na ochranu proti porušovaniu práv sa obdobne použijú ustanovenia patentového zákona.<sup>4</sup>)“.
+Na uplatňovanie práva na úžitkový vzor, vzťahy spolupôvodcov, vzťahy spolumajiteľov, prevod, prechod, záložné právo, zmluvnú licenciu, postavenie účastníkov konania, zastupovanie pred úradom, zastavenie konania, predĺženie lehoty, pokračovanie v konaní, uvedenie do predošlého stavu, určovacie konanie, opravné prostriedky a na ochranu proti porušovaniu práv sa obdobne použijú ustanovenia patentového zákona.<sup>4</sup>)“.
 
 Poznámka pod čiarou k odkazu 4 znie:
 
