@@ -13,3 +13,7 @@
 - *) Za príslušníka domácnosti užívateľa bytu sa považujú jeho manžel (manželka), deti, vnuci, rodičia, súrodenci a zať (nevesta), ktorí s ním žijú v spoločnej domácnosti, prípadne iné osoby, ktoré sa starajú o spoločnú domácnosť užívateľa bytu alebo sú na neho odkázané výživou, ak s ním žijú v spoločnej domácnosti aspoň po dobu jedného roku a nemajú vlastný byt.
 
 - *) Vyhláška č. 197/1957 Ú.l. (Ú.v.) o odplate za ústredné (diaľkové) vykurovanie a za dodávku teplej vody, Vyhláška č. 58/1954 Ú.l. (č. 78/1954 Ú.v.) o odplatách za dodávku vody z verejných vodovodov a vodární a za odvádzanie odpadových vôd verejnými kanalizáciami v znení vyhlášky č.74/1960 Zb., č. 112/1955 Ú.l. (Ú.v.) na vykonanie vyhlášky č. 78/1954 Ú.l. (č. 78/1954 Ú.v.).
+
+- 1) Zákon č. 41/1964 Zb. o hospodárení s bytmi.
+
+- 2) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku.
