@@ -190,9 +190,9 @@ Proto se naše vlády skrze své zástupce, kteří se shromáždili v městě S
 
   - Článek 23.
 
-    - 1. Rada bezpečnosti se skládá z jedenácti členů Spojených národů. Republika Čínská, Francie, Svaz sovětských socialistických republik, Spojené království Velké Britannie a Severního Irska a Spojené státy americké jsou stálými členy Rady bezpečnosti. Valné shromáždění volí šest národů jako nestálé členy Rady bezpečnosti, náležitě hledíc především k tomu, jak členové Spojených národů přispívají k zachování mezinárodního míru a bezpečnosti, k ostatním cílům Organisace, jakož i k spravedlivému rozdělení po stránce zeměpisné.
+    - 1. Rada bezpečnosti se skládá z patnácti členů Spojených národů. Republika Čínská, Francie, Svaz sovětských socialistických republik, Spojené království Velké Britannie a Severního Irska a Spojené státy americké jsou stálými členy Rady bezpečnosti. Valné shromáždění volí deset národů jako nestálé členy Rady bezpečnosti, náležitě hledíc především k tomu, jak členové Spojených národů přispívají k zachování mezinárodního míru a bezpečnosti, k ostatním cílům Organisace, jakož i k spravedlivému rozdělení po stránce zeměpisné.
 
-    - 2. Nestálí členové Rady bezpečnosti se volí na dobu dvou let. Při první volbě nestálých členů budou však tři zvoleni na dobu jednoho roku. Vystupující člen nemůže býti ihned volen znovu.
+    - 2. Nestálí členové Rady bezpečnosti se volí na dobu dvou let. Při první volbě nestálých členů po zvýšení počtu členů Rady bezpečnosti z jedenácti na patnáct budou dva ze čtyř dalších členů zvoleni na dobu jednoho roku. Vystupující člen nemůže býti ihned volen znovu.
 
     - 3. Každý člen Rady bezpečnosti má jednoho zástupce.
 
@@ -220,7 +220,7 @@ Proto se naše vlády skrze své zástupce, kteří se shromáždili v městě S
 
     - 1. Každý člen Rady bezpečnosti má jeden hlas.
 
-    - 2. O věcech řízení rozhoduje Rada bezpečnosti kladnými hlasy sedmi členů.
+    - 2. O věcech řízení rozhoduje Rada bezpečnosti kladnými hlasy devíti členů.
 
     - 3. Ve všech ostatních věcech Rada bezpečnosti rozhoduje kladnými hlasy sedmi členů, v tom hlasy všech stálých členů; rozumí se však, že se při rozhodnutích podle kapitoly VI a podle odstavce 3 článku 52 strana ve sporu zdrží hlasování.
 
@@ -414,13 +414,13 @@ Proto se naše vlády skrze své zástupce, kteří se shromáždili v městě S
 
   - Článek 61.
 
-    - 1. Hospodářská a sociální rada se skládá z osmnácti členů Spojených národů volených Valným shromážděním.
+    - 1. Hospodářská a sociální rada se skládá z 27 členů Organizace spojených národů zvolených Valným shromážděním.
 
-    - 2. S výhradou ustanovení odstavce 3, bude se ročně voliti po šesti členech Hospodářské a sociální rady na dobu tří let. Vystupujícího člena lze hned voliti znova.
+    - 2. S výhradou ustanovení odst. 3 volí se každý rok devět členů Hospodářské a sociální rady na dobu tří let. Vystupujícího člena lze ihned volit znovu.
 
-    - 3. Při první volbě bude zvoleno osmnáct členů Hospodářské a sociální rady. Úřední údobí šesti členů tak zvolených uplyne koncem prvého roku a údobí dalších šesti koncem druhého roku, podle úpravy stanovené Valným shromážděním.
+    - 3. Při první volbě po zvýšení počtu členů Hospodářské a sociální rady z osmnácti na dvacet sedm bude zvoleno k členům, voleným na místo šesti členů, jejichž funkční období uplyne koncem tohoto roku, devět členů. Funkční období tří členů z devíti dalších členů takto zvolených uplyne po jednom roce a tří jiných členů po dvou letech podle rozhodnutí Valného shromáždění.
 
-    - 4. Každý člen Hospodářské a sociální rady má jednoho zástupce.
+    - 4. Každý člen Hospodářské a sociální rady má v Radě jednoho zástupce.
 
       - Úkoly a pravomoc.
 
