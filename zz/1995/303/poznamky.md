@@ -1,5 +1,7 @@
 - 1) § 9 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
+- 1a) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch).
+
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
 - 2a) Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
@@ -26,11 +28,15 @@
 
 - 8aa) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.
 
+- 8ab) § 4 ods. 2 a 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
 - 9) Napríklad zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. v znení neskorších predpisov.
 
 - 10a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
+
+- 10aa) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
 
 - 11) § 829 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
@@ -46,7 +52,7 @@
 
 - § 2 ods. 2 a 3 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 198/1998 Z. z. na vykonanie niektorých ustanovení zákona o sociálnej pomoci.
 
-- 14b) § 6 ods. 3 zákona č. 172/1990 Zb. o vysokých školách v znení zákona č. 284/1997 Z. z.§ 10 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
+- 14b) § 6 ods. 3 zákona č. 172/1990 Zb. o vysokých školách v znení zákona č. 284/1997 Z. z.§ 10 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.Zákon č. 506/2001 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení a o doplnení zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 14c) § 89 až 91, § 92 ods. 1 písm. c), § 93, 103, 104 a 107 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
 
@@ -68,11 +74,23 @@
 
 - 18) Napríklad zákon č. 111/1990 Zb. v znení neskorších predpisov, zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
-- 19) Napríklad zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
+- 19) Zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov.
 
-- 20) Napríklad zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+- 19a) Napríklad zákon Slovenskej národnej rady č. 544/1990 Zb. o miestnych poplatkoch v znení neskorších predpisov.
 
-- 21) § 4 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
+- 19b) Zákon č. 366/1999 Z. z. v znení neskorších predpisov.
+
+- 19c) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
+
+- 19d) Zákon č. 513/1991 Zb. v znení neskorších predpisov.
+
+- 20) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+
+- 20a) Napríklad zákon Národnej rady Slovenskej republiky č. 124/1996 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
+
+- 21) Zákon č. 71/1967 Zb.
+
+- 21aa) § 116 zákona č. 40/1964 Zb.
 
 - 22) § 489 a nasl. Obchodného zákonníka.
 
@@ -87,8 +105,6 @@
 - 26a) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.Zákon č. 280/1997 Z. z.
 
 - 27) Zákon č. 440/2000 Z. z. o správach finančnej kontroly.
-
-- 27a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 28) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
@@ -117,6 +133,8 @@
 - 31) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 31a) Napríklad § 4 písm. b) zákona Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase.
+
+- 31aa) Zákon č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov.
 
 - 33) Ústavný zákon č. 541/1992 Zb. o delení majetku Českej a Slovenskej Federatívnej Republiky medzi Českú republiku a Slovenskú republiku a jeho prechode na Českú republiku a Slovenskú republiku.Ústavný zákon č. 542/1992 Zb. o zániku Českej a Slovenskej Federatívnej Republiky.
 
