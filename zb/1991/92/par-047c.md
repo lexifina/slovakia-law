@@ -25,5 +25,3 @@
 - g) iné výdavky spojené s prevodom majetku.
 
 (6) Postup podľa § 47b a 47c upraví ministerstvo všeobecne záväzným právnym predpisom.
-
-(7) Výnos z prevodu majetku, ktorý je príjmom osobitného účtu ministerstva, možno použiť aj na úhradu nákladov spojených s realizáciou významných investícií podľa osobitného predpisu<sup>15</sup>) a o použití finančných prostriedkov na tento účel (významné investície) rozhoduje vláda.

@@ -92,8 +92,6 @@
 
 - 14) § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
-- 15) Zákon č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
-
 - 1) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
 
 - Zákon Slovenskej národnej rady č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov. Vyhláška Ministerstva pre správu a privatizáciu národného majetku Slovenskej republiky č. 568/1990 Zb. o verejných dražbách pri prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby a o vstupe na tieto dražby v znení neskorších predpisov. Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
