@@ -1,0 +1,1 @@
+- 1) Vyhláška ministerstiev zdravotníctva a zahraničných vecí č.75/1967 Zb. o dodatkovej dovolenke pracovníkov, ktorí vykonávajú zdraviu škodlivé alebo zvlášť obťažné práce a o náhrade za stratu na zárobku po skončení pracovnej neschopnosti pri niektorých chorobách z povolania v znení neskorších predpisov.
