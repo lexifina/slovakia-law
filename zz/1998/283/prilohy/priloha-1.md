@@ -22,7 +22,7 @@ Príloha č. 1 k vyhláške č. 283/1998 Z. z.
 
     - 4. Nástroje bežne potrebné na servisnú činnosť.
 
-  - C. Opravy, plnenie a revízie hasiacich prístrojov s obsahom látky
+  - C. Opravy a plnenie hasiacich prístrojov s obsahom látky
 
     - 1. Detektor úniku látky.
 
@@ -30,7 +30,13 @@ Príloha č. 1 k vyhláške č. 283/1998 Z. z.
 
     - 3. Zberné nádoby na znečistenú a novú látku.
 
-  - D. Inštalovanie, oprava a revízie stabilných a polostabilných hasiacich zariadení s obsahom látky
+    - 4. Odberové zariadenie.
+
+  - D. Kontroly hasiacich prístrojov s obsahom látky
+
+    - Nástroje bežne potrebné na odborný výkon servisnej činnosti.
+
+  - E. Inštalovanie, oprava a revízie stabilných a polostabilných hasiacich zariadení s obsahom látky
 
     - 1. Odberové zariadenie.
 
@@ -40,13 +46,13 @@ Príloha č. 1 k vyhláške č. 283/1998 Z. z.
 
     - 4. Nástroje bežne potrebné na odborný výkon servisnej činnosti.
 
-  - E. Prevádzkovanie zariadení na recykláciu alebo na regeneráciu látok
+  - F. Prevádzkovanie zariadení na recykláciu alebo na regeneráciu látok
 
     - 1. Odberové zariadenie.
 
     - 2. Recyklačné alebo regeneračné zariadenie.
 
-    - 3. Zberné nádoby na znečistenú a novú látku.<sup>1</sup>)
+    - 3. Zberné nádoby na znečistenú a novú látku uvedené v príslušnej slovenskej technickej norme.
 
     - 4. Detektor úniku látky.
 
@@ -54,20 +60,28 @@ Príloha č. 1 k vyhláške č. 283/1998 Z. z.
 
     - 6. Nástroje bežne potrebné na odborný výkon servisnej činnosti.
 
-  - F. Odber látok
+  - G. Odber látok
 
     - 1. Odberové zariadenie.
 
-    - 2. Zberné nádoby na znečistenú a novú látku.<sup>1</sup>)
+    - 2. Zberné nádoby na znečistenú a novú látku uvedené v príslušnej slovenskej technickej norme.
 
     - 3. Detektor úniku látky.
 
     - 4. Nástroje bežne potrebné na odborný výkon servisnej činnosti.
 
-  - G. Zneškodňovanie látok
+  - H. Zneškodňovanie látok
 
     - 1. Odberové zariadenie.
 
     - 2. Nástroje bežne potrebné na odborný výkon servisnej činnosti.
 
     - 3. Detektor úniku látky.
+
+  - I. Výroba, inštalácia, údržba a opravy zariadení obsahujúcich látku, ktorá slúži ako rozpúšťadlo
+
+    - 1. Odberové zariadenie.
+
+    - 2. Detektor úniku látky.
+
+    - 3. Nástroje bežne potrebné na servisnú činnosť.

@@ -36,7 +36,7 @@
 
 - Položka colného sadzobníka 8419 prílohy č. 1 nariadenia vlády Slovenskej republiky č. 390/1997 Z. z.
 
-- 17) § 10 ods. 1 písm. f) a § 10 ods. 3 zákona č. 76/1998 Z. z.
+- 17) § 10 ods. 1 písm. a) až g) a i) a § 10 ods. 3 zákona č. 76/1998 Z. z. v znení zákona č. 408/2000 Z. z.
 
 - 18) § 10 ods. 5 zákona č. 76/1998 Z. z.
 
