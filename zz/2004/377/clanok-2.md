@@ -48,9 +48,9 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - Diplom, certifikát a iný doklad o kvalifikácii, ktoré vydal príslušný orgán členského štátu a ktoré obsahujú názov kvalifikácie uvedenej v tabuľke č. 1, uznávajú sa ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár získaný v Slovenskej republike podľa tabuľky č. 2.
 
-- [Tabulka č. 1](assets/b11d590fbf76cdff0e358fabeae0c33ac57d034c0a84df64b5d54faa127d8001.pdf)
+- [Tabulka č. 1](assets/bfb6d6dae51d3bbf97ababd61224309ca125df4b282035365f5f1e5ffffc2ab4.pdf)
 
-- [Tabulka č. 2](assets/68bd024c18b5e77e9475ee766a15a2d8ee00e150ed7f632912ed7dc972a60e8c.pdf)
+- [Tabulka č. 2](assets/10bc2b9517123c5c93c08e2d6a4e5c000db154446836969252ede1e8eff7ce9b.pdf)
 
 - b)
 
@@ -154,9 +154,9 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - Diplom, certifikát a iný doklad o kvalifikácii, ktoré vydal príslušný orgán členského štátu a ktoré obsahujú názov kvalifikácie uvedenej v tabuľke č. 2, uznávajú sa ako diplom o špecializácii v kategórii zubný lekár získaný v Slovenskej republike v odbore maxilofaciálna chirurgia.
 
-- [Tabulka č. 1](assets/983196f16ca811e199a4b9b65ab9a7c025b058f44beedfd4ae32c8fbe191c177.pdf)
+- [Tabulka č. 1](assets/312150070d75cb89c21cdabe9fb8cca5b7af2690b9ee4955866c6b4f87d3de70.pdf)
 
-- [Tabulka č. 2](assets/972b2c37c03b9f6d0a283ec92c55d274e1d34bbd7b3071125829f6624e9f64ce.pdf)
+- [Tabulka č. 2](assets/d90fdaea136bc66baf128cbcc275ef342c688cbf6a116184b30499507207af90.pdf)
 
 - c)
 
