@@ -1,0 +1,7 @@
+# K § 8
+
+(23) Daň sa zvýši, ak poplatník prevádza akúkoľvek zárobkovú činnosť po živnostensky, t. j. sústavne a s úmyslom dosiahnuť zisk. Pre daňovú povinnosť nie je rozhodujúce, či ide o činnosť prevádzanú na základe živnostenského oprávnenia alebo bez tohto oprávnenia. Nerozhoduje tiež, či činnosť je výlučným povolaním poplatníka, alebo či ju prevádza ako vedľajšie povolanie, a to prípadne i popri zamestnaní vykonávanom v pracovnom pomere. Pri určení výšky prirážky sa prihliadne len na príjmy zo zárobkovej činnosti prevádzanej po živnostensky, ak sa s týmito príjmami zdania súčasne i príjmy z iných prameňov.
+
+(24) Zvýšenie dane podľa § 8 sa nepredpisuje poplatníkom, ktorí vykonávajú zárobkovú činnosť len ojedinele a v nepatrnom rozsahu, ďalej poplatníkom, ktorí vykonávajú súkromné vyučovanie (cudzím jazykom, hudbe a pod.), lekárom, dentistom a iným príslušníkom tzv. slobodných povolaní a majstrom husliarom. Zvýšenie dane podľa § 8 sa ďalej nepredpisuje kamelotom, ak nepredávajú noviny a časopisy vo vlastných novinových stánkoch a ak nepresahuje základ dane z príjmov obyvateľstva sumu 15 000 Kčs.
+
+(25) Ak bola živnosť prevádzaná len časť roka, určí sa minimálna suma zvýšenia podľa § 8 primerane k času, v ktorom sa živnosť v roku prevádzala. Ak sa živnosť prevádzala napríklad od 15. januára do 10. septembra, zníži sa minimálna suma z 800 Kčs na 600 Kčs, lebo v októbri až decembri živnosť sa neprevádzala. Pri sezónnych živnostiach (napríklad sadárstvo) k takejto úprave nedôjde.
