@@ -52,6 +52,8 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - | odbory:
 
+- 3 | 346 Elektrochemické zdroje prúdu
+
 - 3 | 354 Silové kondenzátory
 
 - 3 | 356 Výkonové meniče (usmerňovače)
@@ -76,7 +78,7 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - 3 | 428 Turbokompresory
 
-- 3 | 429 Vzduchotechnické zariadenia
+- 3 | 429 Vzduchotechnické zariadenia (okrem jednoúčelových zariadení pre pneumatickú dopravu - pol. Jednotnej klasifikácie priemyselných odborov a výrobkov 429 6, zaradená do triedy 6)
 
 - 3 | 432 Chladiace a mraziace zariadenia
 
@@ -164,11 +166,11 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - 4 | 527 Stroje a zariadenia pre potravinársky priemysel II a stroje na spracovanie tabaku
 
-- 4 | 532 Poľnohospodárske stroje a zariadenia (bez traktorov)
+- 4 | 536 Poľnohospodárske stroje a zariadenia (bez traktorov)*)
 
 - 4 | 533 Stroje pre zemné, stavebné a cestné práce
 
-- 4 | 534 Lopatové a korčekové rýpadlá
+- 4 | 534 Lopatové a korčekové rýpadlá (vč. plávajúcich korčekových a iných bagrov - drapákových - pol. Jednotnej klasifikácie priemyselných odborov a výrobkov 463 12, vyčlenená z triedy 6)
 
 - 4 | 535 Stroje a zariadenia pre spracovanie nerastných hmôt
 
@@ -177,6 +179,8 @@ Príloha vyhlášky č. 73/1966 Zb.
 - 4 | 539 Stroje a zariadenia pre komunálne služby
 
 - 4 | 541 Vykurovacie a varné zariadenia
+
+- 4 | 544 Šijacie a pletacie stroje pre domácnosť
 
 - Trieda | 5 Prístroje a zvláštne technické zariadenia
 
@@ -218,7 +222,7 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - | odbory:
 
-- 6 | 437 Točne a posuvne
+- 6 | 429 Vzduchotechnické zariadenia (len jednoúčelové zariadenia pre pneumatickú dopravu, položka Jednotnej klasifikácie priemyselných odborov a výrobkov 429 6, vyčlenené z triedy 3)
 
 - 6 | 444 Osobné automobily a ich úžitkové a účelové modifikácie
 
@@ -244,7 +248,7 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - 6 | 459 Koľajové vozidlá pre nákladnú dopravu
 
-- 6 | 463 Riečne a jazerné lode a plávajúce zariadenia (bez športových lodí)
+- 6 | 463 Riečne a jazerné lode a plávajúce zariadenia (bez športových lodí) (bez položky Jednotnej klasifikácie priemyselných odborov a výrobkov 463 312 - korčekové a iné bagre - drapákové, začlenenej do triedy 4)
 
 - 6 | 464 Lode námornej a zmiešanej plavby
 
@@ -268,8 +272,6 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - 6 | 477 Kovové prepravné prostriedky pre paletizáciu a kontejnerizáciu
 
-- 6 | 478 Zariadenia pre sklady
-
 - 6 | 531 Kolesové a pásové traktory
 
 - Trieda | 7 Inventár
@@ -278,9 +280,15 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - 7 | 384 Rozhlasové a televízne prijímače a reprodukčné prístroje
 
+- 7 | 478 Zariadenia pre sklady (preradenie z triedy 6)
+
+- 7 | 542 Elektrické spotrebiče a chladničky pre domácnosť
+
 - 7 | 557 Kovový nábytok
 
 - 7 | 615 Nábytok z dreva
+
+- 7 | 697 Bytové textílie (pol. Jednotnej klasifikácie priemyselných odborov a výrobkov 697 5 a 697 6 tkané a netkané koberce)
 
 - 7 | 739 Javiskové zariadenia a divadelné potreby
 
@@ -290,28 +298,14 @@ Príloha vyhlášky č. 73/1966 Zb.
 
 - Trieda | 8 Zvieratá*)
 
-- | odbory:
-
-- 8 | 031 Hovädzí dobytok
-
-- 8 | 032 Ošípané
-
-- 8 | 033 Ovce a kozy
-
-- 8 | 034 Kone
-
-- 8 | 041 Hydina
-
-- 8 | 049 Domáce a zoologické zvieratá
-
 - Trieda | 9 Pozemky*) a trvalé porasty
 
 - | odbory:
 
-- 9 | 910 Poľnohospodárske pozemky
+- 9 | 091 Poľnohospodárske pozemky
 
-- 9 | 920 Lesné pozemky a porasty
+- 9 | 092 Lesné pozemky a porasty
 
-- 9 | 930 Ostatné pozemky
+- 9 | 093 Ostatné pozemky
 
-- 9 | 940 Trvalé porasty (okrem lesných)
+- 9 | 094 Trvalé porasty (okrem lesných)

@@ -6,6 +6,8 @@
 
 - †) „Jednotnú klasifikáciu stavebných objektov" (v rozsahu prvých šiestich miest číselného znaku) vydá Ústredná komisia ľudovej kontroly a štatistiky koncom r. 1966 tlačou v Ústave normovania v stavebníctve - vydavateľstvo, Praha 9-Vysočany, Novovysočanská 85.
 
+- *) Pôvodné označenie odboru 532 sa pozmeňuje na 536.
+
 - *) Pre sledovanie zvierat a pozemkov v účtovníctve a v operatívno-technickej evidencii platia osobitné predpisy.
 
 - Poznámka:
