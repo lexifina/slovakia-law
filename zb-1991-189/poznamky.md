@@ -1,0 +1,1 @@
+- 1) § 10 odst. 6 zákona č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), ve znění zákona č. 522/1990 Sb.
