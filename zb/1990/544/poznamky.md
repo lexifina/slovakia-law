@@ -2,6 +2,8 @@
 
 - 2) Vyhláška Ústrednej správy pre rozvoj miestneho hospodárstva č. 60/1964 Zb. o úhrade za užívanie bytu a za služby spojené s užívaním bytu v znení neskorších predpisov.
 
+- 2a) § 30 ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 279/2001 Z. z.
+
 - 3) Smernice Ministerstva zdravotníctva a sociálnych vecí SSR č. 8/1988 Ú. v. SSR o poskytovaní kúpeľnej starostlivosti v zariadeniach štátnej zdravotníckej správy.
 
 - 4) § 135 ods. 4 Zákonníka práce.
@@ -50,10 +52,6 @@
 
 - Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
-- 10) Vyhláška Ministerstva financií č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
+- 9e) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
-- Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- Zákon č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
-- § 7 ods. 2 písm. a) zákona č. 472/1990 Zb. o organizácii miestnej štátnej správy.
+- 10) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
