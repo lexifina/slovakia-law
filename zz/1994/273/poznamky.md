@@ -40,6 +40,8 @@
 
 - 11ab) § 42 zákona č. 54/1956 Zb.§ 5 zákona č. 32/1957 Zb. v znení neskorších predpisov.
 
+- 11ac) § 91a zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 245/2000 Z. z.
+
 - 11b) § 31 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 12) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení neskorších predpisov.
@@ -61,6 +63,10 @@
 - 13g) Napríklad nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby.
 
 - 13ga) § 6 zákona č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 13gb) § 15 zákona č. 366/1999 Z. z. o daniach z príjmov.
+
+- 13gc) § 16 zákona č. 366/1999 Z. z.
 
 - 13h) § 3 ods. 1 písm. b) a § 10 ods. 1 písm. k) zákona č. 286/1992 Zb. v znení neskorších predpisov.
 
@@ -116,4 +122,8 @@
 
 - 24) Zákon Slovenskej národnej rady č. 322/l992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
-- 25) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
+- 25) § 31 ods. 3 a § 54 ods. 1 písm. c) zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona č. 238/2000 Z. z.
+
+- 26) § 20, § 31 ods. 5 a § 56 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
+
+- 27) Zákon č. 328/1991 Zb. v znení neskorších predpisov.
