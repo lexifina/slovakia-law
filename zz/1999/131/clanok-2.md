@@ -120,28 +120,6 @@ Zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov sa mení a dopĺňa
 
 - Výška nemocenského sa určuje z čistého denného služobného príjmu profesionálneho vojaka zisteného podľa § 6, najviac však zo sumy 250 Sk na kalendárny deň.“.
 
-- 8. V § 22 odsek 2 znie:
-
-- „(2)
-
-- Profesionálny vojak v dočasnom služobnom pomere<sup>19</sup>) má nárok na odchodné rovnajúce sa polovici základu ustanoveného podľa § 49 za každý skončený rok výkonu služby, ak jeho služobný pomer trval bez prerušenia aspoň päť rokov a bol prepustený zo služobného pomeru
-
-- a)
-
-- po splnení prevzatého záväzku na dočasný služobný pomer,
-
-- b)
-
-- zo zdravotných dôvodov,
-
-- c)
-
-- v dôsledku organizačných zmien alebo
-
-- d)
-
-- v dôsledku zníženia početných stavov ozbrojených síl.“.
-
 - 9. V § 23 ods. 1 sa za slová „Profesionálnemu vojakovi“ vkladajú slová „v stálom služobnom pomere a profesionálnemu vojakovi v dočasnom služobnom pomere“.
 
 - 10. V § 23 sa vypúšťa odsek 2. Súčasne sa zrušuje označenie odseku 1.
@@ -655,12 +633,6 @@ Zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov sa mení a dopĺňa
 - „c)
 
 - trovy, ktoré súvisia s výkonom posudkovej činnosti sociálneho zabezpečenia vojakov.“.
-
-- 40. V § 82 odsek 2 znie:
-
-- „(2)
-
-- Prebytky osobitných účtov sa odvádzajú do štátneho rozpočtu za každý štvrťrok do 30 dní po skončení štvrťroka. Prebytky osobitných účtov za štvrtý štvrťrok sa odvádzajú do štátneho rozpočtu v uvedenom termíne znížené o sumu úhrad dávok výsluhového zabezpečenia (§ 18) a dávok dôchodkového zabezpečenia (§ 92 až 96) splatných v januári nasledujúceho kalendárneho roka. Prebytkom sa rozumie rozdiel medzi príjmami osobitného účtu (§ 81 ods. 1 a 2) a výdavkami osobitného účtu (odsek 1).“.
 
 - 41. Nadpis § 84 znie:
 
