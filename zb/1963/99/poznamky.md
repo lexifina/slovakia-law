@@ -66,9 +66,13 @@
 
 - Zákon SNR č. 129/1991 Zb. o komerčných právnikoch.
 
+- 33a) Napr. § 62 zákona č. 94/1963 Zb. o rodine v znení zákona č. 132/1982 Zb. a zákona č. 234/1992 Zb.
+
 - 34) Vyhláška Ministerstva spravodlivosti Českej republiky č. 270/1990 Zb. o odmenách advokátov a komerčných právnikov za poskytovanie právnej pomoci v znení vyhlášky č. 573/1990 Zb.
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 44/1991 Zb.
+
+- 34a) § 27 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
 
 - 35) V súčasnosti ide najmä o tieto prípady:
 

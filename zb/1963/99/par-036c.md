@@ -1,3 +1,3 @@
 # § 36c
 
-Najvyššie súdy konajú a rozhodujú v senátoch.
+Najvyšší súd Slovenskej republiky koná a rozhoduje v senátoch.

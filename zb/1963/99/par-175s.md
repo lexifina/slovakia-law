@@ -1,0 +1,3 @@
+# § 175s
+
+Uznesením podľa § 175p a 175q je prejednanie dedičstva skončené. Po právoplatnosti tohto uznesenia zruší súd vykonané zabezpečenia dedičstva, pokiaľ ich už nezrušil v priebehu konania o dedičstve; zruší najmä všetky zákazy výplaty vkladov, poistiek a iných hodnôt, ktoré boli v konaní o prejednaní dedičstva nariadené alebo podľa zákona vykonané. Zároveň upovedomí ústavy, v ktorých sú tieto hodnoty uložené, komu sa majú vydať; ak táto osoba nie je známa alebo ak je jej pobyt neznámy, postupuje súd primerane podľa § 185g. Lehota podľa § 185g ods. 1 začína plynúť odo dňa právoplatnosti rozhodnutia, ktorým sa konanie skončilo.
