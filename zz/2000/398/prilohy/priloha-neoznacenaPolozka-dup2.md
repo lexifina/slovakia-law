@@ -1612,13 +1612,13 @@ d) Periodicita a lehoty na poskytovanie štatistických údajov
 
 Periodicita zisťovania: ročne.
 
-Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
+Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: priebežne od 1. apríla nasledujúceho roka.
 
 e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
 Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky prostredníctvom Krajskej správy Štatistického úradu Slovenskej republiky v Žiline.
+Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky prostredníctvom ním určených krajských správ Štatistického úradu Slovenskej republiky.
 
 51. Názov zisťovania: Štatistický dotazník o podnikoch a podnikateľoch
 
