@@ -1,7 +1,0 @@
-# § 20a
-
-(1) Peňažná pomoc v materstve sa poskytuje, pokiaľ sa ďalej neustanovuje inak, po dobu 22 týždňov materskej dovolenky; spravidla sa poskytuje od začiatku štvrtého týždňa pred očakávaným dňom pôrodu, nie však skôr ako od začiatku ôsmeho týždňa pred týmto dňom.
-
-(2) Družstevníčke, ktorá vyčerpá z materskej dovolenky pred pôrodom menej ako štyri týždne, pretože pôrod nastal skôr, ako lekár určil, alebo pretože jej lekár povolil so zreteľom na jej zdravotný stav a pracovné podmienky ďalej pracovať, poskytne sa peňažná pomoc v materstve až do uplynutia 22 týždňov od nástupu materskej dovolenky. Ak však vyčerpá družstevníčka z materskej dovolenky menej ako štyri týždne pred pôrodom z iných dôvodov, poskytne sa jej peňažná pomoc v materstve len do uplynutia 18 týždňov odo dňa pôrodu.
-
-(3) V prípade uvedenom v § 20 ods. 4 sa peňažná pomoc v materstve poskytuje vždy od začiatku štvrtého týždňa pred očakávaným dňom pôrodu.
