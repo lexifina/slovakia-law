@@ -1,1 +1,0 @@
-Ing. Šimůnek v. r.
