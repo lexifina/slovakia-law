@@ -1,35 +1,11 @@
-- SADZOBNÍK POPLATKOV
+- SADZOBNÍK POPLATKOV Sadzobník poplatkov | |
 
-  - POPLATOK SUMA
+- Poplatok | | Suma
 
-  - 1 Základný poplatok
+- 1. | Základný poplatok [Pravidlo 15.2 (a)] (a) ak medzinárodná prihláška nemá viac ako 30 listov (b) ak medzinárodná prihláška má viac ako 30 listov | 762 švajčiarskych frankov plus 15 švajčiarskych frankov za každý list nad 30 listov
 
-  - [pravidlo 15.2 (a)]
+- 2. | Poplatok za určenie [Pravidlo 15.2 (a)] (a) za určenie vykonané podľa pravidla 4.9 (a)(b) za určenie vykonané podľa pravidla 4.9 (b) a potvrdené podľa pravidla 4.9 (c) | 185 švajčiarskych frankov za jedno určenie, s podmienkou, že každé určenie podľa pravidla 4.9 (a) nad 10 nevyžaduje platenie poplatku za určenie185 švajčiarskych frankov za jedno určenie
 
-  - – ak medzinárodná prihláška nemá viac ako 30 listov 706 švaj. frankov
+- 3. | Potvrdzovací poplatok: | 50 % sumy poplatkov za určenie splatné podľa položky 2 (b)
 
-  - – ak medzinárodná prihláška má viac ako 30 listov 706 švaj. frankov a 14 švaj. frankov za každý ďalší list
-
-  - 2 Poplatok za určenie
-
-  - [pravidlo 15.2 (a)] 171 švaj. frankov za jedno určenie podliehajúce poplatku,
-
-  - maximálne 1710 švaj. frankov s tým,
-
-  - že každé ďalšie určenie je bezplatné
-
-  - 3 Rokovací poplatok
-
-  - [pravidlo 57.2 (a)] 216 švaj. frankov
-
-  - 4 Príplatok k rokovaciemu poplatku
-
-  - [pravidlo 57.2 (b)] 216 švaj. frankov
-
-  - PRIRÁŽKY
-
-  - 5 Príplatok za oneskorené platenie
-
-  - [pravidlo 16 bis 2 (a)] minimálne 268 švaj. frankov
-
-  - maximálne 674 švaj. frankov
+- 4. | Rokovací poplatok: [Pravidlo 57.2 (a)] | 233 švajčiarskych frankov
