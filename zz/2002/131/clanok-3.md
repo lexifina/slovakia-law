@@ -40,7 +40,9 @@ Zákon č. 313/2001 Z. z. o verejnej službe v znení zákona č. 118/2002 Z. z.
 
 - zamestnancovi, ktorý pôsobí na vysokej škole ako učiteľ [ods. 12 písm. c)].“.
 
-- 7. V § 19 ods. 12 sa za slová „pedagogickému zamestnancovi" vkladajú slová „podľa písm. a) alebo b)".
+- 6. V § 19 ods. 10 sa slová „lekárskej fakulty, farmaceutickej fakulty, fakulty zdravotníctva a sociálnej práce" nahrádzajú slovami „verejnej vysokej školy zaradeného na lekárskej fakulte, farmaceutickej fakulte, fakulte zdravotníctva a sociálnej práce".
+
+- 8. V § 19 ods. 20 sa v druhom riadku slovo „a" za písmenom g) nahrádza čiarkou; za slovo „h)" sa vkladajú slová „a j)"; v treťom riadku sa slovo „a" za písmenom g) nahrádza čiarkou a za slovo „h)" sa vkladajú slová „a j)".
 
 - 9. V § 20 ods. 3 sa slová „s vysokoškolským vzdelaním" nahrádzajú slovami „s vysokoškolským vzdelaním druhého stupňa".
 
