@@ -12,7 +12,7 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 173/1995
 
   - 3.2 chemickými zbraňami,
 
-  - 3.3 biologickými prostriedkami,
+  - 3.3 biologickými zbraňami,
 
   - 3.4 jadrovými zbraňami,
 
@@ -34,11 +34,11 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 173/1995
 
   - 4.7 poškodením rozvodných sietí,
 
-  - 4.8 zamorením terénu, pozemných komunikácií, stavieb, potravín, zdrojov vody a ovzdušia,
+  - 4.8 kontaminovaním terénu, pozemných komunikácií, stavieb, potravín, zdrojov vody a ovzdušia,
 
   - 4.9 rozšírením infekčných chorôb,
 
-  - 4.10 rádioaktívnym zamorením osôb, zvierat, techniky a podobne,
+  - 4.10 rádioaktívnym kontaminovaním osôb, zvierat, techniky a podobne,
 
   - 4.11 celkovým narušením života, výroby a životného prostredia.
 
@@ -48,9 +48,9 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 173/1995
 
   - 7. Záchranné, lokalizačné a likvidačné práce v priestore napadnutia sú zamerané najmä
 
-  - 7.1 na včasné varovanie osôb ohrozených účinkami použitých zbraní a prostriedkov ničenia,
+  - 7.1 na včasné varovanie obyvateľstva ohrozených účinkami použitých zbraní a prostriedkov ničenia,
 
-  - 7.2 na prieskum v priestore napadnutia s cieľom vyhľadať postihnuté osoby, vyznačiť zamorené a ohrozené úseky,
+  - 7.2 na prieskum v priestore napadnutia s cieľom vyhľadať postihnuté osoby, vyznačiť kontaminované a ohrozené úseky,
 
   - 7.3 na vyslobodzovanie postihnutých osôb z trosiek zničených a narušených budov, vrakov dopravných prostriedkov a ochranných stavieb civilnej ochrany,
 
@@ -60,11 +60,11 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 173/1995
 
   - 7.6 na lokalizáciu a likvidáciu požiarov ohrozujúcich postihnuté osoby a nasadené sily a prostriedky,
 
-  - 7.7 na kontrolu ožiarenia a zamorenia osôb, územia, ovzdušia a budov,
+  - 7.7 na kontrolu ožiarenia a kontaminovania osôb, územia, ovzdušia a budov,
 
   - 7.8 na špeciálnu očistu postihnutých osôb,
 
-  - 7.9 na odmorovanie, dezaktiváciu, dezinfekciu, dezinsekciu a deratizáciu územia a priestorov, dopravných prostriedkov a pozemných komunikácií nevyhnutných pre činnosť nasadených síl a prostriedkov,
+  - 7.9 na dekontamináciu, dezaktiváciu, dezinfekciu, dezinsekciu a deratizáciu územia a priestorov, dopravných prostriedkov a pozemných komunikácií nevyhnutných pre činnosť nasadených síl a prostriedkov,
 
   - 7.10 na uzatvorenie priestoru napadnutia,
 
