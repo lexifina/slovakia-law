@@ -538,7 +538,11 @@ Dekret č. 100/1945 Sb. se mění a doplňuje takto:
 
 - „(1)
 
-- Výtěžky (důchody) dosažené ze znárodněného podniku až do dne převzetí (§ 13, odst. 3) jsou součástí základu pro vyměření daně důchodové, všeobecné i zvláštní daně výdělkové a daně rentové posledního vlastníka znárodněného podniku před jeho znárodněním.“.
+- Výtěžky (důchody) dosažené ze znárodněného podniku až do dne převzetí (§ 13, odst. 3) jsou součástí základu pro vyměření daně důchodové, všeobecné i zvláštní daně výdělkové a daně rentové posledního vlastníka znárodněného podniku před jeho znárodněním.
+
+- (2)
+
+- Znárodněný podnik má v oboru daně z obratu a cenových vyrovnávacích částek postavení poplatníka daně z obratu až do dne, kdy o jeho převzetí bude uveřejněna podle § 12 vyhláška v Úředním listě.“.
 
 - 50. Za § 41 se vsunuje nový § 42 tohoto znění:
 
