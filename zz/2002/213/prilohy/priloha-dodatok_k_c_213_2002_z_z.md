@@ -990,6 +990,10 @@ Dodatok k č. 213/2002 Z. z.
 
   - 2. Ministerstvo zahraničných vecí pre listiny uvedené v článku 1 b dohovoru
 
+  - 3. Odvolacie súdy (Curti de apel) pre listiny uvedené v článku 1 písm. a), c), d) dohovoru
+
+  - 4. Prefektúry pre listiny uvedené v článku 1 písm. b) dohovoru
+
     - Ruská federácia
 
   - 1. Ministerstvo spravodlivosti Ruskej federácie pre listiny vydané orgánmi priamo jemu podriadenými
