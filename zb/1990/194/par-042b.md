@@ -30,9 +30,9 @@
 
 (11) Povinnosť zachovávať mlčanlivosť o účastníkoch stávok a ich účasti na hre sa nevzťahuje na prípady
 
-- a) priestupkového a daňového konania a konania pred súdom,
+- a) priestupkového a daňového konania, občianskeho súdneho konania a trestného konania alebo
 
-- b) keď účastník hry zbaví osoby uvedené v odseku 10 povinnosti zachovávať mlčalivosť.
+- b) keď účastník hry zbaví osoby uvedené v odseku 10 povinnosti zachovávať mlčanlivosť.
 
 (12) Za škody spôsobené v dôsledku chýb a omylov pri prevádzkovaní lotérií a iných podobných hier zodpovedá účastníkovi hry organizácia, ktorej bolo vydané povolenie na prevádzkovanie.
 
