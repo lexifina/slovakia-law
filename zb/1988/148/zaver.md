@@ -1,3 +1,0 @@
-Predseda:
-
-Zavadil v. r.
