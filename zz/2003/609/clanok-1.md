@@ -736,7 +736,11 @@ Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a 
 
 - (9)
 
-- Sankčný úrok je splatný do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o vyrubení sankčného úroku.“.
+- Sankčný úrok je splatný do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o vyrubení sankčného úroku.
+
+- (10)
+
+- Ustanovenia odsekov 1 až 9 sa vzťahujú na všetky dane.“.
 
 - 64. V § 36 ods. 5 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Policajná spolupráca sa nevyžaduje, ak úradnú uzáveru vykonáva colný orgán.<sup>1c</sup>)“.
 
