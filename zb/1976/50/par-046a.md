@@ -1,21 +1,23 @@
+## ODDIEL 2
+
+## OSOBITNÁ SPÔSOBILOSŤ NA NIEKTORÉ ČINNOSTI VO VÝSTAVBE
+
 # § 46a
 
-(1) Vybrané činnosti vo výstavbe, ktoré majú rozhodujúci význam pre ochranu verejných záujmov pri príprave, projektovaní alebo vykonávaní stavieb, môžu vykonávať iba osoby, ktoré na ne preukázali odbornú spôsobilosť skúškou a dostali preukaz odbornej spôsobilosti (autorizáciu).
+(1) Vybrané činnosti vo výstavbe, ktoré majú rozhodujúci význam pre ochranu verejných záujmov pri príprave, projektovaní alebo vykonávaní stavieb, môžu vykonávať iba osoby, ktoré na ne preukázali odbornú spôsobilosť skúškou a dostali preukaz odbornej spôsobilosti.
 
-(2) Za vybrané činnosti vo výstavbe sa na účely tohto zákona považujú:
+(2) Za vybrané činnosti vo výstavbe sa na účely tohto zákona považujú
 
-- a) spracovanie územnoplánovacej dokumentácie,
+- a) vypracovanie územnoplánovacích podkladov a územnoplánovacej dokumentácie,
 
-- b) geodetické merania pre projektovú činnosť a vytyčovacie práce,
+- b) projektovanie stavieb,
 
-- c) projektovanie stavieb,
+- c) statické výpočty nosných konštrukcií stavieb,
 
-- d) hodnotenie vplyvu stavieb na životné prostredie,
+- d) výkon činnosti stavbyvedúceho a výkon činnosti stavebného dozoru,
 
-- e) statické a dynamické výpočty konštrukcií stavieb,
+- e) prieskum, skúšanie a diagnostika stavieb,
 
-- f) vedenie stavieb a vykonávanie stavebného dozoru,
+- f) geodetické merania pre projektovú činnosť a vytyčovacie práce.
 
-- g) prieskumy, skúšanie a diagnostika stavieb.
-
-(3) Podrobnosti o autorizácii na vybrané činnosti vo výstavbe, o spôsobe a podmienkach jej udeľovania ustanovia zákony národných rád.
+(3) Podrobnosti o odbornej spôsobilosti na vybrané činnosti vo výstavbe, o spôsobe a podmienkach jej udeľovania ustanovia zákony národných rád.
