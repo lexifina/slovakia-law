@@ -390,11 +390,11 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 09 - Polygrafia, spracovanie papiera, film a fotografia | | | | | | | | | |
 
-- 0901 | sadzač sadzačka | CH D | Všetky druhy prác pri zhotovovaní tlačovej formy kníhtlačovej techniky, obsluha a nastavovanie potrebných výrobých nástrojov, zariadení a strojov. | 4†) | 22 | - | - | B | 6-8 | 0901 0916
+- 0901 | sadzač sadzačka | CH D | Všetky druhy prác pri zhotovení tlačovej formy kníhtlačovej techniky, obsluha a nastavovanie potrebných výrobých nástrojov, zariadení a strojov. | 4*) | 22 | 2 | 10 | B | 6-8 | 0901 0916
 
-- 0902 | tlačiar na kníhtlačových strojoch | CH | Príprava jednofarebných a viacfarebných tlačových foriem, nastavovanie a obsluha kníhtlačových strojov. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4†) | 22 | - | - | B | 4-6 | 0902
+- 0902 | tlačiar na kníhtlačových strojoch | CH | Príprava jednofarebných i viacfarebných tlačových foriem, nastavovanie a obsluha kníhtlačových strojov. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4*) | 22 | 2 | 10 | B | 4-6 | 0902
 
-- 0906 | tlačiar na ofsetových strojoch | CH | Všetky druhy prác pri zhotovovaní tlačiarskej formy, tlače s plechmi, nastavovanie a obsluha tlačových strojov a zariadení. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4†) | 22 | - | - | B | 4-6 | 0906 0907
+- 0906 | tlačiar na ofsetových strojoch | CH | Všetky druhy prác pri zhotovovaní tlačovej formy, tlače z plochy, nastavovanie a obsluha tlačových strojov a zariadení. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4*) | 22 | 2 | 10 | B | 4-6 | 0906 0907
 
 - 0908 | planograf planografka | CH D | Kopírovanie kresieb na svetlotlačové papiere a zhotovovanie jednofarebných i viacfarebných tlačovín pomocou tlače zo želatínivej hmoty. | 2 | 10 | 1 | 6 | B | 4-8 | 0908
 
@@ -404,7 +404,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0920 | tlačiar na maloofsetových strojoch tlačiarka na maloofsetových strojoch | CH D | Všetky druhy prác pri zhotovovaní tlačových foriem pre maloofsetové stroje, nastavovanie a obsluha maloofsetových strojov. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 2 | 10 | 1 | 6 | B | 8-10 | -
 
-- 0921 | reprodukčný grafik reprodukčná grafička | CH D | Všetky druhy prác grafickej reprodukcie v základných tlačových technikách, obsluha a nastavovanie potrebných výrobných strojov, zariadení a nástrojov. Používanie meracích prístrojov. | 4†) | 22 | - | - | B | 4-8 | 0903 0905 0909 0912 0913
+- 0921 | reprodukčný grafik reprodukčná grafička | CH D | Všetky druhy prác grafickej reprodukcie v základných tlačových technikách, obsluha a nastavovanie potrebných výrobných strojov, zariadení a nástrojov. Používanie meracích prístrojov. | 4*) | 22 | 2 | 10 | B | 4-8 | 0903 0905 0909 0912 0913
 
 - 0931 | knihár knihárka | CH D | Všetka strojová väzba tlačovín, ostatné druhy knihárskych prác, spracovanie knihárskych materiálov, nastavovanie a obsluha knihárskych nástrojov, prístrojov a strojov. | 3 | 22 | 2 | 10 | B | 8-12 | 0931
 
@@ -451,6 +451,8 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 - 1025 | tlačiar tkanín tlačiarka tkanín | CH D | Potlačovanie tkanín jednoduchými a zložitými vzormi pomocou šablón. Výroba a príprava šablón pre tlač. Ručné potlačovanie pomocou foriem. | 3 | 18 | 2 | 10 | B | 4-6 | 1025
 
 - 1027 | strojový tlačiar tkanín a pletenín strojová tlačiarka tkanín a pletenín | CH D | Potlačovanie tkanín a pletenín jednofarebnými a viacfarebnými vzormi. Obsluha, nastavovanie a údržba tlačiaceho stroja. | 3 | 18 | 2 | 10 | B | 6-10 | 1027
+
+- 1028 | rytec tlačiacich a raziacich valcov rytkyňa tlačiacich a raziacich valcov | CH D | Ručné a mechanizované spôsoby výroby vzorov na tlačiacich a raziacich valcoch pre textilný a chemický priemysel. | 3 | 22 | 2 | 10 | B | 4-6 | 0485
 
 - 1033 | chemik práčovní a čistiarní chemička práčovní a čistiarní | CH D | Chemické a mechanické čistenie a pranie odevov a bielizne. Obsluha a údržba príslušných strojov a zariadení. Prijímanie, triedenie a výdaj odevov a bielizne. Administratívne práce v zberniach. | 3 | 22 | 1,5 | 10 | B*) | 8-10 | 1033
 

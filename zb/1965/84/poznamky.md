@@ -6,7 +6,7 @@
 
 - †) V učebnom odbore 0625 je preferencia len v prevádzkach, kde prevažuje striekacia technika, napr. automobilový a chemický priemysel.
 
-- †) Učebný odbor je súčasťou súvislého 5-ročného štúdia, do ktorého sa prijímajú iba žiaci, ktorí ukončili 9. ročník ZDŠ s dobrým prospechom.
+- *) Učebný odbor je súčasťou súvislého 5-ročného štúdia, na ktoré sa prijímajú iba žiaci, ktorí s dobrým prospechom ukončili 9. ročník základnej deväťročnej školy.
 
 - ††) V učebnom odbore č. 1003 je preferencia len pre odvetvie lykových vlákien.
 
