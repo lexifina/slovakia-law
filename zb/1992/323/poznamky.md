@@ -2,6 +2,8 @@
 
 - 2) § 25 ods. 2 zákona č. 172/1990 Zb. o vysokých školách.
 
+- 2a) Napríklad § 48 zákona č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 561/2001 Z. z.
+
 - 3) § 116 Občianskeho zákonníka.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
