@@ -1,1 +1,0 @@
-- 1) § 19 zákona č. 172/1990 Zb. o vysokých školách
