@@ -1,1 +1,0 @@
-Ing. Černík v. r.
