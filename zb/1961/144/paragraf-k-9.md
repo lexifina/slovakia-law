@@ -12,6 +12,6 @@
 
 (25) Za osobitne dobre vybavené obytné budovy sa považujú budovy, v ktorých sú uzavreté byty s ústredným, diaľkovým alebo etážovým kúrením, s obytnými alebo na obývanie spôsobilými halami a pod.
 
-(26) Domovou záhradou je záhrada súvisiaca s pozemkom, na ktorom je budova, i keď súvislosť je prerušená verejnou komunikáciou. Za domovú sa však nepovažuje záhrada slúžiaca na poľnohospodársku výrobu, z ktorej sa príjmy zdaňujú pôdohospodárskou daňou alebo by boli touto daňou zdanené, keby neboli od nej oslobodené (napr. u členov jednotných roľníckych družstiev). Pri použití vyššej sadzby nad dolnú hranicu pre vyrubenie dane z obytnej budovy s domovou záhradou prihliada národný výbor na veľkosť a polohu záhrady (na rovine, na svahu a pod.); daň sa však nezvýši, ak nepresahuje výmera domovej záhrady 1 000 m<sup>2</sup>.
+(26) - Zrušený od 1. 1. 1975.
 
 (27) Daň s prípadným zvýšením (§ 14 ods. 4 zákona) sa zaokrúhľuje hore na celé Kčs.

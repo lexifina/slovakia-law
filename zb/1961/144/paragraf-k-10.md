@@ -24,4 +24,4 @@
 
 (33) Ak sa prenechá budova (jej časť) na trvalé alebo prechodné ubytovanie i s bytovým zariadením za jednotnú odplatu, považuje sa za cenu užívania jednotná odplata znížená o primeranú sumu pripadajúcu na odplatu za užívanie nábytku, zariadenia alebo za posluhu, najviac však o 50 %.
 
-(34) Cena užívania domovej záhrady sa určí sumou zodpovedajúcou nájomnému, ktoré by sa dosiahlo prenájmom záhrady s prihliadnutím na veľkosť a polohu záhrady, prípadne na spôsob a rozsah užívania.
+(34) - Zrušený od 1. 1. 1975.
