@@ -14,6 +14,8 @@
 
 - 8) Čl. 61 ods. 1 Ústavy Slovenskej republiky.
 
+- 8a) Čl. 150 Ústavy Slovenskej republiky.
+
 - 9) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia.
 
 - 10) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
