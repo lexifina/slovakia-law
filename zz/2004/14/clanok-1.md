@@ -48,6 +48,10 @@ Zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z
 
 - 10. § 4 sa dopĺňa odsekom 3, ktorý znie:
 
+- „(3)
+
+- Za ochrannú známku nemožno uznať ani označenie, o ktorom úrad na základe námietok uplatnených podľa § 9 zistí, že je zhodné alebo zameniteľné s ochrannou známkou Spoločenstva<sup>2a</sup>) so skorším právom prednosti, ktorá má na území Európskych spoločenstiev dobré meno, ak by použitie tohto označenia na tovaroch alebo službách, ktoré síce nie sú podobné tým, pre ktoré je ochranná známka Spoločenstva s dobrým menom zapísaná, nepoctivo ťažilo z rozlišovacej spôsobilosti alebo dobrého mena ochrannej známky Spoločenstva alebo by im bolo na ujmu.“.
+
 - Poznámka pod čiarou k odkazu 2a znie:
 
 - „<sup>2a</sup>) Nariadenie Rady (ES) č. 40/94 z 20. decembra 1993 o ochrannej známke Spoločenstva.
@@ -134,6 +138,10 @@ Zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z
 
 - 25. § 16 sa dopĺňa odsekom 17, ktorý znie:
 
+- „(17)
+
+- Úrad vymaže z registra ochrannú známku, ak v konaní začatom na návrh majiteľa ochrannej známky Spoločenstva<sup>2a</sup>) zistí, že napadnutá ochranná známka je zhodná alebo zameniteľná s ochrannou známkou Spoločenstva so skorším právom prednosti, ktorá má v Európskych spoločenstvách dobré meno, a použitie tejto ochrannej známky na tovaroch alebo službách, ktoré síce nie sú podobné tým, pre ktoré je ochranná známka Spoločenstva s dobrým menom zapísaná, by bez riadneho dôvodu nepoctivo ťažilo z rozlišovacej spôsobilosti alebo dobrého mena ochrannej známky Spoločenstva alebo by im bolo na ujmu.“.
+
 - 26. Za § 18 sa vkladá § 18a, ktorý vrátane nadpisu znie:
 
 - „§ 18a
@@ -172,7 +180,11 @@ Zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z
 
 - (2)
 
-- Majiteľ ochrannej známky nemá právo zakázať tretím osobám jej používanie na tovare, ktorý bol s touto ochrannou známkou uvedený na trh v členskom štáte Európskej únie alebo v inom štáte tvoriacom Európsky hospodársky priestor samotným majiteľom alebo s jeho súhlasom.“.
+- Majiteľ ochrannej známky nemá právo zakázať tretím osobám jej používanie na tovare, ktorý bol s touto ochrannou známkou uvedený na trh v členskom štáte Európskej únie alebo v inom štáte tvoriacom Európsky hospodársky priestor samotným majiteľom alebo s jeho súhlasom.
+
+- (3)
+
+- Ustanovenia odsekov 1 a 2 sa nepoužijú, ak po uvedení tovaru na trh nastala bez zavinenia majiteľa jeho podstatná zmena alebo sa zhoršil jeho stav alebo vlastnosti.“.
 
 - 30. V § 28 ods. 2 písmeno c) znie:
 
@@ -183,6 +195,68 @@ Zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z
 - 31. V § 32 písm. a) a d) sa slová „[§ 4 ods. 1 písm. c)]“ nahrádzajú slovami „[§ 4 ods. 1 písm. d)]“.
 
 - 32. Za § 36 sa vkladajú § 36a, 36b a 36c, ktoré vrátane nadpisov znejú:
+
+- „Ochranná známka Spoločenstva
+
+- § 36a
+
+- (1)
+
+- Prihlášku ochrannej známky Spoločenstva možno podať na úrade, ktorý na nej vyznačí deň podania a do 14 dní ju odošle Úradu pre harmonizáciu vnútorného trhu.<sup>2a</sup>)
+
+- (2)
+
+- Zápis ochrannej známky Spoločenstva má na území Slovenskej republiky rovnaké účinky ako zápis ochrannej známky zapísanej do registra úradom.
+
+- § 36b
+
+- Premena na prihlášku národnej ochrannej známky
+
+- (1)
+
+- Úrad preskúma žiadosť o začatie národného konania o premene prihlášky ochrannej známky Spoločenstva alebo ochrannej známky Spoločenstva na prihlášku ochrannej známky podľa článku 109 nariadenia Rady,<sup>2a</sup>) ak prihlasovateľ do dvoch mesiacov od doručenia výzvy
+
+- a)
+
+- predloží preklad žiadosti a jej príloh do slovenského jazyka,
+
+- b)
+
+- uvedie adresu na doručovanie v Slovenskej republike, predloží znenie alebo dve zreteľné vyobrazenia ochrannej známky vo formáte najviac A4 vhodné na reprodukciu so všetkými podrobnosťami s rozmerom dlhšej strany najmenej 8 cm.
+
+- (2)
+
+- Úrad preverí, či je žiadosť prípustná podľa článku 110 ods. 1 nariadenia Rady.<sup>2a</sup>) Ak je žiadosť neprípustná, úrad ju zamietne.
+
+- (3)
+
+- Prihláške, ktorá vznikla premenou prihlášky ochrannej známky Spoločenstva, sa prizná dátum podania a dátum práva prednosti z tejto prihlášky, prípadne aj vstup do práv zo staršej ochrannej známky, na ktorý bol uplatnený nárok podľa článkov 34 a 35 nariadenia Rady.<sup>2a</sup>)
+
+- (4)
+
+- Ak ide o prihlášku ochrannej známky vzniknutej premenou ochrannej známky Spoločenstva, úrad takéto označenie zapíše do registra bez zverejnenia prihlášky s právom prednosti, ktoré bolo priznané ochrannej známke Spoločenstva, a túto skutočnosť oznámi vo vestníku.
+
+- § 36c
+
+- (1)
+
+- Majiteľ národnej ochrannej známky, ktorej prihláška bola podaná v dobrej viere s právom prednosti pred pristúpením Slovenskej republiky k Európskej únii, má právo zakázať v Slovenskej republike používanie ochrannej známky Spoločenstva, ktorej účinky boli rozšírené na územie Slovenskej republiky na základe prístupu Slovenskej republiky k Európskej únii,
+
+- a)
+
+- ak takáto národná ochranná známka je zhodná s ochrannou známkou Spoločenstva a tovary alebo služby, pre ktoré sú obidve známky zapísané, sú rovnaké alebo
+
+- b)
+
+- ak z dôvodu zhodnosti alebo zameniteľnosti takejto národnej ochrannej známky s ochrannou známkou Spoločenstva existuje pravdepodobnosť zámeny na strane verejnosti vrátane pravdepodobnosti asociácie s národnou ochrannou známkou a tovary alebo služby, na ktoré sa ochranné známky vzťahujú, sú rovnaké alebo podobné alebo
+
+- c)
+
+- ak takáto národná ochranná známka je zhodná alebo zameniteľná s ochrannou známkou Spoločenstva, má v Slovenskej republike dobré meno a používanie ochrannej známky Spoločenstva by nepoctivo ťažilo z rozlišovacej spôsobilosti alebo dobrého mena takejto národnej ochrannej známky alebo by im bolo na ujmu a tovary alebo služby, na ktoré sa ochranné známky vzťahujú, nie sú rovnaké alebo podobné.
+
+- (2)
+
+- Majiteľ národnej ochrannej známky uvedenej v odseku 1 môže za porušenie svojich práv požadovať náhradu škody, ktorá mu vznikla v dôsledku používania ochrannej známky Spoločenstva na území Slovenskej republiky v rozsahu ustanovenom v § 26 ods. 3.“.
 
 - 33. V § 42 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
 
