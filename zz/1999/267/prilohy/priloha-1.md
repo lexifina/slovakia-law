@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 267/1999 Z. z. [Žiadosť o pripojenie nového odberného miesta elektriny - o zvýšenie rezervovaného odberu elektriny odberateľa kategórie A a B](../assets/9ccc44db921bbfe691a19ec76c47fd75f7378cd60ed20ad9f94bd3c9da3aa480.pdf)
