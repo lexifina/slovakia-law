@@ -68,4 +68,32 @@
 
 - 32) § 30 a 31 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 
+- 33) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 34) § 28 ods. 2 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
+
+- 35) § 25 ods. 3 písm. e) zákona č. 428/2002 Z. z.
+
+- 36) § 15a zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
+
+- 37) § 24a až 24e zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 458/2003 Z. z.
+
+- 38) § 24a a 24b zákona č. 154/2001 Z. z. v znení zákona č. 458/2003 Z. z.
+
+- 39) § 29 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 411/2002 Z. z.
+
 - 40) § 26 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 41) § 39 až 43 zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 1 ods. 5 zákona č. 313/2001 Z. z. o verejnej službe a § 59 až 72 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 42) § 27 až 29 a § 39 až 44 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
+
+- 43) § 1 ods. 5 zákona č. 313/2001 a § 58 až 72 a § 163 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 44) § 24c až 24e zákona č. 154/2001 Z. z. v znení zákona č. 458/2003 Z. z.
+
+- 45) § 116 Občianskeho zákonníka.
+
+- 46) § 5 zákona č. 154/2001 Z. z.
+
+- § 51 zákona č. 312/2001 Z. z.

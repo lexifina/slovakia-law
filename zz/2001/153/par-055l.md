@@ -1,0 +1,9 @@
+# § 55l
+
+(1) Policajný zbor, Železničná polícia, Slovenská informačná služba, Zbor väzenskej a justičnej stráže, orgány štátnej správy v colníctve, daňové orgány, Najvyšší kontrolný úrad Slovenskej republiky, orgány verejnej správy v oblasti finančnej kontroly a vnútorného auditu, ostatné štátne orgány, obce, vyššie územné celky a iné právnické osoby, ako aj fyzické osoby sú povinné poskytnúť súčinnosť Úradu špeciálnej prokuratúry pri plnení jeho úloh a neodkladne vybavovať jeho dožiadania, poskytovať mu požadované informácie, posudky, odborné vyjadrenia, listiny a spisy.
+
+(2) Fyzická osoba môže odoprieť poskytnutie požadovanej informácie, ak by jej poskytnutím porušila štátom uznanú alebo uloženú povinnosť mlčanlivosti, ak tejto povinnosti nebola zbavená podľa zákona, a osoba, ktorá by podaním informácie porušila spovedné tajomstvo alebo tajomstvo informácie, ktorá jej bola zverená ústne alebo písomne pod podmienkou mlčanlivosti ako osobe poverenej pastoračnou starostlivosťou. Podanie informácie môže odoprieť aj fyzická osoba, ak by jej podaním vystavila seba alebo blízku osobu<sup>45</sup>) nebezpečenstvu trestného stíhania.
+
+(3) Úrad špeciálnej prokuratúry môže získané informácie, posudky, odborné vyjadrenia, listiny a spisy použiť iba na plnenie svojich úloh a je povinný ich chrániť pred vyzradením a zneužitím.
+
+(4) Ak na objasnenie skutočnosti dôležitej pre plnenie úloh Úradu špeciálnej prokuratúry sú potrebné odborné znalosti, Najvyšší kontrolný úrad Slovenskej republiky a orgány štátnej správy, najmä v oblasti colníctva, daní a finančnej kontroly, sú povinné poskytnúť v nevyhnutnom počte a časovom rozsahu Úradu špeciálnej prokuratúry svojich zamestnancov. Plnenie úloh v Úrade špeciálnej prokuratúry sa posudzuje ako plnenie úloh ich zamestnávateľa. Zamestnanci počas plnenia úloh v Úrade špeciálnej prokuratúry nepodliehajú ohľadom ich plnenia pokynom svojho zamestnávateľa.
