@@ -1,12 +1,20 @@
-- 1) § 11 a 12 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+- 1) § 11 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení zákona č. 138/2003 Z. z.
 
-- 1a) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+- 1a) § 50 zákona č. 435/2000 Z. z. o námornej plavbe.
 
-- 1b) § 50 zákona č. 435/2000 Z. z. o námornej plavbe.
+- 1b) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+
+- 1c) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- 1d) § 25 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, o financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+- 2a) § 3a zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení zákona č. 138/2003 Z. z.
+
+- 2b) § 39 ods. 2 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní.
+
+- 3) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
 
 - 3a) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
 
@@ -26,7 +34,7 @@
 
 - 7ab) § 13 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci.
 
-- 7ac) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch v znení zákona č. 309/2000 Z. z.
+- 7ac) Zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme.
 
 - 7b) § 39 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
@@ -98,4 +106,4 @@
 
 - 25) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
 
-- 26) Zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+- 26) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov v znení zákona č. 457/2002 Z. z.
