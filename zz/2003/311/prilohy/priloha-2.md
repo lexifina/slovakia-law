@@ -240,7 +240,7 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
   - 4. Označovanie zdravotnou značkou podľa bodu 2 sa musí použiť na veľké balenia.
 
-  - 5. Osobitná zdravotná značka, ktorá sa musí použiť na zverinu z voľne žijúcej zveri určenú výlučne na domáci trh v Slovenskej republike, pozostáva z kružnice s tesne vpísaným štvorcom, ktorá obsahuje
+  - 5. Osobitná zdravotná značka, ktorá sa musí použiť na zverinu z voľne žijúcej zveri určenú výlučne na domáci trh v Slovenskej republike, pozostáva z zo štvorca so stranou najmenej 6,5 cm s tesne vpísanou kružnicou, ktorá obsahuje
 
     - a) v hornej časti skratku názvu okresu, v ktorom sa nachádza povolená prevádzkareň,
 
@@ -248,7 +248,7 @@ Príloha č. 2 k nariadeniu vlády č. 311/2003 Z. z.
 
     - c) v dolnej časti slová „Slovenská republika“,
 
-    - d) písmená 0,8 cm vysoké a číslice 1,1 cm vysoké.
+    - d) písmená 0,8 cm vysoké a číslice 1 cm vysoké.
 
   - 6. Ostatné požiadavky podľa bodov 1, 2 písm. b) a c) platia rovnako na označovanie zveriny podľa bodu 3.
 

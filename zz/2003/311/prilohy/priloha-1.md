@@ -1,6 +1,6 @@
 Príloha č. 1 k nariadeniu vlády č. 311/2003 Z. z.
 
-- ZOZNAM TRANSPONOVANÝCH PRÁVNYCH PREDPISOV
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
   - Smernica Rady 92/45/EHS zo 16. júna 1992 o problémoch zdravia ľudí a zdravia zvierat v súvislosti s usmrcovaním voľne žijúcej zveri a uvádzaním zveriny z voľne žijúcej zveri na trh (Úradný vestník Európskych spoločenstiev, L 268, 14. 9. 1992, s. 35) v znení
 
