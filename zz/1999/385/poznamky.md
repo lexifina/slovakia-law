@@ -12,11 +12,9 @@
 
 - 7) § 23 zákona č. 366/1999 Z. z. o daniach z príjmov.
 
-- 8) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 8) § 35 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov
 
-- 9) Zákon č. 71/1967 Zb.
-
-- 9a) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+- 9a) Zákon č. 96/2002 Z. z.
 
 - 10) § 673 až 681 Obchodného zákonníka.
 
