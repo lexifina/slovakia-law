@@ -36,8 +36,6 @@
 
 - 18) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch, vyhláška Slovenského geologického úradu č. 415/1992 Zb. o udeľovaní povolení na vykonávanie geologických prác a o spôsobe overovania odbornej spôsobilosti pracovníkov, vyhláška Ministerstva životného prostredia Slovenskej republiky č. 111/1993 Z. z. o vydávaní odborných posudkov vo veciach ochrany ovzdušia alebo odpadov, ustanovovaní osôb oprávnených na vydávanie posudkov a o overovaní odbornej spôsobilosti týchto osôb, vyhláška Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom.
 
-- 19) § 3 písm. n) zákona Slovenskej národnej rady č. 128/1991 Zb. o Štátnom fonde životného prostredia Slovenskej republiky.
-
 - 1) Uvádza sa pre každý variant.
 
 - 2) Uvádza sa aj pre zámery nepodliehajúce posudzovaniu podľa tretej časti zákona.
