@@ -1,5 +1,7 @@
 - 1) § 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
+- 1a) § 10 ods. 10 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
 - 2) § 32 ods. 3 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 3) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
@@ -26,13 +28,15 @@
 
 - 14) Zákon č. 413/2002 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
+- 14a) § 2 ods. 2 písm. i) zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
+
 - 15) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 532/2002 Z. z.
 
 - 16) Napríklad § 588 Občianskeho zákonníka, § 5 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 17) § 6 ods. 1 prvá veta zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 18) § 1a písm. f) vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení vyhlášky Ministerstva financií Slovenskej republiky č. 608/1992 Zb.
+- 18) STN 73 4301 Budovy na bývanie.
 
 - 19) § 3 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
 
