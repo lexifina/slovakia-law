@@ -1,1 +1,0 @@
-Minister: Vondruška v. r.
