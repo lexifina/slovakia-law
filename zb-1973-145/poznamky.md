@@ -1,0 +1,1 @@
+- 1) Oprávnenie na zahraničnoobchodnú činnosť bolo udelené rozhodnutím Ministerstva obchodu Slovenskej socialistickej republiky č. 577/69 zo 4. mája 1969.
