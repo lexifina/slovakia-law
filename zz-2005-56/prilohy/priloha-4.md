@@ -1,0 +1,23 @@
+Príloha č. 4 k vyhláške č. 56/2005 Z. z. POPIS HRANÍC OCHRANNÝCH PÁSIEM PRÍRODNÝCH LIEČIVÝCH ZDROJOV V LÚČKACH
+
+- Ochranné pásmo I. stupňa
+
+- Ochranné pásmo I. stupňa je vyznačené v mapovom podklade - Štátna mapa odvodená v mierke 1 : 5 000, list Liptovský Mikuláš 8-2 a list Liptovský Mikuláš 8-3.
+
+- Ochranné pásmo I. stupňa chráni výverovú oblasť a má dve samostatné časti.
+
+- Prvá časť sa nachádza v doline Lúčanky. Hranica prvej časti I. ochranného pásma je kombinovaná geologicko-hydrologicko-morfologická. Severná hranica sa začína na štátnej ceste III. triedy-018/07 na hranici parciel číslo 4049 a 4050, odkiaľ smeruje na východ po hranici lesa parcela číslo 4095 a obchádza parcelu číslo 4093/2, kde sa zatáča južným smerom na parcelu číslo 4088/1. Východná hranica pokračuje krajom lesa na kóte Plieška (977 m n. m.), ponad potok a cestu parcela číslo 4069, ponad objekty Penzióny A, B a východným smerom po okraji lesa po centrálnu kotolňu. Odtiaľ sa zatáča západným smerom kolmo na ulicu Americká, hranica parcely číslo1064. Ďalej pokračuje východným smerom po ulicu Americká parcela číslo1321/1, po križovatku ulice Požiarnikov, kde sa zatáča západným smerom. Južná hranica prechádza ulicou Požiarnikov parcela číslo 1322, po križovatku ulice Slobody parcela číslo 1300. Pokračuje Cintorínskou ulicou parcela číslo 1319/3. Západná hranica sa začína križovatkou ciest 1319/3, 1314/1, pokračuje poľnou cestou parcela číslo 1319/4 po hranicu parcely číslo1025, kde sa zatáča severným smerom, hranicou parcely číslo 1029 a okrajom lesa, hranicou parcely 3820, 2766 krajom štátnej cesty III. triedy-018 107 a parcelou číslo 3850 zachádza do východiskového bodu pri dolinke Suchá.
+
+- Druhá časť ochranného pásma I. stupňa sa nachádza v doline Kalamenianky a chráni výverovú oblasť prameňa LM-33 a hydrogeologického vrtu HGL-2. Hranica druhej časti ochranného pásma I. stupňa vedie zo severu na juh po vrstevnici 590 m n. m. Južnú hranicu tvorí chotárna hranica parcely číslo 591, ktorá vedie cez poľnú cestu až po vrstevnicu 590 m n. m., kde sa lomí smerom na sever a ďalej vedie po vrstevnici 590 m n. m. smerom k východiskovému bodu.
+
+- Ochranné pásmo II. stupňa
+
+- Ochranné pásmo II. stupňa je vyznačené v mapovom podklade Vodohospodárska mapa Slovenskej republiky v mierke 1 : 50 000, list Liptovský Mikuláš 26-43.
+
+- Ochranné pásmo II. stupňa chráni tranzitno-akumulačnú oblasť. Táto oblasť zahrňuje južnú časť Chočských vrchov, resp. triasových vápencov a dolomitov krížňanského príkrovu sklonených k ich južnému okraju, resp. pozdĺžnemu chočsko-prosečňanskému zlomu. Súčasne zahŕňa tento zlom s jeho ochranou z južnej strany. Pásmo sa rozprestiera medzi dolinou Teplianky (Ráztočné, Lúčanka) a Suchou dolinou. Západná hranica sa začína západne od Lúčok na severe, na kóte Bukov (1218 m n. m.), pokračuje na juh na kóty Smrekov (1024 m n. m) a Hvozd (775 m n. m.). Južná hranica sa začína na kóte Hvozd (775 m n. m.) a pokračuje tesne popod chočsko-prosečňanský (podtatranský) zlom smerom na sútok potokov Teplianka a Kalamenianka, ďalej na nemenovanú kótu (800 m n. m.) severne od kóty Veľký Hukov (830 m n. m.), až po chotárnu hranicu medzi Liptovskou Annou a Ižipovcami. Východná hranica ide po chotárnej hranici medzi Ižipovcami a Liptovskou Annou až na kótu Čerenová (1221 m n. m.). Severná hranica sa začína na východe na kóte Čerenová (1221 m n. m.) a pokračuje západným smerom na kótu Pravnáč (1206 m n. m.), ďalej na kótu Liptovský hrad (1000 m n. m.) až na kótu Bukov (1218 m n. m.).
+
+- Ochranné pásmo III. stupňa
+
+- Ochranné pásmo III. stupňa je vyznačené v mapovom podklade Vodohospodárska mapa Slovenskej republiky v mierke 1 : 50 000, list Liptovský Mikuláš 26-43, list Trstená 26-41.
+
+- Ochranné pásmo III. stupňa chráni infiltračnú oblasť. Západná hranica sa začína na severe na štátnej ceste Kvačany – Huty medzi kótami Kvart (1146 m n. m.) a Holica (1340 m n. m.). Pokračuje na juh až po križovanie podtatranského zlomu so zlomom priečnym pod horárňou Podmeštrová, resp. kótou Meštrová (868 m n. m.). Južnú hranicu tvorí podtatranský zlom od horárne Podmeštrová až po potok tečúci východne od kóty Lipovec (842 m n. m.), resp. poľnú cestu idúcu západne od potoka. Východná hranica ide od uvedenej poľnej (lesnej) cesty severným smerom na kótu Mních (1460 m n. m.), ďalej na kótu Malá Kopa (1637 m n. m.), kótu Ostrá (1763 m n. m.) až po kótu Sivý vrch (1805 m n. m.). Severná hranica sa začína na východe na kóte Sivý vrch (1805 m n. m.), pokračuje západným smerom cez Radové skaly na kótu Biela skala (1316 m n. m.), cez kótu Javorina (1297 m n. m.) na kótu Holica (1340 m n. m.) až po štátnu cestu Kvačany – Huty.

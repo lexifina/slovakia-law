@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 56/2005 Z. z. OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V LÚČKACH ![Obrázok 02](../assets/164457e1dc978f9b8a460d62e0850655ae017489c8f4e23cc3fd4a6def602331.tiff)

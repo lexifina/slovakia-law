@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 56/2005 Z. z. OCHRANNÉ PÁSMO III. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V LÚČKACH ![Obrázok 03](../assets/12c3730a397a6e5d57d39b77fe8dc5e490c4faef02f2dc209c080684000e73b9.tiff)
