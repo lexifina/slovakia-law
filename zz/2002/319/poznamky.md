@@ -22,8 +22,6 @@
 
 - 12) Čl. 11 ods. 6 ústavného zákona č. 227/2002 Z. z.
 
-- 13) § 9 zákona Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení neskorších predpisov.
-
 - 14) § 32 a 14 zákona č. 320/2002 Z. z. o brannej povinnosti.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
@@ -38,10 +36,16 @@
 
 - 20) Zákon Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
 
-- 21) § 61 ods. 3 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
+- 20a) Zákon č. 321/2002 Z. z.
+
+- 21) § 4 písm. a), d), e) a f) zákona č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa.
 
 - 22) Napríklad Zákonník práce, Občiansky zákonník.
 
 - 23) Občiansky zákonník.
 
 - 24) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 25) § 40, 122 a 124 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 26) § 31 ods. 5 Zákonníka práce.
