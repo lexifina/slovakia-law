@@ -1,0 +1,1 @@
+Pavol Kanis v. r.
