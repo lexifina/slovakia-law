@@ -1,0 +1,1 @@
+- 1) Dňom nadobudnutia účinnosti tejto vyhlášky stráca platnosť rozhodnutie povereníka zdravotníctva č. 9737 zo 4. mája 1960, ktorým boli určené dočasné ochranné pásma pre prírodné liečivé zdroje kúpeľného miesta Číž.
