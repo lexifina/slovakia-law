@@ -90,8 +90,6 @@
 
 - 27a) § 3 písm. c) zákona č. 52/1998 Z. z.
 
-- 27b) § 24 zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení zákona č. 319/1999 Z. z.
-
 - 27c) § 8 ods. 1 a ods. 2 písm. b) zákona č. 52/1998 Z. z.
 
 - 27d) § 11 a 12 Trestného zákona v znení neskorších predpisov.
