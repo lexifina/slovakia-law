@@ -1,6 +1,6 @@
 # § 19a Penále
 
-(1) Daňový dlžník je povinný zaplatiť za každý deň omeškania penále vo výške 0,3% z nedoplatku dane. Penále sa počíta za každý deň omeškania odo dňa nasledujúceho po dni splatnosti.
+(1) Daňový dlžník je v omeškaní, ak nezaplatí splatnú daň alebo splátku dane najneskoršie v deň jej splatnosti. Penále sa počíta za každý deň omeškania, počínajúc dňom nasledujúcim po dni splatnosti až do dňa platby vrátane. Daňový dlžník je povinný zaplatiť za každy deň omeškania penále vo výške 0,3 % z nedoplatku dane alebo zo splátky dane.
 
 (2) Z rozdielu medzi daňou uvedenou v daňovom priznaní a daňou uvedenou daňovým dlžníkom v dodatočnom priznaní sa vypočíta penále podľa odseku 1 polovičnou sadzbou. Ak tento rozdiel zistil správca dane, vypočíta sa penále podľa odseku 1 dvojnásobnou sadzbou. Ak sa daň vyrubila na základe dodatočného daňového priznania, na platby uskutočnené pred jeho podaním sa neprihliada.
 
