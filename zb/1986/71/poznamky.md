@@ -42,6 +42,8 @@
 
 - 11) § 84 a 85 zákona SNR č. 372/1990 Zb. o priestupkoch v znení zákona č. 524/1990 Zb.
 
+- 11a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
+
 - 12) § 15 až 18 zákona č. 526/1990 Zb.
 
 - 13) Napr.:
