@@ -2,6 +2,10 @@
 
 - **) Pôsobnosť finančných správ, prípadne odborov štátnych financií v oblasti finančno-ekonomických nástrojov v zahraničnom obchode zostáva týmto ustanovením nedotknutá.
 
+- *) § 4 ods. 2 zákona č. 145/1970 Zb. o národohospodárskom plánovaní.
+
+- **) § 2 ods. 2 písm. c) zákona č. 54/1963 Zb. o Československej akadémii vied.
+
 - *) Zákon č. 101/1964 Zb. o sociálnom zabezpečení a zákon č. 103/1964 Zb. o sociálnom zabezpečení družstevných roľníkov v znení neskorších predpisov.
 
 - *) § 8 zákona č. 66/1969 Zb. o veterinárnej starostlivosti, § 21 zákona č. 61/1964 Zb. o rozvoji rastlinnej výroby.
