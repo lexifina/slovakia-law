@@ -18,10 +18,8 @@
 
 - e) stráženie a ochranu majetku,
 
-- f) poplatky banke za vedenie účtu,
+- f) bežnú údržbu majetku,
 
-- g) bežnú údržbu majetku,
-
-- h) iné výdavky spojené s prevodom majetku.
+- g) iné výdavky spojené s prevodom majetku.
 
 (5) Postup podľa § 47b a 47c upraví ministerstvo všeobecne záväzným právnym predpisom.
