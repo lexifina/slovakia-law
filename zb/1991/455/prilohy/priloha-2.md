@@ -8,31 +8,31 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 202 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | |
 
-- Výroba, montáž, opravy, rekonštrukcie vyhradených tlakových zariadení a vykonávanie revízií a skúšok kotlov a tlakových nádob dodávateľským spôsobom a periodické skúšky nádob na plyn *) | Oprávnenie (§ 4 vyhl. č. 23/1979 Zb. v znení vyhl. č. 84/1982 Zb. a vyhl. č. 485/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 84/ 1982 Zb. a vyhl.
+- Výroba, montáž, opravy, rekonštrukcie vyhradených tlakových zariadení a vykonávanie revízií a skúšok kotlov a tlakových nádob dodávateľským spôsobom a periodické skúšky nádob na plyn *) | Oprávnenie (§ 4 vyhl. č. 23/1979 Zb. v znení vyhl. č. 84/1982 Zb. a vyhl. č. 485/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 84/ 1982 Zb. a vyhl.
 
-- Revízie a skúšky vyhradených tlakových zariadení *) | Osvedčenie (§ 8 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 7 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990 Zb.
+- Revízie a skúšky vyhradených tlakových zariadení *) | Osvedčenie (§ 8 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 7 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990 Zb.
 
-- Výroba, montáž, opravy a rekonštrukcie vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 24/1979 Zb. v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.
+- Výroba, montáž, opravy a rekonštrukcie vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 24/1979 Zb. v znení vyhl. č. 486/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.
 
-- Individuálne vyskúšanie, overovacie skúšky, revízie a revízne skúšky vyhradených zdvíhacích zariadení *) | Osvedčenie (§ 4, 5, 7 a 8 vyhl. č. 24/1979 Zb. , ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce
+- Individuálne vyskúšanie, overovacie skúšky, revízie a revízne skúšky vyhradených zdvíhacích zariadení *) | Osvedčenie (§ 4, 5, 7 a 8 vyhl. č. 24/1979 Zb. , ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce
 
-- Montáž, opravy a revízie vyhradených plynových zariadení *) | Oprávnenie (§ 3 vyhl. č. 26/1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
+- Montáž, opravy a revízie vyhradených plynových zariadení *) | Oprávnenie (§ 3 vyhl. č. 26/1979 Zb. v znení vyhl. č. 488/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
+- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Revízie a skúšky vyhradených plynových zariadení *) | Osvedčenie (§ 4 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce;
+- Revízie a skúšky vyhradených plynových zariadení *) | Osvedčenie (§ 4 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce;
 
 - SKUPINA 203 - Výroba motorových a ostatných dopravných prostriedkov | |
 
 - Výroba, inštalácia, opravy a výstroje elektrických trakčných vozidiel | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a skúška odbornej spôsobilosti v elektrotechnike *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Výroba, montáž, opravy a rekonštrukcie určených technických dopravných zariadení (tlakové, plynové, elektrické a zdvíhacie) *) a lanových dráh | Potvrdenie [§ 20 ods. 3 písm. b) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974 Zb.] | *) § 1 vyhl. č. 61/1982 Zb. o určených technických zariadeniach
+- Výroba, montáž, opravy a rekonštrukcie určených technických dopravných zariadení (tlakové, plynové, elektrické a zdvíhacie) *) a lanových dráh | Potvrdenie [§ 20 ods. 3 písm. b) zák. č. 51 /1964 Zb. o dráhach v znení zák. č. 104/1974 Zb.] | *) § 1 vyhl. č. 61/1982 Zb. o určených technických zariadeniach
 
 - Opravy kontajnerov ISO a opravy výmenných nadstavieb | Potvrdenie [§ 4 ods. 4 písm. a) vyhl. č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku] |
 
-- Výroba zváraných oceľových drážnych mostných konštrukcií, zváranie koľajových vozidiel a vyhradených koľajových zariadení v doprave | Potvrdenie [§ 20 ods. 3 písm. d) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974Zb.] |
+- Výroba zváraných oceľových drážnych mostných konštrukcií, zváranie koľajových vozidiel a vyhradených koľajových zariadení v doprave | Potvrdenie [§ 20 ods. 3 písm. d) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974 Zb.] |
 
-- Defektoskopické kontroly, montáž lán, zalievanie koncoviek a spojok lán, spletanie lán lanových dráh | Potvrdenie [§ 20 ods. 3 písm. b) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974Zb.] |
+- Defektoskopické kontroly, montáž lán, zalievanie koncoviek a spojok lán, spletanie lán lanových dráh | Potvrdenie [§ 20 ods. 3 písm. b) zák. č. 51/1964 Zb. o dráhach v znení zák. č. 104/1974 Zb.] |
 
 - Revízie a skúšky určených technických zariadení *) a lanových dráh, kontajnerov ISO | Osvedčenie [§ 20 ods. 3 písm. c) zák. č. 51/1964 Zb. o dráhach v znení zák.č. 104/1974 Zb.; § 4 ods. 4 písm. a) vyhl. č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku] | *) § 1 vyhl. č. 61/1982 Zb. o určených technických zariadeniach
 
@@ -40,11 +40,11 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 204 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | |
 
-- Výroba, opravy a montáž meradiel | registrácia na Úrade pre normalizáciu, § 19 zák. č. 505/1990 Zb. o metrológii metrológiu a skúšobníctvo SR vykonaná po zistení, že podnik má na náležitý výkon činnosti vytvorené potrebné predpoklady | § 19 zák. č. 505/1990 Zb. o meterológii
+- Výroba, opravy a montáž meradiel | registrácia na Úrade pre normalizáciu, § 19 zák. č. 505/ 1990 Zb. o metrológii metrológiu a skúšobníctvo SR vykonaná po zistení, že podnik má na náležitý výkon činnosti vytvorené potrebné predpoklady | § 19 zák, č. 505/1990 Zb. o me-terológii
 
 - SKUPINA 205 - Výroba elektrických prístrojov | |
 
-- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487/1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
+- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487 / 1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
 
 - Revízia vyhradených elektrických zariadení | Osvedčenie (§ 9 vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/ 1982 Zb.
 
@@ -74,19 +74,19 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 213 - Stavebníctvo | |
 
-- Projektová činnosť v investičnej výstavbe | oprávnenie na projektovú činnosť (preukaz osobitnej spôsobilosti) alebo vysokoškolské lesnícke vzdelanie | § 2 a 5 vyhl. č. 186/1990 Zb. o oprávnení na projektovú činnosť
+- Spracovanie územnoplánovacích podkladov a územnoplánovacej dokumentácieProjektovanie staviebStatické výpočty nosných konštrukcií staviebVýkon činnosti stavbyvedúcehoVýkon činnosti stavebného dozoruPrieskum, skúšanie a diagnostika stavieb | preukaz o odbornej spôsobilosti | § 11 ods. 3 zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov
 
 - Vykonávanie dopravných stavieb | vysokoškolské vzdelanie stavebné dopravný smer alebo vysokoškolské lesnícke vzdelanie a 8 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
 
 - Vykonávanie inžinierskych stavieb, priemyselných stavieb, bytových a občianskych stavieb (vrátane vybavenosti sídliskových celkov) | vysokoškolské vzdelanie stavebné alebo lesnícke a 5 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
 
-- Staviteľ (vykonávanie jednoduchých stavieb *) a poddodávok pre vyššie uvedené stavby) | strednáodborná škola stavebná s maturitnou skúškou a 5 rokov praxe v stavebníctve alebo vysokoškolské vzdelanie stavebné alebo lesnícke a 2 roky praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť; *) § 2 vyhl. č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhl. č. 155/1980 Zb. a vyhl. č. 378/1992 Zb.
+- Staviteľ (vykonávanie jednoduchých stavieb *) a poddodávok pre vyššie uvedené stavby) | stredná odborná škola stavebná s maturitnou skúškou a 5 rokov praxe v stavebníctve alebo vysokoškolské vzdelanie stavebné alebo lesnícke a 2 roky praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť; *) § 2 vyhl. č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhl. č. 155/1980 Zb. a vyhl. č. 378/1992 Zb.
 
 - Vykonávanie stavebných prác vo výškach pomocou horolezeckej alebo speleologickej techniky | osvedčenie vydané vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce alebo inštruktorom horolezeckej (speleologickej) techniky | § 1, 9 a 50 vyhl. č. 374/ 1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach
 
 - Elektroinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Plynoinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (23 a 24 vyhl. č. 175/1975 Zb., ktorou sa vykonávajú niektoré ustanovenia plynárenského zákona v znení vyhl. č. 8/1986Zb.) *) | *) vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
+- Plynoinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (§ 23 a 24 vyhl. č. 175/1975 Zb., ktorou sa vykonávajú niektoré ustanovenia plynárenského zákona v znení vyhl. č. 8/1986Zb.) *) | *) vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
 - SKUPINA 214 - Ostatné | |
 
@@ -130,11 +130,9 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - | b) vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore |
 
-- Psychologické služby neklinické-ho charakteru | vysokoškolské vzdelanie príslušného smeru a 5 rokov praxe v odbore |
+- Technik požiarnej ochrany | Osvedčenie (§ 11 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov; § 10 vyhl. č. 446/1991 Zb.) *) | *) § 1 a 2 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
 
-- Technik požiarnej ochrany | Osvedčenie (§11 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov; § 10 vyhl. č. 446/1991 Zb.) *) | *) § 4 a 5 vyhl. č. 446/ 1991 Zb. , ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
-
-- Špecialista požiarnej ochrany | Osvedčenie (§11 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov; § 10 vyhl. č. 446/1991 Zb.) *) | *) § 4 a 5 vyhl. č. 446/ 1991 Zb. , ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
+- Špecialista požiarnej ochrany | Osvedčenie (§ 11 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov; § 10 vyhl. č. 446/1991 Zb.) *) | *) § 4 a 5 vyhl. č. 446/ 1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
 
 - Opravy, plnenie a revízie hasiacich prístrojov | Oprávnenie (§ 26 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane) |
 
@@ -152,6 +150,6 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Vykonávanie ohňostrojových prác | preukaz odpaľovača ohňostrojov | § 4 vyhl. č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov
 
-- Nákup a predaj pyrotechnických výrobkov | a) preukaz pyrotechnika alebo b) preukaz strelmajstra aleboc) preukaz odpaľovača ohňostrojov alebo d) potvrdenie o kvalifikácii predavača pyrotechnických výrobkov | § 6, 7, 8 a 9 vyhl. č. 536/1991 Zb. o pyrotechnických výrobkoch; § 40 vyhl. č. 71/1988 Zb. o výbušninách v znení vyhl. č. 534/1991 Zb.; vyhl. č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov
+- Nákup a predaj pyrotechnických výrobkov | a) preukaz pyrotechnika alebob) preukaz strelmajstra aleboc) preukaz odpaľovača ohňostrojov alebod) potvrdenie o kvalifikácii predavača pyrotechnických výrobkov | § 6, 7, 8 a 9 vyhl. č. 536/1991 Zb. o pyrotechnických výrobkoch; § 40 vyhl. č. 71/1988 Zb. o výbušninách v znení vyhl. č. 534/1991 Zb.; vyhl. č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov
 
 - Pedikúra | osvedčenie vydané vzdelávacím zariadením akreditovaným Ministerstvom školstva a vedy SR |
