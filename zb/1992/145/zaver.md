@@ -1,0 +1,3 @@
+Minister:
+
+Pišút v. r.
