@@ -28,6 +28,8 @@
 
 - 6) Zákon č. 237/1991 Zb. o patentových zástupcoch.
 
+- 6a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
+
 - 7) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
 
 - 8) Vyhláška Federálneho ministerstva financií č. 63/1989 Zb. o overovateľoch (audítoroch) a ich činnosti.
