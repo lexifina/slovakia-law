@@ -94,6 +94,8 @@
 
 - 48) § 11a zákona č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona č. 459/2000 Z. z.
 
+- 48a) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
 - 49) § 106 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 50) § 34 a 46 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
