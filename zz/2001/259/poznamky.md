@@ -28,7 +28,7 @@
 
 - 15) § 116 Občianskeho zákonníka.
 
-- 16) § 28 zákona č. 332/2023 Z. z. o verejnej osobnej doprave a o zmene a doplnení niektorých zákonov.
+- 16) § 30 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. v znení neskorších predpisov.
 
 - 17) § 48 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. v znení neskorších predpisov.
 
