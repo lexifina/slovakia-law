@@ -1,1 +1,0 @@
-Zápotocký v. r.
