@@ -1,0 +1,1 @@
+Príloha 3 vyhlášky č. 51/1978 Zb. [Vzor 03-1](../assets/932d6b50a38155366a60d06ef6d8037445e677276814043ec76909e0266cd27b.pdf)
