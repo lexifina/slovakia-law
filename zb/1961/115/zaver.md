@@ -1,3 +1,0 @@
-Minister:
-
-Ďuriš v. r.
