@@ -1,0 +1,3 @@
+# Čl. VI.
+
+Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr zemědělství v dohodě se zúčastněnými členy vlády.
