@@ -1,0 +1,3 @@
+# Čl. II
+
+Tento zákon nadobúda účinnosť pätnástym dňom po vyhlásení v Zbierke zákonov Slovenskej republiky.
