@@ -1,24 +1,32 @@
-- 1) § 2 písm. m) zákona č. 618/1992 Zb. Colný zákon.
+- 1) Vyhláška ministra zahraničných vecí č. 160/1988 Zb. o Medzinárodnom dohovore o harmonizovanom systéme opisu a číselného označovania tovaru a Protokole o jeho zmene.
 
-- 1a) § 115 až 117 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplné znenie č. 47/1992 Zb.).
+- 1a) Nariadenie vlády Slovenskej republiky č. 360/1996 Z. z., ktorým sa vydáva colný sadzobník v znení nariadenia vlády Slovenskej republiky č. 99/1997 Z. z.
 
-- 2) Vyhláška Ministerstva financií Slovenskej republiky č. 82/1993 Z. z. o forme obsahu a náležitostiach colného vyhlásenia a o spôsobe vedenia colnej štatistiky.
+- 1b) § 115 Občianskeho zákonníka.
 
-- 3) § 194 a nasl. Colného zákona.
+- 1c) § 116 a 117 Občianskeho zákonníka.
 
-- 4) § 6 a § 476 až 488 zákona č. 513/1991 Zb. Obchodný zákonník.
+- 1d) § 2 písm. k) body 1 a 8 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
 
-- § 15 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č.92/1992 Zb.
+- 2) Doplnková poznámka 4 ku kapitole 27 nariadenia vlády Slovenskej republiky č. 360/1996 Z. z.
 
-- 5) Napr. zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb., zákon č. 328/1991 Zb. o konkurze a vyrovnaní, § 189 Colného zákona.
+- 2a) Doplnkové poznámky 4 a 6 ku kapitole 27 nariadenia vlády Slovenskej republiky č. 360/1996 Z. z.
 
-- 6) § 49 ods. 1 a 3 zákona č. 222/1992 Zb. o dani z pridanej hodnoty v znení zákona č. 596/1992 Zb. a zákona č. 159/1993 Z. z.
+- 3) § 196 až 211 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
+
+- 4) § 476 až 488 Obchodného zákonníka.§ 15 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 4a) § 720 Občianskeho zákonníka.
+
+- 4b) § 6 Obchodného zákonníka.
+
+- 5) Napr. zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb., zákon č. 328/1991 Zb. o konkurze a vyrovnaní, § 192 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
+
+- 6) § 39 ods. 1, 3 a 4 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty.
 
 - 7) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov (úplné znenie zákona č. 84/1987 Zb.).
 
 - 7a) § 112 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
-
-- 7b) § 63 ods. 2 písm. f) zákona č. 618/1992 Zb.
 
 - 8) § 2 Obchodného zákonníka.
 
@@ -26,6 +34,6 @@
 
 - 8b) Číselný kód 01.4 Klasifikácie produkcie vydanej opatrením Štatistického úradu Slovenskej republiky č. 172/1995 Z. z.
 
-- 9) § 226 a nasl. Colného zákona.
+- 9) § 221 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
 - 10) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona Národnej rady Slovenskej republiky č. 165/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z.
