@@ -16,6 +16,26 @@ Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomer
 
 - Poslancovi patria technické prostriedky potrebné na výkon jeho mandátu v rozsahu a za podmienok ustanovených uznesením národnej rady; po skončení volebného obdobia mu zostávajú.“.
 
+- 4. Za § 4 sa vkladá § 4a, ktorý znie:
+
+- „§ 4a
+
+- (1)
+
+- Na zabezpečenie výkonu poslaneckého mandátu si poslanec zriaďuje primerane vybavenú kanceláriu.
+
+- (2)
+
+- Na výkon odborných a administratívnych prác spojených s činnosťou poslaneckej kancelárie poskytne Kancelária Národnej rady Slovenskej republiky (ďalej len „kancelária národnej rady“) poslancovi asistenta, ktorého po dohode s poslancom zamestná kancelária národnej rady.
+
+- (3)
+
+- Výdavky na prevádzku poslaneckej kancelárie podľa odseku 1 uhrádza kancelária národnej rady za podmienok ustanovených uznesením národnej rady.
+
+- (4)
+
+- Platové náležitosti asistenta poslanca do výšky 60 % platu poslanca (§ 2) uhrádza kancelária národnej rady. Poistné za asistenta poslanca uhrádza kancelária národnej rady podľa osobitných predpisov. Podrobnosti o zamestnávaní a odmeňovaní asistentov poslancov ustanoví národná rada uznesením.“.
+
 - 5. Za § 28 sa vkladá § 28a, ktorý znie:
 
 - „§ 28a
