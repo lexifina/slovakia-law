@@ -174,6 +174,12 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - zabezpečiť zastupovanie v rozsahu získaného oprávnenia počas dočasnej neprítomnosti osoby, ktorá poskytuje zdravotnú starostlivosť, a uvedenú skutočnosť oznámiť štátnemu okresnému lekárovi v prípade, ak dočasná neprítomnosť trvá dlhšie ako tri pracovné dni; súčasne je povinné bezodkladne uviesť na viditeľnom mieste, kto vykonáva zastupovanie a kde sa zastupovanie vykonáva . Tieto povinnosti sa vzťahujú na zdravotnícke zariadenie uvedené v § 24 ods. 1 písm. a),“.
 
+- 25. V § 26 ods. 2 písmeno d) znie:
+
+- „d)
+
+- spracúvať a predkladať samosprávnemu kraju údaje v rozsahu určenom ministerstvom zdravotníctva,“.
+
 - 26. V § 26 sa odsek 2 dopĺňa písmenom f), ktoré znie:
 
 - „f)
@@ -183,6 +189,24 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 - 27. V § 29 ods. 1 sa vypúšťa druhá veta.
 
 - 28. V § 29 ods. 1 sa na konci pripája táto veta: „Neštátne zdravotnícke zariadenie nemôže rozhodnúť o chorobe z povolania, profesionálnej otrave alebo o inom poškodení zdravia pri práci.“.
+
+- 29. V § 31 sa odsek 1 dopĺňa písmenami d) a e), ktoré znejú:
+
+- „d)
+
+- nemocnica s poliklinikou III. typu,
+
+- e)
+
+- vysokošpecializovaný odborný ústav.“.
+
+- 30. V § 31 ods. 4 úvodnej vete sa za slovo „starostlivosti“ vkladajú slová „ako prenesený výkon štátnej správy“.
+
+- 31. V § 31 sa odsek 4 dopĺňa písmenom r), ktoré znie:
+
+- „r)
+
+- dopravná zdravotná služba.“.
 
 - 32. V § 31 ods. 6 sa na konci pripájajú tieto slová: „a na poskytovanie hematologicko-transfuziologickej starostlivosti mimo zdravotníckeho zariadenia.“.
 
@@ -200,6 +224,8 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - 37. V § 32 ods. 4 písm. g) sa slová „ods. 7,“ nahrádzajú slovami „ods. 8,“.
 
+- 38. V § 32 ods. 5 sa slová „§ 31 ods. 5“ nahrádzajú slovami „§ 31 ods. 4 písm. r) a § 31 ods. 6“.
+
 - 39. V § 33 ods. 8 písm. f) sa bodka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „žiadosť o zrušenie povolenia je držiteľ povolenia povinný podať najmenej dva mesiace pred dňom, od ktorého žiada povolenie zrušiť.“.
 
 - 40. V § 33 sa vypúšťa odsek 9.
@@ -209,6 +235,8 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 - 41. V § 33b sa vypúšťajú slová „[§ 24 ods. 1 písm. a)]“ a slovo „fyzickou“ a na konci sa pripája táto veta:
 
 - „Príslušný orgán je povinný vymedziť nadobúdateľovi zdravotnícky obvod najmenej v rozsahu zdravotníckeho obvodu predchádzajúceho držiteľa povolenia.“.
+
+- 42. V § 35 sa za slová „ministerstvo zdravotníctva,“ vkladajú slová „krajský úrad, okresný úrad a“.
 
 - 43. V § 38 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
 
@@ -428,6 +456,24 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - „Špecializačné odbory a spôsob ďalšieho vzdelávania pracovníkov v zdravotníctve ustanoví nariadenie vlády Slovenskej republiky.“.
 
+- 61. Doterajší text § 72 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Stavovské organizácie a profesiové združenia spolupracujú s orgánmi územnej samosprávy na úseku zdravotníctva pri poskytovaní zdravotnej starostlivosti, najmä so samosprávnym krajom pri
+
+- a)
+
+- udeľovaní povolení na poskytovanie zdravotnej starostlivosti v neštátnom zdravotníckom zariadení,
+
+- b)
+
+- zabezpečovaní odbornosti členov stavovských organizácií a profesiových združení na výkon povolania,
+
+- c)
+
+- obsadzovaní miest vedúcich zamestnancov zdravotníckych zariadení konkurzom.“.
+
 - 62. V § 74 sa odsek 1 dopĺňa písmenom o), ktoré znie:
 
 - „o)
@@ -436,7 +482,21 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - 63. V § 74a sa vypúšťajú slová „Štátny ústav pre kontrolu liečiv, Ústav zdravotníckych informácií a štatistiky v Bratislave,“.
 
+- 64. V § 77 ods. 3 a ods. 4 sa slová „okresný úrad“ v príslušných tvaroch nahrádzajú slovami „samosprávny kraj“ v príslušných tvaroch.
+
 - 65. Za § 78a sa vkladá § 78a, ktorý znie:
+
+- „§ 78a
+
+- Samosprávny kraj
+
+- a)
+
+- zriaďuje stredné zdravotnícke školy,
+
+- b)
+
+- povoľuje poskytovanie zdravotnej starostlivosti podľa § 31 ods. 4,“.
 
 - 66. V § 79 ods. 4 poznámka pod čiarou k odkazu 25 znie:
 
@@ -448,7 +508,11 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - 69. Za § 80e sa vkladajú § 80f až 80i, ktoré znejú:
 
-- „§ 80g
+- „§ 80f
+
+- Prepravcovia vykonávajúci dopravnú zdravotnú službu na základe živnostenského oprávnenia môžu túto činnosť vykonávať naďalej, ak do 1. februára 2003 získajú oprávnenie na vykonávanie dopravnej zdravotnej služby podľa § 31 ods. 4 písm. r); inak sú povinní výkon dopravnej zdravotnej služby skončiť.
+
+- § 80g
 
 - (1)
 
