@@ -18,7 +18,7 @@
 
 - 7a) § 112 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
 
-- 7b) § 63 ods. 2 písm. f) zákona č. 44/1974 Zb. Colný zákon v znení neskorších predpisov.
+- 7b) § 63 ods. 2 písm. f) zákona č. 618/1992 Zb.
 
 - 8) § 2 Obchodného zákonníka.
 
