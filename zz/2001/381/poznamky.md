@@ -30,6 +30,8 @@
 
 - 14) § 158 ods. 1 Trestného poriadku.
 
+- 14a) § 103 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
 - 15) § 22 Občianskeho zákonníka.
 
 - 16) § 14 a 52 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
