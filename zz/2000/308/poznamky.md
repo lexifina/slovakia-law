@@ -56,7 +56,7 @@
 
 - 28) § 2 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
 
-- 29) Zákon Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+- 29) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
 - 30) Napríklad § 23 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení neskorších predpisov, § 15 zákona č. 46/1999 Z. z.
 
