@@ -1,4 +1,6 @@
-- 1) § 273 Zákonníka práce.
+- 1) § 18 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 413/2000 Z. z.§ 30 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+
+- 1a) § 39 ods. 3 a 4 zákona č. 311/2001 Z. z. Zákonník práce.
 
 - 2) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
@@ -22,7 +24,9 @@
 
 - 7) § 15 ods. 3 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci.
 
-- 8) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky.
+- 8) Zákon č. 90/1998 Z. z. v znení zákona č. 413/2000 Z. z.Zákon č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
+
+- 8a) § 5 ods. 2 zákona č. 311/2001 Z. z.
 
 - 9) Napríklad § 3 a 14 vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti, § 14 vyhlášky Slovenského úradu bezpečnosti práce č. 25/1984 Zb. na zaistenie bezpečnosti práce v nízkotlakových kotolniach v znení vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 75/1996 Z. z.
 
