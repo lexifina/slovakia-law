@@ -1,1 +1,0 @@
-- *) Zákon č. 248/1946 Sb. v znení zákonov č. 78/1948 Sb. a č. 154/1949 Sb. platí odo dňa 29. júna 1949.
