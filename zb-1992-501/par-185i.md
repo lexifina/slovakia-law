@@ -1,0 +1,9 @@
+## Konanie o umorenie listín
+
+# § 185i
+
+(1) Umoriť možno stratenú alebo zničenú listinu, ktorú treba predložiť na uplatnenie práva.
+
+(2) V konaní pred súdom nemožno umoriť také listiny, ktoré podľa zákona je oprávnená umoriť právnická osoba, ktorá ich vystavila.
+
+(3) Umoreniu nepodliehajú peniaze, lotériové žreby, tikety, lístky a známky denného obehu (vstupenky, cestovné lístky a pod.), kupóny a talóny cenných papierov, listiny, s ktorými je spojené právo uhrádzať určitej právnickej osobe v tuzemsku cenu tovaru a služieb, ako aj listiny, na ktorých podklade možno uplatniť len nárok na vedľajšie plnenie.
