@@ -1,3 +1,3 @@
 # § 145c
 
-Vláda Česko-slovenskej federatívnej republiky môže nariadením prechodne znížiť výšku poistného, a to i len pre niektoré skupiny osôb.
+Samostatne zárobkovo činným osobám sa starobný dôchodok vypláca, aj keď sú po vzniku nároku na tento dôchodok zúčastnené na sociálnom zabezpečení.

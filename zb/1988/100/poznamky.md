@@ -40,6 +40,10 @@
 
 - 11) Zákon č. 117/1966 Zb. o niektorých dôsledkoch zanedbávania starostlivosti o deti v znení zákona č. 99/1972 Zb.
 
+- Zákon Českej národnej rady č. 459/1990 Zb. o zmenách v pôsobnosti orgánov Českej republiky v sociálnom zabezpečení.
+
+- Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
+
 - 12) Zákon č. 70/1958 Zb. o úlohách podnikov a národných výborov na úseku starostlivosti o pracovné sily v znení Zákonníka práce č. 65/1965 Zb.
 
 - § 5 vládneho nariadenia č. 92/1958 Zb., ktorým sa vykonáva zákon č. 70/1958 Zb. o úlohách podnikov a národných výborov na úseku starostlivosti o pracovné sily.
@@ -65,3 +69,15 @@
 - 18) § 13 ods. 1 a 3 zákona č. 121/1975 Zb. o sociálnom zabezpečení a obdobné ustanovenia prv platných predpisov.
 
 - 19) § 57 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 110/1990 Zb.
+
+- 20) Zákon č. 73/1990 Zb. o civilnej službe.
+
+- 21) § 12 a nasl. zákona č. 1/1991 Zb. o zamestnanosti.
+
+- 22) § 119 a 120 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
+
+- 23) § 8 ods. 3 zákona č. 73/1990 Zb.
+
+- 24) § 68 ods. 3 vyhlášky č. 149/1988 Zb. v znení vyhlášky č. 123/1990 Zb.
+
+- 25) § 27 ods. 2 nariadenia vlády Československej socialistickej republiky č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce.
