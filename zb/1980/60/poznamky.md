@@ -1,0 +1,1 @@
+- 1) Vyhláška č. 59/1980 Zb. o neobchodných vývozoch a dovozoch vecí.
