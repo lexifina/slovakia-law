@@ -14,6 +14,8 @@ Zákon č. 140/1961 Zb. Trestný zákon v znení zákona č. 120/1962 Zb., záko
 
 - 5. V § 62 ods. 1 sa za slová „vojnovej zrady (§ 114),“ vkladajú slová „falšovania a pozmeňovania peňazí a cenných papierov podľa § 140 ods. 2, 3 a 4,“ slová „nedovoleného prekročenia štátnej hranice podľa § 171b ods. 3“ sa nahrádzajú slovami „nedovoleného prekročenia štátnej hranice podľa § 171a ods. 2, 4, 5 a § 171b ods. 2 a 3“, za slová „podľa § 180c ods. 2,“ sa vkladajú slová „založenia, zosnovania a podporovania zločineckej skupiny podľa § 185a,“ a za slová „znásilnenia podľa § 241 ods. 2 a 3,“ sa vkladajú slová „sexuálneho násilia podľa § 241a ods. 2 a 3,“.
 
+- 6. V § 66 sa slová „ohrozenia štátneho tajomstva (§ 106 a 107)“ nahrádzajú slovami „ohrozenia utajovanej skutočnosti (§ 106 a 107)“.
+
 - 7. V § 66 sa slová „ohrozenia hospodárskeho tajomstva (§ 122)“ nahrádzajú slovami „ohrozenia obchodného tajomstva, bankového tajomstva alebo daňového tajomstva (§ 122)“ a vypúšťajú sa slová „skrátenia poplatkov a im podobných dávok (§ 148b)“.
 
 - 8. V § 89 ods. 4 sa na konci pripája táto veta: „Trestný čin je spáchaný so zbraňou aj vtedy, ak páchateľ použije napodobeninu zbrane alebo ju má pri sebe s úmyslom, aby bola považovaná za pravú.“.
@@ -40,6 +42,68 @@ Zákon č. 140/1961 Zb. Trestný zákon v znení zákona č. 120/1962 Zb., záko
 
 - cenný papier bez ohľadu na jeho podobu.“.
 
+- 13. § 105 až 107 vrátane nadpisov znejú:
+
+- „§ 105
+
+- Vyzvedačstvo
+
+- (1)
+
+- Kto vyzvedá skutočnosť utajovanú na ochranu záujmov Slovenskej republiky alebo na ochranu záujmov iného štátu, medzinárodnej organizácie alebo nadnárodnej organizácie, na ochranu záujmov ktorých sa Slovenská republika zaviazala, označenú podľa osobitného zákona stupňom utajenia Prísne tajné alebo Tajné, s cieľom vyzradiť ju cudzej moci, kto s takým cieľom zbiera údaje obsahujúce takú utajovanú skutočnosť alebo kto takú utajovanú skutočnosť cudzej moci úmyselne vyzradí, potresce sa odňatím slobody na tri roky až desať rokov.
+
+- (2)
+
+- Rovnako sa potresce, kto umožní alebo uľahčí činnosť páchateľovi činu uvedeného v odseku 1 alebo organizácii, ktorej cieľom je vyzvedať utajovanú skutočnosť označenú podľa osobitného zákona stupňom utajenia Prísne tajné alebo Tajné.
+
+- (3)
+
+- Odňatím slobody na osem až pätnásť rokov sa páchateľ potresce,
+
+- a)
+
+- ak spácha čin uvedený v odseku 1 alebo 2 ako člen organizácie, ktorej cieľom je vyzvedať utajovanú skutočnosť označenú podľa osobitného zákona stupňom utajenia Prísne tajné alebo Tajné,
+
+- b)
+
+- ak spácha čin uvedený v odseku 1 alebo 2, hoci mu bolo uchovávanie utajovanej skutočnosti označenej stupňom utajenia Prísne tajné alebo Tajné osobitne uložené, alebo
+
+- c)
+
+- ak spácha čin uvedený v odseku 1 alebo 2 v značnom rozsahu, alebo získa takým činom značný prospech.
+
+- (4)
+
+- Odňatím slobody na dvanásť až pätnásť rokov alebo výnimočným trestom sa páchateľ potresce, ak spácha čin uvedený v odseku 1 alebo 2 za brannej pohotovosti štátu.
+
+- Ohrozenie utajovanej skutočnosti
+
+- § 106
+
+- (1)
+
+- Kto vyzvedá skutočnosť utajovanú na ochranu záujmov Slovenskej republiky alebo na ochranu záujmov iného štátu, medzinárodnej organizácie alebo nadnárodnej organizácie, na ochranu záujmov ktorých sa Slovenská republika zaviazala, označenú podľa osobitného zákona stupňom utajenia Prísne tajné alebo Tajné s cieľom vyzradiť ju nepovolanej osobe, alebo kto s takým cieľom zbiera údaje obsahujúce utajovanú skutočnosť, alebo kto takú utajovanú skutočnosť nepovolanej osobe úmyselne vyzradí, potresce sa odňatím slobody na šesť mesiacov až tri roky.
+
+- (2)
+
+- Odňatím slobody na jeden rok až päť rokov sa páchateľ potresce,
+
+- a)
+
+- ak spácha čin uvedený v odseku 1 za brannej pohotovosti štátu,
+
+- b)
+
+- ak úmyselne vyzradí nepovolanej osobe skutočnosť označenú stupňom utajenia Prísne tajné alebo Tajné, ktorej uchovávanie mu bolo osobitne uložené, alebo
+
+- c)
+
+- ak spácha čin uvedený v odseku 1 v značnom rozsahu alebo takým činom získa značný prospech.
+
+- § 107
+
+- Kto z nedbanlivosti spôsobí vyzradenie skutočnosti utajovanej na ochranu záujmov Slovenskej republiky alebo na ochranu záujmov iného štátu, medzinárodnej organizácie alebo nadnárodnej organizácie, na ochranu záujmov ktorých sa Slovenská republika zaviazala, označenej podľa osobitného zákona stupňom utajenia Prísne tajné alebo Tajné nepovolanej osobe, alebo stratu listiny alebo veci obsahujúcej takú utajovanú skutočnosť, potresce sa odňatím slobody až na tri roky alebo zákazom činnosti, alebo peňažným trestom.“.
+
 - 14. V § 160 ods. 1 sa za slová „inú nenáležitú výhodu“ vkladajú slová „pre seba alebo pre inú osobu“ a slová „až na dva roky“ sa nahrádzajú slovami „až na tri roky“.
 
 - 15. V § 160a ods. 1 sa za slová „cez sprostredkovateľa“ vkladajú slová „pre seba alebo pre inú osobu“ a slová „až na tri roky“ sa nahrádzajú slovami „na jeden rok až päť rokov“.
@@ -64,17 +128,37 @@ Zákon č. 140/1961 Zb. Trestný zákon v znení zákona č. 120/1962 Zb., záko
 
 - 25. V § 162 ods. 2 sa za slová „tak už urobil,“ vkladajú slová „alebo z tohto dôvodu poskytne, ponúkne alebo sľúbi úplatok alebo inú nenáležitú výhodu inej osobe,“.
 
+- 26. V § 167 ods. 1 sa slová „ohrozenia štátneho tajomstva“ nahrádzajú slovami „ohrozenia utajovanej skutočnosti“.
+
+- 27. V § 167 ods. 2 sa slová „ohrozenia štátneho tajomstva“ nahrádzajú slovami „ohrozenia utajovanej skutočnosti“.
+
 - 28. § 167 sa dopĺňa odsekom 4, ktorý znie:
 
 - „(4)
 
 - Povinnosť podľa odseku 1 sa nevzťahuje na osobu, ak by jej splnením porušila spovedné tajomstvo.“.
 
+- 29. V § 168 ods. 1 a 2 sa slová „ohrozenia štátneho tajomstva (§ 106 a 107)“ nahrádzajú slovami „ohrozenia utajovanej skutočnosti (§ 106 a 107)“.
+
 - 30. § 168 sa dopĺňa odsekom 3, ktorý znie:
 
 - „(3)
 
 - Kto spácha čin uvedený v odseku 1, nie je trestný, ak by oznámením trestného činu porušil spovedné tajomstvo alebo tajomstvo informácie, ktorá jej bola zverená ústne alebo písomne pod podmienkou mlčanlivosti ako osobe poverenej pastoračnou starostlivosťou.“.
+
+- 31. § 173 vrátane nadpisu znie:
+
+- „§ 173
+
+- Ohrozenie dôvernej skutočnosti a vyhradenej skutočnosti
+
+- (1)
+
+- Kto vyzvedá skutočnosť utajovanú na ochranu záujmov Slovenskej republiky alebo na ochranu záujmov iného štátu, medzinárodnej organizácie alebo nadnárodnej organizácie, na ochranu záujmov ktorých sa Slovenská republika zaviazala, označenú podľa osobitného zákona stupňom utajenia Dôverné alebo Vyhradené s cieľom vyzradiť ju nepovolanej osobe, alebo kto takú utajovanú skutočnosť nepovolanej osobe úmyselne vyzradí, potresce sa odňatím slobody až na jeden rok alebo zákazom činnosti.
+
+- (2)
+
+- Kto utajovanú skutočnosť uvedenú v odseku 1 vyzvedá s úmyslom vyzradiť ju do cudziny alebo kto takú utajovanú skutočnosť úmyselne do cudziny vyzradí, potresce sa odňatím slobody na šesť mesiacov až tri roky.“.
 
 - 32. § 181c vrátane nadpisu znie:
 
