@@ -451,5 +451,3 @@ PRÍLOHA I
   - Článok 47
 
     - (Táto príloha neobsahuje článok 47.)
-
-    - [Príloha 02](../assets/52ca84691571674e0a0028e2fdf36f5bd1fb0d2dab19d575be29b673844369cf.pdf)
