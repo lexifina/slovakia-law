@@ -1,89 +1,49 @@
 Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
-- PERCENTUÁLNY PODIEL PRÍPLATKU ZA RIADENIE NADRIADENÝM V HASIČSKOM A ZÁCHRANNOM ZBORE A V HORSKEJ ZÁCHRANNEJ SLUŽBE 1. Ministerstvo – Prezídium Hasičského a záchranného zboru |
+- PERCENTUÁLNY PODIEL PRÍPLATKU ZA RIADENIE NADRIADENÝM V HASIČSKOM A ZÁCHRANNOM ZBORE
 
-- Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
+  - 1. Ministerstvo - Prezídium Hasičského a záchranného zboru
 
-- 1.1 vedúci oddelenia | 9 – 40
+  - Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
 
-- 1.2 riaditeľ odboru | 15 – 50
+  - 1.1 vedúci oddelenia | 7 - 13
 
-- 1.3 viceprezident zboru | 20 – 70
+  - 1. 2 zástupca riaditeľa pracoviska | 10 - 18
 
-- 1.4 prezident zboru | 30 – 80
+  - 1.3 riaditeľ pracoviska | 13 - 25
 
-- 2. Ministerstvo – Zariadenie Hasičského a záchranného zboru |
+  - 1.4 riaditeľ odboru | 15 - 30
 
-- Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
+  - 1.5 viceprezident zboru | 20 - 36
 
-- 2.1 veliteľ družstva | 5 – 20
+  - 1.6 prezident zboru | 30 - 47
 
-- 2.2 veliteľ čaty | 8 – 30
+  - 2. Krajské riaditeľstvo Hasičského a záchranného zboru
 
-- 2.4 veliteľ hasičskej stanice | 8 – 30
+  - Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
 
-- 2.5 vedúci oddelenia | 8 – 30
+  - 2.1 veliteľ družstva | 4 - 9
 
-- 2.6 zástupca riaditeľa zariadenia alebo zástupca veliteľa zariadenia | 9 – 40
+  - 2.2 veliteľ zmeny | 6 - 10
 
-- 2.7 riaditeľ zariadenia alebo veliteľ zariadenia | 15 – 50
+  - 2.3 veliteľ hasičskej stanice | 6 - 12
 
-- 3. Krajské riaditeľstvo Hasičského a záchranného zboru alebo pracovisko Hasičského a záchranného zboru |
+  - 2.4 vedúci pracoviska | 6 - 12
 
-- Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
+  - 2.5 vedúci oddelenia | 6 - 12
 
-- 3.1 vedúci zmeny | 5 – 20
+  - 2.6 riaditeľ | 15 - 30
 
-- 3.2 veliteľ družstva | 5 – 20
+  - 3. Okresné riaditeľstvo Hasičského a záchranného zboru
 
-- 3.3 veliteľ čaty | 8 – 30
+  - Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
 
-- 3.4 veliteľ hasičskej stanice | 8 – 30
+  - 3.1 veliteľ družstva | 4 - 9
 
-- 3.5 vedúci pracoviska | 9 – 40
+  - 3.2 veliteľ zmeny | 6 - 10
 
-- 3.6 vedúci oddelenia | 9 – 40
+  - 3.3 veliteľ hasičskej stanice | 6 - 12
 
-- 3.7 riaditeľ | 15 – 50
+  - 3.4 vedúci oddelenia | 6 - 12
 
-- 4. Okresné riaditeľstvo Hasičského a záchranného zboru |
-
-- Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
-
-- 4.1 veliteľ družstva | 5 – 20
-
-- 4.2 veliteľ čaty | 8 – 30
-
-- 4.3 veliteľ hasičskej stanice | 8 – 30
-
-- 4.4 vedúci oddelenia | 8 – 30
-
-- 4.5 riaditeľ | 10 – 40
-
-- 5. Hasičský a záchranný útvar hlavného mesta Slovenskej republiky Bratislavy |
-
-- Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
-
-- 5.1 veliteľ družstva | 5 – 20
-
-- 5.2 veliteľ čaty | 8 – 30
-
-- 5.3 veliteľ hasičskej stanice | 8 – 30
-
-- 5.4 vedúci oddelenia | 8 – 30
-
-- 5.5 zástupca veliteľa | 9 – 40
-
-- 5.6 veliteľ | 15 – 50
-
-- 6.Horská záchranná služba |
-
-- Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
-
-- 6.1 riaditeľ strediska | 10 – 30
-
-- 6.2 vedúci oddelenia | 15 – 20
-
-- 6.3 zástupca riaditeľa | 20 – 40
-
-- 6.4 riaditeľ | 30 – 60.
+  - 3.5 riaditeľ | 10 - 20

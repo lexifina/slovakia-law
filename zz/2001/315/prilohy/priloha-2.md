@@ -1,3 +1,31 @@
-Príloha č. 2 k zákonu č. 315/2001 Z.z.
+Príloha č. 2 k zákonu č. 315/2001 Z. z.
 
-- STUPNICA PLATOVÝCH TARÍF PRÍSLUŠNÍKOV HASIČSKÉHO A ZÁCHRANNÉHO ZBORU A PRÍSLUŠNÍKOV HORSKEJ ZÁCHRANNEJ SLUŽBY (€ mesačne) [STUPNICA PLATOVÝCH TARÍF PRÍSLUŠNÍKOV HASIČSKÉHO A ZÁCHRANNÉHO ZBORU A PRÍSLUŠNÍKOV HORSKEJ ZÁCHRANNEJ SLUŽBY](../assets/6bc104af7d5d23bc514365b4618055f4c158bca95a5cd0dd84f10190ca6de94a.pdf)
+- STUPNICA PLATOVÝCH TARÍF PRÍSLUŠNÍKOV HASIČSKÉHO A ZÁCHRANNÉHO ZBORU (Sk mesačne) Platový stupeň | Počet rokov praxe | Stupnica platových taríf podľa platových tried a platových stupňov | | | | | | | |
+
+- | | Platová trieda | | | | | | | |
+
+- | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
+- 1 | do 2 | 6 250 | - | 7 300 | - | 9 500 | - | - | - | -
+
+- 2 | od 2 do 4 | 6 620 | 7 140 | 7 740 | - | 10 060 | 10 690 | - | - | -
+
+- 3 | od 4 do 6 | 6 980 | 7 540 | 8 170 | - | 10 630 | 11 290 | 12 770 | - | -
+
+- 4 | od 6 do 9 | 7 350 | 7 940 | 8 610 | 9 360 | 11 190 | 11 880 | 13 460 | 14 430 | -
+
+- 5 | od 9 do12 | 7 720 | 8 340 | 9 050 | 9 850 | 11 760 | 12 480 | 14 160 | 15 170 | 16 350
+
+- 6 | od 12 do 15 | 8 080 | 8 740 | 9 480 | 10 340 | 12 320 | 13 080 | 14 860 | 15 910 | 17 140
+
+- 7 | od 15 do 18 | 8 450 | 9 130 | 9 920 | 10 830 | 12 890 | 13 680 | 15 560 | 16 660 | 17 940
+
+- 8 | od 18 do 21 | 8 810 | 9 530 | 10 350 | 11 320 | 13 450 | 14 280 | 16 260 | 17 400 | 18 730
+
+- 9 | od 21 do 24 | 9 180 | 9 930 | 10 790 | 11 810 | 14 020 | 14 880 | 16 960 | 18 140 | 19 530
+
+- 10 | od 24 do 28 | 9 550 | 10 330 | 11 230 | 12 290 | 14 580 | 15 470 | 17 650 | 18 880 | 20 320
+
+- 11 | od 28 do 32 | 9 910 | 10 730 | 11 660 | 12 780 | 15 150 | 16 070 | 18 350 | 19 630 | 21 120
+
+- 12 | nad 32 | 10 280 | 11 130 | 12 100 | 13 270 | 15 710 | 16 670 | 19 050 | 20 370 | 21 910
