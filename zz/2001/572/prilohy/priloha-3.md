@@ -1,16 +1,16 @@
 Príloha č. 3 k nariadeniu vlády č. 572/2001 Z. z.
 
-- TYPOVÁ SKÚŠKA
+- ES SKÚŠKA TYPU
 
-  - 1. Typová skúška je postup, ktorým autorizovaná osoba zisťuje a osvedčuje, že reprezentatívna vzorka zamýšľanej výroby spĺňa príslušné ustanovenia tohto nariadenia.
+  - 1. ES skúška typu je postup, ktorým notifikovaná osoba zisťuje a osvedčuje, že reprezentatívna vzorka zamýšľanej výroby spĺňa príslušné ustanovenia tohto nariadenia.
 
-  - 2. Žiadosť o typovú skúšku, ktorú predkladá autorizovanej osobe výrobca alebo jeho splnomocnenec, má obsahovať
+  - 2. Žiadosť o ES skúšku typu, ktorú predkladá notifikovanej osobe výrobca alebo jeho splnomocnenec, má obsahovať
 
     - a) meno, priezvisko a pobyt výrobcu, ak ide o fyzickú osobu, názov (obchodné meno) a sídlo, ak je výrobcom právnická osoba,
 
-    - b) dokumentáciu opísanú v bode 3 potrebnú na posúdenie zhody s požiadavkami tohto nariadenia a reprezentatívnu vzorku zamýšľanej výroby (ďalej len „typ“). Žiadateľ poskytne autorizovanej osobe na základe jej požiadania, ak treba, ďalšie vzorky,
+    - b) dokumentáciu opísanú v bode 3 potrebnú na posúdenie zhody s požiadavkami tohto nariadenia a reprezentatívnu vzorku zamýšľanej výroby (ďalej len „typ“). Žiadateľ poskytne notifikovanej osobe na základe jej požiadania, ak treba, ďalšie vzorky,
 
-    - c) písomné vyhlásenie o tom, že žiadateľ nepredložil rovnakú žiadosť na ten istý typ inej autorizovanej osobe.
+    - c) písomné vyhlásenie o tom, že žiadateľ nepredložil rovnakú žiadosť na ten istý typ inej notifikovanej osobe.
 
   - 3. Dokumentácia musí umožniť pochopenie navrhovania, výroby a výkonnosti zdravotníckej pomôcky a musí obsahovať tieto doklady:
 
@@ -30,7 +30,7 @@ Príloha č. 3 k nariadeniu vlády č. 572/2001 Z. z.
 
     - h) návrh označenia a v prípade potreby aj návrh návodu na použitie.
 
-  - 4. Autorizovaná osoba
+  - 4. Notifikovaná osoba
 
   - 4.1. Skúma a vyhodnocuje dokumentáciu a o overuje si, či sa typ zdravotníckej pomôcky vyrobil v súlade s touto dokumentáciou, ďalej vypracuje záznam o skutočnostiach, ktoré sú navrhované v súlade s ustanoveniami aplikovateľnými na normy uvedené v § 4 a záznam o skutočnostiach, ktoré nie sú navrhované podľa noriem uvedených v § 4.
 
@@ -40,20 +40,20 @@ Príloha č. 3 k nariadeniu vlády č. 572/2001 Z. z.
 
   - 4.4. Dohodne so žiadateľom miesto, na ktorom sa vykonajú potrebné inšpekcie a skúšky.
 
-  - 5. Keď typ vyhovuje ustanoveniam tohto nariadenia, autorizovaná osoba vydá žiadateľovi osvedčenie o typovej skúške. Osvedčenie obsahuje
+  - 5. Keď typ vyhovuje ustanoveniam tohto nariadenia, notifikovaná osoba vydá žiadateľovi osvedčenie o ES skúške typu. Osvedčenie obsahuje
 
     - a) meno, priezvisko, pobyt, miesto výroby a adresu výrobcu, ak je žiadateľom fyzická osoba, názov (obchodné meno), sídlo výrobcu, ak je žiadateľom právnická osoba,
 
-    - b) závery inšpekcií, podmienky platnosti a údaje potrebné na identifikáciu schváleného typu; náležité časti dokumentácie sa pripájajú k osvedčeniu a jednu kópiu si uchováva autorizovaná osoba.
+    - b) závery inšpekcií, podmienky platnosti a údaje potrebné na identifikáciu schváleného typu; náležité časti dokumentácie sa pripájajú k osvedčeniu a jednu kópiu si uchováva notifikovaná osoba.
 
-      - V prípade zdravotníckych pomôcok uvedených v prílohe č. 1 bode 7.4 autorizovaná osoba pred prijatím rozhodnutia konzultuje o aspektoch uvedených v tomto bode so štátnym ústavom. Pri prijímaní rozhodnutia autorizovaná osoba starostlivo zohľadňuje stanovisko štátneho ústavu a informuje ho o svojom konečnom rozhodnutí.
+      - V prípade zdravotníckych pomôcok uvedených v prílohe č. 1 bode 7.4 notifikovaná osoba pred prijatím rozhodnutia konzultuje o aspektoch uvedených v tomto bode so štátnym ústavom. Pri prijímaní rozhodnutia notifikovaná osoba starostlivo zohľadňuje stanovisko štátneho ústavu a informuje ho o svojom konečnom rozhodnutí.
 
-  - 6. Žiadateľ informuje autorizovanú osobu, ktorá vydala osvedčenie o typovej skúške, o všetkých dôležitých zmenách schválenej zdravotníckej pomôcky. Každú zmenu schválenej zdravotníckej pomôcky musí dodatočne schváliť autorizovaná osoba, ktorá vydala osvedčenie o typovej skúške, ak tieto zmeny môžu vyvolať pochybnosti o zhode s technickými požiadavkami alebo predpísanými podmienkami použitia zdravotníckej pomôcky. Toto dodatočné schválenie má formu dodatku k pôvodnému osvedčeniu o typovej skúške.
+  - 6. Žiadateľ informuje notifikovanú osobu, ktorá vydala osvedčenie o ES skúške typu, o všetkých dôležitých zmenách schválenej zdravotníckej pomôcky. Každú zmenu schválenej zdravotníckej pomôcky musí dodatočne schváliť notifikovaná osoba, ktorá vydala osvedčenie o ES skúške typu, ak tieto zmeny môžu vyvolať pochybnosti o zhode s technickými požiadavkami alebo predpísanými podmienkami použitia zdravotníckej pomôcky. Toto dodatočné schválenie má formu dodatku k pôvodnému osvedčeniu o ES skúške typu.
 
   - 7. Administratívne ustanovenia
 
-  - 7.1. Ostatné autorizované osoby môžu dostať kópie osvedčení o typovej skúške alebo ich dodatkov. Prílohy osvedčení sa poskytujú iným autorizovaným osobám na základe ich odôvodnenej žiadosti a po predchádzajúcom informovaní výrobcu.
+  - 7.1. Ostatné notifikované osoby môžu dostať kópie osvedčení o ES skúške typu alebo ich dodatkov. Prílohy osvedčení sa poskytujú iným notifikovaným osobám na základe ich odôvodnenej žiadosti a po predchádzajúcom informovaní výrobcu.
 
-  - 7.2. Výrobca alebo jeho splnomocnenec uchováva spolu s technickou dokumentáciou jednu kópiu osvedčenia o typovej skúške a ich dodatkov najmenej desať rokov od posledného dňa výroby zdravotníckej pomôcky.
+  - 7.2. Výrobca alebo jeho splnomocnenec uchováva spolu s technickou dokumentáciou jednu kópiu osvedčenia o ES skúške typu a ich dodatkov najmenej desať rokov od posledného dňa výroby zdravotníckej pomôcky.
 
   - 7.3. Ak výrobca ani splnomocnenec nemá sídlo na území Slovenskej republiky, prechádza povinnosť uchovávať technickú dokumentáciu pre orgány dohľadu na osobu zodpovednú za uvedenie príslušnej zdravotníckej pomôcky na trh Slovenskej republiky (napríklad dovozca).

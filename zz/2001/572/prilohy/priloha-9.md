@@ -237,3 +237,7 @@ Príloha č. 9 k nariadeniu vlády č. 572/2001 Z. z.
     - 4.6. Pravidlo 18
 
       - Bez poškodenia záujmov ostatných pravidiel, krvné vaky sa zaraďujú do skupiny IIb.
+
+    - 4.7. Pravidlo 19
+
+      - Bez poškodenia záujmov ostatných pravidiel, prsné implantáty sa zaraďujú do skupiny III.

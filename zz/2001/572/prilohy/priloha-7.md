@@ -1,8 +1,10 @@
-- VYHLÁSENIE O ZHODE
+Príloha č. 7 k nariadeniu vlády č. 572/2001 Z. z.
 
-  - 1. Vyhlásenie o zhode je konanie, pri ktorom výrobca alebo jeho splnomocnenec, ktorý plní povinnosti uvedené v bode 2, ako aj povinnosti uvedené v bode 5, ktoré sa vzťahujú na zdravotnícke pomôcky uvádzané na trh v sterilnom stave a na zdravotnícke pomôcky s meracou funkciou, zabezpečuje a vyhlasuje, že príslušné zdravotnícke pomôcky spĺňajú ustanovenia tohto nariadenia, ktoré sa na ne vzťahujú.
+- ES VYHLÁSENIE O ZHODE
 
-  - 2. Výrobca pripraví technickú dokumentáciu opísanú v bode 3. Výrobca alebo jeho splnomocnenec uchováva túto dokumentáciu najmenej desať rokov odo dňa výroby poslednej zdravotníckej pomôcky a predkladá ju vrátane vyhlásenia o zhode kontrolným orgánom na inšpekciu. Ak výrobca alebo jeho splnomocnenec nie je ustanovený v Slovenskej republike, povinnosť predkladať túto technickú dokumentáciu kontrolným orgánom má dovozca, ktorý uvádza zdravotnícku pomôcku na trh Slovenskej republiky.
+  - 1. ES vyhlásenie o zhode je konanie, pri ktorom výrobca alebo jeho splnomocnenec, ktorý plní povinnosti uvedené v bode 2, ako aj povinnosti uvedené v bode 5, ktoré sa vzťahujú na zdravotnícke pomôcky uvádzané na trh v sterilnom stave a na zdravotnícke pomôcky s meracou funkciou, zabezpečuje a vyhlasuje, že príslušné zdravotnícke pomôcky spĺňajú ustanovenia tohto nariadenia, ktoré sa na ne vzťahujú.
+
+  - 2. Výrobca pripraví technickú dokumentáciu opísanú v bode 3. Výrobca alebo jeho splnomocnenec uchováva túto dokumentáciu najmenej desať rokov odo dňa výroby poslednej zdravotníckej pomôcky a predkladá ju vrátane ES vyhlásenia o zhode kontrolným orgánom na inšpekciu. Ak výrobca alebo jeho splnomocnenec nie je ustanovený v Slovenskej republike, povinnosť predkladať túto technickú dokumentáciu kontrolným orgánom má dovozca, ktorý uvádza zdravotnícku pomôcku na trh Slovenskej republiky.
 
   - 3. Technická dokumentácia musí umožniť posúdenie zhody zdravotníckej pomôcky s požiadavkami tohto nariadenia. Obsahuje najmä
 
@@ -28,7 +30,7 @@
 
     - b) každom technickom alebo lekárskom nedostatku súvisiacom so zmenou charakteristických vlastností alebo výkonu zdravotníckej pomôcky, ktorý bol z dôvodov uvedených v písmene a) príčinou systematického sťahovania zdravotníckych pomôcok rovnakého typu z obehu výrobcom alebo jeho splnomocnencom.
 
-  - 5. Pri zdravotníckych pomôckach uvedených na trh v sterilnom stave a pri zdravotníckych pomôckach skupiny I, ktoré majú meraciu funkciu, musí výrobca dodržiavať nielen ustanovenia tejto prílohy, ale aj postupy uvedené v prílohách č. 4, 5 alebo 6. Použitie spomenutých príloh a zásah autorizovanej osoby sa obmedzujú v prípade zdravotníckych pomôcok
+  - 5. Pri zdravotníckych pomôckach uvedených na trh v sterilnom stave a pri zdravotníckych pomôckach skupiny I, ktoré majú meraciu funkciu, musí výrobca dodržiavať nielen ustanovenia tejto prílohy, ale aj postupy uvedené v prílohách č. 4, 5 alebo 6. Použitie spomenutých príloh a zásah notifikovanej osoby sa obmedzujú v prípade zdravotníckych pomôcok
 
     - a) uvedených na trh v sterilnom stave iba na aspekty výroby spojené s dosiahnutím a udržaním sterilného stavu,
 
@@ -36,4 +38,4 @@
 
   - 6. Aplikácia na zdravotnícke pomôcky skupiny IIa
 
-    - Podľa § 6 sa môže táto príloha použiť na zdravotnícke pomôcky skupiny IIa s tým, že pri použití tejto prílohy v spojení s postupom podľa príloh č. 4, 5 a 6 tvorí vyhlásenie o zhode podľa uvedených príloh jediné vyhlásenie. Vo vyhlásení podľa tejto prílohy výrobca alebo jeho splnomocnenec zaručuje a vyhlasuje, že návrh zdravotníckej pomôcky vyhovuje ustanoveniam, ktoré sa na ňu vzťahujú z tohto nariadenia.
+    - Podľa § 6 sa môže táto príloha použiť na zdravotnícke pomôcky skupiny IIa s tým, že pri použití tejto prílohy v spojení s postupom podľa príloh č. 4, 5 a 6 tvorí ES vyhlásenie o zhode podľa uvedených príloh jediné vyhlásenie. Vo vyhlásení podľa tejto prílohy výrobca alebo jeho splnomocnenec zaručuje a vyhlasuje, že návrh zdravotníckej pomôcky vyhovuje ustanoveniam, ktoré sa na ňu vzťahujú z tohto nariadenia.

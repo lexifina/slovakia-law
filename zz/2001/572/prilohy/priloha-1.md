@@ -40,7 +40,7 @@ Príloha č. 1 k nariadeniu vlády č. 572/2001 Z. z.
 
       - a) látku, ktorá keď sa použije oddelene má vlastnosti liečiva<sup>10</sup>) a ktorá môže svojim pôsobením na ľudské telo vyvolať aj iné vedľajšie účinky, ako sú účinky zdravotníckej pomôcky, potom bezpečnosť, kvalita a užitočnosť tejto látky sa musí overovať, s prihliadnutím na účel určenia zdravotníckej pomôcky, analogicky primeranými metódami uvedenými v osobitnom predpise.<sup>11</sup>)
 
-      - b) látku<sup>10</sup>) vyrobenú z ľudskej krvi, autorizovaná osoba požiada štátny ústav o odborné stanovisko ku kvalite a bezpečnosti tejto látky s prihliadnutím na ustanovenia osobitného predpisu.<sup>11</sup>) Vzorka každej šarže nezabalenej zdravotníckej pomôcky alebo finálnej zdravotníckej pomôcky obsahujúcej látky vyrobené z ľudskej krvi podlieha kontrole v štátnom ústave.
+      - b) látku<sup>10</sup>) vyrobenú z ľudskej krvi, notifikovaná osoba požiada štátny ústav o odborné stanovisko ku kvalite a bezpečnosti tejto látky s prihliadnutím na ustanovenia osobitného predpisu.<sup>11</sup>) Vzorka každej šarže nezabalenej zdravotníckej pomôcky alebo finálnej zdravotníckej pomôcky obsahujúcej látky vyrobené z ľudskej krvi podlieha kontrole v štátnom ústave.
 
     - 7.5. Zdravotnícke pomôcky sa musia navrhovať a vyrábať takým spôsobom, aby sa na najmenšiu možnú mieru zmenšilo riziko vyplývajúce z látok uvoľnených zo zdravotníckej pomôcky.
 
@@ -52,7 +52,7 @@ Príloha č. 1 k nariadeniu vlády č. 572/2001 Z. z.
 
     - 8.2. Tkanivá živočíšneho pôvodu musia pochádzať zo zvierat, ktoré boli podrobené veterinárnej kontrole a opatreniam na vykonávanie inšpekcie prispôsobeným účelu určenia tkanív.
 
-    - 8.2.1. Autorizované osoby uchovávajú informácie o geografickom pôvode týchto zvierat.
+    - 8.2.1. Notifikované osoby uchovávajú informácie o geografickom pôvode týchto zvierat.
 
     - 8.2.2. Spracovanie, uchovávanie, zaobchádzanie s tkanivami, bunkami a látkami živočíšneho pôvodu a skúšky, ktorým sa podrobujú, sa musia vykonávať pri dodržiavaní optimálnych podmienok bezpečnosti. Osobitne sa musí zabezpečiť bezpečnosť z hľadiska nákazy vírusmi a inými prenosnými agensami použitím validovaných metód odstraňovania alebo inaktivovania vírusov v priebehu výrobného procesu.
 
