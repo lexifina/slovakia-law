@@ -4,11 +4,7 @@
 
 (1) Pri odhaľovaní, zisťovaní a usvedčovaní páchateľov obzvlášť závažných trestných činov, korupcie a trestného činu podľa § 158 Trestného zákona možno použiť agenta. Jeho použitie je prípustné len vtedy, ak odhaľovanie, zisťovanie a usvedčovanie páchateľov uvedených trestných činov by bolo iným spôsobom podstatne sťažené a získané poznatky odôvodňujú podozrenie z trestnej činnosti alebo úmyslu osoby spáchať takýto trestný čin.
 
-(2) Neprípustnou činnosťou agenta je, ak sám iniciatívne
-
-- a) koná v úmysle, aby on alebo iný mal z trestného činu prospech alebo výhodu alebo iný mal pre to ujmu,
-
-- b) podstrčí alebo podhodí inému nechcenú drogu, peniaze alebo inú vec ako dôkaz o trestnej činnosti tejto osoby.
+(2) Konanie agenta musí byť v súlade s účelom tohto zákona a musí byť úmerné protiprávnosti konania, na odhaľovaní, zisťovaní alebo usvedčovaní ktorého sa zúčastňuje. Agent nesmie iniciatívne navádzať na spáchanie trestného činu; to neplatí, ak ide o korupciu spáchanú verejným činiteľom alebo zahraničným verejným činiteľom, ak možno dôvodne predpokladať, že páchateľ by spáchal taký trestný čin aj vtedy, ak by príkaz na použitie agenta nebol vydaný.
 
 (3) Agent koná pod dočasnou alebo trvalou legendou<sup>11</sup>) alebo bez legendy. Legenda je súhrn krycích údajov o osobe agenta, najmä o jeho totožnosti, rodinnom stave, vzdelaní a zamestnaní. Ako krycie údaje nemožno použiť údaje, ktoré podľa osobitného predpisu<sup>11</sup>) nesmú byť krycím dokladom.
 

@@ -8,7 +8,7 @@
 
 (2) Príkaz na postup podľa odseku 1 vydáva predseda senátu a v prípravnom konaní prokurátor.
 
-(3) Ak ide o vec, ktorá nestrpí odklad, môže dať prokurátor príkaz uvedený v odseku 2 aj mimo prípravného konania. Taký príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
+(3) Ak ide o vec, ktorá nestrpí odklad, môže dať prokurátor príkaz uvedený v odseku 2 aj pred začatím trestného stíhania. Taký príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
 
 (4) Sledovanie dodávky vykonajú príslušné orgány Policajného zboru v súčinnosti s orgánmi Colnej správy, ktoré sa musia o takom postupe vopred vyrozumieť.
 

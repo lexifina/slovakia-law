@@ -6,7 +6,7 @@
 
 (2) Trestným rozkazom možno uložiť
 
-- a) trest odňatia slobody do jedného roka,
+- a) trest odňatia slobody do dvoch rokov,
 
 - b) trest zákazu činnosti do päť rokov,
 
@@ -14,7 +14,7 @@
 
 - d) trest prepadnutia veci.
 
-(3) Náhradný trest odňatia slobody za peňažný trest nesmie ani s uloženým trestom odňatia slobody presahovať jeden rok.
+(3) Náhradný trest odňatia slobody za peňažný trest nesmie ani s uloženým trestom odňatia slobody presahovať dva roky.
 
 (4) Trestný rozkaz nemožno vydať
 
