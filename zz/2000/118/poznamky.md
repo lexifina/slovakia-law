@@ -1,0 +1,1 @@
+- *) Status (postavenie) personálu kancelárie sa bude automaticky prispôsobovať novému statusu personálu, ktorý môže prijať Výbor ministrov s tým, že sa vezmú do úvahy jeho konkrétne úlohy a miesto pracovného pôsobenia.
