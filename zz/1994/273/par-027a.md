@@ -1,6 +1,6 @@
 # § 27a Povinnosti platiteľa poistného
 
-Platiteľ poistného uvedený v § 10 ods. 1 písm. d) je povinný
+Platiteľ poistného uvedený v § 10 ods. 1 písm. c) je povinný
 
 - a) prihlásiť sa do registra platiteľov poistného na tlačive určenom poisťovňou do ôsmich dní odo dňa vzniku povinnosti odvádzať poistné,
 
