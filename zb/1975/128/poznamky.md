@@ -48,8 +48,6 @@
 
 - 23) § 21 zákona č. 54/1956 Zb. o nemocenskom poistení. § 12 zákona č. 103/1964 Zb.
 
-- 24) Porovnaj ustanovenie § 3 ods. 1 písm. e) vyhlášky č. 72/1974 Zb. na vykonanie niektorých ustanovení zákona o materskom príspevku.
-
 - 25) Služobný predpis ministerstva národnej obrany Ev. zn. Dopl.-2-1.
 
 - 26) Porovnaj poznámku <sup>6</sup>).
