@@ -1,0 +1,1 @@
+- 5a) § 8 a 16 zákona č. 427/1990 Zb. o prevode vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby.
