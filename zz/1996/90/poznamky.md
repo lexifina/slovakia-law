@@ -13,3 +13,9 @@
 - 6) Napríklad § 5 zákona č. 1/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 52/1996 Z. z., § 10 zákona č. 143/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 260/1995 Z. z.
 
 - 7) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
+
+- 8) Zákon č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
+
+- 9) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
+
+- 10) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
