@@ -1,0 +1,5 @@
+# Čl. 145a
+
+(1) Ak je vymenovaný sudca členom politickej strany alebo politického hnutia, je povinný vzdať sa členstva v nich ešte pred zložením sľubu.
+
+(2) Sudca vykonáva funkciu ako svoje povolanie. Výkon funkcie sudcu je nezlučiteľný s funkciou v inom orgáne verejnej moci, so štátnozamestnaneckým pomerom, s pracovným pomerom, s obdobným pracovným vzťahom, s podnikateľskou činnosťou, s členstvom v riadiacom alebo kontrolnom orgáne právnickej osoby, ktorá vykonáva podnikateľskú činnosť, ani s inou hospodárskou alebo zárobkovou činnosťou okrem správy vlastného majetku, vedeckej, pedagogickej, literárnej alebo umeleckej činnosti a členstva v Súdnej rade Slovenskej republiky.
