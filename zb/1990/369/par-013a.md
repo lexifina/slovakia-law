@@ -1,11 +1,37 @@
 # § 13a
 
-(1) Starosta obce môže uložiť právnickej osobe pokutu do výšky 100 000 Kčs, ak právnická osoba
+(1) Mandát starostu zaniká
 
-- a) poruší nariadenie obce,
+- a) odmietnutím sľubu alebo zložením sľubu s výhradou,
 
-- b) nesplní v určenej lehote bez vážneho dôvodu povinnosť uloženú starostom poskytnúť osobnú alebo vecnú pomoc pri odstraňovaní následkov živelnej pohromy alebo inej mimoriadnej udalosti.
+- b) uplynutím funkčného obdobia,
 
-(2) Pokuta je príjmom obce.
+- c) vzdaním sa mandátu,
 
-(3) Pokutu možno uložiť do dvoch mesiacov odo dňa, kedy sa starosta dozvedel o tom, kto sa konania podľa odseku 1 dopustil; najneskôr však do jedného roka od konania opodstatňujúceho uloženie pokuty. Pri ukladaní pokút sa postupuje podľa všeobecných predpisov o správnom konaní.<sup>15a</sup>)
+- d) právoplatným odsúdením za úmyselný trestný čin alebo právoplatným odsúdením za trestný čin, ak výkon trestu odňatia slobody nebol podmienečne odložený,
+
+- e) pozbavením spôsobilosti na právne úkony alebo obmedzením spôsobilosti na právne úkony,
+
+- f) vyhlásením výsledku hlasovania obyvateľov obce o odvolaní starostu, ktorým sa rozhodlo o odvolaní starostu,
+
+- g) zmenou trvalého pobytu mimo územia obce; v mestách so samosprávou mestských častí aj v prípade zmeny trvalého pobytu mimo územia mestskej časti, v ktorej vykonáva funkciu,
+
+- h) v prípadoch podľa § 13 ods. 3,
+
+- i) smrťou,
+
+- j) zrušením obce.
+
+(2) Vzdanie sa mandátu starostu sa musí urobiť písomne a jeho účinky nastávajú doručením obecnému úradu. Vzdanie sa mandátu nemožno vziať späť.
+
+(3) Obecné zastupiteľstvo
+
+- a) vyhlási hlasovanie obyvateľov obce o odvolaní starostu, ak
+
+  - 1. o to petíciou požiada aspoň 30 % oprávnených voličov,<sup>12</sup>)
+
+  - 2. hrubo alebo opakovane zanedbáva povinnosti starostu, porušuje Ústavu Slovenskej republiky, ústavné zákony, zákony a ostatné všeobecne záväzné právne predpisy,
+
+- b) môže vyhlásiť hlasovanie obyvateľov obce o odvolaní starostu, ak neprítomnosť alebo nespôsobilosť starostu na výkon funkcie trvá dlhšie ako šesť mesiacov.
+
+(4) O návrhu podľa odseku 3 písm. a) druhého bodu rozhoduje obecné zastupiteľstvo nadpolovičnou väčšinou hlasov všetkých poslancov.
