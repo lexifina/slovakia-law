@@ -1,3 +1,0 @@
-Minister:
-
-Miller v.r.
