@@ -1,6 +1,6 @@
 # § 79c Zaistenie účtu
 
-(1) Ak sú v trestnom konaní o trestných činoch uvedených v osobitnom zákone<sup>2</sup>) a trestných činov daňových podľa § 148, 148a a 148b Trestného zákona vecou dôležitou pre trestné konanie peniaze na účte v banke<sup>9</sup>), môže predseda senátu a v prípravnom konaní prokurátor dať príkaz, aby peniaze boli zaistené priamo na účte.
+(1) Ak sú v trestnom konaní o obzvlášť závažných trestných činoch, korupcii, trestnom čine podľa § 158 Trestného zákona a trestných činoch uvedených v druhej a deviatej hlave osobitnej časti Trestného zákona vecou dôležitou pre trestné konanie peniaze na účte v banke<sup>9</sup>), môže predseda senátu a v prípravnom konaní prokurátor dať príkaz, aby peniaze boli zaistené priamo na účte.
 
 (2) Ak ide o vec, ktorá nestrpí odklad, môže prokurátor príkaz uvedený v odseku 1 dať aj mimo prípravného konania. Taký príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
 

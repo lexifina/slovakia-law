@@ -1,6 +1,6 @@
 # § 73a Peňažná záruka
 
-(1) Ak je daný dôvod väzby uvedený v § 67 ods. 1 písm. a) alebo c), môže súd a v prípravnom konaní sudca rozhodnúť o ponechaní obvineného na slobode alebo o jeho prepustení na slobodu aj vtedy, ak obvinený zložil peňažnú záruku a súd alebo sudca ju prijme. Ak je obvinený stíhaný pre trestný čin uvedený v § 62 ods. 1 Tr. zák., peňažnú záruku nemožno prijať. So súhlasom obvineného môže peňažnú záruku zložiť aj iná osoba, ale pred jej prijatím musí byť oboznámená s podstatou obvinenia a so skutočnosťami, v ktorých sa nachádza dôvod väzby.
+(1) Ak je daný dôvod väzby uvedený v § 67 ods. 1 písm. a) alebo c), môže súd a v prípravnom konaní sudca rozhodnúť o ponechaní obvineného na slobode alebo o jeho prepustení na slobodu aj vtedy, ak obvinený zložil peňažnú záruku a súd alebo sudca ju prijme. Obvinenému vždy uloží povinnosť oznámiť vyšetrovateľovi, prokurátorovi alebo súdu zmenu miesta pobytu. Ak je obvinený stíhaný pre trestný čin uvedený v § 62 ods. 1 Tr. zák., peňažnú záruku nemožno prijať. So súhlasom obvineného môže peňažnú záruku zložiť aj iná osoba, ale pred jej prijatím musí byť oboznámená s podstatou obvinenia a so skutočnosťami, v ktorých sa nachádza dôvod väzby.
 
 (2) S prihliadnutím na osobu a majetkové pomery obvineného alebo toho, kto za neho zloženie peňažnej záruky ponúka, na povahu spáchaného činu a výšku spôsobenej škody rozhodne súd alebo sudca o výške peňažnej záruky a spôsobe jej zloženia.
 

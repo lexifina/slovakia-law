@@ -4,7 +4,7 @@
 
 # § 88a
 
-(1) Kontrolovanou dodávkou sa rozumie sledovanie dovozu, vývozu alebo prevozu zásielky, ak okolnosti prípadu odôvodňujú predpoklad, že zásielka bez príslušného povolenia obsahuje omamné látky, psychotropné látky, jedy, jadrové a iné obdobné rádioaktívne materiály, falšované peniaze a falšované cenné papiere, strelné alebo hromadne účinné zbrane, strelivo a výbušniny, v záujme zistenia osôb, ktoré majú účasť na nakladaní s touto zásielkou.
+(1) Kontrolovanou dodávkou sa rozumie sledovanie dovozu, vývozu alebo prevozu zásielky, ak okolnosti prípadu odôvodňujú predpoklad, že zásielka bez príslušného povolenia obsahuje omamné látky, psychotropné látky, jedy, prekurzory, jadrové a iné obdobné rádioaktívne materiály, falšované peniaze a falšované cenné papiere, strelné alebo hromadne účinné zbrane, strelivo a výbušniny, v záujme zistenia osôb, ktoré majú účasť na nakladaní s touto zásielkou.
 
 (2) Príkaz na postup podľa odseku 1 vydáva predseda senátu a v prípravnom konaní prokurátor.
 
