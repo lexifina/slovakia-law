@@ -160,25 +160,27 @@
 
       - 4.10 Uplatnenie priority
 
-        - (a) Akékoľvek vyhlásenie uvedené v článku 8 (1) („uplatnenie priority“) sa s výnimkou pravidla 26bis.1 uvedie v žiadosti; musí obsahovať vyhlásenie, že sa uplatňuje priorita zo skoršej prihlášky, ako aj tieto údaje:
+        - (a) Akékoľvek vyhlásenie uvedené v článku 8(1) („Uplatnenie priority“) môže uplatňovať prioritu z jednej alebo viacerých skorších prihlášok podaných v krajine alebo v ktorejkoľvek krajine Parížskeho dohovoru na ochranu priemyselného vlastníctva, alebo v krajine ktoréhokoľvek člena Svetovej obchodnej organizácie, ktorý nie je členom tohto dohovoru. Akékoľvek uplatnenie priority bude okrem pravidla 26bis.1 uvedené v žiadosti; žiadosť bude obsahovať stanovisko v tom zmysle, že sa uplatňuje priorita skoršej prihlášky a uvedie sa
 
-          - (i) dátum podania skoršej prihlášky; tento dátum musí byť dátumom v rámci lehoty 12 mesiacov pred podaním medzinárodnej prihlášky;
+          - (i) dátum, kedy bola skoršia prihláška podaná, dátum podania je v rámci lehoty 12 mesiacov, ktoré predchádzajú dátumu medzinárodného podania;
 
           - (ii) číslo skoršej prihlášky;
 
-          - (iii) ak je skoršia prihláška národnou prihláškou, členskú krajinu Parížskeho dohovoru na ochranu priemyselného vlastníctva, kde bola podaná;
+          - (iii) ak skoršia prihláška je národnou prihláškou, členská krajina Parížskeho dohovoru na ochranu priemyselného vlastníctva alebo člen Svetovej obchodnej organizácie, ktorý nie je členom tohto dohovoru, v ktorých bola podaná;
 
-          - (iv) ak je skoršia prihláška regionálnou prihláškou, organizáciu poverenú udeľovaním regionálnych patentov podľa príslušnej zmluvy o regionálnom patente;
+          - (iv) ak skoršia prihláška je regionálnou prihláškou, orgán poverený udeľovaním regionálnych patentov podľa príslušnej zmluvy o regionálnom patente;
 
-          - (v) ak je skoršia prihláška medzinárodnou prihláškou, prijímací úrad, na ktorom bola podaná.
+          - (v) ak je skoršia prihláška medzinárodnou prihláškou, prijímací úrad, v ktorom bola podaná.
 
         - (b) Navyše k obsahu požadovanému podľa odsekov (a)(iv) alebo (v):
 
-          - (i) ak je skoršia prihláška regionálnou prihláškou alebo medzinárodnou prihláškou, uplatnenie priority môže obsahovať jednu členskú krajinu alebo viac členských krajín Parížskeho dohovoru na ochranu priemyselného vlastníctva, pre ktoré bola skoršia prihláška podaná;
+          - (i) ak je skoršia prihláška regionálnou prihláškou alebo medzinárodnou prihláškou, uplatnenie priority môže uvádzať jednu alebo viaceré členské krajiny Parížskeho dohovoru na ochranu priemyselného vlastníctva, pre ktoré bola skoršia prihláška podaná;
 
-          - (ii) ak je skoršia prihláška regionálnou prihláškou a všetky zmluvné krajiny regionálnej patentovej zmluvy nie sú členskými krajinami Parížskeho dohovoru na ochranu priemyselného vlastníctva, uplatnenie priority bude obsahovať najmenej jednu členskú krajinu tohto dohovoru, pre ktorú bola prihláška so skorším právom prednosti podaná.
+          - (ii) ak je skoršia prihláška regionálnou prihláškou a aspoň jedna zo zmluvných strán regionálnej patentovej zmluvy nie je členom Parížskeho dohovoru na ochranu priemyselného vlastníctva a ani členom Svetovej obchodnej organizácie, uplatnenie priority bude indikovať aspoň jednu členskú krajinu tohto dohovoru alebo krajinu, ktorá je členom Svetovej obchodnej organizácie, pre ktorú bola prihláška so skorším právom prednosti podaná.
 
-        - (c) Na účely odsekov (a) a (b) sa článok 2(vi) nepoužije.
+        - (c) Na účely odsekov (a ) a (b) sa článok 2(vi) nepoužije.
+
+        - (d) Ak 29. septembra 1999 nie sú zmenené odseky (a) a (b), ktoré nadobudnú platnosť od 1. januára 2000, v súlade s platnou národnou legislatívou určeného úradu budú sa tieto odseky uplatňovať aj po tomto dátume ďalej tak, ako sú v platnosti do 31. decembra 1999, vzhľadom na určený úrad tak dlho, pokiaľ uvedené odseky, tak ako sú zmenené, nebudú v súlade s platnou národnou legislatívou, za predpokladu, že uvedený úrad o tom upovedomí Medzinárodný úrad do 31. októbra 1999. Medzinárodný úrad urýchlene zverejní prijaté informácie vo Vestníku.
 
       - 4.11 Odkaz na prvšiu rešerš
 
