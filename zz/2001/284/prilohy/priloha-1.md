@@ -250,19 +250,19 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 04 01 01 | odpadová glejovka a štiepenka | O
 
-  - 04 01 02 | odpad z lúhovania | N
+  - 04 01 02 | odpad z lúhovania | O
 
   - 04 01 03 | odpady z odmasťovania obsahujúce rozpúšťadlá bez kvapalnej fázy | N
 
-  - 04 01 04 | činiaca brečka obsahujúca chróm | N
+  - 04 01 04 | činiaca brečka obsahujúca chróm | O
 
-  - 04 01 05 | činiaca brečka neobsahujúca chróm | N
+  - 04 01 05 | činiaca brečka neobsahujúca chróm | O
 
-  - 04 01 06 | kaly najmä zo spracovania kvapalného odpadu v mieste jeho vzniku obsahujúce chróm | N
+  - 04 01 06 | kaly najmä zo spracovania kvapalného odpadu v mieste jeho vzniku obsahujúce chróm | O
 
   - 04 01 07 | kaly najmä zo spracovania kvapalného odpadu v mieste jeho vzniku neobsahujúce chróm | O
 
-  - 04 01 08 | odpadová vyčinená koža (holina, stružliny, odrezky, brúsny prach) obsahujúca chróm | N
+  - 04 01 08 | odpadová vyčinená koža (holina, stružliny, odrezky, brúsny prach) obsahujúca chróm | O
 
   - 04 01 09 | odpady z vypracúvania a apretácie | O
 
@@ -1586,7 +1586,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 17 04 02 | hliník | O
 
-  - 17 04 03 | olovo | N
+  - 17 04 03 | olovo | O
 
   - 17 04 04 | zinok | O
 
