@@ -10,8 +10,6 @@ Príklady pracovných činností:
 
 1.01. Prijímanie, potvrdzovanie, triedenie a doručovanie písomností a zásielok v útvare.
 
-1.02 Príprava policajtov na výkon policajnej služby v strednom odbornom učilišti železničnom, prijatých do služobného pomeru na funkciu poslucháč strednej odbornej školy.
-
 2. platová trieda
 
 Kvalifikačný predpoklad vzdelania: stredné
@@ -70,11 +68,11 @@ Príklady pracovných činností:
 
 5.08. Vykonávanie nepretržitej ostrahy a ochrany objektov.
 
-5.09. Zaisťovanie bezpečnosti a plynulosti železničnej prevádzky, ochrany objektov, zariadení, osôb a verejného poriadku; zisťovanie priestupkov vrátane pokutovania, vykonávanie hliadkovej a strážnej služby pri sprevádzaní vlakov.
+5.09. Zaisťovanie bezpečnosti a plynulosti železničnej prevádzky, ochrany objektov, zariadení, osôb a verejného poriadku v obvode železničných dráh a vlečiek.
 
 5.10. Poskytovanie ochrany osobám povereným výkonom rozhodnutia podľa všeobecne záväzných právnych predpisov.
 
-5.11. Zabezpečovanie pedagogickej dokumentácie vrátane jej archivácie, didaktických a ostatných učebných pomôcok a vedenie odbornej knižnice vrátane katalogizácie a dopĺňania knižného fondu.
+5.12. Vykonávanie základných činností v rámci operačných pracovísk.
 
 6. platová trieda
 
@@ -90,21 +88,21 @@ Príklady pracovných činností:
 
 6.04. Zabezpečovanie dopravnej služby a riadenie opráv dopravných prostriedkov.
 
-6.05 Príprava podkladov pri zostavovaní študijných plánov na strednej odbornej škole Železničnej polície Slovenskej republiky.
-
 6.06. Samostatná činnosť na úseku policajnej evidencie a štatistiky.
 
 6.07. Samostatná činnosť na úseku služby ochrany na územných útvaroch Železničnej polície Slovenskej republiky.
 
-6.08. Samostatné plnenie úloh na operačnom pracovisku expozitúry (operátor).
+- 6.08. Samostatné plnenie úloh na operačnom pracovisku.
 
 6.09. Zabezpečovanie a samostatné vykonávanie nepretržitej ostrahy a ochrany objektov polície a zabezpečovanie vstupného režimu do strážených objektov.
-
-6.10. Pátranie po stratených a odzudzených zásielkach a zisťovanie príčin ich rozkrádania a poškodzovania.
 
 6.11. Zabezpečovanie prevádzky stravovacích zariadení (normovanie, kontrola limitov denných dávok potravín a pod.).
 
 6.12. Samostatné zabezpečovanie údržby a opráv hmotného investičného majetku (kompletizácia, prehliadky).
+
+6.13. Zaisťovanie bezpečnosti a plynulosti železničnej prevádzky, ochrana osôb, majetku a zabezpečovanie verejného poriadku vo vlakoch medzinárodnej a vnútroštátnej prepravy.
+
+6.14. Vykonávanie jednoduchších úkonov ustanovených Trestným poriadkom v konaní o trestných činoch spáchaných v obvode železničných dráh a vlečiek.
 
 7. platová trieda
 
@@ -112,29 +110,33 @@ Kvalifikačný predpoklad vzdelania: úplné stredné
 
 Príklady pracovných činností:
 
-7.01. Zabezpečovanie bojovej a telesnej prípravy policajtov na expozitúre.
+7.01. Zabezpečovanie bojovej a telesnej prípravy policajtov.
 
 7.02. Samostatné plnenie úloh na úseku personálnej agendy.
 
 7.03. Špecializovaný odborný výkon činnosti na operačnom pracovisku riaditeľstva.
 
-7.04. Zabezpečovanie organizačných úloh, obranných príprav a vnútorných činností na expozitúre.
+7.04. Zabezpečovanie organizačných úloh, obranných príprav a vnútorných činností.
 
 7.05. Samostatná činnosť na ekonomickom úseku, pri prevádzke zariadení, skladov a pod.
-
-7.06. Vzdelávanie a výcvik vodičov služobných motorových vozidiel.
 
 7.07. Plnenie odborných úloh na úseku služobnej kynológie.
 
 7.08. Plnenie odborných úloh v oblasti policajnej analytiky, štatistiky a evidencie na riaditeľstve Železničnej polície Slovenskej republiky.
 
-7.09. Výkon inšpekčnej činnosti vo vymedzenom rozsahu expozitúry.
+7.09. Výkon inšpekčnej činnosti vo vymedzenom rozsahu.
 
-7.10. Vykonávanie základných činností na úseku pátracej služby.
+7.10. Vykonávanie základných činností na úseku operatívno–pátracej činnosti v rámci odboru Železničnej polície Slovenskej republiky.
 
 7.11. Zabezpečovanie požiarnej ochrany, bezpečnosti a ochrany zdravia pri výkone služby.
 
 7.12. Zabezpečovanie ozbrojenej ochrany železníc špeciálnou technikou, výzbrojou a výstrojom; prešetrovanie prípadov vážneho porušenia bezpečnosti a poriadku.
+
+7.13. Samostatné vykonávanie úkonov ustanovených Trestným poriadkom v konaní o trestných činoch spáchaných v obvode železničných dráh a vlečiek.
+
+7.14. Zabezpečovanie a vykonávanie ochrany osobitne určených objektov.
+
+7.15. Zabezpečovanie a samostatné plnenie úloh na úseku ochrany objektov, ochrany prepravy a sprevádzania vlakov.
 
 8. platová trieda
 
@@ -152,11 +154,19 @@ Príklady pracovných činností:
 
 8.05. Zabezpečovanie racionálneho využívania síl a prostriedkov pri zabezpečovaní ochrany železničnej dopravy, ochrany bezpečnosti prepravovaných osôb a ich majetku a ochrany verejného poriadku.
 
-8.06. Komplexné zabezpečovanie a kontrola činností služby ochrany a pátracej služby na riaditeľstve Železničnej polície Slovensekj republiky.
-
-8.07. Výkon samostatnej odbornej činnosti v pátracej služby.
+8.07. Vykonávanie samostatných odborných činností na úseku operatívno-pátracej činnosti v rámci odboru a oblastnej správy Železničnej polície Slovenskej republiky.
 
 8.08. Špeciálna odborná a metodická činnosť na úseku technickej, výzbrojnej, stavebno-ubytovacej činnosti a na úseku sociálneho zabezpečenia.
+
+8.09. Prejednávanie priestupkov spáchaných porušením všeobecne záväzných právnych predpisov o bezpečnosti a plynulosti železničnej dopravy.
+
+8.10. Plnenie odborných činností na úseku obranných príprav, bojovej a telesnej prípravy.
+
+8.11. Výkon kontrolnej činnosti v rozsahu územných útvarov, prešetrovanie a vybavovanie sťažností, oznámení a podnetov.
+
+8.12. Zabezpečovanie styku s verejnosťou a spolupráce s tlačou v územných útvaroch.
+
+8.13. Samostatné vykonávanie zložitých úkonov ustanovených Trestným poriadkom v konaní o trestných činoch spáchaných v obvode železničných dráh a vlečiek.
 
 9. platová trieda
 
@@ -164,27 +174,21 @@ Kvalifikačný predpoklad vzdelania: vysokoškolské
 
 Príklady pracovných činností:
 
-9.01. Rozhodovanie v správnom konaní pri prejednávaní priestupkov spáchaných porušením všeobecne záväzných právnych predpisov o bezpečnosti a plynulosti železničnej dopravy.
+9.01. Rozhodovanie v správnom konaní v II. stupni pri prejednávaní priestupkov spáchaných porušením všeobecne záväzných právnych predpisov o bezpečnosti a plynulosti železničnej dopravy.
 
 9.02. Zabezpečovanie rozborovej a kontrolnej činnosti v pôsobnosti riaditeľstva Železničnej polície Slovenskej republiky vrátane návrhov na opatrenia a odstraňovanie závad.
 
-9.03. Špecializovaná odborná, riadiaca a metodická činnosť na úseku personálnej a inšpekčnej činnosti.
-
-9.04. Výchovno-vzdelávacia činnosť zameraná na získavanie odborných vedomostí policajtov.
-
-9.05. Vykonávanie činností v redakciách s bezpečnostnou problematikou a činnosti zabezpečujúce styk s verejnosťou.
+9.03. Vykonávanie ucelených špecializovaných odborných činností na úseku personálnych a sociálnych činností, ekonomických a finančných agend.
 
 9.06. Zabezpečovanie a výkon odborných činností v oblasti medzinárodných stykov v pôsobnosti organizácie.
 
-9.07. Samostatné zabezpečovanie a plnenie úloh v oblasti sociálneho zabezpečenia.
+9.08. Špecializovaná odborná činnosť na úseku operatívno–pátracej činnosti v pôsobnosti Železničnej polície Slovenskej republiky.
 
 10. platová trieda
 
 Kvalifikačný predpoklad vzdelania: vysokoškolské
 
 Príklady pracovných činností:
-
-10.01. Rozhodovanie v správnom konaní v druhom stupni, pri prejednávaní priestupkov spáchaných porušením všeobecne záväzných právnych predpisov o bezpečnosti a plynosti železničnej dopravy.
 
 10.02. Výkon náročných odborných prác, spočívajúcich najmä v analytickej činnosti, vyhodnocovaní dosiahnutých výsledkov a príprave podkladov na rozhodovanie na úrovni ústredného orgánu.
 
@@ -195,6 +199,10 @@ Príklady pracovných činností:
 10.05. Komplexné zabezpečovanie, koordinácia a realizácia špeciálnych odborných činností v oblasti prevencie kriminality na riaditeľstve Železničnej polície Slovenskej
 
 republiky.
+
+10.06. Výkon najnáročnejších špecializovaných odborných činností na úseku operatívno-pátracej činnosti v pôsobnosti Železničnej polície Slovenskej republiky.
+
+10.07. Samostatná práca psychológa na klinickom a poradenskom úseku (psychodiagnostika, psychoterapia a iné).
 
 11. platová trieda
 
@@ -226,11 +234,9 @@ COLPOLFER (COLLABORATION DES POLICES FERROVIAIRES) je medzinárodná organizáci
 
 Príloha č. 2 nariadenia vlády Slovenskej republiky č. 202/1994 Z. z.
 
-PRÍPLATOK ZA VEDENIE
+PRÍPLATOK ZA RIADENIE
 
-ŽELEZNIČNÁ POLÍCIA SLOVENSKEJ REPUBLIKY
-
-1. Železničná polícia Slovenskej republiky
+1. Riaditeľstvo Železničnej polície Slovenskej republiky
 
 Funkcia | | Príplatok za riadenie
 
@@ -240,38 +246,40 @@ Funkcia | | Príplatok za riadenie
 
 | polície Slovenkej |
 
-| republiky | 4 000-6 000
+| republiky | 4 000-7 500
 
 1.2. | zástupca riaditeľa |
 
 | Železničnej polície |
 
-| Slovenskej republiky | 2 000-4 000
+| Slovenskej republiky | 2 000-5 000
 
-1.3. | riaditeľ odboru | 1 500-2 500
+1.3. | riaditeľ odboru | 1 500-3 000
 
 1.4. | vedúci oddelenia | 500-1 500
 
-2. Útvary Železničnej polície Slovenskej republiky
+2. Oblastné správy Železničnej polície Slovenskej republiky
 
 Funkcia | | Príplatok za riadenie
 
 | | v Sk mesačne
 
-2.1. | riaditeľ expozitúry | 1 600-3 500
+2.1. | riaditeľ | 1 600-4 000
 
-2.2. | zástupca riaditeľa expozitúry | 1 200-3 000
+2.2. | zástupca riaditeľa | 1 200-3 000
 
-2.3. | vedúci odborov | 600-1 800
+2.3. | veliteľ oddelenia, |
 
-3. Územné orgány Železničnej polície Slovenskej republiky
+| veliteľ (vedúci) skupiny | 300-1 500
+
+3. Odbory Železničnej polície Slovenskej republiky
 
 Funkcia | | Príplatok za riadenie
 
 | | v Sk mesačne
 
-3.1. | veliteľ útvaru | 1 000-2 500
+3.1. | veliteľ | 1 000-2 800
 
-3.2. | zástupca veliteľa útvaru | 800-2 000
+3.2. | zástupca veliteľa | 800-2 200
 
-3.3. | veliteľ oddelenia | 300-1 200
+3.3. | veliteľ oddelenia | 300-1 500
