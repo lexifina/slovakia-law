@@ -1,12 +1,16 @@
 - 1) § 29 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
-- 2) § 52 ods. 3 zákona č. 455/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z..
+- 2) § 53 ods. 1 zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
 
 - 3) § 58 ods. 2 zákona č. 455/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
 - 4) § 264 Obchodného zákonníka.
 
 - 5) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 5a) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
+
+- 5b) § 22 ods. 4 zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
 
 - 6) § 10 ods. 1 zákona č. 455/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
