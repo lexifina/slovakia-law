@@ -15,3 +15,5 @@
 - 8) § 7 písm. c) zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 9) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.Zákon č. 100/1988 Zb. v znení neskorších predpisov.Zákon č. 50/1973 Zb. o pestúnskej starostlivosti v znení neskorších predpisov.
+
+- 10) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
