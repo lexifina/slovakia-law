@@ -72,13 +72,13 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - a) pre československých štátnych občanov | Kčs 50,-
 
-  - b) pre cudzincov | Kčs 300,-
+  - b) pre cudzincov | Kčs 500,-
 
   - Oslobodenie |
 
   - 1. Od poplatku podľa tejto položky sú oslobodení žiaci a študenti stredných a vysokých škôl v študijných odboroch s výučbou poľovníctva, lesníci a poľovníci z povolania, ak majú v pracovnej náplni aktívne vykonávanie poľovníctva, poľovnícki hospodári a osoby ustanovené za poľovnícku stráž po predložení potvrdenia školy alebo potvrdenia o výkone funkcie alebo povolania, členovia lesnej stráže, pokiaľ túto funkciu vykonávajú v súvislosti s plnením pracovných povinností, a členovia lesnej stráže - dôchodcovia, pokiaľ túto funkciu v posledných piatich rokoch vykonávali ako pracovnú povinnosť. |
 
-  - 2. Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Československej socialistickej republiky na pozvanie alebo so súhlasom vlády Československej socialistickej republiky, Českej socialistickej republiky alebo Slovenskej socialistickej republiky, Federálneho zhromaždenia, Českej národnej rady, Slovenskej národnej rady, ústredných výborov politických strán alebo sú hosťami Českého alebo Slovenského poľovníckeho zväzu, ak pozvanie týchto hostí schválili príslušné ministertsvá. |
+  - 2. Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Československej socialistickej republiky na pozvanie alebo so súhlasom vlády Československej socialistickej republiky, Českej socialistickej republiky alebo Slovenskej socialistickej republiky, Federálneho zhromaždenia, Českej národnej rady, Slovenskej národnej rady alebo sú hosťami Českého alebo Slovenského poľovníckeho zväzu, ak pozvanie týchto hostí schválili príslušné ministertsvá. |
 
   - Poznámka: |
 
@@ -102,9 +102,9 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - Vydanie povolenia: |
 
-  - a) občanom na poskytovanie služieb, na predaj tovaru alebo na inú činnosť | Kčs 100,-
+  - a) Vydanie povolenia (rozhodnutia o registrácii) občanom na poskytovanie služieb, na predaj tovaru alebo na inú činnosť | Kčs 100,-
 
-  - b) na výrub stromov rastúcich mimo lesa |
+  - b) Vydanie povolenia na výrub stromov rastúcich mimo lesa |
 
   - - občanom | Kčs 20,-
 
@@ -158,7 +158,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 11
 
-  - Udelenie štátneho občianstva Československej socialistickej republiky | Kčs 300,-
+  - Udelenie štátneho občianstva Československej socialistickej republiky | Kčs 40,- až 300,-
 
   - Poznámka: |
 
@@ -188,7 +188,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - - organizáciám | Kčs 500,-
 
-  - g) o nahliadnutie do matrík | Kčs 10,-
+  - g) o nahliadnutie do matrík za každý zväzok matriky | Kčs 10,-
 
   - Oslobodenie: |
 
@@ -204,13 +204,9 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - a) Povolenie vecnej lotérie alebo tombol z hernej listiny | 10 %, najmenej Kčs 50,-
 
-  - b) Povolenie pevádzkovať hracie prístroje - za každý prístroj | Kčs 1000,-
+  - b) Povolenie pevádzkovať hracie prístroje - za každý prístroj | Kčs 1000,- až 2000,-
 
   - c) Povolenie prevádzkovať ostatné stávkové hry (rulety a pod.) z výher dosiahnutých prevádzkovateľom | 10 %, najmenej Kčs 1000,-
-
-  - Splnomocnenie: |
-
-  - Ak ide o povolenie prevádzkovať hracie prístroje na zahraničnú menu, zvýši sa poplatok podľa písmena b) na trojnásobok. |
 
   - Poznámky: |
 
@@ -220,13 +216,15 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - 3. Poplatky podľa tejto položky sa vyrubujú a vyberajú podľa vyhlášky o správnych poplatkoch platnej v čase vydania povolenia. |
 
+  - 4. Za povolenie prevádzky hracích prístrojov na zahraničnú menu sa vyberie poplatok vo výške trojnásobku hornej hranice sadzby. |
+
     - Položka 14
 
   - Vydanie zbrojného preukazu, predĺženie jeho platnosti, zápis každej ďalšej zbrane, špeciálneho expanzného prístroja alebo ich hlavných častí do zbrojného preukazu | Kčs 20,-
 
   - Oslobodenie |
 
-  - 1. Od poplatku podľa tejto položky sú oslobodení vojaci z povolania a vojaci v ďalšej službe, príslušníci Zboru národnej bezpečnosti, zborov nápravnej výchovy, Ľudových milícií, členovia Pomocnej stráže VB, pomocníci Pohraničnej stráže, pokiaľ nejde o zbrane na poľovné účely. |
+  - 1. Od poplatku podľa tejto položky sú oslobodení vojaci z povolania a vojaci v ďalšej službe, príslušníci Zboru národnej bezpečnosti, zborov nápravnej výchovy, členovia Pomocnej stráže VB, pomocníci Pohraničnej stráže, pokiaľ nejde o zbrane na poľovné účely. |
 
   - 2. Od poplatku podľa tejto položky sú oslobodené osoby uvedené pod bodom 1 oslobodenia k položke 5 oddielu A, ak ide o zbrane používané na poľovné účely.
 
@@ -281,6 +279,8 @@ Príloha vyhlášky č. 231/1988 Zb.
   - 1. Podľa tejto položky sa vyberie poplatok aj v prípadoch, ak správny orgán schvaľuje technickú spôsobilosť motorového vozidla alebo prípojného vozidla, ktoré bolo trvale vyradené z evidencie alebo bolo dovezené jednotlivo z cudziny. |
 
   - 2. V poplatku je zahrnutý aj poplatok za vydanie príslušných dokladov a štátnej poznávacej značky pre motorové alebo prípojné vozidlo. |
+
+  - 3. Správny poplatok podľa tejto položky sa zníži o sumu preukázateľne zaplatenú v staniciach technickej kontroly za vykonanie technickej kontroly motorových vozidiel a ich prípojných vozidiel po vykonanej stavbe v tuzemsku alebo dovezených jednotlivo z cudziny. |
 
     - Položka 19
 
@@ -388,7 +388,11 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - 1. Správny orgán určí poplatok vo výške 25 Kčs za každú len začatú hodinu pracovného času nevyhnutného na vypracovanie osvedčenia, najviac však 3000 Kčs. |
 
-  - 2. Ak sa osvedčenie o tuzemskom práve doručuje do cudziny, vyberie poplatok podľa tejto položky československý zastupiteľský úrad.
+  - 2. Ak sa osvedčenie o tuzemskom práve doručuje do cudziny, vyberie poplatok podľa tejto položky československý zastupiteľský úrad. |
+
+  - Splnomocnenie: |
+
+  - Československý zastupiteľský úrad môže zvýšiť hornú hranicu sadzby na dvojnásobok.
 
     - Položka 25
 
@@ -460,11 +464,17 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - Od poplatku za vydanie písomného oznámenia o pobyte osôb sú oslobodené pošty (inkasné strediská), československé banky a Československý Červený kríž. |
 
+  - Splnomocnenie: |
+
+  - Československý zastupiteľský úrad môže zvýšiť sadzbu poplatku na desaťnásobok. |
+
   - Poznámky: |
 
   - 1. Poplatok podľa tejto položky sa vyberie za potvrdenie alebo za písomné oznámenie údajov o každej osobe v ňom uvádzanej. |
 
   - 2. Ak sa potvrdenie alebo písomné oznámenie o pobyte osôb doručuje do cudziny, vyberie poplatok podľa tejto položky československý zastupiteľský úrad. |
+
+  - 3. Výmena alebo výdaj hromadných dát na magnetických páskach nie je správnym úkonom v zmysle tejto položky. |
 
     - Položka 28
 
@@ -473,8 +483,6 @@ Príloha vyhlášky č. 231/1988 Zb.
   - a) podpisu na listine alebo na jej rovnopise za každý podpis | Kčs 60,-
 
   - b) úradných pečiatok a úradných podpisov | Kčs 100,-
-
-  - c) úradných pečiatok a úradných podpisov (superlegalizácia) |
 
   - Oslobodenie: |
 
@@ -520,27 +528,31 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - Vydanie osvedčenia o československom štátnom občianstve | Kčs 10,-
 
+  - Splnomocnenie: |
+
+  - Československý zastupiteľský úrad môže zvýšiť sadzbu poplatku na desaťnásobok. |
+
   - Poznámka: |
 
   - Ak sa doručuje osvedčenie (potvrdenie o československom štátnom občianstve) do cudziny, vyberie poplatok podľa tejto položky československý zastupiteľský úrad.
 
     - Položka 32
 
-  - Prepustenie zo štátneho zväzku Československej socialistickej republiky | Kčs 500,- až 35 000,-
+  - Prepustenie zo štátneho zväzku Československej socialistickej republiky | Kčs 500,- až 2000,-
 
   - Poznámky: |
 
-  - 1. Poplatok za prepustenie detí vo veku do 15 rokov zo štátneho zväzku Československej socialistickej republiky sa vyrubí vo výške dolnej hranice sadzby tejto položky. |
+  - 1. Ak sa doručuje listina o prepustení do cudziny, vyrubí a vyberie poplatok podľa tejto položky československý zastupiteľský úrad v hornej hranici sadzby. |
 
-  - 2. Ak sa doručuje listina o prepustení do cudziny, vyrubí a vyberie poplatok podľa tejto položky československý zastupiteľský úrad. |
-
-  - 3. Listina o prepustení zo štátneho zväzku Československej socialistickej republiky sa odovzdá (doručí) až po zaplatení poplatku podľa tejto položky. |
-
-  - 4. Poplatok podľa tejto položky vyrubí a vyberie správny orgán v rozpätí 500 až 5000 Kčs, pokiaľ sa už zaplatil poplatok za povolenie na vysťahovanie z Československej socialistickej republiky. |
+  - 2. Listina o prepustení zo štátneho zväzku Československej socialistickej republiky sa odovzdá (doručí) až po zaplatení poplatku podľa tejto položky. |
 
     - Položka 33
 
   - Osvedčenie o právnej spôsobilosti uzavrieť manželstvo | Kčs 20,-
+
+  - Splnomocnenie: |
+
+  - Československý zastupiteľský úrad môže zvýšiť sadzbu poplatku na desaťnásobok. |
 
   - Poznámka: |
 
@@ -552,11 +564,11 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - a) cestnej dopravy osôb alebo nákladov pre československého alebo zahraničného prevádzkovateľa |
 
-  - - na vykonanie jednej dopravy | Kčs 50,- až 4000,-
+  - - na vykonanie jednej dopravy | Kčs 50,- až 10 000,-
 
-  - - na vykonanie viacerých prepráv alebo na určité časové obdobie | Kčs 200,- až 12 500,-
+  - - na vykonanie viacerých prepráv alebo na určité časové obdobie | Kčs 200,- až 20 000,-
 
-  - - na hraničných prechodoch na vykonanie jednej prepravy | Kčs 100,- až 5000,-
+  - - na hraničných prechodoch na vykonanie jednej prepravy | Kčs 100,- až 15 000,-
 
   - b)vnútroštátneho zasielateľstva<sup>8</sup>) | Kčs 200,- až 2000,-
 
@@ -564,9 +576,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - 1. Od poplatku podľa písmena a) tejto položky sú oslobodené povolenia na prepravy osôb na pracovisko pri lesných a poľnohospodárskych prácach, a to včítane povolenia na prepravy viac než 6 osôb v ložnom priestore motorového vozidla určeného na nákladnú dopravu, povolenia na nepravidelné prepravy osôb pri zabezpečovaní brigádnických prác a povolenia na nepravidelné prepravy osôb a telovýchovného inventára, ak sa tým zabezpečuje rozvoj telovýchovy a športu. |
 
-  - 2. Od poplatku podľa písmena a) tejto položky sú oslobodené povolenia na prevádzkovanie mestskej hromadnej dopravy, povolenia na prevádzkovanie taxislužby organizáciami v pôsobnosti národných výborov. |
-
-  - 3. Od poplatku podľa písmena a) tejto položky sú oslobodené povolenia vydávané československému prevádzkovateľovi zabezpečujúcemu vybrané integračné akcie určené vládou Československej socialistickej republiky v nadväznosti na príslušné medzivládne zmluvné dokumenty. |
+  - 2. Od poplatku podľa písmena a) tejto položky sú oslobodené povolenia na prevádzkovanie mestskej hromadnej dopravy. |
 
   - Splnomocnenie: |
 
@@ -616,7 +626,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - 1. zahraničnému dopravcovi pri doprave: |
 
-  - a) presahujúcej iba najväčšie prípustné rozmery, pokiaľ šírka nepresiahne 3,5 m | Kčs 2500,-
+  - a) presahujúcej iba najväčšie prípustné rozmery, pokiaľ šírka nepresiahne 3,5 m | Kčs 4500,-
 
   - b) v ostatných prípadoch |
 
@@ -648,13 +658,11 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - c) s celkovou hmotnosťou nad 60 t | Kčs 6000,-
 
-  - C. V prípade tranzitnej dopravy sa k sumám uvedeným pod písmenom B pripočíta 15 000 Kčs. |
+  - C. V prípade tranzitnej dopravy sa k sumám uvedeným pod písmenom B pripočíta 25 000 Kčs. |
 
   - Oslobodenie: |
 
   - 1. Od poplatku podľa písmena A tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti so žatevnými prácami. |
-
-  - 2. Oslobodenie uvedené v položke 34 pod bodom 3 tu platí obdobne. |
 
   - Splnomocnenie: |
 
@@ -684,9 +692,13 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - Oslobodenie: |
 
-  - 1. Od poplatku tejto položky sú oslobodení cudzinci, ktorí prídu do Československej socialistickej republiky na pozvanie alebo so súhlasom vlády Československej socialistickej republiky, Českej socialistickej republiky alebo Slovenskej socialistickej republiky, Federálneho zhromaždenia, Českej národnej rady, Slovenskej národnej rady, ústredných výborov politických strán alebo sú hosťami Českého alebo Slovenského poľovníckeho zväzu, ak pozvanie týchto hostí schválili príslušné ministerstvá. Od poplatku sú ďalej oslobodené osoby, ktoré sa zúčastnia na medzinárodných akciách plánovaných Ústredným výborom Československého zväzu telesnej výchovy v športovej streľbe. |
+  - 1. Od poplatku tejto položky sú oslobodení cudzinci, ktorí prídu do Československej socialistickej republiky na pozvanie alebo so súhlasom vlády Československej socialistickej republiky, Českej socialistickej republiky alebo Slovenskej socialistickej republiky, Federálneho zhromaždenia, Českej národnej rady, Slovenskej národnej rady alebo sú hosťami Českého alebo Slovenského poľovníckeho zväzu, ak pozvanie týchto hostí schválili príslušné ministerstvá. Od poplatku sú ďalej oslobodené osoby, ktoré sa zúčastňujú na medzinárodných súťažiach, ktorých súčasťou je športová streľba. |
 
   - 2. Od poplatku podľa tejto položky sú oslobodené povolenia na zbrane získané ako ceny v streleckých súťažiach. |
+
+  - Splnomocnenie: |
+
+  - Československý zastupiteľský úrad a orgány pasovej kontroly môžu zvýšiť sadzbu poplatku na dvojnásobok. |
 
   - Poznámky: |
 
@@ -704,11 +716,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 39
 
-  - Povolenia udeľované podľa zákona o devízovom hospodárstve | 50 % až 150 % najmenej 20 Kčs
-
-  - Poznámka: |
-
-  - Poplatok podľa tejto položky vyberá správny orgán len za povolenia v neobchodnej oblasti udeľované výhradne v záujme poplatníka.
+    - zrušené od 20. 2. 1990
 
     - Položka 40
 
@@ -726,79 +734,29 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - ČASŤ I Položka 41 Podanie žiadosti: |
 
-    - a) o vydanie cestovného dokladu | Kčs 10,- až 300,-
+    - a) o vydanie cestovného dokladu | Kčs 10,- až 600,-
 
-    - b) o urýchlené vydanie cestovného dokladu na služobnú cestu | Kčs 10,- až 400,-
-
-    - Oslobodenie: |
-
-    - Od poplatku podľa písmena a) tejto položky, ak ide o služobné cesty, sú oslobodené Ústredný výbor Komunistickej strany Československa, Výbor pre riadenie straníckej práce v Českej socialistickej republike, Ústredný výbor Komunistickej strany Slovenska, ústredné výbory Zväzarmu, ústredné orgány spoločenských organizácií v ekonomickej pôsobnosti Národného frontu a Ústredná rada odborov, Česká odborová rada a Slovenská odborová rada. |
+    - b) o urýchlené vydanie cestovného dokladu na služobnú cestu | Kčs 50,- až 400,-
 
     - Poznámky: |
 
     - 1. Poplatok podľa tejto položky je splatný bez vyrubenia pred vykonaním úkonu. |
 
-    - 2. Ak sa doručuje cestovný doklad do cudziny, vyrubí a vyberie poplatok podľa tejto položky československý zastupiteľský úrad.
+    - 2. Ak sa doručuje cestovný doklad do cudziny, vyrubí a vyberie poplatok podľa tejto položky československý zastupiteľský úrad. |
+
+    - 3. Správny orgán vyrubí a vyberie poplatok v hornej hranici sadzby za vydanie cestovného dokladu na trvalý pobyt v cudzine.
 
       - Položka 42
 
-    - Povolenie na vycestovanie do cudziny | Kčs 20,- až 400,-
-
-    - Oslobodenie: |
-
-    - 1. Od poplatku je oslobodené povolenie na vycestovanie do cudziny deťom vo veku do 15 rokov. |
-
-    - 2. od poplatku je oslobodené povolenie na vycestovanie za účelom služobnej (pracovnej) cesty do cudziny. |
-
-    - Splnomocnenie: |
-
-    - 1. Správny orgán môže znížiť poplatok až na polovicu osobám, ktoré nie sú zárobkovo činné (študenti, učni, dôchodcovia atď.). |
-
-    - 2. ak poplatník prekročí dĺžku pobytu v cudzine, podľa ktorej bola pred vycestovaním určená výška poplatku, je povinný doplatiť sumu zodpovedajúcu skutočnej dĺžke pobytu. Správny orgán môže v tomto prípade zvýšiť poplatok až na dvojnásobok. |
-
-    - 3. Správny orgán môže znížiť popaltok až na polovicu dolnej hranice sadzby pri vycestovaní do určených štátov. |
-
-    - Poznámky: |
-
-    - 1. Poplatok sa platí bez vyrubenia pri každej ceste najneskôr pred prekročením štátnych hraníc vylepením kolkovej známky do colného a devízového vyhlásenia, ktoré je neoddeliteľnou súčasťou cestovného dokladu. |
-
-    - 2. Výška poplatku sa spravuje podľa územnej platnosti povolenia vydaného na vycestovanie do cudziny a dĺžky pobytu v cudzine. |
-
-    - 3. Poplatok podľa tejto položky platia aj cudzinci, ktorí majú na území Československej socialistickej republiky povolený trvalý pobyt. |
+      - zrušené od 20. 2. 1990
 
       - Položka 43
 
-    - Povolenie na vysťahovanie z Československej socialistickej republiky | Kčs 500,- až 30 000,-
-
-    - Oslobodenie: |
-
-    - Od poplatku je oslobodené povolenie na vysťahovanie z Československej socialistickej republiky deťom vo veku do 15 rokov, pokiaľ sa nevydáva samostatný cestovný doklad na vysťahovanie. |
-
-    - Splnomocnenie: |
-
-    - Správa pasov a víz Zboru národnej bezpečnosti môže v jednotlivých prípadoch rozhodnúť o vrátení zaplateného poplatku, ak to vyžaduje spoločenský záujem, aj keď sa už úkon vykonal. |
-
-    - Splnomocnenie |
-
-    - 1. Ak sa povolenie na vysťahovanie z Československej socialistickej republiky doručuje do cudziny, vyrubí a vyberie poplatok podľa tejto položky československý zastupiteľský úrad. |
-
-    - 2. Správny orgán vyrubí poplatok podľa tejto položky aj cudzincovi, ktorý mal na území Československej socialistickej republiky povolený trvalý pobyt a opúšťa územie Československej socialistickej republiky natrvalo. |
-
-    - 3. Ak správny orgán vydáva deťom do 15 rokov samostatný cestovný doklad na vysťahovanie, vyrubuje poplatok podľa tejto položky vo výške dolnej hranice sadzby. |
-
-    - 4. Povolenie na vysťahovanie z Československej socialistickej republiky sa odovzdá (doručí) až po zaplatení poplatku podľa tejto položky.
+      - zrušené od 20. 2. 1990
 
       - Položka 44
 
-    - Predĺženie alebo rozšírenie platnosti cestovného dokladu a vykonanie zmien v cestovnom doklade | Kčs 10,- až 50,-
-
-    - Oslobodenie: |
-
-    - Od poplatku je oslobodené predĺženie alebo rozšírenie cestovného dokladu, ak ide o služobné (pracovné) cesty do cudziny. |
-
-    - Splnomocnenie: |
-
-    - Správny orgán môže od vybrania poplatku upustiť najmä v prípadoch, keď sa cesta nemohla nastúpiť v určenej lehote bez zavinenia poplatníka. |
+    - Predĺženie platnosti cestovného dokladu a vykonanie zmien v cestovnom doklade | Kčs 10,- až 100,-
 
     - Poznámky: |
 
@@ -834,11 +792,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - a) Vydanie preukazu spôsobilosti viesť plavidlá Štátnou plavebmou správou ako náhrady za stratený, zničený, poškodený alebo neupotrebiteľný preukaz | Kčs 100,-
 
-    - b) Vydanie cestovného dokladu, preukazu Povolenie pobytu pre cudzincov, námorníckej knižky alebo preukazu spôsobilosti člena posádky československej námornej lode ako náhrady za stratený, zničený, poškodený alebo neupotrebiteľný doklad (preukaz) | Kčs 10,- až 500,-
-
-    - Oslobodenie: |
-
-    - Od poplatku podľa písmena b) tejto položky sú oslobodené Ústredný výbor Komunistickej strany Československa, Výbor pre riadenie straníckej práce v Českej socialistickej republike, Ústredný výbor Komunistickej strany Slovenskej socialistickej republiky, ústredné výbory Zväzarmu, ústredné orgány spoločenských organizácií v ekonomickej posôbnosti Národného frontu a Ústredná rada odborov, Česká odborová rada a Slovenská odborová rada. |
+    - b) Vydanie cestovného dokladu, preukazu Povolenie pobytu pre cudzincov, námorníckej knižky alebo preukazu spôsobilosti člena posádky československej námornej lode ako náhrady za stratený, zničený, poškodený alebo neupotrebiteľný doklad (preukaz) | Kčs 50,- až 800,-
 
     - Poznámky: |
 
@@ -940,7 +894,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
       - Položka 56
 
-    - Vydanie alebo predĺženie povolenia na prevádzkovanie medzinárodnej leteckej dopravy osôb alebo nákladov udelené zahraničnému podniku (podnikateľovi) | Kčs 5000,-
+    - Vydanie alebo predĺženie povolenia na prevádzkovanie medzinárodnej leteckej dopravy osôb alebo nákladov udelené zahraničnému podniku (podnikateľovi) | Kčs 9000,-
 
     - Splnomocnenie: |
 
@@ -986,7 +940,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
       - Položka 62
 
-    - a) Vydanie povolenia na neobchodný vývoz vecí | 3 % až 150 % najmenej 20,- Kčs
+    - a) Vydanie povolenia na neobchodný vývoz vecí | 3 % až 300 % najmenej 20,- Kčs
 
     - b) Predĺženie platnosti povolenia na neobchodný vývoz | Kčs 20,-
 
@@ -998,7 +952,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Oslobodenie: |
 
-    - Od poplatku podľa písmena a) a b) tejto položky sú oslobodené medzinárodné nevládne organizácie so sídlom v Československej socialistickej republike, Československý Červený kríž a Ústredný výbor Národného frontu Československej socialistickej republiky, ak ide o neobchodný vývoz vecí v rámci ich činnosti. |
+    - Od poplatku podľa písmena a) a b) tejto položky je oslobodený Československý Červený kríž, ak ide o neobchodný vývoz vecí v rámci jeho činnosti. |
 
     - Splnomocnenie: |
 
@@ -1012,7 +966,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
       - Položka 63
 
-    - Vydanie potvrdenia pre dovoz a prevoz rádiových staníc | Kčs 150,-
+    - Vydanie potvrdenia pre dovoz a prevoz rádiových staníc | Kčs 400,-
 
     - Poznámky: |
 
@@ -1022,17 +976,15 @@ Príloha vyhlášky č. 231/1988 Zb.
 
       - Položka 64
 
-    - Vydanie alebo predĺženie povolenia |
+    - Registrácia, vydanie alebo predĺženie povolenia |
 
-    - - na zariadenie obchodného zastupiteľstva zahraničným osobám<sup>14</sup>) | Kčs 1200,- až 15 000,-
+    - - na zariadenie obchodného zastupiteľstva zahraničným osobám<sup>14</sup>) | Kčs 2000,- až 25 000,-
 
-    - - na zahraničnoobchodnú činnosť | Kčs 1200,- až 15 000,-
+    - - na zahraničnoobchodnú činnosť | Kčs 2000,- až 25 000,-
 
-    - - na poskytovanie zahraničnohospodárskych služieb | Kčs 1200,- až 15 000,-
+    - - na poskytovanie zahraničnohospodárskych služieb | Kčs 2000,- až 25 000,-
 
-    - Oslobodenie: |
-
-    - Od poplatku podľa tejto položky sú oslobodené československé socialistické organizácie a podniky so zahraničnou majetkovou účasťou zriadené podľa československých právnych predpisov. |
+    - - na zriadenie organizačnej složky čs. osoby v zahraničí | Kčs 2000,- až 25 000,-
 
     - Splnomocnenie: |
 
@@ -1088,7 +1040,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 69
 
-  - Udelenie československého víza alebo predĺženie jeho platnosti | Kčs 30,- až 2000,-
+  - Udelenie československého víza alebo predĺženie jeho platnosti | Kčs 30,- až 3500,-
 
   - Oslobodenie: |
 
@@ -1098,23 +1050,17 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - - významným osobám |
 
-  - - deťom do 15 rokov, |
-
-  - - štátnym príslušníkom rozvojových štátov Ázie, Afriky, Strednej a Južnej Ameriky, ktorí do Československej socialistickej republiky prichádzajú na pozvanie Ústrednej rady odborov alebo Ústredného výboru Národného frontu Československej socialistickej republiky. |
+  - - deťom do 15 rokov. |
 
   - Poznámky: |
 
-  - 1. Správny orgán vyberie poplatok podľa tejto položky aj za povolenie na cestu do Československej socialistickej republiky. |
+  - 1. Poplatok podľa tejto položky vyberajú aj útvary pasov a víz Zboru národnej bezpečnosti a orgány pasovej kontroly. |
 
-  - 2. Poplatok podľa tejto položky vyberajú aj útvary pasov a víz Zboru národnej bezpečnosti a orgány pasovej kontroly. |
-
-  - 3. Za udelenie vycestovacieho víza za účelom trvalého opustenia (vysťahovania) Československej socialistickej republiky pre cudzinca, ktorý mal na území Československej socialistickej republiky povolený trvalý pobyt, vyrubí správny orgán poplatok podľa položky 43 tohto oddielu. Vízum sa odvzdá (doručí) až po zaplatení poplatku. |
-
-  - 4. Poplatok podľa tejto položky je spaltný bez vyrubenia pred vykonaním úkonu. |
+  - 2. Poplatok podľa tejto položky je spaltný bez vyrubenia pred vykonaním úkonu. |
 
     - Položka 70
 
-  - Uzavretie manželstva na československom zastupiteľskom úrade | Kčs 300,- až 1800,-
+  - Uzavretie manželstva na československom zastupiteľskom úrade | Kčs 500,- až 3000,-
 
   - Oslobodenie: |
 
@@ -1122,7 +1068,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 71
 
-  - Podanie žiadosti na československom zastupiteľskom úrade | Kčs 20,- až 1200,-
+  - Podanie žiadosti na československom zastupiteľskom úrade | Kčs 20,- až 2500,-
 
   - Poznámka: |
 
@@ -1148,7 +1094,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 74
 
-  - Spísanie písomností o právnych úkonoch, najmä zmlúv, závetov, plnomocenstiev a pod. | Kčs 50,- až 600,-
+  - Spísanie písomností o právnych úkonoch, najmä zmlúv, závetov, plnomocenstiev a pod. | Kčs 50,- až 1000,-
 
   - Poznámka: |
 
@@ -1156,47 +1102,47 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 75
 
-  - Vidovanie listín bez overovania | Kčs 40,- až 150,-
+  - Vidovanie listín bez overovania | Kčs 50,- až 300,-
 
     - Položka 76
 
   - Overenie |
 
-  - - podpisu na listine i na jej rovnopise za každý podpis | Kčs 40,- až 150,-
+  - - podpisu na listine i na jej rovnopise za každý podpis | Kčs 40,- až 600,-
 
-  - - úradných pečiatok a úradných podpisov (superlegalizácia) | Kčs 60,- až 600,-
+  - - úradných pečiatok a úradných podpisov (superlegalizácia) | Kčs 60,- až 1000,-
 
     - Položka 77
 
-  - a) Vyhotovenie odpisu (fotokópie) včítane overenia | Kčs 60,- až 150,-
+  - a) Vyhotovenie odpisu (fotokópie) včítane overenia | Kčs 60,- až 300,-
 
-  - b) Overenie správnosti odpisu (fotokópie) | Kčs 50,- až 125,-
+  - b) Overenie správnosti odpisu (fotokópie) | Kčs 50,- až 250,-
 
-  - c) Overenie správnosti prekladu | Kčs 50,- až 125,-
+  - c) Overenie správnosti prekladu | Kčs 50,- až 250,-
 
     - Položka 78
 
-  - a) Vystavenie a doručenie matričného dokladu | Kčs 50,- až 600,-
+  - a) Vystavenie a doručenie matričného dokladu | Kčs 50,- až 1000,-
 
-  - b) Vyhotovenie prekladu matričného dokladu a jeho overenie | Kčs 50,- až 150,-
+  - b) Vyhotovenie prekladu matričného dokladu a jeho overenie | Kčs 50,- až 300,-
 
     - Položka 79
 
   - Vyhotovenie prekladu spidového materiálu |
 
-  - I. do českého alebo slovenského jazyka | za každú i začatú stránku Kčs 50,- až 125,-
+  - I. do českého alebo slovenského jazyka | za každú i začatú stránku Kčs 50,- až 250,-
 
-  - II. z českého alebo slovenského jazyka | za každú i začatú stránku Kčs 60,- až 150,-
+  - II. z českého alebo slovenského jazyka | za každú i začatú stránku Kčs 60,- až 300,-
 
-  - III. z jedného cudzieho jazyka do druhého | za každú i začatú stránku Kčs 100,- až 250,-
+  - III. z jedného cudzieho jazyka do druhého | za každú i začatú stránku Kčs 100,- až 450,-
 
-  - IV. z čínskeho, japonského, kórejského jazyka a iných znakových jazykov za každý slovný znak | Kčs 5,-
+  - IV. z čínskeho, japonského, kórejského jazyka a iných znakových jazykov za každý slovný znak | Kčs 10,-
 
-  - V. do čínskeho, japonského, kórejského jazyka a iných znakových jazykov za každý slovný znak | Kčs 5,-
+  - V. do čínskeho, japonského, kórejského jazyka a iných znakových jazykov za každý slovný znak | Kčs 10,-
 
     - ČASŤ III Splnomocnenie k časti III
 
-      - Úrad pre vynálezy a objavy môže ustanovenú sadzbu poplatku znížiť alebo upustiť od jeho vybrania na základe vzájomnosti alebo z dôvodu všeobecného záujmu.
+      - Federálny úrad pre vynálezy môže ustanovenú sadzbu poplatku znížiť alebo upustiť od jeho vybratia na základe vzájomnosti alebo z dôvodu všeobecného záujmu, prípadne zvýšiť sadzbu až do výšky dvojnásobku s výnimkou sadzby ustanovenej v položke 88.
 
       - Poznámky k časti III
 
