@@ -90,9 +90,9 @@ Príloha vyhlášky č. 152/1984 Zb.
 
 - 31-37-4 | Operátor odevnej výroby Operátorka potravinárskej výroby | | | | | |
 
-- 01 | odevnú výrobu | CH, D | 7-12 | 7-12 | 34 | - | 1. 9. 1988
+- 01 | odevnú výrobu | CH, D | 7-12 | 7-12 | 41 | - | 1. 9. 1988
 
-- 02 | odevné stroje a zariadenia | CH, D | 7-12 | 7-12 | 34 | - | 1. 9. 1988
+- 02 | odevné stroje a zariadenia | CH, D | 7-12 | 7-12 | 41 | - | 1. 9. 1988
 
 - 31-38-4 | Operátor textilnej výroby Operátorka textilnej výroby | | | | | |
 
@@ -106,9 +106,9 @@ Príloha vyhlášky č. 152/1984 Zb.
 
 - 32 | SPRACOVANIE KOŽE A VÝROBA OBUVI | | | | | |
 
-- 32-43-4 | Operátor kožiarskej výroby Operátorka kožiarskej výroby | CH, D | 7-12 | 7-10 | 34 | - | 1. 9. 1987
+- 32-43-4 | Operátor kožiarskej výroby Operátorka kožiarskej výroby | CH, D | 7-12 | 7-10 | 41 | - | 1. 9. 1987
 
-- 32-44-4 | Operátor kožušníckej výroby Operátorka kožušníckej výroby | CH, D | 7-12 | 7-10 | 34 | - | 1. 9. 1988
+- 32-44-4 | Operátor kožušníckej výroby Operátorka kožušníckej výroby | CH, D | 7-12 | 7-10 | 41 | - | 1. 9. 1988
 
 - 33 | SPRACOVANIE DREVA A VÝROBA HUDOBNÝCH NÁSTROJOV | | | | | |
 
@@ -156,17 +156,17 @@ Príloha vyhlášky č. 152/1984 Zb.
 
 - 64-42-4 | Obchodný pracovník Obchodná pracovníčka | | | | | |
 
-- 01 | potravinársky tovar | CH, D | 9-17 | 5-16 | 34 | - | 1. 9. 1989
+- 01 | potravinársky tovar | CH, D | 9-17 | 5-16 | 41 | - | 1. 9. 1989
 
-- 02 | technický tovar | CH, D | 9-17 | 5-16 | 34 | - | 1. 9. 1989
+- 02 | technický tovar | CH, D | 9-17 | 5-16 | 41 | - | 1. 9. 1989
 
-- 03 | chemický tovar | CH, D | 9-17 | 5-16 | 34 | - | 1. 9. 1989
+- 03 | chemický tovar | CH, D | 9-17 | 5-16 | 41 | - | 1. 9. 1989
 
-- 04 | odievanie | CH, D | 9-17 | 5-16 | 34 | - | 1. 9. 1989
+- 04 | odievanie | CH, D | 9-17 | 5-16 | 41 | - | 1. 9. 1989
 
-- 64-44-4 | Čašník Servírka | CH, D | 9-17 | 7-12 | 34 | 64-44-4 | 1. 9. 1988
+- 64-44-4 | Čašník Servírka | CH, D | 9-17 | 7-12 | 41 | 64-44-4 | 1. 9. 1988
 
-- 64-45-4 | Kuchár Kuchárka | CH, D | 9-17 | 7-12 | 34 | - | 1. 9. 1988
+- 64-45-4 | Kuchár Kuchárka | CH, D | 9-17 | 7-12 | 41 | - | 1. 9. 1988
 
 - 64-46-4 | Kozmetička | D | 7-15 | 7-10<sup>2</sup>) | 34 | 64-46-4 | 1. 9. 1987
 
@@ -192,11 +192,11 @@ Príloha vyhlášky č. 152/1984 Zb.
 
 - 85-05-4 | Umeleckoremeselná stavba hudobných nástrojov | | | | | |
 
-- 01 | strunové nástroje | CH, D | 4-6 | 4-6 | 34 | - | 1. 9. 1989
+- 01 | strunové nástroje | CH, D | 4-6 | 4-6 | 41 | - | 1. 9. 1989
 
-- 02 | klávesové nástroje | CH, D | 4-6 | 4-6 | 34 | - | 1. 9. 1989
+- 02 | klávesové nástroje | CH, D | 4-6 | 4-6 | 41 | - | 1. 9. 1989
 
-- 03 | dychové a bicie nástroje | CH, D | 4-6 | 4-6 | 34 | - | 1. 9. 1989
+- 03 | dychové a bicie nástroje | CH, D | 4-6 | 4-6 | 41 | - | 1. 9. 1989
 
 - 85-06-4 | Umeleckoremeselné spracovanie textilu | | | | | |
 
@@ -232,9 +232,9 @@ Príloha vyhlášky č. 152/1984 Zb.
 
 - 85-09-4 | Umeleckoremeselné spracovanie skla | | | | | |
 
-- 01 | hutné tvarovanie | CH | 4-6 | 4-6 | 34 | - | 1. 9. 1988
+- 01 | hutné tvarovanie | CH | 4-6 | 4-6 | 41 | - | 1. 9. 1988
 
-- 02 | brúsenie a rytie | CH, D | 4-6 | 4-6 | 34 | - | 1. 9. 1988
+- 02 | brúsenie a rytie | CH, D | 4-6 | 4-6 | 41 | - | 1. 9. 1988
 
 - 85-11-4 | Umeleckoremeselné pozlacovanie | CH, D | 4-6 | 4-6 | 34 | 85-62-2 | 1. 9. 1988
 
@@ -632,751 +632,1369 @@ Príloha vyhlášky č. 152/1984 Zb.
 
 - ODDIEL D
 
-- Sústava skupín študijných odborov, študijných odborov a zameraní študijných odborov v stredných odborných učilištiach pre absolventov trojročných učebných odborov
+- I. Sústava skupín študijných odborov, študijných odborov a zameraní študijných odborov v stredných odborných učilištiach pre absolventov trojročných učebných odborov
 
-- Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor Zameranie študijného odboru na: | Poznámka | Kód zodpovedajúcich študijných odborov a ich zameraní podľa doterajších predpisov
+- Kód | SKUPINA ŠTUDIJNÝCH ODBOROV | Kód zodpovedajúcich študijných odborov a ich zameraní podľa doterajších predpisov | Poznámka
+
+- | Študijný odbor | |
+
+- | Zameranie študijného odboru na: | |
 
 - 1 | 2 | 3 | 4
 
-- 01 | NASTAVOVANIE, RIADENIE A OBSLUHA VÝROBNÝCH STROJOV A ZARIADENÍ | |
+- 21 | BANÍCTVO | |
 
-- 01-01-4 | Baníctvo | | 01-01-4
+- 21-53-4 | baníctvo | 01-01-4 |
 
-- 02, 03 | HUTNÍCTVO, STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA | |
+- 22 | HUTNÍCTVO | |
 
-- 02-0 | Hutníctvo kovov | | 02-0
+- 22-35-4 | hutníctvo | 02-01-4 |
 
-- 02-01-4 | metalurgiu | | 02-01-4
+- | | 02-02-4 |
 
-- 02-02-4 | tvárnenie kovov | | 02-02-4
+- 24 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA | |
 
-- 02-1 | Strojárstvo | | 02-1
+- 24-14-4 | strojárstvo | |
 
-- 02-11-4 | spracovanie kovov a montáž strojov a zariadení | | 02-11-4
+- 01 | výrobu, montáž a opravy prístrojov, strojov a zariadení | 02-11-4 |
 
-- 02-12-4 | strojové obrábanie kovov | | 02-12-4
+- 02 | obrábanie materiálov | 02-12-4 |
 
-- 02-13-4 | tvárnenie a úprava kovov | | 02-13-4
+- 03 | tvárnenie, odlievanie a úpravu kovov | 02-13-4 |
 
-- 02-48-4 | Plynárstvo | V | 02-48-4
+- 24-15-4 | plynárenstvo | 02-48-4 |
 
-- 04 | ELEKTROTECHNIKA, DOPRAVA, POŠTY A TELEKOMUNIKÁCIE | |
+- 24-16-4 | požiarna technika | - |
 
-- 04-0 | Elektrotechnika | | 04-0
+- 24-17-4 | prevádzka strojov a zariadení | 02-14-4 | V
 
-- 04-01-4 | energetiku | | 04-01-4
+- 26 | ELEKTROTECHNIKA A TELEKOMUNIKÁCIE | |
 
-- 04-02-4 | výrobu a prevádzku strojov a zariadení | | 04-02-4
+- 26-75-4 | elektrotechnika | |
 
-- 04-03-4 | elektronické zariadenia | V | 04-03-4
+- 01 | energetiku | 04-01-4 |
 
-- 04-11-4 | Zariadenia oznamovacej techniky | | 04-11-4
+- 02 | výrobu a prevádzku strojov a zariadení | 04-02-4 | V
 
-- 04-16-4 | Poštová prevádzka | | 04-16-4
+- 03 | elektronické zariadenia | 04-03-4 | V
 
-- 04-2 | Dopravná prevádzka | | 04-2
+- 26-76-4 | zariadenia oznamovacej techniky | 04-11-4 | V
 
-- 04-21-4 | železničnú dopravu | V | 04-21-4
+- 27 | TECHNICKÁ CHÉMIA SILIKÁTOV | |
 
-- 04-22-4 | cestnú a mestskú dopravu | V | 04-22-4
+- 27-31-4 | keramický priemysel | 05-01-4 |
 
-- 04-23-4 | lodnú dopravu | | 04-23-4
+- 27-32-4 | bižutériový priemysel | 05-02-4 |
 
-- 05 | TECHNICKÁ CHÉMIA SILIKÁTOV | |
+- 27-33-4 | sklársky priemysel | |
 
-- 05-01-4 | Keramický priemysel | | 05-01-4
+- 01 | výrobu skla | 05-11-4 |
 
-- 05-02-4 | Výroba bižutérie | | 05-02-4
+- 02 | zošľachťovanie skla | 05-12-4 |
 
-- 05-1 | Sklársky priemysel | | 05-1
+- 03 | optiku | 05-13-4 |
 
-- 05-11-4 | výrobu skla | | 05-11-4
+- 04 | brúsenie technického a šperkového kameňa | 05-12-4 |
 
-- 05-12-4 | zošľachťovanie skla | | 05-12-4
+- 28 | OSTATNÁ TECHNICKÁ CHÉMIA | |
 
-- 05-13-4 | optiku | | 05-13-4
+- 28-57-4 | spracúvanie kaučuku a plastov | 06-02-4 |
 
-- 06 | OSTATNÁ TECHNICKÁ CHÉMIA, POTRAVINÁRSTVO A POLYGRAFIA | |
+- 28-58-4 | priemyselná chémia | |
 
-- 06-0 | Priemyselná chémia | | 06-0
+- 01 | chemicko-technologické procesy | 06-01-4 |
 
-- 06-01-4 | chemické procesy | | 06-01-4
+- 02 | farmaceutickú výrobu | 06-04-4 |
 
-- 06-02-4 | spracovanie kaučuku a plastov | | 06-02-4
+- 03 | výrobu a spracúvanie papiera | - |
 
-- 06-03-4 | textil | | 06-03-4
+- 29 | POTRAVINÁRSTVO | |
 
-- 06-04-4 | farmaceutickú výrobu | | 06-04-4
+- 29-59-4 | potravinársky priemysel | 06-15-4 |
 
-- 06-15-4 | Potravinársky priemysel | | 06-15-4
+- 31 | TEXTIL A ODEVNÍCTVO | |
 
-- 06-17-4 | Polygrafický priemysel | | 06-17-4
+- 31-25-4 | odevníctvo | 07-02-4 |
 
-- 07 | TEXTIL A ODEVNÍCTVO | |
+- 31-39-4 | textilný priemysel | |
 
-- 07-01-4 | Textilný priemysel | | 07-01-4
+- 01 | prevádzku textilných strojov | 02-14-4 |
 
-- 07-02-4 | Odevníctvo | | 07-02-4
+- 02 | textilnú technológiu | 07-01-4 |
 
-- 08 | SPRACOVANIE DREVA, VÝROBA HUDOBNÝCH NÁSTROJOV, SPRACOVANIE KOŽE A VÝROBA OBUVI | |
+- 03 | zošľachťovanie textílií | 06-03-4 |
 
-- 08-01-4 | Drevospracujúci priemysel | | 08-01-4
+- 32 | SPRACÚVANIE KOŽE A VÝROBA OBUVI | |
 
-- 08-02-4 | Nábytkársky priemysel | | 08-02-4
+- 32-45-4 | kožušnícka konfekcia | 08-05-4 |
 
-- 08-05-4 | Kožušnícka výroba | | 08-05-4
+- 32-46-4 | kožiarska výroba | |
 
-- 08-1 | Kožiarska výroba | | 08-1
+- 01 | výrobu usni a kožušín | 08-11-4 |
 
-- 08-11-4 | výrobu usní a kožušín | | 08-11-4
+- 02 | výrobu obuvi | 08-12-4 |
 
-- 08-12-4 | výrobu obuvi | | 08-12-4
+- 03 | výrobu koženej galantérie | 08-13-4 |
 
-- 08-13-4 | výrobu koženej galantérie | | 08-13-4
+- 33 | SPRACÚVANIE DREVA A VÝROBA HUDOBNÝCH NÁSTROJOV | |
 
-- 09 | STAVEBNÍCTVO A ZEMEMERAČSTVO | |
+- 33-42-4 | drevárska výroba | 08-01-4 |
 
-- 09-01-4 | Stavebníctvo | V | 09-01-4
+- 33-43-4 | nábytkárska výroba | |
 
-- 09-02-4 | Vodohospodárske zariadenia | | 09-02-4
+- 01 | stolárstvo | 08-02-4 |
+
+- 02 | čalúnnictvo | 08-02-4 |
+
+- 34 | POLYGRAFIA A SPRACÚVANIE FILMU | |
+
+- 34-54-4 | polygrafický priemysel | 06-17-4 |
+
+- 36 | STAVEBNÍCTVO A VODOHOSPODÁRSTVO | |
+
+- 36-59-4 | stavebníctvo | |
+
+- 01 | výrobu stavieb | 09-01-4 | V
+
+- 02 | technické zariadenie budov | 09-01-4 | V
+
+- 36-60-4 | vodné hospodárstvo | 09-02-4 |
+
+- 37 | DOPRAVA A POŠTY | |
+
+- 37-56-4 | poštová prevádzka | 04-16-4 |
+
+- 37-57-4 | dopravná prevádzka | |
+
+- 01 | cestnú a mestkú dopravu | 04-22-4 | V
+
+- 02 | železničnú dopravu a prepravu | 04-21-4 | V
+
+- 03 | lodnú dopravu | 04-23-4 |
 
 - 45 | POĽNOHOSPODÁRSTVO A LESNÉ HOSPODÁRSTVO | |
 
-- 45-0 | Poľnohospodárstvo | | 45-0
+- 45-01-4 | rastlinná výroba | 45-01-4 |
 
-- 45-01-4 | rastlinnú výrobu | | 45-01-4
+- 45-02-4 | živočíšna výroba | |
 
-- 45-02-4 | živočíšnu výrobu | | 45-02-4
+- 01 | chov hospodárskych zvierat | 45-02-4 |
 
-- 45-1 | Záhradníctvo | | 45-1
+- 02 | rybárstvo | 45-02-4 |
 
-- 45-11-4 | záhradnícku výrobu | | 45-11-4
+- 45-11-4 | záhradníctvo | 45-11-4 |
 
-- 45-12-4 | záhradnícke služby | | 45-12-4
+- | | 45-12-4 |
 
-- 45-21-4 | Lesné hospodárstvo | | 45-21-4
+- 45-21-4 | lesné hospodárstvo | 45-21-4 |
 
-- 45-26-4 | Mechanizácia poľnohospodárstva a lesníctva | | 45-26-4
+- 45-26-4 | mechanizácia poľnohospodárstva a lesného hospodárstva | 45-26-4 |
 
 - 55 | ZDRAVOTNÍCTVO | |
 
-- 55-01-4 | Zdravotníctvo | | 55-01-4
-
-- 01 | špeciálne ošetrovateľské a opatrovateľské práce | | -
-
-- 02 | laboratórne práce | | -
-
-- 55-02-4 | Ortopedická protetika | | 55-02-4
+- 55-02-4 | ortopedická protetika | 55-02-4 |
 
 - 64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | |
 
-- 64-0 | Prevádzka miestneho hospodárstva a výrobných družstiev | | 64-0
+- 64-01-4 | prevádzka miestneho hospodárstva a výrobných družstiev | |
 
-- 64-01-4 | výrobu a služby | | 64-01-4
+- 01 | výrobu a služby | 64-01-4 |
 
-- 64-02-4 | fotografiu | | 64-02-4
+- | | 64-02-4 |
 
-- 64-1 | Prevádzka obchodu | | 64-1
+- 02 | ľudovú a remeselnú výrobu | 85-01-4 |
 
-- 64-11-4 | vnútorný obchod | | 64-11-4
+- 64-11-4 | prevádzka obchodu | |
 
-- 64-12-4 | propagáciu | | 64-12-4
+- 01 | vnútorný obchod | 64-11-4 |
 
-- 64-13-4 | knižnú kultúru | | 64-13-4
+- 02 | propagáciu | 64-12-4 |
 
-- 64-21-4 | Prevádzka spoločného stravovania | | 64-21-4
+- 03 | knižnú kultúru | 64-13-4 |
 
-- 64-26-4 | Vlasová kozmetika | | 64-26-4
+- 64-21-4 | spoločné stravovanie | 64-21-4 |
+
+- 64-26-4 | vlasová kozmetika | 64-26-4 |
+
+- 64-27-4 | skladové hospodárstvo | 02-11-4 |
+
+- | | 64-11-4 |
 
 - 85 | UMENIE, ÚŽITKOVÉ UMENIE A RUČNÁ UMELECKOREMESELNÁ VÝROBA | |
 
-- 85-01-4 | Umeleckoremeselné práce | | 85-01-4
+- 85-01-4 | umeleckoremeselné práce | 85-01-4 |
 
-- 85-02-4 | Scénická tvorba | | 85-02-4
+- 85-02-4 | scénická tvorba | 85-02-4 |
 
-- Vysvetlivky:
+- II. Študijné odbory 85-02-4 scénická tvorba a 64-11-4/03 prevádzka obchodu, zameranie na 03 knižnú kultúru, sú určené len pre absolventov trojročných učebných odborov podľa doterajších predpisov; študijný odbor 85-01-4 umeleckoremeselné práce je určený aj pre absolventov trojročných učebných odborov podľa doterajších predpisov.
 
-- V - v tomto študijnom odbore pripravujú absolventov študijných odborov i vojenské stredné odborné učilištia v dennom štúdiu.
+- III. V študijných odboroch, ktoré majú v časti I stĺpci 4 tohto oddielu označenie V, pripravujú absolventov aj vojenské stredné odborné učilištia v dennom štúdiu.
 
 - ODDIEL E
 
-- I Sústava skupín učebných odborov, učebných odborov a zameraní učebných odborov v stredných odborných učilištiach, ktorých denné štúdium trvá 3 roky alebo 3 roky a 4 mesiace
+- I. Sústava skupín učebných odborov, učebných odborov a zameraní učebných odborov v stredných odborných učilištiach, ktorých denné štúdium trvá 3 roky alebo 3 roky a 4 mesiace
 
-- Kód | SKUPINA ŠTUDIJNÝCH ODBOROV | | Počet žiakov na jedného majstra odbornej výchovy | | Dĺžka denného štúdia spolu | | | Kód zodpovedajúcich učebných odborov a ich zameraní podľa doterajších predpisov | Učebný odbor sa zavedie začínajúc 1. ročníkom od: | Kód študijného odboru pre absolventov učebných odborov uvedených v tomto oddiele<sup>1</sup>)
+- Kód | SKUPINA UČEBNÝCH ODBOROV | Určený pre chlapcov - CH, dlevčatá-D | Počet žiakov na jedného majstra odbornej výchovy | | Dĺžka denného štúdia | | | Kód študijného odboru pre absolventov učebných odborov uvedených v tomto oddiele<sup>1</sup>)
 
-- | Študijný odbor Zameranie študijného odboru na: | Určený pre: chlapcov - CH dievčatá - D | 1. roč. | 2. a 3. roč. | rokov | mesiacov | z toho dĺžka prípravného obdobia (mesiacov) | | |
+- | | | | | spolu | | z toho dĺžka prípravného obdobia (mesiacov) |
 
-- 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
+- | Učebný odbor | | | | | | |
 
-- 21 | BANÍCTVO | | | | | | | | |
+- | | | | | rokov | mesiacov | |
 
-- 21-70-4 | Mechanik banských prevádzok | CH | 9-17 | 5-13<sup>2</sup>) | 3 | 4 | 34 | 03-83-2 | 1. 9. 1987 | 01-01-4 02-11-4 02-14-4
+- | Zameranie učebného odboru na: | | | | | | |
 
-- 22 | HUTNÍCTVO | | | | | | | | |
+- | | | 1. roč. | 2. a 3. roč. | | | |
 
-- 22-75-2 | Hutník | | | | | | | | |
+- 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
 
-- 01 | výrobu koksu | CH | 7-12 | 6-8 | 3 | 4 | 34 | 06-43-2 | 1. 9. 1988 | 02-01-4 02-14-4
+- 21 | BANÍCTVO | | | | | | |
 
-- 02 | výrobu železných kovov | CH | 7-12 | 6-8 | 3 | 4 | 34 | 02-51-2 | 1. 9. 1988 | 02-01-4
+- 21-70-2 | mechanik banských prevádzok | CH | 9-17 | 5-13<sup>2</sup>) | 3 | 4 | 34 | 21-53-4
 
-- 03 | výrobu neželezných kovov | CH | 7-12 | 6-8 | 3 | 4 | 34 | 02-52-2 | 1. 9. 1988 | 02-01-4
+- | | | | | | | | 24-14-4/01
 
-- 04 | tvárnenie kovov | CH | 7-12 | 6-8 | 3 | 4 | 34 | 01-65-2 | 1. 9. 1988 | 02-02-4 02-14-4
+- | | | | | | | | 24-16-4
 
-- 24 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA | | | | | | | | |
+- | | | | | | | | V24-17-4
 
-- 24-01-2 | Zlievač | CH | 7-12 | 7-12 | 3 | 4 | 34 | 03-71-2 | 1. 9. 1989 | 02-13-4 02-01-4
+- 22 | HUTNÍCTVO | | | | | | |
 
-- 24-23-2 | Nástrojár Nástrojárka | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-74-2 | 1. 9. 1987 | 02-11-4 02-14-4
+- 22-75-2 | hutník | | | | | | |
 
-- 24-33-2 | Obrábač kovov Obrábačka kovov | | | | | | | | |
+- 01 | výrobu koksu | CH | 7-12 | 6-8 | 3 | 4 | 34 | 22-35-4
 
-- 01 | univerzálne obrábanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-64-2 | 1. 9. 1987 | 02-12-4 02-14-4
+- | | | | | | | | V24-17-4
 
-- 02 | sústruženie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-61-2 | 1. 9. 1987 | 02-12-4 02-14-4
+- 02 | výrobu železných kovov | CH | 7-12 | 6-8 | 3 | 4 | 34 | 22-35-4
 
-- 03 | frézovanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-62-2 | 1. 9. 1987 | 02-12-4 02-14-4
+- 03 | výrobu neželezných kovov | CH | 7-12 | 6-8 | 3 | 4 | 34 | 22-35-4
 
-- 04 | brúsenie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-63-2 | 1. 9. 1987 | 02-12-4 02-14-4
+- 04 | tvárnenie kovov | CH | 7-12 | 6-8 | 3 | 4 | 34 | 22-35-4
 
-- 24-34-2 | Strojový kováč | CH | 7-12 | 7-12 | 3 | 4 | 34 | 03-72-2 | 1. 9. 1989 | 02-13-4
+- | | | | | | | | 24-14-4/03
 
-- 24-35-2 | Klampiar | | | | | | | | |
+- | | | | | | | | V24-17-4
 
-- 01 | strojársku výrobu | CH | 7-12 | 7-12 | 3 | 4 | 34 | 02-71-2 02-73-2 | 1. 9. 1989 | 02-11-4 02-14-4
+- 24 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA | | | | | | |
 
-- 02 | stavebnú výrobu | CH | 7-12 | 7-12<sup>3</sup>) | 3 | 4 | 34 | 02-72-2 | 1. 9. 1989 | 02-11-4 02-14-4
+- 24-01-2 | zlievač | CH | 7-12 | 7-12 | 3 | 4 | 34 | 22-35-4
 
-- 24-36-2 | Modelár Modelárka | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-73-2 | 1. 9. 1989 | 02-11-4 02-13-4
+- | | | | | | | | 24-14-4/03
 
-- 24-39-2 | Lakovník Lakovníčka | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-79-2 | 1. 9. 1989 | 64-01-4
+- | | | | | | | | V24-17-4
 
-- 24-40-2 | Optik Optička | | | | | | | | |
+- 24-23-2 | nástrojár | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 01 | prístrojovú techniku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-86-2/01 | 1. 9. 1988 | 05-13-4 02-11-4
+- | nástrojárka | | | | | | | 24-14-4/02
 
-- 02 | okuliarovú optiku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-86-2/02 | 1. 9. 1988 | 05-13-4 02-11-4
+- | | | | | | | | V24-17-4
 
-- 24-61-2 | Mechanik optických prístrojov Mechanička optických prístrojov | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-76-2 | 1. 9. 1988 | 02-11-4
+- | | | | | | | | V37-57-4/01
 
-- 24-63-2 | Hodinár Hodinárka | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 03-77-2 | 1. 9. 1988 | 02-11-4 04-03-4
+- | | | | | | | | V37-57-4/02
 
-- 24-64-2 | Strojový mechanik Strojová mechanička | | | | | | | | |
+- 24-33-2 | obrábač kovov | | | | | | |
 
-- 01 | stroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 02-81-2 | 1. 9. 1989 | 02-11-4 02-14-4 V 04-21-4 V 04-22-4
+- | obrábačka kovov | | | | | | |
 
-- 02 | oceľové konštrukcie | CH | 7-12 | 7-12 | 3 | 4 | 34 | 02-84-2 | 1. 9. 1989 | 02-11-4 02-14-4 V 04-21-4 V 04-22-4
+- 01 | univerzálne obrábanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/02
 
-- 03 | výrobu a montáž potrubia | CH | 7-12 | 7-12 | 3 | 4 | 34 | 02-85-2 | 1. 9. 1989 | 02-11-4 02-14-4
+- | | | | | | | | V24-17-4
 
-- 04 | výrobu a montáž kotlov | CH | 7-12 | 7-12 | 3 | 4 | 34 | 02-86-2 | 1. 9. 1989 | 02-11-4 02-14-4
+- | | | | | | | | V37-57-4/01
 
-- 05 | okuliarovú výrobu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 02-83-2 | 1. 9. 1989 | 02-11-4 02-14-4
+- | | | | | | | | V37-57-4/02
 
-- 06 | traťové montáže | CH | 7-12 | 7-12 | 3 | 4 | 34 | 02-87-2 | 1. 9. 1989 | 02-11-4 02-14-4 04-21-4 V 04-22-4
+- 02 | sústruženie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/02
 
-- 24-65-2 | Strojník Strojníčka | | | | | | | | |
+- | | | | | | | | V24-17-4
 
-- 01 | vrtné súpravy | CH | 7-12 | 7-15 | 3 | 4 | 34 | 01-63-2 | 1. 9. 1988 | 02-14-4 V 04-21-4 V 04-22-4
+- | | | | | | | | V37-57-4/01
 
-- 02 | hutnícku druhovýrobu kovov | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 01-78-2 | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V37-57-4/02
 
-- 03 | energetické zariadenia | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 01-66-2 | 1. 9. 1988 | 02-14-4 04-01-4 V 04-21-4 V 04-22-4
+- 03 | frézovanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/02
 
-- 04 | výrobu stavebných hmôt | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 01-71-2 | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V24-17-4
 
-- 05 | duté sklo | CH | 7-12 | 7-12 | 3 | 4 | 34 | 01-68-2 | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V37-57-4/01
 
-- 06 | ploché sklo | CH | 7-12 | 7-10 | 3 | 4 | 34 | 01-69-2 | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V37-57-4/02
 
-- 07 | výrobu krmív a úpravu plodín | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 01-62-2 | 1. 9. 1988 | 02-14-4
+- 04 | brúsenie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/02
 
-- 08 | drevárske polotovary | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 01-72-2 | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V24-17-4
 
-- 09 | konštrukčné dosky | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 01-73-2 | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V37-57-4/01
 
-- 10 | stavebné stroje | CH | 7-12 | 7-12 | 3 | 4 | 34 | 01-77-2 | 1. 9. 1988 | 02-14-4 V 04-21-4 V 04-22-4
+- | | | | | | | | V37-57-4/02
 
-- 11 | vodohospodárske zariadenia | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 06-42-2 | 1. 9. 1988 | 02-14-4
+- 24-34-2 | strojny kováč | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/03
 
-- 12 | traťové stroje | CH | 7-12 | 7-12 | 3 | 4 | 34 | 01-77-2 | 1. 9. 1988 | 02-14-4 V 04-21-4 V 04-22-4
+- | | | | | | | | V24-17-4
 
-- 13 | lodnú dopravu | CH | 7-12 | 7-12 | 3 | 4 | 34 | 01-67-2 | 1. 9. 1988 | 04-23-4 02-14-4 V 04-21-4 V 04-22-4
+- | | | | | | | | V37-57-4/01
 
-- 14 | výrobu papiera | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 01-74-2 | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V37-57-4/02
 
-- 15 | spracovanie papiera | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 01-75-2 | 1. 9. 1988 | 02-14-4
+- 24-35-2 | klampiar | | | | | | |
 
-- 16 | banské úpravne | CH | 9-17 | 7-12 | 3 | 4 | 34 | 06-44-2 | 1. 9. 1988 | 02-14-4
+- 01 | strojársku výrobu | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 24-66-2 | Mechanik-opravár Mechanička-opravárka | | | | | | | | |
+- | | | | | | | | 24-14-4/03
 
-- 01 | plynárenské zariadenia | CH | 7-12 | 7-12 | 3 | 4 | 34 | 03-16-2 | 1. 9. 1988 | 02-11-4 02-14-4
+- | | | | | | | | V24-17-4
 
-- 02 | stroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-13-2 | 1. 9. 1988 | 02-11-4 02-14-4 V 04-21-4 V 04-22-4
+- | | | | | | | | V37-57-4/01
 
-- 03 | požiarnu techniku | CH | 7-12 | 7-12 | 3 | 4 | 34 | - | 1. 9. 1988 | 02-11-4 02-14-4
+- | | | | | | | | V37-57-4/02
 
-- 04 | lesné stroje a zariadenia | CH | 7-12 | 7-10 | 3 | 4 | 34 | 03-11-2 | 1. 9. 1988 | 02-11-4 02-14-4 45-26-4 V 04-21-4 V 04-22-4
+- 02 | stavebnú výrobu | CH | 7-12 | 7-12<sup>3</sup>) | 3 | 4 | 34 | 24-14-4/01
 
-- 05 | poľnohospodársku techniku rastlinnej výroby | CH | 7-12 | 7-10 | 3 | 4 | 34 | 03-11-2 | 1. 9. 1988 | 02-11-4 02-14-4 45-26-4 V 04-21-4 V 04-22-4
+- | | | | | | | | 24-14-4/03
 
-- 06 | poľnohospodársku technicku živočíšnej výroby | CH | 7-12 | 7-10 | 3 | 4 | 34 | 03-11-2 | 1. 9. 1988 | 02-11-4 02-14-4 45-26-4 V 04-21-4 V 04-22-4
+- | | | | | | | | 36-59-4/01
 
-- 07 | cukrovary a škrobárne | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 01-76-2 | 1. 9. 1988 | 02-11-4 02-14-4
+- | | | | | | | | V24-17-4
 
-- 08 | renováciu poľnohospodárskej techniky a kováčstvo | CH | 7-12 | 7-10 | 3 | 4 | 34 | 03-11-2 | 1. 9. 1988 | 02-11-4 02-14-4 45-26-4 V 01-21-4 V 04-22-4
+- | | | | | | | | V37-57-4/01
 
-- 09 | cestné motorové vozidlá | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 03-17-2 | 1. 9. 1988 | 02-11-4 02-14-4 04-22-4 V 04-21-4
+- | | | | | | | | V37-57-4/02
 
-- 10 | koľajové vozidlá | CH | 7-12 | 7-12 | 3 | 4 | 34 | 03-19-2 | 1. 9. 1988 | 02-11-4 02-14-4 04-22-4 V 04-21-4
+- 24-36-2 | modelár | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/02
 
-- 11 | lietadlá | CH | 7-12 | 7-12 | 3 | 4 | 34 | 03-22-2 | 1. 9. 1988 | 02-11-4 02-14-4
+- | modelárka | | | | | | | 24-14-4/03
 
-- 24-67-2 | Úpravár kovov | | | | | | | | |
+- | | | | | | | | 33-43-4/01
 
-- 01 | tepelné spracovanie | CH | 7-12 | 7-12 | 3 | 4 | 34 | 03-41-2 | 1. 9. 1988 | 02-13-4
+- | | | | | | | | V24-17-4
 
-- 02 | pokovovanie | CH | 7-12 | 7-12 | 3 | 4 | 34 | 03-42-2 | 1. 9. 1988 | 02-13-4
+- 24-39-2 | lakovník | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 64-01-4/01
 
-- 24-68-2 | Nastavovač textilných strojov Nastavovačka textilných strojov | | | | | | | | |
+- | lakovníčka | | | | | | | V36-59-4/01
 
-- 01 | tkáčovne | CH, D | 7-12 | 7-12 | 3 | - | 29 | - | 1. 9. 1988 | 02-14-4
+- | | | | | | | | V36-59-4/02
 
-- 02 | pradiarne | CH, D | 7-12 | 7-12 | 3 | - | 29 | - | 1. 9. 1988 | 02-14-4
+- 24-40-2 | optik optička | | | | | | |
 
-- 03 | pletiarne | CH, D | 7-12 | 7-12 | 3 | - | 29 | - | 1. 9. 1988 | 02-14-4
+- 01 | prístrojovú techniku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 24-85-2 | Rytec kovov Rytkyňa kovov | | | | | | | | |
+- | | | | | | | | 27-33-4/03
 
-- 01 | tlačiace a raziace valce | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 03-52-2 | 1. 9. 1987 | 02-11-4
+- | | | | | | | | V24-17-4
 
-- 02 | nástroje a znaky | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 03-51-2 | 1. 9. 1987 | 02-11-4
+- 02 | okuliarovú optiku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 26 | ELEKTROTECHNIKA A TELEKOMUNIKÁCIE | | | | | | | | |
+- | | | | | | | | 27-33-4/03
 
-- 26-80-2 | Mechanik Mechanička | | | | | | | | |
+- | | | | | | | | V24-17-4
 
-- 01 | vážiace zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-12-2 | 1. 9. 1988 | 02-11-4 04-03-4
+- 24-61-2 | mechanik optických prístrojov | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 02 | zdvíhacie zariadenia | CH | 7-12 | 7-10 | 3 | 4 | 34 | 03-18-2 | 1. 9. 1988 | 02-11-4 02-14-4 04-02-4
+- | mechanička optických prístrojov | | | | | | | V24-17-4
 
-- 03 | chladiace zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 03-21-2 | 1. 9. 1988 | 02-11-4 02-14-4 04-02-4 V 04-21-4 V 04-22-4
+- 24-63-2 | hodinár | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 24-14-4/01
 
-- 04 | stroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | - | 1. 9. 1988 | 02-11-4 02-14-4 04-02-4 V 04-21-4 V 04-22-4
+- | hodinárka | | | | | | | 26-75-4/03
 
-- 05 | elektrotechniku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | - | 1. 9. 1988 | 04-02-4 04-03-4
+- | | | | | | | | V24-17-4
 
-- 06 | meracie prístroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 04-64-2 | 1. 9. 1988 | 04-02-4 04-03-4
+- | | | | | | | | V26-75-4/02
 
-- 07 | administratívnu techniku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 04-14-2 | 1. 9. 1988 | 02-11-4 02-14-4 04-03-4
+- 24-64-2 | strojný mechanik | | | | | | |
 
-- 26-83-2 | Elektromechanik Elektromechanička | | | | | | | | |
+- | strojná mechanička | | | | | | |
 
-- 01 | banské stroje a zariadenia | CH | 7-12 | 7-12 | 3 | 4 | 34 | 04-62-2 | 1. 9. 1989 | 04-02-4 04-03-4 01-01-4
+- 01 | stroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 02 | oznamovacie a zabezpečovacie zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | - | 1. 9. 1989 | 04-11-4 04-03-4
+- | | | | | | | | 24-16-4
 
-- 03 | rozvodné zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 04-63-2 | 1. 9. 1989 | 04-01-4 04-02-4 04-03-4
+- | | | | | | | | 24-17-4
 
-- 04 | stroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 04-61-2 | 1. 9. 1989 | 04-02-4 04-03-4
+- | | | | | | | | V37-57-4/01
 
-- 26-86-2 | Mechanik elektronických zariadení Mechanička elektronických zariadení | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 04-81-2 | 1. 9. 1987 | 04-03-4
+- | | | | | | | | V37-57-4/02
 
-- 26-89-2 | Spojový mechanik Spojová mechanička | | | | | | | | |
+- 02 | oceľové konštrukcie | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 01 | oznamovacie siete | CH | 7-12 | 7-12 | 3 | 4 | 34 | 04-71-2 | 1. 9. 1988 | 04-11-4 04-03-4
+- | | | | | | | | V24-17-4
 
-- 02 | spojovacie zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 04-72-2 | 1. 9. 1988 | 04-11-4 04-03-4
+- | | | | | | | | V37-57-4/01
 
-- 27 | TECHNICKÁ CHÉMIA SILIKÁTOV | | | | | | | | |
+- | | | | | | | | V37-57-4/02
 
-- 27-35-2 | Keramik Keramička | | | | | | | | |
+- 03 | výrobu a montáž potrubia | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 01 | porcelán a keramiku | CH, D | 9-17 | 9-17 | 3 | 4 | 34 | 05-31-2 | 1. 9. 1987 | 05-01-4
+- | | | | | | | | 24-17-4
 
-- 02 | stavebnú a žiaruvzdornú keramiku | CH, D | 9-17 | 9-17 | 3 | 4 | 34 | 05-32-2 | 1. 9. 1987 | 05-01-4
+- 04 | výrobu a montáž kotlov | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 03 | brúsiace prostriedky | CH, D | 9-17 | 9-17 | 3 | 4 | 34 | 05-34-2 | 1. 9. 1987 | 05-01-4
+- | | | | | | | | 24-17-4
 
-- 04 | elektrokeramiku | CH, D | 9-17 | 9-17 | 3 | 4 | 34 | 05-33-2 | 1. 9. 1987 | 05-01-4
+- 05 | okuliarovú výrobu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 05 | modelovanie | CH, D | 9-17 | 9-17 | 3 | 4 | 34 | 05-36-2 | 1. 9. 1987 | 05-01-4 85-01-4
+- | | | | | | | | 27-33-4/03
 
-- 27-55-2 | Maliar skla a keramiky Maliarka skla a keramiky | | | | | | | | |
+- | | | | | | | | V24-17-4
 
-- 01 | maľbu skla | CH, D | 9-17 | 9-17 | 3 | 4 | 34 | 05-41-2 | 1. 9. 1989 | 05-12-4
+- 06 | traťové montáže | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 02 | maľbu a dekoráciu keramiky | CH, D | 9-17 | 9-17 | 3 | 4 | 34 | 05-42-2 | 1. 9. 1989 | 05-12-4 05-01-4
+- | | | | | | | | 24-17-4
 
-- 27-56-2 | Sklár Sklárka | | | | | | | | |
+- | | | | | | | | V37-57-4/02
 
-- 01 | duté a lisované sklo | CH | 7-12 | 7-12 | 3 | 4 | 34 | 05-51-2 05-52-2 | 1. 9. 1987 | 05-11-4
+- 24-65-2 | strojník | | | | | | |
 
-- 02 | výrobu foriem | CH | 7-12 | 7-12 | 3 | 4 | 34 | 05-54-2 | 1. 9. 1987 | 02-13-4 05-11-4 08-01-4
+- | strojníčka | | | | | | |
 
-- 03 | technické sklo | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-53-2 | 1. 9. 1987 | 05-11-4
+- 01 | vrtné súpravy | CH | 7-12 | 7-15 | 3 | 4 | 34 | 24-17-4
 
-- 27-57-2 | Výrobca bižutérie Výrobkyňa bižutérie | | | | | | | | |
+- | | | | | | | | V37-57-4/01
 
-- 01 | sklenú bižutériu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-71-2 | 1. 9. 1988 | 05-02-4
+- | | | | | | | | V37-57-4/02
 
-- 02 | kovovú bižutériu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-72-2 | 1. 9. 1988 | 05-02-4
+- 02 | hutnícku druhovýrobu kovov | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 24-17-4
 
-- 27-59-2 | Výrobca ozdobných predmetov a zapínadiel Výrobkyňa ozdobných predmetov a zapínadiel | | | | | | | | |
+- 03 | energetické zariadenia | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 24-17-4
 
-- 01 | ozdobné predmety | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 05-73-2 | 1. 9. 1988 | 05-02-4
+- | | | | | | | | 26-75-4/01
 
-- 02 | zapínadlá | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-74-2 | 1. 9. 1988 | 05-02-4 02-14-4
+- | | | | | | | | V26-75-4/02
 
-- 27-83-2 | Brusič skla Brusička skla | | | | | | | | |
+- | | | | | | | | V26-75-4/03
 
-- 01 | zabrusovanie a obrusovanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-61-2 | 1. 9. 1989 | 05-12-4
+- | | | | | | | | V37-57-4/01
 
-- 02 | vybrusovanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-62-2 | 1. 9. 1989 | 05-12-4
+- | | | | | | | | V37-57-4/02
 
-- 03 | rytie | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 05-63-2 | 1. 9. 1989 | 05-12-4
+- 04 | výrobu stavebných látok | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 24-17-4
 
-- 27-94-2 | Brusič technického a šperkového kameňa Brusička technického a šperkového kameňa | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 05-81-2 | 1. 9. 1989 | 05-12-4
+- | | | | | | | | V36-59-4/01
 
-- 28 | OSTATNÁ TECHNICKÁ CHÉMIA | | | | | | | | |
+- | | | | | | | | V36-59-4/02
 
-- 28-61-2 | Prevádzkový chemik Prevádzková chemička | | | | | | | | |
+- 05 | duté sklo | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 01 | priemyselnú chémiu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 06-41-2 | 1. 9. 1987 | 06-01-4
+- | | | | | | | | 27-33-4/01
 
-- 02 | výrobu tukov a kozmetiky | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 06-46-2 | 1. 9. 1987 | 06-01-4
+- 06 | ploché sklo | CH | 7-12 | 7-10 | 3 | 4 | 34 | 24-17-4
 
-- 03 | farmaceutickú výrobu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 06-48-2 | 1. 9. 1987 | 06-04-4
+- | | | | | | | | 27-33-4/01
 
-- 28-66-2 | Gumár-plastikár Gumárka-plastikárka | | | | | | | | |
+- 07 | výrobu krmív a úpravu plodín | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 01 | spracovanie kaučuku | CH, D | 7-12 | 7-12<sup>4</sup>) | 3 | 4 | 34 | 06-81-2 | 1. 9. 1987 | 06-01-4 06-02-4
+- 08 | drevárske polovýrobky | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 24-17-4
 
-- 02 | spracovanie plastov | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 06-81-2 | 1. 9. 1987 | 06-01-4 06-02-4
+- | | | | | | | | 33-42-4
 
-- 28-73-2 | Textilný chemik Textilná chemička | | | | | | | | |
+- | | | | | | | | V36-59-4/01
 
-- 01 | úpravu textílií | CH, D | 7-12 | 7-12 | 3 | - | 29 | 06-51-2 | 1. 9. 1988 | 06-03-4
+- | | | | | | | | V36-59-4/02
 
-- 02 | farbenie textílií | CH, D | 7-12 | 7-12 | 3 | - | 29 | 06-52-2 | 1. 9. 1988 | 06-03-4
+- 09 | konštrukčné dosky | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 24-17-4
 
-- 03 | potlačovanie textílií | CH, D | 7-12 | 4-7 | 3 | - | 29 | 06-53-2 | 1. 9. 1988 | 06-03-4
+- | | | | | | | | 33-42-4
 
-- 28-74-2 | Garbiarsky chemik Garbiarska chemička | | | | | | | | |
+- 10 | stavebné stroje | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 01 | spracovanie kože | CH, D | 7-12 | 7-10 | 3 | - | 29 | 06-61-2 | 1. 9. 1987 | 08-11-4
+- | | | | | | | | V36-59-4/01
 
-- 02 | spracovanie kožušníckych kožiek | CH, D | 7-12 | 7-10 | 3 | - | 29 | 06-62-2 | 1. 9. 1987 | 08-11-4
+- | | | | | | | | V36-59-4/02
 
-- 28-75-2 | Výrobca a spracovateľ silikátových vlákien Výrobkyňa a spracovateľka silikátových vlákien | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 06-45-2 | 1. 9. 1989 | 06-01-4 05-11-4 07-01-4
+- | | | | | | | | V37-57-4/01
 
-- 28-76-2 | Chemik práčovní a čistiarní Chemička práčovní a čistiarní | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 06-47-2 | 1. 9. 1987 | 06-01-4 64-01-4
+- | | | | | | | | V37-57-4/02
 
-- 28-78-2 | Biochemik Biochemička | | | | | | | | |
+- 11 | vodohospodárske zariadenia | CH | 9-17 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 01 | mliekárenskú výrobu | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 06-71-2 | 1. 9. 1988 | 06-15-4
+- | | | | | | | | 36-60-4
 
-- 02 | výrobu piva a sladu | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 06-72-2 | 1. 9. 1988 | 06-15-4
+- 12 | traťové stroje | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 03 | liehovarskú výrobu a výrobu vína | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 06-73-2 | 1. 9. 1988 | 06-15-4
+- | | | | | | | | V37-57-4/01
 
-- 29 | POTRAVINÁRSTVO | | | | | | | | |
+- | | | | | | | | V37-57-4/02
 
-- 29-61-2 | Mlynár | CH | 7-12 | 7-10 | 3 | - | 29 | 06-91-2 | 1. 9. 1987 | 06-15-4 02-14-4
+- 13 | lodnú dopravu | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 29-62-2 | Pekár Pekárka | CH, D | 7-12 | 7-10 | 3 | - | 29 | 06-92-2 | 1. 9. 1987 | 06-15-4
+- | | | | | | | | 37-57-4/03
 
-- 29-64-2 | Cukrár Cukrárka | CH, D | 7-12 | 7-10 | 3 | - | 29 | 06-93-2 | 1. 9. 1988 | 06-15-4
+- | | | | | | | | V37-57-4/01
 
-- 29-65-2 | Cukrovinkár-pečivár Cukrovinkárka-pečivárka | | | | | | | | |
+- | | | | | | | | V37-57-4/02
 
-- 01 | výrobu cukroviniek | CH, D | 9-17 | 7-10 | 3 | - | 29 | 06-94-2 | 1. 9. 1989 | 06-15-4
+- 14 | výrobu papiera | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 02 | výrobu trvanlivého pečiva | CH, D | 9-17 | 7-10 | 3 | - | 29 | 06-84-2 | 1. 9. 1989 | 06-15-4
+- | | | | | | | | 28-58-4/03
 
-- 29-68-2 | Mäsiar-údenár Mäsiarka-údenárka | CH, D | 7-12 | 7-10 | 3 | - | 29 | 06-95-2 | 1. 9. 1989 | 06-15-4
+- 15 | spracúvanie papiera | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 29-70-2 | Konzervár Konzervárka | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 06-96-2 | 1. 9. 1988 | 06-15-4
+- | | | | | | | | 28-58-4/03
 
-- 31 | TEXTIL A ODEVNÍCTVO | | | | | | | | |
+- 16 | banské úpravne | CH | 9-17 | 7-12 | 3 | 4 | 34 | 24-17-4
 
-- 31-43-2 | Pradiar Pradiarka | | | | | | | | |
+- 24-66-2 | mechanik opravár | | | | | | |
 
-- 01 | spracoavnie textilných vlákien | CH, D | 7-12 | 7-12 | 3 | - | 29 | 07-32-2 07-31-2 | 1. 9. 1987 | 07-01-4
+- | mechanička opravárka | | | | | | |
 
-- 02 | výrobu netkaných textílií | CH, D | 7-12 | 7-12 | 3 | - | 29 | 07-33-2 | 1. 9. 1987 | 07-01-4
+- 01 | plynárenské zariadenia | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 31-45-2 | Plstiar Plstiarka | | | | | | | | |
+- | | | | | | | | 24-15-4
 
-- 01 | technické plste | CH, D | 9-17 | 7-12 | 3 | - | 29 | 07-21-2 | 1. 9. 1989 | 07-01-4
+- | | | | | | | | 24-17-4
 
-- 02 | klobúčnícke plste | CH, D | 9-17 | 7-12 | 3 | - | 29 | 07-22-2 | 1. 9. 1989 | 07-01-4
+- 02 | stroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 31-46-2 | Tkáč Tkáčka | | | | | | | | |
+- | | | | | | | | 24-16-4
 
-- 01 | plošné textílie | CH, D | 7-12 | 7-12 | 3 | - | 29 | 07-41-2 | 1. 9. 1988 | 07-01-4
+- | | | | | | | | 24-17-4
 
-- 02 | kovové tkaniny a sitá | CH, D | 7-12 | 7-12 | 3 | - | 29 | 07-42-2 | 1. 9. 1988 | 07-01-4
+- | | | | | | | | 34-54-4
 
-- 31-49-2 | Výrobca textilných rukavíc Výrobkyňa textilných rukavíc | CH, D | 7-12 | 7-12 | 3 | - | 29 | - | 1. 9. 1989 | 07-01-4 07-02-4
+- | | | | | | | | V37-57-4/01
 
-- 31-50-2 | Prámikár Prámikárka | CH, D | 7-12 | 7-12 | 3 | - | 29 | 07-81-2 | 1. 9. 1988 | 07-01-4
+- | | | | | | | | V37-57-4/02
 
-- 31-51-2 | Pletiar Pletiarka | CH, D | 7-12 | 7-12 | 3 | - | 29 | 07-82-2 | 1. 9. 1988 | 07-01-4
+- 03 | požiarnu techniku | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 31-52-2 | Krajčír Krajčírka | | | | | | | | |
+- | | | | | | | | 24-16-4
 
-- 01 | pánske odevy | CH, D | 7-12 | 7-12<sup>5</sup>) | 3 | 4 | 34 | 07-72-2 | 1. 9. 1988 | 07-02-4
+- | | | | | | | | 24-17-4
 
-- 02 | dámske odevy | CH, D | 7-12 | 7-12<sup>5</sup>) | 3 | 4 | 34 | 07-71-2 | 1. 9. 1988 | 07-02-4
+- 04 | lesné stroje a zariadenia | CH | 7-12 | 7-10 | 3 | 4 | 34 | 24-14-4/01
 
-- 31-77-2 | Strojová vyšívačka | | | | | | | | |
+- | | | | | | | | 24-17-4
 
-- 01 | priemyselnú výrobu | D | 7-12 | 7-10 | 3 | - | 29 | 07-83-2 | 1. 9. 1989 | 07-01-4
+- | | | | | | | | 45-26-4
 
-- 02 | zákazkovú výrobu | D | 7-12 | 7-10 | 3 | - | 29 | - | 1. 9. 1989 | 07-01-4 64-01-4
+- | | | | | | | | V37-57-4/01
 
-- 31-81-2 | Klobučník Klobučníčka | | | | | | | | |
+- | | | | | | | | V37-57-4/02
 
-- 01 | priemyselnú výrobu | CH, D | 9-17 | 7-12 | 3 | - | 29 | 07-51-2 | 1. 9. 1988 | 07-01-4
+- 05 | poľnohospodársku techniku rastlinnej výroby | CH | 7-12 | 7-10 | 3 | 4 | 34 | 24-14-4/01
 
-- 02 | zákazkovú výrobu | CH, D | 9-17 | 7-12 | 3 | - | 29 | 07-52-2 | 1. 9. 1988 | 07-01-4 64-01-4
+- | | | | | | | | 24-17-4
 
-- 31-85-2 | Krajčírka | | | | | | | | |
+- | | | | | | | | 45-26-4
 
-- 01 | odevnú konfekciu a bielizeň | D | 7-12 | 7-12 | 3 | - | 29 | 07-61-2 | 1. 9. 1987 | 07-02-4
+- | | | | | | | | V37-57-4/01
 
-- 02 | technickú konfekciu | D | 7-12 | 7-12 | 3 | - | 29 | 07-62-2 | 1. 9. 1987 | 07-02-4
+- | | | | | | | | V37-57-4/02
 
-- 03 | textilné hračky | D | 7-12 | 7-15 | 3 | - | 29 | 07-63-2 | 1. 9. 1987 | 07-02-4
+- 06 | poľnohospodársku techniku živočíšnej výroby | CH | 7-12 | 7-10 | 3 | 4 | 34 | 24-14-4/01
 
-- 32 | SPRACOVANIE KOŽE A VÝROBA OBUVI | | | | | | | | |
+- | | | | | | | | 24-17-4
 
-- 32-50-2 | Remenár-sedlár Remenárka-sedlárka | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-85-2 | 1. 9. 1989 | 08-13-4
+- | | | | | | | | 45-26-4
 
-- 32-51-2 | Kožušník Kožušníčka | | | | | | | | |
+- | | | | | | | | V37-57-4/01
 
-- 01 | prípravu kožušinových výrobkov | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 08-51-2 | 1. 9. 1988 | 08-05-4
+- | | | | | | | | V37-57-4/02
 
-- 02 | šitie a opravy kožušinových výrobkov | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 08-52-2 | 1. 9. 1988 | 08-05-04
+- 07 | cukrovary a škrobárne | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 32-53-2 | Rukavičkár Rukavičkárka | | | | | | | | |
+- | | | | | | | | 24-17-4
 
-- 01 | strihy | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 08-61-2 | 1. 9. 1988 | 08-13-4
+- 08 | renováciu poľnohospodárskej techniky a kováčstvo | CH | 7-12 | 7-10 | 3 | 4 | 34 | 24-14-4/01
 
-- 02 | šitie | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 08-62-2 | 1. 9. 1988 | 08-13-4
+- | | | | | | | | 24-17-4
 
-- 32-72-2 | Zvrškár Zvrškárka | CH, D | 7-12 | 7-12 | 3 | - | 29 | 08-86-2 | 1. 9. 1988 | 08-12-4
+- | | | | | | | | 45-26-4
 
-- 32-74-2 | Obuvník Obuvníčka | | | | | | | | |
+- | | | | | | | | V37-57-4/01
 
-- 01 | priemyselnú výrobu | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 08-71-2 | 1. 9. 1988 | 08-12-4
+- | | | | | | | | V37-57-4/02
 
-- 02 | zákazkovú výrobu a opravy | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | - | 1. 9. 1988 | 08-12-4 64-01-4
+- 09 | cestné motorové vozidlá | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 24-14-4/01
 
-- 03 | ortopedickú obuv | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 55-63-2 | 1. 9. 1988 | 55-02-4 08-12-4
+- | | | | | | | | 24-16-4
 
-- 04 | obuvnícke polovýrobky | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 08-72-2 | 1. 9. 1988 | 08-12-4
+- | | | | | | | | 24-17-4
 
-- 33 | SPRACOVANIE DREVA A VÝROBA HUDOBNÝCH NÁSTROJOV | | | | | | | | |
+- | | | | | | | | 37-57-4/01
 
-- 33-55-2 | Stolár Stolárka | | | | | | | | |
+- 10 | koľajové vozidlá | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 01 | výrobu nábytku a zariadení | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-21-2 | 1. 9. 1987 | 08-02-4
+- | | | | | | | | 24-17-4
 
-- 02 | stavebnú stolársku výrobu | CH | 7-12 | 7-12 | 3 | 4 | 34 | 08-22-2 | 1. 9. 1987 | 08-01-4
+- | | | | | | | | V37-57-4/02
 
-- 03 | poľnohospodársku výrobu | CH | 7-12 | 7-10 | 3 | 4 | 34 | - | 1. 9. 1987 | 08-01-4
+- 11 | lietadlá | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 04 | priemyselné obrábanie dreva | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-81-2 | 1. 9. 1987 | 08-01-4
+- | | | | | | | | V24-17-4
 
-- 33-56-2 | Spracovateľ prírodných pletív Spracovateľka prírodných pletív | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 08-31-2 08-32-2 | 1. 9. 1989 | 64-01-4
+- 24-67-2 | úpravár kovov | | | | | | |
 
-- 33-59-2 | Debnár | CH | 7-12 | 7-10 | 3 | 4 | 34 | - | 1. 9. 1987 | 08-01-4
+- 01 | tepelné spracúvanie | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/03
 
-- 33-62-2 | Kefár Kefárka | CH, D | 9-17 | 7-15 | 3 | - | 29 | 08-82-2 | 1. 9. 1989 | 08-01-4
+- | | | | | | | | V24-17-4
 
-- 33-64-2 | Rámár-pozlacovač Rámárka-pozlacovačka | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 85-61-2 | 1. 9. 1988 | 08-01-4
+- 02 | pokovovanie | CH | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/03
 
-- 33-67-2 | Výrobca športových potrieb Výrobkyňa športových potrieb | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | - | 1. 9. 1989 | nie je určený
+- | | | | | | | | V24-17-4
 
-- 33-68-2 | Mechanik hudobných nástrojov Mechanička hudobných nástrojov | | | | | | | | |
+- 24-68-2 | nastavovač textilných strojov | | | | | | |
 
-- 01 | akordeóny a fúkacie harmoniky | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-41-2 | 1. 9. 1988 | nie je určený
+- | nastavovačka textilných strojov | | | | | | |
 
-- 02 | klávesové nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-43-2 | 1. 9. 1988 | nie je určený
+- 01 | tkáčovne | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/01
 
-- 03 | strunové nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-44-2 | 1. 9. 1988 | nie je určený
+- | | | | | | | | V24-17-4
 
-- 33-69-2 | Mechanik dychových a bicích hudobných nástrojov Mechanička dychových a bicích hudobných nástrojov | | | | | | | | |
+- 02 | pradiarne | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/01
 
-- 01 | bicie nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-42-2 | 1. 9. 1988 | nie je určený
+- | | | | | | | | V24-17-4
 
-- 02 | jazýčkové a perné nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-42-2 | 1. 9. 1988 | nie je určený
+- 03 | pletiarne | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/01
 
-- 03 | nátrubkové nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-42-2 | 1. 9. 1988 | nie je určený
+- | | | | | | | | V24-17-4
 
-- 04 | strojivá | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | - | 1. 9. 1988 | nie je určený
+- 24-85-2 | rytec kovov | | | | | | |
 
-- 33-70-2 | Čalúnnik Čalúnnička | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 08-83-2 | 1. 9. 1989 | 08-02-4
+- | rytkyňa kovov | | | | | | |
 
-- 34 | POLYGRAFIA A SPRACOVANIE FILMU | | | | | | | | |
+- 01 | tlačiace a raziace valce | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 24-14-4/02
 
-- 34-68-2 | Pečiatkár Pečiatkárka | CH, D | 9-17 | 4-7 | 3 | 4 | 34 | 08-84-2 | 1. 9. 1989 | 64-01-4
+- | | | | | | | | V24-17-4
 
-- 34-70-2 | Tlačiar na maloofsetových strojoch Tlačiarka na maloofsetových strojoch | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 06-85-2 | 1. 9. 187 | 06-17-4
+- 02 | nástroje a znaky | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 24-14-4/01
 
-- 34-72-2 | Lejár v polygrafii | CH | 4-7 | 4-7 | 3 | 4 | 34 | 06-86-2 | 1. 9. 1987 | 06-17-4
+- | | | | | | | | 24-14-4/02
 
-- 34-92-2 | Filmový laborant Filmová laborantka | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 06-84-2 | 1. 9. 1988 | 64-02-4
+- | | | | | | | | 64-01-4/02
 
-- 36 | STAVEBNÍCTVO A VODOHOSPODÁRSTVO | | | | | | | | |
+- | | | | | | | | V24-17-4
 
-- 36-61-2 | Murár | CH | 7-12 | 7-12 | 3 | 4 | 34 | 09-71-2 | 1. 9. 1987 | 09-01-4
+- 26 | ELEKTROTECHNIKA A TELEKOMUNIKÁCIE | | | | | | |
 
-- 36-63-2 | Tesár | CH | 7-12 | 4-7 | 3 | 4 | 34 | 09-72-2 | 1. 9. 1987 | 09-01-4 08-01-4
+- 26-80-2 | mechanik | | | | | | |
 
-- 36-64-2 | Železobetonár | CH | 7-12 | 7-10 | 3 | 4 | 34 | 09-31-2 09-32-2 | 1. 9. 1988 | 09-01-4
+- | mechanička | | | | | | |
 
-- 36-65-2 | Štukatér | CH | 7-12 | 4-7 | 3 | 4 | 34 | 85-51-2 | 1. 9. 1989 | 09-01-4 85-01-4
+- 01 | vážiace zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 36-66-2 | Vodár-meliorátor | CH | 9-17 | 7-10 | 3 | 4 | 34 | 09-73-2 | 1. 9. 1989 | 09-01-4 09-02-4
+- | | | | | | | | 26-75-4/03
 
-- 36-72-2 | Kamenár | CH | 7-12 | 7-10 | 3 | 4 | 34 | 09-41-2 | 1. 9. 1989 | 64-01-4 85-01-4
+- | | | | | | | | V24-17-4
 
-- 36-74-2 | Dláždič-cestár | CH | 7-12 | 7-12 | 3 | 4 | 34 | 09-75-2 | 1. 9. 1988 | 09-01-4
+- | | | | | | | | V26-75-4/02
 
-- 36-75-2 | Maliar | | | | | | | | |
+- 02 | zdvíhacie zariadenia | CH | 7-12 | 7-10 | 3 | 4 | 34 | 24-14-4/01
 
-- 01 | interiéry | CH | 7-12 | 7-10 | 3 | 4 | 34 | 09-62-2 | 1. 9. 1989 | 64-01-4
+- | | | | | | | | 26-75-4/02
 
-- 02 | stavebnú výrobu | CH | 7-12 | 7-10 | 3 | 4 | 34 | 09-61-2 | 1. 9. 1989 | 64-01-4
+- | | | | | | | | V24-17-4
 
-- 36-76-2 | Izolatér | CH | 7-12 | 4-7 | 3 | 4 | 34 | 09-76-2 | 1. 9. 1988 | 09-01-4
+- | | | | | | | | V26-75-4/03
 
-- 36-77-2 | Pokrývač | CH | 7-12 | 4-7<sup>3</sup>) | 3 | 4 | 34 | 09-77-2 | 1. 9. 1987 | 09-01-4
+- | | | | | | | | V36-59-4/01
 
-- 36-78-2 | Inštalatér | CH | 7-12 | 4-7 | 3 | 4 | 34 | 09-78-2 | 1. 9. 1988 | 09-01-4 02-11-4 02-14-4
+- | | | | | | | | V37-57-4/01
 
-- 36-79-2 | Sklenár Sklenárka | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 09-51-2 | 1. 9 .1989 | 64-01-4
+- | | | | | | | | V37-57-4/02
 
-- 36-80-2 | Podlahár | CH | 7-12 | 4-7 | 3 | 4 | 34 | 09-79-2 | 1. 9. 1989 | 09-01-4
+- 03 | chladiace zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 36-88-2 | Kominár | CH | 9-17 | 7-10<sup>3</sup>) | 3 | 4 | 34 | 09-81-2 | 1. 9. 1988 | 64-01-4
+- | | | | | | | | 26-75-4/02
 
-- 37 | DOPRAVA A POŠTY | | | | | | | | |
+- | | | | | | | | V24-17-4
 
-- 37-62-2 | Železničiar Železničiarka | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 04-86-2 | 1. 9. 1987 | 04-21-4
+- | | | | | | | | V26-75-4/03
 
-- 37-63-2 | Manipulant poštovej prevádzky a prepravy Manipulantka poštovej prevádzky a prepravy | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 04-85-2 | 1. 9. 1987 | 04-16-4
+- | | | | | | | | V37-57-4/01
 
-- 45 | POĽNOHOSPODÁRSTVO A LESNÉ HOSPODÁRSTVO | | | | | | | | |
+- | | | | | | | | V37-57-4/02
 
-- 45-60-2 | Pestovateľ Pestovateľka | | | | | | | | |
+- 04 | stroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 01 | chmeliarstvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | - | 1. 9. 1988 | 45-01-4 45-11-4
+- | | | | | | | | 26-75-5/02
 
-- 02 | ovocinárstvo a včelárstvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-62-2 | 1. 9. 1988 | 45-01-4 45-11-4
+- | | | | | | | | V24-17-4
 
-- 03 | šľachtenie a semenárstvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-63-2 | 1. 9. 1988 | 45-01-4 45-11-4
+- | | | | | | | | V26-75-4/03
 
-- 04 | vinohradníctvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-61-2 | 1. 9. 1988 | 45-01-4 45-11-4
+- | | | | | | | | V37-57-4/01
 
-- 45-71-2 | Záhradník Záhradníčka | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-71-2 | 1. 9. 1987 | 45-11-4 45-12-4 64-11-4
+- | | | | | | | | V37-57-4/02
 
-- 45-75-2 | Mechanizátor lesnej výroby | CH | 9-17 | 7-10 | 3 | 4 | 34 | 45-75-2 | 1. 9. 1987 | 45-21-4
+- 05 | elektrotechniku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 45-76-2 | Mechanizátor rastlinnej výroby | CH | 7-12 | 7-10 | 3 | 4 | 34 | 01-61-2 | 1. 9. 1987 | 45-01-4 02-14-4 V 04-21-4 V 04-22-4
+- | | | | | | | | 26-75-4/02
 
-- 45-77-2 | Hydinár Hydinárka | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-77-2 | 1. 9. 1987 | 45-02-4
+- | | | | | | | | 26-75-4/03
 
-- 45-78-2 | Rybár | CH | 7-12 | 4-7 | 3 | 4 | 34 | 45-78-2 | 1. 9. 1989 | 45-02-4
+- | | | | | | | | V24-17-4
 
-- 45-80-2 | Chovateľ Chovateľka | | | | | | | | |
+- 06 | meracie prístroje a zariadenia | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 01 | chov hospodárskych zvierat | CH, D | 7-12 | 7-10 | 3 | - | 29 | 45-81-2 | 1. 9. 1988 | 45-02-4
+- | | | | | | | | 26-75-4/02
 
-- 02 | chov koní a jazdectvo | CH, D | 7-12 | 4-7 | 3 | - | 29 | 45-82-2 | 1. 9. 1988 | 45-02-4
+- | | | | | | | | 26-75-4/03
 
-- 03 | chov oviec | CH, D | 7-12 | 7-10 | 3 | - | 29 | 45-81-2 | 1. 9. 1988 | 45-02-4
+- | | | | | | | | V24-17-4
 
-- 55 | ZDRAVOTNÍCTVO | | | | | | | | |
+- 07 | administratívnu techniku | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 24-14-4/01
 
-- 55-60-2 | Protetik Protetička | | | | | | | | |
+- | | | | | | | | 26-75-4/02
 
-- 01 | mechaniku | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 55-61-2 | 1. 9. 1988 | 55-02-4
+- | | | | | | | | 26-75-4/03
 
-- 02 | bandáže | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 55-62-2 | 1. 9. 1988 | 55-02-4
+- | | | | | | | | V24-17-4
 
-- 55-72-2 | Zdravotník Zdravotníčka | | | | | | | | |
+- 26-83-2 | elektromechanik | | | | | | |
 
-- 01 | ošetrovateľské a opatrovateľské práce | CH, D | 7-12 | 4-7 | 3 | - | 29 | - | 1. 9. 1987 | 55-01-4/01
+- | elektromechanička | | | | | | |
 
-- 02 | laboratórne práce a lekárenstvo | CH, D | 7-12 | 4-7 | 3 | - | 29 | - | 1. 9. 1987 | 55-01-4/02
+- 01 | banské stroje a zariadenia | CH | 7-12 | 6-10 | 3 | 4 | 34 | 21-53-4
 
-- 64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | | | | | | | | |
+- | | | | | | | | 26-75-4/01
 
-- 64-51-2 | Aranžér Aranžérka | CH, D | 7-12 | 7-12<sup>6</sup>) | 3 | - | 29 | 64-51-2 | 1. 9. 1988 | 64-12-4
+- | | | | | | | | 26-75-4/02
 
-- 64-52-2 | Fotograf Fotografka | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 64-52-2 | 1. 9. 1988 | 64-02-4
+- | | | | | | | | V26-75-4/03
 
-- 64-53-1 | Knihár Knihárka | | | | | | | | |
+- 02 | oznamovacie a zabezpečovacie zariadenia | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 26-75-4/03
 
-- 01 | ručnú výrobu | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 64-53-2 | 1. 9. 1989 | 06-17-4
+- | | | | | | | | 26-76-4
 
-- 02 | priemyselnú výrobu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 64-53-2 | 1. 9. 1989 | 06-17-4
+- | | | | | | | | V26-75-4/02
 
-- 64-56-2 | Kaderník Kaderníčka | CH, D | 9-17 | 7-10 | 3 | 4 | 34 | 64-56-2 | 1. 9. 1987 | 64-26-4 85-02-4
+- 03 | rozvodné zariadenia | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 26-75-4/01
 
-- 64-60-2 | Predavač Predavačka | | | | | | | | |
+- | | | | | | | | 26-75-4/02
 
-- 01 | potravinársky tovar | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-61-2 | 1. 9. 1988 | 64-11-4
+- | | | | | | | | V26-75-4/03
 
-- 02 | rozličný tovar | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-62-2 | 1. 9. 1988 | 64-11-4
+- 04 | stroje a zariadenia | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 26-75-4/01
 
-- 03 | elektrotechnický tovar | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-63-2 | 1. 9. 1988 | 64-11-4
+- | | | | | | | | 26-75-4/02
 
-- 04 | drogériový tovar | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-64-2 | 1. 9. 1988 | 64-11-4
+- 26-86-2 | mechanik elektronických zariadení | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 26-75-4/03
 
-- 05 | motorové vozidlá | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-65-2 | 1. 9. 1988 | 64-11-4
+- | mechanička elektronických zariadení | | | | | | | V26-76-4
 
-- 06 | stavebniny a remeselnícke potreby | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-66-2 | 1. 9. 1988 | 64-11-4
+- 26-89-2 | spojový mechanik | | | | | | |
 
-- 07 | textil a odievanie | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-67-2 | 1. 9. 1988 | 64-11-4
+- | spojová mechanička | | | | | | |
 
-- 08 | obuv a koženú galantériu | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-68-2 | 1. 9. 1988 | 64-11-4
+- 01 | oznamovacie siete | CH | 7-12 | 7-10 | 3 | 4 | 34 | 26-75-4/03
 
-- 09 | domáce potreby | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-69-2 | 1. 9. 1988 | 64-11-4
+- | | | | | | | | 26-76-4
 
-- 10 | drobný tovar | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-71-2 | 1. 9. 1988 | 64-11-4
+- | | | | | | | | V26-75-4/02
 
-- 11 | hodiny a klenoty | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-72-2 | 1. 9. 1988 | 64-11-4
+- 02 | spojovacie zariadenia | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 26-75-4/03
 
-- 12 | nábytok a bytové zariadenia | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-73-2 | 1. 9. 1988 | 64-11-4
+- | | | | | | | | 26-76-4
 
-- 64-80-2 | Operátor skladovania Operátorka skladovania | | | | | | | | |
+- | | | | | | | | V26-75-4/02
 
-- 01 | hutnícke a strojárske výrobky | CH, D | 9-17 | 6-10 | 3 | 4 | 34 | 64-81-2 | 1. 9. 1988 | 02-11-4 64-11-4
+- 27 | TECHNICKÁ CHÉMIA SILIKÁTOV | | | | | | |
 
-- 02 | obchod | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 64-83-2 | 1. 9. 1988 | 64-11-4
+- 27-35-2 | keramik | | | | | | |
 
-- 64-90-2 | Kuchár-čašník Kuchárka-servírka | | | | | | | | |
+- | keramička | | | | | | |
 
-- 01 | prípravu jedál | CH, D | 9-17 | 7-12 | 3 | - | 29 | 64-91-2 | 1. 9. 1988 | 64-21-4
+- 01 | porcelán a keramiku | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 27-31-4
 
-- 02 | obsluhu | CH, D | 9-17 | 7-12 | 3 | - | 29 | 64-92-2 | 1. 9. 1988 | 64-21-4
+- | | | | | | | | 64-01-4/02
 
-- 03 | pohostinstvo | CH, D | 9-17 | 7-12 | 3 | - | 29 | 64-93-2 | 1. 9. 1988 | 64-21-4
+- 02 | stavebnú a žiaruvzdornú keramiku | CH, D | 9-17 | 7-10 | 3 | 4 | 34 | 27-31-4
 
-- 85 | UMENIE, ÚŽITKOVÉ UMENIE A RUČNÁ UMELECKOREMESELNÁ VÝROBA | | | | | | | | |
+- 03 | brúsiace prostriedky | CH, D | 9-17 | 7-10 | 3 | 4 | 34 | 27-31-4
 
-- 85-45-2 | Zlatník a klenotník Zlatníčka a klenotníčka | CH, D | 9-17 | 7-10 | 3 | 4 | 34 | 85-45-2 | 1. 9. 1988 | 85-01-4 05-02-4
+- 04 | elektrokeramiku | CH, D | 9-17 | 7-10 | 3 | 4 | 34 | 27-31-4
 
-- 85-71-2 | Ručná vyšívačka | D | 4-7 | 4-7 | 3 | 4 | 34 | 85-71-2 | 1. 9. 1989 | 85-01-4 07-02-4
+- 05 | modelovanie | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 27-31-4
 
-- 85-72-2 | Ručná čipkárka | D | 4-7 | 4-7 | 3 | 4 | 34 | 85-72-2 | 1. 9. 1989 | 85-01-4 07-01-4
+- 27-55-2 | maliar skla a keramiky | | | | | | |
+
+- | maliarka skla a keramiky | | | | | | |
+
+- 01 | maľbu skla | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 27-33-4/02
+
+- 02 | maľbu a dekoráciu keramiky | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 27-31-4
+
+- 27-56-2 | sklár | | | | | | |
+
+- | sklárka | | | | | | |
+
+- 01 | duté a lisované sklo | CH | 7-12 | 7-10 | 3 | 4 | 34 | 27-33-4/01
+
+- 02 | výrobu foriem | CH | 7-12 | 7-10 | 3 | 4 | 34 | 24-14-4/02
+
+- | | | | | | | | 27-33-4/01
+
+- | | | | | | | | V24-17-4
+
+- 03 | technické sklo | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 27-33-4/01
+
+- 27-57-2 | výrobca bižutérie | | | | | | |
+
+- | výrobkyňa bižutérie | | | | | | |
+
+- 01 | sklenú bižutériu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 27-32-4
+
+- 02 | kovovú bižutériu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 27-32-4
+
+- 27-59-2 | výrobca ozdobných predmetov a zapínadiel | | | | | | |
+
+- | výrobkyňa ozdobných predmetov a zapínadiel | | | | | | |
+
+- 01 | ozdobné predmety | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 27-32-4
+
+- 02 | zapínadlá | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 27-32-4
+
+- | | | | | | | | V27-17-4
+
+- 27-83-2 | brusič skla | | | | | | |
+
+- | brusička skla | | | | | | |
+
+- 01 | zabrusovanie a obrusovanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 27-33-4/02
+
+- 02 | vybrusovanie | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 27-33-4/02
+
+- 03 | rytie | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 27-33-4/02
+
+- 27-94-2 | brusič technického a šperkového kameňa | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 27-32-4
+
+- | brusička technického a šperkového kameňa | | | | | | | 27-33-4/04
+
+- | | | | | | | | 64-01-4/02
+
+- 28 | OSTATNÁ TECHNICKÁ CHÉMIA | | | | | | |
+
+- 28-61-2 | prevádzkový chemik | | | | | | |
+
+- | prevádzková chemička | | | | | | |
+
+- 01 | priemyselnú chémiu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 28-58-4/01
+
+- 02 | výrobu tukov a kozmetiky | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 28-58-4/01
+
+- 03 | farmaceutickú výrobu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 28-58-4/02
+
+- 28-66-2 | gumár plastikár | | | | | | |
+
+- | gumárka plastikárka | | | | | | |
+
+- 01 | spracúvanie kaučuku | CH, D | 7-12 | 7-12<sup>4</sup>) | 3 | 4 | 34 | 28-57-4
+
+- 02 | spracúvanie plastov | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 28-57-4
+
+- 28-73-2 | textilný chemik | | | | | | |
+
+- | textilná chemička | | | | | | |
+
+- 01 | úpravu textílií | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/03
+
+- 02 | farbenie textílií | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/03
+
+- 03 | potláčanie textílií | CH, D | 7-12 | 4-7 | 3 | - | 29 | 31-39-4/03
+
+- 28-74-2 | garbiarsky chemik | | | | | | |
+
+- | garbiarska chemička | | | | | | |
+
+- 01 | spracúvanie kože | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-46-4/01
+
+- 02 | spracúvanie kožušníckych kožiek | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-46-4/01
+
+- 28-75-2 | výrobca a spracovávateľ silikátových vlákien | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 27-33-4/01
+
+- | výrobkyňa a spracovávateľka silikátových vlákien | | | | | | |
+
+- 28-76-2 | chemik práčovní a čistiarní | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 64-01-4/01
+
+- | chemička práčovní a čistiarní | | | | | | | 28-58-4/01
+
+- 28-78-2 | biochemik | | | | | | |
+
+- | biochemička | | | | | | |
+
+- 01 | mliekárenskú výrobu | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 29-59-4
+
+- 02 | výrobu piva a sladu | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 29-59-4
+
+- 03 | liehovarnícku výrobu a výrobu vína | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 29-59-4
+
+- 29 | POTRAVINÁRSTVO | | | | | | |
+
+- 29-61-2 | mlynár | CH | 7-12 | 7-10 | 3 | - | 29 | 24-17-4
+
+- | | | | | | | | 29-59-4
+
+- 29-62-2 | pekár | CH, D | 7-12 | 7-10 | 3 | - | 29 | 29-59-4
+
+- | pekárka | | | | | | |
+
+- 29-64-2 | cukrár | CH, D | 7-12 | 7-10 | 3 | - | 29 | 29-59-4
+
+- | cukrárka | | | | | | | 64-21-4
+
+- 29-65-2 | cukrovinkár pečivár | | | | | | |
+
+- | cukrovinkárka pečivárka | | | | | | |
+
+- 01 | výrobu cukroviniek | CH, D | 9-17 | 7-10 | 3 | - | 29 | 29-59-4
+
+- 02 | výrobu trvanlivého pečiva | CH, D | 9-17 | 7-10 | 3 | - | 29 | 29-59-4
+
+- 29-68-2 | mäsiar údenár | CH, D | 7-12 | 7-10 | 3 | - | 29 | 29-59-4
+
+- | mäsiarka údenárka | | | | | | |
+
+- 29-70-2 | konzervár | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 29-59-4
+
+- | konzervárka | | | | | | |
+
+- 31 | TEXTIL A ODEVNÍCTVO | | | | | | |
+
+- 31-43-4 | pradiar | | | | | | |
+
+- | pradiarka | | | | | | |
+
+- 01 | spracúvanie textilných vlákien | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 02 | výrobu netkaných textílií | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 31-45-2 | plstiar | | | | | | |
+
+- | plstiarka | | | | | | |
+
+- 01 | technické plsti | CH, D | 9-17 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 02 | klobučnícke plsti | CH, D | 9-17 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 31-46-2 | tkáč | | | | | | |
+
+- | tkáčka | | | | | | |
+
+- 01 | plošné textílie | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 02 | kovové tkaniny a sitá | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 31-49-2 | výrobca textilných rukavíc | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-25-4
+
+- | výrobkyňa textilných rukavíc | | | | | | |
+
+- 31-50-2 | prámikár | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- | prámikárka | | | | | | |
+
+- 31-51-2 | pletiar | CH, D | 7-12 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- | pletiarka | | | | | | |
+
+- 31-52-2 | krajčír | | | | | | |
+
+- | krajčírka | | | | | | |
+
+- 01 | pánské odevy | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 31-25-4
+
+- 02 | dámske odevy | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 31-25-4
+
+- 31-77-2 | strojná vyšívačka | | | | | | |
+
+- 01 | priemyselnú výrobu | D | 7-12 | 7-10 | 3 | - | 29 | 31-39-4/02
+
+- 02 | zákazkovú výrobu | D | 7-12 | 7-10 | 3 | - | 29 | 31-39-4/02
+
+- 31-81-2 | klobučník | | | | | | |
+
+- | klobučníčka | | | | | | |
+
+- 01 | priemyselnú výrobu | CH, D | 9-17 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 02 | zákazkovú výrobu | CH, D | 9-17 | 7-12 | 3 | - | 29 | 31-39-4/02
+
+- 31-85-2 | krajčírka | | | | | | |
+
+- 01 | odevnú konfekciu | D | 7-12 | 7-12 | 3 | - | 29 | 31-25-4
+
+- 02 | technickú konfekciu | D | 7-12 | 7-12 | 3 | - | 29 | 31-25-4
+
+- 03 | textilné hračky | D | 7-12 | 7-15 | 3 | - | 29 | 31-25-4
+
+- 32 | SPRACÚVANIE KOŽE A VÝROBA OBUVI | | | | | | |
+
+- 32-50-2 | remenár sedlár | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 32-46-4/03
+
+- | remenárka sedlárka | | | | | | |
+
+- 32-51-2 | kožušník | | | | | | |
+
+- | kožušnícka | | | | | | |
+
+- 01 | prípravu kožušinových výrobkov | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-45-4
+
+- 02 | šitie a opravy kožušinových výrobkov | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-45-4
+
+- 32-53-2 | rukavičkár | | | | | | |
+
+- | rukavičkárka | | | | | | |
+
+- 01 | strihy | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-46-4/03
+
+- 02 | šitie | CH, D | 7-12 | 7-15 | 3 | 4 | 34 | 32-46-4/03
+
+- 32-72-2 | zvrškár | CH, D | 7-12 | 7-12 | 3 | - | 29 | 32-46-4/02
+
+- | zvrškárka | | | | | | |
+
+- 32-74-2 | obuvník | | | | | | |
+
+- | obuvníčka | | | | | | |
+
+- 01 | priemyselnú výrobu | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-46-4/02
+
+- 02 | zákazkovú výrobu a opravy | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-46-4/02
+
+- 03 | ortopedickú obuv | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 32-46-4/02
+
+- | | | | | | | | 55-02-4
+
+- 04 | obuvnícke polovýrobky | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 32-46-4/02
+
+- 33 | SPRACÚVANIE DREVA A VÝROBA HUDOBNÝCH NÁSTROJOV | | | | | | |
+
+- 33-55-2 | stolár | | | | | | |
+
+- | stolárka | | | | | | |
+
+- 01 | výrobu nábytku a zariadení | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 33-43-4/01
+
+- | | | | | | | | V36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 02 | stavebnostolársku výrobu | CH | 7-12 | 7-12 | 3 | 4 | 34 | 33-42-4
+
+- | | | | | | | | 33-43-4/01
+
+- | | | | | | | | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 03 | poľnohospodársku výrobu | CH | 7-12 | 7-10 | 3 | 4 | 34 | 33-42-4
+
+- | | | | | | | | 33-43-4/01
+
+- | | | | | | | | V36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 04 | priemyselné obrábanie dreva | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 33-42-4
+
+- | | | | | | | | 33-43-4/01
+
+- | | | | | | | | V36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 33-56-2 | spracovávateľ prírodných pletív | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 64-01-4/01
+
+- | spracovávateľka prírodných pletív | | | | | | | 64-01-4/02
+
+- 33-59-2 | debnár | CH | 7-12 | 7-10 | 3 | 4 | 34 | 33-42-4
+
+- | | | | | | | | V36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 33-62-2 | kefár | CH, D | 9-17 | 7-15 | 3 | - | 29 | 33-42-4
+
+- | kefárka | | | | | | |
+
+- 33-64-2 | ramár pozlacovač | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 64-01-4/02
+
+- | ramárka pozlacovačka | | | | | | |
+
+- 33-67-2 | výrobca športových potrieb | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 33-43-4/01
+
+- | výrobkyňa športových potrieb | | | | | | |
+
+- 33-68-2 | mechanik hudobných nástrojov | | | | | | |
+
+- | mechanička hudobných nástrojov | | | | | | |
+
+- 01 | akordeóny a ústne harmoniky | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | nieje určený
+
+- 02 | klávesové nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | nieje určený
+
+- 03 | strunové nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | nieje určený
+
+- 33-69-2 | mechanik dychových a bicích hudobných nástrojov | | | | | | |
+
+- | mechanička dychových a bicích hudobných nástrojov | | | | | | |
+
+- 01 | bicie nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | nieje určený
+
+- 02 | jazýčkové a perné nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | nieje určený
+
+- 03 | nátrubkové nástroje | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | nieje určený
+
+- 04 | strojivá | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | nieje určený
+
+- 33-70-2 | čalúnnik | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 33-43-4/02
+
+- | čalúnnička | | | | | | |
+
+- 34 | POLYGRAFIA A SPRACÚVANIE FILMU | | | | | | |
+
+- 34-68-2 | pečiatkár | CH, D | 9-17 | 4-7 | 3 | 4 | 34 | 64-01-4/01
+
+- | pečiatkárka | | | | | | |
+
+- 34-70-2 | tlačiar na maloofsetových strojoch | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 34-54-4
+
+- | tlačiarka na maloofsetových strojoch | | | | | | |
+
+- 34-72-2 | lejár v polygrafii | CH | 4-7 | 4-7 | 3 | 4 | 34 | 34-54-4
+
+- 34-92-2 | filmový laborant | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 64-01-4/01
+
+- | filmová laborantka | | | | | | |
+
+- 36 | STAVEBNÍCTVO A VODOHOSPODÁRSTVO | | | | | | |
+
+- 36-61-2 | murár | CH | 7-12 | 7-12 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-63-2 | tesár | CH | 7-12 | 4-7 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-64-2 | železobetonár | CH | 7-12 | 7-10 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-65-2 | štukatér | CH | 7-12 | 4-7 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | 64-01-4/01
+
+- | | | | | | | | 64-01-4/02
+
+- | | | | | | | | V36-59-4/02
+
+- 36-66-2 | vodár meliorátor | CH | 9-17 | 7-10 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | 36-60-4
+
+- | | | | | | | | V36-59-4/02
+
+- 36-72-2 | kamenár | CH | 7-12 | 7-10 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | 64-01-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-74-2 | dlaždič cestár | CH | 7-12 | 7-12 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-75-2 | maliar | | | | | | |
+
+- 01 | interiéry | CH | 7-12 | 7-10 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | 64-01-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 02 | stavebnú výrobu | CH | 7-12 | 7-10 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | 64-01-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-76-2 | izolatér | CH | 7-12 | 4-7 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-77-2 | pokrývač | CH | 7-12 | 4-7<sup>3</sup>) | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-78-2 | inštalatér | CH | 7-12 | 4-7 | 3 | 4 | 34 | 24-14-4/01
+
+- | | | | | | | | 36-59-4/02
+
+- | | | | | | | | V24-17-4
+
+- | | | | | | | | V36-59-4/01
+
+- 36-79-2 | sklenár | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 36-59-4/01
+
+- | sklenárka | | | | | | | V36-59-4/02
+
+- 36-80-2 | podláhár | CH | 7-12 | 4-7 | 3 | 4 | 34 | 36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 36-88-2 | kominár | CH | 9-17 | 7-10<sup>3</sup>) | 3 | 4 | 34 | 64-01-4/01
+
+- | | | | | | | | V36-59-4/01
+
+- | | | | | | | | V36-59-4/02
+
+- 37 | DOPRAVA A POŠTY | | | | | | |
+
+- 37-62-2 | železničiar | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 37-57-4/02
+
+- | železničiarka | | | | | | |
+
+- 37-63-2 | manipulant poštovej prevádzky a prepravy | CH, D | 7-12 | 7-10 | 3 | 4 | 34 | 37-56-4
+
+- | manipulantka poštovej prevádzky a prepravy | | | | | | |
+
+- 45 | POĽNOHOSPODÁRSTVO A LESNÉ HOSPODÁRSTVO | | | | | | |
+
+- 45-60-2 | pestovateľ | | | | | | |
+
+- | pestovateľka | | | | | | |
+
+- 01 | chmeliarstvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-01-4
+
+- 02 | ovocinárstvo a včelárstvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-01-4
+
+- 03 | šľachtenie a semenárstvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-01-4
+
+- | | | | | | | | 45-11-4
+
+- 04 | vinohradníctvo | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-01-4
+
+- | | | | | | | | 45-11-4
+
+- 45-71-2 | záhradník | CH, D | 7-12 | 7-12 | 3 | - | 29 | 45-11-4
+
+- | záhradníčka | | | | | | |
+
+- 45-75-2 | mechanizátor lesnej výroby | CH | 9-17 | 7-10 | 3 | 4 | 34 | 45-21-4
+
+- 45-76-2 | mechanizátor rastlinnej výroby | CH | 7-12 | 7-10 | 3 | 4 | 34 | 45-01-4
+
+- | | | | | | | | 45-26-4
+
+- 45-77-2 | hydinár | CH, D | 7-12 | 7-12 | 3 | - | 29 | 29-59-4
+
+- | hydinárka | | | | | | | 45-02-4/01
+
+- 45-78-2 | rybár | CH | 7-12 | 4-7 | 3 | 4 | 34 | 45-02-4/02
+
+- 45-80-2 | chovateľ | | | | | | |
+
+- | chovateľka | | | | | | |
+
+- 01 | chov hospodárskych zvierat | CH, D | 7-12 | 7-10 | 3 | - | 29 | 45-02-4/01
+
+- 02 | chov koní a jazdectvo | CH, D | 7-12 | 4-7 | 3 | - | 29 | 45-02-4/01
+
+- 03 | chov oviec | CH, D | 7-12 | 7-10 | 3 | - | 29 | 45-02-4/01
+
+- 55 | ZDRAVOTNÍCTVO | | | | | | |
+
+- 55-60-2 | protetik | | | | | | |
+
+- | protetička | | | | | | |
+
+- 01 | mechaniku | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 55-02-4
+
+- 02 | bandáže | CH, D | 4-7 | 7-10 | 3 | 4 | 34 | 55-02-4
+
+- 55-72-2 | zdravotník | | | | | | |
+
+- | zdravotníčka | | | | | | |
+
+- 01 | ošetrovateľské a opatrovateľské práce | CH, D | 7-12 | 4-7 | 3 | - | 29 | nieje určený
+
+- 02 | laboratórne práce a lekárenstvo | CH, D | 7-12 | 4-7 | 3 | - | 29 | nieje určený
+
+- 64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | | | | | | |
+
+- 64-51-2 | aranžér | CH, D | 7-12 | 7-12<sup>5</sup>) | 3 | - | 29 | 64-11-4/02
+
+- | aranžérka | | | | | | |
+
+- 64-52-2 | fotograf | CH, D | 9-17 | 7-12 | 3 | 4 | 34 | 64-01-4/01
+
+- | fotografka | | | | | | | 64-01-4/02
+
+- 64-53-2 | knihár | | | | | | |
+
+- | knihárka | | | | | | |
+
+- 01 | ručnú výrobu | CH, D | 7-12 | 4-7 | 3 | 4 | 34 | 34-54-4
+
+- 02 | priemyselnú výrobu | CH, D | 7-12 | 7-12 | 3 | 4 | 34 | 34-54-4
+
+- 64-56-2 | kaderník | CH, D | 9-17 | 7-10 | 3 | 4 | 34 | 64-26-4
+
+- | kaderníčka | | | | | | |
+
+- 64-60-2 | predavač | | | | | | |
+
+- | predavačka | | | | | | |
+
+- 01 | potravinársky tovar | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-11-4/01
+
+- 02 | rozličný tovar | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-11-4/01
+
+- 03 | elektrotechnický tovar | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-11-4/01
+
+- 04 | drogériový tovar | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-11-4/01
+
+- 05 | motorové vozidlá | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-11-4/01
+
+- 06 | stavebniny a remeselnícke potreby | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-11-4/01
+
+- 07 | textil a odievanie | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-11-4/01
+
+- 08 | obuv a koženú galantériu | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-11-4/01
+
+- 09 | domáce potreby | CH, D | 9-17 | 5-16 | 3 | - | 29 | 64-11-4/01
+
+- 10 | drobný tovar | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-11-4/01
+
+- 11 | hodiny a klenoty | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-11-4/01
+
+- 12 | nábytok a bytové zariadenia | CH, D | 9-17 | 5-10 | 3 | - | 29 | 64-11-4/01
+
+- 64-80-2 | operátor skladovania | | | | | | |
+
+- | operátorka skladovania | | | | | | |
+
+- 01 | hutnícke a strojárske výrobky | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 27-17-4
+
+- | | | | | | | | 64-27-4
+
+- 02 | obchod | CH, D | 7-12 | 6-10 | 3 | 4 | 34 | 64-27-4
+
+- 64-90-2 | kuchár čašník | | | | | | |
+
+- | kuchárka servírka | | | | | | |
+
+- 01 | prípravu jedál | CH, D | 9-17 | 7-12 | 3 | - | 29 | 64-21-4
+
+- 02 | obsluhu | CH, D | 9-17 | 7-12 | 3 | - | 29 | 64-21-4
+
+- 03 | pohostinstvo | CH, D | 9-17 | 7-12 | 3 | - | 29 | 64-21-4
+
+- 85 | UMENIE, ÚŽITKOVÉ UMENIE A RUČNÁ UMELECKOREMESELNÁ VÝROBA | | | | | | |
+
+- 85-45-2 | zlatník a klenotník | CH, D | 9-17 | 7-10 | 3 | 4 | 34 | 64-01-4/02
+
+- | zlatníčka a klenotníčka | | | | | | | 85-01-4
+
+- 85-71-2 | ručná vyšívačka | D | 4-7 | 4-7 | 3 | 4 | 34 | 64-01-4/02
+
+- | | | | | | | | 85-01-4
+
+- 85-72-2 | ručná čipkárka | D | 4-7 | 4-7 | 3 | 4 | 34 | 64-01-4/02
+
+- | | | | | | | | 85-01-4
 
 - II. Sústava skupín učebných odborov a učebných odborov v stredných odborných učilištiach, ktorých denné štúdium trvá 2 roky
 

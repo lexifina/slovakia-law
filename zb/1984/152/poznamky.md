@@ -66,18 +66,14 @@
 
 - 2) Pri práci so zákazníkom 4-6 žiačok na jedného majstra odbornej výchovy.
 
-- 1) Študijný odbor podľa oddielu D, ktorý obsahovo nadväzuje na učebný odbor.
+- 1) Študijný odbor podľa oddielu D, ktorý obsahovo nadväzuje na učebný odbor. Pre vojenské stredné odborné učilištia sa stĺpec 9 rozširuje o študijné odbory označené V.
 
-- Pre vojenské stredné odborné učilištia sa stĺpec 11 rozširuje o študijné odbory označené „V".
+- 2) V učebnom odbore mechanik banských prevádzok je na jedného majstra odbornej výchovy až 30 žiakov, ak sa prideľujú kádrovým robotníkom na sústredených pracoviskách.
 
-- 2) V učebnom odbore mechanik banských prevádzok je na jedného majstra odbornej výchovy až 30 žiakov, ak sú prideľovaní kádrovým robotníkom na sústredených pracoviskách.
+- 3) V 3. ročníku pri práci vo výškách 4 žiaci na jedného majstra odbornej výchovy.
 
-- 3) V 3. ročníku pri práci vo výškach 4 žiaci na jedného majstra odbornej výchovy.
+- 4) V blokoch učiva pre vulkanizáciu je 4 až 6 žiakov na jedného majstra odbornej výchovy.
 
-- 4) V špecializácii pre vulkanizáciu je 4 až 6 žiakov na jedného majstra odbornej výchovy.
-
-- 5) V priemyselnej výrobe v 3. ročníku až 15 žiakov na jedného majstra odbornej výchovy.
-
-- 6) Pri aranžérskych prácach v obchodnej prevádzke 5-10 žiakov na jedného majstra odbornej výchovy.
+- 5) Pri aranžérskych prácach v obchodnej prevádzke 5 až 10 žiakov na jedného majstra odbornej prípravy.
 
 - 7) Učebný odbor je určený len pre štúdium popri zamestnaní.
