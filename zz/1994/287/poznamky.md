@@ -98,8 +98,6 @@
 
 - 50) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 192/1993 Z. z. o spoločenskom ohodnotení vybraných častí prírody.
 
-- 51) § 3 písm. n) zákona Slovenskej národnej rady č. 128/1991 Zb. o Štátnom fonde životného prostredia Slovenskej republiky.
-
 - 52) Napríklad zákon č. 138/1973 Zb. v znení zákona Národnej rady Slovenskej republiky č. 238/1993 Z. z., zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb., zákon Slovenskej národnej rady č. 307/1992 Zb.
 
 - 53) Zákon č. 265/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z.Zákon Slovenskej národnej rady č. 266/1992 Zb.
@@ -123,8 +121,6 @@
 - 62) § 5 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.§ 420, § 420a a § 442 Občianskeho zákonníka.
 
 - 63) Napríklad zákon č. 169/1949 Zb. o vojenských obvodoch, zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení zákona č. 101/1964 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 17/1976 Zb. a zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z.
-
-- 64) § 4 a 6 zákona Slovenskej národnej rady č. 128/1991 Zb.Vyhláška Slovenskej komisie pre životné prostredie č. 176/1992 Zb. o podmienkach poskytovania a použitia prostriedkov Štátneho fondu životného prostredia Slovenskej republiky.
 
 - 65) Čl. 20 ods. 3 a 4 Ústavy Slovenskej republiky.
 
