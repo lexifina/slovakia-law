@@ -72,11 +72,7 @@ Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády 
 
 - (6)
 
-- Na čele generálneho štábu je náčelník generálneho štábu, ktorý velí vojskám armády. Je podriadený ministrovi, ktorému zodpovedá za výkon svojej funkcie.
-
-- (7)
-
-- Náčelníka generálneho štábu vymenúva a odvoláva vláda Slovenskej republiky na návrh ministra.“.
+- Na čele generálneho štábu je náčelník generálneho štábu, ktorý velí vojskám armády. Je podriadený ministrovi, ktorému zodpovedá za výkon svojej funkcie.“.
 
 - Poznámka pod čiarou k odkazu <sup>1b</sup>) znie:
 
