@@ -1,0 +1,1 @@
+- *) Tu sa vyhlasuje slovenské znenie v Prílohe zbierky zákonov na str.5.
