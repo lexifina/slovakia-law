@@ -1,0 +1,3 @@
+Ministr:
+
+Hradílek v. r.
