@@ -1,0 +1,1 @@
+Viliam Soboňa v. r.
