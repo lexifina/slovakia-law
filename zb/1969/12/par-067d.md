@@ -13,9 +13,3 @@
 - 2. Pri posudzovaní zavinenia sa za kritérium pokladá vynaloženie starostlivosti obvyklej vo vzťahoch daného druhu.
 
 - 3. Bremeno dokazovania okolností uvedených pod písmenami a), b) a c) odseku 1 tohto paragrafu a aj výška škody leží na veriteľovi. Zavinenie dlžníka sa predpokladá.
-
-- 4. Dlžník nie je povinný nahradzovať škodu, ktorú mohol veriteľ odvrátiť, keby prejavil starostlivosť obvyklú vo vzťahoch daného druhu.
-
-- 5. Zmluvné strany nemôžu navzájom uplatňovať ako náhradu škody sumy penále zaplatené ich kontrahentom vnútri štátu podľa národného zákonodarstva alebo hospodárskych zmlúv.
-
-- 6. Nenahradzuje sa nepriama škoda.
