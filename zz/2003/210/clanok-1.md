@@ -600,6 +600,14 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 
 - Pracovný čas u zamestnanca vykonávajúceho ťažkú telesnú prácu alebo ťažkú duševnú prácu, alebo prácu, pri ktorej by mohlo dôjsť k ohrozeniu života alebo zdravia, nesmie presiahnuť osem hodín v priebehu 24 hodín. Zamestnávateľ po dohode so zástupcami zamestnancov v súlade s právnymi predpismi na zaistenie bezpečnosti a ochrany zdravia pri práci vymedzí okruh ťažkých telesných prác alebo ťažkých duševných prác, alebo prác, pri ktorých by mohlo dôjsť k ohrozeniu života alebo zdravia.“.
 
+- 109. V § 100 sa vypúšťa písmeno d).
+
+- 110. V § 106 ods. 2 sa vypúšťa písmeno e).
+
+  - Doterajšie písmená f) až h) sa označujú ako e) až g).
+
+- 111. § 108 sa vypúšťa.
+
 - 112. V § 109 ods. 2 sa vypúšťajú slová „po prerokovaní s príslušným odborovým orgánom“.
 
 - 113. V § 109 odsek 5 znie:
