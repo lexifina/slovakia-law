@@ -2,7 +2,7 @@
 
 (1) Ústavný súd môže
 
-- a) vyhlásiť voľbu prezidenta Slovenskej republiky za neplatnú a nariadiť opakovanie voľby podľa osobitného predpisu,<sup>1i</sup>)
+- a) vyhlásiť voľbu prezidenta Slovenskej republiky za neplatnú a nariadiť opakovanie voľby podľa osobitného predpisu,<sup>18</sup>)
 
 - b) sťažnosť zamietnuť.
 
