@@ -1,4 +1,4 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky, vyhláška Ministerstva financií Slovenskej republiky č. 638/1992 Zb. o hospodárení s prostriedkami štátneho rozpočtu Slovenskej republiky a o hospodárení rozpočtových a príspevkových organizácií.
+- 1) § 1 ods. 1 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení zákona Národnej rady Slovenskej republiky č. 260/1995 Z. z.
 
 - 2) § 11 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona Slovenskej národnej rady č. 130/1991 Zb. a zákona Slovenskej národnej rady č. 421/1991 Zb.
 
@@ -16,9 +16,15 @@
 
 - 8a) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
+- 8b) § 13 písm. a) zákona č. 39/1977 Zb. o výchove nových vedeckých pracovníkov a o ďalšom zvyšovaní kvalifikácie vedeckých pracovníkov.
+
+- 8c) § 22 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
+
 - 9) § 82 ods. 2 Zákonníka práce.
 
 - 9a) Napr. zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
+
+- 9b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
 
 - 10) Nariadenie vlády Slovenskej republiky č. 227/1992 Zb. o poskytovaní osobitného príplatku za prácu v sťažených a zdraviu škodlivých pracovných podmienkach.
 

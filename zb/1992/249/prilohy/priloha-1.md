@@ -930,6 +930,10 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 11.14. Komplexné systémové riešenie otázok súvisiacich s ochranou vnútorného poriadku a bezpečnosti štátu na zverených úsekoch.
 
+- 11.15. Tvorba a koordinácia koncepcií a programov rozvoja regiónu na úrovni okresu (kraja) a riadenie ich realizácie.
+
+- 11.16. Vedenie kontrolných akcií na úrovni ústredného orgánu štátnej správy pri kontrole realizácie vládnych programov a dodržiavania zákonov; vedenie kontrolných akcií na úrovni Najvyššieho kontrolného úradu Slovenskej republiky pri kontrole hospodárenia s rozpočtovými prostriedkami, so štátnym majetkom, majetkovými právami a pohľadávkami štátu.
+
 - 12. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: vysokoškolské
@@ -2626,8 +2630,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 9.08. Vedenie ročníka poslucháčov alebo kurzu na vojenskej akadémii, vojenskej vysokej škole, v školiacom a výcvikovom stredisku.
 
-- 9.09. Komplexné velenie a zabezpečovanie okresnej vojenskej správy a správy vojenskej dopravy.
-
 - 9.10. Komplexné zabezpečovanie výkonu vojenskej poriadkovej, bezpečnostnej a dopravnej polície.
 
 - 9.11. Velenie jednotlivým podsystémom v rámci pluku alebo brigády s pôsobnosťou na rozhodujúce plnenie úloh pluku alebo brigády.
@@ -2650,7 +2652,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 10.06. Komplexné velenie a zabezpečovanie školských jednotiek a chodu fakúlt.
 
-- 10.07. Komplexné velenie a zabezpečovanie vyšších doplňovacích veliteľstiev a vojenských ubytovacích a stavebných správ.
+- 10.07. Komplexné velenie a zabezpečovanie okresnej správy a správy vojenskej dopravy.
 
 - 10.08. Komplexné velenie vojenskej polícii na posádkových veliteľstvách a divíziách.
 
@@ -2673,6 +2675,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 11.02. Komplexné velenie a všestranné zabezpečovanie chodu veliteľstva školiaceho a výcvikového strediska, rektorátu vojenskej akadémie a vojenskej vysokej školy.
 
 - 11.03. Pilotovanie vojenského lietadla, zodpovednosť za kvalitné, bezpečné a hospodárne uskutočňovanie letu v súlade so všetkými platnými letovými predpismi a normami vrátane zodpovednosti za činnosť posádky od začatia predletovej prípravy až do ukončenia letu.
+
+- 11.04. Komplexné velenie a zabezpečovanie vyšších doplňovacích veliteľstiev a vojenských ubytovacích a stavebných správ.
 
 - 12. PLATOVÁ TRIEDA
 
@@ -2848,11 +2852,69 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 12.01. Organizovanie a koordinácia komplexného celoštátneho colného systému.
 
-[Príloha 02](../assets/5becaf97d8e9f27c5176d9cf220208f014b2ed640ddfc9f27837c97612a6d4bc.pdf)
+[Príloha 02](../assets/85172b74f8984efa2c9c9e30306409f8cd7a1a17b5fb7f992120d35f2b2f3dfe.pdf)
 
 Príloha č. 2 nariadenia vlády Slovenskej republiky č. 249/1992 Zb.
 
 Stupnica platových taríf zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch
+
+Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podlá platových tried a platových stupňov | | | | | | | | | | |
+
+| | Platová trieda | | | | | | | | | | |
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+
+1 | do 3 | 2700 | 2850 | 3 100 | 3400 | 3750 | 4 130 | 4550 | 5030 | 5550 | 6 150 | 6790 | 7520
+
+2 | do 6 | 2740 | 2970 | 3240 | 3 550 | 3920 | 4310 | 4750 | 5250 | 5810 | 6420 | 7 100 | 7850
+
+3 | do 9 | 2860 | 3 100 | 3380 | 3 700 | 4080 | 4490 | 4940 | 5470 | 6060 | 6700 | 7400 | 8 190
+
+4 | do 12 | 2970 | 3230 | 3 520 | 3860 | 4250 | 4680 | 5 150 | 5690 | 6300 | 6970 | 7700 | 8520
+
+5 | do 15 | 3090 | 3360 | 3660 | 4010 | 4420 | 4860 | 5350 | 5920 | 6550 | 7240 | 8000 | 8860
+
+6 | do 18 | 3200 | 3480 | 3800 | 4 160 | 4580 | 5040 | 5550 | 6 140 | 6790 | 7510 | 8310 | 9 190
+
+7 | do 21 | 3320 | 3610 | 3940 | 4310 | 4750 | 5230 | 5760 | 6370 | 7040 | 7790 | 8610 | 9520
+
+8 | do 24 | 3430 | 3730 | 4080 | 4460 | 4910 | 5410 | 5960 | 6590 | 7290 | 8060 | 8910 | 9850
+
+9 | do 27 | 3550 | 3860 | 4220 | 4610 | 5080 | 5600 | 6 160 | 6820 | 7530 | 8340 | 9210 | 10200
+
+10 | nad 27 | 3670 | 3990 | 4350 | 4760 | 5240 | 5780 | 6360 | 7030 | 7780 | 8600 | 9 510 | 10530
+
+[Príloha 02a](../assets/36a9775ad6da40d0130336c71818ddeafe223c84f30c8e123bd4e68c715ba2da.pdf)
+
+Príloha č. 2a nariadenia vlády Slovenskej republiky č. 249/1992 Zb.
+
+Stupnica platových taríf zamestnancov, ktorí sú špičkovými odborníkmi
+
+(Sk mesačne)
+
+Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podlá platových tried a platových stupňov | | | | |
+
+| | Platová trieda | | | | |
+
+| | 7 | 8 | 9 | 10 | 11 | 12
+
+5 | nad 12 do 15 | 6500 | 7740 | 9 180 | 10 160 | 11 220 | 12420
+
+6 | do 18 | 6750 | 8040 | 9530 | 10530 | 11 660 | 12890
+
+7 | do 21 | 6990 | 8330 | 9870 | 10920 | 12080 | 13350
+
+8 | do 24 | 7240 | 8620 | 10220 | 11 300 | 12500 | 13820
+
+9 | do 27 | 7490 | 8920 | 10560 | 11 690 | 12920 | 14300
+
+10 | nad 27 | 7720 | 9200 | 10910 | 12060 | 13340 | 14 760
+
+[Príloha 02b](../assets/5c5155a00b8c455f8387aca67ee3d4c331a1fc938dcf9db236d28f597223da2b.pdf)
+
+Príloha č. 2b nariadenia vlády Slovenskej republiky č. 249/1992 Zb.
+
+Stupnica platových taríf zamestnancov v štátnych zdravotníckych zariadeniach a v zariadeniach sociálnej starostlivosti, ktorí vykonávajú úkony priamo spojené so zdravotnou starostlivosťou
 
 (Sk mesačne)
 
@@ -2862,61 +2924,61 @@ Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podlá platovýc
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 
-1 | do 3 | 2450 | 2660 | 2900 | 3 180 | 3 500 | 3860 | 4250 | 4700 | 5 190 | 5750 | 6350 | 7030
+1 | do 3 | 2 770 | 3010 | 3280 | 3 720 | 4 100 | 4520 | 4970 | 5590 | 6590 | 7300 | 8060 | 8930
 
-2 | do 6 | 2 560 | 2 780 | 3030 | 3320 | 3660 | 4030 | 4440 | 4910 | 5430 | 6000 | 6640 | 7340
+2 | do 6 | 2890 | 3 140 | 3420 | 3880 | 4280 | 4720 | 5 190 | 5840 | 6900 | 7620 | 8430 | 9320
 
-3 | do 9 | 2670 | 2900 | 3 160 | 3460 | 3810 | 4200 | 4620 | 5 110 | 5660 | 6260 | 6920 | 7650
+3 | do 9 | 3020 | 3280 | 3 570 | 4050 | 4460 | 4910 | 5410 | 6080 | 7 190 | 7950 | 8790 | 9720
 
-4 | do 12 | 2 780 | 3020 | 3290 | 3610 | 3970 | 4370 | 4810 | 5320 | 5890 | 6510 | 7200 | 7960
+4 | do 12 | 3 140 | 3410 | 3 720 | 4220 | 4640 | 5 110 | 5630 | 6330 | 7480 | 8270 | 9 140 | 10 110
 
-5 | do 15 | 2890 | 3 140 | 3420 | 3750 | 4 130 | 4 540 | 5000 | 5530 | 6 120 | 6770 | 7480 | 8280
+5 | do 15 | 3270 | 3550 | 3860 | 4390 | 4830 | 5310 | 5850 | 6580 | 7770 | 8600 | 9 500 | 10520
 
-6 | do 18 | 2990 | 3250 | 3550 | 3890 | 4280 | 4710 | 5 190 | 5740 | 6350 | 7020 | 7770 | 8590
+6 | do 18 | 3380 | 3670 | 4010 | 4550 | 5010 | 5510 | 6070 | 6830 | 8060 | 8920 | 9870 | 10910
 
-7 | do 21 | 3 100 | 3370 | 3680 | 4030 | 4440 | 4890 | 5380 | 5950 | 6580 | 7280 | 8050 | 8900
+7 | do 21 | 3500 | 3810 | 4 160 | 4 720 | 5 190 | 5720 | 6290 | 7080 | 8360 | 9250 | 10220 | 11 300
 
-8 | do 24 | 3210 | 3490 | 3810 | 4 170 | 4590 | 5060 | 5570 | 6 160 | 6810 | 7530 | 8330 | 9210
+8 | do 24 | 3630 | 3940 | 4310 | 4880 | 5370 | 5920 | 6520 | 7330 | 8650 | 9560 | 10580 | 11 700
 
-9 | do 27 | 3320 | 3610 | 3940 | 4310 | 4750 | 5230 | 5760 | 6370 | 7040 | 7790 | 8610 | 9 530
+9 | do 27 | 3750 | 4080 | 4450 | 5040 | 5560 | 6 120 | 6740 | 7580 | 8940 | 9890 | 10930 | 12 100
 
-10 | nad 27 | 3430 | 3 730 | 4070 | 4450 | 4900 | 5400 | 5940 | 6570 | 7270 | 8040 | 8890 | 9840
+10 | nad 27 | 3880 | 4210 | 4600 | 5210 | 5730 | 6320 | 6950 | 7820 | 9230 | 10210 | 11 290 | 12 500
 
-[Příloha 03](../assets/37ded46f2c7af0bcdc31289367ba65da76f2efa3c3aff951f0c0ba1e56769018.pdf)
+[Príloha 03](../assets/044fa3c32f027cd67abd7260b17f3381b76118b17e7d69181f4533a01aa7ff87.pdf)
 
-Príloha č. 3 nariadenia vlády SR č. 249/1992 Zb.
+Príloha č. 3 nariadenia vlády Slovenskej republiky č. 249/1992 Zb.
 
-Príplatky za riadenie v rozpočtových a v niektorých ďalších organizáciách a orgánoch (v Kčs za mesiac)
+Príplatky za riadenie v rozpočtových a v niektorých ďalších organizáciách a orgánoch
 
-| Pôsobnosť organizácie | | | |
+(Sk mesačne)
 
-| ústredný orgán štátnej správy, na čele ktorého nie je člen vlády | celorepubliková | krajská oblastná | okresná | obvodná miestna
+| Ústredný orgán štátnej správy, na čele ktorého nie je člen vlády, Kancelária Ústavného súdu Slovenskej republiky | Pôsobnosť organizácie | | |
 
-| | Magistrát hl. m. Bratislavy, Magistrát mesta Košíc | mestá nad 50 tisíc | mestá od 15 do 50 tisíc | obce do 15 tisíc
+| | celoštátna | oblastná (krajská) | okresná | obvodná, miestna
 
-I | 1600-6000 | 1600-5000 | 1600-4000 | 1600-3000 | 1600-2500
+| | Magistrát hlavného mesta Bratislavy, Magistrát mesta Košíc | mestá nad 50 tisíc obyvateľov | mestá od 15 tisíc do 50 tisíc obyvateľov | obce do 15 tisíc obyvateľov
 
-II | 1200-4000 | 1200-3800 | 1200-3000 | 1200-2400 | 1200-1800
+I | 1 600 - 7 500 | 1 600 - 6 300 | 1 600 - 5 000 | 1 600 - 3 800 | 1 600 - 3 100
 
-III | 800-2200 | 800-2000 | 800-1800 | 800-1600 | 800-1400
+II | 1 200 - 5 000 | 1 200 - 4 800 | 1 200 - 3 800 | 1 200 - 3 000 | 1 200 - 2 300
 
-IV | 300-1200 | | | |
+III | 800 - 2 800 | 800 - 2 500 | 800 - 2 300 | 800 - 2 000 | 800 - 1 900
+
+IV | 300 - 1 500 | | | |
 
 Stupeň riadenia:
 
 I. - vedúci organizácie (štatutárny orgán)
 
-II. - vedúci zamestnanec organizácie zodpovedný za zverený úsek činnosti organizácie (zástupca štatutárneho orgánu)
+II. - vedúci zamestnanec organizácie zodpovedný za zverený úsek činnosti organizácie, ktorý je zástupcom štatutárneho orgánu
 
-III. - riaditeľ odboru na ústrednom orgáne štátnej správy alebo vedúci zamestnanec, ktorý riadi viac útvarov organizácie
-
-s výnimkou zástupcu štatutárneho orgánu
+III. - riaditeľ odboru na ústrednom orgáne štátnej správy alebo vedúci zamestnanec, ktorý riadi viac útvarov organizácie, s výnimkou zástupcu štatutárneho orgánu
 
 IV. - vedúci zamestnanec, ktorý je oprávnený riadiť prácu podriadených zamestnancov
 
-[Príloha 04](../assets/42382345fa0aa8b82b050d79c29f9b76db43bfe5cb8babd9987483fda328cfec.pdf)
+[Príloha 04](../assets/f61132973798e65fadb0560f03d5adcdf8dfa54d4f8903a69210c679147a2e28.pdf)
 
-Príloha č. 4 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 636/1992 Zb.
+Príloha č. 4 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 636/1992 Zb., nariadenia vlády Slovenskej republiky č. 72/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 66/1994 Z. z.
 
 Príplatky za riadenie
 
@@ -2924,71 +2986,73 @@ PRVÁ ČASŤ
 
 Ozbrojené sily
 
-1. Veliteľstvo Armády Slovenskej republiky, Civilná ochrana Slovenskej republiky a Hlavná vojenská prokuratúra
+- 1. Generálny štáb Armády Slovenskej republiky
 
-Funkcia | | Príplatok za riadenie v Sk mesačne
+| Funkcia | Príplatok za riadenie v Sk mesačne
 
-1.1 | veliteľ Armády SR, prvý zástupca veliteľa Armády SR, námestník generálneho prokurátora | 5 000 - 6 000
+1.1 | Náčelník generálneho štábu | 5 000 - 7 500
 
-1.2 | náčelník hlavného štábu, veliteľ pozemného vojska, veliteľ letectva a protivzdušnej obrany, veliteľ logistiky, náčelník hlavnej správy vzdelávania, sociálnych a personálnych vecí veliteľstva Armády SR | 4 000 - 5 000
+1.2 | Zástupca náčelníka generálneho štábu | 5 000 - 6 000
 
-1.3 | náčelník správy, zástupca náčelníka hlavnej správy | 3 600 - 4 400
+1.3 | Zástupca náčelníka generálneho štábu pre operačné plánovanie, zástupca náčelníka generálneho štábu pre logistiku, náčelník štábu pozemného vojska, náčelník štábu letectva a protivzdušnej obrany | 4 000 - 5 000
 
-1.4 | zástupca náčelníka správy, náčelník oddelenia | 2 800 - 3 600
+1.4 | Zástupcovia vedúcich zamestnancov na 3. stupni riadenia, náčelník správy | 3 600 - 4 400
 
-1.5 | zástupca náčelníka oddelenia | 1 600 - 2 200
+1.5 | Zástupca náčelníka správy, náčelník oddelenia | 2 800 - 3 600
 
-1.6 | náčelník skupiny | 500 - 1 500
+1.6 | Zástupca náčelníka oddelenia | 1 600 - 2 200
 
-2. Ústredné vojenské úrady Armády Slovenskej republiky s celoštátnou pôsobnosťou, vyššie vojenské prokuratúry, vyššie vojenské súdy
+1.7 | Náčelník skupiny | 500 - 1 500
 
-Funkcia | | Príplatok za riadenie v Sk mesačne
+- 2. Úrady a zariadenia Ministerstva obrany Slovenskej republiky a Vyšší vojenský súd
 
-2.1 | náčelník vojenského úradu, riaditeľ inštitútu | 3 000 - 4 000
+| Funkcia | Príplatok za riadenie v Sk mesačne
 
-2.2 | zástupca náčelníka vojenského úradu, zástupca riaditeľa inštitútu | 2 400 - 3 400
+2.1 | Riaditeľ vojenského úradu | 3 000 - 4 000
 
-2.3 | náčelník oddelenia | 1 800 - 2 600
+2.2 | Zástupca riaditeľa vojenského úradu | 2 400 - 3 400
 
-2.4 | zástupca náčelníka oddelenia | 1 200 - 1 800
+2.3 | Náčelník oddelenia | 1 800 - 2 600
 
-2.5 | náčelník skupiny | 800 - 1 200
+2.4 | Zástupca náčelníka oddelenia | 1 200 - 1 800
 
-Príplatky za riadenie pre ďalšie riadiace funkcie ozbrojených síl ustanoví Ministerstvo obrany Slovenskej republiky a Ministerstvo vnútra Slovenskej republiky vo vnútornom predpise.
+2.5 | Náčelník skupiny | 800 - 1 200
+
+- 3. Príplatky za riadenie pre ďalšie riadiace funkcie ozbrojených síl ustanoví Ministerstvo obrany Slovenskej republiky a Ministerstvo vnútra Slovenskej republiky vo vnútornom predpise.
 
 DRUHÁ ČASŤ
 
 Colná správa
 
-1. Ústredná colná správa
+- 1. Ústredná colná správa
 
-Funkcia | | Príplatok za riadenie v Sk mesačne
+| Funkcia | Příplatek za riadenie v Sk mesačne
 
-1.1 | generálny riaditeľ | 4 000 - 6 000
+1.1 | Generálny riadltel' | 4 000 - 7 500
 
-1.2 | námestník generálneho riaditeľa | 2 000 - 4 000
+1.2 | Námestník generálneho riaditeľa | 2 000 - 5 000
 
-1.3 | riaditeľ odboru | 1 500 - 3 000
+1.3 | Riadlteľ odboru | 1 500 - 3 800
 
-1.4 | zástupca riaditeľa odboru | 1 000 - 2 500
+1.4 | Zástupca riadlteľa odboru | 1 000 - 2 900
 
-1.5 | vedúci oddelenia | 800 - 1 800
+1.5 | Vedúci oddelenia | 800 - 1 900
 
-1.6 | vedúci školiaceho strediska, vedúci referátu a zmeny prípravy dát | 300 - 1 200
+1.6 | Vedúcl školiaceho strediska, vedúcl referátu a zmeny prípravy dát | 300 - 1 500
 
-2. Územný orgán
+- 2. Územný orgán
 
-Funkcia | | Príplatok za riadenie v Sk mesačne
+| Funkcia | Príplatok za riadenie v Sk mesačne
 
-2.1 | riaditeľ colnice | 1 600 - 4 000
+2.1 | Riaditeľ colnice | 1 600 - 5 000
 
-2.2 | námestník riaditeľa colnice | 1 200 - 3 000
+2.2 | Námestník riaditeľa colnice | 1 200 - 3 800
 
-2.3 | vedúci colnej odbočky | 800 - 1 800
+2.3 | Vedúci colnej odbočky | 800 - 2 300
 
-2.4 | vedúci referátu colnice | 500 - 1 200
+2.4 | Vedúci oddelenia colnice | 500 - 1 500
 
-2.5 | vedúci odlúčeného pracoviska, vedúci stanice colnej stráže, vedúci zmeny, zástupca vedúceho stanice colnej stráže, zástupca vedúceho colnej odbočky | 300 - 1 200
+2.5 | Vedúci odlúčeného pracoviska, vedúci stanice colnej stráže, vedúci zmeny, zástupca vedúceho stanice colnej stráže, zástupca vedúceho colnej odbočky | 300 - 1 500
 
 [Príloha 05](../assets/90bcf8c294ac76efb6e87e4a29e6d34efbca792242d546ef8664c84eda458d88.pdf)
 
