@@ -1622,37 +1622,115 @@ Dodatok k č. 213/2002 Z. z.
 
     - Veľká Británia
 
-  - 1. pre Veľkú Britániu „Her Majesty's Principal Secretary of State for Foreign and Commonwealth Affairs, Foreign and Commonwealth Office“, London SW1
+  - 1. pre Veľkú Britániu:
 
-  - 2. pre závislé územia
+  - The Legalisation Office
 
-  - Anguilla | The Governor of Anguilla
+  - Foreign and Commonwealth Office
 
-  - Bermudy | The Governor and Commander-in-Chief of the Bermudas or Somers Islands
+  - The Old Admiralty Building
 
-  - Britské antarktické územie | The High Commissioner for the British Antarctic Territory
+  - The Mall
 
-  - Britské Panenské ostrovy | The Governor of the British Virgin Islands
+  - LONDON SW1A 2LG
 
-  - Kajmanské ostrovy | The Governor of the Cayman Islands
+  - tel.: +44(0)20 7008 1111
 
-  - Falklandy - Malvíny | The Governor of the Falkland Islands
+  - 2. pre iné územia:
 
-  - Gibraltár | The Governor and Commander-in-Chief of the City and Garrison of Gibraltar
+  - Anguilla Britské antarktické územie
 
-  - the Bailiwick of Guernsey | The Lieutenant Governor of the Bailiwick of Guernsey
+  - Government House Overseas Territories Department
 
-  - Isle of Man | The Lieutenant Governor of the Isle of Man
+  - Anguilla Foreign and Commonwealth Office
 
-  - the Bailiwick of Jersey | His Excellency the Lieutenant Governor of the Bailiwick of Jersey
+  - tel.: +1-264-497 2621/2622 King Charles Street
 
-  - Montserrat | The Governor of Montserrat
+  - LONDON SW1A 2AH
 
-  - Sv. Helena | The Governor and Commander-in-Chief of the Island of St. Helena and its Dependencies
+  - tel.: +44(0)20 7008 2890
 
-  - Ostrovy South Georgia a South Sandwich | The Commissioner for South Georgia and the South Sandwich Islands
+  - Britské Panenské ostrovy Kajmanské ostrovy
 
-  - Ostrovy Turks a Caicos | The Governor of the Turks and Caicos Islands
+  - Government House 4th floor Government Administration
+
+  - Road Town Building
+
+  - Tortola Elgin Avenue
+
+  - British Virgin Islands George Town
+
+  - tel.: +1-284-494 2345/494 Grand Cayman
+
+  - Cayman Islands
+
+  - tel.: +1-345-949 7900
+
+  - Falklandy – Malvíny Gibraltar
+
+  - Government House The Convent
+
+  - Stanley Main Street
+
+  - Falkland Islands Gibraltar
+
+  - tel.: +500 27433 tel.: +350 45440
+
+  - Guernsey Isle of Man
+
+  - The Legalisation Office Isle of Man Courts of Justice
+
+  - Greffe Deemsters Walk
+
+  - Royal Court House Bucks Road
+
+  - St Peter Port Douglas
+
+  - Guernsey Isle of Man
+
+  - GY1 2PB IM1 3AR
+
+  - tel.: +44(0)1481 725277 tel.: +44(0)1624 685265
+
+  - Jersey Montserrat
+
+  - The Legalisation Office Lancaster House
+
+  - Maritime House Olveston
+
+  - La Route du Port Elizabeth Montserrat
+
+  - St Helier tel.: +1-664-491 2688/9
+
+  - Jersey
+
+  - JE1 1JD
+
+  - tel.: +44(0)1534 838838
+
+  - Sv. Helena Ostrovy South Georgia
+
+  - The Castle a South Sandwich
+
+  - Jamestown Government House
+
+  - St Helena Island Stanley
+
+  - Sout Atlantic Ocean Falkland Islands
+
+  - tel.: +290 2555 tel.: +500 27433
+
+  - Ostrovy Turks a Caicos
+
+  - Waterloo
+
+  - Government House
+
+  - Grand Turk
+
+  - Turks and Caicos Islands
+
+  - tel.: +1-649-946 2309
 
     - Venezuela
 
