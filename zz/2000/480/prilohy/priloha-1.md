@@ -872,7 +872,7 @@ DOČASNÁ ÚPRAVA colnej sadzby a colnej kvóty na dovoz obilnín
 
 1003 00 90 | 200 000 | 0 | 30. 6. 2001
 
-1005 90 00 | 160 000 | 0 | 30. 9. 2001
+1005 90 00 | 180 000 | 0 | 30. 9. 2001
 
 Príloha č. 11 k nariadeniu vlády č. 480/2000 Z. z.
 
