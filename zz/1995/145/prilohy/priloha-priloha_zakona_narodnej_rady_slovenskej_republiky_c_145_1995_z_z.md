@@ -320,6 +320,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 5. rodičovi a jeho deťom do 18. roku veku, ktorí boli k 31.12.1992 štátnymi občanmi Českej a Slovenskej Federatívnej Republiky a majú trvalý pobyt na území Slovenskej republiky ......... | 500 Sk
 
+  - Oslobodenie Od poplatku podľa tejto položky písm. c) a d) bodov 3, 4 a 5 sú oslobodené osoby, ktoré poberajú dôchodok. |
+
     - Položka 21
 
   - a) Prepustenie zo štátneho zväzku Slovenskej republiky osoby nad 18 rokov veku .......... | 10 000 Sk
@@ -2285,6 +2287,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - h) Vydanie rozhodnutia o predĺžení registrácie homeopatického lieku ................................... | 4 000 Sk
 
   - i) Vydanie rozhodnutia o zmene registrácie homeopatického lieku ......................................... | 2 000 Sk
+
+  - j) vydanie rozhodnutia o zaradení alebo vyradení lieku zo zoznamu liekov ............................. | 1 000 Sk
+
+  - k) vydanie rozhodnutia o zaradení alebo vyradení zdravotníckej pomôcky zo zoznamu zdravotníckych pomôcok .................................................................................................................. | 1 000 Sk
 
     - Položka 153
 
