@@ -1,0 +1,17 @@
+Príloha č. 4 k vyhláške č. 482/2001 Z. z.
+
+- POPIS HYDROGEOLOGICKEJ ŠTRUKTÚRY PRÍRODNÝCH LIEČIVÝCH ZDROJOV V SMRDÁKOCH
+
+  - Ochranné pásma sú vymedzené na základe výsledkov hydrogeologického prieskumu a návrhu záverečnej správy vypracovanej J. Dzúrikom a kolektívom: Smrdáky, stanovenie podkladov pre ochranné pásma prírodných liečivých zdrojov, rok 1994.
+
+  - V oblasti Smrdákov sú vyčlenené dve samostatné hydrogeologické štruktúry. Prvá hydrogeologická štruktúra je klasifikovaná ako zatvorená so zakrytou výverovou oblasťou s minerálnou vodou nátrium-chloridového typu s obsahom jódu a brómu. Druhá hydrogeologická štruktúra je klasifikovaná ako polozatvorená s poloodkrytou až polozakrytou výverovou oblasťou s minerálnou vodou nátrium-chloridovo-hydrogenuhličitého typu s vysokým obsahom sírovodíka. Vzhľadom na charakter štruktúr sú vyčlenené len akumulačné oblasti, v ktorých sa formujú základné fyzikálno-chemické vlastnosti, a výverové oblasti. Obidve štruktúry sa nachádzajú tesne vedľa seba, ale sú odizolované farskými a smrdáckymi zlomami. Komunikácia minerálnych vôd oboch štruktúr je minimálna.
+
+  - Formovanie a obeh minerálnych vôd prvej hydrogeologickej štruktúry sa uskutočňujú v bazálnych klastikách egenburg-otnangu. Formovanie a obeh minerálnych vôd druhej hydrogeologickej štruktúry sa uskutočňuje v karbonátoch vrchného triasu mezozoických príkrovov, porušených karbonátoch bradlového pásma a v bazálnych klastikách spodného miocénu. Významný vplyv na obeh a tvorbu minerálnych vôd má tektonická stavba územia, pretože zlomy tu vytvorili kryhovú stavbu. Významné zlomové systémy sú: farský východozápadného smeru, koválovský severovýchodno-juhozápadného smeru, štefanovský východoseverovýchodno-západojuhozápadného smeru, smrdácky východoseverovýchodno-západojuhozápadného smeru a protiklonný zlomový systém západovýchodného smeru.
+
+  - Hydrogeologické štruktúry nemajú infiltračné oblasti.
+
+  - Akumulačnú oblasť minerálnych vôd prvej hydrogeologickej štruktúry tvoria bazálne zlepence egenburg-otnangu uzavreté v nepriepustnom nadloží i podloží. Akumulačná oblasť druhej hydrogeologickej štruktúry je zložitejšia, podieľajú sa na nej triasové karbonáty mezozoických príkrovov, bradla a bazálnych zlepencov spodného miocénu. Obidve akumulačné oblasti majú veľké horizontálne rozšírenie vo východnej časti viedenskej panvy a obsahujú len statické zásoby minerálnych vôd.
+
+  - Prvá hydrogeologická štruktúra nemá prirodzenú výverovú oblasť, je tektonicky horizontálne ohraničená zlomovými líniami a vertikálne uzavretá nadložnými ílovitými sedimentmi neogénu. Exploatácia minerálnych vôd je možná len hydrogeologickými vrtmi v akumulačnej oblasti. Vo výverovej oblasti druhej hydrogeologickej štruktúry nevystupujú kolektory na povrch, ale sú prekryté izolátormi a vývery vystupujú po priepustných štefanovských zlomoch. V mieste výstupu cez neogénne sedimenty dochádza k miešaniu minerálnych vôd s vadóznymi vodami, ktoré predstavujú dynamické zásoby. Minerálne vody sa môžu využívať pomocou hydrogeologických vrtov vo výverovej i akumulačnej oblasti.
+
+  - V oblasti Smrdákov sa nachádza prírodné anorganické bahno akumulované v pleistocén-holocéne za prínosu organickej hmoty. Po obidvoch stranách povrchových tokov vytvára bahno akumulácie misovitých tvarov s premenlivou mocnosťou do 10 m. Prírodné anorganické bahno je dobrým východiskovým materiálom na ďalšie balneotechnické spracovanie v prírodných alebo umelých zrecích bazénoch. Akumulácie peloidu boli stanovené v celkovom objeme 1,5 mil. m<sup>3</sup>.
