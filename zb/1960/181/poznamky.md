@@ -1,1 +1,0 @@
-- *) T. j. 30 % priemerného nákladu na byt včítane projektu a pozemku, plánovaného v štátnej výstavbe v r. 1961.
