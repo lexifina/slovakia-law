@@ -1,1 +1,0 @@
-- 1) Zákon Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
