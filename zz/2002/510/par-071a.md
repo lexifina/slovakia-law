@@ -4,4 +4,4 @@
 
 # § 71a
 
-Týmto zákonom sa preberajú do právneho poriadku Slovenskej republiky právne akty uvedené v prílohe k tomuto zákonu.
+Týmto zákonom sa preberajú právne akty Európskych spoločenstiev a Európskej únie uvedené v prílohe.
