@@ -2,4 +2,4 @@ Príloha č. 2 k zákonu Slovenskej národnej rady č. 100/1977 Zb. v znení nes
 
 Územná pôsobnosť lesných úradov podľa lesných hospodárskych celkov
 
-[Príloha 02](../assets/e52ed0811878d9969bc348baed22aeed6dc0975bb03a80a942d9210559ca97a8.pdf)
+[Príloha 02](../assets/854262fcc336fc66c4c83af7430cc566c664cc6623084c997fb6e9eb63380c89.pdf)
