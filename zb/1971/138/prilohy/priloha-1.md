@@ -20,7 +20,7 @@
 
 - - vydanie odpisu alebo výpisu z úradných kníh, úradných záznamov, registrov, listín a spisov alebo zo súkromných spisov v úradnej úschove, s výnimkou potvrdenia o nedoplatkoch na daniach a poplatkoch, prípadne o tom, že žiadateľ nedlhuje dane a poplatky za každú aj len začatú stranu | Kčs | 5,-
 
-- Poznámky: 1. Ak sa úradné potvrdenie alebo písomná správa vydáva pre viac osôb jedným opatrením, vyberie sa poplatok Kčs 5,- za potvrdenie alebo oznámenie adresy každej osoby. 2. Od poplatku za vydanie písomnej správy o pobyte osôb sú oslobodené: a) pošty, b) Živnostenská banka, c) Štátna poisťovňa pri úkonoch spojených s vyberaním a vymáhaním dane z motorových vozidiel. 3. Prvá kópia rodného, sobášneho, úmrtného listu (napr. úplný výpis z matriky) nepodlieha poplatku, pokiaľ nie je v ďalších položkách alebo predpisoch ustanovené inak. 4. Za odpisy, výpisy, osvedčenia vyhotovené z archívneho materiálu štátnych a ostatných archívov starších než 25 rokov sa vyberá poplatok podľa obťažnosti úkonu za každú aj len začatú stranu odpisu, výpisu alebo osvedčenia vo výške dvoj- až päťnásobku sadzby podľa tejto položky. 5. Za písomné informácie z archívneho materiálu štátnych a ostatných archívov sa vyberá poplatok podľa obťažnosti úkonu za každú aj len začatú stranu písomnej informácie vo výške dvoj- až desaťnásobku sadzby poplatku podľa tejto položky. 6. Za preklady z archívneho materiálu štátnych a ostatných archívov sa vyberá poplatok podľa položky 72. 7. Za vydanie kópie osvedčenia o zápise ochrannej značky alebo chráneného vzoru, výpisu alebo potvrdenia z registra ochranných značiek alebo z registra chránených vzorov sa vyberá poplatok 40,- Kčs. 8. Za vydanie druhej, tretej a každej ďalšej kópie vybavenia, výpisu, odpisu alebo úradných potvrdení z kníh, úradných záznamov, registrov, listín a spisov alebo zo súkromných spisov o úradnej úschove, vydávanej Úradom pre patenty a vynálezy, sa vyberie poplatok vo výške desaťnásobku základnej sadzby. 9. Za odpisy vyhotovované čs. zastupiteľskými úradmi sa vyberá poplatok podľa položky 71. 10. Za cudzojazyčné potvrdenie o pravosti destilátu sa vyberie poplatok vo výške dvojnásobku. 11. Za vydanie potvrdenia o registrácii cestovného dokladu sa vyberie poplatok vo výške Kčs 1,- až 5,-. Tento poplatok vyberajú správne orgány v hotovosti. 12. Za vydanie potvrdenia v zmysle tejto položky sa nepovažuje a poplatok sa nevyberie, ak ide o vydanie osvedčenia skutočností, ktoré nie sú predmetom správneho konania. Poplatok sa ďalej nevyberie za oznámenie skutočností uvedených v matrikách zasielané na dožiadanie cirkevnej správe. | |
+- Poznámky: 1. Ak sa úradné potvrdenie alebo písomná správa vydáva pre viac osôb jedným opatrením, vyberie sa poplatok Kčs 5,- za potvrdenie alebo oznámenie adresy každej osoby. 2. Od poplatku za vydanie písomnej správy o pobyte osôb sú oslobodené: a) pošty, b) Živnostenská banka, c) Štátna poisťovňa pri úkonoch spojených s vyberaním a vymáhaním dane z motorových vozidiel. 3. Prvá kópia rodného, sobášneho, úmrtného listu (napr. úplný výpis z matriky) nepodlieha poplatku, pokiaľ nie je v ďalších položkách alebo predpisoch ustanovené inak. 4. Za odpisy, výpisy, osvedčenia vyhotovené z archívneho materiálu štátnych a ostatných archívov starších než 25 rokov sa vyberá poplatok podľa obťažnosti úkonu za každú aj len začatú stranu odpisu, výpisu alebo osvedčenia vo výške dvoj- až päťnásobku sadzby podľa tejto položky. 5. Za písomné informácie z archívneho materiálu štátnych a ostatných archívov sa vyberá poplatok podľa obťažnosti úkonu za každú aj len začatú stranu písomnej informácie vo výške dvoj- až desaťnásobku sadzby poplatku podľa tejto položky. 6. Za preklady z archívneho materiálu štátnych a ostatných archívov sa vyberá poplatok podľa položky 72. 7. Za vydanie kópie osvedčenia o zápise ochrannej značky alebo priemyselného vzoru, výpisu alebo potvrdenia z registra ochranných značiek alebo z registra priemyselných vzorov sa vyberá poplatok 40,- Kčs. 8. Za vydanie druhej, tretej a každej ďalšej kópie vybavenia, výpisu, odpisu alebo úradných potvrdení z kníh, úradných záznamov, registrov, listín a spisov alebo zo súkromných spisov o úradnej úschove, vydávanej Úradom pre vynálezy a objavy, sa vyberie poplatok vo výške desaťnásobku základnej sadzby. 9. Za odpisy vyhotovované čs. zastupiteľskými úradmi sa vyberá poplatok podľa položky 71. 10. Za cudzojazyčné potvrdenie o pravosti destilátu sa vyberie poplatok vo výške dvojnásobku. 11. Za vydanie potvrdenia o registrácii cestovného dokladu sa vyberie poplatok vo výške Kčs 1,- až 5,-. Tento poplatok vyberajú správne orgány v hotovosti. 12. Za vydanie potvrdenia v zmysle tejto položky sa nepovažuje a poplatok sa nevyberie, ak ide o vydanie osvedčenia skutočností, ktoré nie sú predmetom správneho konania. Poplatok sa ďalej nevyberie za oznámenie skutočností uvedených v matrikách zasielané na dožiadanie cirkevnej správe. 13. Poplatok sa nevyberie za úkony uvedené v tejto položky vykonávané Úradom pre vynálezy a objavy, pokiaľ o ne žiada autor vynálezu (priemyselného vzoru) alebo jeho dedič a pokiaľ sa týkajú jeho prihlášok vynálezov (priemyselných vzorov) so žiadosťou o udelenie autorského osvedčenia (osvedčenia) alebo jemu udelených autorských osvedčení (osvedčení). | |
 
   - Položka 2:
 
@@ -28,13 +28,13 @@
 
 - | až | 20,-
 
-- Poznámka: Správny poplatok podľa tejto položky sa nevyberie, ak sa úkony robia v rámci vedeckých stykov so zahraničím za predpokladu, že je zaručená vzájomnosť. | |
+- Poznámka: 1. Správny poplatok podľa tejto položky sa nevyberie, ak sa úkony robia v rámci vedeckých stykov so zahraničím za predpokladu, že je zaručená vzájomnosť. 2. Poznámka 13 k položke 1 tu platí obdobne. | |
 
   - Položka 3:
 
 - Vydanie dokladu (preukazu) ako náhrady za stratený, zničený alebo neupotrebiteľný doklad (preukaz) | Kčs | 10,-
 
-- Poznámky: 1. Poplatok sa vyberie, aj keď sa za vydanie pôvodného dokladu (preukazu) poplatok nevyberá. 2. Za vydanie rodného, sobášneho a úmrtného listu ako náhrady za stratený doklad sa vyberie poplatok podľa položky 1 (úplný výpis z matrík). 3. Správny orgán môže: a) znížiť poplatok až na pätinu; b) zvýšiť až na desaťnásobok sadzby, ak ide o opätovné vydanie dokladu (preukazu) ako náhrady za stratený, zničený alebo neupotrebiteľný doklad (preukaz). 4. Za vydanie cestovného dokladu ako náhrady za stratený, zničený alebo neupotrebiteľný doklad môže správny orgán vybrať poplatok až do päťdesiatnásobku sadzby. | |
+- Poznámky: 1. Poplatok sa vyberie, aj keď sa za vydanie pôvodného dokladu (preukazu) poplatok nevyberá. 2. Za vydanie rodného, sobášneho a úmrtného listu ako náhrady za stratený doklad sa vyberie poplatok podľa položky 1 (úplný výpis z matrík). 3. Správny orgán môže: a) znížiť poplatok až na pätinu; b) zvýšiť až na desaťnásobok sadzby, ak ide o opätovné vydanie dokladu (preukazu) ako náhrady za stratený, zničený alebo neupotrebiteľný doklad (preukaz). 4. Za vydanie cestovného dokladu ako náhrady za stratený, zničený alebo neupotrebiteľný doklad môže správny orgán vybrať poplatok až do päťdesiatnásobku sadzby. 5. Poznámka 13 k položke 1 tu platí obdobne. | |
 
   - Položka 4:
 
@@ -62,7 +62,7 @@
 
 - | Kčs | 3 000,-
 
-- Poznámky: 1. Za odborný posudok k žiadosti o vývoz kultúrnych pamiatok sa poplatok zvyšuje o jednu pätinu. 2. Za znalecký alebo odborný posudok pri posudzovaní projektov technických zariadení, parných kotlov, tlakových nádob, zdvíhadiel a silnoprúdových elektrických zariadení sa vyberá základný poplatok 300 Kčs, za každú druhú aj ďalšiu začatú hodinu 25 Kčs, najviac však 3 000 Kčs. 3. Ak na vydanie odborného posudku bolo potrebné miestne (komisionálne) konanie, poplatok za odborný posudok sa úmerne zvýši v rámci určeného rozpätia a poplatok za vykonanie miestneho vyšetrenia sa nevyberie. | |
+- Poznámky: 1. Za odborný posudok k žiadosti o vývoz kultúrnych pamiatok sa poplatok zvyšuje o jednu pätinu. 2. Za znalecký alebo odborný posudok pri posudzovaní projektov technických zariadení, parných kotlov, tlakových nádob, zdvíhadiel a silnoprúdových elektrických zariadení sa vyberá základný poplatok 300 Kčs, za každú druhú aj ďalšiu začatú hodinu 25 Kčs, najviac však 3 000 Kčs. 3. Ak na vydanie odborného posudku bolo potrebné miestne (komisionálne) konanie, poplatok za odborný posudok sa úmerne zvýši v rámci určeného rozpätia a poplatok za vykonanie miestneho vyšetrenia sa nevyberie. 4. Poznámka 13 k položke 1 tu platí obdobne. | |
 
   - Položka 7:
 
@@ -70,13 +70,13 @@
 
 - | až | 250,-
 
-- Poznámky: 1. Poplatok podľa tejto položky sa nevyberie, ak sa komisionálne konanie vykonáva za účelom vydania rozhodnutia spoplatneného podľa položky 26 a 27, ak nie je ďalej ustanovené inak (pol. 26 pozn. 11). 2. Poplatok sa nevyberie, ak sa miestne vyšetrenie koná vo všeobecnom záujme (napr. pri živelných pohromách a nehodách) alebo ak miestne vyšetrenie nariadil bez návrhu účastníkov konania správny orgán alebo súd. 3. Za miestne vyšetrenie konané z podnetu účastníka konania sa v zmysle tejto položky považuje aj také, ktoré vykonal správny orgán za účelom vybavenia podania, hoci účastník konania výslovne oň vo svojom podaní nežiadal. | |
+- Poznámky: 1. Poplatok podľa tejto položky sa nevyberie, ak sa komisionálne konanie vykonáva za účelom vydania rozhodnutia spoplatneného podľa položky 26 a 27, ak nie je ďalej ustanovené inak (pol. 26 pozn. 11). 2. Poplatok sa nevyberie, ak sa miestne vyšetrenie koná vo všeobecnom záujme (napr. pri živelných pohromách a nehodách) alebo ak miestne vyšetrenie nariadil bez návrhu účastníkov konania správny orgán alebo súd. 3. Za miestne vyšetrenie konané z podnetu účastníka konania sa v zmysle tejto položky považuje aj také, ktoré vykonal správny orgán za účelom vybavenia podania, hoci účastník konania výslovne oň vo svojom podaní nežiadal. 4. Poznámka 13 k položke 1 tu platí obdobne. | |
 
   - Položka 8:
 
 - Podanie žiadosti na orgánoch štátnej správy | Kčs | 5,-
 
-- Poznámky: 1. Poplatok sa nevyberie za žiadosti o vykonanie úkonov, ak sa za žiadaný úkon vyberá poplatok podľa ostatných položiek tohto sadzobníka, s výnimkou žiadosti o vycestovacie povolenie do cudziny, kde sa vyberie aj poplatok podľa tejto položky vo výške dvojnásobku až desaťnásobku sadzby. 2. Poplatok sa taktiež nevyberie za žiadosti: - o priznanie štipendia a o prijatie na rôzne druhy štúdia; - o príspevok z Fondu na zmiernenie nepoistiteľných škôd v rastlinnej výrobe; - vo veci škôd vzniknutých živelnou pohromou; - vo veci povolenia spopolniť zomretých a povolenia prepravy mŕtvych a ostatkov; - duchovných o súhlas na nakladanie s cirkevným majetkom, o náhradu cestovných a sťahovacích výdavkov a zastupovania; - o oznámenie informácie alebo výkladu právneho predpisu. 3. Za žiadosti sa považujú aj podania - s výnimkou sťažností, oznámení a podnetov pracujúcich*) - ak sa má podľa ich obsahu vydať rozhodnutie, ktoré sleduje majetkový prospech účastníka konania. 4. Za žiadosti o obnovu konania a za preskúmanie rozhodnutia v mimoodvolávacom konaní sa vyberie poplatok vo výške štvornásobku. 5. Za žiadosti o zrušenie práva užívať byt alebo časti bytu (v zmysle § 37 zák. č. 41/1964 Zb.) v prospech vlastníka rodinného domčeka alebo užívateľa bytu sa vyberá poplatok vo výške dvanásťnásobku. Ustanovenie sa použije obdobne pri žiadostiach o uvoľnenie nebytových priestorov v prospech vlastníka alebo užívateľa rodinného domčeka. 6. Za žiadosti o súhlas užívať byt alebo jeho časť na iné účely než bytové sa vyberie poplatok vo výške desaťnásobku sadzby. 7. Za podanie žiadosti na Úrad pre patenty a vynálezy sa vyberie poplatok vo výške desaťnásobku. 8. Za žiadosti o vydanie urýchleného (do 96 hodín) vycestovacieho povolenia do cudziny na služobnú cestu môže správny orgán vybrať poplatok až do semdesiatnásobku sadzby. | |
+- Poznámky: 1. Poplatok sa nevyberie za žiadosti o vykonanie úkonov, ak sa za žiadaný úkon vyberá poplatok podľa ostatných položiek tohto sadzobníka, s výnimkou žiadosti o vycestovacie povolenie do cudziny, kde sa vyberie aj poplatok podľa tejto položky vo výške dvojnásobku až desaťnásobku sadzby. 2. Poplatok sa taktiež nevyberie za žiadosti: - o priznanie štipendia a o prijatie na rôzne druhy štúdia; - o príspevok z Fondu na zmiernenie nepoistiteľných škôd v rastlinnej výrobe; - vo veci škôd vzniknutých živelnou pohromou; - vo veci povolenia spopolniť zomretých a povolenia prepravy mŕtvych a ostatkov; - duchovných o súhlas na nakladanie s cirkevným majetkom, o náhradu cestovných a sťahovacích výdavkov a zastupovania; - o oznámenie informácie alebo výkladu právneho predpisu. 3. Za žiadosti sa považujú aj podania - s výnimkou sťažností, oznámení a podnetov pracujúcich*) - ak sa má podľa ich obsahu vydať rozhodnutie, ktoré sleduje majetkový prospech účastníka konania. 4. Za žiadosti o obnovu konania a za preskúmanie rozhodnutia v mimoodvolávacom konaní sa vyberie poplatok vo výške štvornásobku. 5. Za žiadosti o zrušenie práva užívať byt alebo časti bytu (v zmysle § 37 zák. č. 41/1964 Zb.) v prospech vlastníka rodinného domčeka alebo užívateľa bytu sa vyberá poplatok vo výške dvanásťnásobku. Ustanovenie sa použije obdobne pri žiadostiach o uvoľnenie nebytových priestorov v prospech vlastníka alebo užívateľa rodinného domčeka. 6. Za žiadosti o súhlas užívať byt alebo jeho časť na iné účely než bytové sa vyberie poplatok vo výške desaťnásobku sadzby. 7. Za podanie žiadosti na Úrad pre vynálezy a objavy sa vyberie poplatok vo výške desaťnásobku. Poplatok sa nevyberie za žiadosti podané na Úrade pre vynálezy a objavy, pokiaľ ich podáva autor vynálezu (priemyselného vzoru) alebo jeho dedič a pokiaľ sa podávajú vo veci ich prihlášok vynálezov (priemyselných vzorov) so žiadosťou o udelenie autorských osvedčení (osvedčení) alebo im udelených autorských osvedčení (osvedčení). 8. Za žiadosti o vydanie urýchleného (do 96 hodín) vycestovacieho povolenia do cudziny na služobnú cestu môže správny orgán vybrať poplatok až do semdesiatnásobku sadzby. | |
 
   - Položka 9:
 
@@ -238,7 +238,7 @@
 
 - nad 100 mil. Kčs | Kčs | 5 000,-
 
-- Poznámky: 1. Stavbou podľa tejto položky sa rozumie stavba a stavebné práce uvedené v § 1 vyhlášky č. 144/1959 Ú. l. (Ú. v.) s výnimkou stavieb, ktorých povoľovanie je upravené osobitnými predpismi o telekomunikáciách, vodnom hospodárstve, letectve, dráhach a pozemných komunikáciách. Ďalej sa poplatok nevyberie pri vydaní rozhodnutia o prípustnosti stavby sadových úprav, ihrísk a športovísk. 2. Poplatkom podľa tejto položky je kryté tak vydanie rozhodnutia o prípustnosti stavby, ako aj povolenie na trvalé užívanie (na trvalú prevádzku) stavby, prípadne povolenie výnimky zo stavebných obmedzení v ochranných pásmach. Ak ide o dodatočné vydanie uvedených povolení na stavbu, ktorá nebola vopred riadne povolená, prípadne bola postavená v zásadnom rozpore so schváleným projektom, správny orgán môže vyrubiť poplatok až do päťdesiatnásobku sadzby. 3. Ak bytová jednotka plní doplnkovú funkciu nebytového objektu, vyrubí sa poplatok sadzbou podľa písmena c). Ako nebytová výstavba sa posudzujú aj objekty hotelových zariadení a objekty kolektívnej rekreácie. 4. Rozpočtovým nákladom podľa písmena d) sa rozumie rozpočet, ktorý je súčasťou súhrnného projektového riešenia (§ 13, 19 vyhlášky č. 107/1966 Zb.). 5. Pri drobných prístavbách, nadstavbách a iných stavebných úpravách [vyhláška č. 144/1959 Ú. l. (Ú. v.), ktorou sa vykonáva zákon o stavebnom poriadku], napr. zriadení priečok, dverných otvorov, môže správny orgán znížiť poplatok až na štvrtinu sadzby. 6. Za vydanie rozhodnutia o prípustnosti stavby rodinného domčeka v obciach, ktoré neboli vybrané na sústreďovanie výstavby, môže správny orgán zvýšiť poplatok až na päťdesiatnásobok sadzby. Odbor výstavby KNV pri pochybnostiach určí, či ide o obec určenú na sústreďovanie výstavby. 7. Za vydanie rozhodnutia o prípustnosti stavby na individuálnu rekreáciu (rekreačné domčeky, chaty, altány a pod. včítane povolenia prístavieb a iných úprav týchto objektov - napr. zriadenie garáží a pod.) môže správny orgán zvýšiť poplatok až na dvadsaťpäťnásobok sadzby, ak sa vydáva povolenie na objekty individuálnej rekreácie mimo oblasti určenej na rekreačnú výstavbu. 8. Za vydanie rozhodnutia o prípustnosti nebytovej výstavby, ak sú stavebníkmi občania, môže správny orgán s prihliadnutím na rozsah povoľovanej stavby zvýšiť poplatok do výšky trojnásobku sadzby. 9. Pri výstavbe súvislých garáží sa vyberie poplatok Kčs 200,- za každú garáž bez ohľadu na počet stavebníkov. 10. Od poplatku sú oslobodené bytové družstvá a okresné výstavbové družstvá, pokiaľ ide o stavby uvedené pod písmenom a). 11. Za miestne vyšetrenie vo veci výstavby budov sa poplatok nevyberá s výnimkou výstavby, pri ktorej sa vydáva povolenie dodatočne, a rodinných domčekov postavených mimo sústredenej výstavby a objektov individuálnej rekreácie. | |
+- Poznámky: 1. Stavbou podľa tejto položky sa rozumie stavba a stavebné práce uvedené v § 1 vyhlášky č. 144/1959 Ú. l. (Ú. v.) s výnimkou stavieb, ktorých povoľovanie je upravené osobitnými predpismi o telekomunikáciách, vodnom hospodárstve, letectve, dráhach a pozemných komunikáciách. Ďalej sa poplatok nevyberie pri vydaní rozhodnutia o prípustnosti stavby sadových úprav, ihrísk a športovísk. 2. Poplatkom podľa tejto položky je kryté tak vydanie rozhodnutia o prípustnosti stavby, ako aj povolenie na trvalé užívanie (na trvalú prevádzku) stavby, prípadne povolenie výnimky zo stavebných obmedzení v ochranných pásmach. Ak ide o dodatočné vydanie uvedených povolení na stavbu, ktorá nebola vopred riadne povolená, prípadne bola postavená v zásadnom rozpore so schváleným projektom, správny orgán môže vyrubiť poplatok až do päťdesiatnásobku sadzby. 3. Ak bytová jednotka plní doplnkovú funkciu nebytového objektu, vyrubí sa poplatok sadzbou podľa písmena c). Ako nebytová výstavba sa posudzujú aj objekty hotelových zariadení a objekty kolektívnej rekreácie. 4. Rozpočtovým nákladom podľa písmena d) sa rozumie rozpočet, ktorý je súčasťou súhrnného projektového riešenia (§ 13, 19 vyhlášky č. 107/1966 Zb.). 5. Pri drobných prístavbách, nadstavbách a iných stavebných úpravách [vyhláška č. 144/1959 Ú. l. (Ú. v.), ktorou sa vykonáva zákon o stavebnom poriadku], napr. zriadení priečok, dverných otvorov, môže správny orgán znížiť poplatok až na štvrtinu sadzby. 6. Za vydanie rozhodnutia o prípustnosti stavby rodinného domčeka v obciach, ktoré neboli vybrané na sústreďovanie výstavby, môže správny orgán zvýšiť poplatok až na päťdesiatnásobok sadzby. Odbor výstavby KNV pri pochybnostiach určí, či ide o obec určenú na sústreďovanie výstavby. 7. Za vydanie rozhodnutia o prípustnosti stavby na individuálnu rekreáciu (rekreačné domčeky, chaty, altány a pod. včítane povolenia prístavieb a iných úprav týchto objektov - napr. zriadenie garáží a pod.) môže správny orgán zvýšiť poplatok až na dvadsaťpäťnásobok sadzby, ak sa vydáva povolenie na objekty individuálnej rekreácie mimo oblasti určenej na rekreačnú výstavbu. 8. Za vydanie rozhodnutia o prípustnosti nebytovej výstavby, ak sú stavebníkmi občania, môže správny orgán s prihliadnutím na rozsah povoľovanej stavby zvýšiť poplatok do výšky trojnásobku sadzby. 9. Za vydanie rozhodnutia o prípustnosti stavby garáže a za vydanie povolenia na trvalé užívanie stavby garáže sa vyberie vždy poplatok podľa písmena c) bez ohľadu na to, či stavebníkmi sú občania alebo organizácia. Pri výstavbe súvislých garáží sa vyberie poplatok 200,- Kčs za každú garáž bez ohľadu na počet stavebníkov. 10. Od poplatku sú oslobodené bytové družstvá a okresné výstavbové družstvá, pokiaľ ide o stavby uvedené pod písmenom a). 11. Za miestne vyšetrenie vo veci výstavby budov sa poplatok nevyberá s výnimkou výstavby, pri ktorej sa vydáva povolenie dodatočne, a rodinných domčekov postavených mimo sústredenej výstavby a objektov individuálnej rekreácie. | |
 
   - Položka 27:
 
@@ -720,25 +720,27 @@
 
       - 3. Poplatky podľa tohto oddielu sa platia v hotovosti alebo prevodom z účtu v peňažnom ústave.
 
+        - Spoločná poznámka pre položky 75 až 81:
+
+        - Poplatky podľa tohto oddielu sa platia v hotovosti alebo prevodom z účtu na peňažnom ústave.
+
   - Položka 75:
 
-- Konanie | |
+- a) za podanie prihlášky, v ktorej sa žiada o udelenie patentu | Kčs | 500,-
 
-- a) o prihláške vynálezu | Kčs | 500,-
+- b) za žiadosť o navrátenie lehoty | Kčs | 200,-
 
-- b) o žiadosti o navrátenie lehoty | Kčs | 200,-
-
-- c) o žiadosti o odklad vyloženia prihlášky vynálezu | |
+- c) za žiadosť o odklad zverejnenia prihlášky | |
 
 - - za prvé tri mesiace odkladu | Kčs | 100,-
 
 - - za každý ďalší mesiac odkladu | Kčs | 50,-
 
-- d) o žiadosti o zápis zmluvy o využití vynálezu alebo zmluvy o prevode práva udeliť súhlas na využitie vynálezu | Kčs | 300,-
+- d) za zápis licencie na patent a prevodu patentu do registra | Kčs | 300,-
 
-- e) o žiadosti o určenie, či sa porušuje alebo neporušuje patent uvedený v žiadosti | Kčs | 2 000,-
+- e) ta žiadosť o určenie, či vyriešenie technického problému spadá do rozsahu určitého autorského osvedčenia alebo patentu | Kčs | 2 000,-
 
-- Poznámka: Od poplatku je oslobodené konanie o prihláške vynálezu, ktorý bol odovzdaný štátu súčasne s prihláškou. | |
+- Poznámka: Poplatok podľa písmena b) a e) sa nevyberie, ak žiadosť vo veci jemu udeleného autorského osvedčenia podáva autor alebo jeho dedič. | |
 
   - Položka 76:
 
@@ -748,7 +750,21 @@
 
 - b) za tretie a ďalšie predĺženie | Kčs | 100,-
 
+- Poznámka k položke 75 tu platí obdobne. | |
+
   - Položka 77:
+
+- Zverejnenie prihlášky | Kčs | 300,-
+
+- Poznámka: Poplatok sa platí na výzvu správneho orgánu pred zverejnením prihlášky vynálezu a v lehote určenej správnym orgánom. | |
+
+  - Položka 78:
+
+- Tlač opisu vynálezu k patentu | Kčs | 1 000,-
+
+- Poznámka k položke 77 tu platí obdobne. | |
+
+  - Položka 79:
 
 - Za patent na vynález | |
 
@@ -758,91 +774,97 @@
 
 - c) za deviaty rok | Kčs | 800,-
 
-- d) za desiaty a každý ďalší rok sa poplatok uvedený pod písmenom c) zvyšuje ročne vždy o | Kčs | 200,-
+- d) za desiaty a každý ďalší rok sa poplatok uvedený sub c) zvyšuje ročne vždy o | Kčs | 200,-
 
-- Poznámky: 1. Poplatok za prvých päť rokov platnosti patentu je zročný vopred, najneskôr do šiestich mesiacov po dni, keď rozhodnutie o udelení patentu nadobudne právoplatnosť. Poplatok za ďalšie tri roky je zročný najneskôr pred uplynutím piateho roku platnosti patentu. Poplatky za deviaty a každý ďalší rok sú zročné vždy pred uplynutím predchádzajúceho roku platnosti patentu. 2. Ak nebude poplatok zaplatený v lehotách uvedených v poznámke 1, možno ho zaplatiť ešte v ďalšej lehote šiestich mesiacov; v týchto prípadoch sa však poplatok zvyšuje na dvojnásobok. Pri nezaplatení poplatku ani v tejto predĺženej lehote patent zanikne [§ 4 ods. 3 b) zákona č. 34/1957 Zb.]. | |
-
-  - Položka 78:
-
-- Zverejnenie a vyloženie prihlášky vynálezu | Kčs | 300,-
-
-- Poznámka: Poplatok sa platí na výzvu správneho orgánu pred zverejnením a vyložením prihlášky vynálezu a v lehote určenej správnym orgánom. Pri nezaplatení môže správny orgán zastaviť konanie o prihláške (§ 13 zákona č. 34/1957 Zb.). | |
-
-  - Položka 79:
-
-- Tlač patentného spisu | Kčs | 1 000,-
-
-- Poznámka: k položke 78 tu platí obdobne. | |
+- Poznámky:*) 1. a) Poplatok za prvých päť rokov platnosti patentu je zročný vopred, najneskôr do šiestich mesiacov po dni, keď rozhodnutie o udelení patentu andobudne právoplatnosť, b) poplatok za ďalšie tri roky je zročný pred uplynutím piateho roka platnosti patentu, c) poplatky za deviaty a každý ďalší rok sú zročné vždy pred uplynutím predchádzajúceho roka platnosti patentu. 2. Ak lehoty uvedené v poznámke 1 pod písmenom b) a c) uplynuli predo dňom, keď rozhodnutie o udelení patentu nadobudlo právoplatnosť, sú poplatky v uvedených prípadoch zročné v lehote určenej v poznámke 1 písm. a). 3. Ak sa poplatok nezaplatí v lehotách uvedených v poznámkach 1 a 2, možno ho zaplatiť ešte v ďalšej lehote šiestich mesiacov; v týchto prípadoch sa však poplatok zvyšuje na dvojnásobok.*) | |
 
   - Položka 80:
 
 - Vydanie osvedčenia o práve prednosti (prioritný doklad) | Kčs | 200,-
 
+- Poznámka k položke 75 tu platí obdobne. | |
+
   - Položka 81:
 
-- Konanie o návrhu na zrušenie patentu a o žiadosti o vyznačenie závislosti patentu | Kčs až | 20,- 2 000,-
+- Konanie o návrhu na zrušenie autorského osvedčenia alebo patentu a o žiadosti za vyznačenie závilosti autorského osvedčenia alebo patentu | Kčs 20,- | až 2 000,-
 
-  - B. Ochranné značky, chránené vzory a označenia pôvodu
+- Poznámka k položke 75 tu platí obdobne. | |
+
+  - B. Ochranné značky, priemyselné vzory a označenia pôvodu**)
 
   - Položka 82:
 
-- Konanie | |
-
-- a) o prihláške aj so zápisom do registra | |
+- a) za podanie prihlášky (včítane prípadného zápisu do registra) | |
 
 - - ochrannej značky | Kčs | 400,-
 
-- - chráneného vzoru | Kčs | 200,-
+- - priemyselného vzoru so žiadosťou o udelenie patentu | Kčs | 200,-
 
-- - označenia pôvodu | Kčs | 600,-
+- - označenie pôvodu | Kčs | 600,-
 
-- b) o žiadosti o zápis spoluužívateľa označenia pôvodu | Kčs | 400,-
+- b) za žiadosť o zápis ďalšieho užívateľa označenia pôvodu | Kčs | 400,-
 
-- c) o žiadosti | |
+- c) za žiadosť | |
 
 - - o obnovu zápisu ochrannej značky | |
 
-- - o rozšírenie zoznamu výrobkov alebo služieb ochrannej značky | |
+- - o rozšírenie zoznamu výrobkov alebo služieb ochrannej značky | Kčs | 400,-
 
-- - o rozšírenie zoznamu výrobkov označenia pôvodu | Kčs | 400,-
+- d) za žiadosť o zápis prevodu alebo súhlasu na prevod ochrannej značky, licencie a prevodu patentu do registra | Kčs | 100,-
 
-- d) o žiadosti o zápis prevodu alebo súhlasu na prevod ochrannej značky, chráneného vzoru alebo o zápis práva používania (licencia) chráneného vzoru | Kčs | 100,-
-
-- e) o návrhu na výmaz | |
+- e) za návrh na výmaz | |
 
 - - ochrannej značky | |
 
-- - chráneného vzoru | |
+- - označenia pôvodu | |
+
+- - ďalšieho užívateľa označenia pôvodu, | |
+
+- ako aj za zisťovací návrh | Kčs | 200,-
+
+- f) za návrh na zrušenie osvedčenia alebo patentu | Kčs | 200,-
+
+- g) za žiadosť o určenie, či vonkajšia úprava výrobku spadá do rozsahu určitého osvedčenia alebo patentu | Kčs | 200,-
+
+- h) za žiadosť o zmenu | |
+
+- - v ochrannej značke | |
 
 - - označenia pôvodu | |
 
-- - spoluužívateľa označenia pôvodu, ako aj o zisťovacom návrhu | Kčs | 200,-
+- - názvu majiteľa ochrannej značky, názvu užívateľa alebo ďalšieho užívateľa označenia pôvodu | Kčs | 50,-
 
-- f) o žiadosti o zmenu | |
+- i) za žiadosť o navrátenie lehoty | Kčs | 100,-
 
-- - ochrannej značky | |
+- j) za žiadosť o odklad zverejnenia prihlášky priemyselného vzoru | Kčs | 100,-
 
-- - chráneného vzoru | |
+- k) za zverejnenie prihlášky priemyselného vzoru | Kčs | 100,-
 
-- - označenia pôvodu | |
+- l) za vydanie povolenia o predĺžení lehoty v konaní | |
 
-- - názvu majiteľa, ako aj o zápis spolumajiteľa (spoluužívateľa) ochrannej značky alebo chráneného vzoru | Kčs | 50,-
+- - za prvé a druhé predĺženie | Kčs | 20,-
 
-- g) o žiadosti | |
+- - za tretie a ďalšie predĺženie | Kčs | 100,-
+
+- m) za predĺženie platnosti patentu na priemyselný vzor | Kčs | 200,-
+
+- n) za žiadosť | |
 
 - - o medzinárodný zápis ochrannej značky alebo označenia pôvodu | |
 
 - - o obnovu medzinárodného zápisu ochrannej značky alebo o predĺženie platnosti medzinárodne zapísanej ochrannej značky | Kčs | 60,-
 
-- h) o žiadosti o prevod medzinárodne zapísanej ochrannej značky, o zmenu názvu jej majiteľa, o obmedzenie jej zoznamu výrobkov alebo služieb, o teritoriálne obmedzenie alebo rozšírenie jej ochrany, ako aj o žiadosti o zmenu názvu používateľa medzinárodne zapísaného označenia pôvodu, o zmenu zoznamu výrobkov alebo zápis spoluužívateľa takého označenia pôvodu | Kčs | 40,-
+- o) za žiadosť o prevod medzinárodne zapísanej ochrannej značky, o zmenu názvu jej majiteľa, o obmedzenie jej zoznamu výrobkov alebo služieb, o teritoriálne obmedzenie alebo rozšírenie jej ochrany, ako aj za žiadosť o zmenu názvu užívateľa medzinárodne zapísaného označenia pôvodu, o zmenu zoznamu výrobkov alebo zápis spoluužívateľa takého označenia pôvodu | Kčs | 40,-
 
-- ch) o návrhu na výmaz medzinárodnej ochrannej značky | Kčs | 200,-
+- p) za návrh na výmaz medzinárodnej ochrannej značky | Kčs | 200,-
 
-- Poznámky: 1. Poplatky za konanie vo veci označenia pôvodu sa budú vyberať až po nadobudnutí účinnosti zákona o označení pôvodu. 2. Prípady uvedené pod písmenami a) až f) sa vzťahujú na ochranné značky, chránené vzory a označenie pôvodu zapísané v ČSSR; - g) až h) sa vzťahujú na čs. ochranné značky a označenie pôvodu medzinárodne zapísané; - ch) sa vzťahujú na iné ako čs. ochranné značky medzinárodne zapísané. 3. Poplatok za konanie o prihláške chráneného vzoru môže správny orgán znížiť až na polovicu sadzby. 4. Poplatok vyberaný podľa písmena b) sa môže zaplatiť ešte v ďalšej šesťmesačnej lehote od predloženia podania; v tomto prípade sa poplatok zvyšuje o jednu štvrtinu. 5. Poplatky podľa písmen g) a h) sa vyberajú za úkony urobené podľa Madridskej dohody o medzinárodnom zápise ochranných značiek, prípadne podľa Lisabonskej dohody o ochrane označení pôvodu v Spojených medzinárodných úradoch na ochranu vlastníctva v Ženeve. | |
+- Poznámky: 1. Poplatky za konanie vo veci označenia pôvodu sa budú vyberať až po nadobudnutí účinnosti zákona o označení pôvodu. 2. Prípady uvedené pod písmenami a) až p) sa vzťahujú na ochranné značky, priemyselné vzory a označenia pôvodu zapísané v ČSSR, - n) a o) sa vzťahujú na čs. ochranné značky a označenia pôvodu zapísané medzinárodne, - p) sa vzťahujú na iné než čs. ochranné značky zapísané medzinárodne. 3. Poplatok za konanie o prihláške priemyselného vzoru môže správny orgán znížiť až na polovicu sadzby. 4. Poplatky podľa písmen n) a o) sa vyberajú za úkony urobené podľa Madridskej dohody o medzinárodnom zápise ochranných značiek, prípadne podľa Lisabonskej dohody o ochrane označenia pôvodu v Spojených medzinárodných úradoch pre ochranu vlastníctva v Ženeve. 5. Poplatok podľa písmen f), g), i) a l) sa nevyberie, ak žiadosť vo veci jemu udeleného osvedčenia podáva autor alebo jeho dedič. | |
 
   - Položka 83:
 
-- Vydanie výpisu alebo úradného potvrdenia z registra alebo vydanie osvedčenia o práve prednosti | Kčs | 40,-
+- Vydanie osvedčenia o práve prednosti (prioritný doklad) | Kčs | 40,-
+
+- Poznámka: Poznámka 5 k položke 82 tu platí obdobne. | |
 
 - SADZOBNÍK II
 
