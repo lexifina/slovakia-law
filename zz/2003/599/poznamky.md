@@ -42,6 +42,8 @@
 
 - 13e) § 51 ods. 4 zákona č. 5/2004 Z. z.
 
+- 13f) § 33 zákona č. 595/2003 Z. z.
+
 - 14) § 51 a 52 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 15) § 85 a 86 a § 91 a 92 Zákona o rodine.
@@ -69,6 +71,8 @@
 - 24) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 25a) § 51 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
 
 - 26) § 115 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
