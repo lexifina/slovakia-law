@@ -202,6 +202,8 @@
 
 - 95) § 37 ods. 6 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
 
+- 95a) § 108a a 108b zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
 - 97) § 61 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
@@ -237,6 +239,10 @@
 - 109) § 109 ods. 1 zákona č. 131/2002 Z. z.
 
 - 110) § 23 ods. 2 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 222/2003 Z. z.
+
+- 111) Zákon č. 306/2002 o zvýšení dôchodkov v roku 2002, o úprave dôchodkov priznaných v roku 2003 a o zmene a doplnení niektorých zákonov v oblasti sociálneho zabezpečenia.
+
+- Zákon č. 222/2003 Z. z. o zvýšení dôchodkov v roku 2003 a o zmene a doplnení niektorých zákonov v oblasti sociálneho zabezpečenia.
 
 - 112) § 184 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
 
