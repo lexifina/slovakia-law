@@ -1,0 +1,9 @@
+# Čl. I
+
+Zákon č. 41/1953 Zb. sa mení takto:
+
+§ 2 ods. 1 znie:
+
+„(1)
+
+Peňažnou jednotkou na území Československej socialistickej republiky je začínajúc 1. júnom 1953 československá koruna (Kčs), ktorá sa rovná 0,123426 g rýdzeho zlata; jej kurz v pomere k rubľu sa určuje začínajúc 1. januárom 1961 na 8 Kčs za 1 rubeľ. Na tomto podklade určuje Štátna banka československá pomer československej koruny k cudzím menám.“.
