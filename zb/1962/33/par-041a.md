@@ -1,5 +1,0 @@
-# § 41a Odborníci a poprední pracovníci (k § 37 ods. 2 zákona)
-
-(1) Odbornými pracovníkmi v jednotných roľníckych družstvách sú predseda, agronóm, zootechnik, mechanizátor, ekonóm (účtovník), vedúci dielní, vedúci výrobných úsekov, vedúci komplexných mechanizačných brigád a čiat, vedúci výrobných skupín, vedúci chovov, vedúci stavebnej skupiny, vedúci pridruženej výroby, skladník, poľnohospodár mechanizátor (traktorista, kombajnista, vodič), melioračný technik a inseminačný technik.
-
-(2) Za popredného pracovníka môže okresný národný výbor na návrh sociálnej komisie družstva prerokovaný na členskej schôdzi uznať pracovníka, ktorý dosahuje sústavne vo svojej práci mimoriadne dobré výsledky.

@@ -1,3 +1,0 @@
-Predseda:
-
-Erban v. r.
