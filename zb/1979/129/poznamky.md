@@ -18,6 +18,10 @@
 
 - 10) § 47 zákona č. 71/1967 Zb.
 
+- 10a) Úprava Ministerstva práce a sociálnych vecí a Ministerstva baníctva z 1.10.1968 o opatreniach na prehĺbenie hmotného a sociálneho zabezpečenia uvoľňovaných a prevádzaných pracovníkov v baníctve (MPSV č. XI-1134-1. 10. 1968; MH č. 42.3-3468/2475-úprava č. 4/1968) reg. v čiastke 45/1968 Zb.
+
+- Úprava Federálneho ministerstva práce a sociálnych vecí z 3. júla 1970 č. F V/1-662/70-1142 o opatreniach na prehĺbenie hmotného a sociálneho zabezpečenia uvoľňovaných a prevádzaných pracovníkov v baníctve.
+
 - 11) Zákon č. 177/1968 Zb. o vernostnom prídavku baníkov.
 
 - 12) Napr. vyhláška č. 74/1970 Zb., ktorou sa upravuje uvoľňovanie, umiestňovanie a hmotné zabezpečenie pracovníkov v súvislosti s vykonávaním racionalizačných a organizačných opatrení, v znení vyhlášky č. 4/1979 Zb.
