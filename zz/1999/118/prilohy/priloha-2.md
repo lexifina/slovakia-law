@@ -2,11 +2,9 @@ Príloha č. 2 k vyhláške č. 126/1999 Z. z.
 
 - ZOZNAM položiek tovaru určeného na výrobnú spotrebu pre farmaceutickú výrobu Kód colného sadzobníka | Názov tovaru
 
-- 0407 00 30 | Vtáčie vajcia v škrupinách, čerstvé, konzervované alebo varené, z hydiny, iné ako na násadu
+- ex 1302 20 10 | Pektínové látky v suchom stave
 
-- 1108 13 00 | Zemiakový škrob
-
-- 1302 31 00 | Agar-agar
+- 1302 31 00 | Agar - agar
 
 - 1503 | Stearín zo sadla, sadlový olej, oleostearín, oleomargarín a lojový olej, neemulgované alebo nezmiešané, alebo inak neupravené
 
@@ -27,10 +25,6 @@ Príloha č. 2 k vyhláške č. 126/1999 Z. z.
 - 1702 30 51 | Glukóza a glukózový sirup, neobsahujúce fruktózu alebo s obsahom fruktózy v sušine menším ako 20 % hmotnosti, obsahujúce v sušine 99 % alebo viac hmotnosti glukózy, v bielom kryštalickom prášku, tiež aglomerované
 
 - 1702 90 10 | Chemicky čistá maltóza
-
-- 2207 10 00 | Etylalkohol nedenaturovaný s objemovým alkoholometrickým titrom 80 % vôl alebo väčším
-
-- 2303 10 90 | Škrobárenské a podobné zvyšky
 
 - 2501 00 10 | Morská voda a roztoky solí
 
@@ -62,7 +56,7 @@ Príloha č. 2 k vyhláške č. 126/1999 Z. z.
 
 - 2843 | Drahé kovy v koloidnom stave; anorganické alebo organické zlúčeniny drahých kovov, chemicky definované aj nedefinované; amalgámy drahých kovov
 
-- 2847 | Peroxid vodíka, tiež stužený močovinou
+- 2847 00 | Peroxid vodíka, tiež stužený močovinou
 
 - 2903 12 00 | Dichlórmetán (metylénchlorid)
 
@@ -154,7 +148,9 @@ Príloha č. 2 k vyhláške č. 126/1999 Z. z.
 
 - 2938 | Glykozidy prírodné alebo reprodukované syntézou a ich soli, étery, estery a ostatné deriváty
 
-- 2939 2941 | Rastlinné alkaloidy, prírodné alebo reprodukované syntézou a ich soli, étery, estery a ostatné deriváty Antibiotiká
+- 2939 | Rastlinné alkaloidy, prírodné alebo reprodukované syntézou a ich soli, étery, estery a ostatné deriváty
+
+- 2941 | Antibiotiká
 
 - 3402 19 00 | Organické povrchovo aktívne prostriedky, tiež upravené na predaj v malom
 
@@ -176,7 +172,7 @@ Príloha č. 2 k vyhláške č. 126/1999 Z. z.
 
 - 3824 90 55 | Zmesi mono-, di- a triesterov glyceloru a mastných kyselín (emulgátory tukov)
 
-- 3824 90 95 | Chemické výrobky alebo prípravky chemického priemyslu alebo príbuzných priemyselných odvetví (vrátane vyrobených zo zmesí prírodných produktov), inde neuvedené ani nezahrnuté; zvyškové produkty chemického priemyslu alebo príbuzných priemyselných odvetví inde neuve-dené ani nezahrnuté
+- 3824 90 95 | Chemické výrobky alebo prípravky chemického priemyslu alebo príbuzných priemyselných odvetví (vrátane vyrobených zo zmesí prírodných produktov), inde neuvedené ani nezahrnuté; zvyškové produkty chemického priemyslu alebo príbuzných priemyselných odvetví inde neuvedené ani nezahrnuté
 
 - 3905 99 90 | Polyméry vinylacetátu alebo iných vinylesterov, v primárnych formách; ostatné vinylové polyméry v primárnych formách
 
