@@ -85,3 +85,5 @@ Dekrét prezidenta republiky č. 101/1945 Sb., o znárodnení niektorých podnik
   - Ustanovenia §§ 7 až 11 a §§ 37, 38, 40, 41 a §§ 43 až 47 dekrétu č. 100/1945 Sb. v znení predpisov ho meniacich a doplňujúcich, platia primerane i pre veci upravené týmto dekrétom, pričom tam, kde podľa práve uvedených ustanovení je daná pôsobnosť ministra priemyslu, prislúcha táto pôsobnosť ministrovi výživy."
 
 - 11. §§ 8 až 23 sa zrušujú.
+
+Čl.II.
