@@ -36,11 +36,13 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - § 4 Ak príslušný orgán rozhodol, aby
 
-        - a) prevádzka bola celkom alebo sčasti zrušená alebo zastavená,
+        - a) prevádzka bola prechodne alebo trvale, sčasti alebo úplne zastavená,
 
         - b) určité zásielky boli vylúčené z prepravy alebo prijímané na prepravu len za určitých podmienok,
 
-      - musia sa tieto opatrenia bezodkladne oznámiť verejnosti a železniciam, ktoré o nich informujú železnice iných štátov na uverejnenie.
+        - c) určitý tovar bol prijatý na prepravu prednostne
+
+      - musia sa tieto opatrenia bezodkladne oznámiť verejnosti a železniciam, ktoré o nich informujú železnice iných štátov na zverejnenie.
 
       - § 5 Železnice môžu vzájomnou dohodou sústrediť prepravu tovaru v niektorých spojoch na určité pohraničné priechody a určité prievozné krajiny.
 
@@ -174,9 +176,9 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 11 Uzavretie prepravnej zmluvy
 
-      - § 1 Prepravná zmluva je uzavretá, len čo odosielacia stanica prijala na prepravu tovar s nákladným listom. Na označenie prijatia sa nákladný list, prípadne každý doplnkový list, opečiatkuje dátumovou pečiatkou odosielacej stanice alebo strojovým označením účtovania a dátumom prijatia na prepravu.
+      - § 1 Prepravná smluva je uzavretá, len čo odosielacia stanica prijala na prepravu tovar s nákladným listom. Na označenie prijatia sa opatrí nákladný list a prípadne každý doplnkový list odtlačkom dátumovej pečiatky odosielacej stanice alebo strojovým označením účtovania a dátumom prijatia na prepravu.
 
-      - § 2 Úkony podľa § 1 musia nasledovať ihneď po podaji všetkého tovaru uvedeného v nákladnom liste na prepravu a - pokiaľ tak ustanovujú predpisy platné v odosielacej stanici - po zaplatení výdavkov, ktoré odosielateľ vzal na seba, alebo po zložení zábezpeky podľa článku 15 § 7. Ak odosielateľ o to požiada, musia sa tieto úkony vykonať v jeho prítomnosti.
+      - § 2 Úkony podľa § 1 musia nasledovať ihneď po podaji na prepravu všetkého v nákladnom liste uvedeného tovaru a – pokiaľ tak ustanovujú predpisy platné v odosielacej stanici – po zaplatení výdavkov, ktoré odosielateľ vzal na seba alebo po zložení zábezpeky podľa Článku 15 § 7.
 
       - § 3 Nákladný list opatrený dátumovou pečiatkou alebo strojovým účtovacím označením je dôkazom o uzavretí a obsahu prepravnej zmluvy.
 
@@ -196,11 +198,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - Každý nákladný list sa môže týkať iba nákladu jedného vozňa. Dopĺňajúce ustanovenia sa môžu od týchto pravidiel odchýliť.
 
-      - § 2 Železnica určí jednotný vzor nákladného listu pre obyčajný tovar a pre rýchlotovar, ktorého súčasťou musí byť druhopis určený odosielateľovi.
-
-        - Voľba nákladného listu odosielateľom naznačuje, či sa má tovar prepraviť ako obyčajný tovar alebo ako rýchlotovar. Je neprípustné žiadať, aby sa tovar na časti prepravnej cesty prepravil ako rýchlotovar a na časti cesty ako obyčajný tovar, ak to nedovoľuje dojednanie medzi všetkými zúčastnenými železnicami.
-
-        - Pre určité prepravy, najmä pre prepravy medzi susednými štátmi, môžu železnice v tarifách určiť použitie nákladného listu podľa zjednodušeného vzoru.
+      - § 2 Železnica určí jednotný vzor nákladného listu, ktorého súčasťou musí byť druhopis určený pre odosielateľa. Pre určité prepravy, najmä pre prepravy medzi susednými štátmi, môžu železnice v tarifách určiť použitie nákladného listu podľa zjednodušeného vzoru. Pre určité prepravy s krajinami nezúčastnenými v tomto Dohovore, môžu tarify určiť použitie osobitného postupu.
 
       - § 3 Nákladný list musí byť vytlačený v dvoch alebo prípadne v troch jazykoch, z ktorých aspoň jeden musí byť pracovným jazykom Organizácie.
 
@@ -263,10 +261,6 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
       - § 6 Ak údaje odosielateľa nedostačujú na určenie prepravnej cesty alebo taríf, ktoré sa majú použiť, alebo ak sa niektoré z týchto údajov navzájom vylučujú, železnica zvolí prepravnú cestu alebo tarify, ktoré sa jej zdajú pre odosielateľa najvýhodnejšie.
 
       - § 7 Za škodu vzniknutú z voľby podľa § 6 železnica zodpovedá len pri zlom úmysle alebo hrubej nedbanlivosti.
-
-      - § 8 Ak medzinárodná tarifa existuje z odosielacej stanice až do stanice určenia a železnica ju použije pretože odosielateľ neuviedol dostatočné údaje, železnica na žiadosť oprávneného je povinná vrátiť prípadný rozdiel medzi dovozným takto vypočítaným a dovozným, ktoré by vyplývalo zo súčtu dovozného podľa iných taríf platných na tej istej prepravnej ceste, ak rozdiel pri jednom nákladnom liste presahuje 4 zúčtovacie jednotky.
-
-        - To isté platí pri inak rovnakých predpokladoch, ak železnica v dôsledku nedostačujúcich údajov odosielateľa vypočíta dovozné súčtom podľa jednotlivých taríf namiesto podľa použiteľnej cenovo výhodnejšej medzinárodnej tarify.
 
     - Článok 15 Platenie prepravného
 
@@ -336,17 +330,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - § 4 Odosielateľ zodpovedá za všetky následky vyplývajúce z toho, že obal chýba alebo je vadný a je povinný nahradiť železnici škodu, ktorú by z tohoto dôvodu utrpela. Ak nákladný list neobsahuje príslušné údaje, železnici patrí podať dôkaz o tom, že obal chýba alebo bol vadný.
 
-      - § 5 Ak tarify nepripúšťajú výnimky, odosielateľ kusovej zásielky je povinný uviesť na každom kuse alebo na nálepke povolenej železnicou zreteľne, trvanlivo a nezmazateľne tieto nezameniteľné údaje, ktoré sa musia zhodovať s údajmi v nákladnom liste:
-
-        - a) meno a adresa príjemcu;
-
-        - b) stanicu určenia.
-
-      - Údaje uvedené pod písmenami a) a b) musia byť tiež na každom kuse vozňovej zásielky v preprave železnica -more, ak sa má zásielka prekladať.
-
-      - Neplatné nápisy alebo nálepky musí odosielateľ urobiť nečitateľnými alebo ich odstrániť.
-
-      - § 6 Ak dopĺňajúce ustanovenie alebo tarifa nepripúšťa výnimky, prepravuje sa ako vozňová zásielka len krehký tovar alebo tovar, ktorý sa vo vozni ľahko rozptýli, ako aj tovar, ktorý by mohol znečistiť alebo poškodiť iný tovar, ak takýto tovar nie je zabalený alebo spojený tak, aby sa nemohol rozbiť, stratiť alebo nemohol znečistiť alebo poškodiť iný tovar.
+      - § 5 Označovanie tovaru odosielateľom upravujú dopĺňajúce ustanovenia alebo tarify.
 
     - Článok 20 Podaj tovaru na prepravu a jeho nakladanie
 
@@ -400,41 +384,21 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - § 1 Okrem doplatku rozdielu dovozného a náhrady prípadnej škody môže železnica vyberať:
 
-        - a) prirážku k dovoznému vo výške jednej zúčtovacej jednotky za každý kilogram hrubej hmotnosti celého kusa
+        - a) prirážku k dovoznému vo výške jednej zúčtovacej jednotky za každý kilogram hrubej hmotnosti celého kusu
 
-          - 1. pri nesprávnom, nepresnom alebo neúplnom označení látok a predmetov podľa RID vylúčených z prepravy;
+          - 1. pri nesprávnom, nepresnom alebo neúplnom označení látok a predmetov vylúčených podľa RID z prepravy
 
-          - 2. pri nesprávnom, nepresnom alebo neúplnom označení látok a predmetov, ktoré sú podľa RID pripustené na prepravu za osobitných podmienok, alebo ak sa nedodržali podmienky RID;
+          - 2. pri nesprávnom, nepresnom alebo neúplnom označení látok a predmetov, ktoré sú podľa RID pripustené na prepravu za osobitných podmienok, alebo ak neboli dodržané podmienky RID
 
-        - b) prirážku k dovoznému vo výške piatich zúčtovacích jednotiek za každých 100 kg hmotnosti, ktorá prevyšuje dovolenú medzu zaťaženia vozňa, ak vozeň nakladal odosielateľ;
+        - Dopĺňajúce ustanovenia môžu vopred určiť iné spôsoby vypočtu prirážky k dovoznému, najmä paušálnu prirážku k dovoznému pri prázdnych vozňoch prepravcov.
 
-        - c) prirážku k dovoznému vo výške dvojnásobku rozdielu
+        - b) prirážku k dovoznému vo výške 5 zúčtovacích jednotiek za každých 100 kg hmotnosti, ktorá prevyšuje dovolenú medzu zaťaženia vozňa, ak vozeň nakladal odosielateľ.
 
-          - 1. medzi dovozným, ktoré by sa malo vybrať z odosielacej stanice do stanice určenia, a dovozným, ktoré sa vypočítalo pri nesprávnom, nepresnom alebo neúplnom označení tovaru neuvedeného pod písm. a), alebo pri každom označení, ktoré malo viesť k použitiu lacnejšej tarify, než je tá, ktorá sa má skutočne použiť;
+      - § 2 Prirážky k dovoznému viaznu na tovare bez zreteľa na to, kde sa zistili skutočnosti, ktoré ich vyberanie oprávňujú.
 
-          - 2. medzi dovozným počítaným za udanú hmotnosť a dovozným za zistenú hmotnosť, ak je údaj nižší.
+      - § 3 Výška prirážok k dovoznému aj dôvod pre ich vyberanie sa musia poznačiť v nákladnom liste.
 
-        - Ak sa zásielka skladá z rôzne tarifujúceho tovaru a ak hmotnosť každého druhu tovaru nemožno ľahko zistiť, prirážka sa počíta podľa sadzby dovozného platnej pre každý druh tovaru, ak takto vypočítaná prirážka je nižšia.
-
-      - § 2 Ak je pri tom istom vozni udaná nižšia hmotnosť, než je hmotnosť skutočná, a ak je vozeň zároveň preťažený, prirážky sa vyberú za obidve závady nezávisle od seba.
-
-      - § 3 Prirážky k dovoznému viaznu na tovare bez zreteľa na to, kde sa zistili skutočnosti, ktoré ich vyberanie oprávňujú.
-
-      - § 4 Výška prirážok k dovoznému aj dôvod pre ich vyberanie sa musia poznačiť v nákladnom liste.
-
-      - § 5 Prirážku k dovoznému nemožno vyberať pri
-
-        - a) nepresnom údaji hmotnosti, ak je železnica povinná zásielku vážiť podľa predpisov platných v odosielacej stanici;
-
-        - b) nepresnom údaji hmotnosti alebo pri prekročení medze zaťaženia vozňa, ak odosielateľ v nákladnom liste požiadal, aby železnica zistila hmotnosť;
-
-        - c) preťažení vozňa zavinenom poveternostnými vplyvmi počas prepravy, ak sa preukáže, že zásielka pri podaji na prepravu nepresahovala dovolenú medzu zaťaženia vozňa;
-
-        - d) zvýšení hmotnosti počas prepravy bez toho, že by sa vozeň preťažil, ak sa dokáže, že prírastok hmotnosti je zavinený poveternostnými vplyvmi;
-
-        - e) nepresnom údaji hmotnosti bez preťaženia vozňa, ak rozdiel medzi hmotnosťou zapísanou v nákladnom liste a zistenou hmotnosťou nepresahuje 3 % zapísanej hmotnosti;
-
-        - f) preťažení vozňa, ak železnica medzu zaťaženia ani neuverejnila ani odosielateľovi nedala na vedomie takým spôsobom, ktorý by mu umožnil ju rešpektovať.
+      - § 4 Prípady, v ktorých sa prirážka k dovoznému nevyberá, upresňujú dopĺňajúce ustanovenia.
 
     - Článok 25 Listiny na plnenie predpisov orgánov štátnej správy. Colná uzávera
 
@@ -482,19 +446,13 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - Dodacie lehoty nesmú však byť v žiadnom prípade dlhšie než lehoty, ktoré vyplývajú z nasledujúcich paragrafov.
 
-      - § 2 Ak nie sú dodacie lehoty určené podľa § 1 platia - s výhradou ustanovení nasledujúcich paragrafov - tieto dodacie lehoty
+      - § 2 Ak dotácie lehoty nie sú určené podľa § 1 platia – s výhradou ustanovení nasledujúcich paragrafov – tieto maximálne dodacie lehoty:
 
-        - a) pre vozňové zásielky
+        - a) pre vozňové zásielky:
 
-          - 1. ako rýchlotovar:
+        - výpravná lehota ......................... 12 hodín,
 
-          - výpravná lehota ....................12 hodín
-
-          - prepravná lehota
-
-          - za každých i len
-
-          - začatých 400 km ....................24 hodín
+        - prepravná lehota za každých aj len začatých 400 km ......................................24 hodín,
 
           - 2. ako obyčajný tovar:
 
@@ -506,49 +464,27 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
           - začatých 300 km ....................24 hodín
 
-        - b) pre kusové zásielky:
+        - b) pre kusové zásielky
 
-          - 1. ako rýchlotovar:
+        - výpravná lehota .......................... 12 hodín,
 
-          - výpravná lehota ....................12 hodín
+        - prepravná lehota za každých aj len začatých 200 km ......................................24 hodín,
 
-          - prepravná lehota
+        - Všetky vzdialenosti sa rozumejú v tarifných kilometroch.
 
-          - za každých i len
-
-          - začatých 300 km ....................24 hodín
-
-          - 2. ako obyčajný tovar:
-
-          - výpravná lehota ....................24 hodín
-
-          - prepravná lehota
-
-          - za každých i len
-
-          - začatých 200 km ....................24 hodín
-
-          - Všetky vzdialenosti sa rozumejú v tarifných kilometroch.
-
-      - § 3 Prepravná lehota sa počíta sa úhrnnú vzdialenosť z odosielacej stanice do stanice určenia. Výpravná lehota sa počíta iba raz, bez ohľadu na počet zúčastnených železníc.
+      - § 3 Výpravná lehota sa počíta iba raz, bez ohľadu na počet zúčastnených železníc. Prepravná lehota sa počíta za úhrnnú vzdialenosť z odosielacej stanice do stanice určenia.
 
       - § 4 Železnice môžu určiť prirážky k dodacím lehotám s určitou dĺžkou v týchto prípadoch:
 
-        - a) pre zásielky podávané na prepravu alebo dodávané mimo stanice; b) pre zásielky prepravované:
+        - a) pre zásielky podávané na prepravu alebo dodávané mimo stanice,
 
         - b) pre zásielky prepravované:
 
-          - 1. po trati alebo železnici, ktorá na rýchle vypravenie zásielky nie je zariadená,
+          - 1. po tratiach s rozdielnym rozchodom,
 
-          - 2. po spojkách dvoch tratí tej istej železnice alebo rôznych železníc,
+          - 2. po mori alebo po vnútrozemských vodných cestách,
 
-          - 3. po vedľajšej trati,
-
-          - 4. po tratiach s rozdielnym rozchodom,
-
-          - 5. po mori alebo po vnútrozemských vodných cestách,
-
-          - 6. po ceste, ak nie je železničné spojenie;
+          - 3. po ceste, ak nie je železničné spojenie,
 
         - c) pre zásielky, ktoré sa prepravujú podľa vnútroštátnych osobitných alebo výnimočných taríf so zľavnenými sadzbami;
 
@@ -558,7 +494,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - Prirážky k dodacím lehotám podľa § 4 písm. d) sa musia zverejniť a nesmú nadobudnúť platnosť pred uverejnením.
 
-      - § 6 Dodacia lehota sa začína uplynutím 24. hodiny dňa, keď bola zásielka prijatá na prepravu. Pri zásielkach rýchlotovaru sa však prepravná lehota začína o 24 hodín neskoršie, ak po dni prijatia tovaru na prepravu nasleduje nedeľa alebo zákonom uznaný sviatok a ak odosielacia stanica nie je pre príslušnú nedeľu alebo sviatok otvorená na príjem rýchlotovaru na prepravu.
+      - § 6 Dodacia lehota sa začína uplynutím 24. hodiny dňa, keď sa zásielka prijala na prepravu.
 
       - § 7 Dodacia lehota sa predlžuje o čas zdržania, ktoré vzniklo bez zavinenia železnice:
 
@@ -576,17 +512,9 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - Príčina a čas tohto predĺženia sa poznačia v nákladnom liste. Môžu sa prípadne preukázať iným spôsobom.
 
-      - § 8 Dodacia lehota neplynie:
-
-        - a) pri obyčajnom tovare cez nedele a zákonom uznané sviatky;
-
-        - b) pri rýchlotovare cez nedele a určité zákonom uznané sviatky, ak zákony a predpisy niektorých štátov ustanovujú, že v týchto dňoch dodacia lehota neplynie pre vnútroštátnu železničnú prepravu tovaru;
-
-        - c) pri obyčajnom tovare a rýchlotovare cez soboty, ak zákony a predpisy niektorého štátu ustanovujú, že v týchto dňoch dodacia lehota neplynie pre vnútroštátnu železničnú prepravu tovaru.
+      - § 8 Dodacia lehota neplynie cez nedele a zákonné sviatky. Cez soboty neplynie v štátoch, kde to pre ich železničnú nákladnú dopravu ustanovujú platné predpisy.
 
       - § 9 Ak dodacia lehota uplynula po skončení služobných hodín v stanici určenia, táto lehota sa končí až o dve hodiny po začiatku nasledujúcich služobných hodín.
-
-        - Okrem toho pri zásielkach rýchlotovaru, ktorých dodacia lehota by sa mala končiť v niektorú nedeľu alebo sviatok uvedený v § 8 písm. b), táto lehota sa končí v rovnakú hodinu nasledujúceho pracovného dňa.
 
       - § 10 Dodacia lehota je zachovaná, ak pred jej uplynutím
 
@@ -620,7 +548,9 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 29 Oprava vybraného prepravného
 
-      - § 1 Ak sa tarifa použila nesprávne alebo ak došlo k chybe pri výpočte prepravného alebo pri jeho vyberaní, musí sa suma rozdielu, ak presahuje 4 zúčtovacie jednotky pri každom nákladnom liste železnici doplatiť alebo ju musí železnica vrátiť. Vrátenie sa uskutočňuje z vlastného podnetu.
+      - § 1 Ak sa tarifa použila nesprávne alebo ak došlo k chybám pri výpočte prepravného alebo pri jeho vyberaní, musí sa nedoplatok zaplatiť a preplatok vrátiť.
+
+      - Nedoplatok sa nevyberie a preplatok sa nevráti, ak pri jednom nákladnom liste nedosiahne 8 zúčtovacích jednotiek. Vrátenie sa uskutoční z vlastného podnetu.
 
       - § 2 Ak nebol nákladný list odobraný, nedoplatky zaplatí železnici odosielateľ. Ak príjemca odobral nákladný list alebo zmenil prepravnú zmluvu podľa článku 31, odosielateľ zaplatí nedoplatok iba z toho prepravného, ktoré ide na jeho ťarchu podľa výplatného záznamu v nákladnom liste. Zvyšok zaplatí príjemca.
 
@@ -656,13 +586,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - Dopĺňajúce ustanovenia alebo medzinárodné tarify platné medzi železnicami zúčastnenými na preprave môžu pripustiť aj príkazy vyššie neuvedené. Príkazy nesmú mať za následok rozdelenie zásielky.
 
-      - § 2 Príkazy sa musia dať odosielacej stanici písomným vyhlásením podľa vzoru ustanoveného a uverejneného železnicami.
-
-        - Toto vyhlásenie musí odosielateľ opakovať a podpísať na druhopise nákladného listu, ktorý súčasne predloží železnici. Odosielacia stanica potvrdí príjem príkazcu odtlačením svojej dátumovej pečiatky na druhopise nákladného listu pod vyhlásením odosielateľa; druhopis nákladného listu sa potom odosielateľovi vráti.
-
-        - Ak odosielateľ žiada zvýšenie, zníženie alebo zrušenie dobierky, musí predložiť doklad, ktorý sa mu pôvodne o dobierke vydal. Ak sa dobierka zvyšuje alebo znižuje, opravený doklad sa vráti odosielateľovi; ak sa dobierka zrušuje, doklad sa nevracia.
-
-        - Každý príkaz daný iným spôsobom, než je predpísané, je neplatný.
+      - § 2 Príkazy sa musia dať vyhlásením podľa železnicami určeného vzoru. Toto vyhlásenie musí odosielateľ opakovať a podpísať na druhopise nákladného listu, ktorý železnici predloží. Podpis sa môže natlačiť alebo nahradiť pečiatkou odosielateľa. Každý príkaz daný iným spôsobom, než je predpísané, je neplatný.
 
       - § 3 Ak železnica vykoná príkazy odosielateľa bez toho, aby si vyžiadala predloženie druhopisu nákladného listu, zodpovedá príjemcovi za tým vzniknutú škodu, ak mu odosielateľ odovzdal druhopis.
 
@@ -698,9 +622,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - Dopĺňajúce ustanovenia alebo medzinárodné tarify platné medzi železnicami zúčastnenými na preprave môžu pripustiť aj príkazy vyššie neuvedené. Príkazy nesmú mať za následok rozdelenie zásielky. Príkazy príjemcu možno uskutočniť až po vstupe zásielky do colného územia krajiny určenia.
 
-      - § 2 Uvedené príkazy sa musia dať stanici určenia alebo vstupnej stanici krajiny určenia písomným vyhlásením podľa vzoru ustanoveného a uverejneného železnicou.
-
-        - Každý príkaz daný iným spôsobom, než je predpísané, je neplatný.
+      - § 2 Príkazy sa musia dať vyhlásením podľa železnicami určeného vzoru. Každý príkaz daný iným spôsobom, než je predpísané, je neplatný.
 
       - § 3 Právo príjemcu meniť prepravnú zmluvu zaniká v prípadoch, keď príjemca
 
@@ -710,7 +632,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - c) uplatnil svoje práva podľa článku 28 § 4,
 
-        - d) označil podľa § 1 písmeno c) určitú osobu a táto osoba prevzala nákladný list alebo uplatnila svoje práva podľa článku 28 § 4.
+        - d) označil podľa § 1 písm. c) určitú osobu a táto osoba odobrala nákladný list, prevzala tovar alebo uplatnila svoje práva podľa článku 28 § 4.
 
       - § 4 Ak príjemca predpísal, aby bol tovar vydaný inej osobe, nie je táto osoba oprávnená meniť prepravnú zmluvu.
 
@@ -744,7 +666,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - Ak podľa úsudku železnice nemožno tieto pokyny vykonať, vyžiada si nové pokyny.
 
-      - § 4 Odosielateľ, ktorý bol upovedomený o prepravnej prekážke, môže dať svoje pokyny buď odosielacej stanici alebo stanici, kde sa tovar nachádza. Ak tieto pokyny menia označenie príjemcu alebo stanice určenia alebo ak sú oznámené stanici, kde sa tovar nachádza, musí odosielateľ svoje návrhy zapísať do druhopisu nákladného listu a predložiť ho železnici.
+      - § 4 Ak pokyny odosielateľa menia označenia príjemcu alebo stanice určenia alebo ak ich oznámi stanica, kde sa tovar nachádza, musí odosielateľ svoje pokyny zapísať do druhopisu nákladného listu a tento predložiť železnici.
 
       - § 5 Ak železnica vykoná návrhy odosielateľa bez vyžiadania predloženia druhopisu nákladného listu, zodpovedá príjemcovi za škodu z toho vzniknutú, ak mu odosielateľ odovzdal tento druhopis. Železnica však nie je povinná poskytnúť vyššiu náhradu škody než pri strate tovaru.
 
@@ -762,21 +684,19 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 34 Prekážka pri dodaní
 
-      - § 1 Ak vznikne prekážka pri dodaní, stanica určenia musí o tom podať odosielateľovi bezodkladne správu prostredníctvom odosielacej stanice a vyžiadať si jeho pokyny. Odosielateľ sa musí upovedomiť priamo písomne, telegraficky alebo ďalekopisom, ak o to požiada v nákladnom liste; výdavky za túto správu viaznu na tovare.
+      - § 1 Ak vznikne prekážka pri dodaní, musí o tom železnica podať odosielateľovi bezodkladne správu a vyžiadať si jeho pokyny.
 
-      - § 2 Ak prekážka pri dodaní tovaru pominie skôr, než dôjdu do stanice určenia pokyny odosielateľa, tovar sa vydá príjemcovi. O tomto výdaji sa musí odosielateľ neodkladne upovedomiť doporučeným listom; výdavky za túto správu viaznu na tovare.
+      - § 2 Ak prekážka pri dodaní tovaru pominie skôr, než dôjdu stanici určenia pokyny odosielateľa, vydá sa tovar príjemcovi. Odosielateľ sa o tom musí bezodkladne upovedomiť.
 
       - § 3 Ak príjemca odmietne tovar, odosielateľ je oprávnený dať pokyny, aj keď sa nemôže preukázať druhopisom nákladného listu.
 
       - § 4 Odosielateľ môže údajom v nákladnom liste tiež žiadať, aby mu bol tovar, ak dôjde k prekážke pri dodaní, bez ďalšieho vrátený. Inak je jeho výslovný súhlas nevyhnutný.
 
-      - § 5 Ak tarify neustanovujú inak, odosielateľ musí dať pokyny prostredníctvom odosielacej stanice.
+      - § 5 Ak nie je vyššie ustanovené, postupuje železnica, ktorá je príslušná pre dodanie tovaru, podľa predpisov platných v mieste dodania. Ak bol tovar predaný, výťažok z predaja sa musí dať k dispozícii odosielateľovi po zrážke výdavkov viaznúcich na tovare. Ak je výťažok z predaja menší než tieto výdavky, rozdiel musí doplatiť odosielateľ.
 
-      - § 6 Ak nie je vyššie ustanovené, postupuje železnica, ktorá je príslušná pre dodanie tovaru, podľa predpisov platných v mieste dodania. Ak bol tovar predaný, výťažok z predaja sa musí dať k dispozícii odosielateľovi po zrážke výdavkov viaznúcich na tovare. Ak je výťažok z predaja menší než tieto výdavky, rozdiel musí doplatiť odosielateľ.
+      - § 6 Ak sa vyskytne prekážka pri dodaní po tom, keď príjemca zmenil prepravnú zmluvu podľa článku 31, železnica je povinná podať správu tomuto príjemcovi. Ustanovenia § 1, 2 a 6 platia obdobne.
 
-      - § 7 Ak sa vyskytne prekážka pri dodaní po tom, keď príjemca zmenil prepravnú zmluvu podľa článku 31, železnica je povinná podať správu tomuto príjemcovi. Ustanovenia § 1, 2 a 6 platia obdobne.
-
-      - § 8 Pre prepravy vykonané podľa článku 34 platí článok 32.
+      - § 7 Pre prepravy vykonané podľa článku 34 platí článok 32.
 
   - ODDIEL IV ZODPOVEDNOSŤ
 
@@ -826,6 +746,8 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - § 2 Táto domnienka platí aj vtedy, ak prepravná zmluva predchádzajúca novému podaju nebola dojednaná podľa Jednotných právnych predpisov, pokiaľ tieto predpisy boli použiteľné v prípade priamej prepravy z pôvodnej odosielacej stanice do poslednej stanice určenia.
 
+        - Táto domnienka platí aj vtedy, ak prepravná zmluva predchádzajúca novému podaju bola podrobená inému porovnateľnému medzinárodnému dohovoru o priamej medzinárodnej železničnej preprave a tento obsahuje rovnakú právnu domnienku v prospech zásielok podaných na prepravu podľa Jednotných právnych predpisov.
+
     - Článok 39 Domnienka o strate tovaru
 
       - § 1 Oprávnený môže bez ďalších dôkazov považovať tovar za stratený, ak nebol príjemcovi dodaný alebo ak nebol prichystaný do tridsiatich dní po uplynutí dodacej lehoty.
@@ -850,73 +772,15 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
       - § 1 Pri tovare, ktorý pre svoju povahu stráca spravidla prepravou na hmotnosti, železnica bez zreteľa na prejdenú vzdialenosť zodpovedá len za tú časť straty na hmotnosti, ktorá presahuje ďalej uvedené medze:
 
-        - a) dve percentá hmotnosti pri kvapalinách alebo pri tovare podanom na prepravu vo vlhkom stave, ako aj pri nasledujúcom tovare:
+        - a) 2 % hmotnosti pri kvapalinách alebo pri tovare podanom na prepravu vo vlhkom stave,
 
-        - farbiarske, strúhané
-
-        - alebo mleté drevo,
-
-        - sladké drevo,
-
-        - čerstvé huby,
-
-        - chmeľ,
-
-        - korene,
-
-        - celé alebo mleté kosti,
-
-        - kožušiny,
-
-        - kôra,
-
-        - surové kože,
-
-        - spracované kože (usne),
-
-        - mydlo a hutné oleje,
-
-        - odpadky z koží,
-
-        - čerstvé, sušené
-
-        - alebo pražené plody,
-
-        - rašelina,
-
-        - rohy a paznechty,
-
-        - sušené ryby,
-
-        - soľ,
-
-        - zvieracie šľachy,
-
-        - štetiny,
-
-        - rezaný tabak,
-
-        - čerstvé tabakové listy,
-
-        - čerstvý tmel,
-
-        - tuky,
-
-        - uhlie a koks,
-
-        - ovčia vlna,
-
-        - čerstvá zelenina,
-
-        - konské vlasy;
-
-        - b) jedno percento pri ostatnom suchom tovare.
+        - b) 1 % hmotnosti pri suchom tovare.
 
       - § 2 Obmedzenia zodpovednosti podľa § 1 sa nemožno dovolávať, ak sa dokáže, že strata nevyplýva z príčin, ktoré ospravedlňujú prípustnú medzu straty podľa okolností prípadu.
 
       - § 3 Ak sa s jedným nákladným listom prepravuje niekoľko kusov tovaru, prípustná strata na hmotnosti sa vypočíta osobitne pre každý kus, ak jeho hmotnosť pri podaji je udaná v nákladnom liste oddelene alebo ak ju možno zistiť inak.
 
-      - § 4 Pri úplnej strate tovaru sa pri výpočte náhrady škody nič nezráža za stratu na hmotnosti prepravou.
+      - § 4 Pri úplnej strate alebo pri strate jednotlivých kusov sa pri výpočte náhrady škody nezráža nič za stratu na hmotnosti prepravou.
 
       - § 5 Týmto článkom nie sú nijako dotknuté ustanovenia článkov 36 a 37.
 
@@ -956,7 +820,7 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 45 Obmedzenie náhrady škody určitými tarifami
 
-      - Ak železnica poskytuje osobitné prepravné podmienky osobitnými alebo výnimočnými tarifami, ktoré v porovnaní so všeobecne platnými tarifami poskytujú zľavu z dovozného, môže železnica obmedziť náhradu patriacu oprávnenému za stratu, poškodenie alebo prekročenie dodacej lehoty, za podmienky, že toto obmedzenie je v týchto tarifách uvedené.
+      - Ak železnica poskytuje osobné prepravné podmienky osobitnými alebo výnimočnými tarifami, ktoré v porovnaní so všeobecne platnými tarifami poskytujú zľavu z dovozného, môže železnica obmedziť náhradu prislúchajúcu oprávnenému za prekročenie dodacej lehoty za podmienky, že toto obmedzenie je v tarifách uvedené.
 
       - Ak sa tieto osobitné prepravné podmienky použijú len na časti prepravnej cesty, môže sa železnica tohto obmedzenia dovolávať iba vtedy, ak sa skutočnosť odôvodňujúca náhradu stala na tejto časti prepravnej cesty.
 
@@ -1174,9 +1038,9 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - Spôsob platenia určujú dohody uzavreté medzi železnicami.
 
-      - § 2 S výhradou svojich nárokov voči odosielateľovi zodpovedá odosielacia železnica za dovozné a iné výdavky, ktoré nevybrala, hoci ich odosielateľ podľa článku 15 vzal na seba.
+      - § 2 Odosielacia železnica zodpovedá za dovozné a iné výdavky, ktoré nevybrala, hoci ich odosielateľ podľa článku 15 vzal na seba.
 
-      - § 3 Ak železnica určenia dodá tovar bez toho, že by vybrala prepravné alebo iné pohľadávky z prepravnej zmluvy, zodpovedá za ne železniciam zúčastneným na preprave a iným zainteresovaným.
+      - § 3 Ak železnica určenia dodá tovar bez toho, aby vybrala prepravné alebo iné pohľadávky z prepravnej zmluvy, potom za tieto sumy zodpovedá.
 
       - § 4 Ak niektoré železnice neplatia a ak to zistí Ústredný úrad na žiadosť niektorej veriteľskej železnice, dôsledky toho znášajú všetky ostatné železnice zúčastnené na preprave v pomere svojich podielov na dovoznom.
 
@@ -1248,29 +1112,19 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
     - Článok 65 Prechodné odchýlky
 
-      - § 1 Ak hospodársky a finančný stav niektorého štátu môže pri používaní oddielu VI spôsobiť vážne ťažkosti, každý štát sa môže odchýliť od článkov 15, 17 a 30 ustanovením pre určité prepravy, že
+      - § 1 Ak hospodársky a finančný stav niektorého štátu môže spôsobiť pri používaní oddielu VI vážne nezhody, môžu sa dva alebo viaceré iné štáty dohodami odchýliť od článkov 15, 17 a 30 tým, že pre prepravu so štátom nachádzajúcim sa v ťažkostiach ustanovuje, že
 
-        - a) zásielky odosielané z tohto štátu musia byť vyplatené:
+        - a) zásielky odosielané z každého z týchto štátov musia byť povinne vyplatené odosielateľom až po hranice štátu, ktorý má ťažkosti, ale nie ďalej,
 
-          - 1. až po jeho hranice, alebo
+        - b) zásielky určené do každého z týchto štátov musí povinne vyplatiť odosielateľ až po hranice štátu, ktorý má ťažkosti, ale nie ďalej,
 
-          - 2. najmenej až po jeho hranice;
+        - c) zásielky do a zo štátu, ktorý má ťažkosti, nesmú sa zaťažiť ani dobierkami ani preddavkami, alebo že tieto sú dovolené len do určených súm,
 
-        - b) zásielky do tohto štátu
+        - d) odosielateľ nesmie zmeniť prepravnú zmluvu, pokiaľ ide o krajinu určenia, výplatný zoznam a dobierku.
 
-          - 1. musia byť vyplatené najmenej až po jeho hranice, ak odosielací štát nepoužije obmedzenie podľa písmena a) bodu 1, alebo
+      - § 2 Za podmienok ustanovených v § 1 a so splnomocnením svojich vlád sa môžu železnice, ktoré majú vzťahy so železnicou štátu nachádzajúceho sa v ťažkosťiach, dohodnúť o odchýlkach z článkov 15, 17, 30 a 31 vo vzájomnej preprave so železnicou štátu, ktorý má ťažkosti.
 
-          - 2. smú sa vyplatiť najviac po jeho hranice;
-
-        - c) na zásielkach z tohto štátu alebo do tohto štátu nesmie viaznuť dobierka a že preddavky nie sú prípustné alebo že dobierky a preddavky sa pripúšťajú len do určitej výšky;
-
-        - d) odosielateľ nesmie zmeniť prepravnú zmluvu, pokiaľ ide o krajinu určenia, výplatný záznam a o dobierku.
-
-      - § 2 Za rovnakých podmienok môžu štáty splnomocniť železnice, aby sa odchýlili od článkov 15, 17, 30 a 31 ustanovením vo vzájomnej preprave, že
-
-        - a) ustanovenie o platení prepravného sa ustanoví osobitnou dohodou medzi zúčastnenými železnicami; táto dohoda nesmie obsahovať spôsob platenia, ktorý podľa článku 15 nie je dovolený;
-
-        - b) určité dodatočné príkazy nie sú dovolené.
+      - O takej odchýlke rozhodne dvojtretinová väčšina železníc, ktoré majú vzťahy so železnicou štátu nachádzajúceho sa v ťažkostiach.
 
       - § 3 Opatrenia vykonané podľa § 1 a 2 sa oznámia Ústrednému úradu.
 
@@ -1279,6 +1133,8 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
         - Opatrenia uvedené v § 2 nadobúdajú platnosť najskôr po uplynutí lehoty dvoch dní počítanej odo dňa ich uverejnenia v zúčastnených štátoch.
 
       - § 4 Zásielky na ceste nie sú týmito opatreniami dotknuté.
+
+      - § 5 Bez ohľadu na ustanovenia tohto článku, môže každý štát prijať jednostranné opatrenia podľa článku 3, § 4 písmena b).
 
     - Článok 66 Odchýlky
 

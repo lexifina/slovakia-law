@@ -214,8 +214,6 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
         - § 2 Medzinárodné tarify môžu za určitých podmienok pripustiť na prepravu ako cestovné batožiny zvieratá a predmety neuvedené v § 1, najmä sprevádzané motorové vozidlá podané na prepravu s prívesom alebo bez prívesu.
 
-        - § 3 Tarify alebo cestovné poriadky môžu vylúčiť alebo obmedziť prepravu cestovných batožín v určitých vlakoch alebo v určitých druhoch vlakov.
-
       - Článok 18 Predmety vylúčené z prepravy
 
         - § 1 Ako cestovné batožiny sú z prepravy vylúčené:
@@ -232,23 +230,15 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
       - Článok 19 Prijatie a preprava cestovných batožín
 
-        - § 1 Cestovná batožina sa podáva na prepravu len po predložení cestovného lístka, ktorý platí najmenej do stanice určenia cestovnej batožiny, a to po prepravnej ceste vyznačenej v cestovnom lístku.
+        - §1 Pokiaľ medzinárodné tarify vopred neustanovujú výnimku, je cestovná batožina odbavená len po predložení cestovného lístka platného najmenej až do stanice určenia cestovnej batožiny. Ak tarify dovoľujú podaj cestovnej batožiny bez predloženia cestovného lístka, platia ustanovenia Jednotných právnych predpisov o právach a povinnostiach cestujúceho, pokiaľ ide o cestovné batožiny, primerane pre odosielateľa cestovnej batožiny.
 
-          - Ak cestovný lístok platí po niekoľkých cestách alebo ak je v mieste určenia niekoľko staníc, cestujúci musí presne označiť prepravnú cestu alebo stanicu, do ktorej zásielku na prepravu podáva. Železnica nezodpovedá za následky nedodržania tohto ustanovenia cestujúcim.
+        - § 2 Železnica si ponechá možnosť prepraviť cestovnú batožinu inou než cestujúcim použitou cestou. V stanici podania, ako aj v prípojných staniciach, v ktorých sa musí cestovná batožina preložiť, nasleduje preprava nasledujúcim, pre pravidelnú prepravu cestovných batožín určeným vlakom. Cestovné batožiny sa môžu uvedeným spôsobom prepravovať len vtedy, ak tomu pri odchode alebo po ceste nebránia colné alebo iné predpisy.
 
-        - § 2 Ak to tarify dovoľujú, cestujúci môže v dobe platnosti cestovného lístka podať na prepravu cestovnú batožinu priamo pre celú trať alebo pre ktorýkoľvek úsek celej trate.
+        - § 3 Pokiaľ medzinárodné tarify neustanovujú žiadnu výnimku, musí sa dovozné za batožiny zaplatiť pri podaji.
 
-        - § 3 Tarify ustanovujú či a za akých podmienok sa môžu cestovné batožiny podávať na prepravu bez predloženia cestovných lístkov alebo po inej ceste, než ktorá je vyznačená na predloženom cestovnom lístku. Ak tarify dovoľujú podaj cestovných batožín na prepravu bez predloženia cestovného lístka, ustanovenia Jednotných právnych predpisov o právach a povinnostiach cestujúceho platia, pokiaľ ide o cestovné batožiny, primerane pre odosielateľa cestovnej batožiny.
+        - § 4 Tarify alebo cestovné poriadky môžu prepravu cestovných batožín v určitých vlakoch alebo druhoch vlakov alebo do a z určitých železničných staníc vylúčiť alebo obmedziť.
 
-        - § 4 Dovozné za batožiny sa platí pri podaji.
-
-        - § 5 Inak pre podaj cestovnej batožiny na prepravu platia predpisy platné v podacej stanici.
-
-        - § 6 Cestujúci môže v súlade s predpismi platnými v podacej stanici určiť vlak, ktorým sa má jeho cestovná batožina odoslať. Ak cestujúci nevyužije toto oprávnenie, prepraví sa jeho batožina najbližším vhodným vlakom.
-
-          - Ak sa cestovná batožina musí v prípojnej stanici prekladať, prepraví sa ďalej najbližším vlakom určeným na pravidelnú prepravu batožín.
-
-          - Cestovné batožiny sa môžu uvedeným spôsobom prepravovať iba vtedy, ak pri odchode alebo na ceste tomu nebránia colné predpisy alebo iné predpisy orgánov štátnej správy.
+        - § 5 Pokiaľ sa podaj cestovných batožín nerieši v tomto článku, platia predpisy platné v podacej stanici.
 
       - Článok 20 Batožinový lístok
 
@@ -264,7 +254,7 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
           - b) prepravnú cestu;
 
-          - c) deň podaja na prepravu a vlak, ktorým sa má batožina odoslať;
+          - c) deň a hodina podania,
 
           - d) počet cestujúcich;
 
@@ -344,7 +334,7 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
         - § 3 Každý nárok na návratok podľa predchádzajúcich paragrafov a podľa článku 10 § 1 písmeno b) zaniká, až sa na železnici neuplatnil v lehote šiestich mesiacov. Táto lehota sa začína pri cestovných lístkoch dňom nasledujúcim po dni uplynutia lehoty ich platnosti a pri batožinových lístkoch dňom ich vyhotovenia.
 
-        - § 4 V prípade nesprávneho použitia tarify alebo ak dôjde k omylu pri výpočte alebo vybraní prepravnej ceny alebo iných výdavkov, železnica je povinná preplatok vrátiť alebo sa jej musí zaplatiť nedoplatok len vtedy, ak prevyšuje pri každom cestovnom lístku alebo batožinovom lístku 1 zúčtovaciu jednotku.
+        - § 4 V prípade nesprávneho použitia tarify, alebo ak dôjde k omylu pri výpočte alebo vybraní prepravnej ceny a iných výdavkov, je železnica povinná vrátiť preplatok alebo sa jej musí zaplatiť nedoplatok len vtedy, ak prevyšuje pri každom cestovnom lístku alebo batožinovom lístku dve zúčtovacie jednotky.
 
         - § 5 Na výpočet sumy návratku alebo doplatku sa použije úradný prepočítací kurz zo dňa, keď sa cestovné alebo dovozné vybralo. Ak sa platí v inej mene, než v ktorej sa cestovné alebo dovozné vybralo, použije sa prepočítací kurz zo dňa výplaty.
 
@@ -458,7 +448,7 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
         - § 1 Pri úplnej alebo čiastočnej strate cestovnej batožiny je železnica povinná bez ďalšej náhrady škody zaplatiť:
 
-          - a) ak je výška škody dokázaná, sumu vo výške tejto škody, najviac však 34 zúčtovacích jednotiek za každý chýbajúci kilogram hrubej hmotnosti alebo 500 zúčtovacích jednotiek za každý kus batožiny;
+          - a) ak je výška škody dokázaná, sumu vo výške tejto škody, najviac však 40 zúčtovacích jednotiek za každý chýbajúci kilogram hrubej hmotnosti alebo 600 zúčtovacích jednotiek za každý kus batožiny.
 
           - b) ak nie je výška škody dokázaná, paušálnu sumu 10 zúčtovacích jednotiek za každý chýbajúci kilogram hrubej hmotnosti alebo 150 zúčtovacích jednotiek za každý kus batožiny.
 
@@ -500,9 +490,9 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
         - § 2 Ak sa oprávnený vzdá pri oneskorenej nakládke z dôvodu na strane železnice vykonania prepravnej zmluvy, vráti sa mu prepravné za prepravu vozidla a cestovné za cestujúcich. Ak preukáže, že týmto omeškaním vznikla škoda, môže okrem toho žiadať náhradu, ktorej výška nesmie prekročiť prepravné za prepravu vozidla.
 
-        - § 3 Pri úplnej alebo čiastočnej strate vozidla sa oprávnenému vypočíta náhrada za preukázanú škodu podľa zostatkovej hodnoty vozidla, ktorá nesmie presahovať 4000 zúčtovacích jednotiek. Vozidlom sa rozumie aj príves s nákladom alebo bez nákladu.
+        - § 3 Pri úplnej alebo čiastočnej strate vozidla sa oprávnenému vypočíta náhrada za preukázanú škodu podľa zostatkovej hodnoty vozidla, ktorá nesmie presahovať 8000 zúčtovacích jednotiek. Vozidlom sa rozumie aj príves s nákladom alebo bez nákladu.
 
-        - § 4 Za škodu na predmetoch ponechaných vo vozidle železnica zodpovedá len v prípade, že ju zavinila. Celková náhrada škody nesmie presahovať 700 zúčtovacích jednotiek.
+        - § 4 Celková náhrada škody nesmie presahovať 1000 zúčtovacích jednotiek.
 
           - Za predmety ponechané na vozidle železnica nezodpovedá.
 
@@ -522,7 +512,7 @@ Dodatok A k Dohovoru o medzinárodnej železničnej preprave (COTIF) z 9. mája 
 
         - § 2 Pri náhradách škôd podľa článkov 27 a 28 sa však úroky počítajú až odo dňa, keď nastali okolnosti rozhodujúce pre výpočet náhrady škody, pokiaľ je tento deň neskorší než deň reklamácie alebo podania žaloby.
 
-        - § 3 Pri cestovných batožinách sa môžu úroky požadovať iba vtedy, ak náhrada presahuje 4 zúčtovacie jednotky na každý batožinový lístok.
+        - § 3 Pri cestovných batožinách sa môžu úroky požadovať len vtedy, ak náhrada presahuje 8 zúčtovacích jednotiek na každý batožinový lístok.
 
         - § 4 Ak oprávnený nepredloží železnici pri cestovnej batožine doklady potrebné na konečné vybavenie reklamácie v primeranej lehote, ktorá sa mu poskytla, zastavuje sa plynutie lehoty na výpočet úrokov od uplynutia tejto lehoty až do predloženia týchto dokladov.
 
