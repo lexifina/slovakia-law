@@ -8,6 +8,6 @@
 
 (4) Ak správca dane príslušný na rozhodnutie v daňovom konaní nemôže vo veci rozhodnúť v lehote do 60 dní, je povinný o tom písomne s uvedením dôvodov upovedomiť daňový subjekt.
 
-(5) Ak správca dane príslušný na rozhodnutie v daňovom konaní je v tomto konaní nečinný a nerozhodne ani v lehotách ustanovených v odsekoch 1 a 3 a nápravu nemožno dosiahnuť inak a povaha veci to nevylučuje, je príslušný vo veci rozhodnúť orgán najbližšie nadriadený správcovi dane. V prípade nečinnosti pracovníka správcu dane je za ustanovených podmienok povinný vo veci rozhodnúť správca dane.
+(5) Ak správca dane príslušný na rozhodnutie v daňovom konaní je v tomto konaní nečinný a nerozhodne ani v lehotách ustanovených v odsekoch 1 a 3 a nápravu nemožno dosiahnuť inak a povaha veci to nevylučuje, je príslušný vo veci rozhodnúť orgán najbližšie nadriadený správcovi dane. V prípade nečinnosti zamestnanca správcu dane je za ustanovených podmienok povinný vo veci rozhodnúť správca dane.
 
 (6) Ustanovenia odsekov 2 až 5 sa vzťahujú aj na konanie o riadnych alebo mimoriadnych opravných prostriedkoch.

@@ -1,11 +1,13 @@
-# § 23a Sankcie za porušenie povinnosti zachovávať mlčanlivosť
+# § 23a
 
-(1) Za porušenie povinnosti zachovávať mlčanlivosť (§ 23), ak nejde o trestný čin, možno pracovníkovi správcu dane alebo tretej osobe, ktorá sa zúčastnila na daňovom konaní, uložiť pokutu až do výšky 50 000 Sk, a to podľa závažnosti porušenia tejto povinnosti, doby trvania a následkov protiprávneho konania.
+(1) Na účely podľa § 23 ods. 5 oznamuje alebo sprístupňuje daňové tajomstvo
 
-(2) Pokutu podľa odseku 1 ukladá pracovníkovi správcu dane alebo tretej osobe Ústredné daňové riaditeľstvo Slovenskej republiky. Ak porušil povinnosť zachovávať mlčanlivosť pracovník Ústredného daňového riaditeľstva Slovenskej republiky alebo ústredného orgánu štátnej správy, pokutu ukladá ministerstvo.
+- a) riaditeľ daňového úradu alebo ním poverený zamestnanec,
 
-(3) Pokuty podľa odseku 1 sú príjmom štátneho rozpočtu.
+- b) riaditeľ ústredného riaditeľstva alebo ním poverený zamestnanec,
 
-(4) Uložením pokuty nie sú dotknuté ustanovenia osobitných predpisov o náhrade škody.
+- c) minister financií alebo ním poverený zamestnanec,
 
-(5) Na postup pri ukladaní pokuty podľa odseku 1 sa vzťahujú ustanovenia § 35 ods. 3, 5 a 6.
+- d) starosta obce alebo ním poverený zamestnanec.
+
+(2) Správca dane, ústredné riaditeľstvo a ministerstvo zodpovedajú za vytvorenie podmienok na zachovanie daňového tajomstva. To platí aj na využívanie a sprístupňovanie daňového tajomstva evidovaného pomocou výpočtovej techniky.
