@@ -1,0 +1,5 @@
+# Čl. V Náhrada mzdy pri krátkodobom uvoľnení
+
+- 1. Pracovníkom, ktorí boli krátkodobe uvoľnení na vykonanie úloh vyplývajúcich z ich odborovej funkcie v základnej organizácii, na schôdze aktívu konaných i mimo závodu, na konferencie a sjazdy alebo na vykonanie niektorých administratívno-technických prác, poskytuje náhradu mzdy závod vo výške priemerného zárobku, ktorý sa zisťuje podľa ustanovení § 275 Zákonníka práce a § 30 až 33 vládneho nariadenia č. 66/1965 Zb. Uvoľnenie na súvislú dobu dlhšiu ako jeden mesiac sa posudzuje ako dlhodobé uvoľnenie.
+
+- 2. Odborový orgán, z podnetu ktorého došlo ku krátkodobému uvoľneniu pracovníka, uhradí náhradu mzdy, ktorú tomuto pracovníkovi vyplatilo vedenie závodu, vrátane príslušnej sumy nemocenského poistenia. Povinnosť tejto úhrady odpadá, ak to ustanovujú osobitné predpisy, alebo keď uvoľnený pracovník sám alebo jeho spolupracovníci nahradia zameškanú prácu bez zvýšenia osobných nákladov; u funkcionárov základnej organizácie odpadá povinnosť úhrady aj vtedy, keď išlo o činnosť bezprostredne súvisiacu s úlohami závodu.
