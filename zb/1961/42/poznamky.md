@@ -1,1 +1,0 @@
-- *) Vyhláška č. 18/1963 Zb. o určení náhrady za vyvlastnenie nehnuteľností občanom a súkromným právnickým osobám.
