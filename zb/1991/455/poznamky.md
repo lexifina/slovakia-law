@@ -38,6 +38,8 @@
 
 - 9) § 11 a § 13 ods. 1 až 4 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní.
 
+- 9a) Zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov.
+
 - 10) Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
 - 11) § 1 ods. 1 písm. a) až d) zákona SNR č. 96/1991 Zb. o verejných kultúrnych podujatiach.
