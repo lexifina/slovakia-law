@@ -1030,6 +1030,40 @@ Dodatok k č. 213/2002 Z. z.
 
   - 2. alebo iná ním určená osoba
 
+  - Fabio Berardi (Segretario di Stato per gli Affari Esteri e Politici, la Programmazione Economica e la Giustizia)
+
+  - Loris Francini (Segretario di Stato per gli Affari Interni, la Protezione Civile e i Rapporti con le Giunte di Castello)
+
+  - Pier Marino Mularoni (Segretario di Stato per le Finanze, il Bilancio, i Trasporti e i Rapporti con ľ Azienda Autonoma di Stato Filarelica e Numismatica e ľ Azienda Autonoma di Stato per i Servizi Pubblici)
+
+  - Luciano Bollini (Coordinatore, Dipartimento Affari Esteri)
+
+  - Pietro Giacomini (Direttore Generale, Dipartimento Affari Esteri)
+
+  - Maria Lea Pedini (Direttore degli Affari Culturali e Informazione, Dipartimento Affari Esteri)
+
+  - Savina Zafferani (Collaboratore nella Direzione degli Affari Economici e Sociali, Dipartimento Affari Esteri)
+
+  - Maria Alessandra Albertini (Incaricata della gestione della Direzione Affari Politici, Dipartimento Affari Esteri)
+
+  - Dario Galassi (Collaboratore nella Direzione degli Affari Politici e nella Direzione degli Affari Economici e Sociali, Dipartimento Affari Esteri)
+
+  - Luca Brandi (Incaricato della gestione della Direzione dei Rapporti con le Comunitŕ alľ estero e della Direzione Affari Politici, Dipartimento Affari Esteri)
+
+  - Marcello Beccari (Incaricato della gestione del Cerimoniale dello Stato, Dipartimento Affari Esteri)
+
+  - Corrado Carattoni (Incaricato della gestione del Cerimoniale dello Stato, Dipartimento Affari Esteri)
+
+  - Silvia Berti (Segretario d' Ambasciata, Dipartimento Affari Esteri)
+
+  - Eros Gasperoni (Segretario d' Ambasciata, Dipartimento Affari Esteri)
+
+  - Giovanna Crescentini (Dirigente Segretaria Istituzionale, Dipartimento Affari Interni)
+
+  - Domenico Gasperoni (Dirigente Segretaria Esecutiva, Dipartimento Affari Interni)
+
+  - Lucio Leopoldo Daniele (Avvocato dello Stato Dirigente, Dipartimento Affari Interni)
+
     - Seychely
 
   - 1. minister zodpovedný za zahraničné veci alebo iná ním úradne poverená osoba
@@ -1544,11 +1578,13 @@ Dodatok k č. 213/2002 Z. z.
 
   - 7. The Solicitor General.
 
-    - Svätý Vincent a Grenadíny
+    - Sv. Vincent a Grenadíny
 
   - 1. „The Permanent Secretary, Ministry of Foreign Affairs“,
 
   - 2. „The Registrar, High Court“.
+
+  - 3. „The Senior Crown Counsel, The Ministry of Legal Affairs“
 
     - Španielsko
 
