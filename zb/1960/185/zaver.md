@@ -1,3 +1,0 @@
-Minister:
-
-Uher v. r.
