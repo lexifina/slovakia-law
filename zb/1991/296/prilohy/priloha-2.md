@@ -536,9 +536,9 @@
 
         - Pravidlá 10 a 11.1 až 11.13 sa vzťahujú aj na každý doklad – napríklad na opravené stránky, upravené nároky, preklady predložené po podaní medzinárodnej prihlášky.
 
-    - Pravidlo 12 Jazyk medzinárodnej prihlášky a preklad na účely medzinárodnej rešerše
+    - Pravidlo 12 Jazyk medzinárodnej prihlášky a preklad na účely medzinárodnej rešerše a medzinárodného zverejnenia
 
-      - 12.1 Jazyky prípustné pri podaní medzinárodnej prihlášky
+      - 12.1 Prípustné jazyky pri podaní medzinárodnej prihlášky
 
         - (a) Medzinárodná prihláška sa musí podať v niektorom z jazykov, ktorý prijímací úrad pripúšťa na tento účel.
 
@@ -548,7 +548,7 @@
 
           - (ii) jazykom, v ktorom sa má prihláška zverejniť;
 
-        - (c) Bez ohľadu na odsek (a) sa žiadosť musí podať v jazyku, ktorý pripúšťa prijímací úrad podľa tohto odseku a v ktorom sa má prihláška zverejniť.
+        - (c) Napriek odseku (a) sa žiadosť podáva v akomkoľvek jazyku zverejnenia, ktorý pripúšťa prijímací úrad na účely tohto odseku.
 
         - (d) Bez ohľadu na odsek (a) sa musí každý text obsiahnutý v časti opisu s výpisom sekvencií podľa pravidla 5.2(a) podať v súlade so štandardom uvedeným v Administratívnej smernici.
 
@@ -556,9 +556,9 @@
 
         - (a) Každá zmena v medzinárodnej prihláške musí byť v jazyku, v ktorom bola podaná prihláška, s výnimkou pravidiel 46.3, 55.3 a 66.9.
 
-        - (b) Každá oprava zrejmej chyby v medzinárodnej prihláške podľa pravidla 91.1 musí byť v jazyku, v ktorom bola podaná prihláška, s tým, že:
+        - (b) Akákoľvek oprava zrejmej chyby podľa pravidla 91.1 v medzinárodnej prihláške je v jazyku, v ktorom je podaná prihláška, za predpokladu, že:
 
-          - (i) tam, kde sa vyžaduje preklad medzinárodnej prihlášky podľa pravidiel 12.3(a), 48.3(b) alebo 55.2(a), opravy podľa pravidla 91.1(e)(ii) a (iii) musia byť podania v jazyku prihlášky, ako aj v jazyku prekladu;
+          - (i) ak sa vyžaduje preklad medzinárodnej prihlášky podľa pravidla 12.3(a), 12.(4) alebo 55.2(a), opravy, ktoré odkazujú na pravidlo 91.1(e)(ii) a (iii), sa podajú v obidvoch jazykoch, v jazyku prihlášky a v jazyku prekladu;
 
           - (ii) tam, kde sa vyžaduje preklad žiadosti podľa pravidla 26.3ter(c), môžu sa potrebné úpravy podľa pravidla 91.1(e)(i) podať iba v jazyku prekladu.
 
@@ -584,7 +584,19 @@
 
         - (d) Ak prijímací úrad zaslal prihlasovateľovi výzvu podľa odseku (c) a prihlasovateľ nepredložil v lehote stanovenej podľa odseku (c)(ii) požadovaný preklad a nezaplatil žiadny poplatok požadovaný za oneskorené predloženie, medzinárodná prihláška sa bude považovať za späťvzatú a prijímací úrad o tom vydá uznesenie. Každý preklad a každá platba, ktoré prijímací úrad dostane pred vydaním uznesenia v zmysle predchádzajúcej vety a pred uplynutím 15 mesiacov od dátumu priority, budú sa považovať za prijaté pred uplynutím tejto lehoty.
 
-        - (e) Za predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad požadovať vo svoj prospech zaplatenie poplatku za oneskorené predloženie vo výške 50 % základného poplatku.
+        - (e) Predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad spoplatniť za neskoré predloženie vo svoj prospech, pričom sa jeho výška rovná 50 % základného poplatku uvedeného v bode 1(a) sadzobníka poplatkov.
+
+      - 12.4 Preklad na účely medzinárodného zverejnenia
+
+        - (a) Ak jazyk, v ktorom je podaná medzinárodná prihláška, nie je jazykom zverejnenia a preklad sa nevyžiadal podľa pravidla 12.3(a), prihlasovateľ musí prijímaciemu úradu zaslať preklad medzinárodnej prihlášky v akomkoľvek jazyku zverejnenia, ktorý pripúšťa na účely tohto odseku, v rámci 14 mesiacov od dátumu prednosti.
+
+        - (b) Odsek (a) sa neaplikuje na žiadosť ani na časť výpisu sekvencií opisu.
+
+        - (c) Ak prihlasovateľ nepredložil v rámci lehoty uvedenej v odseku (a) požadovaný preklad podľa tohto odseku, prijímací úrad vyzve prihlasovateľa, aby zaslal požadovaný preklad a zaplatil, kde sa to vyžaduje, poplatok za neskoré predloženie, ktorý sa vyžaduje podľa odseku (e) v rámci lehoty 16 mesiacov od práva prednosti. Akýkoľvek preklad prijatý prijímacím úradom pred zaslaním výzvy úradu podľa predchádzajúcej vety sa považuje za prijatý pred uplynutím lehoty podľa odseku (a).
+
+        - (d) Ak prihlasovateľ nepredložil v rámci lehoty podľa odseku (c) požadovaný preklad a nezaplatil požadovaný poplatok, medzinárodná prihláška sa považuje za späťvzatú, čo prijímací úrad aj vyhlási. Preklad a poplatok prijaté prijímacím úradom pred vykonaním vyhlásenia úradu podľa predchádzajúcej vety a pred uplynutím 17 mesiacov od dátumu práva prednosti sa považujú za predložené pred uplynutím tejto lehoty.
+
+        - (e) Predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad spoplatniť za neskoré predloženie vo výške 50 % základného poplatku uvedeného v bode 1(a) sadzobníka poplatkov vo svoj prospech.
 
     - PRAVIDLO 13 JEDNOTNOSŤ VYNÁLEZU
 
@@ -986,7 +998,7 @@
 
         - (c) Ak sa medzinárodná prihláška podá v menšom počte vyhotovení, než predpisuje pravidlo 11.1 (b), je prijímací úrad zodpovedný za prípravu potrebného počtu vyhotovení bez zbytočného odkladu a má právo určiť poplatok za tento úkon a vybrať ho od prihlasovateľa.
 
-    - PRAVIDLO 22 Odovzdanie archívnej kópie
+    - Pravidlo 22 Odovzdanie archívnej kópie a prekladu
 
       - 22.1 Postup
 
@@ -1010,7 +1022,7 @@
 
         - (g) Ak ku dňu uplynutia príslušnej lehoty podľa článku 22 prihlasovateľ vykoná úkony podľa uvedeného článku, ale určený úrad nedostane od Medzinárodného úradu správu o tom, že došlo archívne vyhotovenie, určený úrad to oznámi Medzinárodnému úradu. Pokiaľ Medzinárodný úrad nemá archívne vyhotovenie, oznámi to bez zbytočného odkladu prihlasovateľovi a prijímaciemu úradu, ibaže tak už urobil podľa odseku (c).
 
-        - (h) Ak sa má medzinárodná prihláška zverejniť v jazyku prekladu dodaného podľa pravidla 12.3, tento preklad musí prijímací úrad odovzdať Medzinárodnému úradu spolu s archívnou kópiou podľa odseku (a), alebo ak už prijímací úrad odovzdal archívnu kópiu Medzinárodnému úradu podľa tohto odseku, ihneď po prijatí prekladu.
+        - (h) Ak je medzinárodná prihláška zverejnená v jazyku prekladu predloženého podľa pravidla 12.3 alebo 12.4, prijímací úrad musí zaslať tento preklad Medzinárodnému úradu spolu s archívnou kópiou podľa odseku (a) alebo ihneď po prijatí prekladu, ak prijímací úrad už zaslal archívnu kópiu Medzinárodnému úradu podľa tohto odseku.
 
       - 22.2 zrušené
 
@@ -1056,7 +1068,7 @@
 
         - Orgán pre medzinárodnú rešerš oznámi bez zbytočného odkladu Medzinárodnému úradu, prihlasovateľovi, a pokiaľ orgán pre medzinárodnú rešerš nie je totožný s prijímacím úradom, tiež prijímaciemu úradu, že rešeršové vyhotovenie došlo, a dátum, keď došlo.
 
-    - PRAVIDLO 26 Preskúmanie a oprava niektorých častí medzinárodnej prihlášky prijímacím úradom
+    - Pravidlo 26 Preskúmanie a oprava niektorých častí medzinárodnej prihlášky prijímacím úradom
 
       - 26.1 Lehota pre preskúmanie
 
@@ -1076,11 +1088,11 @@
 
           - (ii) každý preklad predložený podľa pravidla 12.3 s prihliadnutím na vonkajšiu úpravu podľa pravidla 11 iba v rozsahu nevyhnutnom na účely dobrej reprodukcie.
 
-        - (b) Ak sa medzinárodná prihláška podala v jazyku, ktorý nie je jazykom zverejnenia, prijímací úrad preskúma:
+        - (b) Ak je medzinárodná prihláška podaná v jazyku, ktorý nie je jazykom zverejnenia, prijímací úrad preskúma:
 
           - (i) medzinárodnú prihlášku s prihliadnutím na vonkajšiu úpravu podľa pravidla 11 iba v rozsahu nevyhnutnom na účely dobrej reprodukcie;
 
-          - (ii) každý preklad predložený podľa pravidla 12.3 a výkresy s prihliadnutím na vonkajšiu úpravu podľa pravidla 11 v rozsahu nevyhnutnom na účely primeranej jednotnosti medzinárodného zverejnenia.
+          - (ii) každý preklad predložený podľa pravidla 12.3 alebo 12.4 a výkresy v súlade s požiadavkami na vonkajšiu úpravu podľa pravidla 11 iba v rozsahu nutnom na účely primeranej jednotnosti medzinárodného zverejnenia.
 
       - 26.3bis Výzva podľa článku 14(1)(b) na opravu nedostatkov podľa pravidla 11
 
@@ -1170,7 +1182,7 @@
 
       - 29.1 Zistenie prijímacím úradom
 
-        - (a) Ak prijímací úrad vydá uznesenie podľa článku 14(1)(b) a pravidla 26.5 (opomenutie opravy určitých nedostatkov) alebo podľa článku 14(3)(a) [nezaplatenie predpísaných poplatkov podľa pravidla 27.1(a)], alebo podľa článku 14(4) [neskoršie zistenie, že neboli splnené požiadavky podľa bodov (i) až (iii) článku 11(1)], alebo podľa pravidla 12.3(d) (nepredloženie požadovaného prekladu alebo prípadne nezaplatenie poplatku za neskorú platbu), alebo podľa pravidla 92.4(g)(i) (nepredloženie originálu dokladu), taká medzinárodná prihláška sa považuje za späťvzatú:
+        - (a) Ak prijímací úrad vyhlási podľa článku 14(1)(b) a pravidla 26.5, že nebola vykonaná oprava zrejmých chýb, alebo podľa článku 14(3)(a), že neboli zaplatené predpísané poplatky podľa pravidla 27.1(a), alebo podľa článku 14.4, že sa neskoro zistil nesúlad s požiadavkami uvedenými v bodoch (i) až (iii) článku 11(1), alebo podľa pravidla 12.3(d) alebo 12.4(d), že nebol predložený požadovaný preklad, alebo ak sa to vyžaduje, zaplatený poplatok za neskoré predloženie, alebo podľa pravidla 92.4(g)(i), že nebol predložený originál dokumentov, takáto medzinárodná prihláška sa považuje za späťvzatú:
 
         - (i) odovzdá archívne vyhotovenia (pokiaľ sa už neodovzdalo) a každú opravu navrhnutú prihlasovateľom Medzinárodnému úradu;
 
@@ -1550,7 +1562,7 @@
 
         - V prípade podania výslovnej žiadosti prihlasovateľa na určenom úrade podľa ustanovení článku 23 (2) predtým, než došlo k postúpeniu podľa ustanovení článku 20, musí Medzinárodný úrad na žiadosť prihlasovateľa alebo určeného úradu ihneď uskutočniť toto postúpenie tomuto úradu.
 
-    - PRAVIDLO 48 MEDZINÁRODNÉ ZVEREJNENIE
+    - Pravidlo 48 Medzinárodné zverejnenie
 
       - 48.1 Forma
 
@@ -1612,7 +1624,7 @@
 
         - (a-bis) Ak sa medzinárodná prihláška nepodáva v jazyku zverejnenia a predložil sa preklad do jazyka zverejnenia podľa pravidla 12.3, prihláška sa zverejní v jazyku prekladu.
 
-        - (b) Ak sa medzinárodná prihláška podáva v jazyku, ktorý nie je jazykom zverejnenia, a nevyžaduje sa preklad do jazyka zverejnenia podľa pravidla 12.3(a), prihláška sa zverejní v anglickom preklade. Za vykonanie prekladu nesie zodpovednosť orgán pre medzinárodnú rešerš, ktorého povinnosťou je mať preklad v predpísanej lehote, alebo ak sa uplatní článok 64(3)(b), mohlo dôjsť k postúpeniu podľa článku 20 pred uplynutím 19 mesiacov od dátumu priority. Bez ohľadu na pravidlo 16.1(a) môže orgán pre medzinárodnú rešerš prihlasovateľovi účtovať poplatok za vykonanie prekladu. Medzinárodný rešeršný orgán poskytne prihlasovateľovi možnosť pripomienkovať návrh prekladu. Na vyjadrenie stanoví orgán pre medzinárodnú rešerš podľa okolností primeranú lehotu. Ak nemožno vziať vyjadrenie do úvahy pre nedostatok času pred postúpením prekladu alebo ak prihlasovateľ a uvedený orgán majú na správnosť prekladu rôzny názor, môže prihlasovateľ zaslať kópiu svojho vyjadrenia alebo jeho nevybavenú časť Medzinárodnému úradu a každému určenému úradu, ktorému sa preklad postúpil. Medzinárodný úrad zverejní relevantné vyjadrenia buď súčasne s prekladom orgánu pre medzinárodnú rešerš, alebo dodatočne.
+        - (b) Ak nie je medzinárodná prihláška podaná v jazyku zverejnenia a podľa pravidla 12.3 alebo 12.4 bol predložený preklad v jazyku zverejnenia, prihláška sa zverejní v jazyku prekladu.
 
         - (c) Ak je medzinárodná prihláška zverejnená v inom jazyku než anglickom, zverejní sa medzinárodná rešeršová správa v rozsahu podľa pravidla 48.2 (a) (v) alebo rozhodnutie podľa článku 17 (2) (a), názov vynálezu, anotácia a všetky texty k obrázku alebo obrázkom v anotácii tak v tomto jazyku, ako aj v angličtine. Za vyhotovenie prekladu nesie zodpovednosť Medzinárodný úrad.
 
@@ -1634,7 +1646,7 @@
 
         - (c) Ak sú medzinárodná prihláška, určenie niektorého určeného štátu alebo uplatnené priority odvolané podľa ustanovenia pravidla 90 bis po tom, čo sa skončili prípravy na medzinárodné zverejnenie, publikuje sa vo Vestníku oznámenie o späťvzatí.
 
-    - PRAVIDLO 49 VYHOTOVENIE, PREKLAD A POPLATKY PODĽA ČLÁNKU 22
+    - Pravidlo 49 Vyhotovenie, preklad a poplatky podľa článku 22
 
       - 49.1 Oznámenie
 
@@ -1699,6 +1711,30 @@
         - (k) Ak názov určil orgán pre medzinárodnú rešerš podľa ustanovenia pravidla 37.2, musí preklad obsahovať takto určený názov.
 
         - (l) Ak k dátumu 12. júla 1991 nie je odsek (c-bis) alebo odsek k) zlučiteľný s národným zákonodarstvom prijímacieho úradu, nebude sa príslušný odsek aplikovať na tento prijímací úrad, pokiaľ bude nezlučiteľnosť s týmto zákonodarstvom pokračovať, a ak spomenutý úrad o tom informuje Medzinárodný úrad do 31. decembra 1991. Došlé oznámenie ihneď Medzinárodný úrad zverejní vo Vestníku.
+
+      - 49.6 Uvedenie do predošlého stavu, ak boli zmeškané úkony podľa článku 22.
+
+        - (a) Ak medzinárodná prihláška stratila účinok stanovený v článku 11(3), pretože prihlasovateľ zmeškal príslušnú lehotu na vykonanie úkonov podľa článku 22, určený úrad na základe žiadosti prihlasovateľa a s výhradou odsekov (b) až (e) tohto pravidla navráti práva prihlasovateľovi tejto medzinárodnej prihlášky, ak zistí, že akékoľvek zmeškanie stanovenej lehoty bolo neúmyselné, alebo ak podľa stanoviska určeného úradu došlo k zmeškaniu stanovenej lehoty aj napriek náležitej starostlivosti, ktorú si vyžadovali dané okolnosti.
+
+        - (b) Žiadosť podľa odseku (a) sa zašle určenému úradu a úkony podľa článku 22 sa vykonajú v rámci týchto lehôt podľa toho, ktorá uplynie skôr:
+
+          - (i) dva mesiace od dátumu odstránenia príčiny zmeškania príslušnej lehoty podľa článku 22; alebo
+
+          - (ii) 12 mesiacov od dátumu uplynutia príslušnej lehoty podľa článku 22;
+
+        - za predpokladu, že prihlasovateľ môže zaslať žiadosť v ktorejkoľvek neskoršej lehote, ak to dovoľuje národný zákon príslušného určeného úradu.
+
+        - (c) V žiadosti podľa odseku (a) sa uvedú dôvody zmeškania stanovenej lehoty podľa článku 22.
+
+        - (d) Národný zákon platný pre určený úrad môže vyžadovať:
+
+          - (i) zaplatenie poplatku za žiadosť podľa odseku (a);
+
+          - (ii) vyhlásenie alebo predloženie iného dôkazu na podporu dôvodu uvedeného v odseku (a).
+
+        - (e) Určený úrad neodmietne žiadosť podľa odseku (c) bez toho, aby prihlasovateľovi nedal možnosť vyjadriť sa k zamýšľanému odmietnutiu v primeranej lehote v závislosti od okolností.
+
+        - (f) Ak k 1. októbru 2002 odseky (a) až (e) nie sú v súlade s platným národným zákonom, nebudú sa vzhľadom na určený úrad uplatňovať dovtedy, kým nebudú v súlade s týmto zákonom, za predpokladu, že uvedený úrad bude o tom informovať Medzinárodný úrad do 1. januára 2003. Medzinárodný úrad prijatú informáciu okamžite zverejní vo vestníku.
 
   - PRAVIDLO 50
 
