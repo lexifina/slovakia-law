@@ -14,7 +14,13 @@
 
 - Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 12/1973, ktorým sa vydáva úplné znenie Poriadku pre výkon trestu odňatia slobody v nápravnovýchovných ústavoch (reg. čiastka 2/1974 Zb.), v znení rozkazov č. 11/1975 a č. 4/1976.
 
-- 3a) Zákon Národnej rady Slovenskej republiky č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+- 3a) § 15 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+
+- 3b) § 51 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
+- 3c) § 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
+
+- 3d) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
