@@ -148,4 +148,26 @@ ZBRANE, STRELIVO A ICH ČASTI | |
 
 9306 | bomby, granáty, míny, torpéda, riadené strely atď. | Kčs
 
+VÝROBKY CHEMICKÉHO PRIEMYSLU A PRÍBUZNÝCH PRIEMYSELNÝCH ODVETVÍ VČÍTANE FARMACEUTICKÝCH VÝROBKOV | |
+
+2935007 | ftalazol | kg
+
+2935007 | sulfadimidin | kg
+
+2939401 | efedrin HCL | kg
+
+2939703 | xantinol nikotín | kg
+
+2940001 | dextran 40 | tona
+
+2940001 | dextran 5 | tona
+
+2940001 | dextran 70 | tona
+
+3003,3004 | lieky | balenie
+
+BUNIČINA, PAPIER A VÝROBKY Z NICH | |
+
+473219,4703294, 4704215,4704291 | buničiny bielené | tis. ton
+
 [Příloha 03](../assets/78b2ec6cf773762f3495e2d2597a2a939e81ae7969b84c140a2ef11337b3d119.pdf)

@@ -127,5 +127,3 @@ EHS | - valcovaný materiál | 7208-7216, 7219-7222, 7225-7228, 7301 | tony
 Dohoda o živočíšnych výrobkoch: | | |
 
 EHS | - baranie a jahňacie mäso včítane živého | 0204, 0104 | tony
-
-[Příloha 04](../assets/bd319af8ad6f564a4eb5c7bed95c6f2a9a65ab3e015393aa8989a6c5ea030cdf.pdf)
