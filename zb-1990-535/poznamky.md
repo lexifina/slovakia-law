@@ -1,0 +1,1 @@
+- 1) Zákon č. 427/1990 Sb., o převodech vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby.
