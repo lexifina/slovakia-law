@@ -194,6 +194,8 @@ Zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení 
 
 - 20. V § 9 ods. 1 sa slovo „návratnosti“ nahrádza slovom „poskytnutia“.
 
+- 21. V § 10 ods. 3 sa číslo „20“ nahrádza číslom „15“ a na konci sa pripájajú slová „vložených na jednu zmluvu o stavebnom sporení“.
+
 - 22. V § 10 odsek 4 znie:
 
 - „(4)
@@ -205,6 +207,8 @@ Zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení 
 - „(5)
 
 - Stavebný sporiteľ môže práva zo zmluvy o stavebnom sporení previesť alebo spojiť s právami z inej zmluvy o stavebnom sporení, pri ktorej vznikol nárok na štátnu prémiu, iba s blízkou osobou,<sup>3d</sup>) a to len jeden raz v kalendárnom roku. Nárok na štátnu prémiu zostane zachovaný. Ak by práva zo zmluvy o stavebnom sporení previedol viackrát, alebo na inú blízku osobu,<sup>3d</sup>) stráca nárok na štátnu prémiu za tento rok zo všetkých zmlúv o stavebnom sporení.“.
+
+- Doterajší odsek 5 sa označuje ako odsek 6.
 
 - Poznámka pod čiarou k odkazu 3d znie:
 
