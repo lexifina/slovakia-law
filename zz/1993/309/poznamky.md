@@ -10,6 +10,8 @@
 
 - 6) § 33 zákona č. 455/1991 Zb. o živnostenskom podnikaní.
 
+- 6a) § 1 vyhlášky Ministerstva financií Slovenskej republiky č. 186/1994 Z. z. o spôsobe použitia dokladov a vedení evidencií spojených s výrobou a obehom vína.
+
 - 7) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov (úplné znenie zákona č. 84/1987 Zb.).
 
 - 8) § 420 zákona č. 47/1992 Zb. Občiansky zákonník.
@@ -17,6 +19,10 @@
 - 9) § 115 Občianskeho zákonníka.
 
 - 10) § 116 Občianskeho zákonníka.
+
+- 10a) § 63 ods. 2 písm. b) Colného zákona.
+
+- 10b) § 36 a 50 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
 
 - 11) § 226 a nasl. Colného zákona.
 
