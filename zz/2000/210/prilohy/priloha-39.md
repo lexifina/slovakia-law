@@ -1,0 +1,3 @@
+Príloha č. 39 k vyhláške č. 210/2000 Z. z.
+
+- MERACIE ZARIADENIA NA MERANIE PLOŠNÉHO OBSAHU USNÍ [Príloha 39](../assets/81c46d98c0a234fec182b71b31bd344d370e49b80f5c37610f249d8d794845c6.pdf)
