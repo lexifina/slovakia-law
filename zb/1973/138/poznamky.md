@@ -30,7 +30,11 @@
 
 - 15) Zákon č. 41/1957 Zb. o využití nerastného bohatstva (banský zákon).
 
+- 15a) § 151n a nasl. Občianskeho zákonníka.
+
 - 16) Zákon č. 87/1958 Zb. o stavebnom poriadku a vykonávacie predpisy k nemu.
+
+- 16a) Vyhláška Federálneho ministerstva financií č. 122/1984 Zb. o náhradách pri vyvlastnení stavieb, pozemkov, porastov a práv k nim.
 
 - 17) Dosiaľ vládna vyhláška č. 120/1966 Zb. o ukladaní pokút za porušovanie povinností ustanovených na ochranu vôd pred znečisťovaním.
 
