@@ -1,16 +1,20 @@
 - 1) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Z. z. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 276/2001 Z. z.
 
+- 1a) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach.Zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon).
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 3) § 21 ods. 1 a ods. 4 písm. a) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
-- 4) Zákon č. 70/1998 Z. z. v znení zákona č. 276/2001 Z. z.Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení neskorších predpisov.
+- 4) Zákon č. 70/1998 Z. z. v znení zákona č. 276/2001 Z. z.Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení neskorších predpisov.Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach.".
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
 - 6) Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 6a) Zákon č. 283/2002 Z. z. o cestovných náhradách.
+
+- 6b) § 74 zákona č. 184/2002 Z. z.
 
 - 7) § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení zákona č. 276/2001 Z. z.
 
