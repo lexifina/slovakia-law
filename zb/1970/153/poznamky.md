@@ -1,0 +1,1 @@
+- *) § 4 ods. 1 zákona č. 70/1958 Zb. o úlohách podnikov a národných výborov na úseku starostlivosti o pracovné sily.
