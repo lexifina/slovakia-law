@@ -8,8 +8,6 @@ V obchodných veciach koná a rozhoduje krajský súd ako súd prvého stupňa v
 
 - c) z právnych vzťahov týkajúcich sa ochrany hospodárskej súťaže<sup>14</sup>) a nekalej súťaže,<sup>15</sup>)
 
-- d) z práv k predmetom priemyselného vlastníctva,
+- d) z práv k predmetom priemyselného vlastníctva upravených osobitnými predpismi,
 
-- e) o platnosti rozhodcovských zmlúv a o zrušenie rozhodcovských nálezov vydaných rozhodcami na základe rozhodcovskej zmluvy,<sup>23</sup>)
-
-- f) týkajúce sa námorných lodí, námornej plavby a právnych vzťahov s tým spojených.
+- e) týkajúce sa námorných lodí, námornej plavby a právnych vzťahov s tým spojených.
