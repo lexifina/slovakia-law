@@ -14,6 +14,8 @@
 
 - 8) Elektrotechnický zkušební ústav, Praha-Trója (ďalej len „EZÚ"), Ústav silniční a městské dopravy, Jánský vršek 13, Praha 1 (ďalej len „ÚSMD"), Ústav pro výskum motorových vozidiel, Lihovarská 12, Praha 9 (ďalej len „ÚVMV"), Výskumný ústav gumárenské a plastikářské technologie, Gottwaldov (ďalej len „VÚGPT").
 
+- 8a) Predpis EHK č. 13.Predpis KHK č. 51.Predpis EHK č. 83.
+
 - 9) Typy hasiacich prístrojov (§ 78) schvaľuje Ministerstvo vnútra ČSR - Halvná správa požiarnej ochrany alebo MInisterstvo vnútra SSR - Hlavná správa požiarnej ochrany podľa predpisov o požiarnej ochrane. tento orgán tiež ustanoví podrobnejšie podmienky týkajúce sa vyhotovenia, upevnenia na vozidle a kontroly hasiacich prístrojov.
 
 - 9a) Predpis EHK č. 67.
