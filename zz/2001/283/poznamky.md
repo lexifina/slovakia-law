@@ -92,6 +92,10 @@
 
 - 1) Opatrenie štatistického úradu Slovenskej republiky č. 299/1996 Z. z., ktorým sa ustanovujú číselníky územných jednotiek Slovenskej republiky.
 
+- 2) § 41 až 48 zákona č. 223/2001 Z. z. o odpadoch v znení zákona č. 96/2002 Z. z.
+
+- 3) § 62 ods. 1 a) zákona č. 223/2001 Z. z. o odpadoch.
+
 - 1) oxidovateľnosť s K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>
 
 - 2) aniónaktívne tenzidy prepočítané na dodecylsulfónan sodný

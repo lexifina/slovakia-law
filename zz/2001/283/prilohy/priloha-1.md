@@ -132,6 +132,8 @@ Príloha č. 1 k vyhláške č. 283/2001 Z. z.
 
   - 2.4.8 Orientačná kapacita prepraveného množstva odpadov za kalendárny rok v tonách
 
+  - 2.5 Vyhodnotenie predchádzajúceho programu.
+
   - 3 ZÁVÄZNÁ ČASŤ PROGRAMU
 
   - 3.1 Komodity pre záväznú časť programu kraja a programu okresu

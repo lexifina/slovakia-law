@@ -94,6 +94,8 @@ Príloha č. 2 k vyhláške č. 283/2001 Z. z.
 
   - 2.2.11 Množstvo zneškodňovaného odpadu za rok v tonách
 
+  - 2.3 Vyhodnotenie predchádzajúceho programu.
+
   - 3 ZÁVÄZNÁ ČASŤ PROGRAMU
 
   - 3.1 Komodity pre záväznú časť programu pôvodcu odpadu a programu obce

@@ -6,51 +6,51 @@ Príloha č. 4 k vyhláške č. 283/2001 Z. z. [Vzor 04](../assets/0b119990250df
 
 - V tomto tlačive sa uvádzajú sumárne údaje za uplynulý rok/štvrťrok podľa jednotlivých druhov odpadu a spôsobu nakladania s ním tak, že sa jedna kolónka tlačiva HLÁSENIE O VZNIKU ODPADU A NAKLADANÍ S NÍM vytvorí sčítaním všetkých údajov o množstvách odpadu v tlačive EVIDENČNÝ LIST ODPADU, ktorý má zhodný spôsob (kód) nakladania a zhodnú firmu okrem zhromažďovania.
 
-- Typ dokladu – uvádza sa podľa spôsobu nakladania s odpadom písmeno:
+- Typ dokladu - uvádza sa podľa spôsobu nakladania s odpadom písmeno:
 
-- P – pôvodca odpadu je právnická osoba alebo fyzická osoba oprávnená na podnikanie, ktorej činnosťou vzniká odpad.
+- P - pôvodca odpadu je právnická osoba alebo fyzická osoba oprávnená na podnikanie, ktorej činnosťou vzniká odpad.
 
-- M – držiteľ odpadu je pôvodca odpadu alebo fyzická osoba, alebo právnická osoba, u ktorej sa odpad nachádza.
+- M - držiteľ odpadu je pôvodca odpadu alebo fyzická osoba, alebo právnická osoba, u ktorej sa odpad nachádza.
 
-- V – zber odpadov je zhromažďovanie, triedenie alebo zmiešavanie odpadov na účely ich prepravy.
+- V - zber odpadov je zhromažďovanie, triedenie alebo zmiešavanie odpadov na účely ich prepravy.
 
-- R – zhodnocovanie odpadov sú činnosti vedúce k využitiu fyzikálnych, chemických alebo biologických vlastností odpadov, uvedené v tabuľke 2B.
+- R - zhodnocovanie odpadov sú činnosti vedúce k využitiu fyzikálnych, chemických alebo biologických vlastností odpadov; uvedené v tabuľke 2B.
 
-- D – zneškodňovanie odpadov je také nakladanie s nimi, ktoré nespôsobuje poškodzovanie životného prostredia ani ohrozovanie zdravia ľudí a je uvedené v tabuľke 2C.
+- D - zneškodňovanie odpadov je také nakladanie s nimi, aké nespôsobuje poškodzovanie životného prostredia ani ohrozovanie zdravia ľudí; je uvedené v tabuľke 2C.
 
-- Za rok – uvedie sa rok, za ktorý sa podáva hlásenie.
+- Za rok - uvedie sa rok, za ktorý sa podáva hlásenie.
 
-- Evidenčné číslo – pridelí a vyplní miestne príslušný úrad.
+- Evidenčné číslo - pridelí a vyplní miestne príslušný úrad.
 
-- Dátum doručenia – uvedie sa dátum doručenia tlačiva na miestne príslušný úrad.
+- Dátum doručenia - uvedie sa dátum doručenia tlačiva na miestne príslušný úrad.
 
-- Doklad za úrad overil – uvedie sa pracovník miestne príslušného úradu, ktorý skontroloval úplnosť vyplnenia tlačiva.
+- Doklad za úrad overil - uvedie sa pracovník miestne príslušného úradu, ktorý skontroloval úplnosť vyplnenia tlačiva.
 
 - FIRMA
 
-- IČO – uvedie sa identifikačné číslo organizácie; ak má organizácia IČO menšie ako osemmiestne, zľava sa doplnia nuly na celkový počet 8 miest.
+- IČO - uvedie sa identifikačné číslo organizácie; ak má organizácia IČO menšie ako osemmiestne, zľava sa doplnia nuly na celkový počet ôsmich miest.
 
-- Obchodné meno – uvedie sa obchodné meno firmy (právnickej osoby alebo fyzickej osoby) tak, ako je zapísané v obchodnom registri alebo v živnostenskom liste, alebo názov obce.
+- Obchodné meno - uvedie sa obchodné meno firmy (právnickej osoby alebo fyzickej osoby) tak, ako je zapísané v obchodnom registri alebo v živnostenskom liste, alebo názov obce.
 
-- Ulica, obec, PSČ – uvádza sa presná a úplná adresa organizácie.
+- Ulica, obec, PSČ - uvádza sa presná a úplná adresa organizácie.
 
-- Štatutárny orgán – uvádza sa pracovník, ktorý je zapísaný v obchodnom registri alebo v živnostenskom liste a zastupuje organizáciu, jeho telefón, fax, e–mail, adresa URL.
+- Štatutárny orgán - uvádza sa pracovník, ktorý je zapísaný v obchodnom registri alebo v živnostenskom liste a zastupuje organizáciu; jeho telefón, fax, e-mail, adresa URL.
 
-- Dátum podpisu – uvedie sa dátum podpísania tlačiva.
+- Dátum podpisu - uvedie sa dátum podpísania tlačiva.
 
-- Uvedené údaje sú/nie sú predmetom obchodného tajomstva – zakrúžkovaním podpisujúci vyznačí, či uvedené údaje sú alebo nie sú predmetom obchodného tajomstva.
+- Uvedené údaje sú/nie sú predmetom obchodného tajomstva - podpisujúci zakrúžkovaním vyznačí, či uvedené údaje sú, alebo nie sú predmetom obchodného tajomstva.
 
-- PREVÁDZKAREŇ/ZÁVOD
+- PREVÁDZKAREŇ / ZÁVOD
 
-- Nasledujúca časť týkajúca sa samostatnej prevádzkarne/závodu sa vypĺňa v prípade, že nie je totožná s firmou.
+- Nasledujúca časť týkajúca sa samostatnej prevádzkarne/závodu sa vypĺňa, ak nie je totožná s firmou.
 
-- Názov – uvádza sa, ak je zavedený vnútri organizácie.
+- Názov - uvádza sa, ak je zavedený vnútri organizácie.
 
-- Ulica, obec, PSČ – uvádza sa presná a úplná adresa samostatnej prevádzkarne.
+- Ulica, obec, PSČ - uvádza sa presná a úplná adresa samostatnej prevádzkarne.
 
-- Zodpovedná osoba – uvedie sa poverená osoba, ktorá je vo firme zodpovedná za nakladanie s odpadmi, jej telefón, fax, e-mail, adresa URL.
+- Zodpovedná osoba - uvedie sa poverená osoba, ktorá je vo firme zodpovedná za nakladanie s odpadmi, jej telefón, fax, e-mail, adresa URL.
 
-- Dátum podpisu – uvedie sa dátum podpísania tlačiva.
+- Dátum podpisu - uvedie sa dátum podpísania tlačiva.
 
 - V stĺpci 1 sa uvádza poradové číslo záznamu.
 
@@ -62,31 +62,31 @@ Príloha č. 4 k vyhláške č. 283/2001 Z. z. [Vzor 04](../assets/0b119990250df
 
 - V stĺpci 4 sa uvádza kategória odpadu podľa Katalógu odpadov. V prípade zmeny kategórie odpadu sa uvedie v stĺpci 9 poradové číslo poznámky a pod týmto číslom sa v priloženom komentári uvedie číslo rozhodnutia a meno autorizovanej osoby, ktorá vydala rozhodnutie o zmene kategórie odpadu.
 
-- V stĺpci 5 sa pri nebezpečných odpadoch uvedie Y-kód podľa prílohy č. 3 k vyhláške č. 284/2001 Z. z. s kódmi podľa tabuliek 1A a 1B. V prípade viacerých možností sa z tabuľky 1B priradí kód len tej zložky, ktorá je najnebezpečnejšia z hľadiska vplyvu na zdravie ľudí a životné prostredie.
+- V stĺpci 5 sa pri nebezpečných odpadoch uvedie Y-kód podľa prílohy č. 3 k vyhláške č. 284/2001 Z. z. v znení vyhlášky č. 409/2002 Z. z. s kódmi podľa tabuliek 1A, 1B a 1C. V prípade viacerých možností sa z tabuľky 1B priradí kód len tej zložky, ktorá je najnebezpečnejšia z hľadiska vplyvu na zdravie ľudí a životné prostredie.
 
 - V stĺpci 6 sa uvádza množstvo odovzdaného jedného druhu odpadu podľa jednotlivých spôsobov nakladania (podľa stĺpca 7), a to pre každý spôsob nakladania do samostatného riadka.
 
-- V stĺpci 7 sa uvádzajú kódy jednotlivých spôsobov nakladania s odpadmi podľa tabuliek 2A, 2B a 2C. Na tieto kódy sa vzťahujú príslušné množstvá odpadu uvedené v stĺpci 6.
+- V stĺpci 7 sa uvádzajú kódy jednotlivých spôsobov nakladania s odpadmi podľa tabuliek 2 A, 2 B a 2 C. Na tieto kódy sa vzťahujú príslušné množstvá odpadu uvedené v stĺpci 6. Ak sa odpad odovzdáva inému subjektu na ďalšiu úpravu alebo zhodnotenie, uvedie sa v tomto stĺpci znak O.
 
 - V stĺpci 8 sa uvádza IČO a obchodné meno každého príjemcu odpadu. V prípade odovzdania odpadu inému držiteľovi odpadu na účely ďalšieho nakladania s ním sa neuvádza dopravca. V prípade prevzatia odpadu sa uvádza IČO a obchodné meno každého držiteľa odpadu, od ktorého bol odpad prevzatý. V prípade odovzdania alebo prevzatia odpadu od fyzickej osoby sa uvedie IČO obecného úradu a názov obce podľa miesta jej trvalého pobytu a v prípade dovozu alebo vývozu odpadu sa uvedie obchodné meno firmy a názov štátu dovozu alebo vývozu.
 
 - V stĺpci 9 sa uvádza poznámka k nakladaniu s jednotlivými odpadmi vo forme poradových čísel. Text poznámok sa prikladá vo forme príloh, ktoré sú súčasťou tlačiva. V prípade dovozu odpadu sa uvedie písmeno I a v prípade vývozu písmeno E.
 
-- Producenti odpadov katalógových čísel 19 08 05 – kaly z čistenia komunálnych odpadových vôd, 19 08 11 – kaly obsahujúce nebezpečné látky z biologickej úpravy priemyselných odpadových vôd, 19 08 12 – kaly z biologickej úpravy priemyselných odpadových vôd iné ako uvedené v položke 19 08 11, 19 08 13 – kaly obsahujúce nebezpečné látky z inej úpravy priemyselných odpadových vôd a 19 08 14 – kaly z inej úpravy priemyselných odpadových vôd iné ako uvedené v položke 19 08 13 uvedú množstvo odpadu v sušine.
+- Producenti odpadov katalógových čísel 19 08 05 - kaly z čistenia komunálnych odpadových vôd, 19 08 11 - kaly obsahujúce nebezpečné látky z biologickej úpravy priemyselných odpadových vôd, 19 08 12 - kaly z biologickej úpravy priemyselných odpadových vôd iné, ako uvedené v položke 19 08 11, 19 08 13 - kaly obsahujúce nebezpečné látky z inej úpravy priemyselných odpadových vôd, a 19 08 14 - kaly z inej úpravy priemyselných odpadových vôd, iné ako uvedené v položke 19 08 13, uvedú množstvo odpadu v sušine.
 
-- V prípade, že tabuľka nepostačuje na uvedenie všetkých vykazovaných odpadov, pokračuje sa na ďalších stranách, kde sa v hornej časti každej strany uvádza len obchodné meno firmy, jej IČO, prípadne názov prevádzkarne/závodu, za ktorú sa hlásenie podáva, a poradové číslo strany. Miestne príslušný úrad vyplní evidenčné číslo.
+- Ak tabuľka nepostačuje na uvedenie všetkých vykazovaných odpadov, pokračuje sa na ďalších stranách, kde sa v hornej časti každej strany uvádza len obchodné meno firmy, jej IČO, prípadne názov prevádzkarne/závodu, za ktorú sa hlásenie podáva, a poradové číslo strany. Miestne príslušný úrad vyplní evidenčné číslo.
 
 - Súčasťou tohto hlásenia musí byť príloha s textom poznámok v stĺpci 9.
 
-- Ak subjet podávajúci hlásenie je pôvodcom odpadu aj výkupcom, prípadne prevádzkovateľom zariadenia na zhodnocovanie alebo zneškodňovanie odpadov, podáva hlásenie za každú činnosť na samostatnom tlačive.
+- Ak subjekt podávajúci hlásenie je pôvodcom odpadu aj výkupcom, prípadne prevádzkovateľom zariadenia na zhodnocovanie alebo zneškodňovanie odpadov, podáva hlásenie za každú činnosť na samostatnom tlačive.
 
-- Y – kód nebezpečných odpadov podľa prílohy č. 3 k vyhláške č. 284/2001 Z. z.
+- Y - kód nebezpečných odpadov podľa prílohy č. 3 k vyhláške č. 284/2001 Z. z. v znení vyhlášky č. 409/2002 Z. z.
 
 - Tabuľka 1A
 
 Kód | Skupiny odpadov
 
-Y1 | Klinické odpady z nemocníc, zdravotných stredísk a zariadení
+Y1 | Klinické odpady z nemocníc, zdravotníckych stredísk a zariadení
 
 Y2 | Odpady z výroby a prípravy farmaceutických výrobkov
 
@@ -104,7 +104,7 @@ Y8 | Odpadové minerálne oleje nevhodné na používanie podľa pôvodného ur�
 
 Y9 | Odpady typu olej vo vode, uhľovodíky vo vode, emulzie
 
-Y10 | Odpadové látky a predmety obsahujúce polychlórované bifenyly (PCB) a/ alebo polychlórované terfenyly (PCT) a/ alebo polybrómované bifenyly (PBB) alebo nimi znečistené
+Y10 | Odpadové látky a predmety obsahujúce polychlórované bifenyly (PCB) a/alebo polychlórované terfenyly (PCT) a/alebo polybrómované bifenyly (PBB) alebo nimi znečistené
 
 Y11 | Odpadové dechtové zvyšky vznikajúce pri čistení, destilácii a pyrolytickom spracúvaní
 
@@ -118,9 +118,9 @@ Y15 | Látky výbušnej povahy, ktoré nepodliehajú iným právnym predpisom
 
 Y16 | Látky z výroby, prípravy a použitia fotochemikálií a fotografických materiálov
 
-Y17 | Odpady vznikajúce pri povrchovej úprave kovov a plastických materiálov |
+Y17 | Odpady vznikajúce pri povrchovej úprave kovov a plastických materiálov
 
-Y18 | Zvyšky vznikajúce pri priemyselnom zneškodňovaní odpadov |
+Y18 | Zvyšky vznikajúce pri priemyselnom zneškodňovaní odpadov
 
 - Tabuľka 1B
 
@@ -178,9 +178,17 @@ Y43 | Všetky materiály obsahujúce polychlórovaný dibenzofurán
 
 Y44 | Všetky materiály obsahujúce polychlórovaný dibenzo-p-dioxín
 
-Y45 | Organohalogénové zlúčeniny iné ako látky uvedené v tejto tabuľke (napr. Y39, Y41, Y42, Y43, Y44)
+Y45 | Organohalogénové zlúčeniny, iné ako látky uvedené v tejto tabuľke (napr. Y39, Y41, Y42, Y43, Y44)
 
-- Kódovanie spôsobov nakladania s odpadmi:
+- Tabuľka 1C
+
+Kód | Skupiny odpadov vyžadujúce osobitnú pozornosť
+
+Y46 | Odpady z domácnosti
+
+Y47 | Zvyšky vznikajúce pri spaľovaní domového odpadu
+
+- Kódovanie spôsobov nakladania s odpadmi
 
 - V tlačive sa uvádzajú kódy nakladania podľa tabuliek 2A, 2B a 2C, v ktorých sa rozlišuje zhromažďovanie a činnosti, ktoré vedú k zhodnoteniu odpadov podľa prílohy č. 2 k zákonu alebo k zneškodneniu odpadov podľa prílohy č. 3 k zákonu.
 
@@ -190,6 +198,8 @@ Kód | Zhromažďovanie odpadov
 
 Z | Zhromažďovanie odpadov je dočasné uloženie odpadov pred ďalším nakladaním s nimi na mieste vzniku
 
+O | Odovzdanie odpadov inému subjektu na ďalšiu úpravu alebo zhodnotenie
+
 - Tabuľka 2B
 
 Kód | Zhodnocovanie odpadov
@@ -198,11 +208,11 @@ R1 | Využitie najmä ako palivo alebo na získanie energie iným spôsobom
 
 R2 | Spätné získavanie alebo regenerácia rozpúšťadiel
 
-R3 | Recyklácia alebo spätné získavanie organických látok, ktoré sa nepoužívajú ako rozpúšťadlá kompostovania a iných biologických transformačných procesov) (vrátane
+R3 | Recyklácia alebo spätné získavanie organických látok, ktoré sa nepoužívajú ako rozpúšťadlá (vrátane kompostovania a iných biologických transformačných procesov)
 
 R4 | Recyklácia alebo spätné získavanie kovov a kovových zlúčenín
 
-R5 | Recyklácia alebo spätné získavanie Iných anorganických materiálov
+R5 | Recyklácia alebo spätné získavanie iných anorganických materiálov
 
 R6 | Regenerácia kyselín a zásad
 
@@ -214,7 +224,7 @@ R9 | Prečisťovanie oleja alebo jeho iné opätovné použitie
 
 R10 | Úprava pôdy na účel dosiahnutia prínosov pre poľnohospodárstvo alebo na zlepšenie životného prostredia
 
-R11 | Využitie odpadov vzniknutých pri činnostiach Rl1až R10
+R11 | Využitie odpadov vzniknutých pri činnostiach R1 až R10
 
 R12 | Výmena odpadov určených na spracovanie niektorou z činností R1 až R11
 
@@ -232,15 +242,15 @@ D3 | Hĺbková injektáž (napr. injektáž čerpateľných odpadov do vrtov, so
 
 D4 | Ukladanie do povrchových nádrží (napr. umiestnenie kvapalných alebo kalových odpadov do jám, rybníkov alebo lagún atď.)
 
-D5 | Špeciálne vybudované skládky odpadov (napr. umiestnenie do samostatných buniek s povrchovou úpravou stien, ktoré sú zakryté a Izolované jedna od druhej a od životného prostredia atď.)
+D5 | Špeciálne vybudované skládky odpadov (napr. umiestnenie do samostatných buniek s povrchovou úpravou stien, ktoré sú zakryté a izolované jedna od druhej a od životného prostredia atď.)
 
 D6 | Vypúšťanie a vhadzovanie do vodného recipienta okrem morí a oceánov
 
 D7 | Vypúšťanie a vhadzovanie do morí a oceánov vrátane uloženia na morské dno
 
-D8 | Biologická úprava nešpecifikovaná v tejto prílohe, pri ktorej vznikajú zlúčeniny alebo zmesi, ktoré sú zneškodnené niektorou z činností D1 až D 12
+D8 | Biologická úprava nešpecifikovaná v tejto prílohe, pri ktorej vznikajú zlúčeniny alebo zmesi, ktoré sú zneškodnené niektorou z činností D1 až D12
 
-D9 | Fyzikálno-chemická úprava nešpecifikovaná v tejto prílohe, pri ktorej vznikajú zlúčeniny alebo zmesi, ktoré sú zneškodnené niektorou z činností D1 až D 12 (napr. odparovanie, sušenie, kalcinácia atď.)
+D9 | Fýzikálno-chemická úprava nešpecifikovaná v tejto prílohe, pri ktorej vznikajú zlúčeniny alebo zmesi, ktoré sú zneškodňované niektorou z činností D1 až D12 (napr. odparovanie, sušenie, kalcinácia atď.)
 
 D10 | Spaľovanie na pevnine
 
@@ -248,10 +258,10 @@ D11 | Spaľovanie na mori
 
 D12 | Trvalé uloženie (napr. umiestnenie kontajnerov v baniach atď.)
 
-D13 | Zmlešavanie alebo miešanie pred použitím niektorej z činností D1 až D 12
+D13 | Zmiešavame alebo miešanie pred použitím niektorej z činností D1 až D12
 
-D14 | Uloženie do ďalších obalov pred použitím niektorej z činností Dl až D 12
+D14 | Uloženie do ďalších obalov pred použitím niektorej z činností D1 až D12
 
-D15 | Skladovanie pred použitím niektorej z činností D1 až D 14 (okrem dočasného uloženia pred zberom na mieste vzniku)
+D15 | Skladovanie pred použitím niektorej z činností D1 až D14 (okrem dočasného uloženia pred zberom na mieste vzniku)
 
 [Príloha 05](../assets/20d44b6bf7842abb30c445b9cbb190e2b596b29bae7bc1a5ce9b1de8b71290bc.pdf)

@@ -56,7 +56,7 @@ Príloha č. 15
 
       - 1. Parametre, ktoré sa majú analyzovať v odobratých vzorkách, musia byť odvodené od očakávaného zloženia priesakových kvapalín a kvality podzemnej vody v tejto oblasti. Pri výbere parametrov na analýzu treba vziať do úvahy prúdenie podzemnej vody v danom priestore.
 
-      - 2. Parametre môžu tiež zahŕňať indikačné parametre, ktoré zabezpečujú včasné zistenie zmeny kvality podzemnej vody. Odporúčané indikačné parametre: pH, celkový obsah organického uhlíka, fenoly, ťažké kovy, fluoridy, AS, aniónaktívne tenzidy, ropné látky – uhľovodíky.
+      - 2. Parametre môžu tiež zahŕňať indikačné parametre, ktoré zabezpečujú včasné zistenie zmeny kvality podzemnej vody. Odporúčané indikačné parametre: pH, celkový obsah organického uhlíka, fenoly, ťažké kovy, fluoridy, aniónaktívne tenzidy, ropné látky – uhľovodíky.
 
       - 3. Úroveň hladiny podzemnej vody sa meria každých 6 mesiacov počas prevádzky skládky odpadov aj v období po jej uzatvorení. Ak v danej oblasti výrazne kolíše hladina podzemnej vody, frekvencie merania musia byť častejšie.
 
