@@ -1,0 +1,1 @@
+- 1) Zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii.
