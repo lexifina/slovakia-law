@@ -2,7 +2,7 @@
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, o financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní.
 
-- 3) Nariadenie vlády Slovenskej republiky č. 220/1993 Z. z., ktorým sa vydáva Liečebný poriadok.
+- 3) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
 - 4) § 38 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
 
@@ -12,11 +12,19 @@
 
 - 7) § 116 Občianskeho zákonníka.
 
+- 7a) § 115 Občianskeho zákonníka.
+
+- 7b) § 39 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+
 - 8) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
 - 9) Napr. zákon Slovenskej národnej rady č. 13/1992 Zb. o Slovenskej lekárskej komore, Slovenskej komore zubných lekárov a Slovenskej lekárnickej komore, zákon Slovenskej národnej rady č. 27/1992 Zb. o Slovenskej komore vysokoškolsky vzdelaných zdravotníckych pracovníkov, zákon Slovenskej národnej rady č. 14/1992 Zb. o Slovenskej komore stredných zdravotníckych pracovníkov a o Slovenskej komore zubných technikov.
 
+- 9a) § 38 ods. 1 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
+
 - 10) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 79/1981 Zb. o zdravotníckych pracovníkoch a iných odborných pracovníkoch v zdravotníctve.
+
+- 10a) Zákon č. 140/1998 Z. z.
 
 - 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -27,6 +35,8 @@
 - 14) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
 
 - 15) Napr. zákon Narodnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách.
+
+- 15a) § 4a ods. 2 zákona č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
 
 - 16) Článok 4 Ústavy Slovenskej republiky.
 
