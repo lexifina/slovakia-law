@@ -1,1 +1,0 @@
-- 1) § 27 ods. 2 branného zákona č. 92/1949 Zb. v znení neskorších predpisov.
