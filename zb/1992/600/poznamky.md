@@ -6,6 +6,10 @@
 
 - 4) Zákon č. 530/1990 Zb. o dlhopisoch.
 
+- 4a) § 786 ods. 2 Občianskeho zákonníka.
+
+- 4b) § 787 Občianskeho zákonníka.
+
 - 5) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - Nariadenie vlády ČSFR č. 383/1991 Zb. o vydávaní a použití investičných kupónov v znení neskoršieho predpisu.
@@ -24,7 +28,7 @@
 
 - 12) § 2 ods. 1 Obchodného zákonníka.
 
-- 13) Zákon č. 22/1992 Zb. o Štátnej banke česko-slovenskej.
+- 13) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona Národnej rady Slovenskej republiky č. 26/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
 
 - 14) § 345 Obchodného zákonníka.
 
@@ -50,6 +54,8 @@
 
 - 24) Napr. § 19 zákona č. 191/1950 Zb.
 
+- 24a) § 24 ods. 1 zákona č. 566/1992 Zb. v znení neskorších predpisov.
+
 - 25) Zákon ČNR č. 200/1990 Zb. o priestupkoch.
 
 - Zákon SNR č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
@@ -57,6 +63,8 @@
 - 26) § 1 zákona č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov (úplné znenie č. 451/1992 Zb.).
 
 - 27) § 6 ods. 3 písm. b) zákona č. 214/1992 o burze cenných papierov.
+
+- 27a) Zákon č. 214/1992 Zb. o burze cenných papierov.
 
 - 28) Zákon ČNR č. 576/1990 Zb. o pravidlách hospodárenia s rozpočtovými prostriedkami Českej republiky a obcí v Českej republike (rozpočtové pravidlá republiky) v znení neskorších predpisov.
 
@@ -78,11 +86,15 @@
 
 - § 6 zákona č. 530/1990 Zb
 
+- 33a) § 158 a 159 Obchodného zákonníka.
+
 - 34) § 164 a nasl. Obchodného zákonníka.
 
 - 35) § 44 a nasl. Obchodného zákonníka.
 
 - 36) § 65 Obchodného zákonníka.
+
+- 36a) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 37) Zákon ČNR č. 552/1991 Zb. o štátnej kontrole.
 
