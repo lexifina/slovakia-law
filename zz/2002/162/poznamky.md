@@ -1,10 +1,14 @@
-- 1) § 50 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
+- 1) § 50 a 50b zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 2) § 12 ods. 1 zákona č. 313/2001 Z. z. o verejnej službe.
+
+- 2a) § 11 zákona č. 313/2001 Z. z. o verejnej službe.
 
 - 3) § 97 ods. 1 Zákonníka práce.
 
 - 4) § 58 písm. a) zákona č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 4a) § 3a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 5) § 21 zákona č. 313/2001 Z. z.
 
