@@ -1,0 +1,3 @@
+# Čl. 7
+
+Táto vyhláška nadobúda účinnosť dňom vyhlásenia.
