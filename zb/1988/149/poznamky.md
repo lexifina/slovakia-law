@@ -177,3 +177,7 @@
 - 84) § 32 ods. 1 zákona Českej národnej rady č. 367/1990 Zb.
 
 - § 25 ods. 7 zákona Slovenskej národnej rady č. 369/1990 Zb.
+
+- 85) § 111 ods. 3 Zákonníka práce.
+
+- § 2 ods. 1 písm. b) č. 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 99/1991 Zb. o určení minimálnej mzdy.
