@@ -16,7 +16,7 @@
 
 - 4) § 116 Občianskeho zákonníka č. 40/1964 v znení neskorších predpisov.
 
-- 4a) § 31 zákona č. 17/1992 Zb. o životnom prostredí.
+- 4a) § 11 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov.
 
 - 4b) Napr. § 8 ods. 2 zákona č. 17/1992 Zb.
 
