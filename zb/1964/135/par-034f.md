@@ -2,7 +2,7 @@
 
 (1) Dodávateľ je povinný, ak to odberateľ požaduje, uzavrieť dodávkovú zmluvu aspoň v takom množstve a v takej sortimentnej skladbe, ako dodával v predchádzajúcom roku, pokiaľ rozpis plánu ústredného orgánu nadriadeného dodávateľovi neurčuje inak.
 
-(2) Dodávateľ je povinný uzavrieť hospodársku zmluvu na dodávky náhradných dielcov pre ním vyrábané výrobky v zodpovedajúcom množstve a sortimente počas dohodnutej životnosti výrobkov.
+(2) zrušený od 1. 1. 1982
 
 (3) Ak odberateľ vybaví oprávnenú reklamáciu spotrebiteľa, je dodávateľ, pokiaľ za chybu zodpovedá, povinný uznať túto reklamáciu v rovnakom rozsahu.
 
