@@ -84,7 +84,7 @@ Príloha C
 
   - | | ex5407 92 00 | chlpov |
 
-  - | | ex5407 93 | |
+  - | | ex5407 93 00 | |
 
   - | | ex5407 94 00 | |
 
@@ -134,13 +134,13 @@ Príloha C
 
   - | | 6203 21 00 | iné ako pletené alebo háčkované, obsahujúce 36 % a viac vlny |
 
-  - | | ex6203 23 00 | alebo jemných zvieracích chlpov |
+  - | | ex6203 23 | alebo jemných zvieracích chlpov |
 
   - | | 6203 31 00 | |
 
-  - | | ex6203 33 00 | |
+  - | | ex6203 33 | |
 
-  - | | ex6203 39 00 | |
+  - | | ex6203 39 | |
 
   - | 435 | | dámske alebo dievčenské zvrchníky, plášte, peleríny, kabáty, | ks
 
@@ -226,7 +226,7 @@ Príloha C
 
   - | | 6203 12 00 | |
 
-  - | | ex6203 19 00 | |
+  - | | ex6203 19 | |
 
   - | 3A | | |
 

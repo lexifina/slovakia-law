@@ -606,7 +606,7 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 4818 10 | toaletný papier | tona | všetky štáty okrem ČR
 
-  - 4820 20 | zošity | tona | všetky štáty okrem ČR
+  - 4820 20 00 | zošity | tona | všetky štáty okrem ČR
 
   - Textilné výrobky | | |
 

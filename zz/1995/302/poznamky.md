@@ -1,5 +1,7 @@
 - 1) § 2 zákona č. 618/1992 Zb. Colný zákon.
 
+- 1a) Článok 1 Dohody medzi Slovenskou republikou a Českou republikou o vytvorení colnej únie oznámenej v Zbierke zákonov Slovenskej republiky pod č. 199/1993 Z. z.
+
 - 2) § 89 a nasl. zákona č. 618/1992 Zb.
 
 - 3) Nariadenie vlády Slovenskej republiky č. 300/1995 Z. z., ktorým sa vydáva colný sadzobník.

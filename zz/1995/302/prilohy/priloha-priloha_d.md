@@ -182,7 +182,9 @@ Príloha D
 
   - | - prchavé estery kyseliny brómoctovej (metyl-, etyl-, propyl- a butylbrómacetát) | (6) |
 
-  - 2916 34 00 | Kyselina fenyloctová, jej soli, estery | (4) | tona
+  - 2916 34 00 | Kyselina fenyloctová a jej soli | (4) | tona
+
+  - 2916 35 00 | Estery kyseliny fenyloctovej | (4) | tona
 
   - 2918 13 00 | Soli a estery kyseliny vínnej, z toho len | | kg
 
@@ -496,7 +498,7 @@ Príloha D
 
   - 2933 32 00 | Piperidín | (4) | kg
 
-  - 2933 32 00 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre nekondenzovaný pyridínový | |
+  - 2933 39 80 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre nekondenzovaný pyridínový | |
 
   - | kruh (hydrogenovaný alebo nehydrogenovaný), z toho len | | kg
 

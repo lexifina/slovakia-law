@@ -632,9 +632,7 @@ Príloha B
 
   - Drevo a výrobky z dreva | | |
 
-  - 4403 10 00 | palivové drevo (polená, kláty, vetvy, viazanice | |
-
-  - | a pod.) | m<sup>3</sup> | ČR
+  - 4401 10 00 | palivové drevo (polená, kláty, vetvy, viazanice a pod.) | m<sup>3</sup> | ČR
 
   - Buničina, papier a výrobky z nich, ľan, sklenené výrobky | | |
 
@@ -642,7 +640,7 @@ Príloha B
 
   - 5301 10 | ľan surový alebo máčaný | tona | všetky štáty
 
-  - 7019 90 91 | sklenené vlákna | tona | všetky štáty
+  - 7019 12 00 | pramence zo sklených vlákien | tona | všetky štáty
 
   - Základné kovy a výrobky zo základných kovov | | |
 
