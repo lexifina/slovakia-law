@@ -1,3 +1,0 @@
-Minister:
-
-Podlena v. r.
