@@ -40,6 +40,8 @@
 
 - 8a) Napr. § 25 ods. 2 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
+- 8aa) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
 - 8b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 8c) § 20 ods. 2 zákona č. 286/1992 Zb. v znení neskorších predpisov.
