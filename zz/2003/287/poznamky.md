@@ -12,7 +12,7 @@
 
 - 6) § 3 a 4 nariadenia vlády Slovenskej republiky č. 283/2003 Z. z.
 
-- 7) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 284/2003 Z. z. o zdravotných problémoch a problémoch veterinárnej inšpekcie pri dovoze hovädzieho dobytka, oviec, kôz, ošípaných, čerstvého mäsa alebo mäsových výrobkov z tretích krajín.
+- 7) § 1 nariadenia vlády Slovenskej republiky č. 284/2003 Z. z. o zdravotných problémoch a problémoch veterinárnej inšpekcie pri dovoze hovädzieho dobytka, oviec, kôz, ošípaných, čerstvého mäsa alebo mäsových výrobkov z tretích krajín v znení nariadenia vlády Slovenskej republiky č. 485/2003 Z. z.
 
 - 8) Nariadenie vlády Slovenskej republiky č. 284/2003 Z. z.
 
@@ -28,16 +28,16 @@
 
 - 13) § 5 ods. 2 a 3 nariadenia vlády Slovenskej republiky č. 283/2003 Z. z.
 
-- 14) Príloha č. 5 kap. VII k nariadeniu vlády Slovenskej republiky č. 286/2003 Z. z.
+- 14) Príloha č. 5 k nariadeniu vlády Slovenskej republiky č. 286/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
 
 - 15) Príloha č. 3 k nariadeniu vlády Slovenskej republiky č. 286/2003 Z. z.
 
-- 16) § 9 nariadenia vlády Slovenskej republiky č. 293/2003 Z. z. o veterinárnej kontrole pri výmenách živých zvierat a produktov živočíšneho pôvodu s členskými štátmi.
+- 16) § 9 nariadenia vlády Slovenskej republiky č. 292/2003 Z. z. o podrobnostiach veterinárnych kontrol pri výmenách produktov živočíšneho pôvodu s členskými štátmi v znení nariadenia vlády Slovenskej republiky č. 493/2003 Z. z.
 
 - 17) Nariadenie vlády Slovenskej republiky č. 299/2003 Z. z. o požiadavkách na zdravie zvierat pri uvádzaní na trh čerstvého hydinového mäsa, jeho výmenách s členskými štátmi a dovozoch z tretích krajín.
 
 - 18) § 2 ods. b) zákona č. 488/2002 Z. z.
 
-- 19) Nariadenie vlády Slovenskej republiky č. 293/2003 Z. z.
+- 19) Nariadenie vlády Slovenskej republiky č. 292/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 493/2003 Z. z.
 
 - 20) § 32 zákona č. 488/2002 Z. z.
