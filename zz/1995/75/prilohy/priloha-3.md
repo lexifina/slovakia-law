@@ -16,9 +16,9 @@ Príloha č. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - 3. Zdravotne postihnutí občania v domácnosti s rodinnými príslušníkmi alebo s osobami, ktoré poskytujú opatrovateľskú službu.
 
-  - 4. Deti zo zdravotníckych zariadení, ktorým sa rozumie napríklad dojčenský ústav, pôrodnícke a detské oddelenie nemocnice, a deti zo zariadení sociálnej starostlivosti podľa osobitného predpisu<sup>9</sup>) sa zásadne evakuujú s týmto zariadením. Zariadenie plní funkciu evakuačného strediska. Tieto deti sa ubytovávajú v zariadeniach obdobného druhu v miestach ubytovania evakuovaných.
+  - 4. Deti zo zdravotníckych zariadení, ktorým sa rozumie napríklad dojčenský ústav, pôrodnícke a detské oddelenie nemocnice, a deti zo zariadení sociálnych služieb podľa osobitného predpisu<sup>9</sup>) sa zásadne evakuujú s týmto zariadením. Zariadenie plní funkciu evakuačného strediska. Tieto deti sa ubytovávajú v zariadeniach obdobného druhu v miestach ubytovania evakuovaných.
 
-  - 5. Ostatní chorí zo zdravotníckych zariadení a zariadení sociálnej starostlivosti sa evakuujú s týmito zariadeniami do vopred určeného obdobného, podmienkami zodpovedajúceho zariadenia. Zariadenie plní funkciu evakuačného strediska.
+  - 5. Ostatní chorí zo zdravotníckych zariadení a zariadení sociálnych služieb sa evakuujú s týmito zariadeniami do vopred určeného obdobného, podmienkami zodpovedajúceho zariadenia. Zariadenie plní funkciu evakuačného strediska.
 
   - 6. Personál podieľajúci sa na evakuácii uvedených zariadení si môže vziať so sebou svoje deti vo veku do 15 rokov.
 

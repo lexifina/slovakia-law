@@ -6,13 +6,13 @@ Príloha č. 4 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - a) predseda komisie – zástupca prednostu krajského úradu,
 
-    - b) podpredseda komisie – vedúci odboru civilnej ochrany obyvateľstva krajského úradu,
+    - b) podpredseda komisie – vedúci odboru krízového riadenia krajského úradu,
 
-    - c) tajomník komisie – zamestnanec odboru civilnej ochrany obyvateľstva krajského úradu,
+    - c) tajomník komisie – zamestnanec odboru krízového riadenia krajského úradu,
 
     - d) členovia komisie – možno ich vymenovať z odborných zamestnancov krajských orgánov, organizácií, z odborov a oddelení krajského úradu, právnických osôb a fyzických osôb
 
-      - 1. odboru civilnej ochrany obyvateľstva,
+      - 1. odboru krízového riadenia,
 
       - 2. Policajného zboru,
 
@@ -40,23 +40,23 @@ Príloha č. 4 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - a) predseda komisie
 
-  - – zástupca prednostu okresného úradu,
+  - – zástupca prednostu obvodného úradu,
 
     - b) podpredseda komisie
 
-  - – vedúci odboru civilnej ochrany obyvateľstva okresného úradu,
+  - – vedúci odboru krízového riadenia obvodného úradu,
 
     - c) tajomník komisie
 
-  - – zamestnanec odboru civilnej ochrany obyvateľstva okresného úradu,
+  - – zamestnanec odboru krízového riadenia obvodného úradu,
 
     - d) členovia komisie
 
-  - – možno ich vymenovať zo zamestnancov okresných orgánov, organizácií, z odborov okresného úradu, právnických osôb a fyzických osôb.
+  - – možno ich vymenovať zo zamestnancov okresných orgánov, organizácií, z odborov obvodného úradu, právnických osôb a fyzických osôb.
 
   - 1.
 
-  - odboru civilnej ochrany obyvateľstva,
+  - odboru krízového riadenia,
 
   - 2.
 
@@ -76,7 +76,7 @@ Príloha č. 4 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - 6.
 
-  - vojenskej správy,
+  - príslušnej územnej vojenskej správy,
 
   - 7.
 

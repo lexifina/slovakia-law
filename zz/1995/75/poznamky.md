@@ -4,8 +4,10 @@
 
 - 7a) § 13 ods. 1 písm. g) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
+- 7aa) § 14a ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 416/2001 Z. z.
+
 - 7b) § 9 ods. 4 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
 - 8) § 1 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
 
-- 9) § 27 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.
+- 9) § 18 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.

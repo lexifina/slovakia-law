@@ -16,13 +16,11 @@ Príloha č. 6 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - f) Pomocná dokumentácia (prehľady, počty, grafy, pomôcky podľa potreby komisie).
 
-    - g) Výpisy z dokumentácie pre okresné evakuačné komisie a krajské orgány a organizácie s určením hlavných úloh a opatrení na vykonanie a zabezpečenie evakuácie.
+    - g) Plán prípravy evakuačnej komisie kraja.
 
-    - h) Plán prípravy evakuačnej komisie kraja.
+    - h) Záznam správ a hlásení.
 
-    - i) Záznam správ a hlásení.
-
-  - 2. Okresný úrad a ostatné okresné orgány
+  - 2. Obvodný úrad a ostatné okresné orgány
 
     - a) Textový a grafický zámer zabezpečenia, riadenia a vykonania evakuácie (hlavná úloha vykonania evakuácie, určenie priestorov, trás presunov, druhu prepravy, miesta činnosti evakuačnej komisie a evakuačných zariadení, číselné prehľady evakuovaných osôb a majetku a pod.).
 
@@ -32,13 +30,11 @@ Príloha č. 6 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - d) Plány odborného zabezpečenia (vypracúvajú ich členovia evakuačnej komisie vyčlenení na riadenie jednotlivých druhov odborného zabezpečenia, u ktorých sú uložené).
 
-    - e) Pomocná dokumentácia (prehľady, počty, grafy, pomôcky, zápisnice o uzavretých dohodách medzi okresnými úradmi a pod. podľa skutočnej potreby).
+    - e) Pomocná dokumentácia (prehľady, počty, grafy, pomôcky, zápisnice o uzavretých dohodách medzi obvodnými úradmi a pod. podľa skutočnej potreby).
 
-    - f) Výpisy z dokumentácie pre evakuačné komisie obcí a organizácie riadené okresnými orgánmi s určením hlavných úloh a opatrení na zabezpečenie a vykonanie evakuácie.
+    - f) Plán prípravy evakuačnej komisie.
 
-    - g) Plán prípravy evakuačnej komisie.
-
-    - h) Záznam správ a hlásení.
+    - g) Záznam správ a hlásení.
 
   - 3. Obec
 
@@ -58,7 +54,7 @@ Príloha č. 6 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
     - h) Záznam správ a hlásení.
 
-  - 4. Podnikatelia a iné právnické osoby a fyzické osoby podľa rozhodnutia okresného úradu
+  - 4. Podnikatelia a iné právnické osoby a fyzické osoby podľa rozhodnutia obvodného úradu
 
     - a) Grafický prehľad evakuácie vlastných zamestnancov, prípadne ich rodinných príslušníkov.
 
@@ -73,7 +69,3 @@ Príloha č. 6 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
     - f) Výpis z dokumentácie evakuačnej komisie obce.
 
     - g) Záznam správ a hlásení.
-
-      - Poznámka:
-
-      - Ako druhú časť dokumentácie plánu evakuácie krajské úrady a vybrané okresné úrady, určené obce, určené právnické osoby a fyzické osoby rozmiestnené v blízkosti štátnych hraníc vypracúvajú pre obdobie brannej pohotovosti štátu Plán evakuácie z pohraničných oblastí.
