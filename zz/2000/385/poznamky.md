@@ -16,9 +16,11 @@
 
 - 9) Zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
-- 10) § 58 a 58a zákona č. 335/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 307/1995 Z. z. a zákona č. 385/2000 Z. z.
+- 10) § 58 zákona č. 335/1991 Zb. v znení neskorších predpisov.
 
 - 11) Čl. 3 ods. 1 písm. a) až e), ch) a i) ústavného zákona Národnej rady Slovenskej republiky č. 119/1995 Z. z. o zamedzení rozporu záujmov pri výkone funkcií ústavných činiteľov a vyšších štátnych funkcionárov.
+
+- 11a) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
 - 12) § 143a Občianskeho zákonníka.
 
@@ -54,6 +56,8 @@
 
 - 28) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
+- 28a) § 4 ods. 2 písm. b) zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
 - 29) § 251 až 351 Občianskeho súdneho poriadku.
 
 - 30) Občiansky súdny poriadok.
@@ -65,3 +69,5 @@
 - 33) Zákonník práce v znení neskorších predpisov.
 
 - 34) Trestný poriadok.
+
+- 35) Zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
