@@ -2,7 +2,7 @@
 
 - 2) § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína.§ 2 a nasl. vyhlášky Ministerstva financií Slovenskej republiky č. 186/1994 Z. z. o spôsobe použitia dokladov a vedení evidencií spojených s výrobou a obehom vína.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z.
+- 3) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov
 
 - 4) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 291/1996 Z. z. o odrodách a osivách.
 
@@ -45,8 +45,6 @@
 - 24) § 17 Obchodného zákonníka.
 
 - 25) Napríklad zákon č. 634/1992 Zb.
-
-- 26) Zákon Národnej rady Slovenskej republiky č. 40/1994 Z. z. o Štátnom podpornom fonde pôdohospodárstva a potravinárstva.
 
 - 27) § 5 ods. 3 vyhlášky Ministerstva poľnohospodárstva, lesného a vodného hospodárstva a Ministerstva spravodlivosti č. 62/1964 Zb., ktorou sa vydávajú vykonávacie predpisy k zákonu o rozvoji rastlinnej výroby.
 
