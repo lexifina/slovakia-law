@@ -24,14 +24,6 @@ Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení záko
 
 - Majetkom, na ktorý sa vzťahuje odsek 1, sú pozemky vo vojenských obvodoch, ktoré boli vo vlastníctve obcí k 31. decembru 1949 <sup>27</sup>) a boli vo vlastníctve Slovenskej republiky k 31. októbru 1994.
 
-- (3)
-
-- Ak to vyžadujú potreby obrany štátu, Slovenská republika je oprávnená a obce, ktoré nadobudli majetok podľa odseku 2, sú povinné uzatvoriť do 31. decembra 1997 zámenné zmluvy <sup>35</sup>) o prevode vlastníctva, na základe ktorých tento majetok obcí získa do vlastníctva Slovenská republika a obce získajú do vlastníctva majetok rovnakého druhu, v prípade dohody aj iný majetok.
-
-- (4)
-
-- Ak nedôjde k uzavretiu zámennej zmluvy<sup>35</sup>) v lehote podľa odseku 3, starostlivosť o hospodárne využitie majetku obce zabezpečuje podľa osobitného predpisu <sup>36</sup>) a na účet obce Slovenská republika.
-
 - Na účel posúdenia hospodárenia sa zástupcom obcí umožní vstup do vymedzených priestorov za podmienok zaručujúcich ochranu zdravia a života.
 
 - (5)
@@ -63,17 +55,3 @@ Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení záko
 - Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
 
 - Zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.“.
-
-- 5. § 17 znie:
-
-- „§ 17
-
-- Majetok podľa § 16 ods. 2, ktorý obce nadobudli do svojho vlastníctva, bezplatne užíva Slovenská republika pre potreby podľa osobitných predpisov.<sup>38</sup>)“.
-
-- Poznámka pod čiarou k odkazu <sup>38</sup>) znie:
-
-- „38)
-
-- § 19 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 2/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 83/1994 Z. z.
-
-- Zákon č. 169/1949 Zb. o vojenských obvodoch.“.
