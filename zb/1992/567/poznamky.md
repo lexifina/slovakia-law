@@ -20,6 +20,8 @@
 
 - 9) Napr. zákon č. 172/1990 Zb. o vysokých školách.
 
+- 9a) § 69 Obchodného zákonníka.
+
 - 10) § 15 zákona Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína.
 
 - § 15 zákona Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva.
@@ -44,6 +46,6 @@
 
 - Zákon č. 526/1990 Zb. o cenách.
 
-- Zákon č. 563/1991 Zb. o účtovníctve.
+- Zákon č. 563/1991 Zb. o účtovníctve.§ 40r zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.§ 5 zákona Národnej rady Slovenskej republiky č. 160/1993 Z. z. o niektorých opatreniach pri vzájomnom započítavaní pohľadávok podnikateľov.
 
 - 11) Napr. zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
