@@ -1,47 +1,67 @@
 # § 8a
 
-(1) Sadzby uvedené v § 8 platia pre zariadenie a vybavenie (ďalej len „vybavenie") bytu užívaného k 31. decembru 1976; pre vybavenie bytu prideleného<sup>1</sup>) po 1. januári 1977 v dome, pre užívanie ktorého bolo vydané kolaudačné rozhodnutie<sup>2</sup>) (ďalej len „v dome kolaudovanom") po tomto dátume, platí, len pokiaľ nejde o vybavenie uvedené v odseku 4.
+(1) Pre zariadenie a vybavenie bytu, ktorý počínajúc dňom 1. júla 1988 bol pridelený alebo prešlo právo k jeho užívaniu na iného užívateľa alebo vzniklo právo k jeho užívaniu na základe dohody o výmene<sup>1</sup>) (ďalej len „pridelený"), platia sadzby uvedené v § 8 bod 1 až 3, len pokiaľ nebudú prekročené limity kuchynských liniek a vstavaných alebo zabudovaných skríň uvedené v odseku 3 tohto ustanovenia.
 
-(2) Ročné sadzby za vybavenie bytu prideleného po 1. januári 1977 v dome kolaudovanom po tomto dátume, uvedené v odseku 4, sa určia percentom z veľkoobchodných (maloobchodných) cien tohto vybavenia platných v čase pridelenia bytu, prípadne z veľkoobchodnej ceny výrobku a jeho zabudovania.
+(2) Ročná úhrada za zariadenie a vybavenie bytu prideleného počínajúc dňom 1. júla 1988 sa vypočíta
 
-(3) Ustanovenie odseku 2 platí aj pre adaptácie, rekonštrukcie a modernizácie v jestvujúcich domoch, ak bol byt pridelený po 1. januári 1977 a ak došlo ku kolaudácii po tomto dátume.
+- a) pri predmetoch uvedených v odseku 3 bod 1 až 3 určenou percentnou sadzbou zo sumy, o ktorú cena predmetu<sup>2</sup>) platná v čase pridelenia bytu presahuje určený limit za celkový počet merných jednotiek. Ak je výška úhrady jednotlivo za každý jeden kus menej ako 12 Kčs, úhrada podľa tohto ustanovenia sa neúčtuje,
+
+- b) pri predmetoch uvedených v odseku 3 bod 4 a 5 určenou percentnou sadzbou zo sumy rovnajúcej sa cene predmetu<sup>2</sup>) platnej v čase pridelenia bytu.
+
+| (3) Ročné sadzby a limity za ďalej uvedené zariadenie a vybavenie bytu tvoria: | | |
+
+| | m. j. | limit | sadzba
+
+| | | (Kčs) | (%)
+
+1. kuchynský plynový sporák včítane kombinovaného | | ks | 2010 | 14,7
+
+| kuchynský elektrický sporák | ks | 2900 | 14,7
+
+2. okná a balkónové dvere | | m<sup>2</sup> | |
+
+| - do 1 m<sup>2</sup> | | 560 | 5,7
+
+| - nad 1 m<sup>2</sup> do 1,5 m<sup>2</sup> | | 450 | 5,7
+
+| - nad 1,5 m<sup>2</sup> | | 380 | 5,7
+
+3. dvere | | ks | |
+
+| - vstupné jednokrídlové | | 540 | 4,5
+
+| - vnútorné dvojkrídlové | | 655 | 4,5
+
+| - vnútorné v šírke 80 cm | | 350 | 4,5
+
+| - vnútorné v šírke 70 cm | | 325 | 4,5
+
+| - vnútorné v šírke 60 cm | | 310 | 4,5
+
+4. vstavaná alebo zabudovaná | | m<sup>3</sup> | |
+
+| - skriňa šatňová | | 490 | 8,6
+
+| - upratovacia a zásobárňová | | 745 | 8,6
+
+5. kuchynská linka s dĺžkou | | komplet | |
+
+| do 120 cm | | 1900 | 8,6
+
+| nad 120 cm do 150 cm | | 2140 | 8,6
+
+| nad 150 cm do 180 cm | | 2370 | 8,6
+
+| nad 180 cm | | 2600 | 8,6
 
 (4)
 
-Ročné sadzby za nižšie uvedené vybavenie bytu tvoria:
+Ustanovenia predchádzajúcich odsekov platia aj
 
-1. | za prestaviteľné, zhŕňacie a montované skriňové bytové priečky z veľkoobchodnej ceny výrobku | 9,6 %
+a)
 
-2. | za doplnkové sanitárne inštalácie druhý a ďalší záchod samostatný sprchový kút, ak je okrem toho byt vybavený kúpeľňou druhé a ďalšie umývadlo z veľkoobchodnej ceny výrobku a jeho zabudovania | 6,6 %
+pre adaptované, rekonštruované a modernizované byty v existujúcich domoch, ak bol byt v nich počínajúc dňom 1. júla 1988 pridelený alebo kolaudovaný,
 
-3. | za kuchynský plynový sporák v maloobchodnej cene nad 2000 Kčs za kus | 14,7 %
+b)
 
-| za kuchynský elektrický sporák v maloobchodnej cene nad 2900 Kčs za kus | 14,7 %
-
-4. | za dvere vstupné vo veľkoobchodnej cene nad 245 Kčs za kus | 4,5 %
-
-| dvojkrídlové v šírke 125 cm vo veľkoobchodnej cene nad 305 Kčs za kus | 4,5 %
-
-| vnútorné v šírke 80 cm vo veľkoobchodnej cene nad 185 Kčs za kus | 4,5 %
-
-| vnútorné v šírke 70 cm vo veľkoobchodnej cene nad 155 Kčs za kus | 4,5 %
-
-| vnútorné v šírke 60 cm vo veľkoobchodnej cene nad 145 Kčs za kus | 4,5 %
-
-5. | za okná a balkónové dvere do 1,0 m<sup>2</sup> vo veľkoobchodnej cene nad 415 Kčs za m<sup>2</sup> | 5,7 %
-
-| od 1,0 m<sup>2</sup> do 1,5 m<sup>2</sup> vo veľkoobchodnej cene nad 400 Kč za m<sup>2</sup> | 5,7 %
-
-| nad 1,5 m<sup>2</sup> vo veľkoobchodnej cene nad 300 Kčs za m<sup>2</sup> | 5,7 %
-
-6. | za vstavanú alebo zabudovanú skriňu šatňovú vo veľkoobchodnej cene nad 410 Kčs za m<sup>3</sup> | 8,6 %
-
-| upratovaciu a zásobárňovú vo veľkoobchodnej cene nad 650 Kčs za m<sup>3</sup> | 8,6 %
-
-7. | za kuchynskú zostavu |
-
-| 120 cm dlhú vo veľkoobchodnej cene nad 1850 Kčs za kus | 8,6 %
-
-| 150 cm dlhú vo veľkoobchodnej cene nad 2000 Kčs za kus | 8,6 %
-
-| 180 cm dlhú vo veľkoobchodnej cene nad 2150 Kčs za kus | 8,6 %
+pre výmeny jednotlivých zariadení a vybavenia bytu uskutočnených počínajúc dňom 1. júla 1988.
