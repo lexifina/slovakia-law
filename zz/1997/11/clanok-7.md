@@ -1,0 +1,5 @@
+# Článok 7
+
+- 1. Každý štát, ktorý pristúpil k dohovoru, môže pristúpiť k tomuto protokolu potom, ako protokol nadobudol platnosť.
+
+- 2. Pristúpenie sa vykoná uložením listiny o pristúpení u generálneho tajomníka Rady Európy a nadobudne účinnosť 90 dní po dni jej uloženia.
