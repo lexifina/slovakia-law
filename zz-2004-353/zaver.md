@@ -1,0 +1,1 @@
+Juraj Liška v. r.
