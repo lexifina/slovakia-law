@@ -8,7 +8,13 @@
 
 - 4) § 7 ods. 2 vyhlášky Federálneho ministerstva financií, Ministerstva financií ČSR a Ministerstva financií SSR č. 161/1976 Zb., ktorou sa vykonáva zákon o dani zo mzdy.
 
-- 5) § 114 ods. 3 posledná veta zákona č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch.
+- 5) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia.
+
+- 5a) Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
+- 5b) § 6 zákona č. 286/1992 Zb. o daniach z príjmov.
+
+- 5c) § 15 zákona č. 286/1992 Zb.
 
 - 6) § 124 ods. 2 a § 275 Zákonníka práce.
 
