@@ -4,6 +4,10 @@
 
 - Zákon SNR č. 84/1991 Zb. o daňových orgánoch v znení zákona SNR č. 136/1992 Zb.
 
+- 2a) § 829 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplne znenie č. 47/1992 Zb.).
+
+- 2b) § 27 a nasl. Zákonníka práce.
+
 - 3) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
 - 4) § 409 až 475 zákona č. 513/1991 Zb.
@@ -12,13 +16,13 @@
 
 - 6) § 536 zákona č. 513/1991 Zb.
 
-- 7) § 32 zákona č. 563/1991 Zb. o účtovníctve.
-
 - 8) § 2 zákona č. 526/1990 Zb. o cenách.
 
 - 9) Zákon č. 213/1992 Zb. o spotrebných daniach.
 
 - 10) Napr.: Zákon ČNR č. 565/1991 Zb. o miestnych poplatkoch, zákon SNR č. 544/1991 Zb. o miestnych poplatkoch v znení zákona SNR č. 72/1992 Zb.
+
+- 10a) § 29 zákona č. 286/1992 Zb. o daniach z príjmov.
 
 - 11) Vyhláška Federálneho štatistického úradu č. 124/1980 Zb. o jednotnej klasifikácii stavebných objektov a stavebných prác výrobnej povahy v znení neskorších predpisov.
 
@@ -46,11 +50,13 @@
 
 - 23) Vyhláška č. 114/1972 Zb. v znení neskorších predpisov - odbor číslo 953.
 
-- 24) § 2 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
+- 24) § 2, § 57a a 57b zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
 
 - 25) § 1 zákona č. 172/1990 Zb. o vysokých školách.
 
-- 26) § 1 ods. 2 zákona ČNR č. 390/1991 Zb. o predškolských zariadeniach a školských zariadeniach.
+- 26) § 1 ods. 2 zákona ČNR č. 390/1991 Zb. o predškolských zariadeniach a školských zariadeniach.§ 12 ods. 5 zákona ČNR č. 564/1990 Zb. o štátnej správe a samospráve v školstve.
+
+- 26a) Vyhláška č. 114/1972 Zb. o zavedení a využívaní jednotnej klasifikácie výkonov v znení neskorších predpisov - odbor 961.
 
 - 27) § 8 vyhlášky MPSV ČR č. 21/1991 Zb. o bližších podmienkach zabezpečovania rekvalifikácie uchádzačov o zamestnanie a zamestnancov.
 
@@ -60,7 +66,7 @@
 
 - 29) Zákon č. 548/1991 Zb., ktorým sa mení a dopĺňa zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona ČNR č. 210/1990 Zb. a zákona ČNR č. 425/1990 Zb.
 
-- Zákon ČNR č. 160/1992 Zb. o zdravotníckej starostlivosti v neštátnych zdravotníckych zariadeniach.
+- Zákon ČNR č. 160/1992 Zb. o zdravotníckej starostlivosti v neštátnych zdravotníckych zariadeniach.Zákon SNR č. 419/1991 Zb., ktorým sa menia a dopĺňajú niektoré predpisy v oblasti zdravotníctva.
 
 - 30) Nariadenie vlády ČR č. 216/1992 Zb., ktorým sa vydáva Zdravotnícky poriadok a vykonávajú niektoré ustanovenia zákona ČNR č. 550/1990 Zb. o všeobecnom zdravotnom poistení.
 
@@ -98,9 +104,15 @@
 
 - Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
+- 43a) Vyhláška č. 572/1990 Zb. o oslobodení tovaru dovážaného pre potrebu štátom registrovaných cirkví, náboženských spoločností, rehoľných rádov, kongregácií a ich charitatívnych zariadení od dovozného cla. Vyhláška č. 39/1992 Zb. o oslobodení vybraných druhov tovaru od dovozného cla.
+
 - 44) Vyhláška Federálneho ministerstva financií č. 586/1990 Zb. o odpisovaní základných prostriedkov v znení vyhlášky č. 345/1991 Zb.
 
 - 45) § 29 a 30 zákona č. 563/1991 Zb.
+
+- 46) § 4 zákona č. 73/1952 Zb. o dani z obratu v znení zákona č. 107/1990 Zb.
+
+- 47) § 11 zákona č. 73/1952 Zb.
 
 - 46) Vyhláška ministra zahraničných vecí č. 160/1988 Zb. o Medzinárodnom dohovore v harmonizovanom systéme opisu a číselného označovania tovaru a Protokole o jeho zmene.
 

@@ -94,6 +94,10 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 
 - | 27150000 | - Bitúmenové zmesi na báze prírodného asfaltu alebo prírodného bitúmenu, petrolejového (naftového) bitúmenu, zemného dechtu alebo smoly zo zemného dechtu (napr. asfaltový tmel), riedené a podobné výrobky
 
+- 29251100 | - Sacharín a jeho soli |
+
+- 2941 | - Antibiotiká |
+
 - 30 | - Farmaceutické výrobky |
 
 - 3209 | - Náterové farby a laky (včítane emailov a jemných lakov) založené na syntetických polyméroch alebo chemicky upravených prírodných polyméroch, rozptýlené alebo rozpustené vo vodnom prostredí |
@@ -101,6 +105,8 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 - 38239098 | - Ostatné - iba bioplyn |
 
 - 39209990 | - Ostatné - iba fóliový materiál z polyvinylalkoholu |
+
+- 440130 | - Drevené piliny, zvyšky a odpad, aj aglomerované v tvare klátov, brikiet, pelet a podobných tvaroch |
 
 - 4810 | - Papier, kartón a lepenka, natierané na jednej alebo na oboch stranách kaolínom alebo inou anorganickou látkou, tiež so spájadlom, bez akéhokoľvek ďalšieho náteru, prípadne na povrchu farbené, ozdobené alebo potlačené, v kotúčoch alebo listoch (hárkoch) - iba zo stopercentne recyklovaného papiera |
 
@@ -114,11 +120,19 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 
 - 4902 | - Noviny, časopisy a periodiká, tiež ilustrované, prípadne obsahujúce inzerciu alebo reklamy |
 
-- 84186991 | - Absorpčné tepelné čerpadlá |
+- 4903 | - Obrázkové albumy alebo obrázkové knihy, predlohy na kreslenie a maľovanky pre deti |
+
+- 4904 | - Hudobniny (noty), ručne písané alebo tlačené, aj viazané alebo ilustrované |
+
+- 4905 | - Kartografické výrobky všetkých druhov, včítane atlasov, nástenných máp, topografických plánov a glóbusov, tlačené |
+
+- 84186991 | - Ostatné tepelné čerpadlá |
 
 - 87039010 | - S elektrickými motormi - osobné automobily a iné motorové vozidlá konštruované hlavne na prepravu osôb (okrem uvedených v čísle 8702), včítane osobných dodávkových automobilov a pretekárskych automobilov |
 
 - 8713 | - Vozidlá pre invalidov, tiež s motorom alebo iným mechanickým pohonným zariadením |
+
+- 900140 | - Okuliarové šošovky zo skla |
 
 - 9021 | - Ortopedické pomôcky a prístroje, včítane bariel, liečebných a chirurgických pásov a bandáží; dlahy a iné potreby a prístroje na liečenie zlomenín; protézové pomôcky a prístroje; prístroje pre nedoslýchavých a iné prístroje nosené v ruke alebo na tele alebo implantované v organizme na kompenzovanie následkov nejakej chyby alebo neschopnosti |
 
