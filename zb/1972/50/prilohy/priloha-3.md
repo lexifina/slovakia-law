@@ -64,6 +64,8 @@ Príloha č. 1 Por. č. | Druh a názov hraničného priechodu | Druh pohraničn
 
 32. | Cestný Habartice - Zawidów | Pasový,*) malý pohraničný styk | Zawidów |
 
+33. | Cestný Krnov - Pietrowice | Malý pohraničný styk*) | Krnov |
+
 *) Občania Československej socialistickej republiky len pokiaľ cestujú do alebo zo štátov vymenovaných v poznámke:
 
 - len občania Poľskej ľudovej republiky
