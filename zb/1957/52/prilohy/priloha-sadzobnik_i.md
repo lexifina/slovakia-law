@@ -1,3 +1,23 @@
+Sadzobník I správnych poplatkov vyberaných výkonnými orgánmi národných výborov a inými orgánmi štátnej správy, s výnimkou orgánov vyberajúcich poplatky podľa sadzobníkov II až VI
+
+Oddiel G
+
+Cestná premávka a doprava
+
+Pol. | Predmet poplatku | Poplatok, ak ide o |
+
+| | automobil alebo traktor Kčs | motocykel alebo príves Kčs
+
+79 | b) v iných než pod písm. a) uvedených prípadoch ak ide o motorové kolo s obsahom do 50 ccm | 300 - | 100 10
+
+Oddiel N
+
+Finančná správa
+
+Pol. | Predmet poplatku | Poplatok Kčs
+
+116 | Povolenie vecnej lotérie, z hernej istiny | 10 %, najmenej však 40 Kčs
+
 Sadzobník III
 
 správnych poplatkov vyberaných v konaní o vynálezoch, ochranných známkach a chránených vzoroch
