@@ -1,1 +1,0 @@
-- *) Tým sa ustanovuje odchýlka z ustanovení § 1 a 11 vyhlášky č. 139/1965 Zb. o úprave niektorých hospodárskych záväzkových vzťahov v znení vyhlášky č. 119/1967 Zb.
