@@ -12,6 +12,8 @@
 
 - 3) § 116 Občianskeho zákonníka.
 
+- 3a) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
+
 - 4) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 5) Zákon č. 191/1950 Zb. zákon zmenkový a šekový.
