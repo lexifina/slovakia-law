@@ -868,8 +868,20 @@ DOČASNÁ ÚPRAVA colnej sadzby a colnej kvóty na dovoz obilnín
 
 Číselné znaky | Dočasná colná kvóta (TNN) | Dočasná colná sadzba (%) | Platnosť do
 
-1001 90 99 | 100 000 | 0 | 31. 5. 2001
+1001 90 99 | 100 000 | 0 | 30. 6. 2001
 
-1003 00 90 | 200 000 | 0 | 31. 5. 2001
+1003 00 90 | 200 000 | 0 | 30. 6. 2001
 
-1005 90 00 | 82 000 | 0 | 31. 5. 2001
+1005 90 00 | 160 000 | 0 | 30. 9. 2001
+
+Príloha č. 11 k nariadeniu vlády č. 480/2000 Z. z.
+
+DOČASNÁ ÚPRAVA colných sadzieb a colných kvót na dovoz vína v nádobách nad dva litre
+
+Číselné znaky | Dočasná colná kvóta (HLT) | Dočasná colná sadzba (%) | Platnosť do
+
+ex<sub>1</sub> 2204 29 | 120 000 | 25 | 31. 12. 2001
+
+ex<sub>2</sub> 2204 29 | 80 000 | 25 | 31. 12. 2001
+
+Poznámka: ex<sub>1</sub> 2204 29 - len biele víno ex<sub>2</sub> 2204 29 - len červené víno.
