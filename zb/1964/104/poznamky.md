@@ -22,8 +22,6 @@
 
 - **) § 99 až 117 vyhlášky č. 102/1964 Zb.
 
-- ***) Vyhláška č. 108/1964 Zb.
-
 - *) Vyhláška č. 186/1958 Ú. l. (Ú.v.) o účtovnej evidencii jednotných roľníckych družstiev.
 
 - **) Vyhláška č. 74/1964 Zb. o prenájme a používaní cestných vozidiel pre motorovú dopravu.
@@ -54,8 +52,6 @@
 
 - 8) § 3 ods. 3 vyhlášky č. 128/1975 Zb.
 
-- 9) Nariadenie vlády ČSSR č. 138/1975 Zb., ktorým sa vykonávajú niektoré ustanovenia zákona o poľnohospodárskom družstevníctve.
-
 - 10) § 14 ods. 1 písm. c) č. 1 až 5 vyhlášky č. 128/1975 Zb.
 
 - 1) § 130 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení neskorších predpisov.
@@ -79,3 +75,15 @@
 - 20) § 142 ods. 2 Zákonníka práce.
 
 - 21) § 130 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
+
+- 1) § 4 zákona č. 76/1952 Zb. o dani zo mzdy v znení neskorších predpisov.
+
+- § 4 a 5 vyhlášky Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky a Ministerstva financií Slovenskej socialistickej republiky č. 161/1976 Zb., ktorou sa vykonáva zákon o dani zo mzdy, v znení neskorších predpisov.
+
+- 2) § 53 zákona č. 95/1988 Zb. o poľnohospodárskom družstevníctve.
+
+- 3) Najmä zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia, vyhláška Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon č. 100/1988 Zb. o sociálnom zabezpečení.
+
+- 4) Vyhláška Ministerstva práce a sociálnych vecí č. 182/1968 Zb. o dávkach v materstve a prídavkoch na deti uchádzačom o zamestnanie.
+
+- 5) § 69 Zákona o rodine.

@@ -8,11 +8,9 @@
 
 - a) základná pracovná odmena, včítane príplatkov a doplatkov k tejto základnej odmene,
 
-- b) prémie, výkonnostné a mimoriadne odmeny vyplácané za výsledky pracovnej činnosti člena družstva a zahrňované do nákladov družstva,
+- b) prémie a odmeny vyplácané za výsledky pracovnej činnosti družstevníka,
 
-- c) prémie a odmeny, na ktoré sa družstvu poskytli účelové dotácie,
-
-- d) naturálne požitky.<sup>1</sup>)
+- c) naturálne požitky.<sup>1</sup>)
 
 (2) Do príjmu z pracovnej činnosti sa na výpočet priemernej dennej pracovnej odmeny nezahrňujú:
 
@@ -33,3 +31,5 @@
 - h) náhrady služobných výdavkov (náhrady cestovných a sťahovacích výdavkov, odlučné, režijné príplatky a pod.),
 
 - ch) náhrady škody (napr. pri pracovných úrazoch a chorobách z povolania).
+
+- i) príjmy, ktoré by sa nezahrnuli do započítateľných zárobkov pracovníka preto, že boli sčasti oslobodené od dane zo mzdy.<sup>1</sup>)
