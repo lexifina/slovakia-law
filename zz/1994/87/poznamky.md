@@ -1,16 +1,10 @@
 - 1) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení zákona č. 27/1984 Zb.
 
-- 2) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
-
 - 3) § 94 a 96 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 3a) § 3 ods. 2, 3 a 4 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
 
 - 3b) § 2 písm. ay) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
-
-- 4a) § 2 zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
-
-- 4b) § 22 zákona č. 286/1992 Zb. v znení neskorších predpisov.§ 21 Obchodného zákonníka.
 
 - 5) Predpisy EHK OSN č. 83-01 alebo 24-03 a 49-02.
 
