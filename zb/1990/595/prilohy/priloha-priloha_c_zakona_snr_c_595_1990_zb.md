@@ -186,14 +186,6 @@ p.c. | Úsek štátnej správy | právna úprava | | Predmet pôsobnosti
 
 64. | -"- | -"- | § 23 | Ustanovovanie na návrh správcov vodných tokov, správcov (vlastníkov, užívatelov) vodohospodárskych diel, alebo na návrh spolocenskej organizácie vodnej stráže na ochranu vôd, vodných tokov a na ochranu vodohospodárskych diel.
 
-65. | ochrany ovzdušia | zák. c. 35/1967 Zb. | § 4 a 7 | Rozhodovanie o uložení pokút organizáciám a ich pracovníkom za porušovanie povinnosti ustanovených na úseku ochrany cistoty ovzdušia.
-
-66. | -"- | -"- | § 7 | Rozhodovanie o poplatkoch za znecistovanie ovzdušia.
-
-67. | -"- | -"- | § 10 | Ukladanie penále za nedodržanie lehoty na podanie oznámenia údajov potrebných na urcenie poplatkov za znecistovanie ovzdušia a penále za oneskorené platenie urcených poplatkov a pokút.
-
-68. | -"- | -"- | § 8 | Sledovanie organizácií, ktoré sú povinné podávat oznámenie, ci si riadne a vcas túto povinnost splnili.
-
 69. | územného plánovania a stavebného poriadku | zák. c. 50/1976 Zb. | § 25 ods. 1 | Posudzovanie návrhu územného plánu nadriadeným orgánom územného plánovania.
 
 70. | -"- | -"- | § 33, 39, 40, 41 | Vydávanie územných rozhodnutí, ich zmeny.
