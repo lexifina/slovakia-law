@@ -159,3 +159,5 @@ Nariadenie vlády Slovenskej republiky č. 519/1992 Zb. o platových pomeroch pr
 - (6)
 
 - Osobitný príplatok sa neposkytuje policajtovi počas štúdia alebo kurzu v zahraničí, ak trvá dlhšie ako jeden mesiac.“.
+
+- 12. Príloha č. 2 nariadenia vlády Slovenskej republiky č. 519/1992 Zb. sa nahrádza prílohou tohto nariadenia.
