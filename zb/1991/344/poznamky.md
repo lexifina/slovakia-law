@@ -1,0 +1,1 @@
+- 1) Poriadok sa vydáva ako samostatná príloha Zbierky zákonov a možno ho na objednávku dostať v odbytovom stredisku SEVT, Tržiště 9, 118 16 Praha 1.
