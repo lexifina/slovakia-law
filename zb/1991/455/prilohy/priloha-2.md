@@ -24,7 +24,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 8. | Overovanie určených meradiel Úradné meranie | rozhodnutie o autorizácii | § 24 zák. č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov |
 
-- 9. | Očná optika | absolvent strednej zdravotníckej školy s maturitou v študijnom odbore očný optik a päťročná prax v odbore | § 28a ods. 2 a 3 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona NR SR č. 220/1996 Z. z. o reklame v znení neskorších predpisov
+- 9. | Očná optika | - vyššie odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo- úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov
+
+- 9a. | Zubná technika | - vyššie odborné vzdelanie v študijnom odbore diplomovaný zubný technik alebo- úplné stredné odborné vzdelanie na strednej zdravotníckej škole v odbore zubná technika a päťročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov
 
 - SKUPINA 207 - Výroba chemických výrobkov | | | |
 
@@ -44,7 +46,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 14. | Výkon činnosti vedenia uskutočňovania stavieb na individuálnu rekreáciu, prízemných stavieb a stavieb zariadenia staveniska, ak ich zastavaná plocha nepresahuje 300 m<sup>2</sup> a výšku 15 m, drobných stavieb a ich zmien | vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru alebo odborné stredoškolské vzdelanie stavebného smeru a 3 roky praxe v odbore | § 44 ods. 2 zák. č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z. |
 
-- 15. | Výkon činnosti stavbyvedúcehoVýkon činnosti stavebného dozoru | osvedčenie o vykonaní odbornej skúšky | § 31 ods. 2 písm. j) zák. SNR č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 236/2000 Z. z. |
+- 15. | Výkon činnosti stavbyvedúceho Výkon činnosti stavebného dozoru | osvedčenie o vykonaní skúšky odbornej spôsobilosti | § 31 ods. 2 písm. j) zák. SNR č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov |
 
 - 16. | Vykonávanie trhacích prác | 1. oprávnenie strelmajstra, vek 21 rokov alebo 2. oprávnenie technického vedúceho odstrelu, vek 24 rokov | § 35 zák. SNR č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona SNR č. 499/1991 Zb. |
 
@@ -129,3 +131,5 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore |
 
 - 57. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
+
+- 58. | Doprava do zdravotníckeho zariadenia alebo zo zdravotníckeho zariadenia | - stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore sanitár a trojročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov |
