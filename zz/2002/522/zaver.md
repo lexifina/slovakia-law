@@ -1,0 +1,1 @@
+Mikuláš Dzurinda v. r.
