@@ -1,0 +1,1 @@
+- 1) Vládne nariadenie č. 32/1947 Zb. o úprave všeobecného colného sadzobníka v znení platnom k 31. 12. 1971.
