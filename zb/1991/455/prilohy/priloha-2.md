@@ -28,7 +28,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 207 - Výroba chemických výrobkov | | | |
 
-- 10. | Výroba a predaj jedov s výnimkou jedov zvlášť nebezpečných | odborná spôsobilosť podlá osobitných predpisov*) | *) § 15 ods. 3 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov§ 21 písm. e) zák. NR SR č. 272/1994 Z. z. o ochrane zdravia ľudí |
+- 10. | Zrušená od 1. 7. 2002. | |
 
 - SKUPINA 213 - Stavebníctvo | | | |
 
@@ -36,7 +36,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - | Vypracovanie dokumentácie a projektu technického, technologického a energetického vybavenia týchto stavieb | 1. vysokoškolské vzdelanie príslušného technického smeru alebo 2. odborné stredoškolské vzdelanie príslušného technického smeru
 
-- | Projektovanie stavieb | osvedčenie o vykonaní odbornej skúšky | § 43c zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 554/2001 Z. z. |
+- | Projektovanie stavieb | osvedčenie o odbornej spôsobilosti | § 43c zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 554/2001 Z. z. |
 
 - 12. | Uskutočňovanie stavieb a ich zmien | 1. vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru a 4 roky praxe v odbore alebo 2. odborné stredoškolské vzdelanie stavebného smeru a 8 rokov praxe v odbore | | I
 
@@ -50,7 +50,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 17. | Vykonávanie činnosti inštruktora lešenárskej a horolezeckej (speleologickej) techniky | preukaz inštruktora lešenárskej, horolezeckej (speleologickej) techniky vydaný vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce | § 9 ods. 3 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 374/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach |
 
-- 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie | § 4 ods. 3 zák. č. 90/1998 Z. z. o stavebných výrobkoch v znení zák. č. 264/1 999 Z. z. |
+- 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie | § 4 ods. 3 zák. č. 90/1998 Z. z. o stavebných výrobkoch v znení zák. č. 264/1999 Z. z. |
 
 - SKUPINA 214 - Ostatné | | | |
 
@@ -110,7 +110,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 45. | Verejné obstarávanie | preukaz o odbornej spôsobilosti | § 68 zák. č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov |
 
-- 46. | Hubenie škodlivých živočíchov, rastlín, mikroorganizmov a potláčanie ďalších škodlivých činiteľov jedmi vrátane ochrannej dezinfekcie, dezinsekcie, deratizácie | osvedčenie | § 21 písm. e) zák. NR SR č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov |
+- 46. | Zrušená od 1. 7. 2002. | |
 
 - 47. | Inseminácia | 1. vysokoškolské vzdelanie veterinárnej medicíny alebo zootechniky alebo2. osvedčenie o odbornej spôsobilosti | § 25 ods. 1 písm. d) a § 25 ods. 2 zák. č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
@@ -120,4 +120,14 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 50. | Podnikanie v oblasti nakladania s nebezpečným odpadom | odborná spôsobilosť podlá osobitných predpisov | § 40 zák. č. 223/2001 Z. z. o odpadoch |
 
-- 51. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | 1. vysokoškolské vzdelanie ekonomického alebo právnického smeru alebo2. úplné stredné vzdelanie s maturitnou skúškou a 5 rokov praxe v odbore | |
+- 51. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | 1. vysokoškolské vzdelanie ekonomického alebo právnického alebo stavebného smeru alebo2. úplné stredné vzdelanie s maturitnou skúškou a 5 rokov praxe v odbore | |
+
+- 52. | Havarijný technik a Špecialista na prevenciu závažných priemyselných havárií | osvedčenie | § 12 ods. 6 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov |
+
+- 53. | Vykonávanie odbornej prípravy na úseku prevencie závažných priemyselných havárií | oprávnenie | § 13 ods. 1 a 5 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov |
+
+- 54. | Bezpečnostnotechnické služby | 1. osvedčenie alebo 2. odborné vzdelanie v oblasti bezpečnosti a ochrany zdravia pri práci získanej vysokoškolským alebo stredoškolským štúdiom | § 12 zák. č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov |
+
+- 55. | Prevádzkovanie verejných vodovodov I. až III. kategórie a prevádzkovanie verejných kanalizácií I. až III. kategórie | osvedčenie o odbornej spôsobilosti na prevádzkovanie verejných vodovodov a verejných kanalizácií | |
+
+- 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore | |

@@ -134,7 +134,7 @@
 
 - 23o) Vyhláška Ministerstva poľnohospodárstva a výživy Slovenskej republiky č. 155/1992 Zb., ktorou sa určujú podmienky oprávnenia na projektové práce v odbore pozemkových úprav.
 
-- 23p) § 2 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 23p) § 14 ods. 2 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
 - 23r) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
@@ -192,11 +192,11 @@
 
 - § 25 vyhlášky Ministerstva školstva, mládeže a športu SR č. 102/1991 Zb. o ukončovaní štúdia na stredných školách a ukončovaní prípravy v odborných učilištiach a učilištiach.
 
-- 31) § 9 ods. 1 a 2 a § 25 ods. 1 a 7 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
+- 31) § 9 ods. 1 a 2 a § 25 ods. 1 a 7 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
-- 31a) § 7 vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 51/1991 Zb., ktorou sa určujú bližšie podmienky zabezpečovania rekvalifikácie uchádzačov o zamestnanie a zamestnancov, ako aj podmienky na vydávanie dokladov o kvalifikácii s celoštátnou pôsobnosťou.
+- 31a) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
 
-- 31b) Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+- 31b) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
 - 31c) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
 
@@ -225,6 +225,8 @@
 - 36f) § 71a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 124/1998 Z. z.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 37a) § 62 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
 - 38) Druhá časť a tretia časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
