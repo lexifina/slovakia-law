@@ -20,6 +20,8 @@
 
 - 9) Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení zákona č. 411/2002 Z. z.
 
+- 9a) Zákon č. 391/2004 Z. z. o plate poslanca Európskeho parlamentu a o zmene a doplnení niektorých zákonov.
+
 - 10) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení zákona č. 445/2001 Z. z.
 
 - 11) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
@@ -89,6 +91,8 @@
 - 41) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
 - 42) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 154/2001 Z. z. v znení neskorších predpisov, zákon č. 315/2001 Z. z. v znení neskorších predpisov.
+
+- 42a) Zákon č. 331/2003 Z. z. o voľbách do Európskeho parlamentu v znení neskorších predpisov.
 
 - 43) § 38 ods. 6 zákona Národnej rady Slovenskej republiky č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
