@@ -1,1 +1,0 @@
-Eva Slavkovská v. r.

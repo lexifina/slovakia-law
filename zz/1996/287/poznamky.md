@@ -1,1 +1,0 @@
-- 1) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
