@@ -55,3 +55,7 @@
 - 19) Vyhláška ministerstiev zdravotníctva a zahraničných vecí č. 75/1967 Zb. o dodatkovej dovolenke pracovníkov, ktorí vykonávajú zdraviu škodlivé alebo zvlášť obťažné práce, a o náhrade za stratu na zárobku po skončení pracovnej neschopnosti pri niektorých chorobách z povolania v znení neskorších predpisov.
 
 - 20) § 2 ods. 1 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+
+- 21) § 13c zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 530/2004 Z. z.
+
+- § 9 ods. 6 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 530/2004 Z. z.
