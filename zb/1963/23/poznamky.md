@@ -1,1 +1,0 @@
-- *) Zoznam platných predpisov z odboru štátnej kontroly a štatistiky bol uverejnený vo Vestníku Ústredného úradu štátnej kontroly a štatistiky, ročník III., čiastka 21-22 z 22. decembra 1962.
