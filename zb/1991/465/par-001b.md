@@ -9,5 +9,3 @@
 (2) Vyššiu cenu ako zistenú podľa tejto vyhlášky nemožno dojednať pri prevodoch stavieb, bytov a nebytových priestorov, pozemkov a trvalých porastov, ak je úhrada ceny vykonávaná z prostriedkov štátneho rozpočtu alebo ďalších prostriedkov štátu<sup>6b</sup>).
 
 (3) Nájomné za nájom pozemkov neslúžiacich účelom podnikania vrátane poľnohospodárskej výroby sa môže dojednať až do výšky maximálneho nájomného určeného v § 17.
-
-(4) Pri prevodoch stavieb, bytov a nebytových priestorov, pozemkov a trvalých porastov na tuzemskú právnickú osobu so zahraničnou majetkovou účasťou alebo zahraničnú osobu platí obmedzenie podľa § 22 ods. 1.
