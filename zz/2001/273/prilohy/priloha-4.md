@@ -1,4 +1,4 @@
-Príloha č. 4 k vyhláške č. 273/2001 Z. z. [Príloha 04](../assets/c83a488d84ed7682b73f20fc3571672ea8ec2e390e2932a499f8d5955af9ab84.pdf)
+Príloha č. 4 k vyhláške č. 273/2001 Z. z.
 
 - Prípady, v ktorých je alebo môže byť súčasťou žiadosti o vydanie rozhodnutia, žiadosti o vydanie vyjadrenia orgánu štátnej správy odpadového hospodárstva a žiadosti o udelenie autorizácie odborný posudok o vplyve uvažovanej činnosti alebo zariadenia na životné prostredie
 
@@ -14,7 +14,7 @@ Príloha č. 4 k vyhláške č. 273/2001 Z. z. [Príloha 04](../assets/c83a488d8
 
   - 5. vydanie prevádzkového poriadku zariadenia na zneškodňovanie odpadov a zariadenia na zhodnocovanie nebezpečných odpadov podľa § 7 ods. 1 písm. f) zákona,
 
-  - 6. vydanie súhlasu na nakladanie s nebezpečným odpadom okrem prepravy podľa § 7 ods. 1 písm. g) zákona,
+  - 6. vydanie súhlasu na nakladanie s nebezpečnými odpadmi podľa § 7 ods. 1 písm. g) zákona okrem ich prepravy a okrem ich zhromažďovania u pôvodcu odpadov,
 
   - 7. vydanie súhlasu ministerstva na použitie technológie na nakladanie s nebezpečným odpadom na mobilných zariadeniach vrátane všeobecných podmienok prevádzkovania mobilných zariadení podľa § 7 ods. 1 písm. h) zákona,
 
@@ -23,6 +23,20 @@ Príloha č. 4 k vyhláške č. 273/2001 Z. z. [Príloha 04](../assets/c83a488d8
   - 9. vydanie súhlasu na uzavretie skládky odpadov alebo jej časti, vykonanie jej rekultivácie a jej následné monitorovanie podľa § 7 ods. 1 písm. k) zákona,
 
   - 10. udelenie autorizácie ministerstvom podľa § 9 ods. 4 zákona na jednotlivé činnosti alebo spolu na viac činností:
+
+    - a) nakladanie s opotrebovanými batériami a akumulátormi
+
+  - 1. zber,
+
+  - 2. zhodnocovanie a zneškodňovanie,
+
+    - b) nakladanie s odpadovými olejmi
+
+  - 1. zber,
+
+  - 2. zhodnocovanie a zneškodňovanie,
+
+    - c) zber a spracovanie starých vozidiel,
 
   - 11. vyhodnotenie stavu plnenia technických požiadaviek, ako aj požiadaviek a podmienok ustanovených v rozhodnutí o udelení autorizácie podľa § 13 ods. 3 zákona,
 
