@@ -90,6 +90,8 @@
 
 - 26) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
 
+- 26a) Zákon č. 370/1997 Z. z. v znení neskorších predpisov.
+
 - 27) § 1a písm. g) vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
 - 28) § 111, 113, 114, 122, 127 a 144 zákona č. 370/1997 Z. z.
