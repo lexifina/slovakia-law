@@ -1,5 +1,11 @@
 - 1) § 6 zákona č. 21/1992 Zb. o bankách.
 
+- 1a) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov. Nariadenie vlády ČSFR č. 383/1991 Zb. o vydávaní a použití investičných kupónov v znení nariadenia vlády ČSFR č. 69/1992 Zb.
+
+- 1b) Zákon č. 600/1992 Zb. o cenných papieroch.
+
+- 1c) Oznámenie č. 33 Ministerstva zahraničných vecí Slovenskej republiky o uzavretí Platobnej zmluvy medzi Slovenskou republikou a Českou republikou a Zmluvy medzi Slovenskou republikou a Českou republikou o používaní peňažných prostriedkov v národných menách v oblasti vzájomného cestovného ruchu.
+
 - 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov. Zákon č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
 
 - 3) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike v znení zákona č. 157/1989 Zb.
