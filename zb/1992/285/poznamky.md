@@ -12,9 +12,7 @@
 
 - 7) § 4 vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 51/1991 Zb., ktorou sa určujú bližšie podmienky zabezpečovania rekvalifikácie uchádzačov o zamestnanie a zamestnancov, ako aj podmienky na vydávanie dokladov o kvalifikácii s celoštátnou pôsobnosťou.
 
-- 8) § 4 zákona Slovenskej národnej rady č. 83/1991 Zb. v znení zákona Slovenskej národnej rady č. 194/1992 Zb.
-
-- Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 51/1991 Zb.
+- 8) § 10 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona Národnej rady Slovenskej republiky č. 247/1993 Z. z.Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 51/1991 Zb.
 
 - 9) Zákon č. 119/1992 Zb. o cestovných náhradách.
 
@@ -23,3 +21,5 @@
 - 11) § 22 ods. 2 zákona č. 1/1991 Zb. v znení zákona č. 578/1991 Zb. o štátnom rozpočte federácie na rok 1992 a o zmene daňových a niektorých ďalších zákonov.
 
 - § 14 ods. 1 písm. f) č. 4 zákona Slovenskej národnej rady č. 83/1991 Zb. v znení zákona Slovenskej národnej rady č. 194/1992 Zb.
+
+- 12) Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 245/1993 Z. z. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, špeciálnych stredných odborných učilíšť, odborných učilíšť a učilíšť.
