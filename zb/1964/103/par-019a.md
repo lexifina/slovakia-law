@@ -2,7 +2,7 @@
 
 # § 19a Vyrovnávací príspevok v tehotnosti a materstve
 
-(1) Družstevníčke, ktorá vykonávala prácu, ktorá je tehotným ženám zakázaná alebo ktorá podľa lekárskeho posudku ohrozuje jej tehotnosť, a je preto v tehotnosti dočasne prevedená na inú prácu, pri ktorej dosahuje bez svojho zavinenia nižší príjem ako na doterajšej práci, patrí vyrovnávací príspevok.*)
+(1) Družstevníčke, ktorá vykonávala prácu, ktorá je tehotným ženám zakázaná alebo ktorá podľa lekárskeho posudku ohrozuje jej tehotnosť, a je preto v tehotnosti dočasne prevedená na inú prácu, pri ktorej dosahuje bez svojho zavinenia nižší príjem ako na doterajšej práci, patrí vyrovnávací príspevok.<sup>2</sup>)
 
 (2) Ustanovenie predchádzajúceho odseku platí obdobne o matkách do konca deviateho mesiaca po pôrode.
 
@@ -12,4 +12,4 @@
 
 (5) Vyrovnávací príspevok nepatrí, ak družstevníčka po prevedení na inú prácu neodpracovala bez vážnych dôvodov v kalendárnom mesiaci aspoň osem pracovných dní.
 
-(6) Ministerstvo práce a sociálnych vecí po dohode s Ministerstvom poľnohospodárstva a výživy a s Ústrednou radou odborov vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.
+(6) Ministerstvo práce a sociálnych vecí<sup>3</sup>) po dohode s Ministerstvom poľnohospodárstva a výživy a s Ústrednou radou odborov vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.

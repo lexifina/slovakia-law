@@ -4,7 +4,7 @@ ZÁKON
 
 zo 4. júna 1964
 
-## o sociálnom zabezpečení družstevných roľníkov
+## o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa
 
 Ústava Československej socialistickej republiky zaručuje všetkým pracujúcim právo na hmotné zabezpečenie v starobe a pri pracovnej neschopnosti.
 
@@ -16,12 +16,12 @@ XII. sjazd Komunistickej strany Československa ustanovil ako hlavnú úlohu cel
 
 Zákonom č. 56/1964 Zb. bolo sociálne zabezpečenie družstevných roľníkov ďalej zvýhodnené tým, že sa všetkým družstevníčkam predĺžila materská dovolenka ako ostatným pracujúcim ženám, prídavky na deti boli upravené za rovnakých podmienok a v rovnakej výške ako u ostatných pracujúcich a nárok na nemocenské zo štátnych prostriedkov bol rozšírený v niektorých prípadoch na členov všetkých družstiev. V dôchodkovom zabezpečení družstevných roľníkov bol rozšírený počet dôchodkových pásiem.
 
-Týmto zákonom sa upravuje dôchodkové zabezpečenie členov jednotných roľníckych družstiev s vyššou úrovňou hospodárenia v podstate rovnako ako pre pracovníkov v pracovnom pomere a niektoré zásady úpravy dôchodkového zabezpečenia pracovníkov sa vykonávajú i v dôchodkovom zabezpečení členov ostatných jednotných roľníckych družstiev.
+(Týmto zákonom sa upravuje dôchodkové zabezpečenie členov jednotných roľníckych družstiev s vyššou úrovňou hospodárenia v podstate rovnako ako pre pracovníkov v pracovnom pomere a niektoré zásady úpravy dôchodkového zabezpečenia pracovníkov sa vykonávajú i v dôchodkovom zabezpečení členov ostatných jednotných roľníckych družstiev.)<sup>1</sup>)
 
 Dávky a služby sociálneho zabezpečenia poskytuje štát. Na čiastočnú úhradu nákladov sociálneho zabezpečenia prispievajú družstvá.
 
 Jednotné roľnícke družstvá sa podieľajú na vykonávaní sociálneho zabezpečenia.
 
-Týmto zákonom sa dáva základ pre to, aby s postupným prechodom družstiev na vyššiu úroveň hospodárenia dosahovali družstevníci na úseku sociálneho zabezpečenia rovnaké nároky ako ostatní pracovníci a aby sa tým i v sociálnej oblasti postupne odstraňovali rozdiely medzi poľnohospodárstvom a priemyslom.
+(Týmto zákonom sa dáva základ pre to, aby s postupným prechodom družstiev na vyššiu úroveň hospodárenia dosahovali družstevníci na úseku sociálneho zabezpečenia rovnaké nároky ako ostatní pracovníci a aby sa tým i v sociálnej oblasti postupne odstraňovali rozdiely medzi poľnohospodárstvom a priemyslom.)<sup>1</sup>)
 
 Na dosiahnutie týchto cieľov Národné zhromaždenie Československej socialistickej republiky uznieslo sa na tomto zákone:
