@@ -1,0 +1,3 @@
+Predseda:
+
+Teper v. r.
