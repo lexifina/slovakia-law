@@ -1,1 +1,0 @@
-- 1) § 2 zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon).
