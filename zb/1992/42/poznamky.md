@@ -47,3 +47,5 @@
 - 13) § 221 a nasl. zákona č. 513/1991 Zb.
 
 - 14) Zákon č. 389/1990 Zb. o dani z príjmov obyvateľstva.
+
+- 15) Národná rada Slovenskej republiky podľa čl. 154 ods. 1 Ústavy Slovenskej republiky č. 460/1992 Zb.
