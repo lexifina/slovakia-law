@@ -1,0 +1,1 @@
+PRÍLOHA VYHLÁŠKY č. 93/1970 Zb. [Obrázok 01](../assets/80ea2d0e6fbe1d23f3c34e81164a7dea733745226a0d9ec6a01856327ff06408.pdf)
