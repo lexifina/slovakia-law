@@ -4,6 +4,8 @@
 
 - 3) § 19 písm. j) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 290/1996 Z. z.
 
+- 3a) § 42 ods. 2 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+
 - 4) § l9 písm. i) a § 22, 24 až 26 zákona Národnej rady Slovenskej republiky č. 272/l994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 290/1996 Z. z.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
