@@ -36,6 +36,8 @@
 
 - 11c) § 89 ods. 14 Trestného zákona v znení neskorších predpisov.
 
+- 11d) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
+
 - 11e) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (Živnostenský zákon) v znení neskorších predpisov, zákon č. 513/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
 
 - 11f) § 38 ods. 3 zákona č. 21/1992 Zb. o bankách.
