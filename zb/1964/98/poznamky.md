@@ -1,1 +1,0 @@
-- *) Vyhláška č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
