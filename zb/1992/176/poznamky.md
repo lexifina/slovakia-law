@@ -2,11 +2,11 @@
 
 - § 3 ods. 2 a § 5 ods. 3 písm. f) zákona SNR č. 494/1991 Zb. o štátnej správe v odpadovom hospodárstve.
 
-- 2) § 8 vyhlášky Štátnej komisie pre vedeckotechnický a investičný rozvoj č. 43/1990 Zb. o projektovej príprave stavieb.
+- 2) § 2 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení zákona Národnej rady Slovenskej republiky č. 120/1996 Z. z.
 
-- 3) § 4 vyhlášky č. 43/1990 Zb.
+- 3) § 54 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
-- 4) § 54 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 4) Napríklad § 8 a 13 zákona č. 138/1973 Zb. o vodách (vodný zákon), § 4 zákona č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z., § 27 ods. 1 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
 - 5) Napr. § 8, 13 zákona č. 138/1973 Zb. o vodách (vodný zákon), § 4 zákona č. 238/1991 Zb., § 50 ods. 1 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
 
