@@ -1,0 +1,1 @@
+- 1) Dňa 7. augusta 1997 bola v zmysle zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov vykonaná zmena názvu Zväz dopravy Slovenska na Zväz autobusovej dopravy.
