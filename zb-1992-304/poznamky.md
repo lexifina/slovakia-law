@@ -1,0 +1,1 @@
+- 1) Devízový zákon č. 528/1990 Zb. v znení zákona č. 228/1992 Zb. Vyhláška č. 303/1992 Zb., ktorou sa vykonáva devízový zákon.
