@@ -38,7 +38,7 @@
 
 - 16a) § 3 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení neskorších predpisov.
 
-- 16b) § 43 ods. 2 a 3 Zákona o rodine.
+- 16b) § 43 ods. 2 a 3 a § 46 Zákona o rodine.
 
 - 16c) § 44 a 45 Zákona o rodine.
 
@@ -76,7 +76,9 @@
 
 - 31) § 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
-- 32) § 24 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+- 32) § 24 ods. 1 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+
+- 32a) § 28 a 31 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
 - 33) § 2 písm. c) zákona č. 125/1998 Z. z.
 
@@ -87,8 +89,6 @@
 - 36) § 2 písm. a) zákona č. 125/1998 Z. z.
 
 - 37) § 175a až 175z Občianskeho súdneho poriadku.
-
-- 38) § 6 zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 39) § 251 až 351 Občianskeho súdneho poriadku.
 
@@ -117,6 +117,8 @@
 - 48) Vyhláška ministra zahraničných vecí č. 33/1959 Zb. o Dohovore o vymáhaní výživného v cudzine.Vyhláška ministra zahraničných vecí č. 132/1976 Zb. o Dohovore o uznávaní a výkone rozhodnutí o vyživovacej povinnosti.
 
 - 49) Napríklad zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov.
+
+- 49a) Napríklad vyhláška Federálneho ministerstva zahraničných vecí č. 104/1991 Zb. o dojednaní Dohovoru o právach dieťaťa.
 
 - 50) § 10 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.Nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
 

@@ -22,6 +22,6 @@
 
 - d) utvárajú podmienky na prípravu stravy.
 
-(3) Domov-penzión pre dôchodcov môže v rámci starostlivosti poskytovať stravovanie v rozsahu obeda na základe dohody s občanom, ktorému sa táto starostlivosť poskytuje.
+(3) Domov-penzión pre dôchodcov môže v rámci starostlivosti poskytovať stravovanie v rozsahu obeda na základe dohody s občanom, ktorému sa táto starostlivosť poskytuje. Na poskytovanie stravovania ustanovenia § 20 ods. 4 až 7 platia rovnako.
 
 (4) Na poskytovanie bývania ustanovenie § 20 ods. 8 platí rovnako.

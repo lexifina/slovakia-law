@@ -1,3 +1,3 @@
 Príloha č. 6 k zákonu č. 195/1998 Z. z.
 
-- Vzor preukazu občana s ťažkým zdravotným postihnutím [Príloha 06](../assets/48b7f6fce583b5a8491c7724fcff93c28da9b7e824c401f7d0e04bf738ee35ef.pdf)
+- Vzor preukazu občana s ťažkým zdravotným postihnutím [Príloha 06](../assets/15ff4250364b0aed21e8365ec0f7f68cf9f1ee0c26ed10dd0668814a96434c16.pdf)

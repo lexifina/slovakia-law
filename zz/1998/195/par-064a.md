@@ -1,0 +1,19 @@
+# § 64a Peňažný príspevok za opatrovanie
+
+(1) Fyzickej osobe uvedenej v § 58 ods. 2, ktorá opatruje občana s ťažkým zdravotným postihnutím staršieho ako šesť rokov odkázaného podľa posudku vydaného podľa § 57 ods. 1 a 2 na celodenné, osobné a riadne opatrovanie (ďalej len „opatrovanie“), možno poskytnúť peňažný príspevok za opatrovanie. Peňažný príspevok nemožno poskytnúť, ak starostlivosť zabezpečuje rodič, ktorému sa poskytuje rodičovský príspevok, alebo ak občanovi s ťažkým zdravotným postihnutím sa poskytuje peňažný príspevok na osobnú asistenciu alebo ak sa starostlivosť zabezpečuje opatrovateľskou službou.
+
+(2) Opatrovanie občana s ťažkým zdravotným postihnutím osobou uvedenou v § 58 ods. 2 je zamerané na zabezpečenie pomoci pri nevyhnutných životných úkonoch, pri nevyhnutných prácach v domácnosti a pri zabezpečení kontaktu so spoločenským prostredím, ako je uvedené v prílohe č. 1. Za celodenné, osobné a riadne opatrovanie osobou uvedenou v § 58 ods. 2 sa na účely tohto zákona považuje aj opatrovanie v rozsahu podľa odsekov 5 a 6.
+
+(3) Fyzická osoba, ktorá vykonáva opatrovanie, musí mať aspoň 18 rokov veku, spôsobilosť na právne úkony a písomný súhlas občana s ťažkým zdravotným postihnutím.
+
+(4) Peňažný príspevok za opatrovanie sa poskytuje vo výške 1,65-násobku sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom<sup>36</sup>) pri opatrovaní jedného občana s ťažkým zdravotným postihnutím a vo výške 2,25-násobku sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom<sup>36</sup>) pri opatrovaní dvoch, prípadne viacerých občanov s ťažkým zdravotným postihnutím.
+
+(5) Ak občan s ťažkým zdravotným postihnutím odkázaný na opatrovanie osobou uvedenou v § 58 ods. 2 navštevuje zariadenie sociálnych služieb, základnú školu, strednú školu, vysokú školu alebo školské zariadenie typu predškolského zariadenia, školského klubu, školského strediska záujmovej činnosti a centra voľného času v rozsahu viac ako štyroch hodín denne, peňažný príspevok za opatrovanie sa poskytuje vo výške 1,35-násobku sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom.<sup>36</sup>) Pri opatrovaní dvoch, prípadne viacerých občanov s ťažkým zdravotným postihnutím navštevujúcich tieto zariadenia v rozsahu viac ako štyroch hodín denne sa peňažný príspevok poskytuje vo výške 1,95-násobku sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom.<sup>36</sup>)
+
+(6) Ak jeden občan s ťažkým zdravotným postihnutím odkázaný na opatrovanie osobou uvedenou v § 58 ods. 2 navštevuje zariadenia uvedené v odseku 5 v rozsahu viac ako štyroch hodín denne a druhý občan s ťažkým zdravotným postihnutím odkázaný na opatrovanie osobou uvedenou v § 58 ods. 2 nenavštevuje tieto zariadenia alebo ich navštevuje v rozsahu najviac štyroch hodín denne, peňažný príspevok za opatrovanie sa poskytuje vo výške 2,15-násobku sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom.<sup>36</sup>)
+
+(7) Peňažný príspevok možno poskytnúť, len ak osoba uvedená v § 58 ods. 2 nemá v čase opatrovania občana odkázaného na opatrovanie mesačný príjem zo zárobkovej činnosti presahujúci 0,6-násobok sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom.<sup>36</sup>)
+
+(8) Ak je občan s ťažkým zdravotným postihnutím odkázaný na opatrovanie osobou uvedenou v § 58 ods. 2 poberateľom zvýšenia dôchodku pre bezvládnosť, peňažný príspevok za opatrovanie vypočítaný podľa odsekov 4 až 6 sa zníži o sumu zvýšenia dôchodku pre bezvládnosť.
+
+(9) Výška peňažného príspevku za opatrovanie sa kráti pomernou časťou o dni, ktoré bol občan s ťažkým zdravotným postihnutím v zdravotníckom zariadení, školskom zariadení typu školy v prírode, na rehabilitačnom pobyte alebo na rekreačnom pobyte za čas dlhší ako 30 dní. Preplatky možno zúčtovať so sumami peňažného príspevku za opatrovanie poskytovanými v ďalších mesiacoch.

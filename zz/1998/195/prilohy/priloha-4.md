@@ -4,913 +4,793 @@ Príloha č. 4 k zákonu č. 195/1998
 
   - I. Infekčné a parazitárne choroby
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - 1. Tuberkulóza |
+  - 1. Tuberkulóza | | |
 
-  - 1.1. dýchacích ústrojov |
+  - | 1.1. dýchacích ústrojov | |
 
-  - a) počas aktivity ochorenia | 40
+  - | | a) počas aktivity ochorenia | 40
 
-  - b) počas aktivity ochorenia s funkčným obmedzením stredného až ťažkého stupňa |
+  - | | b) počas aktivity ochorenia s funkčným obmedzením stredného až ťažkého stupňa s komplikáciami | 50-70
 
-  - s komplikáciami | 50-70
+  - | 1.2. iných orgánov a systémov | |
 
-  - 1.2. iných orgánov a systémov |
+  - | | a) počas aktivity ochorenia | 40
 
-  - a) počas aktivity ochorenia | 40
+  - | | b) počas aktivity ochorenia s funkčným obmedzením stredného až ťažkého stupňa s komplikáciami | 50-70
 
-  - b) počas aktivity ochorenia s funkčným obmedzením stredného až ťažkého stupňa |
+  - 2. Infekčné a parazitárne choroby s následkami | | |
 
-  - s komplikáciami | 50-70
+  - | 2.1. ľahké poruchy funkcie niektorých orgánov a systémov, | | 10-20
 
-  - 2. Infekčné a parazitárne choroby s následkami |
+  - | 2.2. stredne ťažké formy s recidívou alebo trvalé aktívne so znížením výkonnosti funkcie orgánu | | 30-40
 
-  - 2.1. ľahké poruchy funkcie niektorých orgánov a systémov, | 10-20
+  - | 2.3. ťažké formy liečbou neovplyvniteľné, chronické stavy s ťažkou poruchou funkcie orgánu a s ťažkým obmedzením výkonnosti | | 50-70
 
-  - 2.2. stredne ťažké formy s recidívou alebo trvalé aktívne so znížením výkonnosti funkcie |
+  - 3. AIDS | | |
 
-  - orgánu | 30-40
+  - | 3.1. zistenie HIV-infekcie bez klinických príznakov | | 0
 
-  - 2.3. ťažké formy liečbou neovplyvniteľné, chronické stavy s ťažkou poruchou funkcie |
+  - | 3.2. syndróm lymfadenopatie | |
 
-  - orgánu a s ťažkým obmedzením výkonnosti | 50-70
+  - | | a) ľahká alterácia celkového stavu | 30
 
-  - 3. AIDS |
+  - | | b) stredne ťažká alterácia celkového stavu a výkonnosti | 50-60
 
-  - 3.1. zistenie HIV- infekcie bez klinických príznakov | 0
+  - | | c) ťažká alterácia celkového stavu (rozvinutie choroby, terminálna fáza, ťažké infekčné komplikácie) | 80-100
 
-  - 3.2. syndróm lymfadenopatie |
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa funkčného postihnutia chorého orgánua celkového stavu organizmu.II. Choroby krvi, krvotvorných orgánov a poruchy imunitných mechanizmov
 
-  - a) ľahká alterácia celkového stavu | 30
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - b) stredne ťažká alterácia celkového stavu a výkonnosti | 50-60
+  - 1. Málokrvnosť, nedostatok hemoglobínu (zhubná, hemolytická, panmyelopatia a pod.) | | |
 
-  - c) ťažká alterácia celkového stavu (rozvinutie choroby, terminálna fáza, ťažké |
+  - | a) mierne prejavy | | 0-10
 
-  - Infekčné komplikácie) | 80-100
+  - | b) stredne ťažké prejavy | | 20-40
 
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa funkčného postihnutia chorého orgánu a celkového stavu organizmu. |
+  - | c) ťažké prejavy (s trvalou potrebou transfúzie a imunosupresívnej liečby s obmedzením výkonnosti) | | 50-80
 
-  - II. Choroby krvi, krvotvorných orgánov a poruchy imunitných mechanizmov
+  - 2. Poruchy zrážanlivosti a iné stavy krvácania | | |
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | a) ľahká forma | | 10-20
 
-  - 1. Málokrvnosť, nedostatok hemoglobínu (zhubná, hemolytická, panmyelopatia a pod.) |
+  - | b) stredne ťažká forma (s občasným krvácaním do kĺbov) | | 30-50
 
-  - a) mierne prejavy | 0-10
+  - | c) ťažká forma (s častým krvácaním do kĺbov so sekundárnymi artrotickými zmenami) | | 70-90
 
-  - b) stredne ťažké prejavy | 20-30
+  - 3. Strata sleziny | | |
 
-  - c) ťažké prejavy (s trvalou potrebou transfúzie a imunosupresívnej liečby s obmedzením |
+  - | a) u detí do 15 rokov (bez krvného ochorenia) | | 20
 
-  - výkonnosti) | 50-70
+  - | b) u dospelých | | 10
 
-  - 2. Poruchy zrážanlivosti a iné stavy krvácania |
+  - 4. Chronická lymfatická leukémia (lymfadenóza) a ostatné typy non-Hodgkinovho lymfómu | | |
 
-  - a) ľahká forma | 10-20
+  - | a) s ľahkými prejavmi (bez známok progresie) | | 20-30
 
-  - b) stredne ťažká forma (s občasným krvácaním do kĺbov) | 30-50
+  - | b) so stredne ťažkými prejavmi | |
 
-  - c) ťažká forma (s častým krvácaním do klbov so sekundárnymi artrotickými zmenami) | 70-90
+  - | | ba) do troch rokov liečby | 50
 
-  - 3. Strata sleziny |
+  - | | bb) po troch rokoch liečby | 30-40
 
-  - a) u detí do 15 rokov (bez krvného ochorenia) | 20
+  - | c) s ťažkými prejavmi (ťažká anémia, trombocytopénia a pod.) | | 80-100
 
-  - b) u dospelých | 10
+  - 5. Plazmocytóm (myelóm) | | |
 
-  - 4. Chronická lymfatická leukémia (lymfadenóza) a ostatné typy non-Hodgkinovho lymfómu |
+  - | a) s ľahkými prejavmi (bez známok progresie) | | 20-30
 
-  - a) s ľahkými prejavmi (bez známok progresie) | 20-30
+  - | b) so stredne ťažkými prejavmi | | 30-50
 
-  - b) so stredne ťažkými prejavmi | 30-40
+  - | c) s ťažkými prejavmi (málokrvnosť, poruchy funkcie obličiek, osteolýza, bolesti) | | 80-100
 
-  - c) s ťažkými prejavmi (ťažká anémia, trombocytopénia a pod.) | 80-100
+  - 6. Hodgkinov lymfóm (lymfogranulóm) | | |
 
-  - 5. Plazmocytóm (myelóm) |
+  - | a) štádium I. - III.A | |
 
-  - a) s ľahkými prejavmi (bez známok progresie) | 20-30
+  - | | aa) počas dlhodobej liečby (viac ako šesť mesiacov) do skončenia liečby | 50-70
 
-  - b) so stredne ťažkými prejavmi | 30-50
+  - | | ab) v nlnei remisii (po troch rokoch) | 40
 
-  - c) s ťažkými prejavmi (málokrvnosť, poruchy funkcie obličiek, osteolýza, bolesti) | 80-100
+  - | b) štádium III.B - IV. | |
 
-  - 6. Hodgkinov lymfóm (lymfogranulóm) |
+  - | | ba) do skončenia liečby | 70-80
 
-  - a) s miernymi prejavmi na celkový stav | 30-60
+  - | | bb) v plnej remisii (po troch rokoch) | 50
 
-  - b) s ťažkými prejavmi | 80-100
+  - 7. Chronická myeloidná leukémia (myelóza) | | |
 
-  - c) po úplnej remisii trvajúcej dva roky a viac rokov | 20-40
+  - | a) chronická fáza v liečbe, s prejavmi na celkový stav | | 40-60
 
-  - 7. Chronická myeloidná leukémia (myelóza) |
+  - | b) akútne zhoršenie | | 70-100
 
-  - a) chronická fáza v liečbe, s prejavmi na celkový stav | 40-60
+  - 8. Chronické myeloproliferačné ochorenia ostatné (polycytémia vera, esenciálna trombocytopénia, osteomyeloskleróza a pod.) | | |
 
-  - b) akútne zhoršenie | 70-100
+  - | a) ľahká forma | | 20-30
 
-  - 8. Chronické myeloproliferačné ochorenia ostatné (polycytémia vera, esenciálna |
+  - | b) stredne ťažká forma | | 30-40
 
-  - trombocytopénia, osteomyeloskleróza a pod.) |
+  - | c) ťažká forma | | 80-100
 
-  - a) ľahká forma | 20-30
+  - 9. Akútna leukémia a difúzny non-Hodgkinov lymfóm (tiež v remisii) | | | 80-100
 
-  - b) stredne ťažká forma | 30-40
+  - | a) u detí až do skončenia liečby | | 100
 
-  - c) ťažká forma | 80-100
+  - | b) pri prípadnej remisii trvajúcej päť rokov | | 50-60
 
-  - 9. Akútna leukémia a difúzny non-Hodgkinov lymfóm (tiež v remisii) | 80-100
+  - 10. Ostatné chronické krvné choroby | | |
 
-  - a) u detí až do skončenia liečby | 100
+  - | a) bez zjavných prejavov | | 10
 
-  - b) pri prípadnej remisii trvajúcej dva roky | 50-60
+  - | b) s miernymi prejavmi | | 20-40
 
-  - 10. Ostatné chronické krvné choroby |
+  - | c) s ťažkými prejavmi | | 50-80
 
-  - a) bez zjavných prejavov | 10
+  - 11. Niektoré poruchy mechanizmu imunity | | |
 
-  - b) s miernymi prejavmi | 20-40
+  - | a) ťažké imunodeficity s rozsiahlymi a opakovanými infekčnými komplikáciami, rezistentné na liečbu a vyvolávajúce ťažké obmedzenie výkonnosti | | 50-80
 
-  - c) s ťažkými prejavmi | 50-80
+  - | b) typ protilátkový, bunkový, fagocytárny a komplementárny | | 20-40
 
-  - 11 . Niektoré poruchy mechanizmu imunity |
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa závažnosti hematologických zmien, pôsobenia na iné orgány a na celkový zdravotný stav.III. Endokrinné poruchy, poruchy výživy a premeny látok
 
-  - a) ťažké imunodeficity s rozsiahlymi a opakovanými Infekčnými komplikáciami, |
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - rezistentné na liečbu a vyvolávajúce ťažké obmedzenie výkonnosti | 50-80
+  - 1. Poruchy funkcie štítnej žľazy | | |
 
-  - b) typ protilátkový, bunkový, fagocytárny a komplementárny | 20-40
+  - | 1.1. hyperfunkcia | |
 
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa závažnosti hematologických zmien, pôsobenia na iné orgány a na celkový zdravotný stav. |
+  - | | a) ľahký stupeň (vegetatívne prejavy) | 0-10
 
-  - III. Endokrinné poruchy, poruchy výživy a premeny látok
+  - | | b) stredný stupeň (s pretrvávaiúcou tachykardiou, značná strata na hmotnosti a pod.) | 20-30
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | | c) ťažký stupeň (výrazné schudnutie, tyreotoxické srdce, psychické a očné poruchy) | 40-50
 
-  - 1. Poruchy funkcie štítnej žľazy |
+  - | 1.2. hypofunkcia nedostatočne kompenzovaná liečbou | | 20-30
 
-  - 1.1 hyperfunkcia |
+  - 2. Zhubný nádor štítnel žľazy | | |
 
-  - a) ľahký stupeň (vegetatívne prejavy) | 0-10
+  - | a) včasné odstránenie v štádiu T 1-2 NOMO | | 30-50
 
-  - b) stredný stupeň (s pretrvávajúcou tachykardiou, značná strata na váhe a pod.) | 20-30
+  - | b) v priebehu onkologickej liečby alebo neliečiteľné formy | | 80-100
 
-  - c) ťažký stupeň (výrazné schudnutie, tyreotoxické srdce, psychické a očné poruchy) | 40-50
+  - | c) po stabilizácii (do piatich rokov) | | 20-40
 
-  - 1.2. hypofunkcia nedostatočne kompenzovaná liečbou | 20-30
+  - 3. Stav po strumektómii pre nezhubné ochorenie uspokojivo kompenzované liečbou | | | 0-10
 
-  - 2. Zhubný nádor štítnej žľazy |
+  - 4. Tetanický syndróm ťažkého stupňa (výskyt častých závažných záchvatov) | | | 20
 
-  - a) včasné odstránenie v štádiu T1-2NOMO | 30-50
+  - 5. Chronická nedostatočnosť kôry nadobličiek (Addisonova choroba) | | |
 
-  - b) v priebehu onkologickej liečby alebo neliečiteľné formy | 80-100
+  - | a) dobre kompenzovaná liečbou | | 20
 
-  - c) po stabilizácii (po dvoch rokoch) | 20-40
+  - | b) stredne ťažká forma (začínajúca adynamia, chudnutie, zníženie výkonnosti) | | 30-40
 
-  - 3. Stav po strumektómii pre nezhubné ochorenie uspokojivo kompenzované liečbou | 0-10
+  - | c) ťažká forma (s výraznou adynamiou, chudnutím, s opakovanými krízami a podstatným znížením výkonnosti) | | 50-70
 
-  - 4. Tetanický syndróm ťažkého stupňa (výskyt častých závažných záchvatov) | 20
+  - 6. Zvýšená funkcia kôry nadobličiek (Cushingov syndróm, Connov syndróm, adrenogenitálny syndróm) | | |
 
-  - 5. Chronická insuficiencia kôry nadobličiek (Addisonova choroba) |
+  - | a) s komplikáciami na rôznych orgánových systémoch, prejavy svalovej slabosti | | 20-30
 
-  - a) dobre kompenzovaná liečbou | 20
+  - | b) iatrogénny Cushingov syndróm | | 10
 
-  - b) stredne ťažká forma (začínajúca adynamia, chudnutie, zníženie výkonnosti) | 30-40
+  - 7. Nádory nadobličiek vrátane stavov po odstránení nádorov | | |
 
-  - c) ťažká forma (s výraznou adynamiou, chudnutím, s opakovanými krízami a podstatným |
+  - | a) v priebehu onkologického liečenia alebo neliečiteľné formy | | 80-100
 
-  - znížením výkonnosti) | 50-70
+  - | b) po stabilizácii zdravotného stavu (po dvoch rokoch) | | 40
 
-  - 6. Hyperfunkcia kôry nadobličiek (Cushingov syndróm, Connov syndróm, adrenogenitálny |
+  - 8. Poruchy hypotalamo-hypofyzárneho systému | | |
 
-  - syndróm) |
+  - | a) dobre kompenzované liečbou | | 20
 
-  - a) s komplikáciami na rôznych orgánových systémoch, prejavy svalovej slabosti | 20-30
+  - | b) závažné prejavy na ostatných orgánoch s obmedzením výkonnosti | | 40-50
 
-  - b) latrogénny Cushingov syndróm | 10
+  - 9. Nádory podmozgovej žľazy | | |
 
-  - 7. Nádory nadobličiek vrátane stavov po odstránení nádorov |
+  - | a) v priebehu onkologického liečenia | | 80
 
-  - a) v priebehu onkologického liečenia alebo neliečiteľné formy | 80-100
+  - | b) po stabilizácii (po dvoch rokoch) podľa ovplyvnenia celkového stavu | | 40
 
-  - b) po stabilizácii zdravotného stavu (po dvoch rokoch) | 40
+  - 10. Cukrovka | | |
 
-  - 8. Poruchy hypotalamo-hypofyzárneho systému |
+  - | a) kompenzovateľná perorálnou liečbou a diétou alebo kompenzovateľná inzulínom a diétou bez komplikácií | | 30-50
 
-  - a) dobre kompenzované liečbou | 20
+  - | b) ťažko kompenzovateľná inzulínom alebo cukrovka detského veku | | 50-60
 
-  - b) závažné prejavy na ostatných orgánoch s obmedzením výkonnosti | 40-50
+  - | c) chronické komplikácie cukrovky (diabetická angiopatia, neuropatia, diabetická noha) | | 60-70
 
-  - 9. Nádory hypofýzy |
+  - 11. Fenylketonúria | | | |
 
-  - a) v priebehu onkologického liečenia | 80
+  - | a) u detí bez prejavov poškodenia mozgu do 18. roku veku | | 50
 
-  - b) po stabilizácii (po dvoch rokoch) podlá ovplyvnenia celkového stavu | 40
+  - | b) u dospelých bez prejavov poškodenia mozgu počas trvania liečby diétou | | 30-50
 
-  - 10. Cukrovka |
+  - 12. Mukoviscidóza (cystická fibróza) | | |
 
-  - a) kompenzovateľná perorálnou liečbou a diétou alebo kompenzovateľná inzulínom |
+  - | a) bez komplikácií | | 20-30
 
-  - a diétou bez komplikácií | 30-40
+  - | b) s pľúcnymi prejavmi, črevnými prejavmi mierneho stupňa (telesný vývoj zodpovedá veku) | | 30-50
 
-  - b) ťažko kompenzovateľná inzulínom, cukrovka detského veku | 50-60
+  - | c) s pľúcnymi prejavmi, črevnými prejavmi so zníženou telesnou výkonnosťou | | 40-60
 
-  - 11. Fenylketonúria |
+  - | d) s pľúcnymi prejavmi, črevnými prejavmi ťažkého stupňa s výrazne oneskoreným telesným vývojom | | 60-90
 
-  - a) u detí bez prejavov poškodenia mozgu do skončenia povinnej školskej dochádzky | 40-60
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa závažnosti vlastnej choroby s prihliadnutím na sekundárne zmeny, komplikácie (odchýlky laboratórnych hodnôt od normy sa nehodnotia).Miera funkčnej poruchy pri poruchách metabolizmu tukov, dne a alimentárnej tučnote sa určí podľa závažnosti komplikácií jednotlivých orgánových systémov.IV. Duševné poruchy a poruchy správania
 
-  - b) u dospelých bez prejavov poškodenia mozgu počas trvania liečby diétou | 20
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - 12. Mukoviscidóza (cystická fibróza) |
+  - 1. Poruchy psychického vývoja detí | | |
 
-  - a) s pľúcnymi prejavmi, črevnými prejavmi mierneho stupňa (telesný vývoj zodpovedá |
+  - | a) ľahké formy | | 10-20
 
-  - veku) | 20-30
+  - | b) stredne ťažké formy | | 30-40
 
-  - b) s pľúcnymi prejavmi, črevnými prejavmi so zníženou telesnou výkonnosťou | 40-60
+  - | c) ťažké formy | | 50-80
 
-  - c) s pľúcnymi prejavmi, črevnými prejavmi ťažkého stupňa s výrazne oneskoreným |
+  - | d) zvláštne psychické poruchy a pervazívne vývinové poruchy (napr. autizmus) | | 60-100
 
-  - telesným vývojom | 60-90
+  - 2. Poruchy osobnosti a správania u dospelých | | |
 
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa závažnosti vlastnej choroby s prihliadnutím na sekundárne zmeny, komplikácie (odchýlky laboratórnych hodnôt od normy sa nehodnotia) .Miera funkčnej poruchy pri poruchách metabolizmu tukov, dne a alimentárnej tučnote sa určí podľa závažnosti komplikácií jednotlivých orgánových systémov. |
+  - | a) mierne narušenie sociálnej prispôsobivosti | | 20
 
-  - IV. Duševné poruchy a poruchy správania
+  - | b) ťažké narušenie sociálnej prispôsobivosti | | 50
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - 3. | Mentálna retardácia | |
 
-  - 1. Poruchy psychického vývoja detí |
+  - | a) ľahká mentálna retardácia IQ 50-69 | |
 
-  - a) ľahké formy | 10-20
+  - | | 1 . horné pásmo | 20-30
 
-  - b) stredne ťažké formy | 30-40
+  - | | 2. stredné pásmo | 30-40
 
-  - c) ťažké formy | 50-80
+  - | | 3. dolné pásmo | 40-50
 
-  - d) zvláštne psychické poruchy a pervazívne |
+  - | b) stredná mentálna retardácia IQ 35-49 | | 50-60
 
-  - vývinové poruchy (napr. autizmus) | 60-100
+  - | c) ťažká mentálna retardácia IQ 20-34 | | 80-90
 
-  - 2. Poruchy osobnosti a správania u dospelých |
+  - | d) hlboká mentálna retardácia IQ pod 20 | | 100
 
-  - a) mierne narušenie sociálnej prispôsobivosti | 20
+  - | e) geneticky podmienená mentálna retardácia s multiorgánovým postihnutím podľa klinického stavu (napr. Morbus Down) | | 50-100
 
-  - b) ťažké narušenie sociálnej prispôsobivosti | 50
+  - 4. Afektívne poruchy nálady (manické, depresívne, periodické) | | |
 
-  - 3. Mentálna retardácia |
+  - | a) ľahké formy | | 20
 
-  - a) ľahká mentálna retardácia IQ 50-69 | 20-30
+  - | b) stredne ťažké formy | | 30
 
-  - b) stredná mentálna retardácia IQ 35-49 | 50-60
+  - | c) ťažké formy | | 60
 
-  - c) ťažká mentálna retardácia IQ 20-34 | 80-90
+  - 5. Neurotické stresové a somatoformné poruchy | | |
 
-  - d) hlboká mentálna retardácia IQ pod 20 | 100
+  - | a) ľahké formy | | 10
 
-  - 4. Afektívne poruchy nálady (manické, depresívne, periodické) |
+  - | b) stredne ťažké formy | | 20-40
 
-  - a) ľahké formy | 20
+  - | c) ťažké formy (obsedantné neurózy) | | 50-60
 
-  - b) stredne ťažké formy | 30
+  - 6. Schizofrénia, schizotypové poruchy, poruchy s bludmi a halucináciami | | |
 
-  - c) ťažké formy | 60
+  - | a) ľahké formy | | 20
 
-  - 5. Neurotické stresové a somatoformné poruchy |
+  - | b) stredne ťažké formy | | 50-60
 
-  - a) ľahké formy | 10
+  - | c) ťažké formy | | 90
 
-  - b) stredne ťažké formy | 20-30
+  - 7. Alkoholizmus | | |
 
-  - c) ťažké formy (obsedantné neurózy) | 50-60
+  - | a) alkoholizmus I. a II. fáza | | 0-10
 
-  - 6. Schizofrénia, schizotypové poruchy, poruchy s bludmi a halucináciami |
+  - | b) alkoholizmus III. a IV. fáza | | 40-50
 
-  - a) ľahké formy | 20
+  - 8. Duševné poruchy a poruchy správania spôsobené psychoaktívnymi látkami | | |
 
-  - b) stredne ťažké formy | 50-60
+  - | a) ľahká forma | | 0-10
 
-  - c) ťažké formy | 90
+  - | b) stredne ťažká forma (do dvoch rokov od začiatku postihnutia) | | 30
 
-  - 7. Alkoholizmus |
+  - | c) ťažká forma | | 60-70
 
-  - a) alkoholizmus I. a II. fáza | 0-10
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa rozsahu zdravotného postihnutia, výskytu atakov, psychiatrického a psychologického nálezu, podľa narušenia sociálneho života, narušenia orientácie, intelektu, pamäti, myslenia, správania, emotivity, afektivity a pri úplnom rozpade osobnosti s trvalým dozorom sociability sa určia maximálne hodnoty miery funkčnej poruchy.V. Nervový systém (Poškodenie mozgu a miechy)
 
-  - b) alkoholizmus III. a IV. fáza | 40-50
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - 8. Duševné poruchy a poruchy správania spôsobené psychoaktívnymi látkami |
+  - 1 . Cievne ochorenia mozgu, vnútrolebková výdutina, stavy po vnútrolebkovom krvácaní, ložiskovej nedokrvenosti mozgu | | |
 
-  - a) ľahká forma | 0-10
+  - | a) ľahká forma | | 20
 
-  - b) stredne ťažká forma | 30
+  - | b) stredne ťažká forma | | 40-60
 
-  - c) ťažká forma | 60-70
+  - | c) ťažká forma | | 70-90
 
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa rozsahu zdravotného postihnutia, výskytu atakov, psychiatrického a psychologického nálezu, podľa narušenia sociálneho života, narušenia orientácie, intelektu, pamäti, myslenia, správania, emotivity, afektivity a pri úplnom rozpade osobnosti s trvalým dozorom sociability sa určia maximálne hodnoty miery funkčnej poruchy. |
+  - 2. Zápalové ochorenia mozgu, neurodegeneratívne ochorenia, polyradikuloneuritídy, polyneuropatia a detská obrna | | |
 
-  - V. Nervový systém (Poškodenie mozgu a miechy)
+  - | a) ľahká forma | | 20-30
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | b) stredne ťažká forma | | 40-60
 
-  - 1. Cievne ochorenia mozgu, intrakraniálna aneuryzma, stavy po subarachnoidálnom |
+  - | c) ťažká forma | | 70-90
 
-  - krvácaní, ložiskovej ischémii mozgu, intracerebrálnej hemorágii |
+  - 3. Roztrúsená mozgovomiechová skleróza | | |
 
-  - a) ľahká forma | 20
+  - | a) ľahká forma (s monoparézou, očné príznaky) - Kurtzkého škála 1-2 | | 20-40
 
-  - b) stredne ťažká forma | 40-60
+  - | b) stredne ťažká forma - Kurtzkého škála do 4 | | 40-60
 
-  - c) ťažká forma | 70-90
+  - | c) ťažká forma (triparéza a kvadruparéza) - Kurtzkého škála nad 4 | | 70-100
 
-  - 2. Zápalové ochorenia mozgu, neurodegeneratívne ochorenia, polyradikuloneuritídy, |
+  - 4. Epilepsia | | |
 
-  - polyneuropatia a detská obrna |
+  - | a) veľmi zriedkavé veľké záchvaty s pauzami dlhšími ako jeden rok, malé záchvaty s pauzami mesiacov | | 20
 
-  - a) ľahká forma | 20-30
+  - | b) zriedkavé veľké záchvaty s pauzami mesiacov, malé záchvaty s pauzami týždňov | | 30-40
 
-  - b) stredne ťažká forma | 40-60
+  - | c) stredne časté veľké záchvaty s pauzami týždňov, malé záchvaty s pauzami dní | | 40-50
 
-  - c) ťažká forma | 70-90
+  - | d) časté veľké záchvaty týždenne alebo séria generalizovaných záchvatov, alebo malé záchvaty denne | | 50-60
 
-  - 3. Roztrúsená mozgovomiechová skleróza |
+  - 5. Narkolepsia, hypersomnia | | |
 
-  - a) ľahká forma (s monoparézou, očné príznaky) | 20-40
+  - | a) ojedinelé záchvaty | | 10
 
-  - b) stredne ťažká forma | 40-60
+  - | b) stredne časté záchvaty | | 20
 
-  - c) ťažká forma (triparéza a kvadruparéza) | 70-100
+  - | c) veľmi časté záchvaty s obmedzením výkonnosti | | 30
 
-  - 4. Epilepsia |
+  - 6. Migréna | | |
 
-  - a) veľmi zriedkavé veľké záchvaty s pauzami dlhšími ako jeden rok, malé záchvaty |
+  - | a) ľahká forma | | 0
 
-  - s pauzami mesiacov | 20
+  - | b) stredne ťažká forma | | 10
 
-  - b) zriedkavé veľké záchvaty s pauzami mesiacov, malé záchvaty s pauzami týždňov | 30-40
+  - | c) ťažká forma so silne vyjadrenými sprievodnými prejavmi spravidla jedenkrát týždenne | | 20
 
-  - c) stredne časté veľké záchvaty s pauzami týždňov, malé záchvaty s pauzami dní | 40-50
+  - 7. Neuralgia troj klaného nervu | | |
 
-  - d) časté veľké záchvaty týždenne alebo séria generalizovaných záchvatov, alebo malé |
+  - | a) ľahká forma | | 10
 
-  - záchvaty denne | 50-60
+  - | b) stredne ťažká forma | | 20
 
-  - 5. Narkolepsia, hypersomnia |
+  - | c) ťažká forma so silnou bolesťou (pri neúspešnej konzervatívnej liečbe) | | 40-60
 
-  - a) ojedinelé záchvaty | 10
+  - 8. Periférna obrna lícneho nervu | | |
 
-  - b) stredne časté záchvaty | 20
+  - | a) jednostranná, úplná obrna | | 20-30
 
-  - c) veľmi časté záchvaty s obmedzením výkonnosti | 30
+  - | b) obojstranná kompletná obrna so závažnými trvalými komplikáciami | | 40-60
 
-  - 6. Migréna |
+  - 9. Parkinsonova choroba | | |
 
-  - a) ľahká forma | 0
+  - | a) ľahká forma (ojedinelé mimovoľne pohyby) | | 20
 
-  - b) stredne ťažká forma | 10
+  - | b) stredne ťažká forma | | 40-60
 
-  - c) ťažká forma so silne vyjadrenými sprievodnými prejavmi spravidla |
+  - | c) ťažká forma (tremor, rigidita, bradykinéza) | | 60-80
 
-  - jedenkrát týždenne | 20
+  - 10. Centrálne vegetatívne poruchy (závraty, poruchy spánku, vazomotorické poruchy, úporné bolesti hlavy) | | |
 
-  - 7. Neuralgia trigeminu |
+  - | a) ľahká forma | | 10
 
-  - a) ľahká forma | 10
+  - | b) stredne ťažká forma (s ojedinelými synkopami) | | 20
 
-  - b) stredne ťažká forma | 20
+  - | c) poruchy s častejšími záchvatmi a s dôsledkami na celkový stav | | 30
 
-  - c) ťažká forma so silnou bolesťou (pri neúspešnej konzervatívnej liečbe) | 40-60
+  - 11 . Koordinačné poruchy a poruchy rovnováhy | | |
 
-  - 8. Periférna obrna lícneho nervu |
+  - | a) ľahká forma | | 10-20
 
-  - a) jednostranná, úplná obrna | 20-30
+  - | b) stredne ťažká forma (postihnutie oboch končatín) | | 40-60
 
-  - b) obojstranná kompletná obrna so závažnými trvalými komplikáciami | 40-60
+  - | c) ťažká forma (s nemožnosťou samostatného pohybu) | | 80-90
 
-  - 9. Parkinsonova choroba |
+  - 12. Poruchy osobnosti, správania, intelektu a komunikácie následkom dysfunkcie mozgu (napr. demencie rôzneho typu a etiológie, organický psychosyndróm) | | |
 
-  - a) ľahká forma (ojedinelé mimovoľne pohyby) | 20
+  - | a) ľahká forma | | 20
 
-  - b) stredne ťažká forma | 40-60
+  - | b) stredne ťažká forma | | 40-60
 
-  - c) ťažká forma (tremor, rigidita, bradykinéza) | 60-80
+  - | c) ťažká forma | | 80-100
 
-  - 10. Centrálne vegetatívne poruchy (závraty, poruchy spánku, vazomotorické poruchy, úporné |
+  - 13. Čiastočné a úplné mozgové obrny (pyramídového a extrapyramídového pôvodu) | | |
 
-  - bolesti hlavy) |
+  - | a) monoplégia | | 50
 
-  - a) ľahká forma | 10
+  - | b) hemiplégia | | 80
 
-  - b) stredne ťažká forma (s ojedinelými synkopami) | 20
+  - | c) paraplégia | | 90
 
-  - c) poruchy s častejšími záchvatmi a s dôsledkami na celkový stav | 30
+  - | d) kvadruplégia | | 100
 
-  - 11. Koordinačné poruchy a poruchy rovnováhy |
+  - | e) monoparéza | | 10-30
 
-  - a) ľahká forma | 10-20
+  - | f) hemiparéza | | 20-60
 
-  - b) stredne ťažká forma (postihnutie oboch končatín) | 40-60
+  - | g) paraparéza | | 20-60
 
-  - c) ťažká forma (s nemožnosťou samostatného pohybu) | 80-90
+  - | h) kvadruparéza | | 40-80
 
-  - 12. Poruchy osobnosti, správania, intelektu a komunikácie následkom dysfunkcie mozgu |
+  - | i) ľahká paréza reziduálna (hodnotí sa dominantnosť horných končatín) | | 10-20
 
-  - (napr. demencie rôzneho typu a etiológie, organický psychosyndróm) |
+  - 14. Nádory lebkovej dutiny a miechového kanála | | |
 
-  - a) ľahká forma | 20
+  - | a) stav po operácii, počas onkologického liečenia do piatich rokov | | 80
 
-  - b) stredne ťažká forma | 40-60
+  - | b) po stabilizácii s miernym reziduálnym nálezom | | 40
 
-  - c) ťažká forma | 80-100
+  - | c) neliečiteľné formy so stredne ťažkým postihnutím | | 90
 
-  - 13. Čiastočné a úplné mozgové obrny (pyramídového a extrapyramídového pôvodu) |
+  - | d) neliečiteľné formy s ťažkým postihnutím | | 100
 
-  - a) monoplégia | 50
+  - 15. Poškodenie miechy | | |
 
-  - b) hemiplégia | 80
+  - | a) monoplégia | | 50
 
-  - c) paraplégia | 90
+  - | b) hemiplégia | | 80
 
-  - d) kvadruplégia | 100
+  - | c) paraplégia | | 90
 
-  - e) monoparéza | 10-30
+  - | d) kvadruplégia | | 100
 
-  - í) hemiparéza | 20-60
+  - | e) monoparéza | | 10-30
 
-  - g) paraparéza | 20-60
+  - | f) hemiparéza | | 40-50
 
-  - h) kvadruparéza | 40-80
+  - | g) paraparéza | | 50-60
 
-  - i) ľahká paréza reziduálna | 10-20
+  - | h) kvadruparéza | | 60-80
 
-  - (hodnotí sa dominantnosť horných končatín) |
+  - | i) akroparéza, reziduálna ľahká paréza | | 10-20
 
-  - 14. Nádory lebkovej dutiny a miechového kanála |
+  - | j) poruchy vyprázdňovania močového mechúra a konečníka ako následok poškodenia chrbtice a miechy | |
 
-  - a) stav po operácii, počas onkologického liečenia do dvoch rokov | 80
+  - | | 1. ľahká forma | 30-60
 
-  - b) po stabilizácii s miernym reziduálnym nálezom | 40
+  - | | 2. ťažká forma (úplná inkontinencia) | 100
 
-  - c) neliečiteľné formy so stredne ťažkým postihnutím | 90
-
-  - d) neliečiteľné formy s ťažkým postihnutím | 100
-
-  - 15. Poškodenie miechy |
-
-  - a) monoplégia | 50
-
-  - b) hemiplégia | 80
-
-  - c) paraplégia | 90
-
-  - d) kvadruplégia | 100
-
-  - e) monoparéza | 10-30
-
-  - í) hemiparéza | 20-60
-
-  - g) paraparéza | 20-60
-
-  - h) kvadruparéza | 40-80
-
-  - i) akroparéza, reziduálna ľahká paréza | 10-20
-
-  - j) poruchy vyprázdňovania močového mechúra a konečníka ako následok poškodenia |
-
-  - chrbtice a miechy |
-
-  - 1. ľahká forma | 30-60
-
-  - 2. ťažká forma (úplná inkontinencia) | 100
-
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa poruchy funkcie, výpadových javov, |
-
-  - výskytu záchvatov, dĺžky trvania záchvatov a výskytu vegetatívnych porúch, neurologického nálezu, psychiatrického nálezu, psychologického nálezu a komplikácií. Miera funkčnej poruchy pri poškodení miechy sa určí podlá funkčných porúch na končatinách, porúch inervácie močového mechúra a konečníka s prihliadnutím na dominantnosť hornej končatiny. VI. Zrak
-
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
-
-  - 1. Úplná slepota oboch očí | 90
-
-  - 2. Praktická slepota oboch očí (V 3/60-1/60) | 80
-
-  - 3. Slabozrakosť (V 6/60-3/60) |
-
-  - a) deti a mladiství do skončenia školskej dochádzky | 70
-
-  - b) ostatné prípady | 50-60
-
-  - 4. Slabozrakosť (V 6/18-6/60) |
-
-  - a) deti do skončenia povinnej školskej dochádzky | 50-60
-
-  - b) ostatné prípady | 40-60
-
-  - 5. Výpady zorného poľa (úplné, polovičné a kvadrantové) |
-
-  - Pri neúplných, polovičných alebo kvadrantových výpadoch je potrebné primerane znížiť |
-
-  - percentuálne vyjadrenie miery funkčnej poruchy |
-
-  - a) homonymná hemianopsia | 30-40
-
-  - b) bitemporálna hemianopsia | 30
-
-  - c) binasálna hemianopsia | 10
-
-  - d) homonymný horný kvadrant | 20
-
-  - e) homonymný dolný kvadrant | 30
-
-  - í) výpad zorného poľa (laterálne) pri strate alebo slepote druhého oka | 60-70
-
-  - 6. Koncentrické zúženie (obojstranné zúženie zorného poľa na 10° až 5° centrálne je ťažká |
-
-  - slabozrakosť, zúženie zorného poľa na 5° centrálne je praktická slepota aj pri zachovaní |
-
-  - zrakovej ostrosti) |
-
-  - a) koncentrické zúženie zorného poľa na 5° centrálne pri normálnom zornom poli |
-
-  - druhého oka | 20
-
-  - b) obojstranné zníženie na 30° od centra | 10-20
-
-  - 7. Koncentrické zúženie pri strate druhého oka |
-
-  - a) na 50° od centra | 40
-
-  - b) na 30° od centra | 60
-
-  - c) na 10° až 5° od centra | 80-90
-
-  - 8. Nepravidelné výpady zorného poľa, veľké skotómy v 50° zorného poľa binokulárne | 30-40
-
-  - 9. Obrna očných svalov, ak oko musí byť vylúčené z videnia | 20
-
-  - 10. Diplopia | 10-20
-
-  - 11. Strabizmus u detí | 10-20
-
-  - 12. Strata jedného oka | 30
-
-  - 13. Strata šošovky bez poruchy zrakovej ostrosti |
-
-  - a) jedného oka u dieťaťa do skončenia povinnej školskej dochádzky | 10-20
-
-  - b) oboch očí u dieťaťa do skončenia povinnej školskej dochádzky | 20-30
-
-  - c) ostatné prípady, jedného oka | 10
-
-  - oboch očí | 20
-
-  - 14. Strata šošovky jedného oka pri slepote alebo strate druhého oka |
-
-  - a) u detí do skončenia povinnej školskej dochádzky | 40-50
-
-  - b) ostatné prípady | 30-40
-
-  - 15. Odstránenie oka pre zhubný nádor |
-
-  - a) počas onkologického liečenia | 100
-
-  - b) po stabilizácii zdravotného stavu (spravidla do dvoch rokov) | 40
-
-  - c) neliečiteľné formy | 100
-
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa miery zníženia, zrakovej ostrosti |
-
-  - s korekciou, rozsahu zorného poľa, hĺbkového videnia, okulomotoriky, slzenia, citlivosti na prach, na svetlo, ochorenia očných adnexov a adaptácie. Miera funkčnej poruchy ptózy hornej mihalnice s úplným uzáverom očnej štrbiny, glaukómu (zelený zákal) a ostatných očných chorôb sa určí podlá stupňa zúženia zorného poľa, zrakovej ostrosti, schopnosti orientovať sa a psychického stavu. VII. Sluch a poruchy ústroja rovnováhy
-
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
-
-  - 1. Vrodená obojstranná praktická hluchota alebo hluchota u detí, ktorá sa vyskytla pred |
-
-  - rozvinutím reči, do skončenia prípravy na povolanie | 70-80
-
-  - 2. Získaná obojstranná praktická hluchota alebo hluchota u detí, ktorá sa vyskytla až po |
-
-  - rozvinutí reči, do skončenia prípravy na povolanie | 60-70
-
-  - 3. Obojstranná praktická hluchota alebo hluchota | 60-70
-
-  - 4. Obojstranná ťažká nedoslýchavosť u detí a dospelých | 50-60
-
-  - 5. Obojstranná stredne ťažká nedoslýchavosť u detí | 40-50
-
-  - 6. Obojstranná stredne ťažká nedoslýchavosť u dospelých | 30-40
-
-  - 7. Poruchy rovnováhy (objektivizovateľné poruchy vestibulárneho ústroja) |
-
-  - a) ľahké závraty s hučaním v ušiach | 20-30
-
-  - b) stredne ťažké závraty (so značnou neistotou pri polohe stojmo a pri chôdzi) | 30-40
-
-  - c) ťažké závraty (so značnou neistotou pri polohe stojmo a pri chôdzi) alebo ťažký tinnitus | 40-70
-
-  - 8. Komplikovaný chronický zápal stredného ucha | 20-30
-
-  - 9. Strata jednej ušnice | 10
-
-  - 10. Strata oboch ušníc | 30
-
-  - 11. Zhubné nádory (hltanu, mandlí, hrtanu, slinných žliaz a pod.) |
-
-  - a) po odstránení nádoru pri onkologickej liečbe do dvoch rokov | 80
-
-  - b) neliečiteľné formy zhubných nádorov | 90-100
-
-  - c) po stabilizácii zdravotného stavu | 40
-
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa miery zníženia sluchu, poruchy reči, následkom poškodenia sluchu, hučania v ušiach, bolesti v ušiach, poruchy rovnováhy, závratov, sociálnej adapta-bility a obmedzenia komunikačných schopností. |
-
-  - VIII. Srdce a obehové ústrojenstvo A. Postihnutie srdca
-
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
-
-  - 1. Vrodené alebo získané srdcové chyby a postihnutie veľkých srdcových ciev, ischemická |
-
-  - choroba srdca, stavy pri infarkte myokardu, chronické reumatické choroby srdca, stavy po |
-
-  - operáciách, kardiomyopatie, stavy pri myokarditídach a pod. |
-
-  - a) bez podstatného zníženia výkonnosti žiadne prejavy nedostatočnosti ako dýchavičnosť, |
-
-  - anginózne bolesti i pri obvyklom silnejšom telesnom zaťažení (napr. rýchla chôdza |
-
-  - 7-8 km/hod., ťažká telesná práca) | 0-10
-
-  - b) stavy zodpovedajúce NYHA II |
-
-  - stupeň postihnutia zodpovedá poklesu výkonnosti pri stredne ťažkom zaťažení (napr. |
-
-  - chôdza 5-6 km/hod., ťažkosti pri stredne ťažkej telesnej práci a rekreačných aktivitách) | 20-40
-
-  - c) stavy zodpovedajúce NYHA III |
-
-  - stupeň postihnutia zodpovedá podstatnému obmedzeniu bežnej fyzickej aktivity (napr. |
-
-  - prechádzka 3-4 km/hod., stúpanie po schodoch na 1. poschodie, ľahká telesná práca) | 50-60
-
-  - d) stavy zodpovedajúce NYHA IV |
-
-  - zjavné prejavy srdcového zlyhania v pokoji, dlhotrvajúce dekompenzácie, neschopnosť |
-
-  - akejkoľvek fyzickej aktivity | 70-90
-
-  - 2. Poruchy srdcového rytmu |
-
-  - a) bez hemodynamických účinkov alebo pri nepatrných subjektívnych ťažkostiach | 0-10
-
-  - b) s ľahkými hemodynamickými poruchami, liečbou kompenzované poruchy | 20-30
-
-  - c) s ťažkými hemodynamickými poruchami (záťažová insuficiencia) alebo liečbou ťažko |
-
-  - ovplyvniteľné poruchy | 50-70
-
-  - 3. Stavy po operácii srdca, náhradách srdcových chlopní, operácii srdcových chýb, po |
-
-  - resekcii aneuryzmy, revaskularizačných výkonoch |
-
-  - a) s dobrým funkčným výsledkom | 20-30
-
-  - b) pri závažnom znížení výkonu | 50-80
-
-  - 4. Implantácia kardiostimulátora | 20-30
-
-  - 5. Stavy po koronárnej angioplastike s dobrým efektom | 10-30
-
-  - 6. Chronické cor pulmonale |
-
-  - miera funkčnej poruchy sa určí podľa porúch výkonnosti srdca a pľúc s prihliadnutím |
-
-  - na stupeň hromadenia krvi v pľúcach a pľúcnej hypertenzie | 50-70
-
-  - 7. Transplantácia srdca | 50-70
-
-  - B. Postihnutie ciev
-
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
-
-  - 1. Artériovenózne píšťaly |
-
-  - a) bez hemodynamického účinku alebo porúch periférneho prekrvenia | 0-10
-
-  - b) s nepatrnými hemodynamickými vplyvmi alebo poruchami periférneho prekrvenia | 20-30
-
-  - c) s manifestnými prejavmi | 30-50
-
-  - 2. Aneuryzmy (podľa polohy a veľkosti) |
-
-  - a) bez funkčnej poruchy, bez obmedzenia výkonnosti | 0-10
-
-  - b) malé periférne vyduté | 0-10
-
-  - c) iné | 20-30
-
-  - d) disekujúce aneuryzmy aorty, veľké aneuryzmy abdominálnej aorty a veľkých panvových |
-
-  - tepien s obmedzením výkonnosti | 40-60
-
-  - 3. Tepnové uzáverové choroby - uzávery tepien dolných končatín |
-
-  - a) štádium I na jednej dolnej končatine alebo na obidvoch končatinách | 0-10
-
-  - b) štádium II s obmedzením kolaterálneho obehu, klaudikácie po 300 m-500 m |
-
-  - (Doppler na nohe 80-100 mm Hg) | 20-30
-
-  - c) štádium III klaudlkácie po 50 m-300 m (Doppler na nohe 60-80 mm Hg) | 40-50
-
-  - d) štádium IV s bolesťami v pokoji a trofickými zmenami | 50-70
-
-  - 4. Kŕčové žily |
-
-  - a) s nepatrným opuchom na končatine s minimálnymi trofickými zmenami na koži bez |
-
-  - ťažkostí, jedna alebo obidve končatiny | 0-10
-
-  - b) s výraznými ťažkosťami z hromadenia krvi v žilách, prítomnými recidívami zápalu - jedna |
-
-  - alebo obidve končatiny | 10-20
-
-  - c) s chronickými recidivujúcimi defektmi podľa rozsahu a výskytu na jednej alebo na |
-
-  - obidvoch končatinách | 30-50
-
-  - d) chronická venózna insuficiencia |
-
-  - 1. jedna dolná končatina | 30-40
-
-  - 2. obidve dolné končatiny | 40-60
-
-  - e) posttrombotický syndróm v oblasti panvy alebo dutých žíl - prichádza do úvahy vyššie |
-
-  - hodnotenie |
-
-  - 5. Lymfedém na jednej alebo na obidvoch končatinách |
-
-  - a) so zväčšením objemu končatiny do 5 cm | 0-10
-
-  - b) so zväčšením objemu nad 5 cm, s obmedzením pohybu končatiny pre väčšiu hmotnosť |
-
-  - a pre ovplyvnenie kĺbových funkcií | 20-30
-
-  - c) pri neschopnosti používať postihnutú končatinu | 40-60
-
-  - 6. Poruchy krvného tlaku |
-
-  - a) stredne ťažká forma II. stupeň | 20-30
-
-  - b) ťažká forma III. stupeň | 40-50
-
-  - c) malígna forma | 60-70
-
-  - 7. Funkčné srdcovocievne syndrómy, ortostatická hypotónia |
-
-  - a) s ľahkými klinickými prejavmi | 0-10
-
-  - b) s častými závratmi a so sklonom ku kolapsom | 10-20
-
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podlá rozsahu a stupňa obmedzenia výkonnosti srdcovocievneho systému. Na určenie miery funkčnej poruchy zdravotného postihnutia je menej dôležitý druh ochorenia srdca a obehového ústrojenstva ako rozdielna strata výkonu podlá už prítomného štádia ochorenia. Pri tepnových uzáveroch na hornej končatine sa určí stupeň funkčnej poruchy tak, že sa porovnáva s inými zdravotnými postihnutiami v tejto oblasti. Pri veľmi výrazných poruchách - lymfedéme treba brať do úvahy zohyzdenie končatiny. Pri poruche krvého tlaku sa miera funkčnej poruchy určí po systematickej farmakoterapii. IX. Dýchacia sústava
-
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
-
-  - 1. Chronický zápal priedušiek bez poruchy ventilácie | 0-10
-
-  - 2. Opakujúce sa zápaly pľúc so spastickou zložkou | 10-20
-
-  - 3. Chronická astmatická bronchitída so spastickou zložkou, bronchiektázia, emfyzém pľúc, |
-
-  - pneumokoniózy, pľúcna fibróza, neaktívna tuberkulóza, stavy po operácii pľúc s trvalým |
-
-  - obmedzením pľúcnych funkcií |
-
-  - a) ľahký stupeň | 20
-
-  - 1. dýchavičnosť, ktorá sa vyskytuje už pri stredne ťažkom zaťažení |
-
-  - 2. stredne ťažká telesná práca |
-
-  - 3. zníženie pľúcnych funkcií o 1/3 príslušných hodnôt |
-
-  - b) stredný stupeň | 30-40
-
-  - 1. dýchavičnosť, ktorá sa vyskytne už pri každodennom ľahkom zaťažení |
-
-  - 2. ľahká telesná práca |
-
-  - 3. zníženie pľúcnych funkcií až o 2/3 |
-
-  - c) ťažký stupeň | 50-70
-
-  - 1. dýchavičnosť už pri minimálnom zaťažení alebo v pokoji |
-
-  - 2. zníženie pľúcnych funkcií viac ako o 2/3 |
-
-  - 4. Bronchiálna astma |
-
-  - a) bez trvalého obmedzenia funkcie so sporadickými záchvatmi | 10
-
-  - b) s trvalým obmedzením pľúcnych funkcií |
-
-  - 1. ľahký stupeň (zníženie pľúcnych funkcií o 1/3) | 20
-
-  - 2. stredný stupeň (zníženie pľúcnych funkcií o 2/3) | 30-40
-
-  - 3. ťažký stupeň (zníženie pľúcnych funkcií viac ako o 2/3) | 50-70
-
-  - 5. Zhubné nádory (bronchiálne alebo pľúcne) |
-
-  - a) počas chemoterapie, aktinoterapie, chirurgickej liečby | 80
-
-  - b) neliečiteľné formy | 100
-
-  - c) stav po stabilizácii zdravotného stavu (po dvoch rokoch) s ľahkým obmedzením pľúcnych |
-
-  - funkcií | 40-50
-
-  - d) obmedzenie pľúcnej funkcie stredného až ťažkého stupňa | 60-80
-
-  - 6. Bronchiálna astma u detí, astmatický syndróm |
-
-  - a) ľahká forma | 20-30
-
-  - astmatické bronchitídy bez trvalého obmedzenia ventilačnej poruchy pľúc, ktoré trvajú |
-
-  - aspoň šesť týždňov v roku |
-
-  - b) stredná forma - stredne ťažká perzistujúca | 30-50
-
-  - astmatické bronchitídy trvajúce aspoň dva až tri mesiace v roku s trvalou ventilačnou |
-
-  - poruchou pľúc ľahkého až stredného stupňa |
-
-  - c) ťažká forma | 50-70
-
-  - trvalá ventilačná porucha stredne ťažkého až ťažkého stupňa |
-
-  - d) trvalá globálna dychová nedostatočnosť s prejavmi dekompenzácie | 80-90
-
-  - 7. Sarkoidóza |
-
-  - 1. zväčšenie vnútrohrudných uzlín s ľahkým funkčným obmedzením a klinickou |
-
-  - symptomatológiou | 20
-
-  - 2. postihnutie pľúc s klinickou symptomatológiou | 20-70
-
-  - 8. Ústna dutina a horné dýchacie cesty |
-
-  - a) defekt pier so stálym slinotokom s poruchou reči a príjmu potravy | 20-30
-
-  - b) ťažká porucha funkcie jazyka, artikulácie, žuvania s možnosťou prijímať len tekutú stravu | 50-60
-
-  - c) rozsiahly defekt podnebia s protézou | 20
-
-  - d) strata podnebia bez možnosti korekcie protézou s poruchou reči a príjmu potravy | 50-60
-
-  - e) vrodené rázštepy pier, čeľustí, podnebia u detí do dosiahnutia dobrého funkčného stavu |
-
-  - orofaciálnej sústavy | 40-60
-
-  - f) stavy po operáciách rázštepu pier, čeľustí, podnebia u dospelých podľa poruchy reči |
-
-  - a prehĺtania | 20-30
-
-  - g) izolovaný rázštep pier alebo podnebia | 20-30
-
-  - h) trvalá tracheostómia (celkový stav, komplikácie) | 40-60
-
-  - i) obojstranná obrna nervu recurrens s poruchou hlasu | 30
-
-  - j) poruchy artikulácie a hlasu |
-
-  - 1. ťažko zrozumiteľná reč | 20-30
-
-  - 2. nezrozumiteľná reč | 50-60
-
-  - 3. ťažká zajakavosť | 20-30
-
-  - k) iné poruchy priechodnosti dýchacích ciest (podľa ovplyvnenia dýchania a výkonnosti) | 20-30
-
-  - 9. Chronický zápal prínosových dutín ťažkého stupňa s komplikáciami (hnisavá sekrécia, |
-
-  - dráždenie trojklanného nervu, tvorba polypov, vnútrolebkové, očné) | 20-40
-
-  - 10. Úplná strata čuchu | 10-20
-
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podlá vplyvu vlastnej choroby na celkový stav, pôsobenia a dôsledkov na ostatné orgány. Pri sarkoidóze sa určí podľa rozsahu obmedzenia pľúcnych funkcií. X. Tráviace ústrojenstvoA. Ochorenie pažeráka
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa poruchy funkcie, výpadových javov, výskytu záchvatov, dĺžky trvania záchvatov a výskytu vegetatívnych porúch, neurologického nálezu, psychiatrického nálezu, psychologického nálezu a komplikácií.Miera funkčnej poruchy pri poškodení miechy sa určí podľa funkčných porúch na končatinách, porúch inervácie močového mechúra a konečníka s prihliadnutím na dominantnosť hornej končatiny.VI. Zrak
 
   - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - 1. | Trakčný divertikul (podľa veľkosti a ťažkostí) | 0-10
+  - 1 . Úplná slepota oboch očí | | 90
 
-  - 2. | Pulzný divertikul |
+  - 2. Praktická slepota oboch očí (V 3/60 - 1/60) | | 80
+
+  - 3. Slabozrakosť (V 6/60 - 3/60) | |
+
+  - | a) deti a mladiství do skončenia školskej dochádzky | 70
+
+  - | b) ostatné prípady | 50-60
+
+  - 4. Slabozrakosť (V 6/18 - 6/60) | |
+
+  - | a) deti do skončenia povinnej školskej dochádzky | 50-60
+
+  - | b) ostatné prípady | 40-60
+
+  - 5. Výpady zorného poľa (úplné, polovičné a kvadrantové) Pri neúplných, polovičných alebo kvadrantových výpadoch je potrebné primerane znížiť percentuálne vyjadrenie miery funkčnej poruchy | |
+
+  - | a) homonymná hemianopsia | 30-40
+
+  - | b) bitemporálna hemianopsia | 30
+
+  - | c) binasálna hemianopsia | 10
+
+  - | d) homonymný horný kvadrant | 20
+
+  - | e) homonymný dolný kvadrant | 30
+
+  - | f) výpad zorného poľa (laterálne) pri strate alebo slepote druhého oka | 60-70
+
+  - 6. Koncentrické zúženie (obojstranné zúženie zorného poľa na 10° až 5° centrálne je ťažká slabozrakosť, zúženie zorného poľa na 5° centrálne je praktická slepota aj pri zachovaní zrakovej ostrosti) | |
+
+  - | a) koncentrické zúženie zorného póla na 5° centrálne pri normálnom zornom poli druhého oka | 20
+
+  - | b) obojstranné zníženie na 30° od centra | 10-20
+
+  - 7. Koncentrické zúženie pri strate druhého oka | |
+
+  - | a) na 50° od centra | 40
+
+  - | b) na 30° od centra | 60
+
+  - | c) na 10° až 5° od centra | 80-90
+
+  - 8. Nepravidelné výpady zorného poľa, veľké skotómy v 50° zorného poľa binokulárne | | 30-40
+
+  - 9. Obrna očných svalov, ak oko musí byť vylúčené z videnia | | 20
+
+  - 10. Diplopia | | 10-20
+
+  - 11 . Strabizmus u detí | | 10-20
+
+  - 12. Strata jedného oka | | 30
+
+  - 13. Strata šošovky bez poruchy zrakovej ostrosti | |
+
+  - | a) jedného oka u dieťaťa do skončenia povinnej školskej dochádzky | 10-20
+
+  - | b) oboch očí u dieťaťa do skončenia povinnej školskej dochádzky | 20-30
+
+  - | c) ostatné prípady, jedného oka oboch očí | 10 20
+
+  - 14. Strata šošovky jedného oka pri slepote alebo strate druhého oka | |
+
+  - | a) u detí do skončenia povinnej školskej dochádzky | 40-50
+
+  - | b) ostatné prípady | 30-40
+
+  - 15. Odstránenie oka pre zhubný nádor | |
+
+  - | a) počas onkologického liečenia | 100
+
+  - | b) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40
+
+  - | c) neliečiteľné formy | 100
+
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa miery zníženia zrakovej ostrosti s korekciou, rozsahu zorného poľa, hĺbkového videnia, okulomotoriky, slzenia, citlivosti na prach, na svetlo, ochorenia očných adnexov a adaptácie.Miera funkčnej poruchy ptózy hornej mihalnice s úplným uzáverom očnej štrbiny, glaukómu (zelený zákal) a ostatných očných chorôb sa určí podľa stupňa zúženia zorného poľa, zrakovej ostrosti, schopnosti orientovať sa a psychického stavu.VII. Sluch a poruchy ústroja rovnováhy
+
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
+
+  - 1. Vrodená obojstranná praktická hluchota u detí alebo hluchota u detí, ktorá sa vyskytla pred rozvinutím reči, do skončenia prípravy na povolanie | | 70-80
+
+  - 2. Získaná obojstranná praktická hluchota alebo hluchota u detí, ktorá sa vyskytla až po rozvinutí reči, do 18. roku veku | | 60-80
+
+  - 3. Obojstranná praktická hluchota dospelých alebo hluchota dospelých | | 60-70
+
+  - 4. Obojstranná ťažká nedoslýchavosť u detí a dospelých zisťovaná slovnou alebo objektívnou audiometriou | | 50-60
+
+  - 5. Obojstranná stredne ťažká nedoslýchavosť u detí | | 50
+
+  - 6. Obojstranná stredne ťažká nedoslýchavosť u dospelých | | 30-40
+
+  - 7. Poruchy rovnováhy (objektivizovateľné poruchy vestibulárneho ústroja) | |
+
+  - | a) lahké závraty s hučaním v ušiach | 20-30
+
+  - | b) stredne ťažké závraty (so značnou neistotou pri polohe stojmo a pri chôdzi) | 30-40
+
+  - | c) ťažké závraty (so značnou neistotou pri polohe stojmo a pri chôdzi) alebo ťažký tinnitus | 50-70
+
+  - 8. Komplikovaný chronický zápal stredného ucha | | 20-30
+
+  - 9. Strata jednej ušnice | | 10
+
+  - 10. Strata oboch ušníc | | 30
+
+  - 11 . Zhubné nádory (hltana, mandlí, hrtana, slinných žliaz a pod.) | |
+
+  - | a) po odstránení nádoru pri onkologickej liečbe do piatich rokov | 40-80
+
+  - | b) neliečiteľné formy zhubných národov | 90-100
+
+  - | c) po stabilizácii zdravotného stavu | 40
+
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa miery zníženia sluchu, poruchy reči, následkom poškodenia sluchu, hučania v ušiach, bolesti v ušiach, poruchy rovnováhy, závratov, sociálnej adaptability a obmedzenia komunikačných schopností.VIII. Srdce a obehové ústrojenstvoA. Postihnutie srdca
+
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
+
+  - 1. Vrodené alebo získané srdcové chyby a postihnutie veľkých srdcových ciev, ischemická choroba srdca, stavy pri infarkte myokardu, chronické reumatické choroby srdca, stavy po operáciách, kardiomyopatie, stavy pri myokarditídach a pod. | |
+
+  - | a) bez podstatného zníženia výkonnosti žiadne prejavy nedostatočnosti ako dýchavičnosť, anginózne bolesti i pri obvyklom silnejšom telesnom zaťažení (napr. rýchla chôdza 7-8 km/hod., ťažká telesná práca, maximálna záťaž 100 W) | 0-10
+
+  - | b) stavy zodpovedajúce NYHA II stupeň postihnutia zodpovedá poklesu výkonnosti pri stredne ťažkom zaťažení (napr. chôdza 5-6 km/hod., ťažkosti pri stredne ťažkej telesnej práci a rekreačných aktivitách, maximálna záťaž 75 W) | 20-40
+
+  - | c) stavy zodpovedajúce NYHA III stupeň postihnutia zodpovedá podstatnému obmedzeniu bežnej fyzickej aktivity (napr. prechádzka 3-4 km/hod., stúpanie po schodoch na 1. poschodie, ľahká telesná práca, maximálna záťaž 50 W) | 50-60
+
+  - | d) stavy zodpovedajúce NYHA IV zjavné prejavy srdcového zlyhania v pokoji, dlhodobotrvajúce dekompenzácie, neschopnosť akejkoľvek fyzickej aktivity (max. 25 W) | 70-90
+
+  - 2. Poruchy srdcového rytmu | |
+
+  - | a) bez hemodynamických účinkov alebo pri nepatrných subjektívnych ťažkostiach | 0-10
+
+  - | b) s ľahkými hemodynamickými poruchami, liečbou kompenzované poruchy | 20-30
+
+  - | c) s ťažkými hemodynamickými poruchami (záťažová insuficiencia) alebo liečbou ťažko ovplyvniteľné poruchy | 50-70
+
+  - 3. Stavy po operácii srdca, náhradách srdcových chlopní, operácii srdcových chýb, po resekcii aneuryzmy, revaskularizačných výkonoch | |
+
+  - | a) s dobrým funkčným výsledkom | 20-30
+
+  - | b) pri závažnom znížení výkonu | 50-80
+
+  - 4. Implantácia kardiostimulátora | | 20-30
+
+  - 5. Stavy po koronárnej angioplastike s dobrým efektom | | 10-30
+
+  - 6. Chronické cor pulmonale miera funkčnej poruchy sa určí podľa porúch výkonnosti srdca a pľúc s prihliadnutím na stupeň hromadenia krvi v pľúcach a pľúcnej hypertenzie | | 50-70
+
+  - 7. Transplantácia srdca do piatich rokov od transplantácie podľa funkcie a liečby | | 40-60
+
+  - B. Postihnutie ciev
+
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
+
+  - 1 . Artériovenózne píšťaly | | |
+
+  - | a] bez hemodynamickeho účinku alebo porúch penlerneho prekrvenia | | 0-10
+
+  - | b) s nepatrnými hemodynamickými vplyvmi alebo s poruchami periférneho prekrvenia | | 20-30
+
+  - | c) s manifestnými prejavmi | | 30-50
+
+  - 2. | Ane | uryzmy (podľa polohy a veľkosti) |
+
+  - | a) bez funkčnej poruchy, bez obmedzenia výkonnosti | | 0-10
+
+  - | b) malé periférne výdute | | 0-10
+
+  - | c) iné | | 20-30
+
+  - | d) disekujúce aneuryzmy aorty, veľké aneuryzmy abdominálnej aorty a veľkých panvových tepien s obmedzením výkonnosti | | 40-60
+
+  - 3. Tepnové uzáverové choroby - uzávery tepien dolných končatín | | |
+
+  - | a) štádium I. podľa Fontainea na jednej dolnej končatine alebo na obidvoch končatinách | | 0-10
+
+  - | b) štádium II. podľa Fontainea s obmedzením kolaterálneho obehu, klaudikácie po 300 m až 500 m (Doppler na nohe 80-100 mm Hg) | | 20-30
+
+  - | c) štádium III. podľa Fontainea klaudikácie po 50 m-300 m (Doppler na nohe 60-80 mm Hg) | | 40-50
+
+  - | d) štádium IV. podľa Fontainea s bolesťami v pokoji a trofickými zmenami | | 50-70
+
+  - 4. Kŕčové žily | | |
+
+  - | a) s nepatrným opuchom na končatine s minimálnymi trofickými zmenami na koži bez ťažkostí, jedna alebo obidve končatiny | | 0-10
+
+  - | b) s výraznými ťažkosťami z hromadenia krvi v žilách, prítomnými recidívami zápalu - jedna alebo obidve končatiny | | 10-20
+
+  - | c) s chronickými recidivujúcimi defektmi podlá rozsahu a výskytu na jednej alebo na obidvoch končatinách | | 30-50
+
+  - | d) chronická venózna insuficiencia | |
+
+  - | | 1. jedna dolná končatina | 30-40
+
+  - | | 2. obidve dolné končatiny | 40-60
+
+  - | e) posttrombotický syndróm v oblasti panvy alebo dutých žíl - prichádza do úvahy vyššie hodnotenie | |
+
+  - 5. Lymfedém na jednej alebo na obidvoch končatinách | | |
+
+  - | a) so zväčšením obvodu končatiny do 5 cm | | 0-10
+
+  - | b) so zväčšením obvodu nad 5 cm, s obmedzením pohybu končatiny pre väčšiu hmotnosť a pre ovplyvnenie kĺbových funkcií | | 20-30
+
+  - | c) pri neschopnosti používať postihnutú končatinu | | 40-60
+
+  - 6. Poruchy krvného tlaku | | |
+
+  - | a) 1 . stupeň - mierna forma | | 0-20
+
+  - | b) 2. stupeň - stredná forma | | 20-30
+
+  - | c) 3. stupeň - ťažká forma | | 40-60
+
+  - 7. Funkčné srdcovocievne syndrómy, ortostatická hypotónia | | |
+
+  - | a) s ľahkými klinickými prejavmi | | 0-10
+
+  - | b) s častými závratmi a so sklonom ku kolapsom | | 20-30
+
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa rozsahu a stupňa obmedzenia výkonnosti srdcovocievneho systému. Na určenie miery funkčnej poruchy zdravotného postihnutia je menej dôležitý druh ochorenia srdca a obehového ústrojenstva ako rozdielna strata výkonu podľa už prítomného štádia ochorenia.Pri tepnových uzáveroch na hornej končatine sa určí stupeň funkčnej poruchy tak, že sa porovnáva s inými zdravotnými postihnutiami v tejto oblasti.Pri veľmi výrazných poruchách – lymfedéme treba brať do úvahy zohyzdenie končatiny.Pri poruche krvného tlaku sa miera funkčnej poruchy určí po systematickej farmakoterapii.IX. Dýchacia sústava
+
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
+
+  - 1. Chronický zápal priedušiek bez poruchy ventilácie | | | 0-10
+
+  - 2. Opakujúce sa zápaly pľúc so spastickou zložkou | | | 10-20
+
+  - 3. Chronická astmatická bronchitída so spastickou zložkou, bronchiektázia, emfyzém pľúc, pneumokoniózy, pľúcna fibróza, neaktívna tuberkulóza, stavy po operácii pľúc s trvalým obmedzením pľúcnych funkcií | | |
+
+  - | a) ľahký stupeň | | 20
+
+  - | | 1. dýchavičnosť, ktorá sa vyskytuje už pri stredne ťažkom zaťažení |
+
+  - | | 2. stredne ťažká telesná práca |
+
+  - | | 3. zníženie pľúcnych funkcií o menej ako 50 % príslušných hodnôt |
+
+  - | b) stredný stupeň | | 30-40
+
+  - | | 1. dýchavičnosť, ktorá sa vyskytne už pri každodennom ľahkom zaťažení |
+
+  - | | 2. ľahká telesná práca |
+
+  - | | 3. zníženie pľúcnych funkcií až o 50 % |
+
+  - | c) ťažký stupeň | | 50-70
+
+  - | | 1. dýchavičnosť už pri minimálnom zaťažení alebo v pokoji |
+
+  - | | 2. zníženie pľúcnych funkcií väčšie ako 50 % |
+
+  - 4. Bronchiálna astma | | |
+
+  - | a) bez trvalého obmedzenia funkcie so sporadickými záchvatmi | | 10
+
+  - | b) s trvalým obmedzením pľúcnych funkcií | |
+
+  - | | 1. ľahký stupeň (zníženie pľúcnych funkcií pod 50 %) | 20
+
+  - | | 2. stredný stupeň (zníženie pľúcnych funkcií o 50 %) | 30-40
+
+  - | | 3. ťažký stupeň (zníženie pľúcnych funkcií viac ako 50 %) | 50-70
+
+  - 5. Zhubné nádory (bronchiálne alebo pľúcne) | | |
+
+  - | a) počas chemoterapie, aktinoterapie, chirurgickej liečby | | 80
+
+  - | b) neliečiteľné formy | | 100
+
+  - | c) stav po stabilizácii zdravotného stavu (do piatich rokov) s ľahkým obmedzením pľúcnych funkcií | | 40-50
+
+  - | d) obmedzenie pľúcnej funkcie stredného až ťažkého stupňa | | 60-80
+
+  - 6. Bronchiálna astma u detí, astmatický syndróm | | |
+
+  - | a) ľahká forma astmatické bronchitídy bez trvalého obmedzenia ventilačnej poruchy pľúc, ktoré trvajú aspoň šesť týždňov v roku | | 20-30
+
+  - | b) stredná forma-stredne ťažká perzistujúca astmatické bronchitídy trvajúce aspoň dva až tri mesiace v roku s trvalou ventilačnou poruchou pľúc ľahkého až stredného stupňa | | 30-50
+
+  - | c) ťažká forma trvalá ventilačná porucha stredne ťažkého až ťažkého stupňa | | 50-70
+
+  - | d) trvalá globálna dychová nedostatočnosť s prejavmi dekompenzácie | | 80-90
+
+  - 7. Sarkoidóza | | |
+
+  - | 1. zväčšenie vnútrohrudných uzlín s ľahkým funkčným obmedzením a klinickou symptomatológiou | | 20
+
+  - | 2. postihnutie pľúc s klinickou symptomatológiou | | 20-70
+
+  - 8. Ústna dutina a horné dýchacie cesty | | |
+
+  - | a) defekt pier so stálym slinotokom, s poruchou reči a príjmu potravy | | 20-30
+
+  - | b) ťažká porucha funkcie jazyka, artikulácie, žuvania s možnosťou prijímať len tekutú stravu | | 50-60
+
+  - | c) rozsiahly defekt podnebia s protézou | | 20
+
+  - | d) strata podnebia bez možnosti korekcie protézou s poruchou reči a príjmu potravy | | 50-60
+
+  - | e) vrodené rázštepy pier, čeľustí, podnebia u detí do dosiahnutia dobrého funkčného stavu orofaciálnej sústavy | | 40-60
+
+  - | f) stavy po operáciách rázštepu pier, čeľustí, podnebia u dospelých podľa poruchy reči a prehltania | | 20-30
+
+  - | g) izolovaný rázštep pier alebo podnebia | | 20-30
+
+  - | h) trvalá tracheostómia (celkový stav, komplikácie) | | 50-60
+
+  - | i) obojstranná obrna nervu recurrens s poruchou hlasu | | 30
+
+  - | j) poruchy artikulácie a hlasu | |
+
+  - | | 1. ťažko zrozumiteľná reč | 20-30
+
+  - | | 2. nezrozumiteľná reč | 50-60
+
+  - | | 3. ťažká zajakavosť | 20-30
+
+  - | k) iné poruchy priechodnosti dýchacích ciest (podľa ovplyvnenia dýchania a výkonnosti) | | 20-30
+
+  - 9. Chronický zápal prínosových dutín ťažkého stupňa s komplikáciami (hnisavá sekrécia, dráždenie trojklaného nervu, tvorba polypov, vnútrolebkové, očné) | | | 20-40
+
+  - 10. Úplná strata čuchu | | | 10-20
+
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa vplyvu vlastnej choroby na celkový stav, pôsobenia a dôsledkov na ostatné orgány. Pri sarkoidóze sa určí podľa rozsahu obmedzenia pľúcnych funkcií.X. Tráviace ústrojenstvoA. Ochorenie pažeráka
+
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
+
+  - 1. Trakčný divertikul (podľa veľkosti a ťažkostí) | | 0-10
+
+  - 2. Pulzný divertikul | |
 
   - | a) bez podstatnej prekážky pri príjme potravy | 0-10
 
   - | b) so značnou prekážkou pri príjme potravy | 20-40
 
-  - 3. | Funkčná alebo organická stenóza pažeráka |
+  - 3. Funkčná alebo organická stenóza pažeráka | |
 
   - | a) bez podstatnej prekážky pri príjme potravy | 0-10
 
@@ -918,1226 +798,1094 @@ Príloha č. 4 k zákonu č. 195/1998
 
   - | c) so značnou poruchou výživy a výkonnosti | 40-60
 
-  - 4. | Malígny nádor pažeráka |
+  - 4. Malígny nádor pažeráka | |
 
-  - | a) po radikálnej a onkologickej liečbe nádoru treba počkať spravidla dva roky, či bola |
-
-  - | liečba úspešná | 80
+  - | a) po radikálnej a onkologickej liečbe nádoru treba počkať spravidla päť rokov, či bola liečba úspešná | 40-80
 
   - | b) so značným úbytkom výživy a výkonnosti | 90-100
 
-  - 5. | Totálna náhrada pažeráka s poruchou príjmu potravy, s obmedzením výživy a výkonnosti, |
-
-  - | so zohľadnením zohyzďujúceho pôsobenia | 70-90
+  - 5. Totálna náhrada pažeráka s poruchou príjmu potravy, s obmedzením výživy a výkonnosti, so zohľadnením zohyzďujúceho pôsobenia | | 70-90
 
   - B. Ochorenie žalúdka
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - 1. Chronické, recidivujúce vredy žalúdka a dvanástnika |
+  - 1. Chronické, recidivujúce vredy žalúdka a dvanástnika | |
 
-  - a) recidivujúce po dvoch-troch rokoch 0-10 |
+  - | a) recidivujúce po dvoch-troch rokoch | 0-10
 
-  - b) s častejšími recidívami ochorenia | 20-30
+  - | b) s častejšími recidívami ochorenia | 20-30
 
-  - c) s trvalým výrazným znížením výživy a výkonnosti s komplikáciami | 40-50
+  - | c) s trvalým výrazným znížením výživy a výkonnosti s komplikáciami | 40-50
 
-  - 2. Totálne odstránenie žalúdka |
+  - 2. Totálne odstránenie žalúdka, hodnotí sa vplyv na stav výživy a úbytok výkonnosti, prípadné komplikácie | | 50-80
 
-  - hodnotí sa vplyv na stav výživy a úbytok výkonnosti, prípadné komplikácie | 50-80
+  - 3. Chronická gastritída (ireverzibilná zmena sliznice žalúdka) | |
 
-  - 3. Chronická gastritída (Ireverzibilná zmena sliznice žalúdka) |
+  - | a) bez podstatných klinických prejavov | 0-10
 
-  - a) bez podstatných klinických prejavov | 0-10
+  - | b) s úbytkom výživy a výkonnosti alebo s výraznými komplikáciami | 20-30
 
-  - b) s úbytkom výživy a výkonnosti alebo s výraznými komplikáciami | 20-30
+  - 4. Dráždivý žalúdok (funkčná porucha) | | 0-10
 
-  - 4. Dráždivý žalúdok (funkčná porucha) | 0-10
+  - 5. Čiastočné odstránenie žalúdka, gastroenteroanastomóza | |
 
-  - 5. Čiastočné odstránenie žalúdka, gastroenteroanastomóza |
+  - | a) s dobrou funkciou | 10-20
 
-  - a) s dobrou funkciou | 10-20
+  - | b) s komplikáciami (napr. dumpingový syndróm, ulcus pepticum) | 30-50
 
-  - b) s komplikáciami (napr. dumpingový syndróm, ulcus pepticum) | 30-50
+  - 6. Čiastočné alebo úplné odstránenie žalúdka pre malignitu - treba počkať spravidla päť rokov, či bola liečba úspešná | |
 
-  - 6. Čiastočné alebo úplné odstránenie žalúdka pre malignitu - treba počkať spravidla dva |
+  - | Počas tohto obdobia: |
 
-  - roky, či bola liečba úspešná |
+  - | a) pri čiastočnom odstránení žalúdka vo včasnom štádiu (early cancer - T1-NOMO) | 40-50
 
-  - Počas tohto obdobia |
+  - | b) po čiastočnej alebo úplnej resekcii žalúdka pri prebiehajúcom onkologickom liečení | 80-100
 
-  - a) pri čiastočnom odstránení žalúdka vo včasnom štádiu (early cancer - T1NOMO) | 40-50
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - b) po čiastočnej alebo úplnej resekcii žalúdka pri prebiehajúcom onkologickom liečení | 80-100
-
-  - c) po stabilizácii zdravotného stavu (spravidla do dvoch rokov) | 40-50
-
-  - d) neliečiteľné formy | 90-100
+  - | d) neliečiteľné formy | 90-100
 
   - C. Ochorenie tenkého a hrubého čreva
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - 1. Chronický zápal čriev, divertikulitída, divertikulóza, čiastočné resekcie čreva alebo iné |
+  - 1 . Chronický zápal čriev, divertikulitída, divertikulóza, čiastočné resekcie čreva alebo iné črevné poruchy | |
 
-  - črevné poruchy |
+  - | a) bez podstatných klinických prejavov (napr. syndróm dráždivého čreva) | 0-10
 
-  - a) bez podstatných klinických prejavov (napr. syndróm dráždivého čreva) | 0-10
+  - | b) so silnejšími trvalými symptómami (napr. hnačky, spazmy a pod.) | 20-30
 
-  - b) so silnejšími trvalými symptómami (napr. hnačky, spazmy a pod.) | 20-30
+  - | c) so značným úbytkom hmotnosti a výkonnosti | 30-50
 
-  - c) so značným úbytkom hmotnosti a výkonnosti | 30-50
+  - 2. Colitis ulcerosa, idiopatická proktokolitída, Crohnova choroba | |
 
-  - 2. Colitis ulcerosa, idiopatická proktokolitída, Crohnova choroba |
+  - | a) s miernym účinkom na celkový stav (hnačky, znížená výkonnosť) | 10-20
 
-  - a) s miernym účinkom na celkový stav (hnačky, znížená výkonnosť) | 10-20
+  - | b) so stredne závažným účinkom na celkový stav (trvalé alebo často recidivujúce zápaly sliznice s krvácaním) | 30-50
 
-  - b) so stredne závažným účinkom na celkový stav (trvalé alebo často recidivujúce zápaly |
+  - | c) s ťažkým účinkom na celkový stav a výkonnosť (perforácie, opakované operácie, malnutrícia) | 60-80
 
-  - sliznice s krvácaním) | 30-50
+  - 3. Črevné malabsorpcie (coeliakia, sprue, malabsorpcia spôsobená intoleranciou) | |
 
-  - c) s ťažkým účinkom na celkový stav a výkonnosť (perforácie, opakované operácie, |
+  - | a) bez podstatných klinických prejavov pri dietoterapii u dospelých | 30-50
 
-  - malnutrícia) | 60-80
+  - | b) u detí do skončenia povinnej školskej dochádzky | 40-60
 
-  - 3. Črevné malabsorpcie (coeliakia, sprue, malabsorpcia spôsobená intoleranciou) |
+  - | c) na liečbu rezistentné pokročilé formy u dospelých so znížením stavu výživy a výkonnosti | 60-80
 
-  - a) bez podstatných klinických prejavov pri dietoterapii u dospelých | 10-30
+  - 4. Po odstránení malígneho tumoru čreva (treba počkať spravidla päť rokov na efekt liečby) | |
 
-  - b) u detí do skončenia povinnej školskej dochádzky | 40-60
+  - | V priebehu tohto obdobia: |
 
-  - c) na liečbu rezistentné pokročilé formy u dospelých so znížením stavu výživy a výkonnosti | 60-80
+  - | a) po odstránení lokalizovaných črevných nádorov z oblasti tračníka alebo rekta vo včasnom štádiu (T1-NOMO Dukes A) počas onkologickej liečby | 50-60
 
-  - 4. Po odstránení malígneho tumoru čreva (treba počkať spravidla dva roky na efekt liečby) |
+  - | b) s vytvorením trvalej kolostómie | 70-80
 
-  - V priebehu tohto obdobia: |
+  - | c) počas onkologickej liečby bez vytvorenia kolostómie | 60-70
 
-  - a) po odstránení lokalizovaných črevných nádorov z oblasti tračníka alebo rekta vo včasnom |
+  - | d) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - štádiu (T1NOMO Dukes A) počas onkologickej liečby | 50-60
+  - | e) neliečiteľné formy | 90-100
 
-  - b) s vytvorením trvalej kolostómie | 70-80
+  - 5. Stavy po odstránení podstatnej časti tenkého alebo hrubého čreva (nenádorové príčiny) | | 30-50
 
-  - c) počas onkologickej liečby bez vytvorenia kolostómie | 60-70
+  - 6. Zrasty v brušnej dutine | |
 
-  - d) po stabilizácii zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - | a) bez výraznej klinickej symptomatológie | 0-10
 
-  - e) neliečiteľné formy | 90-100
+  - | b) s poruchami pasáže | 20-30
 
-  - 5. Stavy po odstránení podstatnej časti tenkého alebo hrubého čreva (nenádorové príčiny) | 20-50
+  - | c) s častými recidivujúcimi ileóznymi stavmi | 50-60
 
-  - 6. Zrasty v brušnej dutine |
+  - 7. Hemoroidy | |
 
-  - a) bez výraznej klinickej symptomatológie | 0-10
+  - | a) bez výrazných ťažkostí s občasným krvácaním | 0-10
 
-  - b) s poruchami pasáže | 20-30
+  - | b) s častými recidivujúcimi zápalmi, trombotizovaním alebo silnejším krvácaním | 10-20
 
-  - c) s častými recidivujúcimi ileóznymi stavmi | 40-50
+  - 8. Vyvrátenie konečníka | |
 
-  - 7. Hemoroidy |
+  - | a) malý reponibilný | 0-10
 
-  - a) bez výrazných ťažkostí s občasným krvácaním | 0-10
+  - | b) trvalý s krvácaním | 20-40
 
-  - b) s častými recidivujúcimi zápalmi, trombotizovaním alebo silnejším krvácaním | 10-20
+  - 9. Slabosť zvierača riti s občasným odchodom stolice | | 40-60
 
-  - 8. Vyvrátenie konečníka |
+  - 10. Strata zvierača riti | | 60-80
 
-  - a) malý reponibilný | 0-10
+  - 11 . Perianálne píšťaly | |
 
-  - b) trvalý s krvácaním | 20-40
+  - | a) nepatrné, bez stálej sekrécie | 0-10
 
-  - 9. Slabosť zvierača riti s občasným odchodom stolice | 40-60
+  - | b) s častou alebo trvalou sekréciou | 20-40
 
-  - 10. Strata zvierača riti | 60-80
+  - 12. Umelá riť (kolostómia, ileostómia) | |
 
-  - 11 . Perianálne píšťaly |
+  - | a) s dobrou možnosťou uzáveru | 50-60
 
-  - a) nepatrné, bez stálej sekrécie | 0-10
-
-  - b) s častou alebo trvalou sekréciou | 20-40
-
-  - 12. Umelá riť (kolostómia, ileostómia) |
-
-  - a) s dobrou možnosťou uzáveru | 50-60
-
-  - b) bez možnosti uzáveru | 60-80
+  - | b) bez možnosti uzáveru | 60-80
 
   - D. Ochorenie pečene, žlčových ciest, podžalúdkovej žľazy
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - 1 . Ochorenia pečene (bez ohľadu na etiológiu) |
+  - 1. Ochorenia pečene (bez ohľadu na etiológiu) Funkčná hyperbilirubinémia | | 0-10
 
-  - Funkčná hyperbilirubinémia | 0-10
+  - 2. Chronická perzistujúca hepatitída | | 10-20
 
-  - 2. Chronická perzistujúca hepatitída | 10-20
+  - 3. Chronická agresívna hepatitída - podľa aktivity a funkčnej poruchy | |
 
-  - 3. Chronická agresívna hepatitída - podlá aktivity a funkčnej poruchy |
+  - | a) ľahkéno stupňa | 10-20
 
-  - a) ľahkého stupňa | 10-20
+  - | b) stredného stupňa | 20-40
 
-  - b) stredného stupňa | 20-40
+  - | c) ťažkého stupňa | 50-90
 
-  - c) ťažkého stupňa | 50-90
+  - 4. Fibróza pečene | |
 
-  - 4. Fibróza pečene |
+  - | a) ľahkého stupňa | 0-10
 
-  - a) ľahkého stupňa | 0-10
+  - | b) ťažšieho stupňa | 10-20
 
-  - b) ťažšieho stupňa | 10-20
+  - 5. Zápalová cirhóza pečene | |
 
-  - 5. Zápalová cirhóza pečene |
+  - | a) stacionárna | 20-30
 
-  - a) stacionárna | 20-30
+  - | b) s miernou aktivitou | 30-40
 
-  - b) s miernou aktivitou | 30-40
+  - | c) s vyššou aktivitou, progredujúca | 50-70
 
-  - c) s vyššou aktivitou, progredujúca | 50-70
+  - | d) portálna hypertenzia po skratovej operácii | 50-70
 
-  - d) s hromadením v portálnom systéme po skratovej operácii | 60
+  - 6. Steatóza pečene, toxické poškodenie pečene | |
 
-  - 1. bez hepatickej encefalopatie | 60-70
+  - | a) bez mezenchýmových reakcií | 0-10
 
-  - 2. s hepatickou encefalopatiou | 80-90
+  - | b) steatóza s hepatitídou, chronická toxická hepatitída - ako pri chronickej agresívnej hepatitíde | 50-90
 
-  - 6. Steatóza pečene, toxické poškodenie pečene |
+  - 7. Resekcia pečeňového laloka | | 50-70
 
-  - a) bez mezenchýmových reakcií | 0-10
+  - 8. Malígne nádory pečene, žlčníka, žlčových ciest, podžalúdkovej žľazy | |
 
-  - b) steatóza s hepatitídou, chronická toxická hepatitída - ako pri chronickej agresívnej |
+  - | a) počas onkologickej liečby | 90-100
 
-  - hepatitíde | 50-90
+  - | b) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - 7. Resekcia pečeňového laloka | 50-70
+  - | c) neliečiteľné formy | 90-100
 
-  - 8. Malígne nádory pečene, žlčníka, žlčových ciest, podžalúdkovej žľazy |
+  - 9. Transplantácia pečene (podlá funkčného nálezu, stavu výživy a výkonnosti) | | 50-90
 
-  - a) počas onkologickej liečby | 90-100
+  - 10. Chronické zápaly intrahepatálnych žlčových ciest - hodnotí sa ako pri chronickej agresívnej hepatitíde alebo cirhóze | | 20-80
 
-  - b) po stabilizácii zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - 11 . Dyskinéza žlčových ciest sa hodnotí podlá výskytu biliárnych kolík s odstupom viacerých mesiacov | | 0-10
 
-  - c) neliečiteľné formy | 90-100
+  - 12. Ochorenia žlčových ciest (litiáza, chronické recidivujúce zápaly) | |
 
-  - 9. Transplantácia pečene (podľa funkčného nálezu, stavu výživy a výkonnosti) | 50-90
+  - | a) s kolikami s odstupom niekoľkých mesiacov, zápalov s odstupom rokov | 0-10
 
-  - 10. Chronické zápaly intrahepatálnych žlčových ciest - hodnotí sa ako pri chronickej |
+  - | b) s častejšími kolikami a so zápalmi, s intenzívnymi ťažkosťami | 10-20
 
-  - agresívnej hepatitíde alebo cirhóze | 20-80
+  - | c) s dlhotrvajúcimi zápalmi alebo s komplikáciami | 20-40
 
-  - 11 . Dyskinéza žlčových ciest sa hodnotí podľa výskytu biliárnych kolík s odstupom viacerých |
+  - 13. Strata žlčníka | |
 
-  - mesiacov | 0-10
+  - | a) so zvyškovými funkčnými poruchami, postcholecystektomický syndróm | 10-20
 
-  - 12. Ochorenia žlčových ciest (litiáza, chronické recidivujúce zápaly) |
+  - | b) pri dlhšie trvajúcich kolikách | 20-40
 
-  - a) s kolikami s odstupom niekoľkých mesiacov, zápalov s odstupom rokov | 0-10
+  - 14. Chronické ochorenie podžalúdkovej žľazy podľa účinku na celkový zdravotný stav, častosť a rozsah bolesti | |
 
-  - b) s častejšími kolikami a so zápalmi, s Intenzívnymi ťažkosťami | 10-20
+  - | a) čiastočné zníženie výkonnosti, slabšia výživa, dyspeptické ťažkosti, hnačky | 0-10
 
-  - c) s dlhotrvajúcimi zápalmi alebo komplikáciami | 20-40
+  - | b) zreteľné zníženie výkonnosti, oslabenie výživy, častejšie hnačky | 30-40
 
-  - 13. Strata žlčníka |
-
-  - a) so zvyškovými funkčnými poruchami, postcholecystektomický syndróm | 10-20
-
-  - b) pri dlhšie trvajúcich kolikách | 20-40
-
-  - 14. Chronické ochorenie podžalúdkovej žľazy podlá účinku na celkový zdravotný stav, častosť |
-
-  - a rozsah bolesti |
-
-  - a) čiastočné zníženie výkonnosti, slabšia výživa, dyspeptické ťažkosti, hnačky | 0-10
-
-  - b) zreteľné zníženie výkonnosti, oslabenie výživy, častejšie hnačky | 20-30
-
-  - c) výrazné zníženie výživy a výkonnosti, tukové stolice | 40-60
+  - | c) výrazné zníženie výživy a výkonnosti, tukové stolice | 40-60
 
   - E. Prietrž
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - 1. Slabinová, skrotálna alebo stehenná prietrž podľa veľkosti a reponibility |
+  - 1. Slabinová, skrotálna alebo stehenná prietrž podľa veľkosti a reponibility | |
 
-  - a) jedno- alebo obojstranná bez klinickej symptomatológie | 0-10
+  - | a) jedno- alebo obojstranná bez klinickej symptomatologie | 0-10
 
-  - b) pri klinickej symptomatológii (bolesti, obmedzenie pohybu pri záťaži a pod.) | 10-20
+  - | b) pri klinickej symptomatológii (bolesti, obmedzenie pohybu pri záťaži a pod.) | 10-20
 
-  - 2. Pupočná prietrž alebo prietrž v bielej línii podľa klinickej symptomatológie | 0-10
+  - 2. Pupočná prietrž alebo prietrž v bielej línii podľa kinickej symptomatologie | | 0-10
 
-  - 3. Prietrž v jazvách po brušnej operácii |
+  - 3. Prietrž v jazvách po brušnej operácii | |
 
-  - a) bez výraznej symptomatológie podľa veľkosti | 0-10
+  - | a) bez výraznej symptomatologie podľa veľkosti | 0-10
 
-  - b) so značným obmedzením brušného lisu | 10-20
+  - | b) so značným obmedzením brušného lisu | 10-20
 
-  - c) pri poruchách pasáže bez značných komplikácií | 20-30
+  - | c) pri poruchách pasáže bez značných komplikácií | 20-30
 
-  - d) pri častých recidivujúcich prejavoch ileóznych stavov | 30-40
+  - | d) pri častých recidivujúcich prejavoch ileóznych stavov | 30-40
 
-  - 4. Prietrž bránice |
+  - 4. Prietrž bránice | |
 
-  - a) pažeráková sklzná prietrž | 0-10
+  - | a) pažeráková sklzná prietrž | 0-10
 
-  - b) iné malé bránicové prietrže bez podstatnej funkčnej poruchy | 0-10
+  - | b) iné malé bránicové prietrže bez podstatnej funkčnej poruchy | 0-10
 
-  - c) väčšie bránicové prietrže podľa stupňa funkčnej poruchy |
+  - | c) väčšie bránicové prietrže podľa stupňa funkčnej poruchy (refluxná ezofagitída) | 10-20
 
-  - (refluxná ezofagitída) | 10-20
+  - | d) prietrž s rozsiahlym premiestnením brušných orgánov s poruchami pasáže a s vplyvom na kardiopulmonálny systém | 40-60
 
-  - d) prietrž s rozsiahlym premiestnením brušných orgánov s poruchami pasáže a s vplyvom |
+  - 5. Hydrokéla a varikokéla | | 0-10
 
-  - na kardiopulmonálny systém | 40-60
+  - Miera funkčnej poruchy sa pri organických a funkčných ochoreniach zažívacieho ústroja určí podľa stupňa a úbytku výkonnosti, stupňa orgánových porúch a podľa potreby osobitných režimových opatrení. Pri alergicky podmienených ochoreniach má význam zamedzenie pôsobenia alergénov.Po selektívnej proximálnej vagotómii prichádza hodnotenie miery funkčnej poruchy do úvahy, ak sú prítomné črevné poruchy (hnačky) alebo pretrvávajú účinky základného ochorenia.Vyvrátenie konečníka, hemoroidy a rektálne píšťaly treba hodnotiť podľa lokality, rozsahu, funkcie zvierača a črevnej steny.Pri rozsiahlom vyvrátení konečníka, kolostómii, ileostómii a silne secernujúcich sterkorálnych fistúl treba hodnotiť i psychickú ujmu (najmä obmedzenie spoločenského styku, sexuálneho života).XI. Ochorenie kože
 
-  - 5. Hydrokéla a varikokéla | 0-10
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - Miera funkčnej poruchy sa pri organických a funkčných ochoreniach zažívacieho traktu určí podľa stupňa a úbytku výkonnosti, stupňa orgánových porúch a podľa potreby osobitných režimových opatrení. Pri alergický podmienených ochoreniach má význam zamedzenie pôsobenia alergénov.Po selektívnej proximálnej vagotómii prichádza hodnotenie miery funkčnej poruchy do úvahy, ak sú prítomné črevné poruchy (hnačky) alebo pretrvávajú účinky základného ochorenia.Vyvrátenie konečníka, hemoroidy a rektálne píšťaly treba hodnotiť podľa lokality, rozsahu, funkcie zvierača a črevnej steny.Pri rozsiahlom vyvrátení konečníka, kolostómii, ileostómii a silne secernujúcich sterkorálnych fistúl treba hodnotiť i psychickú ujmu (najmä obmedzenie spoločenského styku, sexuálneho života). |
+  - 1 . Jazvy po popálení alebo poleptaní na ploche | |
 
-  - XI. Ochorenie kože
+  - | a) do 40 % kožného krytu | 10-20
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | b) nad 40 % kožného krytu (dekubity) | 20-40
 
-  - 1. Jazvy po popálení alebo poleptaní na ploche |
+  - 2. Ekzémy | |
 
-  - a) do 40 % kožného krytu | 10-20
+  - | a) chronický ekzém (napr. kontaktný ekzém) na viditeľných častiach tela (ťažšieho stupňa) | 20-30
 
-  - b) nad 40 % kožného krytu (dekubity) | 20-40
+  - | b) endogénny ekzém, atopická dermatitída s dlhotrvajúcimi prejavmi generalizovaného charakteru, dermorespiračný syndróm | 30-50
 
-  - 2. Ekzémy |
+  - | c) seboroický ekzém ťažšieho stupňa s postihnutím viditeľných častí tela | 50-60
 
-  - a) chronický ekzém (napr. kontaktný ekzém) na viditeľných častiach tela (ťažšieho |
+  - 3. Acne vulgaris (Induratívna forma) s tvorbou vredov so značnou kozmetickou ujmou | | 20-30
 
-  - stupňa) | 20-30
+  - 4. Acne conglobata s opakovanou tvorbou píšťal, vredov a trvalou premenou tkaniva na jazvy | | 30-40
 
-  - b) endogénny ekzém, atopická dermatitída s dlhotrvajúcimi prejavmi generalizovaného |
+  - 5. Systémové ochorenia spojivového tkaniva (lupus erythematosus, dermatomyozitída, sklerodermia) | |
 
-  - charakteru | 30-50
+  - | a) kožné zmeny ohraničené na predilekčných miestach alebo pri väčšom rozšírení, podľa funkčného postihnutia | 20-30
 
-  - c) seboroický ekzém ťažšieho stupňa s postihnutím viditeľných častí tela | 50-60
+  - | b) rozsiahle kožné zmeny, ulcerácie, obmedzenie pohybov v kĺboch, postihnutie vnútorných orgánov | 40-60
 
-  - 3. Acne vulgaris (induratívna forma) s tvorbou vredov so značnou kozmetickou ujmou | 20-30
+  - 6. Pľuzgierovité kožné ochorenia (napr. pemfigus) | |
 
-  - 4. Acne conglobata s opakovanou tvorbou píšťal, vredov a s trvalou premenou tkaniva |
+  - | a) ťažšie postihnutie Koze a slizníc | 30-40
 
-  - na jazvy | 30-40
+  - | b) generalizované postihnutie kože a slizníc | 60-80
 
-  - 5. Systémové ochorenia spojivového tkaniva (lupus erythematosus, dermatomyozitída, |
+  - 7. Psoriasis vulgaris | |
 
-  - sklerodermia) |
+  - | a) s výskytom na predilekčných miestach | 10-20
 
-  - a) kožné zmeny ohraničené na predilekčných miestach alebo pri väčšom rozšírení, podlá |
+  - | b) generalizovaná forma s kĺbovým postihnutím, remisiami trvajúcimi niekoľko mesiacov | 30-50
 
-  - funkčného postihnutia | 20-30
+  - | c) generalizovaná ťažká forma postihujúca celý povrch tela bez období zlepšenia | 50-60
 
-  - b) rozsiahle kožné zmeny, ulcerácie, obmedzenie pohybov v kĺboch, postihnutie |
+  - 8. Erytrodermia | |
 
-  - vnútorných orgánov | 40-60
+  - | a) pri malej intenzite zápalového procesu | 20-30
 
-  - 6. Pľuzgierovité kožné ochorenia (napr. pemfigus) |
+  - | b) pri závažnej intenzite zápalového procesu s ťažkou alteráciou celkového stavu | 40-50
 
-  - a) ťažšie postihnutie kože a slizníc | 30-40
+  - 9. Ichtyóza | |
 
-  - b) generalizované postihnutie kože a slizníc | 60-80
+  - | a) stredne ťažká forma dlhodobo postihujúca trup a končatiny | 20-30
 
-  - 7. Psoriasis vulgaris |
+  - | b) ťažká forma postihujúca celý povrch tela | 60-80
 
-  - a) s výskytom na predilekčných miestach | 10-20
+  - 10. Dermatomykózy | |
 
-  - b) generalizovaná forma s kĺbovým postihnutím, remisiami trvajúcimi niekoľko |
+  - | a) postihnutie nechtových platničiek rúk a nôh, priľahlých častí kože, tiež v intertriginóznych priestoroch | 10-20
 
-  - mesiacov | 30-50
+  - | b) systémové mykózy (napr. kandidóza, histoplazmóza, kokcidiomykóza) s rozsiahlymi prejavmi na koži, s postihnutím niekoľkých vnútorných orgánov, systémov s alteráciou celkového stavu | 40-60
 
-  - c) generalizovaná ťažká forma postihujúca celý povrch tela bez období zlepšenia | 50-60
+  - 11 . Recidivujúci eryzipel podlá stupňa lymfedému alebo obmedzenia pohyblivosti | | 20-30
 
-  - 8. Erytrodermia |
+  - 12. Recidivujúci pásový opar | | 20-30
 
-  - a) pri malej intenzite zápalového procesu | 20-30
+  - 13. Úplná strata vlasov a ochlpenia | | 30-50
 
-  - b) pri závažnej intenzite zápalového procesu s ťažkou alteráciou celkového stavu | 40-50
+  - 14. Malígne tumory kože (s výnimkou malých bazaliómov) | |
 
-  - 9. Ichtyóza |
+  - | a) po odstránení melanómu alebo iných malígnych kožných tumorov v počiatočnom štádiu | 30-40
 
-  - a) stredne ťažká forma dlhodobo postihujúca trup a končatiny | 20-30
+  - | b) v pokročilom štádiu, neliečiteľné formy | 80-100
 
-  - b) ťažká forma postihujúca celý povrch tela | 60-80
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 30-40
 
-  - 10. Dermatomykózy |
+  - Miera funkčnej poruchy sa pri kožných ochoreniach určí podľa druhu, rozšírenia, lokality, účinku na celkový stav, sprievodné prejavy ako svrbenie, mokvanie, pálenie, zápach, tvorba jaziev.XII. Pohybový a podporný aparátA. Chrbtica, choroby kĺbov, zápalové reumatické ochorenie, iné choroby kostí, chrupiek, šliach, svalov
 
-  - a) postihnutie nechtových platničiek rúk a nôh, priľahlých častí kože, tiež |
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - v intertriginóznych priestoroch | 10-20
+  - 1. Poruchy chrbtice | | |
 
-  - b) systémové mykózy (napr. kandidóza, histoplazmóza, kokcidiomykóza) s rozsiahlymi |
+  - | a) zlomeniny tela stavca do 1/4 tela stavca, spondylolistéza I. a II. stupňa, vrodené chyby a deformácie, stavy po operáciách s ľahkou poruchou statiky a dynamiky chrbtice | | 10
 
-  - prejavmi na koži, s postihnutím niekoľkých vnútorných orgánov, systémov |
+  - | b) degeneratívne zmeny na chrbtici a medzistavcových platničkách, stavy po operáciách s trvalým postihnutím funkcie a častými recidívami dráždenia nervov a svalov, s poruchou svalového korzetu stredného stupňa, so strednou poruchou dynamiky a statiky chrbtice | | 20-30
 
-  - s alteráciou celkového stavu | 40-60
+  - | c) ostatné postihnutia chrbtice s ťažkým stupňom poruchy funkcie (napr. skoliózy II. až IV. stupňa), s výraznou deformitou hrudníka s prihliadnutím na stupeň kardiopulmonálnej insuficiencie chronického charakteru, spondylolistézy III. a IV. stupňa, primárna diseminovaná hyperostóza s ankylózou vo viacerých segmentoch chrbtice | | 40-60
 
-  - 11. Recidivujúci eryzipel podľa stupňa lymfedému alebo obmedzenia pohyblivosti | 20-30
+  - | d) stavy po operácii chrbtice a medzistavcových platničiek, rozsiahle degeneratívne zmeny III. a IV. stupňa s ťažkými poruchami funkcie (recidivujúcimi chronickými iritáciami nervov až radikulopatiami s motorickým deficitom na periférii trvalého charakteru, insuficiencia svalového korzetu) | | 30-50
 
-  - 12. Recidivujúci pásový opar | 20-30
+  - 2. Scheurmannova choroba s trvalou staticko-dynamickou poruchou funkcie Scheurmannova choroba sa hodnotí po 18. roku života | | |
 
-  - 13. Úplná strata vlasov a ochlpenia | 30-50
+  - | a) ľahký stupeň poruchy funkcie s chronickou vertebralgiou | | 0-10
 
-  - 14. Malígne tumory kože (s výnimkou malých bazaliómov) |
+  - | b) stredný a ťažký stupeň poruchy funkcie s nosením korzetu | | 20-30
 
-  - a) po odstránení melanómu alebo iných malígnych kožných tumorov v počiatočnom |
+  - 3. Spondylartritída ankylozujúca - Bechterevova choroba | | |
 
-  - štádiu | 30-40
+  - | a) stredne ťažká forma (III. a IV. stupeň) | | 20-40
 
-  - b) v pokročilom štádiu, neliečiteľné formy | 80-100
+  - | b) ťažké formy (V. stupeň) | | 40-60
 
-  - c) po stabilizácii zdravotného stavu (spravidla po dvoch rokoch) | 30-40
+  - | c) ťažký stupeň postihnutia chrbtice s ankylózou bedrových kĺbov | | 70-100
 
-  - Miera funkčnej poruchy sa pri kožných ochoreniach určí podľa druhu, rozšírenia, lokality, účinku na celkový stav, sprievodné prejavy ako svrbenie, mokvanie, pálenie, zápach, tvorba jaziev. |
+  - 4. Artropatie, zápalové reumatické ochorenia, iné choroby kostí, chrupiek, vnútornej výstelky kĺbu a šliach (chondropatie, synovitídy, tendovaginitídy, entezopatie atď.) | | |
 
-  - XII. Pohybový a podporný aparát A. Chrbtica
+  - | a) ľahké formy, zriedkavo recidivujúce, s trvalou poruchou funkcie postihnutého kĺbu alebo iných anatomických štruktúr pri trvalom postihnutí výkonu práce horných končatín a dolných končatín | | 10-20
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | b) stredne ťažké formy, občas recidivujúce, so strednou poruchou funkcie, ktorá trvalé obmedzuje výkonnosť organizmu | | 20-30
 
-  - 1 . Poruchy chrbtice |
+  - | c) ťažké formy, liečebne neovplyvniteľné, trvalé aktívne s progresiou, s výraznými deštruktívnymi zmenami, s ťažkou poruchou funkcie, ktorá postihuje viac kĺbov horných končatín, dolných končatín a chrbtice, ťažké deformity s ťažkou poruchou pohyblivosti s polytopnou lokalizáciou a orgánovým postihnutím | | 50-70
 
-  - a) zlomeniny tela stavca, spondylolistéza I. a II. stupňa, vrodené chyby a deformácie, |
+  - 5. Osteoporóza, osteomalácia, osteopatia | | |
 
-  - stavy po operáciách s ľahkou poruchou statiky a dynamiky chrbtice 10 |
+  - | a) ľahká forma lokálna alebo generalizovaná | | 10-20
 
-  - b) degeneratívne zmeny na chrbtici a medzistavcových platničkách, stavy po operáciách |
+  - | b) ťažká forma so zvýšenou lomivosťou kostí s výrazným obmedzením pohyblivosti a výskytom viacerých kompresívnych zlomenín tela stavca | | 30-60
 
-  - s trvalým postihnutím funkcie a častými recidívami dráždenia nervov a svalov |
+  - 6. Chronická osteomyelitída | | |
 
-  - s poruchou svalového korzetu stredného stupňa, so strednou poruchou dynamiky |
+  - | a) ľahký stupeň - lokalizovaná nepatrná aktivita, drobné hnisanie vo fistule | | 20-30
 
-  - a statiky chrbtice 20-30 |
+  - | b) stredný stupeň, rozsiahlejší proces, častá alebo trvalá sekrécia z fistuly s obmedzením pohyblivosti s prihliadnutím na dominantnosť hornej končatiny a pri dolnej končatine, ak ide o lokalizáciu na váhonosných kĺboch alebo na chodidle | | 30-40
 
-  - c) ostatné postihnutia chrbtice s ťažkým stupňom poruchy funkcie (napr. skoliózy II. až IV. |
+  - | c) ťažký stupeň - časté ťažké ataky, s horúčkou, vysokou FW, zreteľná infiltrácia mäkkých častí, sekrécia z fistuly a vylučovania sekvesterov, ťažký stupeň obmedzenia pohyblivosti a výkonnosti (opakovaný neúspech konzervatívnej aj operatívnej liečby) | | 50-70
 
-  - stupňa), s výraznou deformitou hrudníka s prihliadnutím na stupeň kardiopulmonálnej |
+  - 7. Stavy po zlomenine rebier (iba sériové zlomeniny rebier) | | |
 
-  - insuficiencie chronického charakteru, spondylolistézy III. a IV. stupňa, primárna |
+  - | a) ľahký stupeň obmedzenia ventilácie | | 20
 
-  - diseminovaná hyperostóza s ankylózou vo viacerých segmentoch chrbtice | 40-60
+  - | b) stredný stupeň obmedzenia ventilácie | | 30-40
 
-  - d) stavy po operácii chrbtice a medzistavcových platničiek, rozsiahle degeneratívne |
+  - | c) ťažký stupeň obmedzenia ventilácie | | 50-70
 
-  - zmeny III. a IV. stupňa s ťažkými poruchami funkcie (recidivujúcimi chronickými |
+  - 8. Stavy po úrazoch panvy | | |
 
-  - iritáciami nervov až radikulopatiami s motorickým deficitom na periférii trvalého |
+  - | a) ľahká porucha obmedzujúca len dlhodobé státie a chôdzu | | 10-20
 
-  - charakteru, insuficiencia svalového korzetu) | 30-50
+  - | b) stredne ťažká porucha s porušením statiky a dynamiky dolných končatín a driekovej chrbtice | | 30-40
 
-  - 2. Scheurmannova choroba s trvalou statickodynamickou poruchou funkcie |
+  - | c) ťažké poruchy hybnosti dolných končatín, porucha funkcie zvieračov | | 50-80
 
-  - Scheurmannova choroba sa hodnotí po 18 roku života |
+  - 9. Malígne nádory svalov, kostí a kĺbov | | |
 
-  - a) ľahký stupeň poruchy funkcie s chronickou vertebralgiou | 0-10
+  - | a) stavy po operácii pri prebiehajúcom onkologickom liečení | | 80
 
-  - b) stredný a ťažký stupeň poruchy funkcie s nosením korzetu | 20-30
+  - | b) stavy po stabilizácii zdravotného stavu (do piatich rokov liečby) | | 40
 
-  - 3. Spondylartritída ankylozujúca - Bechterevova choroba |
+  - | c) neliečiteľné formy | | 90-100
 
-  - a) stredne ťažká forma (III. a IV. stupeň) | 20-40
+  - 10. Malý vzrast, telesná výška po skončení rastu | | |
 
-  - b) ťažké formy (V. stupeň) | 40-60
+  - | a) do 120 cm | | 50
 
-  - c) ťažký stupeň postihnutia chrbtice s ankylózou bedrových klbov | 70-100
+  - | b) do 130 cm | | 40
 
-  - 4. Artropatie, zápalové reumatické ochorenia, iné choroby kostí, chrupaviek, vnútornej |
+  - | c) do 140 cm | | 30
 
-  - výstelky klbu a šliach (chondropatie, synovitídy, tendovaginitídy, entezopatie atď.) |
+  - 11 . Svalové ochorenia | | |
 
-  - a) ľahké formy, zriedkavo recidivujúce, s trvalou poruchou funkcie postihnutého klbu |
+  - | 1. myopatie, kongenitálne, progresívne svalové dystrofie (Duchenneov, Beckerov typ a pod.), zápalové myozitídy, polyomyozitídy a pod., metabolické a endokrinné | |
 
-  - alebo iných anatomických štruktúr pri trvalom postihnutí výkonu práce horných |
+  - | | a) ľahšia forma s obmedzením hýbavosti | 30-50
 
-  - končatín a dolných končatín | 10-20
+  - | | b) stredná forma s výrazným obmedzením hýbavosti | 60-80
 
-  - b) stredne ťažké formy, občas recidivujúce, so strednou poruchou funkcie, ktorá trvalé |
+  - | | c) ťažká forma (imobilita) | 80-100
 
-  - obmedzuje výkonnosť organizmu | 20-30
+  - | 2. myasténia gravis, myastenický syndróm | |
 
-  - c) ťažké formy, liečebne neovplyvniteľné, trvalé aktívne s progresiou, s výraznými |
+  - | | a) ľahké formy | 20
 
-  - deštruktívnymi zmenami, s ťažkou poruchou funkcie, ktorá postihuje viac klbov |
+  - | | b) stredne ťažké formy s obmedzením hýbavosti | 40-60
 
-  - horných končatín, dolných končatín a chrbtice, ťažké deformity s ťažkou poruchou |
+  - | | c) ťažké formy s výrazným obmedzením hýbavosti | 60-80
 
-  - pohyblivosti s polytopnou lokalizáciou a orgánovým postihnutím | 50-70
+  - 12. Poúrazové svalové ochorenia | | |
 
-  - 5. Osteoporóza, osteomalácia, osteopatia |
+  - | a) ľahká forma (napr. odtrhnutie dlhej hlavy dvojhlavového svalu) | | 0-10
 
-  - a) ľahká forma lokálna alebo generalizovaná | 10-20
+  - | b) stredne ťažká forma s funkčným obmedzením | | 20-30
 
-  - b) ťažká forma so zvýšenou lomivosťou kostí s výrazným obmedzením pohyblivosti |
+  - | c) ťažká forma s výrazným funkčným obmedzením (pri dominantnej končatine + 10 %) | | 40-50
 
-  - a výskytom viacerých kompresívnych zlomením tela stavca | 30-60
+  - B. Postihnutie končatínB.1. Horné končatiny
 
-  - 6. Chronická osteomyelitída |
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - a) ľahký stupeň - lokalizovaná nepatrná aktivita, drobné hnisanie vo fistule | 20-30
+  - 1. Strata oboch horných končatín | | | 100
 
-  - b) stredný stupeň, rozsiahlejší proces, častá alebo trvalá sekrécia z fistuly s obmedzením |
+  - 2. Úplná strata jednej hornej končatiny a jednej dolnej končatiny | | | 100
 
-  - pohyblivosti s prihliadnutím na dominantnosť hornej končatiny a pri dolnej |
+  - 3. Strata jednej hornej končatiny v ramennom kĺbe alebo s veľmi krátkym kýpťom (ramena) (pri dominantnej končatine + 10 %) | | | 60
 
-  - končatine, ak ide o lokalizáciu na váhonosných klboch alebo na chodidle | 30-40
+  - 4. Strata jednej hornej končatiny v ramene alebo v lakťovom kĺbe (pri dominantnej končatine + 10 %) | | | 50
 
-  - c) ťažký stupeň - časté ťažké ataky, s horúčkou, vysokou FW, zreteľná infiltrácia |
+  - 5. Strata jednej hornej končatiny v predlaktí (pri dominantnej končatine + 10 %) | | | 50
 
-  - mäkkých častí, sekrécia z fistuly a vylučovania sekvesterov, ťažký stupeň obmedzenia |
+  - 6. Strata jednej ruky (celej) (pri dominantnej končatine + 10 %) | | | 50
 
-  - pohyblivosti a výkonnosti (opakovaný neúspech konzervatívnej aj operatívnej liečby) | 50-70
+  - 7. Strata všetkých piatich prstov jednej ruky alebo iná strata úchopovej schopnosti jednej ruky | | |
 
-  - 7. Stavy po zlomenine rebier (iba sériové zlomeniny rebier) |
+  - | a) ľahký stupeň | | 20-30
 
-  - a) ľahký stupeň obmedzenia ventilácie | 20
+  - | b) ťažký stupeň (pri dominantnej končatine + 10 %) | | 40-50
 
-  - b) stredný stupeň obmedzenia ventilácie | 30-40
+  - 8. Strata všetkých desiatich prstov na rukách | | | 70-80
 
-  - c) ťažký stupeň obmedzenia ventilácie | 50-70
+  - 9. Strata jednotlivých prstov na ruke | | |
 
-  - 8. Stavy po úrazoch panvy |
+  - | a) strata jedného palca | | 25
 
-  - a) ľahká porucha obmedzujúca len dlhodobé státie a chôdzu | 10-20
+  - | b) strata dvoch palcov | | 40
 
-  - b) stredne ťažká porucha s porušením statiky a dynamiky dolných končatín a driekovej |
+  - | c) strata ukazováka, prostredníka, prstenníka | | 10
 
-  - chrbtice | 30-40
+  - | d) strata malíčka | | 0
 
-  - c) ťažké poruchy hýbavosti dolných končatín, porucha funkcie zvieračov | 50-80
+  - | e) strata prvého a druhého prsta, prvého a tretieho prsta, prvého a štvrtého prsta | | 30
 
-  - 9. Malígne nádory svalov, kostí a kĺbov |
+  - | f) strata druhého a tretieho prsta, druhého a štvrtého prsta | | 30
 
-  - a) stavy po operácii pri prebiehajúcom onkologickom liečení | 80
+  - | g) strata prvého a piateho prsta, druhého a štvrtého prsta | | 25
 
-  - b) stavy po stabilizácii zdravotného stavu (po dvoch rokoch liečby) | 40
+  - | h) strata tretieho a štvrtého prsta, tretieho a piateho prsta | | 25
 
-  - c) neliečiteľné formy | 90-100
+  - | i) strata štvrtého a piateho prsta | | 20
 
-  - 10. Malý vzrast, telesná výška po skončení rastu |
+  - | j) strata troch prstov s palcom | | 40
 
-  - a) do 120 cm | 50
+  - | k) strata štyroch prstov s palcom | | 50
 
-  - b) do 130 cm | 40
+  - | l) strata štyroch prstov (palec zachovaný) | | 40
 
-  - c) do 140 cm | 30
+  - | m) strata druhého až piateho prsta na oboch rukách | | 80
 
-  - 11 . Svalové ochorenia |
+  - 10. Stuhnutie ramenného kĺbu v priaznivej polohe pri pohyblivom ramennom kĺbe (pri dominantnej končatine + 10 %) | | | 10-20
 
-  - 1. myopatie, kongenitálne, progresívne svalové dystrofie |
+  - 11. Stuhnutie v ramennom kĺbe v nepriaznivom postavení alebo v porušenej pohyblivosti ramenného kĺbu ťažkého stupňa (pri dominantnej končatine + 10 %) | | | 20-30
 
-  - (Duchenneov, Beckerov typ a pod.), zápalové myozitídy, polyomyozitídy a pod., |
+  - 12. Obmedzenie pohyblivosti jedného ramenného kĺbu | | |
 
-  - metabolické a endokrinné |
+  - | a) ľahkého stupňa (elevácie do 120°, primerané obmedzenie rotácie, vystretie, ohnutie) | | 0-10
 
-  - a) ľahšia forma s obmedzením hýbavosti | 30-50
+  - | b) stredného stupňa (elevácie do 90°, primerané obmedzenie rotácie, vystretie, ohnutie) (pri dominantnej končatine + 10 %) | | 10-20
 
-  - b) stredná forma s výrazným obmedzením hýbavosti | 60-80
+  - 13. Obmedzenie pohyblivosti oboch ramenných kĺbov | | |
 
-  - c) ťažká forma (imobilita) | 80-100
+  - | a) ľahkého stupňa | | 20
 
-  - 2. myasténia gravis, myastenický syndróm |
+  - | b) stredného stupňa | | 30
 
-  - a) ľahké formy | 20
+  - | c) ťažkého stupňa | | 40
 
-  - b) stredne ťažké formy s obmedzením hýbavosti | 40-60
+  - 14. Instabilita ramenného pletenca | | |
 
-  - c) ťažké formy s výrazným obmedzením hýbavosti | 60-80
+  - | a) ľahkého stupňa (subluxácie) | | 10
 
-  - B. Postihnutie končatínB.l. Horné končatiny
+  - | b) stredného stupňa (zriedkavé luxácie) | | 20-30
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | c) ťažkého stupňa (časté luxácie) (pri dominantnej končatine + 10 %) | | 40
 
-  - 1 . Strata oboch horných končatín | 100
+  - 15. Pseudoartróza kľúčnej kosti | | | 10
 
-  - 2. Úplná strata jednej hornej končatiny a jednej dolnej končatiny | 100
+  - 16. Pseudoartróza ramennej kosti | | |
 
-  - 3. Strata jednej hornej končatiny v ramennom kĺbe alebo |
+  - | a) stabilná | | 30
 
-  - s veľmi krátkym kýpťom (ramena) | 60
+  - | b) instabilná | | 50
 
-  - (pri dominantnej končatine + 10 %) |
+  - 17. Obmedzenie pohyblivosti lakťového kĺbu | | |
 
-  - 4. Strata jednej hornej končatiny v ramene alebo v lakťovom klbe | 50
+  - | a) ľahkého stupňa (vystretie/ ohnutie 0°- 30°- 120°) | | 0-10
 
-  - (pri dominantnej končatine + 10 %) |
+  - | b) ťažšieho stupňa (najmä ohnutie vrátane obmedzenia rotácie predlaktia) (pri dominantnej končatine + 10 %) | | 20-30
 
-  - 5. Strata jednej hornej končatiny v predlaktí | 40
+  - 18. Stuhnutie lakťového kĺbu | | |
 
-  - (pri dominantnej končatine + 10 %) |
+  - | a) v priaznivom postavení | | 10-20
 
-  - 6. Strata jednej ruky (celej) | 30-40
+  - | b) v nepriaznivom postavení (pri dominantnej končatine + 10 %) | | 30-40
 
-  - (pri dominantnej končatine + 10 %) |
+  - 19. Pseudoartróza vretennej a lakťovej kosti | | |
 
-  - 7. Strata všetkých piatich prstov jednej ruky alebo iná strata úchopovej schopnosti |
+  - | a) stabilná | | 10-20
 
-  - jednej ruky |
+  - | b) instabilná | | 20-30
 
-  - a) ľahký stupeň | 20-30
+  - 20. Stav po zlomenine vretennej kosti a lakťovej kosti zhojenej s dislokáciou a funkčnou poruchou susedných kĺbov | | |
 
-  - b) stredný stupeň | 30-40
+  - | a) ľahký stupeň | | 20
 
-  - c) ťažký stupeň | 40-50
+  - | b) stredný stupeň | | 30
 
-  - (pri dominantnej končatine + 10 %) |
+  - | c) ťažký stupeň (pri dominantnej končatine + 10 %) | | 40
 
-  - 8. Strata všetkých desiatich prstov na rukách | 70-80
+  - 21. Obmedzenie pohyblivosti zápästia | | |
 
-  - 9. Strata jednotlivých prstov na ruke |
+  - | a) ľahkého stupňa (vystretie/ohnutie 30° - 0° - 40°) | | 0-10
 
-  - a) strata jedného palca | 25
+  - | b) ťažšieho stupňa (vystretie/ohnutie) (pri dominantnej končatine + 10 %) | | 20-30
 
-  - b) strata dvoch palcov | 40
+  - 22. Stuhnutie zápästia | | |
 
-  - c) strata ukazováka, prostredníka, prstenníka | 10
+  - | a) v priaznivom postavení (ľahká dorzálna extenzia možná) | | 10
 
-  - d) strata malíčka | 0
+  - | b) v nepriaznivom postavení (pri dominantnej končatine + 10 %) | | 20
 
-  - e) strata prvého a druhého prsta, prvého a tretieho prsta, prvého a štvrtého prsta | 30
+  - 23. Stav po zlomenine zápästných kostí alebo po zlomenine jednej záprstnej kosti a viacerých záprstných kostí s poruchou funkcie ruky | | |
 
-  - í) strata druhého a tretieho prsta, druhého a štvrtého prsta | 30
+  - | a) ľahký stupeň | | 0-10
 
-  - g) strata prvého a piateho prsta, druhého a štvrtého prsta | 25
+  - | b) stredný stupeň | | 20
 
-  - h) strata tretieho a štvrtého prsta, tretieho a piateho prsta | 25
+  - | c) ťažký stupeň | | 30
 
-  - i) strata štvrtého a piateho prsta | 20
+  - 24. Poúrazové aseptické nekrózy zápästných kostí (aktívne štádium dva roky) | | | 20-30
 
-  - j) strata troch prstov s palcom | 40
+  - 25. Nervové poškodenie hornej končatiny | | |
 
-  - k) strata štyroch prstov s palcom | 50
+  - | a) plexus brachialis | |
 
-  - 1) strata štyroch prstov (palec zachovaný) | 40
+  - | | 1. poškodenie hornej časti | 20-40
 
-  - m) strata druhého až piateho prsta na oboch rukách | 80
+  - | | 2. poškodenie dolnej časti (pri dominantnej končatine + 10 %) | 30-50
 
-  - 10. Stuhnutie ramenného kĺbu v priaznivej polohe pri pohyblivom ramennom kĺbe | 10-20
+  - | b) nervus axiľlaris | | 30
 
-  - (pri dominantnej končatine + 10 %) |
+  - | c) nervus radialis | | 20-30
 
-  - 11. Stuhnutie v ramennom kĺbe v nepriaznivom postavení alebo | 20-30
+  - | d) nervus ulnaris | | 20-30
 
-  - porušenie pohyblivosti ramenného kĺbu ťažkého stupňa |
+  - | e) nervus medianus | |
 
-  - (pri dominantnej končatine + 10 %) |
+  - | | 1. poškodenie hornej časti | 40
 
-  - 12. Obmedzenie pohyblivosti jedného ramenného kĺbu |
+  - | | 2. poškodenie dolnej časti | 30
 
-  - a) ľahkého stupňa | 0-10
+  - | f) nervus radialis a nervus axillaris | | 40-50
 
-  - b) stredného stupňa | 10-20
+  - | g) nervus radialis a nervus ulnaris | | 40-50
 
-  - 13. Obmedzenie pohyblivosti oboch ramenných kĺbov |
+  - | h) nervus radialis a nervus medianus | | 40-50
 
-  - a) ľahkého stupňa | 20
+  - | i) nervus ulnaris a nervus medianus | | 40-50
 
-  - b) stredného stupňa | 30
-
-  - c) ťažkého stupňa | 40
-
-  - 14. Habituálna luxácia ramena (častá) | 10
-
-  - 15. Pseudoartróza kľúčnej kosti | 10
-
-  - 16. Pseudoartróza ramennej kosti |
-
-  - a) stabilná | 30
-
-  - b) instabilná | 50
-
-  - 17. Stuhnutie lakťového klbu |
-
-  - a) v priaznivom postavení | 10-20
-
-  - b) v nepriaznivom postavení | 30-40
-
-  - (pri dominantnej končatine + 10 %) |
-
-  - 18. Pseudoartróza vretennej a lakťovej kosti |
-
-  - a) stabilná | 10-20
-
-  - b) Instabilná | 20-30
-
-  - 19. Stav po zlomenine vretennej kosti a lakťovej kosti zhojenej s dislokáciou a funkčnou |
-
-  - poruchou susedných klbov |
-
-  - a) ľahký stupeň | 20
-
-  - b) stredný stupeň | 30
-
-  - c) ťažký stupeň | 40
-
-  - (pri dominantnej končatine + 10 %) |
-
-  - 20. Stuhnutie zápästia |
-
-  - a) v priaznivom postavení | 10
-
-  - b) v nepriaznivom postavení | 20
-
-  - (pri dominantnej končatine + 10 %) |
-
-  - 21. Stav po zlomenine zápästných kostí alebo po zlomenine jednej záprstnej kosti a viacerých |
-
-  - záprstných kostí s poruchou funkcie ruky |
-
-  - a) ľahký stupeň | 0-10
-
-  - b) stredný stupeň | 20
-
-  - c) ťažký stupeň | 30
-
-  - 22. Poúrazové aseptické nekrózy zápästných kostí |
-
-  - (aktívne štádium dva roky) | 20-30
-
-  - 23. Nervové poškodenie hornej končatiny |
-
-  - a) plexus brachialis |
-
-  - 1. poškodenie kraniálnej časti | 50
-
-  - 2. poškodenie kaudálnej časti | 50
-
-  - b) nervus axillaris | 30
-
-  - c) nervus radialis | 20-30
-
-  - d) nervus ulnaris | 20-30
-
-  - e) nervus medianus |
-
-  - 1. poškodenie proximálnej časti | 40
-
-  - 2. poškodenie distálnej časti | 30
-
-  - í) nervus radialis a nervus axillaris | 40-50
-
-  - g) nervus radialls a nervus ulnaris | 40-50
-
-  - h) nervus radialls a nervus medianus | 40-50
-
-  - i) nervus ulnaris a nervus medianus | 40-50
-
-  - j) nervus radialis, nervus ulnaris a nervus medianus v oblasti predlaktia | 40-60
+  - | j) nervus radialis, nervus ulnaris a nervus medianus v oblasti predlaktia (pri dominantnej končatine + 10 %) | | 40-60
 
   - B.2. Dolné končatiny
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - 1 . Strata oboch dolných končatín v stehne | 100
+  - 1 . Strata oboch dolných končatín v stehne | | | 100
 
-  - 2. Strata jednej dolnej končatiny v stehne a jednej dolnej končatiny v predkolení s krátkymi |
+  - 2. Strata jednej dolnej končatiny v stehne a jednej dolnej končatiny v predkolení s krátkymi amputačnými kýpťami s výrazne zníženou funkciou amputovaného kýpťa | | | 80-90
 
-  - amputačnými kýpťami s výrazne zníženou funkciou amputovaného kýpťa | 80-90
+  - 3. Úplná strata jednej dolnej končatiny a jednej hornej končatiny | | | 100
 
-  - 3. Úplná strata jednej dolnej končatiny a jednej hornej končatiny | 100
+  - 4. Strata jednej dolnej končatiny v bedrovom kĺbe alebo s veľmi krátkym amputačným kýpťom | | | 70-80
 
-  - 4. Strata jednej dolnej končatiny v bedrovom kĺbe alebo s veľmi krátkym amputačným |
+  - 5. Strata jednej dolnej končatiny v stehne po kolenný kĺb | | | 50-60
 
-  - kýpťom | 70-80
+  - 6. Strata jednej dolnej končatiny v predkolení s dostatočnou funkciou kýpťa a kĺbu | | | 40
 
-  - 5. Strata jednej dolnej končatiny v stehne po kolenný kĺb | 50-60
+  - 7. Strata oboch dolných končatín v predkolení | | |
 
-  - 6. Strata jednej dolnej končatiny v predkolení s dostatočnou funkciou kýpťa a kĺbu | 40
+  - | a) dobrá funkčnosť amputačných kýpťov | | 60
 
-  - 7. Strata oboch dolných končatín v predkolení |
+  - | b) oslabená funkčnosť amputačných kýpťov | | 70
 
-  - a) dobrá funkčnosť amputačných kýpťov | 60
+  - 8. Strata nohy v členkovom kĺbe s dobrou alebo s oslabenou funkciou amputačného kýpťa | | |
 
-  - b) oslabená funkčnosť amputačných kýpťov | 70
+  - | a) jednostranná | | 20-30
 
-  - 8. Strata nohy v členkovom klbe s dobrou alebo s oslabenou funkciou amputačného kýpťa |
+  - | b) obojstranná | | 40-50
 
-  - a) jednostranná | 20-30
+  - 9. Strata nohy v Chopartovom kĺbe s dobrou alebo s oslabenou funkciou amputačného kýpťa | | |
 
-  - b) obojstranná | 40-50
+  - | a) jednostranná s dobrým kýpťom | | 20-30
 
-  - 9. Strata nohy v Chopartovom kĺbe s dobrou alebo s oslabenou funkciou amputačného kýpťa |
+  - | b) obojstranná | | 30-40
 
-  - a) jednostranná s dobrým kýpťom | 20-30
+  - 10. Strata nohy v Lisfrancovom kĺbe alebo v oblasti metatarzov s dobrou alebo oslabenou funkciou amputačného kýpťa | | |
 
-  - b) obojstranná | 30-40
+  - | a) jednostranná s dobrým kýpťom | | 10-20
 
-  - 10. Strata nohy v Lisfrancovom klbe alebo v oblasti metatarzov s dobrou alebo s oslabenou |
+  - | b) obojstranná | | 30-40
 
-  - funkciou amputačného kýpťa |
+  - 11. Strata všetkých prstov na jednej nohe | | | 20
 
-  - a) jednostranná s dobrým kýpťom | 10-20
+  - 12. Strata všetkých prstov na oboch nohách | | | 30
 
-  - b) obojstranná | 30-40
+  - 13. Stuhnutie oboch bedrových kĺbov | | |
 
-  - 11 . Strata všetkých prstov na jednej nohe | 20
+  - | a) v priaznivom postavení | | 60
 
-  - 12. Strata všetkých prstov na oboch nohách | 30
+  - | b) v nepriaznivom postavení | | 70-80
 
-  - 13. Stuhnutie oboch bedrových kĺbov |
+  - 14. Stuhnutie jedného bedrového kĺbu | | |
 
-  - a) v priaznivom postavení | 60
+  - | a) v priaznivom postavení | | 30
 
-  - b) v nepriaznivom postavení | 70
+  - | b) v nepriaznivom postavení | | 60-70
 
-  - 14. Stuhnutie jedného bedrového kĺbu |
+  - 15. Obmedzenie pohyblivosti bedrových kĺbov | | |
 
-  - a) v priaznivom postavení | 30
+  - | a) ľahký stupeň (vystretie/ ohnutie s primeranou rotáciou, prinožením, unožením 0° - 10° - 90°) | |
 
-  - b) v nepriaznivom postavení | 70
+  - | | aa) jednostranne | 0-10
 
-  - 15. Obmedzenie pohyblivosti bedrových kĺbov |
+  - | | ab) obojstranne | 10-20
 
-  - a) stredný stupeň |
+  - | b) stredný stupeň (vystretie/ ohnutie s primeranou rotáciou, prinožením, unožením 0° - 30° - 90°) | |
 
-  - 1. jednostranné | 10
+  - | | ba) jednostranné | 20-30
 
-  - 2. obojstranné | 30
+  - | | bb) obojstranné | 30-40
 
-  - b) ťažký stupeň |
+  - | c) ťažký stupeň | |
 
-  - 1. jednostranné | 20
+  - | | 1. jednostranné | 30-40
 
-  - 2. obojstranné | 50
+  - | | 2. obojstranné | 40-50
 
-  - 16. Vrodená luxácia bedrových kĺbov počas liečby podľa stupňa kĺbovej chyby |
+  - 16. Vrodená luxácia bedrových kĺbov počas liečby podlá stupňa kĺbovej chyby (subluxácia-luxácia) a náročnosti použitej liečby | | | 30-60
 
-  - (subluxácia - luxácia) a náročnosti použitej liečby | 30-60
+  - 17. Stavy po operácii bedrového kĺbu s reziduálnou poruchou funkcie | | |
 
-  - 17. Stavy po operácii bedrového kĺbu s reziduálnou poruchou funkcie |
+  - | a) ľahký stupeň | | 10-20
 
-  - a) ľahký stupeň | 20
+  - | b) stredný stupeň | | 20-30
 
-  - b) stredný stupeň | 30
+  - | c) ťažký stupeň (pri obojstrannom postihnutí + 10 %) | | 40-50
 
-  - c) ťažký stupeň | 40
+  - 18. Stavy po vykonanej endoprotéze bedrového kĺbu alebo kolenného kĺbu | | |
 
-  - (pri obojstrannom postihnutí + 10 %) |
+  - | a) jednostranná | | 20
 
-  - 18. Stavy po vykonanej endoprotéze bedrového kĺbu alebo kolenného kĺbu |
+  - | b) obojstranná | | 50
 
-  - a) jednostranná | 20
+  - 19. Pseudoartróza krčka stehennej kosti | | |
 
-  - b) obojstranná | 50
+  - | a) stabilná | | 30
 
-  - 19. Pseudoartróza krčka stehennej kosti |
+  - | b) instabilná | | 50
 
-  - a) stabilná | 30
+  - 20. Pseudoartróza stehennej kosti | | |
 
-  - b) instabilná | 50
+  - | a) stabilná | | 30
 
-  - 20. Pseudoartróza stehennej kosti |
+  - | b) instabilná | | 50
 
-  - a) stabilná | 30
+  - 21. Skrátenie dolnej končatiny | | |
 
-  - b) instabilná | 50
+  - | a) od 4 cm do 6 cm | | 20
 
-  - 21. Skrátenie dolnej končatiny |
+  - | b) nad 6 cm | | 30
 
-  - a) od 4 cm do 6 cm | 20
+  - | c) nad 10 cm | | 40-50
 
-  - b) nad 6 cm | 30
+  - 22. Aseptická nekróza | | |
 
-  - 22. Aseptická nekróza |
+  - | Perthesova choroba v aktívnom štádiu počas liečenia (v rozsahu do dvoch rokov) | | 70-100
 
-  - Perthesova choroba v aktívnom štádiu počas liečenia (v rozsahu do dvoch rokov) | 70-100
+  - 23. Stuhnutie jedného kolenného kĺbu | | |
 
-  - 23. Stuhnutie jedného kolenného kĺbu |
+  - | a) v priaznivom postavení (ohnutie o 5°-10°) | | 20-30
 
-  - a) v priaznivom postavení | 20
+  - | b) v nepriaznivom postavení | | 40-50
 
-  - b) v nepriaznivom postavení | 30
+  - 24. Stuhnutie oboch kolenných kĺbov | | |
 
-  - 24. Stuhnutie oboch kolenných kĺbov |
+  - | a) v priaznivom postavení | | 50
 
-  - a) v priaznivom postavení | 50
+  - | b) v nepriaznivom postavení | | 60
 
-  - b) v nepriaznivom postavení | 60
+  - 25. Uvolnenie väzivového aparátu kolena, luxácie | | | 10-20
 
-  - 25. Uvoľnenie väzivového aparátu kolena | 10-20
+  - 26. Stav po zlomenine jabĺčka | | |
 
-  - 26. Stav po zlomenine jabĺčka |
+  - | a) bez dislokácie úlomkov s opakovanou liečbou | | 10
 
-  - a) bez dislokácie úlomkov s opakovanou liečbou | 10
+  - | b) s dislokáciou úlomkov | | 20-30
 
-  - b) s dislokáciou úlomkov | 20-30
+  - 27. Obmedzenie funkcie v kolennom kĺbe (vystretie/ohnutie) | | |
 
-  - 27. Obmedzenie funkcie v kolennom kĺbe (extenzia, flexia) |
+  - | a) ľahký stupeň (vystretie/ohnutie 0° - 0° - 90°) | |
 
-  - a) ľahký stupeň | 0-10
+  - | | aa) jednostranne | 0-10
 
-  - b) stredný stupeň | 20
+  - | | ab) obojstranne | 10-20
 
-  - c) ťažký stupeň | 30
+  - | b) stredný stupeň (vystretie/ohnutie 0° - 10° - 90°) | |
 
-  - 28. Pseudoartróza kostí predkolenia |
+  - | | ba) jednostranne | 20-30
 
-  - a) stabilná | 20-30
+  - | | bb) obojstranne | 30-40
 
-  - b) Instabilná | 40-50
+  - | c) ťažký stupeň (vystretie/ohnutie 0° - 30° - 90°) | |
 
-  - 29. Stuhnutie horného členkového klbu |
+  - | | ca) jednostranne | 30-40
 
-  - a) v priaznivom postavení (plantárna flexia od 5 do 15 stupňov) | 20
+  - | | cb) obojstranne | 40-50
 
-  - b) v nepriaznivom postavení (plantárna flexia nad 15 stupňov) | 30
+  - 28. Pseudoartróza kostí predkolenia | | |
 
-  - 30. Stuhnutie dolného členkového klbu (v strednom postavení) | 10
+  - | a) stabilná | | 20-30
 
-  - 31. Stuhnutie horného členkového klbu aj dolného členkového klbu |
+  - | b) instabilná | | 40-50
 
-  - a) v priaznivom postavení | 30
+  - 29. Stuhnutie horného členkového kĺbu | | |
 
-  - b) v nepriaznivom postavení | 40
+  - | a) v priaznivom postavení (plantárna flexia od 5 do 15 stupňov) | | 20
 
-  - 32. Obmedzenie funkcie členku (extenzia, flexia, everzia, inverzia chodidla) |
+  - | b) v nepriaznivom postavení (plantárna flexia nad 15 stupňov) | | 30
 
-  - a) ľahký stupeň | 0-10
+  - 30. Stuhnutie dolného členkového kĺbu (v strednom postavení) | | | 10
 
-  - b) stredný stupeň | 20
+  - 31 . Stuhnutie horného členkového kĺbu aj dolného členkového kĺbu | | |
 
-  - c) ťažký stupeň | 30
+  - | a) v priaznivom postavení | | 30
 
-  - 33. Pes equinovarus vrodený (stupeň funkčnej poruchy závisí od rozsahu deformity nohy, |
+  - | b) v nepriaznivom postavení | | 40
 
-  - frekvencie a intezity bolesti, od schopnosti či neschopnosti stáť a chodiť |
+  - 32. Obmedzenie funkcie členkového kĺbu (vystretie/ohnutie, vbočenie chodidla) | | |
 
-  - bez ortopedických topánok) |
+  - | a) ľahký stupeň | | 0-10
 
-  - a) jednostranný | 20-40
+  - | b) stredný stupeň (0° - 0° - 30°) | | 10-20
 
-  - b) obojstranný | 30-60
+  - | c) ťažký stupeň | | 20-30
 
-  - 34. Ostatné deformity nohy s poruchou statiky a dynamiky nohy pri stojí a pri chôdzi |
+  - 33. Pes equinovarus vrodený (stupeň funkčnej poruchy závisí od rozsahu deformity nohy, frekvencie a intezity bolesti, od schopnosti či neschopnosti stáť a chodiť bez ortopedických topánok) | | |
 
-  - stredného a ťažšieho stupňa podľa závislosti od trvalého nosenia ortopedických topánok |
+  - | a) jednostranný | | 20-40
 
-  - a potreby liečby bolesti nohy | 20-60
+  - | b) obojstranný | | 30-60
 
-  - 35. Nervové výpady dolných končatín |
+  - 34. Ostatné deformity nohy s poruchou statiky a dynamiky nohy pri stoji a pri chôdzi stredného a ťažšieho stupňa podlá závislosti od trvalého nosenia ortopedických topánok a potreby liečby bolesti nohy | | | 20-60
 
-  - a) plexus lumbosacralis | 80
+  - 35. Nervové výpady dolných končatín | | |
 
-  - b) nervus glutaneus superior | 20
+  - | a) plexus lumbosacralis | | 80
 
-  - c) nervus glutaneus inferior | 20
+  - | b) nervus superior | | 20
 
-  - d) nervus femoralis | 40
+  - | c) nervus inferior | | 20
 
-  - e) nervus cutaneus femoralls | 10
+  - | d) nervus femoralis | | 40
 
-  - f) nervus ischiadlcus |
+  - | e) nervus cutaneus femoralis | | 10
 
-  - 1. proximálna časť | 60
+  - | f) nervus ischiadicus | |
 
-  - 2. distálna časť | 50
+  - | | 1. proximálna časť | 60
 
-  - g) nervus peronaeus communis (nervus fibularis) |
+  - | | 2. distálna časť | 50
 
-  - 1. profundus | 30
+  - | g) nervus peronaeus communis (nervus fibularis) | |
 
-  - 2. superficialis | 20
+  - | | 1. profundus | 30
 
-  - h) nervus tibialis | 30
+  - | | 2. superficialis | 20
 
-  - 36. Úplná afunkčnosť jednej dolnej končatiny | 80
+  - | h) nervus tibialis | | 30
 
-  - Miera funkčnej poruchy sa určí podlá následkov zdravotného postihnutia straty dolnej končatiny (anatomická alebo funkčná) a bez ohľadu na kompenzáciu týchto následkov ortopedickými pomôckami. Pri nervových postihnutiach dolnej končatiny sa posudzuje úplný nervový výpad. Čiastočný nervový výpad sa určuje polovicou príslušnej miery funkčnej poruchy. Izolované senzitívne nervové výpady sa neposudzujú. Miera funkčnej poruchy sa určí v závislosti od rozsahu funkčných porúch, rtg. zmien v zmysle degeneratívnych zmien a doposiaľ vykonanej liečby. Miera funkčnej poruchy sa určí podľa následkov zdravotného postihnutia straty hornej končatiny (anatomická alebo funkčná) s prihliadnutím na dominantnosť hornej končatiny a bez ohľadu na kompenzáciu týchto následkov ortopedickými pomôckami. Pri strate všetkých desiatich prstov sa posudzuje strata celých prstov; neposudzuje sa strata jednotlivých článkov prstov. Pri nervových postihnutiach hornej končatiny sa posudzuje úplný nervový výpad pri intenzívnej liečbe (jeden rok). Čiastočný nervový výpad sa určuje polovicou príslušnej miery funkčnej poruchy. Izolované senzitívne nervové výpady sa neposudzujú. XIII. Močové ústrojenstvo A. Postihnutie obličiek
+  - 36. Úplná afunkčnosť jednej dolnej končatiny | | | 80
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Miera funkčnej poruchy sa určí podľa následkov zdravotného postihnutia straty dolnej končatiny (anatomická alebo funkčná) a bez ohľadu na kompenzáciu týchto následkov ortopedickými pomôckami. Pri nervových postihnutiach dolnej končatiny sa posudzuje úplný nervový výpad. Čiastočný nervový výpad sa určuje polovicou príslušnej miery funkčnej poruchy. Izolované senzitívne nervové výpady sa neposudzujú.Miera funkčnej poruchy sa určí v závislosti od rozsahu funkčných porúch, rtg. zmien v zmysle degeneratívnych zmien a dosiaľ vykonanej liečby.Miera funkčnej poruchy sa určí podľa následkov zdravotného postihnutia straty hornej končatiny (anatomická alebo funkčná) s prihliadnutím na dominantnosť hornej končatiny a bez ohľadu na kompenzáciu týchto následkov ortopedickými pomôckami.Pri strate všetkých desiatich prstov sa posudzuje strata celých prstov; neposudzuje sa strata jednotlivých článkov prstov.Pri nervových postihnutiach hornej končatiny sa posudzuje úplný nervový výpad pri intenzívnej liečbe (jeden rok). Čiastočný nervový výpad sa určuje polovicou príslušnej miery funkčnej poruchy. Izolované senzitívne nervové výpady sa neposudzujú.XIII. Močové ústrojenstvoA. Postihnutie obličiek
 
-  - 1. Strata alebo výpad funkcie obličky pri zdravej druhej obličke | 10-20
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - 2. Vývojová anomália obličiek bez podstatných ťažkostí a bez funkčného obmedzenia | 0-10
+  - 1 . Strata alebo výpad funkcie obličky pri zdravej druhej obličke | | | 10-20
 
-  - 3. Nefrolitiáza bez funkčného obmedzenia |
+  - 2. Vývojová anomália obličiek bez podstatných ťažkostí a bez funkčného obmedzenia | | | 0-10
 
-  - a) s kolikami s odstupom niekoľkých mesiacov | 0-10
+  - 3. Nefirolitiáza bez funkčného obmedzenia | | |
 
-  - b) s častejšími kolikami a ťažkosťami | 10-20
+  - | a) s kolikami s odstupom niekoľkých mesiacov | | 0-10
 
-  - 4. Postihnutie obličiek s obmedzením funkcie (bez ohľadu na etiológiu) |
+  - | b) s častejšími kolikami a ťažkosťami | | 10-20
 
-  - a) ľahkého stupňa (obličkové funkcie sú trvalé znížené s miernym obmedzením |
+  - 4. Postihnutie obličiek s obmedzením funkcie (bez ohľadu na etiológiu) | | |
 
-  - výkonnosti) | 20-40
+  - | aj lahkeho stupňa (obličkové lunkcie sú trvalé znížené s miernym obmedzením výkonnosti) | | 20-40
 
-  - b) stredného stupňa (obličkové funkcie sú značne znížené so značným obmedzením |
+  - | b) stredného stupňa (obličkové funkcie sú značne znížené so značným obmedzením výkonnosti) | | 40-60
 
-  - výkonnosti) | 40-60
+  - | c) ťažkého stupňa (sú prítomné laboratórne známky chronickej obličkovej insuficiencie s podstatným obmedzením výkonnosti) | | 60-80
 
-  - c) ťažkého stupňa (sú prítomné laboratórne známky chronickej obličkovej insuficiencie |
+  - 5. Strata alebo výpad jednej obličky s funkčným obmedzením druhej obličky | | |
 
-  - s podstatným obmedzením výkonnosti) | 60-80
+  - | a) ľahkého stupňa | |
 
-  - 5. Strata alebo výpad jednej obličky s funkčným obmedzením druhej obličky |
+  - | | 1. bez progresie | 20-30
 
-  - a) ľahkého stupňa | 20-30
+  - | | 2. s progresiou | 30-40
 
-  - b) stredného stupňa | 40-60
+  - | b) stredného stupňa | | 40-60
 
-  - c) ťažkého stupňa | 60-80
+  - | c) ťažkého stupňa | | 60-80
 
-  - 6. Postihnutie obličiek liečených umelou obličkou (dialýzou) s ohľadom na prítomné |
+  - 6. Postihnutie obličiek liečených umelou obličkou (dialýzou) s ohľadom na prítomné komplikácie | | | 60-80
 
-  - komplikácie | 60-80
+  - 7. Transplantácia obličky | | |
 
-  - 7. Transplantácia obličky |
+  - | a) stav po transplantácii obličky do dvoch rokov | | 80-100
 
-  - a) stav po transplantácii obličky do dvoch rokov | 80-100
+  - | b) stav po transplantácii obličky s dobrou funkciou štepu po dvoch rokoch | | 50-60
 
-  - b) stav po transplantácii obličky s dobrou funkciou štepu po dvoch rokoch | 50-60
+  - 8. Malígny tumor obličky | | |
 
-  - 8. Malígny tumor obličky |
+  - | a) po odstránení vo včasnom štádiu (T1 NOMO) | | 40-50
 
-  - a) po odstránení vo včasnom štádiu (T1NOMO) | 40-50
+  - | b) po odstránení v iných štádiách | | 70-90
 
-  - b) po odstránení v iných štádiách | 70-90
+  - | c) po stabilizácii zdravotného stavu (do piatich rokov) | | 40-50
 
-  - c) po stabilizácii zdravotného stavu | 40-50
-
-  - d) neliečiteľné formy | 90-100
+  - | d) neliečiteľné formy | | 90-100
 
   - B. Ochorenie močových ciest
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | | Miera funkčnej poruchy v %
 
-  - 1 . Chronický zápal močových ciest |
+  - 1 . Chronický zápal močových ciest | | |
 
-  - a) ľahšieho stupňa (bez podstatnej poruchy mikcie) | 0-10
+  - | a) ľahšieho stupňa (bez podstatnej poruchy mikcie) | | 0-10
 
-  - b) ťažšieho stupňa (so značnými poruchami mikcie) | 10-20
+  - | b) ťažšieho stupňa (so značnými poruchami mikcie) | | 10-20
 
-  - 2. Poruchy vyprázdňovania močového mechúra |
+  - 2. Poruchy vyprázdňovania močového mechúra | | |
 
-  - a) ľahšieho stupňa (pri nepatrnej retencii moču, nočné odkvapkávame moču) | 10
+  - | a) lahšieho stupňa (pri nepatrnej retencii moču, nočné odkvapkávanie moču) | | 10
 
-  - b) ťažšieho stupňa (potrebné manuálne vyprázdňovanie, použitie močového stimulátora, |
+  - | b) ťažšieho stupňa (potrebné manuálne vyprázdňovanie, použitie močového stimulátora, značná retencia moču (nad 100 ml), bolestivé močenie | | 20-30
 
-  - značná retencia moču (nad 100 ml), bolestivé močenie | 20-30
+  - | c) s potrebou pravidelného cievkovania, trvalé nosenie cievky, urinálu, bez podstatných sprievodných prejavov | | 40-50
 
-  - c) s potrebou pravidelného cievkovania, trvalé nosenie cievky, urinálu bez podstatných |
+  - 3. Malígny tumor močového mechúra (povrchový a infiltratívny) | | |
 
-  - sprievodných prejavov | 40-50
+  - | a) po odstránení v počiatočnom štádiu (TI -2 NOMO) | | 40-60
 
-  - 3. Malígny tumor močového mechúra (povrchový a infiltratívny) |
+  - | b) po odstránení v pokročilom štádiu, počas onkologickej liečby | | 80-90
 
-  - a) po odstránení v počiatočnom štádiu (T1-2NOMO) | 40-60
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | | 40-50
 
-  - b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
+  - | d) neliečiteľné formy | | 90-100
 
-  - c) po stabilizácii zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - 4. Inkontinencia moču | | |
 
-  - d) neliečiteľné formy | 90-100
+  - | a) relatívna inkontinencia moču | |
 
-  - 4. Inkontinencia moču |
+  - | | 1. stresová I. stupňa | 0-10
 
-  - a) relatívna inkontinencia moču |
+  - | | 2. stresová II. stupňa | 20-30
 
-  - 1. stresová I. stupňa | 0-10
+  - | | 3. stresová III. stupňa | 40-50
 
-  - 2. stresová II. stupňa | 20-30
+  - | b) úplná inkontinencia moču | | 50-70
 
-  - 3. stresová III. stupňa | 40-50
+  - 5. Zvráskavený mechúr so značným zmenšením kapacity | | | 20-40
 
-  - b) úplná inkontinencia moču | 50-70
+  - 6. Močovodno-kožná píšťala prednej močovej trubice pri inkontinencii moču | | | 20
 
-  - 5. Zvráskavený mechúr so značným zmenšením kapacity | 20-40
+  - 7. Močovo-črevná píšťala pri análnej inkontinencii | | | 40-60
 
-  - 6. Močovodnokožná píšťala prednej močovej trubice pri inkontinencii moču | 10
+  - 8. Obličkovo-kožná píšťala, močovodno-kožná píšťala a mechúrovo-kožná píšťala so značnou sekréciou | | | 60-70
 
-  - 7. Močovo-črevná píšťala pri análnej inkontinencii | 40-60
+  - 9. Umelý vývod moču navonok | | | 60-80
 
-  - 8. Obličkovo-kožná píšťala, močovodnokožná píšťala a mechúrovo-kožná píšťala so značnou |
+  - 10. Funkčne málo významné anomálie močovo-pohlavného systému | | | 10-20
 
-  - sekréciou | 60-70
+  - 11. Anomálie so stredne ťažkým postihnutím až ťažkým postihnutím funkcie a telesnej výkonnosti | | | 40-60
 
-  - 9. Umelý vývod moču navonok | 60-80
+  - 12. Vrodené chyby močovo-pohlavného systému s anomálnym vyústením, rázštepové chyby u detí | | | 40-60
 
-  - 10. Funkčne málo významné anomálie močovopohlavného systému | 10-20
+  - Stupeň postihnutia sa určí podľa rozsahu funkčnej poruchy do obdobia rekonštrukčného riešenia.Miera funkčnej poruchy zdravotného postihnutia močového ústrojenstva sa určí poruchou produkcie moču (overí sa najmä funkčným vyšetrením, lekárskymi nálezmi, urodynamickým vyšetrením, endoskopicky). Treba brať do úvahy aj zdravotné postihnutie iných orgánov (najmä srdca a obehu), aktivitu zápalového procesu, účinky na celkový stav a potrebu obmedzenia spôsobu života. Miera funkčnej poruchy pri zdravotných postihnutiach uvedených v písmene B bode šesť až dvanásť sa určuje len do obdobia rekonštrukčného riešenia.XIV. Pohlavné orgányA. Mužské pohlavné orgány
 
-  - 11. Anomálie so stredne ťažkým postihnutím až ťažkým postihnutím funkcie a telesnej |
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - výkonnosti | 40-60
+  - 1 . Strata penisu | | 40-50
 
-  - 12. Vrodené chyby močovopohlavného systému s anomálnym vyústením, |
+  - 2. Čiastočná strata penisu | | 20-40
 
-  - rázštepové chyby u detí | 40-60
+  - 3. Malígny tumor penisu | |
 
-  - Stupeň postihnutia sa určí podľa rozsahu funkčnej poruchy do obdobia rekonštrukčného riešenia. Miera funkčnej poruchy zdravotného postihnutia močového ústrojenstva sa určí poruchou produkcie moču (overí sa najmä funkčným vyšetrením, lekárskymi nálezmi, urodynamickým vyšetrením, endoskopicky). Treba brať do úvahy aj zdravotné postihnutie iných orgánov (najmä srdca a obehu), aktivitu zápalového procesu, účinky na celkový stav a potrebu obmedzenia spôsobu života. Miera funkčnej poruchy pri zdravotných postihnutiach uvedených v písmene B bode šesť až dvanásť sa určuje len do obdobia rekonštrukčného riešenia. XIV. Pohlavné orgány A. Mužské pohlavné orgány
+  - | a) po odstránení v počiatočnom štádiu (TI -2 NOMO) | 40-50
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
 
-  - 1. Strata penisu | 40-50
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - 2. Čiastočná strata penisu | 20-40
+  - | d) neliečiteľné formy | 90-100
 
-  - 3. Malígny tumor penisu |
+  - 4. Strata oboch semenníkov alebo úplná atrofia oboch semenníkov | |
 
-  - a) po odstránení v počiatočnom štádiu (T1-2NOMO) | 40-50
+  - | a) pred skončením telesného vývoja | 20-40
 
-  - b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
+  - | b) v produktívnom veku | 20-30
 
-  - c) po stabilizácii zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - | c) vo vyššom veku | 10
 
-  - d) neliečiteľné formy | 90-100
+  - 5. Malígny tumor semenníka | |
 
-  - 4. Strata oboch semenníkov alebo úplná atrofia oboch semenníkov |
+  - | a) po odstránení lokalizovaného seminómu alebo lokalizovaného malígneho teratómu bez postihnutia lymfatických uzlín (TI NOMO) | 40-50
 
-  - a) pred skončením telesného vývoja | 20-40
+  - | b) v pokročilom štádiu, počas onkologickej liečby | 70-80
 
-  - b) v produktívnom veku | 20-30
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - c) vo vyššom veku | 10
+  - | d) neliečiteľné formy | 90-100
 
-  - 5. Malígny tumor semenníka |
+  - 6. Chronické zápaly prostaty s trvalými značnými poruchami mikcie | | 10-20
 
-  - a) po odstránení lokalizovaného semlnómu alebo lokalizovaného malígneho teratómu |
+  - 7. Adenóm prostaty bez porúch mikcie alebo s ľahkou poruchou | | 0-10
 
-  - bez postihnutia lymfatických uzlín (T1NOMO) | 40-50
+  - 8. Malígny tumor prostaty | |
 
-  - b) v pokročilom štádiu, počas onkologickej liečby | 70-80
+  - | a) po odstránení v počiatočnom štádiu (TI -2 NOMO) | 40-50
 
-  - c) po stabilizácií zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - | b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
 
-  - d) neliečiteľné formy | 90-100
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - 6. Chronické zápaly prostaty s trvalými značnými poruchami mikcie | 10-20
+  - | d) neliečiteľné formy | 90-100
 
-  - 7. Adenóm prostaty bez porúch mikcie alebo s ľahkou poruchou | 0-10
+  - 9. Malígny tumor prsnej žľazy | |
 
-  - 8. Malígny tumor prostaty |
+  - | a) po odstránení v počiatočnom štádiu (T1 NOMO) | 40-60
 
-  - a) po odstránení v počiatočnom štádiu (T1-2NOMO) | 40-50
+  - | b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
 
-  - b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - c) po stabilizácií zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - | d) neliečiteľné formy | 90-100
 
-  - d) neliečiteľné formy | 90-100
-
-  - 9. Vrodené chyby pohlavných orgánov | 40-60
+  - 10. Vrodené chyby pohlavných orgánov | | 40-60
 
   - B. Ženské pohlavné orgány
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - 1 . Strata prsníka nenádorovej etiológie |
+  - 1 . Strata prsníka nenádorovej etiológie (vo fertilnom veku) | |
 
-  - a) jednostranná | 20
+  - | a) jednostranná | 30
 
-  - b) obojstranná | 30
+  - | b) obojstranná | 50
 
-  - 2. Strata atrofického prsníka vo vyššom veku jednostranná alebo obojstranná | 10-20
+  - 2. Strata atrofického prsníka po menopauze | |
 
-  - 3. Hypertrofia prsníkov (pubertálna forma, mastoptóza) | 10-20
+  - | a) jednostranná | 10-20
 
-  - 4. Malígny tumor prsnej žľazy |
+  - | b) obojstranná | 20-30
 
-  - a) po odstránení v počiatočnom štádiu (T1NOMO) | 40-60
+  - 3. Hypertrofia prsníkov (pubertálna forma, mastoptóza) | | 10-20
 
-  - b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
+  - 4. Malígny tumor prsnej žľazy | |
 
-  - c) po stabilizácií zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - | a) po odstránení v počiatočnom štádiu (T1 NOMO) | 40-60
 
-  - d) neliečiteľné formy | 90-100
+  - | b) po odstránení v pokročilom štádiu, počas onkologickej liečby | 80-90
 
-  - 5. Strata maternice alebo sterilita vo fertilnom veku |
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - (treba prihliadať na psychoreaktívne poruchy) | 10-20
+  - | d) neliečiteľné formy | 90-100
 
-  - 6. Malígny tumor krčka maternice a tela maternice (s výnimkou carcinoma in situ) |
+  - 5. Strata maternice alebo sterilita vo fertilnom veku (treba prihliadať na psychoreaktívne poruchy) | | 10-20
 
-  - a) po odstránení tumoru krčka maternice alebo tela maternice v štádiu la, Ib (T1NOMO) | 40-50
+  - 6. | Malígny tumor krčka maternice a tela maternice (s výnimkou carcinoma in situ) |
 
-  - b) po odstránení tumoru v pokročilom štádiu, počas onkologickej liečby | 80-90
+  - | a) po odstránení tumoru krčka maternice alebo tela maternice v štádiu 1a, 1b (TI NOMO) | 40-50
 
-  - c) po stabilizácií zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - | b) po odstránení tumoru v pokročilom štádiu, počas onkologickej liečby | 80-90
 
-  - d) neliečiteľné formy | 90-100
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - 7. Strata oboch vaječníkov bez výrazného patologického účinku na hormonálny systém | 0-10
+  - | d) neliečiteľné formy | 90-100
 
-  - 8. Strata oboch vaječníkov vo fertilnom veku alebo pri nedostatočnej možnosti substitúcie |
+  - 7. | Strata oboch vaječníkov bez výrazného patologického účinku na hormonálny systém | 0-10
 
-  - pri vyrovnaní hormonálneho deficitu | 20-30
+  - 8. | Strata oboch vaječníkov vo fertilnom veku alebo pri nedostatočnej možnosti substitúcie pri vyrovnaní hormonálneho deficitu | 20-30
 
-  - 9. Malígny tumor vaječníka |
+  - 9. | Malígny tumor vaječníka |
 
-  - a) po odstránení v počiatočnom štádiu (T1NOMO) | 40-50
+  - | a) po odstránení v počiatočnom štádiu (T1 NOMO) | 40-50
 
-  - b) v pokročilom štádiu, počas onkologickej liečby | 80-90
+  - | b) v pokročilom štádiu, počas onkologickej liečby | 80-90
 
-  - c) po stabilizácií zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - d) neliečiteľné formy | 90-100
+  - | d) neliečiteľné formy | 90-100
 
-  - 10. Chronický alebo často sa opakujúci zápal vaječníkov, závesného aparátu maternice alebo |
+  - 10. | Chronický alebo často sa opakujúci zápal vaječníkov, závesného aparátu maternice alebo maternice |
 
-  - maternice |
+  - | a) ľahkého stupňa | 0-10
 
-  - a) ľahkého stupňa | 0-10
+  - | b) stredného stupňa | 10-20
 
-  - b) stredného stupňa | 10-20
+  - | c) ťažkého stupňa (recidívy viackrát v roku) | 20-30
 
-  - c) ťažkého stupňa (recidívy viackrát v roku) | 20-30
+  - 11. | Endometrióza ťažkého stupňa | 20-30
 
-  - 11. Endometrióza ťažkého stupňa | 20-30
+  - 12. | Vaginálne píšťaly |
 
-  - 12. Vaginálne píšťaly |
+  - | a) píšťala močová cesta - pošva | 40-60
 
-  - a) píšťala močová cesta - pošva | 40-60
+  - | b) píšťala konečník - pošva | 40-60
 
-  - b) píšťala konečník - pošva | 40-60
+  - | c) píšťala močová cesta - konečník - pošva | 80-90
 
-  - c) píšťala močová cesta - konečník - pošva | 80-90
+  - | d) filiformné píšťaly | 20-30
 
-  - d) filiformné píšťaly | 20-30
+  - 13. | Pokles pošvovej steny alebo maternice |
 
-  - 13. Pokles pošvovej steny alebo maternice |
+  - | a) bez močovej inkontinencie alebo s nepatrnou stresovou inkontinenciou moču (I. stupeň) | 0-10
 
-  - a) bez močovej inkontinencie alebo s nepatrnou stresovou inkontinenciou moču |
+  - | b) so silnejšou inkontinenciou moču | 20-40
 
-  - (I. stupeň) | 0-10
+  - | c) s úplnou inkontinenciou moču | 50-60
 
-  - b) so silnejšou inkontinenciou moču | 20-40
+  - 14. | Vrodené chyby pohlavných orgánov | 40-60
 
-  - c) s úplnou inkontinenciou moču | 50-60
+  - 15. | Craurosis vulvae |
 
-  - 14. Vrodené chyby pohlavných orgánov | 40-60
+  - | a) ľahkého stupňa bez ťažkostí alebo s minimálnymi ťažkosťami | 0-10
 
-  - 15. Craurosis vulvae |
+  - | b) ťažšieho stupňa so značnými ťažkosťami, sekundárne zmeny (vredy, ekzémy, jazvy) | 20-40
 
-  - a) ľahkého stupňa bez ťažkostí alebo s minimálnymi ťažkosťami | 0-10
+  - 16. | Malígny tumor pošvy a vonkajších rodidiel (s výnimkou carcinoma in situ) |
 
-  - b) ťažšieho stupňa so značnými ťažkosťami, sekundárne zmeny (vredy, ekzémy, jazvy) | 20-40
+  - | a) po odstránení v počiatočnom štádiu (T1 NOMO) | 40-50
 
-  - 16. Malígny tumor pošvy a vonkajších rodidiel (s výnimkou carcinoma in situ) |
+  - | b) v pokročilom štádiu, počas onkologickej liečby | 80-90
 
-  - a) po odstránení v počiatočnom štádiu (T1NOMO) | 40-50
+  - | c) po stabilizácii zdravotného stavu (spravidla do piatich rokov) | 40-50
 
-  - b) v pokročilom štádiu, počas onkologickej liečby | 80-90
+  - | d) neliečiteľné formy | 90-100
 
-  - c) po stabilizácii zdravotného stavu (spravidla po dvoch rokoch) | 40-50
+  - Miera funkčnej poruchy zdravotných postihnutí sa určí na základe klinického obrazu v urologickej, sexuálnej a onkologickej oblasti. Pri zdravotných postihnutiach ženských pohlavných orgánov sa miera funkčnej poruchy určí na základe gynekologického, endokrinologického a onkologického vyšetrenia s prihliadnutím na vek ženy. Pri vrodených poruchách pohlavných orgánov sa miera funkčnej poruchy určí len do obdobia rekonštrukčného riešenia.XV. Hlava a tvár
 
-  - d) neliečiteľné formy | 90-100
+  - Druh zdravotného postihnutia | | Miera funkčnej poruchy v %
 
-  - Miera funkčnej poruchy zdravotných postihnutí sa určí na základe klinického obrazu v urologickej, sexuálnej a onkologickej oblasti. Pri zdravotných postihnutiach ženských pohlavných orgánov sa miera funkčnej poruchy určí na základe gynekologického, endokrinologického a onkologického vyšetrenia s prihliadnutím na vek ženy. Pri vrodených poruchách pohlavných orgánov sa miera funkčnej poruchy určí len do obdobia rekonštrukčného riešenia. XV. Hlava a tvár
+  - 1. Stavy po traume (úraze) hlavy a mozgu s vnútrolebkovým krvácaním, s trvalými poruchami v neurologickej, psychiatrickej, psychologickej a zmyslovej oblasti | |
 
-  - Druh zdravotného postihnutia | Miera funkčnej poruchy v %
+  - | a) poruchy ľahkého stupňa | 20-30
 
-  - 1. Stavy po traume (úraze) hlavy a mozgu s vnútrolebkovým krvácaním, s trvalými |
+  - | b) poruchy stredného stupňa | 40-60
 
-  - poruchami v neurologickej, psychiatrickej, psychologickej a zmyslovej oblasti |
+  - | c) poruchy ťažkého stupňa | 70-100
 
-  - a) poruchy ľahkého stupňa | 20-30
+  - 2. Stavy po zlomeninách lebky bez neurologických príznakov, stavy po otrase mozgu | | 5-10
 
-  - b) poruchy stredného stupňa | 40-60
+  - 3. Zohyzďujúce znetvorenie tváre, ťažké deformity kostných a mäkkých častí ovplyvňujúcich mimiku, artikuláciu, žuvanie a pod. | | 30-60
 
-  - c) poruchy ťažkého stupňa | 70-100
-
-  - 2. Stavy po zlomeninách lebky bez neurologických príznakov, stavy po otrase mozgu | 5-10
-
-  - 3. Zohyzďujúce znetvorenie tváre, ťažké deformity kostných a mäkkých častí ovplyvňujúcich |
-
-  - mimiku, artikuláciu, žuvanie a pod. | 30-60
-
-  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa klinickej symptomatológie v neurologickej, stomatologickej, oftalmologickej a estetickej oblasti. |
+  - Miera funkčnej poruchy uvedených zdravotných postihnutí sa určí podľa klinickej symptomatológie v neurologickej, stomatologickej, oftalmologickej a estetickej oblasti.
