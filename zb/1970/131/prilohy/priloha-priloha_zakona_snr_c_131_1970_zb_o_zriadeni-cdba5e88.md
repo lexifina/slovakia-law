@@ -86,49 +86,7 @@ Príloha zákona SNR č. 131/1970 Zb. o zriadení krajských výborov v Slovensk
 
 | školstva | | |
 
-33 | | zák. č. 186/1960 Zb. v spojení s vl. uzn. č. 229/1963, zák. č. 168/1968 Zb. a § 1 vyhl. č. 104/1969 Zb. | § 30 ods. 1 a | zriaďovanie, zrušovanie, riadenie a správa týchto škôl a im slúžiacich zariadení stredných všeobenovzdelávacích škôl, gymnázií, odborných škôl, stredných odborných škôl, konzervatórií, jazykových škôl, poľnohospodárskych (lesníckych) majstrovských škôl, učňovských škôl
-
-| | | § 31 ods. 1 |
-
-| | | | poľnohospodárskych a lesníckych odborných učilíšť, školských majetkov a polesí,
-
-| | | | stredných všeobecnovzdelávacích škôl pre pracujúcich, stredných odborných škôl pre pracujúcich, Štátneho stenografického ústavu v Bratislave
-
-| | | | škôl a výchovných zariadení I. a II. cyklu pre mládež vyžadujúcu osobitnú starostlivosť vrátane detských domovov triediacich, základných deväťročných škôl s detským domovom, domovov mládeže s ochrannou výchovou (s výnimkou osobitných škôl pri nemocniciach, odborných liečebných ústavoch a ozdravovniach),
-
-| | | | domovov mládeže krajských pedagogických ústavov krajských psychlogicko-výchovných pracovísk, rekreačných stredísk školskej mládeže spravovaných do 30. júna 1969 krajskými národnými výbormi
-
-34 | | vl. vyhláška č. 51/1962 Zb. | § 3 ods. 4 | delegovanie člena do skúšobnej komisie pre záverečné skúšky na podnikovom inštitúte
-
-35 | | | § 4 ods. 1 | udeľovanie súhlasu na prijatie uchádzača nespĺňajúceho podmienky dĺžky odbornej praxe na podnikový inštitút
-
-36 | | | § 4 ods. 3 | delegovanie člena do prijímacej komisie na podnikom inštitúte
-
-37 | | | § 4 ods. 4 | povoľovanie štúdia na podnikovom inštitúte cudziemu štátnemu príslušníkovi
-
-38 | | | § 6 ods. 1 | prerokovanie návrhu na vymenovanie vedúceho podnikového inštitútu
-
-39 | | | § 6 ods. 3 | prerokovanie návrhu na vymenovanie vedúceho podnikového inštitútu
-
-40 | | | § 7 ods. 1 | poskytovanie pomoci pri pedagogickom vzdelávaní učiteľov z radov odborných pracovníkov podnikov na podnikových inštitútoch
-
-41 | | | § 8 ods. 1 | vykonávanie všeobecného školského dozoru v podnikových inštitútoch
-
-42 | | vl. uzn. č. 106/1951 | čl. III bod 5 | určovanie závodov, do ktorých sa zaraďujú žiaci škôl technického smeru a študenti
-
-43 | | vl. nar. č. 38/1967 Zb. | § 2 ods. 3 | určovanie plánu početného rozdelenia absolventov odborných škôl
-
-44 | | zák. č. 89/1958 Zb. | § 30 ods. 3 | oragnizovanie riadenie a kontrola výchovy učňov pre miestne hospodárstvo
-
-45 | | vyhl. č. 111/1965 Zb. v znení vyhl. č. 11/1968 Zb. a č. 11/1970 Zb. | § 1 ods. 2 | určovanie organizácií, ktoré zabezpečujú a organizujú záverečné učňovské skúšky
-
-46 | | | § 2 ods. 8 | preskúmavanie prihlášok pracovníkov na záverecné učňovské skúšky a ich postúpenie školám a skúšobným komisiám
-
-47 | | | § 3 ods. 2 | vymenúvanie predsedov skúšobných komisií pre záverečné učňovské skúšky
-
-48 | | | § 6 ods. 3 | potvrdzovanie výučných listov
-
-49 | | vyhl. č. 11/1968 Zb. | čl. I bod 3 | určovanie termínov konania učňovských skúšok pre absolventov stredných všeobecnovzdelávacích škôl v učebnom pomere s jedenapolročnou učebnou dobou
+33-49 | Zrušené od 1. 9. 1978. | | |
 
 | kultúry a informácií | | |
 
