@@ -1,1 +1,0 @@
-- 1) Mzdové predpisy vydané ústrednými orgánmi na vykonanie zásad racionalizácie mzdových sústav podľa uznesenia vlády Československej socialistickej republiky z 3. mája 1973 č. 128; ak sa neuplatňujú, vyhláška Ministerstva práce a sociálnych vecí č. 200/1968 Zb. o mzdovom zvýhodnení práce cez soboty a nedele.
