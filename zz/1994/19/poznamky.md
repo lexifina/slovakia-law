@@ -1,0 +1,1 @@
+- *) Číselné údaje uvedené v tejto prílohe sú príslušne zaokrúhlenéĺ a môžu sa od stavu na účtoch Štátnej banky česko-slovenskej do určitejĺ miery odlišovať.
