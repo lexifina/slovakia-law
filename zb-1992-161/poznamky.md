@@ -1,0 +1,1 @@
+- 1) § 23 zákona č. 308/1991 Sb., o svobodě náboženské víry a postavení církví a náboženských společností.
