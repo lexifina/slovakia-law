@@ -24,7 +24,7 @@
 
 - 2h) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
-- 3) § 2 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+- 3) § 71 ods. 1 zákona č. 50/1976 Zb.
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
