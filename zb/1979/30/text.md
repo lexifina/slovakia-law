@@ -22,6 +22,8 @@ Dňom 22.11. 1996 stráca táto zmluva platnosť vo vzájomných vzťahoch medzi
 
 Dňom 1. 5. 1997 vo vzťahoch medzi Slovenskou republikou a Ruskou federáciou stratili platnosť ustanovenia tejto zmluvy (oznámenie MZV SR č. 31/1998 Z. z.).
 
+Dňom 5. 7. 2000 sa skončila vo vzájomných vzťahoch medzi Slovenskou republikou a Bieloruskou republikou platnosť tejto zmluvy (oznámenie MZV SR č. 112/2001 Z. z.).
+
 Minister:
 
 Ing. Chňoupek v. r.
