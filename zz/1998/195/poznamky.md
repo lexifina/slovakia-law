@@ -78,6 +78,16 @@
 
 - 41b) § 51 a 853 Občianskeho zákonníka.
 
+- 41c) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 41d) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
+- 41e) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 41f) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
+
+- 41g) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z.
+
 - 42) § 8a a príloha č. 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
 
 - 43) § 101 až 107 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
@@ -113,8 +123,6 @@
 - 52) § 24 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
 - 52a) Napríklad zákon Národnej rady Slovenskej republiky č. 84/1994 Z. z. o Slovenskom Červenom kríži a o ochrane znaku a názvu Červeného kríža, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
-
-- 52b) § 10 zákona č. 750/2002 Z. z. o štátnom rozpočte na rok 2003.
 
 - 52c) § 51 Občianskeho zákonníka.
 

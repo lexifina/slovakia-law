@@ -1,6 +1,6 @@
 Príloha č. 12 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
 
-- Zoznam chronických stavov, pri ktorých dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia v dôsledku ťažkých porúch mobility bez používania technicky náročných pomôcok, a zoznam technicky náročných pomôcok, ktorých používaním dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia
+- Zoznam chronických stavov, pri ktorých dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia bez používania technicky náročných pomôcok, a zoznam technicky náročných pomôcok, ktorých používaním dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia
 
   - I. Zoznam chronických stavov, pri ktorých dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia v dôsledku ťažkých porúch mobility bez používania technicky náročných pomôcok
 
@@ -9,6 +9,10 @@ Príloha č. 12 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
     - b) mozgové, mozočkové a miešne dysfunkcie podmieňujúce ťažké poruchy chôdze,
 
     - c) stavy so stuhnutím kolenného kĺbu alebo bedrového kĺbu trvalého charakteru bez možnosti ovplyvnenia tohto stavu ďalšou liečbou.
+
+    - d) úplná slepota oboch očí,
+
+    - e) praktická slepota oboch očí.
 
   - II. Zoznam technicky náročných pomôcok, ktorých používaním dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia
 
