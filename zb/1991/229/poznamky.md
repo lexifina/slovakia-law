@@ -20,6 +20,8 @@
 
 - 5a) § 37 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení zákona Slovenskej národnej rady č. 293/1992 Zb., zákona Slovenskej národnej rady č. 323/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 187/1993 Z. z.
 
+- 5b) Zákon č. 169/1949 Zb. o vojenských obvodoch v znení zákona č. 131/1970 Zb.
+
 - 6) § 2 ods. 2 zákona č. 87/1991 Zb.
 
 - 7) § 2 ods. 3 prvá veta zákona č. 87/1991 Zb.
