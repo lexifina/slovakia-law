@@ -10,7 +10,7 @@
 
 - 6) Napr. nariadenie vlády Slovenskej republiky č. 250/1992 Zb.
 
-- 7) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb.
+- 7) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb.Vyhláška Ministerstva školstva, mládeže a športu SR č. 212/1991 Zb. o špeciálnych školách.
 
 - 8) Zákon č. 172/1990 Zb. o vysokých školách.
 
@@ -20,9 +20,13 @@
 
 - 11) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii.
 
+- 11a) § 1 a 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 284/1992 Zb. o opatreniach hospodárskej mobilizácie.
+
 - 12) Napr. zákon Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole, zákon č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona č. 575/1990 Zb., zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení zákona Slovenskej národnej rady č. 417/1991 Zb.
 
-- 13) Zákon Slovenskej národnej rady č. 78/1978 Zb. o školských zariadeniach v znení zákona Slovenskej národnej rady č. 32/1984 Zb.
+- 13) § 5 ods. 3 a § 23 zákona Slovenskej národnej rady č. 78/1978 Zb. o školských zariadeniach v znení zákona Slovenskej národnej rady č. 32/1984 Zb.
+
+- 13a) Napr. zákon Slovenskej národnej rady č. 319/1992 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
 
 - 14) Nariadenie vlády ČSSR č. 118/1988 Zb. o mimoriadnom poskytovaní starobného dôchodku v znení nariadenia vlády ČSSR č. 116/1989 Zb., zákona č. 306/1991 Zb. a zákona č. 578/1991 Zb.
 

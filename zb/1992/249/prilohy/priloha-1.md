@@ -1,5 +1,3 @@
-[Príloha 01](../assets/886d74f533f8c5ac662c03fd90115a12ccf8e4b2c33ef0d49fe62f0d5fee175d.pdf)
-
 Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - KATALÓG PRACOVNÝCH ČINNOSTÍ
@@ -80,7 +78,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 2.12. Samostatný príjem, skladovanie, ošetrovanie a výdaj výrobkov a materiálov vrátane vedenia evidencie a kontroly.
 
-- 2.13. Čistenie veľkých upratovacích plôch pomocou samohybných mechanizmov.
+- 2.13. Čistenie veľkých upratovacích plôch pomocou samohybných mechanizmov a upratovanie vo vybraných oddeleniach (napr. chirurgia, operačné sály).
 
 - 2.14. Čistenie všetkých typov okien vrátane ich prípadného rozobrania a zloženia.
 
@@ -208,7 +206,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 4.03. Príprava, zber a spracovanie štatistických údajov.
 
-- 4.04. Vybavovanie administratívy vedúceho organizácie a námestníka vedúceho ústredného orgánu.
+- 4.04. Vybavovanie administratívy vedúceho organizácie a vedúceho sekcie na ústrednom orgáne.
 
 - 4.05. Zložitá archivárska činnosť na orgáne štátnej správy.
 
@@ -298,7 +296,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 5.01. Zhotovovanie záznamov z rokovaní vedúcich orgánov a kontrola ich plnenia, ako aj iné sekretárske práce pre vedúceho ústredného orgánu.
+- 5.01. Zhotovovanie záznamov z rokovaní vedúcich orgánov a kontrola ich plnenia, ako aj iné sekretárske práce pre vedúceho ústredného orgánu, štátneho tajomníka a vedúceho úradu na ústrednom orgáne štátnej správy.
 
 - 5.02. Vymeriavanie dávok nemocenského poistenia, dôchodkového poistenia a ostatných dávok, alebo preverovanie doby poistenia (zamestnania) v sporných prípadoch.
 
@@ -327,8 +325,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 5.14. Zabezpečovanie a výkon štatistických činností úseku, zabezpečenie komplexnosti súboru výkazníctva a jeho kontroly vrátane evidencie obyvateľstva.
 
 - 5.15. Vykonávanie jednoduchých daňových kontrol alebo vybraných otázok revízií hospodárenia so štátnymi prostriedkami alebo jednoduchých cenových kontrol.
-
-- 5.16. Organizácia chodu súdnej (notárskej) kancelárie, protokolárne spisovanie podaní a ústnych vyhlásení účastníkov, žiadostí o oslobodenie od súdnych poplatkov a o ustanovenie zástupcov, vyznačovanie doložky vykonateľnosti na rovnopise rozhodnutí.
 
 - 5.17. Vedenie cestných motorových vozidiel s viac ako 9 miestami na sedenie alebo vozidiel nad 12 ton hmotnosti.
 
@@ -454,6 +450,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 6.40. Výkon funkčných skúšok výrobkov vrátane hodnotenia ich spôsobilosti a spracovania skúšobných protokolov.
 
+- 6.41. Organizácia chodu súdnej (notárskej) kancelárie, protokolárne spisovanie podaní a ústnych vyhlásení účastníkov, žiadosti o oslobodenie od súdnych poplatkov a o ustanovenie zástupcov, vyznačovanie doložky vykonateľnosti na rovnopise rozhodnutí.
+
 - 7. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: úplné stredné
@@ -466,7 +464,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 7.03. Tvorba čiastkových rozborov pre analýzu trhu práce a vývoja zamestnanosti.
 
-- 7.04. Aprobácia daňových priznaní.
+- 7.04. Aprobácia daňových priznaní ich komplexné posudzovanie v nadväznosti na dodržiavanie finančnej a daňovej disciplíny.
 
 - 7.05. Samostatný výkon geodetických prác, meranie polohopisu a výškopisu vrátane číselného, prípadne grafického spracovania výsledkov.
 
@@ -486,7 +484,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 7.13. Výkon správy v pôsobnosti okresnej prokuratúry.
 
-- 7.14. Vykonávanie ekonomických rozborov, sledovanie vývoja ekonomických ukazateľov vrátane návrhov na opatrenia, zabezpečovanie odborných ekonomických činností na úseku financovania, rozpočtovníctva, vedenie zložitých rozpočtových agend.
+- 7.14. Vykonávanie ekonomických rozborov, sledovanie vývoja ekonomických ukazateľov vrátane návrhov na opatrenia, zabezpečovanie odborných ekonomických činností na úseku financovania, rozpočtovníctva, vedenie zložitých rozpočtových a daňových agend.
 
 - 7.15. Komplexná kontrolná a revízna činnosť vo vnútri organizácie.
 
@@ -642,8 +640,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 9.23. Zabezpečovanie komplexnej rozborovej a kontrolnej činnosti vrátane návrhov na opatrenia.
 
-- 9.24. Vykonávanie inšpekcií základných škôl.
-
 - 9.25. Tvorba najnáročnejších všeobecne záväzných právnych predpisov na regionálnej úrovni.
 
 - 9.26. Súhrnné práce pri zabezpečovaní výkonu štátnej správy alebo činnosti v regióne na úseku územného plánu a stavebného poriadku, vodného hospodárstva, ochrany prírodného prostredia, pozemkových úprav, rozpočtov a financovania.
@@ -694,8 +690,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 10.14. Tvorba koncepčných, metodických a analytických materiálov v oblasti psychologického poradenstva.
 
-- 10.15. Koordinácia činnosti školských inšpektorov základných škôl a vykonávanie inšpekcií stredných škôl.
-
 - 10.16. Koncepčná a koordinačná činnosť v zákonom ustanovenom rozsahu pre daný územný celok.
 
 - 10.17. Tvorba zásad usmerňovania vývoja národohospodárskych celkov, utváranie politiky vývoja odvetvia ako celku.
@@ -711,6 +705,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 10.22. Koncepčná a normotvorná činnosť na úseku geodézie a kartografie.
 
 - 10.23. Najzložitejšie geodetické práce v polohových výškových a gravimetrických sieťach celoštátneho charakteru.
+
+- 10.24. Zabezpečovanie poradensko-metodickej činnosti na územnom finančnom orgáne; koordinácia činnosti kontrolnej skupiny v rozsahu pôsobnosti územného finančného orgánu.
 
 - 11. PLATOVÁ TRIEDA
 
@@ -729,6 +725,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 11.05. Spracovanie návrhov koncepcií rozvoja jednotlivých oblastí spoločenského systému s republikovou pôsobnosťou a s medzinárodnými nadväznosťami vrátane tvorby zásad zákonných právnych úprav.
 
 - 11.06. Koordinácia republikových, celoštátnych alebo medzinárodných systémov so zložitými vnútornými a vonkajšími väzbami.
+
+- 11.07. Výkon lekárskej posudkovej činnosti v posudkovej komisii sociálneho zabezpečenia po získaní II. špecializácie.
 
 - 12. PLATOVÁ TRIEDA
 
@@ -1144,6 +1142,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 6.12. Udržiavanie a obnova základného stáda zvierat, zabezpečenie transportu a manipulácie so zvieratami, spolupráca pri určovaní kŕmnych dávok.
 
+- 6.13. Sledovanie stavu a zmien prírodného prostredia, zisťovanie podkladov pre pozemkové úpravy a majetkovoprávnu agendu, spracovanie výsledkov terénnych a laboratórnych prác, spolupráca pri mapovacích prácach, značení územia a pod.
+
 - 7. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: úplné stredné
@@ -1184,6 +1184,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 7.17. Zabezpečovanie prípravy audiovizuálnych programov.
 
+- 7.18. Poskytovanie informácií a návodov organizátorom kultúrnych aktivít, zovšeobecňovanie foriem a metód osvetovej práce, vypracovávanie návrhov konkrétnych projektov rozvoja jednotlivých oblastí osvetovej činnosti na území regiónu.
+
 - 8. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: vysokoškolské
@@ -1196,7 +1198,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 8.03. Organizovanie a samostatné vykonávanie astronomických pozorovaní.
 
-- 8.04. Samostatné zabezpečovanie zložitých odborných knihovníckych, bibliografických, informačných agend a kultúrno-vzdelávacích činností (cudzojazyčná, vedecká katalogizácia, špecializované bibliografie, poradenská činnosť, publikačná činnosť a školiaca činnosť).
+- 8.04. Samostatné zabezpečovanie zložitých odborných knihovníckych, bibliografických, informačných agend a kultúrno-vzdelávacích činností (cudzojazyčná, vecná katalogizácia, špeciálne bibliografie, poradenská činnosť, publikačná činnosť a školiaca činnosť).
 
 - 8.05. Samostatné odborné prieskumy stavu zbierok a mobiliárnych fondov, samostatná a profylaktická preventívna starostlivosť, konzervovanie (preparovanie), samostatné vyhotovovanie kópií a modelov.
 
@@ -1295,6 +1297,16 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 11.02. Vykonávanie špeciálnych reštaurátorských prác pri záchrane osobitne významných umeleckých diel maliarskych, sochárskych a úžitkového umenia s tvorivou aplikáciou výsledkov základného a aplikovaného výskumu vrátane aplikácie výsledkov analytických prác v odbore pamiatkovej starostlivosti.
 
 - 11.03. Komplexné koncipovanie, utváranie, vedecké spracovanie a sprostredkovanie mimoriadne významných špeciálnych zbierok spravidla medzinárodného dosahu, prírodných a humanitných vied v rámci mimoriadne náročného základného výskumu.
+
+- 12. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 12.01. Tvorivé riešenie súhrnných prognóz, koncepcií a programov vytvárania pamiatkového fondu, vedeckých zbierok vrátane archiválií a kníh, odboru prírodných a humanitných vied, ich ochrany, odbornej starostlivosti a prezentácie s aplikáciou výsledkov základného výskumu.
+
+- 12.02. Organizácia činnosti tímov špecialistov reštaurátorov pri reštaurovaní najvýznamnejších umeleckých diel maliarstva, sochárstva a úžitkového umenia a tvorivá aplikácia výsledkov základného výskumu; koordinácia a kontrola komplexných prieskumných a dokumentačných prác a reštaurátorských zásahov.
 
 - III. Manuálne činnosti v kultúre
 
@@ -1492,8 +1504,6 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 2.04. Pomocné práce na nemocničných a poliklinických oddeleniach na oddeleniach klinickej biochémie, klinickej hematológie, v hygienických a mikrobiologických laboratóriách a v zariadeniach lekárenskej služby, a vo všetkých typoch zariadení ústavnej starostlivosti.
 
-- 2.05. Rozvažovanie, rozpočítavanie a adjustácia liečiv v lekárňach.
-
 - 2.06. Pomocné práce v zubnom laboratóriu, (vylievanie odtlačkov, leštenie zubných náhrad a pod.).
 
 - 2.07. Obsluha kúpeľných zariadení, napr. FITNESS centier, solárií alebo sáun s kontrolou teploty vzduchu, pary a vody, dozor nad bezpečnosťou prevádzky, vykonávanie bežnej údržby a dezinfekcie zariadenia.
@@ -1504,27 +1514,21 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 3.01. Pomocné a obslužné práce pri opatrovaní a ošetrovaní chorých a detí v nemocničných oddeleniach a vo všetkých typoch zariadení ústavnej sociálnej starostlivosti, vyžadujúce fyzickú námahu, na operačnej sále, transfúznych boxoch, na vybraných úsekoch rehabilitácie, v laboratóriách hygienickej služby a pod.
+- 3.01. Pomocné a obslužné práce pri opatrovaní a ošetrovaní chorých a detí v nemocničných oddeleniach a vo všetkých typoch zariadení ústavnej sociálnej starostlivosti, vyžadujúce fyzickú námahu, na operačnej sále, transfúznych boxoch, na vybraných úsekoch rehabilitácie a pod.
 
-- 3.02. Sprevádzanie imobilných pacientov na odborné vyšetrovania, manipulácia so zdravotnou dokumentáciou chorých.
+- 3.02. Sprevádzanie imobilných občanov so zdravotnou dokumentáciou na odborné vyšetrenia a liečebné zákroky.
 
-- 3.03. Pomocné a obslužné práce v zdravotníckych zariadeniach, v zariadeniach sociálnej starostlivosti a v kúpeľných liečebniach, napr. v operačnej sále, v transfúznych oddeleniach, rehabilitačných laboratóriách a pod.
+- 3.03. Pomocné a obslužné práce v zdravotníckych zariadeniach, v zariadeniach sociálnej starostlivosti a v kúpeľných liečebniach, napr. v operačnej sále, v transfúznych oddeleniach, rehabilitačných laboratóriách, v laboratóriách hygienickej služby, zubných laboratóriách, lekárňach a pod.
 
-- 3.04. Aplikácia liečebných procedúr podľa postupov určených vyššie kvalifikovaným zdravotníckym pracovníkom (napr. zábaly bahnom, ovíjanie parafínom, škótske streky, žiarovkové potné kúpele, Priessnitzove zábaly, elektroliečebné procedúry, klasická a reflexná masáž a pod.) vrátane osobnej starostlivosti a dozoru.
+- 3.04. Aplikácia liečebných procedúr podľa postupov určených vyššie kvalifikovaným zdravotníckym pracovníkom (napr. zábaly bahnom, ovíjanie parafínom, škótske streky, žiarovkové potné kúpele, Priessnitzove zábaly a pod.) vrátane osobnej starostlivosti a dozoru.
 
 - 3.05. Príprava pomôcok na laboratórne výkony (biologický materiál, jednoduché roztoky, kultivačné pôdy a pod.).
 
-- 3.06. Prípravné a technické práce pri príprave liekov, doplňovanie hromadne vyrábaných liekov a zdravotníckych potrieb v lekárni.
-
 - 3.07. Opatrovateľská starostlivosť v ústavoch sociálnej starostlivosti a opatrovateľská služba pre imobilných občanov v domácnosti, komplexná starostlivosť o ich domácnosť vrátane starostlivosti o donášku bielizne a paliva.
-
-- 3.08. Vykonávanie základnej úpravy tiel zomretých.
 
 - 3.09. Starostlivosť o laboratórne zvieratá, kŕmenie vrátane prípravy krmiva, napájania a hygienickej starostlivosti, pomoc pri obsluhe sterilizačných zariadení.
 
 - 3.10. Ošetrovanie a odchov laboratórnych zvierat podľa hmotnostných kategórií, sledovanie zdravotného stavu zvierat, rozpoznávanie príznakov ochorení, vykonávanie základných zooveterinárnych opatrení.
-
-- 3.11. Asistencia pri stomatologických vyšetreniach a ošetreniach vrátane spracovania dentálnych materiálov.
 
 - 4. PLATOVÁ TRIEDA
 
@@ -1532,17 +1536,17 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 4.01. Namáhavé pomocné práce zdravotníckeho charakteru na oddeleniach trvale ležiacich v domovoch dôchodcov a na obdobných pracoviskách v priamom styku s pacientmi.
+- 4.01. Namáhavé pomocné práce zdravotníckeho charakteru na oddeleniach trvale ležiacich na oddeleniach so zvýšeným psychiatrickým dohľadom, v domovoch dôchodcov a na obdobných pracoviskách v priamom styku s pacientmi.
 
-- 4.02. Prevážanie a prenášanie ťažko pohyblivých a nepohyblivých chorých obyvateľov, zverencov ústavov sociálnej starostlivosti alebo zomretých vrátane prevozu chorých sanitnými vozidlami, prípravné práce spojené s pitvou a manipulácie s telami zomretých.
+- 4.02. Prenášanie ťažko pohyblivých a nepohyblivých chorých obyvateľov, zverencov ústavov sociálnej starostlivosti alebo zomretých vrátane prevozu chorých sanitnými vozidlami, prípravné práce spojené s pitvou a manipulácie s telami zomretých.
 
 - 4.03. Ťažké pomocné práce zdravotníckeho charakteru spojené s priamym stykom s pacientmi na psychiatrických oddeleniach, v psychiatrických liečebniach, na záchytných protialkoholických staniciach, na oddeleniach s ťažkým psychickým postihnutím v ústavoch pre duševne postihnutých.
 
-- 4.04. Opatrovateľská starostlivosť a pomocné práce pri ošetrovaní a výchove detí v jasliach a dodržiavanie denného režimu a bezpečnosti detí v jasliach.
+- 4.04. Pestúnska starostlivosť a pomocné práce pri ošetrovaní a výchove detí v jasliach a dodržiavanie denného režimu a bezpečnosti detí v jasliach a staniciach opatrovateľskej služby pre deti.
 
 - 4.05. Nácvik bežných denných činností a vykonávanie klasických masáží pod vedením odborného pracovníka, jednoduché činnosti v rámci fyzikálnej terapie a liečebnej telesnej výchovy.
 
-- 4.06. Spracovanie dentálneho materiálu podľa pokynov ošetrujúceho lekára, asistenta pri práci lekára pri kresle a iné výkony zdravotníckeho charakteru na poliklinických oddeleniach.
+- 4.06. Spracovanie dentálneho materiálu podľa pokynov ošetrujúceho lekára, asistencia pri práci lekára pri kresle a iné výkony zdravotníckeho charakteru.
 
 - 4.07. Zabezpečovanie sociálno-zdravotníckych služieb v ústavoch sociálnej starostlivosti pre zdravotne postihnutú mládež a pre starých občanov.
 
@@ -1560,9 +1564,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 5.01. Práce ošetrovateľské a výchovné na lôžkových oddeleniach, v týždenných jasliach, zariadeniach sociálnej starostlivosti, týždenných pobytov pre deti a mládež a v zariadeniach s nepretržitou prevádzkou.
-
-- 5.02. Komplexná hygienická starostlivosť a ošetrovateľská a výchovná činnosť s deťmi predškolského veku v ústavoch sociálnej starostlivosti pre mentálne a telesne postihnutých a telesne postihnuté deti a mládež pri ošetrovaní chorých v lôžkových zdravotníckych zariadeniach.
+- 5.01. Komplexná hygienická, ošetrovateľská a pestúnska starostlivosť o deti predškolského veku v týždenných jasliach, zariadeniach sociálnej starostlivosti, týždenných pobytoch pre deti a mládež a v ústavoch sociálnej starostlivosti pre zdravotne postihnuté deti a mládež pri ošetrovaní chorých v lôžkových zdravotníckych zariadeniach.
 
 - 5.03. Liečebná pracovná terapia so zverencami a obyvateľmi ústavov sociálnej starostlivosti.
 
@@ -1584,17 +1586,17 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 6.01. Ošetrovanie chorých a ostatné odborné výkony v územných (závodných) zdravotníckych obvodoch, poliklinických oddeleniach a v kúpeľných liečebniach, príprava chorých na odborné vyšetrenie alebo ošetrenie, asistencia lekárovi, zisťovanie anamnestických údajov a vedenie predpísanej dokumentácie, organizácia a príprava preventívnych prehliadok, návštevná služba v rodinách a na pracoviskách, podiel na vykonávaní hygienicko-epidemiologického dozoru, samostatné ošetrovanie zverencov a obyvateľov v ústavoch sociálnej starostlivosti.
+- 6.01. Ošetrovanie chorých a ostatné odborné výkony v zdravotníckych zariadeniach a v kúpeľných liečebniach, príprava chorých na odborné vyšetrenie alebo ošetrenie, asistencia lekárovi, zisťovanie anamnestických údajov a vedenie predpísanej dokumentácie, organizácia a príprava preventívnych prehliadok, návštevná služba v rodinách a na pracoviskách, podiel na vykonávaní hygienicko-epidemiologického dozoru, samostatné ošetrovanie zverencov a obyvateľov v ústavoch sociálnej starostlivosti.
 
 - 6.02. Vykonávanie rádiologických vyšetrení vrátane zhotovenia RTG snímok pri lôžku chorého a na operačnej sále, asistencia pri skiaskopii, príprava kontrastných látok a liekov potrebných na RTG vyšetrenia.
 
 - 6.03. Základné laboratórne vyšetrovacie postupy (mikroskopické, biochemické, hematologické, sérologické, genetické, virologické, rádiochemické) a podobné laboratórne vyšetrenia vrátane odberu materiálu.
 
-- 6.04. Opravy zubných náhrad, zhotovovanie snímateľných náhrad tretej a štvrtej triedy, zhotovenie jednoduchých ortopedických platní a monoblokov a ich opravy.
+- 6.04. Opravy zubných náhrad, zhotovovanie snímateľných náhrad, zhotovenie jednoduchých ortopedických platní a monoblokov a ich opravy bez použitia špeciálnych materiálov.
 
 - 6.05. Asistencia pri príprave liečivých prípravkov, sledovanie uloženia liekov a zdravotníckeho materiálu, sledovanie doby ich použiteľnosti, výdaj voľnopredajných liekov a zdravotníckeho materiálu a potrieb, výdaj doplnkového sortimentu lekárne, podiel na laboratórnych prácach pri kontrole liečiv a obsluha technických zariadení a prístrojov pri príprave liečiv.
 
-- 6.06. Odborné liečebné rehabilitačné výkony na úseku liečebnej telesnej výchovy, fyzikálnej terapie a liečby prácou, vykonávanie jednoduchých kineziologických rozborov, vrátane samostatného rozpracovávania určených rehabilitačných postupov.
+- 6.06. Odborné liečebné rehabilitačné výkony na úseku liečebnej telesnej výchovy, fyzikálnej terapie a liečby prácou, vykonávanie jednoduchých kineziologických rozborov.
 
 - 6.07. Zabezpečovanie sociálnej anamnézy a sprostredkovanie sociálnej a právnej pomoci a zdravotno-sociálnych služieb chorým.
 
@@ -1612,11 +1614,13 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 6.14. Spolupráca s lekárom pri predpisovaní a príprave diét, umelej výživy a potravinových zmesí v zdravotníckych zariadeniach a zariadeniach sociálnej starostlivosti, práca sestry v mliečnej kuchyni.
 
-- 6.15. Individuálne zhotovovanie, stavba, skúšanie špeciálnych typov prístrojov, protéz a liečebných pomôcok mimoriadnych konštrukcií, napr. po exartikulácii bedrových kĺbov a pod.
+- 6.15. Individuálne zhotovovanie prístrojov, protéz a liečebných pomôcok na skúšku, zhotovovanie vzoriek, výkroj zvrškov a zhotovovanie ortopedickej obuvi, individuálna výroba podľa merných podkladov.
 
-- 6.16. Zhotovovanie vzoriek, výkroj zvrškov a zhotovovanie spodkov ťažkej ortopedickej obuvi, individuálna výroba podľa nákresov.
+- 6.16. Zhotovovanie protéz, prístrojov a objímkových prístrojov pre končatiny, individuálna výroba podľa merných podkladov alebo sadrových negatívov, základné pracovné postupy a ručné práce v oblasti celej ortopedickej protetiky.
 
 - 6.17. Zber a spracovanie anamnestických údajov potrebných na sledovanie a analýzu verejného zdravia.
+
+- 6.18. Sledovanie a hodnotenie zdravotno-výchovných výkonov stredných zdravotníckych pracovníkov; príprava podkladov pre určenie edičných plánov a zabezpečenie účelnej distribúcie zdravotno-výchovného materiálu.
 
 - 7. PLATOVÁ TRIEDA
 
@@ -1624,25 +1628,19 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 7.01. Samostatné ošetrovanie chorých na lôžkových zložkách zdravotníckych zariadení a zverencov a obyvateľov na lôžkových častiach ústavov sociálnej starostlivosti.
+- 7.01. Samostatné ošetrovanie chorých v zdravotníckych zariadeniach a zverencov a obyvateľov ústavov sociálnej starostlivosti; výkon návštevnej služby.
 
-- 7.02. Ošetrovanie, prípadne asistencia pri ošetrovaní a vyšetrovaní chorých v ordináciách praktických detských a dorastových lekárov; výkon návštevnej služby v rodinách a na pracoviskách.
-
-- 7.03. Sledovanie a hodnotenie zdravotno-výchovných výkonov stredných zdravotníckych pracovníkov; príprava podkladov pre určenie edičných plánov a zabezpečenie účelnej distribúcie zdravotno-výchovného materiálu.
+- 7.02. Ošetrovanie, prípadne asistencia pri ošetrovaní a vyšetrovaní chorých v ordináciách.
 
 - 7.04. Spolupráca pri zložitých funkčných diagnostických a terapeutických vyšetreniach na audiologických, ortopedických, endoskopických, genetických, rádioizotopických a podobných pracoviskách, v plazmových odberových boxoch.
 
-- 7.05. Cielené tomografické vyšetrenia, špeciálne vyšetrenia pre lokalizáciu cudzích telies, špeciálne kontrastné vyšetrenia (pneumoencefalografia, perimyelografia, splenoportografia, celebrárna angiografia, RTG vyšetrenie srdca a veľkých ciev) zvlášť náročné práce súvisiace s rádioizotopovými vyšetrovacími metódami.
-
 - 7.06. Špecializované laboratórne vyšetrenia vrátane výpočtu a analýzy nameraných hodnôt, napr. toxikologické a pod; podiel na špeciálnom laboratórnom zabezpečovaní pri liečebno-preventívnej starostlivosti (resuscitácie a pod.).
 
-- 7.07. Vykonávanie špecializovaných genetických, cytogenetických a nukleárno genetických špecializovaných farbiacich metód, napr. neurohistologických, histologických a náročných laboratórnych prác na úseku histológie, samostatné odčítanie predbežných cytologických výsledkov.
-
-- 7.08. Príprava individuálne zložitých pôd pre diagnostiku, diferenciáciu, elimináciu a pod. na úseku laboratórnych služieb hygienickej stanice, vykonávanie vysokokvalifikovaných prác spojených s používaním zložitých laboratórnych prístrojov a vyšetrovacích metód vo všetkých odboroch mikrobiológie a hygieny.
+- 7.08. Príprava individuálne zložitých pôd pre diagnostiku, diferenciáciu, elimináciu a pod. na úseku laboratórnych služieb hygienickej stanice.
 
 - 7.09. Samostatná odborná práca pri zabezpečovaní liečebnej výživy pacientom na lôžkových oddeleniach, spolupráca pri príprave a podávaní tekutej výživy a potravinových zmesí a pri predpisovaní liečebnej výživy a podávaní špeciálnych diét.
 
-- 7.10. Práce s vyšetrovacími prístrojmi na úseku nukleárnej medicíny, najmä so scintigrafom, gamakamerou a ďalšími špeciálnymi prístrojmi; vykonávanie osobitne náročných autorádiografických a fotografických prác súvisiacich s rádioizotopovými vyšetrovacími metódami.
+- 7.10. Vyšetrovacie práce s prístrojmi na úseku nukleárnej medicíny, rádiologické vyšetrenia a zhotovovanie snímok a skiagrafických vyšetrení.
 
 - 7.11. Zhotovovanie protézových náhrad všetkých tried (snímacích i fixných) z drahých a náhradných kovov a iných špeciálnych materiálov, zhotovenie špeciálnych platní a aktivátorov, vykonávanie špeciálnych ortodontických prác.
 
@@ -1650,9 +1648,9 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 7.13. Ošetrovateľská starostlivosť na operačných sálach, ARO, JIS a RZP.
 
-- 7.14. Ošetrovateľská starostlivosť o deti a pacientov v detských sanatóriách vrátane fyzikálnej terapie a jednoduchej rehabilitácie.
+- 7.14. Komplexná ošetrovateľská starostlivosť o deti a pacientov v detských sanatóriách vrátane fyzikálnej terapie a jednoduchej rehabilitácie; komplexná hygienická, ošetrovateľská a výchovná činnosť s deťmi predškolského veku v ústavoch sociálnej starostlivosti pre mentálne a telesne postihnutých a telesne postihnuté deti a mládež čiastočne mobilné v lôžkových zdravotníckych zariadeniach.
 
-- 7.15. Výdaj liekov a ostatných voľnopredajných prípravkov; spolupráca s lekárnikom pri výdaji liekov na lekársky predpis, samostatná príprava liekov na lekársky predpis, pokiaľ neobsahujú účinné a veľmi silno účinné liečivá, príprava skúmadiel na laboratórne účely; na oddeleniach nukleárnej medicíny príprava rádiofarmák z generátorov a kitov.
+- 7.15. Výdaj voľnopredajných liekov a ostatných voľnopredajných prípravkov; spolupráca s lekárnikom pri výdaji liekov na lekársky predpis, samostatná príprava liekov na lekársky predpis, pokiaľ neobsahujú účinné a veľmi silno účinné liečivá.
 
 - 7.16. Špecializované vyšetrenie na úseku klinickej biochémie, zložitejšie toxikologické vyšetrenia, hematologické a imunohematologické vyšetrenia (diferencovanie patologických krvných obrazov, kostnej drene, uzlín) a zložitejšie hemakoagulačné testy.
 
@@ -1674,9 +1672,9 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 7.25. Spolupráca pri psychoterapii v krízových situáciách pacientov a práca v terapeutických kluboch.
 
-- 7.26. Ožarovanie podľa ožarovacích plánov pomocou rôznych typov ožarovačov; kalibračné meranie ožarovačov, zhotovovanie špeciálnych ožarovacích pomôcok pre hĺbkovú terapiu alebo terapiu pomocou uzavretých alebo otvorených žiaričov.
+- 7.26. Základné ožarovanie pacientov podľa ožarovacích plánov pomocou rôznych typov ožarovačov.
 
-- 7.27. Vykonávanie analýzy liečiv, skúšok na mikrobiologickú nezávadnosť a sterilitu, prípadne mikrobiologické hodnotenie liečiv.
+- 7.27. Zložité ortopedicko-protetické práce a úprava liečebných pomôcok, zhotovovanie a redresné upravovanie prístrojov, protéz a ortéz, zložité bandážne a obuvnícke práce a zhotovovanie zložitých liečebných pomôcok a ortéz axiálneho skeletu.
 
 - 7.28. Výdaj úplného sortimentu zdravotníckych potrieb a liečivých rastlín voľne predajných i na lekársky predpis pre zdravotnícke zariadenia, obyvateľstvo a veterinárnu službu.
 
@@ -1694,7 +1692,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 8.01. Vysokošpecializované a náročné odborné činnosti pri lôžku pri resuscitácii a intenzívnej starostlivosti o chorých s použitím zložitých prístrojov, nástrojov a náročných pracovných metód.
+- 8.01. Vysokošpecializované a náročné odborné činnosti pri resuscitácii a intenzívnej starostlivosti o chorých s použitím zložitých prístrojov, nástrojov a náročných pracovných metód.
 
 - 8.02. Odborné špecializované ošetrovateľské práce spojené s prípravou a vykonaním operácie, inštrumentovanie pri zložitých operáciách na operačnej sále s použitím zložitej zdravotníckej techniky.
 
@@ -1712,13 +1710,13 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 8.09. Náročný individuálny liečebný telocvik, najmä polohovanie paretických a plegických chorých, vykonávanie posilňovacích cvikov a rozcvičovania, klasických a reflexných masáží na vybraných pracoviskách nemocníc, v rehabilitačných ústavoch a zariadeniach osobitnej starostlivosti.
 
-- 8.10. Vykonávanie bežného hygienického dozoru a vyšetrovanie v teréne vrátane ukladania blokových pokút a vydávanie záväzných pokynov.
+- 8.10. Vykonávanie hygienického dozoru a vyšetrovanie v teréne vrátane ukladania blokových pokút a vydávanie záväzných pokynov.
 
 - 8.11. Spolupráca pri vyslobodzovaní osôb pri rôznych haváriách, samostatné poskytovanie neodkladnej starostlivosti (intubácia, kardiopulmonálna resuscitácia, podávanie infúzie, punkcia pneumothoraxu, fixácia zlomenín a pod.); zabezpečovanie odborného transportu zranených.
 
 - 8.12. Výkon všetkých zubotechnických úkonov, spolupráca s organizáciami pri vývoji nástrojov, prístrojov a materiálov doma i v zahraničí vrátane školiacej a dozornej práce na úseku zubnej protetiky.
 
-- 8.13. Odborné špecializované ošetrovateľské práce na traumatologických, onkologických, kardiologických, neurochirurgických, geriatrických anesteziologických oddeleniach a JIS.
+- 8.13. Odborné špecializované ošetrovateľské práce na traumatologických, onkologických, kardiologických, neurochirurgických, geriatrických anesteziologických oddeleniach a JIS a akútnych psychiatrických, septických, popáleninových, detských nedonoseneckých oddeleniach a pod.
 
 - 8.14. Odborné špecializované ošetrovateľské práce a náročné odborné činnosti v lôžkových zariadeniach ústavov sociálnej starostlivosti.
 
@@ -1728,25 +1726,35 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 8.17. Spolupráca pri príprave programov verejného zdravia a jeho samostatné prerokovávanie so štátnymi a samosprávnymi orgánmi a kontrola ich plnenia vrátane referenčnej, poradenskej a konzultačnej činnosti.
 
+- 8.18. Cielené zobrazovacie vyšetrenia, špeciálne vyšetrenia na lokalizáciu cudzích telies, špeciálne kontrastné vyšetrenia (pneumoencefalografia, perimyelografia, splenoportografia, celebrárna angiografia, rtg vyšetrenie srdca a veľkých ciev), osobitne náročné práce súvisiace s rádioizotopovými vyšetrovacími metódami.
+
+- 8.19. Vykonávanie špecializovaných genetických, cytogenetických a nukleárno genetických špecializovaných farbiacich metód, napr. neurohistologikých, histologických a náročných laboratórnych prác na úseku histológie, samostatné odčítavanie predbežných cytologických výsledkov.
+
+- 8.20. Vykonávanie vysokokvalifikovaných prác spojených s používaním zložitých laboratórnych prístrojov a vyšetrovacích metód vo všetkých odboroch mikrobiológie a hygieny.
+
+- 8.21. Príprava skúmadiel na laboratórne účely; na oddeleniach nukleárnej medicíny príprava rádiofarmák z generátorov a kitov.
+
+- 8.22. Kalibračné meranie ožarovačov, zhotovovanie špeciálnych ožarovacích pomôcok pre hĺbkovú terapiu alebo terapiu pomocou uzavretých alebo otvorených žiaričov.
+
 - 9. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: vysokoškolské
 
 - Príklady pracovných činností:
 
-- 9.01. Diagnostická a liečebná činnosť konaná lekárom do získania špecializácie I. stupňa pod vedením kvalifikovanejšieho lekára určeného primárom v zdravotníckom zariadení a v zariadeniach ústavov sociálnej starostlivosti, vrátane konziliárnej činnosti, posudzovania pracovnej neschopnosti a pod.
+- 9.01. Diagnostická a liečebná činnosť konaná lekárom pod vedením kvalifikovanejšieho lekára v zdravotníckom zariadení a v zariadeniach ústavov sociálnej starostlivosti.
 
-- 9.02. Príprava liečiv, kontrola kvality liekov v lekárni, príprava sterilných liekov a očných kvapiek a mastí, konzultačná a informačná činnosť o liekoch, dozor nad dodržiavaním predpisov správnej výrobnej praxe, liekopisov a pod; výdaj liekov na lekársky predpis a žiadanky s odbornou informáciou pacientovi a poradenskou činnosťou, dávkovanie lieku, inkontability a interakcie, vykonávaná lekárnikom do získania špecializácie I. stupňa.
+- 9.02. Príprava liečiv, kontrola kvality liekov v lekárni, príprava sterilných liekov a očných kvapiek a mastí, konzultačná a informačná činnosť o liekoch, dozor nad dodržiavaním predpisov správnej výrobnej praxe, liekopisov a pod; výdaj liekov na lekársky predpis a žiadanky s odbornou informáciou pacientovi a poradenskou činnosťou, dávkovanie lieku, inkontability a interakcie, vykonávaná lekárnikom pod vedením kvalifikovanejšieho lekárnika.
 
-- 9.03. Vykonávanie najzložitejších prác pri oživovaní a uvádzaní zložitých elektronických a iných prístrojov do prevádzky, ich udržiavanie v bezporuchovom stave na najexponovanejších pracoviskách - jednotky intenzívnej starostlivosti, poúrazové oddelenia, ARO, traumatologické, srdcovocievne, onkologické a podobné oddelenia a pracoviská.
+- 9.03. Vykonávanie zložitých prác pri oživovaní a uvádzaní zložitých elektronických a iných prístrojov do prevádzky, ich udržiavanie v bezporuchovom stave.
 
-- 9.04. Samostatný výkon náročných odborných prác v príslušných odboroch hygieny, epidemiológie, mikrobiológie a liečebno-preventívnej činnosti vrátane činnosti konziliárnej, expertíznej a poradenskej.
+- 9.04. Samostatný výkon odborných prác v príslušných odboroch hygieny, epidemiológie, mikrobiológie a liečebno-preventívnej činnosti.
 
-- 9.05. Samostatné vykonávanie výchovnej a poradenskej činnosti zameranej na podporu socializácie a resocializácie zverencov.
+- 9.05. Samostatné vykonávanie výchovnej a poradenskej činnosti zameranej na podporu socializácie a resocializácie zverencov a pacientov.
 
-- 9.06. Samostatné vykonávanie odborných náročných prác na rôznych úsekoch liečebno-preventívnej starostlivosti a farmácie, kde platný predpis pripúšťa prácu zamestnanca s iným odborným vzdelaním.
+- 9.06. Samostatné vykonávanie odborných prác na rôznych úsekoch liečebno-preventívnej starostlivosti a farmácie, kde platný predpis pripúšťa prácu zamestnanca s iným odborným vzdelaním.
 
-- 9.07. Psychologické vyšetrenia pod vedením kvalifikovaného psychológa.
+- 9.07. Psychologické vyšetrenia pod vedením kvalifikovaného psychológa a samostatná práca logopéda.
 
 - 10. PLATOVÁ TRIEDA
 
@@ -1754,25 +1762,25 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 10.01. Samostatný výkon náročných odborných prác v ambulantných zložkách zdravotníckych zariadení, v zariadeniach ústavov sociálnej starostlivosti a v kúpeľných organizáciách, na lôžkových zdravotníckych oddeleniach, v odbore liečebno-preventívnej starostlivosti na oddeleniach NsP, na úseku primárnej ochrany zdravia.
+- 10.01. Samostatný výkon náročných odborných prác, vrátane konziliárnej činnosti, v zdravotníckych zariadeniach, v zariadeniach ústavov sociálnej starostlivosti a v kúpeľných organizáciách, na úseku primárnej ochrany zdravia, po získaní I. špecializácie.
 
-- 10.02. Zabezpečovanie poradenskej a metodickej činnosti v lekárenskej službe, kontrola, dispenzárna činnosť a zabezpečovanie dodržiavania predpisov správnej výrobnej praxe, liekopisov, noriem a pod.
+- 10.02. Zabezpečovanie poradenskej a metodickej činnosti v lekárenskej službe, kontrola, dispenzárna činnosť a zabezpečovanie dodržiavania predpisov správnej výrobnej praxe, liekopisov, noriem a pod. po získaní I. špecializácie.
 
-- 10.03. Kontrola kvality liečiv v lekárni, odber vzoriek pre laboratórium na kontrolu liečiv, vykonávanie zložitých analytických prác, atestov a analýz v lekárni, kontrola prístrojov a zariadení a pod.; metodická, poradenská a dispenzárna činnosť v lekárenskej službe.
+- 10.03. Kontrola kvality liečiv v lekárni, odber vzoriek pre laboratórium na kontrolu liečiv, vykonávanie zložitých analytických prác, atestov a analýz v lekárni, kontrola prístrojov a zariadení a pod.; metodická, poradenská a dispenzárna činnosť v lekárenskej službe po získaní I. špecializácie.
 
-- 10.04. Samostatný výkon náročných odborných prác na príslušných úsekoch hygienickej služby, epidemiológie a mikrobiológie, vykonávanie opatrení na úseku boja proti prenosným chorobám.
+- 10.04. Samostatný výkon náročných odborných prác na príslušných úsekoch hygienickej služby, epidemiológie a mikrobiológie, vykonávanie opatrení na úseku boja proti prenosným chorobám po získaní I. špecializácie.
 
-- 10.05. Vykonávanie špeciálnych laboratórnych prác, spolupráca pri zavádzaní nových vyšetrovacích metód v hygienickej službe a na ostatných úsekoch liečebno-preventívnej činnosti.
+- 10.05. Vykonávanie špeciálnych laboratórnych prác, spolupráca pri zavádzaní nových vyšetrovacích metód v hygienickej službe a na ostatných úsekoch liečebno-preventívnej činnosti po získaní I. špecializácie.
 
-- 10.06. Poskytovanie základnej liečebno-preventívnej starostlivosti, vrátane posudkovej činnosti, obyvateľstvu v určenom územnom alebo závodnom obvode, deťom a dorastu v kolektívnych zariadeniach pre deti,
+- 10.06. Poskytovanie základnej liečebno-preventívnej starostlivosti, vrátane konziliárnej a posudkovej činnosti, obyvateľstvu v určenom územnom alebo závodnom obvode, deťom a dorastu v kolektívnych zariadeniach pre deti po získaní I. špecializácie.
 
 - 10.07. Samostatná práca psychológa na úseku klinickom a poradenskom (psychodiagnostika, psychoterapia a iné).
 
-- 10.08. Spolupráca s pedagógmi, majstrami a vychovávateľmi dorastu, potrebná na zabezpečenie adaptácie na pracovné prostredie.
+- 10.08. Spolupráca s pedagógmi, majstrami a vychovávateľmi dorastu, potrebná na zabezpečenie adaptácie na pracovné prostredie po získaní I. špecializácie.
 
-- 10.09. Zabezpečovanie odbornej liečebnej starostlivosti v určenom území alebo závodnom obvode v odbore starostlivosti o ženu a v stomatológii.
+- 10.09. Zabezpečovanie odbornej liečebnej starostlivosti v určenom území alebo závodnom obvode v odbore starostlivosti o ženu a v stomatológii po získaní I. špecializácie.
 
-- 10.10. Najzložitejšie práce pri oživovaní a uvádzaní zložitých elektronických a iných prístrojov do prevádzky, ich udržiavanie v bezporuchovej prevádzke na najexponovanejších pracoviskách (JIS, poúrazové oddelenia a pod.) vrátane nastavovania parametrov, dávok žiarenia a pod. pri priamej účasti na zložitých zdravotníckych výkonoch.
+- 10.10. Najzložitejšie práce pri oživovaní a uvádzaní zložitých elektronických a iných prístrojov do prevádzky, ich udržiavanie v bezporuchovej prevádzke na najexponovanejších pracoviskách (JIS, poúrazové oddelenia a pod.) vrátane nastavovania parametrov, dávok žiarenia a pod. pri priamej účasti na zložitých zdravotníckych výkonoch po získaní I. špecializácie.
 
 - 11. PLATOVÁ TRIEDA
 
@@ -1780,13 +1788,15 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 11.01. Konziliárna činnosť a podiel na úzko špecializovanej liečebno-preventívnej činnosti v odbore LPS a v lekárenskej službe.
+- 11.01. Samostatné vykonávanie náročných zdravotníckych zákrokov a činností v zdravotníckych zariadeniach po získaní II. špecializácie, vrátane výkonu konziliárnej činnosti, a účasť na ďalšom vzdelávaní a odbornej príprave zamestnancov napr. na získanie I. špecializácie a pod.
 
-- 11.02. Samostatné vykonávanie náročných zdravotníckych zákrokov a činností na lôžkových oddeleniach, súčinnosť pri riadení, ďalšom vzdelávaní a kontrole práce sekundárnych lekárov, výkon konziliárnej činnosti.
+- 11.02. Samostatný výkon najnáročnejších odborných alebo úzko špecializovaných prác v jednotlivých odboroch činnosti farmácie alebo nemocničných lekárňach po získaní II. špecializácie (napr. práce v oddelení klinickej farmácie, v oddelení prípravy sterilných liečiv), podiel na vedení úzko špecializovaných odborov a výchove farmaceutov, zaradených do špecializačných príprav.
 
-- 11.03. Poskytovanie liečebno-preventívnej starostlivosti spojenej s výučbovou činnosťou, vykonávanie vysokoodborných a náročných diagnostických a liečebných prác spojených s používaním zložitých prístrojov zdravotníckej techniky na lôžkových zdravotníckych oddeleniach.
+- 11.03. Samostatný výkon najnáročnejších a vysokošpecializovaných odborných prác po získaní II. špecializácie v lekárskych odboroch hygieny, epidemiológie, mikrobiológie, preventívneho pracovného lekárstva a pod., vrátane vedenia odborov a ich koordinácie, poradenskej, analytickej a posudkovej činnosti vrátane účasti na výchove odborných zamestnancov.
 
-- 11.04. Spolupráca s orgánmi a organizáciami pri vytváraní zdravých životných podmienok pre obyvateľstvo, vydávanie záväzných pokynov a zabezpečovanie opatrení proti vzniku a šíreniu prenosných chorôb a chorôb z povolania.
+- 11.04. Spolupráca s orgánmi a organizáciami pri vytváraní zdravých životných podmienok pre obyvateľstvo, vydávanie záväzných pokynov a zabezpečovanie opatrení proti vzniku a šíreniu prenosných chorôb a chorôb z povolania po získaní II. špecializácie.
+
+- 11.05. Samostatné vykonávanie najnáročnejších a vysokošpecializovaných odborných prác zamestnancom s iným odborným vzdelaním po získaní II. špecializácie na úsekoch liečebno-preventívnej starostlivosti a hygienickej služby.
 
 - 12. PLATOVÁ TRIEDA
 
@@ -1822,9 +1832,9 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 4.01. Odborné rutinné práce pri hygiene, sebaobsluhe a výchove detí predškolského veku.
+- 4.01. Odborné rutinné práce pri hygiene, sebaobsluhe a výchove detí predškolského a školského veku vykonávaná pomocným vychovávateľom.
 
-- 4.02. Odborné procesy viažúce sa na upevňovanie hygienických návykov, skvalitnenie spoločenského správania sa mládeže; dohľad a kontrola zdravotného stavu ubytovaných.
+- 4.02. Odborné procesy viažúce sa na upevňovanie hygienických návykov, skvalitnenie spoločenského správania sa mládeže vykonávané pomocným vychovávateľom; dohľad a kontrola zdravotného stavu ubytovaných.
 
 - 5. PLATOVÁ TRIEDA
 
@@ -1832,15 +1842,13 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 5.01. Odborné procesy vzťahujúce sa na upevňovanie hygienických návykov, skvalitnenie spoločenského správania sa mládeže, dohľad a kontrola zdravotného stavu ubytovaných v zariadeniach pre fyzicky a mentálne postihnutú a ťažko vychovávateľnú mládež.
+- 5.01. Odborné procesy vykonávané pomocným vychovávateľom vzťahujúce sa na upevňovanie hygienických návykov, skvalitnenie spoločenského správania sa detí a mládeže, dohľad a kontrola zdravotného stavu ubytovaných v zariadeniach pre fyzicky a mentálne postihnutú a ťažko vychovávateľnú mládež.
 
 - 6. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: úplné stredné
 
 - Príklady pracovných činností:
-
-- 6.01. Výchovná činnosť zameraná na vytváranie návykov sebaobsluhy, hygieny a celkový rozvoj socializácie dieťaťa.
 
 - 6.02. Prednášanie látky (textov) podľa osnov a pokynov.
 
@@ -1850,13 +1858,15 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 7.01. Mimoškolská výchova a vzdelávanie detí, rozvíjajúca záujmovú činnosť detí a mládeže a systematicky doplňujúca školskú výučbu.
+- 7.01. Výchova a vzdelávanie detí a mládeže vo voľnom čase, rozvíjajúca záujmovú a rekreatívnu činnosť detí a mládeže a systematicky doplňujúca školskú výučbu, vykonávaná vychovávateľom do splnenia podmienok určených všeobecne záväzným právnym predpisom.
 
 - 7.02. Výučba v záujmových kurzoch (hudobných, výtvarných, pohybovej kultúry a pod); zabezpečovanie prípravy audiovizuálnych programov.
 
 - 7.03. Rozvíjanie tvorivých schopností mládeže a organizovanie rozmanitých činností v oblasti spoločenských a prírodných vied, techniky a i.
 
-- 7.04. Výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov detí predškolského veku.
+- 7.04. Výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov detí predškolského veku vykonávaná učiteľkou materskej školy.
+
+- 7.05. Odborné práce súvisiace s materiálnou a organizačnou prípravou na demonštračné vyučovanie na stredných školách, vykonávané asistentom.
 
 - 8. PLATOVÁ TRIEDA
 
@@ -1864,13 +1874,13 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 8.01. Komplexná výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov detí vo veku do skončenia povinnej školskej dochádzky s využitím špecifických, diagnostických, vzdelávacích a kontrolných metód, vykonávaná učiteľom do vykonania skúšky podľa osobitného predpisu a vychovávateľom.
+- 8.01. Komplexná výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov detí s využitím špecifických, diagnostických, vzdelávacích a kontrolných metód, vykonávaná učiteľom základnej školy, špeciálnej školy a strednej školy a vychovávateľom základnej internátnej školy, v detskom domove, výchovnom ústave mládeže, špeciálnej internátnej školy, diagnostickom ústave, strednom odbornom učilišti a ústave sociálnej starostlivosti, a komplexná výchovno-vzdelávacia činnosť spojená s poradenskou činnosťou, vykonávaná vychovávateľom v klube detí, stredisku voľného času pri školách a v záujmovom klube.
 
-- 8.02. Metodické a koncepčné práce v zariadeniach predškolskej výchovy.
+- 8.02. Komplexná výchovno-vzdelávacia činnosť vykonávaná učiteľkou materskej školy, zameraná na rozširovanie vedomostí, zručnosti a návykov detí predškolského veku, spojená s metodickou a poradenskou činnosťou.
 
-- 8.03. Komplexná výchovná a vzdelávacia činnosť zameraná na vedenie odborného výcviku v špecifických podmienkach na strednom odbornom učilišti.
+- 8.03. Komplexná výchovná a vzdelávacia činnosť vykonávaná majstrom odbornej výchovy zameraná na vedenie odborného výcviku na strednom odbornom učilišti, odbornom učilišti, učilišti a stredisku praktického vyučovania.
 
-- 8.04. Zabezpečovanie odbornej metodickej a trenérskej činnosti, spracúvanie programov telovýchovnej a športovej činnosti, usmerňovanie prípravy športovcov.
+- 8.04. Zabezpečovanie odbornej metodickej a trenérskej činnosti inštruktorom telesnej výchovy, spracúvanie programov telovýchovnej a športovej činnosti, usmerňovanie prípravy športovcov.
 
 - 8.05. Výučba v špeciálne zameraných odborných kurzoch jazykových, výtvarných, hudobných a pod.
 
@@ -1882,9 +1892,9 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 9.01. Komplexná výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov detí vo veku do skončenia povinnej školskej dochádzky s využitím špecifických, diagnostických, vzdelávacích a kontrolných metód vykonávaná učiteľom, prípadne iným odborným pracovníkom po vykonaní skúšky podľa osobitného predpisu.
+- 9.01. Komplexná výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov detí na základnej škole, špeciálnej škole a strednej škole s využitím špecifických, diagnostických, vzdelávacích a kontrolných metód vykonávaná učiteľom po splnení podmienok určených všeobecne záväzným právnym predpisom.
 
-- 9.02. Komplexná výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov žiakov vo veku od ukončenia povinnej školskej dochádzky do ukončenia štúdia na strednej škole s využitím špecifických diagnostických vzdelávacích a kontrolných metód, vykonávaná učiteľom do vykonania skúšky podľa osobitného predpisu a vychovávateľom.
+- 9.02. Komplexná výchovná a vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností detí a mládeže v oblasti spoločenských a prírodných vied a techniky, spracúvanie programov výchovnej a záujmovej činnosti a poradenská činnosť, vykonávaná vychovávateľom domu detí a mládeže, domova mládeže, diagnostického ústavu, internátneho zariadenia s nepretržitou prevádzkou a ústavu sociálnej starostlivosti.
 
 - 9.03. Komplexné zabezpečovanie metodickej a trenérskej činnosti pri usmerňovaní prípravy republikových reprezentantov, športovcov stredísk vrcholového športu a ostatných športovcov najnáročnejších športových odvetví, vrátane spracovania programov a priameho vedenia činnosti.
 
@@ -1892,9 +1902,11 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 9.05. Výučba v jazykových kurzoch na jazykových školách.
 
-- 9.06. Komplexná vzdelávacia činnosť zameraná na vykonávanie prípravných prác a aktívnu účasť na cvičeniach a ostatných vzdelávacích a vedeckých alebo umeleckých činnostiach vysokej školy; dokumentačné spracovanie odbornej a vedeckej literatúry.
+- 9.06. Komplexná vzdelávacia činnosť zameraná na vykonávanie prípravných prác a aktívnu účasť na cvičeniach a ostatných vzdelávacích a vedeckých alebo umeleckých činnostiach vysokej školy vykonávaná učiteľom vysokej školy; dokumentačné spracovanie odbornej a vedeckej literatúry.
 
 - 9.07. Rozpracovanie koncepcie metodickej činnosti vzdelávania a ďalšieho zdokonaľovania pedagogických zamestnancov a jej uskutočňovanie.
+
+- 9.08. Vykonávanie inšpekcií materských a základných škôl.
 
 - 10. PLATOVÁ TRIEDA
 
@@ -1902,15 +1914,17 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 10.01. Komplexná výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov žiakov vo veku od ukončenia povinnej školskej dochádzky do ukončenia štúdia na strednej škole, príp. výučba dospelých v štúdiu popri zamestnaní, s využitím špecifických diagnostických vzdelávacích a kontrolných metód po vykonaní skúšky podľa osobitného predpisu.
+- 10.01. Komplexná výchovno-vzdelávacia činnosť zameraná na rozširovanie vedomostí, zručnosti a návykov detí na základnej škole, špeciálnej škole a strednej škole, príp. výučba dospelých v štúdiu popri zamestnaní, s využitím špecifických diagnostických vzdelávacích a kontrolných metód, po vykonaní skúšky podľa osobitného všeobecne záväzného právneho predpisu.
 
 - 10.02. Tvorba koncepcie metodickej činnosti, vzdelávania a ďalšieho zdokonaľovania pedagogických zamestnancov a jej uskutočňovanie.
 
-- 10.03. Komplexný rozvoj poznávacích a tvorivých schopností študentov vysokej školy, vedenie cvičení, seminárov, exkurzií; priebežná kontrola štúdia a poskytovanie konzultácií, spolupráca na vedeckovýskumnej činnosti pracoviska, spoluautorstvo pri aktívnych výstupoch z vedeckovýskumnej činnosti.
+- 10.03. Komplexný rozvoj poznávacích a tvorivých schopností študentov vysokej školy, vedenie cvičení, seminárov, exkurzií učiteľom vysokej školy; priebežná kontrola štúdia a poskytovanie konzultácií, spolupráca na vedeckovýskumnej činnosti pracoviska, spoluautorstvo pri aktívnych výstupoch z vedeckovýskumnej činnosti.
 
 - 10.04. Komplexné zabezpečovanie najnáročnejšej metodickej a trénerskej činnosti pri usmerňovaní prípravy štátnych športových reprezentantov, športovcov vo vysokoškolských športových centrách a športovcov športových škôl; spracovanie programov a priame vedenie športovej prípravy.
 
-- 10.05. Výkon psychodiagnostickej a psychoterapeutickej činnosti pre zdravotne postihnutých a ťažko vychovateľných jedincov v nadväznosti na výchovno-vzdelávací proces; určenie preventívnych a diagnostických postupov k jednotlivým prípadom.
+- 10.05. Výkon psychodiagnostickej a psychoterapeutickej činnosti pre deti a mládež, pre zdravotne postihnutých a ťažko vychovateľných jedincov v nadväznosti na výchovno-vzdelávací proces zabezpečovanej školským psychológom, odborným pracovníkom pedagogicko-psychologickej poradne, špeciálnej pedagogicko-psychologickej poradne, diagnostického ústavu a špeciálnej školy; určenie preventívnych a diagnostických postupov k jednotlivým prípadom.
+
+- 10.06. Koordinácia činností školských inšpektorov materských a základných škôl a vykonávanie inšpekcií stredných škôl.
 
 - 11. PLATOVÁ TRIEDA
 
@@ -1918,7 +1932,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 11.01. Tvorivé riešenie najzložitejších výskumných a vývojových úloh alebo tvorivá aplikácia výsledkov základného výskumu spolu s komplexným rozvojom poznávacích a tvorivých schopností študentov vysokej školy prostredníctvom ich účasti na výskume; vedenie prednášok, expertízna, publikačná a posudzovateľská činnosť, realizácia aplikovaného a základného výskumu, vedenie a oponovanie seminárnych, diplomových a vedeckých prác.
+- 11.01. Tvorivé riešenie najzložitejších výskumných a vývojových úloh alebo tvorivá aplikácia výsledkov základného výskumu spolu s komplexným rozvojom poznávacích a tvorivých schopností študentov vysokej školy prostredníctvom ich účasti na výskume; vedenie prednášok, expertízna, publikačná a posudzovateľská činnosť, realizácia aplikovaného a základného výskumu, vedenie a oponovanie seminárnych, diplomových a vedeckých prác vykonávané učiteľom vysokej školy.
 
 - 12. PLATOVÁ TRIEDA
 
@@ -1926,7 +1940,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 12.01. Tvorivé špecializované a systémové práce zahrňujúce sledovanie rozhodujúcich trendov vývoja vedy a výskumu, tvorivá aplikácia výsledkov vedeckovýskumnej činnosti do vysokoškolskej výučby a do výchovy vedeckých pracovníkov, vedenie prednášok a vytváranie podmienok pre interdisciplinárne formy práce a rozvoja príslušného vedného odboru.
+- 12.01. Tvorivé špecializované a systémové práce zahrňujúce sledovanie rozhodujúcich trendov vývoja vedy a výskumu, tvorivá aplikácia výsledkov vedeckovýskumnej činnosti do vysokoškolskej výučby a do výchovy vedeckých pracovníkov, vedenie prednášok a vytváranie podmienok pre interdisciplinárne formy práce a rozvoja príslušného vedného odboru vykonávané učiteľom vysokej školy.
 
 - E. Veda a výskum
 
@@ -2319,6 +2333,14 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 11.04. Vykonávanie špeciálnych reštaurátorských prác pri záchrane mimoriadne cenných archiválií s tvorivou aplikáciou výsledkov základného a aplikovaného výskumu.
 
 - 11.05. Riešenie najzložitejších výskumných úloh, ktoré majú zásadný význam pre rozvoj vedného odboru z oblasti archivistiky, archívnictva, historických vied.
+
+- 12. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 12.01. Riešenie najzložitejších výskumných úloh, ktoré majú zásadný význam pre rozvoj vedného odboru z oblasti archivistiky, archívnictva a historických vied.
 
 [Príloha 02](../assets/32838757a80219431ed9249c1abec3b9d1ca87f8ab4214a1e3932b8af73ad00b.pdf)
 
