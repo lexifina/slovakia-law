@@ -1,0 +1,1 @@
+- *) Pozri vyhlášku ministra zahraničného obchodu č. 122/1957 Ú. l. (Ú. v.).
