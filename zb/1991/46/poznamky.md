@@ -1,0 +1,1 @@
+- 1) § 3 nariadenia vlády Československej socialistickej republiky č. 118/1988 Zb. o mimoriadnom poskytovaní starobného dôchodku.
