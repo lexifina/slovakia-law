@@ -1,0 +1,1 @@
+Matúš Kučera v. r.
