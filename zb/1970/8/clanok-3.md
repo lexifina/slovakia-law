@@ -6,6 +6,6 @@ K § 6 zákona
 
 (2) Pokiaľ v rámci podnikovej bytovej výstavby sa budujú aj obchodné priestory, kancelárie, prevádzkárne a pod., vylúčia sa náklady na vybudovanie týchto priestorov z rozpočtovej ceny.
 
-(3) Odpočítať možno len sumy zaplatené na podnikovú bytovú výstavbu z vlastných zdrojov a z úveru čerpaného po 1. januári 1970, nie však sumy z dotácií, ktoré sa poskytli daňovníkovi na podnikovú bytovú výstavbu. Splátky úverov na podnikovú bytovú výstavbu nie sú odpočítateľnou položkou.
+(3) Odpočítať možno len sumy zaplatené na podnikovú bytovú výstavbu z vlastných zdrojov (vrátane splátok úveru na podnikovú bytovú výstavbu čerpaného do 31. decembra 1969) a z úveru čerpaného po 1. januári 1970, nie však sumy z dotácií, ktoré sa poskytli daňovníkovi na podnikovú bytovú výstavbu.
 
 (4) Ak sa združí niekoľko na vykonávanie spoločnej bytovej výstavby, tak, že jeden z nich je investorom, môžu si jednotliví účastníci odpočítať príspevok na podnikovú bytovú výstavbu podľa vyššie uvedených podmienok, a to pomernou sumou podľa výšky účasti.

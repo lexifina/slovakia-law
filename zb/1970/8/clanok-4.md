@@ -7,3 +7,5 @@ K § 9 zákona
 (2) Za účastinný kapitál v tuzemských účastinných spoločnostiach, ktorý je súčasťou majetku daňovníka podľa § 9 ods. 1 zákona, sa považuje iba splatený účastinný kapitál.
 
 (3) Zostatkovú cenu základných prostriedkov, ktorá sa odpočíta z majetku daňovníka, možno odpočítať len do výšky krytej fondom základných prostriedkov a investícií, nie však úvermi alebo inými zdrojmi.
+
+(4) Z majetku daňovníka sa odpočíta zostatková cena vstavaných objektov, ktoré slúžia výlučne na účely civilnej obrany a na zvláštne úlohy.
