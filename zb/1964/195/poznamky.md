@@ -1,1 +1,0 @@
-- *) Pozri § 32 ods. 4 zákona č. 32/1962 Zb.
