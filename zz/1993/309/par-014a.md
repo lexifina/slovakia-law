@@ -1,0 +1,11 @@
+# § 14a Osobitná úprava postupu pri nútenom predaji podliehajúcom dani
+
+(1) Právnická osoba alebo fyzická osoba, ktorá vykonala predaj vína platiteľa podľa osobitného predpisu<sup>13</sup>) na dražbe alebo iným spôsobom a z výťažku predaja uspokojuje svoju pohľadávku alebo pohľadávku inej osoby, je povinná tento predaj oznámiť daňovému úradu platiteľa najneskôr do 15 dní od konca kalendárneho mesiaca, v ktorom víno predala, a v tej istej lehote je povinná tomuto daňovému úradu zaplatiť daň.
+
+(2) Ak právnická osoba alebo fyzická osoba vykonala predaj vína podľa odseku 1 osobe, ktorá je platiteľom, vyhotoví doklad o predaji, ktorý sa považuje za daňový doklad podľa § 9. V tomto doklade okrem náležitostí daňového dokladu podľa § 9 uvedie svoje obchodné meno, sídlo alebo trvalý pobyt a právny dôvod núteného predaja vína. Kópiu tohto dokladu odovzdá platiteľovi, ktorého víno sa predalo.
+
+(3) Platiteľ, ktorého víno sa predalo spôsobom podľa odseku 1, uvedie daň, ktorá sa viaže k tejto skutočnosti, v daňovom priznaní za zdaňovacie obdobie, v ktorom daňová povinnosť vznikla, a svoju výslednú daň upraví o sumu dane, ktorú je povinná zaplatiť právnická osoba alebo fyzická osoba podľa odseku 1.
+
+(4) Ak sa víno predalo podľa odseku 1 osobe, ktorá je platiteľom, zaplatenie dane týmto platiteľom právnickej osobe alebo fyzickej osobe, ktorá vykonala predaj vína, sa považuje za zaplatenie dane platiteľovi, ktorého víno sa predalo, a za splnenie podmienky na účely nároku na vrátenie dane podľa § 11.
+
+(5) Ak sa predalo víno platiteľa pri výkone daňovej exekúcie,<sup>14</sup>) uhradí daň daňový úrad a o úhrade upovedomí platiteľa. Platiteľ dane uvedie daň, ktorá sa viaže k tejto skutočnosti, v daňovom priznaní za zdaňovacie obdobie, v ktorom daňová povinnosť vznikla, a svoju výslednú daň upraví o sumu dane, ktorú uhradil daňový úrad. Ak daňový úrad vykonal predaj vína osobe, ktorá je platiteľom, považuje sa doklad o predaji vína, ktorý vyhotovil daňový úrad, za daňový doklad podľa § 9. Zaplatenie dane daňovému úradu sa považuje za zaplatenie dane platiteľovi, ktorého víno sa predalo, a za splnenie podmienky na účely nároku na vrátenie dane podľa § 11.
