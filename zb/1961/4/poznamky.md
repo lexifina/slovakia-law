@@ -1,0 +1,1 @@
+- *) Zákon č. 41/1959 Zb. nadobudol účinnosť 22. júlom 1959. Zmeny vykonané zákonným opatrením Predsedníctva Národného zhromaždenia č. 1/1961 Zb. nadobúdajú účinnosť 24. januárom 1961.
