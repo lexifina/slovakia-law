@@ -22,4 +22,8 @@
 
 - 10) Zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení neskorších predpisov.
 
+- 10a) § 26 ods. 8 až 10 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- § 45 a 46 Zákona o rodine.
+
 - 11) § 45 ods. 3 a § 46 zákona č. 94/1963 Zb. o rodine v znení zákona č. 132/1982 Zb. a zákona č. 234/1992 Zb.
