@@ -1,0 +1,1 @@
+- 1) § 14 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
