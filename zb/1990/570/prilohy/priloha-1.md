@@ -1,1 +1,1 @@
-[Príloha vyhlášky č. 570/1990 Zb.](../assets/d87debbbd2dd168e5b6b6448eaa90002c66db5837b10f5d2b93ec09eaa605378.pdf)
+[Príloha vyhlášky č. 570/1990 Zb.](../assets/b72b0e9390e749c16eeab8e87d3b4bc0c202c5cb1896cae4d03ee1f6702b636b.pdf)
