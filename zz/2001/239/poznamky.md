@@ -48,6 +48,8 @@
 
 - 23) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
+- 23a) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb.
+
 - 24) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 25) Zákon Slovenskej národnej rady č. 511/1992 Zb.
