@@ -4,9 +4,11 @@
 
 - 3) Napríklad vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam.
 
-- 3a) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku.
+- 3a) § 4a zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 118/2002 Z. z.
 
-- 3b) § 2 ods. l Obchodného zákonníka.
+- 3b) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku.
+
+- 3c) § 2 ods. 1 Obchodného zákonníka.
 
 - 3c) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
