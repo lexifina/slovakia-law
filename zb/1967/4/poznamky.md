@@ -1,1 +1,0 @@
-- *) Odchyt zveri v dobe ochrany môže povoliť okresný národný výbor podľa § 29 ods. 3 zákona č. 23/1962 Zb. o poľovníctve.
