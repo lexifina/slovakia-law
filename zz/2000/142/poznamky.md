@@ -6,9 +6,9 @@
 
 - 4) Napríklad § 8 ods. 6 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
-- 5) § 21 ods. 4 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
-
 - 6) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 6a) Napríklad zákon č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z.
 
 - 7) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
