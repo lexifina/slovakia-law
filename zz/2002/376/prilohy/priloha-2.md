@@ -686,15 +686,15 @@
 
 - 1) Vo vyhlásení o práve prednosti v zmysle článku 88 odsek 1 sa uvedie deň skoršieho podania a štát, v ktorom alebo pre ktorý bola podaná, a podacie číslo.
 
-- 2) Deň a štát skoršieho podania musia byť uvedené pri podaní európskej patentovej prihlášky; podacie číslo musí byť uvedené pred koncom šestnásteho mesiaca po dni vzniku práva prednosti.
+- 2) Deň a štát skoršieho podania musia byť uvedené pri podaní európskej patentovej prihlášky; podacie číslo musí byť uvedené pred koncom 16. mesiaca po dni vzniku práva prednosti.
 
-- 3) Kópia skoršej prihlášky sa podáva pred uplynutím šestnásteho mesiaca po dni vzniku práva prednosti. Kópia musí byť overená ako presná kópia skoršej prihlášky úradom, ktorému bola pôvodná prihláška podaná, a musí k nej byť pripojené potvrdenie vydané týmto úradom s uvedením dňa podania skoršej prihlášky.
+- 3) Kópia skoršej prihlášky sa podáva pred uplynutím 16. mesiaca po dni vzniku práva prednosti. Kópia musí byť overená ako presná kópia skoršej prihlášky úradom, ktorému bola pôvodná prihláška podaná, a musí k nej byť pripojené potvrdenie vydané týmto úradom s uvedením dňa podania skoršej prihlášky.
 
-- 4) Prezident Európskeho patentového úradu môže rozhodnúť, že sa kópia skoršej prihlášky, ak je v Európskom patentovom úrade k dispozícii, založí do spisu európskej patentovej prihlášky, a stanoví podmienky na tento postup.
+- 4) Prezident Európskeho patentového úradu môže rozhodnúť, že sa kópia skoršej prihlášky, ak je v Európskom patentovom úrade k dispozícii, založí do spisu európskej patentovej prihlášky, a stanoví podmienky tohto postupu.
 
-- 5) Preklad skoršej prihlášky, ktorý sa požaduje na základe článku 88 odsek 1, musí byť podaný v lehote stanovenej Európskym patentovým úradom, najneskôr však v lehote podľa pravidla 51 odsek 6, alebo musí byť predložené vyhlásenie, že európska patentová prihláška je úplným prekladom skoršej prihlášky. Odsek 4 sa použije primerane.
+- 5) Preklad skoršej prihlášky, ktorý sa požaduje na základe článku 88 odsek 1, musí byť podaný v lehote stanovenej Európskym patentovým úradom, najneskôr však v lehote podľa pravidla 51 odsek 4, alebo musí byť predložené vyhlásenie, že európska patentová prihláška je úplným prekladom skoršej prihlášky. Odsek 4 sa použije primerane.
 
-- 6) Údaje, ktoré obsahuje vyhlásenie o práve prednosti sa uvedú v zverejnenej európskej patentovej prihláške a tiež v európskom patentovom spise.
+- 6) Údaje, ktoré obsahuje vyhlásenie o práve prednosti, sa uvedú v zverejnenej európskej patentovej prihláške a tiež v európskom patentovom spise.
 
 - Pravidlo 38a
 
