@@ -10,7 +10,7 @@ Príloha 1 vyhlášky č. 43/1991 Zb.
 
   - Čínska ľudová republika
 
-  - Dominikánske spoločenstvo
+  - Dominické spoločenstvo
 
   - Fidži
 
@@ -60,7 +60,7 @@ Príloha 1 vyhlášky č. 43/1991 Zb.
 
   - Štát Spojených Arabských Emirátov
 
-  - Tchajwan – provincia ČĽR
+  - Tchajwan - Čína
 
   - Tuvalu
 
