@@ -12,6 +12,8 @@
 
 - 7) Napríklad § 386, 434 až 436 zákona č. 238/2001 Z. z., § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, Trestný zákon v znení neskorších predpisov.
 
+- 7a) Opatrenie Štatistického úradu Slovenskej republiky č. 172/1995 Z. z., ktorým sa vyhlasuje Klasifikácia produkcie v znení neskorších predpisov.
+
 - 8) § 2 Obchodného zákonníka.
 
 - 9) § 6 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
