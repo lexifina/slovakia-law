@@ -1,0 +1,1 @@
+Jozef Zlocha v. r.
