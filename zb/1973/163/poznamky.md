@@ -30,6 +30,8 @@
 
 - 12) § 8 ods. 1 písm. b) a c) vyhl. č. 75/1971 Zb.
 
+- 12a) Vyhláška č. 75/1977 Zb. o opakovaných projektoch.
+
 - 13) Zásady hodnotenia efektívnosti investícií vydané Federálnym ministerstvom pre technický a investičný rozvoj (1974), smernice č. 25 Ministerstva výstavby a techniky ČSR z 30. 11. 1970 o určovaní investícií podmieňujúcich komplexnú bytovú výstavbu (oznámené v čiastke 37/1970 Zb.) a smernice č. 3 Ministerstva výstavby a techniky SSR z 30. 11. 1970 o určovaní investícií podmieňujúcich komplexnú bytovú výstavbu (Spravodajca FMTIR, čiastka 1 ročníka 1971).
 
 - 14) Obdobne ako pri postupe podľa Metodických pokynov Českej plánovacej komisie pre prípravu a prerokovanie projektových úloh z hľadiska oblastnej stránky rozvoja národného hospodárstva (Ústredný vestník Českej socialistickej republiky č. 6, čiastka 2 ročníka 1971) a Pokynov býv. Ministerstva plánovania Slovenskej socialistickej republiky pre prerokúvanie návrhov na rozmiestňovanie stavieb a prípravnej dokumentácie investormi (Spravodajca FMTIR čiastka 5 ročníka 1970).
