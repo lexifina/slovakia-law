@@ -1,25 +1,35 @@
 Príloha č. 1 vyhlášky č. 57/1979 Zb.
 
-- Sadzby náhrad za používanie vlastného osobného vozidla Druh vozidla | Obsah valcov v ccm | Sadzba náhrady za 1 km jazdy Kčs
+- Sadzby náhrad za používanie vlastného osobného vozidla A. Pri pohone vozidla na benzínovú zmes | | |
 
-- | nad do |
+- Druh vozidla | Obsah valcov v ccm | | Sadzba náhrady za 1 km jazdy v Kčs
 
-- | 1 2 | 3
+- | nad | do |
 
-- moped, motocykel, skúter | - 150 | 0,45
+- | 1 | 2 | 3
 
-- | 150 250 | 0,55
+- moped, motocykel, skúter | | 150 | 0,46
 
-- | 250 - | 0,60
+- | 150 | 250 | 0,58
 
-- motorová trojkolka, motocykel (skúter) s postranným vozíkom | - - | 0,75
+- | 250 | | 0,64
 
-- osobný automobil | 900 | 1,15
+- motorová trojkolka, motocykel (skúter) a postranným vozíkom | | | 0,80
 
-- | 900 1200 | 1,45
+- osobný (dodávkový) automobil | | 900 | 1,22
 
-- | 1200 1500 | 1,65
+- | 900 | 1200 | 1,55
 
-- | 1500 2000 | 1,85
+- | 1200 | 1500 | 1,75
 
-- | 2000 | 2,15
+- | 1500 | 2000 | 1,95
+
+- | 2000 | | 2,30
+
+- B. Pri pohone vozidla na motorovú naftu | | |
+
+- osobný (dodávkový) automobil | 1200 | 1500 | 1,13
+
+- | 1500 | 2000 | 1,31
+
+- | 2000 | | 1,50
