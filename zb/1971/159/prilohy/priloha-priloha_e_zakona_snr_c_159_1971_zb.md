@@ -40,10 +40,10 @@ Príloha E zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 17 | | vyhl. č. 149/1961 Zb. | § 16 ods. 2 | povoľovanie výstav prác ľudovej výtvarnej tvorivosti
 
-18 | sociálneho zabezpečenia | vyhl. č. 102/1964 Zb. | § 101 | rozhodovanie o príspevku na stravovanie dôchodcov
+18 | zrušené od 1.1.1976 | | |
 
-19 | | | § 102 | rozhodovanie o poskytnutí vecnej pomoci sociálne odkázaným občanom
+19 | | | |
 
-20 | | | § 103 ods. 6 | rozhodovanie o poskytnutí jednorazového peňažného príspevku
+20 | | | |
 
 21 | všeobecnej vnútornej správy | vl. nar. č. 21/1958 Zb. | § 54 ods. 1 | určovanie osôb na osobné úkony pre potreby ozbrojených síl na žiadosť vojenskej správy
