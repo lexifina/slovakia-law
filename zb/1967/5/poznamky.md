@@ -1,0 +1,1 @@
+- 1) Zákon č. 84/1958 Zb. o územnom plánovaní.
