@@ -56,7 +56,7 @@
 
 - 10) Podľa § 1 ods. 1 č. 1 písm. f) zákona č. 255/1946 Zb. je účastníkom povstania, kto sa zúčastnil na povstaní v máji 1945, pričom za bojov padol, bol ťažko ranený alebo utrpel ťažkú poruchu zdravia.
 
-- 10a) § 4 a 5 zákona č. 463/1991 Zb. o životnom minime.
+- 10a) § 46 Zákona o rodine.
 
 - 10b) § 12 a nasl. zákona č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov (úplné znenie č. 450/1992 Zb.).
 
