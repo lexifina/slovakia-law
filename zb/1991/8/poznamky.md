@@ -1,1 +1,0 @@
-- 1) Zoznam kategórií je k dispozícii na Federálnom ministerstveĺ zahraničného obchodu.
