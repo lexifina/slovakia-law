@@ -1,5 +1,7 @@
 - 1) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
+- 1a) § 36 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+
 - 2) § 71 a nasl. zákona č. 600/1992 Zb. o cenných papieroch.
 
 - 3) § 497 a nasl. Obchodného zákonníka.
