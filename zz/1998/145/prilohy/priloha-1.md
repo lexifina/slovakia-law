@@ -2,7 +2,9 @@ Príloha č. 1 k vyhláške č. 145/1998 Z. z.
 
 - Požiadavky na organoleptické a senzorické vlastnosti tokajských vín | Tokajská Lipovina | Tokajské samorodné suché | Tokajské samorodné sladké
 
-- | Tokajský Furmint | | Tokajský výber dvojputňový až šesťputňový
+- | Tokajský Furmint | | Tokajský výber vojputňový až šesťputňový
+
+- | Tokajský Muškát žltý | |
 
 - Ukazovateľ | 1 | 2 | 3
 
