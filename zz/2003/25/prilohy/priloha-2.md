@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 25/2003 Z. z.
+
+- POTVRDENIE O PREVZATÍ STARÉHO VOZIDLA NA SPRACOVANIE [Vzor 02](../assets/fe523c4b5bf7b3013c33bd21b8a15028ecb268f8445e47b007fe42e6a1650ace.pdf)
