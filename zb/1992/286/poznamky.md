@@ -140,9 +140,9 @@
 
 - 18) Napr. zákon č. 119/1992 Zb.
 
-- 18a) § 5 ods. 5 zákona č. 222/1992 Zb. o dani z pridanej hodnoty v znení neskorších predpisov.
+- 18a) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení zákona Národnej rady Slovenskej republiky č. 200/1996 Z. z.
 
-- 19) Napr. zákon č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov, zákon ČNR č. 550/1991 Zb. o všeobecnom zdravotnom poistení.
+- 19) § 116 a 117 Občianskeho zákonníka.
 
 - 20) Napr. zákon č. 238/1991 Zb. o odpadoch, zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona č. 218/1992 Zb.
 
@@ -159,6 +159,10 @@
 - Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
 
 - § 3 zákona č. 195/1991 Zb. o odstupnom poskytovanom pri skončení pracovného pomeru v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
+
+- 21b) § 140 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 206/1996 Z. z., ktorým sa mení a dopĺňa Zákonník práce a menia sa a dopĺňajú zákony v oblasti zamestnanosti.
+
+- 21c) Zákon č. 119/1992 Zb. v znení neskorších predpisov.
 
 - 22) Zákon č. 119/1992 Zb. o cestovných náhradách. Limity stravného pri zahraničných pracovných cestách vyhlasované v Zbierke zákonov.
 
@@ -189,8 +193,6 @@
 - 28) Zákon č. 35/1965 Zb. v znení neskorších predpisov.
 
 - 29) § 25 ods. 4 zákona č. 563/1991 Zb.
-
-- 29a) § 18 ods. 4 zákona č. 222/1992 Zb. v znení neskorších predpisov.
 
 - 29b) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
