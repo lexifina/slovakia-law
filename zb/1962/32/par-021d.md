@@ -1,9 +1,0 @@
-# § 21d
-
-(1) Ak bolo dieťa prevzaté zo zdravotných dôvodov do starostlivosti dojčenského alebo iného liečebného ústavu a družstevníčka zatiaľ začala pracovať, preruší sa po čas pracovnej činnosti poskytovanie peňažnej pomoci v materstve podľa predchádzajúcich ustanovení. Odo dňa, keď družstevníčka prevzala dieťa z ústavu opäť do svojej starostlivosti a prestala preto pracovať, pokračuje sa v poskytovaní peňažnej pomoci v materstve až do vyčerpania celkového nároku, nie však dlhšie ako do dňa, keď dieťa dovŕši jeden rok.
-
-(2) Družstevníčke, ktorá sa prestala starať o narodené dieťa, a toto dieťa bolo preto zverené do rodinnej alebo ústavnej starostlivosti nahradzujúcej starostlivosť rodičov, ako aj družstevníčke, ktorej dieťa je v dočasnej starostlivosti dojčenského, prípadne obdobného ústavu z iných dôvodov ako zdravotných, nepatrí peňažná pomoc v materstve za dobu, po ktorú sa o dieťa nestará; táto doba sa však započítava do celkovej doby, po ktorú by jej peňažná pomoc v materstve inak patrila. Poskytovanie peňažnej pomoci v materstve družstevníčke, ktorá dieťa porodila, nemôže sa skončiť pred uplynutím 12 týždňov od nástupu materskej dovolenky ani pred uplynutím šiestich týždňov odo dňa pôrodu.
-
-(3) Ak sa dieťa narodilo mŕtve, poskytuje sa družstevníčke peňažná pomoc v materstve po dobu 12 týždňov od nástupu materskej dovolenky; jej poskytovanie sa však nemôže skončiť pred uplynutím šiestich týždňov odo dňa pôrodu.
-
-(4) Ak dieťa zomrelo v čase, keď družstevníčke patrí peňažná pomoc v materstve, poskytuje sa jej táto pomoc ešte po dobu dvoch týždňov odo dňa úmrtia dieťaťa, nie však dlhšie ako do vyčerpania celkového nároku; poskytovanie peňažnej pomoci v materstve družstevníčke, ktorá dieťa porodila, sa však nemôže skončiť pred uplynutím 12 týždňov od nástupu materskej dovolenky, ani pred uplynutím šiestich týždňov odo dňa pôrodu.
