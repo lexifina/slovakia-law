@@ -1,3 +1,0 @@
-# Čl. II
-
-Počet poslancov, ktorý má byť zvolený do obvodných národných výborov v hlavnom meste Slovenskej socialistickej republiky Bratislave v najbližších všeobecných voľbách do národných výborov, ako aj volebné obvody pre voľby do týchto národných výborov určí v súlade s ustanoveniami zákona Slovenskej národnej rady o voľbách do národných výborov v Slovenskej socialistickej republike Národný výbor hlavného mesta Slovenskej socialistickej republiky Bratislavy. Ak si to príprava volieb vyžiada, môže Národný výbor hlavného mesta Slovenskej socialistickej republiky Bratislavy urobiť aj ďalšie opatrenia, ktoré by inak patrili obvodným národným výborom.
