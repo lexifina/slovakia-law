@@ -1,1 +1,0 @@
-- 1) § 268 Občianskeho súdneho poriadku.
