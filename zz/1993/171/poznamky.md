@@ -1,4 +1,8 @@
-- 1) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
+- 1) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
+
+- 1a) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
+
+- 1b) § 13 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
 - 2) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -8,11 +12,11 @@
 
 - 4) Napríklad Trestný zákon,Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 5) Zákon Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky v znení zákona Slovenskej národnej rady č. 295/1992 Zb.
+- 5) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení zákona č. 389/1999 Z. z.
 
 - 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o súdoch a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a voľbách prísediacich (zákon o štátnej správe súdov) v znení zákona Národnej rady Slovenskej republiky č. 12/1993 Z. z.
 
-- 7) Zákon Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení zákona Slovenskej národnej rady č. 490/1992 Zb.
+- 7) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 8) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
@@ -30,11 +34,7 @@
 
 - 11a) § 2 Obchodného zákonníka.
 
-- 11b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
 - 11c) § 89 ods. 14 Trestného zákona v znení neskorších predpisov.
-
-- 11d) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 11e) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (Živnostenský zákon) v znení neskorších predpisov, zákon č. 513/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
 
@@ -42,7 +42,7 @@
 
 - 11g) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
 
-- 12) § 6 a 8 zákona Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
+- 12) § 4 a 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
 - 13) § 13 vyhlášky Ministerstva vnútra č. 87/1964 Zb. o vodičských preukazoch v znení neskorších predpisov.
 
@@ -54,11 +54,13 @@
 
 - 17) Vyhláška č. 145/1956 Ú. v. o premávke na cestách v znení neskorších predpisov.
 
-- 17a) Zákon Národnej rady Slovenskej republiky č. 249/1994 Z. z. o boji proti legalizácii príjmov z najzávažnejších, najmä organizovaných foriem trestnej činnosti a o zmenách niektorých ďalších zákonov v znení zákona č. 58/1996 Z. z.
+- 17a) § 89 ods. 2 Trestného poriadku v znení neskorších predpisov.
 
 - 18) § 41 ods. 2 zákona č. 140/1961 Zb.
 
-- 18a) § 88b Trestného poriadku v znení neskorších predpisov.
+- 18a) § 88a Trestného poriadku v znení neskorších predpisov.
+
+- 18ab) § 19 ods. 4 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 18b) § 88b ods. 2 Trestného poriadku v znení neskorších predpisov.
 
@@ -82,6 +84,34 @@
 
 - 26) § 14 zákona č. 140/1961 Zb.
 
-- 27) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
+- 27) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
+
+- 27a) § 3 písm. c) zákona č. 52/1998 Z. z.
+
+- 27b) § 24 zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení zákona č. 319/1999 Z. z.
+
+- 27c) § 8 ods. 1 a ods. 2 písm. b) zákona č. 52/1998 Z. z.
+
+- 27d) § 11 a 12 Trestného zákona v znení neskorších predpisov.
 
 - 28) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii.
+
+- 28a) § 3 písm. g) zákona č. 52/1998 Z. z.
+
+- 28b) § 3 písm. h) zákona č. 52/1998 Z. z.
+
+- 28c) § 5 ods. 3 zákona č. 195/2000 Z. z. o telekomunikáciách.
+
+- 28d) Zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
+
+- 28e) § 23 zákona č. 381/1997 Z. z. o cestovných dokladoch.
+
+- 28f) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 369/1999 Z. z.
+
+- 28g) § 85 ods. 1 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+
+- 28h) § 2 zákona č. 195/2000 Z. z.
+
+- 28i) § 5 ods. 1 zákona č. 195/2000 Z. z.
+
+- 28j) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
