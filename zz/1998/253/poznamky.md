@@ -23,3 +23,5 @@
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 13) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+
+- 14) § 69d ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 490/2001 Z. z.
