@@ -112,6 +112,10 @@
 
 - 23h) § 15 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb.
 
+- 23i) Zákon č. 503/2003 o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- 23j) § 137 až 142 Občianskeho zákonníka.
+
 - 24) Napríklad zákon č. 123/1975 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb.
 
 - 25) Zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
