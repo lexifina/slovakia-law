@@ -32,6 +32,10 @@ Zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov sa mení a dop
 
 - Profesionálnym vojakom uvedeným v odseku 2 písm. a) a b) patria aj peňažné náležitosti podľa § 8, § 35 ods. 1, § 37 ods. 3 až 6 a § 39 až 54. Profesionálnym vojakom uvedeným v § 1 ods. 2 písm. c) patria aj peňažné náležitosti podľa § 8, § 34 až 37 a § 39 až 54. Na výplatu ich platu a vykonanie zrážok z platu sa vzťahujú ustanovenia § 55 až 57, ak tento zákon neustanovuje inak.
 
+- (4)
+
+- Profesionálnym vojakom vo funkcii sudcov a justičných čakateľov vyčleneným na plnenie úloh vojenských súdov, profesionálnym vojakom vo funkcii prokurátorov a právnych čakateľov vyčleneným na plnenie úloh vojenských prokuratúr patrí aj príplatok podľa § 18 tohto zákona.
+
 - (5)
 
 - Zákon neupravuje poskytovanie peňažných náležitostí vojakom, ktorí vykonávajú mimoriadnu vojenskú službu.<sup>6a</sup>)
