@@ -10,6 +10,12 @@ Príloha vyhlášky č. 125/1965 Zb.
 
 - † Rak skalný - Astacus torrentium
 
+- Mäkkýše - kmeň: Mollusca
+
+- Slimák záhradný - Helix pomatia
+
+- Slimák žltkastý - Helix lutescens
+
 - Hmyz - trieda: Insecta
 
 - Askalafus - rod Ascalaphus - všetky druhy
@@ -425,5 +431,7 @@ Príloha vyhlášky č. 125/1965 Zb.
 - † * Vydra riečna - Lutra lutra
 
 - Zubor hôrny - Bison bonasus
+
+- Bobor vodný - Castor fiber
 
   - Druhy živočíchov označené v zozname krížikom (†) sú chránené aj podľa zákona č. 23/1962 Zb. o poľovníctve, zákona č. 102/1963 Zb. o rybárstve a predpisov vydaných podľa týchto zákonov.
