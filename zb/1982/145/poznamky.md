@@ -1,0 +1,3 @@
+- 13) Ustanovenie § 26 ods. 3 smerníc č. 49/1967 Vestníka Ministerstva zdravotníctva v znení smerníc č. 17/1970 Vestníka Ministerstva zdravotníctva ČSR o posudzovaní zdravotnej spôsobilosti na prácu a smerníc č. 17/1970 Vestníka Ministerstva zdravotníctva SSR o posudzovaní zdravotnej spôsobilosti na prácu, doplnok - Záväzné opatrenie č. 8/1972 Vestníka Ministerstva zdravotníctva SSR.
+
+- 14) Inštrukcie č. 25/1973 Vestníka Ministerstva zdravotníctva ČSR a inštrukcie č. 4/1974 Vestníka Ministerstva zdravotníctva SSR - Hlásenie a evidencie chorôb z povolania, profesionálnych otráv a iných poškodení na zdraví z práce.
