@@ -14,28 +14,32 @@
 
 - b) doklad alebo čestné vyhlásenie o dĺžke odbornej praxe,
 
-- c) osvedčenie (§ 27d),
+- c) osvedčenie o odbornej spôsobilosti,
 
 - d) doklad o zdravotnej spôsobilosti na prácu,
 
 - e) výpis z registra trestov, ktorý nesmie byť starší ako šesť mesiacov,
 
-- f) charakteristiku činnosti a technického vybavenia.
+- f) charakteristiku činnosti a technického vybavenia,
+
+- g) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie alebo rozhodnutie o autorizácii na úradné meranie podľa osobitných predpisov.<sup>10a</sup>)
 
 (4) Ak je žiadateľ právnická osoba, v žiadosti uvedie
 
 - a) názov (obchodné meno), sídlo a právnu formu, meno, priezvisko, rodné číslo a miesto trvalého pobytu osoby alebo osôb, ktoré sú štatutárnym orgánom,
 
-- b) meno, priezvisko, rodné číslo a miesto trvalého pobytu kvalifikovaného experta alebo odborného zástupcu,
+- b) meno, priezvisko, rodné číslo a miesto trvalého pobytu odborného zástupcu,
 
 - c) činnosť, na ktorú žiada vydať povolenie.
 
 (5) K žiadosti podľa odseku 4 žiadateľ pripojí
 
-- a) doklad o založení právnickej osoby,
+- a) doklad o zriadení alebo založení právnickej osoby a v prípade právnickej osoby, ktorá je zapísaná do obchodného registra, aj výpis z obchodného registra,
 
 - b) výpis z registra trestov osoby alebo osôb, ktoré sú štatutárnym orgánom, ktorý nesmie byť starší ako šesť mesiacov,
 
-- c) doklady kvalifikovaného experta alebo odborného zástupcu uvedené v odseku 3 písm. a) až e),
+- c) doklady odborného zástupcu uvedené v odseku 3 písm. a) až e),
 
-- d) charakteristiku činnosti a technického vybavenia.
+- d) charakteristiku činnosti a technického vybavenia,
+
+- e) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie alebo rozhodnutie o autorizácii na úradné meranie podľa osobitných predpisov.<sup>10a</sup>)

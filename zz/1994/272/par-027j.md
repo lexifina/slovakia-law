@@ -1,10 +1,10 @@
 # § 27j
 
-(1) Ministerstvo zdravotníctva povolenie zmení, ak držiteľ povolenia
+(1) Ministerstvo zdravotníctva povolenie zmení, ak držiteľ povolenia požiada o zmenu
 
-- a) požiada o zmenu činnosti,
+- a) osoby alebo osôb, ktoré sú štatutárnym orgánom,
 
-- b) zmení určeného kvalifikovaného experta alebo odborného zástupcu.
+- b) odborného zástupcu.
 
 (2) Ministerstvo zdravotníctva môže povolenie zmeniť, ak sa zmenia podmienky na vykonávanie činnosti, na ktorú bolo vydané povolenie.
 

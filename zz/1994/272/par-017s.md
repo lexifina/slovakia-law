@@ -1,0 +1,3 @@
+# § 17s Uvádzanie rádioaktívnych látok do životného prostredia
+
+Rádioaktívne látky a materiály, predmety a zariadenia, ktoré obsahujú rádionuklidy alebo sú povrchovo rádioaktívne kontaminované, možno vynášať z kontrolovaného pásma, používať mimo pracoviska so zdrojmi ionizujúceho žiarenia, vypúšťať do vôd alebo do ovzdušia, ukladať do pôdy alebo do podzemia alebo inak uvádzať do životného prostredia<sup>2</sup>) bez povolenia orgánu na ochranu zdravia [(§ 17f ods. 2 písm. m) a ods. 4 písm. g)], len ak ich obsah rádionuklidov alebo ich povrchová rádioaktívna kontaminácia neprekračuje mieru, ktorú ustanovuje všeobecne záväzný právny predpis vydaný podľa § 17y písm. m) a r).
