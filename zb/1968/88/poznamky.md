@@ -10,6 +10,4 @@
 
 - †) Zákon č. 88/1952 Zb. materiálnom zabezpečení príslušníkov ozbrojených síl.
 
-- ††) § 47 až 55 vyhlášky č. 143/1965 Zb.
-
 - 1) § 85 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 153/1969 Zb. a zákona č. 20/1975 Zb.
