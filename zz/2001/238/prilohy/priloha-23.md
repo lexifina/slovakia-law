@@ -1,1 +1,1 @@
-Príloha č. 22 k zákonu č. 238/2001 Z. z. [Príloha 22](../assets/995ef7eb71da5ce1dacf55840c621cdc7cd565d6065f744bcf5eb11ddc273a3c.pdf)
+Príloha č. 22 k zákonu č. 238/2001 Z. z. [Príloha 22](../assets/77d938e0fdc729c3451e7493ddf669fb7c8364eb54528adc872fa57f3d68bd8f.pdf)
