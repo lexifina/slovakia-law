@@ -1,3 +1,3 @@
 Príloha č. 7 k vyhláške č. 251/2001 Z. z.
 
-- VZOR OSVEDČENIE O PÔVODE TOVARU [Vzor 07](../assets/c36ea8fc4cfb859c8c363d8e8287f31a45d540250a4f84b9831714c20c90276b.pdf)
+- VZOR OSVEDČENIE O PÔVODE TOVARU [VZOR 07](../assets/a035f013fefb92db85261f9519a9089ec42248db4612c05e515e897dabd8bdfe.pdf)

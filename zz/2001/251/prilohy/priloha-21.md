@@ -278,13 +278,13 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
       - 44. Osobitné záznamy/ predložené doklady/ osvedčenia a povolenia
 
-        - Uvádzajú sa záznamy o predložených osvedčeniach a povoleniach colných orgánov a iných orgánov štátnej správy, ak sú na daný vývoz alebo tranzit potrebné, vrátane sérií čísiel všetkých kontrolných kópií T5 a v prípade voľného miesta odsek možno využiť na poznámky deklaranta.
+        - Uvádzajú sa záznamy o predložených osvedčeniach a povoleniach colných orgánov a iných orgánov štátnej správy, ak sú na daný vývoz alebo tranzit potrebné a v prípade voľného miesta odsek možno využiť na poznámky deklaranta.
 
         - V ľavom hornom rohu tohto odseku deklarant uvádza kód vývoznej licencie (úradného povolenia na vývoz tovaru a služieb), ak bola vydaná na tovar uvedený v odseku 31 jednotného colného dokladu alebo doplnkového tlačiva. Za kódom licencie sa v zátvorkách uvedie množstvo tovaru v merných jednotkách uvedených v licencii, ktoré sa v súvislosti s vývozom odpíše z celkového povoleného množstva. Ak treba na príslušný vývoz predložiť colnému úradu súčasne viac licencií, vyznačia sa v hornej časti odseku 44 (prvý riadok) všetky kódy týchto licencií a k nim príslušné množstvá odpísaného tovaru. Ak nie je na vývoz licencia potrebná, uvádza sa v ľavom hornom rohu tohto odseku kód „9“, ktorý je vhodné uviesť v zátvorke.
 
         - V pravej časti odseku pred časť označenú „Kód O. Z.“ (pod odsek 41 jednotného colného dokladu, doplnkového tlačiva) sa uvádzajú v celých slovenských korunách zaokrúhlene bez desatinnej čiarky alebo bodky náklady na dopravu, poistenie, nakladanie a manipuláciu spojené s dopravou vyvážaného tovaru uvedeného v odseku 31 jednotného colného dokladu alebo doplnkového tlačiva od miesta, kde tovar opúšťa územie Slovenskej republiky. Ak je známa len celková hodnota týchto nákladov na celú zásielku, uvedú sa prepočítané náklady na hrubú hmotnosť každej tovarovej položky. Ak nie sú známe tieto náklady v čase predkladania colného vyhlásenia colnému úradu, uvedie sa v tomto odseku „0“.
 
-        - Ak sa navrhuje colne schválené určenie spätný vývoz tovaru po režime aktívny zušľachťovací styk, v pravom dolnom rohu v bodkovane vyznačenej časti sa uvádza cena za poskytnutú službu vrátane ceny tuzemského alebo zahraničného tovaru, ktorý bol pridaný k pôvodne dovezenému tovaru.
+        - Ak sa navrhuje colne schválené určenie spätný vývoz tovaru po režime aktívny zušľachťovací styk, v pravom dolnom rohu v bodkovane vyznačenej časti sa uvádza cena za poskytnutú službu vrátane ceny slovenského tovaru, ktorý bol pridaný k tovaru prepustenému do režimu aktívny zušľachťovací styk.
 
         - Časť s označením „Kód O. Z.“ (kód osobitných záznamov) sa nevypĺňa.
 
@@ -400,7 +400,7 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
         - Pri zberných zásielkach sa môže uviesť zápis „Rôzni“ a pripojí sa zoznam všetkých odosielateľov.
 
-        - Nevypĺňa sa pri prepustení tovaru do režimu uskladňovanie v colnom sklade.
+        - Pri prepustení do režimu uskladňovanie v colnom sklade vyplnenie tohto odseku nie je povinné.
 
       - 3. Tlačivá
 
@@ -684,7 +684,7 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
       - 47. Výpočet platieb
 
-        - Odsek je určený na uvedenie údajov o colnom dlhu vzťahujúcom sa na tovar uvedený v odseku 31. Z údajov, ktoré sa uvádzajú v tomto odseku, deklarant uvedie kód druhu platby, ktorej dovážaný tovar podlieha, základ na jej vymeranie s výnimkou základu na vymeranie dane z pridanej hodnoty. Stĺpce „Sadzba“ a „Suma“ vypĺňa v tomto odseku colný úrad, rovnako ako základ na vymeranie dane z pridanej hodnoty.
+        - Odsek je určený na uvedenie údajov o colnom dlhu vzťahujúcom sa na tovar uvedený v odseku 31. Z údajov, ktoré sa uvádzajú v tomto odseku, deklarant uvedie kód druhu platby, ktorej dovážaný tovar podlieha, základ na jej vymeranie s výnimkou základu na vymeranie dane z pridanej hodnoty a kód do stĺpca „SP“. Stĺpce „Sadzba“ a „Suma“ vypĺňa v tomto odseku colný úrad, rovnako ako základ na vymeranie dane z pridanej hodnoty.
 
         - Pre jednotlivé platby, ktoré sú súčasťou colného dlhu, v stĺpci „Druh“ sa uvádzajú veľkými tlačenými písmenami kódy druhov platieb v tomto poradí:
 
@@ -701,6 +701,18 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
         - Základy na vymeranie prípadných ďalších platieb ustanovujú osobitné predpisy.<sup>7</sup>) Uvádza sa najviac deväťmiestnym číslom v celých jednotkách okrem základu na vymeranie spotrebných daní. Základ na vymeranie spotrebných daní sa uvedie v odseku 47 jednotného colného dokladu a doplnkového tlačiva vždy na tri desatinné miesta vrátane prípadných núl za desatinnou čiarkou.
 
         - V písomnom colnom vyhlásení na prepustenie tovaru do režimu uskladňovanie v colnom sklade do colného skladu typu D, ktorý nemá slovenský pôvod, vyznačí sa len základ na výpočet platieb.
+
+        - V stĺpci „SP“ sa podáva informácia o spôsobe platby a v prvom riadku sa uvádza kód spôsobu úhrady colného dlhu takto:
+
+        - kód H – pri platbe v hotovosti vrátane platby poštovou poukážkou,
+
+        - kód I – pri platbe inkasným príkazom (na základe písomnej dohody medzi deklarantom a colným úradom),
+
+        - kód U – pri platbe bezhotovostným prevodom,
+
+        - kód P – pri započítaní preplatku na iných platbách,
+
+        - kód S – pri platbe šekom.
 
       - 48. Odklad platby
 
@@ -778,6 +790,44 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
       - – tlače zadnej strany odsekov pre režim tranzit.
 
+      - Jednotný colný doklad pozostávajúci z ôsmich výtlačkov a doplnkové tlačivo pozostávajúce z ôsmich výtlačkov majú jednotlivé výtlačky na prednej strane farebne označené takto:
+
+      - – výtlačok č. 1 – červený súvislý prúžok,
+
+      - – výtlačok č. 2 – zelený súvislý prúžok,
+
+      - – výtlačok č. 3 – žltý súvislý prúžok,
+
+      - – výtlačok č. 4 – modrý prerušovaný prúžok,
+
+      - – výtlačok č. 5 – modrý súvislý prúžok,
+
+      - – výtlačok č. 6 – červený prerušovaný prúžok,
+
+      - – výtlačok č. 7 – zelený prerušovaný prúžok,
+
+      - – výtlačok č. 8 – žltý prerušovaný prúžok.
+
+      - Farebné prúžky na okraji výtlačkov majú šírku 3 mm. Prerušovaný prúžok tvoria farebné štvorce so stranou 3 mm a medzery so stranou 3 mm.
+
+      - Jednotný colný doklad pozostávajúci zo štyroch výtlačkov a doplnkové tlačivo pozostávajúce zo štyroch výtlačkov majú jednotlivé výtlačky na prednej strane farebne označené takto:
+
+      - – výtlačok č. 1/6 – červený súvislý prúžok a vpravo od neho červený prerušovaný prúžok,
+
+      - – výtlačok č. 2/7 – zelený súvislý prúžok a vpravo od neho zelený prerušovaný prúžok,
+
+      - – výtlačok č. 3/8 – žltý súvislý prúžok a vpravo od neho žltý prerušovaný prúžok,
+
+      - – výtlačok č. 4/5 – modrý súvislý prúžok a vpravo od neho modrý prerušovaný prúžok.
+
+      - Farebné prúžky na okraji výtlačkov majú šírku 3 mm. Prerušovaný prúžok tvoria farebné štvorce so stranou 3 mm a medzery so stranou 3 mm.
+
+      - Tovar z jednej zásielky sa rozpisuje do viacerých tlačív jednotného colného dokladu alebo doplnkových tlačív, ak
+
+      - a) počet položiek tovaru v odseku 31 jednotného colného dokladu a doplnkových tlačív je väčší ako 97,
+
+      - b) sa navrhuje prepustenie tovaru do viacerých colných režimov.
+
     - B. Návod na použitie tlačiva
 
       - Tlačivá sa vypĺňajú písacím strojom alebo použitím systému mechanického spracovania údajov, alebo podobným spôsobom tak, aby údaje boli nezmazateľné a čitateľné. Možno ich vyplniť aj rukou paličkovým písmom a perom. Pri vypĺňaní písacím strojom je vhodné prvé písmeno údaja v odseku 2 písomného colného vyhlásenia uviesť do ľavého nastavovacieho okienka v tomto odseku.
@@ -822,7 +872,7 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
       - 1.2. Dolná časť
 
-        - Do tejto časti sa uvedú údaje podľa II. časti bodu 4.
+        - Do tejto časti sa uvedú údaje podľa I. časti.
 
       - 2. Stĺpce
 
