@@ -1,0 +1,1 @@
+- 1) Zákonné opatření předsednictva Federálního shromáždění č. 206/1990 Sb., o státním vyrovnávacím příspěvku.
