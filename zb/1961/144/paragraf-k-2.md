@@ -14,8 +14,8 @@
 
 - a) ktoré sú národným majetkom a boli zverené do správy alebo užívania organizáciám socialistického sektora, budovy ústredných a ostatných úradov a orgánov, národných výborov, súdov a ostatných zariadení a organizácií hospodáriacich podľa rozpočtov, ktoré sú súčasťou štátneho rozpočtu,
 
-- b) ktoré sú vo vlastníctve družstevných organizácií (napr. výrobných, spotrebných alebo bytových družstiev, jednotných roľníckych družstiev, družstevných zväzov a ich podnikov a pod.) alebo spoločenských organizácií (napr. politických strán, ROH, ČSM, SČSP, ČSTV, SPB, ČSČK, Zväzarmu, cirkví a náboženských spoločností a pod.).
+- b) ktoré sú vo vlastníctve družstevných organizácií (napr. výrobných, spotrebných alebo bytových družstiev, jednotných roľníckych družstiev, družstevných sväzov a ich podnikov a pod.) alebo spoločenských organizácií (napr. politických strán, ROH, ČSM, SČSP, ČSTV, SPB, ČSČK, Sväzarmu a pod.).
 
-Tieto budovy nepodliehajú dani bez zreteľa na to, na aké účely slúžia a akým spôsobom sa používajú.
+Tieto budovy nepodliehajú dani bez zreteľa na to, na aké účely slúžia a akým spôsobom sa používajú. To platí aj o budovách cirkví a náboženských spoločností.
 
 (5) Ak slúži časť budovy na účely obytné a časť budovy ako budova hospodárska na účely poľnohospodárskej výroby, započítava sa do zastavanej plochy rozhodnej pre vyrubenie dane len plocha zastavaná obytnou časťou budovy. Na plochu zastavanú samostatnými hospodárskymi budovami slúžiacimi pre poľnohospodársku výrobu sa neprihliada.
