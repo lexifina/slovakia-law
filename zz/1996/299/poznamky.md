@@ -1,1 +1,0 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.Nariadenie vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy.
