@@ -76,6 +76,10 @@ Príloha 1 vyhlášky č. 25/1964 Zb.
 
 - | 3. zmluvy o zriadení práva osobného užívania pozemkov | 40 Kčs |
 
+- | 4. zmluvy o zriadení, obmedzení alebo zániku vecného bremena | 100 Kčs |
+
+- | 5. zmluvy o výstavbe nového domu s bytmi v osobnom vlastníctve,*) jej zmeny a doplnky | 100 Kčs |
+
 - H | Za vydanie (vyhlásenie) potvrdenia o nadobudnutí dedičstva, príp. rozhodnutia o vyporiadaní dedičstva, ak je dedičstvo oslobodené od poplatku z dedičstva: | |
 
 - | 1. z ceny dedičstva od 500 Kčs do 1000 Kčs | 25 Kčs |
