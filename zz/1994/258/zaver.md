@@ -1,0 +1,1 @@
+Pavel Koncoš v. r.
