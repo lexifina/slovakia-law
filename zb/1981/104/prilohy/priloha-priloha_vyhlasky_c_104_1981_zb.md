@@ -432,7 +432,7 @@ Príloha vyhlášky č. 104/1981 Zb.
 
         - Hodnota predmetu sporu | Poplatok
 
-        - Do 10 000 prevoditeľných rubľov | 3 %, ale najmenej 75 prevoditeľných rubľov
+        - Do 10 000 prevoditeľných rubľov | 3 %, ale najmenej 105 prevoditeľných rubľov
 
         - Od 10 001 do 100 000 prevoditeľných rubľov | 300 prevoditeľných rubľov plus 2 % zo sumy presahujúcej 10 000 prevoditeľných rubľov
 
@@ -446,7 +446,7 @@ Príloha vyhlášky č. 104/1981 Zb.
 
         - Hodnota predmetu sporu | Poplatok
 
-        - Do 80 000 Kčs | 3 %, ale najmenej 600 Kčs
+        - Do 80 000 Kčs | 3 %, ale najmenej 1 200 Kčs
 
         - Do 800 000 Kčs | 2 400 Kčs plus 2 % zo sumy presahujúcej 80 000 Kčs
 
