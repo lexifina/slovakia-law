@@ -1,0 +1,1 @@
+- 1) K osobitným podmienkam vzťahujúcim sa na výrobky zo zmesi textilných materiálov pozri úvodnú poznámku č. 5.
