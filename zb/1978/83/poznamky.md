@@ -1,0 +1,1 @@
+- 1) Zákon č. 52/1966 Zb. o osobnom vlastníctve bytov v znení zákona č. 30/1978 Zb.
