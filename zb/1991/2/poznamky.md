@@ -1,65 +1,33 @@
-- 1) § 231 Zákonníka práce.
+- 1) § 20 Zákonníka práce.
 
-- 2a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
-
-- 2aa) § 20f až 20i Občianskeho zákonníka.
-
-- 2ab) § 6 zákona č. 83/1990 Zb. v znení zákona č. 346/2018 Z. z.
-
-- 2b) § 1 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
+- 2) § 2 zákona č. 120/1990 Zb., ktorým sa upravujú niektoré vzťahy medzi odborovými orgánmi a zamestnávateľmi.
 
 - 3) § 9 Zákonníka práce.
 
-- 4) § 2 Obchodného zákonníka.
+- 4) Napr. zákon č.105/1990 Zb. o súkromnom podnikaní občanov.
 
-- 4a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+- 5) § 274 písm. h) Občianskeho súdneho poriadku.
 
-- 4aa) Nariadenie Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 259/2008 z 11. marca 2008 (Ú. v. EÚ L 97, 9. 4. 2008).
+- 6) § 46 až 48 zákona č. 92/1949 Zb. branný zákon (úplné znenie č. 309/1990 Zb.).
 
-- 4ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7) Napr. vyhláška Českého banského úradu č. 67/1988 Zb. o banskej záchrannej službe a vyhláška Slovenského úradu č. 69/1988 Zb. o banskej záchrannej službe.
 
-- 4ac) § 70 Obchodného zákonníka.
-
-- 4ad) § 19 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 4ae) § 40 ods. 8 Zákonníka práce.
-
-- 4af) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
-
-- 4ag) Zákon č. 215/2021 Z. z. o podpore v čase skrátenej práce a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 4ah) Položka 2 písm. a) prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
-
-- 4ai) § 30, § 30a a 31 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
-
-- 4aj) § 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite) v znení neskorších predpisov.
-
-- 4b) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 4c) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. v znení zákona č. 91/2016 Z. z.
-
-- 5) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
-- 5a) Čl. 3 Dohovoru Medzinárodnej organizácie práce o slobode združovania a ochrane práva organizovať sa č. 87 z roku 1948 (oznámenie Federálneho ministerstva zahraničných vecí č. 489/1990 Zb. a bod 28 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z. o potvrdení sukcesie Slovenskej republiky do záväzkov z príslušných mnohostranných zmluvných dokumentov Medzinárodnej organizácie práce, ktorých depozitárom je generálny riaditeľ Medzinárodného úradu práce).
-
-- Čl. 2 Dohovoru Medzinárodnej organizácie práce o použití zásad práva organizovať sa a kolektívne vyjednávať č. 98 z roku 1949 (oznámenie Federálneho ministerstva zahraničných vecí č. 470/1990 Zb. a bod 33 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
-
-- 5b) Čl. 8 ods. 1 písm. d), čl. 8 ods. 2 a 3 Medzinárodného paktu o hospodárskych, sociálnych a kultúrnych právach (vyhláška ministra zahraničných vecí č. 120/1976 Zb.).
-
-- Čl. 6 ods. 4 Európskej sociálnej charty (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 329/1998 Z. z.).
-
-- Čl. 3 Dohovoru Medzinárodnej organizácie práce o slobode združovania a ochrane práva organizovať sa č. 87 z roku 1948 (oznámenie Federálneho ministerstva zahraničných vecí č. 489/1990 Zb. a bod 28 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
-
-- Čl. 2 Dohovoru Medzinárodnej organizácie práce o použití zásad práva organizovať sa a kolektívne vyjednávať č. 98 z roku 1949 (oznámenie Federálneho ministerstva zahraničných vecí č. 470/1990 Zb. a bod 33 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
-
-- 6) Čl. 2 až 5 Ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
-
-- 8) § 54 a § 142 Zákonníka práce.
+- 8) § 36, § 37 ods. 4 písm. a), § 115 a § 130 ods. 1 Zákonníka práce.
 
 - 9) § 420 a nasl. Občianskeho zákonníka.
 
-- 10) § 177 až 219 Zákonníka práce.
+- 10) § 170 a nasl. Zákonníka práce.
 
-- 11) § 373 a nasledujúce Obchodného zákonníka. § 420 a nasledujúce Občianskeho zákonníka.
+- 11) § 145 a nasl. Hospodárskeho zákonníka.
 
-- 16) § 142 Zákonníka práce.
+- 12) § 15 ods. 1, § 16 a § 25 ods. 1 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
+
+- 13) § 12 ods. 7 a 9 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
+
+- 14) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- Nariadenie vlády ČSSR č. 117/1988 Zb. o zariaďovaní zamestnaní do I. a II. pracovnej kategórie na účely dôchodkového zabezpečenia.
+
+- 15) § 139 vyhlášky č. 149/1988 Zb.
+
+- 16) § 130 ods. 1 Zákonníka práce.
