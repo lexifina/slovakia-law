@@ -16,6 +16,8 @@
 
     - Poděbrady
 
+    - Sliač
+
     - Starý Smokovec
 
     - Štrbské Pleso
@@ -24,9 +26,17 @@
 
     - Teplice
 
+    - Trenčianske Teplice
+
   - II. skupina
 
+    - Bardejov
+
+    - Bojnické Kúpele
+
     - Dolní Lipová
+
+    - Dudince
 
     - Jáchymov
 
@@ -34,21 +44,15 @@
 
     - Jeseník
 
-    - Sliač
+    - Rajecké Teplice
 
     - Teplice nad Bečvou
 
-    - Trenčianske Teplice
-
   - III. skupina
-
-    - Bardejov
 
     - Bechyně
 
     - Bohdaneč
-
-    - Bojnické Kúpele
 
     - Darkov
 
@@ -65,8 +69,6 @@
     - Lúčky
 
     - Mšené u Budyně
-
-    - Rajeské Teplice
 
     - Štós
 
