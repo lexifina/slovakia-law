@@ -28,8 +28,6 @@
 
 - 9a) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
-- 9b) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
-
 - 10) § 16 písm. a) bod 3 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.§ 37 ods. 1 až 3 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 11) § 8 ods. 2 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb. v znení neskorších predpisov.
@@ -65,6 +63,8 @@
 - 13h) § 3 ods. 1 písm. b) a § 10 ods. 1 písm. k) zákona č. 286/1992 Zb. v znení neskorších predpisov.
 
 - 13ha) § 7 zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z. o niektorých opatreniach na zabezpečenie hospodárenia Slovenskej republiky v roku 1995 a o zmene a doplnení niektorých zákonov.
+
+- 13haa) § 86 Zákonníka práce.
 
 - 13hb) Zákon Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
 
