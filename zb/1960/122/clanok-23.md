@@ -1,0 +1,3 @@
+# Článok 23
+
+Táto vyhláška nadobúda účinnosť dňom vyhlásenia.
