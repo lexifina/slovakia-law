@@ -1,1 +1,0 @@
-- *) Pre týchto zamestnancov a ich rodinných príslušníkov platia samostatné úpravy.
