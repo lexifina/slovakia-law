@@ -1,0 +1,1 @@
+- 1) Zákon č. 85/1990 Sb. o právu petičním.
