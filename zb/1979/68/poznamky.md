@@ -1,6 +1,6 @@
-- 1) Zákon Českej národnej rady č. 58/1971 Zb. o určení ústredného orgánu štátnej správy vo veciach dopravy.
+- 1) Vyhláška Českého úradu bezpečnosti práce č. 88/1980 Zb. o bezpečnosti práce a technických zariadení pri prevádzke cestných vozidiel v znení vyhlášky č. 62/1981 Zb.Vyhláška Slovenského úradu bezpečnosti práce č. 71/1980 Zb. o bezpečnosti práce a technických zariadení pri prevádzke cestných vozidiel.§ 8, 9, 11, 12 úpravy Ministerstva vnútra ČSR č. SD/33-1908/75 o určovaní pracovného času cestovných pracovníkov cestnej a mestskej dopravy, reg. v čiastke 33/1975 Zb., v znení úpravy Ministerstva vnútra ČSR č. SD/33-2831/77, reg. v čiastke 2/1978 Zb.Úprava Ministerstva vnútra SSR č. SD-349/1976-3 o určovaní pracovného času niektorých pracovníkov cestnej a mestskej dopravy, reg. v čiastke 13/1976 Zb., v znení úpravy Ministerstva vnútra SSR č. SD-4349/1978-4, reg. v čiastke 29/1978 Zb.
 
-- 2) Zákon Slovenskej národnej rady č. 33/1971 Zb. o určení ústredného orgánu štátnej správy vo veciach dopravy v pôsobnosti Slovenskej socialistickej republiky.
+- 2) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov.
 
 - 3) § 47 nariadenia vlády Československej socialistickej republiky č. 153/1971 Zb. o informačnej sústave organizácií. Vyhláška Federálneho štatistického úradu a Federálneho ministerstva financií č. 78/1977 Zb. o zavádzaní zjednotených vzorov prvotných záznamov a bežných zápisov v informačnej sústave organizácií.
 
