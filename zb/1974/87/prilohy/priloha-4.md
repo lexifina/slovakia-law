@@ -1,3 +1,3 @@
-PRÍLOHA č. 3
+PRÍLOHA č. 4
 
-- PLNOMOCENSTVO [Vzor 03](../assets/d5372aa08c152a99e03ad7d165748175da25231b509c2d092e22c781f96dcd04.pdf)
+- PLNOMOCENSTVO [Vzor 04](../assets/df4b7eec513c27f0c48f9580fefd6db624e64ba72a03bef9a15b078b28cba85f.pdf)

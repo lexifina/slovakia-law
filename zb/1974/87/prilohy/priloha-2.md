@@ -1,3 +1,3 @@
-PRÍLOHA č. 1
+PRÍLOHA č. 2
 
-- PREUKAZ na prekračovanie československo-sovietskych štátnych hraníc [Vzor 01](../assets/ef869cb4effe7e37af166c5ab16cb1984d1d4c3ed2ae1588dc14c0f01b398dee.pdf)
+- PREUKAZ na prekračovanie československo-sovietskych štátnych hraníc [Vzor 02](../assets/448601b7115e4dcea0110d2480b1caa334790f125c1721f5f15b4a91c4e48c05.pdf)
