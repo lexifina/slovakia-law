@@ -22,7 +22,7 @@
 
   - 4. poistné,
 
-  - 5. sumy podľa § 6 ods. 12 písm. b), c) a d),
+  - 5. sumy podľa § 6 ods. 12 písm. b) až e),
 
   - 6. základ dane, nezdaniteľné časti základu dane, zdaniteľnú mzdu, preddavok na daň podľa jednotlivých druhov sadzieb dane (mesačné, ročné),
 
