@@ -4,7 +4,7 @@ Príloha č. 2 k nariadeniu vlády č. 392/1999 Z. z.
 
 - a) Technické požiadavky, ktoré treba poznať a splniť, aby sa elektrické zariadenie mohlo používať bezpečne a na účel, na ktorý sa vyrobilo, sa vyznačia na tomto zariadení, a ak to nie je možné, v sprievodnej dokumentácii.
 
-- b) Na elektrickom zariadení, alebo ak to nie je možné, tak na obale sa zreteľne vytlačí obchodné meno výrobcu, názov obchodnej spoločnosti alebo ochranná známka a tiež značka zhody podľa § 17 zákona.
+- b) Na elektrickom zariadení, alebo ak to nie je možné, tak na obale sa zreteľne vytlačí obchodné meno výrobcu, názov obchodnej spoločnosti alebo ochranná známka a tiež značka zhody podľa zákona.
 
 - c) Elektrické zariadenie a jeho súčasti sa vyrábajú takým spôsobom, aby sa zaistila jeho bezpečná a správna montáž a pripojenie.
 

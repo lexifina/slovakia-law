@@ -12,6 +12,6 @@ Príloha č. 1 k nariadeniu vlády č. 392/1999 Z. z.
 
 - 6. Zariadenia na napájanie elektrických ohradníkov
 
-- 7. Rádiové a elektrické rušenie a odolnosť
+- 7. Rádiové a elektrické rušenie
 
-- 8. Špeciálne elektrické zariadenia určené na použitie v dráhových vozidlách, v lodiach, lietadlách a na dráhach, ktoré spĺňajú bezpečnostné požiadavky ustanovené v osobitných predpisoch platných pre tieto zariadenia
+- 8. Špeciálne elektrické zariadenie určené na použitie v lodiach, lietadlách a na dráhach, ktoré spĺňa bezpečnostné požiadavky ustanovené medzinárodnými orgánmi, na ktorých činnosti sa Slovenská republika a členské štáty Európskych spoločenstiev alebo Slovenská republika, alebo členské štáty Európskych spoločenstiev podieľajú.
