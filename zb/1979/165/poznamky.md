@@ -51,3 +51,5 @@
 - 24) § 137 ods. 6 vyhlášky č. 128/1975 Zb. v znení vyhlášky č. 164/1979 Zb.
 
 - 25) § 137 ods. 8 vyhlášky č. 128/1975 Zb. v znení vyhlášky č. 164/1979 Zb.
+
+- 33) Zákon č. 73/1990 Zb. o civilnej službe.
