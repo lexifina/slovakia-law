@@ -18,6 +18,8 @@
 
 - 10) § l2 ods. l Trestného poriadku.
 
+- 10a) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
 - 11) Napríklad § 14 zákona č. 73/l998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
 
 - 12) Napríklad čl. 13 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.) v znení Dodatkového protokolu k Európskemu dohovoru o vzájomnej pomoci v trestných veciach z 20. apríla 1959 (oznámenie č. 12/1997 Z. z.).
