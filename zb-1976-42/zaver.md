@@ -1,0 +1,1 @@
+Ing. Hruzík v.r.
