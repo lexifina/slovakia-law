@@ -18,7 +18,7 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Montáž, opravy a revízie vyhradených plynových zariadení *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 
-- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb. vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
+- Plnenie tlakových nádob na plyny *) | Oprávnenie (§ 3 vyhl. č. 26/ 1979 Zb. v znení vyhl. č. 488/1990Zb.)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 26/1979Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb. vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
 
 - Revízie a skúšky vyhradených plynových zariadení *) | Osvedčenie (§ 4 vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce;
 
@@ -44,25 +44,27 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 205 - Výroba elektrických prístrojov | |
 
-- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487 / 1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
+- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487 / 1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
 
 - Revízia vyhradených elektrických zariadení | Osvedčenie (§ 9 vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/ 1982 Zb.
 
 - Projektovanie elektrických zariadení | Osvedčenie (§ 10 vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Výroba, inštalácia a opravy elektrických strojov a prístrojov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba, inštalácia a opravy elektrických strojov a prístrojov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Montáž a opravy kancelárskej a reprodukčnej techniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Montáž a opravy kancelárskej a reprodukčnej techniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Výroba, montáž a opravy výrobkov a zariadení spotrebnej elektrotechniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba, montáž a opravy výrobkov a zariadení spotrebnej elektrotechniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Výroba, inštalácia a opravy chladiacich zariadení | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
+- Výroba, inštalácia a opravy chladiacich zariadení | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) *)Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z.
 
-- Výroba, inštalácia a opravy ústredného vykurovania a vetrania | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba, inštalácia a opravy ústredného vykurovania a vetrania | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Výroba a opravy elektrických šijacích strojov a elektrických prístrojov pre domácnosť | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Výroba a opravy elektrických šijacích strojov a elektrických prístrojov pre domácnosť | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
-- Montáž a opravy meracej a regulačnej techniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Montáž a opravy meracej a regulačnej techniky | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+
+- Montáž, údržba a oprava telekomunikačných zariadení | *)odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (§ 23 vyhl. č. 74/1996 Z. z.) | vyhl. č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti
 
 - SKUPINA 207 - Výroba chemických výrobkov | |
 
@@ -74,17 +76,17 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 213 - Stavebníctvo | |
 
-- Spracovanie územnoplánovacích podkladov a územnoplánovacej dokumentácieProjektovanie staviebStatické výpočty nosných konštrukcií staviebVýkon činnosti stavbyvedúcehoVýkon činnosti stavebného dozoruPrieskum, skúšanie a diagnostika stavieb | preukaz o odbornej spôsobilosti | § 11 ods. 3 zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov
+- Výkon činnosti stavbyvedúcehoVýkon činnosti stavebného dozoru | osvedčenie o vykonaní odbornej skúšky | § 31 ods. 2 písm. j) zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 236/2000 Z. z.
 
-- Vykonávanie dopravných stavieb | vysokoškolské vzdelanie stavebné dopravný smer alebo vysokoškolské lesnícke vzdelanie a 8 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
+- Uskutočňovanie pozemných stavieb a ich zmien, stavebných úprav a udržiavacích prác | vysokoškolské vzdelanie stavebného zamerania, odbor pozemné stavby, a 8 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
 
-- Vykonávanie inžinierskych stavieb, priemyselných stavieb, bytových a občianskych stavieb (vrátane vybavenosti sídliskových celkov) | vysokoškolské vzdelanie stavebné alebo lesnícke a 5 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
+- Uskutočňovanie inžinierskych stavieb a ich zmien, stavebných úprav a udržiavacích prác | vysokoškolské vzdelanie stavebného zamerania, odbor dopravné stavby, vodohospodárske stavby alebo mosty a inžinierske konštrukcie, a 5 rokov praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť
 
 - Staviteľ (vykonávanie jednoduchých stavieb *) a poddodávok pre vyššie uvedené stavby) | stredná odborná škola stavebná s maturitnou skúškou a 5 rokov praxe v stavebníctve alebo vysokoškolské vzdelanie stavebné alebo lesnícke a 2 roky praxe v stavebníctve | nezahŕňa oprávnenie na projektovú činnosť; *) § 2 vyhl. č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhl. č. 155/1980 Zb. a vyhl. č. 378/1992 Zb.
 
 - Vykonávanie stavebných prác vo výškach pomocou horolezeckej alebo speleologickej techniky | osvedčenie vydané vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce alebo inštruktorom horolezeckej (speleologickej) techniky | § 1, 9 a 50 vyhl. č. 374/ 1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach
 
-- Elektroinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
+- Elektroinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (vyhl. č. 51/1978 Zb. ) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.
 
 - Plynoinštalatérstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie (§ 23 a 24 vyhl. č. 175/1975 Zb., ktorou sa vykonávajú niektoré ustanovenia plynárenského zákona v znení vyhl. č. 8/1986Zb.) *) | *) vyhl. č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/1990 Zb.
 

@@ -30,12 +30,6 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Overovanie určených meradiel | doklad o spôsobilosti v oblasti metrológie*) | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky | | § 15 zákona č. 142/2000 Z. z. o metrológii, *) § 29 zákona č. 142/2000 Z. z. o metrológii
 
-  - SKUPINA 305: Výroba elektrických prístrojov
-
-- Montáž a opravy telekomunikačných zariadení mimo jednotnej telekomunikačnej siete | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona, osvedčenie podľa § 6 vyhl. č. 51/1978 Zb., osvedčenie podľa zák. č. 451/1991 Zb.*) | | | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/1982 Zb.; § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
-
-- Montáž a opravy telekomunikačných zariadení pripojených k jednotnej telekomunikačnej sieti | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona, osvedčenie podľa § 6 vyhl. č. 51/1978 Zb., povolenie podľa § 21c ods. 5 písm. d) zák. č. 110/1964 Zb.,osvedčenie podľa zák. č. 451/1991 Zb.*) | spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | oblastný telekomunikačný úrad | *) § 4 ods. 2 a § 21c ods. 5 písm. d) zák. č. 110/1964 Zb. o telekomunikáciách v znení zák. č. 150/1992 Zb. a zák. č. 96/1993 Z. z.;§ 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
-
   - SKUPINA 307: Výroba chemických výrobkov
 
 - Výroba a odbyt zvlášť nebezpečných jedov | a) vysokoškolské vzdelanie v odbore lekárstva, veterinárneho lekárstva alebo farmácie, príp.na inej vysokej škole s postgraduálnym štúdiom priemyselnej toxikológie alebob) iné vysokoškolské vzdelanie alebo stredoškolské vzdelanie zakončené maturitnou skúškou a skúška pred komisiou pre prácu s jedmi aleboc) iné vzdelanie a skúška pred komisiou pre prácu s jedmi, opakovaná vždy po 5 rokochosvedčenie podľa zák. č. 451/1991 Zb.*) | | štátny obvodný lekár | § 5, 15 a 16 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb. a č. 83/1992 Zb.; *) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR

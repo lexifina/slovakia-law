@@ -72,7 +72,7 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 20) Zákon č. 110/1964 Zb. o telekomunikáciách.
+- 20) Zákon č. 195/2000 Z. z. o telekomunikáciách.
 
 - 21) § 62 ods. 2 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
 
