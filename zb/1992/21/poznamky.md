@@ -62,6 +62,8 @@
 
 - 7g) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
+- 7gg) § 15 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
 - 7h) § 16 ods. 4 a 5 a § 20 ods. 4 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 7ch) Zákon č. 600/1992 Zb. v znení neskorších predpisov.Zákon č. 530/1990 Zb. v znení neskorších predpisov.
