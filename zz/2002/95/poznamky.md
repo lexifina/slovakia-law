@@ -36,6 +36,22 @@
 
 - 18) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
+- 18a) § 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 18b) Napríklad § 3a a § 27 až 33 Obchodného zákonníka, § 2 ods. 2 a § 10 a 11 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov, § 9 ods. 1 a 2 a § 10 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 9 ods. 1 a 2 a § 11 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., § 6, 7, 9 a 9a zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, § 6 ods. 1 a § 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov a § 5 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
+- 18c) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 431/2002 Z. z. o účtovníctve, zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
+
+- 18d) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z.
+
+- 18e) § 4 ods. 1 písm. a), b) a c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta,§ 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
+
+- 18f) § 2 zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. o rodnom čísle.
+
+- 18g) § 7 ods. 6 zákona č. 428/2002 Z. z.
+
+- 18h) § 23 a 55 zákona č. 428/2002 Z. z.
+
 - 19) § 66 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 20) Občiansky súdny poriadok.
