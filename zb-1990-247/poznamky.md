@@ -1,0 +1,1 @@
+- 1) Kde sa ďalej v zákone uvádza výraz „organizácia“, rozumie sa tým, pokiaľ z povahy vecí nevyplýva inak, právnická alebo fyzická osoba.
