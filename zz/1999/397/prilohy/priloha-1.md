@@ -110,11 +110,13 @@ Príloha č. 1 k nariadeniu vlády č. 397/1999 Z. z.
 
 - j) balistické zbrane sa skúšajú ako im zodpovedajúce druhy zbraní, pričom sa prihliada na to, že skúšobné náboje na overovanie zbraní sa môžu v balistických zbraniach na overovanie balistických charakteristík používať ako náboje určené na trh,
 
-- k) samostatne dodávané hlavne, nábojové komory, ak nie sú súčasťou hlavne (napr. revolverové valce), závery a dnové skrutky sa skúšajú ako im zodpovedajúci druh zbrane. SK je záver určený pre viac rôznych kalibrov, skúša sa najviac namáhajúcimi skúšobnými nábojmi (kritériom namáhania je sila pôsobiaca na záver),
+- k) samostatne dodávané hlavne, nábojové komory, ak nie sú súčasťou hlavne (napr. revolverové valce), závery a dnové skrutky sa skúšajú ako im zodpovedajúci druh zbrane. Ak je záver určený pre viac rôznych kalibrov, skúša sa najviac namáhajúcimi skúšobnými nábojmi (kritériom namáhania je sila pôsobiaca na záver),
 
-- l) plynové zbrane sa skúšajú tlakom o 30 % vyšším, ako je najvyšší prevádzkový tlak. Meradlom zvýšenia tlaku môže byť aj zvýšenie úsťovej energie strely o 10 %,
+- l) plynové zbrane sa skúšajú zvýšením úsťovej rýchlosti o 10 % nad odporúčanie výrobcu,
 
 - m) výmenné hlavne, vložné hlavne a vložné nábojové komory sa skúšajú pomocou vlastného záveru spôsobom, ktorý zodpovedá danému druhu zbrane (nevzťahuje sa na vložné hlavne a vložné nábojové komory homologizované ako typ).
+
+- n) športové zbrane zhotovené a používané výlučne na športovú streľbu podľa pravidiel medzinárodných športových zväzov biatlonu a športovej streľby (združených v ISSF – medzinárodnej športovej streleckej federácii) sa skúšajú bežnými nábojmi určenými na trh.
 
 - 6. Skúšobné streľby sa vykonávajú pomocou lafiet, ktoré bezpečne chránia obsluhu a v ktorých sú zbrane upnuté tak, aby čo najviac zodpovedali podmienkam ich použitia. Pri krátkych zbraniach sa pripúšťa streľba s ochrannou rukavicou a s ochranným štítom. Skúšobná streľba sa vykonáva pri viachlavňových zbraniach postupne, t. j. hlaveň po hlavni.
 
