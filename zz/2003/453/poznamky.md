@@ -26,6 +26,8 @@
 
 - 5) Napríklad zákon č. 280/2002 Z. z. v znení zákona č. 643/2002 Z. z. a zákon č. 238/1998 Z. z.
 
+- 5a) § 7 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+
 - 6) Zákon č. 195/1998 Z. z. vznení neskorších predpisov.
 
 - 7) Napríklad § 69 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
