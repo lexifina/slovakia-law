@@ -1,0 +1,1 @@
+- 6) § 6 zákona č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby.
