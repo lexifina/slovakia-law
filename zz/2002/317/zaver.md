@@ -1,0 +1,1 @@
+Marta Žiaková v. r.
