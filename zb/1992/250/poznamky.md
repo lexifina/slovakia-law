@@ -14,6 +14,8 @@
 
 - 6) § 82 ods. 2 Zákonníka práce.
 
+- 6a) § 50 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
+
 - 7) Nariadenie vlády Slovenskej republiky č. 227/1992 Zb. o poskytovaní osobitného príplatku za prácu v sťažených a zdraviu škodlivých pracovných podmienkach.
 
 - 7a) § 56 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení zákona Slovenskej národnej rady č. 525/1990 Zb.

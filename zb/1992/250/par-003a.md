@@ -4,7 +4,7 @@
 
 - a) trvalo preukazuje mimoriadne schopnosti a dosahuje vynikajúce pracovné výsledky,
 
-- b) plní kvalifikačný predpoklad vzdelania a kvalifikačné požiadavky vzdelania podľa § 4,
+- b) plní kvalifikačný predpoklad vzdelania a kvalifikačné požiadavky vzdelania podľa § 4 a § 5 ods. 4,
 
 - c) má viac ako 12 rokov praxe v odbore požadovanej pracovnej činnosti podľa § 6 ods. 1 písm. a),
 
