@@ -1,0 +1,1 @@
+Dr. Šlechta v. r.
