@@ -1,0 +1,1 @@
+- 1) § 53 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
