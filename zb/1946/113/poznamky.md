@@ -1,0 +1,1 @@
+- *) Změny provedené zákonem č. 112/1946 Sb. nabývají účinnosti dnem 1. Ledna 1946.
