@@ -1,0 +1,1 @@
+- 1) Působnost přenesena na berní správu v České Lípě (§ 4, odst. 3 dekretu presidenta republiky č. 128/1945 Sb.).
