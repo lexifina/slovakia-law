@@ -1,0 +1,1 @@
+- 1) Podle § 93 odst. 2 zákona č. 39/1980 Sb., o vysokých školách, se při nostrifikaci rozhodne též o přiznání titulu.
