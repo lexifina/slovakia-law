@@ -1,0 +1,1 @@
+- *) Vyhláška ministra financií č. 240/1955 Ú. l. (Ú. v.) o fakturovaní a platení za tovar a práce, vyhláška Štátnej banky československej č. 170/1956 Ú. l. (Ú. v.) o platobnom a zúčtovacom styku.
