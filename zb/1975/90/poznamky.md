@@ -118,8 +118,4 @@
 
 - 120) Ustanovenia tohto paragrafu sa vzťahujú aj na palivové nádrže nezávislých kúrení.
 
-- 129) ČSN 30 4002.
-
-- 152) ČSN 30 0512.
-
 - 200) Podmienkou schválenia je splnenie požiadaviek určených ČSN 83 2140; rozhodnutie o schválení podľa zákona č. 30/1968 Zb. vydáva Strojársky skúšobný ústav - štátna skúšobňa č. 202.
