@@ -14,15 +14,13 @@ sadzobníka | |
 
 | výrobky z tepelne neopracovaných vajec |
 
-2105 00 | Zmrzlina a ostatné podobné mrazené výrobky | 15.52.10
+2105 00 | Zmrzlina | 15.52.10
 
-0406 | Syry plesňové a výrobky z nepasterizovaného mlieka, napr. | 15.51.40
-
-| bryndza z ovčieho syra |
+0406 | |
 
 | Pokrmy studenej kuchyne (lahôdkárske výrobky) | 15.89.14
 
-2106 | Pokrmy hotové mrazené alebo chladené | 15.89.14
+2106 | Pokrmy hotové mrazené alebo chladené určené pre spoločné | stravovanie 15.89.14
 
 0402 29 11 | Potraviny na osobitné výživové účely sú | 15.88.10
 
