@@ -4,17 +4,11 @@
 
 - 3) § 78 zákona č. 94/l963 Zb. o rodine v znení neskorších predpisov.
 
-- 4) Napríklad § 43 ods. 2 a § 46 zákona č. 94/1963 Zb. v znení neskorších predpisov.
+- 4) § 43 ods. 2 zákona č. 94/1963 Zb. v znení neskorších predpisov.
 
 - 5) § 706 ods. 1 a § 708 Občianskeho zákonníka.
 
-- 6) § 5 písm. c) až e) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
-
-- 7) § 5 písm. c) zákona č. 125/1998 Z. z.
-
-- 8) § 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení neskorších predpisov.
-
-- 9) § 5 písm. a) zákona č. 125/1998 Z. z.
+- 8) § 3 zákona č. 600/2003 Z. z. prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
