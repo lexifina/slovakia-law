@@ -6,7 +6,7 @@
 
 - b) na zníženie fakturovanej ceny alebo na zvýšenie veľkoobchodnej ceny na správnu výšku,
 
-- c) na zníženie fakturovanej ceny pre nižšiu akosť tovaru, avšak len v tom prípade, ak sa súčasne zníži aj veľkoobchodná cena (článok 5 ods. 6 a 7),
+- c) na zníženie fakturovanej ceny pre nižšiu akosť tovaru, avšak len v tom prípade, ak sa súčasne zníži aj veľkoobchodná cena (čl. 5 ods. 4 a 5),
 
 - d) na cenu fakturovaného tovaru, ktorý nebol dodaný, za podmienky, že faktúra bola zrušená alebo sa poskytol dobropis,
 
