@@ -11,3 +11,9 @@
 - †) Zákon č. 88/1952 Zb. materiálnom zabezpečení príslušníkov ozbrojených síl.
 
 - 1) § 85 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 153/1969 Zb. a zákona č. 20/1975 Zb.
+
+- 5a) § 4 a 5 zákona č. 463/1991 Zb. o životnom minime.
+
+- 5b) § 12 a nasl. zákona č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov (úplné znenie č. 450/1992 Zb.).
+
+- 8) Zákon č. 88/1952 Zb. o materiálnom zabezpečení príslušníkov ozbrojených síl v znení neskorších predpisov.
