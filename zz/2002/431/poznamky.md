@@ -4,17 +4,15 @@
 
 - 3) Napríklad zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
-- 4) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 4) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 5) § 2 ods. 2 Obchodného zákonníka.
+- 5) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 6) § 66a Obchodného zákonníka v znení zákona č. 127/1999 Z. z.
-
-- 7) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 7a) Napríklad § 69 ods. 6 písm. d) Obchodného zákonníka.
 
 - 8) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
-- 9) Zákon č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
+- 9) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 10) § 61 ods. 1 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
@@ -24,7 +22,7 @@
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku v znení neskorších predpisov.
 
-- 14) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+- 14) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov, § 14 zákona č. 595/2003 Z. z.
 
 - 15) § 1 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
@@ -46,9 +44,7 @@
 
 - 16) § 37 Obchodného zákonníka v znení zákona č. 600/1992 Zb.
 
-- 17) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
-
-- 18) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov.
 
@@ -64,13 +60,19 @@
 
 - 25) Napríklad § 40 zákona č. 483/2001 Z. z., § 35 ods. 4 zákona č. 34/2002 Z. z.
 
-- 26) § 48 a 51a zákona č. 366/1999 Z. z. v znení neskorších predpisov.
+- 26) § 50 zákona č. 595/2003 Z. z.
 
 - 27) Napríklad § 39 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 2 zákona č. 34/2002 Z. z.
 
+- 27a) §161d ods. 2 Obchodného zákonníka.
+
 - 28) Napríklad § 35 ods. 2 zákona č. 34/2002 Z. z.
 
+- 28a) § 15 ods. 6 písm. e) zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+
 - 29) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 4 zákona č. 34/2002 Z. z.
+
+- 29a) Kategória D prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
 
 - 30) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
@@ -84,13 +86,15 @@
 
 - 35) § 59 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 36) Napríklad zákon č. 368/1999 Z. z. o rezervách a opravných položkách na zistenie základu dane z príjmov.
+- 35a) § 20 ods. 9 písm. b) a d) zákona č. 595/2003 Z. z.
+
+- 36) § 20 zákona č. 595/2003 Z. z.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.Zákon č. 280/1997 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č.118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 381/2001 Z. z.
 
 - 38) Obchodný zákonník v znení neskorších predpisov.
 
-- 39) Napríklad § 54 zákona č. 385/1999 Z. z. v znení neskorších predpisov.
+- 39) § 95 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 40) Napríklad zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
@@ -108,6 +112,4 @@
 
 - 47) § 2 ods. 1 a 8 zákona č. 483/2001 Z. z.
 
-- 47a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
-
-- 48) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+- 47a) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
