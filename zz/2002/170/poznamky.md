@@ -1,24 +1,18 @@
-- 1) § 6 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
+- 1) § 6 ods. 1 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
-- 2) § 15 zákona č. 385/1999 Z. z.
+- 2) § 36 ods. 1, § 63 ods. 1 a § 70 ods. 1 zákona č. 594/2003 Z. z.
 
-- 3) § 52 ods. 2 zákona č. 385/1999 Z. z.
+- 3) § 51 ods. 4, § 66 ods. 1 a § 73 ods. 1 a 5 zákona č. 594/2003 Z. z.
 
-- 4) § 36 ods. 4 zákona č. 385/1999 Z. z.
+- 4) § 59 ods. 5, § 62 ods. 7 a § 69 ods. 8 zákona č. 594/2003 Z. z.
 
-- 5) § 25, 41 a 48 zákona č. 385/1999 Z. z.
+- 5) § 75 ods. 1 zákona č. 594/2003 Z. z.
 
-- 6) § 14 ods. 3 zákona č. 385/1999 Z. z.
+- 6) § 50 ods. 4 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
-- 7) § 38 zákona č. 385/1999 Z. z.
+- 7) § 111 zákona č. 43/2004 Z. z.
 
 - 8) § 39, 46 a 49 zákona č. 385/1999 Z. z.
-
-- 9) § 48 ods. 2 zákona č. 385/1999 Z. z.
-
-- 10) § 47 zákona č. 385/1999 Z. z.
-
-- 11) § 16 zákona č. 385/1999 Z. z.
 
 - 12) § 4 zákona č. 429/2002 Z. z. o burze cenných papierov.
 
@@ -50,7 +44,11 @@
 
 - 26) § 37 ods. 5 zákona č. 95/2002 Z. z.
 
-- 27) § 7 ods. 3 zákona č. 385/1999 Z. z. v znení neskorších predpisov.
+- 27) § 8 ods. 5 zákona č. 594/2003 Z. z.
+
+- 27a) § 37 ods. 3, § 63 ods. 6 a § 70 ods. 6 zákona č. 594/2003 Z. z.
+
+- 27b) § 50 ods. 4 zákona č. 43/2004 Z. z.
 
 - 28) § 59 ods. 4 zákona č. 566/2001 Z. z.
 
@@ -60,27 +58,69 @@
 
 - 30a) § 5 ods. 2 zákona č. 429/2002 Z. z.
 
-- 31) § 9 ods. 1 písm. c) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+- 31) § 10 ods. 1 písm. a) zákona č. 594/2003 Z. z.
 
-- 31a) § 9 ods. 1 písm. a) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+- 31a) § 10 ods. 1 písm. b) zákona č. 594/2003 Z. z.
 
-- 31b) § 9 ods. 1 písm. b) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+- 31b) § 10 ods. 1 písm. c) zákona č. 594/2003 Z. z.
 
-- 31c) § 9 ods. 1 písm. d) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+- 31c) § 10 ods. 1 písm. d) zákona č. 594/2003 Z. z.
 
-- 31d) § 9 ods. 1 písm. e) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+- 31d) § 10 ods. 1 písm. e) zákona č. 594/2003 Z. z.
 
-- 31e) § 9 ods. 1 písm. f) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+- 31e) § 10 ods. 1 písm. f) zákona č. 594/2003 Z. z.
 
-- 31f) § 9 ods. 1 písm. g) zákona č. 385/1999 Z. z. v znení zákona č. 432/2002 Z. z.
+- 31f) § 10 ods. 1 písm. g) zákona č. 594/2003 Z. z.
 
-- 31g) § 6 ods. 1 písm. a) zákona č. 429/2002 Z. z.
+- 31g) § 10 ods. 1 písm. h) zákona č. 594/2003 Z. z.
 
-- 31h) § 6 ods. 1 písm. c) zákona č. 429/2002 Z. z.
+- 31h) § 10 ods. 1 písm. i) zákona č. 594/2003 Z. z.
 
-- 31i) § 6 ods. 1 písm. d) zákona č. 429/2002 Z. z.
+- 31i) § 57 ods. 1 písm. a) zákona č. 594/2003 Z. z.
 
-- 31j) § 6 ods. 1 písm. e) zákona č. 429/2002 Z. z.
+- 31j) § 57 ods. 1 písm. b) zákona č. 594/2003 Z. z.
+
+- 31k) § 57 ods. 1 písm. c) zákona č. 594/2003 Z. z.
+
+- 31l) § 57 ods. 1 písm. d) zákona č. 594/2003 Z. z.
+
+- 31m) § 57 ods. 1 písm. e) zákona č. 594/2003 Z. z.
+
+- 31n) § 57 ods. 1 písm. f) zákona č. 594/2003 Z. z.
+
+- 31o) § 57 ods. 1 písm. g) zákona č. 594/2003 Z. z.
+
+- 31p) § 68 ods. 1 písm. a) zákona č. 594/2003 Z. z.
+
+- 31q) § 68 ods. 1 písm. b) zákona č. 594/2003 Z. z.
+
+- 31r) § 68 ods. 1 písm. c) zákona č. 594/2003 Z. z.
+
+- 31s) § 68 ods. 1 písm. d) zákona č. 594/2003 Z. z.
+
+- 31t) § 68 ods. 1 písm. e) zákona č. 594/2003 Z. z.
+
+- 31u) § 68 ods. 1 písm. f) zákona č. 594/2003 Z. z.
+
+- 31v) § 68 ods. 1 písm. g) zákona č. 594/2003 Z. z.
+
+- 31w) § 74 ods. 1 písm. a) zákona č. 594/2003 Z. z.
+
+- 31x) § 74 ods. 1 písm. b) zákona č. 594/2003 Z. z.
+
+- 31y) § 74 ods. 1 písm. c) zákona č. 594/2003 Z. z.
+
+- 31z) § 74 ods. 1 písm. d) zákona č. 594/2003 Z. z.
+
+- 31za) § 74 ods. 1 písm. e) zákona č. 594/2003 Z. z.
+
+- 31zb) § 74 ods. 1 písm. f) zákona č. 594/2003 Z. z.
+
+- 31zc) § 74 ods. 1 písm. g) zákona č. 594/2003 Z. z.
+
+- 31zd) § 79 ods. 1 písm. a) zákona č. 594/2003 Z. z.
+
+- 31ze) § 79 ods. 1 písm. b) zákona č. 594/2003 Z. z.
 
 - 32) § 6 ods. 1 písm. b) zákona č. 429/2002 Z. z.
 
@@ -130,17 +170,29 @@
 
 - 54a) § 13 ods. 18 zákona č. 95/2002 Z. z.
 
-- 55) § 27 ods. 5, § 42 a 48 zákona č. 385/1999 Z. z.
+- 54b) § 66b zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
-- 56) § 40 zákona č. 385/1999 Z. z.
+- 54c) § 52 ods. 1 písm. a) zákona č. 43/2004 Z. z.
 
-- 57) § 18 zákona č. 385/1999 Z. z.
+- 54d) § 52 ods. 1 písm. b) zákona č. 43/2004 Z. z.
 
-- 58) § 66 zákona č. 385/1999 Z. z.
+- 54e) § 52 ods. 1 písm. c) zákona č. 43/2004 Z. z.
 
-- 59) § 65 ods. 1 zákona č. 385/1999 Z. z.
+- 54f) § 52 ods. 1 písm. d) zákona č. 43/2004 Z. z.
 
-- 60) § 65 ods. 5 zákona č. 385/1999 Z. z.
+- 54g) § 52 ods. 1 písm. e) zákona č. 43/2004 Z. z.
+
+- 54h) § 52 ods. 1 písm. f) zákona č. 43/2004 Z. z.
+
+- 54i) § 52 ods. 1 písm. g) zákona č. 43/2004 Z. z.
+
+- 54j) § 52 ods. 1 písm. h) zákona č. 43/2004 Z. z.
+
+- 54k) § 52 ods. 1 písm. i) zákona č. 43/2004 Z. z.
+
+- 54l) § 52 ods. 1 písm. j) zákona č. 43/2004 Z. z.
+
+- 54m) § 52 ods. 1 písm. j) a § 111 ods. 15 zákona č. 43/2004 Z. z.
 
 - 61) § 4 ods. 5 písm. d) zákona č. 330/2000 Z. z.
 
@@ -158,6 +210,10 @@
 
 - 67) § 127 ods. 2 zákona č. 566/2001 Z. z.
 
+- 67a) § 122 ods. 2 zákona č. 566/2001 Z. z.§ 29 ods. 2 zákona č. 429/2002 Z. z.
+
+- 67b) § 122 ods. 2 zákona č. 566/2001 Z. z.
+
 - 68) § 122 ods. 7 zákona č. 566/2001 Z. z.
 
 - 69) § 125 ods. 3 zákona č. 566/2001 Z. z.
@@ -165,3 +221,7 @@
 - 70) § 61 ods. 5 zákona č. 95/2002 Z. z.
 
 - 71) § 21 ods. 3 písm. f) zákona č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení zákona č. 95/2002 Z. z.
+
+- 71a) § 69 ods. 8 zákona č. 43/2004 Z. z.
+
+- 71b) § 84 ods. 4 zákona č. 43/2004 Z. z.
