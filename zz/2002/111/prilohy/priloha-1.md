@@ -884,6 +884,10 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 03 Koncepčná činnosť v oblasti marketingu a propagácie cestovného ruchu na celoštátnej úrovni.
 
+04 Metodická a kontrolná činnosť v oblasti exportu a investícií na čerpanie prostriedkov štátneho rozpočtu a prostriedkov Európskych spoločenstiev v rámci programu PHARE zameraného na podporu exportu a investícií.
+
+05 Koncepčná, metodická a konzultačná činnosť v oblasti informačných zdrojov na priame zahraničné investície a export s celoštátnou pôsobnosťou.
+
 12. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -893,6 +897,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 01 Koncepčná a normotvorná činnosť v oblasti tvorby nových a osobitne zložitých postupov znaleckých posudkov transformácie hospodárskych subjektov vykonávaná zamestnancom po získaní odbornej spôsobilosti.<sup>10</sup>)
 
 02 Koordinovanie celoštátnych a medzinárodných systémov v oblasti marketingu a propagácie cestovného ruchu.
+
+03 Koncepčná, koordinačná a rozhodovacia činnosť v oblasti priamych zahraničných investícií.
 
 07. INFORMATIKA
 
@@ -1440,6 +1446,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 35 Tvorivá realizácia a stvárňovanie filmov a audiovizuálnych programov.
 
+36 Naštudovanie a tvorivá interpretácia hudobného diela, symfonického diela, vokálno-symfonického diela, komorného diela alebo hudobnej stránky hudobnodramatického diela a interpretácia sólových partov.
+
 12. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -1487,6 +1495,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 20 Tvorivé riešenie a koordinovanie špecializovaných a koncepčných úloh v oblasti dizajnu s rozsiahlymi väzbami medzi rôznymi odbormi činnosti.
 
 21 Tvorba koncepcie vydávaného periodika vrátane posudzovania jeho odbornej, tvorivej, technickej a výtvarnej úrovne.
+
+22 Koordinovanie najzložitejších umeleckých väzieb s cieľom vytvorenia jedinečného umeleckého poňatia hudobného diela, symfonického diela, vokálno-symfonického diela, komorného diela alebo hudobnej stránky hudobnodramatického diela vrátane interpretácie najzložitejších sólových partov.
 
 13. PLATOVÁ TRIEDA
 
@@ -1665,6 +1675,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 07 Kontrolná činnosť v oblasti dodržiavania technológií podľa preberacieho plánu, posudzovanie chýb a odchýlok od technologickej dokumentácie a konštrukčnej dokumentácie vrátane vstupnej kontroly, medzioperačnej kontroly a výstupnej kontroly.
 
 08 Príprava podkladov na rozhodovanie o pridelení bytu alebo o výmene bytu v rezorte ministerstva obrany alebo ministerstva vnútra.
+
+09 Zabezpečovanie odborných prác súvisiacich s organizačnou prípravou vyučovania a výcviku v škole ministerstva obrany alebo ministerstva vnútra.
 
 08. PLATOVÁ TRIEDA
 
@@ -1920,6 +1932,8 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 16 Analytická činnosť a príprava podkladov na rozhodovanie vo vymedzenej oblasti organizovania agropotravinárskeho trhu.
 
+17 Metodické usmerňovanie marketingu a propagácie agropotravinárskych výrobkov.
+
 11. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -1953,6 +1967,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 13 Odborná činnosť spojená s certifikáciou, posudzovaním zhody a skúšaním domácich a zahraničných potravinárskych výrobkov, poľnohospodárskych alebo tabakových výrobkov vrátane vydávania rozhodnutí.
 
 14 Koordinačná a metodická činnosť pri rozhodovaní o efektívnom vynakladaní prostriedkov štátu na organizovanie agropotravinárskeho trhu.
+
+15 Koncepčná činnosť na celoštátnej úrovni v oblasti marketingu a propagácie agropotravinárskych výrobkov.
 
 12. PLATOVÁ TRIEDA
 
@@ -1989,6 +2005,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 14 Koncepčná, koordinačná a metodická činnosť pri certifikácii, posudzovaní zhody a skúšaní domácich a zahraničných potravinárskych výrobkov, poľnohospodárskych výrobkov alebo tabakových výrobkov na celoštátnej úrovni.
 
 15 Koncepčná a systémová činnosť pri rozhodovaní o opatreniach politiky štátu v oblastiach organizovania agropotravinárskeho trhu.
+
+16 Koordinovanie celoštátnych a medzinárodných systémov v oblasti marketingu na podporu predaja a odbytu agropotravinárskych výrobkov.
 
 13. PLATOVÁ TRIEDA
 
@@ -2138,6 +2156,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 04 Samostatné vedenie evidencie obyvateľstva.
 
+05 Osvedčovanie listín a podpisov na listinách.
+
 05. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -2178,6 +2198,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 08 Čiastková odborná činnosť na úseku regionálneho rozvoja podľa príslušných odvetví na úrovni obce.
 
+09 Spracúvanie dokumentácie civilnej ochrany (napr. plán ochrany obyvateľstva).
+
 07. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -2206,6 +2228,10 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 11 Vykonávanie odbornej činnosti alebo ucelenej agendy regionálneho rozvoja podľa príslušných odvetví na úrovni obce alebo vyššieho územného celku.
 
+12 Odborná činnosť na úseku cestovného ruchu (napr. usmerňovanie a koordinovanie činnosti subjektov poskytujúcich služby cestovného ruchu) na úrovni obce.
+
+13 Vedenie matrík vrátane rozhodovacej činnosti na prvom stupni správneho konania vykonávané zamestnancom po vykonaní skúšky.<sup>29</sup>)
+
 08. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -2226,9 +2252,19 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 07 Samostatná odborná práca na operatívno-technickom úseku na určovanie správnych postupov na záchranu osôb, zdolávanie požiarov a mimoriadnych udalostí v rámci Mestského hasičského a záchranného zboru hlavného mesta Slovenskej republiky Bratislavy vykonávaná zamestnancom po overení odbornej spôsobilosti.<sup>5</sup>)
 
+08 Organizovanie činností zložiek integrovaného záchranného systému vrátane vykonávania vyrozumievania zamestnancov v pôsobnosti vyššieho územného celku.
+
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
 01 Vypracúvanie analýz a hodnotenie regionálneho rozvoja podľa príslušných odvetví (napr. cestovný ruch, energetika, trh práce, zdravotníctvo, školstvo, kultúra, demografia) na úrovni vyššieho územného celku.
+
+02 Koordinovanie operačných úloh, prípravy na civilnú ochranu a integrovaného záchranného systému v pôsobnosti vyššieho územného celku.
+
+03 Koordinovanie a kontrola úloh na úseku civilnej ochrany obyvateľstva v pôsobnosti vyššieho územného celku.
+
+04 Príprava podkladov na rozhodovanie na druhom stupni správneho konania o prijatí do zariadení sociálnych služieb, o skončení pobytu v nich a o úhrade za poskytované služby na úrovni vyššieho územného celku alebo obce.
+
+05 Samostatná analytická činnosť na úseku služieb sociálnej starostlivosti a sociálnych služieb poskytovaných právnickými osobami a fyzickými osobami na úrovni vyššieho územného celku alebo obce.
 
 09. PLATOVÁ TRIEDA
 
@@ -2241,6 +2277,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 02 Usmerňovanie a vykonávanie záchranných prác vrátane odborných služieb pri požiaroch a mimoriadnych udalostiach v zásahovom obvode mesta Bratislavy vykonávané hasičom po získaní odbornej spôsobilosti.<sup>5</sup>)
 
 03 Zabezpečovanie zložitých odborných technicko-opravárenských prác a servisu špeciálnej techniky a technických prostriedkov požiarnej ochrany na zdolávanie požiarov a mimoriadnych udalostí v rámci Mestského hasičského a záchranného zboru hlavného mesta Slovenskej republiky Bratislavy vykonávané zamestnancom po získaní odbornej spôsobilosti.<sup>5</sup>)
+
+04 Koordinovanie spolupráce právnických osôb a fyzických osôb na úseku cestovného ruchu a pri zabezpečovaní realizácie programu rozvoja cestovného ruchu na úrovni obce.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -2259,6 +2297,14 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 07 Zisťovanie právnych vzťahov k nehnuteľnostiam na úrovni obce.
 
 08 Odborná činnosť na úseku regionálneho rozvoja za vymedzené odvetvia (napr. cestovný ruch, energetika, trh práce, zdravotníctvo, školstvo, kultúra, demografia) na úrovni obce.
+
+09 Usmerňovanie a kontrola plnenia úloh na úseku prípravy obyvateľstva na sebaochranu a vzájomnú pomoc v pôsobnosti vyššieho územného celku.
+
+10 Koordinovanie činností informačného systému civilnej ochrany v pôsobnosti vyššieho územného celku.
+
+11 Uzatváranie zmlúv o poskytovaní príspevkov na úhradu nákladov za sociálne služby poskytované právnickými osobami a fyzickými osobami, kontrola hospodárenia s nimi a plnenie ďalších úloh, ktoré súvisia s poskytovaním týchto príspevkov na úrovni vyššieho územného celku alebo obce.
+
+12 Metodické usmerňovanie a kontrola stravovania a liečebnej výživy v zariadeniach sociálnych služieb na úrovni vyššieho územného celku alebo obce.
 
 10. PLATOVÁ TRIEDA
 
@@ -2283,6 +2329,40 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 08 Analytická činnosť na operatívno-technickom úseku na určovanie správnych postupov na záchranu osôb, zdolávanie požiarov a mimoriadnych udalostí v rámci Mestského hasičského a záchranného zboru hlavného mesta Slovenskej republiky Bratislavy vykonávaná hasičom po získaní odbornej spôsobilosti.<sup>5</sup>)
 
 09 Odborná špecializovaná práca v oblasti požiarneho dozoru alebo odborných služieb v rámci Mestského hasičského a záchranného zboru hlavného mesta Slovenskej republiky Bratislavy vykonávaná hasičom po získaní odbornej spôsobilosti.<sup>5</sup>)
+
+10 Vypracúvanie podkladov na prípravu programov regionálneho rozvoja na úrovni vyššieho územného celku.
+
+11 Spracúvanie zámerov, programov a projektov rozvoja kultúry vo všetkých oblastiach v zriaďovateľskej pôsobnosti obce.
+
+12 Analytická činnosť na úseku cestovného ruchu na úrovni vyššieho územného celku.
+
+13 Metodické usmerňovanie a koordinovanie úloh operačného plánovania v pôsobnosti vyššieho územného celku.
+
+14 Koordinovanie a kontrola protichemických, zdravotníckych alebo veterinárnych opatrení civilnej ochrany v pôsobnosti vyššieho územného celku.
+
+15 Koordinovanie organizačno-operačných úloh a prípravy na civilnú ochranu v pôsobnosti vyššieho územného celku.
+
+16 Koordinovanie evakuácie v pôsobnosti vyššieho územného celku.
+
+17 Koordinovanie individuálnej ochrany zamestnancov v pôsobnosti vyššieho územného celku.
+
+18 Koordinovanie kolektívnej ochrany zamestnancov v pôsobnosti vyššieho územného celku.
+
+19 Koordinovanie a organizovanie úloh na úseku havarijného plánovania v pôsobnosti vyššieho územného celku.
+
+20 Zabezpečovanie právnej agendy v pôsobnosti vyššieho územného celku na úseku poskytovania zdravotnej starostlivosti alebo samostatné odborné činnosti na úseku aplikovania právnych noriem pri zabezpečovaní správnej agendy lekára a farmaceuta.
+
+21 Rozhodovanie na prvom stupni správneho konania o prijatí do zariadenia sociálnych služieb bez právnej subjektivity, o skončení pobytu v ňom a o úhrade za poskytované služby na úrovni vyššieho územného celku alebo obce.
+
+22 Rozhodovanie na druhom stupni správneho konania o prijatí do zariadenia sociálnych služieb, o skončení pobytu v ňom a o úhrade za poskytované služby na úrovni vyššieho územného celku alebo obce.
+
+23 Usmerňovanie a kontrola odborných činností vykonávaných v zariadeniach sociálnych služieb zriadených vyšším územným celkom alebo obcou.
+
+24 Koncepčná činnosť v oblasti rozvoja sociálnych služieb na úrovni vyššieho územného celku alebo obce.
+
+25 Metodické usmerňovanie a kontrola vedľajšieho hospodárstva v zariadeniach sociálnych služieb na úrovni vyššieho územného celku alebo obce.
+
+26 Spracúvanie zámerov, programov a projektov rozvoja školstva vo všetkých jeho oblastiach v zriaďovateľskej pôsobnosti vyššieho územného celku alebo obce.
 
 11. PLATOVÁ TRIEDA
 
@@ -2314,6 +2394,24 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 
 12 Organizovanie a usmerňovanie síl a prostriedkov pri likvidácii zložitých požiarov alebo mimoriadnych udalostí a živelných pohrôm, pri nasadení viacerých hasičských jednotiek v obvode hasenia vykonávané hasičom po získaní odbornej spôsobilosti.<sup>5</sup>)
 
+13 Tvorba metodických postupov a údajových základní v príslušnom odvetví regiónov na tvorbu programov regionálneho rozvoja na úrovni vyššieho územného celku.
+
+14 Metodické usmerňovanie a kontrola odbornej činnosti kultúrnych zariadení v zriaďovateľskej pôsobnosti vyššieho územného celku.
+
+15 Koncepčná a koordinačná činnosť na úseku cestovného ruchu na úrovni vyššieho územného celku.
+
+16 Koncepčná činnosť a metodické usmerňovanie výchovnej činnosti v zariadeniach sociálnych služieb na úrovni vyššieho územného celku alebo obce.
+
+17 Metodické a odborné usmerňovanie vrátane kontroly psychologickej starostlivosti a sociálnej činnosti v zariadeniach sociálnych služieb na úrovni vyššieho územného celku alebo obce.
+
+18 Metodické usmerňovanie investičnej činnosti zariadení sociálnych služieb na úrovni vyššieho územného celku alebo obce.
+
+19 Metodická činnosť, usmerňovanie a rozhodovanie v sociálnej oblasti na úrovni vyššieho územného celku alebo obce vrátane supervízie.
+
+20 Tvorba koncepcie a koordinovanie aktivít na úseku sociálnoprávnej ochrany, náhradnej rodinnej starostlivosti, sociálnej prevencie, výchovnej a poradenskej starostlivosti na úrovni vyššieho územného celku.
+
+21 Metodické usmerňovanie a kontrola v oblasti hospodárskeho riadenia škôl a školských zariadení v zriaďovateľskej pôsobnosti vyššieho územného celku alebo obce.
+
 12. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -2333,6 +2431,24 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 06 Koncepčná a koordinačná činnosť v oblasti regionálneho rozvoja vyššieho územného celku.
 
 07 Koncepčná, koordinačná a kontrolná činnosť pri vykonávaní verejnej správy a pri rozvoji a plnení úloh štátnej dopravnej politiky vykonávaná na úrovni vyššieho územného celku.
+
+08 Tvorba koncepcie rozvoja kultúry v zriaďovateľskej pôsobnosti vyššieho územného celku.
+
+09 Tvorba koncepcie rozvoja sociálnych služieb poskytovaných právnickými osobami, fyzickými osobami alebo neštátnymi subjektmi na úrovni vyššieho územného celku.
+
+10 Koordinovanie výkonu územnej samosprávy na úseku zdravotnej starostlivosti v úrade samosprávneho kraja, koordinovanie obcí pri výkone územnej samosprávy na úseku zdravotnej starostlivosti a koordinovanie činností štátnych zdravotníckych zariadení a neštátnych zdravotníckych zariadení na území vyššieho územného celku, ktoré vykonáva zamestnanec po získaní nadstavbovej špecializácie z príslušného odboru.<sup>20</sup>)
+
+11 Koordinovanie výkonu územnej samosprávy na úseku humánnej farmácie na úrovni vyššieho územného celku a koordinovanie činnosti obcí pri výkone územnej samosprávy na úseku humánnej farmácie, ktoré vykonáva zamestnanec po získaní nadstavbovej špecializácie z príslušného odboru.<sup>20</sup>)
+
+12 Tvorba koncepcie rozvoja školstva v zriaďovateľskej pôsobnosti vyššieho územného celku.
+
+13. PLATOVÁ TRIEDA
+
+Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+
+13.8.6. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe viac ako 9 rokov:
+
+01 Tvorba koncepcie a stratégie rozvoja vyššieho územného celku vrátane tvorby dokumentov Výboru pre regióny Európskej únie vykonávaná na úrovni vyššieho územného celku.
 
 16. SOCIÁLNE ZABEZPEČENIE, TRH PRÁCE A ZDRAVOTNÉ POISTENIE
 
@@ -2448,6 +2564,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 
 10 Sprostredkovateľsko-poradenská činnosť pre evidovaných nezamestnaných, ich kontaktovanie so zamestnávateľmi a rozhodovacia činnosť na prvom stupni správneho konania.
 
+11 Posudzovanie a rozhodovanie o oprávnenosti nárokov na náhradu škody z poistenia zodpovednosti za škodu, stanovovanie výšky náhrady škody a posudzovanie nároku na poskytovanie náhrady škody.
+
 08.7.1. Pracovné činnosti vyžadujúce bakalárske vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
 01 Metodické usmerňovanie poistencov, platiteľov, poskytovateľov alebo odvádzateľov príspevku na poistenie v nezamestnanosti a do garančného fondu.
@@ -2489,6 +2607,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 12 Rozhodovanie o povinnosti zaplatiť príspevok na poistenie v nezamestnanosti a penále na prvom stupni správneho konania.
 
 13 Povoľovanie vykonávania práce nadčas nad hranice stanovené Zákonníkom práce.
+
+14 Schvaľovanie likvidácie poistných udalostí z poistenia zodpovednosti zamestnávateľa za škodu pri pracovnom úraze a pri chorobe z povolania.
 
 09.8.1. Pracovné činnosti vyžadujúce vysokoškolské vzdelanie, orientačná dĺžka odbornej praxe nie je ustanovená:
 
@@ -2538,6 +2658,10 @@ Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný pre
 
 16 Rozhodovanie o udelení predchádzajúceho súhlasu zamestnávateľovi na rozviazanie pracovného pomeru so zamestnancom, ktorý je občanom so zmenenou pracovnou schopnosťou, na prvom stupni správneho konania.
 
+17 Rozhodovanie o uplatnení práva Sociálnej poisťovne na náhradu vyplatených poistných plnení.
+
+18 Tvorba a určovanie postupov v oblasti poistenia zodpovednosti zamestnávateľa za škodu pri pracovnom úraze a pri chorobe z povolania.
+
 11. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
@@ -2571,6 +2695,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 13 Poskytovanie odborného poradenstva pre skupiny znevýhodnené na trhu práce a ohrozené stratou zamestnania a realizácia aktivít klubu práce.
 
 14 Metodická činnosť na úseku správneho konania v oblasti zamestnanosti z celoštátnej úrovne.
+
+15 Špecializovaná právna poradenská činnosť v oblasti výkonu poistenia zodpovednosti zamestnávateľa za škodu pri pracovnom úraze a pri chorobe z povolania.
 
 12. PLATOVÁ TRIEDA
 
@@ -2739,6 +2865,8 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačn�
 02 Výchovno-vzdelávacia činnosť zameraná na rozvíjanie tvorivých schopností a zručností žiakov v čase mimo vyučovania v oblasti využívania voľného času v školskom zariadení, v športovom stredisku mládeže alebo špeciálnom výchovnom zariadení vykonávaná vychovávateľom do splnenia podmienok určených všeobecne záväzným právnym predpisom.<sup>25</sup>)
 
 03 Organizovanie a koordinovanie prác pri zabezpečovaní činnosti a prípravy športového družstva.
+
+04 Vykonávanie športových činností v športových strediskách vrcholového športu so zaradením v širšom národnom reprezentačnom družstve vrátane splnenia podmienky nominácie a štartu na majstrovstvách Európy, majstrovstvách sveta, olympijských hrách alebo na svetových hrách v neolympijských športoch.
 
 09. PLATOVÁ TRIEDA
 
@@ -3005,6 +3133,8 @@ Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný
 04 Koncepčná a analytická činnosť v príslušnej vednej oblasti Slovenskej akadémie vied.
 
 05 Koncepčná a koordinačná činnosť v oblasti priorít vedy, techniky, výskumu alebo vývoja na celoštátnej úrovni.
+
+06 Tvorivé riešenie úloh rozvoja vedy a techniky s vopred nešpecifikovanými výstupmi, ktoré majú zásadný význam pre rozvoj vedného odboru, vykonávané zamestnancom po udelení vedecko-akademickej alebo umelecko-akademickej hodnosti.<sup>12</sup>)
 
 13. PLATOVÁ TRIEDA
 
