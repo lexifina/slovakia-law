@@ -104,6 +104,20 @@
 
 - 11d) Napr. zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
+- 11da) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
+
+- 11db) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
+
+- 11dc) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 11dd) § 13 ods. 9 zákona č. 366/1999 Z. z. v znení neskorších predpisov.
+
+- 11de) Zákon Slovenskej národnej rady č. 318/1992 Zb. v znení neskorších predpisov.
+
+- 11df) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
+
+- 11dg) § 36 zákona č. 366/1999 Z. z. v znení neskorších predpisov.
+
 - 12) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
 
 - 12a) Napr. zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
@@ -213,3 +227,19 @@
 - 23) § 24 ods. 4 a 6 zákona č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 24) § 36 ods. 2 písm. c) bod 2 zákona č. 366/1999 Z. z.
+
+- 25) § 43h ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+
+- 26) § 43b ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 27) § 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
+
+- 28) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 29) § 81c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 30) § 6 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 255/2001 Z. z.
+
+- 31) Príloha k vyhláške Ministerstva financií Slovenskej republiky č. 58/1993 Z. z., ktorou sa vykonáva zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov.
+
+- 32) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
