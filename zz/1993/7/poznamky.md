@@ -38,7 +38,7 @@
 
 - 14a) Zákon č. 18/1992 Zb. o civilnej službe.
 
-- 14b) § 29 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
+- 14b) § 4 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
 - 15) § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku. § 3 ods. 2 zákona č. 143/1992 Zb. o plate a o odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch. Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky. Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.
 
