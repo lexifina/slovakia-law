@@ -150,6 +150,8 @@
 
 - 35a) § 25 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
 
+- 35aa) § 29b ods. 3 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení zákona č. 451/2002 Z. z.
+
 - 35b) Zákon č. 195/1998 Z. z. o sociálnej pomoci.
 
 - 35c) § 57 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
