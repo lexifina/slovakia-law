@@ -1,1 +1,0 @@
-- *) Perinatálna úmrtnosť je ukazovateľ počtu mŕtvo narodených detí a detí zomretých do 7 dní po pôrode na 1000 živo narodených detí.
