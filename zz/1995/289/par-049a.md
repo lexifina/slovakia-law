@@ -4,7 +4,7 @@
 
 (2) Základom dane je súčin počtu prepravovaných osôb a počtu prejdených kilometrov v tuzemsku. Do počtu prepravovaných osôb sa nezapočítava vodič a jeden sprievodca alebo vedúci zájazdu.
 
-(3) Sadzba dane je 0,05 Sk za osobu a prejdený kilometer v tuzemsku.
+(3) Sadzba dane je 0,10 Sk za osobu a prejdený kilometer v tuzemsku.
 
 (4) Daň sa vypočíta ako súčin základu dane a sadzby dane.
 

@@ -534,17 +534,9 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - | len oprava obuvi na počkanie
 
-- 55.1 | - Hotelové služby
+- 55 | - Hotelové a reštauračné služby
 
-- | len ubytovacie služby
-
-- 55.2 | - Služby poskytované v kempingoch a iných zariadeniach pre krátkodobé ubytovanie
-
-- | len ubytovacie služby
-
-- 55.23.11 | - Služby poskytované detskými prázdninovými tábormi
-
-- 55.51 | - Služby jedální
+- | len ubytovacie služby, dodávky a podávanie jedál vrátane alkoholických nápojov
 
 - 60 | - Pozemná doprava, potrubná doprava
 

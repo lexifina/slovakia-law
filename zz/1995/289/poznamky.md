@@ -172,6 +172,10 @@
 
 - Vyhláška Ministerstva financií Slovenskej republiky č. 261/1993 Z. z. o oslobodení nepeňažného vkladu od dovozného cla.
 
+- 64a) § 106a vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. v znení vyhlášky Ministerstva financií Slovenskej republiky č. 5/1998 Z. z.
+
+- 64b) Vyhláška Ministerstva financií Slovenskej republiky č. 115/1999 Z. z. o oslobodení strojov, strojových zariadení, prístrojov a nástrojov od dovozného cla.
+
 - 65) § 242 až 244 zákona č. 618/1992 Zb.
 
 - 65a) § 68 a 69 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
