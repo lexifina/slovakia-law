@@ -1,0 +1,1 @@
+Rozália Molnárová v. r.
