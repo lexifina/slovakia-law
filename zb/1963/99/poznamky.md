@@ -34,6 +34,16 @@
 
 - 15) § 44 a nasl. Obchodného zákonníka.
 
+- 15a) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení zákona č. 465/2002 Z. z. a zákona č. 204/2004 Z. z.
+
+- Nariadenie Rady (ES) č. 1/2003 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy o založení Európskeho spoločenstva (Úradný vestník Európskych spoločenstiev L 001, 4/1/2003).
+
+- 15b) Článok 21 (3) nariadenia Rady (ES) č. 1/2003.
+
+- 15c) § 3 ods. 2 zákona č. 136/2001 Z. z. v znení zákona č. 204/2004 Z. z.
+
+- 15d) § 22 ods. 6 zákona č. 136/2001 Z. z. v znení zákona č. 204/2004 Z. z.
+
 - 16) § 8 a nasl. Obchodného zákonníka.
 
 - 17) Zákon č. 174/1988 Zb. o ochranných známkach.
@@ -77,6 +87,8 @@
 - 33aa) § 65 ods. 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 33ab) Napríklad § 456 Občianskeho zákonníka.
+
+- 33ac) Čl. 81 a 82 Zmluvy o založení Európskeho spoločenstva (úplné znenie Úradný vestník Európskeho spoločenstva C 325, 24/12/2002).
 
 - 33b) § 161 ods. 5 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
