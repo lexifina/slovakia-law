@@ -134,10 +134,6 @@ Nariadenie vlády Slovenskej republiky č. 394/1999 Z. z., ktorým sa ustanovuj�
 
 - „§ 7
 
-- (1)
-
-- Výrobca alebo dovozca prístroja vydá vyhlásenie o zhode na základe posúdenia zhody vykonaného autorizovanou osobou.
-
 - (2)
 
 - Výrobca alebo dovozca pred uvedením na trh posúdi zhodu prístroja postupom podľa § 12 ods. 3 písm. a) zákona, vydá vyhlásenie o zhode a umiestni značku zhody podľa § 21 zákona.
