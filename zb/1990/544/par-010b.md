@@ -4,6 +4,6 @@
 
 (2) Poplatok platí fyzická a právnická osoba, ktorá zábavný hrací prístroj umiestnila alebo prevádzkuje.
 
-(3) Sadzba poplatku je najviac 20 000 Kčs ročne za jeden zábavný hrací prístroj.
+(3) Sadzba poplatku je najviac 20 000 Sk ročne za jeden zábavný hrací prístroj.
 
 (4) Poplatková povinosť vzniká dňom umiestnenia zábavného hracieho prístroja v priestoroch prístupných verejnosti v obci.
