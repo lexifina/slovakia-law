@@ -1,0 +1,5 @@
+# § 14 znie:
+
+„§ 14
+
+Ministerstvo kultúry Slovenskej republiky je ústredným orgánom štátnej správy Slovenskej republiky pre umenie, kultúrno-osvetovú činnosť, pamiatkovú starostlivosť, vydávanie periodickej tlače a neperiodických publikácií, pre činnosť hromadných informačných prostriedkov s výnimkou rozhlasového a televízneho vysielania, pre knižninú a múzejnú činnosť, pre vykonávanie autorského zákona, pre veci cirkví a náboženských spoločností a pre výrobu a obchod v oblasti kultúry.“.
