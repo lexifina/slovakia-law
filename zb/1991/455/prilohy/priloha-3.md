@@ -26,9 +26,9 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Hubenie škodlivých živočíchov, rastlín, mikroorganizmov a potláčanie ďalších škodlivých činiteľov jedmi vrátane ochrannej dezinfekcie, dezinsekcie, deratizácie | absolvovanie odborného kurzu, úspešné zloženie záverečnej skúšky a 1 rok praxe | opakovanie skúšky každé 3 roky , odborná spôsobilosť pracovníkov na výkon ochrannej dezinfekcie a deratizácie, schválenie platných technologických pracovných postupov orgánmi štátnej správy na úseku zdravotníctva | štátny obvodný lekár | § 15 ods. 5 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb. a č. 83/1992 Zb.; § 23 vyhl. č. 103/1984 Zb. o opatreniach proti prenosným chorobám
 
-- Prevádzkovanie stredísk kalibračnej služby | preverenie kvalifikácie pracovníkov Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | akreditácia strediska Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | Úrad pre normalizáciu, metrológiu a skúšobníctvo SR | § 20 zák. č. 505/1990 Zb. o metrológii
+- Úradné meranie | doklad o spôsobilosti v oblasti metrológie*) | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky | Úrad pre normalizáciu, metrológiu a skúšobníctvo SR | § 20 zákona č. 142/2000 Z. z. o metrológii, *) § 29 zákona č. 142/2000 Z. z. o metrológii
 
-- Úradné meranie | preverenie kvalifikácie Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | § 21 zák. č. 505/1990 Zb. o metrológii
+- Overovanie určených meradiel | doklad o spôsobilosti v oblasti metrológie*) | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky | | § 15 zákona č. 142/2000 Z. z. o metrológii, *) § 29 zákona č. 142/2000 Z. z. o metrológii
 
   - SKUPINA 305: Výroba elektrických prístrojov
 
