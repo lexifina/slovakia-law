@@ -1,7 +1,5 @@
 # Čl. XII
 
-(1) Ak platí poistné na zdravotné poistenie, dôchodkové zabezpečenie a nemocenské poistenie zamestnávateľ, ktorým je štátna rozpočtová alebo štátna príspevková organizácia, postupuje pri splátke za december 1994 v termínoch podľa zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.; ustanovenia § 23 a 24 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. a § 27 a 28 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. sa na tieto účely nepoužijú.
-
 (2) Platiteľ dane z pridanej hodnoty (ďalej len „daň“), ktorý daň na vstupe zaplatil inému platiteľovi dane za prijaté zdaniteľné plnenia pred účinnosťou tohto zákona a daň na vstupe zaúčtoval po účinnosti tohto zákona, má nárok na odpočet dane podľa § 18 a 19 zákona č. 222/1992 Zb. o dani z pridanej hodnoty v znení neskorších predpisov v zdaňovacom období, v ktorom daň na vstupe zaúčtoval.
 
 (3) Platiteľ dane z pridanej hodnoty (ďalej len „daň“), ktorý daň na vstupe zaúčtoval pred účinnosťou tohto zákona a daň zaplatil inému platiteľovi dane po účinnosti tohto zákona, má nárok na odpočet dane len v zdaňovacom období, v ktorom daň na vstupe zaúčtoval.
