@@ -1,1 +1,0 @@
-- *) Vládna vyhláška č. 150/1958 Ú. l. (Ú. v.) o vybavovaní sťažností, oznámení a podnetov pracujúcich.
