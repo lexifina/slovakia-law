@@ -1,0 +1,1 @@
+- 1) Bod 4 přílohy II.
