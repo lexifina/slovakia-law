@@ -8,7 +8,7 @@
 
 - 5) § 2 nariadenia vlády Slovenskej republiky č. 297/2003 Z. z. o zdravotných podmienkach pri výmenách hydiny a násadových vajec s členskými štátmi, pri ich premiestňovaní a dovoze z tretích krajín.§ 2 nariadenia vlády Slovenskej republiky č. 281/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého mäsa na trh.§ 2 nariadenia vlády Slovenskej republiky č. 299/2003 Z. z. o požiadavkách na zdravie zvierat pri uvádzaní na trh čerstvého hydinového mäsa, jeho výmenách s členskými štátmi a dovozoch z tretích krajín.
 
-- 6) Nariadenie vlády Slovenskej republiky č. 299/2003 Z. z.
+- 6) Nariadenie vlády Slovenskej republiky č. 282/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého hydinového mäsa na trh.
 
 - 7) § 6 zákona č. 488/2002 Z. z.
 
@@ -32,7 +32,7 @@
 
 - 17) § 37 zákona č. 488/2002 Z. z.
 
-- 18) Nariadenie vlády Slovenskej republiky č. 317/2003 Z. z. o požiadavkách na výrobu a uvádzanie na trh mletého mäsa a mäsových prípravkov.
+- 18) Nariadenie vlády Slovenskej republiky č. 286/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri výrobe a uvádzaní na trh mäsových výrobkov a určitých ostatných produktov živočíšneho pôvodu v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
 
 - 19) Nariadenie vlády Slovenskej republiky č. 288/2003 Z. z. o hlásení chorôb zvierat.
 
@@ -48,7 +48,7 @@
 
 - 25) § 31 zákona č. 488/2002 Z. z.
 
-- 26) Nariadenie vlády Slovenskej republiky č. 293/2003 Z. z. o veterinárnej kontrole pri výmenách živých zvierat a produktov živočíšneho pôvodu s členskými štátmi.
+- 26) Nariadenie vlády Slovenskej republiky č. 292/2003 Z. z. o podrobnostiach veterinárnych kontrol pri výmenách produktov živočíšneho pôvodu s členskými štátmi v znení nariadenia vlády Slovenskej republiky č. 493/2003 Z. z.
 
 - 27) § 32 zákona č. 488/2002 Z. z.
 
