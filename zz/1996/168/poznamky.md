@@ -54,6 +54,8 @@
 
 - 28) § 21 ods. 2 Obchodného zákonníka.
 
+- 28a) § 11 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 30) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
