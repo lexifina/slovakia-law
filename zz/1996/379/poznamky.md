@@ -10,6 +10,8 @@
 
 - 8) § 172 Zákonníka práce.
 
+- 8a) § 21 ods. 1 a 2 zákona č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
 - 9) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 12) Zákon č. 119/1992 Zb. v znení neskorších predpisov.
