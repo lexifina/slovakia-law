@@ -1,1 +1,0 @@
-- *) Tarifa pre prekladanie a uskladňovanie tovaru v československých riečnych prístavoch platná od 1.apríla 1964 uverejnená v Tarifnom vestníku č. 23 z 10. 6. 1963. Jej platnosť odložená Prepravným a tarifným vestníkom č. 11 z 16. 3. 1964.
