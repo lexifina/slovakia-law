@@ -28,6 +28,8 @@
 
 - 15) Zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie v znení zákona č. 101/1964 Zb.
 
+- 15a) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+
 - 16) Napríklad § 57 zákona Slovenskej národnej rady č. 410/1991 Zb., § 124 Zákonníka práce.
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
