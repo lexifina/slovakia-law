@@ -1,0 +1,3 @@
+# § 112f
+
+Práva a povinnosti účastníkov právnych vzťahov sociálnej pomoci vyplývajúce z odovzdania pôsobností podľa § 112d a 112e, vzniknuté do 30. júna 2002 sa odovzdajú z príslušného okresného úradu a príslušného krajského úradu na príslušnú obec a príslušný samosprávny kraj, a to podľa delimitačných protokolov uzatvorených medzi príslušným okresným úradom a príslušným krajským úradom a medzi príslušnou obcou a príslušným samosprávnym krajom; s odovzdaním týchto pôsobností nie je dotknuté právo občana na poskytovanie starostlivosti v zariadení sociálnych služieb v rozsahu, v akom sa táto starostlivosť poskytovala do 30. júna 2002.
