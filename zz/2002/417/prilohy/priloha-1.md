@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 417/2002 Z. z.
 
-- POLYMORFNÉ SYSTÉMY
+- Polymorfné systémy
 
   - Polymorfné systémy deoxyribonukleovej kyseliny, v ktorých sa vykonáva analýza deoxyribonukleovej kyseliny:
 
@@ -18,12 +18,4 @@ Príloha č. 1 k zákonu č. 417/2002 Z. z.
 
   - FGA
 
-  - D1S1656
-
-  - D2S441
-
-  - D10S1248
-
-  - D12S391
-
-  - D22S1045
+  - Amelogenin na určenie pohlavia.
