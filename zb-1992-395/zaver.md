@@ -1,0 +1,3 @@
+Ministr:
+
+Dejmal v. r.
