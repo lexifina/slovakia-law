@@ -116,7 +116,7 @@ Skúšobný postup na overenie, či chladiaci spotrebič spĺňa požiadavky na 
 
 Ak je spotreba elektrickej energie chladiaceho spotrebiča podliehajúceho overeniu menšia alebo sa rovná E<sub>max</sub> + 15 %, chladiaci spotrebič sa certifikuje ako vyhovujúci požiadavkám na spotrebu elektrickej energie.
 
-Ak je spotreba elektrickej energie chladiaceho spotrebiča väčšia ako E<sub>max</sub> + 15 %, je potrebné zmerať spotrebu elektrickej energie na ďalších troch chladiacich spotrebičoch. Ak je aritmetický priemer spotreby elektrickej energie týchto troch chladiacich spotrebičov menší alebo sa rovná E<sub>max</sub> + 10 %, chladiaci spotrebič sa certifikuje ako vyhovujúci požiadavkám na spotrebu elektrickej energie. Ak aritmetický priemer prekračuje E<sub>max</sub> + 10 %, chladiaci spotrebič sa certifikuje ako nevyhovujúci požiadavkám na spotrebu elektrickej energie.
+Ak je spotreba elektrickej energie chladiaceho spotrebiča väčšia ako E<sub>max</sub> + 15 %, je potrebné zmerať spotrebu elektrickej energie na ďalších troch chladiacich spotrebičoch. Ak je aritmetický priemer spotreby elektrickej energie týchto troch chladiacich spotrebičov menší alebo sa rovná E<sub>max</sub> + 10 %, chladiaci spotrebič sa certifikuje ako vyhovujúci požiadavkám na spotrebu elektrickej energie. Ak aritmetický priemer prekračuje E<sub>max</sub> + 10 %, chladiaci spotrebič sa posúdi ako nevyhovujúci požiadavkám na spotrebu elektrickej energie.
 
 Definície
 
