@@ -1,0 +1,1 @@
+- 1) Týmto opatrením sa mení Zoznam obcí a ich častí tvoriacich jednotlivé okresy v Slovenskej republike uverejnený v opatrení Ministerstva vnútra Slovenskej republiky z 24. novembra 1995 č. 28/1996 Z. z.
