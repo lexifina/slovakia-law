@@ -8,14 +8,6 @@
 
       - Nemocenské poistenie zamestnancov a občanov postavených im v tomto poistení na roveň (ďalej len „nemocenské poistenie“) sa vykonáva v závodoch a na príslušných orgánoch nemocenského poistenia (ďalej len „príslušný orgán“).
 
-    - § 3
-
-      - Príjmy a výdavky nemocenského poistenia sú súčasťou štátnych príjmov a výdavkov.
-
-    - § 4
-
-      - Kde sa v tomto opatrení hovorí o zamestnancoch, rozumejú sa tým pracovníci, na ktorých sa vzťahujú predpisy o nemocenskom poistení zamestnancov.
-
     - § 5
 
       - (1) Závodom sa na účely nemocenského poistenia rozumie zamestnávateľ, ktorý má viac než 20 zamestnancov. Závodom sa rozumie aj zamestnávateľ, ktorý má menej zamestnancov, ak evidenciu miezd vedie pre neho iná organizácia.
@@ -46,12 +38,6 @@
 
       - Spoločné ustanovenia o orgánoch nemocenského poistenia
 
-      - (3) Členovia a funkcionári orgánov nemocenského poistenia, ako aj pracovníci závodov sú povinní zachovávať mlčanlivosť o skutočnostiach, ktoré majú zostať utajené a o ktorých sa dozvedeli v súvislosti s výkonom činnosti v nemocenskom poistení. Táto povinnosť trvá aj po skončení funkcie, prípadne pracovného pomeru.
-
-      - (4) Všetky orgány nemocenského poistenia sú oprávnené v medziach svojej pôsobnosti vyžadovať podľa § 59 zákona od štátnych orgánov, ako aj od rozpočtových, hospodárskych a iných organizácií pomoc a bezplatné oznámenia potrebné pre vykonávanie nemocenského poistenia a jeho správu.
-
-      - (5) Všetky orgány nemocenského poistenia si navzájom poskytujú všetku pomoc potrebnú na vykonávanie nemocenského poistenia.
-
   - Tretia časť Úlohy závodu pri vykonávaní nemocenského poistenia
 
     - § 12 Úlohy a zodpovednosť závodu
@@ -77,8 +63,6 @@
       - (2) Závod, jeho právny nástupca alebo ten, kto je poverený likvidáciou závodu, je povinný odhlásiť sa na predpísanom tlačive z registra závodov najneskoršie do 7 dní odo dňa zániku závodu alebo odo dňa, keď závod prestal byť závodom v zmysle § 5 ods. 1.
 
       - (3) Závod je ďalej povinný hlásiť do 7 dní každú zmenu svojho názvu, sídla, zmenu dňa, ktorý je v závode určený pre výplatu mzdy, prípadne zmenu oprávnení na plnenie úloh pre nemocenské poistenie.
-
-      - (4) Ak závod zanedbá povinnosti ustanovené v predchádzajúcich odsekoch, môže mu príslušný orgán predpísať platobným výmerom penále vo výške od 500 Kčs do 5000 Kčs.
 
     - § 14 Evidencia o zamestnancoch
 
@@ -106,7 +90,7 @@
 
       - (1) Závod je povinný viesť predpísanú účtovnú a štatistickú evidenciu o nemocenskom poistení.
 
-      - (2) Závod je povinný predkladať v určených lehotách predpísané zúčtovanie o hospodárení s prostriedkami nemocenského poistenia v závode; podrobnosti určí príslušné orgány nemocenského poistenia republík po dohode s Federálnym ministerstvom práce a sociálnych vecí.
+      - (2) Závod je povinný predkladať v určených lehotách predpísané zúčtovanie o hospodárení s prostriedkami nemocenského poistenia v závode.
 
     - § 18 Kontrolné oprávnenia príslušných orgánov
 
@@ -123,108 +107,6 @@
       - (2) Závod vykazuje prostriedky nemocenského poistenia oddelene od vlastných prostriedkov závodu.
 
       - (3) Prostriedky nemocenského poistenia nemožno použiť na iné účely než na účely nemocenského poistenia.
-
-    - § 20 Príjmy a výdavky nemocenského poistenia
-
-      - (1) Príjmami nemocenského poistenia sú:
-
-        - a) poistné nemocenského poistenia (ďalej len „poistné“),
-
-        - b) prirážka k poistnému (§ 27),
-
-        - c) penále pre nezaplatenie poistného (§ 28),
-
-        - d) penále pre nesplnenie iných povinností uložených závodom (§ 13 ods. 4, § 24 ods. 5 a § 50 ods. 3),
-
-        - e) príjmy z nárokov na náhradu vyplatených dávok proti zamestnávateľom alebo iným osobám,
-
-        - f) iné príjmy (vrátené dávky a pod.).
-
-      - (2) Výdavkami nemocenského poistenia sú:
-
-        - a) výdavky na peňažné dávky nemocenského poistenia a na rodinné prídavky,
-
-        - b) úhrady štátnej zdravotníckej správe za poskytnutú kúpeľnú starostlivosť,
-
-        - d) príspevky na diétne stravovanie v nočných sanatóriách,
-
-        - e) náklady spojené s vykonávaním nemocenského poistenia v príslušnom orgáne,
-
-        - f) iné výdavky (náklady školenia, inštruktáží a pod.).
-
-    - § 21 Poistné
-
-      - (1) Poistné sa určuje ustanovenou sadzbou z úhrnu miezd všetkých zamestnancov toho istého zamestnávateľa. Do tohto úhrnu sa započítajú iba mzdy z činností, ktoré zakladajú účasť na nemocenskom poistení. Mzdou sa rozumie mzda za prácu podľa predpisov o dani zo mzdy, pokiaľ nie je priamo zo zákona od tejto dane oslobodená.
-
-      - (2) Sadzbu poistného určuje zákon, prípadne predpisy podľa neho vydané.
-
-    - § 22 Zamestnávateľ
-
-      - (1) Poistné platí zamestnávateľ.
-
-      - (2) Pokiaľ ide o úlohy zamestnávateľa vyplývajúce z predpisov o poistnom, rozumie sa zamestnávateľom závod v zmysle § 5 ods. 1. Ak nemá závod podľa organizačných predpisov, ktoré preň platia, potrebné oprávnenia, aby sám mohol plniť tieto úlohy, plní ich zaň organizačná zložka, ktorá je na to povolaná podľa príslušných predpisov; pritom pre túto zložku platí, čo je inak ustanovené pre závod.
-
-    - § 23 Zročnosť poistného
-
-      - Poistné sa platí za jednotlivé kalendárne mesiace; je zročné v deň, ktorý je v závode určený na výplatu miezd a platov za príslušný mesiac. V závodoch, kde je výplata miezd pre jednotlivé úseky (prevádzkárne, dielne) rozložená na rôzne dni, je dňom splatnosti poistného pre celý závod deň poslednej výplaty zúčtovaných miezd za uplynulý kalendárny mesiac. Ak nie je tento deň určený, je poistné zročné vždy prvého dňa každého kalendárneho mesiaca za všetky výplatné obdobia ukončené v predchádzajúcom mesiaci.
-
-    - Vykazovanie, zúčtovanie a úhrada dávok a poistného
-
-      - § 24
-
-        - (1) Dávky nemocenského poistenia, ktoré závod vyplatil (zúčtoval), sa mu uhrádzajú z prostriedkov nemocenského poistenia spôsobom ďalej ustanoveným.
-
-        - (2) Závod je povinný vykázať za každý kalendárny mesiac príslušnému orgánu zúčtované dávky. Dávky poskytnuté neprávom, sumy prevyšujúce správnu výšku dávok a dávky, výplata ktorých nie je doložená, nemožno vykazovať a uhrádzať z prostriedkov nemocenského poistenia.
-
-      - § 25
-
-        - (1) Ak závod odvádza poistné ako súčasť odvodu z objemu miezd<sup>1</sup>) alebo dane z objemu miezd<sup>2</sup>) alebo ako súčasť dane z objemu miezd a odmien,<sup>3</sup>) prípadne je začlenený do takej organizácie, vykazuje príslušnému orgánu na predpísanom výkaze dávok len zúčtované dávky.
-
-        - (2) Závod predkladá výkaz dávok a vyberá si prostriedky na ich úhradu prostredníctvom pobočky česko-slovenského peňažného ústavu, v ktorom má účet prostriedkov nemocenského poistenia preň príslušný orgán. Výkaz dávok spolu so zodpovedajúcim prevodným príkazom je závod povinný predložiť tejto pobočke za každý kalendárny mesiac najneskôr v deň, ktorý je v závode určený na výplatu miezd a platov za mesiac, ktorého sa výkaz týka. Peňažný ústav nevykoná príkaz, ak nie je doložený výkazom dávok.
-
-        - (3) Ak závod vybral neprávom úhradu na dávky, ktoré nesmie podľa § 24 ods. 2 vykazovať a uhrádzať, príslušný orgán mu platobným výmerom<sup>4</sup>) predpíše poistné vo výške neprávom vybranej úhrady. Toto poistné je závod povinný uhradiť v plnej výške najneskôr do 15 dní od doručenia platobného výmeru priamo príslušnému orgánu v prospech účtu prostriedkov nemocenského poistenia.
-
-        - (4) Ustanovenia predchádzajúcich odsekov platia aj pre rozpočtové a príspevkové organizácie, v ktorých sa poistné vyrovnáva zodpovedajúcou úpravou ich rozpočtov.
-
-      - § 26
-
-        - (1) Závod, na ktorý sa nevzťahuje § 25, je povinný sám vypočítať poistné za každý kalendárny mesiac a vykázať ho spolu s dávkami zúčtovanými za tento mesiac príslušnému orgánu na predpísanom výkaze poistného a dávok.
-
-        - (2) Výkaz poistného a dávok závod predkladá príslušnému orgánu prostredníctvom pobočky česko-slovenského peňažného ústavu, v ktorom má závod svoj účet. Zároveň predkladá tejto pobočke príkaz na úhradu rozdielu medzi poistným a dávkami v prospech účtu prostriedkov nemocenského poistenia spravovaného príslušným orgánom. Závod je povinný predložiť tieto doklady najneskôr v deň, ktorý je v závode určený pre výplatu miezd a platov za mesiac, ktorého sa výkaz týka, prípadne ak tento deň nie je určený, najneskôr do 8 dní po uplynutí mesiaca, ktorého sa výkaz týka. Ak sú však dávky vyššie ako poistné, predkladá závod výkaz poistného a dávok pobočke česko-slovenského peňažného ústavu, v ktorom má účet príslušný orgán, spolu s príkazom na úhradu rozdielu na ťarchu účtu prostriedkov nemocenského poistenia spravovaného príslušným orgánom.
-
-        - (3) Ak závod nemá účet v niektorej pobočke česko-slovenského peňažného ústavu, je povinný predložiť výkaz poistného a dávok priamo príslušnému orgánu najneskôr do 8 dní odo dňa splatnosti poistného, a najneskôr do tej istej lehoty mu uhradiť rozdiel, o ktorý poistné prevyšuje dávky. Ak sú dávky vyššie ako poistné, uhradí príslušný orgán sumu vyplývajúcu v prospech závodu do 8 dní odo dňa, keď jej bol doručený výkaz.
-
-        - (4) Príslušný orgán predpíše platobným výmerom závodu uvedenému v odseku 1 poistné, ak závod
-
-          - a) ho nevykázal vôbec alebo ho vypočítal a vykázal nesprávne nižšou sumou alebo
-
-          - b) neprávom odpočítal od poistného dávky, ktoré podľa § 24 ods. 2 nesmie vykazovať a uhrádzať, a neoprávnene tak skrátil odvod poistného.
-
-        - Ak závod neposkytne podklady potrebné na zistenie správnej výšky poistného, ktoré mal odviesť, môže mu príslušný orgán predpísať poistné podľa pomerov v obdobnom závode približne rovnako veľkom. Predpísané poistné je závod povinný uhradiť najneskôr do 15 dní odo dňa doručenia platobného výmeru v plnej výške príslušnému orgánu v prospech účtu prostriedkov nemocenského poistenia.
-
-      - § 27 Prirážka k poistnému
-
-        - (1) Ak zariadenie závodu platobným výmerom nevyhovuje podľa právoplatného rozhodnutia orgánu dozoru nad bezpečnosťou a ochranou zdravia pri práci, predpisom na zaistenie bezpečnosti a ochrany zdravia pri práci alebo podľa právoplatného rozhodnutia orgánu štátnej zdravotníckej správy zdravotníckym predpisom alebo ak nie je podľa zistenia týchto orgánov inštalované alebo riadne v prevádzke zariadenie na ochranu pracovníkov, príslušný orgán nemocenského poistenia uloží závodu platobným výmerom platenie prirážky k poistnému.
-
-        - (2) Prirážka sa ukladá až do 5 % úhrnu miezd určeného podľa § 21, prípadne do 5 % úhrnu miezd zamestnancov vnútornej organizačnej jednotky závodu, ak sa zistené nedostatky týkajú výlučne tejto jednotky. Platí sa od prvého dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom došlo k rozhodnutiu alebo k zisteniu o nedostatkoch v zariadení závodu. Ak bola určená lehota na odstránenie nedostatkov, platí sa prirážka k poistnému od prvého dňa kalendárneho mesiaca, v ktorom lehota bezvýsledne uplynula. Povinnosť platiť prirážku zaniká uplynutím posledného dňa kalendárneho mesiaca, v ktorom boli odstránené nedostatky v zariadení závodu; preukaz o tom sa podáva potvrdením orgánu, ktorý o nedostatkoch rozhodol.
-
-        - (3) Uloženú prirážku závod je povinný uhrádzať za každý kalendárny mesiac priamo príslušnému orgánu nemocenského poistenia v prospech účtu prostriedkov nemocenského poistenia.
-
-        - (4) Pre prirážku k poistnému inak obdobne platia ustanovenia § 21 až 23 a § 28 až 34.
-
-      - § 28 Penále
-
-        - (1) Ak závod neuhradil do 8 dní odo dňa splatnosti poistné, ktoré je podľa predchádzajúcich ustanovení povinný za jednotlivé kalendárne mesiace uhrádzať príslušnému orgánu nemocenského poistenia, alebo neuhradil rozdiel medzi vykázaným poistným a vykázanými dávkami do 8 dní odo dňa splatnosti poistného, je povinný platiť penále vo výške 0,1 % za každý deň omeškania odo dňa splatnosti, najmenej však v jednom prípade meškania sumu 10 Kčs.
-
-        - (2) S poistným predpísaným platobným výmerom (§ 25 ods. 3 a § 26 ods. 4) je závod povinný zaplatiť penále z predpísanej sumy vo výške 0,1 % za každý deň odo dňa, keď došlo k skráteniu poistného, prípadne odo dňa jeho pôvodnej splatnosti až do dňa, keď príslušnému orgánu nemocenského poistenia bola platba zúčtovaná na jej účet, najmenej však sumu 10 Kčs za každý predpis.
-
-        - (3) Ak závod v určenej lehote nezašle riadne vyplnený výkaz dávok (§ 25) alebo výkaz poistného a dávok (§ 26) alebo ak neuvedie v prevodnom príkaze (§ 25) alebo v príkaze na úhradu rozdielu medzi poistným a dávkami (§ 26) správne a úplne všetky náležitosti, môže mu príslušný orgán predpísať platobným výmerom penále vo výške od 500 Kčs do 5000 Kčs.
-
-        - (4) Pre penále podľa predchádzajúcich odsekov, ako aj pre penále podľa iných ustanovení tohto opatrenia (§ 13 ods. 4, § 50 ods. 3) platia ustanovenia o vykazovaní nedoplatkov, o vykonateľnosti, vymáhaní, premlčaní a vracaní poistného (§ 29 až 34).
-
-      - § 28a Náležitosti rozhodnutia o platobnom výmere
-
-        - Platobný výmer musí obsahovať okrem všeobecne ustanovených náležitostí rozhodnutia<sup>5</sup>) označenie závodu, ktorému sa predpisuje, a poučenie o vykonateľnosti. Platobný výmer na poistné (§ 25 ods. 3 a § 26 ods. 4) musí obsahovať tiež poučenie o povinnosti platiť penále podľa § 28 ods. 2.
 
       - § 29 Výkaz nedoplatkov poistného
 
@@ -247,22 +129,6 @@
       - § 32
 
         - Na základe vykonateľného platobného výmeru alebo vykonateľného výkazu nedoplatkov poistného možno nezaplatené poistné s príslušenstvom a penále vymáhať súdnou alebo správnou exekúciou.
-
-      - § 33 Premlčanie poistného
-
-        - (1) Právo vyrubiť poistné sa premlčuje v 5 rokoch odo dňa zročnosti.
-
-        - (2) Ak sa závod vôbec neprihlásil na zápis do registra závodov, premlčuje sa právo vyrubiť poistné v 10 rokoch.
-
-        - (3) Právo vymáhať poistné sa premlčuje v 5 rokoch, alebo ak ide o prípad uvedený v odseku 2, v 10 rokoch odo dňa zročnosti; ak sa poistné vyrubilo, premlčuje sa toto právo v 5 rokoch odo dňa, keď závod bol upovedomený o jeho vyrubení.
-
-        - (4) Ak sa vykonal úkon, ktorý smeruje k zisteniu výšky poistného, k jeho vyrubeniu alebo vymáhaniu, začne sa nová premlčacia doba odo dňa, keď sa závod o tom dozvedel.
-
-        - (5) Ustanovenia predchádzajúcich odsekov platia obdobne aj o penále.
-
-      - § 34 Vrátenie poistného
-
-        - Poistné alebo penále zaplatené bez právneho dôvodu sa vráti bez úrokov, ak sa bude požadovať naspäť do 3 rokov po uplynutí kalendárneho roku, v ktorom sa zaplatilo, pokiaľ závod nemá iný zročný záväzok z vykonávania nemocenského poistenia. Náklady na dávky medzitým už poskytnuté sa od tohto poistného odpočítajú.
 
   - Piata časť Konanie vo veciach nemocenského poistenia
 
@@ -335,26 +201,6 @@
     - § 50 Ohlášky na poistenie
 
       - (1) Malý závod nepodáva prihlášky, odhlášky a hlásenia zmien do registra závodov.
-
-      - (2) Malý závod je povinný prihlásiť na príslušného orgánu nemocenského poistenia na predpísanom tlačive zamestnanca na poistenie do 7 dní odo dňa vstupu do zamestnania a uviesť na prihláške, ak je ku vzniku pracovného pomeru predpísaný súhlas okresného národného výboru, údaje o udelení tohto súhlasu. Taktiež je povinný odhlásiť na príslušného orgánu nemocenského poistenia zamestnanca, s ktorým sa rozviazal pracovný pomer alebo ktorý bol premiestnený do iného závodu (malého závodu), a to do 7 dní odo dňa rozviazania pracovného pomeru alebo premiestnenia.
-
-      - (3) Ak neprihlási alebo neodhlási malý závod zamestnanca v lehote určenej v predchádzajúcom odseku, môže mu príslušný orgán uložiť penále vo výške od 500 Kčs do 5000 Kčs. Uložené penále je malý závod povinný odviesť príslušnému orgánu.
-
-    - § 51 Poistné
-
-      - (1) Pre výpočet, vykazovanie a odvod poistného za zamestnanca malých závodov neplatia ustanovenia o odpočítaní dávok od poistného. Malý závod predkladá príslušnému orgánu nemocenského poistenia výkaz poistného a odvádza jej celé zročné poistné.
-
-      - (2) Ak neprihlásil malý závod zamestnanca na poistenie, premlčuje sa právo vyrubiť poistné v 10 rokoch odo dňa zročnosti.
-
-      - (3) Inak platia o poistnom za zamestnanca malých závodov primerane ustanovenia §§ 21 až 34.
-
-    - § 52 Malé závody súkromného sektora
-
-      - (1) V súkromnom hospodárstve má povinnosti uložené malému závodu zamestnávateľ, a ak je zamestnávateľov niekoľko, každý z nich.
-
-      - (2) Za poistné a penále, ktoré dlhuje zamestnávateľ a ktoré sa stali zročnými v dobe trvania bezpodielového spoluvlastníctva manželov, ručí manžel zamestnávateľa.
-
-      - (3) Poistné s príslušenstvom a penále, vymáhané súdnou alebo správnou exekúciou, majú v exekučnom konaní poradie pohľadávok štátu na verejných dávkach.
 
     - Konanie vo veciach nemocenského poistenia pracovníkov malých závodov
 
