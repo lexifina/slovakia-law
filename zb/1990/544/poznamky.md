@@ -42,4 +42,6 @@
 
 - Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- Zákon SNR č. 369/1990 Zb. o obecnom zriadení.
+- Zákon č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- § 7 ods. 2 písm. a) zákona č. 472/1990 Zb. o organizácii miestnej štátnej správy.
