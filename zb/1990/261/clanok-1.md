@@ -24,6 +24,8 @@ Vyhláška Štátneho úradu sociálneho zabezpečenia č. 104/1964 Zb., ktorou 
 
 - Nemocenské zvýšené pri aktívnej tuberkulóze sa poskytuje od začiatku druhého mesiaca trvania pracovnej neschopnosti pre aktívnu tuberkulózu, a to po dobu, po ktorú je družstevník práceneschopný z tohto dôvodu, najdlhšie však do uplynutia podpornej doby, prípadne do uplynutia doby, na ktorú sa mu povolilo predĺženie výplaty nemocenského podľa § 8 ods. 4 zákona.“.
 
+- 3. § 16 včítane nadpisu sa vypúšťa.
+
 - 4. V § 23 ods. 1 písm. c) sa za slová „v ozbrojených silách,“ vkladajú slová „ako aj civilnej služby,“.
 
 - 5. § 32 sa dopĺňa novým odsekom 2, ktorý znie:
