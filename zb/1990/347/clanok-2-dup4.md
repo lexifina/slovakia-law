@@ -1,0 +1,3 @@
+# Čl. II
+
+V súvislosti s prechodom doterajšej pôsobnosti Ministerstva dopravy, spojov a verejných prác Slovenskej republiky a Ministerstva hospodárstva Slovenskej republiky na Ministerstvo výstavby a verejných prác Slovenskej republiky, z Ministerstva vnútra Slovenskej republiky na Úrad vlády Slovenskej republiky a z Ministerstva školstva a vedy Slovenskej republiky na Úrad pre stratégiu rozvoja spoločnosti, vedy a techniky Slovenskej republiky rovnako prechádzajú aj práva a povinnosti vyplývajúce z pracovnoprávnych a iných vzťahov. Podrobnosti o prechode týchto práv a povinností sa upravia dohodou, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku a záväzkov a určí sa, ktorí pracovníci na ktorý ústredný orgán štátnej správy prechádzajú do pracovného pomeru.
