@@ -48,14 +48,4 @@
 
 (10) Počas čerpania ďalšieho daňového úveru podľa odseku 9 ustanovenia odsekov 5, 6, 7 a 8 sa použijú rovnako ako v prípade čerpania daňového úveru podľa odseku 1.
 
-(11) Ak je daňový úver uplatňovaný na činnosť, na ktorú sa vzťahujú ustanovenia osobitného predpisu,<sup>128a</sup>) sú súčasťou podmienok uplatnenia daňového úveru podľa odsekov 1 a 9 vrátane sumy maximálnej výšky daňového úveru aj podmienky ustanovené v osobitnom predpise,<sup>128a</sup>) vzťahujúce sa na poskytovanie štátnej pomoci na rozvoj regiónov, pritom
-
-- a) ukazovateľ podielu hrubého domáceho produktu na obyvateľa je preukazovaný za obdobie posledných troch rokov predchádzajúcich roku vzniku daňovníka,
-
-- b) maximálna výška daňového úveru za zdaňovacie obdobie uplatňovaná v daňovom priznaní podľa odseku 2 nesmie presiahnuť 50 % nákladov vynaložených na obstaranie hmotného majetku alebo 25 % nákladov vynaložených na obstaranie nehmotného majetku odpisovaného podľa tohto zákona (§ 26), obstaraného v lehote od vzniku daňovníka do termínu podania priznania podľa odseku 2, ak podiel hrubého domáceho produktu podľa písmena a) nedosahuje 75 % hodnoty hrubého domáceho produktu na obyvateľa spoločenstva alebo 20 % hodnoty obstaraného hmotného majetku a nehmotného majetku odpisovaného podľa tohto zákona (§ 26), ak tento podiel presahuje 75 %,
-
-- c) ak výška daňového úveru vypočítaná podľa ustanoveného percenta z hodnoty obstaraného majetku prevyšuje sumu daňového úveru uplatnenú v daňovom priznaní vo výške podľa písmena b), zostávajúca hodnota investícií je započítavaná do nároku na výpočet výšky daňového úveru v nasledujúcich zdaňovacích obdobiach,
-
-- d) do výpočtu nároku na výšku daňového úveru podľa písmena b) sa nezapočítava majetok zaradený do odpisovej skupiny 1 (§ 30) s dobou odpisovania 4 roky,
-
-- e) majetok, ktorý bol obstaraný a preukázaný na účely výpočtu výšky uplatneného daňového úveru, musí daňovník využívať najmenej počas obdobia piatich rokov počítaných od začiatku zdaňovacieho obdobia, v ktorom sa majetok začal odpisovať, s výnimkou prípadov, ak došlo k trvalému poškodeniu tohto majetku s uplatňovanou náhradou škody alebo k vyradeniu tohto majetku bez zavinenia daňovníka.
+(11) Pri uplatňovaní daňového úveru podľa odsekov 1 až 9 musia byť splnené aj ustanovenia osobitného predpisu.<sup>123a</sup>)

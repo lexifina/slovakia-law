@@ -276,6 +276,8 @@
 
 - 123) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 123a) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 434/2001 Z. z.
+
 - 124) § 38 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 125) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
