@@ -1,6 +1,6 @@
 Príloha č. 1
 
-- RODINNÉ DOMČEKY, REKREAČNÉ DOMČEKY A REKREAČNÉ CHALUPY Znak č. | Konštrukcia a vybavenie | | Počet bodov
+- RODINNÉ DOMY, REKREAČNÉ DOMČEKY A REKREAČNÉ CHALUPY Znak č. | Konštrukcia a vybavenie | | Počet bodov
 
 - 1. | Osadenie do terénu (len pri podpivničených objektoch) | |
 
@@ -194,7 +194,7 @@ Príloha č. 1
 
 - | 10.2. nad 1/2 do 2/3 obkladanej steny | |
 
-- | | a) obklady šindľom | 230
+- | | a) obklady šindľom | 200
 
 - | | b) obkladové murivo z prírodného kameňa (háklíky, kopáky) | 145
 

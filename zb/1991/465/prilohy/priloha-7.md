@@ -1,8 +1,8 @@
 Príloha č. 6
 
-- VONKAJŠIE ÚPRAVY Pol. č. | Druh vonkajšej úpravy | Merná jednotka | Kčs
+- VONKAJŠIE ÚPRAVY Pol. č. | Druh vonkajšej úpravy | Merná jednotka | Sk
 
-- 1. | prípojka vody | m | 340,-
+- i. | prípojka vody | m | 340,-
 
 - 2. | prípojka kanalizácie | m | 670,-
 

@@ -94,7 +94,7 @@ Príloha č. 7
 
 - 6.3. | stavebná uzávera | 3
 
-- 6.4. | stavba pod povrchom pozemkov oceňovaných podľa § 14 ods. 2 | 3
+- 6.4. | stavba pod povrchom pozemkov oceňovaných podľa § 15 ods. 4 | 3
 
 - 7. | Vzdialenosť k zastávke verejnej dopravy viac ako 2,5 km | 5
 

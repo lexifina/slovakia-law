@@ -2,7 +2,7 @@ Príloha č. 9 Tabuľka č. I
 
 LESNÉ POZEMKY
 
-Základné ceny lesnej pôdy pri priemernej polohe v Kčs za 1 ha
+Základné ceny lesnej pôdy pri priemernej polohe v Sk za 1 ha
 
 Cieľová drevina | Relatívna bonita | | | | | | | | | |
 

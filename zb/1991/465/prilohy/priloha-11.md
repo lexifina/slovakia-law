@@ -6,7 +6,7 @@ OCENENIE FAKTORA POLOHY LESNEJ PÔDY V ZÁVISLOSTI OD PRIBLIŽOVACEJ A ODVOZNEJ 
 
 Priemerná približovacia vzdialenosť | | Priemerná odvozná vzdialenosť |
 
-m | Kčs za m<sup>3</sup> *) | km | Kčs za m<sup>3</sup> *)
+m | Sk za m<sup>3</sup> *) | km | Sk za m<sup>3</sup> *)
 
 1 | 2 | 3 | 4
 

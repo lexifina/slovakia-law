@@ -6,7 +6,7 @@ Ovocné stromy
 
 Druh | | Tvar | Cena za jeden kus po roku výsadby | | | | | | | | | | | | | | Cena sa znižuje ročne |
 
-| | | V roku výsadby | 2. rok | 3. rok | 4. rok | 5. rok | 6. rok | 7. rok | 8. rok | 9. rok | 10. rok | 11. rok | 12. rok | 13. rok | 14. rok | po roku veku | 0 Kčs
+| | | V roku výsadby | 2. rok | 3. rok | 4. rok | 5. rok | 6. rok | 7. rok | 8. rok | 9. rok | 10. rok | 11. rok | 12. rok | 13. rok | 14. rok | po roku veku | 0 Sk
 
 Jabloň a hruška | | VK+PK | 177 | 256 | 336 | 415 | 495 | 575 | 654 | 696 | 740 | 784 | 828 | 872 | 916 | 960 | 20 | 37
 
@@ -30,7 +30,7 @@ Marhuľa | | | 149 | 226 | 303 | 380 | 458 | 516 | 574 | 632 | 690 | 750 | | | |
 
 Broskyňa | | | 143 | 227 | 311 | 395 | 453 | 511 | 569 | 630 | | | | | | | 12 | 90
 
-Orech vlašský, Gaštan jedlý | | | 194 | 257 | 320 | 383 | 446 | 509 | 572 | 635 | 698 | 761 | 824 | 890 | Do veku 20 rokov sa cena zvyšuje o 92 Kčs ročne | | 35 | 54
+Orech vlašský, Gaštan jedlý | | | 194 | 257 | 320 | 383 | 446 | 509 | 572 | 635 | 698 | 761 | 824 | 890 | Do veku 20 rokov sa cena zvyšuje o 92 Sk ročne | | 35 | 54
 
 Egreš | | krík/ strom. | 25 | 29 | 35 | 44 | 53 | | | | | | | | | | 8 | 10
 
@@ -54,7 +54,7 @@ Malinčie, černice | | m<sup>2</sup> | 15 | 18 | 20 | 23 | | | | | | | | | | | 
 
 Ostatné ovocné druhy (dula, mandľa, lieska, jarabina, atď.) | | | 110 | 126 | 142 | 158 | 175 | 190 | 205 | 220 | 235 | 250 | | | | | 15 | 20
 
-- Minimálna cena po znížení s ohľadom na vek je pri stromoch vysokokmenných a polokmenných 100,- Kčs, pri štvrťkmenných 50,- Kčs, pri zákrpkoch 20,- Kčs, kríkoch a stromčekoch bobuľovín 10,- Kčs.
+- Minimálna cena po znížení s ohľadom na vek je pri stromoch vysokokmenných a polokmenných 100,- Sk, pri štvrťkmenných 50,- Sk, pri zákrpkoch 20,- Sk, kríkoch a stromčekoch bobuľovín 10,- Sk.
 
 - Cena sa znižuje až o 60 % pri stromoch a kríkoch neošetrovaných, minimálne slabého vzrastu alebo poškodených.
 
@@ -62,9 +62,9 @@ Tabuľka č. II
 
 VINIČNÉ PORASTY (VRÁTANE ZARIADENIA VINÍC)
 
-Druh | Tvar | Cena v Kčs za 1 ks po | | | | | Cena sa znižuje ročne |
+Druh | Tvar | Cena v Sk za 1 ks po | | | | | Cena sa znižuje ročne |
 
-| | výsadbe | 1. roku | 2. roku | 3. roku | 4. až 9. roku | po roku veku | o Kčs
+| | výsadbe | 1. roku | 2. roku | 3. roku | 4. až 9. roku | po roku veku | o Sk
 
 Vinič štepený | vedenie na hlavu | 49,- | 55,- | 61,- | 67,- | 73,- | 9,- | 3,-
 
@@ -102,7 +102,7 @@ Tabuľka č. IV
 
 LESNÉ PORASTY
 
-Základná cena lesného porastu pri plnom zakmenení v Kčs za hektár
+Základná cena lesného porastu pri plnom zakmenení v Sk za hektár
 
 Vekový stupeň | Relatívna bonita | | | | | | | | | |
 
@@ -348,7 +348,7 @@ OCENENIE FAKTORA POLOHY PRI LESNÝCH PORASTOCH
 
 Priemerná približovacia vzdialenosť | | Priemerná odvozná vzdialenosť |
 
-m | Kčs za m<sup>3</sup>*) | km | Kčs za m<sup>3</sup>*)
+m | Sk za m<sup>3</sup>*) | km | Sk za m<sup>3</sup>*)
 
 1 | 2 | 3 | 4
 
@@ -372,9 +372,9 @@ m | Kčs za m<sup>3</sup>*) | km | Kčs za m<sup>3</sup>*)
 
 901 - 1000 | 1,05 | 19,1-20,0 | 3,85
 
-1001 - 1100 | -1,17 | 20,1-21,0 | 1,37
+1001-1100 | -1,17 | 20,1-21,0 | 1,37
 
-1101 - 1200 | -3,35 | 21,1-22,0 | -0,93
+1101-1200 | -3,35 | 21,1-22,0 | -0,93
 
 1201 - 1300 | -5,49 | 22,1-23,0 | -3,03
 
@@ -390,15 +390,15 @@ m | Kčs za m<sup>3</sup>*) | km | Kčs za m<sup>3</sup>*)
 
 1801 - 1900 | -17,55 | 28,1-29,0 | -11,56
 
-1901 - 2000 | -19,43 | 29,1-30,0 | -12,30
+1901-2000 | -19,43 | 29,1-30,0 | -12,30
 
-2001 - 2100 | -21,27 | 30,1-31,0 | -12,85
+2001-2100 | -21,27 | 30,1-31,0 | -12,85
 
-2101 - 2200 | -23,07 | 31,1-32,0 | -13,20
+2101-2200 | -23,07 | 31,1-32,0 | -13,20
 
-2201 - 2300 | -24,82 | 32,1-33,0 | -13,36
+2201-2300 | -24,82 | 32,1-33,0 | -13,36
 
-2301 - a viac | -26,57 | 33,1 -a viac | -13,42
+2301 -a viac | -26,57 | 33,1 -a viac | -13,42
 
 Tabuľka č. VI
 
@@ -420,7 +420,7 @@ Tabuľka č. VII
 
 OKRASNÉ DREVINY
 
-Pol. č. | Druh | | Cena Kčs za kus, pri živých plotoch za 1 bm | | | | | | |
+Pol. č. | Druh | | Cena Sk za kus, pri živých plotoch za 1 bm | | | | | | |
 
 | | | do 5 rokov | do 10 rokov | do 15 rokov | do 20 rokov | do 25 rokov | do 30 rokov | do 35 rokov | nad 35 rokov
 

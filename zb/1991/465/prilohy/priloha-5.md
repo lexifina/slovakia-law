@@ -1,6 +1,6 @@
 Príloha č. 5
 
-- PREVÁDZKOVÉ A POĽNOHOSPODÁRSKE STAVBY Pol.č. | Stavby (bez technológie) | Zvislá nosná konštrukcia | Kčs za 1 m<sup>3</sup>
+- PREVÁDZKOVÉ A POĽNOHOSPODÁRSKE STAVBY Pol.č. | Stavby (bez technológie) | Zvislá nosná konštrukcia | Sk za 1 m<sup>3</sup>
 
 - 1. | Haly občianskej výstavby | murované z tehál, tvárnic, blokov | 773,-
 

@@ -363,5 +363,3 @@ Príloha č. 2
   - Znak č. 10 sa ohodnotí za každú stranu chaty samostatne, súčet sa potom počíta pri ocenení všetkých nadzemných podlaží.
 
   - Pri znakoch č. 11, 16, 19, 21 - 25 sa spočíta počet bodov za každú vyskytujúcu sa položku a pri zariaďovacích predmetoch sa vynásobí ich skutočným množstvom (v oceňovanom podlaží).
-
-[Príloha 03](../assets/e6572b4bcf59cdcd261420b441513619787a1c2e89ad3717c0702995249445e9.pdf)

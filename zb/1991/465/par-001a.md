@@ -4,13 +4,13 @@ Pre účely tejto vyhlášky sa rozumie:
 
 - a) obytný dom je dom, v ktorom zo súčtu podlahovej plochy všetkých miestností v dome pripadajú aspoň dve tretiny na byty, včítane bytov a častí bytov, ktoré sú užívané na iné účely ako na bývanie, ako i vedľajšie miestnosti a príslušenstvo patriace k bytom. Pri zisťovaní tohto pomeru podlahových plôch sa neprihliada na priestory prístupné všetkým obyvateľom domu a iným osobám, na iné spoločné vedľajšie miestnosti a vedľajšie priestory (napr. schodište a chodby, spoločné práčovne a sušiarne, pôjdové a pivničné priestory), na miestnosti pre poľnohospodársku výrobu, ani na vedľajšie stavby postavené na pozemku (napr. garáže, poľnohospodárske objekty, malé prevádzky, drevárne, kôlne),
 
-- b) rodinný dom je obytný dom, v ktorom zo súčtu podlahovej plochy všetkých miestností v dome pripadajú aspoň dve tretiny na byty. Rodinný dom môže mať najviac päť obytných miestností, nepočítajúc kuchyne. Väčší počet obytných miestností môže mať, ak súčet podlahovej plochy miestností nepresiahne 120 m<sup>2</sup>. Z obytných kuchýň sa do tohto súčtu započítavajú len plochy, o ktoré výmera obytnej kuchyne presahuje 12 m<sup>2</sup>. Za uvedených podmienok sa považuje za rodinný dom i obytná časť poľnohospodárskej usadlosti,
+- b) rodinný dom je obytný dom, v ktorom je viac ako polovica podlahovej plochy všetkých miestností určená na bývanie. Rodinný dom môže mať najviac tri samostatné byty a najviac dve nadzemné podlažia a podkrovie,
 
 - c) ostatné obytné domy sú obytné domy s výnimkou rodinných domov,
 
 - d) budova je stavebný objekt, ktorý sa klasifikuje podľa osobitného predpisu<sup>2a</sup>) v odbore stavebných objektov pod kódom 801, 803 a 812 Jednotnej klasifikácie stavebných objektov,
 
-- e) byt je miestnosť alebo súbor miestností a priestorov, ktoré sú podľa rozhodnutia stavebného úradu určené na bývanie a môžu tomuto účelu slúžiť ako samostatné bytové jednotky,
+- e) byt je miestnosť alebo súbor miestností, ktoré sú rozhodnutím stavebného úradu trvalo určené na bývanie a môžu na tento účel slúžiť ako samostatné bytové jednotky,
 
 - f) podlahovou plochou bytu je súčet plochy jeho obytných miestností a plochy príslušenstva bytu bez plochy lodžií a balkónov,
 
@@ -20,8 +20,8 @@ Pre účely tejto vyhlášky sa rozumie:
 
 - ch) nebytovým priestorom v obytnom dome je miestnosť alebo súbor miestností, ktoré sú podľa rozhodnutia stavebného úradu určené na iné účely ako na bývanie, napr. kancelárie, dielne, sklady, obchodné miestnosti, garáže, ateliéry atď. Nebytovým priestorom nie je príslušenstvo bytu ani spoločné časti a spoločné zariadenia domu,
 
-- i) spoločnými časťami domu sa rozumejú časti domu určené na spoločné užívanie, najmä základy domu, strecha, chodba, obvodové múry, priečelia, vchody, schodištia, spoločné terasy, podkrovia a povaly,
+- i) spoločnými časťami obytného domu sa rozumejú časti domu nevyhnutné na jeho podstatu a bezpečnosť a sú určené na spoločné užívanie, najmä základy domu, strechy, chodby, obvodové múry, priečelia, vchody, schodištia, spoločné terasy, podkrovia, povaly, vodorovné nosné a izolačné konštrukcie a zvislé nosné konštrukcie,
 
-- j) spoločnými zariadeniami domu sa rozumejú najmä výťahy, práčovne, kotolne, sušiarne, kočikárne, spoločné televízne antény, komíny, vodovodné, kanalizačné, elektrické, telefónne a plynové siete, a to i v prípade, ak sú umiestnené mimo domu,
+- j) spoločnými zariadeniami obytného domu sa rozumejú zariadenia, ktoré sú určené na spoločné užívanie, najmä výťahy, práčovne, kotolne, sušiarne, kočikárne, spoločné televízne antény, hromozvody, komíny, vodovodné, teplonosné, kanalizačné, elektrické, telefónne a plynové prípojky, a to aj v prípade, ak sú umiestnené mimo domu a slúžia výlučne tomuto domu,
 
-- k) spoločnými časťami a príslušenstvom domu, ktoré nie sú stavebnou súčasťou obytného domu, sa rozumejú stavby a trvalé porasty nachádzajúce sa na pozemku priľahlom k obytnému domu, napr. oplotenie, prístrešky, spevnené plochy.
+- k) spoločnými časťami a príslušenstvom obytného domu, ktoré nie sú stavebnou súčasťou domu, sa rozumejú stavby a trvalé porasty nachádzajúce sa na priľahlých pozemkoch, a to najmä oplotenia a prístrešky.

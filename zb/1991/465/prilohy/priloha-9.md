@@ -1,6 +1,6 @@
 Príloha č. 8
 
-- CENA ORNEJ PÔDY Kód BPEJ | sadzba Kčs za m<sup>2</sup>
+- CENA ORNEJ PÔDY Kód BPEJ | sadzba Sk za m<sup>2</sup>
 
 - 0 01 01 | 3,60
 

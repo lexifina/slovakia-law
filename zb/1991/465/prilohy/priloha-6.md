@@ -23,5 +23,3 @@ Pol.č. | Dôvod úpravy ceny prevádzkových a poľnohospodárskych stavieb | Z
 3.7. | - so vstavanou kotolnou pre teplovodné alebo parné ústredné vykurovanie vo vnútri stavby | | 2,5
 
 3.8. | - s rozvodom svietiplynu alebo zemného plynu | | 0,8
-
-[Príloha 06](../assets/def3802d8b7bb1b8953c8b14b80dd205caa63fb926ff4ba7230905d687dbb56c.pdf)

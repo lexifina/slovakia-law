@@ -14,7 +14,9 @@
 
 - 6) § 1 ods. 3 zákona č. 526/1990 Zb. o cenách.
 
-- 6a) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb.
+- 6a) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb., zákona č. 496/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z.
+
+- Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
 
 - 6b) Napr. § 9 zákona č. 530/1990 Zb. o dlhopisoch a šiesta časť zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
@@ -30,9 +32,9 @@
 
 - 10a) § 4 vyhlášky Ústrednej správy pre rozvoj miestneho hospodárstva č. 60/1964 Zb. o úhrade za užívanie bytu a za služby spojené s užívaním bytu v znení neskorších predpisov.
 
-- 11) § 48 a 51 vyhlášky FMTIR č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu.
+- 11) § 54 ods. 1, § 55 ods. 1, § 58 ods. 1 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky č. 45/1979 Zb. a vyhlášky č. 376/1992 Zb.
 
-- 12) § 49, 50 a 56 ods. 1 vyhlášky č. 83/1976 Zb.
+- 12) § 56 ods. 1 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. v znení neskorších predpisov.
 
 - 13) § 6 vyhlášky FMTIR č. 85/1976 o podrobnejšej úprave územného konania a stavebnom poriadku.
 
