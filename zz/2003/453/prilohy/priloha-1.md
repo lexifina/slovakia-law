@@ -91,3 +91,5 @@ Príloha č. 1 k zákonu č. 453/2003 Z. z.
 - 44 | Spišská Nová Ves
 
 - 45 | Trebišov
+
+- 46 | Kežmarok
