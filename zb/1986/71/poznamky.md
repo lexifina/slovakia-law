@@ -32,6 +32,8 @@
 
 - Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov.
 
+- 8a) § 8 ods. 1 zákona č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
+
 - 9) § 124 ods. 2 zákona č. 65/1965 Zb. v znení neskorších predpisov.
 
 - § 24a ods. 1 nariadenia vlády ČSSR č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce, v znení nariadenia vlády ČSFR č. 13/1991 Zb.
