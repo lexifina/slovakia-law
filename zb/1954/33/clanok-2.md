@@ -1,0 +1,3 @@
+# Čl. 2
+
+Toto nariadenie nadobúda účinnosť dňom vyhlásenia; vykonajú ho všetci členovia vlády.
