@@ -8,7 +8,7 @@ Príloha D
 
   - ČASŤ I – ZVLÁŠŤ NEBEZPEČNÉ JEDY, OMAMNÉ LÁTKY, PSYCHOTROPNÉ LÁTKY, PREKURZORY A POMOCNÉ CHEMICKÉ LÁTKY Položka colného sadzobníka | Názov tovaru | Kategória | Merná jednotka
 
-  - 1211 90 80 | Rastliny, časti rastlín, semená, plody, z toho len | | kg
+  - 1211 90 95 | Rastliny, časti rastlín, semená, plody, z toho len | | kg
 
   - | - koka - list | (1) |
 
@@ -34,7 +34,7 @@ Príloha D
 
   - 2811 19 90 | Ostatné anorganické kyseliny, z toho len | | kg
 
-  - | - selénovodík | (2) |
+  - | - selenovodík | (2) |
 
   - 2811 29 90 | Ostatné anorganické zlúčeniny nekovov, z toho len | | kg
 
@@ -56,11 +56,11 @@ Príloha D
 
   - 2836 70 00 | Uhličitan olovnatý | (6) | kg
 
-  - 2841 60 00 | Manganistan draselný | (4) | tona
+  - 2841 61 00 | Manganistan draselný | (4) | tona
 
-  - 2842 90 10 | Soli, podvojné soli alebo komplexné soli kyseliny seleničitej alebo teluričitej, z toho | |
+  - 2842 90 10 | Soli, podvojné soli alebo komplexné soli kyseliny seleničitej alebo | | kg
 
-  - | len | | kg
+  - | teluričitej, z toho len | |
 
   - | - selenan sodný | (2) |
 
@@ -72,23 +72,23 @@ Príloha D
 
   - 2845 90 10 | Tetradeuterometanol | (2) | kg
 
-  - 2848 00 00 | Fosfidy medi | (2) | kg
+  - 2848 00 00 | Fosfidy iných kovov alebo nekovov, z toho len | | kg
 
-  - | Fosfidy iných kovov alebo nekovov, z toho len | | kg
-
-  - | - fosfidy | (2) |
+  - | - fosfidy medi | (2) |
 
   - | - fosforovodík | (2) |
 
-  - 2850 00 | Hydridy, nitridy, azidy, silicidy a boridy, chemicky definované i nedefinované, iné | |
+  - 2850 00 | Hydridy, nitridy, azidy, silicidy a boridy, chemicky definované | | kg
 
-  - | ako zlúčeniny, ktoré sú tiež karbidy - číslo 2849, z toho len | | kg
+  - | i nedefinované, iné ako zlúčeniny, ktoré sú tiež karbidy čísla 2849, | |
+
+  - | z toho len | |
 
   - | - pentabóran | (2) |
 
   - | - arzenovodík | (2) |
 
-  - 2851 00 90 | Brómkyán, jódkyán | (2) | kg
+  - 2851 00 90 | Brómkyán, Jódkyán | (2) | kg
 
   - 2902 20 | Benzén | (6) | kg
 
@@ -108,29 +108,29 @@ Príloha D
 
   - 2903 30 90 | Metyljodid | (6) | kg
 
-  - 2903 59 | Aldrín, chlordan, heptachlór, campechlór (toxafén) | (6) | kg
+  - 2903 59 | Aldrín, Chlordan, Heptachlór, Campechlór (toxafén) | (6) | kg
 
   - 2903 62 00 | Hexachlórbenzén a DDT, z toho len | | kg
 
   - | - hexachlórbenzén | (2) |
 
-  - | -l,l,l-trichlór-2,2 bis (parachlórfenyl) etán (DDT) | (2) |
+  - | - l,l,l-trichlór-2,2 bis (parachlórfenyl) etán (DDT) | (2) |
 
   - 2903 69 | Polychlórované bifenyly, terfenyly, polybrómované bifenyly | (6) | kg
 
-  - 2904 20 | Deriváty uhľovodíkov obsahujúce len nitro- alebo nitrózo- skupinu | | kg
+  - 2904 20 | Deriváty uhľovodíkov obsahujúce len nitro- alebo nitrózoskupinu | | kg
 
   - 2905 11 00 | Metanol (metylalkohol) | (2) | kg
 
   - 2905 39 10 | Hexylénglykol | (5) | kg
 
-  - 2905 50 | Halogén-, sulfo-, nitro- alebo nitrózoderiváty alkalických alkoholov, z toho len | |
+  - 2905 50 | Halogén-, sulfo-, nitro- alebo nitrózoderiváty alkalických alkoholov, z toho len | | kg
 
   - | - etylchlórvinol | (3) | kg
 
-  - 2908 90 00 | Ostatné halogén-, sulfo-, nitro- alebo nitrózoderiváty fenolov alebo fenolalkoholov, | |
+  - 2908 90 00 | Ostatné halogén-, sulfo-, nitro- alebo nitrózoderiváty fenolov alebo | | kg
 
-  - | z toho len | | kg
+  - | fenolalkoholov, z toho len | |
 
   - | - 2,4-dinitrofenol | (2) |
 
@@ -150,9 +150,9 @@ Príloha D
 
   - 2910 30 00 | Epichlórhydrín | (6) | kg
 
-  - 2910 90 00 | Ostatné epoxidy, epoxyalkoholy, epoxyfenoly a epoxyétery s trojčlánkovým | |
+  - 2910 90 00 | Ostatné epoxidy, epoxyalkoholy, epoxyfenoly a epoxyétery s troj článkovým | | kg
 
-  - | kruhom a ich halogén-, sulfo-, nitro- alebo nitrózoderiváty, z toho len | | kg
+  - | kruhom a ich halogén-, sulfo-, nitro- alebo nitrózoderiváty, z toho len | |
 
   - | - endrín | (2) |
 
@@ -172,29 +172,33 @@ Príloha D
 
   - | - dinoseb acetát | (2) |
 
-  - 2915 90 80 | Ostatné nasýtené acyklické monokarboxylové kyseliny a ich anhydridy, halogenidy, | |
+  - 2915 90 80 | Ostatné nasýtené acyklické monokarboxylové kyseliny a ich anhydridy, | | kg
 
-  - | peroxidy a peroxykyseliny, ich halogén-, sulfo- alebo nitrózoderiváty, z toho len | | kg
+  - | halogenidy, peroxidy a peroxykyseliny, ich halogén-, sulfo- alebo | |
+
+  - | nitrózoderiváty, z toho len | |
 
   - | - fluóroctan sodný | (2) |
 
   - | - kyselina fluóroctová | (2) |
 
-  - | - prchavé estery kyseliny brómoctovej (metyl-, etyl-, propyl- a butylbrómacetát) | (6) |
+  - | - prchavé estery kyseliny brómoctovej (metyl-, etyl-, propyl- | (6) |
 
-  - 2916 34 00 | Kyselina fenyloctová a jej soli | (4) | tona
+  - | a butylbrómacetát) | |
+
+  - 2916 34 00 | Kyselina fenyloctová, jej soli | (4) | tona
 
   - 2916 35 00 | Estery kyseliny fenyloctovej | (4) | tona
 
-  - 2918 13 00 | Soli a estery kyseliny vínnej, z toho len | | kg
+  - 2918 13 00 | Soli a estery kyseliny vinnej , z toho len | | kg
 
-  - | - vínan antitnonyldraselný | (2) |
+  - | - vínan antímonyldraselný | (2) |
 
-  - 2919 00 90 | Ostatné fosforečné estery a ich soli vrátane laktofosfátov, ich halogén-, sulfo-, | |
+  - 2919 00 90 | Ostatné fosforečné estery a ich soli vrátane laktofosfátov, ich halogén-, | | kg
 
-  - | nitro- alebo nitrózoderiváty, z toho len | | kg
+  - | sulfo-, nitro- alebo nitrózoderiváty, z toho len | |
 
-  - | - tris-(o-krezyl)fosfát | (2) |
+  - | - tris (o-krezol) fosfát | (2) |
 
   - | - dichlórfos | (2) |
 
@@ -202,37 +206,39 @@ Príloha D
 
   - | - mevinfos | (2) |
 
-  - | - tris-(2,3-dibrómpropyl)fosfát | (6) |
+  - | - tris-(2,3-dibrómpropyl) fosfát | (6) |
 
-  - 2920 10 00 | Tiofosforečné estery a ich soli, ich halogén-, sulfo-, nitro- alebo nitrózoderiváty, | |
+  - 2920 10 00 | Tiofosforečné estery a ich soli, ich halogén-, sulfo-, nitro- alebo | | kg
 
-  - | z toho len | | kg
+  - | nitrózoderiváty, z toho len | |
 
-  - | - brómfos-etyl | (2) |
+  - | - brórnfos-etyl | (2) |
 
   - | - paration | (2) |
 
   - | - paration-metyl | (2) |
 
-  - 2920 90 | Ostatné estery ostatných anorganických kyselín (okrem esterov halogénvodíkov) | |
+  - 2920 90 | Ostatné estery ostatných anorganických kyselín (okrem esterov | | kg
 
-  - | a ich solí, ich halogén-, sulfo-, nitro- alebo nitrózoderiváty, z toho len | | kg
+  - | halogenovodíkov) a ich solí, ich halogén-, sulfo-, nitro- alebo | |
+
+  - | nitrózoderiváty, z toho len | |
 
   - | - sulfotep | (2) |
 
   - | - dimetylsulfát | (6) |
 
-  - 2921 19 90 | Ostatné acyklické monoamíny a ich deriváty, ich soli, z toho len | | kg
+  - 2921 19 80 | Ostatné acyklické monoamíny a ich deriváty, ich soli, z toho len | | kg
 
-  - | - metyl-bis(2-chlóretyl)amín | (2) |
+  - | - metylbis (2-chlóretyl) amín | (2) |
 
-  - | - tris-(2-chlóretyl)amín | (2) |
+  - | - tris (2-chlóretyl) amín | (2) |
 
   - | - N-nitrózodimetylamín | (6) |
 
-  - 2921 30 90 | Ostatné cykloalkanické, cykloalkenické alebo cykloterpenické mono- alebo | |
+  - 2921 30 99 | Ostatné cykloalkanické, cykloalkenické alebo cykloterpenické mono- alebo | | kg
 
-  - | polyamíny a ich deriváty, ich soli, z toho len | | kg
+  - | polyamíny a ich deriváty, ich soli, z toho len | |
 
   - | - propylhexedrín | (3) |
 
@@ -266,15 +272,15 @@ Príloha D
 
   - | - etylamfetamín | (3) |
 
-  - | - 4-amínobifenyl | (6) |
+  - | - 4-aminobifenyl | (6) |
 
   - 2921 51 90 | Benzidín | (6) | kg
 
-  - | 3,3-dichlórbenzidín | (6) |
+  - | 3 , 3 -dichlórbenzidín | (6) |
 
-  - 2922 19 00 | Ostatné aminoalkoholy, ich étery a estery, iné ako tie, ktoré obsahujú viac ako | |
+  - 2922 19 00 | Ostatné aminoalkoholy, ich étery a estery, iné ako tie, ktoré obsahujú viac | | kg
 
-  - | jeden druh kyslíkatej funkcie, ich soli, z toho len | | kg
+  - | ako jeden druh kyslíkatej funkcie, ich soli, z toho len | |
 
   - | - acetylmetadol | (1) |
 
@@ -310,9 +316,9 @@ Príloha D
 
   - | - 2,5-dimetoxy-4-etyl-amfetamín (DOET) | (3) |
 
-  - 2922 30 00 | Aminoaldehydy, aminoketóny a aminochinóny iné ako tie, ktoré obsahujú viac | |
+  - 2922 30 00 | Aminoaldehydy, aminoketóny a aminochinóny, iné ako tie, ktoré obsahujú | | kg
 
-  - | ako jeden druh kyslíkatej funkcie, ich soli, z toho len | | kg
+  - | viac ako jeden druh kyslíkatej funkcie, ich soli, z toho len | |
 
   - | - izometadón | (1) |
 
@@ -322,21 +328,25 @@ Príloha D
 
   - | - amfepramón | (3) |
 
-  - 2922 43 00 | Kyselina antranilová | (4) | kg
+  - 2922 43 50 | Kyselina antranilová | (4) | kg
 
-  - 2922 49 80 | Tilidín | (1) | kg
+  - 2922 49 70 | Tilidín | (1) | kg
 
-  - 2922 50 00 | Aminoalkoholfenoly, aminokyselinofenoly a iné aminozlúčeniny s kyslíkatou | |
+  - 2922 50 00 | Aminoalkoholfenoly, aminokyselinofenoly a iné aminozlúčeniny s kyslíkatou | | kg
 
-  - | funkciou, z toho len | | kg
+  - | funkciou, z toho len | |
 
   - | - dimenoxadol | (1) |
 
-  - 2923 90 00 | Ostatné kvartérne amónne soli a hydroxidy, lecitíny a iné fosfoaminolipidy, z toho len | | kg
+  - 2923 90 00 | Ostatné kvartérne amónne soli a hydroxidy, lecitíny a iné fosfoaminolipidy, | | kg
+
+  - | z toho len | |
 
   - | - benzyltrimetylamónium chlorid | (2) |
 
-  - 2924 10 00 | Acyklické amidy (vrátane acyklických karbamátov) a ich deriváty, ich soli | | kg
+  - 2924 10 00 | Acyklické amidy (vrátane acyklických karbamátov) a ich deriváty, | | kg
+
+  - | ich soli | |
 
   - | - fluóracetamid | (2) |
 
@@ -350,9 +360,9 @@ Príloha D
 
   - 2924 22 00 | Kyselina N-acetylantranilová | (4) | kg
 
-  - 2924 29 90 | Ostatné zlúčeniny s karboxyamidovou funkciou, zlúčeniny kyseliny uhličitej | |
+  - 2924 29 90 | Ostatné zlúčeniny s karboxyamidovou funkciou, zlúčeniny kyseliny uhličitej | | kg
 
-  - | s amidovou funkciou, z toho len | | kg
+  - | s amidovou funkciou, z toho len | |
 
   - | - diapromid | (1) |
 
@@ -362,9 +372,9 @@ Príloha D
 
   - 2926 90 10 | Acetónkyánhydrín | (2) | kg
 
-  - 2926 90 90 | Ostatné zlúčeniny s nitrilovou funkciou, z toho len | | kg
+  - 2926 90 80 | Ostatné zlúčeniny s nitrilovou funkciou, z toho len | | kg
 
-  - | - benzaldehydkyanhydrín | (2) |
+  - | - benzaldehydkyánhydrín | (2) |
 
   - | - butyronitril | (2) |
 
@@ -398,9 +408,9 @@ Príloha D
 
   - 2927 00 00 | Diazometán | (6) | kg
 
-  - 2928 00 00 | Fenylhydrazín | (6) | kg
+  - 2928 00 90 | Fenylhydrazín | (6) | kg
 
-  - 2930 90 95 | Ostatné organické zlúčeniny síry, z toho len | | kg
+  - 2930 90 70 | Ostatné organické zlúčeniny síry, z toho len | | kg
 
   - | - benzylrodanid | (2) |
 
@@ -436,7 +446,7 @@ Príloha D
 
   - | - tiofanox | (2) |
 
-  - | -tiokarbonyltetrachlorid | (2) |
+  - | - tiokarbonyltetrachlorid | (2) |
 
   - | - tetrametyléndisulfotetramín | (2) |
 
@@ -444,7 +454,7 @@ Príloha D
 
   - | - trialkylolovičité soli | (2) |
 
-  - | - pentakarbonyl železa. | (2) |
+  - | - pentakarbonyl železa | (2) |
 
   - | - alkylzlúčeniny ortuti | (2) |
 
@@ -474,11 +484,13 @@ Príloha D
 
   - | - beta-propiolaktón | (6) |
 
-  - 2932 94 00 | Safrol | (4) | kg
-
   - 2932 91 00 | Izosafrol | (4) | kg
 
+  - 2932 92 00 | 3,4-metyléndioxyfenyl propán-2-ón | (4) | kg
+
   - 2932 93 00 | Piperonal | (4) | kg
+
+  - 2932 94 00 | Safrol | (4) | kg
 
   - 2932 99 70 | 5-metoxy-3,4-metyléndioxyamfetamín (MMDA) | (3) | kg
 
@@ -488,23 +500,21 @@ Príloha D
 
   - | - carbofurán | (2) |
 
-  - | - 3- 1,2-dimetylheptyl- l-hydroxy-7,8,9, 10-tetrahydro-6,6,9-trimetyl-6H-dibenzol | (3) |
+  - | 3- l,2-dimetylheptyl-l-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimetyl- | |
 
-  - | (b,d) pyrán (DMHP) | |
+  - | -6H-dibenzol (b,d) pyrán (DMHP) | (3) |
 
   - | - parmexyl | (3) |
 
-  - 2932 92 00 | 3,4-metyléndioxyfenylpropán-2-ón | (4) | kg
-
   - 2933 32 00 | Piperidín | (4) | kg
 
-  - 2933 39 80 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre nekondenzovaný pyridínový | |
+  - 2933 39 95 | Ostatné zlúčeniny obsahujúce v štruktúre nekondenzovaný pyridínový kruh | | kg
 
-  - | kruh (hydrogenovaný alebo nehydrogenovaný), z toho len | | kg
+  - | (hydrogenovaný alebo nehydrogenovaný), z toho len | |
 
   - | - 2-amino-3-nitropyridín | (2) |
 
-  - | - 2-amino-5-nitropyridín | (2) |
+  - | - 2-amino-5-nltropyridín | (2) |
 
   - | - alylprodín | (1) |
 
@@ -588,9 +598,9 @@ Príloha D
 
   - | - pentabarbital | (3) |
 
-  - | - butalbital | (3) |
+  - | - butalbital | |
 
-  - | - rnetylfenolbarbital | (3) |
+  - | - metylfenolbarbital | (3) |
 
   - | - allobarbital | (3) |
 
@@ -600,87 +610,71 @@ Príloha D
 
   - | - vinylbital | (3) |
 
-  - 2934 90 89 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre pyrimidonový kruh | |
-
-  - | (hydrogenovaný alebo nehydrogenovaný) alebo piperazínový kruh, nukleové | |
-
-  - | kyseliny a ich soli, z toho len | | kg
-
-  - | - krimidín | (2) |
-
-  - | - pirimifos-etyl | (2) |
-
-  - | - fenetyllín | (3) |
-
-  - | - meklochalón | (3) |
-
-  - | - metachalón | (3) |
-
   - 2933 79 00 | Ostatné laktámy, z toho len | | kg
 
   - | - methyprylon | (3) |
 
-  - 2933 90 60 | Diazepíny | | kg
+  - 2933 90 60 | Diazepíny, z toho len | | kg
 
-  - | Midazolam (midazolamum) | (3) |
+  - | - midazolam (midazolamum) | (3) |
 
-  - | Loprazolam | (3) |
+  - | - loprazolam | (3) |
 
-  - | Klobazam | (3) |
+  - | - klobazam | (3) |
 
-  - | Alprazolam | (3) |
+  - | - alprazolam | (3) |
 
-  - | Bromazepam | (3) |
+  - | - bromazepam | (3) |
 
-  - | Chlórdiazepoxid | (3) |
+  - | - chlórdiazepoxid | (3) |
 
-  - | Delorazepam | (3) |
+  - | - delorazepam | (3) |
 
-  - | Diazepam | (3) |
+  - | - diazepam | (3) |
 
-  - | Estazolam | (3) |
+  - | - estazolam | (3) |
 
-  - | Etylloflazepát | (3) |
+  - | - etylloflazepát | (3) |
 
-  - | Fludiazepam | (3) |
+  - | - fludiazepam | (3) |
 
-  - | Flunitrazepam | (3) |
+  - | - flunitrazepam | (3) |
 
-  - | Flurazepam | (3) |
+  - | - flurazepam | (3) |
 
-  - | Halazepam | (3) |
+  - | - halazepam | (3) |
 
-  - | Klonazepam | (3) |
+  - | - klonazepam | (3) |
 
-  - | Klorazepát | (3) |
+  - | - klorazepát | (3) |
 
-  - | Lormetazepam | (3) |
+  - | - lormetazepam | (3) |
 
-  - | Lorazepam | (3) |
+  - | - lorazepam | (3) |
 
-  - | Medazepam | (3) |
+  - | - medazepam | (3) |
 
-  - | Nordazepam | (3) |
+  - | - nordazepam | (3) |
 
-  - | Nitrazepam | (3) |
+  - | - nitrazepam | (3) |
 
-  - | Nimetrazepam | (3) |
+  - | - nimetrazepam | (3) |
 
-  - | Oxazepam | (3) |
+  - | - oxazepam | (3) |
 
-  - | Pirazepam | (3) |
+  - | - pirazepam | (3) |
 
-  - | Prazepam | (3) |
+  - | - prazepam | (3) |
 
-  - | Temazepam | (3) |
+  - | - temazepam | (3) |
 
-  - | Tetrazepam | (3) |
+  - | - tetrazepam | (3) |
 
-  - | Triazolam | (3) |
+  - | - triazolam | (3) |
 
-  - 2933 90 80 | Ostatné heterocyklické zlúčeniny len s dusíkatými heteroatómami, nukleové | |
+  - 2933 90 95 | Ostatné heterocyklické zlúčeniny len s dusíkatými heteroatómami, nukleové | | kg
 
-  - | kyseliny a ich soli, z toho len | | kg
+  - | kyseliny a ich soli, z toho len | |
 
   - | - triazofos | (2) |
 
@@ -698,7 +692,7 @@ Príloha D
 
   - | - metazocín | (1) |
 
-  - | - moramid - medziprodukt | (1) |
+  - | - moramid - medzlprodukt | (1) |
 
   - | - proheptazín | (1) |
 
@@ -732,7 +726,19 @@ Príloha D
 
   - | - beta-hydroxy-3-metylfentanyl | (1) | kg
 
-  - 2934 90 99 | Ostatné heterocyklické zlúčeniny, z toho len | | kg
+  - 2934 90 89 | Nukleové kyseliny a ich soli, z toho len | | kg
+
+  - | - krimidín | (2) |
+
+  - | - pirimifos-etyl | (2) |
+
+  - | -fenetyllín | (3) |
+
+  - | - meklochalón | (3) |
+
+  - | - metachalón | (3) |
+
+  - 2934 90 98 | Ostatné heterocyklické zlúčeniny, z toho len | | kg
 
   - | - pyrolidínditiokarbamát sodný | (1) |
 
@@ -744,7 +750,7 @@ Príloha D
 
   - | - dimetyltiabutén | (1) |
 
-  - | - dioxyfenyl | (1) |
+  - | - dioxafetylbutyrát | (1) |
 
   - | - etylmetyltiambutén | (1) |
 
@@ -806,9 +812,9 @@ Príloha D
 
   - | - morfín | (1) |
 
-  - | - morfín metobromid | (1) |
+  - | - moríln metobromid | (1) |
 
-  - | - morfín N-oxid | (1) |
+  - | - moríln N-oxid | (1) |
 
   - | - myrofín | (1) |
 
@@ -864,19 +870,19 @@ Príloha D
 
   - 2939 63 00 | Kyselina lysergová | (4) | kg
 
-  - 2939 69 00 | Alkaloidy žitného námeľa a ich deriváty, ich soli, z toho len | | kg
+  - 2939 69 00 | Ostatné alkaloidy razového námeľa a ich deriváty, ich soli, z toho len | | kg
 
   - | - (+)-N,N-dietyllysergamid (LSD) | (3) |
 
-  - | - dietylamid kyseliny D-lysergovej (LSD-25) | (3) |
+  - | - dietylamid kyselina D-lysergovej (LSD-25) | (3) |
 
   - 2939 90 11 | Kokaín surový | (1) | kg
 
   - 2939 90 19 | Ostatný kokaín a jeho soli, ekgonín | (1) | kg
 
-  - 2939 90 90 | Ostatné rastlinné alkaloidy, prírodné alebo reprodukované syntézou, a ich soli, | |
+  - 2939 90 90 | Ostatné rastlinné alkaloidy, prírodné alebo reprodukované syntézou, a ich | | kg
 
-  - | étery, estery a ostatné deriváty, z toho len | | kg
+  - | soli, étery, estery a ostatné deriváty, z toho len | |
 
   - | - anabazín [2-(3-pyridyl)-piperidín] | (2) |
 
@@ -888,11 +894,13 @@ Príloha D
 
   - | Psilotsín | (3) |
 
-  - 8107 | Kadmium | (6) | kg
+  - 8107 | Kadmium a výrobky z neho vrátane odpadov a šrotu | (6) | kg
 
-  - 8112 91 89 | Tálium | (2) | kg
+  - 8112 91 89 | Tálium a výrobky z neho vrátane odpadov a šrotu | (2) | kg
 
   - 8112 99 90 | | |
+
+  - Vysvetlivky: (1) omamné látky(2) zvlášť nebezpečné jedy(3) psychotropné látky(4) prekurzory(5) pomocné chemické látky(6) ostatné jedy a špecifické karcinogénne látky
 
     - Vysvetlivky: (1) omamné látky
 
@@ -916,7 +924,7 @@ Príloha D
 
   - 2903 19 10 | 1,1,1 -trichlóretán | | tona
 
-  - 2903 30 33 | metylbromid | (2) | kg
+  - 2903 30 33 | Metylbromid | | tona
 
   - 2903 41 00 | trichlórfluórmetán | | tona
 
@@ -1016,10 +1024,88 @@ Príloha D
 
   - | chlórdifluórpropán | |
 
-  - | chlórfluórpropán | |
-
-  - 2903 46 10 | brómchlórdilfluórmetán | | tona
+  - 2903 46 10 | chlórfluórpropán brómchlórdifluórmetán | | tona
 
   - 2903 46 20 | brómtrifluórmetán | | tona
 
   - 2903 46 90 | dibrómtetrafluóretán | | tona
+
+  - 2903 47 00 | dibrómfluónnetán | | tona
+
+  - | brómdifluórmetán | |
+
+  - | brómfluórmetán | |
+
+  - | tetrabrómfluóretán | |
+
+  - | tribrómdifluóretán | |
+
+  - | dibrómtrifluóretán | |
+
+  - | brómtetrafluóretán | |
+
+  - | tribrómfluóretán | |
+
+  - | dibrómdifluóretán | |
+
+  - | brómtrifluóretán | |
+
+  - | dibrómfluóretán | |
+
+  - | brómdifluóretán | |
+
+  - | brómfluóretán | |
+
+  - | hexabrómfluórpropán | |
+
+  - | pentabrómdifluórpropán | |
+
+  - | tetrabrómtrifluórpropán | |
+
+  - | tribrómtetrafluórpropán | |
+
+  - | dibrómpentafluórpropán | |
+
+  - | brómhexafluórpropán | |
+
+  - | pentabrómfluórpropán | |
+
+  - | tetrabrómdlfluórpropán | |
+
+  - | tribrómtrifluórpropán | |
+
+  - | dibrómtetrafluórpropán | |
+
+  - | brómpentafluórpropán | |
+
+  - | tetrabrómfluórpropán | |
+
+  - | tribrómdifluórpropán | |
+
+  - | dibrómtrifluórpropán | |
+
+  - | brómtetrafluórpropán | |
+
+  - | tribrómfluórpropán | |
+
+  - | dibrómdifluórpropán | |
+
+  - | brómtrifluórpropán | |
+
+  - | dibrómfluórpropán | |
+
+  - | brómdifluórpropán | |
+
+  - | brómfluórpropán | |
+
+  - Stroje a elektrické zariadenia | | |
+
+  - ex8415 | Klimatizačné stroje a prístroje obsahujúce látky poškodzujúce ozónovú | | ks
+
+  - | vrstvu Zeme | |
+
+  - ex8418 | Chladničky, mraziace boxy a iné chladiace alebo mraziace zariadenia | | ks
+
+  - | obsahujúce látky poškodzujúce ozónovú vrstvu Zeme | |
+
+  - ex – niektoré z tovarov zaradených pod uvedené číslo (zariadenia obsahujúce v chladiacom okruhu látky a tepelnoizolačné materiály používané v konštrukčných častiach zariadení, ktorých používanie je od 1. 1. 1996 podľa Kodanského dodatku zakázané)

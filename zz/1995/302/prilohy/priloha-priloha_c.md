@@ -10,7 +10,7 @@ Príloha C
 
   - Nórsko | 1 | 6201 | vesty a saká, blejzre, anoraky a pod., perkasy, komplety | ks
 
-  - | | 6202 | a kostýmy, z tkaného materiálu pre mužov, ženy a deti |
+  - | | 6202 | a kostýmy z tkaného materiálu pre mužov, ženy a deti |
 
   - | | 6203 11 00 | |
 
@@ -80,7 +80,7 @@ Príloha C
 
   - | | ex5212 | |
 
-  - | | ex5407 91 00 | tkaniny obsahujúce 36 % a viac vlny alebo jemných zvieracích |
+  - | | ex5407 91 00 | tkaniny s obsahom 36 % a viac vlny alebo jemných zvieracích |
 
   - | | ex5407 92 00 | chlpov |
 
@@ -110,19 +110,19 @@ Príloha C
 
   - | | ex5516 34 00 | |
 
-  - | | ex5309 21 | tkaniny obsahujúce 17 % a viac vlny alebo jemných zvieracích |
+  - | | ex5309 21 | tkaniny s obsahom 17 % a viac vlny alebo jemných zvieracích |
 
   - | | ex5309 29 | chlpov |
 
   - | | ex5311 00 | |
 
-  - | | 6301 20 | prikrývky (iné ako elektricky vyhrievané) a cestovné koberčeky |
+  - | | 6301 20 | prikrývky (iné ako elektricky vyhrievané) a cestovné |
 
-  - | | | z vlny alebo z jemných zvieracích chlpov |
+  - | | | koberčeky z vlny alebo z jemných zvieracích chlpov |
 
   - | 433 | | pánske alebo chlapčenské saká, blejzre a komplety | ks
 
-  - | | 6103 21 00 | pletené alebo háčkované, obsahujúce 23 % a viac vlny alebo |
+  - | | 6103 21 00 | pletené alebo háčkované s obsahom 23 % a viac vlny alebo |
 
   - | | ex6103 23 00 | jemných zvieracích chlpov |
 
@@ -132,7 +132,7 @@ Príloha C
 
   - | | ex6103 39 00 | |
 
-  - | | 6203 21 00 | iné ako pletené alebo háčkované, obsahujúce 36 % a viac vlny |
+  - | | 6203 21 00 | iné ako pletené alebo háčkované s obsahom 36 % a viac vlny |
 
   - | | ex6203 23 | alebo jemných zvieracích chlpov |
 
@@ -144,13 +144,13 @@ Príloha C
 
   - | 435 | | dámske alebo dievčenské zvrchníky, plášte, peleríny, kabáty, | ks
 
-  - | | | bundy (vrátane lyžiarskych) a pod. výrobky, komplety, kabátiky |
+  - | | | bundy (vrátane lyžiarskych) a podobné výrobky, komplety, |
 
-  - | | | a blejzre, časti zvrchníkov a kabátikov, lyžiarske odevy a |
+  - | | | kabátiky a blejzre, časti zvrchníkov a kabátikov, lyžiarske |
 
-  - | | | teplákové súpravy |
+  - | | | odevy a teplákové súpravy |
 
-  - | | 6102 10 | pletené alebo háčkované, obsahujúce 23 % a viac vlny alebo |
+  - | | 6102 10 | pletené alebo háčkované s obsahom 23 % a viac vlny alebo |
 
   - | | ex6102 30 10 | jemných zvieracích chlpov |
 
@@ -170,7 +170,7 @@ Príloha C
 
   - | | ex6117 90 00 | |
 
-  - | | 6202 11 00 | iné ako pletené alebo háčkované, obsahujúce 36 % a viac vlny |
+  - | | 6202 1 1 00 | iné ako pletené alebo háčkované s obsahom 36 % a viac vlny |
 
   - | | ex6202 13 | alebo jemných zvieracích chlpov |
 
@@ -202,13 +202,13 @@ Príloha C
 
   - | 443 | | pánske alebo chlapčenské obleky | ks
 
-  - | | 6103 11 | pletené alebo háčkované, obsahujúce 23 % a viac vlny alebo |
+  - | | 6103 11 | pletené alebo háčkované s obsahom 23 % a viac vlny alebo |
 
   - | | ex6103 12 00 | jemných zvieracích chlpov |
 
   - | | ex6103 19 00 | |
 
-  - | | 6203 11 00 | iné ako pletené alebo háčkované, obsahujúce 36 % a viac vlny |
+  - | | 6203 11 00 | iné ako pletené alebo háčkované s obsahom 36 % a viac vlny |
 
   - | | ex6203 12 00 | alebo jemných zvieracích chlpov |
 
@@ -226,11 +226,9 @@ Príloha C
 
   - | | 6203 12 00 | |
 
-  - | | ex6203 19 | |
+  - | | 6203 19 00 | |
 
-  - | 3A | | |
-
-  - | 3.3. | 6103 31 až 33 | pánske, chlapčenské a detské saká a blejzre, pletené, | ks
+  - | 3.3. | 6103 31 až 33 | pánske, chlapčenské a detské saká a blejzre, pletené, |
 
   - | | 6103 39 | háčkované a tkané |
 
@@ -240,7 +238,7 @@ Príloha C
 
   - | 5 | 6103 41 až 43 | pánske, dámske, chlapčenské, dievčenské a detské nohavice, | ks
 
-  - | | 6103 49 | nohavice s náprsenkou a plecnicami, lýtkové a krátke |
+  - | | 6103 49 | nohavice s náprsenkou, s plecnicami, lýtkové a krátke |
 
   - | | 6104 61 až 64 | nohavice, pletené, háčkované a tkané |
 
@@ -260,33 +258,25 @@ Príloha C
 
   - | | | chlpov; tkaniny kategórie 5007, 5111, 5212, 5309, 5310, |
 
-  - | | | 5311, 5407, 5408, 5515, 5516, 5803, 5901, 5903, 5906, |
+  - | | | 5311, 5407, 5408, 5515, 5516, 5803, 5901, 5903, 5906, 5907, |
 
-  - | | | 5907, ktorých základné priadze sú v zmesi hlavne alebo |
+  - | | | ktorých základné priadze sú v zmesi hlavne alebo výlučne |
 
-  - | | | výlučne s česanou vlnou, alebo s jemnými zvieracími chlpmi, |
+  - | | | s česanou vlnou alebo s jemnými zvieracími chlpmi, |
 
   - | | | gáza z česanej vlny |
 
-  - | 42A | | |
-
-  - | | 6302 60 00 | toaletná a kuchynská bielizeň zo slučkových bavlnených | kg
+  - | 42A | 6302 60 00 | toaletná a kuchynská bielizeň zo slučkových bavlnených | kg
 
   - | | | textílií, tkaná, pletená alebo háčkovaná, ostatná toaletná |
 
   - | | | a kuchynská bielizeň |
 
-  - Európska | | | |
+  - Európska | 2 | 5208 11 10 | bavlnené tkaniny, iné než gáza, froté tkaniny, úzke tkaniny, | kg
 
-  - únia | | | |
+  - únia a | | 5208 11 90 | vlasové tkaniny, ženilkové tkaniny, tyly a iné sieťoviny |
 
-  - a Turecko | 1 | | |
-
-  - | 2 | 5208 11 10 | bavlnené tkaniny iné než gáza, froté tkaniny, úzke tkaniny, | kg
-
-  - | | 5208 11 90 | vlasové tkaniny, ženilkové tkaniny, tyly a iné sieťoviny |
-
-  - | | 5208 12 11 | |
+  - Turecko | | 5208 12 11 | |
 
   - | | 5208 12 13 | |
 
@@ -436,7 +426,7 @@ Príloha C
 
   - | | 5210 51 00 | |
 
-  - | | 5210 52 00 | |
+  - | | 5210 5 200 | |
 
   - | | 5210 59 00 | |
 
@@ -812,11 +802,11 @@ Príloha C
 
   - | | ex6308 00 00 | |
 
-  - | 4 | 6105 10 00 | košele, tričká (T-shirts), ľahké roláky, tielka a iné nátelníky, | ks
+  - | 4 | 6105 10 00 | košele, T-shirts, ľahké roláky, tielka, iné tričká a polokošele, | ks
 
-  - | | 6105 20 10 | polokošele, pulóvre (iné ako vlnené alebo z jemných zvieracích |
+  - | | 6105 20 10 | pulóvre (iné ako vlnené alebo z jemných zvieracích chlpov), |
 
-  - | | 6105 20 90 | chlpov), vesty a pod., pletené alebo háčkované |
+  - | | 6105 20 90 | vesty a pod., pletené alebo háčkované |
 
   - | | 6105 90 10 | |
 
@@ -830,9 +820,9 @@ Príloha C
 
   - | | 6110 30 10 | |
 
-  - | 5 | 6101 10 90 | pulóvre, svetre, vesty, tvinsety, kardigany, nočné kabátiky (iné | ks
+  - | 5 | 6101 10 90 | pulóvre, svetre, vesty, twinsety, kardigany, nočné kabátiky | ks
 
-  - | | 6101 20 90 | ako saká a blejzre), anoraky, vetrovky a pod., pletené alebo |
+  - | | 6101 20 90 | (Iné ako saká a blejzre), anoraky, vetrovky a pod., pletené alebo |
 
   - | | 6101 30 90 | háčkované |
 
@@ -864,17 +854,17 @@ Príloha C
 
   - | | 6110 30 99 | |
 
-  - | 6 | 6203 41 10 | pánske alebo chlapčenské tkané krátke nohavice, šortky, iné | ks
+  - | 6 | 6203 41 10 | pánske alebo chlapčenské tkané jazdecké nohavice, šortky, | ks
 
-  - | | 6203 41 90 | ako kúpacie, nohavice (vrátane nohavíc na voľný čas); dámske |
+  - | | 6203 41 90 | iné ako kúpacie, nohavice (vrátane nohavíc na voľný čas), |
 
-  - | | 6203 42 31 | alebo dievčenské tkané nohavice (vrátane nohavíc na voľný |
+  - | | 6203 42 31 | dámske alebo dievčenské tkané nohavice (vrátane nohavíc |
 
-  - | | 6203 42 33 | čas) z vlny, bavlny alebo z umelých vlákien; dolné časti |
+  - | | 6203 42 33 | na voľný čas) z vlny, bavlny alebo z umelých vlákien, krátke |
 
-  - | | 6203 42 35 | teplákových súprav s podšívkou z bavlny alebo z umelých |
+  - | | 6203 42 35 | nohavice, dolné časti teplákových súprav s podšívkou z bavlny |
 
-  - | | 6203 42 90 | vlákien iné ako v kategórii 16 alebo 29 |
+  - | | 6203 42 90 | alebo z umelých vlákien, iné ako v kategórii 16 alebo 29 |
 
   - | | 6203 43 19 | |
 
@@ -916,15 +906,15 @@ Príloha C
 
   - | | 6206 40 00 | |
 
-  - | 8 | 6205 10 00 | pánske alebo chlapčenské košele, iné ako pletené alebo | ks
+  - | 8 | 6205 10 00 | pánske alebo chlapčenské košele, Iné ako pletené alebo | ks
 
-  - | | 6205 20 00 | háčkované z vlny, bavlny alebo z umelých vlákien |
+  - | | 6205 20 00 | háčkované, z vlny, bavlny alebo z umelých vlákien |
 
   - | | 6205 30 00 | |
 
   - | 12 | 6115 12 00 | pančuchové nohavice, ponožky, pančuchy, podkolienky | páry
 
-  - | | 6115 19 10 | a pod., pletené alebo háčkované, iné ako dojčenské, vrátane |
+  - | | 6115 19 10 | a pod., pletené alebo háčkované, Iné ako dojčenské, vrátane |
 
   - | | 6115 19 90 | pančúch na kŕčové žily |
 
@@ -964,13 +954,13 @@ Príloha C
 
   - | | 6210 30 00 | |
 
-  - | 16 | 6203 11 00 | pánske alebo chlapčenské obleky a komplety okrem | ks
+  - | 16 | 6203 11 00 | pánske alebo chlapčenské šaty (obleky) a komplety okrem | ks
 
-  - | | 6203 12 00 | lyžiarskych odevov, iné ako pletené alebo háčkované z vlny, |
+  - | | 6203 12 00 | lyžiarskych odevov, iné ako pletené alebo háčkované, |
 
-  - | | 6203 19 10 | bavlny alebo z umelých vlákien, |
+  - | | 6203 19 10 | z vlny, bavlny alebo z umelých vlákien |
 
-  - | | 6203 19 30 | pánske alebo chlapčenské teplákové súpravy s podšívkou |
+  - | | 6203 19 30 | pánske alebo chlapčenské teplákové súpravy s podšívkou | ks
 
   - | | 6203 21 00 | z bavlny alebo z umelých vlákien |
 
@@ -984,15 +974,15 @@ Príloha C
 
   - | | 6211 33 31 | |
 
-  - | 17 | 6203 31 00 | pánske alebo chlapčenské saká a blejzre, iné ako pletené | ks
+  - | 17 | 6203 31 00 | pánske alebo chlapčenské saká a blejzre, iné ako pletené alebo | ks
 
-  - | | 6203 32 90 | alebo háčkované z vlny, bavlny alebo z umelých vlákien |
+  - | | 6203 32 90 | háčkované, z vlny, bavlny alebo z umelých vlákien |
 
   - | | 6203 33 90 | |
 
   - | | 6203 39 19 | |
 
-  - | 20 | 6302 21 00 | posteľná bielizeň, iná ako pletená alebo háčkovaná | kg
+  - | 20 | 6302 21 00 | posteľoviny, iné než pletené alebo háčkované | kg
 
   - | | 6302 22 90 | |
 
@@ -1086,7 +1076,7 @@ Príloha C
 
   - | | 6203 23 10 | alebo háčkované, dámske alebo dievčenské zástery, pracovné |
 
-  - | | 6203 29 11 | plášte a iné pracovné odevy, iné ako pletené alebo háčkované |
+  - | | 6203 29 11 | plášte a iné pracovné odevy iné ako pletené alebo háčkované |
 
   - | | 6203 32 10 | |
 
@@ -1140,7 +1130,7 @@ Príloha C
 
   - | 90 | 5607 41 00 | motúzy, šnúry, povrazy, laná zo syntetických vlákien, spletené | kg
 
-  - | | 5607 49 11 | alebo nespletené |
+  - | | 5607 49 11 | alebo nie |
 
   - | | 5607 49 19 | |
 
@@ -1180,9 +1170,9 @@ Príloha C
 
   - | | 5905 00 39 | |
 
-  - | 118 | 6302 29 10 | stolná a kuchynská bielizeň z ľanu alebo ramie, iná ako | kg
+  - | 118 | 6302 29 10 | stolná bielizeň a kuchynská bielizeň z ľanu alebo z ramie, | kg
 
-  - | | 6302 39 10 | pletená alebo háčkovaná |
+  - | | 6302 39 10 | iná ako pletená alebo háčkovaná |
 
   - | | 6302 39 30 | |
 
@@ -1194,8 +1184,10 @@ Príloha C
 
   - | | ex6302 99 00 | |
 
-  - ČASŤ II – POĽNOHOSPODÁRSKE PRODUKTY Štát | Číslo kategórie | Položka colného sadzobníka | Názov tovaru | Merná jednotka
+  - ex – niektoré z tovarov zaradených pod uvedené číslo
 
-  - Európska únia | | 0104 | živé ovce a jahňatá | tona
+  - ČASŤ II – POĽNOHOSPODÁRSKE PRODUKTY Štát | Položka colného sadzobníka | Názov tovaru | Merná jednotka
 
-  - | | 0204 | baranie a jahňacie mäso | tona
+  - Európska únia | 0104 | živé ovce a jahňatá | tona
+
+  - | 0204 | baranie a jahňacie mäso | tona

@@ -10,104 +10,134 @@ Príloha E
 
 - Položka colného sadzobníka | Názov tovaru | Merná jednotka
 
-- 3601 00 00 | Práškové výmetové výbušniny | Sk OP/kg
+- 3601 00 00 | Práškové výmetové výbušniny | kg
 
-- 3602 00 00 | Prípravné výbušniny iné ako práškové výmetové výbušniny | Sk OP/kg
+- 3602 00 00 | Prípravné výbušniny, iné ako práškové výmetové výbušniny | kg
 
-- 3603 00 | Zápalnice, bleskovice, roznetky alebo rozbušky, zažíhadlá, elektrické rozbušky | Sk OP/kg
+- 3603 00 | Zápalnice, bleskovice, roznetky alebo rozbušky, zapaľovače, elektrické rozbušky | ks
 
-- 3604 | Ohňostroje, signalizačné rakety, dažďové rakety, hmlové signály a ostatné |
+- 3604 | Ohňostroje, signálne rakety, dažďové rakety, hmlové signály a ostatné | kg
 
-- | pyrotechnické výrobky<sup>5</sup>) | Sk OP/kg
+- | pyrotechnické výrobky<sup>5</sup>) |
 
-- 8411 | Prúdové motory, turbovrtuľové pohony a ostatné plynové turbíny<sup>6</sup>) | Sk OP/ks
+- 3605 00 00 | Zápalky, iné ako pyrotechnické výrobky čísla 3604<sup>5</sup>) | ks
 
-- 8479 | Stroje a mechanické prístroje s vlastnou individuálnou funkciou v tejto |
+- 8407 | Vratné alebo rotačné zážihové spaľovacie piestové motory<sup>5</sup>), <sup>6</sup>) | ks
 
-- | kapitole inde neuvedené ani nezahrnuté<sup>7</sup>) | Sk OP/ks
+- 8408 | Piestové vznetové motory (dieselové motory alebo motory so žiarovou hlavou)<sup>5</sup>), <sup>6</sup>) | ks
 
-- 8526 | Rádiolokačné a rádiosondážne prístroje (radary), rádionavigačné prístroje |
+- 8409 | Časti a súčasti určené prevažne alebo výhradne na motory čísiel 8407 alebo 8408<sup>5</sup>), <sup>6</sup>) | Sk
 
-- | a rádiové prístroje na diaľkové riadenie<sup>5</sup>) | Sk OP/ks
+- 8411 | Prúdové motory, turbovrtuľové pohony a ostatné plynové turbíny<sup>6</sup>) | ks
 
-- 8705 | Motorové vozidlá na osobitné účely, iné ako tie, ktoré sú konštruované najmä |
+- 8479 | Stroje a mechanické prístroje s vlastnou individuálnou funkciou, v tejto kapitole |
 
-- | na osobnú alebo na nákladnú dopravu (napr. vyslobodzovacie automobily, |
+- | inde neuvedené ani nezahrnuté<sup>7</sup>) |
 
-- | požiarne automobily, žeriavové nákladné automobily, s miešačkou na betón, |
+- 8525 20 99 | Vysielacie prístroje rádiotelegrafické alebo rádiotelefonické - vysielacie prístroje | ks
 
-- | zametacie automobily, kropiace automobily, pojazdné dielne, pojazdné |
+- | s prijímacím zariadením - ostatné<sup>5</sup>), <sup>6</sup>) |
 
-- | röntgenové stanice)<sup>5</sup>) | Sk OP/ks
+- 8526 | Rádiolokačné a rádiosondážne prístroje (radary), rádionavigačné prístroje | ks
 
-- 8710 00 00 | Tanky a iné obrnené bojové vozidlá, tiež vybavené zbraňami, ich časti |
+- | a rádiové prístroje na diaľkové riadenie<sup>5</sup>) |
 
-- | a súčasti | Sk OP/ks
+- 8527 90 99 | Prijímacie prístroje na rádiotelefóniu alebo na rádiotelegrafiu - ostatné prístroje | ks
 
-- 8802 | Ostatné aerodyny (lietadlá - napr. vrtuľníky, letúne), kozmické lode vrátane |
+- | - ostatné<sup>5</sup>), <sup>6</sup>) |
 
-- | družíc a ich štartovacie nosiče<sup>5</sup>) | Sk OP/ks
+- 8705 | Motorové vozidlá na zvláštne účely, iné ako tie, ktoré sú konštruované hlavne na | ks
 
-- 8803 30 | Ostatné časti a súčasti letúnov alebo vrtuľníkov<sup>6</sup>) | Sk OP
+- | osobnú alebo na nákladnú dopravu (napr. vyslobodzovacie automobily, požiarne |
 
-- 8805 10 90 | Letecké katapulty a podobné prístroje a zariadenia, prístroje a zariadenia na |
+- | automobily, žeriavové nákladné automobily, nákladné automobily s miešačkou na |
 
-- | pristavanie aerodynov na lietadlovej lodi a podobné prístroje a zariadenia, |
+- | betón, zametacie automobily, kropiace automobily, pojazdné dielne, pojazdné |
 
-- | pozemné prístroje na letecký výcvik, ich časti a súčasti - ostatné<sup>5</sup>),<sup>6</sup>) | Sk OP
+- | röntgenové stanice)<sup>5</sup>) |
 
-- 8906 00 | Ostatné lode a člny vrátane vojnových lodí a záchranných člnov s výnimkou |
+- 871000 | Tanky a iné obrnené bojové vozidlá, tiež vybavené zbraňami; ich časti a súčasti | ks
 
-- | veslových | Sk OP/ks
+- 8802 | Ostatné letúne (napr. vrtuľníky, lietadlá), kozmické lode (vrátane družíc a ich | ks
 
-- 8907 | Ostatné plavidlá (napr. pontóny, nádrže, kesóny, prístavné mostíky, boje |
+- | štartovacích nosičov)<sup>5</sup>) |
 
-- | a výstražné svetelné plaváky)<sup>5</sup>) | Sk OP/ks
+- 8803 10 | Vrtule a rotory a ich časti a súčasti<sup>5</sup>), <sup>6</sup>) | Sk
 
-- 9013 10 00 | Zameriavacie ďalekohľady na zbrane, periskopy, ďalekohľady na stroje, |
+- 8803 20 | Podvozky a ich časti a súčasti<sup>5</sup>), <sup>6</sup>) | Sk
 
-- | prístroje a nástroje tejto kapitoly triedy XVI<sup>6</sup>) | Sk OP/ks
+- 8803 30 | Ostatné časti a súčasti letúnov alebo vrtuľníkov<sup>6</sup>) | Sk
 
-- 9020 00 | Ostatné dýchacie prístroje a plynové masky s výnimkou ochranných masiek |
+- 8805 10 90 | Letecké katapulty, palubné lapače a podobné mechanizmy, pozemné prístroje na | ks
 
-- | bez mechanických častí a vymeniteľných filtrov<sup>5</sup>) | Sk OP/ks
+- | letecký výcvik, ich časti a súčasti - ostatné<sup>5</sup>), <sup>6</sup>) |
 
-- 9301 00 00 | Vojenské zbrane s výnimkou revolverov, pištolí a zbraní čísla 9307 | Sk OP/ks
+- 8906 00 | Ostatné lode a člny vrátane vojnových lodí a záchranných člnov okrem veslových | ks
 
-- 9302 00 | Revolvery a pištole, iné ako zaradené do čísla 9303 alebo 9304 | Sk OP/ks
+- 8907 | Ostatné plavidlá (napr. pontóny, nádrže, kesóny, prístavné mostíky, boje | ks
 
-- 9303 | Ostatné strelné zbrane a zariadenia využívajúce výbuch strelného prachu |
+- | a výstražné svetelné plaváky)<sup>5</sup>) |
 
-- | (napr. poľovnícke pušky, karabíny a pod.) | Sk OP/ks
+- 9013 1000 | Zameriavacie ďalekohľady na zbrane, periskopy, ďalekohľady na stroje a prístroje, | ks
 
-- 9304 00 00 | Ostatné zbrane (napr. pušky, karabíny a pištole na pero, tlak vzduchu alebo |
+- | prístroje a nástroje tejto kapitoly triedy XVI<sup>6</sup>) |
 
-- | na plyn, obušky) okrem sečných a bodných zbraní čísla 9307 | Sk OP/ks
+- 9014 | Buzoly vrátane navigačných kompasov, iné navigačné nástroje a prístroje<sup>5</sup>), <sup>6</sup>) | ks
 
-- 9305 | Časti, súčasti a príslušenstvo výrobkov čísel 9301 až 9304 | Sk OP
+- 9015 | Geodetické, topografické, zememeračské, nivelačné, fotogrammetrické, | ks
 
-- 9306 | Bomby, granáty, torpéda, míny, riadené strely, náboje, ostatné strelivo a strely, |
+- | hydrografické, oceánografické, hydrologické, meteorologické alebo geofyzikálne |
 
-- | ako aj ich častí a súčasti vrátane brokov všetkých druhov a nábojových krytiek | Sk OP/ks
+- | nástroje a prístroje okrem kompasov, diaľkomery<sup>5</sup>), <sup>6</sup>) |
 
-- 9307 00 00 | Meče, tesáky, bodáky, kopije a podobné sečné a bodné zbrane, ich časti, |
+- 9020 00 | Ostatné dýchacie prístroje a plynové masky okrem ochranných masiek bez | ks
 
-- | súčastí a ich pošvy | Sk OP/ks
+- | mechanických častí a vymeniteľných filtrov<sup>5</sup>) |
 
-- Technologické | Stroje a zariadenia, iné ako čísla 8479, slúžiace predovšetkým na výrobu |
+- 9301 00 00 | Vojenské zbrane, iné ako revolvery, pištole a zbrane čísla 9307 | ks
 
-- zariadenia | tovaru uvedeného v tejto prílohe a opravy tovaru uvedeného v tejto prílohe | Sk OP
+- 9302 00 | Revolvery a pištole, iné ako zaradené do čísla 9303 alebo 9304 | ks
+
+- 9303 | Ostatné strelné zbrane a zariadenia fungujúce na princípe výbuchu strelného | ks
+
+- | prachu (napr. športové brokovnice a guľovnice, strelné zbrane, ktoré možno |
+
+- | nabíjať len ústím hlavne, pištole, vystreľujúce rakety a ostatné zariadenia určené |
+
+- | len na vypúšťanie signálnych rakiet, pištole a revolvery na streľbu slepými |
+
+- | nábojmi, jatočné pištole, delá na vrhanie kotvového lana) |
+
+- 9304 00 00 | Ostatné zbrane (napr. pušky, karabíny a pištole na pero, tlak vzduchu alebo na | ks
+
+- | plyn, obušky) okrem sečných a bodných zbraní čísla 9307 |
+
+- 9305 | Časti, súčasti a príslušenstvo výrobkov čísiel 9301 až 9304 | Sk
+
+- 9306 | Bomby, granáty, torpéda, míny, riadené strely, podobná vojenská výzbroj a jej | ks
+
+- | časti; náboje a ostatné strelivo a strely, ich časti vrátane brokov a nábojových |
+
+- | krytiek (zátok) |
+
+- 9307 00 00 | Meče, tesáky, bodáky, kopije a podobné sečné a bodné zbrane, ich časti, súčasti | ks
+
+- | a ich pošvy |
+
+- Technologické | Stroje a zariadenia (iné ako čísla 8479) slúžiace predovšetkým na výrobu tovaru | Sk
+
+- zariadenia | uvedeného v tejto prílohe a opravy tovaru uvedeného v tejto prílohe |
 
 - a opravy | |
 
-- Služby | Služby poskytované zahraničným osobám a prijímanie služieb od zahraničných |
+- Služby | Služby poskytované zahraničným osobám a prijímanie služieb od zahraničných | Sk
 
-- | osôb v súvislosti so zabezpečením obrany a bezpečnosti štátu alebo v súvislosti |
+- | osôb v súvislosti so zabezpečovaním obrany a bezpečnosti štátu alebo v súvislosti |
 
-- | s výskumom, vývojom, skúšaním, zavádzaním výroby a zabezpečovaním |
+- | s výskumom, vývojom, skúšaním, zavádzaním výroby a zabezpečovaním servisu |
 
-- | servisu výrobkov, náhradných dielcov a komponentov k nim, ktoré sú osobitou |
+- | výrobkov, náhradných dielcov a komponentov k nim, ktoré sú osobitou |
 
 - | konštrukciou alebo usporiadaním určené na použitie v ozbrojených |
 
-- | a bezpečnostných zložkách | Sk OP
+- | a bezpečnostných zložkách |

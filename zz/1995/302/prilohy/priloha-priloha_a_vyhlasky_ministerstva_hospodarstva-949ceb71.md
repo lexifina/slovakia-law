@@ -2,17 +2,19 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
 - ZOZNAM TOVARU podliehajúceho licenčnému konaniu pri dovoze
 
-  - ČASŤ I – NEAUTOMATICKÉ LICENCIE Položka colného sadzobníka | Názov tovaru | Merná jednotka | Ročné množstvo | Teritórium
+  - ČASŤ I – NEAUTOMATICKÉ LICENCIE Položkacolnéhosadzobníka | Názov tovaru | Merná | Ročné | Štát pôvodu
 
-  - 2701 | čierne uhlie, brikety, bulety a podobné tuhé palivá vyrobené z čierneho uhlia | tona | 4 000 000 | okrem EÚ, EZVO a ČR<sup>4</sup>)
+  - | | | | | jednotka | množstvo
 
-  - 2702 | hnedé uhlie, tiež aglomerované, okrem gagátu | tona | 300 000 | okrem EÚ, EZVO, ČR
+  - | | 2701 | čierne uhlie, brikety, bulety a podobné tuhé | | | | tona | 4 000 000 | okrem EÚ, EZVO
 
-  - 4707 | zberový (odpad a výmet) papier a lepenka | tona | 150 000 | všetky štáty okrem ČR
+  - | | | palivá vyrobené z čierneho uhlia | | | | a ČR<sup>4</sup>)
 
-  - ex 8418 | chladničky, mraziace boxy a iné chladiace alebo mraziace zariadenia obsahujúce freónovú náplň | ks | 0 | všetky štáty
+  - 2702 | hnedé uhlie, tiež aglomerované, | tona | 300 000 | okrem EÚ, EZVO a ČR
 
-  - ČASŤ II – AUTOMATICKÉ LICENCIE Položka colného sadzobníka | Názov tovaru | Merná jednotka | Teritórium
+  - | okrem gagátu | | |
+
+  - ČASŤ II – AUTOMATICKÉ LICENCIE Položka colného sadzobníka | Názov tovaru | Merná jednotka | Štát pôvodu
 
   - Poľnohospodárske a potravinárske výrobky | | |
 
@@ -24,17 +26,19 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 0104 | ovce a kozy - živé | tona | všetky štáty okrem ČR
 
-  - | kohúty a sliepky: | tona | všetky štáty
+  - 0105 | kohúty, sliepky, kačice, husi, moriaky, morky a perličky | tona | všetky štáty
 
-  - 0105 92 00 | | |
+  - | - živé, domáce | |
 
-  - 0105 93 00 | | |
+  - 0201 | hovädzie mäso, čerstvé alebo chladené | tona | všetky štáty
 
-  - 0201 | hovädzie mäso čerstvé i chladené | tona | všetky štáty
+  - 0202 | hovädzie mäso, mrazené | tona | všetky štáty
 
-  - 0202 | hovädzie mäso mrazené | tona | všetky štáty
+  - 0203 | bravčové mäso, čerstvé, chladené i mrazené | tona | všetky štáty
 
-  - 0203 | bravčové mäso čerstvé, chladené i mrazené | tona | všetky štáty
+  - 0204 | baranie alebo kozie mäso, čerstvé, chladené alebo | tona | Bulharsko
+
+  - | mrazené | |
 
   - | baranie a jahňacie mäso: | tona | všetky štáty okrem ČR
 
@@ -54,69 +58,97 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 0206 | jedlé droby | tona | všetky štáty okrem ČR
 
-  - 0207 | mäso a jedlé droby hydiny čísla 0105, čerstvé, chladené | |
+  - 0207 | mäso a jedlé droby hydiny čísla 0105, čerstvé, chladené | tona | všetky štáty
 
-  - | alebo mrazené | tona | všetky štáty
+  - | alebo mrazené | |
 
-  - 0209 00 11 | bravčové sadlo a slanina | tona | všetky štáty okrem ČR
+  - 020900 11 až | bravčové sadlo a slanina | tona | všetky štáty okrem ČR
 
-  - až 0299 00 30 | | |
+  - 0299 00 30 | | |
 
-  - 0210 | mäso a droby, nasolené alebo v slanom náleve, sušené alebo | |
+  - 0210 | mäso a droby, nasolené alebo v slanom náleve, | tona | všetky štáty okrem ČR
 
-  - | údené, múčky a prášky jedlé, z mäsa alebo z drobov | tona | všetky štáty okrem ČR
+  - | sušené alebo údené, múčky a prášky jedlé, z mäsa alebo | |
+
+  - | z drobov | |
 
   - 0301 93 00 | živé ryby - kapry | tona | všetky štáty okrem ČR
 
-  - 0401 | mlieko a smotana, nezahustené ani neobsahujúce pridaný | |
+  - 0401 | mlieko a smotana, nezahustené ani neobsahujúce | tona | všetky štáty
 
-  - | cukor alebo iné sladidla | tona | všetky štáty okrem ČR
+  - | pridaný cukor ani iné sladidla | |
 
-  - 0402 | mlieko a smotana, zahustené alebo obsahujúce prídavok | |
+  - 0402 | mlieko a smotana, zahustené alebo obsahujúce prídavok | tona | všetky štáty
 
-  - | cukru, alebo iných sladidiel | tona | všetky štáty
+  - | cukru alebo iných sladidiel | |
 
-  - 0403 | cmar, kyslé mlieko a smotana, jogurt, kefír a ostatné | |
+  - 0403 | cmar, kyslé mlieko a smotana, jogurt, kefír a ostatné | tona | všetky štáty
 
-  - | skvasené alebo acidofilné mlieko a smotana | tona | všetky štáty
+  - | skvasené alebo acidofilné mlieko a smotana, tiež | |
 
-  - 0405 10 | maslo a iné tuky z mlieka | tona | všetky štáty
+  - | zahustené alebo s prídavkom cukru alebo iných | |
 
-  - 0406 | syry a tvaroh | tona | všetky štáty okrem ČR
+  - | sladidiel, alebo ochutené, alebo s prídavkom ovocia, | |
+
+  - | orechov alebo kakaa | |
+
+  - 0404 | srvátka, tiež zahustená alebo s prídavkom cukru alebo | tona | všetky štáty
+
+  - | iných sladidiel; výrobky zo zložiek prírodného mlieka, tiež | |
+
+  - | s prídavkom cukru alebo iných sladidiel, inde neuvedené | |
+
+  - | ani nezahrnuté | |
+
+  - 0405 | maslo a iné tuky a oleje pochádzajúce z mlieka; nátierky | tona | všetky štáty
+
+  - | z mliečnych tukov | |
+
+  - 0406 | syry a tvaroh | tona | všetky štáty
 
   - 0409 00 00 | prírodný med | tona | všetky štáty okrem ČR
 
-  - 0602 20 | stromy, zákrpky, kríky a kríčky, tiež vrúbľované, tých | |
+  - 0602 20 | stromy, zákrpky, kríky a kríčky, tiež vrúbľované, tých | ks | všetky štáty okrem ČR
 
-  - | druhov, ktoré rodia jedlé ovocie a orechy | ks | všetky štáty okrem ČR
+  - | druhov, ktoré rodia jedlé ovocie a orechy | |
 
-  - 0602 30 00 | rododendrony a azalky, tiež vrúbľované | ks | všetky štáty okrem ČR
+  - 0602 30 00 | rododendrony a azalky, tiež vrúblované | ks | všetky štáty okrem ČR
 
-  - 0602 40 | ružové kríky, tiež vrúbľované | ks | všetky štáty okrem ČR
+  - 0602 40 | ružové kríky, tiež vrúblované | ks | všetky štáty okrem ČR
 
   - 0602 90 41 | lesné stromy | ks | všetky štáty okrem ČR
 
-  - 0602 90 45 | stromy, kríky a kríčky okrem lesných - ich koreňovité | |
+  - 0602 90 45 | koreňovité odrezky a mladé rastliny stromov, kríkov | ks | všetky štáty okrem ČR
 
-  - | odrezky a mladé rastliny | ks | všetky štáty okrem ČR
+  - | a kríčkov - okrem lesných | |
 
-  - 0602 90 49 | stromy, kríky a kríčky okrem lesných, iné než koreňovité | |
+  - 0602 90 49 | stromy, kríky a kríčky okrem lesných - iné než | ks | všetky štáty okrem ČR
 
-  - | odrezky a mladé rastliny | ks | všetky štáty okrem ČR
+  - | koreňovité odrezky a mladé rastliny | |
 
-  - 0603 | rezané kvetiny a puky na kytice alebo na okrasné účely | ks | všetky štáty okrem ČR
+  - 0603 | rezané kvety a puky druhov vhodných na kytice alebo | ks | všetky štáty
 
-  - 0701 | zemiaky čerstvé alebo chladené | tona | všetky štáty okrem ČR
+  - | na okrasné účely, čerstvé, sušené, bielené, farbené, | |
 
-  - 0702 00 | paradajky čerstvé alebo chladené | tona | všetky štáty okrem ČR
+  - | napustené alebo inak upravené | |
 
-  - 0703 20 00 | cesnak | tona | všetky štáty okrem ČR
+  - 0701 | zemiaky, čerstvé alebo chladené | tona | všetky štáty
 
-  - 0706 90 05 | hľuzový zeler (od 1.10. do 30.4.) | |
+  - 0702 00 | paradajky, čerstvé alebo chladené | tona | všetky štáty okrem ČR
 
-  - a 0706 90 17 | | tona | všetky štáty okrem ČR
+  - 0703 10 19 | ostatná cibuľa | tona | Bulharsko
 
-  - 0704 90 10 | kapusta (biela, červená) čerstvá alebo chladená | tona | všetky štáty okrem ČR
+  - 0703 10 90 | šalotka | tona | Bulharsko
+
+  - 0703 20 00 | cesnak | tona | Bulharsko
+
+  - 0703 90 00 | pór a iná cesnakovitá zelenina | tona | Bulharsko
+
+  - 0704 90 10 | kapusta biela, kapusta červená | tona | všetky štáty okrem ČR
+
+  - 0706 90 05 a | hľuzový zeler (od 1. 10. do 30. 4.) | tona | všetky štáty okrem ČR
+
+  - 0706 90 17 | | |
 
   - 0706 90 30 | chren | tona | všetky štáty okrem ČR
 
@@ -124,15 +156,43 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 0707 00 | uhorky, nakladačky, čerstvé alebo chladené | tona | všetky štáty okrem ČR
 
-  - 0806 10 | hrozno čerstvé | tona | všetky štáty okrem ČR
+  - 0708 | strukoviny, tiež vylúpané, čerstvé alebo chladené | tona | všetky štáty
 
-  - 0808 10 | jablká | tona | všetky štáty okrem ČR
+  - 0709 51 10 | huby rodu Agaricus (šampiňóny) | tona | Bulharsko
 
-  - 0808 20 | hrušky a dule | tona | všetky štáty okrem ČR
+  - 0709 60 10 a | sladká paprika | tona | Bulharsko
+
+  - 0709 60 99 | | |
+
+  - 0710 | zelenina, tiež varená vo vode alebo v pare, zmrazená | tona | všetky štáty
+
+  - 0711 | zelenina dočasne konzervovaná, ale v tomto stave | tona | všetky štáty
+
+  - | nevhodná na používanie | |
+
+  - 0712 | zelenina sušená, tiež rozrezaná na kúsky alebo | tona | všetky štáty
+
+  - | na plátky, drvená alebo v prášku, ale inak | |
+
+  - | neupravená | |
+
+  - 0803 00 | banány (vrátane plantajnov), čerstvé alebo sušené | tona | všetky štáty
+
+  - 0805 | citrusové plody, čerstvé alebo sušené | tona | všetky štáty
+
+  - 0806 | hrozno, čerstvé alebo sušené | tona | všetky štáty
+
+  - 0807 11 00 | vodné melóny | tona | Bulharsko
+
+  - 0807 19 00 | ostatné melóny | tona | Bulharsko
+
+  - 0808 | jablká, hrušky a dule, čerstvé | tona | všetky štáty
 
   - 0809 10 | marhule | tona | všetky štáty okrem ČR
 
-  - 0809 30 | broskyne, nektárinky | tona | všetky štáty okrem ČR
+  - 0809 20 | čerešne, višne | tona | Bulharsko
+
+  - 0809 30 | broskyne vrátane nektarínok | tona | všetky štáty okrem ČR
 
   - | slivky: | tona | všetky štáty okrem ČR
 
@@ -144,213 +204,293 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 0809 40 40 | | |
 
-  - 0904 20 90 | mletá paprika | tona | všetky štáty okrem ČR
+  - 0809 40 90 | trnky | tona | Bulharsko
 
-  - 1001 | pšenica a súraž | tona | všetky štáty okrem ČR
+  - 0810 | ostatné ovocie, čerstvé | tona | všetky štáty
 
-  - 1002 00 00 | raž | tona | všetky štáty okrem ČR
+  - 0811 | ovocie a orechy, tiež varené vo vode alebo v pare, | tona | všetky štáty
 
-  - 1003 00 | jačmeň | tona | všetky štáty okrem ČR
+  - | mrazené, tiež s prídavkom cukru alebo Iných sladidiel | |
 
-  - 1005 90 00 | kukurica ostatná | tona | všetky štáty okrem ČR
+  - 0812 | ovocie a orechy, dočasne konzervované | tona | všetky štáty
 
-  - 1105 | múka, krupica, vločky, granuly a pelety zo zemiakov | tona | všetky štáty okrem ČR
+  - 0904 20 90 | korenie - drvené alebo v prášku | tona | všetky štáty okrem ČR
 
-  - 1107 | slad | tona | všetky štáty okrem ČR
+  - 1001 | pšenica a súraž | tona | všetky štáty
 
-  - 1108 | škroby; inulín | tona | všetky štáty okrem ČR
+  - 1002 00 00 | raž | tona | všetky štáty
 
-  - 1205 00 | semená repky, semená repky olejky, tiež drvené | tona | všetky štáty okrem ČR
+  - 1003 00 | jačmeň | tona | všetky štáty
 
-  - 1206 00 | semená slnečnice, tiež drvené | tona | všetky štáty okrem ČR
+  - 1004 00 00 | ovos | tona | všetky štáty
+
+  - 1005 | kukurica | tona | všetky štáty
+
+  - 1008 | pohánka, proso a lesknica kanárska, ostatné obilie | tona | všetky štáty
+
+  - 1101 00 | pšeničná múka alebo múka zo súraže | tona | všetky štáty
+
+  - 1102 | obilné múky, iné ako pšeničná alebo múka zo súraže | tona | všetky štáty
+
+  - 1103 | krupica, krupička a aglomerované výrobky z obilia | tona | všetky štáty
+
+  - | v tvare valčekov, guľôčok a v podobných tvaroch | |
+
+  - 1104 | obilné zrná inak spracované s výnimkou ryže čísla1006; | tona | všetky štáty
+
+  - | obilné klíčky celé, drvené, vo vločkách alebo mleté | |
+
+  - 1105 | múka, krupica, vločky, granuly, pelety a prášok | tona | všetky štáty okrem ČR
+
+  - | zo zemiakov | |
+
+  - 1106 | múka a krupica zo sušených strukovín čísla 0713, | tona | všetky štáty
+
+  - | zo sága alebo z koreňov a hľúz čísla 0714, alebo | |
+
+  - | z výrobkov kapitoly 8 | |
+
+  - 1107 | slad, tiež pražený | tona | všetky štáty
+
+  - 1108 | škroby; inulín | tona | všetky štáty
+
+  - 1205 00 | semená repky, semená repky olejnej, tiež drvené | tona | všetky štáty
+
+  - 1206 00 | semená slnečnice, tiež drvené | tona | všetky štáty
 
   - 1209 99 10 | semená lesných stromov | tona | všetky štáty okrem ČR
 
-  - 1210 | chmeľové šištičky, čerstvé alebo sušené, tiež drvené; lupulín | tona | všetky štáty okrem ČR
+  - 1210 | chmeľové šuštičky, čerstvé alebo sušené, tiež drvené; | tona | všetky štáty okrem ČR
 
-  - 1212 91 | cukrová repa | tona | všetky štáty okrem ČR
+  - | lupulín | |
 
-  - | slnečnicový olej: | tona | všetky štáty okrem ČR
+  - 1212 91 | cukrová repa | tona | všetky štáty
 
-  - 1512 11 91 | | |
+  - 1512 | slnečnicový olej, požltový olej alebo bavlníkový olej a ich | tona | všetky štáty
 
-  - 1512 19 91 | | |
+  - | frakcie, tiež rafinované, ale chemicky neupravené | |
 
-  - 1514 10 90 | repkový olej | tona | všetky štáty okrem ČR
+  - 1514 | repkový alebo horčicový olej a ich frakcie, tiež | tona | všetky štáty
 
-  - a 1514 90 10 | | |
+  - | rafinované, ale chemicky neupravené | |
 
-  - 1517 | margarín; zmesi alebo prípravky pokrmových živočíšnych tukov alebo olejov, alebo frakcií rôznych tukov alebo olejov, iné ako pokrmové tuky a oleje a ich frakcie čísla 1516 | tona | všetky štáty
+  - 1515 | ostatné stále rastlinné tuky a oleje (vrátane jojobového | tona | všetky štáty
 
-  - 1601 00 | párky, salámy a podobné výrobky z mäsa, drobov alebo z krvi; potravinové prípravky na podklade týchto výrobkov | tona | všetky štáty okrem ČR
+  - | oleja) a ich frakcie, tuhé, tiež rafinované, ale chemicky | |
 
-  - 1602 | iné prípravky a konzervy z mäsa, drobov alebo z krvi | tona | všetky štáty okrem ČR
+  - | neupravené | |
 
-  - 1701 | trstinový alebo repný cukor a chemicky čistá sacharóza, v pevnom stave | tona | všetky štáty
+  - 1516 | tuky a oleje živočíšne alebo rastlinné a ich frakcie, | tona | všetky štáty
 
-  - 1702 30 až 1702 40 | glukóza, glukózový sirup a izoglukóza | tona | všetky štáty okrem ČR
+  - | čiastočne alebo úplne hydrogenované, | |
 
-  - 1703 | melasy | tona | všetky štáty okrem ČR
+  - | interesterifikované, reesterifikované alebo | |
 
-  - 1704 | cukrovinky bez kakaa | tona | všetky štáty okrem ČR
+  - | elaidinizované, tiež rafinované, ale inak | |
 
-  - 1806 | čokoláda a ostatné potravinové prípravky obsahujúce kakao | tona | všetky štáty okrem ČR
+  - | neupravené | |
 
-  - 1901 90 11 | sladový výťažok | tona | všetky štáty okrem ČR
+  - 1517 | margarín; zmesi alebo prípravky pokrmových živočíšnych | tona | všetky štáty
 
-  - 1902 | cestoviny | tona | všetky štáty okrem ČR
+  - | tukov alebo olejov, alebo frakcií rôznych tukov alebo olejov, | |
 
-  - 1904 10 a 1904 20 | výrobky z obilia získané napučaním alebo pražením | tona | všetky štáty okrem ČR
+  - | iné ako pokrmové tuky a oleje a ich frakcie čísla 1516 | |
 
-  - 1905 | pekárenský tovar, jemné alebo trvanlivé pečivo, tiež s pridaním kakaa | tona | všetky štáty okrem ČR
+  - 1601 00 | párky, salámy a podobné výrobky z mäsa, drobov alebo z | tona | všetky štáty
 
-  - 2001 | zelenina, ovocie, orechy a iné jedlé časti rastlín pripravené alebo konzervované v octe | tona | všetky štáty okrem ČR
+  - | krvi; potravinové prípravky na podklade týchto výrobkov | |
 
-  - 2004 | ostatná zelenina pripravená alebo konzervovaná inak ako v octe, zmrazená | tona | všetky štáty okrem ČR
+  - 1602 | iné prípravky a konzervy z mäsa, drobov alebo z krvi | tona | všetky štáty
 
-  - 2007 | zaváraniny, želé, lekváre, ovocné a orechové kaše (pyré) a pasty | tona | všetky štáty okrem ČR
+  - 1701 | trstinový alebo repný cukor a chemicky čistá sacharóza, | tona | všetky štáty
 
-  - 2008 | ovocie, orechy a iné jedlé časti rastlín inak upravené alebo konzervované, tiež s prísadou cukru alebo iných sladidiel, alebo alkoholu, inde neuvedené | tona | všetky štáty okrem ČR
+  - | v pevnom stave | |
 
-  - 2009 80 | šťava z akéhokoľvek iného jednotlivého ovocia alebo zeleniny | hl | všetky štáty okrem ČR
+  - 1702 30 až | glukóza, glukózový sirup a izoglukóza | tona | všetky štáty okrem ČR
 
-  - | zmesi štiav: | hl | všetky štáty okrem ČR
+  - 1702 40 | | |
 
-  - 2009 90 21 | | |
+  - 1703 | melasy získané extrahovaním alebo rafináciou cukru | tona | všetky štáty
 
-  - 2009 90 29 | | |
+  - 1704 | cukrovinky bez kakaa (vrátane bielej čokolády) | tona | všetky štáty
 
-  - 2009 90 51 | | |
+  - 1806 | čokoláda a ostatné potravinové prípravky obsahujúce | tona | všetky štáty
 
-  - 2009 90 59 | | |
+  - | kakao | |
 
-  - 2009 90 71 | | |
+  - 1901 90 11 | sladový výťažok s obsahom 90 % alebo väčším | tona | všetky štáty okrem ČR
 
-  - 2009 90 73 | | |
+  - | hmotnosti suchého výťažku | |
 
-  - 2009 90 79 | | |
+  - 1902 | cestoviny | tona | všetky štáty
 
-  - 2009 90 92 | | |
+  - 1904 10 a | výrobky z obilia získané napučaním alebo pražením | tona | všetky štáty okrem ČR
 
-  - 2009 90 94 | | |
+  - 1904 20 | | |
 
-  - 2009 90 95 | | |
+  - 1905 | pekársky tovar, jemné alebo trvanlivé pečivo, tiež | tona | všetky štáty
 
-  - 2009 90 96 | | |
+  - | s pridaním kakaa | |
 
-  - 2009 90 97 | | |
+  - 2001 | zelenina, ovocie, orechy a iné jedlé časti rastlín, | tona | všetky štáty
 
-  - 2009 90 98 | | |
+  - | pripravené alebo konzervované v octe | |
 
-  - 2101 | výťažky, esencie a koncentráty z kávy, čaju alebo maté a prípravky na podklade týchto výrobkov | hl | všetky štáty okrem ČR
+  - 2002 | paradajky, pripravené alebo konzervované inak ako | tona | Bulharsko
+
+  - | v octe alebo v kyseline octovej | |
+
+  - 2004 | ostatná zelenina, pripravená alebo konzervovaná inak | tona | všetky štáty
+
+  - | ako v octe, mrazená, iná ako výrobky čísla 2006 | |
+
+  - 2005 10 00 | homogenizovaná zelenina, pripravená alebo | tona | Bulharsko
+
+  - | konzervovaná inak ako v octe | |
+
+  - 2005 20 | zemiaky, pripravené alebo konzervované inak ako v octe | tona | Bulharsko
+
+  - 2005 40 00 | hrach, pripravený alebo konzervovaný inak ako v octe | tona | Bulharsko
+
+  - 2005 51 00 a | fazuľa, pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
+
+  - 2005 59 00 | | |
+
+  - 2005 60 00 | špargľa, pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
+
+  - 2005 80 00 | sladká kukurica, pripravená alebo konzervovaná inak | tona | Bulharsko
+
+  - | ako v octe | |
+
+  - 2005 90 | ostatná zelenina a zeleninové zmesi, pripravené alebo | tona | Bulharsko
+
+  - | konzervované inak ako v octe | |
+
+  - 2007 | zaváraniny, ovocné želé, lekváre, ovocné alebo orechové | tona | všetky štáty
+
+  - | pretlaky a pasty, pripravené varením, tiež osladené | |
+
+  - 2008 | ovocie, orechy a iné jedlé časti rastlín, inak upravené | tona | všetky štáty
+
+  - | alebo konzervované, tiež s prísadou cukru alebo iných | |
+
+  - | sladidiel, alebo alkoholu, inde neuvedené | |
+
+  - 2009 | ovocné šťavy (vrátane hroznového muštu) a zeleninové | hl | všetky štáty
+
+  - | šťavy, neskvasené, bez prídavku alkoholu, tiež | |
+
+  - | s prísadou cukru alebo iných sladidiel | |
+
+  - 2101 | výťažky, esencie a koncentráty z kávy, čaju alebo z maté | hl | všetky štáty okrem ČR
+
+  - | a prípravky na základe týchto výrobkov | |
 
   - 2102 10 | aktívne kvasnice | tona | všetky štáty okrem ČR
 
-  - 2103 | prípravky na omáčky a pripravené omáčky; korenisté zmesi a zmesi prísad na ochutenie; horčičná múčka a pripravená horčica | hl | všetky štáty okrem ČR
+  - 2103 | prípravky na omáčky a pripravené omáčky; korenisté | hl | všetky štáty
 
-  - 2104 | prípravky na polievky alebo bujóny, pripravené polievky alebo bujóny; homogenizované zmesi potravinových prípravkov | tona | všetky štáty okrem ČR
+  - | zmesi a zmesi prísad na ochutenie; horčičná múčka | |
 
-  - 2105 00 | zmrzlina, eskimo a podobné výrobky, tiež s obsahom kakaa | tona | všetky štáty okrem ČR
+  - | a pripravená horčica | |
 
-  - 2106 | potravinové prípravky inde neuvedené | tona | všetky štáty okrem ČR
+  - 2104 | prípravky na polievky a na bujóny, pripravené polievky | tona | všetky štáty
 
-  - 2202 | voda vrátane minerálnych vôd a sódoviek s prídavkom cukru alebo iných sladidiel, alebo aromatizované a iné nealkoholické nápoje s výnimkou ovocných, alebo zeleninových štiav čísla 2009 | hl | všetky štáty
+  - | a bujóny; homogenizované zložené potravinové prípravky | |
+
+  - 2105 00 | zmrzlina a podobné výrobky, tiež s obsahom kakaa | | tona všetky štáty
+
+  - 2106 | potravinové prípravky inde neuvedené ani nazahrnuté | tona | všetky štáty
+
+  - 2201 | voda vrátane minerálnych vôd prírodných | hl | všetky štáty
+
+  - | alebo umelých a sódoviek, bez prísady cukru | |
+
+  - | alebo iných sladidiel, nearomatizovaná; | |
+
+  - | ľad a sneh | |
+
+  - 2202 | voda vrátane minerálnych vôd a sódoviek, s prídavkom | hl | všetky štáty
+
+  - | cukru alebo iných sladidiel alebo aromatizované a iné | |
+
+  - | nealkoholické nápoje s výnimkou ovocných alebo | |
+
+  - | zeleninových štiav čísla 2009 | |
 
   - 2203 00 | pivo zo sladu | hl | všetky štáty
 
-  - 2204 | víno z čerstvého hrozna vrátane vina obohateného alkoholom; vínny mušt, iný ako čísla 2009 | hl | všetky štáty
+  - 2204 | víno z čerstvého hrozna vrátane vína obohateného | hl | všetky štáty
 
-  - 2207 | etylalkohol nedenaturovaný s merným alkoholometrickým titrom 80 % vol. alebo viac; etylalkohol a destiláty denaturované, s akýmkoľvek alkoholometrickým titrom | LPA | všetky štáty
+  - | alkoholom; hroznový mušt, iný ako čísla 2009 | |
 
-  - 2208 | nedenaturovaný etylalkohol s merným alkoholickým titrom menším ako 80 % vol.; destiláty, likéry a ostatné liehové nápoje; zložené alkoholické prípravky používané na prípravu nápojov | LPA | všetky štáty
+  - 2205 | vermút a ostatné vína z čerstvého hrozna, ochutené | hl | všetky štáty
 
-  - 0204 | mäso oviec a kôz | tona | Bulharsko
+  - | bylinami alebo inými aromatickými látkami | |
 
-  - 0405 20 | nátierky z mliečnych tukov | tona | všetky štáty okrem ČR
+  - 2206 00 | ostatné kvasené (fermentované) nápoje; zmesi kvasených | hl | všetky štáty
 
-  - 0405 90 | ostatné nátierky z mliečnych tukov | tona | všetky štátny okrem ČR
+  - | (fermentovaných) nápojov a zmesi kvasených | |
 
-  - 0703 10 19 | cibuľa | tona | Bulharsko
+  - | (fermentovaných) nápojov s nealkoholickými nápojmi, | |
 
-  - 0703 10 90 | šalotka | tona | Bulharsko
+  - | inde neuvedené | |
 
-  - 0703 20 00 | cesnak | tona | Bulharsko
+  - 2207 | etylalkohol nedenaturovaný s objemovým | LPA | všetky štáty
 
-  - 0703 90 00 | pór a iná cesnakovitá zelenina | tona | Bulharsko
+  - | alkoholometrickým titrom 80 % vol. alebo viac; | |
 
-  - 0709 51 10 | huby rodu Agaricus (šampiňóny) | tona | Bulharsko
+  - | etylalkohol a ostatné liehoviny denaturované, | |
 
-  - 0709 60 10 a 0709 60 99 | sladká paprika | tona | Bulharsko
+  - | s akýmkoľvek alkoholometrickým titrom | |
 
-  - 0710 90 00 | zeleninové zmesi | tona | Bulharsko
+  - 2208 | etylalkohol nedenaturovaný s objemovým alkoholickým | LPA | všetky štáty
 
-  - 0807 11 00 | vodné melóny | tona | Bulharsko
+  - | titrom menším ako 80 % vol. ; destiláty, likéry a ostatné | |
 
-  - 0807 19 00 | ostatné melóny | tona | Bulharsko
+  - | liehové nápoje | |
 
-  - 0809 20 | čerešne, višne | tona | Bulharsko
+  - 2304 00 00 až | pokrutiny a iný pevný odpad | tona | všetky štáty
 
-  - 0809 40 90 | trnky | tona | Bulharsko
+  - 2306 | | |
 
-  - 0812 | ovocie a orechy, dočasne konzervované | tona | Bulharsko
-
-  - 1101 00 | pšeničná múka alebo múka zo súraže | tona | Bulharsko
-
-  - 1102 | obilné múky, iné ako pšeničné alebo múka zo súraže | tona | Bulharsko
-
-  - 1512 11 a 1512 19 | slnečnicový olej alebo požltový olej a ich frakcie | tona | všetky štátny okrem ČR
-
-  - 1514 | repkový alebo horčicový olej a ich frakcie, tiež rafinované, ale chemicky neupravené | tona | všetky štátny okrem ČR
-
-  - 1515 11 00 | surový ľanový olej a jeho frakcie | tona | všetky štátny okrem ČR
-
-  - 1515 90 | ostatné rastlinné tuky a oleje | tona | všetky štátny okrem ČR
-
-  - 1516 | tuky a oleje živočíšne alebo rastlinné a ich frakcie čiastočne alebo úplne hydrogenované, interesterifikované, reesterifikované alebo elaidinizované, tiež rafinované, ale inak neupravené | tona | všetky štátny okrem ČR
-
-  - 2002 | paradajky pripravené alebo konzervované inak ako v octe alebo v kyseline octovej | tona | Bulharsko
-
-  - 2005 10 00 | homogenizovaná zelenina pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
-
-  - 2005 20 | zemiaky pripravené alebo konzervované inak ako v octe | tona | Bulharsko
-
-  - 2005 40 00 | hrach pripravený alebo konzervovaný inak ako v octe | tona | Bulharsko
-
-  - 2005 51 00 a 2005 59 00 | fazuľa pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
-
-  - 2005 60 00 | špargľa pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
-
-  - 2005 80 00 | sladká kukurica pripravená alebo konzervovaná inak ako v octe | tona | Bulharsko
-
-  - 2005 90 | ostatná zelenina a zeleninové zmesi pripravené alebo konzervované inak ako v octe | tona | Bulharsko
+  - 2309 | prípravky používané na výživu zvierat | tona | všetky štáty
 
   - Tabak a vyrobené tabakové náhradky | | |
 
-  - 2401 | nespracovaný tabak; tabakový odpad | tona | všetky štáty okrem ČR
+  - 2401 | nespracovaný tabak; tabakový odpad | tona | všetky štáty
 
-  - 2402 | cigary (aj s odrezanými koncami), cigarky (cigarillos) a cigarety z tabaku alebo z tabakových náhradiek | ks | všetky štáty
+  - 2402 | cigary (aj s odrezanými koncami), cigarky (cigarillos) | ks | všetky štáty
 
-  - 2403 | ostatné tabakové výrobky a tabakové náhradky; homogenizovaný alebo rekonštituovaný tabak; tabakové výťažky a esencie | kg | všetky štáty okrem ČR
+  - | a cigarety z tabaku alebo z tabakových náhradiek | |
+
+  - 2403 | ostatné tabakové výrobky a tabakové náhradky; | ks | všetky štáty
+
+  - | „homogenizovaný" alebo „rekonštituovaný" tabak; | |
+
+  - | tabakové výťažky a esencie | |
 
   - Nerastné suroviny a výrobky | | |
 
-  - 2501 00 91 | soľ jedlá | tona | všetky štáty okrem ČR
+  - 2501 00 91 | soľ vhodná na ľudskú výživu | tona | všetky štáty okrem ČR
 
   - 2507 00 20 | kaolín | tona | všetky štáty okrem ČR
 
-  - 2507 00 80 | ostatné kaolinitické íly | tona | všetky štáty okrem ČR
+  - 2507 00 80 | ostatné kaolinické íly | tona | všetky štáty okrem ČR
 
-  - 2519 90 10 | oxid horečnatý | tona | všetky štáty okrem ČR
+  - 2519 90 10 | oxid horečnatý, iný ako pražený prírodný uhličitan | tona | všetky štáty okrem ČR
+
+  - | horečnatý | |
 
   - 2523 10 00 | cementové slinky | tona | všetky štáty okrem ČR
 
-  - 2523 21 00 | portlandský cement - biely | tona | všetky štáty okrem ČR
+  - 2523 21 00 | portlandský cement - biely, tiež umelo farbený | tona | všetky štáty okrem ČR
 
   - 2523 29 00 | portlandský cement - šedý | tona | všetky štáty okrem ČR
 
-  - 2702 | hnedé uhlie | tona | ČR, EÚ, EZVO
+  - 2702 | hnedé uhlie, tiež aglomerané, okrem gagátu | tona | ČR, EÚ, EZVO
 
-  - 2704 00 11 | koks a polokoks z uhlia na výrobu elektród | tona | všetky štáty okrem ČR
+  - 2704 00 11 | koks a polokoks z uhlia - na výrobu elektród | tona | všetky štáty okrem ČR
 
   - 2704 00 19 | koks a polokoks z uhlia - ostatný | tona | všetky štáty okrem ČR
 
@@ -358,27 +498,35 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - Ropné produkty | | |
 
-  - 2710 00 27 | benzíny | tona | všetky štáty okrem ČR
+  - 2710 00 27 až | benzíny | tona | všetky štáty okrem ČR
 
-  - až 39 | | |
+  - 2710 00 39 | | |
 
   - | stredné oleje: | tona | všetky štáty okrem ČR
 
   - 2710 00 41 | určené na špecifické spracovanie | |
 
-  - 2710 00 45 | určené na chemické spracovanie, ale iným postupom, než je | |
+  - 2710 00 45 | určené na chemické spracovanie, ale iným postupom, ako | |
 
-  - | stanovený pre položku 2710 00 41 | |
+  - | je stanovený pre podpoložku 2710 00 41 | |
 
-  - 2710 00 51 | kerozín - palivo do prúdových motorov | |
+  - 2710 00 51 | kerozín - palivo pre prúdové motory | tona | všetky štáty okrem ČR
 
   - | ťažké oleje - plynové: | tona | všetky štáty okrem ČR
 
   - 2710 00 61 | určené na špecifické spracovanie | |
 
-  - 2710 00 65 | určené na chemické spracovanie, ale iným postupom, nezje | |
+  - 2710 00 65 | určené na chemické spracovanie, ale iným postupom, ako | |
 
-  - | stanovený pre položku 2710 00 61 | |
+  - | je stanovený pre podpoložku 2710 00 61 | |
+
+  - 2710 00 66 | na iné účely s obsahom síry nepresahujúcim 0, 05 % | |
+
+  - 2710 00 67 | na iné účely s obsahom síry presahujúcim 0, 05 %, ale | |
+
+  - | nepresahujúcim 0,2 % | |
+
+  - 2710 00 68 | na iné účely s obsahom síry presahujúcim 0,2 % | |
 
   - 2710 00 69 | na iné účely (motorová nafta) | |
 
@@ -386,45 +534,47 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 2710 00 71 | určené na špecifické spracovanie | |
 
-  - 2710 00 72 | určené na chemické spracovanie, ale iným postupom, než je | |
+  - 2710 00 72 | určené na chemické spracovanie, ale iným postupom, ako | |
 
-  - | stanovený pre položku 2710 00 71 | |
+  - | je stanovený pre podpoložku 2710 00 71 | |
 
   - | vykurovacie oleje na iné účely: | tona | všetky štáty okrem ČR
 
-  - 2710 00 74 | s obsahom síry nepresahujúcej 1 % hmotnosti | |
+  - 2710 00 74 | s obsahom síry nepresahujúcim 1 % hmotnosti | |
 
-  - 2710 00 76 | s obsahom síry presahujúcej 1 %, ale nepresahujúcej 2 % | |
+  - 2710 00 76 | s obsahom síry presahujúcim 1 %, ale nepresahujúcim | |
 
-  - | hmotnosti | |
+  - | 2 % hmotnosti | |
 
-  - 2710 00 77 | s obsahom síry presahujúcej 2 %, ale nepresahujúcej 2,8 % | |
+  - 2710 00 77 | s obsahom síry presahujúcim 2 %, ale nepresahujúcim | |
 
-  - | hmotnosti | |
+  - | 2,8 % hmotnosti | |
 
-  - 2710 00 78 | s obsahom síry presahujúcej 2,8 % hmotnosti | |
+  - 2710 00 78 | s obsahom síry presahujúcim 2,8 % hmotnosti | |
 
   - | mazacie oleje: | tona | všetky štáty okrem ČR
 
   - 2710 00 81 | určené na špecifické spracovanie | |
 
-  - 2710 00 83 | určené na chemické spracovanie, ale iným postupom, než je | |
+  - 2710 00 83 | určené na chemické spracovanie, ale iným postupom, ako | |
 
-  - | stanovený pre položku 2710 00 81 | |
+  - | je stanovený pre podpoložku 2710 00 81 | |
 
   - 2710 00 85 | určené na vytváranie zmesí | |
 
-  - 2710 00 87 | motorové oleje | |
+  - 2710 00 87 | motorové oleje, mazacie oleje pre kompresory, mazacie | |
 
-  - 2710 00 88 | hydraulické oleje | |
+  - | oleje pre turbíny | |
 
-  - 2710 00 89 | lakové oleje | |
+  - 2710 00 88 | kvapalné oleje na hydraulické účely | |
 
-  - 2710 00 92 | prevodové oleje | |
+  - 2710 00 89 | biele oleje, kvapalný parafín | |
 
-  - 2710 00 94 | používané pri obrábaní kovov, pri uvoľňovaní odliatkov | |
+  - 2710 00 92 | prevodové oleje a redukčné oleje | |
 
-  - | z foriem, antikorózne oleje | |
+  - 2710 00 94 | prípravky používané pri obrábaní kovov, pri uvoľňovaní | |
+
+  - | odliatkov z foriem, antikorózne oleje | |
 
   - 2710 00 96 | elektrické izolačné oleje | |
 
@@ -440,35 +590,39 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - Výrobky chemického a garbiarskeho priemyslu | | |
 
+  - 2804 69 00 | kremík | tona | všetky štáty okrem ČR
+
   - 2815 12 00 | hydroxid sodný vo vodnom roztoku | tona | všetky štáty okrem ČR
 
-  - 2817 00 00 | oxid zinočnatý | tona | všetky štáty okrem ČR
+  - 2817 00 00 | oxid zlnočnatý, peroxid zinku | tona | všetky štáty okrem ČR
 
   - 2849 10 00 | karbid vápnika | tona | všetky štáty okrem ČR
 
-  - 2914 2200 | cyklohexanón | tona | všetky štáty okrem ČR
+  - 2914 22 00 | cyklohexanón a metylcyklohexanóny | tona | všetky štáty okrem ČR
 
-  - 2921 41 00 | anilín | tona | všetky štáty okrem ČR
+  - 2921 41 00 | anilín a jeho soli | tona | všetky štáty okrem ČR
 
   - 2933 71 00 | kaprolaktám | tona | všetky štáty okrem ČR
 
   - 3102 10 | močovina, tiež vo vodnom roztoku | tona | všetky štáty okrem ČR
 
-  - 3102 30 | dusičnan amónny (DAM), tiež vo vodnom roztoku | tona | všetky štáty okrem ČR
+  - 3102 30 | dusičnan amónny, tiež vo vodnom roztoku | tona | všetky štáty okrem ČR
 
-  - 3102 40 | zmesi dusičnanu amónneho s uhličitanom vápenatým alebo | |
+  - 3102 40 | zmesi dusičnanu amónneho s uhličitanom vápenatým | tona | všetky štáty okrem ČR
 
-  - | s inou anorganickou nehnojivou látkou | tona | všetky štáty okrem ČR
+  - | alebo s inou anorganickou látkou, ktorá nieje hnojivom | |
 
-  - 3105 20 | priemyselné trojzložkové hnojivo - NPK | tona | všetky štáty okrem ČR
+  - 3105 20 | minerálne alebo chemické hnojivá obsahujúce tri | tona | všetky štáty okrem ČR
+
+  - | hnojive prvky: dusík, fosfor a draslík | |
 
   - 3505 10 | dextríny a iné modifikované škroby | tona | všetky štáty okrem ČR
 
-  - 3605 00 00 | zápalky | Sk | všetky štáty okrem ČR
+  - 3605 00 00 | zápalky; iné ako pyrotechnické výrobky čísla 3604 | Sk | všetky štáty okrem ČR
 
-  - 3904 | polyméry vinylchloridu alebo iných halogénolefinov | |
+  - 3904 | polyméry vinylchloridu alebo iných halogénolefínov | tona | všetky štáty okrem ČR
 
-  - | v primárnych formách (PVC) | tona | všetky štáty okrem ČR
+  - | v primárnych formách (PVC) | |
 
   - ex3920 10 | fólie z polymérov etylénu | tona | všetky štáty okrem ČR
 
@@ -480,21 +634,23 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - ex3920 79 00 | fólie z ostatných derivátov celulózy | tona | všetky štáty okrem ČR
 
-  - 4011 10 00 | nové pneumatiky na osobné motorové vozidlá vrátane | |
+  - 4011 10 00 | nové pneumatiky z gumy na osobné motorové vozidlá | ks | všetky štáty okrem ČR
 
-  - | kombinovaných | ks | všetky štáty okrem ČR
+  - | vrátane kombinovaných | |
 
   - 4011 20 | nové pneumatiky na autobusy a nákladné automobily | ks | všetky štáty okrem ČR
 
   - 4012 10 30 | protektorované pneumatiky na osobné motorové vozidlá | ks | všetky štáty okrem ČR
 
-  - 4012 10 50 | protektorované pneumatiky na autobusy a nákladné | |
+  - 4012 10 50 | protektorované pneumatiky na autobusy | ks | všetky štáty okrem ČR
 
-  - | automobily | ks | všetky štáty okrem ČR
+  - | a nákladné automobily | |
 
   - 4012 20 90 | použité pneumatiky ostatné | ks | všetky štáty okrem ČR
 
-  - 4104 | vyčinené kože (usne) | m<sup>2</sup> | všetky štáty okrem ČR
+  - 4104 | vyčinené kože (usne) hovädzieho dobytka, koni a iných | m<sup>2</sup> | všetky štáty okrem ČR
+
+  - | nepárnokopytníkov | |
 
   - | syntetický hodváb z polyamidov: | tona | všetky štáty okrem ČR
 
@@ -530,7 +686,9 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 5402 59 10 | | |
 
-  - 5403 10 00 | umelý hodváb z viskózy: | tona | všetky štáty okrem ČR
+  - | umelý hodváb z viskózy: | tona | všetky štáty okrem ČR
+
+  - 5403 10 00 | | |
 
   - 5403 31 00 | | |
 
@@ -538,85 +696,101 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 5403 41 00 | | |
 
-  - 5506 90 91 | syntetické strižné vlákna z polypropylénu | tona | všetky štáty okrem ČR
+  - 5501 90 00 | kábel zo syntetického hodvábu | tona | všetky štáty okrem ČR
+
+  - 5506 90 91 | syntetické strižové vlákna z polypropylénu | tona | všetky štáty okrem ČR
 
   - Drevo a drevené výrobky | | |
 
   - 4401 10 00 | palivové drevo (polená, kláty, vetvy, viazanice a podobne) | m<sup>3</sup> | všetky štáty okrem ČR
 
-  - 4403 10 10 | stĺpy ihličnaté surové a impregnované | m<sup>3</sup> | všetky štáty okrem ČR
+  - 4403 10 10 | stĺpy ihličnaté, surové a impregnované | m<sup>3</sup> | všetky štáty okrem ČR
 
-  - | surové drevo ihličnaté, tiež nahrubo opracované (napr. prizmy): | m<sup>3</sup> | všetky štáty okrem ČR
+  - | surové drevo ihličnaté, tiež nahrubo opracované | m<sup>3</sup> | všetky štáty okrem ČR
+
+  - | (napr. prizmy): | |
 
   - | smrekové: | |
 
-  - 4403 20 10 10 | výrezy l. až III. triedy akosti | |
+  - 4403 20 10 10 | výrezy I. až IV. triedy akosti | |
 
-  - 4403 20 10 90 | vlákninové drevo | |
+  - 4403 20 10 90 | ostatné drevo | |
 
   - | borovicové: | |
 
-  - 4403 20 30 10 | výrezy l. až III. triedy akosti | |
+  - 4403 20 30 10 | výrezy I. až IV. triedy akosti | |
 
-  - 4403 20 30 90 | vlákninové drevo | |
+  - 4403 20 30 90 | ostatné drevo | |
 
   - | ostatné: | |
 
-  - 4403 20 90 10 | výrezy l. až III. triedy akosti | |
+  - 4403 20 90 10 | výrezy l. až IV. triedy akosti | |
 
-  - 4403 20 90 90 | vlákninové drevo | |
+  - 4403 20 90 90 | ostatné drevo | |
 
-  - | surové drevo listnaté, tiež nahrubo opracované (napr. prizmy): | m<sup>3</sup> | všetky štáty okrem ČR
+  - | surové drevo listnaté, tiež nahrubo opracované | m<sup>3</sup> | všetky štáty okrem ČR
+
+  - | (napr. prizmy): | |
 
   - | dubové: | |
 
-  - 4403 91 00 10 | výrezy l. až III. triedy akosti | |
+  - 4403 91 00 10 | výrezy l. až IV. triedy akosti | |
 
-  - 4403 91 00 90 | vlákninové drevo | |
+  - 4403 91 00 90 | ostatné drevo | |
 
   - | bukové: | |
 
-  - 4403 92 00 10 | výrezy l. až III. triedy akosti | |
+  - 4403 92 00 10 | výrezy l. až IV. triedy akosti | |
 
-  - 4403 92 00 90 | vlákninové drevo | |
+  - 4403 92 00 90 | ostatné drevo | |
 
   - | topoľové: | |
 
-  - 4403 99 10 10 | výrezy l. až III. triedy akosti | |
+  - 4403 99 10 10 | výrezy l. až IV. triedy akosti | |
 
-  - 4403 99 10 90 | vlákninové drevo | |
+  - 4403 99 10 90 | ostatné drevo | |
 
   - | gaštanové: | |
 
-  - 4403 99 20 10 | výrezy l. až III. triedy akosti | |
+  - 4403 99 20 10 | výrezy l. až IV. triedy akosti | |
 
-  - 4403 99 20 90 | vlákninové drevo | |
+  - 4403 99 20 90 | ostatné drevo | |
 
   - 4403 99 50 | brezové | |
 
   - | ostatné: | |
 
-  - 4403 99 99 10 | výrezy l. až III. triedy akosti | |
+  - 4403 99 99 10 | výrezy L až IV. triedy akosti | |
 
-  - 4403 99 99 90 | vlákninové drevo | |
+  - 4403 99 99 90 | ostatné drevo | |
 
   - 4410 | drevotrieskové dosky | m<sup>3</sup> | všetky štáty okrem ČR
 
   - 4411 | drevovláknité dosky | m<sup>3</sup> | všetky štáty okrem ČR
 
+  - 4707 | zberový (odpad a výmet) papier a lepenka | m<sup>3</sup> | všetky štáty okrem ČR
+
   - 4818 10 | toaletný papier | tona | všetky štáty okrem ČR
 
-  - 4820 20 00 | zošity | tona | všetky štáty okrem ČR
+  - 4820 20 | zošity | tona | všetky štáty okrem ČR
 
   - Textilné výrobky | | |
 
   - 5702 a 5703 | koberce | m<sup>2</sup> | okrem EÚ, EZVO a ČR
 
-  - 6107 | pánske alebo chlapčenské spodky, nočné košele, pyžamy, kúpacie plášte, župany, pletené alebo háčkované | ks | okrem EÚ, EZVO a ČR
+  - 6107 | pánske alebo chlapčenské spodky, nočné košele, | ks | okrem EÚ, EZVO a ČR
 
-  - 6108 | dámske alebo dievčenské kombinačky, spodničky, nohavičky, nočné košele, pyžamy, negližé, kúpacie plášte, župany, pletené alebo háčkované | ks | okrem EÚ, EZVO a ČR
+  - | pyžamy, kúpacie plášte, župany pletené alebo háčkované | |
 
-  - 6109 | vrchné tričká (T-shirts), tielka a nátelníky, pletené alebo háčkované | ks |
+  - 6108 | dámske alebo dievčenské kombiné, spodničky, | ks | okrem EÚ, EZVO a ČR
+
+  - | nohavičky, nočné košele, pyžamy, negližé, kúpacie | |
+
+  - | plášte, župany pletené, alebo háčkované | |
+
+  - 6109 | vrchné tričká (T-shirts), tielka a iné tričká, pletené alebo | ks | okrem EÚ, EZVO a ČR
+
+  - | háčkované | |
 
   - 6110 | pletené pulóvre, svetre, vesty | ks | okrem EÚ, EZVO a ČR
 
@@ -630,25 +804,25 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 6115 20 11 | podkolienky | páry | okrem EÚ, EZVO a ČR
 
-  - 6115 92 00 | ponožky | páry | okrem EÚ, EZVO a ČR
+  - 6115 92 00 a | ponožky | páry | okrem EÚ, EZVO a ČR
 
-  - a 6115 93 99 | | |
+  - 6115 93 99 | | |
 
-  - | pánske alebo chlapčenské bundy (vrátane lyžiarskych), | |
+  - | pánske alebo chlapčenské bundy (vrátane lyžiarskych), | ks | okrem EÚ, EZVO a ČR
 
-  - | vetrovky a podobné výrobky: | ks | okrem EÚ, EZVO a ČR
+  - | vetrovky a podobné výrobky: | |
 
-  - 6201 91 00 | z vlny alebo jemných zvieracích chlpov | |
+  - 6201 91 00 | z vlny alebo z jemných zvieracích chlpov | |
 
   - 6201 92 00 | z bavlny | |
 
   - 6201 93 00 | z chemických vlákien | |
 
-  - 6201 99 00 | z ostatných textilných materiálov | |
+  - 6201 99 00 | z iných textilných materiálov | |
 
-  - | dámske alebo dievčenské bundy (vrátane lyžiarskych), | |
+  - | dámske alebo dievčenské bundy (vrátane lyžiarskych), | ks | okrem EÚ, EZVO a ČR
 
-  - | vetrovky a podobné výrobky: | ks | okrem EÚ, EZVO a ČR
+  - | vetrovky a podobné výrobky: | |
 
   - 6202 91 00 | z vlny alebo z jemných zvieracích chlpov | |
 
@@ -660,25 +834,27 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 6203 42 | pánske alebo chlapčenské nohavice z bavlny | ks | okrem EÚ, EZVO a ČR
 
-  - 6204 52 00 | dámske alebo dievčenské sukne a nohavicové sukne z bavlny | ks | okrem EÚ, EZVO a ČR
+  - 6204 52 00 | dámske alebo dievčenské sukne a nohavicové sukne | ks | okrem EÚ, EZVO a ČR
+
+  - | z bavlny | |
 
   - 6204 62 | nohavice dámske alebo dievčenské z bavlny | ks | okrem EÚ, EZVO a ČR
 
-  - 6205 | pánske alebo chlapčenské košele | ks | okrem EÚ, EZVO a ČR
+  - 6205 | pánske alebo chlapčenské košele pletené alebo háčkované | ks | okrem EÚ, EZVO a ČR
 
   - Obuv | | |
 
-  - 6402 | ostatná obuv s podrážkou a zvrškom z kaučuku alebo | |
+  - 6402 | ostatná obuv s podrážkou a zvrškom z kaučuku alebo | pár | všetky štáty okrem ČR
 
-  - | z plastov | pár | všetky štáty okrem ČR
+  - | z plastov | |
 
-  - 6403 | obuv s podrážkou z kaučuku, plastov, usne alebo | |
+  - 6403 | obuv s podrážkou z kaučuku, plastov, usne alebo | pár | všetky štáty okrem ČR
 
-  - | z kompozitnej usne a so zvrškom z usne | pár | všetky štáty okrem ČR
+  - | z kompozitnej usne a so zvrškom z usne | |
 
-  - 6404 | obuv s podrážkou z kaučuku, plastov, usne alebo | |
+  - 6404 | obuv s podrážkou z kaučuku, plastov, usne alebo | pár | všetky štáty okrem ČR
 
-  - | z kompozitnej usne a so zvrškom z textilných materiálov | pár | všetky štáty okrem ČR
+  - | z kompozitnej usne a so zvrškom z textilných materiálov | |
 
   - 6405 | ostatná obuv | pár | všetky štáty okrem ČR
 
@@ -690,17 +866,19 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 6907 90 99 | neglazované keramické dlaždice | m<sup>2</sup> | všetky štáty okrem ČR
 
-  - 6908 90 21 | glazované keramické dlaždice a obkladačky nepresahujúce | |
+  - 6908 90 21 | glazované keramické dlaždice a obkladačky | m<sup>2</sup> | všetky štáty okrem ČR
 
-  - | hrúbku 15 mm | m<sup>2</sup> | všetky štáty okrem ČR
+  - | nepresahujúce hrúbku 15 mm | |
 
-  - 6908 90 29 | glazované keramické dlaždice a obkladačky presahujúce | |
+  - 6908 90 29 | glazované keramické dlaždice a obkladačky presahujúce | m<sup>2</sup> | všetky štáty okrem ČR
 
-  - | hrúbku 15 mm | m<sup>2</sup> | všetky štáty okrem ČR
+  - | hrúbku 15 mm | |
 
-  - Tabuľové sklo plavené | | m<sup>2</sup> | všetky štáty okrem ČR,
+  - Tabuľové sklo plavené | | |
 
-  - | | | MR a Slovinska
+  - | | m<sup>2</sup> | všetky štáty okrem
+
+  - | | | ČR, Slovinska
 
   - 7005 10 | | |
 
@@ -748,86 +926,38 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - 7202 49 90 | | |
 
-  - | železné a oceľové odpady a šrot: | tona | všetky štáty okrem ČR
+  - 7204 | železné a oceľové odpady a šrot | tona | všetky štáty okrem ČR
 
-  - 7204 10 00 | liatinové odpady a šrot | |
+  - | odpady medené a medený šrot, popoly obsahujúce hlavne | tona | všetky štáty okrem ČR
 
-  - 7204 21 | odpady a šrot z legovanej nehrdzavejúcej ocele | |
-
-  - 7204 29 00 | odpady a šrot z legovanej ocele - ostatné | |
-
-  - 7204 30 00 | odpady a šrot z pocínovaného železa alebo z ocele | |
-
-  - 7204 41 10 | odpad zo sústruženia, hobľovania, frézovania, rezania | |
-
-  - | a pilovania vrátane triesok | |
-
-  - 7204 41 91 | zvyšky z razenia, paketované | |
-
-  - 7204 41 99 | zvyšky z razenia, ostatné | |
-
-  - 7204 49 10 | ostatné kovové odpady a šrot, drvené (rozstrihané) | |
-
-  - 7204 49 30 | ostatné kovové odpady a šrot, ostatné - paketované | |
-
-  - 7204 49 91 | ostatné kovové odpady a šrot, ostatné - netriedené | |
-
-  - 7204 49 99 | ostatné kovové odpady a šrot, nie zvyšky po sústružení | |
-
-  - | a razení, nepaketované | |
-
-  - 7204 50 10 | pretavené odpady z legovanej ocele v ingotoch | |
-
-  - 7204 50 90 | pretavené odpady v ingotoch, ostatné | |
-
-  - | odpady medené a medený šrot, popoly obsahujúce | |
-
-  - | hlavne meď: | tona | všetky štáty okrem ČR
+  - | , med: | |
 
   - 7404 00 | | |
 
   - 2620 30 00 | | |
 
-  - | odpady hliníkové a hliníkový šrot, popoly obsahujúce | |
+  - | odpady hliníkové a hliníkový šrot, popoly obsahujúce | tona | všetky štáty okrem ČR
 
-  - | hlavne hliník: | tona | všetky štáty okrem ČR
+  - | hlavne hliník: | |
 
   - 7602 00 | | |
 
   - 2620 40 00 | | |
 
-  - | odpady olovené a olovený šrot, popoly obsahujúce hlavne olovo, nepoužiteľné elektrické akumulátory, galvanické články a batérie: | tona | všetky štáty okrem ČR
+  - | odpady zinkové a zinkový šrot, popoly obsahujúce hlavne | tona | všetky štáty okrem ČR
 
-  - 7802 00 | | |
+  - | zinok: | |
 
-  - 2620 20 00 | | |
-
-  - 8548 | | |
-
-  - | odpady zinkové a zinkový šrot, popoly obsahujúce hlavne | |
-
-  - | | tona | všetky štáty okrem ČR
+  - 7902 00 00 | | |
 
   - 2620 11 00 | | |
 
-  - 7207 až 7217 | | tona | všetky štáty okrem ČR
+  - 7207 až 7217 | železo a nelegovaná oceľ | tona | všetky štáty okrem ČR
 
-  - 8450 11 | plnoautomatické práčky | ks | všetky štáty okrem ČR
+  - 7302 | koľajnice a príslušenstvo používané na železničný zvršok | tona | všetky štáty okrem ČR
 
-  - | televízne prijímače farebné: | ks |
+  - ex7304 až 7306 | oceľové rúry okrem položiek 7304 39 51, 7304 41, | tona | všetky štáty okrem ČR
 
-  - 8528 12 52 | | |
+  - | 7304 49, 7304 51, 7306 30 51, 7306 30 59, | |
 
-  - 8528 12 54 | | |
-
-  - 8528 12 58 | | |
-
-  - 8528 12 62 | | |
-
-  - 8528 12 72 | | |
-
-  - 8528 12 76 | | |
-
-  - 8528 12 89 | | |
-
-  - ex - niektoré z tovarov zaradených pod uvedené číslo
+  - | 7306 30 71, 7306 30 78, 7306 40, 7306 50 | |
