@@ -1,0 +1,1 @@
+- 1) § 4 zákona ČNR č. 550/1991 Sb., o všeobecném zdravotním pojištění.
