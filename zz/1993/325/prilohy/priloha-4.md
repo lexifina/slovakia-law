@@ -6,188 +6,166 @@ REZERVY ŠTÁTNEHO ROZPOČTU SLOVENSKEJ REPUBLIKY NA ROK 1994 A ÚČELOVÉ PROST
 
 (v tis. Sk)
 
-1. | Rezervy štátneho rozpočtu | |
+1. Rezervy štátneho rozpočtu
 
-| Účelové rezervy spolu | | 5491 687
+Účelové rezervy spolu 3 544 127
 
-| - rezerva vlády SR | | 1 450 902
+– rezerva vlády SR na
 
-| | z toho: |
+– stabilizáciu ekonomiky, štrukturálne programy, konverziu a dokončovanie KBV, | 948 900
 
-| | - stabilizácia ekonomiky a štrukturálne programy | 335 330
+– neinvestičné výdavky súvisiace so zmenami kompetencií a s nepredvídanými mimoriadnymi udalosťami, | 198 972
 
-| | - neinvestičné výdavky súvisiace so zmenami kompetencií a s nepredvídanými |
+– úlohy rozvoja vedy a techniky | 110 000
 
-| | mimoriadnymi udalosťami | 1 005 572
+– rezeva predsedu vlády SR | 30 000
 
-| | - úlohy rozvoja vedy a techniky | 110000
+– rezerva na mzdy na nové úlohy ústredných orgánov a podriadených organizácií | 115 255
 
-| - rezerva predsedu vlády SR | | 30000
+– rezerva na štátne záruky za bankové úvery | 700 000
 
-| - rezerva na mzdy na nové úlohy ústredných orgánov a podriadených organizácií | | 74785
+– rezerva na garancie sociálnych poistných fondov | 1 441 000
 
-| - rezerva na štátne záruky za bankové úvery | | 900 000
+2. | Účelové prostriedky štátneho rozpočtu Slovenskej republiky zapracované v kapitolách |
 
-| - rezerva na garancie sociálnych poistných fondov | | 3 036 000
+| Kancelária Národnej rady SR |
 
-| | z toho: |
+| – obnova Bratislavského hradu | 16 139
 
-| | - Fond zdravotného poistenia | 2 995 150
+| Ministerstvo hospodárstva SR |
 
-2. | Účelové prostriedky štátneho rozpočtu Slovenskej republiky zapracované v kapitolách | |
+| – realizácia prvej etapy Projektu zlepšenia zdravia obyvateľstva (v oblasti Levíc) | 17 000
 
-| Kancelária prezidenta SR | |
+| – hospodárska mobilizácia | 111 000
 
-| - rekonštrukcia Grassalkowichovho paláca a vybavenie interiéru budúceho sídla prezidenta republiky | |
+| Ministerstvo zahraničných vecí SR |
 
-| | | 100 000
+| – poplatky za členstvo SR v medzinárodných organizáciách | 126 000
 
-| Kancelária Národnej rady SR | |
+| – financovanie projektu Nadácie pre pomoc krajanom | 7 000
 
-| - obnova Bratislavského hradu | | 16 139
+| – vedenie sporu pred MSD v Haagu o sústave vodných diel Gabčíkovo – Nagymaros | 41 000
 
-| Ministerstvo hospodárstva SR | |
+| Ministerstvo obrany SR |
 
-| - hospodárska mobilizácia | | 111 000
+| – štátna športová reprezentácia | 30 000
 
-| Ministerstvo zahraničných vecí SR | |
+| – financovanie štúdia príslušníkov Armády SR na civilných vysokých školách | 34 000
 
-| - poplatky za členstvo SR v medzinárodných organizáciách | | 126 000
+| Ministerstvo práce, sociálnych vecí a rodiny SR |
 
-| - financovanie projektu Nadácia pre pomoc krajanom | | 7000
+| – investičné potreby pre ZŤP občanov | 7 000
 
-| - vedenie sporu pred MSD v Haagu o Sústave vodných diel Gabčíkovo - Nagymaros | | 41 000
+| – financovanie rekvalifikačných kurzov pre učiteľov jazykových škôl prostredníctvom Fondu zamestnanosti | 4 000
 
-| Ministerstvo obrany SR | |
+| – štúdium dôchodcov na univerzitách tretieho veku | 3 000
 
-| - štátna športová reprezentácia | | 30000
+| Ministerstvo vnútra SR |
 
-| - financovanie štúdia príslušníkov Armády SR na civilných vysokých školách | | 34000
+| – dávky sociálnej starostlivosti | 3 600 000
 
-| Ministerstvo práce, sociálnych vecí a rodiny SR | |
+| – výdavky na príspevky na zvýšené náklady spojené so zachovaním alebo obnovou kultúrnych pamiatok | 10 000
 
-| - investičné potreby pre ZŤP občanov | | 7000
+| – na migračnú politiku | 100 000
 
-| - financovanie rekvalifikačných kurzov pre učiteľov prostredníctvom Fondu zamestnanosti | | 4000
+| – hospodárska mobilizácia | 10 400
 
-| - štúdium dôchodcov na univerzitách tretieho veku | | 3000
+| – štátna športová reprezentácia | 20 000
 
-| Ministerstvo vnútra SR | |
+| Ministerstvo životného prostredia SR |
 
-| - dávky sociálnej starostlivosti | | 3 600 000
+| – dotácia do Štátneho fondu životného prostredia SR | 300 000
 
-| - výdavky na príspevky na zvýšené náklady spojené so zachovaním alebo obnovou | |
+| Ministerstvo dopravy, spojov a verejných prác SR |
 
-| kultúrnych pamiatok | | 10000
+| – dotácia do Štátneho rozpočtu fondu cestného hospodárstva SR | 1 000 000
 
-| - migračná politika | | 100 000
+| – hospodárska mobilizáca | 96 000
 
-| - hospodárska mobilizácia | | 10400
+| Ministerstvo pôdohospodárstva SR |
 
-| - štátna športová reprezentácia | | 20000
+| – dotácia do Štátneho fondu ochrany a zveľaďovania lesa SR | 180 000
 
-| Ministerstvo životného prostredia SR | |
+| – dotácia do Štátneho fondu ochrany a zveľaďovania poľnohospodárskeho pôdneho fondu | 25 000
 
-| - dotácia do Štátneho fondu životného prostredia SR | | 300 000
+| – dotácia do Štátneho fondu trhovej regulácie SR v poľnohospodárstve | 650 000
 
-| Ministerstvo dopravy, spojov a verejných prác SR | |
+| – náklady na pozemkové úpravy | 186 850
 
-| - dotácia do Štátneho fondu cestného hospodárstva SR | | 1 000 000
+| – hospodárska mobilizácia | 16 000
 
-| - hospodárska mobilizácia | | 96000
+| – činnosť splnomocnenca vlády SR na výstavbu SVD | 6 000
 
-| Ministerstvo pôdohospodárstva SR | |
+| – dotácia pre pripravovaný štátny podporný fond | 300 000
 
-| - dotácia do Štátneho fondu ochrany zveľaďovania lesa SR | | 180 000
+| – podpora využívania závlahovej vody | 100 000
 
-| - dotácia do Štátneho fondu ochrany zveľaďovania poľnohospodárskeho pôdneho fondu | | 25000
+| Ministerstvo školstva a vedy SR |
 
-| - dotácia do Štátneho fondu trhovej regulácie SR v poľnohospodárstve | | 650 000
+| – finančné zabezpečenie zahraničných študentov v zmysle uzn. vl. SR č. 633/1993 | 22 446
 
-| - náklady na pozemkové úpravy | | 186 850
+| – úhrada nákladov SOU iných rezortov podľa zákona č. 171/1990 Zb. | 1 600 000
 
-| - hospodárska mobilizácia | | 16000
+| – štátna športová reprezentácia | 96 000
 
-| - činnosť splnomocnenca vlády SR na výstavbu a prevádzku SVD G-N | | 6000
+| – vklad do Slovensko-amerického fondu Agentúry pre medzinárodnú VTS | 12 000
 
-| - dotácia do Štátneho podporného fondu pôdohospodárstva a potravinárstva | | 300 000
+| – príspevok na prevádzku Slovenskej technickej knižnice – Centra VTI SR | 20 000
 
-| - podpora využívania závlahovej vody | | 100 000
+| – realizácia programu dvojjazyčného školstva | 100 000
 
-| Ministerstvo školstva a vedy SR | |
+| Ministerstvo kultúry SR |
 
-| - finančné zabezpečenie zahraničných študentov v zmysle uznesenia vlády SR č. 633/ 1993 | | 22446
+| – obnova kultúrych pamiatok | 130 000
 
-| - úhrada nákladov SOU iných rezortov podľa zákona č. 171/1990 Zb. | | 1 600 000
+| – cirkvi, náboženské spoločnosti a katolícka charita | 196 000
 
-| - štátna športová reprezentácia | | 96000
+| – dotovanie tlače a umeleckej tvorby určenej pre detskú literatúru a detské časopisy | 17 000
 
-| - vklad do Slovensko -amerického fondu Agentúry pre medzinárodnú VTS | | 12000
+| – národnostné kultúrne zväzky, národnostná tlač a aktvity pre národnosti v rámci PO | 140 500
 
-| - príspevok na prevádzku Slovenskej technickej knižnice - Centra VTI SR | | 20000
+| v tom: |
 
-| Ministerstvo kultúry SR | |
+| – dotovanie školských časopisov národnostných menšín | 2 000
 
-| - obnova kultúrnych pamiatok | | 130 000
+| – financovanie vydania rómsko-slovenského slovníka | 1 000
 
-| - cirkvi, náboženské spoločnosti a katolícka charita | | 196 000
+| – Matica slovenská | 95 000
 
-| - dotovanie tlače a umeleckej tvorby určenej pre detskú literatúru a detské časopisy | | 17000
+| – dotácia do Štátneho fondu kultúry Pro Slovakia | 100 000
 
-| - národnostné kultúrne zväzy, národnostná tlač a aktivity pre národnosti v rámci PO | | 140 500
+| – hospodárska mobilizácia | 30
 
-| | v tom: |
+| Ministerstvo zdravotníctva SR |
 
-| | - dotovanie školských časopisov národnostných menšín | 2000
+| – hospodárska mobilizácia | 15 200
 
-| | - financovanie vydania rómsko-slovenského slovníka | 1 000
+| Slovenský rozhlas |
 
-| - Matica slovenská | | 95000
+| – zabezpečenie zahraničného vysielania | 24 940
 
-| - dotácia do Štátneho fondu kultúry Pro Slovakia | | 100 000
+| – hospodárska mobilizácia | 160
 
-| - hospodárska mobilizácia | | 30
+| Slovenská televízia |
 
-| Ministerstvo zdravotníctva SR | |
+| – hospodárska mobilizácia | 240
 
-| - hospodárska mobilizácia | | 15200
+| Úrad jadrového dozoru SR |
 
-| Štatistický úrad SR | |
-
-| - výdavky na prevádzku centrálneho uzla elektronického prepojenia a Slovenského databázového centra | |
-
-| | | 2450
-
-| Slovenský rozhlas | |
-
-| - zabezpečenie zahraničného vysielania | | 24940
-
-| - hospodárska mobilizácia | | 160
-
-| Slovenská televízia | |
-
-| - hospodárska mobilizácia | | 240
-
-| Úrad jadrového dozoru SR | |
-
-| - hospodárska mobilizácia | | 150
+| – hospodárska mobilizácia | 150
 
 | Všeobecná pokladničná správa |
 
-| - obnova národnej kultúrnej pamiatky Mohyla M. R. Štefánika na Bradle | 20000
+| – obnova národnej kultúrnej pamiatky Mohyla M. R. Štefánika na Bradle | 20 000
 
-| - študentské pôžičky | 15000
+| – študentské pôžičky | 15 000
 
-| - financovanie záväzkov z programu PHARE | 40000
+| – financovanie záväzkov z programu PHARE | 40 000
 
-| - potreby Rady SR pre rozhlasové a televízne vysielanie | 2 797
+| – pre potreby Rady SR pre rozhlasové a televízne vysielanie | 2 397
 
-| - hospodárska mobilizácia (pre SZSD, SZVD) | 500
+| – hospodárska mobilizácia (pre SZBD, SZVD) | 500
 
-| - sanačné práce po Sovietskej armáde | 160 000
+| Spolu v kapitolách | 9 643 952
 
-| - prechodná finančná výpomoc politickým stranám a hnutiam na volby do NR SR | 30000
-
-| Spolu v kapitolách | 9 819 8O2
-
-| Rezervy a účelové prostriedky spolu | 15 311 489
+| Rezervy a účelové prostriedky spolu | 13 188 079

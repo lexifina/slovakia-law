@@ -16,7 +16,7 @@
 
 - § 42 zákona č. 222/1992 Zb. o dani z pridanej hodnoty v znení neskorších predpisov.
 
-- § 23 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností.§ 40r zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
+- § 23 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností.
 
 - 5) § 10 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
 
@@ -30,11 +30,7 @@
 
 - 10) § 19 zákona Národnej rady Slovenskej republiky č. 7/1993 Z.z, v znení neskorších predpisov.
 
-- 10a) Nariadenie vlády Slovenskej republiky č. 175/1993 Z. z. o finančnom hospodárení štátnych podnikov.
-
 - 11) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
-
-- 11a) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 12) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
@@ -47,8 +43,6 @@
 - § 4 zákona č. 21/1992 Zb. o bankách.
 
 - 14) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
-
-- 14a) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov. Vyhláška Ministerstva financií Slovenskej republiky č. 640/1992 Zb., ktorou sa ustanovujú sídla a odvody pôsobnosti územných finančných orgánov v znení vyhlášky Ministerstva financií Slovenskej republiky č. 69/1994 Z. z.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. v znení neskorších predpisov.
 
@@ -71,8 +65,6 @@
 - Zákon č. 389/1990 Zb. o dani z príjmov obyvateľstva v znení zákona č. 578/1991 Zb.
 
 - Nariadenie vlády Československej socialistickej republiky č. 207/1989 Zb. o vykonávaní odvodu zo zisku na základe finančného plánu.
-
-- 18a) § 63 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 275/1993 Z. z., ktorým sa mení Zákonník práce a zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
