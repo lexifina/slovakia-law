@@ -6,7 +6,7 @@
 
 - 3a) § 13 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2002 Z. z.
 
-- 3b) § 7 ods. 2 Občianskeho súdneho poriadku.
+- 3b) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 4) § 3 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
