@@ -18,17 +18,19 @@
 
 - b) daňový kód pokladnice pridelený pokladnici, ktorá má poruchu,
 
-- c) daňové identifikačné číslo,
+- c) daňové identifikačné číslo,<sup>3c</sup>) ak subjekt nie je platiteľom dane z pridanej hodnoty,
 
-- d) poradové číslo dokladu,
+- d) identifikačné číslo pre daň,<sup>3d</sup>) ak subjekt je platiteľom dane z pridanej hodnoty,
 
-- e) dátum vystavenia dokladu,
+- e) poradové číslo dokladu,
 
-- f) názov a množstvo tovaru alebo rozsahu služby,
+- f) dátum vystavenia dokladu,
 
-- g) cenu tovaru alebo cenu služby,
+- g) názov a množstvo tovaru alebo rozsahu služby,
 
-- h) celkovú cenu.
+- h) cenu tovaru alebo cenu služby,
+
+- i) celkovú cenu.
 
 (6) Kópie paragónov vyhotovené podľa odseku 5 sú podkladom na vyhotovenie dennej uzávierky podľa § 3 ods. 2 a 3. Na ručne vyhotovenú pásku dennej uzávierky subjekt uvedie aj počet paragónov vydaných za deň. Vo výkaze v časti určenej na pripevnenie pásky dennej uzávierky subjekt uvedie, že páska dennej uzávierky je vyhotovená ručne. Na základe údajov z dennej uzávierky subjekt vyplní denný výkaz, pričom pred číslo dennej uzávierky uvedie písmeno R. Ručne vystavené paragóny (kontrolná páska) sa uchovávajú po dobu uvedenú v § 3 ods. 8.
 
