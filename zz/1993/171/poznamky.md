@@ -2,6 +2,8 @@
 
 - 2) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 2a) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
+
 - 3) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov, zákon č. 147/1983 Zb. o zbraniach a strelive v znení zákona č. 49/1990 Zb., zákon č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
 
 - 4) Napríklad Trestný zákon,Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
