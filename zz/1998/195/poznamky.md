@@ -10,6 +10,8 @@
 
 - 6) § 21 až 23 a § 34 až 43 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
+- 6a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 7) § 8 a 9 Občianskeho zákonníka.
 
 - 7a) § 215 Trestného zákona.
