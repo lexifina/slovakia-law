@@ -12,7 +12,7 @@
 
 - c) zloží požadovanú skúšku.
 
-(4) Odbornú spôsobilosť overuje Ministerstvo životného prostredia Slovenskej republiky (ďalej len „ministerstvo“) skúškou.
+(4) Odbornú spôsobilosť overuje Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky (ďalej len „ministerstvo“) skúškou.
 
 (5) Odborná spôsobilosť sa osvedčuje vydaním preukazu o odbornej spôsobilosti a overuje sa každých desať rokov.
 
