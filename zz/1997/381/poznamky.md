@@ -24,6 +24,8 @@
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
+- 13a) § 250l Občianskeho súdneho poriadku.
+
 - 14) § 18 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
 
 - 15) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
