@@ -1,11 +1,5 @@
 - *) Pokiaľ ide o daň z obratu, je zásada rovnosti ekonomických podmienok uplatnená v osobitných predpisoch.
 
-- *) Na tieto úlohy sa vzťahuje ustanovenie § 8 ods. 1 písm. c) vyhlášky hlavného arbitra ČSSR č. 139/1965 Zb.
-
-- **) Záväzné limity sa ustanovujú ako maximálne, t. j. hornou hranicou.
-
-- *) Vyhláška Ministerstva práce a sociálnych vecí ČSSR č. 174/1969 Zb. o usmerňovaní mzdového vývoja a o zásadách odmeňovania práce.
-
 - *) Jednotná účtovná osnova v národnom hospodárstve (Vestník ÚKĽKŠ, čiastka 13 až 14/1966).
 
 - **) Netýka sa poistného nemocenského poistenia.
