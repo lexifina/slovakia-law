@@ -1,0 +1,1 @@
+- 1) Opatrenie Štatistického úradu Slovenskej republiky č. 299/1996 Z. z., ktorým sa ustanovujú číselníky územných jednotiek Slovenskej republiky.
