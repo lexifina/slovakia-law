@@ -86,11 +86,11 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 | b) Udelenie iného živnostenského oprávnenia | | | | | 200,-
 
-14. | a) Povolenie na vývoz vecných darov a sťahovaných zvrškov s výnimkou predmetov z drahých kovov, drahokamov a perál z ceny vyvážaných predmetov | | | | | 3 % až 25 % najmenej však 10,-
+14. | a) Povolenie na vývoz hnuteľných vecí s výnimkou predmetov z drahých kovov, drahokamov a perál z ceny vyvážaných predmetov | | | | | 3 % až 200 % najmenej však 20,-
 
-| b) predĺženie platnosti povolenia uvedeného pod písm. a) | | | | | 10,-
+| b) predĺženie platnosti povolenia uvedeného pod písm. a) | | | | | 20,-
 
-| Poznámky 1. Poplatok sa nevyberá za povolenie na vývoz vecných darov (predmetov), ktorých hodnota nepresahuje 100,- Kčs. 2. Správny orgán môže upustiť od vybratia poplatku z dôvodu všeobecného záujmu. 3. Poplatok podľa tejto položky možno zaplatiť až pri vývoze. | | | | |
+| Poznámky1. V ktorých prípadoch treba povolenie na vývoz, ustanovujú vyhlášky č. 6/1963 Zb. k zákonu o devízovom hospodárstve a č. 31/1964 Zb. o konaní pri vývoze. Ak neprevyšuje hodnota hnuteľných vecí 100,- Kčs, poplatok sa nevyberá.2. Podľa zásady vzájomnosti alebo z dôvodu všeobecného záujmu môže správny orgán od vybratia poplatku podľa tejto položky upustiť alebo ho znížiť; so súhlasom Ministerstva financií možno vyberať poplatok až vo výške dvojnásobku alebo vo výške, v akej vyberá poplatok štát, ktorého žiadateľ je príslušníkom.3. Poplatok podľa tejto položky možno zaplatiť až pri vývoze.4. Podľa tejto položky sa vyberá tiež poplatok za vývoz vecných darov a sťahovaných zvrškov. | | | | |
 
 | Oddiel D | | | | |
 
@@ -318,9 +318,9 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 | Finančná správa | | | | |
 
-36. | Povolenie na vývoz predmetov z drahých kovov, drahokamov, perál z ceny vyvážaných predmetov | | | | | 3 % až 25 % najmenej však 20,-
+36. | Povolenie na vývoz predmetov z drahých kovov, drahokamov a perál z ceny najmenej však vyvážaných predmetov | | | | | 3 % až 200 % najmenej však 20,-
 
-| Poznámky 1. Poplatok sa nevyberá za povolenie na vývoz predmetov z drahých kovov, drahokamov a perál, ktorých hodnota nepresahuje 100,- Kčs. 2. Podľa zásady vzájomnosti alebo z dôvodu všeobecného záujmu možno od vybratia poplatku podľa tejto položky upustiť alebo ho znížiť, príp. poplatok vyberať až vo výške dvojnásobku alebo vo výške, v akej vyberá poplatok štát, ktorého je žiadateľ príslušníkom. | | | | |
+| Poznámky1. Ak nepresahuje hodnota predmetov z drahých kovov, drahokamov a perál 100,- Kčs, poplatok sa nevyberá.2. Podľa zásady vzájomnosti alebo z dôvodu všeobecného záujmu môže správny orgán od vybratia poplatku podľa tejto položky upustiť alebo ho znížiť; so súhlasom Ministerstva financií možno poplatok vyberať až vo výške dvojnásobku alebo vo výške, v akej vyberá poplatok štát, ktorého je žiadateľ príslušníkom. | | | | |
 
 37. | Povolenie podľa zákona o devízovom hospodárstve s výnimkou povolení podľa pol. 36, z ceny | | | | | 1 % až 100 %
 
