@@ -1,0 +1,1 @@
+- *) Vyhláška č. 172/1957 Ú. l. (Ú. v.) o hlásení zmien v stave niektorých hospodárskych zvierat.
