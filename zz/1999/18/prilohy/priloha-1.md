@@ -70,6 +70,8 @@ Príloha č. 1 k vyhláške č. 18/1999 Z. z.
 
 - 33 | Lyocell | vlákno z regenerovanej celulózy získané rozpúšťaním a procesom spriadania v organickom rozpúšťadle bez tvorby derivátov
 
+- 33a | Polylaktid | vlákno z lineárnych makromolekúl, ktoré majú v reťazci najmenej 85 % hmotných esterových jednotiek kyseliny liečnej získaných z prírodných cukrov s teplotou topenia najmenej 135 °C.
+
 - 34 | Polyester | vlákno z lineárnych makromolekúl, ktoré majú v reťazci min. 85 % (hmotnostných) esteru diolu a kyseliny tereftálovej
 
 - 35 | Polyetylén | vlákno z nesubstituovaných alifatických nasýtených uhľovodíkových lineárnych makromolekúl

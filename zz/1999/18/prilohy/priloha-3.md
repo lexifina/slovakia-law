@@ -88,6 +88,8 @@ Príloha č. 3 k vyhláške č. 18/1999 Z. z.
 
 - 33 | Lyocell | 13,00
 
+- 33a | Polylaktid | 1,50
+
 - 34 | Polyester |
 
 - | strižové vlákno | 1,50
