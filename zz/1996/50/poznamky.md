@@ -1,0 +1,1 @@
+- 1) Európsky dohovor o vydávaní z 13. decembra 1957 bol uverejnený pod č. 549/1992 Zb.
