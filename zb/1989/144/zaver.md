@@ -1,3 +1,0 @@
-Minister:
-
-Václavík v. r.
