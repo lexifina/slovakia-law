@@ -1,3 +1,0 @@
-# Čl. II
-
-Takto upravená náhrada za stratu na zárobku patrí od prvého dňa kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom bolo toto opatrenie uverejnené v Zbierke zákonov Slovenskej republiky.
