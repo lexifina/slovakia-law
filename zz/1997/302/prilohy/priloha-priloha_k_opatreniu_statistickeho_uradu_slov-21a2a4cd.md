@@ -1,6 +1,8 @@
 Príloha k opatreniu Štatistického úradu Slovenskej republiky č. 302/1997 Z. z. ČÍSELNÍK ÚSTREDNÝCH ŠTÁTNYCH ORGÁNOV, ORGÁNOV ŠTÁTNEJ SPRÁVY A NIEKTORÝCH ĎALŠÍCH VEREJNOPRÁVNYCH INŠTITÚCIÍ V SLOVENSKEJ REPUBLIKE
 
-Číselný kód | Úplný názov
+Číselný | Úplný názov
+
+kód |
 
 01 | Kancelária Národnej rady SR
 
@@ -9,6 +11,8 @@ Príloha k opatreniu Štatistického úradu Slovenskej republiky č. 302/1997 Z.
 03 | Úrad vlády SR
 
 05 | Ústavný súd SR
+
+06 | Najvyšší súd SR
 
 07 | Generálna prokuratúra SR
 
@@ -42,7 +46,7 @@ Príloha k opatreniu Štatistického úradu Slovenskej republiky č. 302/1997 Z.
 
 27 | Ministerstvo pôdohospodárstva SR
 
-28 | Ministerstvo výstavby a verejných prác SR
+28 | Ministerstvo výstavby a regionálneho rozvoja SR
 
 29 | Ministerstvo dopravy, pôšt a telekomunikácií SR
 
@@ -50,7 +54,7 @@ Príloha k opatreniu Štatistického úradu Slovenskej republiky č. 302/1997 Z.
 
 32 | Štatistický úrad SR
 
-34 | Úrad pre stratégiu rozvoja spoločnosti, vedy a techniky SR
+33 | Úrad pre verejné obstarávanie
 
 36 | Úrad jadrového dozoru SR
 
