@@ -16,7 +16,9 @@
 
 - 9) Zákon Českej národnej rady č. 20/1987 Zb. o štátnej pamiatkovej starostlivosti. Zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti. § 9 zákona č. 40/1956 Zb. v znení neskorších predpisov. § 11 zákona Slovenskej národnej rady č. 1/1955 Zb. SNR v znení neskorších predpisov.
 
-- 10) Zákon č. 90/1988 Zb.
+- 10) Zákon č. 162/1990 Zb. o poľnohospodárskom družstevníctve.
+
+- § 106zd Hospodárskeho zákonníka.
 
 - 11) Zákon č. 88/1988 Zb. o štátnom podniku.
 
