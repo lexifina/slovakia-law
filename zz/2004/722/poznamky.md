@@ -1,0 +1,1 @@
+- 1) § 51 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
