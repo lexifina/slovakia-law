@@ -4,6 +4,8 @@
 
 - 2a) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
+- 2b) Zákon č. 351/1997 Z. z. Branný zákon v znení zákona č. 401/2000 Z. z.
+
 - 3) § 10 a 855 Občianskeho zákonníka.
 
 - 3a) § 4 a 5, § 6 ods. 1, § 8 ods. 1 a 2 zákona Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov.
@@ -16,7 +18,9 @@
 
 - 3e) § 200f Občianskeho súdneho poriadku.
 
-- 4) § 11 ods. 2 a § 30 ods.1 zákona Slovenskej národnej rady č. 369/1990 Zb.
+- 4) § 1 zákona Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
+
+- § 9 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
 
 - 4a) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
@@ -24,9 +28,21 @@
 
 - 5) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 236/1988 Zb. o iných úkonoch vo všeobecnom záujme.
 
-- 5a) § 5 ods. 1 písm. a) zákona č. 468/1991 Zb. o prevádzkovaní rozhlasového a televízneho vysielania.
+- 5a) § 3 ods. 2 zákona č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
-- 5b) § 2 ods. 2 a 3 zákona Slovenskej národnej rady č. 369/1990 Zb.
+- 5b) Zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
+
+- 5ba) Zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov.
+
+- 5bb) § 2 ods. 1 písm. b) zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
+
+- 5bc) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
+
+- 5bd) § 3 písm. e) zákona č. 308/2000 Z. z.
+
+- 5be) § 3 písm. b) zákona č. 308/2000 Z. z.
+
+- 5bf) Zákon č. 308/2000 Z. z.
 
 - 5c) § 11 ods. 1 a § 13 ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
