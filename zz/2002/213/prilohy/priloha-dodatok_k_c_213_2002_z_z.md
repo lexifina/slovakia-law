@@ -24,11 +24,17 @@ Dodatok k č. 213/2002 Z. z.
 
   - „the Registrar of the High Court of Antigua and Barbuda“ v St. Johns, Antigua
 
+  - Albánsko
+
+  - Konzulárne oddelenie Ministerstva zahraničných vecí
+
   - Argentína
 
-  - „Ministerio de Relaciones Exteriores y Culto“
+- 1. „Ministerio de Relaciones Exteriores y Culto“
 
   - Reconquista 1088, 1003 Buenos Aires
+
+- 2. verejní notári
 
   - Arménsko
 
@@ -92,7 +98,7 @@ Dodatok k č. 213/2002 Z. z.
 
   - 1. mestské súdy Republiky Bosna a Hercegovina a Republiky Srbskej
 
-  - 2. osvedčenia orgánov uvedených v bode 1 musí overiť Ministerstvo občianskych vecí a komunikácií Republiky Bosna a Hercegovina a Ministerstvo zahraničných vecí Republiky Bosna a Hercegovina
+  - 2. osvedčenia orgánov uvedených v bode 1 musia byť ďalej overené Ministerstvom spravodlivosti Republiky Bosna a Hercegovina a Ministerstvom zahraničných vecí Republiky Bosna a Hercegovina
 
 - Botswana
 
@@ -1452,6 +1458,30 @@ Dodatok k č. 213/2002 Z. z.
 
     - Americké Panenské ostrovy | bez určenia orgánu
 
+      - Srbsko a Čierna Hora
+
+  - 1. mestské súdy (súdy prvého stupňa)
+
+  - 2. Ministerstvo spravodlivosti a miestnej samosprávy Srbskej republiky,
+
+  - Belehrad, ulica Nemanjina 22,
+
+  - telefón/fax +381 11 361 287
+
+  - kontaktná osoba: pán Milisav Coguric, vedúci odboru medzinárodnej právnej pomoci
+
+  - 3. Ministerstvo spravodlivosti Republiky Čierna Hora,
+
+  - Sekcia súdnictva,
+
+  - Podgorica, ulica Vuka Karadzica 3,
+
+  - telefón/fax +381 081 248 541
+
+  - kontaktná osoba: pani Vesna Ratkovic, zástupkyňa ministra spravodlivosti pre súdne záležitosti Republiky Čierna Hora
+
+  - telefón/fax +381 081 248 531, e-mail: vesnarat@cg.yu.
+
     - Sv. Kitts a Nevis
 
     - I. pre ostrov Sv. Kitts:
@@ -1649,6 +1679,10 @@ Dodatok k č. 213/2002 Z. z.
   - LONDON SW1A 2AH
 
   - tel.: +44(0)20 7008 2890
+
+  - Bermudy
+
+  - „Parliamentary Registrar“
 
   - Britské Panenské ostrovy Kajmanské ostrovy
 
