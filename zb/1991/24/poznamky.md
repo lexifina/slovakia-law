@@ -2,6 +2,10 @@
 
 - 3) Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
+- 3a) § 20 zákona č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov.
+
+- 3b) Zákon č. 381/2001 Z. z.
+
 - 7) Najmä:
 
 - Občiansky zákonník.
