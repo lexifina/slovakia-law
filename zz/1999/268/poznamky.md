@@ -1,0 +1,1 @@
+- 1) § 9 ods. 1 písm. b) zákona č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
