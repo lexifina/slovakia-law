@@ -30,12 +30,6 @@
 
 - 6b) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 6c) Napr. zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov,
-
-- zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov (úplné znenie č. 271/1993 Z. z.),
-
-- zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
-
 - 6d) § 2 a 3 zákona Národnej rady Slovenskej republiky č. 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností.
 
 - 6e) § 5 zákona Národnej rady Slovenskej republiky č. 192/1995 Z. z.
