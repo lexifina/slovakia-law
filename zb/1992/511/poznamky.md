@@ -24,15 +24,17 @@
 
 - 6e) § 15 zákona Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
+- 6g) Napr. § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení zákona Národnej rady Slovenskej republiky č. 182/1994 Z. z.
+
 - 7) Napr. § 18 zákona SNR č. 317/1992 Zb. o dani z nehnuteľností.
 
 - 8) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov (úplné znenie č. 501/1992 Zb.).
 
 - 8a) Napr. § 25 ods. 2 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
-- 8b) Napr. zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
+- 8b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- Zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
+- 8e) § 13 zákona č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
 - 9) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
@@ -55,6 +57,8 @@
 - 13) Napr. § 32a) zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona SNR č. 498/1991 Zb.
 
 - 13a) § 7 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
+
+- 13c) Napr. § 262 zákona č. 618/1992 Zb. Colný zákon.
 
 - 14) § 36 zákona č. 286/1992 Zb.
 
