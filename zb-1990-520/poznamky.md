@@ -1,0 +1,1 @@
+- 1) § 60 zákona ČNR č. 367/1990 Sb., o obcích (obecní zřízení).
