@@ -1,0 +1,1 @@
+- 1) Čl. 4 ods. 4 ústavného zákona č. 143/1968 Zb. o československej federácii v znení neskorších ústavných zákonov.
