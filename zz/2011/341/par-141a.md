@@ -1,0 +1,5 @@
+# § 141a Dočasné prerušenie výkonu práce
+
+(1) Ak je zamestnanec dôvodne podozrivý zo závažného porušenia pracovnej disciplíny a jeho ďalší výkon práce by ohrozoval dôležitý záujem zamestnávateľa, môže zamestnávateľ po prerokovaní so zástupcami zamestnancov zamestnancovi dočasne, najdlhšie na jeden mesiac, prerušiť jeho výkon práce. V kolektívnej zmluve možno odchylne od prvej vety dohodnúť predĺženie doby, počas ktorej môže zamestnávateľ dočasne prerušiť výkon práce zamestnanca a možnosť zamestnávateľa dočasne prerušiť výkon práce zamestnanca aj pri menej závažnom porušení pracovnej disciplíny.
+
+(2) Zamestnancovi patrí po dobu dočasného prerušenia výkonu práce náhrada mzdy v sume jeho priemerného zárobku. Ak ide o dôvodné podozrenie zo závažného porušenia pracovnej disciplíny, zamestnancovi patrí po dobu dočasného prerušenia výkonu práce náhrada mzdy najmenej v sume 60 % jeho priemerného zárobku; ak sa závažné porušenie pracovnej disciplíny nepreukázalo, zamestnancovi patrí doplatok do výšky jeho priemerného zárobku.

@@ -1,0 +1,3 @@
+# Čl. 11
+
+Zamestnávateľ môže o zamestnancovi zhromažďovať len osobné údaje súvisiace s kvalifikáciou a profesionálnymi skúsenosťami zamestnanca a údaje, ktoré môžu byť významné z hľadiska práce, ktorú zamestnanec má vykonávať, vykonáva alebo vykonával. Zamestnávateľ nesmie bez vážnych dôvodov spočívajúcich v osobitnej povahe činností zamestnávateľa narúšať súkromie zamestnanca na pracovisku a v spoločných priestoroch zamestnávateľa tým, že ho sleduje bez toho, aby bol na to upozornený, alebo kontroluje listové zásielky adresované zamestnancovi ako súkromnej osobe. Ak je u zamestnávateľa zavedený kontrolný mechanizmus, je zamestnávateľ povinný informovať zamestnanca o rozsahu kontroly a spôsoboch jej uskutočňovania.
