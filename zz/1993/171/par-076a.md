@@ -13,3 +13,5 @@
 (6) Policajný zbor poskytuje alebo zverejňuje informácie, ktoré nie sú osobnými údajmi, ak je to potrebné na plnenie úloh Policajného zboru. Na poskytovanie informácií do zahraničia sa ustanovenia § 69e vzťahujú primerane.
 
 (7) Policajný zbor je povinný zabezpečiť ochranu informácií a osobných údajov pred ich neoprávneným zverejnením alebo poskytovaním; tým nie sú dotknuté povinnosti Policajného zboru podľa osobitných zákonov.<sup>28j</sup>) Informácie a osobné údaje získané podľa odsekov 1 až 3 a 5 možno využívať len na plnenie úloh Policajného zboru.
+
+(8) Osobnými údajmi podľa odsekov 1, 2 a 4 až 7 sú meno, priezvisko, rodné číslo, dátum a miesto narodenia a adresa pobytu. Ustanovenia osobitného zákona<sup>27</sup>) o povinnosti informovať osobu o stave spracúvania osobných údajov sa na poskytovanie údajov podľa odsekov 1 a 2 nepoužijú.

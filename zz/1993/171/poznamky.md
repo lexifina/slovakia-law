@@ -56,8 +56,6 @@
 
 - 17) Vyhláška č. 145/1956 Ú. v. o premávke na cestách v znení neskorších predpisov.
 
-- 17a) § 89 ods. 2 Trestného poriadku v znení neskorších predpisov.
-
 - 18) § 41 ods. 2 zákona č. 140/1961 Zb.
 
 - 18a) § 88a Trestného poriadku v znení neskorších predpisov.
