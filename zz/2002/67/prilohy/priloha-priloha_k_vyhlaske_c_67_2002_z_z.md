@@ -214,29 +214,17 @@ XX. Arzén a jeho zlúčeniny CAS č. 7440-38-2
 
 XXI. Organociničité zlúčeniny
 
-1. Zakazujú sa uvádzať na trh a používať ako látky alebo zložky prípravkov, ktoré pôsobia ako biocídy v náterových hmotách s protihnilobným účinkom.
+- 1. Nesmú sa dodávať na trh na použitie ako látky a zložky prípravkov, ktoré pôsobia ako biocídy vo voľných spájacích náterových hmotách.
 
-2. Zakazujú sa používať ako látky a zložky prípravkov, ktoré pôsobia ako biocídy na zabránenie hnitia a poškodzovania mikroorganizmami, rastlinami alebo zvieratami, na
+- 2. Nesmú sa dodávať na trh alebo používať ako látky a zložky prípravkov, ktoré pôsobia ako biocídy na zabránenie obrastania mikroorganizmami, rastlinami alebo živočíchmi
 
-a) trupy lodí s celkovou dĺžkou menšou ako 25 metrov a trupy lodí určených prevažne na používanie na vnútrozemských vodných cestách a plochách bez obmedzenia dĺžky,
+a) všetkých plavidiel bez ohľadu na ich dĺžku, ktoré sú určené na použitie na mori, v pobrežných vodách, v ústiach riek a na vnútrozemských vodných cestách a jazerách,
 
-b) klietky, lopatky, siete a iné zariadenia používané na chov rýb a vodných mäkkýšov,
+b) klietok, plavákov, sietí a všetkých ostatných zariadení a vybavení používaných pri chove rýb a mäkkýšov,
 
-c) iné zariadenie alebo vybavenie celkom alebo čiastočne ponorené do vody.
+c) akýchkoľvek úplne alebo čiastočne ponorených zariadení alebo vybavení.
 
-3. Na iné použitie, ako je uvedené v bode 2 písm. a) a b), môžu byť uvedené látky a prípravky uvádzané na trh len v obaloch s objemom 20 litrov s vylúčením predaja v maloobchode.
-
-4. Pokiaľ sa tieto látky alebo prípravky uvádzajú na povolené použitie na trhu, musia byť obaly látok alebo prípravkov označené čitateľným a nezmazateľným nápisom
-
-„Nepoužívať na lode s celkovou dĺžkou menšou ako 25 metrov“ alebo
-
-„Nepoužívať na lode používané na vnútrozemských vodných cestách a plochách“, alebo
-
-„Nepoužívať na akékoľvek iné zariadenia alebo vybavenie na chov rýb alebo vodných mäkkýšov“ a
-
-„Výhradne na odborné použitie“.
-
-5. Zakazujú sa používať samy osebe, aj ako zložky prípravkov určených na úpravu priemyselných vôd.
+- 3. Nesmú sa používať ako látky a zložky prípravkov určených na použitie pri úprave priemyselných vôd.
 
 XXII. Di-µ-oxo-di-n-butylcínhydroxyboran (DBB) CAS č. 75113-37-0
 
@@ -896,6 +884,82 @@ Označenie týmto spôsobom nemení ostatné povinnosti označovania nebezpečn�
 
 3. Ustanovenia bodov 1 a 2 sa nevzťahujú na aerosólové rozprašovače s horľavým obsahom, pri ktorých sú k dispozícii výsledky, že za obvyklých podmienok používania nehrozí nebezpečenstvo vznietenia.
 
+XLIII. Azofarbivá
+
+Zoznam aromatických amínov
+
+| Látky | EC číslo | CAS číslo | Indexové číslo
+
+1. | bifenyl-4-ylamín 4-aminobifenyl xenylamín | 202-177-1 | 92-67-1 | 612-072-00-6
+
+2. | benzidín | 202-199-1 | 92-87-5 | 612-042-00-2
+
+3. | 4- chlór- 2 -metylanilín | 202-441-6 | 95-69-2 |
+
+4. | 2-naftylamín | 202-080-4 | 91-59-8 | 612-022-00-3
+
+5. | 2-metyl-4-(2-tolyldiazenyl)anilln o-aminodiazenyl 4-amino-2 ',3-dimetyldiazenylbenzén 4-o-tolyldiazenyl-o-toluidín | 202-591-2 | 97-56-3 | 611-006-00-3
+
+6. | 2-metyl-5-nitroanilln | 202-765-8 | 99-55-8 |
+
+7. | 4-chlóranilín | 203-401-0 | 106-47-8 | 612-137-00-9
+
+8. | 4-metoxy-1,3-fenyléndiamín | 210-406-1 | 615-05-4 |
+
+9. | 4,4 '-metyléndianilín 4,4 '-diaminodifenylmetán | 202-974-4 | 101-77-9 | 612-051-00-1
+
+10. | 3,3 '-dichlórbenzidín 3,3 '-dichlórbifenyl-4,4-diamín | 202-109-0 | 91-94-1 | 612-068-00-4
+
+11. | 3,3 '-dimetoxybenzidín 3,3 '-dimetoxybifenyl-4,4 '-diamín o-dianizidín | 204-355-4 | 119-90-4 | 612-036-00-X
+
+12. | 3,3 '-dimetylbenzidín 4,4 '-bi-o-toluidín | 204-358-0 | 119-93-7 | 612-041-00-7
+
+13. | 2,2 '-dime1yl-4,4 '-metyléndianilín | 212-658-8 | 838-88-0 | 612-085-00-7
+
+14. | 2-metoxy-5-metylanilín 6-metoxy-m-toluidín p-krezidín | 204-419-1 | 120-71-8 |
+
+15. | 4,4 '-metylénbis(2-chlóranilín) 2,2 '-dichlór-4,4 '-metyléndianilín | 202-918-9 | 101-14-4 | 612-078-00-9
+
+16. | 4,4-oxydianilín | 202-977-0 | 101-80-4 |
+
+17. | 4,4 '-sulfándiylbisanilín | 205-370-9 | 139-65-1 |
+
+18. | 1,2-toluidín 2-aminotoluén | 202-429-0 | 95-53-4 | 612-091-00-X
+
+19. | 4-me1ylbenzén-1,3-diamín 4-metyl-m-fenyléndiamín | 202-453-1 | 95-80-7 | 612-099-00-3
+
+20. | 2,4,5 - trimetylanilín | 205-282-0 | 137-17-7 |
+
+21. | 2-metoxyanilín; o-anizidín | 201-963-1 | 90-04-0 | 612-035-00-4
+
+22. | 4-aminofenyl(fenyl)diazén 4-fenyldiazenylanilín 4-aminoazobenzén | 200-453-6 | 60-09-3 | 611-008-00-4
+
+Zoznam azofarbív
+
+Látky | EC číslo | CAS číslo | Indexové číslo
+
+Zmes: | 405-665-4 | Nerozdelené | 611-070-00-2
+
+[6-(4-metoxyanilino)-3- | | |
+
+sulfonáto-2-(3,5-dinitro-2- | | Zložka 1: |
+
+oxidofenyldiazenyl)naftalén-1 - | | CAS č. 118685-33-9 |
+
+oláto]-[1-(5-chlór-2- | | C<sub>39</sub>H<sub>23</sub>ClCrN<sub>7</sub>O<sub>12</sub>S.2Na |
+
+oxidofenyldiazenyl)naftalén-2 - oláto]chromitan disodný; | | |
+
+bis[6-(4-metoxyanilino)-3- | | Zložka 2: |
+
+sulfonáto-2-(3,5-dinitro-2- | | C<sub>46</sub>H<sub>30</sub>CrN<sub>10</sub>O<sub>20</sub>S.3Na |
+
+oxidofenyldiazenyl)naftalén-1 - oláto]chromitan trisodný | | |
+
+Derogačné ustanovenie
+
+Ustanovenie uvedené v bode 2 sa nebude do 1. januára 2005 uplatňovať na textilné výrobky vyrobené z recyklovaných vlákien, ak sa amíny neuvoľňujú zo zvyškov pochádzajúcich z predchádzajúceho farbenia týchto vlákien a ak sa amíny uvedené v zozname uvoľňujú v koncentráciách nižších ako 70 ppm.
+
 Doplňujúce vysvetlenie záhlavia stĺpcov tabuliek uvedených v bodoch XXIX až XXXI
 
 Názov látky
@@ -920,7 +984,7 @@ Poznámky
 
 Poznámka J
 
-Látka nemusí byť klasifikovaná ako karcinogénna, ak sa dá dokázať, že obsahuje menej ako 0,1 hmotnostného percenta benzénu (EC č. 200-753-7).
+Použitá látka nemusí byť karcinogénna, ak sa dá dokázať, že obsahuje menej ako 0,1 hmotnostných percent benzénu (EC č. 200-753-7).
 
 Poznámka K
 
@@ -928,7 +992,7 @@ Látka nemusí byť klasifikovaná ako karcinogénna, ak sa dá dokázať, že o
 
 Poznámka L
 
-Látka nemusí byť klasifikovaná ako karcinogénna, ak sa dá dokázať, že obsahuje menej ako 3 pecentá DMSO (dimetylsulfoxidového) extraktu nameraného prístrojom IP 346.
+Látka nemusí byť klasifikovaná ako karcinogénna, ak sa dá dokázať, že obsahuje menej ako 3 percentá DMSO (dimetylsulfoxidového) extraktu testovacou metódou IP346.
 
 Poznámka M
 
