@@ -1,0 +1,1 @@
+- 12) § 93 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
