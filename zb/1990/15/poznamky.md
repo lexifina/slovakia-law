@@ -1,0 +1,1 @@
+- 1) Hospodársky zákonník (úplné znenie č. 80/1989 Zb.), predovšetkým § 97-106.
