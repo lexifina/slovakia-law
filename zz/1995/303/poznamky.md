@@ -6,9 +6,13 @@
 
 - 2a) Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
-- 2b) Zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
+- 2b) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
-- 2c) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+- 2c) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2002 Z. z.
+
+- Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
+- 2d) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
 
@@ -24,7 +28,7 @@
 
 - 5a) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 6) Zákon č. 563/1991 Zb. o účtovníctve.
+- 6) Zákon č. 431/2002 Z. z. o účtovníctve.
 
 - 7) § 26 zákona č. 366/1999 Z. z.
 
@@ -40,6 +44,8 @@
 
 - 8ac) Zákon č. 291/2002 Z. z.
 
+- 8ad) Napríklad zákon Národnej rady Slovenskej republiky č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 9) Napríklad zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. v znení neskorších predpisov.
@@ -48,9 +54,15 @@
 
 - 10aa) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
 
+- 10ab) Napríklad zákon č. 203/2001 Z. z. v znení zákona č. 132/2002 Z. z.
+
+- 10b) Zákon č. 203/2001 Z. z. o Agentúre na podporu vedy a techniky v znení zákona č. 132/2002 Z. z.
+
+- 10c) Zákon č. 553/2001 Z. z. o zrušení niektorých štátnych fondoch, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov v znení zákona č. 440/2002 Z. z.
+
 - 11) § 829 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
-- 12) § 1 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.§ 20a ods. 3 zákona Slovenskej národnej rady č. 347/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 74/1995 Z. z.
+- 12) § 6 až 19 a 24 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
@@ -62,7 +74,7 @@
 
 - § 2 ods. 2 a 3 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 198/1998 Z. z. na vykonanie niektorých ustanovení zákona o sociálnej pomoci.
 
-- 14b) § 6 ods. 3 zákona č. 172/1990 Zb. o vysokých školách v znení zákona č. 284/1997 Z. z.§ 10 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.Zákon č. 506/2001 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení a o doplnení zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 14b) § 92 ods. 7 až 9 zákona č. 131/2002 Z. z.
 
 - 14c) § 89 až 91, § 92 ods. 1 písm. c), § 93, 103, 104 a 107 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
 
@@ -104,15 +116,17 @@
 
 - 21b) § 20 a 20a zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.
 
+- 21c) § 2 ods. 2 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.§ 2 ods. 2 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
+
 - 22) § 489 a nasl. Obchodného zákonníka.
 
 - 23) Zákon č. 366/1999 Z. z.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách.
 
-- 25) Napríklad zákon č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
+- 25) Napríklad zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
 
-- 26) Napríklad § 26 ods.4 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení zákona Národnej rady Slovenskej republiky č. 296/1993 Z. z.
+- 26) Napríklad § 26 ods. 4 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
 - 26a) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.Zákon č. 280/1997 Z. z.
 
@@ -155,3 +169,11 @@
 - 35) § 4 zákona č. 446/2001 Z. z. o majetku vyšších územných celkov.§ 4a zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení zákona č. 447/2001 Z. z.
 
 - 36) § 28 ods. 3 písm. b) zákona č. 92/1991 Zb. v znení zákona č. 122/2000 Z. z.
+
+- 37) Napríklad zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 38) § 23 ods. 1 zákona č. 291/2002 Z. z. v znení zákona č. 386/2002 Z. z.
+
+- 39) Zákon Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
+
+- Zákon č. 446/2001 Z. z.

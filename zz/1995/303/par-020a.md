@@ -10,4 +10,4 @@
 
 (5) Podrobnosti o hospodárení s prostriedkami Európskych spoločenstiev poskytnutými Slovenskej republike na základe medzinárodných zmlúv a s prostriedkami štátneho rozpočtu na financovanie spoločných programov ustanoví vláda nariadením.
 
-(6) Ustanovenia odsekov 1 až 4 sa vzťahujú na hospodárenie s prostriedkami poskytnutými prostredníctvom národného fondu na základe medzinárodných zmlúv uzatvorených do dňa nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii.
+(6) Ustanovenia odsekov 1 a 4 sa vzťahujú na hospodárenie s prostriedkami poskytnutými prostredníctvom národného fondu na základe medzinárodných zmlúv uzatvorených do dňa nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii.
