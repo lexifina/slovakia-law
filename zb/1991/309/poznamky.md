@@ -28,6 +28,18 @@
 
 - 4a) § 12 zákona Slovenskej národnej rady č. 134/1992 Zb.
 
+- 4aa) Napríklad nariadenie vlády Slovenskej republiky č. 92/1996 Z. z., vyhláška Ministerstva životného prostredia Slovenskej republiky č. 41/1997 Z. z., nariadenie vlády Slovenskej republiky č. 606/1992 Zb. o nakladaní s odpadmi v znení nariadenia vlády Slovenskej republiky č. 190/1996 Z. z., zákon č. 138/1973 Zb.
+
+- 4ab) § 8 zákona č. 138/1973 Zb.
+
+- 4ac) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 19/1996 Z. z., ktorou sa ustanovuje kategorizácia odpadov a vydáva Katalóg odpadov.
+
+- 4ad) Nariadenie vlády Slovenskej republiky č. 92/1996 Z. z.
+
+- 4ae) Zákon č. 494/1991 Zb. o štátnej správe v odpadovom hospodárstve v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 135/1974 Zb. o štátnej správe vo vodnom hospodárstve v znení neskorších predpisov.
+
 - 4b) Zákon Slovenskej národnej rady č. 311/1992 Zb. o poplatkoch za znečisťovanie ovzdušia.
 
 - 4c) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 154/1995 Z. z.
