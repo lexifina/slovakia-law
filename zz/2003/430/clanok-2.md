@@ -8,6 +8,24 @@ Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zá
 
 - Technickou úrokovou mierou je úroková miera, ktorú poisťovňa a pobočka zahraničnej poisťovne používa na výpočet poistného a technickej rezervy na životné poistenie pomocou poistnomatematických metód. Technická úroková miera je súčasťou poistnej sadzby a predstavuje takú mieru zhodnotenia finančných prostriedkov, pri ktorej sa hodnota budúcich záväzkov vyplývajúcich z poistenia vypočítaná poistnomatematickými metódami rovná hodnote budúceho poistného.“.
 
+- 2. V § 5 sa odsek 3 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- meno a priezvisko, trvalý pobyt alebo obchodné meno a sídlo likvidačného zástupcu,<sup>10a</sup>) ak poisťovňa bude vykonávať poisťovaciu činnosť v poistnom odvetví uvedenom v prílohe č. 10a.“.
+
+- Poznámka pod čiarou k odkazu 10a znie:
+
+- „10a)
+
+- § 15a zákona č. 381/2001 Z. z. v znení zákona č. 430/2003 Z. z.“.
+
+- 3. V § 6 sa odsek 3 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- meno a priezvisko, trvalý pobyt alebo obchodné meno a sídlo likvidačného zástupcu,<sup>10a</sup>) ak pobočka zahraničnej poisťovne bude vykonávať poisťovaciu činnosť v poistnom odvetví uvedenom v prílohe č. 10a.“.
+
 - 4. V § 27 ods. 2 sa za slová „úmrtnostné tabuľky a“ vkladá slovo „technická“.
 
 - 5. § 27 sa dopĺňa odsekmi 5 až 7, ktoré znejú:

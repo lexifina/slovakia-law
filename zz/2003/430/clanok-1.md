@@ -56,6 +56,24 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - 7. V § 4 ods. 2 písm. c) sa slová „písmen a) a b)“ nahrádzajú slovami „písmen a), b) a d)“.
 
+- 8. V § 4 odsek 4 znie:
+
+- „(4)
+
+- Ak ide o škodu spôsobenú prevádzkou tuzemského motorového vozidla na území iného členského štátu, poškodenému sa poskytne poistné plnenie v rozsahu poistenia zodpovednosti podľa právnych predpisov členského štátu, na ktorého území bola škoda spôsobená, ak sa podľa tohto zákona alebo na základe poistnej zmluvy neposkytuje poistné plnenie v širšom rozsahu.“.
+
+- 9. § 4 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Na škodu spôsobenú prevádzkou motorového vozidla občanovi členského štátu na území cudzieho štátu, v ktorom nepôsobí príslušná kancelária poisťovateľov, počas jeho cesty z územia jedného členského štátu na územie iného členského štátu sa vzťahujú právne predpisy členského štátu, na ktorého území sa motorové vozidlo spravidla nachádza.“.
+
+- 10. § 6 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ak je uzavretá poistná zmluva, poistenie zodpovednosti platí na území všetkých členských štátov; poistenie zodpovednosti platí aj na území iných štátov, ktoré poisťovateľ označil v zelenej karte.“.
+
 - 11. V poznámke pod čiarou k odkazu 11 sa citácia „Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov“ nahrádza citáciou „Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.“.
 
 - 12. V § 9 ods. 1 písmeno b) znie:
@@ -108,7 +126,11 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - „(7)
 
-- Ak poisťovateľ nesplní povinnosť podľa odseku 5, je povinný zaplatiť poškodenému úroky z omeškania podľa osobitného predpisu.<sup>15a</sup>)“.
+- Ak poisťovateľ nesplní povinnosť podľa odseku 5, je povinný zaplatiť poškodenému úroky z omeškania podľa osobitného predpisu.<sup>15a</sup>)
+
+- (8)
+
+- Odseky 5 až 7 sa použijú rovnako aj vtedy, ak nárok na náhradu škody uplatnil poškodený proti likvidačnému zástupcovi (§ 15a).“.
 
 - Doterajšie odseky 7 a 8 sa označujú ako odseky 9 a 10.
 
@@ -124,11 +146,61 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - spôsobil škodu motorovým vozidlom a bez dôvodov hodných osobitného zreteľa porušil povinnosti podľa § 10 ods. 1 až 4.“.
 
+- 21. Za § 15 sa vkladá § 15a, ktorý vrátane nadpisu znie:
+
+- „§ 15a
+
+- Likvidačný zástupca
+
+- (1)
+
+- Poisťovateľ je povinný v každom členskom štáte, okrem členského štátu, v ktorom mu bolo udelené povolenie na vykonávanie poisťovacej činnosti, určiť svojho likvidačného zástupcu. Likvidačným zástupcom môže byť fyzická osoba alebo právnická osoba, ktorá musí mať trvalý pobyt alebo sídlo v členskom štáte, v ktorom vykonáva činnosť.
+
+- (2)
+
+- Likvidačný zástupca vybavuje škodové udalosti v mene poisťovateľa a na jeho účet; likvidačný zástupca je oprávnený vykonávať túto činnosť pre jedného poisťovateľa alebo viacerých poisťovateľov; vykonávanie činnosti likvidačného zástupcu nie je zriadením pobočky poisťovateľa.
+
+- (3)
+
+- Likvidačný zástupca zhromažďuje informácie potrebné na prešetrenie nárokov poškodeného na náhradu škody a vykonáva činnosti potrebné na ich uspokojenie, ak škoda bola spôsobená prevádzkou motorového vozidla,
+
+- a)
+
+- na ktoré bolo uzavreté poistenie zodpovednosti v inom členskom štáte, ako je členský štát, v ktorom má poškodený trvalý pobyt alebo sídlo,
+
+- b)
+
+- ktoré sa spravidla nachádza v inom členskom štáte, ako je členský štát, v ktorom má poškodený trvalý pobyt alebo sídlo,
+
+- c)
+
+- na území iného členského štátu, ako je členský štát, v ktorom má poškodený trvalý pobyt alebo sídlo.
+
+- (4)
+
+- Likvidačný zástupca je oprávnený vo vzťahu k poškodenému pri uspokojovaní jeho nárokov zastupovať poisťovateľa v plnom rozsahu a musí zabezpečiť prešetrovanie nárokov poškodeného v úradnom jazyku členského štátu, v ktorom má poškodený trvalý pobyt alebo sídlo; tým nie je dotknuté právo poškodeného uplatniť svoje nároky na náhradu škody priamo proti poisťovateľovi alebo proti osobe, ktorá túto škodu spôsobila.
+
+- (5)
+
+- Poisťovateľ je povinný do siedmich dní odo dňa určenia likvidačného zástupcu písomne oznámiť úradu a kancelárii meno, priezvisko, dátum narodenia, adresu trvalého pobytu likvidačného zástupcu alebo jeho obchodné meno a sídlo.“.
+
+- 22. V § 16 ods. 1 druhej vete sa na konci pripájajú tieto slová: „a na území iného členského štátu“.
+
 - 23. V § 16 ods. 3 písmeno a) znie:
 
 - „a)
 
 - na dobu prevádzky motorového vozidla na území Slovenskej republiky sa vodič preukáže zelenou kartou platnou na území Slovenskej republiky,“.
+
+- 24. V § 16 sa odsek 3 dopĺňa písmenami c) a d), ktoré znejú:
+
+- „c)
+
+- ide o motorové vozidlo, ktoré sa spravidla nachádza na území iného členského štátu,
+
+- d)
+
+- ide o motorové vozidlo uvedené v zozname motorových vozidiel, na ktoré sa vzťahuje výnimka z poistenia zodpovednosti, odovzdanom členským štátom Komisii Európskych spoločenstiev a kancelárii spolu s určením subjektu zodpovedného za náhradu škody spôsobenej prevádzkou týchto motorových vozidiel.“.
 
 - 25. V § 18 sa vypúšťa odsek 4.
 
@@ -148,6 +220,8 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - 29. V § 19 ods. 7 sa bodka na konci nahrádza čiarkou a pripájajú sa tieto slová: „ak tento zákon neustanovuje inak.“.
 
+- 30. V § 20 ods. 2 písm. d) sa za slová „cudzích štátov“ vkladá čiarka a slová „subjektmi zodpovednými za náhradu škody v členských štátoch a informačnými strediskami členských štátov“.
+
 - 31. V § 20 ods. 2 písmeno g) znie:
 
 - „g)
@@ -166,6 +240,8 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - Členstvo v kancelárii vzniká dňom určeným v rozhodnutí úradu, podľa ktorého je poisťovateľ oprávnený vykonávať poistenie zodpovednosti<sup>4</sup>), alebo ak tento deň nie je v rozhodnutí úradu určený, dňom nadobudnutia právoplatnosti tohto rozhodnutia.
 
+- Ak ide o poisťovateľa z iného členského štátu, členstvo v kancelárii vzniká prvým dňom vykonávania poistenia zodpovednosti na území Slovenskej republiky.
+
 - Túto skutočnosť je poisťovateľ povinný bez zbytočného odkladu písomne oznámiť kancelárii. Vznik členstva kancelária bez zbytočného odkladu oznámi príslušnému orgánu evidencie vozidiel.“.
 
 - 34. V § 20 odsek 4 znie:
@@ -173,6 +249,8 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 - „(4)
 
 - Členstvo v kancelárii zaniká dňom nadobudnutia právoplatnosti rozhodnutia úradu, podľa ktorého bolo poisťovateľovi odňaté povolenie na vykonávanie poisťovacej činnosti alebo oprávnenie vykonávať poistenie zodpovednosti.<sup>4</sup>)
+
+- Ak ide o poisťovateľa z iného členského štátu, členstvo v kancelárii zaniká dňom, keď príslušný orgán dohľadu členského štátu odobral poisťovateľovi oprávnenie na vykonávanie poistenia zodpovednosti.
 
 - Túto skutočnosť je poisťovateľ povinný bez zbytočného odkladu písomne oznámiť kancelárii. Zánik členstva kancelária bez zbytočného odkladu oznámi orgánu evidencie vozidiel.“.
 
@@ -192,6 +270,8 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - Kancelária bez zbytočného odkladu oznámi úradu člena kancelárie, ktorý v určenej lehote neuhradil príspevky kancelárii; úrad je oprávnený takémuto členovi odňať povolenie na vykonávanie poisťovacej činnosti pre poistenie zodpovednosti.“.
 
+- 39. V § 21 ods. 2 prvej vete sa na konci pripája čiarka a tieto slová: „s výnimkou členov, ktorí vykonávajú toto poistenie na území Slovenskej republiky na základe práva slobodného poskytovania služieb<sup>4</sup>)“.
+
 - 40. Za § 23 sa vkladá § 23a, ktorý vrátane nadpisu znie:
 
 - „§ 23a
@@ -202,6 +282,8 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - 41. V § 24 ods. 2 písm. a) sa slovo „ktoré“ nahrádza slovom „ktorú“.
 
+- 42. V § 24 ods. 7 druhej vete sa na konci pripájajú tieto slová: „a podľa § 24a ods. 1 písm. a)“.
+
 - 43. V § 24 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
 
 - „(8)
@@ -211,6 +293,102 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 - Doterajší odsek 8 sa označuje ako odsek 9.
 
 - 44. V § 24 ods. 9 sa slová „podľa odsekov 2 a 7“ nahrádzajú slovami „podľa odsekov 2, 7 a 8“.
+
+- 45. Za § 24 sa vkladajú § 24a a 24b, ktoré vrátane nadpisu znejú:
+
+- „Náhradné poistné plnenie z poistného garančného fondu
+
+- § 24a
+
+- (1)
+
+- Poškodený s trvalým pobytom alebo sídlom na území Slovenskej republiky má nárok na náhradné poistné plnenie z poistného garančného fondu (ďalej len „náhradné poistné plnenie"), ak
+
+- a)
+
+- do troch mesiacov odo dňa oznámenia poškodeného o škodovej udalosti poisťovateľ alebo jeho likvidačný zástupca zodpovedný za náhradu škody neposkytol poškodenému písomné vysvetlenie k nárokom na náhradu škody alebo
+
+- b)
+
+- poisťovateľ so sídlom v inom členskom štáte neurčil v Slovenskej republike likvidačného zástupcu zodpovedného za náhradu škody.
+
+- (2)
+
+- Poškodený nemá nárok na náhradné poistné plnenie, ak
+
+- a)
+
+- podľa odseku 1 písm. b) už uplatnil nárok na náhradu škody priamo proti poisťovateľovi a ak do troch mesiacov dostal písomné vysvetlenie od tohto poisťovateľa, alebo
+
+- b)
+
+- uplatnil nárok na náhradu škody proti príslušnému poisťovateľovi žalobou na súde.
+
+- (3)
+
+- Kancelária je povinná poskytnúť náhradné poistné plnenie alebo poskytnúť písomné vysvetlenie dôvodov, pre ktoré odmietla poskytnúť alebo pre ktoré znížila náhradné poistné plnenie, a to do dvoch mesiacov odo dňa uplatnenia nároku na náhradné poistné plnenie. Kancelária neposkytne náhradné poistné plnenie alebo písomné vysvetlenie, ak poisťovateľ alebo jeho likvidačný zástupca poskytne poškodenému poistné plnenie alebo písomné vysvetlenie dôvodov, pre ktoré odmieta poskytnúť alebo pre ktoré znížil poistné plnenie.
+
+- (4)
+
+- Výplatou náhradného poistného plnenia prechádzajú práva poškodeného proti osobe, ktorá zodpovedá za škodu, alebo proti jej poisťovateľovi na kanceláriu.
+
+- (5)
+
+- Kancelária bez zbytočného odkladu po uplatnení nároku na náhradné poistné plnenie písomne o tom informuje
+
+- a)
+
+- poisťovateľa, u ktorého poistený uzavrel poistnú zmluvu, alebo jeho likvidačného zástupcu,
+
+- b)
+
+- subjekt zodpovedný za náhradu škody v členskom štáte, v ktorom má sídlo poisťovateľ, ktorý uzavrel poistnú zmluvu týkajúcu sa motorového vozidla, ktorého prevádzkou bola spôsobená škoda,
+
+- c)
+
+- osobu, ktorá spôsobila škodu, ak je známa.
+
+- (6)
+
+- Kancelária má právo na náhradu za náhradné poistné plnenie, ktoré vyplatila poškodenému, od subjektu zodpovedného za náhradu škody v členskom štáte, v ktorom má sídlo poisťovateľ, ktorý uzavrel poistnú zmluvu týkajúcu sa motorového vozidla, ktorého prevádzkou bola spôsobená škoda.
+
+- (7)
+
+- Kancelária je povinná bez zbytočného odkladu nahradiť subjektu zodpovednému za náhradu škody v členskom štáte náhradné poistné plnenie poskytnuté poškodenému s trvalým pobytom alebo sídlom v tomto členskom štáte, ktoré si tento subjekt uplatnil proti kancelárii.
+
+- § 24b
+
+- (1)
+
+- Poškodený s trvalým pobytom alebo sídlom na území Slovenskej republiky má právo na náhradné poistné plnenie v rozsahu, v akom je kancelária povinná plniť z garančného fondu podľa tohto zákona, aj vtedy, ak
+
+- a)
+
+- nie je možné zistiť motorové vozidlo, ktorého prevádzkou bola na území iného členského štátu spôsobená škoda, alebo
+
+- b)
+
+- do dvoch mesiacov od vzniku škody spôsobenej prevádzkou motorového vozidla nie je možné zistiť poisťovateľa zodpovedného za náhradu škody.
+
+- (2)
+
+- Kancelária má právo na náhradu za náhradné poistné plnenie, ktoré vyplatila poškodenému podľa odseku 1, proti subjektu zodpovednému za náhradu škody v členskom štáte, na ktorého území
+
+- a)
+
+- sa motorové vozidlo spravidla nachádza, ak nie je možné zistiť poisťovateľa zodpovedného za náhradu škody spôsobenej týmto motorovým vozidlom,
+
+- b)
+
+- bola spôsobená škoda, ak nie je možné zistiť motorové vozidlo, ktorého prevádzkou bola spôsobená škoda,
+
+- c)
+
+- bola spôsobená škoda, ak bola škoda spôsobená prevádzkou motorového vozidla, ktoré sa spravidla nachádza na území iného ako členského štátu.
+
+- (3)
+
+- Ustanovenia § 24a ods. 4 a 7 sa použijú rovnako, ak ide o náhradné poistné plnenie podľa odseku 1.“.
 
 - 46. V § 25 odsek 2 znie:
 
@@ -262,6 +440,10 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - obchodné mená a sídla poisťovateľov, obchodné mená a adresy pobočiek poisťovateľov zriadených v iných členských štátoch,
 
+- e)
+
+- mená, priezviská a adresy likvidačných zástupcov alebo ich obchodné mená a sídla.
+
 - (6)
 
 - Poškodený je oprávnený počas siedmich rokov od vzniku škodovej udalosti požadovať od kancelárie tieto údaje:
@@ -274,6 +456,10 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 
 - číslo poistnej zmluvy týkajúcej sa poistenia zodpovednosti uzavretej poisťovateľom podľa písmena a),
 
+- c)
+
+- meno, priezvisko a adresu likvidačného zástupcu alebo jeho obchodné meno a sídlo, ak má poškodený trvalý pobyt v inom členskom štáte,
+
 - d)
 
 - meno, priezvisko a adresu držiteľa, vlastníka alebo prevádzkovateľa motorového vozidla alebo jeho obchodné meno a sídlo.
@@ -281,6 +467,34 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 - (7)
 
 - Údaje podľa odseku 6 je kancelária povinná bez zbytočného odkladu poskytnúť poškodenému.
+
+- (8)
+
+- Kancelária je povinná okrem údajov podľa odseku 5 uchovávať zoznamy motorových vozidiel, na ktoré sa vzťahuje výnimka z poistenia zodpovednosti, odovzdané členskými štátmi Komisii Európskych spoločenstiev a kancelárii spolu s určením subjektu zodpovedného za náhradu škody spôsobenej prevádzkou týchto motorových vozidiel.
+
+- (9)
+
+- Údaje týkajúce sa motorových vozidiel, ktoré sa spravidla nachádzajú na území iného členského štátu, získava kancelária prostredníctvom informačných stredísk týchto členských štátov.
+
+- (10)
+
+- Na základe písomnej žiadosti poškodeného, ktorému bola spôsobená škoda na území Slovenskej republiky motorovým vozidlom, ktoré sa spravidla nachádza na území iného členského štátu, je kancelária povinná poskytnúť údaje o
+
+- a)
+
+- území, na ktorom sa toto motorové vozidlo spravidla nachádza, a jeho evidenčnom čísle, ak mu bolo pridelené,
+
+- b)
+
+- poistení zodpovednosti motorového vozidla v rozsahu údajov uvedených v zelenej karte vydanej v členskom štáte, na ktorého území sa motorové vozidlo spravidla nachádza,
+
+- c)
+
+- subjekte zodpovednom za náhradu škody spôsobenej prevádzkou motorového vozidla, na ktoré sa vzťahuje výnimka z poistenia zodpovednosti podľa odseku 8.
+
+- (11)
+
+- Údaje podľa odseku 10 je kancelária povinná poskytnúť nielen poškodenému, ale aj príslušnému informačnému stredisku členského štátu, na ktorého území sa motorové vozidlo spravidla nachádza a ktorým bola na území Slovenskej republiky spôsobená škoda.
 
 - (12)
 
@@ -309,6 +523,10 @@ Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu 
 - (1)
 
 - Ustanovenie § 28 ods. 5 sa v roku 2004 neuplatní.
+
+- (2)
+
+- Poisťovateľ je povinný určiť svojho likvidačného zástupcu podľa § 15a najneskôr do troch mesiacov odo dňa nadobudnutia platnosti Zmluvy o pristúpení Slovenskej republiky k Európskej únii.
 
 - (3)
 
