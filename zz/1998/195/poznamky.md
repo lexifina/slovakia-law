@@ -143,3 +143,5 @@
 - 69) § 166 až 168 Trestného zákona.
 
 - 70) Zákon Slovenskej národnej rady č. 518/1990 Zb. o prechode zakladateľskej alebo zriaďovateľskej funkcie národných výborov na obce, ústredné orgány štátnej správy a orgány miestnej štátnej správy.
+
+- 71) § 41 až 43b, § 47, § 49 až 52 a § 77 ods. 2 vyhlášky Ministerstva zdravotníctva a sociálnych vecí Slovenskej socialistickej republiky č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení neskorších predpisov.
