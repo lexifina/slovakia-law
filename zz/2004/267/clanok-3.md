@@ -7,3 +7,9 @@ Zákon č. 335/1991 Zb. o súdoch a sudcoch v znení zákona č. 412/1991 Zb., z
 - „(4)
 
 - Ustanovenia § 19e a 19f sa vzťahujú rovnako na osoby určené na najvyššom súde na plnenie úloh pri rozhodovaní o opravných prostriedkoch proti rozhodnutiam Špeciálneho súdu.“.
+
+- 2. Za § 63 sa vkladá § 64, ktorý znie:
+
+- „§ 64
+
+- Ak nie je na Špeciálnom súde ustanovený senát alebo ak z iného dôvodu nemôže Špeciálny súd vykonávať svoju právomoc podľa tohto zákona alebo osobitného zákona,<sup>1a</sup>) vykonáva ju Krajský súd v Banskej Bystrici.“.
