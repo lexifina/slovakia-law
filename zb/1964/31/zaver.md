@@ -1,3 +1,0 @@
-Minister:
-
-Hamouz v. r.
