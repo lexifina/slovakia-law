@@ -60,7 +60,7 @@ Výnimky:
 
 2. Zákaz dovozu vecí uvedených v bodoch 4 a 5 sa neuplatní, ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska alebo ako zariadenie domácnosti určené na vybavenie jej domácnosti v mieste jej prechodného pobytu.
 
-3. Zákaz dovozu vecí uvedených v bodoch 7 až 9 sa neuplatní, ak ide o veci osobnej potreby zasielané v súvislosti s pobytom v zahraničí alebo ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska.
+3. Zákaz dovozu vecí uvedených v bodoch 7 až 9 sa neuplatní, ak ide o veci osobnej potreby dovážané cestujúcim alebo zasielané v súvislosti s jeho pobytom v zahraničí alebo ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska.
 
 4. Zákaz dovozu vecí uvedených v bodoch 10 až 14 sa neuplatní,
 
@@ -71,3 +71,7 @@ b) ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v
 c) pri dovoze týchto vecí právnickou osobou alebo fyzickou osobou na charitatívne účely, ak dovozca priloží doklad z krajiny vývozu o dezinfekcii alebo o odbornom vyčistení vecí a súhlas na ich dovoz od príslušného orgánu hygieny Slovenskej republiky.
 
 5. Zákaz dovozu vecí uvedených v bode 15 sa neuplatní, ak ide o veci, ktoré sú osobným majetkom fyzickej osoby a dovážajú sa v súvislosti s jej sťahovaním zo zahraničia do tuzemska alebo ako zariadenie domácnosti určené na vybavenie jej domácnosti v mieste jej prechodného pobytu.
+
+6. Zákaz dovozu vecí uvedených v bodoch 10 a 11 sa neuplatní, ak ide o veci v balíkových zásielkach v poštovom styku zasielané fyzickou osobou zo zahraničia v primeranom množstve fyzickej osobe v tuzemsku.
+
+7. Zákaz dovozu vecí uvedených v bodoch 4, 5, 10, 11, 13 až 15 sa neuplatní, ak ide o veci preukázateľne získané v zahraničí dedením.
