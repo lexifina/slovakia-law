@@ -1,1 +1,0 @@
-- *) Vyhláška č. 152/1959 Ú. l. (Ú. v.) o dokumentácii stavieb.
