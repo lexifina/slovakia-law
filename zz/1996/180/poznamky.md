@@ -18,6 +18,10 @@
 
 - 7a) § 17 zákona č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov.
 
+- 7aa) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+
+- 7ab) § 38 ods. 3 písm. c) zákona č. 21/1992 Zb. v znení neskorších predpisov.
+
 - 7b) Zákon č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov.
 
 - 7c) Zákon č. 383/1997 Z. z.
@@ -36,6 +40,12 @@
 
 - 12b) § 89 ods. 5 Trestného zákona.
 
+- 12ba) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
+
+- 12bb) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
+
+- 12bc) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+
 - 12c) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
 - 12d) § 41 ods. 2 Trestného zákona v znení neskorších predpisov.
@@ -51,6 +61,8 @@
 - 16) Oznámenie Federálneho ministerstva zahraničných vecí č. 572/1992 Zb. o dojednaní Dohovoru o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín CITES.
 
 - 17) Zákon č. 58/1969 Zb. o zodpovednosti za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom v znení neskorších predpisov.
+
+- 17a) Napríklad § 8 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 15/1998 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb v znení neskorších predpisov.
 
 - 18) § 2 ods. 9 zákona č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
 
@@ -89,6 +101,12 @@
 - 35) § 251 Občianskeho súdneho poriadku.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
+
+- 36a) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 36b) § 31 a 54 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+
+- 36c) § 20, 31 a 56 zákona č. 328/1991 Zb. v znení neskorších predpisov.
 
 - 37) Napríklad zákon č. 174/1950 Zb. o dražbách mimo exekúcie v znení neskorších predpisov.
 
