@@ -1,0 +1,15 @@
+## 321
+
+OZNÁMENIE
+
+Ministerstva pôdohospodárstva Slovenskej republiky
+
+Ministerstvo pôdohospodárstva Slovenskej republiky po dohode s Ministerstvom financií Slovenskej republiky vydalo podľa § 16 ods. 3 zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1994 a o zmenách niektorých ďalších zákonov v znení zákona Národnej rady Slovenskej republiky č. 58/1995 Z. z.
+
+výnos z 12. októbra 1998 č. 2214/1998-100, ktorým sa mení a dopĺňa výnos Ministerstva pôdohospodárstva Slovenskej republiky z 18. februára 1997 č. 307/1997-100 o poskytovaní dotácií zo štátneho rozpočtu v pôsobnosti Ministerstva pôdohospodárstva Slovenskej republiky v znení výnosu z 27. novembra 1997 č. 2582/1997-100, výnosu z 28. januára 1998 č. 116/1998-100 a výnosu zo 14. mája 1998 č. 847/1998-100.
+
+Výnosom sa rozširujú dotačné tituly o dotácie na čiastočnú úhradu úrokov z úverov poskytnutých na nadobudnuté záložné listy skladiskových záložných listov a čiastočnú úhradu úrokov z úverov zabezpečených záložným právom k tovaru, na ktorý znie vydaný tovarový záložný list.
+
+Výnos nadobúda účinnosť dňom vyhlásenia v Zbierke zákonov Slovenskej republiky.
+
+Výnos je uverejnený v čiastke 23/1998 Vestníka Ministerstva pôdohospodárstva Slovenskej republiky a možno doň nazrieť na Ministerstve pôdohospodárstva Slovenskej republiky.
