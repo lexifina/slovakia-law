@@ -1,6 +1,6 @@
 # § 19a Výberové konanie na riaditeľa podniku, predsedu a členov rady
 
-(1) Výberové konanie na riadiace a kontrolné funkcie podniku vyhlasuje zakladateľ v tlači alebo v iných všeobecne prístupných prostriedkoch masovej komunikácie najmenej päť týždňov pred jeho začatím s uvedením údajov, ktorými sú
+(1) Výberové konanie na riaditeľa, predsedu a členov rady, ktorých ustanovuje do funkcie na základe výberového konania zakladateľ, vyhlasuje zakladateľ v tlači alebo v iných všeobecne prístupných prostriedkoch masovej komunikácie najmenej päť týždňov pred jeho začatím s uvedením údajov, ktorými sú
 
 - a) názov podniku vrátane sídla podniku,
 
