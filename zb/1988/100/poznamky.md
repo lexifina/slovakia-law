@@ -20,6 +20,10 @@
 
 - 1ha) § 7 zákona č. 366/1999 Z. z. o daniach z príjmov.
 
+- 1hb) § 2 zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+
+- 1hc) § 36 až 45 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 1ch) Napríklad zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky.Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe.Zákon Národnej rady Slovenskej republiky č. 61/1993 Z. z. o zriadení Železničnej polície Slovenskej republiky. Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 1i) § 39 až 59 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
@@ -38,13 +42,7 @@
 
 - 3) §3 vyhlášky Štátneho úradu sociálneho zabezpečenia č. 1/1957 Ú. l. (Ú.v.), ktorou sa ustanovujú podrobnosti k prechodným ustanoveniam zákona o sociálnom zabezpečení.
 
-- 3a) § 3 ods. 1 zákona č. 351/1997 Z. z. Branný zákon.
-
-- 3b) § 26 až 28 zákona č. 114/1998 Z. z. o sociálnom zabezpečení vojakov.
-
-- 3c) § 29 až 32 zákona č. 114/1998 Z. z.
-
-- 3d) § 47 ods. 1 zákona č. 114/1998 Z. z.
+- 3d) Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 4) § 4 zákona č. 98/1987 Zb.
 
@@ -60,7 +58,7 @@
 
 - 7aa) § 16 ods. 8 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
-- 7ab) § 35 až 39 zákona č. 114/1998 Z. z.
+- 7ab) § 46 až 50 zákona č. 328/2002 Z. z.
 
 - 7ac) § 40 a 41 zákona č. 114/1998 Z. z.
 
