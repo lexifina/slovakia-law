@@ -9,3 +9,5 @@
 - 5) § 18 zákona č. 424/1991 Zb.
 
 - 6) § 53 ods. 3 zákona SNR č. 80/1990 Zb. o voľbách do Slovenskej národnej rady.
+
+- 7) § 54 ods. 3 zákona č. 47/1990 Zb. o voľbách do Federálneho zhromaždenia.
