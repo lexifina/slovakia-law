@@ -88,6 +88,42 @@ Zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplne
 
 - 11. V § 7 ods. 2 sa slová „e) a f)“ nahrádzajú slovami „e) až g)“.
 
+- 12. § 9 znie:
+
+- „§ 9
+
+- Kancelária súdnej rady
+
+- (1)
+
+- Úlohy spojené s organizačným, personálnym, administratívnym a technickým zabezpečením činnosti súdnej rady vykonáva kancelária súdnej rady.
+
+- (2)
+
+- Kanceláriu súdnej rady riadi a v jej mene vystupuje vedúci kancelárie súdnej rady. Vedúceho kancelárie súdnej rady vymenúva a odvoláva predseda súdnej rady, ktorému zodpovedá za jej činnosť.
+
+- (3)
+
+- Kancelária súdnej rady hospodári s finančnými prostriedkami vyčlenenými na jej činnosť zo samostatnej rozpočtovej kapitoly štátneho rozpočtu.
+
+- (4)
+
+- Úlohy kancelárie súdnej rady plnia štátni zamestnanci<sup>5a</sup>) a zamestnanci.<sup>5b</sup>)
+
+- (5)
+
+- Podrobnosti o organizácii a činnosti kancelárie súdnej rady a postavenie štátnych zamestnancov a zamestnancov kancelárie súdnej rady určuje organizačný poriadok, ktorý vydáva vedúci kancelárie súdnej rady.“.
+
+- Poznámky pod čiarou k odkazom 5a a 5b znejú:
+
+- „5a)
+
+- Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5b)
+
+- Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.“.
+
 - 13. Za § 27 sa vkladajú § 27a až 27i, ktoré vrátane nadpisov znejú:
 
 - „VOĽBA A ODVOLANIE PREDSEDU NAJVYŠŠIEHO SÚDU SLOVENSKEJ REPUBLIKY A PODPREDSEDU NAJVYŠŠIEHO SÚDU SLOVENSKEJ REPUBLIKY A USTANOVENIE DO ĎALŠÍCH FUNKCIÍ V PÔSOBNOSTI SÚDNEJ RADY
