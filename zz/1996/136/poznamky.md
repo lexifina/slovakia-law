@@ -1,9 +1,11 @@
-- 1) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+- 1) § 2 písm. g) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 2) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+- 2) § 18 a 19 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
-- 3) Zákon č. 214/1992 Zb. o burze cenných papierov v znení neskorších predpisov.
+- 3) § 1 ods. 1 písm. e) zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
-- 4) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+- 4) Zákon č. 600/1992 Zb. v znení neskorších predpisov.
 
-- 5) Zákon č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení neskorších predpisov.
+- 5) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
+
+- 6) § 2 písm. h) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
