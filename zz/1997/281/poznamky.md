@@ -1,5 +1,7 @@
 - 1) § 5 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
+- 1a) § 6 ods. 1 písm. v) zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
 - 2) Napríklad zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
 - 3) § 4 ods. 3 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona Slovenskej národnej rady č. 295/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 252/1994 Z. z.
