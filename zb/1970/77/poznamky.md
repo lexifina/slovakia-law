@@ -1,0 +1,1 @@
+- *) § 9 ods. 3 a 4 a § 11 ods. 3 vyhlášky č. 105/1964 Zb. v doterajšom znení.
