@@ -24,6 +24,8 @@
 
 - 9a) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste a o tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
 
+- 9b) § 156 Obchodného zákonníka v znení neskorších predpisov.
+
 - 10) Napr. § 22 ods. 1 zákona č. 92/1991 Zb.
 
 - 11) Napr. § 155 Obchodného zákonníka, § 3 zákona č. 530/1990 Zb., § 23 zákona č. 92/1991 Zb., § 11 zákona č. 248/1992 Zb.
@@ -38,6 +40,8 @@
 
 - 15) Napr. § 18 a 19 zákona č. 191/1950 Zb.
 
+- 15a) § 21 ods. 2 Obchodného zákonníka.
+
 - 16) Napr. § 156 ods. 3 Obchodného zákonníka, § 11 ods. 2 zákona č. 191/1950 Zb., § 7 zákona č. 528/1990 Zb. devízový zákon v znení zákona č. 228/1992 Zb.
 
 - 17) § 4 ods. 4 zákona č. 530/1990 Zb.
@@ -47,6 +51,8 @@
 - 18) Napr. § 16 zákona č. 191/1950 Zb., § 7 zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb.
 
 - 19) Napr. § 313 zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
+
+- 19a) Napríklad zákon č. 248/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
 - 20) § 577 a nasl. Obchodného zákonníka.
 
@@ -59,6 +65,8 @@
 - 24) Napr. § 19 zákona č. 191/1950 Zb.
 
 - 24a) § 24 ods. 1 zákona č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 24b) § 21 a § 28 ods. 3 Obchodného zákonníka.
 
 - 25) Zákon ČNR č. 200/1990 Zb. o priestupkoch.
 
@@ -83,6 +91,8 @@
 - 31) Zákon ČNR č. 337/1992 Zb. o správe daní a poplatkov.
 
 - Zákon SNR č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
+
+- 31a) § 2 ods. 1 písm. d) a § 4 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona Národnej rady Slovenskej republiky č. 251/1994 Z. z.
 
 - 32) § 24 zákona č. 214/1992 Zb.
 
@@ -110,9 +120,13 @@
 
 - 36) § 65 Obchodného zákonníka.
 
-- 36a) § 850 Občianskeho zákonníka.
+- 36a) § 159 Obchodného zákonníka.
 
-- 36b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+- 36b) § 66b Obchodného zákonníka v znení zákona č. 127/1999 Z. z.
+
+- 36ba) § 850 Občianskeho zákonníka.
+
+- 36bb) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 36c) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
