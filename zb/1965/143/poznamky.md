@@ -18,12 +18,6 @@
 
 - *) § 153 Zákonníka práce.
 
-- *) § 1 ods. 1, č. 1 písm. g) zákona č. 101/1964 Zb. o sociálnom zabezpečení a § 59 až 71 vyhlášky č. 102/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
-
-- **) § 18 ods. 4 až 6 zákona č. 54/1956 Zb. a čl. 14 až 22 vyhlášky č. 258/1956 Ú. l. (Ú. v.) o poskytovaní peňažných dávok v nemocenskom poistení zamestnancov.
-
-- ***) Ustanovenie § 2 ods. 2 zákona č. 103/1964 Zb. o sociálnom zabezpečení družstevných roľníkov.
-
 - *) § 2 vyhlášky č. 48/1961 Zb. o poskytovaní niektorých dávok nemocenského poistenia a dôchodkového zabezpečenia občanom, ktorí sa zúčastnia na príprave na obranu ČSSR.
 
 - **) Druhá časť vyhlášky č. 7/1958 Ú. l. (Ú. v.) o nemocenskom poistení sezónnych zamestnancov a pracovníkov na nepravidelnú výpomoc.
@@ -43,8 +37,6 @@
 - +) Pri cyklickej organizácii vyučovania je vyučovanie všeobecnovzdelávacích a odborných predmetov sústredené do jedného alebo viacerých dlhších období (cyklov) a v ostatných obdobiach prebieha odborný výcvik učňov.
 
 - ++) § 14 vyhlášky č. 84/1965 Zb.
-
-- *) § 70 Zákonníka práce.
 
 - **) Ak ide o súbeh zamestnania s činnosťou v jednotnom roľníckom družstve, ktoré zakladá účasť na sociálnom zabezpečení družstevných roľníkov, vylučuje sa suma presahujúca úhrn 100 Kčs denne pri priznávaní nemocenského v jednotnom roľníckom družstve (§ 29 ods. 2 zákona č. 103/1964 Zb. o sociálnom zabezpečení družstevných roľníkov).
 
@@ -124,17 +116,25 @@
 
 - 1) § 83 Zákonníka práce.
 
+- 1) § 18 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 148/1983 Zb. o zjednotení sadzieb nemocenského.
+
 - 2) § 21 vyhlášky č. 106/1972 Zb.
 
 - 2) Časť I prílohy nariadenia vlády Československej socialistickej republiky č. 74/1982 Zb. o niektorých úpravách v nemocenskom poistení a dôchodkovom zabezpečení pracujúcich v baníctve.
+
+- 2) § 84 a 85 Zákonníka práce.
 
 - 3) Napr. úprava Ministerstva baníctva č. 8 z 1. 4. 1967 o deputátnom uhlí a dreve v uhoľnom priemysle.
 
 - 3) Nariadenie vlády Československej socialistickej republiky č. 75/1982 Zb. o osobitnej dodatkovej dovolenke pracovníkov pracujúcich v podzemí hlbinných uhoľných a lignitových baní.
 
+- 3) Časť I a II prílohy nariadenia vlády ČSSR č. 74/1982 Zb.
+
 - 4) Napr. úprava Federálneho ministerstva palív a energetiky z 28. 9. 1973 č. 4/73 o mzdových podmienkach pracovníkov banskej záchrannej služby.
 
 - 4) § 18 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 87/1968 Zb. a § 14 až 20 vyhlášky č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení.
+
+- 4) Vyhláška ÚRO č. 165/1979 Zb. o nemocenskom poistení niektorých pracovníkov a o poskytovaní dávok nemocenského poistenia občanom v osobitných prípadoch.
 
 - 5) § 87 ods. 2 Zákonníka práce.
 
