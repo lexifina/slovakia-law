@@ -1,3 +1,0 @@
-# Článok 2
-
-Táto vyhláška nadobúda účinnosť 1. júlom 1964.
