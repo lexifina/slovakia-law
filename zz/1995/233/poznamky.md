@@ -32,11 +32,21 @@
 
 - 11) § 716 a nasl. Obchodného zákonníka.
 
-- 11a) § 2 Obchodného zákonníka.
+- 11a) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
+
+- Zákon č. 478/1992 Zb. o úžitkových vzoroch v znení neskorších predpisov.
+
+- Zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z. z.
+
+- Zákon č. 146/2000 Z. z. o ochrane topografií polovodičových výrobkov.
+
+- 11b) § 88 ods. 1, § 93 ods. 2, § 148 ods. 3 Obchodného zákonníka.
+
+- 11ba) § 2 Obchodného zákonníka.
 
 - § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb. a zákona č. 455/1991 Zb.
 
-- 11b) § 2 až 6 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
+- 11bb) § 2 až 6 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - § 7 nariadenia vlády Slovenskej republiky č. 95/1994 Z. z., ktorým sa vykonávajú niektoré ustanovenia zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z. týkajúce sa dlžníkov hospodáriacich na pôde.
 
@@ -44,11 +54,19 @@
 
 - 11d) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
 
+- 11e) § 9 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
+
+- 11f) § 10 zákona č. 130/1998 Z. z.
+
 - 12) § 2 písm. e) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 12b) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
 - 13) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
-- 13a) Napríklad zákon č. 600/1992 Zb. v znení neskorších predpisov, zákon č. 191/1950 Zb. zákon zmenkový a šekový, zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
+- 13a) § 20 zákona č. 330/2000 Z. z. o burze cenných papierov.
+
+- 13b) Napríklad zákon č. 600/1992 Zb. v znení neskorších predpisov, zákon č. 191/1950 Zb. zákon zmenkový a šekový, zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
 
 - 14) § 201 a nasl. Občianskeho súdneho poriadku.
 
