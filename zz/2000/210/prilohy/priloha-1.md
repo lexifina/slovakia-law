@@ -26,6 +26,8 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 1.1.6 | Skúšobné sitá<sup>2</sup>),<sup>9</sup>) | nie | áno | 2 roky | 56
 
+    - 1.1.7 | Automatické hladinomery<sup>2</sup>),<sup>3</sup>) | nie | áno | 1 rok | 68
+
     - 1.2 Plošný obsah
 
     - 1.2.1 | Meracie zariadenia na meranie plošného obsahu usní<sup>2</sup>) | áno | áno | 1 rok | 39
@@ -82,7 +84,15 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - | b) na teplú vodu | áno<sup>12</sup>) | áno | 4 roky | 9
 
-    - 1.3.16 | Prepočítavače množstva kvapalín | áno | áno | 2 roky | 12
+    - 1.3.16 | Prepočítavače množstva kvapalín vrátane pripojených prevodníkov:<sup>2</sup>) | áno | áno | 2 roky | 69
+
+    - | a) prevodníky prietoku | áno | áno | 2 roky | 10, 11, 12, 65
+
+    - | b) prevodníky teploty | áno | áno | 2 roky | 37
+
+    - | c) prevodníky tlaku | áno | áno | 2 roky | 33
+
+    - | d) prevodníky hustoty | áno | áno | 2 roky | 71
 
     - 1.3.17 | Plynomery membránové vrátane plynomerov s teplotnou korekciou<sup>2</sup>) | | | | 13
 
@@ -94,7 +104,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 1.3.19 | Hmotnostné prietokomery na plyny<sup>2</sup>) | áno | áno | 2 roky | 66
 
-    - 1.3.21 | Prepočítavače pretečeného množstva plynov vrátane pripojených prístrojov na meranie tlaku, teploty alebo hustoty<sup>2</sup>) | áno | áno | 5 rokov | 35 33, 37
+    - 1.3.21 | Prepočítavače pretečeného množstva plynu vrátane pripojených prevodníkov<sup>2</sup>) podliehajúcich pravidelnej skúške na mieste inštalácie jedenkrát za rok podľa prílohy č. 35 | áno | áno | 5 rokov | 35
 
     - 1.3.22 | Meradlá pretečeného objemu vody s voľnou hladinou | podľa prílohy č. 64 | áno | 2 roky | 64
 
@@ -106,7 +116,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
       - Meradlá uvedené v položkách 2.1.1 až 2.1.4 podliehajú pred uvedením na trh alebo do používania posudzovaniu zhody podľa osobitného predpisu<sup>13</sup>) a počas používania následnému overovaniu. Po vykonanej oprave podliehajú prvotnému overeniu.
 
-    - 2.1.1 | Váhy s neautomatickou činnosťou triedy presnosti II, III a IIII okrem váh uvedených v položkách 2.1.2, 2.1.3 a 2.1.4<sup>2</sup>),<sup>3</sup>),<sup>7</sup>) | - | po vykonanej oprave**) | 2 roky | <sup>15</sup>)
+    - 2.1.1 | Váhy s neautomatickou činnosťou triedy presnosti II, III a IIII okrem váh uvedených v položkách 2.1.2, 2.1.3 a 2.1.4<sup>2</sup>),<sup>3</sup>),<sup>7</sup>) | - | po vykonanej oprave<sup>14</sup>) | 2 roky | <sup>15</sup>)
 
     - 2.1.2 | Váhy s neautomatickou činnosťou na zisťovanie hmotnosti na nápravu alebo koleso koľajových a cestných vozidiel staticky<sup>3</sup>) | | | |
 
@@ -146,7 +156,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 2.3 Tlak
 
-    - 2.3.1 | Prístroje na meranie tlaku krvi mechanické a kvapalinové (deformačné a ortuťové)<sup>4</sup>) | áno | áno | 2 roky | 40
+    - 2.3.1 | Meradlá tlaku krvi - tonometre<sup>4</sup>) a) deformačné (mechanické) b) ortuťové (kvapalinové) | áno | áno | 2 roky | 40
 
     - 2.3.2 | Prevodníky tlaku používané v kafilérických zariadeniach<sup>3</sup>) | áno | áno | 1 rok | 33
 
@@ -180,11 +190,13 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - | b) elektronické | áno | áno | 2 roky | 32
 
-    - 3.1.2 | Teplomery používané na stanovenie sparného tepla pri bilančných meraniach<sup>2</sup>),<sup>3</sup>) | | | |
+    - 3.1.2 | Meradlá používané na stanovenie spalného tepla pri bilančných meraniach<sup>2</sup>),<sup>3</sup>) | | | |
 
-    - | a) sklené | áno | áno | 2 roky | 38
+    - | a) sklené teplomery | áno | áno | 2 roky | 38
 
-    - | b) elektrické | áno | áno | 2 roky | 37
+    - | b) elektrické snímače teplôt | áno | áno | 2 roky | 37
+
+    - | c) prevodníky teploty | áno | áno | 2 roky | 37
 
     - 3.1.3 | Teplomery používané v objemových meradlách na lieh<sup>2</sup>),<sup>3</sup>) | áno | áno | 3 roky | 38
 
@@ -196,11 +208,13 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - | b) prietokomery | áno | áno | 4 roky | 53
 
-    - | c) odporové snímače teploty | áno | áno | 4 roky | 37, 51
+    - | c) odporové snímače teploty | áno | áno | 4 roky | 37
 
     - | d) kalorimetrické počítadlá elektronické | áno | áno | 4 roky | 51
 
-    - | e) prevodníky tlaku | áno | áno | 1 rok | 33
+    - | e) prevodníky tlaku | áno | áno | 2 roky | 33
+
+    - | f) prevodníky teploty | áno | áno | 2 roky | 37
 
     - 3.1.6 | Kombinované snímače teploty určené pre jadrové elektrárne typu VVER 440 | áno | áno | 1 rok | 54
 
@@ -246,13 +260,15 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 7.1 Hustota
 
-    - 7.1.1 | Laboratórne hustomery s hodnotou dielika < 1 kg . m<sup>-3</sup> s výnimkou hustomerov na meranie zrnitosti zemín (Casagrande)<sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | -
+    - 7.1.1 | Laboratórne hustomery s hodnotou dielika < 1 kg . m<sup>-3</sup> s výnimkou hustomerov na meranie zrnitosti zemín (Casagrande)<sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | 70
 
     - 7.1.2 | Laboratórne liehomery s hodnotou dielika ≤ 0,2 %<sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | 16
 
-    - 7.1.3 | Laboratórne cukromery s hodnotou dielika 0,1 %<sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | -
+    - 7.1.3 | Laboratórne cukromery s hodnotou dielika 0,1 %<sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | 70
 
-    - 7.1.4 | Laboratórne muštomery s hodnotou dielika 0,2 kg . hl<sup>-1</sup><sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | -
+    - 7.1.4 | Laboratórne muštomery s hodnotou dielika 0,2 kg . hl<sup>-1</sup><sup>2</sup>),<sup>3</sup>) | áno | áno | bez obmedzenia | 70
+
+    - 7.1.5 | Vibračné hustomery na kvapaliny a plyny<sup>2</sup>),<sup>3</sup>) | áno | áno | 1 rok | 71
 
     - 7.2 Index lomu (Refraktometria)
 
@@ -288,7 +304,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
   - 8.7 | Meradlá a zostavy na meranie veličín rádioaktívnej premeny a dozimetrických veličín používané na kontrolu dodržiavania limitov v oblasti radiačnej ochrany alebo radiačnej bezpečnosti a na dôkazové meranie v rámci radiačnej monitorovacej siete<sup>3</sup>) | áno | áno | 2 roky | 41 43
 
-  - 8.8 | Osobné hlásiče vopred nastavenej úrovne dozimetrických veličín a priamo odčítacie osobné dozimetre<sup>3</sup>) | áno | áno | 2 roky | 41
+  - 8.8 | Priamo odčítacie osobné dozimetre a osobné dozimetre signalizujúce prekročenie vopred nastavenej úrovne dozimetrických veličín, ktoré sa nepoužívajú súčasne s určenými meradlami uvedenými v položke 8.6<sup>3</sup>) | áno | áno | 2 roky | 41
 
   - 8.9 | Meradlá kvality zväzkov a zdrojov rôntgenového žiarenia<sup>3</sup>),<sup>4</sup>) | áno | áno | 2 roky | 41
 
