@@ -8,9 +8,9 @@ Príloha vyhlášky č. 505/1991 Zb.
 
     - (2) JCD je návrhom na colné konanie na prepustenie dovážaného alebo vyvážaného tovaru do voľného alebo záznamového obehu a na uskladnenie v tuzemsku alebo v cudzine.
 
-    - (3) Základná JCD sa skladá z troch listov tvoriacich zložku. Prvý list označený po ľavej strane číslami 1 a 6 je určený pre colnicu, ktorá rozhoduje o prepustení dovážaného alebo vyvážaného tovaru. Druhý list s číslami 2 a 7 sa využíva na štatistické účely a tretí list označený číslami 3 a 8 sa odovzdáva účastníkovi colného konania alebo jeho zástupcovi ako rozhodnutie o prepustení tovaru a výmer cla alebo iných daní a poplatkov, ak ich colnica vyberá. Jednotlivé listy JCD sú navyše po pravej strane odlíšené farebne. Prerušované vyhotovenie farebnej čiary na pravom okraji JCD vyznačuje použitie dokladu pri dovoze, plné pri vývoze.
+    - (3) Základná JCD sa skladá z troch listov tvoriacich zložku. Prvý list označený po ľavej strane číslami 1 a 6 je určený pre colnicu, ktorá rozhoduje o prepustení dovážaného alebo vyvážaného tovaru. Druhý list s číslami 2 a 7 sa využíva na štatistické účely a tretí list označený číslami 3 a 8 sa odovzdáva účastníkovi colného konania alebo jeho zástupcovi ako rozhodnutie o prepustení tovaru a výmer cla alebo iných daní a poplatkov, ak ich colnica vyberá. Jednotlivé listy JCD sú navyše po pravej strane odlíšené farebne. Červené označenie určuje, že list patrí colnici, zeleno označený, že sa využíva pre štatistiku, a žlto označený slúži účastníkovi colného konania.
 
-    - (4) Ak treba na jednu JCD, ktorá je určená iba na deklaráciu jednej položky tovaru, uviesť viaceré položky, prikladá sa k základnému tlačivu jedno alebo viac tlačív „Jednotnej colnej deklarácie doplnkovej“ (ďalej len „JCDd“). Počet jej listov a ich využitie aj obeh je totožný s JCD, s ktorou sa predkladá a ktorej prílohu tvorí.
+    - (4) Ak treba na jednu JCD, ktorá je určená iba na deklaráciu jednej položky tovaru, uviesť viac položiek, prikladá sa k základnému tlačivu JCD jedno alebo viac, maximálne však deväťdesiatdeväť, tlačív „Jednotnej colnej deklarácie doplnkovej“ (ďalej len „JCDd“). Ak zásielka obsahuje toľko položiek tovaru, že priložených 99 JCDd nestačí, uvedú sa ďalšie položky tovaru na novú JCD, prípadne doplnenú JCDd. Počet jej listov a ich využitie aj obeh je totožný s JCD, s ktorou sa predkladá a ktorej prílohu tvorí.
 
     - (5) Ako tlačivá JCD a JCDd možno používať iba formuláre v predpísanej kvalite papieru s nanesenou samokopírovacou vrstvou a presným vyhotovením predtlače, zodpovedajúce predpísaným tlačivám.
 
@@ -32,7 +32,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
     - (11) Odsek 1 JCD a JCDd je rozdelený na tri časti.
 
-      - Do ľavej sa uvádzajú tieto kódy:
+      - Do ľavej časti JCD sa uvádzajú tieto kódy:
 
       - IM - pri dovoze tovaru do voľného obehu v tuzemsku
 
@@ -48,7 +48,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
       - RX - pri nepriamom reexporte.
 
-      - Stredná a pravá časť odseku 1 sa nevypĺňa a zostáva prázdna.
+      - Stredná a pravá časť odseku 1 sa nevypĺňa a zostáva prázdna. Ods. 1 JCDd sa nemusí vyplniť vôbec.
 
       - Odsek 2 JCD
 
@@ -82,7 +82,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
       - Odsek 9 JCD
 
-    - (19) Odsek sa nevypĺňa.
+    - (19) Do pravého horného rohu odseku sa pri dovoze uvádza kód „A“ v prípadoch, keď je účastník colného konania platiteľom dane z obratu a nie je povinný s JCDd predkladať colnici hlásenie o dovoznej dani v súlade s ustanovením zákona č. 530/1991 Zb. o dovoznej dani.
 
       - Odsek 10 JCD
 
@@ -102,9 +102,9 @@ Príloha vyhlášky č. 505/1991 Zb.
 
       - Odsek 14 JCD
 
-    - (24) Odsek je vyhradený pre uvedenie názvu (mena) a sídla (bydliska) účastníka colného konania (dovozcu alebo vývozcu). Do pravého horného rohu sa uvádza jeho IČO alebo deväťmiestne colné registračné číslo. Toto colné registračné číslo prideľuje účastníkovi colného konania, resp. oprávnenej fyzickej alebo právnickej osobe, ktorá predpokladá, že bude uskutočňovať dovozy alebo vývozy tovaru, na jeho žiadosť colná odbočka tej colnice, v ktorej územnom obvode má sídlo alebo bydlisko. Ak účastník colného konania nemá sídlo alebo bydlisko na území ČSFR, môže požiadať o pridelenie colného registračného čísla ktorúkoľvek vnútrozemskú colnú odbočku.
+    - (24) Odsek je vyhradený pre uvedenie názvu (mena) a sídla (bydliska) účastníka colného konania (dovozcu alebo vývozcu). Do pravého horného rohu sa uvádza jeho IČO alebo deväťmiestne colné registračné číslo. Toto colné registračné číslo prideľuje účastníkovi colného konania, resp. oprávnenej fyzickej alebo právnickej osobe, ktorá nemá pridelené IČO a predpokladá, že bude uskutočňovať dovozy alebo vývozy tovaru, na jeho žiadosť colná odbočka tej colnice, v ktorej územnom obvode má sídlo alebo bydlisko. Ak účastník colného konania nemá sídlo alebo bydlisko na území ČSFR, môže požiadať o pridelenie colného registračného čísla ktorúkoľvek vnútrozemskú colnú odbočku.
 
-      - Na pridelenie colného registračného čísla musí žiadateľ predložiť colnej odbočke výpis z podnikového alebo podobného registra, doklad o pridelení IČO, prípadne povolenie podľa osobitných predpisov, ak je na zamýšľané dovozy alebo vývozy potrebné. K žiadosti o pridelenie colného registračného čísla sa colnej odbočke nepredkladá úradné povolenie na dovoz alebo vývoz tovaru a služieb (licencia), ktoré sa vzťahuje na konkrétnu zásielku.
+      - Na pridelenie colného registračného čísla predkladá žiadateľ colnej odbočke doklad osvedčujúci oprávnenie na podnikanie.
 
       - O pridelení colného registračného čísla vydá colnica žiadateľovi písomné potvrdenie. Týmto potvrdením alebo jeho fotokópiou sa účastník colného konania preukazuje colnici pri predkladaní JCD. Pri predložení potvrdenia o pridelení colného registračného čísla účastník colného konania alebo jeho zástupca nepredkladá colnici, ktorá má rozhodnúť o prepustení tovaru do navrhnutého obehu, doklady potrebné na pridelenie colného registračného čísla.
 
@@ -215,6 +215,8 @@ Príloha vyhlášky č. 505/1991 Zb.
       - Odsek 36 JCD a JCDd
 
     - (49) Uvedením jednomiestneho číselného kódu do tohto odseku uplatňuje účastník colného konania alebo jeho zástupca nárok na oslobodenie od dovozného cla.
+
+      - Kód „1“ vyjadruje nárok na úplné alebo čiastočné oslobodenie od cla v rámci preferenčného zaobchádzania s tovarom dovážaným z vybraných krajín (napr. krajín Európskych spoločenstiev).
 
       - Kód „2“ vyjadruje nárok na oslobodenie od dovozného cla na základe medzinárodnej zmluve o vzájomnom odstránení ciel.<sup>10</sup>)
 
@@ -416,7 +418,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
     - (91) Ak účastník colného konania požaduje povolenie zámeny zaznamenaného tovaru (napr. pri opravách vykonávaných výmenným spôsobom), musí túto skutočnosť uviesť medzi údajmi o tom, ako sa bude s tovarom v určenej dobe nakladať.
 
-    - (92) V prípade, že na JCD pre záznamový obeh tovaru treba deklarovať väčší počet položiek tovaru, môže účastník colného konania alebo jeho zástupca uviesť do ods. 31 a 33 predloženej JCD odvolanie na prílohu a súčasne neuvádzať predpísané údaje do ods. 31 až 53, s výnimkou ods. 49 JCD. V tomto prípade musí k JCD priložiť zoznam prepúšťaných položiek tovaru s uvedenými množstvovými a hodnotovými údajmi pri každej jednotlivej položke, nemusí v ňom vyznačovať číselné kódy tovaru podľa colného sadzobníka. Tento zjednodušený spôsob deklarácie tovaru prepúšťaného do záznamového obehu môže colnica povoliť najmä pri dovozoch a vývozoch inštalačného materiálu pre výstavy a veľtrhy a tovaru potrebného na výkon povolania. Takto deklarovať položky tovaru nemožno, ak treba na zrušovanie záznamu tovaru predložiť JCD na štatistické účely (pozri ods. 98 a 99 tejto prílohy).
+    - (92) V prípade, že na JCD pre záznamový obeh tovaru treba deklarovať väčší počet položiek tovaru, môže účastník colného konania alebo jeho zástupca uviesť do ods. 31 a 33 predloženej JCD odvolanie na prílohu a súčasne neuvádzať predpísané údaje do ods. 31 až 53, s výnimkou ods. 44 JCD. V tomto prípade musí k JCD priložiť zoznam prepúšťaných položiek tovaru s uvedenými množstvovými a hodnotovými údajmi pri každej jednotlivej položke, nemusí v ňom vyznačovať číselné kódy tovaru podľa colného sadzobníka. Tento zjednodušený spôsob deklarácie tovaru prepúšťaného do záznamového obehu môže colnica povoliť najmä pri dovozoch a vývozoch inštalačného materiálu pre výstavy a veľtrhy a tovaru potrebného na výkon povolania. Takto deklarovať položky tovaru nemožno, ak treba na zrušovanie záznamu tovaru predložiť JCD na štatistické účely (pozri ods. 98 a 99 tejto prílohy).
 
     - (93) JCD, s prípadne priloženými JCDd alebo zoznamami položiek tovaru, na ktorých základe colnica prepustila tovar do záznamového obehu v tuzemsku alebo v cudzine, je colnou záznamkou (ďalej len „DVZ“) a v prípade prepustenia na uskladnenie v tuzemsku, rozhodnutím o uskladnení tovaru (ďalej len „RU“). Tovar uvedený na DVZ alebo RU možno realizovať jednorazovo alebo postupne spätným vývozom alebo dovozom a prepustením zo záznamového obehu alebo uskladnenia v tuzemsku do voľného obehu v tuzemsku alebo zo záznamového obehu v cudzine do voľného obehu v cudzine. Pri zrušovaní DVZ alebo RU (ukončení alebo postupnom odpisovaní) je účastník colného konania alebo jeho zástupca vždy povinný predložiť colnici príslušný diel DVZ (diel 3/8 JCD a JCDd). Úplné zrušenie DVZ alebo RU vyznačí colnica, ktorá má tovar vo svojej evidencii, do všetkých dielov JCD.
 
@@ -472,9 +474,13 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - AR | Argentína
 
+- AM | Arménsko
+
 - AW | Aruba
 
 - AU | Austrália
+
+- AZ | Azerbajdžan
 
 - BS | Bahamy
 
@@ -492,11 +498,13 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - BM | Bermudy
 
-- BY | Bieloruská sovietska soc. republika
+- BY | Bielorusko
 
 - BT | Bhután
 
 - BO | Bolívia
+
+- BA | Bosna a Hercegovina
 
 - BW | Botswana
 
@@ -526,6 +534,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - CS | Česko-Slovensko
 
+- ME | Čierna Hora
+
 - CN | Čína
 
 - DK | Dánsko
@@ -540,7 +550,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - EC | Ecuádor
 
-- EO | Estónsko
+- EE | Estónsko
 
 - ET | Etiópia
 
@@ -574,6 +584,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - GL | Grónsko
 
+- GZ | Gruzínsko
+
 - GP | Guadeloupe
 
 - GU | Guam
@@ -597,6 +609,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 - HK | Hongkong
 
 - CL | Chile
+
+- HR | Chorvátsko
 
 - IN | India
 
@@ -636,7 +650,11 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - QA | Katar
 
+- KZ | Kazachstan
+
 - KE | Keňa
+
+- KG | Kirgizsko
 
 - KI | Kiribati
 
@@ -670,13 +688,15 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - LI | Lichtenštajnsko
 
-- LT | Litva
+- LV | Litva
 
-- LO | Lotyšsko
+- LT | Lotyšsko
 
 - LU | Luxembursko
 
 - MO | Macao
+
+- MK | Macedónsko
 
 - MG | Madagaskar
 
@@ -707,6 +727,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 - MX | Mexiko
 
 - FM | Mikronézia
+
+- MD | Moldavsko
 
 - MC | Monako
 
@@ -774,6 +796,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - RO | Rumunsko
 
+- RU | Rusko
+
 - RW | Rwanda
 
 - GR | Grécko
@@ -798,6 +822,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - SO | Somálsko
 
+- SI | Slovinsko
+
 - VU | Súostrovie Vanuatu
 
 - SU | Sovietsky zväz
@@ -807,6 +833,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 - US | Spojené štáty americké
 
 - DE | Spolková republika Nemecko
+
+- SQ | Srbsko
 
 - LK | Srí Lanka
 
@@ -840,6 +868,8 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - CH | Švajčiarsko
 
+- TJ | Tadžikistan
+
 - IT | Taliansko
 
 - TZ | Tanzánia
@@ -860,15 +890,19 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - TR | Turecko
 
+- TM | Turkménsko
+
 - TC | Turks a Caicos
 
 - TV | Tuvalu
 
 - UG | Uganda
 
-- UA | Ukrajinská sovietska socialistická republika
+- UA | Ukrajina
 
 - UY | Uruguaj
+
+- UZ | Uzbekistan
 
 - CX | Vianočný ostrov
 
@@ -1138,6 +1172,48 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - GHC | Cedi
 
+- XXA | clearing Arménsko
+
+- XXJ | clearing Azerbajdžan
+
+- XXB | clearing Bielorusko
+
+- XXE | clearing Estónsko
+
+- XXG | clearing Gruzínsko
+
+- XXK | clearing Kazachstan
+
+- XXI | clearing Kirgizsko
+
+- XXL | clearing Litva
+
+- XXO | clearing Lotyšsko
+
+- XXM | clearing Moldavsko
+
+- XXR | clearing Rusko
+
+- XXT | clearing Tadžikistan
+
+- XXN | clearing Turkménsko
+
+- XXU | clearing Ukrajina
+
+- XXZ | clearing Uzbekistan
+
+- XXH | clearing Bosna a Hercegovina
+
+- XXP | clearing Čierna Hora
+
+- XXC | clearing Chorvátsko
+
+- XXD | clearing Macedónsko
+
+- XXV | clearing Slovinsko
+
+- XXS | clearing Srbsko
+
 - CRC | Colón kostarický
 
 - SVC | Colón salvadorský
@@ -1330,6 +1406,48 @@ Príloha vyhlášky č. 505/1991 Zb.
 
 - DEM | Marka SRN
 
+- AMX | mena Arménska
+
+- AZX | mena Azerbajdžanu
+
+- BYX | mena Bieloruska
+
+- EEX | mena Estónska
+
+- GZX | mena Gruzínska
+
+- KZX | mena Kazachstanu
+
+- KGX | mena Kirgizska
+
+- LVX | mena Litvy
+
+- LTX | mena Lotyšska
+
+- MDX | mena Moldavska
+
+- RUX | mena Ruska
+
+- TJX | mena Tadžikistanu
+
+- TMX | mena Turkménska
+
+- UAX | mena Ukrajiny
+
+- UZX | mena Uzbekistanu
+
+- BAX | mena Bosny a Hercegoviny
+
+- MEX | mena Čiernej Hory
+
+- HRX | mena Chorvátska
+
+- MKX | mena Macedónska
+
+- SIX | mena Slovinska
+
+- SQX | mena Srbska
+
 - MZM | Metical
 
 - NGN | Naira
@@ -1470,7 +1588,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
   - Kód Vysvetlivky
 
-  - 11 Používa sa pri priamych dovozoch za odplatu, pri ktorých sa tovar dováža z cudziny za finančnú úhradu a prepúšťa do voľného obehu v tuzemsku. Nepatria sem prípady, keď sa prepúšťa tovar do voľného obehu v tuzemsku v súvislosti so zrušovaním dovoznej colnej záznamky (účel = kód 13), výmenné obchody (účel = kód 12), realizácia tovaru uskladneného v tuzemsku (účel = kód 15), dovozy dokumentácie za odplatu (účel = kód 17) a prípady, keď sa JCD, resp. JCDd predkladá pri zrušovaní vývoznej colnej záznamky v súvislosti s vykazovaním hodnoty prepracovania alebo úpravy tovaru v cudzine a hodnoty platenej opravy v cudzine (účely = kódy 73 a 75) alebo pri zrušovaní dovoznej colnej záznamky pri platenom prenájme v tuzemsku (účel = kód 74) a bezodplatnom požičaní do tuzemska (účel = kód 76), ako aj tovar prepúšťaný do voľného obehu v tuzemsku zo slobodného colného pásma v tuzemsku (účel = kód 14) a dovozy tovaru, za ktorý sa z cudziny poskytuje úhrada (účel = kód 16). Zahŕňajú sa sem však dovozy obchodných vzoriek za odplatu, použiteľný odpad vzniknutý pri aktívnom prepracovaní alebo úprave a prídavky k tovaru späť dovážanému zo záznamového obehu v cudzine.
+  - 11 Používa sa pri priamych dovozoch za odplatu, pri ktorých sa tovar dováža z cudziny za finančnú úhradu a prepúšťa do voľného obehu v tuzemsku. Nepatria sem prípady, keď sa prepúšťa tovar do voľného obehu v tuzemsku v súvislosti so zrušovaním dovoznej colnej záznamky (účel = kód 13), výmenné obchody (účel = kód 12), realizácia tovaru uskladneného v tuzemsku (účel = kód 15), dovozy dokumentácie za odplatu (účel = kód 17) a prípady, keď sa JCD, resp. JCDd predkladá pri zrušovaní vývoznej colnej záznamky v súvislosti s vykazovaním hodnoty prepracovania alebo úpravy tovaru v cudzine a hodnoty platenej opravy v cudzine (účely = kódy 73 a 75) alebo pri zrušovaní dovoznej colnej záznamky pri platenom prenájme v tuzemsku (účel = kód 72) a bezodplatnom požičaní do tuzemska (účel = kód 76), ako aj tovar prepúšťaný do voľného obehu v tuzemsku zo slobodného colného pásma v tuzemsku (účel = kód 14) a dovozy tovaru, za ktorý sa z cudziny poskytuje úhrada (účel = kód 16). Zahŕňajú sa sem však dovozy obchodných vzoriek za odplatu, použiteľný odpad vzniknutý pri aktívnom prepracovaní alebo úprave a prídavky k tovaru späť dovážanému zo záznamového obehu v cudzine.
 
   - 12 Používa sa pri dovozoch v rámci výmenných obchodov, keď sa úhrada za dovážaný tovar vykonáva bez finančných operácií vývozom iného tovaru.
 
@@ -1566,7 +1684,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
   - 67 Používa sa pri dočasných vývozoch tovaru do záznamového obehu v cudzine na používanie bez finančnej alebo inej náhrady zo zahraničia (bezplatné požičanie).
 
-  - 68 Používa sa pri dočasných vývozoch tovaru do záznamového obehu v cudzine za účelom plateného prenájmu (leasing). Pri zrušovaní vývoznej colnej záznamky sa do novopredkladanej JCD (JCDd) na vykázanie hodnoty plateného prenájmu v cudzine uvedie kód účelu vývozu „86".
+  - 68 Používa sa pri dočasných vývozoch tovaru do záznamového obehu v cudzine za účelom plateného prenájmu (leasing). Pri zrušovaní vývoznej colnej záznamky sa do novopredkladanej JCD (JCDd) na vykázanie hodnoty plateného prenájmu v cudzine uvedie kód účelu vývozu „82".
 
   - 69 Používa sa pri ostatných vývozoch tovaru do záznamového obehu v cudzine, ktoré nie sú menovite uvedené pod inými kódmi (napr. na kompletizáciu, na namontovanie a pod.).
 
@@ -1578,7 +1696,7 @@ Príloha vyhlášky č. 505/1991 Zb.
 
   - 87 Používa sa pri spätných vývozoch dovezeného vadného tovaru, ktorý bol predmetom reklamácie.
 
-  - 89 Používa sa ako zberný kód ostatných spätných dovozov neuvedených menovite pod inými kódmi (napr. vrátenie nesprávne smerovaných zásielok a pod.).
+  - 89 Používa sa ako zberný kód ostatných spätných vývozov neuvedených menovite pod inými kódmi (napr. vrátenie nesprávne smerovaných zásielok a pod.).
 
   - X. MERNÉ JEDNOTKY
 

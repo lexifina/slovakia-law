@@ -1,5 +1,7 @@
 - 1) Jednotná colná deklarácia (SEVT/ŠEVT 29 280 0 alebo vo vyhotovení pre výpočtovú techniku SEVT/ŠEVT 29 280 2 ) a Jednotná colná deklarácia doplnková (SEVT/ŠEVT 29 280 1 alebo vo vyhotovení pre výpočtovú techniku SEVT/ŠEVT 29 280 3 ).
 
+- 1a) § 2 ods. 1 zákona č. 513/1991 Zb. Obchodný zákonník.
+
 - 2) Napr. Colný Dohovor o karnete ATA pre dovozný colný záznam (Dohovor ATA), vyhláška ministra zahraničných vecí č. 89/1963 Zb., Colný dohovor o medzinárodnej preprave tovaru na podklade karnetu TIR (Dohovor TIR), vyhláška ministra zahraničných vecí č. 144/1982 Zb., Dohovor o používaní dokladov pri preprave nákladov v priamej automobilovej doprave tovaru, reg. čiastka 36/1985 Zb.
 
 - 3) Články II a IV Medzinárodného dohovoru o uľahčení dovozu obchodných vzoriek a reklamného materiálu, Ženeva 7. novembra 1952, (Publikované: Príloha vyhlášky ministra zahraničných vecí č. 17/1956 Zb.).
@@ -7,6 +9,8 @@
 - 4) § 70 colného zákona č. 44/1974 Zb. v znení zákona č. 5/1991 Zb.
 
 - 5) Deklarácia colnej hodnoty (SEVT/ŠEVT 29 285 0 alebo vo vyhotovení pre výpočtovú techniku SEVT/ŠEVT 29 285 2 ) a Deklarácia colnej hodnoty doplnková (SEVT/ŠEVT 29 285 1 alebo vo vyhotovení pre výpočtovú techniku SEVT/ŠEVT 29 285 3 ).
+
+- 5a) § 11 zákona č. 563/1991 Zb. o účtovníctve.
 
 - 6) § 31 vyhlášky Federálneho ministerstva zahraničného obchodu č. 43/1991 Zb. ktorou sa vykonáva colný zákon.
 
