@@ -112,7 +112,15 @@ Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a 
 
 - 16. V § 23 sa odsek 5 dopĺňa písmenami s), t), u) a v), ktoré znejú:
 
-- „u)
+- „s)
+
+- Štatistickému úradu Slovenskej republiky na účely vedenia štatistických registrov a štátnych štatistických zisťovaní podľa osobitného zákona,<sup>8h</sup>)
+
+- t)
+
+- okresným úradom alebo krajským úradom na účely podľa osobitného zákona,<sup>8i</sup>)
+
+- u)
 
 - Ministerstvu vnútra Slovenskej republiky alebo okresnému úradu na účely podľa osobitného zákona.<sup>8j</sup>)
 
@@ -502,7 +510,11 @@ Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a 
 
 - „(9)
 
-- Ustanovenie odseku 8 sa primerane použije aj na cestnú daň, pri ktorej bolo uplatnené vrátenie podľa osobitného predpisu.<sup>13ea</sup>)“.
+- Ustanovenie odseku 8 sa primerane použije aj na cestnú daň, pri ktorej bolo uplatnené vrátenie podľa osobitného predpisu.<sup>13ea</sup>)
+
+- (10)
+
+- Spotrebná daň, na ktorú bolo uplatnené jej vrátenie podľa osobitného zákona,<sup>1b</sup>) sa použije na kompenzáciu nedoplatkov na tej istej dani, na cle a iných platbách. Ak sa spotrebná daň takto nepoužije alebo ak sa použije len čiastočne, použije sa pred jej vrátením na kompenzáciu nedoplatkov na iných spotrebných daniach a dani z pridanej hodnoty<sup>13d</sup>) alebo na iných daniach.<sup>13e</sup>) O vykonaní kompenzácie je správca dane povinný písomne upovedomiť daňový subjekt. Spotrebnú daň, ktorá má byť vrátená na základe uplatnenia jej vrátenia, správca dane použije na kompenzáciu v posledný deň lehoty na vrátenie podľa osobitného zákona.<sup>1b</sup>)“.
 
 - Poznámka pod čiarou k odkazu 13ea znie:
 
