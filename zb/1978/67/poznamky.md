@@ -1,1 +1,0 @@
-- 18) Úprava FMTIR č. 4/1978 o rozpočtovaní súhrnných cien typových stavebných objektov, opakovaných stavebných objektov alebo prevádzkových súborov (Spravodajca FMTIR, MVT ČSR a MVT SSR čiastka 3-4 ročníka 1978).
