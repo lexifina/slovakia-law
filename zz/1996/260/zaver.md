@@ -1,1 +1,0 @@
-Rudolf Glasa v. r.
