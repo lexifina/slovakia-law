@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 115/2002 Z. z.
+
+- OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V BUDIŠI
+
+- ![Obrázok 01-1](../assets/f8c1b4182b59e6dc27e23dc3ec7450359d1d60f9d10430d209f3a9e478b377ee.png)
