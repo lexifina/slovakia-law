@@ -1,0 +1,1 @@
+- 1) Vyhláška ministerstiev zdravotníctva a spravodlivosti č. 57/1967 Zb., ktorou sa vykonáva vládne nariadenie o jedoch a iných látkach škodlivých zdraviu.
