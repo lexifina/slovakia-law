@@ -46,8 +46,6 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 24. | | vyhl. č. 119/1988 Zb. | 5 ods. 1 |
 
-25. | | | 37 ods. 1 | vykonávanie štátneho obchodného dozoru vo vnútornom obchode
-
 26. | dopravy | zák. č. 51/1964 Zb. v znení zák. č. 104/1974 Zb. | 19 | vykonávanie pôsobnosti štátnej správy vo veciach dráh
 
 27. | | | 20 ods. 1 | vykonávanie štátneho odborného dozoru na dráhach
@@ -82,8 +80,6 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 42. | obrany štátu | zák. č. 40/1961 Zb. v znení zák. č. 5/1972 Zb. a zák. op. PFZ č. 17/1976 Zb. | 19 ods. 1 | ukladanie povinnosti štátnym orgánom, hospodárskym, spoločenským a iným organizáciám i občanom v súvislosti s prípravami alebo preskúšavaním opatrení pre čas brannej pohotovosti štátu
 
-43. | | zák. č. 73/1973 Zb. | 18 ods. 1 | prechádzanie zodpovednosti prípravy občanov na civilnú obranu na prednostu okresného úradu
-
 44. | všeobecnej vnútornej správy | zák. č. 169/1949 Zb. | 1 ods. 3 | vytyčovanie hraníc vojenského obvodu
 
 45. | | | 18 ods. 1 | vymenovanie a odvolávanie správcu vojenského obvodného úradu
@@ -99,5 +95,3 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 54. | | | 19 | rozhodovanie o centrálnom zneškodňovaní alebo likvidácii odpadov látok a prípravkov obsahujúcich jedy alebo žieraviny
 
 55. | | vyhl. č. 65/1971 Zb. | 16 ods. 1 | povoľovanie na odber rádioaktívnych žiaričov a na používanie zdrojov žiarenia
-
-56. | kontroly | zák. SNR č. 121/1971 Zb. | 11, 12, 13 | vykonávanie kontroly
