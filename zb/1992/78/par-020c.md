@@ -2,8 +2,8 @@
 
 (1) Komora nezapíše do zoznamu asistentov daňových poradcov
 
-- a) pracovníka ústredného orgánu štátnej správy a daňového orgánu<sup>4</sup>),
+- a) zamestnanca ústredného orgánu štátnej správy a územného finančného orgánu,<sup>4a</sup>)
 
-- b) sudcu, prokurátora a štátneho notára.
+- b) sudcu, prokurátora, notára a súdneho exekútora.
 
 (2) Rozhodnutie o odmietnutí zápisu do zoznamu asistentov daňových poradcov musí byť riadne odôvodnené a doručené žiadateľovi do vlastných rúk.

@@ -1,16 +1,14 @@
-- 1) Zákon SNR č. 71/1992 Zb, o súdnych poplatkoch.
+- 1) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch v znení neskorších predpisov.
 
-- on SNR č. 139/1984 Zb. o notárskych poplatkov v znení zákona SNR č. 192/1990 Zb.
+- Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
-- Zákon č. 105/1951 Zb. o správnych poplatkovch.
+- Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- Vyhláška Federálneho ministerstva financií, Ministerstva financií Českej republiky a Ministerstva financií Slovenskej republiky č. 570/1990 Zb. o správnych poplatkoch v znení vyhlášky č. 522/1991 Zb.
+- Zákon Slovenskej národnej rady č. 544/1990 Zb. o miestnych poplatkoch v znení neskorších predpisov.
 
-- Zákon SNR č. 544/1990 Zb. o miestnych poplatkoch v znení zákona SNR č. 72/1992 Zb.
+- Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
-- Zákon č. 513/1991 Zb. Obchodný zákonník.
-
-- 2) Zákon SNR č. 84/1991 Zb. o daňových orgánoch.
+- 2) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.
 
 - 3) Zákon SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
@@ -18,9 +16,13 @@
 
 - 3b) § 21 ods. 1 zákona č. 172/1990 Zb.
 
-- 4) § 8 ods. 3 zákona SNR č. 84/1991 Zb.
+- 4) § 76 a nasl. a § 93 a nasl. Obchodného zákonníka.
+
+- 4a) Napríklad zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. v znení neskorších predpisov.
 
 - 5) § 68 a 69 Obchodného zákonníka.
+
+- 5a) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 6) Napr. Zákonník práce.
 
