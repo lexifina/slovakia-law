@@ -32,21 +32,25 @@
 
 - 16) § 1 ods. 3 písm. o) zákona č. 21/1992 Zb.
 
-- 17) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+- 17) Zákon č. 600/1992 Zb. v znení neskorších predpisov.Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.Zákon č. 385/1999 Z. z. o kolektívnom investovaní.
 
-- 17a) § 8 ods. 3 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 17a) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
 
 - 17b) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
 
-- 18) Napr. štvrtá časť zákona č. 92/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z.
+- 18) Napríklad štvrtá časť zákona č. 92/1991 Zb. v znení neskorších predpisov.
+
+- 18a) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
+
+- 18b) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 19) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
-- 20) Občiansky zákonník.
+- 20) Občiansky zákonník v znení neskorších predpisov.
 
-- 21) Napr. zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov.
+- 21) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
-- 21a) § 1 ods. 1 a 3 zákona č. 21/1992 Zb. v znení neskorších predpisov.
+- 21a) Zákon č. 21/1992 Zb. v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.Zákon č. 385/1999 Z. z.Zákon č. 600/1992 Zb. v znení neskorších predpisov.
 
 - 21b) § 34 a 35 zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
@@ -67,5 +71,7 @@
 - 29) Čl. 119 písm. d) a čl. 118 Ústavy Slovenskej republiky.
 
 - 30) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 30a) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov, § 17 až 20 Obchodného zákonníka, Trestný zákon v znení neskorších predpisov.
 
 - 31) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
