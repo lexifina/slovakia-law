@@ -104,22 +104,6 @@
 
 - 11d) Napr. zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
-- 11da) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
-
-- 11db) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
-
-- 11dc) § 13 ods. 4 zákona č. 366/1999 Z. z. v znení zákona č. 466/2000 Z. z.
-
-- 11dd) Napríklad § 148 a 250 Trestného zákona.
-
-- 11de) § 158 Trestného poriadku.
-
-- 11df) Zákon Slovenskej národnej rady č. 318/1992 Zb. v znení neskorších predpisov.
-
-- 11dg) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
-
-- 11dh) § 36 zákona č. 366/1999 Z. z. v znení neskorších predpisov.
-
 - 12) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
 
 - 12a) Napr. zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
