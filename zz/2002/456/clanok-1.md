@@ -44,6 +44,8 @@ Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon 
 
 - 3. V § 5 sa vypúšťajú slová „pri dovoze a vývoze bankoviek a mincí,".
 
+- 4. § 10 sa vypúšťa.
+
 - 5. V § 13 odsek 2 znie:
 
 - „(2)
@@ -58,11 +60,25 @@ Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon 
 
 - Devízové povolenie sa nevyžaduje na obchodovanie so zahraničnými cennými papiermi a s finančnými derivátmi.“.
 
+- 8. Nadpis pod § 14 znie: „Kúpa, predaj alebo zámena peňažných prostriedkov v cudzej mene a zlata".
+
+- 9. V § 14 úvodná veta znie: „Tuzemec alebo cudzozemec môžu bez devízového povolenia kúpiť, predať alebo zameniť peňažné prostriedky v cudzej mene alebo zlato iba v prípade, že".
+
+- 10. V § 14 písmeno d) znie:
+
+- „d)
+
+- ide o kúpu, predaj alebo zámenu peňažných prostriedkov uskutočnený tuzemcom v zahraničí.“.
+
 - 11. § 15 a 16 sa vypúšťajú.
 
 - 12. Poznámky pod čiarou k odkazom 16a, 17, 17a a 18 sa vypúšťajú.
 
-- „16.
+- „15.
+
+- § 20 a 21 sa vypúšťajú.
+
+- 16.
 
 - § 23 sa vypúšťa.
 
