@@ -2,6 +2,10 @@ Ivan Mikloš, v. r.
 
 podpredseda vlády a minister financií
 
-Príloha k opatreniu č. 23 586/2002
+Príloha č. 1 k opatreniu č. 23586/2002-92
 
-[VZOR ÚČTOVNÁ ZÁVIERKA](assets/ce4e0387bff0e3af322e971a73a54f5ee3886d495c8f7ca3c4b70c1a1c16c0f6.pdf)
+[Výkaz o príjmoch a výdavkoch v jednoduchom účtovníctve (Úč. FO 1-01) - Vzor](assets/8bc17b9e1dee5cb6c11c702154df2ee34b3296de6a2e3b1ad060bc134abab6b7.pdf)
+
+Príloha č. 2 k opatreniu č. 23586/2002-92
+
+[Výkaz o majetku a záväzkoch v jednoduchom účtovníctve (Uč. FO 2-01) - Vzor](assets/3305bf8fa04b645843c9453173c2dc159d2e2f8c18eacb13a47c075355d3a0d4.pdf)
