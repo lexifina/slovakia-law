@@ -134,7 +134,11 @@ Zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení zákona Národnej rady 
 
 - „§ 14a
 
-- Podrobnosti o označovaní zloženia a spôsobe zaobchádzania s textilnými výrobkami ustanoví všeobecne záväzným právnym predpisom Ministerstvo hospodárstva Slovenskej republiky.“.
+- Podrobnosti o označovaní zloženia a spôsobe zaobchádzania s textilnými výrobkami ustanoví všeobecne záväzným právnym predpisom Ministerstvo hospodárstva Slovenskej republiky.
+
+- § 14b
+
+- Výrobca je povinný označiť svoj výrobok určený na predaj spotrebiteľovi na etikete alebo obale označením „Vyrobené na Slovensku“ alebo „Made in Slovakia“.
 
 - 10. V § 16 odsek 1 znie:
 
