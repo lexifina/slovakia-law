@@ -46,6 +46,12 @@ Dodatok k č. 213/2002 Z. z.
 
 - „the Secretary to the Department of Foreign Affairs and Trade of the Commonwealth of Australia“
 
+- Azerbajdžan
+
+- 1. Ministerstvo spravodlivosti pre listiny vydané súdmi, prokuratúrou a orgánmi súdnej právomoci vrátane listín osvedčených notármi a matričných dokladov,
+
+- 2. Ministerstvo zahraničných vecí pre ostatné listiny.
+
 - Bahamy
 
 - Títo funkcionári ministerstva zahraničných vecí:
