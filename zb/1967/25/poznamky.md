@@ -22,12 +22,18 @@
 
 - chorobám.
 
-- *) Pri rozsahu predhovoru alebo doslovu menšom ako 1 autorský hárok možno vzhľadom na hodnotu a spoločenský význam diela a so zreteľom na obťažnosť jeho vytvorenia odmenu zvýšiť až do výšky zodpovedajúcej odmene za celý autorský hárok.
+- 1) Pri rozsahu kritickej štúdie, predhovoru alebo doslovu menšom ako jeden autorský hárok možno so zreteľom na hodnotu a spoločenský význam diel a so zreteľom na náročnosť jeho vytvorenia odmenu zvýšiť až do výšky zodpovedajúcej odmene za celý autorský hárok.
 
-- **) Za autorský hárok spracovaného textu. Ak však register vytvorí autor diela, ku ktorému register patrí, odmeňuje sa ako jeho nedeliteľná súčasť.
+- 2) Za autorský hárok spracovaného textu; ak však vytvorí register autor diela, ku ktorému register patrí, odmenuje sa ako neoddeliteľná súčasť diela.
 
-- ***) Odmeny za usporiadanie školských čítaniek možno pri mimoriadnej kvalite zvýšiť až o 25 % sadzby; obdobne možno zvýšiť i odmeny za usporiadanie súborných diel v cudzom jazyku.
+- 1) Pri odmenách za predklady, ktoré sú umelecky alebo jazykovo obzvlášť náročné, je možné zvýšiť hornú hranicu sadzby až o 25 %.
 
-- *) Pokiaľ vysoký náklad vydania diela je ovplyvnený zaradením do určitého edičného radu (klubové edície, lacné masové edície a pod.), dohodnutá sadzba nemá spravidla byť vyššia ako 75 % ustanovenej hornej hranice rozpätia.
+- 1) Podľa tejto položky sadzobníka sa výnimočne môže dohodnúť aj odmena za vysokoškolské učebnice, ktoré jej svojím charakterom zodpovedajú.
 
-- **) Vrátane odmeny za doslovný preklad.
+- 1) Podľa tejto položky sadzobníka budú stanovené odmeny za diela závažného ideovo-umeleckého a spoločenského významu.
+
+- 2) Za nové diela pôvodnej poézie môže byť norma vo výnimočných prípadoch znížená o 50 %.
+
+- 3) Za nové preklady poézie, ktoré významne obohacujú národnú kultúru, môže byť norma vo výnimočných prípadoch znížená o 20 %.
+
+- 4) Vrátane odmeny za doslovný preklad.
