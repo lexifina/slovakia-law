@@ -1084,11 +1084,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) na získanie vodičského oprávnenia |
 
-  - 1. skupiny A a A/50 .................................................................................................................................. | 500 Sk
+  - 1. skupiny A a AM a podskupiny A1 ..................................................................................................... | 500 Sk
 
-  - 2. skupiny B a T ....................................................................................................................................... | 1 000 Sk
+  - 2. skupiny B, B+E a T a podskupiny B1 .............................................................................................. | 1 000 Sk
 
-  - 3. skupiny C a D ...................................................................................................................................... | 2 000 Sk
+  - 3. skupiny C1+E a D1+E a podskupiny C1 a D1 .............................................................................. | 1 500 Sk
+
+  - 4. skupiny C, C+E, D a D+E ................................................................................................................. | 2 000 Sk
 
   - b) pri preskúšaní odbornej spôsobilosti držiteľa vodičského oprávnenia .................................... | 500 Sk
 
@@ -2026,10 +2028,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Vydanie povolenia Ministerstvom financií Slovenskej republiky na predaj tovaru spotrebného charakteru bez dane z pridanej hodnoty fyzickým osobám v tranzitnom priestore letísk a prístavov, na palubách lietadiel zahraničných liniek slovenských leteckých spoločností a na palubách lodí zahraničných liniek slovenských plavebných spoločností ............................... | 500 Sk
 
-    - Položka 147
-
-  - Podnet na začatie konania o dumpingu ................................................................................... | 50 000 Sk
-
     - Položka 148
 
   - a) Vydanie živnostenského listu .............................................................................................................. | 1 000 Sk
@@ -2339,12 +2337,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 156
 
   - Vydanie sprievodného osvedčenia o pôvode tovaru EUR.1 ............................................................. | 100 Sk
-
-    - Položka 157
-
-  - Vydanie záväznej informácie o nomenklatúrnom zatriedení tovaru alebo o pôvode tovaru ........ | 350 Sk
-
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené právnické osoby a fyzické osoby, ktoré vykonávajú sociálnu prevenciu alebo vybrané činnosti sociálno-právnej ochrany alebo poskytujú sociálne poradenstvo alebo sociálne služby za podmienok ustanovených osobitným zákonom<sup>11</sup>) a nevykonávajú sociálnu prevenciu alebo vybrané činnosti sociálno-právnej ochrany alebo neposkytujú sociálne poradenstvo alebo sociálnu službu s cieľom dosiahnutia zisku, osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie, divadlá, ktorých zriaďovateľom je štát alebo vyšší územný celok a profesionálne hudobné inštitúcie, ktorých zriaďovateľom je štát alebo vyšší územný celok. |
 
     - Položka 158
 
@@ -3104,23 +3096,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - XIV. ČASŤ HOSPODÁRSKA SÚŤAŽ
 
-    - Položka 210
-
-  - Návrh na vydanie rozhodnutia Protimonopolného úradu Slovenskej republiky o tom, že činnosti alebo konania podnikateľov nie sú dohodou obmedzujúcou súťaž alebo že spoločný podiel účastníkov dohody obmedzujúcej súťaž alebo podiel ani jedného z nich nie je vyšší ako 10 % celkového podielu tovarov na relevantnom trhu v Slovenskej republike a že ich dohoda obmedzujúca súťaž môže byť vyňatá spod zákazu dohôd obmedzujúcich súťaž ...................................................................... | 2 000 Sk
-
-    - Položka 211
-
-  - a) Návrh na vydanie rozhodnutia Protimonopolného úradu Slovenskej republiky o tom, že zákaz dohôd obmedzujúcich súťaž sa na čas určený v rozhodnutí Protimonopolného úradu Slovenskej republiky nevzťahuje na dohodu obmedzujúcu súťaž, ktorá súčasne spĺňa podmienky uvedené v zákone ................ | 5 000 Sk
-
-  - b) Každý ďalší návrh na vydanie rozhodnutia podľa písmena a), ak sa týka dohody obmedzujúcej súťaž ustanoveniami v podstatnej miere totožnej s tou, ktorej sa týka prvý návrh, zmluvnou stranou je ten istý podnikateľ a návrh bol doručený v lehote do jedného roka odo dňa doručenia prvého návrhu ...................... | 200 Sk
-
     - Položka 212
 
-  - Oznámenie koncentrácie, ak spoločný obrat účastníkov koncentrácie je |
-
-  - a) menej ako 750 000 000 Sk ....................................................................................................... | 30 000 Sk
-
-  - b) najmenej 750 000 000 Sk ......................................................................................................... | 100 000 Sk
+  - Oznámenie koncentrácie............................................................................................................... | 100 000 Sk.
 
   - XV. ČASŤ PUNCOVNÍCTVO
 
