@@ -58,7 +58,9 @@
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
-- 20) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
+- 20) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+
+- 20a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
 - 21) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
