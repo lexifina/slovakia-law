@@ -1,5 +1,5 @@
 # § 47b
 
-(1) Pri likvidácii organizácií uvedených v § 1 speňaží likvidátor majetok predajom vecí na verejnej dražbe. Iným spôsobom môže likvidátor postupovať len so súhlasom orgánu uvedeného v § 10 ods. 1.
+(1) Pri likvidácii podnikov uvedených v § 1 okrem rozpočtových a príspevkových organizácií speňaží likvidátor majetok predajom vecí na verejnej dražbe. Iným spôsobom môže likvidátor postupovať len so súhlasom ministerstva udeleným po predchádzajúcom prerokovaní so zakladateľom.
 
-(2) Do doby prijatia osobitného zákona sa na postup pri verejných dražbách použijú primerane ustanovenia zákona č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
+(2) Na postup pri verejných dražbách sa použijú primerane ustanovenia zákona č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
