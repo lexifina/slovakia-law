@@ -8,7 +8,7 @@
 
 - 5) § 18a písm. a) zákona č. 172/1990 Zb. v znení neskorších predpisov.
 
-- 6) Nariadenie vlády Slovenskej republiky č. 229/1994 Z. z. o miere vyučovacej povinnosti učiteľov a povinnosti výchovnej práce ostatných pedagogických pracovníkov.
+- 6) Nariadenie vlády Slovenskej republiky č. 229/1994 Z. z. o miere vyučovacej povinnosti učiteľov a povinnosti výchovnej práce ostatných pedagogických pracovníkov v znení nariadenia vlády Slovenskej republiky č. 203/2000 Z. z.
 
 - 7) Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 212/1991 Zb. o špeciálnych školách.
 
@@ -27,3 +27,5 @@
 - 14) § 21 ods. 2 písm. a) až f) zákona č. 172/1990 Zb. v znení zákona č. 324/1996 Z. z.
 
 - 15) § 22 a 22a zákona č. 172/1990 Zb. v znení zákona č. 324/1996 Z. z.
+
+- 16) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 229/2000 Z. z.
