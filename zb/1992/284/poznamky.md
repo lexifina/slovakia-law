@@ -1,0 +1,1 @@
+- 1) Zásady účasti štátneho rozpočtu federácie na financovaní verejných investícií vydané Federálnym ministerstvom financií č. I/5-13 646/91.
