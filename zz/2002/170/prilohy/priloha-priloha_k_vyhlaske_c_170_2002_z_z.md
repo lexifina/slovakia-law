@@ -222,13 +222,17 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - p) prospektu cenných papierov podľa objemu emisie, ktorá je predmetom verejnej ponuky cenných papierov<sup>67</sup>) |
 
-- do 1 000 000 Sk | 5 000 Sk
+- do 1 000 000 Sk | 10 000 Sk
 
 - 1 000 001 Sk - 100 000 000 Sk | 30 000 Sk
 
-- 100 000 001 Sk - 500 000 000 Sk | 120 000 Sk
+- 100 000 001 Sk - 300 000 000 Sk | 50 000 Sk
 
-- nad sumu 500 000 000 Sk | 500 000 Sk
+- 300 000 001 Sk - 600 000 000 Sk | 120 000 Sk
+
+- 600 000 001 Sk - 900 000 000 Sk | 240 000 Sk
+
+- nad sumu 900 000 000 Sk | 360 000 Sk
 
 - q) prospektu cenných papierov<sup>67</sup>) pre vyhlasovateľa verejnej ponuky cenných papierov, ktorý nie je emitentom ponúkaných cenných papierov | 5 000 Sk
 
