@@ -78,9 +78,9 @@
 
 - 34b) § 150 Občianskeho zákonníka.
 
-- 34c) § 27 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 34c) § 13 ods. 3 písm. a) zákona Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení zákona č. 187/1998 Z. z.
 
-- 34d) Zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
+- 34d) § 19 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení zákona č. 187/1998 Z. z.
 
 - 34e) § 43 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 
