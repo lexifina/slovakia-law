@@ -1,0 +1,15 @@
+## 84
+
+PREDSEDA
+
+NÁRODNEJ RADY SLOVENSKEJ REPUBLIKY
+
+vyhlasuje
+
+úplné znenie zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 92/1992 Zb., zákonom č. 264/1992 Zb., ústavným zákonom č. 541/1992 Zb., zákonom č. 544/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 17/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 172/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 60/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 172/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 244/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 369/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 190/1995 Z. z., zákonom Národnej rady Slovenskej republiky č. 304/1995 Z. z., nálezom Ústavného súdu Slovenskej republiky č. 4/1996 Z. z, zákonom Národnej rady Slovenskej republiky č. 56/1996 Z. z., zákonom Národnej rady Slovenskej republiky č. 322/1996 Z. z., nálezom Ústavného súdu Slovenskej republiky č. 352/1996 Z. z., zákonom č. 210/1997 Z. z., zákonom č. 211/1997 Z. z., nálezom Ústavného súdu Slovenskej republiky č. 221/1998 Z. z., zákonom č. 253/1999 Z. z., zákonom č. 122/2000 Z. z. a zákonom č. 441/2000 Z. z.
+
+ZÁKON
+
+o podmienkach prevodu majetku štátu na iné osoby
+
+Federálne zhromaždenie Českej a Slovenskej Federatívnej Republiky sa uznieslo na tomto zákone:
