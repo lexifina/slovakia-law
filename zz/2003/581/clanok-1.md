@@ -62,6 +62,10 @@ Zákon č. 435/2000 Z. z. o námornej plavbe sa mení a dopĺňa takto:
 
   - c) kontroluje činnosť uznanej klasifikačnej spoločnosti, a ak pri kontrole zistí, že uznaná klasifikačná spoločnosť nevykonáva svoju činnosť v súlade s poverením podľa písmena b), platnosť poverenia uznanej klasifikačnej spoločnosti pozastaví,
 
+  - d) informuje bezodkladne Komisiu Európskych spoločenstiev a ostatné členské štáty o uznaných klasifikačných spoločnostiach a o pozastavení platnosti poverenia klasifikačnej spoločnosti podľa písmena c),
+
+  - e) každé dva roky vyhodnocuje činnosť uznanej klasifikačnej spoločnosti a zasiela hodnotenie jej činnosti Komisii Európskych spoločenstiev a ostatným členským štátom do 31. marca roku, ktorý nasleduje po rokoch, v ktorých bola činnosť hodnotená.".
+
 - Doterajšie písmená c) a d) sa označujú ako písmená f) a g).
 
 - 8. V § 4 ods. 2 písm. l) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „môže uznať odbornú spôsobilosť na vedenie rekreačného plavidla získanú v zahraničí, vydanú príslušným úradom cudzieho štátu v rozsahu platnom pre danú oblasť plavby,".
