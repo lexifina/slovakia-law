@@ -32,15 +32,25 @@
 
 - 4) § 26, 26a a 26b zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
-- 5) § 18 zákona Českej národnej rady č. 76/1978 Zb. o školských zariadeniach.§ 18 zákona Slovenskej národnej rady č. 78/1978 Zb. o školských zariadeniach.
+- 5) § 10 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
+
+- 5a) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 5b) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov.
+
+- 5c) Zákon č. 506/2001 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení a o doplnení zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 6) § 33 až 36 zákona SNR č. 78/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
-- 7) § 13 zákona ČNR č. 77/1978 Zb. v znení zákona ČNR č. 31/1984 Zb.
+- 7) § 48 ods. 4 Zákonníka práce.
 
-- § 13 zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
+- 8) § 49 ods. 2 Zákonníka práce.
 
-- 8) § 11 ods. 4 písm. c) zákona ČNR č. 77/1978 Zb. v znení zákona ČNR č. 31/1984 Zb.§ 11 ods. 4 písm. c) zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
+- 8a) Zákon Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.Vyhláška Ministerstva školstva Slovenskej republiky č. 32/2000 Z. z. o školskej inšpekcii.
+
+- 8b) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 8c) Zákon č. 312/2000 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) Branný zákon č. 92/1949 Zb.(úplné znenie č. 121/1978 Zb.).Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov (úplné znenie č. 122/1978 Zb.).Zákon č. 88/1952 Zb. o materiálnom zabezpečení príslušníkov ozbrojených síl v znení neskorších predpisov.Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
 
@@ -51,3 +61,5 @@
 - 12) § 20 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 13) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
+
+- 16) § 5 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 162/2002 Z. z. o rozsahu vyučovacej činnosti a výchovnej činnosti pedagogických zamestnancov.
