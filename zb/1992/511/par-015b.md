@@ -6,7 +6,7 @@
 
 - b) ak daňový subjekt žiadal o vrátenie dane podľa osobitného zákona,<sup>6eb</sup>)
 
-- c) na podnet ministerstva alebo odvolacieho orgánu podľa § 48 ods. 1.
+- c) na podnet ministerstva alebo odvolacieho orgánu.
 
 (2) Opakovanú daňovú kontrolu v prípadoch podľa odseku 1 písm. a) a b) možno začať v lehote, v ktorej môže byť podané dodatočné daňové priznanie, alebo v lehote, v ktorej môže byť vrátená daň podľa osobitných predpisov.<sup>6eb</sup>) Na opakovanú kontrolu sa vzťahujú ustanovenia § 15.
 

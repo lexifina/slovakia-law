@@ -1,6 +1,6 @@
 # § 82h Daňová exekúcia zrážkami z iných príjmov
 
-(1) Ustanovenia o daňovej exekúcii zrážkami zo mzdy sa použijú aj na daňovú exekúciu, zrážkami z odmeny za prácu členov družstiev a z príjmov, ktoré daňovému dlžníkovi nahrádzajú odmenu za prácu, najmä z odmeny vyplývajúcej z dohody o pracovnej činnosti a z dohody o vykonaní práce, z dôchodkov poskytovaných z dôchodkového zabezpečenia a výsluhového zabezpečenia, z peňažných dávok nemocenského poistenia nahrádzajúcich mzdu, zo štipendia s výnimkou štipendia z verejných prostriedkov, z náhrady uchádzajúceho zárobku, z náhrady poskytovanej za výkon spoločenských funkcií a z podpory v nezamestnanosti.
+(1) Ustanovenia o daňovej exekúcii zrážkami zo mzdy sa použijú aj na daňovú exekúciu, zrážkami z odmeny za prácu členov družstiev a z príjmov, ktoré daňovému dlžníkovi nahrádzajú odmenu za prácu, najmä z odmeny vyplývajúcej z dohôd o prácach vykonávaných mimo pracovného pomeru, z dôchodkov poskytovaných z dôchodkového zabezpečenia a výsluhového zabezpečenia, z peňažných dávok nemocenského poistenia nahrádzajúcich mzdu, zo štipendií podľa osobitného predpisu<sup>14ca</sup>), z náhrady uchádzajúceho zárobku, z náhrady poskytovanej za výkon spoločenských funkcií a z podpory v nezamestnanosti.
 
 (2) Do príjmu sa nezapočítavajú prídavky na deti, príplatok k prídavkom na deti a zvýšenie dôchodku pre bezvládnosť.
 

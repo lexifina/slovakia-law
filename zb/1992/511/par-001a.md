@@ -2,7 +2,7 @@
 
 Na účely tohto zákona sa rozumie
 
-- a) daňou daň podľa osobitných zákonov<sup>1</sup>) vrátane penále, úrokov a zvýšenia dane, ako aj pokuty a poplatky ustanovené zákonom, ktoré spravuje správca dane,
+- a) daňou daň podľa osobitných zákonov<sup>1</sup>) vrátane sankčných úrokov a úrokov, ako aj pokuty a poplatky ustanovené zákonom, ktoré spravuje správca dane,
 
 - b) správcom dane
 
@@ -20,7 +20,7 @@ Na účely tohto zákona sa rozumie
 
 - g) daňovým dlžníkom osoba, ktorej bola uložená povinnosť zaplatiť daň, odviesť vybranú alebo zrazenú daň a túto povinnosť nesplnila v lehote alebo vo výške podľa tohto zákona alebo osobitných zákonov,<sup>1</sup>)
 
-- h) daňovým exekučným konaním konanie, v ktorom správca dane z úradnej moci vymáha daňový nedoplatok a úhradu exekučných nákladov.
+- h) daňovým exekučným konaním konanie, v ktorom správca dane z úradnej moci vymáha daňový nedoplatok, peňažné plnenie uložené rozhodnutím, exekučné náklady a hotové výdavky (§ 90),
 
 - i) orgánom najbližšie nadriadeným správcom dane podľa písmena b) prvého bodu Daňové riaditeľstvo Slovenskej republiky (ďalej len „daňové riaditeľstvo“) a správcovi dane podľa písmena b) druhého bodu Colné riaditeľstvo Slovenskej republiky<sup>1c</sup>) (ďalej len „colné riaditeľstvo“),
 

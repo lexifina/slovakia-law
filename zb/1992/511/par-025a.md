@@ -1,8 +1,8 @@
 # § 25a Prerušenie konania
 
-(1) Správca dane môže konanie prerušiť, najmä ak sa začalo konanie o predbežnej otázke (§ 26) alebo ak bol účastník konania vyzvaný, aby v určenej lehote odstránil nedostatky podania (§ 20 ods. 7).
+(1) Správca dane môže konanie prerušiť, najmä ak sa začalo konanie o predbežnej otázke (§ 26), konanie o inej skutočnosti rozhodujúcej na vydanie rozhodnutia alebo ak bol účastník konania vyzvaný, aby v určenej lehote odstránil nedostatky podania (§ 20 ods. 7).
 
-(2) Správca dane môže konanie prerušiť najdlhšie na dobu 30 dní, ak to z dôležitých dôvodov zhodne navrhnú účastníci konania.
+(2) Správca dane môže konanie prerušiť najdlhšie na dobu 30 dní, ak to z dôležitých dôvodov zhodne navrhnú účastníci konania. Ak nie je ukončené konanie o predbežnej otázke alebo konanie o inej skutočnosti rozhodujúcej na vydanie rozhodnutia, môže správca dane túto lehotu primerane predĺžiť, najdlhšie však na čas, kým sa rozhodne o predbežnej otázke alebo o inej skutočnosti rozhodujúcej na vydanie rozhodnutia.
 
 (3) Proti rozhodnutiu o prerušení konania nie je prípustné odvolanie.
 

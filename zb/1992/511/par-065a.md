@@ -1,18 +1,18 @@
 # § 65a Odpísanie daňovej pohľadávky v konkurznom konaní a vo vyrovnacom konaní
 
-(1) Správca dane odpíše daňovú pohľadávku (§ 95 ods. 1) alebo jej časť na základe právoplatného uznesenia súdu o potvrdení vyrovnania,<sup>8aa</sup>) ak podľa neho dlžník splnil svoje povinnosti úplne a včas.
+(1) Správca dane odpíše daňovú pohľadávku (§ 95 ods. 1) alebo jej časť na základe právoplatného uznesenia súdu o potvrdení vyrovnania,<sup>8aa</sup>) ak podľa tohto uznesenia dlžník<sup>13ec</sup>) splnil svoje povinnosti úplne a včas.
 
-(2) Správca dane z vlastného podnetu odpíše daňovú pohľadávku alebo jej časť aj na základe právoplatného
+(2) Správca dane z vlastného podnetu odpíše daňovú pohľadávku voči dlžníkovi<sup>13ec</sup>) alebo jej časť na základe právoplatného uznesenia súdu o
 
-- a) uznesenia súdu o zrušení konkurzu po splnení rozvrhového uznesenia alebo
+- a) zrušení konkurzu po splnení rozvrhového uznesenia,
 
-- b) rozhodnutia súdu o zrušení konkurzu z dôvodu, že majetok daňového subjektu nepostačuje na úhradu výdavkov a odmeny správcu konkurznej podstaty, alebo
+- b) zrušení konkurzu z dôvodu, že majetok daňového dlžníka nepostačuje na úhradu výdavkov a odmeny správcu konkurznej podstaty,
 
-- c) uznesenia súdu o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku, alebo
+- c) zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku alebo
 
-- d) uznesenia súdu o zrušení konkurzu po splnení núteného vyrovnania.
+- d) zrušení konkurzu po splnení núteného vyrovnania.
 
-(3) Ak po skončení konkurzného konania zostane majetok, odpíše správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 až po zániku daňového subjektu, ak zániku predchádzala likvidácia; ak zániku daňového subjektu predchádza jeho zrušenie bez likvidácie, správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 neodpíše. Ak sa likvidácia podľa osobitného predpisu nevyžaduje,<sup>13eb</sup>) správca dane daňovú pohľadávku odpíše.
+(3) Ak po skončení konkurzného konania zostane majetok právnickej osobe alebo fyzickej osobe zodpovednej za zaplatenie daňového nedoplatku, odpíše správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 písm. a) po skončení likvidácie.
 
 (4) Odpísaním daňovej pohľadávky daňový nedoplatok zaniká.
 

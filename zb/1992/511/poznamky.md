@@ -2,7 +2,7 @@
 
 - 1a) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly.
 
-- 1b) Zákon č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov.
+- 1b) Napríklad zákon č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov v znení neskorších predpisov.
 
 - 1c) Zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
@@ -20,9 +20,13 @@
 
 - 5a) § 21 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
 
+- 5b) Zákon č. 507/2001 Z. z. o poštových službách.
+
 - 6) § 26 až 29 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplné znenie č. 47/1992 Zb.).
 
 - 6a) § 23 ods. 7 zákona č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 6aa) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
 - 6b) § 23 ods. 6 zákona č. 286/1992 Zb. v znení neskorších predpisov.
 
@@ -32,11 +36,11 @@
 
 - 6e) § 15 zákona Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
-- 6ea) § 37 zákona č. 563/1991 Zb. o účtovníctve.
-
 - 6eb) Napríklad zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov.
 
-- 6ec) Zákon č. 286/1992 Zb. v znení neskorších predpisov.
+- 6ec) Zákon č. 595/2003 Z. z. o dani z príjmov.
+
+- 6ed) § 31 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
 - 6f) § 610 a nasl. Obchodného zákonníka.§ 765 a nasl. Občianskeho zákonníka.
 
@@ -46,11 +50,15 @@
 
 - 6h) § 12 ods. 1 Trestného poriadku v znení neskorších predpisov.
 
-- 7) Napr. § 18 zákona SNR č. 317/1992 Zb. o dani z nehnuteľností.
-
 - 7a) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
-- 7b) Zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
+- 7aa) Napríklad zákon č. 150/2001 Z. z. v znení zákona č. 182/2002 Z. z., zákon č. 152/1998 Z. z. o sťažnostiach v znení neskorších predpisov.
+
+- 7ab) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 7b) Napríklad zákon č. 238/2001 Z. z. Colný zákon v znení neskorších predpisov, zákon č. 240/2001 Z. z. v znení neskorších predpisov, zákon č. 239/2001 Z. z. v znení neskorších predpisov.
+
+- 7c) Napríklad Občiansky súdny poriadok, zákon č. 328/1991 Zb. v znení neskorších predpisov, § 8 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
 
 - 8) Trestný poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 249/1994 Z. z. o boji proti legalizácii príjmov z najzávažnejších, najmä organizovaných foriem trestnej činnosti a o zmenách niektorých ďalších zákonov v znení zákona Národnej rady Slovenskej republiky č. 58/1996 Z. z.Zákon Národnej rady Slovenskej republiky č. 314/1996 Z. z. o prokuratúre v znení neskorších predpisov.
 
@@ -58,7 +66,7 @@
 
 - 8aa) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
-- 8ab) Zákon č. 563/1991 Zb. v znení neskorších predpisov.
+- 8ab) Zákon č. 431/2002 Z. z. v znení zákona č. 562/2003 Z. z.
 
 - 8b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
@@ -72,7 +80,9 @@
 
 - 8e) Napríklad Zmluva medzi Slovenskou republikou a Českou republikou o zamedzení dvojakého zdanenia v odbore daní z príjmov a z majetku (oznámenie č. 229/1993 Z. z.).
 
-- 8f) § 11 ods. 2 zákona Národnej rady Slovenskej republiky č. 316/1993 Z. z. v znení neskorších predpisov.
+- 8f) Zákon č. 239/2001 Z. z. v znení neskorších predpisov.
+
+- 8fa) Zákon č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z.
 
 - 8g) Zákon č. 231/1999 Z. z. o štátnej pomoci.
 
@@ -81,6 +91,8 @@
 - 8i) § 58 ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní v znení neskorších predpisov.
 
 - 8j) Zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení zákona č. 70/1997 Z. z.
+
+- 8k) § 34 ods. 11 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 32/2002 Z. z.
 
 - 9) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
@@ -99,6 +111,8 @@
 - 11) § 38 ods. 3 písm. c) zákona č. 21/1992 Zb. o bankách.
 
 - 11a) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou.
+
+- 11ab) Napríklad zákon č. 595/2003 Z. z.
 
 - 11b) § 58 zákona č. 455/1991 Zb. Živnostenský zákon v znení neskorších predpisov.
 
@@ -122,9 +136,9 @@
 
 - 12) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
 
-- 12a) Napr. zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
+- 12a) Napríklad zákon Slovenskej národnej rady č. 544/1990 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 317/1992 Zb. v znení neskorších predpisov.
 
-- 12b) § 544 až 587 Občianskeho zákonníka.
+- 12b) § 544 až 558 Občianskeho zákonníka.
 
 - 12c) § 48 zákona č. 366/1999 Z. z. o daniach z príjmov.
 
@@ -136,11 +150,21 @@
 
 - 13d) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 310/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 312/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. v znení neskorších predpisov.
 
+- 13da) § 358 až 364 Obchodného zákonníka.
+
+- § 580 a 581 Občianskeho zákonníka.
+
 - 13e) Napríklad zákon č. 286/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 87/1994 Z. z. v znení neskorších predpisov.
 
 - 13ea) Zákon Národnej rady Slovenskej republiky č. 87/1994 Z. z. o cestnej dani v znení neskorších predpisov.
 
 - 13eb) § 68 ods. 2 Obchodného zákonníka.
+
+- 13ec) § 1 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
+
+- 13ed) § 7 ods. 4 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+
+- 13ee) § 524 až 530 Občianskeho zákonníka.
 
 - 13f) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -155,6 +179,8 @@
 - 14b) Napríklad § 36 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z.
 
 - 14c) § 15 zákona č. 92/1991 Zb. v znení neskorších predpisov.
+
+- 14ca) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov, zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
 
 - 14d) § 40 až 45 zákona č. 195/1998 Z. z. o sociálnej pomoci.
 
@@ -214,9 +240,9 @@
 
 - 19j) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
-- 19l) Obchodný zákonník v znení neskorších predpisov.
+- 19l) § 88 ods. 1, § 93 ods. 2, § 148 ods. 3 Obchodného zákonníka.
 
-- 19m) § 105 až 153 Obchodného zákonníka v znení neskorších predpisov.
+- 19m) Obchodný zákonník.
 
 - 19ma) § 70a zákona Slovenskej národnej rady č. 323/1992 Zb. v znení zákona č. 527/2002 Z. z.
 
@@ -226,7 +252,11 @@
 
 - 19p) § 20, 31 a 56 zákona č. 328/1991 Zb. v znení neskorších predpisov.
 
+- 19r) § 3a ods. 1 Obchodného zákonníka.
+
 - 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 20a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 21) § 30 ods. 2 zákona SNR č. 139/1984 Zb. o notárskych poplatkoch.
 

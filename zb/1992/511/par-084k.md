@@ -28,7 +28,7 @@
 
 (8) Udelením príklepu a zaplatením najvyššieho podania prechádza vlastníctvo k vydraženej hnuteľnej veci na vydražiteľa.
 
-(9) Správca dane vydá vydražiteľovi potvrdenie o udelení príklepu. Ak je daňový dlžník platiteľom dane z pridanej hodnoty, toto potvrdenie o udelení príklepu je pre vydražiteľa, ktorý je platiteľom dane z pridanej hodnoty, daňovým dokladom podľa osobitného zákona.<sup>19</sup>) Potvrdenie o udelení príklepu vyhotovené správcom dane sa na účely odpočtu dane z pridanej hodnoty podľa osobitného zákona<sup>19aa</sup>) považuje za doklad vyhotovený platiteľom dane z pridanej hodnoty. Ak je vydražiteľom platiteľ dane z pridanej hodnoty, toto potvrdenie je zároveň dokladom o zaplatení dane z pridanej hodnoty na účely jej odpočtu podľa osobitného zákona.<sup>19</sup>)
+(9) Správca dane vydá vydražiteľovi potvrdenie o udelení príklepu. Ak je daňový dlžník platiteľom dane z pridanej hodnoty, toto potvrdenie o udelení príklepu je pre vydražiteľa, ktorý je platiteľom dane z pridanej hodnoty, daňovým dokladom podľa osobitného zákona.<sup>19</sup>) Potvrdenie o udelení príklepu vyhotovené správcom dane sa na účely odpočtu dane z pridanej hodnoty podľa osobitného zákona<sup>19aa</sup>) považuje za doklad vyhotovený platiteľom dane z pridanej hodnoty.
 
 (10) Ak sa pri dražbe neurobilo ani najnižšie podanie na draženú hnuteľnú vec, správca dane vykoná opätovnú dražbu (§ 84l) a po neúspešnej opätovnej dražbe predá hnuteľnú vec predajom na základe ponuky (§ 84m).
 

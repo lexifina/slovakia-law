@@ -1,3 +1,5 @@
 # § 84n Priamy predaj hnuteľných vecí
 
-Hnuteľné veci, ktorých cena určená podľa § 84g ods. 1 a 2 nie je vyššia ako 1 000 Sk za jeden kus, veci rýchlo podliehajúce skaze a živé zvieratá môže správca dane predať ihneď za obvyklú cenu. Získanú sumu použije správca dane rovnako ako výťažok z predaja hnuteľných vecí na dražbe (§ 84k ods. 12).
+(1) Hnuteľné veci, ktorých cena určená podľa § 84g ods. 1 a 2 nie je vyššia ako 5 000 Sk za jeden kus, veci rýchlo podliehajúce skaze a živé zvieratá môže správca dane predať ihneď za obvyklú cenu. Získanú sumu použije správca dane rovnako ako výťažok z predaja hnuteľných vecí na dražbe (§ 84k ods. 12).
+
+(2) Po zaplatení ceny správca dane vydá nadobúdateľovi potvrdenie o priamom predaji hnuteľných vecí. Potvrdenie o priamom predaji hnuteľných vecí vyhotovené správcom dane sa na účely odpočtu dane z pridanej hodnoty podľa osobitného zákona<sup>19aa</sup>) považuje za doklad vyhotovený platiteľom dane z pridanej hodnoty.
