@@ -66,7 +66,9 @@
 
 - 12k) § 6 ods. 3 Obchodného zákonníka.
 
-- 12l) § 56, 57 a 60 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+- 12kk) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
+
+- 12l) § 107 a 108 zákona č. 566/2001 Z. z.
 
 - 12m) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 

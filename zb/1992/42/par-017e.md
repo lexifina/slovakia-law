@@ -12,6 +12,6 @@
 
 (3) Družstvo môže odkupovať podielnické listy vlastnej emisie aj pred uplynutím siedmich rokov od schválenia transformačného projektu, tento zámer, ponúkanú cenu, spôsob a lehotu odkupovania však musí do 30 dní zverejniť spôsobom v mieste obvyklým.
 
-(4) Podielnické listy odkúpené družstvom podľa odsekov 2 a 3 a podielnické listy premenené na členské vklady podľa § 17f sa považujú za zrušené. Družstvo oznámi bezodkladne potrebné údaje o týchto podielnických listoch príslušnému stredisku cenných papierov. Stredisko cenných papierov vykoná na základe tohto oznámenia potrebné zmeny v evidencii na účtoch dotknutých podielnikov a v registri emitenta.<sup>12l</sup>)
+(4) Podielnické listy odkúpené družstvom podľa odsekov 2 a 3 a podielnické listy premenené na členské vklady podľa § 17f sa považujú za zrušené. Družstvo oznámi bezodkladne potrebné údaje o týchto podielnických listoch príslušnému centrálnemu depozitárovi. Centrálny depozitár<sup>12kk</sup>) vykoná na základe tohto oznámenia potrebné zmeny v registri emitenta<sup>12l</sup>) a v súčinnosti s členmi centrálneho depozitára zabezpečí vykonanie potrebných zmien na účtoch majiteľov cenných papierov dotknutých podielnikov.
 
 (5) Ak je úhrnná cena, ktorú družstvo zaplatí podielnikom za podielnické listy pri ich odkúpení podľa odsekov 2 a 3 nižšia, ako je ich úhrnná menovitá hodnota, zahrnie sa tento rozdiel do nedeliteľného fondu družstva<sup>8</sup>) a nepovažuje sa za výnos družstva v príslušnom zdaňovacom období podľa osobitných predpisov.<sup>12m</sup>)
