@@ -43,3 +43,5 @@ Príloha č. 2 vyhlášky č. 59/1980 Zb.
   - 20. perie a výrobky z peria;
 
   - 21. starožitnosti;
+
+- 22. mopedy a motocykle zahraničnej výroby.
