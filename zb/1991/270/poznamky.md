@@ -1,3 +1,5 @@
+- 1) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
+
 - 2) § 19 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
 - 2a) § 20 ods. 1 písm. h) zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Slovenskej národnej rady č. 197/1991 Zb., zákona Slovenskej národnej rady č. 298/1991 Zb., zákona Slovenskej národnej rady č. 494/1991 Zb., zákona Slovenskej národnej rady č. 294/1992 Zb., zákona Slovenskej národnej rady č. 322/1992 Zb., zákona Slovenskej národnej rady č. 453/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 2/1993 Z. z.
@@ -15,6 +17,10 @@
 - 4a) § 73 ods. 2 Zákonníka práce.
 
 - 5) § 1 Hospodárskeho zákonníka.
+
+- 5a) Zákon Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení neskorších predpisov.
+
+- 5b) Napríklad zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách.
 
 - 6) § 16 zákona SNR č. 592/1990 Zb.
 
