@@ -12,6 +12,8 @@ Príloha č. 1 vyhlášky č. 3/1982 Zb.
 
 - Čadská republika
 
+- Demokratická republika Svätého Tomáša a Princovho ostrova
+
 - Federatívna a islamská republika Komory
 
 - Gambijská republika
@@ -27,6 +29,8 @@ Príloha č. 1 vyhlášky č. 3/1982 Zb.
 - Kapverdská republika
 
 - Laoská ľudovodemokratická republika
+
+- Lesotho
 
 - Maledivská republika
 
@@ -45,6 +49,10 @@ Príloha č. 1 vyhlášky č. 3/1982 Zb.
 - Republika Horná Volta
 
 - Republika Mali
+
+- Republika Sierra Leone
+
+- Republika Togo
 
 - Rwandská republika
 

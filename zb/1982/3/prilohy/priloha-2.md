@@ -16,11 +16,9 @@ Barbados
 
 Bolívijská republika
 
-Brazílska federatívna republika
+Brazilská federatívna republika
 
 Cyperská republika
-
-Demokratická republika Svätého Tomáša a Princovho ostrova
 
 Dominické spoločenstvo
 
@@ -32,7 +30,7 @@ Egyptská arabská republika
 
 Fidži
 
-Filipínska republika
+Filipínská republika
 
 Gabunská republika
 
@@ -62,8 +60,6 @@ Kambodžská ľudová republika
 
 Kamerunská zjednotená republika
 
-Kampučská ľudová republika
-
 Kenská republika
 
 Kiribatská republika
@@ -72,7 +68,11 @@ Kolumbijská republika
 
 Konžská ľudová republika
 
+Kórejská ľudovodemokratická republika
+
 Kostarická republika
+
+Kráľovstvo Saudská Arábia
 
 Kráľovstvo Tonga
 
@@ -81,8 +81,6 @@ Kubánska republika
 Libanonská republika
 
 Libérijská republika
-
-Líbyjská arabská socialistická ľudová džamahýria
 
 Madagaskarská demokratická republika
 
@@ -94,6 +92,8 @@ Mauretánska islamská republika
 
 Maurítius
 
+Mongolská ľudová republika
+
 Mozambická ľudová republika
 
 Nigérijská federatívna republika
@@ -104,7 +104,7 @@ Pakistanská islamská republika
 
 Panamská republika
 
-Papua-Nová Guinea
+Papua - Nová Guinea
 
 Paraguajská republika
 
@@ -118,15 +118,9 @@ Republika Pobrežie slonoviny
 
 Republika Rovníková Guinea
 
-Republika Sierra Leone
-
-Republika Togo
-
 Republika Trinidad a Tobago
 
 Salvadorská republika
-
-Saudské arabské kráľovstvo
 
 Senegalská republika
 
@@ -175,6 +169,8 @@ Tuvalu
 Uruguajská východná republika
 
 Venezuela
+
+Vietnamská socialistická republika
 
 Zairská republika
 
