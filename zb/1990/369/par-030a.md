@@ -9,5 +9,3 @@
 (4) Hlavný kontrolór, ktorý je zvolený do funkcie podľa predpisov platných do 30. júna 2004 a nespĺňa podmienku dosiahnutého vzdelania podľa § 18a ods. 1, zostáva naďalej vo funkcii. Vzdelanie podľa § 18a ods. 1 je tento hlavný kontrolór povinný dosiahnuť najneskôr do 30. júna 2009, inak sa má za to, že sa v tento deň svojej funkcie vzdal.
 
 (5) Hlavný kontrolór, ktorý nespĺňa povinnosti ostatného vedúceho zamestnanca<sup>16</sup>) alebo ktorý nespĺňa podmienky podľa § 18 ods. 1 tretej vety a ods. 2, je povinný ich splniť do 1. októbra 2004, inak sa má za to, že sa v tento deň svojej funkcie vzdal.
-
-(6) Hlavný kontrolór, ktorý je členom politickej strany alebo hnutia, je povinný vzdať sa tohto členstva alebo urobiť právne relevantný úkon smerujúci k vzdaniu sa členstva do 1. októbra 2004, inak sa má za to, že sa v tento deň svojej funkcie vzdal.
