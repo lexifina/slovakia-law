@@ -28,7 +28,7 @@
 
 - a) združené prostriedky,
 
-- b) prostriedky Európskych spoločenstiev a medzinárodných združení,
+- b) predvstupové prostriedky, povstupové prostriedky a prostriedky medzinárodných združení,
 
 - c) návratné zdroje financovania,
 

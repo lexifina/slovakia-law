@@ -22,6 +22,8 @@
 
 - 4a) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 4b) Zákon č. 473/2003 Z. z. o Pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov.
+
 - 5) Napríklad zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
 
 - 5a) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
