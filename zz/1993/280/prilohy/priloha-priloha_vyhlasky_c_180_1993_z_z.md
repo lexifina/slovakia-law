@@ -201,5 +201,3 @@ Príloha vyhlášky č. 180/1993 Z. z.
 - 23.3 | Výroba jadrových palív, rádioaktívnych prvkov a zlúčenín (činnosti, v ktorých sa hlavne pracuje s výbušninami, rádioaktívnymi látkami, infekčným materiálom, jedmi, vo veľkých výškach alebo hĺbkach) | 7,1
 
 - &nbsp | Ostatné ekonomické činnosti | 13,0
-
-Minimálne poistné za kalendárny mesiac je 100 Sk.
