@@ -1,0 +1,3 @@
+Minister:
+
+Vlasák v. r.
