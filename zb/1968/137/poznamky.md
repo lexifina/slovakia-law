@@ -1,5 +1,9 @@
 - *) Úžitkovou plochou bytu sa rozumie plocha v zmysle ČSN 73 4301 (bez plochy logií a balkónov).
 
+- **) Rozumie sa tým výstavba, ktorú národný výbor družstvu určil ako výstavbu svojpomocnú.
+
+- ***) Pokyny ministerstiev stavebníctva a ťažkého priemyslu z 21. 12. 1968 č. 3495/cen/68, ktorými sa menia a doplňujú pokyny pre určovanie niektorých vedľajších rozpočtových nákladov stavieb z 22. 12. 1966.
+
 - **) Pokyny o vymedzení obsahovej náplne rozpočtového nákladu bytu v bytovom dome vydá Ministerstvo techniky.
 
 - *) Bytovým domom sa rozumie bytový objekt alebo každá jeho sekcia (t.j. samostatný článok objektu tvoriaci funkčne a konštrukčne ucelenú priestorovú jednotku, kde byty sú prístupné zo spoločného vchodu), ktoré musia mať najmenej 2 obytné podlažia, 1 spoločný vchod, spoločné schodište a najmenej 4 byty, ktoré sú všetky prístupné zo spoločných chodieb alebo podest.
@@ -19,5 +23,9 @@
 - †) Oslobodenie od domovej dane je upravené vyhláškouč. 14/1968 Zb. o úľavách na domovej dani.
 
 - ††) Pozri poznámku **) k § 11 ods. 1.
+
+- *) Pozri poznámku ***) k § 11 ods. 1.
+
+- **) Úprava Ministerstva stavebníctva z 21. 12. 1968 o zmene cien stavebných prác k 1. januáru 1969.
 
 - *) Uznesenie vlády č. 34/1966 (bod D/5). Možnosť použitia finančných výhod pre družstevnú bytovú výstavbu a výstavbu a opravy rodinných domčekov podľa uznesení vlády č. 378/1962 a č. 866/1963 o poskytnutí finančnej a materiálovej výpomoci na opravy a výstavbu bytov v oblasti Uličsko-ubľanskej doliny zostáva nedotknutá.
