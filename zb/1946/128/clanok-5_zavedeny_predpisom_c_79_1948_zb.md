@@ -1,0 +1,7 @@
+# Čl. V - zavedený predpisom č. 79/1948 Zb.
+
+(1) V případech zvláštního zřetele hodných může stát zcela nebo zčásti nahradit na vázaný vklad (dekret presidenta republiky ze dne 19. října 1945, č. 91 Sb., o obnovení československé měny) toho, proti komu nárok na vrácení věci (práva) směřuje, nabývací cenu vrácené věci (práva), zaplacenou t. zv. slovenskému státu. O přiznání náhrady rozhoduje věcně příslušné pověřenectvo v dohodě s pověřenectvem financí podle směrnic ministerstva financí. Z přiznané náhrady uhradí se dlužné daně a jiné veřejné dávky toho, proti komu nárok na vrácení věci (práva) směřuje, pokud je lze platiti převodem z vázaných vkladů.
+
+(2) Je-li nabývací cena vrácené věci (práva) v soudním depositu, poukáže ji soud na vázaný vklad složitele, nepodléhá-li depositum konfiskaci a nenabyla-li třetí osoba na toto depositum práva.
+
+(3) Poskytne-li se tomu, komu nárok na vrácení věci (práva) přísluší, peněžitá náhrada místo vrácení věci (práva), nahradí mu stát částku, kterou ten, proti komu nárok směřuje, zaplatil jako nabývací cenu t. zv. slovenskému státu, po odpočítání daní a jiných veřejných dávek. Náhradu tuto poskytne stát zpravidla v dluhopisech, které na základě tohoto zákonného ustanovení vydá, a ten, komu nárok na vrácení věci (práva) přísluší, je povinen dluhopisy místo plnění v hotovosti přijmouti. Případný rozdíl mezi uvedenou nabývací cenou a obecnou cenou doplatí ten, proti komu nárok na vrácení věci (práva) směřuje.
