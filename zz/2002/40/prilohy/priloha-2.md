@@ -1,4 +1,4 @@
-Príloha
+Príloha č. 2
 
 - k nariadeniu vlády č. 40/2002 Z. z.
 
@@ -392,6 +392,8 @@ Príloha
 
     - Hluk pozadia sa meria pred meraním alebo po meraní posudzovaného zdroja pri zhodných podmienkach, napr. umiestnenie mikrofónu, čas merania, poveternostné podmienky. Hluk pozadia môžu spôsobovať nielen zdroje hluku, ale aj neakustické vplyvy, napr. elektrické a magnetické polia alebo prúdenie vzduchu.
 
+  - 47. Akčná hodnota určujúcej veličiny je hodnota, ktorej prekročenie je dôvodom na vykonanie opatrení na zníženie hluku.
+
 - II. oddiel Hluk v pracovnom prostredí
 
   - Najvyššie prípustné hodnoty určujúcich veličín hluku na pracoviskách
@@ -633,6 +635,28 @@ Príloha
     - 8. Najvyššia prípustná ekvivalentná hladina zvuku L<sub>Aeq,T,p</sub> v spoločenských priestoroch, v miestach zdržiavania sa osôb, napr. hľadisko, reštauračné priestory, tanečný parket a podobne pre zvuk elektronicky zosilňovanej hudby v prípade bežnej hudobnej produkcie je 90 dB a v prípade koncertnej produkcie je 100 dB počas štyroch hodín. Pre vekovú kategóriu detí do 15 rokov sú najvyššie prípustné hladiny o 5 dB nižšie.
 
     - 9. Najvyššia prípustná ekvivalentná hladina G infrazvuku počas jednej hodiny L<sub>Geq,1h,p</sub> vnútri budov je 90 dB.
+
+  - C. Akčné hodnoty hlukových indikátorov vo vonkajšom prostredí L<sub>dvn</sub> a Lnoc
+
+    - 1. Akčné hodnoty hlukových indikátorov vo vonkajšom prostredí L<sub>dvn</sub> a L<sub>noc</sub>, ktoré sa vzťahujú na priestory vo vonkajšom prostredí podľa § 2 zákona č. 2/2005 Z. z. o posudzovaní a kontrole hluku vo vonkajšom prostredí a o zmene zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, sú uvedené v tabuľke č. 5a.
+
+    - 2. Hlukové indikátory L<sub>dvn</sub> a L<sub>noc</sub> sa stanovujú podľa prílohy č. 1 bodu 1 nariadenia vlády Slovenskej republiky č. 43/2005 Z. z., ktorým sa ustanovujú podrobnosti o strategických hlukových mapách a akčných plánoch ochrany pred hlukom.
+
+      - Tabuľka č. 5a Akčné hodnoty hlukových indikátorov vo vonkajšom prostredí L<sub>dvn</sub> a Lnoc
+
+      - | Akčné hodnoty hlukových indikátorov (dB) | | |
+
+      - Zdroje hluku | Vonkajšie prostredie<sup>1</sup>) | | Vonkajšie prostredie s osobitnou ochranou pred hlukom<sup>2</sup>) |
+
+      - | L<sub>dvn</sub> | L<sub>noc</sub> | L<sub>dvn</sub> | L<sub>noc</sub>
+
+      - Priemysel | 55 | 40 | 50 | 35
+
+      - Letiská | 60 | 50 | 60 | 50
+
+      - Pozemné komunikácie | 60 | 50 | 55 | 45
+
+      - Železničné dráhy | 60 | 50 | 55 | 45
 
 - IV. oddiel Vibrácie v pracovnom prostredí
 

@@ -23,3 +23,7 @@
 - 11) § 13n ods. 4, 5 a 7 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení zákona č. 514/2001 Z. z.
 
 - 12) STN ISO 2041 Mechanické vibrácie a otrasy. Názvoslovie.
+
+- 1) Okrem areálov priemyselných podnikov a plôch dopravného vybavenia územia.
+
+- 2) Tiché oblasti v aglomerácii, napr. veľké kúpeľné a liečebné areály.
