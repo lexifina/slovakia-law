@@ -60,7 +60,11 @@ Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a
 
 - (1)
 
-- Ministerstvo školstva Slovenskej republiky je ústredným orgánom štátnej správy Slovenskej republiky pre základné školy, stredné školy a vysoké školy, pre školské zariadenia, celoživotné vzdelávanie, pre vedu a techniku, pre oblasť informatiky, pre štátnu starostlivosť o mládež a pre šport.“.
+- Ministerstvo školstva Slovenskej republiky je ústredným orgánom štátnej správy Slovenskej republiky pre základné školy, stredné školy a vysoké školy, pre školské zariadenia, celoživotné vzdelávanie, pre vedu a techniku, pre oblasť informatiky, pre štátnu starostlivosť o mládež a pre šport.
+
+- (2)
+
+- Ministerstvu školstva Slovenskej republiky je podriadená Štátna školská inšpekcia.“.
 
 - 4. V § 20 ods. 1 sa vypúšťa písmeno i).
 
