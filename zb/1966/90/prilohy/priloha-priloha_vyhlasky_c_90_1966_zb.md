@@ -26,31 +26,39 @@ Príloha vyhlášky č. 90/1966 Zb.
 
       - a) Vojenská akadémia Antonína Zápotockého v Brne s fakultami
 
-    - - veliteľskou
-
-    - - inžinierskou pozemných vojsk
-
-    - - leteckou a protivzdušnej obrany
-
-    - - diaľkovou
-
     - - zahraničnou,
+
+    - - fakulta vševojsková, druhov vojsk a služieb - postgraduálnej prípravy,
+
+    - - vojensko-inžinierska fakulta;
 
     - b)
 
-    - Vysoká vojenská škola pozemného vojska hrdinu ZSSR kpt. O. Jaroša vo Vyškove na Morave,
+    - vo Vysokej vojenskej škole pozemného vojska trojnásobného hrdinu ČSSR a hrdinu ZSSR armádneho generála Ludvíka Svobodu vo Vyškove na Morave
+
+    - - vševojsková fakulta,
+
+    - - fakulta druhov vojsk;
 
     - c)
 
-    - Vysoká vojenská letecká škola Slovenského národného povstania v Košiciach,
+    - Vysoká vojenská letecká škola Slovenského národného povstania v Košiciach s fakultami
 
-    - d)
+    - - veliteľsko-inžinierska fakulta,
 
-    - Vysoká vojenská veliteľsko-technická škola v Martine,
+    - - vojensko-inžinierska fakulta.
 
     - e)
 
-    - Vysoká vojenská technická škola Československo-sovietskeho priateľstva v Liptovskom Mikuláši,
+    - Vysoká vojenská technická škola Československo-sovietskeho priateľstva v Liptovskom Mikuláši s fakultami
+
+    - - fakulta protivzdušnej obrany štátu I,
+
+    - - fakulta rádiolokácie a automatizovaných systémov velenia,
+
+    - - fakulta protivzdušnej obrany II,
+
+    - - spojovacia fakulta;
 
     - f)
 
@@ -66,13 +74,11 @@ Príloha vyhlášky č. 90/1966 Zb.
 
       - a) Vojenská politická akadémia Klementa Gottwalda v Bratislave s fakultami
 
-      - - vojensko-politickou
+      - - vojensko-politická fakulta postgraduálnej prípravy,
 
-      - - vojensko-pedagogickou a samostatnou fakultou-Vysokou vojenskou politickou školou,
+      - - vojensko-politická fakulta vysokoškolskej prípravy;
 
       - b) Vojenský lekársky výskumný a doškoľovací ústav Jana Evangelistu Purkyně v Hradci Králové,
-
-      - c) Vojenský odbor pri fakulte telesnej výchovy a športu Univerzity Karlovej v Prahe.
 
       - Absolventom Vojenského lekárskeho výskumného a doškoľovacieho ústavu Jana Evangelistu Purkyně priznáva vysoká vojenská škola titul „doktor medicíny“ (v skratke „MUDr.“). Absolventom Vojenskej politickej akadémie Klementa Gottwalda a vojenského odboru pri fakulte telesnej výchovy a športu Univerzity Karlovej, ktorí vykonajú predpísanú rigoróznu skúšku, priznávajú vysoké vojenské školy titul „doktor filozofie“ (v skratke „PhDr.“).
 
