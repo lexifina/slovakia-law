@@ -1,0 +1,1 @@
+- 1) Pribraním znalca sa rozumie aj vyžiadanie posudku od štátneho orgánu alebo štátneho ústavu podľa § 110 Trestného poriadku, ale nie jeho odborné vyjadrenie podľa § 105 ods. 1 druhej vety Trestného poriadku.
