@@ -1,10 +1,10 @@
-- 1) § 48 ods. 1 zákona Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+- 1) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 2) § 5 ods.1 písm. a) a b) a § 49 ods. 5 zákona Slovenskej národnej rady č. 266/1992 Zb.
+- 2) § 8 ods. 1 písm. a) a b) a § 78 ods. 1 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
-- 3) Napríklad § 5 zákona Slovenskej národnej rady č. 266/1992 Zb.
+- 3) Napríklad § 8 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
 
-- 4) § 10 a nasl. zákona Slovenskej národnej rady č. 266/1992 Zb.
+- 4) § 11 až 18 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 5) § 5 a 32 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení zákona Slovenskej národnej rady č. 293/1992 Zb., zákona Slovenskej národnej rady č. 323/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 187/1993 Z. z. (úplné znenie č. 12/1994 Z. z.).
 
@@ -14,25 +14,31 @@
 
 - 8) Zákon č. 71/1967 Zb.
 
-- 9) Zákon Slovenskej národnej rady č. 266/1992 Zb. v znení neskorších predpisov.
+- 9) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 10) § 18 ods. 2 a § 26 zákona č. 71/1967 Zb.
 
-- 11) § 4 písm. c) zákona Slovenskej národnej rady č. 266/1992 Zb.
+- 11) § 7 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 12) Napríklad zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení zákona č. 42/1992 Zb., zákona č. 93/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 186/1993 Z. z. (úplné znenie č. 11/1994 Z. z.), zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb., zákona č. 496/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z., zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb., zákona č. 264/1992 Zb., ústavného zákona č. 541/1992 Zb., zákona č. 544/1992 Zb., zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1994 Z. z. , zákona Národnej rady Slovenskej republiky č. 244/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 369/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
+- 12a) § 15 ods. 2 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení zákona Slovenskej národnej rady č. 571/1991 Zb.
+
 - 13) Napríklad § 34 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb., § 11 zákona č. 61/1977 Zb. o lesoch v znení zákona č. 229/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z. (úplné znenie č. 14/1994 Z. z.), zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 14) § 7 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z.
+- 14) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
+
+- 14a) § 22 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 14b) § 80 písm. c) Občianskeho súdneho poriadku.
 
 - 15) § 2 ods. 1 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - 16) § 2 zákona č. 61/1977 Zb.
 
-- 17) § 5 ods. 1 nariadenia vlády Slovenskej republiky č. 19/1993 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu v znení nariadenia vlády Slovenskej republiky č. 278/1994 Z. z.
+- 17) § 6 ods. 1 nariadenia vlády Slovenskej republiky č. 152/1996 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
 
 - 18) § 6 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhlášky č. 155/1980 Zb. a vyhlášky č. 378/1992 Zb.
 
@@ -49,6 +55,8 @@
 - 24) § 247 až 250k Občianskeho súdneho poriadku.
 
 - 25) § 80 písm. c) Občianskeho súdneho poriadku.
+
+- 25a) § 134 Občianskeho zákonníka.
 
 - 26) § 63 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 
@@ -74,17 +82,11 @@
 
 - 35) Napríklad § 3 zákona č. 61/1977 Zb. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 208/1994 Z. z. o nájme poľnohospodárskych a lesných nehnuteľností a o nájme poľnohospodárskeho podniku.
 
-- 36) § 34 ods. 3 písm. c) zákona Slovenskej národnej rady č. 330/1991 Zb.
-
-- 37) Zákon Slovenskej národnej rady č. 307/1992 Zb.
-
-- 38) Zákon č. 61/1977 Zb. v znení neskorších predpisov.
-
 - 39) § 108 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
-- 40) § 21 a nasl. zákona č. 50/1976 Zb.
+- 39a) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb., zákon č. 50/1976 Zb.
 
-- 41) Čl. II ods. 1 zákona Národnej rady Slovenskej republiky č. 99/1993 Z. z., ktorým sa mení a dopĺňa zákon č. 23/1962 Zb. o poľovníctve v znení neskorších predpisov.
+- 39b) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
 - 42) § 8 zákona Slovenskej národnej rady č. 307/1992 Zb.
 
@@ -108,7 +110,7 @@
 
 - 51) § 15 ods. 6 až 9 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb.
 
-- 52) § 12 ods. 2 zákona Slovenskej národnej rady č. 307/1992 Zb.
+- 52) § 1 a 2 zákona č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov.
 
 - 53) § 3 písm. h) zákona Slovenskej národnej rady č. 131/1991 Zb. o Štátnom fonde zveľaďovania lesa Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z. (úplné znenie č. 16/1994 Z. z.).
 
@@ -119,6 +121,8 @@
 - 56) § 14 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 57) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
+- 57a) Príloha 1 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
 - 58) § 13 až 17 zákona Slovenskej národnej rady č. 293/1992 Zb.
 
