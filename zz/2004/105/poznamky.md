@@ -40,6 +40,8 @@
 
 - 19) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 15/1998 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb v znení neskorších predpisov.
 
+- 19a) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
+
 - 20) Príloha č. 48 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
 
 - 21) § 459a zákona č. 238/2001 Z. z. v znení zákona č. 464/2003 Z. z.
@@ -53,10 +55,6 @@
 - 21c) Zákon č. 140/2000 Z. z. v znení neskorších predpisov.Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
 
 - 22) Zákon č. 104/2004 Z. z. o spotrebnej dani z vína.
-
-- 23) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
-
-- 24) § 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
 
 - 25) § 2 ods. 3 písm. i) zákona č. 467/2002 Z. z.
 

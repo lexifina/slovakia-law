@@ -1,0 +1,63 @@
+## Osobitná úprava predaja liehu oslobodeného od dane osobám iných štátov, ktoré požívajú výsady a imunity podľa medzinárodných zmlúv
+
+# § 37a
+
+(1) Od dane je oslobodený lieh predávaný v daňovom sklade na predaj liehu oslobodeného od dane osobám iných štátov, ktoré požívajú výsady a imunity podľa medzinárodnej zmluvy, a to výlučne osobám iných štátov, ktoré požívajú výsady a imunity podľa medzinárodnej zmluvy<sup>19a</sup>) (ďalej len „zahraničný zástupca").
+
+(2) Na účely tohto zákona zahraničným zástupcom je
+
+- a) diplomatická misia a konzulárny úrad so sídlom na území Slovenskej republiky s výnimkou konzulárneho úradu vedeného honorárnym konzulom,
+
+- b) medzinárodná organizácia a jej oblastná úradovňa (ďalej len „medzinárodná organizácia") so sídlom na území Slovenskej republiky, ktorá je zriadená podľa medzinárodnej zmluvy,<sup>19a</sup>)
+
+- c) diplomatický zástupca misie, ktorý nie je občanom Slovenskej republiky a nemá trvalý pobyt na území Slovenskej republiky,
+
+- d) konzulárny úradník, ktorý nie je občanom Slovenskej republiky a nemá trvalý pobyt na území Slovenskej republiky, s výnimkou honorárneho konzulárneho úradníka,
+
+- e) člen administratívneho personálu a technického personálu misie, ktorý nie je občanom Slovenskej republiky a nemá trvalý pobyt na území Slovenskej republiky,
+
+- f) konzulárny zamestnanec, ktorý nie je občanom Slovenskej republiky a nemá trvalý pobyt na území Slovenskej republiky, s výnimkou zamestnanca konzulárneho úradu vedeného honorárnym konzulom,
+
+- g) úradník medzinárodnej organizácie, ktorý nie je občanom Slovenskej republiky, nemá trvalý pobyt na území Slovenskej republiky a je trvale pridelený na výkon úradných funkcií v Slovenskej republike.
+
+(3) Právnická osoba alebo fyzická osoba, ktorá chce uskutočňovať predaj liehu oslobodeného od dane zahraničným zástupcom, musí písomne požiadať colný úrad o registráciu a o vydanie povolenia na prevádzkovanie daňového skladu na predaj liehu oslobodeného od dane zahraničným zástupcom (ďalej len „daňový sklad pre zahraničných zástupcov"). Na žiadosť o registráciu a vydanie povolenia na prevádzkovanie daňového skladu pre zahraničných zástupcov a na toto povolenie sa použije § 23 primerane; colný úrad, ktorý vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov, oznámi bezodkladne túto skutočnosť Colnému úradu Bratislava. Ak právnická osoba alebo fyzická osoba už požiadala o vydanie povolenia na prevádzkovanie daňového skladu pre zahraničných zástupcov podľa osobitného predpisu,<sup>42</sup>) možno vydať jedno povolenie pre všetky tovary podliehajúce spotrebným daniam podľa osobitného predpisu<sup>42</sup>) s výnimkou minerálnych olejov.
+
+(4) Právnická osoba alebo fyzická osoba podľa odseku 3 je povinná pred vydaním povolenia na prevádzkovanie daňového skladu pre zahraničných zástupcov zložiť zábezpeku na daň vo výške dane pripadajúcej na predpokladané priemerné mesačné množstvo predaného liehu. Ak právnická osoba alebo fyzická osoba už požiadala o vydanie povolenia na prevádzkovanie daňového skladu pre zahraničných zástupcov podľa osobitného predpisu,<sup>42</sup>) je povinná zložiť zábezpeku na daň vo výške dane pripadajúcej na priemerné mesačné množstvo predaných tovarov uvedených v povolení na prevádzkovanie daňového skladu pre zahraničných zástupcov. Na zloženie zábezpeky na daň sa použije § 24 primerane.
+
+(5) Colný úrad môže v povolení na prevádzkovanie daňového skladu pre zahraničných zástupcov uviesť prevádzkovo-technické podmienky prevádzkovania takéhoto skladu.
+
+(6) Preprava liehu právnickej osobe alebo fyzickej osobe, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov"), sa uskutočňuje v pozastavení dane so sprievodným dokumentom; na postup pri preprave liehu v pozastavení dane sa použijú § 25 a 26 primerane.
+
+(7) Zahraničný zástupca, ktorý chce nakupovať lieh oslobodený od dane v daňovom sklade pre zahraničných zástupcov, je povinný požiadať Ministerstvo zahraničných vecí Slovenskej republiky o vydanie potvrdenia o postavení zahraničného zástupcu podľa odseku 2 a o splnení podmienky vzájomnosti podľa odseku 15. Ak sa zmenia údaje uvedené v potvrdení Ministerstva zahraničných vecí Slovenskej republiky, Ministerstvo zahraničných vecí Slovenskej republiky oznámi bezodkladne tieto skutočnosti Colnému úradu Bratislava. Vzor potvrdenia Ministerstva zahraničných vecí Slovenskej republiky o postavení zahraničného zástupcu a o splnení podmienky vzájomnosti je uvedený v prílohe č. 2.
+
+(8) Lieh oslobodený od dane možno predať v daňovom sklade pre zahraničných zástupcov výlučne zahraničným zástupcom, a to len na základe povolenia na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov. Zahraničný zástupca musí písomne požiadať Colný úrad Bratislava o vydanie povolenia na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov. K žiadosti o vydanie povolenia na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov žiadateľ priloží potvrdenie podľa odseku 7.
+
+(9) Colný úrad Bratislava vydá povolenie na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov do 15 dní odo dňa podania žiadosti o vydanie povolenia na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov, v ktorom uvedie identifikačné údaje žiadateľa, jeho postavenie podľa odseku 2 a ročný limit na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov, a to v rozsahu podľa odsekov 12 až 14. Prílohou povolenia na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov je odpisový list, ktorý sa vydáva pre jednotlivé kalendárne roky. Ak právnická osoba alebo fyzická osoba už požiadala o vydanie povolenia na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov podľa osobitného predpisu,<sup>42</sup>) možno vydať jedno povolenie pre všetky tovary podliehajúce spotrebným daniam podľa osobitného predpisu,<sup>42</sup>) ktorého prílohou sú odpisové listy pre jednotlivé predmety spotrebnej dane podľa osobitného predpisu.<sup>42</sup>) Ak sa zmenia skutočnosti a údaje podľa odseku 7, Colný úrad Bratislava s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné povolenie na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov alebo vydá nové povolenie na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov. Ak zahraničnému zástupcovi zanikne nárok nakupovať lieh oslobodený od dane v daňovom sklade pre zahraničných zástupcov, je povinný najneskôr do 15 dní odo dňa zániku tohto nároku odovzdať Colnému úradu Bratislava povolenie na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov vrátane odpisového listu.
+
+(10) Colný úrad Bratislava vydá povolenie na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov vrátane odpisového listu v dvoch vyhotoveniach; jedno vyhotovenie pre Colný úrad Bratislava a jedno vyhotovenie pre zahraničného zástupcu. Colný úrad Bratislava v odpisovom liste uvedie ročný limit na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov, a to v rozsahu podľa odsekov 12 až 14, alebo jeho pomernú časť prislúchajúcu dĺžke obdobia zostávajúceho do konca kalendárneho roka v prípade, ak osoba iného štátu získa postavenie zahraničného zástupcu v priebehu kalendárneho roka. Pri výpočte pomernej časti ročného limitu sa zohľadňuje počet zostávajúcich kalendárnych mesiacov do konca kalendárneho roka vrátane začatých kalendárnych mesiacov. Nevyčerpaný limit alebo jeho časť je neprenosná do nasledujúceho kalendárneho roka. Zahraničný zástupca odovzdá Colnému úradu Bratislava odpisový list pre príslušný kalendárny rok do 31. januára nasledujúceho kalendárneho roka. Colný úrad Bratislava vydá odpisový list raz ročne na nasledujúci kalendárny rok na základe žiadosti zahraničného zástupcu.
+
+(11) Zahraničný zástupca je povinný pri každom nákupe liehu v daňovom sklade pre zahraničných zástupcov predložiť povolenie na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov a odpisový list. Prevádzkovateľ daňového skladu pre zahraničných zástupcov zaznamená v odpisovom liste množstvo zakúpeného liehu v litroch a ponechá si kópiu povolenia na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov a kópiu odpisového listu.
+
+(12) Zahraničný zástupca uvedený v odseku 2 písm. a) a b) môže nakúpiť za kalendárny rok lieh kódu kombinovanej nomenklatúry 2208 najviac v množstve 400 litrov liehu.
+
+(13) Zahraničný zástupca uvedený v odseku 2 písm. c) až f) môže nakúpiť na osobnú spotrebu za kalendárny rok lieh kódu kombinovanej nomenklatúry 2208 najviac v týchto množstvách:
+
+- a) vedúci misie 150 litrov liehu,
+
+- b) vedúci konzulárneho úradu 150 litrov liehu,
+
+- c) člen diplomatického personálu 70 litrov liehu,
+
+- d) člen administratívneho a technického personálu 40 litrov liehu.
+
+(14) Zahraničný zástupca uvedený v odseku 2 písm. g) môže nakúpiť na osobnú spotrebu za kalendárny rok lieh kódu kombinovanej nomenklatúry 2208 najviac v množstve 40 litrov liehu.
+
+(15) Povolenie na nákup liehu oslobodeného od dane v daňovom sklade pre zahraničných zástupcov Colný úrad Bratislava vydá v rozsahu podľa odsekov 12 až 14 len zahraničným zástupcom tých štátov, ktoré poskytujú obdobné zvýhodnenie alebo vracajú daň občanom Slovenskej republiky, ak požívajú výsady a imunity podľa medzinárodnej zmluvy<sup>19a</sup>) (ďalej len „slovenský zástupca"). Vzájomnosť sa nevzťahuje na medzinárodné organizácie a ich úradníkov.
+
+(16) Ak iný štát neposkytuje obdobné zvýhodnenie alebo nevracia daň slovenským zástupcom podľa odseku 15, neprizná sa zahraničným zástupcom tohto štátu oslobodenie od dane.
+
+(17) Prevádzkovateľ daňového skladu, ktorému bolo vydané povolenie na prevádzkovanie daňového skladu podľa § 23 a ktorý chce predávať lieh oslobodený od dane zahraničným zástupcom, musí písomne požiadať colný úrad o vydanie povolenia na prevádzkovanie daňového skladu pre zahraničných zástupcov. V žiadosti o vydanie povolenia na prevádzkovanie daňového skladu pre zahraničných zástupcov žiadateľ uvedie údaje podľa § 23 ods. 1. Prevádzkovateľ daňového skladu je povinný pred vydaním povolenia na prevádzkovanie daňového skladu pre zahraničných zástupcov zložiť zábezpeku na daň vo výške dane pripadajúcej na predpokladané priemerné mesačné množstvo predaného liehu v daňovom sklade pre zahraničných zástupcov. Zloženie zábezpeky na daň na lieh predaný v daňovom sklade pre zahraničných zástupcov sa nevyžaduje, ak zábezpeka na daň podľa § 24 ods. 1 je zložená v takej výške, že pokrýva i zábezpeku na daň na lieh, ktorý sa má predať v daňovom sklade pre zahraničných zástupcov.
+
+(18) Colný úrad preverí u žiadateľa skutočnosti a údaje podľa odseku 17 a § 37b ods. 1 a vydá žiadateľovi povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 30 dní odo dňa podania žiadosti; colný úrad, ktorý vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov, oznámi bezodkladne túto skutočnosť Colnému úradu Bratislava. Ak žiadateľ v tejto lehote nepreukáže splnenie všetkých podmienok, colný úrad ho vyzve, aby uvedené nedostatky odstránil, a vydá povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 15 dní odo dňa odstránenia nedostatkov.
+
+(19) Prevádzkovateľ daňového skladu pre zahraničných zástupcov môže dodávať slovenskému zástupcovi podľa odseku 15 lieh v pozastavení dane so sprievodným dokumentom a osvedčením o oslobodení od spotrebnej dane,<sup>13</sup>) ktoré vydal hostiteľský štát. Na takúto prepravu liehu sa zábezpeka na daň nevyžaduje.
