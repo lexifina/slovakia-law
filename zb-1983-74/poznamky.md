@@ -1,0 +1,1 @@
+- *) Zákon č. 52/1966 Sb., o osobním vlastnictví k bytům, ve znění zákona č. 30/1978 Sb.
