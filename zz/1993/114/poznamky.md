@@ -1,5 +1,3 @@
-- 1) Napríklad § 5 ods. 5, § 16 ods. 3, § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z.
-
 - 2) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
 
 - 3) Zákon č. 286/1992 Zb. o daniach z príjmov.
