@@ -6,6 +6,8 @@
 
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 4a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+
 - 5) § 189 až 192 a § 195 Trestného zákona.
 
 - 6) § 47 zákona č. 71/1967 Zb.
