@@ -1,0 +1,3 @@
+# § 10.
+
+Po snížení dane podľa §§ 8 a 9 môže u daňovníka so mzdou presahujúcou 2.000 Kčs mesačne daň byť menšia než 8 % daňového základu.
