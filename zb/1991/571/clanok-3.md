@@ -2,8 +2,6 @@
 
 Zrušujú sa
 
-- 1. prílohy A pol. 47, 48, 49 a 50, C pol. 15, 16, 17, 18, 19 a F pol. 1, 2, 3 zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy;
-
 - 2. vyhláška Ministerstva vnútra Slovenskej socialistickej republiky č. 167/1975 Zb., ktorou sa upravujú podrobnosti o postupe pri posudzovaní archívnych dokumentov ako kultúrnych pamiatok a spôsob zabezpečovania zvýšenej ochrany archívnych dokumentov ako kultúrnych pamiatok a národných kultúrnych pamiatok;
 
 - 3. § 11 vyhlášky Ministerstva vnútra Slovenskej socialistickej republiky č. 122/1976 Zb., ktorou sa upravujú podrobnosti o podmienkach a spôsobe využívania archívnych dokumentov;
