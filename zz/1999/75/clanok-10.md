@@ -1,0 +1,3 @@
+# Článok 10 Informácie a štatistické údaje
+
+Vládne orgány civilného letectva jednej zmluvnej strany na požiadanie poskytnú vládnym orgánom civilného letectva druhej zmluvnej strany také informácie a štatistické údaje týkajúce sa dohodnutých služieb poskytovaných určenou leteckou spoločnosťou alebo určenými leteckými spoločnosťami jednej zmluvnej strany z územia a na územie štátu druhej zmluvnej strany, aké bežne pripravujú a predkladajú jej vlastné vládne orgány civilného letectva. Akékoľvek dodatočné štatistické údaje o preprave, ktoré vládne orgány civilného letectva jednej zmluvnej strany budú požadovať, sa na požiadanie stanú predmetom vzájomných diskusií a dohody medzi vládnymi orgánmi civilného letectva obidvoch zmluvných strán.

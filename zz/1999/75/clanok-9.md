@@ -1,0 +1,5 @@
+# Článok 9 Schválenie prevádzkových plánov
+
+- 1. Letecká spoločnosť alebo letecké spoločnosti určené štátom jednej zmluvnej strany požiadajú vládne orgány civilného letectva druhej zmluvnej strany najneskôr tridsať (30) dní pred začatím poskytovania služieb o schválenie prevádzkových plánov (letových poriadkov pre letnú a zimnú prevádzkovú sezónu). Prevádzkový plán bude obsahovať letový poriadok, frekvenciu poskytovania služieb a typy lietadiel, ktoré sa budú používať. Vládne orgány civilného letectva rozhodnú o tomto prevádzkovom pláne do dvadsať (20) dní odo dňa zaslania plánu leteckou spoločnosťou na schválenie.
+
+- 2. Každú zmenu prevádzkového plánu, ako aj požiadavku na vydanie povolenia vykonávať dodatkové lety predloží určená letecká spoločnosť alebo určené letecké spoločnosti štátu jednej zmluvnej strany na schválenie vládnym orgánom civilného letectva druhej zmluvnej strany. Takúto požiadavku na zmenu alebo na dodatkové lety vládne orgány civilného letectva bezodkladne prerokujú.
