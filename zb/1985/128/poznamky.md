@@ -1,0 +1,1 @@
+- 1) Týmto zostávajú nedotknuté ustanovenia § 34 písm. a) a § 35 písm. a) zákona č. 130/1981 Zb. o vnútornom obchode.
