@@ -118,6 +118,8 @@
 
 - 47) § 25 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
+- 47a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 48) § 8a ods. 1 písm. r) zákona č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 158/2001 Z. z.
 
 - 49) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
