@@ -284,6 +284,10 @@ Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v z
 
 - Klasifikáciu jatočných ošípaných vykonávajú fyzické osoby alebo právnické osoby na základe osvedčenia o odbornej spôsobilosti vydaného ministerstvom. Podrobnosti o klasifikácii jatočných ošípaných a o vydávaní osvedčenia o odbornej spôsobilosti ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
 
+- (3)
+
+- Klasifikáciu jatočného hovädzieho dobytka a oviec vykonávajú fyzické osoby alebo právnické osoby na základe osvedčenia o odbornej spôsobilosti vydaného ministerstvom. Podrobnosti o klasifikácii jatočného hovädzieho dobytka a oviec a o vydávaní osvedčenia o odbornej spôsobilosti ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
 - (4)
 
 - Osvedčenie o odbornej spôsobilosti podľa odsekov 2 a 3 sa vydáva fyzickým osobám, ktoré preukážu zdravotnú spôsobilosť, absolvovali stredoškolské vzdelanie alebo vysokoškolské vzdelanie v príslušnom odbore, majú tri roky praxe a úspešne absolvovali odbornú prípravu.
