@@ -1,3 +1,0 @@
-Minister:
-
-Varga v. r.
