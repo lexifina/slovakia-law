@@ -6,11 +6,23 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
-- 5) Zákon č. 311/1999 Z. z. o registri trestov.
+- 4a) Zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení zákona č. 302/1999 Z. z.
+
+- Zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+
+- 4b) Trestný zákon v znení neskorších predpisov.
+
+- 5) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
 
-- 7) § 58a ods. 4 písm. a) zákona č. 335/1991 Zb. o súdoch a sudcoch v znení zákona Národnej rady Slovenskej republiky č. 307/1995 Z. z.
+- 7) § 36 ods. 1 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
 - 8) § 98 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
@@ -22,11 +34,17 @@
 
 - 11a) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
+- 11aa) Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
+
 - 12) § 143a Občianskeho zákonníka.
 
 - 13) § 115 Občianskeho zákonníka.
 
 - 14) Ústavný zákon Národnej rady Slovenskej republiky č. 119/1995 Z. z.
+
+- 14a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 14b) § 17, 26 a 27 zákona č. 335/1991 Zb. v znení neskorších predpisov.
 
 - 15) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
@@ -57,6 +75,12 @@
 - 28) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 28a) § 4 ods. 2 písm. b) zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
+- 28aa) § 39a zákona č. 335/1991 Zb. v znení zákona č. 426/2003 Z. z.
+
+- 28b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 28c) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
 - 29) § 251 až 351 Občianskeho súdneho poriadku.
 
