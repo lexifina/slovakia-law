@@ -1,0 +1,1 @@
+- 1) Pre opracovanie krupónu a manipuláciu s ním platí ustanovenie technickej normy ČSN 79 1265.
