@@ -1,1 +1,0 @@
-Ing. Martinka v. r.
