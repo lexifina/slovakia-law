@@ -116,6 +116,16 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 2.31. Vykonávanie pomocných murárskych, stolárskych, maliarskych, natieračských a inštalatérskych prác a prác jemnej mechaniky.
 
+- 2.32. Príjem a výdaj zákaziek v zberniach, vyberanie poplatkov za výkon služieb vrátane odvodu z tržieb.
+
+- 2.33. Rozkresľovanie konštrukčných podkladov podľa pokynov.
+
+- 2.34. Označovanie a triedenie faktúr, práce na účtovacích strojoch.
+
+- 2.35. Manipulačné práce v prevádzke podacej stanice s obsluhou zariadenia potrubnej pošty.
+
+- 2.36. Rozmnožovanie a kopírovanie technických a iných informácií a výkresovej dokumentácie na rotačných xerografických a diazografických strojoch s pripojeným zvážacím zariadením.
+
 - 3. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: stredné
@@ -184,7 +194,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 3.31. Obsluha a údržba strojových a rozvodných sústav malých kúpeľných a rehabilitačných zariadení s bazénom a ohrievanou vodou alebo s vaňovými a sprchovými boxami a ďalšími procedúrami (výmenníkové, čerpacie a filtračné zariadenia s prípadnou úpravou vody).
 
-- 3.32. Zabezpečovanie ochrany zbierkových, múzejných a výstavných fondov vrátane predbežného vyšetrovania krádeží s prípadným využívaním priemyselnej televízie, videotechniky a pod. vrátane spolupráce s políciou.
+- 3.32. Zabezpečovanie ochrany zbierkových, múzejných a výstavných fondov a verejných priestorov vrátane predbežného vyšetrovania krádeží s prípadným využívaním priemyselnej televízie, videotechniky a pod. vrátane spolupráce s políciou.
 
 - 3.33. Príprava a kultivovanie pôdy malou mechanizáciou na zakladanie trávnikov, kvetinových záhonov, trvaliek, liečivých rastlín a pod. vrátane výsevu semien sejacím strojom.
 
@@ -193,6 +203,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 3.35. Individuálne zhotovovanie technicky náročných pútačov, samostatné prispôsobenie rámcových alebo typových návrhov.
 
 - 3.36. Identifikácia a odber hrubých vzoriek podľa zjavných fyzikálnych vlastností podľa ČSN, príprava analytických a referenčných vzoriek; príprava štandardných roztokov pre analytické určovanie, kalibrácia vrátane určenia konštánt látok.
+
+- 3.37. Údržba a bežné opravy rotačných xerografických a diazografických strojov s pripojeným zvážacím zariadením.
 
 - 4. PLATOVÁ TRIEDA
 
@@ -224,7 +236,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 4.12. Vykonávanie úkonov úradného zapisovateľa v zmysle právneho poriadku alebo zákona o prokuratúre a zákona o policajnom zbore.
 
-- 4.13. Vykonávanie administratívnych úkonov súvisiacich so zabezpečovaním priebehu súdneho a notárskeho konania spočívajúceho najmä vo vyhotovovaní zápisníc z rokovania, rozhodnutí a v administratívnom vykonávaní porozsudkovej agendy podľa pokynov.
+- 4.13. Vykonávanie administratívnych úkonov súvisiacich so zabezpečovaním priebehu súdneho konania spočívajúceho najmä vo vyhotovovaní zápisníc z rokovania, rozhodnutí a v administratívnom vykonávaní porozsudkovej agendy podľa pokynov.
 
 - 4.14. Zabezpečovanie spisovej služby na prokuratúre a v policajnom zbore vrátane žurnalizácie, vedenia dozorových spisov, kontroly ich kompletnosti a obsahu z hľadiska určených náležitostí.
 
@@ -290,6 +302,16 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 4.45. Sériové analýzy štandardných vzoriek inštrumentálnymi metódami vrátane merania pracovných podmienok.
 
+- 4.46. Vykonávanie prác v informačnom systéme o území, príprava leteckých meracích snímok a snímok diaľkového prieskumu Zeme a prác v hydrografii podľa pokynov vedúceho.
+
+- 4.47. Ozbrojené sprevádzanie peňažných zásielok a cenín.
+
+- 4.48. Výkon jednoduchých individuálnych remeselníckych prác.
+
+- 4.49. Vykonávanie základných ekonomických, prevádzkových a všetkých administratívno-technických činností bezpečnostných útvarov.
+
+- 4.50. Komplexné zabezpečovanie vojskovej spisovej služby a podateľne.
+
 - 5. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad: úplné stredné
@@ -304,7 +326,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 5.04. Organizačné zabezpečenie posudkovej služby, vedenie agendy komisií.
 
-- 5.05. Zabezpečovanie archivácie závažných dokumentov orgánu štátnej správy.
+- 5.05. Vedenie archívu alebo zabezpečovanie archivácie závažných dokumentov v organizácii.
 
 - 5.06. Sprostredkovateľská činnosť pri umiestňovaní uchádzačov a záujemcov o zamestnanie.
 
@@ -364,6 +386,26 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 5.35. Analýzy neštandardných vzoriek inštrumentálnymi metódami (preparačné metódy, špeciálne rozbory rafinérskych výrobkov a pod.).
 
+- 5.36. Zabezpečovanie vstupnej, medzioperačnej a výstupnej technickej kontroly.
+
+- 5.37. Vykonávanie ucelených technických prác alebo čiastkových technických agend.
+
+- 5.38. Vykonávanie námerov, čiastkových rozborov a skúšok vrátane vyhodnocovania.
+
+- 5.39. Zabezpečovanie prevádzky výpočtovej stanice vrátane organizácie spracovania, distribúcie vstupných a výstupných dát a zaistenia bezpečnosti.
+
+- 5.40. Ozbrojená ochrana a stráženie cenín alebo dôležitých objektov s veľkým množstvom výbušnín, zbraní alebo horľavín.
+
+- 5.41. Samostatný výkon individuálnych remeselníckych prác.
+
+- 5.42. Operatívne (dispečerské) zabezpečovanie výroby, príp. prevádzky s jednoduchými technologickými väzbami.
+
+- 5.43. Zabezpečovanie prepravy osôb a cenného materiálu z bezpečnostnej stránky vrátane starostlivosti o technické prostriedky ochrany.
+
+- 5.44. Zaisťovanie bezpečnosti a plynulosti železničnej prevádzky, ochrany objektu, zariadení, osôb a verejného poriadku; zisťovanie priestupkov vrátane pokutovania, vykonávanie hliadkovej služby a strážnej ochrany.
+
+- 5.45. Komplexné zabezpečovanie vojskovej spisovej služby a podateľne v organizačne zložitých podmienkach.
+
 - 6. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: úplné stredné
@@ -400,13 +442,13 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 6.15. Koordinácia dopravy, energetického hospodárstva a vodného hospodárstva.
 
-- 6.16. Výkon súdnych rozhodnutí v najzložitejších podobách (exekúcie, dražby), kontrola práce súdnych kancelárií, koordinácia okresných súdov a vymáhanie súdnych a notárskych pohľadávok, zabezpečovanie výkonu peňažných trestov.
+- 6.16. Výkon súdnych rozhodnutí v najzložitejších podobách (exekúcie, dražby), kontrola práce súdnych kancelárií, koordinácia okresných súdov a vymáhanie súdnych pohľadávok, zabezpečovanie výkonu peňažných trestov.
 
 - 6.17. Zakladanie a vedenie zložitých registrov na prokuratúre a súdoch vo veciach odvolacieho konania.
 
 - 6.18. Vedenie knihy väzieb, knihy trestných depozitov a knihy trestných znakov.
 
-- 6.19. Výkon činnosti spisovej služby na generálnej prokuratúre a krajských prokuratúrach, na úrade vyšetrovania policajného zboru, krajských úradoch vyšetrovania a im na roveň postavených útvaroch.
+- 6.19. Výkon činnosti spisovej služby na veliteľstve zväzku, na generálnej prokuratúre a krajských prokuratúrach, na úrade vyšetrovania policajného zboru, krajských úradoch vyšetrovania a im na roveň postavených útvaroch.
 
 - 6.20. Prevádzka, údržba a opravy automatizovaných a poloautomatizovaných klimatizačných zariadení pre veľmi rozsiahle objekty s výkonom tepelných zdrojov cca 11,6 MW (10 Gcal/h), turbokompresorov, chladiacich veží, klimatizačných jednotiek a ich príslušenstva.
 
@@ -450,7 +492,29 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 6.40. Výkon funkčných skúšok výrobkov vrátane hodnotenia ich spôsobilosti a spracovania skúšobných protokolov.
 
-- 6.41. Organizácia chodu súdnej (notárskej) kancelárie, protokolárne spisovanie podaní a ústnych vyhlásení účastníkov, žiadosti o oslobodenie od súdnych poplatkov a o ustanovenie zástupcov, vyznačovanie doložky vykonateľnosti na rovnopise rozhodnutí.
+- 6.41. Organizácia chodu súdnej kancelárie, protokolárne spisovanie podaní a ústnych vyhlásení účastníkov, žiadosti o oslobodenie od súdnych poplatkov a o ustanovenie zástupcov, vyznačovanie doložky vykonateľnosti na rovnopise rozhodnutí.
+
+- 6.42. Vykonávanie kontroly jednotlivých čiastkových činností organizácie vrátane prešetrovania sťažností.
+
+- 6.43. Určovanie technologických postupov alebo organizácia jednoduchých výrob alebo prevádzok.
+
+- 6.44. Zostavovanie a preverovanie technických noriem a normatívov, vykonávanie rozborov technického charakteru.
+
+- 6.45. Sledovanie a kontrola dodržiavania technologických postupov a technických parametrov.
+
+- 6.46. Výkon prác pri zabezpečovaní chodu zložitej a špeciálnej výpočtovej techniky vrátane uvádzania do prevádzky.
+
+- 6.47. Ovládanie systémov prevádzky výpočtovej techniky vrátane obsluhy počítačov vyšších tried.
+
+- 6.48. Zabezpečovanie a vykonávanie športových a inštruktorských činností, reprezentácia na vnútroštátnych a medzinárodných súťažiach.
+
+- 6.49. Vykonávanie rizikových hasiacich prác a záchrany osôb v ochranných oblekoch pomocou výškovej a inej techniky, práce pod vodou a pod.
+
+- 6.50. Zabezpečovanie ochrannej služby v organizačnej jednotke s veľkým množstvom výbušnín, zbraní alebo horľavín.
+
+- 6.51. Výkon individuálnych remeselníckych prác so značným podielom tvorivej invencie alebo individuálnych remeselne vysokoodborných prác.
+
+- 6.52. Ochrana určených objektov osobitného významu vrátane ich zabezpečovania technickými prostriedkami.
 
 - 7. PLATOVÁ TRIEDA
 
@@ -476,11 +540,11 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 7.09. Odborné vedenie zdravotníckych pracovníkov v zariadeniach sociálnej starostlivosti v územnom celku.
 
-- 7.10. Organizácia a kontrola práce súdnych kancelárií krajských a okresných súdov a štátnych notárstiev.
+- 7.10. Organizácia a kontrola práce súdnych kancelárií krajských a okresných súdov.
 
 - 7.11. Komplexné zabezpečovanie správnej a ekonomickej agendy na okresnej prokuratúre a okresnom súde, okresných úradoch vyšetrovania policajného zboru, okresných veliteľstvách policajného zboru a im na roveň postavených útvaroch.
 
-- 7.12. Samostatné vykonávanie úkonov v trestných, občianskych a notárskych veciach, vyhradených inak podľa zákona o súdnom a notárskom konaní predsedovi senátu alebo štátnemu notárovi podľa ich pokynov.
+- 7.12. Vykonávanie úkonov v trestných, občianskoprávnych, správnych a obchodných veciach, vyhradených inak podľa zákona o súdnom konaní predsedovi senátu, podľa pokynov a v rozsahu ustanovenom v Spravovacom poriadku.
 
 - 7.13. Výkon správy v pôsobnosti okresnej prokuratúry.
 
@@ -524,9 +588,37 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 7.33. Práce pri príprave tlačovej formy, nastavovanie stroja a tlač náročných farbotlačových prác, vyžadujúcich presné dodržanie farieb a výtvarného rukopisu podľa originálu.
 
-- 7.34. Projektovanie stavieb menšieho rozsahu s bežne používanou konštrukciou a technológiou a technicky menej náročných stavieb.
+- 7.34. Projektovanie stavieb menšieho rozsahu s bežne používanou konštrukciou a technológiou a technicky menej náročných stavieb alebo výkon jednoduchých projektových prác, napr. v oblasti vykurovania, zdravotníckej techniky a elektroinštalácie.
 
 - 7.35. Náročné tlačiarenské práce v kartografii, napr. vyhotovenie vydavateľských originálov máp s náročnou generalizáciou polohopisu a výškopisu.
+
+- 7.36. Komplexné zabezpečovanie správy majetku rozsiahlych majetkových súborov.
+
+- 7.37. Samostatné spracovanie technických noriem a podkladov pre normatívy.
+
+- 7.38. Organizácia práce čiastkovej prevádzky výpočtových systémov, zabezpečovanie komplexnej obsluhy špeciálnych strojov a zariadení výpočtových systémov; zabezpečovanie prevádzky zložitých výpočtových systémov alebo sietí počítačov.
+
+- 7.39. Lokalizácia a odstraňovanie porúch špeciálnych strojov a zariadení výpočtových systémov alebo vyčlenených častí počítačov, zabezpečovanie ich profylaxie a bežnej údržby.
+
+- 7.40. Práce v informačnom systéme o území, mapovanie, príprava leteckých meracích snímok a snímok diaľkového prieskumu Zeme, grafické spracovanie výsledkov klasickým alebo automatizovaným systémom.
+
+- 7.41. Projektové riešenie prenosovej a spojovacej technológie, napr. na úrovni uzlovej siete alebo jednoduchšej zosilňovacej stanice.
+
+- 7.42. Organizácia systému obsluhy a ďalších služieb na palube veľkokapacitného lietadla, koordinácia práce medzi posádkou a pozemným personálom.
+
+- 7.43. Organizácia činnosti kolektívu palubných sprievodcov, garancia služieb pre cestujúcich, riešenie neštandardných situácií; zabezpečovanie dodržiavania prevádzkových a bezpečnostných predpisov na palube lietadla.
+
+- 7.44. Riadenie pohybu lietadiel na pohybovej ploche letiska so zodpovednosťou za bezpečnosť premávky.
+
+- 7.45. Určovanie technologických postupov alebo dispečerské riadenie výroby alebo prevádzky.
+
+- 7.46. Odborná metodická a trénerská činnosť; spracovanie programu telovýchovnej a športovej činnosti, usmerňovanie prípravy športovcov; zabezpečovanie vrcholovej športovej prípravy športovcov mládežníckych kategórií.
+
+- 7.47. Zabezpečovanie a vykonávanie športových a inštruktorských činností, napr. reprezentácia v širšom reprezentačnom družstve Slovenskej republiky.
+
+- 7.49. Výkon individuálnych tvorivých majstrovských remeselníckych prác.
+
+- 7.50. Riadenie a zabezpečovanie špeciálnych operatívnych technických prác pri nasadzovaní spravodajskej techniky.
 
 - 8. PLATOVÁ TRIEDA
 
@@ -558,7 +650,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 8.12. Zabezpečovanie správy daní na zverenom úseku.
 
-- 8.13. Komplexné zabezpečovanie súdnej správy okresného súdu.
+- 8.13. Komplexné zabezpečovanie súdnej správy okresného súdu alebo vojenského obvodového súdu.
 
 - 8.14. Samostatné zabezpečovanie zložitých úkonov, najmä v oblasti obchodného (platobné rozkazy) a správneho súdnictva a ďalších úkonov podľa Občianskeho súdneho poriadku a Trestného poriadku.
 
@@ -587,6 +679,42 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 8.26. Samostatné navrhovanie nových modelov, vzorov a tvarov alebo častí súborov a kolekcií, príp. ucelených častí zložitých výrobkov.
 
 - 8.27. Výkon kontrolnej činnosti v konkrétnych prípadoch v rozsahu pôsobnosti orgánov štátnej správy, aprobačná činnosť v dôchodkovej agende sociálneho zabezpečenia.
+
+- 8.28. Vykonávanie lektorskej a školiacej činnosti v ucelenej oblasti štátnej správy.
+
+- 8.29. Samostatné zabezpečovanie konania o predmetoch priemyselného vlastníctva, rozhodovanie o poskytnutí právnej ochrany na predložené riešenie.
+
+- 8.30. Vypracovanie technických, hygienických a iných noriem a normatívov a ich zborníkov.
+
+- 8.31. Organizovanie technickej vstupnej, medzioperačnej a výstupnej kontroly alebo samostatné vykonávanie najnáročnejšej technickej kontroly podľa technických noriem a technických podmienok.
+
+- 8.32. Určovanie technológie výroby s vysokými nárokmi na presnosť a spoľahlivosť (napr. výroba motorov, telefónnych ústrední a pod.).
+
+- 8.33. Zabezpečovanie a vykonávanie odborných opravárenských prác a údržby špeciálnych strojov a zložitých zariadení výpočtových systémov vrátane ich oživovania a uvádzania do prevádzky; vykonávanie pravidelných profylaktických prehliadok výpočtových systémov, práce pri ich technickom testovaní.
+
+- 8.34. Projektovanie bežných stavebných objektov (napr. obytných objektov do 4 podlaží, pozemných priemyselných objektov s jednoduchým založením).
+
+- 8.35. Konštrukčné riešenie strojových zariadení a prístrojov.
+
+- 8.36. Komplexná činnosť pri spracúvaní predletových informácií, zodpovednosť za správnosť, aktuálnosť a rozsah týchto informácií poskytovaných posádkam lietadiel (letecká informačná služba - briefing).
+
+- 8.37. Zabezpečovanie výchovy športového družstva, spracúvanie komplexných plánov športovej prípravy; zabezpečovanie činnosti trénerov športového družstva a prípravy reprezentantov Slovenskej republiky.
+
+- 8.38. Zabezpečovanie a vykonávanie športových a inštruktorských činností, napr. reprezentácia na olympijských hrách, majstrovstvách Európy alebo majstrovstvách sveta v individuálnych športových odvetviach a malých športových kolektívoch.
+
+- 8.39. Komplexné zabezpečovanie odborných činností v útvaroch ozbrojenej ochrany železníc a zabezpečovanie čiastkových odborných činností bezpečnostnej ochrany železníc na úrovni oblasti.
+
+- 8.40. Príprava a realizácia rozsiahlych investícií (technologické celky vrátane stavebnej časti) s posudzovaním a vyhodnocovaním ich efektívnosti.
+
+- 8.41. Zavádzanie nových metodík odberu vzoriek ovzdušia a merania fyzikálnych faktorov v teréne.
+
+- 8.42. Výkon funkcie právneho čakateľa vo vojenskej prokuratúre.
+
+- 8.43. Dispečerské alebo priame riadenie zložitých výrob alebo prevádzok.
+
+- 8.44. Pátranie po osobách a veciach, kontrola osôb dôvodne podozrivých z páchania trestnej alebo nepriateľskej činnosti.
+
+- 8.45. Sprevádzanie dopravných lietadiel s cieľom ochrany cestujúcich a posádky; vyjednávanie s prípadným páchateľom teroristického útoku.
 
 - 9. PLATOVÁ TRIEDA
 
@@ -632,11 +760,11 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 9.19. Vedenie kontrolných tímov v celom rozsahu pôsobnosti územných orgánov štátnej správy.
 
-- 9.20. Komplexné zabezpečovanie činností súdnej správy Najvyššieho súdu SR.
+- 9.20. Komplexné zabezpečovanie činností súdnej správy Najvyššieho súdu SR alebo Ústavného súdu SR.
 
 - 9.21. Zabezpečovanie komplexných poradensko-psychologických služieb, konzultačnej, terapeutickej a preventívno-výchovnej činnosti v regióne republík (územné pracoviská).
 
-- 9.22. Samostatné vykonávanie úkonov v trestných, občianskoprávnych, správnych, obchodných a notárskych veciach na krajských súdoch, ktoré inak vykonáva predseda senátu (samosudca), a to v rozsahu splnomocnenia podľa Spravovacieho poriadku, vrátane metodického usmerňovania príslušných zamestnancov okresných súdov.
+- 9.22. Samostatné vykonávanie úkonov v trestných, občianskoprávnych, správnych a obchodných veciach na krajských súdoch, ktoré inak vykonáva predseda senátu (samosudca), a to v rozsahu splnomocnenia podľa Spravovacieho poriadku, vrátane metodického usmerňovania príslušných zamestnancov okresných súdov.
 
 - 9.23. Zabezpečovanie komplexnej rozborovej a kontrolnej činnosti vrátane návrhov na opatrenia.
 
@@ -650,11 +778,45 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 9.29. Zabezpečovanie investičnej činnosti v celom rozsahu v organizácii s rozsiahlou investičnou výstavbou.
 
-- 9.30. Zabezpečovanie najzložitejších prác pri montáži, oživovaní a uvádzaní do prevádzky zložitých elektronických systémov.
+- 9.30. Zabezpečovanie najzložitejších prác pri montáži, údržbe, oživovaní a uvádzaní do prevádzky zložitých elektronických systémov.
 
-- 9.31. Vytváranie užívateľských systémov, prípadne sietí navzájom prepojených personálnych počítačov vrátane ich odladenia.
+- 9.31. Rozbory a matematické analýzy zložitých úloh, analýzy a projektovanie riešenia báz dát, ochrany a údržby dát; organizovanie a riadenie realizácie vykonávacích projektov spracovania dát.
 
 - 9.32. Konštrukčné riešenie technicky veľmi náročných výrobkov a zariadení.
+
+- 9.33. Výkon štátnej inšpekcie, skúšobníctva alebo dozoru nad technickou spôsobilosťou jednotlivých strojov, zariadení, výrob a prevádzok a nad odbornou spôsobilosťou skupín zamestnancov podľa zákonných poverení.
+
+- 9.34. Výkon ucelených odborných špecializovaných činností vo vymedzenom úseku štátnej správy s celoštátnou pôsobnosťou.
+
+- 9.35. Organizácia technickej kontroly v technologicky najnáročnejších výrobách vrátane rozborov kvality a návrhov opatrení.
+
+- 9.36. Určovanie technológií najzložitejších výrob (leteckej techniky a pod.).
+
+- 9.37. Operatívne (dispečerské) alebo priame riadenie veľmi zložitých výrob alebo prevádzok.
+
+- 9.38. Projektovanie rozsiahlych a zložitých investičných celkov alebo ich najnáročnejších stavebných a technologických častí.
+
+- 9.39. Organizácia najzložitejšej technickej agendy pri spracúvaní technickej dokumentácie a technológie pre všetky typy lietadiel vrátane najzložitejšej lietadlovej techniky, zodpovednosť za dodržiavanie technologických postupov.
+
+- 9.40. Organizácia kontrolných prác na zverenom úseku kontroly lietadiel, odstraňovania zistených závad na lietadlách, zodpovednosť za kvalitnú prácu kontrolórov a mechanikov.
+
+- 9.41. Komplexné dispečerské riadenie leteckej premávky, dozoru za letový úsek, zodpovednosť za koordináciu letovej premávky so všetkými zložkami organizácie.
+
+- 9.42. Komplexné dispečerské riadenie odbavovacieho procesu, koordinácia odbavenia lietadiel, cestujúcich, batožín, tovaru, pošty; riešenie prevádzkových zmien.
+
+- 9.43. Zabezpečovanie neradarových rozostupov medzi riadenými letmi, zodpovednosť za koordináciu letovej premávky so spolupracujúcimi stanovišťami a pracoviskami, udržiavanie spojenia s lietadlami, poskytovanie letových informácií lietadlám a vedúcim zmien.
+
+- 9.44. Výkon činnosti prokurátora, vyšetrovateľa alebo staršieho vyšetrovateľa vojenskej obvodovej prokuratúry.
+
+- 9.45. Samostatné posudzovanie najnáročnejších technických riešení oproti svetovému stavu vo vývoji techniky v odbore priemyselného vlastníctva.
+
+- 9.46. Komplexné zabezpečovanie konania o predmetoch priemyselného vlastníctva, rozhodovanie o poskytnutí právnej ochrany na predložené riešenie v zložitých prípadoch konania.
+
+- 9.47. Komplexné zaisťovanie bezpečnostnej ochrany železníc v útvaroch s vysokou intenzitou činnosti vo významných železničných uzloch; zabezpečovanie hlavných činností bezpečnostnej ochrany železníc na úrovni oblasti.
+
+- 9.48. Zabezpečovanie a vykonávanie športových a inštruktorských činností, napr. reprezentácia v individuálnych športových odvetviach a malých kolektívoch na olympijských hrách a majstrovstvách sveta s umiestnením do 6. miesta, na majstrovstvách Európy do 3. miesta alebo prekonanie európskeho rekordu.
+
+- 9.49. Vykonávanie náročných špecializovaných spravodajských operácií v tuzemsku i v zahraničí.
 
 - 10. PLATOVÁ TRIEDA
 
@@ -694,13 +856,13 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 10.17. Tvorba zásad usmerňovania vývoja národohospodárskych celkov, utváranie politiky vývoja odvetvia ako celku.
 
-- 10.18. Zabezpečovanie najnáročnejšej koncepčnej a metodologickej činnosti v čiastkových oblastiach systému štátnej správy s republikovou pôsobnosťou.
+- 10.18. Zabezpečovanie najnáročnejšej koncepčnej, metodickej, normotvornej a obdobnej odbornej činnosti v čiastkových oblastiach systému štátnej správy s celoštátnou pôsobnosťou.
 
 - 10.19. Rozhodovanie najzložitejších právnych vzťahov pri konaní o povolení vkladu údajov do katastra nehnuteľností.
 
 - 10.20. Komplexné zabezpečovanie výkonu štátnej správy a činností na najvýznamnejších rozvojových a koncepčných úsekoch okresných úradov a úradov miest nad 50 tis. obyvateľov.
 
-- 10.21. Výkon štátnej inšpekcie nad technickou a inou spôsobilosťou komplexov strojov a zariadení, nad prevádzkou zložitých procesov (výroba, prevádzka, postupy, koordinácia) a nad odbornou spôsobilosťou vysokokvalifikovaných odborníkov, a to s republikovou alebo celoštátnou pôsobnosťou a so zodpovednosťou za bezpečnosť a životy širokej skupiny osôb alebo za veľmi vysoké škody odstrániteľné za veľmi dlhé obdobie alebo neodstrániteľné vrátane koordinácie a organizačného zabezpečenia expertnej a analytickej činnosti.
+- 10.21. Výkon štátnej inšpekcie a skúšobníctva nad technickou a inou spôsobilosťou komplexov strojov a zariadení, nad prevádzkou zložitých procesov (výroba, prevádzka, postupy, koordinácia) a nad odbornou spôsobilosťou vysokokvalifikovaných odborníkov, a to s republikovou pôsobnosťou a so zodpovednosťou za bezpečnosť a životy širokej skupiny osôb alebo za veľmi vysoké škody odstrániteľné za veľmi dlhé obdobie alebo neodstrániteľné vrátane koordinácie a organizačného zabezpečenia expertnej a analytickej činnosti.
 
 - 10.22. Koncepčná a normotvorná činnosť na úseku geodézie a kartografie.
 
@@ -708,15 +870,49 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 10.24. Zabezpečovanie poradensko-metodickej činnosti na územnom finančnom orgáne; koordinácia činnosti kontrolnej skupiny v rozsahu pôsobnosti územného finančného orgánu.
 
+- 10.25. Vypracúvanie odborných patentovoprávnych a technických stanovísk k riešeniu špecifických problémov v technickej oblasti; riadenie rokovania odborných komisií I. a II. inštancie o predmetoch priemyselného vlastníctva.
+
+- 10.26. Posudzovanie a rozhodovanie o najnáročnejších technických riešeniach oproti svetovému stavu vo vývoji techniky z hľadiska patentovej nezávadnosti.
+
+- 10.27. Riadenie, organizácia a koordinácia veľmi zložitých technologických celkov, výrob a zariadení.
+
+- 10.28. Organizácia, zabezpečenie a vytváranie projektových úloh automatizácie riadenia; tvorba spracovania logických rozborov a matematickej analýzy rozsiahlych projektov spracovania dát.
+
+- 10.29. Samostatné tvorivé, konštrukčné riešenie unikátnych strojov a zariadení, založených na funkčne nových princípoch (napr. výrobných zariadení, dopravných prostriedkov).
+
+- 10.30. Projektovanie veľmi zložitých stavieb a technologických celkov.
+
+- 10.31. Navigačné vedenie lietadla, zodpovednosť za presnosť informácií pre veliteľa lietadla, za úplnosť navigačnej dokumentácie na palube lietadla; kontrola správnej činnosti všetkých navigačných a rádionavigačných zariadení pred letom a v priebehu letu na lietadle so vzletovou hmotnosťou nad 80 000 kg.
+
+- 10.32. Rozhodovanie v procese riadenia letovej premávky; medzinárodná spolupráca vrátane koordinácie činnosti so stanovišťami riadenia letovej premávky v rámci štátu, zodpovednosť za bezpečné, plynulé a ekonomické riadenie v rámci svojej pôsobnosti pomocou neradarových rozostupov.
+
+- 10.33. Zabezpečovanie spojenia so službami riadenia letovej premávky, včasnosti a úplnosti podávaných informácií, kontroly správnej činnosti všetkých spojovacích zariadení pred letom a v priebehu letu.
+
+- 10.34. Výkon činnosti vojenského obvodového prokurátora a jeho námestníka, vedúceho prokurátora a staršieho prokurátora hlavnej vojenskej prokuratúry, náčelníka oddelenia, staršieho prokurátora a staršieho vyšetrovateľa vyššej vojenskej prokuratúry.
+
+- 10.35. Samostatné rozpracovanie koncepcií rozvoja Armády SR pre určitú odbornosť alebo službu vo vojsku.
+
+- 10.36. Organizácia inšpekčnej a kontrolnej činnosti s celoarmádnou pôsobnosťou, jej plánovanie, usmerňovanie a vyhodnocovanie.
+
+- 10.37. Zabezpečovanie a vykonávanie športových a inštruktorských činností, napr. reprezentácia na olympijských hrách a majstrovstvách sveta s umiestnením do 3. miesta, na majstrovstvách Európy vybojovanie 1. miesta alebo prekonanie svetového rekordu.
+
+- 10.38. Komplexné zaisťovanie bezpečnostnej ochrany železníc na úrovni oblasti alebo zabezpečovanie činnosti ústredného veliteľstva ozbrojenej ochrany železníc.
+
+- 10.39. Komplexné zabezpečovanie technologickej prípravy najzložitejších a najnáročnejších výrob, napr. investičných celkov.
+
+- 10.40. Vyšetrovanie trestných činov proti bezpečnosti štátu vrátane spolupráce s bezpečnostnými orgánmi ďalších štátov.
+
+- 10.41. Komplexná príprava a organizovanie rozsiahlych a špecifických bezpečnostných činností.
+
 - 11. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: vysokoškolské
 
 - Príklady pracovných činností:
 
-- 11.01. Koncepčná a normotvorná odborná činnosť ústredného orgánu štátnej správy alebo iného orgánu štátnej správy s celoštátnou alebo republikovou pôsobnosťou; tvorba zásad zákonnej právnej úpravy jednotlivých oblastí spoločenského systému; príprava zásadných materiálov pre utváranie politiky vývoja jednotlivých odvetví.
+- 11.01. Koncepčná a normotvorná odborná činnosť ústredného orgánu štátnej správy alebo iného orgánu štátnej správy s republikovou pôsobnosťou alebo iného štátneho orgánu (napr. Najvyššieho kontrolného úradu SR); tvorba zásad zákonnej právnej úpravy jednotlivých oblastí spoločenského systému; príprava zásadných materiálov pre utváranie politiky vývoja jednotlivých odvetví.
 
-- 11.02. Zabezpečovanie a koordinácia štátnej inšpekcie a dozoru nad najzložitejšími procesmi so zodpovednosťou za všeobecné ohrozenie osôb a neodstrániteľné škody širokého medzinárodného dosahu vrátane komplexnej systémovej analýzy.
+- 11.02. Zabezpečovanie a koordinácia štátnej inšpekcie, dozoru a skúšobníctva nad najzložitejšími procesmi so zodpovednosťou za všeobecné ohrozenie osôb a neodstrániteľné škody širokého medzinárodného dosahu vrátane komplexnej systémovej analýzy.
 
 - 11.03. Vyšetrovanie veľmi závažných banských havárií a mimoriadnych udalostí, spracúvanie odborných posudkov pre príslušné orgány a nariaďovanie opatrení na ich predchádzanie.
 
@@ -724,9 +920,23 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 11.05. Spracovanie návrhov koncepcií rozvoja jednotlivých oblastí spoločenského systému s republikovou pôsobnosťou a s medzinárodnými nadväznosťami vrátane tvorby zásad zákonných právnych úprav.
 
-- 11.06. Koordinácia republikových, celoštátnych alebo medzinárodných systémov so zložitými vnútornými a vonkajšími väzbami.
+- 11.06. Koordinácia celoštátnych alebo medzinárodných systémov so zložitými vnútornými a vonkajšími väzbami.
 
 - 11.07. Výkon lekárskej posudkovej činnosti v posudkovej komisii sociálneho zabezpečenia po získaní II. špecializácie.
+
+- 11.08. Koordinácia a tvorivé riešenie najzložitejších konštrukčných a projektových úloh, významných stavieb (napr. jadrových zariadení), unikátnych strojov a zložitých investičných zariadení na funkčne nových princípoch so špičkovými parametrami.
+
+- 11.09. Tvorba zásad zákonných právnych úprav z patentovoprávnej oblasti, príprava vykonávacích predpisov k príslušným zákonom.
+
+- 11.10. Riešenie základných otázok systému velenia a riadenia vojsk, riešenie zásadných názorových stretov druhov vojsk a služieb; rozhodovanie o prioritách Armády SR.
+
+- 11.11. Vedenie lietadla so vzletovou hmotnosťou nad 80 000 kg, zodpovednosť za presné a bezpečné vykonávanie leteckých činností vrátane zodpovednosti za činnosť celej posádky od začatia predletovej prípravy do ukončenia letu.
+
+- 11.12. Výkon činnosti vyššieho vojenského prokurátora a jeho námestníka, náčelníka oddelenia a zástupcu náčelníka oddelenia hlavnej vojenskej prokuratúry.
+
+- 11.13. Navrhovanie nových a tvorivá aplikácia všeobecných matematických metód v kryptológii pri tvorbe nových šifrovacích systémov, pri rozboroch a lúštení cudzích šifrovacích systémov.
+
+- 11.14. Komplexné systémové riešenie otázok súvisiacich s ochranou vnútorného poriadku a bezpečnosti štátu na zverených úsekoch.
 
 - 12. PLATOVÁ TRIEDA
 
@@ -734,9 +944,13 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 12.01. Tvorivé spracovanie a posudzovanie koncepcií dlhodobého rozvoja celospoločenského systému alebo jeho jednotlivých úsekov činnosti štátnych orgánov vo vzájomných väzbách, a to z celospoločenských hľadísk s prihliadnutím na zahranično-politickú orientáciu ČSFR.
+- 12.01. Tvorivé spracovanie a posudzovanie koncepcií dlhodobého rozvoja celospoločenského systému alebo jeho jednotlivých úsekov činnosti štátnych orgánov vo vzájomných väzbách, a to z celospoločenských hľadísk s prihliadnutím na zahranično-politickú orientáciu SR.
 
-- 12.02. Tvorivá koordinácia republikových, celoštátnych alebo medzinárodných systémov s najširšími vnútornými a vonkajšími väzbami na zložité a rozsiahle systémy rôznych odborov a smerov.
+- 12.02. Tvorivá koordinácia celoštátnych alebo medzinárodných systémov s najširšími vnútornými a vonkajšími väzbami na zložité a rozsiahle systémy rôznych odborov a smerov.
+
+- 12.03. Vedenie veľkokapacitného lietadla s najzložitejšou elektronickou výzbrojou (napr. typu Airbus, A 310/300); zodpovednosť za kvalitné, bezpečné a hospodárne uskutočnenie letu vrátane zodpovednosti za činnosť posádky od začatia predletovej prípravy do ukončenia letu.
+
+- 12.04. Výkon činnosti hlavného vojenského prokurátora a jeho zástupcu.
 
 - B. Kultúra
 
@@ -1564,7 +1778,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - Príklady pracovných činností:
 
-- 5.01. Komplexná hygienická, ošetrovateľská a pestúnska starostlivosť o deti predškolského veku v týždenných jasliach, zariadeniach sociálnej starostlivosti, týždenných pobytoch pre deti a mládež a v ústavoch sociálnej starostlivosti pre zdravotne postihnuté deti a mládež pri ošetrovaní chorých v lôžkových zdravotníckych zariadeniach.
+- 5.01. Komplexná hygienická, opatrovateľská a pestúnska starostlivosť o deti predškolského veku v týždenných jasliach, zariadeniach sociálnej starostlivosti, týždenných pobytoch pre deti a mládež a v ústavoch sociálnej starostlivosti pre zdravotne postihnuté deti a mládež pri ošetrovaní chorých v lôžkových zdravotníckych zariadeniach.
 
 - 5.03. Liečebná pracovná terapia so zverencami a obyvateľmi ústavov sociálnej starostlivosti.
 
@@ -1730,7 +1944,7 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 8.19. Vykonávanie špecializovaných genetických, cytogenetických a nukleárno genetických špecializovaných farbiacich metód, napr. neurohistologikých, histologických a náročných laboratórnych prác na úseku histológie, samostatné odčítavanie predbežných cytologických výsledkov.
 
-- 8.20. Vykonávanie vysokokvalifikovaných prác spojených s používaním zložitých laboratórnych prístrojov a vyšetrovacích metód vo všetkých odboroch mikrobiológie a hygieny.
+- 8.20. Vykonávanie vysokokvalifikovaných prác spojených s používaním zložitých laboratórnych prístrojov a vyšetrovacích metód vo všetkých odboroch mikrobiológie, oddeleniach klinickej biochémie, hematológie a hygieny.
 
 - 8.21. Príprava skúmadiel na laboratórne účely; na oddeleniach nukleárnej medicíny príprava rádiofarmák z generátorov a kitov.
 
@@ -2218,6 +2432,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 11.21. Prenášanie nových metód a poznatkov do praxe v jednotlivých úsekoch epizootológie, hygieny a ekológie, liečebnej preventívnej činnosti, konkrétna odborná pomoc pri ich uplatňovaní v praxi.
 
+- 11.22. Organizovanie vedeckého a technického rozvoja služby a spracovanie koncepcie veterinárneho zabezpečenia vojsk v poli.
+
 - G. Archívnictvo
 
 - 2. PLATOVÁ TRIEDA
@@ -2342,6 +2558,306 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 12.01. Riešenie najzložitejších výskumných úloh, ktoré majú zásadný význam pre rozvoj vedného odboru z oblasti archivistiky, archívnictva a historických vied.
 
+- Časť H. Ozbrojené sily - vojenské veliteľské orgány
+
+- 6. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: úplné stredné
+
+- Príklady pracovných činností:
+
+- 6.01. Velenie družstvu, osádke, obsluhe.
+
+- 6.02. Zabezpečovanie prevádzky cvičiska, strelnice, výcvikového zariadenia.
+
+- 6.03. Čiastkové práce v odborných úsekoch.
+
+- 6.04. Výkon vojenskej poriadkovej, bezpečnostnej a dopravnej polície.
+
+- 7. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: úplné stredné
+
+- Príklady pracovných činností:
+
+- 7.01. Komplexné velenie čate, skupine.
+
+- 7.02. Technické, organizačné, materiálne a finančné zabezpečovanie chodu roty.
+
+- 8. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 8.01. Komplexné velenie rote (batérií).
+
+- 8.02. Zabezpečovanie chodu a obsluha špeciálnych systémov a zariadení roty, veliteľských stanovíšť.
+
+- 8.03. Riadenie a zabezpečovanie prípravy, chodu a obsluhy zložitých zariadení a techniky v rámci práporu a oddielu.
+
+- 8.04. Samostatné organizovanie podsystémov, plnenie odborných úloh práporu (oddielu) podľa pokynov nadriadených.
+
+- 8.05. Samostatné plnenie rozhodujúcich úloh pluku alebo brigády, organizovanie jednotlivých podsystémov.
+
+- 8.06. Samostatné plnenie rozhodujúcich úloh v jednej odbornosti na veliteľstve divízie i vo vzťahu k podriadeným útvarom podľa pokynov nadriadených.
+
+- 8.07. Samostatné plnenie čiastkových úloh veliteľstiev vojenských stredných škôl a škôl pre dôstojníkov v zálohe.
+
+- 8.08. Samostatné plnenie čiastkových úloh na rektorátoch vojenských akadémií, vojenských vysokých škôl, veliteľstiev školiacich jednotiek.
+
+- 8.09. Samostatné plnenie odborných úloh okresných vojenských správ, vyšších doplňovacích veliteľstiev, vojenských ubytovacích a stavebných správ a správ vojenskej dopravy.
+
+- 8.10. Samostatné plnenie odborných úloh posádkovej správy a vojenského archívu.
+
+- 8.11. Komplexné zabezpečovanie chodu cvičiska a strelnice.
+
+- 8.12. Zabezpečovanie výkonu vojenskej poriadkovej, bezpečnostnej a dopravnej polície.
+
+- 9. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 9.01. Komplexné velenie a zabezpečovanie práporu alebo oddielu.
+
+- 9.02. Organizácia čiastkových podsystémov v rámci divízie s užšou pôsobnosťou v podriadených útvaroch alebo zabezpečujúcich chod veliteľstva divízie.
+
+- 9.03. Komplexné velenie skladu, základni, uzlu v pôsobnosti druhu vojska, správy veliteľstva Armády Slovenskej republiky.
+
+- 9.04. Organizácia jednotlivých podsystémov v rámci vojenských stredných škôl.
+
+- 9.05. Samostatné plnenie rozhodujúcich úloh v jednej odbornosti na rektoráte vojenskej akadémie, vojenskej vysokej školy a v školiacom a výcvikovom stredisku.
+
+- 9.06. Komplexné velenie školskému, výcvikovému a zabezpečovaciemu práporu.
+
+- 9.07. Komplexné velenie a zabezpečovanie výcvikového priestoru.
+
+- 9.08. Vedenie ročníka poslucháčov alebo kurzu na vojenskej akadémii, vojenskej vysokej škole, v školiacom a výcvikovom stredisku.
+
+- 9.09. Komplexné velenie a zabezpečovanie okresnej vojenskej správy a správy vojenskej dopravy.
+
+- 9.10. Komplexné zabezpečovanie výkonu vojenskej poriadkovej, bezpečnostnej a dopravnej polície.
+
+- 9.11. Velenie jednotlivým podsystémom v rámci pluku alebo brigády s pôsobnosťou na rozhodujúce plnenie úloh pluku alebo brigády.
+
+- 10. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 10.01. Komplexné velenie a všestranné zabezpečovanie pluku alebo brigády.
+
+- 10.02. Organizovanie jednotlivých podsystémov v rámci veliteľstva divízie s pôsobnosťou v celej organizačnej štruktúre podriadených útvarov, ktorých činnosť má rozhodujúci vplyv na pripravenosť, plánovanie a riadenie.
+
+- 10.03. Komplexné velenie skladu, základni s ústrednou pôsobnosťou - organizovanie samostatných a odlúčených súčastí.
+
+- 10.04. Organizovanie a komplexné zabezpečovanie pracoviska výpočtovej techniky veliteľstva Armády Slovenskej republiky s rozsiahlou projektovou a prevádzkovou činnosťou.
+
+- 10.05. Organizovanie jednotlivých podsystémov zasahujúcich do celej organizačnej štruktúry v rámci rektorátu vojenskej akadémie, vojenskej vysokej školy, školiaceho a výcvikového strediska.
+
+- 10.06. Komplexné velenie a zabezpečovanie školských jednotiek a chodu fakúlt.
+
+- 10.07. Komplexné velenie a zabezpečovanie vyšších doplňovacích veliteľstiev a vojenských ubytovacích a stavebných správ.
+
+- 10.08. Komplexné velenie vojenskej polícii na posádkových veliteľstvách a divíziách.
+
+- 10.09. Plánovanie a komplexné dispečerské riadenie vojenskej letovej premávky v určenom priestore zodpovednosti; koordinácia letovej premávky všetkých užívateľov vzdušného priestoru; organizovanie súčinnosti skupiny riadenia a zabezpečovania lietania.
+
+- 10.10. Komplexné rádiolokačné riadenie vojenskej letovej premávky v určenej zóne zodpovednosti, riešenie vzniknutých situácií s posádkami lietadiel; súčinnosť v skupine riadenia lietania.
+
+- 10.11. Uvádzanie podriadených zložiek do daného stupňa pripravenosti na obranu územia a vzdušného priestoru Slovenskej republiky; komplexné rádiolokačné riadenie lietadiel na obranu teritória a vzdušného priestoru Slovenskej republiky, zaisťovanie bezpečnosti letovej premávky v určenom priestore zodpovednosti.
+
+- 10.12. Zabezpečovanie obsluhy, údržby a plynulej prevádzky vojenskej leteckej techniky, diagnostického a kontrolného zariadenia vrátane leteckej munície; organizácia práce príslušníkov inžiniersko-leteckej služby technickej letky, technického oddelenia a leteckých vojskových opravovní.
+
+- 11. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 11.01. Komplexné velenie a všestranné zabezpečovanie úloh divízie.
+
+- 11.02. Komplexné velenie a všestranné zabezpečovanie chodu veliteľstva školiaceho a výcvikového strediska, rektorátu vojenskej akadémie a vojenskej vysokej školy.
+
+- 11.03. Pilotovanie vojenského lietadla, zodpovednosť za kvalitné, bezpečné a hospodárne uskutočňovanie letu v súlade so všetkými platnými letovými predpismi a normami vrátane zodpovednosti za činnosť posádky od začatia predletovej prípravy až do ukončenia letu.
+
+- 12. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 12.01. Pilotovanie lietadla vybaveného zbraňovými systémami na obranu teritória a vzdušného priestoru, zodpovednosť za kvalitné a bezpečné uskutočňovanie letu a za činnosť posádky od začiatku predletovej prípravy do ukončenia letu.
+
+- Časť I. Colná správa
+
+- 3. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: stredné
+
+- Príklady pracovných činností:
+
+- 3.01. Udržiavanie verejného poriadku pri colnom konaní mimo colného priestoru.
+
+- 3.02. Stráženie colných priechodov, dodržiavanie verejného poriadku v colnom priestore a stráženie dopravných prostriedkov v colnom priestore.
+
+- 3.03. Usmerňovanie pohybu osôb, dopravných prostriedkov a tovaru v colnom priestore.
+
+- 3.04. Obsluha spojovacích prostriedkov a prostriedkov prevádzky.
+
+- 4. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: úplné stredné
+
+- Príklady pracovných činností:
+
+- 4.01. Vykonávanie prehliadok batožín, dopravných prostriedkov a osobnej prehliadky na určenom úseku colného pohraničného pásma.
+
+- 4.02. Zhromažďovanie a príprava podkladov na colné konanie.
+
+- 4.03. Vykonávanie colného konania a prejednávanie colných a devízových priestupkov v blokovom konaní v rozsahu určenom nadriadeným pracovníkom.
+
+- 4.04. Vykonávanie colnej kontroly v prípadoch povolených prepráv tovaru mimo colných priechodov v rozsahu určenom nadriadeným pracovníkom.
+
+- 4.05. Obsluha kontrolných technických prostriedkov.
+
+- 4.06. Zabezpečovanie úloh v oblasti služobnej kynológie, v oblasti používania zbraní a miernejších prostriedkov a využívanie kontrolných, technických a iných prostriedkov.
+
+- 4.07. Stráženie a dohľad nad pohybom osôb, tovaru a dopravných prostriedkov na určenom úseku colného pohraničného pásma.
+
+- 4.08. Sprevádzanie dopravných prostriedkov.
+
+- 4.09. Stráženie a dohľad nad pohybom tovaru a dopravných prostriedkov v slobodnom colnom pásme, vykonávanie prehliadok dopravných prostriedkov a zásielok prepravovaných do slobodného colného pásma a z neho.
+
+- 5. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: úplné stredné
+
+- Príklady pracovných činností:
+
+- 5.01. Rozhodovanie o prepúšťaní tovaru pri dovoze, vývoze a tranzite.
+
+- 5.02. Rozhodovanie o vymeraní cla, správnych poplatkov a iných dávok.
+
+- 5.03. Rozhodovanie o colných a devízových priestupkoch v blokovom konaní.
+
+- 5.04. Rozhodovanie o udelení vývozných a dovozných povolení v cestovnom styku v rozsahu vymedzenom predpisom.
+
+- 5.05. Spracovanie colnej štatistiky.
+
+- 5.06. Zabezpečovanie základných colných agend (napr. register prijatých colných sprievodiek, register vydaných colných sprievodiek, register podmienečného voľného obehu).
+
+- 5.07. Plnenie úloh colnej pátracej služby a protinarkotickej skupiny.
+
+- 6. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: úplné stredné
+
+- Príklady pracovných činností:
+
+- 6.01. Rozhodovanie zložitejších prípadov prepúšťania tovaru pri dovoze, vývoze a tranzite.
+
+- 6.02. Rozhodovanie zložitejších prípadov vymerania cla, správnych poplatkov a iných dávok.
+
+- 6.03. Rozhodovanie o colných a devízových priestupkoch v blokovom a príkaznom konaní.
+
+- 6.04. Rozhodovanie o udelení vývozných a dovozných povolení v cestovnom styku.
+
+- 6.05. Príprava prejednávania colných a devízových priestupkov na colnici (spisovanie zápisníc, zhromažďovanie dôkazného materiálu a pod.).
+
+- 6.06. Príprava prejednávania prípadov porušenia colných predpisov organizáciami (zápisnice, dokumentácia).
+
+- 6.07. Plnenie vybraných úloh colnej pátracej služby, protinarkotickej skupiny a pod.
+
+- 6.08. Potvrdzovanie pôvodu tovaru.
+
+- 6.09. Vykonávanie vnútornej kontrolnej činnosti.
+
+- 7. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: úplné stredné
+
+- Príklady pracovných činností:
+
+- 7.01. Rozhodovanie prípadov prepúšťania tovaru pri dovoze, vývoze a tranzite, vymeriavanie cla, správnych poplatkov a iných dávok v sporných prípadoch.
+
+- 7.02. Plnenie náročných úloh colnej pátracej služby, protinarkotickej skupiny a pod.
+
+- 7.03. Overovanie pôvodu tovaru.
+
+- 7.04. Koordinácia činnosti s miestnymi orgánmi štátnej správy.
+
+- 7.05. Rozhodovanie o udeľovaní vývozných i dovozných povolení v delegovanom rozsahu.
+
+- 7.06. Rozhodovanie o vykonaní osobnej prehliadky.
+
+- 7.07. Rozhodovanie o colných a devízových priestupkoch prejednávaných na colnici.
+
+- 7.08. Prejednávanie porušenia colných predpisov organizáciami.
+
+- 7.09. Potvrdzovanie pôvodu tovaru zložitejších skupín.
+
+- 7.10. Spolupráca so štátnymi orgánmi, najmä policajnými, pri plnení úloh v colnom pohraničnom pásme.
+
+- 8. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 8.01. Rozhodovanie v odvolacom konaní v prípade autoremedúry.
+
+- 8.02. Rozhodovanie o udeľovaní výnimiek v povoľovacom konaní, rozhodovanie o znížení alebo odpustení cla.
+
+- 8.03. Rozhodovanie o určení colného priestoru, o zriadení colných skladov a určení podmienok na ich prevádzku.
+
+- 8.04. Rozhodovanie najzložitejších prípadov zaraďovania tovaru.
+
+- 8.05. Rozhodovanie o colných a devízových priestupkoch prejednávaných na colnici, prejednávanie porušenia colných predpisov organizáciami.
+
+- 8.06. Vedenie odborných agend (colnoprávnej, COCOM, rozhodovanie zložitých prípadov určovania pôvodu tovaru a pod.), príprava podkladov na rozhodovanie na vyššom stupni (autoremedúra, odvolanie a pod.).
+
+- 9. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 9.01. Vykonávanie samostatnej systémovej činnosti pri tvorbe celoštátnych opatrení, napr. realizácia zákonných oprávnení, regulačných opatrení včítane prípadných návrhov úprav všeobecne záväzných a interných predpisov.
+
+- 9.02. Zabezpečovanie inšpekčnej a kontrolnej činnosti vykonávania colnej politiky s celoštátnou pôsobnosťou.
+
+- 10. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 10.01. Samostatné rozpracovanie koncepcií rozvoja colníctva a colnej politiky, zabezpečovanie koncepčnej, metodickej a normotvornej činnosti s celoštátnou pôsobnosťou, samostatná príprava podzákonných noriem pre jednotlivé oblasti činnosti.
+
+- 10.02. Koordinácia výkonu colnej služby v oblasti.
+
+- 11. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 11.01. Spracovanie a posudzovanie návrhov najzložitejších koncepčných materiálov a programov colníctva a colnej politiky, tvorba zásad zákonných právnych úprav, napr. colného zákona.
+
+- 11.02. Zabezpečovanie a koordinácia rozhodujúcich úsekov celoštátneho colného systému, najmä základných otázok riadenia colníctva.
+
+- 12. PLATOVÁ TRIEDA
+
+- Kvalifikačný predpoklad vzdelania: vysokoškolské
+
+- Príklady pracovných činností:
+
+- 12.01. Organizovanie a koordinácia komplexného celoštátneho colného systému.
+
 [Príloha 02](../assets/058f9f24453bac970e327a5a5b1212d6cf9e1a2a69ca1ed85a81a78c868f5f4c.pdf)
 
 Príloha č. 2 nariadenia vlády SR č. 249/1992 Zb.
@@ -2407,3 +2923,167 @@ III. - riaditeľ odboru na ústrednom orgáne štátnej správy alebo vedúci za
 s výnimkou zástupcu štatutárneho orgánu
 
 IV. - vedúci zamestnanec, ktorý je oprávnený riadiť prácu podriadených zamestnancov
+
+[Príloha 04](../assets/42382345fa0aa8b82b050d79c29f9b76db43bfe5cb8babd9987483fda328cfec.pdf)
+
+Príloha č. 4 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 636/1992 Zb.
+
+Príplatky za riadenie
+
+PRVÁ ČASŤ
+
+Ozbrojené sily
+
+1. Veliteľstvo Armády Slovenskej republiky, Civilná ochrana Slovenskej republiky a Hlavná vojenská prokuratúra
+
+Funkcia | | Príplatok za riadenie v Sk mesačne
+
+1.1 | veliteľ Armády SR, prvý zástupca veliteľa Armády SR, hlavný vojenský prokurátor, námestník generálneho prokurátora | 5 000 - 6 000
+
+1.2 | náčelník hlavného štábu, veliteľ pozemného vojska, veliteľ letectva a protivzdušnej obrany, veliteľ logistiky, náčelník hlavnej správy vzdelávania, sociálnych a personálnych vecí veliteľstva Armády SR | 4 000 - 5 000
+
+1.3 | náčelník správy, zástupca náčelníka hlavnej správy, zástupca hlavného vojenského prokurátora | 3 600 - 4 400
+
+1.4 | zástupca náčelníka správy, náčelník oddelenia | 2 800 - 3 600
+
+1.5 | zástupca náčelníka oddelenia | 1 600 - 2 200
+
+1.6 | náčelník skupiny | 500 - 1 500
+
+2. Ústredné vojenské úrady Armády Slovenskej republiky s celoštátnou pôsobnosťou, vyššie vojenské prokuratúry, vyššie vojenské súdy
+
+Funkcia | | Príplatok za riadenie v Sk mesačne
+
+2.1 | náčelník vojenského úradu, riaditeľ inštitútu, vyšší vojenský prokurátor | 3 000 - 4 000
+
+2.2 | zástupca náčelníka vojenského úradu, zástupca riaditeľa inštitútu, námestník vyššieho vojenského prokurátora | 2 400 - 3 400
+
+2.3 | náčelník oddelenia | 1 800 - 2 600
+
+2.4 | zástupca náčelníka oddelenia | 1 200 - 1 800
+
+2.5 | náčelník skupiny | 800 - 1 200
+
+Príplatky za riadenie pre ďalšie riadiace funkcie ozbrojených síl ustanoví Ministerstvo obrany Slovenskej republiky a Ministerstvo vnútra Slovenskej republiky vo vnútornom predpise.
+
+DRUHÁ ČASŤ
+
+Colná správa
+
+1. Ústredná colná správa
+
+Funkcia | | Príplatok za riadenie v Sk mesačne
+
+1.1 | generálny riaditeľ | 4 000 - 6 000
+
+1.2 | námestník generálneho riaditeľa | 2 000 - 4 000
+
+1.3 | riaditeľ odboru | 1 500 - 3 000
+
+1.4 | zástupca riaditeľa odboru | 1 000 - 2 500
+
+1.5 | vedúci oddelenia | 800 - 1 800
+
+1.6 | vedúci školiaceho strediska, vedúci referátu a zmeny prípravy dát | 300 - 1 200
+
+2. Územný orgán
+
+Funkcia | | Príplatok za riadenie v Sk mesačne
+
+2.1 | riaditeľ colnice | 1 600 - 4 000
+
+2.2 | námestník riaditeľa colnice | 1 200 - 3 000
+
+2.3 | vedúci colnej odbočky | 800 - 1 800
+
+2.4 | vedúci referátu colnice | 500 - 1 200
+
+2.5 | vedúci odlúčeného pracoviska, vedúci stanice colnej stráže, vedúci zmeny, zástupca vedúceho stanice colnej stráže, zástupca vedúceho colnej odbočky | 300 - 1 200
+
+[Príloha 05](../assets/90bcf8c294ac76efb6e87e4a29e6d34efbca792242d546ef8664c84eda458d88.pdf)
+
+Príloha č. 5 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 636/1992 Zb.
+
+Podmienky na ustanovenie hodnosti príslušníkov colnej správy
+
+PRVÁ ČASŤ
+
+Prepožičiavanie hodnosti, vymenúvanie a povyšovanie do hodnosti
+
+(1) Príslušníkovi sa hodnosť prvého stupňa prepožičiava do doby úspešného absolvovania prvého stupňa colného vzdelania. Po vydaní kvalifikačného výkazu a zložení služobného sľubu sa príslušníkovi táto hodnosť vymenovaním potvrdzuje.
+
+(2) Colným vzdelaním je profesijné vzdelanie zabezpečované colnou správou.
+
+(3) Príslušníka, ktorý spĺňa kvalifikačný predpoklad vysokoškolského vzdelania v príslušnom študijnom odbore, prípadne jeho zameranie a prvý stupeň odborného vzdelania, možno povýšiť až do hodnosti štvrtého stupňa.
+
+(4) Do doby výsluhy rokov v hodnosti sa započítava doba pracovného pomeru príslušníka v colnej správe s výnimkou doby
+
+a) pracovného voľna bez náhrady mzdy trvajúceho nepretržite viac ako pol roka,
+
+b) ďalšej materskej dovolenky.
+
+(5) Pre výberové hodnosti sa výsluha rokov neustanovuje.
+
+(6) Celkovou výsluhou rokov sa rozumie súčet výsluhy rokov ustanovenej pre jednotlivé hodnosti.
+
+(7) Do vyššej hodnosti možno príslušníka povýšiť, ak
+
+a) dosahuje dobré pracovné výsledky,
+
+b) spĺňa kvalifikačné predpoklady na navrhovanú hodnosť,
+
+c) spĺňa celkovú výsluhu rokov a od jeho vymenovania alebo povýšenia do doterajšej hodnosti uplynula ustanovená doba výsluhy rokov v doterajšej hodnosti.
+
+(8) Príslušníkovi možno mimoriadne prepožičať vyššiu hodnosť, než by mu patrila podľa plnenia kvalifikačných predpokladov a výsluhy rokov ustanovených týmto nariadením, a to spravidla po dobu výkonu špeciálnych činností. Po skončení výkonu špeciálnych činností sa rozhodnutie o prepožičaní hodnosti zrušuje.
+
+(9) Príslušníka možno mimoriadne povýšiť do vyššej hodnosti o jeden stupeň
+
+a) bez dodržania ustanovenej doby výsluhy rokov, ak preukazuje mimoriadne pracovné výsledky alebo ak vykonal záslužný čin alebo vykonával najmenej päť rokov lektorskú činnosť v colnej správe,
+
+b) bez ohľadu na predpísané vzdelanie, ak dosahuje trvalo veľmi dobré pracovné výsledky a dovŕšil 45 rokov veku.
+
+(10) Pri závažnom porušení pracovnej disciplíny, pravidiel slušnosti, občianskeho spolunažívania alebo služobného sľubu môže sa príslušníkovi predĺžiť výsluha rokov v hodnosti na povýšenie do ďalšej hodnosti až o tri roky. Ak v priebehu tejto doby príslušník dosahuje dobré pracovné výsledky, môže sa mu po uplynutí jej polovice zvyšok odpustiť.
+
+(11) Pri obzvlášť závažnom alebo opakovanom porušení pracovnej disciplíny, pravidiel slušnosti, občianskeho spolunažívania alebo služobného sľubu, ktoré mohlo mať za následok poškodenie dobrého mena colnej správy, môže sa príslušníkovi znížiť hodnosť o jeden stupeň.
+
+(12) Do 1. až 12. hodnostného stupňa vymenúva a povyšuje príslušníka štatutárny orgán najvyššieho orgánu colnej správy a do 13. hodnostného stupňa minister financií. Hodnosti prepožičiava štatutárny orgán najvyššieho orgánu colnej správy.
+
+(13) O predĺžení výsluhy rokov v hodnosti alebo o znížení hodnosti rozhoduje ten, kto je oprávnený vymenúvať alebo povyšovať do doterajšej hodnosti.
+
+(14) Hodnosť príslušníka zaniká skončením jeho pracovného pomeru v colnej správe s výnimkou odchodu do dôchodku.
+
+DRUHÁ ČASŤ
+
+Výsluha rokov v hodnosti a kvalifikačné predpoklady
+
+Hodnostný stupeň | Označenie hodnosti | Výsluha rokov v hodnosti pri školskom vzdelaní: | | | Stupeň colného vzdelania
+
+| | základné stredné | úplné stredné | vysoko- školské |
+
+1 | colný čakateľ | 1 | 0,5 | | 1
+
+2 | colný strážmajster | 4 | 1 | | 2
+
+3 | colný nadstrážmajster | 7 | 2 | 1 | 2
+
+4 | hlavný colný nadstrážmajster | V | 3 | 2 | 2
+
+5 | colný asistent | | 4 | 2 | 3
+
+6 | colný kontrolór | | 5 | 2 | 3
+
+7 | hlavný colný kontrolór | | 6 | 3 | 3
+
+8 | colný inšpektor | | 7 | 4 | 3
+
+9 | hlavný colný inšpektor | | V | 5 | 4
+
+10 | colný radca | | | 6 | 4
+
+11 | vyšší colný radca | | | V | 4
+
+12 | hlavný colný radca | | | V | 4
+
+13 | colný prezident | | | | 4
+
+V – výberová hodnosť
