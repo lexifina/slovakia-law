@@ -1,1 +1,0 @@
-- 1) Pojmy „generálna oprava", „samostatná skupina" a „podskupina" sú vymedzené v technických normách a vyplývajú z opravárskeho názvoslovia, ktoré je unifikované v rámci RVHP.
