@@ -1,0 +1,1 @@
+- *) Príslušnosť Ministerstva zahraničného obchodu vo veciach upravených touto vyhláškou sa opiera o rovnaké dôvody, aké vyplývajú z ustanovení § 4a vyhlášky č. 164/1969 Zb., ktorou sa mení a dopĺňa vyhláška č. 121/1968 Zb.
