@@ -20,7 +20,7 @@
 
 - 9) § 116 a 117 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
-- 10) § 28 ods. 4 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní.§ 2 ods. 4 zákona č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni.
+- 10) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
 - 11) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
 
