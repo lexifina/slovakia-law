@@ -8,7 +8,7 @@
 
 - 3) § 83 zákona č. 100/1988 Zb. o sociálnom zabezpečení.§ 119 a 120 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1989 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
 
-- 3a) § 3 ods. 2 písm. e) zákona č. 463/1991 Zb. o životnom minime.
+- 3a) § 3 ods. 2 písm. e) zákona č. 463/1991 Zb. o životnom minime v znení zákona Národnej rady Slovenskej republiky č. 277/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 133/1995 Z. z.
 
 - 4) § 8 zákona Českej národnej rady č. 114/1988 Zb. v znení neskorších predpisov.§ 10 zákona Slovenskej národnej rady č. 106/1988 Zb. v znení neskorších predpisov.
 
