@@ -37,3 +37,5 @@
 - 18) § 13 zákona č. 87/1991 Zb.§ 14 zákona č. 229/1991 Zb.
 
 - 19) § 108 až 116 zákona č. 50/1976 Zb. v znení zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
+
+- 20) § 4 zákona č. 229/1991 Zb.
