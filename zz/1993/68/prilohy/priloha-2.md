@@ -1,0 +1,1 @@
+- [Príloha 02](../assets/491154614287e88cc0addc6c08f4bceff861d655ba942887a7d633926b88422c.pdf)
