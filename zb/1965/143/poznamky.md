@@ -122,23 +122,43 @@
 
 - 1) Zákon č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch; vyhláška č. 106/1972 Zb. o odmeňovaní objavov, vynálezov, zlepšovacích návrhov a priemyselných vzorov.
 
+- 1) § 83 Zákonníka práce.
+
 - 2) § 21 vyhlášky č. 106/1972 Zb.
+
+- 2) Časť I prílohy nariadenia vlády Československej socialistickej republiky č. 74/1982 Zb. o niektorých úpravách v nemocenskom poistení a dôchodkovom zabezpečení pracujúcich v baníctve.
 
 - 3) Napr. úprava Ministerstva baníctva č. 8 z 1. 4. 1967 o deputátnom uhlí a dreve v uhoľnom priemysle.
 
+- 3) Nariadenie vlády Československej socialistickej republiky č. 75/1982 Zb. o osobitnej dodatkovej dovolenke pracovníkov pracujúcich v podzemí hlbinných uhoľných a lignitových baní.
+
 - 4) Napr. úprava Federálneho ministerstva palív a energetiky z 28. 9. 1973 č. 4/73 o mzdových podmienkach pracovníkov banskej záchrannej služby.
+
+- 4) § 18 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 87/1968 Zb. a § 14 až 20 vyhlášky č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení.
 
 - 5) § 87 ods. 2 Zákonníka práce.
 
+- 5) § 84 a 85 Zákonníka práce.
+
 - 6) § 96 a § 116 Zákonníka práce.
+
+- 6) Časť I a II prílohy nariadenia vlády ČSSR č. 74/1982 Zb.
 
 - 7) § 43 až 45 Trestného zákona.
 
+- 7) § 18 ods. 1 zákona č. 54/1956 Zb. v znení zákona č. 87/1968 Zb.
+
 - 8) § 49 a 50 Trestného zákona.
+
+- 8) Ak ide o súbeh zamestnaní s pracovnou činnosťou v jednotnom roľníckom družstve, vylučuje sa suma presahujúca určený úhrn vždy pri výpočte nemocenského v jednotnom roľníckom družstve (§ 29 ods. 2 zákona č. 103/1964 Zb. v znení neskorších predpisov).
 
 - 9) Zákonník práce a vykonávacie predpisy k nemu.
 
+- 9) Táto suma je zo sumy 600 Kčs, prípadne zo sumy 900 Kčs napríklad pri 42,5-hodinovom týždennom pracovnom čase 14,10 Kčs, prípadne 21,10 Kčs, pri 42-hodinovom týždennom pracovnom čase 14,20 Kčs, prípadne 21,40 Kčs a pri 41,25-hodinovom týždennom pracovnom čase 14,50 Kčs, prípadne 21,80 Kčs.
+
 - 10) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia.
+
+- 10) Nariadenie vlády Československej socialistickej republiky č. 135/1975 Zb. o výnimočnom poskytovaní dôchodku niektorým pracujúcim dôchodcom v znení neskorších predpisov.
 
 - 11) Vyhláška č. 74/1970 Zb., ktorou sa upravuje uvoľňovanie, umiestňovanie a hmotné zabezpečenie pracovníkov v súvislosti s vykonávaním racionalizačných a organizačných opatrení.
 
