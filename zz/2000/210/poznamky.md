@@ -28,9 +28,9 @@
 
 - 10) STN 73 1373.
 
-- 11) Len do menovitého prietoku Q<sub>n</sub> 400 m<sup>3</sup> . h<sup>-1</sup> vrátane.
+- 11) Schváleniu typu nepodliehajú merače menovitého prietoku Q<sub>n</sub> nad 400 m<sup>3</sup>. h<sup>-1</sup> uvádzané na trh podľa požiadaviek platných v Slovenskej republike.
 
-- 12) Len do menovitého prietoku Q<sub>n</sub> 200 m<sup>3</sup> . h<sup>-1</sup> vrátane.
+- 12) Schváleniu typu nepodliehajú merače menovitého prietoku Q<sub>n</sub> nad 200 m<sup>3</sup>. h<sup>-1</sup> uvádzané na trh podľa požiadaviek platných v Slovenskej republike.
 
 - 13) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 

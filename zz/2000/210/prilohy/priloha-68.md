@@ -1,3 +1,3 @@
 Príloha č. 68 k vyhláške č. 210/2000 Z. z.
 
-- AUTOMATICKÉ HLADINOMERY [Príloha č. 68 k vyhláške č. 210/2000 Z. z.](../assets/ca4b5a45aac05715645690517a10028590acab2dc5ba60a58de2acf1aaf77da7.pdf)
+- AUTOMATICKÉ HLADINOMERY [Príloha č. 68 k vyhláške č. 210/2000 Z. z.](../assets/2b6262bcfcdc640cc6c8d20152240a89a23b84d5353b9c33c5a266ef6e5e0eef.pdf)

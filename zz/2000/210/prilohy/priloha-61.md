@@ -1,3 +1,3 @@
 Príloha č. 61 k vyhláške č. 210/2000 Z. z.
 
-- ZARIADENIA NA MECHANICKÉ SKÚŠKY MATERIÁLOV [Príloha 61](../assets/7fa9eecc899cf6e51c7ea1a726b58ace192824e8126cdd2d46dbae34aa6d00e0.pdf)
+- ZARIADENIA NA MECHANICKÉ SKÚŠKY MATERIÁLOV [Príloha 61](../assets/be333c4b7bc51e1b2e4f56411ceb651db20c9a9307152d2092879aa9ab1fc403.pdf)
