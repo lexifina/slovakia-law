@@ -1,1 +1,0 @@
-- *) Dekrét č. 88/1945 Zb. a predpisy podľa neho vydané.
