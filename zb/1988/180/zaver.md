@@ -1,7 +1,0 @@
-Minister:
-
-Ing. Štěrba v. r.
-
-1)
-
-Vyhláška č. 41/1985 Zb. o neobchodných vývozoch a dovozoch vecí v znení neskorších predpisov.".
