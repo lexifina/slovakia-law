@@ -1,4 +1,6 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona Národnej rady Slovenskej republiky č. 251/1994 Z. z.
+- 1a) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona Národnej rady Slovenskej republiky č. 251/1994 Z. z.
+
+- 1) § 13 Zákona o rodine.
 
 - 2) § 41 ods. 2 Trestného zákona.
 
