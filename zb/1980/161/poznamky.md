@@ -1,44 +1,40 @@
-- 1) § 3 a 19 nariadenia vlády Československej socialistickej republiky č. 91/1974 Zb. o organizácii výrobných hospodárskych jednotiek a o ich štatútoch (napr. v odvetí spojov plní funkciu výrobnej hospodárskej jednotky Ústredné riaditeľstvo spojov s podriadenými štátnymi hospodárskymi organizáciami spojov).
+- 1) Vyhláška Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky a Ministerstva financií Slovenskej socialistickej republiky č. 118/1984 Zb. o financovaní neinvestičných výdavkov na rozvoj vedy a techniky.
 
-- 2) § 8 písm. b) a c) zákona č. 103/1974 Zb. o poľnohospodárskej dani v znení neskorších predpisov (v znení vyhlásenom pod č. 74/1977 Zb. a doplnenom zákonom č. 113/1979 Zb.), (ďalej len „zákon o poľnohospodárskej dani").
+- 2) § 13 a 14 nariadenia vlády Československej socialistickej republiky č. 91/1974 Zb. o organizácii výrobných hospodárskych jednotiek a o ich štatútoch.
 
-- Článok 6 vyhlášky Federálneho ministerstva financií č. 106/1974 Zb., ktorou sa vykonáva zákon o poľnohospodárskej dani; netýka sa organizácií vzniknutých na základe zmluvy o združení podľa § 360a Hospodárskeho zákonníka, ktoré nie sú štátnymi hospodárskymi organizáciami.
+- 3) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 98/1985 Zb. o usmerňovaní mzdových prostriedkov.
 
-- 3) Vyhláška Federálneho ministerstva financií č. 94/1980 Zb. o odpisovaní základných prostriedkov.
+- 4) Vyhláška Federálneho ministerstva financií č. 90/1972 Zb. o financovaní niektorých zariadení podnikovej spoločenskej spotreby a niektorých činností štátnych hospodárskych organizácií a organizácií zahraničného obchodu.
 
-- 4) § 18 ods. 1 písm. a), b) a d) zákona o odvodoch.
+- 5) Vyhláška Federálneho ministerstva financií č. 109/1985 Zb. o financovaní obežných prostriedkov.
 
-- 5) Vyhláška Federálneho ministerstva financií a predsedu Štátnej banky československej č. 162/1980 Zb. o financovaní reprodukcie základných prostriedkov.
+- 6) Vyhláška č. 109/1985 Zb.
 
-- Vyhláška Federálneho ministerstva financií č. 163/1980 Zb. o financovaní neinvestičných výdavkov na rozvoj vedy a techniky.
+- Vyhláška Federálneho ministerstva financií a predsedu Štátnej banky československej č. 162/1980 Zb. o financovaní reprodukcie základných prostriedkov v znení vyhlášky č. 108/1985 Zb.
+
+- Vyhláška č. 118/1984 Zb.
+
+- Vyhláška č. 98/1985 Zb.
 
 - Vyhláška Federálneho ministerstva financií a Ústrednej rady odborov č. 165/1980 Zb. o fonde kultúrnych a sociálnych potrieb.
 
-- Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 143/1980 Zb. o usmerňovaní mzdových prostriedkov a odmieňaní práce.
+- 7) Vyhláška č. 109/1985 Zb.
 
-- Vyhláška Federálneho ministerstva financií č. 164/1980 Zb. o financovaní obežných prostriedkov.
+- Vyhláška č. 162/1980 Zb. v znení vyhlášky č. 108/1985 Zb.
 
-- Vyhláška Ministerstva financií, Štátnej plánovacej komisie a Ústredného geologického úradu č. 9/1967 Zb. o projektovaní a financovaní geologických prác.
+- Vyhláška č. 118/1984 Zb.
 
-- 6) Vyhláška č. 165/1980 Zb.
+- Vyhláška č. 98/1985 Zb.
 
-- 7) Vyhláška Federálneho ministerstva financií č. 90/1972 Zb. o financovaní niektorých zariadení podnikovej spoločenskej spotreby a niektorých činností štátnych hospodárskych organizácií a organizácií zahraničného obchodu.
+- 8) Inštrukcie pre tvorbu a použitie rezervných fondov v štátnych hospodárskych organizáciách v odvetví poľnohospodárstva a výživy (Vestník Ministerstva poľnohospodárstva a výživy Českej socialistickej republiky, čiastka 5/1973).
 
-- 8) Vyhláška Ministerstva financií č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
+- Smernice pre tvorbu a použitie rezervných fondov v štátnych hospodárskych organizáciách v odvetví poľnohospodárstva Slovenskej socialistickej republiky (Vestník Ministerstva poľnohospodárstva a výživy Slovenskej socialistickej republiky čiastka 15/1974).
 
-- 9) Vyhláška č. 165/1980 Zb.
+- 9) Napr. § 4 ods. 1 nariadenia vlády Československej socialistickej republiky č. 40/1982 Zb. o dodatkovom odvode a postihu za prekročenie záväzných limitov odberu niektorých druhov ropných výrobkov v znení neskorších predpisov.
 
-- Vyhláška č. 143/1980 Zb.
+- 10) § 17 ods. 2 zákona o odvodoch.
 
-- Vyhláška č. 162/1980 Zb.
-
-- Vyhláška č. 164/1980 Zb.
-
-- Vyhláška č. 163/1980 Zb.
-
-- 10) Vyhláška Ministerstva financií č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
-
-- 11) Vyhláška č. 162/1980 Zb.
+- 11) § 384a a 384b Hospodárskeho zákonníka.
 
 - 12) § 13 ods. 2 vyhlášky č. 143/1980 Zb.
 
