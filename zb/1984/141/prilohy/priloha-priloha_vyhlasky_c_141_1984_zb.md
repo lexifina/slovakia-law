@@ -14,19 +14,15 @@ Príloha vyhlášky č. 141/1984 Zb.
 
 - 2. Ak ide o závet alebo listinu o vydedení | | 50 Kčs
 
-- 3. Ak ide o zmluvu, z ceny predmetu | 0,75 % |
+- 3. Ak ide o zmluvy z ceny predmetu | 1 % |
 
-- | najmenej | 120 Kčs
-
-- | najviac | 2000 Kčs
+- | najviac | 10 000 Kčs
 
 - 4. Ak ide o osvedčenie, že je niekto nažive alebo na určitom mieste, a o osvedčenie, že listina bola predložená a v ktorom čase | | 20 Kčs
 
-- 5. Ak ide o osvedčenie, že bolo odoslané alebo oznámené vyhlásenie a že malo určitý obsah, alebo o osvedčenie, aký bol priebeh a výsledky rokovania na schôdzi, alebo o osvedčenie, že sa v prítomnosti štátneho notára stali iné skutočnosti alebo že ich sám zistil, z ceny predmetu | 0,5 % |
+- 5. Ak ide o osvedčenie, že bolo odoslané alebo oznámené vyhlásenie a že malo určitý obsah, alebo o osvedčenie, aký bol priebeh a výsledky rokovania na schôdzi, alebo o osvedčenie, že sa v prítomnosti štátneho notára stali iné skutočnosti alebo že ich sám zistil, z ceny predmetu | 1 % |
 
-- | najmenej | 80 Kčs
-
-- | najviac | 500 Kčs
+- | najviac | 10 000 Kčs
 
 - 6. Ak ide o osvedčenie o vydržaní vlastníctva stavby, z ceny predmetu | 1 % |
 
@@ -46,21 +42,25 @@ Príloha vyhlášky č. 141/1984 Zb.
 
 - 1. Za overenie odpisu alebo kópie listiny, ako i súhlasu niekoľkých prvopisov za každú začatú stranu prvopisu |
 
-- a) pri texte a kópii v slovenskom alebo českom jazyku | 10 Kčs
+- a) pri texte a kópii v slovenskom alebo českom jazyku | 20 Kčs
 
-- b) pri cudzojazyčných listinách | 20 Kčs
+- b) pri cudzojazyčných listinách | 50 Kčs
 
-- 2. Za osvedčenie pravosti podpisu na listine, za každé osvedčenie | 10 Kčs
+- 2. Za osvedčenie pravosti podpisu na listine za každé osvedčenie | 20 Kčs
 
 - Poznámky k č. 1: |
 
 - 1. Poplatok sa neplatí za overenie odpisov listín, ktoré sú potrebné na vyrubenie notárskych poplatkov alebo pre zbierku registrovaných zmlúv alebo pre evidenciu nehnuteľností vedenú na orgáne geodézie. Na týchto odpisoch sa však musí vyznačiť účel, na ktorý sa vyhotovili. |
 
-- 2. Československí občania maďarskej, nemeckej, poľskej a ukrajinskej (rusínskej) národnosti platia za overenie odpisu alebo kópie listiny, ako i súhlasu niekoľkých prvopisov spísaných v jazyku svojej národnosti poplatok podľa písmena a), pokiaľ k overeniu dôjde v oblasti obývanej príslušnou národnosťou. |
+- 2. Česko-slovenskí občania maďarskej, nemeckej, poľskej a ukrajinskej (rusínskej) národnosti platia za overenie odpisu alebo kópie listiny, ako i súhlasu niekoľkých prvopisov spísaných v jazyku svojej národnosti poplatok podľa písmena a), pokiaľ k overeniu dôjde v oblasti obývanej príslušnou národnosťou |
+
+- 3. Za cudzojazyčnú listinu sa považuje listina, v ktorej je aspoň časť textu napísaná v cudzom jazyku. |
 
   - Položka C:
 
-- Za úhrn úkonov potrebných na protestáciu zmenky alebo iného rubopisom prevoditeľného cenného papieru, za každý protestovaný papier | 40 Kčs
+- a) za úhrn úkonov potrebných na protestáciu zmenky alebo iného rubopisom prevoditeľného cenného papieru, za každý protestovaný papier | 500 Kčs
+
+- b) za vyhotovenie odpisu alebo výpisu z protestnej listiny | 100 Kčs
 
   - Položka D:
 
@@ -90,9 +90,9 @@ Príloha vyhlášky č. 141/1984 Zb.
 
 - Za spísanie písomností, ktoré nemajú formu notárskej zápisnice, z ceny predmetu | 0,5 % |
 
-- | najmenej | 50 Kčs
+- | najmenej | 100 Kčs
 
-- | najviac | 400 Kčs
+- | najviac | 1000 Kčs
 
 - Poznámky: | |
 
@@ -102,7 +102,7 @@ Príloha vyhlášky č. 141/1984 Zb.
 
   - Položka F:
 
-- Z návrhu na umorenie listiny | 60 Kčs
+- Z návrhu na umorenie listiny | 100 Kčs
 
   - Položka G:
 
@@ -110,17 +110,19 @@ Príloha vyhlášky č. 141/1984 Zb.
 
 - 1. zmluvy o prevode nehnuteľnosti z ceny nehnuteľnosti | 0,25 % |
 
-- | najmenej | 80 Kčs
+- | najmenej | 200 Kčs
 
-- 2. dohody o zriadení práva osobného užívania pozemkov | | 50 Kčs
+- 2. zmluvy o záložnom práve a podzáložnom práve na založenie nehnuteľnosti | 1 % zo zabezpečovanej pohľadávky |
 
-- 3. zmluvy o obmedzení prevodu nehnuteľnosti zo zabezpečovanej pohľadávky | 1 % |
+- | najmenej | 300 Kčs
 
-- | najmenej | 80 Kčs
+- | najviac | 10 000 Kčs
 
-- 4. zmluvy o výstavbe domu s bytmi v osobnom vlastníctve | | 100 Kčs
+- 3. zmluvy o zriadení, obmedzení, zrušení vecného bremena, zmluvy o zriadení predkupného práva | | 300 Kčs
 
-- 5. zmluvy o zriadení, obmedzení alebo zániku vecného bremena | | 100 Kčs
+- Poznámka: | |
+
+- Poplatníkom pri návrhu na registráciu zmluvy o záložnom práve na založenie nehnuteľnosti je vlastník nehnuteľnosti. | |
 
 - Položka H:
 
@@ -142,11 +144,11 @@ Príloha vyhlášky č. 141/1984 Zb.
 
   - Položka I:
 
-- Za zaslanie spisov inému štátnemu notárstvu, aby do nich žiadateľ nahliadol | 30 Kčs
+- Za zaslanie spisov inému štátnemu notárstvu, aby do nich žiadateľ nahliadol | 50 Kčs
 
   - Položka J:
 
-- Z návrhu na prikázanie veci inému štátnemu notárstvu z dôvodu vhodnosti | 50 Kčs
+- Z návrhu na prikázanie veci inému štátnemu notárstvu z dôvodu vhodnosti | 100 Kčs
 
   - Položka K:
 
@@ -154,11 +156,11 @@ Príloha vyhlášky č. 141/1984 Zb.
 
   - Položka L:
 
-- Za vyhotovenie úradného potvrdenia (vysvedčenia) o skutočnostiach známych zo spisu, za výpis, osvedčenie alebo čistopis (odpis) zo spisov alebo zbierky listín štátnych notárstiev za každú začatú stranu prvopisu | 10 Kčs
+- Za vyhotovenie úradného potvrdenia (vysvedčenia) o skutočnostiach známych zo spisu, za výpis, osvedčenie alebo čistopis (odpis) zo spisov alebo zbierky listín štátnych notárstiev za každú začatú stranu prvopisu | 20 Kčs
 
   - Položka M:
 
-- Za vydanie ďalších rovnopisov notárskych zápisníc, ďalších notárskych osvedčení alebo rozhodnutí za každú začatú stranu prvopisu | 10 Kčs
+- Za vydanie ďalších rovnopisov notárskych zápisníc, ďalších notárskych osvedčení alebo rozhodnutí za každú začatú stranu prvopisu | 20 Kčs
 
 - Poznámka: |
 
