@@ -1,0 +1,11 @@
+## PRVÁ ČASŤ
+
+## PRVÁ HLAVA
+
+## ÚVODNÉ USTANOVENIA
+
+## ROZSAH ZABEZPEČENIA V CHOROBE A ZABEZPEČENIA MATKY A DIEŤAŤA
+
+# § 1 až 3
+
+(zrušené).
