@@ -16,7 +16,7 @@
 
   - h) Konanie o návrhoch prokurátora podľa § 457 ods. 2 a 3 Občianskeho zákonníka dňom, keď tento zákon nadobudne účinnosť, súd zastaví a prípadné rozhodnutia zruší; o trovách konania rozhodne tak, že účastníci nemajú na ich náhradu právo.
 
-  - i) Generálny prokurátor môže v lehote do 31. 12. 1994 podať sťažnosť pre porušenie zákona podľa doterajších predpisov vo veciach, do ktorých môže vstúpiť (§ 35 ods. 1 tohto zákona), a to do troch mesiacov od právoplatnosti rozhodnutia; o týchto sťažnostiach rozhodujú súdy príslušné na vybavenie podľa predpisov platných do dňa nadobudnutia účinnosti tohto zákona; tieto predpisy sa použijú aj pre konanie o sťažnosti.
+  - i) Generálny prokurátor môže v lehote do 31. 12. 1995 podať sťažnosť pre porušenie zákona podľa doterajších predpisov vo veciach, do ktorých môže vstúpiť (§ 35 ods. 1 tohto zákona), a to do troch mesiacov od právoplatnosti rozhodnutia; o týchto sťažnostiach rozhodujú súdy príslušné na vybavenie podľa predpisov platných do dňa nadobudnutia účinnosti tohto zákona; tieto predpisy sa použijú aj pre konanie o sťažnosti.
 
 - 2. a) Hospodárske spory začaté pred nadobudnutím účinnosti tohto zákona na orgánoch hospodárskej arbitráže dokončia podľa tohto zákona krajské súdy pôsobiace v obchodných veciach, miestne príslušné podľa sídla arbitrážneho orgánu, na ktorom sa konanie začalo.
 
@@ -47,8 +47,6 @@
 - 4. a) Prejednávanie žalôb proti rozhodnutiam správnych orgánov podľa druhej hlavy piatej časti možno len pri tých správnych rozhodnutiach, ktoré po vyčerpaní prípustných opravných prostriedkov nadobudli právoplatnosť začínajúc dňom účinnosti tohto zákona.
 
   - b) Obmedzenie podľa písmena a) neplatí, ak podľa predpisov doteraz platných možno žiadať o preskúmanie rozhodnutia správnych orgánov súdom, keď toto rozhodnutie bolo predtým preskúmané v správnom odvolacom konaní. Ak také konanie už prebehlo predo dňom nadobudnutia účinnosti tohto zákona, postupuje sa v začatom konaní podľa § 247 až 250k; zastúpenie advokátom alebo komerčným právnikom nie je v týchto prípadoch potrebné.
-
-- 5. O opravných prostriedkoch proti rozhodnutiam nositeľov poistenia vo veciach dôchodkového zabezpečenia budú odo dňa nadobudnutia účinnosti tohto zákona konať a rozhodovať po dobu troch rokov na krajských súdoch samosudcovia.
 
 - 6. Právoplatné rozsudky na vypratanie bytu vyhlásené predo dňom nadobudnutia účinnosti tohto zákona, a ktorými je povinnosť vypratať byt viazaná na zabezpečenie náhradného bytu alebo náhradného ubytovania, sa vo vykonávacom konaní považujú za rozsudky ukladajúce vypratanie po poskytnutí náhradného bytu. Oprávnený sa však môže na súde, ktorý je príslušný na výkon rozhodnutia proti povinnému, domáhať určenia, že povinnému patrí len náhradné ubytovanie alebo že mu nepatrí bytová náhrada vôbec.
 
