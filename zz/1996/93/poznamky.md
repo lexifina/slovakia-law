@@ -8,6 +8,6 @@
 
 - 5) § 2 ods. 5 písm. k) zákona.
 
-- 6) § 10 ods. 3 písm. b) a c) a § 10 ods. 4 písm. a) a b) vyhlášky Federálneho ministerstva dopravy č. 41/1984 Zb. o podmienkach prevádzky vozidiel na pozemných komunikáciách.
+- 6) § 2 ods. 5 písm. b) a c) a § 2 ods. 7 písm. a) a b) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
 
 - 7) § 2 ods. 5 písm. l) zákona.
