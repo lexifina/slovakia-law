@@ -20,7 +20,7 @@
 
 (10) Ak organizácia nezaplatí úhradu podľa odsekov 1 až 3 včas a v určenej výške, je povinná zaplatiť za každý deň omeškania penále vo výške 0,2 % z nedoplatkov príslušnej úhrady.
 
-(11) Ministerstvo financií Slovenskej republiky môže na žiadosť organizácie znížiť úhradu za vydobyté nerasty a úhradu za uskladňovanie plynov alebo kvapalín. Žiadosť o zníženie úhrady organizácia zašle Hlavnému banskému úradu do 31. mája roka, za ktorý žiada o zníženie úhrady. Hlavný banský úrad sa k žiadosti vyjadrí do 30. júna a žiadosť s vyjadrením predloží Ministerstvu hospodárstva Slovenskej republiky, ktoré ju posúdi a so stanoviskom predloží do 31. júla na rozhodnutie Ministerstvu financií Slovenskej republiky. Ministerstvo financií Slovenskej republiky pred vydaním rozhodnutia zašle žiadosť do 31. augusta Úradu pre štátnu pomoc.<sup>16c</sup>)
+(11) Ministerstvo financií Slovenskej republiky môže na žiadosť organizácie znížiť úhradu za vydobyté nerasty a úhradu za uskladňovanie plynov alebo kvapalín. Žiadosť o zníženie úhrady organizácia zašle Hlavnému banskému úradu do 31. mája roka, za ktorý žiada o zníženie úhrady. Hlavný banský úrad sa k žiadosti vyjadrí do 30. júna a žiadosť s vyjadrením predloží Ministerstvu hospodárstva Slovenskej republiky, ktoré ju posúdi a so stanoviskom predloží do 31. júla na rozhodnutie Ministerstvu financií Slovenskej republiky. Ministerstvo financií Slovenskej republiky pred vydaním rozhodnutia zašle žiadosť do 31. augusta Komisii.<sup>16c</sup>)
 
 (12) Zníženie úhrady za vydobyté nerasty možno povoliť v prípadoch
 
