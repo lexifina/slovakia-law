@@ -188,20 +188,6 @@ Príloha vyhlášky č. 117/1987 Zb.
 
   - | | objemové krmivá sušené, minerálne doplnky | 300,0
 
-  - | chróm | |
-
-  - | | celková kŕmna dávka | 5,0
-
-  - | | kŕmne mlieko | 0,5
-
-  - | | obilniny, kŕmne zmesi kompletné, kŕmne zmesi doplnkové | 3,0
-
-  - | | objemové krmivá čerstvé, sušené mlieko a mliečne kŕmne zmesi, bielkovinové krmivá živočíšneho pôvodu, bielkovinové krmivá rastlinného pôvodu | 5,0
-
-  - | | náhradné krmivá | 10,0
-
-  - | | objemové krmivá sušené, minerálne doplnky | 15,0
-
   - | jód | |
 
   - | | celková kŕmna dávka | 5,0
