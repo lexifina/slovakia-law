@@ -31,7 +31,3 @@ Správa služieb zamestnanosti zabezpečuje realizáciu cieľov a úloh politiky
   - 4. o opravných prostriedkoch, kde v prvom stupni rozhodol okresný úrad práce,
 
 - ch) môže zriaďovať zariadenia pre pracovnú rehabilitáciu občanov so zmenenou pracovnou schopnosťou pre potreby viacerých okresov,
-
-- i) určuje všeobecne prospešné činnosti vhodné na výkon civilnej služby,
-
-- j) koordinuje činnosť územných orgánov práce pri zabezpečovaní úloh súvisiacich s civilnou službou.<sup>14</sup>)
