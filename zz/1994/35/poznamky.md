@@ -1,0 +1,1 @@
+- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 323/1993 Z. z. o úprave vky sadzieb náhrad stravného.

@@ -1,0 +1,1 @@
+Oľga Keltoová v. r.
