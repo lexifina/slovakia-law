@@ -28,13 +28,13 @@
 
 - 11) § 48 Občianskeho zákonníka.
 
-- 12) § 37 ods. 1 zákona.
+- 12) § 143 Občianskeho zákonníka.
 
 - 13) § 42 ods. 3 zákona.
 
 - 14) § 47 zákona.
 
-- 14a) § 38 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+- 14a) § 36a zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 15) § 19 zákona.
 
@@ -59,6 +59,8 @@
 - 25) § 19 zákona.
 
 - 26) Nariadenie vlády Slovenskej republiky č. 19/1993 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
+
+- 26a) § 2 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 178/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o geodézii a kartografii.
 
 - 27) § 12 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
