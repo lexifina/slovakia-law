@@ -1,1 +1,0 @@
-Július Brocka v. r.
