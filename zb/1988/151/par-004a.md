@@ -1,7 +1,5 @@
 # § 4a
 
-(1) Slovenská správa sociálneho zabezpečenia a okresná správa sociálneho zabezpečenia ustanovujú za člena posudkovej komisie lekára štátnej zdravotníckej správy na návrh organizácie, v ktorej je lekár v pracovnom pomere.
+(1) Posudková komisia je schopná rokovať a uznášať sa, ak sú prítomní všetci jej členovia; členov posudkovej komisie ustanoví riaditeľ príslušnej správy sociálneho zabezpečenia na návrh posudkového lekára sociálneho zabezpečenia.
 
-(2) Posudková komisia je schopný rokovať a uznášať sa, ak sú prítomní posudkový lekár sociálneho zabezpečenia, tajomník a lekár štátnej zdravotníckej správy. Posudková komisia sa uznáša väčšinou hlasov.
-
-(3) Posudkový lekár sociálneho zabezpečenia zaraďuje jednotlivé prípady na rokovanie posudkovej komisie, určuje zloženie posudkovej komisie na prerokúvanie jednotlivých prípadov a oboznamuje posudzovaného so záverom posudkovej komisie.
+(2) Posudkový lekár sociálneho zabezpečenia zaraďuje jednotlivé prípady na rokovanie posudkovej komisie, prizýva na prerokúvanie jednotlivých prípadov ďalšie osoby podľa § 2 a oboznamuje posudzovaného so záverom posudkovej komisie.

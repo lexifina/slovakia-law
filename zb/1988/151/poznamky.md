@@ -12,9 +12,13 @@
 
 - 5) § 46 Zákona o rodine. § 19 ods.1 písm. a) č.1 zákona SNR č.106/1988 Zb.
 
-- 6) § 25 zákona SNR č.106/1988 Zb.
+- 6) § 78 Zákona o rodine.
 
-- 7) § 140 vyhlášky FMPSV č.149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
+- 6a) § 11 ods. 1 zákona SNR č. 543/1990 Zb.
+
+- 7) § 1 vyhlášky MPSV SR č. 105/1992 Zb. o sociálnej odkázanosti.
+
+- 7a) § 49 ods. 2 zákona č. 100/1988 Zb.
 
 - 8) § 46 Zákona o rodine.
 
@@ -22,31 +26,37 @@
 
 - 10) § 179 a 181 Občianskeho zákonníka.
 
-- 10a) § 86 ods. 1 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 180/1988 Zb.
+- 10a) § 86 ods. 1 zákona č. 100/1988 Zb.
 
-- 11) § 8 ods. 2 vyhlášky FMPSV č. 149/1988 Zb.
+- 11) § 45 a 78 Zákona o rodine.
 
-- 12) § 45 a 78 Zákona o rodine.
+- 12) ČSN 30 00 33.
 
-- 13) ČSN 30 00 33.
+- 13) § 8 ods. 2 vyhlášky FMPSV č. 149/1988 Zb.
 
-- 13a) Vyhláška MF SSR č. 124/1974 Zb., ktorou sa ustanovuje rozsah a podmienky zákonného poistenia zodpovednosti za škody spôsobené prevádzkou motorových vozidiel vykonávaného Slovenskou štátnou poisťovnou, v znení vyhlášky č. 143/1990 Zb.
-
-- 14) § 140 ods. 2 a 4 vyhlášky FMPSV č. 149/1988 Zb. v znení neskorších predpisov.
+- 13a) Vyhláška MF SR č. 423/1991 Zb., ktorou sa ustanovuje rozsah a podmienky zákonného poistenia zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla.
 
 - 15) Zákon č.255/1946 Zb. o príslušníkoch čs. armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie.
 
-- 16) § 54 ods.1 a 2 zákona č.100/1988 Zb. o sociálnom zabezpečení.
+- 15a) § 54 ods. 1 a 2 zákona č. 100/1988 Zb. v znení neskorších predpisov.
+
+- 15b) § 115 Občianskeho zákonníka.
+
+- 15c) § 16 písm. a) č. 3 a písm. b) č. 3 zákona SNR č. 543/1990 Zb.
 
 - 16a) § 22 Zákona SNR č. 543/1990 Zb.
 
+- 16c) Zákon č. 1/1991 Zb. o zamestnanosti v znení zákona č. 305/1991 Zb., zákona č. 578/1991 Zb. o štátnom rozpočte federácie na rok 1992 a o zmene daňových a niektorých ďalších zákonov a zákona č. 231/1992 Zb., ktorým sa mení a dopĺňa Zákonník práce a zákon o zamestnanosti.
+
 - 17) § 341 Občianskeho zákonníka.
+
+- 17a) Zákon č. 73/1991 Zb. o civilnej službe v znení zákona č. 18/1992 Zb. o civilnej službe.
 
 - 18) § 190 až 203 Zákonníka práce. § 44 ods.3 nariadenia vlády ČSSR č.54/1975 Zb., ktorým sa vykonáva Zákonník práce.
 
 - 19) Vyhláška ÚRO č.165/1979 Zb. o nemocenskom poistení niektorých pracovníkov a o poskytovaní dávok nemocenského poistenia občanom v osobitných prípadoch v znení vyhlášky č.155/1983 Zb. a vyhlášky č.135/1984 Zb.
 
-- 20) Vyhláška FMPSV č.33/1984 Zb. o cestovných náhradách v znení vyhlášky č.81/1988 Zb.
+- 20) Zákon č. 119/1992 Zb. o cestovných náhradách.
 
 - 20a) § 27 ods. 1 zákona SNR č. 543/1990 Zb.
 
@@ -66,6 +76,6 @@
 
 - 25) Úprava MPSV SSR zo 4.4.1985 č.31/43-2262/1985, ktorou sa upravuje výška a podmienky úhrady za ubytovanie a základnú starostlivosť v domovoch pre matky s deťmi, reg. v čiastke 11/1985 Zb.
 
-- 26) § 129 až 138 vyhlášky FMPSV č.149/1988 Zb.
+- 26) Vyhláška MPSV SR č. 111/1992 Zb. o úhrade nákladov za ubytovanie a základnú starostlivosť v domovoch-penziónoch pre dôchodcov.
 
 - 27) § 18 zákona SNR č. 543/1990 Zb.
