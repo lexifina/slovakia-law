@@ -22,7 +22,7 @@
 
 - g) rašeliny, slatiny alebo bahná z prírodného liečivého zdroja na liečebné účely 10 Sk/m<sup>3</sup>.
 
-(3) Úhrady podľa odseku 2 sú príjmom Štátneho fondu zdravia.<sup>22</sup>)
+(3) Úhrady podľa odseku 2 sú príjmom štátneho rozpočtu.
 
 (4) Úhrady sú splatné v polročných intervaloch, a to do 31. júla za prvý polrok kalendárneho roka a do 31. januára za druhý polrok predchádzajúceho kalendárneho roka.
 

@@ -64,8 +64,6 @@
 
 - 21) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 204/1996 Z. z.
 
-- 22) § 3 písm. h) zákona Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
-
 - 23) Napr. zákon Národnej rady Slovenskej republiky č. 84/1994 Z. z. o Slovenskom Červenom kríži, o ochrane znaku a názvu Červeného kríža.
 
 - 24) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
