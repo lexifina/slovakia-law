@@ -1,16 +1,16 @@
-- 1) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- 1) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
 - Občiansky zákonník.
 
-- 2) § 6 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
-
 - 3) § 21 Obchodného zákonníka.
 
-- 4) Zákon Slovenskej národnej rady č. 24/1991 Zb. v znení neskorších predpisov.
+- 4) Zákon č. 95/2002 Z. z.
 
 - 5) § 88 ods. 5 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
 
 - 6) § 111 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
+- 6a) § 90 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 7) § 115 Občianskeho zákonníka.
 
@@ -22,7 +22,7 @@
 
 - § 42 vyhlášky Ministerstva vnútra Slovenskej republiky č. 90/1997 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Národnej rady Slovenskej republiky o premávke na pozemných komunikáciách.
 
-- 11) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+- 11) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 12) § 800 a 802 Občianskeho zákonníka.
 
@@ -33,6 +33,8 @@
 - 14a) § 103 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 15) § 22 Občianskeho zákonníka.
+
+- 15a) § 517 ods. 2 Občianskeho zákonníka.
 
 - 16) § 14 a 52 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
 
@@ -52,14 +54,12 @@
 
 - 24) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
-- 25) § 9 ods. 5 písm. b) štvrtý bod zákona Slovenskej národnej rady č. 24/1991 Zb. v znení neskorších predpisov.
+- 25) § 4 ods. 12 písm. b) štvrtý bod zákona č. 95/2002 Z. z.
 
 - 26) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
 
-- 27) § 12 zákona č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+- 27) § 18 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 28) Zákon Slovenskej národnej rady č. 24/1991 Zb. v znení neskorších predpisov.
-
-- Zákon č. 329/2000 Z. z.
+- 28) Zákon č. 95/2002 Z. z.Zákon č. 96/2002 Z. z.
 
 - 29) § 3 vyhlášky Ministerstva financií Slovenskej republiky č. 136/1996 Z. z., ktorou sa ustanovuje tvorba, použitie a spôsob umiestnenia prostriedkov rezerv poisťovne v znení neskorších predpisov.
