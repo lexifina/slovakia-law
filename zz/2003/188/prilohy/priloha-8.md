@@ -1,3 +1,3 @@
 Príloha č. 8 k zákonu č. 188/2003 Z. z.
 
-- Potvrdenie o dodávke a aplikácií čistiarenského kalu a dnových sedimentov [Vzor 01](../assets/df3901450345458bb2cd326d965e2a43da0d74bbb9b4c5960fd6e8c2f5ce4bcc.pdf)
+- Potvrdenie o dodávke a aplikácií čistiarenského kalu a dnových sedimentov [Vzor 01](../assets/7b69febccc6c5d945d560facbe46e63a2beb51c92e71435d1da90cb0c2138b09.pdf)
