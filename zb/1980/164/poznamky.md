@@ -19,3 +19,5 @@
 - 10) § 14 ods. 2 nariadenia vlády ČSSR č. 161/1980 Zb.
 
 - 11) § 27 ods. 3 vyhlášky Federálneho ministerstva financií a predsedu Štátnej banky československej č. 162/1980 Zb. o financovaní reprodukcie základných prostriedkov.
+
+- 12) Zásady vnútornej a zahraničnej bankovej menovej politiky po roku 1980 schválené uznesením vlády ČSSR č. 400/1980.
