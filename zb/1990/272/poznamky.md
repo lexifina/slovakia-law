@@ -1,4 +1,4 @@
-- 1) § 45 zákona SNR č. 106/1988 Zb. o pôsobnosti orgánov SSR v sociálnom zabezpečení.
+- 1) § 27 zákona SNR č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
 
 - 2) § 73 ods. 6 písm. f) a i) zákona č. 100/1988 Zb. o sociálnom zabezpečení.§ 58 vyhlášky MZSV SSR č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon SNR o pôsobnosti orgánov SSR v sociálnom zabezpečení v znení vyhlášky č. 145/1990 Zb.
 
@@ -6,17 +6,15 @@
 
 - 2b) § 8 ods. 1 zákona č. 73/1990 Zb. o civilnej službe.
 
-- 3) § 54 ods. 8 zákona o sociálnom zabezpečení.
+- 2c) § 28 zákona SNR č. 543/1990 Zb.
 
-- 4) § 80 ods. 1 vyhlášky MZSV SSR č. 151/1988 Zb.
+- 3) Nariadenie vlády ČSSR č. 137/1989 Zb. o závodnom stravovaní.
 
-- 5) § 123 vyhlášky MZSV SSR č. 151/1988 Zb.
+- 4) § 130 vyhlášky MZSV SSR č. 151/1988 Zb.
 
-- 6) § 130 vyhlášky MZSV SSR č. 151/1988 Zb.
+- 5) § 127 vyhlášky MZSV SSR č. 151/1988 Zb.
 
-- 7) § 127 vyhlášky MZSV SSR č. 151/1988 Zb.
-
-- 8) § 122 a 129 vyhlášky MZSV SSR č. 151/1988 Zb.
+- 6) § 122 a 129 vyhlášky MZSV SSR č. 151/1988 Zb.
 
 - 9) § 93 zákona o sociálnom zabezpečení.§ 122 až 125 vyhlášky FMPSV č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení vyhlášky č. 123/1990 Zb.
 
