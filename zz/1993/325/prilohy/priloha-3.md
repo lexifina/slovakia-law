@@ -8,10 +8,10 @@ LIMITY ÚČELOVÝCH DOTÁCIÍ ZO ŠTÁTNEHO ROZPOČTU SLOVENSKEJ REPUBLIKY NA RO
 
 Mesto | Investičné dotácie | Neinvestičné dotácie
 
-Bratislava | 174.0 | 414.0
+Bratislava | 174,0 | 414,0
 
-Košice | 53.0 | 124.0
+Košice | 53,0 | 124,0
 
-Prešov | 13.0 | 37.0
+Prešov | 13,0 | 37,0
 
-Spolu | 24O.O | 575.O
+Spolu | 240,0 | 575,0
