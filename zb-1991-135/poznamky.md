@@ -1,0 +1,1 @@
+- 1) § 24 a 25 zákona č. 563/1990 Zb. o rozpočtových pravidlách federácie.
