@@ -117,5 +117,3 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 85. | | zák. SNR č. 372/1990 Zb. | 53 ods. 1 | prejednávanie priestupkov
 
 87. | | | 4 ods. 1 | ukladanie pokút podnikateľom
-
-88. | správy a ochrany národného majetku | vyhl. č. 119/1988 Zb. | 10 ods. 2 | zriaďovanie práva trvalého užívania
