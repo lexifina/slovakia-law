@@ -18,7 +18,15 @@
 
 - § 128 Občianskeho zákonníka.
 
-- 8a) § 35 až 38 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení neskorších predpisov.
+- 8a) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+
+- Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
+
+- Zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
+
+- Zákon č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa v znení neskorších predpisov.
+
+- 8b) § 35 až 38 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení neskorších predpisov.
 
 - 9) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
@@ -37,3 +45,7 @@
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 130/1999 Z. z. o Dohode o vývoji, prijatí a zavedení jednotných leteckých predpisov z 11. septembra 1990.
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 84/2000 Z. z. o pristúpení Slovenskej republiky k Medzinárodnému dohovoru EUROCONTROL týkajúceho sa spolupráce v záujme bezpečnosti letovej prevádzky, zmeneného a doplneného v Bruseli v roku 1981.
+
+- 15) § 9 ods. 4 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- 16) Zákon č. 136/2004 Z. z. o letiskových spoločnostiach a o zmene a doplnení zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
