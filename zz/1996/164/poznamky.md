@@ -22,7 +22,15 @@
 
 - 12) Zákon č. 92/1949 Zb. Branný zákon, ako vyplýva zo zmien a doplnení vykonaných Ústavou Československej socialistickej republiky č. 100/1960 Zb. v znení ústavného zákona č. 101/1990 Zb., ústavným zákonom o československej federácii č. 143/1968 Zb. v znení ústavného zákona č. 125/1970 Zb. a ústavného zákona č. 126/1970 Zb., zákonom č. 86/1950 Zb., zákonom č. 88/1950 Zb., zákonom č. 19/1958 Zb., zákonom č. 140/1961 Zb. v znení neskorších predpisov, zákonom č. 100/1970 Zb. v znení neskorších predpisov, zákonom č. 40/1974 Zb. v znení neskorších predpisov, zákonom č. 64/1978 Zb., zákonom č. 72/1990 Zb., zákonom č. 227/1991 Zb., zákonom č. 164/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 166/1995 Z. z. a zákonom Národnej rady Slovenskej republiky č. 161/1996 Z. z.
 
+- 12a) § 14 ods. 1 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
+
 - 13) Napríklad zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z., vyhláška Slovenského banského úradu č. 71/1988 Zb. o výbušninách v znení vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 77/1996 Z. z. a vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 78/1996 Z. z.
+
+- 13a) Zákon Národnej rady Slovenskej republiky č. 115/1995 Z. z. o ochrane zvierat.
+
+- 13b) § 760 a 765 Občianskeho zákonníka.§ 610 Obchodného zákonníka.
+
+- 13c) § 762 Občianskeho zákonníka.Zákon č. 87/1987 Zb. o veterinárnej starostlivosti v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
 
