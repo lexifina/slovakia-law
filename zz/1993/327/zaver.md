@@ -1,1 +1,0 @@
-Július Tóth v. r.
