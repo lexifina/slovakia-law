@@ -1,4 +1,8 @@
-- 1) Uznesenie vlády ČSR č. 283/1971 k návrhu dlhodobého vývoja osídlenia ČSR a uznesenie vlády SSR č. 1/1972 k návrhu dlhodobého rozvoja osídlenia na Slovensku.
+- 1) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
+
+- Zákon ČNR č. 360/1992 Zb. o výkone povolania autorizovaných architektov a o výkone povolania autorizovaných inžinierov a technikov činných vo výstavbe.
+
+- Zákon SNR č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch.
 
 - 2) § 7 ods. 3 a §18 stavebného zákona.
 
