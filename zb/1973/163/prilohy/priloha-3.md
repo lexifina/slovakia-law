@@ -154,7 +154,7 @@ PRÍLOHA č. 3
 
   - D. Požiadavky na uskutočňovanie stavby
 
-  - - zásady riešenia zariadenia staveniska,
+  - - zásady riešenia zariadenia staveniska, najmä z hľadiska včasného zabezpečenia sociálneho zariadenia,
 
   - - údaje o dopravných trasách na presun rozhodujúcich stavebných prvkov, konštrukcií, hmôt a materiálov,
 
