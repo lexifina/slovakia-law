@@ -10,19 +10,33 @@
 
 - 6) Zákon č. 169/1949 Zb. o vojenských obvodoch. § 22 zákona č. 40/1961 Zb. o obrane Československej socialistickej republiky. § 17 a § 18 zákona č. 102/1971 Zb. o ochrane štátneho tajomstva.
 
+- 6a) Napr. § 7 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
+
 - 7) § 55 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
+
+- 7a) Čl. 139a ústavného zákona č. 143/1968 Zb. o československej federácii v znení ústavného zákona č. 294/1990 Zb.
 
 - 8) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 95/1977 Zb. o typizácii vo výstavbe
 
 - 9) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 105/1981 Zb. o dokumentácii stavieb.
 
-- 10) § 63b zákona č. 69/1967 Zb. o národných výboroch v znení neskorších predpisov (úplné znenie č. 35/1983 Zb.).
+- 10) § 27 ods. 4 Zákonníka práce.
+
+- 10a) § 2 zákona Slovenskej národnej rady č. 129/1990 Zb. o pôsobnosti národných výborov pri vykonávaní niektorých ustanovení zákona o nájme a podnájme nebytových priestorov.
+
+- 10b) § 9 zákona č. 131/1989 Zb. o Zbierke zákonov v znení neskorších predpisov.
+
+- § 7 ods. 1 písm. b) zákona Slovenskej národnej rady č. 176/1989 Zb. o vyhlasovaní všeobecne záväzných právnych predpisov a iných opatrení orgánov Slovenskej socialistickej republiky v Zbierke zákonov.
+
+- 10c) Čl. 6 ústavného zákona Slovenskej národnej rady č. 50/1990 Zb. o názve, štátnom znaku, štátnej vlajke, štátnej pečati a o štátnej hymne Slovenskej republiky.
 
 - 11) Napríklad: § 16 zákona č. 28/1984 Zb. o štátnom dozore nad jadrovou bezpečnosťou jadrových zariadení, § 6 vyhlášky Ministerstva zdravotníctva č. 42/1966 Zb. o poskytovaní liečebno-preventívnej starostlivosti.
 
 - 12) § 124 Zákonníka práce.
 
 - 13) Napríklad: vyhláška ministra zahraničných vecí č. 80/1971 Zb. o Zmluve medzi ČSSR a PĽR o právnych vzťahoch na československo-poľských štátnych hraniciach, o spolupráci a vzájomnej pomoci v hraničných otázkach, vyhláška ministra zahraničných vecí č. 39/1978 Zb. o Zmluve medzi ČSSR a MĽR o spolupráci a vzájomnej pomoci na československo-maďarských hraniciach, smernice Federálneho ministerstva národnej obrany zo dňa 25. júna 1974 na poskytovanie vojenskej pomoci, uverejnené pod č. 6 v čiastke 7/1974 Ú. v. SSR.
+
+- 13a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 14) Napríklad: zákon č. 60/1961 Zb. o úlohách národných výborov pri zabezpečovaní socialistického poriadku, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
