@@ -18,6 +18,6 @@
 
 - 9) Zákon č. 93/1951 Zb. o štátnom sviatku, o dňoch pracovného pokoja a o pamätných a významných dňoch v znení zákona č. 65/1965 Zb. a zákona č. 56/1975 Zb.
 
-- 10) § 84 ods. 2, § 87 Zákonníka práce.
+- 10) § 85 a 87 Zákonníka práce.
 
 - 11) § 96 a 97 Zákonníka práce.

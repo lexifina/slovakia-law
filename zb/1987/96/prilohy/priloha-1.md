@@ -1,4 +1,4 @@
-Príloha vyhlášky č. 96/1987 Zb.
+Príloha č. 1 vyhlášky č. 96/1987 Zb.
 
 - Stupnica mzdových taríf pri 36-hodinovom týždennom pracovnom čase Stupnica mzdových taríf | Mzdová tarifa v Kčs/hod. | | | | | | | |
 
