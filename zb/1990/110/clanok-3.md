@@ -1,0 +1,3 @@
+# Čl. III
+
+Dňom účinnosti tohto zákona predchádza právomoc Ústrednej rady odborov na vydávanie všeobecne záväzných právnych predpisov podľa zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov a zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkách v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov na Federálne ministerstvo práce a sociálnych vecí; pokiaľ však ide o právomoc na úpravu organizácie nemocenského poistenia zamestnancov podľa § 63 ods. 1 písm. a) zákona č. 54/1956 Zb. v Českej republike a v Slovenskej republike, prechádza táto právomoc na Ministerstvo zdravotníctva a sociálnych vecí Českej republiky a na Ministerstvo zdravotníctva a sociálnych vecí Slovenskej republiky.
