@@ -12,6 +12,10 @@
 
 - 3c) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
+- 3d) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.Zákon č. 413/2002 Z. z. o sociálnom poistení.
+
+- 3e) § 80 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
+
 - 4) § 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
 - 5) Napríklad zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
@@ -40,7 +44,7 @@
 
 - 11aa) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
-- 11ab) § 42 zákona č. 54/1956 Zb.§ 5 zákona č. 32/1957 Zb. v znení neskorších predpisov.
+- 11ab) § 11 písm. b) zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.§ 2 zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.§ 145b ods. 1 písm. a) a b) zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.§ 107 a 108 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.§ 163 a 164 zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore.§ 5 zákona č. 328/2002 Z. z.
 
 - 11ac) § 91a zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 245/2000 Z. z.
 
