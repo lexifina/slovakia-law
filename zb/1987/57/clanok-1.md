@@ -14,6 +14,8 @@ Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb.
 
 - doba, po ktorú sa mužovi poskytoval príspevok podľa zákona o materskom príspevku.“.
 
+- 3. V § 28 ods. 2 písm. a) sa suma „950 Kčs“ nahrádza sumou „1 000 Kčs“ a suma „1 600 Kčs“ sumou „1 700 Kčs“.
+
 - 4. § 80 sa dopĺňa odsekom 3, ktorý znie:
 
 - „(3)
@@ -43,3 +45,5 @@ Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb.
 - Pre priznanie, výšku a poskytovanie peňažnej pomoci mužovi poskytujúcemu služby na základe povolenia národného výboru platia predchádzajúce odseky obdobne.“.
 
 - 12. V § 97h ods. 2 sa za prvú vetu vkladá veta: „Obdobnú oznamovaciu povinnosť má aj muž, ktorý sa stará o dieťa, na ktoré mu patrí peňažná pomoc (§ 97e ods. 3) alebo príspevok podľa zákona o materskom príspevku, a prerušil z tohto dôvodu výkon povolenej činnosti.“.
+
+- 13. V § 115 sa suma „950 Kčs“ nahrádza sumou „1 000 Kčs“ a suma „1 600 Kčs“ sumou „1 700 Kčs“.
