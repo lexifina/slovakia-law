@@ -14,7 +14,7 @@
 
 - 8) Oslobodenie sa vzťahuje na odmeny vyplácané pri príležitosti udelenia uvedených titulov, ak ich udieľajú aj ostatné príslušné ústredné orgány.
 
-- 9) Napr. vyhláška č. 155/1975 Zb. o fonde kultúrnych a sociálnych potrieb.
+- 9) Vyhláška č. 210/1989 Zb. o fonde kultúrnych a sociálnych potrieb.
 
 - 10) Vyhláška č. 62/1970 Zb. o poskytovaní náborových príspevkov a iných výhod doosídlencom vo vymedzenom území pohraničia, vyhláška č. 33/1974 Zb. o príspevkoch a náhradách, ktoré sa poskytujú pracovníkom získaným náborom vykonávaným národnými výbormi, a úprava Federálneho ministerstva práce a sociálnych vecí z 3. novembra 1976 č. FV/1-1046/76-1112 o poskytovaní náležitostí pracovníkom a učňom získaným náborom a vnútrorezortnými prevodmi z iných oblastí ČSSR do vybraných organizácií na území hlavného mesta Prahy.
 
@@ -25,3 +25,13 @@
 - 13) Porovnaj ustanovenie §11 ods. 12.
 
 - 14) Pod ustanovenie §20 ods. 1 zákona nespadajú spory o tom, či má platiteľ voči pracovníkovi nárok na vrátenie dane, ktorú podľa §15 ods. 3 zákona zaplatil.
+
+- 15) § 61 vyhlášky č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
+
+- 16) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb.Vyhláška č. 149/1988 Zb. v znení vyhlášky č. 123/1990 Zb.
+
+- 17) § 14 nariadenia vlády ČSFR č. 121/1990 Zb. o pracovnoprávnych vzťahoch pri súkromnom podnikaní.
+
+- 18) Zákon č. 62/1983 Zb. o vernostnom prídavku baníkov.
+
+- 19) Čl. I bod č. 30 zákona č. 306/1991 Zb. o zmenách v sociálnom zabezpečení.
