@@ -1,1 +1,0 @@
-- *) Dodávky výrobkov organizáciám štátneho a družstevného maloobchodu upravuje vyhláška č. 130/1964 Zb.
