@@ -1,0 +1,1 @@
+- [Francúzske znenie textu](../assets/d630dc718b6a85e0d2cd75b2d24ff894a06773661e5aa2786944cb5fcf0c64d4.pdf)

@@ -1,0 +1,11 @@
+- 1) V tomto oznámení Ministerstva zahraničných vecí Slovenskej republiky sa uvádza slovenský preklad pôvodného textu charty; v prílohe k oznámeniu sa uvádza pôvodný text charty v anglickom jazyku a vo francúzskom jazyku.
+
+- 2) Anglický text tejto charty používa termín „workers“ – „pracovníci“. Francúzsky text tejto charty používa termín „travailleurs“ – „pracovníci“. V pracovnoprávnych predpisoch platných v Slovenskej republike sa nepoužíva termín „pracovníci“, ale sa používa termín „zamestnanci“ v súlade so zákonom č. 65/1965 Zb. Zákonník práce v znení zákona Národnej rady Slovenskej republiky č. 206/1996 Z. z.
+
+- 3) Mimometropolitné územia sú územia, ktoré v najrozmanitejších formách spravujú štáty a sú odlišné od štátneho územia týchto štátov (napr. poručenské, zámorské alebo iné nesamosprávne/závislé, koloniálne/územia).
+
+- 4) Slovenská republika ako jeden z dvoch nástupníckych štátov po dni zániku Českej a Slovenskej Federatívnej Republiky (ústavný zákon z 25. novembra 1992 č. 542/1992 Zb. o zániku Českej a Slovenskej Federatívnej Republiky) prijala podpis Európskej sociálnej charty za svoj na základe sukcesie.
+
+- Národná rada Slovenskej republiky uznesením č. 85 z 3. decembra 1992 schválila vyhlásenie Národnej rady Slovenskej republiky o členstve Slovenskej republiky v Rade Európy a o prevzatí záväzkov z medzinárodných zmlúv. V tomto vyhlásení sa okrem iného uvádza, že Slovenská republika považuje podpisy medzinárodných zmlúv urobené Českou a Slovenskou Federatívnou Republikou do 31. decembra 1992 za podpisy urobené Slovenskou republikou. Toto vyhlásenie sa doručilo Rade Európy 18. decembra 1992. Rada Európy vzala uvedené vyhlásenie na vedomie 8. januára 1993.
+
+- Slovenská republika sa stala členským štátom Rady Európy 30. júna 1993. V súlade najmä s čl. 34 Viedenského dohovoru z 23. augusta 1978 o sukcesii štátov vo vzťahu k zmluvám a podľa už uvedeného vyhlásenia Národnej rady Slovenskej republiky z 3. decembra 1992 je 18. december 1992 dňom notifikácie sukcesie Slovenskej republiky o tom, že Slovenská republika považuje podpis Európskej sociálnej charty, ktorý sa urobil 27. mája 1992 v Štrasburgu, za svoj podpis, a to s účinnosťou odo dňa vzniku členstva Slovenskej republiky v Rade Európy.
