@@ -2,10 +2,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - Pôsobnosť krajského úradu na jednotlivých úsekoch štátnej správy Por. cí s. | Úsek štátnej správy | Právny predpis | Paragraf | Pôsobnost
 
-- 1. | obrana štátu | zák. c. 169/1949 Zb. | § 1 ods. 3 | vytycuje hranice vojenského obvodu
-
-- 2. | | | § 18 ods. 1 | vymenúva a odvoláva správcu vojenského obvodného úradu
-
 - 3. | | zák. c. 40/1961 Zb. v znení neskorších predpisov | § 19 ods. 1 | ukladá povinnosti štátnym orgánom, hospodárskym, spolocenským a iným organizáciám i obcanom v súvislosti s prípravami alebo preskúšavaním opatrení pre cas brannej pohotovosti štátu
 
 - 4. | všeobecná vnútorná správa | Obciansky zákonník | § 20i ods. 2 | vedie register záujmových združení právnických osôb
