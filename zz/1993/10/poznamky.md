@@ -44,6 +44,8 @@
 
 - 12) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení nariadenia vlády Slovenskej republiky č. 645/1992 Zb.
 
+- 12a) § 8 až 15 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
 - 13) Napríklad zákon Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole.
 
 - 13a) Zákon Národnej rady Slovenskej republiky č. 14/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1993 a o zmene zákonov v oblasti sociálneho zabezpečenia a niektorých ďalších zákonov.
