@@ -66,6 +66,12 @@ Príloha č. 1 k zákonu č. 289/1995 Z. z.
 
 - 15079090 | - Ostatné
 
+- 15091090 | - Ostatné
+
+- 15099000 | - Ostatné
+
+- 15100090 | - Ostatné
+
 - 15121991 | - Slnečnicový olej
 
 - 15121999 | - Požltový olej
