@@ -1,6 +1,6 @@
-# § 2a Zabezpečovanie obstarávania územnoplánovacích podkladov a územnoplánovacej dokumentácie obcami
+# § 2a Zabezpečovanie obstarávania územnoplánovacích podkladov a územnoplánovacej dokumentácie obcami a samosprávnymi krajmi
 
-(1) Obec zabezpečuje obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie prostredníctvom odborne spôsobilej osoby.
+(1) Obec a samosprávny kraj zabezpečujú obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie prostredníctvom odborne spôsobilej osoby. Táto osoba nemôže byť súčasne spracovateľom ňou obstarávaných územnoplánovacích podkladov alebo územnoplánovacej dokumentácie.
 
 (2) Odbornou spôsobilosťou sa rozumie vzdelanie, prax a súhrn teoretických vedomostí, praktických skúseností a znalosť všeobecne záväzných právnych predpisov potrebných na obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie.
 
