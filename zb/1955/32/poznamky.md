@@ -1,0 +1,1 @@
+- *) Tu sa vyhlasuje slovenský preklad na strane 1 prílohy.
