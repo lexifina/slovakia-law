@@ -6,4 +6,4 @@
 
 (3) Pokuta je splatná do 15 dní odo dňa, keď rozhodnutie o jej uložení nadobudlo právoplatnosť.
 
-(4) Pokuty sú príjmom cestného fondu alebo rozpočtu obce podľa toho, ktorý cestný správny orgán uložil pokutu. Tieto orgány aj vymáhajú nezaplatené pokuty.
+(4) Výnosy z pokút sú príjmom štátneho rozpočtu alebo rozpočtu obce podľa toho, ktorý cestný správny orgán uložil pokutu.

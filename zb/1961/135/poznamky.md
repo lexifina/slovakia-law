@@ -20,9 +20,15 @@
 
 - 2f) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 2g) § 3 zákona Národnej rady Slovenskej republiky č. 153/1993 Z. z. o Štátnom fonde cestného hospodárstva.
+- 2ga) § 94 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+
+- 2gb) § 4 ods. 2 písm. b) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 41/2000 Z. z. v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 414/2000 Z. z.
 
 - 2h) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
+
+- 2i) § 3 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 41/2000 Z. z., ktorou sa ustanovuje spôsob označenia úsekov diaľnic a ciest pre motorové vozidlá, ktorých užívanie podlieha úhrade, vzor nálepky a spôsob jej umiestnenia na motorovom vozidle.
+
+- 2j) Prílohy č. 1 a 2 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 41/2000 Z. z. v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 414/2000 Z. z.
 
 - 3) § 71 ods. 1 zákona č. 50/1976 Zb.
 
@@ -44,4 +50,4 @@
 
 - 11) § 88 až 93 zákona č. 50/1976 Zb.
 
-- 12) § 93 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+- 12) § 93 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
