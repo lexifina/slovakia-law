@@ -1,7 +1,5 @@
 - 1) § 21 ods. 3 Obchodného zákonníka.
 
-- 1a) § 2 písm. m) zákona č. 300/2025 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov (vysokoškolský zákon).
-
 - 2) § 137 až 142 Občianskeho zákonníka.
 
 - 3) § 508 ods. 1 Obchodného zákonníka.
@@ -15,8 +13,6 @@
 - 7) § 508 až 515 Obchodného zákonníka.
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže v znení zákona č. 240/1998 Z. z.
-
-- 8a) Občiansky zákonník.
 
 - 9) § 51 Obchodného zákonníka.
 
