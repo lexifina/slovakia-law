@@ -63,3 +63,13 @@ Zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve v znení z�
 - spravuje sadzobné opatrenia a kontroluje ich dodržiavanie,“.
 
 - Doterajšie písmená i) až r) sa označujú ako písmená j) až s).
+
+- 7. V § 6 ods. 3 písm. n) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „zabezpečuje získavanie, prvotné spracúvanie a kontrolu údajov pre štátnu štatistiku<sup>9a</sup>) o tovare, ktorý je predmetom obchodu medzi Slovenskou republikou a členskými štátmi Európskych spoločenstiev, a s tým súvisiace činnosti,“.
+
+  - Poznámka pod čiarou k odkazu 9a znie:
+
+  - „9a)
+
+  - Zákon č. 540/2001 Z. z. o štátnej štatistike.“.
+
+- 8. V § 7 ods. 3 písm. q) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „zabezpečuje získavanie, prvotné spracúvanie a kontrolu údajov pre štátnu štatistiku<sup>9a</sup>) o tovare, ktorý je predmetom obchodu medzi Slovenskou republikou a členskými štátmi Európskych spoločenstiev, a s tým súvisiace činnosti,“.
