@@ -1,1 +1,0 @@
-- *) § 124 Zákonníka práce č. 65/1965 Zb., § 30 a nasl. vládneho nariadenia č. 66/1965 Zb., vyhláška č. 84/1966 Zb. a vyhláška č. 100/1964 Zb.
