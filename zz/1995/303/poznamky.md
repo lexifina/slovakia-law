@@ -62,6 +62,10 @@
 
 - 29) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 29a) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
+
+- 29b) Zákon č. 231/1999 Z. z. o štátnej pomoci.
+
 - 30) § 15 zákona Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení zákona Národnej rady Slovenskej republiky č. 179/1994 Z. z.§ 15 zákona Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva v znení zákona Národnej rady Slovenskej republiky č. 180/1994 Z. z.§ 20 zákona Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu.§ 16 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení zákona Národnej rady Slovenskej republiky č. 182/1994 Z. z.§ 15 zákona Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení zákona Národnej rady Slovenskej republiky č. 183/1994 Z. z.§ 44 a 45 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty.§ 23 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností.§ 35 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.§ 28 a 34 zákona č. 202/1995 Z. z. Devízový zákon.§ 243 a 249 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon. Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.Zákon č. 563/1991 Zb. o účtovníctve.§ 40r zákona č. 286/1992 Zb. v znení neskorších predpisov.§ 5 zákona Národnej rady Slovenskej republiky č. 160/1993 Z. z. o niektorých opatreniach pri vzájomnom započítavaní pohľadávok podnikateľov.
 
 - 31) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
