@@ -1,0 +1,1 @@
+- 1) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
