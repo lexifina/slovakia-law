@@ -24,6 +24,10 @@ Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády 
 
 - 2. V § 1 odsek 6 znie:
 
+- „(6)
+
+- Hlavné druhy vojsk armády sú pozemné sily a vzdušné sily. Na ich riadenie sa zriaďujú veliteľstvá.“.
+
 - 3. § 2 sa dopĺňa odsekom 4, ktorý znie:
 
 - „(4)
