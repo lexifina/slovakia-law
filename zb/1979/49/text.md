@@ -18,6 +18,8 @@ Zmluva nadobudla platnosť na základe svojho článku XI dňom 1. januára 1979
 
 Dňom 29. 12. 1995 vo vzájomných vzťahoch medzi Slovenskou republikou a Rumunskom stratila táto zmluva platnosť.(oznámenie MZV SR č. 105/1996 Z. z.).
 
+Dňom 22.11. 1996 stráca táto zmluva platnosť vo vzájomných vzťahoch medzi Slovenskou republikou a Ukrajinou (oznámenie MZV SR č. 173/1997 Z. z.).
+
 Prvý námestník:
 
 Ing. Knížka v. r.
