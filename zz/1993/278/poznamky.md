@@ -92,6 +92,10 @@
 
 - 20) § 663 a nasl. Občianskeho zákonníka.
 
+- 20a) Napríklad zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.
+
+- 20b) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
 - 21) § 659 a nasl. Občianskeho zákonníka.
 
 - 22) Napríklad § 3d ods. 6 zákona č. 135/1961 Zb. v znení neskorších predpisov.
@@ -110,7 +114,7 @@
 
 - 23bb) Zákon č. 440/2000 Z. z. o správach finančnej kontroly.
 
-- 23c) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 23c) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
 
