@@ -1,61 +1,49 @@
 Príloha č. 1 vyhlášky č. 41/1985 Zb.
 
-- Veci, na ktorých vývoz je potrebné povolenie [§ 1 ods. 1 písm. c) a § 1 ods. 2 bod 1. bb/ vyhlášky]:
+- Veci, na vývoz ktorých je potrebné povolenie [§ 1 ods. 1 písm. c) a § 1 ods. 2 bod 1 bb) vyhlášky]:
 
   - 1. pohonné látky vyvážané v rezervných nádobách
 
-  - 2. pletené vrchné ošatenie pre dospelých
+  - 2. tovar osobnej hygieny
 
-  - 3. podšívkoviny z umelého hodvábu
+  - 3. perie a výrobky z peria
 
-  - 4. perie a výrobky z peria
+  - 4. posteľná bielizeň každého druhu
 
-  - 5. stany
+  - 5. pletená bielizeň, elastická bielizeň, plavky
 
-  - 6. gumotextilné ležadlá a nafukovacie člny
+  - 6. kožené rukavice a galantérne výrobky z prírodnej kože
 
-  - 7. športové potreby každého druhu včítane rybárskych
+  - 7. letné športové potreby každého druhu včítane stanov, gumotextilných ležadiel, nafukovacích člnov a rybárskych potrieb
 
-  - 8. farebné televízne prijímače
+  - 8. koberce a podlahové krytiny každého druhu
 
-  - 9. rozhlasové prijímače a ich kombinácie
+  - 9. svietidlá včítanie krišťáľových lustrov
 
-  - 10. magnetofóny a gramofóny
+  - 10. hliníkový a smaltovaný riad
 
-  - 11. jednodverové elektrické ľadničky
+  - 11. elektrické a plynové spotrebiče pre domácnosť
 
-  - 12. elektrické spotrebiče na vykurovanie a ohrev vody
+  - 12. osobné počítače včítanie príslušenstva
 
-  - 13. drobné elektrické spotrebiče rotačné a tepelné (napr. kávovary, mixéry, roboty, remosky a pod.)
+  - 13. bicykle a náhradné dielce k nim
 
-  - 14. svietidlá včítane krištáľových lustrov
+  - 14. šijacie a pletacie stroje a náhradné dielce k nim
 
-  - 15. kachle a sporáky na pevné palivá
+  - 15. písacie stroje
 
-  - 16. smaltované vane, kotly, paráky a vedrá
+  - 16. úžitkový porcelán a varné sklo, sklenené sifónové a šľahačkové fľaše
 
-  - 17. hliníkový riad
+  - 17. negatívne filmy
 
-  - 18. automatické práčky
+  - 18. remeselnícke a hospodárske náradie a nástroje včítane elektrických
 
-  - 19. vysávače
+  - 19. náterové látky a riedidlá
 
-  - 20. drevené sudy
+  - 20. pneumatiky, veloplášte, galusky a duše
 
-  - 21. náterové látky a riedidlá
+  - 21. hudobné nástroje
 
-  - 22. lekárske teplomery
+  - 22. smaltované vane
 
-  - 23. včelárske potreby
-
-  - 24. muštomery
-
-  - 25. vložkové a visiace zámky
-
-  - 26. sklenené sifónové a šľahačkové flaše
-
-  - 27. pletacie stroje
-
-  - 28. hudobné nástroje
-
-  - 29. liehoviny
+  - 23. osobné automobily, motocykle, mopedy, staršie ako 6 rokov od roku výroby, s výnimkou vozidiel vyrobených do roku 1970.
