@@ -1,0 +1,1 @@
+- 1) § 11 ods. 6 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
