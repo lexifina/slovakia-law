@@ -578,6 +578,10 @@ kyselina lysergová
 
 N-N-dietyl-D-lysergamid
 
+sufentanil N-[4-(metoxymetyl)-1-/2-(2-tienyl) etyl/-4-piperidyl] propionanilid
+
+tilidin (+)-etyl trans-2-(dimetylamino)-1-fenyl-3- cyklohexén-1-karboxylát
+
 II. skupina
 
 acetyldihydrokodeín
@@ -603,6 +607,8 @@ soli omamných látok uvedených v tejto skupine vrátane solí ich izomérov uv
 Prípravky obsahujúce omamné látky uvedené v tejto skupine nebudú sa posudzovať ako omamné látky, ak budú obsahovať jednu alebo viac iných látok tak, že nebudú spojené so žiadnym ririkom zneužitia a že omamná látka z nich sa nebude môcť získať ľahko späť alebo v množstve, ktoré by mohlo ohroziť zdravie.
 
 Prípravok Pulvis ipecacunhae opiatus v zložení uvedenom v Československom liekopise, II. vydanie, 1954 sa neposudzuje ako omamná látka.
+
+dextropropoxyfén alfa-(+)-4-dimetylamino-1,2-difenyl-3-metyl-2-butanol propionát
 
 III. skupina
 
