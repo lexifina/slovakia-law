@@ -10,7 +10,7 @@
 
 - 4a) Zákon č. 563/1991 Zb. o účtovníctve.
 
-- 4b) § 53 a nasl. zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 4b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 5) Zákon SNR č. 84/1991 Zb. o daňových orgánoch v znení zákona SNR č. 136/1992 Zb.
 
@@ -53,3 +53,9 @@
 - 11) Napr. zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 12) § 1 ods. 1 písm. e) zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+
+- 13) Ústavný zákon č. 541/1992 Zb. o delení majetku Českej a Slovenskej Federatívnej Republiky medzi Českú republiku a Slovenskú republiku a jeho prechode na Českú republiku a Slovenskú republiku.
+
+- Ústavný zákon č. 542/1992 Zb. o zániku Českej a Slovenskej Federatívnej Republiky.
+
+- 14) § 51 zákona č. 40/1964 Zb. Občiansky zákonník.
