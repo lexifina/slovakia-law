@@ -92,4 +92,6 @@
 
 - 45) § 10 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 129/1979 Zb. o pracovnom uplatnení a hmotnom zabezpečení pracovníkov trvale nespôsobilých na doterajšiu prácu v podzemí hlbinných baní v znení vyhlášok č. 21/1982 Zb. a č. 145/1982 Zb.
 
+- 46) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov a predpisy vydané na jeho vykonanie. Zákon č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení neskorších predpisov. Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov. Vyhláška č. 128/1975 Zb. v znení neskorších predpisov.
+
 - 1) § 55 ods. 4 zákona č. 121/1975 Zb. a obdobné ustanovenia prv platných predpisov.
