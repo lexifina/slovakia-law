@@ -161,3 +161,9 @@ Vládne nariadenie č. 2/1952 Sb., ktorým sa vydáva železničný prepravný p
 - Pri preprave vozňových zásielok nákladného tovaru, podaných na prepravu odosielateľom súčasne v ucelenom vlaku do jednej stanice určenia, sa dodacie lehoty skracujú na vzdialenosť nad 150 tarifných kilometrov do 300 tarifných kilometrov o 12 hodín a na vzdialenosť nad 300 tarifných kilometrov o 24 hodín.“.
 
 - 4. V § 24 ods. 5 sa v druhej vete za slová „Toto predĺženie“ vkladajú slová „musí byť obmedzené na najnutnejšiu mieru a“.
+
+- 5. § 26 ods. 1 znie:
+
+- „(1)
+
+- Prepravné je povinný zaplatiť odosielateľ ihneď pri podaní zásielky na prepravu v odosielacej stanici; ak nebolo celé prepravné vybrané pri podaní zásielky na prepravu, je povinný zaplatiť prijímateľ zvyšok pri odbere zásielky.“.
