@@ -1,40 +1,40 @@
 Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
-- Pôsobnosť krajského úradu na jednotlivých úsekoch štátnej správy Por. cí s. | Úsek štátnej správy | Právny predpis | Paragraf | Pôsobnost
+- Pôsobnosť krajského úradu na jednotlivých úsekoch štátnej správy Por. čís. | Úsek štátnej správy | Právny predpis | Paragraf | Pôsobnosť
 
-- 3. | | zák. č. 40/1961 Zb. v znení neskorších predpisov | § 19 ods. 1 | ukladá povinnosti štátnym orgánom, hospodárskym, spolocenským a iným organizáciám i obcanom v súvislosti s prípravami alebo preskúšavaním opatrení pre cas brannej pohotovosti štátu
+- 3. | | zák. č. 40/1961 Zb. v znení neskorších predpisov | § 19 ods. 1 | ukladá povinnosti štátnym orgánom, hospodárskym, spoločenským a iným organizáciám i občanom v súvislosti s prípravami alebo preskúšavaním opatrení pre čas brannej pohotovosti štátu
 
-- 4. | všeobecná vnútorná správa | Obciansky zákonník | § 20i ods. 2 | vedie register záujmových združení právnických osôb
+- 4. | všeobecná vnútorná správa | Občiansky zákonník | § 20i ods. 2 | vedie register záujmových združení právnických osôb
 
-- 5. | | zák. SNR č. 63/1973 Zb. v znení neskorších predpisov | § 5 ods. 1 písm. b), §6, § 16, § 17 | povoluje, zrušuje a zastavuje konanie a vykonáva kontrolu a dozor nad dodržiavaním zákona pri verejnej zbierke, ktorá sa má konat na území kraja alebo jeho casti, ak nie je príslušný okresný úrad
+- 5. | | zák. SNR č. 63/1973 Zb. v znení neskorších predpisov | § 5 ods. 1 písm. b), §6, § 16, § 17 | povoľuje, zrušuje a zastavuje konanie a vykonáva kontrolu a dozor nad dodržiavaním zákona pri verejnej zbierke, ktorá sa má konať na území kraja alebo jeho časti, ak nie je príslušný okresný úrad
 
 - 6. | | zák. NR SR č. 40/1993 Z. z. | § 9 ods. 7 | rozhoduje o prepustení zo štátneho zväzku
 
-- 7. | | | §11 | vydáva osvedcenie o štátnom obcianstve Slovenskej republiky
+- 7. | | | §11 | vydáva osvedčenie o štátnom občianstve Slovenskej republiky
 
 - 8. | | | § 8 ods. 1 | preberá žiadosti o udelenie štátneho obcianstva Slovenskej republiky
 
-- 9. | | | § 19 | vedie evidenciu o udelení a strate štátneho obcianstva Slovenskej republiky
+- 9. | | | § 19 | vedie evidenciu o udelení a strate štátneho občianstva Slovenskej republiky
 
 - 10. | | zák. NR SR č. 154/1994 Z. z. | § 3 ods. 2 | vykonáva dozor nad vedením matrík
 
-- 11. | | | § 18 ods. 3 | overuje úradný výpis z matriky urcený na použitie v cudzom štáte, ak medzinárodná zmluva neustanovuje inak
+- 11. | | | § 18 ods. 3 | overuje úradný výpis z matriky určený na použitie v cudzom štáte, ak medzinárodná zmluva neustanovuje inak
 
 - 12. | | | §26 | vydáva súhlas na vykonanie záznamu rozhodnutia úradov a súdov cudzích krajín do matriky
 
-- 13. | živnostenské podnikanie a ochrana spotrebitela | zák. č. 455/1991 Zb. v znení neskorších predpisov | § 66c písm. a) | spolupracuje so živnostenskými spolocenstvami, komorami a inými neštátnymi inštitúciami, ktoré pôsobia v oblasti živnostenského podnikania v jeho územnom obvode
+- 13. | živnostenské podnikanie a ochrana spotrebiteľa | zák. č. 455/1991 Zb. v znení neskorších predpisov | § 66c písm. a) | spolupracuje so živnostenskými spoločenstvami, komorami a inými neštátnymi inštitúciami, ktoré pôsobia v oblasti živnostenského podnikania v jeho územnom obvode
 
-- 14. | | | § 66c písm. b) | vedie v informacnom systéme evidenciu podnikatelov, ktorým boli vydané doklady o živnostenskom oprávnení okresnými úradmi patriacimi do jeho územnej pôsobnosti
+- 14. | | | § 66c písm. b) | vedie v informačnom systéme evidenciu podnikatelov, ktorým boli vydané doklady o živnostenskom oprávnení okresnými úradmi patriacimi do jeho územnej pôsobnosti
 
-- 15. | živnostenské podnikanie a ochrana spotrebitela | zák. NR SR č. 274/1993 Z. z. | §5 | vyhlasuje na území príslušného okresu predaj obmedzeného množstva výrobkov v prípade, ak je vážne ohrozené zásobovanie obyvatelstva životne dôležitými výrobkami
+- 15. | živnostenské podnikanie a ochrana spotrebiteľa | zák. NR SR č. 274/1993 Z. z. | §5 | vyhlasuje na území príslušného okresu predaj obmedzeného množstva výrobkov v prípade, ak je vážne ohrozené zásobovanie obyvateľstva životne dôležitými výrobkami
 
-- 16. | požiarna ochrana | zák. SNR č. 126/1985 Zb. v znení neskorších predpisov | § 11 ods. 1 | overuje odbornú spôsobilost a vydáva osvedcenie o odbornej spôsobilosti technikom požiarnej ochrany a špecialistom požiarnej ochrany
+- 16. | požiarna ochrana | zák. SNR č. 126/1985 Zb. v znení neskorších predpisov | § 11 ods. 1 | overuje odbornú spôsobilosť a vydáva osvedčenie o odbornej spôsobilosti technikom požiarnej ochrany a špecialistom požiarnej ochrany
 
 - 17. | | | § 27 písm. a) | vykonáva štátny požiarny dozor
 
 - 18. | | | § 27 písm. b) | riadi, organizuje a v rozsahu vymedzenom ministerstvom vnútra vykonáva odbornú prípravu na úseku požiarnej ochrany
 
-- 19. | | | § 27 písm. c) | zistuje v závažných prípadoch príciny vzniku požiarov a vypracúva rozbory požiarovosti; v rozsahu vymedzenom ministerstvom vnútra spracúva a vedie evidencie požiarnej ochrany a plní úlohy v rámci automatizovaného systému spracúvania informácií a riadenia požiarnej ochrany
+- 19. | | | § 27 písm. c) | zisťuje v závažných prípadoch príčiny vzniku požiarov a vypracúva rozbory požiarovosti; v rozsahu vymedzenom ministerstvom vnútra spracúva a vedie evidencie požiarnej ochrany a plní úlohy v rámci automatizovaného systému spracúvania informácií a riadenia požiarnej ochrany
 
 - 20. | | | § 27 písm. d) | riadi po odbornej stránke výkon služby v jednotkách požiarnej ochrany v rozsahu vymedzenom ministerstvom vnútra
 
@@ -42,133 +42,133 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 22. | | | § 27 písm. í) | v rozsahu svojej pôsobnosti môže vydávat všeobecne záväzné vyhlášky
 
-- 23. | | | § 27 písm. g) | organizuje a vykonáva preventívnovýchovnú a propagacnú cinnost
+- 23. | | | § 27 písm. g) | organizuje a vykonáva preventívnovýchovnú a propagačnú cinnost
 
 - 24. | | | § 27 písm. h) | plní v rozsahu vymedzenom osobitnými predpismi úlohy požiarnej ochrany pri príprave na obranu štátu
 
 - 25. | | | § 34 ods. 1 | posudzuje dokumentácie stavieb vrátane technológií v prípadoch ustanovených vo všeobecne záväznom právnom predpise
 
-- 26. | | | § 65a ods. 1 | môže zriadit jednotku Zboru požiarnej ochrany na plnenie osobitných úloh
+- 26. | | | § 65a ods. 1 | môže zriadiť jednotku Zboru požiarnej ochrany na plnenie osobitných úloh
 
-- 27. | | | § 73 ods. 2 | sústreduje a nasadzuje jednotky požiarnej ochrany bez ohladu na to, komu sú podriadené, a vecné prostriedky požiarnej ochrany bez ohladu na to, kto nimi disponuje v prípade naliehavej potreby pri zdolávaní požiarov
+- 27. | | | § 73 ods. 2 | sústreďuje a nasadzuje jednotky požiarnej ochrany bez ohľadu na to, komu sú podriadené, a vecné prostriedky požiarnej ochrany bez ohľadu na to, kto nimi disponuje v prípade naliehavej potreby pri zdolávaní požiarov
 
-- 28. | | | §74 | spolupracuje s príslušnými orgánmi dobrovolných spolocenských organizácií
+- 28. | | | §74 | spolupracuje s príslušnými orgánmi dobrovolných spoločenských organizácií
 
-- 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. a) a príloha | povoluje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
+- 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. a) a príloha | povoľuje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
 
-- 41. | | | § 4 ods. 1 písm. b) | povoluje odber podzemných a povrchových vôd pre potreby verejných vodovodov, ktoré presahujú územie jedného okresu alebo sa dotýkajú záujmov viacerých okresov
+- 41. | | | § 4 ods. 1 písm. b) | povoľuje odber podzemných a povrchových vôd pre potreby verejných vodovodov, ktoré presahujú územie jedného okresu alebo sa dotýkajú záujmov viacerých okresov
 
-- 42. | | | § 4 ods. 1 písm. c) | povoluje odber na zavlažovanie pozemkov vo výmere nad 1 000 hektárov
+- 42. | | | § 4 ods. 1 písm. c) | povoľuje odber na zavlažovanie pozemkov vo výmere nad 1 000 hektárov
 
-- 43. | | | § 4 ods. 1 písm. d) | povoluje odber geotermálnych vôd a odber a iné nakladanie s vodami osobitne významné z hladiska štátnej vodohospodárskej bilancie a povoluje súvisiace vypúštanie odpadových vôd
+- 43. | | | § 4 ods. 1 písm. d) | povoľuje odber geotermálnych vôd a odber a iné nakladanie s vodami osobitne významné z hľadiska štátnej vodohospodárskej bilancie a povoľuje súvisiace vypúštanie odpadových vôd
 
-- 44. | | | § 4 ods. 1 písm. e) | povoluje zachytávanie povrchových vôd v nádržiach s celkovým objemom 1 milión m<sup>3</sup> alebo s výškou hrádzového telesa nad 8 m od dna základového výpustu vrátane vodohospodárskych diel a zariadení umožnujúcich využitie vodnej energie
+- 44. | | | § 4 ods. 1 písm. e) | povoľuje zachytávanie povrchových vôd v nádržiach s celkovým objemom 1 milión m<sup>3</sup> alebo s výškou hrádzového telesa nad 8 m od dna základového výpustu vrátane vodohospodárskych diel a zariadení umožnujúcich využitie vodnej energie
 
-- 45. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. f) | povoluje stavby na ochranu pred povodnami presahujúce územie jedného okresu a vodohospodárske diela na vodných cestách zriadované na plavebné úcely alebo ovplyvnujúce podmienky plavby
+- 45. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. f) | povoľuje stavby na ochranu pred povodnami presahujúce územie jedného okresu a vodohospodárske diela na vodných cestách zriadované na plavebné účely alebo ovplyvňujúce podmienky plavby
 
-- 46. | | | § 4 ods. 1 písm. g) | povoluje vodohospodárske diela odvodnovacích sústav vo výmere nad 2 000 hektárov
+- 46. | | | § 4 ods. 1 písm. g) | povoľuje vodohospodárske diela odvodnovacích sústav vo výmere nad 2 000 hektárov
 
-- 47. | | | § 4 ods. 1 písm. h) | povoluje vodohospodárske diela, ktoré umožnujú ním povolované nakladanie s vodami
+- 47. | | | § 4 ods. 1 písm. h) | povoľuje vodohospodárske diela, ktoré umožňujú ním povolované nakladanie s vodami
 
-- 48. | | | § 4 ods. 2 písm. a) | rozhoduje v prípadoch, v ktorých je príslušný povolovat vodohospodárske dielo, ako aj v ostatných vodohospodárskych veciach týkajúcich sa tohto vodohospodárskeho diela, prípadne povoleného nakladania s vodami
+- 48. | | | § 4 ods. 2 písm. a) | rozhoduje v prípadoch, v ktorých je príslušný povolovať vodohospodárske dielo, ako aj v ostatných vodohospodárskych veciach týkajúcich sa tohto vodohospodárskeho diela, prípadne povoleného nakladania s vodami
 
 - 49. | | | § 4 ods. 2 písm. b) | rozhoduje vo vodohospodárskych veciach hranicných vodných tokov po prerokovaní s ministerstvom životného prostredia a ak rozhodnutie má vplyv na priebeh, povahu alebo vyznacenie štátnej hranice, aj s ministerstvom vnútra
 
-- 50. | | | § 4 ods. 3 písm. a) | riadi a usmernuje podla smerného vodohospodárskeho plánu nakladania s vodami a ich ochranu, ako aj ostatné vodohospodárske veci v kraji
+- 50. | | | § 4 ods. 3 písm. a) | riadi a usmerňuje podla smerného vodohospodárskeho plánu nakladania s vodami a ich ochranu, ako aj ostatné vodohospodárske veci v kraji
 
-- 51. | | | § 4 ods. 3 písm. b) | urcuje zátopové územia pri vodohospodársky významných vodných tokoch v prípadoch, ktoré si vyhradí po prerokovaní s príslušnými okresnými úradmi
+- 51. | | | § 4 ods. 3 písm. b) | určuje zátopové územia pri vodohospodársky významných vodných tokoch v prípadoch, ktoré si vyhradí po prerokovaní s príslušnými okresnými úradmi
 
-- 52. | | | § 4 ods. 3 písm. c) | schvaluje kanalizacné poriadky verejných kanalizácií, pri ktorých povoluje vypúštanie odpadových vôd
+- 52. | | | § 4 ods. 3 písm. c) | schvaľuje kanalizačné poriadky verejných kanalizácií, pri ktorých povoľuje vypúštanie odpadových vôd
 
-- 53. | | | § 4 ods. 3 písm. d) | vydáva súhlas na stavby, zariadenia, prípadne cinnosti, ak sa vykonávajú na vodných cestách
+- 53. | | | § 4 ods. 3 písm. d) | vydáva súhlas na stavby, zariadenia, prípadne činnosti, ak sa vykonávajú na vodných cestách
 
-- 54. | | | § 4 ods. 3 písm. e) | vyjadruje sa v prípadoch, v ktorých je príslušný vydávat povolenie alebo súhlas, vo veciach hranicných vodných tokov sa vyjadruje po prerokovaní s ministerstvom životného prostredia
+- 54. | | | § 4 ods. 3 písm. e) | vyjadruje sa v prípadoch, v ktorých je príslušný vydávať povolenie alebo súhlas, vo veciach hraničných vodných tokov sa vyjadruje po prerokovaní s ministerstvom životného prostredia
 
 - 55. | | | § 4 ods. 3 písm. g) | robí v mimoriadnej situácii, najmä pri nedostatku vody a pri havarijnom zhoršení akosti vôd, opatrenia patriace do pôsobnosti okresných úradov, a to v prípadoch presahujúcich územný obvod alebo možnosti okresných úradov
 
-- 56. | | | § 6 ods. 2, § 7 | rozhoduje v pochybnostiach o miestnej príslušnosti okresného úradu na povolenie vodohospodárskeho diela a o príslušnosti v prípadoch, ak ten istý žiadatel požaduje súcasné vydanie niekolkých povolení, na vydanie ktorých sú príslušné vodohospodárske orgány rôznych stupnov
+- 56. | | | § 6 ods. 2, § 7 | rozhoduje v pochybnostiach o miestnej príslušnosti okresného úradu na povolenie vodohospodárskeho diela a o príslušnosti v prípadoch, ak ten istý žiadateľ požaduje súčasné vydanie niekoľkých povolení, na vydanie ktorých sú príslušné vodohospodárske orgány rôznych stupnov
 
 - 57. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 10 ods. 1 a 2 | dozerá v rozsahu svojej pôsobnosti na dodržiavanie ustanovení vodného zákona a zákona o štátnej správe vo vodnom hospodárstve a na dodržiavanie ním vydaných rozhodnutí a ukladá opatrenia na odstránenie zistených nedostatkov
 
-- 58. | | | § 10 ods. 4 | vykonáva v rozsahu svojej pôsobnosti technicko-bezpecnostný dozor nad vodohospodárskymi dielami, ktorých stav by mohol ohrozit bezpecnost osôb alebo majetku
+- 58. | | | § 10 ods. 4 | vykonáva v rozsahu svojej pôsobnosti technicko-bezpečnostný dozor nad vodohospodárskymi dielami, ktorých stav by mohol ohroziť bezpečnosť osôb alebo majetku
 
 - 59. | | | § 15 ods. 1 a 2 | vedie vodohospodársku evidenciu ním vydaných povolení, súhlasov, vyjadrení a iných rozhodnutí
 
-- 60. | | vyhl. č. 34/1977 Zb. | §5 | udeluje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
+- 60. | | vyhl. č. 34/1977 Zb. | §5 | udeľuje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
 
-- 67. | tvorba a ochrana životného prostredia -odpadové hospodárstvo | zák. SNR č. 494/1991 Zb. v znení neskorších predpisov | § 4 písm. b) | dáva podla § 4 ods. 2 zákona o odpadoch vyjadrenie k zariadeniam a cinnostiam, ktoré svojím dopadom presahujú územie okresu
+- 67. | tvorba a ochrana životného prostredia -odpadové hospodárstvo | zák. SNR č. 494/1991 Zb. v znení neskorších predpisov | § 4 písm. b) | dáva podľa § 4 ods. 2 zákona o odpadoch vyjadrenie k zariadeniam a činnostiam, ktoré svojím dopadom presahujú územie okresu
 
-- 68. | | | § 4 písm. c) | zakáže podla § 9 zákona o odpadoch do odstránenia závady cinnost
+- 68. | | | § 4 písm. c) | zakáže podľa § 9 zákona o odpadoch do odstránenia závady činnosť
 
-- | | | | - pôvodcu, ak nemá zabezpecené využitie alebo zneškodnenie odpadu a ak by v dôsledku toho mohlo dôjst k závažnej ekologickej ujme
+- | | | | - pôvodcu, ak nemá zabezpecené využitie alebo zneškodnenie odpadu a ak by v dôsledku toho mohlo dôjsť k závažnej ekologickej ujme
 
-- | | | | - prevádzkovatela zariadenia na zneškodnovanie odpadov, ak tento nesplní povinnosti ustanovené zákonom o odpadoch alebo jeho vykonávacími predpismi a ak by v dôsledku toho mohlo dôjst k závažnej ekologickej ujme
+- | | | | - prevádzkovateľa zariadenia na zneškodnovanie odpadov, ak tento nesplní povinnosti ustanovené zákonom o odpadoch alebo jeho vykonávacími predpismi a ak by v dôsledku toho mohlo dôjsť k závažnej ekologickej ujme
 
 - 69. | tvorba a ochrana životného prostredia -odpadové hospodárstvo | zák. SNR č. 494/1991 Zb. v znení neskorších predpisov | § 4 písm. d) | poskytuje pôvodcovi podla § 4 ods. 5 zákona o odpadoch na jeho požiadanie informácie o existencii a sídlach zariadení vhodných na zneškodnenie ním vyprodukovaného odpadu
 
-- 70. | | | § 4 písm. e) | vydáva, aktualizuje a zverejnuje program odpadového hospodárstva pre územie kraja
+- 70. | | | § 4 písm. e) | vydáva, aktualizuje a zverejňuje program odpadového hospodárstva pre územie kraja
 
 - 71. | | | § 4 písm. f) | vydáva v odpadovom hospodárstve pre územie kraja všeobecne záväzné vyhlášky
 
-- 72. | | | § 2 ods. 2 písm. g) a § 4 písm. a) | dáva súhlas podla § 6 ods. 2 zákona o odpadoch na prepravu nebezpecných odpadov presahujúcu územie kraja alebo okresu
+- 72. | | | § 2 ods. 2 písm. g) a § 4 písm. a) | dáva súhlas podľa § 6 ods. 2 zákona o odpadoch na prepravu nebezpečných odpadov presahujúcu územie kraja alebo okresu
 
-- 73. | tvorba a ochrana životného prostredia -ochrana prírody a krajiny | zák. SNR č. 52/1988 Zb. v znení neskorších predpisov | § 4a ods. 1 | dohodne sa o urcení prieskumného územia a jeho zmien
+- 73. | tvorba a ochrana životného prostredia -ochrana prírody a krajiny | zák. SNR č. 52/1988 Zb. v znení neskorších predpisov | § 4a ods. 1 | dohodne sa o určení prieskumného územia a jeho zmien
 
 - 74. | | zák. NR SR č. 287/1994 Z. z. | § 12 ods. 2, § 16 ods. 1, § 17 ods. 1, § 18 ods. 1, §22, § 34 ods. 1 a 5, § 35 až 37, § 39 | vyhlasuje, mení alebo zrušuje chránený areál, prírodnú rezerváciu, prírodnú pamiatku a ich ochranné pásmo, súkromné chránené územie, chránený strom a jeho ochranné pásmo
 
 - 75. | | | § 15, § 19 ods. 8 | vydáva návštevný poriadok národného parku a návštevný poriadok sprístupnenej jaskyne a priepasti
 
-- 76. | | | § 20 ods. 2 | povoluje výnimky z podmienok ochrany
+- 76. | | | § 20 ods. 2 | povoľuje výnimky z podmienok ochrany
 
-- 77. | | | § 27 ods. 6 | vydáva osobitné oprávnenie pre právnické osoby a fyzické osoby, ktorých cinnost je zameraná na vyhladávanie, výskum, prieskum, tažbu, zber, poznávanie alebo ochranu nerastov a skamenelín
+- 77. | | | § 27 ods. 6 | vydáva osobitné oprávnenie pre právnické osoby a fyzické osoby, ktorých cinnosť je zameraná na vyhladávanie, výskum, prieskum, ťažbu, zber, poznávanie alebo ochranu nerastov a skamenelín
 
-- 78. | | | § 38 ods. 2 | obstaráva oznacenie tých chránených castí prírody, ktoré vyhlasuje
+- 78. | | | § 38 ods. 2 | obstaráva označenie tých chránených častí prírody, ktoré vyhlasuje
 
 - 79. | | | §41 | obstaráva programy starostlivosti o prírodu a krajinu kraja, programy záchrany chránených areálov, prírodných rezervácií, prírodných pamiatok a chránených druhov ohrozených na území kraja, územné priemety ochrany prírody a krajiny kraja a projekty regionálneho územného systému ekologickej stability
 
-- 80. | | | § 44 ods. 1 | vyberá vstupné za vjazd a zotrvanie s motorovým vozidlom v chránenom území alebo za vstup do jeho vybraných castí prírody
+- 80. | | | § 44 ods. 1 | vyberá vstupné za vjazd a zotrvanie s motorovým vozidlom v chránenom území alebo za vstup do jeho vybraných častí prírody
 
-- 81. | | | § 49 ods. 1 | vedie v rozsahu svojej pôsobnosti informácie o ochrane prírody a krajiny (pôsobnost aj okresného úradu)
+- 81. | | | § 49 ods. 1 | vedie v rozsahu svojej pôsobnosti informácie o ochrane prírody a krajiny (pôsobnosť aj okresného úradu)
 
 - 82. | tvorba a ochrana životného prostredia -ochrana prírody a krajiny | zák. NR SR č. 287/1994 Z. z. | § 53 písm. a) | riadi výkon štátnej správy vo veciach ochrany prírody a krajiny v kraji
 
-- 83. | | | § 53 písm. c) | vykonáva krajské revízie stavu osobitne chránených castí prírody a krajiny
+- 83. | | | § 53 písm. c) | vykonáva krajské revízie stavu osobitne chránených častí prírody a krajiny
 
-- 84. | | | § 53 písm. i) | ak sú na to závažné dôvody, môže si vyhradit pôsobnost okresného úradu vo veciach podla § 8 ods. 2 až 4 a § 63 ods. 1 zákona NR SR c. 287/ 1994 Z. z. o ochrane prírody a krajiny, ak si ju už nevyhradilo ministerstvo podlá § 51 písm. h)
+- 84. | | | § 53 písm. i) | ak sú na to závažné dôvody, môže si vyhradiť pôsobnosť okresného úradu vo veciach podľa § 8 ods. 2 až 4 a § 63 ods. 1 zákona NR SR c. 287/ 1994 Z. z. o ochrane prírody a krajiny, ak si ju už nevyhradilo ministerstvo podľa § 51 písm. h)
 
 - 85. | | | § 53 písm. j) | vydáva pre územie kraja všeobecne záväzné vyhlášky vo veciach ochrany prírody a krajiny
 
-- 86. | | | § 53, § 54 | dáva súhlas podla § 7 písm. b), c), d), l) a n), § 13 ods. 2 písm. b), e), í), h), n) a o), § 14 ods. 2 písm. d) a m), § 19 ods. 6, § 34 ods. 3 a § 42 ods. 1
+- 86. | | | § 53, § 54 | dáva súhlas podľa § 7 písm. b), c), d), l) a n), § 13 ods. 2 písm. b), e), í), h), n) a o), § 14 ods. 2 písm. d) a m), § 19 ods. 6, § 34 ods. 3 a § 42 ods. 1
 
-- 87. | | | | dáva vyjadrenie podla § 9 ods. 1 písm. c), g), h), i), j), k) a o), § 9 ods. 2 písm. a), b), c), f) a g) a § 9 ods. 3
+- 87. | | | | dáva vyjadrenie podľa § 9 ods. 1 písm. c), g), h), i), j), k) a o), § 9 ods. 2 písm. a), b), c), f) a g) a § 9 ods. 3
 
-- 88. | | | | rozhoduje podla § 5 ods. 4, § 14 ods. 4 a 5, § 17 ods. 5, § 35 ods. 5, § 42 ods. 2, 5 a 6, § 67 ods. 1 a 3 (pôsobnost aj okresného úradu)
+- 88. | | | | rozhoduje podľa § 5 ods. 4, § 14 ods. 4 a 5, § 17 ods. 5, § 35 ods. 5, § 42 ods. 2, 5 a 6, § 67 ods. 1 a 3 (pôsobnosť aj okresného úradu)
 
-- 89. | | | §55 | vykonáva štátny dozor nad dodržiavaním ustanovení zákona NR SR c. 287/ 1994 Z. z. o ochrane prírody a krajiny a všeobecne záväzných právnych predpisov vydaných na jeho vykonávanie, ako aj nad dodržiavaním ním vydaných rozhodnutí a ukladá opatrenia na odstránenie skrytých nedostatkov a pokuty (pôsobnost aj okresného úradu)
+- 89. | | | §55 | vykonáva štátny dozor nad dodržiavaním ustanovení zákona NR SR c. 287/ 1994 Z. z. o ochrane prírody a krajiny a všeobecne záväzných právnych predpisov vydaných na jeho vykonávanie, ako aj nad dodržiavaním ním vydaných rozhodnutí a ukladá opatrenia na odstránenie skrytých nedostatkov a pokuty (pôsobnosť aj okresného úradu)
 
-- 90. | | | § 58 ods. 1 a 4 | ustanovuje a odvoláva stráž prírody a urcuje z jej radov clenov, ktorí sú oprávnení držat a nosit zbran
+- 90. | | | § 58 ods. 1 a 4 | ustanovuje a odvoláva stráž prírody a určuje z jej radov členov, ktorí sú oprávnení držať a nosiť zbraň
 
-- 91. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992 Zb. v znení neskorších predpisov | § 4 ods. 1 písm. a) | urcuje podla § 14 ods. 3 zákona o ovzduší emisné limity pre jestvujúce velké zdroje znecistovania ovzdušia
+- 91. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992 Zb. v znení neskorších predpisov | § 4 ods. 1 písm. a) | určuje podľa § 14 ods. 3 zákona o ovzduší emisné limity pre jestvujúce veľké zdroje znečistovania ovzdušia
 
-- 92. | | | § 4 ods. 1 písm. b) | dáva súhlas podla § 1 1 ods. 1 písm. e) zákona o ovzduší na návrhy územnoplánovacej dokumentácie velkého územného celku
+- 92. | | | § 4 ods. 1 písm. b) | dáva súhlas podľa § 1 1 ods. 1 písm. e) zákona o ovzduší na návrhy územnoplánovacej dokumentácie veľkého územného celku
 
-- 93. | | | § 4 ods. 1 písm. c) | urcuje spôsob vyhlasovania varovného a regulacného opatrenia všeobecne záväznou vyhláškou a je oprávnený vyhradit si jeho vyhlasovanie, ak smogová situácia presahuje územie pôsobnosti okresného úradu; pritom spolupracuje s príslušným orgánom štátnej správy zdravotníctva
+- 93. | | | § 4 ods. 1 písm. c) | určuje spôsob vyhlasovania varovného a regulačného opatrenia všeobecne záväznou vyhláškou a je oprávnený vyhradiť si jeho vyhlasovanie, ak smogová situácia presahuje územie pôsobnosti okresného úradu; pritom spolupracuje s príslušným orgánom štátnej správy zdravotníctva
 
-- 94. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992 Zb. v znení neskorších predpisov | § 4 ods. 1 písm. d) | sprístupnuje informácie verejnosti v rozsahu podla § 13 zákona o ovzduší a zverejnuje najviac do šiestich mesiacov nasledujúceho roka informácie o kvalite ovzdušia a podiele jednotlivých zdrojov na jeho znecistovaní
+- 94. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992 Zb. v znení neskorších predpisov | § 4 ods. 1 písm. d) | sprístupňuje informácie verejnosti v rozsahu podľa § 13 zákona o ovzduší a zverejňuje najviac do šiestich mesiacov nasledujúceho roka informácie o kvalite ovzdušia a podiele jednotlivých zdrojov na jeho znečisťovaní
 
 - 95. | | | § 4 ods. 2 | vydáva vo veciach ochrany ovzdušia pre územný obvod svojej pôsobnosti všeobecne záväzné vyhlášky
 
-- 96. | | | § 4 ods. 3 písm. a) a b) | nariadi podla § 12 ods. 2 zákona o ovzduší obmedzenie alebo zastavenie prevádzky zdroja znecistovania ovzdušia, ak prevádzkovatel velkého alebo stredného zdroja znecistovania
+- 96. | | | § 4 ods. 3 písm. a) a b) | nariadi podľa § 12 ods. 2 zákona o ovzduší obmedzenie alebo zastavenie prevádzky zdroja znečisťovania ovzdušia, ak prevádzkovateľ veľkého alebo stredného zdroja znečisťovania
 
-- | | | | - nesplní pri vážnom a bezprostrednom ohrození alebo poškodení kvality ovzdušia povinnosti vyplývajúce z § 7 ods. 1 písm. h) zákona o ovzduší okrem povinnosti informovat orgán ochrany ovzdušia, štátneho okresného hygienika a verejnost,
+- | | | | - nesplní pri vážnom a bezprostrednom ohrození alebo poškodení kvality ovzdušia povinnosti vyplývajúce z § 7 ods. 1 písm. h) zákona o ovzduší okrem povinnosti informovať orgán ochrany ovzdušia, štátneho okresného hygienika a verejnosť,
 
-- | | | | - prekracuje emisný limit a nesplnil opatrenia na nápravu uložené príslušným orgánom štátnej správy ochrany ovzdušia podla § 12 ods. 1 alebo podla § 7 ods. 1 písm. b) a c) zákona o ovzduší
+- | | | | - prekračuje emisný limit a nesplnil opatrenia na nápravu uložené príslušným orgánom štátnej správy ochrany ovzdušia podľa § 12 ods. 1 alebo podľa § 7 ods. 1 písm. b) a c) zákona o ovzduší
 
-- 97. | | | § 4 ods. 3 písm. c) | - opätovne poruší povinnosti, za porušenie ktorých mu už bola uložená pokuta podla § 18 ods. 10 zákona o ovzduší
+- 97. | | | § 4 ods. 3 písm. c) | - opätovne poruší povinnosti, za porušenie ktorých mu už bola uložená pokuta podľa § 18 ods. 10 zákona o ovzduší
 
-- 98. | polnohospodárstva, lesného hospodárstva a polovníctva | zák. SNR č. 307/1992 Zb. | § 16 ods. 1 | udeluje súhlas podla § 7 ods. 3 k návrhom územných plánov velkých územných celkov a k návrhom trás nadzemných a podzemných vedení a trás podzemných komunikácií a líniových stavieb, ktoré nepresahujú územie kraja
+- 98. | poľnohospodárstva, lesného hospodárstva a poľovníctva | zák. SNR č. 307/1992 Zb. | § 16 ods. 1 | udeľuje súhlas podla § 7 ods. 3 k návrhom územných plánov veľkých územných celkov a k návrhom trás nadzemných a podzemných vedení a trás podzemných komunikácií a líniových stavieb, ktoré nepresahujú územie kraja
 
-- 99. | | zák. SNR č. 100/1977 Zb. v znení neskorších predpisov | § 27 písm. a) | dáva súhlas podla § 5 ods. 2 zákona o lesoch k návrhom územných plánov zón (mimorekreacných zón) , podla § 6 ods. 2 zákona o lesoch k návrhom na urcenie dobývacích priestorov, ktorými má byt dotknutý lesný pôdny fond a lesné porasty, a podla § 7 ods. 2 zákona o lesoch k návrhom na prerokovanie projektovej úlohy trás smerových a líniových stavieb, len ak trasa prechádza lesmi viacerých regiónov
+- 99. | | zák. SNR č. 100/1977 Zb. v znení neskorších predpisov | § 27 písm. a) | dáva súhlas podľa § 5 ods. 2 zákona o lesoch k návrhom územných plánov zón (mimorekreačných zón) , podľa § 6 ods. 2 zákona o lesoch k návrhom na určenie dobývacích priestorov, ktorými má byť dotknutý lesný pôdny fond a lesné porasty, a podľa § 7 ods. 2 zákona o lesoch k návrhom na prerokovanie projektovej úlohy trás smerových a líniových stavieb, len ak trasa prechádza lesmi viacerých regiónov
 
 - 100. | | | § 27 písm. b) | sleduje hospodárenie v lesoch z hladiska zabezpecovania funkcií lesov a z hladiska rozvoja oblasti a vyjadruje sa ku koncepciám rozvoja lesného hospodárstva
 
@@ -232,41 +232,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 140. | | | § 24 písm. b) | dohliada na pripravenost stavieb, pri ktorých koncesiu udeluje vláda
 
-- 141. | sociálne veci | zák. SNR č. 543/1990 Zb. v znení neskorších predpisov | § 17 písm. a) | riadi a kontroluje výkon štátnej správy v oblasti sociálnej starostlivosti a štátnych sociálnych dávok uskutocnovaný okresnými úradmi vo svojom územnom obvode
-
-- 142. | | | |
-
-- | | | § 17 písm. b) |
-
-- | | | | vykonáva v druhom stupni štátnu správu vo veciach, v ktorých v správnom konaní v prvom stupni konal a rozhodoval okresný úrad, obec alebo zariadenie sociálnej starostlivosti, ktorého je zriadovatelom
-
-- 143. | | | § 17 písm. c) | vedie register právnických osôb a fyzických osôb, ktoré poskytujú sociálne služby, a je orgánom, ktorému právnické osoby a fyzické osoby oznamujú poskytovanie sociálnych služieb, zmenu a skoncenie ich poskytovania
-
-- 144. | | | § 17 písm. d) | poskytuje príspevky na úhradu nákladov na sociálne služby právnickým osobám a fyzickým osobám, kontroluje hospodárenie s nimi, požaduje ich vyúctovanie a vrátenie v prípade, ak boli použité v rozpore s úcelom, na ktorý sa poskytli
-
-- 145. | | | § 17 písm. e) | sleduje úroven poskytovania sociálnych služieb právnickými osobami a fyzickými osobami a plní dalšie úlohy podla osobitných predpisov
-
-- 146. | | | § 17 písm. í) | zostavuje rozpocet príjmov a výdavkov za oblast sociálnej starostlivosti a štátnych sociálnych dávok a rozdeluje financné prostriedky v oblasti sociálnej starostlivosti a štátnych sociálnych dávok pre okresné úrady a zariadenia
-
-- 147. | | | § 17 písm. g) | zabezpecuje rozvoj materiálno-technickej základne služieb sociálnej starostlivosti vo svojom územnom obvode
-
-- 148. | | | § 17 písm. h) | organizuje - úcast nepracujúcich dôchodcov a tažko zdravotne postihnutých obcanov na rekreacnej starostlivosti a podiela sa na zabezpecovaní rekreácie rodín so zdravotne postihnutými detmi,
-
-- 148. | sociálne veci | zák. SNR č. 543/1990 Zb. v znení neskorších predpisov | § 17 písm. h) | - výchovno-rekreacné tábory pre deti z rodín, ktoré riadne neplnia svoju výchovnú funkciu, pre deti s poruchami správania, pre pestúnske rodiny z osobitných zariadení na výkon pestúnskej starostlivosti, pre deti nezamestnaných rodicov a deti utecencov a presídlencov
-
-- 149. | | | § 17 písm. ch) | koordinuje cinnost orgánov, ktoré pôsobia v oblasti sociálnej starostlivosti vo svojom územnom obvode
-
-- 150. | | | § 18 | pri organizovaní náhradnej rodinnej starostlivosti
-
-- | | | | - vedie prehlad detí, pre ktoré je potrebné dlhodobo zabezpecit náhradnú rodinnú starostlivost, ak túto nemožno zabezpecit v rámci okresu, a prehlad obcanov vhodných vykonávat náhradnú rodinnú starostlivost, pre ktorých neboli vhodné deti v rámci okresu,
-
-- | | | | - sprostredkúva nadviazanie osobného vztahu detí s obcanmi, ktorí splnajú podmienky na jednotlivé formy náhradnej rodinnej starostlivosti, v prípadoch uvedených v 1. bode a na tento úcel spolupracuje s ostatnými krajskými úradmi
-
-- 151. | | | § 27 ods. 1 a 4 | zriaduje a kontroluje na poskytovanie služieb sociálnej starostlivosti ako rozpoctové organizácie alebo príspevkové organizácie ústavy sociálnej starostlivosti a detské domovy, prípadne dalšie zariadenia sociálnej starostlivosti
-
-- 152. | | | § 30 ods. 2 | rozhoduje o prijatí do zariadenia sociálnej starostlivosti, ktoré nemôže vo vlastnom mene nadobúdat práva a zaväzovat sa, ktoré zriadil, o skoncení pobytu v nom a o úhrade za poskytované služby
-
-- 153. | zdravotníctvo | zák. NR SR č. 272/1994 Z. z. | § 21 písm. a) | odborne usmernuje cinnost štátnych okresných hygienikov
+- 153. | zdravotníctvo | zák. NR SR č. 272/1994 Z. z. | § 21 písm. a) | odborne usmerňuje činnost štátnych okresných hygienikov
 
 - 154. | | | § 21 písm. b) | riadi a vykonáva štátny zdravotný dozor
 
@@ -342,7 +308,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 190. | | | § 5 ods. 7 | môže zriadit so súhlasom ministerstva útvar správy stredných odborných ucilíšt na riadenie stredných odborných ucilíšt ako svoje zariadenie
 
-- 191. | školstvo, mládež a telesná kultúra | zák. SNR čc. 542/1990 Zb. v znení neskorších predpisov | § 5 ods. 8 | zabezpecuje zhromaždovanie, predspracovanie a prenos informácií, ako aj ich uchovávanie a spracúvanie v rámci jednotného informacného systému na urcenom území; na tento úcel zriaduje so súhlasom ministerstva školské výpoctové strediská
+- 191. | školstvo, mládež a telesná kultúra | zák. SNR č. 542/1990 Zb. v znení neskorších predpisov | § 5 ods. 8 | zabezpecuje zhromaždovanie, predspracovanie a prenos informácií, ako aj ich uchovávanie a spracúvanie v rámci jednotného informacného systému na urcenom území; na tento úcel zriaduje so súhlasom ministerstva školské výpoctové strediská
 
 - 192. | | zák. NR SR č. 279/1993 Z. z. v znení neskorších predpisov | § 5 ods. 4 | vykonáva štátnu správu na úseku špeciálnych materských škôl
 
@@ -364,11 +330,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 202. | | zák. SNR č. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
 
-- 204. | | zák. SNR č. 27/1987 Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
+- 204. | | zák. SNR č. 27/1987Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
 
 - 205. | | | § 7 ods. 2 | vedie zoznamy kultúrnych pamiatok
 
-- 206. | kultúra | zák. SNR č. 27/1987 Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
+- 206. | kultúra | zák. SNR č. 27/1987Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
 
 - 207. | | | § 11 ods. 2 | rozhoduje o podmienkach a zákaze výkonu cinnosti ohrozujúcej národnú kultúrnu pamiatku
 
