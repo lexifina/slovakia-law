@@ -4,6 +4,8 @@
 
 - 3) § 7 zákona SNR č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov).
 
+- 3a) § 19 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
+
 - 4) Zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
 
 - Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
