@@ -4,6 +4,8 @@
 
 - 2a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
+- 2b) § 1 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
+
 - 3) § 9 Zákonníka práce.
 
 - 4) § 2 Obchodného zákonníka.
