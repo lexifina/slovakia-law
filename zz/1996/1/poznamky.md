@@ -26,8 +26,6 @@
 
 - 14) Napr. § 20 zákona č. 634/1992 Zb. o ochrane spotrebiteľa, zákon Slovenskej národnej rady č. 445/1990 Zb.
 
-- 15) Zákon Slovenskej národnej rady č. 95/1991 Zb. o štátnom fonde kultúry Pro Slovakia v znení neskorších predpisov.
-
 - 16) Napr. zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
 - 17) § 152 Trestného zákona.§ 32 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
