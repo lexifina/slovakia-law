@@ -8,11 +8,15 @@
 
 - 5) Zákon č. 172/1990 Zb. o vysokých školách.
 
+- 5a) § 13 písm. a) zákona č. 39/1977 Zb. o výchove nových vedeckých pracovníkov a o ďalšom zvyšovaní kvalifikácie vedeckých pracovníkov.
+
+- 5b) § 22 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
+
 - 6) § 82 ods. 2 Zákonníka práce.
 
 - 7) Nariadenie vlády Slovenskej republiky č. 227/1992 Zb. o poskytovaní osobitného príplatku za prácu v sťažených a zdraviu škodlivých pracovných podmienkach.
 
-- 7a) § 1 a 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 284/1992 Zb. o opatreniach hospodárskej mobilizácie.
+- 7a) § 56 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení zákona Slovenskej národnej rady č. 525/1990 Zb.
 
 - 8) Nariadenie vlády ČSSR č. 118/1988 Zb. o mimoriadnom poskytovaní starobného dôchodku v znení nariadenia vlády ČSSR č. 116/1989 Zb., zákona č. 306/1991 Zb. a zákona č. 578/1991 Zb.
 

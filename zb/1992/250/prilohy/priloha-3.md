@@ -1,21 +1,27 @@
 Príloha č. 3 nariadenia vlády SR č. 250/1992 Zb.
 
-- Príplatky za riadenie u príslušníkov Zboru požiarnej ochrany Slovenskej republiky Funkcia | orgán s republikovou pôsobnostou Kčs/mes. | územný orgán Kčs/mes.
+- Príplatky za riadenie u príslušníkov Zboru požiarnej ochrany Slovenskej republiky 1. Hlavná správa
 
-- 1 . Náčelník hlavnej správy | 4 000 - 5 000 |
+- | Funkcia | Príplatok za riadenie v Sk mesačne
 
-- 2. Zástupca náčelníka | 1 500 - 3 800 |
+- 1.1 | Náčelník hlavnej správy | 4 000 - 6 300
 
-- 3. Náčelník odboru | 800 - 2 500 |
+- 1.2 | Zástupca náčelníka | 1 500 - 4 800
 
-- 4. Náčelník zariadenia | 800 - 2 500 |
+- 1.3 | Náčelník odboru | 800 - 3 100
 
-- 5. Náčelník oddelenia | 500 - 1 500 |
+- 1.4 | Náčelník zariadenia | 800 - 3 100
 
-- 6. Náčelník okresnej správy | | 1 600 - 3 000
+- 1.5 | Náčelník oddelenia | 500 - 1 900
 
-- 7. Zástupca náčelníka | | 1 200 - 2 400
+- 2. Územný orgán
 
-- 8. Veliteľ jednotky okresnej správy | | 800 - 2 000
+- Punkcia | | Príplatok za riadenie v Sk mesačne
 
-- 9. Náčelník alebo veliteľ, ktorý je poverený riadením práce podriadených príslušníkov | | 300 - 1 200
+- 2.1 | Náčelník okresnej správy | 1 600 - 3 800
+
+- 2.2 | Zástupca náčelníka | 1 200 - 3 000
+
+- 2.3 | Veliteľ jednotky okresnej správy | 800 - 2 500
+
+- 2.4 | Náčelník alebo veliteľ, ktorý je poverený riadením práce podriadených príslušníkov | 300 - 1 500
