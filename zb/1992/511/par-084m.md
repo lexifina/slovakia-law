@@ -22,7 +22,7 @@
 
 - g) termín a miesto vyhodnotenia písomných ponúk,
 
-- h) meno, priezvisko, vlastnoručný podpis povereného zamestnanca správcu dane a odtlačok úradnej pečiatky.
+- h) vlastnoručný podpis povereného zamestnanca správcu dane, ktorým je daňový úrad alebo colný úrad, s uvedením mena, priezviska a funkcie a odtlačok úradnej pečiatky; ak ide o správcu dane, ktorým je obec, podpis starostu obce alebo ním povereného zamestnanca obce s uvedením mena, priezviska starostu obce a odtlačok úradnej pečiatky; ak sa rozhodnutie doručuje elektronickými prostriedkami, vlastnoručný podpis a odtlačok úradnej pečiatky sa nahrádzajú zaručeným elektronickým podpisom. <sup>6aa</sup>)
 
 (5) Na účely predaja hnuteľných vecí na základe ponuky správca dane určí cenu najmenej vo výške 60 % z ceny stanovenej podľa § 84g ods. 1 a 2; rozhodnutie o určení ceny správca dane nevydáva.
 

@@ -1,3 +1,3 @@
 # § 110d
 
-Týmto zákonom sa preberajú právne akty Európskej únie uvedené v prílohe.
+Týmto zákonom sa preberajú právne akty Európskeho spoločenstva a Európskej únie uvedené v prílohe.

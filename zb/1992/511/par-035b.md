@@ -2,9 +2,9 @@
 
 (1) Sankčný úrok vyrubí správca dane
 
-- a) daňovému subjektu, ak daň priznanú v daňovom priznaní alebo hlásení nezaplatí v lehote alebo vo výške podľa osobitného zákona,<sup>11ab</sup>)
+- a) daňovému subjektu, ak daň priznanú v daňovom priznaní alebo hlásení alebo vlastnú daňovú povinnosť<sup>11ac</sup>) priznanú v daňovom priznaní nezaplatí v lehote alebo vo výške podľa osobitného zákona,<sup>11af</sup>)
 
-- b) daňovému subjektu, ak daň priznanú v dodatočnom daňovom priznaní alebo hlásení nezaplatí v lehote alebo vo výške podľa osobitného zákona,<sup>11ab</sup>)
+- b) daňovému subjektu, ak daň priznanú v dodatočnom daňovom priznaní alebo dodatočnom hlásení alebo vlastnú daňovú povinnosť<sup>11ac</sup>) priznanú v dodatočnom daňovom priznaní nezaplatí v lehote alebo vo výške podľa osobitného zákona,<sup>11af</sup>)
 
 - c) platiteľovi dane, ak neodvedie vybraný preddavok na daň, vybranú daň alebo zrazenú daň v lehote alebo vo výške podľa osobitného zákona,<sup>6ec</sup>)
 
@@ -14,20 +14,22 @@
 
 - f) daňovému subjektu, ak splátku dane nezaplatí v lehote alebo vo výške podľa osobitného zákona.<sup>11ca</sup>)
 
-(2) Správca dane vyrubí sankčný úrok z dlžnej sumy vo výške štvornásobku základnej úrokovej sadzby Národnej banky Slovenska platnej v deň vzniku daňového nedoplatku alebo v deň nasledujúci po dni, v ktorom mal byť preddavok na daň zaplatený alebo odvedený alebo splátka dane zaplatená. Sankčný úrok sa vyrubí za každý deň omeškania, začínajúc dňom nasledujúcim po dni splatnosti až do dňa platby vrátane. Sankčný úrok sa počíta najdlhšie za štyri roky omeškania s platbou s výnimkou uvedenou v odseku 1 písm. e). Sankčný úrok sa nevyrubuje zo sankčného úroku.
+- g) platiteľovi dane, ak nezrazil sumu na zabezpečenie dane podľa osobitného zákona<sup>6ec</sup>) a túto sumu nezaplatil v lehote alebo vo výške podľa osobitného zákona.<sup>6ec</sup>)
+
+(2) Správca dane vyrubí sankčný úrok z dlžnej sumy vo výške štvornásobku základnej úrokovej sadzby Národnej banky Slovenska platnej v deň vzniku daňového nedoplatku alebo v deň nasledujúci po dni, v ktorom mal byť preddavok na daň zaplatený alebo odvedený alebo splátka dane zaplatená. Sankčný úrok sa vyrubí za každý deň omeškania, začínajúc dňom nasledujúcim po dni splatnosti až do dňa platby vrátane. Sankčný úrok sa počíta najdlhšie za štyri roky omeškania s platbou s výnimkou uvedenou v odseku 1 písm. e). Sankčný úrok sa nevyrubuje zo sankčného úroku, úroku a pokuty.
 
 (3) Proti rozhodnutiu o vyrubení sankčného úroku sa možno odvolať.
 
-(4) Ak bola rozhodnutím daň znížená, zníži sa z úradnej moci v pomernej výške aj sankčný úrok, ktorý bol pôvodne vyrubený.
+(4) Ak daň alebo rozdiel dane vyrubený správcom dane bol novým rozhodnutím znížený, zníži sa z úradnej moci v pomernej výške aj sankčný úrok, ak bol vyrubený podľa odseku 1 písm. d).
 
-(5) Ak daň zníženú podľa odseku 4 daňový subjekt zaplatil v pôvodnej nezníženej výške, považuje sa rozdiel medzi pôvodne zaplatenou daňou vyrubenou rozhodnutím a daňou zníženou podľa odseku 4 za neoprávnene zadržiavané peňažné prostriedky daňového subjektu.
+(5) Rozdiel medzi zaplatenou daňou alebo zaplateným rozdielom dane na základe právoplatného a vykonateľného rozhodnutia správcu dane alebo odvolacieho orgánu a daňou alebo rozdielom dane zníženým novým rozhodnutím sa považuje za neoprávnene zadržiavané peňažné prostriedky daňového subjektu. Rovnako za neoprávnene zadržiavané peňažné prostriedky daňového subjektu sa považuje aj rozdiel medzi zaplateným sankčným úrokom vyrubeným rozhodnutím správcu dane a sankčným úrokom zníženým podľa odseku 4 novým rozhodnutím. Ak bol novým rozhodnutím priznaný vyšší nárok na nadmerný odpočet<sup>11ad</sup>) alebo na jeho neodpočítanú časť, považuje sa priznaný vyšší rozdiel nadmerného odpočtu alebo jeho neodpočítanej časti za neoprávnene zadržiavané peňažné prostriedky daňového subjektu; ak bol novým rozhodnutím priznaný vyšší nárok na vrátenie uplatneného vrátenia dane,<sup>1b</sup>) považuje sa priznaný vyšší rozdiel dane za neoprávnene zadržiavané peňažné prostriedky daňového subjektu.
 
-(6) Správca dane za obdobie neoprávnene zadržiavaných peňažných prostriedkov daňového subjektu podľa odseku 5 zaplatí daňovému subjektu sankčný úrok vo výške trojnásobku základnej úrokovej sadzby Národnej banky Slovenska platný v deň, keď daňový subjekt uhradil správcovi dane pôvodnú výšku dane. Sankčný úrok sa vypočíta zo sumy neoprávnene zadržiavaných peňažných prostriedkov daňového subjektu a počtu dní, ktoré uplynú odo dňa, keď daňový subjekt zaplatil správcovi dane pôvodnú výšku dane, do dňa, keď správca dane neoprávnene zadržiavané peňažné prostriedky poukázal daňovému subjektu, pričom tento deň sa do počtu dní nezapočítava.
+(6) Správca dane za obdobie neoprávnene zadržiavaných peňažných prostriedkov daňového subjektu podľa odseku 5 zaplatí daňovému subjektu sankčný úrok vo výške štvornásobku základnej úrokovej sadzby Národnej banky Slovenska platnej v deň, keď daňový subjekt zaplatil správcovi dane pôvodnú výšku dane alebo keď vznikol nárok na vrátenie nadmerného odpočtu v lehote podľa osobitného zákona<sup>11ad</sup>) alebo spotrebnej dane v lehote podľa osobitného zákona.<sup>1b</sup>) Sankčný úrok sa vypočíta zo sumy neoprávnene zadržiavaných peňažných prostriedkov daňového subjektu a počtu dní, ktoré uplynú odo dňa, keď daňový subjekt zaplatil správcovi dane pôvodnú výšku dane, alebo keď vznikol nárok na vrátenie nadmerného odpočtu alebo jeho neodpočítanej časti v lehote podľa osobitného zákona<sup>11ad</sup>) alebo nárok na vrátenie spotrebnej dane v lehote podľa osobitného zákona,<sup>1b</sup>) do dňa, keď správca dane neoprávnene zadržiavané peňažné prostriedky poukázal daňovému subjektu, pričom tento deň sa do počtu dní nezapočítava. Za tento deň sa považuje deň, keď sa peňažné prostriedky odpíšu z účtu správcu dane. Ak je správca dane povinný zaplatiť daňovému subjektu sankčný úrok, pri jeho platení sa postupuje ako pri vrátení daňového preplatku podľa § 63.
 
-(7) Správca dane zaplatí daňovému subjektu sankčný úrok vo výške podľa odseku 6 aj v prípade oneskoreného vrátenia dane alebo nadmerného odpočtu podľa osobitného zákona.<sup>6eb</sup>)
+(7) Správca dane do 15 dní od poukázania neoprávnene zadržiavaných peňažných prostriedkov podľa odseku 6 zaplatí daňovému subjektu sankčný úrok. O zaplatení sankčného úroku vydá správca dane daňovému subjektu rozhodnutie. Proti tomuto rozhodnutiu sa možno odvolať.
 
-(8) Sankčný úrok sa nevyrubí, ak nepresiahne v jednotlivom prípade 500 Sk. Ak je správcom dane obec, sankčný úrok sa nevyrubí, ak nepresiahne v jednotlivom prípade 100 Sk. Správca dane, ktorým je daňový úrad alebo colný úrad, nezaplatí daňovému subjektu sankčný úrok podľa odseku 6 alebo 7, ak nepresiahne v jednotlivom prípade 500 Sk; ak je správcom dane obec, nezaplatí daňovému subjektu sankčný úrok podľa odseku 6, ak nepresiahne v jednotlivom prípade 100 Sk. Sankčný úrok správca dane nevyrubí, ak zaniklo právo vyrubiť daň alebo rozdiel dane.
+(8) Sankčný úrok sa nevyrubí, ak nepresiahne v jednotlivom prípade 500 Sk. Ak je správcom dane obec, sankčný úrok sa nevyrubí, ak nepresiahne v jednotlivom prípade 100 Sk. Správca dane, ktorým je daňový úrad alebo colný úrad, nezaplatí daňovému subjektu sankčný úrok podľa odseku 6 alebo 7, ak nepresiahne v jednotlivom prípade 500 Sk; ak je správcom dane obec, nezaplatí daňovému subjektu sankčný úrok podľa odseku 6, ak nepresiahne v jednotlivom prípade 100 Sk.
 
-(9) Sankčný úrok je splatný do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o vyrubení sankčného úroku.
+(9) Sankčný úrok nemožno vyrubiť, ak uplynulo 5 rokov od konca roka, v ktorom došlo k porušeniu tohto zákona alebo osobitného zákona.<sup>11ab</sup>) Právo vybrať a vymáhať sankčný úrok sa premlčuje po šiestich rokoch po skončení roka, v ktorom bol sankčný úrok vyrubený.
 
 (10) Ustanovenia odsekov 1 až 9 sa vzťahujú na všetky dane.

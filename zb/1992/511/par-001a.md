@@ -14,11 +14,11 @@ Na účely tohto zákona sa rozumie
 
 - d) daňovým konaním konanie, v ktorom sa rozhoduje o právach a povinnostiach daňových subjektov,
 
-- e) daňovou pohľadávkou pohľadávka správcu dane, ktorá je priznaná daňovým subjektom alebo vyrubená správcom dane,
+- e) daňovou pohľadávkou pohľadávka správcu dane na dani do lehoty splatnosti dane,
 
-- f) daňovým nedoplatkom suma dane, ktorá nebola zaplatená v lehote alebo vo výške podľa tohto zákona alebo osobitných zákonov,<sup>1</sup>)
+- f) daňovým nedoplatkom dlžná suma dane po lehote splatnosti dane,
 
-- g) daňovým dlžníkom osoba, ktorej bola uložená povinnosť zaplatiť daň, odviesť vybranú alebo zrazenú daň a túto povinnosť nesplnila v lehote alebo vo výške podľa tohto zákona alebo osobitných zákonov,<sup>1</sup>)
+- g) daňovým dlžníkom osoba, ktorá má daňový nedoplatok,
 
 - h) daňovým exekučným konaním konanie, v ktorom správca dane z úradnej moci vymáha daňový nedoplatok, peňažné plnenie uložené rozhodnutím, exekučné náklady a hotové výdavky (§ 90),
 
@@ -31,3 +31,7 @@ Na účely tohto zákona sa rozumie
   - 2. colný úrad alebo colné riaditeľstvo<sup>1e</sup>) alebo
 
   - 3. obec<sup>1f</sup>).
+
+- k) registračnou povinnosťou povinnosť daňového subjektu registrovať sa podľa tohto zákona alebo osobitného zákona,<sup>6eb</sup>)
+
+- l) oznamovacou povinnosťou povinnosť daňového subjektu oznamovať skutočnosti alebo ich zmeny podľa tohto zákona alebo osobitného zákona.<sup>6eb</sup>)

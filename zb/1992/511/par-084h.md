@@ -26,4 +26,4 @@
 
 - j) poučenie o tom, kto môže byť účastníkom dražby (§ 84j),
 
-- k) meno, priezvisko, vlastnoručný podpis povereného zamestnanca správcu dane a odtlačok úradnej pečiatky.
+- k) vlastnoručný podpis povereného zamestnanca správcu dane, ktorým je daňový úrad alebo colný úrad, s uvedením mena, priezviska a funkcie a odtlačok úradnej pečiatky; ak ide o správcu dane, ktorým je obec, podpis starostu obce alebo ním povereného zamestnanca obce s uvedením mena, priezviska starostu obce a odtlačok úradnej pečiatky; ak sa rozhodnutie doručuje elektronickými prostriedkami, vlastnoručný podpis a odtlačok úradnej pečiatky sa nahrádzajú zaručeným elektronickým podpisom.<sup>6aa</sup>)
