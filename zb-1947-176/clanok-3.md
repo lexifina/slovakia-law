@@ -1,0 +1,3 @@
+# Čl. III.
+
+Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr národní obrany v dohodě se zúčastněnými ministry.
