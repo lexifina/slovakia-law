@@ -1,0 +1,1 @@
+- 1) § 64 vyhlášky č. 116/1997 Z. z. Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky o podmienkach premávky vozidiel na pozemných komunikáciách.
