@@ -1,3 +1,0 @@
-# Čl.III Účinnosť
-
-Táto vyhláška nadobúda účinnosť 1. júlom 1987.
