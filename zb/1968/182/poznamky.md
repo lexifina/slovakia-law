@@ -9,3 +9,5 @@
 - †) Paragraf 72 zákona č. 101/1964 Zb. a § 95 vyhlášky č. 102/1964 Zb.; § 108 zákona č. 103/1964 Zb. a § 78 vyhlášky č. 104/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení družstevných roľníkov.
 
 - ††) Paragraf 32 ods. 3 zákona a § 7 vyhlášky č. 86/1967 Zb.
+
+- 1) § 7 ods. 1 zákona č. 1/1991 Zb. o zamestnanosti.
