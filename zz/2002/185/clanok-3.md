@@ -222,4 +222,6 @@ Zákon č. 335/1991 Zb. o súdoch a sudcoch v znení zákona č. 264/1992 Zb., z
 
 - 26. V § 58 ods. 8 písm. e) sa slovo „voľbu" nahrádza slovom „vymenovanie".
 
+- 27. § 58a sa vypúšťa.
+
 - 28. V § 58b ods. 1 sa vypúšťajú slová „a Rady sudcov Slovenskej republiky", slová „a člena Rady sudcov Slovenskej republiky", slová „a členovia Rady sudcov Slovenskej republiky" a slová „alebo v Rade sudcov Slovenskej republiky".
