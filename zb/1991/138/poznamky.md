@@ -24,7 +24,9 @@
 
 - 11) § 4 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
 
-- 12) Čl. 10 Ústavy ČSFR č. 100/1960 Zb. v znení neskorších ústavných zákonov.
+- 11a) Zákon č. 92/1991 Zb. v znení zákona č. 92/1992 Zb.
+
+- 12) Napr. čl. 10 Ústavy ČSFR č. 100/1960 Zb. v znení neskorších ústavných zákonov, § 11a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb., § 46a zákona SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona SNR č. 525/1990 Zb.
 
 - 13) § 198 a nasl. Občianskeho zákonníka.
 
@@ -69,3 +71,31 @@
 - 26) § 4 a nasl. zákona č. 427/1990 Zb.
 
 - 27) Zákon č. 279/1949 Zb. o finančnom hospodárení národných výborov.
+
+- 28) § 12a zákona č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby v znení zákona č. 95/1988 Zb. a zákona č. 114/1990 Zb.
+
+- § 11 ods. 2 a 3 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení zákona č. 93/1992 Zb.
+
+- 29) Zákon č. 92/1991 Zb. v znení zákona č. 92/1992 Zb.
+
+- Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách.
+
+- 30) § 4 a 5 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona SNR č. 498/1991 Zb.
+
+- 31) Zákon č. 169/1949 Zb. o vojenských obvodoch.
+
+- 32) Napr.:
+
+- Zákon SNR č. 11/1949 Zb. SNR o Tatranskom národnom parku.
+
+- Zákon SNR č. 1/1955 Zb. SNR o štátnej ochrane prírody v znení zákona SNR č. 100/1977 Zb. a zákona SNR č. 72/1986 Zb.
+
+- Zákon SNR č. 7/1958 Zb. SNR o kultúrnych pamiatkach.
+
+- Zákon SNR č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
+
+- Zákon č. 61/1977 Zb. o lesoch v znení zákona č. 229/1991 Zb.
+
+- Zákon č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení zákona SNR č. 131/1991 Zb. a zákona SNR č. 510/1991 Zb.
+
+- Zákon č. 44/1988 Zb. v znení zákona SNR č. 498/1991 Zb.
