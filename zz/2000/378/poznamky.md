@@ -1,0 +1,1 @@
+- 1) Uplatňuje sa len na výrobky obsahujúce zložky, ktoré poškodzujú ozónovú vrstvu Zeme.

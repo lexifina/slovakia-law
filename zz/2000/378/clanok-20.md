@@ -1,0 +1,3 @@
+# Článok 20 Všeobecné výnimky
+
+Táto dohoda nevylučuje zákazy alebo obmedzenia dovozu, vývozu alebo tranzitu tovaru z dôvodov verejnej morálky, verejného záujmu alebo verejnej bezpečnosti; ochrany zdravia a ľudského života, života zvierat a rastlín; ochrany národných pamiatok umeleckej, historickej alebo archeologickej hodnoty; ochrany duševného vlastníctva alebo pravidiel platných pre zlato alebo striebro alebo na zachovanie vyčerpateľných prírodných zdrojov, ak sa takéto opatrenia uplatňujú v spojitosti s obmedzeniami domácej výroby alebo spotreby. Takéto zákazy alebo obmedzenia sa však nesmú stať prostriedkami svojvoľnej diskriminácie alebo skrytých obmedzení obchodu medzi stranami.
