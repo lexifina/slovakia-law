@@ -20,7 +20,7 @@ PRÍLOHA IV (Článok 8 § 3)
 
     - e) podrobný zoznam dokladov požadovaných colnými alebo inými orgánmi Štátnej správy pripojených k prepravnému dokladu.
 
-  - § 4 Spešniny sa musia prepravovať rýchlymi prostriedkami v lehotách určených medzinárodnými tarifami. Dodacie lehoty musia byť vo všetkých prípadoch kratšie než lehoty platné pre rýchlotovar.
+  - § 4 Spešniny sa musia prepravovať rýchlymi prostriedkami v lehotách ustanovených medzinárodnými tarifami. Dodacie lehoty musia byť vo všetkých prípadoch kratšie než lehoty platné podľa článku 27 Jednotných právnych predpisov.
 
   - § 5 Medzinárodné tarify môžu tiež predvídať iné odchýlky od jednotných právnych predpisov, než ktoré sú uvedené. Nemožno sa však odchýliť od článkov 35 až 38, 40 až 42, 44 a 47 až 58 Jednotných právnych predpisov.
 
