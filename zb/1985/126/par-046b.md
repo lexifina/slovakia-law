@@ -1,5 +1,5 @@
 # § 46b
 
-(1) Na čele správy Zboru požiarnej ochrany je náčelník správy. Na čele zariadenia požiarnej ochrany je náčelník zariadenia.
+(1) Na čele odboru požiarnej ochrany je náčelník odboru. Na čele zariadenia je náčelník zariadenia. Na čele sekcie požiarnej ochrany je náčelník zboru.
 
-(2) Náčelníka obvodnej správy Zboru požiarnej ochrany vymenúva do funkcie náčelník zboru na návrh náčelníka okresnej správy Zboru požiarnej ochrany. Náčelníka okresnej správy Zboru požiarnej ochrany vymenúva do funkcie minister vnútra na návrh náčelníka zboru. Náčelníka zariadenia požiarnej ochrany vymenúva do funkcie náčelník zboru.
+(2) Náčelníka odboru požiarnej ochrany okresného úradu vymenúva do funkcie prednosta okresného úradu po schválení náčelníkom odboru požiarnej ochrany krajského úradu. Náčelníka odboru požiarnej ochrany krajského úradu vymenúva do funkcie prednosta krajského úradu po schválení ministrom vnútra. Náčelníka zariadenia požiarnej ochrany vymenúva náčelník zboru.

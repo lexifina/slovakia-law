@@ -16,6 +16,6 @@
 
 (3) O nároku na odchodné rozhoduje ten, kto plní úlohu vedúceho organizácie v pracovnoprávnych vzťahoch príslušníkov, bez žiadosti oprávneného; písomné vyhotovenie rozhodnutia sa zasiela oprávnenému.
 
-(4) Odchodné vypláca oprávnenému správa Zboru požiarnej ochrany, v ktorej bol v pracovnom pomere, a to pri výplate posledného platu.
+(4) Odchodné vypláca oprávnenému organizácia, v ktorej bol v pracovnom pomere, a to pri výplate posledného platu.
 
 (5) Odchodné sa vypláca v hotovosti do rúk oprávneného alebo prevodom na jeho účet vedený v peňažnom ústave v Slovenskej republike.
