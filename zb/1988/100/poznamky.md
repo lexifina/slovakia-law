@@ -46,6 +46,14 @@
 
 - 7c) § 3 ods. 2 písm. e) a ods. 3 písm. a) zákona č. 463/1991 Zb. o životnom minime v znení zákona Národnej rady Slovenskej republiky č. 277/1993 Z. z.
 
+- 7ca) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
+
+- 7cb) § 2 písm. a) a b) zákona č. 125/1998 Z. z.
+
+- 7cc) Zákon č. 125/1998 Z. z.
+
+- 7cd) § 4 zákona č. 125/1998 Z. z.
+
 - 7d) § 3 ods. 2 písm. e) a ods. 3 písm. b) zákona č. 463/1991 Zb.
 
 - 7e) Zákon č. 463/1991 Zb. v znení neskorších predpisov.
@@ -134,7 +142,9 @@
 
 - 27a) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia v znení zákona Národnej rady Slovenskej republiky č. 85/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 160/1994 Z. z.
 
-- 27b) Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 27b) Zákon Národnej rady Slovenskej republiky č. 110/1996 Z. z. o zvýšení dôchodkov v roku 1996 a o zmene niektorých zákonov.
+
+- 27c) § 5 ods. 1 až 3 a § 6 až 8 zákona č. 46/1991 Zb. o zvyšovaní dôchodkov v znení zákona Národnej rady Slovenskej republiky č. 97/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 285/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 195/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 135/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 110/1996 Z. z., zákona č. 154/1997 Z. z. a zákona č. 132/1998 Z. z.
 
 - 28) Zákon č. 244/1991 Zb. o Federálnej bezpečnostnej informačnej službe a o používaní spravodajských prostriedkov.
 
