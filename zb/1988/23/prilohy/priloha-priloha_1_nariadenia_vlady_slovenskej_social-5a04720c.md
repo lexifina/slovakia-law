@@ -1,0 +1,19 @@
+Príloha 1 nariadenia vlády Slovenskej socialistickej republiky č. 23/1988 Zb.
+
+- Vymedzenie územia Národného parku Slovenský raj
+
+  - Územie Národného parku Slovenský raj (ďalej len „národný park") sa rozprestiera v okresoch Spišská Nová Ves, Rožňava, Poprad a Banská Bystrica, v katastroch obcí: Betlanovce, Hrabušice, Letanovce, Spišské Tomášovce, Smižany, Mlynky - okres Spišská Nová Ves; Dedinky, Dobšiná, Stratená - okres Rožňava; Spišský Štiavnik, Hranovnica, Vernár - okres Poprad; Švermovo - okres Banská Bystrica.
+
+  - Územie národného parku bolo vymedzené na lesníckych organizačných mapách M 1:25 000, z ktorých bola hranica národného parku prenesená do Základnej mapy Československej socialistickej republiky M 1:50 000 na tieto mapové listy:
+
+- 37 - 11 Vernár - 1971
+
+- 37 - 12 Spišská Nová Ves - 1970
+
+- 37 - 13 Muráň - 1970
+
+- 37 - 14 Dobšiná - 1970
+
+  - Hranica národného parku vychádza od cestného mosta cez rieku Hornád pri Mýte juhozápadne od Hrabušíc a vedie južným okrajom štátnej cesty Hrabušice - Švermovo juhozápadným smerom na kótu 577. Odtiaľ pokračuje okrajom lesa juhozápadným smerom k osade Dolina, ktorú obchádza zo západnej strany a ďalej vedie okrajom lesa, križujúc potoky Teplično a Ždiar, až na lesný chrbát, kde sa stáča na juhozápad a pokračuje na kótu Baba (1000). Z nej zostupuje bočným chrbátom západným smerom do doliny Vernárskeho potoka k jeho sútoku s bezmenným ľavostranným prítokom. Križuje potok i štátnu cestu Hranovnica - Švermovo, stáča sa juhozápadným smerom a vystupuje hranicou lesných porastov cez kótu Zbojniská (1091) na hrebeň západne od kóty 1002, kde sa stáča na juh a pokračuje ďalej po hrebeni južným smerom na kótu 1176. Tu sa stáča západným smerom na kótu Človečia hlava (1269). Z nej pokračuje západným a juhozápadným smerom po katastrálnej hranici medzi obcami Vernár a Spišské Bystré až do Smrečinského sedla, kde odbočuje na východ a juhovýchod na kóty Predná hoľa (1545) a Popová (1099) ku štátnej ceste Hranovnica - Švermovo. Túto križuje a po jej východnom okraji vedie južným smerom cez rázcestie na Pustom poli k lesnej ceste v sedle Besník. Po tejto ceste pokračuje východným a južným smerom cez kótu 1128 k Spišskému potoku, ktorý pretína a vystupuje po hrebeni severovýchodným smerom na kótu Ondrejisko (1270). Z nej vedie juhovýchodným, severovýchodným a východným smerom na kótu Huzovské (1172) a potom po hrebeni juhovýchodným smerom cez kóty Čierna hora (1152) a Gápeľ (961) k štátnej ceste Stratená - Dobšiná, ktorú križuje. Jej severným okrajom sa dostáva k rázcestiu štátnych ciest Stratená - Dobšiná - Mlynky, kde odbočuje severným smerom po západnom a severnom okraji štátnej cesty Dobšiná - Mlynky k odbočke cesty na Biele Vody v osade Prostredný Hámor. Odtiaľ pokračuje po ceste cez osadu Biele Vody a ďalej lesnou cestou severovýchodným smerom do sedla severne od kóty Kráľová hora (1071). Z neho zostupuje lesnou cestou do doliny východne od kóty 1104 a ďalej vystupuje severným smerom na kótu Holý kameň (1104). Ďalej vedie po hrebeni severovýchodným smerom cez kóty Dubnica (990) a Medvedia hlava (903), z tejto kóty hranicou lesných porastov severovýchodným a severným smerom, križujúc potok Hlinica i jeho ľavostranný prítok, na okraji lesa. Odtiaľ sa stáča k chatovej osade Maša, ktorú obchádza zo západnej strany, križuje rieku Hornád a okrajom lesa vedie západným a severozápadným smerom cez Tomašovský potok a štátnu cestu Spišské Tomášovce - Čingov k ceste Letanovce - Letanovský mlyn. Tu prechádza cestu a pokračuje k sútoku ľavostranného prítoku Hornádu s odvodňovacím kanálom. Brehom kanála sa dostáva západným a severozápadným smerom k ohybu poľnej cesty južne od Hrabušíc, po ktorej pokračuje severozápadným smerom až do východiskového bodu.
+
+  - Územie národného parku má výmeru 19 763 ha (z toho 17 571 ha lesný pôdny fond, 1691 ha poľnohospodársky pôdny fond a 501 ha ostatné plochy.
