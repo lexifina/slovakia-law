@@ -1,0 +1,3 @@
+# § 1
+
+Pri trestných činoch proti mieru, vojnových trestných činoch, trestných činoch proti ľudskosti a ďalších trestných činoch, spáchaných v čase od 21. mája 1938 do 31. decembra 1946 (v čase zvýšeného ohrozenia republiky) vojnovými zločincami alebo ich pomáhačmi v prospech alebo v službách okupantov, ktoré sú trestnými činmi podľa zákona č. 140 Zb. z 29. novembra 1961 a boli trestnými činmi i podľa zákonov platných v čase ich spáchania i neskorších zákonov, pokiaľ by pri ich malo nastať premlčanie trestného stíhania k 9. máju 1965 alebo neskoršie, sa nepremlčuje ani trestné stíhanie ani výkon trestu.
