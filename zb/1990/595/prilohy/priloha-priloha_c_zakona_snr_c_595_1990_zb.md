@@ -6,24 +6,6 @@ p.c. | Úsek štátnej správy | právna úprava | | Predmet pôsobnosti
 
 1 | 2 | 3 | 4 | 5
 
-1. | ochrany prírody | zák. SNR c. 1/1955 Zb. SNR v znení zák. SNR c. 100/1977 Zb. a zák. SNR c. 72/1986 Zb. | § 15 ods. 1 | Vykonávanie štátnej ochrany prírody.
-
-2. | -"- | zák. SNR c. 1/1955 Zb. SNR v znení zák. SNR c. 100/1977 Zb. a vyhl. c. 149/1980 Zb. | § 15 ods. 3 | Rozhodovanie o výrube stromov rastúcich mimo lesa, ktoré si obvodný úrad vyhradil a na ktoré sa nevztahujú osobitné predpisy.
-
-3. | -"- | zák. SNR c. 1/1955 Zb. SNR v znení zák. c. 72/1969 Zb. a vyhl. c. 212/1958 Ú. v. | § 17 | Poverovanie funkciou (odvolávanie z funkcie) obvodných spravodajcov štátnej ochrany prírody a vydávanie pokynov, preukazov a pomôcok pre výkon tejto funkcie.
-
-4. | '" | zák. SNR c. 1/1955 Zb. SNR v znení zák. SNR c. 72/1986 Zb. | § 19a | Rozhodovanie o pokarhaní obcana a o uložení pokút obcanovi alebo organizácií, ako aj o vykonaní opatrení na nápravu následkov konania, za ktoré bola pokuta uložená.
-
-| | | § 19b |
-
-5. | -"- | vyhl. c. 60/1986 Zb. | § 2 ods. 2 | Vydávanie potvrdení o oznámení nálezu chráneného nerastu.
-
-6. | -"- | -"- | § 2 ods. 3 | Zabezpecovanie overenia nálezu chráneného nerastu a vykonávanie opatrení na jeho ochranu.
-
-7. | -"- | -"- | § 2 ods. 5 | Rozhodovanie v pochybnostiach, ci ide o chránený nerast.
-
-8. | -"- | vyhl. c. 149/1980 Zb. | § 3 ods. 2 | Uskutocnovanie opatrení na zabezpecenie ochrany stromov rastúcich mimo lesa, ktoré si obvodný úrad vyhradil.
-
 9. | vodného hospodárstva | zák. c. 138/1973 Zb. | § 8 ods. 1 pism. a) | Vydávanie povolenia na odber povrchových vôd a na ich iné používanie, pokial nejde o všeobecné používanie povrchových vôd.
 
 10. | -"- | -"- | § 8 ods. 1 pism. b) | Vydávanie povolenia na odber podzemných vôd a na ich iné používanie.
