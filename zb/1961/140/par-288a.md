@@ -1,10 +1,10 @@
 # § 288a Porušovanie služobných povinností
 
-(1) Kto na škodu súčasti ozbrojených síl alebo ozbrojeného zboru neplnením uložených služobných povinností, čo aj z nedbanlivosti, podstatne zníži použiteľnosť výzbroje, výstroja alebo iných vecných prostriedkov,
+(1) Kto na škodu súčasti ozbrojených síl alebo ozbrojeného zboru neplnením uložených služobných povinností, čo aj z nedbanlivosti, podstatne zníži použiteľnosť výzbroje, výstroja alebo iných vecných alebo finančných prostriedkov,
 
 potresce sa odňatím slobody až na jeden rok alebo peňažným trestom.
 
-(2) Kto bez oprávnenia použije vecný prostriedok väčšej hodnoty uvedený v odseku 1 na účel, na ktorý nie je určený, alebo na také použitie dá súhlas, alebo
+(2) Kto bez oprávnenia použije vecný prostriedok väčšej hodnoty uvedený v odseku 1 alebo finančné prostriedky väčšej hodnoty na účel, na ktorý nie je určený, alebo na také použitie dá súhlas, alebo
 
 kto zneužije alebo umožní zneužitie podriadených na mimoslužobné úkony,
 

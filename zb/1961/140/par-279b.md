@@ -6,9 +6,11 @@
 
 - a) ak spácha čin uvedený v odseku 1 násilím alebo hrozbou násilia alebo hrozbou inej ťažkej ujmy,
 
-- b) ak spácha taký čin najmenej s dvoma osobami, alebo
+- b) ak spácha taký čin najmenej s dvoma osobami,
 
-- c) ak spôsobí takým činom ublíženie na zdraví.
+- c) ak spôsobí takým činom ublíženie na zdraví, alebo
+
+- d) spácha taký čin ako príslušník mierových jednotiek Organizácie Spojených národov.
 
 (3) Odňatím slobody na tri roky až desať rokov sa páchateľ potresce,
 
