@@ -1,3 +1,0 @@
-Minister:
-
-Indra v. r.
