@@ -1,3 +1,0 @@
-Minister
-
-Kováč v. r.
