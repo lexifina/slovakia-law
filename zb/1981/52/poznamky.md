@@ -1,0 +1,1 @@
+- 11) Zásady na zhromažďovanie, výkup, regeneráciu a ostatné zužitkovanie opotrebovaných ropných olejov schválené uznesením vlády SSR z 15. apríla 1981 č. 116.
