@@ -1,7 +1,5 @@
 - 1) Zákon SNR č. 592/1990 Zb., o rozpočtových pravidlách Slovenskej republiky v znení zákona SNR č. 574/1991 Zb.
 
-- 2) Zákon SNR č. 84/1991 Zb. o daňových orgánoch.
-
 - 3) Zákon č. 76/1952 Zb. o dani zo mzdy v znení neskorších predpisov.
 
 - 4) Zákon č. 172/1988 Zb. o poľnohospodárskej dani v znení neskorších predpisov.
