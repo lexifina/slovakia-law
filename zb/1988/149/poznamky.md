@@ -40,7 +40,7 @@
 
 - 20) § 145a vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb. v znení neskorších predpisov.
 
-- 21) Zákon č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch. Vyhláška Úradu pre vynálezy a objavy č. 27/1986 Zb. o odmieňaní objavov, vynálezov, zlepšovacích návrhov a priemyselných vzorov.
+- 21) Zákon č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch. Vyhláška Úradu pre vynálezy a objavy č. 27/1986 Zb. o odmieňaní objavov, vynálezov, zlepšovacích návrhov a priemyselných vzorov. Vyhláška Úradu pre vynálezy a objavy č. 29/1986 Zb. o plánovaní tematických úloh.
 
 - 22) Zákon č. 98/1987 Zb.
 
@@ -137,3 +137,15 @@
 - 68) § 98 a nasl. vyhlášky č. 128/1975 Zb.
 
 - 69) Vyhláška Štátneho úradu sociálneho zabezpečenia č. 105/1964 Zb. o dôchodkovom poistení jednotlivo hospodáriacich roľníkov a iných osôb samostatne hospodáriacich a o poskytovaní zaopatrovacieho príspevku členom ich rodín v znení vyhlášky č. 181/1968 Zb.
+
+- 70) Zákon č. 73/1990 Zb. o civilnej službe.
+
+- 71) § 1 zákona č. 105/1990 Zb.
+
+- 72) Zákon č. 35/1965 Zb.
+
+- 73) § 27 ods. 2 nariadenia vlády Československej socialistickej republiky č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce.
+
+- 74) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 195/1989 Zb. o zabezpečení pracovníkov pri organizačných zmenách a občanov pred nástupom do zamestnania.
+
+- 75) § 23 vyhlášky č. 195/1989 Zb.
