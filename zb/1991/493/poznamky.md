@@ -1,5 +1,7 @@
 - 1) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní.
 
+- 1a) Zákon Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov a o zmene a doplnení niektorých zákonov.
+
 - 2) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 4/1991 Zb.
 
 - Vyhláška č. 180/1991 Zb. o odmenách a náhradách komerčných právnikov za poskytovanie právnej pomoci.
