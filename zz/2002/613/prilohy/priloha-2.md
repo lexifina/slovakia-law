@@ -66,6 +66,10 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 24. FCMIZ (MP SR) 1-12 Mesačný výkaz o fondoch cukru, melasy a izoglukózy
 
+- 24a. FCMIZ (MP SR) 2-99 Jednorazové zisťovanie o zásobách cukru a jeho náhrad vrátane spracovaných výrobkov (rok zisťovania 2004)
+
+- 24b. FCMIZ (MP SR) 3-12 Mesačný výkaz o bilancii výroby, nákupu a predaja výrobkov s obsahom cukru
+
 - 25. Liah (MP SR) 1-12 Mesačný výkaz o liahnutí, násadových vajciach a jednodňovej hydine
 
 - 26. Sklad (MP SR) 1-12 Mesačný výkaz o bilancii tovarov uskladnených vo verejnom sklade
@@ -870,6 +874,114 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
 
+- 24a. Názov zisťovania: Jednorazové zisťovanie o zásobách cukru a jeho náhrad vrátane spracovaných výrobkov
+
+- Značka štatistického formulára: FCMIZ (MP SR) 2-99
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o bežných a nadmerných zásobách cukru, izoglukózy a fruktózy, ktoré budú dňom pristúpenia prenesené do Európskej únie.
+
+- Európsky právny predpis: nariadenie Komisie (ES) č. 60/2004, ktorým sa ustanovujú dočasné opatrenia v sektore cukru pre pristupujúce členské štáty do Európskej únie.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa jednotlivých výrobkov, obsahu cukru, obsahu izoglukózy, konečného stavu zásob, priemerného stavu zásob, prenosu zásob do Európskej únie, nadmerných zásob v prepočte na biely cukor, likvidácie nadmerných zásob (exportovaním a iné) a ukazovatele týkajúce sa zoznamu prevádzkarní, skladov a kapacity skladov.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnické osoby, ktoré vykonávajú podnikateľskú alebo inú ako podnikateľskú činnosť, a fyzické osoby – podnikatelia na území Slovenskej republiky, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- - výroba potravín a nápojov (OKEČ 15),
+
+- - veľkoobchod s potravinami, nápojmi a tabakom (OKEČ 51.3),
+
+- - maloobchod s potravinami, nápojmi a tabakom (OKEČ 52.2),
+
+- - skladovanie a uskladňovanie (OKEČ 63.12);
+
+- prípadne sa zaoberajú inými činnosťami spojenými s držbou a spracovaním zásob monitorovaných výrobkov:
+
+- - cukru z repy a trstiny v tuhej forme označovaného kódom CN 1701,
+
+- - cukrových sirupov označovaných kódmi CN 1702 60 95, 1702 90 99 a 2106 90 59,
+
+- - inulínových sirupov označovaných kódmi CN 1702 60 80 a 1702 90 80,
+
+- - izoglukózy označovanej kódmi CN 1702 30 10, 1702 40 10, 1702 60 10, 1702 90 30 a 2106 90 30,
+
+- - fruktózy označovanej kódom CN 1702 50 00
+
+- a z nich spracovaných výrobkov s obsahom cukru alebo ekvivalentu cukru nad 10 %, čo vyplýva zo spôsobu spracovania týchto výrobkov.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: jednorazovo.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. mája sledovaného roka.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Pôdohospodárskej platobnej agentúry a RADELY, s. r. o., Bratislava.
+
+- 24b. Názov zisťovania: Mesačný výkaz o bilancii výroby, nákupu a predaja výrobkov s obsahom cukru
+
+- Značka štatistického formulára: FCMIZ (MP SR) 3-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o bilancii hotových výrobkov a surovín s obsahom cukru na ich výrobu. Bilancia slúži na sledovanie pohybu zásob cukru, izoglukózy a fruktózy v spracovaných výrobkoch.
+
+- Európsky právny predpis: nariadenie Komisie (ES) č. 60/2004, ktorým sa ustanovujú dočasné opatrenia v sektore cukru pre pristupujúce členské štáty do Európskej únie.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa stavu zásob suroviny a nedokončenej výroby, nákupu suroviny v tuzemsku, dovozu, predaja, vývozu a použitia suroviny, stavu zásob spracovaných výrobkov, nákupu, dovozu, predaja a vývozu spracovaných výrobkov za výrobné, nevýrobné a obchodné organizácie.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnické osoby, ktoré vykonávajú podnikateľskú alebo inú ako podnikateľskú činnosť a fyzické osoby – podnikatelia na území Slovenskej republiky, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- - výroba potravín a nápojov (OKEČ 15),
+
+- - veľkoobchod s potravinami, nápojmi a tabakom (OKEČ 51.3),
+
+- - maloobchod s potravinami, nápojmi a tabakom (OKEČ 52.2),
+
+- - skladovanie a uskladňovanie (OKEČ 63.12);
+
+- prípadne sa zaoberajú inými činnosťami spojenými s držbou a spracovaním zásob monitorovaných výrobkov:
+
+- - cukru z repy a trstiny v tuhej forme označovaného kódom CN 1701,
+
+- - cukrových sirupov označovaných kódmi CN 1702 60 95, 1702 90 99 a 2106 90 59,
+
+- - inulínových sirupov označovaných kódmi CN 1702 60 80 a 1702 90 80,
+
+- - izoglukózy označovanej kódmi CN 1702 30 10, 1702 40 10, 1702 60 10, 1702 90 30 a 2106 90 30,
+
+- - fruktózy označovanej kódom CN 1702 50 00
+
+- a z nich spracovaných výrobkov s obsahom cukru alebo ekvivalentu cukru nad 10 %, čo vyplýva zo spôsobu spracovania týchto výrobkov.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 7. kalendárneho dňa po skončení sledovaného obdobia.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Pôdohospodárskej platobnej agentúry a RADELY, s. r. o., Bratislava.
+
 - 25. Názov zisťovania: Mesačný výkaz o liahnutí, násadových vajciach a jednodňovej hydine
 
 - Značka štatistického formulára: Liah (MP SR) 1-12
@@ -980,15 +1092,17 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o tvorbe a rozdelení fondov surového liehu. Výsledky štatistického zisťovania sa využijú pri príprave materiálov, ktoré slúžia na tvorbu analýz a koncepcií rozvoja potravinárskeho priemyslu.
 
+- Európsky právny predpis: nariadenie Komisie (ES) č. 2336/2003 upravujúce určité detailné pravidlá na aplikáciu nariadenia Rady (ES) č. 670/2003 ustanovujúce špecifické opatrenia vo vzťahu k obchodovaniu s liehom poľnohospodárskeho pôvodu.
+
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa tvorby zdrojov surového liehu, výroby, spotreby surovín na jeho výrobu, nákupu v tuzemsku, dovozu spolu, z toho z Českej republiky, rozdelenia zdrojov na vlastnú výrobu rafinovaného liehu, predaja na rafináciu v tuzemsku, vývozu spolu, z toho do Českej republiky, a ostatného použitia.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa tvorby zdrojov surového liehu poľnohospodárskeho a nepoľnohospodárskeho pôvodu, jeho výroby, spotreby surovín na jeho výrobu, nákupu v tuzemsku, dovozu spolu z tretích krajín, rozdelenia zdrojov na vlastnú výrobu rafinovaného liehu, predaja na rafináciu v tuzemsku, vývozu spolu do tretích krajín a ostatného použitia.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Výrobcovia surového liehu, dovozcovia surového liehu a rafinérie, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+- Výrobcovia surového liehu poľnohospodárskeho a nepoľnohospodárskeho pôvodu, dovozcovia surového liehu a rafinérie poľnohospodárskeho a nepoľnohospodárskeho pôvodu, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
 
 - - výroba etylalkoholu kvasením (OKEČ 15.92).
 
@@ -1414,6 +1528,8 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 68. A (MZ SR) 14-01 Ročný výkaz o operačných výkonoch
 
+- 68a. A (MZ SR) 15-01 Ročný výkaz o činnosti oftalmologických oddelení a ambulancií
+
 - 69. A (MZ SR) 16-01 Ročný výkaz o činnosti oddelení Fakultnej nemocnice pre cudzokrajné choroby
 
 - 70. A (MZ SR) 17-01 Ročný výkaz o činnosti kardiologických ambulancií
@@ -1421,6 +1537,8 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 - 71. A (MZ SR) 18-01 Ročný výkaz o činnosti neurologických ambulancií
 
 - 72. A (MZ SR) 19-01 Ročný výkaz o činnosti záchrannej zdravotnej služby (pracovísk urgentnej medicíny)
+
+- 72a. A (MZ SR) 20-01 Ročný výkaz o činnosti agentúry domácej ošetrovateľskej starostlivosti
 
 - 73. K (MZ SR) 1-01 Ročný výkaz o činnosti oddelenia a ambulancie klinickej biochémie
 
@@ -1510,13 +1628,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 115. Kult (MK SR) 10-01 Ročný výkaz o knižnici
 
-- 116. Kult (MK SR) 11-01 Ročný výkaz o tvorbe a výrobe audiovizuálnych diel, ich distribúcii v sieti kín a videopožičovní
+  - 116. Kult (MK SR) 11-01 Ročný výkaz o audiovízii
 
 - 117. Kult (MK SR) 12-01 Ročný výkaz o profesionálnom divadle
 
 - 118. Kult (MK SR) 13-01 Ročný výkaz o periodickej tlači
 
-- 119. Kult (MK SR) 14-01 Ročný výkaz o hvezdárni, planetáriu, astronomickej pozorovateľni a kabinete
+  - 119. Kult (MK SR) 14-01 Ročný výkaz o astronomickom zariadení a pracovisku
 
 - 120. Kult (MK SR) 15-01 Ročný výkaz o cirkvi a náboženskej spoločnosti
 
@@ -1662,7 +1780,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Všetky orgány štátnej správy a štátne orgány (úrady), ktoré vykonávajú štátne záležitosti a v ktorých sa platy štátnym zamestnancom poskytujú podľa zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ostatným zamestnancom podľa zákona č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov. Vybrané rozpočtové a príspevkové organizácie, verejnoprávne inštitúcie a ostatné zdravotné poisťovne, štátne a verejné vysoké školy, obce, vyššie územné celky a ostatní zamestnávatelia, u ktorých sa platy zamestnancom poskytujú podľa zákona č. 313/2001 Z. z.
+- Všetky orgány štátnej správy a štátne orgány (úrady), ktoré vykonávajú štátne záležitosti a v ktorých sa platy štátnym zamestnancom poskytujú podľa zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ostatným zamestnancom podľa zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone prác vo verejnom záujme. Vybrané rozpočtové a príspevkové organizácie, štátne a verejné vysoké školy, obce, samosprávne kraje a ostatní zamestnávatelia, u ktorých sa platy zamestnancom poskytujú podľa zákona č. 553/2003 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -1740,7 +1858,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Právnické osoby a fyzické osoby poskytujúce sociálne služby podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+- Právnické osoby a fyzické osoby, obce, samosprávne kraje poskytujúce sociálne služby podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
 
 - - činnosti sociálnej pomoci s ubytovaním (OKEČ 85.31),
 
@@ -1774,7 +1892,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Vybrané zariadenia sociálnych služieb zriadené ako rozpočtové alebo príspevkové organizácie, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+- Vybrané zariadenia sociálnych služieb zriadené ako rozpočtové alebo príspevkové organizácie, v zriaďovateľskej pôsobnosti obce, samosprávneho kraja a úradu práce sociálnych vecí a rodiny, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
 
 - - činnosti sociálnej pomoci s ubytovaním (OKEČ 85.31),
 
@@ -1808,7 +1926,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Vybrané zariadenia sociálnych služieb zriadené ako rozpočtové alebo príspevkové organizácie, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+- Vybrané zariadenia sociálnych služieb zriadené ako rozpočtové alebo príspevkové organizácie, obce, samosprávne kraje, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
 
 - - činnosti sociálnej pomoci s ubytovaním (OKEČ 85.31),
 
@@ -1842,7 +1960,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Zariadenia sociálnych služieb podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+- Zariadenia sociálnych služieb, obce, samosprávne kraje, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
 
 - - činnosti sociálnej pomoci s ubytovaním (OKEČ 85.31),
 
@@ -1852,7 +1970,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Periodicita zisťovania: ročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. marca nasledujúceho roka.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. januára nasledujúceho roka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3844,6 +3962,38 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
+- 68a. Názov zisťovania: Ročný výkaz o činnosti oftalmologických oddelení a ambulancií
+
+- Značka štatistického formulára: A (MZ SR) 15-01
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o pracoviskách, zamestnancoch a činnosti oftalmologických ambulancií a oddelení. Výsledky zisťovania sa využijú na riadenie zdravotníctva, na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu. Údaje sa uverejnia v rezortných zdravotníckych publikáciách.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa vyšetrení, výskytu jednotlivých vybraných ochorení, dispenzarizácie vybraných ochorení, druhu liečby a operačných výkonov a činností.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Zdravotnícke zariadenia - právne subjekty, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- - zdravotníctvo (OKEČ 85.1).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: ročne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+
 - 69. Názov zisťovania: Ročný výkaz o činnosti oddelení Fakultnej nemocnice pre cudzokrajné choroby
 
 - Značka štatistického formulára: A (MZ SR) 16-01
@@ -3953,6 +4103,38 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
 - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa počtu pracovísk, pracovných miest, činnosti záchrannej zdravotnej služby a lekárskej služby prvej pomoci.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Zdravotnícke zariadenia - právne subjekty, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- - zdravotníctvo (OKEČ 85.1).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: ročne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+
+- 72a. Názov zisťovania: Ročný výkaz o činnosti agentúry domácej ošetrovateľskej starostlivosti
+
+- Značka štatistického formulára: A (MZ SR) 20-01
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o agentúrach domácej ošetrovateľskej starostlivosti. Výsledky zisťovania sa využijú na riadenie zdravotníctva, na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu. Údaje sa uverejnia v rezortných zdravotníckych publikáciách.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa zamestnancov v agentúrach domácej ošetrovateľskej starostlivosti podľa jednotlivých kategórií a ošetrených osôb podľa vybraných diagnóz a vekových skupín.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -5120,7 +5302,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Periodicita zisťovania: ročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. februára nasledujúceho roka.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. januára nasledujúceho roka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -5354,21 +5536,21 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo kultúry Slovenskej republiky prostredníctvom Slovenskej národnej knižnice.
 
-- 116. Názov zisťovania: Ročný výkaz o tvorbe a výrobe audiovizuálnych diel, ich distribúcii v sieti kín a videopožičovní
+- 116. Názov zisťovania: Ročný výkaz o audiovízii
 
 - Značka štatistického formulára: Kult (MK SR) 11-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o tvorbe a výrobe audiovizuálnych diel, ich distribúcii v sieti kín a videopožičovní. Výsledky zisťovania sa využijú na riešenie vecných problémov v danej oblasti a na medzinárodné porovnanie. Využívajú ich svetové organizácie a inštitúcie sledujúce oblasť audiovízie.
+- Účelom štatistického zisťovania je získať informácie o tvorbe a výrobe audiovizuálnych diel, ich distribúcii v sieti kín, videopožičovní a klubov, ako aj o jazykovej úprave a exporte filmových diel. Výsledky zisťovania sa využijú na riešenie vecných problémov v danej oblasti a na medzinárodné porovnanie. Využívajú ich svetové organizácie a inštitúcie sledujúce oblasť audiovízie.
 
-- Európsky právny predpis: rozhodnutie rady č. 1999/297/ES, ktorým sa zriaďuje štatisticko-informačná štruktúra ES vzťahujúca sa na odvetvie audiovízie a príbuzných sektorov.
+- Európsky právny predpis: rozhodnutie Rady 1999/297/ES, ktorým sa zriaďuje štatisticko – informačná štruktúra ES vzťahujúca sa na odvetvia audiovízie a príbuzných sektorov.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa tvorby a výroby audiovizuálnych diel, ich distribúcie v sieti kín a videopožičovní, ako aj siete a výkonov kín.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa siete producentov, distributérov a prevádzkovateľov, tvorby a výroby audiovizuálnych diel, ich distribúcie v sieti kín, videopožičovní a klubov, jazykovej úpravy a exportu filmových diel, ako aj siete a výkonov kín a klubov.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -5460,7 +5642,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo kultúry Slovenskej republiky.
 
-- 119. Názov zisťovania: Ročný výkaz o hvezdárni, planetáriu, astronomickej pozorovateľni a kabinete
+- 119. Názov zisťovania: Ročný výkaz o astronomickom zariadení a pracovisku
 
 - Značka štatistického formulára: Kult (MK SR) 14-01
 
@@ -5850,7 +6032,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Slovenská správa ciest.
+- Slovenská správa ciest, samosprávne kraje.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5880,7 +6062,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Slovenská správa ciest.
+- Slovenská správa ciest, samosprávne kraje.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5912,7 +6094,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Slovenská správa ciest, Policajné prezídium Ministerstva vnútra Slovenskej republiky.
+- Slovenská správa ciest, Prezídium Policajného zboru, samosprávne kraje.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5974,7 +6156,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Slovenská správa ciest.
+- Slovenská správa ciest, samosprávne kraje.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 

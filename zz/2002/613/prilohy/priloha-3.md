@@ -6,115 +6,97 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - I. A Ministerstvo financií Slovenskej republiky
 
-- 1. Súvaha Úč POD 1-01 Súvaha v plnom rozsahu
+- 1. Súvaha Úč POD 1-01 Súvaha
 
-- 2. Výsledovka Úč POD 2-01 Výkaz ziskov a strát v plnom rozsahu
+- 2. Výkaz ziskov a strát Úč POD 2-01 Výkaz ziskov a strát
 
-- 3. Súvaha Úč PODS 1-01 Súvaha v skrátenom rozsahu
+- 3. Súvaha Úč POD 1-01 Súvaha v plnom rozsahu Slovenskej konsolidačnej, a. s.
 
-- 4. Výsledovka Úč PODS 2-01 Výkaz ziskov a strát v skrátenom rozsahu
+- 4. Výsledovka Úč POD 2-01 Výkaz ziskov a strát v plnom rozsahu Slovenskej konsolidačnej, a. s.
 
-- 5. Úč RO 2-04 S Výkaz o plnení rozpočtu rozpočtových organizácií štátu
+- 5. Úč FO 1-01 Výkaz o príjmoch a výdavkoch
 
-- 6. Úč RO 2-04 S-DOP Doplňujúce údaje k prílohe účtovnej závierky rozpočtových organizácií štátu
+- 6. Úč FO 2-01 Výkaz o majetku a záväzkoch
 
-- 7. Úč RO 2-04 F Výkaz údajov o plnení rozpočtu a ďalších doplňujúcich údajov k prílohe účtovnej závierky štátneho fondu
+- 7. NO Úč 1-01 Výkaz o príjmoch a výdavkoch a majetku a záväzkoch
 
-- 8. Úč Rov 2-04 Výkaz o plnení rozpočtu rozpočtovej organizácie obce alebo vyššieho územného celku
+- 8. NOVPS Úč 1-01 Súvaha a výkaz ziskov a strát
 
-- 9. Úč Rov 2-04 DOP Doplňujúce údaje k prílohe účtovnej závierky rozpočtových organizácií obce alebo vyššieho územného celku
+- 9. SONO Úč 1-01 Súvaha a výkaz ziskov a strát
 
-- 10. Úč OV 2-04 Výkaz o plnení rozpočtu a ďalších doplňujúcich údajov k prílohe účtovnej závierky obce alebo vyššieho územného celku
+- 10. Úč B 2-01 Výkaz ziskov a strát komerčných bánk a pobočiek zahraničných bánk v plnom rozsahu
 
-- 11. Súvaha Úč ROPO 3-02 SFOV Súvaha
+- 11. Súvaha Úč B 1-01 Súvaha bánk v plnom rozsahu
 
-- 12. Výsledovka Úč ROPO 4-02 SFOV Výkaz ziskov a strát
+- 12. PO Daňové priznanie k dani z príjmov právnických osôb
 
-- 13. MPO Úč 5-01 Výkaz o majetku a záväzkoch a príjmoch a výdavkoch príspevkových organizácií obcí
+- 13. FO typ A Daňové priznanie k dani z príjmov fyzických osôb pre daňovníkov, ktorí majú príjmy len zo závislej činnosti a funkčné požitky
 
-- 14. Úč 6-01 Prehľad aktív a pasív obcí
+- 14. FO typ: C Daňové priznanie k paušálnej dani
 
-- 15. Údaje o príjmoch a výdavkoch Fondu národného majetku Slovenskej republiky
+- 15. Hlásenie o vyúčtovaní dane a o úhrne príjmov fyzických osôb zo závislej činnosti a funkčných požitkov a o zrazených preddavkoch na daň z týchto príjmov
 
-- 16. Súvaha Úč FNM SR 1-01 Súvaha v plnom rozsahu
+- 16. Daňové priznanie - Daň z pridanej hodnoty
 
-- 17. Úč FNM SR 1-01 Výkaz o tvorbe a použití Fondu národného majetku Slovenskej republiky
+- 17. Daňové priznanie - Spotrebná daň
 
-- 18. Úč FNM SR 2-01 Výkaz o čerpaní rozpočtu Fondu národného majetku Slovenskej republiky
+- 18. PO Priznanie k cestnej dani
 
-- 19. Údaje o príjmoch a výdavkoch, pohľadávkach a záväzkoch Sociálnej poisťovne, Národného úradu práce a zdravotných poisťovní
+- 19. FO Priznanie k cestnej dani
 
-- 20. Výkaz PF Úč 1-01 Súvaha a výkaz ziskov a strát
+- 20. PO Daňové priznanie k dani z prevodu a prechodu nehnuteľností
 
-- 21. Údaje o príjmoch a výdavkoch Slovenskej konsolidačnej, a. s.
+- 21. FO Daňové priznanie k dani z prevodu a prechodu nehnuteľností
 
-- 22. Súvaha Úč POD 1-01 Súvaha v plnom rozsahu Slovenskej konsolidačnej, a. s.
+- 22. PO Daňové priznanie k dani z nehnuteľností
 
-- 23. Výsledovka Úč POD 2-01 Výkaz ziskov a strát v plnom rozsahu Slovenskej konsolidačnej, a. s.
+- 23. FO Daňové priznanie k dani z nehnuteľností
 
-- 24. Úč FO 1-01 Výkaz o príjmoch a výdavkoch
+- 24. Výsledovka Úč EB 2-01 Výkaz ziskov a strát Eximbanky - v plnom rozsahu
 
-- 25. Úč FO 2-01 Výkaz o majetku a záväzkoch
+- 25. Súvaha Úč EB 1-01 Súvaha Eximbanky - v plnom rozsahu
 
-- 26. NO Úč 1-01 Výkaz o príjmoch a výdavkoch a majetku a záväzkoch
+- 26. Štátny rozpočet Slovenskej republiky
 
-- 27. NOVPS Úč 1-01 Súvaha a výkaz ziskov a strát
+- 27. Návrh štátneho záverečného účtu Slovenskej republiky
 
-- 28. SONO Úč 1-01 Súvaha a výkaz ziskov a strát
+- 28. Fin RO 1-04 Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov rozpočtových organizácií štátu
 
-- 29. Úč B 2-01 Výkaz ziskov a strát komerčných bánk a pobočiek zahraničných bánk v plnom rozsahu
+- 29. Fin PO 3-04 Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov príspevkových organizácií a štátnych fondov
 
-- 30. Súvaha Úč B 1-01 Súvaha bánk v plnom rozsahu
+- 30. Fin SAM 2-04 Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov obce, vyššieho územného celku a rozpočtových organizácií v ich pôsobnosti
 
-- 31. PO Daňové priznanie k dani z príjmov právnických osôb
+- 31. Súvaha Úč NUJ 1-01 Súvaha
 
-- 32. FO typ A Daňové priznanie k dani z príjmov fyzických osôb pre daňovníkov, ktorí majú príjmy len zo závislej činnosti a funkčné požitky
+- 32. Výkaz ziskov a strát Výkaz ziskov a strát Úč ROPO SFOV 2-01
 
-- 33. FO typ: B1 Daňové priznanie k dani z príjmov fyzických osôb
+- 33. Výsledovka Úč NUJ 2-01 Výkaz ziskov a strát
 
-- FO typ: B2 Daňové priznanie k dani z príjmov fyzických osôb
+- 34. MPO Úč 1-01 Výkaz o majetku a záväzkoch a príjmoch a výdavkoch príspevkových organizácií
 
-- FO typ: B3 Daňové priznanie k dani z príjmov fyzických osôb
+- 35. Súvaha Úč ROPO SFOV 1-01 Súvaha
 
-- 34. FO typ: C Daňové priznanie k paušálnej dani
+- 36. Fin OST 4-04 Výkaz o plnení rozpočtu ostatných subjektov, ktorých rozpočty tvoria verejný rozpočet
 
-- 35. Hlásenie o vyúčtovaní dane a o úhrne príjmov fyzických osôb zo závislej činnosti a funkčných požitkov a o zrazených preddavkoch na daň z týchto príjmov
+- 37. Súvaha Úč FNM SR 1-01 Súvaha Fondu národného majetku Slovenskej republiky
 
-- 36. Daňové priznanie - Daň z pridanej hodnoty
+- 38. Úč FNM SR 1-01 Výkaz o tvorbe a použití majetku Fondu národného majetku Slovenskej republiky
 
-- 37. Daňové priznanie - Spotrebná daň
+- 39. Úč FNM SR 2-01 Výkaz o nákladoch na správnu činnosť Fondu národného majetku Slovenskej republiky
 
-- 38. PO Priznanie k cestnej dani
+- 40. Súvaha Úč PF 1-01 Súvaha
 
-- 39. FO Priznanie k cestnej dani
+- 41. Výsledovka Úč PF 2-01 Výkaz ziskov a strát
 
-- 40. PO Daňové priznanie k dani z dedičstva
+- 42. Výkaz NO Úč 1-01 Výkaz o príjmoch a výdavkoch
 
-- 41. FO Daňové priznanie k dani z dedičstva
+- 43. Výkaz NO Úč 2-01 Výkaz o majetku a záväzkoch
 
-- 42. PO Daňové priznanie k dani z darovania
-
-- 43. FO Daňové priznanie k dani z darovania
-
-- 44. PO Daňové priznanie k dani z prevodu a prechodu nehnuteľností
-
-- 45. FO Daňové priznanie k dani z prevodu a prechodu nehnuteľností
-
-- 46. PO Daňové priznanie k dani z nehnuteľností
-
-- 47. FO Daňové priznanie k dani z nehnuteľností
-
-- 48. Výsledovka Úč EB 2-01 Výkaz ziskov a strát Eximbanky - v plnom rozsahu
-
-- 49. Súvaha Úč EB 1-01 Súvaha Eximbanky - v plnom rozsahu
-
-- 50. Štátny rozpočet Slovenskej republiky
-
-- 51. Návrh štátneho záverečného účtu Slovenskej republiky
+- 44. Súhrnný výkaz - Daň z pridanej hodnoty
 
 - I. A1. Colné riaditeľstvo
 
-- 52. Jednotný colný doklad pozostávajúci z ôsmich a štyroch výtlačkov
+- 45. Jednotný colný doklad pozostávajúci z ôsmich a štyroch výtlačkov
 
 - I. B Národná banka Slovenska
 
@@ -122,23 +104,23 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 2. Bil (NBS) 2-12 Mesačný výkaz ziskov a strát
 
-- 3. V (NBS) 3-12 Mesačný výkaz o úveroch
+- 3. V (NBS) 3-12 Mesačný výkaz o úveroch v slovenských korunách
 
-- 4. V (NBS) 5-12 Mesačný výkaz o vkladoch a prijatých úveroch
+- 4. V (NBS) 5-12 Mesačný výkaz o vkladoch a prijatých úveroch v slovenských korunách
 
-- 5. V (NBS) 7-12 Mesačný výkaz o stave úverov a priemerných úrokových mier v členení podľa druhu úverov
+- 5. V (NBS) 7-12 Mesačný výkaz o stave úverov v slovenských korunách a o výške priemerných úrokových mier
 
 - 6. V (NBS) 8-12 Mesačný výkaz o cenných papieroch v majetku bánk
 
-- 7. V (NBS) 9-12 Mesačný výkaz o čerpaní úverov a výške priemerných úrokových mier v členení podľa druhu úverov
+- 7. V (NBS) 9-12 Mesačný výkaz o čerpaní úverov v slovenských korunách a o výške priemerných úrokových mier
 
-- 8. V (NBS) 91-12 Mesačný výkaz o čerpaní úverov poskytnutých v aktuálnom roku a výške priemerných úrokových mier v členení podľa časového hľadiska
+- 8. V (NBS) 91-12 Mesačný výkaz o čerpaní úverov v slovenských korunách poskytnutých v aktuálnom mesiaci a o výške priemerných úrokových mier
 
-- 9. V (NBS) 10-12 Hlásenie o úrokových sadzbách za vklady a úvery
+- 9. V (NBS) 10-12 Hlásenie o úrokových sadzbách za vklady a úvery v slovenských korunách
 
-- 10. V (NBS) 11-12 Mesačný výkaz o stave vkladov a výške priemerných úrokových mier v členení podľa časového hľadiska
+- 10. V (NBS) 11-12 Mesačný výkaz o stave vkladov v slovenských korunách a o výške priemerných úrokových mier
 
-- 11. V (NBS) 12-12 Mesačný výkaz o úverových a vkladových medzibankových obchodoch
+- 11. V (NBS) 12-12 Mesačný výkaz o úverových a vkladových medzibankových obchodoch v slovenských korunách
 
 - 12. V (NBS) 13-04 Štvrťročný výkaz o úrokových nákladoch a výnosoch v členení podľa krajov
 
@@ -146,19 +128,19 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 14. V (NBS) 17-36 Evidencia nákupov a predajov na medzibankovom devízovom trhu
 
-- 15. V (NBS) 18-12 Mesačný výkaz o transakciách na účtoch nerezidentov v slovenských korunách
+- 15. V (NBS) 18-12 Mesačný výkaz o stavoch a transakciách na účtoch nerezidentov v slovenských korunách
 
-- 16. V (NBS) 31-01 Ročný výkaz o úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností
+- 16. V (NBS) 31-01 Ročný výkaz o úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností v slovenských korunách
 
-- 17. V (NBS) 32-01 Ročný výkaz o úveroch podľa krajov
+- 17. V (NBS) 32-01 Ročný výkaz o úveroch podľa krajov v slovenských korunách
 
-- 18. V (NBS) 51-01 Ročný výkaz o vkladoch a prijatých úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností
+- 18. V (NBS) 51-01 Ročný výkaz o vkladoch a prijatých úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností v slovenských korunách
 
 - 19. V (NBS) 52-01 Ročný výkaz o vkladoch a prijatých úveroch podľa krajov
 
 - 20. Dev (NBS) 12-12 Mesačný výkaz o devízových inkasách a platbách v konvertibilných menách
 
-- 21. Dev (NBS) 17 -12 Mesačný výkaz o devízových transakciách na účtoch nerezidentov v konvertibilných menách
+- 21. Dev (NBS) 17-12 Mesačný výkaz o devízových transakciách a stavoch na účtoch nerezidentov v konvertibilných menách
 
 - 22. Dev (NBS) 18 -02 Polročný výkaz o devízových úveroch a devízových vkladoch klientov v členení podľa mien
 
@@ -180,7 +162,33 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 31. Výročná správa Národnej banky Slovenska
 
-- I. C Národný úrad práce
+- 32. M (NBS) 1-12 Mesačná štatistická bilancia
+
+- 33. M (NBS) 2-12 Mesačný výkaz o preceneniach súvahových položiek
+
+- 34. M (NBS) 3-12 Mesačný výkaz o reklasifikáciách súvahových položiek
+
+- 35. M (NBS) 4-04 Štvrťročný výkaz o menovej štruktúre súvahových položiek
+
+- 36. M (NBS) 5-04 Štvrťročný rozpis súvahových položiek podľa krajín
+
+- 37. M (NBS) 10 -12 Mesačný výkaz o nových úveroch poskytnutých v aktuálnom mesiaci v slovenských korunách a o výške priemerných úrokových mier
+
+- 38. M (NBS) 11-12 Mesačný výkaz o nových vkladoch prijatých v aktuálnom mesiaci v slovenských korunách a o výške priemerných úrokových mier
+
+- 39. M (NBS) 61-12 Mesačná štatistická bilancia podielových fondov peňažného trhu
+
+- 40. M (NBS) 71- 04 Štvrťročná štatistická bilancia podielových fondov iných ako podielové fondy peňažného trhu
+
+- 41. Dev (NBS) 14-04 Štvrťročný výkaz o devízových inkasách a platbách podľa geografického členenia v konvertibilných menách
+
+- 42. Dev (NBS) 19-04 Štvrťročný výkaz o devízových inkasách a platbách v členení podľa mien
+
+- 43. V (NBS) 24-04 Štvrťročný výkaz o inkasách a platbách v slovenských korunách na účtoch nerezidentov podľa geografického členenia
+
+- 44. E (NBS) 1-04 Prehľad o rozvoji peňažného sektora v Slovenskej republike
+
+- I. C Ústredie práce, sociálnych vecí a rodiny
 
 - 1. s12a Štvrťročný výkaz o zamestnávaní občanov Českej republiky v Slovenskej republike a nezamestnanosti občanov zmluvných štátov (SR, ČR)
 
@@ -272,39 +280,49 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - III. A Ministerstvo financií Slovenskej republiky
 
-- 1. Súvaha Úč ROPO 3-02 SFVO Súvaha
+- 1. Súvaha Úč ROPO SFOV 1-01 Súvaha
 
-- 2. Úč Rov 2-04 Výkaz o plnení rozpočtu rozpočtovej organizácie obce alebo vyššieho územného celku
+- 2. Výkaz ziskov a strát Výkaz ziskov a strát Úč ROPO SFOV 2-01
 
-- 3. Úč Rov 2-04 DOP Dopĺňajúce údaje k prílohe účtovnej závierky rozpočtových organizácií obce alebo vyššieho územného celku
-
-- 4. Výsledovka Úč ROPO 4-02 SFOV Výkaz ziskov a strát
+- 3. FIN SAM 2-04 Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov obce, vyššieho územného celku a rozpočtových organizácií v ich pôsobnosti
 
 - IV. MINISTERSTVO ZDRAVOTNÍCTVA SLOVENSKEJ REPUBLIKY
 
 - IV. A Ministerstvo financií Slovenskej republiky
 
-- 1. Výsledovka Úč ROPO 4-02 SFVO Výkaz ziskov a strát
+- 1. Výkaz ziskov a strát Výkaz ziskov a strát Úč ROPO SFOV 2-01
 
-- 2. Súvaha Úč ROPO 3-02 SFVO Súvaha
+- 2. Súvaha Úč ROPO SFOV 1-01 Súvaha
 
-- 3. SONO Úč 1-01 Súvaha a výkaz ziskov a strát nezárobkových organizácií
+- 3. Súvaha Úč POD 1-01 Súvaha
 
-- 4. Výkaz NO Úč 1-01 Výkaz o príjmoch a výdavkoch a majetku a záväzkoch
+- 4. Výkaz ziskov a strát Výkaz ziskov a strát Úč POD 2-01
 
-- 5. Výkaz NOVOPS Úč 1-01 Súvaha a výkaz ziskov a strát
+- 5. Úč FO 1-01 Výkaz o príjmoch a výdavkoch
+
+- 6. Úč FO 2-01 Výkaz o majetku a záväzkoch
 
 - IV. B Sociálna poisťovňa
 
 - 1. Dočasná pracovná neschopnosť podľa zdravotníckej štatistiky pobočiek Sociálnej poisťovne
 
+- IV. C. Všeobecná zdravotná poisťovňa
+
+- 1. Lekárske predpisy - Dávka 137
+
+- 2. Vykazovanie kapitácie - Dávka 148
+
+- 3. Lekárske predpisy - Vykazovanie výkonov a ambulantnej starostlivosti - Dávka 153
+
+- 4. Vykazovanie výkonov v lôžkovej starostlivosti - Dávka 173
+
 - V. MINISTERSTVO KULTÚRY SLOVENSKEJ REPUBLIKY
 
 - V. A Ministerstvo financií Slovenskej republiky
 
-- 1. Súvaha Úč ROPO 3-02 SFOV Súvaha
+- 1. Súvaha Úč ROPO SFOV 1-01 Súvaha
 
-- 2. Výsledovka Úč ROPO 4-02 SFOV Výkaz ziskov a strát
+- 2. Výkaz ziskov a strát Výkaz ziskov Úč ROPO SFOV 2-01 a strát
 
 - VI. MINISTERSTVO FINANCIÍ SLOVENSKEJ REPUBLIKY
 
@@ -326,27 +344,23 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - VII. A Ministerstvo financií Slovenskej republiky
 
-- 1. Súvaha Úč POD 1-01 Súvaha v plnom rozsahu
+- 1. Súvaha Úč POD 1-01 Súvaha
 
-- 2. Výsledovka Úč POD 2-01 Výkaz ziskov a strát v plnom rozsahu
-
-- 3. Súvaha Úč PODS 1-01 Súvaha v skrátenom rozsahu
-
-- 4. Výsledovka Úč PODS 2-01 Výkaz ziskov a strát v skrátenom rozsahu
+- 2. Výkaz ziskov a strát Výkaz ziskov Úč POD 2-01 a strát
 
 - VIII. MINISTERSTVO PÔDOHOSPODÁRSTVA SLOVENSKEJ REPUBLIKY
 
 - VIII. A Ministerstvo financií Slovenskej republiky
 
-- 1. Súvaha Úč POD 1-01 Súvaha v plnom rozsahu
+- 1. Súvaha Úč POD 1-01 Súvaha
 
-- 2. Výsledovka Úč Pod 2-01 Výkaz ziskov a strát v plnom rozsahu
+- 2. Výkaz ziskov a strát Výkaz ziskov Úč POD 2-01 a strát
 
 - 3. Úč FO 1-01 Výkaz o príjmoch a výdavkoch
 
 - 4. Úč FO 2-01 Výkaz o majetku a záväzkoch
 
-- VIII. B Národný úrad práce
+- VIII. B Ústredie práce, sociálnych vecí a rodiny
 
 - 1. m01a Mesačný výkaz evidovanej nezamestnanosti
 
@@ -356,17 +370,17 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 1. Štvrťročné hlásenie za štátne podniky vodného hospodárstva
 
-- IX. B Národný úrad práce
+- IX. B Ústredie práce, sociálnych vecí a rodiny
 
 - 1. Štvrťročný výkaz o počte a štruktúre evidovaných nezamestnaných
 
 - X. SOCIÁLNA POISŤOVŇA
 
-- X. A Národný úrad práce
+- X. A Ústredie práce, sociálnych vecí a rodiny
 
 - 1. m01a Mesačný výkaz evidovanej nezamestnanosti
 
-- XI. NÁRODNÝ ÚRAD PRÁCE
+- XI. ÚSTREDIE PRÁCE, SOCIÁLNYCH VECÍ A RODINY
 
 - XI. A Sociálna poisťovňa
 
@@ -388,389 +402,41 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 1. Označenie administratívneho zdroja:
 
-- Súvaha Úč POD 1-01
-
-- Súvaha v plnom rozsahu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za nefinančný sektor a jeho subsektory, za subsektor ostatných finančných sprostredkovateľov, subsektor finančných pomocných inštitúcií a subsektor poisťovacích korporácií a penzijných fondov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA), druhu vlastníctva (DRVLST) a triedenia podľa počtu zamestnancov vykazujúcej jednotky od 0-19 a nad 20 zamestnancov vrátane zoznamu spravodajských jednotiek podľa identifikačného čísla organizácie (ďalej len „IČO“), ktoré sú zahrnuté do spracovania.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 2. Označenie administratívneho zdroja:
-
-- Výsledovka Úč POD 2-01
-
-- Výkaz ziskov a strát v plnom rozsahu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za nefinančný sektor a jeho subsektory, za subsektor ostatných finančných sprostredkovateľov, subsektor finančných pomocných inštitúcií a subsektor poisťovacích korporácií a penzijných fondov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA), druhu vlastníctva (DRVLST) a triedenia podľa počtu zamestnancov vykazujúcej jednotky od 0 do 19 a nad 20 zamestnancov vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 3. Označenie administratívneho zdroja:
-
-- Súvaha Úč PODS 1-01
-
-- Súvaha v skrátenom rozsahu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za nefinančný sektor a jeho subsektory, za subsektor ostatných finančných sprostredkovateľov a subsektor finančných pomocných inštitúcií v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA), druhu vlastníctva (DRVLST) a triedenia podľa počtu zamestnancov vykazujúcej jednotky od 0 do 19 a nad 20 zamestnancov vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 4. Označenie administratívneho zdroja:
-
-- Výsledovka Úč PODS 2-01
-
-- Výkaz ziskov a strát v skrátenom rozsahu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za nefinančný sektor a jeho subsektory, za subsektor ostatných finančných sprostredkovateľov a subsektor finančných pomocných inštitúcií v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA), druhu vlastníctva (DRVLST) a triedenia podľa počtu zamestnancov vykazujúcej jednotky od 0 do 19 a nad 20 zamestnancov vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 5. Označenie administratívneho zdroja:
-
-- Úč RO 2-04 S
-
-- Výkaz o plnení rozpočtu rozpočtových organizácií štátu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné štvrťročné údaje rozpočtových príjmov a výdavkov rozpočtových organizácií ústrednej štátnej správy v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
-
-- Kompletné ročné údaje rozpočtových príjmov a výdavkov rozpočtových organizácií ústrednej štátnej správy podľa odvetvového a ekonomického členenia v súlade s rozpočtovou klasifikáciou, podľa SR-COFOG a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: štvrťročne a ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
-
-- 6. Označenie administratívneho zdroja:
-
-- Úč RO 2-04 S-DOP
-
-- Doplňujúce údaje k prílohe účtovnej závierky rozpočtových organizácií štátu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Ročné doplňujúce údaje rozpočtových príjmov a výdavkov rozpočtových organizácií ústrednej štátnej správy podľa odvetvového a ekonomického členenia v súlade s rozpočtovou klasifikáciou, podľa SK-COFOG a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 7. Označenie administratívneho zdroja:
-
-- Úč RO 2-04 F
-
-- Výkaz údajov o plnení rozpočtu a ďalších doplňujúcich údajov k prílohe účtovnej závierky štátneho fondu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné štvrťročné údaje rozpočtových príjmov a výdavkov štátnych fondov v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
-
-- Podrobné ročné údaje rozpočtových príjmov a výdavkov štátnych účelových fondov podľa odvetvového a ekonomického členenia v súlade s rozpočtovou klasifikáciou, podľa SK-COFOG a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: štvrťročne a ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
-
-- 8. Označenie administratívneho zdroja:
-
-- Úč Rov 2-04
-
-- Výkaz o plnení rozpočtu rozpočtovej organizácie obce alebo vyššieho územného celku
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore miestnej samosprávy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné štvrťročné údaje rozpočtových príjmov a výdavkov rozpočtových organizácií obcí a vyšších územných celkov v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
-
-- Podrobné ročné údaje rozpočtových príjmov a výdavkov rozpočtových organizácií obcí a vyšších územných celkov podľa odvetvového a ekonomického členenia v súlade s rozpočtovou klasifikáciou, podľa SK-COFOG a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: štvrťročne a ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
-
-- 9. Označenie administratívneho zdroja:
-
-- Úč Rov 2-04 DOP
-
-- Doplňujúce údaje k prílohe účtovnej závierky rozpočtových organizácií obce alebo vyššieho územného celku
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore miestnej samosprávy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Doplňujúce ročné údaje rozpočtových príjmov a výdavkov rozpočtových organizácií obcí a vyšších územných celkov podľa odvetvového a ekonomického členenia v súlade s rozpočtovou klasifikáciou, podľa SK-COFOG a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: štvrťročne a ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
-
-- 10. Označenie administratívneho zdroja:
-
-- Úč OV 2-04
-
-- Výkaz o plnení rozpočtu a ďalších doplňujúcich údajov k prílohe účtovnej závierky obce alebo vyššieho územného celku
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore miestnej samosprávy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné štvrťročné údaje za vlastné rozpočtové hospodárenie obcí a vyšších územných celkov v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
-
-- Podrobné ročné údaje za vlastné rozpočtové hospodárenie obcí a vyšších územných celkov podľa odvetvového a ekonomického členenia v súlade s rozpočtovou klasifikáciou, podľa SK-COFOG a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: štvrťročne a ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
-
-- 11. Označenie administratívneho zdroja:
-
-- Súvaha Úč ROPO 3-02 SFOV
+- Súvaha Úč POD 1- 01
 
 - Súvaha
 
 - a) Využitie administratívnych údajov
 
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v sektore verejnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za nefinančný sektor a jeho subsektory, za subsektor ostatných finančných sprostredkovateľov, subsektor finančných pomocných inštitúcií, subsektor poisťovacích korporácií a penzijných fondov a subsektor ústrednej štátnej správy (Slovenská konsolidačná, a. s., a Veriteľ, a. s.) v súlade s medzinárodne platným nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
 
 - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-- Kompletné polročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a príslušný databázový súbor.
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA), druhu vlastníctva (DRVLST) a triedenia podľa počtu zamestnancov vykazujúcej jednotky od 0-19 a nad 20 zamestnancov vrátane zoznamu spravodajských jednotiek podľa identifikačného čísla organizácie (ďalej len „IČO"), ktoré sú zahrnuté do spracovania.
 
-- Kompletné ročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy (ŠÚF a Slovenský pozemkový fond), obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a podľa Štatistickej odvetvovej klasifikácie ekonomickej činnosti (OKEČ) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania, a databázový súbor kompletných údajov aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+- c) Periodicita: štvrťročne a ročne.
 
-- c) Periodicita: polročne a ročne.
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
 
-- d) Lehota na odovzdanie administratívnych údajov: polročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
+- 2. Označenie administratívneho zdroja:
 
-- 12. Označenie administratívneho zdroja:
-
-- Výsledovka Úč ROPO 4-02 SFOV
+- Výkaz ziskov a strát Úč POD 2-01
 
 - Výkaz ziskov a strát
 
 - a) Využitie administratívnych údajov
 
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v sektore verejnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za nefinančný sektor a jeho subsektory, za subsektor ostatných finančných sprostredkovateľov, subsektor finančných pomocných inštitúcií, subsektor poisťovacích korporácií a penzijných fondov a subsektor ústrednej štátnej správy (Slovenská konsolidačná, a. s., a Veriteľ, a. s.) v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
 
 - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-- Kompletné polročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a príslušný databázový súbor.
-
-- Kompletné ročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy (ŠÚF a Slovenský pozemkový fond), obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania, a databázový súbor kompletných údajov aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: polročne a ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: polročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
-
-- 13. Označenie administratívneho zdroja:
-
-- MPO Úč 5-01
-
-- Výkaz o majetku a záväzkoch a príjmoch a výdavkoch príspevkových organizácií obcí
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore miestnej samosprávy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Podrobné údaje o majetku a záväzkoch a príjmov a výdavkov malých príspevkových organizácií podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a príslušný databázový súbor kompletných údajov aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 55. kalendárneho dňa po referenčnom období.
-
-- 14. Označenie administratívneho zdroja:
-
-- Úč 6-01
-
-- Prehľad aktív a pasív obcí
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore miestnej samosprávy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Ročne prehľad aktív a pasív malých obcí podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a príslušný databázový súbor kompletných údajov aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 55. kalendárneho dňa po referenčnom období.
-
-- 15. Označenie administratívneho zdroja:
-
-- Údaje o príjmoch a výdavkoch Fondu národného majetku Slovenskej republiky
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Podrobné údaje o príjmoch a výdavkoch Fondu národného majetku Slovenskej republiky.
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA), druhu vlastníctva (DRVLST) a triedenia podľa počtu zamestnancov vykazujúcej jednotky od 0-19 a nad 20 zamestnancov vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
 
 - c) Periodicita: štvrťročne a ročne.
 
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
 
-- 16. Označenie administratívneho zdroja:
-
-- Súvaha Úč FNM SR 1-01
-
-- Súvaha v plnom rozsahu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alevo komoditnej skladby požadovaných administratívnych údajov.
-
-- Súvaha v plnom rozsahu.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 17. Označenie administratívneho zdroja:
-
-- Úč FNM SR 1-01
-
-- Výkaz o tvorbe a použití Fondu národného majetku Slovenskej republiky
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alevo komoditnej skladby požadovaných administratívnych údajov.
-
-- Výkaz o tvorbe a použití Fondu národného majetku Slovenskej republiky v plnom rozsahu.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 18. Označenie administratívneho zdroja:
-
-- Úč FNM SR 2-01
-
-- Výkaz o čerpaní rozpočtu Fondu národného majetku Slovenskej republiky
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Výkaz o čerpaní rozpočtu Fondu národného majetku Slovenskej republiky v plnom rozsahu.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 19. Označenie administratívneho zdroja:
-
-- Údaje o príjmoch a výdavkoch, pohľadávkach a záväzkoch Sociálnej poisťovne, Národného úradu práce a zdravotných poisťovní
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore fondov sociálneho zabezpečenia v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Podrobné údaje o príjmoch a výdavkoch, pohľadávkach a záväzkoch Sociálnej poisťovne, Národného úradu práce a zdravotných poisťovní za subsektor S.13.14 aj v územnom členení (KRAJ).
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 20. Označenie administratívneho zdroja:
-
-- Výkaz PF Úč 1-01
-
-- Súvaha a výkaz zisku a strát
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore fondov sociálneho zabezpečenia v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné údaje súvahy a výkazu zisku a strát Sociálnej poisťovne, Národného úradu práce a zdravotných poisťovní kumulovane podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 21. Označenie administratívneho zdroja:
-
-- Údaje o príjmoch a výdavkoch Slovenskej konsolidačnej, a. s.
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Podrobné údaje rozpočtových príjmov a výdavkov Slovenskej konsolidačnej, a. s.
-
-- c) Periodicita: štvrťročne a ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
-
-- 22. Označenie administratívneho zdroja:
+- 3. Označenie administratívneho zdroja:
 
 - Súvaha Úč POD 1-01
 
@@ -788,7 +454,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 23. Označenie administratívneho zdroja:
+- 4. Označenie administratívneho zdroja:
 
 - Výsledovka Úč POD 2-01
 
@@ -806,7 +472,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 24. Označenie administratívneho zdroja:
+- 5. Označenie administratívneho zdroja:
 
 - Úč FO 1-01
 
@@ -824,7 +490,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 25. Označenie administratívneho zdroja:
+- 6. Označenie administratívneho zdroja:
 
 - Úč FO 2-01
 
@@ -842,7 +508,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 26. Označenie administratívneho zdroja:
+- 7. Označenie administratívneho zdroja:
 
 - NO Úč 1-01
 
@@ -860,7 +526,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 27. Označenie administratívneho zdroja:
+- 8. Označenie administratívneho zdroja:
 
 - NOVPS Úč 1-01
 
@@ -878,7 +544,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 28. Označenie administratívneho zdroja:
+- 9. Označenie administratívneho zdroja:
 
 - SONO Úč 1-01
 
@@ -896,7 +562,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 29. Označenie administratívneho zdroja:
+- 10. Označenie administratívneho zdroja:
 
 - Úč B 2-01
 
@@ -916,7 +582,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 30. Označenie administratívneho zdroja:
+- 11. Označenie administratívneho zdroja:
 
 - Súvaha Úč B 1-01
 
@@ -936,7 +602,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 31. Označenie administratívneho zdroja:
+- 12. Označenie administratívneho zdroja:
 
 - PO
 
@@ -954,7 +620,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 32. Označenie administratívneho zdroja:
+- 13. Označenie administratívneho zdroja:
 
 - FO typ: A
 
@@ -972,27 +638,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 33. Označenie administratívneho zdroja:
-
-- FO typ: B1 Daňové priznanie k dani z príjmov fyzických osôb
-
-- FO typ: B2 Daňové priznanie k dani z príjmov fyzických osôb
-
-- FO typ: B3 Daňové priznanie k dani z príjmov fyzických osôb
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ) a podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa toho, či sú podnikateľské subjekty zapísané v obchodnom registri, podnikajú na základe živnostenského oprávnenia alebo na základe iného než živnostenského oprávnenia podľa osobitných predpisov, fyzické osoby, ktoré vykonávajú poľnohospodársku výrobu a sú zapísané do evidencie podľa osobitného predpisu, členenie podľa právnej formy daňovníka.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 34. Označenie administratívneho zdroja:
+- 14. Označenie administratívneho zdroja:
 
 - FO typ: C Daňové priznanie k paušálnej dani
 
@@ -1008,7 +654,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 35. Označenie administratívneho zdroja:
+- 15. Označenie administratívneho zdroja:
 
 - Hlásenie o vyúčtovaní dane a o úhrne príjmov fyzických osôb zo závislej činnosti a funkčných požitkov a o zrazených preddavkoch na daň z týchto príjmov
 
@@ -1024,7 +670,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 36. Označenie administratívneho zdroja:
+- 16. Označenie administratívneho zdroja:
 
 - Daňové priznanie - Daň z pridanej hodnoty
 
@@ -1042,7 +688,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: mesačne podľa dohody, štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
 
-- 37. Označenie administratívneho zdroja:
+- 17. Označenie administratívneho zdroja:
 
 - Daňové priznanie - Spotrebná daň
 
@@ -1058,7 +704,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 38. Označenie administratívneho zdroja:
+- 18. Označenie administratívneho zdroja:
 
 - PO
 
@@ -1076,7 +722,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 39. Označenie administratívneho zdroja:
+- 19. Označenie administratívneho zdroja:
 
 - FO
 
@@ -1094,79 +740,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 40. Označenie administratívneho zdroja:
-
-- PO
-
-- Daňové priznanie k dani z dedičstva
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ) a podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa právnej formy daňového subjektu.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 41. Označenie administratívneho zdroja:
-
-- FO
-
-- Daňové priznanie k dani z dedičstva
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ) a podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa právnej formy daňového subjektu.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 42. Označenie administratívneho zdroja:
-
-- PO
-
-- Daňové priznanie k dani z darovania
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ), podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa právnej formy daňového subjektu.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 43. Označenie administratívneho zdroja:
-
-- FO
-
-- Daňové priznanie k dani z darovania
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ) a podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa právnej formy daňového subjektu.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 44. Označenie administratívneho zdroja:
+- 20. Označenie administratívneho zdroja:
 
 - PO
 
@@ -1184,7 +758,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 45. Označenie administratívneho zdroja:
+- 21. Označenie administratívneho zdroja:
 
 - FO
 
@@ -1202,7 +776,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 46. Označenie administratívneho zdroja:
+- 22. Označenie administratívneho zdroja:
 
 - PO
 
@@ -1220,7 +794,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 47. Označenie administratívneho zdroja:
+- 23. Označenie administratívneho zdroja:
 
 - FO
 
@@ -1238,7 +812,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 48. Označenie administratívneho zdroja:
+- 24. Označenie administratívneho zdroja:
 
 - Výsledovka Úč EB 2-01
 
@@ -1256,7 +830,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. apríla po referenčnom období.
 
-- 49. Označenie administratívneho zdroja:
+- 25. Označenie administratívneho zdroja:
 
 - Súvaha Úč EB 1-01
 
@@ -1274,7 +848,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. apríla po referenčnom období.
 
-- 50. Označenie administratívneho zdroja:
+- 26. Označenie administratívneho zdroja:
 
 - Štátny rozpočet Slovenskej republiky
 
@@ -1290,7 +864,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. apríla v referenčnom období.
 
-- 51. Označenie administratívneho zdroja:
+- 27. Označenie administratívneho zdroja:
 
 - Návrh štátneho záverečného účtu Slovenskej republiky
 
@@ -1306,9 +880,325 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
+- 28. Označenie administratívneho zdroja:
+
+- Fin RO 1-04
+
+- Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov rozpočtových organizácií štátu
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Chakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné štvrťročné údaje rozpočtových príjmov a výdavkov rozpočtových organizácií ústrednej štátnej správy v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
+
+- Kompletné ročné údaje príjmov a výdavkov rozpočtových organizácií ústrednej štátnej správy podľa druhu rozpočtu, organizačného členenia, ekonomického členenia, funkčného členenia v súlade s rozpočtovou klasifikáciou a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 29. Označenie administratívneho zdroja:
+
+- Fin PO 3-04
+
+- Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov príspevkových organizácií a štátnych fondov
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy a miestnej samosprávy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné štvrťročné údaje rozpočtových príjmov a výdavkov príspevkových organizácií a štátnych fondov v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
+
+- Podrobné ročné údaje príjmov a výdavkov príspevkových organizácií a štátnych účelových fondov podľa druhu rozpočtu, organizačného členenia, ekonomického členenia, funkčného členenia v súlade s rozpočtovou klasifikáciou a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 30. Označenie administratívneho zdroja:
+
+- Fin SAM 2-04
+
+- Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov obce, vyššieho územného celku a rozpočtových organizácií v ich pôsobnosti
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore miestnej samosprávy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné štvrťročné údaje rozpočtových príjmov a výdavkov rozpočtových organizácií obcí a vyšších územných celkov v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
+
+- Podrobné ročné údaje príjmov a výdavkov rozpočtových organizácií obcí a vyšších územných celkov podľa druhu rozpočtu, organizačného členenia, ekonomického členenia, funkčného členenia v súlade s rozpočtovou klasifikáciou a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 31. Označenie administratívneho zdroja:
+
+- Súvaha Úč NUJ 1-01
+
+- Súvaha
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve, v sektore neziskových inštitúcií slúžiacich domácnostiam (S.15) a v subsektore ústrednej štátnej správy (Slovenský pozemkový fond a verejné vysoké školy).
+
+- b) Chakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Súvaha v triedení podľa sektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ), podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), právnej formy (FORMA), druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 32. Označenie administratívneho zdroja:
+
+- Výkaz ziskov a strát Úč ROPO SFOV 2-01
+
+- Výkaz ziskov a strát
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v sektore verejnej správy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné štvrťročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a príslušný databázový súbor.
+
+- Kompletné ročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania, a databázový súbor kompletných údajov aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 33. Označenie administratívneho zdroja:
+
+- Výsledovka Úč NUJ 2-01
+
+- Výkaz ziskov a strát
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve, v sektore neziskových inštitúcií slúžiacich domácnostiam (S.15) v subsektore ústrednej štátnej správy (Slovenský pozemkový fond a verejné vysoké školy).
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Výkaz ziskov a strát v triedení podľa sektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ), podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), právnej formy (FORMA), druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 34. Označenie administratívneho zdroja:
+
+- MPO Úč 1-01
+
+- Výkaz o majetku a záväzkoch a príjmoch a výdavkoch príspevkových organizácií
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore miestnej samosprávy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Podrobné údaje o majetku a záväzkoch a príjmoch a výdavkov malých príspevkových organizácií podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a príslušný databázový súbor kompletných údajov aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 35. Označenie administratívneho zdroja:
+
+- Súvaha Úč ROPO SFOV 1-01
+
+- Súvaha
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v sektore verejnej správy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné štvrťročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a príslušný databázový súbor.
+
+- Kompletné ročné údaje za sektor verejnej správy v triedení za rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce, vyššie územné celky podľa subsektorov verejnej správy systému národných účtov ESNÚ95 a podľa Štatistickej odvetvovej klasifikácie ekonomickej činnosti (OKEČ) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania, a databázový súbor kompletných údajov aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 36. Označenie administratívneho zdroja:
+
+- Fin OST 4-04
+
+- Výkaz o plnení rozpočtu ostatných subjektov, ktorých rozpočty tvoria verejný rozpočet
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy a fondoch sociálneho zabezpečenia v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné štvrťročné údaje rozpočtových príjmov a výdavkov FNM SR, SPF SR, Sociálnej poisťovne, zdravotných poisťovní, verejných vysokých škôl, Slovenskej konsolidačnej, a. s., a Veriteľa, a. s., v zmysle rekapitulácie podľa funkčného a ekonomického členenia v súlade s rozpočtovou klasifikáciou a príslušný databázový súbor.
+
+- Kompletné ročné údaje príjmov a výdavkov FNM SR, SPF SR, Sociálnej poisťovne, zdravotných poisťovní, verejných vysokých škôl, Slovenskej konsolidačnej, a. s., a Veriteľa, a. s., podľa druhu rozpočtu, ekonomického členenia, funkčného členenia v súlade s rozpočtovou klasifikáciou a členenia podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95 a databázový súbor aj s územným členením (KRAJ) a Štatistickou odvetvovou klasifikáciou ekonomických činností (OKEČ 2).
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 37. Označenie administratívneho zdroja:
+
+- Súvaha Úč FNM SR 1-01
+
+- Súvaha Fondu národného majetku Slovenskej republiky
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Súvaha v plnom rozsahu.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 38. Označenie administratívneho zdroja:
+
+- Úč FNM SR 1-01
+
+- Výkaz o tvorbe a použití majetku Fondu národného majetku Slovenskej republiky
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Výkaz o tvorbe a použití majetku Fondu národného majetku Slovenskej republiky v plnom rozsahu.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 39. Označenie administratívneho zdroja:
+
+- Úč FNM SR 2-01
+
+- Výkaz o nákladoch na správnu činnosť Fondu národného majetku Slovenskej republiky
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore ústrednej štátnej správy v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Výkaz o nákladoch na správnu činnosť Fondu národného majetku Slovenskej republiky v plnom rozsahu.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 40. Označenie administratívneho zdroja:
+
+- Súvaha Úč PF 1-01
+
+- Súvaha
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore fondov sociálneho zabezpečenia v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné údaje súvahy Sociálnej poisťovne a zdravotných poisťovní kumulovane podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 41. Označenie administratívneho zdroja:
+
+- Výsledovka Úč PF 2-01
+
+- Výkaz ziskov a strát
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v subsektore fondov sociálneho zabezpečenia v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné údaje výkazu ziskov a strát Sociálnej poisťovne a zdravotných poisťovní kumulovane podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) systému národných účtov ESNÚ95.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 42. Označenie administratívneho zdroja:
+
+- Výkaz NO Úč 1-01
+
+- Výkaz o príjmoch a výdavkoch
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve a v sektore neziskových inštitúcií slúžiacich domácnostiam (S.15).
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné údaje o príjmoch a výdavkoch neziskových organizácií v triedení sektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ) podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), právnej formy (FORMA), druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 43. Označenie administratívneho zdroja:
+
+- Výkaz NO Úč 2-01
+
+- Výkaz o majetku a záväzkoch
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve a v sektore neziskových inštitúcií slúžiacich domácnostiam (S.15).
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Kompletné údaje o majetku a záväzkoch neziskových organizácií v triedení sektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ) podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), právnej formy (FORMA), druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
+- 44. Označenie administratívneho zdroja:
+
+- Súhrnný výkaz - Daň z pridanej hodnoty
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavenie štatistiky obchodovania s tovarom medzi členskými štátmi Spoločenstva v súlade s nariadením Rady (EHS) č. 3330/1991 o štatistike obchodovania s tovarom medzi členskými štátmi v znení neskorších predpisov.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Údaje v rozsahu potrebnom na zostavenie štatistiky obchodovania s tovarom medzi členskými štátmi.
+
+- c) Periodicita: štvrťročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 55. kalendárneho dňa po referenčnom období.
+
 - I. A1 Inštitúcia disponujúca administratívnym zdrojom: Colné riaditeľstvo
 
-- 52. Označenie administratívneho zdroja:
+- 45. Označenie administratívneho zdroja:
 
 - Jednotný colný doklad pozostávajúci z ôsmich výtlačkov
 
@@ -1370,7 +1260,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 3-12
 
-- Mesačný výkaz o úveroch
+- Mesačný výkaz o úveroch v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1388,7 +1278,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 5-12
 
-- Mesačný výkaz o vkladoch a prijatých úveroch
+- Mesačný výkaz o vkladoch a prijatých úveroch v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1406,7 +1296,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 7-12
 
-- Mesačný výkaz o stave úverov a priemerných úrokových mier v členení podľa druhu úverov
+- Mesačný výkaz o stave úverov v slovenských korunách a o výške priemerných úrokových mier
 
 - a) Využitie administratívnych údajov
 
@@ -1442,7 +1332,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 9-12
 
-- Mesačný výkaz o čerpaní úverov a výške priemerných úrokových mier v členení podľa druhu úverov
+- Mesačný výkaz o čerpaní úverov v slovenských korunách a o výške priemerných úrokových mier
 
 - a) Využitie administratívnych údajov
 
@@ -1460,7 +1350,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 91-12
 
-- Mesačný výkaz o čerpaní úverov poskytnutých v aktuálnom roku a výške priemerných úrokových mier v členení podľa časového hľadiska
+- Mesačný výkaz o čerpaní úverov v slovenských korunách poskytnutých v aktuálnom mesiaci a o výške priemerných úrokových mier
 
 - a) Využitie administratívnych údajov
 
@@ -1478,7 +1368,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 10-12
 
-- Hlásenie o úrokových sadzbách za vklady a úvery
+- Hlásenie o úrokových sadzbách za vklady a úvery v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1496,7 +1386,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 11-12
 
-- Mesačný výkaz o stave vkladov a výške priemerných úrokových mier v členení podľa časového hľadiska
+- Mesačný výkaz o stave vkladov v slovenských korunách a o výške priemerných úrokových mier
 
 - a) Využitie administratívnych údajov
 
@@ -1514,7 +1404,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 12-12
 
-- Mesačný výkaz o úverových a vkladových medzibankových obchodoch
+- Mesačný výkaz o úverových a vkladových medzibankových obchodoch v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1586,7 +1476,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 18-12
 
-- Mesačný výkaz o transakciách na účtoch nerezidentov v slovenských korunách
+- Mesačný výkaz o stavoch a transakciách na účtoch nerezidentov v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1604,7 +1494,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 31-01
 
-- Ročný výkaz o úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností
+- Ročný výkaz o úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1622,7 +1512,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 32-01
 
-- Ročný výkaz o úveroch podľa krajov
+- Ročný výkaz o úveroch podľa krajov v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1640,7 +1530,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - V (NBS) 51-01
 
-- Ročný výkaz o vkladoch a prijatých úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností
+- Ročný výkaz o vkladoch a prijatých úveroch podľa Štatistickej odvetvovej klasifikácie ekonomických činností v slovenských korunách
 
 - a) Využitie administratívnych údajov
 
@@ -1694,7 +1584,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - Dev (NBS) 17-12
 
-- Mesačný výkaz o devízových transakciách na účtoch nerezidentov v konvertibilných menách
+- Mesačný výkaz o devízových transakciách a stavoch na účtoch nerezidentov v konvertibilných menách
 
 - a) Využitie administratívnych údajov
 
@@ -1882,7 +1772,243 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- I. C Inštitúcia disponujúca administratívnym zdrojom: Národný úrad práce
+- 32. Označenie administratívneho zdroja:
+
+- M (NBS) 1-12
+
+- Mesačná štatistická bilancia
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Mesačná štatistická bilancia aktív a pasív triedená podľa inštitucionálnych sektorov.
+
+- c) Periodicita: mesačne, štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 33. Označenie administratívneho zdroja:
+
+- M (NBS) 2-12
+
+- Mesačný výkaz o preceneniach súvahových položiek
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Mesačný výkaz o preceneniach súvahových položiek.
+
+- c) Periodicita: mesačne, štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 34. Označenie administratívneho zdroja:
+
+- M (NBS) 3-12
+
+- Mesačný výkaz o reklasifikáciách súvahových položiek
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Mesačný výkaz o reklasifikáciách súvahových položiek podľa inštitucionálnych sektorov.
+
+- c) Periodicita: mesačne, štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 35. Označenie administratívneho zdroja:
+
+- M (NBS) 4-04
+
+- Štvrťročný výkaz o menovej štruktúre súvahových položiek
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Štvrťročný výkaz o menovej štruktúre súvahových položiek podľa inštitucionálnych sektorov.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 36. Označenie administratívneho zdroja:
+
+- M (NBS) 5-04
+
+- Štvrťročný rozpis súvahových položiek podľa krajín
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Štvrťročný rozpis súvahových položiek podľa krajín.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 37. Označenie administratívneho zdroja:
+
+- M (NBS) 10-12
+
+- Mesačný výkaz o nových úveroch poskytnutých v aktuálnom mesiaci v slovenských korunách a o výške priemerných úrokových mier
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Mesačný výkaz o nových úveroch poskytnutých v slovenských korunách podľa inštitucionálnych sektorov.
+
+- c) Periodicita: mesačne, štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 38. Označenie administratívneho zdroja:
+
+- M (NBS) 11-12
+
+- Mesačný výkaz o nových vkladoch prijatých v aktuálnom mesiaci v slovenských korunách a o výške priemerných úrokových mier
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Mesačný výkaz o nových vkladoch prijatých v slovenských korunách podľa inštitucionálnych sektorov.
+
+- c) Periodicita: mesačne, štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 39. Označenie administratívneho zdroja:
+
+- M (NBS) 61-12
+
+- Mesačná štatistická bilancia podielových fondov peňažného trhu
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Mesačná bilancia podielových fondov peňažného trhu vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita: mesačne, štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 40. Označenie administratívneho zdroja:
+
+- M (NBS) 71-04
+
+- Štvrťročná štatistická bilancia podielových fondov iných ako podielové fondy peňažného trhu
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Štvrťročná bilancia podielových fondov iných ako podielové fondy peňažného trhu vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov:
+
+- štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 41. Označenie administratívneho zdroja:
+
+- Dev (NBS)14-04
+
+- Štvrťročný výkaz o devízových inkasách a platbách podľa geografického členenia v konvertibilných menách
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Štvrťročný výkaz o devízových inkasách a platbách podľa geografického členenia v konvertibilných menách.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 42. Označenie administratívneho zdroja:
+
+- Dev (NBS)19-04
+
+- Štvrťročný výkaz o devízových inkasách a platbách v členení podľa mien
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Štvrťročný výkaz o devízových inkasách a platbách v členení podľa mien.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 43. Označenie administratívneho zdroja:
+
+- V (NBS) 24-04
+
+- Štvrťročný výkaz o inkasách a platbách v slovenských korunách na účtoch nerezidentov podľa geografického členenia
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Štvrťročný výkaz o inkasách a platbách v slovenských korunách na účtoch nerezidentov podľa geografického členenia.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- 44. Označenie administratívneho zdroja:
+
+- E (NBS)1-04
+
+- Prehľad o rozvoji peňažného sektora v Slovenskej republike
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve a na zabezpečenie štrukturálnych zisťovaní za finančné korporácie.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Prehľad o rozvoji peňažného sektora.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+- I. C Inštitúcia disponujúca administratívnym zdrojom: Ústredie práce, sociálnych vecí a rodiny
 
 - 1. Označenie administratívneho zdroja:
 
@@ -2390,7 +2516,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 1. Označenie administratívneho zdroja:
 
-- Súvaha Úč ROPO 3-02 SFOV
+- Súvaha Úč ROPO SFOV 1-01
 
 - Súvaha
 
@@ -2408,11 +2534,11 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 2. Označenie administratívneho zdroja:
+  - 2. Označenie administratívneho zdroja:
 
-- Úč Rov 2-04
+- Výkaz ziskov a strát Úč ROPO SFOV 2-01
 
-- Výkaz o plnení rozpočtu rozpočtovej organizácie obce alebo vyššieho územného celku
+- Výkaz ziskov a strát
 
 - a) Využitie administratívnych údajov
 
@@ -2428,31 +2554,13 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 3. Označenie administratívneho zdroja:
 
-- Úč Rov 2-04 DOP
+- FIN SAM 2-04
 
-- Dopĺňajúce údaje k prílohe účtovnej závierky rozpočtových organizácií obce alebo vyššieho územného celku
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie štatistickej ročenky školstva Súbor ekonomických ukazovateľov, v riadiacej a rozhodovacej činnosti v školstve a v medzinárodných štatistikách.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Údaje za školy a školské zariadenia v pôsobnosti vyšších územných celkov, obce v triedení podľa jednotlivých druhov škôl a školských zariadení.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 4. Označenie administratívneho zdroja:
-
-- Výsledovka Úč ROPO 4-02 SFOV
-
-- Výkaz ziskov a strát
+- Výkaz o plnení rozpočtu a o plnení vybraných finančných ukazovateľov obce, vyššieho územného celku a rozpočtových organizácií v ich pôsobnosti
 
 - a) Využitie administratívnych údajov
 
-- Administratívne zdroje údajov sa využijú na zostavovanie štatistickej ročenky školstva Súbor ekonomických ukazovateľov, v riadiacej a rozhodovacej činnosti v školstve a v medzinárodných štatistikách.
+- Administratívne zdroje údajov sa využijú na zostavovanie štatistickej ročenky školstva Súbor ekonomických ukazovateľov, v riadiacej a rozhodovacej činnosti v školstve a medzinárodných štatistikách.
 
 - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
@@ -2468,7 +2576,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 1. Označenie administratívneho zdroja:
 
-- Výsledovka Úč ROPO 4-02 SFVO
+- Výkaz ziskov a strát Úč ROPO SFOV 2-01
 
 - Výkaz ziskov a strát
 
@@ -2480,13 +2588,13 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ 95 a odvetví ekonomickej činnosti, právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
 
-- c) Periodicita: polročne.
+- c) Periodicita: ročne.
 
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júla a do 31. januára po referenčnom období.
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
 
 - 2. Označenie administratívneho zdroja:
 
-- Súvaha Úč ROPO 3-02 SFVO
+- Súvaha Úč ROPO SFOV 1-01
 
 - Súvaha
 
@@ -2498,63 +2606,81 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ 95 a odvetví ekonomickej činnosti, právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
 
-- c) Periodicita: polročne.
+- c) Periodicita: ročne.
 
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júla a do 31. januára po referenčnom období.
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
 
 - 3. Označenie administratívneho zdroja:
 
-- SONO Úč 1-01
+- Súvaha Úč POD 1-01
 
-- Súvaha a výkaz ziskov a strát nezárobkových organizácií
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, Eurostatu.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ 95 a odvetví ekonomickej činnosti, právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 4. Označenie administratívneho zdroja:
-
-- Výkaz NO Úč 1-01
-
-- Výkaz o príjmoch a výdavkoch a majetku a záväzkoch
+- Súvaha
 
 - a) Využitie administratívnych údajov
 
-- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, Eurostatu.
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
 
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
 
-- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ 95 a odvetví ekonomickej činnosti, právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-- 5. Označenie administratívneho zdroja:
-
-- Výkaz NOVPS Úč 1-01
-
-- Súvaha a výkaz ziskov a strát
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, Eurostatu.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ 95 a odvetví ekonomickej činnosti, právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
 
 - c) Periodicita: ročne.
 
-- d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
+
+  - 4. Označenie administratívneho zdroja:
+
+- Výkaz ziskov a strát Úč POD 2-01
+
+- Výkaz ziskov a strát
+
+- a) Využitie administratívnych údajov:
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
+
+  - 5. Označenie administratívneho zdroja:
+
+- Úč FO 1-01
+
+- Výkaz o príjmoch a výdavkoch
+
+- a) Využitie administratívnych údajov:
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
+
+- 6. Označenie administratívneho zdroja:
+
+- Úč FO 2-01
+
+- Výkaz o majetku a záväzkoch
+
+- a) Využitie administratívnych údajov:
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
 
 - IV. B Inštitúcia disponujúca administratívnym zdrojom: Sociálna poisťovňa
 
@@ -2574,13 +2700,79 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 1. kalendárneho dňa druhého nasledujúceho mesiaca po zápise I. dielu tlačiva práceneschopnosti.
 
+- IV. C Inštitúcia disponujúca administratívnym zdrojom: Všeobecná zdravotná poisťovňa
+
+- 1. Označenie administratívneho zdroja:
+
+- Lekárske predpisy - Dávka 137
+
+- a) Využitie administratívnych údajov:
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
+
+- 2. Označenie administratívneho zdroja:
+
+- Vykazovanie kapitácie – Dávka 148
+
+- a) Využitie administratívnych údajov:
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
+
+- 3. Označenie administratívneho zdroja:
+
+- Lekárske predpisy - Vykazovanie výkonov a ambulantnej starostlivosti - Dávka 153
+
+- a) Využitie administratívnych údajov:
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
+
+- 4. Označenie administratívneho zdroja:
+
+- Vykazovanie výkonov v lôžkovej starostlivosti - Dávka 173
+
+- a) Využitie administratívnych údajov:
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ–605/2000 pre poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov:
+
+- Kompletné údaje za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95 a odvetví ekonomickej činnosti, právnej formy (FORMA) a druhu vlastníctva (DRVLST) vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré vstúpili do spracovania.
+
+- c) Periodicita: ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
+
 - V. Administratívne zdroje údajov, ktoré využíva MINISTERSTVO KULTÚRY SLOVENSKEJ REPUBLIKY
 
 - V. A Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo financií Slovenskej republiky
 
 - 1. Označenie administratívneho zdroja:
 
-- Súvaha Úč ROPO 3-02 SFOV
+- Súvaha Úč ROPO SFOV 1-01
 
 - Súvaha
 
@@ -2598,7 +2790,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 2. Označenie administratívneho zdroja:
 
-- Výsledovka Úč ROPO 4-02 SFOV
+- Výkaz ziskov a strát Úč ROPO SFOV 2-01
 
 - Výkaz ziskov a strát
 
@@ -2694,7 +2886,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - Súvaha Úč POD 1-01
 
-- Súvaha v plnom rozsahu
+- Súvaha
 
 - a) Využitie administratívnych údajov
 
@@ -2710,49 +2902,13 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 2. Označenie administratívneho zdroja:
 
-- Výsledovka Úč POD 2-01
+- Súvaha Úč POD 1-01
 
-- Výkaz ziskov a strát v plnom rozsahu
+- Výkaz ziskov a strát
 
 - a) Využitie administratívnych údajov
 
 - Administratívne zdroje sa využívajú pri analýze vývoja a predikcii vývoja v priemysle Slovenskej republiky a pri tvorbe hospodárskej politiky.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletne za hospodárstvo Slovenskej republiky spolu, v triedení podľa kategórií hospodárstva Slovenskej republiky, odvetví priemyslu Slovenskej republiky, a to v dvoj- a trojmiestnom členení a druhu vlastníctva (súkromný sektor domáci, súkromný sektor zahraničný a medzinárodný a verejný sektor).
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 31. decembra po referenčnom období.
-
-- 3. Označenie administratívneho zdroja:
-
-- Súvaha Úč PODS 1-01
-
-- Súvaha v skrátenom rozsahu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na analýzu vývoja a predikciu vývoja v priemysle Slovenskej republiky a pri tvorbe hospodárskej politiky.
-
-- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-- Kompletne za hospodárstvo Slovenskej republiky spolu, v triedení podľa kategórií hospodárstva Slovenskej republiky, odvetví priemyslu Slovenskej republiky, a to v dvoj- a trojmiestnom členení a druhu vlastníctva (súkromný sektor domáci, súkromný sektor zahraničný a medzinárodný a verejný sektor).
-
-- c) Periodicita: ročne.
-
-- d) Lehota na odovzdanie administratívnych údajov: do 31. decembra po referenčnom období.
-
-- 4. Označenie administratívneho zdroja:
-
-- Výsledovka Úč PODS 2-01
-
-- Výkaz ziskov a strát v skrátenom rozsahu
-
-- a) Využitie administratívnych údajov
-
-- Administratívne zdroje údajov sa využijú na analýzu vývoja a predikciu vývoja v priemysle Slovenskej republiky a pri tvorbe hospodárskej politiky.
 
 - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
@@ -2770,7 +2926,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - Súvaha Úč POD 1-01
 
-- Súvaha v plnom rozsahu
+- Súvaha
 
 - a) Využitie administratívnych údajov
 
@@ -2790,9 +2946,9 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 2. Označenie administratívneho zdroja:
 
-- Výsledovka Úč POD 2-01
+- Výkaz ziskov a strát Úč POD 2-01
 
-- Výkaz ziskov a strát v plnom rozsahu
+- Výkaz ziskov a strát
 
 - a) Využitie administratívnych údajov
 
@@ -2854,7 +3010,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 31. mája po referenčnom období.
 
-- VIII. B Inštitúcia disponujúca administratívnym zdrojom: Národný úrad práce
+- VIII. B Inštitúcia disponujúca administratívnym zdrojom: Ústredie práce, sociálnych vecí a rodiny
 
 - 1. Označenie administratívneho zdroja:
 
@@ -2898,7 +3054,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 5. kalendárneho dňa po referenčnom období.
 
-- IX. B Inštitúcia disponujúca administratívnym zdrojom: Národný úrad práce
+- IX. B Inštitúcia disponujúca administratívnym zdrojom: Ústredie práce, sociálnych vecí a rodiny
 
 - 1. Označenie administratívneho zdroja: Štvrťročný výkaz o počte a štruktúre evidovaných nezamestnaných
 
@@ -2916,7 +3072,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - X. Administratívne zdroje údajov, ktoré využíva SOCIÁLNA POISŤOVŇA
 
-- X. A Inštitúcia disponujúca administratívnym zdrojom: Národný úrad práce
+- X. A Inštitúcia disponujúca administratívnym zdrojom: Ústredie práce, sociálnych vecí a rodiny
 
 - 1. Označenie administratívneho zdroja:
 
@@ -2936,7 +3092,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 20. kalendárneho dňa po referenčnom období.
 
-- XI. Administratívne zdroje údajov, ktoré využíva NÁRODNÝ ÚRAD PRÁCE
+- XI. Administratívne zdroje údajov, ktoré využíva: Ústredie práce, sociálnych vecí a rodiny
 
 - XI. A. Inštitúcia disponujúca administratívnym zdrojom: Sociálna poisťovňa
 

@@ -2184,7 +2184,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - 33. Dop P 10-01 Ročný podnikový výkaz v potrubnej doprave
 
-- 34. PaT 2-01 Ročný výkaz v poštách a v telekomunikáciách
+- 34. PaT 2-01 Ročný výkaz o doručovateľských službách
 
 - 35. CR 6-01 Ročný výkaz o vybraných službách v cestovnom ruchu
 
@@ -2210,7 +2210,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - V. Ostatné štatistiky
 
-- 45. OŽP 1-01 Ročný výkaz o pokutách uložených odbormi životného prostredia okresných úradov
+- 45. OŽP 1-01 Ročný výkaz o pokutách uložených obvodnými úradmi životného prostredia
 
 - 46. OŽP 2-01 Ročný výkaz o pokutách uložených inšpektorátmi Slovenskej inšpekcie životného prostredia
 
@@ -3340,7 +3340,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
-- 34. Názov zisťovania: Ročný výkaz v poštách a v telekomunikáciách
+  - 34. Názov zisťovania: Ročný výkaz o doručovateľských službách
 
 - Značka štatistického formulára: PaT 2-01
 
@@ -3714,7 +3714,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky - príslušná krajská správa.
 
-- 45. Názov zisťovania: Ročný výkaz o pokutách uložených odbormi životného prostredia okresných úradov
+  - 45. Názov zisťovania: Ročný výkaz o pokutách uložených obvodnými úradmi životného prostredia
 
 - Značka štatistického formulára: OŽP 1-01
 
