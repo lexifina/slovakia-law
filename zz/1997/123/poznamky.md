@@ -10,4 +10,4 @@
 
 - 6) Napríklad zákon č. 445/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, Obchodný zákonník.
 
-- 7) § 108 ods. 1 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
+- 7) § 108 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
