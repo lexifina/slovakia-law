@@ -1,1 +1,0 @@
-Príloha vyhlášky Ministerstva vnútra Slovenskej republiky č. 116/1995 Z. z. [Vzor potvrdenia o zaplatení turistických služieb](../assets/3389287b962d2fd095cb487bea7705a312c6718a066970a9e6ba99cc26442f57.pdf)
