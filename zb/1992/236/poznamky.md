@@ -1,0 +1,1 @@
+- 1) § 23 zákona č. 143/1992 Zb. o plate o odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciach a orgánoch.
