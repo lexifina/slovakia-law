@@ -1,1 +1,0 @@
-- *) Vyhláška č. 159/1970 Zb. o poskytovaní odmien pri významných pracovných a životných výročiach.
