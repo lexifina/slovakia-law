@@ -1,0 +1,5 @@
+# § 81a
+
+(1) Zamestnanec obchodníka s cennými papiermi alebo organizátora verejného trhu nesmie byť zároveň zamestnancom iného obchodníka s cennými papiermi alebo iného organizátora verejného trhu. Zamestnanec strediska nesmie byť zároveň zamestnancom obchodníka s cennými papiermi alebo organizátora verejného trhu.
+
+(2) Poslanec Národnej rady Slovenskej republiky, zamestnanec ústredného orgánu štátnej správy Slovenskej republiky, Kancelárie prezidenta Slovenskej republiky, Kancelárie Národnej rady Slovenskej republiky, Najvyššieho kontrolného úradu Slovenskej republiky, Slovenskej informačnej služby, Najvyššieho súdu Slovenskej republiky, Ústavného súdu Slovenskej republiky, Centra kupónovej privatizácie Slovenskej republiky nesmie byť zamestnancom, štatutárnym orgánom alebo jeho členom alebo členom dozornej rady obchodníka s cennými papiermi, strediska, organizátora verejného trhu alebo maklérom.
