@@ -1,34 +1,4 @@
-Príloha vyhlášky č. 74/1961 Zb. Oddiel 1
-
-Sadzby náhrad za používanie vlastných osobných vozidiel pri vonkajších výkonoch
-
-Položka 11 Sadzby náhrad za 1 km jazdy pri používaní vlastných osobných vozidiel pri vonkajších úkonoch sú:
-
-Druh vozidla | obsah valcov v ccm | | Kčs
-
-| nad | do |
-
-a) motorový bicykel, motocykel, skúter | | 100 | 0,13
-
-| 100 | 150 | 0,20
-
-| 150 | 250 | 0,22
-
-| 250 | 350 | 0,25
-
-| 350 | | 0,30
-
-b) motocykel s postranným vozíkom, trojkolka | 150 | | 0,32
-
-c) osobný automobil | | 750 | 0,45
-
-| 750 | 1100 | 0,55
-
-| 1100 | 1500 | 0,60
-
-| 1500 | 2000 | 0,70
-
-| 2000 | | 0,80
+Príloha vyhlášky č. 74/1961 Zb. Oddiel 1 - Zrušený od 29. 4. 1965.
 
 Oddiel 2
 
