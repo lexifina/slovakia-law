@@ -90,6 +90,8 @@
 
 - 39) Zákon č. 283/2002 Z. z.
 
+- 39a) § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 534/2002 Z. z.
+
 - 40) § 76 zákona č. 380/1997 Z. z.
 
 - 41) Zákon č. 420/1991 Zb. v znení neskorších predpisov.
