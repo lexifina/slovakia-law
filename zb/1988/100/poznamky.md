@@ -14,6 +14,8 @@
 
 - 1g) Napríklad zákon č. 96/1991 Zb. o verejných kultúrnych podujatiach.
 
+- 1ga) § 652 až 672 Obchodného zákonníka.
+
 - 1h) § 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
 - 1ch) Napríklad zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky.Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe.Zákon Národnej rady Slovenskej republiky č. 61/1993 Z. z. o zriadení Železničnej polície Slovenskej republiky. Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
