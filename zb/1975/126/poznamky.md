@@ -1,1 +1,0 @@
-- 1) Vyhláška č. 200/1968 Zb. o mzdovom zvýhodnení práce cez soboty a nedele; mzdové predpisy vydané ústrednými orgánmi na vykonávanie zásad racionalizácie mzdových sústav podľa uznesenia vlády ČSSR z 3. mája 1973 č. 128.
