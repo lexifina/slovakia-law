@@ -502,7 +502,11 @@ Príloha č. 2 k nariadeniu vlády č. 298/2003 Z. z.
 
     - b) identifikácia prevádzkarne alebo lodnej továrne jej úradným schvaľovacím číslom, alebo, ak ide o predaj z mraziarenskej lode, na ktorú sa vzťahuje príloha č. 3 časť C bod 7, identifikačným číslom tejto lode, alebo ak ide o samostatnú registráciu aukčného alebo veľkoobchodného trhu podľa § 7 ods. 3, registračným číslom tohto aukčného alebo veľkoobchodného trhu; prevádzkarne, na ktoré sa vzťahujú dočasné výnimky z plnenia hygienických podmienok podľa osobitného predpisu,<sup>13</sup>) používajú až do schválenia prevádzkarne príslušným orgánom veterinárnej správy<sup>14</sup>) veterinárne kontrolné číslo, ktoré obsahuje skratku názvu okresu,<sup>15</sup>) a kontrolné číslo prevádzkarne pridelené príslušným orgánom veterinárnej správy,<sup>16</sup>)
 
+    - c) jedna zo skratiek názvu Európskych spoločenstiev podľa smernice Európskych spoločenstiev uvedenej v prílohe č. 1 bode 1; skratka „ES“ sa pre produkty rybolovu pochádzajúce zo Slovenskej republiky použije až po dni platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii.
+
   - 3. Všetky písmená a číslice označenia podľa bodu 2 musia byť úplne čitateľné a združené na obale na mieste, kde sú viditeľné z vonkajšej strany bez toho, aby bolo potrebné otvárať uvedený obal.
+
+  - 4. Produkty rybolovu určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarne podľa § 7 ods. 4, ktorej bola uznaná požiadavka na výnimky v prechodnom období, najdlhšie však do 31. decembra 2006, sa označujú po dni platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii veterinárnym kontrolným číslom, ktoré obsahuje skratku názvu okresu<sup>15</sup>) a kontrolné číslo prevádzkarne pridelené príslušným orgánom veterinárnej správy.<sup>16</sup>) Výrobky tejto prevádzkarne a ich obaly musia okrem toho byť jednotlivo označené slovami „Určené výlučne na domáci trh v Slovenskej republike“. Všetky písmená a číslice tohto označenia musia byť úplne čitateľné a združené na obale na mieste, kde sú viditeľné z vonkajšej strany bez toho, aby bolo potrebné otvárať uvedený obal. Táto prevádzkareň nemôže uvádzať na trh nebalené produkty rybolovu, ktoré nemožno označiť uvedeným spôsobom.
 
 - ČASŤ H SKLADOVANIE A PREPRAVA PRODUKTOV RYBOLOVU
 
