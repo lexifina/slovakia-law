@@ -2,7 +2,7 @@ Príloha č. 14 k vyhláške č. 283/2001 Z. z.
 
 - HRANIČNÉ HODNOTY UKAZOVATEĽOV PRE VODNÝ VÝLUH ODPADU, KTORÝ NIE JE NEBEZPEČNÝ | Ukazovateľ | Jednotka | Hraničná hodnota
 
-- 1 | pH | - | 5,5 - 10
+- 1 | pH | - | 5,5 - 13
 
 - 2 | vodivosť | mS/m | 1000
 
@@ -22,9 +22,13 @@ Príloha č. 14 k vyhláške č. 283/2001 Z. z.
 
 - 10 | aniónaktívne tenzidy<sup>2</sup>) | mg/l | 2,0
 
-- 11 | vápnik | mg/l | <sup>3</sup>)
+- 11 | vápnik | mg/l |
 
-- 12 | horčík | mg/l | <sup>3</sup>)
+- <sup>3</sup>)
+
+- 12 | horčík | mg/l |
+
+- <sup>3</sup>)
 
 - 13 | hliník | mg/l | 50
 
@@ -44,7 +48,9 @@ Príloha č. 14 k vyhláške č. 283/2001 Z. z.
 
 - 21 | chróm celkový | mg/l | 50,0
 
-- 22 | železo | mg/l | <sup>3</sup>)
+- 22 | železo | mg/l |
+
+- <sup>3</sup>)
 
 - 23 | kobalt | mg/l | 10
 
@@ -70,19 +76,29 @@ Príloha č. 14 k vyhláške č. 283/2001 Z. z.
 
 - 34 | fluoridy | mg/l | 50,0
 
-- 35 | amónne ióny | mg/l | <sup>3</sup>)
+- 35 | amónne ióny | mg/l |
 
-- 36 | chloridy | mg/l | <sup>3</sup>)
+- <sup>3</sup>)
+
+- 36 | chloridy | mg/l |
+
+- <sup>3</sup>)
 
 - 37 | kyanidy celkové | mg/l | 20,0
 
 - 38 | kyanidy ľahko uvoľniteľné | mg/l | 10,0
 
-- 39 | dusičnany | mg/l | <sup>3</sup>)
+- 39 | dusičnany | mg/l |
 
-- 40 | dusitany | mg/l | <sup>3</sup>)
+- <sup>3</sup>)
 
-- 41 | fosforečnany celkové | mg/l | <sup>3</sup>)
+- 40 | dusitany | mg/l |
+
+- <sup>3</sup>)
+
+- 41 | fosforečnany celkové | mg/l |
+
+- <sup>3</sup>)
 
 - 42 | sírany | mg/l | <sup>3</sup>)
 

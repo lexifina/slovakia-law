@@ -64,13 +64,13 @@ Príloha č. 4 k vyhláške č. 283/2001 Z. z. [Vzor 04](../assets/0b119990250df
 
 - V stĺpci 5 sa pri nebezpečných odpadoch uvedie Y-kód podľa prílohy č. 3 k vyhláške č. 284/2001 Z. z. v znení vyhlášky č. 409/2002 Z. z. s kódmi podľa tabuliek 1A, 1B a 1C. V prípade viacerých možností sa z tabuľky 1B priradí kód len tej zložky, ktorá je najnebezpečnejšia z hľadiska vplyvu na zdravie ľudí a životné prostredie.
 
-- V stĺpci 6 sa uvádza množstvo odovzdaného jedného druhu odpadu podľa jednotlivých spôsobov nakladania (podľa stĺpca 7), a to pre každý spôsob nakladania do samostatného riadka.
+- V stĺpci 6 sa uvádza množstvo odovzdaného jedného druhu odpadu podľa jednotlivých spôsobov nakladania (podľa stĺpca 7), a to pre každý spôsob nakladania do samostatného riadka. Ak ide o vozidlá, uvádza sa množstvo odpadu v kusoch. Ak ide o zneškodňovanie použitých polychlórovaných bifenylov, v stĺpci 6 sa uvedie aj údaj o obsahu polychlórovaných bifenylov v nich obsiahnutých.
 
-- V stĺpci 7 sa uvádzajú kódy jednotlivých spôsobov nakladania s odpadmi podľa tabuliek 2 A, 2 B a 2 C. Na tieto kódy sa vzťahujú príslušné množstvá odpadu uvedené v stĺpci 6. Ak sa odpad odovzdáva inému subjektu na ďalšiu úpravu alebo zhodnotenie, uvedie sa v tomto stĺpci znak O.
+- V stĺpci 7 sa uvádzajú kódy jednotlivých spôsobov nakladania s odpadmi podľa tabuliek 2 A, 2 B a 2 C. Na tieto kódy sa vzťahujú príslušné množstvá odpadu uvedené v stĺpci 6.
 
-- V stĺpci 8 sa uvádza IČO a obchodné meno každého príjemcu odpadu. V prípade odovzdania odpadu inému držiteľovi odpadu na účely ďalšieho nakladania s ním sa neuvádza dopravca. V prípade prevzatia odpadu sa uvádza IČO a obchodné meno každého držiteľa odpadu, od ktorého bol odpad prevzatý. V prípade odovzdania alebo prevzatia odpadu od fyzickej osoby sa uvedie IČO obecného úradu a názov obce podľa miesta jej trvalého pobytu a v prípade dovozu alebo vývozu odpadu sa uvedie obchodné meno firmy a názov štátu dovozu alebo vývozu.
+- V stĺpci 8 sa uvádza IČO a obchodné meno každého príjemcu odpadu. V prípade odovzdania odpadu inému držiteľovi odpadu na účely ďalšieho nakladania s ním sa neuvádza dopravca. V prípade prevzatia odpadu sa uvádza IČO a obchodné meno každého držiteľa odpadu, od ktorého bol odpad prevzatý. V prípade odovzdania alebo prevzatia odpadu od fyzickej osoby sa uvedie IČO obecného úradu a názov obce podľa miesta jej trvalého pobytu a v prípade dovozu alebo vývozu odpadu sa uvedie obchodné meno firmy a názov štátu dovozu alebo vývozu. Ak sa odovzdáva odpad na využitie v domácnosti, tento stĺpec sa nevypĺňa.
 
-- V stĺpci 9 sa uvádza poznámka k nakladaniu s jednotlivými odpadmi vo forme poradových čísel. Text poznámok sa prikladá vo forme príloh, ktoré sú súčasťou tlačiva. V prípade dovozu odpadu sa uvedie písmeno I a v prípade vývozu písmeno E.
+- V stĺpci 9 sa uvádza poznámka k nakladaniu s jednotlivými odpadmi vo forme poradových čísel. Text poznámok sa prikladá vo forme príloh, ktoré sú súčasťou tlačiva. Ak sa odovzdáva odpad na využitie v domácnosti, v texte poznámok sa uvedie číslo súhlasu orgánu štátnej správy odpadového hospodárstva udeleného podľa § 7 ods. 1 písm. p) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2004 Z. z. V prípade dovozu odpadu sa uvedie písmeno I a v prípade vývozu písmeno E.
 
 - Producenti odpadov katalógových čísel 19 08 05 - kaly z čistenia komunálnych odpadových vôd, 19 08 11 - kaly obsahujúce nebezpečné látky z biologickej úpravy priemyselných odpadových vôd, 19 08 12 - kaly z biologickej úpravy priemyselných odpadových vôd iné, ako uvedené v položke 19 08 11, 19 08 13 - kaly obsahujúce nebezpečné látky z inej úpravy priemyselných odpadových vôd, a 19 08 14 - kaly z inej úpravy priemyselných odpadových vôd, iné ako uvedené v položke 19 08 13, uvedú množstvo odpadu v sušine.
 
@@ -200,6 +200,8 @@ Z | Zhromažďovanie odpadov je dočasné uloženie odpadov pred ďalším nakla
 
 O | Odovzdanie odpadov inému subjektu na ďalšiu úpravu alebo zhodnotenie
 
+DO | Odovzdanie odpadu na využitie v domácnosti
+
 - Tabuľka 2B
 
 Kód | Zhodnocovanie odpadov
@@ -263,5 +265,3 @@ D13 | Zmiešavame alebo miešanie pred použitím niektorej z činností D1 až 
 D14 | Uloženie do ďalších obalov pred použitím niektorej z činností D1 až D12
 
 D15 | Skladovanie pred použitím niektorej z činností D1 až D14 (okrem dočasného uloženia pred zberom na mieste vzniku)
-
-[Príloha 05](../assets/20d44b6bf7842abb30c445b9cbb190e2b596b29bae7bc1a5ce9b1de8b71290bc.pdf)

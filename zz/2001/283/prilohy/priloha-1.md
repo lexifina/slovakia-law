@@ -132,13 +132,15 @@ Príloha č. 1 k vyhláške č. 283/2001 Z. z.
 
   - 2.4.8 Orientačná kapacita prepraveného množstva odpadov za kalendárny rok v tonách
 
-  - 2.5 Vyhodnotenie predchádzajúceho programu.
+  - 2.5 Polychlórované bifenyly a kontaminované zariadenia
+
+  - 2.6 Vyhodnotenie predchádzajúceho programu.
 
   - 3 ZÁVÄZNÁ ČASŤ PROGRAMU
 
   - 3.1 Komodity pre záväznú časť programu kraja a programu okresu
 
-    - Uvádzajú sa komodity odpadov podľa § 5 ods. 1 písm. a) tejto vyhlášky, komunálne odpady a biologicky rozložiteľné odpady, ktoré sa v kraji a okrese vyskytujú. V programe kraja a v programe okresu môžu byť osobitne uvedené aj iné komodity podľa potreby kraja alebo okresu.
+    - Uvádzajú sa komodity odpadov podľa § 5 ods. 1 písm. a) tejto vyhlášky, komunálne odpady a biologicky rozložiteľné odpady, polychlórované bifenyly a kontaminované zariadenia, ktoré sa v kraji a okrese vyskytujú. V programe kraja a v programe okresu môžu byť osobitne uvedené aj iné komodity podľa potreby kraja alebo okresu.
 
   - 3.2
 
@@ -186,9 +188,13 @@ Príloha č. 1 k vyhláške č. 283/2001 Z. z.
 
     - Uvádza sa postup znižovania množstva biologicky rozložiteľných odpadov ukladaných na skládky odpadov. Údaje sa uvádzajú pre východiskový a cieľový rok programu. Údaje pre východiskový rok programu sa uvádzajú v tonách a percentuálnom podiele. Údaje pre cieľový rok sa uvádzajú v percentuálnom podiele v súlade s § 5 ods. 1 písm. d) tejto vyhlášky.
 
+  - 3.5 Zneškodnenie polychlórovaných bifenylov a kontaminovaných zariadení
+
+    - Uvádzajú sa konkrétne opatrenia a ich očakávaný účinok na zníženie obsahu polychlórovaných bifenylov v kontaminovaných zariadeniach. Údaje sa uvádzajú pre východiskový a cieľový rok programu.
+
   - 4 SMERNÁ ČASŤ PROGRAMU
 
-  - Zámery na vybudovanie nových zariadení na zhodnocovanie odpadov, zneškodňovanie odpadov alebo zariadení na iné nakladania s odpadmi v rozsahu pôsobnosti kraja a okresu obsahujú tieto údaje:
+  - Zámery na vybudovanie nových zariadení na zhodnocovanie odpadov, zneškodňovanie odpadov, dekontamináciu kontaminovaných zariadení alebo zariadení na iné nakladania s odpadmi v rozsahu pôsobnosti kraja a okresu obsahujú tieto údaje:
 
   - 4.1 Názov zariadenia
 
@@ -214,7 +220,7 @@ Príloha č. 1 k vyhláške č. 283/2001 Z. z.
 
     - Rozpočet pre obdobie nového programu
 
-    - Uvádzajú sa údaje o celkovej výške plánovaných nákladov v členení na náklady na zhodnocovanie odpadov, zneškodňovanie odpadov a na inú činnosť pri nakladaní s odpadmi a zdroje pokrytia nákladov.
+    - Uvádzajú sa údaje o celkovej výške plánovaných nákladov v členení na náklady na zhodnocovanie odpadov, zneškodňovanie odpadov, dekontamináciu kontaminovaných zariadení a na inú činnosť pri nakladaní s odpadmi a zdroje pokrytia nákladov.
 
   - 6 INÉ
 

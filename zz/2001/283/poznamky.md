@@ -82,13 +82,27 @@
 
 - 42) § 7 ods. 1 písm. g) zákona č. 223/2001 Z. z.
 
-- 43) § 7 ods. 6 zákona č. 223/2001 Z. z.
+- 43) § 7 ods. 8 zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
 
 - 44) § 7 ods. 1 písm. j) zákona č. 223/2001 Z. z.
 
 - 45) § 7 ods. 1 písm. k) zákona č. 223/2001 Z. z.
 
 - 46) § 7 ods. 1 písm. l) zákona č. 223/2000 Z. z.
+
+- 47) § 7 ods. 1 písm. m) zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
+
+- 48) § 7 ods. 1 písm. n) zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
+
+- 49) § 7 ods. 1 písm. o) zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
+
+- 50) § 7 ods. 6 zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
+
+- 51) § 7 ods. 1 písm. p) zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
+
+- 52) § 76 ods. 1 zákona č. 223/2001 Z. z.
+
+- 53) Príloha č. 4 časť I vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 126/2004 Z. z. o autorizácii, o vydávaní odborných posudkov vo veciach odpadov, o ustanovovaní osôb oprávnených na vydávanie posudkov a o overovaní odbornej spôsobilosti týchto osôb.
 
 - 1) Opatrenie štatistického úradu Slovenskej republiky č. 299/1996 Z. z., ktorým sa ustanovujú číselníky územných jednotiek Slovenskej republiky.
 

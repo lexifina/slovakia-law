@@ -6,7 +6,7 @@ Príloha č. 3 k vyhláške č. 283/2001 Z. z. [Vzor 03](../assets/03c0245fa9c6c
 
 - Tlačivo má tri časti; prvá časť sa týka nakladania s odpadmi vnútri prevádzky držiteľa odpadu, druhá časť sa týka množstva odpadu, jeho vzniku, príjmu, odovzdania a spôsobu nakladania; tretia časť sa týka právnických osôb a fyzických osôb, ktorým sa odpad odovzdáva alebo od ktorých sa prijíma.
 
-- Do Evidenčného listu odpadu sa vznik odpadu a nakladanie s ním zapisujú priebežne tak, ako vzniknú, ak ide o jednorazový vznik odpadu. Ak odpad vzniká alebo sa s ním nakladá (v zariadení na zhodnocovanie, zneškodňovanie, zber alebo výkup odpadov) kontinuálne za určité časové obdobie (napr. za zmenu, za týždeň), jeho množstvo súhrnne zapisuje podľa možnosti zodpovedná osoba, vedúca evidenciu odpadov, minimálne však raz za týždeň. Evidenčný list odpadu sa vypĺňa osobitne pre každý Y-kód aj v prípade rovnakého čísla druhu odpadu podľa Katalógu odpadov.
+- Do Evidenčného listu odpadu sa vznik odpadu a nakladanie s ním zapisujú priebežne tak, ako vzniknú, ak ide o jednorazový vznik odpadu. Ak odpad vzniká alebo sa s ním nakladá (v zariadení na zhodnocovanie, zneškodňovanie, zber alebo výkup odpadov) kontinuálne za určité časové obdobie (napr. za zmenu, za mesiac), jeho množstvo súhrnne zapisuje podľa možnosti zodpovedná osoba, vedúca evidenciu odpadov, minimálne však raz za mesiac. Evidenčný list odpadu sa vypĺňa osobitne pre každý Y-kód aj v prípade rovnakého čísla druhu odpadu podľa Katalógu odpadov.
 
 - FIRMA
 
@@ -38,7 +38,7 @@ Príloha č. 3 k vyhláške č. 283/2001 Z. z. [Vzor 03](../assets/03c0245fa9c6c
 
 - Odpad umiestnený - uvádza sa názov skladu alebo nádoby, kde bude odpad umiestnený. Pri skládke nebezpečných odpadov sa uvedie napríklad identifikácia špeciálneho kontajnera, do ktorého sa odpad bude ukladať.
 
-- Množstvo odpadu - v stĺpci vznik/príjem možno u pôvodcu uviesť odhadnuté množstvo vzniknutého odpadu a spresniť ho až po odvážení v sklade alebo v inej firme (príjemca odpadu) až po jeho zistení; v stĺpci nakladanie sa uvádza presné množstvo odpadu vydaného z prevádzky pôvodcu. U držiteľa odpadu sa uvedie množstvo buď prijatého odpadu, alebo vydaného odpadu.
+- Množstvo odpadu - v stĺpci vznik/príjem možno u pôvodcu uviesť odhadnuté množstvo vzniknutého odpadu a spresniť ho až po odvážení v sklade alebo v inej firme (príjemca odpadu) až po jeho zistení; v stĺpci nakladanie sa uvádza presné množstvo odpadu vydaného z prevádzky pôvodcu. U držiteľa odpadu sa uvedie množstvo buď prijatého odpadu, alebo vydaného odpadu. V stĺpci nakladanie sa pri zneškodňovaní použitých polychlórovaných bifenylov uvedie aj údaj o obsahu polychlórovaných bifenylov v nich obsiahnutých.
 
 - Kód činnosti - uvádza sa kód činnosti podľa tabuľky A.
 
@@ -74,7 +74,7 @@ Kód | Zhromažďovanie odpadov
 
 Z | Zhromažďovanie odpadov je dočasné uloženie odpadov pred ďalším nakladaním s nimi na mieste vzniku
 
-O | Odovzdanie odpadov inému subjektu na ich ďalšiu úpravu alebo zhodnotenie
+DO | Odovzdanie odpadu na využitie v domácnosti
 
 - Tabuľka C
 
@@ -140,7 +140,7 @@ D14 | Uloženie do ďalších obalov pred použitím niektorej z činností D1 a
 
 D15 | Skladovanie pred použitím niektorej z činností D1 až D14 (okrem dočasného uloženia pred zberom na mieste vzniku)
 
-- IČO, obchodné meno nasledujúceho držiteľa odpadu - v stĺpci sa uvedie IČO a obchodné meno firmy, od ktorej sa odpad prijíma alebo ktorej sa odovzdáva. Keď sa vykonáva zber odpadov, u fyzických osôb a právnických osôb sa uvedie ich IČO, obchodné meno a miesto podnikania. Keď sa vykonáva zber farebných kovov alebo iných odpadov, ktoré ustanoví vláda nariadením, v stĺpci Poznámka sa uvedie aj číslo preukazu totožnosti fyzickej osoby.
+- IČO, obchodné meno nasledujúceho držiteľa odpadu - v stĺpci sa uvedie IČO a obchodné meno firmy, od ktorej sa odpad prijíma alebo ktorej sa odovzdáva. Keď sa vykonáva zber odpadov, u fyzických osôb a právnických osôb sa uvedie ich IČO, obchodné meno a miesto podnikania. Keď sa vykonáva zber farebných kovov alebo iných odpadov, ktoré ustanoví vláda nariadením, v stĺpci Poznámka sa uvedie aj číslo preukazu totožnosti fyzickej osoby. Ak sa odpad odovzdáva na využitie v domácnosti, tento stĺpec sa nevypĺňa, v stĺpci Poznámka sa následne uvedie číslo súhlasu orgánu štátnej správy odpadového hospodárstva udeleného podľa § 7 ods. 1 písm. p) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2004 Z. z.
 
 - Poznámka - v prípade zmeny kategórie odpadu sa v poznámke uvedie číslo rozhodnutia a meno autorizovanej osoby.
 

@@ -4,7 +4,7 @@ Príloha č. 9 k vyhláške č. 283/2001 Z. z. [Vzor 9-1](../assets/9db837ec4431
 
 - Spôsob vypĺňania tlačiva HLÁSENIE O OBJEME VÝROBY, DOVOZU, VÝVOZU A REEXPORTU
 
-- Do tlačiva sa výrobok, za ktorý sa platí do Recyklačného fondu,<sup>2</sup>) zapisuje priebežne tak, ako vzniká v procese výroby (ak ide o jednorazový vznik výrobku). Ak výrobok vzniká kontinuálne za určité obdobie (napr. za zmenu, za týždeň), zapisuje sa jeho množstvo súhrnne, podľa možnosti zodpovednou osobou, vedúcou evidencie výrobku, minimálne však raz za týždeň. V prípade dovozu, vývozu a reexportu sa do tlačiva zapisuje množstvo dovezeného, vyvezeného alebo reexportovaného výrobku.
+- Do tlačiva sa výrobok, za ktorý sa platí do Recyklačného fondu,<sup>2</sup>) zapisuje priebežne tak, ako vzniká v procese výroby (ak ide o jednorazový vznik výrobku). Ak výrobok vzniká kontinuálne za určité obdobie (napr. za zmenu, za týždeň), zapisuje sa jeho množstvo súhrnne, podľa možnosti zodpovednou osobou, vedúcou evidencie výrobku, minimálne však raz za mesiac. V prípade dovozu, vývozu a reexportu sa do tlačiva zapisuje množstvo dovezeného, vyvezeného alebo reexportovaného výrobku.
 
 - Evidenčné číslo - pridelí a vyplní miestne príslušný úrad, resp. Recyklačný fond.
 
@@ -49,6 +49,8 @@ Príloha č. 9 k vyhláške č. 283/2001 Z. z. [Vzor 9-1](../assets/9db837ec4431
 - V stĺpci reexport sa uvedie množstvo výrobku, ktoré bolo vyvezené z dovezeného výrobku.
 
 - Stĺpce vývoz a reexport vypĺňajú výrobca a dovozca výrobkov, za ktoré sa platí do Recyklačného fondu.
+
+- V prípade vozidiel sa uvádza množstvo v kusoch. Ak je celková hmotnosť výrobkov pri jednom dovoze menšia ako 1 kg, ich hmotnosť sa zaokrúhľuje na nulu.
 
 - IČO, obchodné meno - v prípade dovozu, vývozu a reexportu sa v stĺpci uvedie IČO a obchodné meno firmy, od ktorej bol výrobok dovezený, do ktorej bol výrobok vyvezený, resp. reexportovaný. U fyzických osôb sa uvedie meno a priezvisko a miesto ich trvalého pobytu.
 

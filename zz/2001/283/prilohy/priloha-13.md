@@ -2,9 +2,9 @@ Príloha č. 13 k vyhláške č. 283/2001 Z. z.
 
 - HRANIČNÉ HODNOTY UKAZOVATEĽOV PRE VODNÝ VÝLUH INERTNÉHO ODPADU | Ukazovateľ | Jednotka | Hraničná hodnota
 
-- 1 | pH | - | 5,5 - 10,0
+- 1 | pH | - | 5,5 - 12,0
 
-- 2 | vodivosť | mS/m | 100
+- 2 | vodivosť | mS/m | 600
 
 - 3 | zápach | - | žiadny
 

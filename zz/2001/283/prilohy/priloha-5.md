@@ -86,4 +86,4 @@ Príloha č. 5 k vyhláške č. 283/2001 Z. z.
 
 - 18 01 03 | odpady, ktorých zber a zneškodňovanie podliehajú osobitným požiadavkám z hľadiska prevencie nákazy | N
 
-- 20 01 21 | žiarivky a iný odpad obsahujúci ortuť | N
+- 20 01 21 | svetelné zdroje a iný odpad obsahujúci ortuť | N
