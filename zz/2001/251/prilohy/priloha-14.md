@@ -52,7 +52,7 @@ Príloha č. 14 k vyhláške č. 251/2001 Z. z.
 
 - 2. Čaňa - Hidasnémeti | celoročne | | celoročne | | celoročne
 
-- 3. Lenartovce - Bánréve | celoročne; platí do 31. 12. 2002 | | celoročne; platí do 31. 12. 2002 | |
+- 3. Lenartovce - Bánréve | celoročne | | celoročne; platí do 31. 12. 2002 | |
 
 - 4. Fiľakovo - Somoskoújfalu | celoročne | | celoročne | |
 
@@ -102,9 +102,9 @@ Príloha č. 14 k vyhláške č. 251/2001 Z. z.
 
 - 9. Horné Srnie - Brumov - Bylnice10. Červený Kameň - Nedašova Lhota11. Lysá pod Makytou - Strelná | | | | |
 
-- 12. Makov - Veľké Karlovice | celoročne | | celoročne | | celoročne
+- 12. Makov - Veľké Karlovice | celoročne | celoročne | celoročne | | celoročne
 
-- 13. Makov - Bíla - Bumbálka | celoročne | | celoročne | | celoročne
+- 13. Makov - Bíla - Bumbálka | celoročne | celoročne | celoročne | | celoročne
 
 - 14. Klokočov - Bílá15. Čadca - Milošova - Šance | | | | |
 

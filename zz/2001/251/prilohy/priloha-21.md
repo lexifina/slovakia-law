@@ -44,7 +44,7 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
       - 7. Referenčné číslo
 
-        - Možno uviesť poradové číslo, pod ktorým deklarant eviduje písomné colné vyhlásenie vo svojej evidencii. Uvedený údaj môže byť číselný a najviac osemmiestny. Nemôže obsahovať pomlčky, lomené čiary ani iné interpunkčné znamienka. Toto poradové číslo nemožno opakovať v jednom kalendárnom roku pri podaní viacerých písomných colných vyhlásení na jednej pobočke colného úradu.
+        - Uvádza sa poradové číslo, pod ktorým deklarant eviduje písomné colné vyhlásenie vo svojej evidencii. Uvedený údaj môže byť číselný a najviac osemmiestny. Nemôže obsahovať pomlčky, lomené čiary ani iné interpunkčné znamienka. Toto poradové číslo nemožno opakovať v jednom kalendárnom roku pri podaní viacerých písomných colných vyhlásení na jednej pobočke colného úradu.
 
       - 8. Príjemca
 
@@ -422,7 +422,7 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
       - 7. Referenčné číslo
 
-        - Možno uviesť poradové číslo, pod ktorým deklarant eviduje písomné colné vyhlásenie vo svojej evidencii. Uvedený údaj môže byť číselný a najviac osemmiestny. Nemôže obsahovať pomlčky, lomené čiary alebo iné interpunkčné znamienka. Toto poradové číslo nemožno opakovať v jednom kalendárnom roku pri podaní viacerých písomných colných vyhlásení na jednej pobočke colného úradu.
+        - Uvádza sa poradové číslo, pod ktorým deklarant eviduje písomné colné vyhlásenie vo svojej evidencii. Uvedený údaj môže byť číselný a najviac osemmiestny. Nemôže obsahovať pomlčky, lomené čiary alebo iné interpunkčné znamienka. Toto poradové číslo nemožno opakovať v jednom kalendárnom roku pri podaní viacerých písomných colných vyhlásení na jednej pobočke colného úradu.
 
       - 8. Príjemca
 
@@ -570,7 +570,7 @@ Príloha č. 21 k vyhláške č. 251/2001 Z. z.
 
         - Ak colným orgánom odoslania aj určenia sú slovenské colné orgány, v ľavom dolnom rohu sa pri režime tranzit uvádza colná hodnota v celých slovenských korunách, ktorá sa určuje a prepočítava podľa ustanovení Colného zákona. Pri skončení režimu s ekonomickým účinkom prepustením tovaru do režimu tranzit sa uvádza colná hodnota, ktorú mal tovar pri prepúšťaní do režimu s ekonomickým účinkom.
 
-        - Ak tovar podlieha spotrebnej dani, v pravom dolnom rohu sa uvádza kód mernej jednotky podľa príslušnej sadzby spotrebnej dane a množstvo tovaru v tejto mernej jednotke s presnosťou na tri desatinné miesta. Táto časť odseku sa pri režime tranzit nevypĺňa.
+        - Ak tovar podlieha spotrebnej dani, v pravom dolnom rohu sa uvádza kód mernej jednotky podľa príslušnej sadzby spotrebnej dane, množstvo tovaru v tejto mernej jednotke s presnosťou na tri desatinné miesta a účel použitia tovaru, ak má vplyv na určenie sadzby dane. Táto časť odseku sa pri režime tranzit nevypĺňa.
 
       - 32. Číslo položky
 
