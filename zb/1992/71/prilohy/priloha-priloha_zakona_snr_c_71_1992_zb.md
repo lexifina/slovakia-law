@@ -332,6 +332,4 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 30: |
 
-- Za výpis z registra trestov (aj negatívny) | 100 Sk
-
-- Poznámka:Poplatok podľa tejto položky sa neplatí, ak ide o výpis z registra trestov na účely zákona Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení trestného zákona v znení neskorších predpisov. |
+- Za výpis z registra trestov a odpis registra trestov (aj negatívne) | 100 Sk
