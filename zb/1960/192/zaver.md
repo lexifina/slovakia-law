@@ -1,0 +1,3 @@
+Ministerka:
+
+Machačová v. r.
