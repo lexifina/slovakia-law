@@ -37,3 +37,25 @@ Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení
 - Vydávanie všeobecne záväzných právnych predpisov, ktoré boli pred 1. januárom 2006 vydané na vykonanie jednotlivých splnomocňovacích ustanovení tohto zákona, prechádza od 1. januára 2006 do pôsobnosti Národnej banky Slovenska v rozsahu ustanovenom týmto zákonom.“.
 
 - 8. V celom texte zákona okrem § 46 ods. 2 sa slová „odňatie“, „odňať“ a „odňaté“ vo všetkých tvaroch nahrádzajú slovami „odobratie“, „odobrať“ a „odobraté“ v príslušnom gramatickom tvare.
+
+- 2. V poznámke pod čiarou k odkazu 33 sa na konci pripája táto veta: „Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.“.
+
+- 5. Poznámka pod čiarou k odkazu 49 znie:
+
+- „49)
+
+- § 12 až 34 zákona č. 747/2004 Z. z.“.
+
+- 6. Za § 77 sa vkladá § 77a, ktorý vrátane nadpisu znie:
+
+- „§ 77a
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2006
+
+- (1)
+
+- Konania začaté a právoplatne neskončené pred 1. januárom 2006 sa procesne dokončia podľa tohto zákona a osobitného zákona.<sup>49</sup>) Právne účinky úkonov, ktoré v konaní nastali pred 1. januárom 2006, zostávajú zachované.
+
+- (2)
+
+- Dohľad na mieste začatý a neskončený pred 1. januárom 2006 sa dokončí podľa tohto zákona a osobitných zákonov.<sup>33</sup>) Právne účinky úkonov, ktoré pri dohľade na mieste nastali pred 1. januárom 2006, zostávajú zachované.“.
