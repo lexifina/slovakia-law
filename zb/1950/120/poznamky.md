@@ -1,1 +1,0 @@
-- *) Zákon č. 37/1959 Zb. o postavení závodných výborov základných organizácií Revolučného odborového hnutia a uznesenie Predsedníctva Ústrednej rady odborov z 8. septembra 1959, ktorým sa ustanovujú odchýlky v pôsobnosti závodných výborov pri štátnych orgánoch a niektorých organizáciách, uverejnené v čiastke 74 Ú. l. (Ú. v.), ročník 1959.
