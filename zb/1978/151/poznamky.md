@@ -8,7 +8,11 @@
 
 - 5) § 360a Hospodárskeho zákonníka.
 
-- 6) § 18a Hospodárskeho zákonníka a napr. vyhláška č. 90/1972 Zb. o financovaní niektorých zariadení podnikovej spoločenskej spotreby a niektorých činností štátnych hospodárskych organizácií a organizácií zahraničného obchodu, vyhláška č. 155/1975 Zb. a nariadenie vlády ČSSR č. 25/1974 Zb. o závodnom stravovaní.
+- 5a) § 17 Hospodárskeho zákonníka.
+
+- 6) § 18a Hospodárskeho zákonníka.
+
+- Napr. vyhláška Federálneho ministerstva financií č. 90/1972 Zb. o financovaní niektorých zariadení podnikovej spoločenskej spotreby a niektorých činností štátnych hospodárskych organizácií a organizácií zahraničného obchodu, vyhláška Federálneho ministerstva financií, Ministerstva financií ČSR, Ministerstva financií SSR a Ústrednej rady odborov č. 21/1986 Zb. o fonde kultúrnych a sociálnych potrieb a nariadenie vlády ČSSR č. 127/1982 Zb. o závodnom stravovaní.
 
 - 7) Napr. poskytnutím práv, pracovnej výpomoci, dopravných prostriedkov, bezplatnou výučbou alebo zapracovaním pracovníkov.
 
@@ -73,3 +77,9 @@
 - 34) Tieto podiely sa v štátnych organizáciách vedú na príslušnom účte účtovej skupiny 26.
 
 - 35) Zákon č. 111/1971 Zb. v znení zákonov č. 154/1976 Zb. a č. 62/1977 Zb., zákon č. 113/1971 Zb. o dôchodkovej dani a príspevku na sociálne zabezpečenie v znení zákonov č. 103/1974 Zb., č. 142/1975 Zb., č. 154/1976 Zb. a č. 62/1977 Zb., zákon č. 103/1974 Zb. o poľnohospodárskej dani v znení zákonov č. 154/1976 Zb. a č. 62/1977 Zb., vyhláška č. 112/1971 Zb., ktorou sa vykonáva zákon o odvodoch do štátneho rozpočtu a príspevku na sociálne zabezpečenie, vyhláška č. 114/1971 Zb., ktorou sa vykonáva zákon o dôchodkovej dani a príspevku na sociálne zabezpečenie, vyhláška č. 106/1974 Zb., ktorou sa vykonáva zákon o poľnohospodárskej dani, a opatrenia platné pre experimentujúce organizácie.
+
+- 36) § 2 zákona č. 69/1967 Zb. o národných výboroch (úplné znenie č. 31/1983 Zb. pre ČSR a č. 35/1983 Zb. pre SSR).
+
+- 37) Napr. vyhláška č. 90/1972 Zb. a vyhláška č. 21/1986 Zb.
+
+- 38) Nariadenie vlády ČSSR č. 161/1980 Zb. o finančnom hospodárení výrobných hospodárskych jednotiek a podnikov v znení nariadenia vlády ČSSR č. 100/1985 Zb.
