@@ -128,10 +128,6 @@ Medzinárodnej organizácie práce, ktorých zmluvnou stranou bola Česká a Slo
 
 (San Francisco 9. júla 1948, č. 17/1991 Zb.)
 
-30. Dohovor Medzinárodnej organizácie práce o nočnej práci žien zamestnávaných v priemysle (revidovaný v roku 1948) č. 89/1948 [Convention of the International Labour Organization concerning Night Work of Women Employed in Industry (Revised 1948) No. 89/1948]
-
-(San Francisco 9. júla 1948, č. 17/1991 Zb.)
-
 31. Dohovor Medzinárodnej organizácie práce o nočnej práci mladých osôb zamestnávaných v priemysle (revidovaný v roku 1948) č. 90/1948 [Convention of the International Labour Organization concerning the Night Work of Young Persons Employed in Industry (Revised 1948) No. 90/1948]
 
 (San Francisco 10. júla 1948, č. 460/1990 Zb.)
