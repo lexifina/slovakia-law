@@ -1,0 +1,1 @@
+- *) Združenie československých nakladateľstiev bolo zriadené ku dňu 1. januára 1960.
