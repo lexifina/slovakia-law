@@ -3440,7 +3440,7 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - h) „hodnotou pôvodných materiálov“ sa rozumie hodnota týchto materiálov určená podľa písmena g) mutatis mutandis,
 
-- i) „pridanou hodnotou“ sa rozumie cena ex-works znížená o colnú hodnotu všetkých použitých materiálov, ktoré nie sú pôvodné v krajine, v ktorej boli výrobky získané,
+- i) „pridanou hodnotou“ sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov pôvodných v ostatných krajinách, uvedených v článku 4, alebo ak colná hodnota nie je známa alebo sa nedá zistiť, znížená o prvú cenu preukázateľne zaplatenú za tieto výrobky v strane,
 
 - j) „kapitoly“ a „čísla“ znamenajú kapitoly a čísla (štvormiestne kódy) používané v nomenklatúre Harmonizovaného systému opisu a číselného označovania tovaru (ďalej len „Harmonizovaný systém“ alebo „HS“),
 
@@ -3464,21 +3464,17 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - b) výrobky získané v tejto strane obsahujúce materiály, ktoré tu neboli úplne získané, za predpokladu, že takéto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu v tejto strane v zmysle článku 6 tohto protokolu.
 
-- Článok 3
-
-- Dvojstranná kumulácia pôvodu
-
-- Materiály pôvodné v jednej strane sa pokladajú za pôvodné v druhej strane, ak sú obsiahnuté vo výrobku v nej získanom. Nie je nevyhnutné, aby takéto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu, za predpokladu, že boli podrobené opracovaniu alebo spracovaniu presahujúcemu operácie uvedené v článku 7 ods. 1 tohto protokolu.
-
 - Článok 4
 
-- Diagonálna kumulácia pôvodu
+- Kumulácia pôvodu
 
-- 1. S výhradou ustanovení odsekov 2 a 3 sa materiály pôvodné v Európskej únii, Poľsku, Maďarsku, Českej republike, Rumunsku, Litve, Lotyšsku, Estónsku, Slovinsku, na Islande, v Nórsku alebo vo Švajčiarsku v zmysle dohôd medzi stranou a týmito krajinami považujú za pôvodné v tejto strane, ak sú obsiahnuté vo výrobku v nej získanom. Nie je nutné, aby takéto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu.
+- 1. Bez toho, aby boli dotknuté ustanovenia článku 2, sa výrobky považujú za pôvodné v strane, ak tam boli získané, ak obsahujú materiály pôvodné v Európskom spoločenstve, Bulharsku, Poľsku, Maďarsku, Českej republike, na Slovensku, v Rumunsku, Litve, Lotyšsku, Estónsku, Slovinsku, na Islande, v Nórsku, Švajčiarsku [vrátane Lichtenštajnska<sup>1</sup>)] alebo v Turecku v súlade s ustanoveniami opatrení Protokolu o pravidlách pôvodu medzi touto stranou a každou z týchto strán, za predpokladu, že opracovanie alebo spracovanie vykonané v tejto strane presahuje operácie uvedené v článku 7 tohto protokolu. Nie je nevyhnutné, aby tieto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu.
 
-- 2. Výrobky, ktoré získali charakter pôvodu podľa odseku 1, sa ďalej považujú za výrobky pôvodné v strane iba vtedy, ak v nej pridaná hodnota presahuje hodnotu použitých materiálov pôvodných v ktorejkoľvek z ostatných krajín uvedených v odseku 1. Ak táto podmienka nie je splnená, uvedené výrobky sa považujú za pôvodné v tej krajine uvedenej v odseku 1, v ktorej bol pridaný najvyšší podiel hodnoty. Pri určovaní krajiny pôvodu sa neberie do úvahy hodnota materiálov pôvodných v ostatných krajinách uvedených v odseku 1, ktoré boli podrobené dostatočnému opracovaniu alebo spracovaniu v tejto strane.
+- 2. Ak opracovanie alebo spracovanie vykonané v strane nepresahuje operácie uvedené v článku 7, získaný výrobok sa považuje za pôvodný v strane len vtedy, ak hodnota tam pridaná je vyššia ako hodnota použitých pôvodných materiálov v ktorejkoľvek z krajín uvedených v odseku 1. Ak tomu tak nie je, získaný výrobok sa považuje za pôvodný v tej krajine, ktorej pôvodné materiály použité vo výrobe v strane predstavujú najvyššiu hodnotu.
 
-- 3. Kumulácia ustanovená v tomto článku sa môže uplatniť iba vtedy, ak použité materiály získajú štatút pôvodného výrobku pri použití rovnakých pravidiel pôvodu, aké sú v tomto protokole. Strany si navzájom oznámia podrobné informácie o dohodách a im zodpovedajúcich pravidlách pôvodu uzavretých s ostatnými krajinami uvedenými v odseku 1.
+- 3. Výrobky pôvodné v jednej z krajín uvedených v odseku 1, ktoré neboli podrobené žiadnemu opracovaniu ani spracovaniu v strane, si zachovajú pôvod, ak sú vyvezené do niektorej z uvedených krajín.
+
+- 4. Kumulácia uvedená v tomto článku sa smie uplatniť len na materiály a výrobky, ktoré získali štatút pôvodu uplatnením pravidiel pôvodu identických s pravidlami v tomto protokole.
 
 - Článok 5
 
@@ -3612,13 +3608,33 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - Územný princíp
 
-- 1. Podmienky ustanovené v hlave II, týkajúce sa získania štatútu pôvodu musia byť v stranách splnené bez prerušenia okrem ustanovení článku 4.
+- 1. Podmienky na získanie štatútu pôvodu ustanovené v hlave II musia byť v strane splnené po celý čas bez prerušenia, s výnimkou ustanovení článku 4 a odseku 3 tohto článku.
 
-- 2. Pôvodné výrobky vyvezené zo strany do inej krajiny, ktoré sa vracajú späť, okrem ustanovení článku 4 sa považujú za nepôvodné, ak colným orgánom nemožno uspokojivo preukázať, že
+- 2. Ak sa pôvodný tovar vyvezený zo strany do inej krajiny vracia späť, musí sa považovať, s výnimkou ustanovení článku 4, za nepôvodný, ak nie je možné uspokojivo preukázať colným orgánom, že
 
-- a) späť dovážané tovary sú totožné s vyvezenými a
+- a) tovar, ktorý sa vracia späť, je totožný s vyvezeným a
 
-- b) neboli podrobené inej operácii ako operácii nevyhnutnej na ich uchovanie v dobrom stave v danej krajine alebo pri vývoze.
+- b) nebol podrobený inej operácii ako operácii nevyhnutnej na jeho uchovanie v dobrom stave v danej krajine alebo pri vývoze.
+
+- 3. Získanie štatútu pôvodu podľa podmienok uvedených v hlave II nie je dotknuté opracovaním ani spracovaním vykonaným mimo územia strany na materiáloch vyvezených z jednej zo strán a následne tam späť dovezených za predpokladu, že
+
+- a) uvedené materiály sa úplne získali v jednej zo strán alebo boli podrobené opracovaniu alebo spracovaniu nad rámec nedostatočných operácií uvedených v článku 7 predtým, ako boli vyvezené, a
+
+- b) možno uspokojivo preukázať colným orgánom, že
+
+- i) späť dovezený tovar bol získaný opracovaním alebo spracovaním vyvezených materiálov a
+
+- ii) celková pridaná hodnota získaná mimo strany uplatnením ustanovení tohto článku nepresahuje 10 % ceny zo závodu konečného výrobku, pre ktorý sa štatút pôvodu požaduje.
+
+- 4. Na účely odseku 3 sa podmienky na získanie štatútu pôvodu podľa hlavy II neuplatnia na opracovanie ani spracovanie vykonané mimo územia strany. Ak však pravidlo v prílohe II ustanovuje najvyššiu hodnotu všetkých použitých nepôvodných materiálov pri určení štatútu pôvodu konečného výrobku, celková hodnota nepôvodných materiálov použitých na území príslušnej strany spolu s celkovou pridanou hodnotou získanou mimo územia strany podľa ustanovení tohto článku nesmie presiahnuť uvedené percento.
+
+- 5. Na účely uplatnenia ustanovení odsekov 3 a 4 sa „celkovou pridanou hodnotou“ rozumejú všetky náklady vzniknuté mimo strán vrátane hodnoty materiálov tam použitých.
+
+- 6. Ustanovenia odsekov 3 a 4 sa neuplatnia na výrobky, ktoré nespĺňajú podmienky uvedené v zozname v prílohe II alebo ktoré sa môžu považovať za dostatočne opracované alebo spracované len uplatnením všeobecných hodnôt uvedených v článku 6 ods. 2.
+
+- 7. Ustanovenia odsekov 3 a 4 sa neuplatnia na výrobky patriace do kapitol 50 až 63 Harmonizovaného systému.
+
+- 8. Akékoľvek opracovanie alebo spracovanie podľa ustanovení tohto článku vykonané mimo územia strán sa musí vykonať v režime pasívneho zušľachťovacieho styku alebo podľa obdobného postupu.
 
 - Článok 13
 
@@ -3684,7 +3700,7 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - b) ak ide o výrobky zaradené do kapitol 50 až 63 Harmonizovaného systému, na vrátenie cla sa použije 10 % sadzba alebo nižšia sadzba, ktorá je platná v strane.
 
-- Ustanovenia tohto odseku sa budú uplatňovať do 31. decembra 1998 a môžu sa prehodnotiť po vzájomnej dohode.
+- Ustanovenia tohto odseku sa budú uplatňovať do 31. decembra 2000 a môžu sa prehodnotiť po vzájomnej dohode.
 
 - HLAVA V
 
@@ -3836,7 +3852,9 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - Oslobodenie od dôkazu o pôvode
 
-- 1. Výrobky zasielané ako malé zásielky súkromnými osobami súkromným osobám alebo tvoriace časť osobnej batožiny cestujúcich sa pokladajú za pôvodné výrobky bez predloženia dôkazu o pôvode za predpokladu, že sa tieto výrobky nedovážajú na obchodné účely, boli vyhlásené za výrobky spĺňajúce požiadavky tohto protokolu a neexistujú žiadne pochybnosti o pravdivosti takého vyhlásenia. V prípade výrobkov zasielaných poštou možno toto vyhlásenie uviesť na colnom vyhlásení C2/CP3 alebo na liste papiera, ktorý sa pripojí k tomuto dokladu.
+- 1.
+
+- Výrobky zasielané ako malé zásielky súkromnými osobami súkromným osobám alebo tvoriace časť osobnej batožiny cestujúcich sa pokladajú za pôvodné výrobky bez predloženia dôkazu o pôvode za predpokladu, že sa tieto výrobky nedovážajú na obchodné účely, boli vyhlásené za výrobky spĺňajúce požiadavky tohto protokolu a neexistujú žiadne pochybnosti o pravdivosti takého vyhlásenia. V prípade výrobkov zasielaných poštou možno toto vyhlásenie uviesť na colnom vyhlásení CN22/CN23 alebo na liste papiera, ktorý sa pripojí k tomuto dokladu.
 
 - 2. Dovozy, ktoré sú príležitostné a skladajú sa výhradne z výrobkov na uspokojenie osobných potrieb príjemcu alebo cestujúcich, alebo ich rodín, sa nepovažujú za obchodné, ak je z povahy a množstva výrobkov zrejmé, že nejde o obchodný účel dovozu.
 
@@ -4060,6 +4078,8 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - - umelé chemické vlákna,
 
+- - elektricky vodivé vlákna,
+
 - - syntetické chemické strižové vlákna z polypropylénu,
 
 - - syntetické chemické strižové vlákna z polyesteru,
@@ -4105,10 +4125,6 @@ PROTOKOL 1 (k článku 6 ods. 2)
 - Príklad:
 
 - Ak uvedená všívaná textília bola vyrobená z bavlnenej priadze čísla 5205 a zo syntetického vlákna čísla 5407, potom je zrejmé, že použité priadze sú dva samostatné textilné materiály a všívaná textília je preto zmesový výrobok.
-
-- Príklad:
-
-- Koberec so slučkami z umelých priadzí, bavlnených priadzí a jutového podkladu je zmesovým výrobkom, pretože sú použité tri základné textilné materiály. Preto akýkoľvek nepôvodný materiál vyššieho stupňa spracovania, než určuje pravidlo, možno použiť za predpokladu, že jeho celková hmotnosť nepresiahne 10 % hmotnosti textilných materiálov koberca. Preto jutový podklad a/alebo umelé priadze môžu byť dovezené na tomto stupni výroby za predpokladu, že spĺňajú hmotnostnú požiadavku.
 
 - 5.3. V prípade, že výrobky sú zložené z „priadze vyrobenej z polyuretánu, segmentovanej pružnými prvkami polyéteru, tiež opradenej“, je tolerancia vzťahujúca sa na takúto priadzu 20 %.
 
