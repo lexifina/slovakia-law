@@ -16,13 +16,13 @@
 
 - 8) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.Zákon č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
-- 9) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
-
 - 10) Zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.
 
 - 11) Napríklad § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov, § 3 ods. 2 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
-- 12) § 2 zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z.
+- 12) § 37 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 12a) § 29 zákona č. 100/1988 Zb.
 
 - 13) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
