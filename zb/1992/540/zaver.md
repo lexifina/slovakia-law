@@ -1,0 +1,3 @@
+Minister:
+
+Kubečka v. r.
