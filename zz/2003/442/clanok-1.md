@@ -72,6 +72,8 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - Zákon č. 431/2002 Z. z. o účtovníctve.“.
 
+- 14. V § 6 ods. 12 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „súčasťou výdavkov príslušnej rozpočtovej kapitoly sú aj prostriedky štátneho rozpočtu určené na financovanie spoločných programov Slovenskej republiky a Európskych spoločenstiev podľa medzinárodných zmlúv.“.
+
 - 15. V § 8 ods. 2 štvrtá veta znie:
 
 - „Súčasťou návrhu štátneho rozpočtu sú súhrnné údaje verejného rozpočtu.“.
