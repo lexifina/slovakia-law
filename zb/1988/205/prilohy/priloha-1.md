@@ -471,13 +471,3 @@ Príloha č. 1
   - Ak sa na fasáde vyskytuje obklad, počítajú sa najskôr body podľa znaku č. 10 a podľa znaku č. 9 sa potom počítajú body ako doplnok do celku plochy steny upravenej fasádou. Prihliada sa iba na obklady, ktorých priemerná výška na hodnotenej strane je vyššia než 0,5 m. Neprihliada sa na obklady okolo okien.
 
   - Počet bodov za radiátory sa rozumie za podlažie, ktoré je vykurované prevažne ústredným (etážovým) vykurovaním.
-
-  - Zatriedenie pre § 3 ods. 2 sa vykoná podľa počtu získaných bodov (posudzuje sa dom ako celok a nie jednotlivé podlažia) takto:
-
-  - I. trieda nad 2 500 bodov
-
-  - II. trieda 1 901 až 2 500 bodov
-
-  - III. trieda 1 301 až 1 900 bodov
-
-  - IV. trieda 1 300 a menej bodov.
