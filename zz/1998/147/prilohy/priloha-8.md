@@ -1,1 +1,3 @@
-Príloha č. 8 k vyhláške č. 147/1998 Z. z. [Príloha č. 8](../assets/c56ca5b22db458ab923d0a41040539a825c5899e365545c28d0847bf90df9e3b.pdf)
+Príloha č. 8 k vyhláške č. 147/1998 Z. z.
+
+- Hlásenie o výrobe hrozna a o jeho použití k 30. 11. ... [vzor 08](../assets/55d290dc006de6db98039d29ef55ab7c1861a40c669162d7cfd19f32fae3cc71.pdf)

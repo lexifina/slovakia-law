@@ -1,1 +1,3 @@
-Príloha č. 10 k vyhláške č. 147/1998 Z. z. [Príloha č. 10](../assets/85cc8c42d0265f3aca080d5235bf0067402e67c0de9340c5244b1a393f739edf.pdf)
+Príloha č. 10 k vyhláške č. 147/1998 Z. z.
+
+- Hlásenie o stave zásob tokajského vína a muštov [vzor 10](../assets/b92ff7e021876c2d1c301efb7f32fb001dec1802c4344b6788873c44e6cdf4af.pdf)
