@@ -28,6 +28,8 @@
 
 - 11) § 4a zákona č. 100/1988 Zb. v znení zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
 
+- 11a) § 91 a § 92 ods. 2 zákona č. 114/1998 Z. z. o sociálnom zabezpečení vojakov.
+
 - 12) § 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z.
 
 - 13) Zákon č. 1/1991 Zb. o zamestnanosti v znení zákona č. 305/1991 Zb., zákona č. 578/1991 Zb., zákona č. 231/1992 Zb., zákona Národnej rady Slovenskej republiky č. 247/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 319/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 189/1994 Z. z.
