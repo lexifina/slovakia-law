@@ -106,11 +106,7 @@
 
 - 9b) § 4 ods. 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 9c) Zákon č. 600/1992 Zb. v znení neskorších predpisov.
-
-- Zákon č. 530/1990 Zb. v znení neskorších predpisov.
-
-- Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.§ 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
+- 9c) Napríklad § 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb., zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
 - 9d) § 32 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
@@ -119,6 +115,8 @@
 - 9f) § 3 ods. 3 a § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
 - 9g) Napríklad Dohovor Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.)
+
+- 9ga) Napríklad zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 24/1991 Zb. v znení neskorších predpisov, zákon č. 600/1992 Zb. v znení neskorších predpisov, zákon č. 385/1999 Z. z. o kolektívnom investovaní v znení zákona č. 329/2000 Z. z., zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov, zákon č. 330/2000 Z. z. o burze cenných papierov.
 
 - 9h) Zákon Národnej rady Slovenskej republiky č. 249/1994 Z. z. o boji proti legalizácii príjmov z najzávažnejších, najmä organizovaných foriem trestnej činnosti a o zmenách niektorých ďalších zákonov v znení zákona Národnej rady Slovenskej republiky č. 58/1996 Z. z.
 
