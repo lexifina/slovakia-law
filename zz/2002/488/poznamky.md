@@ -46,6 +46,8 @@
 
 - 22) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 22a) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
 - 23) § 9 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 24) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
