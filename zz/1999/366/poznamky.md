@@ -38,6 +38,8 @@
 
 - 19) § 2 ods. 2 zákona č. 351/1997 Z. z. Branný zákon.
 
+- 19a) Nariadenie vlády Slovenskej republiky č. 249/2001 Z. z. o poskytovaní zahraničného príspevku v cudzej mene zamestnancom pôsobiacim v mierových misiách.
+
 - 20) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 20a) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
@@ -71,6 +73,8 @@
 - 31) § 29 písm. d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
 - 32) § 63 ods. 6 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
+- 32a) § 149 až 151 Občianskeho zákonníka.
 
 - 33) § 16 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby.
 
@@ -144,7 +148,7 @@
 
 - 65) Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
 
-- 66) § 211 ods. 1 písm. d) zákona č. 73/1998 Z. z.§ 202 ods. 1 písm. d) zákona č. 200/1998 Z. z.
+- 66) Napríklad § 211 ods. 1 písm. d) zákona č. 73/1998 Z. z., § 202 ods. 1 písm. d) zákona č. 200/1998 Z. z.
 
 - 67) § 5 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. v znení neskorších predpisov.
 
@@ -170,9 +174,13 @@
 
 - 78) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení zákona č. 154/1999 Z. z.
 
+- 78a) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+
 - 79) Napríklad zákon Slovenskej národnej rady č. 95/1991 Zb. o štátnom fonde kultúry Pro Slovakia v znení neskorších predpisov, zákon č. 69/1998 Z. z. o Štátnom fonde životného prostredia.
 
 - 80) § 1 ods. 4 zákona č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+
+- 80a) § 9 ods. 1 zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
 
 - 81) § 68 ods. 3 písm. f) Obchodného zákonníka.
 
@@ -278,13 +286,41 @@
 
 - 128) § 69 ods. 3 Obchodného zákonníka.
 
+- 128a) Zákon č. 565/2001 Z. z. o investičných stimuloch a o zmene a doplnení niektorých zákonov.
+
+- 128b) § 2 ods. 3 zákona č. 565/2001 Z. z.
+
+- 128c) Zákon č. 231/1999 Z. z. v znení zákona č. 434/2001 Z. z.
+
+- Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
 - 129) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 130) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 131) Nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. v znení nariadenia vlády Slovenskej republiky č. 157/1995 Z. z.
 
+- 131a) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
+
+- 131b) Zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z.
+
+- 131c) § 2 ods. 2 písm. a) až f) zákona č. 147/1997 Z. z.
+
+- 131d) Zákon č. 213/1997 Z. z.
+
+- 131e) § 6 ods. 1 písm. h) a k) zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+
+- 131f) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike (zákon o dôchodkovej dani) v znení zákona č. 157/1989 Zb.
+
+- 131g) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 131h) § 10 zákona č. 323/1992 Zb.
+
+- 131i) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
 - 132) § 75 ods. 1 Obchodného zákonníka.
+
+- 132a) § 178 ods. 6 Obchodného zákonníka.
 
 - 133) § 39 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 

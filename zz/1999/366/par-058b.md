@@ -14,4 +14,4 @@
 
 (7) Ustanovenie § 30 ods. 4 o možnosti zrýchleného odpisovania nehnuteľností prenajatých na základe zmluvy o nájme veci s právom kúpy prenajatej veci môže daňovník použiť aj na zmluvy o nájme veci s právom kúpy prenajatej veci uzatvorené do 31. decembra 1999.
 
-(8) Úľavu na dani podľa podmienok § 35 ods. 1 až 13 môže uplatniť daňovník vzniknutý do 31. decembra 2001.
+(8) Úľavu na dani podľa podmienok § 35 ods. 1 až 13 môže uplatniť daňovník vzniknutý do 31. decembra 2001. Podmienky uvedené v § 35a ods. 11 sa použijú na daňovníkov vzniknutých po 1. januári 2002.
