@@ -24,6 +24,8 @@
 
 - 10) Napríklad zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony v znení zákona č. 453/2003 Z. z., zákon č. 238/1998 Z. z. o príspevku na pohreb v znení zákona č. 453/2003 Z. z., § 11 ods. 1 písm. a) zákona č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti v znení zákona č. 453/2003 Z. z., § 2 ods. 3 zákona č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
+- 10a) § 64a ods. 10 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
 - 11) § 15 zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 12) Zákon č. 410/2004 Z. z. o vyplatení jednorazového príspevku poberateľovi dôchodku v roku 2004 a o zmene zákona o životnom minime.
