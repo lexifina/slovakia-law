@@ -1,10 +1,8 @@
 - 1) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
 
-- 2) § 3 ods. 15 zákona.
+- 2) § 4 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 117/1998 Z. z. (úplné znenie č. 261/1998 Z. z.).
 
-- 3) § 3 ods. 2 zákona.
-
-- 4) § 4 ods. 1 zákona.
+- 3) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
 - 5) § 40 až 41 vyhlášky č. 83/1976 Zb.
 
@@ -20,17 +18,17 @@
 
 - 11) § 119 vyhlášky č. 83/1976 Zb.
 
+- 11a) Príloha č. 2 bod 2 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 84/1976 Zb. o územnoplánovacích podkladoch a územnoplánovacej dokumentácii v znení vyhlášky Federálneho výboru pre životné prostredie, Ministerstva životného prostredia Českej republiky a Slovenskej komisie pre životné prostredie č. 377/1992 Zb.
+
+- 11b) § 3 ods. 11 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
+
+- 11c) Nariadenie vlády Slovenskej republiky č. 166/1994 Z. z. o kategorizácii územia Slovenskej republiky v znení nariadenia vlády Slovenskej republiky č. 25/1997 Z. z.
+
 - 12) § 22 ods. 1 písm. d) vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení neskorších predpisov.
 
-- 13) Nariadenie vlády Slovenskej republiky č. 166/1994 Z. z. o kategorizácii územia Slovenskej republiky.
+- 14) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z.
 
-- 14) § 3 ods. 10 zákona.
-
-- 15) Príloha č. 2 bod 2 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 84/1976 Zb. o územnoplánovacích podkladoch a územnoplánovacej dokumentácii v znení vyhlášky Federálneho výboru pre životné prostredie, Ministerstva životného prostredia Českej republiky a Slovenskej komisie pre životné prostredie č. 377/1992 Zb., ktorou sa mení a dopĺňa vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 84/1976 Zb. o územnoplánovacích podkladoch a územnoplánovacej dokumentácii.
-
-- 16) § 4 ods. 3 zákona.
-
-- 17) § 32 až 34 vyhlášky č. 84/1976 Zb.
+- 15) § 13 ods. 1 písm. j), § 14 ods. 1 písm. b), § 15 ods. 1 písm. a) a § 16 ods. 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 1) Plocha závisí od druhu a typu zariadenia.
 
@@ -68,10 +66,12 @@
 
 - 1 záchodová misa a 1 pisoár max. pre 150 mužov
 
-- 1 záchodová misa pre mužov a ženy v úkryte do 50 ukrývaných.
+- 1 záchodová misa pre mužov a ženy v úkryte s kapacitou do 50 ukrývaných.
 
 - 17) Zriaďuje sa len pri nútenom vetraní.
 
 - 18) Využíva sa prirodzený ťah vzduchu vznikajúci rozdielom teplôt vonku a vnútri úkrytu.
 
 - 19) Plocha prierezu prívodného a odvosného komínčeka musí byť 10 cm<sup>2</sup> na jedného ukrývaného.
+
+- 1) Príloha č. 1 písmeno B bod 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 300/1996 Z. z. o zabezpečovaní ochrany obyvateľstva pri výrobe, preprave, skladovaní a manipulácii s nebezpečnými škodlivinami.

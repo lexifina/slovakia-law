@@ -1,4 +1,6 @@
-Príloha vyhlášky Ministerstva vnútra Slovenskej republiky č. 297/1994 Z. z. ZÁKLADNÉ TECHNICKÉ PODMIENKY A POŽIADAVKY NA OCHRANNÉ STAVBY
+Príloha č. 1 vyhlášky Ministerstva vnútra Slovenskej republiky č. 297/1994 Z. z.
+
+ZÁKLADNÉ TECHNICKÉ PODMIENKY A POŽIADAVKY NA OCHRANNÉ STAVBY
 
 ČASŤ I
 
@@ -8,7 +10,7 @@ A. Dispozičné riešenie
 
 1 Základné plošné a objemové ukazovatele
 
-1.1 čistá podlahová plocha miestnosti pre ukrývaných 0,5 m<sup>2</sup>/ 1 osobu
+1.1 čistá podlahová plocha miestnosti pre ukrývaných 0,5-1,0 m<sup>2</sup>/ 1 osobu
 
 1.2 celková zastavaná plocha 0,7-1,0 m<sup>2</sup>/ 1 osobu
 
@@ -26,7 +28,7 @@ A. Dispozičné riešenie
 
 2.1 Hlavné priestory
 
-2.1.1 miestnosti pre ukrývaných 0,5 m<sup>2</sup>/ 1 osobu
+2.1.1 miestnosti pre ukrývaných 0,5 - 1,0 m<sup>2</sup>/ 1 osobu
 
 2.1.2 služobná miestnosť 12,0 m<sup>2</sup>
 
@@ -56,7 +58,7 @@ A. Dispozičné riešenie
 
 2.3 Vchody a východy
 
-2.3.1 bojový vchod
+2.3.1 ochranný vchod
 
 protitlaková predsieň<sup>7</sup>) 3,3 m<sup>2</sup>
 
@@ -70,7 +72,7 @@ protiplynová predsieň 5,0 m<sup>2</sup>
 
 protitlaková predsieň 5,0 m<sup>2</sup>
 
-štôlňa núdzového výlezu<sup>9</sup>) závisí od dĺžky
+štôlňa núdzového výlezu<sup>9</sup>) vyústenie štôlne na terén pomocou schodišťa alebo šachty musí byť vo vzdialenosti rovnajúcej sa polovici výšky budovy zväčšenej o 3 m
 
 B. Plynotesnosť a izolácia proti vode
 
@@ -92,7 +94,7 @@ B. Plynotesnosť a izolácia proti vode
 
 2 Izolácia proti vode
 
-2.1 navrhuje sa v súlade s požiadavkami na zakladanie stavby a platných noriem,
+2.1 navrhuje sa v súlade s požiadavkami na zakladanie stavby a slovenských technických noriem,
 
 2.2 pri návrhu izolácie treba brať do úvahy maximálne výpočtové zaťaženie jednotlivých častí obvodovej konštrukcie tlakovo-plynotesného plášťa stáleho úkrytu.
 
@@ -128,7 +130,7 @@ A. Dispozičné riešenie
 
 1 Základné plošné a objemové ukazovatele
 
-1.1 čistá podlahová plocha miestností pre ukrývaných 0,5 m<sup>2</sup>/ 1 osobu
+1.1 čistá podlahová plocha miestností pre ukrývaných 0,5 - 1,0 m<sup>2</sup>/ 1 osobu
 
 1.2 zastavaná plocha 0,7-1,0 m<sup>2</sup>/ 1 osobu
 
@@ -138,7 +140,7 @@ A. Dispozičné riešenie
 
 2 Členenie priestorov a ich plochy
 
-2.1 miestnosti pre ukrývaných 0,5 m<sup>2</sup>/ 1 osobu
+2.1 miestnosti pre ukrývaných 0,5 - 1,0 m<sup>2</sup>/ 1 osobu
 
 2.2 priestor na filtračné a ventilačné zariadenie<sup>11</sup>) min. 18,0 m<sup>2</sup>
 
@@ -156,6 +158,8 @@ B. Inštalačné zariadenia
 
 1.2 izolácia
 
+1.3 filtroventilácia
+
 2 V havarijných úkrytoch s kapacitou do 300 ukrývaných sa nevyžaduje dodávka elektrikej energie náhradným zdrojom (DA). V havarijných úkrytoch s kapacitou nad 300 ukrývaných, ak vzduchotechnické zariadenie vyžaduje DA, odporúča sa využívať mierové DA umiestnené v ich okolí.
 
 ČASŤ III
@@ -166,7 +170,7 @@ A. Dispozičné riešenie
 
 1 Základné plošné a objemové ukatovatele
 
-1.1 podlahová plocha 1,5 m<sup>2</sup>/ 1 osobu
+1.1 podlahová plocha 1,0 - 1,5 m<sup>2</sup>/ 1 osobu
 
 1.2 minimálna svetlá výška 2,1 m
 
@@ -176,7 +180,7 @@ A. Dispozičné riešenie
 
 2 Členenie priestorov a ich plochy
 
-2.1 miestnosti ukrývaných 1,5 m<sup>2</sup>/ 1 osobu
+2.1 miestnosti ukrývaných 1,0 - 1,5 m<sup>2</sup>/ 1 osobu
 
 2.2 priestory na sociálne zariadenia<sup>16</sup>)
 
@@ -196,9 +200,9 @@ B. Technické riešenie
 
 3 Tieniaca stena sa umiestňuje zvonku alebo vnútri úkrytu čo najbližšie ku vchodu (vjazdu), vždy však tak, aby bola zachovaná priechodná šírka dverí. Výška tieniacej steny nesmie prekrývať celý otvor a musí byť vybudovaná do výšky najmenej 1,7 m od úrovne podlahy.
 
-4 Parapety okenných otvorov musia byť najmenej 170 cm nad podlahou.
+4 Parapety okenných otvorov v podzemných podlažiach musia byť najmenej 170 cm nad podlahou.
 
-5 Presvetľovacie otvory musia byť najmenej 65 cm nad miestom na ležanie.
+5 Presvetľovacie otvory v podzemných podlažiach musia byť najmenej 65 cm nad miestom na ležanie.
 
 6 Utesnenie sa dosiahne utesnením všetkých otvorov vedúcich do úkrytu s použitím dostupných tesniacich materiálov.
 
@@ -267,3 +271,27 @@ B. Základné požiadavky na umiestnenie havarijných úkrytov a úkrytov budova
 1 Na území kategórie I, II a III musí ochranný súčiniteľ stavby dosiahnuť hodnotu K<sub>o</sub> = minimálne 100.
 
 2 Na území kategórie IV musí ochranný súčiniteľ stavby dosiahnuť hodnotu K<sub>o</sub> = minimálne 50.
+
+C. Časové intervaly na vykonávanie odborných revízií technologických zariadení v stálych úkrytoch a v havarijných úkrytoch
+
+1 Na filtračnom a ventilačnom zariadení každé tri roky.
+
+2 Na dieselagregáte každé dva roky.
+
+3 Na tlakovej nádobe každých päť rokov.
+
+4 Na elektroinštalácii každé dva roky.
+
+D. Časové normy na uvedenie ochranných stavieb do stavu technickej pripravenosti od vyhlásenia mimoriadnej situácie alebo brannej pohotovosti štátu
+
+1 Stále úkryty a havarijné úkryty
+
+1.1 dvojúčelovo nevyužívané | do 2 hodín
+
+1.2 dvojúčelovo využívané | do 12 hodín
+
+2 Úkryty budované svojpomocne
+
+2.1 príjem ukrývaných | do 12 hodín
+
+2.2 zvýšenie ochranných vlastností | do 24 hodín
