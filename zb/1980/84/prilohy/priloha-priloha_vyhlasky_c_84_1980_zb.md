@@ -14,11 +14,15 @@ Príloha vyhlášky č. 84/1980 Zb.
 
 - 4 | Priemyselný tovar |
 
-- | a) motorové vozidlá a ich súčasti | 50 % z ceny
+- | a) motorové vozidlá s obsahom - do 1 600 cm<sup>3</sup> 25 Kčs á 1 cm<sup>3</sup> - od 1 601 cm<sup>3</sup> do 1 800 cm<sup>3</sup> 30 Kčs á 1 cm<sup>3</sup> - od 1 801 cm<sup>3</sup> vyššie 35 Kčs á 1 cm<sup>3</sup> |
 
-- | b) detské hračky, športové náradie a športové potreby | 10 % z ceny
+- | b) súčasti motorových vozidiel | 50 % z ceny
 
-- | c) ostatný priemyselný tovar | 30 % z ceny
+- | c) detské hračky, športové náradie a športové potreby všetkých druhov | 10 % z ceny
+
+- | d) stolné, vreckové, náramkové a náhrdelníkové kalkulačky (aj s časomerným zariadením) osobné počítače, mikropočítače, ak nie sú súčasťou iného zariadenia, a stavebnice mikroelektronických obvodov a súčiastok pre sebavzdelávanie a hry | 15 % z ceny
+
+- | e) detské hračky, športové náradie a športové potreby všetkých druhov | 30 % z ceny
 
 - 5 | Knihy, tlačoviny, časopisy, hudobniny, nálepky a mince na zberateľské účely, spisy, diapozitívy, fotografie, poštové známky | bez cla
 
