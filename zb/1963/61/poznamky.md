@@ -1,19 +1,33 @@
-- *) Vybratými prevádzkovými meradlami si prevdzkové meradlá, ktorých jednostnosť a správnosť musia z celospoloýenských záujmov (ochrana spotrebiteľa, zdravia a bezpečnosti) sústavne zabezpečovať orgány štátnej mierovej služby.
+- 1) Novému úradnému overeniu nepodliehajú vybrané prevádzkové meradlá, ktoré po uvedení do prevádzky sa používajú na meranie vo vnútornom prevádzkovom styku v organizácii t. j. na neobchodné účely a technologických procesoch ako prevádzkové meradlo. Toto obmedzenie sa však nevzťahuje na meradlá umiestnené v obchodných alebo pomocných obchodných miestnostiach, alebo tam, kde dôležitosť merania úradné overenie vyžaduje.
 
-- **) Novému úradnému overeniu nepodliehajú váhy používané iba vo vnútornom styku a na iné neobchodné účely. Toto obmedzenie sa však nevzťahuje na váhy umiestnené v obchodných miestnostiach i v pomocných obchodných miestnostiach
+- 2) Okrem pásem pre geodetické práce, na ktoré sa vzťahujú predpisy orgánov a organizácii, ktoré plnia úlohy v zmysle ustanovenia § 1 zákona č. 46/1971 Zb. o geodézii a kartografii. Presným meraním sa rozumie také meranie, kde dovolená chyba pásmom zisťovanej dĺžky (určená technickou dokumentáciou) je rovnaká alebo maximálne dvojnásobná ako dovolená chyba meračského pásma určená príslušníkom ČSN.
 
-- ***) Váhy špeciálne upravené alebo konštruované na technologické alebo iné neobchodné účely nepodliehajú úradnému overeniu. Tieto váhy sa smú používať iba vo vnútornom styku.
+- 3) Váhy špeciálne konštruované alebo upravené na technologické alebo iné neobchodné účely nepodliehajú úradnému overovaniu.
 
-- *) Z osobných váh len váhy pre zdravotníctvo.
+- 4) Minimálne s 1000 overovacími dielikmi.
 
-- *) Novému úradnému overeniu nepodliehajú meradlá používané iba vo vnútrnom styku a na iné neobchodné účely.
+- 5) Používané Verejnou bezpečnosťou pri kontrole dodržiavania pravidiel cestnej premávky.
 
-- Poznámka:
+- 6) Overuje sa len silový mechanizmus.
 
-- Meradlá, pri ktorých nie je vyznačená doba platnosti úradného overenia, podliehajú novému úradnému overeniu len v prípadoch uvedených v § 6 ods. 2 písm. b) až e).
+- 7) Výčapné tégliky predávané zároveň s nápojom overovaniu nepodliehajú.
 
-- *) Teplomery sú určené na meranie pri plnom ponore, minimálna veľkosť dielu 0,4 mm, maximálna dĺžka teplomeru 600 mm.
+- 8) Preukázanými sa tu myslia skúšky vyžiadané na súdne, arbitrážne alebo rozhodcovské konanie, ďalej pri hodnotení alebo schvaľovaní výrobkov štátnymi skúšobňami alebo pri osvedčovaní rezortnými skúšobňami. Patria sem aj skúšky akosti, ak ich výsledky majú vplyv na určenie cien, alebo merania na ochranu životného prostredia.
 
-- *) Hlavné podnikové etalóny alebo etalónové zariadenia sú meradlá (alebo meracie zariadenia) s náležitou presnosťou používané organizáciami iba na vykonávanie kontroly správnosti prevádzkových meradiel.
+- 9) S účinnosťou od 1. 7. 1980.
 
-- *) Rozvádzačové prístroje sa nekontrolujú.
+- 10) O vykonaní úradného overovania rozhoduje orgán štátnej mierovej služby na základe žiadosti užívateľa, ktorý súčasne so žiadosťou preukáže účel použitia meradla.
+
+- 11) K pojmu „podnikový" pozri § 1 ods. 2 vyhlášky.
+
+- 12) Určenými Úradom pre normalizáciu a meranie.
+
+- 13) Etalóny metrologických stredísk kontrolujúcich presnosť meradiel pre geodetické práce.
+
+- 14) Podľa doterajších ČSN označované záčislím „ . 0" a „ . 1".
+
+- 15) Podľa doterajších ČSN označované záčislím „ . 0" a „ . 1".
+
+- 16) Prípadne kilovoltmetre do triedy presnosti 1,5 overované v súlade s poznámkou <sup>10</sup>).
+
+- 17) Nižšie triedy presnosti len vtedy, ak spĺňajú všeobecné ukazovatele prevádzkových prístrojov.

@@ -1,94 +1,170 @@
 Príloha II vyhlášky č. 61/1963 Zb.
 
-- Zoznam hlavných podnikových etalónov*) podliehajúcich povinnému úradnému overeniu a doba platnosti úradného overenie Por. číslo | Názvy hlavných podnikových etalónov | Doba platnosti úradného overania
+- Zoznam hlavných podnikových etalónov podliehajúcich povinnému úradnému overovaniu a doba platnosti úradného overenia
 
-- I Dĺžka, rozmer | |
+  - Hlavné podnikové etalóny<sup>11</sup>) a etalóny z nich odvodené uchovávajú a používajú organizácie na zabezpečenie presnosti prevádzkových meradiel. Musia vykazovať technické vlastnosti ustanovené technickou normou, prípadne schémami nadväznosti.<sup>12</sup>)
 
-- 1 | Základné mierky triedy presnosti 0, I a II | 1 rok
+  - Pri dôležitých odboroch merania (z hľadiska akosti výroby), kde hlavné podnikové etalóny nie sú určené Úradom pre normalizáciu a meranie, môže ministerstvo (ústredný orgán) alebo výrobno-hospodárska jednotka po dohode s Úradom pre normalizáciu a meranie určiť hlavné etalóny a určiť spôsob prenosu hodnôt danej veličiny až na prevádzkové meradlá.
 
-- 2 | Metre na preverovanie nivelačných látk | 1 rok
+- Položka | Odbor merania Druh etalónu | Doba platnosti úradného overenia
 
-- II Plocha, rovinný uhol a odchýlky od geometrického tvaru | |
+- 1. DĹŽKA | |
 
-- 1 | Uhľové mierky | 3 roky
+- 1.1 | Etalónové čiarkové mierky: |
 
-- 2 | Merné hárky | 2 roky
+- | - 2. a 3. rádu | 1 rok
 
-- III Hmota (hmotnosť) | |
+- | - 4. rádu | 2 roky
 
-- 1 | Etalónové závažia | 1 rok
+- | - 5. rádu | 3 roky
 
-- 2 | Váhy na kontrolu dávkovacích zariadení (druh váh sa určí veľkosťou váženej hmoty) | 1 rok
+- 1.2 | Etalónové metre na kontrolu dĺžkových meradiel na strižný tovar | 5 rokov
 
-- 3 | Zaťažovacie zariadenia pre pásové váhy | 1 rok
+- 1.3 | Dĺžkové meradlá na kontrolu dĺžky skladania pri skladacích meracích prístrojoch na textílie | 5 rokov
 
-- IV Hodnotenie plodín | |
+- 1.4 | Etalónové metre pre geodéziu<sup>13</sup>) | 1 rok
 
-- 1 | Trny (na meranie sít) | 1 rok
+- 1.5 | Etalónové meračské pásma | 1 rok
 
-- V Objem, prietok | |
+- 1.6 | Etalónové koncové mierky |
 
-- 1 | Kontrolné byrety a pipety na vymeriavanie a kontrolu laboratórneho skla vo výrobe | -
+- | - 2. rádu | 1 rok
 
-- 2 | Váhy používané na etalonáž (alebo overovanie objemových meradiel) | 1 rok
+- | - 3. a 4. rádu | 1 rok
 
-- 3 | Odmerné nádoby kovové | 1 rok
+- | - 5. rádu | 2 roky
 
-- 4 | Krychlomery (sudomery) | 5 rokov
+- 1.7 | Trny na kontrolu obilných sít | 3 roky
 
-- 5 | Krychlomery pre plyny a kvapaliny | 5 rokov
+- 2. PLOŠNÝ OBSAH | |
 
-- 6 | Meradlá prietoku používané na kontrolu meradiel (prietokomerov) | 2 roky
+- 2.1 | Etalónové hárky plošného obsahu | 3 roky
 
-- VI Mechanické skúšky materiálu | |
+- 3. ROVINNÝ UHOL | |
 
-- 1 | Tvrdomerné doštičky Rockwell a Vickers triedy presnosti (.0), (.1) a Brinell triedy presnosti (.1) | 3 roky
+- 3.1 | Optické polygóny | 3 roky
 
-- 2 | Vnikacie telesá Rockwell-C a Vickers triedy presnosti (.0), (.1) | 3 roky
+- 3.2 | Goniometre | 3 roky
 
-- 3 | Silomery triedy presnosti 1 a 2 | 2 roky
+- 3.3 | Autokolimátory používané s optickými polygónmi |
 
-- VII Rotačná rýchlosť, otáčky | |
+- | - fotoelektrické | 2 roky
 
-- 1 | Otáčkomery s presnosťou do 1 % z meranej hodnoty | 1 rok
+- | - vizuálne | 3 roky
 
-- VIII Tlak | |
+- 3.4 | Prístroje na skúšanie uhlových delení<sup>10</sup>) | 3 roky
 
-- 1 | Piestové manometre | 2 roky
+- 3.5 | Optické deliace hlavy<sup>10</sup>) | 3 roky
 
-- 2 | Tlakomery deformačné (kontrolné) s presnosťou do 1 % | 2 roky
+- 3.6 | Skúšače libiel<sup>10</sup>) | 3 roky
 
-- 3 | Tlakomery kvapalinové s presnosťou počítania do 0,3 . 10<sup>2</sup> N/m<sup>2</sup>(t. j. ~ ± 0,2 torr) | 2 roky
+- 4. HMOTNOSŤ | |
 
-- 4 | Barometre (kontrolné) s presnosťou počítania do ± 0,2 . 10<sup>2</sup> N/m<sup>2</sup>(t. j. ~ ± 0,1torr) | 2 roky
+- 4.1 | Etalónové závažia na overovanie a kontrolu závažia a váh všetkých tried presnosti | 1 rok
 
-- 5 | Mikromanometre (kontrolné) s presnosťou počítania do ± 0,1 N/m<sup>2</sup>(t. j. ~ ± 0,01 kp/m<sup>2</sup>) | 2 roky
+- 4.2 | Zaťažovacie závažia na overovanie a kontrolu vážiacich zariadení (napr. mostových, koľajových a pásových váh) | 1 rok
 
-- 6 | Vákuometre kompresné s presnosťou počítania do ± 3 % | 2 roky
+- 4.3 | Závažové skúšobné vozne a rohové vozíky | 1 rok
 
-- IX Elektrické a magnetické veličiny | |
+- 4.4 | Etalónové váhy na overovanie a kontrolu závaží | 1 rok
 
-- 1 | Voltmetre triedy presnosti 0,1 a 0,2 | 2 roky
+- 4.5 | Etalónové váhy používané na overovanie iných druhov meradiel (napr. objemových) | 1 rok
 
-- 2 | Ampérmetre triedy presnosti 0,1 a 0,2 | 2 roky
+- 5. ČAS, FREKVENCIA | |
 
-- 3 | Wattmetre triedy presnosti 0,1 a 0,2 | 2 roky
+- 5.1 | Etalónové zariadenie na kontrolu stopiek<sup>10</sup>) | 2 roky
 
-- 4 | Westonove články triedy I a II | 2 roky
+- 5.2 | Etalóny otáčok | 2 roky
 
-- 5 | Laboratórne kompenzátory | 5 rokov
+- 6. MECHANICKÝ POHYB | |
 
-- 6 | Laboratórne odporové mostíky | 5 rokov
+- 6.1 | Etalóny priamočiareho mechanického kmitania | 1 rok
 
-- 7 | Etalónové odpory | 3 roky
+- 7. SILA, MECHANICKÉ SKÚŠKY MATERIÁLU | |
 
-- 8 | Nepremenné etalóny kapacity, o rozsahu 10 pF až 0,1 μF | 3 roky
+- 7.1 | Etalónové silomery<sup>10</sup>) | 2 roky
 
-- 9 | Etalóny magnetického toku na rovnosmerné magnetické merania | 3 roky
+- 7.2 | Etalónové tvrdomerné doštičky Rockwell A, B, C, N, T, Vickers, Brinell<sup>14</sup>) | 3 roky
 
-- 10 | Epsteinove prístroje na meranie magnetických vlastností plechov pre elektrotechniku | 3 roky
+- 7.3 | Etalónové vnikacie telesá Rockwell-C, N a Vickers<sup>15</sup>) | 2 roky
 
-- 11 | Meracie zariadenia na overovanie meracích transformátorov vrátane etalónových transformátorov, kapacitných deličov a sekundárnych záťaží | 5 rokov
+- 7.4 | Mierky Vickers a Brinell | 5 rokov
+
+- 8. OBJEM, PRIETOK | |
+
+- 8.1 | Etalónové odmerné kovové nádoby | 1 rok
+
+- 8.2 | Etalónové odmerné sklenené banky | bez obmedzenia
+
+- 8.3 | Etalónové byrety a pipety na vymeriavanie laboratórneho skla vo výrobe (i v poverených organizáciách) | bez obmedzenia
+
+- 8.4 | Odmerné nádoby (krychlomery) alebo stanice na overovanie vodomerov, kde etalónom je odmerná nádoba | 5 rokov
+
+- 8.5 | Etalónové prietokomery používané na kontrolu prietokomerov alebo na vymeriavanie nádrží | 2 roky
+
+- 8.6 | Etalónové plynomery |
+
+- | - bubnové mokrobežné | 5 rokov
+
+- | - turbínové | 2 roky
+
+- 9. TLAK | |
+
+- 9.1 | Etalónové piestové tlakomery | 2 roky
+
+- 9.2 | Etalónové deformačné tlakomery | 2 roky
+
+- 9.3 | Etalónové kvapalinové tlakomery | 3 roky
+
+- 9.4 | Etalónové mikromanometre kvapalinové a zvonové | 3 roky
+
+- 9.5 | Etalónové barometre (okrem piestových) | 3 roky
+
+- 9.6 | Etalónové piestové barometre | 2 roky
+
+- 9.7 | Etalónové kompresné vákometre | 3 roky
+
+- 10. TEPLOTA, TEPLO | |
+
+- 10.1 | Etalónové sklenené teplomery | 2 roky
+
+- | a) sklenené teplomery rozsahu (0 až 100) <sup>o</sup>C, hodnota dielika 0,01<sup>o</sup>C; 0,02 <sup>o</sup>C (s kontrolným nulovým bodom) |
+
+- | b) sklenené teplomery rozsahu (-10 až 360) <sup>o</sup>C, hodnota dielika 0,1 <sup>o</sup>C (s kontrolným nulovým bodom) |
+
+- | c) sklenené teplomery rozsahu (-55 až 20) <sup>o</sup>C, hodnota dielika 0,1 <sup>o</sup>C, s náplňou amalgámu tália |
+
+- | d) kalorimetrické teplomery v rozsahu (15 až 30) <sup>o</sup>C, hodnota dielika 0,01 <sup>o</sup>C |
+
+- | e) Metastatické (Beckmannove) teplomery na meranie teplotného rozdielu (0 až 5) <sup>o</sup>C, v intervale (0 až 150) <sup>o</sup>C |
+
+- 10.2 | Etalónové platinové odporové teplomery s rozsahom teplôt (-200 až +631)<sup>o</sup>C, základný odpor R<sub>o</sub> = 10; 25 alebo 100 ohmov; R<sub>100</sub>/R<sub>o</sub> ≥ 1,385; prúdové a napäťové vývody min. dĺžka 400 mm, max. priemer trubice 12 mm | 2 roky
+
+- 10.3 | Etalónové termočlánky: |
+
+- | - PtRh 10-Pt, priemer drôtu (0,35 až 0,6) mm, min. dĺžka 1 m, rozsah (600 až 1100)<sup>o</sup>C | 200 prevádzkových hodín, max. 2 roky
+
+- | - PtRh 30-PtRh 6, priemer drôtu (0,35 až 0,6) mm, min. dĺžka 1 m, rozsah (900 až 1700)<sup>o</sup>C | 100 prevádzkových hodín, max. 2 roky
+
+- 10.4 | Etalónové termočlánky meď-konštantan; priemer drôtu (0,3 až 3) mm, dĺžka 1 m; rozsah (-200 až 0)<sup>o</sup>C | 100 prevádzkových hodín, max. 1 rok
+
+- 10.5 | Etalónové jasové pyrometre, rozsah (900 až 2000)<sup>o</sup>C | 2 roky
+
+- 10.6 | Teplotné žiarovky, rozsah (900 až 2100)<sup>o</sup>C | 100 prevádzkových hodín, max. 2 roky
+
+- 11. ELEKTRICKÉ A MAGNETICKÉ VELIČINY | |
+
+- 11.1 | Etalónové elektromery | 2 roky
+
+- 11.2 | Meracie zariadenie na overovanie elektromerov: |
+
+- | a) funkčná skúška | 1 rok
+
+- | b) overovanie wattmetrov | 2 roky
+
+- | c) overovanie meracích transformátorov | bez obmedzenia
+
+- 11.3 | Meracie zariadenie na overovanie meracích transformátorov: |
 
 - | a) funkčná skúška | 1 rok
 
@@ -98,54 +174,60 @@ Príloha II vyhlášky č. 61/1963 Zb.
 
 - | d) overovanie sekundárnych záťaží | 5 rokov
 
-- 12 | Meracie zariadenia na overovanie elektromerov |
+- | e) kontrolné meracie transformátory | 5 rokov
 
-- | a) funkčná skúška | 1 rok
+- 11.4 | Laboratórne meracie transformátory používané na zväčšenie rozsahov etalónových meracích prístrojov | 5 rokov
 
-- | b) kontrola stopiek | 1 rok
+- 11.5 | Etalónové výchylkové voltmetre, ampérmetre a wattmetre tr. 0,1 a 0,2<sup>16</sup>) | 2 roky
 
-- | c) overovanie wattmetrov | 2 roky
+- 11.6 | Etalónové číslicové voltmetre, ampérmetre a wattmetre | 2 roky
 
-- | d) overovanie meracích transformátorov | 10 rokov
+- 11.7 | Etalónové Westonove články | 2 roky
 
-- X Teplota | |
+- 11.8 | Etalónové laboratórne kompenzátory | 5 rokov
 
-- 1 | Sklenené teplomery: |
+- 11.9 | Etalónové laboratórne odporové mostíky | 5 rokov
 
-- | a) sada teplomerov s rozsahom (0 až 100) <sup>o</sup>C, delenie (0,1 alebo 0,02) deg, rozsah teplomerov maximálne 12 deg, všetky teplomery s nulovým bodom*) |
+- 11.10 | Etalónové odpory | 3 roky
 
-- | b) sada teplomerov s rozsahom (0 až 300) <sup>o</sup>C, delenie (0,1; 0,2 a 0,5) deg, všetky teplomery s nulovým bodom*) |
+- 11.11 | Etalóny kapacity 10 pF až 0,1 μF | 3 roky
 
-- | c) teplomery s rozsahmi (0 až 400) <sup>o</sup>C, (0 až 500) <sup>o</sup>C, delenie (1 alebo 2) deg, prípadne s rozsahom (400 až 500) <sup>o</sup>C, delenie 0,5 deg, s nulovým bodom*) |
+- 11.12 | Etalóny indukčnosti do 10 H (vlastné a vzájomné) | 3 roky
 
-- | d) teplomery s rozsahom (-55 až +20) <sup>o</sup>C, prípadne (-30 až +20) <sup>o</sup>C, delenie 0,1 deg, náplň amalgám tália (ortuť)*) |
+- 11.13 | Etalóny magnetického indukčného toku na rovnosmerné magnetické merania | 3 roky
 
-- | e) teplomery kalorimetrické s rozsahom (18 až 24) <sup>o</sup>C, delenie 0,01 deg |
+- 11.14 | Etalóny magnetickej indukcie na rovnomserné magnetické merania | 3 roky
 
-- 2 | Platinové odporové teplomery s rozsahom teplôt (-190 až +800) <sup>o</sup>C, základný odpor R<sub>o</sub> = (10, 25 alebo 100) ohmov, pomer R<sub>100</sub> : R<sub>o</sub> ≥ 1,390; prúdové i napäťové vývody, min. dĺžka 450 mm, maximálny ø trubice 12 mm | 2 roky
+- 11.15 | Etalónové vzorky na kontrolu Epsteinových prístrojov | 3 roky
 
-- 3 | Termočlánky PtRh10-Pt, ø drôtov (0,35 až 0,6) mm, min. dĺžka 1 m, s rozsahom teplôt (300 až 1200) <sup>o</sup>C | určuje sa hodinami prevádzky (20 až 200 prevádz. hodín podľa stavu meradla)
+- 11.16 | Etalónové vzorky magneticky tvrdých materiálov | 3 roky
 
-- 4 | Jasové pyrometre s rozsahom teplôt (900 až 2000) <sup>o</sup>C, triedy presnosti 1 | 2 roky
+- 11.17 | Etalónové napäťové a prúdové zdroje | 2 roky
 
-- 5 | Teplotné žiarovky v rozsahu teplôt (900 až 2100) <sup>o</sup>C | určuje sa hodinami prevádzky (100 prevádzkových hodín)
+- 11.18 | Etalónové komparátory elektrického napätia, prúdu a výkonu | 3 roky
 
-- XI Areometria | |
+- 12. HUSTOTA | |
 
-- 1 | Etalónové areometre | -
+- 12.1 | Etalónové hustomery (pre výrobcov) | 5 rokov
 
-- XII Viskozimetria | |
+- 12.2 | Hustomery všetkých technických princípov s hodnotou dielika menšou ako 0,2 kg.m<sup>-3</sup> | 3 roky
 
-- 1 | Sklenené kapilárne viskozimetre typu Ubbelohde | -
+- 13. VISKOZITA | |
 
-- XIII Fotometria | |
+- 13.1 | Etalónové kapilárne viskozimetre UBBELOHDE | 5 rokov
 
-- 1 | Žiarovky na svetelný tok | 1 rok
+- 13.2 | Referenčné materiály pre viskozitu | 1/2 roka
 
-- 2 | Žiarovky na svietivosť | 1 rok
+- 14. SVETELNÉ VELIČINY | |
 
-- 3 | Žiarovky na farebnú teplotu | 1 rok
+- 14.1 | Etalónové žiarovky na svetelný tok | 1 rok
 
-- XIV Čas | |
+- 14.2 | Etalónové žiarovky na svietivosť | 1 rok
 
-- 1 | Stopky | 2 roky
+- 14.3 | Etalónové žiarovky na farebnú teplotu | 1 rok
+
+- 15. VELIČINY IONIZUJÚCEHO ŽIARENIA | |
+
+- 15.1 | Sekundárne etalónové žiariče rádionuklidov | Určujú sa individuálne overovacím listom
+
+- 15.2 | Sekundárne etalóny žiarenia X s presnosťou lepšou ako ± 0,7 % | Určujú sa individuálne overovacím listom

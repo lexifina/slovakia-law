@@ -1,153 +1,149 @@
 Príloha III vyhlášky č. 61/1963 Zb.
 
-- Zoznam prevádzkových meradiel, správnosť ktorých zabezpečujú organizácie pomocou hlavných podnikových etalónov uvedených v prílohe II
+- Zoznam prevádzkových meradiel, ktorých presnosť zabezpečujú organizácie hlavnými podnikovými etalónmi uvedených v prílohe II
 
-  - I Dĺžka, rozmer
+  - Prevádzkovými meradlami tu určenými sú meradlá a meracie zariadenia majúce vplyv na množstvo a akosť výroby, na riadenie a ochranu technologického procesu, na ochranu zdravia, bezpečnosti a životného prostredia (pokiaľ už nie sú určené ako vybrané prevádzkové meradlá). Prevádzkové meradlá používané v týchto oblastiach určí vedúci organizácie. O kontrole prevádzkových meradiel, nešpecifikovaných v prílohe III, rozhoduje vedúci organizácie.
 
-    - 1 Základné mierky a všetky meradlá, ktoré slúžia na nastavenie meracích prístrojov, presnosť ktorých je v stotinách alebo tisícinách milimetra
+- Položka | Odbor merania Skupina alebo druh meradla
 
-    - 2 Všetky dĺžkové meradlá, presnosť ktorých je v stotinách alebo tisícinách milimetra
+- 1. DĹŽKA |
 
-  - II Plocha, rovinný uhol a odchýlky od geometrického tvaru
+- 1.1 | Dĺžkové meradlá slúžiace na nastavovanie meracích prístrojov
 
-    - 1 Uhlové mierky a všetky ostatné pevné uhlové meradlá, ktoré slúžia na nastavenie meracích prístrojov s presnosťou v minútach alebo sekundách
+- 1.2 | Dĺžkové meradlá na priame meranie v technologickom procese a ostatných etapách reprodukcie
 
-    - 2 Všetky meradlá, na ktorých sa vykonáva meranie a počítanie s presnosťou v stupňoch, minútach alebo sekundách, s výnimkou geodetických prístrojov
+- 1.3 | Meradlá (napr. meračské pásma určené pre geodetické práce vyšších tried presnosti, invarové čiarkové metre na kontrolu nivelačných lát, základňové paralaktické laty a pod.) na účely geodézie a kartografie
 
-  - III Hmota (hmotnosť)
+- 1.4 | Obilné sitá
 
-    - 1 Závažia jemné
+- 1.5 | Ostatné diaľkové meradlá, ktorých presnosť možno kontrolovať hlavnými etalónmi dĺžky uvedenými v prílohe II
 
-    - 2 Váhy uvedené pod por. č. 3 odd. III prílohy I používané iba vo vnútornom styku a na iné neobchodné účely
+- 2. PLOŠNÝ OBSAH (len v prílohách I a II) |
 
-    - 3 Dávkovacie zariadenia hmoty
+- 3. ROVINNÝ UHOL |
 
-    - 4 Váhy žeriavové
+- 3.1 | Uhlové mierky kombinačné a všetky ostatné pevné uhlové meradlá slúžiace na nastavovanie prístrojov, na priame meranie alebo meranie odchýlok geometrických tvarov kontrolovateľné hlavnými etalónmi uvedenými v prílohe II
 
-    - 5 Váhy pásové
+- 3.2 | Meracie prístroje s uhlomernými stupnicami, ktorých presnosť možno kontrolovať hlavnými etalónmi rovinného uhla uvedenými v prílohe II
 
-    - 6 Ostatné druhy váh neuvedené v prílohe I a II
+- 4. HMOTNOSŤ |
 
-  - IV Hodnotenie plodín
+- 4.1 | Závažia jemné, tried presnosti I, II a III
 
-    - 1 Obilné sitá
+- 4.2 | Váhy používané vo vnútornom hospodárskom styku na technologické a iné neobchodné účely
 
-  - V Objem, prietok
+- 4.3 | Váhy s automatickou činnosťou, najmä váhy pásové a dávkovacie
 
-    - 1 Injekčné striekačky
+- 4.4 | Ostatné zariadenia na zisťovanie hmotnosti, ktorých presnosť možno kontrolovať hlavnými etalónmi uvedenými v prílohe II
 
-    - 2 Odmerné laboratórne sklo triedy presnosti A a B
+- 5. ČAS, FREKVENCIA |
 
-    - 3 Lekárske melanžéry
+- 5.1 | Stopky
 
-    - 4 Nádrže, pokiaľ sa používajú ako meradlá
+- 5.2 | Otáčkomery
 
-    - 5 Ležiakové a uskladňovacie nádrže alebo sudy, pokiaľ sa používajú ako meradlá
+- 6. MECHANICKÝ POHYB |
 
-    - 6 Dopravné kanvy na mlieko
+- 6.1 | Vibrometre
 
-    - 7 Dávkovacie zariadenia objemu
+- 7. SILA, MECHANICKÉ SKÚŠKY MATERIÁLU (MECHANICKÝ VÝKON) |
 
-    - 8 Clony, dýzy, trubice
+- 7.1 | Tvrdomery
 
-    - 9 Meradlá objemového prietoku
+- 7.2 | Skúšobné stroje na dlhodobé skúšky tečenia materiálu (skúšky teplotného zariadenia a prieťahomerov)
 
-    - 10 Prietokové meradlá rýchlostné
+- 7.3 | Prístroje na skúšanie materiálu v krute
 
-  - VI Mechanické skúšky materiálu
+- 7.4 | Prístroje na skúšanie plechov a kovových pásov hĺbením
 
-    - 1 Tvrdomery
+- 7.5 | Momentové kľúče
 
-    - 2 Trhacie stroje a lisy nepoužívané na preukazné a preverovacie skúšky
+- 7.6 | Prevádzkové silomery
 
-    - 3 Kyvadlové kladivá nepoužívané na preukazné a preverovacie skúšky
+- 7.7 | Brzdy na zisťovanie mechanického výkonu
 
-    - 4 Skúšobné stroje na dlhodobé skúšky tečenia materiálu nepoužívané na preukazné a preverovacie skúšky
+- 7.8 | Ostatné meradlá, ktorých presnosť možno kontrolovať hlavnými etalonmi uvedenými v prílohe II
 
-    - 5 Prístroj na skúšky hĺbením kovových plechov a pásov
+- 8. OBJEM, PRIETOK |
 
-    - 6 Prístroj na skúšanie materiálu v krute
+- 8.1 | Odmerné laboratórne sklo
 
-  - VII Rotačná rýchlosť, otáčky
+- 8.2 | Nádrže a sudy, pokiaľ sa používajú ako meradlá
 
-    - 1 Otáčkomery ručné prenosné
+- 8.3 | Dopravné kanvy na mlieko
 
-    - 2 Otáčkomery stabilné
+- 8.4 | Dávkovacie zariadenie objemu
 
-  - VIII Tlak
+- 8.5 | Dávkovacie zariadenie používané na výčap liehovín a požívatín
 
-    - 1 Deformačné tlakomery:
+- 8.6 | Prietokové meradlá rýchlostné napr. clony, dýzy, trubice
 
-      - a) manometre deformačné triedy presnosti 0,5 až 4
+- 8.7 | Meradlá objemového prietoku
 
-      - b) manovákuometre deformačné
+- 8.8 | Ostatné meradlá objemu a prietoku, pokiaľ ich presnosť možno kontrolovať hlavnými etalónmi uvedenými v prílohe II
 
-      - c) vákuometre deformačné
+- 9. TLAK |
 
-      - d) tonometre deformačné
+- 9.1 | Deformačné tlakomery
 
-    - 2 Kvapalinové tlakomery:
+- 9.2 | Kvapalinové tlakomery
 
-      - a) manovákuometre trubicové
+- 9.3 | Vákuometre ostatných princípov neuvedené v prílohe II
 
-      - b) tonometre kvapalinové
+- 9.4 | Barometre
 
-      - c) mikromanometre
+- 9.5 | Ostatné meradlá tlaku, pokiaľ ich prenosť možno kontrolovať hlavnými etalónmi uvedenými v prílohe II
 
-      - d) vákuometre kvapalinové
+- 10. TEPLOTA, TEPLO |
 
-    - 3 Vákuometre ostatných princípov
+- 10.1 | Sklenené teplomery
 
-  - IX Elektrické a magnetické veličiny
+- 10.2 | Jasové pyrometre
 
-    - 1 Voltmeter triedy presnosti 0,2 až 1,5*)
+- 10.3 | Odporové teplomery
 
-    - 2 Ampérmetre triedy presnosti 0,2 až 1,5*)
+- 10.4 | Termočlánky platinové a z obecných kovov
 
-    - 3 Wattmetre triedy presnosti 0,2 až 1,5*)
+- 10.5 | Tlakové a bimetalové teplomery
 
-    - 4 Westonove články triedy II a III
+- 10.6 | Priamo ukazujúce elektronické teplomery
 
-    - 5 Technické kompenzátory
+- 10.7 | Pyrometre celkového žiarenia
 
-    - 6 Technické odporové mostíky
+- 10.8 | Ostatné meradlá teploty, pokiaľ ich presnosť možno kontrolovať hlavnými etalónmi uvedenými v prílohe II
 
-    - 7 Sady presných odporov
+- 11. ELEKTRICKÉ A MAGNETICKÉ VELIČINY |
 
-    - 8 Sady presných kapacít
+- 11.1 | Voltmetre, ampérmetre, wattmetre triedy presnosti 0,1 až 1,5<sup>17</sup>)
 
-    - 9 Vzorky pre kontrolu Epsteinových prístrojov
+- 11.2 | Westonove články
 
-  - X Teplota
+- 11.3 | Technické kompenzátory a technické odporové mostíky
 
-    - 1 Sklenené teplomery v rozsahu (- 55 až +500) <sup>o</sup>C
+- 11.4 | Merače kapacít a indukčnosti
 
-    - 2 Jasové pyrometre v rozsahu (900 až 2000) <sup>o</sup>C
+- 11.5 | Epsteinove prístroje
 
-    - 3 Odporové teplomery v rozsahu (-200 až +800) <sup>o</sup>C
+- 11.6 | Meradlá magnetickej indukcie, magnetického toku a meracej zostavy na meranie magnetov
 
-    - 4 Termočlánky PtRh10-Pt v rozsahu (0 až 1200) <sup>o</sup>C
+- 11.7 | Ostatné meradlá elektrických a magnetických veličín, pokiaľ ich presnosť možno kontrolovať hlavnými etalónmi uvedenými v prílohe II
 
-    - 5 Termočlánky zo všeobecných kovov v rozsahu (- 200 až +1200) <sup>o</sup>C
+- 12. HUSTOTA |
 
-    - 6 Tlakové teplomery
+- 12.1 | Prevádzkové hustomery
 
-  - XI Areometria
+- 12.2 | Meradlá hustoty iných princípov, pokiaľ ich presnosť možno kontrolovať hlavnými etalónmi uvedenými v prílohe II
 
-    - 1 Prevádzkové areometre
+- 13. VISKOZITA |
 
-  - XII Viskozimetria
+- 13.1 | Viskozimetre
 
-    - 1 Prevádzkové viskozimetre
+- 14. SVETELNÉ VELIČINY |
 
-  - XIII Fotometria
+- 14.1 | Luxmetre
 
-    - 1 Luxmetre
+- 14.2 | Žiarovky na svietivosť a svetelný tok
 
-    - 2 Žiarovky na svietivosť
+- 15. VELIČINY IONIZUJÚCEHO ŽIARENIA |
 
-    - 3 Žiarovky na svetelný tok
-
-  - XIV Čas
-
-    - 1 Stopky
+- 15.1 | Prevádzkové prístroje na meranie veličín ionizujúceho žiarenia, ktorých presnosť možno kontrolovať hlavnými etalónmi uvedenými v prílohe II
