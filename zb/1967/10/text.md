@@ -14,6 +14,8 @@ Podľa svojho článku 21 vstúpila Dohoda v platnosť dňom podpisu.
 
 Nadobudnutím platnosti dohody o leteckej doprave sa vo vzťahu medzi Slovenskou republikou a Ruskou federáciou končí platnosť tejto dohody (oznámenie č. 344/1996 Z. z.).
 
+Nadobudnutím platnosti dohody o leteckej doprave sa vo vzťahu medzi Slovenskou republikou a Turkmenistanom skončila platnosť tejto dohody (oznámenie č. 181/1998 Z. z.).
+
 České znenie Dohody sa vyhlasuje súčasne.*)
 
 Prvý námestník ministra:
