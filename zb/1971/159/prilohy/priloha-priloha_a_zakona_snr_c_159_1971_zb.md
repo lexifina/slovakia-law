@@ -24,9 +24,9 @@ Príloha A zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 9 | | vyhl. č. 47/1968 Zb. | § 3 ods. 2 | schvaľovanie zmluvy o zriadení spoločného družstevného podniku, ak členmi tohto podniku sú organizácie z viacerých okresov
 
-10 | | zák. č. 53/1966 Zb. | § 1 ods. 4 | vyhradzovanie si rozhodovania o súčastiach poľnohospodárskeho pôdneho fondu
+10 | | zrušené od 1.10.1976 | |
 
-11 | | | § 4 ods. 2 | vyhradzovanie si rozhodovania o povolení na vykonanie rozsiahlejších zmien kultúr vnútri poľnohospodárskeho pôdneho fondu
+11 | | | |
 
 12 | lesného a vodného hodpodárstva | zák. č. 166/1960 Zb. | § 10 ods. 1 | vyhradzovanie si rozhodovania o závažnejších zásahoch do lesného fondu alebo o vyňatí väčšej plochy lesnej pôdy
 

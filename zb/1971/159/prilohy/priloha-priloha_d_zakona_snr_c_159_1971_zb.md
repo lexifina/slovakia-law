@@ -14,9 +14,9 @@ Príloha D zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 4 | | vyhl. č. 45/1966 Zb. | § 5 ods. 2 | určovanie území, v ktorých treba zriadiť pásma hygienickej ochrany, druh a rozsah týchto pásiem a spôsob ich využitia
 
-5 | územného plánovania a stavebného poriadku | zák. č. 84/1958 Zb. vyhl. č. 153/1959 Ú. v. | § 10 § 14 | preverovanie zastavovacích plánov
+5 | územného plánovania a stavebného poriadku | zrušená od 1.10.1976 | |
 
-6 | | zák. č. 84/1958 Zb. | § 14 ods. 4 | rozhodovanie o výške náhrady škody spôsobenej pri vstupe na pozemky pri vykonávaní prieskumu a pri iných prácach povolených pre účely územného plánovania, ak nedôjde k dohode o jej výške
+6 | | zrušená od 1.10.1976 | |
 
 7 | | vyhl. č. 97/1966 Zb. | § 4 ods. 4 | rozhodovanie o tom, či poľnohospodársky pozemok je súčasťou intravilánu, ak si to v jednotlivých prípadoch nevyhradil okresný národný výbor
 
