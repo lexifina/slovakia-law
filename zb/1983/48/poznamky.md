@@ -1,1 +1,0 @@
-- 12) Zásady vnútornej a zahraničnej bankovej menovej politiky po roku 1980 schválené uznesením vlády ČSSR č. 400/1980.
