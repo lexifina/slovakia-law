@@ -6,6 +6,8 @@
 
 - 4) § 11 ods. 2 a § 30 ods.1 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
+- 4a) § 1 ods. 2 písm. a) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
+
 - 5) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 236/1988 Zb. o iných úkonoch vo všeobecnom záujme.
 
 - 6) § 177 zákona č. 140/1961 Zb. (Trestný zákon) v znení neskorších predpisov.
