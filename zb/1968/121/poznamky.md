@@ -1,1 +1,0 @@
-- *) Na hospodárenie oprávnených organizácií sa vzťahujú príslušné predpisy, ktoré nie sú týmto ustanovením dotknuté.
