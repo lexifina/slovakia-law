@@ -2,7 +2,7 @@
 
 (1) Účelový fond sa tvorí
 
-- a) sumou 0,5 % z každej platby poistného,
+- a) sumou 2 % z každej platby poistného,
 
 - b) z darov a štátnych účelových dotácií.
 
