@@ -1,0 +1,1 @@
+- 1) Pozri doplnkovú vysvetlivku 4(b) ku kapitole 27 kombinovanej nomenklatúry.
