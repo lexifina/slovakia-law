@@ -21,19 +21,3 @@
 - vyhláška č. 46/1966 Zb. o opatreniach proti prenosným
 
 - chorobám.
-
-- 1) Pri rozsahu kritickej štúdie, predhovoru alebo doslovu menšom ako jeden autorský hárok možno so zreteľom na hodnotu a spoločenský význam diel a so zreteľom na náročnosť jeho vytvorenia odmenu zvýšiť až do výšky zodpovedajúcej odmene za celý autorský hárok.
-
-- 2) Za autorský hárok spracovaného textu; ak však vytvorí register autor diela, ku ktorému register patrí, odmenuje sa ako neoddeliteľná súčasť diela.
-
-- 1) Pri odmenách za predklady, ktoré sú umelecky alebo jazykovo obzvlášť náročné, je možné zvýšiť hornú hranicu sadzby až o 25 %.
-
-- 1) Podľa tejto položky sadzobníka sa výnimočne môže dohodnúť aj odmena za vysokoškolské učebnice, ktoré jej svojím charakterom zodpovedajú.
-
-- 1) Podľa tejto položky sadzobníka budú stanovené odmeny za diela závažného ideovo-umeleckého a spoločenského významu.
-
-- 2) Za nové diela pôvodnej poézie môže byť norma vo výnimočných prípadoch znížená o 50 %.
-
-- 3) Za nové preklady poézie, ktoré významne obohacujú národnú kultúru, môže byť norma vo výnimočných prípadoch znížená o 20 %.
-
-- 4) Vrátane odmeny za doslovný preklad.
