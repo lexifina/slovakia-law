@@ -1,1 +1,1 @@
-Príloha č. 10 k vyhláške č. 558/2002 Z. z. [Vzor 10](../assets/33ea881b0160d6c1f55933e33656bcd40de8527ab4067d761babe3f1783eb8f2.pdf)
+Príloha č. 10 k vyhláške č. 558/2002 Z. z. [Vzor 10](../assets/6c71211c3763ccd058b22c6217d5c7e6f4e155f6418ff0b479221cb19bf61268.pdf)

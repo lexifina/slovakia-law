@@ -1,1 +1,1 @@
-Príloha č. 12 k vyhláške č. 558/2002 Z. z. [Vzor 12](../assets/27288d59318b1080296ae1ae6da3e0668e28f801207f0d0e8434808b5452322c.pdf)
+Príloha č. 12 k vyhláške č. 558/2002 Z. z. [Vzor 12](../assets/ec6ff1a3d61e54616faf877615820584d7f07b954ecda8c321fc8cea3166d5a6.pdf)
