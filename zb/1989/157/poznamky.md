@@ -6,6 +6,12 @@
 
 - 3a) § 13 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov.
 
+- 3b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
+
+- Zákon ČNR č. 171/1991 Zb. o pôsobnosti orgánov Českej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Českej republiky.
+
+- Zákon SNR č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
+
 - 4) Zákon č. 172/1988 Zb. o poľnohospodárskej dani.
 
 - 5) Zákon č. 35/1967 Zb. o opatreniach proti znečisťovaniu ovzdušia v znení neskorších predpisov.
