@@ -24,6 +24,8 @@
 
 - 13) Napríklad zákon Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole.
 
+- 13a) Zákon Národnej rady Slovenskej republiky č. 14/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1993 a o zmene zákonov v oblasti sociálneho zabezpečenia a niektorých ďalších zákonov.
+
 - 14) Nariadenie vlády ČSSR č. 138/1976 Zb. o úprave niektorých náhrad za stratu na zárobku po skončení pracovnej neschopnosti vzniknutej pracovným úrazom alebo chorobou z povolania.
 
 - Nariadenie vlády ČSSR č. 60/1982 Zb. o úprave niektorých náhrad za stratu na zárobku po skončení pracovnej neschopnosti vzniknutej pracovným úrazom alebo chorobou z povolania.
