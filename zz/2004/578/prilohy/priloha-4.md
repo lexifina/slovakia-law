@@ -22,7 +22,7 @@ Príloha č. 4 k zákonu č. 578/2004 Z. z.
 
   - (2) Zdravotnícky pracovník plní svoje povinnosti aj v situáciách verejného ohrozenia a pri katastrofách prírodnej alebo inej povahy.
 
-  - (3) Od zdravotníckeho pracovníka nemožno vyžadovať taký výkon alebo spoluúčasť na ňom, ktorý odporuje jeho svedomiu okrem prípadov bezprostredného ohrozenia života alebo zdravia osôb. Ak zdravotnícky pracovník uplatní výhradu svedomia, je povinný o tejto skutočnosti informovať svojho zamestnávateľa a pri uplatnení výhrady svedomia pri poskytovaní zdravotnej starostlivosti aj svojich pacientov.
+  - (3) Od zdravotníckeho pracovníka nemožno vyžadovať taký výkon alebo spoluúčasť na ňom, ktorý odporuje jeho svedomiu, okrem prípadov na ochranu života, zdravia alebo práv pacienta.
 
   - (4) Zdravotnícky pracovník nesmie predpisovať a podávať lieky, od ktorých vzniká závislosť, alebo také lieky, ktoré majú účinky dopingu, na iné ako liečebné účely.
 
