@@ -1,0 +1,3 @@
+# Čl. II
+
+Tento zákon nadobúda účinnosť 1. marcom 1958; vykoná ho minister vnútra po dohode so zúčastnenými členmi vlády.
