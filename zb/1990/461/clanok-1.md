@@ -1,0 +1,3 @@
+# Článok 1
+
+Česko-slovenskí občania, držitelia platných česko-slovenských pasov, môžu voľne pricestovať do Nórskeho kráľovstva cez ktorýkoľvek hraničný priechod určený pre medzinárodný cestovný styk a zdržiavať sa v Nórskom kráľovstve bez víz po dobu nepresahujúcu tri mesiace. Táto doba troch mesiacov sa počíta odo dňa vstupu na územie jedného zo severských štátov, ktorý je zmluvnou stranou Dohovoru o upustení od pasovej kontroly medzi severskými štátmi z 12. júla 1957. Každý pobyt v niektorom z týchto štátov počas šiestich mesiacov, ktorý predchádzal vstupu na územie niektorého z týchto štátov z neseverského štátu, sa započítava do uvedenej doby troch mesiacov.
