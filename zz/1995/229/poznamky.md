@@ -30,6 +30,8 @@
 
 - 16) Zákon č. 563/1991 Zb. o účtovníctve.
 
+- 16a) § 19 ods. 3 písm. a) zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
 - 17) § 6 Obchodného zákonníka.
 
 - 18) § 476 Obchodného zákonníka.
@@ -46,13 +48,19 @@
 
 - 23) § 3 ods. 4 zákona č. 618/1992 Zb. Colný zákon.
 
+- 23a) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov.
+
 - 24) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách.
 
 - 25) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
+- § 4 a 5 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov.
+
 - 26) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
 - 26a) § 69 Obchodného zákonníka.
+
+- 26b) § 2 ods. 1 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 27) § 63 ods. 2 písm. a) zákona č. 618/1992 Zb.
 
