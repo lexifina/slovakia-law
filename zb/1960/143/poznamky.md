@@ -1,0 +1,1 @@
+- *) Pôsobnosť orgánov územného plánovania zostáva však nedotknutá.

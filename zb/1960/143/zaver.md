@@ -1,0 +1,3 @@
+Minister:
+
+Beran v. r.
