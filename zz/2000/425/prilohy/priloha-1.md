@@ -120,4 +120,4 @@ Ak je spotreba elektrickej energie chladiaceho spotrebiča väčšia ako E<sub>m
 
 Definície
 
-Pojmy použité v tejto prílohe sú zhodné s definíciami v slovenskej technickej norme.<sup>1</sup>)
+Pojmy použité v tejto prílohe sú zhodné s definíciami v európskej technickej norme.<sup>1</sup>)

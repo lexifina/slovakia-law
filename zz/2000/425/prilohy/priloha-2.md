@@ -22,6 +22,6 @@ f) podrobnosti týkajúce sa overenia zhody týchto meraní s požiadavkami na s
 
 5. Výrobca chladiacich spotrebičov je zodpovedný za určenie hodnoty spotreby elektrickej energie každého chladiaceho zariadenia podľa postupov špecifikovaných v slovenskej technickej norme STN EN 153:1998 Metódy merania spotreby elektrickej energie domácich chladničiek, konzervátorov mrazených potravín, mrazničiek na potraviny a ich kombinácií spolu so súvisiacimi charakteristikami, ako aj za zhodu chladiaceho spotrebiča s požiadavkami § 2 tohto nariadenia.
 
-6. Výrobca alebo jeho splnomocnenec chladiaceho spotrebiča uchováva kópiu vyhlásenia o zhode spolu s technickou dokumentáciou.
+6. Výrobca chladiaceho spotrebiča alebo jeho splnomocnenec uchováva kópiu vyhlásenia o zhode spolu s technickou dokumentáciou.
 
 7. Výrobca uskutoční všetky potrebné opatrenia na to, aby zabezpečil, že výrobný proces a vyrobené chladiace spotrebiče sa zhodujú s technickou dokumentáciou podľa bodu 2 a s príslušnými požiadavkami nariadenia.
