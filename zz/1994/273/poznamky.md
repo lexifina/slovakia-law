@@ -28,6 +28,8 @@
 
 - 9a) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
+- 9c) Zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov.
+
 - 10) § 16 písm. a) bod 3 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.§ 37 ods. 1 až 3 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 11) § 8 ods. 2 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb. v znení neskorších predpisov.
@@ -78,8 +80,6 @@
 
 - 16) § 27 ods. 2 Obchodného zákonníka.
 
-- 17) Zákon č. 328/l991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
-
 - 17a) § 70 až 75 Obchodného zákonníka.
 
 - 17b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
@@ -87,6 +87,10 @@
 - 17c) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
 - 17d) § 27 a 35 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
+
+- 17e) § 580 a 581 Občianskeho zákonníka.
+
+- 17f) § 525 ods. 2 Občianskeho zákonníka.
 
 - 18) § 124 Zákonníka práce.
 
@@ -96,7 +100,7 @@
 
 - 21) § 244 a nasl. Občianskeho súdneho poriadku.
 
-- 21a) Zákon Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole v znení neskorších predpisov.
+- 21a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 21b) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
 
@@ -107,6 +111,8 @@
 - 22) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
 - 23) Zákon č. 256/l992 Zb. o ochrane osobných údajov v informačných systémoch.
+
+- 23a) § 580 Občianskeho zákonníka.
 
 - 24) Zákon Slovenskej národnej rady č. 322/l992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
