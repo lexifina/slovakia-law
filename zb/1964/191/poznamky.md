@@ -1,6 +1,6 @@
 - *) Pokyny Štátnej plánovacej komisie č. 250 715/62-SM 6 z 21. februára 1962 o vymedzení obsahovej náplne rozpočtovej ceny bytu v objekte (ide napr. o náklad na kanalizačné alebo plynovodné prípojky nad 1 m od vonkajšej steny domu).
 
-- **) Za výstavbu úplnou svojpomocou sa považuje tá výstavba vo vlastnej réžii, ktorú vykonáva družstvo bez nároku na plánované kapacity stavebnej výroby s výnimkou niektorých prác, najviac však v rozsahu 20 % rozpočtovej ceny objektu.
+- **) Za výstavbu úplnou svojpomocou sa považuje pri výstavbe začatej v roku 1967 taká výstavba vo vlastnej réžii, ktorú vykonáva stavebné bytové družstvo bez nárokov na plánované kapacity stavebnej výroby s výnimkou vykonania niektorých prác, najviac však v rozsahu:a) 40 % rozpočtových nákladov objektu pri použití tradičnej technológie výstavby, b) 60 % rozpočtových nákladov objektu pri použití progresívnej technológie výstavby.
 
 - *) Bytový objekt alebo každá jeho sekcia (t. j. samostatný článok objektu, ktorý tvorí funkčne a konštrukčne ucelenú priestorovú jednotku, v ktorej byty sú prístupné zo spoločného vchodu) musí mať najmenej 2 obytné podlažia, 1 spoločný vchod, spoločné schodište a najmenej 4 byty, ktoré sú všetky prístupné zo spoločných chodieb (alebo podest).
 
