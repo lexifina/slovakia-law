@@ -1,13 +1,7 @@
-Príloha č. 8 k zákonu č. 195/1998 Z. z.
+PRÍLOHA č. 7a
 
-- Skutočnosti na určenie výšky peňažného príspevku na opravu pomôcky Cena opravy pomôcky | Príjem občana s ťažkým zdravotným postihnutím vyjadrený v násobkoch sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom<sup>36</sup>) | | | | | |
+- Skutočnosti na určenie výšky peňažného príspevku na zaobstaranie psa so špeciálnym výcvikom Cena psa so špeciálnym výcvikom | Príjem občana s ťažkým zdravotným postihnutím vyjadrený v násobkoch sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom<sup>36</sup>) | | | | | |
 
 - | do 2 | do 3 | do 4 | do 5 | do 6 | do 7 |
 
-- do 5 000 Sk | 100 % | 50 % | 0 % | 0 % | 0 % | 0 % | Výška príspevku v % z ceny opravy pomôcky
-
-- do 10 000 Sk | 100 % | 70 % | 50 % | 25 % | 0 % | 0 % |
-
-- do 25 000 Sk | 100 % | 80 % | 60 % | 40 % | 20 % | 0 % |
-
-- nad 25 000 Sk | 100 % | 90 % | 70 % | 50 % | 30 % | 15 % |
+- x | 100 % | 95 % | 90 % | 80 % | 70 % | 60 % | Výška príspevku v % z ceny psa so špeciálnym výcvikom

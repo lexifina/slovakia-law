@@ -14,6 +14,10 @@
 
 - 7) § 8 a 9 Občianskeho zákonníka.
 
+- 7a) § 215 Trestného zákona.
+
+- 7b) § 242 a 243 Trestného zákona.
+
 - 8) § 3 a 4 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
 
 - 9) § 2 zákona č. 125/1998 Z. z.
@@ -24,13 +28,19 @@
 
 - 12) § 53 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
 
-- 13) § 32 ods. 8 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
+- 13) § 47 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
 
 - 14) § 85 a 86 Zákona o rodine.
 
-- 15) § 57 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
+- 15) § 91 a 92 Zákona o rodine.
 
 - 16) § 145b ods. 2 a 3 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 308/1995 Z. z.
+
+- 16a) § 3 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení neskorších predpisov.
+
+- 16b) § 43 ods. 2 a 3 Zákona o rodine.
+
+- 16c) § 44 a 45 Zákona o rodine.
 
 - 17) § 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
 
@@ -62,6 +72,8 @@
 
 - 30) § 4 ods. 3 písm. j) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona Národnej rady Slovenskej republiky č. 252/1994 Z. z.
 
+- 30a) § 33 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+
 - 31) § 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
 - 32) § 24 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
@@ -85,6 +97,10 @@
 - 40) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 192/1994 Z. z. o všeobecných technických požiadavkách na stavby užívané osobami s obmedzenou schopnosťou pohybu.
 
 - 41) Napríklad zákon č. 286/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
+
+- 41a) § 27 ods. 2 Občianskeho zákonníka.
+
+- 41b) § 51 a 853 Občianskeho zákonníka.
 
 - 42) § 8a a príloha č. 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
 
@@ -145,3 +161,5 @@
 - 70) Zákon Slovenskej národnej rady č. 518/1990 Zb. o prechode zakladateľskej alebo zriaďovateľskej funkcie národných výborov na obce, ústredné orgány štátnej správy a orgány miestnej štátnej správy.
 
 - 71) § 41 až 43b, § 47, § 49 až 52 a § 77 ods. 2 vyhlášky Ministerstva zdravotníctva a sociálnych vecí Slovenskej socialistickej republiky č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení neskorších predpisov.
+
+- 72) § 142 ods. 4 a 6 zákona č. 100/1988 Zb. v znení zákona č. 306/1991 Zb.

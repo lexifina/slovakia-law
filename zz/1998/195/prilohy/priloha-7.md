@@ -1,6 +1,6 @@
-Príloha č. 7 k zákonu č. 195/1998 Z. z.
+PRÍLOHA č. 7
 
-- Skutočnosti na určenie výšky peňažného príspevku na zobstaranie pomôcky a peňažného príspevku na úpravu bytu, rodinného domu alebo garáže Cena pomôcky, cena potrebnej úpravy bytu, rodinného domu alebo garáže | Príjem občana s ťažkým zdravotným postihnutím vyjadrený v násobkoch sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom<sup>36</sup>) | | | | | |
+- Skutočnosti na určenie výšky peňažného príspevku na zaobstaranie pomôcky a peňažného príspevku na úpravu bytu, rodinného domu alebo garáže Cena pomôcky, cena potrebnej úpravy bytu, rodinného domu alebo garáže | Príjem občana s ťažkým zdravotným postihnutím vyjadrený v násobkoch sumy životného minima pre plnoletú fyzickú osobu ustanoveného osobitným predpisom<sup>36</sup>) | | | | | |
 
 - | do 2 | do 3 | do 4 | do 5 | do 6 | do 7 |
 
