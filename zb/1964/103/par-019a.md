@@ -12,4 +12,4 @@
 
 (5) Vyrovnávací príspevok nepatrí, ak družstevníčka po prevedení na inú prácu neodpracovala bez vážnych dôvodov v kalendárnom mesiaci aspoň osem pracovných dní.
 
-(6) Ministerstvo práce a sociálnych vecí po dohode s Ministerstvom poľnohospodrástva a lesného hospodárstva a s Ústrednou radou odborov vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.
+(6) Ministerstvo práce a sociálnych vecí po dohode s Ministerstvom poľnohospodárstva a výživy a s Ústrednou radou odborov vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.
