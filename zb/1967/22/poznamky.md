@@ -25,3 +25,5 @@
 - *) Cenu autorského dozoru vyčlení z celkovej ceny projektu Federálny výbor pre technický a investičný rozvoj.
 
 - *) Vyhláška Štátnej komisie pre techniku č. 107/1966 Zb. o dokumentácii stavieb.
+
+- *) Smernice čl. 3.
