@@ -12,7 +12,9 @@
 
 (6) Akékoľvek iné označenie pre prírodné minerálne vody plnené do spotrebiteľského balenia a verejne distribuované je zakázané.
 
-(7) Žiadosť o vydanie povolenia na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody musí obsahovať
+(7) Prírodné liečivé vody a prírodné minerálne stolové vody plnené do spotrebiteľského balenia z jedného prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody sa môžu distribuovať do verejnej siete v Slovenskej republike len pod jedným obchodným názvom.
+
+(8) Žiadosť o vydanie povolenia na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody musí obsahovať
 
 - a) údaje uvedené v § 65 ods. 7 písm. a),
 
@@ -24,7 +26,7 @@
 
 - e) záväzné stanovisko obce k predmetu činnosti žiadateľa.
 
-(8) Povolenie na využívanie prírodných liečivých zdrojov alebo prírodných zdrojov minerálnych stolových vôd obsahuje
+(9) Povolenie na využívanie prírodných liečivých zdrojov alebo prírodných zdrojov minerálnych stolových vôd obsahuje
 
 - a) údaje uvedené v § 65 ods. 7 písm. a),
 
@@ -38,9 +40,9 @@
 
 - f) časové intervaly vykonávania fyzikálnych, chemických, mikrobiologických a biologických analýz.
 
-(9) Povolenie sa vydáva najviac na desať rokov.
+(10) Povolenie sa vydáva najviac na desať rokov.
 
-(10) Využívateľ prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody je povinný
+(11) Využívateľ prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody je povinný
 
 - a) udržiavať v bezchybnom technickom a hygienickom stave balneotechnické, balneoterapeutické alebo plniarenské zariadenia podľa podmienok určených ministerstvom zdravotníctva v povolení na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnych stolových vôd,
 
@@ -54,4 +56,4 @@
 
 - f) umožniť výkon dozoru a kontroly nad využívaním a ochranou zdroja oprávneným osobám.
 
-(11) Náklady spojené s plnením povinností podľa odseku 10 znáša využívateľ zdroja.
+(12) Náklady spojené s plnením povinností podľa odseku 11 znáša využívateľ zdroja. Ak prírodný liečivý zdroj alebo prírodný zdroj minerálnej stolovej vody využívajú viacerí využívatelia zdroja, náklady spojené s plnením povinností podľa odseku 11 znášajú pomerne podľa povoleného odberného množstva zo zdroja.
