@@ -46,4 +46,6 @@
 
 - 19) § 40 zákona SNR č. 330/1991 Zb.
 
+- 19a) § 56 ods. 1 písm. g) a § 63 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
+
 - 20) Zákon SNR č. 330/1991 Zb.
