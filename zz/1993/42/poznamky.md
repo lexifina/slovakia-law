@@ -1,0 +1,1 @@
+- 1) § 8 ods.1 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
