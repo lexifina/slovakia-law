@@ -1,1 +1,0 @@
-Dr. Dolanský v. r.
