@@ -1,0 +1,11 @@
+## 65
+
+VYHLÁŠKA
+
+ministerstva školství, mládeže a tělovýchovy České republiky
+
+ze dne 23. ledna 1992,
+
+## kterou se mění a doplňuje vyhláška č. 30/1991 Sb., o přijímání žáků a dalších uchazečů ke studiu ve středních školách
+
+Ministerstvo školství, mládeže a tělovýchovy České republiky v dohodě s ministerstvem zdravotnictví České republiky stanoví podle § 19 odst. 4 zákona č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), ve znění zákona č. 171/1990 Sb. a zákona č. 522/1990 Sb. a podle § 13 písm. h) zákona České národní rady č. 564/1990 Sb., o státní správě a samosprávě ve školství:
