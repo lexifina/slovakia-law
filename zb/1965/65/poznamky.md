@@ -26,7 +26,7 @@
 
 - 8aa) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
-- 8b) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+- 8b) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
 - 8c) § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
 
