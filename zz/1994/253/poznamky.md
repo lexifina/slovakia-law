@@ -14,8 +14,10 @@
 
 - 8) Príloha č. 3 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 193/1996 Z. z.
 
-- 9) § 13c zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona Slovenskej národnej rady č. 252/1994 Z. z.
+- 9) § 13a ods. 1 písm. a), d) a f) zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 10) § 115 Občianskeho zákonníka.
 
 - 11) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+
+- 12) § 13a ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb.
