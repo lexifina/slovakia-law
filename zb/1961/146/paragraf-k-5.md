@@ -24,11 +24,11 @@
 
 - a) pri príjme z podnájmu až do výšky dvoch tretín,
 
-- b) pri príjmoch z chovu kožušinových zvierat, laboratórnych zvierat, včiel, zo zberateľskej činnosti a zo zvozu dreva z oblastí postihnutých kalamitou až do 50 %,
+- b) pri príjmoch zo zberateľskej činnosti a zo zvozu dreva z oblastí postihnutých kalamitou až do 50 %,
 
 - c) pri príjmoch z chovu domáceho zvieractva a zo zvozu dreva, ak nejde o prípad uvedený pod písmenom b) až do 40 %,
 
-- d) pri príjmoch zo špecializovanej rastlinnej výroby (zelenina, jahody, ovocie, vinič, tabak, liečivé a aromatické rastliny, semená všetkých druhov a kvetiny), za odpredaj preparovaných zvierat a za prechodné ubytovanie až do 30 %,
+- d) pri príjmoch za odpredaj preparovaných zvierat a za prechodné ubytovanie až do 30 %,
 
 - e) pri príjmoch v ostatných prípadoch vyššie neuvedených až do 10 %.
 
