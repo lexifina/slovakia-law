@@ -1,0 +1,1 @@
+- *) Zákon č. 14/1954 Zb. v znení zákona č. 11/1957 Zb. nadobúda účinnosť 16. marcom 1957.
