@@ -1,5 +1,0 @@
-# § 40a Zdaňovacie obdobie platiteľa v konkurznom konaní a vo vyrovnacom konaní
-
-(1) Ak je na platiteľa vyhlásený konkurz alebo ak je platiteľovi povolené vyrovnanie, končí sa prebiehajúce zdaňovacie obdobie platiteľa dňom, ktorý predchádza vyhláseniu konkurzu, alebo dňom, ktorý predchádza povoleniu vyrovnania. Ďalšie zdaňovacie obdobie platiteľa sa začína dňom vyhlásenia konkurzu alebo dňom povolenia vyrovnania a končí sa posledným dňom kalendárneho mesiaca, v ktorom bol vyhlásený konkurz alebo povolené vyrovnanie. Ďalej je zdaňovacím obdobím platiteľa kalendárny mesiac. Ak ide o platiteľa, ktorému bolo povolené vyrovnanie, je zdaňovacím obdobím kalendárny mesiac do konca kalendárneho roka, v ktorom bolo povolené vyrovnanie, a pre nasledujúci kalendárny rok sa určí zdaňovacie obdobie podľa § 40.
-
-(2) Dňom zrušenia konkurzu sa končí prebiehajúce zdaňovacie obdobie platiteľa. Ďalšie zdaňovacie obdobie platiteľa sa začína dňom nasledujúcim po zrušení konkurzu a končí sa posledným dňom kalendárneho mesiaca, v ktorom bol konkurz zrušený. Ďalej je zdaňovacím obdobím platiteľa kalendárny mesiac, a to až do zrušenia registrácie platiteľa.

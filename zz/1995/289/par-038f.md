@@ -1,7 +1,0 @@
-# § 38f
-
-(1) Daňový úrad opatrí odtlačkom úradnej pečiatky všetky faktúry, iné doklady o kúpe a dovozné dokumenty priložené k žiadosti o vrátenie dane a do 30 dní ich vráti zahraničnej osobe a o žiadosti o vrátenie dane rozhodne do šiestich mesiacov od podania žiadosti. Ak zahraničná osoba podá žiadosť o vrátenie dane za obdobie kratšie ako kalendárny rok, pričom nesplní podmienky na podanie žiadosti za obdobie kratšie ako kalendárny rok, rozhodne daňový úrad o žiadosti o vrátenie dane do šiestich mesiacov od konca kalendárneho roka.
-
-(2) Ak daňový úrad rozhodne o vrátení dane, vráti daň v lehote na rozhodnutie o žiadosti podľa odseku 1. Daň vráti v slovenských korunách na účet vedený v banke v Slovenskej republike alebo na náklady zahraničnej osoby na účet vedený v zahraničnej banke;<sup>50b</sup>) daň môže vrátiť aj prostredníctvom zástupcu zahraničnej osoby, ak zástupca predloží daňovému úradu plnomocenstvo na zastupovanie zahraničnej osoby.
-
-(3) Ak daňový úrad dodatočne zistí, že daň bola vrátená na základe nepravdivých údajov, má právo žiadať späť neoprávnene vrátenú daň a uložiť pokutu vo výške 50 % neoprávnene vrátenej dane. Ak zahraničná osoba nevráti neoprávnene vrátenú daň, daňový úrad má právo odmietnuť ďalšie žiadosti o vrátenie dane. Daňový úrad môže odmietnuť vrátenie dane, ak štát, v ktorom má zahraničná osoba založený podnik, neposkytuje vrátenie dane alebo obdobnej všeobecnej dane zo spotreby slovenským osobám, ktoré sú platiteľmi podľa tohto zákona.
