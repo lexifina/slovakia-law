@@ -1,0 +1,3 @@
+Ministr:
+
+Novák v. r.
