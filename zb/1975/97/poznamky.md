@@ -1,1 +1,0 @@
-- 1) § 8 ods. 1 písm. a), b) a e) zákona č. 138/1973 Zb. o vodách (vodný zákon).
