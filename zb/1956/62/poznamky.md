@@ -1,3 +1,0 @@
-- *) Táto pôsobnosť Štátnej systemizačnej komisie prešla na Štátnu mzdovú komisiu [čl. III č. 4 písm. a) vyhlášky č. 175/1956 Ú. l. (Ú. v.) o štatúte Štátnej mzdovej komisie a pôsobnosti štátnych orgánov pri vedení a vykonávaní mzdovej politiky].
-
-- **) V znení zákonného opatrenia Predseníctva Národného zhromaženia č. 60/1956 Zb. nadobúda vládne nariadenie č. 17/1954 Zb. účinnosť 23. decembrom 1956 s tým, že pre zamestnancov v osobných stavoch systemizovaných podľa doterajších predpisov zostávajú doterajšie platové úpravy v platnosti až do novej systemizácie podľa čl. II tohto zákonného opatrenia.
