@@ -1,1 +1,0 @@
-- *) Tu slovenské znenie na str. 11.
