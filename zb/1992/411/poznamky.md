@@ -1,0 +1,1 @@
+- 12) Inštrukcia predsedu Federálneho úradu pre vynálezy č. 456/B z 3. 6. 1992.
