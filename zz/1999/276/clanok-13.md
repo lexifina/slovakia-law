@@ -1,0 +1,3 @@
+# Článok 13 Uznanie osvedčení a licencií
+
+Osvedčenia o spôsobilosti lietadla na lietanie, osvedčenia o kvalifikácii a licencie, ktoré vydala alebo vyhlásila za platné jedna zmluvná strana, počas ich platnosti uzná za platné aj druhá zmluvná strana na účely poskytovania dohodnutých služieb na určených trasách, ak takéto osvedčenia a licencie boli vydané alebo uznané za platné v súlade s ustanoveniami Dohovoru. Každá zmluvná strana si však vyhradzuje právo odmietnuť uznať v prípade preletu ponad územie jej štátu platnosť osvedčení o kvalifikácii a licencií, ktoré udelila jej štátnym príslušníkom druhá zmluvá strana.
