@@ -58,6 +58,14 @@ Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 
 
 - Ak výrobca má certifikát systému kvality, obsahom počiatočnej inšpekcie je zistiť, či certifikát systému kvality sa vzťahuje na stavebný výrobok, ktorého zhoda sa preukazuje. Autorizovaná osoba môže upustiť od vykonávania priebežných inšpekcií.“.
 
+- 15. V § 7 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Ministerstvo vydá všeobecne záväzný právny predpis, v ktorom určí skupiny stavebných výrobkov a podrobnosti o preukazovaní zhody.“.
+
+- Doterajší odsek 2 sa označuje ako odsek 3.
+
 - 16. Za § 8 sa vkladá § 8a, ktorý vrátane nadpisu znie:
 
 - „§ 8a
@@ -493,5 +501,7 @@ Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 
 - „(3)
 
 - Ak nemožno postupovať podľa odsekov 1 a 2 a vykonanie inšpekcie v zahraničí je ekonomicky veľmi nevýhodné alebo neuskutočniteľné, autorizovaná osoba, ktorá je autorizovaná na preukazovanie zhody (§ 15 ods. 3 a 4), môže namiesto počiatočnej inšpekcie a priebežných inšpekcií vykonávať nepretržitú kontrolu dovážaných zahraničných stavebných výrobkov a vykonávať skúšky podľa zásad štatistickej prebierky.“.
+
+- 50. Príloha č. 1 sa vypúšťa.
 
 - 51. Slová „systém kvality u výrobcu“, „systém kvality“, „uplatňovaný systém kvality u výrobcu“ a „systém kvality uplatňovaný u výrobcu“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „vnútropodniková kontrola“ v príslušnom tvare a slová „Slovenský stavebný register“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „Slovenský register stavebných výrobkov“ v príslušnom tvare.
