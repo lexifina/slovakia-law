@@ -1,0 +1,1 @@
+- *) Použije sa v prípade, že vysoká škola v ČSSR priznáva svojim absolventom titul podľa § 14 zákona č. 19/1966 Zb. o vysokých školách.
