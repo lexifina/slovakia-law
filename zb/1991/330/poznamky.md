@@ -2,6 +2,8 @@
 
 - 1a) § 2a zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
+- 1aa) § 151a až 151n Občianskeho zákonníka.
+
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 69 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, § 22 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 3) § 1 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení zákona SNR č. 130/1991 Zb.
@@ -9,6 +11,12 @@
 - 4) § 4 zákona č. 229/1991 Zb.
 
 - 5) § 17 zákona č. 229/1991 Zb.
+
+- 5a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- 5b) § 34 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
 - 6) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -20,7 +28,21 @@
 
 - 6c) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
-- 7) § 2 zákona č. 22/1964 Zb. o evidencii nehnuteľností v znení zákona SNR č. 150/1983 Zb.
+- 7) § 7 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 7a) Zákon Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
+
+- 7b) Občiansky zákonník.
+
+- 7c) § 19 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení zákona č. 419/2002 Z. z.
+
+- 7d) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 7e) § 108 zákona č. 50/1976 Zb.
+
+- 7f) § 3 písm. a) zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z.
+
+- 7g) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení neskorších predpisov.
 
 - 8) § 247 až 250k Občianskeho súdneho poriadku.
 
@@ -29,6 +51,8 @@
 - 10) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 11) § 32 a nasl. zákona č. 50/1976 Zb.
+
+- 11a) § 58 ods. 2 zákona č. 50/1976 Zb.
 
 - 12) Druhá časť zákona č. 229/1991 Zb.
 
@@ -53,6 +77,10 @@
 - 16a) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
 - Vyhláška Úradu geodézie, kartografie a katastra Slovenskej republiky č. 178/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o geodézii a kartografii.
+
+- 16b) § 14 ods. 3 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 16c) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 17) § 52 až 58 vyhlášky FMTIR č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky FMTIR č. 45/1979 Zb.
 
@@ -189,3 +217,5 @@
 - 53) § 22 ods. 1 písm. a) zákona č. 229/1991 Zb. v spojení s § 46 ods. 1 zákona č. 162/1990 Zb. o poľnohospodárskom družstevníctve.
 
 - 54) § 5 ods. 3 zákona č. 229/1991 Zb.
+
+- 55) § 80 písm. c) Občianskeho súdneho poriadku.
