@@ -14,7 +14,9 @@
 
 - 8) § 18 ods. 2 písm. b) bod 2 a § 28 Branného zákona.
 
-- 9) Článok 102 písm. j) Ústavy Slovenskej republiky.
+- 8a) § 9 ods. 3 Zákonníka práce.
+
+- 9) Článok 102 ods. 1 písm. j) Ústavy Slovenskej republiky.
 
 - 10) Článok 54 Ústavy Slovenskej republiky.
 
@@ -40,6 +42,8 @@
 
 - 21) Napríklad § 14 ods. 4 zákona Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení neskorších predpisov (úplne znenie č. 247/1996 Z. z.), § 5 ods. 5 zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe.
 
+- 21a) § 5 a 56 Branného zákona.
+
 - 22) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
 - 23) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
@@ -52,23 +56,23 @@
 
 - 27) Zákon Národnej rady Slovenskej republiky č. 237/1993 Z. z. o registri trestov.
 
-- 28) § 5 Branného zákona.
-
 - 29) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky v znení neskorších predpisov.
+
+- 29a) § 3 Branného zákona.
 
 - 30) § 2b ods. 7 zákona Národnej rady Slovenskej republiky č. 3/1993 Z. z.
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
-- 32) Napríklad zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z., zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov (úplné znenie č. 30/1997 Z. z.), zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 314/1996 Z. z. o prokuratúre.
-
 - 33) § 15 ods. 3 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
 - 34) § 1 ods. 5 zákona Národnej rady Slovenskej republiky č. 3/1993 Z. z.
 
+- 34a) Napríklad článok 102 ods. 1 písm. g) Ústavy Slovenskej republiky, zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov, zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 314/1996 Z. z. o prokuratúre v znení neskorších predpisov.
+
 - 35) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
 
-- 36) Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+- 36) § 18a písm. b) a § 21 ods. 1 písm. b) a c) zákona č. 172/1990 Zb. v znení neskorších predpisov.
 
 - 37) Zákon č. 335/1991 Zb. v znení neskorších predpisov.
 
@@ -76,7 +80,13 @@
 
 - 39) § 20 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
+- 39a) Zákon Národnej rady Slovenskej republiky č. 253/1994 Z. z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov.
+
+- 39b) § 16 Branného zákona.
+
 - 40) § 21 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 40a) Zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z.
 
 - 41) § 1 ods. 3 zákona Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
@@ -92,6 +102,8 @@
 
 - 47) § 19 až 25 Branného zákona.
 
+- 47a) § 19 ods. 1 Branného zákona.
+
 - 48) § 8 ods. 2 Občianskeho zákonníka.
 
 - 49) § 26 Branného zákona.
@@ -104,6 +116,14 @@
 
 - 53) § 24 Branného zákona.
 
+- 53a) § 18 ods. 2 písm. b) Branného zákona.
+
+- 53b) § 19, 20 a 26 Branného zákona.
+
+- 53c) § 16 Branného zákona.
+
+- 53d) § 27 Branného zákona.
+
 - 54) Zákon č. 29/1984 Zb.Zákon č. 172/1990 Zb. v znení neskorších predpisov.
 
 - 55) Zákon č. 50/1973 Zb. v znení neskorších predpisov.
@@ -112,19 +132,29 @@
 
 - 57) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
-- 58) § 294 ods. 1 Trestného zákona.
-
 - 59) Článok 93 ods. 2 Ústavy Slovenskej republiky.
 
 - 60) § 34 Branného zákona.
+
+- 60a) § 26 ods. 1 Branného zákona.
 
 - 61) Článok 102 písm. g) Ústavy Slovenskej republiky.
 
 - 62) Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
 
+- 62a) § 34 písm. a) Branného zákona.
+
 - 63) Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z.
 
+- 63a) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z.Zákon č. 124/1992 Zb. o Vojenskej polícii.
+
+- 63b) Zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie.
+
+- 63c) Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
+
 - 64) § 1 a 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení zákona Národnej rady Slovenskej republiky č. 201/1996 Z. z.
+
+- 64a) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.Zákon č. 87/1991 Zb. v znení neskorších predpisov.
 
 - 65) Napríklad zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov, zákon č. 50/1973 Zb.
 
