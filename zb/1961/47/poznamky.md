@@ -1,0 +1,1 @@
+- *) Rozsah je určený uznesením vlády č. 11/1961
