@@ -1,3 +1,3 @@
 Príloha č. 16 k vyhláške č. 210/2000 Z. z.
 
-- LIEHOMERY A HUSTOMERY NA LIEH [Príloha 16](../assets/3901f7a6c9c19178b81cbd6d64f3bd5b92400f5b644ab63715a19eeb409ef0dc.pdf)
+- LIEHOMERY A HUSTOMERY NA LIEH [Príloha 16](../assets/718dacbfb01a940a6a58ddd18152003cec16820604886dffb7935afe8b2b83d8.pdf)

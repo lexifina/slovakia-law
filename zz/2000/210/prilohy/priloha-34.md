@@ -1,0 +1,3 @@
+Príloha č. 34 k vyhláške 210/2000 Z. z.
+
+- PREPRAVNÉ SUDY A PREPRAVNÉ TANKY [Príloha 34](../assets/9bb9d8908634304a21fc03d0f43b78b6197061a79f106b86bf5a5e8c1566d011.pdf)
