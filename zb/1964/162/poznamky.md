@@ -1,1 +1,0 @@
-- *) ČSN 038802 - Kontrolná značka klimatickej odolnosti.
