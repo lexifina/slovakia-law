@@ -11,3 +11,5 @@
 (5) Ak bola rozhodnutím o odvolaní proti vyrubenej dani alebo iným rozhodnutím o daňovej povinnosti daň celkom alebo sčasti odpísaná, odpíše sa z úradnej moci v pomernej časti aj penále a úrok, ktoré z odpísanej dane boli vyrubené, ak v rozhodnutí nie je určené inak.
 
 (6) Penále a úrok sa nevyrubí, ak nepresiahne v úhrne sumu 100 Sk za jedno zdaňovacie obdobie.
+
+(7) Ak daňovník nepostupuje podľa ustanovení § 35a ods. 4 a 5, je povinný zaplatiť penále vo výške 100 % dlžnej sumy dane a úroku ustanoveného všeobecne záväzným právnym predpisom (§ 39). Ak daňovník postupuje podľa § 35a ods. 4 a 5, je povinný zaplatiť penále na uplatnené úľavy vo výške 50 % z dlžnej sumy a 50 % z úroku. Pri uplatnení penále a úroku sa nepoužijú ustanovenia odsekov 1 a 2.

@@ -14,6 +14,6 @@
 
 - b) že súčasne za rovnaké zdaňovacie obdobie neuplatňuje nárok na nezdaniteľné časti zo základu dane a sumu podľa § 6 ods. 12 písm. b) u iného platiteľa dane a že nárok na nezdaniteľné časti zo základu dane na tie isté osoby súčasne za rovnaké zdaňovacie obdobie neuplatňuje iný daňovník,
 
-- c) či je požívateľom starobného dôchodku.
+- c) či je požívateľom starobného dôchodku alebo dôchodku za výsluhu rokov z dôchodkového zabezpečenia, alebo dôchodku zo zahraničného povinného poistenia rovnakého druhu.
 
 (6) Ak dôjde v priebehu roka k zmene rozhodujúcich skutočností, daňovník je povinný oznámiť ich písomne (napr. zmenou vo vyhlásení) platiteľovi dane najneskôr posledný deň kalendárneho mesiaca, v ktorom zmena nastala. Platiteľ dane poznamená zmenu na mzdovom liste.

@@ -6,4 +6,4 @@
 
 (3) Dodatočne zrazenú alebo vybratú daň alebo preddavok podľa odseku 2 platiteľ dane odvedie správcovi dane v najbližšom termíne na odvod preddavkov.
 
-(4) Dodatočne predpísanú daň a preddavky vrátane príslušenstva je platiteľ dane povinný odviesť správcovi dane do piatich dní po doručení platobného výmeru.
+(4) Dodatočne vyrubenú daň a preddavky na daň z príjmov zo závislej činnosti uhradí platiteľ dane správcovi dane do piatich dní po doručení dodatočného platobného výmeru.
