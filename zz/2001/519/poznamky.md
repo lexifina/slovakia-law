@@ -1,1 +1,0 @@
-- Pozná) *) Diplomatická misia, konzulárne úrady (s výnimkouĺ konzulárneho úradu vedeného honorárnym konzulom).
