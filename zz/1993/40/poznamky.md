@@ -2,7 +2,7 @@
 
 - 2) § 8 Občianskeho zákonníka.
 
-- 3) § 74 zákona č. 94/1963 Zb. o rodine v znení zákona č. 132/1982 Zb.
+- 3) § 108 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 4) § 7 zákona č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
 
