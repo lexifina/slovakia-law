@@ -1,5 +1,7 @@
 - 1) § 2 ods. 1 Obchodného zákonníka.
 
+- 1a) § 3 ods. 1 písm. b) zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení zákona Národnej rady Slovenskej republiky č. 250/1994 Z. z. a zákona č. 319/1999 Z. z.
+
 - 2) § 3 Obchodného zákonníka.
 
 - 3) § 31 Obchodného zákonníka.
@@ -38,13 +40,9 @@
 
 - 20) § 13 a 14 Trestného zákona.§ 2 ods. 2 zákona Slovenskej Národnej rady č. 372/1990 Zb.
 
-- 21) Napríklad § 17 zákona č. 455/1991 Zb.
-
-- 22) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 21) Napríklad zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
-
-- 24) § 30 ods. 6 zákona č. 455/1991 Zb.
 
 - 25) Zákon Slovenskej národnej rady č. 372/1990 Zb.
 
