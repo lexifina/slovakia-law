@@ -1,1 +1,0 @@
-Strechaj v. r.
