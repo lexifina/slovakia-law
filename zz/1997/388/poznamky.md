@@ -1,0 +1,1 @@
+- 1) Opatrenie Štatistického úradu Slovenskej republiky č. 172/1995 Z. z., ktorým sa vyhlasuje klasifikácia produkcie v znení opatrenia Štatistického úradu Slovenskej republiky č. 24/1996 Z. z.
