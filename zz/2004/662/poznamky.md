@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 263/2004 Z. z. o podmienkach uznania prírodných minerálnych vôd.
