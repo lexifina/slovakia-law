@@ -2,7 +2,7 @@ Príloha vyhlášky č. 99/1989 Zb. I. diel
 
 VYOBRAZENIE DOPRAVNÝCH ZNAČIEK, DOPRAVNÝCH ZARIADENÍ A RÔZNYCH OZNAČENÍ
 
-[Image omitted: https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/1989/99/19941101_1847633-2.pdf; Obrázok 01 (príloha v PDF); reason: too large]
+[Image omitted: https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/1989/99/19970228_1847633-2.pdf; Obrázok 01 (príloha v PDF); reason: too large]
 
 II. DIEL
 
