@@ -14,7 +14,7 @@ Vlády, které přistoupily k této dohodě, přejíce si uspořádati bývalé 
 
 - Článek 3.
 
-  - S výhradou ustanovení čl. 4, veškeré licence poskytnuté podle čl. 1 a veškeré licence poskytnuté podle čl. 2, pokud vládě není bráněno podmínkami nabytého patentu, licence nebo jiného práva, mají zahrnovat práva vykonávat a provádět vynálezy podle patentů a právo vyrábět, užívat a prodávat výrobky podle vynálezů, bez zřetele na místo výroby těchto výrobků.
+  - S výhradou ustanovení čl. 4, veškeré licence poskytnuté podle čl. 1 a veškeré licence poskytnuté podle čl. 2, pokud vládě není bráněno podmínkami nabytého patentu, licence nebo jiného práva, mají zahrnovat práva vykonávat a provádět vynálezy podle patentů a právo vyrábět, užívat a prodávat výrobky podle vynálezů, pokiaľ také výrobky sú vyrobené v štáte alebo na území, na ktoré sa Dohoda vzťahuje.
 
 - Článek 4.
 
@@ -38,7 +38,9 @@ Vlády, které přistoupily k této dohodě, přejíce si uspořádati bývalé 
 
 - Článek 9.
 
-  - Ostatní členské vlády Spojených národů nebo zemí, které zůstaly neutrálními během druhé světové války, mohou přistoupiti k této dohodě tím, že oznámí vládě Spojeného království své přijetí této dohody před 1. lednem 1947. Vláda Spojeného království oznámí všem vládám zastoupeným na londýnské konferenci o německých patentech, nebo které přistoupily k této dohodě podle tohoto článku, všechny přístupy takto oznámené.
+  - Vláda ktoréhokoľvek iného člena Spojených národov alebo ktorejkoľvek krajiny, ktorá zostala neutrálna za druhej svetovej vojny, môže sa tiež stať smluvnou stranou tejto Dohody tým, že oznámi vláde Spojeného kráľovstva svoj prístup k tejto Dohode najpozdejšie do 31. júla 1947. Vláda spojeného kráľovstva uvedomí všetky vlády, zastúpené na londýnskej konferencii o nemeckých patentoch, alebo ktoré pristúpily k tejto Dohode podľa tohto článku, o všetkých prístupoch takto oznámených.
+
+  - Každá vláda, ktorá pristúpi k tejto Dohode v čase od 1. januára 1947 do 31. júla 1947, sa zaväzuje, že pri vykonávaní práva, určeného v článku 4., nebude chrániť alebo zachovávať práva alebo účasti, ktoré boly udelené ktorémukoľvek Nemcovi alebo boly ním získané po 1. auguste 1946.
 
 - Článek 10.
 
