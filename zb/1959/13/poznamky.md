@@ -1,1 +1,0 @@
-- *) Zmeny vykonané zákonom č. 12/1959 Zb. nadobúdajú účinnosť 14. marcom 1959.
