@@ -10,9 +10,13 @@
 
 - Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
 
+- 1a) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov, zákon Národnej rady Slovenskej republiky č. 564/1992 Zb. o spôsobe vykonania referenda.
+
 - 2) § 8 a 9 zákona Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
 
-- 4) § 7 ods. 1 písm. b) zákona SNR č. 176/1989 Zb. o vyhlasovaní všeobecne záväzných právnych predpisov a iných opatrení orgánov Slovenskej republiky v Zbierke zákonov.
+- 3) Zákon č. 165/1998 Z. z. o sčítaní obyvateľov, domov a bytov v roku 2001.
+
+- 4) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
 - 5) § 28 ods. 6 Obchodného zákonníka.
 
@@ -20,9 +24,7 @@
 
 - 7) Zákon č. 526/1990 Zb. o cenách.
 
-- 8) Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva.
-
-- § 17 a 51 Obchodného zákonníka.
+- 8) Zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
 
 - 9) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
