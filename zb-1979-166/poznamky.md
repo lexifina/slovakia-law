@@ -1,0 +1,3 @@
+- 10) Novokoncipované učebné odbory sú ustanovené vyhláškou Ministerstva školstva ČSR č. 70/1978 Zb., ktorou sa mení a dopĺňa vyhláška č. 87/1970 Zb. o učebných odboroch a o organizácii výchovy učňov v znení vyhlášok č. 68/1971 Zb. a č. 54/1972 Zb. Uvádzajú sa iba tie učebné odbory, ktoré sa zavádzajú najneskôr do 1. 9. 1980. O zvýhodnení učebných odborov zavádzaných od 1. 9. 1981 sa rozhodne v súlade s plánom potreby kvalifikovaných pracovníkov na obdobie 7. päťročného plánu.
+
+- 11) Ustanovené vyhláškou Ministerstva školstva ČSR č. 87/1970 Zb. o učebných odboroch a o organizácii výchovy učňov v znení vyhlášok č. 68/1971 Zb. a č. 54/1972 Zb.
