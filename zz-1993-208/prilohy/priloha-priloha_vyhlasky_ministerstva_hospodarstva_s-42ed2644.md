@@ -1,0 +1,1 @@
+Príloha vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. [Vzor - Osvedčenie o odbornej spôsobilosti](../assets/fd72ddc6dc2a5b35f3ca52f7af96c5cc3db43424e12ade8eaff8c5116c2e2f70.pdf)
