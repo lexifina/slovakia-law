@@ -24,9 +24,31 @@ Príloha vyhlášky č. 90/1966 Zb.
 
     - 2. Vojenskými vysokými školami technického smeru ku dňu účinnosti zákona sú:
 
-      - a) Vojenská akadémia Antonína Zápotockého v Brne, ktorá pripravuje kvalifikované kádre pre zastávanie veliteľských, veliteľsko-technických, technických aj iných funkcií vyžadujúcich vysokoškolské vzdelanie. Jej absolventom patrí titul „inžinier" (v skratke „Ing."),
+      - a) Vojenská akadémia Antonína Zápotockého v Brne, vyznamenaná Rádom republiky a Rádom červenej hviezdy, je vojenskou vysokou školou, ktorá sa člení na fakulty:
 
-        - b) Vojenská fakulta Vysokej školy dopravnej v Žiline, ktorá pripravuje kvalifikované kádre pre zastávanie veliteľských, veliteľsko-technických, technických aj iných funkcií vyžadujúcich vysokoškolské vzdelanie špeciálne zamerané pre oblasť dopravy. Jej absolventom patrí titul „inžinier" (v skratke „Ing.").
+    - 1. technického smeru:
+
+    - veliteľsko-organizátorskú so sídlom vo Vyškove - Dědiciach,
+
+    - inžiniersku pozemných vojsk so sídlom v Brne,
+
+    - leteckú, PVO a spojovaciu so sídlom v Brne,
+
+    - vyšších veliteľov so sídlom v Brne,
+
+    - zahraničnú so sídlom v Brne.
+
+    - Ich absolventom patrí od účinnosti zákona titul „inžinier“ (v skratke „Ing.“). Podmienky priznania titulu Ing. absolventom, ktorí zakončili školu pred účinnosťou zákona, ustanovil minister národnej obrany Rozkazom č. 16/1966, ktorý bol registrovaný v Zbierke zákonov ČSSR v čiastke 39 z 3. decembra 1966;
+
+    - 2. univerzitného smeru:
+
+    - vojenskopolitickú so sídlom v Bratislave.
+
+    - Jej absolventom, ktorí vykonajú predpísané rigorózne skúšky, patrí od účinnosti zákona v závislosti od zamerania štúdia titul „doktor sociálnopolitických naúk“ (v skratke „RSDr.“) alebo „doktor filozofie“ (v skratke „PhDr.“).
+
+    - b)
+
+    - Vojenská fakulta Vysokej školy dopravnej v Žiline, ktorá pripravuje kvalifikované kádre pre zastávanie veliteľských, veliteľsko-technických, technických aj iných funkcií vyžadujúcich vysokoškolské vzdelanie špeciálne zamerané pre oblasť dopravy. Jej absolventom patrí titul „inžinier" (v skratke „Ing.").
 
     - 3. Vojenskými vysokými školami univerzitného smeru ku dňu účinnosti zákona sú:
 
