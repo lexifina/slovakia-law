@@ -1,0 +1,1 @@
+- 1) Úprava Ministerstva financií č. 162/15799/64 z 12.3.1964 o platovej úprave strážnikov a vrátnikov v rozpočtových organizáciách.
