@@ -1,1 +1,0 @@
-- *) Preukazom je v zmysle osobitných dohôd medzinárodná karta automobilového poistenia alebo iný doklad.
