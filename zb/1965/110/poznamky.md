@@ -1,1 +1,0 @@
-- *) Vyhláška č. 51/1963 Zb. o evidencii knižníc jednotnej sústavy o medziknižničnej výpožičnej službe a o prednostnom práve knižníc pri získavaní literatúry, časopisov a iných zbierkových materiálov.
