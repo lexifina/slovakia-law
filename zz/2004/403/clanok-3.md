@@ -296,6 +296,8 @@ Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení 
 
 - 52. V § 331 ods. 3 sa vypúšťajú slová „alebo náčelník vojenského nápravného útvaru".
 
+- 53. V § 371 písm. d) sa slová „ak je podľa tejto hlavy príslušný konať krajský súd, vo veciach v právomoci Špeciálneho súdu (§ 15a) je príslušný konať Špeciálny súd"„ nahrádzajú slovami „o žiadosti o vydanie do cudziny (§ 391 až 407) alebo o uznaní a výkone cudzieho rozhodnutia (§ 408 až 414) je príslušný konať krajský súd aj vo veciach, ktoré patria do právomoci Špeciálneho súdu (§ 15a),".
+
 - 54. V § 384 ods. 5 a § 426 ods. 3 sa slovo „tlmočníkom" nahrádza slovom „prekladateľom".
 
 - 55. § 403 sa dopĺňa odsekom 3, ktorý znie:
