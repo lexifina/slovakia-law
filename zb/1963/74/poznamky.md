@@ -1,0 +1,1 @@
+- 1) Zákon č. 599/1992 Zb., ktorým sa zrušuje Česko-slovenská akadémia vied a upravuje spôsob vyporiadania majetkových a iných práv
