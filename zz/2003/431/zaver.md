@@ -1,0 +1,1 @@
+Marián Jusko v. r.
