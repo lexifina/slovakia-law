@@ -67,3 +67,13 @@ Ak je to potrebné pre posúdenie technickej spôsobilosti vozidla, môže orgá
 - n) vo výfukových plynoch kontrolovaných pri voľnobehu motora nesmie objem oxidu uhoľnatého (CO) prekročiť 3,5 % a od roku 1993 okrem toho objem nespálených uhľovodíkov (HC) nesmie prekročiť 800 ppm.
 
 (5) Ojazdeným vozidlom sa na účely tejto vyhlášky rozumie vozidlo, ktoré už bolo prevádzkované a evidované v Českej a Slovenskej Federatívnej Republike alebo v inom štáte.
+
+(6) Na účely tejto vyhlášky sa odôvodnenými prípadmi jednotlivo dovezeného vozidla rozumie
+
+- a) vozidlo držiteľa, ktorému bolo udelené štátne občianstvo Slovenskej republiky s trvalým pobytom na území Slovenskej republiky,
+
+- b) sanitné vozidlo a vozidlo pre telesne postihnuté osoby, osobitne upravené na vedenie alebo na prepravu,
+
+- c) vozidlo nadobudnuté pracovníkom zastupiteľského úradu Slovenskej republiky a dovezené po skončení jeho pôsobenia v zahraničí,
+
+- d) vozidlo pracovníka cudzieho zastupiteľského úradu počas jeho pôsobenia na území Slovenskej republiky.
