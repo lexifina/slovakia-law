@@ -4,6 +4,8 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
+- 3a) § 18 ods. 2 písm. a) 1. a 2. bod, písm. b) 1. bod a písm. c) zákona č. 351/1997 Z. z. Branný zákon.
+
 - 4) § 38 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
 
 - 5) Napr. zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni, zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia, zákon Národnej rady Slovenskej republiky č. 201/1994 Z. z. o zdravotnom poistení železničiarov a o Železničiarskej zdravotnej poisťovni.
@@ -14,6 +16,8 @@
 
 - 7a) § 115 Občianskeho zákonníka.
 
+- 7aa) § 12 ods. 8 a § 16 ods. 6 zákona č. 351/1997 Z. z.
+
 - 7b) § 39 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
 - 8) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
@@ -22,9 +26,19 @@
 
 - 9a) § 38 ods. 1 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
 
+- 9b) § 72 až 83 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- 9c) § 80 zákona č. 195/1998 Z. z.
+
+- 9d) § 11 ods. 1 zákona č. 563/1991 Zb. o účtovníctve.
+
 - 10) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 79/1981 Zb. o zdravotníckych pracovníkoch a iných odborných pracovníkoch v zdravotníctve.
 
 - 10a) Zákon č. 140/1998 Z. z.
+
+- 10b) § 75 Zákonníka práce.
+
+- 10c) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 70/1997 Z. z.
 
 - 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -48,9 +62,9 @@
 
 - 20) Zákon Slovenskej národnej rady č. 134/1992 Zb. o štátnej správe ochrany ovzdušia.
 
-- 21) § 26 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu.
+- 21) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 204/1996 Z. z.
 
-- 22) § 3 písm. h) zákona Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení neskorších predpisov.
+- 22) § 3 písm. h) zákona Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
 
 - 23) Napr. zákon Národnej rady Slovenskej republiky č. 84/1994 Z. z. o Slovenskom Červenom kríži, o ochrane znaku a názvu Červeného kríža.
 

@@ -1,0 +1,3 @@
+# § 33b
+
+Ak držiteľ povolenia na poskytovanie zdravotnej starostlivosti v zdravotníckom zariadení [§ 24 ods. 1 písm. a)] uzavrie zmluvu o prevode zdravotníckeho zariadenia s inou fyzickou osobou (ďalej len „nadobúdateľ“), do siedmich dní odo dňa jej uzavretia požiada o zrušenie povolenia a nadobúdateľ súčasne požiada o vydanie povolenia, orgán príslušný na vydanie povolenia vydá nadobúdateľovi povolenie, ak spĺňa podmienky ustanovené na vydanie povolenie na poskytovanie zdravotnej starostlivosti. V takom prípade orgán príslušný na vydanie povolenia súčasne zruší pôvodné povolenie. Zmluva o prevode zdravotníckeho zariadenia na nadobúdateľa nadobúda účinnosť dňom právoplatnosti povolenia na poskytovanie zdravotnej starostlivosti.

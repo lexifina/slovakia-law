@@ -34,15 +34,17 @@
 
 - d) podmienky na fyzikálne, chemické, mikrobiologické, biologické a hydrologické sledovanie zdroja,
 
-- e) podmienky na odborné zabezpečenie využívania a ochrany zdroja.
+- e) podmienky na odborné zabezpečenie využívania a ochrany zdroja,
+
+- f) časové intervaly vykonávania fyzikálnych, chemických, mikrobiologických a biologických analýz.
 
 (9) Povolenie sa vydáva najviac na desať rokov.
 
 (10) Využívateľ prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody je povinný
 
-- a) udržiavať v bezchybnom technickom a hygienickom stave balneotechnické, balneoterapeutické alebo plniarenské zariadenia,
+- a) udržiavať v bezchybnom technickom a hygienickom stave balneotechnické, balneoterapeutické alebo plniarenské zariadenia podľa podmienok určených ministerstvom zdravotníctva v povolení na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnych stolových vôd,
 
-- b) sledovať fyzikálne, chemické, mikrobiologické, biologické, hydrologické hodnoty a ďalšie hodnoty zdroja určené ministerstvom zdravotníctva,
+- b) zabezpečiť vykonávanie fyzikálnych, chemických, mikrobiologických a biologických analýz v časových intervaloch uvedených v povolení a sledovať hydrologické a ďalšie hodnoty zdroja určené ministerstvom zdravotníctva v povolení na využívanie prírodného liečivého zdroja alebo prírodného zdroja minerálnych stolových vôd,
 
 - c) zabezpečovať odborné využitie zdroja,
 

@@ -1,21 +1,29 @@
 # § 66a Úhrada za využívanie prírodných liečivých zdrojov a prírodných zdrojov minerálnych stolových vôd
 
-(1) Za odber z prírodného liečivého zdroja a prírodného zdroja minerálnej stolovej vody platí využívateľ úhradu
+(1) Za odber z prírodného liečivého zdroja alebo z prírodného zdroja minerálnej stolovej vody platí využívateľ úhradu. Ak je na odbernom potrubí technicky spôsobilé meracie zariadenie, úhrada sa vypočíta zo skutočne odobratého množstva; v takomto prípade úhradu tvorí súčin skutočne odobratého množstva v m<sup>3</sup> a sadzby v Sk podľa druhu využitia prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody. Ak nie je na odbernom potrubí technicky spôsobilé meracie zariadenie, úhrada sa vypočíta z povoleného odberného množstva. V takomto prípade úhradu tvorí súčin povoleného odberného množstva v m<sup>3</sup> zníženého o 20 % a sadzby v Sk podľa druhu využitia prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody.
 
-- a) z prírodného liečivého zdroja pre vaňové a bazénové kúpele 2 Sk za 1 m<sup>3</sup>,
+(2) Sadzba podľa odseku 1 je pri odbere
 
-- b) z prírodného liečivého zdroja na pitnú liečbu a inhalácie 5 Sk za 1 m<sup>3</sup>,
+- a) vody z prírodného liečivého zdroja na liečebné účely
 
-- c) z prírodného liečivého zdroja rašeliny, slatiny, bahna, plynu a emanácie bez ohľadu na účel použitia 5 Sk za 1 m<sup>3</sup>,
+  - 1. na vaňové a bazénové kúpele 3 Sk/m<sup>3</sup>,
 
-- d) z prírodného zdroja minerálnej stolovej vody 10 Sk za 1 m<sup>3</sup>.
+  - 2. na pitnú a inhalačnú liečbu 5 Sk/m<sup>3</sup>,
 
-(2) Ak prírodný liečivý zdroj alebo prírodný zdroj minerálnej stolovej vody využívajú viacerí využívatelia, ročne odobrané množstvo zo zdroja sa v pomernej časti delí medzi využívateľov.
+- b) vody z prírodného liečivého zdroja na plniarenské účely 5 Sk/m<sup>3</sup>,
 
-(3) Polovica úhrady je príjmom Štátneho fondu zdravia<sup>22</sup>) a polovica úhrady je príjmom štátneho rozpočtu.
+- c) vody z prírodného liečivého zdroja na rekreačné účely 10 Sk/m<sup>3</sup>,
 
-(4) Úhrada je splatná v polročných intervaloch, a to do 31. júla za prvý polrok a do 31. januára za druhý polrok predchádzajúceho roka.
+- d) vody z prírodného liečivého zdroja na energetické účely 7 Sk/m<sup>3</sup>,
 
-(5) Úhradu je povinný vypočítať využívateľ a na požiadanie predložiť potrebné podklady slúžiace na výpočet ministerstvu zdravotníctva.
+- e) vody z prírodného zdroja minerálnej stolovej vody na plniarenské účely 15 Sk/m<sup>3</sup>,
 
-(6) V prípade zistenia nesprávneho výpočtu je využívateľ povinný uhradiť nedoplatok do 30 dní. Preplatok sa vráti využívateľovi do 30 dní.
+- f) vody z prírodného liečivého zdroja alebo z prírodného zdroja minerálnej stolovej vody na iné účely 25 Sk/m<sup>3</sup>,
+
+- g) rašeliny, slatiny alebo bahná z prírodného liečivého zdroja na liečebné účely 10 Sk/m<sup>3</sup>.
+
+(3) Úhrady podľa odseku 2 sú príjmom Štátneho fondu zdravia.<sup>22</sup>)
+
+(4) Úhrady sú splatné v polročných intervaloch, a to do 31. júla za prvý polrok kalendárneho roka a do 31. januára za druhý polrok predchádzajúceho kalendárneho roka.
+
+(5) Využívateľ zdroja je povinný vypočítať úhradu, oznámiť jej výšku a predložiť podklady na výpočet ministerstvu zdravotníctva do 10. júla za prvý polrok kalendárneho roka a do 10. januára za druhý polrok predchádzajúceho kalendárneho roka; po odsúhlasení úhrady ministerstvom zdravotníctva je povinný úhradu zaplatiť v lehote uvedenej v odseku 4. V prípade zistenia nesprávneho výpočtu je využívateľ zdroja povinný zaplatiť úhradu vo výške určenej ministerstvom zdravotníctva.

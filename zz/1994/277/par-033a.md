@@ -1,5 +1,3 @@
-# § 33a Register zdravotníckych zariadení
+# § 33a
 
-(1) Krajský úrad vedie register zdravotníckych zariadení s miestom výkonu činnosti na území kraja. Ministerstvo zdravotníctva vedie register všetkých zdravotníckych zariadení, ktoré poskytujú zdravotnú starostlivosť na území Slovenskej republiky.
-
-(2) Do registra zdravotníckych zariadení sa zapisujú údaje uvedené v povolení na poskytovanie zdravotnej starostlivosti.
+- Fyzickej osobe alebo právnickej osobe, ktorej bola uložená pokuta podľa § 71, možno vydať povolenie na poskytovanie zdravotnej starostlivosti najskôr po uplynutí troch rokov odo dňa nadobudnutia právoplatnosti rozhodnutia o uložení pokuty.
