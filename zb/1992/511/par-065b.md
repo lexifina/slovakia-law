@@ -1,6 +1,6 @@
 # § 65b Postúpenie daňovej pohľadávky
 
-(1) Na účely postúpenia daňových pohľadávok sa za daňovú pohľadávku považuje daňová pohľadávka znížená o daňové záväzky (§ 95). Daňový úrad alebo colný úrad môže postúpiť tretej osobe daňovú pohľadávku, ktorá vznikla pred 31. decembrom 2002 voči daňovému dlžníkovi, ktorý je v konkurze. Treťou osobou môže byť len právnická osoba so 100 % majetkovou účasťou štátu. Táto osoba daňovú pohľadávku ďalej nemôže postúpiť.
+(1) Na účely postúpenia daňových pohľadávok sa za daňovú pohľadávku považuje daňová pohľadávka znížená o daňové záväzky (§ 95). Daňový úrad alebo colný úrad môže postúpiť tretej osobe daňovú pohľadávku, ktorá vznikla pred 31. decembrom 2002 voči daňovému dlžníkovi, ktorý je v konkurze. Treťou osobou môže byť len právnická osoba so 100 % majetkovou účasťou štátu. Táto osoba daňovú pohľadávku ďalej môže postúpiť len inej právnickej osobe so 100 % majetkovou účasťou štátu alebo právnickej osobe zriadenej zákonom; na postupcu sa postup podľa odseku 3 vzťahuje primerane.
 
 (2) O postúpení daňovej pohľadávky podľa odseku 1 uzatvára daňové riaditeľstvo alebo colné riaditeľstvo s treťou osobou písomnú zmluvu o postúpení daňovej pohľadávky. Súčasťou tejto zmluvy je aj vysporiadanie práv zo zabezpečenia daňovej pohľadávky. Pohľadávku možno postúpiť len za odplatu.
 
