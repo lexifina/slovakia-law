@@ -1,0 +1,77 @@
+# Čl. I
+
+Zákon Slovenskej národnej rady č. 9/1992 Zb. o obchodných a priemyselných komorách sa mení a dopĺňa takto:
+
+- 1. § 3 znie:
+
+- „§ 3
+
+- (1)
+
+- Členmi komory sa môžu stať právnické osoby a fyzické osoby, ktoré vykonávajú podnikateľskú činnosť v hospodárskych odvetviach okrem odvetvia poľnohospodárstva a potravinárstva.
+
+- (2)
+
+- Členmi komory sa môžu stať aj iné právnické osoby a fyzické osoby, ako sú uvedené v odseku 1, ak svojím zameraním majú vzťah k podnikateľskej činnosti v hospodárskych odvetviach.
+
+- (3)
+
+- Členstvo v komore vzniká dňom prijatia za člena komory na základe písomnej žiadosti.
+
+- (4)
+
+- Komora zapíše člena do zoznamu členov do 30 dní od nadobudnutia právoplatnosti rozhodnutia o prijatí za člena.
+
+- (5)
+
+- Práva a povinnosti člena komory vznikajú dňom zápisu do zoznamu členov.
+
+- (6)
+
+- Členstvo v komore zaniká dňom výmazu zo zoznamu členov na základe
+
+- a)
+
+- zániku oprávnenia na podnikateľskú činnosť,
+
+- b)
+
+- úmrtia,
+
+- c)
+
+- zániku právnickej osoby,
+
+- d)
+
+- oznámenia člena o vystúpení z komory,
+
+- e)
+
+- vylúčenia člena z komory.
+
+- (7)
+
+- Komora vykoná výmaz zo zoznamu členov do 30 dní od zistenia dôvodov na zánik členstva.
+
+- (8)
+
+- Podrobnosti o prijímaní členov komory a o právach a povinnostiach členov, vedení zoznamu členov a o zániku členstva upravia stanovy komory.“.
+
+- 2. § 9 ods. 2 písm. e) znie:
+
+- „e)
+
+- rozhodovať o výške členského príspevku,“.
+
+- 3. § 9 ods. 2 sa dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- rozhodovať o odvolaní proti rozhodnutiu predstavenstva o neprijatí za člena komory a o jeho vylúčení.“.
+
+- 4. V § 10 ods. 4 písm. b) znie:
+
+- „b)
+
+- rozhoduje o prijatí za člena komory alebo o vylúčení člena z komory,“.
