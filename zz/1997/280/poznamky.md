@@ -32,6 +32,10 @@
 
 - 16) Napríklad § 57 zákona Slovenskej národnej rady č. 410/1991 Zb., § 124 Zákonníka práce.
 
+- 16a) § 25a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 457/2002 Z. z.
+
+- 16b) § 69a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení zákona č. 457/2002 Z. z.
+
 - 17) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
 
 - 18) § 49 až 54 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
