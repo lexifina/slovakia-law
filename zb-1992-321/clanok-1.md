@@ -1,0 +1,325 @@
+# Čl. I
+
+Zákon České národní rady č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících, ve znění zákona České národní rady č. 266/1991 Sb. a zákona České národní rady č. 542/1991 Sb., se mění a doplňuje takto:
+
+- 1. § 1 zní:
+
+- „§ 1
+
+- V okresech se zřizují okresní úřady. V okresech Brno-město, Ostrava-město a Plzeň-město se okresní úřady nezřizují.<sup>1</sup>)“.
+
+- 2. § 3 odst. 6 zní:
+
+- „(6)
+
+- Za porušení povinnosti stanovených obecně závaznou vyhlášku vydanou okresním úřadem může okresní úřad uložit podnikateli<sup>1a</sup>) nebo právnické osobě pokutu do 100 000 Kčs. Pokutu lze uložit do jednoho roku ode dne, kdy došlo k porušení obecně závazné vyhlášky.“.
+
+- 3. V § 4 se slova „občanů, organizací“ nahrazují slovy „fyzických a právnických osob“.
+
+- 4. § 5 zní:
+
+- „§ 5
+
+- Okresní úřady
+
+- (1)
+
+- Okresní úřad
+
+- a)
+
+- vykonává státní správu ve věcech, které stanoví zvláštní zákony,
+
+- b)
+
+- vykonává státní správu, která ke dni 23. listopadu 1990 příslušela podle zvláštních předpisů okresním národním výborům, pokud nebyla přenesena na pověřený obecní úřad<sup>2</sup>) nebo se tímto zákonem neruší anebo nebyla přenesena zvláštními zákona na jiné orgány,<sup>2a</sup>)
+
+- c)
+
+- vykonává státní správu ve věcech uvedených v příloze I k tomuto zákonu, pokud nebyla přenesena na jiné orgány,
+
+- d)
+
+- přezkoumává hospodaření obce podle zvláštního předpisu,<sup>2b</sup>) je-li o to obcí požádán,
+
+- e)
+
+- přezkoumává rozhodnutí orgánů obce vydaná ve správním řízení,<sup>3</sup>) nestanoví-li zvláštní zákon jinak,<sup>2a</sup>)
+
+- f)
+
+- kontroluje činnost pověřených obecních úřadů a orgánů obcí na úseku jejich přenesené působnosti<sup>4</sup>) a poskytuje jim odbornou pomoc, ukládá obecním úřadům opatření k odstranění nedostatků zjištěných při kontrole,
+
+- g)
+
+- stanoví výši náhrady nákladů, které obcím vzniknou v souvislosti s výkonem přenesené působnosti,
+
+- h)
+
+- plní úkoly spojené s mobilizačními přípravami státu a úkoly civilní obrany,
+
+- i)
+
+- stanoví pověřeným obecním úřadům<sup>2</sup>) se souhlasem ministerstva vnitra České republiky (dále jen „ministerstvo vnitra“) jejich územní obvod tak, aby každá obec v okrese byla začleněna do územního obvodu některého pověřeného obecního úřadu.
+
+- (2)
+
+- Okresní úřad dále plní úkoly spojené s řešením mimořádných událostí v případě živelních pohrom, nehod nebo jiného nebezpečí, které ohrožuje životy, zdraví nebo značné majetkové hodnoty. Za tím účelem může přednosta okresního úřadu vyhlásit obecně závaznou vyhláškou pro území okresu nebo jeho část stav ohrožení. K ochraně života, zdraví nebo značných majetkových hodnot, v případě živelních pohrom, nehod nebo jiného nebezpečí může přednosta okresního úřadu uložit opatření fyzickým a právnickým osobám a místním orgánům státní správy. Tomu, kdo splnil uloženou povinnost, přísluší náhrada účelně vynaložených nákladů, popřípadě náhrada škody, za kterou odpovídá stát; této odpovědnosti se nemůže zprostit. Náhradu nákladů, popřípadě vzniklé škody, lze uplatnit u okresního úřadu do šesti měsíců po jejich vzniku.
+
+- (3)
+
+- Za nesplnění povinnosti uložené podle odstavce 2 může okresní úřad uložit pokutu fyzické osobě do výše 10 000 Kčs, právnické osobě do výše 100 000 Kčs.
+
+- (4)
+
+- V okresech Brno-město, Ostrava-město a Plzeň-město vykonávají působnost okresních úřadů magistráty těchto měst s výjimkou působnosti podle § 5 odst. 1 a 2 zákona České národní rady č. 172/1991 Sb., o přechodu některých věcí z majetku České republiky do vlastnictví obcí, kterou pro město Brno, Ostravu a Plzeň vykonává ministerstvo financí České republiky.“.
+
+- 5. § 6 včetně nového textu poznámky č. 5 zní:
+
+- „§ 6
+
+- Okresní úrady mohou se souhlasem okresního shromáždění a ministerstva vnitra vstupovat do regionálních seskupení se zahraničními partnery. Okresní úřady nemohou vstupovat do zájmových sdružení právnických osob.<sup>5</sup>)
+
+- <sup>5</sup>) § 19a odst. 1 a § 20f a násl. občanského zákoníku č. 40/1964 Sb., ve znění pozdějších předpisů (úplné znění č. 47/1992 Sb.).“.
+
+- 6. § 8 zní:
+
+- „§ 8
+
+- (1)
+
+- V čele okresního úřadu je jeho přednosta, kterého jmenuje a odvolává vláda na návrh ministra vnitra České republiky (dále jen „ministr vnitra“).
+
+- (2)
+
+- Ministr vnitra předkládá návrh na jmenování přednosty okresního úřadu (dále jen „přednosta“) po výběrovém řízení. Výběrové řízení vyhlašuje ministr vnitra; jeho pravidla stanoví ministerstvo vnitra obecně závazným právním předpisem.
+
+- (3)
+
+- Plat a odměny přednostovi stanoví ministr vnitra podle zvláštních předpisů.
+
+- (4)
+
+- Přednostu v době jeho nepřítomnosti zastupuje jím určený zástupce.
+
+- (5)
+
+- Přednosta je nadřízený všem pracovníkům okresního úřadu a plní funkci vedoucího organizace podle zvláštních předpisů ve vztahu k tomuto úřadu.“.
+
+- 7. Za § 8 se vkládá nový § 8a, který zní:
+
+- „§ 8a
+
+- (1)
+
+- Funkce přednosty je neslučitelná s funkcí poslance zákonodárného sboru, s funkcí člena zastupitelstva orgánu územní samosprávy, s jinou funkcí ve státní správě a s funkcemi v politických stranách nebo hnutích.
+
+- (2)
+
+- Přednosta nesmí dále vykonávat jinou výdělečnou činnost s výjimkou správy vlastního majetku; příležitostnou výdělečnou činnost vědeckou, pedagogickou, literární, publicistickou a uměleckou smí vykonávat za předpokladu, že nejde o činnost podnikatelskou a že taková činnost nesnižuje jeho vážnost nebo neohrožuje důvěru v nezávislost a nestrannost okresního úřadu.
+
+- (3)
+
+- Vláda odvolá přednostu z funkce vždy:
+
+- a)
+
+- byl-li pravomocně odsouzen za úmyslný trestný čin,
+
+- b)
+
+- zjistí-li se u něho neslučitelnost uvedená v odstavcích 1 a 2,
+
+- c)
+
+- byl-li zbaven způsobilosti k právním úkonům nebo tato způsobilost byla omezena.“.
+
+- 8. § 9 odst. 1 a 2 znějí:
+
+- „(1)
+
+- Okresní úřad se člení na referáty. Přednosta stanoví organizaci okresního úřadu, zřizuje a zrušuje se souhlasem ministerstva vnitra jednotlivé referáty. Přednosta může zřídit jako samostatný útvar kancelář přednosty.
+
+- (2)
+
+- V čele referátu a kanceláře přednosty je vedoucí, kterého jmenuje a odvolává přednosta.“.
+
+- 9. V § 9 se dosavadní odstavec 2 označuje jako odstavec 3. Poznámky č. 6 a 7 znějí:
+
+- „<sup>6</sup>) § 5b odst. 2 zákona č. 33/1965 Sb., o úhradě nákladů vznikajících strátu z úrazů, nemocí z povolání a jiných poškození na zdraví (o regresních náhradách), ve znění zákona České národní rady č. 266/1991 Sb.
+
+- <sup>7</sup>) § 5 odst. 1 zákona České národní rady č. 114/1988 Sb., o působnosti orgánů České socialistické republiky v sociálním zabezpečení, ve znění pozdějších předpisů (úplné znění č. 288/1991 Sb.).“.
+
+- 10. § 10 zní:
+
+- „§ 10
+
+- Obecně závazné vyhlášky okresního úřadu podepisuje jeho přednosta. Podepisuje i jiná rozhodnutí a opatření okresního úřadu; k jejich podepisování může pověřit vedoucího příslušného referátu, popřípadě i jiného pracovníka.“.
+
+- 11. § 11 včetně poznámky č. 7a zní:
+
+- „§ 11
+
+- Okresní úřad sestavuje svůj rozpočet, hospodaří podle něj a vypracovává závěrečný účet podle zvláštních předpisů.<sup>7a</sup>)
+
+- <sup>7a</sup>) Zákon České národní rady č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky), ve znění pozdějších předpisů.
+
+- Zákon č. 563/1991 Sb., o účetnictví.“.
+
+- 12. § 13 zní:
+
+- „§ 13
+
+- (1)
+
+- Je-li obecně závazná vyhláška okresního úřadu v rozporu se zákonem, zruší ji ministerstvo vnitra. Rozhodnutí o zrušení takové vyhlášky okresní úřad vyvěsí na úřední desce úřadu po dobu nejméně 15 dnů. Kromě toho zabezpečí zveřejnění tohoto rozhodnutí na úřední desce u obecních úřadů působících v územním obvodu okresního úřadu.
+
+- (2)
+
+- Jiná opatření okresních úřadů, jsou-li v rozporu se zákonem, jinými obecně závaznými právními předpisy, usneseními vlády nebo směrnicemi ústředních orgánů státní správy, zruší příslušný ústřední orgán státní správy.“.
+
+- 13. § 14 zní:
+
+- „§ 14
+
+- Vláda řídí a kontroluje činnost okresních úřadů a sjednocuje činnost ústředních orgánů státní správy republiky ve vztahu k okresním úřadům.“.
+
+- 14. § 15 zní:
+
+- „§ 15
+
+- Ministerstvo vnitra k zabezpečení úkolů vlády ve vztahu k okresním úřadům:
+
+- a)
+
+- koordinuje vydávání směrnic ústředních orgánů státní správy, jež se týkají okresních a obecních úřadů,
+
+- b)
+
+- kontroluje dodržování opatření vlády v činnosti okresních úřadů a poskytování odborné pomoci okresními úřady obecním úřadům,
+
+- c)
+
+- organizuje ve spolupráci s příslušnými ústředními orgány státní správy průzkumy na jednotlivých úsecích činnosti okresních úřadů, vyhodnocuje jejich výsledky a předkládá vládě návrhy na potřebná opatření,
+
+- d)
+
+- metodicky usměrňuje informační systém okresních úřadů,
+
+- e)
+
+- organizuje porady přednostů okresních úřadů,
+
+- f)
+
+- zabezpečuje na úseku státní správy odbornou přípravu pracovníků okresních a obecních úřadů.“.
+
+- 15. V § 16 odst. 2 zní:
+
+- „(2)
+
+- Na základě schválených dotací ze státního rozpočtu do rozpočtů okresních úřadů a obcí stanoví ministerstvo vnitra počet pracovníků, výši osobních a věcných výdajů spojených s výkonem státní správy pro každý okresní úřad a úhrn příspěvků na osobní a věcné výdaje spojené s výkonem státní správy pro obce v každém okrese.“.
+
+- 16. V § 17 se dosavadní text označuje jako odstavec 1 a písmena d) a e) znějí:
+
+- „d)
+
+- kontrolují výkon státní správy okresními úřady na svěřeném úseku,
+
+- e)
+
+- spolupracují s ministerstvem vnitra při plnění jeho úkolů podle 15.“.
+
+- 17. V § 17 se doplňuje nový odstavec 2, který zní:
+
+- „(2)
+
+- Při výkonu státní správy jsou okresní úřady podřízeny příslušnému ústřednímu orgánu státní správy.“.
+
+- 18. Za § 18 se vkládá nová „Část šestá“ a pod ní nadpis „Okresní shromáždění“.
+
+- 19. V části šesté se vkládají nové § 18a, 18b a 18c, které včetně poznámek č. 7b a 7c znějí:
+
+- „§ 18a
+
+- (1)
+
+- V územním obvodu okresního úřadu se do 60 dnů od voleb do zastupitelstev v obcích zvolí okresní shromáždění (dále jen „shromáždění“). Počet členů shromáždění stanoví okresní úřad do 10 dnů od voleb se zřetelem na počet obcí a počet obyvatel v okrese tak, aby shromáždění mělo nejméně 40 členů, nejvýše však 70 členů.
+
+- (2)
+
+- Členové shromáždění jsou volení tajným hlasováním obecními zastupitelstvy. Počet členů shromáždění, kteří se volí v každé obci, stanoví okresní úřad na základě směrného čísla.
+
+- (3)
+
+- Směrné číslo se určí tak, že celkový počet obyvatel okresu se dělí celkovým počtem členů shromáždění. Rozhodující pro stanovení počtu obyvatel je stav k 1. lednu v roce, v němž se konají volby do zastupitelstev v obcích.
+
+- (4)
+
+- Okresní úřad stanoví pro každou obec tolik členů shromáždění, kolikrát je směrné číslo obsaženo v počtu obyvatel obce. Obce, které mají nižší počet obyvatel, než je směrné číslo, volí společného člena shromáždění. Okresní úřad stanoví, které obce volí jednoho společného člena shromáždění.
+
+- (5)
+
+- Pokud při postupu podle předchozích odstavců by byl stanoven nižší než okresním úřadem určený celkový počet členů shromáždění, zvýší se počet členů shromáždění v obcích s nejvyššími zůstatky dělení počtu obyvatel obce směrným číslem o dalšího člena shromáždění.
+
+- § 18b
+
+- (1)
+
+- Shromáždění
+
+- a)
+
+- schvaluje na návrh přednosty rozdělení dotací do rozpočtu obcí; přitom nemůže měnit výši náhrady nákladů, které obcím vzniknou v souvislosti s výkonem přenesené působnosti, stanovenou podle zvláštního zákona okresním úřadem,
+
+- b)
+
+- schvaluje a kontroluje rozpočet okresního úřadu a schvaluje jeho závěrečný účet; přitom shromáždění nemůže měnit objemy prostředků stanovené ministerstvem vnitra na výkon státní správy okresním úřadem (§ 16 odst. 2),
+
+- c)
+
+- plní úkoly stanovené zvláštními zákony.<sup>7b</sup>)
+
+- (2)
+
+- Shromáždění může přednostu zmocnit k provádění změn v rozpočtu okresního úřadu. Bez tohoto zmocnění může přednosta provádět rozpočtová opatření.<sup>7c</sup>)
+
+- § 18c
+
+- (1)
+
+- Shromáždění se schází spravidla čtyřikrát ročně. Jeho zasedání připravuje a svolává přednosta. Přednosta je povinen svolat shromáždění do 14 dnů, požádá-li o to písemně alespoň jedna pětina členů shromáždění.
+
+- (2)
+
+- Zasedáni shromáždění řídí předseda zvolený pro toto shromáždění. Mohou se ho zúčastnit i osoby, které přizve přednosta.
+
+- (3)
+
+- Shromáždění může v mezích svých oprávnění uvedených v § 18b ukládat úkoly přednostovi.
+
+- (4)
+
+- Odporuje-li usnesení shromáždění zákonu, jinému obecně závaznému právnímu předpisu nebo usnesení vlády, přednosta pozastaví jeho výkon a do 14 dnů je předloží vládě. Vláda rozhodne o pozastaveném usnesení shromáždění nejpozději do 30 dnů ode dne doručení rozhodnutí přednosty o pozastavení usnesení na ministerstvo vnitra.
+
+- <sup>7b</sup>) Např. § 22 odst. 5 a § 23 odst. 4 zákona České národní rady č. 551/1991 Sb., o všeobecné zdravotní pojišťovně České republiky.
+
+- <sup>7c</sup>) § 13 zákona České národní rady č. 576/1990 Sb.
+
+- § 36 vyhlášky ministerstva financí České republiky č. 205/1991 Sb.“.
+
+- 20. Dosavadní část šestá a část sedmá se označují jako část sedmá a část osmá.
+
+- 21. V § 19. se v návětí slova „do 31. prosince 1992“ nahrazují slovy „do 31. prosince 1994“. V písmenu b) se vypouští část věty za středníkem.
+
+- 22. § 22 až 26 se vypouštějí.
+
+- 23. V § 28 se vypouští bod 1.
+
+- 24. § 33 odst. 1 zní:
+
+- „(1)
+
+- Obecné předpisy o správním řízení<sup>3</sup>) se nevztahují na rozhodování podle ustanovení § 5 odst. 1 písm. g) a i) a odst. 2, § 13 a § 16 odst. 2 tohoto zákona.“.
+
+- 25. V příloze I k zákonu se vypouštějí položky 10 a 11.
