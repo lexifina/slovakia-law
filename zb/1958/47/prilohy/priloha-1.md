@@ -48,10 +48,6 @@
 
     - Maloleté osoby, ktoré dovŕšili 14 rokov, môžu si podaním vyhlásenia zvoliť štátne občianstvo jednej zo Zmluvných strán, ak budú chcieť, aby sa voči nim nepoužili vyššie uvedené ustanovenia tohto článku.
 
-  - Článok 5
-
-    - V prípadoch, keď v budúcnosti vznikne dvojaké štátne občianstvo u detí, rozhoduje o voľbe štátneho občianstva jednej zo Zmluvných strán dohoda rodičov oznámená ich spoločným vyhlásením pri zápise narodenia dieťaťa do matriky. Ak nedôjde k takejto dohode, bude mať dieťa štátne občianstvo Zmluvnej strany, na území ktorej sa narodilo; dieťa narodené na území tretieho štátu bude mať štátne občianstvo Zmluvnej strany, na území ktorej mali jeho rodičia pred odchodom za hranice trvalé bydlisko.
-
   - Článok 6
 
     - Každá zo Zmluvných strán poskytne druhej Zmluvnej strane najneskôr do šiestich mesiacov po uplynutí lehoty uvedenej v článku 2 zoznamy osôb, ktoré si podľa tohto Dohovoru zvolili jej štátne občianstvo.
