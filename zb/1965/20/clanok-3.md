@@ -1,0 +1,7 @@
+# Čl. 3
+
+Povolenie možno udeliť len ženám z domácnosti, dôchodcom, osobám so zmenenou pracovnou schopnosťou a pracovníkom, ktorí chcú služby poskytovať popri svojom hlavnom zamestnaní, vždy však len občanom starším ako 18 rokov, ktorí preukážu kvalifikáciu potrebnú pre príslušnú činnosť a bývajú v obvode miestneho národného výboru. Pracovníci, ktorí chcú poskytovať služby popri svojom hlavnom zamestnaní, sú povinní oznámiť to organizácii, ktorá ich zamestnáva.
+
+Poskytovanie služieb na základe takého povolenia prispeje k ich rozšíreniu a súčasne umožní občanom, ktorí sa nemôžu zaradiť do práce v pracovnom pomere, prácu podľa ich síl a schopností. Bude však prichádzať do úvahy aj u pracovníkov, ktorí chcú poskytovať tieto služby v mieste svojho bydliska, po splnení úloh vyplývajúcich pre nich z pracovného pomeru alebo z pomeru člena jednotného roľníckeho družstva alebo výrobného družstva. Oznamovacia povinnosť umožňuje, aby organizácia, v ktorej pracovník má hlavné zamestnanie, vedela o tejto jeho činnosti. Predchádzajúci súhlas organizácie, ktorá pracovníka zamestnáva, je potrebný, len ak to ustanovujú osobitné predpisy.
+
+Keďže treba súčasne pamätať i na kvalitné poskytovanie týchto služieb, je potrebné, aby ich poskytovali len občania s potrebnou kvalifikáciou. Podľa druhu činnosti bude treba kvalifikáciu preukázať výučným alebo tovarišským listom, vysvedčením, prípadne i praxou.
