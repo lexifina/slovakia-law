@@ -50,9 +50,17 @@
 
 - 23) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
-- 24) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 23a) Nariadenie Európskeho parlamentu a Rady (ES) č. 304/2003 z 28. januára 2003 o vývoze a dovoze nebezpečných chemikálií.
 
-- 25) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
+- Rozhodnutie Rady 2003/106/ES z 19. decembra 2002 o schválení, v mene Európskeho spoločenstva, Rotterdamského dohovoru o udeľovaní predbežného súhlasu po predchádzajúcom oznámení pre určité nebezpečné chemikálie a prípravky na ochranu rastlín v medzinárodnom obchode (Úradný vestník Európskej únie L 063, 06. 03. 2003).
+
+- 23b) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
+- 24) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z.
+
+- 24a) Zákon č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a zmene a doplnení niektorých zákonov.
+
+- 25) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
 - 25a) § 4 až 9 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov.
 
