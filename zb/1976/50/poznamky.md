@@ -108,7 +108,9 @@
 
 - 10m) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 282/1993 Z. z. o zmiernení niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam.
 
-- 11) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
+- 11) § 20a zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- 11a) § 2 ods. 3 písm. b) a odseky 6 a 7 zákona č. 313/2001 Z. z. o verejnej službe.
 
 - 12) Zákon č. 281/1997 Z. z.
 
@@ -163,3 +165,7 @@
 - zákon č. 138/1973 Zb.
 
 - 17c) Napr. zákon ČNR č. 367/1990 Zb., zákon ČNR č. 425/1990 Zb. o okresných úradoch, úprave ich pôsobnosti a o niektorých ďalších opatreniach s tým súvisiacich v znení neskorších predpisov, zákon ČNR č. 418/1990 Zb. o hlavnom meste Prahe, zákon ČNR č. 2/1969 Zb. o zriadení ministerstiev a iných ústredných orgánov štátnej správy ČSR v znení neskorších predpisov, zákon SNR č. 369/1990 Zb., zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a iných ústredných orgánov štátnej správy SR v znení neskorších predpisov, zákon SNR č. 595/1990 Zb. o štátnej správe pre životné prostredie, zákon SNR č. 96/1990 Zb. o zriadení Slovenskej komisie pre životné prostredie a o zmenách v pôsobnosti ministerstiev SR, zákon SNR č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave.
+
+- 18) Nariadenie vlády Slovenskej republiky č. 163/1992 Zb., ktorým sa ustanovujú predpoklady pre výkon funkcií v orgánoch štátnej správy pre životné prostredie, ktoré si vyžadujú osobitnú odbornú spôsobilosť v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
