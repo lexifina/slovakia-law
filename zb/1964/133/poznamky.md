@@ -13,3 +13,5 @@
 - 1) §91 a 94 Zákonníka práce č. 65/1965 Zb. v znení neskorších predpisov.
 
 - 2) Napr. § 6 ods. 4 vyhlášky Federálneho ministerstva dopravy č. 139/1980 Zb. o vyťažovaní cestných nákladných vozidiel.
+
+- 2) § 31 ods. 2 vyhlášky Federálneho ministerstva vnútra č. 100/1975 Zb. o pravidlách cestnej premávky.
