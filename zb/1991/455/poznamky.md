@@ -102,7 +102,7 @@
 
 - 22a) Zákon č. 268/2000 Z. z. o zaobchádzaní s prekurzormi omamných látok a psychotropných látok a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 23a) Zákon č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zákona č. 118/1990 Zb.
+- 23a) § 6, 7 a 21 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - 23b) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch.
 
