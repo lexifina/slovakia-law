@@ -1,0 +1,1 @@
+- 1) Pre organizácie regionálnej hospodárskej integrácie platí tam, kde je to vhodné, pojem „vnútroštátny".
