@@ -4,13 +4,15 @@
 
 - a) predaja bytov a nebytových priestorov, na ktoré sa vzťahuje osobitný predpis,<sup>14</sup>)
 
-- b) predaja pozemku, na ktorom je postavená stavba vo vlastníctve alebo spoluvlastníctve inej fyzickej osoby alebo právnickej osoby a táto osoba má záujem o kúpu pozemku,<sup>15</sup>)
+- b) predaja pozemku, na ktorom je postavená stavba vo vlastníctve alebo v spoluvlastníctve inej fyzickej osoby alebo právnickej osoby, priľahlého pozemku určeného na spoločné užívanie stavby a ňou zastavaného pozemku a táto osoba má záujem o kúpu pozemku a priľahlého pozemku určeného na spoločné užívanie stavby a ňou zastavaného pozemku,<sup>15</sup>)
 
 - c) predaja stavby, ak pozemok je vo vlastníctve alebo spoluvlastníctve inej fyzickej osoby alebo právnickej osoby a táto osoba má záujem o kúpu stavby na tomto pozemku,<sup>15</sup>)
 
 - d) predaja hnuteľných vecí v nadobúdacej hodnote do 20 000 Sk,
 
-- e) bezodplatného prevodu vecí na zakladateľa, štátnu rozpočtovú organizáciu alebo štátnu príspevkovú organizáciu podľa osobitného predpisu.
+- e) bezodplatného prevodu vecí na zakladateľa, štátnu rozpočtovú organizáciu alebo štátnu príspevkovú organizáciu podľa osobitného predpisu,
+
+- f) predaja kotolní, výmenníkových staníc, vodární, ktoré slúžia pre bytové domy a nemožno ich považovať za spoločné zariadenia domu podľa osobitného predpisu.<sup>15a</sup>)
 
 (2) Pri organizovaní verejnej dražby likvidátor postupuje podľa ustanovení dražobného poriadku. Po neúspešnej verejnej dražbe môže likvidátor organizovať najviac jednu opakovanú verejnú dražbu.
 

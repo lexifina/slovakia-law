@@ -38,7 +38,7 @@
 
 - 6i) § 24 zákona č. 92/1991 Zb. v znení neskorších predpisov.
 
-- 6j) § 20 a 21 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 6j) § 20 zákona č. 431/2002 Z. z. o účtovníctve.
 
 - 7) § 348 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
 
@@ -68,6 +68,8 @@
 
 - 15) Napríklad § 140 Občianskeho zákonníka.
 
+- 15a) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
+
 - 16) § 47b zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 16a) § 281 až 288 Obchodného zákonníka.
@@ -77,3 +79,11 @@
 - 18) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
 - 19) § 116 Občianskeho zákonníka.
+
+- 20) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 21) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 22) Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
+
+- 23) Zákon č. 283/2002 Z. z. o cestovných náhradách.
