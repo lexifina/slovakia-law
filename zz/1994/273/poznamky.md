@@ -2,7 +2,7 @@
 
 - 2) Zákon č. 498/1990 Zb. o utečencoch.
 
-- 3) Napríklad vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 103/1984 Zb. o opatreniach proti prenosným chorobám.
+- 3) Napríklad vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam.
 
 - 3a) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku.
 
@@ -16,9 +16,9 @@
 
 - 6) § 6 ods. 1 písm. b) zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
-- 6a) § 22 zákona č. 172/1990 Zb. o vysokých školách.
+- 6a) § 22b zákona č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
 
-- 6b) § 7 zákona Slovenskej národnej rady č. 294/1992 Zb. o Rade Slovenskej republiky pre rozhlasové a televízne vysielanie v znení neskorších predpisov.§ 7 ods. 6 zákona Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.§ 8 ods. 5 zákona Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov.
+- 6b) § 6 ods. 7 zákona č. 160/1997 Z. z. o Rade Slovenskej republiky pre rozhlasové a televízne vysielanie a o zmene zákona č. 468/1991 Zb. o prevádzkovaní rozhlasového a televízneho vysielania v znení neskorších predpisov. § 8 ods. 5 zákona Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov.§ 7 ods. 6 zákona Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
 - 7) Vyhláška Ústrednej rady odborov č. 165/1979 Zb. o nemocenskom poistení niektorých pracovníkov a o poskytovaní dávok nemocenského poistenia občanom v osobitných prípadoch v znení neskorších predpisov.
 
@@ -36,7 +36,11 @@
 
 - 11a) Zákon Slovenskej národnej rady č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
 
-- 11b) § 21 zákona č. 1/1991 Zb. o zamestnanosti.
+- 11aa) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+
+- 11ab) § 42 zákona č. 54/1956 Zb.§ 5 zákona č. 32/1957 Zb. v znení neskorších predpisov.
+
+- 11b) § 31 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 12) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení neskorších predpisov.
 
@@ -44,7 +48,7 @@
 
 - 13a) § 3 ods. 1 písm. a) zákona č. 286/1992 Zb.
 
-- 13b) § 110b, § 117 ods. 3, § 124, 126, 128 až 130 Zákonníka práce.§ 11 ods. 3 zákona č. 1/1991 Zb.
+- 13b) § 110b, § 117 ods. 3, § 124 až 126, 128 až 130 Zákonníka práce.§ 6 a § 11 ods. 3 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.§ 3 ods. 2 a § 14 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 13c) § 195 Zákonníka práce.
 
@@ -56,7 +60,15 @@
 
 - 13g) Napríklad nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby.
 
-- 13h) § 3 ods. l písm. b) zákona č. 286/1992 Zb.
+- 13ga) § 6 zákona č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 13h) § 3 ods. 1 písm. b) a § 10 ods. 1 písm. k) zákona č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 13ha) § 7 zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z. o niektorých opatreniach na zabezpečenie hospodárenia Slovenskej republiky v roku 1995 a o zmene a doplnení niektorých zákonov.
+
+- 13hb) Zákon Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
+
+- 13hc) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 13i) § 11 a 12 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
 
@@ -68,9 +80,17 @@
 
 - 17) Zákon č. 328/l991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- 17a) § 70 až 75 Obchodného zákonníka.
+
+- 17b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
+
+- 17c) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
+- 17d) § 27 a 35 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
+
 - 18) § 124 Zákonníka práce.
 
-- 19) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
+- 19) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
 
 - 20) § 8 a 8a Trestného poriadku.
 
@@ -84,7 +104,7 @@
 
 - 21d) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 22) Zákon č. 563/l991 Zb. o účtovníctve.
+- 22) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
 - 23) Zákon č. 256/l992 Zb. o ochrane osobných údajov v informačných systémoch.
 

@@ -1,13 +1,9 @@
 # § 71a
 
-(1) Všeobecná poisťovňa vedie centrálny register poistencov povinného zdravotného poistenia (ďalej len „centrálny register“).
+(1) Ministerstvo zdravotníctva zabezpečuje vedenie centrálneho registra poistencov povinného zdravotného poistenia (ďalej len „centrálny register“).
 
-(2) Poisťovne sú povinné na výzvu všeobecnej poisťovne a v požadovaných lehotách oznamovať údaje potrebné na vedenie centrálneho registra. Tieto údaje sa poskytujú bezplatne.
+(2) Poisťovne sú povinné vždy k 20. dňu príslušného mesiaca oznamovať údaje potrebné na vedenie centrálneho registra, ktorými sú meno, priezvisko, rodné číslo, adresa poistenca, deň vzniku a zániku poistného vzťahu, a údaje o platiteľovi poistného (§ 10 ods. 1) spôsobom, ktorý určí ministerstvo zdravotníctva po prerokovaní s poisťovňami. Tieto údaje sa poskytujú bezplatne.
 
-(3) Všeobecná poisťovňa oznamuje orgánom štátneho dozoru vždy k 20. dňu v príslušnom mesiaci za predchádzajúci mesiac zmeny v centrálnom registri týkajúce sa počtu poistencov, za ktorých platí poistné štát.
+(3) Príspevok na úhradu nákladov spojených so zavedením centrálneho registra a jeho vedením poskytujú všetky poisťovne, a to pomerne podľa počtu poistencov; uhrádzajú ho zo správneho fondu.
 
-(4) V lehote uvedenej v odseku 3 poskytuje všeobecná poisťovňa údaje o zmenách v centrálnom registri aj ďalším poisťovniam.
-
-(5) Výdavky spojené so zavedením centrálneho registra a výdavky spojené s jeho vedením sa hradia zo správneho fondu a znášajú ich všetky poisťovne pomerne podľa počtu poistencov.
-
-(6) Povinnosť zachovávať mlčanlivosť podľa § 65 sa vzťahuje aj na údaje z informačného systému a z centrálneho registra. Pri prevádzkovaní informačného systému a vykonávaní činností súvisiacich s vedením centrálneho registra sa postupuje podľa osobitného zákona.<sup>25</sup>)
+(4) Ministerstvo zdravotníctva je povinné zachovávať mlčanlivosť o údajoch z centrálneho registra s výnimkou poskytnutia údajov poisťovniam, ministerstvu financií a Národnej rade Slovenskej republiky. Pri prevádzkovaní centrálneho registra sa postupuje podľa osobitného zákona.<sup>23</sup>)
