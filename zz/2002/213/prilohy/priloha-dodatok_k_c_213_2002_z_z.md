@@ -1274,6 +1274,22 @@ Dodatok k č. 213/2002 Z. z.
 
   - úradník („registrar“) Súdneho dvora Surinamu
 
+    - Svätá Lucia
+
+  - 1. „The Permanent Secretary, Ministry of Foreign Affairs and International Trade"
+
+  - 2. „The Deputy Permanent Secretary, Ministry of Foreign Affairs and International Trade"
+
+  - 3. „The Permanent Secretary, Ministry of Commerce, International Financial Services and Consumer Affairs"
+
+  - 4. „The Deputy Permanent Secretary, Ministry of Commerce, International Financial Services and Consumer Affairs"
+
+  - 5. „The Registrar of Companies and Intellectual Property"
+
+  - 6. „The Registrar of the Supreme Court"
+
+  - 7. „The Solicitor General"
+
     - Španielsko
 
   - 1. pre listiny vydané justičnými orgánmi „Secretario de Gobierno de las Audiencias“ alebo jeho zástupca
