@@ -1,1 +1,0 @@
-- 1) Uznesenie vlády Slovenskej socialistickej republiky z 9. júla 1975 č. 224, uverejnené v Zbierke zákonov 17. júla 1975 pod č. 78, bolo s účinnosťou od 1. januára 1977 zrušené uznesením vlády Slovenskej socialistickej republiky z 1. decembra 1976 č. 349.
