@@ -98,12 +98,6 @@
 
 - 82) Pre hodnotenie zrkadiel platia skúšobné podmienky obsiahnuté v odporúčaní EHK/TRANS/SC 1/WP 29/498 a 498 Amend. 1.
 
-- 87) § 3 ods. 3 vyhlášky č. 80/1966 Zb.
-
-- 88) Druhmi vzorky behúňa sa rozumie letná, zimná, terénna, univerzálna a asymetrická vzorka.
-
-- 102) Kontrolujú sa vzdialenosti, uhly telesných segmentov a určuje sa H - bod trojrozmernou figurínou podľa poznámky 76. Základná poloha sedadla zaťaženého touto figurínou sa nemusí zhodovať s polohou uvedenou v § 26, kde ide vždy o krajnú zadnú polohu sedadla. Na účely uvedené v tomto odseku sa sedadlo s figurínou uspôsobuje tak, aby stehenná časť figuríny pokiaľ možno plne zaťažovala sedaciu plochu sedadla a päta pravej nohy sa dotýkala pedála akcelerátora v pokojovej polohe, ale s predkolením, aby zvierala uhol väčší ako 70°. Sklon operadla sa nastaví v rozmedzí základného uhla uvedeného v odseku 3.
-
 - 104) Pozri poznámku 76.
 
 - 105) Zvislá rovina súmernosti vodičovho sedadla nesmie ležať vo vzdialenosti väčšej ako 30 mm od stredu volanta.
@@ -117,5 +111,3 @@
 - 109) Toto ustanovenie sa kontroluje v polohe sedadla zodpovedajúcej figuríne 50 % veľkostnej skupiny.
 
 - 120) Ustanovenia tohto paragrafu sa vzťahujú aj na palivové nádrže nezávislých kúrení.
-
-- 200) Podmienkou schválenia je splnenie požiadaviek určených ČSN 83 2140; rozhodnutie o schválení podľa zákona č. 30/1968 Zb. vydáva Strojársky skúšobný ústav - štátna skúšobňa č. 202.
