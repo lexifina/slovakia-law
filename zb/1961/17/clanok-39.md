@@ -6,8 +6,4 @@
 
 (3) Užívateľ lesa je povinný v medziach hospodárskej účelnosti vykonať také pestebné opatrenia na okraji porastov susediacich bezprostredne so železničnou traťou, aby tieto porasty boli čo najmenej ohrozované požiarom.
 
-Šiesta časť
-
-Skúška pre odborných lesných hospodárov
-
-(k § 54 zákona)
+Šiesta časť (§ 40 až 46) - Zrušená od 1. 3. 1976.
