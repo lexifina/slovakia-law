@@ -1,0 +1,1 @@
+- 1) Zákon č. 103/1974 Sb., o zemědělské dani, ve znění pozdějších předpisů.
