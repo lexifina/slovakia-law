@@ -1,1 +1,0 @@
-- *) Stalo sa tak zákonom č. 42/1959 Zb. o dokumentácii stavieb.
