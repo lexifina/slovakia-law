@@ -18,7 +18,7 @@
 
 - 10) § 32 zákona č. 314/2001 Z. z. o ochrane pred požiarmi.
 
-- 11) § 18 ods. 4 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 241/1998 Z. z.
+- 11) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
