@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 55/2005 Z. z. OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V SULÍNE ![Obrázok 02](../assets/4523bd17da7132a54985c9e86663ff79671cded92a1fc9506c359ff745724fa3.tiff)

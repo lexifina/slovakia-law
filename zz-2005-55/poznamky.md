@@ -1,0 +1,1 @@
+- 1) Týmto dňom stráca platnosť rozhodnutie Ministerstva zdravotníctva Slovenskej republiky č. 1605/98-A-400/IKŽ zo 17. augusta 1998, ktorým boli určené nevyhnutné dočasné ochranné opatrenia pre prírodný liečivý zdroj MS-1 v Sulíne.
