@@ -1,0 +1,1 @@
+- *) Ustanovení zákona č. 142/1947 Sb. ve znění čl. I zák. č. 44/01948 Sb. nabyla účinnosti dnem 12.srpna 1947 s výjimkou ustanovení § 8, odst. 6, které nabylo účinnosti dnem 14.dubna 1948 (čl. IV zák. č. 44/1948 Sb.)
