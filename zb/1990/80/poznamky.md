@@ -24,7 +24,7 @@
 
 - 8) Zákon č. 424/1991 Zb. o združování v politických stranách a politických hnutiach.
 
-- 9) § 6 ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
+- 9) § 6 zákona Slovenskej národnej rady č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení neskorších predpisov.
 
 - 10) § 13 zákona č. 424/1991 Zb.
 
