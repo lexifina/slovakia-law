@@ -1,8 +1,8 @@
 - 1) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
-- Zákon SNR č. 78/1978 Zb. o školských zariadeniach v znení neskorších predpisov.
+- Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z
 
-- 2) Zákon SNR č. 78/1978 Zb. v znení neskorších predpisov.
+- 2) Zákon Národnej rady Slovenskej republiky č. 179/1993 Z. z. o školských zariadeniach v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 3) § 10, § 57a ods. 2 a 57b ods. 2 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
