@@ -1,1 +1,0 @@
-- *) Hospodárska zmluva je v tomto prípade uzavretá tým, že predajňa, prípadne veľkoobchodný sklad v lehote na prijatie objednávky poskytne plnenie [§ 153 ods. 2 písm. c) Hospodárskeho zákonníka].
