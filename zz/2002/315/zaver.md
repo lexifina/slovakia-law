@@ -1,0 +1,1 @@
+Milan Luknár v. r.
