@@ -1,0 +1,1 @@
+- 1) Porovnaj čl. 32 prílohy nariadenia vlády Československej socialistickej republiky č. 137/1975 Zb., ktorým sa vydávajú Vzorové stanovy jednotných roľníckych družstiev a upravuje postup pri vypracovaní a schvaľovaní stanov družstva, ich zmien a doplnkov.
