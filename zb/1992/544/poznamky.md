@@ -1,0 +1,1 @@
+- 1) Zákon č. 264/1992 Zb., ktorým sa mení a dopĺňa Občiansky zákonník, zrušuje zákon o štátnom notárstve a o konaní pred štátnym notárstvom (notársky poriadok) a menia a dopĺňajú niektoré ďalšie zákony, nadobúda účinnosť 1. januárom 1993.
