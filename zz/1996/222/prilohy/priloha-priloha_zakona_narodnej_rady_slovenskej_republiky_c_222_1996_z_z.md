@@ -28,32 +28,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 15. | živnostenské podnikanie a ochrana spotrebiteľa | zák. NR SR č. 274/1993 Z. z. | §5 | vyhlasuje na území príslušného okresu predaj obmedzeného množstva výrobkov v prípade, ak je vážne ohrozené zásobovanie obyvateľstva životne dôležitými výrobkami
 
-- 16. | požiarna ochrana | zák. SNR č. 126/1985Zb. v znení neskorších predpisov | § 11 ods. 1 | overuje odbornú spôsobilosť a vydáva osvedčenie o odbornej spôsobilosti technikom požiarnej ochrany a špecialistom požiarnej ochrany
-
-- 17. | | | § 27 písm. a) | vykonáva štátny požiarny dozor
-
-- 18. | | | § 27 písm. b) | riadi, organizuje a v rozsahu vymedzenom ministerstvom vnútra vykonáva odbornú prípravu na úseku požiarnej ochrany
-
-- 19. | | | § 27 písm. c) | zisťuje v závažných prípadoch príčiny vzniku požiarov a vypracúva rozbory požiarovosti; v rozsahu vymedzenom ministerstvom vnútra spracúva a vedie evidencie požiarnej ochrany a plní úlohy v rámci automatizovaného systému spracúvania informácií a riadenia požiarnej ochrany
-
-- 20. | | | § 27 písm. d) | riadi po odbornej stránke výkon služby v jednotkách požiarnej ochrany v rozsahu vymedzenom ministerstvom vnútra
-
-- 21. | | | § 27 písm. e) | vypracúva dokumentáciu požiarnej ochrany v rozsahu vymedzenom ministerstvom vnútra
-
-- 22. | | | § 27 písm. í) | v rozsahu svojej pôsobnosti môže vydávat všeobecne záväzné vyhlášky
-
-- 23. | | | § 27 písm. g) | organizuje a vykonáva preventívnovýchovnú a propagačnú cinnost
-
-- 24. | | | § 27 písm. h) | plní v rozsahu vymedzenom osobitnými predpismi úlohy požiarnej ochrany pri príprave na obranu štátu
-
-- 25. | | | § 34 ods. 1 | posudzuje dokumentácie stavieb vrátane technológií v prípadoch ustanovených vo všeobecne záväznom právnom predpise
-
-- 26. | | | § 65a ods. 1 | môže zriadiť jednotku Zboru požiarnej ochrany na plnenie osobitných úloh
-
-- 27. | | | § 73 ods. 2 | sústreďuje a nasadzuje jednotky požiarnej ochrany bez ohľadu na to, komu sú podriadené, a vecné prostriedky požiarnej ochrany bez ohľadu na to, kto nimi disponuje v prípade naliehavej potreby pri zdolávaní požiarov
-
-- 28. | | | §74 | spolupracuje s príslušnými orgánmi dobrovolných spoločenských organizácií
-
 - 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974Zb. | § 4 ods. 1 písm. a) a príloha | povoľuje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
 
 - 41. | | | § 4 ods. 1 písm. b) | povoľuje odber podzemných a povrchových vôd pre potreby verejných vodovodov, ktoré presahujú územie jedného okresu alebo sa dotýkajú záujmov viacerých okresov
@@ -130,13 +104,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 90. | | | § 58 ods. 1 a 4 | ustanovuje a odvoláva stráž prírody a určuje z jej radov členov, ktorí sú oprávnení držať a nosiť zbraň
 
-- 91. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992 Zb. v znení neskorších predpisov | § 4 ods. 1 písm. a) | určuje podľa § 14 ods. 3 zákona o ovzduší emisné limity pre jestvujúce veľké zdroje znečistovania ovzdušia
+- 91. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992Zb. v znení neskorších predpisov | § 4 ods. 1 písm. a) | určuje podľa § 14 ods. 3 zákona o ovzduší emisné limity pre jestvujúce veľké zdroje znečistovania ovzdušia
 
 - 92. | | | § 4 ods. 1 písm. b) | dáva súhlas podľa § 1 1 ods. 1 písm. e) zákona o ovzduší na návrhy územnoplánovacej dokumentácie veľkého územného celku
 
 - 93. | | | § 4 ods. 1 písm. c) | určuje spôsob vyhlasovania varovného a regulačného opatrenia všeobecne záväznou vyhláškou a je oprávnený vyhradiť si jeho vyhlasovanie, ak smogová situácia presahuje územie pôsobnosti okresného úradu; pritom spolupracuje s príslušným orgánom štátnej správy zdravotníctva
 
-- 94. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992 Zb. v znení neskorších predpisov | § 4 ods. 1 písm. d) | sprístupňuje informácie verejnosti v rozsahu podľa § 13 zákona o ovzduší a zverejňuje najviac do šiestich mesiacov nasledujúceho roka informácie o kvalite ovzdušia a podiele jednotlivých zdrojov na jeho znečisťovaní
+- 94. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR č. 134/1992Zb. v znení neskorších predpisov | § 4 ods. 1 písm. d) | sprístupňuje informácie verejnosti v rozsahu podľa § 13 zákona o ovzduší a zverejňuje najviac do šiestich mesiacov nasledujúceho roka informácie o kvalite ovzdušia a podiele jednotlivých zdrojov na jeho znečisťovaní
 
 - 95. | | | § 4 ods. 2 | vydáva vo veciach ochrany ovzdušia pre územný obvod svojej pôsobnosti všeobecne záväzné vyhlášky
 
@@ -148,7 +122,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 97. | | | § 4 ods. 3 písm. c) | - opätovne poruší povinnosti, za porušenie ktorých mu už bola uložená pokuta podľa § 18 ods. 10 zákona o ovzduší
 
-- 99. | | zák. SNR č. 100/1977 Zb. v znení neskorších predpisov | § 27 písm. a) | dáva súhlas podľa § 5 ods. 2 zákona o lesoch k návrhom územných plánov zón (mimorekreačných zón) , podľa § 6 ods. 2 zákona o lesoch k návrhom na určenie dobývacích priestorov, ktorými má byť dotknutý lesný pôdny fond a lesné porasty, a podľa § 7 ods. 2 zákona o lesoch k návrhom na prerokovanie projektovej úlohy trás smerových a líniových stavieb, len ak trasa prechádza lesmi viacerých regiónov
+- 99. | | zák. SNR č. 100/1977Zb. v znení neskorších predpisov | § 27 písm. a) | dáva súhlas podľa § 5 ods. 2 zákona o lesoch k návrhom územných plánov zón (mimorekreačných zón) , podľa § 6 ods. 2 zákona o lesoch k návrhom na určenie dobývacích priestorov, ktorými má byť dotknutý lesný pôdny fond a lesné porasty, a podľa § 7 ods. 2 zákona o lesoch k návrhom na prerokovanie projektovej úlohy trás smerových a líniových stavieb, len ak trasa prechádza lesmi viacerých regiónov
 
 - 100. | | | § 27 písm. b) | sleduje hospodárenie v lesoch z hladiska zabezpecovania funkcií lesov a z hladiska rozvoja oblasti a vyjadruje sa ku koncepciám rozvoja lesného hospodárstva
 
@@ -162,7 +136,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 105. | | | § 27 písm. g) | vyhlasuje podla § 6 ochranné lesy a lesy osobitného urcenia
 
-- 106. | polnohospodárstva, lesného hospodárstva a polovníctva | zák. SNR č. 100/1977 Zb. v znení neskorších predpisov | § 27 písm. h) | ukladá podla § 21 ods. 2 opatrenia v prípade mimoriadnych okolností a nepredvídaných škôd v lesoch, ak tieto okolnosti a škody presahujú územný obvod okresného úradu alebo jeho možnosti
+- 106. | polnohospodárstva, lesného hospodárstva a polovníctva | zák. SNR č. 100/1977Zb. v znení neskorších predpisov | § 27 písm. h) | ukladá podla § 21 ods. 2 opatrenia v prípade mimoriadnych okolností a nepredvídaných škôd v lesoch, ak tieto okolnosti a škody presahujú územný obvod okresného úradu alebo jeho možnosti
 
 - 107. | | | § 27 písm. i) | vedie evidenciu odborných lesných hospodárov, vydáva osvedcenia na výkon ich cinnosti a rozhoduje o odobratí osvedcenia
 
@@ -200,26 +174,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 199. | | | §41 | vykonáva štátnu správu na úseku školských výpoctových stredísk
 
-- 202. | | zák. SNR č. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
-
-- 204. | | zák. SNR č. 27/1987Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
-
-- 205. | | | § 7 ods. 2 | vedie zoznamy kultúrnych pamiatok
-
-- 206. | kultúra | zák. SNR č. 27/1987Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
-
-- 207. | | | § 11 ods. 2 | rozhoduje o podmienkach a zákaze výkonu cinnosti ohrozujúcej národnú kultúrnu pamiatku
-
-- 208. | | | § 14 ods. 1 a 3 | vydáva záväzné stanoviská k žiadostiam vlastníkov na obnovu kultúrnej pamiatky alebo úpravu jej prostredia
-
-- 209. | | | § 14 ods. 4 | vydáva záväzné stanoviská k rozhodovaniu orgánov v územnom konaní, v konaní o povolenie stavieb, zmien stavieb a udržiavacích prác pri národnej kultúrnej pamiatke
-
-- 210. | | | § 14 ods. 5 | vydáva záväzné stanoviská k rozhodovaniu stavebného úradu o obnove národnej kultúrnej pamiatky
-
-- 211. | | | § 15 ods. 2 | rozhoduje o vykonaní nevyhnutných opatrení na zabezpecenie národnej kultúrnej pamiatky
-
-- 212. | | | | rozhoduje o spôsobe nakladania s hnutelnou národnou kultúrnou pamiatkou v prípade dôležitého spolocenského záujmu a urcuje odbornú organizáciu v prípade potrebnej úschovy národnej kultúrnej pamiatky
-
-- 213. | | | § 19 ods. 2 | rozhoduje o podmienkach prenechania národnej kultúrnej pamiatky na docasné užívanie
+- 202. | | zák. SNR c. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
 
 - 224. | kontrola | zák. NR SR č. 10/1996 Z. z. | § 1 ods. 1 písm. b) | kontroluje plnenie úloh štátnej správy
