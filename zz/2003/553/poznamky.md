@@ -78,6 +78,8 @@
 
 - 33) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
+- 33a) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z. o uzavretí Dohovoru, ktorým sa definuje štatút Európskych škôl.
+
 - 34) Nariadenie vlády Slovenskej republiky č. 164/2002 Z. z. o spôsobe výpočtu platovej relácie na výpočet časti platu v peňažných prostriedkoch v inej ako slovenskej mene a o obsahu cenovej dokumentácie na určenie platového koeficientu.
 
 - 35) Nariadenie vlády Slovenskej republiky č. 336/2002 Z. z., ktorým sa ustanovujú podrobnosti na poskytovanie zahraničného príspevku.
