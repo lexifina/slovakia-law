@@ -742,7 +742,55 @@ Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Úst
 
 - 56. V tretej časti druhej hlave sa za dvanásty oddiel vkladá trinásty a štrnásty oddiel, ktoré vrátane nadpisov znejú:
 
-- „Štrnásty oddiel
+- „Trinásty oddiel
+
+- Konanie o súlade rozhodnutia o vyhlásení výnimočného stavu alebo núdzového stavu
+
+- § 74a
+
+- (1)
+
+- Návrh na začatie konania o súlade rozhodnutia o vyhlásení výnimočného stavu a ďalších rozhodnutí nadväzujúcich na toto rozhodnutie sú oprávnené podať osoby uvedené v § 18 ods. 1 písm. a), c) a e).
+
+- (2)
+
+- Návrh na začatie konania o súlade rozhodnutia o vyhlásení núdzového stavu a ďalších rozhodnutí nadväzujúcich na toto rozhodnutie sú oprávnené podať osoby uvedené v § 18 ods. 1 písm. a) a b).
+
+- (3)
+
+- Účastníci konania sú navrhovateľ a prezident Slovenskej republiky.
+
+- § 74b
+
+- (1)
+
+- Návrh na začatie konania okrem všeobecných náležitostí uvedených v § 20 ods. 1 musí obsahovať
+
+- a)
+
+- opísanie podmienok, za akých bolo vydané rozhodnutie o vyhlásení výnimočného stavu alebo núdzového stavu,
+
+- b)
+
+- uvedenie ďalších rozhodnutí nadväzujúcich na rozhodnutie o vyhlásení výnimočného stavu alebo núdzového stavu,
+
+- c)
+
+- dôvody, pre ktoré má navrhovateľ pochybnosti o súlade rozhodnutia o vyhlásení výnimočného stavu alebo núdzového stavu s Ústavou alebo s ústavnými zákonmi.
+
+- (2)
+
+- Navrhovateľ, ak je to možné, pripojí rovnopis rozhodnutia o vyhlásení výnimočného stavu alebo núdzového stavu a rovnopisy ďalších rozhodnutí nadväzujúcich na rozhodnutie o vyhlásení výnimočného stavu alebo núdzového stavu.
+
+- § 74c
+
+- Návrh na začatie konania možno podať do desiatich dní od vyhlásenia výnimočného stavu alebo núdzového stavu. Ústavný súd rozhodne o návrhu do troch dní od jeho doručenia.
+
+- § 74d
+
+- Ústavný súd rozhoduje vo veci samej nálezom, ktorý sa doručí účastníkom konania. Súčasne sa nález doručí predsedovi vlády Slovenskej republiky a predsedovi Národnej rady Slovenskej republiky. Predseda Ústavného súdu zabezpečí uverejnenie tohto nálezu prostredníctvom Tlačovej agentúry Slovenskej republiky.
+
+- Štrnásty oddiel
 
 - Ďalšia disciplinárna a iná právomoc Ústavného súdu
 
