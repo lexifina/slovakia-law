@@ -39,3 +39,5 @@ Príloha č. 1 k zákonu č. 131/2002 Z. z.
   - Akadémia umení v Banskej Bystrici
 
   - Katolícka univerzita v Ružomberku
+
+  - Univerzita J. Selyeho
