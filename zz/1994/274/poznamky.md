@@ -18,9 +18,9 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti.
 
-- 9) § 2 zákona č. 54/1956 Zb. v znení zákona č. 180/1990 Zb., zákona č. 306/1991 Zb. a zákona Národnej rady Slovenskej republiky č.194/1994 Z. z.
+- 9) § 6a ods. 3 a § 8 ods. 6 zákona č. 100/1988 Zb. v znení zákona č. 446/2000 Z. z.
 
-- § 6 zákona č. 100/1988 Zb. v znení zákona č. 110/1990 Zb., zákona č. 306/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
+- 9a) § 6 ods. 2 písm. c) a § 6a ods. 3 zákona č. 100/1988 Zb. v znení zákona č. 446/2000 Z. z.
 
 - 10) § 2 zákona č. 54/1956 Zb. v znení zákona č. 180/1990 Zb., zákona č. 306/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
 
@@ -54,7 +54,7 @@
 
 - Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.
 
-- 19) § 3 ods. 1 písm. a) zákona č. 286/1992 Zb. o daniach z príjmov.
+- 19) § 3 ods. 1 písm. a) zákona č. 366/1999 Z. z. o daniach z príjmov.
 
 - 19a) § 110b, § 117 ods. 3,§ 124, § 128 až 130 Zákonníka práce.
 
@@ -66,13 +66,15 @@
 
 - 19d) Napr. nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby.
 
-- 20) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb.
+- 20) § 3 ods. 1 písm. b) zákona č. 366/1999 Z. z.
 
 - 20c) § 86 Zákonníka práce.
 
 - 20a) § 15 zákona č. 366/1999 Z. z. o daniach z príjmov.
 
 - 20b) § 16 zákona č. 366/1999 Z. z.
+
+- 20f) § 70 Zákonníka práce.
 
 - 21) § 279 ods. 2 Občianskeho súdneho poriadku
 
