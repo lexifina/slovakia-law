@@ -1,0 +1,1 @@
+- Pozná) Každá určená letecká spoločnosť môže poskytovať prepravnéĺ služby do/z medziľahlých bodov a bodov za, ktoré nie sú určené v príloheĺ k tejto dohode, ak sa medzi týmito bodmi a územím štátu druhej zmluvnejĺ strany nevykonávajú žiadne prepravné práva.
