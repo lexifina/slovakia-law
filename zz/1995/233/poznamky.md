@@ -2,7 +2,21 @@
 
 - 2) Zákonník práce.
 
-- 3) Zákon č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
+- 3) § 2 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
+
+- 3a) Zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+
+- 3b) Trestný zákon v znení neskorších predpisov.
+
+- 3c) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 4) § 138 a 148 Občianskeho súdneho poriadku.
 
