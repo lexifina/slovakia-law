@@ -80,7 +80,9 @@
 
 - 43) § 101 až 107 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
-- 44) § 7 ods. 2 a § 8 zákona č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 44) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
+
+- 44a) § 5 a 6 zákona č. 595/2003 Z. z. o dani z príjmov.
 
 - 45) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
