@@ -1,0 +1,1 @@
+- Poznámka) Medziľahlé body a body za môžu obsluhovať určené letecké spoločnosti. Medzi týmito bodmi a územím štátu druhej zmluvnej strany sa právo na piatu slobodu bude uplatňovať len po vzájomnej dohode určených leteckých spoločností a so súhlasom príslušných vládnych orgánov civilného letectva oboch zmluvných strán.

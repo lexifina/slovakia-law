@@ -1,0 +1,3 @@
+# Článok 15 Poskytovanie štatistických informácií
+
+Vládne orgány civilného letectva jednej zmluvnej strany poskytnú na žiadosť vládnych orgánov civilného letectva druhej zmluvnej strany také informácie a štatistické údaje o prepravách vykonaných v rámci dohodnutých služieb určenou leteckou spoločnosťou štátu jednej zmluvnej strany na územie a z územia štátu druhej zmluvnej strany, ktoré určená letecká spoločnosť obvykle spracúva a predkladá vládnym orgánom civilného letectva svojho štátu. Všetky ďalšie štatistické údaje o doprave, ktoré vládne orgány civilného letectva jednej zmluvnej strany budú požadovať od vládnych orgánov civilného letectva druhej zmluvnej strany, budú na požiadanie predmetom vzájomnej diskusie a dohody medzi obidvoma zmluvnými stranami.
