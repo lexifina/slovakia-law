@@ -16,7 +16,7 @@
 
 - 9) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení vyhlášky Ministerstva financií Slovenskej republiky č. 608/1992 Zb. a vyhlášky Ministerstva financií Slovenskej republiky č. 265/1993 Z. z.
 
-- 10) § 15 ods. 5, 6 a 7 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. v znení vyhlášky Ministerstva financií Slovenskej republiky č. 608/1992 Zb.
+- 10) § 43 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
 
 - 11) § 16 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
 
