@@ -60,6 +60,8 @@
 
 - 22) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 22a) Napríklad zákon č. 109/1964 Zb. Hospodársky zákonník v znení neskorších predpisov, vyhláška Ministerstva financií č. 86/1968 Zb. o združovaní prostriedkov socialistických organizácií.
+
 - 23) § 14 ods. 1 zákona č. 92/1991 Zb.
 
 - 23a) Napríklad § 588 Občianskeho zákonníka, § 56 až 220 Obchodného zákonníka.
