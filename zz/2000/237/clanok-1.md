@@ -144,6 +144,10 @@ Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný z�
 
 - Zabezpečovanie obstarávania územnoplánovacích podkladov a územnoplánovacej dokumentácie obcami
 
+- (1)
+
+- Obec zabezpečuje obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie prostredníctvom odborne spôsobilej osoby.
+
 - (2)
 
 - Odbornou spôsobilosťou sa rozumie vzdelanie, prax a súhrn teoretických vedomostí, praktických skúseností a znalosť všeobecne záväzných právnych predpisov potrebných na obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie.
@@ -2689,6 +2693,20 @@ Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný z�
 - „12)
 
 - Zákon č. 281/1997 Z. z.“.
+
+- 108. Za § 123 sa vkladá § 123a, ktorý vrátane nadpisu znie:
+
+- „§ 123a
+
+- Slovenská inšpekcia životného prostredia
+
+- (1)
+
+- Slovenská inšpekcia životného prostredia (ďalej len „inšpekcia“) je odborný kontrolný orgán, ktorého prostredníctvom ministerstvo vykonáva hlavný štátny dozor vo veciach územného plánovania a stavebného poriadku.
+
+- (2)
+
+- Inšpekcia nariaďuje odstránenie nedostatkov zistených jej kontrolnou činnosťou. Pri súbežnom konaní inšpekcie a stavebného úradu sa postupuje obdobne ako pri ukladaní pokút. Za porušenie povinností uložených týmto zákonom, všeobecne záväznými právnymi predpismi vydanými na jeho vykonanie a rozhodnutiami vydanými na ich základe ukladá pokuty.“.
 
 - 109. Za § 127 sa vkladá § 127a, ktorý vrátane nadpisu znie:
 
