@@ -516,6 +516,12 @@ Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých 
 
 - „Kvalifikačné predpoklady ustanovené v odseku 3 písm. b) nemusí spĺňať štátny zamestnanec v prípravnej štátnej službe a v dočasnej štátnej službe podľa § 25 ods. 2 písm. c).“.
 
+- 36. § 14 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Predpoklady podľa odseku 1 sa vzťahujú aj na občana členskej krajiny Európskej únie. Zoznam štátnozamestnaneckých miest, o ktoré sa môže uchádzať len občan, upraví všeobecne záväzný právny predpis, ktorý vydá Úrad pre štátnu službu.“.
+
 - 37. § 15 vrátane nadpisu znie:
 
 - „§ 15
