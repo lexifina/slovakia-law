@@ -1,1 +1,0 @@
-- 1) § 35b zákona č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 64/1999 Z. z.
