@@ -1,74 +1,60 @@
-- 1) § 142 až 145 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
+- 1) § 142 až 145 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb. a zákona č. 180/1990 Zb.
 
-- 2) § 116 zákona č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení zákona č. 116/1967 Zb. a zákona č. 103/1988 Zb.
+- 2) Zákon o sociálnom zabezpečení.Zákon č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení neskorších predpisov (úplné znenie č. 240/1988 Zb.) a zákona č. 180/1990 Zb.Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 16/1959 Zb., zákona č. 58/1964 Zb., zákona č. 65/1965 Zb., zákona č. 87/1968 Zb., zákona č. 88/1968 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 8/1982 Zb., zákona č. 73/1982 Zb., zákona č. 148/1983 Zb., zákona č. 109/1984 Zb., zákona č. 51/1987 Zb., zákona č. 110/1990 Zb. a zákona č. 180/1990 Zb.Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov (úplné znenie č. 189/1988 Zb.) a zákona č. 180/1990 Zb.Zákon č. 107/1971 Zb. o materskom príspevku v znení neskorších predpisov (úplné znenie č. 106/1987 Zb.) a zákona č. 180/1990 Zb.Zákon č. 50/1973 Zb. o pestúnskej starostlivosti v znení zákona č. 58/1984 Zb.
 
 - 3) § 118 zákona o sociálnom zabezpečení.
 
-- 4) § 7 písm. d) zákona o sociálnom zabezpečení.
+- 4) Zákon č. 107/1971 Zb. v znení neskorších predpisov.
 
-- 5) Zákon č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení zákona č. 141/1965 Zb., zákona č. 116/1967 Zb., zákona č. 89/1968 Zb., zákona č. 99/1972 Zb., zákona č. 21/1975 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 8/1982 Zb., zákona č. 148/1983 Zb., zákona č. 57/1984 Zb., zákona č. 109/1984 Zb., zákona č. 51/1987 Zb. a zákona č. 103/1988 Zb.
+- 4a) Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení zákona č. 58/1964 Zb., zákona č. 87/1968 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 8/1982 Zb., zákona č. 109/1984 Zb. a zákona č. 180/1990 Zb.
 
-- § 2 ods. 1 písm. c) zákona o sociálnom zabezpečení.
+- 5) § 111, 112 a 145b zákona o sociálnom zabezpečení.
 
-- Nariadenie vlády ČSSR č. 98/1971 Zb. o zvýšení podpory pri narodení dieťaťa.
+- 5a) § 13 ods. 4, § 27, 28 a § 50 ods. 3 vyhlášky č. 91/1958 Zb., ktorou sa uverejňuje opatrenie Ústrednej rady odborov o organizácii a vykonávaní nemocenského poistenia zamestnancov v znení vyhlášky č. 6/1967 Zb. a vyhlášky č. 178/1968 Zb.
 
-- Nariadenie vlády ČSSR č. 9/1982 Zb. o zvýšení niektorých sociálnych dávok na deti.
+- 6) § 142 ods. 6 a 7 zákona o sociálnom zabezpečení.
 
-- Nariadenie vlády ČSSR č. 112/1984 Zb. o zvýšení niektorých sociálnych dávok na deti.
-
-- 6) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení zákona č. 99/1972 Zb., zákona č. 73/1982 Zb., zákona č. 57/1984 Zb., zákona č. 109/1984 Zb., zákona č. 51/1987 Zb. a zákona č. 103/1988 Zb. Zákon č. 107/1971 Zb. o materskom príspevku v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 8/1982 Zb., zákona č. 110/1984 Zb. a zákona č. 50/1987 Zb.
-
-- Zákon č. 50/1973 Zb. o pestúnskej starostlivosti v znení zákona č. 58/1984 Zb.
-
-- Nariadenie vlády ČSSR č. 98/1971 Zb.
-
-- Nariadenie vlády ČSSR č. 9/1982 Zb.
-
-- Nariadenie vlády ČSSR č. 74/1982 Zb. o niektorých úpravách v nemocenskom poistení a dôchodkovom zabezpečení pracujúcich v baníctve.
-
-- Nariadenie vlády ČSSR č. 112/1984 Zb.
-
-- 7) § 142 ods. 6 a 7 zákona o sociálnom zabezpečení.
+- 7) Zákon č. 50/1973 Zb. v znení neskorších predpisov.
 
 - 7a) § 145b zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb.
 
-- 8) § 111 a 112 zákona o sociálnom zabezpečení.
+- 8) § 24 zákona č. 54/1956 Zb. v znení neskorších predpisov.
 
-- 9) Pôsobnosť Národného výboru hlavného mesta Slovenskej socialistickej republiky Bratislavy je vymedzená zákonom SNR č. 43/1968 Zb. o hlavnom meste Slovenska Bratislave v znení zákona SNR č. 63/1971 Zb., zákonného opatrenia Predsedníctva SNR č. 90/1971 Zb. a zákona SNR č. 127/1985 Zb. (úplné znenie č. 41/1986 Zb.).
+- 9) § 51 ods. 5 a § 50 ods. 3 vyhlášky Ústrednej rady odborov č. 165/1979 Zb. o nemocenskom poistení niektorých pracovníkov a o poskytovaní dávok nemocenského poistenia občanom v osobitných prípadoch v znení neskorších predpisov.§ 12 zákona č. 88/1968 Zb. v znení neskorších predpisov.§ 14 vyhlášky č. 95/1968 Zb. o poskytovaní prídavkov na deti v nemocenskom poistení v znení neskorších predpisov.§ 34 vyhlášky č. 104/1964 Zb., ktorou sa vykonáva zákon o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa, v znení neskorších predpisov.
 
 - 9a) § 63b zákona č. 69/1967 Zb. o národných výboroch v znení neskorších predpisov (úplné znenie č. 157/1988 Zb.).
 
-- 10) § 2 ods. 1 písm. c) zákona o sociálnom zabezpečení.
+- 10) § 47 ods. 2 zákona č. 54/1956 Zb. v znení neskorších predpisov.
 
-- 11) § 7 zákona č. 117/1966 Zb. o niektorých dôsledkoch zanedbávania starostlivosti o deti.
+- 11) § 5 ods. 2 zákona č. 107/1971 Zb. v znení neskorších predpisov.
 
-- 12) § 34 vyhlášky Štátneho úradu sociálneho zabezpečenia č. 104/1964 Zb., ktorou sa vykonáva zákon o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa, v znení vyhlášky č. 92/1968 Zb. a vyhlášky č. 74/1984 Zb.
+- 12) § 120 ods. 4 zákona o sociálnom zabezpečení.
 
 - 12a) § 174 písm. b) č. 2 zákona o sociálnom zabezpečení.
 
 - 12b) § 143 zákona č. 103/1964 Zb. (úplné znenie č. 240/1988 Zb.).
 
-- 13) § 120 ods. 4 zákona o sociálnom zabezpečení.
+- 13) § 158 vyhlášky č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení vyhlášky č. 123/1990 Zb.Vyhláška č. 76/1957 Ú. v. o prechode z pracovnej neschopnosti do invalidity (čiastočnej invalidity). Vyhláška Štátneho úradu sociálneho zabezpečenia č. 104/1964 Zb., ktorou sa vykonáva zákon o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení vyhlášky č. 142/1965 Zb., vyhlášky č. 117/1967 Zb., vyhlášky č. 92/1968 Zb., vyhlášky č. 180/1968 Zb., vyhlášky č. 76/1970 Zb., vyhlášky č. 128/1975 Zb., vyhlášky č. 54/1976 Zb., vyhlášky č. 164/1979 Zb., vyhlášky č. 80/1982 Zb., vyhlášky č. 153/1983 Zb., vyhlášky č. 74/1984 Zb., vyhlášky č. 133/1984 Zb., vyhlášky č. 58/1987 Zb., vyhlášky č. 150/1988 Zb. a vyhlášky č. 237/1988 Zb.
 
-- 14) Vyhláška č. 76/1957 Ú. v. o prechode z pracovnej neschopnosti do invalidity (čiastočnej invalidity).
+- 14) § 106 ods. 4 zákona o sociálnom zabezpečení.
 
-- Vyhláška Štátneho úradu sociálneho zabezpečenia č. 104/1964Zb., ktorou sa vykonáva zákon o zabezpečení matky a dieťaťa v znení vyhlášky č. 142/1965 Zb., vyhlášky č. 117/1967 Zb., vyhlášky č. 92/1968 Zb., vyhlášky č. 180/1968 Zb., vyhlášky č. 76/1970 Zb., vyhlášky č. 128/1975 Zb., vyhlášky č. 54/1976 Zb., vyhlášky č. 164/1979 Zb., vyhlášky č. 80/1982 Zb., vyhlášky č. 153/1983 Zb., vyhlášky č. 74/1984 Zb., vyhlášky č. 133/1984 Zb. a vyhlášky č. 58/1987 Zb.
+- 15) § 37 ods. 1 písm. a), § 46 ods. 1 písm. d) Zákonníka práce. § 52 ods. 3 a 4 zákona č. 90/1988 Zb. o poľnohospodárskom družstevníctve.
 
-- 15) § 37 ods. 1 písm. a), § 46 ods. 1 písm. d), § 51 ods. 1 písm. c) Zákonníka práce. § 52 ods. 3 a 4 zákona č. 90/1988 Zb. o poľnohospodárskom družstevníctve.
+- 16) § 73 ods. 6 zákona o sociálnom zabezpečení.
 
-- 16) § 24 ods. 2 zákona č. 88/1968 Zb. v znení zákona č. 99/1972 Zb. a zákona č. 57/1984 Zb.Nariadenie vlády ČSSR č. 9/1982 Zb.
-
-- 17) § 11 zákona č. 107/1971 Zb.
+- 17) § 24 ods. 2 zákona č. 88/1968 Zb. v znení neskorších predpisov.
 
 - 18) § 71 ods. 5 zákona o sociálnom zabezpečení.
 
-- 19) § 9 ods. 1 písm. e) zákona o sociálnom zabezpečení.
+- 19) § 11 zákona č. 107/1971 Zb. v znení neskorších predpisov.
 
-- 20) § 54 ods. 4 zákona o sociálnom zabezpečení.
+- 20) § 9 ods. 1 písm. e) zákona o sociálnom zabezpečení.
 
-- 21) § 174 písm. b) č. 2 a 3 zákona o sociálnom zabezpečení.
+- 21) § 18 ods. 2 písm. c) a d) zákona č. 88/1968 Zb. v znení neskorších predpisov.
 
-- 22) § 143 ods. 1 zákona č. 103/1964 Zb.
+- 22) § 54 ods. 4 zákona o sociálnom zabezpečení.
+
+- 22a) § 19 ods. 2 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
 
 - 23) § 43 ods. 2 Zákona o rodine.
 
