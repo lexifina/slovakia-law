@@ -10,9 +10,7 @@
 
 - Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
 
-- 2) § 6 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky.
-
-- 3) Nariadenie vlády Slovenskej republiky č. 548/1990 Zb., ktorým sa ustanovujú sídla okresných a obvodných úradov.
+- 2) § 8 a 9 zákona Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
 
 - 4) § 7 ods. 1 písm. b) zákona SNR č. 176/1989 Zb. o vyhlasovaní všeobecne záväzných právnych predpisov a iných opatrení orgánov Slovenskej republiky v Zbierke zákonov.
 
@@ -28,6 +26,6 @@
 
 - 9) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 10) Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy v znení zákona SNR č. 295/1992 Zb.
+- 10) Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
 - 11) Zákon SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
