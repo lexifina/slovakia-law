@@ -142,9 +142,9 @@
 
 - 23j) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
-- 23k) § 107 ods. 3 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 359/2000 Z. z.
+- 23k) § 39 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
-- 23l) § 6 ods. 1 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 265/1996 Z. z. o emisných kontrolách cestných motorových vozidiel v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 307/1999 Z. z.
+- 23l) § 57 zákona č. 725/2004 Z. z.
 
 - 23m) § 11 ods. 3 zákona č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z.
 
@@ -153,6 +153,22 @@
 - 23o) Vyhláška Ministerstva poľnohospodárstva a výživy Slovenskej republiky č. 155/1992 Zb., ktorou sa určujú podmienky oprávnenia na projektové práce v odbore pozemkových úprav.
 
 - 23p) § 14 ods. 2 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+
+- 23pa) § 4 zákona č. 725/2004 Z. z.
+
+- 23pb) § 29 zákona č. 725/2004 Z. z.
+
+- 23pc) § 30 zákona č. 725/2004 Z. z.
+
+- 23pd) § 31 zákona č. 725/2004 Z. z.
+
+- 23pe) § 32 zákona č. 725/2004 Z. z.
+
+- 23pf) § 33 zákona č. 725/2004 Z. z.
+
+- 23pg) § 74 zákona č. 725/2004 Z. z.
+
+- 23ph) § 88 zákona č. 725/2004 Z. z.
 
 - 23r) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
