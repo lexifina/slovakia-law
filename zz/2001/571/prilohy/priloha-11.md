@@ -10,7 +10,7 @@ Príloha č. 11 k nariadeniu vlády č. 571/2001 Z. z.
 
   - 3. Výrobca bezpečnostnej časti alebo jeho splnomocnenec uschováva kópiu vyhlásenia o zhode desať rokov odo dňa výroby poslednej bezpečnostnej časti.
 
-    - Ak výrobca bezpečnostnej časti ani jeho splnomocnenec nemá sídlo v Európskom spoločenstve, uschováva dostupnú technickú dokumentáciu osoba zodpovedná za uvedenie bezpečnostnej časti na trh.
+    - Ak výrobca bezpečnostnej časti ani jeho splnomocnenec nemájú sídlo v Slovenskej republike alebo v Európskom spoločenstve, uschováva dostupnú technickú dokumentáciu osoba zodpovedná za uvedenie bezpečnostnej časti na trh.
 
   - 4. Autorizovaná osoba vybraná výrobcom vykonáva alebo nechá vykonávať náhodnú kontrolu bezpečnostnej časti. Preverí vhodnú vzorku zo zhotovených bezpečnostných častí odobratú na mieste autorizovanou osobou a overí zhodu výrobku s príslušnými požiadavkami tohto nariadenia skúškou ustanovenou v príslušných normách podľa § 4 tohto nariadenia alebo rovnocennou skúškou. Ak jedna alebo viac kontrolovaných bezpečnostných častí nie je zhodná s certifikovaným typom, autorizovaná osoba vykoná príslušné opatrenia.
 

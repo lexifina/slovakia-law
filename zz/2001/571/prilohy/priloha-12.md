@@ -2,7 +2,7 @@ Príloha č. 12 k nariadeniu vlády č. 571/2001 Z. z.
 
 - ZABEZPEČOVANIE KVALITY VÝŤAHOV (modul E)
 
-  - 1. Zabezpečovanie kvality výťahov je postup, ktorým sa dodávateľ výťahu spĺňajúci bod 2 zaručuje a vyhlasuje, že namontovaný výťah je v zhode s typom opísaným v certifikáte skúšky typu a že spĺňa požiadavky tohto nariadenia, ktoré sa na výťah vzťahujú.
+  - 1. Zabezpečovanie kvality výrobkov je postup, ktorým sa dodávateľ výťahu spĺňajúci bod 2 zaručuje a vyhlasuje, že namontovaný výťah je v zhode s typom opísaným v certifikáte skúšky typu a že spĺňa požiadavky tohto nariadenia, ktoré sa na výťah vzťahujú.
 
     - Dodávateľ výťahu umiestni na každý výťah označenie CE. Označenie CE je doplnené identifikačným kódom autorizovanej osoby zodpovednej za dohľad podľa bodu 4.
 

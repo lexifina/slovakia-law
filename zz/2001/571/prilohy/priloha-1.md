@@ -10,9 +10,11 @@ Príloha č. 1 k nariadeniu vlády č. 571/2001 Z. z.
 
   - 0.3 Výrobca bezpečnostnej časti a dodávateľ výťahov posúdia riziko, aby určili všetky nebezpečenstvá vzťahujúce sa na ich výrobky; tieto výrobky sú potom konštruované a vyrábané s ohľadom na toto posúdenie rizika.
 
+  - 0.4 Montáž výťahov sa uskutočňuje podľa osobitného zákona.<sup>4</sup>)
+
   - 1. Všeobecne
 
-  - 1.1 Ak existuje príslušné nebezpečenstvo a nie je uvedené v tejto prílohe, platia na výťah a bezpečnostnú časť požiadavky podľa prílohy č. 1 nariadenia vlády č. 391/1999 Z. z. Požiadavky prílohy č. 1 bodu 1.1.2 nariadenia vlády č. 391/1999 Z. z. sa uplatnia vždy.
+  - 1.1 Ak existuje príslušné nebezpečenstvo a nie je uvedené v tejto prílohe, platia na výťah a bezpečnostnú časť požiadavky podľa prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 391/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na strojové zariadenia a zákona č. 90/1998 Z. z. Požiadavky bodu 1.1.2 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 391/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na strojové zariadenia sa musia uplatniť v každom prípade.
 
   - 1.2 Klietka výťahu
 
@@ -68,7 +70,7 @@ Príloha č. 1 k nariadeniu vlády č. 571/2001 Z. z.
 
     - Táto požiadavka je splnená, ak v oblasti koncových polôh je zabezpečený voľný priestor alebo únikový priestor.
 
-    - So zreteľom na osobitné prípady, najmä v existujúcich budovách, ak nie je uvedené riešenie možné, môžu sa použiť iné zodpovedajúce opatrenia na zabránenie takému nebezpečenstvu.
+    - So zreteľom na osobitné prípady, najmä v existujúcich budovách a po predchádzajúcom schválení podľa osobitných predpisov<sup>5</sup>), ak nie je uvedené riešenie možné, môžu sa použiť iné zodpovedajúce opatrenia na zabránenie takému nebezpečenstvu.
 
   - 2.3 Miesta na vstup a výstup z klietky sú vybavené šachtovými dverami, ktoré majú mechanickú odolnosť zodpovedajúcu predpokladaným prevádzkovým podmienkam. Zabezpečovacie zariadenie počas normálnej prevádzky zabraňuje
 
@@ -128,9 +130,9 @@ Príloha č. 1 k nariadeniu vlády č. 571/2001 Z. z.
 
   - 6. Návod na používanie
 
-  - 6.1 Bezpečnostná časť je vybavená návodom vypracovaným v štátnom jazyku alebo v inom jazyku členského štátu, ktorý vyhovuje dodávateľovi výťahu tak, aby montáž, pripojenie, nastavovanie a údržba mohli byť vykonávané správne a bezpečne.
+  - 6.1 Bezpečnostná časť musí byť vybavená návodom vyhotoveným v slovenskom jazyku alebo v jazyku členského štátu Európskeho spoločenstva, ktorý ovláda osoba inštalujúca výťah tak, aby sa montáž, pripojenie, nastavovanie a údržba mohli vykonávať správne a bezpečne.
 
-  - 6.2 Každý výťah je vybavený dokumentáciou vypracovanou v štátnom jazyku, ktorá obsahuje najmä
+  - 6.2 Každý výťah je vybavený dokumentáciou vypracovanou v súlade s bodom 6.1, ktorá obsahuje najmä
 
     - a) návod na používanie spolu s výkresmi a schémami, ktoré sú nevyhnutné na bežnú prevádzku, na údržbu, skúšanie, opravy, pravidelné kontroly a vyslobodzovanie osôb podľa bodu 4.4,
 

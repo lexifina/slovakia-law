@@ -50,7 +50,7 @@ Príloha č. 5 k nariadeniu vlády č. 571/2001 Z. z.
 
     - 8. Výrobca bezpečnostnej časti alebo jeho splnomocnenec uschováva kópiu certifikátu skúšky typu a jeho dodatky spoločne s technickou dokumentáciou desať rokov odo dňa, keď bezpečnostná časť bola vyrobená naposledy.
 
-      - Ak výrobca bezpečnostnej časti ani jeho splnomocnenec nemajú sídlo v Slovenskej republike, zodpovedá za uschovanie potrebnej technickej dokumentácie osoba, ktorá uvedie bezpečnostnú časť na trh.
+      - Ak výrobca bezpečnostnej časti ani jeho splnomocnenec nemajú sídlo v Slovenskej republike alebo v Európskom spoločenstve, zodpovedá za uschovanie potrebnej technickej dokumentácie osoba, ktorá uvedie bezpečnostnú časť na trh.
 
   - B. Skúška typu výťahu
 

@@ -70,7 +70,7 @@ Príloha č. 9 k nariadeniu vlády č. 571/2001 Z. z.
 
     - c) rozhodnutie a správy autorizovanej osoby podľa bodov 3.4, 4.3 a 4.4.
 
-      - Ak výrobca bezpečnostnej časti ani jeho splnomocnenec nemá sídlo v Európskom spoločenstve, uschováva dostupnú technickú dokumentáciu osoba zodpovedná za uvedenie bezpečnostnej časti na trh.
+      - Ak výrobca bezpečnostnej časti ani jeho splnomocnenec nemájú sídlo v Slovenskej republike alebo v Európskom spoločenstve, uschováva dostupnú technickú dokumentáciu osoba zodpovedná za uvedenie bezpečnostnej časti na trh.
 
   - 6. Autorizovaná osoba poskytne iným autorizovaným osobám príslušné informácie o vydaných a odobratých schváleniach systémov zabezpečovania kvality.
 

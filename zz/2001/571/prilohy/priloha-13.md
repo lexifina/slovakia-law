@@ -78,7 +78,7 @@ Príloha č. 13 k nariadeniu vlády č. 571/2001 Z. z.
 
     - c) rozhodnutie a správy autorizovanej osoby podľa bodov 3.5, 4.3 a 4.4.
 
-      - Ak dodávateľ nemá sídlo v Európskom spoločenstve, túto úlohu zabezpečuje autorizovaná osoba.
+      - Ak dodávateľ nemá sídlo v Slovenskej republike alebo v Európskom spoločenstve, túto úlohu zabezpečuje autorizovaná osoba.
 
   - 6. Každá autorizovaná osoba poskytne iným autorizovaným osobám príslušné informácie o vydaných a odobratých schváleniach systémov zabezpečovania kvality.
 
