@@ -47,3 +47,5 @@
 - b) zamestnancov štátnych rozpočtových organizácií a štátnych príspevkových organizácií a
 
 - c) členov posádok námorných lodí.
+
+(12) Pre zamestnávateľa, u ktorého súd rozhodol o vyhlásení konkurzu,<sup>16c</sup>) je lehota ustanovená v odseku 2 jeden mesiac. Ustanovenia odsekov 6 až 9 sa na tohto zamestnávateľa nevzťahujú.

@@ -58,6 +58,8 @@
 
 - 16b) § 20 ods. 2 písm. o) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení zákona č. 292/1999 Z. z.
 
+- 16c) § 13 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona č. 238/2000 Z. z.
+
 - 17) § 2 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
 
 - Zákon č. 172/1990 Zb. o vysokých školách.
