@@ -1,0 +1,1 @@
+- 1) § 1 zákona České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích.
