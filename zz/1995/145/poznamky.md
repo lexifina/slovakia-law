@@ -6,6 +6,8 @@
 
 - Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
+- 2a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+
 - 3) § 79 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - Vyhláška Ministerstva vnútra Slovenskej republiky č. 393/1990 Zb., ktorou sa ustanovuje paušálna suma trov konania o priestupkoch.
