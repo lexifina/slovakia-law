@@ -24,16 +24,12 @@
 
 - 11) Nákupné porady sa uskutočňujú podľa pokynov Ministerstva kultúry ČSR alebo Ministerstva kultúry SSR.
 
-- 12) Výnimky ustanovuje opatrenie Ministerstva kultúry ČSR alebo Ministerstva kultúry SSR.
-
-- 13) Vo výrobnom lístku Český úrad pre tlač a informácie a Slovenský úrad pre tlač a informácie usmerňuje materiálno-technické podmienky vydávania periodickej tlače tak, aby zodpovedali platným podmienkam vydávania periodickej tlače, najmä registrácii, prípadne schváleným zmenám v registrácii, a to najmä podľa § 4 až 9 zákona č. 81/1966 Zb. v znení zákona č. 84/1968 Zb., ktorým sa mení zákon č. 81/1966 Zb. a zákona č. 127/1968 Zb. o niektorých prechodných opatreniach v oblasti tlače a ostatných hromadných informačných prostriedkov a podľa § 1 zákona č. 127/1968 Zb. Výrobný lístok má platnosť až do vydania nového.
+- 13) Vo výrobnom lístku registrujúce orgány a informácie usmerňuje materiálno-technické podmienky vydávania periodickej tlače tak, aby zodpovedali platným podmienkam vydávania periodickej tlače, najmä registrácii, prípadne schváleným zmenám v registrácii, a to najmä podľa § 4 až 9 zákona č. 81/1966 Zb. v znení zákona č. 84/1968 Zb., ktorým sa mení zákon č. 81/1966 Zb. a zákona č. 127/1968 Zb. o niektorých prechodných opatreniach v oblasti tlače a ostatných hromadných informačných prostriedkov a podľa §1 zákona č. 127/1968 Zb. Výrobný lístok má platnosť až do vydania nového.
 
 - 14) § 6 a 7 zákona č. 81/1966 Zb.
 
 - 15) § 5 zákona č. 81/1966 Zb. v znení zákona č. 127/1968 Zb.
 
 - 16) § 7 ods. 3 zákona č. 81/1966 Zb. v znení zákona č. 127/1968 Zb., zákona ČNR č. 2/1969 Zb. o zriadení ministerstiev a iných ústredných orgánov štátnej správy Českej socialistickej republiky a zákona SNR č. 207/1968 Zb. o zriadení ministerstiev a iných ústredných orgánov štátnej správy Slovenskej socialistickej republiky.
-
-- 17) § 119 ods. 3 zákona.
 
 - 18) Napr. Zbierka zákonov, vestníky ústredných orgánov, cestovné poriadky, technické normy a cenníky.
