@@ -1,93 +1,91 @@
 Príloha č. 2 vyhlášky č. 41/1985 Zb.
 
-- Veci, ktorých dovoz je zakázaný (§ 7 ods. 1 vyhlášky):
+- Veci, ktorých vývoz je zakázaný (§ 7 ods. 1 vyhlášky):
 
-  - 1. trvanlivé mäsové výrobky a špeciality
+  - 1. potraviny a potravinárske výrobky každého druhu
 
-  - 2. sladené a nesladené kondenzované mlieka včítane tubových
+  - 2. tovar osobnej hygieny a toalety
 
-  - 3. korenie
+  - 3. posteľná bielizeň každého druhu
 
-  - 4. káva a čaj
+  - 4. kožené rukavice a galantérne výrobky z prírodnej kože
 
-  - 5. suché plody (mandle, kokos, hrozienka)
+  - 5. dojčenské a detské ošatenie každého druhu
 
-  - 6. kakao a kakaové nápoje
+  - 6. pletená bielizeň a bielizeň šitá z tkanín
 
-  - 7. kompóty z južných plodov, citrusové koncentráty a džúsy
+  - 7. odevy z usní a kožušinové výrobky z prírodných materiálov
 
-  - 8. rybie konzervy dovezené z NSK
+  - 8. obuv každého druhu
 
-  - 9. umelé sladidlá
+  - 9. pletacia priadza
 
-  - 10. tovar pre osobnú hygienu a toaletu
+  - 10. pančuchový tovar včítane pančuchových nohavíc
 
-  - 11. dojčenské a detské ošatenie každého druhu
+  - 11. detské plienky
 
-  - 12. pletené prádlo a prádlo šité z tkanín
+  - 12. výrobky zo zlata a striebra
 
-  - 13. odevy z usní a kožušinové výrobky z prírodných materiálov
+  - 13. pneumatiky, veloplášte, galusky a duše
 
-  - 14. obuv každého druhu
+  - 14. automobily, motocykle, mopedy a náhradné dielce k nim
 
-  - 15. pletacia priadza
+  - 15. bicykle a náhradné dielce k nim
 
-  - 16. pančuchový tovar včítane pančuchových nohavíc
+  - 16. šijacie stroje a náhradné dielce k nim
 
-  - 17. detské plienky
+  - 17. vodoinštalačný, elektroinštalačný a plynoinštalačný materiál
 
-  - 18. výrobky zo zlata a striebra
+  - 18. smaltovaný riad
 
-  - 19. pneumatiky, veloplášte, galusky a duše
+  - 19. sanitárna keramika (záchody, umývadlá, bidety a pod.)
 
-  - 20. automobily, motocykle, mopedy, a náhradné dielce k nim
+  - 20. armatúry včítane náhradných dielcov
 
-  - 21. bycikle a náhradné dielce k nim
+  - 21. mrazničky a kombinované ľadničky (dvojdverové)
 
-  - 22. šijacie stroje a náhradné dielce k nim
+  - 22. elektrické sporáky
 
-  - 23. vodoinštalačný, elektroinštalačný a plyno - inštalačný materiál
+  - 23. článkové a doskové radiátory
 
-  - 24. armatúry včítane náhradných dielcov
+  - 24. písacie stroje
 
-  - 25. mrazničky a kombinované chladničky (dvojdverové)
+  - 25. elektrické a benzínové sekačky na trávu
 
-  - 26. elektrické sporáky
+  - 26. úžitkový porcelán a varné sklo
 
-  - 27. článkové a doskové radiátory
+  - 27. osobné počítače včítane príslušenstva
 
-  - 28. písacie stroje
+  - 28. videomagnetofóny
 
-  - 29. elektrické a benzínové sekačky na trávu
+  - 29. negatívne filmy Equicolor a Fomacolor
 
-  - 30. úžitkový porcelán a varné sklo
+  - 30. strešné krytiny
 
-  - 31. osobné počítače včítane príslušenstva
+  - 31. rezivo a stavebné drevo
 
-  - 32. videomagnetofóny
+  - 32. kanalizačné rúry
 
-  - 33. negatívne filmy Equicolor a Fomacolor
+  - 33. keramické obkladové materiály a dlaždice
 
-  - 34. strešné krytiny
+  - 34. okná a dvere
 
-  - 35. rezivo a stavebné drevo
+  - 35. cement a vápno
 
-  - 36. kanalizačné rúry
+  - 36. asfaltové izolačné pásy
 
-  - 37. keramické obkladové materiály a dlaždice
+  - 37. hutnícke materiály
 
-  - 38. okná a dvere
+  - 38. mlynčeky na mäso a lisy na ovocie
 
-  - 39. cement a vápno
+  - 39. saponátové pracie prostriedky
 
-  - 40. asfaltové izolačné pásy
+  - 40. guľové zbrane (včítane športových vzduchových zbraní), poľovné brokové zbrane, špeciálne expanzné prístroje a strelivo<sup>2</sup>)
 
-  - 41. hutnícke materiály
+  - 41. plynové spotrebiče
 
-  - 42. mlynčeky na mäso a lisy na ovocie
+  - 42. remeselnícke a hospodárske náradie a nástroje včítane elektrických
 
-  - 43. saponátové pracie prostriedky
+  - 43. starožitnosti
 
-  - 44. starožitnosti
-
-  - 45. výroky dovezené z nesocialistických štátov a SRFJ
+  - 44. výrobky dovezené z nesocialistických štátov a ZFRJ.

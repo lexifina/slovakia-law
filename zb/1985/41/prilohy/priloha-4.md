@@ -4,4 +4,4 @@ Príloha č. 4 vyhlášky č. 41/1985 Zb.
 
   - 1. čistý lieh (etylalkohol)
 
-  - 2. veci, ktoré propagujú myšlienky, ktoré sú nezlučiteľné so záujmami socialistickej spoločnosti.
+  - 2. veci propagujúce vojnu a násilie, fašizmus a nacizmus, rasovú diskrimináciu a veci, ktoré odporujú ľudskosti.

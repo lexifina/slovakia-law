@@ -1,69 +1,61 @@
 Príloha č. 1 vyhlášky č. 41/1985 Zb.
 
-- Veci, na vývoz ktorých je potrebné povolenie [§ 1 ods. 1 písm. c) a § 1 ods. 2 písm. b) bod 1.cc) vyhlášky]:
+- Veci, na ktorých vývoz je potrebné povolenie [§ 1 ods. 1 písm. c) a § 1 ods. 2 bod 1. bb/ vyhlášky]:
 
-  - 1. potravinárske výrobky, ktoré nie sú uvedené v prílohe č. 2
+  - 1. pohonné látky vyvážané v rezervných nádobách
 
   - 2. pletené vrchné ošatenie pre dospelých
 
   - 3. podšívkoviny z umelého hodvábu
 
-  - 4. posteľná bielizeň
+  - 4. perie a výrobky z peria
 
-  - 5. perie a výrobky z peria
+  - 5. stany
 
-  - 6. kožené rukavice a galantérne výrobky z prírodnej kože
+  - 6. gumotextilné ležadlá a nafukovacie člny
 
-  - 7. stany
+  - 7. športové potreby každého druhu včítane rybárskych
 
-  - 8. gumotextilné ležadlá a nafukovacie člny
+  - 8. farebné televízne prijímače
 
-  - 9. športové potreby každého druhu včítane rybárskych
+  - 9. rozhlasové prijímače a ich kombinácie
 
-  - 10. guľové zbrane (včítane športových vzduchových zbraní), poľovné brokové zbrane, špeciálne expanzné prístroje a strelivo*)
+  - 10. magnetofóny a gramofóny
 
-  - 11. farebné televízne prijímače
+  - 11. jednodverové elektrické ľadničky
 
-  - 12. rozhlasové prijímače a ich kombinácie
+  - 12. elektrické spotrebiče na vykurovanie a ohrev vody
 
-  - 13. magnetofóny, gramofóny
+  - 13. drobné elektrické spotrebiče rotačné a tepelné (napr. kávovary, mixéry, roboty, remosky a pod.)
 
-  - 14. jednodverové elektrické chladničky
+  - 14. svietidlá včítane krištáľových lustrov
 
-  - 15. elektrické spotrebiče na vykurovanie a ohrev vody
+  - 15. kachle a sporáky na pevné palivá
 
-  - 16. drobné elektrické spotrebiče rotačné a tepelné (napr. kávovary, mixéry, roboty, remosky atď.)
+  - 16. smaltované vane, kotly, paráky a vedrá
 
-  - 17. svietidlá včítane krištáľových lustrov
+  - 17. hliníkový riad
 
-  - 18. plynové spotrebiče
+  - 18. automatické práčky
 
-  - 19. kachle a sporáky na pevné palivá
+  - 19. vysávače
 
-  - 20. smaltované vane, kotly, paráky a vedrá
+  - 20. drevené sudy
 
-  - 21. remeselnícke a hospodárske náradie a nástroje včítane elektrických
+  - 21. náterové látky a riedidlá
 
-  - 22. smaltovaný a hliníkový riad
+  - 22. lekárske teplomery
 
-  - 23. sanitárna keramika (záchody, umývadlá, bidety a pod.)
+  - 23. včelárske potreby
 
-  - 24. automatické práčky
+  - 24. muštomery
 
-  - 25. vysavače
+  - 25. vložkové a visiace zámky
 
-  - 26. drevené sudy
+  - 26. sklenené sifónové a šľahačkové flaše
 
-  - 27. náterové látky a riedidlá
+  - 27. pletacie stroje
 
-  - 28. lekárske teplomery
+  - 28. hudobné nástroje
 
-  - 29. včelárske potreby
-
-  - 30. muštomery
-
-  - 31. vložkové a visacie zámky
-
-  - 32. sklenené sifónové a šľahačkové fľaše
-
-  - 33. pletacie stroje
+  - 29. liehoviny
