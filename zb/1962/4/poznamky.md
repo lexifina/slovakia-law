@@ -1,0 +1,1 @@
+- *) Zákon Slovenskej národnej rady č. 1/1962 Zb. o vyhlasovaní zákonov a iných právnych predpisov Slovenskej národnej rady.
