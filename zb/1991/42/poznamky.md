@@ -1,0 +1,1 @@
+- 1) Vyhláška MŠ SSR č. 96/1984 Zb. o prijímaní na štúdium na stredných školách.
