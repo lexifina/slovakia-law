@@ -40,6 +40,8 @@
 
 - 11f) § 38 ods. 3 zákona č. 21/1992 Zb. o bankách.
 
+- 11g) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 12) § 6 a 8 zákona Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
 - 13) § 13 vyhlášky Ministerstva vnútra č. 87/1964 Zb. o vodičských preukazoch v znení neskorších predpisov.
