@@ -1,0 +1,3 @@
+Minister:
+
+Dobrovský v. r.
