@@ -98,21 +98,29 @@
 
 - Pravidlo 10
 
-- Rozdelenie povinností medzi útvarmi druhej inštancie
+- Prezídium sťažnostných senátov
 
-- 1) Pred začiatkom každého pracovného roku sa vykoná rozdelenie právomocí medzi sťažnostné senáty a určia sa stáli a náhradní členovia rôznych sťažnostných senátov a veľkého sťažnostného senátu a ich náhradníci. Každý člen sťažnostného senátu môže byť určený za člena viacerých sťažnostných senátov. V prípade potreby možno toto opatrenie v priebehu pracovného roka meniť.
+- 1) Samosprávny orgán v rámci organizačnej jednotky zahŕňajúci sťažnostné senáty (prezídium sťažnostných senátov) pozostáva z viceprezidenta zodpovedného za sťažnostné senáty, ktorý je zároveň predsedom, a z dvanástich členov sťažnostných senátov, z toho šiestich vo funkcii predsedov a šiestich členov.
 
-- 2) Opatrenia uvedené v odseku 1 prijíma orgán tvorený prezidentom Európskeho patentového úradu, ktorý je súčasne jeho predsedom, ďalej podpredsedom, do právomocí ktorého patria sťažnosti, predsedami sťažnostných senátov a tromi ďalšími členmi sťažnostných senátov, zvolenými zhromaždením členov sťažnostných senátov na príslušný pracovný rok. Tento orgán môže platne uznášať iba vtedy, ak je prítomných aspoň päť jeho členov, medzi ktorými musí byť prezident alebo podpredseda Európskeho patentového úradu a dvaja predsedovia sťažnostných senátov. Rozhodnutia sa prijímajú väčšinou hlasov; v prípade rovnosti hlasov rozhoduje hlas predsedu.
+- 2) Všetci členovia prezídia sú volení predsedami sťažnostných senátov a členmi na jeden pracovný rok. Ak sa nedosiahne úplné obsadenie prezídia, prázdne miesta zaujmú najstarší predsedovia a členovia.
 
-- 3) Orgán uvedený v odseku 2 rozhoduje aj v prípade rozporov týkajúcich sa rozdelenia povinností medzi dva alebo viac sťažnostných senátov.
+- 3) Prezídium prijíma rokovací poriadok sťažnostných senátov a pravidlá na voľbu a vymenovanie jeho členov. Prezídium tiež radí viceprezidentovi zodpovednému za sťažnostné senáty vo veciach týkajúcich sa celkového fungovania sťažnostných senátov.
 
-- 4) Správna rada môže zveriť sťažnostným senátom aj právomoci podľa článku 134 odsek 8 písmeno c).
+- 4) Pred začiatkom každého pracovného roka zadelí prezídium rozšírené o predsedov povinnosti sťažnostným senátom. V rovnakom zložení rozhodne aj o konfliktoch týkajúcich sa zadelenia povinností medzi dvoma alebo viacerými sťažnostnými senátmi. Rozšírené prezídium určuje stálych a náhradných členov jednotlivých sťažnostných senátov. Ktorýkoľvek člen sťažnostného senátu môže byť vymenovaný za člena viacerých sťažnostných senátov. Tieto opatrenia sa môžu v prípade potreby meniť počas príslušného pracovného roka.
+
+- 5) Prezídium môže prijímať rozhodnutia len vtedy, ak je prítomných minimálne päť jeho členov, pričom účasť viceprezidenta zodpovedného za sťažnostné senáty alebo jeho zástupcu a predsedov dvoch sťažnostných senátov je nevyhnutná. Rozhodnutia podľa odseku 4 môžu byť prijaté len za účasti deviatich členov vrátane viceprezidenta zodpovedného za sťažnostné senáty alebo jeho zástupcu a predsedov troch sťažnostných senátov. Rozhodnutia sa prijímajú väčšinovým hlasovaním; v prípade parity hlasov má predseda alebo jeho zástupca rozhodujúci hlas. Zdržanie sa hlasovania sa nepovažuje za odovzdaný hlas.
+
+- 6) Správna rada môže zadeliť povinnosti sťažnostným senátom podľa článku 134a odsek 1 písmeno c).
 
 - Pravidlo 11
 
-- Rokovací poriadok pre útvary druhej inštancie
+- Rozdelenie činností vo veľkom sťažnostnom senáte a prijatie rokovacieho poriadku
 
-- Orgán uvedený v pravidle 10 odsek 2 prijme rokovací poriadok sťažnostných senátov. Veľký sťažnostný senát vydá vlastný rokovací poriadok.
+- 1) Pred začiatkom každého pracovného roka určia členovia veľkého sťažnostného senátu, ktorí neboli vymenovaní podľa článku 160 odsek 2, stálych a náhradných členov veľkého sťažnostného senátu.
+
+- 2) Členovia veľkého sťažnostného senátu, ktorí neboli vymenovaní podľa článku 160 odsek 2, prijímajú rokovací poriadok veľkého sťažnostného senátu.
+
+- 3) Rozhodnutia vo veciach podľa odsekov 1 a 2 sa môžu prijímať len za prítomnosti piatich členov vrátane predsedu veľkého sťažnostného senátu alebo jeho zástupcu; v prípade parity hlasov má predseda alebo jeho zástupca rozhodujúci hlas. Zdržanie sa hlasovania sa nepovažuje za odovzdaný hlas.
 
 - Pravidlo 12
 
@@ -340,7 +348,7 @@
 
 - Ustanovenia pre vylúčenú európsku patentovú prihlášku
 
-- 1) Prihlasovateľ môže na základe skoršej európskej patentovej prihlášky, ktorá je ešte v konaní, podať európsku vylúčenú prihlášku, a to až do okamihu, keď poskytne podľa pravidla 51, odsek 4 súhlas so znením, v ktorom má byť udelený európsky patent.
+- 1) Prihlasovateľ môže na základe pôvodnej európskej patentovej prihlášky, ktorá je ešte v konaní, podať európsku oddelenú prihlášku.
 
 - 2) Prihlasovací poplatok, rešeršný poplatok a udržiavacie poplatky za každú vylúčenú prihlášku musia byť zaplatené do jedného mesiaca od ich podania. Platbu poplatkov za určenie možno vykonať v priebehu šiestich mesiacov od dátumu, keď je v Európskom patentovom vestníku oznámené zverejnenie európskej rešeršnej správy na novú európsku patentovú prihlášku.
 
@@ -1288,15 +1296,15 @@
 
 - Dodatočná lehota na platenie poplatkov
 
-- 1) Ak nebol zaplatený prihlasovací poplatok, poplatok za rešerš, poplatok za určenie alebo základný národný poplatok v lehote stanovenej v článkoch 78 odsek 2, 79 odsek 2, v pravidlách 15 odsek 2, 25 odsek 2 alebo 107 odsek 1 písmeno c), d) a e), možno ho zaplatiť ešte v dodatočnej lehote jeden mesiac od doručenia oznámenia upozorňujúceho na nedodržanie lehoty, pokiaľ je v tej istej lehote zaplatený aj príplatok.
+- 1) Ak nebol zaplatený prihlasovací poplatok, poplatok za rešerš alebo poplatok za určenie v lehote stanovenej v článku 78 odsek 2, článku 79 odsek 2, v pravidle 15 odsek 2 alebo článku 25 odsek 2, možno ho zaplatiť ešte v dodatočnej lehote jedného mesiaca od doručenia oznámenia upozorňujúceho na nedodržanie lehoty, ak je v tej istej lehote zaplatený aj príplatok.
 
-- 2) Poplatky za určenie, vo vzťahu ku ktorým prihlasovateľ nevyžaduje oznámenie podľa odseku 1, je možné zaplatiť ešte v dodatočnej lehote dva mesiace od uplynutia riadnych lehôt podľa odseku 1, ak je v tej istej lehote zaplatený aj príplatok.
+- 2) Poplatky za určenie, vo vzťahu ku ktorým prihlasovateľ nevyžaduje oznámenie podľa odseku 1, možno zaplatiť ešte v dodatočnej lehote dvoch mesiacov od uplynutia riadnych lehôt podľa odseku 1, ak je v tej istej lehote zaplatený aj príplatok.
 
 - Pravidlo 85b
 
 - Dodatočná lehota na podanie žiadosti o prieskum
 
-- Ak nebola žiadosť o prieskum podaná v lehote stanovenej v článku 94 odsek 2 alebo v pravidle 107 odsek 1 písmeno f), možno ju zaplatiť ešte v dodatočnej lehote jeden mesiac od doručenia oznámenia upozorňujúceho na nedodržanie lehoty, pokiaľ je v tej istej lehote zaplatený aj príplatok.
+- Ak nebola žiadosť o prieskum podaná v lehote stanovenej v článku 94 odsek 2, možno ju zaplatiť ešte v dodatočnej lehote jedného mesiaca od doručenia oznámenia upozorňujúceho na nedodržanie lehoty, ak je v tej istej lehote zaplatený aj príplatok.
 
 - HLAVA V
 
@@ -1632,35 +1640,37 @@
 
 - Pravidlo 107
 
-- Európsky patentový úrad ako určený alebo zvolený úrad
+- Európsky patentový úrad ako určený alebo zvolený úrad – požiadavky na vstup do európskej fázy
 
-- 1) V prípade medzinárodnej prihlášky uvedenej v článku 150 odseku 3 Dohovoru vykoná prihlasovateľ nasledujúce úkony, a to buď v lehote dvadsaťjeden mesiacov, ak použije článok 22 odseky 1 a 2 Zmluvy o patentovej spolupráci, alebo v lehote tridsaťjeden mesiacov, ak sa použije článok 39 odsek 1 písmeno a) Zmluvy o patentovej spolupráci, odo dňa podania prihlášky, alebo ak bolo uplatnené právo prednosti odo dňa vzniku prednosti:
+- 1) V prípade medzinárodnej prihlášky podľa článku 150 odsek 3 vykoná prihlasovateľ tieto úkony v lehote 31 mesiacov odo dňa podania prihlášky, alebo, ak bolo uplatnené právo prednosti, odo dňa vzniku prednosti:
 
-- a) predloží preklad medzinárodnej prihlášky vyžadovaný podľa článku 158 odseku 2 Dohovoru;
+- a) predloží preklad medzinárodnej prihlášky, ak to vyžaduje článok 158 odsek 2,
 
-- b) určí časti prihlášky pôvodne podané alebo zmenené, na základe ktorých sa uskutoční konanie o európskom patente;
+- b) označí dokumenty v prihláške, či už pôvodne podané alebo zmenené, na ktorých je založené konanie o udelení európskeho patentu,
 
-- c) zaplatí základný národný poplatok v zmysle pravidla 106 písmeno a);
+- c) zaplatí národný základný poplatok podľa pravidla 106a,
 
-- d) zaplatí poplatky za určenie, ak lehota podľa článku 79 odsek 2 uplynula skôr;
+- d) zaplatí poplatky za určenie, ak lehota podľa článku 79 odsek 2 uplynula skôr,
 
-- e) zaplatí poplatok za rešerš podľa článku 157 odsek 2 písmeno b) Dohovoru, ak má byť vyhotovená dodatočná správa o európskej rešerši;
+- e) zaplatí poplatok za rešerš podľa článku 157 odsek 2 písmeno b), ak má byť vyhotovená dodatočná správa o európskej rešerši,
 
-- f) podá žiadosť o prieskum podľa článku 94 Dohovoru, ak lehota uvedená v článku 94 odsek 2 uplynula skôr;
+- f) podá žiadosť o prieskum podľa článku 94 dohovoru, ak lehota uvedená v článku 94 odsek 2 uplynula skôr,
 
-- g) zaplatí udržiavací poplatok za tretí rok podľa článku 86 odsek 1 Dohovoru, ak sa poplatok podľa pravidla 37 odsek 1 stal splatným už skôr;
+- g) zaplatí udržiavací poplatok za tretí rok podľa článku 86 odsek 1, ak sa poplatok podľa pravidla 37 odsek 1 stal splatným už skôr,
 
-- h) prípadne predloží potvrdenie o vystavení podľa článku 55 odsek 2 a pravidla 23 Dohovoru.
+- h) prípadne predloží potvrdenie o vystavení podľa článku 55 odsek 2 a pravidla 23.
 
-- 2) Keď Európsky patentový úrad vyhotovil správu o medzinárodnom predbežnom prieskume, poplatok za prieskum bude znížený v zmysle poplatkového poriadku. Ak bola predmetom rešerše iba časť medzinárodnej prihlášky v zmysle článku 34 odsek 3 písmeno c) Zmluvy o patentovej spolupráci, zníženie poplatku je prípustné len vtedy, ak sa uskutoční prieskum predmetu správy.
+- 2) Ak Európsky patentový úrad vyhotovil správu o medzinárodnom predbežnom prieskume, poplatok za prieskum bude znížený v zmysle poplatkového poriadku. Ak bola predmetom rešerše iba časť medzinárodnej prihlášky v zmysle článku 34 odsek 3 písmeno c) Zmluvy o patentovej spolupráci, zníženie poplatku je prípustné len vtedy, ak sa uskutoční prieskum predmetu správy.
 
 - Pravidlo 108
 
 - Dôsledky nezaplatenia národných poplatkov
 
-- 1) Ak nie je zaplatený základný národný poplatok, považuje sa európska patentová prihláška za vzatú späť.
+- 1) Ak nie je preklad medzinárodnej prihlášky alebo žiadosť o prieskum podaná včas alebo nie je včas zaplatený poplatok za podanie alebo poplatok za rešerš, alebo nie je včas zaplatený poplatok za určenie, európska patentová prihláška sa bude považovať za vzatú späť.
 
-- 2) Určenie zmluvného štátu, pre ktorý nebol včas zaplatený poplatok za určenie, sa považuje za vzaté späť.
+- 2) Určenie zmluvného štátu, pre ktorý nebol včas zaplatený poplatok za určenie, sa bude považovať za vzaté späť.
+
+- 3) Ak Európsky patentový úrad zistí, že prihláška alebo určenie zmluvného štátu bolo vzaté späť podľa odseku 1 alebo 2, oznámi to prihlasovateľovi. Pravidlo 69 odsek 2 sa uplatní primerane. Ak v lehote dvoch mesiacov od doručenia oznámenia podľa vety 1 prihlasovateľ vykoná opomenutý úkon a zaplatí príplatok, predpokladá sa, že k strate práv nedošlo.
 
 - Pravidlo 109
 
