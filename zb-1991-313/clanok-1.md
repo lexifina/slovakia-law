@@ -1,0 +1,221 @@
+# Čl. I
+
+Zákon České národní rady č. 594/1990 Sb., o státním rozpočtu České republiky na rok 1991, se mění a doplňuje takto:
+
+- 1. V § 1 odst. 1 se částka „182 609 900 000 Kčs“ nahrazuje částkou „227 020 300 000 Kčs“ a částka „181 509 900 000 Kčs“ částkou „225 920 300 000 Kčs“.
+
+- 2. § 1 odst. 2 zní:
+
+- „(2)
+
+- Ve státním rozpočtu republiky jsou obsaženy finanční vztahy k rozpočtům okresních úřadů pro vyrovnání rozpočtů okresních úřadů a rozpočtů obcí dotace celkem ve výši 62 166 100 000 Kčs, z toho účelové dotace ve výši 9 470 200 000 Kčs (příloha č. 2).“.
+
+- 3. § 3 se vypouští.
+
+- 4. Příloha č. 1 zní:
+
+- PŘÍJMY | | v tis. Kčs
+
+- Příjmy z hospodářství České republiky | | 174 560 302
+
+- v tom: | z hospodářství | 100 174 894
+
+- | z vědy a techniky | 337 262
+
+- | z peněžních a technických služeb | 7 146 134
+
+- | ze společenských služeb a činností pro obyvatelstvo | 4 884 012
+
+- | z bezpečnosti a vězeňství | 298 000
+
+- | daň z obratu | 61 720 000
+
+- Daně od obyvatelstva a poplatky | | 52 152 000
+
+- Ostatní příjmy | | 307 998
+
+- ÚHRN | | 227 020 300
+
+- VÝDAJE | | v tis. Kčs
+
+- Výdaje ústředně řízených organizací | | 163 754 200
+
+- v tom: | na hospodářství | 33 942 328
+
+- | na vědu a techniku | 4 644 799
+
+- | na peněžní a technické služby | 5 463 269
+
+- | na společenské služby a činnosti pro obyvatelstvo | 111 561 562
+
+- | na bezpečnost a vězeňství | 5 821 000
+
+- | na správu | 2 321 242
+
+- Dotace do rozpočtů okresních úřadů a obcí | | 62 166 100
+
+- ÚHRN | | 225 920 300
+
+- 5. Příloha č. 2 zní:
+
+- OKRES | Dotace celkem | z toho účelové dotace: |
+
+- | | na jmenovité stavby | na dokončení KBV
+
+- Benešov | 491,3 | | 65,3
+
+- Beroun | 329,4 | | 8,5
+
+- Blansko | 477,5 | | 64,0
+
+- Brno-venkov | 504,0 | | 68,3
+
+- Bruntál | 609,9 | | 80,0
+
+- Břeclav | 523,2 | 65,0 | 34,8
+
+- Česká Lípa | 663,4 | | 131,7
+
+- České Budějovice | 976,3 | | 181,0
+
+- Český Krumlov | 358,8 | 4,0 | 30,9
+
+- Děčín | 968,9 | 44,1 | 138,3
+
+- Domažlice | 281,4 | | 41,7
+
+- Frýdek- Místek | 873,4 | | 106,7
+
+- Havlíčkův Brod | 397,5 | | 40,3
+
+- Hodonín | 630,0 | | 50,9
+
+- Hradec Králové | 817,4 | | 97,3
+
+- Cheb | 648,0 | | 79,5
+
+- Chomutov | 909,2 | 41,6 | 42,1
+
+- Chrudim | 431,8 | | 60,0
+
+- Jablonec nad Nisou | 521,9 | 44,3 | 70,6
+
+- Jičín | 339,9 | | 26,0
+
+- Jihlava | 649,7 | 62,0 | 50,0
+
+- Jindřichův Hradec | 499,8 | | 50,1
+
+- Karlovy Vary | 800,5 | 78,0 | 82,5
+
+- Karviná-Nové Město | 1 314,3 | 36,4 | 163,9
+
+- Kladno | 701,0 | | 92,9
+
+- Klatovy | 458,8 | | 60,0
+
+- Kolín | 486,7 | | 46,8
+
+- Kroměříž | 591,2 | | 70,7
+
+- Kutná Hora | 426,4 | | 25,0
+
+- Liberec | 849,7 | | 99,5
+
+- Litoměřice | 709,2 | 69,3 | 44,9
+
+- Louny | 531,3 | | 61,9
+
+- Mělník | 490,6 | | 49,6
+
+- Mladá Boleslav | 574,6 | | 65,5
+
+- Most | 968,9 | | 97,5
+
+- Náchod | 467,9 | | 41,8
+
+- Nový Jičín | 704,3 | | 84,3
+
+- Nymburk | 416,0 | | 31,2
+
+- Olomouc | 910,4 | | 115,3
+
+- Opava | 721,6 | | 45,9
+
+- Pardubice | 769,8 | | 111,2
+
+- Pelhřimov | 499,1 | | 64,1
+
+- Písek | 423,0 | | 56,2
+
+- Plzeň-jih | 243,0 | | 23,4
+
+- Plzeň-sever | 266,0 | | 43,4
+
+- Prachatice | 354,4 | 25,0 | 40,4
+
+- Praha-východ | 386,0 | | 33,9
+
+- Praha-západ | 337,3 | | 18,0
+
+- Prostějov | 510,6 | 45,0 | 37,1
+
+- Přerov | 634,1 | | 56,4
+
+- Příbram | 602,4 | | 60,6
+
+- Rakovník | 329,0 | | 13,0
+
+- Rokycany | 234,2 | | 43,9
+
+- Rychnov nad Kněžnou | 400,0 | | 54,8
+
+- Semily | 402,0 | 20,0 | 35,3
+
+- Sokolov | 599,9 | 39,0 | 67,0
+
+- Strakonice | 410,2 | | 43,9
+
+- Svitavy | 503,0 | | 47,8
+
+- Šumperk | 769,5 | | 35,4
+
+- Tachov | 319,1 | | 60,6
+
+- Tábor | 510,4 | | 59,7
+
+- Teplice | 1 099,9 | 66,2 | 157,5
+
+- Trutnov | 664,8 | | 90,1
+
+- Třebíč | 539,2 | | 61,4
+
+- Uherské Hradiště | 617,7 | | 77,3
+
+- Ústí nad Orlicí | 540,1 | | 57,0
+
+- Vsetín | 683,1 | | 61,0
+
+- Vyškov | 377,8 | | 46,9
+
+- Zlín | 1 032,6 | 109,2 | 117,8
+
+- Znojmo | 517,7 | | 50,8
+
+- Žďár nad Sázavou | 534,1 | | 48,8
+
+- Ústí nad Labem | 907,8 | | 118,7
+
+- Brno -město | 2 496,6 | | 248,0
+
+- Ostrava-město | 2 162,0 | 91,1 | 280,6
+
+- Plzeň-město | 1 053,3 | | 150,0
+
+- Magistrát hl. m. Prahy | 13 369,2 | 1 388,0 | 1 872,8
+
+- Rezerva | 941,1 | |
+
+- Celkem | 62 166,1 | 2 228,2 | 7 242,0
+
+- 6. Příloha č. 3 se vypouští.
