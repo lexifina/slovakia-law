@@ -1,1 +1,0 @@
-- 1) § 9 ods. 2 vládnych nariadení č. 219/1949 Zb. až č. 223/1949 Zb.
