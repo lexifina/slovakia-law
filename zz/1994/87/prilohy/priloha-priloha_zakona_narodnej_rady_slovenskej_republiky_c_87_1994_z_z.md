@@ -4,17 +4,17 @@ Ročná sadzba dane je
 
 a) pre osobné automobily so zdvihovým objemom motora
 
-do | 900 cm<sup>3</sup> | vrátane | &nbsp | 1 200 Sk
+do | 900 cm<sup>3</sup> | vrátane | | 1 200 Sk
 
 nad | 900 cm<sup>3</sup> | do 1 200 cm<sup>3</sup> | vrátane | 1 600 Sk
 
-nad | 1 200 cm<sup>3</sup> | do 1 500 cm<sup>3</sup> | vrátane | 2 000 Sk
+nad | 1 200 cm<sup>3</sup> | do 1 500 cm<sup>3</sup> | vrátane | 2 200 Sk
 
-nad | 1 500 cm<sup>3</sup> | do 2 000 cm<sup>3</sup> | vrátane | 2 500 Sk
+nad | 1 500 cm<sup>3</sup> | do 2 000 cm<sup>3</sup> | vrátane | 2 800 Sk
 
-nad | 2 000 cm<sup>3</sup> | do 3 000 cm<sup>3</sup> | vrátane | 3 000 Sk
+nad | 2 000 cm<sup>3</sup> | do 3 000 cm<sup>3</sup> | vrátane | 3 500 Sk
 
-nad | 3 000 cm<sup>3</sup> | &nbsp | &nbsp | 3 600 Sk
+nad | 3 000 cm<sup>3</sup> | | | 4 200 Sk
 
 b) pre úžitkové vozidlá a autobusy s celkovou hmotnosťou
 
