@@ -1,3 +1,0 @@
-Minister:
-
-Burian v. r.
