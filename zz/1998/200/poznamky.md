@@ -1,5 +1,7 @@
 - 1) § 15, § 16 ods. 4 s výnimkou písm. l) a § 17 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
 
+- 1a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 2) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 3) Zákon č. 172/1992 Zb. o vysokých školách v znení neskorších predpisov.
