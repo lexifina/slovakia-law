@@ -2,8 +2,6 @@
 
 - 2) Zákon č. 66/1961 Sb., o veterinární péči, a vyhláška č. 154/1961 Sb., kterou se provádějí některá ustanovení zákona o veterinární péči, ve znění vyhlášky č. 69/1974 Sb.
 
-- 3) § 1 uvedené vyhlášky
-
 - 4) § 19 uvedené vyhlášky
 
 - 5) § 1 vládního nařízení č. 56/1967 Sb., o jedech a jiných látkách škodlivých zdraví, a vyhláška č. 57/1967 Sb., kterou se provádí vládní nařízení o jedech a jiných látkách škodlivých zdraví.
