@@ -1,0 +1,1 @@
+Výmenou nót medzi Federálnym ministerstvom zahraničných vecí Československej socialistickej republiky a Veľvyslanectvom Poľskej ľudovej republiky v Prahe bola 2. januára 1975 dojednaná Dohoda o zmene charakteru hraničných priechodov Vyšný Komárnik - Barwinek (cestný) a Plaveč - Muszyna (železničný) na diaľkové hraničné priechody s účinnosťou od 1. marca 1975.
