@@ -1,0 +1,1 @@
+Dr. Štrougal v. r.
