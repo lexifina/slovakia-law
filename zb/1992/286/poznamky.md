@@ -54,6 +54,8 @@
 
 - 4g) § 29 ods. 1 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
+- 4h) § 29 písm. d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
+
 - 5) Napr. zákon č. 119/1992 Zb. o cestovných náhradách.
 
 - 5a) § 158 Obchodného zákonníka.
@@ -213,6 +215,10 @@
 - Zákon č. 389/1990 Zb. o dani z príjmov obyvateľstva.
 
 - 35) Oznámenie k postupu pri oceňovaní, účtovaní a odpisovaní vecí, ktoré získajú právnické alebo fyzické osoby pri ich prevode z vlastníctva štátu, publikované vo Finančnom spravodajcovi č. 9/1991.
+
+- 36) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou.
+
+- 37) § 2 písm. b) vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z.
 
 - 1) Pre zaradenie hmotného majetku do tried, príp. odborov sa postupuje podľa vyhlášky Federálneho štatistického úradu č. 95/1976 Zb. o jednotnom triedení základných prostriedkov v znení neskorších predpisov.
 
