@@ -54,6 +54,14 @@ Zákon č. 17/1947 Sb., o uznaní nárokov získaných u cudzozemských nositeľ
 
 - Ak prevzal poľský nositeľ poistenia výplatu úrazových dôchodkov československým štátnym občanom (§ 1 ods. 1), ktorí majú bydlisko na území Československej republiky a utrpeli úraz na terajšom alebo predošlom území Poľska, a ak nedosahuje tento dôchodok výšku preddavku, aký by im náležal podľa tohto zákona, vypláca im tento rozdiel československý nositeľ poistenia. To platí aj o úrazových dôchodkoch, ktoré zanikly odbavením jednorázovou sumou v poľskom úrazovom poistení.“.
 
+- 7. Ustanovenie § 16 znie:
+
+- „Úhrada nákladov.
+
+- § 16.
+
+- Náklady, ktoré vzniknú vykonávaním tohto zákona Ústrednej národnej poisťovni ako nositeľovi poistenia podľa predpisov o národnom (verejnoprávnom) dôchodkovom poistení, uhradzuje Ústredná národná poisťovňa. Ostatné náklady, pokiaľ nebude dosiahnutá ich úhrada medzinárodnou úpravou, uhradzuje štát. Podrobnosti určí Ministerstvo práce a sociálnej starostlivosti po dohode s Ministerstvom financií.“.
+
 - 8. Nahradzujú sa
 
 - v doterajšom ustanovení § 1 ods. 3 citácia odsekov 1 a 2 citáciou odsekov 1 až 3,
