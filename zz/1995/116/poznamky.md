@@ -1,0 +1,1 @@
+- 1) § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky.
