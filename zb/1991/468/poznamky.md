@@ -18,4 +18,6 @@
 
 - Zákon č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
 
-- 11) Občiansky súdny poriadok.
+- 11) § 246 ods. 2 písmeno c) Občianskeho súdneho poriadku.
+
+- 12) § 55 ods. 2 a 3 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
