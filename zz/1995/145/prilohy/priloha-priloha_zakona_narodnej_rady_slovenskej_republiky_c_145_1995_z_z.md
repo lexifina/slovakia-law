@@ -2292,6 +2292,26 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie 1. Od poplatku podľa tejto položky sú oslobodení žiaci a študenti stredných škôl a vysokých škôl po predložení potvrdenia o návšteve školy, ak vykonávajú vedecko-výskumnú činnosť, a múzeá s prírodovedným zameraním. 2. Od poplatku podľa tejto položky sú oslobodení žiadatelia, ak nimi podaná žiadosť súvisí s odstraňovaním stromov a krov v ochranných pásmach podľa osobitných predpisov.<sup>37</sup>) |
 
+    - Položka 161a
+
+  - Podanie žiadosti o vydanie povolenia na dovoz, vývoz alebo opätovný vývoz exemplárov alebo o vydanie súhlasu na premiestnenie živých exemplárov podľa zákona č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov |
+
+  - 1. fyzická osoba .............................................................................................................................................. | 200 Sk
+
+  - 2. fyzická osoba oprávnená na podnikanie, ktorej predmet činnosti súvisí s podanou žiadosťou, alebo právnická osoba .................................................................................................................................. | 2 000 Sk
+
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním a Zoologická záhrada Bojnice. |
+
+    - Položka 161b
+
+  - Podanie žiadosti o povolenie výnimky zo zákazu komerčných činností podľa zákona č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov |
+
+  - 1. fyzická osoba .............................................................................................................................................. | 200 Sk
+
+  - 2. fyzická osoba oprávnená na podnikanie, ktorej predmet činnosti súvisí s podanou žiadosťou, alebo právnická osoba ................................................................................................................................. | 2 000 Sk
+
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním a Zoologická záhrada Bojnice. |
+
     - Položka 162
 
   - Žiadosť o |
