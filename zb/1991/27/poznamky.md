@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády ČSFR č. 256/1990 Zb., ktorým sa ustanovujú vývozy a dovozy vecí a ďalšie činnosti, na ktorých vykonávanie sa vyžaduje povolenie na zahraničnoobchodnú činnosť.
