@@ -1,8 +1,8 @@
-- DOHODA medzi vládou Československej socialistickej republiky a vládou Federatívnej ľudovej republiky Juhoslávie o medzinárodnej cestnej doprave Vláda Československej socialistickej republiky
+- DOHODA medzi vládou Československej socialistickej republiky a vládou Socialistickej federatívnej republiky Juhoslávie o medzinárodnej cestnej doprave Vláda Československej socialistickej republiky
 
 - a
 
-- vláda Federatívnej ľudovej republiky Juhoslávie
+- vláda Socialistickej federatívnej republiky Juhoslávie
 
 - majúc na zreteli prianie upraviť prepravu osôb a tovaru medzi oboma štátmi obchodnými cestnými vozidlami, ako aj prechod ich územím,
 
@@ -38,11 +38,11 @@
 
       - Pre nepravidelnú autobusovú prepravu, pri ktorej sa na spiatočnej ceste rovnakým vozidlom neprevážajú tie isté osoby, ako aj pre prerušené okružné cesty je potrebné povolenie, ktoré sa vydáva na základe žiadosti podanej príslušnému orgánu štátu, kde je vozidlo evidované, a odovzdá sa potom príslušnému orgánu druhej zmluvnej strany na schválenie.
 
-    - Článok 6 Príležitostná turistická preprava nepodlieha povoleniu. Toto ustanovenie sa použije vždy, ak sa tie isté osoby dopravujú tým istým vozidlom:
+    - Článok 6 Príležitostné turistické prepravy medzi oboma štátmi a v tranzite ich územím nepodliehajú povoleniu. Toto ustanovenie sa použije vždy, ak sa tie isté osoby dopravujú tým istým vozidlom:
 
-      - a) buď pri okružnej ceste, ktorá sa začína a končí v štáte, kde je vozidlo evidované,
+      - a) pri okružnej ceste, ktorá sa začína a končí v štáte, kde je vozidlo evidované;
 
-      - b) alebo počas cesty, ktorej východiskový bod je v niektorom mieste štátu, kde je vozidlo evidované, a miesto určenia na území druhej zmluvnej strany, s podmienkou, že sa vozidlo - s výnimkou iného povolenia - vráti prázdne do štátu, kde je evidované.
+      - b) počas cesty, ktorej východiskový bod je v niektorom mieste štátu, kde je vozidlo evidované, a miesto určenia na území druhého štátu alebo v niektorom treťom štáte s podmienkou, že sa vozidlo vráti prázdne do štátu, kde je evidované, pokiaľ nebolo vydané iné povolenie.
 
 - II. Preprava tovaru
 
@@ -52,65 +52,41 @@
 
   - Článok 8
 
-    - Pre každú cestu a pre každé vozidlo, ktoré prepravuje náklad, sa vydáva osobitné povolenie. To isté povolenie prepravcovi umožňuje prevziať pri odchode z územia druhej zmluvnej strany spiatočný náklad po skončení jednej z prepráv podľa článku 7.
+    - Pre každú jednotlivú cestu vozidla alebo súpravy vozidiel sa vydáva samostatné povolenie. Uvedené povolenie oprávňuje dopravcu vykonať cestu tam a späť. Prevzatie spätného nákladu na území druhého štátu mimo námorných prístavov je možné iba na základe povolenia na bilaterálne prepravy, t. j. prepravy medzi oboma štátmi.
 
   - Článok 9
 
-    - Povolenia vydávajú príslušné orgány štátu, kde je vozidlo evidované, a to v medziach kontingentu, na ktorom sa ročne príslušné orgány obidvoch zmluvných strán dohodnú na základe vzájomnosti.
+    - Povolenia rozdeľujú príslušné orgány zmluvnej strany štátu, v ktorom je vozidlo evidované, v rámci kontingentov, na ktorých sa príslušné orgány každoročne navzájom dohodnú na základe reciprocity. Tieto kontingenty sa oddelene schvaľujú pre bilaterálne prepravy, pre tranzitné prepravy ich územím a pre prepravy do juhoslovanských námorných prístavov a z nich.
 
   - Článok 10
 
-    - Príslušný orgán jednej zmluvnej strany odovzdá príslušnému orgánu druhej zmluvnej strany dohodnutý počet nevyplnených povolení riadne overených a vyhotovených podľa vzoru pripojeného k tejto Dohode.
+    - Príslušný orgán jednej zmluvnej strany doručí príslušnému orgánu druhej zmluvnej strany dohodnutý počet nevyplnených overených povolení pre jednotlivé kategórie prepráv podľa článku 9 Dohody.
 
-    - Koncom každého štvrťroka si navzájom vymenia kópie vydaných povolení a po uplynutí kalendárneho roka si vzájomne vrátia všetky nepoužité povolenia.
+  - Článok 12 Povoleniu nepodlieha
 
-  - Článok 11
+    - a) preprava sťahovaných zvrškov uskutočňovaná dopravnými prostriedkami na to osobitne vybavenými;
 
-    - Prepravcovia, ktorí sídlia na území jednej zo zmluvných strán, nie sú oprávnení prevziať tovar na území druhej zmluvnej strany na prepravu do tretieho štátu bez súhlasu príslušného orgánu tejto druhej zmluvnej strany.
+    - b) preprava predmetov určených pre veľtrhy, výstavy a predvádzanie;
 
-  - Článok 12 Povoleniu nepodlieha:
+    - c) preprava pretekárskych koní, pretekárskych automobilov a športových potrieb určených pre športové podniky;
 
-    - a) preprava sťahovaných zvrškov uskutočňovaná na to zvlášť vybavenými dopravnými prostriedkami;
+    - d) preprava divadelných dekorácií a rekvizít;
 
-    - b) preprava mŕtvol uskutočňovaná na to zvlášť vybavenými dopravnými prostriedkami;
+    - e) preprava hudobných nástrojov a zariadení určených pre rozhlasové, filmové alebo televízne nakrúcania;
 
-    - c) preprava predmetov určených pre veľtrhy, výstavy a predvádzanie;
+    - f) príležitostná preprava tovaru na letisko a z letiska v prípade odklonenia leteckých služieb;
 
-    - d) preprava závodných koní, závodných áut a iných športových potrieb určených pre športové podniky;
+    - g) preprava včiel a rybacieho plôdika;
 
-    - e) preprava divadelných dekorácií a rekvizít;
+    - h) preprava zosnulých uskutočňovaná dopravnými prostriedkami na to osobitne vybavenými;
 
-    - f) preprava hudobných nástrojov a materiálu určeného pre rádiofonické záznamy a vyhotovovanie kinematografických alebo televíznych snímok.
+    - i) vstup a jazda vozidiel určených na poskytovanie technickej pomoci, ako aj preprava vozidiel nespôsobilých na jazdu;
 
-  - Preprava tovaru uvedená pod písmenami c) až f) nepodlieha povoleniu len vtedy, ak zvieratá alebo predmety sa potom dopravia späť do štátu, kde je vozidlo evidované.
+    - j) preprava liekov a lekárskych potrieb na poskytnutie pomoci v prípade prírodných katastrof.
 
-  - Článok 13 Medzinárodná preprava motorovými nákladnými vozidlami sa vykonáva nákladným listom, ktorý obsahuje tieto rubriky:
+  - Prepravy uvedené pod písmenami a) až e) nepodliehajú však povoleniu len vtedy, ak sa zvieratá alebo predmety znova vyvezú.
 
-    - a) dátum a miesto vyhotovenia nákladného listu;
-
-    - b) meno a adresa odosielateľa;
-
-    - c) meno a adresa dopravcu;
-
-    - d) miesto a dátum podania tovaru, miesto určenia;
-
-    - e) meno a adresa príjemcu;
-
-    - f) bežné pomenovanie tovaru a spôsob balenia;
-
-    - g) počet kusov a ich zvláštne značky;
-
-    - h) hrubá (brutto) váha tovaru;
-
-    - i) prepravné a iné výdavky;
-
-    - j) údaje potrebné pre colné konanie a iné;
-
-    - k) podpis odosielateľa;
-
-    - l) podpis príjemcu.
-
-  - Tlačivo nákladného listu bude vytlačené v jazykoch obidvoch zmluvných strán. Jeho rubriky sa budú vyplňovať v jazyku štátu odosielateľa alebo dopravcu.
+  - Článok 13 Preprava nákladov po území druhého štátu, pri ktorej celková hmotnosť alebo rozmery prepravovaných nákladov a použitých vozidiel presahujú hmotnosť alebo rozmery prípustné na území tohto štátu, vyžaduje osobitné povolenie v súlade s vnútroštátnymi predpismi.
 
   - III. Všeobecné ustanovenia
 
@@ -138,17 +114,13 @@
 
       - Prepravcovia, ktorí sídlia na území jednej zmluvnej strany, nemôžu vykonávať prepravu cestujúcich alebo tovaru medzi dvoma miestami na území druhej zmluvnej strany.
 
-    - Článok 19
+      - Dopravcovia sídliaci na území jedného štátu nemôžu vykonávať prepravu cestujúcich alebo tovaru medzi dvoma miestami na území druhého štátu, ako ani medzi územím druhého štátu a treťou krajinou.
 
-      - Posádky vozidiel, ktoré na základe tejto Dohody prechádzajú na územie druhej zmluvnej strany, budú vybavené riadnym cestovným dokladom. Víza sa vydávajú na niekoľko ciest s platnosťou najmenej troch mesiacov.
+      - Preprava cestujúcich a tovaru medzi územím druhého štátu a treťou krajinou sa môže ako výnimka z ustanovenia prvého odseku tohto článku vykonať len na osobitné povolenie príslušného orgánu druhej zmluvnej strany.
 
     - Článok 20
 
       - Príslušné orgány zmluvných strán spoločne určia spôsob výmeny potrebných dokladov a štatistických údajov.
-
-    - Článok 21
-
-      - Príslušné orgány zmluvných strán budú nápomocné pri uzavieraní dohôd medzi dopravcami alebo špeditérmi o poskytovaní technickej pomoci cestným vozidlám, ktoré sa poškodia pri doprave podľa tejto Dohody, ako aj o vybavovaní vozidiel pohonnými hmotami a mazadlami.
 
     - Článok 22
 
@@ -160,9 +132,15 @@
 
     - Článok 24
 
-      - Povolenia na prepravu vydané podľa tejto Dohody, ako aj prepravy uskutočnené na ich podklade na území druhej zmluvnej strany sa oslobodzujú na základe vzájomnosti od poplatkov a prepravných daní.
+      - Dopravcovia sídliaci na území jedného štátu, ktorí uskutočňujú prepravu cestujúcich a tovaru podľa tejto Dohody, podliehajú pri takej preprave na území druhého štátu povinnosti platiť správne poplatky za vydanie povolenia, náhrady za užívanie ciest a prepravné dane podľa platných predpisov druhej zmluvnej strany.
 
-    - Za povolenie vydané nad kontingent ustanovený podľa článku 9 Dohody, ako aj za prepravy vykonané na ich podklade, budú sa vyberať poplatky a prepravné dane podľa národných predpisov každej zmluvnej strany.
+    - Príslušné orgány zmluvných strán sa môžu dohodnúť na vzájomnom oslobodení dopravcov od povinnosti platenia správnych poplatkov, náhrad a daní uvedených v prvom odseku tohto článku, a to:
+
+      - a) pri preprave cestujúcich;
+
+      - b) pri bilaterálnej preprave tovaru a pri preprave tovaru do juhoslovanských námorných prístavov a z nich.
+
+    - Ustanovenia tohto článku sa netýkajú povinnosti platenia cestných poplatkov a mostného na tých cestách a mostoch, kde sa platia osobitne.
 
     - Článok 25
 
@@ -170,13 +148,13 @@
 
     - Článok 26
 
-      - Na žiadosť jednej zo zmluvných strán vytvorí sa zmiešaná komisia, zložená zo zástupcov obidvoch vlád, aby vyriešila otázky určené príslušnými orgánmi obidvoch štátov a otázky, ktoré by sa nevyriešili priamou dohodou spomínaných orgánov.
+      - Zmluvné strany zriaďujú Zmiešanú komisiu, ktorá sa v prípade potreby zíde na žiadosť jednej alebo druhej strany za účelom riešenia vopred dohodnutých otázok.
 
-      - Rozhodnutia zmiešanej komisie podliehajú schváleniu obidvoch vlád.
+      - Závery Zmiešanej komisie podliehajú schváleniu v súlade s vnútroštátnymi predpismi zmluvných strán.
 
     - Článok 27
 
-      - Vnútroštátne predpisy v odbore cla, cestnej dopravy a verejnej správy zostávajú nedotknuté.
+      - Vo všetkých otázkach, ktoré nie sú upravené ustanoveniami tejto Dohody alebo ustanoveniami medzinárodných zmlúv, ktorými sú obe strany viazané, sa budú používať vnútroštátne predpisy.
 
     - Článok 28
 
@@ -192,6 +170,6 @@
 
 - Maňák v. r.
 
-- Za vládu Federatívnej ľudovej republiky Juhoslávie:
+- Za vládu Socialistickej federatívnej republiky Juhoslávie:
 
 - inž. Dragovič v. r.
