@@ -1,6 +1,6 @@
 - 1) Výrobky podliehajúce povinnému hodnoteniu alebo schvaľovaniu určí Úrad úpravou uverejnenou vo Vestníku Úradu pre normalizáciu a meranie.
 
-- 2) § 8 vyhlášky Federálneho cenového úradu, Českého cenového úradu a Slovenského cenového úradu č. 137/1973 Zb. o cenách v znení vyhlášky č. 73/1978 Zb.
+- 2) Podrobnosti vyhotovenia značiek ustanovuje ČSN 01 0810.
 
 - 3) Vyhláška Federálneho ministerstva financií č. 154/1975 Zb., o fakturovaní a platení dodávok neinvestičnej povahy.
 
