@@ -1,0 +1,1 @@
+- *) Poznámka: Zákon č. 28/1946 Sb., v znení zákona č. 266/1948 Sb., platí odo dňa 17. decembra 1948.
