@@ -1,5 +1,0 @@
-# Čl. II
-
-- 1. Zrušuje sa ustanovenie čl. II vyhlášky Federálneho ministerstva financií, Ministerstva financií, cien a miezd Českej socialistickej republiky, Ministerstva financií, cien a miezd Slovenskej socialistickej republiky a predsedu Štátnej banky česko-slovenskej č. 74/1989 Zb., ktorou sa mení a dopĺňa vyhláška Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 136/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve.
-
-- 2. Opatrenie ministra financií Českej a Slovenskej Federatívnej Republiky, ministra financií Českej republiky a ministra financií Slovenskej republiky, ktorým sa 19. októbra 1990 pozastavilo uzavieranie zmlúv o poskytovaní štátnych príspevkov a stabilizačných príspevkov na individuálnu bytovú výstavbu a príspevkov na modernizáciu rodinných domčekov,<sup>40</sup>) stráca platnosť dňom 14. marca 1991.
