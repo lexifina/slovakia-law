@@ -136,6 +136,10 @@ Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 
 
 - Odkaz 3 a poznámka pod čiarou k nemu sa vypúšťa.
 
+- 9. § 4 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6) Osvedčovacím miestom oprávneným vydávať európske technické osvedčenia v Slovenskej republike je osvedčovacie miesto podľa odseku 4, ktoré je členom Európskej organizácie pre technické osvedčovanie.“.
+
 - 10. V § 5 odseky 1 a 2 znejú:
 
 - „(1)
@@ -764,6 +768,10 @@ Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 
 
 - podľa § 3 ods. 1 písm. b) alebo d), autorizovaná osoba vydá výrobcovi certifikát,
 
+- b)
+
+- podľa § 3 ods. 1 písm. a) alebo c), autorizovaná osoba, ktorá je notifikovaná, vydá výrobcovi európsky certifikát.
+
 - (9)
 
 - Ak sa v konaní postupmi podľa § 7 ods. 2 alebo 3 nepreukáže zhoda stavebného výrobku s technickou špecifikáciou, autorizovaná osoba certifikát nevydá. Nevydanie certifikátu sa výrobcovi oznamuje písomne s uvedením dôvodu nevydania certifikátu.
@@ -942,6 +950,16 @@ Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 
 
 - Ak osvedčovacie miesto vydáva technické osvedčenie platné len na území Slovenskej republiky, overí alebo obstará overenie vlastností stavebného výrobku a posúdenie účinnosti systému vnútropodnikovej kontroly a zistené výsledky porovná s technickou normou uvedenou výrobcom [ods. 2 písm. g) druhý bod] a so všeobecne záväznými právnymi predpismi, ktoré sa vzťahujú na stavebný výrobok. Ak ide o stavebný výrobok, na ktorý výrobca neuviedol technickú normu, osvedčovacie miesto overí vhodnosť stavebného výrobku z hľadiska základných požiadaviek na stavby a požiadaviek na bezpečnosť osôb pri stavebných prácach a pri bežnej údržbe stavby a overí alebo obstará overenie vlastností stavebného výrobku a posúdenie účinnosti systému vnútropodnikovej kontroly. Ak existuje predpis podľa odseku 2 písm. g) prvého bodu, osvedčovacie miesto postupuje podľa odseku 7.“.
 
+- 51. V § 26 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+- „(7)
+
+- Ak osvedčovacie miesto vydáva európske technické osvedčenie, postupuje podľa predpisu Európskej organizácie pre technické osvedčovanie vydaného na stavebný výrobok; ak taký predpis nebol vydaný, postupuje podľa ním vypracovaného postupu technického osvedčovania prerokovaného s ostatnými osvedčovacími miestami, ktoré sú členmi Európskej organizácie pre technické osvedčovanie.“.
+
+- Doterajšie odseky 7 až 12 sa označujú ako odseky 8 až 13 a doterajšie odseky 13 až 15 sa vypúšťajú.
+
+- 52. V § 26 ods. 8 sa za prvú vetu vkladá táto veta: „Ak osvedčovacie miesto vydáva európske technické osvedčenie, pred jeho vydaním ho doručí na zaujatie stanoviska osvedčovacím miestam, ktoré sú členmi Európskej organizácie pre technické osvedčovanie, a vydá ho po zohľadnení ich pripomienok.“.
+
 - 53. V § 26 ods. 10 písmená c) až i) znejú:
 
 - „c)
@@ -1035,6 +1053,16 @@ Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 
 - Dňom doručenia rozhodnutia osvedčovacieho miesta o zrušení technického osvedčenia výrobcovi strácajú platnosť certifikáty a vyhlásenia zhody, ktoré boli na jeho základe vydané.“.
 
 - 58. § 27 a 28 sa vrátane nadpisov vypúšťajú.
+
+- 59. V § 29 odseky 1 a 2 znejú:
+
+- „(1)
+
+- Podmienky uvádzania stavebných výrobkov na trh a ich vhodnosti na použitie podľa tohto zákona sa vzťahujú aj na zahraničné stavebné výrobky. Zahraničným stavebným výrobkom je výrobok zo štátu, ktorý nie je členským štátom.
+
+- (2)
+
+- Pri uvádzaní zahraničného stavebného výrobku na trh má oprávnenia a povinnosti výrobcu podľa tohto zákona zástupca zahraničného výrobcu so sídlom v členskom štáte.“.
 
 - 60. § 30 a 31 sa vrátane nadpisov vypúšťajú.
 
