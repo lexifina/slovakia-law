@@ -1,0 +1,3 @@
+- DODATOK
+
+  - Vychádzajúc z toho, že v súčasnosti možno očakávať činnosť splnomocnenca pre spoluprácu vo vzdelávaní [článok 3 ods. 1 písm. b)] a učiteľov [článok 3 ods. 1 písm. c)] vyslaných na základe tejto dohody iba na území Slovenskej republiky, uzatvára sa dohoda, že úprava platná pre lektorov podľa článku 11 ods. 2 platí do odvolania aj pre splnomocnenca pre spoluprácu vo vzdelávaní a vyslaných učiteľov pracujúcich na území Slovenskej republiky. Zdanenie príjmov získaných za činnosť splnomocnenca pre spoluprácu vo vzdelávaní, ako aj učiteľov sa u týchto osôb vykonáva iba v štáte, z ktorého príjmy plynú. Počas trvania ich činnosti zabezpečia príslušné úrady v Slovenskej republike menovaným učiteľom primerané ubytovanie.
