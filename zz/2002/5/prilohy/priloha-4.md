@@ -1,0 +1,31 @@
+PRÍLOHA III
+
+- Zásady nediskriminácie v rámci počítačových rezervačných systémov a súťaže medzi nimi
+
+  - Uznávajúc, že článok 11 (Spravodlivá súťaž) tejto dohody garantuje leteckým spoločnostiam štátov zmluvných strán „spravodlivú a rovnakú príležitosť na súťaž“,
+
+  - berúc do úvahy, že jeden z najdôležitejších aspektov schopnosti leteckej spoločnosti súťažiť je jej schopnosť informovať verejnosť o svojich službách korektným a nestranným spôsobom a že preto kvalita informácií o službách leteckej dopravnej spoločnosti dostupných pre zástupcov cestovných kancelárií, ktorí takéto informácie priamo distribuujú cestujúcej verejnosti, a schopnosť leteckej spoločnosti poskytnúť takýmto zástupcom konkurencieschopné počítačové rezervačné systémy predstavujú základ príležitostí leteckej spoločnosti pre súťaženie, a
+
+  - berúc do úvahy, že je rovnako potrebné zabezpečiť, aby záujmy spotrebiteľov produktov leteckej dopravy boli chránené pred akýmkoľvek zneužitím takýchto informácií a ich zavádzajúcou prezentáciou a aby letecké spoločnosti a zástupcovia cestovných kancelárií mali prístup k efektívne súťažiacim počítačovým rezervačným systémom:
+
+  - 1. Zmluvné strany sa dohodli, že počítačové rezervačné systémy budú mať integrované primárne zobrazovacie jednotky, v prípade ktorých
+
+    - a) budú informácie týkajúce sa medzinárodných leteckých dopravných služieb vrátane vytvárania prípojov k takýmto službám vkladané a zobrazované na základe nediskriminačných a objektívnych kritérií, ktoré nebudú priamo alebo nepriamo ovplyvňované totožnosťou leteckej spoločnosti alebo trhu. Takéto kritériá budú platiť jednotne pre všetky zúčastnené letecké spoločnosti,
+
+    - b) budú databázy počítačových rezervačných systémov podľa možnosti čo najvyčerpávajúcejšie,
+
+    - c) predajcovia počítačových rezervačných systémov nebudú vymazávať informácie odovzdané zúčastnenými leteckými spoločnosťami; takéto informácie budú presné a transparentné; napríklad pri letoch so spoločne využívaným kódom a zmenou lietadla a letoch so zastávkami by malo byť jasne špecifikované, že majú tieto charakteristiky,
+
+    - d) všetky počítačové rezervačné systémy dostupné zástupcom cestovných kancelárií, ktorí priamo distribuujú informácie o službách leteckých spoločností cestujúcej verejnosti na území štátu ktorejkoľvek zo zmluvných strán, budú nielen musieť, ale tiež budú mať nárok pracovať v súlade pravidlami pre počítačové rezervačné systémy platnými na území štátu, kde je príslušný počítačový rezervačný systém prevádzkovaný,
+
+    - e) zástupcovia cestovných kancelárií budú môcť využívať ľubovoľné zo sekundárnych zobrazovacích jednotiek dostupných prostredníctvom počítačových rezervačných systémov, ak zástupca cestovnej kancelárie o takúto zobrazovaciu jednotku špecificky požiada.
+
+  - 2. Zmluvná strana bude vyžadovať, aby každý predajca počítačového rezervačného systému pôsobiaci na území jej štátu umožnil všetkým leteckým spoločnostiam ochotným zaplatiť za príslušný nediskriminačný poplatok účasť na jeho počítačovom rezervačnom systéme. Zmluvná strana bude vyžadovať, aby všetky distribučné zariadenia, ktoré predajca systému prevádzkuje, boli zúčastneným leteckým spoločnostiam poskytované na nediskriminačnom základe. Zmluvná strana bude vyžadovať, aby predajcovia počítačových rezervačných systémov na nediskriminačnom, objektívnom základe, neutrálnom z hľadiska dopravcu a trhu zobrazili medzinárodné letecké dopravné služby zúčastnených leteckých spoločností na všetkých trhoch, kde si želajú príslušné služby predávať. Predajca počítačového rezervačného systému na požiadanie zverejní podrobnosti o spôsobe aktualizovania a ukladania svojej databázy, svoje kritériá na editovanie a zoraďovanie informácií, váhu pre takéto kritériá a kritériá použité na výber prípojných miest a zahrnutie prípojných letov.
+
+  - 3. Predajcovia počítačových rezervačných systémov pôsobiaci na území štátu jednej zmluvnej strany budú oprávnení zaviesť, udržiavať a voľne sprístupniť svoje počítačové rezervačné systémy cestovným kanceláriám alebo spoločnostiam, ktorých hlavnou obchodnou činnosťou je distribúcia produktov súvisiacich s cestovaním na území štátu druhej zmluvnej strany, ak počítačové rezervačné systémy vyhovujú týmto zásadám.
+
+  - 4. Žiadna zo zmluvných strán na území svojho štátu predajcom počítačových rezervačných systémov štátu druhej zmluvnej strany neuloží ani nepovolí uloženie prísnejších podmienok vo vzťahu k prístupu ku komunikačným zariadeniam a ich používaniu, výberu a používaniu technického a programového vybavenia počítačového rezervačného systému a jeho technickej inštalácii, než sú podmienky uložené predajcom počítačových rezervačných systémov jej štátu.
+
+  - 5. Žiadna zo zmluvných strán na území svojho štátu predajcom počítačových rezervačných systémov štátu druhej zmluvnej strany neuloží ani nepovolí uloženie reštriktívnejších podmienok vo vzťahu k zobrazovacím jednotkám (vrátane editovacích a vkladacích parametrov), prevádzke alebo predaju, než sú podmienky uložené predajcom počítačových rezervačných systémov jej štátu.
+
+  - 6. Počítačové rezervačné systémy používané na území štátu jednej zmluvnej strany, ktoré vyhovujú týmto zásadám a ďalším relevantným nediskriminačným regulačným, technickým a bezpečnostným normám, budú mať nárok na efektívny a ničím nerušený prístup na území štátu druhej zmluvnej strany. Jedným z aspektov toho bude, že určená letecká spoločnosť bude mať na území štátu, ktorý ju určil, rovnako vyčerpávajúcu účasť na takomto systéme, akú má na ľubovoľnom systéme poskytovanom zástupcom cestovných kancelárií na území štátu druhej zmluvnej strany. Majitelia/prevádzkovatelia počítačových rezervačných systémov štátu jednej zmluvnej strany budú mať rovnakú príležitosť vlastniť/prevádzkovať počítačové rezervačné systémy, ktoré zodpovedajú týmto zásadám v rámci územia štátu druhej zmluvnej strany, akú majú majitelia/prevádzkovatelia štátu tejto zmluvnej strany. Každá zmluvná strana zabezpečí, aby letecké spoločnosti a dodávatelia počítačových rezervačných systémov jej štátu nediskriminovali cestovné kancelárie na území štátu, ktorý určil leteckú spoločnosť, z dôvodu ich používania alebo vlastníctva počítačového rezervačného systému, ktorý je tiež prevádzkovaný na území štátu druhej zmluvnej strany.
