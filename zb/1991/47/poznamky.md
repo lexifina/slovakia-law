@@ -1,0 +1,1 @@
+- 2) § 24 ods. 4 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
