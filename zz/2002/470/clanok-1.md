@@ -1290,6 +1290,10 @@ Zákon Národnej rady Slovenskej republiky č. 291/1996 Z. z. o odrodách a osiv
 
 - odrôd alebo druhov ostatných poľnohospodárskych plodín, okrasných, aromatických a liečivých rastlín neuvedených v zozname druhov,
 
+- c)
+
+- odrôd zapísaných v Spoločnom katalógu odrôd alebo v zozname odrôd zmluvného štátu,
+
 - d)
 
 - neregistrovaných odrôd druhov uvedených v zozname druhov, ktoré sú na základe zmluvy určené výhradne na vývoz
