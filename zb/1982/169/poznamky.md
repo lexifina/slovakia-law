@@ -1,1 +1,0 @@
-- 1) § 13 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov.
