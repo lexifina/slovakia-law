@@ -36,6 +36,10 @@
 
 - 15a) § 517 ods. 2 Občianskeho zákonníka.
 
+- 15b) Trestný poriadok.
+
+- 15c) § 86 ods. 11 a 12 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
+
 - 16) § 14 a 52 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
 
 - 17) § 101 až 108 a § 126 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
