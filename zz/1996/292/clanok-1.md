@@ -8,8 +8,6 @@ Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady 
 
 - Ustanovenia tohto zákona sa nevzťahujú na dlžníka, ktorým je štátna rozpočtová organizácia, štátna príspevková organizácia,<sup>6a</sup>) obec,<sup>6b</sup>)
 
-- právnická osoba zriadená zákonom,
-
 - 6c)
 
 - štátny podnik alebo akciová spoločnosť uvedené v osobitnom zákone<sup>6d</sup>) a právny nástupca štátneho podniku podľa osobitného zákona.<sup>6e</sup>)“.
