@@ -128,6 +128,8 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - 363 | Priemyslové elektrické pece | 14 | 7,0
 
+- 414 | Ručné mechanizované náradie | 4 | 25
+
 - 431 | Sušiarne | 14 | 7,0
 
 - 433 | Plniace a baliace stroje a stroje na úpravu obalov | 12 | 8,0
@@ -135,6 +137,8 @@ Príloha vyhlášky č. 76/1966 Zb.
 - 434 | Priemyslové a palivové pece | 20 | 5,0
 
 - 435 | Zariadenia na čerpanie a meranie tekutých palív | 14 | 7,0
+
+- 463 | Riečne a jazerné lode a plávajúce zariadenia - bez športových lodí (len podskupiny 463 31 nasávacie bagre a 463 22 korčekové a iné bagre, ostatná náplň tohto odboru patrí do triedy 6 Dopravné prostriedky) | 12 | 8
 
 - 492 | Stroje a zariadenia pre hlbinné dobývanie | 6 | 17,0
 
@@ -202,7 +206,7 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - 533 | Stroje pre zemné, stavebné a cestné práce | 7 | 14,0
 
-- 534 | Lopatové a korčekové rýpadlá (vč. plávajúcich korčekových a iných bagrov - drapákových) | 12 | 8,0
+- 534 | Lopatové a korčekové rýpadlá | 12 | 8,0
 
 - 535 | Stroje a zariadenia pre spracovanie nerastných hmôt | 14 | 7,0
 
@@ -215,6 +219,8 @@ Príloha vyhlášky č. 76/1966 Zb.
 - 544 | Šijacie a pletacie stroje pre domácnosť | 7 | 14,0
 
 - | Trieda 5. Prístroje a zvláštne technické zariadenia | |
+
+- 348 | Svietidlá (len mobilné osvetľovacie zariadenia napr. pre filmovanie v exteriéroch a záchranné práce) | 5 | 20
 
 - 382 | Zariadenia pre drôtovú telekomunikáciu | 20 | 5,0
 
@@ -238,6 +244,8 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - 397 | Výrobky zdravotníckej techniky (vrátane prístrojov) | 12 | 8,0
 
+- 401 | Reprografické zariadenia | 5 | 20
+
 - 402 | Kancelárske stroje | 10 | 10,0
 
 - 403 | Stroje na spracovanie informácií | 8 | 12,0
@@ -247,6 +255,8 @@ Príloha vyhlášky č. 76/1966 Zb.
 - 405 | Prístroje pre automatickú reguláciu a riadenie | 12 | 8,0
 
 - 409 | Meradlá a zariadenia pre meranie geometrických veličín | 12 | 8,0
+
+- 425 | Priemyselné mazacie zariadenia | 8 | 12
 
 - | Trieda 6. Dopravné prostriedky | |
 
@@ -312,13 +322,19 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - 478 | Zariadenia pre sklady (preradenie z triedy 6) | 17 | 6,0
 
+- 537 | Technické prostriedky hromadnej zábavy | 8 | 12
+
 - 542 | Elektrické spotrebiče a chladničky pre domácnosť | 10 | 10,0
 
 - 557 | Kovový nábytok | 25 | 4,0
 
 - 615 | Nábytok z dreva | 17 | 6,0
 
+- 655 | Technické a konfekčné ľanové výrobky (len nafukovacie haly, skladovacie, cirkusové a podobné stany a vagónové, automobilové a podobné plachty zo skupín 665 2 a 665 3) | 8 | 12
+
 - 697 | Bytové textílie (pol. Jednotnej klasifikácie priemyselných odborov a výrobkov 697 5 a 697 6 tkané a netkané koberce) | 10 | 10,0
+
+- 738 | Školské a kancelárske potreby (len výučbové pomôcky a zariadenia ako vyučovacie stroje, trenažéry a pod. zo skupiny 738 8 - učebné pomôcky) | 8 | 12
 
 - 739 | Javiskové zariadenia a divadelné potreby | 17 | 6,0
 
