@@ -1,3 +1,0 @@
-Minister:
-
-Tóth v. r.
