@@ -1,1 +1,0 @@
-- *) Nákupnými cenami plodín sa rozumejú stále (zúčtovacie) ceny pre oceňovanie poľnohospodárskych produktov v poľnohospodárskych podnikoch ustanovené úpravou Ministerstva poľnohospodárstva, lesného a vodného hospodárstva z 30. 11. 1966 č. 64 930/66 (metodická príloha Socialistického poľnohospodárstva č. 50/1966)."
