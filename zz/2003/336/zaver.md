@@ -1,0 +1,1 @@
+Ivan Mikloš v. r.
