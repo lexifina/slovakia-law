@@ -1,0 +1,1 @@
+- *) § 116 prvá veta Občianskeho zákonníka č. 40/1964 Zb. (príbuzní v priamom rade, súrodenec a manžel).
