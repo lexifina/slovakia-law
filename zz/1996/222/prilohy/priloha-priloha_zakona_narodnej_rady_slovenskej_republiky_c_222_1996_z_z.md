@@ -28,7 +28,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 15. | živnostenské podnikanie a ochrana spotrebiteľa | zák. NR SR č. 274/1993 Z. z. | §5 | vyhlasuje na území príslušného okresu predaj obmedzeného množstva výrobkov v prípade, ak je vážne ohrozené zásobovanie obyvateľstva životne dôležitými výrobkami
 
-- 16. | požiarna ochrana | zák. SNR č. 126/1985 Zb. v znení neskorších predpisov | § 11 ods. 1 | overuje odbornú spôsobilosť a vydáva osvedčenie o odbornej spôsobilosti technikom požiarnej ochrany a špecialistom požiarnej ochrany
+- 16. | požiarna ochrana | zák. SNR č. 126/1985Zb. v znení neskorších predpisov | § 11 ods. 1 | overuje odbornú spôsobilosť a vydáva osvedčenie o odbornej spôsobilosti technikom požiarnej ochrany a špecialistom požiarnej ochrany
 
 - 17. | | | § 27 písm. a) | vykonáva štátny požiarny dozor
 
@@ -54,7 +54,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 28. | | | §74 | spolupracuje s príslušnými orgánmi dobrovolných spoločenských organizácií
 
-- 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. a) a príloha | povoľuje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
+- 40. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974Zb. | § 4 ods. 1 písm. a) a príloha | povoľuje vypúštanie odpadových vôd do povrchových alebo podzemných vôd a s tým súvisiace odbery vôd
 
 - 41. | | | § 4 ods. 1 písm. b) | povoľuje odber podzemných a povrchových vôd pre potreby verejných vodovodov, ktoré presahujú územie jedného okresu alebo sa dotýkajú záujmov viacerých okresov
 
@@ -64,7 +64,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 44. | | | § 4 ods. 1 písm. e) | povoľuje zachytávanie povrchových vôd v nádržiach s celkovým objemom 1 milión m<sup>3</sup> alebo s výškou hrádzového telesa nad 8 m od dna základového výpustu vrátane vodohospodárskych diel a zariadení umožnujúcich využitie vodnej energie
 
-- 45. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 4 ods. 1 písm. f) | povoľuje stavby na ochranu pred povodnami presahujúce územie jedného okresu a vodohospodárske diela na vodných cestách zriadované na plavebné účely alebo ovplyvňujúce podmienky plavby
+- 45. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974Zb. | § 4 ods. 1 písm. f) | povoľuje stavby na ochranu pred povodnami presahujúce územie jedného okresu a vodohospodárske diela na vodných cestách zriadované na plavebné účely alebo ovplyvňujúce podmienky plavby
 
 - 46. | | | § 4 ods. 1 písm. g) | povoľuje vodohospodárske diela odvodnovacích sústav vo výmere nad 2 000 hektárov
 
@@ -88,13 +88,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 56. | | | § 6 ods. 2, § 7 | rozhoduje v pochybnostiach o miestnej príslušnosti okresného úradu na povolenie vodohospodárskeho diela a o príslušnosti v prípadoch, ak ten istý žiadateľ požaduje súčasné vydanie niekoľkých povolení, na vydanie ktorých sú príslušné vodohospodárske orgány rôznych stupnov
 
-- 57. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974 Zb. | § 10 ods. 1 a 2 | dozerá v rozsahu svojej pôsobnosti na dodržiavanie ustanovení vodného zákona a zákona o štátnej správe vo vodnom hospodárstve a na dodržiavanie ním vydaných rozhodnutí a ukladá opatrenia na odstránenie zistených nedostatkov
+- 57. | tvorba a ochrana životného prostredia -štátna vodná správa | zák. SNR č. 135/1974Zb. | § 10 ods. 1 a 2 | dozerá v rozsahu svojej pôsobnosti na dodržiavanie ustanovení vodného zákona a zákona o štátnej správe vo vodnom hospodárstve a na dodržiavanie ním vydaných rozhodnutí a ukladá opatrenia na odstránenie zistených nedostatkov
 
 - 58. | | | § 10 ods. 4 | vykonáva v rozsahu svojej pôsobnosti technicko-bezpečnostný dozor nad vodohospodárskymi dielami, ktorých stav by mohol ohroziť bezpečnosť osôb alebo majetku
 
 - 59. | | | § 15 ods. 1 a 2 | vedie vodohospodársku evidenciu ním vydaných povolení, súhlasov, vyjadrení a iných rozhodnutí
 
-- 60. | | vyhl. č. 34/1977 Zb. | §5 | udeľuje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
+- 60. | | vyhl. č. 34/1977Zb. | §5 | udeľuje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
 
 - 74. | | zák. NR SR č. 287/1994 Z. z. | § 12 ods. 2, § 16 ods. 1, § 17 ods. 1, § 18 ods. 1, §22, § 34 ods. 1 a 5, § 35 až 37, § 39 | vyhlasuje, mení alebo zrušuje chránený areál, prírodnú rezerváciu, prírodnú pamiatku a ich ochranné pásmo, súkromné chránené územie, chránený strom a jeho ochranné pásmo
 
@@ -202,11 +202,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 202. | | zák. SNR č. 109/1961 Zb. v znení neskorších predpisov | § 8 ods. 2 | zriaduje a zrušuje múzeá a galérie, ktorých význam presahuje rámec obce
 
-- 204. | | zák. SNR č. 27/1987 Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
+- 204. | | zák. SNR č. 27/1987Zb. | § 6 ods. 1 | vyhlasuje územia za pamiatkovú zónu a urcuje podmienky jej ochrany
 
 - 205. | | | § 7 ods. 2 | vedie zoznamy kultúrnych pamiatok
 
-- 206. | kultúra | zák. SNR č. 27/1987 Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
+- 206. | kultúra | zák. SNR č. 27/1987Zb. | § 10 ods. 1 | rozhoduje o opatreniach, ktoré vlastník národnej kultúrnej pamiatky je povinný urobit
 
 - 207. | | | § 11 ods. 2 | rozhoduje o podmienkach a zákaze výkonu cinnosti ohrozujúcej národnú kultúrnu pamiatku
 
@@ -221,25 +221,5 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 - 212. | | | | rozhoduje o spôsobe nakladania s hnutelnou národnou kultúrnou pamiatkou v prípade dôležitého spolocenského záujmu a urcuje odbornú organizáciu v prípade potrebnej úschovy národnej kultúrnej pamiatky
 
 - 213. | | | § 19 ods. 2 | rozhoduje o podmienkach prenechania národnej kultúrnej pamiatky na docasné užívanie
-
-- 214. | kataster nehnutelností | zák. NR SR č. 162/1995 Z. z. v znení neskorších predpisov | § 8 ods. 1 bod 2 písm. d) | spracúva sumárne údaje katastra o pôdnom fonde
-
-- 215. | | zák. NR SR č. 180/1995 Z. z. | § 6 ods. 2 | zabezpecuje zostavenie návrhu registra obnovenej evidencie pozemkov
-
-- 216. | regionálny rozvoj | zák. č. 79/1957 Zb. v znení neskorších predpisov | § 12 ods. 1 | vydáva súhlas na zrušenie, dlhodobé zastavenie alebo premiestnenie závodného (podnikového) energetického diela alebo jeho casti
-
-- 217. | | | § 13 | nariaduje, aby podnikové energetické dielo, ktorého prevádzka bola zastavená, bolo opät uvedené do prevádzky
-
-- 218. | | zák. č. 67/1960 Zb. v znení neskorších predpisov | § 5 ods. 2 | vydáva súhlas na nové zriadovanie, rozširovanie a prevádzkovanie zariadení na výrobu vyhrievacích plynov inými organizáciami ako plynárenskými podnikmi
-
-- 219. | | | § 7 ods. 1 | vydáva súhlas na zrušenie, premiestnenie alebo dlhodobé zastavenie výroby vyhrievacích plynov
-
-- 220. | regionálny rozvoj | zák. č. 89/1987 Zb. | § 5 ods. 1 | vydáva súhlas na vyhlasovanie oblastí rozvoja zásobovania teplom centralizovaným spôsobom
-
-- 221. | | | § 7 ods. 1 a 2 | vyjadruje sa k zásadám koncepcného riešenia rozvojovej teplofikacnej štúdie zahrnujúcej územie kraja
-
-- 222. | regionálny rozvoj | zák. c. 89/1987 Zb. | § 8 ods. 1 | vydáva súhlas na schválenie rozvojovej teplofikacnej štúdie
-
-- 223. | | | § 17 ods. 1 | vydáva súhlas na zrušenie, premiestnenie, dlhodobé zastavenie alebo obmedzenie dodávky tepla pre obyvatelov
 
 - 224. | kontrola | zák. NR SR č. 10/1996 Z. z. | § 1 ods. 1 písm. b) | kontroluje plnenie úloh štátnej správy
