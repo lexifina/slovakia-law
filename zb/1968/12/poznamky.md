@@ -13,3 +13,7 @@
 - *) Vyhláška č. 159/1970 Zb. o poskytovaní odmien pri významných pracovných a životných výročiach.
 
 - ***) Vyhláška Ministerstva financií č. 24/1967 Zb. (príloha II, bod 3), ktorou sa vykonáva zákon o dani zo mzdy.
+
+- 1) § 1 ods. 2 písm. e) vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 33/1984 Zb. o cestovných náhradách.
+
+- 2) § 32 vyhlášky č. 33/1984 Zb.
