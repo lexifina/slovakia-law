@@ -2,11 +2,11 @@
 
 (k § 26 zákona)
 
-(1) Pri začatí vlastných vonkajších prác na vyhotovení lesného hospodárskeho plánu predloží organizácia lesného hospodárstva Ministerstvu lesného a vodného hospodárstva predbežnú zprávu k základnej pochôdzke, vypracovanú spolu s organizáciami pre hospodársku úpravu lesov, so žiadosťou o vykonanie základnej pochôdzky.
+(1) Pri začatí vlastných vonkajších prác na vyhotovení lesného hospodárskeho plánu predloží organizácia lesného hospodárstva krajskému národnému výboru predbežnú zprávu k základnej pochôdzke, vypracovanú spolu s organizáciami pre hospodársku úpravu lesov, so žiadosťou o vykonanie základnej pochôdzky.
 
-(2) Najneskôr do jedného mesiaca po predložení predbežnej zprávy vykoná Ministerstvo lesného a vodného hospodárstva základnú pochôdzku, ktorej sa zúčastnia aj zástupcovia organizácie pre hospodársku úpravu lesov, organizácie lesného hospodárstva a zástupca organizácie, ktorá vykonáva odbornú správu lesov. Na základnú pochôdzku sa prizvú i jednotné roľnícke družstvá, ktoré obhospodarujú lesy, a podľa potreby aj iné zúčastnené organizácie.
+(2) Najneskôr do jedného mesiaca po predložení predbežnej zprávy vykoná krajský národný výbor základnú pochôdzku, ktorej sa zúčastnia aj zástupcovia organizácie pre hospodársku úpravu lesov, organizácie lesného hospodárstva a zástupca organizácie, ktorá vykonáva odbornú správu lesov. Na základnú pochôdzku sa prizvú i jednotné roľnícke družstvá, ktoré obhospodarujú lesy, a podľa potreby aj iné zúčastnené organizácie.
 
-(3) Do 60 dní po predložení návrhu (konceptu) lesného hospodárskeho plánu, vykoná Ministerstvo lesného a vodného hospodárstva záverečnú pochôdzku, ktorej sa zúčastnia zástupcovia organizácií uvedených v odseku 2.
+(3) Do 60 dní po predložení návrhu (konceptu) lesného hospodárskeho plánu, vykoná krajský národný výbor záverečnú pochôdzku, ktorej sa zúčastnia zástupcovia organizácií uvedených v odseku 2.
 
 (4) Lesné hospodárske plány musia sa vyhotoviť a schváliť tak, aby ich hlavné ustanovenia (najmä o ťažobných a zalesňovacích úlohách) mohli organizácie lesného hospodárstva využívať už v prvom roku ich platnosti.
 

@@ -1,6 +1,6 @@
 # Článok 43 Žiadosť o pripustenie na skúšku
 
-(1) Žiadosť o pripustenie na skúšku sa podáva na Ministerstve lesného a vodného hospodárstva. O pripustení na skúšku rozhodne Ministerstvo lesného a vodného hospodárstva a vyrozumie o tom žiadateľa.
+(1) Žiadosť o pripustenie na skúšku sa podáva na krajskom národnom výbore príslušnom podľa trvalého bydliska žiadateľa. O pripustení na skúšku rozhodne krajský národný výbor a vyrozumie o tom žiadateľa.
 
 (2) Na skúšku sa môžu pripustiť:
 
