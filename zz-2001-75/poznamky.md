@@ -1,0 +1,1 @@
+- *) Pomlčka označuje, že nie je stanovené menovité napätie razového impulzu (tabuľka č. 4).
