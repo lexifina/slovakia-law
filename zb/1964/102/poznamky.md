@@ -16,6 +16,8 @@
 
 - *) § 6 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov.
 
+- *) § 232 Zákonníka práce.
+
 - *) Vyhláška č. 7/1958 Ú. l. (Ú. v.) o nemocenskom poistení a o dôchodkovom zabezpečení sezónnych zamestnancov a pracovníkov na nepravidelnú výpomoc.
 
 - **) Prvá časť vyhlášky č. 184/1960 Zb. o nemocenskom poistení a o dôchodkovom zabezpečení zamestnancov poverených činnosťou v zahraničí.
@@ -28,11 +30,13 @@
 
 - *) Vyhláška č. 8/1958 Ú. l. (Ú. v.) o nemocenskom poistení a o dôchodkovom zabezpečení brigádnikov (§ 2 a 6).
 
-- *) Poskytovanie preventívnej a liečebnej starostlivosti umelcom je upravené liečebným poriadkom [vyhláška č. 164/1958 Ú. l. (Ú. v.) v znení vyhlášok č. 242/1959 Ú. l. (Ú. v. a č. 44/1962 Zb.].
-
 - **) Za estrádnych umelcov sa nepovažujú ľudoví hudobníci a členovia súborov ľudovej tvorivosti.
 
 - *) § 319 Občianskeho súdneho poriadku.
+
+- *) Zákon č. 54/1956 Zb. o nemocenskom poistení v znení zákonov č. 16/1959 Zb. a č. 87/1968 Zb., zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, dávkach v materstve a o prídavkoch na deti z nemocenského poistenia a vyhlášky č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení a č. 95/1968 Zb. o poskytovaní prídavkov na deti v nemocenskom poistení.
+
+- Poskytovanie liečebno-preventívnej starostlivosti je upravené zákonom č. 20/1966 Zb. o starostlivosti o zdravie ľudu a predpismi vydanými na jeho vykonanie, najmä vyhláškou č. 42/1966 Zb.
 
 - **) § 15 ods. 3 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov.
 
