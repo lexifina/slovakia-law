@@ -6,7 +6,7 @@
 
 - 3) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 246/1993 Z. z. o zbraniach a strelive.
 
-- 4) § 9 ods. 2 písm. a), b), c) a d) zákona Národnej rady Slovenskej republiky č. 246/1993 Z. z.
+- 4) § 9 zákona Národnej rady Slovenskej republiky č. 246/1993 Z. z.
 
 - 5) § 181d Trestného zákona.
 
