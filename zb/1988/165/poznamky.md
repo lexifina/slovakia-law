@@ -1,1 +1,0 @@
-- 1) Výmer Štátneho cenového úradu č. 161 298/68.
