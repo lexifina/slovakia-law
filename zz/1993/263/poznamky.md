@@ -80,7 +80,7 @@
 
 - 19) § 39 Občianskeho zákonníka.
 
-- 19a) § 10, § 11 ods. 1 písm. b), d) a ods. 2 písm. a) a g), § 12 ods. 2 a 3, § 13 ods. 1 a 7 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 19a) § 10, § 11 ods. 1 písm. b) a d) a ods. 2 písm. a) a g), § 12 ods. 2 a 3, § 13 ods. 1 a 7 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 20) § 283 Obchodného zákonníka.
 
