@@ -38,6 +38,8 @@
 
 - 20) § 73 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
+- 20a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 21) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
