@@ -16,7 +16,7 @@ Príloha č. 1 k zákonu č. 478/2002 Z. z.
 
   - 7. oxid uhoľnatý
 
-  - 8. polycyklické aromatické uhľovodíky (benzo(a)pyrén**)
+  - 8. polyaromatické uhľovodíky
 
   - 9. kadmium
 
@@ -29,5 +29,3 @@ Príloha č. 1 k zákonu č. 478/2002 Z. z.
 - Poznámka:
 
   - * Pod oxidmi dusíka sa rozumie súčet oxidu dusnatého a oxidu dusičitého spočítaných v ppb a vyjadrených ako oxid dusičitý v mikrogramoch na kubický meter.
-
-  - ** Benzo(a)pyrén je jeden z reprezentantov polycyklických aromatických uhľovodíkov.
