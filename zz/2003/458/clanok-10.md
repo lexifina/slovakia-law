@@ -28,6 +28,10 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - § 24a
 
+- (1)
+
+- Špeciálneho prokurátora volí do funkcie Národná rada Slovenskej republiky na návrh generálneho prokurátora na základe výberového konania. Funkčné obdobie špeciálneho prokurátora je päť rokov. Za špeciálneho prokurátora môže byť zvolený iba prokurátor generálnej prokuratúry.
+
 - (2)
 
 - Ostatných vedúcich prokurátorov a prokurátorov Úradu špeciálnej prokuratúry vymenúva do funkcie v Úrade špeciálnej prokuratúry generálny prokurátor na základe výberového konania na návrh špeciálneho prokurátora a po predchádzajúcom súhlase rady prokurátorov. Za vedúceho prokurátora a za prokurátora Úradu špeciálnej prokuratúry môže byť vymenovaný iba prokurátor generálnej prokuratúry.
