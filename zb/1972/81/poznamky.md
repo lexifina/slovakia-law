@@ -1,0 +1,1 @@
+- *) § 1 a 3 vyhl. č. 200/1968 Zb. o mzdovom zvýhodnení práce cez soboty a nedele.
