@@ -1,0 +1,1 @@
+- *) Vyhláška Ministerstva financií č. 204/1964 Zb. o fakturovaní a platení dodávok neinvestičnej povahy a úprava Ministerstva financií zo 14. decembra 1965 č. 117/54 583/1965.
