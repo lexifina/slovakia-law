@@ -1,0 +1,1 @@
+- 1) Nová právna úprava sa vykonala úpravou Federálneho ministerstva poľnohospodárstva a výživy zo 17. 12. 1984 č. FM 01-2110/1984 o predaji poľnohospodárskych výrobkov pracovníkom štátnych organizácií a spoločných poľnohospodárskych podnikov s poľnohospodárskou výrobou.
