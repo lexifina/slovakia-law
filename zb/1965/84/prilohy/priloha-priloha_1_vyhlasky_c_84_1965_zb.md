@@ -54,13 +54,15 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0104 | koksár | CH | Úprava uhlia pre koksovanie, príprava vsádzok, výroba koksu a chemických produktov pri koksovaní. Obsluha koksárskych batérií a iného zariadenia koksovne. | 3 | 22 | 1 | 9 | A*) | 12-15 | 0104
 
-- 0105 | strojník dobývacích a raziacich strojov | CH | Obsluha dobývacích a raziacich strojov pri dobývaní uhlia a razení banských diel a ich bežná údržba. | 3 | 18 | 1,5 | 9 | A*) | 12-15 | 0105
+- 0105 | strojník komplexne mechanizovaných porubov a predkov | CH | Práce v komplexne mechanizovanom porube, obsluha dobývacích a raziacich strojov a razenie banských diel. | 3 | 18 | 1,5 | 9 | A*) | 12-15 | 0105
 
 - 0106 | strojník dopravných zariadení | CH | Obsluha banských dopravných zariadení, ich montáž a demontáž a bežná údržba, zavádzanie signalizačných zariadení. | 3 | 18 | 1,5 | 9 | A*) | 12-15 | 0106
 
 - 0107 | banský zámočník | CH | Montáž, údržba a opravy banských strojov a zariadení. | 3 | 22 | 1,5 | 10 | A*) | 8-12 | 0107
 
 - 0108 | banský elektromontéž | CH | Montáž, inštalácia, pripojovanie, údržba a opravy elektrických strojov, stavba banského rozvodu elektrickej energie. | 3 | 22 | 1,5 | 10 | A*) | 8-12 | 0108
+
+- 0109 | vŕtač | CH | Obsluha vŕtacieho zariadenia a kontrolných prístrojov. Určovanie vhodných režimov vŕtania. Vykonávanie špeciálnych prác (injektovanie, tlakové a čerpacie skúšky, výstroj a paženie vrtov). | 3 | 22 | 1 | 9 | | 12-15 | -
 
 - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
@@ -106,7 +108,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0306 | plastikár plastikárka | CH D | Obsluha a nastavovanie strojov a zariadení na spracovanie plastických látok a úpravu hotových výrobkov. Riadenie výrobných a technologických procesov podľa daných predpisov, vykonávanie prevádzkovo-kontrolných skúšok a rozborov, odstraňovanie jednoduchých nedostatkov v prevádzke. Základná údržba strojov a prevádzkového zariadenia. | 3 | 22 | 1 | 8 | B*) | 8-12 | 0306
 
-- 0307 | prevádzkový chemik celulózár a papierár prevádzková chemička celulózárk a papierárka | CH D | Výroba sulfitovej a sulfátovej celulózy, výroba a úprava papiera a lepenky, ďalšie spracovanie papiera a lepenky. Obsluha a základná údržba výrobných zariadení a strojov. Vykonávanie prevádzkovo-kontrolných skúšok. | 3 | 22 | 1,5 | 10 | B*) | 8-12 | 0307
+- 0307 | strojník papierenskej výroby | CH | Výroba a zušľachťovanie vláknitých papierenských pololátok, výroba, zušľachťovanie a spracovanie papiera a lepeniek. Obsluha a základná starostlivosť o stroje a výrobné zariadenia. Prevádzkovo-kontrolné skúšky. | 3 | 22 | 1,5 | 10 | B*) | 8-12 | 0307
 
 - 0308 | prevádzkový chemik gumár prevádzková chemička gumárka | CH D | Odborné riadenie a obsluha strojov pri výrobe a spracovaní technickej gumy, pneumatík a ostatných gumových výrobkov. Vykonávanie prevádzkovo-kontrolných skúšok a jednoduchých opráv na výrobných zariadeniach. | 3 | 22 | 1,5 | 10 | B*) | 8-12 | 0308
 
@@ -124,7 +126,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0351 | spracovateľ papiera spracovateľka papiera | CH D | Výroba vlnitej a hladkej zlepovanej lepenky, najrôznejšie druhy zušľachťovania papiera. Priemyselná výroba všetkých druhov papierových a lepenkových výrobkov. Obsluha strojového zariadenia a meracej techniky, vykonávanie preventívnej údržby. | 2 | 10 | 1 | 6 | B | 8-12 | 0351
 
-- 0361 | preparátor preparátorka | CH D | Zber, úprava, konzervácia a preparácia prírodovedného materiálu. Zhotovovanie prírodovedných preparátov pre dokumentačné, výstavné a školské účely. | - | - | 1,5 | 6 | A*) | indiv. výcvik | 0361
+- 0361 | preparátor preparátorka | CH D | Zber, úprava, konzervácia a preparácia prírodovedného materiálu. Zhotovovanie prírodovedných preparátov na dokumentačné, výstavné a školské účely. | - | - | 2 | 10 | A*) | indiv. výcvik | 0361
 
 - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
@@ -248,7 +250,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0510 | mechanik diaľkových spojov mechanička diaľkových spojov | CH D | Stavba, zriaďovanie, zapojovanie, údržba a technická prevádzka drôtových frekvenčných zosilňovacích zariadení a zložitých zariadení pre mnohonásobné využitie vedenia. | 3 | 33 | 2 | 22 | C | 8-12 | 0510
 
-- 0511 | mechanik rádiových spojov mechanička rádiových spojov | CH D | Stavba, zriaďovanie, zapojovanie, údržba, opravy a technická prevádzka televíznych vysielačov, rozhlasových vysielačov, televíznych a rozhlasových štúdií a zariadení pre veľmi krátke vlny. | 3 | 33 | 2 | 22 | C | 8-12 | 0511
+- 0511 | mechanik rádiových spojov mechanička rádiových spojov | | Zrušený od 1. 9. 1969. Príprava kvalifikovaných pracovníkov sa bude zabezpečovať v študijnom odbore 10-2-06 Spojová technika.*) | | | | | | |
 
 - 0512 | mechanik meracích a regulačných prístrojov mechanička meracích a regulačných prístrojov | CH D | Montáž, výroba, opravy a skúšanie elektrických, meracích, regulačných, ochranných a riadiacich prístrojov a prístrojov na tepelno-technickú kontrolu. | 3 | 22 | 2 | 22 | C | 8-12 | 0512
 
@@ -282,7 +284,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0620 | podlahár | CH | Kladenie a opravy parketových podláh, podlahových povlakov a krytín. Zhotovovanie podložiek tlmiacich zvuk, xylolitových, anhydritových a štrkových podláh. | 3 | 22 | 1 | 8 | A*) | 6-8 | 0620
 
-- 0621 | maliar izieb | CH | Príprava povrchu a maliarske práce vápennými, glejovými, latexovými a olejovými farbami rôznymi technikami. Opravy a údržba malieb. | 2 | 10 | 1 | 6 | B*) | 8-10 | 0621
+- 0621 | maliar izieb | CH | Príprava povrchu a maliarske práce vápennými, glejovými, latexovými a olejovými farbami rôznymi technikami. Opravy a údržba malieb. | 3 | 22 | 2 | 10 | B*) | 8-10 | 0621
 
 - 0623 | maliar a natierač | CH | Príprava povrchu, jednoduché maliarske a natieračské práce na rôznych podkladoch bežnými technikami. | 3 | 22 | 1 | 8 | B*) | 8-10 | 0623
 
@@ -358,7 +360,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0801 | výrobca drevárskych polotovarov | CH | Základné a odborné práce v odvetví hlavnej a pridruženej piliarskej a impregnárskej výroby. Príprava rôznych výrobkov na impregnovanie a ich impregnácia. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 2 | 10 | 1 | 6 | A*) | 10-15 | 0801 0803
 
-- 0804 | výrobca konštrukčných dosák výrobkyňa konštrukčných dosák | CH D | Základné a odborné práce v odvetví výroby dýh a preglejok a v pridruženej výrobe, v odvetví výroby konštrukčných dosák aglomerovaním z pilín, triesok a vláknitých látok. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 1,5 | 10 | A*) | 10-15 | 0804 0816
+- 0804 | preglejkár preglejkárka | CH D | Spracovanie a obrábanie dreva a iných materiálov. Základné a odborné práce v odvetví výroby dýh, preglejok a v pridruženej výrobe. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 1,5 | 10 | A*) | 10-15 | 0804
 
 - 0805 | stolár stolárka | CH D | Základné a odborné práce v odvetví výroby nábytku, stavebnostolárskych konštrukcií a opravárskych služieb. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 1,5 | 10 | C | 8-12 | 0805
 
@@ -378,6 +380,8 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 0815 | tužkár tužkárka | CH D | Základné a odborné práce v odvetví hlavnej a pridruženej tužkárskej výroby. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 2 | 10 | 1 | 6 | B | 8-12 | 0815
 
+- 0816 | mechanik výroby konštrukčných dosák mechanička výroby konštrukčných dosák | CH D | Základné a odborné práce v odvetví výroby konštrukčných dosák aglomerovaním z pilín, triesok a vláknitých látok. Spracovanie drevného odpadu a iných materiálov. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 1,5 | 10 | | 10-15 | 0804
+
 - 0817 | výrobca športových potrieb výrobkyňa športových potrieb | CH D | Odborné práce pri sériovej a individuálnej výrobe a oprave športového náradia a člnov z dreva a plastických látok a čiastočne i z kovov. Nastavovanie, údržba a obsluha drevoobrábacích a niektorých kovoobrábacích strojov a nástrojov. | 3 | 22 | 1,5 | 10 | C | 8-12 | 0817
 
 - 0851 | mechanik strunových hudobných nástrojov mechanička strunových hudobných nástrojov | CH D | Základné a odborné práce v odvetví výroby sláčikových a brnkacích nástrojov a ich montovanie. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 22 | 2 | 16 | C | 8-12 | 0851
@@ -390,21 +394,21 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 09 - Polygrafia, spracovanie papiera, film a fotografia | | | | | | | | | |
 
-- 0901 | sadzač sadzačka | CH D | Všetky druhy prác pri zhotovení tlačovej formy kníhtlačovej techniky, obsluha a nastavovanie potrebných výrobých nástrojov, zariadení a strojov. | 4*) | 22 | 2 | 10 | B | 6-8 | 0901 0916
+- 0901 | sadzač sadzačka | CH D | Všetky druhy prác pri zhotovovaní tlačovej formy kníhtlačovej techniky, obsluha a nastavovanie potrebných výrobých nástrojov, zariadení a strojov. | 4 | 22 | 2 | 10 | B | 6-8 | 0901
 
-- 0902 | tlačiar na kníhtlačových strojoch | CH | Príprava jednofarebných i viacfarebných tlačových foriem, nastavovanie a obsluha kníhtlačových strojov. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4*) | 22 | 2 | 10 | B | 4-6 | 0902
+- 0902 | tlačiar na kníhtlačových strojoch | CH | Príprava jednofarebných i viacfarebných tlačových foriem, nastavovanie a obsluha kníhtlačových strojov. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4 | 22 | 2 | 10 | B | 4-6 | 0902
 
-- 0906 | tlačiar na ofsetových strojoch | CH | Všetky druhy prác pri zhotovovaní tlačovej formy, tlače z plochy, nastavovanie a obsluha tlačových strojov a zariadení. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4*) | 22 | 2 | 10 | B | 4-6 | 0906 0907
+- 0906 | tlačiar na ofsetových strojoch | CH | Všetky druhy prác pri zhotovovaní tlačovej formy, tlače z plochy, nastavovanie a obsluha tlačových strojov a zariadení. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 4 | 22 | 2 | 10 | B | 4-6 | 0906
 
 - 0908 | planograf planografka | CH D | Kopírovanie kresieb na svetlotlačové papiere a zhotovovanie jednofarebných i viacfarebných tlačovín pomocou tlače zo želatínivej hmoty. | 2 | 10 | 1 | 6 | B | 4-8 | 0908
 
 - 0917 | stereotypér | CH | Zhotovovanie matríc, odliatkov a výliskov do používaných materiálov pre kníhtlačiarsku techniku. Nastavovanie a obsluha nástrojov, prístrojov a strojov pri výrobe. | 2 | 10 | 1 | 6 | B | 4-8 | 0917
 
-- 0918 | pečiatkár pečiatkárka | CH D | Spracovanie materiálov používaných na zhotovovanie pečiatok. Základné a odborné práce v odbore. Nastavovanie a obsluha prístrojov a mechanizmov. | 2 | 10 | 1 | 6 | B | 8-12 | 0918
+- 0918 | pečiatkár pečiatkárka | CH D | Spracovanie materiálov používaných na zhotovovanie pečiatok. Základné a odborné práce v odbore. Nastavovanie a obsluha prístrojov a mechanizmov. | 3 | 22 | 1,5 | 10 | B | 8-12 | 0918
 
 - 0920 | tlačiar na maloofsetových strojoch tlačiarka na maloofsetových strojoch | CH D | Všetky druhy prác pri zhotovovaní tlačových foriem pre maloofsetové stroje, nastavovanie a obsluha maloofsetových strojov. Potlačovanie používaných materiálov. Používanie meracích prístrojov. | 2 | 10 | 1 | 6 | B | 8-10 | -
 
-- 0921 | reprodukčný grafik reprodukčná grafička | CH D | Všetky druhy prác grafickej reprodukcie v základných tlačových technikách, obsluha a nastavovanie potrebných výrobných strojov, zariadení a nástrojov. Používanie meracích prístrojov. | 4*) | 22 | 2 | 10 | B | 4-8 | 0903 0905 0909 0912 0913
+- 0921 | reprodukčný grafik reprodukčná grafička | CH D | Všetky druhy prác grafickej reprodukcie v základných tlačových technikách, obsluha a nastavovanie potrebných výrobných strojov, zariadení a nástrojov. Používanie meracích prístrojov. | 4 | 22 | 2 | 10 | B | 4-8 | 0921
 
 - 0931 | knihár knihárka | CH D | Všetka strojová väzba tlačovín, ostatné druhy knihárskych prác, spracovanie knihárskych materiálov, nastavovanie a obsluha knihárskych nástrojov, prístrojov a strojov. | 3 | 22 | 2 | 10 | B | 8-12 | 0931
 
@@ -462,7 +466,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1051 | klobučník klobučníčka | CH D | Výroba klobúkov z vlasových a vlnených polotovarov. | 2 | 10 | 1 | 6 | C | 8-12 | 1051
 
-- 1052 | modistka-čiapkárka | D | Modelovanie a opravy dámskych a detských klobúkov podľa predlôh a vlastných návrhov. Šitie čiapok. | 2 | 10 | 1 | 6 | C | 8-12 | 1052
+- 1052 | priemyselná modistka | D | Výroba dámskych a detských klobúkov podľa predlôh. Šitie čiapok. | 2 | 10 | 1 | 6 | C | 8-12 | 1052
 
 - 1053 | dámsky krajčír dámska krajčírka | CH D | Výroba a opravy dámskych alebo dievčenských vrchných odevov. | 3 | 22 | 2 | 16 | C | 8-12 | 1053
 
@@ -471,6 +475,8 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 - 1055 | krajčírka | D | Výroba dámskej a pánskej bielizne a jednoduchých šiat z tkanín alebo pletenín. | 2 | 10 | 1 | 6 | C | 8-12 | 1055
 
 - 1056 | výrobkyňa baretiek a fezov | D | Špeciálna výroba a úprava všetkých druhov baretiek a fezov. | 2 | 10 | 1 | 6 | C | 8-12 | -
+
+- 1057 | modistka | D | Samostatné modelovanie a opravy dámskych a detských klobúkov podľa vlastných návrhov, prípadne predlôh a podľa požiadaviek zákazníkov. | 3 | 22 | 1,5 | 10 | | 10-12 | 1052
 
 - 1091 | výrobkyňa umelých kvetín | D | Výroba umelých kvetín a dekorácií z textilu, papiera, kože, vosku a iných materiálov. Výroba atráp, obsluha a údržba strojov. | 2 | 10 | 1 | 6 | C | 10-15 | 1091
 
@@ -572,9 +578,9 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1322 | kováč a podkúvač | CH | Kováčske práce pri výrobe a opravách poľnohospodárskych strojov, náradia a zariadení. Zváranie kovov plameňom a elektrickým oblúkom. Ošetrovanie kopýt a paznechtov, podkúvanie záprahových zvierat. | 3 | 18 | 1,5 | 6 | A*) | 8-12 | 1322
 
-- 1324 | pestovateľ mechanizátor pestovateľka mechanizátorka | CH D | Obsluha strojov mechanizovanej rastlinnej výroby, bežné opravy strojov. | 2 | 6 | 1 | 3 | A*) | 8-12 | 1324
+- 1324 | pestovateľ mechanizátor*) pestovateľka mechanizátorka*) | CH D | Obsluha strojov mechanizovanej rastlinnej výroby, bežné opravy strojov. | 1 | - | - | - | A*) | 8-12 | 1324
 
-- 1325 | chovateľ mechanizátor chovateľka mechnizátorka | CH D | Ošetrovanie jednotlivých druhov hospodárskych zvierat v mechanizovanej živočíšnej výrobe. | 2 | 6 | 1 | 3 | A*) | 8-12 | 1325
+- 1325 | chovateľ mechanizátor*) chovateľka mechnizátorka*) | CH D | Ošetrovanie jednotlivých druhov hospodárskych zvierat v mechanizovanej živočíšnej výrobe. | 1 | - | - | - | A*) | 8-12 | 1325
 
 - 1351 | lesník | CH | Práce pri zbere lesných semien, v škôlkach, pri zalesňovaní, ošetrovaní porastov, ochrane lesa a v pridruženej lesnej výrobe. Ťažba dreva všetkými spôsobmi. Manipulácia, nakladanie a skladovanie dreva. | 2 | 10 | 1 | 6 | B*) | 8-15 | 1351
 
@@ -590,9 +596,11 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1401 | železničiar vnútropodnikovej dopravy | CH | Základná prevádzková činnosť spojená s vnútropodnikovou dopravou. | 2 | 10 | 1 | 6 | B*) | 12-19 | 1401
 
-- 1402 | železničiarka | D | Základná prevádzková činnosť spojená s výkonom služby sprievodkyne vlakov osobnej dopravy, skladníka prepravy tovaru, tranzitéra a informátora. | 2 | 18 | 1 | 6 | B*) | 12-19 | -
+- 1402 | železničiar železničiarka | CH D | Základná prevádzková činnosť spojená so železničnou dopravou a prepravou. | 3 | 22 | 1,5 | 10 | B*) | 8-12 | 1402
 
 - 1411 | cestár | CH | Všetky práce pri stavbách a opravách ciest včítane obsluhy a ošetrovania cestných strojov a mechanizmov. | 3 | 18 | 1 | 6 | B*) | 10-12 | 1411
+
+- 1421 | traťový strojník | CH | Obsluha, údržba a opravy strojov a zariadení používaných pri oprave a obnove železničného zvršku a spodku. | 3 | 22 | 1,5 | 10 | | 8-12 | -
 
 - 1451 | spojový manipulant spojová manipulantka | CH D | Jednoduché práce v poštovej, telefónnej a telegrafnej prevádzke. | 2 | 18 | 1 | 6 | C | 10-12 | 1451
 
@@ -622,7 +630,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1552 | čašník servírka | CH D | Úprava tabule a obsluha vo všetkých druhoch prevádzkární verejného stravovania pri bežných a slávnostných príležitostiach. Príprava jednoduchých jedál. Ošetrovanie všetkých druhov nápojov. Administratívne práce v závodoch verejného stravovania. | 3 | 18 | 1 | 6 | C | 12-15 | 1552
 
-- 1553 | kuchár a čašník kuchárka a servírka | CH D | Príprava jedál teplej a studenej kuchyne, výroba múčnikov a niektorých druhov cukrárskych výrobkov. Ošetrovanie, výčap a predaj nápojov. Úprava tabule a obsluha hostí pri bežných a slávnostných príležitostiach. Administratívne práce v prevádzkárňach verejného stravovania. | 3 | 18 | 1,5 | 9 | C | 10-15 | 1553
+- 1553 | kuchár a čašník kuchárka a servírka | CH D | Príprava jedál teplej a studenej kuchyne, výroba múčnikov a niektorých druhov cukrárskych výrobkov. Ošetrovanie, výčap a predaj nápojov. Úprava tabule a obsluha hostí pri bežných a slávnostných príležitostiach. Administratívne práce v prevádzkárňach verejného stravovania. | 3 | 22 | 1,5 | 10 | C | 10-15 | 1553
 
 - 1571 | holič a kaderník holička a kaderníčka | CH D | Holenie, strihanie, úprava a ondulácia vlasov. Farbenie vlasov. Zhotovovanie parochní. Úprava vlasov a fúzov (maskérstvo), základy kozmetiky. | 3 | 18 | 1 | 6 | C | 8-12 (6 až 10 v II. r. učenia) | 1571
 
@@ -630,59 +638,59 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 16 - Ručná umeleckoremeselná výroba | | | | | | | | | |
 
-- 1601 | kovolejár | CH | Formovanie a odlievanie diel sochárskeho umenia včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1601 | kovolejár | CH | Formovanie a odlievanie diel sochárskeho umenia včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1602 | umelecký kováč | CH | Umelecko-remeselné kováčske a zvonárske práce včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1602 | umelecký kováč | CH | Umelecko-remeselné kováčske a zvonárske práce včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1603 | umelecký zámočník | CH | Umelecko-remeselné zámočnícke práce včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | 0430
+- 1603 | umelecký zámočník | CH | Umelecko-remeselné zámočnícke práce včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | 0430
 
-- 1604 | cizelér cizelérka | CH D | Cizelovanie, patinovanie a montáž kovolejárskych diel sochárskeho umenia včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | 0481
+- 1604 | cizelér cizelérka | CH D | Cizelovanie, patinovanie a montáž kovolejárskych diel sochárskeho umenia včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | 0481
 
-- 1605 | umelecký pasiar umelecká pasiarka | CH D | Vytváranie umelecko-remeselných diel a predmetov z ušľachtilých kovov včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1605 | umelecký pasiar umelecká pasiarka | CH D | Vytváranie umelecko-remeselných diel a predmetov z ušľachtilých kovov včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1611 | umelecký stolár umelecká stolárka | CH D | Umelecko-remeselné stolárske, interiérové a stavebné práce včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1611 | umelecký stolár umelecká stolárka | CH D | Umelecko-remeselné stolárske, interiérové a stavebné práce včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1612 | umelecký čalúnnik a dekoratér umelecká čalúnnička a dekoratérka | CH D | Umelecko-remeselné čalúnnické a dekoratérske práce. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1612 | umelecký čalúnnik a dekoratér umelecká čalúnnička a dekoratérka | CH D | Umelecko-remeselné čalúnnické a dekoratérske práce. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1613 | umelecký spracovateľ dreva umelecká spracovateľka dreva | CH D | Umelecko-remeselné spracovanie dreva rezanín, dlabaním, štiepaním, sústružením a zdobenie kovom. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1613 | umelecký spracovateľ dreva umelecká spracovateľka dreva | CH D | Umelecko-remeselné spracovanie dreva rezanín, dlabaním, štiepaním, sústružením a zdobenie kovom. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1614 | umelecký spracovateľ prírodných pletív umelecká spracovateľka prírodných pletív | CH D | Umelecko-remeselné pletiarske práce z prútia, slamy, trstiny, pálky a iných materiálov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1614 | umelecký spracovateľ prírodných pletív umelecká spracovateľka prírodných pletív | CH D | Umelecko-remeselné pletiarske práce z prútia, slamy, trstiny, pálky a iných materiálov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1621 | umelecký keramik umelecká keramička | CH D | Ručné vytváranie, tvarovanie a zdobenie keramiky podľa výtvarných návrhov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1621 | umelecký keramik umelecká keramička | CH D | Ručné vytváranie, tvarovanie a zdobenie keramiky podľa výtvarných návrhov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1622 | umelecký sklár | CH | Ručné tvarovanie hutníckeho skla podľa výtvarných návrhov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1622 | umelecký sklár | CH | Ručné tvarovanie hutníckeho skla podľa výtvarných návrhov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1623 | perletiar perletiarka | CH D | Umelecko-remeselné spracovanie perlete a rohoviny rezbou a vykladaním. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1623 | perletiar perletiarka | CH D | Umelecko-remeselné spracovanie perlete a rohoviny rezbou a vykladaním. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1626 | sochár kameňa | CH | Umelecko-remeselné kamenosochárske práce podľa výtvarných predlôh. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1626 | sochár kameňa | CH | Umelecko-remeselné kamenosochárske práce podľa výtvarných predlôh. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1631 | ručný tkáč ručná tkáčka | CH D | Tkanie na ručných stavoch tradičnými technikami podľa výtvarných návrhov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1631 | ručný tkáč ručná tkáčka | CH D | Tkanie na ručných stavoch tradičnými technikami podľa výtvarných návrhov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1632 | tkáč gobelínov tkáčka gobelínov | CH D | Vytváranie gobelínov podľa výtvarných návrhov a reštaurovanie historických gobelínov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1632 | tkáč gobelínov tkáčka gobelínov | CH D | Vytváranie gobelínov podľa výtvarných návrhov a reštaurovanie historických gobelínov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
 - 1635 | ručná vyšívačka | D | Ručná tvorba výtvarne náročných výšiviek tradičnými technikami. | 2 | 10 | 1,5 | 8 | A*) | indiv. výcvik | -
 
 - 1636 | ručná čipkárka | D | Ručná tvorba čipiek tradičnými technikami. | 2 | 10 | 1,5 | 8 | A*) | indiv. výcvik | -
 
-- 1637 | tlačiar textílií tlačiarka textílií | CH D | Príprava farbív, výroba šablón pre tlač a ručné potlačovanie tkanín pomocou foriem, štetcovou aj inou technikou. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1637 | tlačiar textílií tlačiarka textílií | CH D | Príprava farbív, výroba šablón pre tlač a ručné potlačovanie tkanín pomocou foriem, štetcovou aj inou technikou. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1641 | umelecký maliar interiérov | CH | Umelecko-remeselné maliarske práce rôznymi technikami, včítane techniky sgrafit, fresco, secco a reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1641 | umelecký maliar interiérov | CH | Umelecko-remeselné maliarske práce rôznymi technikami, včítane techniky sgrafit, fresco, secco a reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1642 | štukatér | CH | Umelecko-remeselné štukatérske práce stavebného a interiérového charakteru, vytváranie plastík a architektonických článkov, včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1642 | štukatér | CH | Umelecko-remeselné štukatérske práce stavebného a interiérového charakteru, vytváranie plastík a architektonických článkov, včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1643 | umelecký pozlacovač umelecká pozlacovačka | CH D | Umelecko-remeselné pozlacovačské práce, polychronia a reštaurátorské práce. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1643 | umelecký pozlacovač umelecká pozlacovačka | CH D | Umelecko-remeselné pozlacovačské práce, polychronia a reštaurátorské práce. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1644 | umelecký sklenár | CH | Umelecko-remeselné sklenárske diela vytvárané technikou zasadzovania do olova a iných materiálov, včítane reštaurátorských prác. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1644 | umelecký sklenár | CH | Umelecko-remeselné sklenárske diela vytvárané technikou zasadzovania do olova a iných materiálov, včítane reštaurátorských prác. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1651 | parochniar parochniarka | CH D | Ručná výroba a úprava parochní z prírodných i umelých materiálov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1651 | parochniar parochniarka | CH D | Ručná výroba a úprava parochní z prírodných i umelých materiálov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1652 | obuvník scénickej a krojovej obuvi obuvníčka scénickej a krojovej obuvi | CH D | Ručná výroba scénickej, tanečnej a krojovej obuvi podľa návrhov výtvarníkov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1652 | obuvník scénickej a krojovej obuvi obuvníčka scénickej a krojovej obuvi | CH D | Ručná výroba scénickej, tanečnej a krojovej obuvi podľa návrhov výtvarníkov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1653 | krajčír scénických kostýmov a krojov krajčírka scénických kostýmov a krojov | CH D | Ručná výroba a úpravy scénických a krojových odevov. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1653 | krajčír scénických kostýmov a krojov krajčírka scénických kostýmov a krojov | CH D | Ručná výroba a úpravy scénických a krojových odevov. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1655 | montér scénickej stavby | CH | Montáž a demontáž scénických stavieb, včítane údržby. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1655 | montér scénickej stavby | CH | Montáž a demontáž scénických stavieb, včítane údržby. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
-- 1656 | scénický osvetľovač | CH | Scénické osvetľovanie, bežná montáž, demontáž a údržba svetelnotechnických zariadení. | 3 | 18 | 2 | 10 | A*) | indiv. výcvik | -
+- 1656 | scénický osvetľovač | CH | Scénické osvetľovanie, bežná montáž, demontáž a údržba svetelnotechnických zariadení. | 3 | 22 | 2 | 10 | A*) | indiv. výcvik | -
 
   - Vo všetkých učebných odboroch je jednotne ustanovený počet 40 učňov na jedného vychovávateľa.
 
