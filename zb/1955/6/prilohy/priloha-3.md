@@ -28,7 +28,7 @@
 
   - Čl. 5
 
-    - Rad červenej hviezdy sa udeľuje aj generálom a dôstojníkom z povolania za 15 rokov obetavej a statočnej práce pri výstavbe československej ľudovej armády a ozbrojených súčastí Ministerstva vnútra.
+    - Rad červenej hviezdy možno udeliť vojakom z povolania a príslušníkom bezpečnostných sborov Ministerstva vnútra tiež za vynikajúce zásluhy pri zabezpečovaní vysokej bojaschopnosti a pripravenosti ozbrojených síl alebo bezpečnostných sborov Ministerstva vnútra preukazované najmenej 15 rokov.
 
   - Čl. 6
 
@@ -40,4 +40,4 @@
 
   - Čl. 8
 
-    - Rad červenej hviezdy sa nosí na ľavej strane pŕs za Radom červenej zástavy. Ak sa nosí len stužka radu, je napätá na pravouhlej lište 10 mm širokej a 38 mm dlhej.
+    - Rad červenej hviezdy sa nosí na ľavej strane pŕs za Radom červeného prápora práce. Ak sa nosí len stužka radu, je napätá na pravouhlej lište 10 mm širokej a 38 mm dlhej a je označená miniatúrou Radu červenej hviezdy.

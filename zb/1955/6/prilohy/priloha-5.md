@@ -22,7 +22,7 @@
 
   - Čl. 5
 
-    - Medaila Za službu vlasti sa udeľuje aj generálom a dôstojníkom z povolania za 5 rokov obetavej a statočnej práce pri výstavbe československej ľudovej armády a ozbrojených súčastí Ministerstva vnútra.
+    - Medailu Za službu vlasti možno udeliť vojakom z povolania a príslušníkom bezpečnostných sborov Ministerstva vnútra tiež za výtečnú, obetavú a príkladnú prácu v zverených funkciách pri výstavbe ozbrojených síl alebo bezpečnostných sborov Ministerstva vnútra po dobu najmenej 5 rokov.
 
   - Čl. 6
 

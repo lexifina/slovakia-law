@@ -22,7 +22,7 @@
 
   - Čl. 5
 
-    - Rad Červenej zástavy sa udeľuje tiež generálom a dôstojníkom z povolania za 20 rokov obetavej a statočnej práce pri výstavbe československej ľudovej armády a ozbrojených súčastí Ministerstva vnútra.
+    - Rad červenej zástavy možno udeliť vojakom z povolania a príslušníkom bezpečnostných sborov Ministerstva vnútra tiež za celoživotné mimoriadne zásluhy pri zabezpečovaní vysokej bojaschopnosti a pripravenosti ozbrojených síl alebo bezpečnostných sborov Ministerstva vnútra.
 
   - Čl. 6
 
@@ -34,4 +34,4 @@
 
   - Čl. 8
 
-    - Rad červenej zástavy sa nosí na ľavej strane pŕs za Radom republiky. Ak sa nosí len stužka radu, je napätá na pravouhlej lište 10 mm širokej a 38 mm dlhej.
+    - Rad červenej zástavy sa nosí na ľavej strane pŕs za Radom republiky. Ak sa nosí len stužka radu, je napätá na pravouhlej lište 10 mm širokej a 38 mm dlhej a je označená miniatúrou Radu červenej zástavy.
