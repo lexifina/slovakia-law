@@ -1,0 +1,1 @@
+- Kresba padesátníku: ![obrazok-01](../assets/9def9153a7298f7ecaace45e2665d9088a967a98834f9eb624f938f3bc4e8f4d.png)
