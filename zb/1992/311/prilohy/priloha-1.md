@@ -1,0 +1,1 @@
+- Príloha zákona SNR č. 311/1992 Zb.
