@@ -98,7 +98,7 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - l | – liter | |
 
-- SYSTEMATICKÁ ČASŤ KP | AGROPROD | Názov položky | MJ | JKP | CS
+- SYSTEMATICKÁ ČASŤ KP | AGROPROD | Názov položky | MJ | JKP | cs
 
 - 01.11.11 | | Pšenica tvrdá (cestovinárska) | | |
 
@@ -158,7 +158,7 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.11.13.1 | Kukurica na zrno (okrem osiva) | | |
 
-- | 01. 11.13.11 | Kukurica priemyselná | kg | 001 41 | 1005.90ex
+- | 01. 11.13.11 | Kukurica škrobárenská | kg | 001 41 | 1005.90ex
 
 - | 01. 11.13.12 | Kukurica potravinárska | kg | 001 42ex | 1005.90ex
 
@@ -830,11 +830,13 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.12.11.2 | Ostatná koreňová zelenina | | |
 
-- | 01.12.11.21 | Repa červená | kg | 024 12 | 0706.90.90ex
+- | 01.12.11.21 | Repa červená šalátová (cvikla) | kg | 024 12 | 0706.90.90ex
 
 - | 01.12.11.22 | Reďkovka | kg | 024 15 | 0706.90.90ex
 
 - | 01.12.11.23 | Chren | kg | 024 16 | 0706.90.30
+
+- | 01.12.11.24 | Reďkev siata | kg | 024 19ex | 0706.90.90ex
 
 - | 01.12.11.29 | Ostatná neuvedená koreňová | | |
 
@@ -866,7 +868,7 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.12.12.11 | Melóny cukrové | kg | 024 311 | 0807.19
 
-- | 01.12.12.12 | Melóny vodové | kg | 024 312 | 0807.11
+- | 01.12.12.12 | Dyňa červená | kg | 024 312 | 0807.11
 
 - | 01.12.12.2 | Uhorky | | |
 
@@ -878,9 +880,9 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.12.12.3 | Paradajky | | |
 
-- | 01.12.12.31 | Paradajky konzumné zrelé | kg | 024 351 | 0702ex
+- | 01.12.12.31 | Rajčiak konzumný zrelý | kg | 024 351 | 0702ex
 
-- | 01.12.12.32 | Paradajky priemyselné | kg | 024 352 | 0702ex
+- | 01.12.12.32 | Rajčiak priemyselný | kg | 024 352 | 0702ex
 
 - | 01.12.12.4 | Zelenina struková | | |
 
@@ -920,6 +922,8 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.12.13.34 | Kapusta čínska | kg | 024 29ex | 0704.90.10ex
 
+- | 01.12.13.35 | Kapusta pekinská | kg | 024 29ex | 0704.90.10ex
+
 - | 01.12.13.4 | Karfiol | | |
 
 - | 01.12.13.41 | Karfiol skorý a letný | kg | 024 24ex | 0704.10ex
@@ -950,7 +954,7 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.12.13.71 | Šalát hlávkový | kg | 024 51 | 0705.11
 
-- | 01.12.13.72 | Špenát listový | kg | 024 521 | 0709.70
+- | 01.12.13.72 | Špenát siaty | kg | 024 521 | 0709.70
 
 - | 01.12.13.79 | Ostatná neuvedená listová zelenina | kg | 024 5ex | 0705ex,
 
@@ -974,7 +978,7 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.12.13.93 | Špargľa | kg | 024 53 | 0709.20
 
-- | 01.12.13.94 | Kukurica lahôdková | kg | 001 42ex | 0709.90.60
+- | 01.12.13.94 | Kukurica cukrová | kg | 001 42ex | 0709.90.60
 
 - | 01.12.13.99 | Ostatná neuvedená zelenina i. n. | kg | - | 0709.1-
 
@@ -1218,7 +1222,7 @@ Príloha k opatreniu č. 339/1998 Z. z.
 
 - | 01.13.23.11 | Jablká oberané | kg | 021 111-2 | 0808.10ex
 
-- | 01.13.23.12 | Jablká padané | kg | 021 115 | 0808.10ex
+- | 01.13.23.12 | Jablká priemyselné | kg | 021 115 | 0808.10ex
 
 - | 01.13.23.13 | Hrušky | kg | 021 12 | 0808.20.10-
 
