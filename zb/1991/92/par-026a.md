@@ -1,7 +1,9 @@
-# § 26a
+# § 26a Odstúpenie od registrácie
 
-(1) Investičné fondy za investičné body prevzaté od majiteľa investičného kupónu nakúpia akcie s tým, že tieto akcie spolu s ostatnými takto nakúpenými akciami sa použijú na zvýšenie základného imania investičného fondu v súlade s osobitným predpisom.<sup>8</sup>) Investičný fond vydá majiteľom kupónov, ktorí mu odovzdali investičné body, svoje akcie v celkovej hodnote zodpovedajúcej takto zvýšenému základnému imaniu. Každý z týchto majiteľov má nárok na akcie investičného fondu v menovitej hodnote, ktorá zodpovedá pomeru počtu ním odovzdaných investičných bodov k celkovému počtu investičných bodov odovzdaných tomuto fondu. Spôsob ocenenia akcií nakúpených za investičné body ustanoví ministerstvo financií osobitným predpisom.
+(1) Každý majiteľ kupónovej knižky, ktorý sa v lehote určenej ministerstvom financií zaregistroval na poverenom registračnom mieste, má účasť na druhej vlne privatizácie a stal sa oprávneným majiteľom investičného kupónu, má právo svoju účasť na druhej vlne privatizácie odvolať.
 
-(2) Odovzdaním a prevzatím investičných bodov vzniká medzi majiteľom kupónu a investičným fondom zmluvný vzťah, ktorého obsahom sú vzájomné práva a povinnosti uvedené v odseku 1.
+(2) Odvolanie sa stane právoplatným doručením oznámenia ministerstvu financií opatreného vlastnoručným podpisom a doloženého kupónovou knižkou s potvrdenou registráciou, a to v lehote do 30. septembra 1995.
 
-(3) Zmluvou o prevode cenného papiera<sup>8a</sup>) je odovzdanie investičných bodov investičnému fondu spôsobom ustanoveným osobitným predpisom.
+(3) Ministerstvo financií na základe oznámenia o odvolaní účasti zruší registráciu majiteľa kupónovej knižky a vyradí ho zo zoznamu majiteľov kupónov podľa § 22 ods. 1 oprávnených na získanie dlhopisu.
+
+(4) Na základe vyradenia zo zoznamu majiteľov kupónov ministerstvo financií vráti odstupujúcemu majiteľovi kupónovej knižky zaplatený registračný poplatok v celkovej sume, a to najneskôr do 31. decembra 1995.
