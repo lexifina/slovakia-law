@@ -1,0 +1,1 @@
+Príloha č. 2 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 02 - Ohlásenie inkás a platieb týkajúcich sa emisie tuzemských cenných papierov v zahraničí (TCP)](../assets/8c1735fb0acc56dfb51eb5933736b137f5c64917a995736db71d130ac4a054e1.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 11 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 11 - Opravy vo výkazoch FORM 1 a 2](../assets/7fb6ab7bcf57f0bdca79b6d9c09560afa12391c15851ad4d4ff67adc9d608589.pdf)

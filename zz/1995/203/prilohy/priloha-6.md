@@ -1,0 +1,1 @@
+Príloha č. 6 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 06 - Ohlásenie dovozu a vývozu bankoviek a mincí v slovenskej a v cudzej mene v cestovnom styku, v poštovej alebo inej zásielke](../assets/f845b4bdb6dc1d7575ac6838a8739bd49a5426475a133568359653da9f203a6b.pdf)

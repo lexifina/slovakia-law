@@ -1,0 +1,1 @@
+Príloha č. 12 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 12 - Negarantované dlhy voči zahraničiu](../assets/933ededa210aebe75ebe1412b6e42dd84ae06fd6ff5db7f28341e036ec3900db.pdf)

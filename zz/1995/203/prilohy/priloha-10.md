@@ -1,0 +1,1 @@
+Príloha č. 10 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 10 - Jednotlivé štátne, štátom garantované a garantované dlhy voči zahraničiu - stav ku koncu obdobia a transakcie počas obdobia](../assets/3a4fc421dea81a7d64fcf156b5c0401986918a7d53743165b4ee54af974e95f6.pdf)
