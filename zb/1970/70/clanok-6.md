@@ -1,0 +1,3 @@
+# Článok 6
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia.
