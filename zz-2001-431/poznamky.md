@@ -1,0 +1,1 @@
+- 1) Príloha č. 1 k zákonu Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
