@@ -62,9 +62,15 @@
 
 - 10j) Vládne nariadenie č. 29/1959 Zb. o oprávneniach k cudzím nehnuteľnostiam pri stavbách a prevádzke podzemných potrubí pre pohonné látky a ropu.
 
+- 10ja) § 1 a 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
+
 - 10k) § 2 až 15, § 18 a 19 vyhlášky č. 465/1991 Zb.
 
+- 10ka) § 17 ods. 3 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
+
 - 10l) § 151n, 151o, 151p a 151r Občianskeho zákonníka.
+
+- 10m) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 282/1993 Z. z. o zmiernení niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam.
 
 - 11) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
 
