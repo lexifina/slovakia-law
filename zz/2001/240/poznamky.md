@@ -20,6 +20,8 @@
 
 - 9) § 158 Trestného poriadku.
 
+- 9a) Zákon č. 540/2001 Z. z. o štátnej štatistike.
+
 - 10) Napríklad zákon č. 268/2000 Z. z.
 
 - 11) Napríklad zákon č. 238/2001 Z. z. Colný zákon, zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení neskorších predpisov, zákon č. 239/2001 Z. z., zákon č. 264/1999 Z. z.
