@@ -1,0 +1,1 @@
+- *) Tu sa vyhlasuje slovenský preklad na strane 149 Prílohy Zbierky zákonov.
