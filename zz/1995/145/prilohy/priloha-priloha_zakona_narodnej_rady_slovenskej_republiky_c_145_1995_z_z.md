@@ -320,7 +320,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. od 15 rokov do 18 rokov .................................................................................................................................. | 4 000 Sk
 
-  - c) Udelenie štátneho občianstva Slovenskej republiky bývalým slovenským alebo československým štátnym občanom ................................................................... | 500 Sk
+  - c) Udelenie štátneho občianstva Slovenskej republiky bývalým slovenským alebo československým štátnym občanom ................................................................................................................................................... | 500 Sk
+
+  - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl.<sup>16a</sup>) |
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 

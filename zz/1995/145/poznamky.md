@@ -50,6 +50,8 @@
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
 
+- 16a) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+
 - 17) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 
 - 18) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
