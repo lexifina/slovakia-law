@@ -27,3 +27,5 @@
 - *) Vyhláška č. 54/1959 Ú. v. o hospodárení s oceľovými fľašami na technické plyny a na tekutý vyhrievací plyn.
 
 - *) Plánované zúčtovanie sa spravuje ustanovením bodu 105 a nasledujúcich Smerníc Štátnej banky čs. č. 170/1956 Ú. l. (Ú. v.) o platobnom a zúčtovacom styku.
+
+- *) Vyhláška ministerstva financií č. 204/1964 Zb. o fakturovaní a platení dodávok neinvestičnej povahy a úprava Ministerstva financií zo 14. decembra 1965 č. 117/54 583/1965.
