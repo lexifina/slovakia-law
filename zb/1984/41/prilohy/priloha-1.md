@@ -58,7 +58,7 @@ Príloha č. 1 vyhlášky č. 41/1984 Zb.
 
   - 5. Spaliny (výfukové plyny)
 
-    - a) objemový obsah kysličníka uhoľnatého (CO) v spalinách benzínových zážihových motorov;
+    - a) hodnoty koncentrácie oxidu uhoľnatého (CO) a množstvo nespálených uhľovodíkov (HC) vo výfukových plynoch zážihových motorov;
 
     - b) stupeň dymivosti zápalného naftového motora;
 

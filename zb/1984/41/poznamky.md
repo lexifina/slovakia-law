@@ -6,9 +6,9 @@
 
 - 4) § 7 zákona č. 42/1980 Zb. o hospodárskych stykoch so zahraničím.
 
-- 5) Zákon Českej národnej rady č. 58/1971 Zb. o určení ústredného orgánu štátnej správy vo veciach dopravy.
+- 5) Zákon ČNR č. 2/1969 Zb. o zriadení ministerstiev a iných ústredných orgánov štátnej správy Českej socialistickej republiky v znení ďalších zmien a doplnkov (úplné znenie č. 105/1991 Zb.).
 
-- 6) Zákon Slovenskej národnej rady č. 33/1971 Zb. o určení ústredného orgánu štátnej správy vo veciach dopravy v pôsobnosti Slovenskej socialistickej republiky.
+- 6) Zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky.
 
 - 7) Predpisy Európskej hospodárskej komisie Organizácie Spojených národov (ďalej len „EHK"), ktoré tvoria prílohy Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel - Ženeva 1958 (vyhláška ministra zahraničných vecí č. 176/1960 Zb.). České znenie možno objednať ako informačný materiál v Ústave pre výskum motorových vozidiel, Praha. Výklad uvedených predpisov podáva Federálne ministerstvo dopravy v spolupráci s príslušnou skúšobňou poverenou homologizáciou.
 
@@ -16,11 +16,17 @@
 
 - 9) Typy hasiacich prístrojov (§ 78) schvaľuje Ministerstvo vnútra ČSR - Halvná správa požiarnej ochrany alebo MInisterstvo vnútra SSR - Hlavná správa požiarnej ochrany podľa predpisov o požiarnej ochrane. tento orgán tiež ustanoví podrobnejšie podmienky týkajúce sa vyhotovenia, upevnenia na vozidle a kontroly hasiacich prístrojov.
 
+- 9a) Predpis EHK č. 67.
+
+- 9b) § 74 ods. 2 vyhlášky Ministerstva vnútra č. 145/1956 Ú. v. (Ú. l.) o premávke na cestách.
+
 - 10) Stavbu jednotlivého vozidla povoľuje podľa § 75 vyhlášky Ministerstva vnútra č. 145/1956 Ú.v. (Ú.l.) o premávke na cestách dopravný inšpektorát VB. Súhlas národného výboru je len jedným z podkladov pre rozhodnutie dopravného inšpektorátu VB.
 
 - 11) Prestavbu cestného motorového vozidla povoľuje podľa § 77 vyhlášky č. 145/1956 (Ú.v.) Ú.l. dopravný inšpektorát VB. Súhlas národného výboru je len jedným z podkladov pre rozhodnutie dopravného inšpektorátu VB.
 
 - 12) Vyhláška Federálneho ministerstva dopravy č. 60/1981 Zb. o hospodárnosti prevádzky cestných vozidiel na motorovú dopravu v znení vyhlášky č. 104/1982 Zb.
+
+- 12a) Vyhláška FMD č. 10/1991 Zb. o podmienkach prevádzky vozidiel poháňaných stlačeným plynom.
 
 - 13) § 26 a 27 zákona č. 51/1964 Zb. o dráhach. § 36 a 37 vyhlášky Ministerstva dopravy č. 52/1964 Zb., ktorou sa vykonáva zákon o dráhach. Vyhláška Federálneho ministerstva dopravy č. 18/1981 Zb. o schvaľovaní dráhových vozidiel a osobitných dráhových mechanizačných zariadení.
 
@@ -162,9 +168,11 @@
 
 - 74) ONA 30 1002.
 
-- 75) Predpis EHK č. 40 pre motocykle. Predpis EHK č. 47 pre mopedy. Predpis EHK č. 15 pre motorové vozidlá kategórie M1 a N1 podľa série zmien 0 3 a od 1.10.1985 podľa série zmien 0 4. V týchto predpisoch sú uvedené najvyššie prípustné hodnoty obsahu kysličníka uhoľnatého, kysličníka dusíka a uhľovodíky oxanového radu vo výfukových plynoch. Vykonávaním homologizačných skúšok je poverený ÚVMV.
+- 75) Predpis EHK č. 40, 47, 15 a 83. Vykonávaním homologizačných skúšok je poverený ÚVMV.
 
-- 76) Predpis EHK č. 24; vykonávaním homologizačných skúšok je poverený ÚVMV.
+- 75a) Množstvo CO, HC a NOx sa zisťuje podľa metodík predpisu EHK č. 83.
+
+- 76) Predpis EHK č. 24 a č. 49. Pokiaľ vozidlo kategórie M<sub>1</sub> a N<sub>1</sub> so zápalnými motormi nie je homologizované podľa týchto predpisov, musí sa homologizovať podľa predpisu EHK č. 83. Vykonávaním týchto homologizačných skúšok je poverený ÚVMV.
 
 - 77) Predpis EHK č. 49; vykonávaním homologizačných skúšok je poverený ÚVMV.
 
@@ -173,6 +181,8 @@
 - 79) Zábehom vozidla sa na tieto účely rozumie kilometrický prebeh vozidla v záručnej lehote do prehliadky určenej výrobcom, pri ktorej sa vozidlo nastavuje z hľadiska emisií škodlivín vo výfukových plynoch, najviac však do 3000 km.
 
 - 80) Obsah kysličníka uhoľnatého vo výfukových plynoch sa zisťuje podľa metodiky ÚVMV.
+
+- 80a) § 83 vyhlášky Ministerstva vnútra č. 145/1956 Ú. v. (Ú. l.).
 
 - 81) Predpis EHK č. 9 pre trojkolesové motorové vozidlá. Predpis EHK č. 41 pre motocykle. Predpis EHK č. 51 pre vozidlá kategórie M a N. vykonávaním homologizačných skúšok je poverený ÚVMV. Homologizačné skúšky mopedov vykonáva ÚVMV podľa návrhu Predpisu EHK, obsiahnutého v dokumente TRANS/SC 1/WP 29/R.261.
 
