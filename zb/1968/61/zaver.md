@@ -1,0 +1,3 @@
+Predseda:
+
+Poláček v. r.
