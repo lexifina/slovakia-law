@@ -1,1 +1,0 @@
-- 1) Zákon č. 142/1970 Zb. o devízovom hospodárstve a predpisy vydané na jeho vykonanie.
