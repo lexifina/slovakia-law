@@ -1,0 +1,3 @@
+# Článok I
+
+(Zrušený)
