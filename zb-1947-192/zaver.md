@@ -1,0 +1,1 @@
+Pre každú Mocnosť spojenú alebo sdruženú, ktorej ratifikačná listina sa uloží neskôr, smluva nadobudne účinnosť dňom uloženia. Táto smluva sa uloží v archívoch vlády Sväzu sovietskych socialistických republík, ktorá vydá overené odpisy každému zo signatárnych štátov.

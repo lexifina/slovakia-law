@@ -1,0 +1,3 @@
+# Článok 25.
+
+Nulita viedenskej arbitráže z 2. novembra 1938, ako je stanovená v článku 1. bod 4 tejto smluvy, má v zápätí nulitu dohôd ako aj zákonných dôsledkov, vyplývajúcich z nich, pokiaľ sa týkajú finančných otázok a verejného i súkromného poistenia, uzavretých podľa viedenskej arbitráže medzi obidvoma zúčastnenými štátmi alebo ich menom, alebo medzi československými a maďarskými právnickými osobami, tak i materiálu, odovzdaného podľa ustanovení protokolu z 22. mája 1940. Táto nulita sa nebude v nijakom prípade týkať vzťahov medzi fyzickými osobami. Podrobnosti vpredu spomenutého usporiadania budú upravené obojstrannými dohodami medzi zúčastnenými vládami do šiestich mesiacov odo dňa, keď táto smluva nadobudne účinnosť.
