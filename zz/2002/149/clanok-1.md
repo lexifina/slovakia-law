@@ -62,10 +62,6 @@ Nariadenie vlády Slovenskej republiky č. 392/1999 Z. z., ktorým sa ustanovuj�
 
 - „§ 6
 
-- (1)
-
-- Výrobca alebo dovozca zariadenia vydá vyhlásenie o zhode na základe posúdenia zhody vykonaného autorizovanou osobou.
-
 - (2)
 
 - Výrobca pred uvedením na trh posúdi zhodu zariadenia postupom podľa § 12 ods. 3 písm. a) zákona, vydá vyhlásenie o zhode a umiestni značku zhody podľa § 21 zákona.“.
