@@ -14,6 +14,8 @@ Dňa 17. decembra 1981 bola v Prahe podpísaná Dohoda medzi vládou Českoslove
 
 Dňom 18. apríla 1994 platí pre občanov Moldavskej republiky, Gruzínskej republiky, Arménskej republiky, Azerbajdžanskej republiky, Kazašskej republiky, Kirgizskej republiky, Tadžickej republiky a Turkménskej republiky pri vstupe na územie Slovenskej republiky vízová povinnosť (oznámenie č. 107/1994 Z. z.).
 
+Dňom 6. augusta 1994 stratila platnosť Dohoda medzi vládou ČSSR a vládou Zväzu sovietskych socialistických republík o podmienkach vzájomných ciest občanov oboch štátov podpísaná v Prahe 17. decembra 1981 vo vzťahu k Ruskej federácii (oznámenie č. 227/1994 Z. z.).
+
 Minister:
 
 Ing. Chňoupek v. r.
