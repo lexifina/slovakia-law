@@ -1,14 +1,30 @@
 - 1) Napríklad tyče, dosky, fólie, rúrky, profily, podlahové a nábytkové krytiny, umelé kože, pásy a remene.
 
+- 1) § 168 a 376 zákona.
+
 - 2) § 5 ods. 3 a 6 vyhlášky č. 33/1975 Zb. o prerokúvaní dodávateľsko-odberateľských vzťahov v plánovacom procese.
+
+- 2) § 29 Poštového poriadku - úprava Ústrednej správy spojov, registrovaná v čiastke 8/1968 Zb.
 
 - 3) Vyhláška č. 71/1965 Zb. o zavedení a využívaní jednotnej klasifikácie priemyslových odborov a výrobkov a jednotnej klasifikácie výrobkov v poľnohospodárstve a lesníctve a vyhláška č. 116/1972 Zb. o utváraní a udržiavaní odborových číselníkov priemyselných výrobkov.
 
+- 3) Vyhláška Ústrednej komisie ľudovej kontroly a štatistiky č. 71/1965 Zb. o zavedení a využívaní jednotnej klasifikácie priemyslových odborov a výrobkov a jednotnej klasifikácie výrobkov v poľnohospodárstve a lesníctve.
+
 - 4) V ČSR je dodávateľom Chemopetrol - koncernový podnik Benzina Praha, v SSR je dodávateľom n. p. Benzinol Bratislava.
+
+- 4) Vyhláška Ministerstva lesného a vodného hospodárstva Českej socialistickej republiky č. 6/1977 Zb. o ochrane akosti povrchových a podzemných vôd.
+
+- Vyhláška Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky č. 23/1977 Zb. o ochrane akosti povrchových a podzemných vôd.
 
 - 5) § 6 vyhlášky č. 11/1965 Zb. o hospodárení s obalmi pri dodávkach výrobkov.
 
+- 5) Poverenou organizáciou (odberateľom) na území Českej socialistickej republiky je Benzina, k.p., Praha, na území Slovenskej socialistickej republiky Benzinol, n.p., Bratislava.
+
 - 6) Pre tieto obaly platí odborová norma ON 49 3311.
+
+- 6) ČSN 83 0915 Ochrana vody pred ropnými látkami. Objekty pre manipuláciu s ropnými látkami a ich skladovanie.
+
+- ČSN 85 0201 Horľavé kvapaliny. Prevádzkárne a sklady.
 
 - 7) § 54 vyhlášky č. 132/1964 Zb. o železničnom prepravnom poriadku.
 
