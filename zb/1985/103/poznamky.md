@@ -10,12 +10,6 @@
 
 - 6) § 1 ods. 3, § 9, 10 a 11 zákona č. 145/1970 Zb. o národohospodárskom plánovaní.
 
-- 1) Odchylná úroková sadzba počas rokov 1985-1990 sa určí pri výraznej zmene úrokovej sadzby zo zahraničných úverov.
+- 7) § 382a ods. 3 Hospodárskeho zákonníka v znení zákona č. 98/1988 Zb.
 
-- 2) Vyššia sadzba o 2 % sa použije, pokiaľ nevyužité zásoby zistila Štátna banka československá bez predchádzajúceho upozornenia organizáciou.
-
-- 3) Pokiaľ vykonávajú obchodnú činnosť.
-
-- 4) Po zmene okamihu realizácie výroby.
-
-- 5) Úvery na investície na zveľadenie pôdneho fondu a niektoré ďalšie investície sa poskytujú s nižšou základnou úrokovou sadzbou (uznesenie vlády ČSSR č. 249/1981).
+- 8) Vyhláška Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 136/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve.
