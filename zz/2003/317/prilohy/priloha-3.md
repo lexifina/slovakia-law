@@ -6,13 +6,13 @@ Príloha č. 3 k nariadeniu vlády č. 317/2003 Z. z.
 
   - | Obsah tuku | Pomer kolagén: mäsové proteíny
 
-  - 1 . Chudé mleté mäso | 7 % | 12
+  - 1. Chudé mleté mäso | ≤ 7 % | ≤ 12
 
-  - 2. Mleté čisto hovädzie mäso | 20 % | 15
+  - 2. Mleté čisto hovädzie mäso | ≤ 20 % | ≤ 15
 
-  - 3. Mleté mäso, ktoré obsahuje bravčové mäso | 30 % | 18
+  - 3. Mleté mäso, ktoré obsahuje bravčové mäso | ≤ 30 % | ≤ 18
 
-  - 4. Mleté mäso iných druhov | 25 % | 15
+  - 4. Mleté mäso iných druhov | ≤ 25 % | ≤ 15
 
   - II. Mikrobiologické požiadavky na mleté mäso
 
