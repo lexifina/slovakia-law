@@ -68,13 +68,7 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 61. | | | 3 | povoľovanie užívania nehnuteľnosti pred začatím vyvlastňovacieho konania a rozhodovanie o náhrade škody spôsobenej na nehnuteľnosti, ktorá sa užívala
 
-62. | všeobecnej vnútornej správy | zák. č. 268/1949 Zb. | 3 | vedenie matrík a úloh s tým súvisiacich
-
-| | vyhl. č. 22/1977 Zb. | 1 ods. 1, 2 |
-
-63. | | vyhl. č. 22/1977 Zb. | 3 ods. 1 | ustanovovanie matrikára a jeho zástupcu
-
-64. | | Zbierka obežníkov KNV č. 33/1952 | I až IV | vedenie evidencie vojnových hrobov a vojenských cintorínov
+64. | všeobecnej vnútornej správy | Zbierka obežníkov KNV č. 33/1952 | I až IV | vedenie evidencie vojnových hrobov a vojenských cintorínov
 
 65. | | zák. č. 131/1989 Zb. | 13 | sprístupňovanie Zbierky zákonov
 
@@ -86,8 +80,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 | | vyhl. č. 71/1966 Zb. | 9 ods. 2 |
 
-69. | | zák. č. 94/1963 Zb. v znení zák. č. 132/1982 Zb. | 4 ods. 1 | prijímanie vyhlásenia o uzavretí manželstva
-
 70. | | | 4 ods. 2 | povoľovanie uzavrieť manželstvo pred iným obvodným úradom alebo na ktoromkoľvek vhodnom mieste
 
 71. | | | 4 ods. 3 | uzavretie manželstva pred ktorýmkoľvek obvodným úradom, ak je ohrozený život toho, kto chce uzavrieť manželstvo
@@ -97,22 +89,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 73. | | | 52 ods. 2 | prijímanie súhlasného vyjadrenia rodičov o určení otcovstva
 
 74. | | | 53 | prijímanie súhlasného vyhlásenia rodičov o určení otcovstva k ešte nenarodenému dieťaťu, ak je už počaté
-
-76. | | vyhl. č. 22/1977 Zb. | 1 ods. 1 | vedenia matrík a úloh s tým spojených
-
-77. | | | 3 ods. 1 | ustanovovanie matrikára a jeho zástupcu
-
-78. | | | 4 ods. 1 | povoľovanie uzavretia manželstva pred iným národným výborom povereným vedením matrík alebo na hociktorom vhodnom mieste
-
-79. | | | 48 ods. 4 | pripustenie, pripadne upustenie od predloženia ťažko zaobstarateľných dokladov potrebných na uzavretie manželstva
-
-80. | | | 48 ods. 5 | vedenie dokladov potrebných na uzavretie manželstva
-
-81. | | | 53 ods. 1 | prijímanie oznámenia o opätovnom prijímaní priezviska, ktoré mal občan pred uzavretím manželstva
-
-82. | | | 53 ods. 2 | vydávanie potvrdení o tom, že oznámenie o opätovnom prijatí predošlého priezviska sa vzalo na vedomie a poznamenalo v knihe manželstiev
-
-83. | | | 62 | vykonávanie výmeny matrík podľa medzinárodných zmlúv a vyhotovenie výpisov z matrík
 
 85. | | zák. SNR č. 372/1990 Zb. | 53 ods. 1 | prejednávanie priestupkov
 
