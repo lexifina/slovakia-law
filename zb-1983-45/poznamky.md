@@ -1,0 +1,1 @@
+- 1) Pozri § 34 písm. e) zákona č. 133/1970 Zb.
