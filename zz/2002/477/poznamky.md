@@ -6,6 +6,8 @@
 
 - 4) Príloha č. 1 až 3 zákona č. 455/1991 Zb.
 
+- 4a) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 445/2003 Z. z.
+
 - 5) § 2 ods. 3 až 5 zákona č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
 
 - 6) § 2 ods. 6 a 7 zákona č. 313/2001 Z. z.
@@ -13,6 +15,8 @@
 - 7) Napríklad § 2 ods. 3 zákona č. 313/2001 Z. z., § 50 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon č. 216/2002 Z. z. o povolaní lekárnika, o Slovenskej lekárnickej komore a o doplnení zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov, zákon č. 219/2002 Z. z. o povolaní lekára, o Slovenskej lekárskej komore, o povolaní zubného lekára, o Slovenskej komore zubných lekárov a o zmene a doplnení niektorých zákonov.
 
 - 8) Napríklad zákon č. 313/2001 Z. z., zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 8a) Napríklad zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
 
 - 9) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
 
