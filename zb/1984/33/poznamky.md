@@ -17,3 +17,11 @@
 - 7) Jednotné metodické pokyny pre vypracovanie návrhu päťročného plánu na roky 1981-1985 a návrhu vykonávacieho plánu na rok 1981 - ŠPK č. 70200/80, FMF č. III/715/80 príloha I oddiel II časť 12 - plán stavebníctva (reg. v čiastke 18/1980 Zb.).
 
 - 8) Vyhláška predsedu Štátnej banky československej a Federálneho ministerstva financií č. 118/1972 Zb. o pokladničných operáciách v socialistických organizáciách v znení vyhlášok č. 10/1978 Zb. a č. 91/1980 Zb.
+
+- 9) Písm. l) prílohy vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 236/1988 Zb. o iných úkonoch vo všeobecnom záujme.
+
+- 10) Zákon č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení zákona č. 102/1988 Zb. (úplné znenie č. 184/1988 Zb.). Zákon č. 88/1988 Zb. o štátnom podniku.
+
+- Zákon č. 90/1988 Zb. o poľnohospodárskom družstevníctve.
+
+- Zákon č. 94/1988 Zb. o bytovom, spotrebnom a výrobnom družstevníctve.
