@@ -1,139 +1,93 @@
-[Příloha 01](../assets/1f75d764abdfb716935281b55e432259fe1337b748724b9a20617e73c6104a26.pdf)
-
 Príloha
 
 nariadenia vlády Slovenskej republiky č. 166/1994 Z. z.
 
 ZARIADENIE ÚZEMIA DO JEDNOTLIVÝCH KATEGÓRIÍ PODĽA ÚZEMNÝCH OBVODOV OKRESNÝCH ÚRADOV SLOVENSKEJ REPUBLIKY
 
-1. Do kategórie I sa zaraďujú územné obvody |
+1. Do kategórie I sa zaraďujú územné obvody
 
-Bratislava I | Levice
+Bratislava I | Košice III
 
-Bratislava II | Martin
+Bratislava II | Košice IV
 
-Bratislava III | Nováky
+Bratislava III | Levice
 
-Bratislava IV | Piešťany
+Bratislava IV | Ružomberok
 
-Bratislava V | Šaľa
+Bratislava V | Trnava
 
-Hlohovec | Trnava
+Košice I | Žilina
 
-Košice IV | Vráble
+Košice II |
 
-Kráľovský Chlmec | Zlaté Moravce
+2. Do kategórie II sa zaraďujú územné obvody
 
-&nbsp | Žilina
+Banská Bystrica | Piešťany
 
-2. Do kategórie II sa zaraďujú územné obvody |
+Galanta | Poprad
 
-Banská Bystrica | Nová Baňa
+Hlohovec | Prešov
 
-Galanta | Nové Mesto nad Váhom
+Humenné | Púchov
 
-Holíč | Ružomberok
+Košice-okolie | Senica
 
-Košice I | Senec
+Martin | Šaľa
 
-Košice II | Senica
+Nitra | Trenčín
 
-Košice III | Sereď
+Nové Zámky | Zlaté Moravce
 
-Košice V | Sládkovičovo
+3. Do kategórie III sa zaraďujú územné obvody
 
-Michalovce | Svit
+Čadca | Ilava
 
-Modra | Šahy
-
-Myjava | Veké Kapušany
-
-Nitra | Želiezovce
-
-3. Do kategórie III sa zaraďujú územné obvody |
-
-Banská Štiavnica | Kolárovo
-
-Brezno | Komárno
-
-Bytča | Kramnica
-
-Detva | Krompachy
-
-Dolný Kubín | Krupina
-
-Dubnica nad Váhom | Liptovský Hrádok
+Dolný Kubín | Komárno
 
 Dunajská Streda | Liptovský Mikuláš
 
-Handlová | Malacky
+Lučenec | Spišská Nová Ves
 
-Hurbanovo | Námestovo
+Malacky | Topoľčany
 
-Nové Zámky | Šamorín
+Michalovce | Trebišov
 
-Poprad | Šurany
+Nové Mesto nad Váhom | Tvrdošín
 
-Považská Bystrica | Topoľčany
+Partizánske | Veľký Krtíš
 
-Prešov | Trenčín
+Pezinok | Vranov nad Topľou
 
-Prievidza | Turčianske Teplice
+Považská Bystrica | Zvolen
 
-Puchov | Veľký Meder
+Prievidza | Žarnovica
 
-Skalica | Vranov nad Topľou
+Rimavská Sobota | Žiar nad Hronom
 
-Sobrance | Zvolen
+4. Do kategórie IV sa zaraďujú územné obvody
 
-Stará Turá | Žarnovica
+Bánovce nad Bebravou | Námestovo
 
-Stupava | Žiar nad Hronom
+Banská Štiavnica | Poltár
 
-Svidník | &nbsp
+Bardejov | Revúca
 
-4. Do kategórie IV sa zaraďujú územné obvody |
+Brezno | Rožňava
 
-Bánovce nad Bebravou | Pezinok
+Bytča | Sabinov
 
-Bardejov | Plešivec
+Detva | Senec
 
-Bidovce | Poltár
+Gelnica | Skalica
 
-Čadca | Raj e c
+Kežmarok | Snina
 
-Čaňa | Revúca
+Krupina | Sobrance
 
-Dobčiná | Rimavská Sobota
+Kysucké Nové Mesto | Stará Ľubovňa
 
-Fiľakovo | Rožňava
+Levoča | Stropkov
 
-Gelnica | Sabinov
+Medzilaborce | Svidník
 
-Giraltovce | Sečovce
-
-Hanušovce nad Topľou | Snina
-
-Hnúšťa | Spišská Nová Ves
-
-Humenné | Spišská Stará Ves
-
-Ilava | Stará Ľubovňa
-
-Kežmarok | Starý Smokovec
-
-Kysucké Nové Mesto | Stropkov
-
-Levoča | Štúrovo
-
-Lipany | Tornaľa
-
-Lučenec | Trebišov
-
-Medzilaborce | Trstená
-
-Moldava nad Bodvou | Turzovka
-
-Partizánske | Tvrdošín
-
-&nbsp | Veľký Krtíš
+Myjava | Turčianske Teplice
