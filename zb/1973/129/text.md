@@ -17,3 +17,11 @@ Podľa svojho článku VII nadobudla dohoda platnosť 19. decembrom 1972.
 Minister:
 
 Ing. Chňoupek v. r.
+
+Za Československú socialistickú republiku:
+
+Ing. Ivan Peter v. r.
+
+Za Austrálske spoločenstvo:
+
+John D. Anthony v. r.
