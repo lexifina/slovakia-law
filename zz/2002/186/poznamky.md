@@ -1,0 +1,1 @@
+- 1) V súčasnosti je horná hranica pomoci de minimis Spoločenstva podľa nariadenia Komisie (ES) č. 69/2001 z 12. januára 2001 o uplatňovaní článkov 87 a 88 Zmluvy o ES pre pomoc de minimis (Úradný vestník L 10, 13. 1. 2001, str. 30) spolu 100 000 EUR na firmu počas akéhokoľvek trojročného obdobia.
