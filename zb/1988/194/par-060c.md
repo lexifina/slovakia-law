@@ -1,6 +1,6 @@
-# § 103
+# § 60c
 
-Federálny cenový úrad navrhuje vláde Československej socialistickej republiky
+Federálne ministerstvo financií navrhuje vláde Československej socialistickej republiky
 
 - a) pravidlá štátneho riadenia cien;
 

@@ -1,6 +1,6 @@
-# § 102
+# § 60b
 
-Federálny cenový úrad vypracúva
+Federálne ministerstvo financií vypracúva
 
 - a) zásady cenovej politiky ako súčasť prípravy štátneho päťročného plánu a zabezpečuje jej jednotné uskutočňovanie;
 
