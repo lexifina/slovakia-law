@@ -8,6 +8,8 @@
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
+- 5a) § 10 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+
 - 6) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 7) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
