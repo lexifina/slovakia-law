@@ -1,1 +1,0 @@
-- 1) § 7 a 8 zákona č. 142/1970 Zb. o devízovom hospodárstve.
