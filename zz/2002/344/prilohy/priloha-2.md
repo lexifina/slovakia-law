@@ -97,3 +97,15 @@
   - 2. ako orgán na vydávanie osvedčení podľa článku 40:
 
   - Orphan's Courts and Parish Courts of the Republic of Latvia (opatrovnícke súdy a obvodné súdy Lotyšskej republiky).
+
+  - Estónsko
+
+  - a) Dohovor pre Estónsko nadobudne platnosť 1. júna 2003.
+
+  - b) Listina o prístupe Estónska k dohovoru obsahuje tieto vyhlásenia a výhradu:
+
+  - „1. Podľa článku 29 dohovoru Estónska republika určuje ako ústredný orgán Ministerstvo spravodlivosti.
+
+  - 2. Podľa článku 34 ods. 2 dohovoru Estónska republika oznamuje, že žiadosti podľa odseku 1 tohto článku sa orgánom Estónskej republiky smú zasielať len prostredníctvom jej ústredného orgánu.
+
+  - Podľa článku 60 ods. 1 dohovoru Estónska republika uplatňuje výhradu k článku 54, že každá písomnosť zasielaná ústrednému orgánu Estónskej republiky má byť v pôvodnom jazyku s pripojeným prekladom do anglického jazyka.
