@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 188/1997 Z. z. [Vzor 02 - Potvrdenie o úhrade príspevku do dovozného fondu Exportno-importnej banky Slovenskej republiky](../assets/df74a986b7029c65b6857c6eaaeabff58fabe33a537d1638eb1ecf127ed26d41.pdf)
