@@ -1,1 +1,0 @@
-- 1) § 27 zákona o sociálnom zabezpečení.
