@@ -14,6 +14,10 @@
 
 - 6) Zákon č. 142/1991 Zb. o česko-slovenských technických normách v znení zákona č. 632/1992 Zb.
 
+- 6a) § 5 ods. 7 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.
+
+- 6b) § 5 ods. 9 až 12 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.
+
 - 7) § 5 ods. 4 zákona o ovzduší v znení neskorších predpisov.
 
 - 8) § 18 zákona o ovzduší v znení neskorších predpisov.
@@ -22,9 +26,15 @@
 
 - 9a) § 74 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona Slovenskej národnej rady č. 419/1991 Zb. a zákona Slovenskej národnej rady č. 295/1992 Zb.
 
+- 9b) § 5 ods. 8 a 12 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.
+
 - 10) § 15 zákona o ovzduší.
 
 - 11) § 45 a 46 zákona SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+
+- 11a) § 5 ods. 8 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.
+
+- 11b) § 20 ods. 5 a 6 zákona č. 309/1991 Zb. v znení zákona č. 393/1998 Z. z.
 
 - 12) § 3 ods. 2 písm. c) a § 8 zákona o ovzduší v znení neskorších predpisov.
 
