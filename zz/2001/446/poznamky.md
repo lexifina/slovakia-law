@@ -4,9 +4,11 @@
 
 - 3) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
 
+- 3a) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+
 - 4) Napríklad zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
-- 5) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 5) Zákon č. 431/2002 Z. z. o účtovníctve.
 
 - 6) § 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
@@ -39,5 +41,11 @@
 - 18) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 19) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov a zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 19a) § 281 až 288 Obchodného zákonníka.
+
+- 19b) § 116 Občianskeho zákonníka.
+
+- 19c) Napríklad § 140 Občianskeho zákonníka.
 
 - 20) Napríklad Občiansky zákonník v znení neskorších predpisov, Obchodný zákonník v znení neskorších predpisov.
