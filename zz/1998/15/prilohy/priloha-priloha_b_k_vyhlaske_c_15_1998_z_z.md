@@ -160,12 +160,6 @@ Príloha B k vyhláške č. 15/1998 Z. z.
 
   - Výrobky chemického priemyslu a príbuzných priemyselných odvetví vrátane farmaceutických výrobkov | | | |
 
-  - 3002 10 | antiséra a iné krvné zložky | kg | | okrem EU, EZVO a ČR
-
-  - 3002 90 10 | ľudská krv | kg | | okrem EU, EZVO a ČR
-
-  - 3003 a 3004 | lieky | mil. Sk | 100 | okrem EU, EZVO a ČR
-
   - Surové kože a uši | | | |
 
   - | surové hovädzie kože: | tona | 1 000 | okrem EU, EZVO a ČR

@@ -4,7 +4,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - Položka colného sadzobníka | Názov tovaru | Kategória | Merná jednotka
 
-- 1211 90 95 | Rastliny, časti rastlín, semená, plody, z toho len | | kg
+- 1211 90 95 | Rastliny, casti rastlín, semená, plody, z toho len | | kg
 
 - | - koka - list | (1) |
 
@@ -12,7 +12,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 1302 11 00 | Ópium | (1) | kg
 
-- 1302 19 99 | Ostatné rastlinné šťavy a výťažky, z toho len | | kg
+- 1302 19 99 | Ostatné rastlinné štavy a výtažky, z toho len | | kg
 
 - | - koncentrát z toboliek a slamy maku | (1) |
 
@@ -34,9 +34,9 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - selenovodík | (2) |
 
-- 2811 29 90 | Ostatné anorganické zlúčeniny nekovov, z toho len | | kg
+- 2811 29 90 | Ostatné anorganické zlúceniny nekovov, z toho len | | kg
 
-- | - oxid seleničitý | (2) |
+- | - oxid selenicitý | (2) |
 
 - 2812 90 00 | Ostatné halogenidy a halogenid-oxidy nekovov, z toho len | | kg
 
@@ -56,21 +56,21 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2833 29 70 | Sírany olova a ortuti | (6) | kg
 
-- 2836 70 00 | Uhličitan olovnatý | (6) | kg
+- 2836 70 00 | Uhlicitan olovnatý | (6) | kg
 
 - 2841 61 00 | Manganistan draselný | (4) | tona
 
-- 2842 90 10 | Soli, podvojné soli alebo komplexné soli kyseliny seleničitej | | kg
+- 2842 90 10 | Soli, podvojné soli alebo komplexné soli kyseliny selenicitej | | kg
 
-- | alebo teluričitej, z toho len | |
+- | alebo teluricitej, z toho len | |
 
 - | - selenan sodný | (2) |
 
-- | - teluričitany | (2) |
+- | - teluricitany | (2) |
 
-- 2843 90 90 | Ostatné zlúčeniny, amalgámy drahých kovov, z toho len | | kg
+- 2843 90 90 | Ostatné zlúceniny, amalgámy drahých kovov, z toho len | | kg
 
-- | - oxid osmičelý | (2) |
+- | - oxid osmicelý | (2) |
 
 - 2845 90 10 | Tetradeuterometanol | (2) | kg
 
@@ -82,15 +82,15 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2850 00 | Hydridy, nitridy, azidy, silicidy a boridy, chemicky defino- | | kg
 
-- | vané i nedefinované, iné ako zlúčeniny, ktoré sú tiež karbidy | |
+- | vané i nedefinované, iné ako zlúceniny, ktoré sú tiež karbidy | |
 
-- | čísla 2849, z toho len | |
+- | císla 2849, z toho len | |
 
 - | - pentabóran | (2) |
 
 - | - arzenovodík | (2) |
 
-- 2851 00 80 | Ostatné anorganické zlúčeniny, amalgámy, iné ako amalgá- | |
+- 2851 00 80 | Ostatné anorganické zlúceniny, amalgámy, iné ako amalgá- | |
 
 - | my drahých kovov, z toho len | |
 
@@ -130,7 +130,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | fenyly | |
 
-- 2904 20 | Deriváty uhľovodíkov obsahujúce len nitro- alebo | (6) | kg
+- 2904 20 | Deriváty uhlovodíkov obsahujúce len nitro- alebo | (6) | kg
 
 - | nitrózo skupinu | |
 
@@ -172,7 +172,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2910 90 00 | Ostatné epoxidy, epoxyalkoholy, epoxyfenoly a epo- | | kg
 
-- | xyétery s trojčlánkovým kruhom a ich halogén-, sulfo- | |
+- | xyétery s trojclánkovým kruhom a ich halogén-, sulfo- | |
 
 - | , nitro- alebo nitrózoderiváty, z toho len | |
 
@@ -218,7 +218,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - vínan antimonyldraselný | (2) |
 
-- 2919 00 90 | Ostatné fosforečné estery a ich soli vrátane laktofosfá- | | kg
+- 2919 00 90 | Ostatné fosforecné estery a ich soli vrátane laktofosfá- | | kg
 
 - | tov, ich halogén-, sulfo-, nitro- alebo nitrózoderiváty, | |
 
@@ -234,7 +234,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - tris-(2,3-dibrómpropyl)fosfát | (6) |
 
-- 2920 10 00 | Tiofosforečné estery a ich soli, ich halogén-, sulfo-, nitro- | | kg
+- 2920 10 00 | Tiofosforecné estery a ich soli, ich halogén-, sulfo-, nitro- | | kg
 
 - | alebo nitrózoderiváty, z toho len | |
 
@@ -340,7 +340,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2922 22 00 | 3,4-metyléndioxyamfetamín (MDA) | (3) | kg
 
-- 2922 29 00 | Ostatné aminozlúčeniny s kyslíkatou funkciou, z toho len | | kg
+- 2922 29 00 | Ostatné aminozlúceniny s kyslíkatou funkciou, z toho len | | kg
 
 - | - 2,5-dimetoxy-4-metylamfetamín | (3) |
 
@@ -382,7 +382,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2922 50 00 | Aminoalkoholfenoly, aminokyselinofenoly a iné ami- | | kg
 
-- | nozlúčenlny s kyslí katou funkciou, z toho len | |
+- | nozlúcenlny s kyslí katou funkciou, z toho len | |
 
 - | - dimenoxadol | (D |
 
@@ -410,9 +410,9 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | kyselina) | |
 
-- 2924 29 90 | Ostatné zlúčeniny s karboxyamidovou funkciou, | | kg
+- 2924 29 90 | Ostatné zlúceniny s karboxyamidovou funkciou, | | kg
 
-- | zlúčeniny kyseliny uhličitej s amidovou funkciou, z | |
+- | zlúceniny kyseliny uhlicitej s amidovou funkciou, z | |
 
 - | toho len | |
 
@@ -424,7 +424,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2926 90 10 | Acetónkyánhydrín | (2) | kg
 
-- 2926 90 99 | Ostatné zlúčeniny s nitrilovou funkciou, z toho len | | kg
+- 2926 90 99 | Ostatné zlúceniny s nitrilovou funkciou, z toho len | | kg
 
 - | - benzaldehydkyánhydrín | (2) |
 
@@ -442,9 +442,9 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - propionitril | (2) |
 
-- | - etylester kyseliny kyánomravčej | (2) |
+- | - etylester kyseliny kyánomravcej | (2) |
 
-- | - metylester kyseliny kyánomravčej | (2) |
+- | - metylester kyseliny kyánomravcej | (2) |
 
 - | - metadón - medziprodukt | (D |
 
@@ -458,7 +458,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - flucythrinate | (2) |
 
-- 2927 00 00 | Diazo-, azo- alebo azoxyzlúčeniny, z toho len | | kg
+- 2927 00 00 | Diazo-, azo- alebo azoxyzlúceniny, z toho len | | kg
 
 - | - diazometán | (6) |
 
@@ -468,19 +468,19 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - fenylhydrazín | (6) |
 
-- 2930 90 70 | Ostatné organické zlúčeniny síry, z toho len | | kg
+- 2930 90 70 | Ostatné organické zlúceniny síry, z toho len | | kg
 
 - | - benzylrodanid | (2) |
 
 - | - etylrodanid | (2) |
 
-- | - N-fenyltiomočovina | (2) |
+- | - N-fenyltiomocovina | (2) |
 
 - | - bis(2-chlóretyl)sulfid | (2) |
 
-- | - 4-chlórfenyldiazotiomočovina | (2) |
+- | - 4-chlórfenyldiazotiomocovina | (2) |
 
-- | - alfa-naftyltiomočovina | (2) |
+- | - alfa-naftyltiomocovina | (2) |
 
 - | - tetrametyléndisulfotetramín | (2) |
 
@@ -508,13 +508,13 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - tetrametyléndisulfotetramín | (2) |
 
-- 2931 00 95 | Ostatné organicko-anorganické zlúčeniny, z toho len | | kg
+- 2931 00 95 | Ostatné organicko-anorganické zlúceniny, z toho len | | kg
 
-- | - trialkylolovičité soli | (2) |
+- | - trialkylolovicité soli | (2) |
 
 - | - pentakarbonyl železa | (2) |
 
-- | - alkylzlúčeniny ortuti | (2) |
+- | - alkylzlúceniny ortuti | (2) |
 
 - | - tetraetylolovo | (2) |
 
@@ -528,11 +528,11 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - bis-tributylcínoxid | (2) |
 
-- | - alkoxylalkyl a arylzlúčeniny ortuti | (6) |
+- | - alkoxylalkyl a arylzlúceniny ortuti | (6) |
 
-- | - organické zlúčeniny cínu | (6) |
+- | - organické zlúceniny cínu | (6) |
 
-- 2932 19 00 | Ostatné zlúčeniny obsahujúce v štruktúre nekondenzovaný | | kg
+- 2932 19 00 | Ostatné zlúceniny obsahujúce v štruktúre nekondenzovaný | | kg
 
 - | furánový kruh (hydrogenovaný alebo nehydrogenovaný), | |
 
@@ -566,7 +566,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - 3,4-metyléndioxymetamfetamín (MDMA) | (3) | kg
 
-- 2932 99 90 | Heterocyklické zlúčeniny len s kyslíkatými heteroatómami, | | kg
+- 2932 99 90 | Heterocyklické zlúceniny len s kyslíkatými heteroatómami, | | kg
 
 - | z toho len | |
 
@@ -580,7 +580,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2933 32 00 | Piperidín a jeho soli | (4) | kg
 
-- 2933 39 95 | Ostatné zlúčeniny obsahujúce v štruktúre nekondenzovaný | |
+- 2933 39 95 | Ostatné zlúceniny obsahujúce v štruktúre nekondenzovaný | |
 
 - | pyridínový kruh (hydrogenovaný alebo nehydrogeno- | |
 
@@ -660,7 +660,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2933 51 20 | Fenobarbital (INN) ajeho soli, barbital (INN) ajeho soli | (3) | kg
 
-- 2933 51 90 | Malonylmočovina (kyselina barbiturová) a jej deriváty, | | kg
+- 2933 51 90 | Malonylmocovina (kyselina barbiturová) a jej deriváty, | | kg
 
 - | jej soli, | |
 
@@ -748,7 +748,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - triazolam | (3) |
 
-- 2933 90 95 | Ostatné heterocyklické zlúčeniny len s dusíkatými heteroa- | | kg
+- 2933 90 95 | Ostatné heterocyklické zlúceniny len s dusíkatými heteroa- | | kg
 
 - | tómami, nukleové kyseliny a ich soli, z toho len | |
 
@@ -802,7 +802,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - beta-hydroxy-3-metylfentanyl | (D |
 
-- 2934 90 89 | Ostatné zlúčeniny obsahujúce v štruktúre pyrimidonový | | kg
+- 2934 90 89 | Ostatné zlúceniny obsahujúce v štruktúre pyrimidonový | | kg
 
 - | kruh (hydrogenovaný alebo nehydrogenovaný) alebo pipe- | |
 
@@ -818,7 +818,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - | - metachalón | (3) |
 
-- 2934 90 97 | Ostatné heterocyklické zlúčeniny, z toho len | | kg
+- 2934 90 97 | Ostatné heterocyklické zlúceniny, z toho len | | kg
 
 - | - pyrolidínditiokarbamát sodný | (D |
 
@@ -956,7 +956,7 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 2939 63 00 | Kyselina lysergová a jej soli | (4) | kg
 
-- 2939 69 00 | Ostatné alkaloidy žitného námeľa a ich deriváty, ich soli, z | | kg
+- 2939 69 00 | Ostatné alkaloidy žitného námela a ich deriváty, ich soli, z | | kg
 
 - | toho len | |
 
@@ -990,11 +990,13 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 
 - 8112 99 90 | Tálium | |
 
-- Vysvetlivky: (1) omamné látky (2) zvlášť nebezpečné jedy (3) psychotropné látky (4) prekurzory (5) pomocné chemické látky (6) ostatné jedy a špecifické karcinogénne látky ČASŤ II - RÁDIOAKTÍVNE LÁTKY
+- Vysvetlivky: (1) omamné látky (2) zvlášt nebezpecné jedy (3) psychotropné látky (4) prekurzory (5) pomocné chemické látky (6) ostatné jedy a špecifické karcinogénne látky
+
+- ČASŤ II - RÁDIOAKTÍVNE LÁTKY
 
 - Položka colného sadzobníka | Názov tovaru | Kategória | Merná jednotka
 
-- 2844 40 | Rádioaktívne prvky a izotopy a zlúčeniny, iné ako | | kg
+- 2844 40 | Rádioaktívne prvky a izotopy a zlúceniny, iné ako | | kg
 
 - | položiek 2844 10, 2844 20 alebo 2844 30 | |
 
@@ -1197,6 +1199,20 @@ Príloha D k vyhláške č. 15/1998 Z. z.
 - | brómdifluórpropán | |
 
 - | brómfluórpropán | |
+
+- 3002 | ľudská krv; živocíšna krv pripravená na | | kg
+
+- | terapeutické, profylaktické alebo na diagnostické | |
+
+- | úcely; antiséra a ostatné krvné zložky | |
+
+- | a modifikované imunologické výrobky, tiež získané | |
+
+- | biotechnologickými procesmi; ockovacie látky, | |
+
+- | toxíny, kultúry mikroorganizmov (okrem | |
+
+- | kvasiniek) a podobné výrobky | |
 
 - ČASŤ IV - OSTATNÉ
 
