@@ -20,7 +20,9 @@
 
 - a) skončené vysokoškolské vzdelanie v lekárskom, farmaceutickom, technickom alebo v prírodovednom odbore štúdia a najmenej trojročná odborná prax alebo
 
-- b) skončené bakalárske štúdium v technickom alebo v prírodovednom odbore štúdia a najmenej päťročná odborná prax.
+- b) skončené bakalárske štúdium v technickom alebo v prírodovednom odbore štúdia a najmenej päťročná odborná prax alebo
+
+- c) skončené stredné odborné vzdelanie a najmenej sedemročná odborná prax.
 
 (4) Požadovanou kvalifikáciou a odbornou praxou na vykonávanie činností uvedených v § 17f ods. 3 a 4 sa rozumie
 

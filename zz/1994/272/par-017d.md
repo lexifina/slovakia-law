@@ -14,7 +14,7 @@
 
 (4) Objemové aktivity vybraných prírodných rádionuklidov v dodávanej vode nesmú prekročiť hodnoty, ktoré ustanovuje všeobecne záväzný právny predpis vydaný podľa § 17y písm. h). Ak voda obsahuje viac rádionuklidov, nesmie byť súčet podielov objemových aktivít jednotlivých rádionuklidov a hodnôt, ktoré ustanovuje všeobecne záväzný právny predpis vydaný podľa § 17y písm. h), väčší ako jeden.
 
-(5) Fyzické osoby oprávnené na podnikanie a právnické osoby, ktorých predmetom činnosti je výstavba stavieb uvedených v odseku 2, sú povinné
+(5) Fyzické osoby oprávnené na podnikanie a právnické osoby, ktoré sú stavebníkom<sup>6ab</sup>) stavieb uvedených v odseku 2, sú povinné
 
 - a) pred výstavbou stavieb zabezpečiť meranie a hodnotenie objemovej aktivity radónu v pôdnom vzduchu a priepustnosti základových pôd stavebného pozemku, viesť evidenciu výsledkov merania a uchovávať ju najmenej päť rokov od skončenia výstavby,
 

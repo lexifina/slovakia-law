@@ -16,19 +16,19 @@
 
 - e) odber zdrojov ionizujúceho žiarenia triedy 6, ktoré sú rádioaktívnymi žiaričmi,
 
-- f) prepravu zdrojov ionizujúceho žiarenia triedy 6, ktoré sú rádioaktívnymi žiaričmi,
+- f) prepravu zdrojov ionizujúceho žiarenia triedy 6, ktoré sú rádioaktívnymi žiaričmi, rádioaktívnych látok, rádioaktívne kontaminovaných materiálov, predmetov a zariadení z pracovísk so zdrojmi ionizujúceho žiarenia triedy 6,
 
 - g) výrobu zdrojov ionizujúceho žiarenia triedy 1 až 6,
 
-- h) dovoz, vývoz, distribúciu, predaj a prenájom zdrojov ionizujúceho žiarenia triedy 1 až 6 okrem zdrojov ionizujúceho žiarenia označených značkou zhody,<sup>6d</sup>)
+- h) dovoz, vývoz, distribúciu, predaj a prenájom zdrojov ionizujúceho žiarenia triedy 2 až 6 okrem zdrojov ionizujúceho žiarenia označených značkou zhody,<sup>6d</sup>)
 
-- i) vykonávanie údržby a opráv zdrojov ionizujúceho žiarenia triedy 1 až 6,
+- i) vykonávanie údržby a opráv zdrojov ionizujúceho žiarenia triedy 2 až 6,
 
-- j) vykonávanie skúšok zdrojov ionizujúceho žiarenia triedy 1 až 6,
+- j) vykonávanie skúšok zdrojov ionizujúceho žiarenia triedy 2 až 6,
 
-- k) vykonávanie skúšok tesnosti zdrojov ionizujúceho žiarenia triedy 1 až 6, ktoré sú uzavretými žiaričmi,
+- k) vykonávanie skúšok tesnosti zdrojov ionizujúceho žiarenia triedy 2 až 6, ktoré sú uzavretými žiaričmi,
 
-- l) vydávanie sprievodných listov pre zdroje ionizujúceho žiarenia triedy 1 až 6, ktoré sú otvorenými žiaričmi, a osvedčení pre zdroje ionizujúceho žiarenia triedy 1 až 6, ktoré sú uzavretými žiaričmi,
+- l) vydávanie sprievodných listov pre zdroje ionizujúceho žiarenia triedy 2 až 6, ktoré sú otvorenými žiaričmi, a osvedčení pre zdroje ionizujúceho žiarenia triedy 2 až 6, ktoré sú uzavretými žiaričmi,
 
 - m) uvádzanie rádioaktívnych látok do životného prostredia<sup>2</sup>) z pracoviska so zdrojmi ionizujúceho žiarenia triedy 6,
 
@@ -72,7 +72,7 @@
 
 - e) odber zdrojov ionizujúceho žiarenia triedy 4 a 5, ktoré sú rádioaktívnymi žiaričmi,
 
-- f) prepravu zdrojov ionizujúceho žiarenia triedy 4 a 5, ktoré sú rádioaktívnymi žiaričmi,
+- f) prepravu zdrojov ionizujúceho žiarenia triedy 4 a 5, ktoré sú rádioaktívnymi žiaričmi, rádioaktívnych látok, rádioaktívne kontaminovaných materiálov, predmetov a zariadení z pracovísk so zdrojmi ionizujúceho žiarenia triedy 4 a 5,
 
 - g) uvádzanie rádioaktívnych látok do životného prostredia<sup>2</sup>) z pracoviska so zdrojmi ionizujúceho žiarenia triedy 4 a 5,
 

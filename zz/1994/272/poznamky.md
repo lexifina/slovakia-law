@@ -12,6 +12,36 @@
 
 - 6a) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
+- 6aa) § 43b ods. 1 písm. a) a c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+
+- 6ab) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 6ac) Zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov.
+
+- 6ad) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.
+
+- 6ae) § 43b a 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 6af) § 43b ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 6ag) § 43b ods. 1 písm. c) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 6ah) Napríklad zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov, zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov, zákon č. 172/1990 Zb. o vysokých školách.
+
+- 6ai) § 3 ods. 1 písm. f) až n) zákona č. 163/2001 Z. z.
+
+- 6aj) § 2a písm. d) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 158/2001 Z. z.
+
+- 6ak) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
+- 6al) § 8 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
+
+- 6am) § 3 ods. 1 písm. f) zákona č. 163/2001 Z. z.
+
+- 6an) § 3 ods. 1 písm. g) a i) zákona č. 163/2001 Z. z.
+
+- 6ao) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+
 - 6b) Vyhláška Ministerstva vnútra Slovenskej republiky č. 173/1995 Z. z. o zabezpečovaní záchranných, lokalizačných a likvidačných prác v znení vyhlášky Ministerstva vnútra Slovenskej republiky č. 383/1998 Z. z.
 
 - 6c) Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 Z. z.
@@ -36,19 +66,17 @@
 
 - 7) Napr. zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia, zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni.
 
-- 7a) § 124 Zákonníka práce.
+- 7a) § 3 ods. 1 písm. f) a g) zákona č. 163/2001 Z. z.
 
 - 8) Napr. zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
-- 9) Zákon č. 142/1991 Zb. o česko-slovenských technických normách v znení zákona č. 632/1992 Zb.
+- 9) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 10a) § 22 až 29 zákona č. 264/1999 Z. z.
 
 - § 23 až 25 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
-
-- 11) § 3 zákona Slovenskej národnej rady č.193/1992 Zb. o Štátnom fonde zdravia.
 
 - 12) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
