@@ -1,1 +1,0 @@
-- 2) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch.
