@@ -10,6 +10,10 @@
 
 - 4) § 3 ods. 1 písm. c) bod 8 zákona č. 455/1991 Zb.
 
+- 4a) § 14 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+
+- § 4 písm. c) zákona č. 413/2002 Z. z. o sociálnom poistení.
+
 - 4b) § 44 ods. 2 a § 46b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 5) § 847 a nasl. Občianskeho zákonníka.
@@ -31,6 +35,8 @@
 - 12) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.).
 
 - 13) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
+
+- 13a) § 244 a nasl. Občianskeho súdneho poriadku.
 
 - 14) § 49 ods. 1 a 2 Trestného zákona.
 
