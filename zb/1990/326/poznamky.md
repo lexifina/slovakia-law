@@ -16,7 +16,13 @@
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
 
-- 10) Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.§ 119 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
+- 10) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- Zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení neskorších predpisov.
+
+- Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- 10a) § 2 ods. 2 zákona č. 351/1997 Z. z. Branný zákon.
 
 - 11) § 5 ods. 3 zákona č. 286/1992 Zb. v znení zákona č. 626/1992 Zb.
 
@@ -24,7 +30,7 @@
 
 - 13) § 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
 
-- 14) Nariadenie vlády ČSSR č. 142/1983 Zb. o poskytovaní dôchodku niektorým pracujúcim dôchodcom.
+- 14) Napríklad § 214 ods. 2 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 205 ods. 2 zákona č. 200/1998 Z. z. v znení neskorších predpisov.
 
 - 15) § 19 zákona č. 172/1990 Zb. o vysokých školách.
 
