@@ -102,7 +102,7 @@ Príloha č. 2 k nariadeniu vlády č. 513/2001 Z. z.
 
   - h) sériová výroba je spôsob výroby, pri ktorom je vyrobených viac nádob ako jedna nádoba rovnakého typu v určitom čase v priebežnom výrobnom procese podľa spoločnej konštrukčnej dokumentácie pri použití rovnakých výrobných postupov,
 
-  - i) hutný atest je dokument, ktorým výrobca osvedčuje, že výrobok spĺňa požiadavky objednávky, a v ktorom uvádza výsledky skúšok počas výroby, najmä chemického zloženia a mechanických vlastností, vykonávaných na výrobku, ktorý bol vyrobený rovnakým výrobným postupom ako dodávka, ale nie nevyhnutne na dodanom výrobku.
+  - i) hutný atest je dokument, ktorým výrobca osvedčuje, že dodaný výrobok spĺňa požiadavky objednávky, a v ktorom uvádza výsledky skúšok počas výroby, najmä chemického zloženia a mechanických vlastností, vykonávaných na výrobku, ktorý bol vyrobený rovnakým výrobným postupom ako dodávka, ale nie nevyhnutne na dodanom výrobku.
 
     - 4.2 Označenia
 

@@ -24,9 +24,9 @@ Príloha č. 1 k nariadeniu vlády č. 513/2001 Z. z.
 
     - a) sú upokojené a normalizačne žíhané alebo v porovnateľnom stave,
 
-    - b) obsah uhlíka je menší ako 0,25 % a obsah síry, ako aj fosforu je do 0,05 %,
+    - b) obsah uhlíka vo výrobku je menší ako 0,25 % a obsah síry, ako aj fosforu je do 0,05 %,
 
-    - c) mechanické vlastnosti:
+    - c) mechanické vlastnosti vo výrobku:
 
   - 1. najvyššia hodnota medze pevnosti v ťahu Rm,max je menšia ako 580 N/mm<sup>2,</sup>
 
@@ -48,13 +48,13 @@ Príloha č. 1 k nariadeniu vlády č. 513/2001 Z. z.
 
   - 1.1.2 Hliníková nádoba
 
-    - Nelegovaný hliník obsahuje najmenej 99,5 % hliníka a hliníkové zliatiny nepodliehajúce vytvrdzovaniu počas starnutia sú odolné proti medzikryštalickej korózii pri najvyššej pracovnej teplote.
+    - Nelegovaný hliník obsahuje najmenej 99,5 % hliníka a zliatina uvedená v § 1 písm. a) je odolná proti medzikryštalickej korózii pri najvyššej pracovnej teplote.
 
     - Uvedené materiály ďalej spĺňajú tieto požiadavky:
 
     - a) sú dodávané vo vyžíhanom stave,
 
-    - b) ich mechanické vlastnosti sú:
+    - b) mechanické vlastnosti výrobku sú:
 
   - 1. najvyššia hodnota medze pevnosti v ťahu R<sub>m,max</sub> je menšia alebo sa rovná 350 N/mm<sup>2</sup>,
 
@@ -96,7 +96,7 @@ Príloha č. 1 k nariadeniu vlády č. 513/2001 Z. z.
 
     - b) možnosť vyprázdňovania nádoby,
 
-    - c) zachovanie mechanických vlastností počas celej doby životnosti nádoby,
+    - c) zachovanie mechanických vlastností počas celej doby životnosti nádoby, so zreteľom na určený účel použitia,
 
     - d) primeranosť ochrany nádoby proti korózii s prihliadnutím na účel používania a podmienky prevádzky,
 
