@@ -8,13 +8,13 @@
 
 - - neplnoleté deti (vlastné, osvojené, vnuci, deti v starostlivosti, ktorá nahrádza starostlivosť rodičov), na ktoré nepatria prídavky na deti alebo výchovné, ak žijú s poplatníkom v spoločnej domácnosti, a to bez ohľadu na výšku vlastného príjmu;
 
-- - plnoleté deti (vlastné, osvojené, vnuci, deti v starostlivosti, ktorá nahrádza starostlivosť rodičov), na ktoré nepatria prídavky na deti alebo výchovné, ak žijú s poplatníkom v spoločnej domácnosti a ak nemajú vlastný príjem presahujúci 7 800 Kčs ročne;
+- - plnoleté deti (vlastné, osvojené, vnuci, deti v starostlivosti, ktorá nahrádza starostlivosť rodičov), na ktoré nepatria prídavky na deti alebo výchovné, ak žijú s poplatníkom v spoločnej domácnosti a ak nemajú vlastný príjem presahujúci 8 280 Kčs ročne;
 
 - b) - manželka alebo družka, prípadne manžel alebo druh, ak žijú s poplatníkom v spoločnej domácnosti, a to bez ohľadu na ich vlastný príjem;
 
-- c) - deti z rozvedeného manželstva, deti z manželstva, v ktorom poplatník - bez toho, že by bol rozvedený - nežije s manželom v spoločnej domácnosti, a deti narodené mimo manželstva, ak nežijú s poplatníkom v spoločnej domácnosti, ako aj manželka (manžel), ktorá je s poplatníkom rozvedená alebo aj bez rozvodu s ním nežije v spoločnej domácnosti, ak im poplatník platí výživné určené alebo schválené súdom. Ak výživné neurčil alebo neschválil súd, uznávajú sa tieto osoby za vyživované poplatníkom, ak im platí výživné aspoň vo výške daňovej úľavy vyplývajúcej pre neho z uznania týchto osôb za ním vyživované. Manželka a plnoleté deti, ktorým poplatník platí výživné, sa však uznávajú za ním vyživované len vtedy, ak nemajú vlastný príjem presahujúci 7 800 Kčs ročne;
+- c) - deti z rozvedeného manželstva, deti z manželstva, v ktorom poplatník - bez toho, že by bol rozvedený - nežije s manželom v spoločnej domácnosti, a deti narodené mimo manželstva, ak nežijú s poplatníkom v spoločnej domácnosti, ako aj manželka (manžel), ktorá je s poplatníkom rozvedená alebo aj bez rozvodu s ním nežije v spoločnej domácnosti, ak im poplatník platí výživné určené alebo schválené súdom. Ak výživné neurčil alebo neschválil súd, uznávajú sa tieto osoby za vyživované poplatníkom, ak im platí výživné aspoň vo výške daňovej úľavy vyplývajúcej pre neho z uznania týchto osôb za ním vyživované. Manželka a plnoleté deti, ktorým poplatník platí výživné, sa však uznávajú za ním vyživované len vtedy, ak nemajú vlastný príjem presahujúci 8 280 Kčs ročne;
 
-- d) - iné osoby, teda aj osoby, ktoré nie sú s poplatníkom v príbuzenskom vzťahu, ak žijú s ním v spoločnej domácnosti a ak nemajú vlastný príjem presahujúci sumu 7 800 Kčs ročne.
+- d) - iné osoby, teda aj osoby, ktoré nie sú s poplatníkom v príbuzenskom vzťahu, ak žijú s ním v spoločnej domácnosti a ak nemajú vlastný príjem presahujúci sumu 8 280 Kčs ročne.
 
 Prechodný pobyt osôb uvedených pod písmenami a) a b) mimo spoločnej domácnosti s poplatníkom nie je na závadu tomu, aby tieto osoby boli uznané za ním vyživované.
 
