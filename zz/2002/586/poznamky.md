@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 30/2002 Z. z. o požiadavkách na vodu na kúpanie, kontrolu kvality vody na kúpanie a kúpaliská.
