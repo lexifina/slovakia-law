@@ -442,6 +442,8 @@ Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 87 účinnosť dňa 1. júla 19
 
 189 | | | | § 127, ods. 4 | Povoľovanie dovozného záznamového styku prázdnych obalov na plnenie v iných prípadoch než uvedených v § 127, ods. 1 až 3nariadenia.
 
+Podľa predpisu č. 122/1951 Zb. v pol. 189 sa prenáša na okresné národné výbory pôsobnosť prislúchajúca krajským národným výborom. | | | | |
+
 190 | | | | § 131, ods. 2 | Zásadné dovolenie a povoľovanie zušľachťovacieho styku aktívneho zásadne nedovoleného pre tovar, pri ktorom celková colná pohľadávka prevyšuje sumu 1.000 Kčs až do sumy 5.000 Kčs.*)
 
 191 | | | | § 139, ods. 2 písm. a) | Dovolenie prepravného styku v cestnej doprave, v doprave po vode na dlhších tratiach a v opakujúcich sa prípadoch v príp. dohode s príslušnými dotknutými krajskými národnými výbormi.
@@ -461,6 +463,8 @@ Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 87 účinnosť dňa 1. júla 19
 198 | | | | § 205, písm. c) | Povoľovanie colného úveru v prípadoch iných, než uvedených v § 205, písm. a) a b) nariadenia.
 
 199 | | | zák. č. 114/1927 Sb. vl. nar. č. 168/1927 Sb. | § 103 § 213 | Odpúšťanie colných pohľadávok z dôvodov slušnosti, ak neprevyšuje colná pohľadávka 10.000 Kčs.
+
+Podľa predpisu č. 122/1951 Zb. v pol. 199 sa prenáša na okresné národné výbory pôsobnosť prislúchajúca krajským národným výborom. | | | | |
 
 200 | | | vl. nar. č. 168/1927 Sb. | § 229, ods. 1 | Paušalovanie poplatkov za stále úkony na čas dlhší než tri mesiace.
 
@@ -640,9 +644,13 @@ Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 87 účinnosť dňa 1. júla 19
 
 288 | | | | § 16, ods. 1 | Začatie a vykonávanie prídeľového konania, návrh hrubej rozvahy s výnimkou rozhodovania o prídele nad výmeru sebestačnej usadlosti, ďalej o prídele väčších pôdohospodárskych objektov, o prídele štátu,krajom, celoštátnym verejnoprávnym korporáciám a sväzom, závodov pôdohospodárskeho priemyslu, väčších budov lesnej pôdy nad 10 ha a rybničného hospodárstva.
 
+Podľa predpisu č. 122/1951 Zb. v pol. 288 sa prenáša na okresné národné výbory pôsobnosť prislúchajúca krajským národným výborom. | | | | |
+
 289 | | revízie prvej pozemkovej reformy | zák. č. 142/1947 Sb. v znení zák. č. 44/1948 Sb., vl. nar. č. 1/1948 Sb., v znení vl. nar. č.90/1948 Sb. | § 6, ods. 5 zák. | Požadovanie živého a mŕtveho zariadenia od vlastníka pri prevzatí zvyškových statkov a prídel tohto zariadenia (označenie kupca).
 
 290 | | | | § 8, ods. 1 až 6 zák. | Rozhodovanie o drobnom prídele s výnimkou rozhodovania o prídele nad výmeru sebestačnej usadlosti o prídele štátu, krajom, celoštátnym verejnoprávnym korporáciám a sväzom, závodov pôdohospodárskeho priemyslu, väčších budov a nehnuteľností, lesnej pôdy nad 10 ha a rybničného hospodárstva.
+
+Podľa predpisu č. 122/1951 Zb. v pol. 290 sa prenáša na okresné národné výbory pôsobnosť prislúchajúca krajským národným výborom. | | | | |
 
 291 | | | | § 8, ods. 6 zák. | Súčinnosť s roľníckymi komisiami.
 
@@ -739,6 +747,8 @@ Pol. | V odbore štátnej správy | sa prenáša na okresné národné výbory p
 14 | | štátneho bytového fondu | zák. č. 98/1919 Sb. | § 1, ods. 3 | Hospodárska a technická správa domov Štátneho bytového fondu.
 
 15 | Ministerstva zdravotníctva | hospodárenia s bytmi | zák. č. 138/1948 Sb. | § 10, ods. 2, § 11, ods. 1 a § 16 | Hlásenie bytov a zrušovanie smlúv o užívaní bytov v domoch Štátneho bytového fondu.
+
+Podľa predpisu č. 122/1951 Zb. v pol. 15 sa prenáša na miestne národné výbory pôsobnosť prislúchajúca krajským a okresným národným výborom | | | | |
 
 16 | Ministerstva zdravotníctva | zdravotnej starostlivosti | zák. č. 332/1920 Sb. | § 4, č. 2 | Rozhodovanie v jednotlivých prípadoch, pokiaľ bolo dosiaľ príslušnéMinisterstvo zdravotníctva.
 
