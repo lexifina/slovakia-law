@@ -1,1 +1,0 @@
-- *) Zákon č. 62/1962 Zb. o udeľovaní vyznamenaní.
