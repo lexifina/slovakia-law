@@ -8,6 +8,10 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - „V zákone o štátnom rozpočte na príslušný rozpočtový rok možno rozpočtovať výšku súhrnného schodku verejného rozpočtu, a to štátneho rozpočtu, rozpočtov štátnych fondov, rozpočtov obcí, rozpočtu Sociálnej poisťovne, rozpočtov zdravotných poisťovní, rozpočtu Národného úradu práce, rozpočtu Fondu národného majetku Slovenskej republiky a rozpočtu Slovenského pozemkového fondu.“.
 
+- 3. V § 3 ods. 4 sa za druhú vetu vkladá nová tretia veta, ktorá znie:
+
+- „Rozpočtová klasifikácia sa uplatňuje aj v rozpočtoch príspevkových organizácií, v rozpočtoch Sociálnej poisťovne, zdravotných poisťovní, Národného úradu práce, Fondu národného majetku Slovenskej republiky a Slovenského pozemkového fondu.“.
+
 - 4. V § 5 ods. 1 písm. h) sa za slová „príspevkovej organizácie“ vkladajú slová „alebo verejnoprávnej inštitúcie hospodáriacej ako príspevková organizácia podľa § 53“.
 
 - 5. V § 5 ods. 1 sa za písmeno j) vkladajú nové písmená k) a l), ktoré znejú:
