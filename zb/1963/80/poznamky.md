@@ -1,1 +1,0 @@
-- *) Vyhláška Min. fin. a ŠPK č. 118/60 Zb. o zabezpečení prostriedkov na údržbu, opravy, rekonštrukciu a modernizáciu nájomných obytných domov.
