@@ -1,0 +1,1 @@
+- 1) § 591 až 600 Obchodného zákonníka.
