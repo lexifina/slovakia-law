@@ -338,7 +338,11 @@
 
   - Čl. 38
 
-    - Táto zmluva nadobudne platnosť po tom, čo ju podľa svojich ústavných predpisov schvália obe Zmluvné strany. Zmluva bude predbežne vykonávaná od 1. januára 1993. Zmluvné strany ju môžu písomne vypovedať. Zmluva v dôsledku výpovede stratí platnosť 12 mesiacov po jej doručení druhej Zmluvnej strane.
+    - 1. Táto zmluva nadobudne platnosť po tom, čo ju podľa svojich ústavných predpisov schvália obe Zmluvné strany. Zmluva bude predbežne vykonávaná od 1. januára 1993. Zmluvné strany ju môžu písomne vypovedať. Zmluva v dôsledku výpovede stratí platnosť 12 mesiacov po jej doručení druhej Zmluvnej strane.
+
+    - 2. Platnosť tejto zmluvy bude skončená, ak sa jedna zo zmluvných strán stane členským štátom Európskej únie. V takom prípade sa skončí platnosť tejto zmluvy dňom, ktorý bude totožný s dňom nadobudnutia platnosti zmluvy, na ktorej základe bude založené členstvo tejto zmluvnej strany v Európskej únii. Písomnú informáciu o uvedenej skutočnosti dostane druhá zmluvná strana diplomatickou cestou najneskôr v deň predchádzajúci dňu skončenia platnosti tejto zmluvy.
+
+    - 3. Platnosť tejto zmluvy sa skončí automaticky, ak sa obe zmluvné strany stanú členskými štátmi Európskej únie súčasne. V takom prípade bude deň skončenia platnosti tejto zmluvy totožný s dňom nadobudnutia platnosti zmluvy, na ktorej základe bude založené členstvo zmluvných strán v Európskej únii.
 
   - Čl. 39
 
