@@ -1,6 +1,6 @@
 # Čl. 8 K § 9 zákona
 
-(1) Za invalidov alebo iné osoby telesne alebo duševne chybné v zmysle § 9 zákona možno uznať iba:
+(1) Za invalidné osoby v zmysle § 9 zákona možno uznať iba:
 
 - 1. osoby, ktoré poberajú niektorý z týchto dôchodkov:
 
@@ -26,7 +26,7 @@
 
   - d) stali sa pred vstupom do zamestnania alebo pred dovŕšením potrebnej doby zamestnania pre nárok na dôchodok invalidnými alebo čiastočne invalidnými a sú držiteľmi preukážky ZTP alebo ZTP/P;
 
-  - e) boli podľa posudkového lekára postihnuté obojstrannou hluchotou alebo ktorých dlhodobý nepriaznivý zdravotný stav, ktorý nie je spôsobený vnútornou chorobou a značne im sťažuje všeobecné životné podmienky, zodpovedá podľa posudku posudkového lekára podmienkam pre priznanie čiastočného invalidného dôchodku, a to aj keď uvedené osoby nepoberajú čiastočný invalidný dôchodok;
+  - e) boli podľa posudku posudkového lekára postihnuté obojstrannou hluchotou alebo ich dlhodobý nepriaznivý zdravotný stav, ktorý im značne sťažuje všeobecné životné podmienky, zodpovedá podľa posudku posudkového lekára podmienkam pre priznanie čiastočného invalidného dôchodku, a to aj keď uvedené osoby nepoberajú čiastočný invalidný dôchodok;
 
   - f) sú u daňovníka uznané za vyživovanú osobu (článok 7) a ich zdravotný stav podľa posudku posudkového lekára zodpovedá podmienkam pre priznanie invalidného alebo čiastočného invalidného dôchodku podľa predpisov o sociálnom zabezpečení.
 
