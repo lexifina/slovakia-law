@@ -1,1 +1,0 @@
-- *) Colný zákon č. 36/1953 Zb. a vyhláška č. 82/1961 Zb., ktorou sa vykonáva colný zákon.
