@@ -10,4 +10,14 @@
 
 - 6) § 27 ods. 1 písm. c) zákona Slovenskej národnej rady č. 100/1977 Zb.
 
+- 6a) Nariadenie vlády Slovenskej republiky č. 49/1997 Z. z., ktorým sa vyhlasujú oblasti lesov.
+
+- 6b) § 2a zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
+
+- 6c) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
+
 - 7) Zákon č. 142/1991 Zb. o česko-slovenských technických normách v znení zákona č. 632/1992 Zb.
+
+- 7a) § 3 ods. 4 zákona Slovenskej národnej rady č. 100/1977 Zb. v znení neskorších predpisov.
+
+- 7b) § 4 zákona Slovenskej národnej rady č. 100/1977 Zb. v znení neskorších predpisov.
