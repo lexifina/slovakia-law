@@ -1,0 +1,3 @@
+# § 39b Ochrana policajta
+
+Ak je to pri plnení úloh kriminálneho spravodajstva a použití agenta na ochranu policajta nevyhnutné, na zakrytie jeho činnosti možno vytvoriť legendu<sup>18b</sup>) a v súvislosti s tým v informačných systémoch Policajného zboru (§ 69), informačných systémoch štátnych orgánov a informačných systémoch orgánov samosprávy zaznamenávať a vyberať potrebné údaje; používať zvláštne spôsoby vykazovania údajov pri hospodárení s prostriedkami štátneho rozpočtu vrátane devízového hospodárenia, pri priznávaní dane z príjmov, vykazovaní poistného všeobecného zdravotného poistenia a poistného na sociálne zabezpečenie a príspevku do poistenia v nezamestnanosti.
