@@ -90,11 +90,11 @@
 
 - 34f) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
 
-- 34fa) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+- 34fa) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
 
-- Zákon Národnej rady Slovenskej republiky č. 15/1993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
+- 34fb) § 6 a 7 zákona č. 530/2003 Z. z.
 
-- 34fb) § 3a, § 28b Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+- 34fba) § 5a zákona Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
 - 34fc) § 68a Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
@@ -153,3 +153,5 @@
 - 35c) § 57 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 36) § 5 zákona č. 526/1990 Zb. o cenách.
+
+- 36a) Zákon č. 530/2003 Z. z.

@@ -1,11 +1,13 @@
 # § 200b
 
-(1) V konaní o vykonanie zápisu je súd povinný skúmať, či sú splnené predpoklady na vykonanie zápisu vyžadované právnymi predpismi.
+(1) Navrhovateľ môže podať písomne námietky proti odmietnutiu vykonania zápisu podľa osobitného zákona<sup>34fa</sup>) do 15 dní odo dňa vydania alebo doručenia oznámenia o odmietnutí vykonania zápisu na registrovom súde, ktorý vykonanie zápisu odmietol. Späťvzatie námietok sa nepripúšťa.
 
-(2) Súd rozhoduje o obsahu zápisu bez pojednávania uznesením. Vo výroku uznesenia uvedie deň zápisu. Zápis treba vykonať do jedného mesiaca od vydania rozhodnutia o obsahu zápisu. Skutočnosti zapísané do obchodného registra sú účinné odo dňa, ku ktorému sa zápis vykonal, a to bez ohľadu na právoplatnosť uznesenia, ktorým sa zápis povolil, ak osobitný zákon neustanovuje inak.
+(2) O námietkach rozhoduje sudca registrového súdu v lehote piatich dní od ich doručenia. Odmietnutie vykonania zápisu preskúma len z hľadiska splnenia podmienok podľa osobitného zákona.<sup>34fb</sup>)
 
-(3) Ustanovenie o poriadkových pokutách sa použije aj v prípade, že podnikateľ neuposlúchne výzvu súdu, aby mu oznámil skutočnosti alebo predložil listiny potrebné na vykonanie zápisu podľa § 200a ods. 2.
+(3) Ak sudca námietkam vyhovie, vykoná zápis. Ak návrh na zápis obsahuje deň, ku ktorému má byť navrhovaný údaj zapísaný, sudca zapíše navrhovaný údaj k tomuto dňu. Ak sudca vykonáva zápis neskôr alebo ak návrh na zápis neobsahuje deň, ku ktorému má byť navrhovaný údaj zapísaný, sudca zapíše navrhovaný údaj ku dňu nasledujúcemu po dni vykonania zápisu.
 
-(4) Ak si fyzická osoba zapísaná do obchodného registra alebo osoba oprávnená konať v mene právnickej osoby zapísanej do obchodného registra nesplní povinnosť podľa osobitného predpisu,<sup>34fb</sup>) môže jej registrový súd uložiť pokutu do výšky 100 000 Sk.
+(4) O vykonaní zápisu registrový súd vydá potvrdenie, ktoré bez zbytočného odkladu odošle navrhovateľovi. V potvrdení uvedie obsah vykonaného zápisu. Po zápise vydá registrový súd výpis z obchodného registra, ktorý bez zbytočného odkladu odošle navrhovateľovi. Námietky proti vykonaniu zápisu sudcom nie sú prípustné.
 
-(5) Na konanie o uložení pokuty sa primerane vzťahujú ustanovenia o uložení poriadkovej pokuty podľa tohto zákona.
+(5) Sudca vykoná zápis aj v prípade, ak navrhovateľ podal námietky a súčasne v celom rozsahu odstránil nedostatky, pre ktoré bolo vykonanie zápisu odmietnuté.
+
+(6) Po preskúmaní námietok môže sudca námietky zamietnuť. O zamietnutí námietok sudca rozhoduje uznesením. Proti tomuto uzneseniu je prípustné odvolanie.

@@ -1,9 +1,9 @@
 # § 200c
 
-(1) Obchodný register je verejný zoznam osobitným zákonom určených údajov, ktorého súčasťou je zbierka listín. Obchodný register a zbierka listín sú každému prístupné; každý má právo po splnení si poplatkovej povinnosti doň nahliadať a vyhotovovať si z neho odpisy.
+(1) Na konanie vo veciach obchodného registra a na rozhodovanie o námietkach proti odmietnutiu vykonania zápisu je príslušný registrový súd.<sup>34fba</sup>)
 
-(2) Registrový súd vydá žiadateľovi na požiadanie a po splnení si poplatkovej povinnosti odpis, výpis alebo potvrdenie o určitom zápise alebo o tom, že v obchodnom registri určitý zápis nie je.
+(2) Na konanie vo veciach obchodného registra a na rozhodovanie o námietkach proti odmietnutiu vykonania zápisu je príslušný registrový súd, v ktorého obvode má osoba, ktorá sa zapisuje do obchodného registra, sídlo. Ak osoba, ktorá sa zapisuje do obchodného registra, nemá sídlo, je príslušný registrový súd podľa miesta podnikania; ak nemá ani miesto podnikania, je príslušný registrový súd podľa miesta bydliska tejto osoby.
 
-(3) Za podmienok uvedených v odseku 2 sa žiadateľovi vydá kópia listín zo zbierky listín.
+(3) Ak ide o odštepný závod alebo inú organizačnú zložku podniku, je na konanie vo veciach obchodného registra a na rozhodovanie o námietkach proti odmietnutiu vykonania zápisu príslušný registrový súd, v ktorého registri je podľa sídla, prípadne miesta podnikania alebo bydliska podnikateľ zapísaný, a registrový súd, v ktorého obvode je odštepný závod alebo iná organizačná zložka podniku umiestnená, ak je umiestnená v obvode iného registrového súdu.
 
-(4) Orgány štátnej správy sú v rámci výkonu svojej právomoci oprávnené nahliadať do listín, ktoré boli podkladom na zápis do obchodného registra, a robiť si z nich výpisy a odpisy.
+(4) Ak ide o zahraničnú osobu, je na konanie vo veciach obchodného registra a na rozhodovanie o námietkach proti odmietnutiu vykonania zápisu príslušný registrový súd, v ktorého obvode je umiestnený podnik zahraničnej osoby alebo jeho organizačná zložka, ak medzinárodná zmluva uverejnená v Zbierke zákonov Slovenskej republiky, ktorou je Slovenská republika viazaná, neustanovuje inak.
