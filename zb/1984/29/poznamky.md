@@ -4,17 +4,31 @@
 
 - 1b) Čl. 42 ods. 2 Ústavy Slovenskej republiky.
 
-- 1c) § 2 písm. b) až d) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
+- 1c) § 2 písm. b), c) a f) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
 
 - 1d) § 29 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
 
 - 1e) § 4 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+
+- 1f) Zákon č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
+
+- 1g) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.Zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
 
 - 2) § 348 Hospodárskeho zákonníka.
 
 - 3) Zákon č. 116/1990 Zb. o nájme a podnájme nebytových priestorov v znení zákona č. 403/1990 Zb.
 
 - 3a) Nariadenie vlády Slovenskej republiky č. 196/1993 Z. z. o poskytovaní učebníc žiakom.
+
+- 3b) § 2 písm. c), e) a f) zákona Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
+
+- 3c) § 1 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov.
+
+- 3d) § 2 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- 3e) § 6 zákona Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
+
+- 3f) § 6 ods. 2 písm. a) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 4) § 26, 26a a 26b zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
