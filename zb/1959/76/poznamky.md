@@ -1,3 +1,9 @@
 - 1) §197 ods. 1 písm. a) až e) Zákonníka práce.
 
 - 2) § 6 zákona č. 88/1952 Zb. o materiálnom zabezpečení príslušníkov ozbrojených síl.
+
+- 3) § 20 ods. 2 písm. d) branného zákona.
+
+- 4) § 20 ods. 2 písm. c) branného zákona.
+
+- 5) § 20 ods. 2 písm. e) branného zákona.
