@@ -10,6 +10,8 @@
 
 - 6) § 10 písm. a) zákona č. 130/1989 Zb.
 
+- 6a) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov.
+
 - 7) Zákon č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení neskorších predpisov (úplné znenie zákon č. 184/1988 Zb.).
 
 - 8) § 14 zákona č. 21/1971 Zb. o jednotnej sústave sociálno-ekonomických informácií v znení neskorších predpisov.
