@@ -8,7 +8,7 @@ Príloha č. 3 k zákonu č. 572/2004 Z. z.
 
   - 3. Množstvo kvót, ktoré sa má prideliť, musí byť v súlade s potenciálom vrátane technologického potenciálu znižovať emisie z činností pokrytých týmto zákonom. Rozdeľovanie kvót sa môže založiť aj na priemerných emisiách na výrobok pri každej činnosti a na dosiahnuteľnom pokroku pri každej činnosti.
 
-  - 4. Plán musí byť v súlade s inými právnymi a strategickými nástrojmi Európskej únie. Mala by sa venovať pozornosť nevyhnutnému zvyšovaniu emisií, ktoré je následkom nových právnych požiadaviek.
+  - 4. Plán musí byť v súlade s inými právnymi a strategickými nástrojmi Európskeho spoločenstva. Mala by sa venovať pozornosť nevyhnutnému zvyšovaniu emisií, ktoré je následkom nových právnych požiadaviek.
 
   - 5. Plán nesmie rozlišovať medzi spoločnosťami alebo odvetviami tak, aby neoprávnene zvýhodňoval určité podniky alebo činnosti, v súlade s medzinárodnou zmluvou.<sup>3</sup>)
 
