@@ -4,9 +4,9 @@
 
 - 3) § 9 vyhlášky Ministerstva školstva Slovenskej republiky č. 42/1996 Z. z. o ďalšom vzdelávaní pedagogických pracovníkov.
 
-- 4) § 21 ods. 2 zákona č. 172/1990 Zb. o vysokých školách.
+- 4) § 18a písm. b) č. 172/1990 Zb. o vysokých školách v znení zákona č. 324/1996 Z. z.
 
-- 5) § 21 ods. 1 zákona č. 172/1990 Zb.
+- 5) § 18a písm. a) zákona č. 172/1990 Zb. v znení neskorších predpisov.
 
 - 6) Nariadenie vlády Slovenskej republiky č. 229/1994 Z. z. o miere vyučovacej povinnosti učiteľov a povinnosti výchovnej práce ostatných pedagogických pracovníkov.
 
@@ -24,8 +24,6 @@
 
 - 13) Príloha č. 1 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení neskorších predpisov.
 
-- 14) § 43 ods. 1 zákona č. 172/1990 Zb.
+- 14) § 21 ods. 2 písm. a) až f) zákona č. 172/1990 Zb. v znení zákona č. 324/1996 Z. z.
 
-- 15) Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 65/1985 Zb. o ďalšom vzdelávaní pedagogických pracovníkov.
-
-- 16) § 22 zákona č. 172/1990 Zb.
+- 15) § 22 a 22a zákona č. 172/1990 Zb. v znení zákona č. 324/1996 Z. z.
