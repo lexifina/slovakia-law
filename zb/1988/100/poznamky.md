@@ -46,7 +46,7 @@
 
 - 7d) § 3 ods. 2 písm. e) a ods. 3 písm. b) zákona č. 463/1991 Zb.
 
-- 7e) Zákon č. 463/1991 Zb.
+- 7e) Zákon č. 463/1991 Zb. v znení neskorších predpisov.
 
 - 7f) § 29,§ 31, § 33 a 34 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
 
