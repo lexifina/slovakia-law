@@ -32,6 +32,8 @@
 
 - 12) § 11 ods. 1 vyhlášky č. 41/1984 Zb.
 
+- 12a) § 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch.
+
 - 13) § 54 ods. 3 vyhlášky č. 41/1984 Zb.
 
 - 14) § 52 ods. 1 a 4 vyhlášky č. 41/1984 Zb.
@@ -55,3 +57,5 @@
 - 21) § 8 ods. 1 zákona č. 135/1961 Zb. v znení zákona č. 27/1984 Zb. (úplné znenie č. 55/1984 Zb.).
 
 - § 9 písm. k) a § 11 ods. 1 písm. e) vyhlášky č. 35/1984 Zb.
+
+- 22) Zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín.
