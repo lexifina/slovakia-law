@@ -1,0 +1,1 @@
+- Soupis podle okrsků (počítačové zpracování popř. karta) č. okr. | č. poř. | příjmení a jméno | rodné číslo | část obce | č. p./ č. or. | ulice | poř. č. z jmen. soupisu | poznámka
