@@ -1,0 +1,1 @@
+- 1) § 1 písm. b. zákona č. 141/1992 Zb. o zriadení vojenských súdov, ustanovení ich sídel a obvodov.
