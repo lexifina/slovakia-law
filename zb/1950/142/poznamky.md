@@ -1,0 +1,1 @@
+- *) Úřední české znění vyhlášeno v příloze Sbírky na str. 243.
