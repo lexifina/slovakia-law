@@ -1,1 +1,0 @@
-- 1) Doplnok bol vydaný v Štátnom zdravotníckom nakladateľstve v Prahe.
