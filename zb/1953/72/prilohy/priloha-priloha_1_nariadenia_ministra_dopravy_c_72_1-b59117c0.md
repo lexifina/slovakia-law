@@ -84,77 +84,9 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
     - ODDIEL 3. Vybavenie a výstroj lodí.
 
-      - Čl. 10. Poznávacie znaky a vlajka
-
-        - (1) Každá loď musí niesť od východu do západu slnka na korme vlajku štátu, ktorému patrí.
-
-        - (2) Okrem vlajky musí mať každá loď tieto poznávacie znaky:
-
-          - a) meno alebo číslo lode, umiestnené na oboch bokoch a na korme lode tak, aby bolo viditeľné zozadu; na kolesovej lodi sa meno alebo číslo umiestňuje na kolesniciach. Ak nie sú pri bočnom alebo postrkovom vleku nápisy na vlečnej lodi viditeľné, upevnia sa na zábradlí veliteľského mostíka na oboch bokoch lode tabule s menom alebo číslom lode;
-
-          - b) označenie domovského prístavu alebo miesta registrácie, umiestnené na korme lode;
-
-          - c) úplný alebo skrátený názov organizácie, ktorej loď patrí (majiteľa lode), umiestnený na oboch bokoch čela lode; na lodi bez vlastného pohonu sa umiestni toto označenie aj na korme lode;
-
-          - d) označenie štátnej príslušnosti lode začiatočnými písmenami štátu, umiestnenými za označením domovského prístavu alebo miesta registrácie; označenie štátu začiatočnými písmenami netreba, ak je štátna príslušnosť lode zrejmá z názvu organizácie, ktorej loď patrí (majiteľa lode);
-
-          - e) označenie najvyššieho prípustného počtu cestujúcich na osobných lodiach, umiestnené na dobre viditeľnom mieste vnútri lode;
-
-          - f) označenie nosnosti lode v tonách na nákladných lodiach, a to menšími písmenami na oboch bokoch lode pod menom alebo číslom lode.
-
-        - (3) Na označenie organizácie, ktorej loď patrí (majiteľa lode), môže sa na komíne alebo na výfukovom kryte umiestniť podnikový znak.
-
-        - (4) Na malých lodiach (čl. 84 Základných predpisov) sa meno alebo číslo lode umiestňuje na oboch bokoch vonkajšej strany lode a názov organizácie, ktorej loď patrí (majiteľa lode), sa umiestňuje na viditeľnom mieste na vnútornej alebo vonkajšej strane lode. Meno alebo číslo lode môže sa nahradiť registrovým číslom.
-
-        - (5) Na záchranných loďkách a motorových člnoch, ktoré patria k výstroju lode, sa umiestňuje meno alebo číslo lode na vnútornej alebo vonkajšej strane lode.
-
-        - (6) Všetky písomné poznávacie znaky lode sa vyhotovujú zreteľným latinským písmom a farbou, ktorá sa jasne odlišuje od pozadia. Okrem nápisov latinským písmom môže sa loď označiť aj nápismi národným písmom. Výška písmen a číslic označujúcich meno alebo číslo lode musí byť najmenej 20 cm a pri ostatných nápisoch najmenej 15 cm. Na malých lodiach musí byť výška písmen alebo číslic označujúcich ich meno alebo číslo najmenej 10 cm. Šírka písmen a medzery medzi nimi musia byť úmerné výške písmen a rozmerom lode.
-
       - Čl. 11. Ponorová stupnica
 
         - Na všetkých lodiach, ktorých ponor môže presahovať 60 cm, musí byť vyznačená ponorová stupnica.
-
-      - Čl. 12. Lodné listiny
-
-        - (1) Lode o výtlaku väčšom než 10 ton musia mať
-
-          - a) preukaz oprávňujúci na plavbu pod vlajkou štátu, ktorú nesú (lodný patent),
-
-          - b) vlastnícky preukaz (osvedčenie o vlastníckom práve k lodi),
-
-          - c) ciachový preukaz,
-
-          - d) zdravotný preukaz pre osobné lode, pre nákladné lode o nosnosti väčšej než 1000 ton, ako i pre remorkéry o výkonnosti väčšej než 150 k,
-
-          - e) preukaz spôsobilosti na plavbu,
-
-          - f) soznam posádky (listina o osobách lodnej posádky, ku ktorej sú pripojené preukazy alebo osvedčenia oprávňujúce veliteľský sbor na vedenie lode a strojníkov na obsluhu strojov),
-
-          - g) lodný denník,
-
-          - h) revízne knihy parných kotlov na lodiach s parnými kotlami,
-
-          - i) listinu o povolení na zriadenie a prevádzku vysielacej rádioelektrickej stanice a denník rádioelektrickej služby na lodiach, ktoré majú vysielaciu rádioelektrickú stanicu,
-
-          - j) strojný denník na lodiach so strojným pohonom; revízne knihy tlakových nádob na motorových lodiach, ktoré majú nádoby so stlačeným vzduchom alebo plynom,
-
-          - k) povolenie na dopravu cestujúcich, ak prevádza loď takú dopravu,
-
-          - l) inventárnu knihu,
-
-          - m) zdravotný denník.
-
-        - (2) Malé lode (čl. 84) musia mať
-
-          - a) plavebné povolenie preukazujúce oprávnenie plávať pod vlajkou štátu, ku ktorému náležia,
-
-          - b) preukaz spôsobilosti na plavbu,
-
-          - c) povolenie na dopravu cestujúcich, ak prevádza loď takú dopravu,
-
-          - d) soznam posádky.
-
-        - (3) Malým športovým lodiam a loďkám stačí preukaz spôsobilosti na plavbu.
 
       - Čl. 13. Vodoryska najväčšieho ponoru a jej značka
 
@@ -786,12 +718,6 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
   - HLAVA 9. Význam použitých výrazov.
 
-    - Čl. 80. Lode
-
-      - (1) Loďami sa rozumejú ako lode námorné, tak vnútrozemské, majúce výtlak väčší než 10 ton, a to so strojným pohonom alebo bez neho, ako i lode plachetné.
-
-      - (2) Výtlak lode sa rovná približne 3/4 násobku dĺžky, šírky a stredného ponoru lode ponorenej až k vodoryske najvyššie prípustného ponoru. Dĺžka sa meria po palube od zadného okraja predného väzu k prednému okraju zadného väzu; šírka sa meria od vonkajšieho okraja obšívky jedného boku k vonkajšiemu okraju obšívky druhého boku, a to v strednej najširšej časti lode, t. j. na hlavnom rebre bez zreteľa na hrúbku odierok.
-
     - Čl. 81. Samohybná loď
 
       - Pod výrazom „samohybná loď" sa rozumie loď, ktorá sa uvádza do pohybu pomocou strojov.
@@ -805,10 +731,6 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
     - Čl. 83. Plávajúca loď
 
       - Loď sa považuje za „plávajúcu", ak nie je ani zakotvená ani vyviazaná pri brehu ani nie je uviaznutá na plytčine.
-
-    - Čl. 84. Malé lode
-
-      - Lode o výtlaku do desiatich ton, ktoré sa pohybujú pomocou strojov, plachiet alebo vesiel, sa považujú za malé lode.
 
     - Čl. 85. Plávajúce zariadenia
 
