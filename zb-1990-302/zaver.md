@@ -1,0 +1,3 @@
+Predseda:
+
+Brunovský v. r.

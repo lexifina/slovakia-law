@@ -1,0 +1,3 @@
+Príloha IIIa vyhlášky č. 302/1990 Zb. OZNÁMENIE O UDELENÍ HODNOSTI KANDIDÁTA VIED
+
+[Príloha 03a](../assets/016954be8feb0701d2a3c6ab7c598f439e7cdd592641feb6175200910f03701d.pdf)
