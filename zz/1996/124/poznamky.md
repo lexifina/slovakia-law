@@ -6,6 +6,8 @@
 
 - 4) § 24 ods. 4 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
+- 4a) § 10 ods. 1 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
+
 - 5) Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 275/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 260/1995 Z. z.
 
 - 6) Napríklad § 711 ods. 1 písm. c) a d) a § 712 Občianskeho zákonníka, § 27 ods. 1 písm. e) zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov, § 90 ods. 2 a § 91 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
@@ -37,6 +39,10 @@
 - 19) § 137 Občianskeho zákonníka.
 
 - 20) Napríklad § 31 Občianskeho zákonníka.
+
+- 20a) § 143 Občianskeho zákonníka.
+
+- 20b) § 50a Občianskeho zákonníka.
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
