@@ -2,7 +2,9 @@
 
 - 1a) § 2a zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
-- 1aa) § 151a až 151n Občianskeho zákonníka.
+- 1aa) § 151a až 151n a § 602 Občianskeho zákonníka.
+
+- 1ab) § 139a ods. 8 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 2) § 21b ods. 1 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
@@ -11,6 +13,8 @@
 - 3) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 3a) Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- Zákon č. 64/1997 Z. z. v znení nálezu Ústavného súdu Slovenskej republiky č. 224/2001 Z. z.
 
 - 3b) Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 471/2001 Z. z.
 
@@ -32,23 +36,33 @@
 
 - § 14 a 15 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
-- 6c) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+- 6c) § 2 a 79 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 6d) § 54 ods. 2 písm. c) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+
+- 6e) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 6f) § 139a zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 6g) § 108 ods. 2 písm. b), d) a k) zákona č. 50/1976 Zb.
 
 - 7) § 7 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
-- 7a) Zákon Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
+- 7a) § 14 a 15 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
-- 7b) Občiansky zákonník.
+- 7b) § 63 zákona č. 543/2002 Z. z.
 
-- 7c) § 19 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení zákona č. 419/2002 Z. z.
+- 7c) Zákon Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách v znení zákona č. 217/2004 Z. z.
 
-- 7d) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 7d) Zákon č. 64/1997 Z. z. v znení nálezu Ústavného súdu Slovenskej republiky č. 224/2001 Z. z.
 
-- 7e) § 108 zákona č. 50/1976 Zb.
+- 7e) § 19 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení zákona č. 419/2002 Z. z.
 
-- 7f) § 3 písm. a) zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z.
+- 7f) § 108 zákona č. 50/1976 Zb.
 
-- 7g) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení neskorších predpisov.
+- 7g) § 2 ods. 2 písm. a) zákona č. 543/2002 Z. z.
+
+- 7h) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu, zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 8) § 247 až 250k Občianskeho súdneho poriadku.
 
@@ -76,9 +90,11 @@
 
 - 15) § 22 ods. 1 zákona č. 229/1991 Zb.
 
-- 16) Zákon č. 50/1976 Zb.
+- 15a) § 247 až 250k Občianskeho súdneho poriadku.
 
-- Vyhláška SÚGK č. 82/1973 Zb. o overovaní geometrických plánov a iných výsledkov geodetických prác.
+- 16) § 44 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- § 4 a 5 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 533/2003 Z. z.
 
 - 16a) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
@@ -106,7 +122,7 @@
 
 - 22a) § 6 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
 
-- 22b) § 18 zákona č. 229/1991 Zb.§ 16 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
+- 22b) § 18 zákona č. 229/1991 Zb.§ 16 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.§ 6 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
 
 - 22c) § 2 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
 
@@ -162,7 +178,7 @@
 
 - 24) Zákon SNR č. 253/1991 Zb. o pôsobnosti vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
-- 25) § 6 ods. 1 písm. d) zákona č. 229/1991 Zb.
+- 25) § 6 ods. 1 písm. d) zákona č. 229/1991 Zb.Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení zákona č. 217/2004 Z. z.
 
 - 26) Zákon SNR č. 81/1949 Zb. SNR o úprave právnych pomerov pasienkového majetku bývalých urbárnikov, komposesorátov a podobných právnych útvarov.
 
@@ -202,17 +218,17 @@
 
 - 42) Napr. zákon č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby v znení neskorších predpisov.
 
-- 43) § 6 ods. 4 zákona č. 229/1991 Zb.
+- 43) § 6 ods. 4 zákona č. 229/1991 Zb.§ 3 ods. 5 zákona č. 503/2003 Z. z.
 
-- 44) § 6 ods. 5 zákona č. 229/1991 Zb.
+- 44) § 6 ods. 5 zákona č. 229/1991 Zb.§ 3 ods. 6 zákona č. 503/2003 Z. z.
 
-- 45) § 6 ods. 7 zákona č. 229/1991 Zb.
+- 45) § 6 ods. 7 zákona č. 229/1991 Zb.§ 3 ods. 5 zákona č. 503/2003 Z. z.
 
 - 46) § 8 ods. 2 zákona č. 229/1991 Zb.
 
-- 47) § 10 ods. 3 zákona č. 229/1991 Zb.
+- 47) § 10 ods. 3 zákona č. 229/1991 Zb.§ 21a ods. 3 zákona č. 229/1991 Zb.
 
-- 48) § 16 ods. 1 prvá veta zákona č. 229/1991 Zb.
+- 48) § 16 ods. 1 prvá veta zákona č. 229/1991 Zb.§ 6 ods. 2 zákona č. 503/2003 Z. z. v znení zákona č. 217/2004 Z. z.
 
 - 49) § 17 ods. 4 zákona č. 229/1991 Zb.
 
@@ -227,3 +243,7 @@
 - 54) § 5 ods. 3 zákona č. 229/1991 Zb.
 
 - 55) § 80 písm. c) Občianskeho súdneho poriadku.
+
+- 56) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
+- Zákon č. 503/2003 Z. z. v znení zákona č. 217/2004 Z. z.
