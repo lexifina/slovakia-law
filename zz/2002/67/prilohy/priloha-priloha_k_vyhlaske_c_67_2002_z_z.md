@@ -600,9 +600,15 @@ Azbest | 650-013-00-6 | | 132207-33-1 |
 
 | | | 77536-67-5 |
 
+bután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [1] | 601-004-01-8 | 203-448-7 [1] | 106-97-8 [1] | C, S
+
+izobután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [2] | | 200-857-2 [2] | 75-28-5 [2] |
+
+1,3 butadién; buta-1,3-dién | 601-013-00-X | 203-450-8 | 106-99-0 | D
+
 Karcinogénne látky a prípravky kategórie 2 sú tieto:
 
-[Tabuľka XXIX. kategória 2](../assets/512a576a917c3227b1e485db357470f727942b4040a228de9bb848332ef09c00.pdf)
+[Tabuľka XXIX. kategória 2](../assets/d1c679fae052364ca23151bd1ee0ebcde149471cbdee9ee93c5fbd85211d5da0.pdf)
 
 1. Karcinogénne látky a prípravky môžu byť obsiahnuté v látkach a prípravkoch predávaných v maloobchode v koncentráciách neprekračujúcich limity uvedené v zozname nebezpečných chemických látok alebo v predpisoch pre klasifikáciu nebezpečných chemických prípravkov ako limity na označenie týchto látok a prípravkov za karcinogénne, ak sa v zozname nebezpečných chemických látok koncentrácia neobmedzuje.
 
@@ -672,6 +678,24 @@ etylénimín; aziridín | 613-001-00-1 | 205-793-9 | 151-56-4 |
 
 akrylamid | 616-003-00-0 | 201-173-7 | 79-06-1 |
 
+fluorid kademnatý | 048-006-00-2 | 232-222-0 | 7790-79-6 | -
+
+chlorid kademnatý | 048-008-00-3 | 233-296-7 | 10108-64-2 | -
+
+2,2'-bioxirán, 1,2:3,4-diepoxybután | 603-060-00-1 | 215-979-1 | 1464-53-5 | -
+
+chróman sodný | 024-018-00-3 | 231-889-5 | 7775-11-3 | E
+
+bután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [1] | 601-004-01-8 | 203-448-7 [1] | 106-97-8 [1] | C, S
+
+izobután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [2] | | 200-857-2 [2] | 75-28-5 [2] |
+
+1,3-butadién; buta-1,3-dién | 601-013-00-X | 203-450-8 | 106-99-0 | D
+
+propylénoxid; 1,2-epoxypropán; metyloxirán | 603-055-00-4 | 200-879-2 | 75-56-9 | E
+
+1,3,5-tris-[(2S a 2R)-2,3-epoxypropyl]-1,3,5-triazín- 2,4,6-(1H,3H,5H)-trión | 616-091-00-0 | 423-400-0 | 59653-74-6 | E
+
 1. Mutagénne látky môžu byť obsiahnuté v látkach a prípravkoch predávaných v maloobchode v koncentráciách neprekračujúcich limity stanovené v zozname nebezpečných chemických látok alebo v predpisoch pre klasifikáciu nebezpečných chemických prípravkov ako limity na označenie týchto látok za mutagénne, ak sa v zozname nebezpečných chemických látok koncentrácia neobmedzuje.
 
 2. Obmedzenie podľa bodu 1 neplatí pre látky a prípravky používané ako
@@ -736,6 +760,8 @@ warfarin; 4-hydroxy-3-(3-oxo-1-fenylbutyl); kumarín | 607-056-00-0 | 201-377-6 
 
 2,4,6-trinitrorezorcinoxid olovnatý; tricinát (TNRO) | 609-019-00-4 | 239-290-0 | 15245-44-0 |
 
+brómpropán | 602-085-00-5 | 200-855-1 | 75-26-3 | E
+
 Látky poškodzujúce reprodukciu kategórie 2:
 
 Názov látky | Indexové číslo | EC číslo | CAS číslo | Pozn.
@@ -775,6 +801,54 @@ metyl-ONN-azoxymetylacetát; metylazoxymetylacetát | 611-004-00-2 | 209-765-7 |
 etyléntiomočovina; imidazolodín-2-tion; 2-imidazolín-2-tiol | 613-039-00-9 | 202-506-9 | 96-45-7 |
 
 N,N-dimetylformamid; dimetylformamid | 616-001-00-X | 200-679-5 | 68-12-2 |
+
+fluorid kademnatý | 048-006-00-2 | 232-222-0 | 7790-79-6 | -
+
+chlorid kademnatý | 048-008-00-3 | 233-296-7 | 10108-64-2 | E
+
+oxiranylmetanol; 2,3-epoxypropán-1-ol; glycidol | 603-063-00-8 | 209-128-3 | 556-52-5 | E
+
+2-metoxypropán-1 -ol; 2 -metoxypropanol | 603-106-00-0 | 216-455-5 | 1589-47-5 | -
+
+4,4'-izobutyletylidéndifenol; 2,2-bis(4'-hydroxyfenyl)- 4-metylpentán | 604-024-00-8 | 401-720-1 | 6807-17-6 |
+
+2 -metoxypropylacetát | 607-251-00-0 | 274-724-2 | 70657-70-4 | -
+
+tridemorf (ISO); 2,6-dimetyl-4-tridecylmorfolín | 613-020-00-5 | 246-347-3 | 24602-86-6 | -
+
+cykloheximid;[1S-[1alfa(S*),3alfa,5beta]]-4- [2-(3,5-dimetyl-2oxocyklohexyl)- 2-hydroxyetyl] -2,6-dión | 613-140-00-8 | 200-636-0 | 66-81-9 |
+
+flusilazol (ISO), bis(4-fluorofenyl)-(metyl)-(lH- 1,2,4-triazol-1 -ylmetyl)-silán | 014-017-00-6 | | 85509-19-9 | E
+
+zmes látok:4-{[bis-(4-fluorofenyl)-metylsilyl] me1yl}-4H-1,2,4-triazol;l-{[bis-(4-fluorofenyl)-metylsilyl] metyl}- 1H-1,2,4-triazol | 014-019-00-7 | 403-250-2 | | E
+
+bis(2-metoxyetyl)éter | 603-139-00-0 | 203-924-4 | 111-96-6 | -
+
+(R) -oxiránmetanol; R-2,3 -epoxy-1 -propanol | 603-143-00-2 | 404-660-4 | 57044-25-4 | E
+
+fluazifop-butyl (ISO);butyl (RS)-2-[4-(5-trifluorometyl- 2-pyridyloxy)fenoxy]propionát | 607-304-00-8 | 274-125-6 | 69806-50-4 |
+
+vinklozolín (ISO);N-3,5-dicMorofenyl-5-metyl-5-vinyl- 1,3-oxazolidin-2,4-dión | 607-307-00-4 | 256-599-6 | 50471-44-8 |
+
+kyselina metoxyoctová | 607-312-00-1 | 210-894-6 | 625-45-6 | E
+
+bis(2-etylhexyl)ftalát; di-(2-etylhexyl)ftalát; DEHP | 607-317-00-9 | 204-211-0 | 117-81-7 | -
+
+dibutyl-ftalát; DBP | 607-318-00-4 | 201-557-4 | 84-74-2 | -
+
+(+/- tetrahydrofurfuryl(R)-2-[4-(6-chloroquinoxalín-2-yloxy)fenyloxy]propionát | 607-373-00-4 | 414-200-4 | 119738-06-6 | E
+
+flumioxazín (ISO);N-(7-fluoro-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazín-6-yl)cyklohex-1-én-1,2-dikarboxamid | 613-166-00-X | - | 103361-09-7 | -
+
+(2RS, 3RS)-2-(4-fluórfenyl)-3-(2-chlórfenyl)-2-[(1H-1,2,4-triazol-1-yl)-metyl]oxirán | 613-175-00-9 | 406-850-2 | 106325-08-0 | -
+
+N, N-dimetylacetamid | 616-011-00-4 | 204-826-4 | 127-19-5 | E
+
+formamid | 616-052-00-8 | 200-842-0 | 75-12-7 | -
+
+N-metylacetamid | 616-053-00-3 | 201-182-6 | 79-16-3 | -
+
+N-metylformamid | 616-056-00-X | 204-624-6 | 123-39-7 | E
 
 1. Látky poškodzujúce reprodukciu môžu byť obsiahnuté v látkach a prípravkoch predávaných v maloobchode v koncentráciách neprekračujúcich limity stanovené v zozname nebezpečných chemických látok alebo v predpisoch pre klasifikáciu nebezpečných chemických prípravkov ako limity na označenie týchto látok za látky poškodzujúce reprodukciu, ak sa v zozname nebezpečných chemických látok koncentrácia neobmedzuje.
 
