@@ -1,0 +1,1 @@
+- 1) § 6 ods. 4 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení zákona Národnej rady Slovenskej republiky č. 160/1996 Z. z.
