@@ -1,1 +1,0 @@
-- *) Za súčasne v niekoľkých jazykoch vydané dielo sa považuje dielo vydané v dvoch alebo viac jazykoch v rozpätí 30 dní.
