@@ -54,6 +54,8 @@
 
 - 28) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- 28a) Napríklad nariadenie Komisie (ES) č. 60/2004 zo 14. januára 2004, ktoré stanovuje dočasné opatrenia v sektore cukru z dôvodu pristúpenia Českej republiky, Estónska, Cypru, Lotyšska, Litvy, Maďarska, Malty, Poľska, Slovinska a Slovenska (Ú. v. ES L 009, 15. 01. 2004).
+
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
 - 30) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
