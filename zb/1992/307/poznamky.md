@@ -42,4 +42,6 @@
 
 - 11) Zákon č. 50/1976 Zb.
 
+- 11a) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
 - 12) Napr. zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
