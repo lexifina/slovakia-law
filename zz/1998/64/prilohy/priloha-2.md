@@ -62,6 +62,10 @@ Príloha č. 2 k nariadeniu vlády č. 64/1998 Z. z.
 
     - 1.10 podporovať rozvoj vyššej a špecifickej občianskej vybavenosti v regionálnom rozvojovom póle mesta Bratislavy Ivanka pri Bratislave a Bernolákovo.
 
+    - 1.11 podporovať rozvoj priemyselných parkov podľa zákona č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov,
+
+    - 1.12 podporovať rozvoj priemyselného parku pre automobilový priemysel v priestore medzi obcami Lozorno a Zohor.
+
     - 2. V oblasti rozvoja rekreácie a turistiky
 
     - 2.1 usmerňovať funkčno-priestorový subsystém turistiky a rekreácie v zhode s prírodnými a civilizačnými danosťami (Dunaj, Karpaty) a v súbežnom zabezpečovaní nárokov obyvateľov kraja, najmä Bratislavy, na každodennú a koncotýždennú rekreáciu, ako aj nárokov účastníkov širšej aj cezhraničnej turistiky na poznávaciu a rekreačnú turistiku,
@@ -131,6 +135,8 @@ Príloha č. 2 k nariadeniu vlády č. 64/1998 Z. z.
     - 3.23 rešpektovať a zachovať krajinný obraz Malých Karpát a nemeniť vinohrady na plochy s funkciou bývania,
 
     - 3.24 zabezpečiť územnú ochranu malokarpatských lesov a alúvia Moravy a Podunajska s presne vymedzeným funkčným využitím.
+
+    - 3.25 vykonať náhradnú výsadbu 30 ha stromovej zelene v území obce Lozorno.
 
     - 4. V oblasti usporiadania územia z hľadiska kultúrnohistorického dedičstva
 
