@@ -38,7 +38,9 @@
 
 - 7) Zákon č. 73/1973 Zb. o brannej výchove v znení neskorších predpisov.
 
-- 7a) § 2 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení nariadenia vlády Slovenskej republiky č. 645/1992 Zb. a nariadenia vlády Slovenskej republiky č. 248/1993 Z. z.
+- 7a) § 2 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
+
+- 7aa) § 16 ods. 8 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
 - 7b) § 12 až 18 zákona č. 1/1991 Zb. v znení neskorších predpisov.
 
