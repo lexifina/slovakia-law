@@ -1,0 +1,1 @@
+- 1) Vyhláška č. 99/1958 Ú. l. o povoľovaní verejných koncertných a iných hudobných produkcií, verejných produkcií estrádnych a artistických, podnikov ľudovej zábavy, niektorý divadelných predstavení, výstav, prednášok a filmových predstavení a výhradnom oprávnení ochranných organizácií autorských.
