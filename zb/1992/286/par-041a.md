@@ -1,6 +1,6 @@
 # § 41a
 
-Daňovníci, ktorých posledná známa daňová povinnosť
+Daňovníci podľa § 2, ktorých posledná známa daňová povinnosť
 
 - a) presiahla 367 200 Sk a neprekročila 1 274 400 Sk platia v roku 1998 mesačné preddavky vo výške 1/12 poslednej známej daňovej povinnosti zvýšené o 5 %,
 
@@ -10,4 +10,4 @@ Daňovníci, ktorých posledná známa daňová povinnosť
 
 - d) presiahla 8 985 600 Sk platia v roku 1998 mesačné preddavky vo výške 1/12 poslednej známej daňovej povinnosti zvýšené o 30 %
 
-odo dňa nadobudnutia účinnosti tohto zákona.
+odo dňa nadobudnutia účinnosti tohto zákona, pričom sa na týchto daňovníkov nevzťahujú ustanovenia § 40d ods. 2 a 3.
