@@ -1,1 +1,0 @@
-- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 112/2000 Z. z. o úprave výšky sadzieb náhrad stravného.
