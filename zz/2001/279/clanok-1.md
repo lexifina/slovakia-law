@@ -240,6 +240,18 @@ Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v zn
 
 - 9. Za § 7 sa vkladá § 7a, ktorý vrátane nadpisu znie:
 
+- „§ 7a
+
+- Osobitná odborná spôsobilosť
+
+- (1)
+
+- Osobitná odborná spôsobilosť je súhrn teoretických vedomostí, praktických schopností a ovládanie technických alebo technologických postupov, ktoré musí spĺňať každý, kto vykonáva živnosti uvedené v prílohe č. 4.
+
+- (2)
+
+- Osobitnú odbornú spôsobilosť spĺňa ten, kto spĺňa odbornú spôsobilosť podľa § 7 ods. 1, alebo ten, kto absolvoval vzdelávanie v akreditovanej vzdelávacej ustanovizni a získal osvedčenie o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa § 22 ods. 1 písm. d).“.
+
 - 10. V § 8 ods. 1 sa v prvej vete vypúšťajú slová „vyhlásený alebo“.
 
 - 11. V § 10 sa odsek 2 dopĺňa písmenom c), ktoré znie:
