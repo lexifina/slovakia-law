@@ -26,7 +26,7 @@ propagačné oznamy (ďalej len „reklamy“) umiestnené alebo uskutečňovan�
 
 (4) Sadzba poplatku z reklamy je najviac:
 
-- a) 5 % z dohodnutej ceny za reklamu uskutočňovanú na prenajatých plochách; v ostatných prípadoch najviac 5 Kčs za každý aj neúplný m<sup>2</sup> plochy za deň. Za plochu dvojrozmernej reklamy sa považuje plocha, ktorú ohraničuje pravouhlý štvoruholník opísaný vonkajším obrysom reklamy. Pri trojrozmernej reklame je to plocha, ktorú tvoria zvislé steny pravouhlo zrezaného valca, ohraničujúce vonkajšie obrysy reklamy,
+- a) 5 % z dohodnutej ceny za reklamu uskutočňovanú na prenajatých plochách; v ostatných prípadoch najviac 5 Sk za každý aj neúplný m<sup>2</sup> plochy za deň. Za plochu dvojrozmernej reklamy sa považuje plocha, ktorú ohraničuje pravouhlý štvoruholník opísaný vonkajším obrysom reklamy. Pri trojrozmernej reklame je to plocha, ktorú tvoria zvislé steny pravouhlo zrezaného valca, ohraničujúce vonkajšie obrysy reklamy,
 
 - b) 5 % z dohodnutej ceny za zvukovú a obrazovú reklamu,
 
