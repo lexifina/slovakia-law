@@ -1,0 +1,1 @@
+- *) Najmä zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona SNR č. 197/1991 Zb., zákona SNR č. 298/1991 Zb., zákona SNR č. 494/1991 Zb., zákona SNR č. 294/1992 Zb., zákona SNR č. 322/1992 Zb., zákona SNR č. 453/1992 Zb. a zákona NR SR č. 2/1993 Z. z.
