@@ -114,7 +114,7 @@
 
 - 50) § 175q Občianskeho súdneho poriadku.
 
-- 51) § 15 ods. 6 až 9 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb.
+- 51) § 43 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
 
 - 52) § 1 a 2 zákona č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov.
 
