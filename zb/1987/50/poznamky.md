@@ -1,0 +1,1 @@
+- 1) § 1 a 2 vyhlášky Ústrednej rady odborov č. 95/1968 Zb. o poskytovaní prídavkov na deti v nemocenskom poistení v znení vyhlášky Ústrednej rady odborov č. 78/1984 Zb.
