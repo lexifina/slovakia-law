@@ -87,3 +87,15 @@
 - Zákon č. 389/1990 Zb. o dani z príjmov obyvateľstva.
 
 - Zákon č. 36/1965 Zb. o dani z príjmov z literárnej a umeleckej činnosti v znení neskorších predpisov.
+
+- 27) § 14 ods. 1 písm. a) zákona č. 1/1991 Zb. o zamestnanosti.
+
+- 28) Zákon č. 244/1991 Zb. o Federálnej bezpečnostnej informačnej službe a o používaní spravodajských prostriedkov.
+
+- Zákon č. 333/1991 Zb. o Federálnom policajnom zbore a Zbore hradnej polície.
+
+- Zákon Českej národnej rady č. 283/1991 Zb. o Polícii Českej republiky.
+
+- Zákon Slovenskej národnej rady č. 204/1991 Zb. o Policajnom zbore Slovenskej republiky.
+
+- 29) Zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky.
