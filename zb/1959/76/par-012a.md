@@ -1,0 +1,17 @@
+# § 12a
+
+(1) Vojaci z povolania majú nárok na riadnu dovolenku v dĺžke 37 dní v kalendárnom roku. Do doby dovolenky sa započítava päť sobôt a päť nedieľ. Sviatky<sup>7</sup>) sa do dĺžky dovolenky nezapočítavajú. Vojakom z povolania, ktorí neboli v služobnom pomere vojaka z povolania po celú dobu kalendárneho roka, patrí pomerná časť riadnej dovolenky, ktorá sa určí tak, že za každý kalendárny mesiac trvania služobného pomeru v kalendárnom roku patrí jedna dvanástina riadnej dovolenky. Ak služobný pomer vznikne najneskôr alebo ak zanikne najskôr 15. deň v mesiaci, patrí vojakovi z povolania pomerná časť riadnej dovolenky aj za tento kalendárny mesiac.
+
+(2) Nástup riadnej dovolenky určuje veliteľ podľa určených úloh a s prihliadnutím na požiadavku vojaka z povolania tak, aby ju vojak z povolania mohol vyčerpať spravidla do konca kalendárneho roka. Veliteľ je povinný udeliť vojakovi z povolania v príslušnom kalendárnom roku najmenej dva týždne z jeho nároku na riadnu dovolenku. Plánovaný nástup riadnej dovolenky oznámi veliteľ vojakovi z povolania najneskôr do 15. januára kalendárneho roka. Riadnu dovolenku nevyčerpanú v kalendárnom roku je veliteľ povinný poskytnúť najneskôr do konca nasledujúceho kalendárneho roka.
+
+(3) Ak to vyžaduje dôležitý záujem služby, môže veliteľ zmeniť vojakovi z povolania pôvodne určený nástup riadnej dovolenky alebo ho z nej odvolať; vojak z povolania má nárok na náhradu nákladov, ktoré mu tým bez jeho zavinenia vznikli. Udelenie riadnej dovolenky v inom než pôvodne určenom termíne oznámi veliteľ vojakovi z povolania najneskôr 14 dní pred jej nástupom; so súhlasom vojaka z povolania možno túto lehotu skrátiť.
+
+(4) Riadna dovolenka sa prerušuje, ak vojak z povolania je v čase čerpania riadnej dovolenky uznaný za neschopného na službu pre chorobu alebo úraz, ak je mu udelená krátka dovolenka na ošetrovanie člena rodiny, a u vojačky z povolania dňom nástupu materskej dovolenky.
+
+(5) Ak riadna dovolenka alebo jej časť nebola vyčerpaná ani do konca nasledujúceho kalendárneho roka, patrí vojakovi z povolania náhrada v pomernej výške platu zodpovedajúca počtu dní nevyčerpanej riadnej dovolenky. Obdobne sa postupuje pri prepustení vojaka z povolania zo služobného pomeru, ktorý nevyčerpal riadnu dovolenku alebo jej časť. Ak vojak z povolania zomrie, vyplatí sa náhrada za nevyčerpanú dovolenku alebo jej časť pozostalému manželovi, a ak ho niet, rovným dielom osobám, ktoré boli na vojaka odkázané výživou.
+
+(6) Ak služobný pomer vojaka z povolania zanikne z dôvodov uvedených v § 26 ods. 1 písm. d), f) a g), ods. 2 písm. e) alebo odňatím vojenskej hodnosti po vyčerpaní riadnej dovolenky alebo jej časti, na ktorú mu nevznikol nárok, je povinný vrátiť plat vyplatený za túto dobu.
+
+(7) Riadna dovolenka sa kráti pri neschopnosti na službu pre chorobu alebo úraz, pri udelení dovolenky bez nároku na peňažné náležitosti a pri udelení ďalšej materskej dovolenky za prvých 120 dní a za každých ďalších 30 dní o jednu dvanástinu. Riadna dovolenka sa nekráti pri neschopnosti na službu pre pracovný úraz alebo chorobu z povolania.
+
+(8) Riadnu dovolenku možno krátiť za každý deň neospravedlnenej neprítomnosti vojaka z povolania v zamestnaní o jeden až tri dni, najviac o 22 dní v kalendárnom roku. Pri neprítomnosti vojaka z povolania v zamestnaní z dôvodu výkonu trestu odňatia slobody sa riadna dovolenka kráti za každých 30 dní neprítomnosti o jednu dvanástinu.
