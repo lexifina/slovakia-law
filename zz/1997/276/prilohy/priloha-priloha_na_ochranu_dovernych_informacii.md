@@ -102,4 +102,4 @@ D. PROCEDÚRY V PRÍPADE PORUŠENIA ALEBO ÚDAJNÉHO PORUŠENIA OCHRANY INFORMÁ
 
 23. V prípadoch porušenia, ktoré sa týkajú tak zmluvného štátu, ako aj Organizácie, posúdi túto otázku Komisia pre riešenie sporov týkajúcich sa ochrany informácií, ktorá sa ustanoví ako pomocný orgán Konferencie. Túto komisiu vymenuje Konferencia. Predpisy, ktoré upravujú zloženie a pracovné procedúry, prijme Konferencia na svojom prvom zasadaní.
 
-[Anglické znenie dohovoru](../assets/88b46d7ed42fe9ae9edc36bb8fe61dec27ed43bb5a17aa719c86c892cba2476e.pdf)
+[Anglické znenie dohovoru](../assets/6d87a2e24aa817afb7ffb8aa3217ce146013c39e676b3e2403676b58a31a75f1.pdf)

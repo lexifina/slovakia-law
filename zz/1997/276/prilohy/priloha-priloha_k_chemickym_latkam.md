@@ -228,4 +228,4 @@ B. Prekurzory: | |
 
 PRÍLOHA NA REALIZÁCIU A VERIFIKÁCIU (VERIFIKAČNÁ PRÍLOHA)
 
-[Príloha 02](../assets/eeb83d73dfded3338fbfed40fcbf7010862d078eb3d247948385416dd56b154a.pdf)
+[Príloha 02](../assets/7ba9890ce567fc4f5c097dc515890f76ecb7de57eade61c4eb93b6bab4709e77.pdf)
