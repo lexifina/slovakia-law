@@ -1,0 +1,1 @@
+- 1) § 14, § 22, § 23, § 24, § 35 a § 39 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
