@@ -126,7 +126,11 @@ Zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho
 
 - „(6)
 
-- Majetková ujma vzniknutá v dôsledku hospodárenia na poľnohospodárskom pôdnom fonde v imisne ohrozenom území sa vypočíta podľa prílohy č. 2.“.
+- Majetková ujma vzniknutá v dôsledku hospodárenia na poľnohospodárskom pôdnom fonde v imisne ohrozenom území sa vypočíta podľa prílohy č. 2.
+
+- (7)
+
+- Podmienkou úhrady majetkovej ujmy je vyhlásenie osobitnej sústavy obhospodarovania z niektorého dôvodu uvedeného v odseku 3. Majetková ujma podľa odsekov 5 a 6 sa uhrádza vlastníkovi a je splatná najneskôr do 30. septembra bežného roka.“.
 
 - 11. V § 7 ods. 1 písmeno b) znie:
 
