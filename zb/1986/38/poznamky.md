@@ -1,1 +1,0 @@
-- 1) § 92 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane.
