@@ -1,18 +1,10 @@
-- 1) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb., zákona č. 468/1991 Zb. a zákona Národnej rady Slovenskej republiky č. l3/l993 Z. z.
+- 1) Zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z.
 
-- 2) § 12 autorského zákona.
+- 6) § 21 ods. 3 a § 51 ods. 2 zákona č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
 
-- 3) § 36 autorského zákona.
+- 7) § 21 ods. 4 zákona č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
 
-- 4) § 45 autorského zákona.
-
-- 5) § 46 autorského zákona.
-
-- 6) § 13 ods. 2 a 3 autorského zákona.
-
-- 7) § 15 ods. 2 písm. a) autorského zákona.
-
-- 8) § 31 autorského zákona.
+- 8) § 31 ods. 2 zákona č. 383/1997 Z. z.
 
 - 9) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
@@ -20,6 +12,6 @@
 
 - 11) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
-- 12) Vyhláška Ministerstva kultúry Slovenskej republiky č. 488/1991 Zb. na vykonanie niektorých ustanovení autorského zákona.
+- 12) § 21 ods. 5 zákona č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
 
 - 13) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
