@@ -1,0 +1,1 @@
+- *) Vyhláška Štátnej komisie pre vedecké hodnosti č. 200/1959 Ú.l. (Ú.v.); vyhláška Štátnej komisie pre vedecké hodnosti č. 11/1960 Zb.; vyhláška Štátnej komisie pre vedecké hodnosti č. 68/1961 Zb.; inštrukcia Štátnej komisie pre vedecké hodnosti č. 1/1959 v znení inštrukcie č. 1/1962 Vestníka MŠK; inštrukcia Štátnej komisie pre vedecké hodnosti č. 2/1959 Vestníka MŠK.
