@@ -14,7 +14,7 @@
 
 - e) je bezúhonná,
 
-- f) má osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie, alebo autorizáciu na úradné meranie podľa osobitných predpisov.<sup>10a</sup>)
+- f) má osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie, alebo autorizáciu na úradné meranie podľa osobitných predpisov,<sup>10a</sup>) okrem kvalitatívneho a kvantitatívneho zisťovania faktorov podľa § 13e ods. 2 a § 13n.
 
 (3) Požadovanou kvalifikáciou a odbornou praxou na činnosť uvedenú v § 27a sa rozumie
 
@@ -26,7 +26,7 @@
 
 (4) Úrad verejného zdravotníctva vydá na činnosť uvedenú v § 27a povolenie právnickej osobe, ak má
 
-- a) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie, alebo autorizáciu na úradné meranie podľa osobitných predpisov,<sup>10a</sup>)
+- a) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie, alebo autorizáciu na úradné meranie podľa osobitných predpisov,<sup>10a</sup>) okrem kvalitatívneho a kvantitatívneho zisťovania faktorov podľa § 13e ods. 2 a § 13n,
 
 - b) určeného odborného zástupcu.
 

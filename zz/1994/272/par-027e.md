@@ -22,7 +22,7 @@
 
 - f) charakteristiku činnosti a technického vybavenia,
 
-- g) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie alebo rozhodnutie o autorizácii na úradné meranie podľa osobitných predpisov.<sup>10a</sup>)
+- g) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie alebo rozhodnutie o autorizácii na úradné meranie podľa osobitných predpisov,<sup>10a</sup>) okrem kvalitatívneho a kvantitatívneho zisťovania faktorov podľa § 13e ods. 2 a § 13n.
 
 (4) Ak je žiadateľ právnická osoba, v žiadosti uvedie
 
@@ -42,4 +42,4 @@
 
 - d) charakteristiku činnosti a technického vybavenia,
 
-- e) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie alebo rozhodnutie o autorizácii na úradné meranie podľa osobitných predpisov.<sup>10a</sup>)
+- e) osvedčenie o akreditácii na činnosť, na ktorú žiada vydať povolenie alebo rozhodnutie o autorizácii na úradné meranie podľa osobitných predpisov,<sup>10a</sup>) okrem kvalitatívneho a kvantitatívneho zisťovania faktorov podľa § 13e ods. 2 a § 13n.
