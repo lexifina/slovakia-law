@@ -1,9 +1,7 @@
 - 1) § 16 zákona Slovenskej národnej rady č. 78/1978 Zb. o školských zariadeniach.
 
-- 2) Oblasti, v ktorých je mimoriadne ohrozený zdravý vývoj detského organizmu, určuje vláda SSR.
+- 2) § 7 ods. 3, § 12 zákona Slovenskej národnej rady č. 79/1978 Zb. o štátnej správe v školstve.
 
-- 3) § 7 ods. 2, § 11 ods. 1 písm. c) zákona Slovenskej národnej rady č. 79/1978 Zb. o štátnej správe v školstve.
+- 3) Úprava Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky z 8. februára 1983 č. 1 734/1983-412 o školskom stravovaní registrovaná v čiastke 13/1983 Zb. a uverejnená vo Zvestiach Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva kultúry Slovenskej socialistickej republiky zošit č. 4/1983.
 
-- 4) Úprava Ministerstva školstva SSR z 23. apríla 1976 č. 900/1976 A/1 o školskom stravovaní (Zvesti Ministerstva školstva a Ministerstva kultúry SSR, ročník 1976, zošit 5) registrovaná v čiastke 13/1976 Zb.
-
-- 5) Vyhláška Štátnej komisie pre financie, ceny a mzdy č. 96/1967 Zb. o náhradách cestovných, sťahovacích a iných výdavkov.
+- 4) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 33/1984 Zb. o cestovných náhradách.
