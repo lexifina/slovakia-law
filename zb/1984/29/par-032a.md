@@ -10,4 +10,4 @@
 
 - b) individuálna integrácia, pri ktorej sú žiaci so špeciálnymi výchovno-vzdelávacími potrebami zaraďovaní do tried a výchovných skupín s ostatnými žiakmi školy a sú vzdelávaní podľa individuálneho výchovno-vzdelávacieho programu, pričom učebné osnovy a výchovné postupy sú prispôsobené ich potrebám.
 
-(3) Špeciálne triedy v základných školách a špeciálne triedy v stredných školách sa zriaďujú spravidla pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, s rovnakým druhom postihnutia.
+(3) Špeciálne triedy v základných školách a špeciálne triedy v stredných školách sa zriaďujú spravidla pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, s rovnakým druhom postihnutia alebo intelektového nadania.

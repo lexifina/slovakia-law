@@ -70,6 +70,8 @@
 
 - 8c) Zákon č. 312/2000 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8d) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
+
 - 9) Branný zákon č. 92/1949 Zb.(úplné znenie č. 121/1978 Zb.).Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov (úplné znenie č. 122/1978 Zb.).Zákon č. 88/1952 Zb. o materiálnom zabezpečení príslušníkov ozbrojených síl v znení neskorších predpisov.Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
 
 - 10) Zákon č. 100/1970 Zb. o služobnom pomere príslušníkov Zboru národnej bezpečnosti v znení neskorších predpisov.Zákon č. 76/1959 Zb. v znení neskorších predpisov.Branný zákon č. 92/1949 Zb. (úplné znenie č. 121/1978 Zb.).
