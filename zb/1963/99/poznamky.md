@@ -126,6 +126,8 @@
 
 - 35a) § 25 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
 
-- 35b) Zákon Slovenskej národnej rady č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
+- 35b) Zákon č. 195/1998 Z. z. o sociálnej pomoci.
+
+- 35c) § 57 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 36) § 5 zákona č. 526/1990 Zb. o cenách.
