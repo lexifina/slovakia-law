@@ -66,14 +66,22 @@
 
 - 29) § 26 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
 
-- 30) § 5 ods. 1 písm. d) zákona SNR č. 494/1991 Zb.
+- 30) § 5 ods. 2 písm. d) zákona Slovenskej národnej rady č. 494/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
 
 - 31) § 52 zákona č. 455/1991 Zb.
 
-- 32) § 3 ods. 4 písm. d), § 4 ods. 1 písm. e), f) a g) zákona o odpadoch.
+- 32) § 3 ods. 5 a § 4 ods. 1 písm. d) zákona o odpadoch.
 
-- 33) Tlačivo ŠEVT 01 305 0 (MŽP SR) Žiadosť o súhlas k dovozu / vývozu odpadov.
+- 33) § 3 ods. 4 písm. d) zákona o odpadoch.
 
-- Tlačivo ŠEVT 02 306 0 (MŽP SR) Žiadosť o súhlas na tranzitnú prepravu odpadov cez územie Slovenskej republiky.
+- 33a) § 3 ods. 4 písm. a) až c) zákona o odpadoch.
+
+- 33b) § 3 ods. 2 a 3 zákona o odpadoch.
+
+- 33c) § 4 ods. 1 písm. e) zákona o odpadoch.
+
+- 33d) § 4 ods. 1 písm. f) zákona o odpadoch.
 
 - 34) § 15 zákona o odpadoch.
+
+- 1) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z.

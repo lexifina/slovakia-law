@@ -100,9 +100,9 @@ Príloha č. 5 nariadenia vlády SR č. 606/1992 Zb.
 
   - Skládka 2. stavebnej triedy
 
-  - Tento typ skládok sa môže budovať na slabo priepustnom podloží (vo vzťahu k dnu skládky), charakterizovanom súčiniteľom filtrácie najmenej k = 1.10<sup>-7</sup> m x s<sup>-1</sup>, pričom jeho minimálna mocnosť sa vypočíta podľa vzťahu T = k.3.10<sup>8</sup> (T = mocnosť vrstvy v metroch).
+  - Tento typ skládok sa môže budovať na slabo priepustnom podloží (vo vzťahu k dnu skládky), charakterizovanom súčiniteľom filtrácie najviac k = 1.10<sup>-7</sup> m.s<sup>-1</sup>, pričom jeho minimálna mocnosť musí byť najmenej T = k.3.10<sup>8</sup> (T = mocnosť vrstvy v metroch).
 
-  - Ak bude priepustnosť geologického podložia dna skládky vyššia ako k = 1.10<sup>-7</sup> m.s<sup>-1</sup>, alebo ak mocnosť tejto vrstvy je menšia ako T = k.3.10<sup>8</sup> m, je potrebné vybudovať tesniaci prvok minimálne s takou tesniacou účinnosťou, aby sa dosiahli požadované parametre. Ako tesniaci prvok možno použiť plastovú fóliu, alebo minerálne tesnenie. Pritom mocnosť umelého minerálneho tesnenia nesmie byť menšia ako 0,6 m.
+  - Ak bude súčiniteľ filtrácie geologického podložia dna skládky vyšší ako k = 1.10<sup>-7</sup> m.s<sup>-1</sup>, alebo ak mocnosť tejto vrstvy je menšia ako T = k.3.10<sup>8</sup> m, je potrebné vybudovať tesniaci prvok minimálne s takou tesniacou účinnosťou, aby sa dosiahli požadované parametre. Ako tesniaci prvok možno použiť plastovú fóliu, alebo minerálne tesnenie. Pritom mocnosť umelého minerálneho tesnenia nesmie byť menšia ako 0,6 m.
 
   - Skládka 3. stavebnej triedy
 

@@ -174,9 +174,9 @@ Príloha č. 4 nariadenia vlády SR č. 606/1992 Zb.
 
 - 30 | striebro | mg/l | 0.1 <sup>2</sup>)
 
-- 31 | tálium | mg/l | 0.01 <sup>2</sup>)
+- 31 | tálium | mg/l | 0.1 <sup>2</sup>)
 
-- 32 | vanád | mg/l | 0.05 <sup>2</sup>)
+- 32 | vanád | mg/l | 0.2 <sup>2</sup>)
 
 - 33 | zinok | mg/l | 3.0 <sup>2</sup>)
 
@@ -194,7 +194,7 @@ Príloha č. 4 nariadenia vlády SR č. 606/1992 Zb.
 
 - 40 | dusičnan <sup>8</sup>) (NO<sub>3</sub>) | mg/l | <sup>7</sup>)
 
-- 41 | dusitany (NO<sub>2</sub>) | mg/l | 0.1 <sup>2</sup>)
+- 41 | dusitany (NO<sub>2</sub>) | mg/l | 1.0 <sup>2</sup>)
 
 - 42 | fosforečnany (P) | mg/l | 10.0
 
@@ -206,11 +206,7 @@ Príloha č. 4 nariadenia vlády SR č. 606/1992 Zb.
 
 - <sup>2</sup>) Nie je povolené žiadne prekročenie hraničných hodnôt.
 
-- <sup>3</sup>) Uvádza sa v skúšobnom protokole.<sup>4</sup>) Len v špeciálnych prípadoch, dosiaľ nie je všeobecne stanovené.
-
-- <sup>5</sup>) Fenoly prchajúce s vodnou parou (ako fenolový index).<sup>6</sup>) Anionovo aktívne tenzidy prepočítané na dodecylsulfonan sodný.
-
-- <sup>7</sup>) Ohraničené vodivosťou.
+- <sup>3</sup>) Uvádza sa v skúšobnom protokole.<sup>4</sup>) Len v špeciálnych prípadoch, dosiaľ nie je všeobecne stanovené.<sup>5</sup>) Fenoly prchajúce s vodnou parou (ako fenolový index).<sup>6</sup>) Anionovo aktívne tenzidy prepočítané na dodecylsulfonan sodný.<sup>7</sup>) Ohraničené vodivosťou.
 
   - Tabuľka č. 3
 
