@@ -14,17 +14,17 @@
 
 - 8) Napríklad zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
-- 9) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky, zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov, zákon č. 153/2001 Z. z. o prokuratúre.
+- 9) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov, zákon č. 153/2001 Z. z. o prokuratúre.
 
 - 10) Čl. 7 ods. 2 a čl. 120 ods. 2 Ústavy Slovenskej republiky.
 
-- 11) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 11) Zákon č. 431/2001 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 12) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
+- 12) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
-- 12a) § 31 ods. 5 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 445/2001 Z. z.
+- 12a) § 16 ods. 4 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
 
-- 13) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+- 13) Napríklad zákon č. 583/2004 Z. z., zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 14) Zákon č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
 
@@ -46,7 +46,7 @@
 
 - 18e) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
-- 18f) Napríklad § 32a zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 18f) Napríklad zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
 
 - 19) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
