@@ -2,9 +2,13 @@
 
 - 2) § 17 Hospodárskeho zákonníka.
 
-- 3) Vyhláška Štátnej plánovacej komisie a Štátnej arbitráže Československej socialistickej republiky č. 48/1980 Zb. o hmotnom bilancovaní a prerokúvaní dodávateľsko-odberateľských vzťahov v plánovacom procese.
+- 2a) § 3 ods. 5 zákona č. 89/1987 Zb. o výrobe, rozvode a spotrebe tepla.
 
-- 4) § 83 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 2b) § 3 ods. 3 zákona č. 89/1987 Zb.
+
+- 2c) Vyhláška Federálneho ministerstva palív a energetiky č. 94/1987 Zb. o hospodárení s teplom, pripájacích podmienkach a zmene teplonosnej látky.
+
+- 2d) Výmer Ústrednej správy energetiky a Ústrednej správy pre rozvoj miestneho hospodárstva č. 20 z 9. 7. 1965 v znení výmeru Českého cenové úradu 2646/31/70 a výmeru Slovenského cenového úradu 698-C/70/II.
 
 - 5) ČSN 33 3100 Roztriedenie elektrární a teplární.
 
@@ -16,7 +20,11 @@
 
 - Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 111/1975 Zb. o evidencii a registrácii pracovných úrazov a o hlásení prevádzkových nehôd (havárií) a porúch technických zariadení.
 
+- 8a) § 19 a 20 vyhlášky č. 94/1987 Zb.
+
 - 9) § 30 ods. 3 zákona č. 138/1973 Zb. o vodách (vodný zákon).
+
+- 9a) § 4 vyhlášky č. 94/1987 Zb.
 
 - 10) § 64 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 105/1981 Zb. o dokumentácii stavieb.
 
