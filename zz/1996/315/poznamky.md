@@ -68,8 +68,6 @@
 
 - 34) Napríklad Občiansky zákonník, zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
-- 35) § 56 ods. 1 písm. h) zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
-
 - 36) Zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
 - 37) Zákon č. 505/1990 Zb. o metrológii v znení neskorších predpisov.
