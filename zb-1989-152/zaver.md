@@ -1,0 +1,1 @@
+Hrivnák v. r.
