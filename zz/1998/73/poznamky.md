@@ -2,7 +2,7 @@
 
 - 1a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
-- 2) Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+- 2) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
@@ -14,7 +14,7 @@
 
 - 7) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
 
-- 8) Zákon č. 428/2002 Z. z. o ochrane osobných údajov
+- 8) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 9) § 116 zákona č. 40/1964 Zb. Občiansky zákonník.
 
@@ -26,6 +26,8 @@
 
 - 10b) § 4 ods. 3 zákona č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
+- 10c) § 20 zákona č. 328/2002 Z. z.
+
 - 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 12) § 20 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
@@ -34,13 +36,27 @@
 
 - 13) Napríklad zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona Národnej rady Slovenskej republiky č. 72/1995 Z. z. a zákon Slovenskej národnej rady č. 347/1990 Zb. v znení neskorších predpisov.
 
-- 13a) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 13a) § 7 zákona č. 198/1994 Z. z. o Vojenskom spravodajstve.
+
+- § 7 a 8 zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+
+- 13aa) Napríklad zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov.
+
+- 13ab) Napríklad § 3 ods. 1 písm. a) a § 12 až 18 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+
+- 13ac) Napríklad § 7 ods. 7, § 10 ods. 3 a 14 zákona č. 96/2002 Z. z.
+
+- 13ad) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- 13ae) Zákon č. 96/2002 Z. z.
 
 - 13b) § 143a Občianskeho zákonníka.
 
 - 13c) § 115 Občianskeho zákonníka.
 
 - 14) § 10 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 14a) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 15) § 14 a 15 zákona Slovenskej národnej rady č. 372/1990 Zb.
 
@@ -64,17 +80,19 @@
 
 - 20) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení zákona č. 47/1991 Zb.Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
-- 21) § 13 písm. a) zákona č. 39/1977 Zb. o výchove nových vedeckých pracovníkov a o ďalšom zvyšovaní kvalifikácie vedeckých pracovníkov.
-
-- 22) § 22 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
+- 21) § 2 ods. 5 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - 23) Zákon Slovenskej národnej rady č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
 
+- 24a) § 38 zákona č. 328/2002 Z. z.
+
 - 25) § 99 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 25a) Nariadenie vlády Slovenskej republiky č. 170/1993 Z. z. o poskytovaní náhrad niektorých výdavkov zamestnancom zahraničnej služby v znení neskorších predpisov.
+- 25a) § 59b a 59c zákona č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov.
+
+- 25b) § 18 až 32 zákona č. 283/2002 Z. z. o cestovných náhradách.
 
 - 26) § 5 ods. 1 zákona č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
@@ -113,6 +131,8 @@
 - 40b) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - Zákon č. 413/2002 Z. z. o sociálnom poistení v znení zákona č. 639/2002 Z. z.
+
+- 40c) § 6 zákona č. 328/2002 Z. z.
 
 - 41) Zákon č. 32/1957 Zb.
 

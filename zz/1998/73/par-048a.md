@@ -12,7 +12,7 @@
 
 (3) Majetkové priznanie obsahuje
 
-- a) meno, priezvisko, dátum narodenia a adresu trvalého pobytu policajta, jeho dieťaťa a manžela policajta podľa odseku 8,
+- a) meno, priezvisko, dátum narodenia a adresu trvalého pobytu policajta,
 
 - b) označenie nehnuteľnosti, právny dôvod jej nadobudnutia, dátum jej nadobudnutia a cenu jej obstarania,<sup>13a</sup>)
 
