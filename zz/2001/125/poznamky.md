@@ -1,0 +1,1 @@
+- 1) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z.
