@@ -1,1 +1,0 @@
-- *) Tým sa stáva bezpredmetnou poznámka k doterajšiemu zneniu § 8.
