@@ -186,7 +186,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | | 4. kópie z katastrálnej mapy alebo mapy bývalého pozemkového katastra alebo z pozemkovoknižnej mapy alebo mapy určeného operátu, za každú kópiu formátu A3, A4, |
 
-  - 5. kópie originálu listu vlastníctva, kópie pozemkovoknižnej vložky alebo bývalého pozemkového katastra, za každých aj začatých 20 parciel alebo 20 bytov a nebytových priestorov, ktoré sú verejnými listinami .................................................................................................................................................................................... | 250 Sk
+  - 5. kópie originálu listu vlastníctva, kópie pozemkovoknižnej vložky alebo bývalého pozemkového katastra, za každých aj začatých 20 parciel alebo 20 bytov a nebytových priestorov, ktoré sú verejnými listinami ......................................................................................................................................................... | 250 Sk
 
   - b) Vydanie druhého a ďalšieho rovnopisu verejných listín uvedených v písmene a) ................................................. | 100 Sk
 
@@ -194,39 +194,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Vydanie druhého a ďalšieho rovnopisu neverejných listín uvedených v písmene c) ............................................. | 50 Sk
 
-  - e) Poskytnutie katastrálneho operátu alebo operátu bývalého pozemkového katastra na nahliadnutie pre potreby vyhotovenia výpisu, odpisu alebo náčrtu v rámci jedného katastrálneho územia ................................. | 100 Sk
+  - e) Poskytnutie katastrálneho operátu alebo skoršieho písomného a mapového operátu preukazujúceho vlastnícke právo k nehnuteľnosti a ďalších súvisiacich dokumentačných materiálov na nahliadnutie pre potreby vyhotovenia výpisu, odpisu alebo náčrtu v rámci jedného katastrálneho územia ................................ | 100 Sk
 
   - f) Poskytnutie informácií zo súboru popisných informácií katastra nehnuteľností a zo súboru ............................... geodetických informácií katastra nehnuteľností v rámci jedného katastrálneho územia, na vyhotovenie geometrického plánu alebo vytyčovacieho náčrtu ............................................................................................................. | 200 Sk
 
   - g) Poskytnutie informácií zo skoršieho písomného a mapového katastrálneho operátu preukazujúceho vlastnícke právo k nehnuteľnosti alebo iného operátu súvisiaceho s katastrom nehnuteľností v rámci jedného katastrálneho územia, na vyhotovenie geometrického plánu alebo vytyčovacieho náčrtu ........................ | 200 Sk
 
-  - h) Poskytnutie informácií z katastrálneho operátu na zisťovanie údajov pre exekučné konanie, konkurzné konanie, likvidáciu obchodných spoločností, dražby, bankové subjekty, v rámci jedného katastrálneho územia | 100 Sk
+  - h) Poskytnutie informácií z katastrálneho operátu na zisťovanie údajov pre exekučné konanie, konkurzné konanie, likvidáciu obchodných spoločností, dražby, bankové subjekty, v rámci jedného katastrálneho územia | 200 Sk
 
-  - i) Overenie štyroch vyhotovení geometrického plánu, za každých aj začatých 20 parciel právneho stavu (v prípade, ak stav C katastra nehnuteľností nie je zhodný s právnym stavom, súčet parciel právneho stavu a stavu registra C katastra nehnuteľností) ......................................................................................................................... | 250 Sk
+  - i) Overenie štyroch vyhotovení geometrického plánu, za každých aj začatých 20 parciel právneho stavu (v prípade, ak stav C katastra nehnuteľností nie je zhodný s právnym stavom, súčet parciel právneho stavu a stavu registra C katastra nehnuteľností) ....................................................................................................................... | 250 Sk
 
-  - j) Overenie ďalších troch vyhotovení geometrického plánu ............................................................................................. | 200 Sk
+  - j) Overenie ďalších troch vyhotovení geometrického plánu ............................................................................................ | 200 Sk
 
-  - k) Overenie troch vyhotovení vytyčovacieho náčrtu ............................................................................................................. | 250 Sk
+  - k) Overenie zriadenia a aktualizácie geodetických bodov, za každých aj začatých 10 bodov ................................... | 200 Sk
 
-  - l) Overenie ďalších troch vyhotovení vytyčovacieho náčrtu ............................................................................................... | 200 Sk
+  - l) Overenie merania, digitalizácie a zobrazenia predmetov, ktoré sa preberajú do základných štátnych mapových diel s veľkou mierkou, za každý aj začatý hektár ............................................................................................ | 200 Sk
 
-  - m) Overenie zriadenia a aktualizácie geodetických bodov, za každých aj začatých 10 bodov ................................... | 200 Sk
+  - m) Vyhotovenie kópie originálu geometrického plánu ..................................................................................................... | 100 Sk
 
-  - n) Overenie merania, digitalizácie a zobrazenia predmetov, ktoré sa preberajú do základných štátnych mapových diel s veľkou mierkou, za každý aj začatý hektár ............................................................................................. | 200 Sk
+  - Oslobodenie Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. |
 
-  - o) Vyhotovenie kópie originálu geometrického plánu ....................................................................................................... | 100 Sk
-
-  - Poznámky 1. Správny orgán nevyberie poplatky podľa písmen a) až e) tejto položky, ak ide o úkony spojené s vyhlasovaním chránených území a ich ochranných pásiem a s realizovaním prieskumu a výskumu osobitne chránených častí prírody a krajiny pre potreby ochrany prírody; s pozemkovými úpravami, s vyhotovením lesných hospodárskych plánov. 2. Úkon spoplatňovaný podľa tejto položky nezahŕňa poskytnutie súradníc podrobných bodov. 3. Poskytnutie údajov z katastra nehnuteľností podľa písmena a) zahŕňa aj poskytnutie údajov pre nájomné vzťahy podľa osobitného predpisu.<sup>12a</sup>) 4. Štátne archívy vyberajú poplatky podľa tejto položky po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Súčasne sa vyberá poplatok za osvedčenie podľa položky 4 písm. e). 5. Správny orgán nevyberie poplatky podľa tejto položky, ak ide o úkony potrebné na účely konania o dedičstve a na účely ochrany národných kultúrnych pamiatok. 6. Ak došlo pri úkonoch spoplatňovaných podľa tejto položky k zrejmým chybám, ktoré zavinil správny orgán, za opravné úkony sa správny poplatok už nevyberá. |
+  - Poznámky 1. Správny orgán nevyberie poplatky podľa písmen a) až e) tejto položky, ak ide o úkony spojené s vyhlasovaním chránených území a ich ochranných pásiem a s realizovaním prieskumu a výskumu osobitne chránených častí prírody a krajiny pre potreby ochrany prírody; s pozemkovými úpravami, s vyhotovením lesných hospodárskych plánov. 2. Úkon spoplatňovaný podľa tejto položky nezahŕňa poskytnutie súradníc podrobných bodov. 3. Poskytnutie údajov z katastra nehnuteľností podľa písmena a) zahŕňa aj poskytnutie údajov pre nájomné vzťahy podľa osobitného predpisu.<sup>12a</sup>) 4. Štátne archívy vyberajú poplatky podľa tejto položky po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Súčasne sa vyberá poplatok za osvedčenie podľa položky 4 písm. e). 5. Správny orgán nevyberie poplatky podľa tejto položky, ak ide o úkony potrebné na účely konania o dedičstve a na účely ochrany národných kultúrnych pamiatok. 6. Ak došlo pri úkonoch spoplatňovaných podľa tejto položky k zrejmým chybám, ktoré zavinil správny orgán, za opravné úkony sa správny poplatok už nevyberá. 7. Poplatníkom za úkony podľa položky 10 písm. f), g), i), j) až l) je vyhotoviteľ vybraných geodetických a kartografických činností. |
 
     - Položka 11
 
-  - a) Návrh na začatie konania o povolení vkladu práva k nehnuteľnosti do katastra nehnuteľností ............... | 2 000 Sk
+  - Návrh na začatie konania o povolení vkladu práva k nehnuteľnosti do katastra nehnuteľností ................. | 2 000 Sk
 
-  - b) Návrh na začatie konania o určení priebehu hranice pozemkov .................................................................... | 5 000 Sk
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené obce a vyššie územné celky, ak návrh na začatie konania o povolení vkladu práva k nehnuteľnosti do katastra nehnuteľností podávajú v súvislosti s usporiadaním vlastníckych práv k pozemným komunikáciám a školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. |
 
-  - Splnomocnenie Správny orgán vyberie poplatok podľa písmena a) tejto položky vo výške 5 000 Sk, ak účastník konania pri doručení návrhu na vklad do katastra nehnuteľností žiada rozhodnúť o vklade urýchlene do 15 dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom, keď sa rozhodnutie o prerušení oznámilo. Príplatok za urýchlené rozhodnutie je splatný v deň doručenia návrhu na vklad. Ak sa konanie zastavilo alebo návrh na vklad bol zamietnutý, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o vklade práva k nehnuteľnosti do katastra nehnuteľností nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie o návrhu na vklad a poplatkom určeným podľa písmena a) tejto položky. |
+  - Splnomocnenie Správny orgán vyberie poplatok podľa tejto položky vo výške 8 000 Sk, ak účastník konania pri doručení návrhu na vklad do katastra nehnuteľností žiada rozhodnúť o vklade urýchlene do 15 dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Príplatok za urýchlené rozhodnutie je splatný v deň doručenia návrhu na vklad. Ak sa konanie zastavilo alebo návrh na vklad bol zamietnutý, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o vklade práva k nehnuteľnosti do katastra nehnuteľností nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie o návrhu na vklad a poplatkom určeným podľa tejto položky. |
 
-  - Poznámka Ak sú predmetom návrhu na vklad do katastra nehnuteľností právne vzťahy z viacerých právnych úkonov, poplatok sa vyberie za každý právny úkon osobitne podľa tejto položky. |
+  - Poznámka Ak sú predmetom návrhu na vklad do katastra nehnuteľností právne vzťahy z viacerých druhov právnych úkonov, poplatok sa vyberie za každý právny úkon osobitne podľa tejto položky. |
 
     - Položka 12
 
@@ -358,13 +356,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 23
 
-  - a) Vydanie cestovného pasu alebo cestovného dokladu cudzinca ..................................................... | 600 Sk
+  - a) Vydanie cestovného pasu alebo cestovného dokladu cudzinca ....................................................... | 1 000 Sk
 
-  - b) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe mladšej ako 15 rokov | 250 Sk
+  - b) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe od 5 rokov do 15 rokov . | 400 Sk
 
-  - c) Vydanie cestovného preukazu alebo preukazu na prekračovanie štátnych hraníc ....................... | 200 Sk
+  - c) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe mladšej ako 5 rokov ..... | 250 Sk
 
-  - d) Predĺženie platnosti alebo vykonanie zmeny v cestovnom doklade, za každý úkon ...................... | 100 Sk
+  - d) Vydanie cestovného preukazu alebo preukazu na prekračovanie štátnych hraníc ........................ | 200 Sk
+
+  - e) Predĺženie platnosti alebo vykonanie zmeny v cestovnom doklade, za každý úkon ....................... | 100 Sk
 
   - Splnomocnenie Správny orgán vyberie poplatok podľa tejto položky až do výšky desaťnásobku príslušnej sadzby, ak vydáva cestovný doklad ako náhradu za stratený, zničený alebo poškodený cestovný doklad vydaný od 1. 4. 1994, s výnimkou osoby mladšej ako 15 rokov a až do výšky štvornásobku príslušnej sadzby, ak vydáva cestovný doklad urýchlene na výslovnú žiadosť poplatníka. Správny orgán vyberie poplatok v základnej sadzbe, ak vydáva cestovný doklad na požiadanie občana z humanitných dôvodov. |
 
@@ -2096,7 +2096,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 150
 
-  - a) Vydanie povolenia na poskytovanie zdravotnej starostlivosti |
+  - a) Vydanie povolenia na prevádzkovanie zdravotníckeho zariadenia |
 
   - 1. samosprávnym krajom |
 
@@ -2106,13 +2106,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. Ministerstvom zdravotníctva Slovenskej republiky ............................................................................ | 15 000 Sk
 
-  - 3. Ministerstvom zdravotníctva Slovenskej republiky, ktorým sa mení rozhodnutie krajského úradu |
-
-  - 3.1 pre fyzické osoby ................................................................................................................................. | 3 000 Sk
-
-  - 3.2 pre právnické osoby ............................................................................................................................ | 5 000 Sk
-
-  - b) Zmena povolenia na poskytovanie zdravotnej starostlivosti vydaného |
+  - b) Zmena povolenia na prevádzkovanie zdravotníckeho zariadenia vydaného |
 
   - 1. samosprávnym krajom .......................................................................................................................... | 1 000 Sk
 
@@ -2126,55 +2120,53 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. pre právnické osoby ................................................................................................................................. | 5 000 Sk
 
-  - e) Vydanie povolenia na zriadenie zdravotnej poisťovne, vydanie povolenia na zlúčenie, splynutie, rozdelenie zdravotníckych poisťovní | 15 000 Sk
-
-  - f) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
+  - e) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
 
   - 1. pre fyzické osoby ........................................................................................................................................ | 5 000 Sk
 
   - 2. pre právnické osoby ................................................................................................................................... | 15 000 Sk
 
-  - g) Zmena povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
+  - f) Zmena povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
 
   - 1. pre fyzické osoby ......................................................................................................................................... | 3 000 Sk
 
   - 2. pre právnické osoby ................................................................................................................................... | 5 000 Sk
 
-  - h) Predĺženie platnosti povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
+  - g) Predĺženie platnosti povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
 
   - 1. pre fyzické osoby ......................................................................................................................................... | 2 500 Sk
 
   - 2. pre právnické osoby ................................................................................................................................... | 7 500 Sk
 
-  - i) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na kvalitatívne a kvantitatívne zisťovanie faktorov životného a pracovného prostredia |
+  - h) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na kvalitatívne a kvantitatívne zisťovanie faktorov životného a pracovného prostredia |
 
   - 1. pre fyzické osoby .......................................................................................................................................... | 10 000 Sk
 
   - 2. pre právnické osoby ..................................................................................................................................... | 30 000 Sk
 
-  - j) Zmena povolenia Ministerstva zdravotníctva Slovenskej republiky uvedeného v písmene i) |
+  - i) Zmena povolenia Ministerstva zdravotníctva Slovenskej republiky uvedeného v písmene i) |
 
   - 1. pre fyzické osoby ........................................................................................................................................... | 3 000 Sk
 
   - 2. pre právnické osoby ..................................................................................................................................... | 5 000 Sk
 
-  - k) Predĺženie platnosti povolenia uvedeného v písmene i) |
+  - j) Predĺženie platnosti povolenia uvedeného v písmene i) |
 
   - 1. pre fyzické osoby ........................................................................................................................................... | 5 000 Sk
 
   - 2. pre právnické osoby ..................................................................................................................................... | 15 000 Sk
 
-  - l) Vyhotovenie duplikátov povolení uvedených v písmenách e) až k) ........................................................ | 500 Sk
+  - k) Vyhotovenie duplikátov povolení uvedených v písmenách e) až k) ........................................................ | 500 Sk
 
-  - m) Vydanie posudku orgánu na ochranu zdravia<sup>36a</sup>) ................................................................................. | 500 Sk
+  - l) Vydanie posudku orgánu na ochranu zdravia<sup>36a</sup>) ................................................................................. | 500 Sk
 
-  - n) Vyhotovenie duplikátu posudku uvedeného v písmene m) ................................................................... | 100 Sk
+  - m) Vyhotovenie duplikátu posudku uvedeného v písmene m) ................................................................... | 100 Sk
 
-  - o) Vykonanie skúšky pred komisiou na preskúšanie odbornej spôsobilosti<sup>36b</sup>) ................................. | 500 Sk
+  - n) Vykonanie skúšky pred komisiou na preskúšanie odbornej spôsobilosti<sup>36b</sup>) ................................. | 500 Sk
 
-  - p) Vydanie osvedčenia o odbornej spôsobilosti<sup>36b</sup>) ................................................................................... | 200 Sk
+  - o) Vydanie osvedčenia o odbornej spôsobilosti<sup>36b</sup>) ................................................................................... | 200 Sk
 
-  - r) Vydanie duplikátu osvedčenia podľa písmena p) .................................................................................... | 100 Sk
+  - p) Vydanie duplikátu osvedčenia podľa písmena p) .................................................................................... | 100 Sk
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
@@ -3070,67 +3062,67 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 206
 
-  - a) Vydanie licencie fyzickej osobe na jeden druh podnikania v energetických odvetviach .......... | 1 000 Sk
+  - a) Udelenie povolenia na dočasnú výnimku z povinnosti zabezpečiť prístup do siete<sup>46a</sup>) ................ | 100 000 Sk
 
-  - b) Vydanie licencie právnickej osobe na výkup elektriny alebo plynu, alebo tepla ...................... | 3 000 Sk
-
-  - c) Vydanie osvedčenia o registrácii prevádzkovateľa a jeho energetického zariadenia, za každú činnosť v príslušnom energetickom odvetví ................................................................. | 500 Sk
+  - b) Udelenie výnimky z povinnosti zabezpečiť prístup tretích strán do siete a do zásobníka a výnimku z regulácie pre nové významné plynárenské zariadenia alebo pre zrekonštruované zariadenia<sup>46b</sup>) ....................................................................................... | 100 000 Sk
 
     - Položka 207
 
-  - Vydanie licencie právnickej osobe |
+  - Vydanie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v energetike<sup>46c</sup>) |
 
   - 1. na výrobu elektriny |
 
-  - a) do 5 MWe .................................................................................................................... | 5 000 Sk
+  - a) nad 5 do 50 MWe | 50 000 Sk
 
-  - b) nad 5 do 50 MWe ...................................................................................................... | 10 000 Sk
-
-  - c) nad 50 MWe ................................................................................................................ | 50 000 Sk
+  - b) nad 50 MWe | 75 000 Sk
 
   - 2. na výrobu plynu |
 
-  - a) do 34 TJ/r ..................................................................................................................... | 5 000 Sk
+  - a) do 34 TJ/r | 10 000 Sk
 
-  - b) nad 34 TJ/r .................................................................................................................. | 20 000 Sk
+  - b) nad 34 TJ/r | 50 000 Sk
 
   - 3. na výrobu tepla |
 
-  - a) do 5 MWt ..................................................................................................................... | 5 000 Sk
+  - a) do 5 MWt | 10 000 Sk
 
-  - b) nad 5 MWt ................................................................................................................... | 10 000 Sk
+  - b) nad 5 MWt | 50 000 Sk
 
     - Položka 208
 
-  - a) Žiadosť o zrušenie licencie v energetických odvetviach<sup>46a</sup>) ........................................................................... | 1 000 Sk
+  - a) Žiadosť o odňatie povolenia na podnikanie v energetike<sup>46d</sup>) ........................................................................ | 5 000 Sk
 
-  - b) Zmena zodpovedného zástupcu držiteľa licencie alebo osvedčenia o registrácii prevádzkovateľa ....... | 1 000 Sk
+  - b) Zmena zodpovedného zástupcu držiteľa povolenia na podnikanie v energetike<sup>46e</sup>) ................................ | 1 000 Sk
 
-  - c) Nahliadnutie do registra držiteľov licencie v energetike, za každé odvetvie alebo druh podnikania ....... | 100 Sk
+  - c) Vyznačenie zmeny adresy alebo názvu sídla držiteľa povolenia na podnikanie v energetike<sup>46d</sup>) ........... | 1 000 Sk
 
-  - d) Vydanie výpisu z registra zodpovedných zástupcov ......................................................................................... | 300 Sk
+  - d) Zmena povolenia na podnikanie v energetike<sup>46d</sup>) ........................................................................................... | 5 000 Sk
 
-  - e) Vyznačenie zmeny adresy alebo názvu sídla držiteľa licencie alebo osvedčenia prevádzkovateľa ........ | 1 000 Sk
+  - e) Vydanie osvedčenia o súlade investičného zámeru s dlhodobou koncepciou energetickej politiky<sup>46f</sup>) | 10 000 Sk
 
-  - f) Zmena licencie alebo osvedčenia o registrácii prevádzkovateľa (počet prevádzkovaných energetických zariadení) ....................................................................................................................................... | 2 000 Sk
-
-  - g) Vydanie predchádzajúceho súhlasu na výstavbu, rekonštrukciu alebo na zrušenie energetického zariadenia alebo na zmenu palivovej základne<sup>46b</sup>) ............................................................................................... | 2 000 Sk
-
-  - h) Vydanie rozhodnutia o predchádzajúcom súhlase o povolení stavby v ochrannom pásme a bezpečnostnom pásme plynárenského zariadenia<sup>46c</sup>) .................................................................................... | 1 000 Sk
-
-  - i) Vydanie rozhodnutia o udelení výnimky z ochranných pásiem elektroenergetických zariadení<sup>47</sup>) ............ | 1 000 Sk
+  - f) Vydanie súhlasu na výstavbu priameho vedenia a na výstavbu priameho plynovodu<sup>46g</sup>) ........................ | 10 000 Sk
 
     - Položka 209
 
-  - a) Vydanie licencie právnickej osobe na rozvod elektriny alebo plynu, alebo tepla |
+  - Vydanie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v energetike<sup>46c</sup>) |
 
-  - 1. do 50 odberných zariadení a miest .................................................................................... | 10 000 Sk
+  - a) na distribúciu elektriny, distribúciu plynu, rozvod tepla, alebo prevádzkovanie zariadenia na rozvod skvapalneného plynného uhľovodíka |
 
-  - 2. nad 50 do 100 odberných zariadení a miest .................................................................... | 20 000 Sk
+  - 1. do 50 odberných zariadení a miest ................................................................................................ | 50 000 Sk
 
-  - 3. nad 100 odberných zariadení a miest ................................................................................ | 50 000 Sk
+  - 2. nad 50 do 100 odberných zariadení a miest ................................................................................ | 100 000 Sk
 
-  - b) Vydanie licencie právnickej osobe na tranzit elektriny alebo plynu ................................ | 500 000 Sk
+  - 3. nad 100 odberných zariadení a miest ........................................................................................... | 200 000 Sk
+
+  - b) na prenos elektriny alebo prepravu plynu ...................................................................................... | 500 000 Sk
+
+  - c) na uskladňovanie plynu ..................................................................................................................... | 100 000 Sk
+
+  - d) na prevádzkovanie potrubí na prepravu pohonných látok a na prevádzkovanie potrubí na prepravu ropy ...................................................................................................................................... | 200 000 Sk
+
+  - e) na prevádzkovanie zariadenia na plnenie tlakových nádob ........................................................ | 10 000 Sk
+
+  - f) na dodávku elektriny a na dodávku plynu ........................................................................................ | 50 000 Sk
 
   - XIV. ČASŤ HOSPODÁRSKA SÚŤAŽ
 

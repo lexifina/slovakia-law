@@ -6,8 +6,6 @@
 
 - Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
-- 2a) § 57 ods. 3 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
-
 - 3) § 79 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - Vyhláška Ministerstva vnútra Slovenskej republiky č. 393/1990 Zb., ktorou sa ustanovuje paušálna suma trov konania o priestupkoch.
@@ -250,11 +248,19 @@
 
 - 46) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.Vyhláška Federálneho ministerstva dopravy č. 61/1982 Zb. o určených technických zariadeniach.Vyhláška Federálneho ministerstva dopravy č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku.Vyhláška Federálneho ministerstva dopravy č. 8/1987 Zb. o spôsobilosti dovážaných lanových dráh a iných technických zariadení.
 
-- 46a) § 8 ods. 3 zákona č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 46a) § 52 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
 
-- 46b) § 10 ods. 3 zákona č. 70/1998 Z. z. v znení zákona 276/2001 Z. z.
+- 46b) § 53 zákona č. 656/2004 Z. z.
 
-- 46c) § 27 ods. 6 a § 28 ods. 4 zákona č. 70/1998 Z. z.
+- 46c) § 5 zákona č. 656/2004 Z. z.
+
+- 46d) § 9 zákona č. 656/2004 Z. z.
+
+- 46e) § 8 zákona č. 656/2004 Z. z.
+
+- 46f) § 11 zákona č. 656/2004 Z. z.
+
+- 46g) § 12 a 13 zákona č. 656/2004 Z. z.
 
 - 47) § 19 ods. 11 zákona č. 70/1998 Z. z.
 
