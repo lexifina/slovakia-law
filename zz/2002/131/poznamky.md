@@ -4,6 +4,8 @@
 
 - 3) § 4 zákona č. 132/2002 Z. z. o vede a technike.
 
+- 3a) § 2 zákona č. 455/2004 Z. z. o zriadení Akadémie ozbrojených síl generála Milana Rastislava Štefánika, o zlúčení Vojenskej leteckej akadémie generála Milana Rastislava Štefánika v Košiciach s Technickou univerzitou v Košiciach, o zriadení Národnej akadémie obrany maršala Andreja Hadika a o zmene a doplnení niektorých zákonov.
+
 - 4) Čl. 102 ods. 1 písm. h) Ústavy Slovenskej republiky.
 
 - 5) Zákon č. 53/1964 Zb. o udeľovaní vedeckých hodností a o Štátnej komisii pre vedecké hodnosti v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
@@ -62,7 +64,17 @@
 
 - 28) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
-- 29) Zákon č. 351/1997 Z. z. Branný zákon v znení zákona č. 401/2001 Z. z.Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.Zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov.
+- 28a) § 7 ods. 5 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
+
+- 29) Zákon č. 320/2002 Z. z. o brannej povinnosti v znení neskorších predpisov.
+
+- Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+
+- Zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení neskorších predpisov.
+
+- 29a) § 149a ods. 5 písm. b) zákona č. 370/1997 Z. z. v znení zákona č. 512/2002 Z. z.
+
+- 29b) § 4 zákona č. 455/2004 Z. z.
 
 - 30) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore, zákon č. 370/1997 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
