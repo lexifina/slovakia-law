@@ -38,6 +38,18 @@
 
 - 9a) Zákon č. 424/1991 Zb. o zdrožování v politických stranách a v politických hnutiach.
 
+- 9b) § 3 až 7 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 369/1999 Z. z.
+
+- § 6 až 11 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
+
+- 9c) § 8 zákona č. 253/1998 Z. z.
+
+- § 16 ods. 7 zákona č. 73/1995 Z. z.
+
+- 9d) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
 - 10) Vyhláška Ministerstva financií č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
 
 - Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
