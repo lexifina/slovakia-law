@@ -1,10 +1,8 @@
 - 1) Napríklad § 18 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
-- 2) Zákon č. 85/1990 Zb. o petičnom práve.
+- 2) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
-- Čl. 27 Ústavy Slovenskej republiky.
-
-- 3) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
+- 3) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 4) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
