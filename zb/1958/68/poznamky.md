@@ -1,1 +1,0 @@
-- *) Zmeny vykonané zákonom č. 67/1958 Zb. nadobúdajú účinnosť 7. novembrom 1958.
