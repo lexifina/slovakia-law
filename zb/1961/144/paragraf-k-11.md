@@ -1,7 +1,0 @@
-# K § 11 Odpočítateľné položky
-
-(35) Poplatník si môže odpočítať od úhrnu nájomného a ceny užívania sumy, o ktorých preukáže dokladmi, že ich zaplatil na úhradu týchto výdavkov v minulom roku.
-
-(36) Súčasťou nákladov spojených s výkonom domovníckych prác (prípadne kuriča) a odmeny za tieto práce [§ 11 písm. d) zákona] je aj poistné platené vlastníkom budovy ako zamestnávateľom domovníka (kuriča) podľa predpisov o nemocenskom poistení. Náhrada týchto nákladov a odmeny sú odpočítateľnou položkou, i keď časť prác (buď domovníckych alebo iných) vykonáva z príkazu vlastníka alebo jeho zástupcu osoba, ktorá nie je v pracovnom pomere domovníckom. Ak vlastník (spoluvlastník) vykonáva domovnícke práce sám, hodnota týchto prác nie je odpočítateľná. Ak vykonáva tieto práce osoba, ktorá žije s vlastníkom v spoločnej domácnosti, možno vyplatenú odmenu za tieto práce uznať za odpočítateľnú položku len vtedy, ak sa hodnoverne preukáže, že uvedená osoba domovnícke práce skutočne vykonáva a že ide o odmenu primeranú.
-
-(37) Náhradu iných než v § 11 zákona uvedených výdavkov spojených so správou budovy nemožno odpočítať od úhrnu nájomného a ceny užívania. Najmä nemožno odpočítať napr. peňažnú náhradu za naturálny byt pre domovníka, výdavky za osvetľovanie schodišťa, chodieb a iných priestorov v budove prístupných nájomníkom alebo iným osobám, odplatu za čistenie komínov, odplatu za elektrický prúd pre výťah a pod.
