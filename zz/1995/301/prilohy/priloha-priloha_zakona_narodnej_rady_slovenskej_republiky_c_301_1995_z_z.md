@@ -1,1 +1,1 @@
-Príloha zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. [Vzor](../assets/1acc337cb0120c49ca3d1198feafc166214115d6f41c2822a1baefd00fd01030.pdf)
+Príloha zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. [Vzor](../assets/b7b422b95bff26aabcd8a1d64bd690ae40db3157c45bfdc30cc08bd04e494514.pdf)
