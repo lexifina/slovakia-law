@@ -1,0 +1,11 @@
+## 207
+
+ZÁKON
+
+NÁRODNEJ RADY SLOVENSKEJ REPUBLIKY
+
+z 12. septembra 1995
+
+## o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
