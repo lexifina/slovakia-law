@@ -1,0 +1,3 @@
+Predseda:
+
+Ing. Baran CSc.
