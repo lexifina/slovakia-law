@@ -18,6 +18,8 @@ Zmluva nadobudla platnosť na základe svojho článku 28 odseku 2 dňom 17. apr
 
 Nadobudnutím platnosti zmluvy uverejnenej oznámením č. 220/1997 Z. z. sa skončila platnosť Zmluvy medzi Československou socialistickou republikou a Socialistickou federatívnou republikou Juhosláviou o zamedzení dvojakého zdanenia v odbore daní z príjmu a z majetku (Praha 2. novembra 1981, vyhláška č. 99/1983 Zb.) podľa bodu 27 oznámenia č. 112/2006 Z. z.
 
+Dňom nadobudnutia platnosti zmluvy uverejnenej oznámením č. 269/2002 Z. z. sa skončila platnosť Zmluvy medzi Československou socialistickou republikou a Socialistickou federatívnou republikou Juhosláviou o zamedzení dvojitého zdanenia v odbore daní z príjmu a z majetku podpísaná v Prahe 2. novembra 1981 vo vzájomných vzťahoch medzi Slovenskou republikou a Zväzovou republikou Juhosláviou (vyhláška ministra zahraničných vecí č. 99/1983 Zb.).
+
 Prvý námestník:
 
 Řehořek v. r.
