@@ -14,4 +14,4 @@
 
 (4) Vyrovnávací príspevok sa poskytuje za dobu, za ktorú družstevníčka má po prevedení na inú prácu nárok na pracovnú odmenu alebo na jej náhradu; v tehotnosti sa poskytuje najdlhšie do nástupu materskej dovolenky a po ukončení materskej dovolenky najdlhšie do konca deviateho mesiaca po pôrode.
 
-(5) Ministerstvo práce a sociálnych vecí<sup>3</sup>) po dohode s Ministerstvom poľnohospodárstva a výživy a s Ústrednou radou odborov vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.
+(5) Federálne ministerstvo práce a sociálnych vecí vydá podrobnejšie predpisy o vyrovnávacom príspevku, najmä o tom, ako sa zisťuje a vypočítava pracovný príjem, podľa ktorého sa určuje vyrovnávací príspevok.
