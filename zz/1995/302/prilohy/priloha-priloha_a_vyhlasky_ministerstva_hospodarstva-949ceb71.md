@@ -2,17 +2,19 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
 - ZOZNAM TOVARU podliehajúceho licenčnému konaniu pri dovoze
 
-  - ČASŤ I – NEAUTOMATICKÉ LICENCIE Položkacolnéhosadzobníka | Názov tovaru | Merná | Ročné | Štát pôvodu
+  - ČASŤ I – NEAUTOMATICKÉ LICENCIE Položka | Názov tovaru | Merná | Ročné | Štát pôvodu
 
-  - | | | | | jednotka | množstvo
+  - colného | | | |
 
-  - | | 2701 | čierne uhlie, brikety, bulety a podobné tuhé | | | | tona | 4 000 000 | okrem EÚ, EZVO
+  - | | jednotka | množstvo |
 
-  - | | | palivá vyrobené z čierneho uhlia | | | | a ČR<sup>4</sup>)
+  - sadzobníka | | | |
 
-  - 2702 | hnedé uhlie, tiež aglomerované, | tona | 300 000 | okrem EÚ, EZVO a ČR
+  - 2202 | voda vrátane minerálnych vôd a sódoviek, s prídavkom cukru alebo iných sladidiel alebo aromatizované a iné nealkoholické nápoje s výnimkou ovocných alebo zeleninových štiav čísla 2009 | hl | 450 000 | ČR
 
-  - | okrem gagátu | | |
+  - 2701 | čierne uhlie, brikety, bulety a podobné tuhé palivá vyrobené z čierneho uhlia | tona | 4 000 000 | okrem EÚ, EZVO a ČR<sup>4</sup>)
+
+  - 2702 | hnedé uhlie, tiež aglomerované, okrem gagátu | tona | 300 000 | okrem EÚ, EZVO a ČR
 
   - ČASŤ II – AUTOMATICKÉ LICENCIE Položka colného sadzobníka | Názov tovaru | Merná jednotka | Štát pôvodu
 
@@ -410,7 +412,7 @@ Príloha A vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 302/19
 
   - | ľad a sneh | |
 
-  - 2202 | voda vrátane minerálnych vôd a sódoviek, s prídavkom | hl | všetky štáty
+  - 2202 | voda vrátane minerálnych vôd a sódoviek, s prídavkom | hl | všetky štáty okrem ČR
 
   - | cukru alebo iných sladidiel alebo aromatizované a iné | |
 
