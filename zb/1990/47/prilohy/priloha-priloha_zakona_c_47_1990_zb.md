@@ -1,27 +1,27 @@
 Príloha zákona č. 47/1990 Zb.
 
-- Územia volebných krajov Volebný kraj číslo | Názov volebného kraja a sídlo krajskej volebnej komisie | Zahŕňa územia
+- Počty kandidátov na kandidátnych listinách Kraj | | Najvyšší počet kandidátov na kandidátnej listine pre voľby do SĽ | Najvyšší počet kandidátov na kandidátnej listine pre voľby do SN
 
-- 1. | Hl.m.Praha Praha | Hl. mesta Prahy
+- 1. | hl. m. Praha | 20 | 15
 
-- 2. | Stredočeský Praha | Okresy: Benešov, Beroun, Kladno, Kolín, Kutná Hora, Mělník, Mladá Boleslav, Nymburk, Praha-východ, Praha-západ, Příbram, Rakovník
+- 2. | Stredočeský | 19 | 14
 
-- 3. | Juhočeský České Budějovice | Okresy: České Budějovice, Český Krumlov, Jindřichův Hradec, Pelhřimov, Písek, Prachatice, Strakonice, Tábor
+- 3. | Juhočeský | 12 | 9
 
-- 4. | Západočeský Plzeň | Okresy: Domažlice, Cheb, Karlove Vary, Klatovy, Plzeň-město, Plzeň-juh, Plzeň-sever, Rokycany, Sokolov, Tachov
+- 4. | Západočeský | 15 | 10
 
-- 5. | Severočeský Ústí n. Labem | Okresy: Česká Lípa, Děčín, Chomutov, Jablonec n. Nisou, Liberec, Litoměřice, Louny, Most, Teplice, Ústí n. Labem
+- 5. | Severočeský | 19 | 15
 
-- 6. | Východočeský Hradec Králové | Okresy: Havlíčkův Brod, Hradec Králové, Chrudim, Jičín, Náchod, Pardubice, Rychnov n. Kněžnou, Semily, Svitavy, Trutnov, Ústí n. Orlicí
+- 6. | Východočeský | 20 | 15
 
-- 7. | Juhomoravský Brno | Okresy: Blansko, Brno-město, Brno-venkov, Břeclav, Zlín, Hodonín, Jihlava, Kroměříž, Prostějov, Třebíč, Uherské Hradiště, Vyškov, Znojmo, Žďár n. Sázavou
+- 7. | Juhomoravský | 34 | 25
 
-- 8. | Severomoravský Ostrava | Okresy: Bruntál, Frýdek Místek, Karviná, Nový Jičín, Olomouc, Opava, Ostrava-město, Přerov, Šumperk, Vsetín
+- 8. | Severomoravský | 32 | 24
 
-- 9. | Hl.m.SR Bratislava Bratislava | Hl. mesta SR Bratislavy
+- 9. | hl. m. SSR Bratislava | 7 | 10
 
-- 10. | Západoslovenský Bratislava | Okresy: Bratislava-vidiek, Dunajská Streda, Galanta, Komárno, Levice, Nitra, Nové Zámky, Senica, Topoľčany, Trenčín, Trnava
+- 10. | Západoslovenský | 27 | 42
 
-- 11. | Stredoslovenský Banská Bystrica | Okresy: Banská Bystrica, Čadca, Dolný Kubín, Liptovský Mikuláš, Lučenec, Martin, Pováž. Bystrica, Prievidza, Rimavská Sobota, Veľký Krtíš, Zvolen, Žiar n. Hronom, Žilina
+- 11. | Stredoslovenský | 25 | 39
 
-- 12. | Východoslovenský Košice | Okresy: Bardejov, Humenné, Košice-mesto, Košice -vidiek, Michalovce, Poprad, Prešov, Rožňava, Spišská Nová Ves, Stará Ľubovňa, Svidník, Trebišov, Vranov n. Topľou
+- 12. | Východoslovenský | 24 | 35
