@@ -146,6 +146,8 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - 14. V § 37 ods. 2 písm. b) sa na konci pripájajú slová „vo výške určenej zákonom o štátnom rozpočte na príslušný rok“.
 
+- 15. V § 40 sa vypúšťa odsek 2; zároveň sa zrušuje číslovanie odsekov.
+
 - 16. V § 49 ods. 1 sa za slovo „poisťovne“ vkladajú slová „a na osobitné účty uvedené v § 51“.
 
 - 17. V § 49 ods. 2 sa vypúšťajú slová „Sociálnej poisťovni“.

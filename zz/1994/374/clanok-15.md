@@ -70,6 +70,8 @@ Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poist
 
 - 13. V § 48 ods. 1 sa vypúšťa písmeno b).
 
+- 14. V § 54 sa vypúšťa odsek 3.
+
 - 15. V § 56 ods. 1 písm. a) sa na konci pripájajú slová „a Fondom zamestnanosti Slovenskej republiky“.
 
 - 16. V § 56 ods. 1 písm. b) sa za slovo „štát“ vkladajú slová „a Fond zamestnanosti Slovenskej republiky“.
