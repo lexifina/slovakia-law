@@ -33,3 +33,15 @@
 - 16) Zákon Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení neskorších predpisov.
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
+- 18) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 19) Zákon č. 313/2001 Z. z. o verejnej službe.
+
+- Zákon č. 311/2001 Z. z. Zákonník práce.
+
+- 20) Zákon č. 312/2001 Z. z.Zákon č. 313/2001 Z. z.
+
+- 21) Zákon č. 312/2001 Z. z.Zákon č. 313/2001 Z. z.Zákon č. 311/2001 Z. z.
+
+- 22) § 105 zákona č. 312/2001 Z. z.
