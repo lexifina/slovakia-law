@@ -1,0 +1,11 @@
+# Článok 8 Riešenie investičných sporov medzi zmluvnou stranou a investorom štátu druhej zmluvnej strany
+
+- 1. Každý spor, ktorý vznikne medzi investorom štátu jednej zmluvnej strany a druhou zmluvnou stranou v súvislosti s investíciou na území štátu druhej zmluvnej strany, bude sa riešiť rokovaním medzi stranami v spore.
+
+- 2. Ak sa spor medzi investorom štátu jednej zmluvnej strany a druhou zmluvnou stranou nevyrieši do šiestich mesiacov, investor je oprávnený predložiť spor buď
+
+  - a) Medzinárodnému stredisku pre urovnanie investičných sporov (ICSID) s prihliadnutím na aplikovateľné ustanovenia Dohovoru o riešení sporov z investícií medzi štátmi a občanmi druhých štátov otvoreného na podpis vo Washingtone, D.C., 18. marca 1965 v prípade, že obe zmluvné strany sú stranami tohto dohovoru, alebo
+
+  - b) rozhodcovi alebo Medzinárodnému rozhodcovskému súdu zriadenému ad hoc podľa rozhodcovských pravidiel Komisie Organizácie Spojených národov pre medzinárodné obchodné právo (UNCITRAL).
+
+- Strany v spore sa môžu písomne dohodnúť na úpravách týchto pravidiel. Rozhodcovský nález bude konečný a záväzný pre obe strany v spore.
