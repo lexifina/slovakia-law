@@ -36,7 +36,7 @@
 
 - 19) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
-- 20) Zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení neskorších predpisov.
+- 20) § 23 ods. 1 zákona č. 23/2002 Z. z., ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov a o zmene niektorých zákonov.
 
 - 21) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
 
