@@ -45,3 +45,5 @@
 - 19) § 20 ods. 1 zákona č. 563/1991 Zb. o účtovníctve.
 
 - Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch.
+
+- 20) Zákon Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
