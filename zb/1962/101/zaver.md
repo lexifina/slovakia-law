@@ -1,0 +1,3 @@
+Minister:
+
+Černík v. r.
