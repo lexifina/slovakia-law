@@ -1,4 +1,4 @@
-- 1) § 347 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
+- 1) Čl. 42 ods. 2 Ústavy Slovenskej republiky.
 
 - 1a) § 2 písm. b) až d) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
 
