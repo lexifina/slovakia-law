@@ -32,9 +32,11 @@
 
 - 15) § 10 zákona č. 1/1991 Zb.
 
-- 16) § 8 ods. 1 zákona č. 1/1991 Zb.
+- 15a) § 32 ods. 1 zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení zákona č. 306/1991 Zb.
 
-- 17) Vyhláška Ministerstva práce a sociálnych vecí č. 182/1968 Zb. o dávkach v materstve a o prídavkoch na deti uchádzačom o zamestnanie v znení vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 132/1984 Zb. a vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 50/1991 Zb., ktorou sa určujú bližšie podmienky poskytovania hmotného zabezpečenia uchádzačom o zamestnanie.
+- § 40 ods. 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 306/1991 Zb.
+
+- 16) § 8 ods. 1 zákona č. 1/1991 Zb.
 
 - 18) § 50 Zákonníka práce.
 
