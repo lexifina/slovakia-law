@@ -1,0 +1,5 @@
+# Článok 7
+
+(1) Maďarská republika uznáva diplomy o priznaní akademických titulov magister (skratka „Mgr.“), magister umenia (skratka „Mgr. art.“), inžinier (skratka „Ing.“), inžinier architekt (skratka „Ing. arch.“), doktor medicíny (skratka „MUDr.“) a doktor veterinárskej medicíny (skratka „MVDr.“) vydané vysokými školami v Slovenskej republike po minimálne štvorročnom štúdiu a oprávňujúce prístup k doktorandskému štúdiu ako univerzitné diplomy vydané po základnom univerzitnom štúdiu univerzitami v Maďarskej republike.
+
+(2) Slovenská republika uznáva univerzitné diplomy vydané po minimálne štvorročnom základnom univerzitnom štúdiu a oprávňujúce prístup k doktorandskému štúdiu v Maďarskej republike ako diplomy o priznaní akademických titulov magister (skratka „Mgr.“), magister umenia (skratka „Mgr. art.“), inžinier (skratka „Ing.“), inžinier architekt (skratka „Ing. arch.“), doktor medicíny (skratka „MUDr.“) a doktor veterinárskej medicíny (skratka „MVDr.“) vydané vysokými školami v Slovenskej republike.
