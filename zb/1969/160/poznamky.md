@@ -1,0 +1,1 @@
+- *) Pri organizáciách, na ktoré sa vzťahuje zákon č. 133/1969 Zb., ktorým sa ustanovujú zásady pre zákony národných rád o podnikových daniach a príspevku na sociálne zabezpečenie.
