@@ -70,11 +70,17 @@
 
 - 14) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
 
-- 14a) § 25 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z. § 15 zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení zákona Národnej rady Slovenskej republiky č. 84/1995 Z. z.
+- 14a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 445/2003 Z. z.
 
-- 14b) Zákon č. 311/1999 Z. z. o registri trestov.
+- 14b) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
-- 14c) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+- 14c) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 14d) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14e) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 14f) § 49 Trestného zákona.
 
 - 15) Napr. zákon Narodnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách.
 
@@ -87,6 +93,8 @@
 - 15ac) § 7b ods. 1 nariadenia vlády Slovenskej republiky č. 249/1992 Zb.§ 19 ods. 9 zákona č. 313/2001 Z. z. v znení zákona č. 118/2002 Z. z.
 
 - 15ad) Napríklad § 7b ods. 2 a 3 nariadenia vlády Slovenskej republiky č. 249/1992 Zb., § 10 a 11 zákona č. 313/2001 Z. z. v znení zákona č. 118/2002 Z. z.
+
+- 15b) Nariadenie vlády Slovenskej republiky č. 157/2002 Z. z. o ďalšom vzdelávaní pracovníkov v zdravotníctve.
 
 - 16) Článok 4 Ústavy Slovenskej republiky.
 

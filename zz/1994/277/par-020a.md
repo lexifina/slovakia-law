@@ -5,3 +5,5 @@
 (2) Pôrodná asistencia je starostlivosť pôrodnej asistentky o ženu a dieťa počas fyziologického tehotenstva, pôrodu a šestonedelia, starostlivosť o reprodukčné zdravie a poskytovanie ošetrovateľskej starostlivosti pri gynekologických a pôrodníckych ochoreniach. Pôrodná asistencia je súčasťou primárnej, sekundárnej a následnej zdravotnej starostlivosti poskytovanej v zdravotníckych zariadeniach, v domácom prostredí chorého a všade tam, kde sa tehotná žena a rodička nachádza.
 
 (3) Ošetrovateľskú starostlivosť a pôrodnú asistenciu poskytujú sestry a pôrodné asistentky, ktoré majú odbornú spôsobilosť na výkon povolania podľa osobitného predpisu.<sup>10</sup>)
+
+(4) Prípady, v ktorých sestra poskytuje ošetrovateľskú starostlivosť samostatne a v ktorých ju poskytuje za asistencie lekára, a prípady, v ktorých pôrodná asistentka poskytuje pôrodnú asistenciu samostatne a v ktorých ju poskytuje za asistencie lekára, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
