@@ -1,0 +1,9 @@
+- *) Vyhláška č. 198/1953 Ú. l. (č. 251/1953 Ú. v.) v znení vyhlášky č. 32/1955 Ú. l. (Ú. v.).
+
+- **) § 2 vyhlášky č. C 7/7/1961 Tarifného vestníka.
+
+- ***) § 9 a 10 vyhlášky č. 214/1958 Ú. l. (Ú. v.).
+
+- *) Tarifný vestník, vyhláška č. C 7/7/1961.
+
+- *) Tarifný vestník č. 42 z roku 1956 C 25/42/1958 s doplnkom v č. 44 z roku 1959 C 26/44/1959 a v č. 27 z roku 1960 C 19/27/1960.
