@@ -63,3 +63,5 @@
 - Zákon č. 108/1984 Zb. o zvýšení niektorých nízkych dôchodkov a o ďalších zmenách v sociálnom zabezpečení.
 
 - 18) § 13 ods. 1 a 3 zákona č. 121/1975 Zb. o sociálnom zabezpečení a obdobné ustanovenia prv platných predpisov.
+
+- 19) § 57 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 110/1990 Zb.
