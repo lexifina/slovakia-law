@@ -12,10 +12,8 @@
 
 - 7) § 5 ods. 1 písm. a) a ods. 2 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme.
 
-- 7a) § 17 zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
-
-- 7b) Napríklad § 7 zákona č. 179/2011 Z. z.
-
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 9) Zákon č. 666/2004 Z. z. o ochrane pred povodňami v znení zákona č. 332/2007 Z. z.
+- 9) Zákon Slovenskej národnej rady č. 135/1974 Zb. o štátnej správe vo vodnom hospodárstve v znení neskorších predpisov.
+
+- 10) Zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
