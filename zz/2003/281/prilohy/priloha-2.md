@@ -510,7 +510,7 @@ Príloha č. 2 k nariadeniu vlády č. 281/2003 Z. z.
 
   - 9. Na zdravotné označovanie sa musia používať farby, ktoré spĺňajú požiadavky zdravotnej neškodnosti; ide o tieto farbivá: E 155 Hnedá HT, E 133 Brilantná modrá FCF alebo E 129 Allura červená AC, alebo vhodná zmes farbív E 133 Brilantná modrá FCF a E 129 Allura červená AC.<sup>9</sup>)
 
-  - 10. Mäso požívateľné pre ľudí určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní s nízkou kapacitou povolených podľa § 4 a zo zvierat podľa § 6 ods. 4 až 6 sa označuje okrem prípadu rozrobeného mäsa, ktoré nie je zabalené do druhého obalu uvedeného v § 4 ods. 7, rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch okrem zdravotnej značky uvedenej v bode 2. Toto mäso sa musí označiť národnou značkou kruhového tvaru s priemerom 3,5 cm s týmito údajmi:
+  - 10. Mäso požívateľné pre ľudí určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní s nízkou kapacitou povolených podľa § 4 a zo zvierat podľa § 6 ods. 4 až 6 sa označuje okrem prípadu rozrobeného mäsa, ktoré nie je zabalené do druhého obalu uvedeného v § 4 ods. 7, rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch okrem zdravotnej značky uvedenej v bode 2. Toto mäso sa musí označiť národnou značkou kruhového tvaru s priemerom najmenej 3,5 cm s týmito údajmi:
 
     - a) v hornej časti skratkou názvu okresu,<sup>10</sup>)
 
