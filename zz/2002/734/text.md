@@ -8,7 +8,7 @@ Ministerstvo financií Slovenskej republiky vydalo podľa § 4 ods. 2 zákona č
 
 opatrenie z 10. decembra 2002 č. 22 502/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a účtovej osnovy pre účtovné jednotky, ktoré nie sú založené alebo zriadené za účelom podnikania (Poznámka redakcie: úplné znenie opatrenia vyšlo vo Finančnom spravodajcovi 7/2006 s poradovým číslom 42).
 
-Podľa tohto opatrenia postupujú politické strany a hnutia, občianske združenia, cirkvi a náboženské spoločnosti, neziskové organizácie poskytujúce všeobecne prospešné služby, nadácie, neinvestičné fondy, verejné vysoké školy, spoločenstvá a ďalšie právnické osoby, ktoré účtujú v sústave podvojného účtovníctva a ktorých hlavným predmetom činnosti nie je podnikanie. Podľa tohto opatrenia nepostupujú rozpočtové a príspevkové organizácie, obce a vyššie územné celky, zdravotné poisťovne, Sociálna poisťovňa, Národný úrad práce a iné organizácie, na ktoré sa vzťahujú iné postupy účtovania ustanovené Ministerstvom financií Slovenskej republiky.
+Podľa tohto opatrenia postupujú politické strany a hnutia, občianske združenia, cirkvi a náboženské spoločnosti, neziskové organizácie poskytujúce všeobecne prospešné služby, nadácie, neinvestičné fondy, verejné vysoké školy, spoločenstvá a ďalšie právnické osoby, ktoré účtujú v sústave podvojného účtovníctva a ktorých hlavným predmetom činnosti nie je podnikanie. Podľa tohto opatrenia nepostupujú rozpočtové a príspevkové organizácie, obce a vyššie územné celky, zdravotné poisťovne, Sociálna poisťovňa, a iné organizácie, na ktoré sa vzťahujú iné postupy účtovania ustanovené Ministerstvom financií Slovenskej republiky.
 
 Týmto opatrením sa zrušujú:
 
