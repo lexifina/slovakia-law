@@ -1570,19 +1570,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 109
 
-  - a) Povolenie lotérie alebo okamžitej lotérie alebo tomboly, z hernej istiny........................................... | 10%
+  - a) Vydanie povolenia na prevádzkovanie výherných prístrojov, za každý výherný prístroj ................... | 40 000 Sk
 
-  - | najmenej 100 Sk
+  - Ak na technickom zariadení ako celku môže hrať súčasne viac hráčov, považuje sa každé samostatné hracie miesto (hrací modul) za jeden výherný prístroj. |
 
-  - b) Povolenie prevádzkovania výherných prístrojov, za každý prístroj....................................................... | 40 000 Sk
-
-  - c) Povolenie na prevádzkovanie ostatných stávkových hier z tržieb dosiahnutých prevádzkovatelom z týchto hier, znížený o vyplatené výhry.......................................................................................................... | 10%
-
-  - najmenej | | 1 000 Sk
-
-  - d) Zmena povolenia pod písmenom a) až c).............................................................................................. | 1 000 Sk
-
-  - Poznámka Poplatok podľa písmena c) tejto položky sa vyberá až po vykonaní úkonu. |
+  - b) Vydanie rozhodnutia o zmene povolenia na prevádzkovanie lotérií a iných podobných hier podľa zákona Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov ........................ | 1 000 Sk
 
     - Položka 110
 
