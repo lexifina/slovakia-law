@@ -1,0 +1,1 @@
+Dr. Dubček v. r.
