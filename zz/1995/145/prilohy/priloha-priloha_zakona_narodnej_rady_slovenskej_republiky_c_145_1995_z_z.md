@@ -2694,6 +2694,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) ostatné organizácie .......................................................................................................................................... | 25 000 Sk
 
+    - Položka 171k
+
+  - Podanie žiadosti o vydanie alebo zmenu oprávnenia na overovanie správ podľa zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.......................................................................... | 5 000 Sk
+
   - XI. ČASŤ BANSKÁ ČINNOSŤ
 
     - Položka 172
@@ -2758,41 +2762,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Zmena povolenia podľa písmena a) ....................................................................................... | 200 Sk
 
-    - Položka 177
-
-  - a) Vydanie povolenia na uvedenie výbušniny alebo pomôcky na použitie výbušnín do obehu ................... | 300 Sk
-
-  - b) Vydanie súhlasu na výrobu a spracovanie výbušnín alebo na výskum, vývoj alebo pokusnú výrobu výbušnín | 500 Sk
-
-  - c) Zmena v povolení alebo súhlase podľa písmen a) alebo b) .................................................................... | 300 Sk
-
     - Položka 178
 
-  - Vydanie povolenia na odber výbušnín ................................................................................................. | 100 Sk
+  - Vydanie povolenia na odber výbušnín .............................................................................. | 100 Sk
 
   - Splnomocnenie Správny orgán môže zvýšiť poplatok podľa tejto položky až na päťnásobok určenej sadzby, ak ide o vydanie povolenia na dlhšie časové obdobie. |
 
-  - Poznámka Správny orgán nevyberie poplatok podľa tejto položky, ak je spoplatnené povolenie na odber výbušnín súčasťou povolenia na trhacie alebo ohňostrojné práce podľa položky 180. |
-
     - Položka 179
 
-  - Vydanie povolenia na zhotovenie jednoduchých druhov trhavín na trhacie práce ........................... | 500 Sk
+  - Vydanie povolenia na prevoz výbušnín |
+
+  - a) jednorazové povolenie ................................. | 500 Sk,
+
+  - b) povolenie na dlhšie časové obdobie ........ | 1 000 Sk
 
     - Položka 180
 
   - Vydanie povolenia na |
 
-  - a) trhacie práce malého rozsahu alebo ohňostrojné práce ................................................ | 200 Sk
+  - a) trhacie práce malého rozsahu alebo ohňostrojné práce .................................................. | 200 Sk
 
-  - b) trhacie práce veľkého rozsahu ....................................................................................... | 400 Sk
+  - b) trhacie práce veľkého rozsahu ......................................................................................... | 400 Sk
 
-  - c) dva a viac odstrelov podľa písmena b) ........................................................................... | 1 000 Sk
+  - c) dva a viac odstrelov podľa písmena b) ............................................................................ | 1 000 Sk
+
+  - Splnomocnenie Pri predĺžení časovej platnosti rozhodnutia podľa písmen a) až c) správny orgán zníži správny poplatok o 50 %. |
 
   - Poznámka Správny orgán nevyberie poplatok podľa tejto položky, ak je spoplatnené povolenie na trhacie práce súčasťou povolenia podľa položky 175 alebo 176. |
 
     - Položka 181
 
-  - a) Vydanie povolenia na výučbu strelmajstrov, technických vedúcich odstrelov alebo odpaľovačov ohňostrojov a pyrotechnikov vrátane miestneho zisťovania a schvaľovanie učebných osnov a testov ............................................................................................. | 1 000 Sk
+  - a) Vydanie povolenia na výučbu strelmajstrov, technických vedúcich odstrelov alebo odpaľovačov ohňostrojov, pyrotechnikov a predavačov pyrotechnických výrobkov vrátane miestneho zisťovania a schvaľovanie učebných osnov a testov ...................................... | 1 000 Sk
 
   - b) Zmena povolenia podľa písmena a) ................................................................................................ | 200 Sk
 
@@ -2804,7 +2804,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 183
 
-  - Vydanie povolenia na stavbu skladu výbušnín ......................................................................... | 1 500 Sk
+  - Vydanie povolenia na |
+
+  - a) stavbu skladu výbušnín .................................................................................. | 3 000 Sk
+
+  - b) zrušenie alebo odstránenie skladu výbušnín ............................................ | 1 500 Sk
 
     - Položka 184
 
@@ -2838,21 +2842,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Vydanie odborného vyjadrenia (stanoviska) podľa osobitných predpisov okrem miestneho zisťovania |
 
-  - a) na dovoz technických zariadení ................................................................................................................ | 300 Sk
+  - a) k dokumentácii ťažobného zariadenia plávajúceho stroja ..................................................................... | 300 Sk
 
-  - b) k dokumentácii ťažobného zariadenia plávajúceho stroja ......................................................................... | 300 Sk
+  - b) k projektovej dokumentácii stavieb ......................................................................................................... | 300 Sk
 
-  - c) k projektovej dokumentácii stavieb ............................................................................................................ | 300 Sk
-
-  - d) k stavbe, k zariadeniu ................................................................................................................................ | 300 Sk
+  - c) k stavbe, k zariadeniu ................................................................................................................................ | 300 Sk
 
     - Položka 190
 
-  - a) Zariadenie overovacej prevádzky vybraného banského zariadenia podľa banských predpisov okrem miestneho zisťovania vrátane posúdenia výsledku overovacej prevádzky ............................................... | 400 Sk
+  - a) Zariadenie overovacej prevádzky vybraného banského zariadenia podľa banských predpisov okrem miestneho zisťovania vrátane posúdenia výsledku overovacej prevádzky ........................................... | 400 Sk
 
   - b) Vydanie povolenia na používanie vybraného banského zariadenia podľa banských predpisov okrem miestneho zisťovania ............................................................................................................................. | 500 Sk
 
-  - c) Povolenie zmeny na vybranom banskom zariadení .................................................................................. | 300 Sk
+  - c) Povolenie zmeny na vybranom banskom zariadení ......................................................................................... | 300 Sk
+
+  - d) určenie podmienok na používanie vybraného banského stroja, zariadenia, prístroja alebo pomôcky ... | 500 Sk
 
     - Položka 191
 
