@@ -1,0 +1,799 @@
+Příl.1
+
+- Katalog prací
+
+  - 1. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 1.1. Zapisování korespondence do protokolů, zprostředkování oběhu spisů, dokladů a tisku v organizaci.
+
+  - 1.2. Přijímání, potvrzování, třídění a doručování písemností a zásilek v organizaci.
+
+  - 1.3. Informování občanů (popř. organizací) o příslušnosti vnitřních útvarů (popř. konkrétních pracovníků) k vyřizování jejich podnětů, dotazů nebo stížností.
+
+  - 1.4. Kontrola příchodů a odchodů osob a příjezdů a odjezdů vozidel s případnou kontrolou zavazadel a vozidel, výdej klíčů.
+
+  - 1.5. Hlídání svěřeného objektu a zařízení, zajišťování ochrany proti krádežím, přepadením a živelním pohromám.
+
+  - 1.6. Pomocné práce při výrobě jídel (sběr a mytí nádobí, obsluha jednoduchých kuchyňských strojů).
+
+  - 1.7. Výdej jídel s případnou obsluhou strávníků.
+
+  - 1.8. Běžné úklidové práce včetně vynášení odpadků, čištění koberců vysavačem a desinfekce záchodů.
+
+  - 1.9. Zajišťování provozu v šatnách, vydávání klíčů, prádla a podávání základních informací o provozním řádu zařízení a o poskytovaných službách.
+
+  - 1.10. Příjem a výdej materiálu z příručních skladů, jednoduchá obsluha provozních zařízení (kopírovací stroje, rozmnožovací zařízení, výtahy, drtičky papíru).
+
+  - 1.11. Výkon jednoduchých pomocných měřických a stabilizačních prací, vedení jednoduchých záznamů, ošetřování měřických pomůcek.
+
+  - 1.12. Dislokační a manipulační práce v archivech.
+
+  - 2. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 2.1. Opisování textu z rukopisu nebo psaní podle diktátu.
+
+  - 2.2. Ukládání a vyřazování (skartace) běžných písemných materiálů.
+
+  - 2.3. Pořizování a doplňování seznamu inventáře, sledování jeho pohybu mezi pracovníky organizace včetně jeho evidence a výkaznictví.
+
+  - 2.4. Obsluha pobočkových telefonních ústředen, dálnopisných účastnických stanic a telefaxů.
+
+  - 2.5. Vybírání poplatků podle předem stanovených sazeb.
+
+  - 2.6. Střežení objektů se služebním psem včetně péče o psa s případným výkonem ozbrojeného zákroku.
+
+  - 2.7. Výsadba a ošetřování běžných druhů květin a rostlin včetně ruční přípravy půdy.
+
+  - 2.8. Výroba jednoduchých druhů teplých jídel, polévek, cukrárenských výrobků nebo jídel studené kuchyně, dohotovování a výdej jídel včetně příloh k hlavním jídlům.
+
+  - 2.9. Výroba a výdej teplých nebo nealkoholických nápojů a pohárů.
+
+  - 2.10. Samostatný prodej zboží a jídel v kantýnách a bufetech s úpravou jídla na talíři.
+
+  - 2.11. Zabezpečování kotelen palivem ručně nebo mechanizačními prostředky.
+
+  - 2.12. Obsluha výměníkových stanic bez automatické regulace a redukčních stanic dálkového topení.
+
+  - 2.13. Samostatný příjem, skladování, ošetřování a výdej výrobků a materiálů včetně vedení evidence a kontroly.
+
+  - 2.14. Čištění velkých úklidových ploch pomocí samohybných mechanismů.
+
+  - 2.15. Provádění domovnických prací včetně drobné údržby, např. výměny žárovek, dozoru nad používáním společných prostor, udržování čistoty a pořádku ve svěřeném objektu.
+
+  - 2.16. Výkon pečovatelské služby mobilním občanům.
+
+  - 2.17. Výkon dílčích úkonů v péči o občany obtížně sociálně adaptabilní pod vedením sociálního pracovníka.
+
+  - 2.18. Provádění činností stálých figurantů v zeměměřictví.
+
+  - 2.19. Výkon pomocných měřičských a stabilizačních prací, výkon nejjednodušších geodetických, kartografických a reprodukčních prací podle přesných pokynů.
+
+  - 2.20. Výkon pomocných a obslužných prací v archivech, náročných na fyzickou námahu, přesnost a spolehlivost (práce manipulační, ukládací, sanitární, kurýrní apod.).
+
+  - 2.21. Obslužné a technické práce pomocného charakteru při ošetřování nemocných.
+
+  - 2.22. Pomocné práce v nemocničních a poliklinických provozech zdravotnických zařízení, transport pacientů.
+
+  - 2.23. Čištění, dezinfekce, sterilizace, pomocné činnosti v laboratorních provozech, v zařízeních lékárenské péče.
+
+  - 2.24. Aplikace jednoduchých léčebných lázeňských procedur podle lékařem stanovených podmínek (koupele, suché zábaly).
+
+  - 3. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 3.1. Vyřizování administrativy vedoucího útvaru.
+
+  - 3.2. Vyřizování korespondence podle pokynů nebo stenografování.
+
+  - 3.3. Zajišťování chodu spisovny a podatelny.
+
+  - 3.4. Přijímání, shromažďování a příprava podkladů pro správní řízení, pro vyměřování správních poplatků a dávek.
+
+  - 3.5. Vykonávání dílčích prací při vyřizování jednoduchých správních aktů.
+
+  - 3.6. Vedení evidencí, záznamů, kartoték a protokolů organizací.
+
+  - 3.7. Práce na elektronických psacích strojích s pamětí RAM včetně využívání předprogramovaných úkonů a operací (například formátování stran, zarovnání pravého okraje, centrování, opravy, tisk, tabulky, grafy).
+
+  - 3.8. Práce na počítačích různých typů, např. PC XT, PC AT apod. v prostředí textového systému nebo vytváření a doplňování datových a textových databank řízených uživatelským programem nebo systémem (pořizování dat na nosná média podle programu počítače) včetně jejich kontroly, oprav, třídění, výpisů apod.
+
+  - 3.9. Poskytování jednoduchých informací v odborných agendách.
+
+  - 3.10. Zjišťování dílčích statistických údajů od příslušných orgánů a jejich sumarizace.
+
+  - 3.11. Výkon pečovatelské služby u imobilních občanů; samostatná práce v terénu.
+
+  - 3.12. Řízení silničních motorových vozidel s celkovou hmotností do 3,5 t.
+
+  - 3.13. Obsluha teplovodního nebo horkovodního kotle systému ústředního topení s výkonem kotle nad 0,12 MW (0,106 Gcal/h.) nebo obsluha nízkotlakého parního kotle s jmenovitým výkonem nebo více kotlů s celkovým výkonem do 2,22 kg/s (8 t/h).
+
+  - 3.14. Zjišťování a opravy rozvodů elektroinstalace v objektech s případnou výměnou vodičů včetně prozvonění.
+
+  - 3.15. Ověřování podpisů.
+
+  - 3.16. Jednoduché základní údržbářské práce, opravy jednoduchých reprografických strojů, rozvodních skříní, zasklívání běžných konstrukcí všemi druhy skla, osazování dveří, oken a pod.
+
+  - 3.17. Domovnické práce včetně řemeslné údržby objektu (např. opravy zámků, různých uzávěrů), drobné zednické, truhlářské nebo zahradnické práce, s případným vytápěním objektu.
+
+  - 3.18. Obsluha víceúčelového velkokapacitního kuchyňského stroje nebo více jednoúčelových velkokapacitních kuchyňských strojů na výrobu jídel, velkokapacitních chladících a mrazících zařízení.
+
+  - 3.19. Výroba a výdej běžných druhů teplých jídel a moučníků nebo složitých jídel studené kuchyně a výroba polotovarů z předzpracovaných surovin na přípravu hlavních jídel.
+
+  - 3.20. Výsadba a ošetřování okrasných a ovocných keřů a stromů včetně úpravy kořenů a nadzemní části.
+
+  - 3.21. Příprava tiskové formy, seřizování stroje a tisk jednobarevných prací na maloformátovém stroji.
+
+  - 3.22. Fotografování černobílých informativních a dokumentačních snímků; zhotovování fotokopií z mikrofilmů s běžnými textovými předlohami.
+
+  - 3.23. Samostatná kvantitativní a případná kvalitativní přejímka zboží, výrobků, materiálů a surovin, jejich skladování, kompletace pro odběratele s využitím výpočetní techniky, provádění inventarizací a přeceňování zásob.
+
+  - 3.24. Samostatný výkon úředního označování zboží z drahých kovů sériové výroby.
+
+  - 3.25. Jednodušší rutinní práce při ošetřování nemocných v ambulantních i nemocničních složkách zdravotnických zařízení.
+
+  - 3.26. Provádění jednoduchých odběrů vzorků, příprava pomůcek a jednoduchých roztoků.
+
+  - 3.27. Asistence při stomatologickém vyšetření, zpracování dentálních kovů.
+
+  - 3.28. Aplikace jednoduchých lázeňských procedur v lázeňství pod odborným vedením odpovědného pracovníka (například minerální, peloidní a přísadové koupele, parafinové zábaly).
+
+  - 3.29. Obtížné a fyzicky namáhavé pomocné práce související zejména s přejímkou, ukládáním léčiv a prostředků zdravotnické techniky, jejich doplňování v zařízeních lékárenské péče.
+
+  - 3.30. Výkon opakovaných kontrolovatelných prací administrativního, evidenčního nebo administrativně technického charakteru a výkon základních archivních služeb.
+
+  - 4. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 4.1. Příprava podkladů pro správní řízení spočívající zejména v kontrole jejich náležitostí z věcného i právního hlediska, příp. přípravy návrhu na doplnění stanovených náležitostí.
+
+  - 4.2. Určování správních poplatků a jednoduchých dávek.
+
+  - 4.3. Příprava, sběr a zpracování statistických údajů včetně vypracování dílčích podkladů a tabulkových příkladů, prověřování správnosti prvotních údajů.
+
+  - 4.4. Vyřizování administrativní agendy vedoucího organizace a náměstka vedoucího ústředního orgánu.
+
+  - 4.5. Provádění kontroly úplnosti statistických a informačních registrů dat.
+
+  - 4.6. Údržbářské práce elektro, strojního, stavebního charakteru, truhlářských, lakýrnických, malířských, natěračských, instalatérských prací a prací jemné mechaniky včetně provedení méně náročných oprav.
+
+  - 4.7. Vykonávání nejjednodušších geodetických, kartografických, reprodukčních prací, poskytování jednoduchých informací z operátů evidence nemovitostí a dokumentačních fondů a pozemkových knih.
+
+  - 4.8. Pokladní manipulace s peněžní hotovostí.
+
+  - 4. 9. Vyřizování cestovních dokladů pro zahraniční cesty.
+
+  - 4.10. Fakturování, likvidace faktur včetně kontroly správnosti položek a fakturovaných částek, likvidace cestovních náhrad, dávek nemocenského pojištění, důchodového zabezpečení a ostatních dávek včetně kontroly jejich správnosti.
+
+  - 4.11. Zabezpečování chodu knihovny, objednávání, příjem, třídění knih a tiskovin, jejich uspořádávání, vyhodnocování a vyřazování.
+
+  - 4.12. Samostatná práce na personálních počítačích typu PC XT, PC AT a srovnatelných v prostředí databázových systémů, tabulkových procesorů, editorů apod.
+
+  - 4.13. Provádění administrativních úkonů souvisejících se zabezpečováním přípravy a průběhu soudního a notářského řízení spočívající zejména v předvolávání účastníků k jednání, ve vyhotovování protokolů z jednání, vyhotovování rozhodnutí a v administrativním vyřizování porozsudkové agendy podle pokynů.
+
+  - 4.14. Provádění úkonů úředního zapisovatele ve smyslu trestního řádu nebo zákona o prokuratuře, zabezpečování úkolů spisové služby na prokuratuře, zejména při vedení dozorových spisů, samostatné vykonávání odborných úkonů souvisejících s výkonem funkce prokurátora a vyšetřovatele prokuratury a lustrační činností rejstříku trestů.
+
+  - 4.15. Řízení silničních motorových vozidel o celkové hmotnosti nad 3,5 t do 12 tun.
+
+  - 4.16. Plnění základních úkolů bezpečnostní, pořádkové a dopravní služby ve vymezeném rozsahu.
+
+  - 4.17. Provádění základních prací v ekonomickém a materiálním zabezpečení bezpečnostního útvaru, vedení jednoduchého účetnictví a materiálových evidencí.
+
+  - 4.18. Ozbrojený doprovod peněžních zásilek a cenin.
+
+  - 4.19. Obsluha a údržba klimatizačního zařízení sestávajícího z topných a chladících elementů (chladící výkon cca 3,5 MW), seřizování termostatů vstupní vody, předehřívačů LTO a uzavírání armatur na okruzích topného média.
+
+  - 4.20. Úprava jatečného masa, drůbeže a ryb pro kuchyňské zpracování.
+
+  - 4.21. Řízení výroby jídel na svěřeném úseku.
+
+  - 4.22. Výroba technologicky náročných teplých jídel nebo specialit studené kuchyně s případným využitím velkokapacitních i programovaných kuchyňských strojů.
+
+  - 4.23. Instalační a topenářské práce, jako jsou montáže a opravy potrubí vnitřní kanalizace, přípojek plynovodů pro spotřebiče, montáž oběhových čerpadel včetně uvedení do provozu, montáž a opravy nízkotlakých kotlů včetně rozvodných potrubí.
+
+  - 4.24. Stavební údržba objektů jako je zdění lícového zdiva nebo provedení hladkých omítek.
+
+  - 4.25. Montáž a zapojování elektroinstalace v objektech a zařízení včetně rozvodových skříní.
+
+  - 4.26. Řízení druhové a kvalitativní přejímky zboží a jeho uskladnění s využitím výpočetní techniky a kontrolní činností.
+
+  - 4.27. Ošetřování koní ve výcviku a výcvik pod sedlem a v zápřeži.
+
+  - 4.28. Příprava tiskové formy, seřizování stroje a tisk jednobarevných prací na archovém stroji; tisk vícebarevných prací na maloformátových strojích.
+
+  - 4.29. Fotografování barevných snímků; duplikace a kopírování mikrofilmů a mikrofiší.
+
+  - 4.30. Samostatné vykonávání odborných archivních prací včetně archivní výpůjční služby.
+
+  - 4.31. Nižší odborné rutinní práce při ošetřování pacientů.
+
+  - 4.32. Provádění jednoduchých rehabilitačních úkonů, klasické a sportovní masáže.
+
+  - 4.33. Transport nemocných se zajištěním základní odborné péče.
+
+  - 4.34. Jednoduché pomocné laboratorní práce při provádění analytických zkoušek (např. základní vyšetření krve a moče prováděné nižším zdravotnickým pracovníkem).
+
+  - 4.35. Zhotovení protéz, přístrojů a objímkových přístrojů pro dolní končetiny (individuální výroba podle nákresů nebo sádrových negativů), složitých kopyt pro ortopedickou obuv a bandážování protéz, přístrojů a objímkových podpůrných přístrojů pro dolní končetiny.
+
+  - 4.36. Samostatné zpracování tiskové dokumentace dlouhodobého charakteru.
+
+  - 4.37. Obtížné pomocné práce zdravotnického charakteru spojené s přímým stykem s pacienty v psychiatrických léčebnách, protialkoholních záchytných stanicích a podobných pracovištích vyžadující zvýšenou pozornost.
+
+  - 5. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 5. 1. Pořizování záznamů z jednání vedoucích orgánů a kontrola jejich plnění, jakož i jiné složité administrativní práce pro vedoucího ústředního orgánu.
+
+  - 5. 2. Vyměřování dávek nemocenského pojištění, důchodového zabezpečení, ostatních dávek, daní a poplatků nebo prověřování doby pojištění (zaměstnání).
+
+  - 5. 3. Vyměřování dávek hmotného zabezpečení uchazečům o zaměstnání včetně provádění exekucí na dávky.
+
+  - 5. 4. Sledování úkolů vyplývajících z obecně závazných právních předpisů, usnesení vlády a zastupitelských orgánů u vedoucího organizace.
+
+  - 5. 5. Zabezpečování ukládání závažných dokumentů orgánu státní správy ve spisovně, provádění dohledu nad dodržováním spisových norem.
+
+  - 5. 6. Zprostředkovatelská činnost při umísťování uchazečů a zájemců o zaměstnání.
+
+  - 5. 7. Vykonávání běžných měřičských, výpočtových, zobrazovacích a kartografických prací, zápisů jednoduchých právních listin do operátů evidence nemovitostí, zpracování map velkých a středních měřítek; vedení agendy správních rozhodnutí o právních vztazích k nemovitostem.
+
+  - 5. 8. Odborné vedení, organizace a kontrola pečovatelské služby v územním celku.
+
+  - 5. 9. Provádění účetních prací.
+
+  - 5.10. Vykonávání prací na úseku bezpečnosti práce v organizaci, provádění prověrek dodržování bezpečnostních předpisů a protipožární připravenosti pracovišť.
+
+  - 5.11. Tvorba uživatelských programů nebo rutin pro tzv. kapesní počítače (Pocket Computer) s kapacitou paměti RAM nad 1 kB nebo pro programovatelné kalkulátory s kapacitou 500 programovatelných příkazů.
+
+  - 5.12. Vedení rozsáhlé odborné knihovny včetně katalogizace a doplňování knižního fondu.
+
+  - 5.13. Provádění jednoduchých daňových kontrol nebo vybraných otázek revizí hospodaření se státními prostředky nebo jednoduchých cenových kontrol.
+
+  - 5.14. Komplexní zabezpečování pokladní služby.
+
+  - 5.15. Protokolární sepisování podání a ústních prohlášení účastníků soudních a notářských žádostí o osvobození od soudních poplatků a o ustanovení zástupce, vyznačování doložky vykonatelnosti na stejnopisy rozhodnutí, zakládání a vedení registrů soudů, prokuratur a rejstříku trestů.
+
+  - 5.16. Samostatné plnění úkolů bezpečnostní, pořádkové a dopravní služby.
+
+  - 5.17. Provádění základních technických prací na úseku linkového a radiového spojení.
+
+  - 5.18. Plnění základních úkolů při přepravě osob a nákladů v souvislosti s plněním úkolů bezpečnostního charakteru, péče o svěřené technické prostředky.
+
+  - 5.19. Řízení silničních motorových vozidel s více než 9 místy k sezení včetně řidiče nebo nad 12 tun hmotnosti.
+
+  - 5.20. Řízení provozu, údržba a opravy velkých klimatizačních zařízení, sestávajících z parovodních a teplovodních kotlových jednotek výkonu cca 8,1 MW, turbokompresorů chladících směsí, klimatizačních jednotek a jejich příslušenství.
+
+  - 5.21. Vyzdívání ze všech druhů stavebních materiálů, vyzdívání režného zdiva a jednoduchých kleneb včetně provádění omítek štukových, škrábaných, gletovaných.
+
+  - 5.22. Instalační a topenářské práce jako je samostatná montáž a opravy domovních plynovodů, samostatná montáž a opravy potrubí v kotelnách, strojovnách, montáž a opravy domovních vodovodů s příslušenstvím ústředního vytápění včetně zkoušek těsnosti podle ČSN.
+
+  - 5.23. Výroba velmi náročných specialit nebo výroba nejnáročnějších specialit studené kuchyně pro bankety a recepce, organizace výroby jídel pro slavnostní příležitosti včetně sestavování vlastních receptur vybraných pokrmů.
+
+  - 5.24. Řízení výroby jídel.
+
+  - 5.25. Příprava tiskové formy, seřizování stroje a tisk na archovém stroji jednobarevných a vícebarevných prací, tisk barvotiskových prací na maloformátových strojích.
+
+  - 5.26. Samostatné zpracování statistických úloh na výpočetní technice, řízení a koordinace jednotlivých zpracování, vytváření báze dat a její využívání.
+
+  - 5.27. Sestavování statistických podkladů pro rozborovou činnost a analýzy.
+
+  - 5.28. Zpracovatelská činnost v úsekových statistikách, prověrková činnost, vedení operativní evidence, uchovávání zpracovaných údajů.
+
+  - 5.29. Vedení doplňovacích časových řad, kontrola jejich formální správnosti a zpracování podkladů pro odhady ukazatelů.
+
+  - 5.30. Zajišťování dílčích odborných agend v rámci samostatné působnosti měst a obcí a územního orgánu státní správy.
+
+  - 5.31. Úkony při přípravě mikrofilmování, zhotovení mikrofilmů a mikrofiší vzácných předloh. Individuální fotografování a zhotovování dokumentačních a technických snímků a kopií velkých formátů.
+
+  - 5.32. Výkon odborných prací na úseku civilní obrany v organizaci.
+
+  - 5.33. Pomocné práce při odborném vyšetřování a testování zdravotního stavu.
+
+  - 5.34. Jednoduché šetření v terénu pod odborným vedením odpovědného pracovníka.
+
+  - 5.35. Provádění léčebné pracovní terapie.
+
+  - 5.36. Základní analýza biologického materiálu.
+
+  - 5.37. Sestavování, seřizování a zkoušení narkotizačních nebo chirurgických přístrojů.
+
+  - 5.38. Návrhy konstrukce a zhotovení dílů protéz (např. bércový díl stehenní protézy, na chodidla a ruce), modelování laminátových pánevních košů, korzetů a jejich částí, zhotovení korekčních vložek do ortopedické obuvi a vyrovnávacích vložek, zhotovování vzorků a výkroj svršků běžné ortopedické obuvi a lepení a šití vzorků pro běžnou ortopedii (např. deformace), bandážování atypických extenčních a redresních korzetů, přístrojů a protéz.
+
+  - 5.39. Spolupráce při vyprošťování při různých havarijních situacích, poskytování neodkladné péče a převoz zraněných a nemocných z místa havárie.
+
+  - 5.40. Samostatné vykonávání různorodých odborných prací archivářských, knihovnických a technických.
+
+  - 5.41. Komplexní výkon archivní výpůjční služby (vyhledávání, deponování archiválií, vedení badatelské evidence, poskytování odborných informací).
+
+  - 5.42. Zajištění provozu výpočetní stanice včetně organizace zpracování, distribuce vstupních a výstupních dat a zajištění jejich bezpečnosti.
+
+  - 5.43. Samostatné zajišťování svěřených odborných činností pod metodickým vedením spojené s osobní odpovědností za vykonanou práci.
+
+  - 6. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 6. 1. Jednání se zaměstnavateli k vytváření a obsazování pracovních míst a projednávání rekvalifikace.
+
+  - 6. 2. Vyřizování složitých případů důchodového zabezpečení a ostatních dávek (např. fakultativní dávky z důvodu sociální potřebnosti).
+
+  - 6. 3. Odborné zpracování podkladů pro správní nebo daňová rozhodnutí vydávaná v prvním a druhém stupni správního řízení.
+
+  - 6. 4. Zjišťování podkladů pro pozemkové úpravy a majetkoprávní agendu, evidence nemovitostí včetně vedení příslušné dokumentace.
+
+  - 6. 5. Spolurozhodování o výroku komise ve věci zdravotního stavu občana, odpovědnost za potřebnou odbornou dokumentaci.
+
+  - 6. 6. Bonitace půdy.
+
+  - 6. 7. Samostatné zajišťování účetních prací.
+
+  - 6. 8. Zabezpečování personální agendy nebo mzdové agendy na svěřeném úseku.
+
+  - 6. 9. Provádění daňových kontrol podle rámcových pokynů, zabezpečování všech úkonů potřebných k provedení výkonu rozhodnutí.
+
+  - 6.10. Komplexní zajišťování nezávadnosti pracovního prostředí z hlediska bezpečnosti práce.
+
+  - 6.11. Vymáhání soudních a notářských pohledávek, zajišťování výkonu peněžitých trestů (činnost při výkonu soudních rozhodnutí).
+
+  - 6.12. Sestavování plánů depistáže (vyhledávání) sociálně potřebných občanů, koordinace a spolupráce se státními i nestátními institucemi ve vymezeném územním celku včetně zpracování návrhů na opatření.
+
+  - 6.13. Výkon specializovaných sociálních agend podle rámcového postupu, např. v péči o rodinu a děti, staré, zdravotně postižené a společensky nepřizpůsobivé občany.
+
+  - 6.14. Provádění náročnějších geodetických, kartografických a vyhodnocovacích prací při tvorbě map, komplexní přípravě výstupů pro automatizované zpracování map a operátů evidence nemovitostí, šetření vlastnických a užívacích vztahů při tvorbě a údržbě mapových a písemných operátů a vedení dokumentačních fondů.
+
+  - 6.15. Komplexní zabezpečování správy majetku méně rozsáhlých majetkových souborů.
+
+  - 6.16. Technické zabezpečení a řízení údržby a oprav technických a technologických zařízení, budov, kanceláří a jejich vybavení.
+
+  - 6.17. Příprava podkladů pro uzavírání hospodářských a autorských smluv a sledování jejich plnění.
+
+  - 6.18. Technický dozor nad méně složitými investičními akcemi včetně kontroly jejich realizace.
+
+  - 6.19. Řízení dopravy, energetického a vodního hospodářství.
+
+  - 6.20. Řízení provozu, údržby a opravy automatizovaných a poloautomatizovaných klimatizačních zařízení pro velmi rozsáhlé objekty o výkonu tepelných zdrojů cca 11,6 MW (10 Gcal/h), turbokompresorů, chladících věží, klimatizačních jednotek a jejich příslušenství.
+
+  - 6.21. Sanace historických zděných konstrukcí, vyrovnávání vychýleného zdiva, deformovaných kleneb a pod.
+
+  - 6.22. Zajišťování ochrany osob při hromadných akcích.
+
+  - 6.23. Samostatné plnění speciálních úkolů bezpečnostní, pořádkové a dopravní služby (územní a objektová odpovědnost).
+
+  - 6.24. Vykonávání prvotních kriminalistických úkonů, základních činností na úseku technické ochrany objektů a základních činností v systému operačního řízení nižších organizačních článků.
+
+  - 6.25. Asistence při odborných činnostech v ambulantních i nemocničních složkách zdravotnických zařízení, laboratorních provozech pod odborným vedením odpovědného pracovníka.
+
+  - 6.26. Jednodušší samostatné ošetřovatelské úkony včetně zajišťování standardní dokumentace pro lékařskou, ošetřovatelskou, laboratorní, řídící a další činnost, podíl na sběru údajů o stavu životního a pracovního prostředí.
+
+  - 6.27. Asistence při přípravě léčivých přípravků v lékárnách, obsluha a udržování jednoduchých přístrojů a zařízení pro přípravu léčiv.
+
+  - 6.28. Opravy a seřízení lékařských elektronických přístrojů.
+
+  - 6.29. Individuální zhotovení, stavba, zkoušení speciálních typů přístrojů, protéz a léčebných pomůcek mimořádných konstrukcí (např. po exartikulaci kyčelních kloubů), zhotovení vzorků, výkroj svršků a zhotovení spodků těžké ortopedické obuvi - individuální výroba podle nákresů.
+
+  - 6.30. Odborná laboratorní vyšetření, odběr biologického materiálu, provádění analytických zkoušek.
+
+  - 6.31. Zhotovování stomatologických náhrad a provádění jednoduchých ortodontických prací.
+
+  - 6.32. Spolupráce s lékařem při předpisu speciálních diet.
+
+  - 6.33. Ošetřování, restaurování a konzervování archiválií pod vedením odborných pracovníků.
+
+  - 6.34. Provádění přípravných prací pro mikrofilmování, založení a vedení pracovního archivu.
+
+  - 6.35. Výkon prací při zajišťování chodu složité a speciální výpočetní techniky včetně uvádění do provozu.
+
+  - 6.36. Ovládání systému provozu výpočetní techniky včetně obsluhy počítačů vyšších tříd.
+
+  - 6.37. Programové zajištění výstupních sestav.
+
+  - 6.38. Odborné zpracování podkladů pro technické projekty při zajištění zpracování a součinnost při zpracování výkazů v příštím období.
+
+  - 6.39. Organizace sběru údajů ze zpravodajských jednotek, kontrola průběhu zpracování a součinnost při odstraňování zjištěných závad.
+
+  - 6.40. Komplexní zabezpečování utajovaných skutečností tvořících předmět státního, hospodářského nebo služebního tajemství.
+
+  - 6.41. Provádění státní správy v oblasti civilní obrany v rámci regionu.
+
+  - 7. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 7. 1. Vykonávání úkonů v trestních, občanskoprávních a notářských věcech vyhrazených jinak podle zákona o soudním a notářském řízení předsedovi senátu (samosoudci) nebo státnímu notáři podle jejich pokynů a v rozsahu stanoveném v jednacím řádu.
+
+  - 7. 2. Organizace a kontrola práce soudních kanceláří soudů, státních notářství a prokuratur.
+
+  - 7. 3. Odborné zpracování rozhodnutí v prvním a druhém stupni správního nebo daňového řízení.
+
+  - 7. 4. Zajištění ucelených agend v rámci samostatné působnosti obcí a měst a územních orgánů státní správy.
+
+  - 7. 5. Výkon složité personální a mzdové agendy.
+
+  - 7. 6. Komplexní výkon matriční agendy.
+
+  - 7. 7. Zajišťování jednotlivých úkolů souvisejících s brannou pohotovostí státu, válečným stavem a mimořádnými situacemi v regionu.
+
+  - 7. 8. Samostatný výkon náročných specializovaných sociálních agend v péči o rodinu, děti, staré, zdravotně postižené a společensky nepřizpůsobivé občany apod., práce kurátora.
+
+  - 7. 9. Písemný nebo ústní překlad různorodých jednoduchých textů nevyžadujících znalost odborné terminologie.
+
+  - 7.10. Tvorba dílčích rozborů pro analýzu trhu práce a vývoje zaměstnanosti.
+
+  - 7.11. Komplexní zajišťování správy majetku rozsáhlých majetkových souborů.
+
+  - 7.12. Samostatné provádění kontrol.
+
+  - 7.13. Aprobace daňových přiznání.
+
+  - 7.14. Samostatný výkon geodetických prací, měření polohopisu a výškopisu včetně grafického zpracování výsledků.
+
+  - 7.15. Provádění náročných prací v bodových polích, šetření vlastnických a užívacích vztahů při vyhotovení geometrických plánů a údržbě operátů evidence nemovitostí.
+
+  - 7.16. Vypracovávání podkladů pro sociální analýzy, prognózy a projekty a návrhy sociálně terapeutických postupů týkajících se větších skupin občanů.
+
+  - 7.17. Provádění ekonomických rozborů, sledování vývoje ekonomických ukazatelů včetně návrhů na opatření, zajišťování odborných ekonomických činností na úseku financování, rozpočetnictví, vedení složitých účetních agend.
+
+  - 7.18. Vytváření uživatelských aplikací (software) pro personální počítače typu PC XT a PC AT resp. s nimi srovnatelné, prostřednictvím programových prostředků, případně vyšších programovacích jazyků včetně jejich odladění.
+
+  - 7.19. Revize technického stavu vybraných technických zařízení (zdvíhacích, tlakových, elektrických nebo plynových).
+
+  - 7.20. Speciální ozbrojená individuální ochrana.
+
+  - 7.21. Provádění odborné poradenské činnosti specializovaného územního orgánu.
+
+  - 7.22. Výkon kontroly nad hornickou činností a činností prováděnou hornickým způsobem v předem vymezeném dílčím rozsahu.
+
+  - 7.23. Samostatné vykonávání činností na úseku technické ochrany objektů a činností v systému organizačního a operačního řízení nižších organizačních článků.
+
+  - 7.24. Samostatná odborná činnost v ambulantních nemocničních složkách i ve zvláštní domácí péči, provádění odborných specializovaných vyšetření, odborné ošetřovatelské činnosti, instrumentace, asistence při obtížných zákrocích a výkonech, příprava rodiček k porodu.
+
+  - 7.25. Provádění odborných rehabilitačních úkonů, pracovní terapie, arteterapie, psychogymnastika.
+
+  - 7.26. Provádění státního zdravotního dozoru, hodnocení výsledků laboratorních vyšetření, kontrola hygienických a protiepidemických režimů, dodržování zásad prevence nosokomiálních nákaz, sběr a zpracování podkladů pro epidemiologické studie.
+
+  - 7.27. Zajišťování zpracování anamnézy, diagnózy a prognózy sociální péče.
+
+  - 7.28. Radiodiagnostická vyšetření včetně zhotovování snímků, skiagrafická vyšetření.
+
+  - 7.29. Vydávání léků a ostatních přípravků v lékárnách bez lékařského předpisu, samostatná příprava léčivých přípravků, pokud neobsahují silně účinná a velmi silně účinná léčiva a příprava zkoumadel pro laboratorní účely. Na odděleních nukleární medicíny příprava radiofarmak z generátorů a kitů.
+
+  - 7.30. Opravy, nastavování a seřizování složitých regulačních obvodů a zařízení dálkového měření a zapisování pro nemocnice, samostatné fyzikální testování diagnostických systémů (např. v oboru nukleární medicíny).
+
+  - 7.31. Provádění refraktačních zkoušek ve spolupráci s lékařem a stanovení příslušných korekcí na úseku optometrie, provádění dalších vyšetřovacích metod, např. perimetrie, tonometrie pod dohledem lékaře.
+
+  - 7.32. Odborné práce v multidisciplinárním týmu při psychoterapeutickém zvládání krizových situací.
+
+  - 7.33. Vysoce specializovaná činnost v odborných odděleních nebo specializovaných pracovištích lékáren.
+
+  - 7.34. Provádění složitějších kinesiologických rozborů a speciálních facilitačních technik.
+
+  - 7.35. Provádění specializovaných laboratorních vyšetření, příprava individuálních složitých půd pro diagnostiku, provádění složitých prací v referenčních a výzkumných laboratořích.
+
+  - 7.36. Provádění vyšetření pomocí mikrofotografické techniky.
+
+  - 7.37. Provádění náročných vyšetření se složitými přístroji pro grafické vyšetřovací metody.
+
+  - 7.38. Zhotovování speciálních protetických náhrad fixních i snímacích z kovů drahých i náhradních, provádění speciálních ortodontických prací, speciální práce ve spolupráci se stomatochirurgií, onkologií a foniatrií.
+
+  - 7.39. Spolupráce s lékařem při předpisu speciálních diet nemocným, zabezpečování podávání potravinových směsí pro enterální výživu.
+
+  - 7.40. Samostatné pořádání a inventarizace archivních fondů a sbírek pod metodickým dohledem odborného pracovníka.
+
+  - 7.41. Odborná správa archivních fondů a sbírek a jejich revize.
+
+  - 7.42. Zpracování správních a odborných rešerší.
+
+  - 7.43. Vedení odborných prací archivní výpůjční služby.
+
+  - 7.44. Samostatné restaurování archiválií a knih, koordinace průzkumu včetně vyhodnocování jejich výsledků.
+
+  - 7.45. Provádění náročných kartografických prací, vyhotovení originálů s náročnou generalizací, transformace map a jiného zobrazení.
+
+  - 7.46. Výkon metodické činnosti pro oblastní statistické orgány a metodické zabezpečení mimořádných šetření.
+
+  - 7.47. Zpracovávání výsledků vývoje základních ukazatelů ekonomiky České republiky pro potřeby oblastních orgánů.
+
+  - 7.48. Systémová činnost ve výpočetní technice v oblasti použitého softwarového vybavení, projektování úloh a vypracování programů, ochrana a údržba datové báze.
+
+  - 7.49. Výkon analytické činnosti, programové zajišťování analytických výstupních sestav.
+
+  - 8. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 8. 1. Souhrnné práce při zajišťování výkonu státní správy nebo činností v regionu, např. na úsecích registrace a kontroly podnikatelů, památkové péče, silniční dopravy a silničního hospodářství, péče o rodinu a dítě, přírodních zdrojů, komplexní bytové výstavby a základní technické vybavenosti.
+
+  - 8. 2. Školící činnost ve speciálně zaměřených odborných kursech.
+
+  - 8. 3. Usměrňování a ovlivňování podnikatelských aktivit na území okresů; samostatný výkon zřizovatelských funkcí vůči rozpočtovým a příspěvkovým organizacím a výkon zakladatelské funkce vůči státním podnikům.
+
+  - 8. 4. Zajišťování výkonu státní správy a činností na nejvýznamnějších rozvojových a koncepčních úsecích obecních úřadů v obcích do 20 tisíc obyvatel.
+
+  - 8. 5. Výkon samostatných agend spojených s vyřizováním restitučních nároků.
+
+  - 8. 6. Samostatné vykonávání úkonů v trestních, občanskoprávních, správních, obchodních a notářských věcech vyhrazených jinak podle zákona o soudním a notářském řízení předsedovi senátu (samosoudci) nebo státnímu notáři podle jejich pokynů a v rozsahu stanoveném jednacím řádem.
+
+  - 8. 7. Komplexní zabezpečování soudní správy okresního soudu a státních notářství.
+
+  - 8. 8. Komplexní zabezpečování správy okresní prokuratury.
+
+  - 8. 9. Rozborová hodnotící a rozhodovací činnost v ucelené odborné agendě územního orgánu.
+
+  - 8.10. Komplexní zabezpečování účetnictví, rozpočtu a financování orgánů a organizací státní správy.
+
+  - 8.11. Výkon kontrolní činnosti v konkrétních případech v rozsahu působnosti orgánu státní správy, aprobační činnost v důchodové agendě sociálního zabezpečení.
+
+  - 8.12. Jednoduché právní poradenství.
+
+  - 8.13. Komplexní zajišťování personální nebo mzdové agendy.
+
+  - 8.14. Odborné vedení zdravotnických a sociálních pracovníků v zařízeních sociální péče v územním celku.
+
+  - 8.15. Samostatné vykonávání složitých zásahů a průzkumů, vyhodnocování návrhů na ochranu přírody. Metodická řešení ochrany přírody. Komplexní zabezpečení provozu správy chráněné krajinné oblasti, národních parků a výchovného využívání přírody zpřístupněné veřejnosti.
+
+  - 8.16. Komplexní zpracování analýzy trhu práce a vývoje zaměstnanosti v územním celku včetně prognózy vývoje.
+
+  - 8.17. Provádění výchovné a poradenské činnosti a pomoci pro účely zaměstnanosti a rekvalifikace, posuzování výkonnostní a osobnostní schopnosti uchazečů o zaměstnání.
+
+  - 8.18. Komplexní zajišťování úkolů souvisejících s brannou pohotovostí státu, válečným stavem a mimořádnými situacemi v organizaci.
+
+  - 8.19. Sociálně právní a psychologické poradenství a sociální práce se zvláště problémovými rodinami, skupinami nebo jedinci.
+
+  - 8.20. Vedení kontrolních týmů v celém rozsahu působnosti územních orgánů státní správy.
+
+  - 8.21. Zabezpečování chodu sítě výpočetní techniky v územním regionu.
+
+  - 8.22. Výkon kontroly nad hornickou činností a činností prováděnou hornickým způsobem.
+
+  - 8.23. Vedení pracovních týmů, odborné vedení nebo samostatné řešení zvlášť obtížných úkolů při realizaci geodetických a kartografických prací vyžadující rozsáhlou znalost předpisů.
+
+  - 8.24. Výkon státního odborného dozoru nad bezpečností práce a technických zařízení a nad dodržováním stanovených pracovních podmínek v předem vymezeném rozsahu.
+
+  - 8.25. Samostatná systémová činnost v oblasti výpočetní techniky, rozbory a analýzy pro tvorbu technických projektů, projektování, koordinace servisu a údržby, správy banky dat.
+
+  - 8.26. Koordinace a metodické řízení statistiky menších územních celků.
+
+  - 8.27. Vykonávání odborné překladatelské a tlumočnické činnosti (odborných textů), předpokládajících znalost odborné terminologie a obratů; písemný a ústní překlad jednoduchých textů z běžně nepoužívaných jazyků (čínština, japonština, africké, severské jazyky a podobně) do mateřského jazyka a naopak.
+
+  - 8.28. Provádění vysoce specializovaných a náročných odborných činností při resuscitaci, realimentaci a intenzivní péči o nemocné s využitím všech dostupných prostředků, odborné práce prováděné v multidisciplinárním týmu při složitých diagnostických a terapeutických výkonech.
+
+  - 8.29. Nejnáročnější specializované práce při ošetřování nemocných ve zdravotnických zařízeních včetně příprav operací a instrumentace, vedení fyziologických porodů a jiné.
+
+  - 8.30. Aplikace náročných pracovních metod v péči o nemocné, specializovaná péče o nemocné vyžadující zvláštní péči.
+
+  - 8.31. Samostatné provádění vyšetření a měření v oblasti fyziologie a antropologie a vitálních funkcí v terénu, provádění funkčních vyšetření v laboratořích.
+
+  - 8.32. Provádění speciálních náročných skiagrafických vyšetření, součinnost při provádění speciálních kontrastních vyšetření, práce s vyšetřovacími přístroji na úseku nukleární medicíny, prověřování spektra radioaktivních zářičů, provádění ozařování podle ozařovacích plánů.
+
+  - 8.33. Konzervační a protetické práce včetně jednoduchých extrakcí zubů.
+
+  - 8.34. Spolupráce při vyprošťování osob při různých havarijních situacích. Samostatné poskytování neodkladné zdravotní péče (intubace, kardiopulmonální resuscitace podávání infuze, punkce pneumotoraxu, fixace zlomenin apod.). Zabezpečení odborného transportu zraněných.
+
+  - 8.35. Nejnáročnější specializované práce při léčebné rehabilitaci na vybraných pracovištích (v rehabilitačních ústavech, na vybraných nemocničních pracovištích a ve vybraných lázeňských léčebnách).
+
+  - 8.36. Výkon vysoce specializovaných odborných činností a samostatné zajišťování náročných odborných úkolů, prací a agend na svěřeném úseku (předarchivní péče, zpřístupňování archiválií, konzervace a restaurování, využívání archiválií, ediční činnost, archivní informační systémy, technicko-organizační a administrativní zabezpečení archivů, teorie a metodologie oboru) spojené s teoretickým zvládnutím a úplným praktickým osvojením odborné problematiky.
+
+  - 8.37. Podíl na přípravě vědeckých edic archivních dokumentů.
+
+  - 8.38. Samostatné řešení dílčích vědeckých a odborných úkolů v rámci pracovního týmu nebo specializovaného pracoviště spojené s přímou a úplnou osobní odpovědností za svěřené hodnoty a za dosažené pracovní výsledky včetně samostatné publikační činnosti.
+
+  - 8.39. Zpracování znaleckých posudků a recenzí odborných a vědeckých prací z oboru.
+
+  - 8.40. Zabezpečování a samostatné provádění speciálních prací při restaurování archiválií a knih, provádění průzkumu a jeho koordinace včetně vyhodnocení výsledků.
+
+  - 9. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 9. 1. Tvorba obecně závazných právních předpisů na regionální úrovni.
+
+  - 9. 2. Zajišťování výkonu státní správy a činností na nejvýznamnějších rozvojových a koncepčních úsecích obecních úřadů v obcích nad 20 tisíc obyvatel.
+
+  - 9. 3. Komplexní zajišťování činností spojených se stanovením únosnosti území a určování jeho rozvoje.
+
+  - 9. 4. Souhrnné práce při zajišťování výkonu státní správy nebo činností v regionu, zejména na úseku územního plánu a stavebního řádu, vodního hospodářství, ochrany přírodního prostředí, pozemkových úprav, rozpočtu a financování.
+
+  - 9. 5. Komplexní zabezpečování soudní správy krajského soudu spočívající zejména v organizaci práce krajského soudu a okresních soudů a státních notářství.
+
+  - 9. 6. Komplexní zabezpečování správy krajské prokuratury a rejstříku trestů.
+
+  - 9. 7. Komplexní zabezpečování činnosti soudní správy Nejvyššího soudu České republiky a správy Generální prokuratury České republiky.
+
+  - 9. 8. Řešení majetkoprávních, pracovněprávních a ostatních právních záležitostí organizace včetně zastupování organizace v právních sporech.
+
+  - 9. 9. Samostatná systémová činnost při tvorbě opatření s celorepublikovou působností.
+
+  - 9.10. Usměrňování výkonu státní správy v územním celku na úseku příjmů do státního rozpočtu, a to především daní, dávek, poplatků a odvodů.
+
+  - 9.11. Školící činnost postihující ucelenou oblast státní správy.
+
+  - 9.12. Písemný nebo ústní překlad různorodých odborných nebo obtížných textů z běžně používaných jazyků a naopak.
+
+  - 9.13. Komplexní zajišťování personální agendy v ústředních orgánech státní správy.
+
+  - 9.14. Zajišťování mzdové politiky (tvorba vnitřních předpisů) v organizacích s rozmanitou kvalifikační a profesní strukturou zaměstnanců.
+
+  - 9.15. Vytváření uživatelských systémů, případně sítí pro počítače typu PC XT, PC AT a srovnatelné včetně jejich doladění.
+
+  - 9.16. Zajišťování způsobilosti listin pro zápis právních vztahů do katastru nemovitostí a rozhodování o vkladu do katastru.
+
+  - 9.17. Zajišťování komplexní rozborové a kontrolní činnosti v rozsahu působnosti ústředního orgánu státní správy včetně návrhu na opatření.
+
+  - 9.18. Zabezpečování nejsložitějších geodetických a kartografických prací při tvorbě, údržbě a obnově operátů evidence nemovitostí.
+
+  - 9.19. Samostatná tvorba statistického informačního systému.
+
+  - 9.20. Metodické a odborné řízení rozhodujících úseků činnosti územních orgánů státní správy (např. finančního ředitelství, konzultační činnost v důchodové agendě apod.).
+
+  - 9.21. Provádění inspekcí základních škol.
+
+  - 9.22. Zabezpečování komplexních poradenskopsychologických služeb v oblasti sociální pomoci občanům.
+
+  - 9.23. Výkon ucelených odborných činností ve vymezeném úseku státní správy s republikovou působností vyžadující rozsáhlé odborné znalosti spojené s vysokou mírou odpovědnosti.
+
+  - 9.24. Samostatné zajišťování složitých právních nebo ekonomických agend.
+
+  - 9.25. Koncepční a metodické zajišťování úkolů souvisejících s brannou pohotovostí státu, válečným stavem a mimořádnými situacemi včetně organizování a koordinace těchto činností v rámci resortu.
+
+  - 9.26. Samostatný výkon státní báňské správy a výkon vrchního dozoru nad hornickou činností a činností prováděnou hornickým způsobem a při výzkumu, vývoji, výrobě, uvádění do oběhu, používání a ničení výbušnin ve vymezeném rozsahu.
+
+  - 9.27. Diagnostická a léčebná činnost konaná lékařem do získání specializace I. stupně pod dohledem kvalifikovanějšího lékaře.
+
+  - 9.28. Provádění odborných prací spojených s přípravou, kontrolou, uchováváním a výdejem léčiv a prostředků zdravotnické techniky.
+
+  - 9.29. Nejsložitější práce při montáži, oživování, uvádění do provozu a zajišťování provozu složitých elektronických a jiných přístrojů pro diagnostický a léčebný proces.
+
+  - 9.30. Samostatné provádění odborných náročných prací na různých úsecích léčebně preventivní péče, kde platný předpis připouští práci pracovníka s jiným odborným vzděláním (např. klinický psycholog, klinický logoped).
+
+  - 9.31. Samostatné provádění odborných náročných prací na úseku sociálně zdravotní péče v oblasti léčebně preventivní péče a kurativní sociální péče (např. posuzování bezmocnosti, metodika nácviku složitých úkonů osobních či pracovních po dlouhodobé nemoci či úrazu).
+
+  - 9.32. Psychologická vyšetření pod vedením kvalifikovaného pracovníka, účast na řešení vědeckých, výzkumných nebo vývojových problémů.
+
+  - 9.33. Samostatné pořádání, inventarizace a katalogizace složitých paleografických a jazykově náročných archivních fondů a sbírek.
+
+  - 9.34. Komplexní zajištění ochrany, odborné správy a propagace archivních fondů nejvyšší kategorie. Zpracování složitých archivních rešerší. Odborný dohled nad spisovou službou a vyřazováním písemností.
+
+  - 9.35. Příprava a zpracování vědeckých edic archivních dokumentů. Samostatná publikační činnost v oboru archivnictví a historie.
+
+  - 9.36. Samostatný výkon velmi náročných odborných prací a zajišťování komplexních agend spojený s hlubokým teoretickým zvládnutím a úplným praktickým osvojením všech navazujících specializovaných úseků archivní práce.
+
+  - 9.37. Pořádání, inventarizace a kategorizace odborně složitých a jazykově náročných archivních fondů a sbírek.
+
+  - 9.38. Samostatná příprava náročných kulturně vzdělávacích a osvětových akcí (výstavy, přednášky, konference).
+
+  - 10. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 10. 1. Komplexní zajišťování výkonu státní správy a činností na nejvýznamnějších rozvojových a koncepčních úsecích okresních úřadů, úřadů statutárních měst a úřadů měst nad 100 tisíc obyvatel.
+
+  - 10. 2. Zajišťování koncepční, metodické, normotvorné a obdobné odborné činnosti v dílčích oblastech systému státní správy s republikovou působností.
+
+  - 10. 3. Koncepční řešení rozhodujících směrů politiky zaměstnanosti v regionech s velmi náročnou problematikou.
+
+  - 10. 4. Lékařská posudková činnost v posudkové komisi sociálního zabezpečení a revizní posudková činnost.
+
+  - 10. 5. Výkon nejvýznamnějších koncepčních prací při určování rozhodujících směrů finanční a daňové politiky v regionech.
+
+  - 10. 6. Zajišťování kontroly realizace vládních programů a činnosti ústředních orgánů státní správy.
+
+  - 10. 7. Řízení a koordinace činnosti školních inspektorů základních škol, provádění inspekce středních škol.
+
+  - 10. 8. Koncepční a koordinační činnost v zákonem stanoveném rozsahu pro daný územní celek.
+
+  - 10. 9. Tvorba koncepčních, metodických a analytických materiálů v oblasti psychologického poradenství a sociální práce.
+
+  - 10.10. Zabezpečování různorodých agend na různých úsecích v oboru sociálního lékařství a organizace zdravotnictví včetně odborných analýz, sociálního výzkumu, koncepce a studií pro potřeby řízení, organizace a prognostiky rozvoje zdravotnictví a sociální péče.
+
+  - 10.11. Odborné vedení lékařů v zařízeních sociální péče v rámci územního celku.
+
+  - 10.12. Koncepční řešení zvlášť složitých úkolů při výkonu státní báňské správy a výkon vrchního dozoru nad hornickou činností a činností prováděnou hornickým způsobem a při výzkumu, vývoji, výrobě, uvádění do oběhu, používání a ničení výbušnin.
+
+  - 10.13. Organizace práce a zajišťování výkonu funkce hlavního trezoru drahých kovů výkonného orgánu státní služby pro drahé kovy v České republice.
+
+  - 10.14. Výkon koncepční činnosti v rámci orgánů státní správy republiky při výkonu puncovní kontroly nebo puncovní inspekce.
+
+  - 10.15. Výkon nejsložitějších, systémových, koncepčních prací spojených s rozšiřováním a zaváděním automatizace, vyhledávání a doporučování nejvhodnějších softwarových a hardwarových prostředků. Zpracování velmi složitých systémových studií a analýz problémů s celorepublikovou působností.
+
+  - 10.16. Koncepční a metodické řízení projektů informačních justičních systémů, budování a zabezpečování globálních počítačových sítí resortů.
+
+  - 10.17. Výkon odborných diagnostických a léčebných prací na odděleních zdravotnických zařízení.
+
+  - 10.18. Samostatný výkon náročných odborných prací v lékařských a ostatních oborech hygieny, epidemiologie a mikrobiologie, preventivního a pracovního lékařství, genetiky včetně konziliární, expertizní a poradenské činnosti.
+
+  - 10.19. Organizace, zabezpečování a kontrola základních údajů vznikajících na zdravotnických pracovištích, dohled nad dodržováním klasifikace při vyplňování dokladů o nemocných, spolupráce na zpracování analýz výsledných informací.
+
+  - 10.20. Poskytování základní léčebně preventivní péče včetně posudkové činnosti ve stanoveném obvodu.
+
+  - 10.21. Zajištění zásobování zdravotnických zařízení, obyvatelstva a zařízení veterinární péče léčivy a prostředky zdravotnické techniky.
+
+  - 10.22. Příprava, kontrola, uchovávání, výdej na lékařské předpisy a žádanky, odborné konzultace, spolupráce při vytváření lékové politiky, zajištění provozu zařízení lékárenské péče.
+
+  - 10.23. Provádění složitých analytických prací v lékárně, kontrola přesnosti přístrojů a zařízení, příprava potřebných zkoumadel.
+
+  - 10.24. Provádění kontroly jakosti léčiv v lékárně, odběr vzorků pro laboratoře pro kontrolu léčiv, konzultace v otázkách jakosti léčiv, provádění atestů a analýz podle příslušných analytických postupů.
+
+  - 10.25. Samostatné provádění prací v psychodiagnostice a psychoterapii. Poskytování náročných poradenských a psychoterapeutických služeb; samostatné provádění psychologických vyšetření a diagnostiky.
+
+  - 10.26. Provádění odborných diagnostických a sociálně zdravotních prací na odděleních zdravotnických zařízení, na pracovištích zabývajících se prevencí a léčbou drogových závislostí, samostatné vedení rodinné terapie, psychoterapeutických skupin a komplexní sociální rehabilitace v medicínských oborech.
+
+  - 10.27. Samostatné provádění nejsložitějších prací při oživování a uvádění do provozu složitých elektronických a jiných přístrojů a jejich udržování v bezporuchovém provozu na exponovaných pracovištích (jednotky intenzivní péče, poúrazová oddělení, analytická chemie apod.), včetně nastavování parametrů, dávek záření apod. při přímé účasti na složitých zdravotnických výkonech.
+
+  - 10.28. Zajišťování, organizace a koordinace činnosti samostatných archivních pracovišť a pracovních týmů, spojené s osobní odpovědností za uchování, ochranu a racionální využití svěřených částí Jednotného archivního fondu.
+
+  - 11. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 11. 1. Výkon koncepční a normotvorné činnosti ústředního orgánu státní správy nebo jiného orgánu státní správy s republikovou působností. Tvorba zásad zákonné právní úpravy jednotlivých oblastí společenského systému. Příprava zásadních materiálů pro utváření politiky vývoje jednotlivých odvětví.
+
+  - 11. 2. Samostatné provádění náročných zdravotnických zákroků a činností na lůžkových odděleních. Součinnost při řízení, výchově a kontrole práce sekundárních lékařů. Výkon konziliární činnosti.
+
+  - 11. 3. Samostatný výkon odborných prací v různých oborech léčebně preventivní činnosti a lékařské genetiky, včetně konziliární a posudkové činnosti, vedení oborů a účast na výchově odborných pracovníků.
+
+  - 11. 4. Výkon velmi náročných odborných nebo úzce specializovaných prací v jednotlivých oborech lékárenské činnosti v lékárnách s odbornými odděleními anebo specializovanými pracovišti (v odd. přípravy sterilních léčiv, odd. kontroly a přípravy zkoumadel, pracoviště odborných informací apod.), podíl na vedení úzce specializovaných oborů a na dalším vzdělávání farmaceutů a farmaceutických laborantů.
+
+  - 11. 5. Samostatný výkon nejnáročnějších a vysoce specializovaných odborných prací v lékařských oborech hygieny, epidemiologie, mikrobiologie, preventivního pracovního lékařství včetně vedení oborů a jejich koordinace, poradenské, analytické a posudkové činnosti a účasti na výchově odborných pracovníků.
+
+  - 11. 6. Samostatné provádění nejnáročnějších a vysoce specializovaných prací na různých úsecích léčebně preventivní péče, farmacie a hygienické služby pracovníky s jiným odborným vzděláním než lékařským nebo farmaceutickým.
+
+  - 11. 7. Poskytování nejnáročnějších psychoterapeutických služeb a poradenství.
+
+  - 11. 8. Zpracování diplomaticky mimořádně náročných edic archivních dokumentů s výrazným podílem tvůrčí práce.
+
+  - 11. 9. Zajišťování a koordinace činnosti velkých archivních pracovišť nebo pracovních týmů a komisí s celostátní působností, spojené s přímou osobní odpovědností za ochranu, uchování, zpřístupňování a společensky přínosné využití archivních fondů jako klíčové součásti národního historického dědictví včetně ediční a publikační činnosti.
+
+  - 11.10. Provádění speciálních restaurátorských prací při záchraně mimořádně cenných archiválií s tvůrčí aplikací výsledků základního a aplikovaného výzkumu včetně ediční a publikační činnosti.
+
+  - 12. PLATOVÁ TŘÍDA
+
+    - Příklady prací:
+
+  - 12. 1. Tvůrčí zpracování a posuzování návrhů komplexních programů a koncepcí dlouhodobého vývoje celospolečenského systému nebo jeho jednotlivých sfér, např. zahraničně politické orientace, státoprávního a územně správního uspořádání, ekonomického a sociálního systému.
+
+  - 12. 2. Řešení úkolů základního výzkumu a vývoje na zdravotnických pracovištích s rozhodujícím významem pro rozvoj medicíny. Přenášení nových metod a poznatků do praxe v jednotlivých úsecích léčebně preventivní činnosti, farmacie, hygienické služby a konkrétní pomoc při jejich uplatňování na pracovištích. Řešení vlivu životních a pracovních podmínek na zdraví populace. Zavádění programů pozitivního ovlivňování veřejného zdraví.
+
+  - 12. 3. Výkon nejnáročnějších vědeckovýzkumných činností celostátního a mezinárodního dosahu.
+
+  - 12. 4. Systémové vedení a koordinace činnosti nejvýznamnějších koncepčních pracovišť, odborných týmů a komisí celostátního i mezinárodního významu.
+
+    - Kvalifikační předpoklady vzdělání
+
+  - Platová třída | stupeň vzdělání
+
+  - 1 | základní
+
+  - 2 | střední odborné
+
+  - 3 | střední odborné
+
+  - 4 | úplné střední vzdělání
+
+  - 5 | úplné střední vzdělání
+
+  - 6 | úplné střední vzdělání
+
+  - 7 | úplné střední vzdělání
+
+  - 8 | vysokoškolské
+
+  - 9 | vysokoškolské
+
+  - 10 | vysokoškolské
+
+  - 11 | vysokoškolské
+
+  - 12 | vysokoškolské
+
+  - Poznámky:
+
+    - a) základním, středním a úplným středním vzděláním se rozumí stupeň vzdělání podle zákona č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), ve znění zákona č. 171/1990 Sb.,
+
+    - b) úplným středním vzděláním se pro účely tohoto nařízení rozumí i úplné střední odborné vzdělání a vyšší odborné vzdělání,
+
+    - c) vysokoškolským vzděláním se pro účely tohoto nařízení rozumí studium ukončené vykonáním státní zkoušky (§ 19 zákona č. 172/1990 Sb., o vysokých školách).
