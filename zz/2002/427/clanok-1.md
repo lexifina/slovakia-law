@@ -10,9 +10,19 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - 4. V § 3 ods. 4 tretej vete sa bodka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „na zostavovanie, sledovanie a vykazovanie príjmov a výdavkov verejného rozpočtu Sociálna poisťovňa, zdravotné poisťovne, Národný úrad práce, Fond národného majetku Slovenskej republiky a Slovenský pozemkový fond uplatňujú rozpočtovú klasifikáciu v rozsahu ustanovenom na tieto účely.".
 
+- 5. V § 4 ods. 1 písm. d) sa vypúšťajú slová „a účelové prostriedky štátneho rozpočtu".
+
+- 6. V § 4 sa odsek 1 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- výdavky štátneho rozpočtu na jednotlivé programy schválené vládou Slovenskej republiky (ďalej len "vláda").“.
+
 - 7. V § 5 ods. 1 písm. a) a b) sa slová „zriadených zákonom" nahrádzajú slovami „podľa osobitných predpisov".
 
 - 8. Poznámka pod čiarou k odkazu 3 sa dopĺňa citáciou, ktorá znie: „Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.".
+
+- 10. V § 5 ods. 1 písm. e) sa vypúšťajú slová „Slovenskej republiky (ďalej len „vláda")".
 
 - 12. V § 5 ods. 1 písm. k) sa za slová „(ďalej len „prostriedky Európskych spoločenstiev")" vkladajú slová „znížené o úrok z omeškania (§ 47a ods. 4)".
 
@@ -42,7 +52,33 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - 21. V § 8 ods. 1 sa na konci pripája táto veta: „Súčasťou východísk na zostavenie návrhu štátneho rozpočtu je aj určenie podielu súhrnného schodku verejného rozpočtu na hrubom domácom produkte tak, aby sa postupne dosiahla referenčná hodnota tohto podielu platná pre Európske spoločenstvá.".
 
+- 22. V § 8 ods. 2 posledná veta znie: „V návrhu štátneho rozpočtu sa určujú rozpočtové prostriedky aj na programy [§ 4 ods. 1 písm. e)] vrátane spoločných programov Slovenskej republiky a Európskych spoločenstiev podľa medzinárodných zmlúv.".
+
+- 23. V § 8 ods. 5 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „vrátane údajov o príjmoch a výdavkoch s uvedením finančných tokov k ostatným subjektom, ktorých rozpočty tvoria verejný rozpočet.".
+
 - 24. V § 8 ods. 6 prvej vete sa za slová „verejný rozpočet," vkladajú slová „spracované na základe východísk na zostavenie návrhu štátneho rozpočtu podľa odseku 1,".
+
+- 25. Za § 8 sa vkladá § 8a, ktorý vrátane nadpisu znie:
+
+- „§ 8a
+
+- Návrh viacročného rozpočtu
+
+- (1)
+
+- Návrh viacročného rozpočtu sa zostavuje najmenej na dva rozpočtové roky nasledujúce po roku, na ktorý je predkladaný návrh štátneho rozpočtu, a to na úrovni oddielu funkčnej klasifikácie a vybraných kategórií ekonomickej klasifikácie; návrh viacročného rozpočtu sa zostavuje aj podľa programov schválených vládou.
+
+- (2)
+
+- Ministerstvo usmerňuje vypracovanie návrhov viacročných rozpočtov rozpočtových kapitol a vypracúva návrh viacročného rozpočtu v súčinnosti so správcami rozpočtových kapitol a ostatných zložiek verejného rozpočtu.
+
+- (3)
+
+- Návrh viacročného rozpočtu je súčasťou návrhu štátneho rozpočtu na príslušný rozpočtový rok.
+
+- (4)
+
+- Rozpočtované príjmy a výdavky návrhu viacročného rozpočtu nie sú záväznými ukazovateľmi a upresňujú sa v návrhu štátneho rozpočtu na príslušný rozpočtový rok.“.
 
 - 26. V § 10 sa odsek 5 dopĺňa písmenom f), ktoré znie:
 
