@@ -6,33 +6,33 @@
 
   - dohodli sa na nasledujúcom:
 
-  - Článok 1
+  - Článok 1 Ochrana majetku
 
     - Každá fyzická alebo právnická osoba má právo pokojne užívať svoj majetok. Nikoho nemožno zbaviť jeho majetku s výnimkou verejného záujmu a za podmienok, ktoré ustanovuje zákon a všeobecné zásady medzinárodného práva.
 
     - Predchádzajúce ustanovenie nebráni právu štátov prijímať zákony, ktoré považujú za nevyhnutné, aby upravili užívanie majetku v súlade so všeobecným záujmom a zabezpečili platenie daní a iných poplatkov alebo pokút.
 
-  - Článok 2
+  - Článok 2 Právo na vzdelanie
 
     - Nikomu sa nesmie odoprieť právo na vzdelanie. Pri výkone akýchkoľvek funkcií v oblasti výchovy a výuky, ktoré štát vykonáva, bude rešpektovať právo rodičov zabezpečovať túto výchovu a vzdelanie v zhode s ich vlastným náboženským a filozofickým presvedčením.
 
-  - Článok 3
+  - Článok 3 Právo na slobodné voľby
 
     - Vysoké zmluvné strany sa zaväzujú konať v rozumných intervaloch slobodné voľby s tajným hlasovaním za podmienok, ktoré zabezpečia slobodné vyjadrenie názorov ľudu pri voľbe zákonodarného zboru.
 
-  - Článok 4
+  - Článok 4 Územná pôsobnosť
 
     - Každá Vysoká zmluvná strana môže pri podpise alebo ratifikácii tohto protokolu alebo kedykoľvek neskôr oznámiť generálnemu tajomníkovi Rady Európy vyhlásenie, v ktorom uvedie, v akom rozsahu sa budú vzťahovať ustanovenia tohto protokolu na územia uvedené v tomto vyhlásení, za ktorých medzinárodné styky je zodpovedná.
 
     - Každá Vysoká zmluvná strana, ktorá oznámila vyhlásenie podľa predchádzajúceho odseku, môže z času na čas oznámiť ďalšie vyhlásenie pozmeňujúce znenie ktoréhokoľvek predchádzajúceho vyhlásenia alebo ukončujúce používanie ustanovenia tohto protokolu vo vzťahu ku ktorémukoľvek územiu.
 
-    - Vyhlásenie urobené podľa tohto článku sa bude považovať za urobené podľa odseku 1 článku 63 Dohovoru.
+    - Vyhlásenie urobené podľa tohto článku sa bude považovať za urobené podľa odseku 1 článku 56 Dohovoru.
 
-  - Článok 5
+  - Článok 5 Vzťah k dohovoru
 
     - Vysoké zmluvné strany budú považovať články 1, 2, 3 a 4 tohto protokolu za dodatkové články k Dohovoru a všetky ustanovenia Dohovoru budú plniť v súlade s tým.
 
-  - Článok 6
+  - Článok 6 Podpis a ratifikácia
 
     - Tento protokol je otvorený na podpis členom Rady Európy, ktorí podpísali Dohovor; podlieha ratifikácii súčasne s Dohovorom alebo po jeho ratifikácii. Nadobudne platnosť po uložení desiatich ratifikačných listín. Pre každý štát, ktorý ho podpísal a bude ho ratifikovať neskôr, nadobudne protokol platnosť ihneď po uložení ratifikačných listín.
 

@@ -14,13 +14,13 @@
 
   - dohodli sa na nasledujúcom:
 
-  - Článok 1
+  - Článok 1 Záväzok dodržiavať ľudské práva
 
     - Vysoké zmluvné strany priznávajú každému, kto podlieha ich jurisdikcii, práva a slobody uvedené v Hlave I tohto Dohovoru.
 
-  - HLAVA I
+  - HLAVA I Práva a slobody
 
-    - Článok 2
+    - Článok 2 Právo na život
 
       - 1. Právo každého na život je chránené zákonom. Nikoho nemožno úmyselne zbaviť života okrem výkonu súdom uloženého trestu nasledujúceho po uznaní viny za spáchanie trestného činu, pre ktorý zákon ukladá tento trest.
 
@@ -32,11 +32,11 @@
 
         - c) zákonne uskutočnenej akcii za účelom potlačenia nepokojov alebo vzbury.
 
-    - Článok 3
+    - Článok 3 Zákaz mučenia
 
       - Nikoho nemožno mučiť alebo podrobovať neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestu.
 
-    - Článok 4
+    - Článok 4 Zákaz otroctva a nútenej práce
 
       - 1. Nikoho nemožno držať v otroctve alebo v nevoľníctve.
 
@@ -52,7 +52,7 @@
 
         - d) práca alebo služba, ktorá tvorí súčasť bežných občianskych povinností.
 
-    - Článok 5
+    - Článok 5 Právo na slobodu a bezpečnosť
 
       - 1. Každý má právo na slobodu a osobnú bezpečnosť. Nikoho nemožno pozbaviť slobody okrem nasledujúcich prípadov, pokiaľ sa tak stane v súlade s konaním ustanoveným zákonom:
 
@@ -76,7 +76,7 @@
 
       - 5. Každý, kto bol obeťou zatknutia alebo zadržania v rozpore s ustanoveniami tohto článku, má nárok na odškodnenie.
 
-    - Článok 6
+    - Článok 6 Právo na spravodlivé súdne konanie
 
       - 1. Každý má právo na to, aby jeho záležitosť bola spravodlivo, verejne a v primeranej lehote prejednaná nezávislým a nestranným súdom zriadeným zákonom, ktorý rozhodne o jeho občianskych právach alebo záväzkoch alebo o oprávnenosti akéhokoľvek trestného obvinenia proti nemu. Rozsudok musí byť vyhlásený verejne, ale tlač a verejnosť môžu byť vylúčené buď po dobu celého, alebo časti procesu v záujme mravnosti, verejného poriadku alebo národnej bezpečnosti v demokratickej spoločnosti, alebo keď to vyžadujú záujmy maloletých alebo ochrana súkromného života účastníkov alebo, v rozsahu považovanom súdom za úplne nevyhnutný, pokiaľ by, vzhľadom na osobitné okolnosti, verejnosť konania mohla byť na ujmu záujmom spravodlivosti.
 
@@ -94,49 +94,49 @@
 
         - e) mať bezplatnú pomoc tlmočníka, ak nerozumie jazyku používanému pred súdom alebo týmto jazykom nehovorí.
 
-    - Článok 7
+    - Článok 7 Uloženie trestu výlučne na základe zákona
 
       - 1. Nikoho nemožno odsúdiť za konanie alebo opomenutie, ktoré v čase, keď bolo spáchané nebolo podľa vnútroštátneho alebo medzinárodného práva trestným činom. Takisto nesmie byť uložený trest prísnejší, než aký bolo možné uložiť v čase spáchania trestného činu.
 
       - 2. Tento článok nebráni súdeniu a potrestaniu osoby za konanie alebo opomenutie, ktoré v čase, keď bolo spáchané, bolo trestné podľa všeobecných právnych zásad uznávaných civilizovanými národmi.
 
-    - Článok 8
+    - Článok 8 Právo na rešpektovanie súkromného a rodinného života
 
       - 1. Každý má právo na rešpektovanie svojho súkromného a rodinného života, obydlia a korešpondencie.
 
       - 2. Štátny orgán nemôže do výkonu tohto práva zasahovať okrem prípadov, keď je to v súlade so zákonom a nevyhnutné v demokratickej spoločnosti v záujme národnej bezpečnosti, verejnej bezpečnosti, hospodárskeho blahobytu krajiny, predchádzania nepokojom a zločinnosti, ochrany zdravia alebo morálky alebo ochrany práv a slobôd iných.
 
-    - Článok 9
+    - Článok 9 Sloboda myslenia, svedomia a náboženstva
 
       - 1. Každý má právo na slobodu myslenia, svedomia a náboženského vyznania; toto právo zahŕňa slobodu zmeniť svoje náboženské vyznanie alebo presvedčenie, ako aj slobodu prejavovať svoje náboženské vyznanie alebo presvedčenie sám alebo spoločne s inými, či už verejne alebo súkromne, bohoslužbou, vyučovaním, vykonávaním náboženských úkonov a zachovávaním obradov.
 
       - 2. Sloboda prejavovať náboženské vyznanie a presvedčenie môže podliehať len obmedzeniam, ktoré sú ustanovené zákonmi a ktoré sú nevyhnutné v demokratickej spoločnosti v záujme verejnej bezpečnosti, ochrany verejného poriadku, zdravia alebo morálky alebo ochrany práv a slobôd iných.
 
-    - Článok 10
+    - Článok 10 Sloboda prejavu
 
       - 1. Každý má právo na slobodu prejavu. Toto právo zahŕňa slobodu zastávať názory a prijímať a rozširovať informácie alebo myšlienky bez zasahovania štátnych orgánov a bez ohľadu na hranice. Tento článok nebráni štátom, aby vyžadovali udeľovanie povolení rozhlasovým, televíznym alebo filmovým spoločnostiam.
 
       - 2. Výkon týchto slobôd, pretože zahŕňa aj povinnosti aj zodpovednosť, môže podliehať takým formalitám, podmienkam, obmedzeniam alebo sankciám, ktoré ustanovuje zákon a ktoré sú nevyhnutné v demokratickej spoločnosti v záujme národnej bezpečnosti, územnej celistvosti alebo verejnej bezpečnosti, predchádzania nepokojom a zločinnosti, ochrany zdravia alebo morálky, ochrany povesti alebo práv iných, zabráneniu úniku dôverných informácií alebo zachovania autority a nestrannosti súdnej moci.
 
-    - Článok 11
+    - Článok 11 Sloboda zhromažďovania a združovania
 
       - 1. Každý má právo na slobodu pokojného zhromažďovania a na slobodu združovať sa s inými, včítane práva zakladať na obranu svojich záujmov odbory alebo vstupovať do nich.
 
       - 2. Na výkon týchto práv sa nemôžu uvaliť žiadne obmedzenia okrem tých, ktoré ustanovuje zákon a sú nevyhnutné v demokratickej spoločnosti v záujme národnej bezpečnosti, verejnej bezpečnosti, predchádzania nepokojom a zločinnosti, ochrany zdravia alebo morálky alebo ochrany práv a slobôd iných. Tento článok nebráni uvaleniu zákonných obmedzení na výkon týchto práv príslušníkmi ozbrojených síl, polície a štátnej správy.
 
-    - Článok 12
+    - Článok 12 Právo uzavrieť manželstvo
 
       - Muži a ženy spôsobilí vekom na uzavretie manželstva majú právo uzavrieť manželstvo a založiť rodinu v súlade s vnútroštátnymi zákonmi, ktoré upravujú výkon tohto práva.
 
-    - Článok 13
+    - Článok 13 Právo na účinný prostriedok nápravy
 
       - Každý, koho práva a slobody priznané týmto Dohovorom boli porušené, musí mať účinné právne prostriedky nápravy pred národným orgánom, aj keď sa porušenia dopustili osoby pri plnení úradných povinností.
 
-    - Článok 14
+    - Článok 14 Zákaz diskriminácie
 
       - Užívanie práv a slobôd priznaných týmto Dohovorom sa musí zabezpečiť bez diskriminácie založenej na akomkoľvek dôvode, ako je pohlavie, rasa, farba pleti, jazyk, náboženstvo, politické alebo iné zmýšľanie, národnostný alebo sociálny pôvod, príslušnosť k národnostnej menšine, majetok, rod alebo iné postavenie.
 
-    - Článok 15
+    - Článok 15 Odstúpenie vo výnimočných situáciách
 
       - 1. V prípade vojny alebo akéhokoľvek iného verejného ohrozenia štátnej existencie môže každá Vysoká zmluvná strana prijať opatrenia na odstúpenie od záväzkov ustanovených v tomto Dohovore v rozsahu prísne vyžadovanom naliehavosťou situácie, pokiaľ tieto opatrenia nebudú nezlučiteľné s ostatnými záväzkami podľa medzinárodného práva.
 
@@ -144,321 +144,275 @@
 
       - 3. Každá Vysoká zmluvná strana, využívajúca svoje právo na odstúpenie, bude v plnom rozsahu informovať generálneho tajomníka Rady Európy o opatreniach, ktoré prijala, a o ich dôvodoch. Generálneho tajomníka Rady Európy bude takisto informovať o tom, kedy tieto opatrenia stratili platnosť a kedy sa budú ustanovenia Dohovoru znova vykonávať v plnom rozsahu.
 
-    - Článok 16
+    - Článok 16 Obmedzenia politickej činnosti cudzincov
 
       - Nič v článkoch 10, 11, a 14 sa nemôže považovať za brániace Vysokým zmluvným stranám uvaliť obmedzenia na politickú činnosť cudzincov.
 
-    - Článok 17
+    - Článok 17 Zákaz zneužitia práv
 
       - Nič v tomto Dohovore sa nemôže vykladať tak, akoby dávalo štátu, skupine alebo jednotlivcovi akékoľvek právo vyvíjať činnosť alebo dopúšťať sa činov zameraných na zničenie ktoréhokoľvek z tu priznaných práv a slobôd alebo na obmedzovanie týchto práv a slobôd vo väčšom rozsahu, než to Dohovor ustanovuje.
 
-    - Článok 18
+    - Článok 18 Hranice použitia obmedzení výkonu práv
 
       - Obmedzenia, ktoré tento Dohovor pripúšťa pre uvedené práva a slobody, nesmú sa využívať na iný účel než na ten, na ktorý boli určené.
 
-  - HLAVA II
+  - HLAVA II EURÓPSKY SÚD PRE ĽUDSKÉ PRÁVA
 
-    - Článok 19 Na zabezpečenie plnenia záväzkov prijatých Vysokými zmluvnými stranami v tomto Dohovore sa zriaďujú:
+    - Článok 19 Zriadenie súdu Na zabezpečenie plnenia záväzkov prijatých Vysokými zmluvnými stranami v tomto dohovore a v jeho protokoloch sa zriaďuje Európsky súd pre ľudské práva (ďalej len „súd“). Súd vykonáva svoju funkciu permanentne.
 
-      - a) Európska komisia pre ľudské práva, ďalej len „Komisia“;
+    - Článok 20 Počet sudcov Súd tvoria sudcovia, ktorých počet sa rovná počtu Vysokých zmluvných strán.
 
-      - b) Európsky súd pre ľudské práva, ďalej len „Súd“.
+    - Článok 21 Predpoklady na výkon funkcie
 
-  - HLAVA III
+      - 1. Sudcovia musia mať vysoký morálny charakter a musia spĺňať podmienky na výkon vysokých súdnych funkcií alebo byť uznávanými právnikmi.
 
-    - Článok 20
+      - 2. Sudcovia zasadajú v súde ako súkromné osoby.
 
-      - 1. Komisia sa skladá z počtu členov, ktorý sa rovná počtu Vysokých zmluvných strán. V Komisii môže byť iba jeden príslušník toho istého štátu.
+      - 3. Sudcovia nemôžu počas svojho funkčného obdobia vykonávať činnosť nezlučiteľnú s ich nezávislosťou, nestrannosťou alebo s požiadavkami súvisiacimi so stálym výkonom ich funkcie; o všetkých otázkach týkajúcich sa použitia tohto odseku rozhodne súd.
 
-      - 2. Komisia zasadá v pléne. Môže však vytvárať komory, z ktorých každá sa skladá najmenej zo siedmich členov. Komory môžu prerokúvať sťažnosti predložené podľa článku 25 tohto Dohovoru, ktoré možno prerokovať na základe ustálenej judikatúry, alebo ktoré nevyvolávajú závažné otázky, pokiaľ ide o výklad alebo plnenie Dohovoru. V týchto medziach a s výhradou odseku 5 tohto článku komory vykonávajú všetky právomoci, ktoré Dohovor zveruje Komisii. Člen Komisie zvolený za Vysokú zmluvnú stranu, proti ktorej bola podaná sťažnosť, má právo zasadať v komore, ktorej sa toto podanie pridelilo.
+    - Článok 22 Voľba sudcov
 
-      - 3. Komisia môže vytvárať výbory, z ktorých každý sa skladá najmenej z troch členov, ktoré majú právomoc vyhlásiť jednomyseľne za neprijateľné alebo vyčiarknuť zo zoznamu prípadov sťažnosti podané podľa článku 25, pokiaľ možno také rozhodnutie urobiť bez ďalšieho preskúmania.
+      - 1. Sudcov volí Parlamentné zhromaždenie Rady Európy za každú Vysokú zmluvnú stranu väčšinou odovzdaných hlasov zo zoznamu troch kandidátov navrhnutých Vysokou zmluvnou stranou.
 
-      - 4. Komora alebo výbor sa môžu kedykoľvek vzdať právomoci v prospech plenárneho zasadania Komisie, ktoré môže takisto nariadiť, aby mu bola odovzdaná ktorákoľvek žaloba pridelená komore alebo výboru.
+      - 2. Rovnaký postup sa použije pri dopĺňaní súdu v prípade prístupu nových Vysokých zmluvných strán a pri obsadzovaní uprázdnených miest.
 
-      - 5. Iba plenárne zasadnutie Komisie môže vykonávať nasledujúce právomoci:
+    - Článok 23 Funkčné obdobie
 
-        - a) posudzovať podania predložené podľa článku 24;
+      - 1. Sudcovia sú volení na obdobie šiestich rokov. Môžu byť zvolení opätovne. Funkčné obdobie polovice sudcov zvolených pri prvých voľbách sa však skončí po uplynutí troch rokov.
 
-        - b) postúpiť prípad Súdu podľa článku 48a;
+      - 2. Sudcov, ktorých funkčné obdobie sa skončí po uplynutí prvých troch rokov, určí žrebovaním generálny tajomník Rady Európy ihneď po ich zvolení.
 
-        - c) schvaľovať rokovací poriadok podľa článku 36.
+      - 3. Aby sa v rámci možností zabezpečilo obnovovanie mandátu polovice sudcov každé tri roky, Parlamentné zhromaždenie Rady Európy môže, skôr ako prikročí k ďalšej voľbe, rozhodnúť, že funkčné obdobie jedného alebo viacerých sudcov, ktorí majú byť zvolení, nemusí trvať šesť rokov, nemôže však presiahnuť deväť rokov a nemôže trvať ani kratšie ako tri roky.
 
-    - Článok 21
+      - 4. Ak ide o funkčné obdobie viacerých sudcov a ak Parlamentné zhromaždenie Rady Európy postupuje podľa predchádzajúceho odseku, dĺžka funkčného obdobia sudcov sa určí žrebovaním, ktoré vykoná generálny tajomník Rady Európy ihneď po uskutočnení volieb.
 
-      - 1. Členov Komisie volí Výbor ministrov prostou väčšinou hlasov zo zoznamu zostaveného byrom Poradného zhromaždenia; každá skupina zástupcov Vysokých zmluvných strán v Poradnom zhromaždení predkladá troch kandidátov, z ktorých najmenej dvaja musia byť jej príslušníkmi.
+      - 5. Sudca zvolený namiesto iného sudcu, ktorého funkčné obdobie sa neskončilo, vykonáva funkciu po zvyšok funkčného obdobia svojho predchodcu.
 
-      - 2. Rovnaký postup sa v najširšom rozsahu použije pri dopĺňaní Komisie v prípade, že sa ďalšie štáty stanú neskôr stranami tohto Dohovoru a pri obsadzovaní príležitostne uvoľnených miest.
+      - 6. Funkčné obdobie sudcov sa skončí dovŕšením veku 70 rokov.
 
-      - 3. Kandidáti musia mať vysoký morálny charakter a spĺňať podmienky vyžadované na výkon vysokých súdnych funkcií alebo byť uznávanými odborníkmi vo vnútroštátnom alebo medzinárodnom práve.
+      - 7. Sudcovia vykonávajú svoju funkciu až do ich nahradenia. Aj po ich nahradení však pokračujú v prejednávaní tých prípadov, ktoré už začali posudzovať.
 
-    - Článok 22
+    - Článok 24 Odvolanie
 
-      - 1. Členovia Komisie sa volia na obdobie šiestich rokov. Môžu sa zvoliť znova. Funkčné obdobie siedmich členov zvolených pri prvých voľbách sa však skončí po troch rokoch.
+      - Sudcu možno odvolať z jeho funkcie, len ak ostatní sudcovia dvojtretinovou väčšinou rozhodnú, že prestal spĺňať podmienky kladené na jej výkon.
 
-      - 2. Členovia, ktorých funkčné obdobie sa skončí uplynutím pôvodného trojročného obdobia, sa určia žrebovaním, ktoré vykoná generálny tajomník Rady Európy ihneď po skončení prvých volieb.
+    - Článok 25 Kancelária súdu a právni poradcovia
 
-      - 3. Aby sa v rámci možností zabezpečilo, že dôjde k obnove jednej polovice členov Komisie každé tri roky, môže Výbor ministrov rozhodnúť, skôr než prikročí k akékoľvek ďalšej voľbe, že funkčné obdobie jedného alebo viacerých členov, ktorí majú byť zvolení, bude mať inú dĺžku než šesť rokov; ale nie viac ako deväť rokov a nie menej ako tri roky.
+      - Súd má k dispozícii kanceláriu, ktorej úlohy a organizácia sú stanovené v rokovacom poriadku súdu. Súdu pomáhajú právni poradcovia.
 
-      - 4. V prípade, keď ide o viac ako jedno funkčné obdobie a keď Výbor ministrov bude postupovať podľa predchádzajúceho odseku, pridelia sa tieto funkčné obdobia žrebovaním, ktoré vykoná generálny tajomník Rady Európy ihneď po voľbách.
+    - Článok 26 Plénum súdu Plénum súdu
 
-      - 5. Člen Komisie, ktorý je zvolený na miesto člena, ktorého funkčné obdobie sa neskončilo, zastáva funkciu po zvyšok obdobia svojho predchodcu.
+      - a) volí na trojročné obdobie svojho predsedu a jedného alebo dvoch podpredsedov, ktorí môžu byť zvolení opätovne,
 
-      - 6. Členovia Komisie zastávajú funkciu, dokiaľ nie sú nahradení. Po svojom nahradení pokračujú v prerokúvaní tých prípadov, ktoré posudzujú.
+      - b) vytvára komory na stanovené obdobie,
 
-    - Článok 23
+      - c) volí predsedov komôr súdu s možnosťou ich opätovného zvolenia,
 
-      - Členovia Komisie v nej zasadajú ako súkromné osoby. Vo svojom funkčnom období nemôžu vykonávať žiadnu činnosť nezlučiteľnú s ich nezávislosťou alebo nestrannosťou ako členov Komisie alebo s požiadavkami tohto úradu.
+      - d) schvaľuje rokovací poriadok súdu,
 
-    - Článok 24
+      - e) volí tajomníka súdu a jedného alebo viacerých jeho zástupcov.
 
-      - Každá Vysoká zmluvná strana môže predložiť prostredníctvom generálneho tajomníka Rady Európy Komisii každé údajné porušenie ustanovení tohto Dohovoru inou Vysokou zmluvnou stranou.
+    - Článok 27 Výbory, komory a veľká komora
 
-    - Článok 25
+      - 1. Predložené prípady súd prejednáva vo výboroch troch sudcov, v komorách siedmich sudcov a vo veľkej komore zloženej zo sedemnástich sudcov. Komory súdu vytvoria výbory na stanovené obdobie.
 
-      - 1. Komisia môže prijímať sťažnosti, ktoré zaslala generálnemu tajomníkovi Rady Európy každá osoba, nevládna organizácia alebo skupina osôb považujúcich sa za poškodené v dôsledku porušenia práv priznaných týmto Dohovorom jednou z Vysokých zmluvných strán v prípade, že Vysoká zmluvná strana, proti ktorej sa podala sťažnosť, vyhlásila, že uznáva právomoc Komisie prijímať také sťažnosti. Vysoké zmluvné strany, ktoré urobili také vyhlásenie, sa zaväzujú, že nebudú nijako brániť účinnému výkonu tohto práva.
+      - 2. Sudca zvolený za štát, ktorý je stranou v spore, automaticky je členom komory a veľkej komory. V prípade, že ten nezasadá alebo nemôže zasadať, dotknutý štát určí inú osobu, ktorá bude zasadať ako sudca.
 
-      - 2. Tieto vyhlásenia sa môžu urobiť na určitú dobu.
+      - 3. Členmi veľkej komory je aj predseda súdu, jeho podpredsedovia, predsedovia komôr a ďalší sudcovia vybraní v súlade s rokovacím poriadkom súdu. Keď bol spor predložený veľkej komore podľa článku 43, nemôže v nej zasadať sudca z komory, ktorá vyniesla v danej veci rozsudok, s výnimkou predsedu komory a sudcu, ktorý zasadal za dotknutý štát.
 
-      - 3. Vyhlásenia sa uložia u generálneho tajomníka Rady Európy, ktorý zašle ich odpisy Vysokým zmluvným stranám a uverejní ich.
+    - Článok 28 Vyhlásenie sťažností za neprijateľné výbormi
 
-      - 4. Komisia bude vykonávať právomoci ustanovené týmto článkom až potom, keď bude aspoň šesť Vysokých zmluvných strán viazaných vyhláseniami podľa predchádzajúcich odsekov.
+      - Výbor môže jednomyseľne vyhlásiť za neprijateľnú alebo vyčiarknuť zo zoznamu prípadov individuálnu sťažnosť podanú v súlade s článkom 34, ak sa také rozhodnutie môže prijať bez ďalšieho skúmania. Rozhodnutie je konečné.
 
-    - Článok 26 Komisia môže posudzovať vec až po vyčerpaní všetkých vnútroštátnych právnych prostriedkov nápravy podľa všeobecne uznávaných pravidiel medzinárodného práva a v lehote šiestich mesiacov odo dňa, keď bolo prijaté konečné rozhodnutie.
+    - Článok 29 Rozhodnutia komôr o prijateľnosti a vo veci samej
 
-    - Článok 27
+      - 1. Ak nebolo prijaté rozhodnutie podľa článku 28, o prijateľnosti a merite individuálnych sťažností podaných v súlade s článkom 34 rozhodne komora.
 
-      - 1. Komisia nebude posudzovať žiadnu sťažnosť predloženú podľa článku 25, ktorá je
+      - 2. Komora rozhoduje o prijateľnosti a merite sťažností podaných štátmi v súlade s článkom 33.
 
-        - a) anonymná,
+      - 3. Ak vo výnimočných prípadoch súd nerozhodne inak, rozhodnutie o prijateľnosti sa prijme samostatne.
 
-        - b) v podstate rovnaká ako sťažnosť už predtým prerokúvaná Komisiou alebo už predložená inej medzinárodnej vyšetrovacej alebo zmierovacej inštancii a pokiaľ neobsahuje žiadne nové dôležité informácie.
+    - Článok 30 Postúpenie právomoci veľkej komore
 
-      - 2. Komisia vyhlási za neprijateľnú každú sťažnosť predloženú podľa článku 25, ak ju pokladá za nezlučiteľnú s ustanoveniami tohto Dohovoru, zjavne nepodloženú alebo za zneužívajúcu právo na sťažnosť.
+      - Ak prípad prejednávaný komorou vyvoláva závažnú otázku týkajúcu sa výkladu dohovoru alebo jeho protokolov alebo ak by rozhodnutie komory o danej otázke mohlo byť v rozpore so skôr vyneseným rozsudkom súdu, komora môže, skôr ako vynesie rozsudok, postúpiť právomoc veľkej komore za predpokladu, že ani jedna zo zúčastnených strán proti tomu nevznesie námietku.
 
-      - 3. Komisia odmietne každú sťažnosť, ktorú považuje za neprijateľnú podľa článku 26.
+    - Článok 31 Právomoc veľkej komory Veľká komora
 
-    - Článok 28
+      - a) rozhoduje o sťažnostiach podaných podľa článku 33 alebo článku 34, keď jej tie postúpila komora v súlade s článkom 30 alebo keď jej bola vec predložená v súlade s článkom 43,
 
-      - 1. V prípade, že Komisia sťažnosť prijme,
+      - b) posudzuje žiadosti o vydanie posudkov predložené podľa článku 47.
 
-        - a) na zistenie skutočnosti posúdi sťažnosť spoločne so zástupcami strán, a ak je to potrebné, vykoná vyšetrovanie, pre ktorého účinné vedenie poskytnú zúčastnené štáty, po výmene názorov s Komisiou, všetky možnosti;
+    - Článok 32 Právomoc súdu
 
-        - b) súčasne sa dá k dispozícii zúčastneným stranám s cieľom dosiahnuť zmierlivé urovnanie záležitosti na základe dodržiavania ľudských práv, ako ich ustanovuje tento Dohovor.
+      - 1. Právomoc súdu zahŕňa všetky otázky týkajúce sa výkladu a aplikácie dohovoru a jeho protokolov, ktoré sú mu predložené v súlade s ustanoveniami článkov 33, 34 a 47.
 
-      - 2. Ak Komisia uspeje pri zmierlivom urovnaní, vypracuje správu, ktorá sa zašle zúčastneným štátom, Výboru ministrov a generálnemu tajomníkovi Rady Európy na zverejnenie. Táto správa sa obmedzí na stručné opísanie skutočností a prijatého riešenia.
+      - 2. O sporných otázkach týkajúcich sa jeho právomoci rozhoduje súd.
 
-    - Článok 29
+    - Článok 33 Medzištátne spory
 
-      - Po prijatí sťažnosti predloženej podľa článku 25 môže Komisia dvojtretinovou väčšinou svojich členov napriek tomu odmietnuť sťažnosť, ak pri jej posudzovaní zistí existenciu niektorého z dôvodov neprijateľnosti uvedených v článku 27.
+      - Každá Vysoká zmluvná strana môže predložiť súdu na preskúmanie každé porušenie ustanovení dohovoru a jeho protokolov, za ktoré podľa jej názoru nesie zodpovednosť iná Vysoká zmluvná strana.
 
-      - V takom prípade sa rozhodnutie oznámi stranám.
+    - Článok 34 Individuálne sťažnosti
 
-    - Článok 30
+      - Súd môže prijímať sťažnosti od ktoréhokoľvek jednotlivca, mimovládnej organizácie alebo od skupiny osôb, ktoré sa považujú za poškodené v dôsledku porušenia práv priznaných dohovorom alebo jeho protokolmi jednou z Vysokých zmluvných strán. Vysoké zmluvné strany sa zaväzujú, že nebudú žiadnym spôsobom brániť účinnému výkonu tohto práva.
 
-      - 1. Komisia môže v ktoromkoľvek štádiu konania rozhodnúť o vyčiarknutí sťažnosti zo zoznamu prípadov, ak okolnosti dovoľujú dospieť k záveru, že:
+    - Článok 35 Podmienky prijateľnosti
 
-        - a) žiadateľ už nemieni zotrvávať na svojej sťažnosti alebo
+      - 1. Súd môže prejednávať vec až po vyčerpaní všetkých vnútroštátnych prostriedkov nápravy, podľa všeobecne uznávaných pravidiel medzinárodného práva a v lehote šiestich mesiacov odo dňa, keď bolo prijaté konečné rozhodnutie.
 
-        - b) vec už bola vyriešená alebo
+      - 2. Súd nebude posudzovať individuálnu sťažnosť predloženú podľa článku 34, ktorá je
 
-        - c) pre akýkoľvek iný Komisiou zistený dôvod nie je ďalej správne pokračovať v posudzovaní sťažnosti.
+        - a) anonymná alebo
 
-      - Komisia však pokračuje v posudzovaní sťažnosti, ak to vyžaduje dodržiavanie ľudských práv ustanovených Dohovorom.
+        - b) v podstate rovnaká ako sťažnosť posudzovaná súdom už predtým, alebo ktorá je už predmetom iného medzinárodného vyšetrovacieho alebo zmierovacieho konania a neobsahuje žiadne nové relevantné skutočnosti.
 
-      - 2. Ak Komisia rozhodne vyčiarknuť zo zoznamu sťažnosť po jej prijatí, vypracuje správu, ktorá obsahuje skutkový stav a rozhodnutie uvádzajúce dôvody, na ktorých sa zakladá vyčiarknutie zo zoznamu. Správa je doručená stranám a Výboru ministrov na informáciu. Komisia ju môže zverejniť.
+      - 3. Súd vyhlási za neprijateľnú každú individuálnu sťažnosť predloženú podľa článku 34, ktorú pokladá za nezlučiteľnú s ustanoveniami tohto dohovoru alebo jeho protokolov, zjavne nepodloženú alebo za zneužívajúcu právo podať sťažnosť.
 
-      - 3. Komisia môže rozhodnúť o vrátení sťažnosti do zoznamu prípadov, ak sa domnieva, že okolnosti odôvodňujú taký krok.
+      - 4. Súd odmietne každú sťažnosť, ktorú považuje za neprijateľnú podľa tohto článku. Môže tak rozhodnúť v ktoromkoľvek štádiu konania.
 
-    - Článok 31
+    - Článok 36 Účasť tretej strany
 
-      - 1. Ak sa posudzovanie sťažnosti neskončilo podľa článkov 28 (odsek 2), 29 alebo 30, vypracuje Komisia správu, v ktorej uvedie skutočnosti a vyjadrí názor na to, či zistené skutočnosti ukazujú na porušovanie záväzkov, ktoré pre príslušný štát vyplývajú z Dohovoru. V tejto správe môžu byť vyjadrené osobné názory členov Komisie.
+      - 1. Vysoká zmluvná strana, ktorej občanom je sťažovateľ, má právo predložiť písomné vyjadrenie a zúčastniť sa na pojednávaní vo všetkých prípadoch prejednávaných komorou alebo veľkou komorou.
 
-      - 2. Správa sa doručí Výboru ministrov; takisto je doručená zúčastneným štátom, ktoré nie sú oprávnené ju zverejniť.
+      - 2. Predseda súdu môže v záujme riadneho výkonu spravodlivosti vyzvať ktorúkoľvek Vysokú zmluvnú stranu, ktorá nie je stranou v konaní, alebo ktorúkoľvek zainteresovanú osobu, inú ako sťažovateľ, aby predložili písomné vyjadrenie alebo sa zúčastnili na pojednávaniach.
 
-      - 3. Pri odovzdaní správy Výboru ministrov môže Komisia vyjadriť návrhy, ktoré považuje za vhodné.
+    - Článok 37 Vyčiarknutie sťažností
 
-    - Článok 32
+      - 1. Súd môže v ktoromkoľvek štádiu konania rozhodnúť o vyčiarknutí sťažnosti zo zoznamu prípadov, ak okolnosti vedú k záveru, že
 
-      - 1. Ak sa v trojmesačnej lehote začínajúc dňom doručenia správy Výboru ministrov nepredloží záležitosť Súdu na základe článku 48 tohto Dohovoru, rozhodne Výbor ministrov dvojtretinovou väčšinou zástupcov oprávnených zasadať vo výbore, či došlo k porušeniu Dohovoru.
+        - a) sťažovateľ už nemieni trvať na svojej sťažnosti, alebo
 
-      - 2. V kladnom prípade Výbor ministrov určí lehotu, v ktorej musí zúčastnená Vysoká zmluvná strana urobiť opatrenia požadované rozhodnutím Výboru ministrov.
+        - b) vec už bola vyriešená, alebo
 
-      - 3. Ak zúčastnená Vysoká zmluvná strana neprijala uspokojivé opatrenia v určenej lehote, Výbor ministrov po schválení väčšinou ustanovenou v predchádzajúcom odseku 1 rozhodne, aké dôsledky má mať jeho pôvodné rozhodnutie, a zverejní správu.
+        - c) pre akýkoľvek iný dôvod zistený súdom nie je potrebné pokračovať v posudzovaní sťažnosti.
 
-      - 4. Vysoké zmluvné strany sa zaväzujú, že budú považovať za záväzné každé rozhodnutie, ktoré Výbor ministrov prijme na základe predchádzajúcich odsekov.
+      - Súd však pokračuje v posudzovaní sťažnosti, ak to vyžaduje dodržiavanie ľudských práv zaručených dohovorom a jeho protokolmi.
 
-    - Článok 33
+      - 2. Súd môže rozhodnúť o opätovnom zaradení sťažnosti do zoznamu prípadov, ak sa domnieva, že okolnosti odôvodňujú taký krok.
 
-      - Zasadania Komisie sú neverejné.
+    - Článok 38 Prejednanie sťažnosti a konanie o zmieri
 
-    - Článok 34
+      - 1. Ak súd vyhlási sťažnosť za prijateľnú,
 
-      - S výhradou ustanovení článkov 20 (odsek 3) a 29 sú rozhodnutia Komisie prijímané väčšinou prítomných a hlasujúcich členov.
+        - a) pokračuje v prejednávaní veci spolu so zástupcami strán a v prípade potreby pristúpi k vyšetrovaniu, pre ktorého efektívne vykonanie mu zainteresované štáty poskytnú potrebnú súčinnosť,
 
-    - Článok 35
+        - b) dá sa k dispozícii zúčastneným stranám s cieľom dosiahnuť urovnanie sporu zmierom založeným na rešpektovaní ľudských práv zaručených dohovorom a jeho protokolmi.
 
-      - Komisia sa schádza podľa potreby. Zasadanie zvoláva generálny tajomník Rady Európy.
+      - 2. Konanie vedené podľa odseku 1 písm. b) je dôverné.
 
-    - Článok 36
+    - Článok 39 Dosiahnutie zmieru
 
-      - Komisia si určí rokovací poriadok.
+      - V prípade dosiahnutia zmieru súd vyčiarkne sťažnosť zo zoznamu prípadov rozhodnutím, ktoré obsahuje stručné zhrnutie skutkového stavu a dosiahnutého riešenia.
 
-    - Článok 37
+    - Článok 40 Verejné pojednávanie a prístup k dokumentom
 
-      - Sekretariát Komisie zabezpečuje generálny tajomník Rady Európy.
+      - 1. Pojednávania sú verejné, ak súd vo výnimočných prípadoch nerozhodne inak.
 
-  - HLAVA IV
+      - 2. Spisy uložené u tajomníka súdu sú prístupné verejnosti, ak predseda súdu nerozhodne inak.
 
-    - Článok 38
+    - Článok 41 Spravodlivé zadosťučinenie
 
-      - Európsky súd pre ľudské práva tvorí počet sudcov, ktorý sa rovná počtu členov Rady Európy. Sudcom môže byť iba jeden príslušník toho istého štátu.
+      - Ak súd dospeje k záveru, že bol porušený dohovor alebo jeho protokoly, a ak vnútroštátne právo dotknutej Vysokej zmluvnej strany umožňuje len čiastočnú nápravu, súd prizná v prípade potreby poškodenej strane spravodlivé zadosťučinenie.
 
-    - Článok 39
+    - Článok 42 Rozsudky vynesené komorami
 
-      - 1. Členov Súdu volí väčšinou hlasov Poradné zhromaždenie zo zoznamu predloženého členmi Rady Európy, pričom každý z členov predkladá troch kandidátov, z ktorých najmenej dvaja sú jeho príslušníkmi.
+      - Rozsudky vynesené komorami sa stanú konečnými v súlade s ustanoveniami článku 44 ods. 2.
 
-      - 2. Rovnaký postup sa v čo najširšom rozsahu použije pri dopĺňaní Súdu v prípade, že sa ďalšie štáty stanú neskôr stranami tohto Dohovoru, a pri obsadzovaní príležitostne uvoľnených miest.
+    - Článok 43 Predloženie veci veľkej komore
 
-      - 3. Kandidáti musia mať vysoký morálny charakter a spĺňať podmienky vyžadované pre výkon vysokých súdnych funkcií alebo byť uznávanými právnikmi.
+      - 1. V lehote troch mesiacov odo dňa vynesenia rozsudku komorou môže vo výnimočných prípadoch každá zo zúčastnených strán požiadať o predloženie veci veľkej komore.
 
-    - Článok 40
+      - 2. Porota piatich sudcov veľkej komory prijme takú žiadosť, ak prípad vyvoláva závažné otázky týkajúce sa výkladu alebo aplikácie dohovoru alebo jeho protokolov alebo závažnú otázku všeobecného významu.
 
-      - 1. Členovia Súdu sa volia na obdobie deviatich rokov a môžu byť zvolení znovu. Funkčné obdobie štyroch členov zvolených pri prvých voľbách sa však skončí koncom tretieho roka a funkčné obdobie štyroch ďalších koncom šiesteho roka.
+      - 3. Ak porota žiadosť prijme, veľká komora rozhodne vo veci rozsudkom.
 
-      - 2. Členovia, ktorých funkčné obdobie sa skončí uplynutím pôvodného trojročného alebo šesťročného obdobia, budú určení žrebovaním, ktoré vykoná generálny tajomník Rady Európy ihneď po skončení prvých volieb.
+    - Článok 44 Právoplatnosť rozsudkov
 
-      - 3. Aby sa v rámci možností zabezpečilo, že dôjde k obnove jednej tretiny členov Súdu každé tri roky, môže Poradné zhromaždenie rozhodnúť, prv než prikročí k akéjkoľvek ďalšej voľbe, že funkčné obdobie jedného alebo viacerých členov Súdu, ktorí majú byť zvolení, bude mať inú dĺžku ako deväť rokov; ale nie viac ako dvanásť rokov a nie menej ako šesť rokov.
+      - 1. Rozsudok veľkej komory je konečný.
 
-      - 4. V prípade, keď ide o viac ako jedno funkčné obdobie a keď Poradné zhromaždenie bude postupovať podľa predchádzajúceho odseku, pridelia sa tieto obdobia žrebovaním, ktoré vykoná generálny tajomník Rady Európy ihneď po voľbách.
+      - 2. Rozsudok komory je konečný
 
-      - 5. Člen Súdu, ktorý bol zvolený, aby nahradil člena, ktorého funkčné obdobie sa neskončilo, zastáva funkciu po zvyšok funkčného obdobia svojho predchodcu.
+        - a) vtedy, ak strany vyhlásia, že nepožiadajú o predloženie veci veľkej komore, alebo
 
-      - 6. Členovia Súdu zastávajú funkciu, dokiaľ nie sú nahradení. Po svojom nahradení pokračujú v prejednávaní prípadov, ktoré už posudzujú.
+        - b) po uplynutí trojmesačnej lehoty odo dňa vynesenia rozsudku, ak strany nepožiadali o predloženie veci veľkej komore, alebo
 
-      - 7. Členovia Súdu v ňom zasadajú ako súkromné osoby. Vo svojom funkčnom období nemôžu vykonávať činnosť nezlučiteľnú s ich nezávislosťou alebo nestrannosťou ako členov Súdu alebo s požiadavkami tohto úradu.
+        - c) vtedy, ak porota sudcov veľkej komory odmietne žiadosť o predloženie veci veľkej komore podanú v súlade s článkom 43.
 
-    - Článok 41
+      - 3. Právoplatný rozsudok sa zverejní.
 
-      - Súd volí na trojročné obdobie svojho predsedu a jedného alebo dvoch podpredsedov. Môžu byť zvolení znova.
+    - Článok 45 Odôvodnenie rozsudkov a rozhodnutí
 
-    - Článok 42
+      - 1. Rozsudky, ako aj rozhodnutia, ktorými sa sťažnosti vyhlasujú za prijateľné alebo za neprijateľné, musia obsahovať odôvodnenie.
 
-      - Členovia Súdu poberajú za každý deň výkonu funkcie náhradu určenú Výborom ministrov.
+      - 2. Ak rozsudok alebo jeho časť nevyjadruje jednomyseľný názor sudcov, každý sudca má právo pripojiť k nemu osobitné stanovisko.
 
-    - Článok 43
+    - Článok 46 Záväznosť a vykonávanie rozsudkov
 
-      - Na prejednanie každého predloženého prípadu Súd ustanoví senát zložený z deviatich sudcov. Jeho členom bude z úradnej moci sudca, ktorý je príslušníkom každého zúčastneného štátu, alebo ak takého niet, osoba ním určená, aby zasadala ako sudca; mená ďalších sudcov sa určia žrebovaním, ktoré vykoná predseda pred začatím pojednávania.
+      - 1. Vysoké zmluvné strany sa zaväzujú, že sa budú riadiť právoplatným rozsudkom súdu vo všetkých sporoch, ktorých sú stranami.
 
-    - Článok 44
+      - 2. Právoplatný rozsudok súdu sa doručí Výboru ministrov, ktorý dohliada na jeho výkon.
 
-      - Iba Vysoké zmluvné strany a Komisia majú právo predložiť prípad Súdu.
+    - Článok 47 Posudky
 
-    - Článok 45
+      - 1. Súd môže na žiadosť Výboru ministrov vydávať posudky o právnych otázkach týkajúcich sa výkladu dohovoru a jeho protokolov.
 
-      - Právomoc Súdu sa vzťahuje na všetky prípady týkajúce sa výkladu a vykonávania tohto Dohovoru, ktoré mu Vysoké zmluvné strany alebo Komisia predložia podľa článku 48.
+      - 2. Takéto posudky sa nemôžu týkať otázok súvisiacich s obsahom alebo s rozsahom práv alebo slobôd stanovených v hlave I dohovoru a v jeho protokoloch alebo iných otázok, ktorými by sa súd alebo Výbor ministrov mohol zaoberať v rámci konania začatého na základe ustanovení dohovoru.
 
-    - Článok 46
+      - 3. Rozhodnutie požiadať súd o posudok prijíma Výbor ministrov väčšinou hlasov zástupcov oprávnených v ňom zasadať.
 
-      - 1. Každá zmluvná strana môže kedykoľvek vyhlásiť, že uznáva ako obligatórnu ipso facto a bez osobitnej dohody právomoc Súdu vo všetkých veciach týkajúcich sa výkladu a vykonávania tohto Dohovoru.
+    - Článok 48 Poradná právomoc súdu Súd rozhodne, či žiadosť o posudok podaná Výborom ministrov spadá do jeho právomoci vymedzenej v článku 47.
 
-      - 2. Uvedené vyhlásenia možno urobiť bezpodmienečne alebo s podmienkou vzájomnosti zo strany niekoľkých alebo niektorých Vysokých zmluvných strán alebo na určitú dobu.
+    - Článok 49 Odôvodnenie posudkov
 
-      - 3. Tieto vyhlásenia sa uložia u generálneho tajomníka Rady Európy, ktorý zašle ich kópie Vysokým zmluvným stranám.
+      - 1. Posudok súdu musí obsahovať odôvodnenie.
 
-    - Článok 47
+      - 2. Ak posudok nevyjadruje úplne alebo čiastočne jednomyseľný názor sudcov, každý sudca má právo pripojiť k nemu osobitné stanovisko.
 
-      - Súd sa môže zaoberať prípadom až po oznámení Komisie, že úsilie o zmier sa skončilo neúspešne a v lehote troch mesiacov uvedenej v článku 32.
+      - 3. Posudky súdu sa doručia Výboru ministrov.
 
-    - Článok 48 Za predpokladu, že jedna alebo viac zúčastnených Vysokých zmluvných strán podliehajú obligatórnej právomoci Súdu, alebo ak to nie je tak, ak súhlasí zúčastnená Vysoká zmluvná strana alebo zúčastnené Vysoké zmluvné strany, ak je ich viac, môžu vec predložiť Súdu:
+    - Článok 50 Náklady na činnosť súdu
 
-      - a) Komisia;
+      - Náklady spojené s činnosťou súdu hradí Rada Európy.
 
-      - b) Vysoká zmluvná strana, ktorej príslušník sa považuje za poškodeného;
+    - Článok 51 Výsady a imunity sudcov
 
-      - c) Vysoká zmluvná strana, ktorá predložila prípad Komisii;
+      - Sudcovia požívajú počas výkonu svojej funkcie výsady a imunity ustanovené v článku 40 Štatútu Rady Európy a v dohodách uzatvorených na jeho základe.
 
-      - d) Vysoká zmluvná strana, proti ktorej bola podaná sťažnosť.
+  - HLAVA III Rôzne ustanovenia
 
-    - Článok 49
-
-      - V prípade sporu o právomoc Súdu vybaví sa vec jeho rozhodnutím.
-
-    - Článok 50
-
-      - Ak súd zistí, že rozhodnutie alebo opatrenie súdneho alebo každého iného orgánu Vysokej zmluvnej strany je úplne alebo čiastočne v rozpore so záväzkami vyplývajúcimi z tohto Dohovoru a ak vnútroštátne právo tejto strany umožňuje len čiastočné odstránenie dôsledkov takého rozhodnutia alebo opatrenia, rozhodnutie Súdu prizná v prípade potreby poškodenej strane spravodlivé zadosťučinenie.
-
-    - Článok 51
-
-      - 1. Rozsudok Súdu uvádza dôvody, na ktorých je založený.
-
-      - 2. Ak rozsudok vcelku alebo sčasti nevyjadruje jednomyseľný názor sudcov, má každý sudca právo k nemu pripojiť svoj vlastný názor.
-
-    - Článok 52
-
-      - Rozsudok Súdu je konečný.
-
-    - Článok 53
-
-      - Vysoké zmluvné strany sa zaväzujú, že sa budú spravovať rozhodnutiami Súdu vo všetkých sporoch, ktorých sú stranami.
-
-    - Článok 54
-
-      - Rozsudok Súdu sa doručuje Výboru ministrov, ktorý dohliada na jeho výkon.
-
-    - Článok 55
-
-      - Súd si ustanoví rokovací a súdny poriadok.
-
-    - Článok 56
-
-      - 1. Prvé voľby členov Súdu sa uskutočnia po tom, čo vyhlásenia Vysokých zmluvných strán uvedené v článku 46 dosiahnu počet osem.
-
-      - 2. Pred týmito voľbami nemožno predložiť Súdu žiadny prípad.
-
-  - HLAVA V
-
-    - Článok 57
+    - Článok 52 Žiadosti generálneho tajomníka a podanie vysvetlenia
 
       - Každá Vysoká zmluvná strana poskytne na žiadosť generálneho tajomníka Rady Európy požadované vysvetlenie o spôsobe, ako jej vnútroštátne právo zabezpečuje účinné vykonávanie všetkých ustanovení tohto Dohovoru.
 
-    - Článok 58
-
-      - Výdavky Komisie a Súdu uhrádza Rada Európy.
-
-    - Článok 59
-
-      - Členovia Komisie a Súdu požívajú pri výkone funkcií výsady a imunity uvedené v článku 40 Štatútu Rady Európy a v dohodách uzavretých na základe tohto článku.
-
-    - Článok 60
+    - Článok 53 Ochrana uznaných ľudských práv
 
       - Nič v tomto Dohovore sa nebude vykladať tak, akoby obmedzovalo alebo rušilo ľudské práva a základné slobody, ktoré môžu uznať zákony každej Vysokej zmluvnej strany alebo každý iný dohovor, ktorého je stranou.
 
-    - Článok 61
+    - Článok 54 Právomoc Výboru ministrov
 
       - Nič v tomto Dohovore nebráni právomociam, ktoré priznal Výboru ministrov Štatút Rady Európy.
 
-    - Článok 62
+    - Článok 55 Vylúčenie iných spôsobov riešenia sporu
 
       - S výhradou osobitného dojednania Vysoké zmluvné strany súhlasia, že medzi sebou nepoužijú zmluvy, dohovory alebo vyhlásenia, ktoré sú medzi nimi v platnosti, na to, aby predkladali formou žalôb spory vyplývajúce z výkladu alebo vykonávania tohto Dohovoru iným spôsobom urovnania, než sa ustanovuje v tomto Dohovore.
 
-    - Článok 63
+    - Článok 56 Územná pôsobnosť
 
-      - 1. Každý štát môže pri ratifikácii alebo kedykoľvek neskôr vyhlásiť oznámením generálnemu tajomníkovi Rady Európy, že tento Dohovor sa bude vzťahovať na všetky alebo na ktorékoľvek z území, za ktorých medzinárodné styky je zodpovedný.
+      - 1. Každý štát môže pri ratifikácii alebo kedykoľvek neskôr vyhlásiť oznámením generálnemu tajomníkovi Rady Európy, že tento Dohovor sa bude vzťahovať na základe ustanovenia odseku 4 tohto článku na všetky alebo na ktorékoľvek z území, za ktorých medzinárodné styky je zodpovedný.
 
       - 2. Dohovor sa bude vzťahovať na jedno alebo na viac území uvedených v oznámení začínajúc tridsiatym dňom nasledujúcim po prijatí tohto oznámenia generálnym tajomníkom Rady Európy.
 
       - 3. Na uvedených územiach sa budú ustanovenia tohto Dohovoru vykonávať s prihliadnutím na miestne potreby.
 
-      - 4. Každý štát, ktorý urobí vyhlásenie podľa prvého odseku tohto článku, môže kedykoľvek neskôr vyhlásiť v mene jedného alebo viacerých území, ktorých sa toto vyhlásenie týka, že uznáva právomoc Komisie na to, aby prijímala sťažnosti osôb, nevládnych organizácií alebo skupín jednotlivcov podľa článku 25 tohto Dohovoru.
+      - 4. Každý štát, ktorý urobí vyhlásenie podľa prvého odseku tohto článku, môže kedykoľvek neskôr vyhlásiť v mene jedného alebo viacerých území, ktorých sa toto vyhlásenie týka, že uznáva právomoc Súdu na to, aby prijímal sťažnosti osôb, nevládnych organizácií alebo skupín jednotlivcov podľa článku 34 tohto Dohovoru.
 
-    - Článok 64
+    - Článok 57 Výhrady
 
       - 1. Každý štát môže pri podpise tohto Dohovoru alebo pri uložení svojej ratifikačnej listiny urobiť výhradu ku ktorémukoľvek ustanoveniu Dohovoru, ak zákon, ktorý v tom čase platí na jeho území, nie je v súlade s týmto ustanovením. Výhrady všeobecnej povahy nie sú podľa tohto článku povolené.
 
       - 2. Každá výhrada urobená podľa tohto článku musí obsahovať stručný opis príslušného zákona.
 
-    - Článok 65
+    - Článok 58 Výpoveď
 
       - 1. Vysoká zmluvná strana môže vypovedať tento Dohovor až po uplynutí piatich rokov od dátumu, keď sa stala jeho stranou, a po šiestich mesiacoch od zaslania oznámenia generálnemu tajomníkovi Rady Európy, ktorý o tom informuje ostatné Vysoké zmluvné strany.
 
@@ -466,9 +420,9 @@
 
       - 3. Každá Vysoká zmluvná strana, ktorá prestane byť členom Rady Európy, prestane byť stranou tohto Dohovoru za rovnakých podmienok.
 
-      - 4. Dohovor možno vypovedať podľa ustanovení predchádzajúcich odsekov, pokiaľ ide o ktorékoľvek územie, pre ktoré bol rozšírený podľa článku 63.
+      - 4. Dohovor možno vypovedať podľa ustanovení predchádzajúcich odsekov, pokiaľ ide o ktorékoľvek územie, pre ktoré bol rozšírený podľa článku 56.
 
-    - Článok 66
+    - Článok 59 Podpis a ratifikácia
 
       - 1. Tento Dohovor je otvorený na podpis členom Rady Európy. Bude ratifikovaný. Ratifikačné listiny budú uložené u generálneho tajomníka Rady Európy.
 
