@@ -6,6 +6,8 @@
 
 - ***) Ak sa malo podľa zmluvy plniť výhradne v určitý deň alebo do určitej lehoty, nie je poľnohospodárska organizácia povinná po uplynutí tejto lehoty poľnohospodárske potreby prevziať (pozri § 140 zákona).
 
+- 1) Normy uvedené v odsekoch 1 a 2 platia s účinnosťou od 1. 7. 1973.
+
 - *) Od 1. júna 1967 vstúpila do platnosti ČSN 46 2211, v ktorej je upravené skúšanie, posudzovanie a hodnotenie všetkých druhov zemiakov.
 
 - *) Maloobchodná cena platná k 1. 1. 1967 sa znižuje v priemere o 75 %; pri zmene tejto ceny sa uvedená zľava za 1 kg upraví.
@@ -23,6 +25,8 @@
 - *) Smernice MPLH o veterinárnej starostlivosti v chovoch zvierat z 1. 3. 1962 č. 60 400/62.
 
 - *) Platí postup podľa vyhlášky č. 154/1961 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona o veterinárnej starostlivosti.
+
+- 2) Ustanovenia § 21 o 22 zákona Českej národnej rady č. 86/1972 Zb. o plemenitbe hospodárskych zvierat a ustanovenia § 23 a 24 zákona Slovenskej národnej rady č. 110/1972 Zb. o plemenitbe hospodárskych zvierat.
 
 - *) Vyhláška č. 119/1964 Zb., ktorou sa vydávajú základné podmienky dodávky výrobkov chemického priemyslu.
 
