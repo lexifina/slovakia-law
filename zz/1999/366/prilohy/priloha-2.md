@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 366/1999 Z. z.
 
-ZARADENIE HMOTNÉHO MAJETKU A NEHMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN
+ZARADENIE HMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN
 
 Odpisová skupina 1 | |
 
@@ -326,7 +326,7 @@ Odpisová skupina 2 | |
 
 2 - 65 | 36.63.1 | Kolotoče, hojdačky, strelnice a ostatné lunaparkové atrakcie
 
-Odpisová skupina 3 | |
+2-66 Technické zhodnotenie nehnuteľnej kultúrnej pamiatkyOdpisová skupina 3 | |
 
 3 -1 | 26.61.20 | Montované stavby z betónu (prefabrikované bunky), ak nie sú
 
@@ -404,42 +404,28 @@ Odpisová skupina 3 | |
 
 | | tri roky
 
-3 - 27 | | odbor 828 8 JKSO - Vedenie podzemné slaboprúdové káblové
+3 - 27 | | z kódu 2213 KS len: televízne a káblové siete z kódu 2224 KS len: televízne a káblové siete
 
-3 - 28 | | Drobné stavby vymedzené osobitným predpisom<sup>107</sup>)
+3 - 28 | | Drobné stavby vymedzené osobitným predpisom<sup>107</sup>) s výnimkou uvedenou v § 26 ods. 2 písm. b) v druhom bode
 
 Odpisová skupina 4 | |
 
-Položka<sup>*</sup>) | JKSO<sup>****</sup>) | Názov<sup>***</sup>)
+4-1 | 1 | Budovy – v rámci tohto kódu len budovy z dreva a z ľahkých stavebných materiálov (plastov)
 
-4 - 1 | 813 | Veže, stožiare a komíny
+4-2 | 1252 | Nádrže, silá a sklady
 
-4 - 2 | 824 2 | Zvršok železničných a ďalších koľajových dráh
+4-3 | 1271 | Nebytové poľnohospodárske budovy
 
-4 - 3 | 827 | Diaľkové a prípojné rúrové vedenia
+4-4 | 212 | Železnice a dráhy
 
-4 - 4 | 828 | Vedenia elektrické a visuté dráhy okrem odboru 828 8
+4 - 5 | 22 | Potrubné rozvody, telekomunikačné a elektrické rozvody
 
-| | - vedenie podzemné slaboprúdové káblové
-
-4 - 5 | 801, 802, 811, 812 | V rámci uvedených odborov len stavebné objekty na povrchových
-
-| | baniach v oblasti banského poľa
-
-4 - 6 | | Len skrývkové a uhoľné koľaje pevné na povrchových baniach
-
-4 - 7 | 801, 802, 803, | V rámci uvedených odborov len budovy a stavby z dreva a ľahkých
-
-| 811, 812 | stavebných látok
+4 - 6 | 2301 | Banské stavby a ťažobné zariadenia, v rámci tohto kódu len: stavebné objekty na povrchových baniach v oblasti banského poľa
 
 Odpisová skupina 5 | |
 
-Položka<sup>*</sup>) | JKSO<sup>****</sup>) | Názov<sup>***</sup>)
+5-1<sup>*****</sup>) | 1 | Budovy – okrem budov z dreva a z ľahkých stavebných látok (plastov) uvedených v odpisovej skupine 4
 
-5 - l<sup>*****</sup>) | 801, 802, 803 | Budovy a haly okrem budov a hál z dreva a ľahkých stavebných
-
-| 811, 812 | látok
-
-5 - 2<sup>*****</sup>) | | Stavby s výnimkou odborov uvedených v 4. odpisovej skupine
+5-2<sup>*****</sup>) | 2 | Inžinierske stavby s výnimkou kódov uvedených v odpisovej skupine 4
 
 [Příloha 03](../assets/c5e77d8681d3331ebdd54cd37099674d7adfdcf2a952be0e3f4b2a1227124415.pdf)

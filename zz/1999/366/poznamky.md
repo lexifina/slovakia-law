@@ -1,5 +1,7 @@
 - 1) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 1a) § 40 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
 - 2) Napríklad § 460 až 487 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 3) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
@@ -36,7 +38,7 @@
 
 - 19) § 2 ods. 2 zákona č. 351/1997 Z. z. Branný zákon.
 
-- 20) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 54/1999 Z. z.
+- 20) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z., zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 21) Napríklad zákon č. 370/1997 Z. z., zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení zákona č. 54/1999 Z. z.
 
@@ -80,9 +82,13 @@
 
 - 41) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
+- 41a) Napríklad zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
+
+- 41b) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
 - 42) § 158 Obchodného zákonníka.
 
-- 43) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení neskorších predpisov.
+- 43) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení neskorších predpisov a zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 44) § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.§ 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
 
@@ -107,6 +113,8 @@
 - 54) § 13 ods. 4 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
 
 - 55) § 1 ods. 1 a 5 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+
+- 55a) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
 - 56) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 219/1999 Z. z.
 
@@ -165,6 +173,10 @@
 - 83) § 116 a 117 Občianskeho zákonníka.
 
 - 84) Napríklad § 369 Obchodného zákonníka.
+
+- 84a) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov.
+
+- 84b) Napríklad § 38 a 46 zákona Národnej rady Slovenskej republiky č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 85) Napríklad § 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z. v znení neskorších predpisov.
 
@@ -232,6 +244,8 @@
 
 - 117) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 117a) § 53 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
 - 118) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 119) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
@@ -239,6 +253,8 @@
 - 120) § 25 ods. 4 zákona č. 563/1991 Zb.
 
 - 121) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 121a) § 58 a 59 Obchodného zákonníka.
 
 - 122) Opatrenie Štatistického úradu Slovenskej republiky č. 172/1995 Z. z., ktorým sa vyhlasuje klasifikácia produkcie v znení opatrenia Štatistického úradu Slovenskej republiky č. 24/1996 Z. z.
 
@@ -264,12 +280,12 @@
 
 - 133) § 39 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- *) položka – označuje číslo odpisovej skupiny (1 až 5) a poradovéĺ číslo položky v príslušnej odpisovej skupine.
+- *) Položka – označuje číslo odpisovej skupiny (1 až 5) a poradové číslo položky v príslušnej odpisovej skupine.
 
-- **) KP – kód klasifikácie produkcie (KP) vyhlásenej opatrenímĺ Štatistického úradu Slovenskej republiky č. 172/1995 Z. z. rozhodujúciĺ na zaradenie hmotného majetku do odpisovej skupiny. V prípade, akĺ pre stručnosť textácie je názov vymedzený inak, je rozhodujúci kódĺ KP.
+- **) KP – kód klasifikácie produkcie vyhlásenej Opatrením Štatistického úradu Slovenskej republiky č. 172/1995 Z. z. rozhodujúci na zaradenie hmotného majetku do odpisovej skupiny. Ak pre stručnosť textácie je názov vymedzený inak, rozhodujúci je kód KP.
 
-- ***) názov – obsahové vymedzenie jednotlivých položiek a kódov,ĺ prevažne s použitím textácie KP.
+- ***) Názov – obsahové vymedzenie jednotlivých položiek a kódov prevažne s použitím textácie KP, resp. textácie KS.
 
-- ****) JKSO – súčasťou KP nie je nová klasifikácia stavebných objektov.ĺ Na účely zákona o daniach z príjmov preto rovnako ako na štatistickéĺ účely ostáva v platnosti Jednotná klasifikácia stavebných objektovĺ a stavebných prác výrobnej povahy (JKSO) na triedenie budov a stavieb.
+- ****) KS – kód klasifikácie stavieb vyhlásený Opatrením Štatistického úradu Slovenskej republiky č. 128/2000 Z. z, ktorým sa vyhlasuje Klasifikácia stavieb (namiesto doteraz platnej JKSO).
 
-- *****) súčasťou stavby je zariadenie tvoriace technické vybavenieĺ stavby, ktoré zabezpečuje jej prevádzkovú funkciu alebo účel, na ktorýĺ bola stavba zhotovená; súčasťou stavby je toto zariadenie odo dňaĺ jeho pevného zabudovania do stavby.
+- *****) Súčasťou stavby je zariadenie tvoriace technické vybavenie stavby, ktoré zabezpečuje jej prevádzkovú funkciu alebo účel, na ktorý bola stavba zhotovená; súčasťou stavby je toto zariadenie odo dňa jeho pevného zabudovania do stavby.

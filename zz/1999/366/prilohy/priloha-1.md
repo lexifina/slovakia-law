@@ -1,179 +1,119 @@
 Príloha č. 1 k zákonu č. 366/1999 Z. z.
 
-ZOZNAM ČINNOSTÍ
+ZOZNAM ČINNOSTÍ, Z KTORÝCH PRÍJMY SA NEMÔŽU ZDAŇOVAŤ PAUŠÁLNOU DAŇOU
 
-vykonávaných podľa zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, z ktorých príjmy sa zdaňujú paušálnou daňou
+- Zlievanie železných a neželezných obyčajných kovov
 
-a) Remeselné živnosti (podľa prílohy č. 1 živnostenského zákona)
+- Výroba saponátových, čistiacich a leštiacich prostriedkov
 
-Skupina 101 – Výroba kovov a kovových výrobkov
+- Výroba kozmetických výrobkov
 
-Zámočníctvo
+- Výroba piva a sladu
 
-Výroba nástrojov
+- Garbiarne
 
-Brúsenie a leštenie kovov s výnimkou brúsenia nožov,
+- Irchárne
 
-nožníc a jednoduchých nástrojov
+- Semišové vyčiňovanie kože
 
-Kovoobrábanie
+- Vulkanizácia
 
-Galvanizácia kovov
+- Stavba člnov a lodí s výnimkou nemotorových športových lodí
 
-Smaltovanie
+- Zlievanie drahých kovov
 
-Skupina 103 – Výroba motorových a ostatných dopravných prostriedkov
+- Výroba, montáž, opravy, rekonštrukcie vyhradených tlakových zariadení a vykonávanie revízií a skúšok kotlov a tlakových nádob dodávateľským spôsobom a periodické skúšky nádob na plyn
 
-Opravy motorových vozidiel
+- Výroba, montáž, opravy a rekonštrukcie vyhradených tlakových zariadení
 
-Výroba a opravy poľnohospodárskych strojov
+- Plnenie tlakových nádob na plyn
 
-Opravy karosérií
+- Výroba, inštalácie, opravy a výstroje elektrických trakčných vozidiel
 
-Skupina 104 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
+- Výroba, montáž, opravy a rekonštrukcie určených technických dopravných zariadení (tlakové, plynové, elektrické a zdvíhacie) a lanových dráh
 
-Výroba protetických výrobkov
+- Opravy kontajnerov ISO a opravy výmenných nadstavieb
 
-Výroba ortopedickej obuvi
+- Výroba zváraných oceľových drážnych mostných konštrukcií, zváranie koľajových vozidiel a vyhradených koľajových zariadení v doprave
 
-Jemná mechanika
+- Defektoskopické kontroly, montáž lán, zalievanie koncoviek a spojok lán, spletanie lán lanových dráh
 
-Hodinárstvo
+- Revízie a skúšky vybraných technických zariadení a lanových dráh, kontajnerov ISO
 
-Skupina 106 – Výroba a spracovanie kameniva a zemín, keramika
+- Výroba a opravy ostatných motorových dopravných prostriedkov a motorových vozíkov
 
-Spracovanie kameňa
+- Výroba a odbyt jedov a žieravín s výnimkou jedov zvlášť nebezpečných
 
-Skupina 108 – Výroba potravín a nápojov
+- Automatizované spracovanie dát
 
-Výroba hotových jedál a polotovarov
+- Poskytovanie softvéru – predaj hotových programov na základe dohody s autorom
 
-Výroba mliečnej zmrzliny a smotanových krémov
+- Prevádzkovanie vzdelávacích zariadení na prípravu vykonávania špecializovaných činností v oblasti telesnej kultúry
 
-Výroba pekárskych výrobkov
+- Výkon špecializovaných činností v oblasti telesnej kultúry
 
-Výroba cukrárskych výrobkov
+- Inštruktor vstreľovania expanznými prístrojmi
 
-Skupina 110 – Výroba kože, kožených výrobkov (vrátane obuvi), výroba gumových výrobkov a výrobkov z plastických látok
+- Vstreľovanie expanznými prístrojmi
 
-Kožušníctvo a farbenie kožušín
+- Vývoj, výroba, opravy, úpravy a znehodnocovanie zbraní
 
-Skupina 111 – Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov
+- Zriaďovanie a prevádzkovanie strelníc
 
-Stolárstvo
+- Prevádzkovanie stredísk kalibračnej služby
 
-Zlatníctvo a strieborníctvo, klenotníctvo a kovotepectvo
+- Úradné meranie
 
-Skupina 113 – Stavebníctvo
+- Výroba a odbyt zvlášť nebezpečných jedov
 
-Murárstvo
+- Výskum, vývoj, výroba, spracovanie, uvádzanie výbušnín do obehu
 
-Obkladačské práce
+- Výskum, vývoj, výroba pyrotechnických výrobkov
 
-Tesárstvo
+- Vykonávanie dražieb mimo výkonu rozhodnutia
 
-Pokrývačstvo
+- Pohostinská činnosť v zariadeniach II. skupiny a vo vyšších skupinách
 
-Klampiarstvo
+- Záložne
 
-Vykonávanie tepelných a hlukových izolácií
+- Vnútrozemská plavba
 
-Pozlacovačstvo
+- Letecké práce a iné podnikanie v civilnom letectve
 
-Štukatérstvo
+- Asanačný podnik
 
-Podlahárstvo
+- Zriaďovanie a prevádzkovanie jednotky požiarnej ochrany
 
-Vodoinštalatérstvo
+- Poskytovanie technických služieb na ochranu majetku a osôb
 
-Kúrenárske práce
+- Sprostredkovanie a služby veľkoobchodu
 
-Vŕtanie studní
+- Peňažné sprostredkovanie a služby s tým spojené
 
-Skupina 114 – Ostatné
+- Ostatné finančné sprostredkovanie a služby s tým spojené
 
-Očná optika – prax 5 rokov (§ 21 ods. 1)
+- Poisťovníctvo a služby s tým spojené
 
-Holičstvo
+- Sprostredkovateľské služby
 
-Kaderníctvo
+- Iné právne služby týkajúce sa právnych dokumentov
 
-Kozmetické služby
+- Poradenské služby
 
-Čistenie odevov, bytového textilu a podlahových krytín
+- Služby prieskumu trhu a verejnej mienky
 
-b) Viazané živnosti (podľa prílohy č. 2 živnostenského zákona)
+- Reklamné služby
 
-Skupina 202 – Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia
+- Zostavovanie zoznamov adresárov a expedičné služby
 
-Revízie a skúšky vyhradených tlakových zariadení
+- Maloobchodný predaj (iba v tom prípade, ak v jednej uzatvárateľnej miestnosti prevádzkuje rovnaký druh živnosti viac daňovníkov na samostatné živnostenské oprávnenia)
 
-Individuálne vyskúšanie, overovacie skúšky, revízie a revízne skúšky vyhradených zdvíhacích zariadení
+- Pohostinské služby (iba v tom prípade, ak v jednej uzatvárateľnej miestnosti prevádzkuje rovnaký druh živnosti viac daňovníkov na samostatné živnostenské oprávnenia)
 
-Montáž, opravy a revízie vyhradených plynových zariadení
+- Činnosť účtovných poradcov
 
-Revízie a skúšky vyhradených plynových zariadení
+- Vedenie účtovníctva
 
-Skupina 204 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
+- Činnosť organizačných a ekonomických poradcov
 
-Výroba, opravy a montáž meradiel
-
-Skupina 205 – Výroba elektrických prístrojov
-
-Montáž, oprava, údržba vyhradených elektrických zariadení a výroba rozvádzačov nízkeho napätia
-
-Revízia vyhradených elektrických zariadení
-
-Projektovanie elektrických zariadení
-
-Výroba, inštalácia a opravy elektrických strojov a prístrojov
-
-Montáž a opravy kancelárskej a reprodukčnej techniky
-
-Výroba, montáž a opravy výrobkov a zariadení spotrebnej elektroniky – len montáž a opravy
-
-Výroba, inštalácia a opravy chladiarenských zariadení – len inštalácia a opravy
-
-Výroba, inštalácia a opravy ústredného vykurovania a vetrania – len inštalácia a opravy
-
-Výroba a opravy elektrických šijacích strojov a elektrických prístrojov pre domácnosť – len opravy
-
-Montáž a opravy meracej a regulačnej techniky
-
-Skupina 214 – Ostatné
-
-Masérske služby
-
-Opravy, plnenia a revízie hasiacich prístrojov
-
-Projektovanie, inštalovanie, oprava a vykonávanie revízií elektrickej požiarnej signalizácie – len inštalovanie, oprava a vykonávanie revízií
-
-Projektovanie, inštalovanie, oprava a vykonávanie revízií stabilných hasiacich zariadení – len inštalovanie, oprava a vykonávanie revízií
-
-Pedikúra
-
-c) Koncesované živnosti (podľa prílohy č. 3 živnostenského zákona)
-
-Skupina 304 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín
-
-Výroba, opravy lekárskych prístrojov a nástrojov a zdravotníckych potrieb – len opravy
-
-Skupina 314 – Ostatné
-
-Taxislužba
-
-Kominárstvo
-
-d) Voľné živnosti
-
-Fotografické služby
-
-Požičiavanie a distribúcia videa
-
-Oprava obuvi a iných výrobkov z kože
-
-Krajčírstvo
-
-Výroba pletených a háčkovaných výrobkov
-
-Oprava tovaru osobnej spotreby a potrieb pre domácnosť (napr. oprava bicyklov, oprava a údržba sporákov pre domácnosť, oprava a údržba zariadení pre ústredné vykurovanie pre domácnosť)
+- Ostatné činnosti s povahou alebo s charakterom činností uvedených v tejto prílohe
