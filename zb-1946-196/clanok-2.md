@@ -1,0 +1,3 @@
+# Čl. II
+
+Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr národní obrany v dohodě se zúčastněnými členy vlády.
