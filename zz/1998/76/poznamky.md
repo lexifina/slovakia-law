@@ -30,6 +30,8 @@
 
 - 12) Napríklad zákon č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1996 Z. z., zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 238/1991 Zb., príloha č. 2 zákona č. 455/1991 Zb., vyhláška Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti, vyhláška Ministerstva vnútra Slovenskej republiky č. 83/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane týkajúce sa jednotiek požiarnej ochrany.
 
+- 12a) § 20 a 23 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+
 - 13) § 2 písm. d) Colného zákona.
 
 - 14) § 7 zákona Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.
