@@ -1,10 +1,10 @@
 - 1) § 2 ods. 1 Obchodného zákonníka.
 
-- 1a) § 3 ods. 1 písm. b) zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení zákona Národnej rady Slovenskej republiky č. 250/1994 Z. z. a zákona č. 319/1999 Z. z.
-
 - 2) § 3 Obchodného zákonníka.
 
 - 3) § 31 Obchodného zákonníka.
+
+- 3a) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
