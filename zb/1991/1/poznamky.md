@@ -67,3 +67,5 @@
 - 24) § 49 ods. 2 zákona č. 100/1988 Zb.
 
 - 25) Napríklad § 61 a 130 Zákonníka práce.
+
+- 26) Zákon č. 498/1990 Zb. o utečencoch.
