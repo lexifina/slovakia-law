@@ -1,0 +1,1 @@
+- 1) § 13 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
