@@ -1,5 +1,0 @@
-# Čl. I (zavedený opatrením č. 10/1955 Zb.)
-
-(1) Vedeckým pracovníkom, ktorí sú známi vynikajúcimi vedeckými prácami, objavmi alebo vynálezmi, môže Štátna komisia pre vedecké hodnosti najneskôr do roka odo dňa vyhlásenia tohto zákonného opatrenia na návrh rady vysokej školy, prezídia Československej akadémie vied, predsedníctva Slovenskej akadémie vied alebo predsedníctva Československej akadémie pôdohospodárskych vied udeliť celkom výnimočne vedeckú hodnosť doktora vied, bez toho že by boli splnené podmienky § 4 vládneho nariadenia č. 60/1953 Zb., o vedeckých hodnostiach a o označení absolventov vysokých škôl.
-
-(2) Štátna komisia pre vedecké hodnosti si vyžiada pred svojím rozhodnutím odborný posudok Československej akadémie vied alebo Ministerstva školstva, prípadne Ministerstva národnej obrany.
