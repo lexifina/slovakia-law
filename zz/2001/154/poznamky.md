@@ -78,6 +78,8 @@
 
 - 36) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
 
+- 36a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách.
+
 - 37) § 66 ods. 1 a § 85 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 38) § 67 ods. 1 a § 85 zákona č. 385/2000 Z. z.
@@ -85,6 +87,8 @@
 - 39) § 1 ods. 4 a § 8 zákona č. 380/1997 Z. z.
 
 - 40) § 22c a 22d zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 57/1999 Z. z.
+
+- 40a) Napríklad opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 120.100/2003 z 30. mája 2003, ktorým sa ustanovujú platové relácie (oznámenie č. 191/2003 Z. z.).
 
 - 41) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 

@@ -42,7 +42,7 @@
 
   - 3. prokurátor vykonával trest odňatia slobody na podklade rozsudku, ktorý bol zrušený,
 
-- j) dočasného pridelenia podľa § 9 ods. 4 zákona.
+- j) dočasného pridelenia podľa § 9 ods. 4 a 6 zákona.
 
 (4) Plat podľa odseku 1 je splatný vo výplatnom termíne určenom na výplatu platu za mesiac november, ak ďalej nie je ustanovené inak. Ak podmienku uvedenú v odseku 1 písm. a) splní prokurátor až k 31. decembru, plat podľa odseku 1 je splatný vo výplatnom termíne za mesiac december.
 
