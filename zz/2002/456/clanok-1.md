@@ -74,7 +74,61 @@ Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon 
 
 - 12. Poznámky pod čiarou k odkazom 16a, 17, 17a a 18 sa vypúšťajú.
 
-- „15.
+- 13. § 19 vrátane poznámky pod čiarou k odkazu 18b sa vypúšťa.
+
+- 14. Za § 19 sa vkladá § 19a, ktorý vrátane nadpisu znie:
+
+- „§ 19a
+
+- Nadobúdanie nehnuteľností v tuzemsku
+
+- (1)
+
+- Cudzozemec môže nadobudnúť vlastnícke právo k nehnuteľnostiam v tuzemsku s výnimkami podľa odseku 2.
+
+- (2)
+
+- Cudzozemec nemôže nadobudnúť vlastnícke právo
+
+- a)
+
+- k pôde, ktorá tvorí poľnohospodársky pôdny fond<sup>19</sup>) nachádzajúci sa za hranicou zastavaného územia obce a k pôde, ktorá tvorí lesný pôdny fond<sup>20</sup>) nachádzajúci sa za hranicou zastavaného územia obce; toto obmedzenie neplatí pre cudzozemca, ktorý je
+
+- 1.
+
+- občanom Slovenskej republiky,
+
+- 2.
+
+- štátnym príslušníkom členského štátu Európskej únie a má na základe registrácie právo na prechodný pobyt,<sup>21</sup>) ak ide o nadobudnutie vlastníckeho práva k pôde, ktorá tvorí poľnohospodársky pôdny fond<sup>19</sup>) a na ktorej hospodári<sup>21a</sup>) najmenej tri roky po nadobudnutí platnosti Zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii,
+
+- b)
+
+- k nehnuteľnostiam, ktorých nadobúdanie je obmedzené osobitnými predpismi.<sup>21b</sup>)“.
+
+- Poznámky pod čiarou k odkazom 19, 20, 21, 21a a 21b znejú:
+
+- „19)
+
+- Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu v znení neskorších predpisov.
+
+- 20)
+
+- Napríklad zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
+
+- 21)
+
+- § 30 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
+- 21a)
+
+- Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
+
+- 21b)
+
+- Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon), zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách v znení neskorších predpisov, zákon č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti v znení zákona č. 183/2000 Z. z.
+
+- 15.
 
 - § 20 a 21 sa vypúšťajú.
 
