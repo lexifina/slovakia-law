@@ -1,3 +1,0 @@
-# § 56a
-
-Ak priznaním starobného dôchodku, invalidného dôchodku, čiastočného invalidného dôchodku, dôchodku za výsluhu rokov, vdovského dôchodku alebo sirotského dôchodku dôjde k súbehu nárokov na výplatu dôchodkov, o súbehu nárokov na výplatu dôchodkov sa rozhodne po úprave dôchodku, prípadne dôchodkov podľa osobitného predpisu<sup>7ce</sup>) s výnimkou prípadov, v ktorých úprava dôchodkov je vylúčená podľa osobitného predpisu;<sup>7cf</sup>) ak sa priznáva starobný dôchodok zvýšený za dobu ďalšieho zamestnania po vzniku nároku na tento dôchodok, o súbehu nárokov na výplatu dôchodkov sa rozhodne po zvýšení starobného dôchodku za dobu ďalšieho zamestnania po vzniku nároku na tento dôchodok a po úprave podľa osobitného predpisu.<sup>7ce</sup>)

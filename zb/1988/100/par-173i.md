@@ -1,5 +1,0 @@
-# § 173i
-
-(1) Policajt, profesionálny vojak a vojak prípravnej služby, ktorí vykonávali profesionálnu službu v rozsahu zakladajúcom nárok na výsluhový dôchodok alebo ktorým bol priznaný invalidný výsluhový dôchodok a ktorým v období od 1. júla 2002 do 30. júna 2003 Sociálna poisťovňa priznala starobný dôchodok alebo pomerný starobný dôchodok, Sociálna poisťovňa rozhodne o nároku na starobný dôchodok alebo o nároku na pomerný starobný dôchodok podľa predpisov účinných po 30. júni 2003.
-
-(2) Ak policajt, profesionálny vojak a vojak prípravnej služby, ktorí vykonávali profesionálnu službu v rozsahu zakladajúcom nárok na výsluhový dôchodok alebo ktorým bol priznaný invalidný výsluhový dôchodok, požiadali v období od 1. júla 2002 do 30. júna 2003 Sociálnu poisťovňu o priznanie starobného dôchodku alebo o priznanie pomerného starobného dôchodku a konanie o priznaní týchto dávok nebolo pred 1. júlom 2003 právoplatne skončené, Sociálna poisťovňa rozhodne o nároku na starobný dôchodok alebo o nároku na pomerný starobný dôchodok podľa predpisov účinných po 30. júni 2003.
