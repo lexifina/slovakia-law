@@ -60,4 +60,8 @@
 
 - 20) Napr. zákon č. 41/1957 Zb. o využití nerastného bohatstva (banský zákon), zákon č. 79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon), zákon č. 138/1973 Zb. o vodách (vodný zákon), zákon SNR č. 1/1955 Zb. SNR o štátnej ochrane prírody, zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
 
+- 20a) § 10 ods. 7 zákona č. 61/1977 Zb. o lesoch.
+
+- 20b) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
 - 21) § 275 Zákonníka práce (úplné znenie č. 55/1975 Zb.). § 30 až 34 nariadenia vlády ČSSR č. 54/1975 Zb., ktorým sa vykonáva Zákonník práce. Vyhláška č. 112/1975 Zb., ktorou sa upravujú niektoré podrobnosti o zisťovaní priemerného zárobku.
