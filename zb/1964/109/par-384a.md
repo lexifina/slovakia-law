@@ -4,44 +4,36 @@
 
 # § 384a
 
-(1) Organizácie, organizačné jednotky socialistických organizácií vystupujúce v hospodárskych vzťahoch vo svojom mene, prípadne orgány hospodárskeho riadenia s výnimkou rozpočtových organizácií, ústredných orgánov a národných výborov sa môžu za závažné alebo opätovné konanie proti záujmom spoločnosti postihovať podľa ďalších ustanovení hospodárskymi pokutami, ktoré sa odvádzajú do príslušného štátneho rozpočtu.
+(1) Organizácie alebo organizačné jednotky socialistických organizácií vystupujúce v hospodárskych vzťahoch vo svojom mene, s výnimkou rozpočtových organizácií, za závažné alebo opätovné konanie proti záujmom spoločnosti sa môžu postihovať podľa ďalších ustanovení hospodárskymi pokutami, ktoré sa odvádzajú do príslušného štátneho rozpočtu.
 
-(2) Hospodárska pokuta sa môže uložiť
+(2) Hospodárska pokuta sa môže uložiť organizácií alebo organizačnej jednotke vystupujúcej v hospodárskych vzťahoch vo svojom mene, ktorá
 
-- a) organizácii alebo organizačnej jednotke socialistickej organizácie vystupujúcej v hospodárskych vzťahoch vo svojom mene, ktorá
+- a) nesplní povinnosť prerokovať dodávateľsko-odberateľské vzťahy a rokovanie ukončiť uzavretím zmluvy o príprave dodávok, prípadne zápisnicou (§ 114a ods. 2);
 
-  - 1. nesplní povinnosť prerokovať dodávateľsko-odberateľské vzťahy a uzavrieť konanie o nich spísaním zápisnice, prípadne uzavretím zmluvy o príprave dodávok, v prípadoch ustanovených v § 114a ods. 2;
+- b) obmedzí výrobu alebo vypustí z výrobného programu výrobky, práce alebo výkony (§ 119a ods. 2), prípadne prevedie výrobný program bez dodržania ustanovených podmienok (§ 352a);
 
-  - 2. bez súhlasu nadriadeného ústredného orgánu alebo krajského národného výboru obmedzí výrobu alebo vypustí z výrobného programu výrobky, práce alebo výkony v rozpore s požiadavkami odberateľov alebo nezabezpečí v nevyhnutnom rozsahu servisnú službu alebo dodávky náhradných dielcov;
+- c) nezabezpečí v nevyhnutnom rozsahu servisnú službu alebo dodávky náhradných dielcov;
 
-  - 3. vynucuje neprimerané podmienky pri uzavieraní hospodárskych zmlúv alebo iných dohôd;
+- d) vynucuje neprimerané podmienky pri uzavieraní hospodárskych zmlúv alebo iných dohôd;
 
-  - 4. zastaví alebo obmedzí predaj výrobkov, zatají alebo hromadí výrobky alebo iným spôsobom vyvoláva ich nedostatok, aby získala neoprávnený hospodársky prospech;
+- e) vyvíja hospodársku činnosť neoprávnene;
 
-  - 5. vedome nadsadí alebo podhodnotí požiadavky v plánovacom alebo rozpočtovom procese, zatají zdroje a možnosti alebo vynúti si výnimočné riešenie tým, že dôležitejšie potreby ponechá nezabezpečené a pohotovými zdrojmi pokryje menej naliehavé potreby;
+- f) zastaví alebo obmedzí predaj výrobkov, zatají alebo hromadí výrobky alebo iným spôsobom vyvoláva ich nedostatok za účelom získania neoprávneného hospodárskeho prospechu;
 
-  - 6. uvedie s cieľom získať neoprávnený prospech nesprávne údaje vo výkazoch, hláseniach alebo návrhoch slúžiacich riadeniu, plánovaniu, kontrole a hodnoteniu hospodárskej činnosti alebo určeniu cien;
+- g) koná v rozpore so zákazom ustanoveným v § 119a ods. 3, najmä s cieľom získať monopolné postavenie na trhu;
 
-  - 7. znevýhodňuje organizácie za to, že vymáhajú majetkovú zodpovednosť, najmä majetkové sankcie;
+- h) vedome nadsadí alebo podhodnotí požiadavky v plánovacom alebo rozpočtovom procese, zatají zdroje a možnosti alebo vynúti výnimočné riešenie tým, že dôležitejšie potreby ponechá nezabezpečené a pohotovými zdrojmi pokryje menej naliehavé potreby;
 
-  - 8. napriek výzve na nápravu prekračuje rozsah predmetu činnosti alebo inak neoprávnene vyvíja hospodársku činnosť;
+- i) uvedie za účelom získania neoprávneného prospechu nesprávne údaje vo výkazoch, hláseniach alebo návrhoch slúžiacich riadeniu, plánovaniu, kontrole a hodnoteniu hospodárskej činnosti alebo určovaniu cien;
 
-  - 9. opätovne uskutočňuje dodávky bez včasného uzavretia hospodárskej zmluvy;
+- j) znevýhodňuje organizácie za to, že uplatňujú majetkovú zodpovednosť, najmä zodpovednosť za vady a majetkové sankcie;
 
-  - 10. sústavne dodáva vadné výrobky alebo neoprávnene presadzuje, pri uzavieraní zmluvy nižšiu akosť, než ustanovuje technická norma;
+- k) opätovne uskutočňuje dodávky bez včasného uzavretia hospodárskej zmluvy;
 
-  - 11. pripraví na odoslanie do zahraničia výrobky so závažnými nedostatkami;
+- l) sústavne dodáva vadné výrobky alebo neoprávnene presadzuje pri uzavieraní zmluvy nižšiu akosť, než ustanovuje technická norma;
 
-  - 12. sústavne porušuje povinnosť účtovať a vymáhať majetkové sankcie;
+- m) pripraví na odoslanie do zahraničia výrobky so závažnými nedostatkami;
 
-  - 13. opakovane fakturuje za ceny, ktoré sú v rozpore s cenovými predpismi alebo tieto ceny platí, fakturuje alebo platí dodávky, ktoré sa neuskutočnili alebo opakovane požaduje alebo platí splátky v rozpore s podmienkami ustanovenými na ich poskytovanie;
+- n) opakovane fakturuje za ceny, ktoré sú v rozpore s cenovými predpismi, alebo tieto ceny platí, fakturuje alebo platí dodávky, ktoré sa neuskutočnili, alebo opakovane požaduje alebo platí splátky v rozpore s podmienkami určenými na ich poskytovanie;
 
-  - 14. spôsobí, že sa doviezol stroj alebo zariadenie, ktorého potrebné využitie nebolo vopred zabezpečené, alebo sa doviezol s nežiadúcim časovým predstihom pred časom určeným na jeho využitie, alebo inak spôsobí vážnu ujmu devízovému hospodárstvu;
-
-- b) orgánu hospodárskeho riadenia, ktorý
-
-  - 1. nesplní povinnosť organizovať riadne prerokúvanie dodávateľsko-odberateľských vzťahov a pri ohrození úlohy štátneho plánu riešiť včas rozpory, ktoré vznikli pri tomto prerokúvaní v prípadoch ustanovených v § 114a ods. 3;
-
-  - 2. pri schvaľovaní dokumentácie stavieb poruší zákazy ustanovené právnymi predpismi;
-
-  - 3. dopustí sa niektorého z konaní uvedených pod písmenom a) v bodoch 5, 6 a 14.
+- o) spôsobí, že sa doviezol stroj alebo zariadenie, ktorého potrebné využitie nebolo vopred zabezpečené, alebo sa doviezol s nežiadúcim časovým predstihom pred časom určeným na jeho využitie, alebo inak spôsobí vážnu ujmu devízovému hospodárstvu.

@@ -1,5 +1,5 @@
 # § 73a
 
-(1) Pre príslušnosť k správe iných majetkových práv štátu platia ustanovenia § 72 obdobne.
+(1) Pre príslušnosť na výkon práva hospodárenia s inými majetkovými právami štátu obdobne platí ustanovenie § 72.
 
-(2) Organizácie sú povinné spravovať, využívať a zabezpečovať ďalšie účelné využívanie iných majetkových práv štátu včítane výsledkov výskumnej, vývojovej, projektovej a inej obdobnej činnosti spôsobom ustanoveným právnymi predpismi.
+(2) Organizácie sú povinné hospodáriť s inými majetkovými právami štátu, najmä tieto práva využívať a zabezpečovať ich ďalšie účelné využívanie spôsobom ustanoveným právnymi predpismi.

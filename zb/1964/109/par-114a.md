@@ -6,10 +6,8 @@
 
 - b) informovať dlhodobých odberateľov a dodávateľov v potrebnom predstihu o zámeroch v rozvoji výrobných, prípadne odbytových programov, v inovácii sortimentu a o výraznejších zmenách v predpokladanom rozsahu, sortimente alebo časovom členení dodávok a odberov a v závažnejších prípadoch ich s nimi prerokúvať.
 
-(2) V prípadoch, keď je právnym predpisom ustanovená najmä povinnosť prerokovať dodávateľsko-odberateľské vzťahy alebo keď takú povinnosť uložia príslušné orgány hospodárskeho riadenia, sú organizácie, prípadne orgány hospodárskeho riadenia povinné na základe podkladov určených na vypracovanie návrhu štátneho plánu uzavrieť rokovanie spísaním zápisnice o prerokovaní dodávateľsko-odberateľských vzťahov, prípadne uzavretím zmluvy o príprave dodávok.
+(2) V prípade, keď je právnym predpisom výslovne ustanovená obom organizáciám povinnosť prerokovať dodávateľsko-odberateľské vzťahy, sú organizácie povinné na základe podkladov určených na vypracovanie návrhu štátneho plánu tak urobiť a rokovanie ukončiť v rozsahu, v ktorom nie je rozporné, uzavretím zmluvy o príprave dodávok; v ostatných prípadoch sú povinné ukončiť rokovanie zápisnicou.
 
 (3) Orgány hospodárskeho riadenia sú povinné organizovať prerokovanie dodávateľsko-odberateľských vzťahov a v prípadoch, keď je toto prerokovanie ustanovené ako povinnosť podľa odseku 2, riešiť rozpory postupom a v lehotách, ktoré ustanovuje právny predpis alebo opatrenie príslušnej vlády.
 
-(4) Po schválení štátneho plánu sú organizácie i orgány hospodárskeho riadenia povinné vykonať nevyhnutné úpravy dodávateľsko-odberateľských vzťahov, pokiaľ vyplynú z potreby zabezpečiť úlohy štátneho plánu.
-
-(5) Vykonávací predpis ustanoví podrobnejšie postupy organizácií, prípadne orgánov podľa odsekov 1 až 4; môže tiež ustanoviť, či a v ktorých prípadoch majú povinnosti ustanovené v odsekoch 1, 2 a 4 organizačné jednotky alebo organizačné zložky socialistických organizácií.
+(4) Vykonávací predpis ustanoví podrobnejšie postupy organizácií pri prerokúvaní dodávateľsko-odberateľských vzťahov a spôsob odstraňovania rozporov.

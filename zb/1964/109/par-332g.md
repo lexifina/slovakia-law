@@ -1,3 +1,3 @@
 # § 332g
 
-Vykonávací predpis podrobnejšie upraví jednotlivé druhy zmlúv o vedecko-technických prácach a zmlúv o využívaní výsledkov vedecko-technických prác a záväzky z príkazov vydávaných nadriadenými orgánmi.
+Ustanovenia § 332f sa primerane použijú v prípadoch, keď predmetom plnenia je programové vybavenie počítačového systému, projekt automatizovaného systému riadenia alebo výrobnotechnické poznatky (know-how).
