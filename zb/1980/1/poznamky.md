@@ -2,12 +2,6 @@
 
 - 2) Zoznam povolených prípravkov na ochranu rastlín, ktorý vydáva Federálne ministerstvo poľnohospodárstva a výživy, a Metodická príručka na ochranu lesa, ktorú vydáva Ministerstvo lesného a vodného hospodárstva ČSR a Ministerstvo lesného a vodného hospodárstva SSR.
 
-- 3) § 96 ods. 1 zákona č. 122/1975 Zb. o poľnohospodárskom družstevníctve.
-
-- 4) § 13 vyhlášky č. 159/1975 Zb. o spolupráci v poľnohospodárstve a jej formách.
-
-- 5) § 18 zákona č. 61/1964 Zb. o rozvoji rastlinnej výroby.
-
 - 6) Predpis L 6 - Prevádzka lietadiel, I. a II. časť, vydaný Federálnym ministerstvom dopravy (registrovaný v čiastke 4/1973 Zb.).
 
 - Predpis L 2 - Pravidlá lietania, vydaný Federálnym ministerstvom dopravy (registrovaný v čiastke 4/1973 Zb.).
