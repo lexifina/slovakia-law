@@ -2,13 +2,13 @@
 
 - 2) § 1 zákona Slovenskej národnej rady č. 96/1991 Zb. o verejných kultúrnych podujatiach.
 
-- 3) Prvá skupina prílohy č. 1 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
+- 3) Prílohy č. 3 a 4 nariadenia vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nariadenia vlády Slovenskej republiky č. 232/1990 Zb.
 
 - 4) § 135 ods. 2 písm. b) Zákonníka práce.
 
 - 5) § 135 ods. 2 písm. g) Zákonníka práce.
 
-- 6) § 7 ods. 3 písm. f) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 6) § 13 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
