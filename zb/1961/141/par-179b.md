@@ -22,7 +22,9 @@
 
 - i) za podmienok ustanovených v § 76 môžu zadržať podozrivú osobu,
 
-- j) za podmienok ustanovených v § 78 a 79 môžu požadovať vydanie veci alebo odňať vec.
+- j) za podmienok ustanovených v § 78 až 81 môžu robiť rozhodnutia a opatrenia v týchto ustanoveniach naznačené,
+
+- k) za podmienok ustanovených v § 82 až 85 môžu vykonať domovú a osobnú prehliadku.
 
 (2) V priebehu objasňovania
 

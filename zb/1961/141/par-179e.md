@@ -20,4 +20,6 @@
 
 (2) Ak spolu so správou o výsledku objasňovania je prokurátorovi odovzdaná aj zadržaná osoba, odovzdá prokurátor túto osobu, pokiaľ ju neprepustí na slobodu, najneskôr do 48 hodín súdu spolu s návrhom na potrestanie. O väzbe rozhodne súd.
 
-(3) O opatreniach podľa odseku 1 písm. a) až d) prokurátor upovedomí vždy oznamovateľa.
+(3) Ak sa vykonávalo prípravné konanie spoločne o trestnom čine a prečine, podáva sa spoločná obžaloba pre trestný čin i pre prečin; ak sa vykonávalo prípravné konanie iba o prečine, podáva sa návrh na potrestanie.
+
+(4) O opatreniach podľa odseku 1 písm. a) až d) prokurátor upovedomí vždy oznamovateľa.

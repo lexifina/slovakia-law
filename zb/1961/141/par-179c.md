@@ -1,3 +1,5 @@
 # § 179c
 
-Ak sa v priebehu objasňovania objaví potreba vykonať niektorý zaisťovací úkon podľa štvrtej hlavy, s výnimkou zadržania podľa § 76, vydania a odňatia veci podľa § 78 a 79 alebo osobnej prehliadky podľa § 82 ods. 2 a 3, odovzdá orgán vykonávajúci objasňovanie, ak sú dôvody väzby, vec vyšetrovateľovi, inak orgánu vyhľadávania na začatie trestného stíhania a súčasne o tom upovedomí prokurátora.
+(1) Ak sa v priebehu objasňovania objaví, že sú dané dôvody väzby, odovzdá orgán vykonávajúci objasňovanie vec vyšetrovateľovi; ak treba zadržať a otvoriť zásielku, odovzdá vec vyhľadávaciemu orgánu. O týchto opatreniach upovedomí prokurátora.
+
+(2) Ak sú tu podmienky spoločného konania o trestnom čine a prečine, vykonáva sa vyšetrovanie alebo vyhľadávanie aj o prečine.
