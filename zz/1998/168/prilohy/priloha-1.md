@@ -36,15 +36,17 @@
 
       - b) „prevzaté vysielanie“ znamená súčasný príjem a vysielanie úplných a nezmenených televíznych programových služieb alebo ich podstatných častí prevádzkovateľom vysielania určených na príjem širokou verejnosťou bez ohľadu na použité technické prostriedky,
 
-      - c) „prevádzkovateľ vysielania“ znamená fyzickú osobu alebo právnickú osobu, ktorá vytvára skladbu televíznych programových služieb určených na príjem širokou verejnosťou a ktorá ich vysiela alebo dáva vysielať treťou osobou úplné a nezmenené,
+      - c) „vysielateľ" je fyzická osoba alebo právnická osoba, ktorá redakčne zodpovedá za skladbu televíznych programových služieb určených na príjem širokou verejnosťou, pričom ich prenáša sama alebo ich úplné a nezmenené necháva prenášať treťou stranou,
 
       - d) „programová služba“ znamená všetky zložky danej služby poskytovanej prevádzkovateľom vysielania v zmysle písmena c),
 
       - e) „európske audiovizuálne diela“ znamenajú tvorivé diela, ktorých produkciu alebo koprodukciu kontrolujú európske fyzické osoby alebo právnické osoby,
 
-      - f) „reklama“ znamená každý verejný oznam určený na podporu predaja, nákupu alebo prenájmu výrobku alebo služby, na propagáciu veci alebo myšlienky alebo na vyvolanie iného účinku sledovaného zadávateľom reklamy, na ktorý sa zadávateľovi reklamy za odplatu alebo za podobnú protihodnotu poskytol vysielací čas,
+      - f) „reklama" je každé verejné oznámenie vysielané za odplatu alebo podobnú protihodnotu alebo na propagáciu vlastných aktivít vysielateľa, pričom zámerom oznámenia je podporiť predaj, nákup alebo prenájom výrobkov či služieb, prezentovať zámer alebo myšlienku alebo dosiahnuť iný účinok sledovaný zadávateľom reklamy alebo vysielateľom,
 
-      - g) „sponzorovanie“ znamená účasť fyzickej osoby alebo právnickej osoby, ktorá sa nezaoberá vysielaním alebo produkciou audiovizuálnych diel, na priamom alebo na nepriamom financovaní relácie na účely propagácie svojho mena, firmy alebo značky.
+      - g) „telenákup" je vysielanie priamej ponuky pre verejnosť s cieľom dodávať za odplatu výrobky alebo služby vrátane nehnuteľného majetku, práv a záväzkov,
+
+      - h) „sponzorovanie“ znamená účasť fyzickej osoby alebo právnickej osoby, ktorá sa nezaoberá vysielaním alebo produkciou audiovizuálnych diel, na priamom alebo na nepriamom financovaní relácie na účely propagácie svojho mena, firmy alebo značky.
 
     - Článok 3 Rozsah pôsobnosti
 
@@ -54,23 +56,37 @@
 
       - Zmluvné strany zabezpečujú slobodu prejavu a informácie v súlade s článkom 10 Dohovoru o ochrane ľudských práv a základných slobôd, zaručujú slobodu príjmu a na svojom území nebudú obmedzovať prevzaté vysielanie programových služieb, ktoré sú v súlade s ustanoveniami tohto dohovoru.
 
-    - Článok 5 Povinnosti vysielajúcich zmluvných strán
+    - Článok 5 Povinnosti zmluvných vysielacích strán
 
-      - 1. Každá vysielajúca zmluvná strana vhodnými prostriedkami a prostredníctvom svojich príslušných orgánov zabezpečuje, aby všetky programové služby vysielané subjektmi alebo pomocou technických prostriedkov podliehajúcich jej jurisdikcii v zmysle článku 3 boli v súlade s ustanoveniami tohto dohovoru.
+      - 1. Každá zmluvná vysielacia strana zabezpečí, aby všetky programové služby vysielané vysielateľom podliehajúcim jej právnemu poriadku boli v súlade s ustanoveniami tohto dohovoru.
 
-      - 2. Na účely tohto dohovoru je vysielajúcou zmluvnou stranou
+      - 2. Na účely tohto dohovoru vysielateľom podliehajúcim právnemu poriadku zmluvnej strany je
 
-        - a) v prípade vysielania pozemnými vysielačmi zmluvná strana, ktorá je pôvodcom vysielania,
+    - - vysielateľ, ktorý má sídlo v príslušnej zmluvnej strane podľa odseku 3,
 
-        - b) v prípade družicového vysielania
+    - - vysielateľ, na ktorého sa vzťahuje odsek 4.
 
-          - i) zmluvná strana, v ktorej je umiestnená vysielacia stanica k družici,
+      - 3. Na účely tohto dohovoru sa za sídlo vysielateľa bude považovať zmluvná strana, ktorá sa ďalej označuje ako „vysielacia strana", v týchto prípadoch:
 
-          - ii) zmluvná strana, ktorá poskytne právo použiť frekvenciu alebo družicovú kapacitu, ak vysielacia stanica k družici je v štáte, ktorý nie je zmluvnou stranou tohto dohovoru,
+        - a) ak má vysielateľ svoj riadiaci orgán v danej zmluvnej strane, v ktorej prijíma aj rozhodnutia o skladbe programu,
 
-          - iii) zmluvná strana, v ktorej má prevádzkovateľ vysielania sídlo, ak zodpovednosť nie je určená podľa písmen i) a ii).
+        - b) ak má vysielateľ svoj riadiaci orgán v jednej zmluvnej strane, ale rozhodnutia o skladbe programu sa prijímajú v inej zmluvnej strane, za jeho sídlo sa bude považovať tá zmluvná strana, v ktorej je do televíznej vysielacej činnosti zapojená podstatná časť pracovníkov; ak je do televíznej vysielacej činnosti zapojená podstatná časť pracovníkov v oboch týchto zmluvných stranách, za sídlo vysielateľa sa považuje tá zmluvná strana, kde má vysielateľ riadiaci orgán; ak ani v jednej z uvedených zmluvných strán nie je do televíznej vysielacej činnosti zapojená podstatná časť pracovníkov, za sídlo vysielateľa sa považuje tá zmluvná strana, v ktorej po prvý raz začal vysielať v súlade s právnym poriadkom tejto zmluvnej strany, a to za predpokladu, že s hospodárstvom tejto zmluvnej strany udržiava stabilné a efektívne spojenie,
 
-      - 3. Ak sú programové služby vysielané zo štátov, ktoré nie sú zmluvnými stranami tohto dohovoru, prevzaté do vysielania subjektmi alebo technickými prostriedkami, ktoré podliehajú jurisdikcii zmluvnej strany v zmysle článku 3, táto strana ako vysielajúca strana bude vhodnými prostriedkami a prostredníctvom svojich príslušných orgánov dbať o súlad týchto služieb s ustanoveniami tohto dohovoru.
+        - c) ak má vysielateľ svoj riadiaci orgán v zmluvnej strane, ale rozhodnutia o skladbe programu sa prijímajú v štáte, ktorý nie je zmluvnou stranou tohto dohovoru, alebo, naopak, za sídlo vysielateľa sa považuje táto strana, a to za predpokladu, že v tejto zmluvnej strane je do televíznej vysielacej činnosti zapojená podstatná časť pracovníkov,
+
+        - d) ak v zmysle kritérií článku 2 ods. 3 smernice Európskeho parlamentu a Rady č. 97/36/EC z 19. júna 1997 pozmeňujúcej Smernicu Rady č. 89/552/EEC o koordinácii niektorých zákonných ustanovení, regulačných opatrení alebo administratívnych postupov členských štátov vzťahujúcich sa na aktivity v oblasti televízneho vysielania má vysielateľ sídlo v niektorom členskom štáte Európskeho spoločenstva, bude sa tento štát považovať za sídlo vysielateľa aj na účely tohto dohovoru.
+
+      - 4. Vysielateľ, na ktorého sa nedajú uplatniť ustanovenia odseku 3, sa považuje za podliehajúceho právnemu poriadku zmluvnej strany, nazývajúcou sa zmluvná vysielacia strana, v prípadoch, ak:
+
+        - a) využíva kmitočet pridelený touto zmluvnou stranou,
+
+        - b) nevyužíva kmitočet pridelený zmluvnou stranou, ale využíva družicovú kapacitu, ktorá tejto zmluvnej strane patrí,
+
+        - c) nevyužíva ani kmitočet pridelený zmluvnou stranou, ani družicovú kapacitu patriacu zmluvnej strane, ale využíva vzostupný signál k družici z telekomunikačného zariadenia umiestneného na území tejto zmluvnej strany.
+
+      - 5. Ak sa zmluvná vysielacia strana nedá určiť ani podľa odseku 4, Stály výbor sa bude zaoberať týmto problémom podľa článku 21 ods. 1 písm. a) tohto dohovoru, aby predmetnú zmluvnú stranu určil.
+
+      - 6. Tento dohovor sa nevzťahuje na televízne vysielanie určené výhradne na príjem v štátoch, ktoré nie sú zmluvnými stranami tohto dohovoru, a na televízne vysielanie, ktoré nie je priamo alebo nepriamo dostupné verejnosti v jednej alebo vo viacerých zmluvných stranách.
 
     - Článok 6 Poskytovanie informácií
 
@@ -96,95 +112,133 @@
 
     - Článok 8 Právo na odpoveď
 
-      - 1. Každá vysielajúca zmluvná strana zabezpečí, aby každá fyzická osoba alebo právnická osoba bez ohľadu na štátnu príslušnosť alebo na trvalý pobyt mohla uplatniť právo na odpoveď alebo domáhať sa inej porovnateľnej právnej alebo administratívnej nápravy v súvislosti s reláciami vysielanými alebo prevzatými do vysielania subjektmi alebo pomocou technických prostriedkov podliehajúcich jej jurisdikcii v zmysle článku 3. Zabezpečí najmä to, aby časové zaradenie a iné náležitosti výkonu práva na odpoveď umožnili účinný výkon tohto práva. Účinný výkon tohto práva alebo inej porovnateľnej právnej či administratívnej nápravy sa musí zabezpečiť z hľadiska časového zaradenia i formy.
+      - 1. Každá zmluvná vysielacia strana zabezpečí, aby každá fyzická osoba alebo právnická osoba bez ohľadu na štátnu príslušnosť alebo miesto trvalého bydliska mala možnosť uplatniť právo na odpoveď alebo domáhať sa iného primeraného opravného prostriedku, či už zákonného, alebo správneho, vo vzťahu k programom vysielaným vysielateľom podliehajúcim právnemu poriadku tejto zmluvnej strany podľa článku 5. Osobitne zabezpečí, aby časové lehoty a iné úpravy na uplatnenie práva na odpoveď umožnili účinný výkon tohto práva. Účinný výkon tohto práva alebo iných primeraných zákonných alebo správnych opravných prostriedkov musí sa zabezpečiť tak z hľadiska časovej lehoty, ako i spôsobov uplatnenia.
 
-      - 2. Meno prevádzkovateľa vysielania zodpovedného za programovú službu sa na tento účel uvádza v pravidelných intervaloch vhodnými prostriedkami.
+      - 2. S týmto cieľom sa v pravidelných intervaloch a vhodnými prostriedkami v programovom výstupe označuje názov programovej služby alebo vysielateľa zodpovedného za túto programovú službu.
 
-    - Článok 9 Prístup verejnosti k významným podujatiam
+    - Článok 9 Prístup verejnosti k informáciám
 
-      - Každá zmluvná strana zváži právne opatrenia, ktoré by vylúčili spochybnenie práva verejnosti na informácie výkonom výhradných práv prevádzkovateľa vysielania na vysielanie alebo na prevzaté vysielanie podujatí veľmi dôležitých pre verejnosť podľa článku 3, čo by spôsobilo ukrátenie podstatnej časti verejnosti v jednej alebo vo viacerých zmluvných stranách o možnosť sledovať takéto udalosti v televízii.
+      - Každá zmluvná strana preskúma a, ak je to potrebné, prijme také zákonné opatrenie, akým je zavedenie práva na krátke spravodajstvo o podujatiach, ktoré sú predmetom širokého záujmu verejnosti, aby verejnosti nebolo upreté právo na informácie v dôsledku toho, že si vysielateľ podliehajúci právnemu poriadku zmluvnej strany uplatní výhradné práva na vysielanie alebo retransmisiu z tohto podujatia podľa článku 3.
+
+    - Článok 9a Prístup k podujatiam významným pre verejnosť
+
+      - 1. Každá zmluvná strana si ponecháva právo prijať opatrenia, ktorými zabezpečí, že vysielatelia podliehajúci jej právnemu poriadku nebudú na základe výhradných práv vysielať prenosy z podujatí, považované dotyčnou zmluvnou stranou za významné pre verejnosť, takým spôsobom, ktorý by podstatnú časť verejnosti v tejto zmluvnej strane zbavil možnosti sledovať takéto podujatia v priamom prenose alebo zo záznamu vo voľne dostupnom vysielaní. Ak zmluvná strana toto právo využije, môže zostaviť zoznam podujatí, ktoré považuje za významné pre verejnosť.
+
+      - 2. Zmluvné strany vhodnými prostriedkami a pri rešpektovaní právnych záruk vyplývajúcich z Dohovoru o ochrane ľudských práv a základných slobôd, ako aj pri rešpektovaní ústavy štátu, ak je to potrebné, zabezpečia, aby si vysielateľ podliehajúci právomoci týchto strán neuplatňoval výhradné práva zakúpené ním po termíne nadobudnutia účinnosti tohto protokolu takým spôsobom, že podstatná časť verejnosti inej zmluvnej strany bude zbavená možnosti sledovať podujatia, ktoré boli určené touto druhou zmluvnou stranou na priamy prenos v celom rozsahu alebo čiastočne, alebo tam, kde je to potrebné alebo vhodné z objektívnych dôvodov verejného záujmu, zo záznamu v celom rozsahu alebo čiastočne vo voľne dostupnej televízii, ako určí táto druhá zmluvná strana podľa odseku 1, pri rešpektovaní týchto požiadaviek:
+
+        - a) zmluvná strana, ktorá realizuje opatrenia v súlade s odsekom 1, vypracuje zoznam domácich alebo zahraničných podujatí, ktoré táto zmluvná strana považuje za významné pre verejnosť,
+
+        - b) zmluvná strana toto uskutoční jasným a transparentným spôsobom a v náležitom, splniteľnom časovom predstihu,
+
+        - c) zmluvná strana určí, či tieto podujatia budú dostupné úplným alebo čiastočným priamym prenosom alebo, kde je to potrebné alebo vhodné z objektívnych dôvodov verejného záujmu, úplne alebo čiastočne zo záznamu,
+
+        - d) opatrenia prijaté zmluvnou stranou, ktorá vypracúva zoznam podujatí, musia byť vyvážené a podrobné, aby iné zmluvné strany mohli prijať opatrenia uvedené v tomto odseku,
+
+        - e) zmluvná strana, ktorá vypracúva zoznam podujatí, ho spolu so sprievodnými opatreniami predloží Stálemu výboru v lehote, ktorú určí Stály výbor,
+
+        - f) opatrenia prijaté zmluvnou stranou, ktorá vypracúva zoznam podujatí, musia zodpovedať smerniciam Stáleho výboru uvedeným v odseku 3, pričom je potrebné pozitívne stanovisko Stáleho výboru k týmto opatreniam. Opatrenia prijaté podľa tohto odseku sa môžu vzťahovať len na tie podujatia, ktoré Stály výbor každoročne uverejní vo svojom súpise podujatí z jednotlivých zoznamov uvedenom v odseku 3, a na tie výhradné práva, ktoré boli zakúpené po nadobudnutí platnosti tohto pozmeňujúceho protokolu.
+
+      - 3. Stály výbor bude raz do roka
+
+        - a) uverejňovať súhrnný súpis zaradených podujatí a sprievodných opatrení oznámených zmluvnými stranami v súlade s odsekom 2 písm. e),
+
+        - b) vypracúvať smernice, ktoré musia byť prijaté trojštvrtinovou väčšinou členov, ako dodatok k požiadavkám vymenovaným v odseku 2 písm. a) až e), aby sa zabránilo rozdielom medzi uplatňovaním tohto článku a príslušných ustanovení Európskeho spoločenstva.
 
     - Článok 10 Kultúrne ciele
 
-      - 1. Každá vysielajúca zmluvná strana vhodnými prostriedkami a s prihliadnutím na možnosti zabezpečí, aby prevádzkovatelia vysielania vyhradili európskym dielam väčšinový podiel svojho vysielacieho času s výnimkou času venovaného informáciám, športovým podujatiam, hrám, reklame alebo teletextovým službám. Tento podiel vzhľadom na zodpovednosť prevádzkovateľa vysielania voči verejnosti v oblasti informácií, výchovy, kultúry a zábavy sa má dosiahnuť postupne na základe vhodných kritérií.
+      - 1. Každá zmluvná vysielacia strana zabezpečí tam, kde je to uskutočniteľné a vhodnými prostriedkami, aby vysielateľ podliehajúci jej právnemu poriadku vymedzil pre európske diela väčšinový podiel svojho vysielacieho času, do ktorého sa však nezahŕňa čas venovaný spravodajstvu, športovým podujatiam, súťažno-zábavným programom, reklame, teletextovým službám a telenákupu. Vzhľadom na zodpovednosť vysielateľa voči svojim divákom v oblasti informácií, vzdelávania, kultúry a zábavy sa má tento podiel dosiahnuť postupne, na základe vhodných kritérií.
 
       - 2. V prípade sporu medzi prijímajúcou zmluvnou stranou a vysielajúcou zmluvnou stranou o uplatňovaní odseku 1 možno sa na požiadanie jednej zmluvnej strany obrátiť na Stály výbor pre cezhraničnú televíziu (ďalej len „stály výbor“), aby k sporu formuloval poradné stanovisko. Takýto spor nemožno postúpiť na rozhodcovské konanie podľa článku 26.
 
       - 3. Zmluvné strany sa zaväzujú, že spoločne a bez toho, aby robili rozdiely medzi prevádzkovateľmi vysielania, budú hľadať najvhodnejšie nástroje a postupy na podporu, činnosť a rozvoj európskej produkcie najmä v krajinách s nízkou kapacitou audiovizuálnej produkcie alebo s obmedzeným priestorom použitia jazyka.
 
-      - 4. V duchu spolupráce a vzájomnej pomoci, ktorá je vlastná tomuto dohovoru, budú sa zmluvné strany usilovať o to, aby programové služby vysielané alebo prevzaté do vysielania subjektmi alebo pomocou technických prostriedkov podliehajúcich ich jurisdikcii v zmysle článku 3 neohrozovali pluralitu tlače a rozvoj kinematografického priemyslu. Preto ak nie je medzi držiteľmi práv na kinematografické diela a prevádzkovateľmi vysielania dohodnuté inak, nesmú sa tieto diela vysielať v programových službách skôr ako dva roky po ich prvom uvedení do kín. V prípade, že by kinematografické diela boli vyrobené v koprodukcii s prevádzkovateľom vysielania, táto lehota je jeden rok.
+      - 4. Zmluvné strany zabezpečia, aby vysielateľ podliehajúci ich právnemu poriadku nevysielal kinematografické diela inak, ako je dohodnuté s vlastníkmi autorských práv.
 
-  - KAPITOLA III REKLAMA
+    - Článok 10a Mediálny pluralizmus
+
+      - V duchu spolupráce a vzájomnej pomoci, na ktorých je tento dohovor založený, zmluvné strany vytvoria právne podmienky, aby programové služby vysielané vysielateľom alebo programové služby prevzaté inými právnickými osobami alebo fyzickými osobami podliehajúcimi právnemu poriadku týchto zmluvných strán v súlade s článkom 3 neohrozovali mediálny pluralizmus.
+
+  - KAPITOLA III REKLAMA A TELENÁKUP
 
     - Článok 11 Všeobecné normy
 
-      - 1. Každá reklama musí byť nezaujatá a čestná.
+      - 1. Reklama a telenákup musia byť slušné a čestné.
 
-      - 2. Reklama nesmie byť klamlivá a poškodzovať záujmy spotrebiteľov.
+      - 2. Reklama a telenákup nesmú byť zavádzajúce a poškodzovať záujmy spotrebiteľov.
 
-      - 3. Reklama určená deťom alebo reklama, v ktorej vystupujú deti, nesmie poškodzovať záujmy detí a musí zohľadňovať ich osobitnú vnímavosť.
+      - 3. Reklama a telenákup určené deťom alebo s účasťou detí sa musia vyhnúť všetkému, čo by mohlo poškodiť ich záujmy a musia mať na zreteli ich osobitnú vnímavosť.
 
-      - 4. Zadávateľ reklamy nesmie redakčne ovplyvňovať obsah programov.
+      - 4. Telenákup nesmie vyzývať maloletých a mladistvých na objednávku, na kúpu alebo prenájom výrobkov a služieb.
+
+      - 5. Zadávateľ reklamy nesmie vyvíjať nijaký redakčný nátlak na obsah programov.
 
     - Článok 12 Časový rozsah
 
-      - 1. Vysielací čas vyhradený reklame nesmie presiahnuť 15 % denného vysielacieho času. Toto percento sa však môže zvýšiť na 20 %, ak zahŕňa aj také formy reklamy, ako sú priame ponuky predaja, kúpy alebo prenájmu výrobkov, alebo poskytovania služieb verejnosti, pod podmienkou, že časový rozsah reklamných šotov nepresiahne 15 %.
+      - 1. Podiel telenákupných spotov, reklamných spotov a iných foriem reklamy okrem telenákupných okien v zmysle odseku 3 nesmie presiahnuť 20 % denného vysielacieho času. Vysielanie reklamných spotov nesmie presiahnuť 15 % denného vysielacieho času.
 
-      - 2. Vysielací čas vyhradený reklamným šotom v priebehu jednej hodiny nesmie presiahnuť 20 %.
+      - 2. Podiel reklamných a telenákupných spotov v rámci pevnej hodiny nesmie presiahnuť 20 %.
 
-      - 3. Také formy reklamy, ako sú priame ponuky predaja, kúpy alebo prenájmu výrobkov, alebo poskytovania služieb verejnosti, nesmú presiahnuť jednu hodinu denne.
+      - 3. Telenákupné okná vysielané v rámci programových služieb, ktoré nie sú výhradne zamerané na telenákup, musia bez prerušenia trvať minimálne 15 minút. Takých telenákupných okien možno odvysielať v priebehu dňa maximálne osem. Ich celkový časový rozsah nesmie v priebehu jedného dňa presiahnuť 3 hodiny. Musia byť jasne označené optickými a zvukovými prostriedkami.
 
-    - Článok 13 Forma a uvádzanie
+      - 4. Na účely tohto článku sa pod reklamu nezahŕňajú
 
-      - 1. Reklama musí byť jasne rozoznateľná a musí byť zreteľne oddelená od iných zložiek programovej služby optickými alebo zvukovými prostriedkami. V zásade sa má vysielať v blokoch.
+      - - oznámenia vysielateľa v súvislosti s jeho vlastnými programami a dodatočnými produktmi priamo odvodenými z týchto programov,
 
-      - 2. Reklama využívajúca podprahové vnímanie je zakázaná.
+      - - oznámenia vo verejnom záujme a charitatívne výzvy vysielané bez odplaty.
 
-      - 3. Skrytá reklama je zakázaná, najmä predvádzanie výrobkov alebo služieb v reláciách na účely reklamy.
+    - Článok 13 Forma a spôsob uvádzania
 
-      - 4. V reklame nesmú ani vizuálne, ani verbálne účinkovať osoby, ktoré pravidelne uvádzajú spravodajské a publicistické relácie.
+      - 1. Reklama a telenákup musia byť rozoznateľné a ako také zreteľne oddelené od iných častí programovej služby optickými a/alebo zvukovými prostriedkami. V zásade sa reklamné a telenákupné spoty vysielajú v blokoch.
 
-    - Článok 14 Zaraďovanie reklamy
+      - 2. Reklama a telenákup nesmú narábať s technikami využívajúcimi podprahové vnímanie.
 
-      - 1. Reklama sa musí zaraďovať medzi jednotlivé relácie. Za predpokladu splnenia podmienok uvedených v odsekoch 2 až 5 reklamu možno zaradiť aj do relácií tak, aby nenarúšala celistvosť a hodnotu relácií a aby nepoškodzovala práva držiteľov práv.
+      - 3. Skrytá reklama a telenákup nie sú prípustné, osobitne predvádzanie výrobkov alebo predstavovanie služieb v programoch, ak sa tým sledujú reklamné ciele.
 
-      - 2. V reláciách zložených zo samostatných častí alebo v športových reláciách, udalostiach a v programoch podobnej štruktúry s prestávkami sa môže reklama zaraďovať iba medzi samostatné časti alebo v prestávkach.
+      - 4. V reklame a telenákupe nesmú ani v obraze, ani vo zvuku účinkovať osoby, ktoré pravidelne uvádzajú spravodajské a publicistické programy.
 
-      - 3. Vysielanie audiovizuálnych diel, ako sú celovečerné kinematografické filmy a televízne filmy (s výnimkou seriálov, hraných seriálov, zábavných relácií a dokumentárnych filmov), možno prerušiť raz po každom úplnom 45-minútovom úseku, ak ich časový rozsah presahuje 45 minút. Ďalšie prerušenie je povolené, ak sú tieto diela aspoň o 20 minút dlhšie ako úplné dve alebo viaceré 45-minútové časti.
+    - Článok 14 Zaraďovanie reklamy a telenákupu
 
-      - 4. Ak sú relácie, na ktoré sa nevzťahuje odsek 2, prerušené reklamou, pred každým prerušením relácie by malo uplynúť aspoň 20 minút.
+      - 1. Reklama a telenákup sa zaraďujú medzi jednotlivé programy. Za podmienok ustanovených v odsekoch 2 až 5 tohto článku možno reklamné a telenákupné spoty zaraďovať aj v priebehu programov tak, aby nenarúšali ich celistvosť a hodnotu a aby neboli poškodené práva vlastníkov práv.
 
-      - 5. Reklamu nemožno zaradiť do žiadneho vysielania bohoslužieb. Spravodajské, publicistické, dokumentárne, náboženské relácie a relácie pre deti s časovým rozsahom menej ako 30 minút nemožno prerušiť reklamou. Ak je ich časový rozsah najmenej 30 minút, uplatňujú sa ustanovenia odsekov 1 až 4.
+      - 2. V programoch zložených zo samostatných častí alebo v športových programoch a pri prenosoch podujatí a vystúpení s podobnou štruktúrou, ktorých súčasťou sú prestávky, možno reklamné alebo telenákupné spoty zaraďovať len medzi jednotlivé časti alebo počas prestávok.
 
-    - Článok 15 Reklama na niektoré výrobky
+      - 3. Vysielanie audiovizuálnych diel, ako sú hrané celovečerné filmy a televízne filmy (okrem sérií, seriálov, zábavných a dokumentárnych relácií), ktorých plánovaná dĺžka presahuje 45 minút, možno prerušiť raz v priebehu každého časového úseku s plnou dĺžkou 45 minút. Ak plánovaná dĺžka týchto diel presahuje dva alebo viacero úplných 45-minútových úsekov najmenej o 20 minút, je povolené ďalšie prerušenie.
 
-      - 1. Reklama na tabakové výrobky je zakázaná.
+      - 4. Ak programy, ktoré nepatria pod odsek 2, prerušujú reklamné alebo telenákupné spoty, medzi jednotlivými reklamnými a telenákupnými vstupmi do programu musí uplynúť najmenej 20 minút.
 
-      - 2. Reklama na alkoholické nápoje všetkých druhov podlieha týmto pravidlám:
+      - 5. Reklama a telenákup sa nesmú vkladať do vysielania bohoslužieb. Spravodajské a publicistické programy, dokumentárne, náboženské a detské programy trvajúce kratšie než 30 minút sa nesmú prerušovať reklamou alebo telenákupom. Pri plánovanej dĺžke nad 30 minút platia ustanovenia predchádzajúcich odsekov.
 
-        - a) nesmie byť adresovaná najmä maloletým a mladistvým; pritom žiadna osoba, ktorú možno považovať za maloletú a mladistvú, sa nesmie v reklame dávať do súvislosti so spotrebou alkoholických nápojov,
+    - Článok 15 Reklama a telenákup niektorých výrobkov
 
-        - b) nesmie dávať do súvislosti spotrebu alkoholu s telesnými výkonmi alebo s riadením motorového vozidla,
+      - 1. Reklama a telenákup tabakových výrobkov sa zakazujú.
 
-        - c) nesmie tvrdiť, že alkoholické nápoje majú liečebné vlastnosti, povzbudzujúci alebo sedatívny účinok alebo že pomáhajú riešiť osobné problémy,
+      - 2. Reklama a telenákup alkoholických nápojov všetkých druhov musia spĺňať tieto pravidlá:
 
-        - d) nesmie nabádať k nestriedmemu požívaniu alkoholických nápojov alebo stavať abstinenciu či triezvosť do záporného svetla,
+        - a) osobitne sa nesmú adresovať maloletým a mladistvým, pričom nijaká osoba v súvislosti so spotrebou alkoholických nápojov nesmie vyzerať ako maloletá alebo mladistvá,
 
-        - e) nesmie neprimerane zdôrazňovať obsah alkoholu v nápojoch.
+        - b) nesmú spájať požívanie alkoholu s fyzickým výkonom alebo riadením automobilu,
+
+        - c) nesmú vnucovať myšlienku, že alkoholické nápoje majú liečebné vlastnosti, povzbudzujúci či utišujúci účinok, alebo že môžu vyriešiť osobné problémy,
+
+        - d) nesmú podporovať nestriedme požívanie alkoholických nápojov alebo vytvárať negatívny obraz o abstinencii či striedmosti,
+
+        - e) nesmú neprimerane zdôrazňovať obsah alkoholu v nápojoch.
 
       - 3. Reklama na lieky a liečebné postupy, ktoré sú na území vysielajúcej zmluvnej strany dostupné len na lekársky predpis, je zakázaná.
 
       - 4. Reklama na iné lieky a liečebné postupy musí byť jasne rozoznateľná, musí byť nezaujatá, pravdivá a overiteľná a musí byť v súlade s požiadavkou ochrany jednotlivca pred poškodením.
 
-    - Článok 16 Reklama zameraná na konkrétnu zmluvnú stranu
+      - 5. Telenákup zameraný na lieky a liečebné postupy sa zakazuje.
 
-      - 1. Aby sa zabránilo nečestnej súťaži a ohrozeniu televízneho systému zmluvnej strany, reklamy, ktoré sú s určitou pravidelnosťou a špecificky zamerané na publikum zmluvnej strany, ktorá nie je vysielajúcou stranou, nesmú obchádzať pravidlá televíznej reklamy tejto zmluvnej strany.
+    - Článok 16 Reklama a telenákup zamerané na konkrétnu zmluvnú stranu
 
-      - 2. Ustanovenia odseku 1 sa neuplatňujú, ak
+      - 1. S cieľom zabrániť porušovaniu hospodárskej súťaže a ohrozeniu televízneho trhu zmluvnej strany reklama a telenákup, ktoré sú špecificky a s určitou pravidelnosťou zamerané na divákov konkrétnej zmluvnej strany, ktorá nie je vysielacou stranou, nesmú obchádzať pravidlá televíznej reklamy a telenákupu tejto zmluvnej strany.
 
-        - a) dané pravidlá vytvárajú rozdiely medzi reklamami vysielanými subjektmi alebo pomocou technických prostriedkov podliehajúcich jurisdikcii tejto zmluvnej strany a reklamami vysielanými subjektmi alebo pomocou technických prostriedkov podliehajúcich jurisdikcii inej zmluvnej strany alebo
+      - 2. Ustanovenia odseku 1 neplatia, ak
 
-        - b) dotknuté strany uzavreli v tejto oblasti bilaterálne alebo multilaterálne dohody.
+        - a) uvedené pravidlá pôsobia diskriminačne vo vzťahu reklamy a telenákupu vysielanými vysielateľmi podliehajúcimi právnemu poriadku jednej zmluvnej strany a reklamy a telenákupu, vysielanými vysielateľmi podliehajúcimi právnemu poriadku inej zmluvnej strany,
+
+        - b) dotknuté zmluvné strany uzavreli v tejto oblasti dvojstranné alebo viacstranné dohody.
 
   - KAPITOLA IV SPONZOROVANIE
 
@@ -198,9 +252,25 @@
 
     - Článok 18 Zakázané sponzorovanie
 
-      - 1. Relácie nesmú byť sponzorované fyzickými osobami alebo právnickými osobami, ktorých hlavnou činnosťou je výroba alebo predaj výrobkov, alebo poskytovanie služieb, ktorých reklama je zakázaná podľa článku 15.
+      - 1. Programy nesmú sponzorovať fyzické osoby alebo právnické osoby, ktorých hlavnou činnosťou je výroba alebo predaj výrobkov alebo poskytovanie služieb, na ktoré sa podľa článku 15 vzťahuje zákaz reklamy a telenákupu.
 
-      - 2. Sponzorovanie spravodajských a publicistických relácií je zakázané.
+      - 2. Spoločnosti, ktorých činnosť zahŕňa okrem iného výrobu alebo predaj liekov a liečebných postupov, môžu sponzorovať programy propagovaním názvu, obchodnej značky, imidžu alebo vlastných činností okrem akejkoľvek zmienky o liekoch alebo špecifických liečebných postupoch, ktoré sú v zmluvnej vysielacej strane dostupné iba na lekársky predpis.
+
+      - 3. Sponzorovanie spravodajských a publicistických relácií je zakázané.
+
+  - KAPITOLA IVa PROGRAMOVÉ SLUŽBY URČENÉ VÝHRADNE NA PROPAGÁCIU VLASTNÝCH AKTIVÍT ALEBO TELENÁKUP
+
+    - Článok 18a Programové služby určené výhradne na propagáciu vlastných aktivít
+
+      - 1. Ustanovenia tohto dohovoru sa s príslušnými potrebnými zmenami vzťahujú na programové služby určené výhradne na propagáciu vlastných aktivít.
+
+      - 2. Tieto služby môžu používať iné formy reklamy za podmienok ustanovených v článku 12 ods. 1 a 2.
+
+    - Článok 18b Programové služby určené výhradne na telenákup
+
+      - 1. Ustanovenia tohto dohovoru sa s príslušnými potrebnými zmenami vzťahujú na programové služby určené výhradne na telenákup.
+
+      - 2. Reklama je v týchto službách prípustná za podmienok ustanovených v článku 12 ods. 1; v článku 12 ods. 2 sa neuplatňuje.
 
   - KAPITOLA V VZÁJOMNÁ POMOC
 
@@ -230,41 +300,43 @@
 
       - 1. Na účely tohto dohovoru je zriadený stály výbor.
 
-      - 2. Každú zmluvnú stranu môže v stálom výbore zastupovať jeden alebo viacerí delegáti. Každá delegácia má jeden hlas. V oblastiach svojej kompetencie Európske hospodárske spoločenstvo uplatňuje svoje hlasovacie právo počtom hlasov rovnajúcim sa počtu členských štátov, ktoré sú zmluvnými stranami tohto dohovoru; Európske hospodárske spoločenstvo neuplatňuje svoje hlasovacie právo v prípadoch, keď hlasujú jeho členské štáty, a naopak.
+      - 2. Každú zmluvnú stranu môže v stálom výbore zastupovať jeden alebo viacerí delegáti. Každá delegácia má jeden hlas. V oblastiach svojej kompetencie Európske spoločenstvo uplatňuje svoje hlasovacie právo počtom hlasov rovnajúcim sa počtu členských štátov, ktoré sú zmluvnými stranami tohto dohovoru; Európske spoločenstvo neuplatňuje svoje hlasovacie právo v prípadoch, keď hlasujú jeho členské štáty, a naopak.
 
       - 3. Každý štát, na ktorý sa vzťahuje článok 29 ods. 1, ktorý nie je zmluvnou stranou tohto dohovoru, môže byť zastúpený v stálom výbore jedným pozorovateľom.
 
-      - 4. Stály výbor sa pri výkone svojej funkcie môže obracať na expertov. Môže z vlastnej iniciatívy alebo na žiadosť dotknutého subjektu vyzvať ktorúkoľvek národnú alebo medzinárodnú, vládnu alebo mimovládnu organizáciu odborne kvalifikovanú v oblastiach, ktorých sa tento dohovor týka, aby ju zastupoval pozorovateľ na niektorom jeho zasadaní alebo na jeho časti. Rozhodnutie pozvať takýchto expertov alebo členov organizácií sa prijíma trojštvrtinovou väčšinou členov stáleho výboru.
+      - 4. Stály výbor sa pri výkone svojej funkcie môže obracať na expertov. Môže z vlastnej iniciatívy alebo na žiadosť dotknutého subjektu vyzvať ktorúkoľvek národnú alebo medzinárodnú, vládnu alebo mimovládnu organizáciu odborne kvalifikovanú v oblastiach, ktorých sa tento dohovor týka, aby ju zastupoval pozorovateľ na niektorom jeho zasadaní alebo na jeho časti.
 
       - 5. Stály výbor zvoláva generálny tajomník. Jeho prvé zasadanie sa uskutoční do šiestich mesiacov odo dňa nadobudnutia platnosti dohovoru. Potom sa schádza vždy, ak o to požiada jedna tretina zmluvných strán alebo Výbor ministrov Rady Európy (ďalej len „Výbor ministrov“), z iniciatívy generálneho tajomníka v súlade s ustanoveniami článku 23 ods. 2 alebo aj na požiadanie jednej či viacerých zmluvných strán v súlade s ustanoveniami článku 21 písm. c) a článku 25 ods. 2.
 
       - 6. Stály výbor je schopný uznášať sa, ak je prítomná nadpolovičná väčšina zmluvných strán.
 
-      - 7. Podľa ustanovení odseku 4 a článku 23 ods. 3 sa rozhodnutia stáleho výboru prijímajú trojštvrtinovou väčšinou prítomných členov.
+      - 7. Podľa ustanovení článku 9a ods. 3 písm. b) a článku 23 ods. 3 sa rozhodnutia Stáleho výboru prijímajú trojštvrtinovou väčšinou prítomných členov.
 
       - 8. Podľa ustanovení tohto dohovoru si stály výbor vypracuje svoj rokovací poriadok.
 
-    - Článok 21 Funkcie stáleho výboru Stály výbor je poverený sledovať uplatňovanie tohto dohovoru. Môže
+    - Článok 21 Funkcie stáleho výboru
 
-    - a)
+      - (1) Stály výbor je poverený sledovať uplatňovanie tohto dohovoru. Môže
 
-    - dávať odporúčania zmluvným stranám, pokiaľ ide o uplatňovanie dohovoru,
+        - a) dávať odporúčania zmluvným stranám, pokiaľ ide o uplatňovanie dohovoru,
 
-    - b)
+        - b) navrhovať potrebné novelizácie dohovoru a skúmať tie, ktoré sa navrhujú v súlade s ustanoveniami článku 23,
 
-    - navrhovať potrebné novelizácie dohovoru a skúmať tie, ktoré sa navrhujú v súlade s ustanoveniami článku 23,
+        - c) na požiadanie jednej alebo viacerých zmluvných strán posudzovať otázky týkajúce sa výkladu tohto dohovoru,
 
-    - c)
+        - d) urobiť všetko pre to, aby sa všetky problémy, ktoré sa mu oznámia podľa ustanovení článku 25, riešili zmierom,
 
-    - na požiadanie jednej alebo viacerých zmluvných strán posudzovať otázky týkajúce sa výkladu tohto dohovoru,
+        - e) dávať odporúčania Výboru ministrov, aby boli na pristúpenie k tomuto dohovoru prizvané štáty, na ktoré sa nevzťahuje článok 29 ods. 1,
 
-    - d)
+        - f) predkladať stanoviská k porušovaniu práv podľa článku 24a ods. 2 písm. c).
 
-    - urobiť všetko pre to, aby sa všetky problémy, ktoré sa mu oznámia podľa ustanovení článku 25, riešili zmierom,
+      - 2. Okrem uvedeného v odseku 1 Stály výbor
 
-    - e)
+        - a) vypracúva smernice podľa článku 9a ods. 3 písm. b) s cieľom zamedziť odlišnostiam medzi uplatňovaním ustanovení tohto dohovoru, týkajúcich sa prístupu verejnosti k spoločensky významným podujatiam, a zodpovedajúcich ustanovení Európskeho spoločenstva,
 
-    - dávať odporúčania Výboru ministrov, aby boli na pristúpenie k tomuto dohovoru prizvané štáty, na ktoré sa nevzťahuje článok 29 ods. 1,
+        - b) predkladá stanovisko k opatreniam zmluvných strán, ktoré vypracovali zoznam domácich alebo zahraničných podujatí považovaných týmito zmluvnými stranami za spoločensky významné v súlade s článkom 9a ods. 2,
+
+        - c) raz do roka uverejňuje súhrnný súpis podujatí z jednotlivých zoznamov a príslušných opatrení oznámených zmluvnými stranami v súlade s článkom 9a ods. 2 písm. e).
 
     - Článok 22 Správy stáleho výboru
 
@@ -276,9 +348,13 @@
 
       - 1. Každá zmluvná strana môže podať doplňujúce návrhy k tomuto dohovoru.
 
-      - 2. Každý doplňujúci návrh sa predkladá generálnemu tajomníkovi, ktorý o ňom informuje členské štáty Rady Európy, iné zmluvné štáty Európskeho kultúrneho dohovoru, Európske hospodárske spoločenstvo a každý nečlenský štát, ktorý v súlade s ustanoveniami článku 30 pristúpil alebo bol prizvaný pristúpiť k tomuto dohovoru. Generálny tajomník zvolá zasadanie stáleho výboru najskôr dva mesiace po oboznámení sa s doplňujúcim návrhom.
+      - 2. Každý doplňujúci návrh sa predkladá generálnemu tajomníkovi, ktorý o ňom informuje členské štáty Rady Európy, iné zmluvné štáty Európskeho kultúrneho dohovoru, Európske spoločenstvo a každý nečlenský štát, ktorý v súlade s ustanoveniami článku 30 pristúpil alebo bol prizvaný pristúpiť k tomuto dohovoru. Generálny tajomník zvolá zasadanie stáleho výboru najskôr dva mesiace po oboznámení sa s doplňujúcim návrhom.
 
       - 3. Stály výbor preskúma každý doplňujúci návrh a po jeho prijatí trojštvrtinovou väčšinou členov stáleho výboru ho predloží Výboru ministrov na schválenie. Po tomto schválení sa text odovzdá na prijatie zmluvným stranám.
+
+      - 5. Výbor ministrov môže však po konzultácii so Stálym výborom rozhodnúť, že príslušná zmena nadobudne platnosť po uplynutí dvoch rokov odo dňa, keď bola predložená na prijatie, ak nijaká zmluvná strana neoznámi generálnemu tajomníkovi Rady Európy námietku proti nadobudnutiu platnosti tejto zmeny. Ak sa taká námietka oznámi, zmena nadobudne platnosť v prvý deň mesiaca nasledujúceho po dni, ku ktorému zmluvná strana dohovoru, ktorá námietku oznámila, uloží vyhlásenie o prijatí zmeny u generálneho tajomníka Rady Európy.
+
+      - 6. Ak Výbor ministrov zmenu schválil, ale ešte nenadobudla platnosť podľa odseku 4 alebo odseku 5, nemôže nijaký štát alebo Európske spoločenstvo vyjadriť svoj súhlas byť viazaný dohovorom bez súčasného prijatia zmeny.
 
   - KAPITOLA VIII PRÍPADY ÚDAJNÉHO PORUŠENIA TOHTO DOHOVORU
 
@@ -291,6 +367,26 @@
       - 3. Vo všetkých ostatných prípadoch údajného porušenia s výnimkou prípadov uvedených v odseku 4 prijímajúca zmluvná strana môže dočasne prerušiť prevzaté vysielanie danej programovej služby po ôsmich mesiacoch odo dňa oznámenia, ak údajné porušenie naďalej trvá.
 
       - 4. Dočasné prerušenie prevzatého vysielania nie je prípustné pri údajnom porušení článku 7 ods. 3, článkov 8, 9 alebo 10.
+
+    - Článok 24a Údajné zneužitie práv poskytovaných týmto dohovorom
+
+      - 1. Ak sa programová služba vysielateľa úplne alebo prevažne zameriava na územie inej zmluvnej strany, ako je strana, ktorej právnemu poriadku vysielateľ podlieha („strana príjmu"), a ak vysielateľova voľba sídla má za cieľ obísť zákony platné pre oblasti dohovoru, ktoré by sa naňho vzťahovali, keby podliehal právnemu poriadku tejto inej zmluvnej strany, ide o zneužitie práv.
+
+      - 2. Ak niektorá zmluvná strana nastolí otázku uvedeného zneužitia, uplatňuje sa tento postup:
+
+        - a) dotknuté zmluvné strany sa budú usilovať o riešenie zmierom,
+
+        - b) ak sa im to nepodarí do troch mesiacov, zmluvná strana príjmu predloží problém Stálemu výboru,
+
+        - c) po vypočutí názorov dotknutých zmluvných strán Stály výbor do šiestich mesiacov od dátumu, keď bol o probléme informovaný, vydá stanovisko, či došlo k zneužitiu práv, o ktorom bude informovať dotknuté zmluvné strany.
+
+      - 3. Ak Stály výbor dospeje k záveru, že sa zneužili práva, zmluvná strana, ktorej právnemu poriadku vysielateľ podlieha, prijme náležité opatrenia na odstránenie tohto zneužitia a bude o nich informovať Stály výbor.
+
+      - 4. Ak zmluvná strana, ktorej právnemu poriadku vysielateľ podlieha, neprijme do šiestich mesiacov náležité opatrenia podľa odseku 3, pristúpi sa k rozhodcovskému konaniu medzi dotknutými zmluvnými stranami, ako je stanovené v článku 26 ods. 2, ako aj v Prílohe k dohovoru.
+
+      - 5. Zmluvná strana príjmu nepodnikne nijaké opatrenia proti predmetnej programovej službe, kým sa rozhodcovské konanie neskončí.
+
+      - 6. Všetky opatrenia navrhované alebo prijaté podľa tohto článku musia byť v súlade s článkom 10 Dohovoru o ochrane ľudských práv a základných slobôd.
 
   - KAPITOLA IX RIEŠENIE SPOROV
 
@@ -312,7 +408,7 @@
 
     - Článok 27 Iné medzinárodné dohody alebo úpravy
 
-      - 1. Zmluvné strany, ktoré sú členmi Európskeho hospodárskeho spoločenstva, uplatňujú vo vzájomných vzťahoch pravidlá spoločenstva, a teda uplatňujú pravidlá vyplývajúce z tohto dohovoru len za predpokladu, že neexistuje žiadne pravidlo spoločenstva osobitne upravujúce danú otázku.
+      - 1. Zmluvné strany, ktoré sú členmi Európskeho spoločenstva, uplatňujú vo vzájomných vzťahoch pravidlá spoločenstva, a teda uplatňujú pravidlá vyplývajúce z tohto dohovoru len za predpokladu, že neexistuje žiadne pravidlo spoločenstva osobitne upravujúce danú otázku.
 
       - 2. Žiadne ustanovenie tohto dohovoru nemôže zabrániť zmluvným stranám, aby uzavierali medzinárodné dohody dopĺňajúce alebo rozvíjajúce jeho ustanovenia alebo rozširujúce oblasť pôsobnosti jeho ustanovení.
 
@@ -320,19 +416,19 @@
 
     - Článok 28 Vzťahy medzi dohovorom a domácim právnym poriadkom zmluvných strán
 
-      - Žiadne ustanovenie tohto dohovoru nemôže zabrániť zmluvným stranám, aby na programové služby vysielané subjektmi alebo technickými prostriedkami podliehajúcimi ich jurisdikcii v zmysle článku 3 uplatňovali prísnejšie alebo podrobnejšie pravidlá ako pravidlá uvedené v tomto dohovore.
+      - Dohovor nebráni zmluvným stranám, aby vo vzťahu k programovým službám vysielaným vysielateľom podliehajúcim ich právnemu poriadku prijali prísnejšie alebo podrobnejšie pravidlá podľa článku 5 než tie, ktoré stanovuje dohovor.
 
   - KAPITOLA XI ZÁVEREČNÉ USTANOVENIA
 
     - Článok 29 Podpis a nadobudnutie platnosti
 
-      - 1. Tento dohovor je otvorený na podpis členským štátom Rady Európy a iným zmluvným štátom Európskeho kultúrneho dohovoru, ako aj na podpis Európskemu hospodárskemu spoločenstvu. Podlieha ratifikácii, prijatiu alebo schváleniu. Ratifikačné listiny, listiny o prijatí alebo o schválení budú uložené u generálneho tajomníka.
+      - 1. Tento dohovor je otvorený na podpis členským štátom Rady Európy a iným zmluvným štátom Európskeho kultúrneho dohovoru, ako aj na podpis Európskemu spoločenstvu. Podlieha ratifikácii, prijatiu alebo schváleniu. Ratifikačné listiny, listiny o prijatí alebo o schválení budú uložené u generálneho tajomníka.
 
       - 2. Tento dohovor nadobudne platnosť prvý deň mesiaca, ktorý nasleduje po uplynutí troch mesiacov odo dňa, keď sedem štátov, z toho aspoň päť členských štátov Rady Európy, vyjadrí svoj súhlas byť viazanými dohovorom v súlade s ustanoveniami odseku 1.
 
       - 3. Štát môže pri podpise alebo kedykoľvek predtým, ako preň tento dohovor nadobudne platnosť, vyhlásiť, že dohovor bude uplatňovať.
 
-      - 4. Pre každý štát, na ktorý sa vzťahuje odsek 1, alebo pre Európske hospodárske spoločenstvo, ak vyjadrí svoj súhlas byť viazané týmto dohovorom neskôr, nadobudne tento dohovor platnosť prvý deň mesiaca, ktorý nasleduje po uplynutí troch mesiacov odo dňa uloženia ratifikačnej listiny, listiny o prijatí alebo o schválení.
+      - 4. Pre každý štát, na ktorý sa vzťahuje odsek 1, alebo pre Európske spoločenstvo, ak vyjadrí svoj súhlas byť viazané týmto dohovorom neskôr, nadobudne tento dohovor platnosť prvý deň mesiaca, ktorý nasleduje po uplynutí troch mesiacov odo dňa uloženia ratifikačnej listiny, listiny o prijatí alebo o schválení.
 
     - Článok 30 Pristúpenie nečlenských štátov
 
@@ -350,13 +446,7 @@
 
     - Článok 32 Výhrady
 
-      - 1. Pri podpise alebo pri ukladaní ratifikačnej listiny, listiny o prijatí, schválení alebo o pristúpení
-
-        - a) každý štát môže vyhlásiť, že si vyhradzuje právo obmedziť na svojom území prevzaté vysielanie programových služieb obsahujúcich reklamu na alkoholické nápoje podľa pravidiel článku 15 ods. 2 tohto dohovoru, a to len v rozsahu, v akom je toto vysielanie v rozpore s jeho domácou legislatívou,
-
-        - b) Spojené kráľovstvo môže vyhlásiť, že si vyhradzuje právo neplniť povinnosť podľa článku 15 ods. 1 zakazujúceho reklamu na tabakové výrobky, ak ide o reklamu na cigary a fajkový tabak, vysielanú Independent Broadcasting Authority prostredníctvom pozemných prostriedkov na britskom území.
-
-      - Žiadna iná výhrada nie je prípustná.
+      - 1. Pri podpise alebo uložení listiny o ratifikácii, pri prijatí, schválení alebo pristúpení môže každý štát vyhlásiť, že si vyhradzuje právo obmedziť na svojom území retransmisiu programových služieb obsahujúcich reklamu na alkoholické nápoje podľa podmienok ustanovených v článku 15 ods. 2 tohto dohovoru, a to výhradne v rozsahu, ktorý zodpovedá jeho domácej legislatíve. Iná výhrada nie je prípustná.
 
       - 2. Výhrada formulovaná v súlade s odsekom 1 nesmie byť predmetom námietok.
 
@@ -370,7 +460,7 @@
 
       - 2. Táto výpoveď nadobudne platnosť prvý deň mesiaca, ktorý nasleduje po uplynutí šiestich mesiacov odo dňa prijatia oznámenia generálnym tajomníkom.
 
-    - Článok 34 Oznámenia Generálny tajomník oznámi členským štátom Rady Európy, iným zmluvným štátom Európskeho kultúrneho dohovoru, Európskemu hospodárskemu spoločenstvu a všetkým štátom, ktoré pristúpili alebo boli prizvané, aby pristúpili k tomuto dohovoru:
+    - Článok 34 Oznámenia Generálny tajomník oznámi členským štátom Rady Európy, iným zmluvným štátom Európskeho kultúrneho dohovoru, Európskemu spoločenstvu a všetkým štátom, ktoré pristúpili alebo boli prizvané, aby pristúpili k tomuto dohovoru:
 
       - a) každý podpis,
 
@@ -384,4 +474,4 @@
 
     - Na dôkaz toho podpísaní, riadne splnomocnení, podpísali tento dohovor.
 
-    - Dané v Štrasburgu 5. mája 1989 vo francúzštine a angličtine, pričom oba texty sú autentické, v jedinom vyhotovení, ktoré bude uložené v archíve Rady Európy. Generálny tajomník pošle overenú kópiu každému členskému štátu Rady Európy, ostatným zmluvným štátom Európskeho kultúrneho dohovoru, Európskemu hospodárskemu spoločenstvu a každému štátu prizvanému pristúpiť k tomuto dohovoru.
+    - Dané v Štrasburgu 5. mája 1989 vo francúzštine a angličtine, pričom oba texty sú autentické, v jedinom vyhotovení, ktoré bude uložené v archíve Rady Európy. Generálny tajomník pošle overenú kópiu každému členskému štátu Rady Európy, ostatným zmluvným štátom Európskeho kultúrneho dohovoru, Európskemu spoločenstvu a každému štátu prizvanému pristúpiť k tomuto dohovoru.
