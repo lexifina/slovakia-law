@@ -82,4 +82,4 @@
 
 - 37) § 6 zákona č. 50/1976 Zb.
 
-- 38) Smernice Federálneho ministerstva pre technický a investičný rozvoj č. 5 z 21. 5. 1981 o prevode nákladov stavieb na cenovú úroveň platnú od 1. januára 1982 (Spravodajca FMITR, MVT ČSR a MVT SSR čiastka 3/1981).
+- 38) Úprava FMTIR a ŠPK č. 8 z 10. júna 1983 o úprave nákladov v dokumentácii stavieb na cenovú úroveň platnú od 1. januára 1984 a o súvisiacich opatreniach (Spravodajca FMTIR, MVT ČSR a MVT SSR čiastka 4-5/1983).
