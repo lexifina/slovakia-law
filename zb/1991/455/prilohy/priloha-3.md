@@ -26,11 +26,9 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Hubenie škodlivých živočíchov, rastlín, mikroorganizmov a potláčanie ďalších škodlivých činiteľov jedmi vrátane ochrannej dezinfekcie, dezinsekcie, deratizácie | absolvovanie odborného kurzu, úspešné zloženie záverečnej skúšky a 1 rok praxe | opakovanie skúšky každé 3 roky , odborná spôsobilosť pracovníkov na výkon ochrannej dezinfekcie a deratizácie, schválenie platných technologických pracovných postupov orgánmi štátnej správy na úseku zdravotníctva | štátny obvodný lekár | § 15 ods. 5 nar. vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nar. vlády SR č. 232/1990 Zb. a č. 83/1992 Zb.; § 23 vyhl. č. 103/1984 Zb. o opatreniach proti prenosným chorobám
 
-- Výroba a opravy zdrojov žiarenia | osvedčenie podľa vyhl. č. 65/1972 Zb. a osvedčenie podľa zák. č. 451/1991 Zb.*) | | Úrad jadrového dozoru SR pod ohode s Ministerstvom zdravotníctva SR | vyhl. č. 65/1972 Zb. o ochrane zdravia pred ionizujúcich žiarením;*) § 1 ods. 5 zák. č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách ČSFR, ČR a SR
-
 - Prevádzkovanie stredísk kalibračnej služby | preverenie kvalifikácie pracovníkov Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | akreditácia strediska Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | Úrad pre normalizáciu, metrológiu a skúšobníctvo SR | § 20 zák. č. 505/1990 Zb. o metrológii
 
-- Úradné meranie | preverenie kvalifikácie Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | Úrad pre normalizáciu, metrológiu a skúšobníctvo SR | § 21 zák. č. 505/1990 Zb. o metrológii
+- Úradné meranie | preverenie kvalifikácie Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | autorizácia Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | Úradom pre normalizáciu, metrológiu a skúšobníctvo SR | § 21 zák. č. 505/1990 Zb. o metrológii
 
   - SKUPINA 305: Výroba elektrických prístrojov
 
@@ -80,9 +78,9 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Zmenárne | stredoškolské vzdelanie zakončené maturitnou skúškou | | Národná banka Slovenska | § 7 ods. 5 devízového zákona č. 528/1990 Zb. v znení zák. č. 228/1992 Zb.
 
-- Cestná motorová doprava | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 29 a 31 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
+- Cestná motorová doprava | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 29 a 31 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
 
-- Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
+- Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
 
 - Vnútrozemská plavba | preukaz spôsobilosti žiadateľa na zamýšľanú činnosť | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, spojov a verejných prác SR | zák. č. 26/1964 Zb. o vnútrozemskej plavbe
 
@@ -101,8 +99,6 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 - Asanačný podnik | 1. absolvovanie vysokej školy veterinárnej alebo absolvovanie strednej odbornej školy veterinárnej, príp. absolvovanie pomaturitného štúdia veterinárneho odboru alebo spôsobilosť na výkon príslušných odborných činností získaná dokončením zodpovedajúceho štúdia,2. splnenie ďalších osobitných kvalifikačných predpokladov, ak sú stanovené Ministerstvom poľnohospodárstva SR | 1. overenie príslušným orgánom veterinárnej starostlivosti, že podnikateľ má k dispozícii potrebné zariadenia a prístroje a podmienky na dodržiavanie potrebných protinákazových a hygienických opatrení,2. povinnosť zabezpečovať za odplatu odvoz odpadov živočíšneho pôvodu v určenom obvode | okresná veterinárna správa | § 3a písm. a), § 19 ods. 1 písm. a) až c), § 21 ods. 1 písm. b), ods. 2 a 3, § 25, § 35 ods. 1 písm. e) č. 4 a ods. 3 zák. č. 239/ 1991 Zb., ktorým sa mení a dopĺňa zákon č. 87/1987 Zb. o veterinárnej starostlivosti (úplné znenie č. 215/1992 Zb.)
 
 - Zriaďovanie a prevádzkovanie jednotky požiarnej ochrany | osvedčenie | opakované skúšky každých 5 rokov | Ministerstvo vnútra SR | § 72 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zák. SNR č. 525/1990 Zb., § 66 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
-
-- Pestovateľské pálenie ovocia | | | Ministerstvo pôdohospodárstva SR | § 3 vyhl. č. 16/1972 Zb. o hospodárení s liehom v znení vyhl. č. 66/1991 Zb.
 
 - Inseminácia | | | Ministerstvo pôdohospodárstva SR | § 9 ods. 3 zák. SNR č. 110/1972 Zb. o plemenitbe hospodárskych zvierat v znení zák. SNR č. 256/1991 Zb.
 
