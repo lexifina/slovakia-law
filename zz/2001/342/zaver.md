@@ -1,0 +1,1 @@
+Eduard Kukan v. r.
