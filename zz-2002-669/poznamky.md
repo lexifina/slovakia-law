@@ -1,0 +1,1 @@
+- 1) Zákon č. 670/2002 Z. z. o platových pomeroch sudcov v roku 2003 a o zmene zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2002 Z. z.
