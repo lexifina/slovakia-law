@@ -52,6 +52,8 @@
 
 - 27) Európska konferencia ministrov dopravy CEMT/ECMT.
 
+- 27a) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 58/1997 Z. z.
+
 - 28) § 21 ods. 2 Obchodného zákonníka.
 
 - 28a) § 11 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
