@@ -1,3 +1,3 @@
-# § 11
+# § 11 [Red. poznámka: Podľa prílohy A bodu 89 predpisu č. 116/1949 Zb. sa prenáša pôsobnosť v § 11 tohto zákona z ústredného úradu na krajské národné výbory v predmete pôsobnosti „Schvaľovanie investičných programov a návrhov rozpočtov okresných nemocníc a ústavov národného zdravia."]
 
 Hlavný dozor nad štátnymi liečebnými a ošetrovacími ústavmi prislúcha Ministerstvu zdravotníctva, ktoré predovšetkým určuje alebo mení podľa zásad, určených jednotným plánom zdravotnej starostlivosti, po dohode so zúčastnenými ministerstvami sieť týchto ústavov. Ministerstvo zdravotníctva schvaľuje investičné programy a prevádzkové rozpočty štátnych liečebných a ošetrovacích ústavov a vydáva v medziach nariadenia, vydaného podľa § 9, ods. 7, smernice pre vnútornú organizáciu ústavov po stránke zdravotníckej, správnej i hospodárskej.
