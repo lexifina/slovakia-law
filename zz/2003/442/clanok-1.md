@@ -10,6 +10,16 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.“.
 
+- 2. V § 2 ods. 1 písm. a) sa vypúšťa štvrtý bod vrátane odkazu 2a a poznámky pod čiarou k odkazu 2a.
+
+  - Doterajšie body 5 až 9 sa označujú ako body 4 až 8.
+
+- 3. V § 2 ods. 1 písm. a) sa vypúšťajú šiesty a siedmy bod.
+
+  - Doterajší bod 8 sa označuje ako bod 6.
+
+- 4. V § 2 ods. 1 písm. b) sa vypúšťajú slová „a krajský úrad“.
+
 - 5. V § 3 ods. 3 poslednej vete sa za slová „zdravotných poisťovní,“ vkladajú slová „rozpočtov verejných vysokých škôl,<sup>2d</sup>)“.
 
   - Poznámka pod čiarou k odkazu 2d znie:
@@ -32,6 +42,8 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.“.
 
+- 8. V § 5 ods. 1 písm. f) sa vypúšťajú slová „s výnimkou príjmov rozpočtových kapitol podľa § 2 ods. 1 písm. a) bodov 7 a 8“.
+
 - 9. V § 6 ods. 1 sa za písmeno g) vkladá nové písmeno h), ktoré znie:
 
 - „h)
@@ -39,6 +51,18 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - výdavky súvisiace s poskytovaním medzinárodnej pomoci rozvojovým krajinám a najmenej rozvinutým krajinám,“.
 
 - Doterajšie písmeno h) sa označuje ako písmeno i).
+
+- 10. V § 6 ods. 3 sa za prvú vetu vkladá nová druhá veta, ktorá znie:
+
+- „Obciam a vyšším územným celkom možno zákonom o štátnom rozpočte na príslušný rozpočtový rok v rámci kapitoly Súhrnný finančný vzťah k obciam a vyšším územným celkom určiť dotáciu bez účelového určenia z prostriedkov štátneho rozpočtu na úhradu bežných výdavkov a kapitálových výdavkov obce a vyššieho územného celku v súlade s rozpočtovou klasifikáciou.“.
+
+- 11. V § 6 ods. 3 poslednej vete sa za slová „samosprávnych funkcií obcí“ vkladajú slová „a pri poskytnutí dotácie na prenesený výkon štátnej správy na obce a prechod pôsobností z orgánov štátnej správy do samosprávnej pôsobnosti obcí podľa osobitného zákona <sup>5aa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 5aa znie:
+
+  - „5aa)
+
+  - Napríklad zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.“.
 
 - 12. V § 6 ods. 4 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „pri zúčtovaní finančných vzťahov so štátnym rozpočtom sa nevracajú nevyčerpané prostriedky, ak ich suma nepresiahne 100 Sk.“.
 
@@ -71,6 +95,12 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - Doterajší odsek 6 sa označuje ako odsek 7.
 
 - 20. V § 8 ods. 7 sa slová „na základe východísk na zostavenie návrhu štátneho rozpočtu podľa odseku 1“ nahrádzajú slovami „v súlade s návrhom štátneho rozpočtu schváleným vládou“.
+
+- 21. V § 9 ods. 2 úvodnej vete sa slová „bodov 1 až 4“ nahrádzajú slovami „bodov 1 až 3“.
+
+- 22. V § 9 sa vypúšťa odsek 4.
+
+- Doterajší odsek 5 sa označuje ako odsek 4.
 
 - 23. V § 10 ods. 4 prvej vete sa za slová „ak tento“ vkladajú slová „alebo osobitný zákon.<sup>8ad</sup>)“.
 
@@ -114,6 +144,8 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - Napríklad zákon č. 203/2001 Z. z. v znení zákona č. 132/2002 Z. z.“.
 
+- 29. V § 16 ods. 2 sa vypúšťa prvá veta a slová „deviatom bode“ sa nahrádzajú slovami „šiestom bode“.
+
 - 30. § 16 sa dopĺňa odsekom 5, ktorý znie:
 
 - „(5)
@@ -154,7 +186,15 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - 36. V § 20 ods. 6 sa na konci prvej a druhej vety pripájajú tieto slová: „alebo v hotovosti do pokladne preddavkovej organizácie v zahraničí“ a vypúšťa sa posledná veta.
 
+- 37. V § 20a ods. 1 prvej vete sa vypúšťajú slová „s výnimkou prostriedkov štátneho rozpočtu na program Európskych spoločenstiev pre projekty budovania inštitúcií a investícií na podporu sociálnej a ekonomickej súdržnosti (ďalej len „program PHARE")“ a na konci druhej vety sa pripájajú tieto slová: „ktoré zverejňuje informácie o finančných tokoch národného fondu spôsobom podľa osobitného zákona.<sup>8ab</sup>)“.
+
+- 38. V § 20a ods. 4 prvej vete sa vypúšťajú slová „s výnimkou prostriedkov štátneho rozpočtu na program PHARE“.
+
 - 39. V § 20a ods. 6 sa slová „odsekov 1 až 4“ nahrádzajú slovami „odsekov 1 a 4“.
+
+- 40. V § 21 ods. 4 písm. b) sa vypúšťajú slová „pričom rozhodnutím ústredného orgánu, ktorým je krajský úrad, len na účely podľa osobitného predpisu,<sup>2a</sup>)“.
+
+- 41. V § 21 ods. 5 sa vypúšťajú slová „a vo vzťahu k verejnoprávnej inštitúcii a k príspevkovej organizácii, ktoré majú samostatnú rozpočtovú kapitolu a sú zriadené zákonom,“.
 
 - 42. V § 29 odsek 7 znie:
 
@@ -195,6 +235,12 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - „Odvod neoprávnene použitých alebo zadržaných prostriedkov, ako aj penále uloží príslušná správa finančnej kontroly,<sup>27</sup>) ktorá ich aj vymáha.“.
 
 - 48. V § 50 ods. 1 prvej vete sa za slová „Štátny záverečný účet“ vkladajú slová „je súhrnný dokument, ktorý“.
+
+- 49. § 53 znie:
+
+- „§ 53
+
+- Slovenský rozhlas a Slovenská televízia hospodária so všetkými prostriedkami ako príspevková organizácia, ak osobitný zákon neustanovuje inak.<sup>31a</sup>)“.
 
 - 50. V § 54 ods. 1 písm. f) sa slová „výnimku z časového použitia rozpočtových prostriedkov“ nahrádzajú slovami „v rozpočtovom roku, v ktorom boli rozpočtové prostriedky poskytnuté, ich použitie aj v nasledujúcom rozpočtovom roku“.
 
