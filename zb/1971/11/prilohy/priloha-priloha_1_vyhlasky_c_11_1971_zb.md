@@ -548,15 +548,15 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 1209 | údenárka | D | Výroba všetkých druhov údenárskych výrobkov. Obsluha a bežná údržba výrobného zariadenia. | 2 | 10 | 1 | 6 | 8-10 | 1209
 
-1210 | konzervár konzervárka | CH D | Konzervovanie ovocia a zeleniny. Výroba zaváranín, džemov a kandizovaného ovocia, sukusov a sirupov, ovocných vín, muštov, sódoviek a nealkoholických nápojov. Obsluha a bežná údržba strojového zariadenia. | 2 | 10 | 1 | 6 | 8-10 | 1210
+1210 | konzervár konzervárka | CH D | Spracovanie ovocia, zeleniny, húb a mäsa na konzervárenské a mraziarenské výrobky a polotovary, výroba nealkoholických nápojov podľa príslušných technologických postupov pomocou strojov a príslušného technologického zariadenia | 3 | 18 | 1,5 | 9 | 8-10 | 1210
 
 1211 | sladovník | CH | Príjem, ošetrovanie a skladovanie jačmeňa. Výroba sladov všetkých typov. Výroba mladiny, kvasenie, filtrácia a stáčanie piva, jednoduchá analytická kontrola surovín a výrobkov. Obsluha a bežná údržba strojového zariadenia. | 3 | 22 | 1,5 | 9 | 8-10 | 1211
 
 1212 | priemyselný hydinár priemyselná hydinárka | CH D | Zabíjanie hydiny. Spracovanie hydina a vajec. Výroba hydinárskych konzerv a vajcových výrobkov. Obsluha a bežná údržba strojového zariadenia. | 2 | 10 | 1 | 6 | 8-12 | 1212
 
-1213 | cestovinár | CH | Obsluha strojového zariadenia vo výrobe cestovín. | 2 | 10 | 1 | 6 | 6-10 | 1213
+1213 | cestovinár | | Zrušený od 31. 10. 1972, príprava kvalifikovaných pracovníkov sa bude zabezpečovať v učebnom odbore 1202 pekár. | | | | | |
 
-1214 | chemik kvasných procesov chemička kvasných procesov | CH D | Riadenie a ovládanie prevádzkových chemických aparatúr a zariadení pri výrobe látok získavaných fermentačným procesom. Bežná údržba strojového zariadenia. Vykonávanie prevádzkovokontrolných rozborov a skúšok. | 2 | 10 | 1 | 6 | 8-10 | 1214
+1214 | chemik kvasných procesov chemička kvasných procesov | CH D | Riadenie a ovládanie prevádzkových chemických aparatúr a zariadení kvasného priemyslu liehovarníckeho a vinárskeho odboru, znalosť technologických procesov. Bežná údržba strojového zariadenia. Vykonávanie prevádzkových kontrolných skúšok a rozborov. | 3 | 22 | 1,5 | 9 | 8-10 | 1214
 
 1221 | priemyselný krmivár priemyselná krmivárka | CH D | Priemyselná výroba krmív, miešanie hnojív, príjem a skladovanie surovín, príprava osív a sadív. Obsluha a bežná údržba strojov a zariadení vo výrobniach krmív, miešárňach hnojív, skladoch a sušiarňach. | 3 | 22 | 1 | 8 | 8-12 | 1221
 
@@ -566,11 +566,9 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 1302 | chovateľ hydiny chovateľka hydiny | CH D | Ošetrovanie, výkrm, liahnutie, odchov, kontrola nosnosti. Triedenie, balenie a rozosielanie vajec a kurčiat. Brakovanie, zabíjanie hydiny a úprava na trh. | 2 | 10 | 1 | 6 | 10-15 | 1302
 
-1303 | chovateľ koní | CH | Chov koní - ošetrovanie a kŕmenie, ošetrovanie kopýt, pripúšťanie, ošetrovanie žrebných kobýl, pôrod, odchov žriebät. Zaúčanie koní v záprahu a pod sedlom, ošetrovanie postrojov a výstroja. | 2 | 10 | 1 | 6 | 8-12 | 1303
+1303 | chovateľ koní | CH | Chov koní. Ošetrovanie a kŕmenie. Ošetrovanie kopýt. Pripúšťanie a ošetrovanie žrebných kobýl, pôrod, odchov žriebät. Zaúčanie koní v záprahu a pod sedlom, ošetrovanie postrojov a výstroja. | 2 | 10 | 1 | 6 | 8-12 | 1303
 
-1304 | jazdec z povolania*) | CH | Jazda na pretekárskych koňoch. Ošetrovanie pretekárskych jazdeckých koní a ich príprava na dostihy. | 1 | - | 1 | - | 12-15 | 1304
-
-*) Podmienkou prijatia do učebného odboru č. 1304 je vyučenie v učebnom odbore č. 1303 chovateľ koní. | | | | | | | | |
+1304 | chovateľ koní - jazdec z povolania | CH | Chov koní. Jazda na pretekárskych koňoch. Ošetrovanie pretekárskych jazdeckých koní a ich príprava na dostihy. | 2 | 10 | 1 | 6 | 12-15 | 1304
 
 1305 | rybár | CH | Chov rýb a pridružená rybárska výroba. Hospodárenie na rybníkoch a v tečúcich vodách. Kŕmenie, liahnutie, výlovy, expedícia, letnenie. Úpravy rybníkov. | 2 | 10 | 1 | 6 | 10-15 | 1305
 
@@ -584,15 +582,15 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 
 1322 | kováč a podkúvač | CH | Kováčske práce pri výrobe a opravách poľnohospodárskych strojov, náradia a zariadení. Zváranie kovov plameňom a elektrickým oblúkom. Ošetrovanie kopýt a paznechtov, podkúvanie záprahových zvierat. | 3 | 18 | 1,5 | 6 | 8-12 | 1322
 
-1324 | pestovateľ mechanizátor*) pestovateľka mechanizátorka*) | CH D | Obsluha strojov mechanizovanej rastlinnej výroby, bežné opravy strojov. | 1 | - | 1 | - | 8-12 | 1324
+1324 | traktorista mechanizátor | CH | Technológia prác pri výrobe poľnohospodárskych plodín, obsluha mechanizačných prostriedkov používaných v rastlinnej výrobe, ich údržba a vykonávanie jednoduchých opráv. | 3 | 18 | 1,5 | 6 | 8-12 | 1324
 
-1325 | chovateľ mechanizátor*) chovateľka mechnizátorka*) | CH D | Ošetrovanie jednotlivých druhov hospodárskych zvierat v mechanizovanej živočíšnej výrobe. | 1 | - | 1 | - | 8-12 | 1325
+1324 | pestovateľ mechanizátor pestovateľka mechanizátorka | CH D | Obsluha strojov mechanizovanej rastlinnej výroby, bežné opravy strojov. | 1 | - | 1 | - | 8-12 | 1324
 
-*) Podmienkou pre prijatie do učebného odboru č. 1324 a 1325 je vyučenie v učebnom odbore č. 1308 poľnohospodár mechanizátor, poľnohospodárka mechanizátorka. | | | | | | | | |
+1325 | chovateľ hospodárskych zvierat chovateľka hospodárskych zvierat | CH D | Ošetrovanie jednotlivých druhov a kategórií hospodárskych zvierat v mechanizovanej živočíšnej výrobe, obsluha, údržba a vykonávanie jednoduchých opráv mechanizačných zariadení v živočíšnej výrobe | 3 | 18 | 1,5 | 6 | 8-12 | 1325
 
-1351 | lesník | CH | Práca v ťažbe dreva s motorovou pílou. Sústreďovanie dreva kolesovými traktormi. Práce v skladoch dreva. Mechanizované práce v pestovaní a ochrane lesa. Zber semien z vysokých stojacích stromov. | 2 | 10*) | 1 | 6*) | 5-9 | 1351
+1325 | chovateľ mechanizátor chovateľka mechnizátorka | CH D | Ošetrovanie jednotlivých druhov hospodárskych zvierat v mechanizovanej živočíšnej výrobe. | 1 | - | 1 | - | 8-12 | 1325
 
-*) Dĺžka prípravného obdobia pre učňov, ktorých učebný pomer pokračuje v nadstavbovom učebnom odbore č. 1352 lesný mechanizátor, sa predlžuje na 12 mesiacov (u učňov s úplným stredným všeobecným vzdelaním zostáva 6 mesiacov). | | | | | | | | |
+1351 | lesár | CH | Práca v ťažbe dreva s motorovou pílou. Sústreďovanie dreva kolesovými traktormi. Práce v skladoch dreva. Mechanizované práce v pestovaní a ochrane lesa. Zber semien z vysokých stojacich stromov | 2 | 10 | 1 | 6 | 5-9 | 1351
 
 1352 | lesný mechanizátor**) | CH | Obsluha a údržba bežne používaných mechanizačných prostriedkov v pestovaní lesa, v ťažbe, pri sústreďovaní a odvoze dreva a pri manipulácii s drevom v skladoch. Údržba, bežné a stredné opravy používaných strojov. Obsluha, nastavovanie a údržba špeciálnych mechanizačných prostriedkov pre lesné hospodárstvo. | 2 | 18 | 1 | 6 | 5-9 | 1352
 
@@ -603,6 +601,8 @@ Označenie učebného odboru | | Vyhradený pre chlapcov - CH dievčatá - D | S
 **) Učebný odbor č. 1361 sa zrušuje. | | | | | | | | |
 
 1362 | chovateľ cudzokrajných zvierat chovateľka cudzokrajných zvierat | CH D | Chov zvierat v zoologických záhradách, odchytávanie, sputnávanie a vypúšťanie zvierat. Bezpečné zaobchádzanie s jedovatými plazmi. Prvá pomoc človeku a zvieraťu. Vkusné zariaďovanie ubikácií pre zvieratá, drobné remeselnícke opravy ubikácií a výbehov. Informovanie návštevníkov zoologických záhrad. | 2 | 10 | 1 | 6 | 8-12 | 1362
+
+2. Dĺžka prípravného obdobia v učebnom odbore 1303 chovateľ koní pre učňov, ktorých učebný pomer pokračuje v nadstavbovom učebnom odbore 1304 chovateľ koní - jazdec z povolania, sa predlžuje na 12 mesiacov (u učňov s úplným stredným všeobecným vzdelaním zostáva 6 mesiacov).3. Podmienkou prijatia do učebného odboru 1304 chovateľ koní - jazdec z povolania je úspešné ukončenie 1. ročníka učebného odboru 1303 chovateľ koní (u učňov s úplným stredným všeobecným vzdelaním úspešné ukončenie 1. polroka v učebnom odbore 1303).4. Podmienkou prijatia do učebného odboru 1324 pestovateľ mechanizátor, pestovateľka mechanizátorka a 1325 chovateľ mechanizátor, chovateľka mechanizátorka je vyučenie v učebnom odbore 1308 poľnohospodár mechanizátor, poľnohospodárka mechanizátorka.5. Dĺžka prípravného obdobia pre učňov, ktorých učebný pomer pokračuje v nadstavbovom učebnom odbore 1352 lesný mechanizátor, sa predlžuje na 12 mesiacov (u učňov s úplným stredným všeobecným vzdelaním zostáva 6 mesiacov).
 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 

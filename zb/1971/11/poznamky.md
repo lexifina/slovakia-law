@@ -15,3 +15,5 @@
 - †) Ostatné ustanovenia vyhlášky nahrádza vyhláška Ministerstva práce a sociálnych vecí Slovenskej socialistickej republiky č. 67/1969 Zb. o finančnom a hmotnom zabezpečení učňov.
 
 - *) V učebnom odbore č. 0101 je na jedného majstra odborného výcviku až 30 učňov, pokiaľ sú učni pridelení pri práci na povrchu bane kádrovým robotníkom.
+
+- **) Podľa jednotnej klasifikácie študijných a učebných odborov, ktorú vydal Federálny štatistický úrad (ako časť 8 jednotnej sústavy sociálno-ekonomických klasifikácií) nákladom Štatistického a evidenčného vydavateľstva tlačív, Praha v r. 1970).
