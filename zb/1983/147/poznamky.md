@@ -1,5 +1,7 @@
 - 1) Podľa § 31 ods. 3 zákona č. 23/1962 Zb. o poľovníctve vydáva poľovné lístky okresný národný výbor.
 
+- 1) § 244 – 250 Občianskeho súdneho poriadku.
+
 - 2) Vyhláška Ministerstva dopravy č. 127/1964 Zb. o mestskom prepravnom poriadku.
 
 - Vyhláška Ministerstva dopravy č. 132/1964 Zb. o železničnom prepravnom poriadku.
