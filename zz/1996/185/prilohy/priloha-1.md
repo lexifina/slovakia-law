@@ -1,6 +1,6 @@
 Príloha č. 1 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 185/1996 Z. z.
 
-- ÚSEKY DIAĽNIC PRE MOTOROVÉ VOZIDLÁ, KTORÉ MOŽNO UŽÍVAŤ LEN PO ZAPLATENÍ ÚHRADY A. Diaľnice v dĺžke 200 km | |
+- ÚSEKY DIAĽNIC PRE MOTOROVÉ VOZIDLÁ, KTORÉ MOŽNO UŽÍVAŤ LEN PO ZAPLATENÍ ÚHRADY A. Diaľnice v dĺžke 217 km | |
 
 - | Diaľnica D 1 úsek | križovatka D 1 - I/18
 
@@ -17,6 +17,10 @@ Príloha č. 1 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slove
 - | Diaľnica D 61 úsek | križovatka Bratislava (Senecká cesta) D61 - I/61
 
 - | | križovatka Horná Streda D61 - I/61
+
+- | Diaľnica D 1 úsek | križovatka I/61 Chocholná
+
+- | | križovatka I/57 Nemšová
 
 - B. Cesty pre motorové vozidlá v dĺžke 23 km | |
 
