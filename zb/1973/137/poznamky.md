@@ -1,6 +1,6 @@
 - 1) V tejto vyhláške sa obsah pojmov „výrobky, služby, výkony a práce" stotožňujú s obsahom obdobných pojmov obsiahnutých v sociálno-ekonomických klasifikáciách zavedených vyhláškou č. 71/1965 Zb. o zavedení a využívaní jednotnej klasifikácie priemyslových odborov a výrobkov a jednotnej klasifikácie výrobkov v poľnohospodárstve a lesníctve, vyhláškou č. 89/1967 Zb. o zavedení a využívaní jednotnej klasifikácie stavebných objektov a vyhláškou č. 114/1972 Zb. o zavedení a využívaní jednotnej klasifikácie výkonov.
 
-- 2) Pojmy odbytová prirážka alebo odbytová zrážka pri veľkoobchodných cenách a obchodná prirážka alebo obchodná zrážka pri maloobchodných a kúpnych cenách nahrádzajú v predpisoch dosiaľ používaný spoločný pojem obchodné (odbytové) rozpätie.
+- 2) Pojmy odbytová prirážka alebo zrážka a obchodná prirážka alebo zrážka zodpovedajú používanému pojmu odbytové a obchodné rozpätie.
 
 - 3) Napr. skupinové ceny stavebných prác alebo montáží, súhrnné veľkoobchodné ceny stavebných objektov a prevádzkových súborov.
 
@@ -8,13 +8,13 @@
 
 - 5) Smernice Federálneho ministerstva práce a sociálnych vecí č. 24/1970 Ú. v. ČSR, resp. č. 19/1970 Ú. v. SSR, ktorými sa ustanovujú zásady racionalizácie práce.
 
-- 6) Neštandardnými výrobkami sa rozumejú výrobky vyrábané podľa individuálnych požiadaviek odberateľa, spravidla v jedinom podniku, pri ktorých sa nepredpokladá, že sa v budúcnosti budú vyrábať v rovnakom vyhotovení a rozsahu; nie je rozhodujúce, či sa vyrábajú v jednom kuse alebo vo väčšom počte kusov.
+- 6) Neštandardnými výrobkami sa rozumejú výrobky vyrábané pre jedného odberateľa podľa jeho individuálnych požiadaviek, spravidla v jedinom výrobnom podniku, pri ktorých sa nepredpokladá, že sa v budúcnosti budú vyrábať v rovnakom vyhotovení. Musí ísť ďalej o výrobky, pri ktorých dojednaná lehota plnenia nepresiahne jeden rok, s výnimkou výrobkov dodávaných pre investičnú výstavbu a výrobkov, pri ktorých priebežný čas výroby je dlhší ako jeden rok. Pritom nie je rozhodujúce množstvo výrobkov (počet kusov, výrobných dávok). Za neštandardný výrobok sa však nepovažuje výrobok, pri ktorom sa začalo typizačné konanie.
 
 - 7) Vyhláška č. 77/1977 Zb. o centrálnej regulácii výrobkov a materiálov vo výstavbe.
 
 - 8) § 18 ods. 1 písm. d) zákona č. 111/1971 Zb. o odvodoch do štátneho rozpočtu a príspevku na sociálne zabezpečenie a § 13 nariadenia vlády ČSSR č. 136/1973 Zb. o štátnom riadení v oblasti cien.
 
-- 9) Osvedčenie o technicky pokrokovom výrobku vydávajú orgány uvedené v § 122.
+- 9) Podľa vyhlášky č. 82/1980 Zb. o hodnotení technickej úrovne výrobkov.
 
 - 10) Metodiku prepočtu úspor určujú smernice Federálneho ministerstva pre technický a investičný rozvoj č. 4/1972.
 
@@ -50,7 +50,7 @@
 
 - 24) § 13 vyhlášky č. 141/1971 Zb. o financovaní neinvestičných nákladov rozvoja vedy a techniky a obdobných činností.
 
-- 25) Používanie stavebných strojov, mechanizmov a dopravných prostriedkov podľa výmeru Federálneho cenového úradu č. 201/10/72 z 1. 2. 1972.
+- 25) Výmer FCÚ č. 3631/07.3/76, ktorým sa vydáva Sadzobník strojohodín veľkých montážnych mechanizmov (Cenový vestník čiastka 3/1977).
 
 - 26) § 8 ods. 3 vyhlášky č. 137/1968 o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe.
 
@@ -142,10 +142,36 @@
 
 - 69) § 7 nariadenia vlády ČSSR č. 136/1973 Zb. o štátnom riadení v oblasti cien.
 
-- 70) Výmer Federálneho cenového úradu č. 1286/03/76 o regulácii cien dovážaných výrobkov (Cenový vestník čiastka 24/1976) v znení výmeru Federálneho cenového úradu č. 3503/03/76 (Cenový vestník čiastka 53-54/1976).
+- 70) Výmer FCÚ č. 113/03/80 o regulácii cien dovážaných výrobkov v roku 1981 (Cenový vestník čiastka 44/1980).
 
 - 71) Napr. smernice Federálneho ministerstva financií č. VI - 3/28 572/76 zo 16. decembra 1976 pre tvorbu a použitie rizikových fondov v časti cenových rozdielov v maloobchodných cenách pre organizácie štátneho obchodu a spotrebných družstiev v r. 1977 - 1978 alebo smernice Federálneho ministerstva financií č. VI - 3/28 571/76 zo 16. decembra 1976 pre finančné vyrovnanie cenových rozdielov v maloobchodných cenách v organizáciách zaoberajúcich sa predajom výrobkov (tovaru) z trhových fondov za maloobchodné ceny v roku 1977 až 1978 (Finančný spravodajca čiastka 1/1977), registrované v čiastke 33/1976 Zb.
 
-- 72) Smernice Federálneho ministerstva pre technický a investičný rozvoj č. 11 713/IV-1/1971 z 13. júla 1971 pre oponentské konanie pri úlohách štátneho plánu rozvoja vedy a techniky (Spravodajca FMTIR čiastka 6/1971) registrované v čiastke 7/1972 Zb.
+- 74) Pokyn FCÚ, ČCÚ a SCÚ č. P-7/79 o tvorbe cien nových výrobkov vo dvojakej úrovni v súvislosti so zmenami veľkoobchodných cien (Cenový vestník čiastka 1/1980).
 
-- 73) Pokyn Federálneho cenového úradu, Českého cenového úradu a Slovenského cenového úradu č. P-3/78 o tvorbe cenových limitov.
+- 75) Napr. výmer FCÚ, ČCÚ a SCÚ č. 019/79 o spôsobe riešenia vplyvu cien palivovo-energetických zdrojov v tvorbe veľkoobchodných cien nových výrobkov (Cenový vestník čiastka 51-52/1979).
+
+- 76) Smernice FMTIR č. 9 pre prepočty ekonomickej efektívnosti úloh plánu technického rozvoja (Spravodajca FMTIR č. 5/1980).
+
+- Pokyn FCÚ, ČCÚ a SCÚ, FMTIR, MVT ČSR a MVT SSR č. P-3/78 o tvorbe cenových limitov (Cenový vestník čiastka 51-52/1978).
+
+- 77) Vyhláška č. 163/1973 Zb. o dokumentácii stavieb v znení neskorších predpisov.
+
+- 78) Pokyn FCÚ, ČCÚ a SCÚ č. P-5/77 o tvorbe veľkoobchodných cien typových stavebných objektov (Cenový vestník čiastka 1/1978).
+
+- 79) Príslušnou štátnou skúšobňou sa na účely cenového zvýhodnenia a znevýhodnenia rozumie aj rezortná skúšobňa poverená hodnotením akosti výrobkov, autorizovaná príslušným ústredným orgánom podľa Rámcových zásad pre činnosť rezortného skúšobníctva, vydaných Úradom pre normalizáciu a meranie 30. 6. 1980 pod č. 313/233/80.
+
+- 80) Výmer FCÚ, ČCÚ a SCÚ č. 09/80 o určení konečných limitov veľkoobchodných cien pre objemove významné neštandardné výrobky dodávané pre stavby (Cenový vestník čiastka 18/1980).
+
+- 81) Odborový kalkulačný vzorec pre kalkuláciu zložiek ceny vývozných a dovozných výkonov a pokynov k nemu č. XV/3-30820/76 z 31.12.1976 (Finančný spravodajca č. 3/1977).
+
+- 82) Článok 1 ods. 1, 2, 3 a 7, článok 2 ods. 8, 9, 10 a 12 pokynu FCÚ, ČCÚ, SCÚ, FMTIR, MVT ČSR a MVT SSR č. P-3/78 z 15.11.1978 o tvorbe cenových limitov (Cenový vestník čiastka 51-52/1978).
+
+- 83) Napríklad výmer FCÚ č. 3061/10/73 z 22. 12. 1973 o oceňovaní dodávok materiálov a výrobkov pri výpomoci medzi dodávateľskými organizáciami zúčastnenými na jednej stavbe (Cenový vestník čiastka 1/1974) v znení výmeru FCÚ č. 2645/10/1978 (Cenový vestník čiastka 30/1978).
+
+- 84) Pokyn FMZO a FCÚ č. P-2/80 o zabezpečení spolupráce organizácie zahraničného obchodu pri tvorbe cien (Cenový vestník čiastka 35/1980).
+
+- 85) Pokyn FCÚ, ČCÚ, SCÚ, FMTIR, MVT ČSR a MVT SSR č. P-3/78 z 15. novembra 1978 o tvorbe cenových limitov (Cenový vestník čiastka 51-52/1978).
+
+- 86) § 2 ods. 6 zákona č. 111/1971 Zb. o odvodoch do štátneho rozpočtu a príspevku na sociálne zabezpečenie v znení neskorších predpisov.
+
+- 87) Výmer FCÚ, ČCÚ a SCÚ č. 017/79 z 15. októbra 1979 o uplatnení limitov veľkoobchodných cien pre výrobky a výkony dodávané podľa nových technických noriem (Cenový vestník čiastka 46/1979).
