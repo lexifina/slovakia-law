@@ -1,1 +1,0 @@
-- 1) Napr. zákon č. 244/1991 Zb. o Federálnej bezpečnostnej informačnej službe, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon), zákon č. 563/1991 Zb. o účtovníctve, zákon č. 47/1990 Zb. o voľbách do Federálneho zhromaždenia v znení neskorších predpisov.
