@@ -1,1 +1,0 @@
-Vladimil Podstránsky v. r.
