@@ -117,9 +117,3 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 55. | | vyhl. č. 65/1971 Zb. | 16 ods. 1 | povoľovanie na odber rádioaktívnych žiaričov a na používanie zdrojov žiarenia
 
 56. | kontroly | zák. SNR č. 121/1971 Zb. | 11, 12, 13 | vykonávanie kontroly
-
-57. | lesného hospodárstva | zák. č. 61/1977 Zb. | 4 ods. 2 | rozhodujú o vyňatí lesných pozemkov z LPF a obmedzení ich využívania v hospodárskych lesoch s výmerou nad 2 ha do 5 ha
-
-58. | | zák. SNR č. 100/1977 Zb. | 22 ods. 1 | sledujú, aby stavy a chov zveri v lesných poľovných revíroch boli v súlade so zásadami hospodárenia v lesoch
-
-59. | | zák. č. 61/1977 Zb. | 5 ods. 2 | dávajú súhlas k návrhom územných plánov zón, mimo zón rekreačných oblasti
