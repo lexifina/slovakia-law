@@ -1,0 +1,1 @@
+- *) § 10 zák. SNR č. 207/1968 Zb. o zriadení ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej socialistickej republiky.
