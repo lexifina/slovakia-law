@@ -1,0 +1,1 @@
+- 1) Pozri však zákon č. 184/1964 Zb.
