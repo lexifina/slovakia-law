@@ -12,6 +12,8 @@
 
 - 7) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
 
+- 7a) Zákon č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
+
 - 8) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon), zákon č. 478/1992 Zb. o úžitkových vzoroch, zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z., zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z. z.
 
 - 9) Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
@@ -39,6 +41,8 @@
 - 17) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
 - 18) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+
+- 18a) § 2 písm. a) zákona č. 22/2004 Z. z.
 
 - 19) § 8 ods. 3 písm. c) zákona č. 264/1999 Z. z.
 
