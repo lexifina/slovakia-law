@@ -240,6 +240,30 @@ Príloha k vyhláške Ministerstva hospodárstva Slovenskej republiky č. 67/200
 
 - Ustanovenie uvedené v bode 2 sa nebude do 1. januára 2005 uplatňovať na textilné výrobky vyrobené z recyklovaných vlákien, ak sa amíny neuvoľňujú zo zvyškov pochádzajúcich z predchádzajúceho farbenia týchto vlákien a ak sa amíny uvedené v zozname uvoľňujú v koncentráciách nižších ako 70 ppm.
 
+- XLIV.
+
+- Difenyléter, pentabrómderivát C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O CAS č. 32534-81-9 EC č. 251-084-2
+
+- 1.
+
+- Nesmie sa uvádzať na trh ani používať ako látka alebo zložka látok alebo prípravkov v koncentráciách vyšších ako 0,1 hmotnostných percent.
+
+- 2.
+
+- Tovar sa nesmie uvádzať na trh, ak tovar samotný alebo jeho časť, ktorá bola opracovaná na účely zníženia horľavosti, obsahuje túto látku v koncentráciách vyšších ako 0,1 hmotnostných percent.
+
+- XLIVA.
+
+- Difenyléter, oktabrómderivát C<sub>12</sub>H<sub>5</sub>Br<sub>8</sub>O CAS č. 32536-52-0 EC č. 251-087-9
+
+- 1.
+
+- Nesmie sa uvádzať na trh ani používať ako látka alebo zložka látok alebo prípravkov v koncentráciách vyšších ako 0,1 hmotnostných percent.
+
+- 2.
+
+- Tovar sa nesmie uvádzať na trh, ak tovar samotný alebo jeho časť, ktorá bola opracovaná na účely zníženia horľavosti, obsahuje túto látku v koncentráciách vyšších ako 0,1 hmotnostných percent.".
+
 - 4.
 
 - Vysvetlenie záhlavia stĺpcov tabuliek
