@@ -1,0 +1,43 @@
+- 1) § 20 Zákonníka práce.
+
+- 2) § 2 zákona č. 120/1990 Zb., ktorým sa upravujú niektoré vzťahy medzi odborovými organizáciami a zamestnávateľmi v znení neskorších predpisov.
+
+- 2a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+
+- 3) § 9 Zákonníka práce.
+
+- 4) § 2 Obchodného zákonníka.
+
+- 4a) Položka 2 písm. a) zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
+
+- 4b) Zákon č. 311/1999 Z. z. o registri trestov.
+
+- 4c) § 2 zákona č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
+
+- 5) § 274 písm. h) Občianskeho súdneho poriadku.
+
+- 5a) Čl. 3 Dohovoru Medzinárodnej organizácie práce o slobode združovania a ochrane práva organizovať sa č. 87 z roku 1948 (oznámenie Federálneho ministerstva zahraničných vecí č. 489/1990 Zb. a bod 28 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z. o potvrdení sukcesie Slovenskej republiky do záväzkov z príslušných mnohostranných zmluvných dokumentov Medzinárodnej organizácie práce, ktorých depozitárom je generálny riaditeľ Medzinárodného úradu práce).Čl. 2 Dohovoru Medzinárodnej organizácie práce o použití zásad práva organizovať sa a kolektívne vyjednávať č. 98 z roku 1949 (oznámenie Federálneho ministerstva zahraničných vecí č. 470/1990 Zb. a bod 33 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
+
+- 5b) Čl. 8 ods. 1 písm. d), čl. 8 ods. 2 a 3 Medzinárodného paktu o hospodárskych, sociálnych a kultúrnych právach (vyhláška ministra zahraničných vecí č. 120/1976 Zb.).Čl. 6 ods. 4 Európskej sociálnej charty (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 329/1998 Z. z.).Čl. 3 Dohovoru Medzinárodnej organizácie práce o slobode združovania a ochrane práva organizovať sa č. 87 z roku 1948 (oznámenie Federálneho ministerstva zahraničných vecí č. 489/1990 Zb. a bod 28 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).Čl. 2 Dohovoru Medzinárodnej organizácie práce o použití zásad práva organizovať sa a kolektívne vyjednávať č. 98 z roku 1949 (oznámenie Federálneho ministerstva zahraničných vecí č. 470/1990 Zb. a bod 33 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
+
+- 6) Zákon č. 351/1997 Z. z. Branný zákon v znení zákona č. 401/2000 Z. z.
+
+- 7) Napríklad vyhláška Slovenského banského úradu č. 69/1988 Zb. o banskej záchrannej službe.
+
+- 8) § 36, § 37 ods. 4 písm. a), § 115 a § 130 ods. 1 Zákonníka práce.Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
+
+- 9) § 420 a nasl. Občianskeho zákonníka.
+
+- 10) § 170 a nasl. Zákonníka práce.
+
+- 11) § 373 a nasl. Obchodného zákonníka.§ 420 a nasl. Občianskeho zákonníka.
+
+- 12) § 15 ods. 1, § 16 a § 25 ods. 1 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
+
+- 13) § 12 ods. 7 a 9 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 14) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 15) § 139 vyhlášky č. 149/1988 Zb.
+
+- 16) § 130 ods. 1 Zákonníka práce.
