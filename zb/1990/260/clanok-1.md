@@ -118,6 +118,8 @@ Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb.
 
 - 29. V § 124 ods. 3 sa v prvej vete vypúšťa slovo „osobitnom“.
 
+- 30. V § 125 ods. 5 sa vypúšťa.
+
 - 31. V § 127 prvej vete sa slová „25 Kčs“ nahrádzajú slovami „30 Kčs, ak je občan umiestnený v ústave s celoročným pobytom, a 25 Kčs, ak je občan umiestnený v ústave s týždenným pobytom.“.
 
 - 32. V § 136 ods. 3 sa slová „národný výbor“ nahrádzajú slovom „orgán“.
