@@ -4,6 +4,24 @@ Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon 
 
 - 1. V § 6 ods. 3 sa za číslovku „15“ vkladá číslovka „15a,“.
 
+- 2 . V § 8 odsek 1 znie:
+
+- „(1)
+
+- Tuzemec a organizačná zložka cudzozemca v tuzemsku sú povinní ohlásiť skutočnosti týkajúce sa
+
+- a)
+
+- aktív a pasív vo vzťahu k tuzemcom v zahraničí a vo vzťahu k cudzozemcom,
+
+- b)
+
+- inkás a platieb vo vzťahu k tuzemcom v zahraničí a vo vzťahu k cudzozemcom, ktoré sa týkajú priamych a iných investícií, finančných úverov, cenných papierov, operácií na finančnom trhu vrátane operácií vykonávaných prostredníctvom cudzozemcov a nehnuteľností v zahraničí,
+
+- c)
+
+- zriadenia a stavu účtov v zahraničí.“.
+
 - 3. V § 8 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
 - „(2)
