@@ -2,7 +2,9 @@
 
 - 1a) Napríklad zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov, zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z., zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 70/2000 Z. z., zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov, zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa v znení zákona č. 310/1999 Z. z., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
-- 1b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 1b) Nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 z 27. januára 1997 o nových druhoch potravín a potravinových prísad (Ú. v. ES L 102, 19. 04. 1997).
+
+- 1c) Nariadenie (ES) č. 1829/2003 Európskeho parlamentu a Rady z 22. septembra 2003 o geneticky modifikovaných potravinách a krmivách (Ú. v. ES L 268, 18. 10. 2003).
 
 - 2) § 2 ods. 2 Obchodného zákonníka.
 
@@ -24,6 +26,8 @@
 
 - 8b) § 29 a 36 zákona č. 337/1998 Z. z.
 
+- 8ba) Čl. 30 Zmluvy o založení Európskeho spoločenstva – niceské znenie (Ú. v. ES C 325, 24. 12. 2002).
+
 - 8c) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
 - 9) § 45 a 46 Obchodného zákonníka.
@@ -32,7 +36,11 @@
 
 - 9aa) Napríklad § 20f až 20j Občianskeho zákonníka.
 
+- 9aaa) Napríklad nariadenie Rady (EHS) č. 1576/89 z 29. mája 1989 ustanovujúce všeobecné pravidlá na definovanie, opis a uvádzanie liehovín na trh v znení neskorších zmien (Ú. v. ES L 160, 12. 06. 1989), nariadenie Rady (EHS) č. 2081/92 zo 14. júla 1992 o ochrane zemepisných označení a označení pôvodu poľnohospodárskych výrobkov a potravín (Ú. v. ES L 208, 24. 07. 1992), nariadenie Rady (EHS) č. 2082/92 zo 14. júla 1992 o osvedčeniach špecifického charakteru na poľnohospodárske výrobky a potraviny (Ú. v. ES L 208, 24. 07. 1992).
+
 - 9ab) Zákon č. 264/1999 Z. z.
+
+- 9ac) Napríklad nariadenie (ES) č. 178/2002 Európskeho parlamentu a Rady z 28. januára 2002 stanovujúce všeobecné zásady a požiadavky zákona o potravinách, ustanovujúce Európsky úrad pre bezpečnosť potravín a stanovujúce postupy v záležitostiach bezpečnosti potravín (Ú. v. ES L 31, 01. 02. 2002), nariadenie Rady (ES) č. 2991/94 z 5. decembra 1994, ktorým sa ustanovujú normy pre roztierateľné tuky (Ú. v. ES L 316, 09. 12. 1994), nariadenie (ES) č. 1829/2003 z 22. 9. 2003 Európskeho parlamentu a Rady o geneticky modifikovaných potravinách a krmivách (Ú. v. ES L 268, 18. 10. 2003), nariadenie (ES) č. 1830/2003 z 22. 9. 2003 Európskeho parlamentu a Rady o vysledovateľnosti a označovaní geneticky modifikovaných organizmov a vysledovateľnosti potravín a krmív vyrobených z geneticky modifikovaných organizmov a ktorým sa mení a dopĺňa smernica 2001/18/ES (Ú. v. ES L 268, 18. 10. 2003), rozhodnutie Komisie 2003/867/ES z 1. decembra 2003, ktorým sa povoľuje umiestniť na trh salatrimy ako nové zložky potravín podľa nariadenia Európskeho parlamentu a Rady (ES) č. 258/97 (Ú. v. ES L 326, 13. 12. 2003).
 
 - 9b) Zákon č. 142/2000 Z. z.
 
