@@ -1,0 +1,1 @@
+Vondruška v.r.
