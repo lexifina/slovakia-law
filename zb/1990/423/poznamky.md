@@ -1,1 +1,0 @@
-- *) Zákon č. 147/1983 Zb. o zbraniach a strelive v znení zákona č. 49/1990 Zb.
