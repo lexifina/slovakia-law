@@ -144,6 +144,10 @@ Zákon Národnej rady Slovenskej republiky č.152/1995 Z. z. o potravinách v zn
 
 - zhromažďuje a vyhodnocuje poskytnuté informácie,
 
+- b)
+
+- oznamuje Európskej komisii opatrenia z dôvodu ohrozenia zdravia a bezpečnosti spotrebiteľa týkajúce sa uvádzania potravín do obehu, odporúčania uplatnenia špecifických podmienok pri uvádzaní potravín do obehu, zákaz vstupu dávky, kontajnera alebo nákladu potravín.
+
 - (5)
 
 - Za hodnotenie rizika a riadenie rizika zodpovedajú ministerstvo a ministerstvo zdravotníctva. Za rýchlu výmenu informácií v prípade rizika zodpovedajú orgány uvedené v odseku 2.
@@ -318,6 +322,10 @@ Oznámenie ministerstva o zrušení osvedčenia sa doručuje klasifikátorovi.
 
 Do 14 dní od doručenia oznámenia podľa odseku 4 je klasifikátor povinný vrátiť osvedčenie ministerstvu.
 
+(6)
+
+Orgány štátnej veterinárnej a potravinovej správy vykonávajú kontrolu dovozu potravín rastlinného pôvodu na schválených hraničných priechodoch podľa predpisov Európskeho spoločenstva.".
+
 Doterajšie odseky 3 až 6 sa označujú ako odseky 7 až 10.“.
 
 - 21. V § 23 ods. 7 písm. d) sa za slová <sub>“</sub>ožarovanie potravín a" vkladajú slová <sub>“</sub>kontroly dodržiavania zákazu".
@@ -455,6 +463,18 @@ Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 Zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.“.
 
 - 28. V § 31 ods. 2 sa na konci pripájajú tieto slová: „okrem konania podľa § 19 ods. 4 písm. b).".
+
+- 29. § 31a sa dopĺňa odsekom 3, ktorý znie:
+
+„(3)
+
+Dňom nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii sa zrušuje povinnosť registrácie podľa § 4 ods. 2 písm. g).“.
+
+- 30. Za § 31b sa vkladá § 31c, ktorý znie:
+
+„§ 31c
+
+Zrušuje sa vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 240/2002 Z. z. o registrácii vyrábaných potravín a dovážaných potravín.“.
 
 - 31. Zákon sa dopĺňa prílohou, ktorá znie:
 
