@@ -12,7 +12,7 @@
 
 - 3) § 4 ods. 3 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
-- 4) § 2 písm. a) zákona č. 488/2002 Z. z.
+- 4) § 2 písm. a) zákona č. 488/2002 Z. z. v znení zákona č. 472/2003 Z. z.
 
 - 5) § 2 písm. b) zákona č. 488/2002 Z. z.
 

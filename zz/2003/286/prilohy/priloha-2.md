@@ -50,7 +50,7 @@ Príloha č. 2 k nariadeniu vlády č. 286/2003 Z. z.
 
     - 11. dostatočný počet šatní s hladkými, pre vodu nepriepustnými, umývateľnými stenami a podlahami, s umývadlami a splachovacími záchodmi; záchody sa nesmú otvárať priamo do pracovných miestností; umývadlá musia byť vybavené na umývanie rúk a musia mať hygienické prostriedky na osušenie rúk; kohútiky alebo batérie umývadiel nesmú byť ovládateľné rukou alebo ramenom,
 
-    - 12. vhodne vybavenú uzamykateľnú miestnosť na výlučné používanie orgánu veterinárnej správy, ak si objem ošetrovaných výrobkov vyžaduje pravidelnú prítomnosť alebo nepretržitú prítomnosť veterinárneho inšpektora príslušného orgánu veterinárnej správy; ak sa nevyžaduje trvalá prítomnosť orgánu veterinárnej správy v každom čase, postačuje uzamykateľné zariadenie s dostatočnou kapacitou na uchovávanie vybavenia a materiálov,
+    - 12. vhodne vybavenú uzamykateľnú miestnosť na výlučné používanie regionálnej veterinárnej a potravinovej správy, ak si objem ošetrovaných výrobkov vyžaduje pravidelnú prítomnosť alebo nepretržitú prítomnosť veterinárneho inšpektora príslušnej regionálnej veterinárnej a potravinovej správy; ak sa nevyžaduje trvalá prítomnosť regionálnej veterinárnej a potravinovej správy v každom čase, postačuje uzamykateľné zariadenie s dostatočnou kapacitou na uchovávanie vybavenia a materiálov,
 
     - 13. miestnosť alebo bezpečné miesto na skladovanie čistiacich prostriedkov, dezinfekčných prostriedkov a podobných látok,
 

@@ -168,13 +168,17 @@ Príloha č. 3 k nariadeniu vlády č. 286/2003 Z. z.
 
     - 4. a) Zdravotná značka na mäsových výrobkoch zo schválených prevádzkarní musí obsahovať tieto náležitosti v oválnom ohraničení:
 
-      - 1.1. v hornej časti tlačenými veľkými písmenami začiatočné písmená alebo písmeno odosielajúcej krajiny podľa právneho aktu Európskych spoločenstiev uvedeného v prílohe č. 1 bode 1 (t. j. členského štátu Európskej únie a Európskych spoločenstiev); ak ide o Slovenskú republiku, písmená: „SK“,
+      - 1.1. v hornej časti tlačenými veľkými písmenami začiatočné písmená alebo písmeno odosielajúcej krajiny; ak ide o Slovenskú republiku, písmená: „SK“,
 
       - 1.2. po ktorých nasleduje schvaľovacie číslo prevádzkarne alebo prebaľovacieho strediska v súlade s prílohou č. 7, ak je to potrebné spolu s kódovým číslom uvádzajúcim druh výrobku, pre ktorý je prevádzkareň schválená,
+
+      - 1.3. v dolnej časti, ak ide o Slovenskú republiku, skratku „EHS“, alebo
 
       - 2.1. v hornej časti meno odosielajúcej krajiny veľkými písmenami; ak ide o Slovenskú republiku, slová: „SLOVENSKÁ REPUBLIKA“,
 
       - 2.2. v strede schvaľovacie číslo prevádzkarne alebo prebaľovacieho strediska v súlade s prílohou č. 7, ak je to potrebné, spolu s kódovým číslom uvádzajúcim druh výrobku, pre ktorý je prevádzkareň schválená,
+
+      - 2.3. v dolnej časti; ak ide o Slovenskú republiku, skratku „EHS“,
 
         - b) Zdravotná značka sa môže použiť povolenými prostriedkami priamo na výrobok alebo môže byť predtlačená na jeho priamom obale alebo druhom obale, alebo na etikete pripevnenej k výrobku, k jeho priamemu obalu alebo k druhému obalu. Ak je pečiatka použitá na priamom obale, musí sa zničiť, keď sa tento priamy obal otvára. Ak sa priamy obal otvára tak, že sa značka nezničí, možno značku použiť len na obal, ktorý sa pri otváraní zničí. V prípade výrobkov v hermeticky uzavretých obaloch musí byť značka použitá nezmazateľne buď na viečku, alebo na plechovke.
 
@@ -182,13 +186,15 @@ Príloha č. 3 k nariadeniu vlády č. 286/2003 Z. z.
 
     - 5. Ak mäsový výrobok obsahuje iné potraviny živočíšneho pôvodu, ako sú produkty rybolovu, mliečne výrobky alebo vaječné výrobky, musí sa použiť len jedna zdravotná značka.
 
-    - 6. Mäsové výrobky určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní s nízkou kapacitou povolených podľa § 9 sa označujú rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch s výnimkou tvaru a náležitostí zdravotnej značky uvedenej v bode 4 písm. a). Tieto výrobky sa musia označiť národnou značkou kruhového tvaru s týmito údajmi:
+    - 6. Mäsové výrobky určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní s nízkou kapacitou povolených podľa § 9 sa označujú rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch s výnimkou tvaru a náležitostí zdravotnej značky uvedenej v bode 4 písm. a). Bez toho, aby bolo dotknuté príslušné rozhodnutie Európskej komisie, sa tieto výrobky musia označovať národnou značkou kruhového tvaru s týmito údajmi:
 
       - a) v hornej časti skratkou názvu okresu,<sup>8</sup>) s výnimkou okresu Svidník, kde sa použije skratka SVK,
 
       - b) v strednej časti veterinárnym kontrolným číslom prevádzkarne s nízkou kapacitou,
 
       - c) v dolnej časti skratkou: N.
+
+    - 7. Mäsové výrobky určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní podľa § 10, ktorým bola uznaná požiadavka na výnimky v prechodnom období určenom rozhodnutím Európskej komisie, sa od 1. mája 2004 musia označovať osobitnou národnou značkou štvorcového tvaru, v ktorej sa uvádzajú čitateľnými znakmi informácie, ktoré určí Štátna veterinárna a potravinová správa v súlade s príslušným rozhodnutím Európskej komisie.
 
     - 8. Mäsové výrobky z priemyselných prevádzkarní s povolenými dočasnými výnimkami<sup>1</sup>) do 31. decembra 2003, ktoré pri účinnosti tohto nariadenia ešte nespĺňajú všetky podmienky na schválenie, sa do uplynutia týchto výnimiek a schválenia prevádzkarne, najdlhšie však do 1. mája 2004, označujú rovnakým spôsobom, ako je uvedené v bode 6.
 
@@ -268,11 +274,11 @@ Príloha č. 3 k nariadeniu vlády č. 286/2003 Z. z.
 
       - 5. sa vykonávajú potrebné kontroly na zabezpečenie toho, aby voda na chladenie obalov obsahovala po použití reziduálny obsah chlóru; štátna veterinárna a potravinová správa môže povoliť výnimku z tejto požiadavky, ak voda na chladenie obalov spĺňa požiadavky podľa osobitného predpisu.<sup>9</sup>)
 
-    - C. Príslušný orgán veterinárnej správy môže povoliť
+    - C. Štátna veterinárna a potravinová správa môže do ustanovenia príslušných požiadaviek Európskych spoločenstiev povoliť
 
       - a) pridávanie určitých látok na predchádzanie korózie plechoviek a zmäkčenie a dezinfekciu vody do vody používanej v autoklávoch,
 
-      - b) používanie recirkulovanej vody na ochladzovanie tepelne ošetrených obalov; táto voda musí byť purifikovaná a musí byť ošetrená chlórovaním alebo iným uznaným spôsobom ošetrenia, ktorého účelom je, aby recirkulovaná voda vyhovovala požiadavkám osobitného predpisu<sup>9</sup>) a nemohla tak kontaminovať výrobky alebo predstavovať riziko pre zdravie ľudí. Recirkulovaná voda musí cirkulovať v uzavretom okruhu tak, aby sa nemohla použiť na iné účely.
+      - b) používanie recirkulovanej vody na ochladzovanie tepelne ošetrených obalov; táto voda musí byť purifikovaná a musí byť ošetrená chlórovaním alebo iným uznaným spôsobom ošetrenia v súlade s rozhodnutím Európskej komisie, ktorého účelom je, aby recirkulovaná voda vyhovovala požiadavkám osobitného predpisu<sup>9</sup>) a nemohla tak kontaminovať výrobky alebo predstavovať riziko pre zdravie ľudí. Recirkulovaná voda musí cirkulovať v uzavretom okruhu tak, aby sa nemohla použiť na iné účely.
 
     - Ak nie je riziko kontaminácie, môže sa voda použitá na chladenie obalov a voda z autoklávov použiť na konci pracovného úseku na umývanie podláh.
 
