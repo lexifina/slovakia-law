@@ -18,6 +18,8 @@
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
+- 9a) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
 - 10) § 116 Občianskeho zákonníka.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
@@ -39,6 +41,8 @@
 - 19) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 20) § 26 zákona č. 351/1997 Z. z.
+
+- 22a) Napríklad zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov a zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore.
 
 - 21) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
 
@@ -65,5 +69,9 @@
 - 31) § 3 ods. 1 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 32) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
+
+- 32a) Zákon č. 313/2001 Z. z. o verejnej službe v znení zákona č. 118/2002 Z. z.
+
+- 32b) § 5 ods. 7 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 33) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.

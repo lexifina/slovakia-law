@@ -38,7 +38,7 @@ Príloha č. 1 k zákonu č. 312/2001 Z. z.
 
     - Funkcia: radca
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Príprava rozhodnutí na koordinovanie a usmerňovanie aktivít vo vymedzenej časti štátnej služby v orgánoch miestnej štátnej správy, územných orgánoch štátnej správy, orgánoch alebo úradoch, ktoré vykonávajú štátne záležitosti. Odborná príprava rozhodnutí v druhom stupni správneho konania na príslušnom úseku štátnej správy vrátane účasti na kontrole.
 
@@ -46,7 +46,7 @@ Príloha č. 1 k zákonu č. 312/2001 Z. z.
 
     - Funkcia: samostatný radca
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Samostatné odborné spracúvanie rozhodnutí a vykonávanie kontroly. Rozhodovanie na druhom stupni správneho konania. Samostatné ucelené odborné činnosti v príslušnom odbore štátnej služby alebo na príslušnom úseku štátnej správy. Riadenie, koordinovanie a usmerňovanie aktivít vo vymedzenom úseku štátnej služby v orgánoch miestnej štátnej správy, územných orgánoch štátnej správy, orgánoch alebo úradoch, ktoré vykonávajú štátne záležitosti.
 
@@ -54,7 +54,7 @@ Príloha č. 1 k zákonu č. 312/2001 Z. z.
 
     - Funkcia: odborný radca alebo okresný radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako štyri roky a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Samostatné odborné špecializované činnosti spočívajúce najmä v analytickej činnosti, vo vyhodnocovaní výsledkov a v príprave podkladov na rozhodovanie v otázkach spadajúcich do rozsahu kompetencie ministerstva alebo iného ústredného orgánu štátnej správy (ďalej len „ústredný orgán štátnej správy“) alebo iného orgánu štátnej správy alebo orgánu, alebo úradu, ktoré vykonávajú štátne záležitosti v príslušnom odbore štátnej služby. Tvorba opatrení v príslušnom odbore štátnej služby s celospoločenským dosahom. Kontrolná a inšpekčná činnosť, ako aj prešetrovanie sťažností a petícií vrátane vydávania rozhodnutí v príslušnom odbore štátnej služby. Koordinovanie činností orgánov štátnej správy a obcí na úrovni okresu alebo na úrovni kraja. Tvorba právnych predpisov podľa splnomocnení ustanovených zákonom s regionálnou pôsobnosťou alebo s celoštátnou pôsobnosťou. Tvorba a koordinovanie koncepcií a programov rozvoja v odbore štátnej služby s dôsledkami na územie okresu.
 
@@ -62,7 +62,7 @@ Príloha č. 1 k zákonu č. 312/2001 Z. z.
 
     - Funkcia: hlavný radca alebo krajský radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Koncepčné alebo metodické činnosti na úrovni ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti. Koordinovanie štátnej služby alebo častí zložitých systémov na úrovni ústredného orgánu štátnej správy v príslušnom odbore štátnej služby alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni. Kontrolná a inšpekčná činnosť vrátane vybavovania sťažností a petícií s celospoločenským dosahom. Normotvorná činnosť vo vymedzenej oblasti v príslušnom odbore štátnej služby na úrovni ústredného orgánu štátnej správy alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni. Koncepčná, systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie kraja.
 
@@ -70,6 +70,6 @@ Príloha č. 1 k zákonu č. 312/2001 Z. z.
 
     - Funkcia: štátny radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax viac ako deväť rokov a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Tvorba štátnej politiky v príslušnej oblasti na úrovni ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni. Koordinovanie celoštátneho alebo medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami za rozhodnutia s celoštátnym alebo medzinárodným dosahom na úrovni ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátnu správu na celoštátnej úrovni, alebo orgánu, alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni. Koncepčná činnosť a tvorba zásadných legislatívnych opatrení na úrovni ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni, alebo s medzinárodným dosahom.
