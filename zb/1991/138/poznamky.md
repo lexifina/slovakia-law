@@ -122,6 +122,8 @@
 
 - 27) Zákon č. 279/1949 Zb. o finančnom hospodárení národných výborov.
 
+- 27a) § 137 až 142 Občianskeho zákonníka.
+
 - 28) § 12a zákona č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby v znení zákona č. 95/1988 Zb. a zákona č. 114/1990 Zb.
 
 - § 11 ods. 2 a 3 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení zákona č. 93/1992 Zb.
