@@ -2,19 +2,23 @@
 
 Opatrenie Štatistického úradu Slovenskej republiky č. 299/1996 Z. z., ktorým sa ustanovujú číselníky územných jednotiek Slovenskej republiky v znení opatrenia Štatistického úradu Slovenskej republiky č. 113/1998 Z. z. a opatrenia Štatistického úradu Slovenskej republiky č. 239/1999 Z. z. sa mení a dopĺňa takto:
 
-„Názov obce | Kód obce | Názov okresu | Kód okresu
+- 1. V prílohe sa číselník obcí Slovenskej republiky dopĺňa názvami a číselnými kódmi týchto nových obcí:<sup>1</sup>)
 
-Dolné Lefantovce | 582425 | Nitra | 403
+- „Názov obce | Kód obce | Názov okresu | Kód okresu
 
-Kostoľany nad Hornádom | 582514 | Košice-okolie | 806”.
+- Dolné Lefantovce | 582425 | Nitra | 403
 
-„Pôvodný názov obce | Nový názov obce | Kód obce | Názov okresu | Kód okresu
+- Kostoľany nad Hornádom | 582514 | Košice-okolie | 806”.
 
-Lefantovce | Horné Lefantovce | 545635 | Nitra | 403
+- 2. V prílohe sa v číselníku obcí Slovenskej republiky menia názvy týchto obcí:<sup>1</sup>)
 
-Kalnica | Kalnica | 506109 | Nové Mesto nad Váhom | 304
+- „Pôvodný názov obce | Nový názov obce | Kód obce | Názov okresu | Kód okresu
 
-Matejovce | Matejovce nad Hornádom | 543349 | Spišská Nová Ves | 810”.
+- Lefantovce | Horné Lefantovce | 545635 | Nitra | 403
+
+- Kalnica | Kalnica | 506109 | Nové Mesto nad Váhom | 304
+
+- Matejovce | Matejovce nad Hornádom | 543349 | Spišská Nová Ves | 810”.
 
 - 3. V prílohe sa v číselníku obcí Slovenskej republiky menia názvy týchto obcí:<sup>2</sup>)
 
