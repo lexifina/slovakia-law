@@ -1,0 +1,3 @@
+- 1) Čl. I nariadenia vlády Slovenskej republiky č. 197/2000 Z. z. o rozdelení niektorých obcí, o zmene názvu niektorých obcí a o zmene a doplnení nariadenia vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov.
+
+- 2) Čl. I nariadenia vlády Slovenskej republiky č. 74/2001 Z. z. o zmene názvu obcí Šutovce a Sliače a o zmene a doplnení nariadenia vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov.
