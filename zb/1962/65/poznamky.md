@@ -1,1 +1,0 @@
-- *) Zákon č. 64/1962 Zb., ktorým sa rozširuje pôsobnosť Štátnej energetickej inšpekcie.
