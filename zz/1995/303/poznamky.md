@@ -153,3 +153,5 @@
 - 34) § 51 zákona č. 40/1964 Zb.
 
 - 35) § 4 zákona č. 446/2001 Z. z. o majetku vyšších územných celkov.§ 4a zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení zákona č. 447/2001 Z. z.
+
+- 36) § 28 ods. 3 písm. b) zákona č. 92/1991 Zb. v znení zákona č. 122/2000 Z. z.

@@ -10,6 +10,12 @@
 
 (5) Ustanovenia § 26 ods. 4 a § 26a ods. 4 sa prvýkrát uplatnia pre rok 2004; v rokoch 2002 a 2003 sa postupuje podľa zákona o štátnom rozpočte na príslušný rozpočtový rok. Ustanovenia § 29a ods. 6 až 8 sa pre obce prvýkrát uplatnia na rok 2005.
 
-(6) Záväzky štátu, ktoré pri prechode zriaďovateľských funkcií podľa osobitného predpisu neprešli na obec alebo vyšší územný celok pri prechode majetku podľa osobitného predpisu,<sup>35</sup>) sú záväzkami pôvodného zriaďovateľa alebo orgánu, ktorý plnil funkciu zriaďovateľa.
+(6) Záväzky štátu, ktoré pri prechode zriaďovateľských funkcií podľa osobitného predpisu neprešli na obec alebo vyšší územný celok pri prechode majetku podľa osobitného predpisu,<sup>35</sup>) sú záväzkami pôvodného zriaďovateľa alebo orgánu, ktorý plnil funkciu zriaďovateľa. Pôvodný zriaďovateľ alebo orgán, ktorý plnil funkciu zriaďovateľa, môže tieto záväzky
+
+- a) uhradiť priamo z prostriedkov štátneho rozpočtu,
+
+- b) uhradiť priamo z prostriedkov Fondu národného majetku Slovenskej republiky poskytnutých v súlade s osobitným predpisom,<sup>36</sup>)
+
+- c) previesť na právnickú osobu založenú ústredným orgánom štátnej správy Slovenskej republiky<sup>12</sup>) alebo Fondom národného majetku Slovenskej republiky, ktorej predmetom činnosti je odkupovanie pohľadávok veriteľov, ktoré zodpovedajú týmto záväzkom.
 
 (7) V roku 2002 sa finančné prostriedky podľa § 26a ods. 6 vedú na účtoch v Národnej banke Slovenska.
