@@ -218,7 +218,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
   - | b) s ťažkým obmedzením výkonnosti organizmu pri substitučnej hormonálnej liečbe | 50-80
 
-  - 7.2. | Hypofyzárny nanizmus (telesná výška nedosahuje 120 em) | 40
+  - 7.2. | Hypofyzárny nanizmus (telesná výška nedosahuje 120 em) | 45
 
   - 7.3. | Akromegália |
 
@@ -318,13 +318,13 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
   - 2. | Schizofrénia, poruchy schizotypové a poruchy s bludmi |
 
-  - | a) stredne ťažké formy | 20-30
+  - | a) stredne ťažké formy | 35-45
 
   - | b) ťažké formy (floridný proces, ťažký defekt osobnosti) | 50-80
 
   - 3. | Afektívne poruchy nálady (manické, depresívne, periodické) |
 
-  - | a) stredne ťažké formy | 20-30
+  - | a) stredne ťažké formy | 35-45
 
   - | b) ťažké formy | 50-80
 
@@ -506,7 +506,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - Položka | Druh zdravotného postihnutia | Miera poklesu schopnosti zárobkovej činnosti v%
 
-    - 1. | Monoplégia | 40
+    - 1. | Monoplégia | 50
 
     - 2. | Hemiplégia | 75
 
@@ -570,7 +570,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - | d) centrálne skotómy znižujúce zrakovú ostrosť najmä do blízka (nemožnosť čítania tlače bežnej veľkosti) | 15-30
 
-    - 7. | Strata jedného oka (úrazového pôvodu) pri zachovaní zrakových funkcií na druhom oku | 20-30
+    - 7. | Strata jedného oka (úrazového pôvodu) pri zachovaní zrakových funkcií na druhom oku | 45
 
     - 8. | Obrna hornej mihalnice s úplným uzatvorením očnej štrbiny, prípadne blefarospazmus, paraspazmus facialis, lagoftalmus | 10- 15
 
@@ -622,11 +622,11 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - 1.4 | Obojstranná úplná hluchota (100 % podľa Fowlera, 100 dB) | 50
 
-    - 2. | Obojstranná praktická hluchota (viac ako 85 % - 90 % podlá Fowlera, viac ako 70dB) | 40
+    - 2. | Obojstranná praktická hluchota (viac ako 85 % - 90 % podlá Fowlera, viac ako 70dB) | 45
 
     - 3. | Obojstranná úplná alebo praktická hluchota s ťažkým porušením komunikačných schopností v hovorovej reči a so sociálnou dezintegráciou | 60-80
 
-    - 4. | Obojstranná ťažká nedoslýchavosť (80 % podľa Fowlera, 60 - 65 dB) | 30-40
+    - 4. | Obojstranná ťažká nedoslýchavosť (80 % podľa Fowlera, 60 - 65 dB) | 35-45
 
     - 5. | Obojstranná stredne ťažká nedoslýchavosť (55 % podlá Fowlera, 40 - 45 dB) | 20-25
 
@@ -734,7 +734,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - | a) ľahká forma | 20-25
 
-    - | b) stredne ťažká forma | 35-45
+    - | b) stredne ťažká forma | 40-55
 
     - | c) ťažká forma | 60-90
 
@@ -1534,7 +1534,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - | a) s miernym reziduálnym funkčným nálezom | 10-20
 
-    - | b) často recidivujúce prejavy nervového a svalového dráždenia, slabosť svalového korzetu chrbta s podstatným obmedzením celkovej výkonnosti organizmu | 30-40
+    - | b) často recidivujúce prejavy nervového a svalového dráždenia, slabosť svalového korzetu chrbta s podstatným obmedzením celkovej výkonnosti organizmu | 35-45
 
     - | c) s nepriaznivým reziduálnym funkčným nálezom a trvalými prejavmi dráždenia nervov, s parézami a so svalovými atrofiami a s poruchou funkcie zvieračov | 70-80
 
@@ -1542,7 +1542,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - | a) ľahkého stupňa | 10
 
-    - | b) stredného stupňa (napr. vo viacerých pohybových segmentoch vyjadreným obmedzením až stuhnutím chrbtice, pri skolióze 40° - 75° pri klinových stavcoch, motýlikovitých stavcoch, pri fixovanom okrúhlom chrbte s tvorbou gibbu) | 25-40
+    - | b) stredného stupňa (napr. vo viacerých pohybových segmentoch vyjadreným obmedzením až stuhnutím chrbtice, pri skolióze 40° - 75° pri klinových stavcoch, motýlikovitých stavcoch, pri fixovanom okrúhlom chrbte s tvorbou gibbu) | 35-45
 
     - | c) ťažkého stupňa (napr. stuhnutie viacerých stavcov chrbtice, používanie trupovej ortézy, ktorá zahŕňa tri časti chrbtice, extrémne skoliózy s otočným sklzom, spondylolistéza so sklzom o 2/3 tela stavca) | 60-70
 
@@ -1652,7 +1652,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - | a) v priaznivom postavení | 20-30
 
-    - | b) v nepriaznivom postavení | 40
+    - | b) v nepriaznivom postavení | 45
 
     - 13. | Obmedzenie pohyblivosti v lakťovom kĺbe |
 
@@ -1746,7 +1746,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - 34. | Strata jednej dolnej končatiny v stehne | 50
 
-    - 35. | Strata jednej dolnej končatiny v predkolení, priehlavku alebo v Chopartovom kĺbe | 40
+    - 35. | Strata jednej dolnej končatiny v predkolení, priehlavku alebo v Chopartovom kĺbe | 45
 
     - 36. | Strata palca nohy so stratou hlavičky I. priehlavkovej kosti alebo strata iného prsta | 10
 
@@ -1804,7 +1804,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
     - | a) v priaznivom postavení (ohnutie približne 10°) | 25-30
 
-    - | b) v nepriaznivom postavení | 30-40
+    - | b) v nepriaznivom postavení | 35-45
 
     - 49. | Uvolnenie väzivového aparátu kolena |
 
