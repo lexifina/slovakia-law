@@ -22,6 +22,8 @@
 
 - 9) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
 
+- 9a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
+
 - 10) Zákon č. 95/1963 Zb. o štátnom notárstve a o konaní pred štátnym notárstvom (notársky poriadok) v znení neskorších predpisov.
 
 - 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
