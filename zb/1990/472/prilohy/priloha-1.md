@@ -44,8 +44,6 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 23. | | zák. č. 109/1964 Zb. v znení neskorších predpisov | 65 ods. 2 | rozhodovanie o tom, ktorej organizácii patri právo hospodárenia s národným majetkom
 
-24. | | vyhl. č. 119/1988 Zb. | 5 ods. 1 |
-
 26. | dopravy | zák. č. 51/1964 Zb. v znení zák. č. 104/1974 Zb. | 19 | vykonávanie pôsobnosti štátnej správy vo veciach dráh
 
 27. | | | 20 ods. 1 | vykonávanie štátneho odborného dozoru na dráhach
