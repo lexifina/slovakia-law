@@ -20,7 +20,7 @@
 
 - 11) Zákon č. 88/1988 Zb. o štátnom podniku.
 
-- 12) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) a dopĺňajúce predpisy.
+- 12) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) a dopĺňajúce predpisy a zákon č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch.
 
 - 13) Piata časť a príloha č. 2 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení vyhlášky č. 164/1979 Zb. a vyhlášky č. 149/1988 Zb.
 
