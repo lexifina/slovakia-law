@@ -1,3 +1,3 @@
 # § 96b
 
-Ustanovenia tohto zákona o povinnostiach právnických osôb, pôsobnosti orgánov štátnej správy na úseku požiarnej ochrany pri vykonávaní štátneho požiarneho dozoru, pôsobnosti obcí pri vykonávaní preventívnych požiarnych kontrol a o postihu právnických osôb za porušenie predpisov o požiarnej ochrane sa primerane vzťahujú na fyzické osoby vykonávajúce podnikateľskú činnosť podľa osobitných predpisov.<sup>17a</sup>)
+Ustanovenia § 6, 7, 13, 20a, 21, § 24 ods. 4, § 31, § 33 až 35, § 39, 41, § 65 až 73, § 76, 93 a 96 týkajúce sa právnických osôb sa primerane vzťahujú aj na fyzické osoby vykonávajúce podnikateľskú činnosť.

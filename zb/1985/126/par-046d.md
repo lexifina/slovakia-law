@@ -4,4 +4,4 @@
 
 (2) Rozpočtové prostriedky na činnosť Zboru požiarnej ochrany zabezpečuje a spravuje ministerstvo vnútra.
 
-(3) Ministerstvo vnútra ustanoví spôsob zabezpečenia Zboru požiarnej ochrany po stránke finančnej, materiálno-technickej, informatiky a spojenia, zdravotníckej a sociálnej.
+(3) Ministerstvo vnútra ustanoví spôsob zabezpečenia Zboru požiarnej ochrany po stránke finančnej, materiálno-technickej, informatiky a spojenia.

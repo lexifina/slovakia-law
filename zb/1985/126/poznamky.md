@@ -1,6 +1,6 @@
-- 1) Zákon č. 145/1970 Zb. o národohospodárskom plánovaní.
+- 1) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
-- 2) § 43 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 2) Napr. zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 3) Zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
 
@@ -29,6 +29,8 @@
 - § 7 ods. 1 písm. b) zákona Slovenskej národnej rady č. 176/1989 Zb. o vyhlasovaní všeobecne záväzných právnych predpisov a iných opatrení orgánov Slovenskej socialistickej republiky v Zbierke zákonov.
 
 - 10c) Čl. 6 ústavného zákona Slovenskej národnej rady č. 50/1990 Zb. o názve, štátnom znaku, štátnej vlajke, štátnej pečati a o štátnej hymne Slovenskej republiky.
+
+- 10d) § 17 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
 
 - 11) Napríklad: § 16 zákona č. 28/1984 Zb. o štátnom dozore nad jadrovou bezpečnosťou jadrových zariadení, § 6 vyhlášky Ministerstva zdravotníctva č. 42/1966 Zb. o poskytovaní liečebno-preventívnej starostlivosti.
 
