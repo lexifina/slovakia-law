@@ -1,0 +1,1 @@
+- 1) Zákon č. 27/1959 Zb. o družstevnej bytovej výstavbe.
