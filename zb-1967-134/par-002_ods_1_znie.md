@@ -1,0 +1,5 @@
+# § 2 ods. 1 znie: Predmet podnikania podniku je zahraničný obchod, najmä vývoz a dovoz výrobkov a zariadení silnoprúdovej elektrotechniky (vrátane kaliarní a elektrických indukčných pecí), zariadení na výrobu betónových prefabrikátov a dielcov, zariadení pre ťažbu a úpravu uhlia, stavebných a cestných strojov, oceľových konštrukcií objektov a mostov, úzkorozchodných lokomotív, osobných i nákladných vozňov, lodí, bagrov a plávajúcich čerpacích staníc, lodeníc a prístavných zariadení, transportných, ukladacích a zdvíhacích zariadení, vzduchotechnických zariadení, ako aj čerpadiel a čerpacích zariadení, armatúr, výrobkov pre úpravu vôd a ďalej zariadení montovní s čiastočnou výrobou silnoprúdových prístrojov, elektromotorov a čerpadiel, zariadení na opravu vagónov;
+
+predmetom podnikania podniku je ďalej geologický prieskum v zahraničí, vývoz a dovoz stavebných prác (stavba ciest, mostov, železničných tratí, tunelov a iných stavieb);
+
+k oprávneniu podniku patrí dodávať aj časti zariadení, náhradné dielce, komponenty, projekty, montáže a technickú pomoc, prípadne stavebné časti dodávok, všetko pokiaľ to súvisí s tovarom vyhradeným podniku.
