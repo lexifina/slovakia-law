@@ -1,6 +1,6 @@
 # § 36d
 
-Banka, ktorá vykonáva hypotekárne obchody (ďalej len „hypotekárna banka“), môže dočasne voľné peňažné prostriedky získané z hypotekárnych obchodov uložiť v banke so sídlom v Slovenskej republike alebo v pobočke zahraničnej banky v Slovenskej republike. Ďalej môže tieto prostriedky použiť na nákup
+Banka alebo pobočka zahraničnej banky, ktorá vykonáva hypotekárne obchody (ďalej len „hypotekárna banka“), môže dočasne voľné peňažné prostriedky získané z hypotekárnych obchodov uložiť v banke so sídlom v Slovenskej republike alebo v pobočke zahraničnej banky v Slovenskej republike. Ďalej môže tieto prostriedky použiť na nákup
 
 - a) hypotekárnych záložných listov vydaných inou hypotekárnou bankou,
 
