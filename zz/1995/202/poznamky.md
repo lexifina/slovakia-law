@@ -58,17 +58,15 @@
 
 - 18a) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
-- 18b) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+- 19) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu v znení neskorších predpisov.
 
-- 19) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 20) Napríklad zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
 
-- 20) Občiansky zákonník v znení neskorších predpisov.
+- 21) § 30 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 21) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov.
+- 21a) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
 
-- 21a) Zákon č. 21/1992 Zb. v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.Zákon č. 385/1999 Z. z.Zákon č. 600/1992 Zb. v znení neskorších predpisov.
-
-- 21b) § 21 ods. 3 a 4 Obchodného zákonníka.
+- 21b) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon), zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách v znení neskorších predpisov, zákon č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti v znení zákona č. 183/2000 Z. z.
 
 - 23) § 36 ods. 1 až 6 a § 37 a 37a zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.Druhá časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
