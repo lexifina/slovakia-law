@@ -1,3 +1,0 @@
-Minister:
-
-Kudrna v. r.
