@@ -114,12 +114,6 @@ Príloha č. 1 zákona č. 222/1992 Zb.
 
 - | okrem: |
 
-- | 0404 | - Srvátka, tiež zahustená alebo s prídavkom cukru alebo Iných
-
-- | | sladidiel; výrobky zo zložiek prírodného mlieka, tiež s prídavkom
-
-- | | cukru alebo Iných sladidiel, Inde neuvedené ani nezahrnuté
-
 - | 04070090 | - Ostatné
 
 - | 0408 | - Vtáčie vajcia, bez škrupín, a žltky, čerstvé, sušené, varené
@@ -330,6 +324,8 @@ Príloha č. 1 zákona č. 222/1992 Zb.
 
 - 19011000 | - Prípravky na detskú výživu v balení na drobný predaj |
 
+- 19019090 | - Ostatné |
+
 - 1902 | - Cestoviny, tiež varené alebo plnené (mäsom alebo inými plnkami) alebo inak upravené, |
 
 - | ako špagety, makaróny, rezance, široké rezance, halušky, ravioli |
@@ -384,9 +380,9 @@ Príloha č. 1 zákona č. 222/1992 Zb.
 
 - 210690 | - Ostatné |
 
-- 2201 | - Voda, včítane minerálnych vôd prírodných alebo |
+- 2201 | - Voda, včítane minerálnych vôd prírodných alebo umelých a sódoviek, bez prísady cukru alebo iných sladidiel, nearomatizované; ľad a sneh |
 
-- | umelých a sódoviek, bez prísady cukru alebo iných sladidiel, nearomatizované; ľad a sneh |
+- 220290 | - Ostatné |
 
 - 2209 | - Stolný ocot a jeho náhradky získané z kyseliny octovej |
 

@@ -2,6 +2,10 @@
 
 - 1a) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 1b) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
+- 1c) § 15 ods. 1 písm. a) zákona č. 111/1990 Zb.
+
 - 2) Zákon Slovenskej národnej rady č. 84/1991 Zb. o územných finančných orgánoch v znení zákona Slovenskej národnej rady č. 136/1992 Zb. a zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 2a) § 829 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplne znenie č. 47/1992 Zb.).
@@ -33,6 +37,8 @@
 - 12) Vyhláška Federálneho štatistického radu č. 114/1972 Zb. o zavedení a využívaní jednotnej klasifikácie výkonov v znení neskorších predpisov - odbory číslo 941, 942, 943 a 945.
 
 - 13) § 4 Devízového zákona č. 528/1990 Zb.
+
+- 13a) § 97 ods. 1 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 14) § 476 až 488 zákona č. 513/1991 Zb.
 
