@@ -1,0 +1,1 @@
+- 1) § 10 písm. a) zákona č. 60/1961 Zb. o úlohách národných výborov pri zabezpečovaní socialistického poriadku v znení neskorších predpisov.
