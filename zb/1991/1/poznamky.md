@@ -1,6 +1,8 @@
-- 1) Zákon č. 68/1965 Zb. o pobyte cudzincov na území Československej socialistickej republiky.
+- 1) Zákon č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
 
-- 2) Zákon ČNR č. 9/1991 Zb. o zamestnanosti a pôsobnosti orgánov Českej republiky na úseku zamestnanosti.
+- 2) Zákon Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení zákona Slovenskej národnej rady č. 194/1992 Zb., zákona Slovenskej národnej rady č. 488/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
+
+- 2a) § 61 ods. 1 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení neskorších predpisov.
 
 - 3) § 90 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
 
@@ -18,9 +20,13 @@
 
 - 8) Zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení zákona č. 160/1989 Zb.
 
-- 9) § 121a vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení vyhlášky č. 123/1990 Zb.
+- 9) § 90 ods. 1 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
-- 10) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
+- § 121a vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb. v znení neskorších predpisov.
+
+- § 63 ods. 2 vyhlášky Ministerstva zdravotníctva a sociálnych vecí Slovenskej socialistickej republiky č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení neskorších predpisov.
+
+- 10) § 275 ods. 3 Zákonníka práce v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z., § 17 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
 
 - 11) § 29 ods. 2 písm. c) zákona č. 100/1988 Zb.
 
@@ -62,7 +68,9 @@
 
 - § 117 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
 
-- 23) § 11 ods. 6 vyhlášky č. 149/1988 Zb. v znení zákona č. 306/1991 Zb.
+- 23) § 2 ods. 1 písm. b) nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení nariadenia vlády Slovenskej republiky č. 645/1992 Zb.
+
+- 23a) Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov.
 
 - 24) § 49 ods. 2 zákona č. 100/1988 Zb.
 
