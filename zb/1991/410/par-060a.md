@@ -6,6 +6,6 @@
 
 (3) Na žiadosť policajta mu finančný orgán predloží na nahliadnutie doklady, na základe ktorých bol vypočítaný jeho služobný príjem.
 
-(4) Na žiadosť policajta je finančný orgán povinný pri výplate služobného príjmu alebo iných peňažných náležitostí v prospech policajta po vykonaní prípadných zrážok zo služobného príjmu podľa príslušných právnych predpisov poukázať sumu určenú policajtom na jeho účet v peňažnom ústave na území Českej a Slovenskej Federatívnej Republiky.
+(4) Na žiadosť policajta je finančný orgán povinný pri výplate služobného príjmu alebo iných peňažných náležitostí v prospech policajta po vykonaní prípadných zrážok zo služobného príjmu podľa príslušných právnych predpisov poukázať sumu určenú policajtom na jeho účet v peňažnom ústave na území Slovenskej republiky.
 
 (5) Policajt môže na prijatie služobného príjmu, prípadne iných peňažných náležitostí písomne splnomocniť inú osobu. Manželovi možno služobný príjem, prípadne iné peňažné náležitosti vyplatiť len na základe písomného splnomocnenia. Bez písomného splnomocnenia možno vyplatiť služobný príjem, prípadne iné peňažné náležitosti inej osobe než policajtovi len vtedy, ak to povoľuje osobitný zákon.<sup>8a</sup>)

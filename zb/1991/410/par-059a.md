@@ -4,28 +4,28 @@
 
 (2) Pre jednotlivé platové triedy platia tieto minimálne tarify funkčného platu:
 
-platová trieda | minimálna tarifa funkčného platu Kčs mesačne
+platová trieda | minimálna tarifa funkčného platu Sk mesačne
 
-1 | 2 200
+1 | 2450
 
-2 | 2 350
+2 | 2660
 
-3 | 2 500
+3 | 2900
 
-4 | 2 650
+4 | 3 180
 
-5 | 2 800
+5 | 3500
 
-6 | 3 000
+6 | 3860
 
-7 | 3 200
+7 | 4250
 
-8 | 3 500
+8 | 4700
 
-9 | 3 900
+9 | 5 190
 
-10 | 4 400
+10 | 5750
 
-11 | 5 000
+11 | 6350
 
-12 | 5 700
+12 | 7 030.
