@@ -1,9 +1,19 @@
 # § 21a
 
-(1) Štátny dozor podľa tohto zákona sa vykonáva nad
+(1) Dohľad podľa tohto zákona sa vykonáva nad činnosťou
 
-- a) emitentmi dlhopisov s výnimkou štátnych dlhopisov (§ 18 a 19),
+- a) emitentov dlhopisov s výnimkou emitenta štátnych dlhopisov (§ 18 a 19),
 
-- b) právnickými osobami a fyzickými osobami, ktoré neoprávnene bez povolenia vykonávajú činnosť, na ktorú sa vyžaduje povolenie podľa tohto zákona alebo podľa osobitného predpisu.<sup>3f</sup>)
+- b) hypotekárneho správcu a jeho zástupcu,<sup>4</sup>)
 
-(2) Štátny dozor podľa tohto zákona vykonáva úrad.<sup>1c</sup>)
+- c) osôb, ktoré majú oprávnenie na vydávanie alebo vyplácanie dlhopisov.
+
+  - Toto ustanovenie sa nevzťahuje na činnosť vykonávanú Národnou bankou Slovenska podľa tohto zákona.
+
+(2) Predmetom dohľadu podľa odseku 1 je
+
+- a) dodržiavanie podmienok vydávania dlhopisov ustanovených týmto zákonom,
+
+- b) dodržiavanie tohto zákona a osobitných zákonov v rozsahu z nich vyplývajúceho a všeobecne záväzných právnych predpisov vydaných na ich vykonanie.
+
+(3) Dohľad podľa odseku 1 vykonáva úrad.
