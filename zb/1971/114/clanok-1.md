@@ -4,52 +4,6 @@
 
 (1) Za daňovníkov podľa § 2 ods. 1 písm. b) zákona sa považujú aj hospodárske organizácie mestského hospodárstva, v ktorých sa uplatňuje rovnaký režim hospodárenia ako v hospodárskych organizáciách komunálnych služieb a miestneho priemyslu.*)
 
-(2) Hospodárskymi organizáciami poľnohospodárskej výroby a poľnohospodárskych služieb [§ 2 ods. 1 písm. d) zákona] sú:
-
-- Strojové a traktorové stanice, n. p.
-
-- Opravovne poľnohospodárskych strojov, o. p.
-
-- Biovety
-
-- Štátne plemenárske podniky
-
-- Poľnohospodárske zásobovacie a nákupné podniky
-
-- Poľnohospodárske potreby, n. p.
-
-- Agroservis, n. p., Tachov
-
-- Chmelařství, n. p., Žatec
-
-- Sempra, o. p., Praha
-
-- Zeleninové a kvetinové semená, n. p., Bratislava
-
-- Závody organických hnojív, n. p., Bratislava
-
-- Rašelina, n. p., Soběslav
-
-- Štátne rybárstvo, o. p.
-
-- Podnik pre šľachtenie a rozmnožovanie hydiny, n. p., Chorvátsky Grob
-
-- Podnik pro šlechtění drůbeže, n. p., Chrustenice
-
-- Drůbežnictví Xaverov, o. p., Horní Počernice
-
-- Hydinársky štátny majetok Bratislava
-
-- Podnik pro výrobu vajec, drůbeže a vepřového masa, n. p., Cheb
-
-- Veľkovýkrmne, o. p.
-
-- Statky a lesy, n. p., Sokolov (v odvetví palív a energetiky)
-
-- Rekultivace, n. p., Havířov
-
-- Velkochov laboratorních zvířat, n. p., Praha - Lysolaje.
-
 (3) Ostatnými socialistickými organizáciami [§ 2 ods. 1 písm. f) zákona], pokiaľ ich vzťah k štátnemu rozpočtu nie je upravený inými právnymi predpismi,**) sú najmä:
 
 - a) všetky základné organizácie spoločenských organizácií, ktoré vykonávajú trvalú hospodársku činnosť;

@@ -18,20 +18,6 @@
 
 - †) Zákon č. 41/1964 Zb. o hospodárení s bytmi.
 
-- *) Druhá časť zákona č. 112/1966 Zb. o poľnohospodárskej dani.
-
-- **) Účet 400 - Tržby z výrobných činností.
-
-- ***) Účet 408 - Aktivovanie investícií.
-
-- ****) Účet 410 - Tržby z nevýrobných činností.
-
-- †) Účet 429 - Dotácie zvyšujúce tržby.
-
-- ††) Z účtu 400 - Tržby z výrobných činností.
-
-- †††) Z účtu 410 - Tržby z nevýrobných činností.
-
 - *) Pre účely zákona o dôchodkovej dani a príspevku na sociálne zabezpečenie sa považuje: čiastočné špecifikácie jednotlivých činností podľa číselných znakov, ak nie je ich náplň podrobnejšie určená zoznamom vybraných činností, sú určené v Smerniciach a pokynoch čs. štatistiky č. 16 MH-VD platných v roku 1970.
 
 - **) Za vybrané činnosti poskytované obyvateľstvu sa považujú:

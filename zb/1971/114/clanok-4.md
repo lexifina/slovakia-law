@@ -7,5 +7,3 @@
 (2) Za iné bezodplatné venovania sa považujú aj náklady na pohostenie a dary nad určený limit.
 
 (3) Za platené penále sa považuje aj penále fakturované za nevrátenie obalov.*)
-
-(4) Dotáciami určenými na úhradu nákladov u daňovníkov podľa § 2 ods. 1 písm. d) zákona, v spoločných družstevných podnikoch a melioračných družstvách [§ 5 ods. 2 písm. b) zákona] sú stabilizačné dotácie, účelové dotácie do prevádzky a účelové subvencie na úhradu výchovy učňov.

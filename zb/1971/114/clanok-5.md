@@ -21,5 +21,3 @@
 (5) Pokiaľ sa v rámci podnikovej bytovej výstavby budujú aj obchodné priestory, kancelárie, prevádzkárne a pod., vylúčia náklady na obstaranie týchto priestorov z rozpočtovej ceny.
 
 (6) Ak sa niekoľko podnikov združí na spoločné realizovanie podnikovej bytovej výstavby tak, že jeden z nich je investorom, môžu si príspevok na podnikovú bytovú výstavbu za vyššie uvedených podmienok odpočítať jednotliví účastníci združenia, a to pomernou sumou podľa výšky účasti.
-
-(7) Za odpočítateľnú položku [§ 6 ods. 2 písm. f) zákona] sa považujú u daňovníkov podľa § 2 ods. 1 písm. d) zákona, v spoločných družstevných podnikoch a melioračných družstvách príplatky charakteru prémií, ustanovené príslušným ministerstvom poľnohospodárstva a výživy po dohode s príslušným ministerstvom financií.
