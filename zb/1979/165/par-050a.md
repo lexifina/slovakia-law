@@ -1,4 +1,4 @@
-# § 50a Nemocenské žiakov stredných alebo osobitných odborných učilíšť
+# § 50a Nemocenské žiakov stredných odborných alebo iných učilíšť
 
 (1) Deň prechodu z prípravného obdobia do obdobia odborného rozvoja sa na zistenie rozhodného obdobia posudzuje rovnako ako vstup do zamestnania.<sup>2</sup>) Ak v čase školských prázdnin (s výnimkou zimných a jarných prázdnin), na ktoré nadväzuje obdobie odborného rozvoja, vykonával žiak učilišťa odbornú prax, za ktorú je odmieňaný ako v období odborného rozvoja, považuje sa deň, keď začal túto odbornú prax vykonávať, za deň prechodu z prípravného obdobia do obdobia odborného rozvoja.
 

@@ -1,4 +1,4 @@
-# § 51a Peňažná pomoc v materstve žiačok stredných alebo osobitných odborných učilíšť
+# § 51a Peňažná pomoc v materstve žiačok stredných odborných alebo iných učilíšť
 
 (1) Ustanovenia § 50a ods. 1 a 2, § 51 ods. 1, 2 a 5 platia obdobne aj pre peňažnú pomoc v materstve žiačok učilíšť.
 
