@@ -1,0 +1,3 @@
+# Čl. 2
+
+Táto vyhláška nadobúda účinnosť 1. októbrom 1982.
