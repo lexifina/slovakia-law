@@ -18,10 +18,6 @@
 
 - 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 11) § 122 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. v znení neskorších predpisov.
-
-- 12) § 157 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. v znení neskorších predpisov.
-
 - 13) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 14) § 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z.
