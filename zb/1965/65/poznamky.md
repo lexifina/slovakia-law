@@ -54,7 +54,7 @@
 
 - 16) Zákon č. 73/1990 Zb. o civilnej službe.
 
-- 16a) § 11a písm. i) zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov.
+- 16a) § 77a zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 292/1999 Z. z.
 
 - 16b) § 20 ods. 2 písm. o) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení zákona č. 292/1999 Z. z.
 
