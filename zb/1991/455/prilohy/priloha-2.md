@@ -50,7 +50,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 17. | Vykonávanie činnosti inštruktora lešenárskej a horolezeckej (speleologickej) techniky | preukaz inštruktora lešenárskej, horolezeckej (speleologickej) techniky vydaný vzdelávacím zariadením akreditovaným orgánom štátneho odborného dozoru nad bezpečnosťou práce | § 9 ods. 3 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 374/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach |
 
-- 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie | § 4 ods. 3 zák. č. 90/1998 Z. z. o stavebných výrobkoch v znení zák. č. 264/1999 Z. z. |
+- 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie | § 4 ods. 3 zák. č. 90/1998 Z. z. o stavebných výrobkoch v znení zák. č. 264/1 999 Z. z. |
 
 - SKUPINA 214 - Ostatné | | | |
 
@@ -126,8 +126,10 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 53. | Vykonávanie odbornej prípravy na úseku prevencie závažných priemyselných havárií | oprávnenie | § 13 ods. 1 a 5 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov |
 
-- 54. | Bezpečnostnotechnické služby | 1. osvedčenie alebo 2. odborné vzdelanie v oblasti bezpečnosti a ochrany zdravia pri práci získanej vysokoškolským alebo stredoškolským štúdiom | § 12 zák. č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov |
+- 54. | Bezpečnostnotechnické služby | 1. osvedčenie alebo2. odborné vzdelanie v oblasti bezpečnosti a ochrany zdravia pri práci získanej vysokoškolským alebo stredoškolským štúdiom | § 12 zák. č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov |
 
 - 55. | Prevádzkovanie verejných vodovodov I. až III. kategórie a prevádzkovanie verejných kanalizácií I. až III. kategórie | osvedčenie o odbornej spôsobilosti na prevádzkovanie verejných vodovodov a verejných kanalizácií | |
 
-- 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore | |
+- 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore |
+
+- 57. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
