@@ -30,8 +30,8 @@ Denný výkaz obratov platiteľa dane z pridanej hodnoty
 
 Zľavy - uvedú sa množstvové zľavy.
 
-Záporné položky - uvedie sa výber z pokladnice v hotovosti.
+Záporné položky – uvedie sa suma za vykúpené zálohované fľaše a iné zálohované obaly.
 
 13. Mesačný obrat - uvedie sa súčet obratov v jednotlivých sadzbách dane z pridanej hodnoty za deň.
 
-14. Podpis pokladníka - podpis pokladníka, ktorý vykonal uzávierku.
+14. Podpis osoby – podpis osoby, ktorá vykonala uzávierku.

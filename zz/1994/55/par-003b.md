@@ -10,9 +10,9 @@
 
 (3) Servisná organizácia zaznačí v knihe pokladnice podľa § 3a ods. 3 obdobie, na ktoré bola náhradná pokladnica poskytnutá, a subjekt, ktorému sa dočasne poskytla, samostatne za každé zapožičanie.
 
-(4) Páska dennej uzávierky vyhotovená náhradnou pokladnicou sa nalepí do denného výkazu obratov pokladnice, ktorú dočasne nemožno použiť. Pri vypĺňaní denného výkazu obratov sa pred číslo dennej uzávierky uvedie písmeno N.
+(4) Páska dennej uzávierky vyhotovená náhradnou pokladnicou sa pripevní do denného výkazu pokladnice, ktorú dočasne nemožno použiť. Pri vypĺňaní denného výkazu sa pred číslo dennej uzávierky uvedie písmeno N.
 
-(5) Od okamihu, keď nemožno z dôvodov podľa § 3a použiť pokladnicu do doby použitia náhradnej pokladnice alebo do doby odstránenia poruchy, subjekt eviduje tržby ručným vystavovaním dokladov o predaji (ďalej len „paragón“). Paragón sa vystavuje dvojmo, pričom kópiu si ponechá subjekt. Paragóny sa číslujú vzostupne bez prerušenia a obsahujú aspoň tieto údaje:
+(5) Od okamihu, keď nemožno z dôvodov podľa § 3a použiť pokladnicu do doby použitia náhradnej pokladnice alebo do doby odstránenia poruchy, subjekt eviduje tržby ručným vystavovaním dokladov o predaji (ďalej len „paragón“). Paragón sa vystavuje dvojmo, pričom kópiu si ponechá subjekt. Paragóny sa číslujú vzostupne bez prerušenia a obsahujú najmenej tieto údaje:
 
 - a) identifikáciu subjektu,
 
@@ -30,7 +30,7 @@
 
 - h) celkovú cenu.
 
-(6) Kópie paragónov vyhotovené podľa odseku 5 sú podkladom na vyhotovenie dennej uzávierky podľa § 3 ods. 2 a 3. Na ručne vyhotovenú pásku dennej uzávierky subjekt uvedie aj počet paragónov vydaných za deň. Vo výkaze obratov v časti určenej na nalepenie pásky dennej uzávierky subjekt uvedie, že páska dennej uzávierky je vyhotovená ručne. Na základe údajov z dennej uzávierky subjekt vyplní denný výkaz, pričom pred číslo dennej uzávierky uvedie písmeno R. Ručne vystavené paragóny a ručne vyhotovenú pásku dennej uzávierky subjekt uchováva po dobu uvedenú v § 3 ods. 8.
+(6) Kópie paragónov vyhotovené podľa odseku 5 sú podkladom na vyhotovenie dennej uzávierky podľa § 3 ods. 2 a 3. Na ručne vyhotovenú pásku dennej uzávierky subjekt uvedie aj počet paragónov vydaných za deň. Vo výkaze v časti určenej na pripevnenie pásky dennej uzávierky subjekt uvedie, že páska dennej uzávierky je vyhotovená ručne. Na základe údajov z dennej uzávierky subjekt vyplní denný výkaz, pričom pred číslo dennej uzávierky uvedie písmeno R. Ručne vystavené paragóny (kontrolná páska) sa uchovávajú po dobu uvedenú v § 3 ods. 8.
 
 (7) Chybne vystavené paragóny subjekt stornuje a dôvod stornovania vyznačí na stornovaný paragón; stornované paragóny pripojí k ručne vyhotovenej páske dennej uzávierky spolu so všetkými paragónmi, z ktorých sa denná uzávierka vyhotovila.
 

@@ -20,8 +20,8 @@ Vysvetlivky k dennému a mesačnému výkazu obratov neplatiteľa dane z pridane
 
 Zľavy - uvedú sa množstvové zľavy.
 
-Záporné položky - uvedie sa výber z pokladnice v hotovosti.
+Záporné položky – uvedie sa suma za vykúpené zálohované fľaše a iné zálohované obaly.
 
 8. Denný čistý obrat spolu - uvedie sa celkový čistý obrat za deň na základe dennej uzávierky.
 
-9. Podpis pokladníka - podpis pokladníka, ktorý vykonal uzávierku.
+9. Podpis osoby – podpis osoby, ktorá vykonala uzávierku.
