@@ -8,7 +8,7 @@
 
 - 5) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
-- 6) Opatrenie Štátnej banky česko-slovenskej z 28. februára 1992, ktorým sa určujú podmienky pre usmerňovanie platobnej bilancie Českej a Slovenskej Federatívnej Republiky, uverejnené v čiastke č. 29/1992 Zb.
+- 6) Opatrenie Národnej banky Slovenska z 24. novembra 1995 č. 9, ktorým sa ustanovujú podmienky na usmerňovanie platobnej bilancie Slovenskej republiky (oznámenie Národnej banky Slovenska č. 297/1995 Z. z.).
 
 - 7) Zákon č. 119/1992 Zb. o cestovných náhradách.
 

@@ -1,0 +1,3 @@
+# § 10c Investovanie v zahraničí (k § 21 zákona)
+
+Devízové povolenie sa nevyžaduje na investovanie v zahraničí, ak ide o priamu investíciu v členskom štáte Organizácie pre hospodársku spoluprácu a rozvoj.
