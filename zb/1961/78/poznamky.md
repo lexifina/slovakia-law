@@ -1,1 +1,0 @@
-- *) T. j. § 2 tejto vyhlášky namiesto § 19 vyhlášky č. 123/1960 Zb., § 3 tejto vyhlášky namiesto § 20 vyhlášky č. 123/1960 Zb. atď.
