@@ -10,6 +10,8 @@
 
 - a) zhromažďuje a vyhodnocuje poskytnuté informácie,
 
+- b) oznamuje Európskej komisii opatrenia z dôvodu ohrozenia zdravia a bezpečnosti spotrebiteľa týkajúce sa uvádzania potravín do obehu, odporúčania uplatnenia špecifických podmienok pri uvádzaní potravín do obehu, zákaz vstupu dávky, kontajnera alebo nákladu potravín.
+
 (5) Za hodnotenie rizika a riadenie rizika zodpovedajú ministerstvo a ministerstvo zdravotníctva. Za rýchlu výmenu informácií v prípade rizika zodpovedajú orgány uvedené v odseku 2.
 
 (6) Informovanie verejnosti o riziku a prijatých opatreniach vykonávajú ministerstvo a ministerstvo zdravotníctva v rámci svojich kompetencií podľa tohto zákona.
