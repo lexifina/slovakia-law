@@ -1,1 +1,0 @@
-- 1) Vyhláška Federálneho ministerstva zahraničného obchodu č. 43/1991 Zb., ktorou sa vykonáva colný zákon, v znení vyhlášky č. 397/1991 Zb.
