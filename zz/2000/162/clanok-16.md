@@ -1,0 +1,3 @@
+# Článok 16 Podpis
+
+Tento dohovor bude otvorený v Espoo (Fínsko) od 25. februára do 1. marca 1991 a potom v sídle Organizácie Spojených národov v New Yorku do 2. septembra 1991 na podpis pre členské štáty Európskej hospodárskej komisie, ako aj pre štáty, ktoré majú štatút poradcov pri Európskej hospodárskej komisii podľa odseku 8 rezolúcie 36 (IV) Hospodárskej a sociálnej rady z 28. marca 1947, a pre regionálne organizácie hospodárskej integrácie vytvorené suverénnymi členskými štátmi Európskej hospodárskej komisie, na ktoré ich členské štáty preniesli právomoci vo vzťahu k záležitostiam upravovaným týmto dohovorom vrátane právomocí uzavierať zmluvy v týchto veciach.
