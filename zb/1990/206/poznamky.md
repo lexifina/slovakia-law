@@ -1,4 +1,6 @@
-- 1) Zákonné opatrenie Predsedníctva Českej národnej rady č. 229/1990 Zb. o určení štátneho orgánu, ktorý je v niektorých prípadoch príslušný na výplatu štátneho vyrovnávacieho príspevku.
+- 1) § 4 a 5 zákona č. 463/1991 Zb. o životnom minime.
+
+- 3) Zákonné opatrenie Predsedníctva Českej národnej rady č. 229/1990 Zb. o určení štátneho orgánu, ktorý je v niektorých prípadoch príslušný na výplatu štátneho vyrovnávacieho príspevku.
 
 - Zákonné opatrenie Predsedníctva Slovenskej národnej rady č. 222/1990 Zb. o určení štátneho orgánu, ktorý je príslušný na výplatu štátneho vyrovnávacieho príspevku.
 
