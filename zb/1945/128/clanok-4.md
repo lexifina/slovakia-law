@@ -1,0 +1,1 @@
+# Čl. IV. Ustanovení společná.
