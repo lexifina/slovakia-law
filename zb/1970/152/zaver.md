@@ -1,1 +1,0 @@
-Ing. Hanus v. r.
