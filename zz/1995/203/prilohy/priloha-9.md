@@ -1,1 +1,0 @@
-Príloha č. 9 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 09 - Rozvrh čerpania a platieb istín a úrokov pre jednotlivé štátne, štátom garantované a garantované dlhy voči zahraničiu](../assets/7e308b744c9d83da5a68fec00b0dbd987448d2dd8da2e45f8ee21ddc0b19ac52.pdf)

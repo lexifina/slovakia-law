@@ -1,1 +1,0 @@
-Príloha č. 5 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 05 - Ohlásenie zriadenia a stavu účtu v zahraničí](../assets/982713247d67558245e9333f4094c6ada2fb543004a6dc8577e68225f4234ede.pdf)

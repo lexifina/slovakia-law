@@ -1,1 +1,0 @@
-Príloha č. 4 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 04 - Ohlásenie platby za kúpu nehnuteľností v zahraničí](../assets/e33faf17a631e1e8197342f2a495d561512a5a28e6511839e49b8ae10bc6847e.pdf)

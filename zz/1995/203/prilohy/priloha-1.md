@@ -1,1 +1,0 @@
-Príloha č. 1 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 01 - Ohlásenie inkás a platieb týkajúcich sa priamych investícií a finančných úverov](../assets/2df95c139fdbfb89777ce2fa9fabfef15b5104dd82623b0a9c1d3c712832f1d7.pdf)

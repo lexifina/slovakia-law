@@ -1,1 +1,0 @@
-Príloha č. 8 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 08 - Popis jednotlivých štátnych, štátom garantovaných a garantovaných dlhov voči zahraničiu](../assets/087708bce491924cc04de065fe25ffa598df5ff90617e093f114d4097cb3b1ce.pdf)

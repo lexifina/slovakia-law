@@ -1,1 +1,0 @@
-Príloha č. 3 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 03 - Ohlásenie platieb spojených s kúpou zamestnaneckých a iných finančne zvýhodnených akcií, ktorých emitentom je cudzozemec](../assets/d603e2a37213b316ef465ebe487afc37ff48455c7adc26af7fd95eef2527d03a.pdf)

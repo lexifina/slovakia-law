@@ -1,1 +1,0 @@
-Príloha č. 7 vyhlášky Ministerstva financií Slovenskej republiky a Národnej banky Slovenska č. 203/1995 Z. z. [Vzor 07 - Klasifikácia sektorov, odvetví, právnej formy, číselník kódov krajín, peňažných mien](../assets/822ec7af4e9d152b0846b811e386014a7574ae2566f93fe0625db13edd1714a6.pdf)
