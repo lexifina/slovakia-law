@@ -30,6 +30,8 @@
 
 - 16) Napríklad § 4 ods. 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 2745/2002-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca označovanie potravín (oznámenie č. 634/2002 Z. z.), § 21 ods. 2 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov, vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení v znení vyhlášky č. 420/2001 Z. z.
 
+- 16a) Vyhláška Ministerstva financií Slovenskej republiky č. 206/2004 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolných známok na označovanie spotrebiteľského balenia liehu a o grafických prvkoch a údajoch na kontrolnej známke.
+
 - 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
@@ -44,6 +46,12 @@
 
 - § 65b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
 
+- 21a) Príloha č. 24 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
+
+- 21b) Vyhláška Ministerstva financií Slovenskej republiky č. 226/2004 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na usporiadanie technologických zariadení na výrobu, spracovanie, skladovanie a prepravu liehu, kontrole množstva liehu, zisťovaní zásob liehu a o spôsobe vedenia evidencie.
+
+- 21c) Zákon č. 140/2000 Z. z. v znení neskorších predpisov.Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
+
 - 22) Zákon č. 104/2004 Z. z. o spotrebnej dani z vína.
 
 - 23) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
@@ -55,8 +63,6 @@
 - 26) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
 
 - 27) Zákon č. 467/2002 Z. z.
-
-- 28) Príloha č. 24 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
 
 - 29) § 2 ods. 1 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 653/2002 Z. z.
 
