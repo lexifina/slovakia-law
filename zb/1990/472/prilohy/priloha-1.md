@@ -32,9 +32,7 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 13. | | | 4 ods. 2 písm. d) | vyhradzovanie udeľovania súhlasu k návrhom trás nadzemných a podzemných vedení, ak ide o stavby krajského významu
 
-14. | | zák. č. 110/1978 Zb. | 5 | rozhodovanie o nariadení a ukončení mimoriadnych veterinárnych opatrení; prerokúvanie plnenia úloh veterinárnej starostlivosti a návrhy opatrení na jej rozvoj vo svojom územnom obvode
-
-15. | | | 6 | zriaďovanie nákazových komisii na plnenie svojich úloh súvisiacich s ochranou proti nákazám a iným hromadným ochoreniam
+15. | | zák. č. 110/1978 Zb. | 6 | zriaďovanie nákazových komisii na plnenie svojich úloh súvisiacich s ochranou proti nákazám a iným hromadným ochoreniam
 
 16. | energetiky | zák. č. 67/1960 Zb. | 5 ods. 2 | vydávanie súhlasu k novému zriaďovaniu, podstatnému rozširovaniu a prevádzkovaniu zariadení na výrobu vyhrievacích plynov inými organizáciami ako plynárenskými podnikmi
 
