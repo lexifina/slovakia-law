@@ -1,0 +1,3 @@
+# Článok 18 Všeobecné výnimky
+
+Táto dohoda nevylučuje zákazy ani obmedzenia dovozu, vývozu alebo tranzitu tovaru z dôvodov verejnej morálky, verejného záujmu alebo verejnej bezpečnosti; ochrany zdravia a života ľudí, zvierat a rastlín; ochrany národných pamiatok umeleckej, historickej alebo archeologickej hodnoty; ochrany duševného vlastníctva alebo pravidiel platných pre zlato a striebro alebo zachovanie vyčerpateľných prírodných zdrojov, ak sa takéto opatrenia uplatňujú v spojitosti s obmedzeniami domácej výroby alebo spotreby. Takéto zákazy alebo obmedzenia sa však nesmú stať prostriedkami ľubovoľnej diskriminácie ani skrytých obmedzení obchodu medzi stranami.
