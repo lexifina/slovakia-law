@@ -6,6 +6,8 @@
 
 - 4) STN 65 6082 Stanovenie obsahu farebných látok a indikačnej látky v plynovom oleji.
 
+- 4a) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
 - 5) Napríklad Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov (oznámenie č. 324/1997 Z. z.).
 
 - 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008, 11/01/1996, s. 11–15).

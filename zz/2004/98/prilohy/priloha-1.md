@@ -1,11 +1,9 @@
-Príloha č. 1 k zákonu č. 98/2004 Z. z. Týmto zákonom sa preberajú smernice:
+Príloha č. 1 k zákonu č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.
 
-- 1. Smernica Rady 92/12/EHS z 25. februára 1992 o všeobecnom systéme, držbe, preprave a kontrole tovarov podliehajúcich spotrebnej dani v znení neskorších zmien a doplnkov (Úradný vestník Európskych spoločenstiev L 076, 23/03/1992, s. 1-13),
+- Zoznam preberaných právnych aktov Európskych spoločenstiev a Európskej únie
 
-- 2. Smernica Rady 92/81/EHS z 19. októbra 1992 o harmonizácii štruktúry spotrebných daní z minerálnych olejov v znení neskorších zmien a doplnkov (Úradný vestník Európskych spoločenstiev L 316, 31/10/1992, s. 12-15),
+  - 1. Smernica Rady 92/12/EHS z 25. 02. 1992 o všeobecnom systéme, držbe, preprave a kontrole tovarov podliehajúcich spotrebným daniam (Ú. v. EÚ L 076, 23. 03. 1992) v znení smernice Rady 92/108/EHS zo 14. 12. 1992 (Ú. v. EÚ L 390, 31. 12. 1992), smernice Rady 94/74/ES z 22. 12. 1994 (Ú. v. EÚ L 365, 31. 12. 1994) a smernice Rady 96/99/ES z 30. 12. 1996 (Ú. v. EÚ L 008, 11. 01. 1997).
 
-- 3. Smernica Rady 92/82/EHS z 19. októbra 1992 o priblížení sadzieb spotrebných daní z minerálnych olejov v znení neskorších zmien a doplnkov (Úradný vestník Európskych spoločenstiev L 316, 31/10/1992, s. 19-20),
+  - 2. Smernica Rady 2003/96/ES z 27.10. 2003 o reštrukturalizácii rámcových predpisov Spoločenstva k zdaneniu energetických produktov a elektrickej energie (Ú. v. EÚ L 283, 31. 10. 2003).
 
-- 4. Smernica Rady 95/60/ES z 27. novembra 1995 o označovaní plynového oleja a rafinovaného petroleja na účely zdanenia (Úradný vestník Európskych spoločenstiev L 291, 6/12/1995, s. 46).
-
-- Preklady smerníc sa nachádzajú v Centrálnej prekladateľskej jednotke sekcie Inštitút pre aproximáciu práva Úradu vlády Slovenskej republiky.
+  - 3. Smernica Rady 95/60/ES z 27. 11. 1995 o označovaní plynového oleja a rafinovaného petroleja na účel zdanenia (Ú. v. EÚ L 291, 06. 12. 1995).
