@@ -1,3 +1,9 @@
+- 3b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
+
+- Zákon ČNR č. 171/1991 Zb. o pôsobnosti orgánov Českej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Českej republiky.
+
+- Zákon SNR č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
+
 - 10) Zákon č. 162/1990 Zb. o poľnohospodárskom družstevníctve.
 
 - § 106zd Hospodárskeho zákonníka.
