@@ -1,0 +1,1 @@
+- 1) Týmto dňom stráca platnosť rozhodnutie povereníka zdravotníctva zo 4. mája 1960 č. 9745, ktorým boli určené dočasné ochranné pásma pre prírodné liečivé zdroje kúpeľného miesta Trenčianske Teplice.
