@@ -454,16 +454,6 @@ Dodatok B k Dohovoru o medzinárodnej preprave tovaru po železniciach (COTIF) z
 
         - prepravná lehota za každých aj len začatých 400 km ......................................24 hodín,
 
-          - 2. ako obyčajný tovar:
-
-          - výpravná lehota ....................24 hodín
-
-          - prepravná lehota
-
-          - za každých i len
-
-          - začatých 300 km ....................24 hodín
-
         - b) pre kusové zásielky
 
         - výpravná lehota .......................... 12 hodín,
