@@ -1,0 +1,1 @@
+- *) Zákonné opatrenie Predsedníctva Národného zhromaždenia č. 4/1962 Zb. o vyhlasovaní zákonov a iných právnych predpisov v znení zákona č. 164/1968 Zb.
