@@ -16,7 +16,7 @@
 
 - g) zmenou trvalého pobytu mimo územia obce; v mestách so samosprávou mestských častí aj v prípade zmeny trvalého pobytu mimo územia mestskej časti, v ktorej vykonáva funkciu,
 
-- h) v prípadoch podľa § 13 ods. 3,
+- h) v prípadoch podľa § 13 ods. 3, ak starosta do 30 dní odo dňa vzniku nezlučiteľnosti funkcie neurobí relevantný úkon na odstránenie tohto rozporu,
 
 - i) smrťou,
 
