@@ -1,4 +1,6 @@
-# § 187a Nedovolená výroba a držanie jadrových materiálov a vysoko rizikových chemických látok
+## Nedovolená výroba a držba jadrových materiálov a vysokorizikových chemických látok
+
+# § 187a
 
 (1) Kto bez povolenia vyrobí, dovezie, vyvezie, prevezie, prechováva alebo inému zadováži jadrový alebo iný obdobný rádioaktívny materiál alebo vysoko rizikovú chemickú látku, alebo veci určené na jej výrobu, potresce sa odňatím slobody na jeden rok až päť rokov alebo peňažným trestom.
 

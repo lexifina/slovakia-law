@@ -1,3 +1,7 @@
-# § 148b Skrátenie poplatkov a im podobných dávok
+# § 148b Nezaplatenie dane
 
-Kto skráti v nie malom rozsahu poplatok alebo inú podobnú dávku, potresce sa odňatím slobody až na jeden rok alebo peňažným trestom.
+(1) Kto vo väčšom rozsahu nezaplatí splatnú daň, potresce sa odňatím slobody až na tri roky alebo peňažným trestom.
+
+(2) Odňatím slobody na jeden rok až päť rokov sa páchateľ potresce, ak spácha čin uvedený v odseku 1 v značnom rozsahu.
+
+(3) Odňatím slobody na dva roky až osem rokov sa páchateľ potresce, ak spácha čin uvedený v odseku 1 vo veľkom rozsahu.

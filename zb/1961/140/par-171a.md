@@ -2,12 +2,20 @@
 
 # § 171a
 
-(1) Kto pre iného organizuje nedovolené prekročenie štátnej hranice alebo inému umožní alebo pomáha nedovolene prekročiť štátnu hranicu, potresce sa odňatím slobody až na jeden rok alebo peňažným trestom.
+(1) Kto pre iného organizuje nedovolené prekročenie štátnej hranice Slovenskej republiky alebo inému umožní alebo pomáha nedovolene prekročiť štátnu hranicu Slovenskej republiky, potresce sa odňatím slobody na šesť mesiacov až tri roky alebo peňažným trestom.
 
-(2) Odňatím slobody na šesť mesiacov až tri roky sa páchateľ potresce,
+(2) Odňatím slobody na jeden rok až päť rokov sa páchateľ potresce, ak spácha čin uvedený v odseku 1
 
-- a) ak spácha čin uvedený v odseku 1 v úmysle zakryť alebo uľahčiť spáchanie iného trestného činu,
+- a) ako člen organizovanej skupiny, alebo
 
-- b) ak spácha taký čin za odplatu, alebo
+- b) v úmysle zakryť alebo uľahčiť spáchanie iného trestného činu.
 
-- c) ak spácha taký čin ako člen organizovanej skupiny.
+(3) Rovnako ako v odseku 2 sa páchateľ potresce, ak získa činom uvedeným v odseku 1 pre seba alebo iného väčší prospech.
+
+(4) Odňatím slobody na dva roky až osem rokov sa páchateľ potresce, ak činom uvedeným v odseku 1
+
+- a) spôsobí ťažkú ujmu na zdraví, alebo
+
+- b) získa pre seba alebo iného značný prospech.
+
+(5) Odňatím slobody na osem rokov až pätnásť rokov sa páchateľ potresce, ak spôsobí činom uvedeným v odseku 1 smrť.

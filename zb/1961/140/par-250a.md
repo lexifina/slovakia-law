@@ -1,25 +1,11 @@
-# § 250a Podvodný úpadok
+# § 250a Úverový podvod
 
-(1) Kto v úmysle čo len sčasti zmariť uspokojenie svojho veriteľa
+(1) Kto vyláka od iného úver alebo záruku na úver tým, že ho uvedie do omylu v otázke splnenia podmienok na poskytnutie úveru alebo na splácanie úveru, a tak mu spôsobí škodu nie malú alebo získa pre seba prospech nie malý, potresce sa odňatím slobody až na tri roky alebo zákazom činnosti, alebo peňažným trestom.
 
-- a) zničí, poškodí, urobí neupotrebiteľnými, zatají, predá, vymení, daruje alebo inak odstráni prostriedky, ktoré sú predmetom záväzku,
+(2) Rovnako ako v odseku 1 sa potresce, kto ako zamestnanec, člen, zástupca alebo iná osoba oprávnená konať za toho, kto úver poskytuje, umožní získať úver tomu, o kom vie, že nespĺňa podmienky určené na jeho poskytnutie.
 
-- b) zaťaží vec, ktorá je predmetom záväzku, obmedzením prevodu alebo ju dá do zálohy, nechá na nej zriadiť vecné právo alebo ju prenajme,
+(3) Odňatím slobody na jeden rok až päť rokov sa páchateľ potresce, ak spôsobí činom uvedeným v odseku 1 alebo 2 väčšiu škodu alebo ním získa väčší prospech.
 
-- c) predstiera alebo uzná neexistujúce právo alebo záväzok alebo postúpi svoju pohľadávku, alebo prevezme dlh iného, i keď na to nebol povinný alebo nebol na to oprávnený, alebo
+(4) Odňatím slobody na dva roky až osem rokov sa páchateľ potresce, ak spôsobí činom uvedeným v odseku 1 alebo 2 značnú škodu alebo ním získa značný prospech.
 
-- d) predstiera zmenšenie svojho majetku alebo jeho zánik, potresce sa odňatím slobody až na dva roky alebo peňažným trestom.
-
-(2) Odňatím slobody na jeden rok až päť rokov sa páchateľ potresce, ak
-
-- a) spôsobí činom uvedeným v odseku 1 značnú škodu alebo získa pre seba alebo pre iného značný prospech,
-
-- b) spácha taký čin na veci, ktorá podľa zákona požíva osobitnú ochranu, alebo
-
-- c) spôsobí takým činom vážnu poruchu v podnikaní alebo hospodárení iného.
-
-(3) Odňatím slobody na dva roky až osem rokov sa páchateľ potresce, ak
-
-- a) spôsobí činom uvedeným v odseku 1 škodu veľkého rozsahu alebo získa pre seba alebo pre iného prospech veľkého rozsahu, alebo
-
-- b) spôsobí takým činom inému úpadok podniku.
+(5) Odňatím slobody na päť rokov až dvanásť rokov sa páchateľ potresce, ak spôsobí činom uvedeným v odseku 1 alebo 2 škodu veľkého rozsahu alebo ním získa prospech veľkého rozsahu.

@@ -12,10 +12,8 @@ potresce sa odňatím slobody až na dva roky alebo prepadnutím veci.
 
 - a) ak spácha čin uvedený v odseku 1 ako člen organizovanej skupiny,
 
-- b) ak spácha taký čin pre zárobok,
+- b) ak bol za taký alebo obdobný čin v posledných dvoch rokoch potrestaný alebo z výkonu trestu odňatia slobody uloženého za taký alebo obdobný čin v posledných dvoch rokoch prepustený, alebo
 
-- c) ak bol za taký alebo obdobný čin v posledných dvoch rokoch potrestaný alebo z výkonu trestu odňatia slobody uloženého za taký alebo obdobný čin v posledných dvoch rokoch prepustený, alebo
-
-- d) ak získa takým činom značný prospech.
+- c) ak získa takým činom značný prospech.
 
 (3) Odňatím slobody na dva roky až osem rokov sa páchateľ potresce, ak získa činom uvedeným v odseku 1 prospech veľkého rozsahu.
