@@ -1,0 +1,1 @@
+- *) Pozri vyhlášku ministra zahraničného obchodu č. 313/1953 Ú. l. (č. 358/1953 Ú. v.) v znení vyplývajúcom z vyhlášok ministra zahraničného obchodu č. 95/1960 Zb. a č. 147/1965 Zb.
