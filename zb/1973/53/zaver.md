@@ -1,0 +1,3 @@
+Minister:
+
+Krocsány v. r.
