@@ -2,7 +2,15 @@
 
 - 2) § 27 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
+- 2a) § 13 až 15 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 2b) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 2c) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 3) § 25 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
+
+- 3a) § 139b ods. 1, 5 a 6 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 4) § 5 zákona Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
@@ -26,10 +34,8 @@
 
 - 13) § 106 zákona č. 40/1964 Zb. v znení neskorších predpisov.
 
-- 14) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch a zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+- 14) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 15) § 69 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 16) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
-- 17) Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
