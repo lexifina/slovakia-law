@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 112/2002 Z. z.
+
+OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V STAROM SMOKOVCI
+
+![Obrázok 01-1](../assets/803a305e501eb6ae59d7ee4da16138322b5e73beb80886bdd2b25cc3cde61615.png)
