@@ -132,9 +132,15 @@
 
   - Článok 6
 
-    - 1. Každá zmluvná strana môže za podmienok a záruk, ktoré sama určí, splnomocniť niektoré združenia, aby priamo alebo prostredníctvom zodpovedajúcich združení vydávali karnety TIR a vystupovali ako ručiteľ.
+    - 1. Každá zmluvná strana môže za podmienok a záruk splnomocniť združenia, aby priamo alebo prostredníctvom zodpovedajúcich združení vydávali karnety TIR a vystupovali ako ručiteľ, ak sa dodržia minimálne podmienky a požiadavky ustanovené v prílohe 9 I. časti. Oprávnenie sa zruší, ak nie sú plnené minimálne podmienky a požiadavky ustanovené v prílohe 9 I. časti.
 
     - 2. Združenie môže byť v niektorej krajine schválené iba vtedy, aj je jeho zárukou krytá aj zodpovednosť, ktorá v tejto krajine vzniká pri operáciách vykonávaných na podklade karnetov TIR vydaných zahraničnými združeniami, ktoré sú členmi tej istej medzinárodnej organizácie, ktorej je toto združenie samo členom.
+
+    - 3. Združenie vydáva karnety TIR len osobám, ktorým kompetentné orgány zmluvných strán, na ktorých území má príslušná osoba stály pobyt alebo na ktorých území je zriadená, neodmietli pristúpiť k režimu TIR.
+
+    - 4. Povolenie pristúpiť k režimu TIR sa môže udeliť len osobám, ktoré spĺňajú minimálne podmienky a požiadavky ustanovené v prílohe 9 II. časti tohto dohovoru. Povolenie sa zruší, ak nie je zabezpečené plnenie príslušných podmienok bez toho, aby boli dotknuté ustanovenia článku 38.
+
+    - 5. Povolenie pristúpiť k režimu TIR sa udelí v súlade s ustanoveniami prílohy 9 II. časti tohto dohovoru.
 
   - Článok 7
 
@@ -360,7 +366,7 @@
 
     - 1. Každá zmluvná strana má právo dočasne alebo trvale vylúčiť z požívania výhod vyplývajúcich z ustanovení tohto dohovoru každú osobu, ktorá vážne porušila colné zákony alebo nariadenia vzťahujúce sa na medzinárodnú prepravu tovaru.
 
-    - 2. Toto vylúčenie sa ihneď oznámi colným orgánom zmluvnej strany, na území ktorej dotyčná osoba sídli alebo býva, ako aj záručnému združeniu alebo záručným združeniam krajiny, v ktorej k porušeniu došlo.
+    - 2. Toto vylúčenie sa do jedného týždňa oznámi kompetentným orgánom zmluvnej strany, na ktorej území má príslušná osoba trvalý pobyt alebo na ktorej území je zriadená, ako aj záručnému združeniu krajiny alebo colného územia, v ktorej došlo k spáchaniu priestupku, a potom výkonnému výboru TIR.
 
   - Článok 39 Ak sú operácie TIR uznané inak za správne,
 
@@ -379,6 +385,10 @@
   - Článok 42
 
     - Na odôvodnenú žiadosť jednej zmluvnej strany sú príslušné orgány zmluvných strán zúčastnených na operácii TIR ochotné poskytnúť jej všetky dostupné informácie, ktoré sú potrebné na vykonávanie uvedených článkov 39, 40 a 41.
+
+  - Článok 42 bis
+
+    - Kompetentné orgány v úzkej spolupráci so združeniami prijmú všetky potrebné opatrenia na zabezpečenie správneho používania karnetov TIR. Na tento účel môžu prijať vhodné národné a medzinárodné kontrolné opatrenia. Národné kontrolné opatrenia, ktoré kompetentné orgány prijmú podľa tohto odseku, sa okamžite predložia výkonnému výboru TIR, ktorý preskúma ich súlad s ustanoveniami dohovoru. Správny výbor prijme medzinárodné kontrolné opatrenia.
 
 - KAPITOLA V Vysvetlivky
 
@@ -494,19 +504,27 @@
 
     - 3. S výnimkou výhrad uvedených v odseku 1 tohto článku nijaká výhrada k tomuto dohovoru nie je prípustná.
 
+  - Článok 58 bis Správny výbor
+
+    - Ustanoví sa správny výbor, ktorý bude pozostávať zo všetkých zmluvných strán. Jeho zloženie, funkcie a rokovací poriadok sú ustanovené v prílohe 8.
+
+  - Článok 58 ter Výkonný výbor TIR
+
+    - Správny výbor ustanoví výkonný výbor TIR ako pomocný orgán, ktorý bude v jeho mene plniť úlohy vyplývajúce mu z dohovoru a zo správneho výboru. Jeho zloženie, funkcie a rokovací poriadok sú ustanovené v prílohe 8.
+
   - Článok 59 Postup pri prerokúvaní pozmeňovacích návrhov tohto dohovoru
 
     - 1. Tento dohovor včítane jeho príloh sa môže meniť na návrh zmluvnej strany podľa postupu ustanoveného týmto článkom.
 
-    - 2. Každý podaný pozmeňovací návrh tohto dohovoru preskúmava správny výbor zložený zo všetkých zmluvných strán podľa rokovacieho poriadku ustanoveného v prílohe 8. Každý pozmeňovací návrh tohto druhu, ktorý bol preskúmaný alebo vypracovaný na zasadaní správneho výboru a ktorý tento výbor prijal dvojtretinovou väčšinou prítomných a hlasujúcich členov, odovzdá generálny tajomník Organizácie Spojených národov zmluvným stranám na prijatie.
+    - 2. Každý pozmeňovací návrh tohto dohovoru prehodnotí správny výbor zložený zo všetkých zmluvných strán podľa rokovacieho poriadku ustanoveného v prílohe 8. Každý pozmeňovací návrh tohto druhu, ktorý bol preskúmaný alebo vypracovaný na zasadaní správneho výboru a ktorý tento výbor prijal dvojtretinovou väčšinou prítomných a hlasujúcich členov, odovzdá generálny tajomník Organizácie Spojených národov zmluvným stranám na prijatie.
 
     - 3. S výhradou ustanovení článku 60 každý pozmeňovací návrh oznámený podľa ustanovenia predchádzajúceho odseku nadobudne platnosť pre všetky zmluvné strany tri mesiace po uplynutí dvanástich mesiacov odo dňa, keď bolo oznámenie urobené, ak v tomto období žiadny štát, ktorý je zmluvnou stranou, neoznámil generálnemu tajomníkovi Organizácie Spojených národov, že proti podanému pozmeňovaciemu návrhu vznáša námietku.
 
     - 4. Ak proti podanému pozmeňovaciemu návrhu bola podľa ustanovenia odseku 3 tohto článku oznámená námietka, považuje sa pozmeňovací návrh za neprijatý a nemá žiadny účinok.
 
-  - Článok 60 Osobitný postup pri prerokúvaní pozmeňovacích návrhov príloh 1, 2, 3, 4, 5, 6 a 7
+  - Článok 60 Osobitný postup pri prerokúvaní pozmeňovacích návrhov príloh 1, 2, 3, 4, 5, 6, 7, 8 a 9
 
-    - 1. Každý podaný pozmeňovací návrh príloh 1, 2, 3, 4, 5, 6 a 7, ktorý bol preskúmaný podľa ustanovení odsekov 1 a 2 článku 59, nadobudne platnosť dňom, ktorý určí správny výbor pri jeho prijatí, ak ku skoršiemu dňu, ktorý správny výbor zároveň určí, pätina štátov, ktoré sú zmluvnými stranami, alebo päť štátov, ktoré sú zmluvnými stranami, ak je tento počet menší, neoznámi generálnemu tajomníkovi Organizácie Spojených národov, že proti pozmeňovaciemu návrhu vznášajú námietky. Dni uvedené v tomto odseku určí správny výbor dvojtretinovou väčšinou prítomných a hlasujúcich členov.
+    - 1. Každý podaný pozmeňovací návrh príloh 1, 2, 3, 4, 5, 6, 7, 8 a 9, ktorý bol preskúmaný podľa ustanovení odsekov 1 a 2 článku 59, nadobudne platnosť dňom, ktorý určí správny výbor pri jeho prijatí, ak ku skoršiemu dňu, ktorý správny výbor zároveň určí, pätina štátov, ktoré sú zmluvnými stranami, alebo päť štátov, ktoré sú zmluvnými stranami, ak je tento počet menší, neoznámi generálnemu tajomníkovi Organizácie Spojených národov, že proti pozmeňovaciemu návrhu vznášajú námietky. Dni uvedené v tomto odseku určí správny výbor dvojtretinovou väčšinou prítomných a hlasujúcich členov.
 
     - 2. Len čo pozmeňovací návrh nadobudne platnosť, zmena prijatá podľa postupu ustanoveného v odseku 1 nahradí pre všetky zmluvné strany každé skoršie ustanovenie, na ktoré sa vzťahuje.
 
@@ -960,10 +978,6 @@
 
     - Podnik by nemal byť zbavený výhod režimu TIR pre priestupok spáchaný niektorým z jeho vodičov bez vedomia vedenia podniku.
 
-  - 0.38.2 Článok 38 odsek 2
-
-    - Ak bola zmluvná strana upovedomená o tom, že osoba sídliaca alebo bývajúca na jej území sa dopustila priestupku na území cudzej krajiny, nie je povinná vznášať námietky proti vydaniu karnetov TIR dotyčnej osobe.
-
   - 0.39 Článok 39
 
     - Výraz „omyly z nedbalosti“ znamená činy, ktoré nie sú spáchané úmyselne a pri plnej znalosti veci, ale tie, ktoré sú výsledkom toho, že sa neurobili vhodné alebo potrebné opatrenia, aby sa v danom prípade zabezpečila presnosť operácií.
@@ -1103,6 +1117,26 @@
   - 3.0.20 Postup pri vyhotovovaní záznamov vo schvaľovacom osvedčení
 
     - Na zrušenie záznamu o závadách po tom, čo vozidlo bolo znovu uvedené do riadneho stavu, stačí, aby sa v rubrike č. 11 na ten účel určenej urobil záznam „Závady odstránené“ (spolu s menom, podpisom a pečiatkou) príslušného orgánu.
+
+    - 8 PRÍLOHA 8
+
+    - 8.13.1-1 Finančné usporiadanie
+
+    - Po počiatočnom období dvoch rokov počítajú zmluvné strany dohovoru s tým, že činnosť výkonného výboru TIR a sekretariátu TIR sa bude financovať z riadneho rozpočtu Organizácie Spojených národov. Táto skutočnosť nemôže zabrániť predĺženiu počiatočného finančného usporiadania v prípade, ak by financovanie zo strany Organizácie Spojených národov alebo z náhradných zdrojov nebolo dostatočné.
+
+    - 8.13.1-2 Činnosť výkonného výboru TIR
+
+    - Prácu členov výkonného výboru TIR budú financovať ich príslušné vlády.
+
+    - 9 PRÍLOHA 9
+
+    - 9.I.1 a) Zriadenie združenia
+
+    - Ustanovenia v I. časti ods.1 písm. a) prílohy 9 sa vzťahujú na organizácie zapojené do medzinárodného obchodu s tovarom vrátane obchodných komôr.
+
+    - 9.II.3 Autorizačný výbor
+
+    - Odporúča sa zriadenie národných autorizačných výborov pozostávajúcich z členov kompetentných orgánov, národných združení a z iných zainteresovaných organizácií.
 
     - Náčrt č.1
 
@@ -1370,13 +1404,23 @@
 
       - PRÍLOHA č. 8
 
-      - ZLOŽENIE A ROKOVACÍ PORIADOK SPRÁVNEHO VÝBORU
+      - ZLOŽENIE, FUNKCIE A ROKOVACÍ PORIADOK SPRÁVNEHO VÝBORU A VÝKONNÉHO VÝBORU TIR
+
+      - ZLOŽENIE, FUNKCIE A ROKOVACÍ PORIADOK SPRÁVNEHO VÝBORU
 
     - Článok 1
 
       - i) Zmluvné strany sú členmi správneho výboru.
 
       - ii) Výbor môže rozhodnúť, že príslušné správy štátov uvedených v odseku 1 článku 52 tohto dohovoru, ktoré nie sú zmluvnými stranami, alebo zástupcovia medzinárodných organizácií môžu byť pri prerokúvaní otázok týkajúcich sa ich záujmov prítomní na zasadaní ako pozorovatelia.
+
+    - Článok 1 bis
+
+      - 1. Výbor preskúma každý pozmeňovací návrh dohovoru v súlade s článkom 59 ods. 1 a 2.
+
+      - 2. Výbor sleduje uplatňovanie dohovoru a preskúma každé opatrenie prijaté zmluvnými stranami, združeniami a medzinárodnými organizáciami a jeho súlad s týmto dohovorom.
+
+      - 3. Výbor prostredníctvom výkonného výboru TIR dozerá a poskytuje podporu pri uplatňovaní dohovoru na národnej a medzinárodnej úrovni.
 
     - Článok 2
 
@@ -1405,3 +1449,161 @@
     - Článok 8
 
       - Pokiaľ táto príloha neobsahuje iné náležité ustanovenia a ak výbor nerozhodne inak, používa sa rokovací poriadok Európskej hospodárskej komisie.
+
+      - ZLOŽENIE, FUNKCIE A ROKOVACÍ PORIADOK VÝKONNÉHO VÝBORU TIR
+
+    - Článok 9
+
+      - 1. Výkonný výbor TIR založený správnym výborom v súlade s článkom 58 ter pozostáva z deviatich členov, každý z nich je z inej zmluvnej strany dohovoru. Tajomník TIR sa zúčastňuje na zasadnutí výboru.
+
+      - 2. Členov výkonného výboru TIR volí správny výbor väčšinou prítomných a hlasujúcich. Funkčné obdobie každého člena výkonného výboru TIR je dvojročné. Členovia výkonného výboru TIR môžu byť opätovne zvolení. Rozsah pôsobnosti výkonného výboru TIR stanoví správny výbor.
+
+    - Článok 10
+
+      - Výkonný výbor TIR
+
+        - a) dozerá na uplatňovanie dohovoru vrátane fungovania systému ručenia a plní funkcie, ktorými ho poverí správny výbor;
+
+        - b) dozerá na centralizovanú tlač karnetov TIR a na ich distribúciu združeniam, ktorú môže vykonávať odsúhlasená medzinárodná organizácia v súlade s článkom 6;
+
+        - c) koordinuje a podporuje výmenu spravodajských informácií a iných informácií medzi kompetentnými orgánmi zmluvných strán;
+
+        - d) koordinuje a podporuje výmenu informácií medzi kompetentnými orgánmi zmluvných strán, združeniami a medzinárodnými organizáciami;
+
+        - e) uľahčuje riešenie sporov medzi zmluvnými stranami, združeniami, poisťovňami a medzinárodnými organizáciami bez dotknutia ustanovení článku 57 o riešení sporov;
+
+        - f) podporuje vzdelávanie colných orgánov a ostatných zainteresovaných strán, ktorých sa uplatňovanie režimu TIR týka;
+
+        - g) vedie centrálnu evidenciu o oznamovaní informácií pre zmluvné strany, ktoré majú poskytovať medzinárodné organizácie, v súlade s článkom 6 o všetkých pravidlách a postupoch predpísaných pre vydávanie karnetov TIR združeniami, ak sú v súlade s minimálnymi podmienkami a požiadavkami ustanovenými v prílohe 9;
+
+        - h) sleduje cenu karnetov TIR.
+
+    - Článok 11
+
+      - 1. Zasadnutie výboru zvoláva tajomník TIR na žiadosť správneho výboru alebo na žiadosť aspoň troch členov výboru.
+
+      - 2. Výbor sa snaží prijímať rozhodnutia na základe vzájomnej zhody. Ak nemožno dosiahnuť zhodu, o rozhodnutiach sa hlasuje a tieto sa prijmú, ak väčšina prítomných vyjadrí hlasovaním svoj súhlas. Na prijatie rozhodnutí sa požaduje prítomnosť minimálne piatich členov. Tajomník TIR nemá oprávnenie hlasovať.
+
+      - 3. Výbor si zvolí predsedu a doplní rokovací poriadok.
+
+      - 4. Výbor podá správu o svojej činnosti správnemu výboru najmenej jedenkrát ročne vrátane predkladania audítorom overeného účtu alebo na základe žiadosti správneho výboru. Výbor bude v správnom výbore zastupovať jeho predseda.
+
+      - 5. Výbor prehodnotí všetky informácie a otázky, ktoré mu predloží správny výbor, zmluvné strany, tajomník TIR, národné združenia a medzinárodné organizácie, v súlade s článkom 6 dohovoru. Tieto medzinárodné organizácie majú právo zúčastňovať sa zasadnutí výkonného výboru TIR ako pozorovatelia, ak jeho predseda nerozhodne inak. Ak je to potrebné, zasadnutí výboru sa na základe pozvania jeho predsedu môže zúčastniť ako pozorovateľ aj zástupca inej organizácie.
+
+    - Článok 12
+
+      - Tajomník TIR je členom sekretariátu Európskej hospodárskej komisie Organizácie Spojených národov a vykonáva rozhodnutia výkonného výboru TIR v rámci rozsahu pôsobnosti výboru. Tajomníkovi TIR pomáha sekretariát TIR, ktorého obsadenie určuje správny výbor.
+
+    - Článok 13
+
+      - 1. Prevádzka výkonného výboru TIR a sekretariátu TIR sa financuje dovtedy, kým sa nezískajú alternatívne zdroje finančných prostriedkov z poplatkov za každý karnet TIR distribuovaný medzinárodnou organizáciou v súlade s článkom 6.
+
+      - 2. Sumu poplatku a postup jeho výberu určí správny výbor po konzultáciách s medzinárodnou organizáciou v súlade s článkom 6. Akékoľvek navrhované zmeny sumy poplatku povolí správny výbor.
+
+    - Príloha 9
+
+    - PRÍSTUP K REŽIMU TIR
+
+    - I. časť OPRÁVNENIE ZDRUŽENIA VYDÁVAŤ KARNETY TIR
+
+      - Minimálne podmienky a požiadavky
+
+  - 1. Minimálne podmienky a požiadavky, ktoré musia splniť združenia, aby boli oprávnené zmluvnými stranami vydávať karnety TIR a vystupovať ako ručitelia v súlade s článkom 6 dohovoru, sú:
+
+    - a) preukázateľná minimálne jednoročná existencia vytvoreného dopravného združenia zastupujúceho záujmy dopravného odvetvia,
+
+    - b) preukázateľná finančná spoľahlivosť a organizačná spôsobilosť, ktoré združeniu umožňujú plniť si svoje záväzky podľa dohovoru,
+
+    - c) preukázateľná odborná spôsobilosť pracovníkov združenia v súvislosti so správnym uplatňovaním dohovoru,
+
+    - d) absencia vážnejších alebo opakujúcich sa priestupkov voči colným alebo daňovým predpisom,
+
+    - e) vypracovanie písomnej dohody alebo iného právneho aktu medzi združením a kompetetnými orgánmi zmluvnej strany, v ktorej je združenie zriadené. Úradne overená kópia písomnej dohody alebo iného právneho aktu, ak treba spolu s overeným prekladom do angličtiny, francúzštiny alebo ruštiny, bude uložená výkonným výborom TIR. Akákoľvek zmena písomnej dohody alebo iného právneho aktu sa okamžite oznámi výkonnému výboru TIR,
+
+    - f) v súlade s písmenom e) sa v písomnej dohode alebo inom právnom akte združenie zaviaže, že
+
+    - i) bude plniť záväzky ustanovené v článku 8 dohovoru;
+
+    - ii) prijme maximálnu sumu za karnet TIR určenú zmluvnou stranou, ktorá sa môže od združenia požadovať v súlade s článkom 8 ods. 3 dohovoru;
+
+      - iii) bude sústavne preverovať a najmä pred schválením žiadosti o prístup osôb do režimu TIR plnenie minimálnych podmienok a požiadaviek zo strany takýchto osôb v súlade s II. časťou tejto prílohy;
+
+      - iv) bude ručiť za všetky záväzky, ktoré vzniknú v krajine, v ktorej je zriadené, v spojení s operáciami uskutočňovanými na podklade karnetov TIR, ktoré karnet TIR vydal, a v spojení so zahraničnými združeniami, ktoré sú členmi tej istej medzinárodnej organizácie, ktorej je členom aj toto združenie;
+
+      - v) bude ručiť za svoje záväzky k spokojnosti kompetentných orgánov zmluvných strán, v ktorých je zriadené, spolu s poisťovňou, spoločným združením poisťovateľov alebo finančnou inštitúciou. Poistenie alebo zmluva (zmluvy) o finančnej záruke zahŕňa (zahŕňajú) celkovú čiastku záväzku v spojení s operáciami vykonávanými na podklade karnetov TIR ním vydaných a vydaných zahraničnými združeniami, ktoré sú členmi tej istej medzinárodnej organizácie, ktorej členom je aj toto združenie.
+
+        - Výpovedná lehota na skončenie poistenia alebo zmluvy (zmlúv) o finančnej záruke nebude kratšia ako výpovedná lehota na skončenie písomnej dohody alebo iného právneho aktu podľa písmena e). Overená kópia poistenia alebo zmluvy (zmlúv) o finančnej záruke a ich všetky ďalšie zmeny a doplnenia sa uložia výkonným výborom TIR vrátane overeného prekladu do angličtiny, francúzštiny alebo ruštiny, ak je to potrebné;
+
+    - vi) umožní kompetentným orgánom, aby si v súvislosti s administratívnymi postupmi v režime TIR overili všetky vedené záznamy a účty;
+
+      - vii) prijme postup na účinné riešenie sporov, ktoré vzniknú z nesprávneho alebo neoprávneného používania karnetov TIR;
+
+      - viii) bude súhlasiť s tým, že každé vážnejšie alebo opakované porušenie niektorých minimálnych podmienok a požiadaviek bude mať za následok zrušenie oprávnenia vydávať karnety TIR;
+
+      - ix) bude konať prísne v súlade s rozhodnutiami kompetentných orgánov zmluvnej strany, v ktorej je zriadené, týkajúcimi sa vylúčenia osôb v súlade s ustanoveniami článku 38 dohovoru a s ustanoveniami II. časti tejto prílohy;
+
+      - x) bude súhlasiť s presným zavedením všetkých rozhodnutí prijatých správnym výborom a výkonným výborom TIR tak, ako ich prijali kompetentné orgány zmluvnej strany, v ktorej je združenie zriadené.
+
+  - 2. V prípade vážneho alebo opakovaného porušenia minimálnych podmienok a požiadaviek zrušia zmluvné strany, v ktorých je združenie zriadené, oprávnenie vydávať karnety TIR.
+
+  - 3. Oprávnením združenia vydaným podľa uvedených podmienok nie sú dotknuté povinnosti a záväzky združenia vyplývajúce mu z dohovoru.
+
+  - 4. Uvedené minimálne podmienky a požiadavky nebránia tomu, aby zmluvné strany mohli predložiť dodatočné podmienky a požiadavky.
+
+    - II. časť SCHVÁLENIE FYZICKÝCH A PRÁVNICKÝCH OSÔB POUŽÍVAŤ KARNETY TIR
+
+      - Minimálne podmienky a požiadavky
+
+  - 1. Minimálne podmienky a požiadavky, ktoré musia žiadatelia o vstup do režimu TIR splniť, sú tieto:
+
+    - a) preukázanie skúsenosti alebo schopnosti realizovať pravidelnú medzinárodnú dopravu (držiteľ licencie na vykonávanie medzinárodnej dopravy, atď.),
+
+    - b) preukázanie finančnej spoľahlivosti,
+
+    - c) preukázanie odbornej spôsobilosti v súvislosti s uplatňovaním dohovoru TIR,
+
+    - d) absencia vážnejších alebo opakujúcich sa priestupkov voči colným alebo daňovým predpisom,
+
+    - e) písomné vyhlásenie o záväzkoch k združeniu, že osoba
+
+    - i) dodrží všetky colné formality požadované podľa dohovoru na colných úradoch odoslania, pohraničných colných úradoch a colných úradoch určenia;
+
+    - ii) zaplatí splatné sumy uvedené v článku 8 ods. 1 a 2 dohovoru, ak ju kompetentné orgány požiadajú, aby tak urobila v súlade s článkom 8 ods. 7 dohovoru;
+
+      - iii) dovolí združeniam, aby si overovali informácie o uvedených minimálnych podmienkach a požiadavkách, ak to povoľuje národná legislatíva.
+
+  - 2. Ak kompetentné orgány nerozhodnú inak, kompetentné orgány a združenia môžu zaviesť ďalšie dodatočné a obmedzujúce podmienky a požiadavky na prístup do režimu TIR.
+
+    - Postup
+
+  - 3. Zmluvné strany v súlade s národnou legislatívou rozhodnú o postupoch na prístup do režimu TIR na základe minimálnych podmienok a požiadaviek ustanovených v odsekoch 1 a 2.
+
+  - 4. Kompetentné orgány odovzdajú do jedného týždňa od dátumu vydania oprávnenia alebo odobratia oprávnenia používať karnety TIR konkrétne údaje o každej osobe výkonného výboru TIR v súlade so vzorom priloženého formuláru oprávnenia.
+
+  - 5. Združenie každoročne predloží kompetentným orgánom aktualizovaný zoznam všetkých osôb, ktoré boli k 31. decembru schválené alebo vylúčené. Tento zoznam sa do jedného týždňa po 31. decembri predloží kompetentným orgánom. Kompetentné orgány odošlú kópiu tohto zoznamu výkonnému výboru TIR.
+
+  - 6. Schválením prístupu do režimu TIR kompetentnými orgánmi však nevzniká právo na získanie karnetov TIR od združenia.
+
+  - 7. Schválením osôb používať karnety TIR pri splnení uvedených minimálnych podmienok a požiadaviek nebudú dotknuté povinnosti a záväzky osôb vyplývajúce im z dohovoru.
+
+    - VZOR FORMULÁRU OPRÁVNENIA
+
+  - Krajina: ...............................Názov združenia: ....................................................Kompetentný orgán: ............................................... | | | | | | | |
+
+  - Majú vyplniť národné združenia a/ alebo kompetentné orgány | | | | | | | |
+
+  - Ident. číslo (ID číslo) | Meno osôb/ názov podniku | Obchodná adresa | Kontaktný bod a prístupové číslo (Tel., fax a č. e-mailu) | Obchodná registrácia alebo číslo licencie atď.*) | Skoršie odňatie oprávnenia**) | Dátum oprávnenia**) | Dátum odňatia oprávnenia**) | Pečiatka, podpis
+
+  - *) ak je k dispozícii**) ak je vhodné
+
+    - Schválené združenie poskytne kompetentným orgánom informácie o osobe, ktorá predložila žiadosť o schválenie prístupu, minimálne v tomto rozsahu:
+
+    - - samostatné a jednotné identifikačné číslo (ID) pridelené osobe záručným združením (v spolupráci s medzinárodnou organizáciou, ku ktorej je pridružené),
+
+    - - meno (-á) a adresu (-y) osoby (osôb) alebo podniku (v prípade podnikateľského združenia aj mená zodpovedných vedúcich),
+
+    - - kontaktný bod (fyzická osoba oprávnená poskytovať colným orgánom a združeniam informácie o režime TIR s telefónnymi, faxovými a e-mailovými číslami),
+
+    - - číslo obchodnej registrácie alebo číslo licencie na vykonávanie medzinárodnej dopravy alebo iné číslo (ak je k dispozícii),
+
+    - - skoršie odňatie oprávnenia (ak je to možné) vrátane dátumu, dĺžky a príčiny odňatia oprávnenia.
