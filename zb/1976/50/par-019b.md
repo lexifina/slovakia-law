@@ -10,6 +10,6 @@
 
 - d) určenie hraníc riešeného územia.
 
-(2) Prípravné práce vykonáva orgán územného plánovania, ktorý obstaráva územnoplánovaciu dokumentáciu a zabezpečuje ich v spolupráci s ostatnými orgánmi štátnej správy, obcami a právnickými osobami a fyzickými osobami, ktoré sa podieľajú na využívaní územia.
+(2) Prípravné práce vykonáva orgán územného plánovania, ktorý obstaráva územnoplánovaciu dokumentáciu a zabezpečuje ich v spolupráci s ostatnými orgánmi štátnej správy, orgánmi samosprávnych krajov, obcami a právnickými osobami a fyzickými osobami, ktoré sa podieľajú na využívaní územia.
 
 (3) Na základe prípravných prác orgán územného plánovania, ktorý obstaráva územnoplánovaciu dokumentáciu, zabezpečí spracovanie prieskumov a rozborov nevyhnutných na spracovanie zadania, konceptu a návrhu územnoplánovacej dokumentácie.
