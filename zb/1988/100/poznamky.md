@@ -52,7 +52,7 @@
 
 - 14) § 44 zákona č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev.
 
-- 15) §244 a nasl. Občianskeho súdneho poriadku.
+- 15) § 244 a nasl. Občianskeho súdneho poriadku.
 
 - 16) § 142 a nasl. Občianskeho súdneho poriadku.
 
