@@ -10,6 +10,8 @@
 
 - 6) Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
+- 6a) Zákon č. 283/2002 Z. z. o cestovných náhradách.
+
 - 7) § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení zákona č. 276/2001 Z. z.
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
