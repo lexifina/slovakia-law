@@ -122,7 +122,9 @@ Príloha č. 2 metodických pokynov
 
   - Na tomto oddiele sa neúčtujú bežné nadplánové príjmy.
 
-  - Oddiel 16. Doplnkové zdroje na financovanie investícií rozpočtových organizácií
+  - Oddiel 16 Doplnkové zdroje rozpočtových organizácií
+
+  - Tento oddiel je určený na účtovanie použitých prostriedkov z osobitného účtu pobádacieho fondu. Sumy použité z pobádacích fondov sa uvádzajú v rovnakej výške ako vo výdavkoch (skupina 2, oddiel 8).
 
     - II. SKLADBA VÝDAVKOV
 
@@ -158,7 +160,7 @@ Príloha č. 2 metodických pokynov
 
     - čl. 1 - výdavky na vlastnú prevádzku organizácií
 
-    - čl. 2 - prémie a odmeny za rozvoj vedy a techniky
+    - čl. 2 Prémie a odmeny za riešenie štátnych úloh rozvoja vedy a techniky.
 
     - čl. 3 - štipendiá
 
@@ -428,7 +430,7 @@ Príloha č. 2 metodických pokynov
 
     - čl. 1 - Výdavky na vlastnú prevádzku organizácií
 
-    - čl. 2 - Prémie a odmeny za rozvoj vedy a techniky
+    - čl. 2 Prémie a odmeny za riešenie štátnych úloh rozvoja vedy a techniky.
 
     - čl. 3 - Štipendiá
 
@@ -523,6 +525,38 @@ Príloha č. 2 metodických pokynov
 - § 4 Poľovníctvo, rybárstvo a ostatné záujmové organizácie
 
 - Oddiel 8. Pobádacie fondy
+
+- § 1 Sociálne a zdravotnícke zariadenia
+
+- § 2 Jasle a materské školy
+
+- § 3 Učňovské zariadenia
+
+- § 4 Kultúrne zariadenia
+
+- § 5 Rekreačné zariadenia
+
+- § 6 Telovýchovné zariadenia
+
+- § 7 Pôžičky na bytovú výstavbu
+
+- § 8 Príspevky na družstevnú bytovú výstavbu
+
+- § 9 Politicko-výchovná činnosť ZO ROH
+
+- § 10 Výberová rekreácia a kúpeľná starostlivosť
+
+- § 11 Zahraničné zájazdy
+
+- § 12 Nepeňažné odmeny
+
+- § 13 Peňažné odmeny
+
+- § 14 Ostatné účely (pre zlepšenie vybavenia organizácie)
+
+- § 15 Príspevky na závodné stravovanie
+
+- Tento oddiel je určený na účtovanie použitých prostriedkov pobádacieho fondu.
 
 - Oddiel 9. Rezervy
 
@@ -1035,6 +1069,8 @@ Príloha č. 2 metodických pokynov
     - 87. Prídely na ostatné výdavky (napr. rekultivácia pozemkov, propagácia v Československom filme a pod.)
 
     - 88. Dotácie hrubého dôchodku (zisku).
+
+    - 89 Prídely na úhradu faktúr za úlohy štátneho plánu výskumných a vývojových prác.
 
     - NORMY
 

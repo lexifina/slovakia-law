@@ -12,7 +12,7 @@
 
 - aa) v cenách podľa metodiky roku 1966 a v organizácii k 1. januáru 1967,
 
-- bb) v cenách podľa metodiky a v organizácii k 1. januáru 1967; vo vzťahu k zahraničnému obchodu sa cenami roku 1967 rozumejú odovzdávacie ceny zahraničného obchodu franko československé hranice;
+- bb) v cenách podľa metodiky a v organizácii k 1. januáru 1967; vo vzťahu k zahraničnému obchodu sa cenami roku 1967 rozumejú ceny zahraničného obchodu franko československé hranice (skratka FCO) zahraničného obchodu franko československé hranice;
 
 - c) za rok 1968, prípadne 1969 v cenách podľa metodiky a v organizácii k 1. januáru 1967. Spolu s návrhom plánu a rozpočtu sa predložia prepočty vplyvov cenových a metodických zmien, pokiaľ ich priamo nepredpisujú jednotlivé vzory formulárov. V prípade, že sa vykonajú organizačné zmeny k 1. januáru 1967, uvedie sa ich vplyv v komentári.
 

@@ -108,10 +108,12 @@
 
   - Podniky oznámia svoje prepočty dane v celkovom objeme finančným odborom okresných národných výborov do 7 dní po ich schválení vedením podniku.
 
-- 14. Prehľad štátnych úloh a zo štátneho rozpočtu dotovaných podnikových a odborových úloh výskumných a vývojových prác riešených hospodárskymi organizáciami (F - 20) je podkladom pre určenie výšky prostriedkov zo štátneho rozpočtu
+- 14. Prehľad štátnych úloh a zo štátneho rozpočtu dotovaných podnikových a odborových úloh výskumných a vývojových prác riešených hospodárskymi organizáciami (F-20) je podkladom pre ustanovenie výšky prostriedkov zo štátneho rozpočtu:
 
-  - a) ústredným orgánom na úhradu faktúr za štátne úlohy riešené hospodárskymi organizáciami, ktoré sa uvedú na formulári F - 13 v skupine 1. Hospodárstvo, oddiel 2, § 2, čl. 1 pod zoskupením položky 2 - služby a práce nevýrobnej povahy,
+  - a) ústredným orgánom na úhradu faktúr za štátne úlohy, ktoré sa uvádzajú na formulári F-13 v skupine 1. Hospodárstvo, oddiel 2 § 2 čl. 1 pod zoskupením položiek 2 služby a výdavky nevýrobnej povahy,
 
-  - b) hospodárskym organizáciám formou dotácie na úhradu nákladov spojených s riešením úloh štátneho plánu výskumných a vývojových prác podnikového a odborového charakteru, ktoré sa príslušným podnikom alebo odborovým riaditeľstvám (realizátorom úloh) uvedú na riadku 20 formulára F - 7.
+  - b) hospodárskym organizáciám formou dotácie na úhradu nákladov spojených s riešením úloh podnikového a odborového charakteru, ktoré sa uvádzajú na riadku 20 formulára F-7,
+
+  - c) hospodárskym organizáciám na úhradu faktúr za úlohy štátneho plánu výskumných a vývojových prác, ktoré sa uvádzajú na riadku 28 formulára F-7.
 
 - Okrem formulára finančného plánu F - 20 predložia ústredné orgány ešte spoločný formulár Štátnej plánovacej komisie a Ministerstva financií s názvom „Súhrn prostriedkov štátneho vykonávacieho plánu a štátneho rozpočtu pre fond vedy a techniky“ (formulár č. 15 - 01). Údaje na tomto formulári týkajúce sa finančného zabezpečenia neinvestičných potrieb rozvoja vedy a techniky sa vypracujú v nadväznosti na údaje uvedené na formulároch F - 2, F - 4, F - 7, F - 12, F - 13.

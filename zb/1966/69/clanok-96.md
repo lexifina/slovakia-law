@@ -22,6 +22,6 @@
 
   - sadzieb dane z obratu,
 
-  - vyplývajúcich zo zavedenia odovzdávacích cien v zahraničnom obchode,
+  - vyplývajúcich zo zavedenia cien zahraničného obchodu franko československé hranice (skratka FCO),
 
   - ostatných, ktoré s prestavbou cien súvisia.

@@ -12,15 +12,15 @@ Príloha č. 1 metodických pokynov
 
   - Vybraté úlohy výroby*) a dodávok v hmotných jednotkách podľa časti tohto zoznamu. Limity odberu vybratých výrobkov pre vybratých odberateľov podľa časti tohto zoznamu.
 
-  - Objem dodávok pre vývoz v odovzdávacích cenách zahraničného obchodu (v parite franko československé hranice) v členení socialistické krajiny a kapitalistické štáty podľa jednotlivých ústredných orgánov (minimálny).
+  - Objem dodávok pre vývoz v cenách zahraničného obchodu franko československé hranice (skratka FCO) v členení socialistické krajiny a kapitalistické štáty podľa jednotlivých ústredných orgánov (minimálny).
 
-  - Objem celkových dodávok z dovozu v odovzdávacích cenách zahraničného obchodu (v parite franko československé hranice) zo socialistických krajín podľa jednotlivých ústredných orgánov (maximálny).
+  - Objem celkových dodávok z dovozu v cenách zahraničného obchodu franko československé hranice (skratka FCO) zo socialistických krajín podľa jednotlivých ústredných orgánov (maximálny).
 
-  - Objem dodávok z dovozu z kapitalistických štátov charakteru výrobnej spotreby v odovzdávacích cenách zahraničného obchodu (v parite franko československé hranice) (maximálny).
+  - Objem dodávok z dovozu z kapitalistických štátov charakteru výrobnej spotreby v cenách zahraničného obchodu franko československé hranice (skratka FCO) (maximálny).
 
-  - Objem dodávok z dovozu pre Ministerstvo vnútorného obchodu v odovzdávacích cenách zahraničného obchodu (v parite franko československé hranice) v členení socialistické krajiny a kapitalistické štáty.
+  - Objem dodávok z dovozu pre Ministerstvo vnútorného obchodu v cenách zahraničného obchodu franko československé hranice (skratka FCO) v členení socialistické krajiny a kapitalistické štáty.
 
-  - Saldo objemu dodávok z dovozu a pre vývoz vo vzťahu ku kapitalistickým štátom v odovzdávacích cenách zahraničného obchodu (v parite franko československé hranice) v prípadoch, v ktorých sa ústrednému orgánu neustanovuje objem dodávok pre vývoz do kapitalistických štátov a objem dodávok pre výrobnú spotrebu z dovozu z kapitalistických štátov.
+  - Saldo objemu dodávok z dovozu a pre vývoz vo vzťahu ku kapitalistickým štátom cenách zahraničného obchodu franko československé hranice (skratka FCO) v prípadoch, v ktorých sa ústrednému orgánu neustanovuje objem dodávok pre vývoz do kapitalistických štátov a objem dodávok pre výrobnú spotrebu z dovozu z kapitalistických štátov.
 
     - III. Stavebníctvo
 
@@ -219,3 +219,13 @@ Príloha č. 1 metodických pokynov
   - Autobusy | 447 | ks | - | - | - | - | MNO, MV, KNV a všetky ústredné orgány pre kompletáciu
 
   - Nákladné automobily od 3 do 5 t, vrátane kompletačných podvozkov | 445 13 445513 | ks | - | - | - | - | Všetky ústredné orgány a KNV
+
+  - Obilniny | 0010-0015 | t | - | Z | - | - | ÚSN*)
+
+  - Mäso v jatočnej úprave | 7641-7645 | t | - | Z | - | - | MPP*)
+
+  - Rezivo ihličnaté | 6051 | tis. m<sup>3</sup> | - | - | Z | - | MSP, MNO**)
+
+  - *) Platí pre limit odberu z dovozu.
+
+  - **) Platí pre dodávky pre vývoz.

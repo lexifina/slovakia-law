@@ -65,3 +65,7 @@
 - 4. Podniky Ústredného sväzu výrobných družstiev vyhotovia a predložia svojim nadriadeným orgánom odôvodnenie cenových rozdielov za materiálové a iné náklady a za plán investičnej výstavby. Za tržby a výkony vypracujú odôvodnenie len v odvetviach, v ktorých výroba a výkony nie sú zaradené vo voľnej tvorbe cien a prepočet sa vykonáva podľa vyhlásených indexov zmien veľkoobchodných cien.
 
   - Odôvodňujúce prepočty sa nebudú sumarizovať a zostanú sústredené na Ústrednom sväze výrobných družstiev ako podkladový materiál pre objasnenie cenových zmien.
+
+- 5. Ústredné orgány, ktoré vykonali prepočty plánu tvorby hrubého dôchodku (zisku) na rok 1966 podľa pokynov Ministerstva financií a Štátnej plánovacej komisie č. MF-113/37 482/1966 a č. ŠPK 103 503/66 pre overenie vplyvov úpravy veľkoobchodných cien a ich dopadov na výsledky hospodárskych organizácií za rok 1966, nerobia odôvodňujúci prepočet cenových rozdielov podľa bodu 2.
+
+  - Odôvodnenie cenových rozdielov za tvorbu hrubého dôchodku (zisku) ústredné orgány vykonajú porovnaním indexov zmien cien, ktoré vyplynuli z prepočtu plánu na rok 1967, s indexami z prepočtu plánu na rok 1966 podľa jednotlivých položiek plánu tvorby hrubého dôchodku (zisku) a podstatnejšie rozdiely odôvodnia v komentári.
