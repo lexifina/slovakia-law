@@ -1,0 +1,1 @@
+- 1) § 8 ods. 1 Trestného poriadku.
