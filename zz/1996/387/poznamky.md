@@ -2,6 +2,8 @@
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
 
+- 2a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+
 - 3) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 253/1994 Z. z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
 - 4) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
