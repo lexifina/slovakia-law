@@ -6,4 +6,4 @@
 
 (3) Správne orgány sú viazané právnym názorom súdu.
 
-(4) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.
+(4) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok s výnimkou mimoriadneho dovolania.
