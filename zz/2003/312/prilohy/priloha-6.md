@@ -52,7 +52,7 @@ Príloha č. 6 k nariadeniu vlády č. 312/2003 Z. z.
 
     - III. Osobitné požiadavky na surové kozie mlieko
 
-      - Surové kozie mlieko určené na výrobu surového kozieho mlieka nesmie pochádzať od zvierat, ktoré sa nachádzajú v ohniskách kliešťovej encefalitídy zistených na základe informácií Ministerstva zdravotníctva Slovenskej republiky.
+      - Surové kozie mlieko určené na výrobu surového konzumného mlieka nesmie pochádzať od zvierat, ktoré sa nachádzajú v ohniskách kliešťovej encefalitídy zistených na základe informácií Ministerstva zdravotníctva Slovenskej republiky.
 
     - IV. Požiadavky na surové konzumné mlieko určené na pitie v tomto stave
 

@@ -38,9 +38,9 @@ Príloha č. 2 k nariadeniu vlády č. 312/2003 Z. z.
 
     - (4) Surové mlieko musí byť vylúčené z ošetrenia, spracovania, predaja a spotreby, ak
 
-      - a) je získané od zvierat, ktorým boli ilegálne podané látky podľa osobitného predpisu,<sup>5</sup>),<sup>3</sup>)
+      - a) je získané od zvierat, ktorým boli ilegálne podané látky podľa osobitného predpisu,<sup>5</sup>)
 
-      - b) obsahuje rezíduá látok podľa § 13, ktoré prekračujú najvyššie prípustné množstvá alebo maximálne limity rezíduí podľa osobitného predpisu<sup>6</sup>),<sup>4</sup>).
+      - b) obsahuje rezíduá látok podľa § 13, ktoré prekračujú najvyššie prípustné množstvá alebo maximálne limity rezíduí podľa osobitného predpisu.<sup>6</sup>)
 
     - (5) Mlieko a mliečne výrobky môžu pochádzať z ochranného pásma a pásma pozorovania pri výskyte slintačky a krívačky, len ak sa pod dozorom regionálnej veterinárnej a potravinovej správy vykonala počiatočná pasterizácia pri teplote najmenej 71, 7 <sup>o</sup>C počas najmenej 15 sekúnd a
 
@@ -70,7 +70,7 @@ Príloha č. 2 k nariadeniu vlády č. 312/2003 Z. z.
 
       - d) vhodný a dostatočný zdroj pitnej vody, ktorá spĺňa parametre týkajúce sa toxických látok a mikrobiologické parametre ustanovené v osobitnom predpise<sup>8</sup>) pre potreby dojenia, čistenia zariadení a nástrojov podľa časti C 1. II,
 
-      - e) dostatočne oddelené od všetkých zdrojov kontaminácie, ako sú záchody a skládky hnoja,
+      - e) dostatočné oddelenie od všetkých zdrojov kontaminácie, ako sú záchody a skládky hnoja,
 
       - f) potrubia a zariadenia ľahko umývateľné, čistiteľné a dezinfikovateľné.
 
@@ -124,19 +124,19 @@ Príloha č. 2 k nariadeniu vlády č. 312/2003 Z. z.
 
       - IV. Hygiena výroby I
 
-        - (1) Surové mlieko z každého produkčného hospodárstva sa musí pravidelne kontrolovať náhodným odberom na bod tuhnutia mlieka vo frekvencii podľa osobitného predpisu.<sup>10</sup>) Ak sa mlieko z jedného hospodárstva dodáva priamo do mliekarne na ošetrenie mlieka alebo do mliekarne na spracovanie mlieka, vzorky mlieka sa odoberajú pri zbere z hospodárstva alebo pred príjmom v mliekarni na ošetrenie mlieka alebo v mliekarni na spracovanie mlieka, a to v prípade, ak sa mlieko dodáva farmárovi priamo.
+        - (1) Surové mlieko z každého produkčného hospodárstva sa musí pravidelne kontrolovať náhodným odberom na bod tuhnutia mlieka vo frekvencii podľa osobitného predpisu.<sup>10</sup>) Ak sa mlieko z jedného hospodárstva dodáva priamo do mliekarne na ošetrenie mlieka alebo do mliekarne na spracovanie mlieka, vzorky mlieka sa odoberajú buď pri zbere z hospodárstva, alebo, aby sa predišlo zámene mlieka počas dopravy, ak je mlieko dodávané priamo farmárom, pred príjmom v mliekarni na ošetrenie mlieka alebo v mliekarni na spracovanie mlieka.
 
-        - (2) Ak na základe výsledku vyšetrenia surového mlieka na bod tuhnutia vznikne podozrenie, že do mlieka bola pridaná voda, orgán veterinárnej správy odoberie autentickú vzorku v produkčnom hospodárstve. Autentická vzorka mlieka je vzorka reprezentujúca mlieko z jedného ranného alebo z jedného večerného dojenia, pričom časový interval medzi dvoma dojeniami nesmie byť dlhší ako 13 hodín a kratší ako 11 hodín. Dojenie sa vykonáva pod dozorom úradného veterinára.
+        - (2) Ak na základe výsledku vyšetrenia surového mlieka na bod tuhnutia vznikne podozrenie, že do mlieka bola pridaná voda, orgán veterinárnej správy<sup>10a</sup>) odoberie autentickú vzorku v produkčnom hospodárstve. Autentická vzorka mlieka je vzorka reprezentujúca mlieko z jedného ranného alebo z jedného večerného dojenia, pričom časový interval medzi dvoma dojeniami nesmie byť dlhší ako 13 hodín a kratší ako 11 hodín. Dojenie sa vykonáva pod dozorom orgánu veterinárnej správy.<sup>10a</sup>)
 
         - (3) Ak sa mlieko dodáva z viacerých hospodárstiev, vzorky sa môžu odoberať len pred príjmom surového mlieka mliekarňou na ošetrenie mlieka alebo mliekarňou na spracovanie mlieka, alebo zberným strediskom, alebo štandardizačným strediskom za predpokladu, že v produkčnom hospodárstve sa vykonávajú kontroly na mieste.
 
-        - (4) Ak výsledky kontroly vedú k podozreniu, že do mlieka bola pridaná voda, vzorky sa musia odobrať na všetkých hospodárstvach, ktorých mlieko sa nachádzalo v zvozovej cisterne. Ak je to potrebné, orgán veterinárnej správy odoberie autentickú vzorku podľa odseku 2.
+        - (4) Ak výsledky kontroly vedú k podozreniu, že do mlieka bola pridaná voda, vzorky sa musia odobrať na všetkých hospodárstvach, ktorých mlieko sa nachádzalo v zvozovej cisterne. Ak je to potrebné, orgán veterinárnej správy<sup>10a</sup>) odoberie autentickú vzorku podľa odseku 2.
 
         - (5) Ak výsledky kontroly preukážu, že do mlieka nebola pridaná voda, surové mlieko sa môže použiť na výrobu surového konzumného mlieka, tepelne ošetreného mlieka a na výrobu mliečnych výrobkov na spotrebu ľuďmi.
 
         - (6) Mliekareň na ošetrenie mlieka a mliekareň na spracovanie mlieka musia informovať regionálnu veterinárnu a potravinovú správu, ak hodnoty štandardov ustanovené pre celkový počet mikroorganizmov a počet somatických buniek boli dosiahnuté. Regionálna veterinárna a potravinová správa vykoná vhodné opatrenia.
 
-        - (7) Ak do troch mesiacov od oznámenia výsledkov kontrol podľa bodu 1 na základe vyšetrenia podľa časti D bodu IV štandardy podľa časti D boli prekročené a mlieko z hospodárstva nespĺňa tieto štandardy, tomuto hospodárstvu sa pozastaví povolenie na dodávky surového mlieka, pokiaľ mlieko nebude opäť spĺňať uvedené štandardy.
+        - (7) Ak do troch mesiacov od oznámenia výsledkov kontrol podľa bodu 1 na základe šetrenia podľa časti D bodu III štandardy podľa časti D boli prekročené a mlieko z hospodárstva nespĺňa tieto štandardy, tomuto hospodárstvu sa pozastaví dodávka surového mlieka, pokiaľ mlieko nebude opäť spĺňať uvedené štandardy.
 
         - (8) Mlieko sa nesmie použiť na spotrebu ľuďmi, ak obsahuje rezíduá antibiotík v množstvách, ktoré s ohľadom na akúkoľvek z látok podľa príloh I a III podľa osobitného predpisu prekračujú najvyššie povolené množstvo podľa osobitného predpisu;<sup>6</sup>) kombinovaný súčet rezíduí antibiotických látok nesmie prekročiť hodnotu, ktorú ustanoví ministerstvo pôdohospodárstva podľa veterinárnych požiadaviek Európskych spoločenstiev všeobecne záväzným právnym predpisom.
 
@@ -174,7 +174,7 @@ Príloha č. 2 k nariadeniu vlády č. 312/2003 Z. z.
 
         - (3) Hnoj sa musí odstraňovať z hnojných kanálov pravidelne podľa potreby.
 
-        - (4) Maštale s väzovým ustajnením sa musia udržiavať suché a podľa potreby musia byť vybavené podstielkou.
+        - (4) Maštale s väzným ustajnením sa musia udržiavať suché a podľa potreby musia byť vybavené podstielkou.
 
         - (5) Dojareň, miestnosti s mliekom, miestnosti, v ktorých sa vykonáva čistenie mlieka a skladovanie mlieka a zariadenie v týchto miestnostiach musia byť vždy čisté, upratané a v dobrom stave.
 
@@ -252,7 +252,27 @@ Príloha č. 2 k nariadeniu vlády č. 312/2003 Z. z.
 
           - „M“ – je maximálna hodnota pre počet baktérií; výsledok sa považuje za nevyhovujúci, ak počet baktérií v jednej alebo vo viacerých vzorkovacích jednotkách je „M“ alebo viac.
 
-    - II. Surové kozie mlieko, surové ovčie mlieko, surové mlieko byvolích kráv
+    - II. Surové mlieko byvolích kráv
+
+      - Týmto nie sú dotknuté limity ustanovené v I. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí trvalo ustanovené, a v III. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí ustanovené len dočasne podľa osobitného predpisu.<sup>6</sup>)
+
+      - 1. Surové mlieko byvolích kráv určené na výrobu mliečnych výrobkov musí spĺňať tieto štandardy:
+
+        - Počet somatických buniek v 1 ml ≤ 500 000 (b)
+
+        - „b" - geometrický priemer za posledné 3 mesiace pri odbere minimálne jednej vzorky mesačne.
+
+      - 2. Surové mlieko byvolích kráv určené na výrobu výrobkov vyrobených zo surového mlieka, ktorých výrobný proces nezahŕňa žiadne tepelné ošetrenie, musí spĺňať tieto štandardy:
+
+        - Celkový počet mikroorganizmov pri 30 <sup>o</sup>C
+
+        - v 1 ml ≤ 500 000
+
+        - Počet somatických buniek v 1 ml: ≤ 400 000
+
+        - Staphylococcus aureus: ako pre kravské mlieko
+
+    - III. Surové kozie mlieko a surové ovčie mlieko
 
       - Týmto nie sú dotknuté limity ustanovené v I. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí trvalo ustanovené, a v III. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí ustanovené len dočasne podľa osobitného predpisu.<sup>6</sup>)
 
@@ -266,6 +286,6 @@ Príloha č. 2 k nariadeniu vlády č. 312/2003 Z. z.
 
         - b) Staphylococcus aureus v 1 ml | 5 | 2 | 500 | 2000
 
-    - III. Ak maximálne štandardy ustanovené v bodoch I a II sú prekročené a ak nasledujúce vyšetrenie indikuje potenciálne nebezpečenstvo pre zdravie, regionálna veterinárna a potravinová správa urobí vhodné opatrenia.
+    - IV. Ak maximálne štandardy ustanovené v bodoch I a II sú prekročené a ak nasledujúce šetrenie indikuje potenciálne nebezpečenstvo pre zdravie, regionálna veterinárna a potravinová správa urobí vhodné opatrenia.
 
-    - IV. Dodržiavanie štandardov na surové mlieko podľa bodov I a II musí pravidelne kontrolovať náhodným odberom prevádzkovateľ alebo zodpovedný zástupca mliekarne na ošetrenie mlieka alebo mliekarne na spracovanie mlieka pri zbere mlieka v produkčnom hospodárstve alebo pri príjme surového mlieka v mliekarni na ošetrenie mlieka alebo v mliekarni na spracovanie mlieka.
+    - V. Dodržiavanie štandardov na surové mlieko podľa bodov I a II musí pravidelne kontrolovať náhodným odberom prevádzkovateľ alebo zodpovedný zástupca mliekarne na ošetrenie mlieka alebo mliekarne na spracovanie mlieka pri zbere mlieka v produkčnom hospodárstve alebo pri príjme surového mlieka v mliekarni na ošetrenie mlieka alebo v mliekarni na spracovanie mlieka.

@@ -4,7 +4,7 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
   - ČASŤ A.1 POŽIADAVKY NA VÝROBU TEPELNE OŠETRENÉHO KONZUMNÉHO MLIEKA
 
-    - 1. Tepelne ošetrené konzumné mlieko sa môže vyrábať len zo surového mlieka, ktoré spĺňa štandardy podľa prílohy č. 2 časti D.
+    - 1. Tepelne ošetrené konzumné mlieko sa musí vyrábať zo surového mlieka, ktoré spĺňa štandardy podľa prílohy č. 2 časti D.
 
     - 2. Mlieko, ktoré nie je tepelne ošetrené do 4 hodín od prijatia v mliekarni na ošetrenie mlieka, musí byť vychladené na teplotu, ktorá nepresahuje 6 <sup>o</sup>C, a musí sa pri tejto teplote uchovávať až do tepelného ošetrenia.
 
@@ -12,9 +12,9 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
     - 4. Výroba tepelne ošetreného konzumného mlieka musí zahŕňať všetky potrebné opatrenia, najmä náhodný odber vzoriek, ktorý sa týka
 
-      - a) celkového počtu mikroorganizmov; celkový počet mikroorganizmov pri 30 <sup>o</sup>C v surovom kravskom mlieku, ak nebolo ošetrené do 36 hodín od prijatia v mliekarni, nesmie byť bezprostredne pred tepelným ošetrením vyšší ako 300 000 v 1 ml. Celkový počet mikroorganizmov pri 30 <sup>o</sup>C v mlieku, ktoré bolo ošetrené prvou pasterizáciou, nesmie byť bezprostredne pred druhým tepelným ošetrením vyšší ako 100 000 v 1 ml,
+      - a) celkového počtu mikroorganizmov; celkový počet mikroorganizmov pri 30 <sup>o</sup>C v surovom kravskom mlieku, ak nebolo ošetrené do 36 hodín od prijatia v mliekarni, neprekračuje bezprostredne pred tepelným ošetrením 300 000 v 1 ml. Celkový počet mikroorganizmov pri 30 <sup>o</sup>C v mlieku, ktoré bolo ošetrené prvou pasterizáciou, bezprostredne pred druhým tepelným ošetrením nepresahuje 100 000 v 1 ml,
 
-      - b) prítomnosti pridanej vody v mlieku; tepelne ošetrené konzumné mlieko sa musí pravidelne kontrolovať na prítomnosť pridanej vody, a to overením pomocou bodu tuhnutia mlieka. Na tento účel prevádzkareň vypracuje systém kontroly, ktorý sa musí vykonávať pod dozorom príslušného orgánu veterinárnej správy. Ak sa zistí pridaná voda, príslušný orgán veterinárnej správy prijme vhodné opatrenia. Pri vypracovaní systému kontroly príslušný orgán veterinárnej správy<sup>1</sup>) prihliada na
+      - b) prítomnosti pridanej vody v mlieku; tepelne ošetrené konzumné mlieko sa musí pravidelne kontrolovať na prítomnosť pridanej vody, a to overením pomocou bodu tuhnutia mlieka. Na tento účel prevádzkareň vypracuje systém kontroly, ktorý sa musí vykonávať pod dozorom príslušného orgánu veterinárnej správy.<sup>1</sup>) Ak sa zistí pridaná voda, príslušný orgán veterinárnej správy<sup>1</sup>) prijme vhodné opatrenia. Pri vypracovaní systému kontroly príslušný orgán veterinárnej správy<sup>1</sup>) prihliada na
 
         - 1. výsledky kontrol surového mlieka podľa prílohy č. 2 časti C.1.IV. Hygiena výroby I odseky 1 až 5, a to na ich priemerné hodnoty a odchýlky,
 
@@ -26,7 +26,7 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
       - a) sa musí získať zo surového mlieka jeho zahriatím, ktoré zahŕňa pôsobenie vysokej teploty po krátky čas, najmenej 71,7 <sup>o</sup>C počas 15 sekúnd, alebo inou kombináciou teploty a času s rovnakým účinkom, alebo pasterizačným procesom s použitím inej kombinácie teploty a času s rovnakým účinkom,
 
-      - b) musí vykazovať negatívnu reakciu pri fosfatázovom teste a pozitívnu reakciu pri peroxidázovom teste. Ak sa pasterizácia vykonáva spôsobom, ktorého výsledkom je negatívna reakcia na peroxidázu, mlieko sa musí označiť slovami „pasterizované pri vysokej teplote“,
+      - b) musí vykazovať negatívnu reakciu pri fosfatázovom teste a pozitívnu reakciu pri peroxidázovom teste. Ak sa pasterizácia vykonáva spôsobom, ktorého výsledkom je negatívna reakcia na peroxidázu, mlieko sa musí označiť slovami „vysokopasterizované“,
 
       - c) sa musí ihneď po pasterizácii vychladiť na teplotu najviac 6 <sup>o</sup>C alebo nižšiu.
 
@@ -52,7 +52,7 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
     - 12. Postupy ohrievania, teploty a trvanie ohrievania pri pasterizovanom mlieku, ultravysokotepelne zahriatom mlieku a sterilizovanom mlieku, druhy ohrievacích zariadení, spätný ventil a druhy prístrojov na kontrolu teploty a registračné prístroje musia byť schválené alebo povolené príslušným orgánom v súlade so štandardmi Európskych spoločenstiev a medzinárodnými štandardmi.
 
-    - 13. Registračné záznamy teploty musia byť denne označené dátumom. Ak ide o mikrobiologicky skaziteľné výrobky, ktoré nemožno skladovať pri teplote okolia, registračné záznamy sa uchovávajú dva mesiace od skončenia dátumu najneskoršej spotreby; ak ide o ostatné výrobky, registračné záznamy sa uchovávajú dva roky. Prevádzkovateľ alebo zodpovedný zástupca musí na požiadanie úradného veterinárneho lekára predložiť registračné záznamy.
+    - 13. Registračné záznamy teploty musia byť označené dátumom. Ak ide o mikrobiologicky skaziteľné výrobky, ktoré nemožno skladovať pri teplote okolia, registračné záznamy sa uchovávajú dva mesiace od skončenia dátumu najneskoršej spotreby; ak ide o ostatné výrobky, registračné záznamy sa uchovávajú dva roky. Prevádzkovateľ alebo zodpovedný zástupca musí na požiadanie úradného veterinárneho lekára predložiť registračné záznamy.
 
     - 14. Tepelne ošetrené konzumné mlieko
 
@@ -60,11 +60,13 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
       - b) nesmie obsahovať farmakologicky účinné látky v množstvách vyšších, ako sú limity ustanovené v I. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí trvalo ustanovené, a v III. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí ustanovené len dočasne podľa osobitného predpisu;<sup>2</sup>) kombinovaný súčet rezíduí všetkých rezíduí antibiotík nesmie prekročiť hodnotu, ktorá sa určí na základe postupu uvedenom v osobitnom predpise.<sup>2</sup>)
 
+    - 15. Štátna veterinárna a potravinová správa predloží Európskej komisii podrobnosti o kontrolnom systéme vypracovanom podľa bodu 4 písm. b) a dôvody jeho aplikácie.
+
   - ČASŤ A.2 POŽIADAVKY NA MLIEKO NA VÝROBU MLIEČNYCH VÝROBKOV
 
     - 1. Prevádzkovateľ alebo zodpovedný zástupca mliekarne na spracovanie mlieka musí vykonať všetky potrebné kroky, aby zaručil, že surové mlieko je tepelne ošetrené. Ak ide o výrobky vyrobené zo surového mlieka, ich spracovanie sa musí začať
 
-      - a) ihneď po prijatí mlieka v prevádzkarni, ak mlieko nebolo vychladené,
+      - a) bezodkladne po prijatí mlieka v prevádzkarni, ak mlieko nebolo vychladené,
 
       - b) do 36 hodín po prijatí mlieka v prevádzkarni, ak sa mlieko uchováva pri teplote najviac 6 <sup>o</sup>C,
 
@@ -72,9 +74,9 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
       - d) do 72 hodín, ak ide o byvolie mlieko, ovčie mlieko a kozie mlieko.
 
-    - 2. Z technologických dôvodov pri výrobe určitých mliečnych výrobkov môže príslušný orgán veterinárnej správy povoliť dlhší čas a vyššie teploty, ako sú ustanovené v bode 1. Príslušný orgán veterinárnej správy musí o týchto výnimkách informovať Európsku komisiu a predložiť technické dôvody povolenia výnimky.
+    - 2. Z technologických dôvodov pri výrobe určitých mliečnych výrobkov môže príslušný orgán veterinárnej správy<sup>2a</sup>) povoliť dlhší čas a vyššie teploty, ako sú ustanovené v bode 1. Príslušný orgán veterinárnej správy<sup>2a</sup>) musí o týchto výnimkách informovať Európsku komisiu a predložiť technické dôvody povolenia výnimky.
 
-    - 3. Tepelne ošetrené mlieko a termizované mlieko na výrobu mliečnych výrobkov sa musí vyrábať zo surového mlieka, ktoré spĺňa požiadavky podľa prílohy č. 2 časti D.
+    - 3. Tepelne ošetrené mlieko na výrobu mliečnych výrobkov sa musí vyrábať zo surového mlieka, ktoré spĺňa požiadavky podľa prílohy č. 2 časti D.
 
     - 4. Tepelne ošetrené mlieko musí spĺňať tieto požiadavky:
 
@@ -126,45 +128,15 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
     - Druh mikroorganizmov | Výrobok | Štandard (ml, g)
 
-    - - Staphylococcus aureus- Escherichia coli | Syry vyrobené zo surového mlieka a z termizovaného mlieka | m = 1 000
+    - - Staphylococcus aureus | Syry vyrobené zo surového mlieka a z termizovaného mlieka | m = 1 000 M = 10 000 n = 5 c = 2
 
-    - | | M = 10 000
+    - | Mäkké syry (vyrobené z tepelne ošetreného mlieka) | m= 100 M = 1 000 n = 5 c = 2
 
-    - | | n = 5
+    - | Čerstvé syry 1 Sušené mlieko 1 Mrazené mliečne výrobky (vrátane zmrzliny/mrazených u krémov) 1 | m= 10 M= 100 n = 5 c = 2
 
-    - | | c = 2
+    - - Escherichia coli | Syry vyrobené zo surového mlieka a z termizovaného mlieka | m = 10 000 M = 100 000 n = 5 c = 2
 
-    - | Mäkké syry (vyrobené z tepelne ošetreného mlieka) | m = 100
-
-    - | | M = 1 000
-
-    - | | n = 5
-
-    - | | c = 2
-
-    - | Čerstvé syry | m = 10
-
-    - | Sušené mlieko | M = 100
-
-    - | Mrazené mliečne výrobky (vrátane zmrzliny/mrazených krémov) | n = 5
-
-    - | | c = 2
-
-    - | Syry vyrobené zo surového mlieka a z termizovaného mlieka | m = 10 000
-
-    - | | M = 100 000
-
-    - | | n = 5
-
-    - | | c = 2
-
-    - | Mäkké syry (vyrobené z tepelne ošetreného mlieka) | m = 100
-
-    - | | M = 1 000
-
-    - | | n = 5
-
-    - | | c = 2
+    - | Mäkké syry (vyrobené z tepelne ošetreného mlieka) | m= 100 M = 1 000 n = 5 c = 2
 
       - 1. Vždy pri prekročení týchto štandardov sa musí vykonať prehodnotenie zavedených metód monitorovania a kontroly kritických bodov používaných v mliekarni na spracovanie mlieka podľa § 12 tohto nariadenia. Prevádzkareň musí informovať regionálnu veterinárnu a potravinovú správu o nápravných opatreniach prijatých pre výrobný kontrolný systém, aby sa predišlo opakovaniu prekročenia štandardov.
 
@@ -252,7 +224,7 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
     - D. Tekuté mliečne výrobky alebo gélové mliečne výrobky, ktoré boli podrobené ultravysokotepelnému zahriatiu alebo sterilizácii a skladujú sa pri izbovej teplote, musia spĺňať tieto štandardy po inkubácii počas 15 dní pri 30 <sup>o</sup>C:
 
-      - a) celkový počet mikroorganizmov pri 30 <sup>o</sup>C v 0,1 ml: 10,
+      - a) celkový počet mikroorganizmov pri 30 <sup>o</sup>C v 0,1 ml : ≤ 10,
 
       - b) organoleptické vlastnosti: normálne.
 
@@ -260,7 +232,7 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
     - 1. Surové konzumné kravské mlieko určené na pitie v tomto stave musí spĺňať tieto štandardy po zabalení do priameho obalu:
 
-      - a) celkový počet mikroorganizmov pri 30 <sup>o</sup>C v 1 ml: 50 000(a)
+      - a) celkový počet mikroorganizmov pri 30 <sup>o</sup>C v 1 ml: ≤ 50 000 (a)
 
       - Staphylococcus aureus v 1 ml: m = 100, M = 500, n = 5, c = 2
 
@@ -296,13 +268,13 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
         - vo viacerých vzorkovacích jednotkách je „M“ alebo vyšší.
 
-    - 3. Sterilizované mlieko a mlieko ultravysokotepelne zahriate musí pri náhodnom odbere vykonanom v mliekarni na ošetrenie mlieka po inkubácii pri 30 <sup>o</sup>C počas 15 dní spĺňať tieto mikrobiologické štandardy:
+    - 3. Sterilizované mlieko a mlieko ultravysokotepelne zahriate musí pri náhodnom odbere vykonanom v mliekarni na ošetrenie mlieka po inkubácii pri 30 <sup>o</sup>C počas 15 dní spĺňať tieto štandardy:
 
-      - a) celkový počet mikroorganizmov pri 30 <sup>o</sup>C v 0,1 ml: 10,
+      - a) celkový počet mikroorganizmov pri 30 <sup>o</sup>C v 0,1 ml : ≤ 10,
 
       - b) zmyslové vlastnosti sú normálne,
 
-      - c) farmakologicky aktívne látky nesmú prekračovať maximálne limity rezíduí ustanovené v I. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí trvalo ustanovené, a v III. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí ustanovené len dočasne podľa osobitného predpisu.<sup>3</sup>) Kombinovaný súčet rezíduí všetkých látok nesmie prekročiť hodnotu, ktorá sa určí na základe postupu ustanoveného v osobitnom predpise.<sup>2</sup>)
+      - c) farmakologicky aktívne látky nesmú prekračovať maximálne limity rezíduí ustanovené v I. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí trvalo ustanovené, a v III. skupine, ktorá obsahuje zoznam farmakologicky aktívnych látok, pre ktoré sú maximálne limity rezíduí ustanovené len dočasne podľa osobitného predpisu.<sup>2</sup>) Kombinovaný súčet rezíduí všetkých látok nesmie prekročiť hodnotu, ktorá sa určí na základe postupu ustanoveného v osobitnom predpise.<sup>2</sup>)
 
     - 4. Ak sú maximálne štandardy a povinné kritériá prekročené a nasledujúce vyšetrenie indikuje potenciálne nebezpečenstvo pre zdravie ľudí, príslušný orgán veterinárnej správy<sup>1</sup>) prijme potrebné opatrenia.
 
@@ -332,13 +304,13 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
     - c) teplotu, pri ktorej sa musí výrobok skladovať, ak ide o pasterizované mlieko.
 
-  - 7. Požiadavky uvedené v odseku 6 písm. a) až c) sa nemusia uvádzať, ak ide o vratné sklené fľaše podľa osobitného predpisu.<sup>3</sup>)
+  - 7. Požiadavky uvedené v odseku 6 písm. a) až c) sa nemusia uvádzať, ak ide o vratné sklené fľaše podľa osobitného predpisu.<sup>3a</sup>)
 
   - 8. Bez dotknutia odseku 1 výrobky možno vyrábať a do druhého obalu baliť v tej istej miestnosti, ak pri balení do druhého obalu podľa odseku 2 sú splnené tieto podmienky:
 
     - a) miestnosť musí byť dostatočne veľká a vybavená tak, aby hygiena operácií bola zaručená,
 
-    - b) priame obaly a druhé obaly sa musia prepravovať do mliekarne na ošetrenie mlieka alebo mliekarne na spracovanie mlieka v ochrannom obale, do ktorého boli zabalené ihneď po výrobe a ktorý ich chráni pred poškodením počas prepravy do prevádzkarne,
+    - b) priame obaly a druhé obaly sa musia prepravovať do mliekarne na ošetrenie mlieka alebo mliekarne na spracovanie mlieka v ochrannom obale, do ktorého boli zabalené ihneď po výrobe a ktorý ich chráni pred poškodením počas prepravy do prevádzkarne, priame obaly a druhé obaly sa skladujú v miestnostiach, ktoré sú určené na skladovanie a spĺňajú hygienické podmienky,
 
     - c) miestnosti na skladovanie obalového materiálu musia byť bez prachu a škodcov a musia byť oddelené od miestností, v ktorých sa nachádzajú látky, ktoré môžu kontaminovať výrobky, a obaly nesmú byť uložené priamo na podlahe,
 
@@ -355,6 +327,40 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
     - 1. Výrobky podľa tohto nariadenia musia byť označené zdravotnou značkou. Toto označovanie sa musí vykonať počas výroby alebo ihneď po nej v prevádzkarni a na ľahko viditeľnom mieste. Zdravotná značka musí byť dobre čitateľná, nezmazateľná a písmená musia byť zreteľné. Označenie zdravotnou značkou sa môže vykonať na výrobku alebo na priamom obale, ak sú výrobky balené jednotlivo, alebo na etikete priameho obalu. Ak ide o malé výrobky balené jednotlivo v priamom obale a následne spolu zabalené do druhého obalu alebo ak ide o malé výrobky balené jednotlivo v priamom obale, ktoré sú určené konečnému spotrebiteľovi, postačuje označenie zdravotnou značkou na spoločnom druhom obale.
 
     - 2. Ak sa výrobky označené podľa odseku 1 následne balia do druhého obalu, musí byť zdravotnou značkou označený aj druhý obal.
+
+    - 3. Zdravotná značka musí byť oválna a musí obsahovať
+
+      - a) tieto údaje:
+
+        - 1. v hornej časti počiatočné veľké písmená krajiny odoslania; ak ide o Slovenskú republiku, písmená SK,
+
+        - 2. za nimi nasleduje schvaľovacie číslo prevádzkarne,
+
+        - 3. v dolnej časti skratku EHS, alebo
+
+      - b) tieto údaje:
+
+        - 1. v hornej časti názov odosielajúcej krajiny veľkými písmenami,
+
+        - 2. v strede schvaľovacie číslo prevádzkarne,
+
+        - 3. v dolnej časti skratku EHS, alebo
+
+      - c) tieto údaje:
+
+        - 1. v hornej časti počiatočné veľké písmená krajiny odoslania; ak ide o Slovenskú republiku, písmená SK,
+
+        - 2. v strede odkaz, kde je uvedené schvaľovacie číslo prevádzkarne,
+
+        - 3. v dolnej časti skratku EHS.
+
+    - 4. Ak ide o fľaše, druhý obal a nádoby podľa osobitného predpisu,<sup>3</sup>) zdravotná značka môže indikovať len iniciály krajiny odoslania a schvaľovacie číslo prevádzkarne.
+
+    - 5. Zdravotná značka sa môže aplikovať na výrobok, priamy obal alebo druhý obal pečiatkovaním alebo vypaľovacou pečiatkou, alebo zdravotná značka môže byť natlačená alebo aplikovaná na etikete.
+
+    - 6. Zdravotná značka môže pozostávať z platničky z odolného materiálu, ktorá sa nedá ľahko odstrániť, spĺňa všetky hygienické požiadavky a obsahuje všetky údaje podľa bodov 3 a 4.
+
+    - 7. Používanie zdravotnej značky na obaloch podľa odseku 3 je povinné dňom nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii.
 
   - ČASŤ D.2 PODMIENKY UPRAVUJÚCE OZNAČOVANIE ETIKETAMI Bez toho, aby boli dotknuté ustanovenia osobitného predpisu,<sup>4</sup>) musia byť na etikete na účely inšpekcie zreteľne uvedené
 
@@ -378,7 +384,7 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
     - c) musia sa umývať, čistiť a dezinfikovať ihneď po každom použití, a ak treba, aj pred ďalším použitím; čistenie a dezinfekcia sa musia vykonávať podľa prílohy č. 3 časti F písm. b) a c),
 
-    - d) musia sa pred prepravou hermeticky uzavrieť uzáverom, ktorým sa zabezpečí nepriedušné uzavretie aj počas prepravy.
+    - d) musia sa pred prepravou hermeticky uzavrieť uzáverom, ktorým sa zabezpečí vodotesné uzavretie aj počas prepravy.
 
   - 3. Dopravné prostriedky a nádoby na prepravu pasterizovaného mlieka musia byť uspôsobené a vybavené tak, aby požadovaná teplota bola dodržaná počas prepravy.
 
@@ -388,11 +394,13 @@ Príloha č. 4 k nariadeniu vlády č. 312/2003 Z. z.
 
   - 6. Výrobky podľa tohto nariadenia musia byť expedované tak, aby bola zaručená ich ochrana pred akoukoľvek kontamináciou alebo zhoršením ich kvality s ohľadom na trvanie, podmienky prepravy a použitý dopravný prostriedok.
 
-  - 7. Teplota pasterizovaného mlieka počas prepravy v cisternách alebo v zabalených malých nádobách a v kanvách nesmie prekročiť 6 <sup>o</sup>C. Príslušný orgán veterinárnej správy môže povoliť výnimku z tejto požiadavky pre dodávky pasterizovaného mlieka do domu a môže povoliť toleranciu 2 <sup>o</sup>C počas dodávok do obchodnej siete.
+  - 7. Teplota pasterizovaného mlieka počas prepravy v cisternách alebo v zabalených malých nádobách a v kanvách nesmie prekročiť 6 <sup>o</sup>C. Príslušný orgán veterinárnej správy <sup>2a</sup>) môže povoliť výnimku z tejto požiadavky pre dodávky pasterizovaného mlieka do domu a môže povoliť toleranciu 2 <sup>o</sup>C počas dodávok do obchodnej siete.
+
+  - 8. Ministerstvo pôdohospodárstva Slovenskej republiky môže ustanoviť v súlade s príslušnými požiadavkami Európskych spoločenstiev všeobecne záväzným právnym predpisom dodatočné podmienky na skladovanie a transport špecifických mliečnych výrobkov.
 
 - ČASŤ F ZDRAVOTNÉ KONTROLY A DOZOR NAD VÝROBOU
 
-  - 1. Príslušný orgán veterinárnej správy<sup>5</sup>) vykonáva dozor v prevádzkarňach, ktorý musí zaručiť plnenie požiadaviek podľa tohto nariadenia. Orgány veterinárnej správy najmä
+  - 1. Príslušný orgán veterinárnej správy<sup>5</sup>) vykonáva dozor v prevádzkarňach, ktorý musí zaručiť plnenie požiadaviek podľa tohto nariadenia. Orgány veterinárnej správy<sup>5</sup>) najmä
 
     - a) kontrolujú
 

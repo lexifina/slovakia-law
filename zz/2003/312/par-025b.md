@@ -1,0 +1,9 @@
+# § 25b
+
+(1) Po rozhodnutí Európskej komisie, ktorým sa povolí prechodné obdobie jednotlivým prevádzkarniam, ktoré si do 15. novembra 2003 podali žiadosť o zaradenie do prechodného obdobia s ohľadom na dočasné výnimky zo stavebno-technických požiadaviek ustanovených v prílohe č. 3 časti A a časti E tohto nariadenia a doložili pracovný plán a program prevádzkarne vrátane lehôt na odstraňovanie jednotlivých v ňom uvedených nedostatkov, ktoré nesmú presahovať 12 mesiacov od nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii s preukázaním dostupnosti finančných prostriedkov potrebných na zosúladenie jednotlivých podmienok prevádzkarne s podmienkami na schválenie ustanovenými v prílohe č. 3 časti A a časti E tohto nariadenia, Štátna veterinárna a potravinová správa vydá prevádzkarni dočasné schválenie platné od 1. mája 2004 až do zmeny rozhodnutia Európskej komisie, ktorou sa prevádzkareň vyčiarkne zo zoznamu prevádzkarní zaradených v prechodnom období, najdlhšie však do 30. apríla 2005.
+
+(2) Mlieko a mliečne výrobky z týchto prevádzkarní sa počas trvania dočasných výnimiek môžu uvádzať výlučne len na domáci trh v Slovenskej republike a musia byť označené osobitnou značkou, ktorú určí v rozhodnutí o dočasnom schválení Štátna veterinárna a potravinová správa v súlade s príslušným rozhodnutím Európskej komisie.
+
+(3) Výroba, používanie, distribúcia a uvádzanie týchto výrobkov iba na domáci trh v Slovenskej republike podlieha v prechodnom období osobitným kontrolám orgánov veterinárnej správy<sup>3</sup>) v súlade s požiadavkami Európskych spoločenstiev.
+
+(4) Štátna veterinárna a potravinová správa podľa príslušného rozhodnutia Európskej komisie spresní náležitosti dokladov, ktoré musia sprevádzať výrobky, a záznamov, ktoré prevádzkovateľ a príjemca musia viesť a uchovávať.

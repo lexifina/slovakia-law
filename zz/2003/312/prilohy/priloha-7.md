@@ -58,13 +58,13 @@ Príloha č. 7 k nariadeniu vlády č. 312/2003 Z. z.
 
     - b) plnotučné mlieko: tepelne ošetrené mlieko, ktoré podľa obsahu tuku spĺňa jednu z nasledujúcich požiadaviek:
 
-      - 1. štandardizované plnotučné mlieko: mlieko s obsahom tuku najmenej 3,50 % (m/m); Slovenská republika môže poskytnúť dodatočnú kategóriu plnotučného mlieka s obsahom tuku 4,00 % (m/m),
+      - 1. štandardizované plnotučné mlieko: mlieko s obsahom tuku najmenej 3,50 hmotnostného percenta; Slovenská republika môže poskytnúť dodatočnú kategóriu plnotučného mlieka s obsahom tuku 4,00 hmotnostného percenta,
 
-      - 2. neštandardizované plnotučné mlieko: mlieko s obsahom tuku, ktoré nebolo zmenené po nadojení ani prídavkom, ani odstránením mliečnych tukov, alebo zmiešaním s mliekom, ktorého prirodzený obsah tuku bol zmenený; obsah tuku nesmie byť nižší ako 3,50 % (m/m),
+      - 2. neštandardizované plnotučné mlieko: mlieko s obsahom tuku, ktoré nebolo zmenené po nadojení ani prídavkom, ani odstránením mliečnych tukov, alebo zmiešaním s mliekom, ktorého prirodzený obsah tuku bol zmenený; obsah tuku nesmie byť nižší ako 3,50 hmotnostného percenta,
 
-    - c) čiastočne odtučnené mlieko: tepelne ošetrené mlieko, ktorého obsah tuku bol zredukovaný najmenej na 1,50 % (m/m) a najviac 1,80 % (m/m),
+    - c) čiastočne odtučnené mlieko: tepelne ošetrené mlieko, ktorého obsah tuku bol zredukovaný najmenej na 1,50 hmotnostného percenta a najviac 1,80 hmotnostného percenta,
 
-    - d) odstredené mlieko: tepelne ošetrené mlieko, ktorého obsah tuku bol zredukovaný nie viac ako na 0,50 % (m/m).
+    - d) odtučnené mlieko: tepelne ošetrené mlieko, ktorého obsah tuku bol zredukovaný nie viac ako na 0,50 hmotnostného percenta.
 
   - 2. Bez toho, aby bol dotknutý odsek 1 písm. b) bod č. 2, len tieto modifikácie sú povolené:
 
@@ -74,4 +74,4 @@ Príloha č. 7 k nariadeniu vlády č. 312/2003 Z. z.
 
     - c) redukcia obsahu laktózy konverziou na glukózu a galaktózu.
 
-  - 3. Modifikácie v zložení mlieka podľa odseku 2 písm. b) a c) sa môžu povoliť len vtedy, ak je táto modifikácia označená na obale výrobku. Označenie musí byť nezmazateľné, ľahko viditeľné a čitateľné. Toto označenie však nesmie nahradiť povinnosť označenia, ktoré sa týka výživového označovania etiketami podľa osobitného predpisu.<sup>2</sup>) Ak sa pridávajú bielkoviny, obsah bielkovín obohateného mlieka musí byť 3,8 % (m/m) alebo viac. Slovenská republika môže obmedziť alebo zakázať modifikácie zloženia mlieka podľa odseku 2 písm. b) a c).
+  - 3. Modifikácie v zložení mlieka podľa odseku 2 písm. b) a c) sa môžu povoliť len vtedy, ak je táto modifikácia označená na obale výrobku. Označenie musí byť nezmazateľné, ľahko viditeľné a čitateľné. Toto označenie však nesmie nahradiť povinnosť označenia, ktoré sa týka výživového označovania etiketami podľa osobitného predpisu.<sup>2</sup>) Ak sa pridávajú bielkoviny, obsah bielkovín obohateného mlieka musí byť 3,8 hmotnostného percenta alebo viac. Slovenská republika môže obmedziť alebo zakázať modifikácie zloženia mlieka podľa odseku 2 písm. b) a c).
