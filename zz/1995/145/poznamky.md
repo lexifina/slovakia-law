@@ -36,9 +36,13 @@
 
 - 10) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
 
+- 10a) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+
 - 11) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 12) § 2 ods. 3 písm. a) a § 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+
+- 12a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 13) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
@@ -66,17 +70,83 @@
 
 - 25) § 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z.
 
-- 26) Zákon č. 110/1964 Zb. o telekomunikáciách v znení neskorších predpisov.
+- 26) § 21 ods. 3 zákona č. 195/2000 Z. z. o telekomunikáciách.
 
-- 27) Vyhláška Federálneho ministerstva spojov č. 73/1974 Zb. o spoločných rozvodoch rozhlasových a televíznych signálov po kábloch v znení vyhlášky č. 360/1991 Zb.
+- 27) § 22 ods. 3 zákona č. 195/2000 Z. z.
+
+- 27a) § 23 ods. 4 zákona č. 195/2000 Z. z.
+
+- 27b) § 23 ods. 4 písm. a) a b) zákona č. 195/2000 Z. z.
+
+- 27c) § 25 ods. 3 zákona č. 195/2000 Z. z.
+
+- 27d) § 34 ods. 3 zákona č. 195/2000 Z. z.
+
+- 27e) § 29 zákona č. 195/2000 Z. z.
+
+- 27f) § 37 ods. 6 písm. c) zákona č. 195/2000 Z. z.
+
+- 27g) § 37 ods. 14 zákona č. 195/2000 Z. z.
+
+- 27h) § 38 ods. 3 zákona č. 195/2000 Z. z.
+
+- 27i) § 11 ods. 2 písm. c) zákona č. 195/2000 Z. z.
+
+- 27j) § 11 ods. 2 písm. b) zákona č. 195/2000 Z. z.
+
+- 27k) § 11 ods. 2 zákona č. 195/2000 Z. z.
 
 - 28) Zákon č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení neskorších predpisov.
+
+- 28a) § 6 ods. 1, § 8 ods. 2 zákona č. 385/1999 Z. z. o kolektívnom investovaní.
+
+- 28b) § 8 ods. 4, § 9 ods. 1 zákona č. 385/1999 Z. z.
+
+- 28c) § 14 ods. 1 zákona č. 385/1999 Z. z.
+
+- 28d) § 9 ods. 2 zákona č. 385/1999 Z. z.
+
+- 28e) § 52 ods. 2 zákona č. 385/1999 Z. z.
+
+- 28f) § 36 ods. 4 zákona č. 385/1999 Z. z.
+
+- 28g) § 25 ods. 2 a 4, § 41 ods. 2, § 48 ods. 2 zákona č. 385/1999 Z. z.
+
+- 28h) § 14 ods. 2 zákona č. 385/1999 Z. z.
+
+- 28i) § 27 ods. 5 zákona č. 385/1999 Z. z.
+
+- 28j) § 38 ods. 1 zákona č. 385/1999 Z. z.
+
+- 28k) § 39 ods. 1 zákona č. 385/1999 Z. z.
+
+- 28l) § 48 ods. 2 zákona č. 385/1999 Z. z.
+
+- 28m) § 47 ods. 2 zákona č. 385/1999 Z. z.
+
+- 28n) § 40 ods. 3 písm. b) zákona č. 385/1999 Z. z.
+
+- 28o) § 16 ods. 2 zákona č. 385/1999 Z. z.
+
+- 28p) § 17 ods. 1, § 18 zákona č. 385/1999 Z. z.
+
+- 28r) § 66 ods. 2 písm. b) zákona č. 385/1999 Z. z.
+
+- 28s) § 65 ods. 1 zákona č. 385/1999 Z. z.
+
+- 28t) § 65 ods. 5 zákona č. 385/1999 Z. z.
 
 - 29) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
 - 30) Zákon č. 214/1992 Zb. o burze cenných papierov v znení neskorších predpisov.
 
-- 31) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- 31) § 12c ods. 1 zákona Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+
+- 31a) § 20f ods. 2 zákona Slovenskej národnej rady č. 24/1991 Zb.
+
+- 31b) § 26 zákona Slovenskej národnej rady č. 24/1991 Zb.
+
+- 31c) § 9 ods. 2 písm. a) bod 3 vyhlášky Ministerstva financií Slovenskej republiky č. 136/1996 Z. z., ktorou sa ustanovuje tvorba, použitie a spôsob umiestnenia prostriedkov rezerv poisťovne v znení vyhlášky Ministerstva financií Slovenskej republiky č. 177/1999 Z. z.
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
@@ -88,17 +158,27 @@
 
 - 36) § 32 ods. 6 zákona č. 379/1997 Z. z.
 
+- 36a) § 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- 36b) § 20 písm. h) a § 21 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+
+- 36c) § 21 ods. 5 písm. c) zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení zákona č. 119/2000 Z. z.
+
 - 37) Napríklad zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 58/1997 Z. z., ktorým sa mení a dopĺňa zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave a zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 38) Zákon č. 238/1991 Zb. o odpadoch.
 
 - 39) Zákon Slovenskej národnej rady č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade v znení neskorších predpisov.
 
+- 39a) § 26 ods. 4 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).
+
+- 39b) § 26 ods. 5 zákona č. 313/1999 Z. z.
+
 - 40) § 10 ods. 3 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
 - 41) § 20 ods. 9 zákona č. 130/1998 Z. z.
 
-- 42) § 2 písm. g) a § 4 ods. 1 písm. d) zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
+- 42) § 4 ods. 1 písm. i) a § 6 písm. d) zákona č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
 
 - 43) § 5 vyhlášky Slovenského úradu bezpečnosti práce č. 66/1989 Zb. na zaistenie bezpečnosti technických zariadení v jadrovej energetike v znení vyhlášky č. 31/1991 Zb.
 
@@ -109,3 +189,5 @@
 - 46) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.Vyhláška Federálneho ministerstva dopravy č. 61/1982 Zb. o určených technických zariadeniach.Vyhláška Federálneho ministerstva dopravy č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku.Vyhláška Federálneho ministerstva dopravy č. 8/1987 Zb. o spôsobilosti dovážaných lanových dráh a iných technických zariadení.
 
 - 47) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 47a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
