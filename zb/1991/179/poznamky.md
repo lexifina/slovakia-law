@@ -4,4 +4,4 @@
 
 - 3) § 2 ods. 3 písm. b) a § 9 ods. 4 zákona č. 2/1991 Zb.
 
-- 4) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 33/1984 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 4) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
