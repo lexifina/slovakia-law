@@ -1,0 +1,3 @@
+Predseda:
+
+Klokoč v. r.
