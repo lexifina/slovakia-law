@@ -2,7 +2,7 @@ Príloha č. 4 k nariadeniu vlády č. 304/2003 Z. z.
 
 - VYŠETRENIA NA LABORATÓRNU DIAGNOSTIKU BRUCELÓZY (B. MELITENSIS)
 
-  - 1. Na uznanie štatútu chovu sa vykonávajú vyšetrenia na brucelózu (B. melitensis) metódou s použitím bengálskej červenej alebo komplement fixačným testom podľa bodov 1 a 2, alebo akoukoľvek inou metódou schválenou Európskou komisiou. Komplement fixačný test sa používa na vyšetrovanie jednotlivých zvierat.
+  - 1. Na uznanie štatútu chovu sa vykonávajú vyšetrenia na brucelózu (B. melitensis) metódou s použitím bengálskej červenej alebo komplement fixačným testom podľa bodov 2 a 3, alebo akoukoľvek inou metódou schválenou Európskou komisiou. Komplement fixačný test sa používa na vyšetrovanie jednotlivých zvierat.
 
   - 2. Vyšetrovanie metódou s použitím bengálskej červenej
 

@@ -12,7 +12,7 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
       - 1.2. nie je žiadna ovca alebo koza, ktorá bola očkovaná proti brucelóze (B. melitensis), okrem zvierat očkovaných najmenej pred dvoma rokmi vakcínou Rev. 1 alebo vakcínou schválenou Európskou komisiou,
 
-      - 1.3. všetky ovce a kozy chovu staršie ako šesť mesiacov v čase testovania boli vyšetrené dvakrát v intervale šiestich mesiacov alebo viackrát podľa prílohy č. 5, ak výsledky testov boli negatívne,
+      - 1.3. všetky ovce a kozy chovu staršie ako šesť mesiacov v čase testovania boli vyšetrené dvakrát v intervale šiestich mesiacov alebo viackrát podľa prílohy č. 4, ak výsledky testov boli negatívne,
 
       - 1.4. boli po testoch uvedených v bode 1.3 iba ovce alebo kozy narodené v chove alebo tie, ktoré prišli z chovu úradne bez výskytu brucelózy alebo bez výskytu brucelózy za podmienok uvedených v časti D a v ktorom po nadobudnutí štatútu boli plnené požiadavky uvedené v časti B.
 
@@ -38,7 +38,7 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
       - 1.1. je jedna alebo viac oviec a kôz podozrivých z brucelózy (B. melitensis), musí byť orgánom veterinárnej správy chovu odňatý štatút úradne bez výskytu brucelózy. Štatút môže byť iba pozastavený, ak podozrivé zviera alebo zvieratá boli okamžite zlikvidované alebo izolované až do úradného potvrdenia choroby alebo až do úradného zrušenia podozrenia z tejto choroby,
 
-      - 1.2. je brucelóza (B. melitensis) potvrdená, pozastavenie priznania štatútu môže byť orgánom veterinárnej správy zrušené iba vtedy, ak všetky infikované zvieratá alebo iba zvieratá vnímavého druhu na infekciu sú zabité a dve vyšetrenia v intervale najmenej troch mesiacov alebo viackrát vykonané podľa prílohy č. 5 u všetkých zvierat chovu starších ako šesť mesiacov a boli negatívne.
+      - 1.2. je brucelóza (B. melitensis) potvrdená, pozastavenie priznania štatútu môže byť orgánom veterinárnej správy zrušené iba vtedy, ak všetky infikované zvieratá alebo iba zvieratá vnímavého druhu na infekciu sú zabité a dve vyšetrenia v intervale najmenej troch mesiacov alebo viackrát vykonané podľa prílohy č. 4 u všetkých zvierat chovu starších ako šesť mesiacov a boli negatívne.
 
       - 2. Ak chov uvedený v bode 1 je v oblasti, ktorá je uznaná úradne bez výskytu brucelózy (B. melitensis), Slovenská republika musí bezodkladne informovať Európsku komisiu a ostatné členské štáty.
 
@@ -62,7 +62,7 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
       - 4. neboli očkované proti brucelóze, alebo ak boli očkované, očkovanie bolo vykonané najmenej pred dvomi rokmi; samičie zvieratá staršie ako dva roky, ktoré boli očkované pred dosiahnutím veku siedmich mesiacov, môžu byť rovnako presunuté do chovu,
 
-      - 5. musia byť izolované pod úradným dozorom na chov pôvodu a počas izolácie byť dvakrát vyšetrené v intervale najmenej šiestich týždňov podľa prílohy č. 5, ak výsledky boli negatívne.
+      - 5. musia byť izolované pod úradným dozorom na chov pôvodu a počas izolácie byť dvakrát vyšetrené v intervale najmenej šiestich týždňov podľa prílohy č. 4, ak výsledky boli negatívne.
 
   - II. ŠTÁT ALEBO OBLASŤ ÚRADNE BEZ VÝSKYTU BRUCELÓZY
 
@@ -82,9 +82,9 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
     - 2. Štát alebo oblasť môže byť ďalej uznaná úradne bez výskytu brucelózy, ak spĺňa podmienky uvedené v bode 1.1.
 
-    - 2.1. V prvom roku po uznaní členského štátu alebo oblasti bez výskytu brucelózy (B. melitensis) náhodné vyšetrenia vykonané v chove alebo na bitúnku ukázali stupeň istoty 99 %, infikovaných bolo menej ako 0,2 % hospodárstiev alebo aspoň 10 % oviec a kôz starších ako šesť mesiacov bolo vyšetrených podľa prílohy č. 5, ak výsledky boli negatívne.
+    - 2.1. V prvom roku po uznaní členského štátu alebo oblasti bez výskytu brucelózy (B. melitensis) náhodné vyšetrenia vykonané v chove alebo na bitúnku ukázali stupeň istoty 99 %, infikovaných bolo menej ako 0,2 % hospodárstiev alebo aspoň 10 % oviec a kôz starších ako šesť mesiacov bolo vyšetrených podľa prílohy č. 4, ak výsledky boli negatívne.
 
-    - 2.2. Ročne od druhého roku po uznaní členského štátu alebo oblasti bez výskytu brucelózy (B. melitensis) náhodné vyšetrenia vykonané buď v chove, alebo na bitúnku ukázali stupeň istoty 95 %, infikovaných bolo menej ako 0,2 % chovov alebo aspoň 5 % oviec a kôz starších ako šesť mesiacov bolo vyšetrených testom podľa prílohy č. 5, ak výsledky boli negatívne.
+    - 2.2. Ročne od druhého roku po uznaní členského štátu alebo oblasti bez výskytu brucelózy (B. melitensis) náhodné vyšetrenia vykonané buď v chove, alebo na bitúnku ukázali stupeň istoty 95 %, infikovaných bolo menej ako 0,2 % chovov alebo aspoň 5 % oviec a kôz starších ako šesť mesiacov bolo vyšetrených testom podľa prílohy č. 4, ak výsledky boli negatívne.
 
     - 2.3. Ustanovenia uvedené v bodoch 1 a 2 môže zmeniť rozhodnutím Európska komisia.
 
@@ -100,11 +100,11 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
     - 1.2. všetky alebo niektoré ovce alebo kozy boli očkované vakcínou Rev. 1 alebo vakcínou schválenou rozhodnutím Európskej komisie; zvieratá musia byť očkované do veku siedmich mesiacov,
 
-    - 1.3. všetky očkované ovce a kozy chovu staršie ako 18 mesiacov boli dvoma testmi vyšetrené v intervale šiestich mesiacov alebo viackrát podľa prílohy č. 5,
+    - 1.3. všetky očkované ovce a kozy chovu staršie ako 18 mesiacov boli dvoma testmi vyšetrené v intervale šiestich mesiacov alebo viackrát podľa prílohy č. 4,
 
-    - 1.4. všetky neočkované ovce a kozy chovu staršie ako šesť mesiacov v čase testovania boli dvoma testmi vykonanými v intervale šiestich mesiacov alebo viackrát vyšetrené podľa prílohy č. 5, ak výsledky boli negatívne,
+    - 1.4. všetky neočkované ovce a kozy chovu staršie ako šesť mesiacov v čase testovania boli dvoma testmi vykonanými v intervale šiestich mesiacov alebo viackrát vyšetrené podľa prílohy č. 4, ak výsledky boli negatívne,
 
-    - 1.5. v chove boli po testoch uvedených v bode 1.3 alebo 1.4 iba ovce a kozy narodené v chove alebo tie, ktoré prišli z chovu bez výskytu brucelózy za podmienok uvedených v bode 1.4.
+    - 1.5. v chove boli po testoch uvedených v bode 1.3 alebo bode D iba ovce a kozy narodené v chove alebo tie, ktoré prišli z chovu bez výskytu brucelózy za podmienok uvedených v bode D.
 
     - 2. Po získaní štatútu chovu bez výskytu brucelózy boli naďalej plnené požiadavky stanovené bodom 1.2.
 
@@ -124,7 +124,7 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
     - 1. Štatút chovu oviec a kôz bez výskytu brucelózy sa odníme, ak v chove je jedna alebo viac oviec a kôz podozrivých z brucelózy (B. melitensis). Štatút možno iba dočasne odňať, ak podozrivé zviera alebo zvieratá boli okamžite zlikvidované alebo izolované až do úradného potvrdenia choroby alebo až do úradného zrušenia podozrenia z tejto choroby.
 
-    - 2. Ak je brucelóza (B. melitensis) potvrdená, dočasné pozastavenie štatútu možno zrušiť iba vtedy, ak všetky infikované zvieratá alebo všetky zvieratá, ktoré sú na infekciu vnímavé, sú zabité a dve vyšetrenia v intervale najmenej troch mesiacov sú vykonané podľa prílohy č. 5 u
+    - 2. Ak je brucelóza (B. melitensis) potvrdená, dočasné pozastavenie štatútu možno zrušiť iba vtedy, ak všetky infikované zvieratá alebo všetky zvieratá, ktoré sú na infekciu vnímavé, sú zabité a dve vyšetrenia v intervale najmenej troch mesiacov sú vykonané podľa prílohy č. 4 u
 
     - 2.1. všetkých očkovaných zvierat starších ako 18 mesiacov s výsledkom negatívnym,
 
@@ -142,7 +142,7 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
     - 2.3. nemôžu byť očkované v posledných dvoch rokoch,
 
-    - 2.4. boli izolované pod veterinárnym dozorom v chove pôvodu a v tomto čase dvakrát vyšetrené v intervale najmenej šiestich týždňov podľa prílohy č. 5,
+    - 2.4. boli izolované pod veterinárnym dozorom v chove pôvodu a v tomto čase dvakrát vyšetrené v intervale najmenej šiestich týždňov podľa prílohy č. 4,
 
     - 2.5. boli očkované vakcínou Rev. 1 alebo vakcínou schválenou Európskou komisiou nie menej ako 15 dní pred vstupom do chovu určenia.
 
@@ -154,4 +154,4 @@ Príloha č. 2 k nariadeniu vlády č. 304/2003 Z. z.
 
     - b) podmienky podľa časti D bodu 2 boli po celé uvedené obdobie trvalo plnené,
 
-    - c) na konci druhého roku boli zvieratá staršie ako šesť mesiacov vyšetrené podľa prílohy č. 5 vo všetkých prípadoch s negatívnym výsledkom.
+    - c) na konci druhého roku boli zvieratá staršie ako šesť mesiacov vyšetrené podľa prílohy č. 4 vo všetkých prípadoch s negatívnym výsledkom.
