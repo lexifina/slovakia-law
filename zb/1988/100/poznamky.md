@@ -184,6 +184,8 @@
 
 - 27b) Zákon Národnej rady Slovenskej republiky č. 110/1996 Z. z. o zvýšení dôchodkov v roku 1996 a o zmene niektorých zákonov.
 
+- 27ba) § 29b zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení zákona č. 451/2002 Z. z.
+
 - 27c) § 5 ods. 1 až 3 a § 6 až 8 zákona č. 46/1991 Zb. o zvyšovaní dôchodkov v znení zákona Národnej rady Slovenskej republiky č. 97/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 285/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 195/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 135/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 110/1996 Z. z., zákona č. 154/1997 Z. z. a zákona č. 132/1998 Z. z.
 
 - 28) Zákon č. 244/1991 Zb. o Federálnej bezpečnostnej informačnej službe a o používaní spravodajských prostriedkov.
