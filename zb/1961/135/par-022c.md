@@ -24,7 +24,7 @@
 
 - f) neodstráni v termíne určenom cestným správnym orgánom pevnú prekážku na diaľnici, ceste alebo na miestnej komunikácii alebo nesplní podmienky udelenej výnimky,
 
-- g) ako vodič použije vymedzené úseky diaľnic a ciest pre motorové vozidlá bez označenia motorového vozidla platnou nálepkou,
+- g) ako vodič použije vymedzené úseky diaľnic, ciest pre motorové vozidlá a ciest I. triedy bez označenia motorového vozidla platnou nálepkou,
 
 - h) umiestni reklamné, informačné a propagačné zariadenia na diaľniciach, cestách pre motorové vozidlá a medzinárodných cestných ťahoch a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.
 
