@@ -48,11 +48,11 @@
 
 - 13ad) § 2 ods. 2 a 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
-- 13b) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 13b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 86/2002 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 13c) Napr. § 140 Občianskeho zákonníka.
 
-- 13d) § 18 ods. 2 a ods. 3 písm. c) zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 13d) § 18 ods. 2 až 4 a ods. 5 písm. c) zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov
 
 - 13e) § 24 ods. 1 písm. a) až r) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -69,6 +69,8 @@
 - 15) Zákon č. 526/1990 Zb. o cenách.
 
 - 16) § 43 a nasl. Občianskeho zákonníka.
+
+- 16a) Napríklad zákon č. 111/1990 Zb. v znení neskorších predpisov.
 
 - 17) § 588 a nasl., § 628 a nasl. a § 611 Občianskeho zákonníka.
 
@@ -94,9 +96,11 @@
 
 - 20a) Napríklad zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.
 
-- 20b) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 20b) Výmer Ministerstva financií Slovenskej republiky z 12. marca 1996 č. R-1/1996, ktorým sa určuje rozsah tovaru s regulovanými cenami (oznámenie č. 89/1996 Z. z.) v znení neskorších predpisov.
 
 - 21) § 659 a nasl. Občianskeho zákonníka.
+
+- 21a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 22) Napríklad § 3d ods. 6 zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
@@ -112,6 +116,8 @@
 
 - 23ba) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
+- 23baa) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
 - 23bb) Zákon č. 440/2000 Z. z. o správach finančnej kontroly.
 
 - 23c) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
@@ -119,3 +125,11 @@
 - 24) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
 
 - 24a) Napríklad zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 25) § 2b ods. 2 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení zákona č. 447/2001 Z. z.
+
+- § 3 ods. 2 zákona č. 446/2001 Z. z. o majetku vyšších územných celkov.
+
+- 26) § 2b, 4a a 14b zákona Slovenskej národnej rady č. 138/1991 Zb. v znení zákona č. 447/2001 Z. z.
+
+- § 3 až 5 zákona č. 446/2001 Z. z.

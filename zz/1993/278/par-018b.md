@@ -6,6 +6,4 @@
 
 (3) Pri nakladaní s pohľadávkami štátu, ktoré vznikli pred 1. januárom 1994, sa postupuje podľa predpisov platných do 1. januára 1994.
 
-(4) Odo dňa nadobudnutia účinnosti tohto zákona sa pri prednostnej kúpe nehnuteľností podľa § 18 ods. 2 cena dohodne podľa § 8 ods. 4 písm. b).
-
-(5) Odo dňa nadobudnutia účinnosti tohto zákona musí byť výška jednotlivých splátok podľa § 18 ods. 2 dohodnutá tak, aby kupujúci cenu zaplatil najneskôr do piatich rokov odo dňa platnosti kúpnej zmluvy.
+(4) Odo dňa nadobudnutia účinnosti tohto zákona musí byť výška jednotlivých splátok podľa § 18 ods. 2 dohodnutá tak, aby kupujúci cenu zaplatil najneskôr do piatich rokov odo dňa platnosti kúpnej zmluvy.
