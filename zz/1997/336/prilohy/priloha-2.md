@@ -1,7 +1,5 @@
 Príloha č. 2 k vyhláške č. 336/1997 Z. z.
 
-[Příloha 02](../assets/88512027c51a4f59fba1e57de37c8be3621bff6ae5ab0cca1cc5dcf102beaa87.pdf)
-
 ZOZNAM OBCÍ (MIEST) TVORIACICH VNÚTORNÉ HRANICE COLNÉHO POHRANIČNÉHO PÁSMA
 
 I.
@@ -65,3 +63,7 @@ Z juhu proti smeru pohybu hodinových ručičiek: Bzovská Lehôtka – Pliešov
 7. Letisko Prievidza
 
 Z juhu proti smeru pohybu hodinových ručičiek: Veľké Pole – Horná Ždaňa – Lutila – Kremnica – Horný Turček – Čremošné – Rakša – Bodorová – Jazernica – Vrícko – Košecké Rovne – Slatina nad Bebravou – Podlužany – Bánovce nad Bebravou – Brodzany.
+
+8. Letisko Nitra
+
+Z juhu proti smeru pohybu hodinových ručičiek: Šurany – Radava – Podhájska – Beša – Veľký Ďur – Kalná nad Hronom – Volkovce – Zlaté Moravce – Topoľčianky – Lovce – Kovárce – Ludanice – Dolné Trhovište – Pastuchov – Zemianske Sady – Šoporňa – Šaľa – Selice.
