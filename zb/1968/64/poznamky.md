@@ -1,0 +1,1 @@
+- *) T. j. sumy vo výške rozdielu medzi minimálnou výškou rezervného fondu predpísanou na rok 1968 a skutočnou výškou tohto fondu k 1. januáru 1968.
