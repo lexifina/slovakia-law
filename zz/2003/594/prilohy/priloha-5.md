@@ -24,7 +24,7 @@ Príloha č. 5 k zákonu č. 594/2003 Z. z.
 
     - e) čistá hodnota majetku.
 
-  - 2. Porovnanie troch posledných porovnateľných účtovných období v štruktúre súvahy a výkazu ziskov a strát podľa stavu ku koncu porovnateľného účtovného obdobia.
+  - 2. Porovnanie troch posledných rokov v štruktúre výkazu o majetku a záväzkoch a výkazu o príjmoch a výdavkoch podľa stavu ku koncu roka.
 
   - 3. Údaje o hodnote záväzkov správcovskej spoločnosti z vlastnej činnosti.
 
