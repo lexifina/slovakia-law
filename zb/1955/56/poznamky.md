@@ -1,0 +1,1 @@
+- *) V znení uvedenom v prílohe vyhlášky ministerky výkupu z 15. novembra 1955, č. 56/1955 Zb., nadobúda účinnosť 12. decembrom 1955 a platí pre dodávkovú povinnosť a výkup poľnohospodárskych výrobkov začínajúc rokom 1956.
