@@ -9,3 +9,5 @@
 - 5) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
 
 - 6) § 2 písm. h) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
+
+- 7) § 6a zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
