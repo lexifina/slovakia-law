@@ -88,6 +88,10 @@
 
 - 17a) § 70 až 75 Obchodného zákonníka.
 
+- 17aa) § 24 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+
+- 17ab) § 19 ods. 1 zákona č. 563/1991 Zb. o účtovníctve.
+
 - 17b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
 
 - 17c) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
