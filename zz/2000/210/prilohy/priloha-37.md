@@ -1,3 +1,3 @@
 Príloha č. 37 k vyhláške č. 210/2000 Z. z.
 
-- SNÍMAČE TEPLOTY A PREVODNÍKY TEPLOTY [Príloha 37](../assets/661ce1429957a2cd911719e9226a3f0b713c77ed4b58fceabf9ed6c0f809d1c9.pdf)
+- SNÍMAČE TEPLOTY A PREVODNÍKY TEPLOTY [Príloha 37](../assets/e1b55f4cd96e5ee6a1ab4191af11a2e50e49d89c5cc68e7235c2156e6c5bef7a.pdf)

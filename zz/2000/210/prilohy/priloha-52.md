@@ -1,0 +1,3 @@
+Príloha č. 52 k vyhláške č. 210/2000 Z. z.
+
+- MERACIE TRANSFORMÁTORY PRÚDU A NAPÄTIA POUŽÍVANÉ V SPOJENÍ S ELEKTROMERMI [Príloha 52](../assets/0a09bd58a756fe6a69d1f089a98b85aba3b44c1b704ff7a98837586fd9f3461a.pdf)
