@@ -1,3 +1,0 @@
-# § 7a
-
-Colný úrad Bratislava vydáva záväzné informácie o nomenklatúrnom zatriedení tovaru a záväzné informácie o pôvode tovaru; túto pôsobnosť vykonáva na celom území Slovenskej republiky.
