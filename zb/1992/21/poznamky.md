@@ -30,7 +30,11 @@
 
 - 6) Zákon č. 563/1991 Zb. o účtovníctve.
 
-- 7) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 7) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov.
 
 - 7a) § 187 a 191 Obchodného zákonníka.
 
@@ -43,6 +47,8 @@
 - 7c) § 7 ods. 2 nariadenia vlády Slovenskej republiky č. 100/1993 Z. z. o Obchodnom vestníku.
 
 - 7d) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
+- 7dd) § 12 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z.
 
 - 7e) § 20 ods. 1 písm. a) zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
@@ -77,3 +83,5 @@
 - 10) § 244 a 247 Občianskeho súdneho poriadku.
 
 - 11) § 186 a 187 Obchodného zákonníka.
+
+- 12) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z.
