@@ -34,6 +34,8 @@
 
 - 12) Napríklad čl. 13 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.) v znení Dodatkového protokolu k Európskemu dohovoru o vzájomnej pomoci v trestných veciach z 20. apríla 1959 (oznámenie č. 12/1997 Z. z.).
 
+- 12a) Zákon č. 530/2004 Z. z. o zastúpení Slovenskej republiky v Eurojuste a o zmene a doplnení niektorých zákonov.Rozhodnutie Rady 2002/187/SVV z 28. februára 2002, ktorým sa zriaďuje Eurojust na účely posilnenia boja proti závažnej trestnej činnosti v znení rozhodnutia Rady 2003/659/SVV z 18. júna 2003 (Ú. v. EÚ L 245, 23. 09. 2003).
+
 - 13) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení zákona Národnej rady Slovenskej republiky č. 232/l995 Z. z.Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách okresnými úradmi a obcami.
 
 - 13a) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z.
