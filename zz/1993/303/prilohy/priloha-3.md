@@ -1,0 +1,1 @@
+[Příloha 02](../assets/9a68e6a933f362ef6e5028410fb8e9cc2d07ed2dbc1c65330f06935958390f2c.pdf)
