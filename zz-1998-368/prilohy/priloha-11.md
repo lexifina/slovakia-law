@@ -1,0 +1,1 @@
+Príloha č. 11 k vyhláške č. 368/1998 Z. z. [Vzor 11 - Výkaz dodávok elektriny podľa sadzieb a taríf pre veľkoodberateľov](../assets/65678a493e0c75d9b9bf3aa213fb003f7bfe5df8eb4d59652e97f17bf2885a9d.pdf)

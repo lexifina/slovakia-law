@@ -1,0 +1,1 @@
+Príloha č. 12 k vyhláške č. 368/1998 Z. z. [Vzor 12 - Výkaz dodávok elektriny podľa sadzieb a taríf pre maloodberateľov - podnikateľov (MOP)](../assets/a25eb4f797488a2af7a44f5d4a619486c58d375c94e4c15e0db0edf6b8bfca1e.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 9 k vyhláške č. 368/1998 Z. z. [Vzor 09 - Zdroje a dodávka elektrickej energie vrátane jej dovozu a vývozu za rok](../assets/5991bbf907c05761904c4f2d7bc8aef378c352a5e0cb8cc99bfa959882183187.pdf)

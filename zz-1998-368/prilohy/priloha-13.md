@@ -1,0 +1,1 @@
+Príloha č. 13 k vyhláške č. 368/1998 Z. z. [Vzor 13 - Výkaz dodávok elektriny podľa sadzieb a taríf pre maloodberateľov - obyvateľstvo (MOO)](../assets/39658b8ceb02cf8b2dcbb779649f5a3afc596a42aced3ec996600eae0988d648.pdf)

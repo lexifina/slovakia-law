@@ -1,0 +1,1 @@
+Príloha č. 10 k vyhláške č. 368/1998 Z. z. [Vzor 10 - Výkaz dodávok elektriny podľa sadzieb a taríf pre veľkoodberateľov](../assets/f521f6e756b3b0a674a8544503dc905b89043d7d0cccddf7a16783a1c165ce00.pdf)
