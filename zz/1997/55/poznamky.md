@@ -34,4 +34,8 @@
 
 - 9) Vyhláška ministra zahraničných vecí č. 65/1975 Zb. v znení vyhlášky ministra zahraničných vecí č. 78/1985 Zb. o Madridskej dohode o medzinárodnom zápise továrenských alebo obchodných známok zo 14. apríla 1891, revidovaná v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Nice 15. júna 1957 a v Štokholme 14. júla 1967.Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 267/1998 Z. z. o uzavretí Protokolu k Madridskej dohode o medzinárodnom zápise továrenských alebo obchodných známok.
 
+- 9a) Článok 82 nariadenia Rady (ES) č. 40/94 z 20. decembra 1993 a o ochrannej známke Spoločenstva.
+
+- 9b) § 275 ods. 1 Občianskeho súdneho poriadku.
+
 - 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
