@@ -1,1 +1,0 @@
-- 1) § 420 a 424 zákona č. 101/1963 Zb. o právnych vzťahoch v medzinárodnom obchodnom styku (Zákonník medzinárodného obchodu).
