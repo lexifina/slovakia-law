@@ -2,23 +2,27 @@
 
 - 1a) § 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.Príloha č. 1 nariadenia vlády Slovenskej republiky č. 572/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zdravotníckych pomôcok.
 
+- 1b) § 65a ods. 4 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
 - 2) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch.
 
-- 3) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 79/1981 Zb. o zdravotníckych pracovníkoch a iných odborných pracovníkoch v zdravotníctve.
+- 3) Nariadenie vlády Slovenskej republiky č. 213/2004 Z. z. o ďalšom vzdelávaní pracovníkov v zdravotníctve v znení nariadenia vlády Slovenskej republiky č. 436/2004 Z. Z.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
 
-- 6) § 83 Zákonníka práce v znení neskorších predpisov.
+- 6) § 85 Zákonníka práce.
 
 - 6a) Zákon Slovenskej národnej rady č. 13/1992 Zb. o Slovenskej lekárskej komore, Slovenskej komore zubných lekárov a Slovenskej lekárnickej komore.
 
 - 6aa) § 13 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov.
 
+- 6aa) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
 - 6b) Zákon č. 216/2002 Z. z. o povolaní lekárnika, o Slovenskej lekárnickej komore a o doplnení zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
 - 6c) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 65/2002 Z. z. o podrobnostiach postupu pri overovaní zásad správnej laboratórnej praxe a ich dodržiavaní, o podrobnostiach o vydaní a zrušení osvedčenia správnej laboratórnej praxe a postupe kontroly dodržiavania zásad správnej laboratórnej praxe (zásady správnej laboratórnej praxe).
 
-- 7) Zákon Národnej rady Slovenskej republiky č. 115/1995 Z. z. o ochrane zvierat.
+- 7) Napríklad zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 289/2003 Z. z., ktorým sa ustanovujú požiadavky na ochranu zvierat používaných na pokusné účely alebo iné vedecké účely v znení nariadenia vlády Slovenskej republiky č. 489/2003 Z. z.
 
 - 7a) § 17 zákona č. 151/2002 Z. z.
 
@@ -58,6 +62,8 @@
 
 - 12a) § 26 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 12aa) Nariadenie Komisie (ES) č. 1084/2003 z 3. júna 2003 o preskúmaní zmien podmienok v povolení na uvedenie na trh humánnych liekov a veterinárnych liekov, ktoré vydal príslušný orgán členského štátu (Úradný vestník Európskej únie L 159, 27. 6. 2003).
+
 - 13) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
 - 13a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -67,6 +73,20 @@
 - 15) § 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
 - 15a) Príloha č. 1 k zákonu č. 139/1998 Z. z.
+
+- 15aa) § 7 ods. 3 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
+
+- 15ab) § 7 ods. 9 písm. b) a d) a ods. 10 zákona č. 581/2004 Z. z.
+
+- 15ac) § 7 ods. 11 písm. a) a ods. 15 písm. a) zákona č. 581/2004 Z. z.
+
+- 15b) § 2 ods. 1 a § 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
+- 15c) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
+
+- 15d) § 25 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 16) Zákon Slovenskej národnej rady č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
 
@@ -81,6 +101,16 @@
 - 19a) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 19aa) Zákon č. 19/2002 Z. z., ktorým sa ustanovujú podmienky vydávania aproximačných nariadení vlády Slovenskej republiky v znení zákona č. 207/2002 Z. z.
+
+- 19ab) Zákon Národnej rady Slovenskej republiky č. 184/1993 Z. z. o krmivách v znení zákona č. 472/2003 Z. z.
+
+- 19ac) § 29 ods. 2 zákona č. 488/2002 Z. z. v znení neskorších predpisov.
+
+- 19ad) § 8 ods. 1 a § 9 ods. 1 nariadenia vlády Slovenskej republiky č. 41/2004 Z. z., ktorým sa ustanovujú požiadavky na prípravu, uvádzanie na trh a používanie medikovaných krmív.
+
+- 19ae) Zákon č. 488/2002 Z. z. v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 41/2004 Z. z.
 
 - 19b) § 7 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 

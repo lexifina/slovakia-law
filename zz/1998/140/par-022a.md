@@ -1,6 +1,6 @@
 # § 22a Vzájomné uznanie registrácie lieku medzi členskými štátmi
 
-(1) Držiteľ rozhodnutia o registrácii lieku pred podaním žiadosti o vzájomné uznanie registrácie lieku informuje členský štát, ktorý prvý vydal rozhodnutie o registrácii lieku (ďalej len „referenčný členský štát"), že predkladá štátnemu ústavu žiadosť o vzájomne uznanie registrácie lieku, ktorá obsahuje náležitosti podľa § 21 a ktorá je v súlade so smernicou uvedenou v prílohe č. 4 bode 3.
+(1) Držiteľ rozhodnutia o registrácii lieku pred podaním žiadosti o vzájomné uznanie registrácie lieku informuje členský štát, ktorý prvý vydal rozhodnutie o registrácii lieku (ďalej len „referenčný členský štát"), že predkladá štátnemu ústavu žiadosť o vzájomne uznanie registrácie lieku, ktorá obsahuje náležitosti podľa § 21 a ktorá je v súlade so smernicou uvedenou v prílohe č. 4 bodoch 2 a 3.
 
 (2) Držiteľ rozhodnutia o registrácii lieku požiada referenčný členský štát o zaslanie hodnotiacej správy (§ 21 ods. 5) o predmetnom lieku štátnemu ústavu.
 
@@ -20,6 +20,8 @@
 
 - c) ak sa vyskytli závažné nežiaduce účinky lieku.
 
+- d) ak liek predstavuje riziko poškodenia zdravia ľudí, zvierat alebo životného prostredia.
+
 (8) Ak členské štáty a štátny ústav nedosiahnu dohodu z dôvodov podľa odseku 7 písm. a), štátny ústav o podozrení ihneď upovedomí držiteľa rozhodnutia o registrácii lieku, referenčný členský štát, ostatné členské štáty dotknuté žiadosťou a agentúru; podrobne odôvodní svoje podozrenie a navrhne opatrenia na odstránenie podozrenia. Štátny ústav umožní držiteľovi rozhodnutia o registrácii lieku vyjadriť sa k zistenému podozreniu v ustanovenej lehote.
 
 (9) Ak členské štáty a štátny ústav nedosiahnu dohodu z dôvodu podľa odseku 7 písm. b), štátny ústav alebo držiteľ rozhodnutia o registrácii lieku upovedomí o námietkach agentúru; ak agentúru upovedomuje štátny ústav, informuje o námietkach držiteľa rozhodnutia o registrácii lieku. Štátny ústav a držiteľ rozhodnutia o registrácii lieku predložia výboru dokumentáciu a poskytnú informácie, ktoré sú vo vzťahu k námietkam.
@@ -28,7 +30,7 @@
 
 (11) Štátny ústav v lehote uvedenej v odseku 6 predloží agentúre písomné stanovisko, v ktorom uvedie dôvody, pre ktoré sa nedosiahla dohoda v spornej otázke. Kópiu písomného stanoviska pošle na vedomie držiteľovi rozhodnutia o registrácii lieku. Držiteľ rozhodnutia o registrácii lieku bezodkladne predloží agentúre kópiu žiadosti predloženú štátnemu ústavu podľa odseku 4.
 
-(12) Na základe stanoviska výboru k spornej otázke podľa odseku 7, ktoré agentúra oznámi komisii, vydá komisia rozhodnutie. Štátny ústav vydá do 30 dní od úradného oznámenia tohto rozhodnutia komisiou rozhodnutie o registrácii lieku, o zrušení registrácie lieku, o zmene v rozhodnutí o registrácii lieku alebo o zamietnutí registrácie lieku tak, aby bolo v súlade s rozhodnutím komisie; štátny ústav o vydanom rozhodnutí informuje komisiu a agentúru.
+(12) Na základe stanoviska výboru k spornej otázke podľa odseku 7, ktoré agentúra oznámi komisii, vydá komisia rozhodnutie. Štátny ústav vydá do 30 dní od úradného oznámenia tohto rozhodnutia komisiou rozhodnutie o registrácii lieku, o zrušení registrácie lieku, o zmene v rozhodnutí o registrácii lieku alebo o zamietnutí registrácie lieku tak, aby bolo v súlade s rozhodnutím komisie; štátny ústav o vydanom rozhodnutí informuje komisiu a agentúru a agentúre predloží kópiu príslušného rozhodnutia a súhrn charakteristických vlastností lieku.
 
 (13) Držiteľ rozhodnutia o vzájomnom uznaní registrácie lieku môže požiadať o zmenu v rozhodnutí o vzájomnom uznaní registrácie lieku; v takom prípade predloží žiadosť všetkým členským štátom, ktoré vydali rozhodnutie o vzájomnom uznaní registrácie lieku. Na rozhodovanie o žiadosti sa vzťahujú ustanovenia odsekov 1 až 12.
 

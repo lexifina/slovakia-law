@@ -35,3 +35,5 @@
 - d) liek nemá deklarované kvalitatívne a kvantitatívne látkové zloženie,
 
 - e) označenie a balenie lieku nespĺňa požiadavky podľa tohto zákona (§ 24).
+
+(6) Ak štátny ústav zistí, že žiadosť o registráciu lieku je už v štádiu posudzovania v inom členskom štáte, môže rozhodnúť o pozastavení posudzovania žiadosti až do dňa doručenia hodnotiacej správy pripravenej iným členským štátom; štátny ústav túto skutočnosť oznámi ostatným členským štátom a žiadateľovi.

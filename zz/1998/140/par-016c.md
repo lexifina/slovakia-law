@@ -20,4 +20,4 @@
 
 - h) oznámenie o skončení klinického skúšania.
 
-(3) Štátny ústav poskytne na žiadosť príslušného orgánu členského štátu Európskej únie (ďalej len „členský štát"), agentúry alebo komisie všetky doplňujúce informácie týkajúce sa multicentrického klinického skúšania, ktoré sa vykonáva aj na území členských štátov, okrem údajov, ktoré už boli zaradené do európskej banky údajov.
+(3) Štátny ústav poskytne na žiadosť príslušného orgánu členského štátu, agentúry alebo komisie všetky doplňujúce informácie týkajúce sa multicentrického klinického skúšania, ktoré sa vykonáva aj na území členských štátov, okrem údajov, ktoré už boli zaradené do európskej banky údajov.
