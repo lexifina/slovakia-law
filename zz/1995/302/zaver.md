@@ -1,1 +1,0 @@
-Ján Ducký v. r.
