@@ -1,0 +1,1 @@
+- *) Slovenská republika Ich uplatňuje len na výrobky, ktoré obsahujú prvky poškodzujúce ozónovú vrstvu Zeme.
