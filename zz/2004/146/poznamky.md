@@ -1,0 +1,1 @@
+- 1) STN EN ISO/IEC 17025:1999 Všeobecné požiadavky na spôsobilosť skúšobných kalibračných latoratórií – Výber metód (bod 5.4.2.).
