@@ -1,8 +1,10 @@
 - 1) § 2 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami.
 
+- 1a) § 2 ods. 2 písm. a) zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a bytovými náhradami.
+
 - 2) § 3 zákona Slovenskej národnej rady č. 189/1992 Zb.
 
-- 3) § 44 ods. 1 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky č. 45/1979 Zb. a vyhlášky č. 376/1992 Zb.
+- 3) § 43b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 4) § 25 devízového zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb., zákona č. 264/1992 Zb., zákona Národnej rady Slovenskej republiky č. 26/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 106/1993 Z. z.
 
@@ -16,11 +18,9 @@
 
 - 9) § 43 a nasl. a § 588 a nasl. Občianskeho zákonníka.
 
-- 9a) § 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva.
+- 9a) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
-- 10) § 1 a 2 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
-
-- § 3 ods. 1 písm. c) zákona Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+- 10) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 10a) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
@@ -28,9 +28,15 @@
 
 - 11) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
-- 12) § 6 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+- 12) § 4 ods. 3 zákona č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov.
 
-- 12a) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+- 12a) § 69 a 70 Trestného zákona v znení neskorších predpisov.
+
+- 12b) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+
+- 12c) § 68 až 75 Obchodného zákonníka.
+
+- 12d) Napríklad zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 13) Napr. § 54 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
@@ -48,21 +54,27 @@
 
 - 17b) § 140 Občianskeho zákonníka.
 
-- 18) § 712 ods. 1, 2, 3,5 a 7 Občianskeho zákonníka.
+- 18) § 711 ods. 1 písm. c) a d) Občianskeho zákonníka.
 
-- 19) § 5 ods. 1, 2 a 3 zákona Slovenskej národnej rady č. 189/1992 Zb.
+- 19) § 712 a 712a ods. 2, 3, 4 a 5 Občianskeho zákonníka.
 
-- 20) § 711 ods. 1 písm. c), d), g) a h) Občianskeho zákonníka.
+- 20) § 5 ods. 2 písm. a) a d) zákona Slovenskej národnej rady č. 189/1992 Zb.
 
 - 20a) § 85 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
 - 21) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
+- 21a) Zákon č. 446/2001 Z. z. o majetku vyšších územných celkov v znení zákona č. 521/2003 Z. z.
+
 - 22) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 22a) Napríklad zákon č. 109/1964 Zb. Hospodársky zákonník v znení neskorších predpisov, vyhláška Ministerstva financií č. 86/1968 Zb. o združovaní prostriedkov socialistických organizácií.
 
-- 23) § 14 ods. 1 zákona č. 92/1991 Zb.
+- 22b) Zákon č. 104/1990 Zb. o akciových spoločnostiach.
+
+- Obchodný zákonník.
+
+- 23) Napríklad § 335 až 338 zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 14 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 23a) Napríklad § 588 Občianskeho zákonníka, § 56 až 220 Obchodného zákonníka.
 
@@ -77,6 +89,8 @@
 - 24d) § 17 ods. 1 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. v znení neskorších predpisov.
 
 - 24e) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
+- 24f) § 6 ods. 1 písm. c) druhý bod a písm. d), § 28 a § 46 ods. 5 a 6 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 25) § 876 Občianskeho zákonníka.
 
