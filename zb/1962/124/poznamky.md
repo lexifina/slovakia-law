@@ -1,0 +1,1 @@
+- 1) Vyhláška ministerstiev pôdohospodárstva a vnútra č. 7/1955 Ú.l. (Ú.v.) o poľovných zbraniach.
