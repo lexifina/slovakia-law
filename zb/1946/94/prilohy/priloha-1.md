@@ -14,7 +14,7 @@
 
     - (5) Tiskopis „Záznam o přídělu valut", vydaný Národní bankou, jest nedílnou součástí cestovního pasu devisového tuzemce; lze jej obdržeti u devisové banky nebo jiného oprávněného podniku nebo v nutných případech u pohraničního kontrolního orgánu. Devisová banka nebo jiný oprávněný podnik nebo kontrolní pohraniční orgán vyplní záhlaví „Záznamu o přídělu valut" a vlepí jej na vnitřní stranu zadní desky cestovního pasu; na nepřelepenou část zadní desky poznamená "Záznam o přídělu valut vydán dne ..." a zápis opatří firemním, po případě úředním razítkem a podpisem tak, aby část razítka byla otisknuta také na jazyku záznamu. Duplikáty „Záznamu o přídělu valut" vydává jen Národní banka Československá, devisový odbor, v Praze a její oblastní ústav pro Slovensko v Bratislavě.
 
-    - (6) Devisovému tuzemci smějí býti bez povolení Národní banky prodány jakékoliv cestovní jízdenky do ciziny (železniční, lodní, letecké a pod.) včetně zpátečních jízdenek jen do 250 km délky trati od hranic Československé republiky.
+    - (6) Devisovému tuzemci nesmějí býti bez povolení Národní banky prodány jakékoliv cestovní jízdenky do ciziny (železniční, lodní, letecké a pod.).
 
     - (7) Devisový tuzemec, který cestu do ciziny nenastoupil, jest povinen odvésti cizozemská platidla, přidělená v rámci volné hranice, do 30 dnů ode dne přídělu a cizozemská platidla, přidělená na podkladě povolení Národní banky, do 10 dnů po uplynutí platnosti povolení (§ 8 devisového zákona). V týchž lhůtách jest vrátiti i nepoužité jízdenky do ciziny.
 
@@ -26,7 +26,7 @@
 
     - (3) Přidělovati devisovým cizozemcům jakákoliv cizozemská platidla bez povolení Národní banky jest zakázáno.
 
-    - (4) Devisovému cizozemci smějí býti bez povolení Národní banky prodány za tuzemská platidla jakékoliv jízdenky do ciziny (železniční, lodní, letecké a pod.), včetně zpátečních jízdenek, jen do 250 km délky trati od hranic Československé republiky. Za cizozemská platidla, která Národní banka určí ve svých směrnicích, mohou býti cizozemcům prodávány jízdenky do kteréhokoliv místa.
+    - (4) Devisovému cizozemci nesmějí býti bez povolení Národní banky prodány za tuzemská platidla jakékoliv cestovní jízdenky do ciziny (železniční, lodní, letecké a pod.). Za cizozemská platidla, která Národní banka určí ve svých směrnicích a která devisový cizozemec podle „Potvrzení o dovozu platidel" dovezl, mohou býti devisovým cizozemcům prodávány jakékoliv jízdenky do kteréhokoliv místa. Prodejna jízdenek jest povinna vyznačiti přijatá cizozemská platidla na rubu „Potvrzení o dovozu platidel".
 
   - Čl. 3.
 
@@ -48,9 +48,13 @@
 
   - Čl. 6.
 
-    - (1) Bez povolení Národní banky jest dovoleno dovézti z ciziny cizozemská i tuzemská platidla (§ 3 devisového zákona). Dovoz tuzemských peněz jest s výjimkami dále uvedenými zakázán.
+    - (1) Devisový tuzemec smí v cestovním styku dovézti z ciziny cizozemská i tuzemská platidla s výjimkou tuzemských peněz, jichž smí dovézti měsíčně nejvýše 500 Kčs v mincích nebo v papírových penězích nejvýše v padesátikorunách, ohlásí-li veškerá dovážená platidla pohraničnímu kontrolnímu orgánu.
 
-    - (2) Cestující s cestovním pasem, ať devisový tuzemec vracející se z ciziny nebo devisový cizozemec vstupující na území Československé republiky, smí bez povolení Národní banky dovézti měsíčně nejvýše 500 Kčs v tuzemských mincích nebo v papírových penězích nejvýše v padesátikorunách.
+    - (2) Devisový cizozemec nesmí v cestovním styku dovézti z ciziny jiná cizozemská a tuzemská platidla (peníze, šeky, směnky, poukázky, pověřovací listy a jiné platební příkazy) než ta, která přihlásí pohraničnímu kontrolnímu orgánu a dá si potvrditi na úředním tiskopise „Potvrzení o dovozu platidel". Do „Potvrzení o dovozu platidel" jest zapsati také hotelové bony a hotelové poukázky pro pobyt v Československé republice. Z tuzemských peněz nesmí dovézti a nesmí mu býti potvrzeno více než 500 Kčs měsíčně v mincích nebo v papírových penězích nejvýše v padesátikorunách. Dovážená platidla, která devisový cizozemec sice ohlásí, avšak nedá si je potvrditi, nesmějí býti propuštěna do tuzemska; devisový cizozemec musí je odevzdati do úschovy pohraničnímu kontrolnímu orgánu na stvrzenku a vyzvednouti si je na zpáteční cestě nebo musí udati adresáta v cizině, kterému tato platidla mají býti zaslána v cenném psaní na útraty a nebezpečí cestujícího. Pro tyto zásilky, podávané pohraničním kontrolním orgánem k poštovní dopravě, není třeba povolení Národní banky.
+
+    - (3) Devisový cizozemec smí bez povolení Národní banky hraditi náklady svého pobytu v tuzemsku jen z dovezených nebo z ciziny poukázaných platidel. Výměny valut, proplacení šeků a akreditivů, jakož i veškeré částky, které jemu nebo v jeho prospěch byly v tuzemsku placeny s povolením Národní banky, musí si dáti peněžním ústavem potvrditi na rubu „Potvrzení o dovozu platidel". Platí-li výjimečně cizozemskými platidly v hotelu nebo jinde, musí si dáti platbu potvrditi na uvedeném „Potvrzení o dovozu platidel" razítkem a podpisem příjemcovým.
+
+    - (4) Při odjezdu z Československé republiky jest devisový cizozemec povinen odevzdati pohraničnímu kontrolnímu orgánu „Potvrzení o dovozu platidel", na jehož rubu bude řádně vyznačen rozdíl mezi částkou cizozemských platidel dovezených a vyvážených.
 
   - Čl. 7.
 
