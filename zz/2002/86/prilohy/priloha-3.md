@@ -42,7 +42,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - C.1 Výpočet východiskovej hodnoty (VH)
 
-- Výpočet sa vykoná na báze rozpočtových ukazovateľov. Rozpočtový ukazovateľ porovnateľného objektu musí byť preskúmateľný, tzn. vybraný ukazovateľ sa musí presne špecifikovať číslom objektu, zatriedenia do číselníka klasifikácie stavieb a jednotkovou hodnotou podľa verejne publikovaného katalógu, z ktorého bol vybraný.
+- Výpočet sa vykoná na báze rozpočtových ukazovateľov. Rozpočtový ukazovateľ musí byť preskúmateľný, tzn. vybraný ukazovateľ sa musí presne identifikovať názvom, zatriedením do číselníka klasifikácie stavieb a jednotkovou hodnotou určenou podľa verejne publikovaných katalógov určených ministerstvom, z ktorého bol vybraný alebo vytvorený.
 
 - Jednotková hodnota sa preskúmateľným spôsobom upraví podľa jednotlivých charakteristík hodnoteného objektu (výška podlaží, plocha podlaží, vybavenosť objektu, konštrukčno-materiálová charakteristika a pod.) a prepočíta sa do cenovej úrovne k termínu, ku ktorému sa vykonáva ohodnotenie.
 
@@ -58,11 +58,11 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - RU - rozpočtový ukazovateľ
 
-- Rozumie sa hodnota základných rozpočtových nákladov na mernú jednotku, ktorá zodpovedá vybranému porovnateľnému objektu z publikovaných katalógov rozpočtových ukazovateľov. Výber porovnateľného objektu sa vykoná podľa zatriedenia hodnoteného objektu do číselníka príslušnej klasifikácie stavebných objektov<sup>2</sup>), na ktorej základe bol vybraný katalóg zostavený.
+- Rozumie sa hodnota základných rozpočtových nákladov na mernú jednotku porovnateľného objektu z katalógov rozpočtových ukazovateľov určených ministerstvom alebo stanovená tvorbou rozpočtového ukazovateľa na mernú jednotku hodnoteného objektu podľa katalógov rozpočtových ukazovateľov určených ministerstvom. Hodnota základných rozpočtových nákladov na mernú jednotku stavebného objektu, ktorý nie je uvedený v katalógoch určených ministerstvom, môže byť vytvorená cenovou kalkuláciou (ponukovým rozpočtom) alebo na základe nákladov na obstaranie.
 
-- k<sub>CU</sub>- koeficient vyjadrujúci nárast cien
+- k<sub>CU</sub>- koeficient vyjadrujúci vývoj cien
 
-- Vyjadruje nárast cien stavebných prác medzi termínom ohodnotenia a obdobím, pre ktoré bol zostavený rozpočtový ukazovateľ porovnateľného objektu. Koeficient sa určí pomocou indexov nárastu cien stavebných prác a materiálov v stavebníctve vydávaných Štatistickým úradom Slovenskej republiky po jednotlivých štvrťrokoch.
+- Vyjadruje vývoj cien stavebných prác medzi termínom ohodnotenia a obdobím, pre ktoré bol zostavený rozpočtový ukazovateľ porovnateľného objektu. Koeficient sa určí pomocou indexov vývoja cien stavebných prác a materiálov v stavebníctve vydávaných Štatistickým úradom Slovenskej republiky po jednotlivých štvrťrokoch pre odbor stavebníctvo ako celok.
 
 - k<sub>V</sub>- koeficient vplyvu vybavenosti hodnoteného objektu
 
@@ -184,7 +184,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - D.1 Porovnávacia metóda
 
-- Pri výpočte sa používa transakčný prístup. Na porovnanie je potrebný súbor aspoň troch nehnuteľností, stavieb a pozemkov. Porovnanie treba vykonať na mernú jednotku (obstavaný priestor, zastavaná plocha, podlahová plocha, dĺžka, kus a pod.) s prihliadnutím na odlišnosti porovnávaných objektov a ohodnocovaného objektu.
+- Pri výpočte sa používa transakčný prístup. Na porovnanie je potrebný súbor aspoň troch nehnuteľností, stavieb a pozemkov. Porovnanie treba vykonať na mernú jednotku (obstavaný priestor, zastavaná plocha, podlahová plocha, dĺžka, kus a pod.) s prihliadnutím na odlišnosti porovnávaných objektov a ohodnocovaného objektu. Pri výpočte sa môže použiť aj matematická štatistika. Na toto porovnanie je potrebný taký veľký súbor, aby boli splnené známe a platné testy matematickej štatistiky.
 
 - Hlavné faktory porovnávania:
 
@@ -284,7 +284,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - Vypočíta sa podľa základného vzťahu
 
-- VŠHS = TH . k<sub>PD</sub> [Sk],
+- VŠH<sub>S</sub> = TH . k<sub>PD</sub> [Sk],
 
 - kde
 
@@ -292,9 +292,9 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - k<sub>PD</sub>- koeficient polohovej diferenciácie vyjadrujúci vplyv polohy a ostatných faktorov vplývajúcich na všeobecnú hodnotu v mieste a čase [-].
 
-- Koeficient predajnosti sa môže stanoviť pre skupinu stavieb alebo jednotlivo pre každú stavbu.
+- Koeficient polohovej diferenciácie sa môže stanoviť pre skupinu stavieb alebo jednotlivo pre každú stavbu.
 
-- Pri určení koeficientu vyjadrujúceho vplyv polohy sa váhovým priemerom zohľadnia spravidla tieto faktory:
+- Pri určení koeficientu polohovej diferenciácie sa váhovým priemerom zohľadnia spravidla tieto faktory:
 
 - - trh s nehnuteľnosťami - kúpna sila obyvateľstva,
 
@@ -348,7 +348,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - k<sub>PD</sub> - koeficient polohovej diferenciácie vyjadrujúci vplyv polohy a ostatných faktorov vplývajúcich na všeobecnú hodnotu v mieste a čase [-].
 
-- Pri určení koeficientu vyjadrujúceho vplyv polohy sa váhovým priemerom zohľadnia spravidla tieto faktory:
+- Pri určení koeficientu polohovej diferenciácie sa váhovým priemerom zohľadnia spravidla tieto faktory:
 
 - - trh s bytmi v danej lokalite - na sídlisku,
 
@@ -386,7 +386,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - D.3.3 Pozemky
 
-- Všeobecná hodnota nepoľnohospodárskych a nelesných pozemkov uvedených v prílohe č. 1 k vyhláške<sup>3</sup>) časti C a poľnohospodárskej pôdy v zastavanom území obcí uvedených v prílohe č. 1 k vyhláške<sup>3</sup>) časti A.1, prvom bode (orná pôda), štvrtom (záhrady) a šiestom bode (trvalé trávne porasty) sa vypočíta podľa základného vzťahu
+- Všeobecná hodnota pozemkov v zastavanom území obcí, nepoľnohospodárskych a nelesných pozemkov uvedených v prílohe č. 1 k vyhláške<sup>3</sup>) časti C a všeobecná hodnota pozemkov mimo zastavaných území obcí určených na stavbu územným plánom zóny alebo plánom sídelného útvaru spracovaným minimálne v mierke 1 : 5 000, územným rozhodnutím, stavebným povolením alebo pozemkov zastavaných hlavnou stavbou sa vypočíta podľa základného vzťahu.
 
 - VŠH<sub>POZ</sub>= M . VŠH<sub>MJ</sub> [Sk],
 
@@ -430,7 +430,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - h) Ostatné obce do 2 000 obyvateľov | 50,-
 
-- Obce a lokality v okolí miest so zvýšeným záujmom o kúpu nehnuteľností na bývanie alebo rekreáciu majú jednotkovú východiskovú hodnotu do 70 % z východiskovej hodnoty obce (mesta), z ktorej vyplýva zvýšený záujem.
+- Obce a lokality v okolí miest so zvýšeným záujmom o kúpu nehnuteľností majú jednotkovú východiskovú hodnotu do 70 % z východiskovej hodnoty obce (mesta), z ktorej vyplýva zvýšený záujem.
 
 - k<sub>PD</sub> je koeficient polohovej diferenciácie, vypočíta sa podľa vzťahu
 
@@ -582,7 +582,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - - iné faktory. |
 
-- Všeobecná hodnota poľnohospodárskej pôdy mimo zastavaného územia obce uvedenej v prílohe č. 1 k vyhláške<sup>3</sup>) časti A.1, prvom bode (orná pôda) a v šiestom bode (trvalé trávne porasty) sa vypočíta podľa základného vzťahu
+- Všeobecná hodnota poľnohospodárskej pôdy mimo zastavaného územia obce uvedenej v prílohe č. 1 k vyhláške<sup>3</sup>) časti A.1. prvom bode (orná pôda), v šiestom bode (trvalé trávne porasty) a pozemkov mimo zastavaného územia obce uvedených v prílohe č. 1 k vyhláške<sup>3</sup>) v časti C oddiele 3 písm. ch) sa vypočíta podľa základného vzťahu.
 
 - VŠH<sub>POZ</sub>= M . VŠH<sub>MJ</sub> [Sk],
 
@@ -600,11 +600,11 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - kde
 
-- VH<sub>MJ</sub>- jednotková východisková hodnota pozemku, ktorá sa stanoví podľa cenových predpisov<sup>4</sup>) v závislosti od kódu bonitovanej pôdno-ekologickej jednotky určenej príslušným okresným úradom [Sk/m<sup>2],</sup>
+- VH<sub>MJ</sub>- jednotková východisková hodnota pozemku, ktorá sa stanoví podľa osobitného zákona<sup>4</sup>) v závislosti od katastrálneho územia a okresu. Jednotková východisková hodnota pozemku uvedeného v prílohe č. 1 k vyhláške<sup>3</sup>) v časti C oddiele 3 písm. ch) sa rovná jednotkovej východiskovej hodnote pozemku druhu trvalý trávny porast podľa osobitného zákona.<sup>4</sup>) V prípade, že v osobitnom zákone<sup>4</sup>) je uvedená nulová východisková hodnota, sa jednotková východisková hodnota ornej pôdy stanoví v závislosti od kódu bonitovanej pôdno-ekologickej jednotky určenej príslušnou správou katastra, prípadne potvrdenia príslušného obvodného pozemkového úradu. Jednotková východisková hodnota pozemkov druhu trvalý trávny porast a pozemkov uvedených v prílohe č. 1 k vyhláške<sup>3</sup>) v časti C oddiele 3 písm. ch), ktoré majú v prílohe osobitného predpisu<sup>4</sup>) uvedenú nulovú východiskovú hodnotu, sa rovná 75 % jednotkovej východiskovej hodnote pozemku druhu orná pôda určenej podľa predchádzajúcej vety.
 
 - kPD - koeficient polohovej diferenciácie, ktorý zohľadňuje špecifiká polohy, využiteľnosti, dosahovania výnosu, predajnosti a pod. [-].
 
-- Všeobecná hodnota poľnohospodárskej pôdy vrátane porastov uvedenej v prílohe č. 1 k vyhláške<sup>3</sup>) časti A.1, druhom bode (chmeľnice), treťom bode (vinice), piatom bode (ovocné sady) a v časti B (lesné pozemky) sa vypočíta podľa základného vzťahu
+- Všeobecná hodnota poľnohospodárskej pôdy vrátane porastov mimo zastavaného územia obcí uvedenej v prílohe č. 1 k vyhláške<sup>3</sup>) časti A.1. druhom bode (chmeľnice), treťom bode (vinice), štvrtom bode (záhrady), piatom bode (ovocné sady) a lesných pozemkov mimo zastavaného územia obcí uvedených v prílohe č. 1 k vyhláške<sup>3</sup>) časti B (lesné pozemky) sa vypočíta podľa základného vzťahu.
 
 - VŠH<sub>POZP</sub> = VŠH<sub>POZ</sub>+ VŠH<sub>P</sub> [Sk],
 
@@ -628,7 +628,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - kde
 
-- VH<sub>MJ</sub> - jednotková východisková hodnota pozemku, ktorá sa stanoví podľa cenových predpisov<sup>4</sup>) [Sk/m<sup>2],</sup> [Sk/ha],
+- VH<sub>MJ</sub> - jednotková východisková hodnota pozemku sa rovná jednotkovej východiskovej hodnote pozemku druhu orná pôda podľa osobitného zákona.<sup>4</sup>) V prípade, že v osobitnom predpise<sup>4</sup>) je uvedená nulová východisková hodnota, sa jednotková východisková hodnota ornej pôdy stanoví v závislosti od kódu bonitovanej pôdno-ekologickej jednotky určenej príslušnou správou katastra, prípadne potvrdenia príslušného obvodného pozemkového úradu. Jednotková východisková hodnota lesných pozemkov sa stanoví ako súčet základnej hodnoty lesného pozemku pre cieľové drevinové zastúpenie podľa prílohy č. 14 tabuľky č. I a ohodnotenia faktora polohy v závislosti od približovacej a odvoznej vzdialenosti podľa prílohy č. 14 tabuľky č. II,
 
 - k<sub>PD</sub>- koeficient polohovej diferenciácie, ktorý zohľadňuje špecifiká polohy, využiteľnosti, dosahovania výnosu, predajnosti a pod. [-].
 
@@ -638,7 +638,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - kde
 
-- VH<sub>P</sub> - jednotková východisková hodnota porastu, ktorá sa stanoví podľa cenových predpisov<sup>4</sup>) [Sk/m<sup>2],</sup> [Sk/ha],
+- VH<sub>P</sub> - jednotková východisková hodnota porastu sa stanoví podľa prílohy č. 15 pre ovocné stromy podľa tabuľky č. I, pre viničné porasty podľa tabuľky č. II, pre chmeľové porasty vrátane zariadenia chmeľníc podľa tabuľky č. III a pre okrasné dreviny podľa tabuľky č. VII. Jednotková východisková hodnota pre lesné porasty sa stanoví ako súčet základnej hodnoty lesného porastu podľa skutočného zastúpenia drevín, bonity, veku a zakmenenia podľa prílohy č. 15 tabuľky č. IV a ohodnotenia faktora polohy v závislosti od približovacej a odvoznej vzdialenosti podľa prílohy č. 15 tabuľky č. V. V prípade poškodenia lesného porastu sa jeho jednotková východisková hodnota zníži podľa prílohy č. 15 tabuľky č. VI [Sk/ks],
 
 - k<sub>PD</sub> - koeficient polohovej diferenciácie, ktorý zohľadňuje špecifiká kvality, stupňa poškodenia, dosahovania výnosu, predajnosti a pod. [-].
 
@@ -658,7 +658,7 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 
 - b) zdržať sa (napr. nestavať plot nad určenú výšku),
 
-- c) strpieť (napr. právo prechodu, prejazdu).
+- c) strpieť (napr. právo prechodu, prejazdu, právo stavby).
 
 - Všeobecná hodnota jednotlivých vecných bremien viaznucich na nehnuteľnostiach sa stanoví iba na účely exekučného konania.<sup>5</sup>) V takých prípadoch sa všeobecná hodnota nehnuteľností a stavieb stanoví bez zohľadnenia existencie vecného bremena.
 
@@ -683,3 +683,5 @@ Príloha č. 3 k vyhláške č. 86/2002 Z. z.
 - n - časové obdobie trvania vecného bremena pri neobmedzenom trvaní platí: n = 20 rokov [rok],
 
 - k - diskontná sadzba, ktorá sa do výpočtu dosadzuje v desatinnom tvare [%/100].
+
+- V prípade požiadavky stanovenia všeobecnej hodnoty vecných bremien podľa § 1 ods. 2 tejto vyhlášky sa postupuje podľa časti E.2.

@@ -1,4 +1,4 @@
-- 1) Napríklad zákon č. 71/1967 Zb. o správnom konaní (správny poriadok), Občiansky zákonník, Obchodný zákonník, Trestný poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 1) Napríklad zákon č. 71/1967 Zb. o správnom konaní (správny poriadok), Občiansky zákonník, Obchodný zákonník, Trestný poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov, zákon č. 554/2003 Z. z. o dani z prevodu a prechodu nehnuteľností a o zmene a doplnení zákona č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
 - 2) Čl. 4 a čl. 20 ods. 2 Ústavy Slovenskej republiky.
 
@@ -11,6 +11,8 @@
 - 6) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
 - 7) § 2 Obchodného zákonníka.
+
+- 7a) Zákon č. 554/2003 Z. z.
 
 - 8) Napríklad § 68 Obchodného zákonníka.
 
@@ -28,7 +30,7 @@
 
 - 3) Vyhláška Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
-- 4) Napríklad vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 4) Príloha zákona č. 476/2003 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov.
 
 - 5) Napríklad § 139 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, § 87a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 

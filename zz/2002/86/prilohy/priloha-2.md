@@ -82,7 +82,7 @@ Príloha č. 2 k vyhláške č. 86/2002 Z. z.
 
 - VŠH<sub>NIM</sub> - všeobecná hodnota know-how podniku,
 
-- ![Vzorec 03](../assets/fceafe87e77172ef184cec6001779bc11a7fe582848a7328b3e85f0983aac5fe.png)
+- ![Vzorec 01](../assets/e79d14708c440e6f52651e579824fd123431de8e6cea6639bc538027fb838cc3.png)
 
 - kde
 
