@@ -18,13 +18,15 @@
 
 - 6) § 20 ods. 3 a 4 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 231/1992 Zb.
 
+- 6a) § 20a ods. 1 a 2 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona Národnej rady Slovenskej republiky č. 197/1995 Z. z.
+
 - 7) § 20 ods. 3 a 4 zákona č. 1/1991 Zb. v znení zákona č. 231/1992 Zb.
 
 - 7a) Napr. zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní,
 
 - zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
 
-- 8) § 61 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 123/1990 Zb. a zákona č. 306/1991 Zb.
+- 8) § 4a zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
 
 - 9) § 29 ods. 2 písm. d) zákona č. 100/1988 Zb. v znení neskorších predpisov.
 
