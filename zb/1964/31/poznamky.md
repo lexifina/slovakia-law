@@ -1,7 +1,5 @@
 - *) Vyhláška ministra zahraničného obchodu č. 62/1957 Ú. l. (Ú. v.) o zrušení vyhlášky o kontrole dovozu a vývozu tovaru podnikmi pre zahraničný obchod a o všeobecnom povolení pre tieto podniky vstupovať do zmluvných záväzkov v pomere k cudzine.
 
-- **) Pozri tiež vyhlášku Ministerstva zahraničného obchodu č. 29/1963 Zb. o organizácii siete colníc a ich pôsobnosti (časť III., písm. a).
-
 - ***) Tlačivá SEVT č. 62/Cel. a č. 63/Cel. pre vývoz sťahovaných zvrškov, pre ostatné prípady vývozu tlačivo SEVT č. 208/Cel.
 
 - †) Vyhláška Ministerstva financií č. 160/1960 Zb. o správnych poplatkoch, pol. 14 sadzobníka I.

@@ -1,4 +1,4 @@
-Príloha vyhlášky č. 31/1964 Zb.
+Príloha č. 2 vyhlášky č. 31/1964 Zb.
 
 - Bez povolenia podľa § 2, 6 a 7 vyhlášky možno vyvážať:
 
