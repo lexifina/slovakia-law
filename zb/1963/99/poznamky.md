@@ -144,9 +144,13 @@
 
 - § 8 ods. 5 zákona č. 424/1991 Zb.
 
-- 35a) § 25 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
+- 35a) Napríklad § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
 
-- 35aa) § 29b ods. 3 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení zákona č. 451/2002 Z. z.
+- 35ab) § 25 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
+
+- 35aa) § 68c zákona č. 97/1963 Zb. v znení zákona č. 589/2003 Z. z.
+
+- § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní.
 
 - 35b) Zákon č. 195/1998 Z. z. o sociálnej pomoci.
 

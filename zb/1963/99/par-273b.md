@@ -1,5 +1,5 @@
 # § 273b
 
-(1) Ak súd vydal predbežné opatrenie, aby bolo maloleté dieťa zverené do starostlivosti určenej fyzickej osoby alebo zariadenia sociálnych služieb (§ 75a), zabezpečí, aby toto rozhodnutie bolo bez zbytočného odkladu vykonané.
+(1) Aj bez návrhu súd konanie o nariadení výkonu cudzieho rozhodnutia o výchove maloletého dieťaťa alebo o úprave styku s ním preruší, ak bol podaný návrh na jeho uznanie, až do právoplatného rozhodnutia o uznaní.
 
-(2) Výkon rozhodnutia sa uskutoční tak, že súd v súčinnosti s príslušnými štátnymi orgánmi odovzdá maloleté dieťa do starostlivosti určenej fyzickej osoby alebo zariadenia sociálnych služieb. Ustanovenia § 272 ods. 2 a 3 a § 273 sa nepoužijú.
+(2) Na návrh môže súd prerušiť konanie o nariadení výkonu cudzieho rozhodnutia alebo odložiť uskutočnenie výkonu cudzieho rozhodnutia o výchove maloletého dieťaťa alebo o úprave styku s ním, ak bolo v štáte, v ktorom bolo vydané, napadnuté opravným prostriedkom, až do právoplatného rozhodnutia o opravnom prostriedku.
