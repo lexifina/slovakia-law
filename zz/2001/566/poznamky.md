@@ -246,6 +246,12 @@
 
 - 107) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
 
+- 107a) Napríklad § 2 ods. 1 zákona č. 107/2004 Z. z. o spotrebnej dani z piva.
+
+- 107b) Nariadenie Komisie (ES) č. 2273/2003 z 22. decembra 2003 implementujúce smernicu č. 2003/6/ES vzhľadom na výnimky pre programy spätného odkupu a stabilizáciu finančných nástrojov (Ú. v. EÚ L 336, 23. 12. 2003).
+
+- 107c) Napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+
 - 108) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
 - 109) Občiansky súdny poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
