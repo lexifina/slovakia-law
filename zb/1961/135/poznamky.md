@@ -1,12 +1,12 @@
 - 1) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 1a) § 11 a 13 vyhlášky Federálneho ministerstva dopravy č. 41/1984 Zb. o podmienkach prevádzky vozidiel na pozemných komunikáciách.
+- 1a) § 6 a 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky na pozemných komunikáciách.
 
-- 1b) § 1 až 4 vládneho nariadenia č. 54/1953 Zb. o premávke na cestách.
+- 1b) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
 
-- 1c) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
+- 1c) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- 2) § 120 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 2) § 120 zákona č. 50/1976 Zb. o územnom konaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 2a) Napríklad § 2 zákona Slovenskej národnej rady č.138/1991 Zb. o majetku obcí v znení zákona Slovenskej národnej rady č. 306/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 43/1993 Z. z.
 
@@ -14,7 +14,17 @@
 
 - 2c) § 22 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
+- 2ca) § 151a až 151p Občianskeho zákonníka.
+
+- 2cb) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 2cba) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
 - 2d) Vyhláška Federálneho ministerstva vnútra č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách (pravidlá cestnej premávky) v znení neskorších predpisov.
+
+- 2da) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení zákona č. 512/2002 Z. z.
+
+- 2db) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi, zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z.).
 
 - 2e) § 64 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
 
@@ -50,4 +60,6 @@
 
 - 11) § 88 až 93 zákona č. 50/1976 Zb.
 
-- 12) § 93 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
+- 12) Zákon č. 446/2001 Z. z. o majetku vyšších územných celkov.
+
+- 13) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.

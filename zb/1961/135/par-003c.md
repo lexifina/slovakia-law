@@ -1,12 +1,14 @@
 # § 3c Štátny odborný dozor
 
-(1) Štátny odborný dozor nad pozemnými komunikáciami vykonávajú
+(1) Štátny odborný dozor nad pozemnými komunikáciami vykonávajú:
 
-- a) nad diaľnicami ministerstvo,
+- a) nad diaľnicami a cestami pre motorové vozidlá ministerstvo,
 
-- b) nad cestami I. a II. triedy krajské úrady,
+- b) nad cestami I. triedy krajské úrady dopravy,
 
-- c) nad cestami III. triedy, miestnymi komunikáciami a účelovými komunikáciami okresné úrady.
+- c) nad cestami II. a III. triedy obvodné úrady dopravy,
+
+- d) nad miestnymi komunikáciami a účelovými komunikáciami obce.
 
 (2) Orgány štátneho odborného dozoru dbajú na zabezpečenie ochrany pozemných komunikácií a dozerajú, či sa dodržiavajú povinnosti a podmienky užívania pozemných komunikácií ustanovené týmto zákonom, predpismi vydanými na jeho vykonanie, ako aj opatrenia cestných správnych orgánov.
 
