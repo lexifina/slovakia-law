@@ -1,1 +1,0 @@
-- *) Odborný termín v mincovníctve, ak ide o použitie nápisu do kruhu na minciach, pečatiach a pod.
