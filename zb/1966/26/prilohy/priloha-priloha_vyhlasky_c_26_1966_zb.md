@@ -6,7 +6,7 @@ Príloha vyhlášky č. 26/1966 Zb.
 
 - Fakulta matematicko-fyzikálna doktor prírodovedy (RNDr.) | matematická logika algebra a teória čísiel geometria a topológia matematická analýza približné a numerické metódy pravdepodobnosť a matematická štatistika teoretická fyzika experimentálna fyzika aplikovaná fyzika astronómia astrofyzika geofyzika meteorológia a klimatológia teória vyučovania matematiky teória vyučovania fyziky
 
-- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | geológia hydrogeológia inžinierska geológia užitá geológia a užitá geofyzika geochémia mineralógia a petrografia paleontológia fyzický zemepis hospodársky zemepis regionálny zemepis kartografia anorganická chémia organická chémia analytická chémia fyzikálna chémia makromolekulárna chémia biochémia všeobecná biológia genetika fyziológia živočíchov fyziológia rastlín zoológia botanika - taxonómia rastlín hydrobiológia mikrobiológia parazitológia biofyzika antropológia teória vyučovania chémie teória vyučovania biológie
+- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | geológia hydrogeológia inžinierska geológia užitá geológia a užitá geofyzika geochémia mineralógia a petrografia paleontológia fyzický zemepis hospodársky zemepis regionálny zemepis kartografia anorganická chémia organická chémia analytická chémia fyzikálna chémia makromolekulárna chémia biochémia všeobecná biológia genetika fyziológia živočíchov fyziológia rastlín zoológia botanika - taxonómia rastlín hydrobiológia mikrobiológia parazitológia biofyzika antropológia teória vyučovania chémie teória vyučovania biológie entomológia
 
 - Fakulta filozofická doktor filozofie (PhDr.) | filozofia dejiny filozofie logika sociológia všeobecné dejiny československé dejiny archeológia pomocné historické vedy národopis všeobecná jazykoveda porovnávacia indoeurópska jazykoveda český jazyk slovenský jazyk jazykoveda slovanských jazykov jazykoveda germánskych jazykov jazykoveda jazykov Ázie a Afriky jazykoveda románskych jazykov jazykoveda jazykov ugrofínskych a balkánskych pedagogika teória vyučovania českého jazyka teória vyučovania ruského jazyka teória vyučovania českej literatúry teória vyučovania nemeckého jazyka teória vyučovania anglického jazyka teória vyučovania francúzskeho jazyka psychológia pedagogická psychológia estetika teória literatúry dejiny českej literatúry dejiny slovenskej literatúry dejiny slovanských literatúr dejiny germánskych a románskych literatúr dejiny latinskej a starej gréckej literatúry dejiny ugrofínskej literatúry dejiny balkánskej literatúry dejiny literatúry afrických a ázijských národov teória a dejiny hudby teória a dejiny výtvarných umení teória a dejiny divadla, filmu, rozhlasu a televízie
 
@@ -22,19 +22,19 @@ Príloha vyhlášky č. 26/1966 Zb.
 
 - Fakulta prírodovedecká doktor prírodovedy (RNDr.) | algebra a teória čísiel geometria matematická analýza približné a numerické metódy teoretická fyzika experimentálna fyzika meteorológia a klimatológia geológia mineralógia a petrografia paleontológia (zoopaleontológia) fyzický zemepis regionálny zemepis kartografia organická chémia analytická chémia fyzikálna chémia biochémia genetika fyziológia živočíchov fyziológia rastlín zoológia hydrobiológia mikrobiológia biofyzika teória vyučovania chémie teória vyučovania fyziky teória vyučovania biológie
 
-- Fakulta filozofická doktor filozofie (PhDr.) | filozofia dejiny filozofie logika sociológia všeobecné dejiny československé dejiny archeológia pomocné vedy historické národopis všeobecná jazykoveda porovnávacia indoeurópska jazykoveda český jazyk jazykoveda slovanských jazykov jazykoveda germánskych jazykov jazykoveda románskych jazykov psychológia estetika teória a dejiny českej literatúry teória a dejiny germánskych literatúr dejiny latinskej a starej gréckej literatúry teória a dejiny hudby teória a dejiny výtvarných umení teória a dejiny divadla, filmu, rozhlasu a televízie dejiny slovanských literatúr teória literatúry
+- Fakulta filozofická doktor filozofie (PhDr.) | filozofia dejiny filozofie logika sociológia všeobecné dejiny československé dejiny archeológia pomocné vedy historické národopis všeobecná jazykoveda porovnávacia indoeurópska jazykoveda český jazyk jazykoveda slovanských jazykov jazykoveda germánskych jazykov jazykoveda románskych jazykov psychológia estetika teória a dejiny českej literatúry teória a dejiny germánskych a románskych literatúr dejiny latinskej a starej gréckej literatúry teória a dejiny hudby teória a dejiny výtvarných umení teória a dejiny divadla, filmu, rozhlasu a televízie dejiny slovanských literatúr teória literatúry
 
 - Fakulta pedagogická doktor filozofie (PhDr.) | pedagogika
 
 - UNIVERZITA PALACKÉHO V OLOMOUCI |
 
-- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | geometria a topológia matematická analýza teoretická fyzika experimentálna fyzika aplikovaná fyzika teória vyučovania fyziky teória vyučovania biológie teória vyučovania zemepisu hydrogeológia užitá geológia a užitá geofyzika mineralógia a petrografia analytická chémia botanika
+- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | geometria a topológia matematická analýza teoretická fyzika experimentálna fyzika aplikovaná fyzika teória vyučovania fyziky teória vyučovania biológie teória vyučovania zemepisu mineralógia a petrografia analytická chémia botanika algebra a teória čísel organická chémia
 
 - Fakulta filozofická doktor filozofie (PhDr.) | všeobecné dejiny československé dejiny český jazyk jazykoveda slovanských jazykov teória vyučovania anglického jazyka teória vyučovania ruského jazyka pedagogika psychológia teória a dejiny českej literatúry teória a dejiny ruskej a sovietskej literatúry teória a dejiny germánskych a románskych literatúr teória a dejiny hudby teória a dejiny výtvarných umení
 
 - UNIVERZITA KOMENSKÉHO V BRATISLAVE |
 
-- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | algebra a teória čísiel geometria a topológia matematická analýza pravdepodobnosť a matematická štatistika teoretická fyzika experimentálna fyzika aplikovaná fyzika meteorológia a klimatológia geológia hydrogeológia inžinierska geológia užitá geológia a užitá geofyzika geochémia mineralógia a petrografia paleontológia regionálny zemepis anorganická chémia organická chémia analytická chémia fyzikálna chémia fyziológia rastlín zoológia botanika entomológia virológia parazitológia antropológia teória vyučovania fyziky teória vyučovania biológie teória vyučovania chémie
+- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | algebra a teória čísiel geometria a topológia matematická analýza pravdepodobnosť a matematická štatistika teoretická fyzika experimentálna fyzika aplikovaná fyzika meteorológia a klimatológia geológia hydrogeológia inžinierska geológia užitá geológia a užitá geofyzika geochémia mineralógia a petrografia paleontológia regionálny zemepis anorganická chémia organická chémia analytická chémia fyzikálna chémia fyziológia rastlín zoológia botanika entomológia virológia parazitológia antropológia teória vyučovania fyziky teória vyučovania biológie teória vyučovania chémie ekonomická geografia fyzická geografia genetika
 
 - Fakulta právnická doktor práv (JUDr.) | dejiny štátu a práva teória štátu a práva štátne právo správne právo a roľnícko-družstevné právo hospodárske právo a finančné právo pracovné právo občianske právo hmotné a občianske právo procesné trestné právo medzinárodné právo
 
@@ -48,10 +48,6 @@ Príloha vyhlášky č. 26/1966 Zb.
 
 - UNIVERZITA P. J. ŠAFÁRIKA V KOŠICIACH |
 
-- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | experimentálna fyzika aplikovaná fyzika všeobecná biológia
+- Fakulta prírodovedecká doktor prírodovedy (RNDr.) | experimentálna fyzika aplikovaná fyzika všeobecná biológia algebra a teória čísel geometria matematická analýza geofyzika
 
-- Fakulta filozofická v Prešove doktor filozofie (PhDr.) | filozofia slovenský jazyk
-
-- VYSOKÁ ŠKOLA POLITICKÁ ÚV KSČ V PRAHE |
-
-- doktor filozofie (PhDr.) | filozofia dejiny filozofie sociológia všeobecné dejiny (pre úsek medzinárodného robotníckeho hnutia) československé dejiny (pre úsek dejín KSČ)
+- Fakulta filozofická v Prešove doktor filozofie (PhDr.) | filozofia slovenský jazyk jazykoveda slovanských jazykov: ukrajinský jazyk dejiny slovenskej literatúry dejiny slovanských literatúr: ruská literatúra, ukrajinská literatúra pedagogika
