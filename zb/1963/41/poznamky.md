@@ -1,1 +1,0 @@
-- *) Vládne uznesenie zo 16. mája 1962 č. 363, ktorým sa schvaľujú Smernice pre realizáciu navrhnutého riešenia územného plánurajónu Krkonôš.
