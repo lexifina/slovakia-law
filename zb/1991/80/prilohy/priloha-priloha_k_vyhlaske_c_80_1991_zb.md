@@ -310,17 +310,9 @@ Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor | Vysvetlivky | Kód zodpov
 
 26 | ELEKTROTECHNIKA | | |
 
-26-56-6 | obrazová a zvuková technika | | 26-60-6 časť | elektronické a oznamovacie zariadenia
+26-2-6 | Silnoprúdová A, V elektrotechnika | | 26-61-6 | zariadenia silnoprúdovej elektrotechniky
 
-26-60-6 | elektronické a oznamovacie zariadenia | A, V | 26-60-6 | elektronické a oznamovacie zariadenia
-
-26-61-6 | zariadenia silnoprúdovej elektrotechniky | A, V | 26-61-6 | zariadenia silnoprúdovej elektrotechniky
-
-26-66-6 | automatizačná technika | V | 26-66-6 | automatizačná technika
-
-26-67-6 | technológia mikroelektroniky | | 26-30-6 | mikroelektronika
-
-26-69-6 | elektronické počítačové systémy | | 26-60-6 | elektronické a oznamovacie zariadenia
+26-63-6 | slaboprúdová A, V elektrotechnika | | 26-56-6 26-60-6 26-66-6 26-67-6 26-69-6 | obrazová a zvuková technika elektrotechnické a oznamovacie zariadenia automatizačná technika technológia mikroelektroniky elektrotechnické počítačové systémy
 
 27 | TECHNICKÁ CHÉMIA SILIKÁTOV | | |
 
@@ -410,6 +402,8 @@ Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor | Vysvetlivky | Kód zodpov
 
 37-46-6 | spojová technika | | 37-46-6 | spojová technika
 
+39-17-6 | technické a informatické služby | | |
+
 42 | POĽNOHOSPODÁRSTVO A LESNÉ HOSPODÁRSTVO | | |
 
 42-11-6 | záhradníctvo | A | 42-11-6 | záhradníctvo
@@ -440,29 +434,35 @@ Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor | Vysvetlivky | Kód zodpov
 
 53 | ZDRAVOTNÍCTVO | | |
 
-53-01-6 | zdravotná sestra | E | 53-01-6 | zdravotná sestra
+53-01-6 | zdravotná sestra | E, K | 53-01-6 | zdravotná sestra
 
-53-02-6 | detská sestra | D, E | 53-02-6 | detská sestra
+53-02-6 | detská sestra | D, E, K | 53-02-6 | detská sestra
 
 53-03-6 | ženská sestra | PMŠ, D, E | 53-03-6 | ženská sestra
 
-53-04-6 | diétna sestra | | 53-04-6 | diétna sestra
+53-04-6 | diétna sestra | K, E | 53-04-6 | diétna sestra
 
 53-06-6 | rehabilitačný pracovník | PMŠ, E | 53-06-6 | rehabilitačný pracovník
 
 53-07-6 | asistent hygienickej služby | PMŠ | 53-07-6 | asistent hygienickej služby
 
-53-08-6 | zdravotnícky laborant | | 53-08-6 | zdravotnícky laborant
+53-08-6 | zdravotnícky laborant | K | 53-08-6 | zdravotnícky laborant
 
 53-09-6 | rádiologický laborant | PMŠ, E | 53-09-6 | rádiologický laborant
 
-53-10-6 | zubný technik | | 53-10-6 | zubný laborant
+53-10-6 | zubný technik | PMŠ, E | 53-10-6 | zubný laborant
 
-53-11-6 | farmaceutický laborant | | 53-11-6 | fermaceutický laborant
+53-11-6 | farmaceutický laborant | K | 53-11-6 | fermaceutický laborant
 
-53-12-6 | očný optik | PMŠ | 53-12-6 | očný optik
+53-12-6 | očný optik | PMŠ, E | 53-12-6 | očný optik
 
 53-14-6 | ortopedický protetik | PMŠ | 53-14-6 | ortopedický protetik
+
+53-71-2 | zdravotnícky záchranár | PMŠ, Ch, E | - | -
+
+55-70-2 | masér | | - | -
+
+55-71-2 | sanitár | F | - | -
 
 63 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | | |
 
@@ -470,11 +470,17 @@ Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor | Vysvetlivky | Kód zodpov
 
 63-41-6 | obchodná akadémia | | 63-04-6 63-05-6 63-07-6 63-33-6 | ekonomika obchodu a služieb ekonomika poľnohospodárstva a výživy zahraničný obchod organizácia administratívy
 
-| hotelová škola | A, G | 63-16-6 | prevádzka hotelov a spoločného stravovania
+| hotelová akadémia | A, G | 63-16-6 63-17-6/01 63-17-6/02 63-17-6/03 | prevádzka hotelov a spoločného stravovania
 
 63-06-6 | výpočtová technika a spracovanie informácií | PMŠ | 63-06-6 | výpočtová technika a spracovanie informácií
 
 63-14-6 | cestovný ruch | PMŠ | 63-14-6 | cestovný ruch
+
+63-47-2 | odborná škola | F | - | -
+
+63-52-6 | obchod a podnikanie | D | - | -
+
+63-53-3 | služby a domáce hospodárstvo | D, H | - | -
 
 68 | PRÁVNE VEDY | | |
 
@@ -491,6 +497,8 @@ Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor | Vysvetlivky | Kód zodpov
 76-41-6 | vychovávateľstvo | E | 76-41-6 | vychovávateľstvo
 
 76-43-6 | kultúrnovýchovná činnosť | | 76-43-6 | kultúrnovýchovná činnosť
+
+76-45-3 | opatrovateľka | D, H | - | -
 
 82 | UMENIE, ÚŽITKOVÉ UMENIE A RUČNÁ UMELECKOREMESELNÁ VÝROBA | | |
 
@@ -540,6 +548,18 @@ Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor | Vysvetlivky | Kód zodpov
 
 82-49-6 | tvarovanie dreva a rezbárstvo | | 82-49-6 | tvarovanie dreva a rezbárstvo
 
+82-38-6 | ručné výtvarné spracovanie textílií | | - | -
+
+82-29-7,6/09 | cirkevná hudba | | - | -
+
+82-29-7,6/03 | hra na ľudových hudobných nástrojoch: husliach, viole, violončele, kontrabase, cimbale, gitare, spev | | - | -
+
+82-50-6 | čalúnnictvo a dekoratérstvo | | - | -
+
+82-32-6-01 | výstavníctvo | | - | -
+
+82-32-6-02 | propagačná grafika | | - | -
+
 Vysvetlivky:
 
 CH - do tohto študijného odboru sa prijímajú len chlapci
@@ -557,6 +577,10 @@ E - v týchto študijných odboroch nemožno študovať externou formou štúdia
 F - štúdium v tomto študijnom odbore je dvojročné
 
 G - štúdium v tomto študijnom odbore je trojročné a päťročné
+
+H - štúdium v tomto študijnom odbore je trojročné
+
+K - pomaturitné štúdium v tomto odbore je dvojročné
 
 ODDIEL D
 
@@ -620,13 +644,15 @@ Kód | SKUPINA ŠTUDIJNÝCH ODBOROV Študijný odbor Zameranie študijného odbo
 
 28 | OSTATNÁ TECHNICKÁ CHÉMIA | |
 
-28-57-4 | Spracúvanie kaučuku a plastov | 28-57-4 |
+28-57-4 | spracúvanie kaučuku a plastov | 28-57-4 |
 
-01 | chemicko-technologické procesy | 28-58-4/01 |
+28-58-4 | priemyselná chémia | |
 
-02 | farmaceutickú výrobu | 28-58-4/02 |
+01 | chemickotechnologické procesy | 28-58-4/01 |
 
-03 | výrobu a spracúvanie papiera | 28-58-4/03 |
+02 | farmaceutická výroba | 28-58-4/02 |
+
+03 | výroba a spracúvanie papiera | 28-58-4/03 |
 
 29 | POTRAVINÁRSTVO | |
 
@@ -746,583 +772,577 @@ III. V študijných odboroch, ktoré majú v časti I stĺpci 4 tohto oddielu oz
 
 ODDIEL E
 
-I. Sústava skupín učebných odborov, učebných odborov a zameraní učebných odborov v stredných odborných učilištiach, ktorých denné štúdium trvá 3 roky alebo 3 roky a 4 mesiace
+I. Sústava skupín učebných odborov, učebných odborov a zameraní učebných odborov v stredných odborných učilištiach, ktorých denné štúdium trvá 3 roky.
 
-Kód | SKUPINA UČEBNÝCH ODBOROV Učebný odbor Zameranie učebného odboru na: | Určený pre chlapcov -CH, dievčatá -D | Najvyšší počet žiakov na jedného majstra odbornej výchovy | | Dĺžka denného štúdia spolu | | Kód zodpovedajúcich učebných odborov a ich zameraní podľa doterajších predpisov | Kód študijného odboru pre absolventov učebných odborov uvedených v tomto oddiele<sup>1</sup>)
+Kód | SKUPINA UČEBNÝCH ODBOROV Učebný odbor Zameranie učebného odboru na: | Určený pre chlapcov -CH, dievčatá -D | Najvyšší počet žiakov na jedného majstra odbornej výchovy | | Kód zodpovedajúcich učebných odborov a ich zameraní podľa doterajších predpisov | Kód študijného odboru pre absolventov učebných odborov uvedených v tomto oddiele<sup>1</sup>)
 
-| | | 1. roč. | 2. a 3. roč. | rokov | mesiacov | |
+| | | 1. roč. | 2. a 3. roč. | |
 
-1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+1 | 2 | 3 | 4 | 5 | 6 | 7
 
-22 | HUTNÍCTVO | | | | | | |
+22 | HUTNÍCTVO | | | | |
 
-22-75-2 | Hutník | | | | | | |
+22-75-2 | Hutník | | | | |
 
-01 | výrobu koksu | CH | 12 | 8 | 3 | 4 | 22-75-2/01 | 22-35-4 V24-17-4
+01 | výrobu koksu | CH | 12 | 8 | 22-75-2/01 | 22-35-4 V24-17-4
 
-02 | výrobu železných kovov | CH | 12 | 8 | 3 | 4 | 22-75-2/02 | 22-35-4
+02 | výrobu železných kovov | CH | 12 | 8 | 22-75-2/02 | 22-35-4
 
-03 | výrobu neželezných kovov | CH | 12 | 8 | 3 | 4 | 22-75-2/03 | 22-35-4
+03 | výrobu neželezných kovov | CH | 12 | 8 | 22-75-2/03 | 22-35-4
 
-04 | tvárnenie kovov | CH | 12 | 8 | 3 | 4 | 22-75-2/04 | 22-35-4 24-14-4/03 V24-17-4
+04 | tvárnenie kovov | CH | 12 | 8 | 22-75-2/04 | 22-35-4 24-14-4/03 V24-17-4
 
-24 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA | | | | | | |
+24 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA | | | | |
 
-24-01-2 | Zlievač | CH | 12 | 12 | 3 | 4 | 24-01-2 | 22-35-4 24-14-4/03 V24-17-4
+24-01-2 | Zlievač | CH | 12 | 12 | 24-01-2 | 22-35-4 24-14-4/03 V24-17-4
 
-24-23-2 | Nástrojár Nástrojárka | CH, D | 12 | 12 | 3 | 4 | 24-23-2 | 24-14-4/01 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
+24-23-2 | Nástrojár Nástrojárka | CH, D | 12 | 12 | 24-23-2 | 24-14-4/01 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
 
-24-33-2 | Obrábač kovov Obrábačka kovov | | | | | | |
+24-33-2 | Obrábač kovov Obrábačka kovov | | | | |
 
-01 | univerzálne obrábanie | CH, D | 12 | 12 | 3 | 4 | 24-33-2/01 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
+01 | univerzálne obrábanie | CH, D | 12 | 12 | 24-33-2/01 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
 
-02 | sústruženie | CH,D | 12 | 12 | 3 | 4 | 24-33-2/02 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
+02 | sústruženie | CH,D | 12 | 12 | 24-33-2/02 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
 
-03 | frézovanie | CH,D | 12 | 12 | 3 | 4 | 24-33-2/03 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
+03 | frézovanie | CH,D | 12 | 12 | 24-33-2/03 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
 
-04 | brúsenie | CH,D | 12 | 12 | 3 | 4 | 24-33-2/04 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
+04 | brúsenie | CH,D | 12 | 12 | 24-33-2/04 | 24-14-4/02 V24-17-4 V37-57-4/01 V37-57-4/02
 
-24-34-2 | Strojný kováč | CH | 12 | 12 | 3 | 4 | 24-34-2 | 24-14-4/01 V24-17-4 V37-57-4/01 V37-57-4/02
+24-34-2 | Strojný kováč | CH | 12 | 12 | 24-34-2 | 24-14-4/01 V24-17-4 V37-57-4/01 V37-57-4/02
 
-24-35-2 | Klampiar | | | | | | |
+24-35-2 | Klampiar | | | | |
 
-01 | strojársku výrobu | CH | 12 | 12 | 3 | 4 | 24-35-2/01 | 24-14-4/01 24-14-4/03 V24-17-4 V37-57-4/01 V37-57-4/02
+01 | strojársku výrobu | CH | 12 | 12 | 24-35-2/01 | 24-14-4/01 24-14-4/03 V24-17-4 V37-57-4/01 V37-57-4/02
 
-02 | stavebnú výrobu | CH | 12 | 12<sup>2</sup>) | 3 | 4 | 24-35-2/02 | 24-14-4/01 24-14-4/03 36-59-4/01 V24-17-4 V37-57-4/01 V37-57-4/02
+02 | stavebnú výrobu | CH | 12 | 12<sup>2</sup>) | 24-35-2/02 | 24-14-4/01 24-14-4/03 36-59-4/01 V24-17-4 V37-57-4/01 V37-57-4/02
 
-24-36-2 | Modelár Modelárka | CH,D | 12 | 12 | 3 | 4 | 24-36-2 | 24-14-4/02 24-14-4/03 33-43-4/01 V24-17-4
+24-36-2 | Modelár Modelárka | CH,D | 12 | 12 | 24-36-2 | 24-14-4/02 24-14-4/03 33-43-4/01 V24-17-4
 
-24-39-2 | Lakovník Lakovníčka | CH,D | 12 | 12 | 3 | 4 | 24-39-2 | 64-01-4/01 V36-59-4/01 V36-59-4/02
+24-39-2 | Lakovník Lakovníčka | CH,D | 12 | 12 | 24-39-2 | 64-01-4/01 V36-59-4/01 V36-59-4/02
 
-24-40-2 | Optik Optička | | | | | | |
+24-40-2 | Optik Optička | | | | |
 
-01 | prístrojovú techniku | CH,D | 12 | 12 | 3 | 4 | 24-40-2/01 | 24-14-4/01 27-33-4/03 V24-17-4
+01 | prístrojovú techniku | CH,D | 12 | 12 | 24-40-2/01 | 24-14-4/01 27-33-4/03 V24-17-4
 
-02 | okuliarovú optiku | CH,D | 12 | 12 | 3 | 4 | 24-40-2/02 | 24-14-4/01 27-33-4/03 V24-17-4
+02 | okuliarovú optiku | CH,D | 12 | 12 | 24-40-2/02 | 24-14-4/01 27-33-4/03 V24-17-4
 
-24-61-2 | Mechanik optických prístrojov Mechanička optických prístrojov | CH,D | 12 | 12 | 3 | 4 | 24-61-2 | 24-14-4/01 V24-17-4
+24-61-2 | Mechanik optických prístrojov Mechanička optických prístrojov | CH,D | 12 | 12 | 24-61-2 | 24-14-4/01 V24-17-4
 
-24-63-2 | Hodinár Hodinárka | CH,D | 12 | 7 | 3 | 4 | 24-63-2 | 24-14-4/01 26-75-4/03 V24-17-4 V26-75-4/02
+24-63-2 | Hodinár Hodinárka | CH,D | 12 | 7 | 24-63-2 | 24-14-4/01 26-75-4/03 V24-17-4 V26-75-4/02
 
-24-64-2 | Strojný mechanik Strojná mechanička | | | | | | |
+24-64-2 | Strojný mechanik Strojná mechanička | | | | |
 
-01 | stroje a zariadenia | CH,D | 12 | 12 | 3 | 4 | 24-64-2/01 | 24-14-4/01 24-16-4 24-17-4 V37-57-4/01 V37-57-4/02
+01 | stroje a zariadenia | CH,D | 12 | 12 | 24-64-2/01 | 24-14-4/01 24-16-4 24-17-4 V37-57-4/01 V37-57-4/02
 
-02 | oceľové konštrukcie | CH | 12 | 12 | 3 | 4 | 24-64-2/02 | 24-14-4/01 V24-17-4 V37-57-4/01 V37-57-4/02
+02 | oceľové konštrukcie | CH | 12 | 12 | 24-64-2/02 | 24-14-4/01 V24-17-4 V37-57-4/01 V37-57-4/02
 
-03 | výrobu a montáž potrubia | CH | 12 | 12 | 3 | 4 | 24-64-2/03 | 24-14-4/01 24-17-4
+03 | výrobu a montáž potrubia | CH | 12 | 12 | 24-64-2/03 | 24-14-4/01 24-17-4
 
-04 | výrobu a montáž kotlov | CH | 12 | 12 | 3 | 4 | 24-64-2/04 | 24-14-4/01 24-17-4
+04 | výrobu a montáž kotlov | CH | 12 | 12 | 24-64-2/04 | 24-14-4/01 24-17-4
 
-05 | okuliarovú výrobu | CH,D | 12 | 12 | 3 | 4 | 24-64-2/05 | 24-14-4/01 27-33-4/03 V24-17-4
+05 | okuliarovú výrobu | CH,D | 12 | 12 | 24-64-2/05 | 24-14-4/01 27-33-4/03 V24-17-4
 
-06 | traťové montáže | CH | 12 | 12 | 3 | 4 | 24-64-2/06 | 24-14-4/01 24-17-4 V37-57-4/02
+06 | traťové montáže | CH | 12 | 12 | 24-64-2/06 | 24-14-4/01 24-17-4 V37-57-4/02
 
-24-65-2 | Strojník Strojníčka | | | | | | |
+24-65-2 | Strojník Strojníčka | | | | |
 
-01 | vrtné súpravy | CH | 12 | 15 | 3 | 4 | 24-65-2/01 | 24-17-4 V37-57-4/01 V37-57-4/02
+01 | vrtné súpravy | CH | 12 | 15 | 24-65-2/01 | 24-17-4 V37-57-4/01 V37-57-4/02
 
-02 | hutnícku druhovýrobu kovov | CH,D | 12 | 10 | 3 | 4 | 24-65-2/02 | 24-17-4
+02 | hutnícku druhovýrobu kovov | CH,D | 12 | 10 | 24-65-2/02 | 24-17-4
 
-03 | energetické zariadenia | CH,D | 12 | 10 | 3 | 4 | 24-65-2/03 | 24-17-4 26-75-4/01 V26-75-4/02 V26-75-4/03 V37-57-4/01 V37-57-4/02
+03 | energetické zariadenia | CH,D | 12 | 10 | 24-65-2/03 | 24-17-4 26-75-4/01 V26-75-4/02 V26-75-4/03 V37-57-4/01 V37-57-4/02
 
-04 | výrobu stavebných látok | CH,D | 12 | 10 | 3 | 4 | 24-65-2/04 | 24-17-4 V36-59-4/01 V36-59-4/02
+04 | výrobu stavebných látok | CH,D | 12 | 10 | 24-65-2/04 | 24-17-4 V36-59-4/01 V36-59-4/02
 
-05 | duté sklo | CH | 12 | 12 | 3 | 4 | 24-65-2/05 | 24-17-4 27-33-4/01
+05 | duté sklo | CH | 12 | 12 | 24-65-2/05 | 24-17-4 27-33-4/01
 
-06 | ploché sklo | CH | 12 | 10 | 3 | 4 | 24-65-2/06 | 24-17-4 27-33-4/01
+06 | ploché sklo | CH | 12 | 10 | 24-65-2/06 | 24-17-4 27-33-4/01
 
-07 | výrobu krmív a úpravu plodín | CH,D | 12 | 12 | 3 | 4 | 24-65-2/07 | 24-17-4
+07 | výrobu krmív a úpravu plodín | CH,D | 12 | 12 | 24-65-2/07 | 24-17-4
 
-08 | drevárske polovýrobky | CH,D | 12 | 15 | 3 | 4 | 24-65-2/08 | 24-17-4 33-42-4 V36-59-4/01 V36-59-4/02
+08 | drevárske polovýrobky | CH,D | 12 | 15 | 24-65-2/08 | 24-17-4 33-42-4 V36-59-4/01 V36-59-4/02
 
-09 | konštrukčné dosky | CH,D | 12 | 15 | 3 | 4 | 24-65-2/09 | 24-17-4 33-42-4
+09 | konštrukčné dosky | CH,D | 12 | 15 | 24-65-2/09 | 24-17-4 33-42-4
 
-10 | stavebné stroje | CH | 12 | 12 | 3 | 4 | 24-65-2/10 | 24-17-4 V36-59-4/01 V36-59-4/02 V37-57-4/01 V37-57-4/02
+10 | stavebné stroje | CH | 12 | 12 | 24-65-2/10 | 24-17-4 V36-59-4/01 V36-59-4/02 V37-57-4/01 V37-57-4/02
 
-11 | vodohospodárske zariadenia | CH | 17 | 12 | 3 | 4 | 24-65-2/11 | 24-17-4 36-60-4
+11 | vodohospodárske zariadenia | CH | 17 | 12 | 24-65-2/11 | 24-17-4 36-60-4
 
-12 | traťové stroje | CH | 12 | 12 | 3 | 4 | 24-65-2/12 | 24-17-4 V37-57-4/01 V37-57-4/02
+12 | traťové stroje | CH | 12 | 12 | 24-65-2/12 | 24-17-4 V37-57-4/01 V37-57-4/02
 
-13 | lodnú dopravu | CH | 12 | 12 | 3 | 4 | 24-65-2/13 | 24-17-4 37-57-4/03 V37-57-4/01 V37-57-4/02
+13 | lodnú dopravu | CH | 12 | 12 | 24-65-2/13 | 24-17-4 37-57-4/03 V37-57-4/01 V37-57-4/02
 
-14 | výrobu papiera | CH,D | 12 | 12 | 3 | 4 | 24-65-2/14 | 24-17-4 28-58-4/03
+14 | výrobu papiera | CH,D | 12 | 12 | 24-65-2/14 | 24-17-4 28-58-4/03
 
-15 | spracúvanie papiera | CH,D | 12 | 12 | 3 | 4 | 24-65-2/15 | 24-17-4 28-58-4/03
+15 | spracúvanie papiera | CH,D | 12 | 12 | 24-65-2/15 | 24-17-4 28-58-4/03
 
-16 | banské úpravne | CH | 17 | 12 | 3 | 4 | 24-65-2/16 | 24-17-4
+16 | banské úpravne | CH | 17 | 12 | 24-65-2/16 | 24-17-4
 
-24-66-2 | Mechanik opravár Mechanička opravárka | | | | | | |
+24-66-2 | Mechanik opravár Mechanička opravárka | | | | |
 
-01 | plynárenské zariadenia | CH | 12 | 12 | 3 | 4 | 24-66-2/01 | 24-14-4/01 24-15-4 24-17-4
+01 | plynárenské zariadenia | CH | 12 | 12 | 24-66-2/01 | 24-14-4/01 24-15-4 24-17-4
 
-02 | stroje a zariadenia | CH,D | 12 | 12 | 3 | 4 | 24-66-2/02 | 24-14-4/01 24-16-4 24-17-4 34-54-4 V37-57-4/01 V37-57-4/02
+02 | stroje a zariadenia | CH,D | 12 | 12 | 24-66-2/02 | 24-14-4/01 24-16-4 24-17-4 34-54-4 V37-57-4/01 V37-57-4/02
 
-03 | požiarnu techniku | CH | 12 | 12 | 3 | 4 | 24-66-2/03 | 24-14-4/01 24-16-4 24-17-4
+03 | požiarnu techniku | CH | 12 | 12 | 24-66-2/03 | 24-14-4/01 24-16-4 24-17-4
 
-04 | lesné stroje a zariadenia | CH | 12 | 10 | 3 | 4 | 24-66-2/04 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
+04 | lesné stroje a zariadenia | CH | 12 | 10 | 24-66-2/04 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
 
-05 | poľnohospodársku techniku rastlinnej výroby | CH | 12 | 10 | 3 | 4 | 24-66-2/05 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
+05 | poľnohospodársku techniku rastlinnej výroby | CH | 12 | 10 | 24-66-2/05 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
 
-06 | poľnohospodársku techniku živočíšnej výroby | CH | 12 | 10 | 3 | 4 | 24-66-2/06 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
+06 | poľnohospodársku techniku živočíšnej výroby | CH | 12 | 10 | 24-66-2/06 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
 
-07 | cukrovary a škrobárne | CH,D | 12 | 12 | 3 | 4 | 24-66-2/07 | 24-14-4/01 24-17-4
+07 | cukrovary a škrobárne | CH,D | 12 | 12 | 24-66-2/07 | 24-14-4/01 24-17-4
 
-08 | renováciu poľnohospodárskej techniky a kováčstvo | CH | 12 | 12 | 3 | 4 | 24-66-2/08 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
+08 | renováciu poľnohospodárskej techniky a kováčstvo | CH | 12 | 12 | 24-66-2/08 | 24-14-4/01 24-17-4 45-26-4 V37-57-4/01 V37-57-4/02
 
-09 | cestné motorové vozidlá | CH,D | 12 | 10 | 3 | 4 | 24-66-2/09 | 24-14-4/01 24-16-4 24-17-4 37-57-4/01
+09 | cestné motorové vozidlá | CH,D | 12 | 10 | 24-66-2/09 | 24-14-4/01 24-16-4 24-17-4 37-57-4/01
 
-10 | koľajové vozidlá | CH | 12 | 12 | 3 | 4 | 24-66-2/10 | 24-14-4/01 24-17-4 V37-57-4/02
+10 | koľajové vozidlá | CH | 12 | 12 | 24-66-2/10 | 24-14-4/01 24-17-4 V37-57-4/02
 
-11 | lietadlá | CH | 12 | 12 | 3 | 4 | 24-66-2/11 | 24-14-4/01 V24-17-4
+11 | lietadlá | CH | 12 | 12 | 24-66-2/11 | 24-14-4/01 V24-17-4
 
-12 | banské stroje a zariadenia | CH | 17 | 13 | 3 | 4 | 21-70-2 | 21-53-4
+12 | banské stroje a zariadenia | CH | 17 | 13 | 21-70-2 | 21-53-4
 
-24-67-2 | Úpravár kovov | | | | | | |
+24-67-2 | Úpravár kovov | | | | |
 
-01 | tepelné spracúvanie | CH | 12 | 12 | 3 | 4 | 24-67-2/01 | 24-14-4/03 V24-17-4
+01 | tepelné spracúvanie | CH | 12 | 12 | 24-67-2/01 | 24-14-4/03 V24-17-4
 
-02 | pokovovanie | CH | 12 | 12 | 3 | 4 | 24-67-2/02 | 24-14-4/03 V24-17-4
+02 | pokovovanie | CH | 12 | 12 | 24-67-2/02 | 24-14-4/03 V24-17-4
 
-24-68-2 | Nastavovač textilných strojov Nastavovačka textilných strojov | | | | | | |
+24-68-2 | Nastavovač textilných strojov Nastavovačka textilných strojov | | | | |
 
-01 | tkáčovne | CH,D | 12 | 12 | 3 | 4 | 24-68-2/01 | 31-39-4/01 V24-17-4
+01 | tkáčovne | CH,D | 12 | 12 | 24-68-2/01 | 31-39-4/01 V24-17-4
 
-02 | pradiarne | CH,D | 12 | 12 | 3 | 4 | 24-68-2/02 | 31-39-4/01 V24-17-4
+02 | pradiarne | CH,D | 12 | 12 | 24-68-2/02 | 31-39-4/01 V24-17-4
 
-03 | pletiarne | CH,D | 12 | 12 | 3 | 4 | 24-68-4/03 | 31-39-4/01 V24-17-4
+03 | pletiarne | CH,D | 12 | 12 | 24-68-4/03 | 31-39-4/01 V24-17-4
 
-24-85-2 | Rytec kovov Rytkyňa kovov | | | | | | |
+24-85-2 | Rytec kovov Rytkyňa kovov | | | | |
 
-01 | tlačiace a raziace valce | CH,D | 12 | 7 | 3 | 4 | 24-85-2/01 | 24-14-4/02 V24-17-4
+01 | tlačiace a raziace valce | CH,D | 12 | 7 | 24-85-2/01 | 24-14-4/02 V24-17-4
 
-02 | nástroje a znaky | CH,D | 12 | 7 | 3 | 4 | 24-85-2/02 | 24-14-4/01 24-14-4/02 64-01-4/02 V24-17-4
+02 | nástroje a znaky | CH,D | 12 | 7 | 24-85-2/02 | 24-14-4/01 24-14-4/02 64-01-4/02 V24-17-4
 
-26 | ELEKTROTECHNIKA A TELEKOMUNIKÁCIE | | | | | | |
+26 | ELEKTROTECHNIKA A TELEKOMUNIKÁCIE | | | | |
 
-26-80-2 | Mechanik Mechanička | | | | | | |
+26-80-2 | Mechanik Mechanička | | | | |
 
-01 | vážiace zariadenia | CH,D | 12 | 12 | 3 | 4 | 26-80-2/01 | 24-14-4/01 26-75-4/03 V24-17-4 V26-75-4/02
+01 | vážiace zariadenia | CH,D | 12 | 12 | 26-80-2/01 | 24-14-4/01 26-75-4/03 V24-17-4 V26-75-4/02
 
-02 | zdvíhacie zariadenia | CH | 12 | 10 | 3 | 4 | 26-80-2/02 | 24-14-4/01 26-75-4/02 V24-17-4 V26-75-4/03 V36-59-4/01 V37-57-4/01 V37-57-4/02
+02 | zdvíhacie zariadenia | CH | 12 | 10 | 26-80-2/02 | 24-14-4/01 26-75-4/02 V24-17-4 V26-75-4/03 V36-59-4/01 V37-57-4/01 V37-57-4/02
 
-03 | chladiace zariadenia | CH,D | 12 | 12 | 3 | 4 | 26-80-2/03 | 24-14-4/01 26-75-4/02 V24-17-4 V26-75-4/03 V37-57-4/01 V37-57-4/02
+03 | chladiace zariadenia | CH,D | 12 | 12 | 26-80-2/03 | 24-14-4/01 26-75-4/02 V24-17-4 V26-75-4/03 V37-57-4/01 V37-57-4/02
 
-04 | stroje a zariadenia | CH,D | 12 | 12 | 3 | 4 | 26-80-2/04 | 24-14-4/01 26-75-4/02 V24-17-4 V26-75-4/03 V37-57-4/01 V37-57-4/02
+04 | stroje a zariadenia | CH,D | 12 | 12 | 26-80-2/04 | 24-14-4/01 26-75-4/02 V24-17-4 V26-75-4/03 V37-57-4/01 V37-57-4/02
 
-05 | elektrotechniku | CH,D | 12 | 12 | 3 | 4 | 26-80-2/05 | 24-14-4/01 26-75-4/02 26-75-4/03 V24-17-4
+05 | elektrotechniku | CH,D | 12 | 12 | 26-80-2/05 | 24-14-4/01 26-75-4/02 26-75-4/03 V24-17-4
 
-06 | meriace prístroje a zariadenia | CH,D | 12 | 12 | 3 | 4 | 26-80-2/06 | 24-14-4/01 26-75-4/02 26-75-4/03 V24-17-4
+06 | meriace prístroje a zariadenia | CH,D | 12 | 12 | 26-80-2/06 | 24-14-4/01 26-75-4/02 26-75-4/03 V24-17-4
 
-07 | administratívnu techniku | CH,D | 12 | 12 | 3 | 4 | 26-80-2/07 | 24-14-4/01 26-75-4/02 26-75-4/03 V24-17-4
+07 | administratívnu techniku | CH,D | 12 | 12 | 26-80-2/07 | 24-14-4/01 26-75-4/02 26-75-4/03 V24-17-4
 
-26-83-2 | Elektromechanik Elektromechanička | | | | | | |
+26-83-2 | Elektromechanik Elektromechanička | | | | |
 
-01 | banské stroje a zariadenia | CH | 12 | 10 | 3 | 4 | 26-83-2/01 | 21-53-4 26-75-4/01 26-75-4/02 V26-75-4/03
+01 | banské stroje a zariadenia | CH | 12 | 10 | 26-83-2/01 | 21-53-4 26-75-4/01 26-75-4/02 V26-75-4/03
 
-02 | oznamovacie a zabezpečovacie zariadenia | CH,D | 12 | 10 | 3 | 4 | 26-83-2/02 | 26-75-4/03 26-76-4 V26-75-4/02
+02 | oznamovacie a zabezpečovacie zariadenia | CH,D | 12 | 10 | 26-83-2/02 | 26-75-4/03 26-76-4 V26-75-4/02
 
-03 | rozvodné zariadenia | CH,D | 12 | 10 | 3 | 4 | 26-83-2/03 | 26-75-4/01 26-75-4/02 V26-75-4/03
+03 | rozvodné zariadenia | CH,D | 12 | 10 | 26-83-2/03 | 26-75-4/01 26-75-4/02 V26-75-4/03
 
-04 | stroje a zariadenia | CH,D | 12 | 10 | 3 | 4 | 26-83-2/04 | 26-75-4/01 26-75-4/02
+04 | stroje a zariadenia | CH,D | 12 | 10 | 26-83-2/04 | 26-75-4/01 26-75-4/02
 
-26-86-2 | Mechanik elektronických zariadení Mechanička elektronických zariadení | CH,D | 12 | 10 | 3 | 4 | 26-86-2 | 26-75-4/03 V26-76-4
+26-86-2 | Mechanik elektronických zariadení Mechanička elektronických zariadení | CH,D | 12 | 10 | 26-86-2 | 26-75-4/03 V26-76-4
 
-26-89-2 | Spojový mechanik Spojová mechanička | | | | | | |
+26-89-2 | Spojový mechanik Spojová mechanička | | | | |
 
-01 | oznamovacie siete | CH | 12 | 10 | 3 | 4 | 26-89-2/01 | 26-75-4/03 26-76-4 V26-75-4/02
+01 | oznamovacie siete | CH | 12 | 10 | 26-89-2/01 | 26-75-4/03 26-76-4 V26-75-4/02
 
-02 | spojovacie zariadenia | CH,D | 12 | 10 | 3 | 4 | 26-89-2/02 | 26-75-4/03 26-76-4 V26-75-4/02
+02 | spojovacie zariadenia | CH,D | 12 | 10 | 26-89-2/02 | 26-75-4/03 26-76-4 V26-75-4/02
 
-27 | TECHNICKÁ CHÉMIA SILIKÁTOV | | | | | | |
+27 | TECHNICKÁ CHÉMIA SILIKÁTOV | | | | |
 
-27-35-2 | Keramik Keramička | | | | | | |
+27-35-2 | Keramik Keramička | | | | |
 
-01 | porcelán a keramiku | CH,D | 17 | 12 | 3 | 4 | 27-35-2/01 | 27-31-4 64-01-4/02
+01 | porcelán a keramiku | CH,D | 17 | 12 | 27-35-2/01 | 27-31-4 64-01-4/02
 
-02 | stavebnú a žiaruvzdornú keramiku | CH,D | 17 | 10 | 3 | 4 | 27-35-2/02 | 27-31-4
+02 | stavebnú a žiaruvzdornú keramiku | CH,D | 17 | 10 | 27-35-2/02 | 27-31-4
 
-03 | brúsiace prostriedky | CH,D | 17 | 10 | 3 | 4 | 27-35-2/03 | 27-31-4
+03 | brúsiace prostriedky | CH,D | 17 | 10 | 27-35-2/03 | 27-31-4
 
-04 | elektrokeramiku | CH,D | 17 | 10 | 3 | 4 | 27-35-2/04 | 27-31-4
+04 | elektrokeramiku | CH,D | 17 | 10 | 27-35-2/04 | 27-31-4
 
-05 | modelovanie | CH,D | 17 | 12 | 3 | 4 | 27-35-2/05 | 27-31-4
+05 | modelovanie | CH,D | 17 | 12 | 27-35-2/05 | 27-31-4
 
-27-55-2 | Maliar skla a keramiky Maliarka skla a keramiky | | | | | | |
+27-55-2 | Maliar skla a keramiky Maliarka skla a keramiky | | | | |
 
-01 | maľbu skla | CH,D | 17 | 12 | 3 | 4 | 27-55-2/01 | 27-33-4/02
+01 | maľbu skla | CH,D | 17 | 12 | 27-55-2/01 | 27-33-4/02
 
-02 | maľbu a dekoráciu keramiky | CH,D | 17 | 12 | 3 | 4 | 27-55-2/02 | 27-31-4 64-01-4/02
+02 | maľbu a dekoráciu keramiky | CH,D | 17 | 12 | 27-55-2/02 | 27-31-4 64-01-4/02
 
-27-56-2 | Sklár Sklárka | | | | | | |
+27-56-2 | Sklár Sklárka | | | | |
 
-01 | duté a lisované sklo | CH | 12 | 10 | 3 | 4 | 27-56-2/01 | 27-33-4/01
+01 | duté a lisované sklo | CH | 12 | 10 | 27-56-2/01 | 27-33-4/01
 
-02 | výrobu foriem | CH | 12 | 10 | 3 | 4 | 27-56-2/02 | 24-14-4/02 27-33-4/01 V24-17-4
+02 | výrobu foriem | CH | 12 | 10 | 27-56-2/02 | 24-14-4/02 27-33-4/01 V24-17-4
 
-03 | technické sklo | CH,D | 12 | 10 | 3 | 4 | 27-56-2/03 | 27-33-4/01
+03 | technické sklo | CH,D | 12 | 10 | 27-56-2/03 | 27-33-4/01
 
-27-57-2 | Výrobca bižutérie Výrobkyňa bižutérie | | | | | | |
+27-57-2 | Výrobca bižutérie Výrobkyňa bižutérie | | | | |
 
-01 | sklenú bižutériu | CH,D | 12 | 12 | 3 | 4 | 27-57-2/01 | 27-32-4
+01 | sklenú bižutériu | CH,D | 12 | 12 | 27-57-2/01 | 27-32-4
 
-02 | kovovú bižutériu | CH,D | 12 | 12 | 3 | 4 | 27-57-2/02 | 27-32-4
+02 | kovovú bižutériu | CH,D | 12 | 12 | 27-57-2/02 | 27-32-4
 
-27-59-2 | Výrobca ozdobných predmetov a zapínadiel Výrobkyňa ozdobných predmetov a zapínadiel | | | | | | |
+27-59-2 | Výrobca ozdobných predmetov a zapínadiel Výrobkyňa ozdobných predmetov a zapínadiel | | | | |
 
-01 | ozdobné predmety | CH,D | 12 | 15 | 3 | 4 | 27-59-2/01 | 27-32-4
+01 | ozdobné predmety | CH,D | 12 | 15 | 27-59-2/01 | 27-32-4
 
-02 | zapínadlá | CH,D | 12 | 12 | 3 | 4 | 27-59-2/02 | 27-32-4 V24-17-4
+02 | zapínadlá | CH,D | 12 | 12 | 27-59-2/02 | 27-32-4 V24-17-4
 
-27-83-2 | Brusič skla Brusička skla | | | | | | |
+27-83-2 | Brusič skla Brusička skla | | | | |
 
-01 | zabrusovanie a obrusovanie | CH,D | 12 | 12 | 3 | 4 | 27-83-2/01 | 27-33-4/02
+01 | zabrusovanie a obrusovanie | CH,D | 12 | 12 | 27-83-2/01 | 27-33-4/02
 
-02 | vybrusovanie | CH,D | 12 | 12 | 3 | 4 | 27-83-2/02 | 27-33-4/02
+02 | vybrusovanie | CH,D | 12 | 12 | 27-83-2/02 | 27-33-4/02
 
-03 | rytie | CH,D | 12 | 10 | 3 | 4 | 27-83-2/03 | 27-33-4/02
+03 | rytie | CH,D | 12 | 10 | 27-83-2/03 | 27-33-4/02
 
-27-94-2 | Brusič technického a šperkového kameňa Brusička technického a šperkového kameňa | CH,D | 12 | 12 | 3 | 4 | 27-94-2 | 27-32-4 27-33-4/04 64-01-4/02
+27-94-2 | Brusič technického a šperkového kameňa Brusička technického a šperkového kameňa | CH,D | 12 | 12 | 27-94-2 | 27-32-4 27-33-4/04 64-01-4/02
 
-28 | OSTATNÁ TECHNICKÁ CHÉMIA | | | | | | |
+28 | OSTATNÁ TECHNICKÁ CHÉMIA | | | | |
 
-28-61-2 | Prevádzkový chemik Prevádzková chemička | | | | | | |
+28-61-2 | Prevádzkový chemik Prevádzková chemička | | | | |
 
-01 | priemyselnú chémiu | CH,D | 12 | 12 | 3 | 4 | 28-61-2/01 | 28-58-4/01
+01 | priemyselnú chémiu | CH,D | 12 | 12 | 28-61-2/01 | 28-58-4/01
 
-02 | výrobu tukov a kozmetiky | CH,D | 12 | 12 | 3 | 4 | 28-61-2/02 | 28-58-4/01
+02 | výrobu tukov a kozmetiky | CH,D | 12 | 12 | 28-61-2/02 | 28-58-4/01
 
-03 | farmaceutickú výrobu | CH,D | 12 | 12 | 3 | 4 | 28-61-2/03 | 28-58-4/02
+03 | farmaceutickú výrobu | CH,D | 12 | 12 | 28-61-2/03 | 28-58-4/02
 
-28-66-2 | Gumár plastikár Gumárka plastikárka | | | | | | |
+28-66-2 | Gumár plastikár Gumárka plastikárka | | | | |
 
-01 | spracúvanie kaučuku | CH,D | 12 | 12<sup>3</sup>) | 3 | 4 | 28-66-2/01 | 28-57-4
+01 | spracúvanie kaučuku | CH,D | 12 | 12<sup>3</sup>) | 28-66-2/01 | 28-57-4
 
-02 | spracúvanie plastov | CH,D | 12 | 12 | 3 | 4 | 28-66-2/02 | 28-57-4
+02 | spracúvanie plastov | CH,D | 12 | 12 | 28-66-2/02 | 28-57-4
 
-28-73-2 | Textilný chemik Textilná chemička | | | | | | |
+28-73-2 | Textilný chemik Textilná chemička | | | | |
 
-01 | úpravu textílií | CH,D | 12 | 12 | 3 | - | 28-73-2/01 | 31-39-4/03
+01 | úpravu textílií | CH,D | 12 | 12 | 28-73-2/01 | 31-39-4/03
 
-02 | farbenie textílií | CH,D | 12 | 12 | 3 | - | 28-73-2/02 | 31-39-4/03
+02 | farbenie textílií | CH,D | 12 | 12 | 28-73-2/02 | 31-39-4/03
 
-03 | potláčanie textílií | CH,D | 12 | 7 | 3 | - | 28-73-2/03 | 31-39-4/03
+03 | potláčanie textílií | CH,D | 12 | 7 | 28-73-2/03 | 31-39-4/03
 
-28-74-2 | Garbiarsky chemik Garbiarska chemička | | | | | | |
+28-74-2 | Garbiarsky chemik Garbiarska chemička | | | | |
 
-01 | spracúvanie kože | CH,D | 12 | 10 | 3 | 4 | 28-74-2/01 | 32-46-4/01
+01 | spracúvanie kože | CH,D | 12 | 10 | 28-74-2/01 | 32-46-4/01
 
-02 | spracúvanie kožušníckych kožiek | CH,D | 12 | 10 | 3 | 4 | 28-74-2/02 | 32-46-4/01
+02 | spracúvanie kožušníckych kožiek | CH,D | 12 | 10 | 28-74-2/02 | 32-46-4/01
 
-28-75-2 | Výrobca a spracovávateľ silikátových vlákien Výrobkyňa a spracovávateľka silikátových vlákien | CH,D | 17 | 12 | 3 | 4 | 28-75-2 | 27-33-4/01
+28-75-2 | Výrobca a spracovávateľ silikátových vlákien Výrobkyňa a spracovávateľka silikátových vlákien | CH,D | 17 | 12 | 28-75-2 | 27-33-4/01
 
-28-76-2 | Chemik práčovní a čistiarní Chemička práčovní a čistiarní | CH,D | 12 | 12 | 3 | 4 | 28-76-2 | 64-01-4/01 28-58-4/01
+28-76-2 | Chemik práčovní a čistiarní Chemička práčovní a čistiarní | CH,D | 12 | 12 | 28-76-2 | 64-01-4/01 28-58-4/01
 
-28-78-2 | Biochemik Biochemička | | | | | | |
+28-78-2 | Biochemik Biochemička | | | | |
 
-01 | mliekársku výrobu | CH,D | 12 | 10 | 3 | 4 | 28-78-2/01 | 29-59-4
+01 | mliekársku výrobu | CH,D | 12 | 10 | 28-78-2/01 | 29-59-4
 
-02 | výrobu piva a sladu | CH,D | 12 | 10 | 3 | 4 | 28-78-2/02 | 29-59-4
+02 | výrobu piva a sladu | CH,D | 12 | 10 | 28-78-2/02 | 29-59-4
 
-03 | liehovarnícku výrobu a výrobu vína | CH,D | 12 | 10 | 3 | 4 | 28-78-2/03 | 29-59-4
+03 | liehovarnícku výrobu a výrobu vína | CH,D | 12 | 10 | 28-78-2/03 | 29-59-4
 
-29 | POTRAVINÁRSTVO | | | | | | |
+29 | POTRAVINÁRSTVO | | | | |
 
-29-61-2 | Mlynár | CH | 12 | 10 | 3 | - | 29-61-2 | 24-17-4 29-59-4
+29-61-2 | Mlynár | CH | 12 | 10 | 29-61-2 | 24-17-4 29-59-4
 
-29-62-2 | Pekár Pekárka | CH,D | 12 | 10 | 3 | - | 29-62-2 | 29-59-4
+29-62-2 | Pekár Pekárka | CH,D | 12 | 10 | 29-62-2 | 29-59-4
 
-29-64-2 | Cukrár Cukrárka | CH,D | 12 | 10 | 3 | - | 29-64-2 | 29-59-4 64-21-4
+29-64-2 | Cukrár Cukrárka | CH,D | 12 | 10 | 29-64-2 | 29-59-4 64-21-4
 
-29-65-2 | Cukrovinkár pečivár Cukrovinkárka pečivárka | | | | | | |
+29-65-2 | Cukrovinkár pečivár Cukrovinkárka pečivárka | | | | |
 
-01 | výrobu cukroviniek | CH,D | 17 | 10 | 3 | - | 29-65-2/01 | 29-59-4
+01 | výrobu cukroviniek | CH,D | 17 | 10 | 29-65-2/01 | 29-59-4
 
-02 | výrobu trvanlivého pečiva | CH,D | 17 | 10 | 3 | - | 29-65-2/02 | 29-59-4
+02 | výrobu trvanlivého pečiva | CH,D | 17 | 10 | 29-65-2/02 | 29-59-4
 
-29-68-2 | Mäsiar údenár Mäsiarka údenárka | CH,D | 12 | 10 | 3 | - | 29-68-2 | 29-59-4
+29-68-2 | Mäsiar údenár Mäsiarka údenárka | CH,D | 12 | 10 | 29-68-2 | 29-59-4
 
-29-70-2 | Konzervár Konzervárka | CH,D | 12 | 10 | 3 | 4 | 29-70-2 | 29-59-4
+29-70-2 | Konzervár Konzervárka | CH,D | 12 | 10 | 29-70-2 | 29-59-4
 
-31 | TEXTIL A ODEVNÍCTVO | | | | | | |
+31 | TEXTIL A ODEVNÍCTVO | | | | |
 
-31-43-2 | Pradiar Pradiarka | | | | | | |
+31-43-2 | Pradiar Pradiarka | | | | |
 
-01 | spracúvanie textilných vlákien | CH,D | 12 | 12 | 3 | - | 31-43-2/01 | 31-39-4/02
+01 | spracúvanie textilných vlákien | CH,D | 12 | 12 | 31-43-2/01 | 31-39-4/02
 
-02 | výrobu netkaných textílií | CH,D | 12 | 12 | 3 | - | 31-43-2/02 | 31-39-4/02
+02 | výrobu netkaných textílií | CH,D | 12 | 12 | 31-43-2/02 | 31-39-4/02
 
-31-45-2 | Plstiar Plstiarka | | | | | | |
+31-45-2 | Plstiar Plstiarka | | | | |
 
-01 | technické plsti | CH,D | 17 | 12 | 3 | - | 31-45-2/01 | 31-39-4/02
+01 | technické plsti | CH,D | 17 | 12 | 31-45-2/01 | 31-39-4/02
 
-02 | klobučnícke plsti | CH,D | 17 | 12 | 3 | - | 31-45-2/02 | 31-39-4/02
+02 | klobučnícke plsti | CH,D | 17 | 12 | 31-45-2/02 | 31-39-4/02
 
-31-46-2 | Tkáč Tkáčka | | | | | | |
+31-46-2 | Tkáč Tkáčka | | | | |
 
-01 | plošné textílie | CH,D | 12 | 12 | 3 | - | 31-46-2/01 | 31-39-4/02
+01 | plošné textílie | CH,D | 12 | 12 | 31-46-2/01 | 31-39-4/02
 
-02 | kovové tkaniny a sitá | CH,D | 12 | 12 | 3 | - | 31-46-2/02 | 31-39-4/02
+02 | kovové tkaniny a sitá | CH,D | 12 | 12 | 31-46-2/02 | 31-39-4/02
 
-31-49-2 | Výrobca textilných rukavíc Výrobkyňa textilných rukavíc | CH,D | 12 | 12 | 3 | - | 31-49-2 | 31-25-4
+31-49-2 | Výrobca textilných rukavíc Výrobkyňa textilných rukavíc | CH,D | 12 | 12 | 31-49-2 | 31-25-4
 
-31-50-2 | Prámikár Prámikárka | CH,D | 12 | 12 | 3 | - | 31-50-2 | 31-39-4/02
+31-50-2 | Prámikár Prámikárka | CH,D | 12 | 12 | 31-50-2 | 31-39-4/02
 
-31-51-2 | Pletiar Pletiarka | CH,D | 12 | 12 | 3 | - | 31-51-2 | 31-39-4/02
+31-51-2 | Pletiar Pletiarka | CH,D | 12 | 12 | 31-51-2 | 31-39-4/02
 
-31-52-2 | Krajčír Krajčírka | | | | | | |
+31-52-2 | Krajčír Krajčírka | | | | |
 
-01 | pánske odevy | CH,D | 12 | 12 | 3 | 4 | 31-52-2/01 | 31-25-4
+01 | pánske odevy | CH,D | 12 | 12 | 31-52-2/01 | 31-25-4
 
-02 | dámske odevy | CH,D | 12 | 12 | 3 | 4 | 31-52-2/02 | 31-25-4
+02 | dámske odevy | CH,D | 12 | 12 | 31-52-2/02 | 31-25-4
 
-31-77-2 | Strojná vyšívačka | | | | | | |
+31-77-2 | Strojná vyšívačka | | | | |
 
-01 | priemyselnú výrobu | D | 12 | 10 | 3 | - | 31-77-2/01 | 31-39-4/02
+01 | priemyselnú výrobu | D | 12 | 10 | 31-77-2/01 | 31-39-4/02
 
-02 | zákazkovú výrobu | D | 12 | 10 | 3 | - | 31-77-2/02 | 31-39-4/02
+02 | zákazkovú výrobu | D | 12 | 10 | 31-77-2/02 | 31-39-4/02
 
-31-81-2 | Klobučník Klobučníčka | | | | | | |
+31-81-2 | Klobučník Klobučníčka | | | | |
 
-01 | priemyselnú výrobu | CH,D | 17 | 12 | 3 | - | 31-81-2/01 | 31-39-4/02
+01 | priemyselnú výrobu | CH,D | 17 | 12 | 31-81-2/01 | 31-39-4/02
 
-02 | zákazkovú výrobu | CH,D | 17 | 12 | 3 | - | 31-81-2/02 | 31-39-4/02
+02 | zákazkovú výrobu | CH,D | 17 | 12 | 31-81-2/02 | 31-39-4/02
 
-31-85-2 | Krajčírka | | | | | | |
+31-85-2 | Krajčírka | | | | |
 
-01 | odevnú konfekciu a bielizeň | D | 12 | 12 | 3 | - | 31-85-2/01 | 31-25-4
+01 | odevnú konfekciu a bielizeň | D | 12 | 12 | 31-85-2/01 | 31-25-4
 
-02 | technickú konfekciu | D | 12 | 12 | 3 | - | 31-85-2/02 | 31-25-4
+02 | technickú konfekciu | D | 12 | 12 | 31-85-2/02 | 31-25-4
 
-03 | textilné hračky | D | 12 | 15 | 3 | - | 31-85-2/03 | 31-25-4
+03 | textilné hračky | D | 12 | 15 | 31-85-2/03 | 31-25-4
 
-32 | SPRACÚVANIE KOŽE A VÝROBA OBUVI | | | | | | |
+32 | SPRACÚVANIE KOŽE A VÝROBA OBUVI | | | | |
 
-32-50-2 | Remenár sedlár Remenárka sedlárka | CH,D | 12 | 12 | 3 | 4 | 32-50-2 | 32-46-4/03
+32-50-2 | Remenár sedlár Remenárka sedlárka | CH,D | 12 | 12 | 32-50-2 | 32-46-4/03
 
-32-51-2 | Kožušník Kožušníčka | | | | | | |
+32-51-2 | Kožušník Kožušníčka | | | | |
 
-01 | prípravu kožušinových výrobkov | CH,D | 12 | 10 | 3 | 4 | 32-51-2/01 | 32-45-4
+01 | prípravu kožušinových výrobkov | CH,D | 12 | 10 | 32-51-2/01 | 32-45-4
 
-02 | šitie a opravy kožušinových výrobkov | CH,D | 12 | 10 | 3 | 4 | 32-51-2/02 | 32-45-4
+02 | šitie a opravy kožušinových výrobkov | CH,D | 12 | 10 | 32-51-2/02 | 32-45-4
 
-32-53-2 | Rukavičkár Rukavičkárka | | | | | | |
+32-53-2 | Rukavičkár Rukavičkárka | | | | |
 
-01 | strihy | CH,D | 12 | 10 | 3 | 4 | 32-53-2/01 | 32-46-4/03
+01 | strihy | CH,D | 12 | 10 | 32-53-2/01 | 32-46-4/03
 
-02 | šitie | CH,D | 12 | 15 | 3 | 4 | 32-53-2/02 | 32-46-4/03
+02 | šitie | CH,D | 12 | 15 | 32-53-2/02 | 32-46-4/03
 
-32-72-2 | Zvrškár Zvrškárka | CH,D | 12 | 12 | 3 | - | 32-72-2 | 32-46-4/02
+32-72-2 | Zvrškár Zvrškárka | CH,D | 12 | 12 | 32-72-2 | 32-46-4/02
 
-32-74-2 | Obuvník Obuvníčka | | | | | | |
+32-74-2 | Obuvník Obuvníčka | | | | |
 
-01 | priemyselnú výrobu | CH,D | 12 | 10 | 3 | 4 | 32-74-2/01 | 32-46-4/02
+01 | priemyselnú výrobu | CH,D | 12 | 10 | 32-74-2/01 | 32-46-4/02
 
-02 | zákazkovú výrobu a opravy | CH,D | 12 | 10 | 3 | 4 | 32-74-2/02 | 32-46-4/02
+02 | zákazkovú výrobu a opravy | CH,D | 12 | 10 | 32-74-2/02 | 32-46-4/02
 
-03 | ortopedickú obuv | CH,D | 7 | 10 | 3 | 4 | 32-74-2/03 | 32-46-4/02 55-02-4
+03 | ortopedickú obuv | CH,D | 7 | 10 | 32-74-2/03 | 32-46-4/02 55-02-4
 
-04 | obuvnícke polovýrobky | CH,D | 12 | 10 | 3 | 4 | 32-74-2/04 | 32-46-4/02
+04 | obuvnícke polovýrobky | CH,D | 12 | 10 | 32-74-2/04 | 32-46-4/02
 
-33 | SPRACÚVANIE DREVA A VÝROBA HUDOBNÝCH NÁSTROJOV | | | | | | |
+33 | SPRACÚVANIE DREVA A VÝROBA HUDOBNÝCH NÁSTROJOV | | | | |
 
-33-55-2 | Stolár Stolárka | | | | | | |
+33-55-2 | Stolár Stolárka | | | | |
 
-01 | výrobu nábytku a zariadení | CH,D | 12 | 12 | 3 | 4 | 33-55-2/01 | 33-43-4/01 V36-59-4/01 V36-59-4/02
+01 | výrobu nábytku a zariadení | CH,D | 12 | 12 | 33-55-2/01 | 33-43-4/01 V36-59-4/01 V36-59-4/02
 
-02 | stavebnostolársku výrobu | CH | 12 | 12 | 3 | 4 | 33-55-2/02 | 33-42-4 33-43-4/01 36-59-4/01 V36-59-4/02
+02 | stavebnostolársku výrobu | CH | 12 | 12 | 33-55-2/02 | 33-42-4 33-43-4/01 36-59-4/01 V36-59-4/02
 
-03 | poľnohospodársku výrobu | CH | 12 | 10 | 3 | 4 | 33-55-2/03 | 33-42-4 33-43-4/01 V36-59-4/01 V36-59-4/02
+03 | poľnohospodársku výrobu | CH | 12 | 10 | 33-55-2/03 | 33-42-4 33-43-4/01 V36-59-4/01 V36-59-4/02
 
-04 | priemyselné obrábanie dreva | CH,D | 12 | 12 | 3 | 4 | 33-55-2/04 | 33-42-4 33-43-4/01 V36-59-4/01 V36-59-4/02
+04 | priemyselné obrábanie dreva | CH,D | 12 | 12 | 33-55-2/04 | 33-42-4 33-43-4/01 V36-59-4/01 V36-59-4/02
 
-33-56-2 | Spracovávateľ prírodných pletív Spracovávateľka prírodných pletív | CH,D | 12 | 10 | 3 | 4 | 33-56-2 | 64-01-4/01 64-01-4/02
+33-56-2 | Spracovávateľ prírodných pletív Spracovávateľka prírodných pletív | CH,D | 12 | 10 | 33-56-2 | 64-01-4/01 64-01-4/02
 
-33-59-2 | Debnár | CH | 12 | 10 | 3 | 4 | 33-59-2 | 33-42-4 V36-59-4/01 V36-59-4/02
+33-59-2 | Debnár | CH | 12 | 10 | 33-59-2 | 33-42-4 V36-59-4/01 V36-59-4/02
 
-33-62-2 | Kefár Kefárka | CH,D | 17 | 15 | 3 | - | 33-62-2 | 33-42-4
+33-62-2 | Kefár Kefárka | CH,D | 17 | 15 | 33-62-2 | 33-42-4
 
-33-64-2 | Ramár pozlacovač Ramárka pozlacovačka | CH,D | 17 | 12 | 3 | 4 | 33-64-2 | 64-01-4/02
+33-64-2 | Ramár pozlacovač Ramárka pozlacovačka | CH,D | 17 | 12 | 33-64-2 | 64-01-4/02
 
-33-67-2 | Výrobca športových potrieb Výrobkyňa športových potrieb | CH,D | 12 | 10 | 3 | 4 | 33-67-2 | 33-43-4/01
+33-67-2 | Výrobca športových potrieb Výrobkyňa športových potrieb | CH,D | 12 | 10 | 33-67-2 | 33-43-4/01
 
-33-68-2 | Mechanik hudobných nástrojov Mechanička hudobných nástrojov | | | | | | |
+33-68-2 | Mechanik hudobných nástrojov Mechanička hudobných nástrojov | | | | |
 
-01 | akordeóny a ústne harmoniky | CH,D | 12 | 12 | 3 | 4 | 33-68-2/01 | nie je určený
+01 | akordeóny a ústne harmoniky | CH,D | 12 | 12 | 33-68-2/01 | nie je určený
 
-02 | klávesové nástroje | CH,D | 12 | 12 | 3 | 4 | 33-68-2/02 | nie je určený
+02 | klávesové nástroje | CH,D | 12 | 12 | 33-68-2/02 | nie je určený
 
-03 | strunové nástroje | CH,D | 12 | 12 | 3 | 4 | 33-68-2/03 | nie je určený
+03 | strunové nástroje | CH,D | 12 | 12 | 33-68-2/03 | nie je určený
 
-33-69-2 | Mechanik dychových a bicích hudobných nástrojov Mechanička dychových a bicích hudobných nástrojov | | | | | | |
+33-69-2 | Mechanik dychových a bicích hudobných nástrojov Mechanička dychových a bicích hudobných nástrojov | | | | |
 
-01 | bicie nástroje | CH,D | 12 | 12 | 3 | 4 | 33-69-2/01 | nie je určený
+01 | bicie nástroje | CH,D | 12 | 12 | 33-69-2/01 | nie je určený
 
-02 | jazýčkové a perné nástroje | CH,D | 12 | 12 | 3 | 4 | 33-69-2/02 | nie je určený
+02 | jazýčkové a perné nástroje | CH,D | 12 | 12 | 33-69-2/02 | nie je určený
 
-03 | nátrubkové nástroje | CH,D | 12 | 12 | 3 | 4 | 33-69-2/03 | nie je určený
+03 | nátrubkové nástroje | CH,D | 12 | 12 | 33-69-2/03 | nie je určený
 
-04 | strojivá | CH,D | 12 | 12 | 3 | 4 | 33-69-2/04 | nie je určený
+04 | strojivá | CH,D | 12 | 12 | 33-69-2/04 | nie je určený
 
-33-70-2 | Čalúnnik Čalúnnička | CH,D | 12 | 12 | 3 | 4 | 33-70-2 | 33-43-4/02
+33-70-2 | Čalúnnik Čalúnnička | CH,D | 12 | 12 | 33-70-2 | 33-43-4/02
 
-34 | POLYGRAFIA A SPRACÚVANIE FILMU | | | | | | |
+34 | POLYGRAFIA A SPRACÚVANIE FILMU | | | | |
 
-34-68-2 | Pečiatkár Pečiatkárka | CH,D | 17 | 7 | 3 | 4 | 34-68-2 | 64-01-4/01
+34-68-2 | Pečiatkár Pečiatkárka | CH,D | 17 | 7 | 34-68-2 | 64-01-4/01
 
-34-70-2 | Tlačiar na maloofsetových strojoch Tlačiarka na maloofsetových strojoch | CH,D | 12 | 10 | 3 | 4 | 34-70-2 | 34-54-4
+34-70-2 | Tlačiar na maloofsetových strojoch Tlačiarka na maloofsetových strojoch | CH,D | 12 | 10 | 34-70-2 | 34-54-4
 
-34-72-2 | Lejár v polygrafii | CH | 7 | 7 | 3 | 4 | 34-72-2 | 34-54-4
+34-72-2 | Lejár v polygrafii | CH | 7 | 7 | 34-72-2 | 34-54-4
 
-34-92-2 | Filmový laborant Filmová laborantka | CH,D | 7 | 10 | 3 | 4 | 34-92-2 | 64-01-4/01
+34-92-2 | Filmový laborant Filmová laborantka | CH,D | 7 | 10 | 34-92-2 | 64-01-4/01
 
-36 | STAVEBNÍCTVO A VODOHOSPODÁRSTVO | | | | | | |
+36 | STAVEBNÍCTVO A VODOHOSPODÁRSTVO | | | | |
 
-36-61-2 | Murár | CH | 12 | 12 | 3 | 4 | 36-61-2 | 36-59-4/01 V36-59-4/02
+36-61-2 | Murár | CH | 12 | 12 | 36-61-2 | 36-59-4/01 V36-59-4/02
 
-36-63-2 | Tesár | CH | 12 | 7 | 3 | 4 | 36-63-2 | 36-59-4/01 V36-59-4/02
+36-63-2 | Tesár | CH | 12 | 7 | 36-63-2 | 36-59-4/01 V36-59-4/02
 
-36-64-2 | Železobetonár | CH | 12 | 10 | 3 | 4 | 36-64-2 | 36-59-4/01 V36-59-4/02
+36-64-2 | Železobetonár | CH | 12 | 10 | 36-64-2 | 36-59-4/01 V36-59-4/02
 
-36-65-2 | Štukatér | CH | 12 | 7 | 3 | 4 | 36-65-2 | 36-59-4/01 64-01-4/01 64-01-4/02 V36-59-4/02
+36-65-2 | Štukatér | CH | 12 | 7 | 36-65-2 | 36-59-4/01 64-01-4/01 64-01-4/02 V36-59-4/02
 
-36-66-2 | Vodár meliorátor | CH | 17 | 10 | 3 | 4 | 36-66-2 | 36-59-4/01 36-60-4 V36-59-4/02
+36-66-2 | Vodár meliorátor | CH | 17 | 10 | 36-66-2 | 36-59-4/01 36-60-4 V36-59-4/02
 
-36-72-2 | Kamenár | CH | 12 | 10 | 3 | 4 | 36-72-2 | 36-59-4/01 64-01-4/01 V36-59-4/02
+36-72-2 | Kamenár | CH | 12 | 10 | 36-72-2 | 36-59-4/01 64-01-4/01 V36-59-4/02
 
-36-74-2 | Dláždič cestár | CH | 12 | 12 | 3 | 4 | 36-74-2 | 36-59-4/01 V36-59-4/02
+36-74-2 | Dláždič cestár | CH | 12 | 12 | 36-74-2 | 36-59-4/01 V36-59-4/02
 
-36-75-2 | Maliar | | | | | | |
+36-75-2 | Maliar | | | | |
 
-01 | interiéry | CH | 12 | 10 | 3 | 4 | 36-75-2/01 | 36-59-4/01 64-01-4/01 V36-59-4/02
+01 | interiéry | CH | 12 | 10 | 36-75-2/01 | 36-59-4/01 64-01-4/01 V36-59-4/02
 
-02 | stavebnú výrobu | CH | 12 | 10 | 3 | 4 | 36-75-2/02 | 36-59-4/01 64-01-4/01 V36-59-4/02
+02 | stavebnú výrobu | CH | 12 | 10 | 36-75-2/02 | 36-59-4/01 64-01-4/01 V36-59-4/02
 
-36-76-2 | Izolatér | CH | 12 | 7 | 3 | 4 | 36-76-2 | 36-59-4/01 V36-59-4/02
+36-76-2 | Izolatér | CH | 12 | 7 | 36-76-2 | 36-59-4/01 V36-59-4/02
 
-36-77-2 | Pokrývač | CH | 12 | 7<sup>2</sup>) | 3 | 4 | 36-77-2 | 36-59-4/01 V36-59-4/02
+36-77-2 | Pokrývač | CH | 12 | 7<sup>2</sup>) | 36-77-2 | 36-59-4/01 V36-59-4/02
 
-36-78-2 | Inštalatér | CH | 12 | 7 | 3 | 4 | 36-78-2 | 24-14-4/01 36-59-4/02 V24-17-4 V36-59-4/01
+36-78-2 | Inštalatér | CH | 12 | 7 | 36-78-2 | 24-14-4/01 36-59-4/02 V24-17-4 V36-59-4/01
 
-36-79-2 | Sklenár Sklenárka | CH,D | 12 | 10 | 3 | 4 | 36-79-2 | 36-59-4/01 V36-59-4/02
+36-79-2 | Sklenár Sklenárka | CH,D | 12 | 10 | 36-79-2 | 36-59-4/01 V36-59-4/02
 
-36-80-2 | Podlahár | CH | 12 | 7 | 3 | 4 | 36-80-2 | 36-59-4/01 V36-59-4/02
+36-80-2 | Podlahár | CH | 12 | 7 | 36-80-2 | 36-59-4/01 V36-59-4/02
 
-36-88-2 | Kominár | CH | 17 | 10<sup>2</sup>) | 3 | 4 | 36-88-2 | 64-01-4/01 V36-59-4/01 V36-59-4/02
+36-88-2 | Kominár | CH | 17 | 10<sup>2</sup>) | 36-88-2 | 64-01-4/01 V36-59-4/01 V36-59-4/02
 
-37 | DOPRAVA A POŠTY | | | | | | |
+37 | DOPRAVA A POŠTY | | | | |
 
-37-62-2 | Železničiar Železničiarka | CH,D | 12 | 12 | 3 | 4 | 37-62-2 | 37-57-4/02
+37-62-2 | Železničiar Železničiarka | CH,D | 12 | 12 | 37-62-2 | 37-57-4/02
 
-37-63-2 | Manipulant poštovej prevádzky a prepravy Manipulantka poštovej prevádzky a prepravy | CH,D | 12 | 10 | 3 | 4 | 37-63-2 | 37-56-4
+37-63-2 | Manipulant poštovej prevádzky a prepravy Manipulantka poštovej prevádzky a prepravy | CH,D | 12 | 10 | 37-63-2 | 37-56-4
 
-45 | POĽNOHOSPODÁRSTVO A LESNÉ HOSPODÁRSTVO | | | | | | |
+45 | POĽNOHOSPODÁRSTVO A LESNÉ HOSPODÁRSTVO | | | | |
 
-45-60-2 | Pestovateľ Pestovateľka | | | | | | |
+45-60-2 | Pestovateľ Pestovateľka | | | | |
 
-01 | chmeliarstvo | CH,D | 12 | 12 | 3 | - | 45-60-2/01 | 45-01-4
+01 | chmeliarstvo | CH,D | 12 | 12 | 45-60-2/01 | 45-01-4
 
-02 | ovocinárstvo a včelárstvo | CH,D | 12 | 12 | 3 | - | 45-60-2/02 | 45-01-4 45-11-4
+02 | ovocinárstvo a včelárstvo | CH,D | 12 | 12 | 45-60-2/02 | 45-01-4 45-11-4
 
-03 | šľachtenie a semenárstvo | CH,D | 12 | 12 | 3 | - | 45-60-2/03 | 45-01-4 45-11-4
+03 | šľachtenie a semenárstvo | CH,D | 12 | 12 | 45-60-2/03 | 45-01-4 45-11-4
 
-04 | vinohradníctvo | CH,D | 12 | 12 | 3 | - | 45-60-2/04 | 45-01-4 45-11-4
+04 | vinohradníctvo | CH,D | 12 | 12 | 45-60-2/04 | 45-01-4 45-11-4
 
-45-71-2 | Záhradník Záhradníčka | CH,D | 12 | 12 | 3 | - | 45-71-2 | 45-11-4
+45-71-2 | Záhradník Záhradníčka | CH,D | 12 | 12 | 45-71-2 | 45-11-4
 
-45-75-2 | Mechanizátor lesnej výroby | CH | 17 | 10 | 3 | 4 | 45-75-2 | 45-21-4
+45-75-2 | Mechanizátor lesnej výroby | CH | 17 | 10 | 45-75-2 | 45-21-4
 
-45-76-2 | Mechanizátor rastlinnej výroby | CH | 12 | 10 | 3 | 4 | 45-76-2 | 45-01-4 45-26-4
+45-76-2 | Mechanizátor rastlinnej výroby | CH | 12 | 10 | 45-76-2 | 45-01-4 45-26-4
 
-45-77-2 | Hydinár Hydinárka | CH,D | 12 | 12 | 3 | - | 45-77-2 | 29-59-4 45-02-4/01
+45-77-2 | Hydinár Hydinárka | CH,D | 12 | 12 | 45-77-2 | 29-59-4 45-02-4/01
 
-45-78-2 | Rybár | CH | 12 | 7 | 3 | 4 | 45-78-2 | 45-02-4/02
+45-78-2 | Rybár | CH | 12 | 7 | 45-78-2 | 45-02-4/02
 
-45-80-2 | Chovateľ Chovateľka | | | | | | |
+45-80-2 | Chovateľ Chovateľka | | | | |
 
-01 | chov hospodárskych zvierat | CH,D | 12 | 10 | 3 | - | 45-80-2/01 | 45-02-4/01
+01 | chov hospodárskych zvierat | CH,D | 12 | 10 | 45-80-2/01 | 45-02-4/01
 
-02 | chov koní a jazdectvo | CH,D | 12 | 7 | 3 | - | 45-80-2/02 | 45-02-4/01
+02 | chov koní a jazdectvo | CH,D | 12 | 7 | 45-80-2/02 | 45-02-4/01
 
-03 | chov oviec | CH,D | 12 | 10 | 3 | - | 45-80-2/03 | 45-02-4/01
+03 | chov oviec | CH,D | 12 | 10 | 45-80-2/03 | 45-02-4/01
 
-04 | chov kožušinových a laboratórnych zvierat | CH,D | 12 | 10 | 3 | 4 | 45-83-2 | 45-02-4/01
+04 | chov kožušinových a laboratórnych zvierat | CH,D | 12 | 10 | 45-83-2 | 45-02-4/01
 
-55 | ZDRAVOTNÍCTVO | | | | | | |
+55 | ZDRAVOTNÍCTVO | | | | |
 
-55-60-2 | Protetik Protetička | | | | | | |
+55-60-2 | Protetik Protetička | | | | |
 
-01 | mechaniku | CH,D | 7 | 10 | 3 | 4 | 55-60-2/01 | 55-02-4
+01 | mechaniku | CH,D | 7 | 10 | 55-60-2/01 | 55-02-4
 
-02 | bandáže | CH,D | 7 | 10 | 3 | 4 | 55-60-2/02 | 55-02-4
+02 | bandáže | CH,D | 7 | 10 | 55-60-2/02 | 55-02-4
 
-55-72-2 | Zdravotník Zdravotníčka | | | | | | |
+64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | | | | |
 
-01 | ošetrovateľské a opatrovateľské práce | CH,D | 12 | 7 | 3 | - | 55-72-2/01 | nie je určený
+64-51-2 | Aranžér Aranžérka | CH,D | 12 | 12<sup>4</sup>) | 64-51-2 | 64-11-4/02
 
-02 | laboratórne práce a lekárenstvo | CH,D | 12 | 7 | 3 | - | 55-72-2/02 | nie je určený
+64-52-2 | Fotograf Fotografka | CH,D | 17 | 12 | 64-52-2 | 64-01-4/01 64-01-4/02
 
-64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | | | | | | |
+64-53-2 | Knihár Knihárka | | | | |
 
-64-51-2 | Aranžér Aranžérka | CH,D | 12 | 12<sup>4</sup>) | 3 | - | 64-51-2 | 64-11-4/02
+01 | ručnú výrobu | CH,D | 12 | 7 | 64-53-2/01 | 34-54-4
 
-64-52-2 | Fotograf Fotografka | CH,D | 17 | 12 | 3 | 4 | 64-52-2 | 64-01-4/01 64-01-4/02
+02 | priemyselnú výrobu | CH,D | 12 | 12 | 64-53-2/02 | 34-54-4
 
-64-53-2 | Knihár Knihárka | | | | | | |
+64-56-2 | Kaderník Kaderníčka | CH,D | 17 | 10 | 64-56-2 | 64-26-4
 
-01 | ručnú výrobu | CH,D | 12 | 7 | 3 | 4 | 64-53-2/01 | 34-54-4
+64-60-2 | Predavač Predavačka | | | | |
 
-02 | priemyselnú výrobu | CH,D | 12 | 12 | 3 | 4 | 64-53-2/02 | 34-54-4
+01 | potravinársky tovar | CH,D | 12 | 10 | 64-60-2/01 | 64-11-4/01
 
-64-56-2 | Kaderník Kaderníčka | CH,D | 17 | 10 | 3 | 4 | 64-56-2 | 64-26-4
+02 | rozličný tovar | CH,D | 12 | 10 | 64-60-2/02 | 64-11-4/01
 
-64-60-2 | Predavač Predavačka | | | | | | |
+03 | elektrotechnický tovar | CH,D | 12 | 8 | 64-60-2/03 | 64-11-4/01
 
-01 | potravinársky tovar | CH,D | 12 | 10 | 3 | - | 64-60-2/01 | 64-11-4/01
+04 | drogériový tovar | CH,D | 12 | 10 | 64-60-2/04 | 64-11-4/01
 
-02 | rozličný tovar | CH,D | 12 | 10 | 3 | - | 64-60-2/02 | 64-11-4/01
+05 | motorové vozidlá | CH,D | 12 | 10 | 64-60-2/05 | 64-11-4/01
 
-03 | elektrotechnický tovar | CH,D | 12 | 8 | 3 | - | 64-60-2/03 | 64-11-4/01
+06 | stavebniny a remeselnícke potreby | CH,D | 12 | 8 | 64-60-2/06 | 64-11-4/01
 
-04 | drogériový tovar | CH,D | 12 | 10 | 3 | - | 64-60-2/04 | 64-11-4/01
+07 | textil a odievanie | CH,D | 12 | 10 | 64-60-2/07 | 64-11-4/01
 
-05 | motorové vozidlá | CH,D | 12 | 10 | 3 | - | 64-60-2/05 | 64-11-4/01
+08 | obuv a koženú galantériu | CH,D | 12 | 10 | 64-60-2/08 | 64-11-4/01
 
-06 | stavebniny a remeselnícke potreby | CH,D | 12 | 8 | 3 | - | 64-60-2/06 | 64-11-4/01
+09 | domáce potreby | CH,D | 12 | 10 | 64-60-2/09 | 64-11-4/01
 
-07 | textil a odievanie | CH,D | 12 | 10 | 3 | - | 64-60-2/07 | 64-11-4/01
+10 | drobný tovar | CH,D | 12 | 8 | 64-60-2/10 | 64-11-4/01
 
-08 | obuv a koženú galantériu | CH,D | 12 | 10 | 3 | - | 64-60-2/08 | 64-11-4/01
+11 | hodiny a klenoty | CH,D | 12 | 8 | 64-60-2/11 | 64-11-4/01
 
-09 | domáce potreby | CH,D | 12 | 10 | 3 | - | 64-60-2/09 | 64-11-4/01
+12 | nábytok a bytové zariadenia | CH,D | 12 | 8 | 64-60-2/12 | 64-11-4/01
 
-10 | drobný tovar | CH,D | 12 | 8 | 3 | - | 64-60-2/10 | 64-11-4/01
+64-80-2 | Operátor skladovania Operátorka skladovania | | | | |
 
-11 | hodiny a klenoty | CH,D | 12 | 8 | 3 | - | 64-60-2/11 | 64-11-4/01
+01 | hutnícke a strojárske výrobky | CH,D | 12 | 10 | 64-80-2/01 | 24-17-4 64-27-4
 
-12 | nábytok a bytové zariadenia | CH,D | 12 | 8 | 3 | - | 64-60-2/12 | 64-11-4/01
+02 | obchod | CH,D | 12 | 10 | 64-80-2/02 | 64-27-4
 
-64-80-2 | Operátor skladovania Operátorka skladovania | | | | | | |
+64-90-2 | Kuchár čašník Kuchárka servírka | | | | |
 
-01 | hutnícke a strojárske výrobky | CH,D | 12 | 10 | 3 | - | 64-80-2/01 | 24-17-4 64-27-4
+01 | prípravu jedál | CH,D | 12 | 8 | 64-90-2/01 | 64-21-4
 
-02 | obchod | CH,D | 12 | 10 | 3 | - | 64-80-2/02 | 64-27-4
+02 | obsluhu | CH,D | 12 | 8 | 64-90-2/02 | 64-21-4
 
-64-90-2 | Kuchár čašník Kuchárka servírka | | | | | | |
+03 | pohostinstvo | CH,D | 12 | 8 | 64-90-2/03 | 64-21-4
 
-01 | prípravu jedál | CH,D | 12 | 8 | 3 | - | 64-90-2/01 | 64-21-4
+85 | UMENIE, ÚŽITKOVÉ UMENIE A RUČNÁ UMELECKOREMESELNÁ VÝROBA | | | | |
 
-02 | obsluhu | CH,D | 12 | 8 | 3 | - | 64-90-2/02 | 64-21-4
+85-45-2 | Zlatník a klenotník Zlatníčka a klenotníčka | CH,D | 12 | 10 | 85-45-2 | 64-01-4/02 85-01-4
 
-03 | pohostinstvo | CH,D | 12 | 8 | 3 | - | 64-90-2/03 | 64-21-4
+85-71-2 | Ručná vyšívačka | D | 7 | 7 | 85-71-2 | 64-01-4/02 85-01-4
 
-85 | UMENIE, ÚŽITKOVÉ UMENIE A RUČNÁ UMELECKOREMESELNÁ VÝROBA | | | | | | |
-
-85-45-2 | Zlatník a klenotník Zlatníčka a klenotníčka | CH,D | 12 | 10 | 3 | 4 | 85-45-2 | 64-01-4/02 85-01-4
-
-85-71-2 | Ručná vyšívačka | D | 7 | 7 | 3 | 4 | 85-71-2 | 64-01-4/02 85-01-4
-
-85-72-2 | Ručná čipkárka | D | 7 | 7 | 3 | 4 | 85-72-2 | 64-01-4/02 85-01-4
+85-72-2 | Ručná čipkárka | D | 7 | 7 | 85-72-2 | 64-01-4/02 85-01-4
 
 II. Sústava skupín učebných odborov a učebných odborov v stredných odborných učilištiach, ktorých denné štúdium trvá 2 roky
 
@@ -1436,13 +1456,9 @@ II. Sústava skupín učebných odborov a učebných odborov v stredných odborn
 
 55 | ZDRAVOTNÍCTVO | | | | |
 
-55-73-2 | Farmaceutická výroba | CH,D | 12 | 12 | 55-73-2 | 28-61-2/03
-
 55-74-2 | Ortopedická výroba | CH,D | 12 | 7 | 55-74-2 | 55-60-2 32-74-2/03
 
 55-75-2 | Okuliarová optika | CH,D | 12 | 12 | 55-75-2 | 24-64-2/05 24-40-2
-
-55-93-2 | Prevádzka zdravotníckych zariadení | CH,D | 12 | 10 | 55-93-2 | 55-72-2
 
 64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | | | | |
 
@@ -1575,8 +1591,6 @@ Kód | SKUPINA UČEBNÝCH ODBOROV Učebný odbor | Určený pre: chlapcov-CH die
 55 | ZDRAVOTNÍCTVO | | | |
 
 55-74-0 | Ortopedická výroba | CH,D | 12 | 7 | 55-74-0
-
-55-93-0 | Prevádzka zdravotníckych zariadení | CH,D | 12 | 10 | 55-93-0
 
 64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY | | | |
 
