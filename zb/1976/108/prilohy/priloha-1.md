@@ -74,7 +74,7 @@
 
   - Článok 3 Uplatnenie niektorých ustanovení dohody na cestné prepravy vykonávané vozidlami evidovanými v štátoch, ktoré nie sú zmluvnými stranami
 
-    - 1. Žiadna zmluvná strana nebude na medzinárodnú cestnú prepravu vykonávanú vozidlom evidovaným na území štátu, ktorý nie je zmluvnou stranou tejto dohody, vzťahovať na svojom území ustanovenia najmenej také prísne, ako sú ustanovenia článkov 5, 6, 7, 8, 9, 10 a 11, článku 12 ods. 1, 2, 6 a 7 článku tejto dohody
+    - 1. Žiadna zmluvná strana nebude na medzinárodnú cestnú prepravu vykonávanú vozidlom evidovaným na území štátu, ktorý nie je zmluvnou stranou tejto dohody, vzťahovať na svojom území ustanovenia najmenej také prísne, ako sú ustanovenia článkov 5, 6, 7, 8, 9, 10 a 11, článku 12 ods. 1, 2, 6 a 7 a článku 12-bis tejto dohody.
 
     - 2. Žiadna zmluvná strana však nemusí ustanovenie odseku 1 tohto článku vzťahovať
 
@@ -134,6 +134,18 @@
 
     - 5. Časy odpočinku uvedené v tomto článku sa musia stráviť mimo vozidla; ak však vozidlo má ležadlo umožňujúce členom osádky pohodlne si ľahnúť, môžu sa časy odpočinku stráviť na tomto ležadle za predpokladu, že vozidlo stojí.
 
+  - Článok 6-bis Prerušenie času denného odpočinku pri kombinovaných prepravách V prípadoch, keď člen osádky sprevádza vozidlo určené na prepravu vecí alebo osôb, ktoré sa prevážajú loďou alebo vlakom, smie byť čas jeho denného odpočinku prerušený raz pokiaľ sa dodržiavajú nasledujúce podmienky:
+
+    - a) časť denného odpočinku strávená na súši sa môže využiť pred časťou denného odpočinku alebo po nej strávenej na palube lode alebo vo vlaku;
+
+    - b) čas prerušenia denného odpočinku musí byť čo najkratší a v žiadnom prípade nesmie k prerušeniu dôjsť skôr ako jednu hodinu pred nakládkou alebo nesmie trvať dlhšie ako jednu hodinu po vykládke, pričom colné formality sa zahŕňajú do vykladacích alebo nakladacích prác;
+
+    - c) počas oboch častí odpočinku musí mať člen osádky možnosť odpočívať na lôžku alebo na ležadle;
+
+    - d) ak sa čas odpočinku takto prerušuje, musí sa predĺžiť o dve hodiny;
+
+    - e) čas strávený na palube lode alebo vo vlaku, ktorý sa nezapočítava do časti denného odpočinku, posudzuje sa ako prerušenie uvedené v článku 8.
+
   - Článok 7 Denný čas vedenia, maximálny týždňový a dvojtýždňový čas vedenia
 
     - 1. Celkový čas vedenia medzi dvoma po sebe nasledujúcimi časmi denného odpočinku podľa ustanovení článku 6 tejto dohody, ďalej nazývaný „denným časom vedenia“ nesmie byť dlhší ako osem hodín.
@@ -176,7 +188,7 @@
 
       - b) Ustanovenie tohto odseku sa nevzťahuje na členov osádok vozidiel používaných na pravidelnú prepravu cestujúcich.
 
-  - Článok 10 Zloženie osádky Ak ide
+  - Článok 10 Zloženie osádky S prihliadnutím na ustanovenie článku 12 bis ods. 2 tejto dohody, ak ide
 
     - a) o súpravu vozidiel, ktorá má viac ako jeden príves alebo náves,
 
@@ -188,7 +200,7 @@
 
   - Článok 11 Výnimočné prípady
 
-    - Za podmienky, že sa tým neohrozuje bezpečnosť cestnej premávky, sa vodič smie odchýliť od ustanovení článkov 6, 7, 8 a 10 tejto dohody v prípade nebezpečenstva, v prípade vyššej moci, pri poskytovaní pomoci alebo v dôsledku poruchy vozidla, a to v rozsahu potrebnom na zaistenie bezpečnosti osôb, vozidla alebo jeho nákladu a na dôjdenie na miesto vyhovujúcej zastávky alebo podľa okolností do cieľa svojej cesty. Druh a dôvod odchýlky je vodič povinný zaznamenať v osobnej kontrolnej knižke.
+    - Za podmienky, že sa tým neohrozuje bezpečnosť cestnej premávky, sa vodič smie odchýliť od ustanovení článkov 6, 7, 8 a 10 tejto dohody v prípade nebezpečenstva, v prípade vyššej moci, pri poskytovaní pomoci alebo v dôsledku poruchy vozidla, a to v rozsahu potrebnom na zaistenie bezpečnosti osôb, vozidla alebo jeho nákladu a na dôjdenie na miesto vyhovujúcej zastávky alebo podľa okolností do cieľa svojej cesty. Druh a dôvod odchýlky je vodič povinný zaznamenať v osobnej kontrolnej knižke alebo v prípade uvedenom v článku 12-bis obdobne v registračnom lístku alebo v iných kontrolných dokladoch uvedených v odseku 1 článku 12-bis.
 
   - Článok 12 Osobná kontrolná knižka
 
@@ -205,6 +217,30 @@
     - 6. Pri začatí každej medzinárodnej cestnej prepravy musí každý vodič alebo pomocník vodiča mať pri sebe osobnú kontrolnú knižku, ktorá vyhovuje predpisom uvedeným v prílohe tejto dohody a v ktorej sú zaznamenané údaje týkajúce sa posledných siedmich dní pred dňom nástupu jazdy. Ak však právny poriadok štátu, v ktorom vodič alebo pomocník vodiča normálne vykonáva svoje povolanie, neukladá povinnosť používať osobnú kontrolnú knižku vyhovujúcu predpisom uvedeným v prílohe tejto dohody mimo medzinárodných cestných prepráv, stačí, aby sa v osobnej kontrolnej knižke vyhovujúcej predpisom uvedeným v prílohe tejto dohody zaznamenávali v rubrikách 12 a 13 denných výkazov alebo v týždennom výkaze údaje o „nepretržitom odpočinku pred nástupom do služby“ a o „dennom čase vedenia“ počas spomenutých siedmich dní.
 
     - 7. Každá zmluvná strana môže, ak ide o vozidlo evidované v štáte, ktorý nie je zmluvnou stranou tejto dohody, vyžadovať namiesto osobnej kontrolnej knižky vyhovujúcej predpisom uvedeným v prílohe tejto dohody iba doklady vyhotovené rovnakou formou, akú majú denné výkazy spomenutej knižky.
+
+  - Článok 12-bis Kontrolné zariadenie
+
+    - (1) Ak jedna zo zmluvných strán ukladá alebo dovoľuje zabudovanie a používanie mechanických kontrolných zariadení na vozidlách registrovaných na jej území, môže toto zariadenie úplne alebo čiastočne zbaviť vodiča povinnosti vypĺňať osobnú kontrolnú knižku uvedenú v článku 12 za týchto podmienok:
+
+      - a) typ daného kontrolného zariadenia musí byť schválený alebo uznaný jednou zo zmluvných strán;
+
+      - b) ak sa osádka skladá z viacej ako jednej osoby a záznam sa nerobí v jednotlivých výkazoch, ale len v jednom výkaze, musí sa v ňom presne uviesť časť záznamu vzťahujúca sa na každú z týchto osôb;
+
+      - c) ak zariadenie zabezpečuje registráciu času, po ktorý členovia osádky vedú vozidlo, času stráveného plnením služobných povinností mimo času vedenia a času odpočinku a aj rýchlosti jazdy vozidla a prejdenej vzdialenosti, môžu sa vodiči úplne zbaviť povinnosti vypĺňať osobné kontrolné knižky;
+
+      - d) ak zariadenie zabezpečuje len registráciu času vedenia, času státia vozidla, rýchlosti jazdy a prejdenej vzdialenosti, môže byť toto zbavenie len čiastočné a obmedzuje sa len na záznamy v služobných registračných výkazoch uvedenej kontrolnej knižky, pričom sú členovia osádky povinní denne vypĺňať príslušné rubriky týždenného výkazu zodpovedajúcemu vzoru výkazu (e) uvedenému v prílohe tejto dohody;
+
+      - e) ak normálne a náležité používanie kontrolného zariadenia zabudovaného na vozidle nie je možné, musí každý člen osádky ručne zaznamenávať údaje o svojej pracovnej činnosti a časoch odpočinku do registračného výkazu alebo do denného výkazu zodpovedajúcemu vzoru výkazu (c) uvedenému v prílohe tejto dohody; pritom musia používať zodpovedajúce grafické značky;
+
+      - f) v prípadoch, keď sú členovia osádky mimo vozidla a nemôžu používať toto zariadenie, musia zapísať ručne do registračného výkazu alebo do denného výkazu zodpovedajúcemu vzoru (c) uvedenému v prílohe tejto dohody rôzne úseky času týkajúceho sa ich odbornej činnosti mimo vozidla; pritom musia používať zodpovedajúce grafické značky;
+
+      - g) je nevyhnutné, aby členovia osádky mali pri sebe registračné výkazy alebo iné kontrolné doklady vyplnené podľa ustanovení podbodov (c), (d), (e) a (f) tohto bodu za sedem predchádzajúcich dní a mohli ich v prípade potreby predložiť na kontrolu;
+
+      - h) členovia osádky musia zabezpečiť včasné zapnutie a riadny chod kontrolného zariadenia a v prípade jeho poruchy musia v čo najkratšom čase zabezpečiť jeho opravu.
+
+    - (2) Ak kontrolné zariadenie zodpovedajúce definícii obsiahnutej v bode 1 je zabudované a používané na vozidle registrovanom na území jednej zo zmluvných strán, ostatné zmluvné strany nemôžu pre toto vozidlo vyžadovať použitie ustanovenia článku 10 tejto dohody.
+
+    - (3) Organizácie musia náležitým spôsobom uchovávať registračné výkazy alebo iné kontrolné doklady vyplnené podľa ustanovení podbodov (c), (d), (e) a (f) odseku 1 tohto článku najmenej dvanásť mesiacov odo dňa posledného záznamu a predložiť ich na požiadanie kontrolným orgánom.
 
   - Článok 13 Kontrola vykonávaná podnikom
 
