@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 478/2001 Z. z.
+
+- OCHRANNÉ PÁSMA II. A III. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V BALDOVCIACH ![Obrázok 02-1](../assets/7bbaf4f952310924c5fa9f691f1779ce89b1e60c552e6e5edac0247512ab4eda.png)
