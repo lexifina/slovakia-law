@@ -1,1 +1,0 @@
-- 6) § 8 ods. 1 písm. h) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.STN 73 6425 Stavby pre dopravu, Autobusové, Trolejbusové a Električkové zastávky.
