@@ -1,3 +1,0 @@
-# Čl. 40
-
-Družstevníci hospodársky konsolidovaného družstva môžu sa na členskej schôdzi uzniesť, že budú hospodáriť bez záhumienkov. Družstevníkom a ich rodinám, ktorí sa vzdajú záhumienkov a predajú družstvu záhumienkovú kravu, zabezpečí družstvo naturálie v druhoch a množstve určených stanovami. Tieto naturálie slúžia ich osobnej spotrebe, prípadne potrebe drobného zvieratstva a na výkrm ošípanej. Družstvo ich poskytuje buď predajom z družstevného spoločného hospodárstva, alebo ako súčasť pracovnej jednotky podľa množstva a akosti vykonanej práce, prípadne ako príspevok zo sociálneho fondu starším a práceneschopným družstevníkom.
