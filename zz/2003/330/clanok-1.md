@@ -28,11 +28,27 @@ Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky sa mení a dopĺňa takt
 
 - podieľa sa na zabezpečovaní prípravy a rozvoja podpory obrany štátu podľa § 26,“.
 
+- 6. V § 12 ods. 1 písmeno c) znie:
+
+- „c)
+
+- spolupracuje s vyššou vojenskou správou a územnou vojenskou správou na príprave a zabezpečovaní úloh obrany štátu v obvode svojej pôsobnosti,“.
+
 - 7. Za § 12 sa vkladá § 12a, ktorý znie:
 
 - „12a
 
 - Právnické osoby, ktoré vlastnia alebo spravujú objekty osobitnej dôležitosti a ďalšie dôležité objekty, sú povinné zabezpečovať ich ochranu a obranu spôsobom ustanoveným vládou podľa § 6 písm. f).“.
+
+- 8. V § 13 odseky 1 a 2 znejú:
+
+- „(1)
+
+- Zriaďuje sa Vyššia vojenská správa so sídlom v Banskej Bystrici (ďalej len „vyššia vojenská správa").
+
+- (2)
+
+- Vyššia vojenská správa je právnická osoba s celoštátnou pôsobnosťou, ktorá vykonáva štátnu správu na úseku obrany štátu v rozsahu pôsobnosti ustanovenej týmto zákonom.“.
 
 - 9. V § 14 sa v úvodnej vete vypúšťajú slová „vo svojom územnom obvode“.
 
@@ -134,7 +150,11 @@ Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky sa mení a dopĺňa takt
 
 - (5)
 
-- Za obranu objektov osobitnej dôležitosti a ďalších dôležitých objektov zodpovedá ministerstvo v súlade s rozhodnutím vlády podľa § 6 písm. f).“.
+- Za obranu objektov osobitnej dôležitosti a ďalších dôležitých objektov zodpovedá ministerstvo v súlade s rozhodnutím vlády podľa § 6 písm. f).
+
+- (6)
+
+- Kritériá na zaradenie objektov obrannej infraštruktúry do kategórie objektov osobitnej dôležitosti a do kategórie ďalších dôležitých objektov ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
 
 - Poznámka pod čiarou k odkazu 21 znie:
 

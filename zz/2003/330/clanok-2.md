@@ -21,3 +21,9 @@ Zákon č. 320/2002 Z. z. o brannej povinnosti v znení zákona č. 512/2002 Z. 
 - 5. V § 31 ods. 2 sa vypúšťajú slová „prostredníctvom ministerstva obrany“.
 
 - 6. V § 39 ods. 4 sa za slovo „povolení“ vkladajú slová „alebo nepovolení“.
+
+- 7. § 43 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ak sa vo všeobecne záväzných právnych predpisoch používa pojem „príslušná vyššia vojenská správa" alebo „vyššie vojenské správy", rozumie sa tým „vyššia vojenská správa".“.
