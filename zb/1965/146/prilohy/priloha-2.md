@@ -12,17 +12,21 @@
 
     - 5. Ak sa nemôže úkon vinou poplatníka vykonať (napr. preto, že neboli pripravené pomôcky potrebné na vykonanie skúšky), vyberie sa za každého technického pracovníka a za každý aj začatý kalendárny deň poplatok 40 Kčs (včítane prípadného zvýšenia podľa poznámky 2).
 
+    - 6. Orgány štátnej mierovej služby môžu v jednotlivých odôvodnených prípadoch poskytovať výnimočne zľavy poplatkov až do výšky 50 % sadzby poplatku, ak organizácia uhrádza náklady za vykonané úradné skúšky.
+
+    - 7. Pri meradlách, pri ktorých doba platnosti úradného overenia uplynula alebo pri ktorých sa žiadalo o úradné overenie oneskorene (vyhl. č. 61/1965 Zb.), môže orgán štátnej mierovej služby zvýšiť poplatky až na dvojnásobok.
+
   - Oddiel A Overovanie vybratých prevádzkových meradiel Pol. | Predmet poplatku | Poplatok Kčs
 
   - | I. Meranie dĺžky |
 
   - 1. | Dĺžkové meradlá na strižný tovar | 2,-
 
-  - 2. | Meračské pásma oceľové pre veľmi presné meranie |
+  - 2. | Meračské pásma oceľové pre veľmi presné meranie pre meraciu dĺžku |
 
-  - | pre meraciu dĺžku do 30 m | 120,-
+  - | do 30 m | 120,-
 
-  - | pre meraciu dĺžku nad 30 m, za každých i začatých 10 m | 25,-
+  - | pre meraciu dĺžku nad 30 m, za každých ďalších i začatých 10 m | 25,-
 
   - 3. | a) Meradlá dĺžky tkanín - (odvaľovacie, skladacie) | 150,-
 
@@ -102,33 +106,43 @@
 
   - | IV. Meranie hmoty |
 
-  - 14. | Obchodné závažia bežné a presné |
+  - 14. | Bežné a presné obchodné závažia |
 
-  - | do 2 kg | 1,-
+  - | do 5 kg | 1,-
 
-  - | nad 2 kg do 5 kg | 2,-
+  - | nad 5 kg do 20 kg | 2,-
 
-  - | nad 5 kg do 50 kg | 5,-
+  - | 50 kg | 5,-
 
-  - | Poznámka Za požičanie 100 kg zaťažovacích závaží vyberie sa poplatok 5 Kčs za každý i začatý kalendárny deň. |
+  - | Poznámka Za požičanie 100 kg zaťažovacích závaží vyberie sa poplatok 3 Kčs za každý i začatý kalendárny deň. |
 
-  - 15. | Váhy |
+  - 15. | Váhy: |
 
-  - | a) Váhy rovnoramenné (obchodné bežné a obchodné presné) | 5,-
+  - | a) Váhy stolné rovnoramenné (obchodné bežné a presné) do 30 kg | 5,-
 
-  - | b) Stolné sklonné váhy o váživosti do 20 kg | 15,-
+  - | b) Váhy stolné sklonné do 30 kg | 15,-
 
-  - | c) Váhy mostíkové o váživosti do 500 kg | 20,-
+  - | c) Váhy poloautomatické a automatické pre váženie obilnín a iných sypkých hmôt |
 
-  - | nad 500 kg do 1 000 kg | 30,-
+  - | do 50 kg | 70,-
 
-  - | nad 1 000 kg, za každých i začatých 1 000 kg | 20,-
+  - | nad 50 kg do 200 kg | 100,-
 
-  - | d) Váhy mostové pre cestné a koľajové vozidlá bez ohľadu na systém o váživosti |
+  - | nad 200 kg | 200,-
 
-  - | do 5 000 kg | 100,-
+  - | d) Váhy pre zisťovanie vlhkosti látok, váhy na zisťovanie škrobnatosti zemiakov a váhy na počítanie kusov | 20,-
 
-  - | nad 5 000 kg do 15 000 kg | 150,-
+  - | e) Váhy ostatné s váživosťou |
+
+  - | do 500 kg | 20,-
+
+  - | nad 500 kg do 1000 kg | 30,-
+
+  - | nad 1000 kg do 3000 kg | 60,-
+
+  - | nad 3000 kg do 5000 kg | 100,-
+
+  - | nad 5000 kg do 15 000 kg | 150,-
 
   - | nad 15 000 kg do 30 000 kg | 200,-
 
@@ -137,10 +151,6 @@
   - | nad 50 000 kg do 80 000 kg | 400,-
 
   - | nad 80 000 kg | 600,-
-
-  - | e) Váhy poloautomatické a automatické na váženie obilia | 70,-
-
-  - | f) Váhy na zisťovanie škrobnatosti a znečistenia zemiakov | 20,-
 
   - | V. Meranie akosti obilia |
 
@@ -184,9 +194,9 @@
 
   - | IX. Iné merania |
 
-  - 21. | a) Taxametre alebo tachometre | 30,-
+  - 21. | a) Taxametre alebo počítadlá kilometrov | 40,-
 
-  - | b) Ak sa skúšanie taxametrov a tachometrov vykonáva na jednom vozidle spoločne, za obidve meradlá | 50,-
+  - | b) Ak sa skúšanie taxametrov a počítadiel kilometrov vykonáva na jednom vozidle spoločne, za obe meradlá | 60,-
 
   - 22. | a) Trhacie stroje a lisy pre statické skúšky materiálu pre maximálne zaťaženie |
 
@@ -250,17 +260,19 @@
 
   - 35. | Etalónové závažia analytické | 8,- |
 
-  - 36. | a) Etalónové závažia do 50 kg na overovanie a kontrolu váh, prípadne na overovanie závaží včítane príp. justovania | 10,- |
+  - 36. | a) Etalónové závažia do 50 kg pre overovanie a kontrolu váh, prípadne pre overovanie závaží vrátane justovania | 10,- |
 
   - | b) Zaťažovacie závažia | |
 
-  - | aa) nad 50 kg do 200 kg | 20,- |
+  - | aa) nad 50 kg do 500 kg | 20,- |
 
-  - | bb) nad 200 kg | 50,- |
+  - | bb) nad 500 kg do 1000 kg | 50,- |
 
-  - | cc) závažový voz (železničný) | 250,- |
+  - | cc) nad 1000 kg | 100,- |
 
-  - | dd) rohový vozík | 50,- |
+  - | dd) závažový vozeň (železničný) | 250,- |
+
+  - | ee) rohový vozík | 50,- |
 
   - 37. | Váhy na kontrolu dávkovacích zariadení | 15,- |
 
@@ -416,4 +428,4 @@
 
   - 68. | Úradné skúšky nového typu meradla alebo zmien konštrukcie a materiálu meradla, prípadne rozhodnutie o jeho prípustnosti na úradné skúšanie, úradné skúšky (aj s prípadným overovaním) predmetov, ktoré nie sú uvedené v ostatných položkách tohto sadzobníka (napr. metrologické práce a iné fyzikálno-technické presné merania a skúšky), ďalej skúšky nových druhov a vzoriek mier, váh a meracích prístrojov a konečne skúšky meradiel alebo laboratórnych predmetov, ak majú prídavné zariadenie sťažujúce skúšku alebo ak sa žiada o vykonanie skúšky v širšom rozsahu alebo s vyššou presnosťou | 25,- až 3000,-
 
-  - | Poznámka V medziach sadzby sa vymeriava poplatok podľa času trvania skúšky, a to sumou 25 Kčs za každú, aj len začatú hodinu a za každého pracovníka, ktorý vykonáva skúšku. Správny orgán môže poplatok zvýšiť podľa obťažnosti skúšky až o 100% základnej sadzby. |
+  - | Poznámky 1. V medziach sadzby sa vymeriava poplatok podľa času trvania skúšky, a to sumou 25 Kčs za každú, aj len začatú hodinu a za každého pracovníka, ktorý vykonáva skúšku. Správny orgán môže poplatok zvýšiť podľa obťažnosti skúšky až o 100 % základnej sadzby. 2. Ak ide o vykonávanie bežného úradného overovania alebo skúšania jednotlivých meradiel, ktoré sú uvedené v oddiele C pol. 68 tohto sadzobníka, môže orgán štátnej mierovej služby vyrúbiť poplatok pomernou sumou hodinovej sadzby, ak úradný úkon netrvá celú hodinu. |

@@ -2,17 +2,21 @@
 
   - Poznámka k celému sadzobníku.
 
-  - Poplatky podľa položiek 5, 6, 19, 28, 29, 31 a 38 - pokiaľ úkony vykonávajú národné výbory - sú príjmom národného výboru, ktorý úkon vykonal. V týchto prípadoch sa poplatky neplatia kolkovými známkami.
+  - Poplatky podľa položiek 5, 6, 6b, 13b, 13c, 13d, 13e, 19, 19a, 25a, 28, 28a, 29, 31, 38, 38a, 38b, pokiaľ úkony vykonávajú národné výbory, sú príjmom národného výboru, ktorý úkon vykonal. V týchto prípadoch sa poplatky neplatia kolkovými známkami.
 
   - Oddiel A Spoločný pre všetky odbory správy Pol. | Predmet poplatku | Poplatok Kčs
 
-  - 1. | Vydanie druhej, tretej atď. kópie úradného vybavenia, odpisu alebo výpisu z kníh, úradných záznamov, registrov, listín a spisov alebo zo súkromných spisov v úradnej úschove za každú aj len začatú stranu | 5,-
+  - 1. | Vydanie úradného potvrdenia, druhého, tretieho atď. rovnopisu vybavenia, odpisu alebo výpisu z kníh, úradných záznamov, registrov, listiny a spisov alebo zo súkromných spisov v úradnej úschove s výnimkou potvrdení uvedených v pol. 7 a 38a tohto sadzobníka za každú i len začatú stranu | 5,-
 
   - | Poznámky 1. Prvá kópia (napr. výpis z matriky) nepodlieha poplatku, ak nie je v ďalších položkách alebo predpisoch určené inak. 2. Za odpisy, výpisy, osvedčenia obstarané z archívneho materiálu štátnych a ostatných archívov staršieho ako 25 rokov sa vyberá poplatok podľa obťažnosti úlohy za každú aj len začatú stranu odpisu, výpisu alebo osvedčenia vo výške dvojnásobku až päťnásobku sadzby podľa tejto položky. 3. Za písomné informácie z archívneho materiálu štátnych a ostatných archívov sa vyberá poplatok podľa obťažnosti úkonu za každú aj len začatú stranu písomnej informácie vo výške dvojnásobku až desaťnásobku sadzby poplatku podľa tejto položky. 4. Za preklady z archívneho materiálu štátnych a ostatných archívov sa vyberá poplatok podľa pol. 48. 5. Za vydanie kópie osvedčenia o zápise ochrannej značky alebo chráneného vzoru, výpisu alebo potvrdenia z registra ochranných značiek, alebo z registra chránených vzorov sa vyberá poplatok 20 Kčs. 6. Za odpisy vyhotovované čs. zastupiteľskými úradmi sa vyberá poplatok podľa pol. 47. |
 
+  - 1a. | Vyhľadávanie archívneho materiálu na žiadosť poplatníka za účelom urobenia reprodukcie mikrofilmom, prípadne inými reprografickými postupmi, za každú začatú hodinu pracovného času potrebného na vyhľadanie archívneho materiálu | 2,- až 20,-
+
+  - | Poznámka: Správny poplatok podľa tejto položky sa nevyberie, ak sa úkony vykonávajú v rámci vedeckého styku so zahraničím za predpokladu, že je zaručená vzájomnosť. |
+
   - 2. | Vydanie dokladu (preukazu) náhradou za doklad (preukaz) stratený, zničený alebo neupotrebiteľný | 10,-
 
-  - | Poznámky 1. Poplatok podľa tejto položky sa vyberie i za vydanie náhradnej štátnej poznávacej značky motorových vozidiel. V tomto prípade platia poplatok tiež hospodárske a iné organizácie (nie však rozpočtové), i keď podľa všeobecných predpisov sú od poplatku oslobodené. 2. Poplatok sa vyberie, i keď za vydanie pôvodného dokladu (preukazu) sa poplatok nevyberá. 3. Správny orgán môže poplatok znížiť až na pätinu; príp. zvýšiť až na desaťnásobok. |
+  - | Poznámky 1. Poplatok podľa tejto položky sa vyberie i za vydanie náhradnej štátnej poznávacej značky motorových vozidiel. 2. Poplatok sa vyberie, i keď za vydanie pôvodného dokladu (preukazu) sa poplatok nevyberá. 3. Správny orgán môže poplatok znížiť až na pätinu; príp. zvýšiť až na desaťnásobok. |
 
   - 3. | Overenie podpisov strán na listinách - za každú osobu, ktorej podpis sa overuje | 4,-
 
@@ -28,9 +32,17 @@
 
   - 5. | Znalecký alebo odborný posudok úradu na žiadosť poplatníka za každú aj len začatú hodinu pracovného času potrebného na vypracovanie posudku (včítane overovania podkladov, získavania materiálu a pod.), vydanie osvedčenia o tuzemskom práve | 25,- najviac však celkom 3000,-
 
+  - | Poznámky 1. Za odborný posudok k žiadosti o vývoz kultúrnych pamiatok zvyšuje sa poplatok o jednu pätinu. 2. Za znalecký alebo odborný posudok pri posudzovaní projektov technických zariadení, parných kotlov, tlakových nádob, zdvíhadiel a silnoprúdových elektrických zariadení vyberá sa základný poplatok 300,- Kčs, za každú druhú i ďalšiu začatú hodinu 25,- Kčs, najviac však 3000,- Kčs. |
+
   - 6. | Miestne vyšetrenie (komisionálne konanie) - ak je podľa príslušných predpisov nariadené alebo ak sa koná z podnetu účastníkov konania | 25,- až 250,-
 
   - | Poznámky 1. Poplatok podľa tejto položky sa nevyberá za miestne vyšetrenie vo veci výstavby budov, ak sa ďalej neurčí inak. 2. Poplatok sa nevyberie, ak sa miestne vyšetrenie koná vo všeobecnom záujme (napr. pri živelných pohromách a nehodách) alebo ak bolo miestne vyšetrenie nariadené bez návrhu účastníkov konania úradom, súdom alebo iným verejným orgánom. |
+
+  - 6a. | Podanie žiadosti na orgánoch štátnej správy | 5,-
+
+  - | Poznámky 1. Poplatok sa nevyberie za žiadosti o vykonanie úkonov, ak sa za žiadaný úkon vyberie poplatok podľa ostatných položiek tohto sadzobníka, s výnimkou žiadosti o povolenie na vycestovanie do cudziny, kde sa vyberie aj poplatok podľa tejto položky vo výške dvojnásobku. 2. Poplatok sa taktiež nevyberie, ak ide o žiadosti o priznanie štipendia. 3. Za žiadosti sa považujú i podania - s výnimkou sťažností, oznámení a podnetov pracujúcich*) - ak sa podľa ich obsahu má vydať rozhodnutie, ktoré sleduje majetkový prospech účastníka konania. 4. Za žiadosť o preskúmanie rozhodnutia mimo odvolacieho konania sa vyberá poplatok vo výške štvornásobku. 5. Za žiadosť o zrušenie práva užívať byt alebo časť bytu (v zmysle § 37 zák. č. 41/1964) v prospech vlastníka rodinného domčeka alebo užívateľa bytu vyberá sa poplatok vo výške dvanásťnásobku. |
+
+  - 6b. | Privolenie k výmene bytu alebo k dohode o výmene bytu. | 20,-
 
   - Oddiel B Všeobecná vnútorná správa Pol. | Predmet poplatku | Poplatok Kčs
 
@@ -38,9 +50,9 @@
 
   - | Poznámka Poplatok podľa tejto položky platia tiež hospodárske a iné organizácie (nie však rozpočtové), i keď sú podľa všeobecných predpisov od poplatku oslobodené. |
 
-  - 8. | Vydanie cestovného dokladu s vycestovacou doložkou | 20,- až 400,-
+  - 8. | Vydanie povolenia na vycestovanie do cudziny | 20,- až 400,-
 
-  - | Poznámky 1. Poplatok sa vymeriava podľa územnej platnosti vycestovacej doložky a podľa dĺžky pobytu v cudzine. 2. a) Poplatok podľa tejto položky platí sa tiež za udelenie každej ďalšej vycestovacej doložky. b) Ak sa občanovi udelila trvalá vycestovacia doložka, je povinný platiť poplatok za každú ďalšiu cestu do cudziny. 3. Ak prekročí poplatník dĺžku pobytu v cudzine, za ktorú uhradil pred vycestovaním poplatok, je povinný doplatiť sumu zodpovedajúcu skutočnej dĺžke pobytu. Správny orgán môže v tomto prípade zvýšiť túto sumu až na dvojnásobok. 4. Poplatok je splatný pri vydaní cestovného dokladu alebo vycestovacej doložky. 5. Za vydanie cestovného pasu sa vyberie okrem poplatku podľa tejto položky ešte ďalší poplatok vo výške 10 Kčs. 6. Správny orgán môže znížiť poplatok až na polovicu bežne vyberanej sumy osobám, ktoré nie sú zárobkove činné (napr. študentom, učňom, dôchodcom a pod.). 7. Pri vydávaní hromadných cestovných dokladov sa vyberá poplatok za každú osobu uvedenú v hromadnom cestovnom doklade. 8. Poplatok sa nevyberá za vydanie cestovného dokladu alebo vycestovacej doložky pre deti do 15 rokov. 9. Za vydanie cestovného dokladu na vysťahovanie možno zvýšiť poplatok podľa dôvodov vysťahovania a majetkových pomerov žiadateľa až na dvadsaťpäťnásobok sadzby. 10. Poplatok sa nevyberá za vydanie cestovného dokladu alebo udelenie vycestovacej doložky na služobné cesty. |
+  - | Poznámky 1. Ak je vydané povolenie na vycestovanie s platnosťou na dobu niekoľkých rokov alebo na dve alebo viac ciest, vyberie sa poplatok pri každom vycestovaní. 2. Poplatok sa vyberie pri každej ceste pred prekročením štátnych hraníc vylepením kolkovej známky do colného a devízového vyhlásenia, ktoré je nedeliteľnou súčasťou cestovného dokladu. 3. Výška poplatku sa spravuje podľa územnej platnosti cestovného dokladu a dĺžky pobytu v cudzine. 4. Správny orgán môže znížiť poplatok až na polovicu osobám, ktoré nie sú zárobkovo činné (študenti, učni, dôchodcovia atď.), alebo ak ide o krátkodobú cestu podľa turistickej konvencie. 5. Poplatok sa nevyberá za povolenie cesty do cudziny detí vo veku do 15 rokov. 6. Poplatok sa nevyberá, ak ide o služobné cesty. 7. Ak poplatník prekročí dĺžku pobytu v cudzine, podľa ktorej bola pred vycestovaním určená výška poplatku, je povinný doplatiť sumu zodpovedajúcu skutočnej dĺžke pobytu. Správny orgán môže v tomto prípade zvýšiť poplatok až na dvojnásobok. 8. Za povolenie na vycestovanie pri vysťahovaní možno zvýšiť poplatok až na dvadsaťpäťnásobok. 9. Za vydanie cestovného pasu sa vyberie okrem poplatku podľa tejto položky ešte suma vo výške 10,- Kčs ako čiastočná náhrada hotových výdavkov. |
 
   - 9. | Predĺženie alebo rozšírenie platnosti cestovného dokladu alebo vycestovacej doložky | 10,-
 
@@ -56,23 +68,41 @@
 
   - 12. | Povolenie zmeny priezviska |
 
-  - | a) hanlivého, výstredného, smiešneho, cudzojazyčného alebo priezviska ženy rozvedenej alebo rozlúčenej (pred 1. 1. 1950) na jej predchádzajúce priezvisko | 20,-
+  - | a) hanlivého, výstredného, smiešneho, cudzojazyčného alebo priezviska rozvedenej ženy (alebo rozlúčenej pred 1. 1. 1950) na jej predchádzajúce priezvisko | 20,-
 
-  - | b) v iných prípadoch alebo povoleniach zmeny mena | 100,-
+  - | b) v iných prípadoch alebo povolenie zmeny mena | 100,-
 
-  - | Poznámka Poplatok sa nevyberie, ak ide o zmenu mena osvojených detí alebo o zmeny, ktoré treba urobiť v dôsledku nesprávnych (neúplných) zápisov v matrikách. |
+  - | Poznámky 1. Poplatok sa nevyberie, ak ide o zmenu mena osvojených detí alebo zmeny, ktoré treba urobiť v dôsledku nesprávnych (neúplných) zápisov v matrikách. 2. Vybratie poplatku neprichádza do úvahy, ak ide o vyhlásenie rozvedeného manžela, že opäť prijíma predchádzajúce priezvisko, ak táto skutočnosť bola oznámená do jedného mesiaca po nadobudnutí právoplatnosti rozhodnutia o zrušení manželstva rozvodom (§ 29 zák. č. 94/1963 Zb.). |
 
   - 13. | Udelenie štátneho občianstva alebo vydanie osvedčenia o prepustení zo štátneho zväzku | 40,- až 500,-
 
+  - | Poznámky 1. Za vydanie osvedčenia o prepustení zo štátneho zväzku môže sa poplatok zvýšiť až na dvadsaťpäťnásobok sadzby. 2. Ak sa doručuje osvedčenie o prepustení zo štátneho zväzku do cudziny, poplatok určí zastupiteľský úrad. |
+
+  - 13a. | Vydanie osvedčenia o československom štátnom občianstve | 10,-
+
+  - 13b. | Povolenie uzavrieť manželstvo na inom miestnom národnom výbore poverenom viesť matriky, než je miestny národný výbor uvedený v ods. 1 § 4 Zákona o rodine č. 94/1963 Zb. | 50,- až 150,-
+
+  - 13c. | Uskutočnenie uzavretia manželstva iným miestnym národným výborom povereným viesť matriky, než je miestny národný výbor uvedený v ods. 1 § 4 Zákona o rodine č. 94/1963 Zb. | 100,- až 500,-
+
+  - | Poznámky k položkám 13b a 13c 1. Podľa okolností prípadu správny orgán poplatok odpustí alebo ustanovenú výšku poplatku zníži. 2. Vyberanie poplatku neprichádza do úvahy, ak je život toho, kto chce uzavrieť manželstvo priamo ohrozený (§ 4 ods. 3 zák. č. 94/1963 Zb.). |
+
+  - 13d. | Uzavretie manželstva medzi cudzími štátnymi príslušníkmi alebo osobami bez štátnej príslušnosti a povolenie uzavrieť manželstvo zástupcom | 100,- až 1000,-
+
+  - | Poznámky 1. Podľa okolností prípadu správny orgán poplatok odpustí alebo ustanovenú výšku poplatku zníži. 2. Poplatok sa nevyberie, ak bol už vybratý poplatok za delegáciu národného výboru podľa pol. 13b. 3. Správny orgán môže poplatok určiť na základe vzájomnosti vo výške, v akej vyberá poplatok štát, ktorého jeden zo snúbencov je štátnym príslušníkom, prípadne od vybratia poplatku upustiť. |
+
+  - 13e. | Povolenie na uzavretie manželstva mimo ustanoveného času alebo mimo určenej svadobnej siene | 100,- až 500,-
+
+  - | Poznámka: Podľa okolností prípadu správny orgán poplatok odpustí alebo ustanovenú výšku poplatku zníži. |
+
   - 14. | Vysvedčenie o právnej spôsobilosti uzavrieť manželstvo v cudzine | 20,-
 
-  - 15. | Nazretie do matrík narodených, sobášených a zomretých, ktoré sú uložené v archívoch, za jednu knihu a jeden deň | 5,-
+  - 15. | Nazretie do matrík narodených, sobášených a zomretých, ktoré sú uložené v archívoch, za jednu knihu a jeden i začatý deň | 5,-
 
-  - | Poznámka Správny orgán môže poplatok primerane znížiť, príp. od vybratia poplatku upustiť z dôvodov všeobecného záujmu. |
+  - | Poznámka Správny orgán môže poplatok primerane znížiť, prípadne od vybratia poplatku upustiť z dôvodov všeobecného záujmu. |
 
   - 16. | Vydanie zbrojného preukazu osvedčujúceho právo držať a nosiť zbraň, rozšírenie alebo predĺženie jeho platnosti za každý rok | 20,-
 
-  - | Poznámky 1. Poplatok sa platí vopred pri podaní žiadosti; ak sa žiadosti nevyhovie, poplatok sa nevráti. 2. Príslušníci ozbrojených sborov v činnej službe, Ľudových milícií a pomocných sborov Ministerstva vnútra sú od tohto poplatku oslobodení. 3. Za povolenie držať poľovnú zbraň - ak nemá držiteľ poľovný lístok (pol. 29) - vyberie sa jednorazový poplatok vo výške 20 Kčs za každú zbraň. |
+  - | Poznámky 1. Poplatok sa platí vopred pri podaní žiadosti; ak sa žiadosti nevyhovie, poplatok sa nevráti. 2. Príslušníci ozbrojených sborov v činnej službe, Ľudových milícií a pomocných sborov Ministerstva vnútra sú od tohto poplatku oslobodení. 3. Za povolenie držať poľovnú zbraň - ak držiteľ nemá poľovný lístok (položka 29) - vyberie sa jednorazový poplatok vo výške dvojnásobku za každú zbraň. |
 
   - 17. | Vydanie povolenia na nákup zbrane (krátkej alebo poľovnej guľovnice) alebo povolenie na jej prevod z jedného držiteľa na iného | 20,-
 
@@ -92,7 +122,13 @@
 
   - 19. | Rozhodnutie o prípustnosti stavby alebo iné obdobné povolenie, povolenie na trvalé užívanie stavby, povolenie zmien v užívaní stavby, povolenie výnimiek zo stavebných obmedzení v ochranných pásmach | 100,-
 
-  - | Poznámky 1. Správny orgán môže upustiť od vybratia poplatku za vydanie rozhodnutia o prípustnosti stavby rodinného domčeka a povolenie na jeho trvalé užívanie vo vybratých alebo iných obciach vhodných pre sústreďovanie výstavby.*) 2. Pri drobných prístavbách, nadstavbách a pri iných stavebných úpravách alebo zmenách (napr. zriadenie priečok, dverných otvorov, zmena v účele užívania jednotlivých miestností a pod.) môže správny orgán znížiť poplatok za rozhodnutie o prípustnosti stavby a za povolenie trvalého užívania až na štvrtinu. 3. Poplatkom podľa tejto položky je kryté tak vydanie rozhodnutia o prípustnosti stavby, ako aj povolenie na trvalé užívanie stavby. Ak však ide o dodatočné vydanie uvedených povolení pre stavbu, ktorá sa vopred riadne nepovolila, príp. sa uskutočnila v zásadnom rozpore so schváleným projektom, správny orgán môže vymerať poplatok až päťdesiatnásobkom sadzby. 4. Za vydanie rozhodnutia o prípustnosti stavby rodinného domčeka v obciach, ktoré sa nevybrali pre sústreďovanie výstavby, správny orgán môže zvýšiť poplatok až na päťdesiatnásobok sadzby. Za povolenie výstavby objektov individuálnej rekreácie (rekreačné domčeky, chaty, altány a pod., včítane povolenia prístavieb a iných úprav týchto objektov - napr. zriadenie garáží a pod.) môže správny orgán zvýšiť poplatok až na dvadsaťpäťnásobok sadzby. Odbor výstavby krajského národného výboru určí v pochybnostiach, či ide o obec určenú pre sústreďovanie výstavby. 5. Za miestne vyšetrenie vo veci výstavby budov poplatok sa nevyberá, s výnimkou výstavby budov, pri ktorých sa vydáva povolenie dodatočne, ako i budov a objektov uvedených v poznámke 4. |
+  - | Poznámky 1. Správny orgán môže upustiť od vybratia poplatku za vydanie rozhodnutia o prípustnosti stavby rodinného domčeka a povolenie na jeho trvalé užívanie vo vybratých alebo iných obciach vhodných pre sústreďovanie výstavby.*) 2. Pri drobných prístavbách, nadstavbách a pri iných stavebných úpravách alebo zmenách (napr. zriadenie priečok, dverných otvorov, zmena v účele užívania jednotlivých miestností a pod.) môže správny orgán znížiť poplatok za rozhodnutie o prípustnosti stavby a za povolenie trvalého užívania až na štvrtinu. 3. Poplatkom podľa tejto položky je kryté tak vydanie rozhodnutia o prípustnosti stavby, ako aj povolenie na trvalé užívanie stavby. Ak však ide o dodatočné vydanie uvedených povolení pre stavbu, ktorá sa vopred riadne nepovolila, príp. sa uskutočnila v zásadnom rozpore so schváleným projektom, správny orgán môže vymerať poplatok až päťdesiatnásobkom sadzby. 4. Za vydanie rozhodnutia o prípustnosti stavby rodinného domčeka v obciach, ktoré sa nevybrali pre sústreďovanie výstavby, správny orgán môže zvýšiť poplatok až na päťdesiatnásobok sadzby. Za povolenie výstavby objektov individuálnej rekreácie (rekreačné domčeky, chaty, altány a pod., včítane povolenia prístavieb a iných úprav týchto objektov - napr. zriadenie garáží a pod.) môže správny orgán zvýšiť poplatok až na dvadsaťpäťnásobok sadzby. Odbor výstavby krajského národného výboru určí v pochybnostiach, či ide o obec určenú pre sústreďovanie výstavby. 5. Za miestne vyšetrenie vo veci výstavby budov poplatok sa nevyberá, s výnimkou výstavby budov, pri ktorých sa vydáva povolenie dodatočne, ako i budov a objektov uvedených v poznámke 4. 6. Pri výstavbe súvislých garáží vyberie sa poplatok 100,- Kčs za každú garáž bez ohľadu na počet stavebníkov. 7. Pri výstavbe budovy pre hromadné garážovanie môže správny orgán zvýšiť poplatok až na dvadsaťnásobok. |
+
+  - 19a. | Vydanie povolenia na zborenie stavby | 20,- až 200,-
+
+  - | Poznámka Poplatok sa nevyberie v prípadoch, v ktorých zborenie stavby nariadil príslušný národný výbor. |
+
+  - 19b. | Vydanie osvedčenia na vykonávanie prác na projektovej dokumentácii stavby (vždy len pre určitú stavbu) | 1 % z ceny za práce na projektovej dokumentácii
 
   - Oddiel D
 
@@ -100,21 +136,21 @@
 
       - Poznámky spoločné pre celý oddiel
 
-      - 1. Poplatky podľa pol. 20 a 21 platia tiež hospodárske a iné organizácie (nie však rozpočtové), i keď sú podľa všeobecných predpisov od poplatku oslobodené.
-
       - 2. O tom, ktoré motorové vozidlá sa posudzujú ako motocykle, platí pre účely správnych poplatkov obdobne ustanovenie § 4 ods. 1 vyhlášky č. 99/1964 Zb., ktorou sa vykonáva zákon o dani z motorových vozidiel.
 
     - Pol. | Predmet poplatku | Poplatok Kčs | |
 
-    - 20. | Schválenie technickej spôsobilosti motorového vozidla zostaveného (i amatérsky) zo súčiastok, a to ak ide o | | |
+    - 20. | Schválenie technickej spôsobilosti motorového vozidla zostaveného (i amatérsky) zo súčiastok, a to ak ide o: | | |
 
-    - | a) jednostopové vozidlá s obsahom valcov do 50 ccm | 500,- | |
+    - | a) jednostopové vozidlá s obsahom do 50 ccm | 500,- | |
 
-    - | b) ostatné jednostopové vozidlá (včítane motocyklov s postranným vozíkom a motorových trojkoliek - ríkš) | 2000,- | |
+    - | b) ostatné jednostopové vozidlá (vrátane motocyklov s postranným vozíkom a motorových trojkoliek - ríkš) | 2000,- | |
 
-    - | c) dvojstopové vozidlá (včítane tzv. autíčok) | 8000,- | |
+    - | c) osobné automobily (vráane tzv. autíčok) | 12 000,- | |
 
-    - | Poznámky 1. V poplatku je zahrnutý i poplatok za skúšku na schválenie technickej spôsobilosti, za vydanie technického preukazu a osvedčenia o technickom preukaze pre motorové vozidlo. 2. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. b) a c) o 50 %. 3. Ak sa vo výnimočných prípadoch dodatočne povolí stavba motorového vozidla, ktoré bolo zostavené bez predchádzajúceho povolenia príslušných orgánov, vyberie sa poplatok sadzbou zvýšenou o 30 %. 4. Podľa tejto položky sa vyberie poplatok tiež v prípadoch, ak schvaľuje správny orgán technickú spôsobilosť motorového vozidla, ktoré bolo predtým na žiadosť držiteľa alebo z úradného príkazu trvale vyradené z prevádzky. Správny orgán môže v prípadoch uvedených v predchádzajúcej vete podľa okolností znížiť poplatok až na jednu pätinu sadzby. | | |
+    - | d) ostatné dvojstopové vozidlá | 15 000,- | |
+
+    - | Poznámky 1. V poplatku je zahrnutý i poplatok za skúšku na schválenie technickej spôsobilosti, za vydanie technického preukazu a osvedčenia o technickom preukaze pre motorové vozidlo. 2. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. b) a c) o 50 %. 3. Ak sa vo výnimočných prípadoch dodatočne povolí stavba motorového vozidla, ktoré bolo zostavené bez predchádzajúceho povolenia príslušných orgánov, vyberie sa poplatok sadzbou zvýšenou o 30 %. 4. Podľa tejto položky sa vyberie poplatok tiež v prípadoch, ak schvaľuje správny orgán technickú spôsobilosť motorového vozidla, ktoré bolo predtým na žiadosť držiteľa alebo z úradného príkazu trvale vyradené z prevádzky. Správny orgán môže v prípadoch uvedených v predchádzajúcej vete podľa okolností znížiť poplatok až na jednu pätinu sadzby. 5. Poplatok podľa pol. 20 písm. d) za schválenie technickej spôsobilosti špeciálneho automobilu (sériove nevyrábaného) a traktora zostaveného zo súčiastok sa znižuje na jednu tretinu. | | |
 
     - 21. | Schválenie technickej spôsobilosti motorového vozidla alebo prívesu po zmene jeho podstatnej časti, ak sa použili časti iného typu, ako boli pôvodné | | |
 
@@ -126,7 +162,7 @@
 
     - | b) dvojstopových motorových vozidiel (včítane tzv. autíčok) | 400,- | |
 
-    - | Poznámky 1. Súčasná alebo postupná výmena dvoch podstatných častí motorového vozidla za časti iného typu sa považuje za zostavenie vozidla zo súčiastok. 2. Za schválenie technickej spôsobilosti motorového vozidla, ak sa pripojí k motocyklu postranný vozík, vyberie sa poplatok vo výške 100 Kčs. 3. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. a) bb) o polovicu, podľa písm. b) o 30 %. 4. Za schválenie technickej spôsobilosti vozidla, ktorého prestavba sa vykonala bez predchádzajúceho povolenia, poplatok sa primerane zvýši až na dvojnásobok sadzby, najmenej však o 20 %. | | |
+    - | Poznámky 1. Súčasná alebo postupná výmena dvoch podstatných častí motorového vozidla za časti iného typu sa považuje za zostavenie vozidla zo súčiastok. 2. Za schválenie technickej spôsobilosti motorového vozidla, ak sa pripojí a) k motocyklu postranný vozík, b) za osobný alebo dodávkový automobil alebo za motocykel prívesný vozík, vyberie sa poplatok vo výške 100 Kčs. Pri prívesných a postranných vozíkoch k motocyklu, technickú spôsobilosť ktorých schválilo Ministerstvo dopravy pre určitý typ motocykla, a pri schválených typoch prívesov za osobné a dodávkové automobily sa vyberie poplatok podľa položky 23b. 3. Pri motorových vozidlách zariadených pre invalidov sa znižuje poplatok podľa písm. a) bb) o polovicu, podľa písm. b) o 30 %. 4. Za schválenie technickej spôsobilosti vozidla, ktorého prestavba sa vykonala bez predchádzajúceho povolenia, poplatok sa primerane zvýši až na dvojnásobok sadzby, najmenej však o 20 %. | | |
 
     - 22. | Zápis zmeny držiteľa motorového vozidla alebo prívesu (aj s vykonaním opráv v príslušných dokladoch): | | |
 
@@ -140,7 +176,7 @@
 
     - | aa) v období od 1. 1. 1946 do 31. 12. 1954 | 1000,- | |
 
-    - | bb) po 1. 1. 1955, ktoré sa získali na potvrdenku (poukaz) | | |
+    - | bb) po 1. 1. 1955, ktoré sa získali na potvrdenku (poukaz) po 1. januári 1955, ktoré prevodca získal na potvrdenku | | |
 
     - | Značka a typ | Poplatok pri veku motorového vozidla | |
 
@@ -170,7 +206,7 @@
 
     - 23. | a) Vydanie štátnej poznávacej značky pre osobné automobily, ktoré neboli dosiaľ v evidencii dopravného inšpektorátu | 100,- | |
 
-    - | b) Vydanie štátnej poznávacej značky v prípadoch, na ktoré sa nevzťahuje pol. 23 písm. a), vydanie medzinárodnej alebo osobitnej poznávacej značky, zápis zmeny stanovišťa motorového vozidla, zmeny mena alebo priezviska alebo adresy držiteľa motorového vozidla a iné podobné zmeny i s vydaním príslušných dokladov alebo vykonanie opráv v nich | 10,- | |
+    - | b) Vydanie štátnej poznávacej značky v prípadoch, na ktoré sa nevzťahuje pol. 23 písm. a), vydanie zvláštnej poznávacej značky, zápis zmeny stanovišťa motorového vozidla, zmeny mena alebo priezviska alebo adresy držiteľa motorového vozidla a iné podobné zmeny i s vydaním príslušných dokladov alebo vykonanie zmeny v nich | 10,- | |
 
     - | Poznámky 1. Ak sa poplatok vymeral podľa pol. 20, 21 alebo 22, nevymeria sa už poplatok podľa tejto položky. 2. Poplatok podľa písm. b) možno vymerať až vo výške desaťnásobku sadzby, ak sa neohlásili v určenej lehote skutočnosti, ktorých hlásenie je nariadené príslušnými predpismi o premávke na cestách.*) | | |
 
@@ -186,9 +222,21 @@
 
     - | Poznámky 1. Ak povoľuje správny orgán tomu istému žiadateľovi súčasne výcvik vodičov tak jednostopových, ako aj dvojstopových motorových vozidiel, poplatok je 600 Kčs. 2. Správny orgán môže poplatok znížiť, príp. od jeho vybratia upustiť, ak povoľuje individuálny výcvik vodičov-invalidov, ktorí v dôsledku svojej invalidity potrebujú osobitnú úpravu motorového vozidla. | | |
 
-    - 25. | Povolenie na vykonávanie prepravy osôb alebo nákladov motorovými vozidlami udelené zahraničnému podniku (podnikateľovi) | 200,- | |
+    - 25. | Povolenie na vykonávanie dopravy osôb alebo nákladov udelené podľa zákona č. 57/1950 Zb. o úprave podnikania v cestnej doprave tuzemskej alebo zahraničnej organizácii (podniku, podnikateľovi) | 200,- až 1000,- | |
 
-    - | Poznámky 1. Ak sa nepreukáže vodič motorového vozidla pri vstupe na územie ČSSR riadnym povolením, vyberie sa poplatok vo výške dvojnásobku sadzby. 2. Správny orgán môže so súhlasom Ministerstva financií určiť poplatok na základe vzájomnosti vo výške, v akej vyberá poplatok štát, ktorého je podnik (podnikateľ) príslušníkom, príp. od vybratia poplatku upustiť. | | |
+    - | Poznámky 1. Poplatok sa nevyberie, ak ide o nepravidelnú prepravu osôb pri zabezpečovaní brigádnických prác a pri nepravidelnej preprave osôb a telovýchovného inventára, ak sa tým zabezpečuje plnenie plánu rozvoja telovýchovy a športu. 2. Ak sa vodič motorového vozidla pri vstupe na územie ČSSR a pri výstupe z územia ČSSR nepreukáže riadnym povolením, vyberie sa poplatok vo výške dvojnásobku sadzby. 3. Správny orgán so súhlasom Ministerstva financií určí poplatok na základe vzájomnosti vo výške, v akej vyberá poplatok štát, ktorého je podnik (podnikateľ) príslušníkom, prípadne môže od vybratia poplatku upustiť. | | |
+
+    - 25a. | Povolenie na zvláštne užívanie ciest a miestnych komunikácií I., II. a III. triedy pri preprave zvlášť ťažkých, rozmerných predmetov a na užívanie vozidiel, ktorých rozmer alebo váha presahuje mieru ustanovenú osobitnými predpismi | | |
+
+    - | a) pri doprave po cestách presahujúcich územie obvodu jedného okresu | 200,- | |
+
+    - | b) pri doprave po cestách v obvode jedného okresu | 100,- | |
+
+    - | Poznámka V prípadoch uvedených pod písm. a) vyberá poplatok KNV (NVP), aj keď doprava presahuje jeho územie, v prípadoch uvedených pod písm. b) ONV. | | |
+
+    - 25b. | Povolenie na zvláštne užívanie pozemnej komunikácie podľa písm. b) až g) § 13 vyhlášky č. 136/1961 Zb., ktorou sa vykonáva zákon o cestných komunikáciách (cestný zákon) | 100,- až 500,- | |
+
+    - | Poznámky 1. Poplatok sa nevyberie, ak ide o povolenie na zloženie materiálu potrebného na opravu alebo údržbu pozemnej komunikácie, pokiaľ doba skládky nepresiahla dobu potrebnú na vykonanie prác. 2. Poplatok sa taktiež nevyberie za povolenie za užívanie pozemnej komunikácie, ak ide o usporiadanie kultúrneho, zábavného, športového alebo iného podniku celoštátneho významu. | | |
 
   - Oddiel E Letecká doprava a telekomunikácie Pol. | Predmet poplatku | Poplatok Kčs
 
@@ -204,13 +252,15 @@
 
   - | Poznámka Poplatok podľa tejto položky sa platí tiež za súhlas na ponechanie nutne zabitej ošípanej chovateľovi pre jeho domácnosť. |
 
+  - 28a. | Vydanie sprievodného dobytčieho listu pre všetkých držiteľov | 5,-
+
   - 29. | Poľovné lístky |
 
   - | a) ročné | 50,-
 
   - | b) trojročné | 120,-
 
-  - | Poznámky 1. Za vydanie ročného poľovného lístku pre cudzinca sa vyberie poplatok vo výške 400 Kčs; za vydanie mesačného poľovného lístku pre cudzinca sa vyberie poplatok vo výške 200 Kčs. 2. Od poplatku sú oslobodené poľovné lístky a) pre poslucháčov odborných škôl (lesnícke majstrovské školy, lesnícke technické školy a lesnícke fakulty vysokých škôl), ktorí nie sú po absolvovaní školy povinní skladať skúšku z poľovníctva (príloha č. 4 vyhlášky č. 24/1962 Zb.); žiadateľ musí predložiť potvrdenie správy školy o štúdiu; b) pre lesníkov a poľovníkov z povolania, ktorí sú v pracovnom pomere v organizácii, úlohou ktorej je riadenie, výskum, prevádzka alebo dozor nad poľovníctvom alebo výchova poľovníkov za podmienky, že majú v náplni svojej pracovnej činnosti aktívne vykonávanie poľovníctva, kontrolu poľovníctva alebo výučbu poľovníctva. Oslobodenie od poplatku trvá i pri prechode týchto pracovníkov do dôchodku. Žiadateľ musí predložiť potvrdenie organizácie o úlohách organizácie a o právach a povinnostiach, ktorými je poverený na úseku poľovníctva; c) pre cudzích štátnych príslušníkov, ktorí prídu do ČSSR na pozvanie vrcholných orgánov straníckych alebo vládnych alebo sú hosťami Ústredného výboru Československého poľovníckeho sväzu. 3. Cudzincom, ktorí majú v ČSSR trvalé bydlisko a sú tu zamestnaní, môže správny orgán na žiadosť poplatok znížiť až o 70 % sadzby platnej podľa poznámky 1. pre cudzincov. Žiadateľ musí predložiť doklady podľa § 24 vyhlášky č. 24/1962 Zb., ktorou sa vydávajú vykonávacie predpisy k zákonu o poľovníctve, odporúčanie závodu, organizácie ROH, príp. MNV svojho bydliska a potvrdenie o priemernej výške mzdy za posledné 3 mesiace. 4. Poľovný lístok oprávňuje tiež držať najviac 3 kusy poľovnej zbrane; za každú ďalšiu poľovnú zbraň vyberie sa pri vydaní poľovného lístku 10 Kčs za každý rok. Od cudzincov sa nevyžaduje za držanie poľovných zbraní poplatok. |
+  - | Poznámky 1. Za vydanie ročného poľovného lístku pre cudzinca sa vyberie poplatok vo výške 400 Kčs; za vydanie mesačného poľovného lístku pre cudzinca sa vyberie poplatok vo výške 200 Kčs. 2. Od poplatku sú oslobodené poľovné lístky a) pre poslucháčov odborných škôl (lesnícke majstrovské školy, lesnícke technické školy a lesnícke fakulty vysokých škôl), ktorí nie sú po absolvovaní školy povinní skladať skúšku z poľovníctva (príloha č. 4 vyhlášky č. 24/1962 Zb.); žiadateľ musí predložiť potvrdenie správy školy o štúdiu; b) pre lesníkov a poľovníkov z povolania, ktorí sú v pracovnom pomere v organizácii, úlohou ktorej je riadenie, výskum, prevádzka alebo dozor nad poľovníctvom alebo výchova poľovníkov za podmienky, že majú v náplni svojej pracovnej činnosti aktívne vykonávanie poľovníctva, kontrolu poľovníctva alebo výučbu poľovníctva. Oslobodenie od poplatku trvá i pri prechode týchto pracovníkov do dôchodku. Žiadateľ musí predložiť potvrdenie organizácie o úlohách organizácie a o právach a povinnostiach, ktorými je poverený na úseku poľovníctva; c) pre cudzích štátnych príslušníkov, ktorí prídu do ČSSR na pozvanie vrcholných orgánov straníckych alebo vládnych alebo sú hosťami Ústredného výboru Československého poľovníckeho sväzu. 3. Cudzincom, ktorí majú v ČSSR trvalé bydlisko a sú tu zamestnaní, môže správny orgán na žiadosť poplatok znížiť až o 70 % sadzby platnej podľa poznámky 1. pre cudzincov. Žiadateľ musí predložiť doklady podľa § 24 vyhlášky č. 24/1962 Zb., ktorou sa vydávajú vykonávacie predpisy k zákonu o poľovníctve, odporúčanie závodu, organizácie ROH, príp. MNV svojho bydliska a potvrdenie o priemernej výške mzdy za posledné 3 mesiace. 4. Poľovný lístok tiež oprávňuje držať najviac tri poľovné zbrane; za každú ďalšiu poľovnú zbraň sa vyberie pri vydaní poľovného lístku 10,- Kčs za každý rok. Tento poplatok sa nevyberá od osôb oslobodených podľa poznámky 2a/b tejto položky a od cudzincov. 5. Rovnako ako poľovné zbrane sa posudzujú náhradné hlavne pri kozliciach. |
 
   - 30. | Povolenie mimoriadneho odstrelu zveri za kus |
 
@@ -232,7 +282,7 @@
 
   - | b) trojročné | 80,-
 
-  - | Poznámky 1. Školskej mládeži od 10 rokov do 15 rokov môže sa na čas školských prázdnin (spravidla na mesiac júl a august) vydať rybársky lístok pre mladistvých za znížený poplatok 10 Kčs. Podmienkou je odporúčanie školy a vydanie povolenia na rybolov bez odplaty, príp. za odplatu neprevyšujúcu sumu poplatku za rybársky lístok pre mladistvých. 2. Od poplatku sú oslobodené rybárske lístky a) pre žiakov a učňov rybárskych škôl, ak predloží žiadateľ o svojom školení potvrdenie správy školy; b) pre rybárskych hospodárov (ich zástupcov) ustanovených podľa § 9 zákona č. 102/1963 Zb. o rybárstve a pre osoby ustanovené ako rybárska stráž podľa § 18 cit. zákona o rybárstve, ak žiadateľ predloží doklad o svojom ustanovení za rybárskeho hospodára (jeho zástupcu) alebo za rybársku stráž na ochranu rybárstva; c) pre učiteľov aa) rybárskych škôl, ak žiadateľ predloží potvrdenie školy, že je členom učiteľského sboru; bb) lesníckych škôl, ak žiadateľ predloží potvrdenie školy, že je členom učiteľského sboru a vyučuje na tejto škole rybárstvo; d) pre vedeckých pracovníkov z odboru rybárstva činných na vysokých školách a vo výskumných ústavoch, ak žiadateľ predloží potvrdenie dekanstva alebo správy ústavu, že je vedeckým pracovníkom v odbore rybárstva. |
+  - | Poznámky 1. Mládeži do 15 rokov môže sa vydať ročný rybársky lístok za znížený poplatok 10,- Kčs na základe: a) odporúčania školy, b) záväzného vyhlásenia Československého rybárskeho sväzu miestnej organizácie, že maloletému sa vydá povolenie na rybolov za odplatu neprevyšujúcu sumu poplatku 10,- Kčs, c) vyhlásenie zákonného zástupcu žiadateľa, že súhlasí s vydaním rybárskeho lístku a že žiadateľ (maloletý) bude vykonávať rybolov pod osobným dozorom zákonného zástupcu alebo plnoletej osoby, ktorá je oprávnená na výkon rybárskeho práva. Nárok na vydanie rybárskeho lístku za znížený poplatok maloletý má ešte v roku, v ktorom už dovŕšil 15 rokov. 2. Od poplatku sú oslobodené rybárske lístky a) pre žiakov a učňov rybárskych škôl, ak predloží žiadateľ o svojom školení potvrdenie správy školy; b) pre rybárskych hospodárov (ich zástupcov) ustanovených podľa § 9 zákona č. 102/1963 Zb. o rybárstve a pre osoby ustanovené ako rybárska stráž podľa § 18 cit. zákona o rybárstve, ak žiadateľ predloží doklad o svojom ustanovení za rybárskeho hospodára (jeho zástupcu) alebo za rybársku stráž na ochranu rybárstva; c) pre učiteľov aa) rybárskych škôl, ak žiadateľ predloží potvrdenie školy, že je členom učiteľského sboru; bb) lesníckych škôl, ak žiadateľ predloží potvrdenie školy, že je členom učiteľského sboru a vyučuje na tejto škole rybárstvo; d) pre vedeckých pracovníkov z odboru rybárstva činných na vysokých školách a vo výskumných ústavoch, ak žiadateľ predloží potvrdenie dekanstva alebo správy ústavu, že je vedeckým pracovníkom v odbore rybárstva. 3. Rybárske lístky vydané bezodplatne pre rybárskych hospodárov a pre rybársku stráž majú platnosť pre celé územie ČSSR. |
 
   - Oddiel G Školstvo, kultúra a zdravotníctvo Pol. | Predmet poplatku | Poplatok Kčs
 
@@ -246,15 +296,11 @@
 
   - | cc) akékoľvek technické zariadenie ľudovej zábavy vykonávanej socialistickými organizáciami, do činnosti ktorých nepatrí vykonávanie ľudovej technickej zábavy | 3000,- až 20 000,-
 
-  - | Poznámky 1. Poplatok podľa písm. a) cc) platia tiež hospodárske a iné organizácie (nie však rozpočtové), i keď sú podľa všeobecných predpisov od poplatku oslobodené. 2. Poplatok určený pod písm. a) aa) a cc) sa rozumie za jednotlivé zariadenia. |
+  - | Poznámky 1. Zrušená od 1. 4. 1967. 2. Poplatok určený pod písm. a) aa) a cc) sa rozumie za jednotlivé zariadenia. |
 
-  - 34. | Za vydanie lekárskeho potvrdenia o zdravotnom stave pre vystavenie vodičského preukazu, |
+  - 34. | Za vydanie lekárskeho vysvedčenia, potvrdenia alebo posudku | 10,-
 
-  - | žiadosť o daňovú úľavu, |
-
-  - | súdne konanie, |
-
-  - | jednorazové odškodnenie poškodenia na zdraví | 10,-
+  - | Poznámky 1. Za lekárske vysvedčenia, potvrdenia alebo posudky sa nepovažujú také zdravotné preukazy, vydanie ktorých zdravotníckym zariadeniam ukladajú všeobecne záväzné predpisy. 2. Poplatok sa nevyberá za vydanie lekárskeho vysvedčenia, potvrdenia alebo posudku osobám mladším ako 18 rokov a študujúcim, ktorí okrem štipendia nemajú vlastný príjem. |
 
   - Oddiel H Finančná správa Pol. | Predmet poplatku | Poplatok Kčs
 
@@ -268,19 +314,27 @@
 
   - | Poznámky 1. V ktorých prípadoch je potrebné povolenie na vývoz, ustanovujú vyhlášky č. 6/1963 Zb. k zákonu o devízovom hospodárstve a č. 31/1964 Zb. o konaní pri vývoze. Ak nepresahuje hodnota hnuteľných vecí 100 Kčs, poplatok sa nevyberá. 2. Podľa zásady vzájomnosti alebo z dôvodu všeobecného záujmu môže správny orgán od vybratia poplatku podľa tejto položky upustiť alebo ho znížiť; so súhlasom Ministerstva financií možno poplatok vyberať až vo výške dvojnásobku alebo vo výške, v akej vyberá poplatok štát, ktorého je žiadateľ príslušníkom. 3. Poplatok podľa písm. a) možno zaplatiť až pri vývoze. |
 
-  - 37. | Povolenie podľa zákona o devízovom hospodárstve s výnimkou povolenia podľa položky 35, z ceny | 1 % až 100 %
+  - 37. | Povolenie podľa zákona o devízovom hospodárstve s výnimkou povolenia podľa položky 35, z ceny | 1 % až 500 %
 
   - | Poznámka Poznámka 2 k položke 35 platí tu obdobne. |
 
   - 38. | Povolenie vecnej lotérie, tombol a pod., z hernej istiny | 10 % najmenej však 50,-
 
-  - | Poznámka Poplatok podľa tejto položky platia aj hospodárske a iné organizácie (nie však rozpočtové), aj keď podľa všeobecných predpisov sú od poplatku oslobodené. |
+  - 38a. | Vydanie potvrdenia o nedoplatkoch na daniach a poplatkoch, prípadne o tom, že žiadateľ nedlhuje dane a poplatky | 10,-
+
+  - | Poznámka Ak sa potvrdenie vydáva k žiadosti o vysťahovanie, zvyšuje sa poplatok na dvojnásobok. |
+
+  - 38b. | Povolenie remeselníckej činnosti alebo drobnej živnosti | 20,- až 500,-
+
+  - | Poznámka Poplatok sa nevyberie, ak ide o povolenie činnosti alebo vykonávanie služieb podľa Zásad č. 20/1965 Zb. pre poskytovanie niektorých služieb a opráv občanmi na základe povolenia národného výboru. |
 
   - Oddiel K Konzulárne poplatky
 
-    - Poznámka spoločná pre celý oddiel
+    - Poznámky spoločné pre celý oddiel
 
-    - Poplatky podľa tohto oddielu vyberajú Ministerstvo zahraničných vecí a čs. zastupiteľské úrady, ak jednotlivé položky (a poznámky k nim) neurčujú inak.
+    - 1. Poplatky podľa tohto oddielu vyberajú Ministerstvo zahraničných vecí a čs. zastupiteľské úrady, ak jednotlivé položky (a poznámky k nim) neurčujú inak.
+
+    - 2. Pri vyrubovaní a platení konzulárnych poplatkov na československú menu zastupiteľské úrady spravidla používajú prepočítavací kurz (pevný) ustanovený po dohode s Ministerstvom financií.
 
   - Pol. | Predmet poplatku | Poplatok Kčs
 
@@ -316,7 +370,7 @@
 
   - | a) podpisu | 10,-
 
-  - | b) úradnej pečate a úradných podpisov (superlegalizácia) | 20,-
+  - | b) Overenie úradnej pečate a úradných podpisov (superlegalizácia) | 20,- až 100,-
 
   - | c) úradnej pečate a úradných podpisov i s opatrením legalizačnej doložky cudzieho úradu | 40,-
 
@@ -348,7 +402,7 @@
 
   - | c) bez overenia alebo za overenie správnosti vo výške prekladu predloženého stranou | vo výške polovice sadzieb podľa písm. b)
 
-  - | Poznámky 1. Poplatok sa vyberá uvedenými sadzbami za každú i len začatú stranu prekladu. 2. Za preklad archívneho materiálu z latinčiny alebo zo starej nemčiny (pred rokom 1850) do češtiny alebo slovenčiny sa vyberá poplatok sadzbou podľa písm. a) cc). Za preklad archívneho materiálu z nemčiny po roku 1850 alebo z maďarčiny do češtiny alebo slovenčiny sadzbou podľa písm. a) bb). Poplatok vyberajú archívne orgány. 3. Za druhé a každé ďalšie vyhotovenie prekladu alebo overenie prekladu sa vyberá poplatok vo výške 30 % sadzieb. |
+  - | Poznámky 1. Poplatok sa vyberá uvedenými sadzbami za každú i len začatú stranu prekladu. 2. Za preklad archívneho materiálu z latinčiny alebo zo starej nemčiny (pred rokom 1850) do češtiny alebo slovenčiny sa vyberá poplatok sadzbou podľa písm. b), cc). Poplatok vyberajú archívne orgány. 3. Za druhé a každé ďalšie vyhotovenie prekladu alebo overenie prekladu sa vyberá poplatok vo výške 30 % sadzieb. |
 
   - Oddiel L Konanie o vynálezoch, ochranných značkách a chránených vzoroch
 
