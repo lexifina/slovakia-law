@@ -1,6 +1,6 @@
-# § 105
+# § 60e
 
-(1) Federálny cenový úrad
+(1) Federálne ministerstvo financií
 
 - a) riadi a kontroluje prípravu a uskutočňovanie opatrení vlády Československej socialistickej republiky v oblasti cien;
 
@@ -8,7 +8,7 @@
 
 - c) určuje, ktoré podklady potrebné pre štátne riadenie cien predkladajú orgány a organizácie.
 
-(2) Federálny cenový úrad
+(2) Federálne ministerstvo financií
 
 - a) určuje ceny národohospodársky významných výrobkov v rozsahu určenom vládou Československej socialistickej republiky;
 
