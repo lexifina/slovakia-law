@@ -84,11 +84,31 @@ Príloha 1 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
     - ODDIEL 3. Vybavenie a výstroj lodí.
 
-      - Čl. 10. Poznávacia značka a vlajka
+      - Čl. 10. Poznávacie znaky a vlajka
 
-        - (1) Všetky lode musia byť označené číslom alebo menom lode a názvom organizácie, ktorej lode patria, ako i menom prístavu, kde sú zapísané. Ak je v postrkovom vleku vlečná loď zakrytá vlečenými loďmi, musí byť číslo alebo meno lode a názov organizácie vyznačené na štítoch dostatočne veľkých, umiestených na bočných stranách veliteľského môstika a z oboch bokov dobre viditeľných.
+        - (1) Každá loď musí niesť od východu do západu slnka na korme vlajku štátu, ktorému patrí.
 
-        - (2) Loď je povinná niesť od východu do západu slnca na korme vlajku štátu, ktorému náleží.
+        - (2) Okrem vlajky musí mať každá loď tieto poznávacie znaky:
+
+          - a) meno alebo číslo lode, umiestnené na oboch bokoch a na korme lode tak, aby bolo viditeľné zozadu; na kolesovej lodi sa meno alebo číslo umiestňuje na kolesniciach. Ak nie sú pri bočnom alebo postrkovom vleku nápisy na vlečnej lodi viditeľné, upevnia sa na zábradlí veliteľského mostíka na oboch bokoch lode tabule s menom alebo číslom lode;
+
+          - b) označenie domovského prístavu alebo miesta registrácie, umiestnené na korme lode;
+
+          - c) úplný alebo skrátený názov organizácie, ktorej loď patrí (majiteľa lode), umiestnený na oboch bokoch čela lode; na lodi bez vlastného pohonu sa umiestni toto označenie aj na korme lode;
+
+          - d) označenie štátnej príslušnosti lode začiatočnými písmenami štátu, umiestnenými za označením domovského prístavu alebo miesta registrácie; označenie štátu začiatočnými písmenami netreba, ak je štátna príslušnosť lode zrejmá z názvu organizácie, ktorej loď patrí (majiteľa lode);
+
+          - e) označenie najvyššieho prípustného počtu cestujúcich na osobných lodiach, umiestnené na dobre viditeľnom mieste vnútri lode;
+
+          - f) označenie nosnosti lode v tonách na nákladných lodiach, a to menšími písmenami na oboch bokoch lode pod menom alebo číslom lode.
+
+        - (3) Na označenie organizácie, ktorej loď patrí (majiteľa lode), môže sa na komíne alebo na výfukovom kryte umiestniť podnikový znak.
+
+        - (4) Na malých lodiach (čl. 84 Základných predpisov) sa meno alebo číslo lode umiestňuje na oboch bokoch vonkajšej strany lode a názov organizácie, ktorej loď patrí (majiteľa lode), sa umiestňuje na viditeľnom mieste na vnútornej alebo vonkajšej strane lode. Meno alebo číslo lode môže sa nahradiť registrovým číslom.
+
+        - (5) Na záchranných loďkách a motorových člnoch, ktoré patria k výstroju lode, sa umiestňuje meno alebo číslo lode na vnútornej alebo vonkajšej strane lode.
+
+        - (6) Všetky písomné poznávacie znaky lode sa vyhotovujú zreteľným latinským písmom a farbou, ktorá sa jasne odlišuje od pozadia. Okrem nápisov latinským písmom môže sa loď označiť aj nápismi národným písmom. Výška písmen a číslic označujúcich meno alebo číslo lode musí byť najmenej 20 cm a pri ostatných nápisoch najmenej 15 cm. Na malých lodiach musí byť výška písmen alebo číslic označujúcich ich meno alebo číslo najmenej 10 cm. Šírka písmen a medzery medzi nimi musia byť úmerné výške písmen a rozmerom lode.
 
       - Čl. 11. Ponorová stupnica
 
