@@ -1,0 +1,1 @@
+- *) Zákon č. 23/1963 Zb. o ľudovej kontrole a o národohospodárskej evidencii a štatút orgánov ľudovej kontroly uverejnený v čiastke č. 5/1963 Vestníka Ústrednej komisie ľudovej kontroly a štatistiky a registrovaný v čiastke č. 17/1963 Zbierky zákonov.
