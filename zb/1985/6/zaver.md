@@ -1,3 +1,0 @@
-Minister:
-
-Pješčak v. r.
