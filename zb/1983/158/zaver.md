@@ -1,1 +1,0 @@
-Colotka v. r.
