@@ -14,6 +14,8 @@ So Zmluvou vyslovilo súhlas Federálne zhromaždenie Československej socialist
 
 Podľa svojho článku 8 odseku 1 Zmluva nadobúda platnosť 5. júlom 1981.
 
+Nadobudnutím platnosti Protokolu medzi vládou Slovenskej republiky a vládou Ukrajiny o dvojstranných zmluvných vzťahoch medzi Slovenskou republikou a Ukrajinou skončila platnosť tejto zmluvy (oznámenie č. 382/2002 Z. z.).
+
 České znenie Zmluvy sa vyhlasuje súčasne.*)
 
 Minister:
