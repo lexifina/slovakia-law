@@ -1,0 +1,1 @@
+- *) Rozumí se ode dne vyhlášení dekretu č. 16/1945 Sb., t. j. ode dne 9. července 1945.
