@@ -1,3 +1,0 @@
-# Čl. 9
-
-Základným zdrojom finančných prostriedkov je socialistická výroba. Predpokladom pre získanie vyšších priamych príjmov národnými výbormi je aby neustále zabezpečovali zvyšovanie výroby a rozvoj platených služieb obyvateľstvu a získavali tak vyššie priame príjmy. Pritom vyššie priame príjmy nesmú sa získavať na úkor kvality výrobkov alebo služieb, predražovaním, nežiadúcou orientáciou na rentabilnejšie služby či výroby alebo iným spôsobom, ktorý je v rozpore so záujmom spoločnosti. Všetky priame príjmy získané v rozpore so záujmom spoločnosti budú sa odčerpávať a odvádzať do ústredného rozpočtu.
