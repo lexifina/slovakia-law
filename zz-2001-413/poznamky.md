@@ -1,0 +1,1 @@
+- 1) § 96 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.

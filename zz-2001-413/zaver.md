@@ -1,0 +1,1 @@
+Brigita Schmögnerová v. r.
