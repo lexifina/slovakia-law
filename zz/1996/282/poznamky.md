@@ -1,0 +1,1 @@
+- 1) Vyhláška Národnej banky Slovenska č. 260/1993 Z. z. o vydaní bankoviek po 500 Sk do obehu a o stiahnutí okolkovaných bankoviek po 500 Kčs z obehu.
