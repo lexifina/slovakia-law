@@ -1,0 +1,1 @@
+- 1) § 92 zákona České národní rady č. 133/1985 Sb., o požární ochraně.
