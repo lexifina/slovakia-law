@@ -1,0 +1,3 @@
+# Čl. II
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách, ako vyplýva zo zmien a doplnení vykonaných zákonom Slovenskej národnej rady č. 293/1992 Zb., zákonom Slovenskej národnej rady č. 323/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 187/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 180/1995 Z. z., zákonom Národnej rady Slovenskej republiky č. 181/1995 Z. z., zákonom Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákonom č. 80/1998 Z. z., zákonom č. 256/2001 Z. z. a týmto zákonom.
