@@ -12,6 +12,8 @@
 
 - c) fyzickú osobu alebo právnickú osobu, ktorá nadobúda akcie postupom podľa osobitného predpisu.<sup>36bb</sup>)
 
+- d) fyzickú osobu alebo právnickú osobu, ktorá nadobúda akcie kúpou podniku alebo jeho časti postupom podľa osobitného predpisu.<sup>36bc</sup>)
+
 (4) Verejný prísľub oznámi právnická osoba alebo fyzická osoba (ďalej len „navrhovateľ“) organizátorovi verejného trhu, ktorý zabezpečí kúpu akcií. Tento organizátor verejného trhu uverejní obsah verejného prísľubu v periodickej tlači s celoštátnou pôsobnosťou uverejňujúcou burzové správy. Týmto dňom začína plynúť lehota platnosti verejného prísľubu. Verejný prísľub obsahuje
 
 - a) označenie osoby, ktorá uskutočňuje verejný prísľub,
