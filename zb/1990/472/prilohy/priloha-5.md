@@ -10,14 +10,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 | | | 10 |
 
-3. | | vyhl. č. 342/1951 Ú. v. | 1 ods. 3 | vydávanie povolení na zriadenie včelích oplodňovacích staníc
-
-4. | | | 2 | povoľovanie výnimky chovať iné včelstva v chránenom obvode oplodňovacej stanice
-
-5. | | | 3 | nariaďovanie držiteľom včelstiev, umiestnených v chránenom obvode bez povolenia, odstrániť ich v primeranej lehote
-
-6. | | vyhl. č. 191/1954 Ú. v. | 8 | zisťovanie škody na poľnohospodárskom majetku, spôsobenej živelnou pohromou a predkladanie žiadosti o podporu
-
 7. | | vl. nar. č. 47/1955 Zb. | 3 | podávanie návrhov na vykonanie pozemkových úprav
 
 8. | | | 6 ods. 1 | ustanovenie miestnych komisii pre pozemkové úpravy
@@ -38,47 +30,13 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 | | zák. č. 67/1960 Zb. | 22 ods. 5 |
 
-16. | | vyhl. č. 37/1963 Zb. | 10 | zisťovanie rozsahu uhynutia včiel
+20. | | zák. č. 61/1964 Zb. | 28 ods. 1 | udeľovanie súhlasu na zrušenie chmeľnice na návrh Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho
 
-17. | | | 12 ods. 1 | povoľovanie výnimky zo zákazu ničenia škodcov
-
-18. | | zák. č. 61/1964 Zb. | 25 ods. 2 | nariaďovanie vykonania hromadných zásahov proti škodcom rastlín
-
-19. | | | 25 ods. 3 | zabezpečovanie spolupráce obyvateľstva podľa predpisov o občianskej pracovnej pomoci
-
-20. | | | 28 ods. 1 | udeľovanie súhlasu na zrušenie chmeľnice na návrh Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho
-
-21. | | | 30 ods. 1 | vydávanie povolení na vyrúbanie zdravých ovocných stromov na súvislej ploche sadov menšej ako 0,25 ha a na vyklčovanie zdravých vinohradov menších ako 0,10 ha
-
-22. | | vyhl. č. 62/1964 Zb. | 32 ods. 2 | hlásenie výskytu mimoriadne nebezpečných škodcov alebo podozrenie z neho
-
-23. | | | 34 ods. 1 | vedenie podrobnej evidencie všetkých pozemkov zamorených škodcami vnútornej karantény vo svojom obvode
-
-24. | | | 36 ods. 1 | kontrolovanie, či a ako užívatelia pozemkov (aj neobrábaných) vykonávajú ochranu pozemkov, porastov a vlastných skladov proti škodcom
-
-25. | | | 36 ods. 3 | nariaďovanie účinného hromadného zásahu, ak sa vyskytnú škodcovia v nebezpečnom rozsahu, alebo aj je dôvodná obava z ich nebezpečného rozšírenia
-
-26. | | | 38 | spolupracovanie pri organizovaní, zabezpečovaní, vykonávaní a kontrole ochrany pozemkov, porastov a skladov proti škodcom
-
-27. | | | 46 ods. 2 | udeľovanie súhlasu na vyrúbanie rozptýlených zdravých ovocných stromov, ktoré zabraňujú obrábaniu pôdy mechanickými prostriedkami
-
-28. | | | 46 ods. 3 | nariaďovanie všetkým pestovateľom, ktorí včas nevyrúbali celkom odomreté (úplne vyschnuté) ovocné stromy všetkých druhov, nevyklčovali prestarnuté vinice a neodstránili drevo z vyklčovaných stromov, aby tak urobili do 15 dni, ak pestovatelia týchto stromov nesplnia uloženú povinnosť, nariadi náhradný termín
+25. | | vyhl. č. 62/1964 Zb. | 36 ods. 3 | nariaďovanie účinného hromadného zásahu, ak sa vyskytnú škodcovia v nebezpečnom rozsahu, alebo aj je dôvodná obava z ich nebezpečného rozšírenia
 
 29. | | zák. SNR č. 110/1972 Zb. | 4 ods. 3 | spolupracovanie s plemenárskymi organizáciami pri plnení úloh štátnej starostlivosti o rozvoj plemenárstva
 
-30. | | | 11 ods. 2 | prerokúvanie s plemenárskymi organizáciami zabezpečovanie párenia hovädzieho dobytka, ošípaných, oviec a kôz jednotlivých chovateľov
-
-31. | | vyhl. č. 108/1974 Zb. | 9 ods. 2 | požadovanie od plemenárskych organizácii, aby mu oznámili pripárovacie plány hovädzieho dobytka a vyhlásil ich spôsobom, ktorý je v mieste zvyčajný
-
-32. | | | 17 ods. 1 | zostavovanie najmenej raz za rok pripárovaclch plánov na zabezpečenie párenia hovädzieho dobytka, ošípaných, oviec a kôz jednotlivých chovateľov
-
-33. | | | 19 ods. 1 | požadovanie od plemenárskych organizácii, aby im oznámili chovateľov a pripárovacie plány párenia koni
-
-35. | rybárstva | zák. č. 102/1963 Zb. | 9 ods. 4 | schvaľovanie rybárskeho hospodára a jeho zástupcu
-
-36. | | | 11 ods. 1 | vydávanie rybárskych lístkov
-
-37. | | | 48 ods. 2 | vykonávanie opatrení na ochranu prírody, kultúrnych pamiatok a iných vedeckých záujmov pri výkone rybárskeho práva a pri hospodárení na rybníkoch na návrh orgánov štátnej ochrany
+37. | zák. č. 102/1963 Zb. | rybárstva | 48 ods. 2 | vykonávanie opatrení na ochranu prírody, kultúrnych pamiatok a iných vedeckých záujmov pri výkone rybárskeho práva a pri hospodárení na rybníkoch na návrh orgánov štátnej ochrany
 
 38. | | | 49 ods. 2, | schvaľovanie rybárskej stráže a vydávanie osvedčení
 
@@ -88,27 +46,9 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 | | | 52 |
 
-42. | dopravy | zák. č. 68/1979 Zb. v znení zák. 118/1990 Zb. | 34 ods. 1 | povoľovanie vykonávania mestskej hromadnej dopravy
+44. | zák. č. 68/1979 Zb. v znení zák. 118/1990 Zb. | dopravy | 46 ods. 1 písm. a) | vykonávanie štátneho odborného dozoru v cestnej doprave
 
-43. | | | 35 písm. b) | vydávanie súhlasu na zastavenie, obmedzenie, rozšírenie alebo na inú podstatnú zmenu premávky v mestskej autobusovej doprave
-
-44. | | | 46 ods. 1 písm. a) | vykonávanie štátneho odborného dozoru v cestnej doprave
-
-45. | cestného hospodárstva | zák. č. 135/1961 Zb. v znení zák. č. 27/1984 Zb. | 3c ods. 1 písm. c) | vykonávanie štátneho odborného dozoru nad miestnymi a účelovými komunikáciami
-
-46. | | | 7 | povoľovanie uzávierky a obchádzky na miestnych komunikáciách
-
-47. | | | 8 ods. 1 | povoľovanie zvláštneho užívania miestnych komunikácii
-
-48. | | | 18 ods. 2 | povoľovanie výnimky zriaďovať nové kríženia miestnych komunikácii so železnicami mimo úrovne koľaji
-
-49. | | | 18 ods. 6 | vydávanie súhlasu na spôsob umiestnenia vedenia na miestnych komunikáciách a na vykonanie plánovaných opráv, údržby a odstránenie týchto vedení
-
-50. | | | 19 ods. 2 | určovanie rozsahu potrebných úprav miestnych komunikácii pri stavbách
-
-51. | | | 20 | povoľovanie výnimiek pri odstraňovaní pevných prekážok na miestnych komunikáciách
-
-52. | | | 48 ods. 2 písm. a) | prerokovanie miestnej úpravy dopravného značenia
+48. | zák. č. 135/1961 Zb. v znení zák. č. 27/1984 Zb. | cestného hospodárstva | 18 ods. 2 | povoľovanie výnimky zriaďovať nové kríženia miestnych komunikácii so železnicami mimo úrovne koľaji
 
 53. | obrany štátu | zák. č. 92/1949 Zb. v znení zák. č. 69/1978 Zb. | 76 ods. 1 písm. a) | vydávanie rozhodnutí a opatrení podľa branného zákona
 
@@ -179,8 +119,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 82. | | | 53 ods. 2 | vydávanie potvrdení o tom, že oznámenie o opätovnom prijatí predošlého priezviska sa vzalo na vedomie a poznamenalo v knihe manželstiev
 
 83. | | | 62 | vykonávanie výmeny matrík podľa medzinárodných zmlúv a vyhotovenie výpisov z matrík
-
-84. | | vyhl. č. 253/1990 Zb. | 6 | upravovanie trvania vlajkovej výzdoby
 
 85. | | zák. SNR č. 372/1990 Zb. | 53 ods. 1 | prejednávanie priestupkov
 

@@ -37,7 +37,3 @@ pol. | úsek štátnej správy | Na úseku štátnej správy prechádza pôsobno
 13. | | | 58 ods. 1 | povoľovanie vedenia čiastkovej matriky
 
 14. | | | 60 | obnovenie matriky
-
-20. | kontroly | vyhl. č. 75/1959 Ú. v. | 1 | platnosť metodických pokynov (rozsah úpravy)
-
-21. | | zák. SNR č. 103/1971 Zb. | 11, 12, 13 | vykonávanie kontroly
