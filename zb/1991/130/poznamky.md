@@ -1,0 +1,1 @@
+- 1) Napr. zákon SNR č. 544/1990 Zb. o miestnych poplatkoch.
