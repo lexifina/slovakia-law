@@ -1,0 +1,1 @@
+- **) Tu sa vyhlasuje slovenské znenie na str. 3
