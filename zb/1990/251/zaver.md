@@ -1,3 +1,0 @@
-Námestník:
-
-Horálek v. r.
