@@ -1,0 +1,1 @@
+- 1) Opatrenie Štátnej banky česko-slovenskej, ktorým sa určujú podmienky pre usmerňovanie platobnej bilancie Českej a Slovenskej Federatívnej Republiky uverejnené v čiastke 29/1992 Zb.
