@@ -1,0 +1,1 @@
+Peter Magvaši v. r.
