@@ -1,0 +1,1 @@
+- *) Ide predovšetkým o prevádzkové výkony mestského hospodárstva, pozri kód 841 zoznamu činností podnikov miestneho hospodárstva a výrobných družstiev (Smernice a pokyny československej štatistiky 16/1 MH-VD).
