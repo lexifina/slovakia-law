@@ -30,15 +30,23 @@
 
 - 7) § 142 ods. 6 a 7 zákona o sociálnom zabezpečení.
 
+- 7a) § 145b zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb.
+
 - 8) § 111 a 112 zákona o sociálnom zabezpečení.
 
 - 9) Pôsobnosť Národného výboru hlavného mesta Slovenskej socialistickej republiky Bratislavy je vymedzená zákonom SNR č. 43/1968 Zb. o hlavnom meste Slovenska Bratislave v znení zákona SNR č. 63/1971 Zb., zákonného opatrenia Predsedníctva SNR č. 90/1971 Zb. a zákona SNR č. 127/1985 Zb. (úplné znenie č. 41/1986 Zb.).
+
+- 9a) § 63b zákona č. 69/1967 Zb. o národných výboroch v znení neskorších predpisov (úplné znenie č. 157/1988 Zb.).
 
 - 10) § 2 ods. 1 písm. c) zákona o sociálnom zabezpečení.
 
 - 11) § 7 zákona č. 117/1966 Zb. o niektorých dôsledkoch zanedbávania starostlivosti o deti.
 
 - 12) § 34 vyhlášky Štátneho úradu sociálneho zabezpečenia č. 104/1964 Zb., ktorou sa vykonáva zákon o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa, v znení vyhlášky č. 92/1968 Zb. a vyhlášky č. 74/1984 Zb.
+
+- 12a) § 174 písm. b) č. 2 zákona o sociálnom zabezpečení.
+
+- 12b) § 143 zákona č. 103/1964 Zb. (úplné znenie č. 240/1988 Zb.).
 
 - 13) § 120 ods. 4 zákona o sociálnom zabezpečení.
 
@@ -109,6 +117,8 @@
 - 43) § 106 ods. 4 zákona o sociálnom zabezpečení.
 
 - 44) § 86 ods. 2 zákona o sociálnom zabezpečení.
+
+- 44a) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 195/1989 Zb. o zabezpečení pracovníkov pri organizačných zmenách a občanov pred nástupom do zamestnania.
 
 - 45) § 112 zákona o sociálnom zabezpečení.
 
