@@ -2,6 +2,10 @@
 
 - 2) § 26 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
+- 2a) Čl. 27 Dohovoru o právnom postavení osôb bez štátnej príslušnosti (oznámenie č. 206/2001 Z. z.).
+
+- 2b) Čl. 28 Dohovoru o právnom postavení utečencov (oznámenie č. 319/1996 Z. z.).
+
 - 3) Napríklad vyhláška ministra zahraničných vecí č. 95/1975 Zb. o Zmluve medzi Československou socialistickou republikou a Rakúskou republikou o spoločných štátnych hraniciach.
 
 - 4) Dohoda medzi vládou Slovenskej republiky a vládou Českej republiky o zrušení vízovej povinnosti (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 225/1993 Z. z.).
