@@ -14,6 +14,8 @@
 
 - 7) Napríklad zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
+- 7a) Zákon Slovenskej národnej rady č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení zákona č. 394/2000 Z. z.
+
 - 8) Zákon č. 311/1999 Z. z. o registri trestov.
 
 - 9) Napríklad vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
