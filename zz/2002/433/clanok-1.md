@@ -16,6 +16,16 @@ Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobn�
 
 - 5. V § 6 ods. 2 sa slová „podľa § 2 písm. a) a d)" nahrádzajú slovami „podľa § 2 písm. a)".
 
+- 6. V § 42a ods. 1 druhá veta znie:
+
+- „Ak ide o právnické osoby so zahraničnou majetkovou účasťou, povolenie možno vydať len právnickej osobe s majetkovou účasťou osôb so sídlom alebo s trvalým pobytom v štáte Európskeho hospodárskeho priestoru<sup>4a</sup>) alebo v štáte Organizácie pre hospodársku spoluprácu a rozvoj.“.
+
+- Poznámka pod čiarou k odkazu 4a znie:
+
+- „4a)
+
+- § 3 ods. 5 zákona č. 429/2002 Z. z. o burze cenných papierov.“.
+
 - 7. V § 42a ods. 1 sa vypúšťa štvrtá veta.
 
 - 8. V § 42a ods. 5 písm. b) sa vypúšťajú slová „pričom predaj žrebov nesmie trvať dlhšie ako jeden rok,".
