@@ -1,0 +1,1 @@
+- 1) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 276/1997 Z. z. o uzavretí Dohovoru o zákaze vývoja, výroby, hromadenia a použitia chemických látok a o ich zničení.
