@@ -2,6 +2,50 @@
 
 Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 58/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 376/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z., zákona č. 354/1997 Z. z., zákona č. 366/1997 Z. z., zákona č. 235/1998 Z. z., zákona č. 236/1998 Z. z., zákona č. 238/1998 Z. z., zákona č. 56/1999 Z. z., zákona č. 300/1999 Z. z., zákona č. 345/1999 Z. z., zákona č. 232/2000 Z. z., zákona č. 233/2000 Z. z., zákona č. 243/2000 Z. z., zákona č. 245/2000 Z. z. a zákona č. 467/2000 Z. z. sa mení a dopĺňa takto:
 
+- 1. Za § 1 sa vkladá § 1a, ktorý znie:
+
+- „§ 1a
+
+- Tento zákon upravuje aj právne vzťahy z poistenia zodpovednosti zamestnávateľa za škodu pri pracovnom úraze a pri chorobe z povolania<sup>1</sup>) (ďalej len „poistenie zodpovednosti za škodu“) a vykonávanie poistenia zodpovednosti za škodu Sociálnou poisťovňou.“.
+
+- Poznámka pod čiarou k odkazu 1 znie:
+
+- „1)
+
+- Zákonník práce.“.
+
+- Doterajšia poznámka pod čiarou k odkazu 1 sa označuje ako 1a.
+
+- 2. V § 3 odsek 1 znie:
+
+- „(1)
+
+- Sociálna poisťovňa vykonáva nemocenské poistenie a dôchodkové zabezpečenie podľa osobitných predpisov<sup>1a</sup>) a poistenie zodpovednosti za škodu podľa tohto zákona a podľa osobitného predpisu.<sup>1</sup>)“.
+
+- Poznámka pod čiarou k odkazu 1a znie:
+
+- „1a)
+
+- Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
+
+- Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
+
+- Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.“.
+
+- 3. V § 3 ods. 2 písm. a) sa za slovo „poistenie“ vkladá čiarka, vypúšťa sa slovo „a“ a na konci sa pripájajú tieto slová: „a poistenie zodpovednosti za škodu,“.
+
+- 4. V § 3 ods. 2 písm. b) sa odkaz „1“ nahrádza odkazom „1a“.
+
+- 5. V § 3 ods. 2 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- zabezpečuje výplatu náhrady škody na zdraví spôsobenej pracovným úrazom a chorobou z povolania (ďalej len „náhrada škody“) podľa tohto zákona a podľa osobitného predpisu,<sup>1</sup>)“.
+
+- Doterajšie písmeno c) sa označuje ako písmeno d).
+
 - 6. V § 7 ods. 1 sa za písmeno g) vkladajú nové písmená h) a i), ktoré znejú:
 
 - „h)
@@ -24,6 +68,8 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - Doterajší odsek 10 sa označuje ako odsek 11.
 
+- 9. V § 9 ods. 1 písm. a) sa za slovo „zabezpečenie“ vkladá čiarka, vypúšťa sa slovo „a“ a na konci sa vypúšťa čiarka a pripájajú sa tieto slová: „a poistenie zodpovednosti za škodu,“.
+
 - 10. V § 9 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
 - „(2)
@@ -31,6 +77,20 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 - Ústredie vystupuje v mene Sociálnej poisťovne vo všetkých veciach patriacich do pôsobnosti ústredia podľa tohto zákona alebo podľa osobitného predpisu<sup>5</sup>) v konaní pred súdmi a orgánmi verejnej moci.“.
 
 - Doterajší odsek 2 sa označuje ako odsek 3.
+
+- 11. V § 10 sa odsek 1 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- vykonáva poistenie zodpovednosti za škodu, vyberá a vymáha poistné na poistenie zodpovednosti za škodu a zabezpečuje výplatu náhrady škody podľa tohto zákona a podľa osobitných predpisov.<sup>7a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 7a znie:
+
+- „7a)
+
+- Zákonník práce.
+
+- Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.“.
 
 - 12. V § 10 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
@@ -212,9 +272,47 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).“.
 
+- 14. V § 13 ods. 1 písm. a) sa za slovo „poistenie“ vkladá čiarka, vypúšťa sa slovo „a“ a na konci sa pripájajú tieto slová: „a na poistenie zodpovednosti za škodu“.
+
+- 15. V § 13 sa odsek 1 dopĺňa písmenami h) a i), ktoré znejú:
+
+- „h)
+
+- prostriedky poskytnuté z Fondu národného majetku Slovenskej republiky,
+
+- i)
+
+- prostriedky z rozpočtovej rezervy vlády Slovenskej republiky.“.
+
+- 16. V § 13 ods. 2 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- náhrady škôd,“.
+
+- Doterajšie písmeno c) sa označuje ako písmeno d).
+
 - 17. Nadpis pod § 14 sa umiestňuje nad § 14.
 
+- 18. Za § 14 sa vkladá § 14a, ktorý znie:
+
+- „§ 14a
+
+- Poistné na poistenie zodpovednosti za škodu platí zamestnávateľ, ktorý zamestnáva aspoň jedného zamestnanca.“.
+
 - 19. V § 15 ods. 4 a 5 sa slová „§ 16 ods. 12“ nahrádzajú slovami „§ 16 ods. 14“.
+
+- 20. Za § 15 sa vkladá § 15a, ktorý znie:
+
+- „§ 15a
+
+- (1)
+
+- Zamestnávateľ je povinný si poistné na poistenie zodpovednosti za škodu vypočítať sám, pričom použije sadzby poistného na poistenie zodpovednosti za škodu podľa hlavného druhu činnosti vykonávanej zamestnávateľom uvedené v prílohe. Najnižšie poistné na poistenie zodpovednosti za škodu za poistné obdobie je 70 Sk. Poistné obdobie na účely poistenia zodpovednosti za škodu je predchádzajúci kalendárny štvrťrok.
+
+- (2)
+
+- Ak zamestnávateľ vykonáva rôzne druhy činností, použije sa sadzba poistného na poistenie zodpovednosti za škodu vzťahujúca sa na činnosť s najvyššou sadzbou poistného.“.
 
 - 21. V § 16 sa za odsek 9 vkladá nový odsek 10, ktorý znie:
 
@@ -240,6 +338,12 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - Vymeriavací základ zistený podľa odseku 5 a odseku 8 písm. a) sa zaokrúhľuje na celé slovenské koruny nahor.“.
 
+- 26. Za § 16 sa vkladá § 16a, ktorý znie:
+
+- „§ 16a
+
+- Vymeriavacím základom na určenie poistného na poistenie zodpovednosti za škodu je úhrn vymeriavacích základov na určenie poistného na nemocenské poistenie a na dôchodkové zabezpečenie všetkých jeho zamestnancov za poistné obdobie. Na určenie vymeriavacieho základu zamestnancov platia ustanovenia § 16 ods. 1 až 4 a 12 rovnako.“.
+
 - 27. V § 18 ods. 1 písm. b) sa za slovo „zabezpečení,“ vkladajú slová „podľa osobitného predpisu<sup>20g</sup>)“.
 
   - Poznámka pod čiarou k odkazu 20g znie:
@@ -255,6 +359,12 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 - „(9)
 
 - Ak koniec lehoty na splnenie oznamovacej povinnosti pripadne na deň pracovného pokoja, posledný deň lehoty je nasledujúci pracovný deň.“.
+
+- 30. Za § 19 sa vkladá § 19a, ktorý znie:
+
+- „§ 19a
+
+- Poistné na poistenie zodpovednosti za škodu zamestnávateľ odvádza na účet príslušnej pobočky po uplynutí poistného obdobia (§ 15a ods. 1) v termínoch podľa § 21 ods. 1. Ustanovenia § 20 ods. 4 a § 21 ods. 4 platia rovnako.“.
 
 - 31. V § 21 ods. 1 sa na konci pripája táto veta: „Ak deň splatnosti pripadne na deň pracovného pokoja, poistné je splatné v nasledujúci pracovný deň.“.
 
@@ -272,9 +382,27 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - „(4)
 
-- Ak zamestnávateľ uvedený v odsekoch 1 a 2 nepredloží na výzvu príslušnej pobočky podklady potrebné na zistenie správnej sumy poistného na nemocenské poistenie a dôchodkové zabezpečenie, môže mu príslušná pobočka predpísať platobným výmerom poistné na nemocenské poistenie a dôchodkové zabezpečenie na základe podkladov iného zamestnávateľa obdobného charakteru. Druhá veta odseku 3 platí rovnako.“.
+- Ak zamestnávateľ uvedený v odsekoch 1 a 2 nepredloží na výzvu príslušnej pobočky podklady potrebné na zistenie správnej sumy poistného na nemocenské poistenie a dôchodkové zabezpečenie, môže mu príslušná pobočka predpísať platobným výmerom poistné na nemocenské poistenie a dôchodkové zabezpečenie na základe podkladov iného zamestnávateľa obdobného charakteru. Druhá veta odseku 3 platí rovnako.
+
+- (5)
+
+- Príslušná pobočka predpíše zamestnávateľovi platobným výmerom poistné na poistenie zodpovednosti za škodu, ak zamestnávateľ nezaplatil toto poistné vôbec alebo ak ho zaplatil v nesprávnej sume. Ak je takto zistená suma dlžného poistného nižšia ako 100 Sk, príslušná pobočka nepredpíše poistné na poistenie zodpovednosti za škodu.“.
+
+- 36. § 23 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Odseky 1 až 3 platia rovnako aj na poistné na poistenie zodpovednosti za škodu.“.
 
 - 37. V § 24 ods. 2 sa slová „tri roky“ nahrádzajú slovami „šesť rokov“ a za slovo „rozhodnutia“ sa vkladajú slová „alebo platobného výmeru (ďalej len „rozhodnutie“),“.
+
+- 38. V § 24 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Odseky 1 a 2 platia rovnako aj na poistné na poistenie zodpovednosti za škodu.“.
+
+- Doterajší odsek 3 sa označuje ako odsek 4.
 
 - 39. § 25 znie:
 
@@ -286,7 +414,11 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - (2)
 
-- Rozhodnutie uvedené v odseku 1 možno vykonať najneskôr do desiatich rokov odo dňa nadobudnutia jeho právoplatnosti; ustanovenia všeobecného predpisu o správnom konaní<sup>21aa</sup>) sa nepoužijú.“.
+- Rozhodnutie uvedené v odseku 1 možno vykonať najneskôr do desiatich rokov odo dňa nadobudnutia jeho právoplatnosti; ustanovenia všeobecného predpisu o správnom konaní<sup>21aa</sup>) sa nepoužijú.
+
+- (3)
+
+- Ustanovenia odsekov 1 a 2 platia rovnako aj na pohľadávky na poistné na poistenie zodpovednosti za škodu.“.
 
 - Poznámky pod čiarou k odkazom 21 a 21aa znejú:
 
@@ -317,6 +449,12 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 - (3)
 
 - Sociálna poisťovňa môže na základe písomnej žiadosti osoby uvedenej v § 19 ods. 1 až 3, ktorá je povinná odvádzať poistné, v odôvodnených prípadoch odpustiť povinnosť zaplatiť penále podľa odseku 1 alebo znížiť výšku penále na polovicu predpísanej sumy. Sociálna poisťovňa môže odpustiť povinnosť zaplatiť penále alebo znížiť výšku penále, ak osoby uvedené v § 19 ods. 1 až 3 zaplatili dlžné sumy poistného na nemocenské poistenie a na dôchodkové zabezpečenie najneskôr v deň podania žiadosti.“.
+
+- 42. Za § 27 sa vkladá nový § 27a, ktorý znie:
+
+- „§ 27a
+
+- Ak poistné na poistenie zodpovednosti za škodu nebolo zaplatené včas a v správnej sume, zvyšuje sa o 2 % za každý aj začatý mesiac omeškania, najmenej o 100 Sk. Výška sumy sa zaokrúhľuje na celé slovenské koruny nadol.“.
 
 - 43. V § 32 ods. 1 sa slová „deväť mesiacov“ nahrádzajú slovami „osemnásť mesiacov“.
 
@@ -478,6 +616,76 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - § 524 až 530 zákona č. 40/1964 Zb. Občiansky zákonník.“.
 
+- 49. V § 34 ods. 3 sa za slová „základný fond dôchodkového zabezpečenia (§ 37)“ vkladá čiarka a slová „základný fond poistenia zodpovednosti za škodu (§ 37b)“.
+
+- 50. V § 35 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- základný fond poistenia zodpovednosti za škodu,“.
+
+- Doterajšie písmená c) a d) sa označujú ako písmená d) a e).
+
+- 51. Za § 37a sa vkladá § 37b, ktorý vrátane nadpisu znie:
+
+- „§ 37b
+
+- Základný fond poistenia zodpovednosti za škodu
+
+- (1)
+
+- Základný fond poistenia zodpovednosti za škodu je určený na výplatu náhrady škody.
+
+- (2)
+
+- Základný fond poistenia zodpovednosti za škodu sa tvorí z
+
+- a)
+
+- poistného na poistenie zodpovednosti za škodu,
+
+- b)
+
+- prostriedkov poskytnutých z Fondu národného majetku Slovenskej republiky (§ 51f),
+
+- c)
+
+- prostriedkov z rozpočtovej rezervy vlády Slovenskej republiky (§ 51f),
+
+- d)
+
+- náhrad za vyplatené plnenie (§ 44f),
+
+- e)
+
+- úrokov z vkladov v bankách alebo v pobočkách zahraničnej banky so sídlom v Slovenskej republike,
+
+- f)
+
+- darov, ak spôsob využitia nie je určený darcom inak,
+
+- g)
+
+- ostatných príjmov.
+
+- (3)
+
+- Súčasťou základného fondu poistenia zodpovednosti za škodu sú aj
+
+- a)
+
+- finančné prostriedky z rezerv [§ 51e ods. 2 písm. d)],
+
+- b)
+
+- prostriedky z osobitného účtu Ministerstva pre správu a privatizáciu národného majetku Slovenskej republiky [§ 51f ods. 2 písm. a)].
+
+- (4)
+
+- Základný fond poistenia zodpovednosti za škodu nemožno použiť na iný účel ako na výplatu náhrady škody.“.
+
+- 52. V § 38 ods. 2 písm. a) sa za slovo „poistenie“ vkladá čiarka, vypúšťa sa slovo „a“ a na konci sa pripájajú tieto slová: „a poistenie zodpovednosti za škodu“.
+
 - 53. § 40 sa vypúšťa.
 
 - 54. Za § 41 sa vkladá § 41a, ktorý znie:
@@ -508,7 +716,11 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - 56. Za § 42 sa vkladajú § 42a a 42b, ktoré znejú:
 
-- „§ 42b
+- „§ 42a
+
+- Informácie o platiteľoch poistného na poistenie zodpovednosti za škodu a o príjemcoch náhrady škody možno poskytnúť, ak ďalej nie je ustanovené inak, len s ich súhlasom okrem prípadov, o ktorých to ustanovuje osobitný predpis.
+
+- § 42b
 
 - (1)
 
@@ -530,6 +742,208 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - obchodné meno právnickej osoby a jej sídlo.“.
 
+- 57. § 44 sa dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- osobitne určenými zamestnancami, ak ide o kontrolu výberu a vymáhania poistného na poistenie zodpovednosti za škodu.“.
+
+- 58. Za šiestu časť sa vkladá nová siedma časť, ktorá vrátane nadpisu znie:
+
+- „SIEDMA ČASŤ
+
+- POISTENIE ZODPOVEDNOSTI ZA ŠKODU
+
+- § 44a
+
+- (1)
+
+- Poistenie zodpovednosti za škodu vzniká dňom nástupu do zamestnania prvého zamestnanca a trvá do skončenia zamestnania posledného zamestnanca zamestnávateľa.
+
+- (2)
+
+- Zamestnávateľ má právo, aby pri vzniku poistnej udalosti Sociálna poisťovňa zaň hradila preukázané nároky na náhradu škody na zdraví spôsobenej pracovným úrazom, ku ktorému došlo počas trvania poistenia zodpovednosti za škodu, a chorobou z povolania, ktorá bola prvý raz preukázaná počas poistenia zodpovednosti za škodu.
+
+- (3)
+
+- Poistná udalosť je poškodenie zdravia alebo smrť, ktoré boli spôsobené v dôsledku pracovného úrazu alebo choroby z povolania.
+
+- (4)
+
+- Ak o náhrade škody rozhoduje príslušný súd, platí, že poistná udalosť nastala až v deň, keď rozhodnutie, podľa ktorého má Sociálna poisťovňa plniť, nadobudlo právoplatnosť.
+
+- § 44b
+
+- (1)
+
+- Sociálna poisťovňa uhradí náhradu škody podľa § 44a ods. 2 zamestnancovi, u ktorého vznikla škoda na zdraví spôsobenej pracovným úrazom alebo chorobou z povolania, v slovenských korunách.
+
+- (2)
+
+- Ak zamestnávateľ uhradil zamestnancovi uvedenému v odseku 1 škodu alebo jej časť podľa § 44a ods. 2, má právo, aby Sociálna poisťovňa uhradila ním nahradenú škodu, a to až do výšky, v akej bol povinný nahradiť škodu tomuto zamestnancovi.
+
+- (3)
+
+- Ak tou istou poistnou udalosťou vzniknú zamestnancovi práva z niekoľkých poistení zodpovednosti za škodu u jedného zamestnávateľa alebo u viacerých zamestnávateľov, možno v rozsahu, v akom sa zhodujú, plniť len z jedného poistenia zodpovednosti za škodu.
+
+- § 44c
+
+- (1)
+
+- Ak Sociálna poisťovňa uhradila za zamestnávateľa škodu, prechádza na ňu právo zamestnávateľa na náhradu voči tomu, kto zamestnancovi uvedenému v § 44b ods. 1 za takú škodu zodpovedá podľa osobitného predpisu.<sup>27</sup>) Zamestnávateľ je povinný voči inému toto právo zabezpečiť. Ak zamestnávateľ poruší túto povinnosť, Sociálna poisťovňa je oprávnená požadovať od tohto zamestnávateľa náhradu až do výšky vyplatenej náhrady škody.
+
+- (2)
+
+- Na Sociálnu poisťovňu neprechádzajú nároky zamestnávateľa voči fyzickým osobám, ktoré so zamestnancom uvedeným v § 44b ods. 1 žijú v domácnosti alebo ktoré sú naň odkázané výživou. To však neplatí, ak tieto osoby spôsobili škodu úmyselne.
+
+- § 44d
+
+- (1)
+
+- Sociálna poisťovňa poskytne náhradu škody najneskôr do 15 dní od skončenia zisťovania nevyhnutného na určenie rozsahu povinnosti plniť.
+
+- (2)
+
+- Zisťovanie nevyhnutné na určenie rozsahu povinnosti Sociálnej poisťovne plniť je skončené, ak
+
+- a)
+
+- zamestnávateľ splnil podmienky podľa § 44c ods. 1,
+
+- b)
+
+- zamestnávateľ preukáže dôvody na čiastočné zbavenie sa zodpovednosti za škodu a so súhlasom Sociálnej poisťovne alebo s jej dodatočným schválením dohodne so zamestnancom uvedeným v § 44b ods. 1 výšku náhrady škody alebo ak je výška náhrady škody určená vykonateľným rozhodnutím príslušného súdu.
+
+- (3)
+
+- Sociálna poisťovňa nenahradí škodu,
+
+- a)
+
+- ktorú uhradil zamestnávateľ alebo ktorú sa zamestnávateľ zaviazal uhradiť nad rozsah ustanovený osobitným predpisom<sup>1</sup>) alebo nad rozsah právoplatného rozhodnutia o náhrade škody,
+
+- b)
+
+- ktorá vznikla vynaložením nákladov na zdravotnú starostlivosť, na dávky nemocenského poistenia a dávky dôchodkového zabezpečenia poskytované z dôvodu škody na zdraví podľa § 44a ods. 2.
+
+- § 44e
+
+- (1)
+
+- Zamestnávateľ je bez zbytočného odkladu povinný Sociálnej poisťovni
+
+- a)
+
+- poskytnúť súčinnosť potrebnú na zistenie príčin škody a výšky škody,
+
+- b)
+
+- písomne oznámiť, že
+
+- 1.
+
+- nastala udalosť, ktorá môže byť dôvodom na vznik práva na náhradu škody,
+
+- 2.
+
+- mu vznikla povinnosť poskytnúť náhradu škody, ktorú má Sociálna poisťovňa uhradiť, a vyjadriť sa k požadovanej náhrade a jej výške,
+
+- 3.
+
+- bolo proti nemu uplatnené právo na náhradu škody na súde,
+
+- 4.
+
+- škoda bola spôsobená zavineným porušením pracovných povinností v pracovnoprávnych vzťahoch,
+
+- c)
+
+- umožniť účasť na konaní o náhrade škody, ktorú má Sociálna poisťovňa uhradiť,
+
+- d)
+
+- vyhotoviť o vzniku udalosti, o jej príčinách a rozsahu škody zápisnicu,
+
+- e)
+
+- preukázať zaplatenie poistného na poistenie zodpovednosti za škodu od vzniku poistenia.
+
+- (2)
+
+- Zamestnávateľ umožní Sociálnej poisťovni overiť príčinu, rozsah a výšku škody a oznámi jej, či uplatní právo na plnenie z iného poistenia zodpovednosti za škodu.
+
+- (3)
+
+- Zamestnávateľ bez zbytočného odkladu orgánom činným v trestnom konaní písomne oznámi, že nastala udalosť, ktorá by mohla byť dôvodom na vznik práva na plnenie Sociálnej poisťovne, ak vznikla za okolností vzbudzujúcich podozrenie zo spáchania trestného činu.
+
+- (4)
+
+- Ak zamestnávateľ nepostupoval podľa ustanovení uvedených v odsekoch 1 až 3, a tým sťaží zistenie právneho dôvodu, rozsahu alebo výšky škody, Sociálna poisťovňa má voči nemu právo na náhradu až do polovice súm, ktoré z dôvodu poistnej udalosti vyplatila.
+
+- (5)
+
+- Zamestnávateľ v konaní o náhrade škody, ktorú má Sociálna poisťovňa nahradiť, postupuje v súlade s pokynmi Sociálnej poisťovne, dohodne sa s ňou o tom, kto ho bude v tomto konaní zastupovať. Ak zamestnávateľ bez súhlasu Sociálnej poisťovne nevznesie námietku premlčania alebo ak sa zaviaže bez tohto súhlasu premlčanú pohľadávku uznať, Sociálna poisťovňa nie je povinná plniť.
+
+- (6)
+
+- Sociálna poisťovňa má voči zamestnávateľovi právo na náhradu vyplateného plnenia až do jeho výšky, ak zamestnávateľ alebo zamestnanec uvedený v § 44b ods. 1
+
+- a)
+
+- spôsobil škodu úmyselne, pod vplyvom alkoholu, omamných látok alebo psychotropných látok,
+
+- b)
+
+- porušil právne predpisy alebo ostatné predpisy, alebo pokyny na zaistenie bezpečnosti a ochrany zdravia pri práci a toto porušenie bolo v príčinnej súvislosti so vznikom škody.
+
+- (7)
+
+- Právo na náhradu podľa odseku 6 má Sociálna poisťovňa voči zamestnávateľovi, ak škoda bola spôsobená zavineným porušením pracovných povinností jeho zamestnancov, až do výšky, ktorú môže zamestnávateľ požadovať od zodpovedného zamestnanca podľa pracovnoprávnych predpisov.
+
+- § 44f
+
+- (1)
+
+- Sociálna poisťovňa pri kontrole a evidencii podkladov potrebných na výpočet poistného na poistenie zodpovednosti za škodu spolupracuje so správcom dane.
+
+- (2)
+
+- Zamestnávateľ je na požiadanie Sociálnej poisťovne povinný predložiť hodnoverné podklady rozhodujúce pre určenie základu na výpočet poistného na poistenie zodpovednosti za škodu.
+
+- (3)
+
+- Sociálna poisťovňa je oprávnená preskúmať správnosť podkladov na výpočet poistného na poistenie zodpovednosti za škodu, ako aj údaje nevyhnutné na vybavovanie poistných udalostí.
+
+- (4)
+
+- Proti zamestnávateľovi, ktorý v čase vzniku poistnej udalosti, v ktorej dôsledku škoda vznikla, nezaplatil poistné na poistenie zodpovednosti za škodu včas a v správnej výške, Sociálna poisťovňa má právo na náhradu 50 % súm, ktoré vyplatila z dôvodu poistných udalostí.
+
+- (5)
+
+- Od uplatnenia práva uvedeného v odseku 4 môže Sociálna poisťovňa v odôvodnených prípadoch upustiť čiastočne alebo úplne.
+
+- § 44g
+
+- (1)
+
+- Sociálna poisťovňa uhradí trovy súdneho konania alebo mimosúdneho prerokovania vynaložené zamestnávateľom v súvislosti s poistnou udalosťou, ktorá by mohla byť dôvodom na vznik práva na plnenie Sociálnej poisťovne, len ak sa vopred písomne zaviaže ich uhradiť, alebo ak súd rozhodoval o nárokoch, ktoré nemožno uhradiť bez súdneho rozhodnutia.
+
+- (2)
+
+- Ak má zamestnávateľ voči zamestnancovi uvedenému v § 44b ods. 1 alebo voči inej osobe právo na vrátenie vyplatenej sumy, na zníženie náhrady alebo na zastavenie jej výplaty, toto právo prechádza na Sociálnu poisťovňu, ak za zamestnávateľa sumu Sociálna poisťovňa zaplatila alebo za neho vypláca náhradu škody.
+
+- (3)
+
+- Na Sociálnu poisťovňu prechádza aj právo zamestnávateľa na náhradu trov uvedených v odseku 1, ktoré boli zamestnávateľovi priznané proti odporcovi, ak ich Sociálna poisťovňa uhradila za zamestnávateľa.“.
+
+- Poznámka pod čiarou k odkazu 27 znie:
+
+- „27)
+
+- Občiansky zákonník.“.
+
+- Doterajšia siedma časť sa označuje ako ôsma časť.
+
 - 59. Za § 51c sa vkladajú § 51d až 51f, ktoré znejú:
 
 - „§ 51d
@@ -543,6 +957,10 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 - Sociálna poisťovňa môže odpísať aj pohľadávky, ktoré vznikli pred 1. júlom 2001, ak sú splnené podmienky uvedené v § 33b.
 
 - § 51e
+
+- (1)
+
+- Výkon poistenia zodpovednosti za škodu prechádza zo Slovenskej poisťovne, a. s., na Sociálnu poisťovňu od 1. januára 2002.
 
 - (2)
 
@@ -566,7 +984,41 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 
 - (3)
 
-- Podrobnosti o prevode evidencie a o prevode finančných prostriedkov upraví dohoda uzatvorená Slovenskou poisťovňou, a.s., a Sociálnou poisťovňou do 30. septembra 2001. Na uzatvorenie tejto dohody je potrebný súhlas orgánov štátneho dozoru (§ 12) a Úradu pre finančný trh.<sup>29</sup>)“.
+- Podrobnosti o prevode evidencie a o prevode finančných prostriedkov upraví dohoda uzatvorená Slovenskou poisťovňou, a.s., a Sociálnou poisťovňou do 30. septembra 2001. Na uzatvorenie tejto dohody je potrebný súhlas orgánov štátneho dozoru (§ 12) a Úradu pre finančný trh.<sup>29</sup>)
+
+- § 51f
+
+- (1)
+
+- Nároky zamestnancov zrušeného zamestnávateľa na náhradu škody pri pracovnom úraze alebo pri chorobe z povolania, ktoré neuspokojil likvidátor alebo správca konkurznej podstaty a na ktorých uspokojenie sa nevzťahuje poistenie zodpovednosti za škodu alebo povinné zmluvné poistenie podľa osobitných predpisov, uspokojí štát prostredníctvom Sociálnej poisťovne z prostriedkov osobitného účtu Ministerstva pre správu a privatizáciu národného majetku Slovenskej republiky, Fondu národného majetku Slovenskej republiky a z rozpočtovej rezervy vlády Slovenskej republiky.
+
+- (2)
+
+- Na uspokojovanie nárokov zamestnancov podľa odseku 1 sa použijú prostriedky
+
+- a)
+
+- z osobitného účtu Ministerstva pre správu a privatizáciu národného majetku Slovenskej republiky, ak ide o zamestnancov organizácií zrušených v dôsledku predaja majetku štátu podľa zákona č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické osoby alebo fyzické osoby v znení neskorších predpisov,
+
+- b)
+
+- z Fondu národného majetku Slovenskej republiky, ak ide o zamestnancov akciovej spoločnosti, ktorej zakladateľom je Fond národného majetku Slovenskej republiky podľa zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov a ktorá zanikla podľa zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov,
+
+- c)
+
+- z rozpočtovej rezervy vlády Slovenskej republiky, ak ide o zamestnancov štátneho podniku alebo akciovej spoločnosti, ktorej zakladateľom je štát, pri ktorých zrušení bola vykonaná likvidácia alebo ktoré zanikli podľa zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- (3)
+
+- Prostriedky z rozpočtovej rezervy vlády Slovenskej republiky a z Fondu národného majetku Slovenskej republiky sa použijú iba v prípadoch, ak o zrušení štátneho podniku alebo akciovej spoločnosti likvidáciou bolo rozhodnuté alebo ak konkurz bol vyhlásený pred nadobudnutím účinnosti zákona, ktorý upraví úrazové poistenie, a to až do úplného uspokojenia nárokov zamestnancov uvedených v odseku 1.
+
+- (4)
+
+- Prostriedky z Fondu národného majetku Slovenskej republiky sa poskytnú preddavkovo v sume 10 miliónov slovenských korún ročne vždy do 30. januára kalendárneho roka až do nadobudnutia účinnosti zákona, ktorý upraví úrazové poistenie. Zúčtovanie za predchádzajúci kalendárny rok vykoná Sociálna poisťovňa do 31. marca nasledujúceho roka. Prostriedky na ďalšie obdobie poskytne Fond národného majetku Slovenskej republiky jednorazovo v sume určenej Sociálnou poisťovňou.
+
+- (5)
+
+- Prostriedky z rozpočtovej rezervy vlády Slovenskej republiky sa budú Sociálnej poisťovni uhrádzať priebežne podľa skutočne vynaložených nákladov.“.
 
 - Poznámky pod čiarou k odkazom 28 a 29 znejú:
 
@@ -579,3 +1031,9 @@ Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej pois�
 - 29)
 
 - Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.“.
+
+- 60. § 52 sa dopĺňa štvrtým bodom, ktorý znie:
+
+- „4.
+
+- Vyhláška Ministerstva financií Slovenskej republiky č. 280/1993 Z. z., ktorou sa ustanovujú bližšie podmienky a sadzby poistného zákonného poistenia organizácie pre prípad zodpovednosti za škodu pri pracovnom úraze alebo chorobe z povolania v znení vyhlášky Ministerstva financií Slovenskej republiky č. 61/1994 Z. z.“.
