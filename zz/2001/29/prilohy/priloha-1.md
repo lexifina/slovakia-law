@@ -54,25 +54,25 @@ Príloha č. 1 k nariadeniu vlády č. 29/2001 Z. z.
 
     - Ak výrobca uvádza na trh niekoľko vzorov osobných ochranných prostriedkov rôznych druhov alebo typov na zabezpečenie súčasnej ochrany príslušných častí tela pred rôznymi nebezpečenstvami, musia byť tieto vzory kompatibilné.
 
-  - 1.4 Informácie poskytované výrobcom alebo dovozcom
+  - 1.4 Informácie poskytované výrobcom
 
-    - Pri uvedení osobných ochranných prostriedkov na trh musí výrobca alebo dovozca vydať a poskytnúť pokyny obsahujúce okrem názvu a adresy výrobcu, dovozcu všetky dôležité informácie o
+    - Pri uvedení osobných ochranných prostriedkov na trh musí výrobca alebo jeho splnomocnenec vydať a poskytnúť pokyny obsahujúce okrem názvu a adresy výrobcu alebo jeho splnomocnenca všetky dôležité informácie o
 
     - a) ich skladovaní, používaní, čistení, údržbe, preskúšavaní a dezinfekcii. Prostriedky na čistenie, údržbu, dezinfekciu odporúčané výrobcami nesmú nepriaznivo pôsobiť na osobné ochranné prostriedky alebo na používateľov, ak sa používajú v súlade s odporúčanými pokynmi,
 
-    - b) dosahovanej účinnosti stanovenej na základe technických skúšok potrebných na zistenie úrovní alebo stupňov ochrany,
+    - b) dosahovanej účinnosti určenej na základe technických skúšok potrebných na zaistenie úrovní alebo stupňov ochrany,
 
     - c) vhodnom príslušenstve osobného ochranného prostriedku a o charakteristikách náhradných dielcov,
 
     - d) stupňoch ochrany zodpovedajúcich rozdielnym úrovniam nebezpečenstva a z toho vyplývajúcich obmedzení používania,
 
-    - e) dobe skončenia životnosti alebo dobe použiteľnosti osobného ochranného prostriedku alebo jeho určitých častí,
+    - e) dobe skončenia životnosti alebo dobe použiteľnosti osobného ochranného prostriedku alebo jeho jednotlivých častí,
 
     - f) spôsobe balenia vhodnom na prepravu,
 
     - g) označení a jeho význame (bod 2.12).
 
-      - Tieto pokyny musia byť presné a úplné. Uvádzajú sa v štátnom jazyku.
+      - Tieto pokyny musia byť presné a úplné. Uvádzajú sa v štátnom jazyku alebo v jednom z úradných jazykov Európskej únie.
 
   - 2. Osobitné požiadavky spoločné pre viac druhov alebo typov osobných ochranných prostriedkov
 
@@ -100,7 +100,7 @@ Príloha č. 1 k nariadeniu vlády č. 29/2001 Z. z.
 
     - Ak výrobca nie je schopný dať záruku týkajúcu sa životnosti osobných ochranných prostriedkov, musia jeho pokyny obsahovať všetky potrebné informácie umožňujúce zákazníkovi alebo používateľovi určiť jednoznačne dobu použiteľnosti, pričom sa musí vziať do úvahy funkčnosť výrobku a skutočné podmienky skladovania, používania, čistenia a údržby.
 
-    - Ak sa predpokladá značné a rýchle znehodnotenie účinnosti osobných ochranných prostriedkov spôsobené starnutím vyplývajúcim z pravidelne sa opakujúceho čistiaceho postupu, ktorý odporúča výrobca, musí výrobca, ak je to možné, umiestniť na každom osobnom ochrannom prostriedku uvádzanom na trh označenie udávajúce maximálny počet čistiacich cyklov, ktoré sa môžu vykonať do kontroly alebo do vyradenia. Ak takéto označenie nemožno umiestniť na výrobku, musí výrobca alebo dovozca poskytnúť tieto informácie v pokynoch.
+    - Ak sa predpokladá značné a rýchle znehodnotenie účinnosti osobných ochranných prostriedkov spôsobené starnutím vyplývajúcim z pravidelne sa opakujúceho čistiaceho postupu, ktorý odporúča výrobca, musí výrobca, ak je to možné, umiestniť na každom osobnom ochrannom prostriedku uvádzanom na trh označenie udávajúce maximálny počet čistiacich cyklov, ktoré sa môžu vykonať do kontroly alebo do vyradenia. Ak takéto označenie nemožno umiestniť na výrobku, musí výrobca alebo jeho splnomocnenec poskytnúť tieto informácie v pokynoch.
 
   - 2.5 Osobné ochranné prostriedky, ktoré môžu byť zachytené pohybujúcim sa predmetom počas používania
 
@@ -234,7 +234,7 @@ Príloha č. 1 k nariadeniu vlády č. 29/2001 Z. z.
 
     - Použité materiály na osobné ochranné prostriedky a ostatné časti, ktoré môžu byť postriekané veľkým množstvom horúcich látok, musia tiež mať dostatočnú schopnosť pohlcovať mechanické nárazy (bod 3.1).
 
-    - Stupeň nehorľavosti materiálov použitých na osobné ochranné prostriedky a ostatné časti, ktoré môžu náhodne prísť do kontaktu s plameňom, a tých materiálov, ktoré sa používajú na výrobu protipožiarneho výstroja, musí zodpovedať úrovniam rizika pri predpokladanom používaní. Nesmú sa taviť, ak sú vystavené účinkom plameňa, ani prispievať k šíreniu plameňa.
+    - Stupeň nehorľavosti materiálov použitých na osobné ochranné prostriedky a ostatné časti, ktoré môžu náhodne prísť do kontaktu s plameňom, a tých materiálov, ktoré sa používajú na výrobu protipožiarneho výstroja, musí zodpovedať úrovniam nebezpečenstva pri predpokladanom používaní. Nesmú sa taviť, ak sú vystavené účinkom plameňa, ani prispievať k šíreniu plameňa.
 
   - 3.6.2 Kompletný osobný ochranný prostriedok pripravený na použitie
 
@@ -292,7 +292,7 @@ Príloha č. 1 k nariadeniu vlády č. 29/2001 Z. z.
 
     - Ochranné okuliare navrhnuté a vyrobené na tento účel musia mať pre všetky škodlivé vlnové dĺžky také činitele spektrálnej priepustnosti, aby hustota žiarivej energie osvetlenia schopná zasiahnuť oko používateľa cez filter bola znížená na minimum a za žiadnych okolností neprevyšovala maximálnu prípustnú hodnotu expozície.
 
-    - Okrem toho ochranné okuliare nesmú pri dodržaní predpokladaných podmienok používania zhoršovať alebo strácať svoje vlastnosti v dôsledku emitovaného žiarenia a všetky na trh uvádzané výrobky musia byť označené číslom ochranného faktora, ktorý závisí od koeficientu spektrálnej priepustnosti.
+    - Okrem toho ochranné okuliare nesmú pri dodržaní predpokladaných podmienok používania zhoršovať alebo strácať svoje vlastnosti v dôsledku emitovaného žiarenia a všetky na trh uvádzané výrobky musia byť označené číslom ochranného faktora, ktorý závisí od spektrálnej distribučnej krivky a ich priepustnosti.
 
     - Ochranné okuliare vhodné pre zdroje žiarenia rovnakého typu musia byť klasifikované vo vzostupnom poriadku ich čísel ochrany a pokyny výrobcu musia uvádzať najmä krivky priepustnosti, ktoré umožnia výber najvhodnejšieho osobného ochranného prostriedku pri rešpektovaní takých zodpovedajúcich vplyvov pri praktickom používaní, ako je vzdialenosť od zdroja a spektrálne rozloženie vyžarovanej energie v tejto vzdialenosti.
 
@@ -328,7 +328,7 @@ Príloha č. 1 k nariadeniu vlády č. 29/2001 Z. z.
 
     - Tesnosť lícnicovej časti a pokles tlaku pri vdychovaní a v prípade filtračných zariadení i filtračná kapacita musia byť také, aby udržovali prienik škodlivín zo znečisteného ovzdušia dostatočne nízky bez toho, aby ohrozili zdravie používateľa.
 
-    - Osobný ochranný prostriedok musí mať identifikačnú značku výrobcu alebo dovozcu a podrobnosti o špecifických charakteristických vlastnostiach tohto typu prostriedku, ktoré v spojení s pokynmi na používanie umožnia školenému a kvalifikovanému používateľovi jeho správne použitie.
+    - Osobný ochranný prostriedok musí mať identifikačnú značku výrobcu a podrobnosti o špecifických charakteristických vlastnostiach tohto typu prostriedku, ktoré v spojení s pokynmi na používanie umožnia školenému a kvalifikovanému používateľovi jeho správne použitie.
 
     - Pokyny výrobcu musia v prípade filtračných zariadení tiež udávať dobu skladovania a podmienky uchovávania filtra v jeho pôvodnom balení.
 
@@ -348,7 +348,7 @@ Príloha č. 1 k nariadeniu vlády č. 29/2001 Z. z.
 
   - 2. Ak to predpokladané podmienky používania vyžadujú, prostriedky musia zahŕňať
 
-    - a) odev, ktorý chráni používateľa pred tlakom vyvolaným hĺbkou ponorenia (bod 3.2) a pred chladom (bod 3.7),
+    - a) odev, ktorý chráni používateľa pred tlakom vyvolaným hĺbkou ponorenia (bod 3.2) a pred chladom (bod 3.7), alebo odev, ktorý chráni používateľa pred tlakom vyvolaným hĺbkou ponorenia (bod 3.2) alebo pred chladom (bod 3.7),
 
     - b) výstražné zariadenie navrhnuté tak, aby poskytovalo používateľovi okamžitú výstrahu blížiaceho sa zlyhania dodávky dýchateľnej plynnej zmesi (bod 2.8),
 
