@@ -6,16 +6,16 @@
 
 platová trieda | Sk mesačne
 
-1. | 2970
+1. | 3 240
 
-2. | 3140
+2. | 3 420
 
-3. | 3410
+3. | 3 720
 
-4. | 3740
+4. | 4 080
 
-5. | 4130
+5. | 4 500
 
-6. | 4540.
+6. | 4 950
 
 (3) Zamestnávateľ zamestnanca uvedeného v odseku 1 môže postupovať podľa § 7 ods. 2, 5 a 7 a u zamestnanca, ktorý je v služobnom pomere, aj podľa § 7 ods. 3. Ustanovenie § 7 ods. 8 týmto nie je dotknuté.
