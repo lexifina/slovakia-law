@@ -1,0 +1,1 @@
+- *) Na účely tejto dohody právo 7. slobody je právo určenej leteckej spoločnosti druhej zmluvnej strany nakladať a/alebo vykladať cestujúcich, batožinu, náklad a poštu na území štátu prvej zmluvnej strany pri letoch začínajúcich sa na území štátu prvej zmluvnej strany a určených do tretích štátov a naopak.
