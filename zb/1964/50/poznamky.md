@@ -1,0 +1,1 @@
+- *) Tri mesiace pri prvom a jednorazovom poistnom a šesť mesiacov pri poistnom za ďalšie poistné obdobia.
