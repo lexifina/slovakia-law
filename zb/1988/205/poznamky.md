@@ -1,16 +1,10 @@
-- 1) Výnos Federálneho cenového úradu, Českého cenového úradu a Slovenského cenového úradu č.V-6/88 zo dňa 21. marca 1988 o cenách dojednávaných dohodou, reg. v čiastke 10/1988 Zb. (uverejnený v Cenovom vestníku čiastka 14/1988).
-
-- § 8 vládneho nariadenia č. 46/1967 Zb. o vysporiadaní škôd spôsobených prevádzkovou hospodárskou činnosťou socialistických organizácií na hmotnom majetku iných socialistických organizácií a o náhradách v investičnej výstavbe.
-
-- 2) Výnos Federálneho cenového úradu, Českého cenového úradu a Slovenského cenového úradu č.V-6/88 zo dňa 21. marca 1988 o cenách dojednávaných dohodou, reg. v čiastke 10/1988 Zb. (uverejnený v Cenovom vestníku čiastka 14/1988).
-
-- Vyhláška Ministerstva miestneho hospodárstva č. 200/1956 Ú. l. o nájomnom z pozemkov, na ktorých sa ťažia piesky.
-
 - 3) Vyhláška Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky, Českého cenového úradu a Slovenského cenového úradu č. 47/1978 Zb. o predaji bytov z národného majetku občanom a o finančnej pomoci pri modernizácii zakúpených bytov v znení vyhlášky č. 2/1982 Zb. a vyhlášky č. 160/1983 Zb.
 
 - 4) Vyhláška Federálneho ministerstva financií č. 122/1984 Zb. o náhradách pri vyvlastnení stavieb, pozemkov, porastov a práv k nim.
 
 - 5) § 88 ods.1 a 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku.
+
+- 5a) § 8 a 16 zákona č. 427/1990 Zb. o prevode vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby.
 
 - 6) Výnos Federálneho cenového úradu, Českého cenového úradu a Slovenského cenového úradu č.V-6/88 zo dňa 21. marca 1988 o cenách dojednávaných dohodou, reg. v čiastke 10/1988 Zb. (uverejnený v Cenovom vestníku čiastka 14/1988). Ceny sa rovnajú cene materiálu, ktorý možno získať demoláciou.
 
