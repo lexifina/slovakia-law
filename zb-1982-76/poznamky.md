@@ -1,0 +1,1 @@
+- 1) § 1 vládního nařízení č. 73/1953 Sb., o vyznamenáních a čestných uznáních pro učitele a jiné školské pracovníky.
