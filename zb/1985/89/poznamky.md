@@ -1,0 +1,1 @@
+- 1) § 35 ods. 3 zákona č. 61/1952 Zb. o námornej plavbe.
