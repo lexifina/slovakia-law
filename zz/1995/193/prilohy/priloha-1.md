@@ -250,7 +250,7 @@
 
   - Článok XII
 
-    - Zmluvné strany budú súhlasiť s tým, aby sa na žiadosť jednej z nich ihneď uskutočnili konzultácie na riešenie akéhokoľvek sporu týkajúceho sa tejto dohody alebo na prerokovanie akejkoľvek záležitosti vzťahujúcej sa na výklad alebo uplatňovanie tejto dohody.
+    - Strany súhlasia, že budú na žiadosť ktorejkoľvek strany okamžite konzultovať, aby vyriešili akékoľvek spory v súvislosti s touto Dohodou alebo aby diskutovali o akejkoľvek záležitosti vo vzťahu k interpretácii alebo uplatneniu tejto Dohody. Strany takisto súhlasia, že budú okamžite konzultovať vždy, keď sa niektorá strana bude domnievať, že sú nevyhnutné nejaké kroky na zabezpečenie zhody medzi touto Dohodou a Zmluvou o založení Európskeho spoločenstva s cieľom zabezpečiť zhodu.
 
   - Článok XIII
 
