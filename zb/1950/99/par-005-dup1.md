@@ -1,3 +1,0 @@
-# § 5.
-
-Z pôsobnosti Ústrednej arbitrážnej komisie a rezortných arbitrážnych komisií podľa § 14 ods. 1 zák. č. 99/1950 Sb., o hospodárskych smluvách a štátnej arbitráži, a podľa §§ 5 a 6 vládneho nariadenia č. 139/1950 Sb., o zriadení krajských arbitrážnych komisií, o organizácii a príslušnosti arbitrážnych komisií a o konaní pred nimi, prechádza na krajské arbitrážne komisie vykonávanie štátnej arbitráže v majetkovoprávnych sporoch národných podnikov, ak hodnota sporu nepresahuje 100.000 Kčs a podniky sú v obvode toho istého krajského národného výboru, s výnimkou sporov z hospodárskych smlúv.
