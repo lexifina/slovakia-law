@@ -1,0 +1,1 @@
+- *) Protokol medzi vládou Slovenskej republiky a vládou Indickej republiky o likvidácii nekonvertibilných rupiových zostatkov je uložený na Ministerstve hospodárstva Slovenskej republiky, kde možno doň nahliadnuť.
