@@ -8,6 +8,8 @@
 
 - 3) § 8 písm. i) zákona č. 566/2001 Z. z.
 
+- 3a) § 27 ods. 1 písm. a) zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
 - 4) § 497 až 507 Obchodného zákonníka.
 
 - 5) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Z. z..
@@ -24,6 +26,8 @@
 
 - 11) § 42 zákona č. 566/2001 Z. z.
 
+- 11a) § 50 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty.
+
 - 12) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 12a) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
@@ -33,8 +37,6 @@
 - 13) Opatrenie Ministerstva financií č. 21 832/2002- 92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní položiek individuálnej účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre banky, pobočky zahraničných bánk, Národnú banku Slovenska, Fond ochrany vkladov, obchodníkov s cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, Garančný fond investícií, správcovské spoločnosti, pobočky zahraničných správcovských spoločností a podielové fondy.
 
 - 13a) § 22 ods. 4 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
-
-- 13b) § 27 ods. 1 písm. a) zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
 - 14) § 161a až 161f Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
