@@ -196,7 +196,7 @@
 
 - 90) Zákon č. 540/2001 Z. z. štátnej štatistike.
 
-- 91) § 642 až 651 Obchodného zákonníka.
+- 91) Obchodný zákonník a Zákonník práce
 
 - 92) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
