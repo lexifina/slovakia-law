@@ -472,6 +472,8 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
     - ab) v strede veterinárne schvaľovacie číslo prevádzkarne, alebo tam, kde je to vhodné, rozrábkarne alebo prebaľovacieho strediska,
 
+    - ac) v dolnej časti nasledujúce skratky: CEE, EOF, EWG, EOK, EEC, EEG CE-RSM, (zmluva o pristúpení) ETY; ak ide o Slovenskú republiku, skratka: EHS.
+
   - Písmená a číslice musia byť 0,2 centimetra vysoké,
 
     - b) pre veľké balenia oválnu značku najmenej 6,5 cm širokú a 4,5 cm vysokú, ktorá obsahuje informácie uvedené v písmene a); písmená musia byť najmenej 0,8 cm vysoké a číslice najmenej 1 cm vysoké; táto zdravotná značka môže okrem toho obsahovať indikáciu umožňujúcu identifikovať úradného veterinárneho lekára, ktorý vykonal zdravotnú prehliadku mäsa.
