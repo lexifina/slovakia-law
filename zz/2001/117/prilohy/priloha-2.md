@@ -72,9 +72,9 @@ Príloha č. 2 k nariadeniu vlády č. 117/2001 Z. z.
 
     - 8. ak je to nutné, základné vlastnosti náradia, ktoré je pre zariadenie alebo ochranný systém vhodné.
 
-      - b) Návod na obsluhu sa vypracúva v štátnom jazyku.
+      - b) Návod na obsluhu sa vypracúva v štátnom jazyku alebo v jednom z úradných jazykov členských štátov Európskych spoločenstiev.
 
-        - Návod na obsluhu sa pred uvedením do prevádzky pri všetkých dovážaných zariadeniach a ochranných systémoch preloží do štátneho jazyka. Preklad vykoná výrobca alebo dovozca.
+        - Návod na obsluhu sa pred uvedením do prevádzky pri všetkých dovážaných zariadeniach a ochranných systémoch preloží do štátneho jazyka alebo do jedného z úradných jazykov členských štátov Európskych spoločenstiev. Preklad vykoná výrobca alebo dovozca.
 
       - c) Návod obsahuje výkresy a diagramy nevyhnutné na uvedenie do prevádzky, údržbu, inšpekciu, kontrolu správneho chodu, a ak je to vhodné, na opravy zariadení alebo ochranného systému spolu so všetkými vhodnými návodmi, hlavne z hľadiska bezpečnosti.
 

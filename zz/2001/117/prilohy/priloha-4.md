@@ -2,7 +2,7 @@ Príloha č. 4 k nariadeniu vlády č. 117/2001 Z. z.
 
 - ZABEZPEČENIE KVALITY VÝROBY
 
-  - 1. Zabezpečenie kvality výroby je postup, pri ktorom výrobca, ktorý spĺňa požiadavky ustanovené v bode 2, zabezpečuje a vyhlasuje, že dané výrobky sú zhodné s typom opísaným v certifikáte podľa prílohy č. 3 bodu 5 a spĺňajú požiadavky tohto nariadenia, ktoré sa na ne vzťahujú. Výrobca umiestni na každom zariadení označenie CE podľa § 21 zákona alebo slovenskú značku zhody podľa § 17 ods. 3 zákona a vydá písomné vyhlásenie o zhode. Označenie sa dopĺňa identifikačným číslom autorizovanej osoby zodpovednej za inšpekciu podľa bodu 4. Ako výrobca môže konať aj dovozca, ak ho výrobca písomne splnomocní.
+  - 1. Zabezpečenie kvality výroby je postup, pri ktorom výrobca, ktorý spĺňa požiadavky ustanovené v bode 2, zabezpečuje a vyhlasuje, že dané výrobky sú zhodné s typom opísaným v certifikáte podľa prílohy č. 3 bodu 5 a spĺňajú požiadavky tohto nariadenia, ktoré sa na ne vzťahujú. Výrobca umiestni na každom zariadení označenie CE podľa § 21 zákona alebo slovenskú značku zhody podľa § 17 ods. 3 zákona a vydá písomné vyhlásenie o zhode. Označenie sa dopĺňa identifikačným číslom autorizovanej osoby zodpovednej za inšpekciu podľa bodu 4.
 
   - 2. Výrobca používa schválený systém kvality na výrobu, výstupnú kontrolu zariadenia a skúšanie podľa požiadaviek uvedených v bodoch 3 a 4.
 
@@ -38,7 +38,7 @@ Príloha č. 4 k nariadeniu vlády č. 117/2001 Z. z.
 
   - 4.1 Účelom inšpekcie je zabezpečiť, aby výrobca náležite plnil záväzky vyplývajúce zo schváleného systému kvality.
 
-  - 4.2 Výrobca umožní autorizovanej osobe vstup do výrobných priestorov, kde sa vykonávajú kontroly a skúšania, a do skladovacích priestorov výrobkov a poskytne jej všetky nevyhnutné informácie, najmä
+  - 4.2 Výrobca umožní autorizovanej osobe na účely inšpekcie vstup do výrobných priestorov, kde sa vykonávajú kontroly a skúšania, a do skladovacích priestorov výrobkov a poskytne jej všetky nevyhnutné informácie, najmä
 
     - a) dokumentáciu týkajúcu sa systému kvality,
 

@@ -28,7 +28,7 @@ Príloha č. 7 k nariadeniu vlády č. 117/2001 Z. z.
 
   - 3.3 Autorizovaná osoba posudzuje systém kvality zavedený výrobcom a vyhodnocuje, či spĺňa požiadavky uvedené v dokumentácii podľa bodu 3.2. Predpoklad zhody s týmito požiadavkami je splnený v systéme kvality, ktorý spĺňa požiadavky príslušných technických noriem. Posúdenie systému kvality zahŕňa návštevu na pracoviskách výrobcu a zúčastňuje sa na nej aspoň jeden zamestnanec so skúsenosťami v posudzovaní danej technológie výrobkov. Autorizovaná osoba oboznámi výrobcu so závermi posúdenia systému kvality a s odôvodnením svojich záverov.
 
-  - 3.4 Výrobca zabezpečuje plnenie záväzkov vyplývajúcich zo schváleného systému kvality a udržiava ho tak, aby bol stále primeraný a účinný. Výrobca informuje autorizovanú osobu, ktorá schválila systém kvality, o každej pripravovanej úprave systému kvality. Ako výrobca môže konať aj dovozca, ak ho výrobca písomne splnomocní. Autorizovaná osoba overuje navrhované zmeny a rozhodne, či zmenený systém kvality aj naďalej spĺňa požiadavky podľa bodu 3.2 alebo či treba vykonať nové posúdenia systému kvality. Svoje rozhodnutie oznamuje výrobcovi. Oznámenie obsahuje závery overenia vrátane odôvodnenia.
+  - 3.4 Výrobca zabezpečuje plnenie záväzkov vyplývajúcich zo schváleného systému kvality a udržiava ho tak, aby bol stále primeraný a účinný. Výrobca informuje autorizovanú osobu, ktorá schválila systém kvality, o každej pripravovanej úprave systému kvality. Autorizovaná osoba overuje navrhované zmeny a rozhodne, či zmenený systém kvality aj naďalej spĺňa požiadavky podľa bodu 3.2 alebo či treba vykonať nové posúdenia systému kvality. Svoje rozhodnutie oznamuje výrobcovi. Oznámenie obsahuje závery overenia vrátane odôvodnenia.
 
   - 4. Inšpekcia systému kvality
 
