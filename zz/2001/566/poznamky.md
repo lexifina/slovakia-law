@@ -50,6 +50,8 @@
 
 - 26) § 31 ods. 6 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 149/2001 Z. z.
 
+- 26a) § 40 ods. 5 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+
 - 27) Napríklad § 22 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 2 ods. 3 zákona č. 144/1998 Z. z.
 
 - 28) Napríklad § 155 ods. 2 Obchodného zákonníka v znení neskorších predpisov, § 28 ods. 4 zákona č. 385/1999 Z. z.
@@ -116,6 +118,26 @@
 
 - 58) § 65 Obchodného zákonníka.
 
+- 58a) § 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 58b) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov, § 3a a § 27 až 33 Obchodného zákonníka, § 2 ods. 2 a § 10 a 11 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov, § 9 ods. 1 a 2 a § 10 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 9 ods. 1 a 2 a § 11 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., § 6, 7, 9 a 9a zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, § 6 ods. 1 a § 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov a § 5 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
+- 58c) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov, zákon č. 431/2002 Z. z. o účtovníctve, zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
+
+- 58d) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z.
+
+- 58e) § 4 ods. 1 písm. a), b) a c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
+
+- 58f) § 7 ods. 6 zákona č. 428/2002 Z. z.
+
+- 58g) Napríklad § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z.
+
+- 58h) § 23 a 55 zákona č. 428/2002 Z. z.
+
+- 58i) § 31 ods. 7 zákona č. 483/2001 Z. z.
+
+- 58j) Opatrenie Národnej banky Slovenska z 12. decembra 2002 č. 8/2002 o majetkovej angažovanosti bánk (oznámenie č. 697/2002 Z. z.).
+
 - 59) Zákon č. 563/1991 Zb. v znení neskorších predpisov.
 
 - 60) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
@@ -145,6 +167,8 @@
 - 72) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 73) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
+
+- 73a) § 11 a 75 zákona č. 594/2003 Z. z.
 
 - 74) § 492 a § 517 ods. 2 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
@@ -214,9 +238,9 @@
 
 - 103) § 3 ods. 2 zákona č. 385/1999 Z. z.
 
-- 104) § 23 ods. 6 písm. d) zákona č. 366/1999 Z. z. o daniach z príjmov.
+- 103a) Zákon č. 429/2002 Z. z. o burze cenných papierov.
 
-- 105) Vyhláška Ministerstva financií Slovenskej republiky č. 69/2001 Z. z., ktorou sa ustanovujú podrobnosti o obsahu kótovacieho prospektu cenného papiera.
+- 104) § 23 ods. 6 písm. d) zákona č. 366/1999 Z. z. o daniach z príjmov.
 
 - 106) § 3 zákona č. 483/2001 Z. z.
 
