@@ -1,0 +1,1 @@
+- 1) § 24 ods. 2 vyhlášky MŠK č. 25/1966 Zb., ktorú sa vydávajú študijné predpisy pre vysoké školy.
