@@ -1,0 +1,1 @@
+- 1) Úradný vestník Európskych spoločenstiev L 370, 31. 12. 1985.
