@@ -1,1 +1,0 @@
-- *) Zákon č. 86/1950 Zb. v znení zákona č. 63/1956 Zb. nadobúda účinnosť 1. januárom 1957.
