@@ -1,0 +1,3 @@
+# Článok 21
+
+Ak nositeľ jednej zmluvnej strany poskytne občanovi preddavok na peňažnú dávku za akékoľvek obdobie a nositeľ druhej zmluvnej strany má vyplatiť peňažnú dávku za rovnaké obdobie na základe vlastných právnych predpisov, nositeľ druhej zmluvnej strany zúčtuje preddavok na peňažnú dávku poskytnutú nositeľom prvej zmluvnej strany a zašle mu ju. Ak nositeľ jednej zmluvnej strany poskytol preddavok na peňažnú dávku vo vyššej sume, ako je peňažná dávka priznaná podľa právnych predpisov druhej zmluvnej strany, považuje sa presahujúca suma až do výšky doplatku za preddavok poskytnutý podľa prvej vety.
