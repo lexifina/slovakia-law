@@ -8,10 +8,6 @@
 
 - 7) Zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve v znení zákona č. 422/2002 Z. z.
 
-- 7a) § 4a zákona č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
-
-- 7b) § 29a ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
-
 - 7c) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
 - 8) § 30 zákona č. 435/2000 Z. z.
