@@ -14,6 +14,8 @@
 
 - 7) § 26 zákona č. 286/1992 Zb. v znení neskorších predpisov.
 
+- 7a) Zákon č. 195/1998 Z. z. o sociálnej pomoci.Zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony.Zákon č. 236/1998 Z. z. o zaopatrovacom príspevku.Zákon č. 238/1998 Z. z. o príspevku na pohreb.Zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti.§ 49 ods. 1 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
+
 - 8) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 9) Napríklad zákon Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení zákona Národnej rady Slovenskej republiky č. 81/1994 Z. z.
