@@ -1,3 +1,0 @@
-Minister:
-
-Korčák v. r.
