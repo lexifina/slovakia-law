@@ -2,6 +2,92 @@
 
 Príloha k vyhláške Ministerstva hospodárstva Slovenskej republiky č. 67/2002 Z. z., ktorou sa vydáva zoznam vybraných chemických látok a vybraných chemických prípravkov, ktorých uvedenie na trh a používanie je obmedzené alebo zakázané sa mení a dopĺňa takto:
 
+- 1. Bod XX znie:
+
+- „XX.
+
+- Arzén a jeho zlúčeniny
+
+- Nesmú sa používať ako látky a zložky prípravkov, ktoré sú určené
+
+- a)
+
+- na zabránenie usadzovania mikroorganizmov, rastlín a živočíchov na
+
+- 1.
+
+- trupoch člnov a lodí,
+
+- 2.
+
+- klietkach, plavákoch, bójach, sieťach a akýchkoľvek iných pomôckach alebo zariadeniach používaných pri chove rýb alebo mäkkýšov,
+
+- 3.
+
+- akýchkoľvek pomôckach alebo zariadeniach úplne alebo čiastočne ponorených do vody,
+
+- b)
+
+- na konzervovanie dreva; okrem toho sa takto upravené drevo nesmie uvádzať na trh,
+
+- c)
+
+- výnimka z písmena b) platí v súvislosti s
+
+- 1.
+
+- látkami a prípravkami na konzervovanie dreva;
+
+- tie sa môžu používať v priemyselných výrobných zariadeniach používajúcich vákuum (podtlak) alebo tlak (pretlak) na impregnáciu dreva, ak ide o roztoky anorganických zlúčenín medi, chrómu a arzénu (CCA) typu C; takto upravené drevo sa nesmie uviesť na trh pred dokončením fixácie konzervačného prostriedku,
+
+- 2.
+
+- drevom upraveným roztokmi CCA v priemyselných zariadeniach podľa bodu 1;
+
+- toto drevo sa môže uviesť na trh na ďalšie použitie, ak je zaistená bezpečnosť a ochrana zdravia pri práci, ochrana života a zdravia ľudí a ochrana životného prostredia a nie je pravdepodobné, že by sa počas svojej životnosti dostalo do styku s pokožkou osôb širokej verejnosti
+
+- – ako stavebné drevo vo verejných a poľnohospodárskych budovách, úradných budovách a priemyselných zariadeniach,
+
+- – na mostoch a stavbe mostov,
+
+- – ako stavebné drevo v sladkovodných oblastiach a poloslaných vodách, napr. na móla, prístavné hrádze a mosty,
+
+- – ako protihlukové bariéry,
+
+- – ako protilavínové zátarasy,
+
+- – na bezpečnostné oplotenie a bariéry pri hlavných cestách,
+
+- – ako guľatina z ihličnatých drevín zbavená kôry, použitá v ohradách pre hospodárske zvieratá,
+
+- – v konštrukciách zabraňujúcich zosuvom pôdy,
+
+- – ako stĺpy elektrického a telekomunikačného vedenia,
+
+- – ako podvaly podzemnej železnice.
+
+- Bez toho, aby boli dotknuté ostatné ustanovenia osobitného predpisu o klasifikácii, balení a označovaní nebezpečných látok a prípravkov,<sup>1</sup>) akékoľvek ošetrené drevo uvádzané na trh musí byť osobitne označené textom „Len na použitie v priemyselných zariadeniach a na ošetrovanie dreva odborníkmi. Obsahuje arzén“.
+
+- Okrem toho akékoľvek drevo dodávané na trh v balíkoch sa musí označiť nálepkou s textom „Pri manipulácii s týmto drevom používajte ochranné rukavice. Pri rezaní alebo inom opracúvaní tohto dreva používajte proti prachu osobné ochranné prostriedky na ochranu dýchacích orgánov a na ochranu zraku a tváre. Odpad z tohto dreva musí zneškodniť autorizovaný podnik ako nebezpečný odpad“.
+
+- 3.
+
+- Upravené drevo uvedené v bodoch 1 a 2 sa nesmie používať
+
+- – v obytných alebo domácich stavbách bez ohľadu na účel,
+
+- – v akýchkoľvek aplikáciách, keď hrozí riziko opakovaného styku s pokožkou,
+
+- – v morskej vode,
+
+- – na iné poľnohospodárske účely, ako sú ohrady pre hospodárske zvieratá, a na stavebné použitie v súlade s bodom 2,
+
+- – v akýchkoľvek aplikáciách, pri ktorých by upravené drevo mohlo prísť do styku s polotovarmi a hotovými výrobkami určenými na ľudskú a živočíšnu spotrebu.
+
+- 4.
+
+- Nesmú sa používať ako látky a zložky prípravkov určených na použitie pri úprave úžitkovej vody bez ohľadu na jej použitie.“.
+
 - 2. Bod XXI znie:
 
 - „XXI.
@@ -75,6 +161,10 @@ Príloha k vyhláške Ministerstva hospodárstva Slovenskej republiky č. 67/200
 - 2.
 
 - Okrem toho sa textilné, usňové a odevné výrobky nesmú uvádzať na trh, ak nezodpovedajú požiadavkám ustanoveným v bode 1.
+
+- 3.
+
+- Azofarbivá uvedené v Zozname azofarbív sa nesmú uvádzať na trh ani používať na farbenie textilných, usňových a odevných výrobkov ako látky alebo zložky prípravkov v koncentráciách vyšších ako 0,1 hmotnostných percent.
 
 - Zoznam aromatických amínov
 
