@@ -1,0 +1,19 @@
+## Zabezpečenie v chorobe a zabezpečenie matky a dieťaťa
+
+# § 97b Dávky
+
+(1) Zo zabezpečenia v chorobe a zabezpečenia matky a dieťaťa sa poskytujú tieto dávky:
+
+- a) kúpeľná starostlivosť,
+
+- b) nemocenské,
+
+- c) peňažná pomoc v materstve,
+
+- d) podpora pri narodení dieťaťa,
+
+- e) prídavky na deti,
+
+- f) pohrebné.
+
+(2) Pokiaľ sa ďalej neustanovuje inak, spravuje sa poskytovanie dávok uvedených v predchádzajúcom odseku predpismi o poskytovaní obdobných dávok platnými pre pracujúcich v pracovnom pomere.<sup>35</sup>)

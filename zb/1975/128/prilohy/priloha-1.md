@@ -28,9 +28,9 @@ Príloha č. 1 vyhlášky č. 128/1975 Zb.
 
 - 36. Ochorenie dolných ciest dýchacích a pľúc škodlivými účinkami Thomasovej múčky | ktoré dopravujú alebo spracúvajú Thomasovu trosku alebo spracúvajú, uskladňujú alebo dopravujú Thomasovu múčku
 
-- 37. Astma bronchiale | pri práci s látkami s alergizujúcim účinkom
+- 37. Astma bronchiale | pri práci s látkami s alergizujúcim účinkom a pri práci, kde pôsobia senzibilizujúce alebo iritujúce činitele za také uznávané, ktoré sú charakteristické pre druh práce
 
-- 38. Ochorenie hluchotou alebo ťažkou nedoslýchavosťou spôsobenou hlukom | v ktorých sú pracujúci vydaní nadmernému hluku
+- 38. Porucha sluchu spôsobená hluchom | v ktorých sú pracujúci vydaní nadmernému hluku
 
 - 39. Ochorenie šedým zákalom | v ktorých sú pracujúci vydaní nadmernému pôsobeniu krátkovlnných tepelných paprskov
 
@@ -39,3 +39,7 @@ Príloha č. 1 vyhlášky č. 128/1975 Zb.
 - 41. Rozdutie pľúc fúkačov skla a hudobníkov na dychových nástrojoch | v ktorých sú pracujúci vydaní tomuto nebezpečenstvu
 
 - 42. a) Ťažká hyperkynetická dysfónia, uzlíky na hlasivkách alebo ťažká nedomykavosť hlasiviek, ktoré sú trvalé a ktoré znemožňujú výkon povolania kladúceho zvýšené nároky na hlas b) Ťažká fonasténia | v ktorých sú pracujúci vydaní zvýšenej hlasovej námahe, najmä v divadlách, školách, profesionálnych hlasových telesách, profesionálnych kultúrnych a zábavných podnikoch povolanie spevákov sólistov
+
+- 43. Bronchopulmonálne choroby spôsobené prachom z bavlny (byssinóza), ľanu, konopí alebo sisalu | k č. 43-44 v ktorých sú pracujúci vydaní tomuto nebezpečenstvu
+
+- 44. Vonkajšie alergické alveolitídy a ich následky spôsobené vdychovaním organických prachov typu farmárske pľúca |

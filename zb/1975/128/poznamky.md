@@ -159,3 +159,11 @@
 - 78) § 15 ods. 3 až 5 zákona č. 54/1956 Zb.
 
 - 79) Nariadenie vlády ČSSR č. 136/1975 Zb. o zaraďovaní zamestnaní do I. a II. pracovnej kategórie na účely dôchodkového zabezpečenia.
+
+- 80) Nariadenie vlády ČSR č. 154/1982 Zb. o poskytovaní služieb občanmi na základe povolenia národného výboru a nariadenie vlády SSR č. 158/1982 Zb. o poskytovaní služieb občanmi na základe povolenia národného výboru. Zásady č. 20/1965 Zb. pre poskytovanie niektorých služieb a opráv občanmi na základe povolenia národného výboru.
+
+- 81) Zákon č. 145/1961 Zb. o dani z príjmov obyvateľstva v znení zákona č. 103/1974 Zb. a zákona č. 162/1982 Zb.
+
+- 82) § 232 ods. 2 Zákonníka práce.
+
+- 83) Nariadenie vlády ČSSR č. 142/1983 Zb. o poskytovaní dôchodkov niektorým pracujúcim dôchodcom.
