@@ -1,0 +1,1 @@
+- 1) Tu sa uverejňujú slovenské preklady.
