@@ -1,1 +1,0 @@
-- 1) Vyhlášky ministra zahraničných vecí č. 57/1976 Zb. o Colnom dohovore o kontejneroch, 1972.
