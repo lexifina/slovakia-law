@@ -1,1 +1,0 @@
-- *) Otištěna v příloze Sbírky zákonů na straně 13.
