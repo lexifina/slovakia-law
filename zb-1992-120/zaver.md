@@ -1,0 +1,1 @@
+Burešová v. r.
