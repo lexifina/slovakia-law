@@ -2,7 +2,7 @@
 
 - 2) Zákon Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení zákona Slovenskej národnej rady č. 194/1992 Zb., zákona Slovenskej národnej rady č. 488/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z.
 
-- 2a) § 61 ods. 1 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení neskorších predpisov.
+- 2a) § 2 zákona č. 498/1990 Zb.
 
 - 3) § 90 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
 
