@@ -22,6 +22,10 @@
 
 - 9) § 6 a§ 476 až 488 zákona č. 513/1991 Zb. Obchodný zákonník.
 
+- 9a) § 34 až 36, § 49 a 50 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
+
+- 9b) Vyhláška Ministerstva financií Slovenskej republiky č. 303/1994 Z. z. o označovaní spotrebiteľského balenia liehu, liehovín a destilátov kontrolnou páskou.
+
 - 10) § 6 Colného zákona.
 
 - 11) Zákon č. 30/1968 Zb. o štátnom skúšobníctve (úplné znenie č. 84/1987 Zb.).
