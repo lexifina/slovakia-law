@@ -20,7 +20,7 @@
 
 - 8) § 29 a 30 zákona č. 337/1998 Z. z.
 
-- 8a) § 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+- 8a) § 27 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
 - 8b) § 29 a 36 zákona č. 337/1998 Z. z.
 
@@ -29,6 +29,10 @@
 - 9) § 45 a 46 Obchodného zákonníka.
 
 - 9a) Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení.
+
+- 9aa) Napríklad § 20f až 20j Občianskeho zákonníka.
+
+- 9ab) Zákon č. 264/1999 Z. z.
 
 - 9b) Zákon č. 142/2000 Z. z.
 
@@ -46,11 +50,9 @@
 
 - 16) Zákon č. 30/1968 Zb. v znení neskorších predpisov.
 
-- 17) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+- 17) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 18) § 90 písm. a) vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 121/1987 Zb.
-
-- 19) Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 20) § 22 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
@@ -69,3 +71,7 @@
 - 27) § 2 písm. f) zákona č. 264/1999 Z. z.
 
 - 27a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 27aa) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+
+- Zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
