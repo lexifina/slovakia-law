@@ -32,7 +32,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 13. FO typ A Daňové priznanie k dani z príjmov fyzických osôb pre daňovníkov, ktorí majú príjmy len zo závislej činnosti a funkčné požitky
 
-- 14. FO typ: C Daňové priznanie k paušálnej dani
+- 14. FO typ: B1, B2 a B3 Daňové priznanie k dani z príjmov fyzických osôb.
 
 - 15. Hlásenie o vyúčtovaní dane a o úhrne príjmov fyzických osôb zo závislej činnosti a funkčných požitkov a o zrazených preddavkoch na daň z týchto príjmov
 
@@ -93,6 +93,8 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 - 43. Výkaz NO Úč 2-01 Výkaz o majetku a záväzkoch
 
 - 44. Súhrnný výkaz - Daň z pridanej hodnoty
+
+- 44a. Fin FAP 5-04 Výkaz o sektorovom členení prírastku/úbytku finančných aktív a pasív
 
 - I. A1. Colné riaditeľstvo
 
@@ -640,7 +642,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - 14. Označenie administratívneho zdroja:
 
-- FO typ: C Daňové priznanie k paušálnej dani
+- FO typ: B1, B2, B3 Daňové priznanie k dani z príjmov fyzických osôb
 
 - a) Využitie administratívnych údajov
 
@@ -648,7 +650,7 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ), podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4) a právnej formy daňovníka.
+- Údaje v plnom rozsahu za Slovenskú republiku spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ) a podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa toho, či sú podnikateľské subjekty zapísané v obchodnom registri alebo podnikajú na základe živnostenského oprávnenia alebo na základe iného než živnostenského oprávnenia podľa osobitných predpisov alebo fyzické osoby, ktoré vykonávajú poľnohospodársku výrobu a sú zapísané do evidencie podľa osobitného predpisu a členenie podľa právnej formy daňovníka.
 
 - c) Periodicita: ročne.
 
@@ -1195,6 +1197,22 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 - c) Periodicita: štvrťročne.
 
 - d) Lehota na odovzdanie administratívnych údajov: do 55. kalendárneho dňa po referenčnom období.
+
+- 44a. Označenie administratívneho zdroja:
+
+- Fin FAP 5-04 Výkaz o sektorovom členení prírastku/úbytku finančných aktív a pasív
+
+- a) Využitie administratívnych údajov
+
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov podľa nariadenia Rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
+
+- b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+- Vybrané aktíva a pasíva spracované podľa subsektorov verejnej správy systému národných účtov SNÚ.
+
+- c) Periodicita: štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: štvrťročne 55. kalendárny deň po referenčnom období, ročne do 30. júna po referenčnom období.
 
 - I. A1 Inštitúcia disponujúca administratívnym zdrojom: Colné riaditeľstvo
 

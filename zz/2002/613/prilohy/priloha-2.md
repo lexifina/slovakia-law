@@ -22,8 +22,6 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
   - 6. ON (MZ SR) 1-04 Štvrťročný výkaz o vybraných ekonomických ukazovateľoch v príspevkových a neziskových organizáciách
 
-- 7. M (MZ SR) 2-04 Štvrťročný výkaz o zamestnancoch a o zložení mzdových prostriedkov v zdravotníctve
-
 - 8. ZS (MZ SR) 1-12 Štatistický lístok pacienta hospitalizovaného v psychiatrickom zariadení
 
 - 9. ZS (MZ SR) 2-12 Hlásenie príčin a okolností úmyselného sebapoškodenia
@@ -90,8 +88,6 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 34. Les (MP SR) 2-04 Štvrťročný výkaz o dodávkach dreva v lesníctve
 
-- 35. Les (MP SR) 3-04 Štvrťročný výkaz o cenách dreva v lesníctve
-
 - Charakteristiky zisťovaní
 
 - 1. Názov zisťovania: Štvrťročný výkaz o cene práce
@@ -102,7 +98,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať aktuálne informácie o priemerných hodinových zárobkoch zamestnancov, o cene práce a podrobnej štruktúre a diferenciácii miezd zamestnancov v jednotlivých triedeniach podľa Klasifikácie zamestnaní, tarifných tried (stupňov náročnosti), pohlavia, veku a vzdelania zamestnancov. Údaje sa využijú na koncepčné riadenie mzdovej politiky, na účely kolektívneho vyjednávania, vyhodnocovanie rovnosti príležitostí žien a mužov a na usmerňovanie aktívnej politiky trhu práce. Súčasne budú slúžiť na vytvorenie kompletných, spoľahlivých a porovnateľných štatistických zdrojov na regionálnej, národnej a medzinárodnej úrovni v zmysle požiadaviek Európskeho štatistického systému a ďalších medzinárodných organizácií. Údaje o štruktúre a diferenciácii pracovných príjmov budú podkladom pre OECD na zhodnotenie mzdového a hospodárskeho vývoja v členských štátoch v súvislosti s jednotnou európskou menovou politikou.
 
-- Európsky právny predpis: nariadenie rady (ES) č. 530/1999.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (ES) č. 530/1999.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -292,36 +288,6 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky. Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 7. Názov zisťovania: Štvrťročný výkaz o zamestnancoch a o zložení mzdových prostriedkov v zdravotníctve
-
-- Značka štatistického formulára: M (MZ SR) 2-04
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o zamestnancoch, o mzdách a o zložení mzdových prostriedkov jednotlivých kategórií zamestnancov. Spracované údaje využíva Ministerstvo zdravotníctva Slovenskej republiky pri hodnotení personálneho a mzdového zabezpečenia poskytovaných služieb v zdravotníctve.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: ukazovatele poskytujúce prehľad o mzdách a o zložkách miezd podľa jednotlivých kategórií zamestnancov a o počte a pohybe jednotlivých kategórií zamestnancov.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Zdravotnícke zariadenia - právne subjekty, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
-
-- - zdravotníctvo (OKEČ 85.1).
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita zisťovania: štvrťročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 14. kalendárneho dňa po sledovanom období.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky. Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
-
 - 8. Názov zisťovania: Štatistický lístok pacienta hospitalizovaného v psychiatrickom zariadení
 
 - Značka štatistického formulára: ZS (MZ SR) 1-12
@@ -330,7 +296,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o populácii hospitalizovanej v psychiatrických zariadeniach a o požiadavkách na jej ďalšiu liečbu. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat.
 
-- Európsky právny predpis: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
+- Právny akt Európskych spoločenstiev a Európskej únie: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -362,7 +328,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie na rozbor príčin a okolností úmyselného sebapoškodenia (samovraždy a samovražedné pokusy). Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat.
 
-- Európsky právny predpis: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
+- Právny akt Európskych spoločenstiev a Európskej únie: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -394,7 +360,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o ukončenej kúpeľnej liečbe v prírodných liečebných kúpeľoch. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva.
 
-- Európsky právny predpis: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
+- Právny akt Európskych spoločenstiev a Európskej únie: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -426,7 +392,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o liečených užívateľoch drog. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu a prostredníctvom Európskeho monitorovacieho centra pre drogy a drogovú závislosť pre členské štáty Európskej únie, Európsky parlament a Európsku komisiu.
 
-- Európsky právny predpis: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
+- Právny akt Európskych spoločenstiev a Európskej únie: rozhodnutie č. 1400/97/ES Európskeho parlamentu a rady v oblasti Verejné zdravotníctvo.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -580,7 +546,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie na zostavenie medzinárodného dotazníka o rope, ropných výrobkoch a zemnom plyne pre medzinárodnú energetickú agentúru a pre Európsku úniu.
 
-- Európsky právny predpis: smernice rady č. 68/414/EHS a č. 98/93/EÚ.
+- Právny akt Európskych spoločenstiev a Európskej únie: smernice rady č. 68/414/EHS a č. 98/93/EÚ.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -652,7 +618,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie potrebné na spracovanie bilancie mäsa a pre potreby trhovej regulácie v poľnohospodárstve a potravinárstve, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie rady (ES) č. 1254/1999 o spoločnej organizácii trhu s hovädzím mäsom a nariadenie rady (EHS) č. 2759/75 o spoločnej organizácii trhu s bravčovým mäsom.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (ES) č. 1254/1999 o spoločnej organizácii trhu s hovädzím mäsom a nariadenie rady (EHS) č. 2759/75 o spoločnej organizácii trhu s bravčovým mäsom.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -692,7 +658,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie potrebné na spracovanie bilancie mäsových výrobkov a pre potreby trhovej regulácie v poľnohospodárstve a potravinárstve, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie rady (ES) č. 1254/1999 o spoločnej organizácii trhu s hovädzím mäsom a nariadenie rady (EHS) č. 2759/75 o spoločnej organizácii trhu s bravčovým mäsom.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (ES) č. 1254/1999 o spoločnej organizácii trhu s hovädzím mäsom a nariadenie rady (EHS) č. 2759/75 o spoločnej organizácii trhu s bravčovým mäsom.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -730,7 +696,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie vývoja priemerných nákupných cien jatočných zvierat, počtu kusov jatočných zvierat a cien mäsa a mäsových výrobkov pre potreby Ministerstva pôdohospodárstva Slovenskej republiky, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (ES) č. 295/96 o vykonávaní nariadenia rady (EHS) č. 1892/87 s ohľadom na stanovenie cien na trhu podľa tried kvality, nariadenie komisie (ES) č. 2705/98 o stanovení reprezentatívnych trhov a stanovovaní trhových cien dospelého hovädzieho dobytka, nariadenie komisie (EHS) č. 3537/89 o oznamovaní cien za zabité ošípané, nariadenie komisie (EHS) č. 1481/86 o stanovení reprezentatívnych trhov a stanovovaní cien pre chladené telá jatočných oviec a jahniat.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (ES) č. 295/96 o vykonávaní nariadenia rady (EHS) č. 1892/87 s ohľadom na stanovenie cien na trhu podľa tried kvality, nariadenie komisie (ES) č. 2705/98 o stanovení reprezentatívnych trhov a stanovovaní trhových cien dospelého hovädzieho dobytka, nariadenie komisie (EHS) č. 3537/89 o oznamovaní cien za zabité ošípané, nariadenie komisie (EHS) č. 1481/86 o stanovení reprezentatívnych trhov a stanovovaní cien pre chladené telá jatočných oviec a jahniat.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -770,7 +736,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o vyrobenom a predanom množstve mlieka a vybraných mliekarenských výrobkov v súvislosti s plnením úloh Ministerstva pôdohospodárstva Slovenskej republiky v zmysle európskych noriem.
 
-- Európsky právny predpis: smernice rady 96/16/ES, 97/80/ES a 582/98/ES o mlieku a mliečnych výrobkoch.
+- Právny akt Európskych spoločenstiev a Európskej únie: smernica Európskeho parlamentu a Rady 2003/107/ES z 5. decembra 2003, ktorou sa mení smernica Rady 96/16/ES o štatistických zisťovaniach mlieka a mliečnych výrobkov.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -804,7 +770,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o zdrojoch, predajoch a použití obilnín vo sfére poľnohospodárskeho nákupu, priemyselnej výroby krmív, spracovateľského priemyslu a obchodu s obilím okrem poľnohospodárskej prvovýroby. Štatistické zisťovanie slúži aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie rady (ES) č. 1766/1992 o spoločnej organizácii trhu s obilninami, dokument o zostavovaní ponukových bilancií obilnín - Eurostat č. Doc. E/V/002 FR rev. 1 a nariadenie rady (ES) č. 1251/1999, ktoré ustanovuje systém podpory pre producentov určitých plodín pestovaných na ornej pôde.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (ES) č. 1766/1992 o spoločnej organizácii trhu s obilninami, dokument o zostavovaní ponukových bilancií obilnín - Eurostat č. Doc. E/V/002 FR rev. 1 a nariadenie rady (ES) č. 1251/1999, ktoré ustanovuje systém podpory pre producentov určitých plodín pestovaných na ornej pôde.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -838,13 +804,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o tvorbe a rozdelení fondov cukru, melasy a izoglukózy v Slovenskej republike. Štatistické zisťovanie slúži aj na zabezpečenie požiadaviek Európskeho štatistického systému na zisťovanie bilančných údajov v skupine „cukor“.
 
-- Európsky právny predpis: nariadenie komisie (ES) č. 779/96, ktoré stanovuje podrobné predpisy pre aplikáciu nariadenia rady (EHS) č. 1785/81 v súvislosti s odovzdávaním informácií v sektore cukru.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (ES) č. 779/96, ktoré stanovuje podrobné predpisy pre aplikáciu nariadenia rady (EHS) č. 1785/81 v súvislosti s odovzdávaním informácií v sektore cukru.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa tvorby zdrojov cukru, melasy a izoglukózy - zásob, výroby, nákupu v tuzemsku, dovozu spolu, z toho z Českej republiky, rozdelenia fondov pre vlastnú spotrebu, dodávok pre obyvateľstvo a na výrobu nealkoholických nápojov, týkajúce sa výrobnej spotreby, vývozu spolu, z toho do Českej republiky, iných dodávok, nákupu a dodávok pre Intervenčnú poľnohospodársku agentúru Slovenskej republiky a pre hmotné rezervy.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa tvorby zdrojov cukru, melasy a izoglukózy – zásob, výroby, nákupu v tuzemsku, dovozu z tretích krajín, prijatia z členských štátov Európskej únie, rozdelenia fondov na vlastnú spotrebu, dodávok pre obyvateľstvo a na výrobu nealkoholických nápojov, ukazovatele týkajúce sa výrobnej spotreby, vývozu do tretích krajín, odoslania do členských štátov Európskej únie, iných dodávok, nákupu a dodávok pre intervencie a pre hmotné rezervy.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -882,7 +848,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o bežných a nadmerných zásobách cukru, izoglukózy a fruktózy, ktoré budú dňom pristúpenia prenesené do Európskej únie.
 
-- Európsky právny predpis: nariadenie Komisie (ES) č. 60/2004, ktorým sa ustanovujú dočasné opatrenia v sektore cukru pre pristupujúce členské štáty do Európskej únie.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie Komisie (ES) č. 60/2004, ktorým sa ustanovujú dočasné opatrenia v sektore cukru pre pristupujúce členské štáty do Európskej únie.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -936,11 +902,11 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o bilancii hotových výrobkov a surovín s obsahom cukru na ich výrobu. Bilancia slúži na sledovanie pohybu zásob cukru, izoglukózy a fruktózy v spracovaných výrobkoch.
 
-- Európsky právny predpis: nariadenie Komisie (ES) č. 60/2004, ktorým sa ustanovujú dočasné opatrenia v sektore cukru pre pristupujúce členské štáty do Európskej únie.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie Komisie (ES) č. 60/2004, ktorým sa ustanovujú dočasné opatrenia v sektore cukru pre pristupujúce členské štáty do Európskej únie.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
-- Použitá metóda: vyčerpávajúce zisťovanie.
+- Použitá metóda: výberové zisťovanie.
 
 - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa stavu zásob suroviny a nedokončenej výroby, nákupu suroviny v tuzemsku, dovozu, predaja, vývozu a použitia suroviny, stavu zásob spracovaných výrobkov, nákupu, dovozu, predaja a vývozu spracovaných výrobkov za výrobné, nevýrobné a obchodné organizácie.
 
@@ -990,7 +956,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie a ucelený prehľad o liahnutí, násadových vajciach a jednodňovej hydine. Výsledky zisťovania sa využívajú v rámci analýz Ministerstva pôdohospodárstva Slovenskej republiky, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1868/77 upravujúce detailné podmienky uplatňovania nariadenia (EHS) č. 2782/75 o produkcii a marketingu násadových vajec a jednodňovej hydiny.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1868/77 upravujúce detailné podmienky uplatňovania nariadenia (EHS) č. 2782/75 o produkcii a marketingu násadových vajec a jednodňovej hydiny.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1024,7 +990,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o nákupe, predaji a zdrojoch obilnín, olejnín a strukovín uložených vo verejnom sklade, slúžiacich ako základ na prípravu ročnej bilancie obilnín. Štatistické zisťovanie slúži aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (ES) č. 2148/96, ktoré stanovuje pravidlá na hodnotenie a monitorovanie verejných intervenčných zásob poľnohospodárskych produktov, ako aj nariadenie rady (ECC) č. 3492/90 na stanovenie podmienok, ktoré sa majú vziať do úvahy v ročných bilanciách na financovanie intervenčných opatrení vo forme verejného skladovania prostredníctvom garančnej sekcie Európskeho poľnohospodárskeho garančného a zabezpečovacieho fondu (EAGGF).
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (ES) č. 2148/96, ktoré stanovuje pravidlá na hodnotenie a monitorovanie verejných intervenčných zásob poľnohospodárskych produktov, ako aj nariadenie rady (ECC) č. 3492/90 na stanovenie podmienok, ktoré sa majú vziať do úvahy v ročných bilanciách na financovanie intervenčných opatrení vo forme verejného skladovania prostredníctvom garančnej sekcie Európskeho poľnohospodárskeho garančného a zabezpečovacieho fondu (EAGGF).
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1058,7 +1024,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie a ucelený prehľad o výrobe, spracovaní a odbyte hydinového mäsa a konzumných vajec na tvorbu analýz, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (ES) č. 2916/95 o organizovaní trhu s hydinovým mäsom a vajcami.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (ES) č. 2916/95 o organizovaní trhu s hydinovým mäsom a vajcami.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1092,7 +1058,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o tvorbe a rozdelení fondov surového liehu. Výsledky štatistického zisťovania sa využijú pri príprave materiálov, ktoré slúžia na tvorbu analýz a koncepcií rozvoja potravinárskeho priemyslu.
 
-- Európsky právny predpis: nariadenie Komisie (ES) č. 2336/2003 upravujúce určité detailné pravidlá na aplikáciu nariadenia Rady (ES) č. 670/2003 ustanovujúce špecifické opatrenia vo vzťahu k obchodovaniu s liehom poľnohospodárskeho pôvodu.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie Komisie (ES) č. 2336/2003 upravujúce určité detailné pravidlá na aplikáciu nariadenia Rady (ES) č. 670/2003 ustanovujúce špecifické opatrenia vo vzťahu k obchodovaniu s liehom poľnohospodárskeho pôvodu.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1132,7 +1098,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa tvorby zdrojov rafinovaného liehu, výroby, nákupu v tuzemsku, dovozu spolu, z toho z Českej republiky, vlastnej spotreby, predaja v tuzemsku, vývozu spolu, z toho do Českej republiky, a ostatného použitia.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa tvorby zdrojov rafinovaného liehu, výroby, nákupu v tuzemsku, dovozu z tretích krajín a vývozu do tretích krajín, vlastnej spotreby, predaja v tuzemsku a ostatného použitia.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -1164,7 +1130,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa výroby a predaja liehovín, nákupu v tuzemsku, dovozu spolu, z toho z Českej republiky, a ostatného použitia.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa výroby a predaja liehovín, nákupu v tuzemsku, dovozu z tretích krajín a vývozu do tretích krajín a ostatného použitia.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -1232,7 +1198,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa zdrojov, t. j. výroby, nákupu v tuzemsku, dovozu spolu, z toho z Českej republiky, ostatného príjmu, zdrojov spolu a ukazovatele spotreby, t. j. vlastnej spotreby, dodávok pre obyvateľstvo, dodávok na vývoz spolu, z toho pre Českú republiku, ostatných dodávok a dodávok spolu.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa zdrojov, t. j. výroby, nákupu v tuzemsku, celkového dovozu, z toho dovozu z tretích krajín, ostatných zdrojov, zdrojov spolu a ukazovatele spotreby, t. j. vlastnej spotreby, dodávok pre obyvateľstvo, celkového vývozu, z toho vývozu do tretích krajín, ostatných dodávok a dodávok spolu.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -1266,7 +1232,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať základné informácie o činnostiach a výkonoch v lesnom hospodárstve podľa klasifikácie AGROPROD. Informácie sa využijú na analýzy, prognózy, koncepciu a rozvoj lesného hospodárstva. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1615/89 v znení neskorších nariadení o vybudovaní Európskeho lesníckeho informačného a komunikačného systému a vypracovaní lesníckych ekonomických účtov.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1615/89 v znení neskorších nariadení o vybudovaní Európskeho lesníckeho informačného a komunikačného systému a vypracovaní lesníckych ekonomických účtov.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1304,49 +1270,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať základné informácie o obchode so surovým drevom v tuzemsku a pri vývoze do zahraničia na účely trhového informačného systému, obchodnej a licenčnej politiky. Informácie sa využijú na aktualizáciu podmienok realizácie štátnej lesníckej politiky, koncepcie a stratégie rozvoja lesníctva. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1615/89 v znení neskorších nariadení o vybudovaní Európskeho lesníckeho informačného a komunikačného systému a vypracovaní lesníckych ekonomických účtov.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1615/89 v znení neskorších nariadení o vybudovaní Európskeho lesníckeho informačného a komunikačného systému a vypracovaní lesníckych ekonomických účtov.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
 - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa obchodu so surovým drevom podľa sortimentov a jednotlivých druhov drevín. Zisťovaním sa sleduje obchod s drevom v tuzemsku i pri vývoze do zahraničia v naturálnych i peňažných jednotkách, dodávky reziva, lesnej štiepky a zásoby hotových sortimentov dreva v skladoch.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Lesy Slovenskej republiky, š. p., Štátne lesy Tatranského národného parku, Lesopoľnohos-podársky majetok, š. p., Ulič, Vojenské lesy a majetky, školské lesy a iné organizácie obhospodarujúce neštátne lesy, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
-
-- - lesníctvo, ťažba dreva a súvisiace služby (OKEČ 02.0),
-
-- - služby pri ťažbe dreva (OKEČ 02.02.2).
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita zisťovania: štvrťročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 16. kalendárneho dňa po sledovanom období.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
-
-- 35. Názov zisťovania: Štvrťročný výkaz o cenách dreva v lesníctve
-
-- Značka štatistického formulára: Les (MP SR) 3-04
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať základné informácie o cenách surového dreva pri predaji tuzemským odberateľom, resp. pri predaji do zahraničia na účely trhového informačného systému, obchodnej a licenčnej politiky. Informácie sa využijú na aktualizáciu podmienok realizácie štátnej lesníckej politiky, koncepcie a stratégie rozvoja lesníctva. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
-
-- Európsky právny predpis: nariadenie rady (EHS) č. 1615/89 v znení neskorších nariadení o vybudovaní Európskeho lesníckeho informačného a komunikačného systému a vypracovaní lesníckych ekonomických účtov.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa cien surového dreva na lokalite expedičný sklad platné pre fakturáciu jednotlivým odberateľom (domácim, resp. zahraničným) bez dane z pridanej hodnoty podľa sortimentov, hrúbkových tried a jednotlivých druhov drevín.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -1500,7 +1430,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 56. A (MZ SR) 2-01 Ročný výkaz o činnosti diabetologických ambulancií
 
-- 57. A (MZ SR) 3-01 Ročný výkaz o činnosti ambulancií poliklinického oddelenia tuberkulózy a respiračných chorôb
+  - 57. A (MZ SR) 3-01 Ročný výkaz o činnosti ambulancií pneumológie a ftizeológie
 
 - 58. A (MZ SR) 4-01 Ročný výkaz o činnosti psychiatrických ambulancií
 
@@ -1516,11 +1446,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 64. A (MZ SR) 10-01 Ročný výkaz o doraste
 
-- 65. A (MZ SR) 11-01 Ročný výkaz o činnosti
-
-- a) oddelenia telovýchovného lekárstva
-
-- b) pracoviska Ústavu telovýchovného lekárstva
+  - 65. A (MZ SR) 11-01 Ročný výkaz o činnosti oddelenia telovýchovného lekárstva
 
 - 66. A (MZ SR) 12-01 Ročný výkaz o činnosti chirurgických odborov (ambulantných a posteľových)
 
@@ -1546,7 +1472,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 75. K (MZ SR) 3-01 Ročný výkaz o činnosti oddelenia (pracoviska) nukleárnej medicíny
 
-- 76. K (MZ SR) 4-01 Ročný výkaz o činnosti rádiodiagnostického oddelenia a ambulancie
+  - 76. K (MZ SR) 4-01 Ročný výkaz o činnosti rádiológie
 
 - 77. K (MZ SR) 5-01 Ročný výkaz o činnosti fyziatricko-rehabilitačného (rehabilitačného) oddelenia a ambulancie
 
@@ -1554,7 +1480,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 79. K (MZ SR) 7-01 Ročný výkaz o činnosti ambulancie a laboratória klinickej imunológie a alergológie
 
-- 80. K (MZ SR) 8-01 Ročný výkaz o činnosti oddelenia patológie
+  - 80. K (MZ SR) 8-01 Ročný výkaz o činnosti oddelenia patologickej anatómie
 
 - 81. K (MZ SR) 9-01 Ročný výkaz o činnosti súdnolekárskeho oddelenia
 
@@ -1562,9 +1488,9 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 83. L (MZ SR) 3-01 Ročný výkaz o gynekologicko-pôrodníckej starostlivosti
 
-- 84. L (MZ SR) 4-01 Ročný výkaz o anestéziologicko-resuscitačnej činnosti
+  - 84. L (MZ SR) 4-01 Ročný výkaz o činnosti anestéziológie a intenzívnej medicíny
 
-- 85. L (MZ SR) 5-01 Ročný výkaz o činnosti rádioterapeutického oddelenia
+  - 85. L (MZ SR) 5-01 Ročný výkaz o činnosti radiačnej onkológie
 
 - 86. L (MZ SR) 8-01 Ročný výkaz o činnosti detských sanatórií
 
@@ -1700,15 +1626,15 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 144. FET (MDPT SR) 1-01 Ročný výkaz o ekonomických ukazovateľoch
 
-- POŠTOVÝ ÚRAD
+- POŠTOVÝ REGULAČNÝ ÚRAD
 
-- 145. PO (PÚ) 1-02 Polročný výkaz o poštovej sieti
+  - 145. PO (PRÚ) 1-02 Polročný výkaz o poštovej sieti
 
-- 146. PO (PÚ) 2-02 Polročný výkaz o poštových službách
+  - 146. PO (PRÚ) 2-02 Polročný výkaz o poštových službách a poštovom platobnom styku
 
-- 147. PO (PÚ) 3-02 Polročný výkaz o vybraných ukazovateľoch kvality univerzálnej poštovej služby
+  - 147. PO (PRÚ) 3-02 Polročný výkaz o vybraných ukazovateľoch kvality univerzálnej poštovej služby
 
-- 148. PO (PÚ) 4-02 Polročný výkaz o vybraných finančných ukazovateľoch poštových služieb
+  - 148. PO (PRÚ) 4-02 Polročný výkaz o vybraných finančných ukazovateľoch poštových služieb a poštového platobného styku
 
 - IV. Poľnohospodárstvo, lesníctvo a rybárstvo
 
@@ -1770,7 +1696,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o vyplatených platoch zamestnancom v štátnej službe a vo verejnej službe, o ich podrobnej štruktúre a diferenciácii v jednotlivých triedeniach podľa Klasifikácie zamestnaní, platových tried, platových stupňov, stupníc platových taríf, pohlavia, veku a vzdelania zamestnancov. Údaje sa využijú na koncepčné riadenie mzdovej politiky, vyhodnocovanie rovnosti príležitostí žien a mužov a na usmerňovanie aktívnej politiky trhu práce. Súčasne budú slúžiť na vytvorenie kompletných, spoľahlivých a porovnateľných štatistických zdrojov na regionálnej, národnej a medzinárodnej úrovni v zmysle požiadaviek Európskeho štatistického systému a ďalších medzinárodných organizácií. Údaje o štruktúre a diferenciácii pracovných príjmov budú podkladom pre OECD na zhodnotenie mzdového a hospodárskeho vývoja v členských štátoch v súvislosti s jednotnou európskou menovou politikou.
 
-- Európsky právny predpis: nariadenie rady (ES) č. 530/1999.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (ES) č. 530/1999.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1802,7 +1728,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať podrobné informácie na zistenie a vyhodnotenie pracovných, mzdových podmienok zamestnancov a informácie nevyhnutné na sledovanie nákladov vynaložených na podnikovú sociálnu politiku, ktoré budú slúžiť najmä na účely kolektívneho vyjednávania, analýzy a prognózy. Súčasne bude zisťovanie slúžiť na zabezpečenie informácií o životných a pracovných podmienkach v Slovenskej republike pre EURES.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1612/1968 o voľnom pohybe zamestnancov v rámci Európskeho spoločenstva.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1612/1968 o voľnom pohybe zamestnancov v rámci Európskeho spoločenstva.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -3580,7 +3506,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky. Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 57. Názov zisťovania: Ročný výkaz o činnosti ambulancií poliklinického oddelenia tuberkulózy a respiračných chorôb
+  - 57. Názov zisťovania: Ročný výkaz o činnosti ambulancií pneumológie a ftizeológie
 
 - Značka štatistického formulára: A (MZ SR) 3-01
 
@@ -3834,13 +3760,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 65. Názov zisťovania: Ročný výkaz o činnosti a) oddelenia telovýchovného lekárstva b) pracoviska Ústavu telovýchovného lekárstva
+  - 65. Názov zisťovania: Ročný výkaz o činnosti oddelenia telovýchovného lekárstva
 
 - Značka štatistického formulára: A (MZ SR) 11-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o činnosti pracovísk telovýchovného lekárstva. Údaje sa využijú na riadenie a rozvoj zdravotníctva.
+- Účelom štatistického zisťovania je získať informácie o činnosti oddelení telovýchovného lekárstva. Údaje sa využijú na riadenie a rozvoj zdravotníctva.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -4250,19 +4176,19 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 76. Názov zisťovania: Ročný výkaz o činnosti rádiodiagnostického oddelenia a ambulancie
+  - 76. Názov zisťovania: Ročný výkaz o činnosti rádiológie
 
 - Značka štatistického formulára: K (MZ SR) 4-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o rádiodiagnostických oddeleniach a pracoviskách, ich prístrojovom vybavení a o používaných rádiodiagnostických metódach. Spracované údaje využije Ministerstvo zdravotníctva Slovenskej republiky ako podklady na riadenie a rozvoj zdravotníctva. Údaje sa uverejnia v zdravotníckych publikáciách.
+- Účelom štatistického zisťovania je získať informácie o rádiologických oddeleniach a pracoviskách, ich prístrojovom vybavení a o používaných rádiologických metódach. Spracované údaje využije Ministerstvo zdravotníctva Slovenskej republiky ako podklady na riadenie a rozvoj zdravotníctva. Údaje sa uverejnia v rezortných zdravotníckych publikáciách.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa rádiodiagnostických vyšetrení, prístrojového vybavenia a personálneho zabezpečenia rádiodiagnostických oddelení.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa rádiologických vyšetrení, prístrojového vybavenia a personálneho zabezpečenia rádiologických oddelení.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -4378,7 +4304,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 80. Názov zisťovania: Ročný výkaz o činnosti oddelenia patológie
+- 80. Názov zisťovania: Ročný výkaz o činnosti oddelenia patologickej anatómie
 
 - Značka štatistického formulára: K (MZ SR) 8-01
 
@@ -4506,19 +4432,19 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 84. Názov zisťovania: Ročný výkaz o anestéziologicko-resuscitačnej činnosti
+- 84. Názov zisťovania: Ročný výkaz o činnosti anestéziológie a intenzívnej medicíny
 
 - Značka štatistického formulára: L (MZ SR) 4-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o anestéziologicko-resuscitačnej činnosti oddelení. Údaje sa využijú ako podklady do zdravotníckych publikácií, ako aj pre potreby Ministerstva zdravotníctva Slovenskej republiky.
+- Účelom štatistického zisťovania je získať informácie o činnosti anestéziológie a intenzívnej medicíny. Údaje sa uverejnia v rezortných zdravotníckych publikáciách, ako aj pre potreby Ministerstva zdravotníctva Slovenskej republiky.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa materiálneho a personálneho zabezpečenia a zdravotníckych výkonov v anestéziologicko-resustitačných oddeleniach.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa materiálneho a personálneho zabezpečenia a zdravotníckych výkonov v oddeleniach anestéziológie a intenzívnej medicíny.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -4538,7 +4464,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 85. Názov zisťovania: Ročný výkaz o činnosti rádioterapeutického oddelenia
+- 85. Názov zisťovania: Ročný výkaz o činnosti radiačnej onkológie
 
 - Značka štatistického formulára: L (MZ SR) 5-01
 
@@ -5212,7 +5138,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o ochrane pamiatkového fondu, ktoré sa využijú na riešenie vecných problémov v danej oblasti a na medzinárodné porovnanie vo výbore pre kultúrne dedičstvo Rady Európy.
 
-- Európsky právny predpis: dokumenty Rady Európy - Dohovor o ochrane architektonického dedičstva Európy a Európsky dohovor o ochrane archeologického dedičstva.
+- Právny akt Európskych spoločenstiev a Európskej únie: dokumenty Rady Európy - Dohovor o ochrane architektonického dedičstva Európy a Európsky dohovor o ochrane archeologického dedičstva.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -5446,7 +5372,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o televíznej programovej službe pre potreby štatistiky kultúry. Výsledky zisťovania sa využijú v rôznych sférach hospodárskeho, kultúrneho a politického života a v medzinárodných organizáciách, najmä v UNESCO.
 
-- Európsky právny predpis: smernica komisie č. 97/36/ES, ktorou sa upravuje smernica rady č. 89/552/EHS o koordinácii niektorých zákonných ustanovení, regulatívnych opatrení a administratívnych postupov členských štátov vzťahujúcich sa na aktivity v oblasti televízneho vysielania („Televízia bez hraníc“).
+- Právny akt Európskych spoločenstiev a Európskej únie: smernica komisie č. 97/36/ES, ktorou sa upravuje smernica rady č. 89/552/EHS o koordinácii niektorých zákonných ustanovení, regulatívnych opatrení a administratívnych postupov členských štátov vzťahujúcich sa na aktivity v oblasti televízneho vysielania („Televízia bez hraníc“).
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -5544,7 +5470,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o tvorbe a výrobe audiovizuálnych diel, ich distribúcii v sieti kín, videopožičovní a klubov, ako aj o jazykovej úprave a exporte filmových diel. Výsledky zisťovania sa využijú na riešenie vecných problémov v danej oblasti a na medzinárodné porovnanie. Využívajú ich svetové organizácie a inštitúcie sledujúce oblasť audiovízie.
 
-- Európsky právny predpis: rozhodnutie Rady 1999/297/ES, ktorým sa zriaďuje štatisticko – informačná štruktúra ES vzťahujúca sa na odvetvia audiovízie a príbuzných sektorov.
+- Právny akt Európskych spoločenstiev a Európskej únie: rozhodnutie Rady 1999/297/ES, ktorým sa zriaďuje štatisticko – informačná štruktúra ES vzťahujúca sa na odvetvia audiovízie a príbuzných sektorov.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6084,7 +6010,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o dĺžke a stave cestnej siete a o nákladoch vynakladaných na výstavbu, opravy a celoročnú údržbu, ktoré budú slúžiť na analytickú činnosť Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky podľa platných územno-správnych regiónov republiky a pre medzinárodný dotazník CEMT/CS/INV a spoločný dotazník EROSTA/CEMT/UN - ECE.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6114,7 +6040,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o dĺžke a stave diaľničnej siete, o nákladoch vynakladaných na jej výstavbu, opravy a celoročnú údržbu a o zložení diaľničného fondu na diaľnice. Výsledky sa využijú na analytickú činnosť a na rozhodovacie procesy Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky v oblasti cestnej infraštruktúry, na publikačnú činnosť, na všeobecné informovanie verejnosti a pre medzinárodný dotazník CEMT/CS/INV a spoločný dotazník EROSTA/CEMT/UN - ECE. Európsky právny predpis: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
+- Účelom štatistického zisťovania je získať informácie o dĺžke a stave diaľničnej siete, o nákladoch vynakladaných na jej výstavbu, opravy a celoročnú údržbu a o zložení diaľničného fondu na diaľnice. Výsledky sa využijú na analytickú činnosť a na rozhodovacie procesy Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky v oblasti cestnej infraštruktúry, na publikačnú činnosť, na všeobecné informovanie verejnosti a pre medzinárodný dotazník CEMT/CS/INV a spoločný dotazník EROSTA/CEMT/UN - ECE. Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6146,7 +6072,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o zdrojoch príjmov na financovanie cestnej infraštruktúry a o spôsobe ich vynakladania, ktoré budú slúžiť na analytickú činnosť a na tvorbu plánov investičných akcií Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky, ako aj pre medzinárodný dotazník CEMT/CS/INV.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6224,7 +6150,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o preprave tovaru kombinovanou dopravou slúžiace na analytickú činnosť Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky a pre medzinárodný dotazník CEMT/Trends transport.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1177/80 o štatistických hláseniach týkajúcich sa prepravy tovaru železničnou dopravou.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1177/80 o štatistických hláseniach týkajúcich sa prepravy tovaru železničnou dopravou.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6264,7 +6190,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o nákladoch vynakladaných na výstavbu, opravy a celoročnú údržbu vodnej infraštruktúry (vodnú cestu a prístavy), ktoré budú slúžiť na analytickú činnosť, na tvorbu plánov investičných akcií Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky a pre medzinárodný dotazník CEMT/CS/INV.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/ EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/ EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6300,7 +6226,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o nákladoch vynakladaných na výstavbu, opravy a celoročnú údržbu železničnej infraštruktúry, ktoré budú slúžiť na analytickú činnosť a na tvorbu plánov investičných akcií Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky, ako aj pre medzinárodný dotazník CEMT/CS/INV a spoločný dotazník EUROSTAT/CEMT/UN - ECE.
 
-- Európsky právny predpis: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie rady (EHS) č. 1108/70 o zavádzaní účtovného systému nákladov na infraštruktúru (vrátane 1384/79/EHS, 3021/81/EHS a 3572/90/EHS) a nariadenie komisie (EHS) č. 2598/70 stanovujúce obsah položiek účtovnej schémy podľa prílohy č. l k nariadeniu rady č. 1108/70 (vrátane nariadenia 2116/78/EHS).
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6488,7 +6414,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 145. Názov zisťovania: Polročný výkaz o poštovej sieti
 
-- Značka štatistického formulára: PO (PÚ) 1-02
+- Značka štatistického formulára: PO (PRÚ) 1-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -6512,17 +6438,17 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
-- Orgán vykonávajúci štatistické zisťovanie: Poštový úrad.
+- Orgán vykonávajúci štatistické zisťovanie: Poštový regulačný úrad.
 
-- Orgán zabezpečujúci jeho spracovanie: Poštový úrad.
+- Orgán zabezpečujúci jeho spracovanie: Poštový regulačný úrad.
 
-- 146. Názov zisťovania: Polročný výkaz o poštových službách
+- 146. Názov zisťovania: Polročný výkaz o poštových službách a poštovom platobnom styku
 
-- Značka štatistického formulára: PO (PÚ) 2-02
+- Značka štatistického formulára: PO (PRÚ) 2-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o poskytovaných poštových službách z hľadiska ich štruktúry a rozsahu. Výsledky zisťovania sa využijú pre štátnu poštovú politiku, štátnu reguláciu poštových služieb a reguláciu poštových sadzieb, na zostavovanie štatistických prehľadov Svetovej poštovej únie a Európskej únie a pre publikačný systém.
+- Účelom štatistického zisťovania je získať informácie o poskytovaných poštových službách a poštovom platobnom styku z hľadiska ich štruktúry a rozsahu. Výsledky zisťovania sa využijú pre štátnu poštovú politiku, štátnu reguláciu poštových služieb a reguláciu poštových sadzieb, na zostavovanie štatistických prehľadov Svetovej poštovej únie a Európskej únie a pre publikačný systém.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6538,17 +6464,17 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Periodicita zisťovania: polročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. augusta a 15. februára po skončení sledovaného obdobia.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. augusta a 30. apríla po skončení sledovaného obdobia.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
-- Orgán vykonávajúci štatistické zisťovanie: Poštový úrad.
+- Orgán vykonávajúci štatistické zisťovanie: Poštový regulačný úrad.
 
-- Orgán zabezpečujúci jeho spracovanie: Poštový úrad.
+- Orgán zabezpečujúci jeho spracovanie: Poštový regulačný úrad.
 
 - 147. Názov zisťovania: Polročný výkaz o vybraných ukazovateľoch kvality univerzálnej poštovej služby
 
-- Značka štatistického formulára: PO (PÚ) 3-02
+- Značka štatistického formulára: PO (PRÚ) 3-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -6572,23 +6498,23 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
-- Orgán vykonávajúci štatistické zisťovanie: Poštový úrad.
+- Orgán vykonávajúci štatistické zisťovanie: Poštový regulačný úrad.
 
-- Orgán zabezpečujúci jeho spracovanie: Poštový úrad.
+- Orgán zabezpečujúci jeho spracovanie: Poštový regulačný úrad.
 
-- 148. Názov zisťovania: Polročný výkaz o vybraných finančných ukazovateľoch poštových služieb
+- 148. Názov zisťovania: Polročný výkaz o vybraných finančných ukazovateľoch poštových služieb a poštového platobného styku
 
-- Značka štatistického formulára: PO (PÚ) 4-02
+- Značka štatistického formulára: PO (PRÚ) 4-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o základných finančných ukazovateľoch poštových služieb. Výsledky zisťovania sa využijú pre štátnu poštovú politiku, štátnu reguláciu poštových služieb a reguláciu poštových sadzieb, na posúdenie žiadostí o kompenzáciu straty z univerzálnej poštovej služby, na zostavovanie štatistických prehľadov Svetovej poštovej únie a Európskej únie a pre publikačný systém.
+- Účelom štatistického zisťovania je získať informácie o vybraných finančných ukazovateľoch poštových služieb a poštového platobného styku. Výsledky zisťovania sa využijú pre štátnu poštovú politiku, štátnu reguláciu poštových služieb a reguláciu poštových sadzieb, na posúdenie žiadostí o kompenzáciu straty z univerzálnej poštovej služby, na zostavovanie štatistických prehľadov Svetovej poštovej únie a Európskej únie a pre publikačný systém.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa nákladov, výnosov, hospodárskeho výsledku a investícií v rámci univerzálnej poštovej služby a ostatných poštových služieb v členení na vnútroštátny a medzinárodný styk.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa nákladov, výnosov, hospodárskeho výsledku a investícií v rámci univerzálnej poštovej služby, ostatných poštových služieb v členení na vnútroštátny a medzinárodný styk a poštového platobného styku.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -6598,13 +6524,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Periodicita zisťovania: polročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. augusta a 15. apríla po skončení sledovaného obdobia.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. augusta a 30. apríla po skončení sledovaného obdobia.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
-- Orgán vykonávajúci štatistické zisťovanie: Poštový úrad.
+- Orgán vykonávajúci štatistické zisťovanie: Poštový regulačný úrad.
 
-- Orgán zabezpečujúci jeho spracovanie: Poštový úrad.
+- Orgán zabezpečujúci jeho spracovanie: Poštový regulačný úrad.
 
 - 149. Názov zisťovania: Polročný výkaz o hospodárení v podnikoch potravinárskeho priemyslu
 
@@ -6650,7 +6576,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať základné informácie o výrobe a dodávkach ovocných destilátov. Výsledky štatistického zisťovania sa využijú pri príprave materiálov, ktoré slúžia na tvorbu analýz a koncepcií rozvoja potravinárskeho priemyslu, ako aj na zabezpečenie požiadaviek Európskej únie.
 
-- Európsky právny predpis: Dokument o zostavovaní ponukových bilancií komodít - Eurostat Doc. E/V/001 FR rev. 1.
+- Právny akt Európskych spoločenstiev a Európskej únie: Dokument o zostavovaní ponukových bilancií komodít - Eurostat Doc. E/V/001 FR rev. 1.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6684,13 +6610,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o nakúpenom a vyrobenom množstve mlieka a vybraných mliekarenských výrobkov v súvislosti s plnením úloh Ministerstva pôdohospodárstva Slovenskej republiky v zmysle európskych noriem.
 
-- Európsky právny predpis: smernice rady 96/16/ES, 97/80/ES a 582/98/ES týkajúce sa mlieka a mliečnych výrobkov.
+- Právny akt Európskych spoločenstiev a Európskej únie: smernica Európskeho parlamentu a Rady 2003/107/ES z 5. decembra 2003, ktorou sa mení smernica Rady 96/16/ES o štatistických zisťovaniach mlieka a mliečnych výrobkov.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa nákupu mlieka, maslového tuku a vyrobeného množstva mlieka a vybraných mliečnych výrobkov.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa nákupu mlieka, maslového tuku a obsahu bielkovín v hlavných mliečnych výrobkoch, vyrobeného množstva mlieka a vybraných mliečnych výrobkov.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -6752,7 +6678,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať základné informácie o lesnej výrobe v neštátnych lesoch. Údaje sa využijú v rezortnom informačnom systéme na analytické účely, stratégiu a koncepciu lesného hospodárstva v sektore neštátnych lesov. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6788,7 +6714,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať základné informácie z oblasti ekonomiky práce, ktoré sú dôležité pri usmerňovaní mzdovej politiky v lesnom hospodárstve. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému a je súčasťou realizácie projektu Európskeho lesníckeho informačného a komunikačného systému (EFICS) v podmienkach lesného hospodárstva Slovenskej republiky.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6824,7 +6750,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o ekonomickej efektívnosti podľa jednotlivých druhov výkonov lesníckych činností, informácie potrebné na poskytovanie dotácií a subvencií pri realizácii štátnej lesníckej politiky a informácie na rozvoj a stratégiu lesného hospodárstva. Slúži na zostavenie Súhrnného lesníckeho účtu za Slovenskú republiku a je súčasťou realizácie projektu Európskeho lesníckeho informačného a komunikačného systému (EFICS) v podmienkach lesného hospodárstva Slovenskej republiky.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6860,7 +6786,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať základné informácie o stavebnej činnosti v lesnom hospodárstve, ktoré sa využijú v rezortnom informačnom systéme na analytické účely, investičnú politiku, koncepciu a stratégiu investičnej výstavby v lesnom hospodárstve. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6896,7 +6822,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie, ktoré sa budú v plnom rozsahu využívať v rezortnom informačnom systéme pri vypracúvaní stratégie rozvoja lesného hospodárstva. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6932,7 +6858,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o celkovej rozlohe lesov, poškodení lesov a o ich ochrane. Výsledky zisťovania sa využijú na analytické materiály ministerstva o celkovom zdravotnom stave lesov, na plánovanie a zabezpečenie ozdravných opatrení. Zisťovanie je súčasťou realizácie projektu Európskeho lesníckeho informačného a komunikačného systému (EFICS) v podmienkach lesného hospodárstva Slovenskej republiky.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -6964,7 +6890,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať základné informácie o obchode so sejbovým a sadbovým materiálom lesných drevín na domácom trhu, ako aj pri predaji do zahraničia na účely trhového informačného systému. Informácie sa využijú na aktualizáciu podmienok realizácie štátnej lesníckej politiky, koncepcie a stratégie rozvoja lesného hospodárstva. Zisťovanie je súčasťou realizácie projektu Európskeho lesníckeho informačného a komunikačného systému (EFICS) v podmienkach lesného hospodárstva Slovenskej republiky.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -7000,7 +6926,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie pre rezortný informačný systém v oblasti poľovníctva. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (EHS) č. 1615/89 v znení neskorších nariadení.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -7034,7 +6960,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie vývoja počtu včelárov a stavov včelstiev v Slovenskej republike, produkcie hlavných produktov včiel - medu a vosku, vývoja koncentrácie včiel v jednotlivých lokalitách, ktoré využíva Ministerstvo pôdoshospodárstva Slovenskej republiky, Ministerstvo životného prostredia Slovenskej republiky, Intervenčná poľnohospodárska agentúra Slovenskej republiky a včelárske organizácie. Štatistické zisťovanie sa zabezpečuje v súlade s požiadavkami Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (ES) č. 2300/97 a č. 1221/97, ktoré stanovujú pravidlá na uplatňovanie opatrení na zlepšenie výroby a predaja medu.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (ES) č. 2300/97 a č. 1221/97, ktoré stanovujú pravidlá na uplatňovanie opatrení na zlepšenie výroby a predaja medu.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -7072,13 +6998,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: základné ukazovatele týkajúce sa závlahy pozemkov, prevádzky hlavných melioračných zariadení, malých vodných nádrží, drobných vodných tokov a kanálov, ďalej ukazovatele týkajúce sa nadobúdacej hodnoty a odpisov hlavných melioračných zariadení.
+- Charakteristika navrhnutých ukazovateľov: základné ukazovatele týkajúce sa závlahy pozemkov, prevádzky hlavných melioračných zariadení, nádrží, kanálov, ďalej ukazovatele týkajúce sa nadobúdanej hodnoty a odpisov hlavných melioračných zariadení.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Odštepné závody Slovenského vodohospodárskeho podniku, š. p., Banská Štiavnica, s počtom zamestnancov 20 a viac, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+- Podniky zapísané v obchodnom registri, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
 
-- - služby spojené s pestovaním plodín; krajinné záhradníctvo (OKEČ 01.41).
+- – služby spojené s pestovaním plodín; krajinné záhradníctvo (OKEČ 01.41).
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -7090,7 +7016,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Výskumného ústavu vodného hospodárstva, Bratislava.
+- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom š. p. Hydromeliorácie, Bratislava.
 
 - 163. Názov zisťovania: Ponuková bilancia hroznového vína
 
@@ -7100,7 +7026,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o výrobe, pohybe a zásobách vína. Výsledky zisťovania sa využívajú v rámci analýz Ministerstva pôdohospodárstva Slovenskej republiky, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: nariadenie komisie (ES) č. 1294/96 stanovujúce podrobné predpisy na aplikáciu nariadenia rady (EHS) č. 827/87 o úrode, výrobe a zásobách výrobkov v sektore vinárstva.
+- Právny akt Európskych spoločenstiev a Európskej únie: nariadenie komisie (ES) č. 1294/96 stanovujúce podrobné predpisy na aplikáciu nariadenia rady (EHS) č. 827/87 o úrode, výrobe a zásobách výrobkov v sektore vinárstva.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -7140,7 +7066,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie odhadu celkovej úrody jabĺk, hrušiek, broskýň a marhúľ v tonách a produkčnej plochy v hektároch podľa sledovaných ovocných druhov pre potreby Ministerstva pôdohospodárstva Slovenskej republiky, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: smernica 2001/109/ES týkajúca sa stanovenia produkčného potenciálu výsadieb určitých druhov ovocných drevín, nariadenie komisie (ES) č. 659/97 stanovujúce podrobné pravidlá na uplatnenie nariadenia rady (ES) č. 2200/96 v súvislosti s intervenčnými dojednaniami v sektore ovocia a zeleniny.
+- Právny akt Európskych spoločenstiev a Európskej únie: smernica 2001/109/ES týkajúca sa stanovenia produkčného potenciálu výsadieb určitých druhov ovocných drevín, nariadenie komisie (ES) č. 659/97 stanovujúce podrobné pravidlá na uplatnenie nariadenia rady (ES) č. 2200/96 v súvislosti s intervenčnými dojednaniami v sektore ovocia a zeleniny.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -7174,7 +7100,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie množstva uskladnených druhov ovocia pre potreby Ministerstva pôdohospodárstva Slovenskej republiky, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-- Európsky právny predpis: smernica 2001/109/ES týkajúca sa stanovenia produkčného potenciálu výsadieb určitých druhov ovocných drevín, nariadenie komisie (ES) č. 659/97 stanovujúce podrobné pravidlá na uplatnenie nariadenia rady (ES) č. 2200/96 v súvislosti s intervenčnými dojednaniami v sektore ovocia a zeleniny.
+- Právny akt Európskych spoločenstiev a Európskej únie: smernica 2001/109/ES týkajúca sa stanovenia produkčného potenciálu výsadieb určitých druhov ovocných drevín, nariadenie komisie (ES) č. 659/97 stanovujúce podrobné pravidlá na uplatnenie nariadenia rady (ES) č. 2200/96 v súvislosti s intervenčnými dojednaniami v sektore ovocia a zeleniny.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
