@@ -1,0 +1,3 @@
+- *) Tieto práce sa odmeňujú podľa úpravy bývalej Ústrednej správy pre rozvoj miestneho hospodárstva č. VI/212-120/1964 z 12. 3. 1964 uverejnenej v Prevádzkovom zpravodajstve č. 6-7/1964 článok 20 a č. VIII/2-2730/1964 z 18. 1. 1964 uverejnenej v Prevádzkovom zpravodajstve č. 4/1965 článok 14. V bytových družstvách sa tieto práce odmeňujú podľa smerníc Ústrednej rady družstiev č. 55402/22/1965 z 22. apríla 1965 uverejnených vo Vestníku ÚRD č. 4/1965.
+
+- *) Vyhláška Ústrednej správy pre rozvoj miestneho hospodárstva z 26. marca 1964 č. 60/1964 Zb. o úhrade za užívanie bytu a služby spojené s užívaním bytu.
