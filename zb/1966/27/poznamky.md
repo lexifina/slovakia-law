@@ -1,0 +1,1 @@
+- *) Táto vyhláška sa nevzťahuje na Vysokú školu stranícku - Inštitút spoločenských vied pri Ústrednom výbore Komunistickej strany Československa, ktorá bola zmenená na Vysokú školu politickú Ústredného výboru Komunistickej strany Československa; o priznávaní titulov absolventom tejto vysokej školy platia osobitné predpisy.
