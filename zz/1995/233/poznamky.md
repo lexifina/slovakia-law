@@ -6,6 +6,8 @@
 
 - 4) § 138 a 148 Občianskeho súdneho poriadku.
 
+- 4a) § 73 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 5) § 53 Občianskeho súdneho poriadku.
 
 - 6) § 79 a nasl. Občianskeho súdneho poriadku.
