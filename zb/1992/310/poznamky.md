@@ -4,6 +4,8 @@
 
 - 3) § 2 ods. 2 Obchodného zákonníka.
 
+- 3a) Zákon č. 71/1967 Zb. o správnom konaní v znení zákona č. 215/2002 Z. z. (správny poriadok).
+
 - 4) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 5) § 151a až 151g a § 546 až 558 Občianskeho zákonníka,
