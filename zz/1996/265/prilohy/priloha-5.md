@@ -1,11 +1,39 @@
-- Vyhotovenie Osvedčenia o emisnej kontrole a vyznačovanie emisnej kontroly
+- KONTROLNÁ NÁLEPKA, VYHOTOVENIE, VYZNAČOVANIE A UMIESTŇOVANIE (mierka 1,5:1)
 
-  - Osvedčenie o emisnej kontrole je tlačivo zelenej farby s rozmermi 190 x 70 mm.
+- ![Obrázok 02](../assets/cc365e6b25e85fda52bb9325a164986e72adef472557044424c0f8feed0f0d00.png)
 
-  - Séria a evidenčné číslo Osvedčenia o emisnej kontrole sa skladá z označenia „SK“ a šesťmiestneho čísla. Po naplnení série „SK“ nasledujú série „SKA“ až „SKZ“.
+  - Kontrolná nálepka je označená sériou, ktorá sa skladá z označenia „SK“ a šesťmiestneho evidenčného čísla, ktoré sú zhodné so sériou a číslom Osvedčenia o emisnej kontrole. Po naplnení série „SK“ nasledujú série „SKA“ až „SKZ“.
 
-  - Osvedčenie o emisnej kontrole vypisuje a vydáva odborne spôsobilá osoba v jednom vyhotovení pri prvej emisnej kontrole vozidla alebo ak treba vydať nové Osvedčenie o emisnej kontrole a ak namerané hodnoty veličín parametrov zodpovedajú ustanoveným podmienkam.
+  - Rozmery: výška kontrolnej nálepky 37 mm,
 
-  - Osvedčenie sa vyplňuje podľa predtlače písacím strojom alebo na počítači v súlade s údajmi zistenými v technickom preukaze vozidla a v Osvedčení o evidencii vozidla, nameranými veličinami určenými výrobcom vozidla alebo motora a ustanovenými emisnými limitmi.<sup>2</sup>) Odborne spôsobilá osoba uvedie svoje meno a priezvisko, správnosť údajov potvrdí podpisom a doklad opatrí odtlačkom pečiatky oprávnenej osoby (pracoviska emisnej kontroly).
+  - šírka kontrolnej nálepky 32 mm,
 
-  - Ak namerané hodnoty veličín zodpovedajú ustanoveným podmienkam, vyznačí sa v príslušnej rubrike (na 2. a 3. strane) Osvedčenia o emisnej kontrole dátum vykonania emisnej kontroly (deň, mesiac a rok) a čas platnosti emisnej kontroly (deň, mesiac a rok). Vykonanie emisnej kontroly osvedčí odborne spôsobilá osoba podpisom a doklad opatrí odtlačkom pečiatky oprávnenej osoby (pracoviska emisnej kontroly).
+  - priemery kružníc: 27 mm, 17 mm, 7 mm,
+
+  - výška číslic 1 až 12 (označenie mesiaca) 3 mm,
+
+  - výška dvojčíslic (označenie roku) 1,5 mm,
+
+  - výška symbolu (písmen) „EK“ 3 mm,
+
+  - výška písmen a číslic označenia série a evidenčného čísla 3 mm.
+
+  - Farby: podklad (okraj) označenia biely,
+
+  - pole nálepky zelené,
+
+  - stredový kruh a veľký kruhový výsek žlté,
+
+  - kružnice, úsečky, číslice, dvojčíslice a symbol (písmená) „EK“ čierne.
+
+  - Vyznačovanie
+
+  - Vyznačovanie lehoty platnosti emisnej kontroly vozidla: na vonkajšom medzikruží sa dierkovacími kliešťami vyznačuje mesiac a na vnútornom medzikruží rok.
+
+  - Umiestňovanie
+
+  - Kontrolná nálepka sa lepí na zadnú tabuľku s evidenčným číslom vozidla, ak je
+
+  - a) tabuľka jednoriadková, do dolnej polovice medzery za prvou skupinou písmen,
+
+  - b) tabuľka dvojriadková, v hornom riadku do pravej polovice medzery za prvou skupinou písmen.

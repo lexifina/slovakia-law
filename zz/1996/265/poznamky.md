@@ -1,18 +1,16 @@
 - 1) § 39 ods. 6 vyhlášky Federálneho ministerstva dopravy č. 41/1984 Zb. o podmienkach prevádzky vozidiel na pozemných komunikáciách v znení vyhlášky Federálneho ministerstva dopravy č. 248/1991 Zb. a vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 130/1995 Z. z.
 
-- 2) § 88 a 89 vyhlášky Ministerstva vnútra č. 145/1956 Ú. v. o premávke na cestách v znení vyhlášky Federálneho ministerstva vnútra č. 69/1981 Zb.
+- 2) § 2 písm. f) a § 93 a 108 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
 - 3) § 2 ods. 2 písm. a) až c) Obchodného zákonníka.
-
-- 4) § 39 ods. 9 vyhlášky č. 41/1984 Zb. v znení vyhlášky č. 248/1991 Zb. a vyhlášky č. 130/1995 Z. z.
 
 - 5) § 3 a § 9 až 11 zákona č. 505/1990 Zb. o metrológii.
 
 - 6) § 3 ods. 1 písm. b) a § 6 a 7 zákona č. 505/1990 Zb.
 
-- 7) § 84 ods. 1 a 2 bod 14 vyhlášky Federálneho ministerstva dopravy č. 41/1984 Zb. v znení vyhlášky Federálneho ministerstva dopravy č. 248/1991 Zb. a vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 130/1995 Z. z.
+- 7) § 110 ods. 2 písm. n) a ods. 3 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
 
-- 8) § 33 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+- 8) § 65 ods. 1 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
 - 9) § 9 ods. 2 zákona č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z.
 

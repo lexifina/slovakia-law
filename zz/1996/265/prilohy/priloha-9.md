@@ -1,3 +1,3 @@
-Príloha č. 7 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 265/1996 Z. z.
+Príloha č. 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 265/1996 Z. z.
 
-- VZOR [Příloha 01](../assets/65c045d8364e24ce5004f6d970cd468b27b72f850f8845bdf3e396e7aa8d30ca.pdf)
+- VZOR [Příloha 01](../assets/b269c0396ee1d1c0b8f3b2f68b6888593affa37bcab28f227ff350d05332f680.pdf)
