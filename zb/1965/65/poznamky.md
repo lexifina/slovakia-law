@@ -47,3 +47,9 @@
 - 18) § 61 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení vyhlášky č. 123/1990 Zb. a č. 260/1990 Zb.
 
 - 19) Zákon č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb.
+
+- 20) Napr. § 54 zákona č. 22/1992 Zb. o Štátnej banke česko-slovenskej.
+
+- 22) Napríklad zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
+
+- 23) Napríklad zákon č. 513/1991 Zb. Obchodný zákonník, zákon č. 328/1991 Zb. o konkurze a vyrovnaní.
