@@ -48,69 +48,7 @@ V čl. 59, § 2 se za slovy „jest odesilatel oprávněn navrhnouti“ škrtaj�
 
 9.
 
-Ustanovení čl. 60, § 6 zní:
-
-„§ 6. Zboží, které má nakládati odesilatel, jest odesilatel povinen nakládati ve stanici na místech, ustanovených železnicí buď trvale nebo případ od případu. Nakládání musí býti ukončeno ve lhůtě, která se stanoví vývěskem ve stanici (nakládací lhůta), pokud pro některé zboží tento řád nebo tarif neustanovuje jinak. Nenaložil-li odesilatel v nakládací lhůtě všechno zboží zapsané v nákladním listu, vybere železnice po uplynutí této lhůty zdržné. Je-li nakládací lhůta překročena, může železnice zboží na útraty a nebezpečí odesilatelovo vyložiti a vzíti na sklad nebo odevzdati na sklad špeditérovi nebo do veřejného skladiště, při čemž odpovídá za pečlivost řádného obchodníka; učiní-li tak, podá odesilateli o tom na jeho útraty zprávu.“
-
-10.
-
-Ustanovení čl. 60, § 9 zní:
-
-„§ 9. Podej kusového zboží jest odesilatel povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která jest oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.“.
-
-11.
-
-V čl. 60 se za § 9 zařazuje § 9a, který zní:
-
-„§ 9a. Podej a nakládání vozových zásilek je odesilatel povinen provésti v době od 7 do 19 hodin, pokud stanice vývěskem nebo případ od případu nestanovila jinak.“.
-
-12.
-
-Ustanovení čl. 60, § 10 zní:
-
-„§ 10. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 5) a nakládací lhůta (§ 6) se staví po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem. Lhůta prostá skladištného se staví též v neděli, o zákonných svátcích nebo památných dnech.“.
-
-13.
-
-Ustanovení čl. 60, § 13 zní:
-
-„§ 13. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného nebo stojného, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné, zdržné nebo poplatek za odvolání objednaného vozu. Tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.“.
-
-14.
-
-Ustanovení čl. 67, § 2 zní:
-
-„§ 2. Zboží, které má vykládati příjemce, má odebrati a vykládati na místech ustanovených železnicí buď trvale nebo případ od případu v odběrní lhůtě, která se stanoví vývěskem ve stanici (vykládací lhůta), pokud pro některé zásilky tento řád nebo tarif neustanovuje jinak.“.
-
-15.
-
-Ustanovení čl. 67, § 5 zní:
-
-„§ 5. Odběr a odvezení zásilek, které má vykládati železnice, je příjemce povinen provésti ve služebních hodinách vyhlášených vývěskem ve stanici; mimo služební hodiny jen za souhlasu stanice, která jest oprávněna vybírati za to poplatek ustanovený tarifem nebo vývěskem ve stanici.“.
-
-16.
-
-V čl. 67 se za § 5 zařazuje § 5a, který zní:
-
-„§ 5a. Odběr a vykládku vozových zásilek je příjemce povinen provésti v době od 7 do 19 hodin, pokud stanice vývěskem nebo případ od případu nestanovila jinak.“.
-
-17.
-
-Ustanovení čl. 67, § 6 zní:
-
-„§ 6. Lhůta prostá skladištného nebo lhůta prostá stojného (§ 1) a vykládací lhůta (§ 2) se staví po dobu plnění předpisů celních, berních, finančních, policejních nebo předpisů jiných úřadů správních, pokud plnění nebylo zdržováno odesilatelem nebo příjemcem. Lhůta prostá skladištného se staví též v neděli, o zákonných svátcích nebo památných dnech.“.
-
-18.
-
-Ustanovení čl. 67, § 7 zní:
-
-„§ 7. Nebyla-li zásilka v odběrní lhůtě (§§ 1, 2 a 6) odebrána, v případě § 2 i vyložena, vybírá železnice po uplynutí této lhůty skladištné, stojné nebo zdržné. Je-li vykládací lhůta překročena, může železnice zásilku na útraty a nebezpečí oprávněného vyložiti; učiní-li tak, podá oprávněnému o tom na jeho útraty zprávu.“.
-
-19.
-
-Ustanovení čl. 67, § 9 zní:
-
-„§ 9. Je-li pravidelnost provozu ohrožena mimořádnými poměry, může železnice podle potřeby zkrátiti lhůtu prostou skladištného nebo stojného, ne však na dobu kratší než 8 denních hodin, jakož i zvětšiti skladištné, stojné nebo zdržné. Tato opatření, k nimž je zapotřebí schválení dozorčím úřadem, musí býti vyhlášena a nenabývají účinnosti před vyhlášením; ve vyhlášce musí býti uvedeno, že bylo schválení uděleno.“.
+až 19 - Zrušené od 1. 1. 1950.
 
 20.
 
