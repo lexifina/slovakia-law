@@ -1,20 +1,30 @@
 # § 6a
 
-(1) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca pohľadávky štátu môže na písomné požiadanie dlžníka, ktorý nemôže svoj dlh riadne a včas plniť, uzavrieť s dlžníkom písomnú dohodu o splátkach alebo o odklade platenia za podmienok, že
+(1) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca pohľadávky štátu môže na písomné požiadanie dlžníka, ktorý nemôže svoj dlh riadne a včas plniť, uzavrieť s dlžníkom dohodu o splátkach alebo o odklade platenia.
 
-- a) dlžníkom je fyzická osoba, ktorá nie je podnikateľom,
+(2) Správca pohľadávky štátu môže uzavrieť s dlžníkom písomnú dohodu o splátkach, ak
 
-- b) dlžník svoj dlh písomne uznal alebo ide o pohľadávku štátu priznanú právoplatným rozhodnutím súdu,
+- a) dlžník svoj dlh písomne uznal alebo ide o pohľadávku štátu priznanú právoplatným rozhodnutím súdu,
 
-- c) dlžník sa v dohode o splátkach alebo o odklade platenia zaviaže zaplatiť celý dlh naraz, ak nezaplatí niektorú splátku včas alebo ak sa zlepšia jeho sociálne pomery.
+- b) dlžník z dôvodu zhoršenia ekonomických alebo sociálnych pomerov nemôže zaplatiť celý dlh naraz,
 
-(2) Pri povolení splátok alebo odkladu platenia neúčtuje správca pohľadávky štátu úroky z omeškania.
+- c) dlžník sa v dohode o splátkach zaviaže zaplatiť celý dlh naraz, ak nezaplatí niektorú splátku riadne a včas alebo ak sa zlepšia jeho ekonomické alebo sociálne pomery.
 
-(3) Správca môže za podmienok uvedených v odseku 1 písm. a) a b) dočasne upustiť od vymáhania pohľadávky štátu, ktorú prechodne nemožno vymáhať.
+(3) Správca pohľadávky štátu môže uzavrieť s dlžníkom písomnú dohodu o odklade platenia, ak
 
-(4) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca trvale upustí od vymáhania pohľadávky štátu od dlžníka len vtedy, ak sa pohľadávka štátu premlčala a dlžník vzniesol námietku premlčania. Správca môže trvale upustiť od vymáhania pohľadávky štátu, ak je zo všetkých okolností zrejmé, že ďalšie vymáhanie by bolo neúpešné alebo nehospodárne. Na trvalé upustenie od vymáhania pohľadávky štátu vyššej ako 10 000 Sk sa vyžaduje súhlas zriaďovateľa.
+- a) dlžník svoj dlh písomne uznal alebo ide o pohľadávku štátu priznanú právoplatným rozhodnutím súdu,
 
-(5) Pohľadávku štátu nie je možné započítať jednostranným právnym úkonom. Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) započítanie pohľadávky štátu je možné len písomnou dohodou za podmienok, že
+- b) dlžník z dôvodu zhoršenia ekonomických alebo sociálnych pomerov nemôže zaplatiť celý dlh naraz,
+
+- c) dlžník sa v dohode o odklade platenia zaviaže zaplatiť celý dlh naraz, ak sa zlepšia jeho ekonomické alebo sociálne pomery; dlžníkovi možno povoliť odklad platenia najviac na jeden rok odo dňa, keď bol splatný jeho záväzok.
+
+(4) S dlžníkom, ktorý je podnikateľom, môže správca uzavrieť písomnú dohodu o splátkach alebo o odklade platenia, ak sú splnené podmienky podľa osobitného predpisu.<sup>13ab</sup>) Pri povolení splátok alebo odkladu platenia neúčtuje správca pohľadávky štátu úroky z omeškania.
+
+(5) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca trvale upustí od vymáhania pohľadávky štátu od dlžníka len vtedy, ak sa pohľadávka štátu premlčala a dlžník vzniesol námietku premlčania. Správca môže trvale upustiť od vymáhania pohľadávky štátu aj vtedy, ak je zo všetkých okolností zrejmé, že ďalšie vymáhanie by bolo neúspešné alebo nehospodárne, alebo ak to odôvodňujú ekonomické alebo sociálne pomery dlžníka. O trvalom upustení od vymáhania pohľadávky štátu rozhoduje štatutárny orgán správcu. Rozhodnutie o trvalom upustení od vymáhania pohľadávky štátu musí obsahovať najmä právny dôvod vzniku pohľadávky štátu, výšku pohľadávky štátu a dôvody upustenia od vymáhania tejto pohľadávky štátu. Podmienkou platnosti rozhodnutia o trvalom upustení od vymáhania pohľadávky štátu vyššej ako 50 000 Sk je súhlas zriaďovateľa s rozhodnutím. Na vydanie rozhodnutia o trvalom upustení od vymáhania pohľadávky štátu sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) toto rozhodnutie nie je preskúmateľné súdom. Dlžník sa o trvalom upustení od vymáhania pohľadávky štátu neupovedomuje.
+
+(6) Ak dlžník neuspokojí pohľadávku, o ktorej správca rozhodol podľa odseku 5, ani v lehote troch rokov od vydania rozhodnutia o trvalom upustení od vymáhania pohľadávky štátu, peňažná pohľadávka štátu zaniká.
+
+(7) Pohľadávku štátu nemožno započítať jednostranným právnym úkonom. Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) započítanie pohľadávky štátu je možné len písomnou dohodou, ak
 
 - a) existuje pohľadávka dlžníka voči štátu a tomu zodpovedajúci záväzok štátu v správe tohto správcu,
 
@@ -24,12 +34,14 @@
 
 - d) pohľadávka dlžníka nie je premlčaná,
 
-- e) správca má na to predchádzajúci súhlas zriaďovateľa.
+- e) správca má na to predchádzajúci súhlas zriaďovateľa; takýto súhlas sa nevyžaduje, ak ide o pohľadávku štátu nižšiu ako 30 000 Sk.
 
-(6) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca môže zo závažných dôvodov na písomné požiadanie dlžníka, ktorým je fyzická osoba, ktorá nie je podnikateľom, celkom alebo čiastočne odpustiť dlh nepresahujúci 10 000 Sk za podmienok, že
+(8) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca môže zo závažných sociálnych dôvodov na písomné požiadanie dlžníka, ktorým je fyzická osoba, uzavrieť písomnú dohodu o úplnom alebo čiastočnom odpustení dlhu nepresahujúcom 30 000 Sk, ak
 
 - a) dlh nevznikol v súvislosti so spáchaním úmyselného trestného činu, za ktorý bol dlžník právoplatne odsúdený,
 
 - b) dlžník nemá voči správcovi pohľadávku,
 
-- c) má na to predchádzajúci súhlas zriaďovateľa.
+- c) má na to predchádzajúci súhlas zriaďovateľa,
+
+- d) dlh nevznikol z podnikania dlžníka.
