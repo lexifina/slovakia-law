@@ -1664,8 +1664,6 @@ Dodatok k č. 213/2002 Z. z.
 
   - 1. všetci verejní notári
 
-  - 2. Ministerstvo zahraničných vecí
-
     - Taliansko
 
   - 1. pre listiny vydané justičnými orgánmi prokurátor republiky pri súde, v obvode ktorého bola listina vydaná
