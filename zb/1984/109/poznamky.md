@@ -1,0 +1,1 @@
+- 1) § 85 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 153/1969 Zb. a zákona č. 20/1975 Zb.
