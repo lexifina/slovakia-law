@@ -21,3 +21,5 @@
 - 10) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
 - 11) Napríklad Obchodný zákonník, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 12) Zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
