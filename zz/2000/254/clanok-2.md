@@ -1,0 +1,3 @@
+# Čl. II
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív, ako vyplýva zo zmien a doplnení vykonaných zákonom Národnej rady Slovenskej republiky č. 183/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 243/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 304/1995 Z. z., zákonom Národnej rady Slovenskej republiky č. 386/1996 Z. z., zákonom č. 205/1997 Z. z., zákonom č. 396/1998 Z. z., zákonom č. 129/1999 Z. z., zákonom č. 338/1999 Z. z. a týmto zákonom.
