@@ -6,7 +6,7 @@
 
 - 4) § 1 ods. 1 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
-- 5) § 105 až 116 Civilného sporového poriadku.
+- 5) § 45 a nasl. Občianskeho súdneho poriadku.
 
 - 6) Zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
 
