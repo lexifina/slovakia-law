@@ -192,9 +192,9 @@ Príloha č. 3 k nariadeniu vlády č. 510/2001 Z. z.
 
       - Tehotné ženy a dojčiace matky majú možnosť oddychovať v ležiacej polohe v primeraných podmienkach.
 
-    - 17. Zamestnanci so zníženou pracovnou schopnosťou
+    - 17. Zamestnanci so zmenenou pracovnou schopnosťou
 
-      - Pracoviská, na ktorých pracujú zamestnanci so zníženou pracovnou schopnosťou, dvere, chodby, schodiská, sprchy, umývadlá a záchody, ktoré takí zamestnanci používajú, sú bezbariérovo prístupné.
+      - Ak je to potrebné, pracoviská, na ktorých pracujú zamestnanci so zmenenou pracovnou schopnosťou, musia byť usporiadané tak, aby boli vhodné pre zamestnancov so zmenenou pracovnou schopnosťou; to sa vzťahuje najmä na dvere, chodby, schodiská, sprchy, umývadlá a záchody, ktoré takí zamestnanci používajú.
 
     - 18. Rôzne ustanovenia
 
@@ -424,7 +424,7 @@ Príloha č. 3 k nariadeniu vlády č. 510/2001 Z. z.
 
       - 12. Konštrukcie, debnenia a ťažké prefabrikáty
 
-      - 12.1 Konštrukcie (napríklad kovové, drevené) a ich časti, debnenia, prefabrikáty, dočasné nosníky a podpery sa montujú a rozoberajú len pod stálym dozorom zodpovednej osoby.
+      - 12.1 Konštrukcie (napríklad kovové, betónové) a ich časti, debnenia, prefabrikáty, dočasné nosníky a podpery sa montujú a rozoberajú len pod stálym dozorom zodpovednej osoby.
 
       - 12.2 Na ochranu zamestnancov pred nebezpečenstvom, ktoré vyplýva z dočasnej krehkosti alebo zo straty stability konštrukcie, sa vykonávajú primerané bezpečnostné opatrenia.
 
@@ -444,6 +444,6 @@ Príloha č. 3 k nariadeniu vlády č. 510/2001 Z. z.
 
       - 14. Práce na streche
 
-      - 14.1 Ak je potrebné zabrániť ohrozeniu alebo ak výška strechy alebo jej sklon prekračujú určené hodnoty, použijú sa prostriedky kolektívneho zabezpečenia proti pádu zamestnancov a proti pádu náradia, nástrojov, materiálov alebo iných predmetov.
+      - 14.1 Ak je potrebné zabrániť ohrozeniu alebo ak výška strechy alebo jej sklon prekračujú určené hodnoty, použijú sa kolektívne ochranné opatrenia proti pádu zamestnancov a proti pádu náradia, nástrojov, materiálov alebo iných predmetov.
 
-      - 14.2 Aby zamestnanci mohli pracovať a pohybovať sa na strechách alebo iných plochách z materiálov, ktorých nosnosť nie je primeraná, vykonajú sa opatrenia na zabránenie vstupu na tieto plochy alebo pádu z výšky.
+      - 14.2 Ak zamestnanci pracujú a pohybujú sa na strechách alebo v ich blízkosti, alebo na plochách z krehkých materiálov, alebo na iných plochách z materiálov, ktorých nosnosť nie je primeraná, zamestnávateľ vykoná opatrenia na zabránenie vstupu zamestnanca na tieto plochy alebo na zabránenie pádu z výšky.
