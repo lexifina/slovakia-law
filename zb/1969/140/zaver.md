@@ -1,3 +1,0 @@
-Minister:
-
-Šebesta v. r.
