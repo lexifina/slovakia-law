@@ -1,1 +1,0 @@
-- *) Zákon č. 55/1963 Zb. o jednotnej sústave vedeckovýskumných a vývojových pracovísk (vedeckovýskumné a vývojové základne).
