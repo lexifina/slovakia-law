@@ -48,6 +48,8 @@
 
 - 23) § 652 až 672a Obchodného zákonníka.
 
+- 23a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 24) § 17 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25) § 34 zákona č. 48/2002 Z. z.
