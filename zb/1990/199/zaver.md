@@ -1,3 +1,0 @@
-Minister:
-
-Košťa v. r.
