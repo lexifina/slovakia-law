@@ -16,10 +16,12 @@
 
 - *) § 22 ods. 1 písm. b) vládneho nariadenia č. 100/1966 Zb. o plánovitom riadení národného hospodárstva.
 
-- **) V prípade potreby Štátna komisia pre techniku môže vydať kritériá pre určenie styčníkov, uzlov a pod., najmä pre stavebné práce.
-
 - *) Pre prevody investičných prostriedkov pri výstavbe uskutočňovanej stavebnými bytovými družstvami vo vlastnej réžii platí vyhláška Štátnej plánovacej komisie a Ministerstva financií č. 191/1964 Zb. o finančnej, úverovej a inej pomoci družstevnej výstavbe a výstavbe rodinných domčekov.
 
 - *) § 9 vyhlášky Ministerstva financií, Štátnej plánovacej komisie a Ústredného geologického úradu č. 9/1967 Zb. o projektovaní a financovaní geologických prác.
 
 - **) § 15 vyhlášky Ministerstva financií, Štátnej plánovacej komisie a Ústredného geologického úradu č. 9/1967 Zb. o projektovaní a financovaní geologických prác.
+
+- *) Cenu autorského dozoru vyčlení z celkovej ceny projektu Federálny výbor pre technický a investičný rozvoj.
+
+- *) Vyhláška Štátnej komisie pre techniku č. 107/1966 Zb. o dokumentácii stavieb.
