@@ -44,10 +44,6 @@
 
 - 23) Zákon č. 112/1966 Zb., zákon č. 113/1971 Zb.
 
-- 24) Zákon č. 111/1971 Zb.
-
-- 25) Zákon č. 113/1971 Zb.
-
 - 26) Vyhláška č. 76/1966 Zb. o odpisovaní základných prostriedkov.
 
 - 27) Zákon č. 112/1966 Zb., zákon č. 113/1971 Zb., zákon č. 111/1971 Zb.
