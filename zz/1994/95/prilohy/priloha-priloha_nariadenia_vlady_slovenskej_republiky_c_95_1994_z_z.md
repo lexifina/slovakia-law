@@ -92,6 +92,10 @@ správcom | |
 
 | traktor | 150 ha
 
+6. Budúca úroda
+
+Finančné prostriedky, osivá a sadivá, priemyselné hnojivá, prostriedky chemickej ochrany rastlín poskytnuté na založenie budúcej úrody podnikateľmi, ktorí majú v predmete činnosti jej spracovanie.
+
 Pravidlá používania:
 
 1. Ak nejde o chránený chov (§ 22a zákona SNR č. 110/1972 Zb. o plemenitbe hospodárskych zvierat v znení zákona SNR č. 256/1991 Zb.), druh a rozsah hmotného majetku uvedeného v bode 4 sa použije len do doby speňaženia zvierat správcom na porážkové účely, pokiaľ správca na základe odporúčania osobitného správcu nerozhodne inak.
