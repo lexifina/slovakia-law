@@ -1,0 +1,1 @@
+- 1) § 46 ods. 1 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
