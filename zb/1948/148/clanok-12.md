@@ -1,3 +1,0 @@
-# Čl. 12
-
-K provádění této dohody bude zřízena stálá smíšená československo-bulharská komise, složená z předsedy a osmi členů. Tato komise bude rozdělena na dvě sekce, jednu se sídlem v Praze a druhou se sídlem v Sofii. Každá sekce bude složena ze čtyř členů. Členy bulharské sekce bude jmenovati bulharské ministerstvo informací a umění v dohodě s ministerstvem zahraničních věcí a kultu a ministerstvem národní osvěty, členy československé sekce bude jmenovati československé ministerstvo školství a osvěty v dohodě s československým ministerstvem zahraničních věcí a ministerstvem informací. Seznam jmenovaných členů bude předložen diplomatickou cestou druhé smluvní straně ke schválení.
