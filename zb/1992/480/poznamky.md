@@ -10,8 +10,6 @@
 
 - 6) § 10b zákona č.76/1959 Zb.
 
-- 7) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
-
 - 8) § 15 a § 22 ods. 3 zákona č. 76/1959 Zb.
 
 - 9) § 73 ods. 2 zákona č. 333/1991 Zb. o Federálnom policajnom zbore a Zbore hradnej polície.
