@@ -1,0 +1,1 @@
+Príloha k nariadeniu vlády č. 257/1997 Z. z. [VZOR - Zmluva o spôsobe a podmienkach realizácie úhrady záväzku za štátny peňažný ústav](../assets/4f59902ee7c2ea10a2bd7291428c8e4b56790f87703967d0bd3cc9e767d45f53.pdf)
