@@ -2,7 +2,7 @@
 
 (1) Overovanie plnenia požiadaviek bezpečnosti vyhradených technických zariadení a technických zariadení vykonáva Technická inšpekcia.
 
-(2) Technická inšpekcia nevykonáva činnosť podľa odseku 1 na technických zariadeniach používaných v pôsobnosti Ministerstva obrany Slovenskej republiky, Ministerstva vnútra Slovenskej republiky, Slovenskej informačnej služby a na technických zariadeniach podliehajúcich dozoru orgánov podľa osobitných predpisov.<sup>4a</sup>)
+(2) Technická inšpekcia nevykonáva činnosť podľa odseku 1 na technických zariadeniach používaných v pôsobnosti Ministerstva obrany Slovenskej republiky, Ministerstva vnútra Slovenskej republiky, Slovenskej informačnej služby, Národného bezpečnostného úradu a na technických zariadeniach podliehajúcich dozoru orgánov podľa osobitných predpisov.<sup>4a</sup>)
 
 (3) Technická inšpekcia je príspevková organizácia, ktorú riadi a kontroluje Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky. Na čele Technickej inšpekcie je riaditeľ, ktorého vymenúva a odvoláva minister práce, sociálnych vecí a rodiny Slovenskej republiky.
 
