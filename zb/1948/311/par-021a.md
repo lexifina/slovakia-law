@@ -1,0 +1,11 @@
+# § 21a. Podnikový fond pracujúcich.
+
+(1) Na podnietenie hmotného záujmu zamestnancov národného podniku na výsledkoch v plnení podnikového plánu slúži podnikový fond pracujúcich (v ďalšom len “fond„). Do fondu plynie podiel na zisku docielenom podľa plánu a podiel na lepšom hospodárskom výsledku, než bol plánovaný; minister dopravy môže po dohode s ministrom financií a s príslušným orgánom jednotnej odborovej organizácie určiť aj iný základ pre určenie prídelu fondu. Pri výpočte podielu na lepšom hospodárskom výsledku sa prihliada na celkovú výšku docieleného výsledku pred jeho prípadným zdanením.
+
+(2) Prostriedky fondu používa riaditeľ po prejednaní s príslušným orgánom jednotnej odborovej organizácie.
+
+(3) Minister dopravy určí po dohode s ministrom financií a príslušným orgánom jednotnej odborovej organizácie, ktorý majetok a záväzky národného podniku patria fondu. Majetok a záväzky, patriace fondu, a jeho hospodárenie sa vykazujú v národnom podniku oddelene.
+
+(4) Minister dopravy po dohode s ministrom financií určí lehoty pre odvody podielov (prídelu), poprípade pre poskytovanie preddavkov na ne a po dohode s príslušným orgánom jednotnej odborovej organizácie vydá v rámci predpisov podľa § 25 podrobnejšie smernice o správe a prevádzke sociálnych, zdravotných, kultúrnych a telovýchovných zariadení fondov, ako aj o používaní prostriedkov týchto fondov. Minister dopravy môže po dohode s príslušným orgánom jednotnej odborovej organizácie aj upraviť vnútorné rozčlenenie fondov tak, aby zodpovedalo prevádzkovému rozsahu národného podniku a jeho organizačnému rozčleneniu.
+
+(5) Deň, ktorým sa v národných podnikoch zriaďujú fondy, ako aj hospodárske obdobie, za ktoré sa poskytujú fondom prídely, určí minister dopravy po dohode s príslušným orgánom jednotnej odborovej organizácie. Od prvého dňa tohto obdobia sa na príslušné národné podniky nevzťahujú ustanovenia § 24 dekrétu č. 104/1945 Sb., o závodných a podnikových radách, v znení zákona č. 188/1948 Sb., ktorým sa menia a doplňujú niektoré ďalšie ustanovenia dekrétu prezidenta republiky o závodných a podnikových radách. Nároky jednotného fondu pracujúcich na podiel na čistom zisku za čas predchádzajúci tomuto dňu zostávajú nedotknuté.
