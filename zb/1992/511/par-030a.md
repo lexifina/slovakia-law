@@ -10,8 +10,8 @@
 
 (5) Ak správca dane príslušný na rozhodnutie v daňovom konaní je v tomto konaní nečinný a nerozhodne ani v lehotách ustanovených v odsekoch 1 a 3 a nápravu nemožno dosiahnuť inak a povaha veci to nevylučuje, je príslušný vo veci rozhodnúť orgán najbližšie nadriadený správcovi dane.
 
-(6) Ustanovenia odsekov 2 až 5 sa vzťahujú aj na konanie o riadnych alebo mimoriadnych opravných prostriedkoch.
+(6) Ustanovenia odsekov 2 až 5 sa vzťahujú aj na konanie o riadnych alebo mimoriadnych opravných prostriedkoch okrem preskúmania rozhodnutia mimo odvolacieho konania.
 
-(7) Správca dane ukončí daňovú kontrolu (§ 15) do šiestich mesiacov odo dňa jej začatia. Orgán najbližšie nadriadený správcovi dane môže lehotu uvedenú v prvej vete v zložitých prípadoch pred jej uplynutím primerane predĺžiť, najviac však o šesť mesiacov. Ak vykonáva daňovú kontrolu orgán podľa § 15 ods. 16, príslušným orgánom na predĺženie lehoty je ministerstvo.
+(7) Správca dane ukončí daňovú kontrolu (§ 15) do šiestich mesiacov odo dňa jej začatia. Orgán najbližšie nadriadený správcovi dane môže lehotu uvedenú v prvej vete v zložitých prípadoch pred jej uplynutím primerane predĺžiť, najviac však o šesť mesiacov, a ak ide o daňovú kontrolu zahraničných závislých osôb, ktoré vyčísľujú rozdiel základu dane podľa osobitného zákona<sup>8o</sup>) najviac o dvanásť mesiacov. Ak vykonáva daňovú kontrolu orgán podľa § 15 ods. 16, príslušným orgánom na predĺženie lehoty je ministerstvo.
 
 (8) Ak správca dane alebo orgán podľa § 15 ods. 16 nemôže daňovú kontrolu ukončiť do šiestich mesiacov odo dňa jej začatia, je povinný o tom s uvedením dôvodov písomne upovedomiť kontrolovaný daňový subjekt.

@@ -4,15 +4,15 @@
 
 (2) Správca dane vydá o zabezpečení tovaru alebo veci rozhodnutie o zabezpečení, v ktorom uvedie dôvody zabezpečenia tovaru alebo veci. Proti rozhodnutiu o zabezpečení sa možno odvolať. Odvolanie nemá odkladný účinok.
 
-(3) Ak majiteľ alebo držiteľ tovaru alebo veci v lehote do 15 dní od právoplatnosti rozhodnutia o ich zabezpečení neodstráni pochybnosti, ktoré viedli k zabezpečeniu tovaru a veci, správca dane vydá rozhodnutie o prepadnutí tohto tovaru alebo veci v prospech štátu. Proti rozhodnutiu o prepadnutí tovaru a veci sa možno odvolať.
+(3) Ak majiteľ alebo držiteľ tovaru alebo veci v lehote do 15 dní od právoplatnosti rozhodnutia o ich zabezpečení odstráni pochybnosti, ktoré viedli k zabezpečeniu tovaru alebo veci, správca dane vydá rozhodnutie o zrušení rozhodnutia o zabezpečení tovaru alebo veci. Rozhodnutie je právoplatné dňom jeho vydania; proti tomuto rozhodnutiu sa nemožno odvolať. Ak majiteľ alebo držiteľ tovaru alebo veci v lehote do 15 dní od právoplatnosti rozhodnutia o ich zabezpečení neodstráni pochybnosti, ktoré viedli k zabezpečeniu tovaru a veci, správca dane vydá rozhodnutie o prepadnutí tohto tovaru alebo veci v prospech štátu. Proti rozhodnutiu o prepadnutí tovaru a veci sa možno odvolať.
 
 (4) Podľa odseku 1 sa postupuje aj v prípade, ak dopravca<sup>6f</sup>) neposkytne na požiadanie zamestnanca správcu dane doklady jednoznačne preukazujúce skutočnosti uvedené v odseku 1. Správca dane môže zabezpečiť prepravovaný tovar a veci vrátane dopravného prostriedku, ktorého je dopravca vlastníkom. Pri zabezpečení veci a dopravného prostriedku sa postupuje primerane podľa odsekov 2 a 3 a § 36. V prípade nepreukázania skutočností uvedených v odseku 1 v určenej lehote dopravný prostriedok vrátane prepravovaného tovaru a veci prepadá v prospech štátu.
 
-(5) Ak dopravca nie je vlastníkom zabezpečeného dopravného prostriedku, zaplatí pokutu vo výške 50 % hodnoty<sup>6a</sup>) prepravovaného tovaru alebo veci.
+(5) Ak dopravca nie je vlastníkom zabezpečeného dopravného prostriedku, zaplatí pokutu vo výške 50 % hodnoty prepravovaného tovaru alebo veci.
 
-(6) Prepadnutý tovar, vec a dopravný prostriedok sa ocenia cenou obvyklou podľa osobitného predpisu<sup>6b</sup>).
+(6) Prepadnutý tovar, vec a dopravný prostriedok sa ocenia cenou bežne používanou v mieste a v čase ocenenia prepadnutého tovaru, veci a dopravného prostriedku.
 
-(7) Správca dane je oprávnený prepadnutý tovar, veci a dopravný prostriedok predať v dražbe<sup>6c</sup>). Ak je prepadnutý tovar alebo vec nepatrnej hodnoty, správca dane je oprávnený takýto tovar alebo vec predať v komisionálnom predaji; hodnota tovaru a veci nepatrnej hodnoty nesmie byť vyššia ako 1 000 Sk.
+(7) Správca dane je oprávnený prepadnutý tovar, veci a dopravný prostriedok predať v dražbe<sup>6c</sup>). Ak je prepadnutý tovar alebo vec nepatrnej hodnoty, správca dane je oprávnený takýto tovar alebo vec predať v komisionálnom predaji; hodnota tovaru a veci nepatrnej hodnoty nesmie byť vyššia ako 5 000 Sk.
 
 (8) Zabezpečený tovar a veci rýchlo podliehajúce skaze alebo živé zvieratá môže správca dane predať ihneď.
 
@@ -20,7 +20,7 @@
 
 - a) náklady spojené so zabezpečením tovaru a veci,
 
-- b) úhradu daní podľa § 58 ods. 7,
+- b) úhradu daní podľa § 58 ods. 5 písm. b) až g),
 
 - c) úhradu daňových nedoplatkov z neoprávnene použitých alebo zadržaných prostriedkov zo štátneho rozpočtu, štátnych fondov a rozpočtov obcí.
 
