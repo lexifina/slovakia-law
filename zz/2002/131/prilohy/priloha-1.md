@@ -24,7 +24,7 @@ Príloha č. 1 k zákonu č. 131/2002 Z. z.
 
   - Žilinská univerzita v Žiline
 
-  - Trenčianska univerzita v Trenčíne
+  - Trenčianska univerzita Alexandra Dubčeka v Trenčíne
 
   - Ekonomická univerzita v Bratislave
 
