@@ -10,6 +10,4 @@
 
 Zo zabezpečenia občanov vykonávajúcich službu v ozbrojených silách alebo civilnú službu a členov ich rodín sa poskytujú tieto štátne dávky:
 
-- b) príspevok na úhradu za užívanie bytu,
-
 - c) náhrada zárobku pri službe v ozbrojených silách.
