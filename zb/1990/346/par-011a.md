@@ -6,7 +6,7 @@
 
 - a) Ústrednej volebnej komisie vymenúva a odvoláva vláda Slovenskej republiky,
 
-- b) okresnej volebnej komisie vymenúva a odvoláva prednosta okresného úradu zo zamestnancov okresného úradu,
+- b) obvodnej volebnej komisie vymenúva a odvoláva prednosta obvodného úradu zo zamestnancov obvodného úradu,
 
 - c) miestnej (mestskej) volebnej komisie vymenúva a odvoláva starosta obce (primátor) spravidla zo zamestnancov obce,
 
