@@ -14,6 +14,8 @@
 
 - f) spolupracuje so štátnymi orgánmi vo veciach kontroly hospodárenia s prostriedkami pridelenými samosprávnemu kraju zo štátneho rozpočtu alebo zo štrukturálnych fondov Európskej únie,
 
-- g) je povinný vykonať kontrolu, ak ho o to požiada zastupiteľstvo.
+- g) je povinný vykonať kontrolu, ak ho o to požiada zastupiteľstvo,
+
+- h) plní ďalšie úlohy ustanovené osobitným zákonom.
 
 (2) Hlavný kontrolór samosprávneho kraja sa zúčastňuje na zasadnutiach zastupiteľstva s hlasom poradným; môže sa zúčastňovať aj na zasadnutiach komisií zriadených zastupiteľstvom.
