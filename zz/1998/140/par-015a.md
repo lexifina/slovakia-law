@@ -12,7 +12,7 @@
 
 - e) účastník alebo jeho zákonný zástupca v prípade nespôsobilosti účastníka dať svoj informovaný súhlas môže kedykoľvek a bez akýchkoľvek následkov odstúpiť od účasti na klinickom skúšaní,
 
-- f) zdravotnícke zariadenie uzavrelo osobitnú zmluvu o poistení zodpovednosti zdravotníckeho zariadenia za škodu, ktorú môže spôsobiť účastníkovi, ustanovenú osobitným predpisom.<sup>9bd</sup>)
+- f) zdravotnícke zariadenie uzavrelo zmluvu o poistení zodpovednosti zdravotníckeho zariadenia za škodu, ktorú môže spôsobiť účastníkovi, ustanovenú osobitným predpisom.<sup>9bd</sup>)
 
 (2) Zdravotnú starostlivosť poskytuje účastníkovi skúšajúci (§ 15 ods. 11).
 

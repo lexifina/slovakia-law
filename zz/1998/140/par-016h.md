@@ -4,7 +4,7 @@
 
 - a) skúšajúci uchovával zoznam identifikačných kódov účastníkov najmenej 15 rokov po skončení alebo prerušení klinického skúšania,
 
-- b) sa zdravotná dokumentácia účastníkov<sup>9beg</sup>) a ostatné základné údaje uchovávali v príslušnom zdravotníckom zariadení najmenej 15 rokov po skončení klinického skúšania alebo prerušení klinického skúšania,
+- b) sa zdravotná dokumentácia<sup>9beg</sup>) účastníkov a ostatné základné údaje uchovávali v príslušnom zdravotníckom zariadení najmenej 15 rokov po skončení klinického skúšania alebo prerušení klinického skúšania,
 
 - c) zadávateľ alebo držiteľ rozhodnutia o registrácii lieku uchovával ostatnú dokumentáciu vzťahujúcu sa na klinické skúšanie počas platnosti registrácie lieku, ktorá obsahuje
 

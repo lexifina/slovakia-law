@@ -12,13 +12,15 @@
 
 - 6) § 85 Zákonníka práce.
 
-- 6a) Zákon Slovenskej národnej rady č. 13/1992 Zb. o Slovenskej lekárskej komore, Slovenskej komore zubných lekárov a Slovenskej lekárnickej komore.
+- 6a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 6aa) § 13 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov.
 
 - 6aa) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
-- 6b) Zákon č. 216/2002 Z. z. o povolaní lekárnika, o Slovenskej lekárnickej komore a o doplnení zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+- 6b) § 49 a 50 Trestného zákona.
+
+- 6ba) Občiansky súdny poriadok.
 
 - 6c) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 65/2002 Z. z. o podrobnostiach postupu pri overovaní zásad správnej laboratórnej praxe a ich dodržiavaní, o podrobnostiach o vydaní a zrušení osvedčenia správnej laboratórnej praxe a postupe kontroly dodržiavania zásad správnej laboratórnej praxe (zásady správnej laboratórnej praxe).
 
@@ -26,7 +28,7 @@
 
 - 7a) § 17 zákona č. 151/2002 Z. z.
 
-- 8) § 40 až 43 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 8) § 26 až 34 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 9) Zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
@@ -40,7 +42,7 @@
 
 - 9bc) § 22 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
-- 9bd) § 44 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
+- 9bd) § 79 ods. 1 písm. u) zákona č. 578/2004 Z. z.
 
 - 9be) § 40 ods. 4 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 118/2002 Z. z.
 
@@ -48,7 +50,7 @@
 
 - 9bef) § 7 ods. 3 písm. i) vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 274/1998 Z. z.
 
-- 9beg) § 16 ods. 2, ods. 4 až 9 a ods. 11 a 12 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+- 9beg) § 2 ods. 6 zákona č. 576/2004 Z. z.
 
 - 9beh) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
@@ -121,6 +123,8 @@
 - 20) § 3 zákona Slovenskej národnej rady č. 11/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 21) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
+- 21a) Zákon č. 581/2004 Z. z.
 
 - 22) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
