@@ -1,29 +1,41 @@
-- 1) § 9 ods. 2 písm. e) zákona č. 158/1989 Zb. o bankách a sporiteľniach.
+- 1) § 6 zákona č. 21/1992 Zb. o bankách.
 
-- 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov
+- 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov. Zákon č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
 
-- Zákon č. 68/1965 Zb. o pobyte cudzincov na území Československej socialistickej republiky.
+- 3) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike v znení zákona č. 157/1989 Zb.
 
-- 3) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike.
+- 3a) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
-- 4) Napr. § 14 zákona č. 158/1989 Zb., § 2 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov, § 19 ods. 1 písm. h) zákona č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení zákona č. 113/1990 Zb., § 5 zákona č. 173/1988 Zb. o podniku so zahraničnou majetkovou účasťou v znení zákona č. 112/1990 Zb.
+- 4) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
 - 5) Zákona č. 222/1946 Zb. o pošte (poštový zákon).
 
-- 6) Zákon č. 173/1988 Zb. v znení zákona č. 112/1990 Zb.
+- 6) Obchodný zákonník.
 
-- 7) Napr. zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd, zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby.
+- 6a) Zákon č. 119/1992 Zb. o cestovných náhradách.
+
+- 6b) Zákon č. 530/1990 Zb. o dlhopisoch.
+
+- 6c) § 37 zákona č. 21/1992 Zb.
+
+- 6d) Zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplne znenie č. 47/1992 Zb.).
+
+- 7) Napr. Zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov, zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb.
 
 - 8) Napr. zákon č. 119/1990 Zb. o súdnej rehabilitácii.
 
+- 8a) Zákon č. 21/1992 Zb.
+
+- 8b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
 - 9) Zákon č. 44/1974 Zb. colný zákon v znení neskorších predpisov.
 
-- 10) Zákon Českej národnej rady č. 367/1990 Zb. o obciach (obecné zriadenie).
-
-- Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
+- 10) Zákon Českej národnej rady č. 200/1990 Zb. o priestupkoch.Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb. Zákon Českej národnej rady č. 425/1990 Zb. o okresných úradoch, úprave ich pôsobnosti a niektorých ďalších opatreniach s tým súvisiacich.Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
 - 11) Zákon Českej národnej rady č. 200/1990 Zb. o priestupkoch.
 
 - Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
+
+- 11a) Zákon Slovenskej národnej rady č. 204/1991 Zb. o Policajnom zbore Slovenskej republiky.Zákon Českej národnej rady č. 283/1991 Zb. o Polícii Českej republiky.
 
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
