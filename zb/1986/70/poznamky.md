@@ -6,12 +6,4 @@
 
 - Nariadenie vlády Slovenskej socialistickej republikyč.118/1985 Zb. o vykonávaní dodatkových odvodov národnými výbormi a rozpočtovými a príspevkovými organizáciami riadenými orgánmi Slovenskej socialistickej republiky a národnými výbormi v oblasti cien.
 
-- 4) Zákon č.66/1961 Zb. o veterinárnej starostlivosti.
-
-- Zákon č.61/1964 Zb. o rozvoji rastlinnej výroby v znení neskorších predpisov.
-
-- Zákon č.20/1966 Zb. o starostlivosti o zdravie ľudu.
-
-- Zákon č.30/1968 Zb. o štátnom skúšobníctve.
-
-- Zákon SNR č.110/1972 Zb. o plemenitbe hospodárskych zvierat.
+- 4) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
