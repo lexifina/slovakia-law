@@ -1,0 +1,1 @@
+- 1) § 22 a 23 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 33/1984 Zb. o cestovných náhradách.
