@@ -8,8 +8,8 @@
 
 - c) schváli dohodu o vyporiadaní dedičstva alebo dohodu o prenechaní predlženého dedičstva na úhradu dlhov alebo
 
-- d) potvrdí nadobudnutie dedičstva podľa dedičských podielov, ak medzi dedičmi nedôjde k dohode.
+- d) potvrdí nadobudnutie dedičstva podľa dedičských podielov, ak medzi dedičmi nedôjde k dohode, alebo
+
+- e) neschváli dohodu o vyporiadaní dedičstva a potvrdí nadobudnutie dedičstva podľa dedičských podielov.
 
 (2) Súčasťou uznesenia podľa odseku 1 môže byť aj uznesenie podľa § 175l a 175o.
-
-(3) Pokiaľ súd uznesením dohodu o vyporiadaní dedičstva neschváli, môže v konaní pokračovať až po právoplatnosti tohto uznesenia.

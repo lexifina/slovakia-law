@@ -2,7 +2,7 @@
 
 (1) V obchodných veciach koná a rozhoduje krajský súd ako súd prvého stupňa v senáte, ak ide o spory
 
-- a) z právnych vzťahov medzi obchodnými spoločnosťami (družstvami) a ich zakladateľmi (spoločníkmi alebo členmi), ako aj medzi spoločníkmi (členmi alebo zakladateľmi) navzájom,
+- a) medzi obchodnými spoločnosťami (družstvami) a ich zakladateľmi, medzi obchodnými spoločnosťami (družstvami) a ich spoločníkmi, akcionármi alebo členmi, ako aj medzi spoločníkmi, členmi alebo zakladateľmi navzájom, ak vznikli zo vzťahov upravených Obchodným zákonníkom,
 
 - b) zo vzťahov, ktoré vznikajú v súvislosti s predajom podniku alebo jeho časti,
 

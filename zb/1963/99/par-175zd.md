@@ -1,5 +1,5 @@
 # § 175zd
 
-(1) Notár pripraví všetky potrebné podklady na vydanie uznesenia súdu, návrhy na uznesenie súdu vrátane návrhu rozhodnutia o vyrubení notárskych poplatkov podľa osobitných predpisov<sup>34b</sup>) a vyúčtuje svoju odmenu a hotové výdavky. Ak podklady nie sú úplné, môže súd vec vrátiť notárovi so žiadosťou o doplnenie konania.
+(1) Ak sa prejednanie dedičstva neskončilo vydaním osvedčenia o dedičstve, notár pripraví všetky potrebné podklady na vydanie uznesenia súdu a návrh na uznesenie súdu a vyúčtuje svoju odmenu a hotové výdavky.<sup>34f</sup>) Ak podklady nie sú úplné alebo návrh na uznesenie súdu nie je po vecnej stránke správny, súd môže vec vrátiť notárovi s pokynom na doplnenie konania alebo na zmenu návrhu uznesenia; pokynom súdu je notár viazaný.
 
 (2) Notár má právo podať odvolanie proti výroku o odmene a hotových výdavkoch.

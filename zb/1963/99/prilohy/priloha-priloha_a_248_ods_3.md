@@ -16,7 +16,7 @@ Príloha A (§ 248 ods. 3)
 
 - Ceny | Zákon č. 526/1990 Zb. o cenách §3 | rozhodnutie o regulácii cien
 
-- Dane | Zákon SNR č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona NR SR č. 165/1993 Z. z. a zákona NR SR č. 253/1993 Z. z. | rozhodnutie o povolení platenia dane alebo o jej zaplatení v splátkach, rozhodnutie o žiadosti o odpustenie predpísanej dane a penále, rozhodnutie o pozastavení činnosti
+- Dane | Zákon SNR č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona NR SR č. 165/1993 Z. z. a zákona NR SR č. 253/1993 Z. z. | rozhodnutie o povolení odkladu platenia dane alebo o jej zaplatení v splátkach, rozhodnutie o žiadosti o odpustenie predpísanej dane a penále, rozhodnutie o pozastavení činnosti
 
 - Devízové hospodárstvo | Zákon č. 528/1990 Zb. devízový zákon §48 | devízové povolenia
 
@@ -35,8 +35,6 @@ Príloha A (§ 248 ods. 3)
 - | §24 | ustanovovanie a odvolanie lesnej stráže
 
 - Letecká doprava | Zákona. 47/1956 Zb. o civilnom letectve (letecký zákon) v znení neskorších predpisov § 27 ods. 2 | rozhodnutia o povinnosti správcov, vlastníkov alebo užívateľov objektov ohrozujúcich bezpečnosť leteckej premávky na svoje náklady označiť tieto objekty leteckým prekážkovým značením a toto značenie udržiavať a prevádzkovať
-
-- Nemocenské poistenie (zabezpečenie) | Zákon č. 54 /1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov, zákon č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení neskorších predpisov, zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov | rozhodovanie v dávkových veciach nemocenského poistenia (zabezpečenia) s výnimkou rozhodovania o vrátení preplatkov na dávke neprávom vyplatenej
 
 - Obrana štátu | Zákon č. 92/1949 Zb. branný zákon - v úplnom znení č. 309/1990 Zb. § 4 a naši. | rozhodnutia v záležitosti brannej povinnosti občanov
 
@@ -85,12 +83,6 @@ Príloha A (§ 248 ods. 3)
 - Cestná doprava | Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení zákona č. 27/1984 Zb. § 3 ods. 3 písm. c) | rozhodnutie o zaraďovaní novovybudovaných ciest do cestnej siete, o ich preraďovaní, príp. vyraďovaní z tejto siete, ako aj o preraďovaní miestnych komunikácií a účelových komunikácií do tejto siete
 
 - | Vyhláška FMD č. 35/1984 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon) § 10 ods. 3 písm. c) | rozhodnutie o uzávierke, prípadne o obchádzke pri cestách II. a III. triedy a miestnych komunikácií
-
-- Rodičovský príspevok | Zákon č. 382/1990 Zb. o rodičovskom príspevku | okrem rozhodnutí preskúmateľných podlá § 250l všetky ďalšie rozhodnutia s výnimkou rozhodnutí o nepriznaní príspevku a o zastavení jeho výplaty
-
-- Sociálne zabezpečenie | Zákon č. 100/1988Zb. o sociálnom zabezpečení v znení neskorších predpisov | okrem rozhodnutí preskúmateľných podlá § 250l všetky ďalšie rozhodnutia s výnimkou rozhodnutí o zaopatrovacom príspevku
-
-- | Vyhláška č. 76/1957 Ú. l. v znení vyhlášky č. 268/1990 Zb., vyhláška č. 183/1991 Zb. | rozhodnutie o invalidite (čiastočnej invalidite)
 
 - Štátne tajomstvo | Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva v znení zákona č. 383/1990 Zb. § 21 | rozhodnutie o zákaze fotografovania a filmovania
 

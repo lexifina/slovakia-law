@@ -1,12 +1,14 @@
 - 1) § 7 ods. 4 zákona č. 424/1991 Zb. o združovaní v politických stranách a politických hnutiach.
 
+- 1a) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
+
 - 2) § 476 a nasl. Obchodného zákonníka.
 
 - 3) § 591 a nasl. Obchodného zákonníka.
 
 - 4) § 601 a nasl. Obchodného zákonníka.
 
-- 5) § 638 a nasl. Obchodného zákonníka.
+- 5) § 115 a nasl. Obchodného zákonníka v znení neskorších predpisov.
 
 - 6) § 673 a nasl. Obchodného zákonníka.
 
@@ -14,7 +16,7 @@
 
 - 8) § 692 a nasl. Obchodného zákonníka.
 
-- 9) § 700 a nasl. Obchodného zákonníka.
+- 9) § 700 a nasl. Obchodného zákonníka v znení zákona č. 600/1992 Zb. o cenných papieroch.
 
 - 10) § 708 a nasl. Obchodného zákonníka.
 
@@ -72,9 +74,21 @@
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 44/1991 Zb.
 
-- 34a) § 27 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
+- 34a) § 12 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
 
-- 34b) Zákon Slovenskej národnej rady č. 139/1984 Zb. o notárskych poplatkoch v znení zákona Slovenskej národnej rady č. 192/1990 Zb.
+- 34b) § 150 Občianskeho zákonníka.
+
+- 34c) § 27 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 34d) Zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
+
+- 34e) § 43 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
+
+- 34f) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
+
+- 34g) § 11 a nasl. Občianskeho zákonníka.
+
+- 34h) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
 - 35) V súčasnosti ide najmä o tieto prípady:
 
@@ -109,5 +123,9 @@
 - § 34 zákona č. 237/1991 Zb. o patentových zástupcoch,
 
 - § 8 ods. 5 zákona č. 424/1991 Zb.
+
+- 35a) § 25 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
+
+- 35b) Zákon Slovenskej národnej rady č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
 
 - 36) § 5 zákona č. 526/1990 Zb. o cenách.

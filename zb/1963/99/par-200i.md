@@ -1,17 +1,13 @@
 ## ŠIESTA HLAVA
 
-## KONANIE V OBCHODNÝCH VECIACH
+## KONANIE VO VECIACH OCHRANY OSOBNOSTI
 
 # § 200i
 
-(1) Žaloba v obchodných veciach má okrem všeobecných a ďalších náležitostí (§ 42 ods. 3, § 79 ods. 1) obsahovať aj údaje potrebné na identifikáciu účastníkov, najmä obchodné mená, sídla alebo miesta podnikania, prípadne identifikačné čísla a údaje o ich zápise v obchodnom alebo živnostenskom registri.
+(1) Na konanie vo veciach ochrany osobnosti<sup>34g</sup>) je príslušný súd, v ktorého obvode má žalobca bydlisko.
 
-(2) Žalobca je povinný k žalobe pripojiť listinné dôkazy, na ktoré sa odvoláva, a zaslať ich súdu. Zároveň preukáže splnenie povinnosti uloženej podľa odseku 3.
+(2) Súd je povinný vo veciach uvedených v odseku 1 konať o veci samej najneskôr do 30 dní od podania žaloby.
 
-(3) Žalobca zašle rovnopisy žaloby, prípadne aj listinných dôkazov, okrem súdu zároveň aj žalovanému.
+(3) Žalovaný je povinný do 30 dní od doručenia žaloby (§ 79) vyjadriť sa k nej a navrhnúť súdu prípadný dôkaz pravdy. Ak to žalovaný neurobí, súd pri rozhodovaní o žalobe vychádza z tvrdení žalobcu uvedených v žalobe. O tomto následku musí súd žalovaného poučiť.
 
-(4) Žalovaný sa vyjadrí k žalobe a prílohám písomne do pätnástich dní odo dňa, keď mu boli doručené. Vyjadrenie, doložené listinnými dôkazmi, zašle v prvopise súdu a v rovnopise žalobcovi.
-
-(5) Za nesplnenie povinností podľa odsekov 3 a 4 možno opakovane uložiť poriadkovú pokutu do výšky 20 000 Sk.
-
-(6) Konanie sa začína dňom, keď žaloba došla na súd.
+(4) Súd je povinný rozhodnúť vo veci ochrany osobnosti najneskôr do jedného roka od podania žaloby.
