@@ -1,0 +1,1 @@
+- *) Na Slovensku rozhoduje v týchto prípadoch Povereníctvo SNR pre školstvo a kultúru.
