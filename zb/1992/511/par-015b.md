@@ -14,6 +14,6 @@
 
 - a) preverenie výsledkov daňovej kontroly v rámci konania o riadnych opravných prostriedkoch alebo mimoriadnych opravných prostriedkoch,
 
-- b) daňová kontrola na základe žiadosti súdu (§ 15 ods. 14),
+- b) daňová kontrola u daňového subjektu, na ktorý bol vyhlásený konkurz alebo ktorému bolo povolené vyrovnanie alebo na základe žiadosti súdu (§ 15 ods. 14),
 
 - c) daňová kontrola na základe žiadosti orgánov činných v trestnom konaní.<sup>6h</sup>)

@@ -62,6 +62,8 @@
 
 - 8f) § 11 ods. 2 zákona Národnej rady Slovenskej republiky č. 316/1993 Z. z. v znení neskorších predpisov.
 
+- 8g) Zákon č. 231/1999 Z. z. o štátnej pomoci.
+
 - 9) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
 - 10) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb.
@@ -105,6 +107,8 @@
 - 13d) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 310/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 312/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. v znení neskorších predpisov.
 
 - 13e) Napríklad zákon č. 286/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 87/1994 Z. z. v znení neskorších predpisov.
+
+- 13f) Zákon č. 366/1999 Z. z.
 
 - 14) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
@@ -180,10 +184,16 @@
 
 - 19n) Zákon Slovenskej národnej rady č. 318/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
 
+- 19o) § 31 a 54 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+
+- 19p) § 20, 31 a 56 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+
 - 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- Colný zákon č. 44/1974 Zb. v znení neskorších predpisov.
-
-- Vyhláška FMZO č. 43/1991 Zb., ktorou sa vykonáva colný zákon, v znení neskorších predpisov.
-
 - 21) § 30 ods. 2 zákona SNR č. 139/1984 Zb. o notárskych poplatkoch.
+
+- 22) § 24 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 23) § 24 ods. 4 a 6 zákona č. 92/1991 Zb. v znení neskorších predpisov.
+
+- 24) § 36 ods. 2 písm. c) bod 2 zákona č. 366/1999 Z. z.
