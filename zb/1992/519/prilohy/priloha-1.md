@@ -252,7 +252,7 @@ Príloha č. 1 nariadenia vlády SR č. 519/1992 Zb.
 
       - 9.04. Plnenie samostatných odborných úloh na úseku špeciálnych a osobitných policajných činností spojených so zvýšeným rizikom.
 
-      - 9.05. Vyšetrovanie trestných činov a mimoriadnych udalostí v rámci okresných a obvodných úradov vyšetrovania.
+      - 9.05. Vyšetrovanie trestných činov a mimoriadnych udalostí.
 
       - 9.06. Zabezpečovanie rozborovej a kontrolnej činnosti v rozsahu pôsobnosti ústredného orgánu štátnej správy, vrátane návrhov na opatrenia a odstraňovanie závad.
 
@@ -312,7 +312,7 @@ Príloha č. 1 nariadenia vlády SR č. 519/1992 Zb.
 
       - 10.08. Plnenie najnáročnejších odborných úloh na úsekoch špeciálnych a osobitných policajných činností spojených zo zvýšeným rizikom.
 
-      - 10.09. Vyšetrovanie závažných trestných činov a mimoriadnych udalostí, ktorých vyšetrovanie vykonávajú starší vyšetrovatelia na Krajských úradoch vyšetrovania a Mestskom úrade vyšetrovania.
+      - 10.09. Vyšetrovanie závažných trestných činov a mimoriadnych udalostí.
 
       - 10.10. Kontrolno-inšpekčná činnosť smerujúca k zisťovaniu objektívneho stavu na útvaroch Ministerstva vnútra Slovenskej republiky a Policajného zboru Slovenskej republiky pri plnení úloh z uznesení orgánov Národnej rady Slovenskej republiky, vlády Slovenskej republiky, nariadení, rozkazov a pokynov ministra.
 
@@ -346,7 +346,7 @@ Príloha č. 1 nariadenia vlády SR č. 519/1992 Zb.
 
       - 11.03. Zabezpečovanie odborného a metodického riadenia, kontrolná a koordinačná činnosť pri realizácii úloh Ministerstva vnútra Slovenskej republiky a Policajného zboru Slovenskej republiky.
 
-      - 11.04. Vyšetrovanie osobitne závažných trestných činov a mimoriadnych udalostí, koncepčná, koordinačná a metodologická činnosť v procese vyšetrovania, tvorivá aplikácia špecializovanej systémovej práce v praxi.
+      - 11.04. Vyšetrovanie osobitne závažných trestných činov a organizovaného zločinu, koncepčná, koordinačná a metodologická činnosť v procese vyšetrovania, tvorivá aplikácia špecializovanej systémovej práce v praxi.
 
       - 11.05. Tvorivá aplikácia výsledkov základného výskumu spolu s komplexným rozvojom poznávacích a tvorivých schopností študentov vysokej školy, vedenia prednášok, expertízna, publikačná a posudzovateľská činnosť, realizácia aplikovaného a základného výskumu, vedenia a oponovania seminárnych, diplomových a vedeckých prác.
 
