@@ -1,0 +1,7 @@
+Príloha č. 14
+
+- k rozhodnutiu č. 746/2002 Z. z.
+
+- EKONOMICKY OPRÁVNENÉ NÁKLADY NA ROZVOD ZEMNÉHO PLYNU V ČLENENÍ PODĽA ÚČTOVNEJ OSNOVY (v tis. Sk)
+
+[Príloha 14](../assets/a1c4ea131996d49777c755239c488cb381f3def40c9d7147d07902a6abe536b9.pdf)

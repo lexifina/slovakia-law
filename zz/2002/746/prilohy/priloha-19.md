@@ -1,0 +1,7 @@
+Príloha č. 19
+
+- k rozhodnutiu č. 746/2002 Z. z.
+
+- ÚDAJE POTREBNÉ NA URČENIE OSOBNÝCH NÁKLADOV NA PREPRAVU A ROZVOZ ZEMNÉHO PLYNU A ŤAŽBU ZEMNÉHO PLYNU
+
+[Príloha 19](../assets/5433a0637b78b2ac8a4388b19c5b81df27215a151229fbb9b74e6e76f5fdbb3c.pdf)

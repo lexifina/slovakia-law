@@ -1,0 +1,7 @@
+Príloha č. 1
+
+- k rozhodnutiu č. 746/2002 Z. z.
+
+- ÚDAJE POTREBNÉ NA VÝPOČET MAXIMÁLNEJ CENY ZA DISTRIBÚCIU ELEKTRINY
+
+[Príloha 01](../assets/13e171b70e383286902c142f7db2f9225b1d9f0e92c36b967cdfbe21247c9a33.pdf)

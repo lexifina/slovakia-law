@@ -1,0 +1,7 @@
+Príloha č. 10
+
+- k rozhodnutiu č. 746/2002 Z. z.
+
+- EKONOMICKY OPRÁVNENÉ NÁKLADY NA VÝROBU ELEKTRINY V ČLENENÍ PODĽA ÚČTOVNEJ OSNOVY (v tis. Sk)
+
+[Príloha 10](../assets/821330c5b89569fb17830812e7863395b3d94a222ed9aaeb1ad18172a7e44738.pdf)

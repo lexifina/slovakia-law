@@ -1,0 +1,7 @@
+Príloha č. 18
+
+- k rozhodnutiu č. 746/2002 Z. z.
+
+- ÚDAJE POTREBNÉ NA URĆENIE OSOBNÝCH NÁKLADOV NA DISTRIBÚCIU A DODÁVKU ELEKTRINY
+
+[Príloha 18](../assets/d9a0ab430b57a2b93d8a69382dbca57724244ecd0be332efdae5d2530f22715f.pdf)

@@ -1,0 +1,7 @@
+Príloha č. 2
+
+- k rozhodnutiu č. 746/2002 Z. z.
+
+- ÚDAJE POTREBNÉ NA VÝPOČET MAXIMÁLNEJ CENY ZA PREPRAVU ZEMNÉHO PLYNU
+
+[Príloha 02](../assets/f16f0cb75ddc7c74c2627dd47216b4382d91cd047b5303814db8a223d567d794.pdf)
