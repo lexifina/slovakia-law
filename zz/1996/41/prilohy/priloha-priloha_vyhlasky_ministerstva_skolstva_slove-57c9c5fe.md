@@ -58,6 +58,8 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 13. študijný odbor učiteľstvo pre materské školy a vychovávateľstvo
 
+    - 14. úplné stredné vzdelanie a doplňujúce pedagogické štúdium predškolskej pedagogiky
+
 - II. UČITELIA 1. – 4. ROČNÍKA ZÁKLADNEJ ŠKOLY
 
   - Požadované vzdelanie:
@@ -91,6 +93,8 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
     - 10. študijný odbor učiteľstvo pre školy pre mládež vyžadujúcu osobitnú starostlivosť (špeciálne školy)
 
     - 11. len na vyučovanie predmetu hudobná výchova absolvovanie jednopredmetového a kombinačného štúdia hudobnej výchovy pre 5. – 12. ročník na fakultách akreditovaných v príslušnom študijnom odbore
+
+    - 12. len na vyučovanie predmetov hudobná výchova a výtvarná výchova absolvovanie štúdia na Pedagogickej fakulte Univerzity Komenského v Bratislave v študijnom odbore učiteľstvo odborných predmetov v špecializáciách hudobná výchova alebo výtvarná výchova
 
 - III. UČITELIA VŠEOBECNOVZDELÁVACÍCH PREDMETOV 5. – 9. ROČNÍKA ZÁKLADNEJ ŠKOLY
 
@@ -152,17 +156,19 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 23. len na vyučovanie predmetu hudobná výchova, výtvarná výchova a dramatická výchova aj vysokoškolské vzdelanie – príslušné študijné odbory Vysokej školy múzických umení alebo Vysokej školy výtvarných umení a doplňujúce pedagogické štúdium alebo vykonanie skúšky z pedagogiky, zo psychológie a z predmetovej didaktiky
 
-    - 24. len na vyučovanie predmetu etická výchova vysokoškolské vzdelanie – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov pre 5. – 9. ročník základnej školy alebo učiteľstvo pre špeciálne školy s aprobačným predmetom, alebo učiteľstvo odborných predmetov, alebo neučiteľské vysokoškolské odborné vzdelanie a doplňujúce pedagogické štúdium a dvojročné špecializačné kvalifikačné štúdium etickej výchovy v metodických centrách skončené do 1. septembra 2005
+    - 24. len na vyučovanie predmetov hudobná výchova a výtvarná výchova absolvovanie štúdia na Pedagogickej fakulte Univerzity Komenského v Bratislave v študijnom odbore učiteľstvo odborných predmetov v špecializáciách hudobná výchova alebo výtvarná výchova
 
-    - 25. len na vyučovanie predmetu stretnutie s umením – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov a špecializačné kvalifikačné štúdium predmetu v metodických centrách skončené do 1. septembra 2005
+    - 25. len na vyučovanie predmetu etická výchova vysokoškolské vzdelanie – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov pre 5. – 9. ročník základnej školy alebo učiteľstvo pre špeciálne školy s aprobačným predmetom, alebo učiteľstvo odborných predmetov, alebo neučiteľské vysokoškolské odborné vzdelanie a doplňujúce pedagogické štúdium a dvojročné špecializačné kvalifikačné štúdium etickej výchovy v metodických centrách skončené do 1. septembra 2005
 
-    - 26. len na vyučovanie predmetov matematika, fyzika, prírodoveda, prírodopis a chémia aj vysokoškolské vzdelanie technického alebo pôdohospodárskeho zamerania skončené štátnou skúškou z aprobačného predmetu a doplňujúce pedagogické štúdium na fakulte pripravujúcej učiteľov týchto predmetov
+    - 26. len na vyučovanie predmetu stretnutie s umením – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov a špecializačné kvalifikačné štúdium predmetu v metodických centrách skončené do 1. septembra 2005
 
-    - 27. len na vyučovanie predmetu náboženská výchova (náboženstvo) absolvovanie štúdia na teologickej fakulte alebo vysokoškolské vzdelanie a doplňujúce pedagogické štúdium na teologickej fakulte, alebo absolvovanie vysokoškolského štúdia na Vysokej škole pedagogickej v Nitre, alebo na Pedagogickej fakulte Univerzity Konštantína Filozofa v Nitre, alebo na Pedagogickej fakulte Trnavskej univerzity v Trnave, alebo na Katecheticko-pedagogickej fakulte sv. Ondreja Žilinskej univerzity v Ružomberku, alebo na Pedagogickej fakulte a Filozofickej fakulte Katolíckej univerzity v Ružomberku, alebo na Katedre evanjelikálnej teológie a misie Pedagogickej fakulty Univerzity Mateja Bela v Banskej Bystrici študijný odbor náboženská výchova v kombinácii s iným predmetom s platnou kanonickou misiou príslušného diecézneho alebo dištriktuálneho biskupa. Pre kňazov a diakonov sa vyžaduje menovací dekrét od príslušného diecézneho alebo dištriktuálneho biskupa
+    - 27. len na vyučovanie predmetov matematika, fyzika, prírodoveda, prírodopis a chémia aj vysokoškolské vzdelanie technického alebo pôdohospodárskeho zamerania skončené štátnou skúškou z aprobačného predmetu a doplňujúce pedagogické štúdium na fakulte pripravujúcej učiteľov týchto predmetov
 
-    - 28. len na vyučovanie predmetu starostlivosť o zdravie – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov s aprobačným predmetom prírodopis
+    - 28. len na vyučovanie predmetu náboženská výchova (náboženstvo) absolvovanie štúdia na teologickej fakulte alebo vysokoškolské vzdelanie a doplňujúce pedagogické štúdium na teologickej fakulte, alebo absolvovanie vysokoškolského štúdia na Vysokej škole pedagogickej v Nitre, alebo na Pedagogickej fakulte Univerzity Konštantína Filozofa v Nitre, alebo na Pedagogickej fakulte Trnavskej univerzity v Trnave, alebo na Katecheticko-pedagogickej fakulte sv. Ondreja Žilinskej univerzity v Ružomberku, alebo na Pedagogickej fakulte a Filozofickej fakulte Katolíckej univerzity v Ružomberku, alebo na Katedre evanjelikálnej teológie a misie Pedagogickej fakulty Univerzity Mateja Bela v Banskej Bystrici študijný odbor náboženská výchova v kombinácii s iným predmetom s platnou kanonickou misiou príslušného diecézneho alebo dištriktuálneho biskupa. Pre kňazov a diakonov sa vyžaduje menovací dekrét od príslušného diecézneho alebo dištriktuálneho biskupa
 
-    - 29. len na vyučovanie predmetu etická výchova vysokoškolské vzdelanie – odbor pedagogika, špecializácia etická výchova
+    - 29. len na vyučovanie predmetu starostlivosť o zdravie – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov s aprobačným predmetom prírodopis
+
+    - 30. len na vyučovanie predmetu etická výchova vysokoškolské vzdelanie – odbor pedagogika, špecializácia etická výchova
 
 - IV. UČITELIA ZÁKLADNÝCH UMELECKÝCH ŠKÔL
 
@@ -220,7 +226,7 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 3. len na vyučovanie cudzieho jazyka absolvovanie jednopredmetového 4-ročného štúdia jazyka na filozofickej fakulte alebo na pedagogickej fakulte
 
-    - 4. na vyučovanie všeobecnovzdelávacích predmetov na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru a štátna jazyková skúška na pedagogickej fakulte alebo filozofickej fakulte alebo na katedre jazykov príslušnej vysokej školy
+    - 4. na vyučovanie všeobecnovzdelávacích predmetov v cudzom jazyku na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru a štátna jazyková skúška na pedagogickej fakulte alebo na filozofickej fakulte, alebo na katedre jazykov príslušnej vysokej školy alebo odborná alebo všeobecná štátna jazyková skúška na štátnej jazykovej škole alebo na jazykovej škole vykonaná do 1. septembra 2005
 
   - Vzdelanie uznané ako vysokoškolské vzdelanie
 
@@ -288,7 +294,7 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 4. vysokoškolské vzdelanie univerzitného smeru – príslušné študijné odbory a doplňujúce pedagogické štúdium
 
-    - 5. na vyučovanie odborných predmetov na bilingválnych stredných školách vysokoškolské vzdelanie požadovaného študijného odboru a štátna jazyková skúška na katedre jazykov príslušnej vysokej školy
+    - 5. na vyučovanie odborných predmetov v cudzom jazyku na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru, doplňujúce pedagogické štúdium a štátna jazyková skúška na pedagogickej fakulte alebo na filozofickej fakulte, alebo na katedre jazykov príslušnej vysokej školy alebo odborná štátna jazyková skúška na štátnej jazykovej škole vykonaná do 1. septembra 2005
 
   - Vzdelanie uznané ako vysokoškolské vzdelanie
 
@@ -310,7 +316,7 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 3. študijný odbor učiteľstvo pôdohospodárskych predmetov na Slovenskej poľnohospodárskej univerzite v Nitre (na Vysokej škole poľnohospodárskej v Nitre)
 
-    - 4. na vyučovanie odborných predmetov na bilingválnych stredných školách vysokoškolské vzdelanie požadovaného študijného odboru a štátna jazyková skúška na katedre jazykov príslušnej vysokej školy
+    - 4. na vyučovanie odborných predmetov v cudzom jazyku na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru, doplňujúce pedagogické štúdium a štátna jazyková skúška na pedagogickej fakulte alebo na filozofickej fakulte, alebo na katedre jazykov príslušnej vysokej školy alebo odborná štátna jazyková skúška na štátnej jazykovej škole vykonaná do 1. septembra 2005
 
   - Vzdelanie uznané ako vysokoškolské vzdelanie
 
@@ -330,9 +336,9 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
   - Vysokoškolské vzdelanie
 
-    - 1. študijný odbor veterinárne vedy a doplňujúce pedagogické štúdium
+    - 1. študijný odbor veterinárne vedy a doplňujúce pedagogické štúdium alebo študijný odbor zootechnika a doplňujúce pedagogické štúdium
 
-    - 2. na vyučovanie odborných predmetov na bilingválnych stredných školách vysokoškolské vzdelanie požadovaného študijného odboru a štátna jazyková skúška na katedre jazykov príslušnej vysokej školy
+    - 2. na vyučovanie odborných predmetov v cudzom jazyku na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru, doplňujúce pedagogické štúdium a štátna jazyková skúška na pedagogickej fakulte alebo na filozofickej fakulte, alebo na katedre jazykov príslušnej vysokej školy alebo odborná štátna jazyková skúška na štátnej jazykovej škole vykonaná do 1. septembra 2005
 
   - Vzdelanie uznané ako vysokoškolské vzdelanie
 
@@ -346,7 +352,7 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 1. študijný odbor farmaceutické vedy, doplňujúce pedagogické štúdium a najmenej dvojročná odborná prax
 
-    - 2. na vyučovanie odborných predmetov na bilingválnych stredných školách vysokoškolské vzdelanie požadovaného študijného odboru a štátna jazyková skúška na katedre jazykov príslušnej vysokej školy
+    - 2. na vyučovanie odborných predmetov v cudzom jazyku na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru, doplňujúce pedagogické štúdium a štátna jazyková skúška na pedagogickej fakulte alebo na filozofickej fakulte, alebo na katedre jazykov príslušnej vysokej školy alebo odborná štátna jazyková skúška na štátnej jazykovej škole vykonaná do 1. septembra 2005
 
 - E. ZDRAVOTNÍCKE PREDMETY
 
@@ -364,7 +370,7 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 5. študijný odbor laboratórne vyšetrovacie metódy, doplňujúce pedagogické štúdium a najmenej dvojročná odborná prax
 
-    - 6. na vyučovanie odborných predmetov na bilingválnych stredných školách vysokoškolské vzdelanie požadovaného študijného odboru a štátna jazyková skúška na katedre jazykov príslušnej vysokej školy
+    - 6. na vyučovanie odborných predmetov v cudzom jazyku na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru, doplňujúce pedagogické štúdium a štátna jazyková skúška na pedagogickej fakulte alebo na filozofickej fakulte, alebo na katedre jazykov príslušnej vysokej školy alebo odborná štátna jazyková skúška na štátnej jazykovej škole vykonaná do 1. septembra 2005
 
   - Vzdelanie uznané ako vysokoškolské vzdelanie
 
@@ -382,7 +388,7 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 2. študijný odbor učiteľstvo odborných ekonomických predmetov
 
-    - 3. na vyučovanie odborných predmetov na bilingválnych stredných školách vysokoškolské vzdelanie požadovaného študijného odboru a štátna jazyková skúška na katedre jazykov príslušnej vysokej školy
+    - 3. na vyučovanie odborných predmetov v cudzom jazyku na bilingválnych stredných školách požadované vysokoškolské vzdelanie príslušného študijného odboru, doplňujúce pedagogické štúdium a štátna jazyková skúška na pedagogickej fakulte alebo na filozofickej fakulte, alebo na katedre jazykov príslušnej vysokej školy alebo odborná štátna jazyková skúška na štátnej jazykovej škole vykonaná do 1. septembra 2005
 
   - Vzdelanie uznané ako vysokoškolské vzdelanie
 
@@ -398,7 +404,7 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 6. rozširujúce štúdium učiteľstva odborných ekonomických predmetov
 
-    - 7. na vyučovanie predmetu tovaroznalectvo aj vysokoškolské vzdelanie – študijný odbor vnútorný alebo zahraničný obchod a doplňujúce pedagogické štúdium alebo študijný odbor učiteľstvo všeobecnovzdelávacích predmetov s aprobáciou na predmet chémia, alebo vysokoškolské vzdelanie technického smeru – odbory potravinárskej chémie a doplňujúce pedagogické štúdium, alebo vysokoškolské vzdelanie príslušných študijných odborov a doplňujúce pedagogické štúdium
+    - 7. na vyučovanie predmetu tovaroznalectvo aj vysokoškolské vzdelanie - študijný odbor vnútorný alebo zahraničný obchod a doplňujúce pedagogické štúdium alebo študijný odbor učiteľstvo všeobecnovzdelávacích predmetov s aprobačným predmetom chémia, alebo vysokoškolské vzdelanie technického smeru - odbory potravinárskej chémie a doplňujúce pedagogické štúdium, alebo vysokoškolské vzdelanie príslušných študijných odborov a doplňujúce pedagogické štúdium, alebo vysokoškolské vzdelanie poľnohospodárskeho smeru - odbory technológia spracovania poľnohospodárskych produktov, biotechnológia, zootechnika a doplňujúce pedagogické štúdium
 
     - 8. na vyučovanie predmetu hospodárska geografia aj vysokoškolské vzdelanie – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov s príslušným aprobačným predmetom
 
@@ -448,9 +454,9 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
 
     - 3. na vyučovanie predmetu praktikum bábkového divadla a praktikum dramatickej výchovy vysokoškolské vzdelanie – študijný odbor divadelné a rozhlasové umenie, zameranie bábkarstvo a doplňujúce pedagogické štúdium
 
-    - 4. na vyučovanie odborných predmetov základy botaniky, kvetinárstvo a ovocinárstvo v odborných učilištiach aj vysokoškolské vzdelanie – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov pre 6. – 9. ročník alebo pre stredné školy s aprobačným predmetom prírodopis alebo biológia, alebo základy poľnohospodárskej výroby
+    - 4. na vyučovanie odborných predmetov základy botaniky, kvetinárstvo a ovocinárstvo v odborných učilištiach aj vysokoškolské vzdelanie - študijný odbor učiteľstvo všeobecnovzdelávacích predmetov pre 6. - 9. ročník alebo pre stredné školy s aprobačným predmetom prírodopis alebo biológia, alebo základy poľnohospodárskej výroby alebo vysokoškolské vzdelanie poľnohospodárskeho smeru - odbory záhradníctvo, všeobecné poľnohospodárstvo, ochrana rastlín, fytotechnika a doplňujúce pedagogické štúdium
 
-    - 5. na vyučovanie predmetov technológia prípravy pokrmov a prevádzková prax (s výnimkou stredných zdravotníckych škôl) vysokoškolské vzdelanie – študijný odbor veterinárne lekárstvo – hygiena potravín alebo vysokoškolské vzdelanie ekonomického smeru – študijný odbor ekonomika služieb a cestovného ruchu, alebo vysokoškolské vzdelanie technického smeru – odbory potravinárskej chémie a doplňujúce pedagogické štúdium, alebo vysokoškolské vzdelanie – študijný odbor učiteľstvo všeobecnovzdelávacích predmetov s aprobáciou na predmet špecifická príprava dievčat
+    - 5. na vyučovanie predmetu technológia prípravy pokrmov a prevádzková prax (s výnimkou stredných zdravotníckych škôl) vysokoškolské vzdelanie - študijný odbor veterinárne lekárstvo - hygiena potravín alebo vysokoškolské vzdelanie ekonomického smeru - študijný odbor ekonomika služieb a cestovného ruchu, alebo vysokoškolské vzdelanie technického smeru - odbory potravinárskej chémie a doplňujúce pedagogické štúdium, alebo vysokoškolské vzdelanie - študijný odbor učiteľstvo všeobecnovzdelávacích predmetov s aprobačným predmetom špecifická príprava dievčat, alebo vysokoškolské vzdelanie poľnohospodárskeho smeru - študijné odbory výživa ľudí, technológia potravín, biotechnológia, technológia spracovania poľnohospodárskych produktov a doplňujúce pedagogické štúdium
 
     - 6. na vyučovanie predmetu praktikum bábkového divadla a praktikum dramatickej výchovy vysokoškolské vzdelanie – študijný odbor učiteľstvo pre školy I. alebo II. cyklu rozšírený o 2-ročné štúdium bábkarstva na Divadelnej fakulte Akadémie múzických umení
 
@@ -689,6 +695,8 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
     - 9. absolvovanie bývalej pedagogickej školy pre učiteľov národných škôl do roku 1961
 
     - 10. študijný odbor pre učiteľstvo pre materské školy a vychovávateľstvo
+
+    - 11. úplné stredné vzdelanie a dvojročné pomaturitné kvalifikačné štúdium na strednej pedagogickej škole
 
   - DOMOVY MLÁDEŽE
 
@@ -1013,6 +1021,8 @@ Príloha vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z
   - Úplné stredné odborné vzdelanie
 
   - ako úplné stredné odborné vzdelanie zamerané na výchovnú činnosť v špeciálnych školách a špeciálnych výchovných zariadeniach (pozri XI. časť)
+
+  - Poznámka: V detskom domove rodinného typu, v ktorom pôsobia manželia - vychovávatelia sa požadované vzdelanie vzťahuje len na jedného z manželov.
 
 - XIII. PEDAGOGICKÍ ZAMESTNANCI ZARIADENÍ ŠPECIÁLNOPEDAGOGICKÉHO PORADENSTVA
 
