@@ -10,7 +10,7 @@
 
 - 5) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
-- 6) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+- 6) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 7) § 30 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -61,9 +61,5 @@
 - 26) Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
 
 - 27) § 8 zákona Národnej rady Slovenskej republiky č. 218/1996 Z. z.
-
-- 28) § 13 a 17 zákona č. 329/2000 Z. z.
-
-- 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 30) Napríklad Zákonník práce, Trestný zákon.
