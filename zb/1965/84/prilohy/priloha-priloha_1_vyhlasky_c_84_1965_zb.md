@@ -296,7 +296,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 07 - Stavebné hmoty, keramika a sklárstvo | | | | | | | | | |
 
-- 0701 | cementár | CH | Výroba cementu. Úprava surovín. Obsluha cementárskych pecí, bežná údržba výrobného zariadenia. Vykonávanie prevádzkovo-kontrolných skúšok. | 3 | 22 | 1 | 8 | A*) | 8-10 | 0701
+- 0701 | strojník pre výrobu stavebných hmôt | CH | Úprava surovín. Výroba cementu a výroba vápna. Obsluha cementárskych a vápenníckych pecí. Ručné a strojové spracovanie kovov, montáž a údržba cementárskych a vápenníckych agregátov. | 3 | 22 | 1 | 8 | A*) | 8-10 | 0701
 
 - 0712 | formovač žiaruvzdornej keramiky | CH | Výroba žiaruvzdorných tvárnic z keramických hmôt. Príprava hmôt, ručné a strojové tvarovanie a príprava na vypaľovanie výrobkov. | 2 | 10 | 1 | 6 | A*) | 8-10 | 0712
 
@@ -456,7 +456,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1043 | strojová vyšívačka | D | Odborné práce na vyšívacích strojoch. | 2 | 10 | 1 | 6 | C | 6-10 | 1043
 
-- 1050 | klobučnícky plstiar | CH | Ručná a strojová výroba klobučníckych polotovarov. Bežné nastavovanie a údržba strojov pre spracovanie klobučníckej plsti. | 2 | 10 | 1 | 6 | B*) | 8-12 | 1050
+- 1050 | klobučnícky plstiar klobučnícka plstiarka | CH D | Ručná a strojová výroba klobučníckych polotovarov. Bežné nastavovanie a údržba strojov pre spracovanie klobučníckej plsti. | 2 | 10 | 1 | 6 | B*) | 8-12 | 1050
 
 - 1051 | klobučník klobučníčka | CH D | Výroba klobúkov z vlasových a vlnených polotovarov. | 2 | 10 | 1 | 6 | C | 8-12 | 1051
 
@@ -518,7 +518,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 12 - Potravinárstvo | | | | | | | | | |
 
-- 1201 | mlynár mlynárka | CH D | Spracovanie obilnín na múku a ostatné mlynárske výrobky. Skladovanie a čistenie obilia. Obsluha a bežná údržba mlynského strojového zariadenia. Vykonávanie laboratórnych skúšok. | 3 | 22 | 1,5 | 9 | B*) | 8-10 | 1201
+- 1201 | mlynár | CH | Spracovanie obilnín na múku a ostatné mlynárske výrobky. Skladovanie a čistenie obilia. Obsluha a bežná údržba mlynského strojového zariadenia. Vykonávanie laboratórnych skúšok. | 3 | 22 | 1,5 | 9 | B*) | 8-10 | 1201
 
 - 1202 | pekár pekárka | CH D | Výroba chleba, bežného a jemného pečiva. Príprava cesta, kysnutie, tvarovanie a pečenie. Obsluha a bežná údržba používaných strojov a zariadení. | 3 | 18 | 1 | 6 | B*) | 8-10 | 1202
 
@@ -546,7 +546,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1214 | chemik kvasných procesov chemička kvasných procesov | CH D | Riadenie a ovládanie prevádzkových chemických aparatúr a zariadení pri výrobe látok, ktoré sa získavajú fermentačným procesom. Bežná údržba strojového zariadenia. Vykonávanie prevádzkovo-kontrolných rozborov a skúšok. | 2 | 10 | 1 | 6 | C | 8-10 | -
 
-- 1221 | priemyselný krmovinár priemyselná krmovinárka | CH D | Spracovanie surovín, miešanie krmovinových zmesí a koncentrátov a ich uskladňovanie. Obsluha a bežná údržba príslušného strojového zariadenia. Vykonávanie laboratórnych skúšok. | 3 | 22 | 1 | 8 | A*) | 8-12 | 1221
+- 1221 | priemyslový krmivár priemyslová krmivárka | CH D | Priemyslová výroba krmív, miešanie hnojív, príjem a skladovanie surovín, príprava osív a sadív. Obsluha a bežná údržba strojov a zariadení vo výrobniach krmív, miešarniach hnojív, skladoch a sušiarňach. | 3 | 22 | 1 | 8 | A*) | 8-12 | 1221
 
 - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
@@ -570,9 +570,9 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1322 | kováč a podkúvač | CH | Kováčske práce pri výrobe a opravách poľnohospodárskych strojov, náradia a zariadení. Zváranie kovov plameňom a elektrickým oblúkom. Ošetrovanie kopýt a paznechtov, podkúvanie záprahových zvierat. | 3 | 18 | 1,5 | 6 | A*) | 8-12 | 1322
 
-- 1324 | pestovateľ mechanizátor**) pestovateľka mechanizátorka**) | CH D | Obsluha a údržba špeciálnych poľnohospodárskych strojov v rastlinnej výrobe, najmä kombajnov. | 1 | - | - | - | A*) | 8-12 | 1324
+- 1324 | pestovateľ mechanizátor pestovateľka mechanizátorka | CH D | Obsluha strojov mechanizovanej rastlinnej výroby, bežné opravy strojov. | 2 | 6 | 1 | 3 | A*) | 8-12 | 1324
 
-- 1325 | chovateľ mechanizátor**) chovateľka mechnizátorka**) | CH D | Samostatné ošetrovanie hovädzieho dobytka a ošípaných v plemenných chovoch s využitím najzložitejších mechanizmov, ako napr. dojacích automatov; údržba uvedených mechanizačných prostriedkov. Výkon jednoduchších veterinárno-technických zásahov podľa pokynov veterinára. | 1 | - | 1 | - | A*) | 8-12 | 1325
+- 1325 | chovateľ mechanizátor chovateľka mechnizátorka | CH D | Ošetrovanie jednotlivých druhov hospodárskych zvierat v mechanizovanej živočíšnej výrobe. | 2 | 6 | 1 | 3 | A*) | 8-12 | 1325
 
 - 1351 | lesník | CH | Práce pri zbere lesných semien, v škôlkach, pri zalesňovaní, ošetrovaní porastov, ochrane lesa a v pridruženej lesnej výrobe. Ťažba dreva všetkými spôsobmi. Manipulácia, nakladanie a skladovanie dreva. | 2 | 10 | 1 | 6 | B*) | 8-15 | 1351
 
@@ -610,7 +610,7 @@ Príloha 1 vyhlášky č. 84/1965 Zb.
 
 - 1513 | predavač drogistického tovaru predavačka drogistického tovaru | CH D | Predaj drogistického tovaru, fotografických prístrojov a materiálov, ich odborné uskladňovanie a ošetrovanie. Základy aranžovania. Administratívne práce v predajni. | 3 | 18 | 1 | 6 | C | 12-16 | 1513
 
-- 1515 | predavač kníh predavačka kníh | CH D | Predaj kníh, hudobnín a gramofónových platní, ich odborné uskladňovanie. Administratívne práce v kníhkupectve. | 3 | 18 | 1 | 6 | C | 12-16 | 1515
+- 1515 | kníhkupec kníhkupkyňa | CH D | Ponuka a predaj kníh, hudobnín a gramofónových platní, ich odborné uskladňovanie. Základy aranžovania, propagačné a náborové akcie s knihou. Administratívne práce v kníhkupectve. | 3 | 18 | 1 | 6 | C | 12-16 | 1515
 
 - 1516 | predavač a skladník poľnohosp. strojov predavačka a skladníčka poľnohosp. strojov | CH D | Predaj poľnohospodárskych strojov, náhradných súčiastok a doplnkového zariadenia, ich odborné uskladňovanie a ošetrovanie. Administratívne práce v skladoch a v predajni. | 3 | 18 | 1 | 6 | C | 12-16 | 1516
 
