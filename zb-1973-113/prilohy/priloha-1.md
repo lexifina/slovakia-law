@@ -1,0 +1,1 @@
+[Prehľad](../assets/33990e06cbb7e71a030999230557294b3bfcd5cda8a0f61d3b9dda8d63124010.pdf)
