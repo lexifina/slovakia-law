@@ -1,3 +1,7 @@
 # § 46e
 
-Pre konanie o odvode penále do štátneho rozpočtu, o uložení hospodárskej pokuty a o neplatnosti opatrenia orgánu hospodárskeho riadenia primerane platia ustanovenia tretej časti. Za konanie o odvode penále do štátneho rozpočtu a o uloženie hospodárskej pokuty sa arbitrážne poplatky neplatia.
+(1) Pre konanie o uložení hospodárskej pokuty a o neplatnosti opatrenia orgánu hospodárskeho riadenia platia primerane ustanovenia tretej časti.
+
+(2) Ak hospodárska arbitráž začína konanie z vlastného podnetu, začína sa konanie dňom vydania rozhodnutia o začatí konania.
+
+(3) Za tieto konania sa arbitrážne poplatky neplatia.

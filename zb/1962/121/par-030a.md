@@ -6,7 +6,7 @@ Arbiter zaznamenáva v arbitrážnom spise najmä
 
 - b) dohodu organizácií schválenú pri arbitrážnom konaní,
 
-- c) výrok, že rozhodnutie nadobúda právoplatnosť jeho vyhlásením,
+- c) výrok, že rozhodnutie je predbežne vykonateľné,
 
 - d) dopĺňajúce prednesy znalcov podstatné pre rozhodnutie sporu,
 

@@ -2,16 +2,16 @@
 
 - *) § 14 ods. 2 a § 89 vládneho nariadenia č. 100/1966 Zb. o plánovitom riadení národného hospodárstva.
 
-- 1) § 17 ods. 2 a § 113 Hospodárskeho zákonníka.
+- 1) § 1, § 17 ods. 2 a § 26a Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
 
-- 2) § 26a Hospodárskeho zákonníka. Článok III bod 1 zákona č. 98/1988 Zb., ktorým sa mení a dopĺňa Hospodársky zákonník.
+- 2) § 26c a 384b Hospodárskeho zákonníka.
 
-- 3) § 26c Hospodárskeho zákonníka.
+- 3) § 129g a 129k Hospodárskeho zákonníka.
 
-- 4) § 5 ods. 3 zákona č. 88/1988 Zb. o štátnom podniku.
+- 4) § 1 ods. 2 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov.
 
-- 5) § 142 ods. 4 Hospodárskeho zákonníka.
+- 5) § 107 ods. 1 Hospodárskeho zákonníka.
 
-- 6) § 384a a 384b Hospodárskeho zákonníka.
+- 6) § 14 zákona č. 158/1989 Zb. o bankách a sporiteľniach.
 
-- 7) § 17 ods. 2 Hospodárskeho zákonníka.
+- 7) Nariadenie ministra financií č. 78/1958 Zb., ktorým sa určujú arbitrážne poplatky.
