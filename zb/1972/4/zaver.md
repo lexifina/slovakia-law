@@ -1,0 +1,3 @@
+Minister:
+
+Barčák v. r.
