@@ -518,6 +518,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 1211 | Sladovník | Ch | Príjem, ošetrovanie a skladovanie jačmeňa. Výroba sladov všetkých typov. Výroba mladiny, kvasenie, filtrácia a stáčanie piva. Jednoduchá analytická kontrola surovín a výrobkov. Obsluha a bežná údržba strojového zariadenia. | 3 | 1,5
 
+- 1212 | Priemyslový hydinár Priemyslová hydinárka | CH D | Zabíjanie hydiny. Spracovanie hydiny a vajec. Výroba hydinárskych konzerv a vajcových výrobkov. Obsluha a bežná údržba strojového zariadenia. | 2 | 1
+
 - 13 - Poľnohospodárstvo a lesné hospodárstvo | | | | |
 
 - 1301 | Pestovateľ-chovateľ Pestovateľka-chovateľka | Ch D | Práce spojené s pestovaním, ošetrovaním, zberom a skladovaním poľnohospodárskych plodín. Ošetrovanie hovädzieho dobytka, prasiat a oviec, kŕmenie, odstav, výber a pasenie. Práce so závesným náradím, so záprahmi, stajňovou mechanizáciou a inými jednoduchými strojmi a ich obsluha a bežná údržba. | 2 | 1
