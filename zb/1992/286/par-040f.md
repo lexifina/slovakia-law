@@ -6,7 +6,7 @@
 
 - b) sumy zrazené na zdravotné poistenie, nemocenské poistenie a dôchodkové poistenie a príspevok do Fondu zamestnanosti (ďalej len „poistné“),
 
-- c) sumu na čiastočnú úhradu výdavkov spojených s výkonom práce podľa § 6 ods. 12 písm. b),
+- c) sumu na čiastočnú úhradu výdavkov spojených s výkonom práce podľa § 6 ods. 12 písm. b) a sumu na mimoriadne výdavky zamestnanca podľa § 6 ods. 12 písm. e),
 
 - d) 30 % z príjmov zo závislej činnosti u daňovníkov uvedených v § 2 ods. 5,
 

@@ -6,7 +6,7 @@
 
 - b) potvrdením školy a u žiakov učilíšť potvrdením učilišťa, že plnoleté dieťa žijúce s daňovníkom v spoločnej domácnosti študuje,
 
-- c) rozhodnutím o priznaní invalidného alebo čiastočného invalidného dôchodku a dokladom o vyplácaní dôchodku, ak daňovník uplatňuje nárok na zníženie dane z titulu nezdaniteľnej časti zo základu dane z dôvodu, že poberá invalidný alebo čiastočný invalidný dôchodok,
+- c) rozhodnutím o priznaní invalidného dôchodku, čiastočného invalidného dôchodku alebo invalidného výsluhového dôchodku a dokladom o vyplácaní dôchodku, ak daňovník uplatňuje nárok na zníženie dane z titulu nezdaniteľnej časti zo základu dane z dôvodu, že poberá invalidný dôchodok, čiastočný invalidný dôchodok alebo invalidný výsluhový dôchodok,
 
 - d) predložením preukazu ZŤP-S (zdravotne ťažko poškodený so sprievodcom), ak je daňovník uvedený v písmene c) jeho držiteľom,
 
@@ -22,4 +22,4 @@
 
 - h) predložením dokladov na uplatnenie zvýšenej sumy na čiastočnú úhradu výdavkov spojených s výkonom práce podľa § 6 ods. 12 písm. b).
 
-(2) Doklady uvedené v odseku 1 písm. a), c), d), e) a f) platia trvale, ak ich platnosť nebola časovo obmedzená. Platnosť dokladov uvedených v odseku 1 písm. c) a e) je podmienená tým, že daňovník každoročne predloží najneskôr do 15. februára doklad o výplate dôchodku. Doklady uvedené v odseku 1 písm. b) platia vždy pre školský rok, pre ktorý boli vydané. Doklady platia za predpokladu, že u daňovníka a ním vyživovaných osôb sa nezmenili skutočnosti rozhodujúce pre uznanie nezdaniteľných častí zo základu dane.
+(2) Doklady uvedené v odseku 1 písm. a), c), d), e), f) a h) platia trvale, ak ich platnosť nebola časovo obmedzená. Platnosť dokladov uvedených v odseku 1 písm. c) a e) je podmienená tým, že daňovník každoročne predloží najneskôr do 15. februára doklad o výplate dôchodku. Doklady uvedené v odseku 1 písm. b) platia vždy pre školský rok, pre ktorý boli vydané. Doklady platia za predpokladu, že u daňovníka a ním vyživovaných osôb sa nezmenili skutočnosti rozhodujúce pre uznanie nezdaniteľných častí zo základu dane s výnimkou dokladov uvedených v odseku 1 písm. h).

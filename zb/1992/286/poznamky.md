@@ -16,9 +16,9 @@
 
 - 2b) Napr. § 628 a nasl. Občianskeho zákonníka.
 
-- 2c) § 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia.
+- 2c) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
-- 2d) § 6 ods. 1 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z.
+- 2d) Napríklad zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, § 4 zákona č. 114/1998 Z. z. o sociálnom zabezpečení vojakov.
 
 - 2e) Napr. zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení zákona č. 160/1989 Zb.
 
@@ -26,17 +26,23 @@
 
 - 2f) Napr. § 42 ods. 2 písm. a) až h) zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z.
 
-- 3) Zákon č. 480/1992 Zb. o hmotnom zabezpečení vojakov a žiakov škôl ozbrojených síl a ich zodpovednosti za škodu.
+- 2g) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
-- § 15 a diel VIII zákona č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
+- 2h) § 79 až 111 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení zákona č. 386/1997 Z. z.
 
-- Zákon č. 100/1970 Zb. o služobnom pomere príslušníkov Zboru národnej bezpečnosti v znení neskorších predpisov.
+- 2i) Napríklad vyhláška Ministerstva školstva, mládeže a telesnej výchovy Slovenskej republiky č. 326/1990 Zb. o poskytovaní štipendií študentom vysokých škôl v znení neskorších predpisov.
 
-- Zákon č. 334/1991 Zb. o služobnom pomere policajtov zaradených vo Federálnom policajnom zbore a v Zbore hradnej polície v znení neskorších predpisov.
+- 2j) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
-- Zákon Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
+- 2k) Napríklad § 10 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- Zákon Českej národnej rady č. 186/1992 Zb. o služobnom pomere príslušníkov polície Českej republiky.
+- 2l) § 2 ods. 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.§ 2 ods. 2 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
+
+- 3) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe, zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov.
+
+- 3a) Napríklad zákon č. 370/1997 Z. z., zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení zákona č. 58/1999 Z. z. a zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 54/1999 Z. z.
+
+- 3b) Zákon č. 73/1998 Z. z. v znení zákona č. 58/1999 Z. z.Zákon č. 114/1998 Z. z.Zákon č. 200/1998 Z. z. v znení zákona č. 54/1999 Z. z.
 
 - 4) Zákon č. 18/1992 Zb. o civilnej službe.
 
@@ -90,6 +96,8 @@
 
 - 8b) § 13 ods. 4 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
 
+- 8c) Napríklad zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci.
+
 - 9) Časť II a časť IV zákona č. 35/1965 Zb.
 
 - 10) Napr. § 842 Občianskeho zákonníka.
@@ -109,6 +117,10 @@
 - 12c) § 115 Občianskeho zákonníka.
 
 - 12d) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
+
+- 12e) Zákon č. 114/1998 Z. z.
+
+- 12f) § 211 ods. 1 písm. d) zákona č. 73/1998 Z. z.§ 202 ods. 1 písm. d) zákona č. 200/1998 Z. z.
 
 - 13) Zákon č. 22/1992 Zb. o Štátnej banke česko-slovenskej.
 
@@ -144,6 +156,8 @@
 
 - Smernice k účtovej osnove a Zásady jednoduchého účtovníctva vyhlasované v Zbierke zákonov.
 
+- 17a) § 91 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
+
 - 18) Napr. zákon č. 119/1992 Zb.
 
 - 18a) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení zákona Národnej rady Slovenskej republiky č. 200/1996 Z. z.
@@ -176,8 +190,6 @@
 
 - 21c) Zákon č. 119/1992 Zb. v znení neskorších predpisov.
 
-- 22) § 659 až 662 Občianskeho zákonníka.
-
 - 23) Zákon ČNR č. 133/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
 
 - Zákon SNR č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
@@ -190,7 +202,11 @@
 
 - 24c) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
 
+- 24d) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.Zákon č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení neskorších predpisov.
+
 - 24e) Napríklad § 642 až 651 Obchodného zákonníka.
+
+- 24f) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon č. 600/1992 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii, zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení zákona Národnej rady Slovenskej republiky č. 149/1994 Z. z.
 
 - 25) Zákon č. 238/1991 Zb. o odpadoch v znení neskorších predpisov.
 
@@ -220,7 +236,7 @@
 
 - 32) Smernice k štátnym štatistickým výkazom za úsek Práce a mzdy vydané Federálnym štatistickým úradom.
 
-- 32a) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- 32a) Zákon Slovenskej národnej rady č. 511/l992 Zb. v znení neskorších predpisov.
 
 - 33) Zákon č. 528/1990 Zb. devízový zákon v znení neskorších predpisov.
 

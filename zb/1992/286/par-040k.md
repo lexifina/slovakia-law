@@ -4,7 +4,7 @@
 
 # § 40k Daňové priznanie a zdaňovacie obdobie
 
-(1) Daňové priznanie za predchádzajúce zdaňovacie obdobie je povinný podať každý, kto má príjmy, ktoré sú predmetom dane z príjmov právnických osôb. Daňovníci, ktorí nie sú založení alebo zriadení na podnikanie, nepodávajú daňové priznanie, ak majú iba príjmy, z ktorých sa daň vyberá osobitnou sadzbou dane (§ 36).
+(1) Daňové priznanie za predchádzajúce zdaňovacie obdobie je povinný podať v ustanovenej lehote<sup>33c</sup>) každý, kto má príjmy, ktoré sú predmetom dane z príjmov právnických osôb. Daňovníci, ktorí nie sú založení alebo zriadení na podnikanie, nepodávajú daňové priznanie, ak majú iba príjmy, z ktorých sa daň vyberá osobitnou sadzbou dane (§ 36).
 
 (2) Za daňovníka, ktorý zanikol bez likvidácie, podáva daňové priznanie jeho právny nástupca.
 

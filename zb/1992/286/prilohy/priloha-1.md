@@ -1,4 +1,4 @@
-Príloha zákona č. 286/1992 Zb.
+Príloha č. 1 zákona č. 286/1992 Zb.
 
 - ZARADENIE HMOTNÉHO MAJETKU A NEHMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN | | Odpisová skupina 1
 
