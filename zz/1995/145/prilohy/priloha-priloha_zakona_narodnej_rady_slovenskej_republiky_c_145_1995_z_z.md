@@ -2492,27 +2492,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 161a
 
-  - Podanie žiadosti o vydanie povolenia na dovoz, vývoz alebo opätovný vývoz exemplárov alebo o vydanie súhlasu na premiestnenie živých exemplárov podľa zákona č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov |
+  - Podanie žiadosti o vydanie povolenia na dovoz, vývoz alebo potvrdenia na opätovný vývoz exemplárov alebo o vydanie súhlasu na premiestnenie živých exemplárov podľa osobitných predpisov<sup>37a</sup>) |
 
   - 1. fyzická osoba .............................................................................................................................................. | 200 Sk
 
   - 2. fyzická osoba oprávnená na podnikanie, ktorej predmet činnosti súvisí s podanou žiadosťou, alebo právnická osoba .................................................................................................................................. | 2 000 Sk
 
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním a Zoologická záhrada Bojnice. |
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je vyšší územný celok alebo obec a Zoologická záhrada Bojnice. |
 
     - Položka 161b
 
-  - Podanie žiadosti o povolenie výnimky zo zákazu komerčných činností podľa zákona č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov |
+  - Podanie žiadosti o povolenie výnimky zo zákazu komerčných činností podľa osobitných predpisov<sup>37a</sup>) |
 
   - 1. fyzická osoba .............................................................................................................................................. | 200 Sk
 
   - 2. fyzická osoba oprávnená na podnikanie, ktorej predmet činnosti súvisí s podanou žiadosťou, alebo právnická osoba ................................................................................................................................. | 2 000 Sk
 
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním a Zoologická záhrada Bojnice. |
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je vyšší územný celok alebo obec a Zoologická záhrada Bojnice. |
 
     - Položka 161c
 
-  - a) Žiadosť o zapísanie zariadenia do registra zariadení<sup>37a</sup>) ...................................................................... | 2 000 Sk
+  - a) Žiadosť o zapísanie zariadenia do registra zariadení<sup>37aa</sup>) ........................................................ | 2 000 Sk
 
   - b) Žiadosť o vydanie súhlasu na prvé použitie zariadenia na genetické technológie<sup>37b</sup>) ............................ | 20 000 Sk
 
@@ -2520,27 +2520,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Žiadosť o vydanie súhlasu na zmenu zatriedenia činností do nižšej rizikovej triedy<sup>37b</sup>) .......................... | 2 000 Sk
 
-  - e) Žiadosť o vydanie súhlasu na pokračovanie v činnostiach, ktoré boli pozastavené pri vykonávaní inšpekcie zariadenia<sup>37b</sup>) ................................................................................................. | 10 000 Sk
+  - e) Žiadosť o vydanie súhlasu na pokračovanie v činnostiach, ktoré boli pozastavené pri vykonávaní inšpekcie zariadenia<sup>37b</sup>) ......................................................................................... | 10 000 Sk
 
-  - f) Žiadosť o vydanie súhlasu na zavedenie geneticky modifikovaných organizmov, okrem vyšších rastlín, do životného prostredia<sup>37c</sup>) ................................................................ | 30 000 Sk
+  - f) Žiadosť o vydanie súhlasu na zavedenie geneticky modifikovaných organizmov, okrem vyšších rastlín, do životného prostredia<sup>37c</sup>) ...................................................................... | 30 000 Sk
 
-  - g) Žiadosť o vydanie súhlasu na zavedenie geneticky modifikovaných vyšších rastlín do životného prostredia<sup>37c</sup>) ........................................................................................ | 30 000 Sk
+  - g) Žiadosť o vydanie súhlasu na zavedenie geneticky modifikovaných vyšších rastlín do životného prostredia<sup>37c</sup>) ............................................................................................... | 30 000 Sk
 
   - h) Žiadosť o vydanie súhlasu na zmenu zavádzania geneticky modifikovaného organizmu, viacerých geneticky modifikovaných organizmov a kombinácie geneticky modifikovaných organizmov<sup>37c</sup>) ................ | 5 000 Sk
 
-  - i) Žiadosť o vydanie súhlasu na dovoz geneticky modifikovaných organizmov určených na zavedenie do životného prostredia<sup>37c</sup>) ........................................................................................................................... | 30 000 Sk
+  - i) Žiadosť o vydanie súhlasu na dovoz geneticky modifikovaných organizmov určených na zavedenie do životného prostredia<sup>37c</sup>) ................................................................................................. | 30 000 Sk
 
   - j) Žiadosť o vydanie súhlasu na uvedenie výrobku z geneticky modifikovaných organizmov na trh<sup>37d</sup>) ...... | 30 000 Sk
 
-  - k) Žiadosť o vydanie súhlasu na opakované uvedenie rovnakého výrobku na trh, ak sa má používať na iný účel<sup>37d</sup>) ................................................................................................... | 10 000 Sk
+  - k) Žiadosť o vydanie súhlasu na opakované uvedenie rovnakého výrobku na trh, ak sa má používať na iný účel<sup>37d</sup>) ........................................................................................................................................ | 10 000 Sk
 
-  - l) Žiadosť o vydanie súhlasu na podstatnú zmenu výrobku uvedeného na trh<sup>37d</sup>) ....................................... | 10 000 Sk
+  - l) Žiadosť o vydanie súhlasu na podstatnú zmenu výrobku uvedeného na trh<sup>37d</sup>) ..................................... | 10 000 Sk
 
   - m) Žiadosť o vydanie súhlasu na dovoz výrobku, ktorý má byť prvý uvedený na trh<sup>37d</sup>) ............................. | 30 000 Sk
 
   - n) Žiadosť o zmenu alebo zrušenie rozhodnutia o súhlase<sup>37e</sup>) ..................................................................... | 3 000 Sk
 
-  - o) Žiadosť o predĺženie platnosti rozhodnutia o súhlase s uvedením na trh<sup>37f</sup>) ........................................... | 5 000 Sk
+  - o) Žiadosť o predĺženie platnosti rozhodnutia o súhlase s uvedením na trh<sup>37f</sup>) ............................................ | 5 000 Sk
 
   - Splnomocnenie Správny orgán zníži poplatok o 50 %, ak ide o opakované žiadosti podľa písmena f) alebo g) tejto položky. |
 
