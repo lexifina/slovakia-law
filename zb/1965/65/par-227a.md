@@ -8,14 +8,12 @@
 
 (4) Povinnosť zamestnávateľa uhradiť náklady nevzniká, ak
 
-- a) tento zamestnávateľ zamestnáva zamestnanca v dobe trvania jeho záväzku v pracovnom pomere podľa § 25 ods. 2,
+- a) zamestnanec nemôže vykonávať podľa lekárskeho posudku alebo rozhodnutia orgánu štátnej zdravotníckej správy alebo sociálneho zabezpečenia povolanie, pre ktoré sa pripravoval, prípadne doterajšiu prácu z dôvodov uvedených v § 46 ods. 1 písm. d) a § 54,
 
-- b) zamestnanec nemôže vykonávať podľa lekárskeho posudku alebo rozhodnutia orgánu štátnej zdravotníckej správy alebo sociálneho zabezpečenia povolanie, pre ktoré sa pripravoval, prípadne doterajšiu prácu z dôvodov uvedených v § 46 ods. 1 písm. d) a § 54,
+- b) predchádzajúci zamestnávateľ porušuje podstatnú povinnosť, ktorú má voči zamestnancovi podľa pracovnej alebo kolektívnej zmluvy alebo právnych predpisov,
 
-- c) predchádzajúci zamestnávateľ porušuje podstatnú povinnosť, ktorú má voči zamestnancovi podľa pracovnej alebo kolektívnej zmluvy alebo právnych predpisov,
+- c) zamestnanec nasleduje manžela do miesta jeho bydliska alebo mladistvý zamestnanec nasleduje rodičov do miesta ich nového bydliska,
 
-- d) zamestnanec nasleduje manžela do miesta jeho bydliska alebo mladistvý zamestnanec nasleduje rodičov do miesta ich nového bydliska,
+- d) predchádzajúci zamestnávateľ rozviaže so zamestnancom pracovný pomer,
 
-- e) predchádzajúci zamestnávateľ rozviaže so zamestnancom pracovný pomer,
-
-- f) z údajov predchádzajúceho zamestnávateľa v potvrdení o zamestnaní nevyplýva, že ďalšiemu zamestnávateľovi vznikne povinnosť uhradiť tieto náklady.
+- e) z údajov predchádzajúceho zamestnávateľa v potvrdení o zamestnaní nevyplýva, že ďalšiemu zamestnávateľovi vznikne povinnosť uhradiť tieto náklady.

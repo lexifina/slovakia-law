@@ -22,7 +22,9 @@
 
 - 8) § 14 zákona č. 120/1962 Zb. o boji proti alkoholizmu.
 
-- 8a) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+- 8a) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- 8aa) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 8b) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
@@ -35,6 +37,8 @@
 - 8f) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 9) Vyhláška Federálneho ministerstva vnútra č. 135/1983 Zb. o ochrane majetku v socialistickom spoločenskom vlastníctve.
+
+- 9a) Zákon Národnej rady Slovenskej republiky č. 320/1993 Z. z. o úprave náhrady za stratu na zárobku po skončení pracovnej neschopnosti vzniknutej pracovným úrazom alebo chorobou z povolania.
 
 - 12) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 121/1990 Zb. o pracovnoprávnych vzťahoch pri súkromnom podnikaní občanov v znení nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 14/1991 Zb.
 
@@ -51,6 +55,8 @@
 - 16) Zákon č. 73/1990 Zb. o civilnej službe.
 
 - 16a) § 11a písm. i) zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov.
+
+- 16b) § 20 ods. 2 písm. o) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení zákona č. 292/1999 Z. z.
 
 - 17) § 2 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
 

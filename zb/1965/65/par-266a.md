@@ -5,3 +5,5 @@
 (2) Písomnosti doručované poštou zamestnávateľ zasiela na poslednú adresu zamestnanca, ktorá je mu známa, ako doporučenú zásielku s doručenkou s poznámkou „do vlastných rúk“.
 
 (3) Povinnosť zamestnávateľa doručiť písomnosť sa splní, len čo zamestnanec písomnosť prevezme alebo len čo ju pošta vrátila odosielajúcemu zamestnávateľovi ako nedoručiteľnú a zamestnanec svojím konaním alebo opomenutím doručenie písomnosti zmaril. Účinky doručenia nastanú aj vtedy, ak zamestnanec prijatie písomnosti odmietne.
+
+(4) Ustanovenia odsekov 1 a 3 sa vzťahujú primerane aj na zamestnanca.
