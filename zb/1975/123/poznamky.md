@@ -1,5 +1,5 @@
-- 1) § 39, § 57 ods. 2 a § 66 zákona č. 150/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 1) Pri prenechávaní pozemkov poľnohospodárska organizácia postupuje primerane podľa zásad ustanovených v § 17 a 18 vyhlášky Ministerstva poľnohospodárstva a lesného hospodárstva č. 27/1958 Ú. l., ktorou vydávajú vykonávacie predpisy k vládnemu nariadeniu o opatreniach v odbore hospodársko-technických úprav pozemkov.
 
-- 2) § 199, 200 a § 490 ods. 2 Občianskeho zákonníka.
+- 2) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov (§ 244 až 250).
 
 - 3) Zákon č. 22/1964 Zb.o evidencii nehnuteľností a vyhláška Ústrednej správy geodézie a kartografie č. 23/1964 Zb., ktorou sa vykonáva zákon č. 22/1964 Zb. o evidencii nehnuteľností.
