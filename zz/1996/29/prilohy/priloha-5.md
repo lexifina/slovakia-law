@@ -368,6 +368,24 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 29/1996
 
 - 156. Mer (ÚGKK SR) 1–02 | Výkaz o stave zásob štátnych mapových diel a o plnení edičného plánu ÚGKK SR
 
+- MINISTERSTVO PÔDOHOSPODÁRSTVA SR |
+
+- 157. Les F (MP SR) 1–01 | Ročný výkaz o nákladoch a výnosoch z lesníckej činnosti
+
+- 158. Les P (MP SR) 1–01 | Ročný výkaz o práci v lesníctve
+
+- 159. Les S (MP SR) 1–01 | Ročný výkaz o stave a využití mechanizačných prostriedkov v lesnom hospodárstve
+
+- MINISTERSTVO ZDRAVOTNÍCTVA SR |
+
+- 160. ON (MZ SR) 1n–01 | Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení
+
+- 161. ON (MZ SR) 2n–01 | Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení (ambulancií)
+
+- 162. L (MZ SR) 12–01 | Ročný výkaz o činnosti neurochirurgického oddelenia
+
+- 163. L (MZ SR) 13–01 | Ročný výkaz o činnosti oddelenia a ambulancie klinickej onkológie
+
   - Charakteristiky zisťovaní
 
   - 1. Názov zisťovania: Ročný výkaz o výkonoch a nákladoch na diaľniciach a na štátnych cestách
@@ -5371,3 +5389,227 @@ Príloha č. 5 opatrenia Štatistického úradu Slovenskej republiky č. 29/1996
     - Orgán vykonávajúci štatistické zisťovanie: ÚGKK SR.
 
     - Orgán zabezpečujúci spracovanie: ÚGKK SR.
+
+  - 157. Názov zisťovania: Ročný výkaz o nákladoch a výnosoch z lesníckej činnosti
+
+    - Značka štatistického formulára: Les F (MP SR) 1–01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať informácie o ekonomickej efektívnosti podľa jednotlivých druhov výkonov lesníckych činností a informácie potrebné na poskytovanie dotácií a subvencií pri realizácii štátnej lesníckej politiky a informácie na rozvoj a stratégiu lesného hospodárstva.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa činností a výkonov, ktoré sa v lesníctve vykonávajú, ukazovatele týkajúce sa nevýrobnej činnosti (bytové hospodárstvo, služby výpočtovej techniky), pomocných prevádzok, výrobnej a správnej réžie a celkových nákladov a výnosov, ktoré nadväzujú na účtovné výkazy. Výkaz sleduje skutočný objem prác podľa výkonov, vynaložené materiálové náklady, mzdové náklady, dane, poplatky a poistné, finančné náklady, ostatné priame náklady a celkové náklady na každý výkon, podiel réžie, úplné vlastné náklady a tržby vrátane výnosov, jednicové náklady (priame a úplné).
+
+    - c) Okruh spravodajských jednotiek
+
+    - Štátne podniky lesného hospodárstva, Štátne lesy TANAP-u, LPM, š. p., Ulič, vojenské lesy, školské lesy a lesy v pôsobnosti rezortu MH SR.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: ročná.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. 2. po sledovanom roku.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: MP SR.
+
+    - Orgán zabezpečujúci spracovanie: Lesoprojekt Zvolen.
+
+  - 158. Názov zisťovania: Ročný výkaz o práci v lesníctve
+
+    - Značka štatistického formulára: Les P (MP SR) 1–01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať základné informácie z oblasti ekonomiky práce, ktoré sú dôležité pri usmerňovaní mzdovej politiky v lesnom hospodárstve.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa výkonov v merných jednotkách, mzdových prostriedkov členených na úkolové a časové mzdy, prémie a odmeny a ostatné mzdové prostriedky, nákladov na mernú jednotku, počtu odpracovaných normohodín vo výkonoch, skutočne odpracovaných hodín v úkole a čase, priemerného plnenia výkonových noriem v %, hodinovej mzdy v Sk a produktivity práce podľa výkonov a činností.
+
+    - c) Okruh spravodajských jednotiek
+
+    - Štátne podniky lesného hospodárstva, Štátne lesy TANAP-u, LPM, š. p., Ulič, vojenské lesy, školské lesy a lesy v pôsobnosti rezortu MH SR.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: ročná.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. 1. po sledovanom roku.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: MP SR.
+
+    - Orgán zabezpečujúci spracovanie: Lesoprojekt Zvolen.
+
+  - 159. Názov zisťovania: Ročný výkaz o stave a využití mechanizačných prostriedkov v lesnom hospodárstve
+
+    - Značka štatistického formulára: Les S (MP SR) 1–01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať informácie, ktoré sa budú v plnom rozsahu využívať v rezortnom informačnom systéme pri vypracúvaní stratégie rozvoja lesného hospodárstva.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa stavu mechanizačných prostriedkov v organizačnej jednotke (inventárne, priemerné), počtu hodín v prevádzke, počtu kalendárnych dní k dispozícii a počtu odpracovaných dní mechanizačnými prostriedkami. Vo výkaze sa sleduje celkový výkon, prepravný výkon a priemerný výkon jednotlivých druhov mechanizačných prostriedkov pri ťažbe, približovaní, manipulácii, nakladaní a odvoze dreva. Ďalej sú to doplnkové technologické ukazovatele (ťažbovej a pestovnej činnosti) a vybrané ukazovatele mechanizácie prác v lesných škôlkach.
+
+    - c) Okruh spravodajských jednotiek
+
+    - Štátne podniky lesného hospodárstva, Štátne lesy TANAP-u, LPM, š. p., Ulič, vojenské lesy, školské lesy a lesy v pôsobnosti rezortu MH SR.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: ročná.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. 1. po sledovanom roku.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: MP SR.
+
+    - Orgán zabezpečujúci spracovanie: Lesoprojekt Zvolen.
+
+  - 160. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení
+
+    - Značka štatistického formulára: ON (MZ SR) 1n–01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať informácie o finančnom hospodárení a špecifických údajoch v neštátnych zdravotníckych zariadeniach. Výsledky zisťovania sa využijú na analytické účely štatistiky a pre potreby MZ SR.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa príjmov a výdavkov, počtu vyšetrení, počtu a využití postelí za jednotlivé nákladové strediská.
+
+    - c) Okruh spravodajských jednotiek
+
+    - Neštátne zdravotnícke zariadenia – právne subjekty (nemocnice, polikliniky, centrá atď.).
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: ročná.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. kalendárneho dňa po sledovanom období.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: MZ SR.
+
+    - Orgán zabezpečujúci spracovanie: ÚZIŠ v Bratislave.
+
+  - 161. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení (ambulancií)
+
+    - Značka štatistického formulára: ON (MZ SR) 2n–01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať informácie o finančnom hospodárení a o špecifických údajoch v neštátnych zdravotníckych zariadeniach. Výsledky zisťovania sa využijú na analytické účely štatistiky a pre potreby MZ SR.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa výdavkov podľa vybraných druhov, príjmov a doplnkových ukazovateľov za spravodajskú jednotku.
+
+    - c) Okruh spravodajských jednotiek
+
+    - Neštátne zdravotnícke zariadenia – právne subjekty (ambulancie).
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: ročná.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. kalendárneho dňa po sledovanom období.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: MZ SR.
+
+    - Orgán zabezpečujúci spracovanie: ÚZIŠ v Bratislave.
+
+  - 162. Názov zisťovania: Ročný výkaz o činnosti neurochirurgického oddelenia
+
+    - Značka štatistického formulára: L (MZ SR) 12–01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať informácie o výkonoch v neurochirurgických oddeleniach, o využití posteľového fondu a vzdelanostnej štruktúry v týchto oddeleniach.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa prehľadu o neurochirurgických oddeleniach v lôžkovej časti, o počte operácií a počte pacientov.
+
+    - c) Okruh spravodajských jednotiek
+
+    - Zdravotnícke zariadenia – právne subjekty.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: ročná.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 22. 1. nasledujúceho roka.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: MZ SR.
+
+    - Orgán zabezpečujúci spracovanie: ÚZIŠ v Bratislave.
+
+  - 163. Názov zisťovania: Ročný výkaz o činnosti oddelenia a ambulancie klinickej onkológie
+
+    - Značka štatistického formulára: L (MZ SR) 13–01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je získať informácie na vyhodnotenie činnosti oddelení a ambulancií klinickej onkológie.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa prehľadu o pracoviskách klinickej onkológie, pracovných miestach, prístrojovom vybavení a vyšetreniach v oddelení a v ambulancii klinickej onkológie.
+
+    - c) Okruh spravodajských jednotiek
+
+    - Zdravotnícke zariadenia – právne subjekty.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: ročná.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 22. 1. nasledujúceho roka.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: MZ SR.
+
+    - Orgán zabezpečujúci spracovanie: ÚZIŠ v Bratislave.

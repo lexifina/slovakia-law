@@ -2,187 +2,189 @@ Príloha č. 4 opatrenia Štatistického úradu Slovenskej republiky č. 29/1996
 
 - DLHODOBÉ ŠTATISTICKÉ ZISŤOVANIA ORGANIZOVANÉ A VYKONÁVANÉ ŠTATISTICKÝM ÚRADOM SLOVENSKEJ REPUBLIKY Prehľad zisťovaní
 
-- 1. Org 1-01 | Súborný list k ročnému závodnému zisťovaniu
+  - 1. Org 1-01 | Súborný list k ročnému závodnému zisťovaniu
 
-- | Časť A
+  - | Časť A
 
-- 2. Panel 1–96 | Štatistický dotazník o novovzniknutých podnikoch a podnikateľoch v rokoch 1990–1995
+  - 2. Panel 1–96 | Štatistický dotazník o novovzniknutých podnikoch a podnikateľoch v rokoch 1990–1995
 
-- 3. Poi P 5–01 | Ročný podnikový výkaz v poisťovníctve
+  - 3. Poi P 5–01 | Ročný podnikový výkaz v poisťovníctve
 
-- 4. Pen P 5–01 | Ročný podnikový výkaz v peòažníctve, v investičných spoločnostiach a v investičných fondoch
+  - 4. Pen P 5–01 | Ročný podnikový výkaz v peòažníctve, v investičných spoločnostiach a v investičných fondoch
 
-- 5. OŽP 1-01 | Ročný výkaz o pokutách uložených úradmi životného prostredia
+  - 5. OŽP 1-01 | Ročný výkaz o pokutách uložených úradmi životného prostredia
 
-- 6. OŽP 1a-01 | Ročný výkaz o pokutách uložených inšpektorátmi SIŽP
+  - 6. OŽP 1a-01 | Ročný výkaz o pokutách uložených inšpektorátmi SIŽP
 
-- 7. OŽP 2-01 | Ročný výkaz o chránených územiach
+  - 7. OŽP 2-01 | Ročný výkaz o chránených územiach
 
-- 8. OŽP 3-01 | Ročný výkaz o emisiách
+  - 8. OŽP 3-01 | Ročný výkaz o emisiách
 
-- 9. OŽP 3a-01 | Ročný výkaz o kvalite ovzdušia
+  - 9. OŽP 3a-01 | Ročný výkaz o kvalite ovzdušia
 
-- 10. OŽP 4-01 | Ročný výkaz o kvalite vody
+  - 10. OŽP 4-01 | Ročný výkaz o kvalite vody
 
-- 11. OŽP 4a-01 | Ročný výkaz o kvalite vody v jazerách a vodných nádržiach
+  - 11. OŽP 4a-01 | Ročný výkaz o kvalite vody v jazerách a vodných nádržiach
 
-- 12. OŽP 4b-01 | Ročný výkaz o havarijnom zhoršení akosti vôd
+  - 12. OŽP 4b-01 | Ročný výkaz o havarijnom zhoršení akosti vôd
 
-- 13. OŽP 5-01 | Ročný výkaz o zdravotnom stave lesov
+  - 13. OŽP 5-01 | Ročný výkaz o zdravotnom stave lesov
 
-- 14. OŽP 6-01 | Ročný výkaz o komunálnom odpade z obcí
+  - 14. OŽP 6-01 | Ročný výkaz o komunálnom odpade z obcí
 
-- 15. OŽP 7-01 | Ročný výkaz o faune a flóre
+  - 15. OŽP 7-01 | Ročný výkaz o faune a flóre
 
-- 16. OŽP 8-01 | Ročný výkaz o poľnohospodárskom pôdnom fonde
+  - 16. OŽP 8-01 | Ročný výkaz o poľnohospodárskom pôdnom fonde
 
-- 17. OŽP 9-01 | Ročný výkaz o poľovnej zveri
+  - 17. OŽP 9-01 | Ročný výkaz o poľovnej zveri
 
-- 18. OŽP 10-01 | Ročný výkaz o zaťažení obyvateľstva hlukom
+  - 18. OŽP 10-01 | Ročný výkaz o zaťažení obyvateľstva hlukom
 
-- 19. Ima 1-01 | Ročný výkaz o investičnom majetku
+  - 19. Ima 1-01 | Ročný výkaz o investičnom majetku
 
-- 20. Tech P 5–01 | Ročný podnikový výkaz vo vede a výskume
+  - 20. Tech P 5–01 | Ročný podnikový výkaz vo vede a výskume
 
-- 21. Tech P 6–01 | Ročný podnikový výkaz vo vede a výskume za rozpočtové organizácie, vysoké školy a iné nepodnikateľské organizácie
+  - 21. Tech P 6–01 | Ročný podnikový výkaz vo vede a výskume za rozpočtové organizácie, vysoké školy a iné nepodnikateľské organizácie
 
-- 22. Tech P 7–01 | Ročný podnikový výkaz o technickej úrovni výroby a technicko-hospodárskych ukazovateľoch
+  - 22. Tech P 7–01 | Ročný podnikový výkaz o technickej úrovni výroby a technicko-hospodárskych ukazovateľoch
 
-- 23. Tech P 8–01 | Ročný podnikový výkaz o certifikovaných výrobkoch a certifikovaných systémoch riadenia kvality
+  - 23. Tech P 8–01 | Ročný podnikový výkaz o certifikovaných výrobkoch a certifikovaných systémoch riadenia kvality
 
-- 24. Tech P 12–01 | Ročný výkaz malej organizácie vo vede a výskume
+  - 24. Tech P 12–01 | Ročný výkaz malej organizácie vo vede a výskume
 
-- 25. Tech Z 3–01 | Ročný výkaz závodnej jednotky vo vede a výskume
+  - 25. Tech Z 3–01 | Ročný výkaz závodnej jednotky vo vede a výskume
 
-- 26. Pod 1–01 | Výkaz o mzdách a finančných ukazovateľoch u podnikateľov nezapísaných v obchodnom registri
+  - 26. Pod 1–01 | Výkaz o mzdách a finančných ukazovateľoch u podnikateľov nezapísaných v obchodnom registri
 
-- 27. D 1–01 | Zisťovanie o počte pracujúcich dôchodcov
+  - 27. D 1–01 | Zisťovanie o počte pracujúcich dôchodcov
 
-- 28. ÚNP 1-01 | Výberové zisťovanie o úplných nákladoch práce
+  - 28. ÚNP 1-01 | Výberové zisťovanie o úplných nákladoch práce
 
-- 29. Práca 3–01 | Ročný výkaz o práci
+  - 29. Práca 3–01 | Ročný výkaz o práci
 
-- 30. Práca 4–01 | Ročný výkaz o mzdách vyplatených pracovníkom v rozpočtových a príspevkových organizáciách
+  - 30. Práca 4–01 | Ročný výkaz o mzdách vyplatených pracovníkom v rozpočtových a príspevkových organizáciách
 
-- 31. Mzdy 1–01 | Výberové zisťovanie o štruktúre miezd pracovníkov podľa povolania, veku a vzdelania
+  - 31. Mzdy 1–01 | Výberové zisťovanie o štruktúre miezd pracovníkov podľa povolania, veku a vzdelania
 
-- 32. Poľ HZ 1-01 | Súpis hospodárskych zvierat
+  - 32. Poľ HZ 1-01 | Súpis hospodárskych zvierat
 
-- 33. Poľ 1-01 | Ročný výkaz poľnohospodárskych organizácií o strojoch a zariadeniach
+  - 33. Poľ 1-01 | Ročný výkaz poľnohospodárskych organizácií o strojoch a zariadeniach
 
-- 34. Poľ P 5-01 | Ročný podnikový výkaz v poľnohospodárstve
+  - 34. Poľ P 5-01 | Ročný podnikový výkaz v poľnohospodárstve
 
-- 35. Poľ 6-01 | Ročný výkaz o rastlinnej výrobe
+  - 35. Poľ 6-01 | Ročný výkaz o rastlinnej výrobe
 
-- 36. Poľ P 12-01 | Ročný výkaz malej organizácie v poľnohospodárstve
+  - 36. Poľ P 12-01 | Ročný výkaz malej organizácie v poľnohospodárstve
 
-- 37. Poľ Z 3-01 | Ročný výkaz závodnej jednotky v poľnohospodárstve
+  - 37. Poľ Z 3-01 | Ročný výkaz závodnej jednotky v poľnohospodárstve
 
-- 38. Ryb 1-01 | Ročný výkaz o výlove rýb
+  - 38. Ryb 1-01 | Ročný výkaz o výlove rýb
 
-- 39. Les 4–02 | Polročný výkaz o reprivatizácii lesov
+  - 39. Les 4–02 | Polročný výkaz o reprivatizácii lesov
 
-- 40. Les P 5–01 | Ročný podnikový výkaz v lesníctve
+  - 40. Les P 5–01 | Ročný podnikový výkaz v lesníctve
 
-- 41. Les P 12–01 | Ročný výkaz malej organizácie v lesníctve
+  - 41. Les P 12–01 | Ročný výkaz malej organizácie v lesníctve
 
-- 42. Les Z 3–01 | Ročný výkaz závodnej jednotky v lesníctve
+  - 42. Les Z 3–01 | Ročný výkaz závodnej jednotky v lesníctve
 
-- 43. Vod Z 1–01 | Ročný výkaz závodnej jednotky o správe, prevádzke a údržbe vodovodov a kanalizácií
+  - 43. Vod Z 1–01 | Ročný výkaz závodnej jednotky o správe, prevádzke a údržbe vodovodov a kanalizácií
 
-- 44. Vod 1a-01 | Ročný výkaz o správe, prevádzke a údržbe vodovodov a kanalizácií v správe obecného úradu
+  - 44. Vod 1a-01 | Ročný výkaz o správe, prevádzke a údržbe vodovodov a kanalizácií v správe obecného úradu
 
-- 45. Vod Z 2–01 | Ročný výkaz závodnej jednotky o správe a prevádzke vodných tokov a vodných diel
+  - 45. Vod Z 2–01 | Ročný výkaz závodnej jednotky o správe a prevádzke vodných tokov a vodných diel
 
-- 46. Priem P 5–01 | Ročný podnikový výkaz priemyselnej organizácie
+  - 46. Priem P 5–01 | Ročný podnikový výkaz priemyselnej organizácie
 
-- 47. Priem P 12–01 | Ročný výkaz malej organizácie v priemysle
+  - 47. Priem P 12–01 | Ročný výkaz malej organizácie v priemysle
 
-- 48. Priem Z 3–01 | Ročný výkaz závodnej jednotky v priemysle
+  - 48. Priem Z 3–01 | Ročný výkaz závodnej jednotky v priemysle
 
-- 49. Stav P 5–01 | Ročný podnikový výkaz v stavebníctve
+  - 49. Stav P 5–01 | Ročný podnikový výkaz v stavebníctve
 
-- 50. Stav P 12–01 | Ročný výkaz malej organizácie v stavebníctve
+  - 50. Stav P 12–01 | Ročný výkaz malej organizácie v stavebníctve
 
-- 51. Stav Z 3–01 | Ročný výkaz závodnej jednotky v stavebníctve
+  - 51. Stav Z 3–01 | Ročný výkaz závodnej jednotky v stavebníctve
 
-- 52. VTS P 5–01 | Ročný podnikový výkaz organizácie poskytujúcej vybrané trhové služby
+  - 52. VTS P 5–01 | Ročný podnikový výkaz organizácie poskytujúcej vybrané trhové služby
 
-- 53. VTS P 12–01 | Ročný výkaz malej organizácie poskytujúcej vybrané trhové služby
+  - 53. VTS P 12–01 | Ročný výkaz malej organizácie poskytujúcej vybrané trhové služby
 
-- 54. VTS Z 3–01 | Ročný výkaz závodnej jednotky poskytujúcej vybrané trhové služby
+  - 54. VTS Z 3–01 | Ročný výkaz závodnej jednotky poskytujúcej vybrané trhové služby
 
-- 55. OPU P 5–01 | Ročný podnikový výkaz v obchode, pohostinstve a v ubytovaní
+  - 55. OPU P 5–01 | Ročný podnikový výkaz v obchode, pohostinstve a v ubytovaní
 
-- 56. OPU P 6–01 | Ročný výkaz o činnosti cestovných kancelárií a cestovných dopravcov a o iných turistických službách
+  - 56. OPU P 6–01 | Ročný výkaz o činnosti cestovných kancelárií a cestovných dopravcov a o iných turistických službách
 
-- 57. OPU P 8–01 | Ročný výkaz o sieti maloobchodu a pohostinstva
+  - 57. OPU P 8–01 | Ročný výkaz o sieti maloobchodu a pohostinstva
 
-- 58. OPU P 12–01 | Ročný výkaz malej organizácie v obchode, pohostinstve a v ubytovaní
+  - 58. OPU P 12–01 | Ročný výkaz malej organizácie v obchode, pohostinstve a v ubytovaní
 
-- 59. OPU Z 3–01 | Ročný výkaz závodnej jednotky v obchode, pohostinstve a v ubytovaní
+  - 59. OPU Z 3–01 | Ročný výkaz závodnej jednotky v obchode, pohostinstve a v ubytovaní
 
-- 60. Sub 1-01 | Ročný výkaz za súkromných podnikateľov nezapísaných v obchodnom registri poskytujúcich ubytovacie služby
+  - 60. Sub 1-01 | Ročný výkaz za súkromných podnikateľov nezapísaných v obchodnom registri poskytujúcich ubytovacie služby
 
-- 61. Súkr 1-01 | Ročný výkaz súkromných podnikateľov nezapísaných v obchodnom registri
+  - 61. Súkr 1-01 | Ročný výkaz súkromných podnikateľov nezapísaných v obchodnom registri
 
-- 62. Dop P 5–01 | Ročný podnikový výkaz v doprave
+  - 62. Dop P 5–01 | Ročný podnikový výkaz v doprave
 
-- 63. Dop P 6–01 | Ročný podnikový výkaz o nákladnej a kombinovanej doprave
+  - 63. Dop P 6–01 | Ročný podnikový výkaz o nákladnej a kombinovanej doprave
 
-- 64. Dop P 7–01 | Ročný podnikový výkaz v železničnej doprave
+  - 64. Dop P 7–01 | Ročný podnikový výkaz v železničnej doprave
 
-- 65. Dop P 8–01 | Ročný podnikový výkaz v lodnej doprave
+  - 65. Dop P 8–01 | Ročný podnikový výkaz v lodnej doprave
 
-- 66. Dop P 9–01 | Ročný podnikový výkaz v leteckej doprave
+  - 66. Dop P 9–01 | Ročný podnikový výkaz v leteckej doprave
 
-- 67. Dop P 10–01 | Ročný podnikový výkaz v potrubnej doprave
+  - 67. Dop P 10–01 | Ročný podnikový výkaz v potrubnej doprave
 
-- 68. Dop P 11–01 | Ročný podnikový výkaz o sieti diaľnic
+  - 68. Dop P 11–01 | Ročný podnikový výkaz o sieti diaľnic
 
-- 69. Dop P 12–01 | Ročný výkaz malej organizácie v doprave
+  - 69. Dop P 12–01 | Ročný výkaz malej organizácie v doprave
 
-- 70. Dop Z 3–01 | Ročný výkaz závodnej jednotky v doprave
+  - 70. Dop Z 3–01 | Ročný výkaz závodnej jednotky v doprave
 
-- 71. Spoj P 5–01 | Ročný podnikový výkaz v spojoch
+  - 71. Spoj P 5–01 | Ročný podnikový výkaz v spojoch
 
-- 72. Spoj Z 3–01 | Ročný výkaz závodnej jednotky v spojoch
+  - 72. Spoj Z 3–01 | Ročný výkaz závodnej jednotky v spojoch
 
-- 73. Kult 7–01 | Ročný výkaz o rozhlasovom vysielaní
+  - 73. Kult 7–01 | Ročný výkaz o rozhlasovom vysielaní
 
-- 74. Kult 8–01 | Ročný výkaz o televíznom vysielaní
+  - 74. Kult 8–01 | Ročný výkaz o televíznom vysielaní
 
-- 75. Nem Úr 1–02 | Polročný výkaz o pracovnej neschopnosti pre chorobu a úraz
+  - 75. Nem Úr 1–02 | Polročný výkaz o pracovnej neschopnosti pre chorobu a úraz
 
-- 76. Soc 1-01 | Ročný výkaz o zariadeniach sociálnej starostlivosti
+  - 76. Soc 1-01 | Ročný výkaz o zariadeniach sociálnej starostlivosti
 
-- 77. Zdp 1-01 | Ročný výkaz zdravotnej poisťovne
+  - 77. Zdp 1-01 | Ročný výkaz zdravotnej poisťovne
 
-- 78. Fz 1–01 | Ročný výkaz Fondu zamestnanosti SR
+  - 78. Fz 1–01 | Ročný výkaz Fondu zamestnanosti SR
 
-- 79. Socp 1-01 | Ročný výkaz sociálnej poisťovne
+  - 79. Socp 1-01 | Ročný výkaz sociálnej poisťovne
 
-- 80. NSRO 1-01 | Ročný výkaz rozpočtových organizácií
+  - 80. NSRO 1-01 | Ročný výkaz rozpočtových organizácií
 
-- 81. NSROPO 1-01 | Ročný výkaz príspevkových organizácií a rozpočtových organizácií za hospodársku činnosť
+  - 81. NSROPO 1-01 | Ročný výkaz príspevkových organizácií a rozpočtových organizácií za hospodársku činnosť
 
-- 82. NSNO 1-01 | Ročný výkaz nezárobkových organizácií
+  - 82. NSNO 1-01 | Ročný výkaz nezárobkových organizácií
 
-- 83. Energ P 1–01 | Ročný podnikový výkaz o zdrojoch a rozdelení palív
+  - 83. Energ P 1–01 | Ročný podnikový výkaz o zdrojoch a rozdelení palív
 
-- 84. Energ P 2–01 | Ročný podnikový výkaz o energetických procesoch zušľachťovania palív
+  - 84. Energ P 2–01 | Ročný podnikový výkaz o energetických procesoch zušľachťovania palív
 
-- 85. Energ P 3–01 | Ročný podnikový výkaz o spotrebe palív a energie na výrobu vybraných výrobkov
+  - 85. Energ P 3–01 | Ročný podnikový výkaz o spotrebe palív a energie na výrobu vybraných výrobkov
 
-- 86. Energ P 4–01 | Ročný podnikový výkaz o výrobe elektrickej a tepelnej energie
+  - 86. Energ P 4–01 | Ročný podnikový výkaz o výrobe elektrickej a tepelnej energie
 
-- 87. Energ P 5–01 | Ročný podnikový výkaz maloobchodu s tuhými palivami
+  - 87. Energ P 5–01 | Ročný podnikový výkaz maloobchodu s tuhými palivami
 
-- 88. ŠIS 1-01 | Ročný výkaz o stave informatizácie štátnych orgánov
+  - 88. ŠIS 1-01 | Ročný výkaz o stave informatizácie štátnych orgánov
 
-- 89. ŠIS 2-01 | Ročný výkaz o informačných systémoch štátneho informačného systému
+  - 89. ŠIS 2-01 | Ročný výkaz o informačných systémoch štátneho informačného systému
 
-- 90. MOŠ-MIS 1-01 | Ročný výkaz o vybraných ukazovateľoch regionálnej štatistiky
+  - 90. MOŠ-MIS 1-01 | Ročný výkaz o vybraných ukazovateľoch regionálnej štatistiky
+
+  - 91. VÝROBKY | Jednorazové zisťovanie o výrobnej štruktúre priemyselných podnikov
 
   - Charakteristiky zisťovaní
 
@@ -3061,6 +3063,38 @@ Príloha č. 4 opatrenia Štatistického úradu Slovenskej republiky č. 29/1996
     - Periodicita zisťovania: ročná.
 
     - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. 4. nasledujúceho roka.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad SR.
+
+    - Orgán zabezpečujúci spracovanie: Štatistický úrad SR.
+
+  - 91. Názov zisťovania: Jednorazové zisťovanie o výrobnej štruktúre priemyselných podnikov
+
+    - Značka štatistického formulára: VÝROBKY
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom zisťovania je zistiť štruktúru výroby v priemyselných podnikoch podľa nového zoznamu PRIEMPROD pri prechode zo starého klasifikačného systému založeného na báze JKPOV. Údaje sa využijú na dopracovanie navrhovaného zoznamu z hľadiska národných špecifík, na aplikáciu nového spôsobu výpočtu indexu priemyselnej produkcie, na vytvorenie databázy údajov o výrobnej štruktúre podnikov, ktorá bude slúžiť na generovanie výkazov výrobkovej štatistiky.
+
+    - b) Vecná (obsahová) charakteristika štatistického zisťovania vrátane štatistických ukazovateľov
+
+    - Druh štatistického zisťovania: výkaz.
+
+    - Použitá metóda: vyčerpávajúce zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa výroby výrobkov podľa pripravovaného zoznamu PRIEMPROD.
+
+    - c) Okruh spravodajských jednotiek
+
+    - Spravodajskú povinnosť pre jednotlivé zisťovania stanoví spravodajským jednotkám definovaným v § 2 písm. c) zákona SNR č. 322/1992 Zb. o štátnej štatistike Štatistický úrad SR na základe vymedzených kritérií (OKEČ, počet pracovníkov a iné).
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita zisťovania: jednorazovo.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: september až október sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
