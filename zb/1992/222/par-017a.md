@@ -1,6 +1,6 @@
 # § 17a Ustanovenie daňovej povinnosti u platiteľov, ktorí nakupujú tovar za účelom jeho ďalšieho predaja v nezmenenom stave
 
-(1) Spôsob ustanovenia daňovej povinnosti uvedený v ďalších odsekoch tohto paragrafu môžu použiť iba platitelia, ktorí nakupujú tovar za účelom jeho ďalšieho predaja v nezmenenom stave v tuzemsku.
+(1) Spôsob výpočtu dane uvedený v odsekoch 2 až 4 môže použiť iba platiteľ, ktorý nakupuje tovar za účelom jeho ďalšieho predaja v nezmenenom stave a nevzťahuje sa na neho povinnosť vedenia evidencie tržieb podľa osobitného predpisu.<sup>13a</sup>)
 
 (2) Platiteľ je povinný oznámiť použitie tohto spôsobu ustanovenia dane písomne finančnému orgánu a súčasne je povinný tento spôsob používať minimálne jeden kalendárny rok, a to od 1. januára roka nasledujúceho roku po roku, v ktorom oznámil finančnému orgánu použitie tohto spôsobu ustanovenia dane. Pokiaľ sa platiteľ rozhodne tento spôsob už nepoužívať, môže tak urobiť iba od 1. januára roka nasledujúceho po roku keď toto svoje rozhodnutie oznámil finančnému orgánu. V prípade začatia zdaniteľných plnení v priebehu kalendárneho roka je platiteľ povinný oznámiť použitie tohto spôsobu ustanovenia dane písomne finančnému orgánu a súčasne je povinný tento spôsob používať do konca roka, v ktorom začal zdaniteľné plnenia, a celý nasledujúci kalendárny rok.
 
