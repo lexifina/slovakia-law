@@ -1,1 +1,0 @@
-- 1) Uveřejněno v roč. III., č. 2 Úředního věstníku československého, vydaného v Londýně dne 20. července 1942.
