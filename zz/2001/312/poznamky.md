@@ -46,6 +46,8 @@
 
 - 20) § 26 zákona č. 351/1997 Z. z.
 
+- 20a) § 2 zákona č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
+
 - 22a) Napríklad zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov a zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore.
 
 - 21) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
