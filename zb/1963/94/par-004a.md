@@ -8,4 +8,4 @@
 
 (3) Ak život toho, kto chce uzavrieť manželstvo cirkevnou formou, je priamo ohrozený, môže sa manželstvo uzavrieť na ktoromkoľvek vhodnom mieste.
 
-(4) Orgán cirkvi, pred ktorým došlo k uzavretiu manželstva, je povinný bezodkladne doručiť zápisnicu o uzavretí manželstva s uvedením skutočnosti podľa osobitných predpisov<sup>2</sup>) príslušnému orgánu poverenému vedením matriky, v obvode ktorého sa uzavrelo manželstvo.<sup>3</sup>)
+(4) Orgán cirkvi, pred ktorým došlo k uzavretiu manželstva, je povinný bezodkladne doručiť zápisnicu o uzavretí manželstva s uvedením skutočnosti podľa osobitných predpisov<sup>2</sup>) matričnému úradu, v obvode ktorého sa uzavrelo manželstvo.<sup>3</sup>)
