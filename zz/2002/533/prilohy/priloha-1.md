@@ -1,1 +1,0 @@
-Príloha č. 1 k vyhláške č. 533/2002 Z. z. [Vzor 01- Informácie o skutočnom stave majetku štátu (Rozpočtová organizácia, príspevková organizácia, štátny fond, Slovenský pozemkový fond a iná právnická osoba)](../assets/bf22774732ded5884e78b0480e72e337682ceb7a873285f2cbd311f64244deef.pdf)

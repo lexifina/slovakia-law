@@ -1,1 +1,0 @@
-Príloha č. 4 k vyhláške č. 533/2002 Z. z. [Vzor 04 - Informácie o skutočnom stave majetku štátu (Sociálna poisťovňa, Národný úrad práce a zdravotná poisťovňa)](../assets/d8b7afe1e64a5b1a823e7146938084fb5538148f67a17dd7c481f43a520890a6.pdf)
