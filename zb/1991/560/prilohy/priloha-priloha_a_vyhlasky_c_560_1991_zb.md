@@ -66,7 +66,9 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 0806 10 | hrozno čerstvé | | tona
 
-- 1001 | pšenica | | tona
+- 0808 10 | jablká čerstvé | | tona
+
+- 7304-7306 | oceľové rúrky | | tona
 
 - 1002 | raz | | tona
 
