@@ -722,7 +722,7 @@ Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa priemerné
 
 c) Okruh spravodajských jednotiek
 
-Cielene vybrané podnikateľské subjekty zo všetkých odvetví zapísané v obchodnom registri.
+Cielene vybrané subjekty zo všetkých odvetví vrátane rozpočtových, príspevkových a spoločenských organizácií.
 
 d) Periodicita a lehoty na poskytovanie štatistických údajov
 
