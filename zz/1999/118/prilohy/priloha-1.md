@@ -1,4 +1,4 @@
-Príloha k vyhláške č. 118/1999 Z. z.
+Príloha č. 1 k vyhláške č. 118/1999 Z. z.
 
 - ZOZNAM položiek tovaru obchodného charakteru, na ktoré sa neuplatňuje dovozná prirážka Kód colného sadzobníka | Názov tovaru
 
@@ -14,7 +14,7 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 0402 29 11 | Špeciálne mlieka pre dojčatá v hermeticky uzatvorených nádobách s netto obsahom nie väčším ako
 
-- &nbsp | 500 g, s obsahom tuku väčším ako 10 % hmotnosti
+- | 500 g, s obsahom tuku väčším ako 10 % hmotnosti
 
 - 0901 11 00 | Nepražená káva s kofeínom
 
@@ -26,17 +26,17 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 2009 11 až | Ovocné šťavy neskvasené, bez prídavku alkoholu, tie s prísadou cukru alebo iných sladidiel
 
-- 2009 40 | &nbsp
+- 2009 40 |
 
 - 2301 | Múčka, drvina a pelety z mäsa, drobov, rýb alebo z kôrovcov, mäkkýšov, alebo z iných vodných
 
-- &nbsp | bezstavovcov, nespôsobilé na ľudskú výživu; škvarky
+- | bezstavovcov, nespôsobilé na ľudskú výživu; škvarky
 
 - 2304 00 00 | Pokrutiny a iný pevný odpad, tie rozdrvené alebo vo forme peliet, po extrahovaní sójového oleja
 
 - 2501 00 31 | Kuchynská soľ (vrátane stolovej soli a denaturovanej soli) a čistý chlorid sodný, tiež rozpustený, na
 
-- &nbsp | chemickú reakciu (separácia Na od Cl) na výrobu iných výrobkov
+- | chemickú reakciu (separácia Na od Cl) na výrobu iných výrobkov
 
 - 2503 00 | Síra všetkých druhov, iná ako sublimovaná, zrážaná a koloidná
 
@@ -46,13 +46,13 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 2506 | Kremeň (okrem prírodného piesku); kremenec surový alebo nahrubo okresaný, alebo rozrezaný pílou,
 
-- &nbsp | alebo inak na bloky alebo dosky pravouhlého (vrátane štvorcového) tvaru
+- | alebo inak na bloky alebo dosky pravouhlého (vrátane štvorcového) tvaru
 
 - 2507 | Kaolín a iné kaolínové íly, tie kalcinované
 
 - 2508 | Ostatné íly (okrem expandovaných ílov čísla 6806), andaluzit, kyanit a sillimanit, tie kalcinované; mullit
 
-- &nbsp | alebo dinasové hliny
+- | alebo dinasové hliny
 
 - 2529 21 00 | Kazivec obsahujúci nie viac ako 97 % hmotnosti fluoridu vápenatého
 
@@ -60,7 +60,7 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 2602 00 00 | Mangánové rudy a ich koncentráty, vrátane železonosných mangánových rúd a koncentrátov s obsahom
 
-- &nbsp | 20 % mangánu alebo väčším, počítané na suchú hmotnosť
+- | 20 % mangánu alebo väčším, počítané na suchú hmotnosť
 
 - 2603 00 00 | Medené rudy a ich koncentráty
 
@@ -80,7 +80,7 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 2712 | Vazelína; parafín, mikrokryštalický (ropný) vosk, parafínový gáč, ozokerit, montánny vosk, rašelinový
 
-- &nbsp | vosk, ostatné minerálne a podobné výrobky získané synteticky alebo iným spôsobom, tie farbené
+- | vosk, ostatné minerálne a podobné výrobky získané synteticky alebo iným spôsobom, tie farbené
 
 - 2716 00 00 | Elektrická energia
 
@@ -96,39 +96,47 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 2836 20 00 | Uhličitan sodný
 
+- 2844 40 20 | Umelé rádioaktívne izotopy – len na zdravotnícke účely
+
+- 2844 40 30 | Zlúčeniny umelých rádioaktívnych izotopov - len na zdravotnícke účely
+
+- 2844 40 80 | Ostatné - len na zdravotnícke účely
+
+- 30 | Farmaceutické výrobky
+
 - 3816 00 00 | Ohňovzdorné cementy, malty, betóny a podobné zmesi, iné ako výrobky PHS 3801
 
 - 4001 | Prírodný kaučuk, balata, gutaperča, guajal, chicle a podobné prírodné kaučuky, v primárnych formách
 
-- &nbsp | alebo v platniach, listoch alebo v pásoch
+- | alebo v platniach, listoch alebo v pásoch
 
 - 4002 | Synteticky kaučuk a faktis odvodený z olejov, v primárnych formách alebo v platniach, listoch či
 
-- &nbsp | pásoch; zmesi výrobkov PHS 4001 s výrobkami tohto čísla, v primárnych formách alebo v platniach,
+- | pásoch; zmesi výrobkov PHS 4001 s výrobkami tohto čísla, v primárnych formách alebo v platniach,
 
-- &nbsp | listoch či pásoch
+- | listoch či pásoch
 
 - 4003 00 00 | Regenerovaný kaučuk, v primárnych formách alebo v platniach, listoch alebo pásoch
 
 - 4101 | Surové kože z hovädzieho dobytka alebo z koní a iných nepárnokopytníkov (čerstvé alebo solené, sušené,
 
-- &nbsp | vápnené, piklované alebo inak konzervované, ale nevyčinené, nespracované na pergamen ani inak
+- | vápnené, piklované alebo inak konzervované, ale nevyčinené, nespracované na pergamen ani inak
 
-- &nbsp | neupravené), tie odchlpené alebo štiepané
+- | neupravené), tie odchlpené alebo štiepané
 
 - 4103 | Ostatné surové kože (čerstvé alebo solené, sušené, vápnené, piklované alebo inak konzervované, ale
 
-- &nbsp | nevyčinené, nespracované na pergamen ani inak neupravené), tie odchlpené alebo štiepané, iné ako
+- | nevyčinené, nespracované na pergamen ani inak neupravené), tie odchlpené alebo štiepané, iné ako
 
-- &nbsp | vylúčené poznámkou 1b) alebo 1c) z kapitoly 41 colného sadzobníka
+- | vylúčené poznámkou Ib) alebo Ic) z kapitoly 41 colného sadzobníka
 
 - 4501 | Prírodný korok, surový alebo jednoducho upravený; korkový odpad; rozdrvený, granulovaný alebo
 
-- &nbsp | zomletý korok
+- | zomletý korok
 
 - 4502 00 00 | Prírodný korok, odkôrnený alebo jednoducho nahrubo otesaný, alebo v pravouhlých (aj štvorcových)
 
-- &nbsp | kockách, doskách, listoch alebo pásoch (vrátane polotovarov s ostrými hranami určených na zátky)
+- | kockách, doskách, listoch alebo pásoch (vrátane polotovarov s ostrými hranami určených na zátky)
 
 - 5101 | Vlna, nemykaná ani nečesaná
 
@@ -138,31 +146,31 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 5301 | Ľan, surový alebo spracovaný, ale nespradený; ľanová kúdeľ a ľanový odpad (vrátane odpadu z priadze
 
-- &nbsp | a trhaného materiálu)
+- | a trhaného materiálu)
 
 - 5302 | Pravé konope (Canabis sativa L.), surové alebo spracované, ale nespradené; kúdeľ a odpad z pravých
 
-- &nbsp | konopí (vrátane odpadu z priadze a trhaného materiálu)
+- | konopí (vrátane odpadu z priadze a trhaného materiálu)
 
 - 5303 | Juta a iné textilné lykové vlákna (s výnimkou ľanu, pravých konopí a ramie), surové, spracované, ale
 
-- &nbsp | nespradené; kúdeľ a odpad z týchto vláken (vrátane odpadu z priadze a trhaného materiálu)
+- | nespradené; kúdeľ a odpad z týchto vláken (vrátane odpadu z priadze a trhaného materiálu)
 
 - 5304 | Sisalové a iné textilné vlákna rodu Agáve, surové alebo spracované, ale nespradené; kúdeľ a odpad
 
-- &nbsp | z týchto vláken (vrátane odpadu z priadze a trhaného materiálu)
+- | z týchto vláken (vrátane odpadu z priadze a trhaného materiálu)
 
 - 6902 | Žiaruvzdorné tehly, kamene, dosky, dlaždice, obkladačky a podobné žiaruvzdorné keramické stavebni-
 
-- &nbsp | ny, iné ako výrobky z kremičitých fosílnych múčok alebo podobných kremičitých hliniek
+- | ny, iné ako výrobky z kremičitých fosílnych múčok alebo podobných kremičitých hliniek
 
 - 7004 | Ploché sklo ťahané alebo fúkané, tiež s absorbentom, reflexnou alebo nereflexnou vrstvou, inak
 
-- &nbsp | nespracované
+- | nespracované
 
 - 7005 | Tabuľové sklo plavené a tabuľové sklo na povrchu matné alebo leštené, s absorbentom, reflexnou alebo
 
-- &nbsp | nereflexnou vrstvou, inak nespracované
+- | nereflexnou vrstvou, inak nespracované
 
 - 7201 | Surové železo a vysokopecná zrkadlovina v bochníkoch, v blokoch alebo iných základných tvaroch
 
@@ -184,12 +192,12 @@ Príloha k vyhláške č. 118/1999 Z. z.
 
 - 9018 | Lekárske, chirurgické, zubolekárske alebo zverolekárske nástroje a prístroje vrátane scintigrafických
 
-- &nbsp | prístrojov, ostatné elektroliečebné prístroje, ako aj prístroje na skúšanie zraku
+- | prístrojov, ostatné elektroliečebné prístroje, ako aj prístroje na skúšanie zraku
 
 - 9021 | Ortopedické pomôcky a prístroje, vrátane bariel, liečebných a chirurgických pásov a bandáží; dlahy a
 
-- &nbsp | iné potreby a prístroje na liečenie zlomenín; protézové pomôcky; prístroje pre nedoslýchavých a iné
+- | iné potreby a prístroje na liečenie zlomenín; protézové pomôcky; prístroje pre nedoslýchavých a iné
 
-- &nbsp | prístroje nosené v ruke alebo na tele alebo implantované v organizme, na kompenzovanie následkov
+- | prístroje nosené v ruke alebo na tele alebo implantované v organizme, na kompenzovanie následkov
 
-- &nbsp | nejakej chyby alebo neschopnosti
+- | nejakej chyby alebo neschopnosti
