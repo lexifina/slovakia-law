@@ -34,8 +34,6 @@
 
 - *) Vyhláška Štátnej banky československej č. 372/1953 Ú. l. (č. 419/1953 Ú. v.) o príkazoch na vybratie.
 
-- **) Smernice č. 170/1956 Ú. l. (Ú. v.).
-
 - ***) Napr. v nabehnutých nákladoch namiesto podľa plánovanej kalkulácie.
 
 - †) Okrem toho je dodávateľ povinný zaplatiť oprávnenej organizácii príp. poplatok z omeškania podľa § 378 ods. 2 písm. b) Hospodárskeho zákonníka.
