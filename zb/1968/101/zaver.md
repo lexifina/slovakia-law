@@ -1,0 +1,3 @@
+Minister:
+
+Borůvka v. r.
