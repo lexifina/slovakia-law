@@ -2056,12 +2056,6 @@ Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
 
 28 Sústruženie vonkajšej guľovej plochy s presnosťou IT 9.
 
-05.3.31. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie z okruhu požiarnej ochrany:
-
-01 Riziková práca pri zdolávaní mimoriadnych udalostí a záchrana osôb pomocou technických prostriedkov a záchranárskych prostriedkov vrátane ich obsluhy (napr. izolačný dýchací prístroj, zásahový oblek) a zabezpečovanie potrebného spojenia predpísaným spôsobom pomocou telefónneho a rádiového spojenia počas zásahu i mimo neho.
-
-02 Vedenie a obsluha požiarnych automobilov a inej špeciálnej techniky, starostlivosť o zverené technické prostriedky, výzbroj a výstroj.
-
 06. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: úplné stredné vzdelanie.
@@ -2102,12 +2096,6 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie.
 
 15 Usmerňovanie a vykonávanie prác podľa prevádzkového poriadku na vodovodných systémoch vrátane kontroly, montáže a uvádzania sietí do prevádzky.
 
-06.4.31. Pracovné činnosti vyžadujúce úplné stredné vzdelanie z okruhu požiarnej ochrany:
-
-01 Riziková práca pri zdolávaní mimoriadnych udalostí a záchrana osôb v ochranných oblekoch, pomocou špeciálnej požiarnej techniky a vyslobodzovacej techniky (napr. výsuvný automobilový rebrík, evakuačné zariadenie a záchranárske zariadenie).
-
-02 Vedenie, obsluha, oprava a údržba zásahovej požiarnej techniky, záchranárskej techniky a vecných prostriedkov požiarnej ochrany.
-
 07. PLATOVÁ TRIEDA
 
 Kvalifikačné predpoklady: úplné stredné vzdelanie.
@@ -2121,12 +2109,6 @@ Kvalifikačné predpoklady: úplné stredné vzdelanie.
 03 Elektroiskrové obrábanie vodiacej dosky (tvarové diery a tvary lícovať s príslušnými razníkmi) s presnosťou IT 5 vrátane nastavenia stroja s CNC systémom.
 
 04 Sústruženie osemnásobne osadeného povrchu zápichov a dvojchodového modulového závitu závitovkového hriadeľa s presnosťou IT 5 na hrotovom sústruhu.
-
-07.4.31. Pracovné činnosti vyžadujúce úplné stredné vzdelanie z okruhu požiarnej ochrany:
-
-01 Najzložitejšia riziková práca pri zdolávaní mimoriadnych udalostí, záchranná práca, vyslobodzovacia práca a evakuačná práca s použitím špeciálnej vyslobodzovacej techniky, oživovacej techniky, detekčnej techniky a hasiacej techniky (napr. detektor plynov a pár, oživovacia technika); vykonávanie práce pod vodnou hladinou, vo výškach, nad voľnou hĺbkou a pod.
-
-02 Špecializovaná technická práca a odborné služby požiarnej ochrany na mieste zásahu.
 
 17. ŠKOLSTVO A TELOVÝCHOVA
 
@@ -2161,6 +2143,16 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 04.2.01. Pracovné činnosti vyžadujúce stredné vzdelanie:
 
 01 Inštalovanie a technická obsluha simultánnej techniky pri organizovaní seminárov, obsluha audiovizuálnych a reprografických pomôcok vrátane bežnej údržby a vedenia príslušného kabinetu vo vzdelávacom zariadení.
+
+02 Odborná sklárska práca, napr. na sklárskych kahancoch, so zameraním na špeciálne laboratórne sklo (Sial, Simax, kremenné sklo).
+
+05. PLATOVÁ TRIEDA
+
+Kvalifikačné predpoklady: stredné vzdelanie alebo úplné stredné vzdelanie.
+
+05.3.01. Pracovné činnosti vyžadujúce stredné vzdelanie alebo úplné stredné vzdelanie:
+
+01 Zhotovovanie sklených aparatúr, zariadení alebo ich súčastí s uplatnením špeciálnej sklárskej technológie.
 
 19. VNÚTRO - ARCHÍVNICTVO
 
@@ -2215,6 +2207,8 @@ Kvalifikačné predpoklady: stredné vzdelanie.
 05 Pomocná a obslužná práca v zdravotníckych zariadeniach spojená s prípravou operačného inštrumentária a pomôcok na sterilizáciu, zostavovanie súprav sterilných nástrojov pre oddelenia, výdaj sterilného materiálu, obsluha prístrojovej techniky na umývanie, pranie, sušenie a výrobu destilovanej vody.
 
 06 Príprava pomôcok alebo špeciálneho zdravotníckeho materiálu v sadrovniach, asistencia lekárovi pri fixácii končatín a prevoz nepohyblivých pacientov na lôžkovú časť príslušného oddelenia.
+
+07 Preberanie rôznych druhov dôchodkov hospitalizovaných pacientov na pošte a ich odovzdávanie hospitalizovaným pacientom vykonávané zamestnancom s hmotnou zodpovednosťou.
 
 04. PLATOVÁ TRIEDA
 

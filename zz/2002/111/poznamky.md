@@ -1,6 +1,6 @@
 - 1) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 2) Vyhláška Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti.
+- 2) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení.
 
 - 3) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -17,6 +17,8 @@
 - 8) Zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
+
+- 9a) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
 - 10) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení neskorších predpisov.
 
@@ -69,5 +71,7 @@
 - 34) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 95/1997 Z. z. o výcviku žiadateľov o vodičské oprávnenie, o doškoľovacom kurze držiteľov vodičského oprávnenia, o výcviku žiadateľov o inštruktorské oprávnenie a o doškoľovacom kurze inštruktorov.
 
 - 35) Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 68/1985 Zb. o doplňujúcom štúdiu študentov vysokých škôl a absolventov vysokých a stredných škôl na získanie pedagogickej spôsobilosti.
+
+- 35a) Zákon č. 103/2003 Z. z., ktorým sa mení a dopĺňa zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov a o zmene a doplnení niektorých zákonov.
 
 - 36) Zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 141/2000 Z. z., ktorou sa vykonáva geologický zákon.
