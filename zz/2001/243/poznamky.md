@@ -74,18 +74,84 @@
 
 - 33) STN EN 60945, ITU-R 693.
 
-- 1) Obež. MSC 809 sa použije, len ak sa zariadenie má nainštalovať na ro-ro lodiach určených na prepravu cestujúcich.
+- 35) STN EN 60945 (1997), STN EN 61162.
 
-- 2) Obež. MSC 810 sa použije, len ak sa zariadenie má nainštalovať na ro-ro lodiach určených na prepravu cestujúcich.
+- 36) STN IEC 60945 (1996), STN IEC 61162.
 
-- 1) Ak povrchový materiál musí mať určitú maximálnu kalorifickú hodnotu, táto sa bude merať v súlade s ISO 1716.
+- 47) STN EN 60945 (1997).
 
-- 1) IMO MSC/Obež. 862 sa môže použiť iba pre voliteľné zariadenie s diaľkovou aktiváciou, nie pre samotné EPIRB.
+- 48) STN IEC 60945 (1996).
 
-- 2) V súlade s rozhodnutiami IMO a ITU požiadavky na generátor dvojtónového poplachu a prenos na H3E už nie sú použiteľné v skúšobných normách.
+- 106) STN ISO 799-1980.
 
-- 3) Môže sa použiť, iba ak Inmarsat C SES obsahuje funkcie EGC.
+- 107) STN EN 1866 (1998), STN ISO 11601 (1999).
 
-- 4) V súlade s rozhodnutiami IMO a ITU požiadavky na generátor dvojtónového poplachu a prenos na A3H už nie sú použiteľné v skúšobných normách.
+- 108) STN EN 54-2 (1997) + AC (1999).
 
-- 1) Odkaz na SOLAS, kapitola II je odkaz na SOLAS 1974 v znení MSC 73, ktorý nadobudne účinnosť 1. júla 2002.
+- 109) STN EN 54-4 (1997) + AC (1999).
+
+- 110) STN EN 54-7 (2000), STN EN 54-12, STN EN 54-15.
+
+- 111) STN EN 54-5 (2000), STN EN 54-6 (1982) + A1 (1998), STN EN 54-15.
+
+- 112) STNIEC79.
+
+- 113) STN EN 139 (1994) + AC (1995) + A1 (1999).
+
+- 114) STN EN 671-1 (1994) + AC (1995).
+
+- 115) STN EN 54-10.
+
+- 116) STN EN 54-11.
+
+- 117) STN EN 54-3 (2001).
+
+- 118) Príloha 2 STN ISO 1716 (1973).
+
+- 119) STN EN 12094 1-20.
+
+- 120) STN ISO 16329, STN EN 60945 (1997), STN EN 61162.
+
+- 121) STN ISO 16329, STN IEC 60945 (1996), STN IEC 61162.
+
+- 122) STN ISO 22090-X, STN EN 60945 (1997), STN EN 61162.
+
+- 123) STN ISO 22090-X, STN IEC 60945 (1996), STN IEC 61162.
+
+- 124) STN EN 16273, STN EN 60945 (1997), STN EN 61162.
+
+- 125) STN ISO 16273, STN IEC 60945 (1996), STN IEC 61162.
+
+- 126) STN EN 61108-3, STN EN 60945 (1997), STN EN 61162.
+
+- 127) STN IEC 61108-3, STN IEC 60945 (1996), STN IEC 61162.
+
+- 128) STN EN 61108-4, STN EN 60945 (1997), STN EN 61162.
+
+- 129) STN IEC 61108-4, STN IEC 60945 (1996), STN IEC 61162.
+
+- 130) STN EN 61924, STN EN 60945 (1997), STN EN 61162.
+
+- 131) STN IEC 61924, STN IEC 60945 (1996), STN IEC 61162.
+
+- 132) STN ISO 449 (1997), STN ISO 694 (2000), STN ISO 1069 (1973), STN ISO 2269 (1992), STN EN 60945 (1997).
+
+- 133) STN ISO 449 (1997), STN ISO 694 (2000), STN ISO 1069 (1973), STN ISO 2269 (1992), STN IEC 60945 (1996).
+
+- 134) STN EN 60936-3 (2001), STN EN 60945 (1997), STN EN 61162.
+
+- 135) STN IEC 60936-3 (2001), STN IEC 60945 (1996), STN IEC 61162.
+
+- 136) STN ISO 22090-1, STN EN 60945 (1997), STN EN 61162.
+
+- 137) STN ISO 22090-1, STN IEC 60945 (1996), STN IEC 61162.
+
+- 138) STN ISO 22090-2, STN EN 60945 (1997), STN EN 61162.
+
+- 139) STN ISO 22090-2, STN IEC 60945 (1996), STN IEC 61162.
+
+- 140) STN EN 61097-14.
+
+- 141) STN IEC 61097-14, STN IEC 60945 (1996).
+
+- 142) STN IEC 61097-13.
