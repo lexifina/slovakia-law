@@ -24,6 +24,8 @@
 
 - 13) Napríklad § 2 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov, zákon Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
 
+- 13a) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 14) Zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
 
 - 15) Zákon č. 381/1997 Z. z. o cestovných dokladoch.
