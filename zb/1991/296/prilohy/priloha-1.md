@@ -334,13 +334,13 @@
 
         - (6) Ak medzinárodná prihláška obsahuje výrazy alebo výkresy, ktoré podľa názoru Medzinárodného úradu odporujú dobrým mravom alebo verejnému poriadku alebo ktoré sú podľa jeho názoru hanlivé podľa Vykonávacieho predpisu, môže Medzinárodný úrad také výkresy, výrazy alebo údaje vylúčiť zo zverejnenia s tým, že uvedie miesto a počet slov alebo výkresov, ktoré boli vylúčené, a dodá na žiadosť jednotlivé vyhotovenia vylúčených miest.
 
-      - Článok 22 Vyhotovenie, preklad a poplatky určeným úradom
+      - Článok 22 Kópia, preklad a poplatky určeným úradom
 
-        - (1) Prihlasovateľ dodá jedno vyhotovenie medzinárodnej prihlášky každému určenému úradu (pokiaľ už nedošlo k postúpeniu podľa článku 20), ako aj jej preklad (v súlade s predpismi) a zaplatí prípadný národný poplatok, a to najneskôr do 20 mesiacov od dátumu priority. V prípade, že národné zákonodarstvo určeného štátu vyžaduje meno a ďalšie údaje o vynálezcovi, ale netreba ich oznámiť už pri podaní národnej prihlášky, je prihlasovateľ povinný, pokiaľ tak už neurobil v žiadosti, zaslať tieto údaje národnému úradu tohto štátu alebo úradu preň činnému najneskôr do 20 mesiacov, počítané od dátumu priority.
+        - (1) Prihlasovateľ dodá jedno vyhotovenie medzinárodnej prihlášky každému určenému úradu (ak už nedošlo k jeho postúpeniu podľa článku 20), ako aj jej preklad (v súlade s predpismi) a zaplatí národný poplatok (ak nejaký je) každému určenému úradu, a to najneskôr do 30 mesiacov od dátumu priority. V prípade, že národné zákonodarstvo určeného štátu vyžaduje meno a ďalšie predpísané údaje o vynálezcovi, ale netreba ich oznámiť už pri podaní prihlášky, je prihlasovateľ povinný, ak tak neurobil v žiadosti, zaslať tieto údaje národnému úradu tohto štátu alebo úradu preň činnému najneskôr do 30 mesiacov od dátumu priority.
 
-        - (2) Ak orgán pre medzinárodnú rešerš vydá rozhodnutie podľa ustanovenia článku 17 (2) (a), že sa nespracuje správa o medzinárodnej rešerši, lehota na vykonanie úkonov spomenutých v odseku (1) tohto článku je zhodná s lehotou uvedenou v odseku (1).
+        - (2) Ak orgán pre medzinárodnú rešerš vydá rozhodnutie podľa ustanovenia článku 17(2)(a), že sa nespracuje správa o medzinárodnej rešerši, lehota na vykonanie úkonov uvedených v odseku (1) tohto článku je zhodná s lehotou uvedenou v odseku (1).
 
-        - (3) Zákonodarstvo každého zmluvného štátu môže na vykonanie úkonov uvedených v odsekoch (1) a (2) určiť lehoty dlhšie ako sú lehoty tam uvedené.
+        - (3) Zákonodarstvo každého zmluvného štátu môže na vykonanie úkonov uvedených v odsekoch (1) a (2) určiť dlhšie lehoty, ako sú lehoty tam uvedené.
 
       - Článok 23 Odklad národného konania
 

@@ -2902,7 +2902,7 @@
 
       - 90 bis.1. Späťvzatie medzinárodnej prihlášky
 
-        - (a) Prihlasovateľ môže vziať medzinárodnú prihlášku späť kedykoľvek pred uplynutím 20 mesiacov od dátumu priority alebo pri použití článku 39 (1) pred uplynutím 30 mesiacov od dátumu priority.
+        - (a) Prihlasovateľ môže vziať medzinárodnú prihlášku späť kedykoľvek pred uplynutím 30 mesiacov od dátumu priority.
 
         - (b) Späťvzatie nadobudne účinnosť prijatím oznámenia prihlasovateľa adresovaného podľa jeho voľby Medzinárodnému úradu, prijímaciemu úradu alebo pri použití článku 39 (1) orgánu pre medzinárodný predbežný prieskum.
 
@@ -2910,7 +2910,7 @@
 
       - 90 bis.2 Späťvzatie určenia
 
-        - (a) Prihlasovateľ môže vziať určenie každého určeného štátu späť, kedykoľvek pred uplynutím 20 mesiacov od dátumu priority, alebo pri použití článku 39 (1), pokiaľ sa týka tohto štátu, pred uplynutím 30 mesiacov od dátumu priority. Späťvzatie určenia štátov, ktoré boli zvolené, bude mať za následok späťvzatie zodpovedajúcej voľby podľa pravidla 90 bis.4.
+        - (a) Prihlasovateľ môže vziať určenie ktoréhokoľvek určeného štátu späť kedykoľvek pred uplynutím 30 mesiacov od dátumu priority. Späťvzatie určenia štátov, ktoré boli zvolené, bude mať za následok späťvzatie zodpovedajúcej voľby podľa pravidla 90bis.4.
 
         - (b) Ak bol určený štát na účely získania tak národného patentu, ako aj regionálneho patentu, bude späťvzatie určenia tohto štátu znamenať len späťvzatie určenia na účely získania národného patentu, s výnimkou prípadu, keď bolo uvedené niečo iné.
 
@@ -2922,7 +2922,7 @@
 
       - 90 bis.3. Späťvzatie uplatnenej priority
 
-        - (a) Prihlasovateľ môže vziať prioritu, ktorú uplatnil podľa článku 8/1 v medzinárodnej prihláške, späť, kedykoľvek pred uplynutím 20 mesiacov od dátumu priority, alebo pri použití článku 39 (1) 30 mesiacov od dátumu priority.
+        - (a) Prihlasovateľ môže vziať späť prioritu, ktorú uplatnil v medzinárodnej prihláške podľa článku 8(1), kedykoľvek pred uplynutím 30 mesiacov od dátumu priority.
 
         - (b) Ak sa v medzinárodnej prihláške uplatnila viac ako jedna priorita, môže prihlasovateľ použiť svoje právo podľa odseku (a), pokiaľ ide o jednu, niekoľko, alebo všetky uplatňované priority.
 
