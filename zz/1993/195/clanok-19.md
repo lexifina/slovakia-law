@@ -22,7 +22,11 @@
 
 - i) mimoriadnou udalosťou priemyselná havária, letecká katastrofa, veľká dopravná nehoda, ekologická havária a pod.;
 
-- j) blízkosťou štátnych hraníc je priestor v hĺbke 15 km do vnútrozemia od štátnych hraníc.
+- j) blízkosťou štátnych hraníc je priestor v hĺbke 15 km do vnútrozemia od štátnych hraníc,
+
+- k) bezprostrednou blízkosťou štátnej hranice priestor v hĺbke 5 km do vnútrozemia od štátnej hranice;
+
+- l) blízkymi osobami príbuzní v priamom rade, súrodenci, manželia a iné osoby v rodinnom alebo obdobnom pomere, ak by ujmu, ktorú utrpela jedna z nich, druhá dôvodne pociťovala ako vlastnú ujmu.
 
 (2) Za porušenie poriadku na štátnych hraniciach sa považujú také činy na štátnych hraniciach alebo v ich blízkosti na území jednej zmluvnej strany, ktoré poškodzujú alebo ohrozujú záujmy druhej zmluvnej strany, jej územie alebo životy, zdravie alebo oprávnené záujmy osôb zdržujúcich sa na jej území. Za tieto porušenia sa považuje najmä
 
