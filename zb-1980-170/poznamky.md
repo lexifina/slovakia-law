@@ -1,0 +1,1 @@
+- 1) Podľa jednotnej klasifikácie priemyselných odborov a výrobkov a jednotnej klasifikácie výrobkov v poľnohospodárstve a lesníctve.
