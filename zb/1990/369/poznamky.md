@@ -50,6 +50,12 @@
 
 - 18a) § 48 ods. 1 písm. c) a § 49 písm. a) Zákonníka práce
 
+- 18b) § 7 ods. 2 Občianskeho zákonníka.
+
+- § 3 zákona Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
+
+- § 52 ods. 3 zákona č. 335/1991 Zb. o súdoch a sudcoch.
+
 - 19) Zákon č. 60/1965 Zb. o prokuratúre v znení neskorších predpisov.
 
 - 20) § 14 ods. 5 zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
