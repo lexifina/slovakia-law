@@ -1,1 +1,0 @@
-- 1) Mzdové predpisy vydané ústrednými orgánmi; pokiaľ tieto predpisy mzdového zvýhodnenia za prácu cez soboty a nedele neupravujú, vyhláška Ministerstva práce a sociálnych vecí č. 200/1968 Zb. o mzdovom zvýhodnení práce cez soboty a nedele.
