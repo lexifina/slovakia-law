@@ -48,8 +48,6 @@ Príloha č. 3
 
   - - optika („ottico“),
 
-  - - chiropraktika („podologo“);
-
   - c. v Luxembursku
 
     - odborná príprava
@@ -116,6 +114,50 @@ Príloha č. 3
 
   - ktorá predstavuje odborné vzdelávanie, trvajúce trinásť rokov, zahŕňajúce päť rokov odbornej prípravy na odbornej škole zakončenej skúškou.
 
+  - f. v Českej republike
+
+    - odborná príprava
+
+  - – zdravotníckeho asistenta („zdravotnický asistent"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 13 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a štyri roky odborného stredoškolského vzdelávania na strednej zdravotníckej škole ukončeného maturitnou skúškou,
+
+  - – asistenta výživy („nutriční asistent"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 13 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a štyri roky odborného stredoškolského vzdelávania na strednej zdravotníckej škole ukončeného maturitnou skúškou;
+
+  - g. na Cypre
+
+    - odborná príprava
+
+  - – zubného technika („οδοντοτεχνίτης"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 14 rokov, ktoré zahŕňa najmenej šesť rokov základného vzdelávania, šesť rokov stredoškolského vzdelávania a dva roky pomaturitného odborného vzdelávania s následnou jednoročnou odbornou praxou,
+
+  - – optika („τεχνικός οπτικός"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 14 rokov, ktoré zahŕňa najmenej šesť rokov základného vzdelávania, šesť rokov stredoškolského vzdelávania a dva roky pomaturitného odborného vzdelávania s následnou jednoročnou odbornou praxou;
+
+  - h. v Lotyšsku
+
+    - odborná príprava
+
+  - – zubnej sestry („zobarstniecibas masa"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 13 rokov, ktoré zahŕňa najmenej desať rokov všeobecného školského vzdelávania a dva roky odborného vzdelávania na zdravotníckej škole s následnou trojročnou odbornou praxou, po ktorej skončení sa musí vykonať skúška s cieľom získať osvedčenie v odbore,
+
+  - – asistenta v biomedicínskych laboratóriách („biomedicînas laborants"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej desať rokov všeobecného školského vzdelávania a dva roky odborného vzdelávania na zdravotníckej škole s následnou dvojročnou odbornou praxou, po ktorej skončení sa musí vykonať skúška s cieľom získať osvedčenie v odbore,
+
+  - – zubného technika („zobu technikis"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej desať rokov všeobecného školského vzdelávania a dva roky odborného vzdelávania na zdravotníckej škole s následnou dvojročnou odbornou praxou, po ktorej skončení sa musí vykonať skúška s cieľom získať osvedčenie v odbore,
+
+  - – fyzioterapeutického asistenta („fizioterapeita asistents"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 13 rokov, ktoré zahŕňa najmenej desať rokov všeobecného školského vzdelávania a tri roky odborného vzdelávania na zdravotníckej škole s následnou dvojročnou odbornou praxou, po ktorej skončení sa musí vykonať skúška s cieľom získať osvedčenie v odbore.
+
 - 2. Odborná príprava v oblasti remesiel („Mester/Meister/Maitre“), ktorá nie je zahrnutá do smerníc uvedených v prílohe č. 1
 
   - a. v Dánsku
@@ -129,6 +171,10 @@ Príloha č. 3
   - - ortopedického technika („ortopaedimekaniker“);
 
   - táto odborná príprava trvá dvanásť a pol roka vrátane štyriapolročnej odbornej prípravy rozdelenej na dvojročné teoretické štúdium zabezpečované vzdelávacím zariadením a na dvaapolročný praktický odborný výcvik absolvovaný na pracovisku; táto odborná príprava sa zakončí uznávanou remeselníckou skúškou, ktorou sa priznáva právo používať titul „Mester“ (majster);
+
+  - – výrobcu ortopedickej obuvi („orthopaediskomager");
+
+  - toto štúdium má celkové trvanie trinásť a pol roka vrátane štyriapolročnej odbornej prípravy, ktorá sa skladá z dvojročnej teoretickej prípravy poskytovanej strediskom odbornej prípravy a dvaapolročnej odbornej praxe získanej na pracovisku; štúdium je ukončené skúškou v odbore daného remesla, ktorou sa súčasne priznáva právo používať titul „majster";
 
   - b. v Nemecku
 
@@ -216,6 +262,20 @@ Príloha č. 3
 
   - ktorá predstavuje odborné vzdelávanie, trvajúce aspoň pätnásť rokov, zahŕňajúce aspoň šesťročnú odbornú prípravu v rámci štruktúrovanej odbornej prípravy, rozdelenej na učňovskú prípravu aspoň s trojročným trvaním, obsahujúcu odborný výcvik absolvovaný čiastočne na pracovisku a čiastočne zabezpečovanú vzdelávacím zariadením, a obdobie odbornej praxe a prípravy aspoň s trojročným trvaním, zakončené majstrovskou skúškou, ktorou sa priznáva právo vychovávať učňov a používať titul „Meister“ (majster).
 
+  - e. v Poľsku
+
+    - odborná príprava
+
+  - – učiteľa praktickej odbornej prípravy („nauczyciel praktycznej nauki zawodu"),
+
+  - ktorá predstavuje vzdelávanie v trvaní
+
+  - – ôsmich rokov základného vzdelávania a piatich rokov stredoškolského odborného vzdelávania alebo rovnocenného stredoškolského vzdelávania v príslušnom odbore s následným pedagogickým vzdelávaním v celkovej dĺžke najmenej stopäťdesiat hodín, kurzom bezpečnosti pri práci a pracovnej hygieny a dvojročnou odbornou praxou v povolaní, na ktoré je zamerané vzdelávanie, alebo
+
+  - – ôsmich rokov základného vzdelávania a piatich rokov stredoškolského odborného vzdelávania a diplom o absolvovaní nadstavbovej pedagogickej odbornej školy, alebo
+
+  - – ôsmich rokov základného vzdelávania a dvoch alebo troch rokov základného stredoškolského odborného vzdelávania a najmenej troch rokov odbornej praxe osvedčenej titulom „majster" v príslušnom povolaní s následným pedagogickým kurzom v celkovej dĺžke najmenej stopäťdesiat hodín.
+
 - 3. Námorný sektor
 
   - a) námorná doprava
@@ -294,9 +354,107 @@ Príloha č. 3
 
     - - pre úradníka VTS („VTS-functionaris“) trvá aspoň pätnásť rokov, pozostáva aspoň z troch rokov vysokoškolského odborného vzdelávania („HBO“) alebo stredoškolského odborného vzdelávania („MBO“), po ktorých nasledujú štátne alebo regionálne špecializované kurzy, z ktorých každý zahŕňa aspoň dvanásť týždňov teoretickej odbornej prípravy a zakončuje sa skúškou,
 
+    - – v Českej republike
+
+    - – pre palubného asistenta („palubní asistent")
+
+- 1. dovŕšenie najmenej 20 rokov veku,
+
+- 2. (a) námorná akadémia alebo námorná škola – odbor navigácie, štúdium na oboch školách sa ukončuje vykonaním maturitnej skúšky a schválená služba na mori v trvaní najmenej šiestich mesiacov na lodi počas štúdia, alebo
+
+  - (b) schválená služba na mori v trvaní najmenej dvoch rokov ako člen posádky tvoriaci súčasť strážnej služby na pomocnej úrovni na lodiach a skončenie schváleného kurzu, ktorý spĺňa požiadavky na spôsobilosť špecifikované v oddieli A-II/1 zákonníka STCW (Medzinárodného dohovoru o štandardoch odbornej prípravy, certifikácii a dohľade nad námorníkmi) vydávaného námornou akadémiou alebo školou zmluvnej strany dohovoru STCW, a vykonanie skúšky pred skúšobnou komisiou uznanou MTC (Výborom pre námornú dopravu v Českej republike),
+
+  - – pre námorného poručíka („námořní poručík")
+
+- 1. schválená služba na mori ako palubný asistent na lodiach s hrubou priestornosťou najmenej 500 hrubých ton v trvaní najmenej šiestich mesiacov pre absolventa námornej školy alebo akadémie, alebo jedného roka pre absolventa uznaného kurzu vrátane najmenej šiestich mesiacov vo funkcii člena posádky tvoriaceho súčasť strážnej služby,
+
+- 2. riadne vyplnená a potvrdená záznamová kniha palubného výcviku pre palubnú posádku,
+
+- – pre prvého palubného dôstojníka („první palubní důstojník") osvedčenie o spôsobilosti námorného poručíka na lodiach s hrubou priestornosťou najmenej 500 hrubých ton a najmenej dvanásťmesačná schválená služba na mori v tejto funkcii,
+
+- – pre kapitána („kapitán")
+
+- 1. služobný preukaz kapitána lode na lodiach s hrubou priestornosťou 500 až 3 000 hrubých ton,
+
+- 2. osvedčenie o spôsobilosti prvého palubného dôstojníka na lodiach s hrubou priestornosťou najmenej 3 000 hrubých ton a najmenej šesťmesačná schválená služba na mori v tejto funkcii na lodiach s hrubou priestornosťou najmenej 500 hrubých ton a najmenej šesťmesačná schválená služba na mori v tejto funkcii na lodiach s hrubou priestornosťou najmenej 3 000 hrubých ton,
+
+- – pre strojného asistenta („strojní asistent")
+
+- 1. dovŕšenie najmenej 20 rokov veku,
+
+- 2. námorná akadémia alebo námorná škola – odbor námorného inžinierstva a počas štúdia absolvovanie schválenej služby na mori na lodi v trvaní najmenej šiestich mesiacov,
+
+- – pre strojného dôstojníka („strojní důstojník"), ak ide o absolventa námornej akadémie alebo školy, schválená služba na mori v trvaní najmenej šiestich mesiacov vo funkcii strojného asistenta,
+
+- – pre druhého strojného dôstojníka („druhý strojní důstojník") schválená služba na mori v trvaní najmenej dvanástich mesiacov vo funkcii tretieho strojného dôstojníka na lodiach s hlavným mechanickým pohonom s výkonom najmenej 750 kW,
+
+- – pre prvého strojného dôstojníka („první strojní důstojník") príslušný certifikát (služobný preukaz) pre službu ako druhý strojný dôstojník na lodiach s hlavným mechanickým pohonom s výkonom najmenej 3 000 kW a schválená služba na mori v tejto funkcii v trvaní najmenej šiestich mesiacov,
+
+- – pre elektrotechnika („elektrotechnik")
+
+- 1. dovŕšenie najmenej 18 rokov veku,
+
+- 2. námorná alebo iná akadémia, fakulta elektrotechniky alebo technická škola alebo škola elektrotechniky ukončená maturitnou skúškou a najmenej dvanásťmesačná schválená prax v oblasti elektrotechniky,
+
+- – pre elektrodôstojníka („elektrodůstojník")
+
+- 1. námorná akadémia alebo škola, fakulta námornej elektrotechniky alebo iná akadémia alebo stredná škola v oblasti elektrotechniky ukončená maturitnou skúškou alebo štátnou skúškou,
+
+- 2. schválená služba na mori ako elektrotechnik v trvaní najmenej 12 mesiacov, ak ide o absolventa akadémie alebo školy, alebo 24 mesiacov, ak ide o absolventa strednej školy,
+
+- – v Lotyšsku
+
+- – pre elektrodôstojníka na lodiach („kugu elektromehanikis")
+
+- 1. dovŕšenie najmenej 18 rokov veku,
+
+- 2. vzdelávanie v celkovej dĺžke najmenej 12 rokov a šiestich mesiacov, ktoré zahŕňa najmenej deväť rokov základného vzdelávania a najmenej tri roky odborného vzdelávania.
+
+  - Okrem toho sa požaduje služba na mori v trvaní najmenej šiestich mesiacov ako lodný elektrotechnik alebo asistent elektrotechnika na lodiach s generátorom s výkonom najmenej 750 kW. Odborné vzdelávanie je ukončené osobitnou skúškou vykonanou príslušným úradom v súlade so vzdelávacím programom schváleným ministerstvom dopravy,
+
+- – pre operátora chladiaceho systému („kuga saldešanas iekartu mašinists")
+
+- 1. dovŕšenie najmenej 18 rokov veku,
+
+- 2. vzdelávanie v celkovej dĺžke najmenej 13 rokov, ktoré zahŕňa najmenej deväť rokov základného vzdelávania a najmenej tri roky odborného vzdelávania. Okrem toho sa požaduje služba na mori v trvaní najmenej 12 mesiacov vo funkcii asistenta inžiniera chladiaceho systému. Odborné vzdelávanie je ukončené osobitnou skúškou vykonanou pred príslušným orgánom v súlade so vzdelávacím programom schváleným ministerstvom dopravy,
+
   - a ktorá je uznávaná medzinárodným dohovorom STCW (Medzinárodný dohovor o štandardoch odbornej prípravy, certifikácii a dohľade nad námorníkmi, 1978).
 
-    - b) Morský rybolov
+  - e. v Českej republike
+
+    - odborná príprava
+
+  - – palubného asistenta („palubní asistent"),
+
+  - – námorného poručíka („námořní poručík"),
+
+  - – prvého palubného dôstojníka („první palubní důstojník"),
+
+  - – kapitána („kapitán"),
+
+  - – strojného asistenta („strojní asistent"),
+
+  - – strojného dôstojníka („strojní důstojník"),
+
+  - – druhého strojného dôstojníka („druhý strojní důstojník"),
+
+  - – prvého strojného dôstojníka („první strojní důstojník"),
+
+  - – elektrotechnika („elektrotechnik"),
+
+  - – elektrodôstojníka („elektrodůstojník");
+
+  - f. v Lotyšsku
+
+    - odborná príprava
+
+  - – elektrodôstojníka na lodiach („kugu elektromehanikis"),
+
+  - – operátora chladiaceho systému („kuga saldešanas iekartu mašinists"),
+
+  - b)
+
+  - Morský rybolov
 
   - a. v Nemecku
 
@@ -380,8 +538,6 @@ Príloha č. 3
 
   - - realitný manažér („Immobilienverwalter“),
 
-  - - reklamná agentúra („Werbeagentur“),
-
   - - organizátor stavebných projektov („Bauträger, Bauorganisator, Baubetereuer“),
 
   - - vyberanie dlhov („Inkassoinstitut“),
@@ -396,7 +552,103 @@ Príloha č. 3
 
   - - tesársky majster/plánovanie a technické výpočty („Planender Zimmermeister“),
 
+  - – komerčný účtovník („Gewerblicher Buchhalter") podľa zákona Gewerbeordnung (zákon o obchode, remeslách a priemysle z roku 1994),
+
+  - – samostatne zárobkovo činný účtovník („Selbständiger Buchhalter") v rámci zákona Bundesgesetz z roku 1999 (zákon o verejných účtovníckych povolaniach z roku 1999)
+
   - odborné vzdelávanie trvá aspoň osemnásť rokov a zahŕňa aspoň deväťročnú odbornú prípravu, rozdelenú na štvorročné stredoškolské technické štúdium a päťročnú odbornú prax a prípravu, zakončenú odbornou skúškou, ktorou sa priznáva právo vykonávať príslušné povolanie a vychovávať učňov, a ak sa odborná príprava týka práva, plánovať stavby, vykonávať technické výpočty a dozerať na stavebné práce („privilégium Márie Terézie“).
+
+  - d. v Českej republike
+
+    - odborná príprava
+
+  - – autorizovaného technika („autorizovaný technik"),
+
+  - – autorizovaného staviteľa („autorizovaný stavitel"),
+
+  - ktorá predstavuje odborné vzdelávanie v trvaní najmenej deviatich rokov, ktoré zahŕňa štyri roky vzdelávania na technickej strednej škole ukončené maturitnou skúškou (skúškou na strednej odbornej škole), päť rokov odbornej praxe ukončenej skúškou odbornej kvalifikácie na výkon vybraných odborných činností v stavebníctve (podľa zákona č. 50/1976 Sb. stavebný zákon a zákona č. 360/1992 Sb. o výkonu povolání autorizovaných architektů a o výkonu povolání autorizovaných inženýrů a techniků činných ve výstavbě),
+
+  - – fyzickej osoby riadiacej dráhové vozidlo („Fyzická osoba řídící drážní vozidlo"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky stredoškolského odborného vzdelávania ukončeného maturitnou skúškou a následne štátnou skúškou z pohonu vozidiel,
+
+  - – dráhového revízneho technika („Drážní revizní technik"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky stredoškolského odborného vzdelávania na strednej strojníckej alebo elektrotechnickej škole ukončeného maturitnou skúškou,
+
+  - – učiteľa autoškoly („Učitel autoškoly"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky stredného odborného vzdelávania zameraného na dopravu alebo strojníctvo ukončeného maturitnou skúškou; príslušná osoba musí byť vo veku najmenej 24 rokov,
+
+  - – kontrolného technika STK („Kontrolní technik STK"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky stredného odborného vzdelávania ukončeného maturitnou skúškou s následnou najmenej dvojročnou technickou praxou; dotknutá osoba musí mať vodičský preukaz, nesmie mať záznam v registri trestov, musí mať ukončenú osobitnú prípravu pre kontrolných technikov v trvaní najmenej 120 hodín a musí úspešne vykonať skúšku; príslušná osoba musí byť vo veku najmenej 21 rokov,
+
+  - – mechanika merania emisií („Mechanik měření emisí"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky stredného odborného vzdelávania ukončeného maturitnou skúškou; ďalej musí žiadateľ absolvovať trojročnú odbornú prax a osobitnú prípravu pre „mechanika merania emisií automobilov" v trvaní ôsmich hodín a úspešne vykonať skúšku,
+
+  - – kapitána I. triedy („Kapitán I. třídy"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 15 rokov, ktoré zahŕňa osem rokov základného vzdelávania a tri roky odborného vzdelávania ukončeného maturitnou skúškou a následne skúškou osobitnej odbornej spôsobilosti; po tomto odbornom vzdelávaní musí nasledovať najmenej štvorročná odborná prax ukončená skúškou,
+
+  - – reštaurátora pamiatok, ktoré sú dielami umeleckých remesiel („restaurátor památek, které jsou díly uměleckých řemesel"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa úplné stredoškolské odborné vzdelávanie v odbore reštaurátorstva alebo desať až 12 rokov štúdia v súvisiacom odbore s následnou päťročnou odbornou praxou v prípade úplného stredoškolského technického vzdelávania ukončeného maturitnou skúškou alebo s osemročnou odbornou praxou v prípade stredoškolského odborného vzdelávania ukončeného záverečnou učňovskou skúškou,
+
+  - – reštaurátora diel výtvarného umenia, ktoré nie sú pamiatkami a sú uložené v zbierkach múzeí a galérií, a ostatných predmetov kultúrnej hodnoty („restaurátor děl výtvarných umění, která nejsou památkami a jsou uložena ve sbírkách muzeí a galerií, a ostatních predmětů kulturní hodnoty"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke 12 rokov s päťročnou odbornou praxou v prípade úplného stredoškolského odborného vzdelávania v odbore reštaurátorstva ukončeného maturitnou skúškou,
+
+  - – odpadového hospodára („odpadový hospodář"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky stredoškolského odborného vzdelávania ukončeného maturitnou skúškou a najmenej päťročnú prax v oblasti nakladania s odpadmi počas posledných desiatich rokov,
+
+  - – technického vedúceho odstrelov („technický vedoucí odstřelů"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky odborného vzdelávania ukončeného maturitnou skúškou, po ktorom nasleduje:
+
+  - – dvojročná prax ako odstreľovač v podzemí (pre podzemnú činnosť) alebo jednoročná prax na povrchu (pre povrchovú činnosť) vrátane šiestich mesiacov praxe ako asistent odstreľovača,
+
+  - – výcvikový kurz v trvaní 100 hodín teoretického a praktického výcviku s následnou skúškou pred príslušným okresným banským úradom,
+
+  - – odborná prax v plánovaní a uskutočňovaní väčších odstreľovacích prác v trvaní najmenej šiestich mesiacov,
+
+  - – výcvikový kurz v trvaní 32 hodín teoretického a praktického výcviku s následnou skúškou pred príslušným Českým banským úradom;
+
+  - e. v Lotyšsku
+
+    - odborná príprava
+
+  - – asistenta strojvodcu motorovej lokomotívy („vilces lidzekla vaditaja (mašinista) paligs"),
+
+  - ktorá predstavuje vzdelávanie v celkovej dĺžke najmenej 12 rokov, ktoré zahŕňa najmenej osem rokov základného vzdelávania a najmenej štyri roky odborného vzdelávania; odborné vzdelávanie je ukončené osobitnou skúškou zamestnávateľa; osvedčenie o spôsobilosti je vydané príslušným úradom na päť rokov; príslušná osoba musí byť vo veku najmenej 18 rokov;
+
+  - f. v Poľsku
+
+    - odborná príprava
+
+  - – diagnostika vykonávajúceho skúšky technického stavu motorových vozidiel na stanici kontroly vozidiel na základnej úrovni („diagnosta przeprowadzajcy badania techniczne w stacji kontroli pojazdów o podstawowym zakresie badań"),
+
+  - ktorá predstavuje osem rokov základného vzdelávania, päť rokov stredoškolského technického vzdelávania v oblasti motorových vozidiel a tri roky praxe v automechanickej dielni alebo v opravovni automobilov a základnú prípravu v oblasti kontroly technického stavu motorového vozidla v trvaní 51 hodín ukončenú kvalifikačnou skúškou,
+
+  - – diagnostika vykonávajúceho skúšky technického stavu motorových vozidiel na okresnej stanici technickej kontroly vozidiel („diagnosta przeprowadzajcy badania techniczne pojazdu w okrgowej stacji kontroli pojazdów"),
+
+  - ktorá predstavuje osem rokov základného vzdelávania, päť rokov stredoškolského odborného vzdelávania v oblasti motorových vozidiel a štyri roky praxe v automechanickej dielni alebo v opravovni automobilov a základnú prípravu kontroly technického stavu motorového vozidla v trvaní 51 hodín ukončenú kvalifikačnou skúškou,
+
+  - – diagnostika vykonávajúceho skúšky technického stavu motorových vozidiel na stanici technickej kontroly vozidiel („diagnosta wykonujcy badania techniczne pojazdów w stacji kontroli pojazdów"),
+
+  - ktorá predstavuje
+
+  - – osem rokov základného vzdelávania a päť rokov stredoškolského odborného vzdelávania v oblasti motorových vozidiel a osvedčenú štvorročnú prax v automechanickej dielni alebo v opravovni automobilov, alebo
+
+  - – osem rokov základného vzdelávania a päť rokov stredoškolského technického vzdelávania v inej oblasti ako v oblasti motorového vozidla a osvedčenú osemročnú prax v automechanickej dielni alebo v opravovni automobilov v celkovom trvaní 113 hodín úplnej prípravy vrátane základnej a špecializovanej prípravy s následnými skúškami po každom stupni.
+
+  - Dĺžka prípravy v hodinách, obsah jednotlivých častí v rámci úplnej odbornej prípravy diagnostika sú oddelene uvedené v nariadení ministra infraštruktúry z 28. novembra 2002 o podrobných požiadavkách pre diagnostikov (Dz. U. z 2002, Nr. 208, poz. 1769),
+
+  - – výpravcu („dyżurny ruchu"),
+
+  - ktorá predstavuje osem rokov základného vzdelávania a štyri roky stredoškolského odborného vzdelávania so špecializáciou na železničnú dopravu, ako aj kurz prípravy na prácu výpravcu v trvaní 45 dní a úspešné vykonanie kvalifikačnej skúšky, alebo ktoré predstavuje osem rokov základného vzdelávania a päť rokov stredoškolského vzdelávania so špecializáciou na železničnú dopravu, ako aj kurz prípravy na prácu výpravcu v trvaní 63 dní a úspešné vykonanie kvalifikačnej skúšky.
 
 - 5. Vo Veľkej Británii štúdium v študijných odboroch, po ktorého absolvovaní sa nadobúdajú akreditované štátne odborné kvalifikácie alebo škótske odborné kvalifikácie
 
@@ -431,6 +683,10 @@ Príloha č. 3
 - - dôstojníka inžiniera - nákladné/osobné lode - neobmedzená oblasť obchodovania („engineer officer - freight/passenger ships - unlimited trading area“),
 
 - - autorizovanej technicky spôsobilej osoby v odpadovom hospodárstve („certified technically competent person in waste management“),
+
+- – registrovanej veterinárnej sestry („listed veterinary nurse"),
+
+- – palubného poručíka – nákladné/osobné lode („deck officer – freight/passenger ship – unrestricted"),
 
 - vedúca k akreditovaným štátnym odborným kvalifikáciám (NVQ) alebo v Škótsku k akreditovaným škótskym odborným kvalifikáciám na úrovniach 3 a 4 Národného rámca odborných kvalifikácií Veľkej Británie. Tieto úrovne sú definované takto:
 

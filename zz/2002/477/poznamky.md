@@ -1,12 +1,18 @@
-- 1) Obchodný zákonník.
+- 1) Článok 11 nariadenia Rady (EHS) č. 1612/68 z 15. októbra 1968 o slobodnom pohybe pracovníkov v rámci Spoločenstva (Ú. v. ES L 257, 19.10.1968) v znení nariadenia (EHS) č. 312/76 z 9. februára 1976 (Ú. v. ES L 39, 14. 2.1976) v znení nariadenia (EHS) č. 2434/92 z 27. júla 1992 (Ú. v. ES L 245, 26.8.1992).
 
-- 2) Napríklad § 11 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 1a) § 2 Obchodného zákonníka.
 
-- 3) Zákonník práce v znení zákona č. 165/2002 Z. z.
+- 2) § 11 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 4) Príloha č. 1 až 3 zákona č. 455/1991 Zb.
+- 3) § 11 Zákonníka práce.
 
-- 4a) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 445/2003 Z. z.
+- 3a) § 30 až 55 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 4) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 720/2004 Z. z.
+
+- 4a) Prílohy č. 1 až 3 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 4b) § 71 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 5) § 2 ods. 3 až 5 zákona č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
 
@@ -14,9 +20,11 @@
 
 - 7) Napríklad § 2 ods. 3 zákona č. 313/2001 Z. z., § 50 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon č. 216/2002 Z. z. o povolaní lekárnika, o Slovenskej lekárnickej komore a o doplnení zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov, zákon č. 219/2002 Z. z. o povolaní lekára, o Slovenskej lekárskej komore, o povolaní zubného lekára, o Slovenskej komore zubných lekárov a o zmene a doplnení niektorých zákonov.
 
-- 8) Napríklad zákon č. 313/2001 Z. z., zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 8) Napríklad zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 8a) Napríklad zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
+
+- 8c) Napríklad § 5 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
 
@@ -33,6 +41,8 @@
 - 15) Zákon č. 71/1967 Zb.
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z.
+
+- 17) Nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania.
 
 - 1) Írski štátni príslušníci sú taktiež členovia nasledujúcich orgánov Spojeného kráľovstva:
 
