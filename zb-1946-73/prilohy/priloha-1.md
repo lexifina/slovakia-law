@@ -1,0 +1,1 @@
+- Kresba mince po 1 Kčs: ![obrazok](../assets/b9bfbc98fa5f940e6a0970c556a71a86846d678e43f1e6a6ec705ebfe616555a.png)
