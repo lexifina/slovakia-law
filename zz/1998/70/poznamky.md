@@ -16,11 +16,15 @@
 
 - 8) Napríklad zákon č. 17/1992 Zb. o životnom prostredí, zákon Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov, zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona č. 218/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z., zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
 
+- 8a) § 24 ods. 2 a 3 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
 - 9) Zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
 
 - 10) Zákon č. 28/1984 Zb. o štátnom dozore nad jadrovou bezpečnosťou jadrových zariadení.
 
 - Vyhláška Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z.
+
+- 10a) § 128 Občianskeho zákonníka, § 108 až 116 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
