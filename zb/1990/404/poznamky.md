@@ -1,1 +1,0 @@
-- 1) § 2 ods. 1 zákona ČNR č. 200/1990 Zb. o priestupkoch.§ 2 ods. 1 zákona SNR č. 372/1990 Zb. o priestupkoch.
