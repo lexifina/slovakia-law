@@ -10,15 +10,17 @@
 
 (5) Správu pozemných komunikácií vykonávajú,
 
-- a) ak ide o diaľnice a cesty vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory – právnické osoby na tento účel zriadené ministerstvom,<sup>2c</sup>)
+- a) ak ide o diaľnice, cesty pre motorové vozidlá a cesty podľa schváleného plánu rozvoja diaľnic a ciest vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory – Národná diaľničná spoločnosť,<sup>2ba</sup>)
 
-- b) ak ide o cesty vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
+- b) ak ide o cesty vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory – právnické osoby na tento účel zriadené ministerstvom,<sup>2c</sup>)
 
-- c) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne komunikácie a účelové komunikácie vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené,
+- c) ak ide o cesty vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
 
-- d) ak ide o účelové komunikácie vo vlastníctve štátu<sup>2b</sup>) – právnické osoby, ktorým celkom alebo prevažne slúžia,
+- d) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne komunikácie a účelové komunikácie vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené,
 
-- e) ak ide o prejazdné úseky cez colné priestory – príslušné colné orgány po dohode s cestným správnym orgánom a správcom diaľnice alebo cesty vedúcej k hraničnému priechodu.
+- e) ak ide o účelové komunikácie vo vlastníctve štátu<sup>2b</sup>) – právnické osoby, ktorým celkom alebo prevažne slúžia,
+
+- f) ak ide o prejazdné úseky cez colné priestory – príslušné colné orgány po dohode s cestným správnym orgánom a správcom diaľnice alebo cesty vedúcej k hraničnému priechodu.
 
 (6) Vlastníci a správcovia pozemných komunikácií sú povinní pozemné komunikácie udržiavať v stave zodpovedajúcom účelu, na ktorý sú určené.
 

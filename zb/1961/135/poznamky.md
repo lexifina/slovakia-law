@@ -12,6 +12,8 @@
 
 - 2b) Napríklad § 6 zákona č. 111/1990 Zb. o štátnom podniku v znení zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z.
 
+- 2ba) Zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
 - 2c) § 22 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 2ca) § 151a až 151p Občianskeho zákonníka.
