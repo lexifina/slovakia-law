@@ -1,0 +1,1 @@
+- *) O poskytnutí kúpeľnej starostlivosti rozhodujú posudkové komisie sociálneho zabezpečenia (vyhláška č. 151/1960 Zb.).
