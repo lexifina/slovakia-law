@@ -1,3 +1,0 @@
-# § 4a Najvyšší správny súd Slovenskej republiky
-
-Sídlom Najvyššieho správneho súdu Slovenskej republiky je mesto Bratislava; jeho obvodom je celé územie Slovenskej republiky.
