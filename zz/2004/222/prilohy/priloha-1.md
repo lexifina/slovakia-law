@@ -2,18 +2,18 @@ Príloha č. 1 k zákonu č. 222/2004 Z. z.
 
 - POSTUP PRI ÚPRAVE ODPOČÍTANEJ DANE PRI INVESTIČNOM MAJETKU
 
-  - Pri úprave podľa § 54, § 54a, § 54c, § 54d a § 85j postupuje platiteľ podľa vzorca
+  - Pri úprave podľa § 54 postupuje platiteľ podľa vzorca
 
-  - ![vzorec](../assets/9a68eeb88f3a6b79cb15bf390b60b91d60dc98a9ee89b4663281bfda02807f31.png)
+  - ![Vzorec 01](../assets/298e6dcfd41a55ebc0cdda4d2ca011542c34e7f5e1e1671cb93a049718684b34.tiff)
 
   - kde
 
-  - DD je výsledok úpravy odpočítanej dane, ktorý pri zápornom znamienku predstavuje dodatočne odpočítateľnú daň a pri kladnom znamienku predstavuje dodatočne neodpočítateľnú daň,
+  - DD je výsledok úpravy odpočítanej dane, ktorý v prípade záporného znamienka predstavuje dodatočne odpočítateľnú daň a v prípade kladného znamienka predstavuje dodatočne neodpočítateľnú daň,
 
-  - DV je daň vzťahujúca sa na obstarávaciu cenu investičného majetku alebo vlastné náklady investičného majetku pričom obstarávacou cenou je aj hodnota splátok vzťahujúcich sa na obstaranie investičného majetku na základe nájomnej zmluvy inej ako nájomnej zmluvy podľa § 8 ods. 1 písm. c),
+  - DV je daň vzťahujúca sa na obstarávaciu cenu investičného majetku alebo vlastné náklady investičného majetku,
 
-  - A je číslo od 0 do 1, ktoré je podielom vyjadrujúcim výšku dane, ktorú platiteľ odpočítal pri investičnom majetku v čase jeho prvotného použitia, k výške dane vzťahujúcej sa na obstarávaciu cenu investičného majetku alebo vlastným nákladom investičného majetku; vypočítaný podiel sa zaokrúhľuje na dve desatinné miesta nahor,
+  - A je číslo 1, ak platiteľ odpočítal daň v plnej výške, alebo číslo 0, ak platiteľ neodpočítal daň, alebo hodnota koeficientu vypočítaného po skončení kalendárneho roka, ak platiteľ pomerne odpočítal daň,
 
-  - B je číslo od 0 do 1, ktoré je podielom vyjadrujúcim výšku dane, ktorú platiteľ môže odpočítať pri investičnom majetku, k výške dane vzťahujúcej sa na obstarávaciu cenu investičného majetku alebo vlastným nákladom investičného majetku v kalendárnom roku, v ktorom nastanú dôvody na úpravu odpočítanej dane; vypočítaný podiel sa zaokrúhľuje na dve desatinné miesta nahor,
+  - B je číslo, ktoré predstavuje koeficient vypočítaný po skončení kalendárneho roka, v ktorom platiteľ zmenil účel použitia investičného majetku, alebo číslo 0, alebo číslo 1, a to podľa zmeny účelu použitia investičného majetku podľa § 54 ods. 3,
 
-  - R je počet kalendárnych rokov, ktoré zostávajú do skončenia obdobia na úpravu odpočítania dane vrátane roka, v ktorom došlo k zmene účelu použitia alebo rozsahu použitia investičného majetku pri jeho dodaní pred uplynutím obdobia na úpravu odpočítanej dane, inak R je číslo 1.
+  - R je počet kalendárnych rokov, ktoré zostávajú do skončenia obdobia na úpravu odpočítania dane vrátane roka, v ktorom došlo k zmene účelu použitia investičného majetku.
