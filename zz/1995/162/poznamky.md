@@ -22,13 +22,15 @@
 
 - 9) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 9a) § 5 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z. a zákona č. 158/1998 Z. z.
+- 9a) § 5 a 16 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 10) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.§ 18 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z. a zákona č. 173/1999 Z. z.
 
 - 10a) Zákon Národnej rady Slovenskej republiky č. 15/1993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
 
 - Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 10aa) § 22 ods. 2 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.
 
 - 10b) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
