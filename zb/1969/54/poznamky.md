@@ -1,1 +1,0 @@
-- *) § 116, 1. věta obč. zák. č. 40/1964 Sb. (příbuzní v řadě přímé, sourozenec a manžel)
