@@ -1,0 +1,3 @@
+# Čl. II
+
+Ustanovenie § 1 sa nevzťahuje na tovar uvedený v čl. I tejto vyhlášky, pokiaľ prekročí štátne hranice Českej a Slovenskej Federatívnej Republiky najneskôr 3. októbra 1991 a je predmetom zmluvy medzi česko-slovenskou osobou a zahraničným dodávateľom uzavretej najneskôr 22. septembra 1991 a česko-slovenská osoba najneskôr 7. októbra 1991 doručí Federálnemu ministerstvu zahraničného obchodu písomné oznámenie o množstve dovážaného tovaru a jeho druhu včítane čísla colného sadzobníka. Splnenie tejto povinnosti je povinná colnici preukázať písomným potvrdením Federálneho ministerstva zahraničného obchodu; bez tohto preukazu colnica tovar neprepustí do voľného obehu.<sup>1</sup>)
