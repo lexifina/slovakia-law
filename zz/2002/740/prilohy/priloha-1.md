@@ -1,4 +1,4 @@
-Príloha k opatreniu č. 23054/2002-92
+- Príloha č. 1 k opatreniu č. 23054/2002-92
 
 - Rámcová účtová osnova pre podnikateľov
 
@@ -230,7 +230,7 @@ Príloha k opatreniu č. 23054/2002-92
 
 - 326 – Nevyfakturované dodávky
 
-- 33 – Zúčtovanie so zamestnancami a orgánmi sociálneho zabezpečenia a zdravotného poistenia
+- 33 – Zúčtovanie so zamestnancami a orgánmi sociálneho poistenia a zdravotného poistenia
 
 - 331 – Zamestnanci
 
@@ -238,7 +238,7 @@ Príloha k opatreniu č. 23054/2002-92
 
 - 335 – Pohľadávky voči zamestnancom
 
-- 336 – Zúčtovanie s orgánmi sociálneho zabezpečenia a zdravotného poistenia
+- 336 – Zúčtovanie s orgánmi sociálneho poistenia a zdravotného poistenia
 
 - 34 – Zúčtovanie daní a dotácií
 
@@ -334,7 +334,7 @@ Príloha k opatreniu č. 23054/2002-92
 
 - 415 – Oceňovacie rozdiely z kapitálových účastín
 
-- 416 – Oceňovacie rozdiely z precenenia pri splynutí a rozdelení
+- 416 – Oceňovacie rozdiely z precenenia pri zlúčení, splynutí a rozdelení
 
 - 417 – Zákonný rezervný fond z kapitálových vkladov
 
@@ -426,9 +426,9 @@ Príloha k opatreniu č. 23054/2002-92
 
 - 523 – Odmeny členom orgánov spoločnosti a družstva
 
-- 524 – Zákonné sociálne zabezpečenie
+- 524 – Zákonné sociálne poistenie
 
-- 525 – Ostatné sociálne zabezpečenie
+- 525 – Ostatné sociálne poistenie
 
 - 526 – Sociálne náklady fyzickej osoby – podnikateľa
 

@@ -12,6 +12,8 @@
 
 - 3) § 28 ods. 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
+- 3a) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
 - 4) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
 - 5) § 22 ods. 7 zákona č. 595/2003 Z. z.
@@ -42,9 +44,11 @@
 
 - 16) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- 16a) § 2 písm. s) druhý bod zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
+
 - 17) § 7 zákona č. 368/1999 Z. z. o rezervách a opravných položkách na zistenie základu dane z príjmov.
 
-- 19a) § 19 ods. 5 písm. b) zákona č. 595/2003 Z. z.
+- 19a) § 2 písm. s) prvý bod zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
 
 - 20) § 24 ods. 2 zákona č. 595/2003 Z. z.
 
@@ -69,6 +73,14 @@
 - 30) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
 - 30a) § 43 ods. 7 zákona č. 595/2003 Z. z.
+
+- 30b) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
+
+- 30c) § 69 ods. 2 až 4, 6, 7 a 9 zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
+
+- 30d) § 19 a 20 zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
+
+- 30e) § 8 zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
 
 - 31) Napríklad zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení neskorších predpisov.
 

@@ -2,7 +2,7 @@
 
 (1) Na účely účtovania finančného prenájmu sa rozumie
 
-- a) finančným prenájmom nájom majetku s dohodnutým právom kúpy prenajatého majetku, ak počas dohodnutej doby finančného prenájmu, nájomca užíva prenajatý majetok za jednorazovú dohodnutú platbu alebo viac dohodnutých platieb uhrádzaných počas dohodnutej doby nájmu majetku,
+- a) finančným prenájmom obstaranie dlhodobého hmotného majetku na základe nájomnej zmluvy s dojednaným právom kúpy prenajatej veci za dohodnuté platby počas dohodnutej doby nájmu<sup>16a)</sup> tohto majetku,
 
 - b) dohodnutými platbami jednotlivé platby uhrádzané nájomcom prenajímateľovi počas dohodnutej doby finančného prenájmu majetku; súčasťou dohodnutých platieb je aj kúpna cena<sup>19a)</sup>, za ktorú na konci dohodnutej doby finančného prenájmu majetku prechádza vlastnícke právo k prenajatému majetku z prenajímateľa na nájomcu,
 
@@ -28,7 +28,7 @@
 
   - 2. prospech účtu 648 - Ostatné prevádzkové výnosy.
 
-(7) Prijatie majetku nájomcom sa v účtovníctve nájomcu účtuje v deň prijatia majetku na ťarchu príslušného účtu majetku v ocenení rovnajúcom sa istine u nájomcu so súvzťažným zápisom v prospech účtu 474 - Záväzky z nájmu.
+(7) Prijatie majetku nájomcom sa v účtovníctve nájomcu účtuje v deň prijatia majetku na ťarchu príslušného účtu majetku v ocenení rovnajúcom sa istine u nájomcu so súvzťažným zápisom v prospech účtu 474 - Záväzky z nájmu. Náklady súvisiace s obstaraním predmetu finančného prenájmu sa účtujú na ťarchu účtu 042 – Obstaranie dlhodobého hmotného majetku so súvzťažným zápisom v prospech účtu 321 – Dodávatelia alebo 379 – Iné záväzky.
 
 (8) Majetok obstaraný finančným prenájmom sa v účtovníctve nájomcu odpisuje podľa § 20.
 
