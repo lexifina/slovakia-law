@@ -1,20 +1,56 @@
-- 1) § 16 zákona ČNR č. 367/1990 Zb. o obciach (obecné zriadenie) v znení neskorších predpisov.
+- 1) § 6 zákona č. 17/1992 Zb. o životnom prostredí.
 
-- § 6 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+- 1a) § 5 zákona č. 17/1992 Zb.
+
+- 1b) § 4 zákona č. 17/1992 Zb.
+
+- 1c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 1d) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá.
+
+- 1e) Zákon č. 171/1998 Z. z. o prístupe k informáciám o životnom prostredí.
+
+- Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/1998 Z. z. o úhradách za sprístupnenie informácií o životnom prostredí.
+
+- 1f) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+
+- 1g) Napríklad § 9 ods. 4 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.
+
+- 1h) § 27 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
+
+- 1i) Napríklad zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší), zákon č. 44/1988 Zb., zákon č. 195/2000 Z. z. o telekomunikáciách, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 58/1997 Z. z., zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov, zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
+
+- 1j) § 3 zákona č. 90/1998 Z. z. o stavebných výrobkoch.
+
+- 1k) Zákon č. 90/1998 Z. z.
+
+- 1l) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+
+- 1la) Zákon č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu v znení neskorších predpisov.
+
+- 1lb) Zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
+
+- 1m) Napríklad zákon č. 272/1994 Z. z.
+
+- 1n) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení zákona č. 222/1996 Z. z., zákon č. 309/1991 Zb., zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov.
 
 - 2) § 2 ods. 2 Obchodného zákonníka.
 
-- 2a) Zákon Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 2a) § 6 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
-- 2b) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
+- 2b) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 236/2000 Z. z.
 
-- 3) § 8 a 9 zákona č. 17/1992 Zb. o životnom prostredí.
+- § 7 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z.
 
-- 4) § 192 Hospodárskeho zákonníka.
+- Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
-- 4a) § 20 a 24a zákona č. 30/1968 Zb. o štátnom skúšobníctve v znení zákona č. 54/1987 Zb. (úplné znenie č. 84/1987 Zb.).
+- 2c) Zákon č. 138/1973 Zb.
 
-- Zákon č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení neskorších predpisov.
+- 3) Napríklad zákon č. 309/1991 Zb.
+
+- 4) Zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
+
+- 4a) Napríklad vyhláška Ministerstva vnútra Slovenskej republiky č. 297/1994 Z. z. o stavebnotechnických požiadavkách na stavby a o technických podmienkach zariadení vzhľadom na požiadavky civilnej ochrany v znení vyhlášky č. 349/1998 Z. z., vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 406/1992 Zb. o požiadavkách na obmedzenie ožiarenia z radónu a ďalších prírodných rádionuklidov, vyhláška Ministerstva vnútra Slovenskej republiky č. 138/1995 Z. z., ktorou sa ustanovujú zásady požiarnej bezpečnosti pri výstavbe a užívaní prevádzkarní a iných priestorov, v ktorých sa vykonáva povrchová úprava výrobkov náterovými hmotami.
 
 - 4b) Zákon Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení zákona Národnej rady Slovenskej republiky č. 81/1994 Z. z.,
 
@@ -74,7 +110,7 @@
 
 - 11) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
 
-- 12) Zákon č. 169/1949 Zb. o vojenských obvodoch.
+- 12) Zákon č. 281/1997 Z. z.
 
 - 12a) § 18 ods. 3 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.
 
