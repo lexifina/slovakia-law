@@ -1,5 +1,7 @@
 - 1) § 307 Trestného poriadku.
 
+- 1a) § 309 Trestného poriadku.
+
 - 2) § 384a Trestného poriadku.
 
 - 3) Napríklad čl. 22 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.) v znení Dodatkového protokolu k Európskemu dohovoru o vzájomnej pomoci v trestných veciach z 20. apríla 1959 (oznámenie č. 12/1997 Z. z.).
@@ -16,6 +18,14 @@
 
 - 9) § 308 ods. 2 Trestného poriadku.
 
+- 9a) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov v znení zákona č. 441/2001 Z. z.
+
+- 9b) § 15 ods. 3 zákona Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
+
+- 9c) § 23 ods. 3 zákona č. 381/1997 Z. z. o cestovných dokladoch v znení zákona č. 441/2001 Z. z.
+
+- 9d) § 32 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.".
+
 - 10) § l2 ods. l Trestného poriadku.
 
 - 10a) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
@@ -24,10 +34,14 @@
 
 - 12) Napríklad čl. 13 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.) v znení Dodatkového protokolu k Európskemu dohovoru o vzájomnej pomoci v trestných veciach z 20. apríla 1959 (oznámenie č. 12/1997 Z. z.).
 
-- 13) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení zákona Národnej rady Slovenskej republiky č. 232/l995 Z. z.Zákon Národnej rady Slovenskej republiky č. l5/l993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
+- 13) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení zákona Národnej rady Slovenskej republiky č. 232/l995 Z. z.Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách okresnými úradmi a obcami.
 
-- 14) Napríklad zákon č. 99/l963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 379/l997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/l99l Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/l965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách), zákon Národnej rady Slovenskej republiky č. 246/l993 Z. z. o zbraniach a strelive v znení neskorších predpisov.
+- 13a) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z.
+
+- 13b) § 2 a § 7 ods. 1 a 3 písm. e) až g) zákona č. 599/2001 Z. z.
+
+- 14) Napríklad zákon č. 99/l963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 15) § 134 Občianskeho súdneho poriadku.§ 176 Trestného zákona.
 
-- 16) Zákon Slovenskej národnej rady č. 71/l992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
+- 16) Napríklad zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
