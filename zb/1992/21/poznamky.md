@@ -10,6 +10,12 @@
 
 - 2a) § 2 vyhlášky Národnej banky Slovenska č. 275/1994 Z. z. o zásadách platobného styku medzi bankami.
 
+- 2b) Napríklad § 59, 223 a 673 Obchodného zákonníka.
+
+- 2c) § 24 ods. 1 zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
+
+- 2d) § 2 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
+
 - 3) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
 
 - 3a) § 173 a 174 Obchodného zákonníka.
@@ -76,7 +82,7 @@
 
 - Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
-- Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.§ 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
 - 9d) § 32 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 

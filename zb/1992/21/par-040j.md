@@ -2,7 +2,7 @@
 
 (1) Rozhodnutie musí obsahovať výrok, odôvodnenie a poučenie o rozklade.
 
-(2) Výrok obsahuje rozhodnutie vo veci s uvedením ustanovenia právneho predpisu, podľa ktorého sa rozhodlo.
+(2) Výrok obsahuje rozhodnutie vo veci s uvedením ustanovenia právneho predpisu, podľa ktorého sa rozhodlo. Vo výroku sa uvedú aj podmienky, na ktorých splnenie sa môže rozhodnutie vo veci viazať; splnenie týchto podmienok sa preukazuje Národnej banke Slovenska.
 
 (3) V odôvodnení rozhodnutia sa uvedie, ktoré skutočnosti boli podkladom pre rozhodnutie a podľa akých právnych predpisov sa rozhodovalo.
 
