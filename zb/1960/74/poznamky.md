@@ -1,1 +1,0 @@
-- *) Na Slovensku Správa vodného hospodárstva na Slovensku.
