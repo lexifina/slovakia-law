@@ -1,6 +1,6 @@
 # § 171b
 
-(1) Kto prekročí štátnu hranicu za použitia násilia alebo hrozby bezprostredného násilia, potresce sa odňatím slobody na jeden rok až päť rokov alebo prepadnutím majetku.
+(1) Kto prekročí štátnu hranicu za použitia násilia alebo hrozby bezprostredného násilia, potresce sa odňatím slobody na dva roky až osem rokov alebo prepadnutím majetku.
 
 (2) Odňatím slobody na päť rokov až dvanásť rokov alebo prepadnutím majetku sa páchateľ potresce, ak
 

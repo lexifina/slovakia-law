@@ -11,5 +11,3 @@
 - c) do tretej nápravnovýchovnej skupiny, ak sa mu ukladá trest ako obzvlášť nebezpečnému recidivistovi (§ 41) alebo trest za niektorý z trestných činov uvedených v § 62.
 
 (3) Súd môže zaradiť páchateľa do inej nápravnovýchovnej skupiny, než do ktorej má byť podľa odseku 2 zaradený, ak má so zreteľom na závažnosť trestného činu a na stupeň a povahu narušenia páchateľa za to, že bude jeho náprava a prevýchova v inej skupine lepšie zaručená; do tretej nápravnovýchovnej skupiny zaradí však vždy páchateľa, ktorému bol uložený výnimočný trest.
-
-(4) Ak súd odsudzuje vojaka základnej vojenskej služby na trest odňatia slobody neprevyšujúci jeden rok, môže rozhodnúť, že sa trest vykoná vo vojenskom nápravnom útvare, ak sa domnieva, že tento spôsob výkonu trestu na jeho nápravu postačí.
