@@ -1,6 +1,6 @@
 # § 58a Rada sudcov Slovenskej republiky
 
-(1) Koordinačným orgánom sudcovských rád a súčasne poradným orgánom ministra spravodlivosti pri výkone štátnej správy súdov je Rada sudcov Slovenskej republiky.
+(1) Rada sudcov Slovenskej republiky je koordinačným orgánom sudcovských rád a orgánom zúčastňujúcim sa na štátnej správe súdov v rozsahu a spôsobom vymedzeným osobitným predpisom.<sup>5a</sup>)
 
 (2) Radu sudcov Slovenskej republiky tvoria predsedovia a podpredsedovia sudcovských rád uvedených v § 58 ods. 2.
 
