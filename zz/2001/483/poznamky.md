@@ -230,7 +230,7 @@
 
 - 86) Napríklad Dohovor Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.), Dohovor o boji s podplácaním zahraničných verejných činiteľov v medzinárodných obchodných transakciách (oznámenie č. 318/1999 Z. z.), Dohovor o praní špinavých peňazí, vyhľadávaní, zhabaní a konfiškácii ziskov z trestnej činnosti (oznámenie č. 109/2002 Z. z.), Trestnoprávny dohovor o korupcii (oznámenie č. 375/2002 Z. z.), Medzinárodný dohovor o potláčaní financovania terorizmu (oznámenie č. 593/2002 Z. z.).
 
-- 86a) Zákon č. 460/2002 Z. z.Nariadenie vlády Slovenskej republiky č. 707/2002 Z. z., ktorým sa vyhlasujú medzinárodné sankcie zabezpečujúce medzinárodný mier a bezpečnosť v znení neskorších predpisov.
+- 86a) § 19 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
