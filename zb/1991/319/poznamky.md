@@ -56,8 +56,6 @@
 
 - Vyhláška Ministerstva financií Slovenskej republiky č. 392/1991 Zb., ktorou sa ustanovuje postup podľa § 34 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
 
-- 14) Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
-
 - 15) § 5 ods. 2 zákona č. 87/1991 Zb.
 
 - 16) Nariadenie vlády Slovenskej republiky č. 289/1991 Zb. o výške finančnej náhrady v hotovosti poskytovanej podľa zákona č. 87/1991 Zb.
