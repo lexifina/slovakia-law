@@ -20,20 +20,18 @@ V dôležitom záujme republiky musia byť utajované pred nepovolanými osobami
 
   - 7. ročné a dlhodobé štátne plány rozvoja národného hospodárstva ako celku za Československú socialistickú republiku a Slovensko a ich plnenie až do ich zverejnenia;
 
-  - 8. stav obeživa a jeho zmeny, celoštátne finančné bilancie a celoštátne finančné plány;
+  - 8. celoštátne finančné bilancie a celoštátne finančné plány;
 
   - 9. umiestnenie, rozsah, preprava a spôsob zabezpečenia celkových štátnych zásob drahých kovov a valút;
 
-  - 10. celkové stavy zásob a celoštátne hmotné bilancie dôležitých materiálov a výrobkov;
+  - 10. celoštátne hmotné bilancie dôležitých materiálov a výrobkov;
 
-  - 11. plány dovozu a vývozu dôležitých výrobkov a ich plnenie, ako i stav vývozných fondov jednotlivých dôležitých druhov tovaru;
-
-  - 12. geologické zásoby a ťažba surovín a rúd slúžiacich na výrobu farebných a vzácnych kovov a štiepnych materiálov.
+  - 11. geologické zásoby a ťažba surovín a rúd slúžiacich na výrobu rádioaktívnych a vzácnych kovov a štiepnych materiálov.
 
 - c) V záujme politickom alebo v inom dôležitom záujme:
 
-  - 13. závažné vnútropolitické a medzištátne rokovania, konferencie, ich príprava, inštrukcie delegátom, ako i obsah medzinárodných dohôd, o utajení ktorých sa dohodnú zmluvné strany;
+  - 12. závažné vnútropolitické a medzištátne rokovania, konferencie, ich príprava, inštrukcie delegátom, ako i obsah medzinárodných dohôd, o utajení ktorých sa dohodnú zmluvné strany;
 
-  - 14. objavy, vynálezy, technické zdokonalenia a výskumné a pokusné práce, pokiaľ sa týkajú použitia nových, dosiaľ neaplikovaných princípov pred ich prihlásením na patentovanie;
+  - 13. objavy, vynálezy, technické zdokonalenia a výskumné a pokusné práce, pokiaľ sa týkajú použitia nových, dosiaľ neaplikovaných princípov pred ich prihlásením na patentovanie;
 
-  - 15. šifrovacie kľúče a iné pomôcky slúžiace na utajenie dopravovaných dôležitých správ.
+  - 14. šifrovacie kľúče a iné pomôcky slúžiace na utajenie dopravovaných dôležitých zpráv.
