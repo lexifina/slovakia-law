@@ -1,6 +1,6 @@
 Príloha č. 4 k zákonu č. 188/2003 Z. z.
 
-- Limitné hodnoty koncentrácie rizikových látok v poľnohospodárskej pôde a lesnej pôde Ukazovateľ | Limitné hodnoty pre pôdu mg/kg sušiny |
+- Medzné hodnoty koncentrácie rizikových látok v poľnohospodárskej pôde a lesnej pôde Ukazovateľ | Medzné hodnoty pre pôdu mg/kg sušiny |
 
 - | pH 5-6 | pH viac ako 6
 

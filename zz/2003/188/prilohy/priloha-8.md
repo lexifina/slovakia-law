@@ -1,3 +1,3 @@
 Príloha č. 8 k zákonu č. 188/2003 Z. z.
 
-- Projekt priamej aplikácie čiastiarenského kalu alebo dnových sedimentov do poľnohospodárskej pôdy alebo do lesnej pôdy [Vzor 01](../assets/d3908307234ce2a5595fdc4e4e8ee46e2606474541dbaf708d8027a8ae386f75.pdf)
+- Potvrdenie o dodávke a aplikácií čistiarenského kalu a dnových sedimentov [Vzor 01](../assets/df3901450345458bb2cd326d965e2a43da0d74bbb9b4c5960fd6e8c2f5ce4bcc.pdf)
