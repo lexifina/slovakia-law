@@ -4,84 +4,72 @@ PRÍPLATKY ZA RIADENIE
 
 (v Sk mesačne)
 
-1. | Ministerstvo obrany Slovenskej republiky | | &nbsp
+1. | Ministerstvo obrany Slovenskej republiky | |
 
-&nbsp | 1.1. | Riaditeľ sekcie | 10 000
+| 1.1. | Náčelník generálneho štábu | 10 000
 
-| 1.2. | Riaditeľ Vojenského obranného spravodajstva | 8 000
+| | Zástupca náčelníka generálneho štábu |
 
-| &nbsp | Riaditeľ Vojenskej spravodajskej služby | &nbsp
+| | Generálny riaditeľ sekcie |
 
-| | Riaditeľ inšpekcie ministra obrany |
+| 1.2. | Náčelník štábu generálneho štábu | 8 000
+
+| | Gnerálny riaditeľ inšpekcie ministerstva obrany |
 
 | 1.3. | Riaditeľ odboru | 6 000
 
+| | Náčelník správy |
+
 | 1.4. | Vedúci oddelenia | 5 000
 
-| 1.5. | Zástupca vedúceho oddelenia | 3 000
+| | Náčelník oddelenia |
 
-| &nbsp | Vedúci skupiny | &nbsp
+2. | Vojenské spravodajstvo | |
 
-2. | Generálny štáb Armády Slovenskej republiky | | &nbsp
+| 2.1. | Riaditeľ vojenského obranného spravodajstva | 8 000
 
-&nbsp | 2.1. | Náčelník Generálneho štábu Armády Slovenskej republiky | 10 000
+| | Riaditeľ vojenskej spravodajskej služby |
 
-| &nbsp | Zástupca náčelníka Generálneho štábu Armády Slovenskej republiky | &nbsp
+3. | Veliteľstvá | |
 
-| 2.2. | Zástupca náčelníka Generálneho štábu Armády Slovenskej republiky | 8 000
+| 3.1. | Veliteľ pozemných síl | 8 000
 
-| &nbsp | pre operačné plánovanie | &nbsp
+| | Veliteľ vzdušných síl |
 
-| | Zástupca náčelníka Generálneho štábu Armády Slovenskej republiky |
+| 3.2. | Zástupca veliteľa pozemných síl | 7 000
 
-| | pre logistiku |
+| | Zástupca veliteľa vzdušných síl |
 
-| | Náčelník štábu pozemného vojska |
+| | Náčelník štábu veliteľstva pozemných síl |
 
-| | Náčelník štábu letectva a protivzdušnej obrany |
+| | Náčelník štábu veliteľstva vzdušných síl |
 
-| 2.3. | Náčelník správy | 5 000
+| 3.3 | Náčelník správy | 4 500
 
-| 2.4. | Náčelník oddelenia | 4 000
+| 3.4 | Náčelník oddelenia | 3 500
 
-| 2.5. | Zástupca náčelníka oddelenia | 2 000
+| | Náčelník druhu vojska, služby |
 
-3. | Armádne zbory a zbor letectva a protivzdušnej obrany | | &nbsp
+4. | Vojenské veliteľské orgány | |
 
-&nbsp | 3.1. | Veliteľ zboru | 8 000
+| 4.1. | Veliteľ brigády | 5 000
 
-| 3.2. | Zástupca veliteľa zboru | 5 000
-
-| 3.3. | Náčelník druhu vojska | 3 000
-
-| &nbsp | Náčelník služby zboru | &nbsp
-
-| 3.4. | Zástupca náčelníka druhu vojska | 2 000
-
-| &nbsp | Zástupca náčelníka služby zboru | &nbsp
-
-| | Náčelník skupiny |
-
-4. | Vojenské veliteľské orgány | | &nbsp
-
-&nbsp | 4.1. | Veliteľ brigády | 5 000
-
-| &nbsp | Veliteľ pluku | &nbsp
+| | Veliteľ pluku |
 
 | 4.2. | Veliteľ práporu | 3 000
 
-&nbsp | 4.3. | Veliteľ roty | 2 000
+| 4.3 | Veliteľ roty | 2 000
 
-| &nbsp | Náčelník druhu vojska | &nbsp
+| | Náčelník druhu vojska |
 
 | | Náčelník služby brigády |
 
-| 4.4. | Veliteľ čaty | 1 500
+| 4.4 | Veliteľ čaty | 1 500
 
-| &nbsp | Náčelník druhu vojska | &nbsp
+| | Náčelník druhu vojska |
 
 | | Náčelník služby práporu |
 
-| 4.5. | Veliteľ družstva | 1 000
+| 4.5 | Veliteľ družstva | 1 000
 
-| &nbsp | Náčelník pracoviska skupiny | &nbsp
+| | Náčelník pracoviska skupiny |
