@@ -1,0 +1,1 @@
+Čarnogurský v. r.
