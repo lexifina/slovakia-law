@@ -1,0 +1,1 @@
+- *) Infekcia rany tetanom sa hodnotí ako ďalšie poškodenie na zdraví podľa odseku 8.
