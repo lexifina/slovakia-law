@@ -1,0 +1,3 @@
+# Čl. II
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností, ako vyplýva zo zmien a doplnení vykonaných zákonom Národnej rady Slovenskej republiky č. 87/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 159/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 317/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 279/1995 Z. z., zákonom Národnej rady Slovenskej republiky č. 205/1996 Z. z., zákonom č. 329/1997 Z. z., zákonom č. 219/1999 Z. z., zákonom č. 493/2001 Z. z. a týmto zákonom.
