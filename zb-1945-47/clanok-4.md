@@ -1,0 +1,3 @@
+# Čl. 4.
+
+Tento ústavní dekret nabývá účinnosti dnem vyhlášení; provedou jej všichni členové vlády.
