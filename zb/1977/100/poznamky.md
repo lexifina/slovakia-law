@@ -4,7 +4,7 @@
 
 - 1a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 2) Napr. zákon SNR č. 1/1955 Zb. SNR o štátnej ochrane prírody, zákon SNR č. 7/1958 Zb. SNR o kultúrnych pamiatkach, zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu, zákon č. 23/1962 Zb. o poľovníctve, zákon č. 138/1973 Zb. o vodách (vodný zákon).
+- 2) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti, zákon č. 23/1962 Zb. o poľovníctve v znení neskorších predpisov, zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov.
 
 - 3) § 2 zákona č. 61/1977 Zb. o lesoch.
 
@@ -13,6 +13,10 @@
 - Obchodný zákonník.
 
 - Občiansky zákonník.
+
+- 3b) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb. a zákona č. 455/1991 Zb.
+
+- 3c) § 2 Obchodného zákonníka.
 
 - 4) § 17 ods. 1 zákona č. 229/1991 Zb. o úpravách vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
 
@@ -30,7 +34,13 @@
 
 - 10) Napr. zákon č. 23/1962 Zb. o poľovníctve, úprava Ústredného výboru Československého zväzu telesnej výchovy o jednotnom riadení turistického značkovania ciest v ČSR, čiastka 60/1958 Ú. v.
 
+- 10a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 11) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+
+- 11a) § 7 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
+
+- 11b) § 72 ods. 1 až 3 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
 
 - 12) Zákon č. 23/1962 Zb. o poľovníctve.
 

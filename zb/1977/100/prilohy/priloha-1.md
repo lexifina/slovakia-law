@@ -1,7 +1,83 @@
-[Príloha 01](../assets/965997f470af9022c8fe908f07422090750eba88a1c019ea6802d5ccb1f798ef.pdf)
+[Príloha 01](../assets/902b2609608608ff900e9490b2d3696c75656a8dadc2fa310116b169b0618d24.pdf)
 
 Príloha č. 1
 
-Sídla orgánov štátnej správy lesného hospodárstva a poľovníctva
+SÍDLA A OBVODY ÚZEMNEJ PÔSOBNOSTI ORGÁNOV ŠTÁTNEJ SPRÁVY LESNÉHO HOSPODÁRSTVA
 
-[Príloha 01](../assets/8a31f2ec07c844f4b311599377125f7a9da457636d94ee4d7ccf92ba51c49e02.pdf)
+SÍDLA OBLASTNÝCH LESNÝCH ÚRADOV | ÚZEMNÁ PÔSOBNOSŤ PODĽA OKRESOV | SÍDLA LESNÝCH ÚRADOV
+
+| | | BRATISLAVA | Bratislava-mesto | Bratislava
+
+| Bratislava-vidiek | Bratislava
+
+| Senica | Senica
+
+| Trnava | Trnava
+
+| Galanta | Galanta
+
+| Trenčín | Trenčín
+
+| Dunajská Streda | Dunajská Streda
+
+NITRA | Nitra | Nitra
+
+| Levice | Levice
+
+| Nové Zámky | Nové Zámky
+
+| Komárno | Komárno
+
+| Topoľčany | Topoľčany
+
+| Prievidza | Prievidza
+
+ŽILINA | Čadca | Čadca
+
+| Žilina | Žilina
+
+| Považská Bystrica | Považská Bystrica
+
+| Martin | Martin
+
+| Dolný Kubín | Dolný Kubín
+
+| Liptovský Mikuláš | Liptovský Mikuláš
+
+ZVOLEN | Banská Bystrica | Banská Bystrica
+
+| Zvolen | Zvolen
+
+| Žiar nad Hronom | Žiar nad Hronom
+
+| Veľký Krtíš | Veľký Krtíš
+
+| Lučenec | Lučenec
+
+| Rimavská Sobota | Rimavská Sobota
+
+SPIŠSKÁ NOVÁ VES | Poprad | Poprad
+
+| Spišská Nová Ves | Spišská Nová Ves
+
+| Stará Ľubovňa | Stará Ľubovňa
+
+| Rožňava | Rožňava
+
+| Košice-mesto | Košice
+
+| Košice-vidiek | Košice
+
+PREŠOV | Prešov | Prešov
+
+| Michalovce | Michalovce
+
+| Vranov nad Topľou | Vranov nad Topľou
+
+| Bardejov | Bardejov
+
+| Svidník | Svidník
+
+| Humenné | Humenné
+
+| Trebišov | Trebišov

@@ -20,4 +20,6 @@
 
 - i) upozorňovať vlastníka alebo užívateľa lesov a následne orgán štátnej správy lesného hospodárstva na každú činnosť, ktorá je v rozpore s právnymi predpismi.
 
+- j) vyznačovať ťažbu dreva pred jej vykonaním a vydávať písomný súhlas podľa § 10 ods. 3.
+
 (2) Výkon zákonom určených povinností odborným lesným hospodárom nemôže byť dôvodom na zrušenie zmluvy uzavretej podľa § 13 ods. 3.
