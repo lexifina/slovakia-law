@@ -1,7 +1,0 @@
-- 1) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
-
-- 2) § 4 ods. 1 nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.§ 4 ods. 1 nariadenia vlády Slovenskej republiky č. 250/1992 Zb. o platových pomeroch príslušníkov Zboru požiarnej ochrany Slovenskej republiky v znení neskorších predpisov.
-
-- 3) § 126, 141a a 142 Zákonníka práce.
-
-- 4) Napríklad nariadenie vlády Slovenskej republiky č. 176/1991 Zb., ktorým sa ustanovujú predpoklady pre výkon funkcií v okresných a obvodných úradoch, ktoré si vyžadujú osobitnú odbornú spôsobilosť, nariadenie vlády Slovenskej republiky č. 163/1992 Zb., ktorým sa ustanovujú predpoklady pre výkon funkcií v orgánoch štátnej správy pre životné prostredie, ktoré si vyžadujú osobitnú odbornú spôsobilosť v znení nariadenia vlády Slovenskej republiky č. 72/1996 Z. z., § 33 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon), výnos Ministerstva vnútra Slovenskej republiky z 21. júla 1992 č. PO-267/2-92, ktorým sa upravujú podrobnosti o pracovnoprávnych vzťahoch príslušníkov Zboru požiarnej ochrany (registrovaný v čiastke 83/1992 Zb.).
