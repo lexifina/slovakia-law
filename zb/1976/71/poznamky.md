@@ -1,1 +1,0 @@
-- 1) §2 ods. 2 zákona č. 145/1970 Zb. o národohospodárskom plánovaní.
