@@ -28,6 +28,8 @@
 
 - 10) Zákon č. 313/2001 Z. z. o verejnej službe.
 
+- 10a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 11) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
 - 12) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
