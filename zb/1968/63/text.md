@@ -88,7 +88,7 @@ Prevádzkové a pracovné režimy
 
 - 11. Pri skrátení pracovného času podľa bodov 1 až 5 sa zavedú prevádzkové a pracovné režimy s prihliadnutím na záujmy pracovníkov a v súlade s potrebami spoločnosti i podmienkami prevádzky.
 
-- 12. Dĺžka smeny nesmie prevýšiť 9 hodín a ranná smena nesmie sa zásadne začínať pred 6. hodinou rannou; výnimky sú možné len kde bude pracovný čas rozvrhnutý nerovnomerne na jednotlivé týždne (§ 85 Zákonníka práce).
+- 12. Ranná smena nesmie sa zásadne začínať pred 6. hodinou rannou; výnimky sú možné len kde bude pracovný čas rozvrhnutý nerovnomerne na jednotlivé týždne (§ 85 Zákonníka práce).
 
 - Pri rovnomernom rozvrhnutí pracovného času na jednotlivé týždne sa pracovný čas zásadne rozvrhne na päť pracovných dní v týždni. Ani pred voľným dňom nesmie byť kratší ako 8 hodín v rannej smene a na jednosmenných pracoviskách a 7 <sup>1</sup>/<sub>2</sub> hodín v odpoludňajšej a nočnej smene, pokiaľ to nebude nevyhnutné zo zdravotných dôvodov.
 
