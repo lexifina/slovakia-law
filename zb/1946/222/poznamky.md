@@ -1,1 +1,0 @@
-- 1) Časť V (§ 13 a 14) poštového zákona obsahovala trestné ustanovenia; vydaním trestných zákonov z r. 1950 stratila platnosť.
