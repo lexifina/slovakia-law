@@ -1,3 +1,3 @@
 Príloha č. 32 k vyhláške č. 210/2000 Z. z.
 
-- LEKÁRSKE ELEKTRONICKÉ MAXIMÁLNE [Príloha 32](../assets/016f790d175024d131bb7298652f2579bb22dcb72aa75eaa1b7868a605ab001e.pdf)
+- LEKÁRSKE ELEKTRONICKÉ MAXIMÁLNE [Príloha 32](../assets/027074a44f06e35c986dbada64f0118ddcbede5e2ac04406782a3f7e5290c537.pdf)
