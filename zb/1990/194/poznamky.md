@@ -6,6 +6,8 @@
 
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 4a) § 3 ods. 5 zákona č. 429/2002 Z. z. o burze cenných papierov.
+
 - 5) Napr. zákon Slovenskej národnej rady č. 96/1991 Zb. o verejných kultúrnych podujatiach.
 
 - 6) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov

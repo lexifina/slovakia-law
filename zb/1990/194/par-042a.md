@@ -2,7 +2,7 @@
 
 (1) Prevádzkovanie lotérií a iných podobných hier možno povoliť len právnickej osobe so sídlom v Slovenskej republike.
 
-Povolenie nemožno vydať právnickej osobe so zahraničnou majetkovou účasťou ani právnickej osobe, v ktorej má táto spoločnosť majetkovú účasť.
+Ak ide o právnické osoby so zahraničnou majetkovou účasťou, povolenie možno vydať len právnickej osobe s majetkovou účasťou osôb so sídlom alebo s trvalým pobytom v štáte Európskeho hospodárskeho priestoru<sup>4a</sup>) alebo v štáte Organizácie pre hospodársku spoluprácu a rozvoj.
 
 Povolenie na prevádzkovanie lotérií a iných podobných hier pre akciovú spoločnosť sa môže vydať len za podmienky, že všetky jej akcie znejú na meno. Podrobnosti o maximálnom počte kasín na prevádzkovanie stávkových hier podľa § 2 písm. i) a určenie, v ktorých mestách možno prevádzkovať tieto stávkové hry v kasíne, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
 
