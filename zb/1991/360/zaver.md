@@ -1,3 +1,0 @@
-Minister:
-
-Ehrenberger v. r.
