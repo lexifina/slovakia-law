@@ -1,1 +1,0 @@
-- *) Medzinárodný dohovor o preprave tovaru po železniciach (CIM) a Medzinárodný dohovor o preprave cestujúcich a cestovných batožín po železniciach (CIV) nadobudli účinnosť podľa nariadenia ministra dopravy č. 5/1956 Zb. 1. marca 1956.
