@@ -1,1 +1,0 @@
-- 1) Zákon č. 84/1972 Sb., o objevech, vynálezech, zlepšovacích návrzích a průmyslových vzorech.
