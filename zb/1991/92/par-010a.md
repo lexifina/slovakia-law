@@ -18,7 +18,9 @@
 
 - h) prípadnú skutočnosť, že fond uzatvorí na základe rozhodnutia vlády s nadobúdateľom zmluvu o úhrade nákladov vynaložených na vyporiadanie ekologických záväzkov vzniknutých pred privatizáciou,
 
-- ch) prípadné ďalšie podmienky.
+- ch) spôsob vyporiadania nároku oprávnených osôb<sup>4e</sup>),
+
+- i) prípadné ďalšie podmienky.
 
 (2) Rozhodnutie o privatizácii priamym predajom vopred určenému záujemcovi obsahuje okrem náležitostí uvedených v odseku 1
 
@@ -28,7 +30,7 @@
 
 - c) spôsob určenia kúpnej ceny; ak je kúpna cena určená dohodou, uvedie sa absolútna suma,
 
-- d) platobné podmienky vrátane ich zabezpečenia.
+- d) platobné podmienky vrátane preukázania zdroja zaplatenia kúpnej ceny alebo prvej splátky, ak platobné podmienky určujú zaplatenie kúpnej ceny v splátkach, a preukázanie pôvodu finančných prostriedkov podľa osobitného predpisu<sup>4f</sup>).
 
 (3) Rozhodnutie o privatizácii verejnou súťažou obsahuje okrem náležitostí uvedených v odseku 1
 
@@ -36,7 +38,7 @@
 
 - b) vymedzenie okruhu účastníkov privatizácie.
 
-(4) Rozhodnutie o privatizácii vložením privatizovaného majetku do obchodnej spoločnosti s následnou privatizáciou jej obchodných podielov alebo akcií a rozhodnutie o privatizácii majetkovej účasti štátu obsahuje okrem náležitostí uvedených v odseku 1
+(4) Rozhodnutie o privatizácii vložením privatizovaného majetku do obchodnej spoločnosti a rozhodnutie o privatizácii majetkovej účasti štátu obsahuje okrem náležitostí uvedených v odseku 1
 
 - a) spôsob privatizácie akcií (obchodných podielov) vyjadrený percentuálnymi podielmi jednotlivých spôsobov privatizácie akcií (obchodných podielov), prípadne percentuálne podiely predávané jednotlivým nadobúdateľom,
 
@@ -48,4 +50,4 @@
 
 (5) Prílohu privatizovaného projektu vybraného rozhodnutím o privatizácii na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
 
-(6) Pri privatizačnom projekte majetkových účastí možno rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja, prípadne vydanie majetku osobe oprávnenej podľa osobitných predpisov.<sup>2</sup>) Toto rozhodnutie zabezpečí fond pri výkone práv akcionára.<sup>4e</sup>)
+(6) Pri privatizačnom projekte majetkových účastí možno rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja, prípadne vyporiadanie nároku osoby oprávnenej podľa osobitných predpisov.<sup>2</sup>)
