@@ -12,7 +12,7 @@
 
 - 6) § 124 Zákonníka práce.Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 18/1991 Zb. o iných úkonoch vo všeobecnom záujme.§ 57 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení neskorších predpisov.
 
-- 7) § 6 zákona Národnej rady Slovenskej republiky č. 237/1993 Z. z. o registri trestov v znení neskorších predpisov.
+- 7) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 7a) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
