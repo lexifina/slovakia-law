@@ -34,7 +34,7 @@
 
     - Článok 5
 
-      - Na vykonávanie tohto Dohovoru budú ministerstvá zdravotníctva oboch Zmluvných strán dojednávať každoročne konkrétny plán spolupráce.
+      - Na vykonávanie tohto Dohovoru budú ministerstvá zdravotníctva oboch Zmluvných strán dojednávať dvojročné vykonávacie plány spolupráce.
 
     - Článok 6
 
