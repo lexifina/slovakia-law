@@ -16,7 +16,9 @@
 
 - f) odviesť poistné na zdravotné poistenie, nemocenské poistenie, dôchodkové zabezpečenie a príspevok do Fondu zamestnanosti Slovenskej republiky,
 
-- g) vyporiadať záväzky a pohľadávky.
+- g) vyporiadať záväzky a pohľadávky,
+
+- h) oznámiť štátnemu archívu s regionálnou pôsobnosťou do jedného mesiaca odo dňa zápisu likvidácie podniku do obchodného registra túto skutočnosť, následne vypracovať a predložiť návrh na vyradenie registratúrnych záznamov, odovzdať archívne dokumenty, zabezpečiť uloženie registratúrnych záznamov bez trvalej dokumentárnej hodnoty do uplynutia lehôt uloženia a oznámiť miesto ich uloženia.
 
 (3) Po schválení účtovnej závierky zakladateľom likvidátor je povinný
 
