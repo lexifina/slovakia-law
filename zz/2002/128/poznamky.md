@@ -40,9 +40,13 @@
 
 - 17) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
-- 18) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+- 18) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
 - 18a) § 2 písm. a) zákona č. 22/2004 Z. z.
+
+- 18aa) § 12 ods. 4 a 6 zákona č. 725/2004 Z. z.
 
 - 19) § 8 ods. 3 písm. c) zákona č. 264/1999 Z. z.
 
