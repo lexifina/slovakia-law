@@ -496,7 +496,11 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - b)
 
-- povoľuje poskytovanie zdravotnej starostlivosti podľa § 31 ods. 4,“.
+- povoľuje poskytovanie zdravotnej starostlivosti podľa § 31 ods. 4,
+
+- c)
+
+- zakladá zdravotnícke zariadenia podľa osobitného predpisu.<sup>9e</sup>)“.
 
 - 66. V § 79 ods. 4 poznámka pod čiarou k odkazu 25 znie:
 
@@ -505,6 +509,12 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 - Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.“.
 
 - 67. V § 79 ods. 5 sa za slovo „systém“ vkladajú slová „ministerstva zdravotníctva“.
+
+- 68. Doterajší text § 80e sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Zriaďovateľská funkcia krajského úradu k štátnym zdravotníckym zariadeniam uvedeným v § 24 ods. 1 písm. d) a zriaďovateľská funkcia ministerstva zdravotníctva k štátnym zdravotníckym zariadeniam uvedeným v § 24 ods. 1 písm. h) a i) prechádza na príslušnú obec. Zriaďovateľská funkcia ministerstva zdravotníctva k štátnym zdravotníckym zariadeniam uvedeným v § 24 ods. 1 písm. f) a j), okrem nemocnice s poliklinikou III. typu, prechádza na príslušný samosprávny kraj.“.
 
 - 69. Za § 80e sa vkladajú § 80f až 80i, ktoré znejú:
 
@@ -517,6 +527,10 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 - (1)
 
 - Zdravotnícke zariadenie, ktoré vzniklo na základe osobitného predpisu,<sup>26</sup>) môže poskytovať zdravotnú starostlivosť naďalej, ak do 1. januára 2007 získa povolenie na poskytovanie zdravotnej starostlivosti podľa tohto zákona.
+
+- (2)
+
+- Zdravotnícke zariadenie, ktorého zriaďovateľom je samosprávny kraj alebo obec podľa § 80e ods. 2, môže poskytovať zdravotnú starostlivosť naďalej, ak do 1. januára 2007 získa povolenie na poskytovanie zdravotnej starostlivosti podľa tohto zákona.
 
 - § 80h
 
