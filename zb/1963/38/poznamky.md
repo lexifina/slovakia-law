@@ -1,0 +1,1 @@
+- *) Úradný list Československej socialistickej republiky, čiastka 2 z 11. januára 1961.
