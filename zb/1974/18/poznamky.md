@@ -1,0 +1,1 @@
+- *) Týmto sa dopĺňa vyhláška ministra zahraničných vecí č. 50/1972 Zb.
