@@ -224,7 +224,7 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Ak sa navrhuje colne schválené určenie spätný vývoz po colnom režime aktívny zušľachťovací styk, v pravom dolnom rohu v bodkovane vyznačenej časti sa uvádza cena za poskytnutú službu vrátane ceny tovaru únie, ktorý bol pridaný k tovaru prepustenému do colného režimu aktívny zušľachťovací styk.
 
-  - V zostávajúcej časti odseku sa uvádzajú údaje o predložených dokladoch a poznámky deklaranta. Ak sa ako dôkaz o cene tovaru predkladá účtovný doklad, uvedie sa kód uvedený v prílohe č. 3. Za týmto kódom sa uvedie číslo predloženého dokladu. Pri predložení viacerých účtovných dokladov sa kód uvedený v prílohe č. 3 zopakuje pred každým číslom dokladu.
+  - V zostávajúcej časti odseku sa uvádzajú údaje o predložených dokladoch a poznámky deklaranta. Ak tovar podlieha spotrebnej dani, uvedie sa text „Tovar je predmetom spotrebnej dane. Ak sa ako dôkaz o cene tovaru predkladá účtovný doklad, uvedie sa kód uvedený v prílohe č. 3. Za týmto kódom sa uvedie číslo predloženého dokladu. Pri predložení viacerých účtovných dokladov sa kód uvedený v prílohe č. 3 zopakuje pred každým číslom dokladu.
 
   - Pri colnom režime tranzit sa uvádzajú len záznamy o predložených povoleniach a osvedčeniach, ak sú potrebné.
 
@@ -462,7 +462,7 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Ak sa navrhuje colný režim voľný obeh po colnom režime pasívny zušľachťovací styk, v pravom dolnom rohu v bodkovane vyznačenej časti sa uvádza cena za poskytnutú službu vrátane ceny tovaru únie, ktorý bol pridaný k tovaru. Táto cena sa zaokrúhľuje na celé koruny smerom nadol.
 
-  - V zostávajúcej časti odseku sa uvádzajú údaje o predložených dokladoch a poznámky deklaranta. Ak sa ako dôkaz o cene tovaru predkladá účtovný doklad, uvedie sa kód uvedený v prílohe č. 3. Za týmto kódom sa uvedie číslo predloženého dokladu. Pri predložení viacerých účtovných dokladov sa kód uvedený v prílohe č. 3 zopakuje pred každým číslom dokladu.
+  - V zostávajúcej časti odseku sa uvádzajú údaje o predložených dokladoch a poznámky deklaranta. Ak tovar podlieha spotrebnej dani, uvedie sa text „Tovar je predmetom spotrebnej dane. Ak sa ako dôkaz o cene tovaru predkladá účtovný doklad, uvedie sa kód uvedený v prílohe č. 3. Za týmto kódom sa uvedie číslo predloženého dokladu. Pri predložení viacerých účtovných dokladov sa kód uvedený v prílohe č. 3 zopakuje pred každým číslom dokladu.
 
   - Pri nedostatku miesta možno tieto údaje uviesť v prílohe zväzku jednotného colného dokladu.
 

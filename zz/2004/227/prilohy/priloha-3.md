@@ -116,6 +116,14 @@ Príloha č. 3 k vyhláške č. 227/2004 Z. z.
 
   - U087 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý nie je ustanovená sadzba spotrebnej dane, je určený na použitie, ponúkaný na použitie alebo použitý ako palivo a podľa § 6 ods. 2 zákona č. 98/2004 Z. z. sa naň uplatní sadzba spotrebnej dane podľa § 6 ods. 1 písm. f) druhého bodu zákona č. 98/2004 Z. z.,
 
+  - U090 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) prvom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
+  - U091 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) druhom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
+  - U088 – ak ide o tovar uvedený v § 4 ods. 2 alebo 3 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý nie je ustanovená sadzba spotrebnej dane, je určený na použitie, ponúkaný na použitie alebo použitý ako pohonná látka a podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. sa naň uplatní sadzba spotrebnej dane podľa § 6 ods. 1 písm. g) prvého bodu zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
+  - U089 – ak ide o tovar uvedený v § 4 ods. 2 alebo 3 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý nie je ustanovená sadzba spotrebnej dane, je určený na použitie, ponúkaný na použitie alebo použitý ako palivo a podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. sa naň uplatní sadzba spotrebnej dane podľa § 6 ods. 1 písm. g) druhého bodu zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
   - U041 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená znížená sadzba spotrebnej dane v § 7 ods. 1 zákona č. 98/2004 Z. z., je označený podľa § 8 zákona č. 98/2004 Z. z. a použije sa podľa § 7 ods. 1 písm. a) zákona č. 98/2004 Z. z.,
 
   - U042 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená znížená sadzba spotrebnej dane v § 7 ods. 1 zákona č. 98/2004 Z. z., je označený podľa § 8 zákona č. 98/2004 Z. z. a použije sa podľa § 7 ods. 1 písm. b) prvého bodu zákona č. 98/2004 Z. z.,
@@ -138,6 +146,10 @@ Príloha č. 3 k vyhláške č. 227/2004 Z. z.
 
   - U170 – ak ide o tovar uvedený v § 4 ods. 3 písm. b) zákona č. 98/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý v súlade s § 6 ods. 2 zákona č. 98/2004 Z. z. je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. f) druhého bodu zákona č. 98/2004 Z. z.,
 
+  - U180 – ak ide o tovar uvedený v § 4 ods. 3 písm. a) zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý v súlade s § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) prvom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
+  - U190 – ak ide o tovar uvedený v § 4 ods. 3 písm. b) zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý v súlade s § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) druhom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
   - U210 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. a) zákona č. 98/2004 Z. z.,
 
   - U220 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. b) zákona č. 98/2004 Z. z.,
@@ -152,6 +164,10 @@ Príloha č. 3 k vyhláške č. 227/2004 Z. z.
 
   - U270 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. f) druhého bodu zákona č. 98/2004 Z. z.,
 
+  - U280 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) prvom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
+  - U290 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) druhom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
   - U301 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. a) zákona č. 98/2004 Z. z.,
 
   - U302 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. b) zákona č. 98/2004 Z. z.,
@@ -159,6 +175,8 @@ Príloha č. 3 k vyhláške č. 227/2004 Z. z.
   - U303 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. c) zákona č. 98/2004 Z. z.,
 
   - U304 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. d) zákona č. 98/2004 Z. z.,
+
+  - U305 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. e) zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
 
   - U401 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. a) zákona č. 98/2004 Z. z.,
 
@@ -174,6 +192,10 @@ Príloha č. 3 k vyhláške č. 227/2004 Z. z.
 
   - U407 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. i) zákona č. 98/2004 Z. z.;
 
+  - U501 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 3 písm. a) zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
+
+  - U502 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 3 písm. b) zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.
+
   - b) kódy používané pri spotrebnej dani z vína:
 
   - V010 – ak ide o tovar uvedený v § 4 ods. 2 písm. b) zákona č. 104/2004 Z. z. o spotrebnej dani z vína (ďalej len „zákon č. 104/2004 Z. z."), ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená sadzba spotrebnej dane v § 6 písm. a) zákona č. 104/2004 Z. z.,
@@ -183,6 +205,8 @@ Príloha č. 3 k vyhláške č. 227/2004 Z. z.
   - V030 – ak ide o tovar uvedený v § 4 ods. 2 písm. c) zákona č. 104/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená sadzba spotrebnej dane v § 6 písm. c) zákona č. 104/2004 Z. z.,
 
   - V040 – ak ide o tovar uvedený v § 4 ods. 2 písm. d) zákona č. 104/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená sadzba spotrebnej dane v § 6 písm. d) zákona č. 104/2004 Z. z.,
+
+  - V210 – ak ide o tovar uvedený v § 4 ods. 2 písm. b) zákona č. 104/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 písm. a) zákona č. 104/2004 Z. z.,
 
   - V220 – ak ide o tovar uvedený v § 4 ods. 2 písm. c) zákona č. 104/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 písm. b) zákona č. 104/2004 Z. z.,
 

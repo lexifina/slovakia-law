@@ -16,7 +16,7 @@ Príloha č. 1 k vyhláške č. 227/2004 Z. z.
 
   - 4. Colný úrad Fiľakovo
 
-- pobočka colného úradu Rimavská Sobota, Hviezdoslavova 35
+- pobočka colného úradu Jesenské, Sobotská 204
 
   - 5. Colný úrad Komárno
 
