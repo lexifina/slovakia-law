@@ -1,1 +1,0 @@
-- *) Pravidlá pre vykonávanie periodických revízií hospodárenia [č. 112/1965 Zb.]
