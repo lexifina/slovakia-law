@@ -4,7 +4,7 @@ Príloha č. 7 k nariadeniu vlády č. 281/2003 Z. z.
 
   - ČASŤ A ODBER VZORIEK NA BAKTERIOLOGICKÉ VYŠETROVANIE TIEL HOVÄDZIEHO DOBYTKA, OŠÍPANÝCH, OVIEC, KÔZ A KONÍ NA BITÚNKOCH
 
-    - Táto časť vzťahuje na bakteriologické vyšetrovanie povrchu tiel. Vzťahuje sa na odber vzoriek, analyzovanie vzoriek a prezentáciu výsledkov.
+    - Táto časť sa vzťahuje na bakteriologické vyšetrovanie povrchu tiel. Vzťahuje sa na odber vzoriek, analyzovanie vzoriek a prezentáciu výsledkov.
 
     - METÓDA ODBERU VZORIEK
 

@@ -26,7 +26,7 @@
 
 - 14) § 6 zákona č. 488/2002 Z. z
 
-- 15) Príloha č. 3 nariadenia vlády Slovenskej republiky č. 293/2003 Z. z. o veterinárnej kontrole pri výmenách živých zvierat a produktov živočíšneho pôvodu s členskými štátmi.
+- 15) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 293/2003 Z. z. o veterinárnej kontrole pri výmenách živých zvierat a produktov živočíšneho pôvodu s členskými štátmi v znení nariadenia vlády Slovenskej republiky č. 491/2003 Z. z.
 
 - 16) Nariadenie vlády Slovenskej republiky č. 319/2003 Z. z., ktorým sa upravujú podrobnosti o zákaze používania niektorých látok s hormonálnym alebo tyreostatickým účinkom a beta-agonistických látok v chove hospodárskych zvierat.
 
@@ -66,7 +66,7 @@
 
 - 3) § 7 ods. 2 písm. f) prvý bod zákona č. 488/2002 Z. z.
 
-- 4) Nariadenie vlády Slovenskej republiky č. 284/2003 Z. z. o zdravotných problémoch a problémoch veterinárnej inšpekcie pri dovoze hovädzieho dobytka, oviec, kôz, ošípaných, čerstvého mäsa alebo mäsových výrobkov z tretích krajín.
+- 4) Nariadenie vlády Slovenskej republiky č. 300/2003 Z. z. o požiadavkách na zdravie zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri produkcii králičieho mäsa a zveriny zo zveri z farmových chovov a pri ich uvádzaní na trh v znení nariadenia vlády Slovenskej republiky č. 501/2003 Z. z.
 
 - 5) § 33 a 34 výnosu Ministerstva pôdohospodárstva Slovenskej republiky z 20. mája 1996 č. 981/1996 (oznámenie č. 195/1996 Z. z.).
 

@@ -258,7 +258,7 @@ Príloha č. 2 k nariadeniu vlády č. 281/2003 Z. z.
 
   - 9. Ak sa krv alebo vedľajšie jatočné produkty z viacerých zvierat zbierajú do rovnakého kontajnera alebo nádoby pred ukončením prehliadky post mortem, musí sa celý obsah tohto kontajnera alebo nádoby posúdiť ako nepožívateľný pre ľudí, ak bolo telo jedného zo zvierat, z ktorých sa zbieral, posúdené ako nepožívateľné pre ľudí.
 
-  - 10. Manipulovanie, orezávanie, ďalšie ošetrovanie, úprava a preprava mäsa vrátane vedľajších jatočných produktov sa musí vykonávať pri dodržaní všetkých hygienických požiadaviek. Ak sa toto mäso balí do druhého obalu, musia byť dodržané podmienky uvedené v časti B písm. d) a časti K. Mäso balené v druhom obale sa musí skladovať v samostatnej miestnosti oddelene od nechráneného mäsa.
+  - 10. Manipulovanie, orezávanie, ďalšie ošetrovanie, úprava a preprava mäsa vrátane vedľajších jatočných produktov sa musí vykonávať pri dodržaní všetkých hygienických požiadaviek. Ak sa toto mäso balí do druhého obalu, musia byť dodržané podmienky uvedené v časti B bode 4 a časti K. Mäso balené v druhom obale sa musí skladovať v samostatnej miestnosti oddelene od nechráneného mäsa.
 
 - ČASŤ H ZDRAVOTNÁ PREHLIADKA POST MORTEM
 
@@ -464,15 +464,19 @@ Príloha č. 2 k nariadeniu vlády č. 281/2003 Z. z.
 
     - a) oválna značka najmenej 6,5 cm široká a 4,5 cm vysoká s týmito informáciami uvedenými zreteľne čitateľnými znakmi:
 
-    - aa) v hornej časti skratka krajiny odoslania veľkými písmenami, t. j. jedna zo skratiek uvedených v právnom akte Európskych spoločenstiev uvedenom v prílohe č. 1 bodoch 1 až 27, ak ide o Slovenskú republiku, skratku SK,
+    - aa) v hornej časti skratka krajiny odoslania veľkými písmenami, t. j. jedna zo skratiek uvedených v právnom akte Európskych spoločenstiev uvedenom v prílohe č. 1 bode 1, ak ide o Slovenskú republiku, skratku SK,
 
     - ab) za ktorou nasleduje úradné číslo prevádzkarne,
+
+    - ac) v dolnej časti skupiny skratiek: uvedené v právnom akte Európskych spoločenstiev uvedenom v prílohe č. 1 bode 1,
 
     - b) alebo oválna značka najmenej 6,5 cm široká a 4,5 cm vysoká s týmito informáciami uvedenými zreteľne čitateľnými znakmi:
 
     - ba) v hornej časti názov odosielajúcej krajiny veľkými písmenami; ak ide o Slovenskú republiku názov Slovenská republika,
 
     - bb) v strede veterinárne schvaľovacie číslo prevádzkarne,
+
+    - bc) v dolnej časti skupiny skratiek: uvedené v právnom akte Európskych spoločenstiev uvedenom v prílohe č. 1 bode 1.
 
   - Písmená musia byť najmenej 0,8 cm vysoké a číslice najmenej 1 cm vysoké. Rozmery a znaky tejto značky môžu byť zmenšené pri zdravotnom označovaní jahniat, kozliatok a prasiatok. Zdravotná značka môže okrem toho obsahovať indikáciu úradného veterinárneho lekára, ktorý vykonal zdravotnú prehliadku mäsa.
 
