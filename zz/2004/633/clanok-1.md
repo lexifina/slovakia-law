@@ -586,7 +586,49 @@ Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákon
 
 - „(10)
 
-- Lekárenskú starostlivosť nemôže poskytovať osoba, ktorá je oprávnená predpisovať lieky a zdravotnícke pomôcky, okrem fyzickej osoby, ktorá neposkytuje ambulantnú zdravotnú starostlivosť alebo ústavnú zdravotnú starostlivosť.“.
+- Lekárenskú starostlivosť nemôže poskytovať osoba, ktorá je oprávnená predpisovať lieky a zdravotnícke pomôcky, okrem fyzickej osoby, ktorá neposkytuje ambulantnú zdravotnú starostlivosť alebo ústavnú zdravotnú starostlivosť.
+
+- (11)
+
+- Pri poskytovaní lekárenskej starostlivosti uhrádzanej alebo čiastočne uhrádzanej na základe zdravotného poistenia je držiteľ povolenia na poskytovanie lekárenskej starostlivosti povinný mať uzatvorenú zmluvu o poskytovaní lekárenskej starostlivosti so zdravotnou poisťovňou poistenca.<sup>15aa</sup>)
+
+- (12)
+
+- Zmluva o poskytovaní lekárenskej starostlivosti so zdravotnou poisťovňou poistenca musí obsahovať kritériá a požiadavky podľa osobitného predpisu.<sup>15ab</sup>)
+
+- (13)
+
+- Zmluvné strany sú oprávnené vypovedať zmluvu, ak jedna zo zmluvných strán nedodrží podmienky podľa osobitného predpisu.<sup>15ac</sup>)
+
+- (14)
+
+- Zmluvu s držiteľom povolenia na poskytovanie lekárenskej starostlivosti uzatvorenú podľa odseku 12 nemožno zrušiť, ak držiteľ povolenia na poskytovanie lekárenskej starostlivosti
+
+- a)
+
+- dodržuje platné právne predpisy pri účtovaní ceny za vydané lieky a zdravotnícke pomôcky,
+
+- b)
+
+- umožňuje cenové kontroly oprávneným osobám zmluvnej zdravotnej poisťovne.
+
+- (15)
+
+- Ak zdravotná poisťovňa zmluvou podľa odseku 12 obmedzuje držiteľa povolenia na poskytovanie lekárenskej starostlivosti pri zabezpečovaní dostupnosti liekov uhrádzaných alebo čiastočne uhrádzaných na základe zdravotného poistenia, držiteľ povolenia na poskytovanie lekárenskej starostlivosti môže požiadať Úrad pre dohľad nad zdravotnou starostlivosťou (ďalej len „úrad“) (§ 68b) alebo ministerstvo zdravotníctva o preskúmanie predmetu zmluvy.“.
+
+- Poznámky pod čiarou k odkazom 15aa až 15ac znejú:
+
+- „15aa)
+
+- § 7 ods. 3 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
+
+- 15ab)
+
+- § 7 ods. 9 písm. b) a d) a ods. 10 zákona č. 581/2004 Z. z.
+
+- 15ac)
+
+- § 7 ods. 11 písm. a) a ods. 15 písm. a) zákona č. 581/2004 Z. z.“.
 
 - 61. V § 36 ods. 2 písmeno g) znie:
 
@@ -1337,6 +1379,80 @@ Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákon
 - b)
 
 - štatutárnym zástupcom alebo spoločníkom právnickej osoby, ktorá je držiteľom povolenia.“.
+
+- 108. Za dvanástu časť sa vkladá nová trinásta časť, ktorá vrátane nadpisu znie:
+
+- „TRINÁSTA ČASŤ
+
+- DOHĽAD NAD POSKYTOVANÍM LEKÁRENSKEJ STAROSTLIVOSTI
+
+- § 68b
+
+- Výkon dohľadu nad poskytovaním lekárenskej starostlivosti
+
+- (1)
+
+- Dohľad nad poskytovaním lekárenskej starostlivosti vykonáva úrad<sup>21a</sup>) a zdravotné poisťovne, ak ide o lieky a zdravotnícke pomôcky uhrádzané na základe zdravotného poistenia.
+
+- (2)
+
+- Úrad pri výkone dohľadu nad poskytovaním lekárenskej starostlivosti
+
+- a)
+
+- kontroluje kvalitu poskytovanej lekárenskej starostlivosti a dodržiavanie schváleného prevádzkového času vo verejnej lekárni, v pobočke verejnej lekárne, v nemocničnej lekárni, vo výdajni zdravotníckych pomôcok a v očnej optike (§ 28a),
+
+- b)
+
+- kontroluje poskytovanie pohotovostných služieb vo verejných lekárňach,
+
+- c)
+
+- je oprávnený vykonávať finančnú a kusovú kontrolu liekov a zdravotníckych pomôcok,
+
+- d)
+
+- rieši podnety a sťažnosti súvisiace s poskytovaním lekárenskej starostlivosti a služieb súvisiacich so zabezpečovaním starostlivosti o poistencov, ktoré nadväzujú na zdravotnú starostlivosť poskytovanú očnou optikou,
+
+- e)
+
+- vydáva záväzné opatrenia na odstránenie nedostatkov zistených pri výkone dohľadu a navrhuje orgánu štátnej správy uloženie pokuty.
+
+- (3)
+
+- Zdravotné poisťovne pri výkone dohľadu nad poskytovaním lekárenskej starostlivosti
+
+- a)
+
+- sú oprávnené vykonávať finančnú a kusovú kontrolu liekov a zdravotníckych pomôcok v rámci zmluvných podmienok,
+
+- b)
+
+- riešia podnety a sťažnosti súvisiace s poskytovaním lekárenskej starostlivosti,
+
+- c)
+
+- navrhujú orgánu štátnej správy uloženie pokuty za zistené nedostatky.
+
+- (4)
+
+- Zamestnanci, ktorí sú v štátnozamestnaneckom pomere, a zamestnanci zdravotnej poisťovne, ktorí sú v pracovnoprávnom vzťahu a ukončili vysokoškolské vzdelanie v študijnom odbore farmácia, nesmú byť
+
+- a)
+
+- držiteľmi povolenia (§ 8),
+
+- b)
+
+- štatutárnymi zástupcami alebo spoločníkmi právnickej osoby, ktorá je držiteľom povolenia.“.
+
+- Poznámka pod čiarou k odkazu 21a znie:
+
+- „21a)
+
+- Zákon č. 581/2004 Z. z.“.
+
+- Doterajšia trinásta časť sa označuje ako štrnásta časť.
 
 - 109. Za § 70c sa vkladá § 70d, ktorý vrátane nadpisu znie:
 
