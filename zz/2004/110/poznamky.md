@@ -19,5 +19,3 @@
 - 9) § 2 písm. d) zákona č. 387/2002 Z. z.
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
-
-- 10a) § 2 písm. a) prvý bod zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
