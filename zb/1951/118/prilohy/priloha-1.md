@@ -12,7 +12,7 @@
 
 - | 4. ak ide o osvedčenie, že je niekto nažive alebo na určitom mieste, a o osvedčenie, že listina bola predložená a v ktorom čase | 40 |
 
-- | 5. ak ide o osvedčenie, že bolo odoslané alebo oznámené vyhlásenie a že malo určitý obsah, alebo o osvedčenie, aký bol priebeh a výsledky rokovania na schôdzke, alebo o osvedčenie, že sa v prítomnosti notára staly iné skutočnosti alebo že ich sám zistil, z ceny predmetu | |
+- | 5. ak ide o osvedčenie, že bolo odoslané alebo oznámené vyhlásenie a že malo určitý obsah, alebo o osvedčenie, aký bol priebeh a výsledkyrokovania na schôdzke, alebo o osvedčenie, že sa v prítomnosti notára staly iné skutočnosti alebo že ich sám zistil, z ceny predmetu | |
 
 - | a) v jednoduchých prípadoch | | 0.5 najmenej 200 Kčs
 
@@ -36,44 +36,48 @@
 
 - C | Za úhrn úkonov potrebných na protestáciu zmenky alebo iného rubopisom prevoditeľného cenného papieru, za každý protestovaný papier | 100 |
 
-- D | 1. Za úhrn úkonov potrebných na prejednanie dedičstva z poverenia súdu, | |
+- D | Za prejednanie dedičstva | |
 
-- | a) z ceny predmetov osobného vlastníctva zostaviteľa, pokiaľ cena všetkých zostaviteľových aktív prevyšuje 5.000 | | 2,5
+- | a) ak náleží doň poľnohospodárska pôda, ktorej nadobúdateľ je členom jednotného roľníckeho družstva, ktoré prijalo vzorové stanovy, z ceny celého dedičstva | | 0,5 %
 
-- | b) z ceny predmetov súkromného vlastníctva zostaviteľa | | 5
+- | b) v iných prípadoch | |
 
-- | Poznámka:Sadzba podľa písm. a) sa použije aj vtedy, ak náleží do majetku zostaviteľa pozemok, výmera ktorého a určenie zodpovedá ustanoveniu § 18 ods. 2 písm. c) zákona č. 139/1947 Sb., o rozdelení pozostalostí s pôdohospodárskymi podnikmi a o zamedzení drobenia pôdohospodárskej pôdy, v znení zákona č. 45/1948 Sb., ako aj ak bol zostaviteľ členom jednotného roľníckeho družstva a ak vniesol doň pôdohospodársku pôdu. | |
+- | aa) z ceny predmetov osobného vlastníctva, pokiaľ cena aktív prevyšuje 1.000 Kčs | | 2,5 %
 
-- | 2. Za vyhotovenie zápisnice o manželských majetkových dohovoroch (§ 29 zákona č. 265/1949 Sb., o rodinnom práve), i s vyhotovením jedného rovnopisu zápisnice pre každého z manželov, z ceny predmetu | | 1,5 najmenej 300 Kčs
+- | bb) z ceny predmetov súkromného vlastníctva | | 5 %
 
-- E | Za prijatie, úschovu a vydanie | |
+- | Poznámky: 1. Pre posúdenie, o aký druh vlastníctva ide, je rozhodujúca osoba nadobúdateľa. 2. Poplatok sa zníži podľa písm. a), ak nadobúdateľ poľnohospodárskej pôdy sa stane členom jednotného roľníckeho družstva, ktoré prijalo vzorové stanovy, najneskoršie do jedného roku odo dňa doručenia platobného výmeru. | |
 
-- | 1. listiny | |
+- E | Za prijatie do úschovy | |
 
-- | ak sa dá do úschovy súčasne niekoľko listín, za každú ďalšiu listinu | 50 |
+- | a) ak sa prijímajú hnuteľné veci do úschovy preto, že podľa vyhlásenia zložiteľa nemožno záväzok, ktorého predmetom sú tieto veci, splniť z dôležitého dôvodu (§ 3 zákona č. 52/1954 Zb.), z ceny vecí | | 1 % najmenej 10 Kčs
 
-- | 2. hotových peňazí, cenných papierov a iných cenných hodnôt, z ich všeobecnej ceny (nominálnej hodnoty) | | 0,25 najmenej 50 Kčs najviacej 500 Kčs
+- | b) v iných prípadoch, ak ide o | |
 
-- F | Za prípravu a spísanie podania alebo inej písomnosti, najmä za spísanie a podanie návrhu na zápis do pozemkovej, železničnej alebo banskej knihy alebo do podnikového registra, ak má predmet cenu | |
+- | aa) listinu | 10 Kčs |
 
-- | do 2.000.- Kčs | 100 |
+- | ak sa dá do úschovy súčasne niekoľko listín, za každú ďalšiu listinu | 2 Kčs |
 
-- | nad 2.000.- do 3.000.- Kčs | 150 |
+- | bb) hotové peniaze, cenné papiere a iné cenné hodnoty, z ich všeobecnej ceny (nominálnej hodnoty) | | 0,25 %
 
-- | nad 3.000.- do 5.000.- Kčs | 200 |
+- | najmenej | 10 Kčs |
 
-- | nad 5.000.- do 10.000.- Kčs | 350 |
+- | najviacej | 100 Kčs |
 
-- | nad 10.000.- do 25.000.- Kčs | 500 |
+- F | Za spísanie podania, osnovy zmluvy, plnomocenstva, vyhlásenia alebo inej listiny o právnom úkone, ktorá nemá povahu verejnej listiny, z ceny predmetu | | 0,5 %
 
-- | nad 25.000.- do 50.000.- Kčs | 750 |
+- | najmenej | 25 Kčs |
 
-- | nad 50.000.- Kčs z každých ďalších hoci len začatých 10.000.- Kčs | 25 |
-
-- | najviac však celkom | 2.000 |
+- | najviacej | 400 Kčs |
 
 - G | Za vydanie ďalších rovnopisov notárskych zápisníc alebo ďalších notárskych osvedčení, za každú i len začatú stranu | 20 |
 
 - H | Za vyhotovenie vyžiadaného čistopisu (odpisu) listiny, za každú i len začatú stranu | 10 |
 
 - CH | Za vydanie osvedčení a iných odpisov alebo výpisov z listín uložených v notárskom archíve, za každú i len začatú stranu | 20 |
+
+- I | Za spísanie notárskeho protokolu (§ 7 zákona č. 52/1954 Zb.) | |
+
+- | 1. ak ide o jednostranný právny úkon (vyhlásenie), z ceny predmetu | | 0,75 % najmenej 30 Kčs
+
+- | 2. ak ide o zmluvu, z ceny predmetu | | 1 % najmenej 40 Kčs
