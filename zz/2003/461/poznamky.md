@@ -234,6 +234,8 @@
 
 - 100a) § 26 ods. 3 zákona č. 43/2004 Z. z.
 
+- 100b) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
 - 102) Občiansky súdny poriadok.
