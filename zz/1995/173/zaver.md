@@ -1,1 +1,0 @@
-Ľudovít Hudek v. r.
