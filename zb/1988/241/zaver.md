@@ -1,3 +1,0 @@
-Námestník:
-
-Mařík v. r.
