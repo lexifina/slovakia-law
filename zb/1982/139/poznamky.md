@@ -1,0 +1,1 @@
+- 1) § 23 až 28 zákona Slovenskej národnej rady č. 130/1981 Zb. o vnútornom obchode.
