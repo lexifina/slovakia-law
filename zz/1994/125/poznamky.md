@@ -4,8 +4,6 @@
 
 - 3) § 29 ods. 2 písm. a) zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
-- 4) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 431/1991 Zb. o zrážkach z pracovnej odmeny osôb, ktoré sú vo výkone trestu odňatia slobody, a o výkone rozhodnutia zrážkami z pracovnej odmeny týchto osôb.
-
 - 5) Zákonník práce.Zákon č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
 
 - 6) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
@@ -16,21 +14,35 @@
 
 - 9) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy v znení neskorších predpisov.
 
+- 9a) § 41 ods. 2 Trestného zákona.
+
 - 10) Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 2/1974 - úplné znenie Inštrukcie o vedení administratívy a evidencie pri výkone väzby a trestu odňatia slobody v nápravnovýchovných ústavoch a väzniciach Slovenskej socialistickej republiky v znení neskorších predpisov.
 
 - 11) Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 10/1984 o vystrojovaní obvinených a odsúdených v znení rozkazu ministra spravodlivosti č. 5/1992.
 
 - 12) Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 16/1972 - Stravovanie v Zbore nápravnej výchovy, väzniciach a nápravnovýchovných ústavoch v znení neskorších predpisov.
 
+- 12a) § 60c ods. 3 a 8 zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.§ 5 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 501/2002 Z. z., ktorou sa ustanovujú podrobnosti o určení výšky zvýšených nákladov výkonu väzby, škode na majetku štátu v správe ústavu na výkon väzby, ústavu na výkon trestu odňatia slobody, ústavu na výkon trestu odňatia slobody pre mladistvých a nemocnice pre obvinených a odsúdených, zavinených nákladov výkonu trestu odňatia slobody, zvýšených nákladov výkonu trestu odňatia slobody a ich náhrade (o určení výšky zvýšených nákladov obvinených a odsúdených).
+
+- 12b) § 14a ods. 5 zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
+
+- 12c) § 14a ods. 2 písm. f) a ods. 3 písm. c) zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
+
 - 13) Zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 419/1991 Zb., ktorým sa menia a dopĺňajú niektoré predpisy v oblasti zdravotníctva.
 
 - 14) Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 1/1987 o hygienickej a protiepidemickej starostlivosti v Zbore nápravnej výchovy Slovenskej socialistickej republiky.
+
+- 14a) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok v znení neskorších predpisov.
+
+- 14b) § 11 ods. 7 zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
 
 - 15) Rozkaz náčelníka správy č. 4/1990 o hygienických a stavebno-technických podmienkach prevádzky ciel disciplinárnych trestov v nápravnovýchovných ústavoch.
 
 - 16) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 17) Rozkaz ministra spravodlivosti Slovenskej republiky č. 15/1992 o psychiatrickom, protitoxikomanickom, protialkoholickom a sexuologickom ochrannom liečení vykonávanom počas výkonu trestu odňatia slobody.
+
+- 17a) § 14a zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
 
 - 18) § 16 písm. a) zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov (úplné znenie č. 380/1992 Zb.).
 
