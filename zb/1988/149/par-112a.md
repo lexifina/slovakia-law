@@ -1,6 +1,6 @@
 # § 112a Zabezpečenie pri službe v ozbrojených silách
 
-(1) Samostatne zárobkovo činná osoba (§ 61 ods. 1 a 2) má nárok pri vojenskom cvičení a ďalších druhoch služby v ozbrojených silách Česko-slovenskej federatívnej republiky uvedených v § 112 ods. 2 na náhradu zárobku.
+(1) Samostatne zárobkovo činná osoba (§ 61 ods. 1 a 2) má nárok pri vojenskom cvičení a ďalších druhoch služby v ozbrojených silách Česko-slovenskej federatívnej republiky uvedených v § 112 ods. 2 na náhradu zárobku. To neplatí, ak ide o civilnú službu nahrádzajúcu vojenskú základnú (náhradnú) službu.
 
 (2) Náhrada zárobku je za každý kalendárny deň vojenského cvičenia (inej služby)
 

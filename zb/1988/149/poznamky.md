@@ -2,7 +2,11 @@
 
 - 1) Výnos Federálneho ministerstva poľnohospodárstva a výživy č. FM-01-268/87 z 15. marca 1987 o vernostných stabilizačných odmenách pracujúcich členov JRD vo vybraných okresoch a mestách severočeského, západočeského a juhočeského kraja.
 
+- 1) Zákon Českej národnej rady č. 368/1990 Zb. o voľbách do zastupiteľstiev v obciach.
+
 - 2) Formácia tzv. Šípových krížov bývalej horthyovskej maďarskej armády a pod.
+
+- 2) Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
 
 - 3) Dekrét prezidenta republiky č. 16/1945 Zb., nariadenie Slovenskej národnej rady č. 33/1945 Zb. SNR, zákon č. 33/1948 Zb.
 
@@ -157,3 +161,19 @@
 - 78) § 12 ods. 2 zákona č. 105/1990 Zb.
 
 - 79) § 23 nasl. vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 195/1989 Zb. o zabezpečení pracovníkov pri organizačných zmenách a občanov pred nástupom do zamestnania.
+
+- 80) § 1, 2, 7 a 9 zákona č. 304/1990 Zb. o plate a náhradách výdavkov poslancov Federálneho zhromaždenia.
+
+- § 1, 2, 8 a 10 zákona Českej národnej rady č. 371/1990 Zb. o plate a náhradách výdavkov poslancov Českej národnej rady.
+
+- § 1, 2,7 a 9 zákona Slovenskej národnej rady č. 356/1990 Zb. o plate a náhradách výdavkov poslancov Slovenskej národnej rady.
+
+- 81) § 27 zákona Českej národnej rady č. 367/1990 Zb. o obciach (obecné zriadenie).
+
+- 82) § 11 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
+
+- 83) § 13 zákona Slovenskej národnej rady č. 369/1990 Zb.
+
+- 84) § 32 ods. 1 zákona Českej národnej rady č. 367/1990 Zb.
+
+- § 25 ods. 7 zákona Slovenskej národnej rady č. 369/1990 Zb.
