@@ -16,6 +16,8 @@
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
+- 5a) § 2 ods. 5 písm. a) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
+
 - 6) § 84 až 169 zákona č. 618/1992 Zb. Colný zákon.
 
 - 7) § 829 zákona č. 40/1964 Zb. Občiansky zákonník.
@@ -171,6 +173,8 @@
 - Vyhláška Ministerstva financií Slovenskej republiky č. 261/1993 Z. z. o oslobodení nepeňažného vkladu od dovozného cla.
 
 - 65) § 242 až 244 zákona č. 618/1992 Zb.
+
+- 65a) § 68 a 69 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
 
 - 66) § 159 až 161 zákona č. 618/1992 Zb.
 
