@@ -142,6 +142,28 @@ Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 36/1967 Z
 
 - Predmetom preskúmania môže byť za podmienok ustanovených v odsekoch 1 a 2 aj rozhodnutie, proti ktorému zákon nepripúšťa opravný prostriedok, ak sa stalo právoplatným.“.
 
+- 31. § 248 znie:
+
+- „§ 248
+
+- Súdy nepreskúmavajú
+
+- a)
+
+- rozhodnutia správnych orgánov predbežnej povahy a procesné rozhodnutia týkajúce sa vedenia konania,
+
+- b)
+
+- rozhodnutia, ktorých vydanie závisí výlučne od posúdenia zdravotného stavu osôb alebo technického stavu vecí, ak samy osebe neznamenajú právnu prekážku výkonu povolania, zamestnania alebo podnikateľskej alebo inej hospodárskej činnosti,
+
+- c)
+
+- rozhodnutia o nepriznaní alebo odňatí odbornej spôsobilosti právnickým osobám alebo fyzickým osobám, ak samy osebe neznamenajú právnu prekážku výkonu povolania alebo zamestnania,
+
+- d)
+
+- rozhodnutia správnych orgánov, ktorých preskúmanie vylučujú osobitné zákony.“.
+
 - 32. § 250 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
 
 - „(5)
@@ -403,3 +425,5 @@ Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 36/1967 Z
 - „(4)
 
 - Proti rozhodnutiu vydanému vyšším súdnym úradníkom v občianskom súdnom konaní možno podať odvolanie za rovnakých podmienok ako proti rozhodnutiu sudcu. Ak je podané odvolanie proti rozhodnutiu, ktoré vydal vyšší súdny úradník, rozhodnutie sa tým zrušuje v celom rozsahu a o veci rozhodne sudca. To neplatí, ak bolo odvolanie podané oneskorene, bolo podané osobou, ktorá na podanie odvolania nie je oprávnená, smeruje proti rozhodnutiu, proti ktorému odvolanie nie je prípustné, smeruje len proti výroku o trovách konania, alebo ak odvolaniu môže úplne vyhovieť sudca, ak sa ním nezasiahne do práv iného účastníka konania. Ak bolo odvolanie vzaté späť pred začatím pojednávania, k zrušeniu rozhodnutia nedôjde a rozhodnutie sa stane právoplatným, ako keby k podaniu odvolania nedošlo. O odvolaní, odmietnutí odvolania a o zastavení odvolacieho konania rozhodne sudca. Rozhodnutie sudcu sa považuje za rozhodnutie súdu prvého stupňa a možno ho napadnúť odvolaním.“.
+
+- 57. Príloha A sa vypúšťa.
