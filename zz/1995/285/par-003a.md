@@ -4,6 +4,8 @@
 
 (2) Registrácia výrobcov, dovozcov a vývozcov sa zaznamenáva v úradnom registri (ďalej len „register výrobcov, dovozcov a vývozcov“) pod registračným číslom, ktorým sú príslušné osoby jednoznačne identifikované. Register výrobcov, dovozcov a vývozcov vedie kontrolný ústav.
 
+(3) Výrobca registrovaný podľa odseku 2 označuje rastliny a rastlinné produkty rastlinným pasom, ktorým potvrdzuje, že spĺňajú požiadavky týkajúce sa ich zdravotného stavu.
+
 (4) Rastlinný pas je doklad, ktorý potvrdzuje, že rastliny alebo rastlinné produkty boli vypestované alebo vyrobené pod sústavnou rastlinolekárskou kontrolou.
 
 (5) Rastlinný pas pre rastliny a rastlinné produkty obsahuje
