@@ -6,7 +6,7 @@
 
 (2) Ustanovenie predchádzajúceho odseku platí obdobne o matkách do konca deviateho mesiaca po pôrode.
 
-(3) Vyrovnávací príspevok v tehotnosti a materstve sa poskytuje vo výške rozdielu medzi priemerným pracovným príjmom, ktorý družstevníčka dosiahla v období ustanovenom vykonávacími predpismi pred prevedením na inú prácu, a pracovným príjmom, ktorý dosahuje v jednotlivých kalendárnych mesiacoch po tomto prevedení. Na pokles pracovného príjmu, ktorý družstevníčke vznikol skrátením jej pracovného úväzku, sa neprihliada; taktiež sa neprihliada na sumy príjmu presahujúce v priemere 100 Kčs za pracovný deň.
+(3) Vyrovnávací príspevok v tehotnosti a materstve sa poskytuje vo výške rozdielu medzi priemerným pracovným príjmom, ktorý družstevníčka dosiahla v období ustanovenom vykonávacími predpismi pred prevedením na inú prácu, a pracovným príjmom, ktorý dosahuje v jednotlivých kalendárnych mesiacoch po tomto prevedení. Na pokles pracovného príjmu, ktorý družstevníčke vznikol skrátením jej pracovného úväzku, sa neprihliada; taktiež sa neprihliada na sumy príjmu presahujúce v priemere 150 Kčs za pracovný deň.
 
 (4) Vyrovnávací príspevok sa poskytuje za dobu, za ktorú družstevníčka má po prevedení na inú prácu nárok na pracovnú odmenu alebo na jej náhradu; v tehotnosti sa poskytuje najdlhšie do nástupu materskej dovolenky a po ukončení materskej dovolenky najdlhšie do konca deviateho mesiaca po pôrode.
 
