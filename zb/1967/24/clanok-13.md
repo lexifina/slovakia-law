@@ -10,4 +10,4 @@ K § 15 zákona
 
 (4) Daň zrazenú osobám, ktoré sú u platiteľa v pomere podobnom pracovnému pomeru, nemusí platiteľ odvádzať do troch dní po vykonaní daňovej zrážky, ale odvedie ju spoločne s daňou zrazenou pracovníkom v pracovnom pomere.
 
-(5) Ministerstvo financií môže povoľovať odchýlky vo veci spôsobu, času a miesta odvodu dane, pokiaľ sa odchýlka týka okresných národných výborov jeho obvodu.
+(5) Krajský národný výbor môže povoľovať odchýlky vo veci spôsobu, času a miesta odvodu dane, pokiaľ sa odchýlka týka okresných národných výborov jeho obvodu.
