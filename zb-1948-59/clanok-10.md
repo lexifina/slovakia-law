@@ -1,0 +1,15 @@
+# Článek X.
+
+Uveřejňování a provádění obchodních předpisů.
+
+- 1. Zákony, nařízení, soudní rozhodnutí a administrativní opatření všeobecného dosahu, uvedené v účinnost kteroukoli smluvní stranou ve věci zařazení nebo zjišťování hodnoty výrobků k celním účelům anebo ve věci celních sazeb, daní nebo jiných dávek nebo předpisů, omezení nebo zákazů, týkajících se dovozu nebo vývozu nebo převodu plateb za dovoz nebo vývoz, anebo ve věci prodeje, distribuce, dopravy, pojištění, uskladnění, prohlídek, vystavování, zpracování, míchání anebo jiného používání těchto výrobků, budou ihned uveřejňovány takovým způsobem, aby se vlády a obchodníci mohli s nimi obeznámiti. Dohody týkající se mezinárodní obchodní politiky, které jsou v platnosti mezi vládou nebo vládním orgánem kterékoli smluvní strany a vládou nebo vládním orgánem kterékoli jiné smluvní strany, budou rovněž uveřejňovány. Ustanovení tohoto odstavce nebudou vyžadovati, aby kterákoli smluvní strana poskytla důvěrnou informaci, která by ztěžovala provádění právních předpisů nebo která by se jinak příčila veřejnému zájmu, nebo která by byla na újmu oprávněným obchodním zájmům jednotlivých podniků, ať veřejných či soukromých.
+
+- 2. Žádné opatření všeobecného dosahu, učiněné kteroukoli smluvní stranou, které způsobí zvýšení celní sazby nebo jiné dávky z dovozu za platných a jednotně prováděných podmínek anebo kterým se dovoz či převod platů za dovoz zatěžuje novým nebo těžším požadavkem, omezením nebo zákazem, nebude uvedeno v účinnost dříve, než bylo úředně vyhlášeno.
+
+- 3.
+
+  - (a) Každá smluvní strana bude prováděti jednotným, nestranným a přiměřeným způsobem všechny svoje zákony, nařízení, rozhodnutí a opatření, uvedené v odstavci 1 tohoto článku.
+
+  - (b) Každá smluvní strana bude udržovati anebo ustanoví co nejdříve soudní, rozhodčí anebo správní stolice nebo řízení za tím účelem, aby mimo jiné bezodkladně přezkoumávaly nebo opravovaly správní akty týkající se celních věcí. Takovéto stolice nebo řízení budou nezávislé na orgánech pověřených správním výkonem; jejich rozhodnutí budou těmito orgány provedena a budou směrodatná pro jejich správní činnost, pokud nebude podáno u příslušného vyššího soudu nebo stolice odvolání v odvolací lhůtě předepsané pro dovozce, s výhradou, že ústřední správa nadřízená onomu správnímu orgánu může učiniti opatření, aby dosáhla přezkoumání záležitosti v dalším řízení, je-li možno důvodně předpokládati, že rozhodnutí jest v rozporu se zásadami stanovenými zákonem nebo v rozporu se skutečnostmi.
+
+  - (c) Ustanovení pododstavce (b) tohoto odstavce nebudou vyžadovati, aby bylo odstraněno nebo nahrazeno řízení platné na území smluvní strany v den podpisu této Dohody, které skutečně zabezpečuje objektivní a nestranné přezkoumání správních aktů, i když takové řízení není úplně anebo formálně nezávislé na orgánech pověřených správním výkonem. Každá smluvní strana, užívající takového řízení, poskytne o něm SMLUVNÍM STRANÁM na požádání úplnou informaci, aby mohly zjistit, zda takové řízení odpovídá požadavkům stanoveným v tomto odstavci.
