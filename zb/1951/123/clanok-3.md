@@ -1,3 +1,0 @@
-# Čl. III.
-
-Toto nariadenie nadobúda účinnosť dňom 1. januára 1952.
