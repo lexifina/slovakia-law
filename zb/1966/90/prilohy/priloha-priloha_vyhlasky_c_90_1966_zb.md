@@ -30,6 +30,8 @@ Príloha vyhlášky č. 90/1966 Zb.
 
     - 3. Vojenskými vysokými školami univerzitného smeru ku dňu účinnosti zákona sú:
 
+      - a) Vojenskopolitická fakulta Vojenskej akadémie Antonína Zápotockého so sídlom v Bratislave.
+
       - b) Vojenský lekársky výskumný a doškoľovací ústav Jana Evangelistu Purkyňu v Hradci Králové (ďalej len VLVDÚ), ktorý má postavenie vojenskej vysokej školy. Absolventom patrí titul „doktor medicíny (v skratke „MUDr."). Podrobnosti ustanoví štatút VLVDÚ.
 
     - 4. Z predchádzajúcich ustanovení sa vzťahujú
