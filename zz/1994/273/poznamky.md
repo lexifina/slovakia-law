@@ -80,6 +80,16 @@
 
 - 13hc) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 13hd) Čl. I § 7 zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z. o niektorých opatreniach na zabezpečenie hospodárenia Slovenskej republiky v roku 1995 a o zmene a doplnení niektorých zákonov.
+
+- 13he) § 53 až 68 zákona č. 71/1967 Zb.
+
+- 13hf) Občiansky súdny poriadok.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 13hg) § 524 až 530 Občianskeho zákonníka.
+
+- 13hh) Občiansky súdny poriadok.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
 - 13i) § 11 a 12 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 276/1993 Z. z. o Poisťovni Ministerstva vnútra Slovenskej republiky a o financovaní zdravotného poistenia, zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni a zákon Národnej rady Slovenskej republiky č. 201/1994 Z. z. o zdravotnom poistení železničiarov a o Železničiarskej zdravotnej poisťovni.
@@ -107,6 +117,8 @@
 - 18) § 124 Zákonníka práce.
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
+
+- 19a) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 20) § 8 a 8a Trestného poriadku.
 
