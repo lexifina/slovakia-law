@@ -8,8 +8,6 @@
 
 - § 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) § 39 ods. 10 zákona č. 483/2001 Z. z.
-
 - 3) § 8 písm. i) zákona č. 566/2001 Z. z.
 
 - 4) § 497 až 507 Obchodného zákonníka.
