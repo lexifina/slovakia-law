@@ -1,0 +1,7 @@
+# § 3a
+
+(1) Ministerstvo vykonáva následnú finančnú kontrolu verejných prostriedkov a iných prostriedkov zo zahraničia na financovanie projektov na základe medzinárodných zmlúv, ktorými je Slovenská republika viazaná, v ústredných orgánoch a štátnych účelových fondoch okrem rozpočtovej kapitoly Najvyššieho kontrolného úradu Slovenskej republiky. Kontrolu hospodárenia v Najvyššom kontrolnom úrade Slovenskej republiky vykonáva Národná rada Slovenskej republiky alebo ňou poverený orgán.
+
+(2) Následnú finančnú kontrolu verejných prostriedkov v štátnych rozpočtových organizáciách a v štátnych príspevkových organizáciách, následnú finančnú kontrolu prostriedkov, ktoré tvoria príjmy rozpočtu obce a vyššieho územného celku podľa osobitného predpisu,<sup>12a</sup>) a následnú finančnú kontrolu verejných prostriedkov u právnických osôb a fyzických osôb vykonávajú správy finančnej kontroly.<sup>12b</sup>) V prípade potreby môže následnú finančnú kontrolu vykonať ministerstvo.
+
+(3) Orgán verejnej správy vykonáva následnú finančnú kontrolu verejných prostriedkov a iných prostriedkov zo zahraničia na financovanie projektov na základe medzinárodných zmlúv, ktorými je Slovenská republika viazaná, v rámci svojho rozpočtu. Zároveň vykonáva následnú finančnú kontrolu prostriedkov štátnych účelových fondov, ktoré spravuje, vrátane prostriedkov poskytnutých z týchto fondov právnickým osobám a fyzickým osobám.
