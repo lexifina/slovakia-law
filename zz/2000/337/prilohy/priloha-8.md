@@ -72,6 +72,28 @@ PROTOKOL 1 (k článku 6 ods. 2)
 
 - 6. Dovozné clá uplatňované v Lotyšskej republike na výrobky s pôvodom v Slovenskej republike uvedené v Prílohe F k tomuto protokolu budú uplatnené na úrovni MFN sadzby.
 
+- Doplnkový protokol č. 1 k Protokolu 2
+
+- HS kód | Opis výrobkov | Kvóta | Colná sadzba v rámci kvóty
+
+- 0406 | Syry a tvaroh | 150 t | 5 %
+
+- 0713 10 90 | Hrach (Pisum sativum) - ostatný | 200 t | 0 %
+
+- 1602 | Ostatné pripravené alebo konzervované mäso, droby alebo krv | 100 t | 10 %
+
+- 1806 10 | Kakaový prášok obsahujúci pridaný cukor alebo ostatné sladidla | 200 t | 10 %
+
+- 1806 31 | Ostatné, v blokoch, tabuľkách alebo v tyčinkách - plnené | |
+
+- 1806 32 | Ostatné, v blokoch, tabuľkách alebo v tyčinkách - neplnené | |
+
+- 1806 90 | Ostatné | |
+
+- 1902 okrem 1902 40 | Cestoviny, tiež varené alebo plnené (mäsom alebo inými plnkami), alebo inak upravené, ako špagety, makaróny, rezance, široké rezance, halušky, ravioli, canneloni; kuskus, tiež pripravený | 200 t | 5 %
+
+- 1905 30 | Sladké sušienky; wafle a oblátky | 100 t | 0 %
+
 - Príloha A k Protokolu 2
 
 - HS kód
