@@ -74,6 +74,12 @@
 
 - 31a) § 2 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
 
+- 31b) § 20 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 31c) Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
 - 32) § 17 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 33) § 18 zákona č. 229/1991 Zb. v znení neskorších predpisov.
