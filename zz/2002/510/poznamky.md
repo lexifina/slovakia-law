@@ -100,6 +100,8 @@
 
 - 27n) Zákon č. 367/2000 Z. z. v znení neskorších predpisov.
 
+- 27na) § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 27o) § 9 ods. 3 a § 42 ods. 2 Zákonníka práce v znení zákona č. 210/2003 Z. z.
 
 - 28) Napríklad zákon č. 566/2001 Z. z. v znení zákona č. 291/2002 Z. z. a zákon č. 80/1997 Z. z. v znení neskorších predpisov.
