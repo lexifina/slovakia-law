@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 302/1995 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb. Príloha E.
