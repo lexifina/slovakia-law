@@ -1,4 +1,8 @@
-- 1) Napríklad zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z., zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
+- 1) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
+- 1a) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
+
+- 1b) § 2 ods. 1 písm. b) zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve v znení neskorších predpisov.
 
 - 2) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
