@@ -1,5 +1,9 @@
 - 1) Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva. Nariadenie vlády ČSSR č. 148/1971 Zb. o ochrane hospodárskeho a služobného tajomstva.
 
+- 1) § 6 zákona ČNR č. 37/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
+
+- § 6 zákona SNR č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
+
 - 2) § 29 a 31 zákona č. 60/1961 Zb. o úlohách národných výborov pri zabezpečovaní socialistického poriadku.
 
 - 3) Zákon č. 128/1970 Zb. o vymedzení pôsobnosti Československej socialistickej republiky vo veciach vnútorného poriadku a bezpečnosti. Zákon č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev. Zákon č. 100/1970 Zb. o služobnom pomere príslušníkov Zboru národnej bezpečnosti.
