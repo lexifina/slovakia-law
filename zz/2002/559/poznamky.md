@@ -1,6 +1,6 @@
 - 1) Zákon č. 431/2002 Z. z. o účtovníctve.
 
-- 2) § 4 opatrenia Národnej banky Slovenska zo 14. februára 2000 č. 2/2000 o kapitálovej primeranosti bánk (oznámenie č. 96/2000 Z. z.).
+- 2) § 10 opatrenia Národnej banky Slovenska č. 6/2002 o primeranosti vlastných zdrojov financovania bánk (oznámenie č. 695/2002 Z. z.).
 
 - 3) § 8 písm. d) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
@@ -10,7 +10,7 @@
 
 - 6) § 8 písm. c) zákona č. 566/2001 Z. z.
 
-- 7) Opatrenie zo 14. februára 2000 č. 2/2000 (oznámenie č. 96/2000 Z. z.).
+- 7) § 2 písm. j) opatrenia č. 6/2002 (oznámenie č. 695/2002 Z. z.).
 
 - 8) Opatrenie Ministerstva financií Slovenskej republiky zo 16. novembra 1998 č. 3177/1998- KM, ktorým sa ustanovuje účtovná osnova a postupy účtovania pre podnikateľov (oznámenie č. 362/1998 Z. z.).
 
@@ -18,12 +18,20 @@
 
 - 10) Opatrenie Ministerstva financií Slovenskej republiky z 22. decembra 1993 č. 65/393/1993, ktorým sa ustanovuje zostavenie konsolidovanej účtovnej závierky (oznámenie č. 8/1994 Z. z.).
 
-- 11) § 4 a 5 opatrenia zo 14. februára 2000 č. 2/2000 Z. z. (oznámenie č. 96/2000 Z. z.).
+- 10a) Opatrenie č. 6/2002 (oznámenie č. 695/2002 Z. z.).
 
-- 12) § 5 písm. b) opatrenia zo 14. februára 2000 č. 2/2000 (oznámenie č. 96/2000 Z. z.).
+- 10b) § 9 až 31 opatrenia č. 6/2002 (oznámenie č. 695/2002 Z. z.).
+
+- 11) § 9 a 10 opatrenia č. 6/2002 (oznámenie č. 695/2002 Z. z.)
+
+- 12) § 9 ods. 2 písm. b) opatrenia č. 6/2002 (oznámenie č. 695/2002 Z. z.).
 
 - 13) Zákon č. 429/2002 Z. z.
 
-- 14) § 5 písm. a) opatrenia zo 14. februára 2000 č. 2/2000 (oznámenie č. 96/2000 Z. z.).
+- 14) § 9 ods. 2 písm. a) opatrenia č. 6/2002 (oznámenie č. 695/2002 Z. z.).
+
+- 14a) § 31 ods. 7 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14b) Opatrenie Národnej banky Slovenska č. 8/2002 o majetkovej angažovanosti bánk (oznámenie č. 697/2002 Z. z.).
 
 - 15) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
