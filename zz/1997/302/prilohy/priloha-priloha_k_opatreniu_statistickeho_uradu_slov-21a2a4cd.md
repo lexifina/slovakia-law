@@ -56,6 +56,8 @@ kód |
 
 33 | Úrad pre verejné obstarávanie
 
+35 | Úrad pre finančný trh
+
 36 | Úrad jadrového dozoru SR
 
 37 | Úrad priemyselného vlastníctva SR
@@ -65,8 +67,6 @@ kód |
 40 | Protimonopolný úrad SR
 
 42 | Správa štátnych hmotných rezerv SR
-
-43 | Úrad bezpečnosti práce SR
 
 51 | Slovenská akadémia vied
 
