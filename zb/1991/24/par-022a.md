@@ -4,8 +4,6 @@
 
 # § 22a
 
-(1) Prevádzkovateľ a vodič motorového vozidla je poistený na zodpovednosť za škodu spôsobenú prevádzkou motorového vozidla.
+(1) Osem percent z prijatého poistného z povinného zmluvného poistenia zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla za predchádzajúci kalendárny rok je poisťovňa, ktorá vykonáva toto poistenie, povinná odviesť na osobitný účet Ministerstva vnútra Slovenskej republiky do konca februára príslušného roka.
 
-(2) Päť percent poistného za cudzozemské motorové vozidlá vybraného pohraničnými colnicami je príjmom osobitného účtu Ústrednej colnej správy Slovenskej republiky.
-
-(3) Osem percent prijatého poistného zo zákonného poistenia zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla za predchádzajúci kalendárny rok slúži na úhradu nákladov spojených so zaobstarávaním prostriedkov na záchranu ľudských životov a materiálnych hodnôt v cestnej doprave právnickým osobám podieľajúcim sa na záchrane ľudských životov a materiálnych hodnôt v cestnej doprave. Rozdelenie časti prijatého poistného zo zákonného poistenia zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla pre jednotlivé právnické osoby podieľajúce sa na záchrane ľudských životov a materiálnych hodnôt v cestnej doprave vykoná Ministerstvo vnútra Slovenskej republiky po prerokovaní s Ministerstvom financií Slovenskej republiky do konca januára príslušného roka.
+(2) Prostriedky z osobitného účtu podľa odseku 1 rozdelí Ministerstvo vnútra Slovenskej republiky po prerokovaní s Ministerstvom financií Slovenskej republiky jednotkám požiarnej ochrany na úhradu nákladov spojených s obstarávaním, údržbou a s prevádzkovaním prostriedkov na záchranu ľudských životov a materiálnych hodnôt v cestnej doprave.
