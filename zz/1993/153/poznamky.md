@@ -2,7 +2,7 @@
 
 - 2) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
-- 3) § 18 až 23 zákona č. 213/1992 Zb. o spotrebných daniach v znení zákona č. 595/1992 Zb.
+- 3) Zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení neskorších predpisov.
 
 - 4) Zákon Slovenskej národnej rady č. 319/1992 Zb. o cestnej dani.
 
