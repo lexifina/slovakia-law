@@ -26,6 +26,12 @@ Príloha č. 1 k nariadeniu vlády č. 199/2002 Z. z.
 
 - ![Obrázok 01-2](../assets/f94b5f437c0afd7c38354a50cbec5e0c90c6487608fa4cc93b7e47c5ab54a7b4.png)
 
+- Štítok s označením triedy energetickej hospodárnosti pre chladiace zariadenia tried A+ a A++ musí byť umiestnený na tej istej pozícii ako označenie triedy energetickej hospodárnosti pre chladiace zariadenia triedy A a musí byť v súlade s nasledujúcimi ilustráciami:
+
+- ![Obrázok 01-3](../assets/a939ce8920649b04b8298b45758048b7001b54437a4969b6b431419085d43ab1.tiff)
+
+- ![Obrázok 01-4](../assets/5194587e660d89190afc8adfbce812ba80dc9278f589994ea4b4278471ea511a.tiff)
+
 - Použité farby
 
 - CMYB - tyrkysová, fialová, žltá, čierna.
