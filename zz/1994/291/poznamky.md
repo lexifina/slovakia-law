@@ -1,13 +1,15 @@
 - 1) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
 
-- 2) § 5 ods. 1 zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
+- 2) § 19 ods. 2 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
-- 3) § 2 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z.
+- 4) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
 
-- 4) Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 222/1993 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov.
-
-- 5) § 2 ods. 2 písm. i) nariadenia vlády Slovenskej republiky č. 229/1994 Z. z. o miere vyučovacej povinnosti učiteľov a povinnosti výchovnej práce ostatných pedagogických pracovníkov.
+- 5) § 2 ods. 3 písm. l) nariadenia vlády Slovenskej republiky č. 238/2004 Z. z. o rozsahu vyučovacej činnosti a výchovnej činnosti pedagogických zamestnancov.
 
 - 6) § 2 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z.
 
-- 7) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 243/1993 Z. z. o sociálnej odkázanosti.
+- 6a) § 5 ods. 6 písm. c) zákona č. 596/2003 Z. z.
+
+- 6b) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7) § 25 ods. 4 zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
