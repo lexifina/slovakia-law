@@ -1,0 +1,3 @@
+# Čl. II.
+
+Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr techniky v dohodě se zúčastněnými ministry.
