@@ -20,6 +20,8 @@
 
 - 11) § 2 Obchodného zákonníka.
 
+- 11a) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
+
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení zákona č. 169/2001 Z. z.
@@ -64,10 +66,10 @@
 
 - 30) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 30a) § 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
 - 31) § 663 a nasl. Občianskeho zákonníka.
 
 - 32) § 659 a nasl. Občianskeho zákonníka.
 
-- 33) § 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
-
-- 34) Zákon Národnej rady Slovenskej republiky č. 278/1993 o správe majetku štátu v znení neskorších predpisov.
+- 32a) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
