@@ -6,4 +6,4 @@
 
 - b) vylúčiť z prepravy cestujúceho s batožinou alebo s jeho domácim zvieraťom, ak sú prekážkou bezpečnej, pokojnej a pohodlnej prepravy cestujúcich alebo ak ohrozujú zdravie cestujúcich,
 
-- c) uložiť cestujúcemu, ktorý sa nepreukáže platným cestovným lístkom, zaplatiť cestovné a úhradu [§ 46a ods. 2 písm. g)], alebo sa preukázať osobnými údajmi potrebnými na vymáhanie cestovného a úhrady.
+- c) uložiť cestujúcemu, ktorý sa nepreukáže platným cestovným lístkom, zaplatiť cestovné a úhradu [§ 46a ods. 2 písm. g)], alebo sa preukázať osobnými údajmi potrebnými na vymáhanie cestovného a úhrady v rozsahu meno a priezvisko, dátum narodenia, rodné číslo, adresa trvalého bydliska, číslo občianskeho preukazu (cestovného pasu prípadne iného dokladu totožnosti), v prípade neplnoletého cestujúceho meno a priezvisko zákonného zástupcu.

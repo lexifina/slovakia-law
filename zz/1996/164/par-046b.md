@@ -28,7 +28,9 @@
 
 - f) zaplatiť cestovné a prepravné za batožinu a zvieratá podľa tarify, ako aj ďalšie úhrady za poškodenie alebo znečistenie dráhového vozidla podľa prepravného poriadku,
 
-- g) preukázať sa platným cestovným lístkom na výzvu vodiča alebo sprievodcu dráhového vozidla, alebo iného zamestnanca povereného výkonom kontroly. Ak sa pri kontrole nemôže preukázať platným cestovným lístkom, je povinný zaplatiť cestovné a úhradu podľa odsekov 3 až 7 alebo sa preukázať osobnými údajmi potrebnými na vymáhanie cestovného.
+- g) preukázať sa platným cestovným lístkom na výzvu vodiča alebo sprievodcu dráhového vozidla, alebo iného zamestnanca povereného výkonom kontroly. Ak sa pri kontrole nemôže preukázať platným cestovným lístkom, je povinný zaplatiť cestovné a úhradu podľa odsekov 3 až 7 alebo sa preukázať osobnými údajmi potrebnými na vymáhanie cestovného v rozsahu meno a priezvisko, dátum narodenia, rodné číslo, adresa trvalého bydliska, číslo občianskeho preukazu (cestovného pasu prípadne iného dokladu totožnosti), v prípade neplnoletého cestujúceho meno a priezvisko zákonného zástupcu,
+
+- h) strpieť zistenie totožnosti privolaným príslušníkom Policajného zboru, ak sa pri kontrole odmietne preukázať osobnými údajmi.
 
 (3) Úhrada pri nepreukázaní sa platným cestovným lístkom podľa odseku 2 písm. g) na železničnej dráhe je
 
@@ -42,4 +44,4 @@
 
 (6) Ak cestujúci nastúpi bez platnej miestenky do povinne miestenkového vlaku, je povinný zaplatiť miestenku a úhradu vo výške 100 Sk.
 
-(7) Úhrada pri nepreukázaní sa cestujúceho platným cestovným lístkom podľa odseku 2 písm. g) na električkovej, trolejbusovej a špeciálnej dráhe je stonásobok a na lanovej dráhe desaťnásobok základného cestovného bez príplatkov a zliav.
+(7) Úhrada pri nepreukázaní sa cestujúceho platným cestovným lístkom podľa odseku 2 písm. g) na električkovej, trolejbusovej a špeciálnej dráhe je do stonásobku základného cestovného bez príplatkov a zliav a určí ju dopravca v prepravnom poriadku a na lanovej dráhe desaťnásobok základného cestovného bez príplatkov a zliav.
