@@ -1,0 +1,1 @@
+- 1) § 1 ods. 1 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
