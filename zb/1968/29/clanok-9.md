@@ -1,3 +1,0 @@
-# Čl. 9
-
-Tento zákon nadobúda účinnosť dňom vyhlásenia.
