@@ -1,6 +1,6 @@
-- 1) § 18 ods. 2 písm. a), b), d), f), i) až l) zákona č. 195/1998 Z. z. o sociálnej pomoci.
+- 1) § 18 ods. 2 písm. a), b) , d), f), h) až l) a ods. 3 písm.a) a c) zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
 
-- 2) § 18 ods. 2 písm. a) až f), i) až l) zákona č.195/1998 Z. z.
+- 2) § 18 ods. 2 písm. a) až í), h) až l) a ods. 3písm. a) a c) zákona č. 195/1998 Z. z. v znení zákona č. 155/1999 Z. z.
 
 - 3) § 22 ods. 5 zákona č. 195/1998 Z. z.
 
@@ -20,7 +20,7 @@
 
 - 11) Napríklad § 140 Zákonníka práce, § 9 zákona Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 12) § 20 ods. 5 zákona č. 195/1998 Z. z.
+- 12) § 20 ods. 5 zákona č. 195/1998 Z. z. v znení zákona č. 155/1999 Z. z.
 
 - 13) § 26 ods. 2 písm. c) zákona č. 195/1998 Z. z.
 
@@ -34,9 +34,11 @@
 
 - 18) § 4 písm. h) a § 72 až 86 zákona č. 195/1998 Z. z.
 
-- 19) § 42 ods. 2 a 3 zákona č. 195/1998 Z. z.
+- 19) § 42 zákona č. 195/1998 Z. z. v znení zákona č. 155/1999 Z. z.
 
 - 20) § 43 ods. 3 a 4 zákona č. 195/1998 Z. z.
+
+- 20a) § 34a ods. 3 zákona č. 195/1998 Z. z. v znení zákona č. 155/1999 Z. z.
 
 - 21) § 70 ods. 1 písm. a) zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 135/1995 Z. z.
 
