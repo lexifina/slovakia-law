@@ -309,3 +309,15 @@ Príloha zákona č. 172/1990 Zb.
     - Vysoká škola výtvarných umení v Bratislave
 
   - 6. VOJENSKÉ VYSOKÉ ŠKOLY A ICH FAKULTY
+
+    - Vojenská akadémia v Liptovskom Mikuláši
+
+    - Fakulta pozemného vojska
+
+    - Fakulta protivzdušnej obrany
+
+    - Fakulta logistiky
+
+    - Fakulta zabezpečenia velenia
+
+    - Vysoká vojenská škola letectva generála M. R. Štefánika v Košiciach.
