@@ -28,9 +28,13 @@
 
 - 13) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
+- 13a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 14) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 15/1998 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb.
 
 - 15) § 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
+- 15a) Príloha č. 1 k zákonu č. 139/1998 Z. z.
 
 - 16) Zákon Slovenskej národnej rady č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
 
