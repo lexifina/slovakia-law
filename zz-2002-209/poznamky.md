@@ -1,0 +1,1 @@
+- 1) Zákon č. 155/1997 Z. z. o zriadení Trenčianskej univerzity v Trenčíne.
