@@ -8,7 +8,7 @@
 
 - 5) § 1 ods. 3 zákona č. 335/1991 Zb. o súdoch a sudcoch.
 
-- 6) § 18 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky.
+- 6) § 13 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
 
 - 7) § 38 a nasl. zákona č. 335/1991 Zb.
 
