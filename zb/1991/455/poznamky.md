@@ -128,6 +128,8 @@
 
 - 23h) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
+- 23ha) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
+
 - 23i) Zákon č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov v znení zákona č. 234/2000 Z. z.
 
 - 23j) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
@@ -159,6 +161,8 @@
 - Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
 - 24e) § 69 a 70 Trestného zákona v znení neskorších predpisov.
+
+- 24f) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 25) Zákon č. 498/1990 Zb. o utečencoch.
 
@@ -228,13 +232,15 @@
 
 - 36d) § 21 ods. 3 Obchodného zákonníka.
 
-- 36e) Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.
+- 36e) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 5/2004 Z. z.
 
-- 36f) § 71a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 124/1998 Z. z.
+- 36f) § 71a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 37a) § 62 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
+
+- 37b) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 38) Druhá časť a tretia časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
@@ -244,7 +250,11 @@
 
 - 41a) § 5 zákona č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
-- 41b) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 158/1997 Z. z. o podpísaní Európskej dohody o pridružení uzatvorenej medzi Európskymi spoločenstvami a ich členskými štátmi na strane jednej a Slovenskou republikou na strane druhej.
+- 41b) Zmluva medzi Belgickým kráľovstvom, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Írskom, Talianskou republikou, Luxemburským veľkovojvodstvom, Holandským kráľovstvom, Rakúskou republikou, Portugalskou republikou, Fínskou republikou, Švédskym kráľovstvom, Spojeným kráľovstvom Veľkej Británie a Severného Írska (členskými štátmi Európskej únie) a Českou republikou, Estónskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Maďarskou republikou, Maltskou republikou, Poľskou republikou, Slovinskou republikou, Slovenskou republikou o pristúpení Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky k Európskej únii.
+
+- 41ba) § 2 písm. k) zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 41bb) § 2 písm. j) zákona č. 477/2002 Z. z.
 
 - 41c) § 7 ods. 1 a 2 Obchodného zákonníka.
 
@@ -258,7 +268,7 @@
 
 - 45) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 46) § 76 až 85 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb.
+- 46) § 13 ods. 1 písm. c) zákona č. 477/2002 Z. z.
 
 - 47) § 352 až 354 Občianskeho súdneho poriadku č. 99/1963 Zb.
 

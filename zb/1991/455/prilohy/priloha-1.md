@@ -24,7 +24,7 @@ SKUPINA 104 - Výroba zdravotníckych výrobkov, presných a optických prístro
 
 9. | Výroba a opravy protetických výrobkov | I
 
-10. | Výroba a opravy ortopedickej obuvi | I
+10. | Výroba a opravy ortopedickej obuvi |
 
 11. | Hodinárstvo | I
 
@@ -72,9 +72,11 @@ SKUPINA 113 - Stavebníctvo | |
 
 27. | Inštalácia a opravy chladiarenských zariadení |
 
-28. | Elektroinštalatérstvo |
+28. | Podlahárstvo | I
 
 29. | Plynoinštalatérstvo |
+
+29a. | Kachliarstvo | I
 
 SKUPINA 114 - Ostatné | |
 
@@ -83,3 +85,5 @@ SKUPINA 114 - Ostatné | |
 31. | Kozmetické služby | V
 
 32. | Pohostinská činnosť | V
+
+33. | Čistenie a kontrola komínov | V
