@@ -2,7 +2,15 @@
 
 - 2) Zákon č. 140/1998 Z. z.
 
-- 3) Nariadenie vlády Slovenskej republiky č. 281/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého mäsa na trh.Nariadenie vlády Slovenskej republiky č. 282/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého hydinového mäsa na trh.Nariadenie vlády Slovenskej republiky č. 286/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri výrobe a uvádzaní na trh mäsových výrobkov a určitých ostatných produktov živočíšneho pôvodu.Nariadenie vlády Slovenskej republiky č. 300/2003 Z. z. o požiadavkách na zdravie zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri produkcii králičieho mäsa a zveriny zo zveri z farmových chovov a pri ich uvádzaní na trh.Nariadenie vlády Slovenskej republiky č. 298/2003 Z. z. o podmienkach v záujme ochrany zdravia ľudí pri produkcii a uvádzaní na trh produktov rybolovu a živých lastúrnikov.
+- 3) Nariadenie vlády Slovenskej republiky č. 281/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého mäsa na trh v znení nariadenia vlády Slovenskej republiky č. 490/2003 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 282/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého hydinového mäsa na trh.
+
+- Nariadenie vlády Slovenskej republiky č. 286/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri výrobe a uvádzaní na trh mäsových výrobkov a určitých ostatných produktov živočíšneho pôvodu v znení nariadenia vlády Slovenskej republiky č. 486/2003 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 300/2003 Z. z. o požiadavkách na zdravie zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri produkcii králičieho mäsa a zveriny zo zveri z farmových chovov a pri ich uvádzaní na trh v znení nariadenia vlády Slovenskej republiky č. 501/2003 Z. z.
+
+- 3a) Nariadenie vlády Slovenskej republiky č. 298/2003 Z. z. o podmienkach v záujme ochrany zdravia ľudí pri produkcii a uvádzaní na trh produktov rybolovu a živých lastúrnikov.
 
 - 4) Zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
