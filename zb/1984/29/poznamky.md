@@ -48,6 +48,6 @@
 
 - 11) Zákon č. 100/1970 Zb. v znení neskorších predpisov.
 
-- 12) Nariadenie vlády ČSR č. 91/1978 Zb., ktorým sa predlžuje povinná školská dochádzka na niektorých školách pre mládež vyžadujúcu osobitnú starostlivosť. Nariadenie vlády SSR č. 98/1978 Zb., ktorým sa predlžuje povinná školská dochádzka na niektorých školách pre mládež vyžadujúcu osobitnú starostlivosť.
+- 12) § 20 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 13) § 34 ods. 5 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
+- 13) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
