@@ -6,6 +6,8 @@
 
 - 4) Napr. § 14 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch.
 
+- 4a) § 57a a § 57b zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb., zákona č. 522/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
+
 - 5) Čl. 9 ods. 2 Ústavy Slovenskej republiky.
 
 - 6) Čl. 9 ods. 3 Ústavy Slovenskej republiky.
