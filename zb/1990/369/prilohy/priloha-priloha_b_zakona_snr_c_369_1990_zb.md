@@ -26,28 +26,14 @@ Príloha B zákona SNR č. 369/1990 Zb. Pol. | na úseku štátnej správy | pre
 
 11. | -"- | -"- | 57 | udeľovanie súhlasu k rozdeleniu bytu na dva alebo viac bytov a súhlasu na užívanie bytu alebo jeho časti na iné účely ako na bývanie
 
-12. | -"- | -"- | 67 ods. 3 | rozhodovanie v pochybnostiach, či určitý byt má povahu služobného bytu
+12. | -"- | -"- | 67 ods. 3 | rozhodovanie v pochybnostiach, čci určitý byt má povahu služobného bytu
 
-13. | veterinárnej starostlivosti | zákon SNR č. 110/1987 Zb. | 4 písm. b) | určovanie miest a výstav, trhov, prehliadok alebo súťaží zvierat po dohode s príslušným orgánom veterinárnej správy a povoľovanie ich konania (s výnimkou trhov s drobnými zvieratami)
+13. | veterinárnej starostlivosti | zákon SNR č. 110/1987 Zb. | 4 písm. b) | určovanie miest a výstav, trhov, prehliadok alebo súťaží zvierat po dohode s príslušným orgánom veterinárnej správy a povolovanie ich konania (s výnimkou trhov s drobnými zvieratami)
 
 14. | obrany | zákon č. 73/1973 Zb. | 18 ods. 1 | podieľať sa na príprave občanov na civilnú obranu
 
-15. | -"- | -"- | 22 ods. 1 a 3 | masovopolitická práca v brannej výchove a umožňovanie využívať svoje zariadenia na uskutočňovanie brannej výchovy
+15. | -"- | -"- | 22 ods. 1 a 3 | masovopolitická práca v brannej výchove a umožňnovanie využívať svoje zariadenia na uskutočňovanie brannej výchovy
 
 16. | dopravy | zákon č. 68/1979 Zb. v znení zákona č. 118/1990Zb. | 20 ods. 1 | umiestňovanie zastávok verejnej pravidelnej hromadnej dopravy v obci
 
 17. | -"- | -"- | 34 ods. 2 | povoľovanie predĺženia alebo zavedenia liniek mestskej autobusovej dopravy mimo územia mesta
-
-18. | kultúry | zákon č. 82/1957 Zb. | 11 | povoľovanie usporiadania verejných produkcií estrádnych umelcov a artistov
-
-19. | -"- | vyhláška č. 99/1958 Ú. v. | 1 ods. 1 | povoľovanie usporiadania výstavy alebo filmového predstavenia mimo prevádzky stáleho kina
-
-20. | -"- | vyhláška č. 149/1961 Zb. | 12 ods. 2 | schvaľovanie výstav diel výtvarných umení
-
-21. | -"- | zákon č. 52/1959Zb. | 17 | povoľovanie prednášok
-
-22. | -"- | zákon SNR č. 36/1978 Zb. | 10 ods. 3 | registrácia ochotníckeho súboru
-
-23. | -"- | -"- | 21 ods. 3 | povoľovanie predstavenia usporiadaného mimo oblasti svojho pôsobenia
-
-24. | -"- | -"- | 27 | zákaz divadelného predstavenia, prerušenie a zákaz pokračovať v predstavení
