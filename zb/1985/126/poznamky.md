@@ -14,8 +14,6 @@
 
 - 7) § 55 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
 
-- 7a) Čl. 139a ústavného zákona č. 143/1968 Zb. o československej federácii v znení ústavného zákona č. 294/1990 Zb.
-
 - 8) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 95/1977 Zb. o typizácii vo výstavbe
 
 - 9) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 105/1981 Zb. o dokumentácii stavieb.
