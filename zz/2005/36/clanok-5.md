@@ -1,21 +1,15 @@
-# Čl. 5
+# Čl. V
 
-Záujem maloletého dieťaťa je prvoradým hľadiskom pri rozhodovaní vo všetkých veciach, ktoré sa ho týkajú. Pri určovaní a posudzovaní záujmu maloletého dieťaťa sa zohľadňuje najmä
+Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákona č. 416/2001 Z. z., zákona č. 198/2002 Z. z. a zákona č. 515/2003 Z. z. sa mení a dopĺňa takto:
 
-- a) úroveň starostlivosti o dieťa,
+- 2. § 13 sa dopĺňa odsekom 5, ktorý znie:
 
-- b) bezpečie dieťaťa, ako aj bezpečie a stabilita prostredia, v ktorom sa dieťa zdržiava,
+- „(5)
 
-- c) ochrana dôstojnosti, ako aj duševného, telesného a citového vývinu dieťaťa,
+- Zápis dieťaťa, ktoré matka zanechala po pôrode v zdravotníckom zariadení a súčasne písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom,<sup>7a</sup>) do knihy narodení sa vykoná na základe správy lekára, ktorý pôsobil pri pôrode; správa sa posiela najneskôr v deň prepustenia matky zo zdravotníckeho zariadenia a musí obsahovať údaje podľa odseku 1 písm. a) a údaj o pohlaví dieťaťa.“.
 
-- d) okolnosti, ktoré súvisia so zdravotným stavom dieťaťa alebo so zdravotným postihnutím dieťaťa,
+- Poznámka pod čiarou k odkazu 7a znie:
 
-- e) ohrozenie vývinu dieťaťa zásahmi do jeho dôstojnosti a ohrozenie vývinu dieťaťa zásahmi do duševnej, telesnej a citovej integrity osoby, ktorá je dieťaťu blízkou osobou,
+- „7a)
 
-- f) podmienky na zachovanie identity dieťaťa a na rozvoj schopností a vlôh dieťaťa,
-
-- g) názor dieťaťa a jeho možné vystavenie konfliktu lojality a následnému pocitu viny,
-
-- h) podmienky na vytváranie a rozvoj vzťahových väzieb s obidvomi rodičmi, súrodencami a s inými blízkymi osobami,
-
-- i) využitie možných prostriedkov na zachovanie rodinného prostredia dieťaťa, ak sa zvažuje zásah do rodičovských práv a povinností.
+- § 11 ods. 10 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.“.
