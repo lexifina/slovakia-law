@@ -1,0 +1,19 @@
+- 1) § 47 ods. 1 zákona SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona SNR č. 525/1990 Zb.
+
+- 2) § 51 zákona SNR č. 126/1985 Zb. v znení zákona č. 525/1990 Zb.
+
+- 3) Nariadenie vlády SR č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch.
+
+- 4) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb.
+
+- 5) Zákon č. 172/1990 Zb. o vysokých školách.
+
+- 6) § 82 ods. 2 Zákonníka práce.
+
+- 7) Nariadenie vlády Slovenskej republiky č. 227/1992 Zb. o poskytovaní osobitného príplatku za prácu v sťažených a zdraviu škodlivých pracovných podmienkach.
+
+- 8) Nariadenie vlády ČSSR č. 118/1988 Zb. o mimoriadnom poskytovaní starobného dôchodku v znení nariadenia vlády ČSSR č. 116/1989 Zb., zákona č. 306/1991 Zb. a zákona č. 578/1991 Zb.
+
+- 9) § 21 zákona č. 87/1991 Zb. o mimoriadnych rehabilitáciách.
+
+- 10) § 46 ods. 2 a § 46b ods. 2 zákona SNR č. 126/1985 Zb. v znení zákona SNR č. 525/1990 Zb.
