@@ -48,7 +48,11 @@ Pol. | V odbore štátnej správy | sa prenáša na krajské národné výbory p
 
 2 | | družstiev | zák. č. 187/1948 Sb. | § 11 | Zrušovanie družstiev v kraji z úradnej moci.
 
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 2 účinnosť dňa 1. júla 1951. | | | | |
+
 3 | | | vl. nar. č. 259/1939 Sb. | § 25 | Slučovanie družstiev a prevod závodov družstiev v kraji pri ich reorganizácii v súčinnosti s Ústrednouradou družstiev (neprenášasa pôsobnosť Ministerstva spravodlivosti).
+
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 3 účinnosť dňa 1. júla 1951. | | | | |
 
 4 | | úľav krajanom, vracajúcim sa do vlasti | vl. nar. č. 71/1947 Sb. | § 8, ods. 4 | Rozhodovanie o tom, či živnosť bola v cudzine prevádzaná podľa predpisov obdobných predpisom československým.
 
@@ -58,7 +62,11 @@ Pol. | V odbore štátnej správy | sa prenáša na krajské národné výbory p
 
 7 | | živnostenského a iného podnikania | vl. nar. č. 14/1943 Sb. | § 3, ods. 2 | Udeľovanie pokynov pred rozhodnutím o zárobkovom podnikaní pri zárobkových a hospodárskych spoločenstvách.
 
+Podľa vyhlášky č. 54/1950 Zb. nadobudla pol. 7 účinnosť dňa 1. júla 1951. | | | | |
+
 8 | | | | § 4, ods. 2 | Udeľovanie pokynov pred rozhodnutím o zárobkovom podnikaní pri podnikoch prevádzaných továrensky.
+
+Podľa vyhlášky č. 54/1950 Zb. nadobudla pol. 8 účinnosť dňa 1. júla 1951. | | | | |
 
 9 | | | nar. č. 359/1940 Sl. z. v znení nar. č. 34/1942 Sl. z. | § 1 a § 5, ods. 2 | Udeľovanie pokynov pri nastupovaní živností maloobchodných, remeselníckych a koncesovaných.
 
@@ -73,6 +81,8 @@ Pol. | V odbore štátnej správy | sa prenáša na krajské národné výbory p
 14 | | | | § 15, ods. 6 | Predĺženie lehoty na vyberanie doterajších dávok a poplatkov a vyrovnanie daňového zaťaženia vnútri okresu pri zmene obvodou okresov.
 
 15 | | územnej organizácie obcí | dekrétu č. 121/1945 Sb. | § 18, ods. 2 prvej vety | Rozlučovanie obcí.
+
+Podľa vyhlášky č. 49/1950 Zb. nadobudla pol. 15 účinnosť dňom 1. januára 1951. | | | | |
 
 16 | | finančného hospodárstva obcí | zák. č. 329/1921 Sb. v znení zák. č. 69/1935 Sb. | § 28, ods. 6 | Povoľovanie vyberania obecných poplatkov a schvaľovanie pravidiel o ich vyberaní, ak pravidlá usnesené miestnym národným výborom sa odchyľujú od vzorných pravidiel alebo presahujú mieru označenú ako nanajvýš prípustnú.
 
@@ -186,11 +196,15 @@ Pol. | V odbore štátnej správy | sa prenáša na krajské národné výbory p
 
 71 | | všeobecne prospešných bytových sdružení | zák. č. 242/1910 r. z. stanovy Štát. byt. fondu (vyhl. č. 28/1912 r. z.) zák. č. 98/1919 Sb., zák. č. 41/1947 Sb. | § 12 čl. 28 a 30, ods. 1, písm. e) § 1, ods. 3 § 42,ods. 2 | Priznanie a odnímanie charakteru všeobecnej prospešnosti bytovým sdruženiam a schvaľovanie zmien stanov.
 
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 71 účinnosť dňa 1. júla 1951. | | | | |
+
 72 | | | nar. č. 30/1912 r. z. stanovy Štát. byt. fondu (vyhl. č. 28/1912 r. z.)zák. č. 98/1919 Sb. | čl. 1 a 3 čl. 28 | Dozor nad všeobecne prospešnými bytovými sdruženiami.
 
 73 | | | zák. č. 200/1946 Sb. | § 4 | Súhlas na obnovu činnosti všeobecne prospešných bytových sdružení, ktoré sa pod tlakom nepriateľskej okupácie usniesly na zrušení alebo boly zrušené.
 
 74 | | štátnych podpôr na obytné stavby | zák. č. 41/1947 Sb. | | Všetka pôsobnosť ústredných úradov pri vykonávaní tohto zákona.
+
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 74 účinnosť dňa 1. júla 1951. | | | | |
 
 75 | Ministerstva sociálnej starostlivosti a Ministerstva priemyslu | záruk | zák. č. 87/1922 Sb. vl. nar. č. 150/1922 Sb. | | Záruky za pôžičky výrobným a pracovným družstvám robotníckym.
 
@@ -214,9 +228,15 @@ Pol. | V odbore štátnej správy | sa prenáša na krajské národné výbory p
 
 85 | | podporných fondov | zák. č. 98/1948 Sb. | § 29, ods. 1 | Uznávanie zaopatrovacích zariadení za podporné fondy, pokiaľ poskytujú len jednorázové alebo krátkodobé dávky alebo podpory v obvode kraja.
 
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 85 účinnosť dňa 1. júla 1951. | | | | |
+
 86 | | | | § 29, ods. 2 a § 23 | Dozor nad podpornými fondami, pokiaľ poskytujú len jednorázové alebo krátkodobé dávky alebo podpory v obvode kraja.
 
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 86 účinnosť dňa 1. júla 1951. | | | | |
+
 87 | | | | § 30, ods. 2 | Schvaľovanie zmien stanov, premena a vymenovanie správnych orgánov zaopatrovacích zariadení, pokiaľ poskytujú len jednorázové alebo krátkodobé dávky alebo podpory v obvode kraja.
+
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 87 účinnosť dňa 1. júla 1951. | | | | |
 
 88 | Ministerstva zdravotníctva | policajných predpisov o potravinách | zák. č. 156/1908 r. z. | § 4, ods. 2 | Rozhodovanie o pripustení uchádzačov, ktorí neabsolvovali kurz, naskúšky predpísané pre orgány potravinovej polície.
 
@@ -675,6 +695,8 @@ Pol. | V odbore štátnej správy | sa prenáša na krajské národné výbory p
 315 | | stavebnej obnovy | zák. č. 86/1946 Sb. v znení zák. č. 15/1947 Sb. | § 14, ods. 1 | Povoľovanie výnimiek vo výške zastavania.
 
 316 | Min. techniky a Min. sociál. starostlivost | | | §§ 19 až 25 | Všetka pôsobnosť vo veciach štátnej podpory na obnovu i priznaná v uvedených ustanoveniach zákona ústredným úradom.
+
+Podľa vyhlášky č. 52/1950 Zb. nadobudla pol. 316 účinnosť dňa 1. júla 1951. | | | | |
 
 317 | Ministerstva techniky | civilných technikov | vl. nar. č. 180/1946 Sb. | § 1 | Odpúšťanie časti času praktického zamestnania predpísaného pre dosiahnutie oprávnenia civilného technika a pre povolenie na výkon predpísanej skúšky.
 
