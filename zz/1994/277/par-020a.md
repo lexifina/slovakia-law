@@ -6,4 +6,4 @@
 
 (3) Ošetrovateľskú starostlivosť a pôrodnú asistenciu poskytujú sestry a pôrodné asistentky, ktoré majú odbornú spôsobilosť na výkon povolania podľa osobitného predpisu.<sup>10</sup>)
 
-(4) Prípady, v ktorých sestra poskytuje ošetrovateľskú starostlivosť samostatne a v ktorých ju poskytuje za asistencie lekára, a prípady, v ktorých pôrodná asistentka poskytuje pôrodnú asistenciu samostatne a v ktorých ju poskytuje za asistencie lekára, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+(4) Rozsah ošetrovateľskej praxe poskytovanej sestrou samostatne a v spolupráci s lekárom a rozsah pôrodnej asistencie poskytovanej pôrodnou asistentkou samostatne a v spolupráci s lekárom ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.

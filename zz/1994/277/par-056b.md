@@ -4,17 +4,15 @@
 
 (2) Ministerstvo zdravotníctva uzná diplom o špecializácii zdravotníckemu pracovníkovi, ktorý je občanom členského štátu a ktorý získal diplom o špecializácii v členskom štáte, ak taký diplom
 
-- a) je uvedený v prílohe č. 1 alebo v prílohe č. 2,
+- a) je uvedený v prílohe č. 1 alebo v prílohe č. 2, alebo
 
-- b) nie je uvedený v prílohe č. 1 alebo v prílohe č. 2, ale obsahuje osvedčenie vydané príslušným orgánom členského štátu, v ktorom sa uvádza, že členský štát, ktorý ho udeľuje, ho považuje za rovnocenný s diplomami o špecializácii, ktorých názvy sú uvedené v prílohe č. 1 alebo v prílohe č. 2, alebo
+- b) nie je uvedený v prílohe č. 1 alebo v prílohe č. 2, ale obsahuje osvedčenie vydané príslušným orgánom členského štátu, v ktorom sa uvádza, že členský štát, ktorý ho udeľuje, ho považuje za rovnocenný s diplomami o špecializácii, ktorých názvy sú uvedené v prílohe č. 1 alebo v prílohe č. 2.
 
-- c) nie je uvedený v prílohe č. 1 alebo v prílohe č. 2, ale má k dispozícii doklad o uznaní tohto diplomu o špecializácii príslušným orgánom iného členského štátu.
-
-(3) Ak má ministerstvo zdravotníctva pri uznávaní diplomov o špecializácii pochybnosti o pravosti diplomu o špecializácii vydaného v inom členskom štáte, požiada príslušný orgán členského štátu o potvrdenie pravosti diplomu o špecializácii vydaného týmto členským štátom, ako aj o vydanie potvrdenia o absolvovaní špecializačnej prípravy.
+(3) Ak má ministerstvo zdravotníctva pri uznávaní diplomov o špecializácii pochybnosti o pravosti diplomu o špecializácii vydaného v inom členskom štáte, požiada príslušný orgán členského štátu o potvrdenie pravosti diplomu o špecializácii vydaného týmto členským štátom.
 
 (4) Ministerstvo zdravotníctva môže uznať zdravotníckemu pracovníkovi, ktorý je občanom členského štátu a ktorý získal diplom o špecializácii v členskom štáte, aj diplom o špecializácii, ktorý nespĺňa podmienku uvedenú v odseku 2 písm. b), ak osoba spĺňa podmienky na získanie príslušnej špecializácie ustanovené pre občanov Slovenskej republiky na území Slovenskej republiky osobitným predpisom.<sup>15b</sup>)
 
-(5) Ministerstvo zdravotníctva uzná osobe, ktorá získala diplom o špecializácii v štáte, ktorý nie je členským štátom, aj diplom o špecializácii, ak taký diplom o špecializácii uznal príslušný orgán iného členského štátu ako rovnocenný s diplomom o špecializácii získaným po absolvovaní potrebného vzdelávania a potrebnej odbornej zdravotníckej praxe v príslušnom špecializačnom odbore v tomto členskom štáte. Ministerstvo zdravotníctva preskúma taký diplom o špecializácii a rozhodne do troch mesiacov od predloženia takého diplomu o špecializácii.
+(5) Ministerstvo zdravotníctva uzná osobe, ktorá získala diplom o špecializácii v štáte, ktorý nie je členským štátom, aj diplom o špecializácii, ak taký diplom o špecializácii uznal príslušný orgán iného členského štátu ako rovnocenný s diplomom o špecializácii získaným po absolvovaní potrebného vzdelávania a potrebnej odbornej zdravotníckej praxe v príslušnom špecializačnom odbore v tomto členskom štáte. Ministerstvo zdravotníctva rozhodne o uznaní diplomu o špecializácii do troch mesiacov v prípadoch uvedených v odsekoch 2 a 5 a do štyroch mesiacov v ostatných prípadoch.
 
 (6) Ministerstvo zdravotníctva pri uznávaní diplomov o špecializácii, ktoré nie sú uvedené v prílohe č. 1 alebo v prílohe č. 2, zohľadní absolvovanú odbornú zdravotnícku prax v cudzine v príslušnom špecializačnom odbore vrátane sústavného vzdelávania za predpokladu, že táto odborná zdravotnícka prax a toto sústavné vzdelávanie zodpovedá požiadavkám ustanoveným v osobitnom predpise.<sup>15b</sup>) Ak prax nezodpovedá ustanoveným požiadavkám, informuje bezodkladne o rozsahu potrebného doplnenia vedomostí a zručností a dĺžke jeho trvania na území Slovenskej republiky.
 

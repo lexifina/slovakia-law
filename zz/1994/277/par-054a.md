@@ -1,6 +1,6 @@
 # § 54a Povolenie na výkon zdravotníckeho povolania na území Slovenskej republiky cudzincovi a občanovi Slovenskej republiky, ktorý získal odbornú spôsobilosť v cudzine
 
-(1) Občan členského štátu Európskej únie alebo členského štátu Európskeho združenia voľného obchodu (ďalej len „členský štát"), ktorý získal odbornú spôsobilosť na výkon zdravotníckeho povolania v inom členskom štáte, môže vykonávať zdravotnícke povolanie na území Slovenskej republiky ako usadená osoba alebo ako hosťujúca osoba, alebo podľa odseku 8.
+(1) Občan členského štátu Európskej únie alebo Nórska, Lichtenštajnska, Islandu a Švajčiarska (ďalej len „členský štát"), ktorý získal odbornú spôsobilosť na výkon zdravotníckeho povolania v inom členskom štáte, môže vykonávať zdravotnícke povolanie na území Slovenskej republiky ako usadená osoba alebo ako hosťujúca osoba, alebo podľa odseku 8.
 
 (2) Usadená osoba na účely tohto zákona je občan členského štátu, ktorý na území Slovenskej republiky sústavne vykonáva zdravotnícke povolanie na základe povolenia na výkon zdravotníckeho povolania na území Slovenskej republiky.
 
@@ -20,7 +20,7 @@
 
 - f) rozsahu poskytovanej zdravotnej starostlivosti v inom členskom štáte, ak osoba, ktorá bude vykonávať zdravotnícke povolanie na území Slovenskej republiky, bude súbežne vykonávať zdravotnícke povolanie aj v inom členskom štáte, a to formou čestného vyhlásenia.
 
-(5) Občan členského štátu je povinný preukázať schopnosť odborne sa vyjadrovať v štátnom jazyku<sup>14c</sup>) v rozsahu nevyhnutnom na výkon zdravotníckeho povolania.
+(5) U cudzinca sa vyžaduje aj ovládanie odbornej terminológie v slovenskom jazyku<sup>14c</sup>) v rozsahu nevyhnutnom na výkon zdravotníckeho povolania. Ministerstvo zdravotníctva cudzinca v prípade potreby informuje o možnostiach získania primeranej znalosti odbornej terminológie v slovenskom jazyku.
 
 (6) Za doklad uvedený v odseku 4 písm. c) až e) sa považuje doklad vydaný v inom členskom štáte, ktorý obsahom zodpovedá dokladu vydávanému v Slovenskej republike. U osôb, ktoré na území Slovenskej republiky budú poskytovať zdravotnú starostlivosť po prvýkrát od získania odbornej spôsobilosti, sa nevyžaduje doklad podľa odseku 4 písm. d). Doklady uvedené v odseku 4 písm. c) až e) nesmú byť staršie ako tri mesiace od ich vydania a doklad uvedený v odseku 4 písm. a) nesmie byť starší ako dvanásť mesiacov od jeho vydania. Doklady uvedené v odseku 4 musia byť predložené spolu s ich úradne osvedčeným prekladom do štátneho jazyka.
 
@@ -38,7 +38,7 @@
 
 (10) Ministerstvo zdravotníctva pri postupe podľa odseku 9 zabezpečí ochranu osobných údajov podľa osobitného predpisu.<sup>14e</sup>)
 
-(11) Ministerstvo zdravotníctva rozhodne vo veci vydania povolenia na výkon zdravotníckeho povolania na území Slovenskej republiky podľa odsekov 4 až 8 najneskôr do troch mesiacov od podania žiadosti a predloženia dokladov; ak ministerstvo zdravotníctva požiadalo iný členský štát o prešetrenie skutočnosti, ktorá vznikla na území tohto členského štátu, a ktorá môže ovplyvniť rozhodnutie o vydaní povolenia na výkon zdravotníckeho povolenia, konanie preruší až do získania výsledku prešetrenia od príslušného členského štátu.
+(11) Ministerstvo zdravotníctva rozhodne vo veci vydania povolenia na výkon zdravotníckeho povolania na území Slovenskej republiky podľa odsekov 4, 6 až 8 najneskôr do troch mesiacov od podania žiadosti a predloženia dokladov; ak ministerstvo zdravotníctva požiadalo iný členský štát o prešetrenie skutočnosti, ktorá vznikla na území tohto členského štátu, a ktorá môže ovplyvniť rozhodnutie o vydaní povolenia na výkon zdravotníckeho povolenia, konanie preruší až do získania výsledku prešetrenia od príslušného členského štátu. Prerušenie konania môže trvať najviac tri mesiace.
 
 (12) Pri vydávaní povolenia na výkon zdravotníckeho povolania na území Slovenskej republiky sa postupuje podľa všeobecných predpisov o správnom konaní,<sup>11</sup>) ak tento zákon neustanovuje inak.
 

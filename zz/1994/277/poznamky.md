@@ -10,6 +10,8 @@
 
 - 2a) § 3a zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení zákona č. 138/2003 Z. z.
 
+- 2aa) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 2b) § 39 ods. 2 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní.
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
