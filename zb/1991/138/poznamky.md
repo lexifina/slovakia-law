@@ -26,6 +26,8 @@
 
 - 11a) Zákon č. 92/1991 Zb. v znení zákona č. 92/1992 Zb.
 
+- 11b) § 18 ods. 3 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
+
 - 12) Napr. čl. 10 Ústavy ČSFR č. 100/1960 Zb. v znení neskorších ústavných zákonov, § 11a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb., § 46a zákona SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona SNR č. 525/1990 Zb.
 
 - 13) § 198 a nasl. Občianskeho zákonníka.
