@@ -6,6 +6,4 @@
 
 - †) § 39, prípadne § 71 vládneho nariadenia č. 100/1966 Zb.
 
-- *) § 8 zákona č. 83/1966 Zb. o štvrtom päťročnom pláne rozvoja národného hospodárstva Československej socialistickej republiky.
-
 - **) § 8 ods. 2 zákona č. 83/1966 Zb.
