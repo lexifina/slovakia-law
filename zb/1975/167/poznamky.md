@@ -1,0 +1,1 @@
+- 1) § 29 zákona SNR č. 149/1975 Zb. o archívnictve.
