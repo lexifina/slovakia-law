@@ -1,0 +1,1 @@
+Ing. Zíka v.r.
