@@ -1,4 +1,4 @@
-Príloha č. 1 k zákonu č. 313/2001 Z. z. [Príloha 01](../assets/47ca7f69f3d6aa0ae2b5fc091ab695e2f5b602a45f4fe3138279529089da9a8a.pdf)
+Príloha č. 1 k zákonu č. 313/2001 Z. z.
 
 - CHARAKTERISTIKY PLATOVÝCH TRIED PRE PRACOVNÉ ČINNOSTI S PREVAHOU DUŠEVNEJ PRÁCE VO VEREJNEJ SLUŽBE
 
