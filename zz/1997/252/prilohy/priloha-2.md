@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 252/1997 Z. z. [Vzor 02 - Lekársky posudok o zdravotnej spôsobilosti na držanie alebo nosenie zbraní a streliva](../assets/3d8dc091c6b09b9b540c335f2e278b647591560da4d3e34fa31351befee0866b.pdf)
