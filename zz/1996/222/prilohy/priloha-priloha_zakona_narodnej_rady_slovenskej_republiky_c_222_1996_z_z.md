@@ -32,7 +32,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 15. | živnostenské podnikanie a ochrana spotrebitela | zák. NR SR c. 274/1993 Z. z. | §5 | vyhlasuje na území príslušného okresu predaj obmedzeného množstva výrobkov v prípade, ak je vážne ohrozené zásobovanie obyvatelstva životne dôležitými výrobkami
 
-- 16. | požiarna ochrana | zák. SNR c. 126/1985Zb. v znení neskorších predpisov | § 11 ods. 1 | overuje odbornú spôsobilost a vydáva osvedcenie o odbornej spôsobilosti technikom požiarnej ochrany a špecialistom požiarnej ochrany
+- 16. | požiarna ochrana | zák. SNR c. 126/1985 Zb. v znení neskorších predpisov | § 11 ods. 1 | overuje odbornú spôsobilost a vydáva osvedcenie o odbornej spôsobilosti technikom požiarnej ochrany a špecialistom požiarnej ochrany
 
 - 17. | | | § 27 písm. a) | vykonáva štátny požiarny dozor
 
@@ -122,18 +122,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 60. | | vyhl. c. 34/1977 Zb. | §5 | udeluje výnimku zo zákazu plavby motorových plavidiel na povrchových vodách
 
-- 61. | tvorba a ochrana životného prostredia -územné plánovanie | zák. c. 50/1976 Zb. v znení neskorších predpisov | § 16, § 18 ods. 1 | obstaráva územnoplánovaciu dokumentáciu velkých územných celkov
-
-- 62. | a stavebný poriadok | | § 25 ods. 1 | Krajské úrady v Bratislave a v Košiciach posudzujú návrhy územných plánov sídelných útvarov
-
-- 63. | | | § 119 ods. 1 | vykonáva funkciu najbližšieho spolocne nadriadeného správneho orgánu, ak ide o stavbu alebo opatrenie, ktoré sa má uskutocnit v územnom obvode dvoch alebo viacerých stavebných úradov; urcuje, že konanie vykoná a rozhodnutie vydá niektorý z podriadených stavebných úradov
-
-- 64. | | | § 119 ods. 2 | uzatvára dohodu o tom, ktorý stavebný úrad vykoná konanie a vydá rozhodnutie, ak ide o stavbu alebo opatrenie, ktoré sa má uskutocnit v územnom obvode viacerých krajov
-
-- 65. | | | § 123 | vykonáva právomoc stavebného úradu pri jednotlivých technicky obzvlášt tažkých alebo neobvyklých stavbách alebo pri opatreniach s väcšími alebo rozsiahlejšími úcinkami na životné prostredie v ich okolí, ak si túto právomoc vyhradil
-
-- 66. | | | § 136 ods. 1 | rieši rozpory medzi orgánmi štátnej správy, ktoré vzniknú v postupoch a konaniach podla stavebného zákona
-
 - 67. | tvorba a ochrana životného prostredia -odpadové hospodárstvo | zák. SNR c. 494/1991 Zb. v znení neskorších predpisov | § 4 písm. b) | dáva podla § 4 ods. 2 zákona o odpadoch vyjadrenie k zariadeniam a cinnostiam, ktoré svojím dopadom presahujú územie okresu
 
 - 68. | | | § 4 písm. c) | zakáže podla § 9 zákona o odpadoch do odstránenia závady cinnost
@@ -186,7 +174,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 90. | | | § 58 ods. 1 a 4 | ustanovuje a odvoláva stráž prírody a urcuje z jej radov clenov, ktorí sú oprávnení držat a nosit zbran
 
-- 91. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR c. 134/1992Zb. v znení neskorších predpisov | § 4 ods. 1 písm. a) | urcuje podla § 14 ods. 3 zákona o ovzduší emisné limity pre jestvujúce velké zdroje znecistovania ovzdušia
+- 91. | tvorba a ochrana životného prostredia -ochrana ovzdušia | zák. SNR c. 134/1992 Zb. v znení neskorších predpisov | § 4 ods. 1 písm. a) | urcuje podla § 14 ods. 3 zákona o ovzduší emisné limity pre jestvujúce velké zdroje znecistovania ovzdušia
 
 - 92. | | | § 4 ods. 1 písm. b) | dáva súhlas podla § 1 1 ods. 1 písm. e) zákona o ovzduší na návrhy územnoplánovacej dokumentácie velkého územného celku
 
