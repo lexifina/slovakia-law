@@ -1,5 +1,5 @@
 Príloha k zákonu č. 377/2004 Z. z.
 
-- Zoznam preberaných právne záväzných aktov Európskej únie
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
-  - Smernica Európskeho parlamentu a Rady 2014/40/EÚ z 3. apríla 2014 o aproximácii zákonov, iných právnych predpisov a správnych opatrení členských štátov týkajúcich sa výroby, prezentácie a predaja tabakových a súvisiacich výrobkov a o zrušení smernice 2001/37/ES (Ú. v. EÚ L 127, 29. 4. 2014).
+  - Smernica 2001/37/ES z 5.6.2001 o aproximácii zákonov, nariadení a administratívnych opatrení členských štátov týkajúcich sa výroby, uvádzania a predaja tabakových výrobkov (Úradný vestník Európskych spoločenstiev L 194, 18/07/2001).
