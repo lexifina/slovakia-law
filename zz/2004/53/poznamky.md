@@ -2,7 +2,7 @@
 
 - 2) STN EN ISO 3405 Ropné výrobky. Stanovenie destilačných charakteristík pri atmosférickom tlaku.
 
-- 3) Príloha č. 4 časť I vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 706/2002 Z. z. o zdrojoch znečisťovania ovzdušia, o emisných limitoch, o technických požiadavkách a všeobecných podmienkach prevádzkovania, o zozname znečisťujúcich látok, o kategorizácii zdrojov znečisťovania ovzdušia a o požiadavkách zabezpečenia rozptylu emisií znečisťujúcich látok v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 410/2003 Z. z.
+- 3) Príloha č. 4 k vyhláške Ministerstva životného prostredia Slovenskej republiky č. 706/2002 Z. z. o zdrojoch znečisťovania ovzdušia, o emisných limitoch, o technických požiadavkách a všeobecných podmienkach prevádzkovania, o zozname znečisťujúcich látok, o kategorizácii zdrojov znečisťovania ovzdušia a o požiadavkách zabezpečenia rozptylu emisií znečisťujúcich látok v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 410/2003 Z. z.
 
 - 4) STN EN ISO 3170 Ropa a kvapalné ropné výrobky. Ručný odber vzoriek.
 
