@@ -1,0 +1,1 @@
+- *) Vyhláška Federálneho štatistického úradu č. 129/1971 Zb. o zavedení a využívaní jednotnej klasifikácie zamestnaní a jednotnej klasifikácie študijných a učebných odborov.
