@@ -1,0 +1,3 @@
+# § 16 [Red. poznámka: Podľa prílohy A bodu 89 predpisu č. 116/1949 Zb. sa prenáša pôsobnosť v § 16 tohto zákona z ústredného úradu na krajské národné výbory v predmete pôsobnosti „Likvidácia dočasných správ poštátnených a konfiškovaných odborných ústavov a oblastných nemocníc."] [Red. poznámka: Podľa prílohy B bodu 19 predpisu č. 116/1949 Zb. sa prenáša pôsobnosť v § 16 tohto zákona z ústredného úradu na okresné národné výbory v predmete pôsobnosti „Likvidácia dočasných správ poštátnených a konfiškovaných okresných nemocníc"]
+
+O dočasnej správe poštátnených a konfiškovaných liečebných a ošetrovacích ústavov platia primerane ustanovenia §§ 12 a 13 zákona č. 125/1948 Sb.
