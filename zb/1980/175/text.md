@@ -196,15 +196,15 @@ Hmotná zainteresovanosť
 
 - - ďalšie nevyhnutne potrebné prílohy podľa pokynov príslušného ústredného orgánu a príslušného výboru odborového zväzu.
 
-ČASŤ V Evidencia a kontrola plnenia kolektívnych zmlúv
+ČASŤ V Registrácia a kontrola plnenia kolektívnych zmlúv
 
-- 28. Uzavreté kolektívne zmluvy organizácií, ich zmeny a doplnky evidujú orgány im bezprostredne nadriadené a príslušné orgány odborového zväzu. Tieto orgány tiež konzultujú o obsahu návrhov týchto kolektívnych zmlúv. Vedenie organizácie spolu s príslušným odborovým orgánom obdobne vykonáva konzultácie a evidenciu závodných kolektívnych zmlúv. Odborové kolektívne zmluvy, ich zmeny a doplnky evidujú ústredný orgán a príslušný orgán odborového zväzu, ktoré tiež o obsahu ich návrhov konzultujú. Uzavreté kolektívne zmluvy sa zasielajú na evidenciu hneď po podpísaní.
+- 28. Uzavreté kolektívne zmluvy organizácií, ich zmeny a doplnky registrujú orgány im bezprostredne nadriadené a príslušné orgány odborového zväzu. Vedenie organizácie spolu s príslušným odborovým orgánom vykonáva registráciu závodných kolektívnych zmlúv, ich zmien a doplnkov. Odborové kolektívne zmluvy, ich zmeny a doplnky registrujú ústredné orgány a príslušné orgány odborového zväzu. Registrujúce orgány a organizácie dbajú na včasnú prípravu a uzavretie kolektívnych zmlúv a konzultujú obsah predložených návrhov za účasti oboch zmluvných strán. O opatreniach dohodnutých pri konzultácii na zmeny a doplnenie kolektívnej zmluvy robia záznam. Uzavreté kolektívne zmluvy sa zasielajú na registráciu ihneď po ich podpísaní. Registrujúce orgány vyhotovujú protokol o registrácii.
 
 - 29. Obe zmluvné strany v kolektívnej zmluve sa dohodnú na spôsobe:
 
   - a) pravidelnej bežnej kontroly plnenia v záujme vytvárania predpokladov dôslednej a včasnej realizácie všetkých ustanovení a záväzkov obsiahnutých v kolektívnej zmluve. So závermi bežnej kontroly plnenia kolektívnej zmluvy sú pracujúci oboznamovaní na výrobných (prevádzkových) poradách, členských schôdzach odborových úsekov a členských schôdzach alebo konferenciách základnej organizácie Revolučného odborového hnutia;
 
-  - b) polročnej verejnej kontroly plnenia kolektívnej zmluvy organizácie a závodnej kolektívnej zmluvy za účasti všetkých pracujúcich, organizovanej dva razy do roka podľa spoločného plánu politickoorganizačného opatrenia. Najneskoršie do 31. augusta bežného roka a do 15. februára nasledujúceho roka schvaľuje dosiahnuté výsledky v plnení kolektívnej zmluvy a navrhované závery z vykonanej verejnej kontroly členská schôdza alebo podniková (závodná) konferencia Revolučného odborového hnutia. Výsledky a závery verejnej kontroly sa využijú pri príprave a uzavretí novej kolektívnej zmluvy a pri rozboroch hospodárskej činnosti organizácie;
+  - b) polročnej verejnej kontroly plnenia kolektívnej zmluvy organizácie a závodnej kolektívnej zmluvy za účasti všetkých pracujúcich, organizovanej dva razy do roka podľa spoločného plánu politickoorganizačného opatrenia. Najneskôr do 31. augusta bežného roka a do 15. februára nasledujúceho roka schvaľuje dosiahnuté výsledky v plnení kolektívnej zmluvy a navrhované závery z vykonanej verejnej kontroly členská schôdza alebo podniková (závodná) konferencia Revolučného odborového hnutia. Výsledky a závery verejnej kontroly sa využijú pri príprave a uzavretí novej kolektívnej zmluvy a pri rozboroch hospodárskej činnosti organizácie;
 
   - c) verejnej kontroly plnenia odborovej kolektívnej zmluvy raz do roka súčasne s hodnotením výsledkov hospodárenia a plnenia plánu VHJ a prerokovania ich výsledkov a schválenia záverov z nich vyplývajúcich odborovou konferenciou Revolučného odborového hnutia.
 
