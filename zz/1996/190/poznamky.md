@@ -1,1 +1,0 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z.
