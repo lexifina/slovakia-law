@@ -258,6 +258,18 @@ Príloha č. 2 nariadenia vlády SSR č. 206/1988 Zb.
 
     - sírovodík<sup>23</sup>)
 
+    - amid kyseliny tiooctovej
+
+    - cyklohexantiol
+
+    - alfa D-glukochloralóza chlorid meďný
+
+    - kyselina jodoctová
+
+    - toluyéndiizokyanáty
+
+    - 2,3,5-trifenyltetrazóliumchlorid
+
   - B. Ostatné jedy - účinné látky pesticídov
 
     - alfacypermetrín
@@ -399,3 +411,5 @@ Príloha č. 2 nariadenia vlády SSR č. 206/1988 Zb.
     - vernolát
 
     - warfarín
+
+    - lambda-cyhalotrín

@@ -134,6 +134,12 @@ Príloha č. 1 nariadenia vlády SSR č. 206/1988 Zb.
 
     - selenovovodík<sup>22</sup>)
 
+    - amid kyseliny monojodoctovej
+
+    - 2-Chlórbenzylidénmalononitril
+
+    - tetrakyanoetylén
+
   - B. Zvlášť nebezpečné jedy - účinné látky pesticídov
 
     - aldicarb

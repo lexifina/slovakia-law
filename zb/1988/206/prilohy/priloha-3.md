@@ -202,6 +202,18 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 
 - trimeperidín (Trimeperidinum) 4-fenyl-4-propionyloxy-1,2,5-trimetylpiperidín
 
+- alfa-metyltiofentanyl (Alfa-methylthiofentanylum) N-/1-/1-metyl-2(2-tienyl)etyl-/4-piperidyl/propiónanilid
+
+- parafluórfentanyl (Parafluorofentanylum) 4-fluór-N-(1-fenetyl-4-piperidyl)propiónanilid
+
+- beta-hydroxyfentanyl (Beta-hydroxyfentanylum) N-/1-(beta-hydroxyfenetyl)-4-piperidyl/propiónanilid
+
+- beta-hydroxy-3-metyl-fentanyl (Beta-hydroxy-methyl-fetanylum) N-/1-(beta-hydroxyfenetyl)-3-metyl-4-piperidyl/ propiónanilid
+
+- tiofentanyl (Thiofentanylum) N-/1-/2-(2-tienyl)etyl-/4-piperidyl/propióanilid
+
+- 3-metyltiofentanyl (3-Methylthiofentanylum) N-/3-metyl-1/2-(2-tienyl)etyl-/4-piperidyl/propiónanilid
+
 - Izoméry omamných látok uvedených v tejto skupine, až na výslovné výnimky, vo všetkých prípadoch, keď tieto izoméry môžu existovať podľa zvláštneho chemického označenia;
 
 - estery a étery omamných látok uvedených v tejto skupine, pokiaľ nie sú uvedené v inej skupine zoznamu, vo všetkých prípadoch, keď tieto estery a étery môžu existovať;
@@ -282,7 +294,9 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 
 - STP,DOM 2-amino-1-(2,5-dimetoxy-4-metylfenyl)propán
 
-- THC Tetrahydrokannabinoly, všetky izoméry: ∆6a(10a), ∆6a(7a), ∆7, ∆8, ∆9, ∆10, ∆9(11) a ich stereochemické varianty
+- THC Tetrahydrokannabinoly, všetky izoméry:
+
+- 6a(10a), 6a(7a), 7, 8, 10, 9(11) a ich stereochemické varianty
 
 - tenocyklidín (Tenocyklidinum) TCP 1-[1-(2-tieny)cyklohexy]piperidín
 
@@ -309,6 +323,12 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 - 3,4-metylán-dioxy- (3,4-methylen-dioxy- MDMA 1-(3,4-metyléndioxyfenyl)-2-metylaminopropán;
 
 - metamfetamín -amphetaminum)
+
+- N hydroxy MDA (+)-N/alfa-metyl-3,4-(methyléndioxy)fenetyl-/-hydroxylamín
+
+- N-etyl MDA (+)-N-etyl-alfa-metyl-3,4-(metyléndioxy) fenetylamín
+
+- 4-metylaminorex (+)-cis-2-amino-5-fenyl-4-metyl-2-oxazolín
 
 - a soli látok uvedených v tejto skupine vo všetkých prípadoch, keď je možná existencia takýchto solí.
 
@@ -341,6 +361,8 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 - metamfetamínracemát (Metamphetaminumracemicum) (+- )-1-fenyl-2-metylaminopropán
 
 - sekobarbital (Secobarbitalum) kyselina 5-allyl-5-(1-metylbutyl)barbiturová;
+
+- Delta-9-Tetrahydrokannabinol
 
 - a soli látok uvedených v tejto skupine vo všetkých prípadoch, keď je možná existencia takýchto solí.
 
@@ -510,8 +532,6 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 
 - mefenorex (Mefenorexum) DL-2-(3-chlórpropylamino)-1-fenylpropán
 
-- propylhexedrín (Propylhexedrinum) DL-1-cyklohexyl-2-metylaminopropán
-
 - pyrovalerón (Pyrovaleronum) DL-1-1(4-metylfenyl)-2-(pyrrolidinyl)-1-pentanón
 
 - allobarbital (Allobarbitalum) kyselina 5,5-diallylbarbitirová
@@ -521,5 +541,7 @@ Príloha č. 3 nariadenia vlády SSR č. 206/1988 Zb.
 - sekbutabarbital (Secbutabarbitalum) kyselina 5-etyl-5-(1-metylpropyl)barbiturová
 
 - vinylbital (Vinylbitalum) kyselina 5-(1-metylbutyl)-5-vinylbarbiturová;
+
+- midazolam (Midazolamum) 8-chlór 6-(o-fluórfenyl)-1-metyl-4H-imidazo (1,5-a) (1,4)benzodiazepín
 
 - a soli látok uvedených v tejto skupine vo všetkých prípadoch, keď je možná existencia takýchto solí.
