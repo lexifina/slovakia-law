@@ -1,9 +1,13 @@
-- 1) Dodávky výrobkov organizáciám štátneho a družstevného maloobchodu a spotrebiteľským organizáciám upravuje vyhláška č. 50/1977 Zb., ktorou sa vydávajú základné podmienky dodávky potravinárskych výrobkov dodávaných organizáciám štátneho a družstevného maloobchodu a spotrebiteľským organizáciám.
+- 1) § 162 až 164 zákona.
 
-- 2) Vyhláška č. 33/1975 Zb. o prerokúvaní dodávateľsko-odberateľských vzťahov v plánovacom procese.
+- 2) § 4 ods. 5 vyhlášky Štátnej plánovacej komisie a Štátnej arbitráže Československej socialistickej republiky č. 48/1980 Zb. o hmotnom bilancovaní a prerokúvaní dodávateľsko-odberateľských vzťahov v plánovacom procese.
 
-- 3) ON 0803 - Vyskladnenie a preverovanie plnenia liehu.
+- 2a) § 24 ods. 7 vyhlášky Federálneho cenového úradu, Českého cenového úradu a Slovenského cenového úradu č. 113/1985 Zb. o cenách.
+
+- 3) § 7 ods. 6 vyhlášky č. 48/1980 Zb.
 
 - 4) Vyhláška č. 50/1977 Zb., ktorou sa vydávajú základné podmienky dodávky potravinárskych výrobkov dodávaných organizáciám štátneho a družstevného maloobchodu a spotrebiteľským organizáciám.
 
 - 5) Vyhláška č. 11/1965 Zb. o hospodárení s obalmi pri dodávkach výrobkov.
+
+- 5a) Úprava Federálneho cenového úradu, Českého cenového úradu a Slovenského cenového úradu z 29. 11. 1985 č. V-3/86 o cenníkoch a označovaní výrobkov maloobchodnými cenami, reg. v čiastke 32/1985 Zb.
