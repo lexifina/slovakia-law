@@ -4,11 +4,11 @@
 
 - 3) § 3 ods. 14 písm. a) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
-- 4) Vyhláška Ministerstva vnútra Slovenskej republiky č. 75/1995 Z. z. o zabezpečovaní evakuácie.
+- 4) Vyhláška Ministerstva vnútra Slovenskej republiky č. 75/1995 Z. z. o zabezpečovaní evakuácie v znení neskorších predpisov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
-- 6) Zákon Slovenskej národnej rady č. 11/1992 Zb. o organizácii veterinárnej starostlivosti Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+- 6) Zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 70/2000 Z. z.
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
@@ -16,7 +16,7 @@
 
 - 9) Napríklad § 24 a 25 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
-- 9a) § 14 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov (úplné znenie č. 109/1998 Z. z.).
+- 9a) § 139a ods. 8 písm. a) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 10) § 14 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
@@ -32,9 +32,9 @@
 
 - 16) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
-- 17) Napríklad zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 19/1996 Z. z., ktorou sa ustanovuje kategorizácia odpadov a vydáva Katalóg odpadov.
+- 17) Napríklad § 40 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
-- 18) § 8 až 10 nariadenia vlády Slovenskej republiky č. 606/1992 Zb. o nakladaní s odpadmi.
+- 18) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 283/2001 Z. z. o vykonaní niektorých ustanovení zákona o odpadoch.
 
 - 19) § 3 ods. 11 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
@@ -46,13 +46,11 @@
 
 - 23) § 16 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
-- 24) Vyhláška ministra zahraničných vecí č. 64/1987 Zb.
+- 24) Napríklad vyhláška ministra zahraničných vecí č.64/1987 Zb., § 11 ods. 4 zákona č. 130/1998 Z. z., zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
-- Zákon č. 494/1991 Zb. v znení neskorších predpisov.§ 11 ods. 4 zákona č. 130/1998 Z. z.Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
+- 25) § 6 ods. 2 a § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
-- 25) § 6 ods. 2 a § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
-
-- 26) Zákon č. 238/1991 Zb.
+- 26) Zákon č. 223/2001 Z. z.
 
 - 27) Týmto dňom strácajú platnosť tieto predpisy:
 
@@ -68,4 +66,4 @@
 
 - 2) § 19 písm. r) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
-- 3) § 23 zákona č. 87/1987 Zb. o veterinárnej starostlivosti v znení neskorších predpisov.
+- 3) § 7 ods. 2, § 54 ods. 2 písm. a) zákona č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov.
