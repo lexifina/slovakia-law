@@ -44,7 +44,17 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 0102 | Baník pre rudné bane | Ch | Dobývanie a ťažba rúd a úžitkových nerastov. Razenie a vystrojovanie banských diel. Obsluha a bežná údržba banských strojov, dopravných zariadení a výstroja. | 3 | 1
 
+- 0103 | Rubač-razič | Ch | Dobývanie uhlia v poruboch, razenie prekopov, smerových a úpadových chodieb, zakladanie horniny do vyrúbaných priestorov | 3 | -
+
 - 0104 | Koksár | Ch | Úprava uhlia pre koksovanie, príprava vsádzok, výroba koksu a chemických produktov pri koksovaní. Obsluha koksárenských batérií a iného zariadenia koksovne. | 3 | -
+
+- 0105 | Strojník dobývacích a raziacich strojov | Ch | Obsluha dobývacích a raziacich strojov pri dobývaní uhlia a razení banských diel a ich bežná údržba | 3 | 1,5
+
+- 0106 | Strojník dopravných zariadení | Ch | Obsluha banských dopravných zariadení, ich montáž a demontáž a bežná údržba, zavádzanie signálnych zariadení | 3 | 1,5
+
+- 0107 | Banský zámočník | Ch | Montáž, údržba a opravy banských strojov a zariadení | 3 | 1,5
+
+- 0108 | Banský elektromontér | Ch | Montáž, inštalácia, pripájanie, údržba a opravy elektrických strojov, stavba banského rozvodu elektrickej energie | 3 | 1,5
 
 - 02 - Hutníctvo | | | | |
 
@@ -63,6 +73,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 - 0231 | Ťahač drôtov Ťahačka drôtov | Ch D | Ťahanie oceľových drôtov všetkých rozmerov na jednoduchých i viacnásobných strojoch. Nastavovanie a údržba ťahacích strojov, nástrojov a pomocných zariadení. | 2 | -
 
 - 0232 | Pletiar lán | Ch | Odborné práce pri výrobe a opravách oceľových lán všetkých druhov. Obsluha a bežná údržba strojového zariadenia. | 2 | -
+
+- 0233 | Režazár Reťazárka | Ch D | Výroba zváraných reťazí, príslušenstvo, obsluha, údržba a nastavovanie strojového reťazárskeho zariadenia | 2 | -
 
 - 0241 | Skúšač kovov Skúšačka kovov | Ch D | Odborné práce v technickom fyzikálnom laboratóriu pri mechanických skúškach materiálov. | - | 1,5
 
@@ -256,6 +268,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 0628 | Kominár | Ch | Čistenie komínov, dymovodov, vykurovadiel, kotlov, pecí a varných panví. Kolaudácia komínov a zisťovanie stavebno-požiarnych závad. | 3 | 1
 
+- 0631 | Merač Meračka | Ch D | Obsluha, udržiavanie a nastavovanie geodetických strojov. Meranie a vytyčovaniev teréne. Stavba meračských signálov a osadzovanie meračských znakov. Jednoduché prekresľovanie a opisovanie meračských podkladov | 3 | 1
+
 - 07 - Stavebné hmoty, keramika a sklárstvo | | | | |
 
 - 0701 | Cementár | Ch | Výroba cementu. Úprava surovín, obsluha cementárskych pecí, bežná údržba výrobného zariadenia. Vykonávanie prevádzkovo-kontrolných skúšok. | 3 | 1
@@ -293,6 +307,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 - 0757 | Strojník sklárskych automatov | Ch | Nastavovanie, obsluha a bežná údržba strojov na výrobu fliaš a obalového skla. | 3 | 1,5
 
 - 0758 | Strojník plochého skla | Ch | Nastavovanie, obsluha a bežná údržba strojového zariadenia na výrobu, zušľachťovanie a rezanie plochého skla. | 3 | 1,5
+
+- 0759 | Sklár-vláknar Sklárka-vláknarka | Ch D | Výroba a spracovanie rôznych druhov skleneného vlákna | 2 | -
 
 - 0769 | Tokár tvárnic | Ch | Zhotovovanie tvárnic a tvarovacích pomôcok pre výrobu dutého skla z dreva a plastických látok. | 2 | 1
 
@@ -390,10 +406,6 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 0931 | Knihár Knihárka | Ch D | Vykonáva všetky druhy ručnej a strojovej väzby tlačovín, ostatné druhy knihárskych prác, spracúva knihárske materiály, nastavuje a obsluhuje knihárske nástroje, prístroje a stroje. | 3 | 2
 
-- 0932 | Kartonážnik Kartonážnička | Ch D | Spracúva materiály na výrobu kartonáží. Vykonáva základné a odborné práce všetkých druhov kartonáží a zušľachtených obalov. | 3 | 1,5
-
-- 0933 | Puzdrár Puzdrárka | Ch D | Spracúva materiály používané pri výrobe puzdier. Vykonáva základné a odborné práce v odbore výroby kaziet a puzdier. Nastavuje a obsluhuje výrobné prístroje, stroje a mechanizmy. | 2 | 1
-
 - 0951 | Fotograf Fotografka | Ch D | Spracúva materiály používané v čierno-bielej a farebnej fotografii. Vykonáva základné a odborné práce interiérovej, exteriérovej a laboratórnej praxe, včítane spracovania úzkych filmov. Nastavuje a obsluhuje fotografické a filmovacie prístroje, osvetľovacie zdroje a zväčšovacie prístroje. | 3 | 2
 
 - 0952 | Filmový laborant Filmová laborantka | Ch D | Spracúva materiály používané vo filmovej výrobe a v laboratóriách. Vykonáva základné a odborné laboratórne práce. Nastavuje a obsluhuje laboratórne prístroje, kúpele a regulačné aparatúry. | 3 | 1,5
@@ -460,6 +472,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 1091 | Výrobkyňa umelých kvetín | D | Zhotovovanie umelých kvetín a dekorácií z textilu, papiera, kože, vosku a ďalších materiálov. Zhotovovanie atráp, obsluha a údržba strojov na výrobu atráp. | 2 | 1
 
+- 1092 | Výrobkyňa textilných hračiek | D | Výroba všetkých druhov textilných hračiek s použitím plastických látok | 2 | 1
+
 - 11- Spracovanie kože a výroba obuvi | | | | |
 
 - 1101 | Garbiar | Ch | Spracovanie koží a kožiek všetkých druhov na usne. Druhy a vlastnosti spracúvanej suroviny, obsluha a jednoduchá údržba používaných strojov a zariadení. | 3 | 1,5
@@ -522,8 +536,6 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 13 - Poľnohospodárstvo a lesné hospodárstvo | | | | |
 
-- 1301 | Pestovateľ-chovateľ Pestovateľka-chovateľka | Ch D | Práce spojené s pestovaním, ošetrovaním, zberom a skladovaním poľnohospodárskych plodín. Ošetrovanie hovädzieho dobytka, prasiat a oviec, kŕmenie, odstav, výber a pasenie. Práce so závesným náradím, so záprahmi, stajňovou mechanizáciou a inými jednoduchými strojmi a ich obsluha a bežná údržba. | 2 | 1
-
 - 1302 | Chovateľ hydiny*) Chovateľka hydiny*) | Ch D | Práce spojené s chovom hydiny, ošetrovanie, výkrm, liahnutie, odchov, kontrola nosnosti. Triedenie, balenie a rozosielanie vajec a kurčiat. Brakovanie, zabíjanie hydiny a úprava na trh. | 1 | -
 
 - 1303 | Chovateľ koní | Ch | Práce spojené s chovom koní. Ošetrovanie a kŕmenie. Ošetrovanie kopýt. Pripúšťanie, ošetrovanie žrebných kobýl, pôrod, odchov žriebät. Zaučovanie koní v záprahu a pod sedlom, ošetrovanie postrojov a výstroja. | 2 | 1
@@ -541,8 +553,6 @@ Príloha vyhlášky č. 73/1961 Zb.
 - 1321 | Opravár poľnohospodárskych strojov Opravárka poľnohospodárskych strojov | Ch D | Opravy a údržba všetkých poľnohospodárskych strojov, traktorov a mechanizačných zariadení poľnohospodárskej výroby. Údržbaelektrospotrebičov a vodoinštalácia. | 3 | 1,5
 
 - 1322 | Kováč a podkúvač | Ch | Kováčske práce pri výrobe a opravách poľnohospodárskych strojov, náradia a zariadení. Ošetrovanie kopýt a paznechtov, podkúvanie záprahových zvierat. | 3 | 1,5
-
-- 1323 | Poľnohospodársky mechanizátor*) Poľnohospodárska mechanizátorka*) | Ch D | Obrábanie pôdy, ošetrovanie a zber plodín všetkých druhov traktormi so závesným náradím a vykonávanie ich údržby. | 1 | -
 
 - 1324 | Pestovateľ mechanizátor*) Pestovateľka mechanizátorka*) | Ch D | Zoradenie, obsluha pri práci a údržba ťažkých a zložitých mechanizačných prostriedkov v rastlinnej výrobe, najmä kombajnu. | 1 | -
 
@@ -578,7 +588,7 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 1513 | Predavač drogistického tovaru Predavačka drogistického tovaru | Ch D | Predaj drogistického tovaru, fotografických prístrojov a materiálov, ich odborné uskladňovanie a ošetrovanie. Základy aranžovania. Administratívne práce v predajni. | 3 | 1
 
-- 1515 | Predavač kníh Predavačka kníh | Ch D | Predaj kníh, hudobnín a gramofónových platní. Ich odborné uskladňovanie. Administratívne práce v predajni. | - | 1
+- 1515 | Predavač kníh Predavačka kníh | Ch D | Predaj kníh, hudobnín a gramofónových platní. Ich odborné uskladňovanie. Administratívne práce v predajni. | 3 | 1
 
 - 1541 | Aranžér Aranžérka | Ch D | Úprava tovaru a aranžovanie výkladných skríň, dekorovanie a výzdoba predajní. Kreslenie a písanie písma, technické spracovanie rôzneho materiálu pri aranžovaní. | 3 | 1,5
 
