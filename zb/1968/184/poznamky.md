@@ -5,3 +5,5 @@
 - ***) Vyhláška č. 96/1967 Zb. o náhradách cestovných, sťahovacích a iných výdavkov.
 
 - ****) Vyhláška č. 24/1967 Zb., ktorou sa vykonáva zákon o dani zo mzdy.
+
+- 7) § 16 vyhlášky č. 161/1976 Zb.
