@@ -1,0 +1,1 @@
+- 1) § 13 odst. 9 zákona ČNR č. 368/1990 Sb., o volbách do zastupitelstev v obcích.
