@@ -1,0 +1,1 @@
+- 1) Opatření bylo registrováno v částce 36/1969 Sb.
