@@ -1,1 +1,0 @@
-- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 97/1997 Z. z. o úprave výšky sadzieb základných náhrad za používanie cestných motorových vozidiel pri pracovných cestách.
