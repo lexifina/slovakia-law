@@ -1,10 +1,8 @@
-- 1) § 3 ods. 2 a § 14 ods. 2 písm. b) zákona Českej národnej rady č. 77/1978 Zb. o štátnej správe v školstve v znení zákona Českej národnej rady č. 31/1984 Zb., ktorým sa mení a dopĺňa zákon Českej národnej rady o štátnej správe v školstve a zákon Českej národnej rady o školských zariadeniach.
+- 1) § 347 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
 
-- § 3 ods. 2 a § 14 ods. 2 písm. b) zákona Slovenskej národnej rady č. 78/1978 Zb. o štátnej správe v školstve v znení zákona Slovenskej národnej rady č. 32/1984 Zb., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady o štátnej správe v školstve a zákon Slovenskej národnej rady o školských zariadeniach.
+- 2) § 348 Hospodárskeho zákonníka.
 
-- 2) § 46 a 90 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov (úplné znenie č. 45/1983 Zb.).Nariadenie vlády ČSSR č. 91/1974 Zb. o organizácii výrobných hospodárskych jednotiek a o ich štatútoch.§ 22 ods. 2 zákona č. 69/1967 Zb. o národných výboroch v znení neskorších predpisov (úplné znenie č. 31/1983 Zb. a č. 35/1983 Zb.).§ 10 zákona č. 122/1975 Zb. o poľnohospodárskom družstevníctve. Nariadenie vlády ČSSR č. 137/1975 Zb., ktorým sa vydávajú Vzorové stanovy jednotných roľníckych družstiev a upravuje postup pri vypracovaní a schvaľovaní stanov družstva, ich zmien a doplnkov.
-
-- 3) Zákon ČNR č. 77/1978 Zb. v znení zákona ČNR č. 49/1982 Zb., ktorým sa mení a dopĺňa zákon o národných výboroch a upravuje pôsobnosť miestnych národných výborov v strediskových obciach, a zákona ČNR č. 31/1984 Zb.Zákon SNR č. 79/1978 Zb. v znení zákona SNR č. 52/1982 Zb., ktorým sa mení a dopĺňa zákon o národných výboroch a upravuje pôsobnosť miestnych národných výborov v strediskových obciach, a zákona č. 32/1984 Zb.
+- 3) Zákon č. 116/1990 Zb. o nájme a podnájme nebytových priestorov v znení zákona č. 403/1990 Zb.
 
 - 4) § 26, 26a a 26b zákona ČNR č. 77/1978 Zb. v znení zákona ČNR č. 31/1984 Zb.§ 26, 26a a 26b zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
