@@ -7,3 +7,5 @@
 - 1) § 244 a nasl. Občianskeho súdneho poriadku.
 
 - 1) § 8 a 10b vyhlášky predsedu vlády č. 91/1958 Zb., ktorou sa uverejňuje opatrenie Ústrednej rady odborov o organizácii a vykonávaní nemocenského poistenia zamestnancov, v znení vyhlášky č. 178/1968 Zb.
+
+- 1) § 7 ods. 1 zákona č. 1/1991 Zb. o zamestnanosti.
