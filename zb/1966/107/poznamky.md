@@ -34,17 +34,17 @@
 
 - ***) Rozsah a spôsob ustanovenia doplnkových rozpočtových nákladov vymedzujú cenníky stavebných prác a montáží, vydanie 1967, a pravidlá pre ich používanie.
 
-- *) Podmienky pre ich priznávanie upravuje vyhláška č. 87/1966 Zb. o niektorých ekonomických opatreniach v investičnej výstavbe.
+- *) Podmienky pre ich používanie upravujú § 2, 3 a 4 vyhl.č. 87/1966 Zb. o niektorých ekonomických opatreniach v investičnej výstavbe; § 2 a 3 cit. vyhlášky sú t. . sistované nariadením vlády č. 168/1969 Zb. o prechodnom zákaze zvyšovania cien.
 
-- *) Podmienky pre ich priznávanie upravuje vláda.
+- **) § 3 ods. 1 vyhl. č. 162/1970 Zb. o niektorých opatreniach v bytovej výstavbe.
 
-- **) Rozpočtovanie zariadení staveniska pre banské stavby v podzemí a pri lomovom dobývaní upravujú predpisy Ministerstva baníctva.
-
-- ***) Zásady pre určovanie rozpočtových nákladov zariadenia staveniska a výšku prirážok pre globálnu metódu ustanovia so súhlasom Štátnej komisie pre techniku ministerstvá stavebníctva a ťažkého priemyslu osobitným opatrením.
+- ***) Smernice čl. 6.11 a 7.5.
 
 - †) Podrobnejšie podmienky pre rozpočtovanie zvýšených rozpočtových nákladov a percentné sadzby ustanovia so súhlasom Štátnej komisie pre techniku ústredné orgány s pôsobnosťou v oblasti veľkoobchodných cien stavebných prác a montáží.
 
-- *) Vyhláška Ministerstva financií a Štátnej banky československej č. 102/1966 Zb. o financovaní reprodukcie základných prostriedkov.
+- ††) Vyhláška Federálneho ministerstva financií a Štátnej banky československej č. 140/1971 Zb. o financovaní reprodukcie základných prostriedkov.
+
+- †††) § 4 vyhlášky č. 87/1966 Zb. o niektorých ekonomických opatreniach v investičnej výstavbe.
 
 - *) Ide najmä o
 
