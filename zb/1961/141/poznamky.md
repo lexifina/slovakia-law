@@ -14,11 +14,13 @@
 
 - 8) § 36 zákona č. 61/1952 Zb. o námornej plavbe.
 
+- 8a) § 21 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 353/1997 Z. z.
+
 - 9) § 1 ods. 1, § 2 a § 3 ods. 1 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
 - 10) § 35 a § 39 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
 
-- 11) § 40 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
+- 11) § 40 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 11a) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
 

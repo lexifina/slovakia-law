@@ -8,8 +8,12 @@
 
 - c) vráti vec prokurátorovi na došetrenie, ak v prípravnom konaní neboli objasnené základné skutočnosti dôležité pre rozhodnutie o vine,
 
+- d) trestné stíhanie podmienečne zastaví podľa § 307.
+
 (2) Ustanovenia § 189 až 191 sa použijú aj na konanie pred samosudcom.
 
 (3) Ak je obvinený vo väzbe, rozhodne samosudca po preskúmaní obžaloby vždy tiež o ďalšom trvaní väzby, pokiaľ nenariadi hlavné pojednávanie.
 
-(4) Proti rozhodnutiu podľa odseku 1 môže prokurátor podať sťažnosť, ktorá má, ak nejde o prerušenie trestného stíhania, odkladný účinok.
+(4) Proti rozhodnutiu podľa odseku 1 písm. a) až c) môže prokurátor podať sťažnosť, ktorá má, ak nejde o prerušenie trestného stíhania, odkladný účinok.
+
+(5) Proti rozhodnutiu podľa odseku 1 písm. d) môže prokurátor, obvinený a poškodený podať sťažnosť, ktorá má odkladný účinok.
