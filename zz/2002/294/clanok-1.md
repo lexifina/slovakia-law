@@ -50,6 +50,10 @@ Nariadenie vlády Slovenskej republiky č. 179/2001 Z. z., ktorým sa ustanovuj�
 
 - Je zakázané pripájať k výbušninám značku alebo nápis, ktoré môžu uviesť iného do omylu významom a formou označenia CE. Iná značka, okrem značky uvedenej v § 7 ods. 3, môže byť pripojená na výbušninách za predpokladu, že viditeľnosť a čitateľnosť označenia CE sa tým nezníži.“.
 
+- 13. V § 8 ods. 4 posledná veta znie: „Kópiu tohto dokladu uchováva príjemca desať rokov od uvedenia výrobku na trh; na požiadanie ju predloží príslušnému orgánu miesta určenia.".
+
+- 14. V § 9 ods. 3 sa na konci pripája táto veta: „Sprievodná dokumentácia sa uchováva desať rokov od uvedenia výrobku na trh.".
+
 - 15. Za prílohu č. 4 sa vkladá príloha č. 5, ktorá vrátane nadpisu znie:
 
 - „Príloha č. 5 k nariadeniu vlády č. 179/2001 Z. z.
