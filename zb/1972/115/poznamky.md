@@ -1,1 +1,0 @@
-- *) Vydanie smerníc Ústrednej komisie ľudovej kontroly a štatistiky pre jednotnú nomenklatúru krajín bolo oznámené v Zbierke zákonov v čiastke 8/1966.
