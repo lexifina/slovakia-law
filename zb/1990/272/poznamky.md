@@ -2,6 +2,10 @@
 
 - 2) § 73 ods. 6 písm. f) a i) zákona č. 100/1988 Zb. o sociálnom zabezpečení.§ 58 vyhlášky MZSV SSR č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon SNR o pôsobnosti orgánov SSR v sociálnom zabezpečení v znení vyhlášky č. 145/1990 Zb.
 
+- 2a) § 13 ods. 3 vyhlášky MZSV SSR č. 151/1988 Zb.§ 65 ods. 1 a 2 vyhlášky MZSV SSR č. 151/1988 Zb.
+
+- 2b) § 8 ods. 1 zákona č. 73/1990 Zb. o civilnej službe.
+
 - 3) § 54 ods. 8 zákona o sociálnom zabezpečení.
 
 - 4) § 80 ods. 1 vyhlášky MZSV SSR č. 151/1988 Zb.
