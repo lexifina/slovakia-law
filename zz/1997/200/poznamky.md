@@ -1,8 +1,8 @@
 - 1) § 2 ods. 1 a § 6 ods. 1 písm. a) zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
-- 2) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
+- 2) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 3) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
+- 3) Zákon č. 431/2002 Z. z. o účtovníctve.
 
 - 4) § 28 ods. 3 písm. b) zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
@@ -24,9 +24,9 @@
 
 - 8d) Napríklad zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
-- 9) § 18a a písmeno b) zákona č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+- 9) § 52 a 109 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2003 Z. z.
 
-- 9a) § 18a písmeno b) zákona č. 172/1990 Zb.
+- 9a) § 53 a 109 zákona č. 131/2002 Z. z. v znení zákona č. 528/2003 Z. z.
 
 - 10) § 157 Zákonníka práce.
 
