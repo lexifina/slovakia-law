@@ -89,3 +89,5 @@
 - 23) Zákon č. 256/l992 Zb. o ochrane osobných údajov v informačných systémoch.
 
 - 24) Zákon Slovenskej národnej rady č. 322/l992 Zb. o štátnej štatistike v znení neskorších predpisov.
+
+- 25) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
