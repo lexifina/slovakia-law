@@ -1,6 +1,6 @@
 ## ČASŤ IX
 
-## Záverečné ustanovenia
+## Prechodné a záverečné ustanovenia
 
 # § 26a
 
