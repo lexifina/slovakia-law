@@ -38,4 +38,4 @@
 
 - Zákon č. 95/1963 Zb. o štátnom notárstve a o konaní pred štátnym notárstvom v znení neskorších predpisov.
 
-- 13) Zákon Slovenskej národnej rady č. 115/1970 Zb. o finančných správach v znení neskorších predpisov.
+- 13) Zákon SNR č. 84/1991 Zb. o daňových orgánoch.
