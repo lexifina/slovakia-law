@@ -1,3 +1,0 @@
-# § 38f Zoznam preberaných právne záväzných aktov Európskej únie
-
-Týmto zákonom sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.
