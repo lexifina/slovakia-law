@@ -918,6 +918,12 @@ Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v z
 
 - § 2 písm. f) zákona č. 264/1999 Z. z.“.
 
+- 42. § 30 sa dopĺňa odsekom 3, ktorý znie:
+
+- „(3)
+
+- Požiadavky výrobcov na získanie osvedčenia špecifického charakteru poľnohospodárskych výrobkov a potravín vrátane postupu ich udeľovania, registrácie a kontroly ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
 - 43. § 31 znie:
 
 - „§ 31
