@@ -1,0 +1,1 @@
+- 1) Vyhláška ministra financií č. 45/1953 Sb. o vydaní peňazí vzoru 1953.
