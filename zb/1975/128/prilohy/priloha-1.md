@@ -1,4 +1,4 @@
-Príloha vyhlášky č. 128/1975 Zb.
+Príloha č. 1 vyhlášky č. 128/1975 Zb.
 
 - Zoznam chorôb z povolania Číslo Choroba z povolania | vzniknutá v organizáciách
 
