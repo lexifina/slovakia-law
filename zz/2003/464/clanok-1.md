@@ -12,6 +12,38 @@ Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z., zá
 
 - 3. V § 5 ods. 1 sa za slovom „predpisov“ vypúšťa čiarka a slová „ktoré sa vzťahujú na tovar podliehajúci colnému dohľadu“.
 
+- 4. Za § 9 sa vkladá § 9a, ktorý vrátane nadpisu znie:
+
+- „§ 9a
+
+- Ohlasovacia povinnosť
+
+- (1)
+
+- Osoba, ktorá dováža alebo vyváža bankovky a mince v slovenskej mene alebo v cudzej mene, cestovné šeky alebo iné peňažné poukážky vymeniteľné za bankovky a mince v celkovej hodnote zodpovedajúcej hodnote najmenej 15000 EUR, je povinná písomne ohlásiť túto skutočnosť colnému úradu, a to na tlačive, ktorého vzor je uvedený v prílohe č. 1.
+
+- (2)
+
+- Ohlasovaciu povinnosť podľa odseku 1 je povinná splniť aj osoba, ktorá odosiela do zahraničia alebo prijíma zo zahraničia poštovú alebo inú zásielku obsahujúcu bankovky a mince v slovenskej mene alebo v cudzej mene v celkovej hodnote zodpovedajúcej hodnote najmenej 1 000 EUR.
+
+- (3)
+
+- Hodnota bankoviek a mincí v cudzej mene a v slovenskej mene sa na účely podľa odsekov 1 a 2 určuje kurzom príslušnej meny vyhláseným Národnou bankou Slovenska v deň dovozu a vývozu bankoviek a mincí alebo v deň podania poštovej alebo inej zásielky.
+
+- (4)
+
+- Colný úrad zasiela vyplnené tlačivá podľa odseku 1 a oznámenia o porušení colných predpisov podľa § 439 písm. s) službe finančnej polície Policajného zboru<sup>9a</sup>) do piateho dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom k týmto skutočnostiam došlo.
+
+- (5)
+
+- Colný úrad vykonáva kontrolu plnenia ohlasovacej povinnosti podľa odsekov 1 a 2. Pri kontrole je oprávnený vyžadovať potrebnú súčinnosť kontrolovaných osôb. Kontrolu vykonáva v súlade s oprávneniami a s použitím prostriedkov podľa osobitného predpisu.<sup>4</sup>)“.
+
+- Poznámka pod čiarou k odkazu 9a znie:
+
+- „9a)
+
+- § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.“.
+
 - 5. V § 10 ods. 4 písm. a) sa za slovami „identifikačné číslo“ vypúšťa čiarka a slová „daňové identifikačné číslo“.
 
 - 6. V § 10 ods. 4 písmeno c) znie:
@@ -316,7 +348,79 @@ Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z., zá
 
 - ak bol tovar, pri ktorom vznikol colný dlh podľa § 397 ods. 4 a 5, zaistený pri nezákonnom dovoze a následne prepadne v prospech štátu alebo je zhabaný,“.
 
+- 73. V § 427 sa odsek 1 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- započítaním pohľadávok podľa § 428a.“.
+
 - 74. V § 427 ods. 2 sa slová „colný dlh nezanikne“ nahrádzajú slovami „sa colný dlh nepovažuje za zaniknutý“ a slová „podľa tohto zákona alebo“ sa vypúšťajú.
+
+- 75. Za § 428 sa vkladá § 428a, ktorý vrátane nadpisu znie:
+
+- „§ 428a
+
+- Započítanie pohľadávok
+
+- (1)
+
+- Ak má colný úrad colnú pohľadávku voči dlžníkovi a dlžník má zároveň pohľadávku voči štátnej rozpočtovej organizácii, možno tieto pohľadávky vzájomne započítať. Započítaním takéto pohľadávky zaniknú vo výške, v ktorej sa kryjú, a to dňom doručenia potvrdenia colného riaditeľstva o započítaní dlžníkovi.
+
+- (2)
+
+- Započítať možno len splatné nepremlčané pohľadávky nad 10000 Sk.
+
+- (3)
+
+- Úkonom dlžníka smerujúcim k započítaniu pohľadávok je žiadosť o započítanie (ďalej len „žiadosť“). Žiadosť podáva dlžník na príslušnom colnom úrade a musí obsahovať
+
+- a)
+
+- obchodné meno, sídlo, identifikačné číslo dlžníka, ak ide o právnickú osobu, alebo meno, priezvisko, rodné číslo a adresu trvalého pobytu, ak ide o fyzickú osobu,
+
+- b)
+
+- identifikáciu pohľadávky dlžníka voči štátnej rozpočtovej organizácii, ktorú možno započítať, s uvedením jej výšky, právneho dôvodu vzniku a s uvedením príslušného správcu tohto záväzku,
+
+- c)
+
+- identifikáciu colnej pohľadávky s uvedením colného úradu, ktorý vykonal zápis do účtovnej evidencie, a číslo rozhodnutia, ktorým bol colný dlh vymeraný,
+
+- d)
+
+- vyhlásenie dlžníka, že žiada o započítanie pohľadávok uvedených v písmenách b) a c),
+
+- e)
+
+- dátum a podpis dlžníka.
+
+- (4)
+
+- Colný úrad úplnú žiadosť postúpi spolu s potvrdením výšky colnej pohľadávky podľa odseku 3 písm. c) colnému riaditeľstvu.
+
+- (5)
+
+- Úkonom smerujúcim k započítaniu je aj žiadosť colného riaditeľstva o poskytnutie údajov colnými úradmi o existencii a výške colných pohľadávok voči dlžníkovi. Colné úrady sú povinné poskytnúť požadované údaje bez zbytočného odkladu.
+
+- (6)
+
+- Po overení správnosti údajov uvedených v žiadosti a po potvrdení príslušného správcu záväzku, že záväzok zodpovedajúci pohľadávke dlžníka uznáva, colné riaditeľstvo vydá potvrdenie o započítaní, ktoré doručí dlžníkovi, štátnej rozpočtovej organizácii a príslušnému colnému úradu; dlžníkovi a štátnej rozpočtovej organizácii sa doručuje do vlastných rúk. Ak colné riaditeľstvo pohľadávku dlžníka nezapočíta, oznámi túto skutočnosť dlžníkovi a colnému úradu.
+
+- (7)
+
+- Odo dňa doručenia žiadosti podľa odseku 3 do dňa doručenia potvrdenia o započítaní alebo oznámenia o nezapočítaní podľa odseku 6 colnému úradu nemožno použiť postup podľa § 413 písm. d).
+
+- (8)
+
+- Na započítavanie podľa tohto zákona sa nevzťahujú ustanovenia všeobecných predpisov.<sup>60a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 60a znie:
+
+- „60a)
+
+- § 358 až 364 Obchodného zákonníka.
+
+- § 580 a 581 Občianskeho zákonníka.“.
 
 - 76. V § 429 sa na konci pripája táto veta: „Na colné záložné právo sa použijú ustanovenia o daňovom záložnom práve <sup>60b</sup>) rovnako. “.
 
@@ -403,6 +507,66 @@ Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z., zá
 - „71)
 
 - Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.“.
+
+- 93. Za § 455 sa vkladá § 455a, ktorý znie:
+
+- „§ 455a
+
+- (1)
+
+- Ak je žiadateľom podľa § 10 ods. 4 a 6 fyzická osoba, je povinná na účely vydania záväznej informácie uviesť colnému riaditeľstvu svoje rodné číslo.
+
+- (2)
+
+- Ak je deklarantom fyzická osoba, je na účely colného konania povinná podľa § 77 ods. 1 uviesť colnému úradu svoje rodné číslo.
+
+- (3)
+
+- Ak je žiadateľom o započítanie pohľadávok podľa § 428a fyzická osoba, je na účely započítania pohľadávok povinná uviesť colným orgánom svoje rodné číslo.“.
+
+- 94. Za § 459 sa vkladá § 459a, ktorý vrátane nadpisu znie:
+
+- „§ 459a
+
+- Postúpenie pohľadávky
+
+- (1)
+
+- Colný úrad môže postúpiť tretej osobe pohľadávku, ktorá vznikla pred 31. decembrom 2002 voči dlžníkovi, ktorý je v konkurze. Treťou osobou môže byť len právnická osoba so 100 % majetkovou účasťou štátu. Táto osoba pohľadávku ďalej nemôže postúpiť.
+
+- (2)
+
+- O postúpení pohľadávky podľa odseku 1 uzatvára colné riaditeľstvo s treťou osobou písomnú zmluvu o postúpení pohľadávky (ďalej len „zmluva“). Súčasťou tejto zmluvy je aj vysporiadanie práv zo zabezpečenia pohľadávky. Pohľadávku možno postúpiť len za odplatu.
+
+- (3)
+
+- Colný úrad bez zbytočného odkladu oznámi postúpenie pohľadávky dlžníkovi a súdu, ktorý vyhlásil konkurzné konanie.<sup>72</sup>) Ak splnenie postúpenej pohľadávky je zabezpečené záložným právom, ručením alebo iným spôsobom, je colný úrad povinný o postúpení pohľadávky podať správu aj osobe, ktorá zabezpečenie záväzku poskytla.
+
+- (4)
+
+- Právo nakladať s postúpenou pohľadávkou prechádza na tretiu osobu dňom platnosti zmluvy. Colný úrad odpíše pohľadávku zo svojej evidencie ku dňu platnosti zmluvy.
+
+- (5)
+
+- Colný úrad je povinný odovzdať tretej osobe všetky doklady a poskytnúť všetky potrebné informácie, ktoré sa týkajú postúpenej pohľadávky.
+
+- (6)
+
+- Odplata za postúpenie pohľadávky podľa odseku 2 je príjmom štátneho rozpočtu.
+
+- (7)
+
+- Na postúpenie pohľadávky podľa tohto zákona sa ustanovenia všeobecného predpisu<sup>73</sup>) nepoužijú.“.
+
+- Poznámky pod čiarou k odkazom 72 a 73 znejú:
+
+- „72)
+
+- § 7 ods. 4 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
+
+- 73)
+
+- § 524 až 530 Občianskeho zákonníka.“.
 
 - 95. Slová „zrejmá nedbanlivosť“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovom „nedbanlivosť“ v príslušnom tvare.
 
