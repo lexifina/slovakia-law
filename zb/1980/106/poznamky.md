@@ -1,0 +1,1 @@
+- 1) Zákon č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch.
