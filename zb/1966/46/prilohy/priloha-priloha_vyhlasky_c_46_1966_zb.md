@@ -166,6 +166,44 @@ Príloha vyhlášky č. 46/1966 Zb.
 
     - + 72. žltá zimnica (Febris flava)
 
+    - 73. lambliáza (Lambliasis, Giardiasis)
+
+    - 74. akútne hnačkové ochorenia neznámeho pôvodu
+
+    - 75. červienka (Erysipeloidum)
+
+    - 76. ruža (Erysipelas)
+
+    - 77. plynová flegmóna (Gangraena emphysematosa)
+
+    - 78. rinoskleróm (Rhinoscleroma)
+
+    - 79. vakcínia (Vaccinia)
+
+    - 80. pásový opar (Herpes zoster)
+
+    - 81. trypanozomiáza (Trypanosomiasis)
+
+    - 82. pásomnica (Taeniasis, Hymenolepidosis)
+
+    - 83. strongyloidóza (Strongyloidosis)
+
+    - 84. trichiuriáza (Trichiuriasis)
+
+    - 85. trichomoniáza (Trichomoniasis urogenitalis)
+
+    - 86. epidemická keratokonjunktivitída (Keratoconiunctivitis epidemica)
+
+    - 87. infekčná konjunktivitída (Coniunctivitis infectiosa)
+
+    - 88. mastitída (Mastitis)
+
+    - 89. encefalitída po očkovaní (Encephalitis post vaccinationem)
+
+    - 90. stafylokokové ochorenia novorodencov
+
+    - 91. hnisavá meningitída (Meningitis purulenta)
+
   - B Ochorenia, pokiaľ sa vyskytujú hromadne
 
     - 1. akútna gastroenteritída
@@ -182,25 +220,15 @@ Príloha vyhlášky č. 46/1966 Zb.
 
     - 7. impetigo
 
-    - 8. epidemická keratokonjunktivitída
-
     - 9. infekčná konjunktivitída
 
-    - 10. mastitída
-
     - 11. ochorenia neznámeho pôvodu
-
-    - 12. hnačkové ochorenia
 
     - 13. enterobióza (Enterobiosis)
 
     - 14. stafylokokové zápalové ochorenie
 
     - 15. stomatitída (Stomatitis aphtosa, infectiosa, ulcerosa)
-
-    - 16. trichiurióza
-
-    - 17. črevné parazitárne ochorenia (Hymenolepis nana, Taeniasis)
 
 - Časť II
 
@@ -252,6 +280,28 @@ Príloha vyhlášky č. 46/1966 Zb.
 
     - 23. rubeola
 
+    - 24. lambliáza (Lambliasis, Giardiasis)
+
+    - 25. akútne hnačkové ochorenia neznámeho pôvodu
+
+    - 26. ruža (Erysipelas)
+
+    - 27. plynová flegmóna (Gangraena emphysematosa)
+
+    - 28. rinoskleróm (Rhinoscleroma)
+
+    - 29. vakcínia (Vaccinia)
+
+    - 30. trypanozomiáza (Trypanosomiasis)
+
+    - 31. pásomnica (Taeniasis, Hymenolepidosis)
+
+    - 32. strongyloidóza (Strongyloidosis)
+
+    - 33. mrle (Enterobiasis, Oxyuriasis)
+
+    - 34. encefalitída po očkovaní (Encephalitis post vaccinationem)
+
   - B Zoznam chorôb, pri ktorých môže ošetrujúci lekár upustiť od izolácie
 
     - 1. aktinomykóza
@@ -281,3 +331,19 @@ Príloha vyhlášky č. 46/1966 Zb.
     - 13. trichofycia
 
     - 14. pľúcna i mimopľúcna tuberkulóza
+
+    - 15. červienka (Erysipeloidum)
+
+    - 16. pásový opar (Herpes zoster)
+
+    - 17. impetigo (Impetigo contagiosa)
+
+    - 18. epidemická keratokonjunktivitída (Keratoconiunctivitis epidemica)
+
+    - 19. infekčná konjunktivitída (Coniunctivitis infectiosa)
+
+    - 20. mastitída (Mastitis)
+
+    - 21. trichiuriáza (Trichiuriasis)
+
+    - 22. trichomoniáza (Trichomoniasis urogenitalis)
