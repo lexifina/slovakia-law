@@ -1,0 +1,9 @@
+- 1) § 181a, 181b, 181c a 181e Trestného zákona č.140/1961 Zb. v znení zákona č. 159/1989 Zb., zákona č. 175/1990 Zb., zákona Národnej rady Slovenskej republiky č. 177/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 248/1994 Z. z.
+
+- 2) Napríklad § 28 až 30 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z., § 28 a 29 zákona č. 172/1990 Zb. o vysokých školách.
+
+- 3) § 2 ods. 2 písm. a) až c) Obchodného zákonníka č. 513/1991 Zb.
+
+- 4) § 11 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
+
+- 5) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch, vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 65/1972 Zb. o ochrane zdravia pred ionizujúcim žiarením, vyhláška Štátnej komisie pre vedecko-technický a investičný rozvoj č. 186/1990 Zb. o oprávnení na projektovú činnosť, vyhláška Ministerstva poľnohospodárstva a výživy Slovenskej republiky č. 155/1992 Zb., ktorou sa určujú podmienky oprávnenia na projektové práce v odbore pozemkových úprav, vyhláška Slovenského geologického úradu č. 415/1992 Zb. o udeľovaní povolení na vykonávanie geologických prác a o spôsobe overovania odbornej spôsobilosti pracovníkov, vyhláška Ministerstva životného prostredia Slovenskej republiky č. 111/1993 Z. z. o vydávaní odborných posudkov vo veciach ochrany ovzdušia alebo odpadov, ustanovovaní osôb oprávnených na vydávanie posudkov a o overovaní odbornej spôsobilosti týchto osôb, vyhláška Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom.
