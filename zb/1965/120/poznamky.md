@@ -1,0 +1,1 @@
+- *) Pre účely týchto smerníc pod pojmom fondu pracujúcich sa rozumie i fond odmien v podnikoch uplatňujúcich systém zainteresovanosti na zisku.
