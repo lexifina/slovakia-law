@@ -4,6 +4,8 @@
 
 - 3) § 6 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
+- 3a) Zákon č. 446/2001 Z. z. o majetku vyšších územných celkov.
+
 - 4) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
 - 5) § 23 zákona č. 61/1977 Zb. o lesoch v znení zákona č. 229/1991 Zb.
@@ -22,6 +24,8 @@
 
 - 6) Zákon SNR č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
 
+- 6a) § 17 vyhlášky Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 46/1985 Zb. o postupe pri úmrtí a o pohrebníctve.
+
 - 7) § 14, 16, 17 a 18 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
 
 - 8) Zákon č. 138/1973 Zb. o vodách (vodný zákon).
@@ -38,15 +42,13 @@
 
 - 11b) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
-- 12) § 15 ods. 6 až 11 (príloha č. 8 a príloha č. 9) vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a enáhradách za doasné užívanie pozemkov.
+- 12) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 86/2002 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 12b) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 12c) § 5 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.§ 5 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
-- 13) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
-
-- 15) § 116 Občianskeho zákonníka.
+- 14) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
 
 - 16) § 24 zákona č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách.
 
@@ -68,11 +70,11 @@
 
 - 20c) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
+- 20e) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+
 - 21) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona Národnej rady Slovenskej republiky č. 165/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z.
 
 - 21a) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
-
-- 22) § 117 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 

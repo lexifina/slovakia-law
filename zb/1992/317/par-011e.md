@@ -20,12 +20,12 @@
 
 4,5 v Bratislave. | |
 
-(3) Na byty, ktoré sa nachádzajú v jednotlivých častiach obce, môže správca dane znížiť koeficient uvedený v odseku 2.
+(3) Správca dane môže v obci alebo v jej jednotlivých častiach znížiť koeficient uvedený v odseku 2.
 
 (4) Daň vypočítaná podľa § 11d a § 11e ods. 1 až 3 sa zvýši najviac o 10 Sk za každý m<sup>2</sup> podlahovej plochy bytu a nebytového priestoru v bytovom dome, spoločných častí bytového domu alebo spoločných zariadení bytového domu, ktoré sa využívajú na podnikateľskú činnosť,<sup>11a</sup>) inú zárobkovú činnosť<sup>11b</sup>) alebo na prenájom.
 
-(5) Sadzbu dane z bytov správca dane môže podľa miestnych podmienok znížiť za byty až o 50 %.
+(5) Sadzbu dane z bytov správca dane môže podľa miestnych podmienok znížiť za byty až o 90 %.
 
 (6) Sadzbu dane z bytov správca dane môže podľa miestnych podmienok zvýšiť až o 50 % za nebytové priestory, ktoré sa využívajú na podnikateľskú činnosť,<sup>11a</sup>) inú zárobkovú činnosť<sup>11b</sup>) alebo na prenájom.
 
-(7) Výšku sadzby dane podľa odseku l alebo odsekov 5 a 6, koeficient podľa odseku 2 alebo odseku 3, zvýšenie dane podľa odseku 4 určí obec každoročne všeobecne záväzným nariadením obce<sup>12b</sup>) s účinnosťou od 1. januára príslušného zdaňovacieho obdobia.
+(7) Výšku sadzby dane podľa odseku l alebo odsekov 5 a 6, koeficient podľa odseku 2 alebo odseku 3, zvýšenie dane podľa odseku 4 určí obec všeobecne záväzným nariadením obce<sup>12b</sup>) s účinnosťou od 1. januára príslušného zdaňovacieho obdobia.
