@@ -1,3 +1,0 @@
-Minister:
-
-Nágr v. r.
