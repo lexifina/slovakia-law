@@ -20,7 +20,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - MINISTERSTVO ZDRAVOTNÍCTVA SLOVENSKEJ REPUBLIKY
 
-- 6. ON (MZ SR) 1-04 Štvrťročný výkaz o vybraných ekonomických ukazovateľoch v príspevkových organizáciách
+  - 6. ON (MZ SR) 1-04 Štvrťročný výkaz o vybraných ekonomických ukazovateľoch v príspevkových a neziskových organizáciách
 
 - 7. M (MZ SR) 2-04 Štvrťročný výkaz o zamestnancoch a o zložení mzdových prostriedkov v zdravotníctve
 
@@ -31,10 +31,6 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 - 10. ZS (MZ SR) 3-12 Hlásenie o ukončenej kúpeľnej liečbe
 
 - 11. ZS (MZ SR) 4-12 Hlásenie liečby užívateľa drog
-
-- NÁRODNÝ ÚRAD PRÁCE
-
-- 12. Prísp (NÚP) 1-12 Mesačný výkaz o odvode príspevku na poistenie v nezamestnanosti a príspevku do garančného fondu
 
 - III. Ekonomické štatistiky
 
@@ -262,13 +258,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
 
-- 6. Názov zisťovania: Štvrťročný výkaz o vybraných ekonomických ukazovateľoch v príspevkových organizáciách
+  - 6. Názov zisťovania: Štvrťročný výkaz o vybraných ekonomických ukazovateľoch v príspevkových a neziskových organizáciách
 
 - Značka štatistického formulára: ON (MZ SR) 1-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o finančnom hospodárení a špecifických údajoch v príspevkových zdravotníckych organizáciách. Výsledky zisťovania sa využijú na analytické účely štatistiky a pre potreby Ministerstva zdravotníctva Slovenskej republiky na určovanie cien zdravotníckych výkonov.
+- Účelom štatistického zisťovania je získať informácie o finančnom hospodárení a špecifických údajoch v príspevkových a neziskových zdravotníckych organizáciách. Výsledky zisťovania sa využijú na analytické účely štatistiky a pre potreby Ministerstva zdravotníctva Slovenskej republiky na určovanie cien zdravotníckych výkonov.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -449,36 +445,6 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky. Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
-
-- 12. Názov zisťovania: Mesačný výkaz o odvode príspevku na poistenie v nezamestnanosti a príspevku do garančného fondu
-
-- Značka štatistického formulára: Prísp ( NÚP) 1-12
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie nevyhnutné na sledovanie odvodu príspevku na poistenie v nezamestnanosti a príspevku do garančného fondu, čo vyplýva z povinnosti Národného úradu práce viesť evidenciu odvádzateľov príspevkov v zmysle § 44 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: ukazovatele, ktorými sa sleduje výška príspevku na poistenie v nezamestnanosti a výška príspevku do garančného fondu.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Všetci zamestnávatelia v súlade s § 57 a 128a zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita zisťovania: mesačne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: podľa termínov splatnosti príspevku na poistenie v nezamestnanosti a príspevku do garančného fondu.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Národný úrad práce.
-
-- Orgán zabezpečujúci jeho spracovanie: Národný úrad práce.
 
 - 13. Názov zisťovania: Štvrťročný výkaz o výrobe a predaji zbrojnej techniky
 
@@ -1308,6 +1274,14 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 7. V (MPSVR SR) 30-01 Karta zariadenia sociálnych služieb
 
+- MINISTERSTVO PRÁCE, SOCIÁLNYCH VECÍ A RODINY SLOVENSKEJ REPUBLIKY
+
+- 7a. V (MPSVR SR) 5-01 Ročný výkaz o poskytovaní starostlivosti a výchovy deťom v detskom domove
+
+- 7b. V (MPSVR SR) 12-01 Ročný výkaz o vykonávaní sociálno-právnej ochrany detí a sociálnej prevencie
+
+- 7c. V (MPSVR SR) 13-01 Ročný výkaz o poskytovaní vybraných foriem sociálnej pomoci
+
 - MINISTERSTVO SPRAVODLIVOSTI SLOVENSKEJ REPUBLIKY
 
 - 8. V (MS SR) 4-02 Polročný výkaz o pohybe agendy na Najvyššom súde Slovenskej republiky
@@ -1492,9 +1466,9 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 94. OL (MZ SR) 1-01 Ročný výkaz o liekoch a zdravotníckych pomôckach
 
-- 95. ON (MZ SR) 1-01 Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení
+- MINISTERSTVO ZDRAVOTNÍCTVA SLOVENSKEJ REPUBLIKY
 
-- 96. ON (MZ SR) 2-01 Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení (ambulancie, lekárne)
+  - 96. ON (MZ SR) 2-01 Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení
 
 - 97. M (MZ SR) 1-01 Ročný výkaz o stave zamestnancov v zdravotníckych službách
 
@@ -1558,9 +1532,11 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 124. J (MV SR) 1-01 Výkaz o priestupkoch prejednaných orgánmi miestnej štátnej správy (rok zisťovania 2003)
 
-- 125. MŠS (MV SR) 5-01 Výkaz o činnosti krajského úradu, okresného úradu v správnom konaní
+- MINISTERSTVO VNÚTRA SLOVENSKEJ REPUBLIKY
 
-- 126. MŠSP (MV SR) 6-01 Výkaz o činnosti krajského úradu, okresného úradu, ktorá nepodlieha režimu správneho konania
+  - 125. ŠS (MV SR) 5-01 Ročný výkaz o činnosti miestnych orgánov štátnej správy a orgánov územnej samosprávy v správnom konaní
+
+  - 126. ŠS (MV SR) 6-01 Ročný výkaz o činnosti miestnych orgánov štátnej správy a orgánov územnej samosprávy, ktorá nepodlieha režimu správneho konania
 
 - 127. PO (MV SR) 1-01 Ročný výkaz o materiálno-technickom vybavení, zásahovej činnosti a finančnom zabezpečení činnosti obecného hasičského zboru
 
@@ -1578,7 +1554,9 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - 131. V (MDPT SR) 1-01 Ročný výkaz o výkonoch a nákladoch na diaľniciach a na cestách
 
-- 132. ZF (MDPT SR) 1-01 Ročný výkaz o vybavení základnými fondmi, spotrebe vybraných látok, príjmoch a o investíciách na diaľniciach a na cestách
+- MINISTERSTVO DOPRAVY, PÔŠT A TELEKOMUNIKÁCIÍ SLOVENSKEJ REPUBLIKY
+
+  - 132. ZF (MDPT SR) 1-01 Ročný výkaz o vybavení základnými fondmi na diaľniciach a na cestách
 
 - 133. CI (MDPT SR) 1-01 Ročný výkaz o cestách a ich objektoch
 
@@ -1647,6 +1625,12 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 - 162. VH (MP SR) 1-01 Ročný výkaz o hlavných melioračných zariadeniach
 
 - 163. Víno (MP SR) 2-99 Ponuková bilancia hroznového vína
+
+- MINISTERSTVO PÔDOHOSPODÁRSTVA SLOVENSKEJ REPUBLIKY
+
+- 163a. Odh (MP SR) 1-99 Odhad úrody ovocia
+
+- 163b. Usk (MP SR) 3-99 Výkaz o uskladnení jabĺk a hrušiek
 
 - V. Viacstranné štatistiky
 
@@ -1909,6 +1893,104 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
+
+- 7a. Názov zisťovania: Ročný výkaz o poskytovaní starostlivosti a výchovy deťom v detskom domove
+
+- Značka štatistického formulára: V (MPSVR SR) 5-01
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o poskytovaní starostlivosti a výchovy deťom v detských domovoch, o počte a štruktúre zamestnancov, vzdelanostnej úrovni zamestnancov a o výdavkoch a príjmoch detských domovov s možnosťou ich využitia na metodickú a legislatívnu činnosť.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa počtu detí v detskom domove, zamestnancov, príjmov a výdavkov detského domova a ich štruktúry podľa rôznych ukazovateľov.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Detské domovy podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- – činnosti sociálnej starostlivosti s ubytovaním (OKEČ 85.31).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: ročne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára nasledujúceho roka.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ústredie práce, sociálnych vecí a rodiny.
+
+- 7b. Názov zisťovania: Ročný výkaz o vykonávaní sociálno-právnej ochrany detí a sociálnej prevencie
+
+- Značka štatistického formulára: V (MPSVR SR) 12-01
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o vykonávaní sociálno-právnej ochrany detí a sociálnej prevencie v pôsobnosti orgánov štátnej správy. Cieľom je monitorovať uplatňovanie a dodržiavanie práv detí a využívať výsledky štatistického zisťovania na koncepčnú, legislatívnu a metodickú činnosť v oblasti ochrany detí a v oblasti prevencie sociálno-patologických javov.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa počtu prípadov jednotlivcov i rodín, ktorým sa poskytla sociálna prevencia (maloletí, plnoletí) a sociálno-právna ochrana detí, ukazovatele týkajúce sa výkonu jednotlivých foriem a činností sociálnej prevencie, úkonov a činností sociálno-právnej ochrany detí v sledovanom roku a ukazovatele týkajúce sa personálneho zabezpečenia výkonu sociálno-právnej ochrany detí a sociálnej prevencie vykonávanej pre maloletých a plnoletých.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Územné úrady práce, sociálnych vecí a rodiny podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- – činnosti sociálnej starostlivosti bez ubytovania (OKEČ 85.32).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: ročne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára nasledujúceho roka.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ústredie práce, sociálnych vecí a rodiny.
+
+- 7c. Názov zisťovania: Ročný výkaz o poskytovaní vybraných foriem sociálnej pomoci
+
+- Značka štatistického formulára: V (MPSVR SR) 13-01
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o poskytovaní starostlivosti v niektorých zariadeniach sociálnych služieb zriadených v samosprávnej pôsobnosti obcí, samosprávnych krajov a zriadených subjektmi poskytujúcimi sociálnu pomoc a informácie o vykonávaní vybraných činností sociálno-právnej ochrany detí a sociálnej prevencie v pôsobnosti samosprávnych krajov a subjektmi poskytujúcimi sociálnu pomoc. Cieľom je monitorovať uplatňovanie a dodržiavanie práv detí a využívať výsledky štatistického zisťovania na koncepčnú, legislatívnu a metodickú činnosť v oblasti ochrany detí a v oblasti prevencie sociálno-patologických javov.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa kapacity, počtu prípadov, ktorým sa poskytuje starostlivosť vo vybraných zariadeniach sociálnych služieb, dôvodov poskytovania starostlivosti, foriem a metód práce, personálneho zabezpečenia a nákladov na poskytovanú starostlivosť v zariadeniach sociálnych služieb, počtu detí, štruktúry a nákladov organizovania výchovno-rekreačných táborov, počtu prípadov a spôsobu realizácie vybraných činností sociálno-právnej ochrany.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Krízové strediská, útulky, resocializačné strediská, obce, ktoré zriadili zariadenia sociálnych služieb ako organizačné jednotky obce, samosprávne kraje, subjekty, ktoré poskytujú sociálnu pomoc podľa zákona o sociálnej pomoci, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- – činnosti sociálnej starostlivosti s ubytovaním (OKEČ 85.31),
+
+- – činnosti sociálnej starostlivosti bez ubytovania (OKEČ 85.32).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: ročne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára nasledujúceho roka.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ústredie práce, sociálnych vecí a rodiny.
 
 - 8. Názov zisťovania: Polročný výkaz o pohybe agendy na Najvyššom súde Slovenskej republiky
 
@@ -4596,39 +4678,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
 
-- 95. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení
-
-- Značka štatistického formulára: ON (MZ SR) 1-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o finančnom hospodárení a o špecifických údajoch v neštátnych zdravotníckych zariadeniach. Výsledky zisťovania sa využijú na analytické účely štatistiky a pre potreby Ministerstva zdravotníctva Slovenskej republiky.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa príjmov a výdavkov, počtu vyšetrení, počtu a využití postelí za jednotlivé nákladové strediská.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Neštátne zdravotnícke zariadenia - právne subjekty (nemocnice, polikliniky, centrá atď.), bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
-
-- - zdravotníctvo (OKEČ 85.1).
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
-
-- 96. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení (ambulancie, lekárne)
+- 96. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení
 
 - Značka štatistického formulára: ON (MZ SR) 2-01
 
@@ -4640,7 +4690,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa výdavkov podľa vybraných druhov, príjmov a doplnkových ukazovateľov za spravodajskú jednotku.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa výdavkov a nákladov, príjmov a výnosov a doplnkových ukazovateľov za neštátne zdravotnícke zariadenia (posteľové aj neposteľové) a vybraných ukazovateľov (za posteľové zdravotnícke zariadenia).
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -5392,17 +5442,17 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Vydavatelia periodickej tlače registrovanej na Ministerstve kultúry Slovenskej republiky, krajských a okresných úradoch podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+- Vydavatelia periodickej tlače registrovanej na Ministerstve kultúry Slovenskej republiky podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
 
-- - vydávanie novín (OKEČ 22.12),
+- – vydávanie novín (OKEČ 22.12),
 
-- - vydávanie časopisov a ostatných periodických publikácií (OKEČ 22.13).
+- – vydávanie časopisov a ostatných periodických publikácií (OKEČ 22.13).
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
 - Periodicita zisťovania: ročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: vydavatelia do 10. januára, krajské a okresné úrady do 31. januára nasledujúceho roka.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. januára nasledujúceho roka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -5606,13 +5656,13 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo vnútra Slovenskej republiky.
 
-- 125. Názov zisťovania: Výkaz o činnosti krajského úradu, okresného úradu v správnom konaní
+- 125. Názov zisťovania: Ročný výkaz o činnosti miestnych orgánov štátnej správy a orgánov územnej samosprávy v správnom konaní
 
-- Značka štatistického formulára: MŠS (MV SR) 5-01
+- Značka štatistického formulára: ŠS (MV SR) 5-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o činnosti krajského úradu a okresného úradu v správnom konaní podľa § 3 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov. Získané informácie umožnia porovnávať a hodnotiť výkon rozhodovacieho procesu a kvalitu výkonu štátnej správy medzi okresmi a krajmi a získať agregované údaje za celú republiku.
+- Účelom štatistického zisťovania je získať informácie o činnosti miestnych orgánov štátnej správy a orgánov územnej samosprávy týkajúcej sa výkonu štátnej správy v správnom konaní. Získané informácie umožnia porovnávať a hodnotiť výkon rozhodovacieho procesu a kvalitu výkonu štátnej správy.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -5622,7 +5672,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Krajské úrady, okresné úrady.
+- Miestne orgány štátnej správy a orgány územnej samosprávy.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5636,23 +5686,23 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo vnútra Slovenskej republiky.
 
-- 126. Názov zisťovania: Výkaz o činnosti krajského úradu, okresného úradu, ktorá nepodlieha režimu správneho konania
+- 126. Názov zisťovania: Ročný výkaz o činnosti miestnych orgánov štátnej správy a orgánov územnej samosprávy, ktorá nepodlieha režimu správneho konania
 
-- Značka štatistického formulára: MŠSP (MV SR) 6-01
+- Značka štatistického formulára: ŠS (MV SR) 6-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o činnosti krajského úradu a okresného úradu v tých činnostiach, ktoré nepodliehajú režimu správneho konania (nerozhodujú podľa zákona o správnom konaní). Ide o veľmi rôznorodé činnosti a na základe ich kvantifikácie bude možné objektívnejšie hodnotiť náročnosť, kvalitu a kvantitu štátnej správy vykonávanej týmito úradmi.
+- Účelom štatistického zisťovania je získať informácie o činnostiach miestnych orgánov štátnej správy a orgánov územnej samosprávy, ktoré sa týkajú výkonu štátnej správy a nepodliehajú režimu správneho konania. Ide o rôznorodé činnosti a na základe ich kvantifikácie bude možné objektívnejšie hodnotiť náročnosť, kvalitu a kvantitu štátnej správy vykonávanej týmito úradmi.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa vydávania všeobecne záväzných vyhlášok a interných predpisov, predkladania návrhov príslušným orgánom, vypracovania koncepcií, kontrolnej činnosti, vedenia rôznych evidencií, vydávania stanovísk, osvedčení, preukazov, uzatvárania zmlúv na úseku matričnom, štátnoobčianskom, verejných zbierok, majetkovoprávnom, škôl a školských zariadení, sociálnej podpory a služieb, pôdohospodárstva a lesného hospodárstva, rybárstva, riadenia rozpočtových a príspevkových organizácií a niektorých ďalších úloh.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa vydávania všeobecne záväzných vyhlášok miestnych orgánov štátnej správy a všeobecne záväzných nariadení obcí a samosprávnych krajov a interných predpisov, predkladania návrhov príslušným orgánom, vypracovania koncepcií, kontrolnej činnosti, vedenia rôznych evidencií, vydávania stanovísk a niektorých ďalších úloh.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Krajské úrady, okresné úrady.
+- Miestne orgány štátnej správy a orgány územnej samosprávy.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5766,7 +5816,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa dane z pozemkov, dane zo stavieb, dane z bytov a dane z nehnuteľností v členení na predpis dane bežného roka, predpis nedoplatkov na dani za minulé roky, zaplatenú daňovú povinnosť bežného roka, zaplatené nedoplatky na dani za minulé roky, úľavy, zaplatené pokuty a penále v sledovanom roku a ukazovatele týkajúce sa výmery pozemkov, zastavaných plôch podliehajúcich dani, počtu daňovníkov a počtu stavieb.
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa dane z pozemkov, dane zo stavieb, dane z bytov v členení na predpis dane bežného roka, predpis nedoplatkov na dani za minulé roky, zaplatenú daňovú povinnosť bežného roka, zaplatené nedoplatky na dani za minulé roky, úľavy, zaplatené pokuty a penále v sledovanom roku. Ďalej sú to ukazovatele týkajúce sa výmery pozemkov, zastavaných plôch podliehajúcich dani, počtu daňovníkov a počtu daňovníkov oslobodených od dane z pozemkov, zo stavieb a z bytov.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -5814,7 +5864,7 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
 
-- 132. Názov zisťovania: Ročný výkaz o vybavení základnými fondmi, spotrebe vybraných látok, príjmoch a o investíciách na diaľniciach a na cestách
+- 132. Názov zisťovania: Ročný výkaz o vybavení základnými fondmi na diaľniciach a na cestách
 
 - Značka štatistického formulára: ZF (MDPT SR) 1-01
 
@@ -6899,6 +6949,74 @@ Príloha č. 2 k vyhláške č. 613/2002 Z. z.
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
+
+- 163a. Názov zisťovania: Odhad úrody ovocia
+
+- Značka štatistického formulára: Odh (MP SR) 1-99
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie potrebné na sledovanie odhadu celkovej úrody jabĺk, hrušiek, broskýň a marhúľ v tonách a produkčnej plochy v hektároch podľa sledovaných ovocných druhov pre potreby Ministerstva pôdohospodárstva Slovenskej republiky, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
+
+- Európsky právny predpis: smernica 2001/109/ES týkajúca sa stanovenia produkčného potenciálu výsadieb určitých druhov ovocných drevín, nariadenie komisie (ES) č. 659/97 stanovujúce podrobné pravidlá na uplatnenie nariadenia rady (ES) č. 2200/96 v súvislosti s intervenčnými dojednaniami v sektore ovocia a zeleniny.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa odhadov úrod jabĺk, hrušiek, broskýň a marhúľ podľa jednotlivých odrôd, produkčnej plochy a celkovej úrody.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Podniky, podnikatelia a súkromné osoby zaoberajúci sa ovocinárskou výrobou a produkujúci ovocie v sadoch s výmerou 0,15 hektára a viac, z ktorých sa očakáva úroda pre trh, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- – pestovanie ovocia a orechov (OKEČ 01.13.1).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: nepravidelne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po skončení sledovaného obdobia.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ústredný kontrolný a skúšobný ústav poľnohospodársky v Bratislave.
+
+- 163b. Názov zisťovania: Výkaz o uskladnení jabĺk a hrušiek
+
+- Značka štatistického formulára: Usk (MP SR) 3-99
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie potrebné na sledovanie množstva uskladnených druhov ovocia pre potreby Ministerstva pôdohospodárstva Slovenskej republiky, ako aj na zabezpečenie požiadaviek Európskeho štatistického systému.
+
+- Európsky právny predpis: smernica 2001/109/ES týkajúca sa stanovenia produkčného potenciálu výsadieb určitých druhov ovocných drevín, nariadenie komisie (ES) č. 659/97 stanovujúce podrobné pravidlá na uplatnenie nariadenia rady (ES) č. 2200/96 v súvislosti s intervenčnými dojednaniami v sektore ovocia a zeleniny.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa zásob uskladnených jabĺk a hrušiek podľa jednotlivých odrôd a v jednotlivých typoch skladov.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Podniky a podnikatelia zaoberajúci sa skladovaním jabĺk a hrušiek pochádzajúcich z domácej produkcie pre trhové potreby, s kapacitou skladu minimálne 1 tona, bez ohľadu na počet zamestnancov, podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ):
+
+- – skladovanie a uskladňovanie (OKEČ 63.12).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: nepravidelne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po skončení sledovaného obdobia.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ústredný kontrolný a skúšobný ústav poľnohospodársky v Bratislave.
 
 - 164. Názov zisťovania: Výkaz o stave a zmenách zásob výhradných ložísk
 

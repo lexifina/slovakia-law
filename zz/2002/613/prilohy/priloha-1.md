@@ -34,7 +34,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - 14. Práca 6-99 Zisťovanie o práci za obce a samosprávne kraje (rok zisťovania 2003 a 2005)
 
-- 15. NÚP 2-04 Štvrťročný výkaz Národného úradu práce
+- 15. ÚPSVR 2-04 Štvrťročný výkaz Ústredia práce, sociálnych vecí a rodiny
 
 - 16. Zdp 2-04 Štvrťročný výkaz zdravotnej poisťovne
 
@@ -78,9 +78,19 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - 35. Ceny Stav 10-04 Štvrťročný návratný výkaz o pohybe cien v stavebníctve podľa Štatistickej klasifikácie produkcie
 
+- 35a. Ceny VTS 1-12 Mesačný výkaz o cenách služieb v oblasti nehnuteľností
+
+- 35b. Ceny VTS 2-12 Mesačný výkaz o cenách služieb za prenájom strojov a prístrojov
+
+- 35c. Ceny VTS 3-12 Mesačný výkaz o cenách služieb v oblasti spracovania dát
+
+- 35d. Ceny VTS 4-12 Mesačný výkaz o cenách služieb určených prevažne pre podniky
+
 - 36. Dop 1-12 Mesačný výkaz v doprave
 
 - 37. Dop 4-04 Štvrťročný výkaz o letiskách
+
+- 37a. Dop 5-04 Štvrťročný výkaz o vnútrozemskej vodnej doprave
 
 - 38. Dop VZCD 1-52 Týždenný výkaz o cestnej nákladnej doprave
 
@@ -100,13 +110,19 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - 46. KPESC 1-12 Karta prvotnej evidencie zisťovania spotrebiteľských cien
 
+- 46a. INTRASTAT 1-12 Hlásenie o prijatí tovaru
+
+- 46b. INTRASTAT 2-12 Hlásenie o odoslaní tovaru
+
+- 46c. INTRASTAT 3-12 Zjednodušené hlásenie o prijatí tovaru
+
+- 46d. INTRASTAT 4-12 Zjednodušené hlásenie o odoslaní tovaru
+
 - IV. Poľnohospodárstvo, lesníctvo a rybárstvo
 
 - 47. Osev 3-99 Výkaz o plochách osiatych poľnohospodárskymi plodinami k 20. máju
 
 - 48. Poľ 6-99 Odhad úrody poľnohospodárskych plodín podľa stavu k 20. júnu
-
-- 49. Poľ 7-99 Odhad úrody poľnohospodárskych plodín podľa stavu k 15. júlu
 
 - 50. Poľ 8-99 Odhad úrody poľnohospodárskych plodín podľa stavu k 15. augustu
 
@@ -506,7 +522,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Príspevkové organizácie, krajské úrady, samosprávne kraje, okresné úrady, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie poskytujúce verejnoprospešné služby, verejnoprávne neziskové inštitúcie, sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia, cirkevné organizácie, stavovské organizácie - profesijné komory, komory, záujmové združenia právnických osôb, organizačné jednotky združení a politických strán, organizácie a združenia s medzinárodným prvkom, bez ohľadu na počet zamestnancov a prevažujúcu činnosť, vedené v registri organizácií Štatistického úradu Slovenskej republiky.
+- Príspevkové organizácie, samosprávne kraje, miestne orgány štátnej správy, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie poskytujúce verejnoprospešné služby, verejnoprávne neziskové inštitúcie, Sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia, cirkvi, náboženské spoločnosti a ich organizácie, občianske združenia, stavovské organizácie – profesné komory, komory, záujmové združenia právnických osôb, organizačné jednotky, jednotky združení a politických strán a politických hnutí, organizácie a združenia s medzinárodným prvkom bez ohľadu na počet zamestnancov a prevažujúcu činnosť, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -550,13 +566,13 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky - krajská správa v Košiciach.
 
-- 15. Názov zisťovania: Štvrťročný výkaz Národného úradu práce
+- 15. Názov zisťovania: Štvrťročný výkaz Ústredia práce, sociálnych vecí a rodiny
 
-- Značka štatistického formulára: NÚP 2-04
+- Značka štatistického formulára: ÚPSVR 2-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať základné informácie o finančnom hospodárení Národného úradu práce, o osobných nákladoch, o príjmoch a platiteľoch, o obstaraných investíciách a úhradách Národného úradu práce. Výsledky zisťovania sa využijú pri príprave štvrťročných národných účtov a na analytické účely v publikáciách Štatistického úradu Slovenskej republiky.
+- Účelom štatistického zisťovania je získať informácie o finančnom hospodárení Ústredia práce, sociálnych vecí a rodiny a jeho orgánov. Výsledky zisťovania sa využijú pri príprave štvrťročných národných a regionálnych účtov a na analytické účely v publikáciách Štatistického úradu Slovenskej republiky.
 
 - Európsky právny predpis: nariadenie komisie (ES) č. 264/2000 týkajúce sa krátkodobej štatistiky verejných financií.
 
@@ -564,11 +580,11 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (náklady spolu, spotreba materiálu, energie a služieb, odpisy nehmotného a hmotného investičného majetku, nákladové úroky, ostatné príjmy, návratná finančná výpomoc zo štátneho rozpočtu, hospodársky výsledok pred zdanením), finančné ukazovatele stavové (obstaranie investícií a predaj investičného majetku, oprávky, zásoby, cenné papiere, záväzky, pohľadávky), príspevky na poistenie v nezamestnanosti a ich platitelia, počet a odmeny zamestnancov, úhrady Národného úradu práce na výdavky na podporu v nezamestnanosti, na aktívnu politiku trhu práce a odvody poistného na zdravotné poistenie, nemocenské poistenie a dôchodkové zabezpečenie za evidovaných nezamestnaných poberajúcich podporu v nezamestnanosti a údaje o obstaraných nehmotných a hmotných investíciách.
+- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (náklady spolu, spotreba materiálu, energie a služieb, odpisy dlhodobého nehmotného a hmotného majetku, nákladové úroky, ostatné príjmy), obstaranie dlhodobého nehmotného a hmotného majetku, finančné ukazovatele stavové (aktíva a pasíva), počet zamestnancov, mzdové náklady zamestnancov, úhrady na aktívnu politiku trhu práce, výdavky na štátne sociálne dávky a sociálnu pomoc a počet poberateľov.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Národný úrad práce.
+- Ústredie práce, sociálnych vecí a rodiny.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -620,7 +636,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať základné informácie o finančnom hospodárení Sociálnej poisťovne, o osobných nákladoch, o prijatom poistnom na nemocenské poistenie a dôchodkové zabezpečenie, o poistencoch, o investíciách a úhradách výdavkov na nemocenské poistenie a dôchodkové zabezpečenie. Výsledky zisťovania sa využijú pri príprave štvrťročných národných účtov a na analytické účely v publikáciách Štatistického úradu Slovenskej republiky.
+- Účelom štatistického zisťovania je získať informácie o finančnom hospodárení Sociálnej poisťovne. Výsledky zisťovania sa využijú pri príprave štvrťročných národných a regionálnych účtov a na analytické účely v publikáciách Štatistického úradu Slovenskej republiky.
 
 - Európsky právny predpis: nariadenie komisie (ES) č. 264/2000 týkajúce sa krátkodobej štatistiky verejných financií.
 
@@ -628,7 +644,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (náklady spolu, spotreba materiálu, energie a služieb, odpisy nehmotného a hmotného investičného majetku, nákladové úroky, hospodársky výsledok pred zdanením), systémové dávky nemocenského poistenia, systémové dávky dôchodkového zabezpečenia, dávky sociálneho zabezpečenia uhrádzané štátom, finančné ukazovatele stavové (nehmotný a hmotný investičný majetok odpisovaný, oprávky, zásoby, cenné papiere, záväzky, pohľadávky), príjmy poistného na nemocenské poistenie a dôchodkové zabezpečenie podľa platiteľov, počet a odmeny zamestnancov, poistenci Sociálnej poisťovne a údaje o obstaraných nehmotných a hmotných investíciách.
+- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (náklady spolu, spotreba materiálu, energie a služieb, odpisy dlhodobého nehmotného a hmotného majetku, nákladové úroky, hospodársky výsledok pred zdanením), počet zamestnancov, mzdové náklady zamestnancov, dlhodobý majetok, finančné ukazovatele stavové (aktíva a pasíva), údaje o obstaranom dlhodobom nehmotnom a hmotnom majetku, prijaté poistné (na nemocenské, starobné, invalidné, úrazové a garančné poistenie a poistenie v nezamestnanosti a platby do rezervného fondu sociálneho poistenia) a úhrady výdavkov na dávky sociálneho poistenia a počet poistencov.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -658,9 +674,9 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
-- Použitá metóda: vyčerpávajúce zisťovanie.
+- Použitá metóda: výberové zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: informácia o certifikovaných výrobkoch a o certifikovaných systémoch manažérstva kvality, informácia o licenciách, informácia o neplatených osobách, finančné ukazovatele, aktíva a pasíva, obstaranie investícií a predaj investičného majetku, zamestnanci a mzdy, vybrané ukazovatele na úrovni jednotlivých závodov a údaje o novovzniknutých závodných jednotkách.
+- Charakteristika navrhnutých ukazovateľov: informácia o certifikovaných výrobkoch a o certifikovaných systémoch manažérstva kvality, informácia o licenciách, informácia o neplatených osobách, finančné ukazovatele, aktíva a pasíva, cenné papiere v držbe, obstaranie a predaj dlhodobého majetku, zamestnanci a mzdy a vybrané ukazovatele na úrovni jednotlivých závodov, údaje o novovzniknutých závodných jednotkách.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -1284,6 +1300,134 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky - krajská správa v Trenčíne.
 
+- 35a. Názov zisťovania: Mesačný výkaz o cenách služieb v oblasti nehnuteľností
+
+- Značka štatistického formulára: Ceny VTS 1-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať údaje na výpočet indexov cien služieb v oblasti nehnuteľností. Cenové indexy sa používajú na hodnotenie vývoja cenovej úrovne poskytovateľov služieb v oblasti nehnuteľností a na prepočty hodnotových ukazovateľov odvetvovej štatistiky a národných účtov do stálych cien.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: cena vybraných služieb v oblasti nehnuteľností v minulom a sledovanom mesiaci, tržby z realizácie týchto služieb za predchádzajúci rok.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Vybrané podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s prevažujúcou činnosťou podľa Štatistickej odvetvovej klasifikácie ekonomických činností – činnosti v oblasti nehnuteľností (OKEČ 70).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky – krajská správa v Trenčíne.
+
+- 35b. Názov zisťovania: Mesačný výkaz o cenách služieb za prenájom strojov a prístrojov
+
+- Značka štatistického formulára: Ceny VTS 2-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať údaje na výpočet indexov cien služieb za prenájom strojov a prístrojov. Cenové indexy sa používajú na hodnotenie vývoja cenovej úrovne poskytovateľov služieb v oblasti prenájmu strojov a prístrojov a na prepočty hodnotových ukazovateľov odvetvovej štatistiky a národných účtov do stálych cien.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: cena vybraných služieb v oblasti prenájmu strojov a prístrojov v minulom a sledovanom mesiaci, tržby z realizácie týchto služieb za predchádzajúci rok.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Vybrané podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s prevažujúcou činnosťou podľa Štatistickej odvetvovej klasifikácie ekonomických činností – prenájom strojov a zariadení bez obsluhy a prenájom tovaru osobnej spotreby a potrieb pre domácnosť (OKEČ 71).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky – krajská správa v Trenčíne.
+
+- 35c. Názov zisťovania: Mesačný výkaz o cenách služieb v oblasti spracovania dát
+
+- Značka štatistického formulára: Ceny VTS 3-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať údaje na výpočet indexov cien služieb v oblasti spracovania dát. Cenové indexy sa používajú na hodnotenie vývoja cenovej úrovne poskytovateľov služieb v oblasti spracovania dát a na prepočty hodnotových ukazovateľov odvetvovej štatistiky a národných účtov do stálych cien.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: cena vybraných služieb v oblasti spracovania dát v minulom a sledovanom mesiaci, tržby z realizácie týchto služieb za predchádzajúci rok.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Vybrané podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s prevažujúcou činnosťou podľa Štatistickej odvetvovej klasifikácie ekonomických činností – počítačové a súvisiace činnosti (OKEČ 72).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky – krajská správa v Trenčíne.
+
+- 35d. Názov zisťovania: Mesačný výkaz o cenách služieb určených prevažne pre podniky
+
+- Značka štatistického formulára: Ceny VTS 4-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať údaje na výpočet indexov cien služieb určených prevažne pre podniky. Cenové indexy sa používajú na hodnotenie vývoja cenovej úrovne poskytovateľov služieb určených prevažne pre podniky a na prepočty hodnotových ukazovateľov odvetvovej štatistiky a národných účtov do stálych cien.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: cena vybraných služieb určených prevažne pre podniky v minulom a sledovanom mesiaci, tržby z realizácie týchto služieb za predchádzajúci rok.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Vybrané podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s prevažujúcou činnosťou podľa Štatistickej odvetvovej klasifikácie ekonomických činností – iné obchodné služby (OKEČ 74).
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky – krajská správa v Trenčíne.
+
 - 36. Názov zisťovania: Mesačný výkaz v doprave
 
 - Značka štatistického formulára: Dop 1-12
@@ -1337,6 +1481,38 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 - c) Vymedzenie spravodajských jednotiek
 
 - Letiská.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: štvrťročne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa po sledovanom období.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
+
+- 37a. Názov zisťovania: Štvrťročný výkaz o vnútrozemskej vodnej doprave
+
+- Značka štatistického formulára: Dop 5-04
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie charakterizujúce činnosť vo vnútrozemskej vodnej doprave. Výsledky zisťovania sa využijú na hodnotenie krátkodobého vývoja a na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a ďalších medzinárodných organizácií a externých užívateľov.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 1119/80 o štatistike prepraveného tovaru po vnútrozemských vodných cestách.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: objem prepravených tovarov loďami nákladnej dopravy podľa klasifikácie tovarových skupín, typu plavidiel, objemu prepravených kontajnerov a ich počet.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnické osoby zapísané v obchodnom registri a fyzické osoby, ktoré majú platnú licenciu na vykonávanie verejnej vnútroštátnej a medzinárodnej dopravy na vnútrozemských vodných cestách, bez ohľadu na počet zamestnancov a prevažujúcu činnosť.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -1652,6 +1828,134 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky - príslušná krajská správa.
 
+- 46a. Názov zisťovania: Hlásenie o prijatí tovaru
+
+- Značka štatistického formulára: INTRASTAT 1-12
+
+- a) Učel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o tovaroch Spoločenstva vstupujúcich na územie Slovenskej republiky, ktoré nie sú v priamom alebo prerušenom tranzite alebo ktoré sú v takomto tranzite a opustia Slovenskú republiku po uskutočnení colných formalít. Výsledky zisťovania sa využijú na zostavenie štatistiky obchodu medzi členskými štátmi a štatistiky zahraničného obchodu Slovenskej republiky.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 3330/1991 o štatistike obchodovania s tovarom medzi členskými štátmi v znení neskorších predpisov.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele o prijatých tovaroch Spoločenstva týkajúce sa najmä podpoložky kombinovanej nomenklatúry, členského štátu zaslania, fakturovanej sumy, čistej hmotnosti, množstva v dodatkových merných jednotkách, regiónu určenia, krajiny pôvodu, druhu obchodu, druhu dopravy a dodacích podmienok.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnická osoba alebo fyzická osoba registrovaná ako platiteľ dane z pridanej hodnoty (DPH) v Slovenskej republike (podľa platného zákona o dani z pridanej hodnoty), ktorá za predchádzajúci kalendárny rok prijala tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 12 000 000 Sk.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. kalendárneho dňa po sledovanom období.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
+
+- 46b. Názov zisťovania: Hlásenie o odoslaní tovaru
+
+- Značka štatistického formulára: INTRASTAT 2-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o tovaroch Spoločenstva opúšťajúcich územie Slovenskej republiky, ktoré nie sú v priamom alebo prerušenom tranzite alebo ktoré sú v takomto tranzite a boli v Slovenskej republike prepustené do voľného obehu. Výsledky zisťovania sa využijú na zostavenie štatistiky obchodu medzi členskými štátmi a štatistiky zahraničného obchodu Slovenskej republiky.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 3330/1991 o štatistike obchodovania s tovarom medzi členskými štátmi v znení neskorších predpisov.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele o odoslaných tovaroch Spoločenstva týkajúce sa najmä podpoložky kombinovanej nomenklatúry, členského štátu určenia, fakturovanej sumy, čistej hmotnosti, množstva v dodatkových merných jednotkách, regiónu pôvodu, druhu obchodu, druhu dopravy a dodacích podmienok.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnická osoba alebo fyzická osoba registrovaná ako platiteľ dane z pridanej hodnoty (DPH) v Slovenskej republike (podľa platného zákona o dani z pridanej hodnoty), ktorá za predchádzajúci kalendárny rok odoslala tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 30 000 000 Sk.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. kalendárneho dňa po sledovanom období.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
+
+- 46c. Názov zisťovania: Zjednodušené hlásenie o prijatí tovaru
+
+- Značka štatistického formulára: INTRASTAT 3-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o tovaroch Spoločenstva vstupujúcich na územie Slovenskej republiky, ktoré nie sú v priamom alebo prerušenom tranzite alebo ktoré sú v takomto tranzite a opustia Slovenskú republiku po uskutočnení colných formalít. Výsledky zisťovania sa využijú na zostavenie štatistiky obchodu medzi členskými štátmi a štatistiky zahraničného obchodu Slovenskej republiky.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 3330/1991 o štatistike obchodovania s tovarom medzi členskými štátmi v znení neskorších predpisov.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele o fakturovanej sume a členskom štáte zaslania pre desať prijatých najvýznamnejších podpoložiek kombinovanej nomenklatúry z hľadiska ich hodnoty v sledovanom období a súhrn zostávajúcich podpoložiek kombinovanej nomenklatúry podľa členského štátu zaslania.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnická osoba alebo fyzická osoba registrovaná ako platiteľ dane z pridanej hodnoty (DPH) v Slovenskej republike (podľa platného zákona o dani z pridanej hodnoty), ktorá za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka prijala tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 3 000 000 a nižšej ako 12 000 000 Sk.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. kalendárneho dňa po sledovanom období.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
+
+- 46d. Názov zisťovania: Zjednodušené hlásenie o odoslaní tovaru
+
+- Značka štatistického formulára: INTRASTAT 4-12
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o tovaroch Spoločenstva opúšťajúcich územie Slovenskej republiky, ktoré nie sú v priamom alebo prerušenom tranzite alebo ktoré sú v takomto tranzite a boli v Slovenskej republike prepustené do voľného obehu. Výsledky zisťovania sa využijú na zostavenie štatistiky obchodu medzi členskými štátmi a štatistiky zahraničného obchodu Slovenskej republiky.
+
+- Európsky právny predpis: nariadenie rady (ES) č. 3330/1991 o štatistike obchodovania s tovarom medzi členskými štátmi v znení neskorších predpisov.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: vyčerpávajúce zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: ukazovatele o fakturovanej sume a členskom štáte určenia pre desať odoslaných najvýznamnejších podpoložiek kombinovanej nomenklatúry z hľadiska ich hodnoty v sledovanom období a súhrn zostávajúcich podpoložiek kombinovanej nomenklatúry podľa členského štátu určenia.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnická osoba alebo fyzická osoba registrovaná ako platiteľ dane z pridanej hodnoty (DPH) v Slovenskej republike (podľa platného zákona o dani z pridanej hodnoty), ktorá za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka odoslala tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 6 000 000 a nižšej ako 30 000 000 Sk.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita zisťovania: mesačne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. kalendárneho dňa po sledovanom období.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
+
 - 47. Názov zisťovania: Výkaz o plochách osiatych poľnohospodárskymi plodinami k 20. máju
 
 - Značka štatistického formulára: Osev 3-99
@@ -1707,36 +2011,6 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 - Periodicita zisťovania: jednorazovo.
 
 - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 23. júna sledovaného roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky - príslušná krajská správa.
-
-- 49. Názov zisťovania: Odhad úrody poľnohospodárskych plodín podľa stavu k 15. júlu
-
-- Značka štatistického formulára: Poľ 7-99
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie týkajúce sa odhadov hektárových úrod vybraných druhov ovocia k 15. júlu. Výsledky zisťovania budú podkladom na organizovanie trhu s vybranými druhmi ovocia, pre publikácie Štatistického úradu Slovenskej republiky a na informovanie verejnosti.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: výberové zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: obsahom zisťovania sú ukazovatele týkajúce sa očakávaných hektárových úrod vybraných druhov ovocia.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Podniky zapísané v obchodnom registri, bez ohľadu na počet zamestnancov a fyzické osoby, ktoré podnikajú v rastlinnej výrobe podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) - pestovanie plodín; zeleninárstvo; záhradníctvo (OKEČ 01.1), a sú zapísané v poľnohospodárskom registri.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita zisťovania: jednorazovo.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 17. júla sledovaného roka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1848,13 +2122,13 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - 3. ÚNP 1-01 Ročný výkaz o úplných nákladoch práce
 
-- 4. Nem Úr 1-99 Výkaz o pracovnej neschopnosti pre chorobu a úraz
+- 4. Nem Úr 1-01 Ročný výkaz o pracovnej neschopnosti pre chorobu a úraz.
 
 - 5. Soc 1-01 Ročný výkaz o zariadeniach sociálnych služieb
 
 - 6. Soc 4-99 Výkaz o výdavkoch na sociálnu pomoc
 
-- 7. NÚP 1-01 Ročný výkaz Národného úradu práce
+- 7. ÚPSVR 1-01 Ročný výkaz Ústredia práce, sociálnych vecí a rodiny
 
 - 8. Zdp 1-01 Ročný výkaz zdravotnej poisťovne
 
@@ -1962,7 +2236,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - 57. VV P 9-01 Ročný podnikový výkaz o licenciách
 
-- 58. Inov 1-99 Štatistické zisťovanie o inováciách (rok zisťovania 2003 a 2005)
+- 58. Inov 1-99 Štatistické zisťovanie o inováciách (rok zisťovania 2003 a 2004)
 
 - Charakteristiky zisťovaní
 
@@ -2018,7 +2292,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Podniky zapísané v obchodnom registri, s počtom zamestnancov 20 a viac, príspevkové organizácie, krajské úrady, okresné úrady, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie, verejnoprávne neziskové inštitúcie, Sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia, cirkevné organizácie, stavovské organizácie - profesné komory, komory, záujmové združenia právnických osôb, organizačné jednotky združení a politických strán, organizácie a združenia s medzinárodným prvkom, bez ohľadu na počet zamestnancov a prevažujúcu činnosť, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky.
+- Podniky zapísané v obchodnom registri s počtom zamestnancov 20 a viac, príspevkové organizácie, samosprávne kraje, miestne orgány štátnej správy, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie poskytujúce verejnoprospešné služby, verejnoprávne neziskové inštitúcie, Sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia, cirkvi, náboženské spoločnosti a ich organizácie, občianske združenia, stavovské organizácie – profesné komory, komory, záujmové združenia právnických osôb, organizačné jednotky, jednotky združení a politických strán a politických hnutí, organizácie a združenia s medzinárodným prvkom bez ohľadu na počet zamestnancov a prevažujúcu činnosť, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -2064,9 +2338,9 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky prostredníctvom TREXIMY, spol. s r. o., Bratislava.
 
-- 4. Názov zisťovania: Výkaz o pracovnej neschopnosti pre chorobu a úraz
+- 4. Názov zisťovania: Ročný výkaz o pracovnej neschopnosti pre chorobu a úraz
 
-- Značka štatistického formulára: Nem Úr 1-99
+- Značka štatistického formulára: Nem Úr 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -2082,13 +2356,13 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Podniky zapísané v obchodnom registri, príspevkové organizácie, krajské úrady, okresné úrady, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie, verejnoprávne neziskové inštitúcie, sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia, bez ohľadu na počet zamestnancov a prevažujúcu činnosť, ak administratívne vykonávajú agendu nemocenského poistenia.
+- Všetci zamestnávatelia a ich organizačné zložky podľa ich územnej dislokácie, podniky zapísané v obchodnom registri, príspevkové organizácie, samosprávne kraje, miestne orgány štátnej správy, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie, verejnoprávne neziskové inštitúcie, Sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia bez ohľadu na počet zamestnancov a prevažujúcu činnosť, ak administratívne vykonávajú agendu nemocenského poistenia.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita zisťovania: polročne a ročne.
+- Periodicita zisťovania: ročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. júla sledovaného roka a do13. januára nasledujúceho roka.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 13. januára nasledujúceho roka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2146,7 +2420,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Krajské úrady - odbory sociálnych vecí.
+- Samosprávne kraje.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -2160,25 +2434,25 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
-- 7. Názov zisťovania: Ročný výkaz Národného úradu práce
+- 7. Názov zisťovania: Ročný výkaz Ústredia práce, sociálnych vecí a rodiny
 
-- Značka štatistického formulára: NÚP 1-01
+- Značka štatistického formulára: ÚPSVR 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať základné informácie o Národnom úrade práce. Výsledky zisťovania sa využijú pri tvorbe národných účtov a na analytické a publikačné účely Štatistického úradu Slovenskej republiky.
+- Účelom štatistického zisťovania je získať informácie o Ústredí práce, sociálnych vecí a rodiny a jeho orgánoch. Výsledky zisťovania sa využijú pri tvorbe ročných národných a regionálnych účtov, na analytické a publikačné účely Štatistického úradu Slovenskej republiky a Európskeho štatistického systému (ESSPROS).
 
-- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve a nariadenie rady (ES) č. 2516/2000, ktorým sa mení a dopĺňa nariadenie rady (ES) č. 2223/96.
+- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve, nariadenie rady (ES) č. 2516/2000 týkajúce sa daní a sociálnych príspevkov, ktorým sa mení a dopĺňa nariadenie rady (ES) č. 2223/96, odporúčanie rady (ES) č. 92/442/EE ku konvergencii cieľov a politiky sociálnej ochrany.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (medzispotreba, finančné ukazovatele, štruktúra medzispotreby, štruktúra tržieb a obchodnej marže), obstaranie nehmotných a hmotných investícií, špecifikácia hmotných investícií, investičný majetok, príspevky podľa regionálneho a sektorového členenia (od zamestnancov a zamestnávateľov, od zamestnávateľov do garančného fondu, príjmy od samostatne zárobkovo činných osôb, spolupracujúcich osôb, dobrovoľných platiteľov), počet a odmeny zamestnancov, úhrady Národného úradu práce (výdavky na podporu v nezamestnanosti evidovaných nezamestnaných a na aktívnu politiku trhu práce, odvody na zdravotné, nemocenské a dôchodkové poistenie za evidovaných nezamestnaných poberajúcich podporu v nezamestnanosti, výdavky z garančného fondu).
+- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (medzispotreba, finančné ukazovatele, štruktúra medzispotreby a štruktúra tržieb), obstaranie dlhodobého nehmotného a hmotného majetku, špecifikácia dlhodobého majetku, počet zamestnancov, mzdové náklady zamestnancov, úhrady na aktívnu politiku trhu práce, výdavky na štátne sociálne dávky a sociálnu pomoc a počet poberateľov.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Národný úrad práce.
+- Ústredie práce, sociálnych vecí a rodiny.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -2230,15 +2504,15 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať základné informácie o Sociálnej poisťovni. Výsledky zisťovania sa využijú pri tvorbe národných účtov a na analytické a publikačné účely Štatistického úradu Slovenskej republiky.
+- Účelom štatistického zisťovania je získať informácie o Sociálnej poisťovni. Výsledky zisťovania sa využijú pri tvorbe ročných národných a regionálnych účtov a na analytické a publikačné účely Štatistického úradu Slovenskej republiky a Európskeho štatistického systému (ESSPROS).
 
-- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve a nariadenie rady (ES) č. 2516/2000, ktorým sa mení a dopĺňa nariadenie rady (ES) č. 2223/96.
+- Európsky právny predpis: nariadenie rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve, nariadenie rady (ES) č. 2516/2000 týkajúce sa daní a sociálnych príspevkov, ktorým sa mení a dopĺňa nariadenie rady (ES) č. 2223/96, odporúčanie rady (ES) č. 92/442/EE ku konvergencii cieľov a politiky sociálnej ochrany.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (medzispotreba, finančné ukazovatele, štruktúra medzispotreby, štruktúra tržieb a obchodnej marže), obstaranie nehmotných a hmotných investícií, špecifikácia hmotných investícií, investičný majetok, štruktúra príjmov z poistného na nemocenské poistenie a dôchodkové zabezpečenie podľa regionálneho a sektorového členenia (od zamestnancov a zamestnávateľov, spolupracujúcich osôb, nerezidentov, príspevok zo štátneho rozpočtu, poistné hradené z Národného úradu práce), úhrady Sociálnej poisťovne, počet a odmeny zamestnancov.
+- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele tokové (medzispotreba, finančné ukazovatele, štruktúra medzispotreby a štruktúra tržieb), obstaranie dlhodobého nehmotného a hmotného majetku, špecifikácia dlhodobého nehmotného a hmotného majetku, počet zamestnancov, mzdové náklady zamestnancov, prijaté poistné (na nemocenské, starobné, invalidné, úrazové, garančné poistenie, poistenie v nezamestnanosti a platby do rezervného fondu sociálneho poistenia) v štruktúre podľa platiteľov a úhrady výdavkov na dávky sociálneho poistenia, počet poistencov a poberateľov dávok.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -2270,7 +2544,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele - finančný lízing, základné a vybrané finančné ukazovatele, aktíva a pasíva, obstaranie investícií a predaj investičného majetku, obstaranie investícií podľa zdrojov financovania, investičný majetok, cenné papiere, prierezové ukazovatele - náklady, poplatky a pokuty pri nakladaní s odpadom, odpady nebezpečné a ostatné, dopravné ukazovatele, ochrana životného prostredia - finančné ukazovatele, základné ukazovatele týkajúce sa miestnej jednotky a informačné technológie, závodné ukazovatele - hrubý obrat, medzispotreba a dopĺňajúce ukazovatele, dane, poplatky a subvencie, spotrebné dane, špecifikácia vybraných položiek hrubého obratu, špecifikácia spotreby služieb, špecifikácia spotreby a zásob materiálu a energie, špecifikácia tovaru vo veľkoobchode a v maloobchode, špecifikácia hmotných investícií, zušľachťovací styk, zamestnanci a mzdy; v odvetví poľnohospodárstva a lesného hospodárstva - výrobkové členenie ukazovateľa hrubého obratu, odvetvové ukazovatele - v poľnohospodárstve - zamestnanci a mzdy podľa hlavných profesií v poľnohospodárstve; v priemysle - vybrané vodohospodárske ukazovatele, vybrané ukazovatele v priemysle; v stavebníctve - stavebná produkcia, stavebná produkcia podľa dodávateľských zmlúv v tuzemsku - podľa smerov výstavby a zadávateľov stavebných zákaziek, výstavba bytov, spotreba vybraných výrobkov pre stavebnú produkciu, zamestnanci a robotníci na stavebných prácach, mzdové prostriedky, stavebná produkcia podľa dodávateľských zmlúv v tuzemsku na novej výstavbe, rekonštrukciách a modernizáciách podľa Klasifikácie stavieb, stavebná produkcia vykonaná vlastnými zamestnancami podľa Štatistickej klasifikácie produkcie, stavebná produkcia vykonaná vlastnými zamestnancami v tuzemsku podľa miesta realizácie; v obchode, pohostinstve a ubytovaní - sieť maloobchodu a sieť pohostinstva (verejného stravovania), počet jednotiek podľa predajnej plochy v sieti maloobchodu.
+- Charakteristika navrhnutých ukazovateľov: finančné ukazovatele – finančný lízing, základné a vybrané finančné ukazovatele, aktíva a pasíva, obstaranie a predaj dlhodobého majetku, obstaranie dlhodobého majetku podľa zdrojov financovania, dlhodobý majetok, cenné papiere, prierezové ukazovatele – vybrané vodohospodárske ukazovatele, dopravné ukazovatele, ochrana životného prostredia – finančné ukazovatele, základné ukazovatele týkajúce sa miestnej jednotky a informačné technológie, závodné ukazovatele – hrubý obrat, medzispotreba a dopĺňajúce ukazovatele, dane, poplatky a subvencie, spotrebné dane, špecifikácia vybraných položiek hrubého obratu, špecifikácia spotreby služieb, špecifikácia spotreby a zásob materiálu a energie, špecifikácia tovaru vo veľkoobchode a v maloobchode, špecifikácia dlhodobého hmotného majetku, zušľachťovací styk, zamestnanci a mzdy; v odvetví poľnohospodárstva a lesného hospodárstva – výrobkové členenie ukazovateľa hrubého obratu, odvetvové ukazovatele – v poľnohospodárstve – zamestnanci a mzdy podľa hlavných profesií v poľnohospodárstve; v priemysle – vybrané ukazovatele v priemysle; v stavebníctve – stavebná produkcia, stavebná produkcia podľa dodávateľských zmlúv v tuzemsku – podľa smerov výstavby a zadávateľov stavebných zákaziek, výstavba bytov, spotreba vybraných výrobkov pre stavebnú produkciu, zamestnanci a robotníci na stavebných prácach, mzdové prostriedky, stavebná produkcia podľa dodávateľských zmlúv v tuzemsku na novej výstavbe, rekonštrukciách a modernizáciách podľa Klasifikácie stavieb, stavebná produkcia vykonaná vlastnými zamestnancami podľa Štatistickej klasifikácie produkcie, stavebná produkcia vykonaná vlastnými zamestnancami v tuzemsku podľa miesta realizácie v obchode, pohostinstve a ubytovaní – sieť maloobchodu a sieť pohostinstva (verejného stravovania), počet jednotiek podľa predajnej plochy v sieti maloobchodu.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -2430,11 +2704,11 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: medzispotreba, štruktúra medzispotreby a štruktúra príjmov z činnosti podľa Štatistickej klasifikácie produkcie, vybrané finančné ukazovatele, aktíva a pasíva - vybrané ukazovatele, obstaranie nehmotných a hmotných investícií, špecifikácia hmotných investícií, investičný majetok, počet a odmeny zamestnancov a informačné technológie.
+- Charakteristika navrhnutých ukazovateľov: medzispotreba, štruktúra medzispotreby a štruktúra príjmov z činností podľa Štatistickej klasifikácie produkcie, vybrané finančné ukazovatele, aktíva a pasíva – vybrané ukazovatele, obstaranie dlhodobého nehmotného a hmotného majetku, špecifikácia dlhodobého nehmotného a hmotného majetku, počet zamestnancov, mzdové náklady zamestnancov a informačné technológie.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Rozpočtové organizácie, štátne fondy, krajské úrady, okresné úrady a obce (nad 3 000 obyvateľov) v ústrednom a miestnom vládnom sektore.
+- Ústredné rozpočtové organizácie a rozpočtové organizácie samosprávnych krajov a obcí nad 3 000 obyvateľov, miestne orgány štátnej správy, orgány územnej samosprávy a iné rozpočtové organizácie.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3458,7 +3732,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Okresné úrady - odbory životného prostredia.
+- Miestne orgány štátnej správy.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3768,7 +4042,7 @@ Príloha č. 1 k vyhláške č. 613/2002 Z. z.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Rozpočtové organizácie, príspevkové organizácie, neziskové organizácie, neziskové fondy, verejnoprávne neziskové inštitúcie, neinvestičné fondy, podniky zapísané v obchodnom registri, bez ohľadu na počet zamestnancov a prevažujúcu činnosť, ak majú zamestnancov výskumu a vývoja.
+- Rozpočtové organizácie, príspevkové organizácie, neziskové organizácie, neziskové fondy, verejnoprávne neziskové inštitúcie, finančné inštitúcie, neinvestičné fondy, podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov a prevažujúcu činnosť, ak majú zamestnancov výskumu a vývoja.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 

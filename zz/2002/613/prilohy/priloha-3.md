@@ -1030,15 +1030,17 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - a) Využitie administratívnych údajov
 
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve, ako aj na zostavenie štatistiky obchodovania s tovarom medzi členskými štátmi Spoločenstva v súlade s nariadením rady (EHS) č. 3330/1991 o štatistike obchodovania s tovarom medzi členskými štátmi v znení neskorších predpisov.
 
 - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ), podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa druhu daňového subjektu - fyzická osoba, právnická osoba a členenie podľa právnej formy daňovníka.
+- Údaje v plnom rozsahu za Slovensko spolu a v triedení podľa sektorov a subsektorov systému národných účtov ESNÚ95, v územnom členení (KRAJ), podľa Štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ 2, OKEČ 4), členenie podľa druhu daňového subjektu – fyzická osoba, právnická osoba, a členenie podľa právnej formy daňovníka pre odbor národných účtov.
 
-- c) Periodicita: štvrťročne a ročne.
+- Pre odbor zahraničného obchodu mesačné údaje v rozsahu potrebnom na zostavenie štatistiky obchodovania s tovarom medzi členskými štátmi.
 
-- d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
+- c) Periodicita: mesačne, štvrťročne a ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne podľa dohody, štvrťročne do 55. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
 
 - 37. Označenie administratívneho zdroja:
 
@@ -1314,15 +1316,17 @@ Príloha č. 3 k vyhláške č. 613/2002 Z. z.
 
 - a) Využitie administratívnych údajov
 
-- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v spoločenstve.
+- Administratívne zdroje údajov sa využijú na zostavovanie národných účtov v súlade s nariadením rady (ES) č. 2223/96 o európskom systéme národných a regionálnych účtov v Spoločenstve, ako aj na zostavenie štatistiky zahraničného obchodu Slovenskej republiky.
 
 - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-- Kumulatívne údaje (zo 4 výtlačkov, z 8 výtlačkov a doplnkového tlačiva pozostávajúceho z 8 výtlačkov) za rok o druhu dane (clo, spotrebná daň, dovozná prirážka, DPH), základu na výmer platby sadzby a sumy podľa druhu zaplatenej dane podľa 6-miestneho kódu harmonizovaného systému.
+- Kumulatívne údaje (zo 4 výtlačkov, z 8 výtlačkov a doplnkového tlačiva pozostávajúceho z 8 výtlačkov) za rok o druhu dane, základu na výmer platby, sadzby a sumy podľa druhu zaplatenej dane podľa 6-miestneho kódu harmonizovaného systému pre odbor národných účtov.
 
-- c) Periodicita: ročne.
+- Pre odbor zahraničného obchodu mesačné údaje v rozsahu potrebnom na zostavenie štatistiky obchodu, najmä druh tovaru, druh obchodu, colný režim, krajina určenia, krajina pôvodu, prípadne obchodná krajina, hmotnosť tovaru, dodatkové merné jednotky, hodnota tovaru, identifikačné číslo tuzemského vývozcu, dovozcu alebo deklaranta, obchodný názov a adresa sídla.
 
-- d) Lehota na odovzdanie administratívnych údajov: do 30. apríla po referenčnom období.
+- c) Periodicita: mesačne, ročne.
+
+- d) Lehota na odovzdanie administratívnych údajov: mesačne podľa dohody, ročne do 30. apríla po referenčnom období.
 
 - I. B Inštitúcia disponujúca administratívnym zdrojom: Národná banka Slovenska
 
