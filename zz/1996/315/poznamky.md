@@ -20,6 +20,8 @@
 
 - 10) § 3d zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
+- 10a) § 17 ods. 1 písm. a), b) a c) zákona č. 195/1998 Z. z. o sociálnej pomoci.
+
 - 11) § 20 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
