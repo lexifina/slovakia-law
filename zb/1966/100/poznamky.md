@@ -40,7 +40,7 @@
 
 - *) Do tohto fondu plynú spravidla prémie za prírastok trhovej produkcie.
 
-- **) Zníženú sadzbu odvodu zo základných prostriedkov vo výške 3 % ustanovuje § 6 ods. 1 zákona a sadzbu odvodu z hrubého dôchodku vo výške 30 % ustanovuje § 5 ods. 1 písm. b) zákona.
+- *) Zníženú sadzbu odvodu zo základných prostriedkov (pokiaľ ide o predajne a ich vybavenie) ustanovuje § 6 ods. 1 zákona č. 83/1966 Zb. a sadzbu odvodu z hrubého dôchodku vo výške 18 % ustanovuje § 5 zákona č. 8/1968 Zb.
 
 - *) Sadzbu odvodu z hrubého dôchodku ustanovuje § 5 ods. 1 písm. d) zákona vo výške 16 %.
 
@@ -69,3 +69,5 @@
 - **) Kalamitný fond lesného hospodárstva.
 
 - *) Tým nie sú dotknuté ich povinnosti podľa § 40 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
+
+- **) § 78 ods. 4 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) a § 8 vládneho nariadenia č. 107/1967 Zb. o zabezpečení vzťahov organizácií k štátnemu rozpočtu.
