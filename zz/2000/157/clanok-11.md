@@ -1,0 +1,13 @@
+# Článok 11 Úroky
+
+- 1. Úroky majúce zdroj v jednom zmluvnom štáte, na ktoré je rezident druhého zmluvného štátu skutočne oprávnený, môžu byť zdanené v tomto druhom štáte.
+
+- 2. Takéto úroky môžu byť zdanené v zmluvnom štáte, v ktorom majú zdroj, a to podľa právnych predpisov tohto štátu; daň takto stanovená však nepresiahne desať percent hrubej sumy úrokov.
+
+- 3. Výraz „úroky“ v tomto článku zahŕňa úroky z vládnych cenných papierov alebo z obligácií alebo dlhopisov, či už zabezpečených, alebo nezabezpečených záložným právom, ktoré poskytujú alebo neposkytujú právo podieľať sa na ziskoch, úroky z akejkoľvek inej formy zadĺženia a všetky ďalšie príjmy prirovnateľné k príjmom z peňazí požičaných podľa práva týkajúceho sa daní zmluvného štátu, v ktorom majú úroky svoj zdroj.
+
+- 4. Ustanovenia odsekov 1 a 2 sa nepoužijú, ak osoba skutočne oprávnená na úroky, ktorá je rezidentom jedného zmluvného štátu, vykonáva podnikateľskú činnosť v druhom zmluvnom štáte, v ktorom majú úroky svoj zdroj, prostredníctvom stálej prevádzkarne umiestnenej v tomto druhom štáte, alebo vykonáva v tomto druhom štáte nezávislé činnosti zo stálej základne umiestnenej v tomto druhom štáte a vzhľadom na zadĺženie, z ktorého sa úroky vyplácajú, sa skutočne viaže na túto stálu prevádzkareň alebo stálu základňu. V takom prípade sa použijú ustanovenia článku 7 alebo článku 14 podľa toho, o aký prípad ide.
+
+- 5. Na účely zdanenia úrokov sa predpokladá, že úroky majú zdroj v zmluvnom štáte, ak platiteľom je tento štát sám alebo jeho nižší správny útvar, alebo miestny orgán tohto štátu, alebo osoba, ktorá je rezidentom tohto štátu. Ak však osoba vyplácajúca úroky, či už je, alebo nie je rezidentom v niektorom zmluvnom štáte, má v zmluvnom štáte alebo mimo oboch zmluvných štátov stálu prevádzkareň alebo stálu základňu a v spojení s ňou došlo k zadĺženiu, z ktorého sa platia úroky, a tieto úroky idú na ťarchu tejto stálej prevádzkarne alebo stálej základne, potom sa za zdroj takýchto úrokov bude považovať štát, v ktorom je stála prevádzkareň alebo stála základňa umiestnená.
+
+- 6. Ak suma úrokov, ktoré sú platené vzhľadom na zadĺženie, z ktorého sa vyplácajú, presahuje v dôsledku osobitných vzťahov existujúcich medzi platiteľom a osobou skutočne oprávnenou na úroky, alebo ktoré jeden aj druhý udržiava s treťou osobou, sumu, ktorú by bol dohodol platiteľ s osobou skutočne oprávnenou, keby neboli tieto vzťahy, použijú sa ustanovenia tohto článku len na túto naposledy spomenutú sumu. V takom prípade presahujúca časť sumy zaplatených úrokov zostane zdaniteľná podľa právnych predpisov týkajúcich sa daní každého zmluvného štátu, ale s prihliadnutím na ostatné ustanovenia tejto zmluvy.

@@ -1,0 +1,3 @@
+# Článok 20 Študenti a účastníci kurzov na výkon povolania
+
+Ak študent alebo účastník kurzu na výkon povolania, ktorý je rezidentom jedného zmluvného štátu alebo ktorý bol rezidentom tohto štátu bezprostredne pred svojou návštevou v druhom zmluvnom štáte a ktorý sa prechodne zdržiava v tomto druhom štáte výlučne na účely štúdia alebo výcviku študentov alebo účastníkov kurzov na výkon povolania, dostane platby zo zdrojov mimo tohto druhého štátu na účely podpory študentov alebo účastníkov kurzov na výkon povolania pri štúdiu alebo výcviku, budú tieto platby oslobodené v tomto druhom štáte od dane.

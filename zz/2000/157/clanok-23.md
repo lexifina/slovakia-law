@@ -1,0 +1,7 @@
+# Článok 23 Metódy vylúčenia dvojitého zdanenia
+
+- 1. S výhradou ustanovení právnych predpisov Austrálie, ktorých platnosť príležitostne dovoľuje zápočet na austrálsku daň pri dani zaplatenej v krajine mimo Austrálie (čo nebude mať zásadný vplyv na všeobecné princípy tohto článku), slovenská daň platená podľa právnych predpisov Slovenskej republiky a v súlade s touto zmluvou, či už priamo, alebo zrážkou z príjmov poberaných osobou, ktorá je rezidentom Austrálie, zo zdrojov v Slovenskej republike, povolí sa zápočet na austrálsku daň platenú z tohto príjmu.
+
+- 2. Ak spoločnosť, ktorá je rezidentom Slovenskej republiky a nie je rezidentom Austrálie, na účely austrálskej dane vypláca dividendy spoločnosti, ktorá je rezidentom Austrálie a ktorá priamo alebo nepriamo kontroluje nie menej ako desať percent hlasovacích práv prv spomenutej spoločnosti, zápočet uvedený v odseku 1 bude zahŕňať slovenskú daň zaplatenú touto prv spomenutou spoločnosťou z časti ziskov, z ktorých sa dividendy vyplácajú.
+
+- 3. V Slovenskej republike bude dvojité zdanenie zamedzené takto: Slovenská republika pri ukladaní dane svojim rezidentom môže zahrnúť do základu dane, z ktorého sa takéto dane ukladajú, časti príjmov, ktoré môžu byť podľa ustanovení tejto zmluvy zdanené aj v Austrálii, ale povolí znížiť sumu dane vypočítanú z takéhoto základu o sumu rovnajúcu sa dani zaplatenej v Austrálii. Takéto zníženie však nepresiahne tú časť slovenskej dane vypočítanej pred jej znížením, ktorá pomerne pripadá na príjmy, ktoré môžu byť podľa ustanovení tejto zmluvy zdanené aj v Austrálii.
