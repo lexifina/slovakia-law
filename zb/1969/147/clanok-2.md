@@ -1,0 +1,3 @@
+# Čl. II
+
+Pracovnoprávne pomery prokurátorov, vyšetrovateľov a ostatných pracovníkov Generálnej prokuratúry nie sú zriadením Generálnej prokuratúry Československej socialistickej republiky, Generálnej prokuratúry Českej socialistickej republiky a Generálnej prokuratúry Slovenskej socialistickej republiky dotknuté. O zaradení týchto pracovníkov na jednotlivé generálne prokuratúry rozhodne do tridsiatich dní odo dňa účinnosti tohto zákona generálny prokurátor Československej socialistickej republiky po dohode s generálnymi prokurátormi Českej socialistickej republiky a Slovenskej socialistickej republiky.
