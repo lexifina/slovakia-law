@@ -10,6 +10,8 @@
 
 - § 4 ods. 2 vládneho nariadenia č. 240/1949 Zb.
 
+- 5a) § 6 ods. 4 vládneho nariadenia č. 240/1949 Zb.
+
 - 6) Vládne nariadenie č. 7/1954 Zb. o obehu zákonných peňazí v znení vládneho nariadenia č. 17/1960 Zb.
 
 - 7) ČSN 88 4674 - Lístky.

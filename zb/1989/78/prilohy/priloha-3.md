@@ -12,7 +12,7 @@ c) tlačivá | - | 2 kg; ak ide o knihy alebo brožúry 5 kg
 
 d) tlačivá podávané hromadne | - | 14 kg
 
-e) balíčky | - | 1 kg; do niektorých krajín podľa Poštového sadzobníka len 500 g
+e) balíčky | - | 2 kg; do niektorých krajín podľa Poštového sadzobníka len 1 kg, príp. 500g
 
 f) slepecké zásielky | 7 kg | 7 kg
 

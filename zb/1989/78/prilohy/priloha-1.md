@@ -360,9 +360,9 @@ Príloha č. 1 vyhlášky č. 78/1989 Zb.
 
   - Biologický a patologický materiál
 
-  - Krv, moč, a iný biologický a patologický materiál zasielaný na vyšetrenie
+  - Skaze podliehajúce biologické látky
 
-  - 42. Krv, moč a iný biologický a patologický materiál sa zasiela v súrnych krehkých balíkoch; do hmotnosti 250 g ho možno zasielať aj v doporučených zásielkach. Na adresnej strane zásielok musí byť uvedená poznámka o obsahu napr. „Krv na skúšku“, „Biologický materiál“, „Infekčný materiál“. Každá zásielka musí byť na všetkých stranách označená nálepkou z bieleho papiera s nápadným čiernym krížom.
+  - 42. Skaze podliehajúce biologické látky možno, okrem látok zasielaných na vyšetrenie podľa bodov 43 až 47, zasielať len medzi ústavmi a úradne uznanými laboratóriami. V tuzemskom styku sa zasielajú v súrnych krehkých balíkoch; do hmotnosti 250 g ich možno zasielať tiež v doporučených zásielkách. V medzinárodnom styku možno skaze podliehajúce biologické látky zasielať len do krajín, pri ktorých je to uvedené v Poštovom sadzobníku, a to len v zásielkach EMS. Obal zásielky musí mať na adresnej strane fialovú nálepku pošty „Skaze podliehajúce biologické látky“ a poznámku o obsahu (napr. „Krv na skúšku“, „Biologický materiál“, „Nákazlivé látky“). Každá zásielka musí byť na všetkých stranách označená nápadným čiernym krížom.
 
   - 43. Zaschnutý moč na filtračnom papieri sa môže vložiť do vrecka z nepriepustnej umelej látky, ktoré sa vloží do obálky z pevného papiera a obálka sa dobre zalepí.
 
@@ -373,10 +373,6 @@ Príloha č. 1 vyhlášky č. 78/1989 Zb.
   - 46. Objemnejšie a ťažšie veci musia byť v hrubých sklenených, porcelánových, kameninových, hlinených nádobách alebo v nádobách z nepriepustnej umelej látky. Nádoba musí byť vzduchotesne uzavretá a jej uzávera sa musí ešte previazať nepriepustnou látkou. Nádoba sa musí vložiť do pevnej nepriepustnej schránky z dreva alebo z kovu vyplnenej pilinami alebo inou savou látkou tak, aby sa nádoba nemohla pohnúť a aby pri jej prípadnom poškodení nemohol obsah vytekať.
 
   - 47. Časti tiel alebo vnútornosti z uhynutých zvierat sa musia vložiť do vrecka alebo obalu z nepriepustnej umelej látky. Vzduchotesne uzavreté vrecká alebo obaly sa vložia do schránky z dreva alebo z kovu vyplnenej pilinami alebo inou savou látkou.
-
-- Ostatné biologické látky
-
-  - 48. Biologické látky okrem látok zasielaných na vyšetrenie podľa bodov 42 až 47 možno zasielať len medzi ústavmi a úradne uznanými laboratóriami. Obal zásielky musí mať na adresnej strane fialovú nálepku pošty „Skaze podliehajúce biologické látky“. Biologické látky možno zasielať aj v medzinárodnom styku, a to len do krajín, pri ktorých je to uvedené v Poštovom sadzobníku.
 
   - 49. Skaze podliehajúce biologické látky, ktoré sú nákazlivé alebo o ktorých to možno dôvodne predpokladať, sa musia označiť poznámkou „Nákazlivé látky“. Odosielatelia takých látok sa musia presvedčiť, že zásielky boli pre dopravu poštou zabalené tak, aby došli na miesto určenia v dobrom stave a aby počas dopravy nespôsobili nákazu ľudí alebo zvierat. Obal zásielky sa skladá z
 
