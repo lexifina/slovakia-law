@@ -11,5 +11,3 @@
 (5) Koordináciu činnosti a úloh jednotlivých druhov vojsk armády, vojenských správ a vojenských zariadení zabezpečuje generálny štáb.
 
 (6) Na čele generálneho štábu je náčelník generálneho štábu, ktorý velí vojskám armády. Je podriadený ministrovi, ktorému zodpovedá za výkon svojej funkcie.
-
-(7) Náčelníka generálneho štábu vymenúva a odvoláva vláda Slovenskej republiky na návrh ministra.
