@@ -1,14 +1,18 @@
-- 1) ČSN 73 6005 - Priestorová úprava vedenia technického vybavenia.
+- 1) ČSN 73 6760 Vnútorná kanalizácia.
 
-- 2) ČSN 73 7505 - Kolektory pre združené trasy mestských podzemných vedení.
+- 2) Napríklad parkovacie a umývacie plochy, pieskoviská, parky, ihriská, dvory, záhradky.
 
-- 3) Smernice Štátneho výboru pre výstavbu a Ústrednej správy vodného hospodárstva č. 129/1957 Ú.v. o spôsobe plánovania, financovania, projektovania a robenia vodovodných a kanalizačných prípojok.
+- 3) § 8 vyhlášky Ministerstva vnútra SSR č. 93/1970 Zb. o určovaní názvov obcí a ich častí, ulíc a iných verejných priestranstiev a o číslovaní budov.
 
-- 4) Hydroforová stanica je čerpacie zariadenie miestneho významu zabezpečujúce automatickú dodávku vody v potrebnom tlaku tlakovou nádobou. ON 73 6521 - Názvoslovie vodohospodárstva.
+- 4) Vyhláška Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 136/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve.
 
-- 5) Kanalizačná prečerpávacia stanica je čerpacie zariadenie miestneho významu na prečerpávanie odpadových vôd z nehnuteľností do vyššie uložených stokových sietí verejnej kanalizácie.
+- Výnos Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky č. 38 z 12. 12. 1987 o financovaní komunálnej bytovej výstavby technického a občianskeho vybavenia oznámený v čiastke 26/1987 Zb.
 
-- 6) § 69 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 163/1973 Zb. o dokumentácii stavieb, § 43 vyhlášky č. 104/1973 Zb., ktorou sa vydávajú základné podmienky dodávky stavebných prác, a § 4 ods. 3 vyhlášky Slovenského úradu geodézie a kartografie č. 11/1974 Zb. o geodetických prácach vo výstavbe.
+- 5) § 3 vyhlášky Federálneho ministerstva financií č. 119/1988 Zb. o hospodárení s národným majetkom.
+
+- 6) § 349 a 350 Hospodárskeho zákonníka.
+
+- § 407 Občianskeho zákonníka.
 
 - 7) ČSN 73 0402 - Názvoslovie mapovania.
 
