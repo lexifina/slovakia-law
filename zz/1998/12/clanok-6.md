@@ -1,0 +1,3 @@
+# Čl. VI
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 328/1991 Zb. o konkurze a vyrovnaní, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 471/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 91/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 122/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 159/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 190/1995 Z. z., zákonom Národnej rady Slovenskej republiky č. 58/1996 Z. z., zákonom Národnej rady Slovenskej republiky č. 118/1996 Z. z., zákonom Národnej rady Slovenskej republiky č. 292/1996 Z. z. a týmto zákonom.
