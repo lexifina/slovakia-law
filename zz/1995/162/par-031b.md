@@ -8,7 +8,7 @@ návrh nepodal účastník konania,
 
 b)
 
-účastník konania odstúpil od zmluvy pred vydaním rozhodnutia o návrhu na vklad,
+účastník konania odstúpil od zmluvy<sup>10d</sup>) pred vydaním rozhodnutia o návrhu na vklad,
 
 c)
 

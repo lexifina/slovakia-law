@@ -36,11 +36,17 @@
 
 - 10c) § 62 až 69 zákona č. 71/1967 Zb.
 
+- 10d) § 48 Občianskeho zákonníka.
+
+- 10e) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 10f) § 152 ods. 1, § 159, § 167 ods. 2 a § 175zca ods. 4 Občianskeho súdneho poriadku.
+
 - 11) § 2 ods. 1 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam v znení neskorších predpisov.§ 63 zákona Slovenskej národnej rady č. 323/1992 Zb.
 
 - 12) Napríklad zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 13) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 13a) Zákon č. 64/1997 Z. z. o užívaní pozemkov v zriadených záhradkových osadách a o vyporiadaní vlastníctva k nim v znení zákona č. 224/2001 Z. z.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 15/1993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
 
@@ -52,7 +58,7 @@
 
 - 18) Zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
-- 19) § 11 ods. 4 písm. c) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+- 19) § 21 až 24 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
 - 20) Príloha č. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -60,6 +66,10 @@
 
 - Vyhláška Slovenského úradu geodézie a kartografie č. 82/1973 Zb. o overovaní geometrických plánov a iných výsledkov geodetických prác.
 
+- 21a) § 8 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
 - 22) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
 
 - 23) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 24) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení neskorších predpisov.
