@@ -8,7 +8,7 @@
 
 - 1da) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
 
-- 1e) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov.
+- 1e) Zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov.
 
 - 1f) Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
