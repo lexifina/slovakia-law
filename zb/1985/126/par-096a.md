@@ -5,3 +5,5 @@
 (2) Na čele mestského požiarneho zboru je veliteľ, ktorého na návrh primátora vymenúva do funkcie na dobu neurčitú a odvoláva z nej mestské zastupiteľstvo. Veliteľ mestského požiarneho zboru zodpovedá za svoju činnosť primátorovi.
 
 (3) Organizáciu, riadenie a početné stavy mestského požiarneho zboru upraví mestské zastupiteľstvo v štatúte; v tomto štatúte môže upraviť tiež úlohy mestského požiarneho zboru.
+
+(4) Pôsobnosť okresnej správy Zboru požiarnej ochrany uvedenú v § 27 písm. b) a d), § 67 ods. 1 a 2, § 73 ods. 2 a úlohy jednotiek požiarnej ochrany uvedené v § 70 tohto zákona plní na území hlavného mesta Slovenskej republiky Bratislavy a mesta Košíc Mestský požiarny zbor.
