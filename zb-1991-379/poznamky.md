@@ -1,0 +1,1 @@
+- 4) Např. § 3 zákona č. 174/1968 Sb., o státním odborném dozoru nad bezpečností práce, zákon č. 105/1990 Sb., o soukromém podnikání občanů, ve znění zákona č. 219/1991 Sb., zákon č. 111/1990 Sb., o státním podniku.
