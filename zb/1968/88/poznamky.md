@@ -6,9 +6,9 @@
 
 - 1b) § 42 ods. 2 a 3 zákona o nemocenskom poistení a § 71 až 74 vyhlášky č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení.
 
-- **) § 44 vyhlášky č. 143/1965 Zb.
+- 1c) § 44 vyhlášky č. 143/1965 Zb.
 
-- ***) § 23 vyhlášky č. 143/1965 Zb.
+- 1d) § 23 vyhlášky č. 143/1965 Zb.
 
 - ***) Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách.
 
