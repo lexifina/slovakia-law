@@ -1,0 +1,3 @@
+Minister:
+
+Večeřa v. r.
