@@ -1,0 +1,1 @@
+- 1) Vyhláška ministra hutníckeho priemyslu a rudných baní č. 93/1962 Zb. o štátnej službe pre drahé kovy.
