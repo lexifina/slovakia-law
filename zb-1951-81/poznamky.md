@@ -1,0 +1,1 @@
+- *) Na stranách 45 a 87.
