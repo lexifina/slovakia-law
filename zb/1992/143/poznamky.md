@@ -8,6 +8,10 @@
 
 - Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
+- 2a) Napríklad zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
+
+- 2b) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 231/1995 Z. z.
+
 - 3) Napríklad zákon Českej národnej rady č. 391/1991 Zb. o platových pomeroch sudcov, štátnych notárov, justičných a notárskych čakateľov, zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov.
 
 - 4) Napríklad zákon č. 100/1970 Zb. o služobnom pomere príslušníkov Zboru národnej bezpečnosti v znení neskorších predpisov, zákon Českej národnej rady č. 283/1991 Zb. o Polícii Českej republiky, zákon č. 334/1991 Zb. o služobnom pomere policajtov zaradených vo Federálnom policajnom zbore a v Zbore hradnej polície, zákon Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
@@ -15,6 +19,10 @@
 - 5) § 244 Zákonníka práce.
 
 - 6) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde.
+
+- 6a) § 3 ods. 2 zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení zákona Slovenskej národnej rady č. 194/1992 Zb., zákona Národnej rady Slovenskej republiky č. 189/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 197/1995 Z. z.
+
+- 6b) § 16 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
 
 - 7) § 9 ods. 3 Zákonníka práce.
 
@@ -31,3 +39,5 @@
 - 12) Napríklad zákon Českej národnej rady č. 37/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami, zákon Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
 - 13) § 95 ods. 1 až 3 Zákonníka práce.
+
+- 14) Zákon č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb., zákona č. 513/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 62/1993 Z. z.
