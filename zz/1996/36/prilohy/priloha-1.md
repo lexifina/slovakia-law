@@ -90,9 +90,13 @@
 
   - Článok 14
 
-    - Na žiadosť jednej zo zmluvných strán sa splnomocnení zástupcovia zmluvných strán budú striedavo stretávať na území svojich štátov na zhodnotenie plnenia tejto dohody a prijatie nevyhnutných opatrení na jej vykonávanie.
+    - Zmluvné strany v záujme realizácie tejto dohody vytvoria zmiešanú medzivládnu komisiu pre obchodno-hospodársku a vedecko-technickú spoluprácu medzi Slovenskou republikou a Uzbeckou republikou. Medzivládna komisia sa bude skladať z predstaviteľov zmluvných strán a svoje zasadnutia uskutoční podľa potreby striedavo na území jednej zo zmluvných strán. Medzivládna komisia určí pravidlá na uskutočnenie stretnutí a prijme štatút.
 
   - Článok 15
+
+    - Na žiadosť jednej zo zmluvných strán sa splnomocnení zástupcovia zmluvných strán budú striedavo stretávať na území svojich štátov na zhodnotenie plnenia tejto dohody a prijatie nevyhnutných opatrení na jej vykonávanie.
+
+  - Článok 16
 
     - 1. Zmluvné strany odporúčajú svojim subjektom riešiť spory predovšetkým priateľským spôsobom, prostredníctvom rokovaní.
 
@@ -102,13 +106,13 @@
 
       - b) použiť arbitrážne predpisy vypracované Komisiou Organizácie Spojených národov pre medzinárodné obchodné právo (UNCITRAL) a získať arbitráž jedného zo zúčastnených štátov Konvencie pre uznanie a vykonávanie zahraničných arbitrážnych rozhodnutí (New York 1958).
 
-  - Článok 16
+  - Článok 17
 
     - Ustanovenia tejto dohody sa vzťahujú na všetky kontrakty, ktoré budú uzatvorené počas platnosti dohody a nesplnené do skončenia jej platnosti.
 
     - Zmeny a doplnky tejto dohody sa musia vykonávať na základe vzájomného písomného súhlasu oboch zmluvných strán.
 
-  - Článok 17
+  - Článok 18
 
     - Táto dohoda nadobúda platnosť dňom jej podpísania. Dohoda sa uzatvára na dobu neurčitú a bude platiť až do skončenia šiestich mesiacov odo dňa, keď jedna zo zmluvných strán písomne upovedomí druhú zmluvnú stranu o svojom želaní zrušiť jej platnosť.
 
