@@ -1,0 +1,1 @@
+- 16a) § 21 odst. 2 zákona ČNR č. 61/1988 Sb., ve znění zákona ČNR č. 542/1991 Sb.
