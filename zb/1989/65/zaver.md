@@ -1,0 +1,3 @@
+Minister:
+
+Koyš v. r.
