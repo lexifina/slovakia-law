@@ -1,53 +1,51 @@
-- POVINNÉ VÝTLAČKY NEPERIODICKÝCH PUBLIKÁCIÍ A NOSIČOV AUDIOVIZUÁLNYCH DIEL Príloha č. 2
+- POVINNÉ VÝTLAČKY NEPERIODICKÝCH PUBLIKÁCIÍ A ROZMNOŽENÍN AUDIOVIZUÁLNYCH DIEL Príloha č. 2
 
-- k zákonu č. 212/1997 Z. z.
+- k zákonu č. 212/1997 Z. z. a znení zákona č. 182/2000 Z. z.
 
-- Druh | Určená | Počet
+- Druh | Určená právnická osoba | Počet povinných výtlačkov a nosičov
 
-- | právnická | povinných
+- Tlačoviny, napr. knihy, hudobniny, kartografické diela, grafika, špeciálne tlače, vedecké a vysokoškolské kvalifikačné práce vydané tlačou, cestovné a výskumné správy vydané tlačou | Slovenská národná knižnica | 2
 
-- | osoba | výtlačkov
+- | Univerzitná knižnica v Bratislave | 2
 
-- | &nbsp | a nosičov
+- | Ústredná knižnica Slovenskej akadémie vied | 1
 
-- Tlačoviny, ako napr. | Univerzitná knižnica v Bratislave | 2
+- | Štátna vedecká knižnica v Banskej Bystrici | 1
 
-- knihy, hudobniny, | Slovenská národná knižnica | &nbsp
+- | Štátna vedecká knižnica v Košiciach | 1
 
-- kartografické diela, | v Matici slovenskej | 2
+- | Štátna vedecká knižnica v Prešove | 1
 
-- grafika, špeciálne tlače, | Parlamentná knižnica | 1
+- | Krajská štátna knižnica v Nitre | 1
 
-- firemná literatúra, | Štátna vedecká knižnica v Banskej Bystrici | 1
+- | Štátna krajská knižnica v Trenčíne | 1
 
-- normatívne dokumenty, | Ústredná knižnica Slovenskej akadémie vied | 1
-
-- vedecké a vysokoškolské | Krajská štátna knižnica v Košiciach | 1
-
-- kvalifikačné práce vydané | Krajská štátna knižnica v Nitre | 1
-
-- tlačou, cestovné a výskumné | Krajská vedecká knižnica v Prešove | 1
-
-- správy vydané tlačou | Krajská štátna knižnica v Trenčíne | 1
-
-- &nbsp | Krajská štátna knižnica v Trnave | 1
+- | Krajská štátna knižnica v Trnave | 1
 
 - | Krajská štátna knižnica vo Zvolene | 1
 
 - | Krajská štátna knižnica v Žiline | 1
 
-- Rozmnoženiny audiovizuálnych diel, | Univerzitná knižnica v Bratislave | 1
+- | Parlamentná knižnica Národnej rady Slovenskej republiky | 1
 
-- multimediálnych diel | Slovenská národná knižnica | &nbsp
+- | Slovenská pedagogická knižnica | 1
 
-- (najmä audiokazety, | v Matici slovenskej | 1
+- Firemná literatúra (určená verejnosti), normatívne dokumenty | Slovenská národná knižnica | 2
 
-- videokazety, CD-ROM) | Národné centrum pre audiovizuálne umenie | 1
+- | Centrum vedecko-technických informácií | 1
 
-- Publikácie v Braillovom písme | Slovenská národná knižnica | &nbsp
+- | Krajská štátna knižnica v Košiciach | 1
 
-- &nbsp | v Matici slovenskej | 1
+- Rozmnoženiny audiovizuálnych diel, multimediálnych diel (najmä videokazety, audiokazety, céderomy) videokazety audiokazety | Slovenská národná knižnica | 1
 
-- | Ústredná knižnica pre nevidiacich M. Hrebendu, | &nbsp
+- | Univerzitná knižnica v Bratislave | 1
 
-- | Levoča | 1
+- | Národné centrum pre audiovizuálne umenie | 1
+
+- | Slovenská knižnica pre nevidiacich Mateja Hrebendu v Levoči | 1
+
+- Publikácie v Braillovom písme | Slovenská národná knižnica | 1
+
+- | Univerzitná knižnica v Bratislave | 1
+
+- | Slovenská knižnica pre nevidiacich Mateja Hrebendu v Levoči | 1
