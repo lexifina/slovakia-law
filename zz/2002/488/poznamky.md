@@ -30,6 +30,8 @@
 
 - 14) § 13 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 184/1993 Z. z.
 
+- 14a) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
+
 - 15) § 25 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení zákona č. 23/2002 Z. z.
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 184/1993 Z. z.
@@ -53,3 +55,5 @@
 - 24) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 25) § 2 ods. 2 Obchodného zákonníka.
+
+- 1) Smernice Rady sú preložené do slovenského jazyka; do úradného prekladu v slovenskom jazyku možno nahliadnuť v sídle Inštitútu pre aproximáciu práva Úradu vlády Slovenskej republiky, Námestie slobody 1/29, Bratislava.

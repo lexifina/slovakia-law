@@ -37,5 +37,3 @@ Príloha č. 1
 - Hemoragická choroba jeleňov
 
 - Venezuelská encefalomyelitída koní
-
-[Príloha 02](../assets/3f728890dae5635fd1d204191967feb0ab343909286187d51898fce8ee6c6f3a.pdf)
