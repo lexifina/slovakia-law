@@ -20,6 +20,8 @@
 
 - 11) § 28 a 29 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.§ 32 zákona Národnej rady Slovenskej republiky č. 115/1995 Z. z.
 
+- 11a) Nariadenie vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov.
+
 - 12) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 13) § 4 ods. 3 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
