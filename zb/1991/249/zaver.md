@@ -1,0 +1,3 @@
+Ministerka:
+
+Woleková v. r.
