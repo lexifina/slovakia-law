@@ -26,8 +26,6 @@
 
 - Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 12) Zákon č. 99/1963 Zb. v znení neskorších predpisov (Občiansky súdny poriadok).
-
 - 13) Napr. zákon č. 526/1990 Zb. o cenách.
 
 - 14) § 18 ods. 2 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. v znení neskorších predpisov.
