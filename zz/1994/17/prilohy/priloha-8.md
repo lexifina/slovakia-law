@@ -65,3 +65,5 @@ Príloha č. 8 vyhlášky č. 17/1994 Z. z.
 - a) | pojazdné kontrolné jednotky, |
 
 - b) | pojazdné dielne, laboratóriá. |
+
+- 11. Kombajny na žatvu a mlátenie (položka colného sadzobníka 84335100) na vykonanie žatevných prác.
