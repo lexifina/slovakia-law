@@ -1,0 +1,1 @@
+- *) Napríklad zákon č. 23/1962 Zb. a vyhláška č. 62/1964 Zb.
