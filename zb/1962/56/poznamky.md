@@ -1,1 +1,0 @@
-- *) Nové úlohy občianskych dopravných inšpektorov upraví Ústredná rada odborov.
