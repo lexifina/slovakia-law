@@ -44,6 +44,10 @@
 
 - 4) Pozri článok 21 ods. 5 tohto protokolu. V prípade, ak sa nevyžaduje podpis vývozcu, platí táto výnimka i na uvedenie mena.
 
+- 3) Lichtenštajnské kniežatstvo má colnú úniu so Švajčiarskom a je zmluvnou stranou Dohody o Európskom hospodárskom priestore.
+
+- 4) Kumulácia uvedená v tomto článku sa neuplatňuje na materiály pôvodné v Turecku, ktoré sú uvedené v zozname v prílohe V k tomuto protokolu.
+
 - 1) Okrem zvierat na koridu.
 
 - 2) Len na druh domácich ošípaných.

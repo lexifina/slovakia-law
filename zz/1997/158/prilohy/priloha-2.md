@@ -24,7 +24,7 @@ g) „hodnota materiálov“ znamená colnú hodnotu použitých nepôvodných m
 
 h) „hodnota pôvodných materiálov“ znamená hodnotu týchto materiálov určenú podľa písmena g), uplatňovanú mutatis mutandis,
 
-i) „pridanou hodnotou“ sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov, ktoré nie sú pôvodné v krajine, v ktorej boli výrobky získané,
+i) „pridanou hodnotou“ sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov, ktoré sú pôvodné v ostatných krajinách uvedených v článkoch 3 a 4, alebo ak colná hodnota nie je známa alebo sa nedá zistiť, znížená o prvú cenu preukázateľne zaplatenú za tieto výrobky v Spoločenstve alebo v Slovenskej republike,
 
 j) „kapitoly“ a „čísla“ znamenajú kapitoly a čísla (štvormiestne kódy) používané v nomenklatúre Harmonizovaného systému opisu a číselného označovania tovarov (ďalej nazývaného v tomto protokole „Harmonizovaný systém“ alebo „HS“),
 
@@ -56,25 +56,33 @@ a) výrobky úplne získané v Slovenskej republike v zmysle článku 5,
 
 b) výrobky získané v Slovenskej republike obsahujúce materiály, ktoré v nej neboli úplne získané, za predpokladu, že takéto materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu v Slovenskej republike v zmysle článku 6.
 
-Článok 3
+- Článok 3
 
-Dvojstranná kumulácia pôvodu
+Kumulácia v Európskom spoločenstve
 
-1. Materiály pôvodné v Spoločenstve sa pokladajú za pôvodné v Slovenskej republike, ak sú obsiahnuté v nej získanom výrobku. Nie je potrebné, aby také materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu za predpokladu, že boli podrobené opracovaniu alebo spracovaniu presahujúcemu operácie uvedené v článku 7 ods. 1.
+- 1. Výrobky sa považujú za pôvodné v Spoločenstve, ak tam boli získané a ak obsahujú materiály pôvodné v Spoločenstve, Bulharsku, Poľsku, Maďarsku, Českej republike, Slovenskej republike, Rumunsku, Litve, Lotyšsku, Estónsku, Slovinsku, na Islande, v Nórsku, vo Švajčiarsku (vrátane Lichtenštajnska)<sup>3</sup>) alebo v Turecku<sup>4</sup>) v súlade s ustanoveniami Protokolu o pravidlách pôvodu, ktorý tvorí prílohu k dohode medzi Spoločenstvom a každou z týchto krajín, za podmienky, že opracovanie alebo spracovanie vykonané v Spoločenstve presahuje operácie uvedené v článku 7 tohto protokolu. Nie je potrebné, aby sa tieto materiály podrobili dostatočnému opracovaniu alebo spracovaniu. Ustanovenia článku 2 ods. 1 tým nie sú dotknuté.
 
-2. Materiály pôvodné v Slovenskej republike sa pokladajú za pôvodné v Spoločenstve, ak sú obsiahnuté v ňom získanom výrobku. Nie je potrebné, aby také materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu za predpokladu, že boli podrobené opracovaniu alebo spracovaniu presahujúcemu operácie uvedené v článku 7 ods. 1.
+- 2. Ak opracovanie alebo spracovanie vykonané v Spoločenstve nepresahuje operácie uvedené v článku 7, získaný výrobok sa považuje za pôvodný v Spoločenstve, len ak hodnota tam pridaná je vyššia, ako je hodnota použitých materiálov pôvodných v ktorejkoľvek z krajín uvedených v odseku 1. Ak to tak nie je, získaný výrobok sa považuje za pôvodný v tej krajine, ktorej pôvodné materiály použité vo výrobe v Spoločenstve predstavujú najvyššiu hodnotu.
 
-Článok 4
+3. Výrobky pôvodné v jednej z krajín uvedených v odseku 1, ktoré neboli podrobené žiadnemu opracovaniu alebo spracovaniu v Spoločenstve, si zachovajú svoj pôvod, ak sú vyvezené do niektorej z týchto krajín.
 
-Diagonálna kumulácia pôvodu
+4. Kumulácia podľa tohto článku sa môže uplatniť len na materiály a výrobky, ktoré získali štatút pôvodu uplatnením pravidiel pôvodu, ktoré sú identické s pravidlami podľa tohto protokolu.
 
-1. S výhradou ustanovení odsekov 2 a 3 sa materiály pôvodné v Poľsku, Maďarsku, Českej republike, Bulharsku, Rumunsku, Litve, Lotyšsku, Estónsku, Slovinsku, Islande, Nórsku alebo vo Švajčiarsku v zmysle dohôd medzi Spoločenstvom a Slovenskou republikou a týmito krajinami považujú za pôvodné v Spoločenstve alebo v Slovenskej republike, ak sú obsiahnuté v nich získanom výrobku. Nie je potrebné, aby také materiály boli podrobené dostatočnému opracovaniu alebo spracovaniu.
+Spoločenstvo poskytne Slovenskej republike prostredníctvom Komisie Európskych spoločenstiev podrobnosti o dohodách a im zodpovedajúcich pravidlách pôvodu, ktoré uplatňuje s ostatnými krajinami uvedenými v odseku 1. Komisia Európskych spoločenstiev uverejní v Úradnom vestníku Európskych spoločenstiev (séria C) dátum, od ktorého môžu kumuláciu uvedenú v tomto článku uplatňovať krajiny uvedené v odseku 1, ktoré splnili nevyhnutné požiadavky.
 
-2. Výrobky, ktoré získali charakter pôvodu podľa odseku 1, sa ďalej považujú za výrobky pôvodné v Spoločenstve alebo v Slovenskej republike iba vtedy, ak v nich získaná pridaná hodnota presahuje hodnotu použitých materiálov pôvodných v ktorejkoľvek z ostatných krajín uvedených v odseku 1. Ak táto podmienka nie je splnená, uvedené výrobky sa považujú za pôvodné v tej krajine uvedenej v odseku 1, v ktorej bol pridaný najvyšší podiel hodnoty. Pri určovaní krajiny pôvodu sa neberie do úvahy hodnota materiálov pôvodných v ostatných krajinách vymenovaných v odseku 1, ktoré boli podrobené dostatočnému opracovaniu alebo spracovaniu v Spoločenstve alebo v Slovenskej republike.
+- Článok 4
 
-3. Kumulácia ustanovená v tomto článku sa môže uplatniť iba vtedy, ak použité materiály získajú štatút pôvodného výrobku pri použití rovnakých pravidiel pôvodu, aké sú použité v tomto protokole. Spoločenstvo a Slovenská republika si prostredníctvom Európskej komisie navzájom oznámia podrobné informácie o dohodách a im zodpovedajúcich pravidlách pôvodu uzavretých s ostatnými krajinami uvedenými v odseku 1.
+Kumulácia v Slovenskej republike
 
-4. Európska komisia uverejní v Úradnom vestníku Európskych spoločenstiev (séria C) dátum, od ktorého krajiny uvedené v odseku 1 budú spĺňať podmienky uvedené v odseku 3.
+- 1. Výrobky sa považujú za pôvodné v Slovenskej republike, ak tam boli získané a ak obsahujú materiály pôvodné v Spoločenstve, Bulharsku, Poľsku, Maďarsku, Českej republike, Slovenskej republike, Rumunsku, Litve, Lotyšsku, Estónsku, Slovinsku, na Islande, v Nórsku, vo Švajčiarsku (vrátane Lichtenštajnska)<sup>3</sup>) alebo v Turecku<sup>4</sup>) v súlade s ustanoveniami Protokolu o pravidlách pôvodu, ktorý tvorí prílohu k dohode medzi Slovenskou republikou a každou z týchto krajín, za podmienky, že opracovanie alebo spracovanie vykonané v Slovenskej republike presahuje operácie uvedené v článku 7 tohto protokolu. Nie je potrebné, aby sa tieto materiály podrobili dostatočnému opracovaniu alebo spracovaniu. Ustanovenia článku 2 ods. 2 tým nie sú dotknuté.
+
+- 2. Ak opracovanie alebo spracovanie vykonané v Slovenskej republike nepresahuje operácie uvedené v článku 7, získaný výrobok sa považuje za pôvodný v Slovenskej republike, len ak hodnota tam pridaná je vyššia, ako je hodnota použitých materiálov pôvodných v ktorejkoľvek z krajín uvedených v odseku 1. Ak to tak nie je, získaný výrobok sa považuje za pôvodný v tej krajine, ktorej pôvodné materiály použité vo výrobe v Slovenskej republike predstavujú najvyššiu hodnotu.
+
+- 3. Výrobky pôvodné v jednej z krajín uvedených v odseku 1, ktoré neboli podrobené žiadnemu opracovaniu alebo spracovaniu v Slovenskej republike, si zachovajú svoj pôvod, ak sú vyvezené do niektorej z týchto krajín.
+
+- 4. Kumulácia podľa tohto článku sa môže uplatniť len na materiály a výrobky, ktoré získali štatút pôvodu uplatnením pravidiel pôvodu, ktoré sú identické s pravidlami podľa tohto protokolu.
+
+- Slovenská republika poskytne Spoločenstvu prostredníctvom Komisie Európskych spoločenstiev podrobnosti o dohodách a im zodpovedajúcich pravidlách pôvodu, ktoré uplatňuje s ostatnými krajinami uvedenými v odseku 1. Komisia Európskych spoločenstiev uverejní v Úradnom vestníku Európskych spoločenstiev (séria C) dátum, od ktorého môžu kumuláciu uvedenú v tomto článku uplatňovať krajiny uvedené v odseku 1, ktoré splnili nevyhnutné požiadavky.
 
 Článok 5
 
@@ -206,23 +214,43 @@ HLAVA III
 
 ÚZEMNÉ POŽIADAVKY
 
-Článok 12
+- Článok 12
 
 Územný princíp
 
-1. Podmienky ustanovené v hlave II týkajúce sa získania štatútu pôvodu musia byť v Spoločenstve alebo v Slovenskej republike splnené bez prerušenia okrem ustanovení článku 2 ods. 1 písm. c) a článku 4.
+- 1. Podmienky na získanie štatútu pôvodu ustanovené v hlave II musia byť v Spoločenstve alebo v Slovenskej republike splnené po celý čas bez prerušenia s výnimkou ustanovení článku 2 ods. 1 písm. c), článkov 3 a 4 a odseku 3 tohto článku.
 
-2. Pôvodný tovar vyvezený zo Spoločenstva alebo zo Slovenskej republiky do inej krajiny, ktorý sa vracia späť, okrem ustanovení článku 4 sa považuje za nepôvodný, ak nemožno uspokojivo preukázať colným orgánom, že
+- 2. Ak sa pôvodný tovar vyvezený zo Spoločenstva alebo zo Slovenskej republiky do inej krajiny vracia späť, musí sa považovať s výnimkou ustanovení článkov 3 a 4 za nepôvodný, ak nie je možné uspokojivo preukázať colným orgánom, že
 
-a) späť dovážaný tovar je totožný s vyvezeným a
+a) tovar vracajúci sa späť je totožný s tovarom vyvezeným a
 
 b) nebol podrobený inej operácii ako operácii nevyhnutnej na jeho uchovanie v dobrom stave v danej krajine alebo pri vývoze.
+
+3. Získanie štatútu pôvodu podľa podmienok uvedených v hlave II nie je dotknuté opracovaním alebo spracovaním vykonaným mimo územia Spoločenstva alebo Slovenskej republiky na materiáloch vyvezených zo Spoločenstva alebo zo Slovenskej republiky a následne tam späť dovezených za predpokladu, že
+
+a) uvedené materiály sú úplne získané v Spoločenstve alebo v Slovenskej republike alebo boli podrobené opracovaniu alebo spracovaniu presahujúcemu rámec nedostatočných operácií uvedených v článku 7 skôr, ako boli vyvezené, a
+
+b) colným orgánom možno uspokojivo preukázať, že
+
+i) späť dovezený tovar bol získaný opracovaním alebo spracovaním vyvezených materiálov a
+
+ii) celková pridaná hodnota získaná mimo Spoločenstva alebo Slovenskej republiky uplatnením ustanovení tohto článku nepresahuje 10 % ceny zo závodu konečného výrobku, pre ktorý sa štatút pôvodu požaduje.
+
+4. Na účely odseku 3 sa podmienky na získanie štatútu pôvodu podľa hlavy II neuplatnia na opracovanie alebo na spracovanie vykonané mimo Spoločenstva alebo Slovenskej republiky. Ak však pravidlo v zozname v prílohe II ustanovuje najvyššiu hodnotu všetkých použitých nepôvodných materiálov pri určení štatútu pôvodu konečného výrobku, celková hodnota nepôvodných materiálov použitých na území príslušnej strany spolu s celkovou pridanou hodnotou získanou mimo Spoločenstva alebo Slovenskej republiky pri uplatnení ustanovení tohto článku nesmie presiahnuť uvedené percento.
+
+5. Na účely uplatnenia ustanovení odsekov 3 a 4 sa „celkovou pridanou hodnotou“ rozumejú všetky náklady vzniknuté mimo Spoločenstva alebo Slovenskej republiky vrátane hodnoty materiálov, ktoré sa tam použili.
+
+6. Ustanovenia odsekov 3 a 4 sa neuplatnia na výrobky, ktoré nespĺňajú podmienky uvedené v zozname v prílohe II alebo ktoré možno považovať za dostatočne opracované alebo spracované len uplatnením všeobecných hodnôt uvedených v článku 6 ods. 2.
+
+7. Ustanovenia odsekov 3 a 4 sa neuplatnia na výrobky patriace do kapitol 50 až 63 Harmonizovaného systému.
+
+8. Akékoľvek opracovanie alebo spracovanie podľa ustanovení tohto článku uskutočnené mimo Spoločenstva alebo Slovenskej republiky sa musí vykonať v režime pasívneho zušľachťovacieho styku alebo podľa obdobného postupu.
 
 Článok 13
 
 Priama doprava
 
-1. Preferenčné zaobchádzanie ustanovené dohodou sa týka iba výrobkov spĺňajúcich požiadavky tohto protokolu, ktoré sa prepravujú priamo medzi Spoločenstvom a Slovenskou republikou alebo cez územia iných krajín uvedených v článku 4. Výrobky tvoriace jednu zásielku sa však môžu prepravovať cez iné územia vrátane preloženia alebo dočasného uskladnenia na týchto územiach, ak sú pod dohľadom colných orgánov v krajine tranzitu alebo uskladnenia a ak s nimi nie sú uskutočňované iné operácie, ako vykladanie, opätovné nakladanie, alebo akékoľvek operácie určené na ich uchovanie v dobrom stave.
+- 1. Preferenčné zaobchádzanie ustanovené dohodou sa týka iba výrobkov spĺňajúcich požiadavky tohto protokolu, ktoré sa prepravujú priamo medzi Spoločenstvom a Slovenskou republikou alebo cez územia iných krajín uvedených v článkoch 3 a 4. Výrobky tvoriace jednu zásielku sa však môžu prepravovať cez iné územia vrátane preloženia alebo dočasného uskladnenia na týchto územiach, ak sú pod dohľadom colných orgánov v krajine tranzitu alebo uskladnenia a ak s nimi nie sú uskutočňované iné operácie, ako vykladanie, opätovné nakladanie, alebo akékoľvek operácie určené na ich uchovanie v dobrom stave.
 
 Pôvodné výrobky sa môžu dopravovať potrubím cez iné územia, ako sú územia Spoločenstva alebo Slovenskej republiky.
 
@@ -244,7 +272,7 @@ c) iných preukazných dokladov, ak nemožno predložiť už uvedené doklady.
 
 Výstavy
 
-1. Pôvodné výrobky odoslané na výstavu do inej krajiny, než sú krajiny uvedené v článku 4, a následne predané a dovezené do Spoločenstva alebo do Slovenskej republiky, majú nárok na uplatnenie preferencií podľa tejto dohody za predpokladu, že colným orgánom sa uspokojivým spôsobom preukáže, že
+- 1. Pôvodné výrobky odoslané na výstavu do inej krajiny, než sú krajiny uvedené v článkoch 3 a 4, a následne predané a dovezené do Spoločenstva alebo do Slovenskej republiky, majú nárok na uplatnenie preferencií podľa tejto dohody za predpokladu, že colným orgánom sa uspokojivým spôsobom preukáže, že
 
 a) vývozca odoslal tieto výrobky zo Spoločenstva alebo zo Slovenskej republiky do krajiny, kde sa koná výstava, a vystavil ich v tejto krajine,
 
@@ -268,7 +296,7 @@ Zákaz vrátenia cla alebo oslobodenia od cla
 
 1.
 
-a) Nepôvodné materiály použité na výrobu výrobkov pôvodných v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článku 4, pre ktoré je vydaný alebo vystavený dôkaz o pôvode podľa ustanovení hlavy V, nepodliehajú v Spoločenstve ani v Slovenskej republike vráteniu cla alebo oslobodeniu od cla akéhokoľvek druhu.
+a) Nepôvodné materiály použité na výrobu výrobkov pôvodných v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článkoch 3 a 4, pre ktoré je vydaný alebo vystavený dôkaz o pôvode podľa ustanovení hlavy V, nepodliehajú v Spoločenstve ani v Slovenskej republike vráteniu cla alebo oslobodeniu od cla akéhokoľvek druhu.
 
 b) Výrobky patriace do kapitoly 3 a čísel 1604 a 1605 Harmonizovaného systému, pôvodné v Spoločenstve podľa článku 2 ods. 1 písm. c), na ktoré bol vydaný alebo vystavený dôkaz o pôvode podľa ustanovení hlavy V, nepodliehajú v Spoločenstve vráteniu cla ani oslobodeniu od cla akéhokoľvek druhu.
 
@@ -286,7 +314,7 @@ a) ak ide o výrobky zaradené do kapitol 25 až 49 a 64 až 97 Harmonizovaného
 
 b) ak ide o výrobky zaradené do kapitol 50 až 63 Harmonizovaného systému, zachová sa 10 % sadzba colných platieb alebo nižšia sadzba, ktorá je platná v Slovenskej republike.
 
-Tento odsek sa bude uplatňovať do 31. decembra 1998 a môže sa po vzájomnej dohode prehodnotiť.
+Tento odsek sa bude uplatňovať do 31. decembra 2000 a môže sa po vzájomnej dohode prehodnotiť.
 
 HLAVA V
 
@@ -314,7 +342,7 @@ Postup pri vydávaní sprievodného osvedčenia EUR. 1
 
 3. Vývozca žiadajúci o vydanie sprievodného osvedčenia EUR. 1 je povinný kedykoľvek na požiadanie colných orgánov vyvážajúcej krajiny, v ktorej sa sprievodné osvedčenie EUR. 1 vydáva, predložiť všetky potrebné doklady preukazujúce pôvod predmetných výrobkov a splnenie ostatných požiadaviek tohto protokolu.
 
-4. Sprievodné osvedčenie EUR. 1 vydávajú colné orgány členského štátu Európskeho spoločenstva alebo Slovenskej republiky v prípade, ak vyvážané výrobky možno považovať za výrobky pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článku 4 a ak sú splnené ostatné podmienky tohto protokolu.
+- 4. Sprievodné osvedčenie EUR. 1 vydávajú colné orgány členského štátu Európskeho spoločenstva alebo Slovenskej republiky v prípade, ak vyvážané výrobky možno považovať za výrobky pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článkoch 3 a 4 a ak sú splnené ostatné podmienky tohto protokolu.
 
 5. Vydávajúce colné orgány prijmú všetky opatrenia nevyhnutné na kontrolu pôvodu výrobkov a na overenie splnenia všetkých ostatných podmienok tohto protokolu. Na tieto účely majú právo požadovať akékoľvek podklady a vykonať akúkoľvek kontrolu účtov vývozcu či akúkoľvek inú kontrolu, ktorú považujú za účelnú. Colné orgány vydávajúce sprievodné osvedčenia EUR. 1 zaručia, aby formuláre uvedené v odseku 2 boli správne vyplnené. Skontrolujú predovšetkým, či je priestor určený na opis výrobkov vyplnený takým spôsobom, aby bola vylúčená možnosť dodatočného neoprávneného doplnenia.
 
@@ -382,7 +410,7 @@ a) schválený vývozca podľa článku 22 alebo
 
 b) ktorýkoľvek vývozca na akúkoľvek zásielku skladajúcu sa z jedného alebo z viacerých nákladových kusov a obsahujúcu pôvodné výrobky, ktorých celková hodnota nepresahuje 6 000 ECU.
 
-2. Vyhlásenie na faktúre sa môže vystaviť, ak príslušné výrobky možno považovať za pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článku 4 a ak sú splnené ostatné podmienky tohto protokolu.
+- 2. Vyhlásenie na faktúre sa môže vystaviť, ak príslušné výrobky možno považovať za pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článkoch 3 a 4 a ak sú splnené ostatné podmienky tohto protokolu.
 
 3. Vývozca vystavujúci vyhlásenie na faktúre je povinný kedykoľvek na požiadanie colných orgánov vyvážajúcej krajiny predložiť všetky nevyhnutné doklady preukazujúce pôvod výrobkov a splnenie všetkých ostatných podmienok tohto protokolu.
 
@@ -432,7 +460,7 @@ V prípade, keď sa na žiadosť dovozcu a za podmienok určených colnými org�
 
 Oslobodenie od dôkazu o pôvode
 
-1. Výrobky zasielané ako malé zásielky súkromnými osobami súkromným osobám alebo tvoriace časť osobnej batožiny cestujúcich sa pokladajú za pôvodné výrobky bez predloženia dôkazu o pôvode za predpokladu, že tieto výrobky nie sú dovážané na obchodné účely, boli vyhlásené za výrobky spĺňajúce požiadavky tohto protokolu a neexistujú žiadne pochybnosti o pravdivosti takého vyhlásenia. V prípade výrobkov zasielaných poštou môže byť toto vyhlásenie uvedené na colnom vyhlásení C2/CP3 alebo na liste, ktorý sa pripojí k tomuto dokladu.
+- 1. Výrobky zasielané ako malé zásielky súkromnými osobami súkromným osobám alebo tvoriace časť osobnej batožiny cestujúcich sa pokladajú za pôvodné výrobky bez predloženia dôkazu o pôvode za predpokladu, že tieto výrobky nie sú dovážané na obchodné účely, boli vyhlásené za výrobky spĺňajúce požiadavky tohto protokolu a neexistujú žiadne pochybnosti o pravdivosti takého vyhlásenia. V prípade výrobkov zasielaných poštou môže byť toto vyhlásenie uvedené na colnom vyhlásení CN22/CN23 alebo na liste, ktorý sa pripojí k tomuto dokladu.
 
 2. Dovozy, ktoré sú príležitostné a skladajú sa výhradne z výrobkov na uspokojenie osobných potrieb príjemcov alebo cestujúcich, alebo ich rodín, sa nepovažujú za obchodné, ak je z povahy a množstva výrobkov zrejmé, že nejde o obchodný účel dovozu.
 
@@ -442,7 +470,7 @@ Oslobodenie od dôkazu o pôvode
 
 Podporné dokumenty
 
-Dokladmi uvedenými v článku 17 ods. 3 a v článku 21 ods. 3, ktoré preukazujú, že výrobky uvedené v sprievodnom osvedčení EUR. 1 alebo na faktúre s vyhlásením vývozcu sa môžu považovať za výrobky pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článku 4 a že spĺňajú ostatné požiadavky tohto protokolu, inter alia môžu byť
+Dokladmi uvedenými v článku 17 ods. 3 a v článku 21 ods. 3, ktoré preukazujú, že výrobky uvedené v sprievodnom osvedčení EUR. 1 alebo na faktúre s vyhlásením vývozcu sa môžu považovať za výrobky pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článkoch 3 a 4 a že spĺňajú ostatné požiadavky tohto protokolu, inter alia môžu byť
 
 a) priame dôkazy o činnostiach vykonávaných vývozcom alebo dodávateľom pri získavaní tovarov, tvoriace napríklad súčasť jeho účtovníctva,
 
@@ -450,7 +478,7 @@ b) doklady preukazujúce pôvod použitých materiálov, vydané alebo vystaven�
 
 c) doklady preukazujúce opracovanie alebo spracovanie materiálov v Spoločenstve alebo Slovenskej republike, vydané alebo vystavené v Spoločenstve alebo Slovenskej republike, kde sa také doklady používajú v súlade s vnútroštátnymi právnymi predpismi,
 
-d) sprievodné osvedčenie EUR. 1 alebo vyhlásenia na faktúre, preukazujúce pôvod použitých materiálov, vydané alebo vystavené v Spoločenstve alebo Slovenskej republike v súlade s týmto protokolom, alebo v jednej z krajín uvedených v článku 4 v súlade s pravidlami pôvodu, ktoré sú zhodné s pravidlami pôvodu tohto protokolu.
+d) sprievodné osvedčenie EUR. 1 alebo vyhlásenia na faktúre, preukazujúce pôvod použitých materiálov, vydané alebo vystavené v Spoločenstve alebo Slovenskej republike v súlade s týmto protokolom, alebo v jednej z krajín uvedených v článkoch 3 a 4 v súlade s pravidlami pôvodu, ktoré sú zhodné s pravidlami pôvodu tohto protokolu.
 
 Článok 28
 
@@ -478,7 +506,7 @@ Sumy vyjadrené v ECU
 
 1. Sumy v národnej mene vyvážajúcej krajiny, ktoré zodpovedajú sumám vyjadreným v ECU, určí vyvážajúca krajina a oznámi ich dovážajúcim krajinám prostredníctvom Európskej komisie.
 
-2. Ak tieto sumy prevyšujú zodpovedajúce sumy určené dovážajúcou krajinou, uzná ich táto krajina za predpokladu, ak sú výrobky fakturované v mene vyvážajúcej krajiny. Ak sú výrobky fakturované v mene niektorej členskej krajiny Európskeho spoločenstva alebo jednej z krajín uvedených v článku 4, uzná dovážajúca krajina sumu oznámenú touto krajinou.
+- 2. Ak tieto sumy prevyšujú zodpovedajúce sumy určené dovážajúcou krajinou, uzná ich táto krajina za predpokladu, ak sú výrobky fakturované v mene vyvážajúcej krajiny. Ak sú výrobky fakturované v mene niektorej členskej krajiny Európskeho spoločenstva alebo jednej z krajín uvedených v článkoch 3 a 4, uzná dovážajúca krajina sumu oznámenú touto krajinou.
 
 3. Sumy vyjadrené v ktorejkoľvek národnej mene sú ekvivalentom tejto národnej meny voči ECU podľa kurzu platného v prvý pracovný deň mesiaca októbra 1995.
 
@@ -508,7 +536,7 @@ Overovanie dôkazov o pôvode
 
 4. Ak sa rozhodnú colné orgány dovážajúcej krajiny pozastaviť uplatnenie preferenčného zaobchádzania s dotknutými výrobkami až do výsledku overenia, dovozcovi prepustia výrobky po splnení podmienok, ktoré považujú za nevyhnutné.
 
-5. Colné orgány žiadajúce o preverenie majú byť informované o ich výsledkoch čo najskôr. Z výsledkov musí byť zrejmé, či sú dokumenty pravé, či možno výrobky uvedené v nich považovať za pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článku 4 a či sú splnené ostatné podmienky tohto protokolu.
+- 5. Colné orgány žiadajúce o preverenie majú byť informované o ich výsledkoch čo najskôr. Z výsledkov musí byť zrejmé, či sú dokumenty pravé, či možno výrobky uvedené v nich považovať za pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článkoch 3 a 4 a či sú splnené ostatné podmienky tohto protokolu.
 
 6. Ak v prípadoch opodstatnených pochybností nedostanú colné orgány dovážajúcej krajiny žiadnu odpoveď do desiatich mesiacov od dátumu žiadosti o preverenie alebo ak odpoveď nebude obsahovať dostatočné informácie na určenie pravosti predmetného dokumentu alebo skutočného pôvodu výrobkov, nepriznajú žiadajúce colné orgány nárok na preferencie okrem prípadov s výnimočnými okolnosťami.
 
@@ -686,6 +714,8 @@ syntetické chemické nekonečné vlákna,
 
 umelé chemické nekonečné vlákna,
 
+elektricky vodivé vlákna,
+
 syntetické chemické strižné vlákna z polypropylénu,
 
 syntetické chemické strižné vlákna z polyesteru,
@@ -731,10 +761,6 @@ Všívaná textília čísla 5802 z bavlnenej priadze čísla 5205 a bavlnenej t
 Príklad:
 
 Ak spomínaná všívaná textília bola vyrobená z bavlnenej priadze čísla 5205 a syntetickej tkaniny čísla 5407, potom je zrejmé, že použité priadze sú dva samostatné textilné materiály a všívaná textília je preto zmesovým výrobkom.
-
-Príklad:
-
-Všívaný koberec so slučkami z umelých priadzí, bavlnených priadzí a jutového podkladu je zmesovým výrobkom, pretože sú použité tri základné textilné materiály. Akýkoľvek nepôvodný materiál z vyššieho štádia spracovania, než určuje pravidlo, môže byť použitý za predpokladu, že jeho celková hmotnosť nepresiahne 10 % hmotnosti textilných materiálov koberca. Preto jutový podklad a/alebo umelé priadze môžu byť dovezené v štádiu výroby, ak spĺňajú hmotnostnú požiadavku.
 
 5.3. Ak výrobky obsahujú „priadzu z polyuretánu segmentovanú pružnými prvkami polyéteru, tiež opradenú“, je tolerancia vzťahujúca sa na takú priadzu 20 %.
 
@@ -893,6 +919,100 @@ Vývozca výrobkov uvedených v tomto dokumente (číslo povolenia ... (<sup>1</
 (Podpis vývozcu, ako aj čitateľné meno
 
 osoby, ktorá vyhlásenie podpisuje)
+
+PRÍLOHA V
+
+ZOZNAM VÝROBKOV POCHÁDZAJÚCICH Z TURECKA, NA KTORÉ SA NEUPLATŇUJÚ USTANOVENIA ČLÁNKOV 3 A 4, UVEDENÝCH PODĽA KAPITOL A ČÍSIEL HS
+
+kapitola 1 |
+
+kapitola 2 |
+
+kapitola 3 |
+
+0401 až 0402 |
+
+ex 0403 - | Cmar, kyslé mlieko a smotana, jogurt, kefír a ostatné skvasené alebo acidofilné mlieko a smotana, tiež zahustené alebo s prídavkom cukru alebo iných sladidiel
+
+0404 až 0410 |
+
+0504 |
+
+0511 |
+
+kapitola 6 |
+
+0701 až 0709 |
+
+ex 0710 - | Zelenina okrem sladkej kukurice položky 0710 40 00 (tiež varená vo vode alebo v pare), mrazená
+
+ex 0711 - | Zelenina okrem sladkej kukurice položky 0711 90 30 dočasne konzervovaná (napríklad oxidom siričitým, v slanom náleve, sírnou vodou alebo iným konzervačným roztokom), ale v tomto stave nevhodná na okamžitú spotrebu
+
+0712 až 0714 |
+
+kapitola 8 |
+
+ex kapitola 9 - | Káva, čaj a korenie okrem mate čísla 0903
+
+kapitola 10 |
+
+kapitola 11 |
+
+kapitola 12 |
+
+ex 1302 - | Pektínové látky, pektináty a pektany
+
+1501 až 1514 |
+
+ex 1515- | Ostatné stále rastlinné tuky a oleje (s výnimkou jojobového oleja a jeho frakcií) a ich frakcie, tiež rafinované, ale chemicky neupravené
+
+ex 1516- | Živočíšne alebo rastlinné tuky a oleje a ich frakcie, čiastočne alebo úplne hydrogenované, interesterifikované, reesterifikované alebo elaidinizované, tiež rafinované, ale inak neupravené, s výnimkou hydrogenovaného ricínového oleja známeho ako „opalwax"
+
+ex 1517 a |
+
+ex 1518- | Margaríny, napodobneniny bravčovej masti a ostatné pripravené jedlé tuky
+
+ex 1522 - | Zvyšky po spracovaní tukových látok alebo živočíšnych alebo rastlinných voskov s výnimkou degrasa
+
+kapitola 16 |
+
+1701 |
+
+ex 1702 - | Ostatné cukry, vrátane chemicky čistej laktózy, maltózy, glukózy a fruktózy v pevnom stave; cukrové sirupy (tekuté cukry) bez prísad dochucujúcich látok alebo farbív; umelý med, tiež zmiešaný s prírodným medom; karamel s výnimkou podpoložiek 1702 11 00, 1702 30 51, 1702 30 59, 1702 50 00 a 1702 90 10
+
+1703 |
+
+1801 a 1802 |
+
+ex 1902 - | Cestoviny plnené, obsahujúce viac ako 20 % hmotnosti rýb, kôrovcov, mäkkýšov alebo iných vodných bezstavovcov, párkov a podobných údenárskych výrobkov alebo mäsa a drobkov akéhokoľvek druhu vrátane tukov akéhokoľvek druhu
+
+ex 2001 - | Uhorky a nakladačky, cibuľa, „chutney" z manga, plody rodu Capsicum iné ako sladké paprikové struky, huby a olivy, pripravené alebo konzervované v octe alebo v kyseline octovej
+
+2002 a 2003 |
+
+ex 2004 - | Ostatná zelenina pripravená alebo konzervovaná inak ako v octe alebo v kyseline octovej, mrazena, Iná ako výrobky čísla 2006, s výnimkou zemiakov vo forme múky, krupice alebo vločiek a sladkej kukurice
+
+ex 2005 - | Ostatná zelenina pripravená alebo konzervovaná inak ako v octe alebo v kyseline octovej, nemra-zená, iná ako výrobky čísla 2006, s výnimkou výrobkov zo zemiakov vo forme múky, krupice alebo vločiek a sladkej kukurice
+
+2006 a 2007 |
+
+ex 2008 - | Ovocie, orechy a iné jedlé časti rastlín, inak pripravené alebo konzervované, tiež s prísadou cukru alebo iných sladidiel, alebo alkoholu, inde neuvedené ani nezahrnuté, s výnimkou arašidového masla, palmových jadier, kukurice, batátov, sladkých zemiakov a podobných jedlých častí rastlín obsahujúcich aspoň 5 % hmotnosti škrobu, listy viniča, chmeľové výhonky a ostatné jedlé časti rastlín
+
+2009 |
+
+ex 2106-2204 | Ochutené a prifarbené cukry, sirupy a melasy
+
+2206 |
+
+ex 2207 - | Nedenaturovaný etylalkohol s objemovým alkoholometrickým titrom 80 % a viac, získaný z poľnohospodárskej produkcie tu uvedenej
+
+ex 2208 -2209 | Nedenaturovaný etylalkohol s objemovým alkoholometrickým titrom menším ako 80 %, získaný z poľnohospodárskej produkcie tu uvedenej
+
+kapitola 23 2401 |
+
+4501 |
+
+5301 a 5302 |
 
 SPOLOČNÉ VYHLÁSENIE
 
