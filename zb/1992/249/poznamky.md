@@ -36,6 +36,20 @@
 
 - 9h) § 27 ods. 1 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
+- 9i) Zákon č. 172/1990 Zb. v znení neskorších predpisov.
+
+- 9j) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
+
+- 9k) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+
+- 9l) § 56 ods. 5 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 80/2000 Z. z.
+
+- 9m) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- 9n) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o sociálnej poisťovni v znení neskorších predpisov.
+
+- 9o) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
 - 10) Nariadenie vlády Slovenskej republiky č. 227/1992 Zb. o poskytovaní osobitného príplatku za prácu v sťažených a zdraviu škodlivých pracovných podmienkach.
 
 - 11) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii.
