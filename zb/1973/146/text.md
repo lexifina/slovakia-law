@@ -50,7 +50,7 @@ Presun pracovného voľna a pracovného času
 
 Odmeňovanie práce v ďalšej smene a pri presune pracovného času
 
-(14) Pracovníkovi, ktorý v dôsledku presunu pracovného času (odsek 11) bude pracovať v nedeľu, neprislúcha za prácu konanú v tento deň mzdové zvýhodnenie práce cez soboty a nedele;<sup>1</sup>) tento deň sa nepovažuje za deň pracovného pokoja ani pre odmeňovanie práce nadčas.
+(14) Pracovníkovi, ktorý v dôsledku presunu pracovného času (odsek 11) bude pracovať v nedeľu, neprislúcha za prácu konanú v tento deň mzdové zvýhodnenie práce cez soboty a nedele;<sup>1</sup>) tento deň sa nepovažuje za deň pracovného pokoja ani pre odmeňovanie práce nadčas. Pracovníkovi, ktorému sa poskytuje mzdové zvýhodnenie za prácu cez soboty a nedele, prislúcha však toto mzdové zvýhodnenie za prácu v piatok 30. augusta.
 
 (15) Za prácu v ďalšej smene podľa odseku 1 prislúcha pracovníkovi mzda vo výške určenej mzdovými predpismi. Pracovníkovi odmeňovanému mesačnou mzdou sa v súvislosti s odpracovaním ďalšej pracovnej smeny jeho základná mzda nezvyšuje.
 
