@@ -4,4 +4,4 @@
 
 (2) Mestské volebné komisie v Bratislave a v Košiciach odovzdávajú zápisnicu o výsledku volieb podľa odseku 1 Ústrednej volebnej komisii.
 
-(3) Mestské volebné komisie v Bratislave a v Košiciach musia mať najmenej päť členov. Ak sa mestská volebná komisia v Bratislave alebo v Košiciach nevytvorí podľa § 14 ods. 1, vymenuje zostávajúcich členov prednosta krajského úradu.
+(3) Mestské volebné komisie v Bratislave a v Košiciach musia mať najmenej päť členov. Ak sa mestská volebná komisia v Bratislave alebo v Košiciach nevytvorí podľa § 14 ods. 1, vymenuje zostávajúcich členov primátor.

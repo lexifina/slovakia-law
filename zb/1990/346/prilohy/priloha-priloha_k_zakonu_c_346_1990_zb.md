@@ -1,19 +1,19 @@
 Príloha k zákonu č. 346/1990 Zb.
 
-- Minimálny počet podpisov voličov podporujúcich kandidatúru nezávislých kandidátov pre voľby do obecného (mestského) zastupiteľstva
+- Minimálny počet podpisov voličov podporujúcich kandidatúru nezávislých kandidátov pre voľby do obecného (mestského) zastupiteľstva a voľby starostu obce (primátora)
 
-Obec s počtom obyvateľov | Počet podpisov voličov na petícii
+Počet obyvateľov obce | Počet podpisov voličov na petícii
 
-do 100 | 10
+do 50 | 10
 
-101-500 | 20
+51 - 100 | 20
 
-501-2 000 | 50
+101 - 500 | 40
 
-2 001-10 000 | 100
+501 - 2 000 | 100
 
-10 001-20 000 | 200
+2 001 - 20 000 | 200
 
-20 001-30 000 | 300
+20 001 - 100 000 | 400
 
-za každých ďalších čo i len začatých 10 000 | ďalších 100
+nad 100 000 | 600

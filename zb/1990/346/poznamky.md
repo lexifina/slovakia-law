@@ -6,9 +6,9 @@
 
 - 3) § 10 a 855 Občianskeho zákonníka.
 
-- 3a) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
+- 3a) § 4 a 5, § 6 ods. 1, § 8 ods. 1 a 2 zákona Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov.
 
-- 3b) Napríklad zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení zákona č. 70/1997 Z. z., Trestný poriadok, Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení zákona č. 173/1968 Zb., zákona č. 100/1970 Zb., zákona č. 47/1973 Zb. zákona č. 179/1990 Zb., zákona Národnej rady Slovenskej republiky č. 296/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 33/1994 Z. z.
+- 3b) § 200f Občianskeho súdneho poriadku.
 
 - 3c) § 2 ods. 1 písm. a) a c) zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
@@ -18,7 +18,7 @@
 
 - 4) § 11 ods. 2 a § 30 ods.1 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
-- 4a) Zákon č. 85/1990 Zb. o petičnom práve.
+- 4a) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
 - 4d) § 12 až 16 zákona č. 424/1991 Zb. o združovaní v politických stranách a v politických hnutiach v znení neskorších predpisov.
 

@@ -10,6 +10,6 @@
 
 - c) miestnej (mestskej) volebnej komisie vymenúva a odvoláva starosta obce (primátor) spravidla zo zamestnancov obce,
 
-- d) okrskovej volebnej komisie vymenúva a odvoláva starosta obce (primátor) zo zamestnancov obce.
+- d) okrskovej volebnej komisie vymenúva a odvoláva starosta obce (primátor) spravidla zo zamestnancov obce.
 
 (3) Zapisovateľa Ústrednej volebnej komisie vymenuje vláda Slovenskej republiky najneskôr 70 dní predo dňom volieb; zapisovateľov podľa odseku 2 písm. b) až d) treba vymenovať v dostatočnom predstihu tak, aby mohli plniť úlohy podľa tohto zákona. Pri rokovaní volebných komisií má zapisovateľ právo poradného hlasu. Zapisovateľ skladá sľub spôsobom a v znení uvedenom v § 11 ods. 5.
