@@ -34,6 +34,8 @@
 
 - 11e) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
 
+- 11f) Napríklad zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
 - 12) Napr. čl. 10 Ústavy ČSFR č. 100/1960 Zb. v znení neskorších ústavných zákonov, § 11a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb., § 46a zákona SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona SNR č. 525/1990 Zb.
 
 - 13) § 198 a nasl. Občianskeho zákonníka.
@@ -70,7 +72,7 @@
 
 - 20) Čl. 4 ods. 3 ústavného zákona č. 143/1968 Zb. v znení neskorších predpisov.
 
-- 21) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 21) Zákon č. 431/2002 Z. z. o účtovníctve.
 
 - 21a) Zákon Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
 
@@ -87,6 +89,12 @@
 - 22) § 2 ods. 2 a § 3 zákona SNR č. 377/1990 Zb. v znení zákona SNR č. 523/1990 Zb.
 
 - § 2 ods. 2 zákona SNR č. 401/1990 Zb.
+
+- 22a) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
+- 22b) § 281 až 288 Obchodného zákonníka.
+
+- 22c) § 116 Občianskeho zákonníka.
 
 - 23) § 2 zákona SNR č. 369/1990 Zb.
 
@@ -143,6 +151,8 @@
 - Zákon č. 44/1988 Zb. v znení zákona SNR č. 498/1991 Zb.
 
 - 33) § 76 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 33a) § 3 ods. 2 písm. d) bod 2 zákona Slovenskej národnej rady č. 518/1990 Zb.
 
 - 34) Ústavný zákon č. 541/1992 Zb. o delení majetku Českej a Slovenskej Federatívnej Republiky medzi Českú republiku a Slovenskú republiku a jeho prechode na Českú republiku a Slovenskú republiku.Ústavný zákon č. 542/1992 Zb. o zániku Českej a Slovenskej Federatívnej Republiky.
 

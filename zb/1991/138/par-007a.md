@@ -1,17 +1,17 @@
 # § 7a
 
-(1) Obec je povinná zachovať účelové určenie majetku, ktorý nadobudla podľa § 2b ods. 1 a ktorý ku dňu prechodu majetku Slovenskej republiky na obec slúži na výchovno-vzdelávací proces v oblasti vzdelávania a výchovy a činnosti s nimi bezprostredne súvisiace<sup>19c</sup>) a na zabezpečenie sociálnej pomoci a zdravotnej starostlivosti.
+(1) Obec je povinná zachovať účelové určenie majetku, ktorý nadobudla podľa § 2b ods. 1 a § 2c a ktorý ku dňu prechodu majetku Slovenskej republiky na obec slúži na výchovno-vzdelávací proces v oblasti vzdelávania a výchovy a činnosti s nimi bezprostredne súvisiace<sup>19c</sup>) a na zabezpečenie sociálnej pomoci a zdravotnej starostlivosti.
 
-(2) Povinnosť podľa odseku 1 sa skončí na základe
+(2) Povinnosť podľa odseku 1 sa skončí na základe rozhodnutia obecného zastupiteľstva
 
-- a) zrušenia školy alebo školského zariadenia po vyradení školy alebo školského zariadenia zo siete škôl alebo školských zariadení podľa osobitného zákona,<sup>21a</sup>)
+- a) o zmene účelového určenia majetku uvedeného v odseku 1,
 
-- b) udelenia súhlasu príslušného orgánu na odňatie objektu zariadenia sociálnych služieb jeho účelu,<sup>21b</sup>)
+- b) o vklade majetku uvedeného v odseku 1 do obchodnej spoločnosti alebo o jeho použití na založenie inej právnickej osoby,
 
-- c) zrušenia iného zariadenia ako zariadenia uvedeného v písmenách a) a b) spôsobom upraveným osobitným zákonom,
+- c) o prebytočnosti nehnuteľnej veci uvedenej v odseku 1,
 
-- d) rozhodnutia obecného zastupiteľstva, ak ide o hnuteľné veci, ktoré sú prebytočné alebo neupotrebiteľné.
+- d) o prebytočnosti alebo neupotrebiteľnosti hnuteľnej veci uvedenej v odseku 1, ak jej zostatková cena je vyššia ako 100 000 Sk; pri nižšej zostatkovej cene o prebytočnosti alebo o neupotrebiteľnosti takejto hnuteľnej veci rozhoduje zamestnanec určený zásadami prijatými podľa § 9 ods. 1.
 
 (3) Ak prejde do vlastníctva obcí majetok Slovenskej republiky podľa § 2b ods. 2, môže účelové určenie majetku ustanoviť osobitný zákon.
 
-(4) Na majetok uvedený v odseku 1 nemožno zriadiť záložné právo<sup>21c</sup>) ani zabezpečovací prevod práva,<sup>21d</sup>) uskutočniť výkon rozhodnutia, konkurzné konanie a vyrovnacie konanie podľa osobitných zákonov.<sup>21e</sup>)
+(4) Na majetok vo vlastníctve obce uvedený v odseku 1 nemožno zriadiť záložné právo<sup>21c</sup>) ani zabezpečovací prevod práva,<sup>21d</sup>) uskutočniť výkon rozhodnutia, konkurzné konanie a vyrovnacie konanie podľa osobitných zákonov.<sup>21e</sup>)
