@@ -2,9 +2,9 @@
 
 - 1a) § 12 a nasl. zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 305/1991 Zb., zákona č. 578/1991 Zb., zákona č. 231/1992 Zb.
 
-- 1b) § 3 ods. 2 písm. a) až d) zákona č. 463/1991 Zb. o životnom minime.
+- 1b) § 5 písm. c) až e) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
 
-- 1c) § 3 ods. 2 písm. e) zákona č. 463/1991 Zb.
+- 1c) § 5 písm. a) zákona č. 125/1998 Z. z.
 
 - 2) § 706 ods. 1 a § 708 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
