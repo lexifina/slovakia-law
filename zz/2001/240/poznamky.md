@@ -6,6 +6,8 @@
 
 - 4) Napríklad zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov, zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
+- 4a) Článok 119 Ústavy Slovenskej republiky.
+
 - 5) Napríklad zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 6) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
