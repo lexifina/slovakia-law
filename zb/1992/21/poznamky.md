@@ -80,6 +80,8 @@
 
 - 9d) § 32 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
+- 9e) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
 - 10) § 244 a 247 Občianskeho súdneho poriadku.
 
 - 11) § 186 a 187 Obchodného zákonníka.
