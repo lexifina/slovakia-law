@@ -1,0 +1,1 @@
+- *) T. j. dnem 27. Března 1936. Změny provedené vládním nařízením č. 171/1946 Sb. nabývají účinnosti dnem jeho vyhlášení.
