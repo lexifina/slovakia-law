@@ -70,8 +70,6 @@
 
 - 23) § 2 ods. 1 písm. b) nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení nariadenia vlády Slovenskej republiky č. 645/1992 Zb.
 
-- 23a) Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov.
-
 - 24) § 49 ods. 2 zákona č. 100/1988 Zb.
 
 - 25) Napríklad § 61 a 130 Zákonníka práce.
