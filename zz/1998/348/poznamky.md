@@ -18,6 +18,6 @@
 
 - 10) § 3a ods. 4 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
 
-- 11) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov, zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch, § 79 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
+- 11) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z., § 79 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 12) § 50 ods. 1 písm. a) a § 51 vyhlášky Federálneho ministerstva spojov č. 108/1982 Zb., ktorou sa vydáva Telefónny poriadok.
