@@ -216,6 +216,40 @@ Príloha č. 2
 
 - brest | 2,0
 
+- rasca lúčna | 1,5
+
+- mätohon mnohokvetý x kostrava lúčna | 0,37
+
+- kostrava trstinová | 0,37
+
+- náprstník vlnatý | 2,0
+
+- sibylum mariánske | 2,0
+
+- broskyňomandloň | 2,0
+
+- drieň obyčajný | 1,5
+
+- muškát krúžkovaný | 4,0
+
+- ranostaj pestrý | 0,42
+
+- ľuľok baklažánový (baklažán) | 4,0
+
+- gaštan jedlý | 1,5
+
+- višňa | 1,5
+
+- mandloň obyčajná | 1,5
+
+- myrobalán | 1,5
+
+- nátržník | 4,0
+
+- vajgélia | 4,0
+
+- povojník purpurový | 2,0
+
 - (2) Za ďalších päť rokov obchodného využívania je podiel na finančnom prínose 30 % zo sadzby uvedenej v odseku 1.
 
 - (3) Za zostávajúce roky obchodného využívania je podiel na finančnom prínose 10 % zo sadzby uvedenej v odseku 1.
