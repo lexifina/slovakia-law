@@ -12,7 +12,7 @@ Vláda Československej socialistickej republiky po prerokovaní s Ústrednou ra
 
 Úprava pracovného času
 
-(1) Pracovný čas určený podľa vyhlášky č. 63/1968 Zb. o zásadách pre skracovanie týždenného pracovného času a pre zavádzanie prevádzkových a pracovných režimov s päťdenným pracovným týždňom alebo podľa vyhlášky č. 62/1966 Zb. o zásadách pre skracovanie pracovného času a pre úpravu pracovných a prevádzkových režimov, alebo podľa ďalších predpisov vydaných ústrednými orgánmi na skrátenie týždenného pracovného času sa upravuje v roku 1975 tak, že pracovnými dňami sú aj soboty pripadajúce na 5. apríl, 27. september a 15. november.
+(1) Pracovný čas určený podľa vyhlášky č. 63/1968 Zb. o zásadách pre skracovanie týždenného pracovného času a pre zavádzanie prevádzkových a pracovných režimov s päťdenným pracovným týždňom alebo podľa vyhlášky č. 62/1966 Zb. o zásadách pre skracovanie pracovného času a pre úpravu pracovných a prevádzkových režimov, alebo podľa ďalších predpisov vydaných ústrednými orgánmi na skrátenie týždenného pracovného času sa upravuje v roku 1975 tak, že pracovnými dňami sú aj soboty pripadajúce na 22. marec, 5. apríl, 27. september a 27. december.
 
 (2) Dĺžka ďalších pracovných smien v dňoch uvedených v predchádzajúcom odseku sa rovná dĺžke smeny určenej v organizácii na piatok, ktorý tejto smene predchádza.
 
@@ -30,11 +30,11 @@ Vláda Československej socialistickej republiky po prerokovaní s Ústrednou ra
 
 Presun pracovného voľna a pracovného času
 
-(9) V roku 1975 sa presúva
+(9) V roku 1975 sú
 
-- a) pracovné voľno zo soboty 25. októbra na pondelok 27. októbra a pracovný čas z pondelka 27. októbra na sobotu 25. októbra a
+- a) pracovnými dňami nedeľa 4. mája a 28. decembra a
 
-- b) pracovné voľno z nedele 28. decembra na stredu 24. decembra a pracovný čas zo stredy 24. decembra na nedeľu 28. decembra.
+- b) dňami pracovného pokoja piatok 2. mája a streda 24. decembra.
 
 (10) Presun pracovného voľna a pracovného času sa nevzťahuje na pracovníkov na pracoviskách s nepretržitou prevádzkou.
 
@@ -52,7 +52,7 @@ Odmieňanie práce
 
 (16) Pracovníkovi, ktorý v dôsledku presunu pracovného času podľa odseku 9 bude pracovať v sobotu alebo v nedeľu, nepatrí za prácu vykonávanú v tieto dni mzdové zvýhodnenie za prácu cez soboty a nedele;<sup>1</sup>) ani pri odmieňaní práce nadčas sa tieto dni nepovažujú za dni pracovného pokoja.
 
-Pracovníkovi, ktorému podľa mzdových predpisov patrí mzdové zvýhodnenie za prácu cez soboty a nedele, patrí toto zvýhodnenie za prácu v pondelok 27. októbra a v stredu 24. decembra.
+Pracovníkovi, ktorému podľa mzdových predpisov patrí mzdové zvýhodnenie za prácu cez soboty a nedele, patrí toto zvýhodnenie za prácu v piatok 2. mája a v stredu 24. decembra.
 
 Úprava pracovného času 31. decembra 1975
 
