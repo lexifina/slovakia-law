@@ -20,6 +20,8 @@ Dňom 29. 12. 1995 vo vzájomných vzťahoch medzi Slovenskou republikou a Rumun
 
 Dňom 22.11. 1996 stráca táto zmluva platnosť vo vzájomných vzťahoch medzi Slovenskou republikou a Ukrajinou (oznámenie MZV SR č. 173/1997 Z. z.).
 
+Dňom 1. 5. 1997 vo vzťahoch medzi Slovenskou republikou a Ruskou federáciou stratili platnosť ustanovenia tejto zmluvy (oznámenie MZV SR č. 31/1998 Z. z.).
+
 Minister:
 
 Ing. Chňoupek v. r.
