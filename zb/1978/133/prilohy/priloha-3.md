@@ -1,5 +1,5 @@
-Príloha č. 2 vykonávacích predpisov
+Príloha 2
 
-VYROZUMENIE č. ......................... (dátum) o vydaní rozhodnutia o vydaní ochranného dokumentu
+UPOVEDOMENIE č. o vydaní rozhodnutia o udelení ochranného dokumentu
 
-[VZOR 02](../assets/b2498e5964da6b72ca82468dc5915190a81e94fdad0298449b38b1bd9717f0cc.pdf)
+[Vzor 02](../assets/13a5ab8cdadf2aabd82c81dad8daaf49350790079ff3b59ee4472cd36ad31ab3.pdf)
