@@ -1,0 +1,1 @@
+- *) Ak tehotná družstevníčka vykonáva prácu, ktorá je tehotným ženám zakázaná alebo ktorá podľa lekárskeho posudku ohrozuje jej tehotnosť, je družstvo povinné podľa Zákonníka práce (§ 153 ods. 1 a § 162) previesť ju dočasne na prácu, ktorá je pre ňu vhodná a pri ktorej môže dosahovať rovnaké pracovné odmeny ako na doterajšej práci.
