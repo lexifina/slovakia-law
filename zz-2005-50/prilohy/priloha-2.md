@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 50/2005 Z. z. VZOR OSVEDČENIE o autorizácii na výkon kontroly kvality živočíšnych produktov ![vzor 02](../assets/574d5ef577c82c28abb16bd33cbc8c8194c8856a189529d363dbda8739de5d20.jpg)

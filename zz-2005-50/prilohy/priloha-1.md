@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 50/2005 Z. z. VZOR OSVEDČENIE o autorizácii na výkon kontroly kvality rastlinných produktov ![vzor 01](../assets/b9555bdfb7debda224de785a01a8f9767bd08d4308653196882bd6ec92c94b02.jpg)
