@@ -1,0 +1,1 @@
+- *) Tu sa vyhlasuj e slovenské znenie.
