@@ -1,0 +1,1 @@
+- 2) Změny provedené zákonem č. 245/1946 Sb. nabývají účinnosti dnem 9. ledna 1947.
