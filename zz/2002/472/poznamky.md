@@ -6,9 +6,13 @@
 
 - 4) § 2 zákona č. 238/2001 Z. z. Colný zákon.
 
+- 4a) Nariadenie Rady (ES) č. 1798/2003 zo 7. októbra 2003 o administratívnej spolupráci v oblasti dane z pridanej hodnoty a ktoré ruší nariadenie (EHS) č. 218/1992 (Úradný vestník Európskej únie, L 264, 15/11/2003).
+
 - 5) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 6) Trestný poriadok.
+
+- 6a) Zákon č. 428/2002 Z. z. v znení zákona č. 602/2003 Z. z. § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 7) § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
