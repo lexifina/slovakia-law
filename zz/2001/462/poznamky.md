@@ -1,0 +1,1 @@
+- 1) § 24 ods. 2 zákona č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov.
