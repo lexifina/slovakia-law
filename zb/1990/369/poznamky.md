@@ -1,6 +1,6 @@
-- 1) Napr. zákon SNR č. 544/1990 Zb. o miestnych poplatkoch.
+- 1) Zákon Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky.
 
-- 2) Zákon Slovenskej národnej rady č. 130/1970 Zb. o územnom členení Slovenskej republiky.
+- 2) Zákon SNR č. 517/1990 Zb.
 
 - 3) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
@@ -8,15 +8,27 @@
 
 - 5) Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
 
+- 5a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
+
+- Zákon Slovenskej národnej rady č. 494/1991 Z. z. o štátnej správe v odpadovou hospodárstve.
+
 - 6) Napr. § 30 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
 
 - 7) Zákon č. 15/1990 Zb. o politických stranách.
 
 - 8) § 2 ods. 1 zákona č. 83/1990 Zb. o združovaní občanov.
 
-- 9) § 2 Hospodárskeho zákonníka.
+- 8a) § 14 a nasl. zákona č. 60/1965 Zb. o prokuratúre v znení neskorších predpisov.
+
+- Štvrtá časť zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 9a) Napr. § 11 ods. 1 zákona SNR č. 517/1990 Zb., § 128 Občianskeho súdneho poriadku (úplné znenie č. 70/1992 Zb.).
 
 - 10) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách.
+
+- 10a) § 20 ods. 1 zákona č. 563/1991 Zb. o účtovníctve.
+
+- § 2 ods. 2 písm. a) zákona Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov.
 
 - 11) Zákon č. 85/1990 Zb. o petičnom práve.
 
@@ -28,10 +40,18 @@
 
 - 15) § 5 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 16) § 27 ods. 4 Zákonníka práce.
+- 15a) Zákon č. 71/1967 Zb.
 
-- 17) § 76 ods. 2 Trestného poriadku.
+- 16) § 27 ods. 3 Zákonníka práce.
+
+- 17) § 20f až 20j Občianskeho zákonníka.
 
 - 18) § 5 ods. 1 zákona Slovenskej národnej rady č. 27/1987 Zb.
 
-- 19) Zákon č. 71/1967 Zb.
+- 18a) § 48 ods. 1 písm. c) a § 49 písm. a) Zákonníka práce
+
+- 19) Zákon č. 60/1965 Zb. o prokuratúre v znení neskorších predpisov.
+
+- 20) § 14 ods. 5 zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
+
+- § 13 ods. 4 zákona Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.

@@ -14,24 +14,14 @@ Príloha B zákona SNR č. 369/1990 Zb. Pol. | na úseku štátnej správy | pre
 
 5. | -"- | -"- | 55 ods. 2 | prijímanie ohlásení pri drobných stavbách, pri stavebných úpravách, ktorými sa nemení vzhľad stavby, a pri niektorých udržiavacích prácach
 
-6. | -"- | -"- | 57 ods. 1 a 2 | určovanie, že ohlásenú drobnú stavbu, stavebnú úpravu alebo udržiavacie práce možno uskutočniť len na základe stavebného povolenia, a oznamovanie o tom, že proti uskutočneniu drobných stavieb alebo stavebných úprav nie sú námietky
+6. | -"- | -"- | 57 ods. 1 a 2 | určovanie, že ohlásenú drobnú stavbu, stavebnú úpravu alebo udržiavacie práce možno uskutocniť len na základe stavebného povolenia, a oznamovanie o tom, že proti uskutočneniu drobných stavieb alebo stavebných úprav nie sú námietky
 
-7. | -"- | -"- | 71 ods. 1 písm. c) | povoľovanie informačných, reklamných a propagačných zariadení, ak sa umiestňujú na miestach viditeľných verejných priestorov a ak sú spojené so stavbou alebo pozemkom
+7. | -"- | -"- | 71 ods. 1 písm. c) | povoľovanie informačných, reklamných a propagačných zariadení, ak sa umiestňujú na miestach viditeľlných verejných priestorov a ak sú spojené so stavbou alebo pozemkom
 
 8. | -"- | -"- | 77 | vykonávanie kolaudačného konania v prípadoch uvedených v § 77 ods. 1 písm. c)
 
 9. | ochrany životného prostredia | vyhláška č. 60/1986Zb. | 2 ods. 2 | vydávanie potvrdenia o oznámení chráneného nerastu
 
-10. | hospodárenia s bytmi | zákon č. 41/1964 Zb. | 2 ods. 2 | urcčvanie počtu bytov zo štátnej bytovej výstavby slúžiacich pre ubytovanie pracovníkov podnikov a závodov za podmienok ustanovených zákonom
-
-11. | -"- | -"- | 57 | udeľovanie súhlasu k rozdeleniu bytu na dva alebo viac bytov a súhlasu na užívanie bytu alebo jeho časti na iné účely ako na bývanie
-
-12. | -"- | -"- | 67 ods. 3 | rozhodovanie v pochybnostiach, či urcitý byt má povahu služobného bytu
-
-14. | obrany | zákon č. 73/1973 Zb. | 18 ods. 1 | podieľať sa na príprave občanov na civilnú obranu
-
-15. | -"- | -"- | 22 ods. 1 a 3 | masovopolitická práca v brannej výchove a umožňnovanie využívať svoje zariadenia na uskutocňnovanie brannej výchovy
-
-16. | dopravy | zákon č. 68/1979 Zb. v znení zákona č. 118/1990Zb. | 20 ods. 1 | umiestňovanie zastávok verejnej pravidelnej hromadnej dopravy v obci
+16. | dopravy | zákon č. 68/1979 Zb. v znení zákona c. 118/1990Zb. | 20 ods. 1 | umiestňovanie zastávok verejnej pravidelnej hromadnej dopravy v obci
 
 17. | -"- | -"- | 34 ods. 2 | povoľovanie predĺženia alebo zavedenia liniek mestskej autobusovej dopravy mimo územia mesta
