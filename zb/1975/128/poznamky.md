@@ -36,7 +36,9 @@
 
 - 18) Vyhlášky č. 110/1970 Zb. a č. 156/1970 Zb. o finančnom a hmotnom zabezpečení učňov v internátnych učňovských školách pre mládež vyžadujúcu osobitnú starostlivosť a v učňovských školách navštevovaných učňami z ústavov sociálnej starostlivosti pre telesne chybnú mládež.
 
-- 19) Zákon č. 186/1960 Zb. o sústave výchovy a vzdelávania (školský zákon) a zákon č. 19/1966 Zb. o vysokých školách v znení neskorších predpisov.
+- 19) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
+
+- Zákon č. 39/1980 Zb. o vysokých školách.
 
 - 20) § 232 Zákonníka práce.
 
@@ -167,3 +169,13 @@
 - 82) § 232 ods. 2 Zákonníka práce.
 
 - 83) Nariadenie vlády ČSSR č. 142/1983 Zb. o poskytovaní dôchodkov niektorým pracujúcim dôchodcom.
+
+- 84) § 142 ods. 2 Zákonníka práce.
+
+- 85) § 10 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 129/1979 Zb. o pracovnom uplatnení a hmotnom zabezpečení pracovníkov v baníctve trvale nespôsobilých na doterajšiu prácu v podzemí hlbinných baní v znení vyhlášky č. 21/1982 Zb. a vyhlášky č. 145/1982 Zb.
+
+- 86) Vyhláška Ministerstva práce a sociálnych vecí ČSR č. 93/1979 Zb. o odmieňaní a hmotnom zabezpečení žiakov a učňov pripravujúcich sa na robotnícke povolania v učebných a študijných odboroch v znení neskorších predpisov.
+
+- Vyhláška Ministerstva práce a sociálnych vecí SSR č. 95/1979 Zb. o odmeňovaní a hmotnom zabezpečení žiakov a učňov pripravujúcich sa na robotnícke povolania v učebných a študijných odboroch v znení neskorších predpisov.
+
+- 87) Účinnosť zákona č. 29/1984 Zb.
