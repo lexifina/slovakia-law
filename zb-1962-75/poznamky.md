@@ -1,0 +1,1 @@
+- *) ČSN 65 0201 „Požiarne predpisy o výrobe, manipulácii, uskladňovaní a preprave horľavých kvapalín", platnosť ktorej bola vyhlásená vyhláškou č. 65/1961 Ú. l.
