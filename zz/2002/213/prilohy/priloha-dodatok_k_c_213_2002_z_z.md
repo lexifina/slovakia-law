@@ -8,9 +8,17 @@ Dodatok k č. 213/2002 Z. z.
 
 - Andorra
 
-- 1. „el Ministre ďAfers Exteriors“
+- 1. Ministre/a ďAfers Exteriors (Minister of Foreign Affairs)
 
-- 2. „el Ministre de Justícia i Interior“
+- 2. Ministre/a de Presidčncia i Turisme (Minister of the Presidency and Tourism)
+
+- 3. Ministre/a de Justícia i Interior (Minister of Justice and Interior)
+
+- 4. Secretari/ aria ďEstat de Justícia i Interior (Secretary of State of Justice and Interior)
+
+- 5. Director/a de política exterior, afers bilaterals i Unió Europea (Director of Foreign Policy, Bilateral Affairs and European Union)
+
+- 6. Director/a ďafers multilaterals i cooperació al desenvolupament (Director of Multilateral Affairs and Co-operation for Development)
 
   - Antigua a Barbuda
 
@@ -658,6 +666,16 @@ Dodatok k č. 213/2002 Z. z.
 
       - direccion general juridica y de estudios legislativos del departamento del distrito federal, - izazaga 89, 8„ piso, col. centro - c.p. 06080 mexico, d.f. - tel.: (525) 709 0884 - fax 709 7846
 
+      - Monako
+
+      - Direction des Services Judiciaires
+
+      - Palais de Justice
+
+      - BP 513
+
+      - MC 98015 Monaco Cedex
+
       - Namíbia
 
     - 1. všetci sudcovia („magistrate") vrátane oblastných a dodatkových sudcov
@@ -686,43 +704,223 @@ Dodatok k č. 213/2002 Z. z.
 
     - 1. Kráľovské nórske ministerstvo zahraničných vecí
 
-    - 2. oblastní guvernéri:
+    - 2. títo oblastní guvernéri:
 
-    - o Fylkesmannen i Oslo og Akershus - Postboks 8111 Dep. - N-0032 Oslo 1 - Tlf. 02-42 90 85
+    - Fylkesmannen i Aust-Agder
 
-    - o Fylkesmannen i Ostfold - Postboks 325 - N-1501 Moss - Tlf. 032-54 100
+    - Serviceboks 606
 
-    - o Fylkesmannen i Hedmark - Postboks 308 - N-2301 Hamar - Tlf. 065-26 080
+    - 4809 Arendal
 
-    - o Fylkesmannen i Oppland - N-2600 Lillehammer - Tlf. 062-66 000
+    - tel.: +47.37017500
 
-    - o Fylkesmannen i Buskerud - N-3000 Drammen - Tlf. 03-83 81 50
+    - fax: +47.37017610
 
-    - o Fylkesmannen i Vestfold - N-3100 Tonsberg - Tlf. 033-17 515
+    - e-mail: postmottak@fm-aa.stat.no
 
-    - o Fylkesmannen i Telemark - N-3700 Skien - Tlf. 03-52 70 20/52 82 74
+    - Fylkesmannen i Buskerud
 
-    - o Fylkesmannen i Aust-Agder - Postboks 55 - N-4801 Arendal - Tlf. 041-25 860
+    - Postboks 1604
 
-    - o Fylkesmannen i Vest-Agder - Tinghuset - N-4600 Kristiansand S - Tlf. 042-28 000
+    - 3007 Drammen
 
-    - o Fylkesmannen i Rogaland - Postboks 59 - N-4001 Stavanger - Tlf. 04-52 70 60
+    - tel.: +47.32 26 66 00
 
-    - o Fylkesmannen i Hordaland - Postboks 106 - N-5001 Bergen - Tlf. 05-23 70 00
+    - fax: +47.32 89 32 36
 
-    - o Fylkesmannen i Sogn og Fjordane - N-5840 Hermansverk - Tlf. 056-55 000
+    - e-mail: postmottak@fm-bu.stat.no
 
-    - o Fylkesmannen i More og Romsdal - Fylkeshuset - N-6400 Molde - Tlf. 072-58 000
+    - Fylkesmannen i Finnmark
 
-    - o Fylkesmannen i Sor-Trondelag - N-7000 Trondheim - Tlf. 07-51 08 11
+    - Damsv. 1
 
-    - o Fylkesmannen i Nord-Trondelag - N-7700 Steinkjer - Tlf. 077-66 722
+    - 9815 Vadso
 
-    - o Fylkesmannen i Nordland - N-8000 Bodo - Tlf. 081-62 1000
+    - tel.: +47.78 95 03 00
 
-    - o Fylkesmannen i Troms - Postboks 595 - N-9001 Tromso - Tlf. 083-87530
+    - fax: +47.78 95 03 07
 
-    - o Fylkesmannen i Finnmark - N-9800 Vadso - Tlf. 085-51 761/53 001“
+    - e-mail: postmottak@fm-fi.stat.no
+
+    - Fylkesmannen i Hedmark
+
+    - Postboks 4034
+
+    - 2306 Hamar
+
+    - tel.: +47.62 55 10 00
+
+    - fax: +47.62 55 10 01
+
+    - e-mail: postmottak@fm-he.stat.no
+
+    - Fylkesmannen i Hordaland
+
+    - Postboks 7310
+
+    - 5020 Bergen
+
+    - tel.: +47.55 57 20 00
+
+    - fax: +47.55 57 20 09
+
+    - e-mail: postmottak@fm-ho.stat.no
+
+    - Fylkesmannen i More og Romsdal
+
+    - Julsundv. 9
+
+    - 6404 Molde
+
+    - tel.: +47.71 25 84 43
+
+    - fax: +47.71 25 85 10
+
+    - e-mail: postmottak@fm-mr.stat.no
+
+    - Fylkesmannen i Nordland
+
+    - Molov. 10
+
+    - 8002 Bodo
+
+    - tel.: +47.75 53 15 00
+
+    - fax: +47.75 52 09 77
+
+    - e-mail: postmottak@fm-no.stat.no
+
+    - Fylkesmannen i Nord-Trondelag
+
+    - Strandv. 38
+
+    - 7734 Steinkjer
+
+    - tel.: +47.74 16 80 00
+
+    - fax: +47.74 16 80 53
+
+    - e-mail: postmottak@fm-nt.stat.no
+
+    - Fylkesmannen i Oppland
+
+    - Storg. 170
+
+    - 2626 Lillehammer
+
+    - tel.: +47.61 26 60 00
+
+    - fax: +47.61 26 61 67
+
+    - e-mail: postmottak@fm-op.stat.no
+
+    - Fylkesmannen i Oslo og Akershus
+
+    - Postboks 8111 Dep
+
+    - 0032 Oslo
+
+    - tel.: +47.22 00 35 00
+
+    - fax: +47.22 00 35 35
+
+    - e-mail: postmottak@fm-oa.stat.no
+
+    - Fylkesmannen i Rogaland
+
+    - Postboks 59
+
+    - 4001 Stavanger
+
+    - tel.: +47.51 56 87 00
+
+    - fax: +47.51 56 88 11
+
+    - e-mail: postmottak@fm-ro.stat.no
+
+    - Fylkesmannen i Sogn og Fjordane
+
+    - Postboks 43
+
+    - 6861 Leikanger
+
+    - tel.: +47.57 65 50 00
+
+    - fax: +47.57 65 50 55
+
+    - e-mail: postmottak@fm-sf.stat.no
+
+    - Fylkesmannen i Sor-Trondelag
+
+    - Prinsens g. 1 A
+
+    - 7468 Trondheim
+
+    - tel.: +47.73 19 91 00
+
+    - fax: +47.73 19 91 01
+
+    - e-mail: postmottak@fm-st.stat.no
+
+    - Fylkesmannen i Telemark
+
+    - Gjerpens g. 14
+
+    - 3708 Skien
+
+    - tel.: +47.35 58 61 10
+
+    - fax: +47.35 52 85 90
+
+    - e-mail: postmottak@fm-te.stat.no
+
+    - Fylkesmannen i Troms
+
+    - Strandv. 13
+
+    - 9291 Tromso
+
+    - tel.: +47.77 64 20 00
+
+    - fax: +47.77 64 21 39
+
+    - e-mail: postmottak@fm-tr.stat.no
+
+    - Fylkesmannen i Vest-Agder
+
+    - Serviceboks 513
+
+    - 4605 Kristiansand S
+
+    - tel.: +47.38 17 60 00
+
+    - fax: +47.38 17 60 13
+
+    - e-mail: postmottak@fm-va.stat.no
+
+    - Fylkesmannen i Vestfold
+
+    - Postboks 2076
+
+    - 3103 Tonsberg
+
+    - tel.: +47.33 37 10 00
+
+    - fax: +47.33 37 12 60
+
+    - e-mail: postfmve@fm-ve.stat.no
+
+    - Fylkesmannen i Ostfold
+
+    - Postboks 325
+
+    - 1502 Moss
+
+    - tel.: +47.69 24 70 00
+
+    - fax: +47.69 24 70 31
+
+    - e-mail: postmottak@fm-os.stat.no
 
       - Nový Zéland (nevzťahuje sa zatiaľ na Tokelau)
 
