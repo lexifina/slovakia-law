@@ -62,6 +62,8 @@
 
 - 27) § 60 až 65 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 231/1995 Z. z.
 
+- 27a) § 8 ods. 5 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
 - 28) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z.Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.
 
 - 29) § 57 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
