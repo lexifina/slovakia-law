@@ -1,3 +1,0 @@
-# Čl.II
-
-Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti, ako vyplýva zo zmien a doplnení vykonaných zákonom Slovenskej národnej rady č. 194/1992 Zb., zákonom Slovenskej národnej rady č. 488/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 10/1993 Z.z., zákonom Národnej rady Slovenskej republiky č. 247/1993 Z.z., zákonom Národnej rady Slovenskej republiky č. 319/1993 Z.z., zákonom Národnej rady Slovenskej republiky č. 325/1993 Z.z. a týmto zákonom.
