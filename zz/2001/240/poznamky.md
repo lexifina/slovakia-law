@@ -8,6 +8,8 @@
 
 - 4a) Článok 119 Ústavy Slovenskej republiky.
 
+- 4a) Napríklad zákon č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov v znení neskorších predpisov.
+
 - 5) Napríklad zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 6) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
