@@ -1,10 +1,16 @@
 - 1) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
 
-- 2) § 8 zákona č. 311/1999 Z. z. o registri trestov.
+- 2) § 8 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
 
 - 3) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 4) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 4a) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 4b) § 8 písm. b) zákona č. 566/2001 Z. z.§ 6 ods. 11 a 12 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+
+- § 6 ods. 10 zákona č. 594/2003 Z. z.
 
 - 5) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
@@ -20,6 +26,8 @@
 
 - 10) § 9 ods. 3 Zákonníka práce.
 
+- 10a) § 15a zákona č. 381/2001 Z. z. v znení zákona č. 430/2003 Z. z.
+
 - 11) § 30 zákona č. 328/1991 Zb. v znení neskorších predpisov.
 
 - 12) § 37 zákona č. 96/2002 Z. z.
@@ -29,6 +37,10 @@
 - 14) § 476 až 488 Obchodného zákonníka.
 
 - 15) § 66b Obchodného zákonníka v znení zákona č. 127/1999 Z. z.
+
+- 15a) Zákon č. 594/2003 Z. z.
+
+- 15b) § 4 ods. 7 zákona č. 594/2003 Z. z.
 
 - 16) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 

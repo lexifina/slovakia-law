@@ -1,5 +1,3 @@
-[Príloha 01](../assets/0f2ff7e433e9cf526c11a0a646fe0928e2ec1f4d3afd3e851e8b8ad17cb3abbb.pdf)
-
 Príloha k zákonu č. 95/2002 Z. z.
 
 KLASIFIKÁCIA POISTNÝCH ODVETVÍ PODĽA POISTNÝCH DRUHOV
@@ -18,7 +16,7 @@ Poistné odvetvie
 
 5. Dôchodkové poistenie.
 
-6. Poistenie pre prípad úrazu alebo choroby, ak je pripoistením podľa tohto poistného odvetvia uvedeného v bodoch 1 až 4.
+- 6. Poistenie pre prípad úrazu alebo choroby, ak je pripoistením niektorého poistného odvetvia uvedeného v bodoch 1 až 5.
 
 B - neživotné poistenie
 
