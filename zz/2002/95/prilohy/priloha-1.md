@@ -32,6 +32,8 @@ c) s kombinovaným plnením,
 
 d) cestujúcich.
 
+e) individuálne zdravotné poistenie.
+
 2. Poistenie choroby
 
 a) s jednorazovým plnením,
@@ -41,6 +43,8 @@ b) s opakovaným plnením,
 c) s kombinovaným plnením,
 
 d) zmluvné poistenie a pripoistenie.
+
+e) individuálne zdravotné poistenie.
 
 3. Poistenie škôd na pozemných dopravných prostriedkoch iných než koľajových
 

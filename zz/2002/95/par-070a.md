@@ -1,6 +1,6 @@
 # § 70a
 
-(1) Poisťovne a pobočky zahraničnej poisťovne, ktoré vykonávali poisťovaciu činnosť podľa doterajších predpisov, sú povinné zosúladiť svoje právne pomery s ustanoveniami tohto zákona najneskôr do 30. apríla 2005 s výnimkou ustanovenia § 4 ods. 12 a § 31 ods. 6, s ktorými sú povinné tieto subjekty zosúladiť svoje právne pomery najneskôr do 20. marca 2007.
+(1) Poisťovne a pobočky zahraničnej poisťovne, ktoré vykonávali poisťovaciu činnosť podľa doterajších predpisov, sú povinné zosúladiť svoje právne pomery s ustanoveniami tohto zákona najneskôr do 30. apríla 2005 s výnimkou ustanovenia § 4 ods. 12 a § 31 ods. 8, s ktorými sú povinné tieto subjekty zosúladiť svoje právne pomery najneskôr do 20. marca 2007.
 
 (2) Pobočka poisťovne z iného členského štátu, ktorá vykonáva poisťovaciu činnosť na území Slovenskej republiky na základe povolenia udeleného podľa doterajších predpisov, sa odo dňa nadobudnutia účinnosti tohto zákona považuje za pobočku poisťovne z iného členského štátu zriadenú podľa § 17 ods. 1.
 

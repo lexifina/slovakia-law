@@ -1,0 +1,19 @@
+# § 48h
+
+(1) Poisťovňa alebo zaisťovňa, ktorá ovláda finančný konglomerát, je povinná k 31. marcu kalendárneho roka alebo na žiadosť úradu predkladať úradu údaje o koncentrácii rizík finančného konglomerátu. Ak finančný konglomerát nie je ovládaný poisťovňou alebo zaisťovňou, údaje podľa prvej vety predkladá úradu zmiešaná finančná holdingová spoločnosť alebo regulovaná osoba určená úradom po predchádzajúcom vyjadrení regulovaných osôb alebo zmiešaných finančných holdingových spoločností tvoriacich súčasť finančného konglomerátu.
+
+(2) Koncentráciou rizík finančného konglomerátu sa na účely doplňujúceho dohľadu rozumie každá činnosť osôb tvoriacich súčasť finančného konglomerátu, ktorá môže spôsobiť takú stratu, ktorá môže ohroziť platobnú schopnosť alebo bezpečnosť a zdravie regulovaných osôb tvoriacich súčasť finančného konglomerátu; takáto koncentrácia môže byť v riziku protistrany, úverovom riziku, investičnom riziku, poistnom riziku, trhovom riziku, riziku likvidity, operačnom riziku a inom riziku alebo kombinácii týchto rizík.
+
+(3) Ak finančný konglomerát ovláda poisťovňa alebo zaisťovňa, vzťahuje sa na koncentráciu rizík finančného konglomerátu rovnako § 31. Ak finančný konglomerát ovláda iná regulovaná osoba, vzťahujú sa na koncentráciu rizík finančného konglomerátu primerane ustanovenia osobitného predpisu.<sup>4a</sup>)
+
+(4) Ak finančný konglomerát ovláda zmiešaná finančná holdingová spoločnosť a ak je najvýznamnejším finančným sektorom vo finančnom konglomeráte sektor poisťovníctva, vzťahujú sa na koncentráciu rizík sektora poisťovníctva a zmiešanej finančnej holdingovej spoločnosti primerane ustanovenia § 31.
+
+(5) Všeobecne záväzný právny predpis, ktorý vydá ministerstvo, ustanoví na účely zisťovania koncentrácie rizík finančného konglomerátu spôsob výpočtu
+
+- a) majetkovej angažovanosti finančného konglomerátu a čo sa rozumie majetkovou angažovanosťou finančného konglomerátu,
+
+- b) majetkovej angažovanosti sektora poisťovníctva a čo sa rozumie majetkovou angažovanosťou sektora poisťovníctva,
+
+- c) majetkovej angažovanosti zmiešanej finančnej holdingovej spoločnosti a čo sa rozumie majetkovou angažovanosťou zmiešanej finančnej holdingovej spoločnosti,
+
+- d) koncetrácie rizík finančného konglomerátu a podrobnosti o koncentrácii rizík finančného konglomerátu.

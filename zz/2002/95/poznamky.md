@@ -1,4 +1,4 @@
-- 1) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
+- 1) Napríklad zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 8 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
 
@@ -75,6 +75,10 @@
 - 23) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 24a) § 6 ods. 13 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+
+- 24b) § 35 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
 - 25) Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov.
 
