@@ -1,0 +1,1 @@
+- 1) Zúčtovanie sa vykonáva spôsobom určeným Štátnou bankou česko-slovenskou.
