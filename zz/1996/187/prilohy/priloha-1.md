@@ -337,5 +337,3 @@
     - Článok 24
 
       - Tento dohovor je vyhotovený v jazyku dánskom, nemeckom, anglickom, francúzskom, gréckom, talianskom, holandskom, portugalskom, španielskom, fínskom, islandskom, nórskom a švédskom, pričom všetky znenia majú rovnakú platnosť; bude uložený v archíve Generálneho sekretariátu Rady Európskych spoločenstiev; Generálny sekretariát doručí každej zmluvnej strane overenú kópiu.
-
-    - [Príloha 01](../assets/a8cdb320198309bceda0c639c358252a129129814d5c9fa81579d83e409ba078.pdf)

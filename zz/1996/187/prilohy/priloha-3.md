@@ -1904,8 +1904,6 @@
 
 - 56 | 97
 
-- [Príloha 03](../assets/46ea004c9fe36b1fc9b66a40846b42f309d42b903a9525207a689199abadcb8b.pdf)
-
   - PRÍLOHA III
 
   - Článok 1
