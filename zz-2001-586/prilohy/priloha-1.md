@@ -1,0 +1,3 @@
+Príloha č. 1 k zákonu č. 586/2001 Z. z.
+
+- BILANCIA PRÍJMOV A VÝDAVKOV ŠTÁTNEHO ROZPOČTU NA ROK 2002 (v tis. Sk) [Príloha 01](../assets/e6dc0fa00a359765ea50e1e0950b491b38b7523d72161441048aa67107163490.pdf)
