@@ -6,7 +6,7 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
-- 4) § 21 nariadenia vlády Slovenskej republiky č. 606/1992 Zb. o nakladaní s odpadmi.
+- 4) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
 - 5) § 44 až 46 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky Federálneho výboru pre životné prostredie, Ministerstva životného prostredia Českej republiky a Slovenskej komisie pre životné prostredie č. 376/1992 Zb.
 
@@ -24,6 +24,6 @@
 
 - 12) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
 
-- 13) § 20 ods. 3 a 4 nariadenia vlády Slovenskej republiky č. 606/1992 Zb.
+- 13) Zákon č. 223/2001 Z. z.
 
 - 14) § 8 ods. 4 zákona Slovenskej národnej rady č. 307/1992 Zb.
