@@ -18,15 +18,23 @@
 
 - 1h) § 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
+- 1ha) § 7 zákona č. 366/1999 Z. z. o daniach z príjmov.
+
 - 1ch) Napríklad zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky.Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe.Zákon Národnej rady Slovenskej republiky č. 61/1993 Z. z. o zriadení Železničnej polície Slovenskej republiky. Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 1i) § 39 až 59 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 1j) § 14 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
+
+- 1k) § 21 ods. 3 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
 
 - 2) Dekrét č. 53/1945 Zb. o odčinení krívd československým verejným zamestnancom.
 
 - Zákon č. 47/1946 Zb. o odstránení krívd a o niektorých ochranných opatreniach v odbore verejnoprávneho sociálneho poistenia.
 
 - Zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie v znení zákona č. 88/1950 Zb. a zákona č. 101/1964 Zb.
+
+- 2a) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 3) §3 vyhlášky Štátneho úradu sociálneho zabezpečenia č. 1/1957 Ú. l. (Ú.v.), ktorou sa ustanovujú podrobnosti k prechodným ustanoveniam zákona o sociálnom zabezpečení.
 
@@ -67,6 +75,8 @@
 - 7cc) Zákon č. 125/1998 Z. z.
 
 - 7cd) § 4 zákona č. 125/1998 Z. z.
+
+- 7cda) Zákon č. 300/1999 Z. z. o príspevku na bývanie.
 
 - 7ce) Zákon č. 132/1998 Z. z. o zvýšení dôchodkov v roku 1998, o úprave dôchodkov priznaných v roku 1999 a o zmene a doplnení niektorých zákonov v oblasti sociálneho zabezpečenia v znení zákona č. 107/1999 Z. z.Zákon č. 107/1999 Z. z. o zvýšení dôchodkov v roku 1999, o úprave dôchodkov priznaných v roku 2000 a o zmene a doplnení niektorých zákonov v oblasti sociálneho zabezpečenia.
 
@@ -118,6 +128,8 @@
 
 - 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákon č. 33/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení zákona č. 58/1964 Zb., zákona č. 87/1968 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 8/1982 Zb., zákona č. 109/1984 Zb., zákona č. 180/1990 Zb., zákona č. 134/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
 
+- 13b) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
 - 14) § 44 zákona č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev.
 
 - 15) § 244 a nasl. Občianskeho súdneho poriadku.
@@ -167,6 +179,8 @@
 - 27) § 14 ods. 1 písm. a) zákona č. 1/1991 Zb. o zamestnanosti.
 
 - 27a) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia v znení zákona Národnej rady Slovenskej republiky č. 85/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 160/1994 Z. z.
+
+- 27aa) § 3 ods. 1 písm. b) zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 27b) Zákon Národnej rady Slovenskej republiky č. 110/1996 Z. z. o zvýšení dôchodkov v roku 1996 a o zmene niektorých zákonov.
 
