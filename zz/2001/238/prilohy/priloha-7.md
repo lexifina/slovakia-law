@@ -1,87 +1,81 @@
-Príloha č. 6 k zákonu č. 238/2001 Z. z.
+Príloha č. 7 k zákonu č. 238/2001 Z. z.
 
 - TOVAR NA VZDELÁVACIE, VEDECKÉ A KULTÚRNE ÚČELY
 
-  - A. Knihy, publikácie a dokumenty
+  - Obrazový a zvukový materiál
 
 - Číselný znak | Názov tovaru
 
-- 37005 | Fotografické dosky a filmy, exponované a vyvolané, Iné ako kinematografické filmy
+- 3704 00 | Fotografické dosky, filmy, papier, kartón a textílie, exponované, ale nevyvolané
 
-- ex 3705 20 00 | Mikrofilmy kníh, detských obrázkových kníh a detských maľovaniek na dokreslenie alebo vyfarbenie, kníh v zošitových vydaniach, kníh krížoviek, novín a periodických časopisov, dokladov alebo správ neobchodného charakteru, jednotlivých ilustrácií, tlačených strán kníh a reprodukcií na výrobu kníh
+- ex 3704 00 10 | - Dosky a filmy
 
-- ex 3705 10 00 | Kópie filmov určené na výrobu kníh
+- | - Kinematografické filmy a pozitívne filmy na vzdelávacie, vedecké alebo kultúrne účely
 
-- ex 3705 90 00 |
+- ex 3705 | Fotografické dosky a filmy, exponované a vyvolané, iné ako kinematografické filmy, na vzdelávacie, vedecké, alebo kultúrne účely
 
-- 4820 20 00 | Školské zošity (písanky) s vytlačeným textom a prázdnym priestorom, ktorý žiaci majú doplniť
+- ex 3705 | Mikrofilmy a diapozitívy
 
-- 4901 | Tlačené knihy
+- 3705 90 00 | Hologramy na laserové premietanie
 
-- 4901 | Knihy a dokumenty vyhotovovane množením odlišným od tlače
+- 3706 | Kinematografické filmy, exponované a vyvolané, obsahujúce tiež zvukový záznam alebo obsahujúce len zvukový záznam
 
-- ex 4901 10 | Natlačené stránky vo forme volných alebo viazaných hárkov
+- ex 3706 10 | - V šírke 35 mm alebo väčšej:
 
-- ex 4901 a ex 4911 | Oficiálne vládne publikácie, ako úradné, parlamentné a správne dokumenty vytlačené
+- | -- Ostatné:
 
-- | v krajine svojho pôvodu
+- ex 3706 10 99 | --- Ostatné pozitívne:
 
-- ex 4901, ex 4906 00 00 a | Rukopisy vrátane strojopisov
+- | - Filmové týždenníky a aktuality (so zvukovým záznamom alebo bez neho), zaznamenávajúce udalosti aktuálne v čase dovozu a dovážané na účely reprodukcie, v množstve najviac dvoch kópií z každého námetu
 
-- ex 4911 |
+- | - Archívne filmy (so zvukovým záznamom alebo bez neho) určené na použitie spoločne s filmovými týždenníkmi a aktualitami
 
-- 4902 | Noviny a periodiká
+- | - Zábavné filmy vhodné najmä pre deti a mládež
 
-- ex 4902 | Zošity s krížovkami, ktoré obsahujú tlačený text
+- | - Ostatné filmy na vzdelávacie, vedecké alebo kultúrne účely
 
-- 4903 00 00 | Obrázkové albumy alebo obrázkové knihy, predlohy na kreslenie a maľovanky pre deti
+- ex 3706 90 | - Ostatné:
 
-- 4904 00 00 | Hudobné záznamy písané ručne, tlačené alebo rozmnožené iným spôsobom ako tlačou
+- | -- Ostatné:
 
-- 4905 | Kartografické výrobky všetkých druhov vrátane atlasov, nástenných máp, topografických plánov a glóbusov, tlačené
+- | --- Ostatné pozitívne:
 
-- ex 4905 99 00 | - Ostatné:
+- | - Filmové týždenníky a aktuality (so zvukovým záznamom alebo bez neho), zaznamenávajúce udalosti aktuálne v čase dovozu a dovážané na účely reprodukcie, v množstve najviac dvoch kópií z každého námetu
 
-- | - Mapy, tabuľky a diagramy vhodné pre vedecké odbory, ako je geológia, zoológia, botanika, mineralógia, paleontológia, archeológia, etnológia, meteorológia, klimatológia, geofyzika
+- | - Archívne filmy (so zvukovým záznamom alebo bez neho) určené na použitie spoločne s filmovými týždenníkmi a aktualitami
 
-- ex 4906 00 00 | Stavebné, strojnícke a priemyselné plány a projekty a ich reprodukcie
+- | - Zábavné filmy vhodné najmä pre deti a mládež
+
+- | - Ostatné filmy na vzdelávacie, vedecké alebo kultúrne účely
+
+- 4905 99 00 | Nástenné mapy
 
 - 4911 | Ostatné tlačiarenské výrobky vrátane tlačených obrazov, rytín a fotografií
 
-- 4911 10 | Obchodné reklamné materiály, komerčné katalógy a podobne
+- | - Ostatné:
 
-- ex 4911 10 90 | - Ostatné:
+- ex 4911 99 00 | -- Ostatné:
 
-- | - Katalógy vydaných kníh a publikácií, ponúkaných na predaj zahraničnými vydavateľmi alebo predajcami kníh
+- | - Mikrokazety alebo iné hmotné nosiče dát na vzdelávacie, vedecké alebo kultúrne účely používané informačnými alebo dokumentačnými službami, obrazové znázornenia
 
-- | - Katalógy filmov, zvukových nahrávok alebo iných obrazových alebo zvukových materiálov na vzdelávacie, vedecké alebo kultúrne účely
+- ex 8524 | Gramofónové platne, magnetické pásky a iné náhradné médiá určené na záznam zvuku alebo na podobné záznamy vrátane matríc a galvanických odtlačkov na výrobu platní, ale s výnimkou výrobkov kapitoly 37
 
-- | - Plagáty určené na podporu turistiky a turistické publikácie, letáky, turistickí sprievodcovia, cestovné a letové poriadky, brožúry a podobné publikácie ilustrované aj neilustrované, vrátane vydaných súkromnými podnikmi, ktoré sú určené na získanie verejnosti na návštevu cudzích štátov, vrátane mikrokópií týchto predmetov
+- | - na vzdelávacie, vedecké alebo kultúrne účely
 
-- | - Bibliografický informačný materiál určený na bezplatné rozdávanie
+- ex 8524 | Videopásky, kineskopy, videodisky, videogramy a iné formy obrazových a zvukových nahrávok
 
-- ex 4911 99 00 | - Ostatné:
+- ex 9023 00 | Nástroje, prístroje a modely určené na predvádzanie (napr. pri vyučovaní alebo na výstavách), nehodiace sa na iné účely
 
-- | - Samostatné ilustrácie, tlačené listy a reprodukcie korektúr určené na výrobu
+- | - Vzorky, modely na vzdelávacie, vedecké alebo kultúrne účely určené na predvádzanie a výučbu
 
-- | kníh vrátane mikrokópií týchto predmetov
+- | - Makety abstraktných pojmov a predstáv, napríklad molekulárnych štruktúr alebo matematických vzorcov
 
-- | - Mikrokópie kníh, detských obrázkových kníh a detských maľovaniek na dokreslenie alebo vyfarbenie, kníh v zošitovom vydaní, kníh krížoviek, novín a periodických časopisov, dokladov a správ neobchodného charakteru
+- Rôzne | Rukopisné dokumenty na laserovú produkciu
 
-- | - Publikácie určené na získanie verejnosti pre štúdium v zahraničí vrátane mikrokópií týchto publikácií
+- | Informačný materiál hromadných oznamovacích prostriedkov
 
-- | - Meteorologické a geofyzikálne diagramy
+- | Mikrokarty, mikrofiše a magnetické alebo iné informačné médiá vyžadované informačnými a dokumentačnými službami
 
-- 9023 00 | Nástroje, prístroje a modely určené na predvádzanie (napr. pri vyučovaní alebo na výstavách), nehodiace sa na iné účely
+- Rôzne | Materiály na programové vyučovanie, ktoré môžu byť predkladané v súpravách s príslušnými vytlačenými materiálmi, vrátane videokaziet a audiokaziet
 
-- 9023 00 80 | Ostatné:
-
-- | - Mapy, tabuľky a diagramy vhodné pre vedecké odbory, ako je geológia, zoológia, botanika, mineralógia, paleontológia, archeológia, etnológia, meteorológia, klimatológia a geofyzika
-
-- Rôzne | Podklady pre tlač alebo filmy, ktoré sa budú používať na tlač a výrobu kníh
-
-- Rôzne | Tlačené dokumenty alebo správy nekomerčného charakteru
-
-  - B. Obrazový a zvukový materiál na vzdelávacie, vedecké a kultúrne účely
-
-    - Tovar uvedený v prílohe č. 7 vyrobený Organizáciou Spojených národov alebo niektorou z jej špecializovaných inštitúcií (napríklad UNICEF).
+- | Multimediálne súpravy, nahrávky

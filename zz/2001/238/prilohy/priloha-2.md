@@ -1,15 +1,3 @@
-- OPERÁCIE, KTORÉ VYLUČUJÚ REGIONÁLNU KUMULÁCIU VŠEOBECNÉHO SYSTÉMU PREFERENCIÍ
+Príloha č. 2 k zákonu č. 238/2001 Z. z.
 
-  - 1. Pripevňovanie gombíkov a/alebo iných typov zapínadiel.
-
-  - 2. Vyšívanie gombíkových dierok.
-
-  - 3. Konečná úprava koncov nohavíc a rukávov alebo lemovanie spodných okrajov šiat a košieľ, atď.
-
-  - 4. Lemovanie vreckoviek, obrusov, atď.
-
-  - 5. Pripevňovanie ozdôb a doplnkov, ako sú vrecká, štítky, odznaky, atď.
-
-  - 6. Žehlenie a iné formy prípravy konfekčných odevov na predaj.
-
-  - 7. Ľubovoľná kombinácia činností uvedených v bodoch 1 až 6.
+- VYSVETLIVKY K UPLATŇOVANIU § 56 AŽ 63 [Príloha 02](../assets/848c36866b16ec01ffaeb0cf2f55b12b3e5268532185cb5ea78de67496938ddd.pdf)

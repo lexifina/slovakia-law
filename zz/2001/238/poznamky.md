@@ -22,7 +22,7 @@
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- 12) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+- 12) § 91 ods. 4 písm. c) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 13) Napríklad zákon č. 240/1998 Z. z. o poľnohospodárstve a o zmene a doplnení ďalších zákonov v znení zákona č. 361/2000 Z. z., zákon č. 214/1997 Z. z. o ochranných opatreniach pri dovoze.
 
@@ -54,9 +54,9 @@
 
 - 27) Dohoda o uplatňovaní článku VII Všeobecnej dohody o clách a obchode 1994 podľa prílohy 1 k Dohode o založení Svetovej obchodnej organizácie (oznámenie č. 152/2000 Z. z.).
 
-- 28) Zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+- 28) Napríklad zákon č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
-- 29) Napríklad zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 70/2000 Z. z.
+- 29) Napríklad zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
 - 30) Napríklad Zmluva medzi Slovenskou republikou a Českou republikou o úprave režimu a o spolupráci na spoločných štátnych hraniciach (oznámenie č. 195/1993 Z. z. v znení oznámenia č. 119/1999 Z. z.).
 
@@ -80,7 +80,7 @@
 
 - 40) Zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty.
 
-- 41) Napríklad zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+- 41) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
 - 42) § 11 zákona č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -110,6 +110,8 @@
 
 - 55) Zákon Slovenskej národnej rady č. 270/1991 Zb. o Štátnom fonde trhovej regulácie Slovenskej republiky v poľnohospodárstve v znení neskorších predpisov.
 
+- 55a) Napríklad § 22 ods. 1 zákona č. 239/2001 Z. z. o spotrebnej dani z minerálnych olejov vznení zákona č. 582/2001 Z. z., § 9 ods. 5 zákona Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, § 9 ods. 6 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. v znení neskorších predpisov.
+
 - 56) Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení neskorších predpisov.
 
 - 57) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
@@ -122,7 +124,9 @@
 
 - 60) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
-- 61) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 60b) § 71 a 71a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
+- 61) § 73 až 94 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 62) § 31 až 54 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -141,6 +145,8 @@
 - 69) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 70) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 71) Zákon č. 99/1963 Zb. Občiansky súdny poriadok vznení neskorších predpisov.
 
 - 1) Ak sa používa táto pečiatka v rozsahu podľa § 148, týka sa len schváleného vývozcu.
 

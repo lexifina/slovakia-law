@@ -1,1 +1,1 @@
-Príloha č. 3 k zákonu č. 238/2001 Z. z. [Príloha 03](../assets/05d6ac31f0e109bdd8ada636c37b72df5df27b1600b7805b070ab14a607f3e0c.pdf)
+Príloha č. 4 k zákonu č. 238/2001 Z. z. [Príloha 04](../assets/2131f63647a378d925245f68f06f0314e9da3f4d1c10c4b8a237841ffed02b02.pdf)

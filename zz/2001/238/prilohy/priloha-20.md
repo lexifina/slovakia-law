@@ -1,29 +1,91 @@
-Príloha č. 19 k zákonu č. 238/2001 Z. z.
+Príloha č. 20 k zákonu č. 238/2001 Z. z.
 
-- UMELECKÉ DIELA, ZBERATEĽSKÉ PREDMETY A STAROŽITNOSTI
+- ZOZNAM KRAJÍN, KTORÉ UZNÁVAJÚ KONTAJNERY ZA SCHVÁLENÉ NA PREPRAVU POD COLNOU UZÁVEROU
 
-  - a) Umelecké diela
+  - Afganistan
 
-    - 1. obrazy, koláže a podobné ozdobné diela, maľby a kresby vytvorené výlučne ručnou prácou umelca, iné ako plány a nákresy na architektonické, inžinierske, komerčné, topografické alebo podobné účely, ručne zdobené výrobky, divadelné dekorácie, ateliérové pozadia alebo podobné maľované plátna (položka 9701 harmonizovaného systému),
+  - Albánsko
 
-    - 2. pôvodné rytiny, reprodukcie a litografie, ktoré sú vyhotovené v obmedzenom množstve priamo čierno-biele alebo farebné z jednej alebo viacerých platní zhotovených výlučne ručnou prácou umelca, bez ohľadu na postup alebo materiál, ktorý pri tom použil, nezahŕňajúc však mechanický alebo fotomechanický postup (podpoložka 9702 00 00 kombinovanej nomenklatúry),
+  - Alžírsko
 
-    - 3. pôvodné sochy a plastiky z rôzneho materiálu vyhotovené výlučne umelcom; odliatky sôch, ktorých vyhotovenie je obmedzené počtom ôsmich exemplárov za dohľadu autora alebo jeho oprávneného nástupcu (podpoložka 9703 00 00 kombinovanej nomenklatúry); výnimočne sa môže obmedzenie na osem exemplárov prekročiť pri odliatkoch sôch vyhotovených do 1. januára 1989,
+  - Austrália
 
-    - 4. tapisérie (podpoložka 5805 00 00 kombinovanej nomenklatúry) a nástenné textílie (podpoložka 6304 00 00 kombinovanej nomenklatúry) vyhotovené ručnou prácou podľa originálnych návrhov umelca v množstve neprevyšujúcom osem exemplárov z každého druhu,
+  - Bielorusko
 
-    - 5. jednotlivé keramické diela vyhotovené výlučne umelcom a ním signované,
+  - Bulharsko
 
-    - 6. emaily na medi vyhotovené výlučne ručnou prácou umelca v množstve neprevyšujúcom osem očíslovaných exemplárov signovaných autorom alebo ateliérom, s výnimkou šperkov a zlatníckych a strieborníckych výrobkov,
+  - Cyprus
 
-    - 7. fotografie vyhotovené umelcom, vyrobené ním alebo pod jeho dohľadom, signované a očíslované a obmedzené počtom 30 kópií rôznych rozmerov a obrúb;
+  - Čína
 
-  - b) zberateľské predmety
+  - Fínsko
 
-    - 1. poštové alebo kolkové známky, poštové pečiatky, obálky prvého dňa, poštové ceniny a podobné výrobky ofrankované, alebo ak sú neofrankované, nemajúce charakter zákonného platidla a také, ktoré nie sú určené na použitie ako zákonné platidlo (podpoložka 9704 00 00 kombinovanej nomenklatúry),
+  - Chile
 
-    - 2. zbierky a zberateľské predmety zoologickej, botanickej, mineralogickej, anatomickej, historickej, archeologickej, paleontologickej, etnografickej alebo numizmatickej hodnoty (podpoložka 9705 00 00 kombinovanej nomenklatúry);
+  - Irán
 
-  - c) starožitnosti
+  - Izrael
 
-    - iné predmety ako umelecké diela alebo zbierkové predmety staršie ako 100 rokov (podpoložka 9706 00 00 kombinovanej nomenklatúry).
+  - Jamajka
+
+  - Japonsko
+
+  - Jordánsko
+
+  - Kambodža
+
+  - Kamerun
+
+  - Kanada
+
+  - Kórea
+
+  - Kuba
+
+  - Kuvajt
+
+  - Lichtenštajnsko
+
+  - Maďarsko
+
+  - Malawi
+
+  - Malta
+
+  - Maroko
+
+  - Maurícius
+
+  - Nórsko
+
+  - Nový Zéland
+
+  - Poľsko
+
+  - Rakúsko
+
+  - Rumunsko
+
+  - Rusko
+
+  - Sierra Leone
+
+  - Spojené štáty americké
+
+  - Šalamúnove ostrovy
+
+  - Švajčiarsko
+
+  - Švédsko
+
+  - Trinidad a Tobago
+
+  - Tunisko
+
+  - Turecko
+
+  - Ukrajina
+
+  - Uruguaj
+
+  - členské štáty Európskej únie

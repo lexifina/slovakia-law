@@ -1,9 +1,1 @@
-Príloha č. 8 k zákonu č. 238/2001 Z. z.
-
-- OBRAZOVÝ A ZVUKOVÝ MATERIÁL NA VZDELÁVACIE, VEDECKÉ A KULTÚRNE ÚČELY
-
-  - a) Filmy, filmové pásy a mikrofilmy, vo forme exponovaného a vyvolaného negatívu alebo vo forme vyvolaného a natlačeného pozitívu,
-
-  - b) zvukové nahrávky všetkých typov a foriem,
-
-  - c) sklenené diapozitívy, statické a pohybujúce sa modely, nástenné tabule, mapy a plagáty.
+Príloha č. 9 k zákonu č. 238/2001 Z. z. [Príloha 09](../assets/1a04a685603f48dd0412df1cf4c0092ac7a21ed3f7f424e75d6b4f6edf2602da.pdf)
