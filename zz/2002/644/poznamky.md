@@ -4,9 +4,7 @@
 
 - § 6 a 80 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení zákona č. 510/2002 Z. z.
 
-- § 3 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
-
-- § 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.§ 21 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z.
+- § 3 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.§ 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.§ 21 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z.§ 47 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 8 písm. i) zákona č. 566/2001 Z. z.
 
@@ -26,7 +24,7 @@
 
 - 11) § 42 zákona č. 566/2001 Z. z.
 
-- 12) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 12) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 13) Opatrenie Ministerstva financií č. 21 832/2002- 92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní položiek individuálnej účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre banky, pobočky zahraničných bánk, Národnú banku Slovenska, Fond ochrany vkladov, obchodníkov s cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, Garančný fond investícií, správcovské spoločnosti, pobočky zahraničných správcovských spoločností a podielové fondy.
 
@@ -36,13 +34,15 @@
 
 - 16) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 17) Zákon č. 368/1999 Z. z. o rezervách a opravných položkách na zistenie základu dane z príjmov.
+- 17) § 20 zákona č. 595/2003 Z. z.
 
-- Opatrenie Národnej banky Slovenska č. 3/1995 o pravidlách hodnotenia pohľadávok a podsúvahových záväzkov bánk podľa rizík v nich obsiahnutých a pre tvorbu zdrojov na krytie týchto rizík v znení neskorších predpisov (oznámenie č. 71/1995 Z. z.).
+- Opatrenie Národnej banky Slovenska z 12. decembra 2002 č. 7/2002 o zatrieďovaní majetku a záväzkov bánk a pobočiek zahraničných bánk, o úprave ich ocenenia, o tvorbe a rušení rezerv a s tým súvisiacich hláseniach (oznámenie č. 696/2002 Z. z.) v znení opatrenia č. 1/2004 (oznámenie č. 33/2004 Z. z.).
 
-- 18) Zákon č. 368/1999 Z. z.
+- 18) § 20 zákona č. 595/2003 Z. z.
 
-- 19) Zákon č. 385/1999 Z. z. v znení neskorších predpisov.
+- 19) Zákon č. 594/2003 Z. z.
+
+- Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
 - 20) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch a o pozemkových spoločenstvách v znení neskorších predpisov.
 
@@ -78,6 +78,6 @@
 
 - 33) Napríklad Obchodný zákonník v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 34) Vyhláška Ministerstva financií č. 25/2000 Z. z. o spôsobe určenia hodnoty cenných papierov v majetku v podielovom fonde v znení vyhlášky č. 286/2001 Z. z.
+- 34) Vyhláška Ministerstva financií Slovenskej republiky č. 611/2003 Z. z. o spôsobe určenia hodnoty cenných papierov, nástrojov peňažného trhu a derivátov v majetku v podielovom fonde.
 
 - 35) Opatrenie Ministerstva financií Slovenskej republiky č. 3177/1998-KM, ktorým sa ustanovuje účtová osnova a postupy účtovania pre podnikateľov (oznámenie č. 362/1998 Z. z.) v znení neskorších predpisov.
