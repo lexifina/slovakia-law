@@ -1,0 +1,1 @@
+- *) Vládna vyhláška č. 90/1965 Zb.
