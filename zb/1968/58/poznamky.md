@@ -1,0 +1,1 @@
+- *) § 29 ods. 1 a 3 vládneho nariadenia č. 100/1966 Zb.
