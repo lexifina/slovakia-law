@@ -1,0 +1,1 @@
+- 1) Napríklad § 1 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
