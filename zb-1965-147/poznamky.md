@@ -1,0 +1,1 @@
+- *) Platí teda pri podnikoch Strojexport a Stojimport do 30. 6. 1966 predmet podnikania podľa § 2 ods. 1 vyhlášky č. 312/1953 Ú. l. (č. 357/1953 Ú. v.) a vyhlášky č. 313/1953 Ú. l. (č. 358/1953 Ú. v.).
