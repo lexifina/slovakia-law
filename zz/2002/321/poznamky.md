@@ -22,7 +22,7 @@
 
 - 10) Zákon č. 124/1992 Zb. o Vojenskej polícii.Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
-- 11) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 209/2002 Z. z., zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 11) Zákon č. 455/2004 Z. z. o zriadení Akadémie ozbrojených síl generála Milana Rastislava Štefánika, o zlúčení Vojenskej leteckej akadémie generála Milana Rastislava Štefánika v Košiciach s Technickou univerzitou v Košiciach, o zriadení Národnej akadémie obrany maršala Andreja Hadika a o zmene a doplnení niektorých zákonov.
 
 - 12) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2002 Z. z.
 
