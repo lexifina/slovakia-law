@@ -12,6 +12,14 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - Na platnosť právnych úkonov v mene Sociálnej poisťovne sa vyžadujú podpisy najmenej dvoch členov rady riaditeľov, ak rada riaditeľov v štatúte Sociálnej poisťovne neurčí inak.“.
 
+- 4. V § 131 ods. 2 sa vkladá nové písmeno a), ktoré znie:
+
+- „a)
+
+- zamestnanca, ktorý je sporiteľ podľa osobitného predpisu,<sup>1</sup>) 4 % z vymeriavacieho základu,“.
+
+- Doterajšie písmená a) až e) sa označujú ako písmená b) až f).
+
 - 5. V § 153 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
 
 - „(7)
