@@ -2,7 +2,7 @@
 
 - 2) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
-- 3) Napr. vyhláška Federálneho ministerstva poľnohospodárstva a výživy č. 16/1972 Zb. o hospodárení s liehom v znení vyhlášky Federálneho ministerstva hospodárstva č. 66/1991 Zb.
+- 3) § 3 a 5 zákona Národnej rady Slovenskej republiky č. 289/1996 Z. z. o výrobe a obehu liehu a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 4) Napríklad § 409 až 470 Obchodného zákonníka.
 
@@ -24,9 +24,9 @@
 
 - 13) § 10 vyhlášky Ministerstva financií Slovenskej republiky č. 117/1993 Z. z. o kontrole výroby a obehu liehu.
 
-- 14) § 8 vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 16/1972 Zb.
+- 14) § 9 ods. 4 zákona č. 289/1996 Z. z.
 
-- 15) § 2 vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 16/1972 Zb.
+- 15) § 2 zákona č. 289/1996 Z. z.
 
 - 16) Zákon č. 563/1991 Zb. o účtovníctve.
 
@@ -35,6 +35,8 @@
 - 18) § 476 Obchodného zákonníka.
 
 - 19) § 33 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z.
+
+- 19a) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
 - 20) § 33 ods. 1 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
