@@ -1,0 +1,3 @@
+# Čl. II
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Národnej rady Slovenskej republiky č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 58/1999 Z. z., zákonom č. 181/1999 Z. z., zákonom č. 356/1999 Z. z., zákonom č. 224/2000 Z. z., zákonom 464/2000 Z. z., zákonom 241/2001 Z. z., zákonom 98/2002 Z. z., zákonom č. 328/2002 Z. z., zákonom č. 422/2002 Z. z., zákonom č. 659/2002 Z. z. a zákonom č. 212/ 2003 Z. z. a týmto zákonom.
