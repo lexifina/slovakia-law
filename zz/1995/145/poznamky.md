@@ -1,4 +1,4 @@
-- 1) § 15 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve.
+- 1) § 4 ods. 2 písm. a) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
 - 2) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
@@ -12,8 +12,6 @@
 
 - Vyhláška Ministerstva vnútra Slovenskej republiky č. 393/1990 Zb., ktorou sa ustanovuje paušálna suma trov konania o priestupkoch.
 
-- 4) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
-
 - 5) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
 - 6) Vyhláška Ministerstva financií Slovenskej republiky č. 95/1993 Z. z. o kolkových známkach.
@@ -21,6 +19,8 @@
 - 7) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 8) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
+- 8a) § 106 ods. 3 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
@@ -36,7 +36,7 @@
 
 - 10a) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
-- 11) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 11) § 72 až 88 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 12) § 2 ods. 3 písm. a) a § 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
@@ -50,11 +50,15 @@
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
 
-- 16a) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+- 16a) § 22 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 17) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 
+- 17a) § 39 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
+
 - 18) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
+
+- 18a) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
 - 19) § 72 ods. 2 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
@@ -64,11 +68,17 @@
 
 - 22) § 2 písm. j) a k) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
-- 23) § 23 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení zákona č. 58/1997 Z. z.
+- 22a) § 28 ods. 1 písm. m) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení zákona č. 506/2002 Z. z.
+
+- 22b) § 29 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení zákona č. 506/2002 Z. z.
+
+- 23) § 23 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení neskorších predpisov.
 
 - 24) § 6 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
 
 - 25) § 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z.
+
+- 25a) § 3 ods. 3 písm. m) zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 26) § 21 ods. 3 zákona č. 195/2000 Z. z. o telekomunikáciách.
 
@@ -150,9 +160,11 @@
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
-- 33) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 33) § 22 ods. 1 písm. e) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 34) § 32 ods. 3 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
+
+- 34a) § 17 ods. 2 písm. c) zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení neskorších predpisov.
 
 - 35) § 78 ods. 1 zákona č. 379/1997 Z. z.
 
@@ -164,15 +176,61 @@
 
 - 36c) § 21 ods. 5 písm. c) zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení zákona č. 119/2000 Z. z.
 
+- 36k) § 65 ods. 2 písm.c) zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 36l) § 65 ods. 2 písm. e) zákona 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
+
+- 36m) § 51 ods. 4 zákona č. 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
+
+- 36n) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
+
+- 36o) Zákon č. 271/2001 Z. z. o opatreniach proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru.
+
+- 36p) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 37) Napríklad zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 58/1997 Z. z., ktorým sa mení a dopĺňa zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave a zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
-- 38) Zákon č. 238/1991 Zb. o odpadoch.
+- 37a) § 8 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov.
 
-- 39) Zákon Slovenskej národnej rady č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade v znení neskorších predpisov.
+- 37b) § 13 zákona č. 151/2002 Z. z.
+
+- 37c) § 17 zákona č. 151/2002 Z. z.
+
+- 37d) § 21 zákona č. 151/2002 Z. z.
+
+- 37e) § 36 zákona č. 151/2002 Z. z.
+
+- 37f) § 37 zákona č. 151/2002 Z. z.
+
+- 38) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 39) Zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).
 
 - 39a) § 26 ods. 4 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).
 
 - 39b) § 26 ods. 5 zákona č. 313/1999 Z. z.
+
+- 39c) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/2001 Z. z. o autorizácii, o vydávaní odborných posudkov vo veciach odpadov, o ustanovovaní osôb oprávnených na vydávanie odborných posudkov a o overovaní odbornej spôsobilosti týchto osôb v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 399/2002 Z. z.
+
+- 39d) § 13 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+
+- 39e) § 14 až 16 zákona č. 261/2002 Z. z.
+
+- 39f) § 9 zákona č. 261/2002 Z. z.
+
+- 39g) § 21 zákona č. 261/2002 Z. z.
+
+- 39h) § 18 ods. 7 písm. e) zákona č. 468/2002 Z. z. o systéme environmentálne orientovaného riadenia a auditu.
+
+- 39i) § 8 ods. 5 zákona č. 468/2002 Z. z.
+
+- 39j) § 10 ods. 1 písm. a) zákona č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
+- 39k) § 10 ods. 1 písm. b) zákona č. 231/1999 Z. z.
+
+- 39l) § 19 ods. 2 zákona č. 468/2002 Z. z.
+
+- 39m) § 19 ods. 4 zákona č. 468/2002 Z. z.
 
 - 40) § 10 ods. 3 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
@@ -188,6 +246,14 @@
 
 - 46) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.Vyhláška Federálneho ministerstva dopravy č. 61/1982 Zb. o určených technických zariadeniach.Vyhláška Federálneho ministerstva dopravy č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku.Vyhláška Federálneho ministerstva dopravy č. 8/1987 Zb. o spôsobilosti dovážaných lanových dráh a iných technických zariadení.
 
-- 47) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 46a) § 8 ods. 3 zákona č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 46b) § 10 ods. 3 zákona č. 70/1998 Z. z. v znení zákona 276/2001 Z. z.
+
+- 46c) § 27 ods. 6 a § 28 ods. 4 zákona č. 70/1998 Z. z.
+
+- 47) § 19 ods. 11 zákona č. 70/1998 Z. z.
 
 - 47a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+
+- 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
