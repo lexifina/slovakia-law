@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 392/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia.
