@@ -1,0 +1,3 @@
+# Čl. III
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 104/1999 Z. z., nálezom Ústavného súdu Slovenskej republiky č. 122/1999 Z. z., zákonom č. 264/1999 Z. z., zákonom č. 370/1999 Z. z. a týmto zákonom.
