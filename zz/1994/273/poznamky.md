@@ -106,6 +106,10 @@
 
 - 17aa) § 24 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
+- 17ab) § 4 zákona č. 446/2001 Z. z. o majetku vyšších územných celkov v znení zákona č. 521/2003 Z. z.
+
+- § 4a zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení zákona č. 447/2001 Z. z.
+
 - 17b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
 
 - 17c) § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
@@ -121,6 +125,8 @@
 - 19) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
 
 - 19a) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
+
+- 19a) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 19b) § 24 ods. 1 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
