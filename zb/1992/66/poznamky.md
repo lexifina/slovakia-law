@@ -2,38 +2,46 @@
 
 - § 31 Trestného poriadku.
 
-- 2) Zákon č. 56/1991 Zb. o rokovacom poriadku Federálneho zhromaždenia.
+- 2) § 266 Občianskeho súdneho poriadku.
 
-- Zákon Slovenskej národnej rady č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení neskorších predpisov.
+- 3) § 268 ods. 1 písm. g) a h) Občianskeho súdneho poriadku.
 
-- 3) § 266 Občianskeho súdneho poriadku.
+- 4) § 374 ods. 3 Občianskeho súdneho poriadku.
 
-- 4) § 268 ods. 1 písm. g) a h) Občianskeho súdneho poriadku.
+- 5) § 146 ods. 1 Trestného poriadku.
 
-- 5) § 374 ods. 3 Občianskeho súdneho poriadku.
+- 6) § 55 Trestného poriadku.
 
-- 6) § 146 ods. 1 Trestného poriadku.
-
-- 7) § 55 Trestného poriadku.
-
-- 8) § 8 Trestného poriadku.
+- 7) § 8 Trestného poriadku.
 
 - § 128 Občianskeho súdneho poriadku.
 
-- 9) § 5 ods. 1 zákona č. 389/1990 Zb. o dani z príjmov obyvateľstva.
+- 8) Zákon č. 286/1992 Zb. o daniach z príjmov
 
-- 10) Zákon č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
+- 9) Zákon č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
 
-- 11) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 33/1984 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 10) Zákon č. 119/1992 Zb. o cestovných náhradách.
 
-- 12) Vyhláška Ministerstva spravodlivosti č. 37/1967 Zb. na vykonanie zákona o znalcoch a tlmočníkoch.
+- 11) Vyhláška Ministerstva spravodlivosti č. 37/1967 Zb. n avykonanie zákona o znalcoch a tlmočníkoch v znení vyhlášky č. 301/1990 Zb. a vyhlášky č. 382/1992 Zb.
 
-- Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 524/1991 Zb. o odmeňovaní prác vykonávaných na základe dohôd o prácach vykonávaných mimo pracovného pomeru.
+- 12) Inštrukcia Ministerstva spravodlivosti Slovenskej republiky č. 1/1981 Zbierky inštrukcií a oznámení MS SSR o styku súdov a štátnych notárstiev SSR s justičnými orgánmi a úradmi cudzích štátov v oblasti právnych vzťahov s cudzinou a o postupe pri vybavovaní vecí s medzinárodným prvkom.
 
-- 13) Inštrukcia Ministerstva spravodlivosti Slovenskej republiky č. 1/1981 Zbierky inštrukcií a oznámení MS SSR o styku súdov a štátnych notárstiev SSR s justičnými orgánmi a úradmi cudzích štátov v oblasti právnych vzťahov s cudzinou a o postupe pri vybavovaní vecí s medzinárodným prvkom.
+- 13) § 32 zákona Slovenskej národnej rady č. 204/1991 Zb. o Policajnom zbore Slovenskej republiky.
 
-- 14) § 32 zákona Slovenskej národnej rady č. 204/1991 Zb. o Policajnom zbore Slovenskej republiky.
+- 14) Inštrukcia Ministerstva spravodlivosti Slovenskej republiky č. 1/1991 o ochrane utajovaných skutočností v rezorte MS SR.
 
-- 15) Inštrukcia Ministerstva spravodlivosti Slovenskej republiky č. 1/1991 o ochrane utajovaných skutočností v rezorte MS SR.
+- 15) Výnos Ministerstva spravodlivosti Slovenskej republiky z 18. marca 1992 č. 90/1992-30 o nariaďovaní a odmeňovaní pracovnej pohotovosti sudcov, justičných čakateľov a pracovníkov odborného aparátu okresných a krajských súdov, reg. v čiastke 36/1992 Zb.
 
-- 16) Výnos Ministerstva spravodlivosti Slovenskej republiky z 29. januára 1991 č. 4801/1991-30 o nariaďovaní a odmeňovaní pracovnej pohotovosti predsedov senátov krajských a okresných súdov, č. 153/1991 Zb.
+- 16) § 175c Občianskeho súdneho poriadku v znení zákona č. 263/1992 Zb.
+
+- 17) Čl. 2 bod 6. Občianskeho súdneho poriadku.
+
+- 18) § 4 zákona SNR č. 320/1992 Zb. o správnych poplatkoch.
+
+- 19) § 20 ods. 2 zákona SNR č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
+
+- 20) Napr. § 260 ods. 2 Zákonníka práce.
+
+- 21) § 54 ods. 3 zákona č. 335/1991 Zb. o súdoch a sudcoch.
+
+- 22) § 352 Občianskeho súdneho poriadku.
