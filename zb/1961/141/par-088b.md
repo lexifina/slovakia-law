@@ -2,24 +2,30 @@
 
 # § 88b
 
-(1) Pri odhaľovaní trestných činov uvedených v osobitnom zákone<sup>2</sup>) a pri zisťovaní ich páchateľov možno použiť agenta. Jeho použitie je prípustné iba vtedy, keď odhaľovanie uvedených trestných činov a zisťovanie ich páchateľov by bolo iným spôsobom podstatne sťažené.
+(1) Pri odhaľovaní, zisťovaní a usvedčovaní páchateľov trestných činov uvedených v osobitnom zákone<sup>2</sup>) alebo korupcie možno použiť agenta. Jeho použitie je prípustné len vtedy, ak odhaľovanie, zisťovanie a usvedčovanie páchateľov uvedených trestných činov by bolo iným spôsobom podstatne sťažené a získané poznatky odôvodňujú podozrenie z trestnej činnosti alebo úmyslu osoby spáchať takýto trestný čin.
 
-(2) Agentom je príslušník Policajného zboru, ktorý koná pod dočasnou alebo trvalou legendou. Legendou agenta je súhrn krycích údajov o jeho osobe, najmä o jeho totožnosti, narodení, rodnom liste, vzdelaní, rodinnom stave a zamestnaní. Pod touto legendou môže vystupovať v právnych vzťahoch v rámci svojho určenia podľa odseku 1.
+(2) Neprípustnou činnosťou agenta je, ak sám iniciatívne
 
-(3) Ak je to na vytvorenie alebo zachovanie legendy nevyhnutné, možno za podmienok uvedených v osobitnom zákone vyhotoviť, zmeniť a používať krycie doklady<sup>11</sup>).
+- a) koná v úmysle, aby on alebo iný mal z trestného činu prospech alebo výhodu alebo iný mal pre to ujmu,
 
-(4) Príkaz na použitie agenta vydáva predseda senátu a v prípravnom konaní prokurátor. Ak je použitie agenta spojené so vstupom do bytu iného, príkaz na použitie agenta v trestnom konaní vydáva sudca na návrh prokurátora.
+- b) podstrčí alebo podhodí inému nechcenú drogu, peniaze alebo inú vec ako dôkaz o trestnej činnosti tejto osoby.
 
-(5) Ak ide o vec, ktorá nestrpí odklad, môže prokurátor, ak použitie agenta nie je spojené so vstupom do bytu iného, príkaz uvedený v odseku 4 dať aj mimo prípravného konania. Taký príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
+(3) Agent koná pod dočasnou alebo trvalou legendou<sup>11</sup>) alebo bez legendy. Legenda je súhrn krycích údajov o osobe agenta, najmä o jeho totožnosti, rodinnom stave, vzdelaní a zamestnaní. Ako krycie údaje nemožno použiť údaje, ktoré podľa osobitného predpisu<sup>11</sup>) nesmú byť krycím dokladom.
 
-(6) Príkaz podľa odsekov 4 a 5 musí byť písomný a musí byť v ňom určená doba, po ktorú bude agent použitý.
+(4) Ak je to na vytvorenie alebo zachovanie legendy nevyhnutné, možno za podmienok uvedených v osobitnom zákone<sup>11</sup>) vyhotoviť, zmeniť a používať krycie doklady.
 
-(7) Písomnosti týkajúce sa použitia agenta sa do spisu založia iba vtedy, keď prokurátor v obžalobe navrhne vykonanie dôkazu oboznámením so skutočnosťami zistenými agentom.
+(5) Príkaz na použitie agenta pred začatím prípravného konania a v prípravnom konaní vydáva sudca na návrh prokurátora, v konaní pred súdom aj bez takého návrhu predseda senátu.
 
-(8) Agent môže pri použití svojej legendy so súhlasom oprávnenej osoby vstúpiť do bytu. Taký súhlas sa však nesmie získať na základe predstierania práva vstupu.
+(6) Ak ide o vec, ktorá nestrpí odklad, môže prokurátor, ak použitie agenta nie je spojené so vstupom do bytu iného, príkaz uvedený v odseku 5 dať pred začatím prípravného konania a v prípravnom konaní. Takýto príkaz musí najneskôr do troch dní potvrdiť sudca, inak stráca platnosť.
 
-(9) Pravá totožnosť agenta musí byť aj po ukončení jeho použitia utajená. Predsedovi senátu, prokurátorovi a sudcovi, ktorí sú príslušní na rozhodnutie podľa odsekov 4 a 5, ako aj predsedovi senátu v konaní pred súdom musí sa na ich žiadosť pravá totožnosť agenta oznámiť.
+(7) Príkaz podľa odsekov 5 a 6 musí byť písomný a musí byť v ňom určený čas, po ktorý bude agent použitý. Nakladá sa s ním ako s písomnosťou obsahujúcou predmet štátneho tajomstva.
 
-(10) Agentom zistené skutočnosti v prípravnom konaní prednesie ako svedok prezidentom Policajného zboru poverený príslušník Policajného zboru, ktorý zabezpečí aj doručenie predvolania na hlavné pojednávanie agentovi. V konaní na súde predseda senátu nariadi, aby sa obžalovaný počas výsluchu agenta ako svedka z pojednávacej siene vzdialil; po návrate do pojednávacej siene musí mu však oznámiť obsah agentovej výpovede, aby sa k nej obžalovaný mohol vyjadriť. Neoznámi mu však pravú totožnosť agenta.
+(8) Písomnosti týkajúce sa použitia agenta sa do spisu založia len vtedy, ak prokurátor v obžalobe navrhne vykonanie dôkazu skutočnosťami zistenými agentom.
 
-(11) Skutočnosti týkajúce sa trestných činov nesúvisiacich s vecou, v ktorej bol agent použitý, sa môžu v inom konaní použiť ako dôkaz iba vtedy, keď ide o trestný čin uvedený v osobitnom zákone<sup>2</sup>).
+(9) Agent môže pri použití svojej legendy so súhlasom oprávnenej osoby vstúpiť do bytu. Taký súhlas sa však nesmie získať na základe predstieraného práva vstupu.
+
+(10) Pravá totožnosť agenta vystupujúceho pod legendou musí byť aj po skončení jeho použitia utajená. Prokurátorovi alebo sudcovi, ktorí sú príslušní na rozhodnutie podľa odsekov 5 a 6, ako aj predsedovi senátu v konaní pred súdom musí sa na ich žiadosť pravá totožnosť agenta oznámiť.
+
+(11) O skutočnostiach dôležitých pre trestné konanie môže agenta v prípravnom konaní vyslúchnuť prokurátor pri primeranom použití ustanovenia § 101b ods. 3 tak, aby jeho totožnosť nemohla byť odhalená. Agent môže byť vyslúchaný na súde len pri primeranom použití ustanovení § 101 ods. 5, § 101b ods. 3 a § 209 Trestného poriadku tak, aby jeho totožnosť nemohla byť odhalená. Doručenie predvolania na hlavné pojednávanie agentovi zabezpečí príslušník Policajného zboru poverený prezidentom Policajného zboru.
+
+(12) Skutočnosti týkajúce sa trestných činov nesúvisiacich s vecou, v ktorej bol agent použitý, môžu sa v inom konaní použiť ako dôkaz iba vtedy, ak ide o trestný čin uvedený v osobitnom zákone<sup>2</sup>) alebo o korupciu.
