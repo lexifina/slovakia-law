@@ -122,9 +122,9 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 02 01 07 | odpady z lesného hospodárstva | O
 
-  - 02 01 08 | agrochemické odpady obsahujúce nebezpečné látky | N
+  - 02 01 08 | agrochemlcké odpady obsahujúce nebezpečné látky | N
 
-  - 02 01 09 | agrochemické odpady iné ako uvedené v 02 01 08 | O
+  - 02 01 09 | agrochemlcké odpady iné ako uvedené v 02 01 08 | O
 
   - 02 01 10 | odpadové kovy | O
 
@@ -424,13 +424,13 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 06 07 03 | kal sulfátu bárnatého obsahujúci ortuť | N
 
-  - 06 07 04 | roztoky a kyseliny, napr. kontaktná kyselina sírová | N
+  - 06 07 04 | roztoky a kyseliny, napr. kontaktná kyselina | N
 
   - 06 07 99 | odpady inak nešpecifikované |
 
   - 06 08 | ODPADY Z VSDP KREMÍKA A JEHO DERIVÁTOV |
 
-  - 06 08 02 | odpady obsahujúce chlórsilány | O
+  - 06 08 02 | odpady obsahujúce nebezpečné silikóny | N
 
   - 06 08 99 | odpady inak nešpecifikované |
 
@@ -520,7 +520,9 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 07 02 15 | odpadové prísady iné ako uvedené v 07 02 14 | O
 
-  - 07 02 16 | odpady obsahujúce silikóny | O
+  - 07 02 16 | odpady obsahujúce silikóny | N
+
+  - 07 02 17 | odpady obsahujúce silikóny iné ako uvedené v 07 02 16 | O
 
   - 07 02 99 | odpady inak nešpecifikované |
 
@@ -1252,7 +1254,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 12 03 02 | odpady z odmasťovania parou | N
 
-  - 13 | ODPADY Z OLEJOV A KVAPALNÝCH PALÍV (OKREM JEDLÝCH OLEJOV, 05, 12 A 19) |
+  - 13 | ODPADY Z OLEJOV A KVAPALNÝCH PALÍV (OKREM JEDLÝCH OLEJOV, 05, 12) |
 
   - 13 01 | ODPADOVÉ HYDRAULICKÉ OLEJE |
 
@@ -1340,7 +1342,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 14 06 | ODPADY Z ORGANICKÝCH ROZPÚŠŤADIEL, CHLADIACICH MÉDIÍ A PIEN A AEROSÓLOV Z PROPELENTOV |
 
-  - 14 06 01 | chlórfluórované uhľovodíky, HCFC, HFC | N
+  - 14 06 01 | chlórfluórované uhľovodíky, HČFČ, HFČ | N
 
   - 14 06 02 | iné halogénované rozpúšťadlá a zmesi rozpúšťadiel | N
 
@@ -1386,7 +1388,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 16 01 03 | opotrebované pneumatiky | O
 
-  - 16 01 04 | vyradené vozidlá | N
+  - 16 01 04 | staré vozidlá | N
 
   - 16 01 06 | staré vozidlá neobsahujúce kvapaliny a iné nebezpečné dielce | O
 
@@ -1394,7 +1396,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 16 01 08 | dielce obsahujúce ortuť | N
 
-  - 16 01 09 | dielce obsahujúce PCB | N
+  - 16 01 09 | dielce obsahujúce PČB | N
 
   - 16 01 10 | výbušné časti (napr. bezpečnostné vzduchové vankúše) | N
 
@@ -1428,9 +1430,9 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 16 02 09 | transformátory a kondenzátory obsahujúce PČB | N
 
-  - 16 02 10 | vyradené zariadenia obsahujúce alebo znečistené PCB, iné ako uvedené v 16 02 09 | N
+  - 16 02 10 | vyradené zariadenia obsahujúce alebo znečistené PČB, iné ako uvedené v 16 02 09 | N
 
-  - 16 02 11 | vyradené zariadenia obsahujúce chlórfluórované uhľovodíky, HCFC, HFC | N
+  - 16 02 11 | vyradené zariadenia obsahujúce chlórfluórované uhľovodíky, HČFČ, HFČ | N
 
   - 16 02 12 | vyradené zariadenia obsahujúce voľný azbest | N
 
@@ -1478,7 +1480,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 16 06 01 | olovené batérie | N
 
-  - 16 06 02 | niklovo-kadmiové batérie | N
+  - 16 06 02 | niklovo-kadmové batérie | N
 
   - 16 06 03 | batérie obsahujúce ortuť | N
 
@@ -1544,7 +1546,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 16 11 05 | výmurovky a žiaruvzdorné materiály z nemetalurgických procesov obsahujúce nebezpečné látky | N
 
-  - 16 11 06 | výmurovky a žiaruvzdorné materiály z nemetalurgických procesov iné ako uvedené v 16 11 05 | N
+  - 16 11 06 | výmurovky a žiaruvzdorné materiály z nemetalurgických procesov iné ako uvedené v 16 11 05 | O
 
   - 17 | STAVEBNÉ ODPADY A ODPADY Z DEMOLÁCIÍ (VRÁTANE VÝKOPOVEJ ZEMINY Z KONTAMINOVANÝCH MIEST) |
 
@@ -1602,9 +1604,9 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 17 05 | ZEMINA (VRÁTANE VÝKOPOVEJ ZEMINY Z KONTAMINOVANÝCH PLÔCH), KAMENIVO A MATERIÁL Z BAGROVÍSK |
 
-  - 17 05 03 | zemina a kamenivo obsahujúce nebezpečné látky | N
+  - 17 05 03 | zemina a kamenlvo obsahujúce nebezpečné látky | N
 
-  - 17 05 04 | zemina a kamenivo iné ako uvedené v 17 05 03 | O
+  - 17 05 04 | zemina a kamenlvo iné ako uvedené v 17 05 03 | O
 
   - 17 05 05 | výkopová zemina obsahujúca nebezpečné látky | N
 
@@ -1622,7 +1624,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 17 06 04 | izolačné materiály iné ako uvedené v 17 06 01 a 17 06 03 | O
 
-  - 17 06 05 | stavebné materiály obsahujúce azbest | O
+  - 17 06 05 | stavebné materiály obsahujúce azbest | N
 
   - 17 08 | STAVEBNÝ MATERIÁL NA BÁZE SADRY |
 
@@ -1796,7 +1798,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 19 08 08 | odpad z membránových systémov s obsahom ťažkých kovov | N
 
-  - 19 08 09 | zmesi tukov a olejov z odlučovačov oleja z vody obsahujúce jedlé oleje a tuky | N
+  - 19 08 09 | zmesi tukov a olejov z odlučovačov oleja z vody obsahujúce jedlé oleje a tuky | O
 
   - 19 08 10 | zmesi tukov a olejov z odlučovačov oleja z vody iné ako uvedené v 19 08 09 | N
 
@@ -1962,7 +1964,7 @@ Príloha č. 1 k vyhláške č. 284/2001 Z. z.
 
   - 20 01 40 | kovy | O
 
-  - 20 01 41 | odpady z vymetania komínov | N
+  - 20 01 41 | odpady z vymetania komínov | O
 
   - 20 01 99 | odpady inak nešpecifikované |
 
