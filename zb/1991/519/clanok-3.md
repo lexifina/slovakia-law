@@ -72,8 +72,8 @@
 
   - b) Pre konanie o dedičstve po tých, ktorí zomreli pred účinnosťou tohto zákona, použijú sa doterajšie predpisy.
 
-- 11. Vláda Českej a Slovenskej Federatívnej Republiky sa splnomocňuje, aby nariadením upravovala s prihliadnutím na meniace sa cenové pomery peňažné sumy v česko-slovenských korunách uvedené v § 9 ods. 3 písm. a), § 53 ods. 1, § 89a, § 172 ods. 1, § 273 ods. 1, § 322 ods. 2 písm. d) a § 351 ods. 1.
+- 11. Vláda Slovenskej republiky sa splnomocňuje, aby nariadením upravovala s prihliadnutím na meniace sa cenové pomery peňažné sumy v česko-slovenských korunách uvedené v § 9 ods. 3 písm. a), § 53 ods. 1, § 89a, § 172 ods. 1, § 273 ods. 1, § 322 ods. 2 písm. d) a § 351 ods. 1.
 
-- 12. Ministri spravodlivosti Českej republiky a Slovenskej republiky sa splnomocňujú, aby všeobecne záväzným právnym predpisom ustanovili podrobnosti o obchodnom registri a spôsobe jeho vedenia.
+- 12. Minister spravodlivosti Slovenskej republiky sa splnomocňuje, aby všeobecne záväzným právnym predpisom ustanovil podrobnosti o obchodnom registri a spôsobe jeho vedenia.
 
 - 13. Predsedníctvo Federálneho zhromaždenia sa splnomocňuje, aby v Zbierke zákonov vyhlásilo úplné znenie Občianskeho súdneho poriadku (zákon č. 99/1963 Zb.), ako vyplýva z neskorších predpisov.
