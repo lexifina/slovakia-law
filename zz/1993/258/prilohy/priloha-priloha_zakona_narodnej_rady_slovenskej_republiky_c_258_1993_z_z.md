@@ -1,6 +1,6 @@
 Príloha zákona Národnej rady Slovenskej republiky č. 258/1993 Z. z. Železničnú dopravnú cestu tvoria
 
-- a) pozemky,
+- a) pozemky, na ktorých sú umiestnené súčasti železničnej dopravnej cesty uvedené v písmenách b) až i),
 
 - b) drážne teleso a pláň, predovšetkým násypy, zárezy, drenáže a odvodňovacie priekopy, spevňovacie múry, spevňujúce porasty na ochranu svahov, osobné nástupištia a nakladacie rampy, postranné pruhy a cesty, oplotenie, živé ploty, ohrady, zásnežky,
 
