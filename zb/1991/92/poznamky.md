@@ -8,9 +8,15 @@
 
 - Zákon SNR č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby.
 
+- 4a) § 31 zákona č. 17/1992 Zb. o životnom prostredí.
+
+- 4b) Napr. § 8 ods. 2 zákona č. 17/1992 Zb.
+
 - 5) Zákon č. 104/1990 Zb. o akciových spoločnostiach.
 
 - Zákon č. 109/1964 Zb. Hospodársky zákonník v znení neskorších predpisov.
+
+- 5a) Zákon SNR č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a pozemkových spoločenstvách.Zákon ČNR č. 569/1991 Zb. o Pozemkovom fonde Českej republiky.
 
 - 6) Zákon č. 173/1988 Zb. o podniku so zahraničnou majetkovou účasťou v znení zákona č. 112/1990 Zb.
 
