@@ -160,6 +160,12 @@ Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v z
 
 - Doterajšie odseky 2 a 3 sa označujú ako odseky 4 a 5.
 
+- 9. § 4 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Podrobnosti o podmienkach na registráciu ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
 - 10. V poznámke pod čiarou k odkazu 3 sa citácia „Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 103/1984 Zb. o opatreniach proti prenosným chorobám.“ nahrádza citáciou „Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.“.
 
 - 11. V § 5 odsek 1 znie:
@@ -273,6 +279,10 @@ Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v z
 - (1)
 
 - Prevádzkovateľ bitúnku,<sup>8b</sup>) ktorý zabíja jatočné zvieratá, je povinný zabezpečiť klasifikáciu tiel jatočných zvierat, najmä ošípaných, hovädzieho dobytka a oviec.
+
+- (2)
+
+- Klasifikáciu jatočných ošípaných vykonávajú fyzické osoby alebo právnické osoby na základe osvedčenia o odbornej spôsobilosti vydaného ministerstvom. Podrobnosti o klasifikácii jatočných ošípaných a o vydávaní osvedčenia o odbornej spôsobilosti ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
 
 - (4)
 
