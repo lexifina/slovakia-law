@@ -1,1 +1,0 @@
-- 1) § 37 nariadenia vlády Československej socialistickej republiky č. 138/1975 Zb., ktorým sa vykonávajú niektoré ustanovenia zákona č. 122/1975 Zb. o poľnohospodárskom družstevníctve.
