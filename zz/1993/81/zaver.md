@@ -1,0 +1,1 @@
+Michal Kováč v. r.
