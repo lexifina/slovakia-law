@@ -56,7 +56,11 @@ Zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zá
 
 - Doterajší odsek 5 sa označuje ako odsek 6 a za nový odsek 6 sa dopĺňajú nové odseky 7 a 8, ktoré znejú:
 
-- „(8)
+- „(7)
+
+- Zoznam znečisťujúcich látok, kategorizáciu zdrojov znečisťovania a limity znečisťovania vyhlásené Federálnym výborom pre životné prostredie alebo orgánmi štátnej správy republík podľa odseku 4 možno zmeniť a vyhlásené limity znečisťovania sprísniť najskôr po piatich rokoch odo dňa ich účinnosti; zmena alebo sprísnenie sa musia vyhlásiť najmenej tri roky predo dňom ustanoveným ako deň ich účinnosti. Zdroje musia určené limity spĺňať do piatich rokov odo dňa ich účinnosti.
+
+- (8)
 
 - Množstvo vypúšťaných znečisťujúcich látok zo zdroja sa zisťuje meraním alebo sa určí bilančným výpočtom. Meranie sa vykonáva v mieste, za ktorým už nedochádza k ďalšiemu čisteniu alebo riedeniu vypúšťaných plynov. Podrobnosti o mieste a spôsobe merania ustanoví osobitný predpis.“.
 
