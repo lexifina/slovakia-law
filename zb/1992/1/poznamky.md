@@ -18,8 +18,6 @@
 
 - 4b) § 9 ods. 3 Zákonníka práce.
 
-- 4c) § 129 Zákonníka práce.§ 37 ods. 4 písm. a) Zákonníka práce.
-
 - 5) § 11 zákona Českej národnej rady č. 37/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
 - § 11 zákona Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
@@ -30,7 +28,7 @@
 
 - 7) § 95 Zákonníka práce.
 
-- 8) § 272 ods. 5 Zákonníka práce.
+- 8) § 272 ods. 4 Zákonníka práce.
 
 - 9) § 3 a 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.Vyhláška Ministerstva financií Slovenskej republiky č. 640/1992 Zb., ktorou sa ustanovujú sídla a obvody pôsobnosti územných finančných orgánov v znení vyhlášky Ministerstva financií Slovenskej republiky č. 69/1994 Z. z.
 
