@@ -6,9 +6,9 @@
 
 - 4) § 9 zákona č. 384/1997 Z. z. o divadelnej činnosti.
 
-- 5) § 39 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+- 5) Zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov.
 
-- 6) Zákon č. 103/2014 Z. z. o divadelnej činnosti a hudobnej činnosti a o zmene a doplnení niektorých zákonov.
+- 6) Zákonník práce v znení neskorších predpisov.
 
 - 7) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
 
