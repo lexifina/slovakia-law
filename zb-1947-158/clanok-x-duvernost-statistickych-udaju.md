@@ -1,0 +1,1 @@
+# X. Důvěrnost statistických údajů.
