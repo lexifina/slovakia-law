@@ -10,6 +10,6 @@ Ustanovenia tejto časti sa vzťahujú na dodávky upotrebených ropných olejov
 
   - 1. mastiace automobilové a letecké oleje,
 
-  - 2. mastiace priemyselné oleje s výnimkou nízko tuhnúcich, valcových a tmavých olejov;
+  - 2. mastiace priemyselné oleje s výnimkou ložiskového oleja s prísadou OL-PO a valcových a tmavých olejov;
 
 - b) nie sú vhodné na regeneráciu (ďalej len „nespracovateľné oleje“).<sup>3</sup>)
