@@ -1,6 +1,6 @@
 # § 27b
 
-(1) Konania začaté pred 1. januárom 2000 ministerstvo dokončí podľa doterajších právnych predpisov.
+(1) Konania začaté pred 1. januárom 2000 úrad dokončí podľa doterajších právnych predpisov.
 
 (2) Doterajšie právne predpisy sa vzťahujú na dlhopisy, ktorých vydanie bolo povolené do 1. januára 2000, s výnimkou uvedenou v odseku 3.
 
