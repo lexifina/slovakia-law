@@ -4,6 +4,12 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - 1. V § 6 ods. 1 druhej vete sa za slová „fyzickou osobou“ vkladajú slová „v rozsahu do jedného m<sup>3</sup>ročne od jednej fyzickej osoby“.
 
+- 2. V § 8 sa odsek 3 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- spracovanie odpadu z elektrických a elektronických zariadení (§ 45).“.
+
 - 3. V § 18 ods. 3 písm. d) sa slová „(§ 38)“ nahrádzajú slovami „podľa štvrtej časti zákona“.
 
 - 4. V § 20 ods. 4 sa vypúšťajú slová „do 10 dní po prevzatí zásielky odpadu“ a slová „ak tento zákon vo štvrtej časti neustanovuje inak“.
