@@ -6,20 +6,22 @@ Príloha č. 2 vyhlášky č. 57/1979 Zb.
 
 - | 1 | 2 | 3 | 4 | 5 | 6
 
-- motorový bicykel, motocykel, skúter | - | - | 0,25 | 0,03 | 0,16 | 0,06
+- moped, motocykel, skúter | - | 150 | 0,30 | 0,03 | 0,21 | 0,06
 
-- | 150 | 150 | 0,28 | 0,04 | 0,18 | 0,06
+- | 150 | 250 | 0,36 | 0,04 | 0,25 | 0,07
 
-- | 250 | 250 | 0,32 | 0,04 | 0,22 | 0,06
+- | 250 | - | 0,42 | 0,04 | 0,30 | 0,08
 
-- trojkolka, motocykel s postranným vozíkom, motokára | - | - | 0,43 | 0,05 | 0,27 | 0,11
+- motorová trojkolka, motocykel (skúter) s postranným vozíkom | - | - | 0,53 | 0,05 | 0,36 | 0,12
 
-- osobný (dodávkový) automobil | - | 900 | 0,80 | 0,10 | 0,37 | 0,33
+- osobný (dodávkový) automobil | - | 900 | 0,93 | 0,10 | 0,50 | 0,33
 
-- | 900 | 1200 | 0,93 | 0,10 | 0,46 | 0,37
+- | 900 | 1200 | 1,09 | 0,10 | 0,62 | 0,37
 
-- | 1200 | 1500 | 1,04 | 0,11 | 0,54 | 0,39
+- | 1200 | 1500 | 1,24 | 0,11 | 0,74 | 0,39
 
-- | 1500 | 2000 | 1,10 | 0,11 | 0,57 | 0,42
+- | 1500 | 2000 | 1,32 | 0,11 | 0,79 | 0,42
 
-- | 2000 | | 1,29 | 0,13 | 0,69 | 0,47
+- | 2000 | - | 1,54 | 0,13 | 0,94 | 0,47
+
+- Ak pracovník blokové poukážky v dôsledku nižšej spotreby benzínu vráti, zvýši sa suma náhrady patriaca podľa stĺpca 6 o hodnotu benzínu podľa vrátených poukážok, a to až do výšky 15 % finančnej hodnoty spotreby benzínu vypočítanej podľa stĺpca 5. | | | | | |

@@ -6,20 +6,20 @@ Príloha č. 1 vyhlášky č. 57/1979 Zb.
 
 - | 1 2 | 3
 
-- motorový bicykel, motocykel, skúter | 150 | 0,40
+- moped, motocykel, skúter | - 150 | 0,45
 
-- | 150 250 | 0,45
+- | 150 250 | 0,55
 
-- | 250 | 0,50
+- | 250 - | 0,60
 
-- trojkolka, motocykel s postranným vozíkom | | 0,65
+- motorová trojkolka, motocykel (skúter) s postranným vozíkom | - - | 0,75
 
-- osobný automobil | 900 | 1,03
+- osobný automobil | 900 | 1,15
 
-- | 900 1200 | 1,30
+- | 900 1200 | 1,45
 
-- | 1200 1500 | 1,45
+- | 1200 1500 | 1,65
 
-- | 1500 2000 | 1,63
+- | 1500 2000 | 1,85
 
-- | 2000 | 1,90
+- | 2000 | 2,15
