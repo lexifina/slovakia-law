@@ -34,4 +34,4 @@
 
   - 4. mena majiteľa podielu a celkového podielu z emisie.
 
-(2) Stredisko je povinné na požiadanie údaje podľa odseku 1 poskytnúť organizátorom verejného trhu a obchodníkom s cennými papiermi najneskôr pred začiatkom nasledujúceho obchodného dňa.
+(2) Stredisko je povinné na požiadanie údaje podľa odseku 1 poskytnúť organizátorom verejného trhu a obchodníkom s cennými papiermi a zahraničným obchodníkom s cennými papiermi najneskôr pred začiatkom nasledujúceho obchodného dňa.
