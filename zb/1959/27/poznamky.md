@@ -1,1 +1,0 @@
-- *) Vzorové stanovy stavebného bytového družstva zamestnancov a stavebného bytového družstva občanov sú uverejnené v čiastke 40/1959 Úředného listu (Úradného vestníka).
