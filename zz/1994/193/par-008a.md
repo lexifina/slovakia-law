@@ -16,7 +16,7 @@ nárok na prídavky na deti sa opätovne posúdi.
 
 - b) zániku podmienok nezaopatrenosti niektorého z detí, na ktoré mala oprávnená osoba nárok na prídavky na deti,
 
-- c) umiestnenia nezaopatreného dieťaťa do zariadenia s celoročným pobytom s výnimkou prípadov, ak je dôvodom takéhoto umiestnenia nezaopatreného dieťaťa liečenie, plnenie povinnej školskej dochádzky alebo sústavná príprava na povolanie, alebo umiestnenia inej osoby s výnimkou nezaopatreného dieťaťa do zariadenia sociálnej starostlivosti s celoročným pobytom,
+- c) starostlivosti o nezaopatrené dieťa, ktorému sa poskytuje starostlivosť v zariadení celoročne, ak je dôvodom takejto starostlivosti výkon ústavnej výchovy na základe právoplatného rozhodnutia príslušného orgánu alebo výkon ochrannej výchovy na základe právoplatného rozhodnutia súdu alebo starostlivosti o inú spoločne posudzovanú osobu, ktorej sa poskytuje starostlivosť v zariadení sociálnych služieb celoročne.<sup>14c</sup>)
 
 - d) nástupu na základnú (náhradnú) vojenskú službu alebo civilnú službu,
 
@@ -36,7 +36,7 @@ príjem zistený podľa § 7 sa opätovne posúdi tak, že sa na príjem osôb, 
 
 - d) o dieťa oprávnenej osoby, ktoré opätovne spĺňa podmienky nezaopatrenosti,
 
-- e) o nezaopatrené dieťa uvedené v § 3 ods. 2 písm. b) a c), ak zanikli dôvody, pre ktoré naň nevznikol nárok na prídavky na deti,
+- e) o nezaopatrené dieťa uvedené v § 3 ods. 2, ak zanikli dôvody, pre ktoré naň nevznikol nárok na prídavky na deti,
 
 - f) o inú osobu s výnimkou nezaopatreného dieťaťa, ktorá sa vrátila zo zariadenia sociálnej starostlivosti s celoročným pobytom a patrí podľa § 8 ods. 1 do okruhu spoločne posudzovaných osôb,
 

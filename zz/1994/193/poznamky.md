@@ -6,6 +6,12 @@
 
 - 2b) § 50 vyhlášky Ministerstva zdravotníctva a sociálnych vecí Slovenskej socialistickej republiky č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení neskorších predpisov.
 
+- 2c) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 70/1997 Z. z.Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch.
+
+- 2d) Zákon č. 195/1998 Z. z. o sociálnej pomoci.Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+
+- 2e) § 45 ods. 3 a § 46 Zákona o rodine.
+
 - 3) § 34 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb., zákona č. 522/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
 
 - 4) § 7 a 8 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 578/1991 Zb., zákona č. 231/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 247/1993 Z. z.
@@ -20,9 +26,17 @@
 
 - 9) Zákon Slovenskej národnej rady č. 29/1984 Zb. v znení zákona Slovenskej národnej rady č. 171/1990 Zb. a zákona Slovenskej národnej rady č. 522/1990 Zb. Zákon Slovenskej národnej rady č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
 
+- 9a) § 25 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
+- 9b) § 25 ods. 3 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 9c) § 20 zákona č. 172/1990 Zb. v znení neskorších predpisov.
+
 - 10) § 6 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
-- 11) Zákon č. 463/1991 Zb. o životnom minime v znení zákona Národnej rady Slovenskej republiky č. 277/1993 Z. z.
+- 11) § 5 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
+
+- 11a) § 5 písm. c) až e) zákona č. 125/1998 Z. z.
 
 - 12) § 16 písm. a) č. 3 zákona Slovenskej národnej rady č. 543/1990 Zb. v znení zákona Slovenskej národnej rady č. 195/1992 Zb.
 
@@ -47,6 +61,8 @@
 - 14a) § 86 zákona o rodine.
 
 - 14b) § 92 zákona o rodine.
+
+- 14c) Zákon č. 195/1998 Z. z.
 
 - 15) Napríklad zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z. Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 275/1993 Z. z.Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 524/1991 Zb. o odmeňovaní prác vykonávaných na základe dohôd o prácach vykonávaných mimo pracovného pomeru.
 
