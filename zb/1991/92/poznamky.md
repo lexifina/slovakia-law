@@ -1,5 +1,7 @@
 - 1) Napr. zákon č. 298/1990 Zb. o úprave niektorých majetkových vzťahov rehoľných rádov a kongregácií a arcibiskupstva olomouckého.
 
+- 1b) Národná rada Slovenskej republiky podľa čl. 154 ods. 1 Ústavy Slovenskej republiky č. 460/1992 Zb.
+
 - 2) Napr. zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
 
 - 3) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení zákona č. 541/1990 Zb.
@@ -31,3 +33,7 @@
 - 9) Zákon č. 104/1990 Zb.
 
 - 10) Zákon č. 109/1964 Zb. v znení neskorších predpisov.
+
+- 10a) § 14 ods. 4 a 8 a § 35 vyhlášky Federálneho ministerstva financií č. 119/1988 Zb. o hospodárení s národným majetkom.
+
+- 10b) § 11 nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 383/1991 Zb. o vydaní a použití investičných kupónov.
