@@ -11,3 +11,5 @@
 - 6) Zákon Slovenskej národnej rady č. 320/1992 Zb. o správnych poplatkoch.
 
 - 7) Zmluva medzi Slovenskou republikou a Českou republikou o osobných dokladoch, cestovných dokladoch, vodičských dokladoch a evidencii vozidiel z 29. októbra 1992.
+
+- 8) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
