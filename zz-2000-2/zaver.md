@@ -1,0 +1,1 @@
+Tibor Šagát v. r.
