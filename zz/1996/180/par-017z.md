@@ -1,0 +1,3 @@
+# § 17z Osobitné obmedzenia
+
+Colník nesmie pri služobnom zákroku proti zjavne tehotnej žene alebo žene, ktorá sa za tehotnú vyhlási, fyzickej osobe vysokého veku, fyzickej osobe so zjavnou telesnou chybou alebo chorobou a fyzickej osobe zjavne mladšej ako 15 rokov použiť úder a kop sebaobrany, slzotvorné prostriedky, elektrické paralyzátory, obušok, putá, služobného psa, úder strelnou zbraňou a zbraň s výnimkou prípadov, v ktorých útok týchto osôb bezprostredne ohrozuje život a zdravie colníka alebo život a zdravie iných fyzických osôb alebo hrozí väčšia škoda na majetku a nebezpečenstvo nemožno odvrátiť inak.

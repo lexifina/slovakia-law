@@ -26,7 +26,17 @@
 
 - 11) § 158 zákona č. 141/1961 Zb. o trestnom konaní súdnom (trestný poriadok).
 
-- 12) § 27 až 32 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 12) § 27 až 35 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 12a) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
+
+- 12b) § 89 ods. 5 Trestného zákona.
+
+- 12c) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+
+- 12d) § 41 ods. 2 Trestného zákona v znení neskorších predpisov.
+
+- 12e) Napríklad zákon č. 547/1990 Zb. o nakladaní s niektorými druhmi tovaru a technológií a o ich kontrole, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 45/1998 Z. z.
 
 - 13) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
 
