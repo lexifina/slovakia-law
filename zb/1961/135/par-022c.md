@@ -24,7 +24,9 @@
 
 - f) neodstráni v termíne určenom cestným správnym orgánom pevnú prekážku na diaľnici, ceste alebo na miestnej komunikácii alebo nesplní podmienky udelenej výnimky,
 
-- g) ako vodič použije vymedzené úseky diaľnic a ciest pre motorové vozidlá bez označenia motorového vozidla platnou nálepkou.
+- g) ako vodič použije vymedzené úseky diaľnic a ciest pre motorové vozidlá bez označenia motorového vozidla platnou nálepkou,
+
+- h) umiestni reklamné zariadenia na diaľniciach a cestách pre motorové vozidlá a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.
 
 (2) Za priestupok podľa odseku 1 písm. a) až f) možno uložiť pokutu do 10 000 Sk.
 
