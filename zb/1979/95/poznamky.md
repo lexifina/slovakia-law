@@ -8,16 +8,10 @@
 
 - 5) Zoznam vybraných organizácií určených na základe príslušných uznesení vlád republík sa uverejňuje v Spravodajcovi Ministerstva práce a sociálnych vecí Slovenskej socialistickej republiky a vo Vestníku Ministerstva školstva Slovenskej socialistickej republiky a možno do nich nazrieť na odboroch pracovných síl a na odboroch školstva okresných národných výborov.
 
-- 6) § 6 ods. 2 zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
+- 6) Za dobu pracovnej neschopnosti, počas ktorej podľa tohto ustanovenia patrí žiakom a učňom mesačná odmena, sa nemocenské neposkytuje. Peňažná pomoc v materstve sa poskytuje podľa osobitných predpisov.
 
-- 7) Za dobu pracovnej neschopnosti, počas ktorej podľa tohto ustanovenia patrí žiakom a učňom mesačná odmena, sa nemocenské neposkytuje. Peňažná pomoc v materstve sa poskytuje podľa osobitných predpisov.
+- 7) Ustanovenie § 5 ods. 1 nariadenia vlády ČSSR č. 151/1975 Zb. o finančnom hospodárení štátnych hospodárskych a niektorých ďalších socialistických organizácií.
 
-- 8) Ustanovenie § 5 ods. 1 nariadenia vlády ČSSR č. 151/1975 Zb. o finančnom hospodárení štátnych hospodárskych a niektorých ďalších socialistických organizácií.
-
-- 9) Zákon č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
-
-- 10) Novokoncipované učebné odbory sú určené vyhláškou MŠ SSR č. 90/1978 Zb., ktorou sa mení a dopĺňa vyhláška č. 11/1971 Zb. o učebných odboroch a o organizácii výchovy učňov. Uvádzajú sa len tie učebné odbory, ktoré sa zavádzajú do 1. 9. 1980. O zvýhodnených učebných odboroch zavádzaných od 1. 9. 1981 sa rozhodne v súlade s plánmi kvalifikovaných pracovníkov na obdobie 7. päťročného plánu.
-
-- 11) Učebné odbory určené vyhláškou MŠ SSR č. 11/1971 Zb. o učebných odboroch a o organizácii výchovy učňov v znení vyhlášky č. 88/1971 Zb., vyhlášky č. 82/1972 Zb. a vyhlášky č. 90/1978 Zb.
+- 8) Zákon č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl.
 
 - 13) § 18 zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení zákona č. 99/1972 Zb. o zvýšení prídavkov na deti a výchovného.
