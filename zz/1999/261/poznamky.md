@@ -1,0 +1,1 @@
+- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 218/1999 Z. z. o úprave výšky sadzieb základných náhrad za používanie cestných motorových vozidiel pri pracovných cestách.
