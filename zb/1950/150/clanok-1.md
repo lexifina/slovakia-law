@@ -60,7 +60,11 @@ osobám, ktorým by neprislúchala náhrada za znárodnený majetok podľa § 7 
 
 b)
 
-fyzickým osobám, ktoré boly právoplatne odsúdené pre zločin alebo prečin podľa zákona č. 231/1948 Sb., na ochranu ľudovodemokratickej republiky, spáchaný do dňa, ktorým štát nadobúda vlastníctvo podľa odseku 1;“.
+fyzickým osobám, ktoré boly právoplatne odsúdené pre zločin alebo prečin podľa zákona č. 231/1948 Sb., na ochranu ľudovodemokratickej republiky, spáchaný do dňa, ktorým štát nadobúda vlastníctvo podľa odseku 1;
+
+c)
+
+fyzickým osobám právoplatne odsúdeným pre trestné činy proti republike podľa hlavy prvej osobitnej časti trestného zákona, spáchané do dňa, ktorým štát nadobúda vlastníctvo podľa odseku 1.“.
 
 5.
 
