@@ -50,6 +50,8 @@
 
 - 17a) § 13 zákona č. 314/2001 Z. z.§ 19 vyhlášky Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
 
+- 17aa) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
 - 18) § 143 a 143a Občianskeho zákonníka.
 
 - 19) § 115 Občianskeho zákonníka.
@@ -83,6 +85,8 @@
 - 30) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 31a) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
 - 32) § 3 ods. 1 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 

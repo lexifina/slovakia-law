@@ -1,0 +1,13 @@
+Príloha č. 4 k zákonu č. 315/2001 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Rady 91/533/EHS zo 14. októbra 1991 o povinnosti zamestnávateľa informovať zamestnancov o podmienkach vzťahujúcich sa na zmluvu alebo na pracovno-právny vzťah (Ú. v. ES L 288, 18. 10. 1991).
+
+  - 2. Smernica Rady 92/85/EHS z 19. októbra 1992 o zavedení opatrení na podporu zlepšenia bezpečnosti a ochrany zdravia pri práci tehotných pracovníčok, pracovníčok krátko po pôrode a dojčiacich pracovníčok (desiata individuálna smernica v zmysle článku 16 (1) smernice 89/391/EHS) (Ú. v. ES L 348, 28. 11. 1992).
+
+  - 3. Smernica Rady 89/391/EHS z 12. júna 1989 o zavádzaní opatrení na podporu zlepšenia bezpečnosti a ochrany zdravia pracovníkov pri práci (Ú. v. ES L 183, 29. 06. 1989) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003, ktorým sa upravujú podľa rozhodnutia Rady 1999/468/ES ustanovenia týkajúce sa výborov, ktoré pomáhajú Komisii pri výkone jej vykonávacích právomocí ustanovených v nástrojoch, ktoré podliehajú postupu uvedenému v článku 251 Zmluvy o založení ES (Ú. v. EÚ L 284, 31. 10. 2003).
+
+  - 4. Smernica Rady 2000/43/ES z 29. júna 2000, ktorou sa zavádza zásada rovnakého zaobchádzania s osobami bez ohľadu na rasový alebo etnický pôvod (Ú. v. ES L 180, 19. 07. 2000).
+
+  - 5. Smernica Rady 2000/78/ES z 27. novembra 2000, ktorá ustanovuje všeobecný rámec pre rovnaké zaobchádzanie v zamestnaní a povolaní (Ú. v. ES L 303, 2. 12. 2000).
