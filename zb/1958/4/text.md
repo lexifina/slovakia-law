@@ -16,4 +16,6 @@ Podľa svojho článku 10 Dohoda vstúpila v platnosť 28. novembra 1957.
 
 Nadobudnutím platnosti dohody uverejnenej oznámením č. 138/1998 Z. z. stráca platnosť vo vzťahu medzi Slovenskou republikou a Zväzovou republikou Juhoslávia Dohoda o spolupráci v oblasti kultúry, umenia, vedy, školstva a osvety medzi vládou Československej republiky a vládou Federatívnej ľudovej republiky Juhoslávie podpísaná 29. januára 1957 v Belehrade (vyhláška ministra zahraničných vecí č. 4/1958 Zb.).
 
+Nadobudnutím platnosti dohody uverejnenej oznámením č. 131/1998 Z. z. stráca platnosť vo vzťahu medzi Slovenskou republikou a Slovinskou republikou Dohoda o spolupráci v oblasti kultúry, umenia, vedy, školstva a osvety medzi vládou Československej republiky a vládou Federatívnej ľudovej republiky Juhoslávie podpísaná 29. januára 1957 v Belehrade (vyhláška ministra zahraničných vecí č. 4/1958 Zb.).
+
 David v. r.
