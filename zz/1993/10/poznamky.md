@@ -16,13 +16,15 @@
 
 - 5a) § 10 zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1994 a o zmenách niektorých ďalších zákonov.
 
-- 6) § 9 zákona č. 1/1991 Zb. o zamestnanosti.
+- 6) § 20 ods. 3 a 4 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 231/1992 Zb.
 
 - 7) § 20 ods. 3 a 4 zákona č. 1/1991 Zb. v znení zákona č. 231/1992 Zb.
 
 - 8) § 61 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, v znení vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 123/1990 Zb. a zákona č. 306/1991 Zb.
 
 - 9) § 29 ods. 2 písm. d) zákona č. 100/1988 Zb. v znení neskorších predpisov.
+
+- 9a) § 4 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku. § 3 ods. 2 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch. Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky. Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.
 
 - 10) § 3 ods. 1 písm. a) zákona č. 286/1992 Zb. o daniach z príjmov.
 
