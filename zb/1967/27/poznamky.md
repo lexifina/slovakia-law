@@ -1,0 +1,3 @@
+- *) Ďalšie podmienky a pokyny pre dojednávanie hospodárskych zmlúv sú obsiahnuté v „Smerniciach pre uzavieranie a plnenie hospodárskych zmlúv o príprave prepráv a pre zjednodušené uplatňovanie požiadaviek na prepravu tovaru po železnici, platných pre celosieťový experiment v roku 1967" vydaných Ministerstvom dopravy vyhláškou č. 130/46/1966 Prepravného a tarifného vestníka.
+
+- *) Pre právne vzťahy upravené touto vyhláškou sa nepoužijú ustanovenia § 334 a § 335 ods. 1 až 3 Hospodárskeho zákonníka č. 109/1964 Zb. a § 37 až 40 vyhlášky ministra dopravy č. 132/1964 Zb. o železničnom prepravnom poriadku.
