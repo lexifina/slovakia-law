@@ -1,3 +1,0 @@
-Príloha č. 1b nariadenia vlády Slovenskej republiky č. 169/1993 Z. z.
-
-- CENOVÁ DOKUMENTÁCIA NA URČENIE PLATOVÉHO KOEFICIENTU PRE KRAJINY S OBŤAŽNÝMI KLIMATICKÝMI PODMIENKAMI [Tabuľka 01b](../assets/148c0e5705ce776816324b55d14daedebc6b6fc66dd9160308fdb22a4d7db128.pdf)
