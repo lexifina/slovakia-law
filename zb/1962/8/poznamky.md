@@ -1,1 +1,0 @@
-- *) Vládne uznesenie z 9. marca 1960 č. 201/1960.
