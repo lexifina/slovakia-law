@@ -1,0 +1,1 @@
+Ján Kotuľa v. r.
