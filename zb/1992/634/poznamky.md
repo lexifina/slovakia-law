@@ -32,6 +32,8 @@
 
 - 9c) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení nálezu Ústavného súdu Slovenskej republiky č. 260/1997 Z. z. a zákona č. 5/1999 Z. z.
 
+- 9d) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon), zákon č. 478/1992 Zb. o úžitkových vzoroch, zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z., zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z. z.
+
 - 10) § 2 zákona č. 505/1990 Zb. o metrológii.
 
 - 11) § 13 ods. 2 zákona č. 526/1990 Zb.
