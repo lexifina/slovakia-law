@@ -1,0 +1,1 @@
+- *) Doplnky a zmeny sú vytlačené tučne.

@@ -1,0 +1,7 @@
+# Čl. 36
+
+(1) Dvadsať percent preberacej ceny živého a mŕtveho inventára a hospodárskych budov, prípadne remeselníckych výrobných prostriedkov a zásob, je povinným vkladom družstevníka do nedeliteľného fondu. Zvyšujúcu časť preberacej ceny živého a mŕtveho inventára, remeselníckych výrobných prostriedkov a zásob splatí družstvo v ročných splátkach. Zvyšujúca časť preberacej ceny hospodárskych budov, prípadne budov remeselníkov je členským podielom.
+
+(2) Povinný vklad do nedeliteľného fondu bývalého vykorisťovateľa, ktorý bol prijatý za družstevníka, je 50 % preberacej ceny živého a mŕtveho inventára a prevzatých hospodárskych budov. Členská schôdza môže rozhodnúť o vyššom vklade nad 50 %. Toto ustanovenie sa vzťahuje aj na bývalých vykorisťovateľov, ktorí boli prijatí už skôr za družstevníkov.
+
+(3) Hovädzí dobytok, ošípané a ovce, ktoré družstevník choval nad určený plán a ak nie sú určené ukazovatele plánu, ktoré choval nad priemerný stav pripadajúci na výmeru jeho hospodárstva podľa priemeru na 1 ha poľnohospodárskej pôdy v obci, zaplatí družstvo v hotovosti po odvedení do družstevnej maštale bez zrážky do nedeliteľného fondu. Ak družstevník prinesie väčšie množstvo osív, sadív a krmív, než to, ktoré zodpovedá výmere združenej pôdy alebo plánovanému stavu dobytka, ktorý odovzdal do spoločného hospodárenia, zaplatí mu družstvo osivo, sadivo a krmivá presahujúce povinné množstvo, v hotovosti.
