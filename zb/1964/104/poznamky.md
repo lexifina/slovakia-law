@@ -87,3 +87,5 @@
 - 4) Vyhláška Ministerstva práce a sociálnych vecí č. 182/1968 Zb. o dávkach v materstve a prídavkoch na deti uchádzačom o zamestnanie.
 
 - 5) § 69 Zákona o rodine.
+
+- 26) § 31 ods. 2 zákona č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení neskorších predpisov.
