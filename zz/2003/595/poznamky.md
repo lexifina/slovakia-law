@@ -12,6 +12,8 @@
 
 - 7) § 208 Obchodného zákonníka.
 
+- 7a) § 144 a 223 Obchodného zákonníka.
+
 - 8) Napríklad § 13 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 9) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 669/2002 Z. z., zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení zákona č. 411/2002 Z. z.
@@ -34,8 +36,6 @@
 
 - 18) § 145 Zákonníka práce.
 
-- 19) Napríklad § 152 Zákonníka práce.
-
 - 20) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
 - 21) Zákon č. 461/2003 Z. z. o sociálnom poistení.
@@ -52,11 +52,11 @@
 
 - 26) Napríklad zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2003 Z. z., zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení zákona č. 337/1998 Z. z., zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov, zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
-- 27) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z.
+- 27) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
 - 28) Napríklad zákon č. 328/1991 Zb. v znení neskorších predpisov, § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 29) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
+- 29) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
 - 30) § 476 až 488 Obchodného zákonníka.
 
@@ -68,15 +68,17 @@
 
 - 34) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 35) Napríklad zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
+- 35) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
 - 36) § 45 až 52 zákona č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
 
 - 37) § 842 Občianskeho zákonníka.
 
+- 37a) Napríklad zákon č. 382/2004 Z. z.
+
 - 38) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 39) Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
+- 39) Napríklad zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov, zákon č. 452/2004 Z. z. o náhradnom výživnom.
 
 - 40) § 5 a § 20 ods. 1 písm. a) zákona č. 328/2002 Z. z.
 
@@ -90,7 +92,7 @@
 
 - 45) Napríklad zákon č. 385/2000 Z. z. v znení neskorších predpisov, zákon č. 154/2001 Z. z. v znení zákona č. 669/2002 Z. z., zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
-- 46) § 79 až 111 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
 
 - 47) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení neskorších predpisov.
 
@@ -133,8 +135,6 @@
 - 63) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
 
 - 64) § 2 písm. a) zákona č. 601/2003 Z. z. životnom minime a o zmene a doplnení niektorých zákonov.
-
-- 65) § 124 ods. 8 a 9 zákona č. 328/2002 Z. z.
 
 - 66) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
@@ -181,6 +181,8 @@
 - 86) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 272/1994 Zb. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- 86a) Napríklad § 152 Zákonníka práce.
 
 - 87) Zákon č. 283/2002 Z. z.
 
@@ -272,6 +274,8 @@
 
 - 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
+- 122a) § 39 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
 - 123) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 124) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
@@ -290,9 +294,19 @@
 
 - 131) Napríklad § 70 zákona č. 380/1997 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 336/2002 Z. z., ktorým sa ustanovujú podrobnosti na poskytovanie zahraničného príspevku.
 
+- 131a) § 2 ods. 1 písm. c) a d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
+
+- 131b) § 8 Občianskeho zákonníka.
+
+- 131c) § 8 ods. 2 Občianskeho zákonníka.
+
 - 132) § 267 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
 
+- 132a) § 35 a 35b zákona č. 511/1992 Zb. v znení neskorších predpisov.
+
 - 133) § 75 ods. 1 Obchodného zákonníka.
+
+- 133a) § 16 ods. 4 a § 17 ods. 6 zákona č. 431/2002 Z. z.
 
 - 134) § 3 ods. 6 a 7 zákona č. 431/2002 Z. z.
 
