@@ -1,0 +1,9 @@
+# § 107d Vek potrebný pre nárok na plný starobný dôchodok
+
+(1) Vek potrebný pre nárok na plný starobný dôchodok účastníka odboja I. a II. skupiny sa určí tak, že sa od veku 60 rokov u muža a veku 55 rokov u ženy odpočíta jeden rok za každý započatý rok odbojovej činnosti; potrebný vek je však najmenej 55 rokov u muža a 50 rokov u ženy, ak ide o účastníka odboja I. skupiny, a najmenej 57 rokov u muža a 52 rokov u ženy, ak ide o účastníka odboja II. skupiny.
+
+(2) Vek potrebný pre nárok na plný starobný dôchodok účastníka odboja III. skupiny, ktorý bol aspoň šesť mesiacov väznený z dôvodov fašistickej perzekúcie, je 59 rokov u muža a 54 rokov u ženy.
+
+(3) Vek potrebný pre nárok na plný starobný dôchodok účastníčky odboja je 55 rokov, pokiaľ ustanovenia predchádzajúcich odsekov nie sú pre ňu výhodnejšie.
+
+(4) Ak sú iné ustanovenia tohto zákona o veku potrebnom pre nárok na plný starobný dôchodok výhodnejšie, platia tieto iné ustanovenia.
