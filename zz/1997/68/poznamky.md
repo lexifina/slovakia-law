@@ -1,4 +1,4 @@
-- 1) Zákon č. 53/1959 Zb. o jednotnej sústave knižníc (Knižničný zákon) v znení neskorších predpisov.
+- 1) Zákon Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
 
 - 2) Napríklad § 26 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve.
 
