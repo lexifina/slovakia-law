@@ -1,27 +1,27 @@
-Príloha č. 7 k nariadeniu vlády č. 157/1998 Z. z. Príloha č. 2b nariadenia vlády Slovenskej republiky č. 250/1992 Zb. v znení neskorších predpisov
+Príloha č. 3 k nariadeniu vlády č. 157/1998 Z. z. Príloha č. 2b nariadenia vlády Slovenskej republiky č. 250/1992 Zb. v znení neskorších predpisov
 
-- Stupnica platových taríf pedagogických zamestnancov Zboru požiarnej ochrany Slovenskej republiky (§ 7a) (Sk mesačne) Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podľa platových tried a platových stupňov | | | | |
+- Stupnica platových taríf zamestnancov v štátnych zdravotníckych zariadeniach a zamestnancov v zariadeniach sociálnej starostlivosti, ktoré sú finančným vzťahom napojené na rozpočtovú kapitolu zriaďovateľa (§ 7a a 7c) (Sk mesačne) Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podľa platových tried a platových stupňov | | | | | | | | | | |
 
-- | | Platová trieda | | | | |
+- | | Platová trieda | | | | | | | | | | |
 
-- | | 7 | 8 | 9 | 10 | 11 | 12
+- | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 
-- 1 | do 3 | 5 460 | 6 060 | 6 730 | 7 480 | 8 300 | 9 260
+- 1 | do 3 | 3 160 | 3 430 | 3 730 | 4 230 | 4 680 | 5 150 | 5 660 | 6 420 | 7 580 | 8 390 | 9 260 | 10 240
 
-- 2 | do 6 | 5 700 | 6 330 | 7 030 | 7 810 | 8 670 | 9 680
+- 2 | do 6 | 3 300 | 3 580 | 3 900 | 4 420 | 4 880 | 5 370 | 5 920 | 6 710 | 7 920 | 8 760 | 9 670 | 10 700
 
-- 3 | do 9 | 5 940 | 6 590 | 7 330 | 8 140 | 9 040 | 10 090
+- 3 | do 9 | 3 440 | 3 730 | 4 070 | 4 610 | 5 090 | 5 600 | 6 170 | 6 990 | 8 260 | 9 130 | 10 090 | 11 160
 
-- 4 | do 12 | 6 180 | 6 860 | 7 620 | 8 470 | 9 400 | 10 510
+- 4 | do 12 | 3 570 | 3 880 | 4 240 | 4 800 | 5 300 | 5 820 | 6 420 | 7 270 | 8 590 | 9 500 | 10 500 | 11 620
 
-- 5 | do 15 | 6 420 | 7 130 | 7 920 | 8 800 | 9 770 | 10 920
+- 5 | do 15 | 3 710 | 4 030 | 4 400 | 5 000 | 5 500 | 6 050 | 6 670 | 7 550 | 8 920 | 9 880 | 10 910 | 12 070
 
-- 6 | do 18 | 6 660 | 7 390 | 8 220 | 9 130 | 10 140 | 11 330
+- 6 | do 18 | 3 850 | 4 180 | 4 570 | 5 190 | 5 710 | 6 280 | 6 920 | 7 840 | 9 260 | 10 250 | 11 330 | 12 530
 
-- 7 | do 21 | 6 910 | 7 660 | 8 520 | 9 460 | 10 510 | 11 740
+- 7 | do 21 | 3 990 | 4 340 | 4 740 | 5 380 | 5 920 | 6 510 | 7 170 | 8 130 | 9 600 | 10 620 | 11 740 | 12 990
 
-- 8 | do 24 | 7 150 | 7 930 | 8 820 | 9 790 | 10 880 | 12 150
+- 8 | do 24 | 4 130 | 4 490 | 4 910 | 5 570 | 6 120 | 6 740 | 7 420 | 8 420 | 9 930 | 10 990 | 12 150 | 13 440
 
-- 9 | do 27 | 7 390 | 8 200 | 9 120 | 10 120 | 11 240 | 12 560
+- 9 | do 27 | 4 270 | 4 640 | 5 070 | 5 760 | 6 320 | 6 970 | 7 670 | 8 710 | 10 270 | 11 360 | 12 560 | 13 900
 
-- 10 | nad 27 | 7 630 | 8 460 | 9 420 | 10 450 | 11 610 | 12 970
+- 10 | nad 27 | 4 410 | 4 790 | 5 240 | 5 950 | 6 530 | 7 200 | 7 920 | 8 990 | 10 600 | 11 730 | 12 970 | 14 360
