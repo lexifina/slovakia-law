@@ -1,0 +1,1 @@
+- 1) § 2 ods. 1 a 2 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch.
