@@ -1,0 +1,9 @@
+# Čl. 10 Použitie iných predpisov a osobitné záväzky
+
+- 1. V prípade, že sa niektorá otázka rieši súčasne touto dohodou a inou medzinárodnou dohodou, ktorej stranami sú obe zmluvné strany, v tejto dohode nič nebráni, aby ktorákoľvek zmluvná strana alebo ktorýkoľvek jej investor vlastniaci investície na území druhej zmluvnej strany využil predpisy, ktoré sú pre neho priaznivejšie.
+
+- 2. Ak zaobchádzanie poskytnuté jednou zmluvnou stranou investorom druhej zmluvnej strany v súlade s jej právnym poriadkom alebo inými osobitnými zmluvnými ustanoveniami je priaznivejšie než to, ktoré poskytuje táto dohoda, využije sa toto priaznivejšie zaobchádzanie.
+
+- 3. Každá zmluvná strana sa zaväzuje prevziať do svojho právneho poriadku zákon č.403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách, zákon č.229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon č.42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov a zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov. Prípadnou právnou úpravou týchto predpisov nedostane zmluvná strana, ktorá úpravu vykonala, osoby oprávnené alebo povinné druhej zmluvnej strany do postavenia menej priaznivého, než aké majú osoby oprávnené alebo povinné podľa právnej úpravy druhej zmluvnej strany.
+
+- 4. Dohoda sa vzťahuje na investorov, ktorí svoje práva nadobudli na území jednej zmluvnej strany podľa zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov a podľa ďalších nadväzujúcich právnych predpisov, v procese transformácie investičných kupónov emitovaných za účelom kúpy akcií spoločností zahrnutých do zoznamu spoločností privatizovaných v rámci prvej vlny kupónovej privatizácie.
