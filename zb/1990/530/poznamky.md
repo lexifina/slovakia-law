@@ -1,4 +1,8 @@
-- 1) Zákon č. 528/1990 Zb. devízový zákon.
+- 1) § 8 ods. 3 zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+
+- 1a) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 1b) § 21 ods. 2 Obchodného zákonníka.
 
 - 2a) § 460 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
@@ -10,9 +14,9 @@
 
 - 2e) § 2 písm. c) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 
-- 2f) § 21 Obchodného zákonníka.
+- 2f) Zákon č. 600/1992 Zb. v znení neskorších predpisov.
 
-- 3a) § 187 ods. 1 písm. b) zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
+- 3a) Napríklad § 187 ods. 1 písm. b) Obchodného zákonníka.
 
 - 3b) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
@@ -26,12 +30,14 @@
 
 - 3eb) § 1 ods. 4 zákona č. 600/1992 Zb. v znení neskorších predpisov.
 
-- 3ec) § 2 ods. 7 zákona Národnej rady Slovenskej republiky č. 263/1993 Z. z. o verejnom obstarávaní tovarov, služieb a verejných prác (Zákon o verejnom obstarávaní) v znení neskorších predpisov (úplné znenie č. 247/1996 Z. z.).
+- 3ec) § 4 zákona č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
-- 3ed) § 2 ods. 8 zákona Národnej rady Slovenskej republiky č. 263/1993 Z. z. v znení neskorších predpisov.
+- 3ed) § 12 zákona č. 263/1999 Z. z.
 
 - 3f) § 36c zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
-- 4) § 82 a nasl. zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+- 4) § 361 až 36r zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
-- 5) Zákon č. 95/1963 Zb. o štátnom notárstve a o konaní pred štátnym notárstvom (notársky poriadok) v znení neskorších predpisov.
+- 4a) Napríklad Občiansky zákonník, Obchodný zákonník.
+
+- 5) § 185i až 185s Občianskeho súdneho poriadku v znení neskorších predpisov.
