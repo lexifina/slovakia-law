@@ -1,5 +1,11 @@
 - 1) Napríklad § 4 ods. 3 až 5, § 12 písm. e), f),m), § 13 písm. e) č. 2 zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení zákona Slovenskej národnej rady č. 194/1992 Zb. a zákona Slovenskej národnej rady č. 488/1992 Zb.
 
+- 1a) § 272 ods. 5 Zákonníka práce.
+
+- § 16 zákona č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb. a zákona č. 513/1991 Zb.
+
+- 1b) § 16 zákona č. 83/1990 Zb. v znení zákona č. 300/1990 Zb. a zákona č. 513/1991 Zb.
+
 - 2) § 124 Zákonníka práce.
 
 - 3) Napríklad zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
@@ -7,6 +13,8 @@
 - 4) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
 - 5) § 9 zákona Slovenskej národnej rady č. 83/1991 Zb.
+
+- 5a) § 10 zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1994 a o zmenách niektorých ďalších zákonov.
 
 - 6) § 9 zákona č. 1/1991 Zb. o zamestnanosti.
 
