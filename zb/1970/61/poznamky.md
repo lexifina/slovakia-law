@@ -1,1 +1,0 @@
-- *) V oboru vojenského soudnictví vyhláška č. 51/1965 Sb. zůstává v platnosti.
