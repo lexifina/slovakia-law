@@ -12,4 +12,4 @@
 
 - e) vykonáva správu najvyššieho súdu, najmä zabezpečuje jeho riadny chod po stránke kádrovej, organizačnej, hospodárskej a finančnej a stará sa o politickú a odbornú výchovu sudcov a ostatných pracovníkov najvyššieho súdu.
 
-(2) Námestníci predsedu najvyššieho súdu republiky zastupujú predsedu najvyššieho súdu republiky spôsobom ustanoveným v rokovacom poriadku najvyššieho súdu republiky.
+(2) Podpredseda najvyššieho súdu republiky zastupuje predsedu najvyššieho súdu republiky spôsobom ustanoveným v rokovacom poriadku najvyššieho súdu republiky.

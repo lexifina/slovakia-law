@@ -1,6 +1,6 @@
 # § 21d
 
-(1) Plénum najvyššieho súdu republiky sa skladá z predsedu najvyššieho súdu, jeho námestníkov a ostatných sudcov z povolania. Platne sa môže uznášať za prítomnosti najmenej dvoch tretín všetkých sudcov z povolania najvyššieho súdu.
+(1) Plénum najvyššieho súdu republiky sa skladá z predsedu súdu, podpredsedu súdu a ostatných sudcov z povolania. Platne sa môže uznášať za prítomnosti najmenej dvoch tretín všetkých sudcov z povolania najvyššieho súdu.
 
 (2) Plénum najvyššieho súdu republiky najmä
 
