@@ -1,1 +1,0 @@
-- *) Smernice Ministerstva zdravotníctva a Ministerstva poľnohospodárstva, lesného a vodného hospodárstva z 25. 8. 1960, č. HE-3-248-11. 7. 1960 - por. č. 24/1960 Zb. Hyg. predpisov.
