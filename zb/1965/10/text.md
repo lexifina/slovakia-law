@@ -16,4 +16,6 @@ Dohoda na základe svojho článku 11 vstúpila v platnosť dňom výmeny nót o
 
 České znenie Dohody sa vyhlasuje súčasne.*)
 
+Oznámením č. 112/2006 Z. z., ktorým bol potvrdený stav zmluvnej základne medzi Slovenskou republikou a Chorvátskou republikou po sukcesii Slovenskej republiky do zmlúv bývalej Českej a Slovenskej Federatívnej Republiky, sa tejto dohode skončila platnosť dňom výmeny nót.
+
 David v. r.
