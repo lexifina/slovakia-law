@@ -10,6 +10,4 @@
 
 - **) Štvrtá časť zákona č. 55/1956 Zb. o sociálnom zabezpečení.
 
-- ***) Vyhláška č. 372/1953 Ú. l. (č. 419/1953 Ú. v.).
-
 - †) § 10 vládneho nariadenia č. 71/1960 Zb. o rozšírení právomoci a zodpovednosti národných výborov a o usporiadaní a činnosti ich orgánov.
