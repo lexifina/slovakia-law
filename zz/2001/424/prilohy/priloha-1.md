@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 424/2001 Z. z.
+
+- VZOR ŽIADOSŤ O VRÁTENIE DANE Z PRIDANEJ HODNOTY [vzor 01](../assets/8b7a12c423a8c231442f239542f8e375e7e645b84048988737b7015632fdd72c.pdf)
