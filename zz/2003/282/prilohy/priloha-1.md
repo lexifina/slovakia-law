@@ -1,6 +1,6 @@
 Príloha č. 1 k nariadeniu vlády č. 282/2003 Z. z.
 
-- ZOZNAM TRANSPONOVANÝCH PRÁVNYCH PREDPISOV
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 71/118/EHS z 15. februára 1971 o veterinárnych otázkach, ktoré ovplyvňujú výrobu čerstvého hydinového mäsa a jeho uvádzanie na trh (Úradný vestník, L 55, 8. 3. 1971, s. 23) v znení
 
@@ -33,6 +33,8 @@ Príloha č. 1 k nariadeniu vlády č. 282/2003 Z. z.
   - smernice Rady 96/23/ES (Úradný vestník Európskych spoločenstiev, L 125, 23. 5. 1996, s. 10)
 
   - smernice Rady 97/79/ES (Úradný vestník Európskych spoločenstiev, L 13, 16. 1. 1997, s. 18).
+
+  - Aktu o pristúpení Slovenskej republiky (Úradný vestník EÚ L 236, 23. 9. 2003).
 
   - 2. Rozhodnutie Rady 96/658/ES z 13. novembra 1996 ustanovujúce špeciálne podmienky na schvaľovanie zariadení umiestnených na veľkoobchodných trhoch (Úradný vestník Európskych spoločenstiev, L 302, 26. 11. 1996, s. 22).
 

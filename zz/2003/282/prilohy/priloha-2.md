@@ -8,7 +8,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
   - 1.1. podlahy nepriepustné pre vodu, ktoré možno ľahko čistiť a dezinfikovať, ktoré sú odolné proti hnilobe a sú položené takým spôsobom, ktorý uľahčuje odtok vody; voda sa musí odvádzať kanálmi do vpustí vybavených mriežkou a sifónom na zamedzenie pachov, ak však ide o
 
-  - 1.1.1. miestnosti uvedené v písmene e) časti B, v písmene a) časti C a v bode 1 písm. a) časti D, odkanalizovanie vody do vpustí vybavených mriežkou a sifón sa vyžaduje,
+  - 1.1.1. miestnosti uvedené v písmene e) časti B, v písmene a) časti C a v bode 1 písm. a) časti D, odkanalizovanie vody do vpustí vybavených mriežkou a sifón sa nevyžaduje,
 
   - 1.1.2. priestory uvedené v bode 1 písm. a) časti D, postačuje zariadenie, ktorým možno ľahko odstraňovať vodu,
 
@@ -104,7 +104,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
     - b.1. miestnosť na pitvanie husí a kačiek chovaných na produkciu bielej hydinovej pečene (foie gras), ktoré boli omráčené, vykrvené a ošklbané na výkrmovej farme,
 
-    - b.2. miestnosť na pitvanie hydiny uvedenej v bode 3 časti H,
+    - b.2. miestnosť na pitvanie hydiny uvedenej v bode 5 časti H,
 
   - c) miestnosť na balenie do druhého obalu, ak sa tieto operácie v rozrábkarni vykonávajú a ak nie sú splnené podmienky uvedené v bode 7 časti N.
 
@@ -156,7 +156,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
 - ČASŤ F ZDRAVOTNÁ PREHLIADKA PRED ZABITÍM
 
-  - 1.a. Úradný veterinárny lekár na bitúnku môže povoliť zabíjanie zásielky hydiny z chovu bez toho, aby bola dotknutá požiadavka na certifikát, len ak
+  - 1.a. Úradný veterinárny lekár na bitúnku môže povoliť zabíjanie zásielky hydiny z chovu bez toho, aby bola dotknutá požiadavka na certifikát podľa osobitného predpisu,<sup>5a</sup>) len ak
 
   - 1.a.1. hydinu určenú na zabitie sprevádza zdravotné potvrdenie uvedené v prílohe č. 6 alebo
 
@@ -220,7 +220,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
     - 3.c. pravidelný odber vzoriek vody a krmív vzhľadom na kontrolu dodržiavania ochranných lehôt,
 
-    - 3.d. výsledky testov na pôvodcov zoonóz vykonaných úpravou podľa § 20.
+    - 3.d. výsledky testov na pôvodcov zoonóz vykonaných podľa osobitného predpisu.<sup>7a</sup>)
 
   - 4. Úradný veterinárny lekár na bitúnku musí zabezpečiť, že hydina je identifikovaná, vykonať kontrolu dodržiavania požiadaviek na ochranu zvierat podľa osobitného predpisu,<sup>8</sup>) a najmä kontrolovať, či hydina neutrpela počas prepravy poranenia. Okrem toho, ak je pochybnosť o identite zásielky hydiny a ak hydina podlieha zdravotnej prehliadke pred zabitím vykonávanej na bitúnku podľa bodu 1.c., musí úradný veterinárny lekár vyšetriť každú klietku, či hydina nevykazuje príznaky uvedené v bode 3.b.
 
@@ -244,7 +244,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
   - 7.2. odložiť zabíjanie, ak neboli dodržané ochranné lehoty na rezíduá,
 
-  - 7.3. zabezpečiť s ohľadom na klinicky zdravú hydinu z kŕdľa, ktorého zabitie je povinné, v programe kontroly infekčných chorôb, že sa hydina zabíja na konci pracovného dňa alebo za takých podmienok, že sa zabráni kontaminácii inej hydiny. S týmto mäsom sa môže manipulovať len na území Slovenskej republiky a len podľa pokynov nariadených príslušným orgánom veterinárnej správy.
+  - 7.3. zabezpečiť s ohľadom na klinicky zdravú hydinu z kŕdľa, ktorého zabitie je povinné, v programe kontroly infekčných chorôb, že sa hydina zabíja na konci pracovného dňa alebo za takých podmienok, že sa zabráni kontaminácii inej hydiny. S týmto mäsom sa môže manipulovať len na území Slovenskej republiky a len podľa pokynov nariadených príslušnou regionálnou veterinárnou a potravinovou správou.
 
   - 8. Úradný veterinárny lekár musí ihneď hlásiť príslušnému orgánu veterinárnej správy<sup>10</sup>) každý zákaz zabíjania s udaním jeho dôvodov a dočasne umiestniť hydinu, na ktorú sa vzťahuje zákaz zabíjania, na bezpečnom mieste.
 
@@ -364,17 +364,17 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
   - 3. Vlastník alebo osoba oprávnená disponovať hydinou musí v požadovanom rozsahu spolupracovať pri vykonávaní prehliadky post mortem. Musí zabezpečiť, aby bola hydina a hydinové mäso pripravené na prehliadku vo vhodnom stave. Na žiadosť inšpektora musí mu poskytnúť dostatočnú ďalšiu pomoc. Ak si osoba oprávnená disponovať hydinou neplní svoje povinnosti týkajúce sa spolupráce, úradný veterinárny lekár pozastaví prehliadku a zdravotné značky až dovtedy, kým táto osoba nespolupracuje v rozsahu vyžadovanom na prehliadku.
 
-  - 4. V prípade čiastočne pitvanej (háčkovanej) hydiny („effilé“), ktorej črevá boli ihneď po zabití vyňaté, sa musia po vypitvaní prehliadnuť vnútornosti a telové dutiny najmenej 5 % kusov zabitej hydiny z každej zásielky. Ak sú počas tejto prehliadky zistené odchýlky pri viacerých kusoch hydiny, musí sa všetka hydina v zásielke prehliadnuť podľa bodu 1.
+  - 4. V prípade čiastočne pitvanej (háčkovanej) hydiny („effilé“), ktorej črevá boli ihneď po zabití vyňaté, sa musia po vypitvaní prehliadnuť vnútornosti a telové dutiny najmenej 5 % kusov zabitej hydiny z každej zásielky. Ak sú počas tejto prehliadky zistené odchýlky pri viacerých kusoch hydiny, musí sa všetka hydina v zásielke prehliadnuť podľa bodov 1 až 3.
 
   - 5. V prípade hydiny s odloženým vypitvaním („hydina New York Dressed“)
 
-    - a) musí sa prehliadka post mortem podľa bodu 1 vykonať najneskôr do 15 dní od zabitia, počas ktorých musí byť hydina skladovaná pri teplote, ktorá neprekračuje +4 <sup>o</sup>C,
+    - a) musí sa prehliadka post mortem podľa bodov 1 až 3 vykonať najneskôr do 15 dní od zabitia, počas ktorých musí byť hydina skladovaná pri teplote, ktorá neprekračuje +4 <sup>o</sup>C,
 
     - b) najneskôr na konci lehoty uvedenej v písmene a) musí byť hydina vypitvaná na bitúnku, kde sa vykonalo zabitie, alebo v inej schválenej rozrábkarni, ktorá spĺňa dodatočné požiadavky uvedené v písmene b) bode b.2. časti C, a v tomto prípade musí byť sprevádzaná zdravotným potvrdením uvedeným v prílohe č. 7,
 
-    - c) hydinové mäso nemôže byť označené zdravotnou značkou uvedenou v časti L pred vykonaním pitvania podľa písmena b).
+    - c) hydinové mäso nemôže byť označené zdravotnou značkou uvedenou v časti L bode 2 pred vykonaním pitvania podľa písmena b).
 
-  - 6. Pri kontrolách na mieste sa musí vykonávať odber vzoriek na vyšetrenie na rezíduá a v každom prípade sa musí vykonávať odber vzoriek v prípade odôvodneného podozrenia na ich prítomnosť. V prípade vyšetrenia na rezíduá sa musia vykonať vyšetrenia na rezíduá upravené podľa § 20.
+  - 6. Pri kontrolách na mieste sa musí vykonávať odber vzoriek na vyšetrenie na rezíduá a v každom prípade sa musí vykonávať odber vzoriek v prípade odôvodneného podozrenia na ich prítomnosť. V prípade vyšetrenia na rezíduá sa musia vykonať vyšetrenia na rezíduá podľa osobitného predpisu.<sup>10a</sup>)
 
 - Povinnosť vyšetrovať na rezíduá látok s farmakologickým účinkom uvedené v § 4 ods. 2 tohto nariadenia sa nevzťahuje na hydinu z chovov pod úradnou veterinárnou kontrolou, kde sa vyšetrenie na tieto rezíduá vykonáva v chovoch, odkiaľ hydina pochádza.
 
@@ -384,7 +384,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
   - 9. Ak úradný veterinárny lekár zistí, že sa zjavne porušujú hygienické požiadavky ustanovené týmto nariadením alebo že sa marí riadny výkon zdravotnej prehliadky, je oprávnený vykonať opatrenia vzhľadom na používanie zariadení alebo priestorov a nariadiť všetky potrebné opatrenia až po také opatrenia a vrátane nich, ako je zníženie rýchlosti produkcie alebo prerušenie výrobného procesu.
 
-  - 10. Výsledky prehliadok pred zabitím a prehliadok post mortem musí úradný veterinárny lekár zaznamenávať, a ak sa diagnostikuje ochorenie prenosné na človeka, musí byť ohlásené príslušnému veterinárnemu orgánu zodpovednému za dozor v chove, z ktorého zvieratá pochádzali, ako aj majiteľovi chovu pôvodu alebo jeho zástupcovi, ktorý musí túto informáciu zohľadniť a uchovávať a predložiť ju úradnému veterinárnemu lekárovi, ktorý vykonáva prehliadku ante mortem počas nasledujúceho produkčného obdobia.
+  - 10. Výsledky prehliadok pred zabitím a prehliadok post mortem musí úradný veterinárny lekár zaznamenávať, a ak sa diagnostikuje ochorenie prenosné na človeka, musí byť ohlásené príslušnej regionálnej veterinárnej a potravinovej správe zodpovednej za dozor v chove, z ktorého zvieratá pochádzali, ako aj majiteľovi chovu pôvodu alebo jeho zástupcovi, ktorý musí túto informáciu zohľadniť a uchovávať a predložiť ju úradnému veterinárnemu lekárovi, ktorý vykonáva prehliadku ante mortem počas nasledujúceho produkčného obdobia.
 
 - ČASŤ I ROZHODOVANIE ÚRADNÉHO VETERINÁRNEHO LEKÁRA O MÄSE NA ZÁKLADE PREHLIADKY POST MORTEM
 
@@ -468,11 +468,11 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
     - a) pre mäso balené v priamom obale v individuálnych jednotkách alebo malé balenia
 
-    - aa) v hornej časti skratku názvu odosielajúcej krajiny veľkými písmenami (t. j. členského štátu Európskej únie a Európskych spoločenstiev); ak ide o Slovenskú republiku, skratku: SK,
+    - aa) v hornej časti, ak ide o Slovenskú republiku, skratku: SK,
 
     - ab) v strede veterinárne schvaľovacie číslo prevádzkarne, alebo tam, kde je to vhodné, rozrábkarne alebo prebaľovacieho strediska,
 
-    - ac) v dolnej časti nasledujúce skratky: CEE, EOF, EWG, EOK, EEC, EEG CE-RSM, (zmluva o pristúpení) ETY; ak ide o Slovenskú republiku, skratka: EHS.
+    - ac) v dolnej časti, ak ide o Slovenskú republiku, skratka: EHS.
 
   - Písmená a číslice musia byť 0,2 centimetra vysoké,
 
@@ -518,7 +518,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
   - 5.2.3. prevádzkareň na spracovanie mäsa a výrobu mäsových výrobkov, ktorá je príjemcom, musí viesť záznamy o množstve, druhu a pôvode zásielok prijatých v súlade s týmto nariadením,
 
-  - 5.2.4. ak je čerstvé hydinové mäso určené na použitie do mäsových výrobkov určených na výmeny<sup>11</sup>) s členskými štátmi, zdravotná značka na veľkom balení sa musí zničiť pod dozorom príslušného orgánu veterinárnej správy, keď sa veľké balenie otvára v prevádzkarni,
+  - 5.2.4. ak je čerstvé hydinové mäso určené na použitie do mäsových výrobkov určených na výmeny<sup>11</sup>) s členskými štátmi, zdravotná značka na veľkom balení sa musí zničiť pod dozorom príslušnej regionálnej veterinárnej a potravinovej správy, keď sa veľké balenie otvára v prevádzkarni,
 
   - 5.2.5. určenie a určený spôsob použitia zásielky musia byť zreteľne vyznačené na vonkajšom povrchu veľkých balení v súlade s prílohou č. 8,
 
@@ -534,7 +534,7 @@ Príloha č. 2 k nariadeniu vlády č. 282/2003 Z. z.
 
   - 5.3.5. určenie a určený spôsob použitia zásielky musia byť zreteľne vyznačené na vonkajšom povrchu veľkých balení podľa prílohy č. 8.
 
-  - 6. Čerstvé hydinové mäso požívateľné pre ľudí, určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní s nízkou kapacitou povolených príslušným orgánom veterinárnej správy podľa § 7 sa označuje rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch, okrem tvaru a informácií udávaných v zdravotnej značke uvedenej v bode 2.
+  - 6. Čerstvé hydinové mäso požívateľné pre ľudí, určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní s nízkou kapacitou povolených príslušnou regionálnou veterinárnou a potravinovou správou podľa § 7 sa označuje rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch, okrem tvaru a informácií udávaných v zdravotnej značke uvedenej v bode 2.
 
   - 6.1. Mäso uvedené v bode 6 sa musí, ak ide o mäso balené v priamom obale v individuálnych jednotkách alebo ak ide o malé balenia, označiť národnou značkou kruhového tvaru s týmito údajmi:
 

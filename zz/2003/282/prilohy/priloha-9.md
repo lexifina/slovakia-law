@@ -30,6 +30,6 @@ Príloha č. 9 k nariadeniu vlády č. 282/2003 Z. z.
 
     - 5. Musia sa dodržiavať dozorné opatrenia podľa § 8 tohto nariadenia a častí K a L prílohy č. 2.
 
-      - Ak ide o kombinované prevádzkarne, prevádzkovatelia, vlastníci týchto prevádzkarní alebo ich zástupcovia musia spoločne dodržiavať podmienky na schválenie a spoločne spĺňať hygienické požiadavky. Na tento účel musia vymenovať osobu zodpovednú za pravidelné vlastné dozeranie na všeobecnú hygienu produkčných podmienok v kombinovaných prevádzkarniach podľa § 6 ods. 7 až 10 tohto nariadenia. Meno tejto osoby oznámia príslušnému orgánu veterinárnej správy. Takáto dohoda medzi jednotlivými prevádzkovateľmi kombinovaných prevádzkarní sa považuje za nevyhnutnú súčasť podmienok schválenia.
+      - Ak ide o kombinované prevádzkarne, prevádzkovatelia, vlastníci týchto prevádzkarní alebo ich zástupcovia musia spoločne dodržiavať podmienky na schválenie a spoločne spĺňať hygienické požiadavky. Na tento účel musia vymenovať osobu zodpovednú za pravidelné vlastné dozeranie na všeobecnú hygienu produkčných podmienok v kombinovaných prevádzkarniach podľa § 6 ods. 7 až 10 tohto nariadenia. Meno tejto osoby oznámia príslušnej regionálnej veterinárnej a potravinovej správe. Takáto dohoda medzi jednotlivými prevádzkovateľmi kombinovaných prevádzkarní sa považuje za nevyhnutnú súčasť podmienok schválenia.
 
     - 6. Musia byť dodržané požiadavky ustanovené v § 3 ods. 1 písm. a) deviatom bode a § 3 ods. 3.

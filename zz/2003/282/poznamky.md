@@ -8,13 +8,15 @@
 
 - 5) § 10 ods. 9 zákona č. 488/2002 Z. z.
 
-- 6) § 2 písm. l) až n) a písm. q) až s) nariadenia vlády Slovenskej republiky č. 317/2003 Z. z. o požiadavkách na výrobu a uvádzanie na trh mletého mäsa a mäsových prípravkov.
+- 6) § 2 písm. l) až n) a písm. r) a s) nariadenia vlády Slovenskej republiky č. 286/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri výrobe a uvádzaní na trh mäsových výrobkov a určitých ostatných produktov živočíšneho pôvodu.
 
 - 7) Nariadenie vlády Slovenskej republiky č. 321/2003 Z. z., ktorým sa ustanovujú princípy organizácie veterinárnych kontrol produktov vstupujúcich do Slovenskej republiky z tretích krajín.
 
 - 8) § 6 ods. 2 písm. j) zákona č. 488/2002 Z. z.
 
 - 9) Nariadenie vlády Slovenskej republiky č. 281/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého mäsa na trh.Nariadenie vlády Slovenskej republiky č. 311/2003 Z. z. o požiadavkách na ochranu zdravia zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri usmrcovaní voľne žijúcej zveri a uvádzaní zveriny z tejto zveri na trh.Nariadenie vlády Slovenskej republiky č. 300/2003 Z. z. o požiadavkách na zdravie zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri produkcii králičieho mäsa a zveriny zo zveri z farmových chovov a pri ich uvádzaní na trh.
+
+- 9a) § 6 a 8 zákona č. 488/2002 Z. z.
 
 - 10) § 2 písm. b) zákona č. 488/2002 Z. z.
 
@@ -24,6 +26,8 @@
 
 - 13) Nariadenie vlády Slovenskej republiky č. 306/2003 Z. z., ktorým sa ustanovujú opatrenia na ochranu proti určitým zoonózam a určitým pôvodcom zoonóz u zvierat a v produktoch živočíšneho pôvodu na účely zabránenia ohniskám nákaz a intoxikácií prenášaných potravinami.
 
+- 13a) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
 - 14) Nariadenie vlády Slovenskej republiky č. 299/2003 Z. z. o požiadavkách na zdravie zvierat pri uvádzaní na trh čerstvého hydinového mäsa jeho výmenách s členskými štátmi a dovozoch z tretích krajín.Nariadenie vlády Slovenskej republiky č. 319/2003 Z. z., ktorým sa upravujú podrobnosti o zákaze používania niektorých látok s hormonálnym alebo tyreostatickým účinkom a beta-agonistických látok v chove hospodárskych zvierat.
 
 - 15) § 213 až 221 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 195/1996 Z. z.) v znení výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky zo 16. decembra 1997 č. 557/1998-100, ktorým sa dopĺňa výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 284/1998 Z. z.).
@@ -32,7 +36,7 @@
 
 - 17) § 5 ods. 2 nariadenia vlády Slovenskej republiky č. 292/2003 Z. z. o podrobnostiach veterinárnych kontrol pri výmenách produktov živočíšneho pôvodu s členskými štátmi.
 
-- 18) Nariadenie vlády Slovenskej republiky č. 317/2003 Z. z.
+- 18) § 6 nariadenia vlády Slovenskej republiky č. 317/2003 Z. z.
 
 - 19) § 37 ods. 10 zákona č. 488/2002 Z. z.
 
@@ -78,17 +82,21 @@
 
 - § 21 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam.
 
+- 5a) Nariadenie vlády Slovenskej republiky č. 297/2003 Z. z. o zdravotných podmienkach pri výmenách hydiny a násadových vajec s členskými štátmi, pri ich premiestňovaní a dovoze z tretích krajín.
+
 - 6) § 6 zákona č. 488/2002 Z. z.
 
 - 7) § 42 ods. 2 zákona č. 488/2002 Z. z.
 
-- 8) § 3 až 6, § 8 až 10 a § 12 až 15 nariadenia vlády Slovenskej republiky č. 302/2003 Z. z., ktorým sa ustanovujú podrobnosti o ochrane zvierat pri preprave.
+- 7a) Nariadenie vlády Slovenskej republiky č. 306/2003 Z. z., ktorým sa ustanovujú opatrenia na ochranu proti určitým zoonózam a určitým pôvodcom zoonóz u zvierat a v produktoch živočíšneho pôvodu na účely zabránenia ohniskám nákaz a intoxikácii prenášaných potravinami.
 
-- § 1 ods. 4 a § 3 ods. 1 písm. b) nariadenia vlády Slovenskej republiky č. 293/2003 Z. z. o veterinárnej kontrole pri výmenách živých zvierat a produktov živočíšneho pôvodu s členskými štátmi.
+- 8) Príloha č. 2 kapitola II nariadenia vlády Slovenskej republiky č. 302/2003 Z. z., ktorým sa ustanovujú podrobnosti o ochrane zvierat pri preprave.
 
 - 9) Nariadenie vlády Slovenskej republiky č. 299/2003 Z. z. o požiadavkách na zdravie zvierat pri uvádzaní na trh čerstvého hydinového mäsa, jeho výmenách s členskými štátmi a dovozoch z tretích krajín.
 
 - 10) § 8 zákona č. 488/2002 Z. z.
+
+- 10a) Nariadenie vlády Slovenskej republiky č. 320/2003 Z. z. o monitorovaní určitých látok a ich rezíduí v živých zvieratách a v produktoch živočíšneho pôvodu v znení nariadenia vlády Slovenskej republiky č. 483/2003 Z. z.
 
 - 11) § 2 písm. d) zákona č. 488/2002 Z. z.
 
