@@ -28,7 +28,7 @@
 
 - 15) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
 
-- 16) § 69 ods. 2 a § 70 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 16) § 163 ods. 1 a 6 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 17) § 17 zákona Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov.
 
@@ -138,9 +138,11 @@
 
 - 65) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
-- 66) § 15 ods. 1 a § 16 až 18 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+- 66) § 15 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
 - § 17 vyhlášky Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 36/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve v znení neskorších predpisov.
+
+- 66a) § 16 až 18b zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 67) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
