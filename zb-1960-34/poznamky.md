@@ -1,0 +1,1 @@
+- *) Teraz krajské štátne ústavy pre projektovanie poľnohospodárskej a lesníckej výstavby.
