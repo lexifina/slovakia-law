@@ -34,6 +34,18 @@ Príloha vyhlášky č. 164/1964 Zb.
 
   - Děčín - Štetín | 9 | 10 | 8 | 10 | 9 | 11 | 11 | 13
 
+  - c) zberný, kusový tovar a kontajnery v systéme rýchlodopravy | | | | | | | |
+
+  - Děčín - Hamburg | od 15. 4. do 15. 9. | | | | | 72 hodín | |
+
+  - | od 16. 9. do 14. 4. | | | | | 96 hodín | |
+
+  - Ústí n./L. - Hamburg | od 15. 4. do 15. 9. | | | | | 120 hodín | |
+
+  - | od 16. 9. do 14. 4. | | | | | 144 hodín | |
+
+  - pokiaľ sa plavebný podnik a prepravcovia nedohodnú inak. | | | | | | | |
+
 - (1) Pre stanice nachádzajúce sa nad Děčínom v smere proti prúdu Labe a Vltavy zvyšujú sa dodacie lehoty o 1 deň za každých i začatých 50 km pri vlečných člnoch a za každých i začatých 75 km pri nákladných lodiach s vlastným pohonom.
 
 - (2) Pri prepravách do stanice a zo stanice Lűbeck zvyšujú sa dodacie lehoty určené pre Hamburg o 2 dni.

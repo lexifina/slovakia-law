@@ -5,3 +5,5 @@
 - *) ČSN 01 9905.
 
 - *) Vyhláška Ministerstva dopravy č. 66/1964 Zb. o prekladovom a skladovom poriadku pre prístavy určené pre verejnú potrebu.
+
+- 1) Pokiaľ nie sú pracovným dňom
