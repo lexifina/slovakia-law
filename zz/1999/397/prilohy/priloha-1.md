@@ -4,9 +4,9 @@ Príloha č. 1 k nariadeniu vlády č. 397/1999 Z. z.
 
 - 1. Mechanické zbrane sú podľa kinetickej energie strely alebo priemernej výmetovej sily kategorizované takto:
 
-- a) zbrane s kinetickou energiou strely vyššou ako 0,08 J pre pevné strely a s kinetickou energiou strely vyššou ako 0,5 J pre pružné strely, ale s priemernou výmetovou silou najviac 200 N,
+- a) zbrane s kinetickou energiou strely vyššou ako 0,08 J pre pevné strely a s kinetickou energiou strely vyššou ako 0,5 J pre pružné strely, ale s priemernou výmetovou silou najviac 100 N,
 
-- b) zbrane s priemernou výmetovou silou nad 200 N.
+- b) zbrane s priemernou výmetovou silou nad 100 N.
 
 - 2. Strednou výmetovou silou sa rozumie sila vypočítaná z počiatočnej kinetickej energie strely a z dráhy mechanického výstrelného prvku z polohy naakumulovanej energie do pokojovej polohy.
 
@@ -22,7 +22,7 @@ Príloha č. 1 k nariadeniu vlády č. 397/1999 Z. z.
 
 - b) zbrane s počiatočnou kinetickou energiou strely nad 7,5 J, najviac však 10 J pri počiatočnej rýchlosti strely do 200 ms<sup>-1</sup> vrátane,
 
-- c) zbrane s kinetickou energiou nad 10 J a s počiatočnou energiou nad 200 ms<sup>-1</sup>.
+- c) zbrane s kinetickou energiou nad 10 J a s počiatočnou rýchlosťou nad 200 ms<sup>-1</sup>.
 
 - Podrobnosti o podmienkach skúšobnej streľby
 
