@@ -8,8 +8,6 @@
 
 - 4) Zákon č. 92/1991 Zb. o prevode majetku štátu na iné osoby.
 
-- 4a) § 24 ods. 4 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
-
 - 5) Dôchodkové nároky sú upravené v § 25 zákona č. 119/1990 Zb. v znení zákona č. 47/1991 Zb.
 
 - 6) § 59 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
