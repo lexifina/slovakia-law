@@ -1,0 +1,11 @@
+# Čl. 78
+
+(1) Za hlasovanie v Národnej rade Slovenskej republiky alebo v jej výboroch nemožno poslanca stíhať, a to ani po zániku jeho mandátu.
+
+(2) Za výroky pri výkone funkcie poslanca prednesené v Národnej rade Slovenskej republiky alebo v jej orgáne nemožno poslanca trestne stíhať, a to ani po zániku jeho mandátu. Poslanec podlieha disciplinárnej právomoci Národnej rady Slovenskej republiky. Občianskoprávna zodpovednosť poslanca tým nie je dotknutá.
+
+(3) Poslanca nemožno trestne ani disciplinárne stíhať, ani vziať ho do väzby bez súhlasu Národnej rady Slovenskej republiky. Ak Národná rada Slovenskej republiky súhlas odoprie, trestné stíhanie alebo vzatie do väzby je počas trvania poslaneckého mandátu vylúčené. V takomto prípade počas ďalšieho výkonu poslaneckého mandátu premlčacia doba neplynie.
+
+(4) Ak bol poslanec pristihnutý a zadržaný pri trestnom čine, príslušný orgán je povinný to ihneď oznámiť predsedovi Národnej rady Slovenskej republiky. Ak mandátový a imunitný výbor Národnej rady Slovenskej republiky následný súhlas na zadržanie nedá, poslanec musí byť ihneď prepustený.
+
+(5) Ak je poslanec vo výkone väzby, jeho mandát nezaniká, iba sa neuplatňuje.

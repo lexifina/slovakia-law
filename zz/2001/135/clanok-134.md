@@ -1,0 +1,13 @@
+# Čl. 134
+
+(1) Ústavný súd sa skladá z trinástich sudcov.
+
+(2) Sudcov ústavného súdu vymenúva na návrh Národnej rady Slovenskej republiky na dvanásť rokov prezident Slovenskej republiky. Národná rada Slovenskej republiky navrhuje dvojnásobný počet kandidátov na sudcov, ktorých má prezident Slovenskej republiky vymenovať.
+
+(3) Za sudcu ústavného súdu môže byť vymenovaný občan Slovenskej republiky, ktorý je voliteľný do Národnej rady Slovenskej republiky, dosiahol vek 40 rokov, má vysokoškolské právnické vzdelanie a je najmenej 15 rokov činný v právnickom povolaní. Tá istá osoba nemôže byť opakovane vymenovaná za sudcu ústavného súdu.
+
+(4) Sudca ústavného súdu skladá do rúk prezidenta Slovenskej republiky tento sľub:
+
+„Sľubujem na svoju česť a svedomie, že budem chrániť neporušiteľnosť prirodzených práv človeka a práv občana, chrániť princípy právneho štátu, spravovať sa ústavou, ústavnými zákonmi a medzinárodnými zmluvami, ktoré Slovenská republika ratifikovala a boli vyhlásené spôsobom ustanoveným zákonom, a rozhodovať podľa svojho najlepšieho presvedčenia, nezávisle a nestranne.“.
+
+(5) Zložením sľubu sa sudca ústavného súdu ujíma svojej funkcie.

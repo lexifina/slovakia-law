@@ -1,0 +1,9 @@
+# Čl. 15
+
+(1) Každý má právo na život. Ľudský život je hodný ochrany už pred narodením.
+
+(2) Nikto nesmie byť pozbavený života.
+
+(3) Trest smrti sa nepripúšťa.
+
+(4) Podľa tohto článku nie je porušením práv, ak bol niekto pozbavený života v súvislosti s konaním, ktoré podľa zákona nie je trestné.

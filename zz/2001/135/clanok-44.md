@@ -1,0 +1,15 @@
+## Šiesty oddiel
+
+## Právo na ochranu životného prostredia a kultúrneho dedičstva
+
+# Čl. 44
+
+(1) Každý má právo na priaznivé životné prostredie.
+
+(2) Každý je povinný chrániť a zveľaďovať životné prostredie a kultúrne dedičstvo.
+
+(3) Nikto nesmie nad mieru ustanovenú zákonom ohrozovať ani poškodzovať životné prostredie, prírodné zdroje a kultúrne pamiatky.
+
+(4) Štát dbá o šetrné využívanie prírodných zdrojov, o ekologickú rovnováhu a o účinnú starostlivosť o životné prostredie a zabezpečuje ochranu určeným druhom voľne rastúcich rastlín a voľne žijúcich živočíchov.
+
+(5) Podrobnosti o právach a povinnostiach podľa odsekov 1 až 4 ustanoví zákon.

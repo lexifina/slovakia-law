@@ -1,0 +1,13 @@
+# Čl. 13 (1) Povinnosti možno ukladať
+
+- a) zákonom alebo na základe zákona, v jeho medziach a pri zachovaní základných práv a slobôd,
+
+- b) medzinárodnou zmluvou podľa čl. 7 ods. 4, ktorá priamo zakladá práva a povinnosti fyzických osôb alebo právnických osôb, alebo
+
+- c) nariadením vlády podľa čl. 120 ods. 2.
+
+(2) Medze základných práv a slobôd možno upraviť za podmienok ustanovených touto ústavou len zákonom.
+
+(3) Zákonné obmedzenia základných práv a slobôd musia platiť rovnako pre všetky prípady, ktoré spĺňajú ustanovené podmienky.
+
+(4) Pri obmedzovaní základných práv a slobôd sa musí dbať na ich podstatu a zmysel. Takéto obmedzenia sa môžu použiť len na ustanovený cieľ.

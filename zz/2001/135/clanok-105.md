@@ -1,0 +1,5 @@
+# Čl. 105
+
+(1) Ak nie je prezident zvolený alebo ak sa funkcia prezidenta uvoľní a ešte nie je zvolený nový prezident, alebo ak bol zvolený nový prezident, ale ešte nezložil sľub, alebo ak prezident nemôže svoju funkciu vykonávať pre závažné dôvody, oprávnenia prezidenta podľa čl. 102 ods. 1 písm. a), b), c), n) a o) prechádzajú na vládu Slovenskej republiky. Vláda môže v tom čase poveriť svojho predsedu vykonávaním niektorých právomocí prezidenta. Na predsedu vlády prechádza v tom čase hlavné velenie ozbrojených síl. Oprávnenia prezidenta podľa čl. 102 ods. 1 písm. d), g), h),l), m), s) a t) prechádzajú v tom čase na predsedu Národnej rady Slovenskej republiky.
+
+(2) Ak prezident nemôže vykonávať svoju funkciu dlhšie ako šesť mesiacov, Ústavný súd Slovenskej republiky vyhlási, že funkcia prezidenta sa uvoľnila. Dňom tohto vyhlásenia sa skončí funkčné obdobie doterajšieho prezidenta.

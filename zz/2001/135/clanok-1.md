@@ -1,0 +1,11 @@
+## PRVÁ HLAVA
+
+## Prvý oddiel
+
+## Základné ustanovenia
+
+# Čl. 1
+
+(1) Slovenská republika je zvrchovaný, demokratický a právny štát. Neviaže sa na nijakú ideológiu ani náboženstvo.
+
+(2) Slovenská republika uznáva a dodržiava všeobecné pravidlá medzinárodného práva, medzinárodné zmluvy, ktorými je viazaná, a svoje ďalšie medzinárodné záväzky.

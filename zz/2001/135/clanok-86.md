@@ -1,0 +1,27 @@
+# Čl. 86
+
+Do pôsobnosti Národnej rady Slovenskej republiky patrí najmä:
+
+- a) uznášať sa na ústave, ústavných a ostatných zákonoch a kontrolovať, ako sa dodržiavajú,
+
+- b) ústavným zákonom schvaľovať zmluvu o vstupe do štátneho zväzku Slovenskej republiky s inými štátmi a o vypovedaní takejto zmluvy,
+
+- c) rozhodovať o návrhu na vyhlásenie referenda,
+
+- d) pred ratifikáciou vyslovovať súhlas s medzinárodnými zmluvami o ľudských právach a základných slobodách, s medzinárodnými politickými zmluvami, s medzinárodnými zmluvami vojenskej povahy, s medzinárodnými zmluvami, z ktorých vzniká Slovenskej republike členstvo v medzinárodných organizáciách, s medzinárodnými hospodárskymi zmluvami všeobecnej povahy, s medzinárodnými zmluvami, na ktorých vykonanie je potrebný zákon, ako aj s medzinárodnými zmluvami, ktoré priamo zakladajú práva alebo povinnosti fyzických osôb alebo právnických osôb, a zároveň rozhodovať o tom, či ide o medzinárodné zmluvy podľa čl. 7 ods. 5,
+
+- e) zriaďovať zákonom ministerstvá a ostatné orgány štátnej správy,
+
+- f) rokovať o programovom vyhlásení vlády Slovenskej republiky, kontrolovať činnosť vlády a rokovať o dôvere vláde alebo jej členom,
+
+- g) schvaľovať štátny rozpočet, preverovať jeho plnenie a schvaľovať štátny záverečný účet,
+
+- h) rokovať o základných otázkach vnútornej, medzinárodnej, hospodárskej, sociálnej a inej politiky,
+
+- i) voliť a odvolávať predsedu a podpredsedu Najvyššieho kontrolného úradu Slovenskej republiky a troch členov Súdnej rady Slovenskej republiky,
+
+- j) uznášať sa o vypovedaní vojny, ak je Slovenská republiky napadnutá alebo ak to vyplýva zo záväzkov z medzinárodných zmlúv o spoločnej obrane proti napadnutiu, a po skončení vojny o uzavretí mieru,
+
+- k) vysloviť súhlas na vyslanie ozbrojených síl mimo územia Slovenskej republiky, ak nejde o prípad uvedený v čl. 119 písm. p),
+
+- l) vysloviť súhlas s prítomnosťou zahraničných ozbrojených síl na území Slovenskej republiky.

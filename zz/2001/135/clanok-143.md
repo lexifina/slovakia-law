@@ -1,0 +1,7 @@
+# Čl. 143
+
+(1) Sústavu súdov tvoria Najvyšší súd Slovenskej republiky a ostatné súdy.
+
+(2) Podrobnejšiu úpravu sústavy súdov, ich pôsobnosť, organizáciu a konanie pred nimi ustanoví zákon.
+
+(3) V rozsahu ustanovenom zákonom sa na riadení a správe súdov podieľajú aj orgány sudcovskej samosprávy.

@@ -1,0 +1,15 @@
+# Čl. 130 (1) Ústavný súd začne konanie, ak podá návrh
+
+- a) najmenej pätina poslancov Národnej rady Slovenskej republiky,
+
+- b) prezident Slovenskej republiky,
+
+- c) vláda Slovenskej republiky,
+
+- d) súd,
+
+- e) generálny prokurátor,
+
+- f) každý, o ktorého práve sa má konať v prípadoch ustanovených v čl. 127 a 127a.
+
+(2) Zákon ustanoví, kto má právo podať návrh na začatie konania podľa čl. 129.

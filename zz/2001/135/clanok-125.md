@@ -1,0 +1,19 @@
+# Čl. 125 (1) Ústavný súd rozhoduje o súlade
+
+- a) zákonov s ústavou, s ústavnými zákonmi a s medzinárodnými zmluvami, s ktorými vyslovila súhlas Národná rada Slovenskej republiky a ktoré boli ratifikované a vyhlásené spôsobom ustanoveným zákonom,
+
+- b) nariadení vlády, všeobecne záväzných právnych predpisov ministerstiev a ostatných ústredných orgánov štátnej správy s ústavou, s ústavnými zákonmi, s medzinárodnými zmluvami, s ktorými vyslovila súhlas Národná rada Slovenskej republiky a ktoré boli ratifikované a vyhlásené spôsobom ustanoveným zákonom, a so zákonmi,
+
+- c) všeobecne záväzných nariadení podľa čl. 68 s ústavou, s ústavnými zákonmi, s medzinárodnými zmluvami, s ktorými vyslovila súhlas Národná rada Slovenskej republiky a ktoré boli ratifikované a vyhlásené spôsobom ustanoveným zákonom, a so zákonmi, ak o nich nerozhoduje iný súd,
+
+- d) všeobecne záväzných právnych predpisov miestnych orgánov štátnej správy a všeobecne záväzných nariadení orgánov územnej samosprávy podľa čl. 71 ods. 2 s ústavou, s ústavnými zákonmi, s medzinárodnými zmluvami vyhlásenými spôsobom ustanoveným zákonom, so zákonmi, s nariadeniami vlády a so všeobecne záväznými právnymi predpismi ministerstiev a ostatných ústredných orgánov štátnej správy, ak o nich nerozhoduje iný súd.
+
+(2) Ak ústavný súd prijme návrh na konanie podľa odseku 1, môže pozastaviť účinnosť napadnutých právnych predpisov, ich častí, prípadne niektorých ich ustanovení, ak ich ďalšie uplatňovanie môže ohroziť základné práva a slobody, ak hrozí značná hospodárska škoda alebo iný vážny nenapraviteľný následok.
+
+(3) Ak ústavný súd svojím rozhodnutím vysloví, že medzi právnymi predpismi uvedenými v odseku 1 je nesúlad, strácajú príslušné predpisy, ich časti, prípadne niektoré ich ustanovenia účinnosť. Orgány, ktoré tieto právne predpisy vydali, sú povinné do šiestich mesiacov od vyhlásenia rozhodnutia ústavného súdu uviesť ich do súladu s ústavou, s ústavnými zákonmi a s medzinárodnými zmluvami vyhlásenými spôsobom ustanoveným zákonom, a ak ide o predpisy uvedené v odseku 1 písm. b) a c), aj s inými zákonmi, a ak ide o predpisy uvedené v odseku 1 písm. d), aj s nariadeniami vlády a so všeobecne záväznými právnymi predpismi ministerstiev a ostatných ústredných orgánov štátnej správy. Ak tak neurobia, také predpisy, ich časti alebo ustanovenia strácajú platnosť po šiestich mesiacoch od vyhlásenia rozhodnutia.
+
+(4) Ústavný súd nerozhoduje o súlade návrhu zákona alebo návrhu iného všeobecne záväzného právneho predpisu s ústavou, s medzinárodnou zmluvou, ktorá bola vyhlásená spôsobom ustanoveným zákonom, alebo s ústavným zákonom.
+
+(5) Platnosť rozhodnutia o pozastavení účinnosti napadnutých právnych predpisov, ich častí, prípadne niektorých ich ustanovení zaniká vyhlásením rozhodnutia ústavného súdu vo veci samej, ak rozhodnutie o pozastavení účinnosti napadnutého právneho predpisu ústavný súd už predtým nezrušil, pretože pominuli dôvody, pre ktoré bolo prijaté.
+
+(6) Rozhodnutie ústavného súdu vydané podľa odsekov 1, 2 a 5 sa vyhlasuje spôsobom ustanoveným na vyhlasovanie zákonov. Právoplatné rozhodnutie ústavného súdu je všeobecne záväzné.
