@@ -1,4 +1,6 @@
-- 1) § 22 ods. 3 zákona č.172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
+- 1) § 22 ods. 2 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
+
+- 1a) § 22 ods. 3 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
 - 2) § 11 ods. 2 písm. d) a § 11 ods. 3 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
