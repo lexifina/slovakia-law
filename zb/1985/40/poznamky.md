@@ -1,0 +1,1 @@
+- 1) Kvalifikačný katalóg robotníckych povolaní stavebnej výroby (SV 2-18.3-4, SV 2-17.3-4, SV 2-19.3, SV 2-10.3-4, SV 2-12.3-4, SV 2-16.3-4, SV 1-03.2-3, SV 2-03.3-4, SV 2-04.3-4 a SV 3-02.3-4). Kvalifikačný katalóg robotníckych povolaní strojárskej výroby (ST 0-55.3-4, ST 0-54.3-4).
