@@ -1,0 +1,1 @@
+- *) Vyhláška č. 17/1961 Zb., ktorou sa vydávajú vykonávacie predpisy k lesnému zákonu.
