@@ -1,0 +1,3 @@
+Príloha č. 66 k vyhláške č. 210/2000 Z. z.
+
+- HMOTNOSTNÉ PRIETOKOMERY NA PLYNY [Príloha 66](../assets/1e51ae81128439258a9f0d56df20bba2a48a116557c45509e8a8d9001e92308e.pdf)

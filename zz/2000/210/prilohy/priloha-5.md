@@ -1,3 +1,3 @@
 Príloha č. 5 k vyhláške č. 210/2000 Z. z.
 
-- VZOR PREUKAZU INŠPEKTORA [Príloha 05](../assets/14eeba547d06a9f40bf0afa42d6db640337b796ddf8314e8ffc3108be6bdd616.pdf)
+- VZOR PREUKAZU INŠPEKTORA [Príloha 05](../assets/4a782438d3d2345a97fd51a0842a22720f2737ccf6967f16010bbf5054172cef.pdf)
