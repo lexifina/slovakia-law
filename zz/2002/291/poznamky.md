@@ -6,7 +6,11 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov.
 
-- 5) § 21 ods. 1 a 4 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
+- 5) § 21 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
+
+- 5a) § 55f zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
+- 5b) § 20a zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 6) § 2 písm. a) body 5, 6 a 9 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona č. 445/2001 Z. z.
 
@@ -14,7 +18,7 @@
 
 - 8) § 5 ods. 3 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
-- 9) § 34 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 9) Napríklad § 34 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, § 26 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov, § 21 zákona č. 131/2002 Z. z.
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, § 47c zákona č. 92/1991 Zb. v znení neskorších predpisov.
 
@@ -24,7 +28,19 @@
 
 - 13) Zákon č. 483/2001 Z. z. o bankách a zmene a doplnení niektorých zákonov.
 
+- 13a) § 2 ods. 1 a § 3 až 11 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
+
+- 13b) § 2 ods. 1 a § 12 až 20 zákona č. 510/2002 Z. z.
+
 - 14) Napríklad zákon č. 540/ 2001 Z. z. o štátnej štatistike, § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- 14a) § 4 ods. 3 zákona č. 510/2002 Z. z.
+
+- 14b) § 2 ods. 2 a § 5 ods. 1 zákona č. 507/2001 Z. z. o poštových službách.
+
+- 14c) § 17 zákona č. 431/2002 Z. z. o účtovníctve.
+
+- 14d) § 12 zákona č. 540/2001 Z. z.
 
 - 15) § 48 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
 
@@ -50,16 +66,28 @@
 
 - 24) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
 
+- 24a) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 24b) § 10 ods. 5 písm. a) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
+- 24c) zákon č. 283/2002 Z. z. o cestovných náhradách.
+
 - 25) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 26) Napríklad zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 27) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.
-
 - 28) § 54 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
-- 29) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 28a) § 5 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 28b) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 29) Zákon č. 431/2002 Z. z.
+
+- 29a) § 38 až 58 zákona č. 510/2002 Z. z.
 
 - 30) § 25 a 26 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 31) § 9 a 10 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
+
+- 32) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
