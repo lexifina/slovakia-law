@@ -1,6 +1,6 @@
 # § 20a
 
-(1) Na prevádzkovateľa zdroja znečisťovania, ktorý vypúšťa do ovzdušia znečisťujúcu látku v mieste jej vypúšťania zaradenú do triedy B, sa neuplatňujú ustanovenia § 7 ods. 1 písm. b), s výnimkou povinnosti vykonať prvé jednorazové meranie,<sup>2d</sup>) a § 12 ods. 2 písm. b).
+(1) Na prevádzkovateľa zdroja znečisťovania, ktorý vypúšťa do ovzdušia znečisťujúcu látku v mieste jej vypúšťania zaradenú do triedy B, sa neuplatňujú ustanovenia § 7 ods. 1 písm. b) okrem povinnosti vykonať prvé jednorazové oprávnené meranie alebo vykonať prvé zistenie údajov o dodržaní emisných limitov technickým výpočtom<sup>2d</sup>) a § 12 ods. 2 písm. b); ak prevádzkovateľ zdroja znečisťovania zisťuje množstvo vypustenej znečisťujúcej látky zaradenej do triedy B s použitím individuálneho emisného faktora zisteného jednorazovým oprávneným meraním, platí mu faktor zistený prvým jednorazovým oprávneným meraním do preradenia znečisťujúcej látky z triedy B do triedy A.
 
 (2) Ustanovenie o povinnosti prevádzkovateľa zdroja znečisťovania nainštalovať monitorovací systém a zisťovať množstvo vypúšťanej znečisťujúcej látky a údaje o dodržaní určeného emisného limitu kontinuálnym monitorovaním v mieste vypúšťania znečisťujúcich látok, v ktorom je niektorá znečisťujúca látka zaradená do triedy B podľa § 7 ods. 1 písm. b), d), i) a osobitného predpisu,<sup>2d</sup>) sa neuplatní do preradenia všetkých znečisťujúcich látok v danom mieste vypúšťania z triedy B do triedy A.
 

@@ -1,4 +1,6 @@
-- 1) § 5 zákona Slovenskej národnej rady č. 134/1992 Zb. o štátnej správe ochrany ovzdušia.
+- 1a) § 5 zákona Slovenskej národnej rady č. 134/1992 Zb. o štátnej správe ochrany ovzdušia.
+
+- 1) Nariadenie vlády Slovenskej republiky č. 92/1996 Z. z., ktorým sa vykonáva zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení neskorších predpisov.
 
 - 2) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb. Vyhláška Štátnej komisie pre vedecko-technický a investičný rozvoj č. 186/1990 Zb. o oprávnení na projektovú činnosť.
 
@@ -13,6 +15,12 @@
 - 3a) § 3 a 5 zákona Slovenskej národnej rady č. 134/1992 Zb.
 
 - 3b) § 74 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona Slovenskej národnej rady č. 419/1991 Zb. a zákona Slovenskej národnej rady č. 295/1992 Zb.
+
+- 3ba) § 13 a 14 zákona č. 138/1973 Zb. o vodách.
+
+- § 4 zákona č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
+
+- 3bb) § 3 zákona Slovenskej národnej rady č. 134/1992 Zb.
 
 - 3c) Zákon Slovenskej národnej rady č. 134/1992 Zb.
 
