@@ -20,7 +20,7 @@ Príloha k nariadeniu vlády č. 398/1999 Z. z.
 
 - Pyrotechnické predmety triedy II
 
-- 1. Pyrotechnické predmety triedy II sú najmä rímske sviece, fontány, gejzíry, malé výbušky, vystreľovacie puzdrá alebo rakety s náplňou farebných svetlíc, hvízdacej zlože alebo výbušnej zlože, farebné dymy, bengálske ohne.
+- 1. Pyrotechnické predmety triedy II sú najmä rímske sviece, fontány, gejzíry, malé výbušky, vystreľovacie puzdrá alebo rakety s náplňou farebných svetlíc, hvízdacej zlože alebo výbušnej zlože, farebné dymy, bengálske ohne, kompaktné celky malých vystreľovacích puzdier.
 
 - 2. Pyrotechnické predmety tejto triedy neobsahujú v jednom kuse viac ako 50 g všetkých druhov pyrotechnických zloží, z toho najviac
 
@@ -50,7 +50,7 @@ Príloha k nariadeniu vlády č. 398/1999 Z. z.
 
 - b) 20 g výbuškových zloží.
 
-- 4. Pyrotechnický predmet zostavený z viacerých samostatných dielcov, okrem svetelných obrazov, sa môže skladať najviac z 12 dielcov, ak sú splnené tieto podmienky:
+- 4. Pyrotechnický predmet zostavený z viacerých samostatných dielcov okrem svetelných obrazcov musí spĺňať tieto podmienky:
 
 - a) celkové množstvo pyrotechnických zloží v zostavenom pyrotechnickom predmete je najviac 800 g, pri ohňopádoch 1 200 g,
 
@@ -64,7 +64,7 @@ Príloha k nariadeniu vlády č. 398/1999 Z. z.
 
 - 1. Pyrotechnické predmety podtriedy T<sub>0</sub> sú podľa stupňa nebezpečenstva porovnateľné s pyrotechnickými predmetmi triedy I. Sú to najmä zápalky, vulkanizačné vložky, pevné podpaľovače, žeraviče naftových motorov, zahrievacie prostriedky, dymové prostriedky na ochranu rastlín, proti hmyzu alebo škodlivým hlodavcom.
 
-- 2. Pyrotechnické predmety podtriedy T<sub>1</sub> zodpovedajú pyrotechnickým predmetom triedy II. Sú to napríklad signálne rakety a prostriedky pre námornú a leteckú dopravu, prostriedky na plašenie vtáctva, signálne dymovnice a dymovnice na určenie smeru vetra, modelárske raketové motorčeky, termitové zlože na zváranie, prostriedky na použitie vo filme, v televízii a na divadelnej scéne.
+- 2. Pyrotechnické predmety podtriedy T<sub>1</sub> zodpovedajú pyrotechnickým predmetom tried II a III. Sú to napríklad signálne rakety a prostriedky pre námornú a leteckú dopravu, prostriedky na plašenie vtáctva, signálne dymovnice a dymovnice na určenie smeru vetra, modelárske raketové motorčeky, termitové zlože na zváranie, prostriedky na použitie vo filme, v televízii a na divadelnej scéne.
 
 - 3. Výbušné predmety podtriedy T<sub>2</sub> zodpovedajú stupňom nebezpečenstva výbušným predmetom triedy IV. Sú to napríklad prostriedky na vrhanie záchranných lán a chytacích sietí, rakety a náboje na rozmetanie prostriedkov proti ľadovcu, prostriedky na strhávanie lavín.
 
