@@ -1,5 +1,9 @@
 - 1) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1a) § 5 písm. e) zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+
+- 1b) § 5 písm. f) zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+
 - 3) § 2 ods. 2 Obchodného zákonníka.
 
 - 3a) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
@@ -23,3 +27,5 @@
 - 5) § 151a až 151g a § 546 až 558 Občianskeho zákonníka,
 
 - § 299 až 323 Obchodného zákonníka,
+
+- 13ca) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
