@@ -10,7 +10,7 @@
 
 - 5a) § 34 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách.
 
-- 5c) § 15 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb.
+- 5c) § 15 ods. 1 a 2 zákona Slovenskej národnej rady č. 330/1991 Zb.
 
 - 5d) Príloha č. 3 písm. C bod 4 vyhlášky Slovenského úradu geodézie, kartografie a katastra č. 594/1992 Zb., ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
 
