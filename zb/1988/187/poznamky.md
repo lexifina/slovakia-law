@@ -1,1 +1,0 @@
-- 1) § 16 zákona č.30/1968 Zb. o štátnom skúšobníctve v znení zákona č.54/1987 Zb.
