@@ -1,6 +1,4 @@
-- 1) § 2 písm. n) zákona č. 238/2001 Z. z. Colný zákon.
-
-- 1a) § 2 písm. o) zákona č. 238/2001 Z. z.
+- 1) § 2 písm. b) zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
 - 2) § 289 Obchodného zákonníka.
 
@@ -22,7 +20,7 @@
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
-- 9) Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z.
+- 9) § 2 písm. g) zákona č. 199/2004 Z. z.
 
 - 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
