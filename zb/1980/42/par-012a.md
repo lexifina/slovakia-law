@@ -4,4 +4,4 @@
 
 (2) Orgány štátnej správy môžu zakladať československú právnickú osobu uvedenú v odseku 1 alebo meniť jej základný predmet podnikania týkajúci sa zahraničnoobchodnej činnosti len so súhlasom Federálneho ministerstva zahraničného obchodu.
 
-(3) Povolenie podľa odseku 1 a súhlas podľa odseku 2 nahrádza povolenie podľa § 7 ods. 1.
+(3) Povolenie podľa odseku 1 a súhlas podľa odseku 2 nahrádza registráciu, prípadne povolenie podľa § 7 ods. 1.
