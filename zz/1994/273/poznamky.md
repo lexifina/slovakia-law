@@ -1,8 +1,12 @@
 - 1) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
 
+- 1a) § 2 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 138/2003 Z. z.Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
+- 1b) § 2a zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 138/2003 Z. z.§ 3a zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení zákona č. 138/2003 Z. z.
+
 - 2) Zákon č. 498/1990 Zb. o utečencoch.
 
-- 3) Napríklad vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam.
+- 3) § 2 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 138/2003 Z. z.
 
 - 3a) § 4a zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 118/2002 Z. z.
 
@@ -130,7 +134,13 @@
 
 - 21) § 244 a nasl. Občianskeho súdneho poriadku.
 
-- 21a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+- 21a) § 4a zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 118/2002 Z. z.
+
+- 21aa) § 12 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení zákona č. 138/2003 Z. z.
+
+- 21ab) § 36 ods. 1 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení zákona č. 138/2003 Z. z.
+
+- 21ac) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 21b) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
 
@@ -140,7 +150,7 @@
 
 - 22) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
-- 23) Zákon č. 256/l992 Zb. o ochrane osobných údajov v informačných systémoch.
+- 23) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 23a) § 580 Občianskeho zákonníka.
 
