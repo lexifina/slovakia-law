@@ -1,0 +1,1 @@
+- 1) Čl. 141 odst. 2 zákona č. 143/1968 Sb., o československé federaci, ve znění pozdějších předpisů.
