@@ -1,0 +1,15 @@
+# § 24a
+
+(1) Depozitár je povinný viesť evidenciu pokynov správcovskej spoločnosti, súhlasov udelených správcovskej spoločnosti, rozhodnutí o neudelení súhlasu správcovskej spoločnosti, upozornení a informácií o porušeniach tohto zákona správcovskou spoločnosťou a zbierku dokumentov.
+
+(2) Evidencia podľa odseku 1 musí obsahovať
+
+- a) evidenčné číslo,
+
+- b) dátum, kedy bol úkon uskutočnený,
+
+- c) vymedzenie úkonu,
+
+- d) obsah úkonu.
+
+(3) Zbierku dokumentov tvorí písomné vyhotovenie jednotlivých pokynov správcovskej spoločnosti, súhlasov udelených správcovskej spoločnosti, rozhodnutí o neudelení súhlasu správcovskej spoločnosti, upozornení a informácií o zistených porušeniach zákona správcovskou spoločnosťou.

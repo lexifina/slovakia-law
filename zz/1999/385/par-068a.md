@@ -1,3 +1,3 @@
 # § 68a
 
-Do splnenia povinnosti podľa § 68 ods. 13 sa na činnosť Reštitučného investičného fondu, a. s., primerane vzťahujú ustanovenia o depozitárovi.
+Do splnenia povinnosti podľa § 68 ods. 13 sa na činnosť Reštitučného investičného fondu, a. s., primerane vzťahujú ustanovenia o depozitárovi a o otvorenom podielovom fonde.

@@ -1,20 +1,36 @@
-- 1) Napríklad zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov, zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov, zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- 1) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch), zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov, Obchodný zákonník.
 
 - 2) § 27 Obchodného zákonníka.
 
 - 3) § 4 ods. 3 zákona č. 563/1991 Zb. o účtovníctve.
 
-- 4) Napríklad Obchodný zákonník,Občiansky zákonník, zákon č. 600/1992 Zb. v znení neskorších predpisov.
+- 3a) § 8 písm. e) zákona č. 566/2001 Z. z.
 
-- 5) Zákon Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže v znení neskorších predpisov.
+- 3b) § 476 až 488 Obchodného zákonníka v znení neskorších predpisov
 
-- 6) § 30 zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
+- 4) Napríklad Obchodný zákonník, Občiansky zákonník, zákon č. 566/2001 Z. z.
 
-- 7) § 23 zákona č. 366/1999 Z. z. o daniach z príjmov.
+- 5) § 8 písm. f) zákona č. 566/2001 Z. z.
 
-- 8) § 35 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov
+- 5a) § 9 ods. 3 Zákonníka práce.
+
+- 6) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 7) § 37 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+
+- 7a) § 144 ods. 7 zákona č. 566/2001 Z. z.§ 50 ods. 2 zákona č. 483/2001 Z. z.§ 48 ods. 6 zákona č. 95/2002 Z. z.§ 60 ods. 3 zákona č. 429/2002 Z. z. o burze cenných papierov.
+
+- 8) § 35 zákona č. 96/2002 Z. z.
 
 - 9a) Zákon č. 96/2002 Z. z.
+
+- 9b) § 66b Obchodného zákonníka.
+
+- 9c) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- 9d) § 27 až 34 Obchodného zákonníka.
+
+- 9e) § 66 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 10) § 673 až 681 Obchodného zákonníka.
 
@@ -26,13 +42,17 @@
 
 - 12a) § 54 až 56 zákona č. 566/2001 Z. z.
 
+- 12b) § 3 ods. 5 zákona č. 429/2002 Z. z.
+
+- 12c) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
 - 13) Zákon č. 21/1992 Zb. v znení neskorších predpisov.
 
-- 14) § 46 ods. 2 písm. e) zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 14) § 54 zákona č. 566/2001 Z. z.
 
 - 15) § 27 až 33 zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
-- 16) § 54 zákona č. 566/2001 Z. z.
+- 16) § 156 zákona č. 566/2001 Z. z.
 
 - 17) § 708 až 715 Obchodného zákonníka.
 
@@ -44,15 +64,13 @@
 
 - 21) § 69 ods. 3 Obchodného zákonníka.
 
-- 22) § 3 zákona č. 600/1992 Zb.
+- 22) § 11 zákona č. 566/2001 Z. z.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 249/1994 Z. z. o boji proti legalizácii príjmov z najzávažnejších, najmä organizovaných foriem trestnej činnosti a o zmenách niektorých ďalších zákonov v znení neskorších predpisov.
 
-- 24) § 5a zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 26) § 25 zákona č. 429/2002 Z. z.
 
-- 25) § 96 ods. 2 zákona č. 600/1992 Zb. v znení neskorších predpisov.
-
-- 26) § 14 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+- 26a) § 113 zákona č. 566/2001 Z. z.
 
 - 27) § 44 až 52 Obchodného zákonníka.
 
@@ -60,7 +78,11 @@
 
 - 29) § 116 Občianskeho zákonníka.
 
-- 30) § 122 zákona č. 483/2001 Z. z.
+- 30) § 130 zákona č. 566/2001 Z. z.
+
+- 31) § 28 zákona č. 566/2001 Z. z.
+
+- 31a) § 34 zákona č. 96/2002 Z. z.
 
 - 32) § 70 ods. 3, § 71 ods. 5, § 72 ods. 1, § 73, 74 a 75 ods. 4 Obchodného zákonníka.
 
