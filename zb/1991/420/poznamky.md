@@ -1,5 +1,7 @@
 - 1) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
 
+- 1a) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky.
+
 - 2) § 41 zákona č. 335/1991 Zb. o súdoch a sudcoch.
 
 - 3) § 116 a 117 Zákonníka práce.
