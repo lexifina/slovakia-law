@@ -8,7 +8,7 @@ Na zabezpečenie riadiacej a kontrolnej úlohy vlády vo vzťahu k národným v�
 
   - 2. návrhy vo veciach, ktoré patria do samostatnej pôsobnosti národných výborov, ak nie sú zákonom splnomocnené na ich úpravu všeobecne záväzným právnym predpisom (§ 38);
 
-- b) ministerstvo vnútra
+- b) ministerstvo vnútra a životného prostredia
 
   - 1. organizuje jednotný postup ministerstiev (ústredných orgánov štátnej správy) pri príprave návrhov na rokovanie vlády a pri plnení opatrení prijatých vládou v otázkach týkajúcich sa národných výborov,
 
