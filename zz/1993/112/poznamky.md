@@ -18,13 +18,13 @@
 
 - 8) § 4 ods. 2 písm. g) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
-- 9) § 4 ods. 1 písm. d) a § 5 ods. 2 písm. d) zákona Slovenskej národnej rady č. 134/1992 Zb.
+- 9) § 4 ods. 1. písm. c) a § 5 ods. 2 písm. d) zákona Slovenskej národnej rady č. 134/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z.
 
 - 10) § 14 ods. 4 zákona č. 309/1991 Zb. v znení zákona č. 218/1992 Zb.
 
 - 11) § 34 zákona č. 20/1966 Zb. v znení neskorších predpisov.
 
-- 12) § 4 ods. 1 písm. d) zákona Slovenskej národnej rady č. 134/1992 Zb.
+- 12) § 4 ods. 1 písm. c) zákona Slovenskej národnej rady č. 134/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z.
 
 - 13) § 7 ods. 1 písm. g) zákona č. 309/1991 Zb.
 
@@ -37,3 +37,5 @@
 - 17) Zákon č. 79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon).
 
 - 18) § 13 zákona č. 309/1991 Zb.
+
+- 19) Napríklad § 4 ods. 2 zákona Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii, § 5 ods. 4 zákona Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase.
