@@ -1,1 +1,0 @@
-Pavol Prokopovič v. r.
