@@ -20,7 +20,7 @@
 
 (3) Nová obec, ktorá vznikla zlúčením obcí, je právnym nástupcom každej z nich.
 
-(4) Nová obec zasiela kópiu dohody o zlúčení samosprávnemu kraju, na ktorého území sa táto obec nachádza, Štatistickému úradu Slovenskej republiky, okresnému úradu a daňovému úradu.
+(4) Nová obec zasiela kópiu dohody o zlúčení samosprávnemu kraju, na ktorého území sa táto obec nachádza, Štatistickému úradu Slovenskej republiky, obvodnému úradu a daňovému úradu.
 
 (5) Obec sa môže rozdeliť, ak nové obce budú mať katastrálne územie alebo súbor katastrálnych území tvoriaci súvislý územný celok, najmenej 3 000 obyvateľov, ak urbanisticky nesplynuli s ostatnými časťami obce. Obec nemožno rozdeliť, ak do rozvoja odčleňovanej časti obce boli vložené investície, od ktorých je závislá celá obec.
 
