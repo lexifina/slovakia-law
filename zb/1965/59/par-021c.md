@@ -8,4 +8,4 @@
 
 - c) ak to vyžaduje bezpečnosť osôb, majetku, prípadne iný podobný všeobecný záujem.
 
-(2) Rozhodnutie o zhabaní veci treba písomne Správou Zboru nápravnej výchovy oznámiť páchateľovi disciplinárneho priestupku a osobe, ktorej sa priamo týka, pokiaľ je známa; vlastníkom zhabanej veci sa stáva štát. Zhabanie veci nemožno uložiť, ak od spáchania disciplinárneho priestupku uplynula doba 1 rok.
+(2) Rozhodnutie o zhabaní veci treba písomne oznámiť páchateľovi disciplinárneho priestupku a osobe, ktorej sa priamo týka, pokiaľ je známa; vlastníkom zhabanej veci sa stáva štát. Zhabanie veci nemožno uložiť, ak od spáchania disciplinárneho priestupku uplynula doba 1 rok.
