@@ -1,3 +1,0 @@
-Príloha vyhlášky č. 67/1964 Zb.
-
-- CIACHOVÝ PREUKAZ PRE VNÚTROZEMSKÉ LODE [Vzor 01](../assets/7e0487fa8fbe7ff4950a3310dbb606d0a95405dfe99d4d35840ab350350c5098.pdf)
