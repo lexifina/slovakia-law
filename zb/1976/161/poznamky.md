@@ -1,8 +1,8 @@
 - 1) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 195/1989 Zb. o zabezpečení pracovníkov pri organizačných zmenách a občanov pred nástupom do zamestnania v znení zákona č. 162/1990 Zb. a vyhlášky č. 312/1990 Zb.
 
-- 2) Pozri najmä §187-206 Zákonníka práce, §421 Občianskeho zákonníka.
+- 2) § 9 ods. 4 a § 44 ods. 4 a § 74 zákona č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch.
 
-- 3) Napr. vyhláška č. 96/1967 Zb. o náhradách cestovných, sťahovacích a iných výdavkov.
+- 3) § 14 nariadenie vlády ČSFR č. 121/1990 Zb. o pracovnoprávnych vzťahoch pri súkromnom podnikaní.
 
 - 4) Napr. vyhláška Ministerstva dopravy č. 41/1965 Zb. o používaní vlastných osobných vozidiel pracovníkmi pri vonkajších výkonoch v znení vyhlášky č. 34/1974 Zb.
 
