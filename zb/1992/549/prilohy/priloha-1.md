@@ -305,3 +305,7 @@
     - b) porušenia práva uvedené v článku 50 Ženevského dohovoru z roku 1949 o zlepšení osudu ranených a chorých príslušníkov ozbrojených síl v poli, v článku 51 Ženevského dohovoru z roku 1949 o zlepšení osudu ranených, chorých a stroskotancov ozbrojených síl na mori, v článku 130 Ženevského dohovoru z roku 1949 o zaobchádzaní s vojnovými zajatcami a v článku 147 Ženevského dohovoru z roku 1949 o ochrane civilných osôb počas vojny,
 
     - c) akékoľvek porovnateľné porušenia vojnových zákonov platných v čase, keď tento protokol nadobudne platnosť a v tom čase platného vojnového obyčajového práva, ktoré nie sú upravené vyššie uvedenými ustanoveniami ženevských dohovorov.
+
+  - Článok 23
+
+    - Slovenská republika vyzýva ostatné zmluvné strany, aby svoje žiadosti a pripojené doklady, ktoré nie sú v slovenskom jazyku alebo v jednom z oficiálnych jazykov Rady Európy, zasielali s pripojeným prekladom do jedného z týchto jazykov.
