@@ -74,11 +74,15 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - | Trieda 3. Energetické a hnacie stroje a zariadenia | |
 
+- 346 | Elektrochemické zdroje prúdu (akumulátorové a batériové stanice) | 5 | 20,0
+
 - 354 | Silové kondenzátory | 20 | 5,0
 
 - 356 | Výkonové meniče (usmerňovače) | 20 | 5,0
 
 - 357 | Rozvádzače | 20 | 5,0
+
+- 359 | Elektromory (pokiaľ nie sú súčasťou strojov a zariadení) | 12 | 8,0
 
 - 361 | Točivé stroje na výrobu elektriny | 25 | 4,0
 
@@ -98,7 +102,7 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - 428 | Turbokompresory | 20 | 5,0
 
-- 429 | Vzduchotechnické zariadenia | 14 | 7,0
+- 429 | Vzduchotechnické výrobky (bez pol. Jednotnej klasifikácie priemyselných odborov a výrobkov 429 6 jednoúčelové zariadenia pre pneumatickú dopravu) | 14 | 7,0
 
 - 432 | Chladiace a mraziace zariadenia | 14 | 7,0
 
@@ -194,11 +198,11 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - 527 | Stroje a zariadenia pre potravinársky priemysel II a stroje na spracovanie tabaku | 17 | 6,0
 
-- 532 | Poľnohospodárske stroje a zariadenia (bez traktorov) | 12 | 8,0
+- 536 | Poľnohospodárske stroje a zariadenia (bez traktorov)*) | 12 | 8,0
 
 - 533 | Stroje pre zemné, stavebné a cestné práce | 7 | 14,0
 
-- 534 | Lopatové rýpadlá | 12 | 8,0
+- 534 | Lopatové a korčekové rýpadlá (vč. plávajúcich korčekových a iných bagrov - drapákových) | 12 | 8,0
 
 - 535 | Stroje a zariadenia pre spracovanie nerastných hmôt | 14 | 7,0
 
@@ -207,6 +211,8 @@ Príloha vyhlášky č. 76/1966 Zb.
 - 539 | Stroje a zariadenia pre komunálne služby | 14 | 7,0
 
 - 541 | Vykurovacie a varné zariadenia | 10 | 10,0
+
+- 544 | Šijacie a pletacie stroje pre domácnosť | 7 | 14,0
 
 - | Trieda 5. Prístroje a zvláštne technické zariadenia | |
 
@@ -244,6 +250,8 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - | Trieda 6. Dopravné prostriedky | |
 
+- 429 | Vzduchotechnické výrobky- len pol. 429 6 jednoúčelové zariadenia pre pneumatickú dopravu (preradenie z triedy 3 - Energetické a hnacie stroje a zariadenia) | 14 | 7,0
+
 - 444 | Osobné automobily a ich úžitkové a účelové modofikácie | 8 | 12,0
 
 - 445 | Nákladné automobily a ich účelové modifikácie | 8 | 12,0
@@ -276,7 +284,7 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - | veľkopriestorové banské vozy | 20 | 5,0
 
-- 463 | Riečne a jazerné lode a plávajúce zariadenia (bez športových lodí) | 30 | 3,3
+- 463 | Riečne a jazerné lode a plávajúce zariadenia (bez športových lodí) bez pol. Jednotnej klasifikácie priemyselných odborov a výrobkov 463 312 - korčekové a iné bagre - drapákové | 30 | 3,3
 
 - 464 | Lode námornej a zmiešanej plavby | 20 | 5,0
 
@@ -302,9 +310,15 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - 384 | Rozhlasové a televízne prijímače a reprodukčné prístroje | 8 | 12,0
 
+- 478 | Zariadenia pre sklady (preradenie z triedy 6) | 17 | 6,0
+
+- 542 | Elektrické spotrebiče a chladničky pre domácnosť | 10 | 10,0
+
 - 557 | Kovový nábytok | 25 | 4,0
 
 - 615 | Nábytok z dreva | 17 | 6,0
+
+- 697 | Bytové textílie (pol. Jednotnej klasifikácie priemyselných odborov a výrobkov 697 5 a 697 6 tkané a netkané koberce) | 10 | 10,0
 
 - 739 | Javiskové zariadenia a divadelné potreby | 17 | 6,0
 
@@ -314,4 +328,4 @@ Príloha vyhlášky č. 76/1966 Zb.
 
 - | Trieda 9. Trvalé porasty | |
 
-- 940 | Trvalé porasty (okrem lesných) | 25 | 4,0
+- 094 | Trvalé porasty (okrem lesných) | 25 | 4,0
