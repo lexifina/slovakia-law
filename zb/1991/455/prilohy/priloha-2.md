@@ -12,7 +12,7 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Revízie a skúšky vyhradených tlakových zariadení *) | Osvedčenie (§ 8 vyhl. č. 23/ 1979 Zb. v znení vyhl. č. 485/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 7 vyhl. č. 23/1979 Zb. v znení vyhl. č. 485/1990 Zb.
 
-- Výroba, montáž, opravy a rekonštrukcie vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 24/ 1979 Zb. v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 24/1979Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.
+- Výroba, montáž, opravy a rekonštrukcie vyhradených zdvíhacích zariadení *) | Oprávnenie (§ 3 vyhl. č. 24/ 1979 Zb. v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990 Zb.
 
 - Individuálne vyskúšanie, overovacie skúšky, revízie a revízne skúšky vyhradených zdvíhacích zariadení *) | Osvedčenie (§ 4, 5, 7 a 8 vyhl. č. 24/ 1979 Zb. , ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/1990Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce
 
@@ -42,9 +42,11 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - Výroba, opravy a montáž meradiel | registrácia na Úrade pre normalizáciu, § 19 zák. č. 505/ 1990 Zb. o metrológii metrológiu a skúšobníctvo SR vykonaná po zistení, že podnik má na náležitý výkon činnosti vytvorené potrebné predpoklady | § 19 zák, č. 505/1990 Zb. o meterológii
 
+- Očná optika | Absolvent strednej zdravotníckej školy s maturitou v študijnom odbore očný optik a päťročná prax v odbore | § 28a ods. 2 a 3 zákona č. 140/1998 Z. z. v znení neskorších predpisov
+
 - SKUPINA 205 - Výroba elektrických prístrojov | |
 
-- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487 / 1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
+- Montáž, oprava, údržba vyhradených elektrických zariadení *) a výroba rozvádzačov nízkeho napätia | Oprávnenie (§ 3 vyhl. č. 25/1979 Zb. v znení vyhl. č. 487 / 1990 Zb.) | *) § 4 zák. č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce; § 2 vyhl. č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 487/1990 Zb.
 
 - Revízia vyhradených elektrických zariadení | Osvedčenie (§ 9 vyhl. č. 51/1978 Zb.) *) | *) vyhl. č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike v znení vyhl. č. 83/ 1982 Zb.
 

@@ -134,8 +134,6 @@ Príloha č. 1 zákona č. 455/1991 Zb.
 
   - SKUPINA 114 – Ostatné
 
-  - Očná optika – prax 5 rokov (§ 21 ods. 1)
-
   - Holičstvo
 
   - Kaderníctvo
