@@ -884,7 +884,27 @@ Označenie týmto spôsobom nemení ostatné povinnosti označovania nebezpečn�
 
 3. Ustanovenia bodov 1 a 2 sa nevzťahujú na aerosólové rozprašovače s horľavým obsahom, pri ktorých sú k dispozícii výsledky, že za obvyklých podmienok používania nehrozí nebezpečenstvo vznietenia.
 
+XLIIA. Alkány, C<sub>10</sub>-C<sub>13</sub> chlóralkány (chlórované parafíny s krátkym reťazcom; SCCPs)
+
+Nesmú sa dodávať na trh na použitie ako látky alebo zložky iných látok alebo prípravkov v koncentráciách vyšších ako 1 %
+
+a) pri obrábaní kovov,
+
+b) pri mazaní usní.
+
 XLIII. Azofarbivá
+
+1. Azofarbivá, ktoré môžu v dôsledku redukčného štiepenia jednej azo skupiny alebo viacerých azo skupín uvoľňovať jeden aromatický amín alebo viac aromatických amínov uvedených v Zozname aromatických amínov v zistiteľných koncentráciách, t. j. nad 30 ppm v hotových výrobkoch alebo v ich farbených častiach podľa testovacej metódy stanovenej slovenskou technickou normou,<sup>2</sup>) sa nesmú používať v textilných, usňových a odevných výrobkoch z textilu a usní, ktoré môžu prichádzať do priameho a dlhodobého styku s pokožkou alebo ústnou dutinou, ako napríklad:
+
+a) osobná bielizeň, vrchné a spodné ošatenie, lôžkoviny, uteráky, príčesky, parochne, klobúky, plienky a iné hygienické výrobky, spacie vaky,
+
+b) obuv, rukavice, remienky náramkových hodiniek, tašky, peňaženky, náprsné tašky, aktovky, poťahy sedadiel, taštičky na zavesenie na krk,
+
+c) textilné alebo usňové hračky a hračky s textilným alebo usňovým oblečením,
+
+d) priadza a textílie určené na použitie konečným spotrebiteľom.
+
+2. Okrem toho sa textilné, usňové a odevné výrobky nesmú uvádzať na trh, ak nezodpovedajú požiadavkám ustanoveným v bode 1.
 
 Zoznam aromatických amínov
 

@@ -4,6 +4,8 @@
 
 - Zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov.
 
+- 2) STN EN 14362-1:2002, STN EN 14362-2:2002, STN EN ISO 17234:2002.
+
 - 3) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
