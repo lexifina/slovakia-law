@@ -1,0 +1,1 @@
+Mária Machová v. r.
