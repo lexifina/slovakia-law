@@ -1,10 +1,10 @@
 # § 17a
 
-(1) Uchádzačovi o zamestnanie, ktorý je občanom so zmenenou pracovnou schopnosťou (§ 21), sa poskytuje k hmotnému zabezpečeniu zvýšenie na manželku, ak s ním žije v spoločnej domácnosti a nemôže byť z vážnych dôvodov zárobkovo činná alebo nemá vlastný hrubý príjem vyšší ako 800 Kčs mesačne, a na jeho deti alebo deti jeho manželky, na ktoré nepatria prídavky na deti (výchovné) alebo ktorým nepatrí invalidný dôchodok. Zvýšenie na manželku sa poskytuje v sume 400 Kčs mesačne a zvýšenie na deti v sume zodpovedajúcej výške prídavkov na deti.
+(1) Uchádzačovi o zamestnanie, ktorý je občanom so zmenenou pracovnou schopnosťou (§ 21), sa poskytuje k hmotnému zabezpečeniu zvýšenie na manželku, ak s ním žije v spoločnej domácnosti a nemôže byť z vážnych dôvodov zárobkovo činná alebo nemá vlastný hrubý príjem vyšší ako 800 Sk mesačne, a na jeho deti alebo deti jeho manželky, na ktoré nepatria prídavky na deti (výchovné) alebo ktorým nepatrí invalidný dôchodok. Zvýšenie na manželku sa poskytuje v sume 400 Sk mesačne a zvýšenie na deti v sume zodpovedajúcej výške prídavkov na deti.
 
 (2) Dieťaťom podľa odseku 1 sa rozumie vlastné (osvojené) dieťa, prípadne dieťa prevzaté do starostlivosti nahrádzajúcej starostlivosť rodičov na základe rozhodnutia príslušného orgánu, ak spĺňa podmienky nezaopatrenosti podľa zákona o sociálnom zabezpečení.<sup>24</sup>)
 
-(3) Ak to odôvodňujú sociálne pomery uchádzača o zamestnanie, ktorý je občanom so zmenenou pracovnou schopnosťou, môže sa poskytnúť k hmotnému zabezpečeniu zvýšenie až do sumy 300 Kčs mesačne na každého rodinného príslušníka žijúceho s ním v spoločnej domácnosti. Za rodinných príslušníkov tohto uchádzača o zamestnanie sa považujú okrem manželky a detí tiež
+(3) Ak to odôvodňujú sociálne pomery uchádzača o zamestnanie, ktorý je občanom so zmenenou pracovnou schopnosťou, môže sa poskytnúť k hmotnému zabezpečeniu zvýšenie až do sumy 300 Sk mesačne na každého rodinného príslušníka žijúceho s ním v spoločnej domácnosti. Za rodinných príslušníkov tohto uchádzača o zamestnanie sa považujú okrem manželky a detí tiež
 
 - a) vnuci a súrodenci za podmienok uvedených v odseku 2,
 
