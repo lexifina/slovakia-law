@@ -1,6 +1,6 @@
 # § 360a Zmluva o združení
 
-(1) Zmluvou o združení sa socialistické organizácie zaväzujú, že spoja svoju činnosť alebo časť svojich prostriedkov na dosiahnutie určitého účelu, prípadne v inom spoločnom záujme.
+(1) Zmluvou o združení sa organizácie zaväzujú, že spoja svoju činnosť alebo časť svojich prostriedkov na dosiahnutie určitého účelu, prípadne v inom spoločnom záujme.
 
 (2) Zmluva o združení vymedzí najmä:
 

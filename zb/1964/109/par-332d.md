@@ -20,10 +20,8 @@
 
 (8) Škoda sa uhrádza iba do výšky ceny predmetu plnenia, pokiaľ sa organizácie nedohodnú na vyššej hranici náhrady škody.
 
-(9) Riešiteľ, ktorý je v omeškaní so splnením záväzku vyriešiť úlohu a výsledok riešenia odovzdať, je povinný zadávateľovi zaplatiť penále vo výške 0,5 % z jej ceny za každý začatý mesiac omeškania.
+(9) Penále za omeškanie so splnením záväzku vyriešiť úlohu a výsledok riešenia odovzdať je 0,5 % z jeho ceny za každý začatý mesiac omeškania.
 
-(10) Zadávateľ, ktorý je v omeškaní so splnením záväzku spolupôsobiť, je povinný riešiteľovi zaplatiť za každý prípad a deň omeškania penále vo výške 500 Kčs, najviac však za každý prípad 15 000 Kčs.
+(10) Penále za omeškanie so splnením záväzku na spolupôsobenie je 500 Kčs za každý prípad a deň omeškania, najviac však 15 000 Kčs.
 
-(11) Zadávateľ, ktorý v určenej lehote nevytvoril potrebné predpoklady pre prebierku, nezačal ju, riadne v nej nepokračoval alebo neoprávnene odmietol riadne ponúknutý výsledok riešenia prevziať, je povinný zaplatiť riešiteľovi penále vo výške 500 Kčs za každý deň omeškania.
-
-(12) Organizácie, ktorým vzniklo právo na majetkové sankcie podľa odsekov 9 až 11, môžu od ich účtovania a vymáhania čiastočne alebo úplne upustiť.
+(11) Penále za nevytvorenie potrebných predpokladov pre preberanie v určenej lehote je 500 Kčs za každý deň omeškania. To isté platí pre prípady, keď zadávateľ preberanie nezačal, riadne v ňom nepokračoval alebo neoprávnene odmietol riadne ponúknutý výsledok riešenia prevziať.
