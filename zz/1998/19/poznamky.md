@@ -1,0 +1,1 @@
+- 1) Bezcolný dovoz exponovaných a vyvolaných kinematografických filmov určených na premietanie alebo na predaj môže byť obmedzený na negatívy, pričom sa toto obmedzenie nevzťahuje na filmy vrátane aktualít, ktoré sa môžu bezcolne dovážať podľa ustanovenia prílohy C 2 tohto protokolu.
