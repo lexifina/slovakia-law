@@ -1,25 +1,25 @@
 Príloha č. 2 k zákonu č. 312/2001 Z. z.
 
-- PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV (Sk mesačne) Platová trieda | Platová tarifa
+- ZVÝŠENÉ PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV (Sk mesačne) Platová trieda | Zvýšená platová tarifa
 
-- 1. | 7 350
+- 1. | 7 870
 
-- 2. | 7 940
+- 2. | 8 500
 
-- 3. | 8 610
+- 3. | 9 220
 
-- 4. | 9 360
+- 4. | 10 020
 
-- 5. | 11 190
+- 5. | 11 980
 
-- 6. | 11 880
+- 6. | 12 720
 
-- 7. | 13 460
+- 7. | 14 410
 
-- 8. | 14 430
+- 8. | 15 450
 
-- 9. | 16 450
+- 9. | 17 610
 
-- 10. | 18 760
+- 10. | 20 080
 
-- 11. | 21 390
+- 11. | 22 890
