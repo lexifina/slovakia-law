@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 453/2002 Z. z. o postupoch pri poskytovaní informácií v oblasti technických predpisov a technických noriem.
