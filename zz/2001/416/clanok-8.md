@@ -178,6 +178,8 @@ Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 389/1998 Z. z
 
 - 30. V § 67 písm. m) sa za slovo „obcí“ vkladá čiarka a slová „samosprávneho kraja“.
 
+- 31. V § 68 písm. a) sa vypúšťa tretí
+
   - a štvrtý bod.
 
   - Doterajší piaty až devätnásty bod sa označujú ako tretí až sedemnásty bod.
@@ -451,6 +453,10 @@ Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 389/1998 Z. z
 - (1)
 
 - O žiadostiach o poskytovanie prepravnej služby, o poskytovanie starostlivosti v zariadeniach sociálnych služieb, o registráciu právnickej osoby a fyzickej osoby poskytujúcich sociálne služby, ktoré boli podané a o ktorých príslušný orgán nerozhodol do 30. júna 2002, rozhoduje príslušný orgán podľa tohto zákona.
+
+- (2)
+
+- O žiadostiach o poskytovanie opatrovateľskej služby a o úhrade za poskytnutú opatrovateľskú službu, ktoré boli podané a o ktorých príslušný orgán nerozhodol do 31. decembra 2002, rozhoduje príslušný orgán podľa tohto zákona.
 
 - (3)
 

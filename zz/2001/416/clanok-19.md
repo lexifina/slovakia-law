@@ -4,6 +4,12 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - 1. V § 7 ods. 4 sa slová „okresný úrad“ nahrádzajú slovami „samosprávny kraj“.
 
+- 2. V § 24 odsek 3 znie:
+
+- „(3)
+
+- Zriaďovateľom zdravotníckeho zariadenia uvedeného v odseku 1 písm. a), b), d), h) a i) je obec. Zriaďovateľom zdravotníckeho zariadenia uvedeného v odseku 1 písm. f) a j) okrem nemocnice s poliklinikou III. typu je samosprávny kraj. Zriaďovateľom ostatných zdravotníckych zariadení uvedených v odsekoch 1 a 2 okrem stredných zdravotníckych škôl je Ministerstvo zdravotníctva Slovenskej republiky (ďalej len „ministerstvo zdravotníctva“).“.
+
 - 3. V § 26 ods. 1 sa za písmeno c) vkladá nové písmeno d), ktoré znie:
 
 - „d)
@@ -215,6 +221,14 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 - „§ 78a
 
 - Samosprávny kraj
+
+- a)
+
+- zriaďuje a spravuje stredné zdravotnícke školy,
+
+- b)
+
+- zakladá zdravotnícke zariadenia podľa osobitného predpisu,<sup>9e</sup>)
 
 - c)
 
