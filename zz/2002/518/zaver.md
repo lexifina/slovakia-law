@@ -1,1 +1,0 @@
-František Hajnovič v. r.
