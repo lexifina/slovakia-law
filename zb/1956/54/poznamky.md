@@ -9,3 +9,7 @@
 - 1) § 8 a 10b vyhlášky predsedu vlády č. 91/1958 Zb., ktorou sa uverejňuje opatrenie Ústrednej rady odborov o organizácii a vykonávaní nemocenského poistenia zamestnancov, v znení vyhlášky č. 178/1968 Zb.
 
 - 1) § 7 ods. 1 zákona č. 1/1991 Zb. o zamestnanosti.
+
+- 1a) § 18 ods. 4 zákona č. 172/1990 Zb. o vysokých školách.
+
+- 1b) § 29, 31 a 33 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
