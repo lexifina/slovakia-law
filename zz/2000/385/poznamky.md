@@ -94,7 +94,7 @@
 
 - 30) Občiansky súdny poriadok.
 
-- 31) Zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z.
+- 31) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 32) Zákon č. 351/1997 Z. z. Branný zákon.
 
