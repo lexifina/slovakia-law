@@ -8,6 +8,8 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - 3. V § 2 ods. 1 písm. b) sa za slová „Slovenská akadémia vied" vkladá čiarka a slová „Kancelária verejného ochrancu práv".
 
+- 4. V § 3 ods. 4 tretej vete sa bodka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „na zostavovanie, sledovanie a vykazovanie príjmov a výdavkov verejného rozpočtu Sociálna poisťovňa, zdravotné poisťovne, Národný úrad práce, Fond národného majetku Slovenskej republiky a Slovenský pozemkový fond uplatňujú rozpočtovú klasifikáciu v rozsahu ustanovenom na tieto účely.".
+
 - 7. V § 5 ods. 1 písm. a) a b) sa slová „zriadených zákonom" nahrádzajú slovami „podľa osobitných predpisov".
 
 - 8. Poznámka pod čiarou k odkazu 3 sa dopĺňa citáciou, ktorá znie: „Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.".
@@ -37,6 +39,10 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - „(6)
 
 - Na uzatváranie zmlúv o návratnej finančnej výpomoci podľa odseku 5 písm. a) sa vzťahuje osobitný predpis.<sup>5a</sup>) Návratnú finančnú výpomoc podľa odseku 5 písm. b) a c) možno poskytnúť na základe zmluvy o návratnej finančnej výpomoci uzatvorenej medzi ministerstvom a prijímateľom návratnej finančnej výpomoci. V zmluve o poskytnutí návratnej finančnej výpomoci podľa odseku 5 písm. b) a c) musí byť dohodnutá doba, na ktorú sa návratná finančná výpomoc poskytuje, a spôsob jej splácania. Doba, na ktorú sa návratná finančná výpomoc podľa odseku 5 písm. b) a c) poskytuje, nemôže byť dlhšia ako štyri roky. Poskytnutú návratnú finančnú výpomoc podľa odseku 5 písm. b) a c) nemožno zmeniť na iný druh finančného vzťahu. Pri poskytovaní návratných finančných výpomocí podľa odseku 5 písm. b) a c) úrok môže byť predmetom zmluvy.“.
+
+- 21. V § 8 ods. 1 sa na konci pripája táto veta: „Súčasťou východísk na zostavenie návrhu štátneho rozpočtu je aj určenie podielu súhrnného schodku verejného rozpočtu na hrubom domácom produkte tak, aby sa postupne dosiahla referenčná hodnota tohto podielu platná pre Európske spoločenstvá.".
+
+- 24. V § 8 ods. 6 prvej vete sa za slová „verejný rozpočet," vkladajú slová „spracované na základe východísk na zostavenie návrhu štátneho rozpočtu podľa odseku 1,".
 
 - 26. V § 10 sa odsek 5 dopĺňa písmenom f), ktoré znie:
 
@@ -134,6 +140,28 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 
 - „Pri zostavení krízového rozpočtu nie je obec povinná dodržať ustanovenie § 29 ods. 2.“.
 
+- 49. V § 33 ods. 4 sa na konci pripája táto veta: „Ak obce zriadia spoločný obecný úrad alebo združenie obcí podľa osobitného predpisu,<sup>21b</sup>) ministerstvo môže za tieto obce poskytnúť decentralizačnú dotáciu obci, v ktorej je sídlo spoločného obecného úradu alebo sídlo združenia obcí po predchádzajúcom súhlase všetkých obcí, ktoré spoločný úrad alebo združenie obcí zriadia.".
+
+  - Poznámka pod čiarou k odkazu 21b znie:
+
+- „21b)
+
+- § 20 a 20a zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.“.
+
+- 51. V § 46 ods. 1 sa na konci pripájajú tieto vety:
+
+- „Súčasťou správ o plnení štátneho rozpočtu je aj informácia o vykonaných opatreniach vlády na preklenutie nesúladu medzi príjmami a výdavkami štátneho rozpočtu a o povolenom prekročení výdavkov z titulu dosiahnutia vyšších príjmov. Ak sa v priebehu roka zmenia podmienky natoľko, že výrazne ohrozujú plánovanú bilanciu štátneho rozpočtu napriek opatreniam prijatým na základe zákona o štátnom rozpočte na príslušný rozpočtový rok v súlade s týmto zákonom, vláda predloží národnej rade návrh na zmenu zákona o štátnom rozpočte na príslušný rozpočtový rok.“.
+
+- 52. V § 46 sa vypúšťa odsek 4.
+
+  - Doterajšie odseky 5 a 6 sa označujú ako odseky 4 a 5.
+
+- 53. V § 46 novooznačený odsek 4 znie:
+
+- „(4)
+
+- Zákon o štátnom rozpočte na príslušný rozpočtový rok môže ustanoviť inú dobu, ako je uvedená v § 6 ods. 6, na ktorú sa poskytuje návratná finančná výpomoc.“.
+
 - 54. V § 46 ods. 5 sa slová „písm. c) a d)" nahrádzajú slovami „písm. b) a c)".
 
 - 55. § 46a sa vypúšťa.
@@ -187,3 +215,41 @@ Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových p
 - § 3 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).“.
 
 - 61. V § 55d ods. 5 druhej vete sa za slovo „sa" vkladajú slová „pre obce".
+
+- 62. Za § 55e sa vkladá § 55f, ktorý znie:
+
+- „§ 55f
+
+- (1)
+
+- Dňom nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii sa prostriedky poskytnuté Slovenskej republike z rozpočtu Európskych spoločenstiev na základe medzinárodných zmlúv uzatvorených po dni nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii
+
+- a)
+
+- vedú na osobitnom účte ministerstva v Štátnej pokladnici,
+
+- b)
+
+- poskytujú konečnému prijímateľovi z výdavkov podľa § 6 ods. 12 prostredníctvom príslušného ústredného orgánu alebo ním poverenej právnickej osoby na základe podmienok určených v zmluve uzatvorenej s konečným prijímateľom.
+
+- (2)
+
+- Subjekt, ktorý neoprávnene použil alebo zadržal prostriedky poskytnuté na základe medzinárodných zmlúv uzatvorených po dni nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii, je povinný neoprávnene použitú alebo zadržanú sumu týchto prostriedkov vrátane penále vrátiť. Neoprávnene použité alebo zadržané prostriedky Európskych spoločenstiev sú príjmom osobitného účtu ministerstva podľa odseku 1 písm. a).
+
+- (3)
+
+- Návrh štátneho rozpočtu na rozpočtový rok, v ktorom Slovenská republika pristúpi k Európskym spoločenstvám a k Európskej únii, sa zostaví s prihliadnutím na ustanovenia, ktoré nadobudnú účinnosť dňom nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii.“.
+
+- 63. Za § 56 sa vkladá § 56a, ktorý znie:
+
+- „§ 56a
+
+- Zrušujú sa:
+
+- 1.
+
+- nariadenie vlády Slovenskej republiky č. 234/1994 Z. z. o použití prostriedkov osobitného príjmového účtu štátneho rozpočtu v znení nariadenia vlády Slovenskej republiky č. 340/1994 Z. z.,
+
+- 2.
+
+- výnos Ministerstva financií Slovenskej republiky z 25. apríla 1996 č. 6784/1996-33 o použití prostriedkov osobitného účtu štátneho rozpočtu na krytie výdavkov spojených so správou daní a ciel a s kontrolou rozpočtovej a cenovej disciplíny.“.
