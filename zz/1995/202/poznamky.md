@@ -10,9 +10,13 @@
 
 - 5) § 657 a § 658 zákona č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 509/1991 Zb.
 
+- 5a) § 5 písm. g) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+
+- 5b) § 66b Obchodného zákonníka.
+
 - 6) § 56 Obchodného zákonníka.
 
-- 7) § 6 ods. 2 Obchodného zákonníka.
+- 7) § 6 ods. 3 Obchodného zákonníka.
 
 - 8) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
@@ -28,19 +32,9 @@
 
 - 14) § 15 ods. 2 a § 17 ods. 6 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
 
-- 15) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
-
 - 16) § 1 ods. 3 písm. o) zákona č. 21/1992 Zb.
 
-- 16a) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
-
-- 17) Zákon č. 600/1992 Zb. v znení neskorších predpisov.Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.Zákon č. 385/1999 Z. z. o kolektívnom investovaní.
-
-- 17a) § 20 zákona č. 330/2000 Z. z. o burze cenných papierov.
-
 - 17b) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
-
-- 18) Napríklad štvrtá časť zákona č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 18a) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
@@ -56,11 +50,9 @@
 
 - 21b) § 21 ods. 3 a 4 Obchodného zákonníka.
 
-- 22) § 16 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
-
 - 23) Tretia časť zákona Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole.
 
-- 24) Zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
+- 24) Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z.
 
 - 25) § 259 až 262 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
