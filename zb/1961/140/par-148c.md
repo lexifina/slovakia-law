@@ -2,7 +2,7 @@
 
 (1) Kto s kontrolnými známkami, kontrolnými páskami alebo inými kontrolnými technickými opatreniami na označenie tovaru na daňové účely alebo na iné účely ustanovené zákonom nakladá v rozpore s právnym predpisom v úmysle spôsobiť inému škodu alebo zadovážiť sebe alebo inému neoprávnený prospech, alebo
 
-kto v rozpore s právnym predpisom uvádza do obehu tovar bez kontrolných známok, kontrolných pások alebo bez iných kontrolných technických opatrení na jeho označenie na daňové účely alebo na iné účely ustanovené zákonom,
+kto v rozpore s právnym predpisom prechováva alebo uvádza do obehu tovar bez kontrolných známok, kontrolných pások alebo bez iných kontrolných technických opatrení na jeho označenie na daňové účely alebo na iné účely ustanovené zákonom,
 
 potresce sa odňatím slobody na šesť mesiacov až tri roky alebo peňažným trestom alebo prepadnutím veci.
 
