@@ -1,7 +1,0 @@
-# § 29 včítane nadpisu znie:
-
-„§ 29
-
-Sadzba príspevku
-
-Sadzba príspevku u daňovníkov podľa § 28 ods. 1 je 10 % zo základu určeného v tomto odseku, u daňovníkov podľa § 28 ods. 2 je 20 % zo základu určeného v tomto odseku.“.
