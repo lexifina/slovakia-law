@@ -582,6 +582,10 @@ sufentanil N-[4-(metoxymetyl)-1-/2-(2-tienyl) etyl/-4-piperidyl] propionanilid
 
 tilidin (+)-etyl trans-2-(dimetylamino)-1-fenyl-3- cyklohexén-1-karboxylát
 
+alfentanil N-/1-/2-/4 ethyl-4,5 dihydro-5-oxo-1H-tetrazol-1-yl/ /4-methoxymethyl/ -4-piperidinyl/ -N-phenylpropanamid monohydrochlorid
+
+metamfetamín /+/-2-metylamino-1-fenylpropan
+
 II. skupina
 
 acetyldihydrokodeín
