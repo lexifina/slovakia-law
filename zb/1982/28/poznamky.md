@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva kultúry Slovenskej socialistickej republiky č. 29/1982 Zb. o úprave odmien za hudobnú činnosť vykonávanú členmi súborov ľudových hudobníkov.
