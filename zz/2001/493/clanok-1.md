@@ -286,6 +286,154 @@ Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a 
 
 - Opravné alebo dodatočné daňové priznanie alebo hlásenie sa podáva spôsobom podľa § 38 ods. 2 a musí byť podané písomne a označené ako opravné alebo dodatočné. V dodatočnom daňovom priznaní alebo hlásení sa vyznačia aj rozdiely oproti pôvodne podanému daňovému priznaniu alebo hláseniu alebo len rozdiely, ak tak ustanovuje osobitný zákon.<sup>6eb</sup>)“.
 
+- 38. § 40 vrátane nadpisu znie:
+
+- „§ 40
+
+- Majetkové priznanie
+
+- (1)
+
+- Fyzické osoby, ktoré majú v Slovenskej republike trvalý pobyt alebo majú povolenie na trvalý pobyt,<sup>11da</sup>) podávajú majetkové priznanie s uvedením majetku, ktorý vlastnia na území Slovenskej republiky i v zahraničí. Za fyzickú osobu, ktorá nie je spôsobilá na právne úkony, alebo za maloletého, ktorí vlastnia majetok, podáva majetkové priznanie ich zákonný zástupca, opatrovník alebo pestún.
+
+- (2)
+
+- Majetkové priznanie sa podáva do 30. septembra každého tretieho kalendárneho roka podľa stavu majetku k 31. decembru kalendárneho roka, ktorý predchádza roku, v ktorom sa podáva majetkové priznanie, počnúc rokom 2001, ak tento zákon neustanovuje inak. Pred uplynutím lehoty na podanie majetkového priznania môže fyzická osoba podľa odseku 1 podať opravné majetkové priznanie a na predchádzajúce podané majetkové priznanie sa neprihliada. Majetkové priznanie a opravné majetkové priznanie sa podávajú miestne príslušnému správcovi dane na správu daní z príjmov; na opravné majetkové priznanie sa rovnako vzťahujú odseky 3 až 14. Na majetkové priznanie a opravné majetkové priznanie sa primerane vzťahuje § 41.
+
+- (3)
+
+- Fyzická osoba podľa odseku 1 je povinná podať majetkové priznanie vrátane jeho príloh vždy písomne najneskôr v lehote určenej podľa odseku 2 podľa vzoru, ktorý ustanoví opatrenie, ktoré vydá ministerstvo a ktoré sa vyhlasuje v zbierke zákonov uverejnením oznámenia o jeho vydaní alebo na tlačive vydanom podľa tohto vzoru. So súhlasom správcu dane možno majetkové priznanie podať aj prostredníctvom elektronickej pošty alebo na elektronickom záznamovom médiu, ak údaje, ich obsah a usporiadanie sú totožné so vzorom, ktorý vydá ministerstvo. Ustanovenie § 20 ods. 4 tým nie je dotknuté.
+
+- (4)
+
+- Majetkové priznanie musí obsahovať majetok podľa odseku 1 v členení na
+
+- a)
+
+- nehnuteľný majetok,
+
+- b)
+
+- hnuteľný majetok,
+
+- c)
+
+- majetkové práva a iné majetkové hodnoty.
+
+- (5)
+
+- Majetkové priznanie je fyzická osoba podľa odseku 1 povinná podať, ak vlastní majetok podľa odseku 4 písm. a) nadobudnutý od 1. septembra 1999, ktorého súhrnná hodnota je vyššia ako 1 500 000 Sk. Majetkové priznanie je fyzická osoba podľa odseku 1 povinná podať aj vtedy, ak vlastní majetok podľa odseku 4 písm. b) a c), ktorého súhrnná hodnota je vyššia ako 1 500 000 Sk. Do tejto súhrnnej hodnoty sa nezapočítava hodnota majetku, ktorý sa v majetkovom priznaní neuvádza (odsek 14). Fyzická osoba podľa odseku 1, na ktorú sa nevzťahuje povinnosť podať majetkové priznanie, je povinná predložiť o tejto skutočnosti správcovi dane písomné vyhlásenie najneskôr v lehote na podanie majetkového priznania podľa odseku 2; táto povinnosť sa nevzťahuje na maloletého, za ktorého koná zákonný zástupca, opatrovník alebo pestún. Na podávanie vyhlásenia sa primerane vzťahuje ustanovenie odseku 3.
+
+- (6)
+
+- Majetok podľa odseku 4 sa v majetkovom priznaní uvádza v podrobnom členení; podrobnosti ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo. Za majetok podľa odseku 4 písm. a) sa považujú aj byty a nebytové priestory. Za majetok podľa odseku 4 písm. b) sa považujú aj peňažné prostriedky v hotovosti v slovenskej mene a v cudzej mene, vklady v bankách a v pobočkách zahraničných bánk v slovenskej mene a v cudzej mene a vklady v bankách so sídlom v zahraničí.
+
+- (7)
+
+- Majetok podľa odseku 4 písm. a) nadobudnutý od 1. septembra 1999 sa na účely majetkového priznania ocení cenou obstarania. Cena obstarania pri odplatnom nadobudnutí majetku podľa odseku 4 písm. a) je dohodnutá kúpna cena, pri bezodplatnom nadobudnutí takého majetku cena podľa osobitného predpisu;<sup>11db</sup>) pri majetku podľa odseku 4 písm. a) obstaranom vlastnou výstavbou sú cenou obstarania výdavky na obstaranie takého majetku.
+
+- (8)
+
+- Majetok podľa odseku 4 písm. b) a c) sa na účely majetkového priznania ocení cenou obvyklou s výnimkou peňažných prostriedkov v hotovosti v slovenskej mene, vkladov v bankách a v pobočkách zahraničných bánk v slovenskej mene a vkladov v bankách so sídlom v zahraničí v slovenskej mene. Peňažné prostriedky v cudzej mene v hotovosti, vklady v bankách a v pobočkách zahraničných bánk v cudzej mene a vklady v bankách so sídlom v zahraničí v cudzej mene sa prepočítajú na slovenskú menu kurzom vyhláseným Národnou bankou Slovenska platným k 31. decembru roka predchádzajúceho roku, v ktorom sa majetkové priznanie podáva. Cenou obvyklou sa na účely majetkového priznania rozumie cena, za ktorú sa v určitom čase a na určitom mieste taký majetok obvykle predáva.
+
+- (9)
+
+- Majetok v bezpodielovom spoluvlastníctve manželov uvádza v majetkovom priznaní každý z manželov rovnakým dielom.
+
+- (10)
+
+- Majetkový prírastok zisťuje správca dane na základe podaného majetkového priznania. Majetkový prírastok je kladný rozdiel medzi majetkom zisteným z majetkového priznania a z bezprostredne predchádzajúceho majetkového priznania, pričom za bezprostredne predchádzajúce majetkové priznanie sa považuje aj vyhlásenie podľa odseku 5. Ak sa za majetkové priznanie považuje vyhlásenie podľa odseku 5, majetkovým prírastkom sa rozumie kladný rozdiel medzi hodnotou majetku zistenou z posledného majetkového priznania a hranicou na podanie majetkového priznania podľa odseku 5.
+
+- (11)
+
+- Správca dane zistený majetkový prírastok porovná s príjmami fyzickej osoby podľa osobitného zákona<sup>13f</sup>) za obdobie, za ktoré sa majetkové priznanie podáva. Ak správca dane zistí kladný rozdiel, je oprávnený vyzvať fyzickú osobu, aby tento rozdiel preukázala. Správca dane je oprávnený preveriť aj správnosť a úplnosť údajov uvedených v majetkovom priznaní, pričom sa primerane použije § 15.
+
+- (12)
+
+- Ak sa v daňovom konaní preukáže, že majetkový prírastok pochádza z iných ako zo zdanených príjmov, správca dane dodatočne vyrubí fyzickej osobe daň z príjmov fyzických osôb podľa osobitného predpisu,<sup>11dc</sup>) to platí, aj ak sa nepodalo majetkové priznanie alebo vyhlásenie podľa odseku 5 a správca dane zistí, že boli splnené podmienky na podanie majetkového priznania alebo vyhlásenia podľa odseku 5. Na vyrubenie dane sa primerane vzťahuje ustanovenie § 45. Vyrubením dane zodpovednosť podľa osobitného zákona nie je dotknutá.<sup>11dd</sup>) Vyrubenie dane oznámi správca dane generálnemu prokurátorovi Slovenskej republiky; tento postup sa považuje za oznámenie podľa osobitného zákona.<sup>11de</sup>)
+
+- (13)
+
+- Postup podľa odseku 12 sa neuplatní, ak fyzickej osobe vznikol majetkový prírastok dedičstvom, darovaním alebo iným prechodom nehnuteľností. Tým nie sú dotknuté ustanovenia osobitného zákona.<sup>11df</sup>)
+
+- (14)
+
+- V majetkovom priznaní sa neuvádza tento majetok:
+
+- a)
+
+- majetok sanitárneho charakteru, ktorý slúži výlučne invalidným osobám a osobám s ťažkým zdravotným postihnutím, napríklad zdravotnícke potreby, vodiaci pes alebo iné veci, ktoré fyzická osoba potrebuje vzhľadom na svoju chorobu alebo telesnú chybu,
+
+- b)
+
+- vlastné umelecké diela,
+
+- c)
+
+- vlastné nehmotné práva priemyselného vlastníctva,<sup>11dg</sup>)
+
+- d)
+
+- vlastné autorské práva,
+
+- e)
+
+- nevymožiteľné pohľadávky.
+
+- (15)
+
+- Na účely tohto zákona zdaneným príjmom sa rozumie príjem, ktorý
+
+- a)
+
+- nie je predmetom dane z príjmov fyzických osôb alebo
+
+- b)
+
+- je predmetom dane z príjmov fyzických osôb a je od tejto dane oslobodený, alebo
+
+- c)
+
+- bol súčasťou príjmov alebo základu dane, z ktorých už bola vyrubená alebo dodatočne vyrubená daň z príjmov fyzických osôb alebo paušálna daň, alebo
+
+- d)
+
+- je predmetom dane z príjmov fyzických osôb a je samostatným základom dane na zdanenie osobitnou sadzbou dane,<sup>11dn</sup>) ktorej zrazením sa daňová povinnosť považuje za splnenú.“.
+
+- Poznámky pod čiarou k odkazom 11da, 11db, 11dc, 11dd, 11de, 11df, 11dg a 11dh znejú:
+
+- „11da)
+
+- Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
+
+- 11db)
+
+- Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 11dc)
+
+- § 13 ods. 4 zákona č. 366/1999 Z. z. v znení zákona č. 466/2000 Z. z.
+
+- 11dd)
+
+- Napríklad § 148 a 250 Trestného zákona.
+
+- 11de)
+
+- § 158 Trestného poriadku.
+
+- 11df)
+
+- Zákon Slovenskej národnej rady č. 318/1992 Zb. v znení neskorších predpisov.
+
+- 11dg)
+
+- Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
+
+- 11dh)
+
+- § 36 zákona č. 366/1999 Z. z. v znení neskorších predpisov.“.
+
 - 39. § 42 vrátane nadpisu znie:
 
 - „§ 42
@@ -449,5 +597,11 @@ Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a 
 - (3)
 
 - Tlačivá, ktorých vzor ustanovilo opatrenie, ktoré vydalo ministerstvo podľa § 40 ods. 3 a 5, možno po prvýkrát použiť po 1. januári 2002.“.
+
+- 75. § 110a sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Majetkové priznanie, na ktorého podanie bol termín najneskôr do 30. septembra 2001 podľa stavu majetku k 1. januáru 2001, podáva sa v termíne najneskôr do 31. januára 2002 podľa stavu majetku k 31. decembru 2000. Ustanovenie § 40 ods. 2 tým nie je dotknuté.“.
 
 - 76. Slová „doplatok“, „ústredné riaditeľstvo“, „prevádzkareň“ a „cudzina“ sa vo všetkých tvaroch v celom texte zákona nahrádzajú slovami „rozdiel dane“, „daňové riaditeľstvo“, „stála prevádzkareň“ a „zahraničie“ v príslušnom tvare.
