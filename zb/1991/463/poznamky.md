@@ -18,4 +18,4 @@
 
 - 2h) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 250/1993 Z. z. o rozsahu a bližších podmienkach poskytovania služieb v ústavoch sociálnej starostlivosti, o úhrade za služby a o vreckovom.
 
-- 3) § 49 ods. 2 a § 71 ods. 2 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+- 3) § 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti.
