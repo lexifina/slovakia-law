@@ -43,3 +43,13 @@
 - *) Závodný, prípadne obvodný lekár po vyjadrení odborného ženského lekára.
 
 - 1) Nákupnými cenami plodín sa rozumejú stále (zúčtovacie) ceny pre oceňovanie poľnohospodárskych produktov v poľnohospodárskych podnikoch ustanovené úpravou Ministerstva poľnohospodárstva, lesného a vodného hospodárstva z 30. 11. 1966 č. 64 930/66 (metodická príloha Socialistického poľnohospodárstva č. 50/1966).
+
+- 1) Tretia časť Zákonníka práce č. 65/1965 Zb.
+
+- 2) § 142 ods. 2 Zákonníka práce a vyhláška č. 132/1967 Zb. o odmeňovaní a hmotnom zabezpečení mladistvých nastupujúcich po skončení povinnej školskej dochádzky priamo do pracovného pomeru.
+
+- 3) Vyhláška č. 87/1967 Zb. o finančnom a hmotnom zabezpečení učňov v internátnych učňovských školách pre mládež vyžadujúcu osobitnú starostlivosť a v učňovských školách navštevovaných učňami z ústavov sociálnej starostlivosti pre telesne chybnú mládež.
+
+- 4) Školský zákon č. 186/1960 Zb. a zákon č. 19/1966 Zb. o vysokých školách.
+
+- 5) § 232 Zákonníka práce.
