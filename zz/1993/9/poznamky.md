@@ -14,9 +14,15 @@
 
 - 7) § 14 ods. 7 a § 15 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z.
 
+- 7a) § 18 ods. 7 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z. v znení neskorších predpisov.
+
 - 8) § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 7/1993 Zb.
 
 - 9) § 17 ods. 1 zákona Národnej rady Slovenskej republiky č. 7/1993 Zb.
+
+- 9a) § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z. v znení neskorších predpisov.
+
+- 9b) § 18 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z. v znení neskorších predpisov.
 
 - 10) § 38 zákona Národnej rady Slovenskej republiky č. 7/1993 Zb.
 
