@@ -320,9 +320,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 29 |
 
-- a) Z návrhu na vymenovanie za znalca alebo tlmočníka | 2 000 Sk
-
-- b) Z návrhu na zápis do zoznamu správcov konkurznej podstaty | 2 000 Sk
+- Z návrhu na zápis do zoznamu správcov konkurznej podstaty | 2 000 Sk
 
 - IV. Poplatky za úkony prokuratúry |
 
