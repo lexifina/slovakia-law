@@ -1,35 +1,35 @@
-# § 10d Poplatok za zber, prepravu a zneškodňovanie komunálnych odpadov a drobných stavebných odpadov
+# § 10d Poplatok za komunálne odpady a drobné stavebné odpady
 
-(1) Poplatok za zber, prepravu a zneškodňovanie komunálnych odpadov a drobných stavebných odpadov sa platí za komunálne odpady, ktoré vznikli na území obce, a za drobné stavebné odpady, ktoré vznikli na území obce.
+(1) Poplatok za komunálne odpady a drobné stavebné odpady sa platí za komunálne odpady a drobné stavebné odpady, ktoré vznikajú na území obce.
 
-(2) Poplatok platí
+(2) Ak ďalej nie je ustanovené inak, poplatok platí poplatník, ktorým je
 
-- a) fyzická osoba, ktorá nie je podnikateľom a má v obci trvalý pobyt<sup>9b</sup>) alebo prechodný pobyt,<sup>9c</sup>)
+- a) fyzická osoba, ktorá má v obci trvalý pobyt<sup>9b</sup>) alebo prechodný pobyt<sup>9c</sup>) alebo ktorá je na území obce oprávnená užívať alebo užíva byt, nebytový priestor, pozemnú stavbu<sup>9d</sup>) alebo jej časť, alebo objekt, ktorý nie je stavbou, alebo záhradu,<sup>9g</sup>) vinicu,<sup>9h</sup>) ovocný sad,<sup>9l</sup>) trvalý trávny porast<sup>9j</sup>) na iný účel ako na podnikanie, pozemok v zastavanom území obce okrem lesného pozemku<sup>9e</sup>) a pozemku, ktorý je evidovaný v katastri nehnuteľností ako vodná plocha<sup>9f</sup>) (ďalej len „nehnuteľnosť"),
 
-- b) právnická osoba alebo fyzická osoba-podnikateľ, pri ktorej činnosti vzniká komunálny odpad a ktorá vlastní alebo má v prenájme nehnuteľnosť nachádzajúcu sa na území obce, určenú na podnikanie,
+- b) právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území obce na iný účel ako na podnikanie,
 
-- c) fyzická osoba alebo právnická osoba, ktorá je vlastníkom alebo užívateľom nehnuteľnosti nachádzajúcej sa na území obce a slúžiacej na prechodné ubytovanie, individuálnu rekreáciu, ako je záhrada, byt alebo nebytový priestor,
+- c) podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území obce na účel podnikania.
 
-(ďalej len „poplatník za odpady“).
+(3) Ak má osoba podľa odseku 2 písm. a) v obci súčasne trvalý pobyt a prechodný pobyt, poplatok platí iba z dôvodu trvalého pobytu. Ak má osoba podľa odseku 2 písm. a) v obci trvalý pobyt alebo prechodný pobyt a súčasne je oprávnená užívať alebo užíva nehnuteľnosť na iný účel ako na podnikanie, poplatok platí iba z dôvodu trvalého pobytu alebo prechodného pobytu. To neplatí, ak je v obci zavedený množstvový zber.
 
-(3) Platiteľom poplatku je vlastník, správca alebo nájomca nehnuteľnosti, bytu alebo nebytového priestoru; ak je nehnuteľnosť, byt alebo nebytový priestor v spoluvlastníctve viacerých vlastníkov, je platiteľom zástupca alebo správca určený vlastníkmi. Ak si vlastníci neurčia zástupcu alebo správcu, určí platiteľa obec. Ak je vlastníkom štát alebo obec, je platiteľom správca.<sup>9d</sup>)
+(4) Poplatníkom nie je osoba, ktorej oprávnenie užívať nehnuteľnosť vyplýva z povahy právneho vzťahu s poplatníkom podľa odseku 2, ak na jeho základe
 
-(4) Sadzba poplatku je
+- a) užíva priestory nehnuteľnosti vyhradené na prechodné ubytovanie v zariadení na to určenom,
 
-- a) najmenej 80 Sk a najviac 1 200 Sk za osobu a kalendárny rok alebo
+- b) je hospitalizovaná v zariadení poskytujúcom služby zdravotnej starostlivosti,
 
-- b) najmenej 80 Sk za osobu a kalendárny rok, ak poplatník za odpady preukáže, že využíva množstvový zber.
+- c) užíva z dôvodu plnenia povinností vyplývajúcich z pracovnoprávneho vzťahu alebo iného obdobného vzťahu s poplatníkom nehnuteľnosť, ktorú má právo užívať alebo ju užíva aj poplatník, alebo
 
-(5) Sadzba poplatku sa vo všeobecne záväznom nariadení obce určí na príslušné obdobie
+- d) v nehnuteľnosti, ktorú má poplatník právo užívať alebo ju užíva, vykonáva pre poplatníka práce alebo mu poskytuje iné služby v rámci výkonu svojej činnosti a pri tejto činnosti produkuje len komunálne odpady alebo drobné stavebné odpady.
 
-- a) pri nehnuteľnosti a byte slúžiacom na bývanie alebo individuálnu rekreáciu podľa počtu osôb prihlásených na trvalý pobyt alebo prechodný pobyt v obci,
+(5) Ak tak obec ustanoví vo všeobecne záväznom nariadení, poplatok od poplatníka v ustanovenej výške pre obec vyberá a za vybraný poplatok ručí
 
-- b) pri nehnuteľnosti, byte alebo nebytovom priestore, ktorého vlastníkom alebo užívateľom je právnická osoba alebo fyzická osoba-podnikateľ, podľa priemerného počtu zamestnancov, pri ktorých činnosti vzniká komunálny odpad,
+- a) vlastník nehnuteľnosti; ak je nehnuteľnosť v spoluvlastníctve viacerých spoluvlastníkov alebo ak ide o bytový dom,<sup>9k</sup>) poplatok vyberá a za vybraný poplatok ručí zástupca alebo správca určený spoluvlastníkmi, ak s výberom poplatku zástupca alebo správca súhlasí; ak nedošlo k určeniu zástupcu alebo správcu, obec určí spomedzi vlastníkov alebo spoluvlastníkov zástupcu, ktorý poplatok pre obec vyberie,
 
-- c) pri nehnuteľnosti alebo byte, slúžiacom na poskytovanie rekreačných alebo ubytovacích služieb, podľa lôžkovej kapacity a podľa počtu zamestnancov tohto zariadenia,
+- b) správca,<sup>9l</sup>) ak je vlastníkom nehnuteľnosti štát, vyšší územný celok alebo obec (ďalej len „platiteľ").
 
-- d) pri množstvovom zbere podľa množstva vzniknutých komunálnych odpadov.
+(6) Platiteľ a poplatník sa môžu písomne dohodnúť, že poplatok obci odvedie priamo poplatník; za odvedenie poplatku obci ručí platiteľ.
 
-(6) Pri vydávaní všeobecne záväzného nariadenia obec postupuje podľa § 15.
+(7) Ak viacero poplatníkov podľa odseku 2 písm. a) žije v spoločnej domácnosti, plnenie povinností poplatníka môže za ostatných členov tejto domácnosti na seba prevziať jeden z nich. Za poplatníka, ktorý nie je spôsobilý na právne úkony v plnom rozsahu plní povinnosti poplatníka jeho zákonný zástupca, prípadne opatrovník. Povinnosti poplatníka nesmie za iného prevziať alebo plniť osoba, ktorá sa dlhodobo zdržiava mimo územia Slovenskej republiky alebo je nezvestná. Tieto skutočnosti, ako aj ich zmeny je osoba, ktorá za iného plní povinnosti poplatníka, povinná oznámiť obci.
 
-(7) Príjem z poplatku za zber, prepravu a zneškodňovanie komunálnych odpadov a drobných stavebných odpadov môže obec použiť výhradne na tieto účely.
+(8) Poplatková povinnosť vzniká dňom, ktorým nastane skutočnosť uvedená v odseku 2.

@@ -42,16 +42,30 @@
 
 - 9b) § 3 až 7 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 369/1999 Z. z.
 
-- § 6 až 11 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
+- 9c) § 8 až 10 zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov,
 
-- 9c) § 8 zákona č. 253/1998 Z. z.
+- § 17 až 33 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 408/2002 Z. z.
 
-- § 16 ods. 7 zákona č. 73/1995 Z. z.
-
-- 9d) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
-
-- Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+- 9d) § 43a ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
 - 9e) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
+
+- 9f) § 9 písm. h) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+
+- 9g) § 9 písm. d) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 9h) § 9 písm. c) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 9i) § 9 písm. e) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 9j) § 9 písm. f) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
+- 9k) Napríklad § 6 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona č. 158/1998 Z. z.
+
+- 9l) § 6 ods. 2 zákona č. 446/2001 Z. z. o majetku vyšších územných celkov,
+
+- § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov,
+
+- § 6 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
 - 10) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
