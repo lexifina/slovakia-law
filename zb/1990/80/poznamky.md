@@ -30,4 +30,6 @@
 
 - 11) § 14 zákona č. 424/1991 Zb.
 
+- 11a) Čl. 77 ods. 2 Ústavy Slovenskej republiky.
+
 - 12) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 18/1991 Zb. o iných úkonoch vo všeobecnom záujme.
