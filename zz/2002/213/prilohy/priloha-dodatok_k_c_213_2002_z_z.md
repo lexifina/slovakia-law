@@ -1116,6 +1116,18 @@ Dodatok k č. 213/2002 Z. z.
 
   - | | „Präsident des Bezirksgerichts“
 
+  - 4. | S účinnosťou od 2. augusta 2004 boli v spolkovej krajine Bádensko-Württembersko určené apostilné orgány takto: |
+
+  - | a) Ministerstvo spravodlivosti Bádenska-Württemberska pre listiny vydané týmto ministerstvom, vyšším krajinským súdom a prokuratúrou pri „Oberlandsgericht", | „Oberlandsgericht"
+
+  - | b) predsedovia krajinských súdov pre listiny vydané v ich pôsobnosti inými riadnymi súdmi (civilnými a trestnými) a prokuratúrami, inými orgánmi, na ktoré boli prenesené úlohy súdu, notármi a pre iné listiny vydané justičnou správou, | „Präsident des Landsgericht"
+
+  - | c) prezident správnej oblasti Tübingen pre listiny vydané krajinskými ministerstvami s výnimkou ministerstva spravodlivosti, | „Präsident des Verwaltungsbezirks"
+
+  - | d) oblastné vlády pre listiny vydané v ich obvode ostatnými orgánmi štátnej správy a všetkými súdmi okrem riadnych súdov. | „Bezirksregierung"
+
+  - Písmeno c) znamená zmenu vo vzťahu k doteraz uplatňovanému postupu, keď ministerstvo vnútra bolo označené ako orgán oprávnený na vydanie osvedčenia.
+
     - Spojené štáty americké
 
     - I. „Authentification Officer“ a „Acting Authentification Officer“ v „United States Department of State“
