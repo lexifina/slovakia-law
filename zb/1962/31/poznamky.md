@@ -1,1 +1,0 @@
-- *) Diétne jedlá a ich normy - Vydavateľstvo obchodu - Praha - 1961.
