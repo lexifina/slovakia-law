@@ -4,19 +4,7 @@
 
 - *) Základné organizácie týchto spoločenských organizácií a ich hospodárske zariadenia sú však, pokiaľ vykonávajú trvalú hospodársku činnosť, vždy daňovníkmi dôchodkovej dane, a to podľa § 2 ods. 1 písm. f) zákona.
 
-- **) Vyhláška býv. Štátnej komisie pre financie, ceny a mzdy č. 47/1967 Zb. o cenách v znení predpisov ju meniacich a dopĺňajúcich.
-
-- ***) Dodatkovým odvodom v základnej výške je odvod bez zvýšenia (sankcie).
-
 - *) § 8 vyhlášky č. 11/1965 Zb. o hospodárení s obalmi pri dodávkach výrobkov.
-
-- **) Vyhláška č. 22/1967 Zb. o fakturovaní a platení dodávok pre investičnú výstavbu a dodávok geologických prác v znení vyhlášky č. 136/1970 Zb.
-
-- ***) Zákon SNR č. 116/1970 Zb. o dôchodkovej dani a príspevku na sociálne zabezpečenie.
-
-- Zákon ČNR č. 120/1970 Zb. o dôchodkovej dani a príspevku na sociálne zabezpečenie.
-
-- †) Zákon č. 41/1964 Zb. o hospodárení s bytmi.
 
 - *) Pre účely zákona o dôchodkovej dani a príspevku na sociálne zabezpečenie sa považuje: čiastočné špecifikácie jednotlivých činností podľa číselných znakov, ak nie je ich náplň podrobnejšie určená zoznamom vybraných činností, sú určené v Smerniciach a pokynoch čs. štatistiky č. 16 MH-VD platných v roku 1970.
 
