@@ -578,6 +578,8 @@
 
           - b) podstatná zmena je dôsledkom toho, že strana, ktorá sa jej dovoláva, porušila buď záväzok vyplývajúci zo zmluvy, alebo akýkoľvek iný medzinárodný záväzok, ktorý prevzala voči ktorejkoľvek druhej strane zmluvy.
 
+        - 3. Ak sa strana podľa predchádzajúcich odsekov môže dovolávať podstatnej zmeny pomerov ako dôvodu pre zánik zmluvy alebo pre odstúpenie od nej, môže sa tiež dovolávať tejto zmeny ako dôvodu pre prerušenie vykonávania zmluvy.
+
       - Článok 63 Prerušenie diplomatických alebo konzulárnych stykov
 
         - Prerušenie diplomatických alebo konzulárnych stykov medzi stranami zmluvy nemá vplyv na právne vzťahy, ktoré zo zmluvy vznikli, s výnimkou tých prípadov, keď trvanie diplomatických alebo konzulárnych stykov je nevyhnutné na vykonávanie zmluvy.
