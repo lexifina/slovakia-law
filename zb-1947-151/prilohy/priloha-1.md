@@ -1,0 +1,1 @@
+- Kresba stříbrné pamětní padesátikoruny: ![obrazok-01](../assets/850a9953890c79fa12139c77a801b09cca17ccc9083dce33005f58cb170f3843.png)
