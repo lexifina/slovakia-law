@@ -1,3 +1,0 @@
-Predseda:
-
-Pravda v. r.
