@@ -16,8 +16,8 @@
 
 - g) osoby, ktoré vykonávajú nezávislé povolanie alebo činnosť,<sup>1g</sup>) ak nepatria do okruhu osôb uvedených v tomto odseku.
 
-(2) Za rovnakých podmienok a v rovnakom rozsahu sú na nemocenskom a dôchodkovom zabezpečení samostatne zárobkovo činných osôb zúčastnené spolupracujúce osoby samostatne zárobkovo činných osôb (ďalej len „spolupracujúce osoby"), za ktoré sa na tieto účely považujú
+(2) Za rovnakých podmienok a v rovnakom rozsahu sú na nemocenskom poistení a dôchodkovom zabezpečení samostatne zárobkovo činných osôb zúčastnené spolupracujúce osoby samostatne zárobkovo činných osôb, za ktoré sa na tieto účely považujú
 
-- a) manželia, deti a súrodenci od skončenia povinnej školskej dochádzky, rodičia, svokor, svokra, zať a nevesta, druh (družka) osôb uvedených v odseku 1 písm. a), ako aj manželka (manžel) tejto spolupracujúcej osoby, ak sa trvale zúčastňujú na ich činnosti a ak nejde o pracovnoprávny vzťah,
+- a) manželia, deti a súrodenci od skončenia povinnej školskej dochádzky, rodičia, svokor, svokra, zať a nevesta, druh (družka) osôb uvedených v odseku 1 písm. a), ako aj manžel (manželka) tejto spolupracujúcej osoby, ak sa podieľajú na ich činnosti a ak nejde o pracovnoprávny vzťah,
 
-- b) manželia osôb uvedených v odseku 1 písm. b) až d) a g), ak sa podieľajú na ich zárobkovej činnosti.
+- b) manželia osôb uvedených v odseku 1 písm. b) až d) a g), ak sa podieľajú na ich činnosti.

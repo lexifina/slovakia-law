@@ -1,4 +1,4 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia v znení neskorších predpisov.
+- 1) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
 
 - 1b) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb., zákona č. 455/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
@@ -84,11 +84,19 @@
 
 - 13) §97 ods. 3 zákona č. 121/1975 Zb.
 
+- 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákon č. 33/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení zákona č. 58/1964 Zb., zákona č. 87/1968 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 8/1982 Zb., zákona č. 109/1984 Zb., zákona č. 180/1990 Zb., zákona č. 134/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
+
 - 14) § 44 zákona č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev.
 
 - 15) § 244 a nasl. Občianskeho súdneho poriadku.
 
 - 16) § 142 a nasl. Občianskeho súdneho poriadku.
+
+- 16a) Zákon č. 54/1956 Zb. v znení neskorších predpisov.
+
+- 16b) § 14 ods. 7 a 8 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
+
+- 16c) Zákon č. 33/1957 Zb. v znení neskorších predpisov.
 
 - 17) Zákonné opatrenie Predsedníctva Federálneho zhromaždenia č. 76/1979 Zb. o zvýšení dôchodkov.
 
@@ -120,7 +128,7 @@
 
 - 27) § 14 ods. 1 písm. a) zákona č. 1/1991 Zb. o zamestnanosti.
 
-- 27a) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
+- 27a) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia v znení zákona Národnej rady Slovenskej republiky č. 85/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 160/1994 Z. z.
 
 - 27b) Zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
