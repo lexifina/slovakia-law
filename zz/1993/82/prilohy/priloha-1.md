@@ -36,7 +36,7 @@ Príloha č. 1 vyhlášky č. 82/1993 Z. z.
 
     - (10) Pri dovoze sa v tomto odseku uvádza obchodné meno a adresa zahraničného odosielateľa a predávajúceho.
 
-    - (11) Pri vývoze sa v tomto odseku uvádza obchodné meno a adresa odosielateľa vrátane poštového smerovacieho čísla, ktoré sa uvádza v pravom hornom rohu tohto odseku.
+    - (11) Pri vývoze sa v tomto odseku uvádza obchodné meno a adresa odosielateľa a daňové identifikačné číslo (DIČ), ktoré sa uvádza v pravom hornom rohu tohto odseku.
 
       - Odsek 3 Deklarácie a Doplnkové deklarácie
 
@@ -60,7 +60,7 @@ Príloha č. 1 vyhlášky č. 82/1993 Z. z.
 
       - Odsek 8 Deklarácie
 
-    - (17) Pri dovoze sa v tomto odseku uvádza obchodné meno a adresa tuzemského príjemcu vrátane poštového smerovacieho čísla, ktoré sa uvádza v pravom hornom rohu odseku.
+    - (17) Pri dovoze sa v tomto odseku uvádza obchodné meno a adresa tuzemského príjemcu a daňové identifikačné číslo (DIČ), ktoré sa uvádza v pravom hornom rohu odseku.
 
     - (18) Pri vývoze sa v tomto odseku uvádza obchodné meno a adresa zahraničného príjemcu a kupujúceho.
 
