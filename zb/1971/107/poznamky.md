@@ -9,3 +9,5 @@
 - družstevných roľníkov a § 78 vyhlášky Štátneho úradu sociálneho zabezpečenia č. 104/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení družstevných roľníkov.
 
 - *) § 276 a nasledujúce zákona č. 99/1963 Zb. (Občiansky súdny poriadok).
+
+- 7) § 244 a nasl. Občianskeho súdneho poriadku.
