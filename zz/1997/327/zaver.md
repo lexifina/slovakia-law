@@ -1,0 +1,1 @@
+Ján Jasovský v. r.
