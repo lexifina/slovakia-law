@@ -1,0 +1,3 @@
+Predseda:
+
+Mestek v. r.
