@@ -73,3 +73,7 @@
 - 21a) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 22) § 117 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
+
+- 23) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
+- 24) § 28 ods. 5 a § 79d zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
