@@ -1,0 +1,1 @@
+- 1) Táto úprava bola registrovaná v čiastke 40/1969 Zb.
