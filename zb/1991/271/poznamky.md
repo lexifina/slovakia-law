@@ -1,1 +1,0 @@
-- 1) Napr. zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
