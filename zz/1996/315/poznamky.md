@@ -34,6 +34,8 @@
 
 - 18) Napríklad § 32 zákona č. 44/1974 Zb. Colný zákon, zákon č. 124/1992 Zb., zákon č. 230/1992 Zb. o Federálnej železničnej polícii v znení neskorších predpisov.
 
+- 18a) Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov.
+
 - 19) § 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z.
 
 - 20) Napríklad vyhláška ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení vyhlášky ministra zahraničných vecí č. 82/1984 Zb., vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 208/1991 Zb. o bezpečnosti práce a technických zariadení pri prevádzke, údržbe a opravách vozidiel.
