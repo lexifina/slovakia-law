@@ -22,7 +22,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) návrhu na nariadenie alebo zrušenie predbežného opatrenia | 500 Sk
 
-- Spoločné poznámky k položkám 1 a 2: 1. Z návrhu na začatie konania o určenie, či tu právny vzťah alebo právo je, alebo nie je, sa poplatok vyberie podľa písmena b) týchto položiek. Ak ide o určenie vlastníctva, poplatok sa vyrubí z ceny predmetu, ku ktorému sa má vlastníctvo určiť.2. Ak odporca žiada, aby súd rozhodol o vzájomnej pohľadávke i nad sumu uplatnenú návrhom, platí sa poplatok zo sumy, ktorá prevyšuje cenu predmetu konania podľa návrhu.3. Ak odvolanie podá navrhovateľ i odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania.4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí.5. Na určenie ceny predmetu konania pri návrhu na vylúčenie veci je rozhodujúcou cena vylučovanej veci.6. Podľa rovnakej sadzby sa platí poplatok v zmenkovom a šekovom konaní pri návrhoch na vydanie platobného rozkazu. Podľa rovnakej sadzby sa platí poplatok za námietky v zmenkovom a šekovom konaní a za odpor proti platobnému rozkazu. Poplatok za odpor sa neplatí, ak bol platobný rozkaz vydaný bez návrhu. |
+- Spoločné poznámky k položkám 1 a 2: 1. Z návrhu na začatie konania o určenie, či tu právny vzťah alebo právo je, alebo nie je, sa poplatok vyberie podľa písmena b) týchto položiek. Ak ide o určenie vlastníctva, poplatok sa vyrubí z ceny predmetu, ku ktorému sa má vlastníctvo určiť. 2. Ak odporca žiada, aby súd rozhodol o vzájomnej pohľadávke i nad sumu uplatnenú návrhom, platí sa poplatok zo sumy, ktorá prevyšuje cenu predmetu konania podľa návrhu. 3. Ak odvolanie podá navrhovateľ i odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania. 4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí. 5. Na určenie ceny predmetu konania pri návrhu na vylúčenie veci je rozhodujúcou cena vylučovanej veci. 6. Podľa rovnakej sadzby sa platí poplatok v zmenkovom a šekovom konaní pri návrhoch na vydanie platobného rozkazu. Podľa rovnakej sadzby sa platí poplatok za námietky v zmenkovom a šekovom konaní a za odpor proti platobnému rozkazu. Poplatok za odpor sa neplatí, ak bol platobný rozkaz vydaný bez návrhu. |
 
 - Položka 3 |
 
@@ -102,17 +102,17 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Za schválený zmier uzavretý v zmierovacom konaní |
 
-- a) z hodnoty predmetu zmieru | 2 %, najmenej 500 najviac 50 000 SkSk
+- a) z hodnoty predmetu zmieru | 2 %, najmenej 500 Sk najviac 50 000 Sk
 
 - b) ak nemožno predmet zmieru oceniť peniazmi | 500 Sk
 
-- Poznámky: 1. Z návrhu na zmierovacie konanie sa poplatok neplatí.2. Zmierom sa rozumie zmier schválený súdom podľa § 67 a nasl. Občianskeho súdneho poriadku. |
+- Poznámky: 1. Z návrhu na zmierovacie konanie sa poplatok neplatí. 2. Zmierom sa rozumie zmier schválený súdom podľa § 67 a nasl. Občianskeho súdneho poriadku. |
 
 - Položka 12 |
 
 - Z návrhu na zrušenie uznesenia o schválení zmieru | 1 000 Sk
 
-- Poznámky: 1. Za konanie vo veci samej sa poplatok znovu neplatí.2. Ak sa v pôvodnom konaní nekonalo odvolacie konanie a v odvolacom konaní sa podá odvolanie vo veci samej, z takéhoto odvolania sa platí poplatok podľa príslušnej položky. |
+- Poznámky: 1. Za konanie vo veci samej sa poplatok znovu neplatí. 2. Ak sa v pôvodnom konaní nekonalo odvolacie konanie a v odvolacom konaní sa podá odvolanie vo veci samej, z takéhoto odvolania sa platí poplatok podľa príslušnej položky. |
 
 - Položka 13 |
 
@@ -134,7 +134,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - g) Z návrhu na rozhodnutie o vykonateľnosti rozhodnutia cudzieho orgánu podľa § 250w ods. 1 Občianskeho súdneho poriadku | 1 000 Sk
 
-- Poznámky: 1. Ak sa spojí v návrhu na základe toho istého vykonateľného rozhodnutia výkon rozhodnutia niekoľkými spôsobmi, zaplatí sa súčet príslušných poplatkov.2. Poplatok podľa písmena e) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. |
+- Poznámky: 1. Ak sa spojí v návrhu na základe toho istého vykonateľného rozhodnutia výkon rozhodnutia niekoľkými spôsobmi, zaplatí sa súčet príslušných poplatkov. 2. Poplatok podľa písmena e) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. |
 
 - Položka 14 |
 
@@ -152,7 +152,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Z návrhu na obnovu konania | 1 000 Sk
 
-- Poznámky: 1. Poplatok podľa rovnakej sadzby sa platí aj v odvolacom konaní.2. Poznámky č. 1 a 2 k položke platia primerane aj pre túto položku. |
+- Poznámky: 1. Poplatok podľa rovnakej sadzby sa platí aj v odvolacom konaní. 2. Poznámky č. 1 a 2 k položke platia primerane aj pre túto položku. |
 
 - Spoločná poznámka k položkám 1, 6, 7, 9, 14 a 16: Ak bol rozsudok zrušený v dôsledku odvolania, obnovy konania alebo dovolania, poplatok z odvolania proti novému rozhodnutiu súdu I.stupňa, dovolania, alebo za obnovu konania neplatí poplatník, ktorý už raz poplatok zaplatil. Ak Najvyšší súd Slovenskej republiky pri prerokúvaní dovolania zistí, že dovolanie podané účastníkom podľa § 238 ods. 2 Občianskeho súdneho poriadku bolo bezdôvodné, účastník je povinný dodatočne zaplatiť súdny poplatok z dovolania. |
 
@@ -178,9 +178,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - d) z návrhu akcionára na poverenie na zvolanie valného zhromaždenia | 500 Sk
 
-- e) za uloženie listiny do zbierky listín, ak ide o listinu, ktorá sa ukladá do zbierky listín bez zápisu | 1 000 Sk
+- e) zrušené od 1. 10. 2004 |
 
-- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis.2. V poplatkoch podľa písmen a), b), c) a e) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov a zverejnenie oznámenia o uložení listiny do zbierky listín v Obchodnom vestníku.3. Zmenou zápisu sa rozumie výmaz pôvodného a zápis nového údaja.4. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre odštepný závod alebo inú organizačnú zložku podniku, ktorých sídlo je mimo obvodu registrového súdu príslušného pre podnikateľa, poplatok sa vyberie len raz na súde príslušnom pre podnikateľa.5. Ak navrhovateľ vzal návrh na zápis späť pred vykonaním zápisu, poplatok sa mu vráti.6. Poplatok podľa písmena e) tejto položky sa vyberá za uloženie tých listín do zbierky listín, ktoré nie sú prílohou návrhu na zápis, a vyberá sa osobitne za každú takto ukladanú listinu.7. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaní vo veciach obchodného registra podľa § 200a Občianskeho súdneho poriadku poplatku nepodliehajú. |
+- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis. 2. V poplatkoch podľa písmen a), b) a c) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov v Obchodnom vestníku. 3. Zmenou zápisu sa rozumie výmaz pôvodného a zápis nového údaja. 4. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre odštepný závod alebo inú organizačnú zložku podniku, ktorých sídlo je mimo obvodu registrového súdu príslušného pre podnikateľa, poplatok sa vyberie len raz na súde príslušnom pre podnikateľa. 5. Ak navrhovateľ vzal návrh na zápis späť pred vykonaním zápisu, poplatok sa mu vráti. 6. Poplatok podľa písmena e) tejto položky sa vyberá za uloženie tých listín do zbierky listín, ktoré nie sú prílohou návrhu na zápis, a vyberá sa osobitne za každú takto ukladanú listinu. 7. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaní vo veciach obchodného registra podľa § 200a Občianskeho súdneho poriadku poplatku nepodliehajú. |
 
 - Položka 18 |
 
@@ -204,11 +204,11 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 18b |
 
-- Z návrhu na prijatie hnuteľnej veci do úschovy za účelom splnenia záväzku | 1 % z ceny veci najmenej 200 Sknajviac 20 000 Sk
+- Z návrhu na prijatie hnuteľnej veci do úschovy za účelom splnenia záväzku | 1 % z ceny veci najmenej 200 Sk najviac 20 000 Sk
 
 - Položka 18c |
 
-- Z návrhu na umorenie listiny | 1 % z nominálnej hodnoty najmenej 500 Sknajviac 20 000 Sk
+- Z návrhu na umorenie listiny | 1 % z nominálnej hodnoty najmenej 500 Sk najviac 20 000 Sk
 
 - Položka 18d |
 
@@ -232,9 +232,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - vyše 5000 Kčs do 10 000 Kčs | 400 Sk
 
-- vyše 10 000 Kčs do 200 000 Kčs | 400 a 10 Kčs za každých začatých 1000 SkSk
+- vyše 10 000 Kčs do 200 000 Kčs | 400 Sk a 10 Kčs za každých začatých 1000 Sk
 
-- vyše 200 000 Kčs | 2300 a 10 Kčs za každých začatých 10 000 SkSk
+- vyše 200 000 Kčs | 2300 Sk a 10 Kčs za každých začatých 10 000 Sk
 
 - b) v iných veciach, ktoré nie sú oceniteľné peniazmi | 300 Sk
 
@@ -274,7 +274,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) v inom jazyku | 50 Sk
 
-- Poznámky: 1. Poplatok sa neplatí za overenie odpisov listín, ktoré sú potrebné na vyrubenie dane alebo na účely evidencie nehnuteľností. Na týchto odpisoch musí byť vyznačený účel, na ktorý boli vydané.2. Občania Slovenskej republiky platia za overenie listiny spísanej v jazyku maďarskom, nemeckom, poľskom, ukrajinskom a rusínskom poplatok podľa položky 24 písm. a) |
+- Poznámky: 1. Poplatok sa neplatí za overenie odpisov listín, ktoré sú potrebné na vyrubenie dane alebo na účely evidencie nehnuteľností. Na týchto odpisoch musí byť vyznačený účel, na ktorý boli vydané. 2. Občania Slovenskej republiky platia za overenie listiny spísanej v jazyku maďarskom, nemeckom, poľskom, ukrajinskom a rusínskom poplatok podľa položky 24 písm. a) |
 
 - Položka 24a |
 
@@ -282,7 +282,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 24b |
 
-- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadku, za každú, aj začatú stranu | 100 Sk
+- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadku | 200 Sk
 
 - b) za vyhotovenie fotokópie listiny uloženej v zbierke listín, za každú, aj začatú stranu | 10 Sk
 
@@ -302,7 +302,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 26 |
 
-- Z návrhu na prikázanie veci inému súdu z dôvodu vhodnosti | 500 Sk
+- a) Z návrhu na prikázanie veci inému súdu z dôvodu vhodnosti | 500 Sk
+
+- b) Za vznesenie námietky zaujatosti účastníkom konania | 500 Sk
 
 - Poznámka: Poznámka k položke 25 platí aj pre túto položku. |
 
