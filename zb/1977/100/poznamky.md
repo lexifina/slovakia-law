@@ -2,11 +2,21 @@
 
 - 1) § 25 zákona č. 61/1977 Zb. o lesoch.
 
+- 1a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
 - 2) Napr. zákon SNR č. 1/1955 Zb. SNR o štátnej ochrane prírody, zákon SNR č. 7/1958 Zb. SNR o kultúrnych pamiatkach, zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu, zákon č. 23/1962 Zb. o poľovníctve, zákon č. 138/1973 Zb. o vodách (vodný zákon).
 
 - 3) § 2 zákona č. 61/1977 Zb. o lesoch.
 
+- 3a) Zákonník práce.
+
+- Obchodný zákonník.
+
+- Občiansky zákonník.
+
 - 4) § 17 ods. 1 zákona č. 229/1991 Zb. o úpravách vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
+
+- 4a) § 2 ods. 2 písm. c) Obchodného zákonníka.
 
 - 5) § 2 ods. 1, § 11 ods. 1 a 3, § 17 ods. 2, § 18, § 22 odst. 4, § 24 odst. 3 a 4 zákona č. 229/1991 Zb.
 
@@ -26,9 +36,9 @@
 
 - 13) Napr. zákon č. 23/1962 Zb. o poľovníctve.
 
-- 14) Vyhláška č. 61/1961 Zb. o blokovom konaní v znení vyhlášky č. 7/1970 Zb.
+- 14) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
 
-- 15) Zákon č. 162/1949 Zb. o zbraniach a strelive. Vyhláška č. 124/1961 Zb. o strelných zbraniach a strelive. Vyhláška č. 7/1953 Ú. v. o poľovných zbraniach.
+- 15) Zákon č. 147/1983 Zb. o zbraniach a strelive v znení zákona č. 49/1990 Zb.
 
 - 16) Zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánoch štátnej správy v znení zákona SNR č. 197/1991 Zb. a zákona č. 298/1991 Zb.
 
