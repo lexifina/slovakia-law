@@ -1,0 +1,1 @@
+- *) Poznámka vydavateľa: Zákon bol prijatý v zmysle čl. 87 ods. 4 Ústavy Slovenskej republiky a prezidentom Slovenskej republiky nebol podpísaný.
