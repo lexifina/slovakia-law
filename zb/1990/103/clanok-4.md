@@ -28,6 +28,4 @@ Zrušujú sa:
 
 - 13. ustanovenie § 5, 6 a § 10 až 14 vyhlášky Úradu pre vynálezy a objavy č. 28/1986 Zb. o správe vynálezov, zlepšovacích návrhov a priemyselných vzorov a o ich plánovitom využívaní v národnom hospodárstve,
 
-- 14. § 68 až 76 zákona č. 90/1988 Zb. o poľnohospodárskom družstevníctve,
-
 - 15. § 12 ods. 3 písm. a), § 29, § 31 ods. 1, 3, 6 a 7 vyhlášky Federálneho ministerstva financií č. 119/1988 Zb. o hospodárení s národným majetkom.
