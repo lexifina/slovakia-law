@@ -8,7 +8,7 @@
 
 (3) Ak zistia porušenie pracovnoprávnych predpisov, sú pracovníci poverení vykonaním kontroly oprávnení vyžadovať od pracovníkov orgánov a organizácií odstránenie zistených neodstatkov a podanie správy o prijatých opatreniach v lehote na to určenej, prípadne požiadať o zaistenie nápravy nadriadený orgán.
 
-(4) Pracovníkom organizácie, ktorí v určenej lehote nesplnia povinnosť, ktorá je im uložená podľa odsekov 2 a 3, môže pracovník poverený vykonaním kontroly uložiť poriadkovú pokutu až do sumy 1 000 Kčs, a to aj opätovne, ak uložená povinnosť nebola splnená ani v novourčenej lehote. Poriadkovú pokutu možno uložiť v lehote jedného roka odo dňa, keď k nesplneniu povinnosti došlo.
+(4) Pracovníkom organizácie, ktorí v určenej lehote nesplnia povinnosť, ktorá je im uložená podľa odsekov 2 a 3, môže pracovník poverený vykonaním kontroly uložiť poriadkovú pokutu až do sumy 1 000 Sk, a to aj opätovne, ak uložená povinnosť nebola splnená ani v novourčenej lehote. Poriadkovú pokutu možno uložiť v lehote jedného roka odo dňa, keď k nesplneniu povinnosti došlo.
 
 (5) V zariadeniach ozbrojených síl a ozbrojených zborov v pôsobnosti ministerstva obrany, ministerstva vnútra, ministerstiev vnútra a ministerstiev spravodlivosti republík a v orgánoch spoločenských organizácií možno kontrolu podľa odseku 1 vykonávať len so súhlasom príslušných ústredných orgánov.
 
