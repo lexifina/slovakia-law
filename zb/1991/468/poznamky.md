@@ -2,6 +2,8 @@
 
 - 1) Čl. I zákona č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov.
 
+- 1a) Napríklad § 188a Trestného zákona, § 33 ods. 1 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z., § 6 zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov a § 5 zákona Národnej rady Slovenskej republiky č. 1/1996 Z. z. o audiovízii v znení neskorších predpisov.
+
 - 3) Česko-slovenský liekopis 4. vydanie, záväznosť v Českej republike určená vyhláškou Ministerstva zdravotníctva ČSR č. 10/1987 Zb. o záväznosti Československého liekopisu – štvrtého vydania v ČSR v znení vyhlášky Ministerstva zdravotníctva a sociálnych vecí ČSR č. 62/1990 Zb. o záväznosti Opráv a zmien Československého liekopisu – štvrtého vydania v ČSR.
 
 - Vyhláška Ministerstva zdravotníctva SSR č. 32/1987 Zb. o záväznosti Československého liekopisu – štvrtého vydania v SSR v znení vyhlášky Ministerstva zdravotníctva SR č. 181/1991 Zb. o záväznosti opráv, zmien a doplnkov Česko-slovenského liekopisu – štvrtého vydania.
