@@ -2,6 +2,8 @@
 
 - 2) § 2 zákona č. 61/1977 Zb. o lesoch.
 
+- 2a) § 15 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách.
+
 - 3) § 46 ods. 4 zákona č. 162/1990 Zb. o poľnohospodárskom družstevníctve.
 
 - 4) § 5 devízového zákona č. 528/1990 Zb.
