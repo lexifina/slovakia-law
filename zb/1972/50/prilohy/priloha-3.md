@@ -1,8 +1,8 @@
 Príloha č. 1 Por. č. | Druh a názov hraničného priechodu | Druh pohraničného styku | Miesto (úsek) spoločnej kontroly | Poznámka
 
-1. | Cestný Vyšný Komárnik - Barwinek | Pasový,*) pohraničný turistický styk, malý pohraničný styk | Barwinek |
+1. | Cestný Vyšný Komárnik - Barwinek | Pasový, pohraničný turistický styk, malý pohraničný styk | Barwinek |
 
-2. | Železničný Plaveč Muszyna | Pasový,*) nákladný, malý pohraničný styk | Plaveč | Len v cest. styku
+2. | Železničný Plaveč Muszyna | Pasový, nákladný, malý pohraničný styk | Plaveč |
 
 3. | Cestný Mníšek n. Popr. - Piwnicza | Pasový, malý pohraničný styk | Mníšek n. Popradom |
 
