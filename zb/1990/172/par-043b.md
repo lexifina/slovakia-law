@@ -1,6 +1,6 @@
 # § 43b
 
-(1) Vedecko-akademickú hodnosť podľa § 22a ods. 8 sú oprávnení používať aj absolventi vedeckej výchovy, ktorým bola udelená vedecká hodnosť kandidáta vied alebo priznaný akademicko-vedecký titul doktor podľa skorších predpisov.<sup>17</sup>) Príslušná vysoká škola im o tom na vlastnú žiadosť vydá osvedčenie.
+(1) Vedecko-akademickú hodnosť podľa § 22a ods. 8 sú oprávnení používať aj absolventi vedeckej výchovy, ktorým bola udelená vedecká hodnosť kandidáta vied alebo priznaný akademicko-vedecký titul doktor podľa skorších predpisov.<sup>17</sup>)
 
 (2) Absolventom umeleckej ašpirantúry, ktorým bol vydaný diplom o umeleckej ašpirantúre podľa skorších predpisov,<sup>18</sup>) môže vysoká škola udeliť umelecko-akademickú hodnosť podľa § 22a ods. 8.
 

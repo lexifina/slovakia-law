@@ -20,11 +20,15 @@
 
 - 11) § 28 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.Vyhláška Ministerstva školstva Slovenskej republiky č. 44/1996 Z. z. o jazykových školách a štátnych jazykových školách a o štátnych jazykových skúškach.
 
+- 11a) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 11b) § 3 vyhlášky Československej akadémie vied č. 55/1977 Zb. o ďalšom zvyšovaní kvalifikácie a o hodnotení tvorivej spôsobilosti vedeckých pracovníkov.
+
 - 12) § 42 Zákonníka práce.
 
 - 13) Zákon č. 92/1949 Zb. Branný zákon v znení neskorších predpisov.Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
 
-- 14) Zákon Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení neskorších predpisov.
+- 14) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
 
 - 16) Zákon č. 53/1964 Zb. o udeľovaní vedeckých hodností a o Štátnej komisii pre vedecké hodnosti.Zákon č. 39/1977 Zb. o výchove nových vedeckých pracovníkov a o ďalšom zvyšovaní kvalifikácie vedeckých pracovníkov.Vyhláška Československej akadémie vied č. 53/1977 Zb. o výchove nových vedeckých pracovníkov a o študijných pobytoch v znení vyhlášky č. 5/1986 Zb.Vyhláška Československej akadémie vied č. 54/1977 Zb., ktorou sa upravujú niektoré podrobnosti o pracovnoprávnych vzťahoch účastníkov vedeckej výchovy a študijných pobytov a o poskytovaní štipendií v znení neskorších predpisov.Vyhláška Slovenskej komisie pre vedecké hodnosti č. 65/1977 Zb. o konaní pri udeľovaní vedeckých hodností v znení vyhlášky č. 302/1990 Zb.
 
