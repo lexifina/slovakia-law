@@ -108,26 +108,6 @@
 
       - (2) Strany vykonajú nutné opatrenia, aby osoby bývajúce na ich území zachovávali pri používaní hraničných vôd ustanovenia tejto Zmluvy a rešpektovali práva a záujmy druhej Strany.
 
-    - Článok 10
-
-      - (1) Na hraničných vodách sa môžu plaviť lode oboch Strán v ktorýkoľvek čas nerušene v plnej šírke hlavného plavebného koryta.
-
-      - (2) Služobné plavidlá oboch Strán sa môžu plaviť v ktorýkoľvek čas v plnej šírke hraničných vôd.
-
-      - (3) Iné plavidlá oboch Strán (člny, motorové člny, plachetnice atď.) sa môžu plaviť v hraničných vodách len po hraničnú čiaru a jedine vo dne.
-
-      - (4) Plavidlá oboch Strán plaviace sa v hraničných vodách musia zachovávať plavebné predpisy vydané po dohode oboch Strán.
-
-    - Článok 11
-
-      - (1) Plavidlá Strán môžu pristáť na brehoch druhej Strany len v nebezpečenstve (víchrica, poškodenie a pod.). Osoba zodpovedná za plavidlá je povinná upovedomiť o pristátí príslušné pohraničné a colné orgány druhej Strany, ktoré jej poskytnú náležitú pomoc.
-
-      - (2) Pristátie plavidiel na medzinárodných vodných cestách sa spravuje osobitnými predpismi.
-
-    - Článok 12
-
-      - Plavidlá oboch Strán plaviace sa v hraničných vodách musia mať príslušné znaky podľa platných právnych predpisov. O spôsoboch označenia plavidiel sa kompetentné úrady oboch Strán vzájomne upovedomia.
-
     - Článok 13
 
       - (1) Strany sa postarajú o náležité udržiavanie brehov hraničných tokov. Vykonajú tiež všetky opatrenia, aby zabránili úmyselnému poškodeniu brehov hraničných tokov.
@@ -152,26 +132,6 @@
 
       - (2) Pri čistení korýt hraničných tokov treba vybraté hmoty rozložiť na takú vzdialenosť, aby nemohlo dôjsť k drobeniu brehu, upchávaniu koryta ani k zníženiu odtoku vody.
 
-    - Článok 16
-
-      - (1) Obe Strany môžu nerušene plaviť drevo po celej dľžke hraničných vôd, včítane úsekov, kde oba brehy patria k územiu druhej Strany.
-
-      - (2) Kompetentné úrady Strán určia čas a poradie spúšťania dreva na vodu a jeho plavenie, o čom sa vzájomne upovedomia aspoň dva mesiace vopred; začatie plavenia si oznámia aspoň 5 dní vopred.
-
-    - Článok 17
-
-      - (1) V záujme zabezpečenia plavenia dreva kompetentné úrady oboch Strán môžu dať na podklade vzájomného dojednania súhlas na to, aby mohli vystúpiť robotníci na breh druhej Strany a zariaďovať prechodné opatrenia na plavenie, na spúšťanie na vodu alebo na očistenie brehov od plaveného dreva.
-
-      - (2) O čase a mieste vystúpenia robotníkov na breh druhého štátu na vykonanie prác podľa odseku 1 sa zástupcovia kompetentných úradov oboch Strán dohodnú aspoň 5 dní vopred.
-
-      - (3) Osoby plaviace drevo a drevo plavené na hraničných tokoch podliehajú colnej kontrole.
-
-    - Článok 18
-
-      - (1) Každé plavené drevo sa osobitným spôsobom označí. Kompetentné úrady oboch Strán určia preto na základe vzájomného dojednania vzory označenia a vzájomne si ich vymenia.
-
-      - (2) Ak sa sťahuje kôra plaveného dreva, nesmie sa dostať do korýt hraničných tokov.
-
     - Článok 19
 
       - (1) Obe strany budú udržiavať na hraničných vodách doterajšie vodné stavby a zariadenia (hrádze, hate a podobne). Odstrániť tieto stavby alebo tieto zariadenia alebo urobiť ich prestavbu, ktoré by mali za následok zmenu koryta alebo vodnej hladiny na území druhej Strany, možno len so súhlasom oboch Strán.
@@ -191,40 +151,6 @@
       - (1) Strany sa budú starať o udržiavanie dobrého stavu hradských a vodných ciest vedúcich cez štátne hranice. Strany sú povinné vykonávať ich opravu až po hraničnú čiaru svojím nákladom.
 
       - (2) V miestach, kde hraničná čiara pretína železničné trate, hradské alebo rieky, zriadi každá Strana na svojom území primerané označenia štátnych hraníc alebo závory.
-
-  - Hlava III Rybolov, poľovníctvo a lesné hospodárstvo
-
-    - Článok 22
-
-      - (1) Vykonávať rybolov v hraničných vodách je dovolené až k hraničnej čiare, pokiaľ sa Strany nedohodnú inak.
-
-      - (2) Pri rybolove v hraničných vodách je zakázané
-
-        - a) používať výbušniny, jedy a omamné prostriedky, ktoré majú za následok hromadné uhynutie alebo poškodenie stavu rýb,
-
-        - b) vykonávať rybolov v noci s výnimkou rieky Dunaja.
-
-      - (3) O dobe a mieste nočného rybolovu na Dunaji sa príslušné pohraničné orgány oboch Strán vopred upovedomia.
-
-      - (4) Úprava ochrany a chovu rýb v hraničných vodách, zákaz lovenia rýb niektorého druhu, určenie doby hájenia rýb a úprava iných otázok, ktoré súvisia s rybolovom, je vyhradené osobitnému dojednaniu Strán.
-
-      - (5) Osoby vykonávajúce rybolov podliehajú colnej kontrole. Úlovok rybárov v hraničných vodách je oslobodený od cla a dávok.
-
-    - Článok 23
-
-      - (1) Kompetentné úrady oboch Strán sa postarajú, aby v blízkosti hraničnej čiary boli zachovávané predpisy o poľovníctve platné na ich území. Budú dbať najmä o to, aby za lovu sa nestrieľalo cez štátne hranice a aby zver nebola prenasledovaná cez štátnej hranice.
-
-      - (2) Podrobnosti o ochrane zveri a o zjednotení doby zákazu lovu na jednotlivých úsekoch štátnych hraníc upravujú osobitné dojednania Strán.
-
-    - Článok 24
-
-      - (1) Strany zabezpečia, aby prevádzka lesného hospodárstva pozdľž hraničnej čiary nespôsobila škodu lesnému hospodárstvu druhej Strany a aby nevznikla prekážka odtoku veľkých vôd.
-
-      - (2) Ak vypukne pozdľž hraničnej čiary lesný požiar, príslušné úrady Strany, na území ktorej požiar vznikol, sú povinné urobiť podľa možnosti všetky opatrenia na jeho uhasenie a na zamedzenie jeho rozšírenia cez štátne hranice.
-
-      - (3) Ak je nebezpečenstvo, že by sa požiar mohol rozšíriť cez štátne hranice, Strana, z územia ktorej nebezpečie hrozí, je povinná ihneď upozorniť druhú Stranu, aby mohla urobiť opatrenie proti šíreniu požiaru cez štátne hranice.
-
-      - (4) Ak padne vplyvom prírodných živlov alebo za rúbania lesa strom cez hraničnú čiaru, kompetentné úrady Strany urobia opatrenia, aby vlastník stromu mohol ho rozrezať a odviezť najkratšou cestou na svoje územie. Prevážané drevo je oslobodené od cla a dávok.
 
   - Hlava IV Záverečné ustanovenia
 
@@ -301,20 +227,6 @@
     - K článku 13, 15, 19 a 20 Zmluvy
 
     - Ak bude potrebné prepraviť za spoločných prác technické potreby a materiál na územie druhej Strany, možno ho prepravovať cez štátne hranice za colnej kontroly bez ciel a poplatkov. Pracovné stroje (traktory, skrapere atď.) treba pri prekročení štátnych hraníc zaznamenať bez zloženia zábezpeky za clo.
-
-  - VI
-
-    - K článku 17 Zmluvy
-
-    - Robotníci prechádzajúci na územie Strany druhej nesmú si vziať nič iné než pracovné a dopravné prostriedky, potraviny, nápoje a fajčivo nutné na čas prác. Dočasné colné oslobodenie vozidiel sa spravuje platnými predpismi a dohodami.
-
-  - VII
-
-    - K článku 20 Zmluvy
-
-    - Zostáva v platnosti zápisnica o konaní medzi delegáciami Československej republiky a Maďarskej ľudovej republiky o otázkach rekonštrukcie, udržiavaní a odstránení maďarsko-československých pohraničných mostov zo 6. decembra 1952.
-
-    - Udržiavanie a obnovu železničných mostov a iných železničných objektov pretínajúcich hraničnú čiaru upravujú osobitné dojednania Strán.
 
   - VIII
 
