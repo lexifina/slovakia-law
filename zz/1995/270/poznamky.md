@@ -8,11 +8,19 @@
 
 - 5) Napríklad zákon Slovenskej národnej rady č. 254/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 
+- 5a) § 3 a 3a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
+- 5b) § 11 zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
+
 - 6) Zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z.
 
 - 7) § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku.
 
 - 8) § 3 a 3a zákona č. 29/1984 Zb. v znení zákona č. 171/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
+
+- 8a) § 3 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 8b) § 11a zákona Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
 
 - 9) § 40 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
