@@ -1,1 +1,0 @@
-- *) Príloha č. 1 vyhlášky č. 102/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
