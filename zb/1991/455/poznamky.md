@@ -62,11 +62,7 @@
 
 - 16) § 2 a § 3 písm. a) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
 
-- 17) Zákon č. 79/1957 Zb. o výrobe, rozvode a spotrebe elektriny (elektrizačný zákon).
-
-- Zákon č. 67/1960 Zb. o výrobe, rozvode a využití vyhrievacích plynov (Plynárenský zákon).
-
-- Zákon č. 89/1987 Zb. o výrobe, rozvode a spotrebe tepla.
+- 17) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 18) Zákon č. 61/1952 Zb. o námornej plavbe v znení zákona č. 42/1980 Zb.
 
