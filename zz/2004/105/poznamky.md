@@ -111,3 +111,5 @@
 - 50) Nariadenie Komisie (EHS) č. 2719/92 z 11. septembra 1992 o sprievodnom administratívnom dokumente pri preprave tovarov podliehajúcich spotrebným daniam v pozastavení dane (Úradný vestník Európskych spoločenstiev L 276, 19/9/1992, strany 1 – 10) v znení neskorších zmien a doplnkov.
 
 - Nariadenie Komisie (EHS) č. 3649/92 zo 17. decembra 1992 o zjednodušenom sprievodnom dokumente na prepravu tovaru podliehajúceho spotrebnej dani vnútri Spoločenstva, ktorý bol uvoľnený do daňového voľného obehu v odosielajúcom členskom štáte (Úradný vestník Európskych spoločenstiev L 369, 18/12/1992, strany 17 – 24).
+
+- 51) § 63 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
