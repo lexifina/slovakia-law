@@ -16,6 +16,8 @@ Zmluva nadobudla platnosť na základe svojho článku IX dňom 1. januára 1979
 
 Český preklad textu Zmluvy sa vyhlasuje súčasne.<sup>*</sup>)
 
+Dňom 29. 12. 1995 vo vzájomných vzťahoch medzi Slovenskou republikou a Rumunskom stratila táto zmluva platnosť (oznámenie MZV SR č. 105/1996 Z. z.).
+
 Minister:
 
 Ing. Chňoupek v. r.
