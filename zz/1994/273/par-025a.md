@@ -1,6 +1,6 @@
 # § 25a Postúpenie pohľadávky
 
-(1) Pohľadávku na poistnom, pohľadávku na prirážke k poistnému, pohľadávku na poplatku z omeškania, pohľadávku na poplatku za nesplnenie oznamovacej povinnosti a pohľadávku na pokute (ďalej len „pohľadávka"), ktoré vznikli pred 1. januárom 2000 okrem pohľadávok na poistnom za rok 1993 vrátane penále podľa osobitného predpisu,<sup>13hd</sup>) môže príslušná poisťovňa za podmienok ustanovených týmto zákonom postúpiť tretej osobe.
+(1) Pohľadávku na poistnom, pohľadávku na prirážke k poistnému, pohľadávku na poplatku z omeškania, pohľadávku na poplatku za nesplnenie oznamovacej povinnosti a pohľadávku na pokute (ďalej len „pohľadávka") okrem pohľadávok zrušenej poisťovne, ktoré vznikli pred 1. januárom 2000 okrem pohľadávok na poistnom za rok 1993 vrátane penále podľa osobitného predpisu,<sup>13hd</sup>) môže príslušná poisťovňa za podmienok ustanovených týmto zákonom postúpiť tretej osobe.
 
 (2) Pohľadávka podľa odseku 1 môže byť len predpísaná neuhradená pohľadávka alebo jej neuhradená časť,
 
