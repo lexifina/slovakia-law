@@ -1,0 +1,1 @@
+Príloha č. 8 [Vzor 08](../assets/6bf5372168fa61f65c9f8f8f63750a8d9996d2722a4a1cc855c622c0f7827913.pdf)
