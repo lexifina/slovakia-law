@@ -22,6 +22,8 @@
 
 - 12) § 116 Občianskeho zákonníka.
 
+- 12a) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+
 - 13) § 7 ods. 2 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
 
 - § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
