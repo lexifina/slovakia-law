@@ -6,7 +6,7 @@
 
 - § 3 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
-- § 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.§ 21 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z.
 
 - 3) § 8 písm. i) zákona č. 566/2001 Z. z.
 
