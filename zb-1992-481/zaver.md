@@ -1,0 +1,1 @@
+I. Gašparovič v. r.
