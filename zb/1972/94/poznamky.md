@@ -2,9 +2,11 @@
 
 - **) § 8 ods. 3 vyhlášky č. 87/1964 Zb.
 
-- *) § 3 ods. 5 vyhlášky č. 80/1966 Zb. o pravidlách cestnej premávky.
+- 1) § 5 ods. 2 vyhlášky č. 100/1975 Zb. o pravidlách cestnej premávky.
 
-- *) § 7 ods. 1 vyhlášky č. 87/1964 Zb.
+- 2) § 7 ods. 1 vyhlášky č. 87/1964 Zb. o vodičských preukazoch.
+
+- 3) § 83 vyhlášky č. 145/1956 Ú. l. (Ú. v.) o premávke na cestách.
 
 - **) § 5 až 7 vyhlášky č. 87/1964 Zb. v znení vyhlášky č. 3/1972 Zb.
 
@@ -17,6 +19,8 @@
 - *) § 18a Hospodárskeho zákonníka.
 
 - **) § 13 vyhlášky č. 87/1964 Zb.
+
+- 4) Ustanovením § 14 nie je dotknutá pôsobnosť dopravných č. 145/1956 Ú. l. (Ú. v.)
 
 - *) ČSN 26 8800.
 
