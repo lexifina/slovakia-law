@@ -46,7 +46,7 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - 1 000 000 Sk - 100 000 000 Sk | 15 000 Sk
 
-- 101 000 000 Sk - 500 000 000 Sk | 65 000 Sk
+- 100 000 001 Sk - 500 000 000 Sk | 65 000 Sk
 
 - nad sumu 500 000 000 Sk | 250 000 Sk
 
@@ -78,7 +78,7 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - 1 000 000 Sk - 100 000 000 Sk | 10 000 Sk
 
-- 101 000 000 Sk - 500 000 000 Sk | 40 000 Sk
+- 100 000 001 Sk - 500 000 000 Sk | 40 000 Sk
 
 - nad sumu 500 000 000 Sk | 150 000 Sk
 
@@ -158,6 +158,12 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - zc) na tvorbu ďalších technických rezerv poisťovne<sup>54</sup>) | 500 Sk
 
+- zd) na vrátenie povolenia na vykonávanie činnosti poisťovacieho makléra alebo poisťovacieho agenta, ktorý vykonáva sprostredkovanie poistenia pre viac ako jednu poisťovňu,<sup>54a</sup>) |
+
+- 1. fyzickej osobe | 500 Sk
+
+- 2. právnickej osobe | 1 000 Sk
+
 - Položka 4 - Schvaľovanie
 
 - a) zmeny štatútu podielového fondu pre správcovskú spoločnosť alebo zahraničnú správcovskú spoločnosť<sup>55</sup>) | 2 000 Sk
@@ -190,7 +196,7 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - 1 000 000 Sk - 100 000 000 Sk | 10 000 Sk
 
-- 101 000 000 Sk - 500 000 000 Sk | 40 000 Sk
+- 100 000 001 Sk - 500 000 000 Sk | 40 000 Sk
 
 - nad sumu 500 000 000 Sk | 150 000 Sk
 
@@ -198,36 +204,40 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - 1 000 000 Sk - 100 000 000 Sk | 15 000 Sk
 
-- 101 000 000 Sk - 500 000 000 Sk | 60 000 Sk
+- 100 000 001 Sk - 500 000 000 Sk | 60 000 Sk
 
 - nad sumu 500 000 000 Sk | 240 000 Sk
 
-- n) zmeny ponuky na prevzatie a povinnej ponuky na prevzatie<sup>66</sup>) | 1 000 Sk
+- n) povinnej ponuky na prevzatie vyhlásenej na základe rozhodnutia valného zhromaždenia akcionárov emitenta kótovaných akcií, že akcie vydané týmto emitentom prestanú byť kótované<sup>65a</sup>) | 50 000 Sk
 
-- o) prospektu investície z celkového objemu majetkových aktív, ktoré sa majú nadobudnúť z peňažných prostriedkov zhromaždených na základe verejnej ponuky<sup>67</sup>) | 0,05 %
+- o) zmeny ponuky na prevzatie a povinnej ponuky na prevzatie<sup>66</sup>) | 1 000 Sk
+
+- p) prospektu investície z celkového objemu majetkových aktív, ktoré sa majú nadobudnúť z peňažných prostriedkov zhromaždených na základe verejnej ponuky<sup>67</sup>) | 0,05 %
 
 - najmenej | 2 000 Sk
 
 - najviac | 1 000 000 Sk
 
-- p) prospektu cenných papierov podľa objemu emisie, ktorá je predmetom verejnej ponuky cenných papierov<sup>67</sup>) |
+- q) prospektu cenných papierov podľa objemu emisie, ktorá je predmetom verejnej ponuky cenných papierov<sup>67</sup>) |
 
-- 1 000 000 Sk - 100 000 000 Sk | 30 000 Sk
+- do 1 000 000 Sk | 5 000 Sk
 
-- 101 000 000 Sk - 500 000 000 Sk | 120 000 Sk
+- 1 000 001 Sk - 100 000 000 Sk | 30 000 Sk
+
+- 100 000 001 Sk - 500 000 000 Sk | 120 000 Sk
 
 - nad sumu 500 000 000 Sk | 500 000 Sk
 
-- q) prospektu cenných papierov<sup>67</sup>) pre vyhlasovateľa verejnej ponuky cenných papierov, ktorý nie je emitentom ponúkaných cenných papierov | 5 000 Sk
+- r) prospektu cenných papierov<sup>67</sup>) pre vyhlasovateľa verejnej ponuky cenných papierov, ktorý nie je emitentom ponúkaných cenných papierov | 5 000 Sk
 
-- r) dodatku prospektu cenného papiera alebo prospektu investície<sup>68</sup>) | 1 000 Sk
+- s) dodatku prospektu cenného papiera alebo prospektu investície<sup>68</sup>) | 1 000 Sk
 
-- s) uznania prospektu cenného papiera schváleného príslušným orgánom v štáte sídla emitenta<sup>69</sup>) | 5 000 Sk
+- t) uznania prospektu cenného papiera schváleného príslušným orgánom v štáte sídla emitenta<sup>69</sup>) | 5 000 Sk
 
-- t) prevodu poistného kmeňa alebo jeho časti<sup>70</sup>) | 20 000 Sk
+- u) prevodu poistného kmeňa alebo jeho časti<sup>70</sup>) | 20 000 Sk
 
-- u) štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 10 000 Sk
+- v) štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 10 000 Sk
 
-- v) zmien štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 5 000 Sk
+- w) zmien štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 5 000 Sk
 
 - Položka 5 - Vydanie náhradného rozhodnutia, súhlasu alebo schvaľovania (duplikátu) | 500 Sk
