@@ -1,5 +1,3 @@
-## Zákone o rodine
-
 ## Základné zásady
 
 # Článok I
