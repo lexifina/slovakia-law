@@ -1,7 +1,5 @@
 # Čl. VII
 
-(1) Konania o prihláškach objavov,<sup>1</sup>) ktorých autormi sú občania Slovenskej republiky s trvalým pobytom na území Slovenskej republiky a ktoré sa neskončili pred nadobudnutím účinnosti tohto zákona, sa dokončia podľa doterajších právnych predpisov.
-
 (2) Konania o prihláškach vynálezov a priemyselných vzorov,<sup>2</sup>) úžitkových vzorov,<sup>3</sup>) topografií polovodičových výrobkov,<sup>4</sup>) označení pôvodu výrobkov<sup>5</sup>) a ochranných známok,<sup>6</sup>) ktoré sa neskončili do 31. decembra 1992, dokončí Úrad priemyselného vlastníctva Slovenskej republiky podľa doterajších predpisov.
 
 (3) Právne úkony vykonané v konaní pred Federálnym úradom pre vynálezy, ako aj právne skutočnosti rozhodne podľa doterajších predpisov, ktoré nastali do 31. decembra 1992, zostávajú v platnosti, pokiaľ tento zákon neustanovuje inak.
