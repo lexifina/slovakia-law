@@ -1,0 +1,9 @@
+# Článok 23 Zásada rovnakého zaobchádzania
+
+- 1. Štátni príslušníci jedného zmluvného štátu nebudú podliehať v druhom zmluvnom štáte žiadnemu zdaneniu alebo povinnostiam s ním spojenými, ktoré sú iné alebo ťaživejšie ako zdanenie a s ním spojené povinnosti, ktorým podliehajú alebo môžu podliehať štátni príslušníci tohto druhého zmluvného štátu nachádzajúci sa v rovnakej situácii, zvlášť s ohľadom na bydlisko. Toto ustanovenie sa bez ohľadu na ustanovenia článku 1 uplatní rovnako na osoby, ktoré nie sú rezidentmi jedného alebo oboch zmluvných štátov.
+
+- 2. Zdanenie stálej prevádzkarne, ktorú má podnik jedného zmluvného štátu v druhom zmluvnom štáte, nebude v tomto druhom štáte nepriaznivejšie ako zdanenie podnikov tohto druhého štátu vykonávajúcich rovnaké činnosti. Toto ustanovenie sa nebude vykladať ako záväzok jedného zmluvného štátu priznať rezidentom druhého zmluvného štátu osobné úľavy, zľavy a zníženie dane z dôvodu osobného postavenia alebo rodinných záväzkov, ktoré priznáva svojim vlastným rezidentom.
+
+- 3. Ak sa nebudú aplikovať ustanovenia článku 9 ods. 1, článku 11 ods. 4 alebo článku 12 ods. 6, budú úroky, licenčné poplatky a iné výdavky platené podnikom jedného zmluvného štátu rezidentovi druhého zmluvného štátu odpočítateľné na účely stanovenia zdaniteľných ziskov tohto podniku za rovnakých podmienok, ako keby boli platené rezidentovi skôr uvedeného štátu.
+
+- 4. Podniky jedného zmluvného štátu, ktorých majetok úplne alebo čiastočne, priamo alebo nepriamo vlastní alebo kontroluje rezident alebo rezidenti v druhom zmluvnom štáte, nebudú podliehať v skôr uvedenom zmluvnom štáte žiadnemu zdaneniu ani povinnostiam s ním spojenými, ktoré sú iné alebo ťaživejšie ako zdanenie a s ním spojené povinnosti, ktorým podliehajú alebo môžu podliehať iné podobné podniky skôr uvedeného štátu.

@@ -1,0 +1,13 @@
+# Článok 12 Licenčné poplatky
+
+- 1. Licenčné poplatky majúce zdroj v jednom zmluvnom štáte vyplácané rezidentovi druhého zmluvného štátu možno zdaniť v tomto druhom štáte.
+
+- 2. Takéto licenčné poplatky však možno zdaniť aj v zmluvnom štáte, v ktorom majú zdroj, a to podľa právnych predpisov tohto štátu, ak je však príjemca skutočným vlastníkom licenčných poplatkov, daň takto stanovená nepresiahne 5 % hrubej sumy licenčných poplatkov.
+
+- 3. Výraz „licenčné poplatky“ použitý v tomto článku označuje platby akéhokoľvek druhu platené ako náhrada za použitie alebo za právo na použitie akéhokoľvek autorského práva k literárnemu, umeleckému alebo vedeckému dielu vrátane kinematografických filmov, akéhokoľvek patentu, ochrannej známky, návrhu alebo modelu, plánu, tajného vzorca alebo výrobného postupu, alebo za informácie súvisiace so skúsenosťami nadobudnutými v priemyselnej, obchodnej alebo vedeckej oblasti.
+
+- 4. Ustanovenia odsekov 1 a 2 sa nepoužijú, ak skutočný vlastník licenčných poplatkov, ktorý je rezidentom v jednom zmluvnom štáte, vykonáva v druhom zmluvnom štáte, v ktorom majú licenčné poplatky zdroj, priemyselnú alebo obchodnú činnosť prostredníctvom stálej prevádzkarne, ktorá je tam umiestnená, alebo vykonáva v tomto druhom štáte nezávislé povolanie zo stálej základne tam umiestnenej a ak právo alebo majetok, z ktorého sa licenčné poplatky platia, sa skutočne viažu na túto stálu prevádzkareň alebo na stálu základňu. V tomto prípade sa použijú ustanovenia článku 7 alebo článku 14 podľa toho, o aký prípad ide.
+
+- 5. Predpokladá sa, že licenčné poplatky majú zdroj v zmluvnom štáte, ak platiteľom je tento štát sám alebo rezident tohto štátu. Ak však osoba platiaca licenčné poplatky, či už je, alebo nie je rezidentom v niektorom zmluvnom štáte, má v zmluvnom štáte stálu prevádzkareň alebo stálu základňu, v spojení s ktorou vznikla povinnosť platiť licenčné poplatky, ktoré idú na ťarchu stálej prevádzkarne alebo stálej základne, predpokladá sa, že tieto licenčné poplatky majú zdroj v tom zmluvnom štáte, v ktorom je stála prevádzkareň alebo stála základňa umiestnená.
+
+- 6. Ak suma licenčných poplatkov vzťahujúcich sa na použitie, právo alebo na informáciu, za ktoré sa platia, presahuje v dôsledku osobitných vzťahov, ktoré existujú medzi platiteľom a skutočným vlastníkom alebo ktoré jeden aj druhý udržiavajú s treťou osobou, sumu, ktorú by bol dohodol platiteľ so skutočným vlastníkom, keby neboli takéto vzťahy, použijú sa ustanovenia tohto článku iba na túto naposledy uvedenú sumu. Suma platieb, ktorá ju presahuje, sa v tomto prípade zdaní podľa právnych predpisov každého zmluvného štátu s prihliadnutím na ostatné ustanovenia tejto zmluvy.
