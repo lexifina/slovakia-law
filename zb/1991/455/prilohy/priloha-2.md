@@ -72,7 +72,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 27. | Technik požiarnej ochrany a Špecialista požiarnej ochrany | osvedčenie | § 11 ods. 1 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/ 1995 Z. z. |
 
-- 28. | Geodetické a kartografické činnosti | vzdelanie podľa osobitného predpisu*) | *) § 5 zák. NR SR č. 215/1995 Z. z. o geodézii a kartografii |
+- 28. | Geodetické a kartografické činnosti | odborná spôsobilosť podľa osobitného predpisu*) | *) § 5 zák. NR SR č. 215/1995 Z. z. o geodézii a kartografii |
 
 - 29. | Vyhotovovanie lesných hospodárskych plánov | osvedčenie o odbornej a technickej spôsobilosti | § 3 ods. 4 zák. SNR č. 100/ 1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení zákona SNR č. 510/1991 Zb. |
 
