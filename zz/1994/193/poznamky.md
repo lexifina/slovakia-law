@@ -2,7 +2,11 @@
 
 - 2) § 8 Občianskeho zákonníka.
 
-- 3) § 34 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb., zákona č. 522/1990 Zb.
+- 2a) § 8 ods. 2 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 2b) § 50 vyhlášky Ministerstva zdravotníctva a sociálnych vecí Slovenskej socialistickej republiky č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení neskorších predpisov.
+
+- 3) § 34 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb., zákona č. 522/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
 
 - 4) § 7 a 8 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 578/1991 Zb., zákona č. 231/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 247/1993 Z. z.
 
@@ -12,7 +16,7 @@
 
 - 7) § 29, 31 a 33 zákona č. 29/1984 Zb. v znení zákona č. 171/1990 Zb.
 
-- 8) Napríklad § 98 ods. 5 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 578/1991 Zb.
+- 8) Napríklad § 98 ods. 3 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 578/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
 
 - 9) Zákon Slovenskej národnej rady č. 29/1984 Zb. v znení zákona Slovenskej národnej rady č. 171/1990 Zb. a zákona Slovenskej národnej rady č. 522/1990 Zb. Zákon Slovenskej národnej rady č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
 
@@ -22,9 +26,27 @@
 
 - 12) § 16 písm. a) č. 3 zákona Slovenskej národnej rady č. 543/1990 Zb. v znení zákona Slovenskej národnej rady č. 195/1992 Zb.
 
-- 13) § 5 zákona č. 463/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 277/1993 Z. z.
+- 13) § 6 až 10 zákona č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 626/1992 Zb., zákona Národnej rady Slovenskej republiky č. 326/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z.
+
+- 13a) § 6 ods. 12 písm. b) zákona č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 13b) Zákon č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 13c) § 4, § 6 ods. 8 a § 10 ods. 2 zákona č. 286/1992 Zb. v znení zákona č. 626/1992 Zb., zákona Národnej rady Slovenskej republiky č. 124/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 326/1993 Z. z.
+
+- 13d) § 7 písm. c) zákona č. 100/1988 Zb.
+
+- 13e) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.§ 145e, § 145h a § 145i zákona č. 100/1988 Zb. v znení neskorších predpisov.§ 5 zákona č. 50/1973 Zb. o pestúnskej starostlivosti v znení neskorších predpisov.
+
+- 13f) § 5 ods. 3 zákona č. 286/1992 Zb. v znení zákona č. 626/1992 Zb.
+
+- 13g) Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 245/1993 Z. z. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, špeciálnych stredných odborných učilíšť, odborných učilíšť a učilíšť.
 
 - 14) § 115 Občianskeho zákonníka.
+
+- 14a) § 86 zákona o rodine.
+
+- 14b) § 92 zákona o rodine.
 
 - 15) Napríklad zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z. Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 275/1993 Z. z.Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 524/1991 Zb. o odmeňovaní prác vykonávaných na základe dohôd o prácach vykonávaných mimo pracovného pomeru.
 
