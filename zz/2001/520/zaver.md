@@ -1,1 +1,0 @@
-István Harna v. r.
