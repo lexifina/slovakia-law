@@ -1,1 +1,0 @@
-- *) § 167 ods. 2 zákona č. 69/1958 Zb. o hospodárskych vzťahoch medzi socialistickými organizáciami.
