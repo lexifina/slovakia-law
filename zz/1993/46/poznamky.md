@@ -6,6 +6,14 @@
 
 - 1ba) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
+- 1c) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- Zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov.
+
+- Zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov.
+
+- 1d) Napríklad § 3 a 11 zákona č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+
 - 2) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
 - 3) Nariadenie vlády Slovenskej republiky č. 54/1992 Zb. o jednorazovom mimoriadnom odškodnení za ujmu na zdraví alebo smrť v súvislosti s pomocou poskytnutou Policajnému zboru Slovenskej republiky.
