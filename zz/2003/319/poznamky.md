@@ -12,13 +12,19 @@
 
 - 3a) Nariadenie vlády Slovenskej republiky č. 298/2003 Z. z. o podmienkach v záujme ochrany zdravia ľudí pri produkcii a uvádzaní na trh produktov rybolovu a živých lastúrnikov.
 
-- 4) Zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
+- 4) § 2 písm. c) zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
 - 5) § 2 písm. c) zákona č. 488/2002 Z. z.
 
 - 6) § 18 ods.1 zákona č. 488/2002 Z. z.
 
 - 7) § 12 ods.1 písm. d) zákona č. 488/2002 Z. z.
+
+- 7a) Zákon č. 488/2002 Z. z.
+
+- 7b) § 57 ods. 3 zákona č. 140/1998 Z. z.
+
+- 7c) § 4 ods. 3 zákona č. 488/2002 Z. z.
 
 - 8) Nariadenie vlády Slovenskej republiky č. 294/2003 Z. z. o požiadavkách na zdravie zvierat koňovitých pri ich premiestňovaní, ich výmene s členskými štátmi a ich dovoze z tretích krajín
 
