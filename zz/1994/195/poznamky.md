@@ -1,5 +1,0 @@
-- 1) Zákon č. 46/1991 Zb. o zvyšovaní dôchodkov v znení zákona Národnej rady Slovenskej republiky č. 97/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 285/1993 Z. z.
-
-- 2) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb., zákona č. 180/1990 Zb., zákona č. 1/1991 Zb., zákona č. 46/1991 Zb., zákona č. 246/1991 Zb., zákona č. 306/1991 Zb., zákona č. 578/1991 Zb., zákona č. 116/1992 Zb., zákona č. 235/1992 Zb., zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 14/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 59/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 97/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 240/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 285/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 39/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 71/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
-
-- 3) § 24, 31, 56, 64, 70, 133, 135 a 139 zákona č. 100/1988 Zb. v znení neskorších predpisov.
