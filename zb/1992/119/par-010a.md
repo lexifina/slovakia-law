@@ -1,0 +1,3 @@
+# § 10a Poistenie liečebných nákladov v zahraničí
+
+Zamestnancovi pri zahraničnej pracovnej ceste patrí náhrada preukázaných výdavkov za poistenie nevyhnutných liečebných nákladov v zahraničí; táto náhrada zamestnancovi nepatrí, ak ho takto poistil zamestnávateľ.
