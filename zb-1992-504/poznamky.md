@@ -1,0 +1,1 @@
+- 1) § 10 zákona ČNR č. 243/1992 Sb., kterým se upravují některé otázky související se zákonem č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění zákona č. 93/1992 Sb., ve znění zákona ČNR č. 441/1992 Sb.
