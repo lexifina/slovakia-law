@@ -80,17 +80,9 @@ Príloha A zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 45 | | | čl. 5 ods. 17 | vyjadrovanie sa k vymenúvaniu riaditeľa, jeho zástupcu a primárov (vedúcich) oddelení v nemocnici s poliklinikou III. typu spravovanej okresným národným výborom
 
-46-47 | | zrušené 1.9.1978 | |
+46-47 | | zrušené od 1.9.1978 | |
 
-48 | požiarnej ochrany | zák. č. 18/1958 Zb. a vyhl. č. 106/1959 Ú. v. | § 6 ods. 2 § 4 ods. 2 | zisťovanie príčin požiarov v závažných prípadoch
-
-49 | | zák. č. 18/1958 Zb. | § 8 ods. 1 | nariaďovanie zastavenia prevádzky v celkom závode, ak na odstránenie príčin bezprostredného nebezpečenstva a vzniku požiaru nestačia iné opatrenia na ochranu pred požiarom
-
-50 | | vyhl. č. 106/1959 Ú. v. | § 3 | požadovanie jednorazových správ a dokladov od vedúcich závodov, vlastníkov a užívateľov budov, prípadne od iných zodpovedných osôb alebo organizácií na objasňovanie stavu objektov, technológie výroby a charakteru používaných materiálov a surovín vzhľadom na požiarnu bezpečnosť
-
-51 | | | § 36 ods. 1 | určovanie miest, v ktorých sa vzhľadom na potrebu zvýšenia požiarnej ochrany zriaďujú verejné požiarne útvary, a určovanie počtu príslušníkov týchto útvarov
-
-52 | | | § 36 ods. 2 | vyjadrovanie sa k zriaďovaniu závodných požiarnych útvarov v tých závodoch, ktoré trvale vyžadujú zvýšenú ochranu pred požiarmi
+48-52 | | zrušené od 1.7.1986 | |
 
 53 | všeobecnej vnútornej správy | vl. nar. č. 12/1968 Zb. | § 3 ods. 1 | určovanie zásad pre poskytovanie paušálnych náhrad poslancom krajských a okresných národných výborov
 
