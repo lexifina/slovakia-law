@@ -1,0 +1,1 @@
+- 1) Európsky dohovor o vzájomnej pomoci v trestných veciach z 20. apríla 1959 bol uverejnený pod č. 550/1992 Zb.
