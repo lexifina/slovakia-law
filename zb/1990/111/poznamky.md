@@ -87,3 +87,5 @@
 - 22) Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
 
 - 23) Zákon č. 283/2002 Z. z. o cestovných náhradách.
+
+- 24) § 10 ods. 2 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
