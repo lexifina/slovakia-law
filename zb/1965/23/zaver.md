@@ -1,3 +1,0 @@
-Minister:
-
-Císař v. r.
