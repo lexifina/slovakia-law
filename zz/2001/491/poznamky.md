@@ -1,4 +1,4 @@
-- 1) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 1) § 5 zákona č. 473/2003 Z. z. o Pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov.
 
 - 2) § 3 zákona Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore.
 
@@ -28,6 +28,8 @@
 
 - 15) § 20f Občianskeho zákonníka.
 
-- 16) § 56 Občianskeho zákonníka.
+- 16) § 56 až 260 Obchodného zákonníka.
+
+- 16a) § 20 zákona č. 473/2003 Z. z. o Pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov.
 
 - 17) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 158/1997 Z. z.
