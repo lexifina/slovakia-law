@@ -1,0 +1,1 @@
+- 1) § 6 odst. 3 a § 12 odst. 5 písm. a) zákona ČNR č. 564/1990 Sb., o státní správě a samosprávě ve školství.
