@@ -18,6 +18,8 @@
 
 - 9) Napr. nariadenie Zboru povereníkov č. 26/1948 Zb. SNR, ktorým sa upravuje vyňatie poľnohospodárskeho majetku osôb maďarskej národnosti z konfiškácie.
 
+- 9a) Nariadenie SNR č. 33/1945 Zb. SNR o potrestaní fašistických zločincov, okupantov, zradcov a kolaborantov a o zriadení ľudového súdnictva v znení neskorších predpisov.
+
 - 10) § 52 až 58 vyhlášky č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky č. 45/1979 Zb.
 
 - 11) § 8 zákona č. 169/1949 Zb. o vojenských obvodoch.
@@ -42,6 +44,10 @@
 
 - 17) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
 
+- 17a) § 6 zákona ČNR č. 284/1991 Zb. o pozemkových úpravách a pozemkových úradoch.
+
+- § 7 zákona SNR č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách.
+
 - 18) § 46 zákona č. 162/1990 Zb.
 
 - 19) § 1 zákona č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby v znení neskorších predpisov.
@@ -53,6 +59,8 @@
 - 22) § 70 Hospodárskeho zákonníka.
 
 - 23) § 64 Hospodárskeho zákonníka.
+
+- 23a) § 6 ods. 1 zákona č. 61/1964 Zb. o rozvoji rastlinnej výroby.
 
 - 24) Napríklad zákon č. 123/1975 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb.
 
