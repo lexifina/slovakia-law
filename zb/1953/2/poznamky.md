@@ -1,0 +1,1 @@
+- *) Zmeny vykonané predpismi, ktoré zákon č. 142/1950 Zb. menia a doplňujú, nadobúdajú účinnosť dňom určeným v týchto predpisoch.
