@@ -1,0 +1,3 @@
+# Článok IV. 5
+
+Ak vysvedčenia o maturitnej skúške v zmluvnej strane, kde boli získané, umožňujú prístup k vysokoškolskému vzdelávaniu iba v kombinácii s ďalšími kvalifikačnými skúškami ako podmienkou prijatia, iné zmluvné strany môžu podmieniť prijatie splnením týchto požiadaviek alebo ponúknuť alternatívu na splnenie takýchto ďalších požiadaviek v rámci vlastného vzdelávacieho systému. Každý štát, Svätá stolica alebo Európske spoločenstvo môže pri podpise alebo uložení svojej ratifikačnej listiny, listiny o prijatí, schválení alebo pristúpení, alebo kedykoľvek neskôr oznámiť jednému z depozitárov, že využívajú ustanovenia tohto článku s uvedením zmluvných strán, vo vzťahu ku ktorým mienia vykonávať tento článok, ako aj dôvody, ktoré ich k tomu vedú.
