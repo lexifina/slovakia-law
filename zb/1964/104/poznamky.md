@@ -35,3 +35,9 @@
 - **) Vyhláška č. 74/1964 Zb. o prenájme a používaní cestných vozidiel pre motorovú dopravu.
 
 - *) § 74 zákona č. 32/1962 Zb. o sociálnom zabezpečení družstevných roľníkov a § 1 a 37 vyhlášky č. 33/1962 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení družstevných roľníkov.
+
+- *) § 150 ods. 1 a 2, § 153 a § 162 ods. 1 Zákonníka práce a zoznamy prác a pracovísk vydané podľa § 150 Zákonníka práce.
+
+- **) § 150 ods. 3, § 153 a § 162 ods. 1 Zákonníka práce.
+
+- *) Závodný, prípadne obvodný lekár po vyjadrení odborného ženského lekára.
