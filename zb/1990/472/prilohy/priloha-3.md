@@ -19,19 +19,3 @@ pol. | úsek štátnej správy | Na úseku štátnej správy prechádza pôsobno
 5. | kultúry | zák. SNR č. 109/1961 Zb. | 13 ods. 1 | udeľovanie povolenia na vývoz predmetov muzeálnej a galerijnej hodnoty do cudziny
 
 6. | | vyhl. SNR č. 11/1964 Zb. v znení zák. SNR č. 72/1969 Zb. | 1 písm. c) | vydávanie súhlasu na vývoz kultúrnej pamiatky alebo predmetu muzeálnej hodnoty
-
-7. | všeobecnej vnútornej správy | zák. č. 268/1949 Zb. | 6 | dohliadanie na výkon pôsobnosti pri vedení matrík
-
-| | vyhl. č. 22/1977 Zb. | 6 ods. 1 |
-
-9. | | zák. č. 268/1949 Zb. v znení vl. nar. č. 93/1958 Zb. | 7 ods. 2 | vedenie druhopisu matrík a zbierky listín
-
-10. | | vyhl. č. 22/1977 Zb. | 6 ods. 1 | dozor nad vedením matrík
-
-11. | | | 9 ods. 2 | vykonávanie overovania nových matričných knih
-
-12. | | | 28 | vydanie pokynu na vykonanie záznamu rozhodnutia úradov a súdov cudzích krajín do matriky
-
-13. | | | 58 ods. 1 | povoľovanie vedenia čiastkovej matriky
-
-14. | | | 60 | obnovenie matriky
