@@ -1,0 +1,15 @@
+# Článok 13 Bezpečnosť leteckej dopravy
+
+(1) V súlade s právami a so záväzkami medzinárodného práva týmto zmluvné strany potvrdzujú, že ich záväzky na zabezpečenie bezpečnosti civilného letectva proti činom nezákonného zasahovania predstavujú neoddeliteľnú súčasť tejto dohody.
+
+(2) Zmluvné strany si na požiadanie navzájom poskytnú všetku nevyhnutnú pomoc, aby zabránili protiprávnemu zmocneniu sa civilných lietadiel a iným nezákonným činom proti bezpečnosti cestujúcich, posádky, lietadla, letísk, leteckých navigačných zariadení a akýmkoľvek iným útokom na bezpečnosť civilného letectva.
+
+(3) Zmluvné strany budú postupovať v súlade s ustanoveniami Dohovoru o trestných činoch a niektorých iných činoch spáchaných na palube lietadla podpísaného v Tokiu 14. septembra 1963, Dohovoru o potlačení protiprávneho zmocnenia sa lietadiel podpísaného v Haagu 16. decembra 1970 a Dohovoru o potláčaní protiprávnych činov ohrozujúcich bezpečnosť leteckej dopravy podpísaného v Montreale 23. septembra 1971.
+
+(4) Zmluvné strany budú vo vzájomných vzťahoch konať v súlade s ustanoveniami o bezpečnosti civilného letectva, ktoré boli prijaté Medzinárodnou organizáciou pre civilné letectvo a zaradené ako dodatky k Dohovoru o medzinárodnom civilnom letectve; zmluvné strany budú vyžadovať, aby u nich registrovaní prevádzkovatelia lietadiel, ktorí vykonávajú svoju hlavnú činnosť alebo majú stále sídlo na území ich štátu, ako aj prevádzkovatelia letísk na území ich štátu konali v súlade s týmito ustanoveniami o bezpečnosti letectva.
+
+(5) Každá zmluvná strana súhlasí s tým, že bude dodržiavať bezpečnostné opatrenia požadované druhou zmluvnou stranou týkajúce sa vstupu na územie štátu tejto druhej zmluvnej strany a prijme primerané opatrenia zamerané na ochranu lietadla, kontrolu cestujúcich, posádky a prevážaných predmetov, ako aj nákladu a leteckých zásob pred nástupom a počas nástupu a nakladania na palubu. Každá zmluvná strana v prípade konkrétnej hrozby vykoná na základe požiadavky druhej zmluvnej strany mimoriadne bezpečnostné opatrenia.
+
+(6) Ak sa vyskytne prípad alebo hrozba nezákonného zmocnenia sa civilného lietadla alebo iný nezákonný postup proti bezpečnosti cestujúcich, posádky, lietadla, letísk a leteckých navigačných zariadení, zmluvné strany si budú navzájom pomáhať prostredníctvom komunikačných prostriedkov a iných vhodných opatrení zameraných na rýchle a bezpečné skončenie takého prípadu alebo na odstránenie hrozby.
+
+(7) Ak má zmluvná strana dostatočné dôvody domnievať sa, že druhá zmluvná strana nedodržala ustanovenia o bezpečnosti letectva podľa tohto článku, vládne orgány civilného letectva tejto zmluvnej strany môžu požiadať vládne orgány civilného letectva druhej zmluvnej strany o okamžité konzultácie. Ak sa nedosiahne dohoda do pätnástich (15) dní odo dňa podania takej žiadosti, prevádzkové alebo technické povolenie určenej leteckej spoločnosti alebo určených leteckých spoločností štátu druhej zmluvnej strany možno odobrať, zrušiť, obmedziť alebo naň uložiť určité podmienky. Vo výnimočnom prípade môže zmluvná strana pred uplynutím pätnástich (15) dní prijať predbežné opatrenia.
