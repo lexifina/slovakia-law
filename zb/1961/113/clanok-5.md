@@ -1,0 +1,5 @@
+# Článok V Náhrada mzdy pri príležitostnom uvoľnení
+
+- 1. Pracovníkom, ktorí boli príležitostne uvoľnení na vykonanie úloh vyplývajúcich z ich odborovej funkcie v základnej organizácii, pre účasť na schôdzach aktívu konaných i mimo závodu, školení, konferenciách a sjazdoch alebo na vykonanie niektorých administratívno-technických prác, poskytuje náhradu ušlej mzdy vedenie závodu v tej istej výške ako pri ostatných prekážkach v práci. V prípade, že ide o príležitostné uvoľnenie na súvislú dobu dlhšiu ako jeden mesiac, poskytne im vedenie závodu náhradu mzdy určenú rovnakým spôsobom ako pri trvalom uvoľnení.
+
+- 2. Odborový orgán, z podnetu ktorého došlo k príležitostnému uvoľneniu pracovníka, uhradí náhradu mzdy, ktorú tomuto pracovníkovi vyplatilo vedenie závodu včítane dane zo mzdy a príslušnej sumy poistného nemocenského poistenia. Povinnosť tejto náhrady voči podniku odpadá, ak to ustanovujú osobitné predpisy alebo ak uvoľnený pracovník sám alebo jeho spolupracovníci nahradia zameškanú prácu bez zvýšenia osobných nákladov; u funkcionárov základnej organizácie odpadá povinnosť náhrady, aj keď išlo o činnosť, ktorá bezprostredne súvisí s úlohami závodu.
