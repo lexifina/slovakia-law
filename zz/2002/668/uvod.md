@@ -1,0 +1,9 @@
+## 668
+
+ZÁKON
+
+z 15. novembra 2002,
+
+## ktorým sa dopĺňa zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
