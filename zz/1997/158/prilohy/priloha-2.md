@@ -24,7 +24,7 @@ g) „hodnota materiálov“ znamená colnú hodnotu použitých nepôvodných m
 
 h) „hodnota pôvodných materiálov“ znamená hodnotu týchto materiálov určenú podľa písmena g), uplatňovanú mutatis mutandis,
 
-i) „pridanou hodnotou“ sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov, ktoré sú pôvodné v ostatných krajinách uvedených v článkoch 3 a 4, alebo ak colná hodnota nie je známa alebo sa nedá zistiť, znížená o prvú cenu preukázateľne zaplatenú za tieto výrobky v Spoločenstve alebo v Slovenskej republike,
+i) „pridanou hodnotou“ sa rozumie cena zo závodu znížená o colnú hodnotu všetkých použitých materiálov pôvodných v ostatných krajinách, uvedených v článkoch 3 a 4, alebo ak colná hodnota nie je známa alebo sa nedá zistiť, znížená o prvú preukázateľnú cenu zaplatenú za materiály v Spoločenstve alebo v Slovenskej republike,
 
 j) „kapitoly“ a „čísla“ znamenajú kapitoly a čísla (štvormiestne kódy) používané v nomenklatúre Harmonizovaného systému opisu a číselného označovania tovarov (ďalej nazývaného v tomto protokole „Harmonizovaný systém“ alebo „HS“),
 
@@ -142,33 +142,47 @@ Tento odsek sa nevzťahuje na výrobky zaradené do kapitol 50 až 63 Harmonizov
 
 3. Odseky 1 a 2 sa uplatnia s výnimkou ustanovení článku 7.
 
-Článok 7
+- Článok 7
 
 Nedostatočné opracovanie alebo spracovanie
 
-1. Bez dotknutia ustanovenia odseku 2 sa nasledujúce opracovanie alebo spracovanie považuje za nedostatočné na priznanie štatútu pôvodu, rovnako bez ohľadu na splnenie alebo nesplnenie požiadaviek uvedených v článku 6:
+- 1. Nasledujúce operácie sa považujú za nedostatočné na priznanie štatútu pôvodu výrobkov bez ohľadu na splnenie alebo nesplnenie požiadaviek uvedených v článku 6:
 
-a) operácie, ktoré zabezpečujú zachovanie dobrého stavu počas prepravy a skladovania (vetranie, rozloženie, sušenie, chladenie, naloženie do soli, oxidu siričitého, prípadne s použitím iných látok alebo iných vodných roztokov, odstránenie poškodených častí a podobné operácie),
+a) operácie, ktoré zabezpečujú zachovanie dobrého stavu výrobkov počas prepravy a skladovania,
 
-b) jednoduché operácie skladajúce sa z odstránenia prachu, preosievania, triedenia alebo združovania (vrátane tvorby súprav predmetov), umývania, natierania, rezania,
+b) delenie a zostavovanie zásielok,
 
-c)
+c) pranie, čistenie; odstraňovanie prachu, oxidu, oleja, farby alebo iných nánosov,
 
-i) zmeny balenia, delenie a zostavovanie zásielok,
+d) žehlenie alebo mangľovanie textilu,
 
-ii) jednoduché uloženie do fliaš, baniek, vriec, debien, škatúľ, upevnenie na dosky atď. a všetky iné jednoduché adjustážne operácie,
+e) operácie jednoduchého natierania a leštenia,
 
-d) pripájanie značiek, štítkov a iných rozlišovacích označení na výrobky alebo ich obaly,
+f) lúpanie, čiastočné alebo úplné bielenie, leštenie a glazúrovanie obilnín a ryže,
 
-e) jednoduché zmiešavanie výrobkov aj odlišného druhu, ak jedna alebo viac zložiek zmesi nespĺňa podmienky ustanovené týmto protokolom, ktoré by umožnili považovať ich za pôvodné v Spoločenstve alebo v Slovenskej republike,
+g) operácie farbenia cukru alebo formovania do kociek,
 
-f) jednoduché skladanie častí s cieľom vytvoriť kompletný výrobok,
+h) šúpanie, vylupovanie kôstok, lúpanie ovocia a zeleniny a lúskanie orechov,
 
-g) kombinácie dvoch alebo viacerých operácií uvedených v písmenách a) až f),
+i) brúsenie, jednoduché mletie alebo jednoduché rezanie,
 
-h) porážka zvierat.
+j) osievanie, preosievanie, triedenie, klasifikovanie, združovanie (vrátane tvorby súprav predmetov),
 
-2. Všetky operácie uskutočnené na danom výrobku v Spoločenstve alebo v Slovenskej republike sa posudzujú spoločne pri rozhodovaní, či sa opracovanie alebo spracovanie na ňom uskutočnené považuje za nedostatočné v zmysle odseku 1.
+k) jednoduché uloženie do fliaš, plechoviek, baniek, demižónov, vriec, debien, škatúľ, upevnenie v kartónoch alebo v doskách a iné jednoduché baliace operácie,
+
+l) pripájanie alebo odtlačenie značiek, štítkov, loga a iných rozlišovacích označení na výrobky alebo ich obaly,
+
+m) jednoduché miešanie výrobkov aj odlišného druhu,
+
+n) jednoduché skladanie častí predmetov s cieľom vytvoriť kompletný výrobok alebo rozloženie výrobku na časti,
+
+o) kombinácia dvoch alebo viacerých operácií uvedených v písmenách a) až n),
+
+p) porážka zvierat.
+
+Ustanovenie odseku 2 tým nie je dotknuté.
+
+- 2. Všetky operácie uskutočnené na príslušnom výrobku v Spoločenstve alebo v Slovenskej republike sa posudzujú spoločne pri rozhodovaní, či sa opracovanie alebo spracovanie uskutočnené na ňom považuje za nedostatočné podľa odseku 1.
 
 Článok 8
 
@@ -314,7 +328,7 @@ a) ak ide o výrobky zaradené do kapitol 25 až 49 a 64 až 97 Harmonizovaného
 
 b) ak ide o výrobky zaradené do kapitol 50 až 63 Harmonizovaného systému, zachová sa 10 % sadzba colných platieb alebo nižšia sadzba, ktorá je platná v Slovenskej republike.
 
-Tento odsek sa bude uplatňovať do 31. decembra 2000 a môže sa po vzájomnej dohode prehodnotiť.
+Ustanovenia tohto odseku sa budú uplatňovať do 31. decembra 2001.
 
 HLAVA V
 
@@ -399,6 +413,22 @@ Vydanie duplikátu sprievodného osvedčenia EUR. 1
 Vydanie sprievodného osvedčenia EUR. 1 na základe skôr vydaného alebo vystaveného dôkazu o pôvode
 
 Ak sú pôvodné výrobky pod dohľadom colných orgánov Spoločenstva alebo Slovenskej republiky, možno nahradiť pôvodný dôkaz o pôvode jedným alebo viacerými osvedčeniami EUR. 1 na účely odoslania všetkých alebo časti výrobkov na iné územie v rámci Spoločenstva alebo Slovenskej republiky. Náhradu sprievodného (sprievodných) osvedčenia (osvedčení) EUR. 1 vydá colný úrad, pod ktorého dohľadom sa tovar nachádza.
+
+Článok 20a
+
+Účtovné delenie
+
+1. Ak z oddeleného skladovania zásob pôvodných a nepôvodných materiálov, ktoré sú rovnaké a vzájomne zameniteľné, vzniknú značné náklady alebo materiálové problémy, môžu colné orgány na základe písomnej žiadosti príslušnej osoby povoliť používanie metódy takzvaného „účtovného delenia“ na spravovanie takých zásob.
+
+2. Metóda musí zabezpečiť, že v určitom referenčnom období množstvo získaných výrobkov, ktoré sa môžu považovať za „pôvodné“, bude rovnaké ako to, ktoré by sa získalo pri fyzickom delení zásob.
+
+3. Colné orgány môžu podmieniť udelenie takého povolenia podmienkami, ktoré považujú za účelné.
+
+4. Táto metóda sa zaznamenáva a uplatňuje na základe všeobecných účtovníckych princípov uplatňovaných v krajine, kde sa výrobok vyrobil.
+
+5. Držiteľ takého povolenia môže požiadať o dôkaz o pôvode, prípadne ak je to možné, vystaviť taký dôkaz na množstvo výrobkov, ktoré sa môžu považovať za pôvodné. Na požiadanie colných orgánov držiteľ poskytne prehľad, ako boli množstvá výrobkov spravované.
+
+6. Colné orgány budú monitorovať používanie povolenia a môžu ho kedykoľvek odobrať, ak držiteľ toto oprávnenie nesprávne použije alebo ak neplní iné podmienky uvedené v tomto protokole.
 
 Článok 21
 
@@ -504,15 +534,17 @@ Nezrovnalosti a formálne chyby
 
 - Článok 30
 
-Sumy vyjadrené v euro
+Sumy vyjadrené v eurách
 
-- 1. Sumy v národnej mene vyvážajúcej krajiny, ktoré zodpovedajú sumám vyjadreným v euro, určí vyvážajúca krajina a oznámi ich dovážajúcim krajinám prostredníctvom Európskej komisie.
+- 1. Na uplatnenie ustanovení článku 21.1 písm. b) a článku 26.3 v prípadoch, ak sú výrobky fakturované v inej mene ako v eurách, sumy v národných menách krajín uvedených v článkoch 3 a 4, ktoré zodpovedajú sumám vyjadreným v eurách, ročne určí každá z príslušných krajín.
 
-- 2. Ak tieto sumy prevyšujú zodpovedajúce sumy určené dovážajúcou krajinou, uzná ich táto krajina za predpokladu, ak sú výrobky fakturované v mene vyvážajúcej krajiny. Ak sú výrobky fakturované v mene niektorej členskej krajiny Európskeho spoločenstva alebo jednej z krajín uvedených v článkoch 3 a 4, uzná dovážajúca krajina sumu oznámenú touto krajinou.
+- 2. Na zásielku sa uplatnia ustanovenia článku 21.1 písm. b) alebo článku 26.3 s poukazom na menu, v ktorej je vystavená faktúra podľa sumy určenej príslušnou krajinou.
 
-- 3. Sumy, ktoré sa majú použiť v ktorejkoľvek národnej mene, budú protihodnotou tejto národnej meny voči euru podľa kurzu platného v prvý pracovný deň mesiaca októbra roku 1999.
+- 3. Sumy vyjadrené v národnej mene sú ekvivalentom tejto národnej meny voči euru podľa kurzu platného v prvý pracovný deň mesiaca októbra. Sumy sa oznámia Európskej komisii do 15. októbra a použijú sa od 1. januára nasledujúceho roka. Európska komisia oznámi zodpovedajúce sumy všetkým príslušným krajinám.
 
-- 4. Sumy vyjadrené v euro a ich protihodnoty v národných menách členských štátov a Slovenskej republiky preskúma Asociačný výbor, ak o to požiada Spoločenstvo alebo Slovenská republika. Pri preskúmavaní Asociačný výbor zabezpečí, že nedôjde k zníženiu súm, ktoré sa majú použiť v národnej mene a okrem toho posúdi potrebu zachovania účinkov týchto limitov v reálnych hodnotách. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v euro.
+- 4. Krajina môže zaokrúhliť nahor alebo nadol sumy, ktoré sú výsledkom prepočtu súm vyjadrených v eurách na národnú menu. Zaokrúhlená suma sa od sumy, ktorá je výsledkom prepočtu, nesmie odlišovať o viac ako 5 %. Krajina môže ponechať nezmenené sumy ekvivalentov v národnej mene k sumám vyjadreným v eurách, ak v čase ročnej úpravy podľa odseku 3 prepočítané sumy v národnej mene pred zaokrúhlením nahor nie sú vyššie o viac ako 15 %. Sumy ekvivalentov v národnej mene sa môžu ponechať nezmenené, ak by výsledkom prepočtu bolo zníženie hodnoty ekvivalentu.
+
+5. Sumy vyjadrené v eurách preskúma Asociačný výbor, ak o to požiada Spoločenstvo alebo Slovenská republika. V prípade zmien po tomto preskúmaní Asociačný výbor posúdi potrebu zachovať rovnocenné účinky týchto limitov. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v eurách.
 
 HLAVA VI
 
