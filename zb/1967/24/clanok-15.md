@@ -22,7 +22,7 @@ Podmienky pre zníženie dane
 
 - cc) mzda poberaná od ďalších platiteľov nepresahuje u žiadneho z nich 200 Kčs mesačne a že u žiadneho z nich daňovník neuplatňuje oslobodenie podľa § 11 ods. 1 zákona (daneprosté minimum),
 
-- c) že osoba ním vyživovaná (okrem manželky, družky, manžela, druha a maloletých detí) nemá vlastný príjem presahujúci sumu 400 Kčs mesačne.
+- c) že osoba ním vyživovaná (okrem manželky, družky, manžela, druha a maloletých detí) nemá vlastný príjem presahujúci sumu 620 Kčs mesačne.
 
 (6) Ak dôjde počas roka k zmenám skutočností rozhodujúcich pre zvýšenie a zníženie dane, daňovník je povinný oznámiť ich platiteľovi najneskoršie posledný deň mzdového obdobia, v ktorom zmena nastala.
 
