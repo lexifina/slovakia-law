@@ -1,1 +1,0 @@
-Knotek v. r.
