@@ -1,0 +1,1 @@
+Miroslav Lipár v. r.
