@@ -86,7 +86,7 @@ Príloha č. 2
 
   - 2.05 vedúci (náčelník) oddelenia, vedúci skupiny (úseku) | 5 % až 12 %
 
-  - TRETIA ČASŤ SLOVENSKÁ INFORMAČNÁ SLUŽBA
+  - TRETIA ČASŤ NAJVYŠŠÍ BEZPEČNOSTNÝ ÚRAD A SLOVENSKÁ INFORMAČNÁ SLUŽBA
 
   - Funkcia | Percentuálny podiel príplatku za riadenie mesačne
 
