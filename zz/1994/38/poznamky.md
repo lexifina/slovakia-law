@@ -1,0 +1,1 @@
+- 1) Zákon č. 46/1991 Zb. o zvyšovaní dôchodkov v znení zákona Národnej rady Slovenskej republiky č. 97/1993 Z. z. a zákona Národnejĺ rady Slovenskej republiky č. 285/1993 Z. z.
