@@ -1,1 +1,0 @@
-Inž. Laipert v. r.
