@@ -7,3 +7,5 @@ Do § 22 ods. 3 sa vkladá ďalšie ustanovenie tohto znenia:
 „12.
 
 sa splnomocňuje, aby pre niektoré vedľajšie alebo príležitostné zamestnania určilo daň paušálnou sadzbou nepresahujúcou najvyššiu prípustnú sadzbu.“.
+
+Čl. II - Zrušený od 1. 1. 1960.
