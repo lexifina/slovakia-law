@@ -1,0 +1,1 @@
+- STÁTNÍ ROZPOČET REPUBLIKY ČESKOSLOVENSKÉ NA ROK 1947 [Image omitted: https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/1946/234/19470101_1079759-2.pdf; Príloha 01 (príloha v PDF); reason: too large]
