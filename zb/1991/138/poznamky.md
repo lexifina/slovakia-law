@@ -36,6 +36,12 @@
 
 - 15) § 3 ods. 3 písm. h) a i) zákona SNR č. 518/1990 Zb.
 
+- 15a) Zákonné opatrenie Predsedníctva Federálneho zhromaždenia č. 364/1990 Zb. o nakladaní s majetkom zvereným štátnemu podniku.
+
+- § 45 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 15b) § 32 ods. 3 zákona č. 111/1990 Zb. o štátnom podniku.
+
 - 16) § 3 ods. 2 písm. d) zákona SNR č. 518/1990 Zb.
 
 - 17) Napr. § 12 a nasl. Hospodárskeho zákonníka a § 136 a nasl. Občianskeho zákonníka.
@@ -45,6 +51,10 @@
 - § 2 ods. 2 zákona SNR č. 401/1990 Zb.
 
 - 19) Zákon č. 111/1990 Zb. o štátnom podniku.
+
+- 19a) § 2 zákona Slovenskej národnej rady č. 518/1990 Zb.
+
+- 19b) § 32 ods. 2 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
 - 20) Čl. 4 ods. 3 ústavného zákona č. 143/1968 Zb. v znení neskorších predpisov.
 
@@ -58,7 +68,9 @@
 
 - § 4 zákona SNR č. 517/1990 Zb. o územnom členení Slovenskej republiky.
 
-- 24) Napr. § 25 devízového zákona č. 528/1990 Zb.
+- 24) Napr. zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplné znenie č. 47/1992 Zb.), zákon č. 513/1991 Zb. Obchodný zákonník,
+
+- § 25 devízového zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb. (úplné znenie č. 457/1992 Zb.).
 
 - 25) § 1 zákona SNR č. 472/1990 Zb. o organizácii miestnej štátnej správy.
 
@@ -69,6 +81,8 @@
 - § 10 zákona SNR č. 401/1990 Zb.
 
 - 26) § 4 a nasl. zákona č. 427/1990 Zb.
+
+- 26a) § 659 a nasl. Občianskeho zákonníka.
 
 - 27) Zákon č. 279/1949 Zb. o finančnom hospodárení národných výborov.
 
@@ -99,3 +113,5 @@
 - Zákon č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení zákona SNR č. 131/1991 Zb. a zákona SNR č. 510/1991 Zb.
 
 - Zákon č. 44/1988 Zb. v znení zákona SNR č. 498/1991 Zb.
+
+- 33) § 76 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
