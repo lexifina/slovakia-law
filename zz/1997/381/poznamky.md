@@ -2,7 +2,7 @@
 
 - 2) § 26 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
-- 2a) Čl. 27 Dohovoru o právnom postavení osôb bez štátnej príslušnosti (oznámenie č. 206/2001 Z. z.).
+- 2a) Rozhodnutie zástupcov vlád členských štátov Európskej únie, ktorí sa zišli na zasadaní Rady Európskej únie o zavedení náhradného cestovného dokladu č. 96/409/SZBP z 25. júna 1996.
 
 - 2b) Čl. 28 Dohovoru o právnom postavení utečencov (oznámenie č. 319/1996 Z. z.).
 

@@ -1,0 +1,3 @@
+# § 10a Náhradný cestovný doklad Európskej únie
+
+Náhradný cestovný doklad Európskej únie vydáva zastupiteľský úrad na žiadosť občana Európskej únie. Podmienky vydávania a použitia náhradného cestovného dokladu Európskej únie ustanovuje osobitný predpis.<sup>2a</sup>)
