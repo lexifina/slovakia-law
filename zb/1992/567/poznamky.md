@@ -8,6 +8,10 @@
 
 - 4) Napr. zákon SNR č. 310/1992 Zb. o stavebnom sporení.
 
+- 4a) Zákon č. 563/1991 Zb. o účtovníctve.
+
+- 4b) § 53 a nasl. zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
 - 5) Zákon SNR č. 84/1991 Zb. o daňových orgánoch v znení zákona SNR č. 136/1992 Zb.
 
 - 5b) Zákon Slovenskej národnej rady č. 518/1990 Zb. o prechode zakladateľskej alebo zriaďovateľskej funkcie národných výborov na obce, ústredné orgány štátnej správy a orgány miestnej štátnej správy.
@@ -15,8 +19,6 @@
 - 6) § 4 zákona SNR č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 7) Napr. zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 8) Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb.
 
 - 9) Napr. zákon č. 172/1990 Zb. o vysokých školách.
 
@@ -49,3 +51,5 @@
 - Zákon č. 563/1991 Zb. o účtovníctve.§ 40r zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.§ 5 zákona Národnej rady Slovenskej republiky č. 160/1993 Z. z. o niektorých opatreniach pri vzájomnom započítavaní pohľadávok podnikateľov.
 
 - 11) Napr. zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 12) § 1 ods. 1 písm. e) zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
