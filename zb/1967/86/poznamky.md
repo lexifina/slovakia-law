@@ -7,3 +7,9 @@
 - *) Zákon č. 101/1964 Zb. o sociálnom zabezpečení a jeho vykonávacie predpisy.
 
 - **) § 89 zákona č. 101/1964 Zb. a § 123 a ďalšie vyhlášky č. 102/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
+
+- *) § 8 Zákonníka práce č. 65/1965 Zb.
+
+- *) Čl. 28 písm. a) až c) a čl. 24 stanov výrobného družstva.
+
+- ***) Uznesenie Predsedníctva Ústredného zväzu výrobných družstiev z 21. decembra 1965 č. 754 o úprave pracovnoprávnych vzťahov členov výrobných družstiev.
