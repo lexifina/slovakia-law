@@ -4,9 +4,13 @@
 
 - **) Záväzné limity sa ustanovujú ako maximálne, t. j. hornou hranicou.
 
+- *) Vyhláška Ministerstva práce a sociálnych vecí ČSSR č. 174/1969 Zb. o usmerňovaní mzdového vývoja a o zásadách odmeňovania práce.
+
 - *) Jednotná účtovná osnova v národnom hospodárstve (Vestník ÚKĽKŠ, čiastka 13 až 14/1966).
 
 - **) Netýka sa poistného nemocenského poistenia.
+
+- *) Paragraf 3 zákona č. 133/1969 Zb., ktorým sa ustanovujú zásady pre zákony národných rád o podnikových daniach a príspevku na sociálne zabezpečenie a príslušné zákony národných rád.
 
 - ***) V priemysle a v stavebníctve je sadzba odvodu z hrubého dôchodku 18 %; odvod zo zisku tvorí 32 % zo zisku a 15 % vypočítaných z objemu všetkých výplat z fondu pracujúcich.
 
@@ -31,6 +35,8 @@
 - *) Predpisy upravujúce prirážku k poistnému nemocenského poistenia.
 
 - **) Zákon č. 53/1966 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
+
+- *) Paragraf 1 ods. 1 písm. c) zákona č. 159/1968 Zb. o dôchodkovej dani.
 
 - *) Dotácie treba zaradiť do návrhu finančného plánu.
 
