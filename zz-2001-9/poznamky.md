@@ -1,0 +1,1 @@
+- 1) Napr. vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 406/1992 Zb. o požiadavkách na obmedzenie ožiarenia z radónu a ďalších prírodných rádionuklidov.
