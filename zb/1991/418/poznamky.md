@@ -48,9 +48,9 @@
 
 - 6) § 12 ods. 1 zákona č. 141/1961 Zb. o trestnom konaní súdom (Trestný poriadok) v znení neskorších predpisov.
 
-- 7) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámenía podnetov pracujúcich.
+- 7) Zákon č. 85/1990 Zb. o petičnom práve.
 
-- 8) Zákon č. 85/1990 Zb. o petičnom práve.
+- 8) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
 
 - 9) Napr.:
 
@@ -66,23 +66,23 @@
 
 - Zákon č. 111/1990 Zb. o štátnom podniku v znení zákona č. 92/1991 Zb.
 
-- 10) § 5 ods. 1 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení zákona SNR č. 130/1991 Zb.
+- 10) § 5 ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 11) § 7 ods. 1 zákona SNR č. 138/1991 Zb. o majetku obcí.
 
 - 12) § 7 ods. 2 zákona SNR č. 369/1990 Zb.
 
-- 13) Napr. zákon č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb.
+- 13) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
-- 14) Zákon SNR č. 472/1990 Zb.
+- 14) Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy v znení neskorších predpisov.
 
-- 15) § 5 zákona SNR č. 369/1990 Zb.
+- 15) § 5 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
-- § 25 zákona SNR č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení zákona SNR č. 523/1990 Zb. a zákona SNR č. 130/1991 Zb.
+- § 25 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
-- § 20 ods. 2 zákona SNR č. 401/1990 Zb. o meste Košice v znení zákona SNR č. 130/1991 Zb.
+- § 20 ods. 2 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
 
-- 16) § 4 písm. ch) a § 32 písm. f) zákona SNR č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení zákona SNR č. 133/1990 Zb., zákonného opatrenia Predsedníctva SNR č. 246/1990 Zb. a zákona SNR č. 268/1991 Zb.
+- 16) § 4 písm. ch) a § 32 písm. f) zákona Slovenskej národnej rady č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení neskorších predpisov.
 
 - 17) Napr.:
 
