@@ -46,6 +46,8 @@
 
     - 3. červec San José - Aspidiotus perniciosus Comst.
 
+    - 4. priastevník americký.
+
   - Choroby:
 
     - 1. rakovina zemiaková - Synchytrium endobioticum Pers,
