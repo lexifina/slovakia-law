@@ -1,0 +1,1 @@
+- 1) § 3 ods. 4 písm. a) vyhlášky Úradu pre normalizáciu a meranie č. 33/1968 Zb. o overovaní zbraní a schvaľovaní streliva pre civilnú potrebu.
