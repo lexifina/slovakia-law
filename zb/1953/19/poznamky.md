@@ -1,0 +1,1 @@
+- *) Vládne nariadenie č. 131/1950 Zb. v znení nariadenia č. 18/1953 nadobúda účinnosť dňom 1. apríla 1953.
