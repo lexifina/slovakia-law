@@ -28,7 +28,9 @@
 
 - 13) § 26 ods. 1 zákona č. 1/1991 Zb.
 
-- 14) Zákon č. 73/1990 Zb. o civilnej službe.
+- 13a) § 97 ods. 4 Zákonníka práce.
+
+- 14) § 23 a 25 zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení zákona Národnej rady Slovenskej republiky č. 319/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 189/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 197/1995 Z. z.
 
 - 15) § 10 zákona č. 1/1991 Zb.
 
