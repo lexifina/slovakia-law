@@ -1,0 +1,1 @@
+- *) S účinností od 3.6.1948 se v řízení o přestupku postupuje podle zákona č. 112/1948 Sb.
