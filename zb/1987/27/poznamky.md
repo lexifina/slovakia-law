@@ -1,4 +1,6 @@
-- 1) § 117, § 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 1a) § 117, § 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+
+- 1) § 18 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
 
 - 2) Zákon č. 22/1964 Zb. o evidencii nehnuteľností v znení zákona SNR č. 150/1983 Zb.
 
