@@ -1,0 +1,3 @@
+# Čl. VII
+
+Toto zákonné opatrenie nadobúda účinnosť dňom vyhlásenia; vykonajú ho všetci členovia vlády.
