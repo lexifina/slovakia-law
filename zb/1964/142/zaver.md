@@ -1,0 +1,3 @@
+Minister:
+
+Odvárka v. r.
