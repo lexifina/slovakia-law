@@ -1,3 +1,0 @@
-Predseda:
-
-Dolanský v. r.
