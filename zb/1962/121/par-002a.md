@@ -1,3 +1,5 @@
 # § 2a
 
-Hospodárska arbitráž prerokúva a rozhoduje spory o tom, či má organizácii poskytnúť jej riadiaci orgán úhradu pri uložení mimoriadnej záväznej úlohy podľa predpisov o plánovitom riadení národného hospodárstva*), a spory o výške tejto úhrady.
+(1) Hospodárska arbitráž prerokúva a rozhoduje aj hospodárske spory o náhradu škody medzi organizáciami a orgánom hospodárskeho riadenia v prípadoch, v ktorých podľa osobitných predpisov tento orgán za škodu zodpovedá.*)
+
+(2) Vláda môže ustanoviť, v ktorých ďalších prípadoch hospodárska arbitráž prerokúva a rozhoduje spory medzi orgánmi hospodárskeho riadenia a organizáciami, ktoré vznikajú pri riadení.
