@@ -30,6 +30,8 @@
 
 - 6ai) § 3 ods. 1 písm. f) až n) zákona č. 163/2001 Z. z.
 
+- 6aia) § 4 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
 - 6aj) § 2a písm. d) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 158/2001 Z. z.
 
 - 6ak) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
@@ -72,7 +74,7 @@
 
 - 8) Napr. zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
-- 9) § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení zákona č. 23/2002 Z. z.
+- 9) § 2 ods. 3 a § 6 ods. 2 písm. b) druhý bod zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 9a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 

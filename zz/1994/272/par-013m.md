@@ -10,7 +10,7 @@
 
 (3) Fyzické osoby oprávnené na podnikanie<sup>4</sup>) a právnické osoby, ktoré prevádzkujú zariadenie spoločného stravovania (ďalej len „prevádzkovateľ zariadenia spoločného stravovania“), sú povinné zabezpečiť, aby do výrobných a skladovacích priestorov nevstupovali neoprávnené osoby, a zamedziť vodeniu a vpúšťaniu zvierat do priestorov zariadenia spoločného stravovania okrem priestorov určených na konzumáciu stravy, do ktorých môžu vstupovať zrakovo postihnuté osoby aj v sprievode vodiaceho psa.
 
-(4) Pri výrobe pokrmov v zariadení spoločného stravovania musí byť zabezpečená ich zdravotná neškodnosť, zachovaná ich výživová a zmyslová hodnota a vylúčené nežiaduce vplyvy z technologického postupu prípravy pokrmov. Prevádzkovateľ zariadenia spoločného stravovania je povinný postupovať pri výrobe pokrmov a nápojov podľa zásad správnej výrobnej praxe a dodržiavať požiadavky na výrobu, prípravu a podávanie pokrmov a nápojov.
+(4) Pri výrobe pokrmov v zariadení spoločného stravovania musí byť zabezpečená ich zdravotná neškodnosť, zachovaná ich výživová a zmyslová hodnota a vylúčené nežiaduce vplyvy z technologického postupu prípravy pokrmov. Prevádzkovateľ zariadenia spoločného stravovania je povinný postupovať pri výrobe pokrmov a nápojov podľa zásad správnej výrobnej praxe podľa osobitného predpisu<sup>6aia</sup>) a dodržiavať požiadavky na výrobu, prípravu a podávanie pokrmov a nápojov.
 
 (5) Prevádzkovateľ zariadenia spoločného stravovania je ďalej povinný
 
