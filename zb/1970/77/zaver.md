@@ -1,3 +1,0 @@
-Minister:
-
-Štanceľ v. r.
