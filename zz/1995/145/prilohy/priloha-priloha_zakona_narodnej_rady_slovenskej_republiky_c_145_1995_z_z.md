@@ -2290,11 +2290,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 153
 
-  - a) Žiadosť o oznámenie novej chemickej látky alebo novej chemickej látky obsiahnutej v chemickom prípravku ........................................................................................................................... | 3 000 Sk
+  - a) Oznámenie novej chemickej látky, ktorá sa bude uvádzať ročne na trh v množstve |
 
-  - d) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky alebo prípravku ... | 20 000 Sk
+  - 1. menšom ako 0,1 t ................................................................................................................................ | 10 000 Sk
 
-  - Poznámka Poplatok tejto položky sa vzťahuje na chemický prípravok, ktorý sa skladá z dvoch chemických látok. Za každú ďalšiu chemickú látku obsiahnutú v chemickom prípravku sa príslušná sadzba poplatku zvyšuje o 25 %. |
+  - 2. 0,1 t až v množstve menšom ako 1 t ................................................................................................. | 20 000 Sk
+
+  - 3. 1 t až v množstve menšom ako 10 t .................................................................................................. | 30 000 Sk
+
+  - 4. 10 t až v množstve menšom ako 100 t ............................................................................................. | 40 000 Sk
+
+  - 5. 100 t až v množstve menšom ako 1 000 t ....................................................................................... | 50 000 Sk
+
+  - 6. 1 000 t a v množstve nad 1 000 t ....................................................................................................... | 60 000 Sk
+
+  - b) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky .................................. | 20 000 Sk
+
+  - c) Žiadosť o zvláštne označovanie obalov nebezpečných chemických látok a nebezpečných chemických prípravkov<sup>36r</sup>) ......................................................................................................................... | 5 000 Sk
+
+  - Poznámky 1. Poplatok podľa písmena a) tejto položky sa vzťahuje aj na chemické látky obsiahnuté v chemickom prípravku. 2. Pri predložení dodatkovej dokumentácie k oznámeniu o dosiahnutí väčšieho množstva uvádzania novej chemickej látky ročne na trh alebo celkovo<sup>36s</sup>) je poplatník povinný doplatiť rozdiel poplatku podľa písmena a) bodov 1 až 6. 3. Poplatok podľa písmena a) tejto položky sa znižuje v prípade medziproduktu o 50 %. |
 
     - Položka 153a
 
@@ -2306,7 +2320,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 4. Vydanie rozhodnutia o autorizácii biocídneho výrobku alebo vydanie rozhodnutia registrácie biocídneho výrobku s nízkym rizikom na základe vzájomného uznania .................................................. | 50 000 Sk
 
-  - Poznámka 1. Centrum pre chemické látky a prípravky vyberie poplatok podľa prvého bodu za žiadosť podanú podľa § 4 ods. 2 zákona č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov. 2. Centrum pre chemické látky a prípravky vyberie poplatok podľa druhého bodu za žiadosť podanú podľa § 4 ods. 4 zákona č. 217/2003 Z. z. 3. Centrum pre chemické látky a prípravky vyberie poplatok podľa tretieho bodu za žiadosť podanú podľa § 11 ods. 1 písm. c), § 7 ods. 9 zákona č. 217/2003 Z. z. 4. Centrum pre chemické látky a prípravky vyberie poplatok podľa štvrtého bodu za žiadosť podanú podľa § 10 zákona č. 217/2003 Z. z. |
+  - 5. Vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh ............................................... | 5 000 Sk
+
+  - 6. Hodnotenie novej účinnej látky pred jej uvedením na trh ...................................................................... | 6 000 000 Sk
+
+  - Poznámka 1. Centrum pre chemické látky a prípravky vyberie poplatok podľa prvého bodu za žiadosť podanú podľa § 4 ods. 2 zákona č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov. 2. Centrum pre chemické látky a prípravky vyberie poplatok podľa druhého bodu za žiadosť podanú podľa § 4 ods. 4 zákona č. 217/2003 Z. z.3. Centrum pre chemické látky a prípravky vyberie poplatok podľa tretieho bodu za žiadosť podanú podľa § 11 ods. 1 písm. c), § 7 ods. 9 zákona č. 217/2003 Z. z.4. Centrum pre chemické látky a prípravky vyberie poplatok podľa štvrtého bodu za žiadosť podanú podľa § 10 zákona č. 217/2003 Z. z. 5. Centrum pre chemické látky a prípravky vyberie poplatok podľa piateho bodu za žiadosť podanú podľa § 9 zákona č. 217/2003 Z. z. 6. Poplatok podľa šiesteho bodu tejto položky vyberie Centrum pre chemické látky a prípravky. |
 
     - Položka 154
 
@@ -3110,13 +3128,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 213
 
-  - a) Overenie platnosti puncovej značky ............................................................................................. | 100 Sk
+  - a) Vydanie rozhodnutia o pridelení výrobnej značky a zodpovednostnej značky na tovar z drahých kovov .......................... | 200 Sk
 
-  - b) Vydanie rozhodnutia o pridelení výrobnej značky na tovar z drahých kovov .......................... | 200 Sk
+  - b) Vydanie rozhodnutia o zrušení pridelenej výrobnej značky a zodpovednostnej značky na tovar z drahých kovov .................... | 100 Sk
 
-  - c) Vydanie rozhodnutia o zrušení pridelenej výrobnej značky na tovar z drahých kovov ......... | 100 Sk
-
-  - d) Vydanie osvedčenia o zápise klenotníckej zliatiny do zoznamu registrovaných zliatin ...... | 400 Sk
+  - c) Vydanie osvedčenia o zápise klenotníckej zliatiny do zoznamu registrovaných zliatin ................ | 400 Sk
 
   - Poznámka Podľa tejto položky poplatky vyberá Puncový úrad Slovenskej republiky. |
 
