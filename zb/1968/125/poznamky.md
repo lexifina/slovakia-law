@@ -1,1 +1,0 @@
-- *) Z preddavkov podielov na hospodárskych výsledkoch sa zrazí daň zo mzdy preddavkove v tých prípadoch, v ktorých možno predpokladať, že by sa zo súm podielu pri jeho účtovaní neuhradila daň zo mzdy z celého podielu.
