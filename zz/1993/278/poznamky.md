@@ -24,11 +24,9 @@
 
 - 9a) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
-- 10) Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
+- 10) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
-- Zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
-
-- Vyhláška Slovenského úradu geodézie, kartografie a katastra č. 594/1992 Zb., ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+- Vyhláška Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych alebo iných práv k nehnuteľnostiam (katastrálny zákon) v znení vyhlášky č. 72/1997 Z. z.
 
 - 10a) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
@@ -44,13 +42,19 @@
 
 - 13aa) Napríklad zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 13ab) Zákon č. 231/1999 Z. z. o štátnej pomoci.
+
+- 13ac) § 108 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 13ad) § 2 ods. 2 a 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+
 - 13b) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
 - 13c) Napr. § 140 Občianskeho zákonníka.
 
-- 13d) § 18 ods. 2 a ods. 3 písm. b) zákona č. 195/1998 Z. z. o sociálnej pomoci.
+- 13d) § 18 ods. 2 a ods. 3 písm. c) zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 13e) § 24 ods. 1 písm. a) až p) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 13e) § 24 ods. 1 písm. a) až r) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 13f) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
@@ -74,6 +78,10 @@
 
 - 17c) § 602 a § 603 ods. 2 a 3 Občianskeho zákonníka.
 
+- 17d) § 18 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
+
+- 17e) § 2 ods. 2 zákona č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty.
+
 - 18) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 18a) § 4 zákona Slovenskej národnej rady č. 27/1987 Zb.
@@ -92,7 +100,15 @@
 
 - 23a) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
+- 23aa) § 151n Občianskeho zákonníka.
+
+- 23ab) § 154 až 220 Obchodného zákonníka.
+
 - 23b) § 829 a nasl. Občianskeho zákonníka.
+
+- 23ba) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- 23bb) Zákon č. 440/2000 Z. z. o správach finančnej kontroly.
 
 - 23c) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
