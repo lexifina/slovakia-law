@@ -15,3 +15,5 @@
 (4) Deti žiadateľov o priznanie postavenia utečenca a deti utečencov zaraďuje do príslušného ročníka riaditeľ školy po zistení úrovne ich doterajšieho vzdelania a ovládania štátneho jazyka.
 
 (5) Pre deti žiadateľov o priznanie postavenia utečenca v utečeneckých táboroch, ktorých školská dochádzka podľa zákonov Slovenskej republiky je povinná, kurzy základov slovenského jazyka odborne a finančne zabezpečuje Ministerstvo vnútra Slovenskej republiky.
+
+(6) Vzdelávanie pedagogických zamestnancov detí a mládeže podľa odseku 1 odborne, organizačne, metodicky a finančne zabezpečuje ministerstvo školstva.

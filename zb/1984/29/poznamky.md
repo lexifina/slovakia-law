@@ -8,6 +8,8 @@
 
 - 1d) § 29 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
 
+- 1da) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 1e) § 4 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
 - 1f) Zákon č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
@@ -39,6 +41,14 @@
 - 4ab) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 4b) § 21 a 23 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
+
+- 4c) § 22 zákona č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 4d) § 21 zákona č. 279/1993 Z. z. v znení neskorších predpisov.
+
+- 4e) § 25 ods. 2 zákona č. 279/1993 Z. z. v znení neskorších predpisov.
+
+- 4f) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
 
 - 5) § 10 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
 
