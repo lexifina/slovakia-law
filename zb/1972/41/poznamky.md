@@ -8,11 +8,9 @@
 
 - *) § 20 zákona č. 21/1971 Zb.
 
-- **) § 23 ods. 2 zákona č. 21/1971 Zb.
-
 - *) § 18 zákona č. 21/1971 Zb.
 
-- 1) § 3a zákona č. 21/1971 Zb. o jednotnej sústave sociálno-ekonomických informácií v znení zákona č. 128/1989 Zb.
+- 1) § 6 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení.
 
 - 2) § 14 ods. 2 zákona č. 21/1971 Zb. v znení zákona č. 128/1989 Zb.
 
