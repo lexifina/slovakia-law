@@ -8,8 +8,14 @@ z 29. júna 1977
 
 Federálne zhromaždenie Československej socialistickej republiky sa uznieslo na tomto zákone:
 
-## PRVÁ ČASŤ
-
-## 
+PRVÁ ČASŤ
 
 VŠEOBECNÉ USTANOVENIA
+
+DRUHÁ ČASŤ
+
+VÝCHOVA NOVÝCH VEDECKÝCH PRACOVNÍKOV
+
+TRETIA ČASŤ
+
+ŠTUDIJNÉ POBYTY
