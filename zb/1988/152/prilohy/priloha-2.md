@@ -62,6 +62,4 @@ Příloha č. 2 k vyhlášce č. 152/1988 Sb.
 
   - (4) U nemocí a vad neuvedených v této příloze, pokud podstatně omezují pohybovou nebo orientační schopnost, se funkční postižení porovnává s indikacemi uvedenými v odstavcích 1 až 3.
 
-  - (5) Mimořádné výhody se přiznávají také mladistvým od 6 let.
-
-  - (6) Dětem mladším 6 let se mimořádné výhody přiznávají výjimečně, jestliže jsou pro svůj dlouhodobě nepříznivý zdravotní stav v soustavné péči specializovaného zařízení a musí-li tam být dopravovány denně, případně týdně, jsou-li ubytovány v internátě s týdenním provozem mimo místo svého trvalého pobytu.
+  - (5) Dětem mladším 6 let se mimořádné výhody přiznávají výjimečně, jestliže jsou pro svůj dlouhodobě nepříznivý zdravotní stav v soustavné péči specializovaného zařízení a musí-li tam být dopravovány denně, případně týdně, jsou-li ubytovány v internátě s týdenním provozem mimo místo svého trvalého pobytu.
