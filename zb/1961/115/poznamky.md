@@ -6,6 +6,4 @@
 
 - †) Nariadenie ministra financií č. 30/1957 Zb. o notárskych poplatkoch.
 
-- ††) Nariadenie ministra financií č. 78/1958 Zb., ktorým sa určujú arbitrážne poplatky.
-
 - *) Doterajšie kolkové známky boli vydané podľa vyhlášky Ministerstva financií z 29. januára 1958 č. 12 Ú. l. (Ú. v.) o vydaní nových kolkových známok.
