@@ -1,20 +1,22 @@
-- 1) Ide najmä o tieto predpisy:
+- 1) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia v znení neskorších predpisov.
 
-- zákon č.20/1966 Zb. o starostlivosti o zdravie ľudu,
+- 1b) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb., zákona č. 455/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
-- zákon č.54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov,
+- 1c) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- zákon č.88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov,
+- 1d) Napríklad zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii. Zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení zákona Národnej rady Slovenskej republiky č. 149/1994 Z. z.
 
-- zákon č.103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení neskorších predpisov,
+- 1e) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov.
 
-- zákon č.32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov,
+- 1f) Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
-- zákon č.107/1971 Zb. o materskom príspevku v znení neskorších predpisov,
+- 1g) Napríklad zákon č. 96/1991 Zb. o verejných kultúrnych podujatiach.
 
-- zákon č.50/1973 Zb. o pestúnskej starostlivosti v znení neskorších predpisov,
+- 1h) § 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
-- zákon č.98/1987 Zb. o osobitnom príspevku baníkom.
+- 1ch) Napríklad zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky.Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe.Zákon Národnej rady Slovenskej republiky č. 61/1993 Z. z. o zriadení Železničnej polície Slovenskej republiky. Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+
+- 1i) § 39 až 59 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 2) Dekrét č. 53/1945 Zb. o odčinení krívd československým verejným zamestnancom.
 
@@ -31,6 +33,16 @@
 - 6) Zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
 
 - 7) Zákon č. 73/1973 Zb. o brannej výchove v znení neskorších predpisov.
+
+- 7a) § 7 a 8 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 578/1991 Zb., zákona č. 231/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 247/1993 Z. z.
+
+- 7b) § 12 až 18 zákona č. 1/1991 Zb. v znení neskorších predpisov.
+
+- 7c) § 3 ods. 2 písm. e) a ods. 3 písm. a) zákona č. 463/1991 Zb. o životnom minime v znení zákona Národnej rady Slovenskej republiky č. 277/1993 Z. z.
+
+- 7d) § 3 ods. 2 písm. e) a ods. 3 písm. b) zákona č. 463/1991 Zb.
+
+- 7e) Zákon č. 463/1991 Zb.
 
 - 8) § 1 ods. 1 č. 1 písm. g) zákona č. 255/1946 Zb.
 
