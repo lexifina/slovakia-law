@@ -1,3 +1,1 @@
-ZÁKLADNÝ LIST ÚKRYTU BUDOVANÉHO SVOJPOMOCNE
-
-[Príloha 03](../assets/0fc0ca424b1c2d5de9123c99ba74011309493d488b5a5d7597acf239bbdf7717.pdf)
+Príloha č. 3 k vyhláške Ministerstva vnútra Slovenskej republiky č. 297/1994 Z. z. [Vzor 03](../assets/a4b8e55db16c0b1cd0836d0805679b8443d85aee481cfe55a0057c2aec28a32f.pdf)

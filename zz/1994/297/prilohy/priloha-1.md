@@ -4,7 +4,7 @@ ZÁKLADNÉ TECHNICKÉ PODMIENKY A POŽIADAVKY NA OCHRANNÉ STAVBY
 
 ČASŤ I
 
-STÁLE ÚKRYTY
+ODOLNÉ ÚKRYTY
 
 A. Dispozičné riešenie
 
@@ -34,7 +34,7 @@ A. Dispozičné riešenie
 
 2.2 Pomocné priestory
 
-2.2.1 strojovňa filtroventilačného zariadenia<sup>1</sup>) 24,0-50,0 m<sup>2</sup>
+2.2.1 strojovňa zariadenia filtrácie a ventilácie<sup>1</sup>) 24,0-50,0 m<sup>2</sup>
 
 2.2.2 miestnosť pre kyslíkové zariadenie<sup>1</sup>) 4,0-5,0 m<sup>2</sup>
 
@@ -96,7 +96,7 @@ B. Plynotesnosť a izolácia proti vode
 
 2.1 navrhuje sa v súlade s požiadavkami na zakladanie stavby a slovenských technických noriem,
 
-2.2 pri návrhu izolácie treba brať do úvahy maximálne výpočtové zaťaženie jednotlivých častí obvodovej konštrukcie tlakovo-plynotesného plášťa stáleho úkrytu.
+2.2 pri návrhu izolácie treba brať do úvahy maximálne výpočtové zaťaženie jednotlivých častí obvodovej konštrukcie tlakovo-plynotesného plášťa odolného úkrytu.
 
 C. Inžiniersko-technické riešenia
 
@@ -106,25 +106,25 @@ C. Inžiniersko-technické riešenia
 
 kde V<sub>1</sub> a V<sub>2</sub> sú výšky náprotivných budov siahajúce po strešnú rímsu, vyjadrené v metroch. Pri jednostrannej zástavbe sa namiesto 6 m pripočítavajú 3 m.
 
-2 Systémy inžiniersko-technického zariadenia stálych úkrytov sa musia navrhovať z typových alebo normalizovaných prvkov.
+2 Systémy inžiniersko-technického zariadenia odolných úkrytov sa musia navrhovať z typových alebo normalizovaných prvkov.
 
 3 Filtoventilačné zariadenie musí zabezpečovať prevádzku v tákladných režimoch
 
-3.1 čiastočná filtroventilácia
+3.1 čiastočná filtrácia a ventilácia
 
-3.2 filtroventilácia
+3.2 filtrácia a ventilácia
 
 3.3 izolácia
 
 3.4 regenerácia<sup>10</sup>)
 
-4 V stálych úkrytoch s kapacitou nad 300 ukrývaných a v stálych úkrytoch s regeneračným zariadním musí byť dodávka elektrickej energie zabezpečená náhrádným zdrojom (DA).
+4 V odolných úkrytoch s kapacitou nad 300 ukrývaných a v odolných úkrytoch s regeneračným zariadním musí byť dodávka elektrickej energie zabezpečená náhrádným zdrojom (DA).
 
-5 Kapacita je daná súčtom miest na ležanie a sedenie ukrývaných, pričom miesta na ležanie musia tvoriť 20 % - 30 % z celkového počtu miest v stálom úkryte.
+5 Kapacita je daná súčtom miest na ležanie a sedenie ukrývaných, pričom miesta na ležanie musia tvoriť 20 % - 30 % z celkového počtu miest v odolnom úkryte.
 
 ČASŤ II
 
-HAVARIJNÉ ÚKRYTY
+PLYNOTESNÉ ÚKRYTY
 
 A. Dispozičné riešenie
 
@@ -158,13 +158,13 @@ B. Inštalačné zariadenia
 
 1.2 izolácia
 
-1.3 filtroventilácia
+1.3 filtrácia a ventilácia
 
-2 V havarijných úkrytoch s kapacitou do 300 ukrývaných sa nevyžaduje dodávka elektrikej energie náhradným zdrojom (DA). V havarijných úkrytoch s kapacitou nad 300 ukrývaných, ak vzduchotechnické zariadenie vyžaduje DA, odporúča sa využívať mierové DA umiestnené v ich okolí.
+2 V plynotesných úkrytoch s kapacitou do 300 ukrývaných sa nevyžaduje dodávka elektrikej energie náhradným zdrojom (DA). V plynotesných úkrytoch s kapacitou nad 300 ukrývaných, ak vzduchotechnické zariadenie vyžaduje DA, odporúča sa využívať mierové DA umiestnené v ich okolí.
 
 ČASŤ III
 
-ÚKRYTY BUDOVANÉ SVOJPOMOCNE
+JEDNODUCHÉ ÚKRYTY BUDOVANÉ SVOJPOMOCNE
 
 A. Dispozičné riešenie
 
@@ -186,7 +186,7 @@ A. Dispozičné riešenie
 
 2.3 priestor na uloženie zamorených odevov 0,07 m<sup>2</sup> podlahovej plochy
 
-2.4 strojovňa vzduchotechniky<sup>17</sup>)
+2.4 strojovňa filtrácie a ventilácie <sup>17</sup>)
 
 B. Technické riešenie
 
@@ -266,13 +266,13 @@ Drevo | 90 | 110
 
 | Hodnoty sú uvedené v cm. |
 
-B. Základné požiadavky na umiestnenie havarijných úkrytov a úkrytov budovaných svojpomocne podľa hodnoty ochranného súčiniteľa stavby
+B. Základné požiadavky na umiestnenie ochranných stavieb podľa hodnoty ochranného súčiniteľa stavby
 
-1 Na území kategórie I, II a III musí ochranný súčiniteľ stavby dosiahnuť hodnotu K<sub>o</sub> = minimálne 100.
+1 Pri ochrannej stavbe typu odolný úkryt a plynotesný úkryt musí ochranný súčiniteľ stavby dosiahnuť hodnotu K<sub>o</sub> = minimálne 100.
 
-2 Na území kategórie IV musí ochranný súčiniteľ stavby dosiahnuť hodnotu K<sub>o</sub> = minimálne 50.
+2 Pri ochrannej stavbe typu jednoduchý úkryt musí ochranný súčiniteľ stavby dosiahnuť hodnotu K<sub>o</sub> = minimálne 50.
 
-C. Časové intervaly na vykonávanie odborných revízií technologických zariadení v stálych úkrytoch a v havarijných úkrytoch
+C. Časové intervaly na vykonávanie odborných revízií technologických zariadení v odolných úkrytoch a v plynotesných úkrytoch
 
 1 Na filtračnom a ventilačnom zariadení každé tri roky.
 
@@ -284,13 +284,13 @@ C. Časové intervaly na vykonávanie odborných revízií technologických zari
 
 D. Časové normy na uvedenie ochranných stavieb do stavu technickej pripravenosti od vyhlásenia mimoriadnej situácie alebo brannej pohotovosti štátu
 
-1 Stále úkryty a havarijné úkryty
+1 Odolné úkryty a plynotesné úkryty
 
 1.1 dvojúčelovo nevyužívané | do 2 hodín
 
 1.2 dvojúčelovo využívané | do 12 hodín
 
-2 Úkryty budované svojpomocne
+2 Jednoduché úkryty budované svojpomocne
 
 2.1 príjem ukrývaných | do 12 hodín
 
