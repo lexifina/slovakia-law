@@ -16,9 +16,9 @@
 
 - 6) § 79 a nasl. Občianskeho súdneho poriadku.
 
-- 6a) Napríklad § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.,
+- 6a) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
-- § 18a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 72/1999 Z. z.
+- 6b) Napríklad § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z., § 18a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 72/1999 Z. z.
 
 - 7) § 163 Občianskeho súdneho poriadku.
 
@@ -39,6 +39,10 @@
 - 11b) § 2 až 6 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - § 7 nariadenia vlády Slovenskej republiky č. 95/1994 Z. z., ktorým sa vykonávajú niektoré ustanovenia zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z. týkajúce sa dlžníkov hospodáriacich na pôde.
+
+- 11c) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+
+- 11d) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
 
 - 12) § 2 písm. e) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
