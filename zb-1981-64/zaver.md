@@ -1,0 +1,3 @@
+Ministr:
+
+Vontruška v. r.
