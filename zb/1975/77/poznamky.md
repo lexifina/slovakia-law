@@ -1,0 +1,1 @@
+- 1) Týmto dňom sa s platnosťou pre Slovenskú socialistickú republiku zrušujú: 1. Zásady organizácie kontrol v národnom hospodárstve, schválené uznesením vlády zo 14. marca 1958 č. 252 (publikované v čiastke 31 Ú. v. z roka 1959); 2. Zásady plánovania a koordinácie kontrolnej činnosti, schválené uznesením vlády z 20. marca 1964 č. 160 (č. 70/1964 Zb.).
