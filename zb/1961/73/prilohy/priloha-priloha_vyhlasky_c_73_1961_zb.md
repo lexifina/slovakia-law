@@ -112,6 +112,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 0351 | Spracovateľ papiera Spracovateľka papiera | Ch D | Výroba vlnitej a hladkej zlepovanej lepenky, najrôznejšie druhy zušľachťovania papieru. Priemyselná výroba všetkých druhov papierových a lepenkových výrobkov. Obsluha strojového zariadenia a meracej techniky, vykonávanie preventívnej údržby. | 3 | 1,5
 
+- 0361 | Preparátor Preparátorka | Ch D | Zber, úprava, konzervácia a preparácia prírodovedeckého materiálu. Zhotovovanie prírodovedeckých preparátov pre dokumentačné, výstavné a školské účely. | - | 1,5
+
 - 04 - Strojárstvo a ostatná kovospracujúca výroba | | | | |
 
 - 0401 | Zlievač | Ch | Strojové a ručné zhotovovanie zlievárenských foriem. Výroba jadier, liatie kovov do foriem. | 3 | 1,5
@@ -176,7 +178,7 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 0457 | Mechanik odevných strojov Mechanička odevných strojov | Ch D | Opravy, údržba a nastavovanie bežných aj špeciálnych strojov v odevnom priemysle. | 3 | 1,5
 
-- 0461 | Mechanik Mechanička | Ch D | Výroba, nastavovanie, údržba a opravy kancelárskych strojov, optických, meracích a iných prístrojov rôznych druhov. | 3 | 1,5
+- 0461 | Mechanik Mechanička | CH D | Výroba, nastavovanie, údržba a opravy kancelárskych strojov, optických, meracích a iných prístrojov rôznych druhov. | 3 | 1,5
 
 - 0462 | Mechanik počítacích strojov Mechanička počítacích strojov | Ch D | Výroba, nastavovanie, údržba a opravy mechanických a elektrónkových triediacich a počítacích strojov. | 3 | 1,5
 
@@ -238,11 +240,13 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 0604 | Železiar-betonár | Ch | Príprava, ukladanie oceľovej výstuže pre železobetónové konštrukcie, prefabrikáty a betónovanie. Jednoduché kováčske práce pri príprave výstuže. | 3 | 1
 
+- 0609 | Stavebný montážnik | CH | Základné znalosti všetkých odborných prác spojených s vykonávaním stavebných montáží. Všetky odborné stavebné práce pri osadzovaní prefabrikátov, blokov a panelov. | 3 | 1,5
+
 - 0610 | Strojník prefabrikácie Strojníčka prefabrikácie | Ch D | Obsluha a drobná údržba výrobných liniek a agregátov na výrobu prefabrikovaných stavebných dielcov. | 3 | 1,5
 
 - 0611 | Betonár stavebných dielcov | Ch | Ručná a strojová výroba železobetónových stavebných dielcov včítane úpravy foriem zabudovaných inštalácií a povrchového spracovania. | 3 | 1
 
-- 0612 | | Ch | Ručné a strojové rozlamovanie a opracovanie kameňa. Osadzovanie kamenárskych výrobkov stavebných a pomníkových. | 3 | 1,5
+- 0612 | Kamenár | Ch | Ručné a strojové rozlamovanie a opracovanie kameňa. Osadzovanie kamenárskych výrobkov stavebných a pomníkových. | 3 | 1,5
 
 - 0614 | Dlaždič | Ch | Kladenie, oprava a údržba vonkajších dlažieb ciest a chodníkov. Asfaltovanie vozoviek a chodníkov. | 3 | -
 
@@ -366,7 +370,7 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 0851 | Husliar Husliarka | Ch D | Spracúva rezonančné drevo a iné materiály. Vykonáva základné a odborné práce v odvetví výroby sláčikových a brnkacích nástrojov a montuje ich. Nastavuje a obsluhuje výrobné stroje a mechanizmy. | 3 | 2
 
-- 0852 | Klavírnik Klavírnička | Ch D | Spracúva rezonančné drevo a iné materiály. Vykonáva základné a odborné práce v odvetví výroby pián, pianín a harmónií. Nastavuje a obsluhuje výrobné stroje a mechanizmy. | 3 | 2
+- 0852 | Mechanik klávesových nástrojov Mechanička klávesových nástrojov | Ch D | Spracovanie rezonančného dreva, nových a iných hmôt. Základné a odborné práce v odvetví výroby a opravy pián, pianín, harmónií a harmoník. Nastavovanie a obsluha výrobných strojov a mechanizmov. | 3 | 2
 
 - 0853 | Mechanik dychových nástrojov Mechanička dychových nástrojov | Ch D | Spracúva kovy a iné materiály. Vykonáva základné a odborné práce v odvetví výroby kovových a drevených dychových nástrojov. Nastavuje a obsluhuje výrobné stroje a mechanizmy. | 3 | 2
 
@@ -450,9 +454,7 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 1028 | Rytec textilných vzorov Rytkyňa textilných vzorov | Ch D | Ručné rytie oceľových valčekov (moliet) pre strojové potlačovanie tkanín. Rytie vzorov do zinkových platní pre prenášanie na tlačové valce. Prenášanie vzorov fotochemickou cestou na tlačové valce. Opravy tlačových valcov. Zhotovovanie foriem (matríc) pre ručnú tlač. | 3 | 2
 
-- 1031 | Detašér Detašérka | Ch D | Chemické a mechanické odstraňovanie škvŕn z odevov a bielizne. Prijímanie, triedenie, výdaj odevov a bielizne pre pranie, čistenie a farbenie. Administratívne práce v zberniach. | 2 | 1
-
-- 1032 | Práč Práčka | Ch D | Pranie bielizne a odevov mokrým a chemickým spôsobom. Obsluha pracích strojov a ich základná údržba. | 2 | 1
+- 1033 | Chemik práčovní a čistiarní Chemička práčovní a čistiarní | Ch D | Chemické a mechanické čistenie a pranie odevov a bielizne. Obsluha a údržba príslušných strojov a zariadení. Prijímanie, triedenie a výdaj odevov a bielizne. Administratívne prácev zberniach. | 2 | 1,5
 
 - 1043 | Vyšívačka | D | Odborné práce na vyšívacích strojoch alebo ručné vyšívanie. | 2 | 1
 
@@ -534,6 +536,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 
 - 1212 | Priemyslový hydinár Priemyslová hydinárka | CH D | Zabíjanie hydiny. Spracovanie hydiny a vajec. Výroba hydinárskych konzerv a vajcových výrobkov. Obsluha a bežná údržba strojového zariadenia. | 2 | 1
 
+- 1221 | Priemyslový krmivár Priemyslová krmivárka | CH D | Spracovanie surovín, miešanie krmivových zmesí a koncentrátov a ich uskladňovanie. Obsluha a bežná údržba príslušného strojového zariadenia. Vykonávanie laboratórnych skúšok. | 3 | 1
+
 - 13 - Poľnohospodárstvo a lesné hospodárstvo | | | | |
 
 - 1302 | Chovateľ hydiny*) Chovateľka hydiny*) | Ch D | Práce spojené s chovom hydiny, ošetrovanie, výkrm, liahnutie, odchov, kontrola nosnosti. Triedenie, balenie a rozosielanie vajec a kurčiat. Brakovanie, zabíjanie hydiny a úprava na trh. | 1 | -
@@ -589,6 +593,8 @@ Príloha vyhlášky č. 73/1961 Zb.
 - 1513 | Predavač drogistického tovaru Predavačka drogistického tovaru | Ch D | Predaj drogistického tovaru, fotografických prístrojov a materiálov, ich odborné uskladňovanie a ošetrovanie. Základy aranžovania. Administratívne práce v predajni. | 3 | 1
 
 - 1515 | Predavač kníh Predavačka kníh | Ch D | Predaj kníh, hudobnín a gramofónových platní. Ich odborné uskladňovanie. Administratívne práce v predajni. | 3 | 1
+
+- 1516 | Predavač a skladník poľnohospodárskych strojov Predavačka a skladníčka poľnohospodárskych strojov | CH D | Predaj poľnohospodárskych strojov, náhradných dielov a doplnkového zariadenia, ich odborné uskladňovanie a ošetrovanie. Administratívne práce v skladoch a v predajni. | 3 | 1
 
 - 1541 | Aranžér Aranžérka | Ch D | Úprava tovaru a aranžovanie výkladných skríň, dekorovanie a výzdoba predajní. Kreslenie a písanie písma, technické spracovanie rôzneho materiálu pri aranžovaní. | 3 | 1,5
 
