@@ -1,0 +1,1 @@
+Milan Ftáčnik v. r.
