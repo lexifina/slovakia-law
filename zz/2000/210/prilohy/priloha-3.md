@@ -1,3 +1,3 @@
 Príloha č. 3 k vyhláške č. 210/2000 Z. z.
 
-- GRAFICKÉ ZNÁZORNENIE OVEROVACÍCH ZNAČIEK [Príloha 03](../assets/7aaf6aa59af0892f55d94ca47be3f0d34fe8af3208147d1ed5fd3ef4a838c1e6.pdf)
+- GRAFICKÉ ZNÁZORNENIE OVEROVACÍCH ZNAČIEK [Príloha 03](../assets/ec7dc24f3b54792aabba9a00bb1682a19101c41e0ed06ef7b0fc43a3c6d7f505.pdf)

@@ -1,0 +1,3 @@
+Príloha č. 54 k vyhláške č. 210/2000 Z. z.
+
+- KOMBINOVANÉ SNÍMAČE TEPLOTY URČENÉ PRE JADROVÉ ELEKTRÁRNE TYPU VVER 440 [Príloha 54](../assets/5e36e516ee7f40fd36ad4da3fd5e1e103b47fbb466941451bf5fc632aae7a017.pdf)
