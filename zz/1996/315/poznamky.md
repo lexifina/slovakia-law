@@ -12,6 +12,8 @@
 
 - 7) Napríklad § 9 ods. 2 zákona č. 124/1992 Zb. o Vojenskej polícii, § 81 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore,
 
+- 7a) Napríklad § 9 ods. 4 písm. b) zákona č. 121/2004 Z. z. o pracovnom čase a dobe odpočinku v doprave a o zmene a doplnení niektorých zákonov.
+
 - 8) § 3 ods. 3 vyhlášky Federálneho ministerstva dopravy č. 7/1988 Zb. o križovaní pozemných komunikácií s dráhami na úrovni koľají.
 
 - 9) § 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení neskorších predpisov.
@@ -38,7 +40,7 @@
 
 - 19) § 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z.
 
-- 20) Napríklad vyhláška ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení vyhlášky ministra zahraničných vecí č. 82/1984 Zb., vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 208/1991 Zb. o bezpečnosti práce a technických zariadení pri prevádzke, údržbe a opravách vozidiel.
+- 20) Napríklad vyhláška ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení vyhlášky ministra zahraničných vecí č. 82/1984 Zb., zákon č. 121/2004 Z. z.
 
 - 20a) § 58 ods. 3 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
