@@ -1,0 +1,1 @@
+- *) Zmeny vykonané zákonom č. 16/1958 Zb. nadobúdajú účinnosť 29. aprílom 1958.
