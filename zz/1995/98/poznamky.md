@@ -36,7 +36,7 @@
 
 - 5e) § 14 ods. 2 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
 
-- 5f) § 7 a § 68 písm. a) šiesty bod zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 5f) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 5g) § 64 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 

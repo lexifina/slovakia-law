@@ -36,7 +36,7 @@
 
   - 5. matka a dojča, ak je matka prijatá do ústavnej starostlivosti s dojčaťom,
 
-  - 6. osoba v stave hmotnej núdze, ktorá sa preukáže rozhodnutím okresného úradu o dávke sociálnej pomoci vydaným podľa osobitného predpisu<sup>5f</sup>) (ďalej len „osoba v hmotnej núdzi"), a osoba s ťažkým zdravotným postihnutím, ktorá sa preukáže rozhodnutím okresného úradu o peňažnom príspevku na kompenzáciu zvýšených výdavkov vydaným podľa osobitného predpisu,<sup>5g</sup>)
+  - 6. osoba v stave hmotnej núdze od štvrtého dňa poskytovania ústavnej starostlivosti alebo poskytovania ústavnej starostlivosti v liečebni pre dlhodobo chorých, ktorá sa preukáže rozhodnutím úradu práce, sociálnych vecí a rodiny o dávke v hmotnej núdzi a príspevkoch k dávke vydaným podľa osobitného predpisu<sup>5f</sup>) (ďalej len „osoba v hmotnej núdzi"), ktorá sa preukáže rozhodnutím okresného úradu o dávke sociálnej pomoci vydaným podľa osobitného predpisu<sup>5f</sup>) (ďalej len „osoba v hmotnej núdzi"), a osoba s ťažkým zdravotným postihnutím, ktorá sa preukáže rozhodnutím okresného úradu o peňažnom príspevku na kompenzáciu zvýšených výdavkov vydaným podľa osobitného predpisu,<sup>5g</sup>)
 
   - 7. dieťa s nariadenou ústavnou výchovou,
 
@@ -52,15 +52,13 @@
 
   - 3. osoba s duševnou poruchou, ktorej povaha predstavuje riziko ohrozenia života a zdravia tejto osoby alebo jej okolia,
 
-  - 4. osoba v hmotnej núdzi<sup>5f</sup>) alebo jej zákonný zástupca,
+  - 4. dieťa s nariadenou ústavnou výchovou,
 
-  - 5. dieťa s nariadenou ústavnou výchovou,
+  - 5. nositeľ ocenenia striebornej Jánskeho plakety,
 
-  - 6. nositeľ ocenenia striebornej Jánskeho plakety,
+  - 6. osoba pri vykonávaní vyšetrení predchádzajúcich bezpríspevkovému darovaniu krvi,
 
-  - 7. osoba pri vykonávaní vyšetrení predchádzajúcich bezpríspevkovému darovaniu krvi,
-
-  - 8. dieťa do dovŕšenia šiestich rokov veku,
+  - 7. dieťa do dovŕšenia šiestich rokov veku,
 
 - c) platbu podľa odseku 9 sú oslobodení:
 
