@@ -2,62 +2,28 @@ Príloha č. 3 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky �
 
 ZOZNAM
 
-výrobkov, ktoré sa môžu uvádzať do obehu po schválení orgánmi na ochranu zdravia
+potravín, ktoré možno uvádzať do obehu po schválení príslušným orgánom na ochranu zdravia
 
-Číslo položky | Položka | Zodpovedá
+Číselný kód colného sadzobníka | Názov položky | Zodpovedá KP
 
-colného | | KP
+| Potraviny na osobitné výživové účely sú: 1. potraviny na výživu dojčiat, 2. potraviny ako následné výživové prípravky na báze cereálií pre dojčatá a malé deti, 3. potraviny ako následné výživové doplnkové prípravky pre dojčatá a malé deti, 4. potraviny so zníženým množstvom sodíka a náhrady jedlej soli, 5. bezgluténové potraviny, 6. potraviny pre fenylketonurikov, 7. potraviny pre diabetikov, 8. potraviny na regulovanie telesnej hmotnosti, 9. potraviny ako výživové doplnky na báze vitamínov a minerálnych látok |
 
-sadzobníka | |
+| Nové potraviny a nové zložky, ktoré sa v konkrétnych potravinách bežne nepoužívajú alebo pochádzajú z procesov, ktoré sa pri výrobe potravín bežne nepoužívajú | Všetky KP
 
-0408, 0410 00 00 | Hmoty vaječné, majonézy a krémy, konzervy vaječné a ďalšie | 15.89.12
+0408, 0410 | Hmoty vaječné, majonézy a krémy, konzervy vaječné a výrobky z tepelne neopracovaných vajec | 15.89.12
 
-| výrobky z tepelne neopracovaných vajec |
-
-2105 00 | Zmrzlina | 15.52.10
-
-0406 | |
+2105 | Zmrzliny cukrárenské | 15.52.10
 
 | Pokrmy studenej kuchyne (lahôdkárske výrobky) | 15.89.14
 
-2106 | Pokrmy hotové mrazené alebo chladené určené pre spoločné | stravovanie 15.89.14
+2106 | Pokrmy hotové mrazené alebo chladené na účely spoločného stravovania | 15.89.14
 
-0402 29 11 | Potraviny na osobitné výživové účely sú | 15.88.10
+2201, 2202 | Stolová, dojčenská, balená pitná voda, prírodné minerálne vody a sódová voda Povzbudzujúce nápoje | 15.98.11 15.98.12
 
-1602 10 00, 1901 10 00 | a) potraviny na výživu dojčiat a detí |
+0401 | Výrobky z nepasterizovaného mlieka | 15.51
 
-2005 10, 2007 10 | b) potraviny a polotovary na špeciálne diétne použitie |
+2106 | Rastlinné výťažky - bylinkové a ovocné čaje | 15.86.15
 
-2104 20 00 | c) potraviny na regulovanie telesnej hmotnosti |
+2501 | Kuchynská a morská soľ na ľudskú výživu | 14.40.10
 
-| d) potraviny ako výživové doplnky na báze vitamínov |
-
-| a minerálnych látok |
-
-| e) potraviny pre športovcov |
-
-| f) čaje z liečivých rastlín a iné výrobky z nich |
-
-| g) iné potraviny na osobitné výživové účely |
-
-2201 | Voda vrátane minerálnych vôd prírodných alebo umelých | 15.98.11
-
-| a sódoviek, bez prísady cukru alebo iných sladidiel, |
-
-| nearomatizovaných |
-
-2207 10 00 | Etylalkohol nedenaturovaný s objemovým alkoholometrickým | 15.92.11
-
-| titrom 80 % vol. alebo viac |
-
-2208 90 91 | Etylalkohol nedenaturovaný s objemovým alkoholometrickým | 15.92.11
-
-2208 90 99 | titrom menším ako 80 % vol. |
-
-2501 00 | Kuchynská a morská soľ na ľudský konzum | 14.40.10
-
-| Nové potraviny, polotovary a nové zložky<sup>1</sup>) | Všetky KP
-
-| Prídavné látky |
-
-3303, 3304, 3305, 3306, 3307 | Kozmetické prostriedky | 24.52
+| Nové prídavné látky |
