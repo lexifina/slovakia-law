@@ -1,13 +1,9 @@
-Príloha F zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úseku štátnej správy prechádza pôsobnosť z miestneho národného výboru a mestského národného výboru na okresný úrad | |
+Príloha G zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úseku štátnej správy prechádza pôsobnosť z krajského národného výboru na ústredné orgány štátnej správy | | |
 
-| | podľa | | predmet pôsobnosti
+| | podľa | | predmet pôsobnosti | ústredný orgán štátnej správy
 
-| | predpis | § čl. |
+| | predpis | § čl. | |
 
-1 | 2 | 3 | 4 | 5
+1 | 2 | 3 | 4 | 5 | 6
 
-1. | archívnictva | zák. SNR č. 149/1975 Zb. | 23 ods. 1 | zriaďovanie, zrušovanie a spravovanie archívu mesta Košíc
-
-2. | | úprava MV SSR č. 17/1977 Ú. v. SSR (reg. č. 27/1977 Zb.) | 1 ods. 3 | úprava postavenia archívu mesta Košíc
-
-3. | | | 2 | určovanie vnútornej organizácie a sídla štátnych archívov a všestranné zabezpečovanie ich činnosti
+4. | poľnohospodárstva | vyhl. č. 103/1963 Zb. v znení zák. SNR č. 159/1971 Zb. príl. A pol. 7 | 22 | povoľovanie výnimiek z § 17, 19, a 21 vyhl. | Ministerstvo poľnohospodárstva a výživy SR

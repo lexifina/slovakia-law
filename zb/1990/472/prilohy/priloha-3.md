@@ -12,8 +12,6 @@ pol. | úsek štátnej správy | Na úseku štátnej správy prechádza pôsobno
 
 1. | ochrany kultúrnych pamiatok | zák. SNR č. 27/1987 Zb. | 17 ods. 3 | vymedzovanie ochranného pásma nehnuteľnej národnej kultúrnej pamiatky, pamiatkovej rezervácie, pamiatkovej zóny alebo ich prostredia
 
-2. | ochrany a využívania nerastného bohatstva | zák. SNR č. 51/1988 Zb. | 12 ods. 3 | vydávanie stanovísk k dohodám o riešení stretov záujmov
-
 3. | energetiky | zák. č. 67/1960 Zb. | 21 písm. b) | rozhodovanie o poradí investičnej výstavby nízkotlakových plynovodov v rámci schváleného plánu gazifikácie s prihliadnutím k maximálnej efektívnosti
 
 4. | cestného hospodárstva | zák. č. 135/1961 Zb. v znení zák. č. 27/1984 Zb. | 18 ods. 2 | povoľovanie výnimky zriaďovať nové kríženia ciest so železnicami mimo úrovne koľaji
@@ -39,16 +37,6 @@ pol. | úsek štátnej správy | Na úseku štátnej správy prechádza pôsobno
 13. | | | 58 ods. 1 | povoľovanie vedenia čiastkovej matriky
 
 14. | | | 60 | obnovenie matriky
-
-15. | archívnictva | zák. SNR č. 149/1975 Zb. | 22 ods. 1 | zriaďovanie, zrušovanie a spravovanie štátnych okresných archívov
-
-16. | | | 25 ods. 2 | zriaďovanie podnikových archívov v organizáciách, ktoré riadia
-
-17. | | | 30 ods. 2 | ukladanie pokút organizáciám
-
-18. | | úprava MV SSR č. 17/1977 Zb. Ú. v. SSR (reg. č. 27/1977 Zb.) | 1 ods. 2 | úprava postavenia štátneho okresného archívu
-
-19. | | | 2 | určovanie vnútornej organizácie a sídla štátnych archívov a všestranné zabezpečovanie ich činnosti
 
 20. | kontroly | vyhl. č. 75/1959 Ú. v. | 1 | platnosť metodických pokynov (rozsah úpravy)
 

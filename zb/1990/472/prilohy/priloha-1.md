@@ -98,14 +98,6 @@ Príloha A zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 46. | | zák. SNR č. 63/1973 Zb. v znení zák. SNR č. 194/1990 Zb. | 5 ods. 1 písm. b), c) | povoľovanie zbierky, ak sa má konať na území okresu
 
-47. | archívnictva | zák. SNR č. 149/1975 Zb. | 21 ods. 1 | zriaďovanie, zrušovanie a spravovanie archívu hlavného mesta Slovenskej republiky Bratislavy
-
-48. | | | 24 | zriaďovanie a zrušovanie archívov a ich odborné vedenie
-
-49. | | úprava MV SSR č. 17/1977 Ú. v. SSR (reg. č. 27/1977 Zb.) | 1 ods. 1 | úprava postavenia archívu hlavného mesta Slovenskej republiky Bratislavy
-
-50. | | | 2 | určovanie vnútornej organizácie a sídla štátnych archívov a všestranné zabezpečovanie ich činnosti
-
 51. | zdravotníctva | vyhl. č. 103/1984 Zb. | 5 ods. 1 | určovanie mimoriadneho očkovania so súhlasom hlavného hygienika
 
 52. | | vyhl. č. 46/1985 Zb. | 4 ods. 8 | povoľovanie pitvy pri podozrení na kontamináciu mŕtveho rádioaktívnymi látkami

@@ -6,8 +6,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 1 | 2 | 3 | 4 | 5
 
-1. | ochrany a využívania nerastného bohatstva | zák. SNR č. 51/1988 Zb. | 34 ods. 2 | posudzovanie občianskej bezúhonnosti osôb žiadajúcich o zaobchádzanie s výbušninami, ak nejde o pracovníka organizácie
-
 2. | poľnohospodárstva | zák. č. 46/1948 Zb. | 7 | vykonávanie súpisu majetku a výkupu pôdy
 
 | | | 10 |
@@ -91,12 +89,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 | | | 51 ods. 3 | a o vykonaní sľubu
 
 | | | 52 |
-
-39. | zásobovania, obchodu, verejného a závodného stravovania a cestovného ruchu | zák. SNR č. 130/1981 Zb. v zneni zák. SNR č. 108/1988 Zb. | 31 ods. 1 pism. b) | vykonávanie štátnej správy pre vnútorný obchod
-
-40. | | | 37 ods. 1 | vykonávanie štátneho obchodného dozoru vo vnútornom obchode
-
-41. | | | 46 ods. 1 | ukladanie pokút organizáciám
 
 42. | dopravy | zák. č. 68/1979 Zb. v znení zák. 118/1990 Zb. | 34 ods. 1 | povoľovanie vykonávania mestskej hromadnej dopravy
 
@@ -193,8 +185,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 84. | | vyhl. č. 253/1990 Zb. | 6 | upravovanie trvania vlajkovej výzdoby
 
 85. | | zák. SNR č. 372/1990 Zb. | 53 ods. 1 | prejednávanie priestupkov
-
-86. | súkromného podnikania občanov | zák. SNR č. 130/1990 Zb. | 3 ods. 1 | registrovanie súkromného podnikania občanov
 
 87. | | | 4 ods. 1 | ukladanie pokút podnikateľom
 
