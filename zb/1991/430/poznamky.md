@@ -1,0 +1,1 @@
+- 1) RMS č. 5/1987 náhrady cestovných a iných výdavkov poskytovaných príslušníkom Zboru nápravnej výchovy SSR v znení neskorších predpisov.
