@@ -1,0 +1,1 @@
+- 1) § 85 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 386/1997 Z. z.
