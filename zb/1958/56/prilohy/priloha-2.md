@@ -1,0 +1,1 @@
+Príloha k Dohode medzi Československou republikou a Poľskou ľudovou republikou o vzájomnej železničnej doprave [Vzor 01](../assets/761bc50b2db19503a37078e259b4a5d87e6ab33a8da718e71bacb5baf947e501.pdf)
