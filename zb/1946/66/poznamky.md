@@ -1,0 +1,1 @@
+- *) V dohodě (či. II) se praví v úvodě k tomuto výpočtu: „Až do ustavení zatímního československého zákonodárného sboru vykonává pro celé území československé republiky zákonodárnou moc vs společných věcech president republiky k návrhu vlády a po dohodě se Slovenskou národní radou svými dekrety.“
