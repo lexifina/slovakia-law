@@ -8,7 +8,7 @@ Príloha č. 3 k vyhláške č. 207/2000 Z. z.
 
 - | | b) | „Žlté” vína oprávnené používať toto označenie pôvodu: „Côtes du Jura”, „Arbois", „ĽÉtoile” a „Cha teu-Chalon” | 0,62 |
 
-- | | c) | iné nesýtené nápoje, napríklad jablčný mušt, hruškový mušt a medovina | 0,10 - 0,25 - 0,375 - 0,50 - 0,75 -1-1,5 - 2 - 3 - 5 dočasne 0,35 - 0,70 |
+- | | c) | iné nesýtené nápoje, napríklad jablčný mušt, hruškový mušt a medovina | 0,10 - 0,25 - 0,375 - 0,50 - 0,75 -1-1,5 - 2 - 5 dočasne 0,35 - 0,70 |
 
 - | | d) | vermúty a iné vína z čerstvého hrozna aromatizované aromatickými výťažkami, likérové vína | 0,05 až 0,10 0,10 - 0,20 - 0,375 - 0,50 - 0,75 -1 - 1,5 - 3 - 5 | 0,7 do 31. 12. 2002
 

@@ -64,7 +64,7 @@ Príloha č. 2 k vyhláške č. 207/2000 Z. z.
 
 - | Poradie, krok | Počet kusov | Súhrnný počet kusov | Kritérium prijatia | Kritérium zamietnutia
 
-- 100 - 500 | Prvý | 30 | 30 | 1 | 3
+- 100 - 500 | prvý | 30 | 30 | 1 | 3
 
 - | druhý | 30 | 60 | 4 | 5
 
@@ -72,7 +72,7 @@ Príloha č. 2 k vyhláške č. 207/2000 Z. z.
 
 - | druhý | 50 | 100 | 6 | 7
 
-- 3 201 a viac | prvý | 80 | 80 | 5 | 7
+- 3 201 a viac | prvý | 80 | 80 | 3 | 7
 
 - | druhý | 80 | 160 | 8 | 9
 
@@ -86,11 +86,11 @@ Príloha č. 2 k vyhláške č. 207/2000 Z. z.
 
 - Ak počet chybných kusov zistených vo výbere je väčší alebo sa rovná kritériu zamietnutia, dávka sa zamietne.
 
-- Počet kusov v dávke | Počet kusov vo výbere | Počet chybných kusov |
+- Počet kusov v dávke | Počet kusov vo výbere | Počet chybných kusov | |
 
 - | | Kritérium prijatia | Kritérium zamietnutia
 
-- akýkoľvek počet (n ≥ 100) | 20 | 1 | 2
+- akýkoľvek počet ( ≥ 100) | 20 | 1 | 2
 
 - 2.3 Kontrola priemerného skutočného obsahu jednotlivých označených spotrebiteľských balení v dávke
 
