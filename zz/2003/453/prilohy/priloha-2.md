@@ -76,7 +76,7 @@ Príloha č. 2 k zákonu č. 453/2003 Z. z.
 
 - 37 | Prešov | okres Prešov, okres Sabinov
 
-- 38 | Stará Ľubovňa | okres Stará Ľubovňa
+- 38 | Stará Ľubovňa | okres Stará Ľubovňa, okres Kežmarok
 
 - 39 | Stropkov | okres Stropkov, okres Medzilaborce
 
@@ -91,5 +91,3 @@ Príloha č. 2 k zákonu č. 453/2003 Z. z.
 - 44 | Spišská Nová Ves | okres Spišská Nová Ves, okres Gelnica
 
 - 45 | Trebišov | okres Trebišov
-
-- 46 | Kežmarok | okres Kežmarok
