@@ -1,16 +1,16 @@
-- 1) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- 1) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
+- 2) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 3) § 1 ods.1 zákona č. 21/1992 Zb. v znení neskorších predpisov.
+- 3) § 2 ods. 1 zákona č. 483/2001 Z. z.
 
-- 4) § 1 ods.5 zákona č. 21/1992 Zb. v znení neskorších predpisov.
+- 4) § 2 ods. 5 zákona č. 483/2001 Z. z.
 
-- 5) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
+- 5) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
 - 6) § 2 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
-- 7) § 269 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
+- 7) § 3 ods. 1 písm. b) prvý bod zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
 - 8) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
@@ -18,11 +18,7 @@
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 11) § 18 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
-
-- 12) § 17 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
-
-- 13) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
+- 13) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
@@ -30,8 +26,8 @@
 
 - 16) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky, zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- 17) § 38 ods. 3 zákona č. 21/1992 Zb. v znení neskorších predpisov.
+- 17) § 91 ods. 4 zákona č. 483/2001 Z. z.
 
-- 18) Zákon Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení zákona Slovenskej národnej rady č. 571/1991 Zb.
+- 18) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení zákona č. 515/2003 Z. z.
 
 - 19) § 116 a 117 zákona č. 40/1964 Zb. Občiansky zákonník.
