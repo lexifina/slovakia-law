@@ -1,0 +1,3 @@
+Príloha č. 19 k vyhláške č. 64/2001 Z. z.
+
+- DOKLAD O NADOBUDNUTÍ SEMENA ALEBO SEMENNEJ SUROVINY [Vzor 19](../assets/74ff99b79b237d18e0b5cea8de4c7fbba8d538c19bef7439790d360c134e16ef.pdf)

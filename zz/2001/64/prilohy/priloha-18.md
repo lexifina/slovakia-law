@@ -1,0 +1,3 @@
+Príloha č. 18 k vyhláške č. 64/2001 Z. z.
+
+- LIST O PÔVODE SEMENA ALEBO SEMENNEJ SUROVINY [Vzor 18](../assets/a00b1473b08471ab47b8f8d811ff0645e1665efc12a9555e1e9d14ae8e2c16c7.pdf)
