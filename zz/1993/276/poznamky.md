@@ -1,26 +1,26 @@
-- 1) Zákon č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení neskorších predpisov.
+- 1) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku.
 
-- § 4 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia.
+- 2) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 374/1994 Z. z.
 
-- Nariadenie vlády Slovenskej republiky č. 220/1993 Z. z., ktorým sa vydáva Liečebný poriadok.
+- 2a) § 116 Občianskeho zákonníka.
 
-- 2) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 85/1993 Z. z.
+- 2b) § 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
 
-- Zákon Národnej rady Slovenskej republiky č. 9/1993 Z. z. o zdravotnom poistení a hospodárení s Fondom zdravotného poistenia.
+- 2c) Napríklad § 119 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
 
 - 3) § 110 ods. 1 písm. b) zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení zákona Slovenskej národnej rady č. 490/1992 Zb.
 
-- 4) Napr. zákona Národnej rady Slovenskej republiky č. 9/1993 Z. z.
+- 4) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z., zákon Národnej rady Slovenskej republiky č. 92/1994 Z. z. o Vojenskej zdravotnej poisťovni, zákon Národnej rady Slovenskej republiky č. 201/1994 Z. z. o zdravotnom poistení železničiarov a o Železničiarskej zdravotnej poisťovni.
 
-- 5) § 11, § 12 zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z.
+- 5) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z.
 
-- 6) § 57 zákona Slovenskej národnej rady č. 410/1991 Zb.
+- 6) Napríklad § 57 zákona Slovenskej národnej rady č. 410/1991 Zb.
 
-- § 124 Zákonníka práce.
+- 7) § 57 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
 
-- 7) § 19 až 23 zákona Národnej rady Slovenskej republiky č. 9/1993 Z. z.
+- 7a) § 56 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
 
-- 8) § 18 až 36 a § 39 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 85/1993 Z. z.
+- 8) § 10 až 27 a § 58 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
 
 - 9) Zákon č. 563/1991 Zb. o účtovníctve.
 
@@ -28,6 +28,8 @@
 
 - 11) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
-- 12) § 25 až 27 zákona Národnej rady Slovenskej republiky č. 9/1993 Z. z.
+- 12) § 60 až 65 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z.
+
+- 12a) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z.Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.
 
 - 13) § 49 ods. 2 zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z.

@@ -1,0 +1,11 @@
+# § 16a Základný fond
+
+(1) Základný fond sa tvorí z
+
+- a) poistného, prirážky k poistnému, poplatkov z omeškania, pokút a poplatkov za nesplnenie oznamovacej povinnosti,
+
+- b) príjmov za poskytnutú zdravotnú starostlivosť v dôsledku zavineného protiprávneho konania tretích osôb voči poistencom,
+
+- c) ostatných príjmov a darov, ak darca neurčil spôsob využitia inak.
+
+(2) Prostriedky základného fondu sa používajú na úhrady výdavkov za poskytnutú zdravotnú starostlivosť podľa tohto zákona.
