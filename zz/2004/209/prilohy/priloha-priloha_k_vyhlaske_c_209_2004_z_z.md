@@ -68,7 +68,7 @@ Príloha k vyhláške č. 209/2004 Z. z.
 
   - 9. V stĺpci 13 pri poradovom čísle 11 sa uvádza vstupná cena alebo obstarávacia cena a ak nie je k dispozícii, uvádza sa cena určená znaleckým posudkom alebo inak odborne určená cena.
 
-  - 10. V stĺpci 16 pri majetku nadobudnutom po 1. januári 2003 sa uvádzajú údaje o podiele kapitálových výdavkov na obstaraní a zhodnotení majetku.
+  - 10. V stĺpci 16 pri majetku nadobudnutom po 1. januári 2004 sa uvádzajú údaje o podiele kapitálových výdavkov na obstaraní a zhodnotení majetku.
 
   - 11. V stĺpci 17 sa uvádza kód ekonomickej klasifikácie.
 
