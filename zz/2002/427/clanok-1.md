@@ -1,0 +1,189 @@
+# Čl. I
+
+Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z., zákona č. 358/1997 Z. z., zákona č. 377/1998 Z. z., zákona č. 348/1999 Z. z., zákona č. 441/2000 Z. z., zákona č. 169/2001 Z. z., zákona č. 445/2001 Z. z., zákona č. 502/2001 Z. z., zákona č. 506/2001 Z. z., zákona č. 553/2001 Z. z., zákona č. 559/2001 Z. z. a zákona č. 291/2002 Z. z. sa mení a dopĺňa takto:
+
+- 1. V § 2 ods. 1 písm. a) druhom bode sa vypúšťajú slová „Úrad pre finančný trh".
+
+- 2. V § 2 ods. 1 písm. a) treťom bode sa slovo „a" nahrádza čiarkou a na konci sa pripájajú tieto slová: „a Kancelária verejného ochrancu práv,".
+
+- 3. V § 2 ods. 1 písm. b) sa za slová „Slovenská akadémia vied" vkladá čiarka a slová „Kancelária verejného ochrancu práv".
+
+- 7. V § 5 ods. 1 písm. a) a b) sa slová „zriadených zákonom" nahrádzajú slovami „podľa osobitných predpisov".
+
+- 8. Poznámka pod čiarou k odkazu 3 sa dopĺňa citáciou, ktorá znie: „Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.".
+
+- 12. V § 5 ods. 1 písm. k) sa za slová „(ďalej len „prostriedky Európskych spoločenstiev")" vkladajú slová „znížené o úrok z omeškania (§ 47a ods. 4)".
+
+- 16. V § 6 ods. 3 sa vypúšťajú slová „[§ 5 ods. 1 písm. k)]".
+
+- 17. V § 6 ods. 5 písmeno a) znie:
+
+- „a)
+
+- realizovaných štátnych záruk poskytnutých podľa osobitného predpisu,<sup>5a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 5a znie:
+
+- „5a)
+
+- Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.“.
+
+- 18. V § 6 ods. 5 sa vypúšťa písmeno b).
+
+  - Doterajšie písmená c) a d) sa označujú ako písmená b) a c).
+
+- 19. V § 6 odsek 6 znie:
+
+- „(6)
+
+- Na uzatváranie zmlúv o návratnej finančnej výpomoci podľa odseku 5 písm. a) sa vzťahuje osobitný predpis.<sup>5a</sup>) Návratnú finančnú výpomoc podľa odseku 5 písm. b) a c) možno poskytnúť na základe zmluvy o návratnej finančnej výpomoci uzatvorenej medzi ministerstvom a prijímateľom návratnej finančnej výpomoci. V zmluve o poskytnutí návratnej finančnej výpomoci podľa odseku 5 písm. b) a c) musí byť dohodnutá doba, na ktorú sa návratná finančná výpomoc poskytuje, a spôsob jej splácania. Doba, na ktorú sa návratná finančná výpomoc podľa odseku 5 písm. b) a c) poskytuje, nemôže byť dlhšia ako štyri roky. Poskytnutú návratnú finančnú výpomoc podľa odseku 5 písm. b) a c) nemožno zmeniť na iný druh finančného vzťahu. Pri poskytovaní návratných finančných výpomocí podľa odseku 5 písm. b) a c) úrok môže byť predmetom zmluvy.“.
+
+- 26. V § 10 sa odsek 5 dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- na úhradu trvalej zálohy pri vydaní medzinárodnej platobnej karty, ak je jej vydanie nevyhnutné na zabezpečenie zahraničných pracovných ciest.“.
+
+- 27. V § 10 odsek 11 znie:
+
+- „(11)
+
+- Prostriedky určené štátnym rozpočtom na programy podľa § 8 ods. 2 možno použiť len na určený program. Nepoužité prostriedky v bežnom rozpočtovom roku, s výnimkou prostriedkov na mzdy, platy, služobné príjmy a ostatné osobné vyrovnania (ďalej len „mzdy") a prostriedkov na odvody poistného do poistných fondov a príspevku na poistenie v nezamestnanosti z týchto miezd, možno previesť do nasledujúceho rozpočtového roka, a to len po predchádzajúcom súhlase ministerstva. Súhlas ministerstva na prevod prostriedkov do nasledujúceho rozpočtového roka v prípade prostriedkov štátneho rozpočtu na financovanie spoločných programov Slovenskej republiky a Európskych spoločenstiev podľa medzinárodných zmlúv sa nevyžaduje. Nepoužité prostriedky, ktoré rozpočtová organizácia môže použiť aj v nasledujúcom roku, prevedie v decembri bežného roka na osobitný bežný účet dofinancovania programov vedený v Národnej banke Slovenska. Použitie prostriedkov z tohto účtu sa sleduje podľa rozpočtovej klasifikácie aj v nasledujúcom rozpočtovom roku. V prípade, že sú na ten istý program rozpočtované prostriedky aj v nasledujúcom roku, prednostne sa dočerpajú prostriedky nevyčerpané v predchádzajúcom roku. Zmeny v programoch najmä presuny medzi programami, doplnenie nového programu alebo jeho časti možno vykonať len na základe rozhodnutia vlády po predchádzajúcom vyjadrení ministerstva, a to za podmienky, že plnenie cieľa programu, z ktorého sa prostriedky presúvajú, bude zabezpečené.“.
+
+- 28. V § 13 ods. 1 písm. c) sa slová „kapitálových výdavkov" nahrádzajú slovami „výdavkov na obstaranie a zhodnotenie hmotného a nehmotného majetku<sup>7</sup>)".
+
+- 29. V § 15 ods. 2 písmeno d) znie:
+
+- „d)
+
+- rezerva na štátne záruky,<sup>5a</sup>)“.
+
+- 31. V § 15 odsek 3 znie:
+
+- „(3)
+
+- Z rezervy na štátne záruky sa poskytujú plnenia veriteľom vyplývajúce zo štátnych záruk.“.
+
+- 32. V § 18 ods. 1 sa slová „na základe § 46 ods. 3 a 4" nahrádzajú slovami „podľa osobitného zákona<sup>5a</sup>)".
+
+- 33. Nadpis pod § 20a znie: „Hospodárenie s prostriedkami Európskych spoločenstiev a s prostriedkami štátneho rozpočtu na financovanie spoločných programov Slovenskej republiky a Európskych spoločenstiev podľa medzinárodných zmlúv".
+
+- 34. V § 20a odsek 1 znie:
+
+- „(1)
+
+- Prostriedky Európskych spoločenstiev a prostriedky štátneho rozpočtu podľa zákona o štátnom rozpočte na príslušný rozpočtový rok určené na financovanie spoločných programov Slovenskej republiky a Európskych spoločenstiev podľa medzinárodných zmlúv (ďalej len „prostriedky štátneho rozpočtu na financovanie spoločných programov") s výnimkou prostriedkov štátneho rozpočtu na program Európskych spoločenstiev pre projekty budovania inštitúcií a investícií na podporu sociálnej a ekonomickej súdržnosti (ďalej len „program PHARE") sa vedú na osobitných účtoch ministerstva (ďalej len „národný fond") v Národnej banke Slovenska. Za správu týchto prostriedkov zodpovedá ministerstvo. Zostatok národného fondu koncom roka neprepadá.“.
+
+- 35. V § 20a ods. 4 prvej vete sa za slová „Európskych spoločenstiev" vkladajú slová „a prostriedky štátneho rozpočtu na financovanie spoločných programov s výnimkou prostriedkov štátneho rozpočtu na program PHARE" a vypúšťajú sa slová „na to zriadenej".
+
+- 36. § 20a sa dopĺňa odsekmi 5 a 6, ktoré znejú:
+
+- „(5)
+
+- Podrobnosti o hospodárení s prostriedkami Európskych spoločenstiev poskytnutými Slovenskej republike na základe medzinárodných zmlúv a s prostriedkami štátneho rozpočtu na financovanie spoločných programov ustanoví vláda nariadením.
+
+- (6)
+
+- Ustanovenia odsekov 1 až 4 sa vzťahujú na hospodárenie s prostriedkami poskytnutými prostredníctvom národného fondu na základe medzinárodných zmlúv uzatvorených do dňa nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii.“.
+
+- 37. V § 25 ods. 4 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Za finančné operácie sa považujú aj operácie, ktorými sa poskytujú návratné finančné výpomoci podľa § 27 ods. 2 a 3 a § 27a ods. 2 a 4 a získavajú sa príjmy z ich splácania.".
+
+- 38. V § 27 ods. 3 sa slová „verejnoprospešných činností," nahrádzajú slovami „všeobecne prospešných služieb,<sup>19ca</sup>)".
+
+  - Poznámka pod čiarou k odkazu 19ca znie:
+
+- „19ca)
+
+- § 2 ods. 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.“.
+
+- 39. V § 27 odsek 6 znie:
+
+- „(6)
+
+- Splátky istiny prijatých pôžičiek, úverov, návratných finančných výpomocí, menovitú hodnotu emitovaných dlhopisov a poskytnuté návratné finančné výpomoci uhrádza obec zo svojho rozpočtu mimo výdavkov podľa odsekov 1 až 4.“.
+
+- 40. V § 27a ods. 4 sa slová "verejnoprospešných činností," nahrádzajú slovami "všeobecne prospešných služieb,<sup>19ca</sup>)".
+
+- 41. V § 27a odsek 6 znie:
+
+- „(6)
+
+- Splátky istiny prijatých pôžičiek, úverov, návratných finančných výpomocí, menovitú hodnotu emitovaných dlhopisov a poskytnuté návratné finančné výpomoci uhrádza vyšší územný celok zo svojho rozpočtu mimo výdavkov podľa odsekov 1 až 4.“.
+
+- 42. V § 29 ods. 3 sa za slová „príjmov z predaja pozemkov a nehmotných aktív," vkladajú slová „príjmov z realizácie finančného majetku,".
+
+- 43. V § 29a odsek 2 znie:
+
+- „(2)
+
+- Na emitovanie komunálnych dlhopisov sa vzťahuje osobitný zákon.<sup>20</sup>)“.
+
+- 44. V § 29a ods. 6 písm. a) sa slová „územnej samosprávy" nahrádzajú slovami „obce alebo vyššieho územného celku.".
+
+- 45. V § 30 ods. 3 sa vypúšťajú slová „a na poskytnutie návratných finančných výpomocí".
+
+- 46. V § 32a ods. 2 sa na konci pripája táto veta:
+
+- „Pri zostavení ozdravného rozpočtu nie je obec povinná dodržať ustanovenie § 29 ods. 2.“.
+
+- 47. V § 32a ods. 6 sa na konci pripája táto veta:
+
+- „Ak obec preukáže, že plnením prijatých opatrení dosiahla zlepšenie výsledkov hospodárenia a zníženie celkových záväzkov uvedených v odseku 1, ministerstvo môže na základe žiadosti obce vydať súhlas na predĺženie hospodárenia v ozdravnom režime s určením jeho lehoty.“.
+
+- 48. V § 32a ods. 18 sa na konci pripája táto veta:
+
+- „Pri zostavení krízového rozpočtu nie je obec povinná dodržať ustanovenie § 29 ods. 2.“.
+
+- 54. V § 46 ods. 5 sa slová „písm. c) a d)" nahrádzajú slovami „písm. b) a c)".
+
+- 55. § 46a sa vypúšťa.
+
+- 56. Nad § 47 sa dopĺňa nadpis, ktorý znie: „Porušenie rozpočtovej disciplíny a sankcie" a nadpis pod § 47 sa vypúšťa.
+
+- 57. Nadpis pod § 47a sa vypúšťa.
+
+- 58. V § 47a odseky 2 až 4 znejú:
+
+- „(2)
+
+- Subjekt, ktorý neoprávnene použil alebo zadržal prostriedky poskytnuté z národného fondu, je povinný neoprávnene použitú alebo zadržanú sumu týchto prostriedkov vrátane penále vrátiť prostredníctvom subjektu, ktorý prostriedky poskytol a ktorý vrátené prostriedky odvedie do národného fondu najneskôr v deň nasledujúci po dni ich pripísania na účet.
+
+- (3)
+
+- Ak Európske spoločenstvá požiadajú o vrátenie neoprávnene použitých alebo zadržaných prostriedkov Európskych spoločenstiev, odvedú sa tieto prostriedky z osobitného účtu ministerstva vrátane sankcie podľa odseku 4 do rozpočtu Európskych spoločenstiev. Rozdiel medzi vrátenou sumou a povinnou sumou odvodu vrátane sankcie do rozpočtu Európskych spoločenstiev sa vysporiada v prospech alebo na ťarchu štátneho rozpočtu.
+
+- (4)
+
+- Slovenská republika zaplatí Európskym spoločenstvám úrok z omeškania v prípade oneskoreného vrátenia neoprávnene použitých alebo zadržaných prostriedkov Európskych spoločenstiev, ktorého výšku určujú Európske spoločenstvá.“.
+
+- 59. § 47a sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Ustanovenie odseku 2 platí pre nakladanie s prostriedkami Európskych spoločenstiev poskytnutých Slovenskej republike na základe medzinárodných zmlúv uzatvorených do dňa nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a k Európskej únii.“.
+
+- 60. § 49a znie:
+
+- „§ 49a
+
+- Na preklenutie dočasného nesúladu medzi príjmami a výdavkami štátneho rozpočtu v rozpočtovom roku môže ministerstvo
+
+- a)
+
+- vydávať štátne pokladničné poukážky,<sup>29c</sup>)
+
+- b)
+
+- viazať prostriedky štátneho rozpočtu,
+
+- c)
+
+- určovať priority čerpania výdavkov štátneho rozpočtu.“.
+
+- Poznámka pod čiarou k odkazu 29c znie:
+
+- „29c)
+
+- § 3 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).“.
+
+- 61. V § 55d ods. 5 druhej vete sa za slovo „sa" vkladajú slová „pre obce".
