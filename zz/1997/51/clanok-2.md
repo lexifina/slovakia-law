@@ -1,3 +1,0 @@
-# Čl. 2
-
-Toto opatrenie nadobúda záväznosť dňom jeho uverejnenia v Zbierke zákonov Slovenskej republiky.
