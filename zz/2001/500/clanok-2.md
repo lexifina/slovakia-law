@@ -1,0 +1,3 @@
+# Čl. II
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., zákona č. 600/1992 Zb., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 106/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 58/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 317/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 373/1996 Z. z., zákona č. 11/1998 Z. z., zákona č. 127/1999 Z. z., zákona č. 263/1999 Z. z., zákona č. 238/2000 Z. z. a tohto zákona.
