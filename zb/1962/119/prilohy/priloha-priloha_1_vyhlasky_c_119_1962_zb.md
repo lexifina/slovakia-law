@@ -3211,3 +3211,679 @@ c) dodávateľ (výrobca) poskytne náhradu za uznané reklamácie najneskôr do
 6. Reklamácie chýb vrátane vymedzenia požiadavky odberateľa sa musia podať písomne; ústne alebo telefonické reklamácie sú právne bezvýznamné.
 
 7. Ak reklamujúci nesúhlasí s výsledkom reklamačného konania, má právo podať námietky vývojovej skupine opravárenských služieb miestneho hospodárstva v Gottwaldove-Malenoviciach. Tým nie sú dotknuté práva odberateľa uplatniť svoje práva na arbitráži a ak ide o práva občanov, na súde.
+
+Príloha 7 vyhlášky č. 119/1962 Zb.
+
+Odpisy vozidiel
+
+1. Normy odpisov slúžia na odpis obstarávacej hodnoty vozidla a na vytvorenie zdrojov na úhradu nákladov za generálne opravy.
+
+2. Normy odpisov určia pre jednotlivé druhy, značky a typy vozidiel celkovú odpisovú sadzbu v korunách. V normách je osobitne uvedené, koľko percent z celkovej odpisovej sadzby pripadá na vytvorenie zdroja na úhradu nákladov za generálne opravy.
+
+3. Odpisové sadzby pri vozidle v prevádzke sa zásadne nemenia, i keď prekročilo normu celkovej upotrebiteľnosti. Výnimočne pri autobusoch a nákladných automobiloch, ktorých účtovná zostatková hodnota sa rovná nule a typy ktorých už nepodliehajú režimu generálnych opráv, výška percenta pripadajúca z celkovej odpisovej sadzby na úhradu nákladov za generálne opravy sa znižuje na polovicu; o sumu vyplývajúcu z tejto výnimočnej úpravy sa znižuje celková odpisová sadzba. Ak sa urobí generálna oprava autobusu s namontovaním karosérie, a to spravidla po splnení normy celkovej upotrebiteľnosti, celková odpisová sadzba sa nemení.
+
+4. Norma odpisov je určená na základe obstarávacej ceny vozidla, nákladov na dve generálne opravy a normy celkovej upotrebiteľnosti, podľa tohto vzorca:
+
+Ov = (O + 2 GO) / Uv
+
+Ov = celková odpisová sadzba v Kčs na 1000 základných km
+
+O = obstarávacia cena vozidla v Kčs
+
+2 GO = náklady na dve generálne opravy v Kčs
+
+Uv = norma celkovej upotrebiteľnosti vozidla v 1000 základných kilometroch.
+
+Podľa tohto vzorca sa vypočítajú i odpisové sadzby pri neuvedených ostatných typoch špeciálnych automobilov, ťahačov a pri špeciálnych prívesoch.
+
+Držiteľ vozidla podľa toho istého vzorca vypočíta odpisové sadzby i pre nové typy vozidiel zaradené do prevádzky po vydaní tejto vyhlášky. Ak nie je v čase zaradenia vozidla do prevádzky ešte vyhlásená cena generálnej opravy, určí sa pre tento účel hodnotou najviac 60 % z obstarávacej ceny nového vozidla.
+
+5. Ak držiteľovi automobilov, ktoré neslúžia na prepravu nákladov, výnimočne povolí príslušný nadriadený orgán časové odpisy, časová odpisová sadzba sa vypočíta z týchto hodnôt:
+
+(Vysvetlivka: Doba upotrebiteľnosti a odpisová sadzba automobilov, ktoré neslúžia na prepravu nákladov, platí len pre vlastný automobil. Vnútorné vybavenie pojazdných predajní, knižníc, zdravotníckych vozidiel, prenosových vozidiel a pod. treba považovať za samostatné inventárne predmety, ktoré treba odpisovať osobitne podľa platných noriem odpisov. Naopak, automobilový žeriav, rýpadlo, vrtná súprava, zariadenie požiarnych automobilov, zametacích a kropiacich automobilov a pod. sú nedeliteľnou súčasťou vlastného automobilu a tvoria s ním jediný inventárny predmet.)
+
+a) pre osobné automobily, ktoré sa používajú len príležitostne,
+
+doba upotrebiteľnosti v rokoch 12 rokov
+
+celková ročná odpisová sadzba v % 18,5 %
+
+z toho výška percenta pripadajúca na GO 55 %
+
+b) pre špeciálne automobily a automobily neslúžiace na prepravu nákladov, pre kolesové traktory, pre osobné a nákladné prívesy
+
+doba upotrebiteľnosti v rokoch 10 rokov
+
+celková ročná odpisová sadzba v % 20 %
+
+z toho výška percenta pripadajúca na GO 50 %
+
+c) pre motocykle
+
+doba upotrebiteľnosti v rokoch 10 rokov
+
+celková ročná odpisová sadzba v % 18 %
+
+z toho výška percenta pripadajúca na GO 45 %.
+
+Celková ročná odpisová sadzba v Kčs je potom súčinom obstarávacej ceny vozidla a celkovej ročnej odpisovej sadzby v % deleným stoma. Z celkovej ročnej odpisovej sadzby v Kčs sa vypočíta celková mesačná odpisová sadzba v Kčs.
+
+6. Vypočítané odpisové sadzby sú zostavené do tabuliek podľa druhu vozidiel. Vpredu každej tabuľky sa uvádzajú odpisové sadzby vozidiel pre hromadné typy. Odpisové sadzby vozidiel pre ostatné typy treba vyhľadať v ďalšej časti tabuľky podľa príslušnej technickej mernej jednotky (užitočného zaťaženia, obsahu valcov, počtu miest obsaditeľnosti a pod.).
+
+7. Pre jednoduchosť je v normách určená jediná odpisová sadzba pre typy vozidiel vyrábané pred i po 1. januári 1958; určená je podľa cien bežného vyhotovenia, platných od 1. januára 1958.
+
+Prípadná účtovná zostatková hodnota likvidovaného vozidla sa zdôvodní aj zavedením tejto jednotnej odpisovej sadzby.
+
+8. Ak má vozidlo zvláštne vybavenie, ktoré sa doteraz viedlo ako samostatný základný prostriedok, alebo ak obstarávacia cena nového vozidla prevýši o 5 % cenu bežného vyhotovenia, uvedenú v cenníku dodávateľa, alebo ak sa prestavbou alebo inou úpravou vozidla zvýši obstarávacia hodnota vozidla, ktorá prevýši 5 % jeho hodnoty, úmerne sa zvýši suma odpisov určená na odpis obstarávacej hodnoty vozidla, prípadne na vytvorenie zdroja na úhradu nákladov na generálne opravy tak, aby pri norme celkovej alebo zvyšujúcej upotrebiteľnosti vozidla sa odpísali náklady na toto zvláštne vybavenie, vyššia obstarávacia cena a náklady na úpravy. Zvýšenie celkovej odpisovej sadzby sa vypočíta podľa vzorca:
+
+Ov<sub>1</sub> = (P<sub>1</sub> + GO<sub>1</sub>) / Uv<sub>1</sub>
+
+Ov<sub>1</sub> = suma odpisov v Kčs, o ktorú sa zvýši celková odpisová sadzba v Kčs na 1000 základných kilometrov
+
+P<sub>1</sub> = náklady na zvláštne vybavenie, náklady na zvýšenie obstarávacej hodnoty vozidla v dôsledku zvýšenia obstarávacej ceny alebo úpravy vozidla v Kčs
+
+GO<sub>1</sub> = zvýšenie nákladov na generálne opravy v Kčs, ak by prišli do úvahy počas celkovej alebo zvyšujúcej upotrebiteľnosti vozidla
+
+Uv<sub>1</sub> = norma celkovej alebo zvyšujúcej upotrebiteľnosti vozidla v 1000 základných kilometroch.
+
+Súčet celkovej odpisovej sadzby v Kčs podľa tabuliek uvedených v odseku 10 a tohto zvýšenia tvorí potom novú celkovú odpisovú sadzbu v Kčs pre celkovú alebo zvyšujúcu upotrebiteľnosť vozidla, pričom výška percenta pripadajúca na generálne opravy podľa tabuliek zostáva nezmenená.
+
+9. Odpisové sadzby nákladných automobilov, prípadne i prívesov sú určené pre vozidlo bez plachty. Ak nákladný automobil alebo iné vozidlo má plachtu, považuje sa táto za samostatný inventárny predmet - základný prostriedok
+
+s dobou upotrebiteľnosti v rokoch 3 roky,
+
+s ročnou odpisovou sadzbou v % 33 %.
+
+10. Normy odpisov sa určujú takto:
+
+I. Osobné, dodávkové a kombinované automobily
+
+a) Hromadné typy:
+
+Porad. číslo | Značka a typ | Osobné | | Dodávkové | | Kombinované | Z celkovej odpisovej sadzby pripadá na GO
+
+| | uzavreté | z celkovej odpisovej sadzby pripadá na GO | uzavreté | otvorené | |
+
+| | | | Celková odpisová sadzba v Kčs na 1000 zkm | | |
+
+a | b | 11 | 21 | 12 | 13 | 14 | 22
+
+1 | Škoda 1101, 1102 | 274 | 40 | 169 | | | 50
+
+| | | | | | 296 | 45
+
+2 | Škoda 1200, 1201 | 210 | 55 | 147 | | 242 | 60
+
+3 | Škoda 1201, Pick Up | | | | 147 | | 60
+
+4 | Škoda 1202 | | | 153 | | | 60
+
+| | | | | | 290 | 50
+
+5 | Škoda 440, Octavia | 212 | 55 | | | |
+
+6 | Škoda Octavia-Super | 250 | 50 | | | |
+
+7 | Tatra 87 | 390 | 35 | | | |
+
+8 | Tatra 600 Tatraplán | 287 | 35 | | | |
+
+9 | Tatra 603 | 438 | 40 | | | |
+
+10 | Moskvič M 407 | 241 | 60 | | | |
+
+11 | Pobieda M 20, Waršava | 221 | 60 | | | |
+
+12 | Volga M 21 | 295 | 50 | | | |
+
+13 | Barkas V 901/2 | 204 | 50 | 170 | 158 | 186 | 60
+
+14 | Nysa Mikrobus | 166 | 55 | | | |
+
+15 | Nysa | | | 144 | | | 55
+
+16 | Žuk | | | | 138 | | 55
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa obsahu valcov v cm<sup>3</sup> uvedeného v technickom preukaze vozidla.
+
+a | b | 11 | 21 | 12 | 13 | 14 | 22
+
+1 | do 750 | 264 | 40 | 180 | | | 45
+
+| | | | | | 254 | 50
+
+2 | 751-1000 | 309 | 45 | 207 | | | 50
+
+| | | | | | 294 | 55
+
+3 | 1001-2000 | 384 | 40 | 215 | | 307 | 55
+
+4 | 2001-3000 | 464 | 35 | 228 | | | 55
+
+| | | | | | 322 | 60
+
+5 | nad 3000 | 437 | 40 | 230 | | | 55
+
+| | | | | | 329 | 60
+
+Poznámka k odseku a) a b): Pri automobiloch trvale zaradených požičovniach bez vodiča normy odpisov sa zvyšujú o 60 %.
+
+II. Autobusy a autokary
+
+a) hromadné typy:
+
+Porad. číslo | Značka, typ a druh | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | Z celkovej odpisovej sadzby pripadá na GO %
+
+a | b | 11 | 21
+
+1 | Škoda 706 RO | 337 | 50
+
+2 | Škoda 706 RO Lux | 464 | 40
+
+3 | Škoda 706 RTO | 410 | 45
+
+4 | Škoda 706 RTO Mex | 435 | 40
+
+5 | Škoda 706 RTO Lux | 467 | 40
+
+6 | Karosa HB 5 | 952 | 45
+
+7 | Praga RND | 346 | 40
+
+8 | Ikarus 30 | 465 | 55
+
+9 | Ikarus 55 | 586 | 45
+
+10 | Ikarus 630 | 506 | 45
+
+11 | Garant 30 K | 331 | 55
+
+12 | Robur | 394 | 55
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa miest obsaditeľnosti uvedených v technickom preukaze vozidla.
+
+Porad. číslo | Počet miest obsaditeľnosti | Benzín a ostatné | Nafta | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | Celková odpisová sadzba v Kčs na 1000 základných km | |
+
+a | b | 11 | 12 | 13
+
+1 | do 30 | 287 | | 55
+
+| | | 357 | 45
+
+2 | 31-70 | 436 | | 50
+
+| | | 505 | 45
+
+3 | nad 70 | 484 | | 50
+
+| | | 565 | 45
+
+III. Nákladné automobily
+
+a) hromadné typy
+
+Poradové číslo | Značka, typ a druh | Valníkové | Sklápacie | Skriňové | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | | |
+
+a | b | 11 | 12 | 13 | 21
+
+1 | Škoda 706 R, RS | 269 | 294 | | 50
+
+2 | Škoda 706 RO | | | 335 | 50
+
+3 | Škoda 706 RT , RTS | 305 | 315 | | 50
+
+4 | Škoda 806 RS | | 295 | | 50
+
+5 | Škoda 906 R | 291 | | | 50
+
+6 | Tatra 138 S 3 | | 557 | | 50
+
+7 | Tatra 111 R | 345 | | | 55
+
+8 | Tatra 111 NR s navijakom | 368 | | | 50
+
+9 | Tatra 111 S s drevenou korbou | | 371 | | 55
+
+10 | Tatra 111 s kovovou korbou | | 400 | | 50
+
+11 | Tatra 114, 115 | 245 | 258 | | 50
+
+12 | Tatra 128 | 257 | | | 60
+
+| | | | 314 | 55
+
+13 | Tatra 128 s navijakom | 282 | | | 55
+
+14 | Tatra 805 | 326 | | 363 | 45
+
+15 | Praga A 150 | 227 | | | 50
+
+16 | Praga A 150 s drevenou korbou | | | 299 | 55
+
+17 | Praga A 150 s kovovou korbou | | | 270 | 50
+
+18 | Praga RN | 221 | | | 50
+
+19 | Praga RN s drevenou korbou | | | 366 | 55
+
+20 | Praga RN s kovovou korbou | | | 315 | 50
+
+21 | Praga RND | 222 | 239 | | 50
+
+22 | Praga RND s drevenou korbou | | | 365 | 55
+
+23 | Praga RND s kovovou korbou | | | 320 | 50
+
+24 | Praga V3S | 404 | 475 | 464 | 50
+
+25 | Praga V3S s navijakom | 432 | | | 50
+
+26 | Praga S5T | 280 | 325 | | 50
+
+27 | Csepel D 350 | 238 | 263 | | 60
+
+28 | Csepel D 352 | 266 | 293 | | 55
+
+29 | Csepel D 420 | | 306 | | 50
+
+30 | Garant 30 K | 198 | | | 60
+
+| | | | 244 | 65
+
+31 | Garant 32 | 216 | | | 40
+
+| | | | 262 | 65
+
+32 | Robur | 236 | | | 55
+
+| | | | 312 | 50
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa užitočného zaťaženia v tonách uvedeného v technickom preukaze vozidla.
+
+Poradové číslo | Užitočné zaťaženie v tonách | Počet náprav | Valníkové | | Sklápacie | | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | | benzín a ostatné | nafta | benzín a ostatné | nafta |
+
+| | | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | | | |
+
+a | b | c | 11 | 12 | 13 | 14 | 21
+
+1 | 0,900-1,500 | 2 | 164 | 182 | 189 | | 50
+
+| | | | | | 205 | 45
+
+2 | 1,501-2500 | 2 | 215 | 241 | 241 | | 50
+
+| | | | | | 267 | 45
+
+3 | 2,501-3,500 | 2 | 251 | | 279 | | 55
+
+| | | | 287 | | 315 | 50
+
+4 | 3,501-5,500 | 2 | 292 | | 325 | | 55
+
+| | | | 351 | | 384 | 45
+
+5 | | 3 | 352 | | 384 | | 45
+
+| | | | 414 | | 447 | 40
+
+6 | 5,501-7,500 | 2 | 341 | | 377 | | 55
+
+| | | | 435 | | 471 | 45
+
+7 | | 3 | 401 | | 438 | | 45
+
+| | | | 495 | | 532 | 40
+
+8 | 7,501-10,000 | 2 | | 564 | | | 35
+
+| | | | | | 603 | 40
+
+9 | | 3 | | 625 | | 669 | 35
+
+10 | nad 10,000 | 2 | | | | |
+
+11 | 10,000 | 3 | pozri poznámku | | | |
+
+Poznámka: Pre všetky druhy vozidiel užitočného zaťaženia 10,000 t a viac sa použijú odpisové sadzby udané pre užitočné zaťaženie 7,501-10,000 t, ku ktorým sa za každú ďalšiu tonu užitočného zaťaženia pripočíta 10 % odpisovej sadzby v Kčs.
+
+IV. Špeciálne automobily
+
+a) hromadné typy
+
+Poradové číslo | Značka, typ a druh | Sanitné | Cisternové | Popolové | Fekálne | Voľne nakladaný cement | Ostatné | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | | | | | | |
+
+a | b | 11 | 12 | 13 | 14 | 15 | 16 | 21
+
+1 | Škoda 1101, 1102 | 206 | | | | | | 50
+
+2 | Škoda 1200, 1201 | 169 | | | | | | 60
+
+| Škoda 1202 | 172 | | | | | | 60
+
+3 | Škoda 706 ROK | | | 524 | | | | 50
+
+4 | Škoda 706 RTK | | | 596 | | | | 50
+
+5 | Škoda 706 R kropiace | | | | | | 564 | 40
+
+6 | Škoda 706 RT kropiace | | | | | | 542 | 50
+
+7 | Škoda 706 R | | 543 | | | | | 45
+
+8 | Škoda 706 RO sťahovacie | | | | | | 423 | 50
+
+9 | Tatra 111 C | | 478 | | | | | 50
+
+10 | Tatra 111 VLC | | | | | 463 | | 50
+
+11 | Praga V3S | | | | 555 | | | 50
+
+12 | Garant 30 K poštový kombinovaný skriňový | | | | | | 336 | 55
+
+13 | Garant 32 poštový kombinovaný skriňový | | | | | | 355 | 55
+
+14 | Robur poštový kombinovaný skriňový | | | | | | 445 | 55
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa ustanovení bodu 4.
+
+V. Ťahače
+
+a) hromadné typy
+
+Poradové číslo | Značka a typ | Ťahače prívesov | Ťahače návesov | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | |
+
+a | b | 11 | 12 | 21
+
+1 | Tatra 141 B s navijakom | 795 | | 45
+
+2 | Praga S5T TN * | | |
+
+3 | Škoda 706 RTTN | | 417 | 50
+
+4 | Tatra 138 NT *) | | |
+
+*) Určí sa dodatočne.
+
+d) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa ustanovení bodu 4.
+
+VI. Traktory kolesové
+
+a) hromadné typy
+
+Poradové číslo | Značka a typ | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | Z celkovej odpisovej sadzby pripadá na GO %
+
+a | b | 11 | 21
+
+1 | Zetor 25 A | 287 | 45
+
+2 | Zetor 35 Super | 474 | 50
+
+3 | Zetor 50 | 417 | 50
+
+4 | Zetor 30 | 415 | 45
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa užitočného výkonu v „k" uvedeného v technickom preukaze vozidla.
+
+Poradové číslo | Užitočný výkon v „k" | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | Z celkovej odpisovej sadzby pripadá na GO %
+
+a | b | 11 | 21
+
+1 | do 15 | 277 | 45
+
+2 | 16-35 | 423 | 50
+
+3 | 36-50 | 497 | 55
+
+4 | 51-60 | 587 | 50
+
+5 | 61-80 | 576 | 55
+
+6 | 81-100 | 608 | 55
+
+7 | nad 100 | 700 | 50
+
+Normy odpisov uvedené v tabuľke platia len pre dopravné traktory na naftu jazdiace prevažne po vozovkách. Normy odpisov pre poľnohospodárske traktory sú ustanovené smernicami Ministerstva poľnohospodárstva, lesného a vodného hospodárstva. Pásové traktory sa nepovažujú za traktory dopravné a platia pre ne normy odpisov platné pre poľnohospodárske traktory.
+
+VII. Prívesy osobné
+
+a) hromadné typy:
+
+Poradové číslo | Značka a typ | Celková odpisová sadzba v Kčs | Z celkovej odpisovej sadzby pripadá na GO %
+
+a | b | 11 | 21
+
+1 | R P A | 225 | 45
+
+2 | P R K 6 | 201 | 50
+
+3 | D M 4 | 200 | 35
+
+4 | D 4 | 207 | 35
+
+5 | B 40 | 177 | 35
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa miest obsaditeľnosti uvedených v technickom preukaze vozidla.
+
+1 | do 30 | 189 | 40
+
+2 | nad 30 | 267 | 40
+
+VIII. Prívesy nákladné
+
+a) hromadné typy:
+
+Por. čís. | Značka, typ a druh | Valníkové | Sklápacie | Skriňové | Špeciálne | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | | | |
+
+a | b | 11 | 12 | 13 | 14 | 21
+
+1 | A 1,5 | 81 | | | | 45
+
+2 | A 3 | 90 | | | | 55
+
+| | | | 170 | | 50
+
+3 | A 3 C 3000 l cisterna | | | | 203 | 40
+
+4 | A 5 | 108 | | | | 55
+
+5 | A 5 P, PO | | 146 | | | 55
+
+6 | A 5 S sťahovacie | | | | 284 | 55
+
+7 | A 10 | 208 | | | | 45
+
+8 | T 3,5 | 66 | | | | 65
+
+9 | T 3,5 P | | 83 | | | 65
+
+10 | T 5 P | | 108 | | | 65
+
+11 | DA 5 na dlhé drevo | | | | 201 | 55
+
+12 | DA 6,5 na dlhé drevo | | | | 268 | 55
+
+13 | DT 5 na dlhé drevo | | | | 209 | 55
+
+14 | DT 7 na dlhé drevo | | | | 254 | 50
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa užitočného zaťaženia v tonách uvedeného v technickom preukaze vozidla.
+
+Poradové číslo | Užitočné zaťaženie v tonách | Počet náprav | Valníkové | Sklápacie | Skriňové | Špeciálne | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | | | | |
+
+a | b | c | 11 | 12 | 13 | 14 | 21
+
+| aa) jednonápravové | | | | | |
+
+1 | do 2,000 | 1 | 49 | | 68 | 153 | 50
+
+2 | 2,001-7,500 | 1 | | | | 200 | 50
+
+3 | nad 7,500 | 1 | | | | 246 | 50
+
+| bb) dvoj- a viacnápravové | | | | | |
+
+1 | do 1,500 | 2 | 79 | 93 | | | 45
+
+| | | | | 131 | | 35
+
+2 | 1,501-2,500 | 2 | 90 | 105 | | | 45
+
+| | | | | 156 | | 35
+
+3 | 2,501-3,500 | 2 | 99 | 118 | | | 50
+
+| | | | | 180 | | 40
+
+4 | 3,501-5,500 | 2 | 113 | 139 | | | 50
+
+| | | | | 210 | | 40
+
+5 | 5,501-7,500 | 2 | 131 | 162 | | | 55
+
+| | | | | 298 | | 35
+
+6 | | 3 | 147 | 181 | | | 50
+
+| | | | | 348 | | 35
+
+7 | 7,501-10,000 | 2 | 158 | 195 | | | 60
+
+| | | | | 351 | | 40
+
+8 | | 3 | 177 | 217 | | | 55
+
+| | | | | 408 | | 35
+
+9 | nad 10,000 | 2 | pozri poznámku | | | |
+
+10 | | 3 | pozri poznámku | | | |
+
+Poznámka: Pre dvoj-a viacnápravové prívesy s užitočným zaťažením 10,000 t a viac sa použijú odpisové sadzby udané pre užitočné zaťaženie 7,501 - 10,000 t, ku ktorým sa pripočíta za každú ďalšiu tonu užitočného zaťaženia 10 % celkovej odpisovej sadzby v Kčs.
+
+Poradové číslo | Užitočné zaťaženie v tonách | Počet náprav | Valníkové | Sklápacie | Skriňové | Špeciálne | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | | | |
+
+a | b | c | 11 | 12 | 13 | 14 | 21
+
+| cc) ťažké na pneumatikách | | | | | |
+
+1 | do 15 | | | | | 391 | 45
+
+2 | 16-20 | | | | | 940 | 40
+
+3 | 21-30 | | | | | 1 122 | 45
+
+4 | 31-40 | | | | | 1 200 | 45
+
+5 | 41-60 | | | | | 1 518 | 45
+
+6 | nad 60 | | | | | 1 969 | 45
+
+| dd) ťažké na plných obručiach | | | | | |
+
+1 | do 20 | | | | | 1532 | 45
+
+2 | 21-40 | | | | | 2708 | 45
+
+3 | 41-60 | | | | | 2827 | 45
+
+4 | 61-80 | | | | | 3902 | 45
+
+5 | nad 80 | | | | | 5270 | 45
+
+IX. Návesy osobné
+
+Por. čís. | Značka a typ | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | Z celkovej odpisovej sadzby pripadá na GO %
+
+a | b | 11 | 21
+
+1 | Karosa NO 80*) | |
+
+*) Určí sa dodatočne.
+
+X. Návesy nákladné
+
+Poradové číslo | Užitočné zaťaženie v tonách | Valníkové | Skriňové | Z celkovej odpisovej sadzby pripadá na GO %
+
+| | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | |
+
+a | b | 11 | 12 | 21
+
+1 | do 10,000 | *) | |
+
+2 | do 14,00 | 355 | | 55
+
+3 | nad 14,000 | *) | |
+
+XI. Motocykle
+
+a) hromadné typy:
+
+Poradové číslo | Značka a typ | Celková odpisová sadzba v Kčs na 1000 základných kilometrov | Z celkovej odpisovej sadzby pripadá na GO %
+
+a | b | 11 | 21
+
+1 | ČZ 125 | 151 | 60
+
+2 | ČZ 150 | 161 | 55
+
+3 | Jawa ČZ 125 | 174 | 55
+
+4 | Jawa ČZ 150 | 184 | 55
+
+5 | Jawa ČZ 175 | 200 | 50
+
+6 | Jawa ČZ 250 | 166 | 45
+
+7 | Jawa ČZ 350 | 184 | 45
+
+8 | Jawa 250 | 148 | 45
+
+9 | Jawa 350 | 166 | 45
+
+10 | Jawa 500 | 165 | 40
+
+b) ostatné typy neuvedené pod písmenom a):
+
+Pre tieto vozidlá sa normy odpisov určujú podľa obsahu valcov v cm<sup>3</sup> uvedeného v technickom preukaze vozidla.
+
+1 | do 150 | 170 | 55
+
+2 | 151-250 | 149 | 50
+
+3 | 251-350 | 166 | 45
+
+4 | 351-500 | 162 | 40
+
+5 | 501 a viac | 154 | 40
