@@ -1,3 +1,7 @@
+## DVANÁSTA ČASŤ
+
+## ŠTÁTNY ZÁVEREČNÝ ÚČET, ŠTÁTNE AKTÍVA A ŠTÁTNE PASÍVA
+
 # § 49a
 
 Na preklenutie dočasného nesúladu medzi príjmami a výdavkami štátneho rozpočtu v rozpočtovom roku môže ministerstvo

@@ -8,6 +8,8 @@
 
 - 2b) Zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
 
+- 2c) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni.
@@ -35,6 +37,8 @@
 - 8aa) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.
 
 - 8ab) § 4 ods. 2 a 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
+- 8ac) Zákon č. 291/2002 Z. z.
 
 - 9) Napríklad zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
@@ -97,6 +101,8 @@
 - 21) Zákon č. 71/1967 Zb.
 
 - 21aa) § 116 zákona č. 40/1964 Zb.
+
+- 21b) § 20 a 20a zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.
 
 - 22) § 489 a nasl. Obchodného zákonníka.
 
