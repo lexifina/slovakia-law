@@ -1,0 +1,1 @@
+Jozef Liščák v. r.
