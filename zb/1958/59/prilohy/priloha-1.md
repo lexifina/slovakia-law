@@ -132,7 +132,7 @@
 
     - 2. Odstupujúca Rada guvernérov (alebo v prípade prvej Rady Prípravný výbor uvedený v prílohe I) určí pre členstvo v Rade dvoch členov z týchto ostatných výrobcov základných materiálov: Belgicko, Československo, Poľsko a Portugalsko; taktiež určí pre členstvo v Rade jedného ďalšieho člena ako dodávateľa technickej pomoci. Žiadny člen v tejto kategórii v ktoromkoľvek roku nebude môcť sa znovu určiť v tej istej kategórii pre nasledujúci rok.
 
-    - 3. Generálna konferencia zvolí desať členov pre členstvo v Rade guvernérov s náležitým zreteľom na spravodlivé zastúpenie členov podľa oblastí uvedených v pododseku A-1 tohto článku v Rade ako celku tak, aby Rada stále mala v tejto kategórii zástupcu každej z týchto oblastí okrem Severnej Ameriky. Okrem piatich členov, volených na čas jedného roku podľa odseku D tohto článku, žiadny člen v tejto kategórii v ktoromkoľvek funkčnom období nebude sa môcť znovu zvoliť v tej istej kategórii pre nasledujúce funkčné obdobie.
+    - 3. Generálna konferencia zvolí 12 členov do Rady guvernérov s patričným zreteľom na spravodlivé zastúpenie podľa oblastí uvedených v pododseku A/1 tohto článku v Rade ako celku tak, aby Rada stále zahrňovala v tejto kategórii troch zástupcov z oblasti Latinskej Ameriky, troch zástupcov z oblasti Afriky a Stredného východu a jedného zástupcu z každej zo zostávajúcich oblastí s výnimkou Severnej Ameriky.
 
   - B. Určenie členov, ako určuje pododsek A-1 a A-2, vykonáva sa najmenej 60 dní pred každým pravidelným ročným zasadaním Generálnej konferencie. Voľby určené v pododseku A-3 tohto článku sa konajú na pravidelných ročných zasadaniach Generálnej konferencie.
 
