@@ -5,3 +5,5 @@
 (2) Člen sudcovskej rady sa môže svojho členstva a funkcie v sudcovskej rade vzdať. Preložením člena sudcovskej rady na súd mimo obvodu sudcovskej rady jeho členstvo v sudcovskej rade zaniká.
 
 (3) Člen sudcovskej rady môže byť pred uplynutím volebného obdobia odvolaný z funkcie alebo členstva v sudcovskej rade z disciplinárnych dôvodov právoplatným rozhodnutím kárneho senátu.
+
+(4) Sudcovi, ktorý vykonáva stáž podľa osobitného predpisu,<sup>7</sup>) členstvo v sudcovskej rade počas výkonu stáže nezaniká.

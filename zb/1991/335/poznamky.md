@@ -11,3 +11,5 @@
 - 5a) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 6) Zákon č. 119/1992 Zb. o cestovných náhradách.
+
+- 7) § 13 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
