@@ -20,7 +20,7 @@
 
 - 8a) § 53 zákona č. 461/2003 Z. z.
 
-- 8b) § 73 ods. 1 zákona č. 461/2003 Z. z.
+- 8b) § 73 zákona č. 461/2003 Z. z.
 
 - 8c) § 77 zákona č. 461/2003 Z. z.
 
@@ -55,6 +55,8 @@
 - 14) § 51 a 52 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 15) § 85 a 86 a § 91 a 92 Zákona o rodine.
+
+- 15a) Zákon č. 452/2004 Z. z. o náhradnom výživnom v znení zákona č. 613/2004 Z. z.
 
 - 16) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
