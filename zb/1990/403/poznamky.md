@@ -23,5 +23,3 @@
 - 5) § 4 ods. 1 vládneho nariadenia č. 15/1959 Zb.
 
 - 6) Napr. rodný alebo sobášny list, závet.
-
-- 6a) Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
