@@ -1,0 +1,1 @@
+- *) Tabuľku vydá Ministerstvo financií ako prílohu inštrukcie pre národné výbory.
