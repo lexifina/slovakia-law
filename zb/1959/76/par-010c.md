@@ -2,7 +2,7 @@
 
 # § 10c
 
-(1) Vojakom z povolania sa preruší výkon funkcie na dobu nepresahujúcu tri mesiace, a dlhšie len so súhlasom ministra obrany Českej a Slovenskej Federatívnej Republiky alebo ministra vnútra Českej a Slovenskej Federatívnej Republiky, pri vojenskoodbornej nespôsobilosti na základe hodnotenia, pri skončení funkčného obdobia vo volených funkciách<sup>4</sup>) a pri vylúčení zo štúdia alebo zanechaní štúdia, ak sa súčasne nerozhodlo o ich ustanovení do inej funkcie alebo o prepustení zo služobného pomeru.
+(1) Vojakom z povolania sa preruší výkon funkcie na dobu nepresahujúcu tri mesiace, a dlhšie len so súhlasom ministra obrany Slovenskej republiky alebo ministra vnútra Slovenskej republiky, pri vojenskoodbornej nespôsobilosti na základe hodnotenia, pri skončení funkčného obdobia vo volených funkciách<sup>4</sup>) a pri vylúčení zo štúdia alebo zanechaní štúdia, ak sa súčasne nerozhodlo o ich ustanovení do inej funkcie alebo o prepustení zo služobného pomeru.
 
 (2) Vojačkám z povolania sa do nástupu materskej dovolenky preruší výkon funkcie, ak ju z dôvodu tehotenstva nemôžu vykonávať.
 
@@ -18,6 +18,6 @@
 
 - e) po dobu dovolenky bez nároku na peňažné náležitosti dlhšej ako 30 dní.
 
-(4) Vojakom z povolania prerušuje výkon funkcie minister obrany Českej a Slovenskej Federatívnej Republiky alebo minister vnútra Českej a Slovenskej Federatívnej Republiky alebo orgány nimi na to splnomocnené.
+(4) Vojakom z povolania prerušuje výkon funkcie minister obrany Slovenskej republiky alebo minister vnútra Slovenskej republiky alebo orgány nimi na to splnomocnené.
 
 (5) Po dobu prerušenia výkonu funkcie podľa odsekov 1 a 2 plnia vojaci z povolania úlohy podľa rozhodnutia veliteľa, ktorý o prerušení rozhodol.

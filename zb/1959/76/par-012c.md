@@ -4,4 +4,4 @@
 
 (2) V roku, keď bola vojakom z povolania udelená preventívna rehabilitácia alebo kúpeľné liečenie mimo riadnej dovolenky, nárok na osobitnú dovolenku zaniká.
 
-(3) Federálne ministerstvo obrany a Federálne ministerstvo vnútra po dohode s Federálnym ministerstvom práce a sociálnych vecí, Ministerstvom zdravotníctva Českej republiky a Ministerstvom zdravotníctva Slovenskej republiky ustanovia všeobecne záväzným právnym predpisom, ktorá služba je zdraviu škodlivá alebo zvlášť obťažná.
+(3) Ministerstvo obrany a Ministerstvo vnútra po dohode s Ministerstvom práce a sociálnych vecí a Ministerstvom zdravotníctva Slovenskej republiky ustanovia všeobecne záväzným právnym predpisom, ktorá služba je zdraviu škodlivá alebo zvlášť obťažná.

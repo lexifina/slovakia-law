@@ -2,7 +2,7 @@
 
 (1) Štát zodpovedá za škodu spôsobenú osobou alebo osobe, ktorá poskytla pomoc vojakovi v činnej službe pri výkone poriadkovej, strážnej, eskortnej a dozornej služby alebo vojenskému policajtovi alebo v prospech vojenského obranného spravodajstva na ich žiadosť alebo s ich vedomím. Štát sa tejto zodpovednosti môže zbaviť len vtedy, ak osoba škodu spôsobila úmyselne.
 
-(2) Ak u poškodeného došlo k ujme na zdraví alebo k smrti, postupuje sa podľa predpisov o odškodňovaní pracovných úrazov pracovníkov. Vláda Českej a Slovenskej Federatívnej Republiky môže ustanoviť všeobecne záväzným právnym predpisom, v ktorých prípadoch a v akom rozsahu:
+(2) Ak u poškodeného došlo k ujme na zdraví alebo k smrti, postupuje sa podľa predpisov o odškodňovaní pracovných úrazov pracovníkov. Vláda Slovenskej republiky môže ustanoviť všeobecne záväzným právnym predpisom, v ktorých prípadoch a v akom rozsahu:
 
 - a) patrí poškodenému popri nárokoch podľa pracovnoprávnych predpisov jednorazové mimoriadne odškodnenie;
 

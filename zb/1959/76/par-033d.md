@@ -10,6 +10,6 @@
 
 (5) Dávky priznané podľa tohto dielu zákona sa nezdaňujú.
 
-(6) Minister obrany Českej a Slovenskej Federatívnej Republiky a minister vnútra Českej a Slovenskej Federatívnej Republiky môžu vo svojej pôsobnosti odstraňovať tvrdosti, ktoré by sa vyskytli pri vykonávaní ustanovení tohto dielu zákona.
+(6) Minister obrany Slovenskej republiky a minister vnútra Slovenskej republiky môžu vo svojej pôsobnosti odstraňovať tvrdosti, ktoré by sa vyskytli pri vykonávaní ustanovení tohto dielu zákona.
 
 (7) Federálne ministerstvo obrany a Federálne ministerstvo vnútra ustanovia všeobecne záväzným právnym predpisom podrobnosti a peňažných dávkach a organizácii a konaní o nich.
