@@ -50,7 +50,7 @@ Príloha č. 1 k zákonu č. 245/2003 Z. z.
 
   - 4. Chemický priemysel
 
-  - Pri prevádzkach uvedených v tejto kategórii priemyselnej činnosti sa výrobou rozumie výroba v priemyselnom meradle pomocou chemických reakcií a fyzikálno-chemických procesov (body 4.1. až 4.6.).
+  - Pri kategórii prevádzok uvedených v tomto bode sa výrobou rozumie výroba v priemyselnom meradle pomocou chemických reakcií a fyzikálno-chemických procesov (body 4.1. až 4.6.).
 
     - 4.1. Chemické prevádzky na výrobu základných organických chemických látok, ako sú
 
@@ -141,7 +141,5 @@ Príloha č. 1 k zákonu č. 245/2003 Z. z.
     - 6.7. Prevádzky na povrchovú úpravu látok, predmetov alebo výrobkov používajúce organické rozpúšťadlá, najmä vykonávajúce apretáciu, potlač, pokovovanie, odmasťovanie, vodovzdornú úpravu, úpravu rozmerov, farbenie, čistenie alebo impregnáciu so spotrebou organického rozpúšťadla väčšou ako 150 kg za hodinu alebo väčšou ako 200 t za rok.
 
     - 6.8. Prevádzky na výrobu uhlíka (vysokoteplotnou karbonizáciou uhlia) alebo elektrografitu vypaľovaním alebo grafitizáciou.
-
-    - 6.9. Prevádzky na zachytávanie prúdu oxidu uhličitého na účely trvalého ukladania do geologického prostredia podľa osobitného predpisu.<sup>18d</sup>)
 
   - Poznámka: Uvádzané prahové hodnoty sa všeobecne vzťahujú na projektované výrobné kapacity alebo iný ukazovateľ prevádzky. Ak prevádzkovateľ prevádzkuje viac prevádzok v rovnakom mieste, ktoré patria do kategórie prevádzok s rovnakým označením, kapacity výstupov z týchto prevádzok sa sčítajú.
