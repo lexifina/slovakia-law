@@ -6,7 +6,7 @@
 
 - 4) § 5 ods. 2 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
-- 5) § 11 ods. 3 písm. i) zákona Slovenskej národnej rady č. 369/1990 Zb.
+- 5) § 11 ods. 4 písm. i) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch).
 
 - 6) § 28 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 567/1992 Zb.
 
