@@ -22,7 +22,9 @@
 
 - 8) § 2 Obchodného zákonníka.
 
-- 8a) Doplnková poznámka 4 ku kapitole 27 colného sadzobníka.
+- 8a) Číselný kód 01.1, 01.2 a 01.3 Klasifikácie produkcie vydanej opatrením Štatistického úradu Slovenskej republiky č. 172/1995 Z. z., ktorým sa vyhlasuje klasifikácia produkcie.
+
+- 8b) Číselný kód 01.4 Klasifikácie produkcie vydanej opatrením Štatistického úradu Slovenskej republiky č. 172/1995 Z. z.
 
 - 9) § 226 a nasl. Colného zákona.
 
