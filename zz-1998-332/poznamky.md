@@ -1,0 +1,1 @@
+- 1) § 48 zákona Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov.
