@@ -4,10 +4,14 @@
 
 - a) riaditeľ daňového úradu alebo ním poverený zamestnanec,
 
-- b) riaditeľ ústredného riaditeľstva alebo ním poverený zamestnanec,
+- b) generálny riaditeľ daňového riaditeľstva alebo ním poverený zamestnanec,
 
-- c) minister financií alebo ním poverený zamestnanec,
+- c) riaditeľ colného úradu alebo ním poverený zamestnanec,
 
-- d) starosta obce alebo ním poverený zamestnanec.
+- d) generálny riaditeľ colného riaditeľstva alebo ním poverený zamestnanec,
 
-(2) Správca dane, ústredné riaditeľstvo a ministerstvo zodpovedajú za vytvorenie podmienok na zachovanie daňového tajomstva. To platí aj na využívanie a sprístupňovanie daňového tajomstva evidovaného pomocou výpočtovej techniky.
+- e) minister financií alebo ním poverený zamestnanec,
+
+- f) starosta obce alebo ním poverený zamestnanec.
+
+(2) Správca dane, daňové riaditeľstvo, colné riaditeľstvo a ministerstvo zodpovedajú za vytvorenie podmienok na zachovanie daňového tajomstva. To platí aj na využívanie a sprístupňovanie daňového tajomstva evidovaného pomocou výpočtovej techniky.

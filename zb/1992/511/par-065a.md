@@ -12,7 +12,7 @@
 
 - d) uznesenia súdu o zrušení konkurzu po splnení núteného vyrovnania.
 
-(3) Ak po skončení konkurzného konania zostane majetok, odpíše správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 až po zániku daňového subjektu, ak zániku predchádzala likvidácia; ak zániku daňového subjektu predchádza jeho zrušenie bez likvidácie, správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 neodpíše.
+(3) Ak po skončení konkurzného konania zostane majetok, odpíše správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 až po zániku daňového subjektu, ak zániku predchádzala likvidácia; ak zániku daňového subjektu predchádza jeho zrušenie bez likvidácie, správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 neodpíše. Ak sa likvidácia podľa osobitného predpisu nevyžaduje,<sup>13eb</sup>) správca dane daňovú pohľadávku odpíše.
 
 (4) Odpísaním daňovej pohľadávky daňový nedoplatok zaniká.
 
