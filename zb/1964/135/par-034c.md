@@ -1,23 +1,15 @@
-# § 34c Zmluvy (dohody) o spolupráci pri zabezpečovaní dodávok na vnútorný trh
+# § 34c
 
-(1) Zmluvu (dohodu) o spolupráci pri zabezpečovaní dodávok na vnútorný trh uzavierajú generálne riaditeľstvá a odborové podniky výroby a obchodu, prípadne zväzy spotrebných družstiev, a to na obdobie najmenej jedného roka.
+Zmluva obsahuje najmä
 
-(2) So súhlasom nadriadených orgánov môžu zmluvy o spolupráci pri zabezpečovaní dodávok na vnútorný trh uzavierať aj dodávateľské a odberateľské organizácie (podniky).
+- a) systém, formy a metódy prieskumu spotrebiteľského dopytu tak, aby mohli slúžiť ako podklad pre dlhodobý rozvoj výroby a predaja, pre zostavovanie plánov a pre zabezpečovanie dodávok výrobkov,
 
-(3) Zmluva sa uzaviera na návrh jednej zo zúčastnených organizácií a jej obsah je záväzný pre podriadené organizácie.
+- b) dojednania o určení záručných podmienok, spôsobe vykonávania záručných opráv a ich vyhodnocovaní,
 
-(4) Prípadné rozpory o uzavretí, rozsahu a obsahu zmluvy riešia nadriadené orgány.
+- c) dojednania o propagácii a reklame, zabezpečovaní katalógov a pod.,
 
-(5) Zmluva obsahuje najmä
+- d) dojednania o akosti, balení a označovaní výrobkov,
 
-- systém, formy a metódy prieskumu spotrebiteľského dopytu tak, aby mohli slúžiť ako podklad pre dlhodobý rozvoj výroby a predaja, pre zostavovanie štátnych a hospodárskych plánov rozvoja národného hospodárstva a pre zabezpečovanie dodávok výrobkov;
+- e) kontraktačný poriadok, najmä organizáciu, priebeh a postup pri uzavieraní zmluvy o dodávke výrobkov,
 
-- dojednania o určení záručných podmienok, spôsobe vykonávania záručných opráv a ich vyhodnocovaní;
-
-- dojednania o propagácii a reklame, zabezpečovaní katalógov a pod.;
-
-- dojednania o akosti, balení a označovaní výrobkov;
-
-- kontraktačný poriadok, najmä organizáciu, priebeh a postup pri uzavieraní dodávkových zmlúv;
-
-- dojednanie o tom, že ak sa kontraktačné konanie neskončí uzavretím dodávkovej zmluvy, uzavrú zúčastnené organizácie túto zmluvu najneskôr do 30 dní po skončení kontraktácie pod dohovorenou majetkovou sankciou.
+- f) dojednanie o tom, že ak sa neskončí kontraktačné konanie uzavretím zmluvy o dodávke výrobkov, uzavrú zúčastnené organizácie túto zmluvu najneskôr do 30 dní po skončení kontraktačného konania pod dohovorenou majetkovou sankciou.
