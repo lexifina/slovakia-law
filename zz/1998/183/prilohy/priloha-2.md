@@ -2,15 +2,15 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
 - ZÁVÄZNÁ ČASŤ ÚZEMNÉHO PLÁNU VEĽKÉHO ÚZEMNÉHO CELKU TRNAVSKÉHO KRAJA
 
-  - I. ZÁVÄZNÉ REGULATÍVY FUNKČNÉHO A PRIESTOROVÉHO USPORIADANIE ÚZEMIA
+  - I. ZÁVÄZNÉ REGULATÍVY FUNKČNÉHO A PRIESTOROVÉHO USPORIADANIA ÚZEMIA
 
     - 1. V oblasti usporiadania územia, osídlenia a rozvoja sídelnej štruktúry
 
-      - 1.1 vychádzať pri územnom rozvoji kraja z rovnocenného zhodnotenia vnútroregionálnych a nadregionálnych vzťahov pri zdôraznení územnej polohy kraja, cez ktorý sa prepája hlavné mesto Slovenska Bratislava s ostatným územím Slovenskej republiky a ktorý hraničí s Maďarskou republikou, Rakúskou republikou a Českou republikou,
+      - 1.1 vychádzať pri územnom rozvoji kraja z rovnocenného zhodnotenia vnútroregionálnych a nadregionálnych vzťahov pri zdôraznení územnej polohy kraja, cez ktorý sa prepája hlavné mesto Slovenska Bratislava s ostatným územím Slovenskej republiky a ktorý hraničí s Maďarskou republikou, Rakúskou republikou a s Českou republikou,
 
       - 1.2 formovať ťažiská osídlenia na celoštátnej, nadregionálnej a regionálnej úrovni prostredníctvom usmerňovania formovania funkčnej a priestorovej štruktúry jednotlivých hierarchických úrovní centier osídlenia a priľahlých vidieckych sídel a vidieckych priestorov podieľajúcich sa na vzájomných sídelných väzbách v rámci daného ťažiska osídlenia,
 
-      - 1.3 podporovať rozvoj mesta Trnava ako centra osídlenia nadregionálneho významu, predovšetkým rozvoj
+      - 1.3 podporovať rozvoj mesta Trnava ako centra prvej skupiny zaradeného do druhej podskupiny a rozvoj miest Piešťany a Dunajská Streda ako centier druhej skupiny zaradených do prvej podskupiny, predovšetkým v rozvoji
 
         - 1.3.1 zariadení verejnej správy vyššieho významu s nadregionálnou pôsobnosťou,
 
@@ -32,95 +32,65 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 1.3.10 zariadení na využívanie voľného času, rekreácie a cestovného ruchu uspokojujúcich potreby kraja až po celoslovenskú úroveň,
 
-      - 1.4 podporovať rozvoj centier osídlenia regionálneho významu v mestách Senica, Skalica, Holíč, Piešťany, Vrbové, Hlohovec, Leopoldov, Galanta, Dunajská Streda, Šamorín a Sereď; v týchto centrách podporovať predovšetkým rozvoj
+      - 1.4 podporovať rozvoj centier
 
-        - 1.4.1 verejnej správy a súdov regionálneho významu,
+        - 1.4.1 tretej skupiny, ktoré tvoria jej prvú podskupinu:
 
-        - 1.4.2 stredných škôl s maturitou,
+          - Galanta,
 
-        - 1.4.3 špeciálnych škôl,
+          - Hlohovec,
 
-        - 1.4.4 inštitútov vzdelávania dospelých,
+          - Senica,
 
-        - 1.4.5 zdravotníctva a sociálneho zabezpečenia,
+          - Skalica,
 
-        - 1.4.6 kultúrnych zariadení vyššieho významu,
+        - 1.4.2 tretej skupiny, ktoré tvoria jej druhú podskupinu:
 
-        - 1.4.7 služieb podporujúcich rôzne podnikateľské aktivity,
+          - Sereď,
 
-        - 1.4.8 nákupných a obchodných stredísk,
+          - Šamorín,
 
-        - 1.4.9 zariadení na využívanie voľného času a rekreácie uspokojujúcich potreby regionálnej a nadregionálnej úrovne,
+        - 1.4.3 štvrtej skupiny:
 
-      - 1.5 podporovať rozvoj centier osídlenia subregionálneho významu na území kraja v sídlach Šaštín-Stráže, Gbely, Kúty, Gabčíkovo, Veľký Meder, Sládkovičovo a Smolenice; v týchto centrách podporovať predovšetkým rozvoj
+          - Holíč,
 
-        - 1.5.1 stredných odborných škôl,
+          - Veľký Meder,
 
-        - 1.5.2 všeobecných zdravotných stredísk,
+          - Vráble,
 
-        - 1.5.3 služieb remeselného charakteru,
+        - 1.4.4 piatej skupiny:
 
-        - 1.5.4 obchodnej siete s rozšíreným sortimentom tovarov,
+          - Gbely,
 
-        - 1.5.5 zariadení na využívanie voľného času a rekreácie uspokojujúcich potreby kraja a jeho častí,
+          - Sládkovičovo,
 
-      - 1.6 podporovať rozvoj centier osídlenia lokálneho významu v okrese
+          - Vrbové,
 
-        - 1.6.1 Skalica – Radošovce a Unín,
+          - Leopoldov,
 
-        - 1.6.2 Senica – Smrdáky, Borský Mikuláš, Jablonica, Kúty, Moravský Svätý Ján, Dojč a Sobotište,
+      - 1.5 podporovať rozvoj kvartérnych centier, predovšetkým v bratislavsko – trnavsko – nitrianskej aglomerácii, ktorá má najväčší predpoklad zabezpečiť rozvoj kvartérnych aktivít,
 
-        - 1.6.3 Hlohovec – Dvorníky, Madunice a Horné Otrokovce,
+      - 1.6 podporovať rozvoj regionálnych rozvojových pólov centier ťažísk osídlenia; usmerňovať umiestnenie časti funkcií centier ťažísk osídlenia do obcí ležiacich v ich bližšom záujmovom území, a to:
 
-        - 1.6.4 Piešťany – Drahovce, Chtelnica, Moravany nad Váhom a Veľké Kostoľany,
+        - 1.6.1 obytné funkcie s primeraným štandardom občianskej vybavenosti,
 
-        - 1.6.5 Galanta – Horné Saliby, Jelka, Mostová, Pata, Šintava, Šoporňa, Trstice, Veľká Mača a Veľké Úľany,
+        - 1.6.2 výrobné funkcie,
 
-        - 1.6.6 Trnava – Boleráz, Bučany, Cífer, Dechtice, Dolná Krupá, Horné Orešany, Hrnčiarovce nad Parnou, Jaslovské Bohunice, Križovany nad Dudváhom, Majcichov, Suchá nad Parnou, Špačince, Voderady, Zavar a Zeleneč,
+        - 1.6.3 rekreačné aktivity,
 
-        - 1.6.7 Dunajská Streda – Lehnice, Zlaté Klasy, Holice, Michal na Ostrove, Horný Bar, Kvetoslavov, Rohovce, Čiližská Radvaň, Medveďov a Dolný Štál.
+      - 1.7 podporovať rozvoj obytnej funkcie, sociálnej a technickej vybavenosti, ale aj hospodárskych aktivít a rekreačnej funkcie vo všetkých vidieckych sídlach s cieľom postupne zvýšiť ich štandard,
 
-      - V týchto centrách podporovať predovšetkým rozvoj zariadení
+      - 1.8 pri novej výstavbe zachovať jestvujúce vojenské objekty a rešpektovať ich ochranné pásma,
 
-      - a)
+      - 1.9 vytvárať nadnárodnú sieť spolupráce medzi jednotlivými mestami, regiónmi a ostatnými aktérmi územného rozvoja v Slovenskej republike a v okolitých štátoch s využitím väzieb jednotlivých sídel a sídelných systémov v euroregiónoch a v ďalších oblastiach cezhraničnej spolupráce,
 
-      - školstva – základných škôl a materských škôl,
+      - 1.10 podporovať vzťah urbánnych a rurálnych území v novom partnerstve založenom na integrácii funkčných vzťahov mesta a vidieka a kultúrno-historických a urbanisticko-architektonických daností,
 
-      - b)
+      - 1.11 zachovávať pôvodný špecifický ráz vidieckeho priestoru, vychádzať z pôvodného charakteru zástavby a historicky utvorenej okolitej krajiny; zachovať historicky utváraný typ zástavby obcí a zohľadňovať národopisné špecifiká jednotlivých regiónov,
 
-      - zdravotníctva – zdravotných stredísk s ambulanciami všeobecných lekárov a lekárňami,
+      - 1.12 pri rozvoji vidieckych oblastí zohľadňovať ich špecifické prírodné a krajinné prostredie a pri rozvoji jednotlivých činností dbať na zamedzenie, resp. obmedzenie možných negatívnych dôsledkov týchto činností na krajinné a životné prostredie vidieckeho priestoru,
 
-      - c)
-
-      - spojov a telekomunikácií – pôšt,
-
-      - d)
-
-      - služieb – stravovacích zariadení,
-
-      - e)
-
-      - kultúrnospoločenských – kín, kultúrnych domov a knižníc,
-
-      - f)
-
-      - športu a rekreácie – telocviční a otvorených športových ihrísk,
-
-      - g)
-
-      - obchodov s komplexným základným sortimentom tovaru,
-
-      - 1.7 podporovať rozvoj regionálnych rozvojových pólov centier ťažísk osídlenia; usmerňovať umiestnenie časti funkcií centier ťažísk osídlenia do obcí ležiacich v ich bližšom záujmovom území, a to:
-
-        - 1.7.1 obytné funkcie s primeraným štandardom občianskej vybavenosti,
-
-        - 1.7.2 výrobné funkcie,
-
-        - 1.7.3 rekreačné aktivity,
-
-      - 1.8 podporovať rozvoj obytnej funkcie, sociálnej a technickej vybavenosti, ako aj hospodárskych aktivít a rekreačnej funkcie vo všetkých vidieckych sídlach s cieľom postupne zvýšiť ich štandard,
-
-      - 1.9 pri novej výstavbe zachovať jestvujúce vojenské objekty a rešpektovať ich ochranné pásma.
+      - 1.13 vytvárať podmienky dobrej dostupnosti vidieckych priestorov k sídelným centrám, podporovať výstavbu verejného dopravného a technického vybavenia obcí, moderných informačných technológií tak, aby vidiecke priestory vytvárali kultúrne a pracovne rovnocenné prostredie vo vzťahu k urbánnym priestorom a dosiahnuť tak skĺbenie tradičného vidieckeho prostredia s požiadavkami na moderný spôsob života.
 
     - 2. V oblasti rekreácie a turistiky
 
@@ -132,7 +102,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 2.2.2 pás pozdĺž Dunaja v rámci tzv. Malého Žitného ostrova, pás pozdĺž Malého Dunaja, na vhodných úsekoch Váhu (vodné dielo Kráľová, v budúcnosti aj v úseku Sereď – Hlohovec a v úseku Hlohovec – Sĺňava),
 
-        - 2.2.3 rekreačnokrajinné celky Piešťany s okolím (Sĺňava, Bezovec) a v strednej časti Malých Karpát Smolenice – Buková a menší celok pri Dobrej Vode,
+        - 2.2.3 rekreačno-krajinné celky Piešťany s okolím (Sĺňava, Bezovec) a v strednej časti Malých Karpát Smolenice – Buková a menší celok pri Dobrej Vode,
 
       - 2.3 podporovať rozvoj bodových lokalít v poľnohospodárskej krajine, predovšetkým areály termálnych kúpalísk a vodné plochy,
 
@@ -150,7 +120,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
       - 2.7 vytvoriť podmienky na rozvoj vidieckej turistiky a agroturistiky,
 
-      - 2.8 lokalizovať potrebnú vybavenosť do obcí ležiacich v blízkosti rekreačných cieľov; do voľnej krajiny umiestňovať len vybavenosť, ktorá sa viaže bezprostredne na uskutočňovanie činností závislých od prírodných daností,
+      - 2.8 viazať lokalizáciu služieb zabezpečujúcich proces rekreácie a turizmu prednostne do sídel s cieľom zamedziť neodôvodnené rozširovanie rekreačných útvarov vo voľnej krajine, pričom je potrebné využiť aj obnovu a revitalizáciu historických mestských a vidieckych celkov a objektov národných kultúrnych pamiatok,
 
       - 2.9 zabezpečiť prímestskú rekreáciu pre obyvateľov väčších miest v ich záujmovom území, predovšetkým v Trnave a Piešťanoch,
 
@@ -158,7 +128,13 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
       - 2.11 na vybudovaných a pripravovaných diaľniciach a medzinárodných cestných trasách vybudovať komplexné objekty služieb pre motoristov,
 
-      - 2.12 na medzinárodných trasách železničnej, leteckej a vodnej dopravy dobudovať komplexný systém služieb pre cestujúcich nadväzujúci na systém v krajinách Európskej únie.
+      - 2.12 na medzinárodných trasách železničnej, leteckej a vodnej dopravy dobudovať komplexný systém služieb pre cestujúcich nadväzujúci na systém v krajinách Európskej únie,
+
+      - 2.13 zabezpečovať v liečebných kúpeľoch únosný pomer liečebnej, turisticko-rekreačnej, kultúrno-spoločenskej funkcie a ich funkčných plôch,
+
+      - 2.14 podporovať vznik a rozvoj miestnych kúpeľov na základe využitia špecifík daného územia,
+
+      - 2.15 na území národných parkov a chránených krajinných oblastí dodržiavať únosný pomer funkcie ochrany prírody a ostatných funkcií spojených s rekreáciou a turizmom.
 
     - 3. V oblasti sociálnej infraštruktúry
 
@@ -178,7 +154,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 3.2.1 rozvíjať zdravotnú starostlivosť v preventívnej, liečebnej a rehabilitačnej oblasti,
 
-        - 3.2.2 vytvárať podmienky na rovnocennú prístupnosť a primeranú dostupnosť obyvateľov jednotlivých oblastí kraja k nemocničným zariadeniam a službám, čo znamená riešiť skalicko – senickú oblasť, pričom nemocnice nižšieho typu a kliniky riešiť ako neštátne zariadenia (mestské a obecné), a tým nahradiť nežiaduci pokles počtu lôžok v nemocniciach,
+        - 3.2.2 vytvárať podmienky na rovnocennú prístupnosť a primeranú dostupnosť obyvateľov jednotlivých oblastí kraja k nemocničným zariadeniam a službám, čo znamená riešiť skalicko-senickú oblasť, pričom nemocnice nižšieho typu a kliniky riešiť ako neštátne zariadenia (mestské a obecné), a tým nahradiť nežiaduci pokles počtu lôžok v nemocniciach,
 
         - 3.2.3 rozvíjať zariadenia liečebnej starostlivosti v záujme optimálneho využitia lôžkových kapacít v nemocniciach a riešiť nevyhovujúcu materiálno-technickú základňu niektorých zariadení.
 
@@ -186,7 +162,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 3.3.1 zvyšovať kvalitu a kvantitu sociálnych služieb ubytovacích zariadení pre starých ľudí (napríklad domovy-penzióny pre dôchodcov) a súvisiacich služieb pre nich vo väzbe na predpokladaný demografický vývoj, ktorý počíta s nárastom obyvateľov v poproduktívnom veku, tak, aby bol kraj v tejto oblasti sebestačný,
 
-        - 3.3.2 vytvárať územno-technické predpoklady pre rozvoj siete zariadení sociálnych služieb pre občanov s ťažkým trvalým postihnutím, a to najmä zariadení pre dospelých.
+        - 3.3.2 vytvárať územno-technické predpoklady na rozvoj siete zariadení sociálnych služieb pre občanov s ťažkým trvalým postihnutím, a to najmä zariadení pre dospelých.
 
     - 4. V oblasti kultúrno-historických hodnôt
 
@@ -194,9 +170,33 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
       - 4.2 rešpektovať kultúrno-historické urbanistické celky, a to aj v širšom rozsahu, ako požaduje ochrana pamiatok,
 
-      - 4.3 rešpektovať potenciál kultúrnych, historických, spoločenských, technických a hospodárskych hodnôt charakterizujúcich dané prostredie, a to ako vo forme hmotnej, tak aj nehmotnej, a vytvárať pre ne vhodné prostredie,
+      - 4.3 rešpektovať potenciál kultúrnych, historických, spoločenských, technických a hospodárskych hodnôt charakterizujúcich dané prostredie, a to vo forme hmotnej, ako aj nehmotnej, a vytvárať pre ne vhodné prostredie,
 
-      - 4.4 rešpektovať a uplatniť funkčnú a typovú profiláciu jednotlivých mestských a vidieckych sídel a ich častí.
+      - 4.4 rešpektovať a uplatniť funkčnú a typovú profiláciu jednotlivých mestských a vidieckych sídel a ich častí,
+
+      - 4.5 posudzovať pri rozvoji územia význam a hodnoty jeho kultúrno-historických daností v nadväznosti na všetky zámery sociálno-ekonomického rozvoja,
+
+      - 4.6 zohľadňovať a revitalizovať v územnom rozvoji
+
+        - 4.6.1 územia lokalít zapísaných v Zozname svetového dedičstva,
+
+        - 4.6.2 územia pamiatkových rezervácií, pamiatkových zón,
+
+        - 4.6.3 územia historických jadier miest a obcí,
+
+        - 4.6.4 známe a predpokladané lokality archeologických nálezísk a nálezov,
+
+        - 4.6.5 národné kultúrne pamiatky, ich súbory a areály a ich ochranné pásma,
+
+        - 4.6.6 územia miest a obcí, kde je zachytený historický stavebný fond, ale aj časti rozptýleného osídlenia,
+
+        - 4.6.7 novodobé architektonické a urbanistické diela,
+
+        - 4.6.8 areály architektonických diel s dotvárajúcim prírodným prostredím,
+
+        - 4.6.9 historické technické diela,
+
+      - 4.7 rešpektovať objekty, súbory alebo areály objektov, ktoré sú navrhované na vyhlásenie za národné kultúrne pamiatky, ale aj územia navrhované na vyhlásenie za pamiatkové rezervácie, pamiatkové zóny a ochranné pásma.
 
     - 5. V oblasti poľnohospodárskej výroby
 
@@ -208,7 +208,13 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
       - 5.4 rešpektovať pri návrhu reštrukturalizácie poľnohospodárskej produkcie vyhlásenú Chránenú vodohospodársku oblasť Žitný ostrov reguláciou používania chemických prostriedkov a reguláciou kapacity produkčných chovov,
 
-      - 5.5 podporovať alternatívne poľnohospodárstvo na chránených územiach, v pásmach hygienickej ochrany a na územiach začlenených do územného systému ekologickej stability.
+      - 5.5 podporovať alternatívne poľnohospodárstvo na chránených územiach, v pásmach hygienickej ochrany a na územiach začlenených do územného systému ekologickej stability,
+
+      - 5.6 stabilizovať výmeru najkvalitnejších pôd, najmä pôd pod závlahami, pôd vinohradov a pôd najlepších bonít, a ochranu výmery a kvality pôdy uskutočňovať nielen ako ochranu hospodársko-sociálneho potenciálu štátu, ale aj ako súčasť ochrany prírodného a životného prostredia,
+
+      - 5.7 stabilizovať a revitalizovať poľnohospodárske odvetvie diferencovane podľa poľnohospodárskych produkčných oblastí,
+
+      - 5.8 zabezpečiť v záujme rozvoja vidieka v horských a podhorských oblastiach so sťaženými prírodnými podmienkami primeranú životnú úroveň a zlepšenie kvality života vidieckeho obyvateľstva prostredníctvom podpory vybraných centier s využitím ich prírodného, demografického a kultúrno-historického potenciálu v prospech rozvoja vidieckych oblastí.
 
     - 6. V oblasti lesného hospodárstva
 
@@ -226,21 +232,35 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
       - 6.7 pri úprave pozemkov riešiť ochranu poľnohospodárskej pôdy pred veternou eróziou sústavou vetrolamov v nadväznosti na prvky územného systému ekologickej stability,
 
-      - 6.8 netrieštiť ucelené komplexy lesov pri návrhu koridorov technickej infraštruktúry a líniových stavieb.
+      - 6.8 netrieštiť ucelené komplexy lesov pri návrhu koridorov technickej infraštruktúry a líniových stavieb,
 
-    - 7. V oblasti ťažby
+      - 6.9 rozvíjať tradičnú remeselnú výrobu, doplnkové výroby a nevýrobné činnosti súvisiace s lesnou činnosťou ako integrované súčasti lesného hospodárstva, ktoré podporujú rozvoj vidieka,
 
-      - 7.1 realizovať prieskum prírodných uhľovodíkov v perspektívnych častiach Viedenskej panvy v oblasti gbelsko-hodonínskej hrasti, v kopčianskej, kútskej a koválovskej depresii s cieľom zabezpečiť nové ložiská ropy a zemného plynu, ktoré by umožnili ďalší rozvoj ich ťažby ako náhradu za súčasne doťažované ložiská,
+      - 6.10 realizovať ozdravné opatrenia v najviac poškodených lesných spoločenstvách.
+
+    - 7. V oblasti ťažby a priemyselnej výroby
+
+      - 7.1 realizovať prieskum prírodných uhľovodíkov v perspektívnych častiach Viedenskej panvy v oblasti gbelsko-hodonínskej hrasti, v kopčianskej, kútskej a v koválovskej depresii s cieľom zabezpečiť nové ložiská ropy a zemného plynu, ktoré by umožnili ďalší rozvoj ich ťažby ako náhradu za súčasne doťažované ložiská,
 
       - 7.2 využiť priestory po vyťažených plynových ložiskách na zatláčanie tekutých odpadov,
 
-      - 7.3 zosúladiť požiadavky na využívanie ložísk nerastných surovín pre potreby rozvoja hospodárstva so záujmami ochrany prírody najmä v Chránenej krajinnej oblasti Malé Karpaty a Záhorie,
+      - 7.3 zladiť požiadavky na využívanie ložísk nerastných surovín pre potreby rozvoja hospodárstva so záujmami ochrany prírody, najmä v Chránenej krajinnej oblasti Malé Karpaty a Záhorie,
 
       - 7.4 usmerniť v súlade s ochranou životného prostredia, pôdneho fondu a vodohospodárskymi záujmami ťažbu dunajských štrkopieskov, ako aj štrkopieskov v alúviu Váhu a Moravy s uprednostnením ťažby vo vodných nádržiach alebo v korytách tokov oproti ťažbe z porasteného terénu,
 
       - 7.5 zabezpečiť rekultivačné a ekostabilizačné opatrenia v území ovplyvnenom podzemnou ťažbou lignitu v ložisku Gbely,
 
-      - 7.6 rekultivovať a sanovať opustené ťažobne a začleniť ich do funkcie krajiny.
+      - 7.6 rekultivovať a sanovať opustené ťažobne a začleniť ich do funkcie krajiny,
+
+      - 7.7 vychádzať pri územnom rozvoji predovšetkým z princípu rekonštrukcie a sanácie existujúcich priemyselných a stavebných areálov,
+
+      - 7.8 podporovať rozvoj priemyselných, technologických a vedecko-technických parkov a podnikateľských zón
+
+        - 7.8.1. v priestore medzi mestom Trnava a obcou Zavar rozvoj priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“,
+
+      - 7.9 vychádzať pri rozvoji priemyslu a stavebníctva nielen z ekonomickej a sociálnej, ale aj z územnej a environmentálnej únosnosti územia v súčinnosti s hodnotami a limitmi kultúrno-historického potenciálu územia a historického stavebného fondu a so zohľadňovaním špecifík jednotlivých regiónov Slovenskej republiky a využívať pritom predovšetkým miestne suroviny,
+
+      - 7.10 vychádzať pri vytváraní a prevádzke výrobných kapacít z využitia komparatívnych výhod regiónu (poloha, ekonomický potenciál, disponibilné zdroje).
 
     - 8. V oblasti odpadového hospodárstva
 
@@ -252,7 +272,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
       - 8.4 v rámci separovaného zberu komunálneho odpadu vytvoriť systém triedenia všetkých problémových látok, pre ktoré bude k dispozícii technológia na zneškodňovanie,
 
-      - 8.5 vybudovať v každom okrese minimálne jedno zariadenie na kompostovanie biologických odpadov; dotačnými fondami podporovať aktivity zamerané na kompostovanie biologického odpadu,
+      - 8.5 vybudovať v každom okrese minimálne jedno zariadenie na kompostovanie biologických odpadov; dotačnými fondmi podporovať aktivity zamerané na kompostovanie biologického odpadu,
 
       - 8.6 výhľadove riešiť skládkovanie na území kraja orientáciou na veľkokapacitné súčasné a navrhované regionálne skládky; na ten účel vybudovať regionálne skládky
 
@@ -268,7 +288,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 8.6.6 v okrese Dunajská Streda v katastrálnom území Dolný Bar a Čukárska Paka,
 
-      - 8.7 pokračovať na území kraja v sanácii neriadených skládok a ďalších environmentálnych záťaží; na ten účel v súlade s Programom odpadového hospodárstva Slovenskej republiky do roku 2000 schválenom uznesením vlády Slovenskej republiky č. 799 z roku 1996 v každom okrese kraja sanovať minimálne štyri skládky najväčšmi ohrozujúce životné prostredie a v časovej etape rokov 2000–2005 šesť až desať skládok,
+      - 8.7 pokračovať na území kraja v sanácii neriadených skládok a ďalších environmentálnych záťaží; na ten účel v súlade s Programom odpadového hospodárstva Slovenskej republiky do roku 2000 schválenom uznesením vlády Slovenskej republiky č. 799 z roku 1996 v každom okrese kraja sanovať minimálne štyri skládky najväčšmi ohrozujúce životné prostredie a v etape rokov 2000 – 2005 šesť až desať skládok,
 
       - 8.8 likvidovať a sanovať skládky odpadov v území pásem hygienickej ochrany využívaných vodných zdrojov,
 
@@ -284,7 +304,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 9.1.3 vytvoriť podmienky na postupnú homogenizáciu ciest III. triedy na kategóriu S 7,5/60,
 
-        - 9.1.4 v okrese Skalica
+        - 9.1.4. v okrese Skalica
 
           - a) vybudovať na ceste I/51 obchvat Holíča po juhozápadnej strane v dĺžke 5,4 km,
 
@@ -292,7 +312,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
             - 1. rezervovaním koridoru obchvatu Holíča po severovýchodnej strane v dĺžke 2,6 km,
 
-            - 2. vybudovaním nového prieťahu Skalice pozdĺž železničnej trate v dĺžke 4,0 km,
+            - 2. vybudovaním nového prieťahu pre Skalicu pozdĺž železničnej trate v dĺžke 4,0 km,
 
           - c) preradiť cestu II/500 v úseku Senica – Sobotište – Vrbovce – II/499 po presmerovaní dopravy na nový západovýchodný ťah do III. triedy v kategórii S 7,5/60,
 
@@ -314,15 +334,15 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
             - 3. vybudovania obchvatu po severnej strane Šaštína-Stráží v dĺžke 4,4 km,
 
-            - 4. rezervovanie koridoru obchvatu po južnej strane Čáčova v dĺžke 1,7 km so spoločnou trasou s I/51 v dĺžke 2,7 km,
+            - 4. rezervovania koridoru obchvatu po južnej strane Čáčova v dĺžke 1,7 km so spoločnou trasou s I/51 v dĺžke 2,7 km,
 
-          - c) presmerovať trasu II/581 prieťahom cez Sobotište (vyrovnanie ťahu v dĺžke 0,65 km),
+          - c) presmerovať trasu II/581 prieťahom cez Sobotište,
 
           - d) vybudovať definitívny hraničný priechod vrátane vybudovania mostu cez rieku Moravu na trase Moravský Svätý Ján – Hohenau a rozšírením cesty III/00238 Moravský Ján – Hohenau na kategóriu S 9,5/70,
 
           - e) upraviť cestu II/501 na kategóriu S 9,5/80 s
 
-            - 1. vybudovaním prieťahu Jablonice v dĺžke 0,9 km,
+            - 1. vybudovaním prieťahu pre Jablonicu v dĺžke 0,9 km,
 
             - 2. vyrovnaním trasy pri Osuskom v dĺžke 0,8 km,
 
@@ -336,7 +356,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 9.1.6 v okrese Piešťany
 
-          - a) rezervovať priestor pre výhľadové vedenie trasy cesty I/61 prieťahom okresného mesta v štvorpruhovom šírkovom usporiadaní ako mestskú komunikáciu,
+          - a) rezervovať priestor na výhľadové vedenie trasy cesty I/61 prieťahom okresného mesta v štvorpruhovom šírkovom usporiadaní ako mestskú komunikáciu,
 
           - b) vybudovať novú trasu cesty II/499 od I/61 navrhovanej v kategórii S 9,5/60 v dĺžke 6,5 km s novým mostom cez Váh a mimoúrovňovou križovatkou s II/507 a rezervovať koridor pre prieťah tejto cesty od križovania so železničnou traťou pozdĺž železničnej trate na I/61 v dĺžke 4,1 km,
 
@@ -348,7 +368,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
           - b) homogenizovať cestu II/507 na kategóriu S 9,5/60 s úpravou trasy v súvislosti s riešením prieťahu II/513 cez Hlohovec v kategórii MS 14/60,
 
-          - c) rezervovať koridor pre dopravné prepojenie medzinárodnej dopravy v severojužnom smere na Nitru, Komárno a hranicu Slovenskej republiky s napojením na D61 severne od Hlohovca (križovanie III/50419 s D61); trasu treba dimenzovať na návrhovú rýchlosť 120 km/hod.,
+          - c) rezervovať koridor na dopravné prepojenie medzinárodnej dopravy v severojužnom smere na Nitru, Komárno a hranicu Slovenskej republiky s napojením na D 61 severne od Hlohovca (križovanie III/50419 s D 61); trasu treba dimenzovať na návrhovú rýchlosť 120 km/hod.,
 
           - d) rezervovať koridor pre obchvat obce Trakovice na ceste III/513,
 
@@ -372,13 +392,21 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
           - f) vyrovnať trasu II/502 v priestore Trstína v dĺžke 1,0 km,
 
-          - g) rezervovať koridor pre predĺženie severného obchvatu Trnavy na cestu I/504,
+          - g) rezervovať koridor na predĺženie severného obchvatu Trnavy na cestu I/504,
 
-          - h) rezervovať priestor pre rozvoj autobusovej stanice v Trnave v nadväznosti na funkciu krajského mesta,
+          - h) rezervovať priestor na rozvoj autobusovej stanice v Trnave v nadväznosti na funkciu krajského mesta,
+
+          - i) využiť na pripojenie priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“ kvalitnú cestnú sieť a dobudovať prepojenie z mimoúrovňovej križovatky na diaľničnom privádzači I/51 v priestore Modranky na cestu III/051031 vo funkčnej triede B a kategórii MZ 14/60, prípadne MZ 9/60, pripojenie na diaľničný privádzač zabezpečiť dobudovaním súčasnej križovatky s minimalizáciou kolíznych bodov v križovatke, križovatku s cestou III/051031 riešiť ako úrovňovú stykovú križovatku,
+
+          - j) vybudovať cestné pripojenie priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“ na mestský obchvat I/51 s predpokladom ďalšieho pokračovania cestného prepojenia do centra mesta medzi vetvami železničných tratí č. 120 a 133 s mimoúrovňovou križovatkou na ceste I/51 vo funkčnej triede C a v kategórii MO 12/50, prípadne MO 8/50,
+
+          - k) vybudovať v súvislosti so zvýšením využitia cesty III/051031 a významom železničnej trate č. 120 mimoúrovňové križovanie tejto cesty so železničnou traťou,
+
+          - l) riešiť statickú dopravu priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“ výlučne na území areálu s vylúčením zaťaženia priľahlých komunikácií statickou dopravou,
 
         - 9.1.9 v okrese Galanta
 
-          - a) rezervovať priestor pre výhľadové vybudovanie mimoúrovňovej križovatky ciest I/62 s I/75 pri Sládkovičove,
+          - a) rezervovať priestor na výhľadové vybudovanie mimoúrovňovej križovatky ciest I/62 s I/75 pri Sládkovičove,
 
           - b) upraviť priestorové a smerové vedenie cesty I/75 na kategóriu S 11,5/80 zahŕňajúcej budovanie prieťahu cesty po južnom okraji Galanty v dĺžke 2,9 km v kategórii MS 14/60,
 
@@ -402,11 +430,21 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
             - 3. obchvat Dunajskej Stredy na východnom okraji v dĺžke 2,5 km,
 
-          - c) upraviť priestorové usporiadanie a smerové vedenie cesty II/586 (E575) na kategóriu S 9,5/80 v úseku Veľký Meder – Medveďov s rezervovaním koridoru obchvatu po západnej strane Veľkého Medera v dĺžke 1,9 km,
+          - c) upraviť priestorové usporiadanie a smerové vedenie cesty II/586 (E 575) na kategóriu S 9,5/80 v úseku Veľký Meder – Medveďov s rezervovaním koridoru obchvatu po západnej strane Veľkého Medera v dĺžke 1,9 km,
 
           - d) dobudovať cestu II/507 v úseku Dunajská Streda – Gabčíkovo na kategóriu S 9,5/80 v novej trase pozdĺž železnice na II/506,
 
           - e) upraviť cestu II/506 na kategóriu S 9,5/80 s vytvorením územných rezerv pre obchvat Gabčíkova v dĺžke 3,5 km.
+
+        - 9.1.11 rezervovať a rešpektovať koridory hlavnej a doplnkovej siete TINA,
+
+          - a) chrániť koridor trasy cesty I/51 v úseku Česká republika – Holíč – Senica – Trnava – križovatka s D 1 ako cesty medzinárodného významu,
+
+          - b) rezervovať koridor trasy na cestné prepojenie doplnkovej siete TINA od diaľnice D 1 v smere Hlohovec – Nitra,
+
+          - c) homogenizovať cestu II/503 v úseku od hranice kraja po Šamorín na kategóriu C 9,5/80 so zaradením medzi cesty nadregionálneho významu a rezervovaním koridoru na pripojenie na výhľadovú trasu južného cestného ťahu,
+
+          - d) rezervovať koridor a upraviť trasu ciest pre ťah ciest II/590, II/500, II/581 v záhorsko-trenčianskom nadregionálnom koridore (Moravský Svätý Ján – Kúty – Senica – Myjava s vetvou Malacky – Borský Mikuláš – II/500).
 
       - 9.2 Železničná doprava
 
@@ -424,33 +462,37 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 9.2.7 modernizovať trať 133 a upraviť ju na traťovú rýchlosť 140 km/hod.,
 
-        - 9.2.8 vytvoriť technické, investičné a územné podmienky na modernizáciu trate 131 a upraviť ju na traťovú rýchlosť 120 km/hod.
+        - 9.2.8 vytvoriť technické, investičné a územné podmienky na modernizáciu trate 131 a upraviť ju na traťovú rýchlosť 120 km/hod,
+
+        - 9.2.9 vybudovať vlečkové pripojenie priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“ zo železničnej trate č. 133 od križovania trate s mestským obchvatom I/51 a zabezpečiť organizáciu nákladnej dopravy priemyselného parku zo železničnej stanice Trnava,
+
+        - 9.2.10 modernizovať železničnú trať č. 133 Leopoldov – Galanta s jej zaradením do siete TINA a upraviť ju na traťovú rýchlosť v rozpätí 120 – 140 km/hod.
 
       - 9.3 Vodná doprava
 
         - 9.3.1 rezervovať priestor pre výhľadové umiestnenie prístavu Brodské – Kúty alebo Holíč – Chvojnica pre alternatívu prepojenia s Českou republikou vodnou cestou,
 
-        - 9.3.2 rezervovať priestor pre vybudovanie prekladiska v Piešťanoch,
+        - 9.3.2 rezervovať priestor na vybudovanie prekladiska v Piešťanoch,
 
         - 9.3.3 vybudovať podporné technické a servisné zariadenia pre rozvoj športovej a turistickej plavby nadväzne na rekreačný priestor vodnej nádrže Sĺňava,
 
-        - 9.3.4 rezervovať priestor pre vybudovanie riečneho prístavu Hlohovec s nadväznosťou na diaľničný privádzač (II/513) a železničný uzol Leopoldov,
+        - 9.3.4 rezervovať priestor na vybudovanie riečneho prístavu Hlohovec s nadväznosťou na diaľničný privádzač (II/513) a železničný uzol Leopoldov,
 
         - 9.3.5 vybudovať zariadenie pre športovú a turistickú plavbu v súvislosti s vybudovaním Vážskej vodnej cesty,
 
-        - 9.3.6 rezervovať priestor pre vybudovanie riečneho prístavu Sereď s nadväznosťou na I/51 a železničnú stanicu v Seredi,
+        - 9.3.6 rezervovať priestor na vybudovanie riečneho prístavu Sereď s nadväznosťou na I/51 a železničnú stanicu v Seredi,
 
         - 9.3.7 vybudovať prekladisko v Gabčíkove,
 
-        - 9.3.8 rezervovať priestor pre vybudovanie osobného prístavu v Čilistove,
+        - 9.3.8 rezervovať priestor na vybudovanie osobného prístavu v Čilistove,
 
-        - 9.3.9 vybudovať technické a servisné zariadenia pre športovú a turistickú plavbu v súvislosti s vybudovaním osobných prístavov v Gabčíkove a Čilistove,
+        - 9.3.9 vybudovať technické a servisné zariadenia na športovú a turistickú plavbu v súvislosti s vybudovaním osobných prístavov v Gabčíkove a Čilistove,
 
-        - 9.3.10 rezervovať priestor pre výhľadové budovanie vodného prepojenia Bratislava – Sereď vodným kanálom.
+        - 9.3.10 rezervovať priestor na výhľadové budovanie vodného prepojenia Bratislava – Sereď vodným kanálom.
 
       - 9.4 Letecká doprava
 
-        - 9.4.1 pre výhľadový rozvoj civilnej dopravy na letisku v Piešťanoch rozšíriť servisné služby pre medzinárodné letisko,
+        - 9.4.1 na výhľadový rozvoj civilnej dopravy na letisku v Piešťanoch rozšíriť servisné služby pre medzinárodné letisko,
 
         - 9.4.2 vytvoriť potrebný technický servis v okresných sídlach na využívanie leteckej civilnej dopravy,
 
@@ -490,7 +532,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 10.1.5 upravovať vedenia veľmi vysokého napätia (220 kV a 400 kV) v súvislosti s postupným vyraďovaním Atómových elektrární Bohunice z prevádzky,
 
-        - 10.1.6 chrániť koridor na realizáciu prepojenia 400 kV vedenia z elektrárne Gabčíkovo do Mochoviec,
+        - 10.1.6 chrániť koridory na realizáciu prepojenia 400 kV vedenia z elektrárne Gabčíkovo do Mochoviec (Levice), 400 kV vedenia Križovany – Bošáca, 400 kV vedenia Križovany – Bratislava, Podunajské Biskupice, 400 kV vedenia Gabčíkovo – Bratislava, Podunajské Biskupice a zabezpečiť koridor pre zásobovanie elektrinou priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“, napojením na VVN elektrickej siete samostatnou VVN elektrickou prípojkou 2x110 kV zo 400/220/110 kV z transformovne Križovany,
 
         - 10.1.7 rozšíriť trafostanicu 400/220/110 kV Križovany nad Dudváhom o priamu TR 400/110 kV,
 
@@ -536,7 +578,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 10.2.5 na Malom Dunaji perspektívne uvažovať s výstavbou kaskády stupňov, a to v profiloch Topoľníky (rkm 18,00), Blahová (rkm 69,00) a Hurbanova Ves (rkm 87,50),
 
-        - 10.2.6 vylepšovať kvalitu vody v systéme kanálov budovaním čistiarní odpadových vôd na celom území s cieľom zlepšiť kvalitu povrchových vôd a chrániť podzemné vody Žitného ostrova,
+        - 10.2.6 zlepšovať kvalitu vody v systéme kanálov budovaním čistiarní odpadových vôd na celom území s cieľom zlepšiť kvalitu povrchových vôd a chrániť podzemné vody Žitného ostrova,
 
         - 10.2.7 počas povodní, keď nie sú usporiadané odtokové pomery, realizovať úpravy tokov so zohľadnením ekologických záujmov,
 
@@ -548,7 +590,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 10.2.11 ochranu proti veľkým prietokom dobudovať v tých častiach tokov, ktoré v súčasnosti nie sú dobudované; ide predovšetkým o úseky na tokoch Trnávka, Parná, Blava, Myjava, Chvojnica a Teplica,
 
-        - 10.2.12 zabezpečiť ochranu územia pred povodňami hlavne na rieke Morave a jej prítokoch úpravou ochranných hrádzí (Kopčany – cestný most Holíč – Hodonín, t. j. 98–100 rkm) a na rieke Chvojnici úpravou toku v katastrálnych územiach obcí, cez ktoré rieka Chvojnica preteká,
+        - 10.2.12 zabezpečiť ochranu územia pred povodňami hlavne na rieke Morave a jej prítokoch úpravou ochranných hrádzí (Kopčany – cestný most Holíč – Hodonín, t. j. rkm 98 – 100) a na rieke Chvojnici úpravou toku v katastrálnych územiach obcí, cez ktoré rieka Chvojnica preteká,
 
         - 10.2.13 venovať pozornosť úsekom tokov v Malých Karpatoch, na ktorých treba budovať prehrádzky s cieľom znížiť eróziu a zanášanie tokov pri povodňových situáciách,
 
@@ -568,7 +610,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 10.2.19 sledovať možnosť výstavby malých vodných nádrží s cieľom regulovať odtok z malých povodí,
 
-        - 10.2.20 rezervovať koridor pre výstavbu Vážskej vodnej cesty, nadväzných zariadení a potrebnej technickej infraštruktúry na území Trnavského kraja,
+        - 10.2.20 rezervovať koridor na výstavbu Vážskej vodnej cesty, nadväzných zariadení a potrebnej technickej infraštruktúry na území Trnavského kraja,
 
         - 10.2.21 rezervovať územie pre uvažované vodné diela Sereď, Prietrž a Sobotište,
 
@@ -642,15 +684,15 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
       - 11.13 uprednostňovať prirodzenú obnovu, dodržiavať prirodzené druhové zloženie drevín pre dané lesné typy (postupná náhrada nepôvodných drevín pôvodnými) pri obnove lesných porastov, na maximálne možnú mieru obmedziť ťažbu veľkoplošnými holorubmi,
 
-      - 11.14 vysadiť lesy v nivách riek, na plochách náchylných na eróziu a pri prameništiach, zakladať trávne porasty, chrániť mokrade a zachovať prírodné depresie, spomaliť odtok vody v upravených korytách, zachovať staré ramená a meandre v okolí Dunaja, Moravy, Váhu, Malého Dunaja, Čiernej vody, Myjavy a Chvojnice,
+      - 11.14 vysadiť lesy v nivách riek, na plochách náchylných na eróziu a pri prameniskách, zakladať trávne porasty, chrániť mokrade a zachovať prírodné depresie, spomaliť odtok vody v upravených korytách, zachovať staré ramená a meandre v okolí Dunaja, Moravy, Váhu, Malého Dunaja, Čiernej vody, Myjavy a Chvojnice,
 
-      - 11.15 dodržať rámcové smernice pre tvrdé lužné lesy v rámci obnovy porastov s týmto cieľovým zastúpením: 40–50 % dub, 25–35 % jaseň, 15–25 % topoľ domáci, brest, hrab, lipa, osika, vŕba a vo zvyškoch mäkkých luhov dodržať pôvodné druhové zloženie (pôvodné druhy topoľov, osika, vŕba 100 %),
+      - 11.15 dodržať rámcové smernice pre tvrdé lužné lesy v rámci obnovy porastov s týmto cieľovým zastúpením: 40 – 50 % dub, 25 – 35 % jaseň, 15 – 25 % topoľ domáci, brest, hrab, lipa, osika, vŕba a vo zvyškoch mäkkých luhov dodržať pôvodné druhové zloženie (pôvodné druhy topoľov, osika, vŕba 100 %),
 
       - 11.16 obnoviť lesné porasty v medzihrádzovom priestore Moravy špecifickou formou vzhľadom na periodické zaplavovanie územia (obnova menších plôch, výsadba starších sadeníc),
 
       - 11.17 zabezpečiť, aby sa podmáčané územia s ornou pôdou v oblasti Podunajskej roviny zmenili na trvalé trávnaté plochy, resp. aby sa nechali zarásť vlhkomilnou vegetáciou,
 
-      - 11.18 usmerniť využívanie ornej pôdy v súlade s produkčným potenciálom a s ohľadom na náročnosť na vlhko a zrnitosť pôd, optimalizovať štruktúru pestovaných plodín v rámci osevných postupov,
+      - 11.18 usmerniť využívanie ornej pôdy v súlade s produkčným potenciálom a s ohľadom na náročnosť na vlhkosť a zrnitosť pôd, optimalizovať štruktúru pestovaných plodín v rámci osevných postupov,
 
       - 11.19 regulovať používanie chemických prostriedkov z dôvodu ochrany vodných zdrojov v oblastiach chránených krajinných oblastí,
 
@@ -732,7 +774,15 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 1.1.16 nová trasa II/507 v úseku Dunajská Streda – Gabčíkovo pozdĺž železnice,
 
-        - 1.1.17 cesta I/63 Dolný Bar – preložka cesty.
+        - 1.1.17 cesta I/63 Dolný Bar – preložka cesty,
+
+        - 1.1.18 vybudovanie cestného prepojenia medzi diaľničným privádzačom I/51 z Trnavy na diaľnicu D 1 a cestou III/051031 vo funkčnej triede B a kategórii MZ 14/60 prípadne MZ 9/60,
+
+        - 1.1.19 prebudovanie mimoúrovňovej križovatky na diaľničnom privádzači I/51 v nadväznosti na novonavrhované cestné prepojenie,
+
+        - 1.1.20 vybudovanie nového cestného prepojenia z priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“ na mestský obchvat I/51 medzi železničnými traťami č. 120 a 133 s vybudovaním mimoúrovňovej križovatky tejto cesty s cestou I/51,
+
+        - 1.1.21 vybudovanie mimoúrovňového križovania cesty III/051031 so železničnou traťou č. 120.
 
       - 1.2 Železničná doprava
 
@@ -746,7 +796,9 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 1.2.5 modernizácia trate Galanta – Leopoldov,
 
-        - 1.2.6 dobudovanie železničnej stanice Kúty.
+        - 1.2.6 dobudovanie železničnej stanice Kúty,
+
+        - 1.2.7 vybudovanie vlečkového pripojenia priemyselného parku „Trnava – Zavar, závod na výrobu automobilov“ na trať č. 133 od križovania tejto trate s mestským obchvatom I/51.
 
       - 1.3 Kombinovaná doprava
 
@@ -756,7 +808,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 1.3.3 výstavba terminálu kombinovanej dopravy v Medveďove.
 
-      - 1.4 Letecká doprava – modernizácia letiska v Piešťanoch.
+      - 1.4 Letecká doprava – modernizácia letiska v Piešťanoch
 
       - 1.5 Vodná doprava
 
@@ -794,7 +846,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 2.2.1 environmentálne opatrenia na Dunaji vrátane opatrení na vodnom diele Gabčíkovo z hľadiska povodňovej ochrany,
 
-        - 2.2.2 rekonštrukcia hrádze Moravy – km 71–110,
+        - 2.2.2 rekonštrukcia hrádze Moravy – km 71 – 110,
 
         - 2.2.3 úprava toku Teplica v katastrálnom území Senica – Kunov,
 
@@ -850,7 +902,7 @@ Príloha č. 2 k nariadeniu vlády č. 183/1998 Z. z.
 
         - 3.1.1 Atómová elektráreň V1 Bohunice – postupná rekonštrukcia,
 
-        - 3.1.2 dostavba Sústavy vodných diel Gabčíkovo - Nagymaros,
+        - 3.1.2 dostavba Sústavy vodných diel Gabčíkovo – Nagymaros,
 
         - 3.1.3 rekonštrukcia distribučných sústav
 
