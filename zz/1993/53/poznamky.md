@@ -1,0 +1,1 @@
+- x) Pozri článok 7 Zmluvy medzi Slovenskou republikou a Českou republikou o vzájomnom zamestnávaní občanov z 29. októbra 1992. V súlade s článkom 9 citovanej Zmluvy upraví Ministerstvo práce, sociálnych vecí a rodiny SR v správnom konaní doklady, ktoré bude žiadateľ o transfer povinný predložiť devízovej banke.
