@@ -1,0 +1,1 @@
+- 1) V rozpočtových a příspěvkových organizacích postupují nadřízené orgány v odůvodněných případech podle těchto zásad přiměřeně.
