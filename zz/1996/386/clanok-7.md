@@ -13,3 +13,5 @@ Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtový
 - „1a)
 
 - § 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.“.
+
+- Doterajšie písmená c) až f) sa označujú ako písmená d) až g).

@@ -16,6 +16,8 @@
 
 (8) Vrátenie časti zaplatenej dane z motorovej nafty podľa čl. XV bodu 1 sa v roku 1997 určuje úhrnnou sumou 1 400 000 000 Sk.
 
+(9) Ustanovenia čl. XIII bodov 4 a 7 sa po prvýkrát použijú za zdaňovacie obdobie roku 1996.
+
 (10) Ustanovenia čl. I § 8 ods. 2 a čl. XVIII bodov 4 a 5 sa nepoužijú na štátnu prémiu poskytnutú do účinnosti tohto zákona.
 
 (11) Článok I § 8 ods. 2 a čl. XVIII body 4 a 5 sa týkajú zmlúv o stavebnom sporení uzatvorených po dni nadobudnutia účinnosti tohto zákona.
