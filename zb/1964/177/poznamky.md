@@ -1,1 +1,0 @@
-- *) Vlastná kúpeľňa alebo vlastný splachovací záchod nesmú byť prístupné zo spoločných priestorov bytu rozdeleného bez stavebných úprav.
