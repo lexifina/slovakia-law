@@ -39,3 +39,7 @@
 - 19) § 8 až 13 a § 16 zákona č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
 
 - 20) § 8 až 13 zákona č. 10/1996 Z. z. v znení zákona č. 502/2001 Z. z.
+
+- 20a) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
