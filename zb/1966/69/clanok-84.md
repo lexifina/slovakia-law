@@ -1,7 +1,0 @@
-# Článok 84 Plán prípravy kvalifikovaných robotníkov
-
-(1) Návrh plánu prípravy kvalifikovaných robotníkov vypracujú ústredné orgány, ktorých podniky (organizácie) požadujú učňov. Návrh plánu prípravy kvalifikovaných robotníkov vychádza z perspektívneho rozvoja jednotlivých závodov a odborov a musí byť v súlade s plánom náboru učňov v oblastnom rozložení. Pre požadované počty novoprijímaných učňov musí byť zabezpečená výučba po odbornej, teoretickej i materiálnej stránke, a to buď vo vlastných zariadeniach podnikov (závodov) alebo dohodou s inými podnikmi (napr. pri menšom počte učňov) v ich zariadeniach.
-
-(2) Podniky uplatňujúce potrebu učňov na okresných národných výboroch príslušných podľa sídla jednotlivých závodov (prevádzkární) uvedú svoje požiadavky v rozdelení podľa pohlavia a podľa učebných odborov. Reálnosť požadovaného počtu učňov odôvodnia predpokladanou doplnkovou potrebou kvalifikovaných pracovníkov v členení na náhradu prirodzeného úbytku a na zvýšenie stavu pracovníkov. Požiadavky na počet novoprijímaných učňov musia sa s národnými výbormi dohodnúť. Ak nedôjde k dohode, riešia sporné prípady nadriadené orgány (odborové riaditeľstvá alebo ústredné orgány) s príslušnými krajskými národnými výbormi, výnimočne Štátna plánovacia komisia, na Slovensku Slovenská plánovacia komisia.
-
-Obdobne uplatňujú podniky požiadavky na dorast na pracovné miesta pre pomocné a menej kvalifikované práce.
