@@ -1,5 +1,7 @@
 - 1) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
 
+- 1a) § 1 zákona Slovenskej národnej rady č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodu vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby.
+
 - 2) § 1 ods. 1 a 2 zákona č. 92/1991 Zb.
 
 - 3) § 8 ods. 1 písm. b) zákona č. 92/1991 Zb.
