@@ -1,8 +1,14 @@
 - 1) Napr. Občiansky súdny poriadok.
 
-- 2) § 25 ods. 2 zákona č. 172/1990 Zb. o vysokých školách.
+- 2) § 2 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
-- 2a) Napríklad § 48 zákona č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 561/2001 Z. z.
+- 2a) Zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení neskorších predpisov. Zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov. Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov. Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+
+- 2b) Trestný zákon v znení neskorších predpisov.
+
+- 2c) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+
+- 2d) Napríklad § 48 zákona č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 561/2001 Z. z.
 
 - 3) § 116 Občianskeho zákonníka.
 
