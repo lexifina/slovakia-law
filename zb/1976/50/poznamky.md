@@ -116,6 +116,8 @@
 
 - 11a) § 2 ods. 3 písm. b) a odseky 6 a 7 zákona č. 313/2001 Z. z. o verejnej službe.
 
+- 11b) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 12) Zákon č. 281/1997 Z. z.
 
 - 12a) § 18 ods. 3 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.

@@ -44,7 +44,7 @@
 
 (8) Za stavby vojenskej správy mimo územia vojenských obvodov<sup>12</sup>) sa považujú stavby slúžiace na obranu štátu zriaďované v pôsobnosti ministerstva obrany.
 
-(9) Za stavby pre bezpečnosť štátu sa považujú stavby v správe Ministerstva vnútra Slovenskej republiky, Policajného zboru a Slovenskej informačnej služby užívané na služobné účely a ostatné stavby týchto orgánov určené na služobnú potrebu.
+(9) Za stavby pre bezpečnosť štátu sa považujú stavby v správe, nájme alebo výpožičke Ministerstva vnútra Slovenskej republiky, Policajného zboru, Slovenskej informačnej služby a Národného bezpečnostného úradu užívané na služobné účely a stavby, ktoré sú v správe, nájme alebo výpožičke rozpočtových organizácií alebo príspevkových organizácií týchto orgánov užívané na služobnú potrebu.
 
 (10) Za stavby Zboru väzenskej a justičnej stráže Slovenskej republiky sa považujú stavby na služobnú činnosť tejto stráže a stavby v jej správe a užívaní na služobné účely ich útvarov.
 
