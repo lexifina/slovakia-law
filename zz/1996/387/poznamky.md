@@ -20,6 +20,8 @@
 
 - 7) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov.
 
+- 7a) § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
 - 8) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.Zákon č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
 - 8a) Zákon č. 351/1997 Z. z. Branný zákon.
