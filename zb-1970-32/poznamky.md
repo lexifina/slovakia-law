@@ -1,0 +1,1 @@
+- *) Vzhľadom na § 266 ods. 1 ide o nepoužiteľné ustanovenie.
