@@ -1,1 +1,1 @@
-Príloha č. 4 [Príloha č. 4](../assets/2bd94de7e94618a2767b4b097958f1b77bf9bc975821c3b1cca6c5a9d9b16898.pdf)
+Príloha č. 4 ![Obrázok 04-1](../assets/be667b33c4057f1032edc714e323f7bf26f2d90b91cb0a55c92df6eead83bec5.png)
