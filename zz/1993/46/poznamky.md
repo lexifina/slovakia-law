@@ -1,4 +1,8 @@
-- 1) Napr. § 38, 39,44, 46,48 a 49 zákona Slovenskej národnej rady č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení neskorších predpisov.
+- 1) Zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
+
+- 1a) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 1b) Napr. § 38, 39, 44, 46,48 a 49 zákona Slovenskej národnej rady č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení neskorších predpisov.
 
 - 2) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
