@@ -1,0 +1,3 @@
+- *) Vyhláška ministra financií č. 62/1958 Ú. l. (Ú. v.) o finančných zdrojoch niektorých hospodárskych organizácií štátneho socialistického sektora a o úhrade ich strát a č. 85/1958 Ú. l. (Ú. v.) o finančných zdrojoch hospodárskych organizácií zapojených na rozpočty národných výborov a o úhrade ich strát.
+
+- **) Vyhláška ministra financií a hlavného arbitra Československej republiky č. 179/1959 Ú. l. (Ú. v.) o hmotných podnetoch na zvýšenie efektívnosti investičnej výstavby a smernice Ministerstva financií č. 180/1959 Ú. l. (Ú. v.) o odmenách a prirážkach za zhospodárnenie, skvalitnenie a zrýchlenie investičnej výstavby.
