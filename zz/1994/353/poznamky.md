@@ -17,3 +17,5 @@
 - 9) § 9 a § 22 ods. 1 Občianskeho zákonníka.
 
 - 10) Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 121/1994 Z. z. o zriaďovaní, činnosti a prevádzke zariadení školského stravovania.
+
+- 11) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 243/1993 Z. z. o sociálnej odkázanosti.
