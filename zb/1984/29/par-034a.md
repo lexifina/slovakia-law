@@ -2,7 +2,7 @@
 
 (1) Deťmi cudzincov na účely tohto zákona sú deti
 
-- a) osôb, ktoré sú občanmi iného štátu, s povoleným pobytom na území Slovenskej republiky,
+- a) osôb, ktoré sú občanmi iného štátu alebo osôb bez štátnej príslušnosti, s povoleným pobytom na území Slovenskej republiky,
 
 - b) utečencov alebo žiadateľov o priznanie postavenia utečenca na území Slovenskej republiky podľa osobitného predpisu,
 
