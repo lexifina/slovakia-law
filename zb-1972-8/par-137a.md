@@ -1,0 +1,3 @@
+# § 137a Úprava dôchodkov rodičov a súrodencov
+
+Dôchodky rodičov a súrodencov priznané podľa predpisov o dôchodkovom poistení (zaopatrení) platných pred 1. januárom 1957, ktoré sú jediným zdrojom príjmu dôchodcu, možno zvýšiť na sumu 550 Kčs mesačne; ak dôchodca má aj iný príjem (dôchodok), môže sa dôchodok rodičov a súrodencov zvýšiť tak, aby úhrn tohto dôchodku a iného príjmu (dôchodku) bol 550 Kčs mesačne. Ak je na dôchodok odkázaný aj rodinný príslušník dôchodcu, môže sa tento dôchodok zvýšiť na sumu 900 Kčs mesačne; ak dôchodca alebo taký rodinný príslušník má aj iný príjem (dôchodok), môže sa dôôchodok rodičov a súrodencov zvýšiť tak, aby úhrn tohto dôchodku a iného príjmu (dôchodku) bol 900 Kčs mesačne. Ustanovenie § 47 ods. 5 platí obdobne.
