@@ -1,3 +1,0 @@
-Minister:
-
-Dančo v. r.
