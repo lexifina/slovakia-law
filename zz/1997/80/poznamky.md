@@ -16,8 +16,6 @@
 
 - Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
-- 9) § 45 a nasl. zákona č. 600/1992 Zb. v znení neskorších predpisov.
-
 - 10) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 11) § 18 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
