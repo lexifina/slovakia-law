@@ -98,7 +98,7 @@ c) nácvik zisťovania a odstraňovania najčastejších porúch na vozidle.
 
 a) nácvik a zvládnutie vyslobodenia zraneného z vozidla, jeho odsun na bezpečné miesto a zabezpečenie miesta dopravnej nehody,
 
-b) nácvik poskytovania prvej pomoci pri rôznych stavoch a poraneniach.
+b) nácvik poskytovania prvej pomoci pri rôznych stavoch a poraneniach s dôrazom na úkony zachraňujúce život.
 
 II. ČASŤ
 
