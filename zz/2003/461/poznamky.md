@@ -1,4 +1,6 @@
-- 1) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+- 1) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+
+- 1a) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
@@ -96,6 +98,8 @@
 
 - 43) § 38 ods. 6 zákona Národnej rady Slovenskej republiky č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 43a) § 24 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
+
 - 44) Napríklad § 136 ods. 1 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
 - 45) Napríklad § 136 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
@@ -160,11 +164,7 @@
 
 - 74) § 77 až 80 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
-- 75) § 122 ods. 3 zákona č. 315/2001 Z. z.
-
 - 76) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
-
-- 77) Napríklad § 98 zákona č. 312/2001 Z. z. v znení zákona č. 143/2002 Z. z., § 39 zákona č. 313/2001 Z. z. v znení zákona č. 408/2002 Z. z.
 
 - 78) § 2 ods. 1 nariadenia vlády Slovenskej republiky č. 499/2002 Z. z. o výške pracovnej odmeny a o podmienkach jej poskytovania obvineným a odsúdeným, o výške peňažnej odmeny za výkon iných prospešných prác a o podmienkach jej poskytovania odsúdeným.
 
@@ -200,6 +200,12 @@
 
 - 91) § 94 ods. 1 písm. c) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
+- 91a) § 31 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 91b) § 115 ods. 4 zákona č. 43/2004 Z. z.
+
+- 91c) § 31 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
 - 92) § 1 zákona č. 431/2002 Z. z. o účtovníctve.
 
 - 93) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
@@ -226,6 +232,8 @@
 
 - § 12b ods. 3 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. v znení zákona č. 451/2002 Z. z.
 
+- 100a) § 26 ods. 3 zákona č. 43/2004 Z. z.
+
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
 - 102) Občiansky súdny poriadok.
@@ -237,6 +245,10 @@
 - 105) Napríklad § 8 ods. 1 Trestného poriadku, zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 106) Zákon č. 241/2001 Z. z. v znení zákona č. 418/2002 Z. z.
+
+- 106a) § 64 ods. 4 zákona č. 43/2004 Z. z.
+
+- 106b) § 64a a 64b zákona č. 43/2004 Z. z.
 
 - 107) Zákon Národnej rady Slovenskej republiky č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 

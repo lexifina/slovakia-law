@@ -15,5 +15,3 @@
 (7) Dôchodková dávka, ktorá sa v období od 1. januára 2004 do 31. decembra 2004 nevyplácala z dôvodu zániku nároku na jej výplatu, sa zvýši pri opätovnom vzniku nároku na jej výplatu podľa odsekov 2 až 5 od opätovného vzniku nároku na výplatu dôchodkovej dávky.
 
 (8) Vdovský dôchodok, vdovecký dôchodok a sirotský dôchodok sa nezvyšujú podľa odsekov 2 až 5, ak boli vymerané zo starobného dôchodku, predčasného starobného dôchodku alebo invalidného dôchodku zvýšených podľa odsekov 2 a 5.
-
-(9) V prípade, ak úhrn súm zvýšených dôchodkov poberateľa v roku 2004 podľa § 82 by bol vyšší o viac ako 100 Sk ako podľa odseku 4, rozdiel doplatí Sociálna poisťovňa jednorazovo do 31. januára 2005.
