@@ -1,0 +1,17 @@
+Príloha 1 nariadenia vlády Slovenskej socialistickej republiky č. 12/1987 Zb. Vymedzenie územia, o ktoré sa rozširuje Tatranský národný park
+
+- Územie, o ktoré sa rozširuje Tatranský národný park, je v okresoch Liptovský Mikuláš a Dolný Kubín. Toto územie sa nachádza v katastroch obcí: Vitanová, Habovka, Zuberec - okres Dolný Kubín; Kvačany, Liptovské Matiašovce, Liptovský Trnovec, Pavlova Ves - sídelná lokalita Babky, Bobrovec, Jalovec, Smrečany, Žiar, Liptovský Mikuláš - časť Okoličné, Liptovský Ondrej, Jakubovany, Jamník, Pribylina - okres Liptovský Mikuláš.
+
+- Územie národného parku bolo vymedzené na lesníckych organizačných mapách M 1:25 000, z ktorých bola hranica národného parku prenesená do Základnej mapy Československej socialistickej republiky M 1:50 000 na tieto mapové listy:
+
+26-41 | Trstenná | -1971
+
+26-42 | Oravice | - 1971
+
+26-43 | Liptovský Mikuláš | - 1971
+
+26-44 | Važec | - 1971
+
+- Hranica tohto územia sa začína na štátnej hranici s Poľskou ľudovou republikou na kóte Veľká Kamenistá (2121 m), pokračuje hranicou vlastného územia Tatranského národného parku, ktorá je totožná s hranicou okresu Poprad. Pri sídelnej lokalite Podbanské sa napája na štátnu cestu (Podbanské-Liptovský Hrádok), ktorou pokračuje až po most cez potok Bystrá. Potokom ide proti prúdu k jeho pravostrannému prítoku. Odtiaľ pokračuje severozápadným smerom okrajom lesných porastov popod lokalitu Suchý hrádok. Za Suchým hrádkom prechádza cez potok Krivuľa (920) a ďalej ide okrajom lesných porastov ponad kejdové hospodárstvo Jednotného roľníckeho družstva Pribylina, kde sa napája na cestu nad horárňou a pokračuje cestou až k rekreačným zariadeniam Vysokej školy poľnohospodárskej Nitra a Mier Topoľčany. Odtiaľ pokračuje lesnou cestou západným smerom k potoku Trnovec, ktorým prechádza vo výške 872 m n. m. na lesnú cestu a pokračuje úpätím až k pionierskemu táboru Cukrovar Sládkovičovo. Odtiaľ pokračuje západným smerom miestnou komunikáciou pred Žiarsku dolinu. Pri cestnom moste na potoku Smrečianka prechádza opätovne na úpätie a okrajom lesných porastov ide západným smerom až pred Jaloveckú dolinu. Od Jaloveckého potoka juhozápadne až k lesnej škôlke, odtiaľ severozápadne popod opustený kameňolom na lesnú cestu - Dlhá. Touto pokračuje až na lokalitu Skalné. Odtiaľ ide severozápadne smerom na rozhraní ochranných a hospodárskych lesov pred Suchú dolinu. Suchou dolinou (potokom) severným smerom na hrebeň vľavo od Bielej skaly, kde v 1200 m n. m. prechádza hrebeňom do okresu Dolný Kubín. Po spádnici schádza na štátnu cestu (Huty-Zuberec). Štátnou cestou pokračuje ku kameňolomu Podspády. Z východnej strany obchádza kameňolom a ďalej pokračuje okrajom lesných porastov východným smerom na lesnú cestu pod Ostrým grúňom. Cestou ide na okraj lesa Pribisko. Odtiaľ pokračuje k obci Zuberec. Nad Zubercom prechádza východným smerom na Studený potok, cez ktorý prechádza a pokračuje brehovými porastmi východným smerom pod horáreň Brestová. Okrajom lesných porastov pokračuje ďalej severným smerom až do Blatnej doliny. Cestou Blatnou dolinou prechádza do doliny Mihulčie k sídelnej lokalite Oravice. Odtiaľ ide cestou Tichou dolinou až na štátnu hranicu s Poľskou ľudovou republikou.
+
+- Rozloha Tatranského národného parku sa rozširuje o plochu Západných Tatier, ktoré tvorili pôvodne ochranné pásmo Tatranského národného parku, a to o 25 918 ha (z toho 19 100 ha porastovej plochy, 32 ha poľnohospodárskej pôdy a 6786 ha ostatnej plochy).
