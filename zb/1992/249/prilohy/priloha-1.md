@@ -1830,6 +1830,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 
 - 6.18. Sledovanie a hodnotenie zdravotno-výchovných výkonov stredných zdravotníckych pracovníkov; príprava podkladov pre určenie edičných plánov a zabezpečenie účelnej distribúcie zdravotno-výchovného materiálu.
 
+- 6.19. Zabezpečovanie poskytovania zdravotnej starostlivosti v zariadeniach sociálnej starostlivosti, realizácia individuálneho adaptačného a opatrovateľského plánu z pohľadu zachovania a udržania zdravia a poskytnutia úkonov nahrádzajúcich sebaobsluhu vrátane organizácie a prípravy preventívnych prehliadok, odborných vyšetrení a vedenie predpísanej dokumentácie.
+
 - 7. PLATOVÁ TRIEDA
 
 - Kvalifikačný predpoklad vzdelania: úplné stredné
@@ -1893,6 +1895,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 7.31. Opravy a nastavovanie zložitých regulačných obvodov a zariadení diaľkového merania a zapisovanie pre nemocnice.
 
 - 7.32. Samostatné fyzikálne testovanie diagnostických systémov napr. v odbore nukleárnej medicíny.
+
+- 7.33. Samostatné zabezpečovanie poskytovania zdravotnej starostlivosti na oddeleniach ležiacich alebo oddeleniach so zvýšeným psychiatrickým dohľadom v ústavoch sociálnej starostlivosti, detských domovoch a v zariadeniach opatrovateľskej služby pre ťažko zdravotne postihnutých občanov a starých občanov a koordinácia prác s organizáciami a orgánmi poskytujúcimi zdravotnú starostlivosť.
 
 - 8. PLATOVÁ TRIEDA
 
@@ -1989,6 +1993,8 @@ Príloha č. 1 nariadenia vlády SR č. 249/1992 Zb.
 - 10.09. Zabezpečovanie odbornej liečebnej starostlivosti v určenom území alebo závodnom obvode v odbore starostlivosti o ženu a v stomatológii po získaní I. špecializácie.
 
 - 10.10. Najzložitejšie práce pri oživovaní a uvádzaní zložitých elektronických a iných prístrojov do prevádzky, ich udržiavanie v bezporuchovej prevádzke na najexponovanejších pracoviskách (JIS, poúrazové oddelenia a pod.) vrátane nastavovania parametrov, dávok žiarenia a pod. pri priamej účasti na zložitých zdravotníckych výkonoch po získaní I. špecializácie.
+
+- 10.11. Zabezpečovanie poskytovania zdravotnej starostlivosti v zariadeniach sociálnej starostlivosti v záujme vytvorenia biopsychosociálnej integrity telesne, duševne, mentálne, zmyslovo alebo inak závažne postihnutého občana lekárom po získaní I. špecializácie.
 
 - 11. PLATOVÁ TRIEDA
 
@@ -2943,6 +2949,74 @@ Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podlá platovýc
 9 | do 27 | 3750 | 4080 | 4450 | 5040 | 5560 | 6 120 | 6740 | 7580 | 8940 | 9890 | 10930 | 12 100
 
 10 | nad 27 | 3880 | 4210 | 4600 | 5210 | 5730 | 6320 | 6950 | 7820 | 9230 | 10210 | 11 290 | 12 500
+
+[Príloha 02c](../assets/c36f51ce3d2472fe2407c7b60ff0af738e71f6290cff8fb50533dfc9975e05d1.pdf)
+
+Príloha č. 2c nariadenia vlády Slovenskej republiky č. 249/1992 Zb. v znení nariadenia vlády Slovenskej republiky č. 193/1996 Z. z.
+
+Stupnica platových taríf zamestnancov v štátnych zdravotníckych zariadeniach, ktoré sú finančným vzťahom napojené na poisťovňu zriadenú na vykonávanie zdravotného poistenia (§ 7b)
+
+(Sk mesačne)
+
+Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podlá platových tried a platových stupňov | | | | | | | | | | |
+
+| | Platová trieda | | | | | | | | | | |
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+
+1 | do 3 | 3270 | 3 510 | 3810 | 4560 | 5020 | 5530 | 6090 | 7060 | 8980 | 9800 | 10800 | 12000
+
+2 | do 6 | 3400 | 3650 | 3990 | 4760 | 5240 | 5780 | 6360 | 7370 | 9370 | 10260 | 11 310 | 12 560
+
+3 | do 9 | 3530 | 3810 | 4 160 | 4960 | 5460 | 6020 | 6620 | 7670 | 9760 | 10710 | 11 820 | 13 110
+
+4 | do 12 | 3660 | 3970 | 4330 | 5 170 | 5690 | 6270 | 6900 | 7980 | 10 150 | 11 170 | 12330 | 13670
+
+5 | do 15 | 3800 | 4 130 | 4500 | 5370 | 5920 | 6510 | 7 170 | 8310 | 10540 | 11 620 | 12840 | 14220
+
+6 | do 18 | 3940 | 4280 | 4670 | 5570 | 6 140 | 6750 | 7440 | 8610 | 10930 | 12080 | 13360 | 14 780
+
+7 | do 21 | 4060 | 4440 | 4850 | 5780 | 6370 | 7010 | 7 720 | 8940 | 11 320 | 12 530 | 13870 | 15330
+
+8 | do 24 | 4210 | 4590 | 5020 | 5980 | 6580 | 7250 | 7990 | 9250 | 11 710 | 12990 | 14380 | 15890
+
+9 | do 27 | 4350 | 4750 | 5 190 | 6 180 | 6810 | 7500 | 8250 | 9570 | 12 100 | 13 440 | 14890 | 16440
+
+10 | nad 27 | 4500 | 4910 | 5350 | 6380 | 7020 | 7750 | 8520 | 9860 | 12 500 | 13900 | 15400 | 17000
+
+[Príloha 02d](../assets/4fa7fad43387b46a32c80085777ac0920437671f03398a5ac642fd4ff2674cd7.pdf)
+
+Príloha č. 2d nariadenia vlády Slovenskej republiky č. 249/1992 Zb.
+
+Stupnica platových taríf pedagogických zamestnancov (§ 7d)
+
+(Sk mesačne)
+
+Plat. stupeň | Počet rokov praxe | Stupnica platových taríf podlá platových tried a platových stupňov | | | | |
+
+| | Platová trieda | | | | |
+
+| | 7 | 8 | 9 | 10 | 11 | 12
+
+1 | do 3 | 5010 | 5530 | 6 110 | 6770 | 7470 | 8270
+
+2 | do 6 | 5230 | 5780 | 6390 | 7070 | 7810 | 8640
+
+3 | do 9 | 5450 | 6020 | 6660 | 7370 | 8 140 | 9010
+
+4 | do 12 | 5670 | 6260 | 6930 | 7670 | 8470 | 9380
+
+5 | do 15 | 5890 | 6510 | 7200 | 7960 | 8800 | 9750
+
+6 | do 18 | 6 110 | 6750 | 7470 | 8260 | 9 140 | 10 110
+
+7 | do 21 | 6340 | 7000 | 7 740 | 8560 | 9470 | 10480
+
+8 | do 24 | 6560 | 7240 | 8020 | 8860 | 9800 | 10850
+
+9 | do 27 | 6780 | 7490 | 8290 | 9 160 | 10 130 | 11 220
+
+10 | nad 27 | 7000 | 7730 | 8560 | 9460 | 10460 | 11 580
 
 [Príloha 03](../assets/044fa3c32f027cd67abd7260b17f3381b76118b17e7d69181f4533a01aa7ff87.pdf)
 

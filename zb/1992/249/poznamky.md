@@ -26,6 +26,18 @@
 
 - 9b) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z.
 
+- 9c) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- 9d) § 74a a § 87 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+
+- 9e) § 27 ods. 1 a 2 písm. e) zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+
+- 9f) § 5 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach a § 12 vyhlášky Ministerstva školstva a vedy Slovenskej republiky č. 353/1994 Z. z. o predškolských zariadeniach.
+
+- 9g) § 50 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a § 6 ods. 2 písm. c) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
+
+- 9h) § 27 ods. 1 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
+
 - 10) Nariadenie vlády Slovenskej republiky č. 227/1992 Zb. o poskytovaní osobitného príplatku za prácu v sťažených a zdraviu škodlivých pracovných podmienkach.
 
 - 11) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii.
