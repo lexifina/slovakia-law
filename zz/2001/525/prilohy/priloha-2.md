@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 525/2001 Z. z.
+
+- OCHRANNÉ PÁSMO II. A III. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V KLÁŠTORE POD ZNIEVOM ![Obrázok 02](../assets/482953faa8a74e7cda80e7ae5cd699df7684ce373ca36109c43aafd69a9eb770.png)
