@@ -3298,23 +3298,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 236
 
-  - a) Podanie prihlášky fyzickou osobou alebo právnickou osobou na registráciu výrobcu, opravára alebo montážnika meradiel ................................................................................................... | 1 000 Sk
+  - a) Podanie prihlášky na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky na registráciu výrobcu, opravára alebo montážnika určených meradiel alebo na registráciu prevádzkovateľa baliarne alebo dovozcu spotrebiteľských balení označených značkou „e“ ........................ | 1 000 Sk
 
-  - b) Podanie žiadosti na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky o vydanie písomného odborného výkladu slovenských technických noriem (ďalej len „normy“), za každých päť noriem ............................................................................... | 300 Sk
+  - b) Podanie žiadosti na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky o vydanie písomného odborného výkladu slovenských technických noriem (ďalej len „normy“), za každých päť noriem ................................................................................... | 300 Sk
 
   - c) Podanie žiadosti na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky o vydanie písomného odborného výkladu k článkom normy z hľadiska ich záväznosti, za každú normu ... | 300 Sk
 
     - Položka 237
 
-  - Podanie žiadosti o autorizáciu na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky |
-
-  - a) štátneho metrologického strediska .......................................................................................................................... | 1 000 Sk
-
-  - b) na výkon úradného merania ....................................................................................................................................... | 1 000 Sk
-
-  - c) certifikačného orgánu ................................................................................................................................................... | 1 000 Sk
-
-  - d) štátnej skúšobne ........................................................................................................................................................... | 1 000 Sk
+  - Podanie žiadosti o autorizáciu na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky ................................................................................................................ | 1 000 Sk
 
     - Položka 238
 
@@ -3322,7 +3314,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 239
 
-  - Podanie žiadosti na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky o vydanie potvrdenia o tom, že výrobok nepodlieha povinnému schváleniu alebo certifikácii, za každý typ výrobku ................................................................................................................ | 1 000 Sk
+  - a) Podanie žiadosti na Slovenskom metrologickom ústave o vydanie rozhodnutia o tom, že určené meradlo nepodlieha schváleniu typu, za každý typ meradla .................................... | 1 000 Sk
+
+  - b) Podanie žiadosti na Slovenskom metrologickom ústave o vydanie rozhodnutia o schválení typu meradla alebo zmeny rozhodnutia o schválení typu meradla ...................... | 500 Sk
 
   - XVIII. ČASŤ KONZULÁRNE POPLATKY
 
