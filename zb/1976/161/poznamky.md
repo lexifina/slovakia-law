@@ -2,7 +2,7 @@
 
 - 2) § 9 ods. 4 a § 44 ods. 4 a § 74 zákona č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch.
 
-- 3) § 14 nariadenie vlády ČSFR č. 121/1990 Zb. o pracovnoprávnych vzťahoch pri súkromnom podnikaní.
+- 3) Zákon č. 119/1992 Zb. o cestovných náhradách.
 
 - 4) Napr. vyhláška Ministerstva dopravy č. 41/1965 Zb. o používaní vlastných osobných vozidiel pracovníkmi pri vonkajších výkonoch v znení vyhlášky č. 34/1974 Zb.
 
