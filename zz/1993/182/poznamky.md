@@ -16,6 +16,8 @@
 
 - 9) § 43 a nasl. a § 588 a nasl. Občianskeho zákonníka.
 
+- 9a) § 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva.
+
 - 10) § 1 a 2 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
 
 - § 3 ods. 1 písm. c) zákona Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
@@ -36,11 +38,17 @@
 
 - 17) § 3 ods. 1 písm. d) zákona Slovenskej národnej rady č. 266/1992 Zb.
 
+- 17a) § 337 ods. 1 Občianskeho súdneho poriadku.
+
+- 17b) § 140 Občianskeho zákonníka.
+
 - 18) § 712 ods. 1, 2, 3,5 a 7 Občianskeho zákonníka.
 
 - 19) § 5 ods. 1, 2 a 3 zákona Slovenskej národnej rady č. 189/1992 Zb.
 
 - 20) § 711 ods. 1 písm. c), d), g) a h) Občianskeho zákonníka.
+
+- 20a) § 85 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
 - 21) Zákon č. 526/1990 Zb. o cenách.
 
@@ -48,13 +56,27 @@
 
 - 23) § 14 ods. 1 zákona č. 92/1991 Zb.
 
+- 23a) § 588 a nasl. Občianskeho zákonníka.
+
 - 24) Napr. § 6 ods. 6 vyhlášky č. 136/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve v znení neskorších predpisov.
+
+- 24a) Zákon č. 563/1991 Zb. o účtovníctve.
+
+- 24b) § 15 ods. 1 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 24c) Zákon č. 52/1966 Zb. o osobnom vlastníctve bytov v znení neskorších predpisov.
+
+- 24d) § 17 ods. 1 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. v znení neskorších predpisov.
+
+- 24e) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
 - 25) § 876 Občianskeho zákonníka.
 
 - 26) § 151n a nasl. Občianskeho zákonníka.
 
 - 27) § 151a a nasl. Občianskeho zákonníka.
+
+- 27a) § 136 a nasl. Občianskeho zákonníka.
 
 - 28) § 12 zákona č. 52/1966 Zb. o osobnom vlastníctve bytov v znení neskorších predpisov.
 
@@ -64,4 +86,8 @@
 
 - 30) Napr. výnos FMF, MF ČSR a MF SSR o financovaní komunálnej bytovej výstavby a výstavby technického a občianskeho vybavenia uverejnený pod č. 33 vo Finančnom spravodajcovi č. 6-7/1987, registrovaný v čiastke 26/1987 Zb.
 
-- 31) § 1 ods. 2 písm. a) a ods. 3 písm. a) a b) zákona Slovenskej národnej rady č. 189/1992 Zb.
+- 31) § 1 ods. 2 písm. a) až f) zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami.
+
+- 32) § 63 ods. 2 písm. h) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.§ 18 vyhlášky Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 15/1972 Zb. o ochrane a rozvoji prírodných liečebných kúpeľov a prírodných liečivých zdrojov v znení neskorších predpisov.
+
+- 33) § 50a Občianskeho zákonníka.
