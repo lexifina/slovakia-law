@@ -1,3 +1,0 @@
-Minister:
-
-Rakús v. r.
