@@ -14,7 +14,7 @@ Príloha č. 5 k nariadeniu vlády č. 576/2002 Z. z.
 
   - e) meno a adresu autorizovanej osoby, ktorá vykonala inšpekciu, ak je to potrebné,
 
-  - f) odkaz na certifikát typu, certifikát o zhode s konštrukčnou dokumentáciou alebo certifikát o zhode, ak je to potrebné,
+  - f) odkaz na certifikát typu, certifikát o skúške návrhu alebo certifikát o zhode, ak je to potrebné,
 
   - g) meno a adresu autorizovanej osoby, ktorá vykonáva dohľad nad systémom zabezpečovania kvality, ak je to potrebné,
 

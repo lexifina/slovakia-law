@@ -40,7 +40,7 @@ Príloha č. 2 k nariadeniu vlády č. 576/2002 Z. z.
 
   - 3. Tlakové príslušenstvo podľa § 1 ods. 4 písm. e) a podľa § 4 ods. 1 písm. d) je zaradené do kategórie posudzovania zhody podľa príslušného grafu pre nádoby alebo potrubia na základe
 
-    - a) najvyššieho pracovného pretlaku tlakového príslušenstva,
+    - a) najvyššieho pracovného tlaku tlakového príslušenstva,
 
     - b) objemu alebo menovitej svetlosti tlakového príslušenstva,
 
@@ -153,5 +153,3 @@ Príloha č. 2 k nariadeniu vlády č. 576/2002 Z. z.
     - (PS – najvyšší pracovný tlak,
 
     - DN – menovitá svetlosť)
-
-  - [Príloha 03](../assets/875958461b31f732f4e3583a83878d0ad2bae7d17f667b59dc9d57bb4e02f881.pdf)

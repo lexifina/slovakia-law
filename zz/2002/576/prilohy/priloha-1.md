@@ -4,7 +4,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
   - 0. ÚVODNÉ USTANOVENIA
 
-  - 0.1 Požiadavky na tlakové zariadenie vyplývajúce z tejto prílohy, ktorá upravuje technické požiadavky z hľadiska bezpečnosti (ďalej len „technické požiadavky“), sa vzťahujú aj na zostavu, ak existuje zodpovedajúce riziko.
+  - 0.1 Požiadavky na tlakové zariadenie vyplývajúce z tejto prílohy, ktorá upravuje technické požiadavky z hľadiska bezpečnosti (ďalej len „technické požiadavky"), sa vzťahujú aj na zostavu, ak existuje zodpovedajúce riziko.
 
   - 0.2 Technické požiadavky sa uplatňujú, ak existuje zodpovedajúce riziko pre tlakové zariadenie používané za podmienok, ktoré môže výrobca odôvodnene predvídať.
 
@@ -24,7 +24,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - c) informovať prevádzkovateľa o zostávajúcich nebezpečenstvách a upozorniť ho na nevyhnutnosť prijať osobitné opatrenia na zníženie rizika počas montáže a prevádzky.
 
-  - 1.3 Ak existuje možnosť nesprávneho používania alebo ju možno odôvodnene predpokladať, musí byť tlakové zariadenie navrhnuté tak, aby sa predišlo nesprávnemu používaniu. Ak to nie je možné, je potrebné umiestniť na tlakové zariadenie varovanie, že tlakové zariadenie sa nesmie takým spôsobom používať.
+  - 1.3 Ak existuje možnosť nesprávneho používania alebo ju možno odôvodnene predpokladať, musí byť tlakové zariadenie navrhnuté tak, aby sa predišlo nebezpečenstvu z nesprávneho používania. Ak to nie je možné, je potrebné umiestniť na tlakové zariadenie varovanie, že tlakové zariadenie sa nesmie takým spôsobom používať.
 
   - 2. NÁVRH
 
@@ -42,13 +42,13 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - a) vnútorný a vonkajší tlak,
 
-    - b) teplota okolia a pracovná teplota,
+    - b) teplota okolia a dovolená teplota,
 
     - c) statický tlak a hmotnosť obsahu v prevádzkových a skúšobných podmienkach,
 
-    - d) doprava, vietor a zemetrasenie,
+    - d) vplyv dopravy, vetra a zemetrasenia,
 
-    - e) sily a momenty, ktoré sú dôsledkom pôsobenia podpier, nadstavcov, potrubí a pod.,
+    - e) reakčné sily a momenty, ktoré sú dôsledkom pôsobenia podpier, nadstavcov, potrubí a pod.,
 
     - f) korózia a erózia, únava materiálu a pod.,
 
@@ -60,17 +60,17 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - a) výpočtovej metódy podľa bodu 2.2.3 v prípade potreby doplnenej experimentálnou metódou podľa bodu 2.2.4 alebo
 
-    - b) experimentálnej metódy bez výpočtu podľa bodu 2.2.4, ak bezpečnostný súčin je menší ako 6 000 bar.liter alebo súčin pracovného tlaku a menovitej svetlosti je menší ako 3 000 bar.
+    - b) experimentálnej metódy bez výpočtu podľa bodu 2.2.4, ak bezpečnostný súčin je menší ako 6 000 bar.liter alebo súčin dovoleného tlaku a menovitej svetlosti je menší ako 3 000 bar.
 
   - 2.2.3 Výpočtová metóda
 
   - 2.2.3.1 Tlakové teleso a iné aspekty zaťaženia
 
-    - Dovolené namáhanie tlakového zariadenia musí byť obmedzené so zreteľom na predpokladané poruchové stavy v prevádzkových podmienkach. Musia byť použité bezpečnostné súčinitele, aby sa vylúčilo akékoľvek zníženie pevnosti vyplývajúce z výroby, skutočných prevádzkových podmienok, namáhania, výpočtových modelov a vlastností materiálov.
+    - Dovolené namáhanie tlakového zariadenia musí byť obmedzené so zreteľom na predpokladané poruchové stavy v prevádzkových podmienkach. Musia byť použité bezpečnostné súčinitele, aby sa vylúčilo akékoľvek zníženie pevnosti vyplývajúce z výroby, zo skutočných prevádzkových podmienok, z namáhania, výpočtových modelov a vlastností materiálov.
 
     - Výpočtová metóda, ak je to možné, musí poskytovať dostatočnú mieru bezpečnosti, ktorá je v súlade s požiadavkami podľa bodu 7.
 
-    - Požiadavky uvedené v bode 2.2.1 možno splniť použitím podľa potreby jednej z nasledujúcich metód alebo ako doplnok k iným metódam, alebo v kombinácií s nimi, a to návrh podľa
+    - Požiadavky uvedené v bode 2.2.1 možno splniť použitím podľa potreby jednej z nasledujúcich metód alebo ako doplnok k iným metódam, alebo v kombinácii s nimi, a to návrh podľa
 
     - a) vzorca,
 
@@ -82,7 +82,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - Na určenie pevnosti tlakového zariadenia musia byť použité vhodné výpočtové metódy založené na tom, že
 
-    - a) výpočtový tlak nesmie byť nižší ako najvyšší pracovný tlak a že je nevyhnutné zohľadňovať hydrostatickú výšku a dynamický tlak tekutiny, ako aj rozklad nestálych tekutín; ak je nádoba rozdelená na jednotlivé komory, stena, ktorá ich oddeľuje, musí byť navrhnutá na najvyšší možný tlak v komore oproti najnižšiemu možnému tlaku v susednej komore,
+    - a) výpočtový tlak nesmie byť nižší ako najvyšší dovolený tlak a že je nevyhnutné zohľadňovať hydrostatickú výšku a dynamický tlak tekutiny, ako aj rozklad nestálych tekutín; ak je nádoba rozdelená na jednotlivé komory, stena, ktorá ich oddeľuje, musí byť navrhnutá na najvyšší možný tlak v komore oproti najnižšiemu možnému tlaku v susednej komore,
 
     - b) výpočtová teplota musí byť v súlade s príslušnými činiteľmi bezpečnosti,
 
@@ -108,9 +108,9 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
       - eh. lomová húževnatosť,
 
-    - f) musí byť použitý vhodný súčiniteľ hodnoty zvarového spoja zohľadňujúci vlastnosti materiálov, ktorý závisí od spôsobu nedeštruktívneho skúšania, od kvality spojovaných materiálov a od predpokladaných prevádzkových podmienok,
+    - f) musí byť použitý vhodný súčiniteľ hodnoty spoja zohľadňujúci vlastnosti materiálov, ktorý závisí od spôsobu nedeštruktívneho skúšania, od kvality spojovaných materiálov a od predpokladaných prevádzkových podmienok,
 
-    - g) v návrhu musia byť vhodným spôsobom zohľadnené všetky odôvodnené predvídateľné mechanizmy spôsobujúce znehodnotenie, napríklad koróziu, tečenie materiálu, únavu materiálu, ktoré zodpovedajú predpokladanému používaniu zariadenia. V prevádzkových pokynoch podľa bodu 3.4 je potrebné pri navrhovaní zohľadniť konkrétne požiadavky dôležité pre životnosť zariadenia, ktorým v prípade
+    - g) v návrhu musia byť vhodným spôsobom zohľadnené všetky odôvodnene predvídateľné mechanizmy spôsobujúce znehodnotenie, napríklad koróziu, tečenie materiálu, únavu materiálu, ktoré zodpovedajú predpokladanému používaniu zariadenia. V prevádzkových pokynoch podľa bodu 3.4 je potrebné pri navrhovaní zohľadniť konkrétne požiadavky dôležité pre životnosť zariadenia, ktorým v prípade
 
       - ga. tečenia je navrhovaný počet prevádzkových hodín pri určených teplotách,
 
@@ -134,7 +134,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - Skúšobný program musí obsahovať
 
-    - a) tlakovú skúšku, ktorej účelom je skontrolovať, či - pri tlaku s určenou mierou bezpečnosti v pomere k najvyššiemu pracovnému tlaku - na tlakovom zariadení nevznikajú závažné netesnosti alebo deformácie, ktoré presahujú určenú hodnotu.
+    - a) tlakovú skúšku, ktorej účelom je skontrolovať, či – pri tlaku s určenou mierou bezpečnosti v pomere k najvyššiemu dovolenému tlaku – na tlakovom zariadení nevznikajú závažné netesnosti alebo deformácie, ktoré presahujú určenú hodnotu.
 
       - Skúšobný tlak musí byť určený na základe rozdielov medzi hodnotami geometrických a materiálových vlastností meraných v podmienkach skúšky a hodnotami použitými v návrhu tlakového zariadenia; pritom sa musia zobrať do úvahy rozdiely medzi skúšobnou a výpočtovou teplotou,
 
@@ -142,7 +142,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - c) skúšky týkajúce sa ďalších faktorov uvedených v bode 2.2.1, napríklad korózie, vonkajšieho poškodenia, ak sú potrebné.
 
-  - 2.3 Zabezpečenie bezpečnej manipulácie a prevádzky
+  - 2.3 Zaistenie bezpečnej manipulácie a prevádzky
 
     - Predpísaný spôsob prevádzkovania tlakového zariadenia musí vylučovať akékoľvek odôvodnene predvídateľné riziko počas jeho prevádzky.
 
@@ -160,17 +160,17 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
       - Tlakové zariadenie so vstupným otvorom musí byť vybavené automatickým alebo ručne ovládateľným zariadením umožňujúcim prevádzkovateľovi ľahko sa presvedčiť, že jeho otvorenie nebude predstavovať žiadne riziko. Tlakové zariadenie musí byť vybavené zariadením, ktoré zabráni jeho otvoreniu vždy v prípade, ak tlak alebo teplota tekutiny predstavuje nebezpečenstvo; to neplatí, ak sa zariadenie musí dať rýchlo otvoriť.
 
-  - 2.4 Skúšky
+  - 2.4 Spôsoby skúšania
 
     - Na zabezpečenie vykonávania skúšok
 
     - a) musí byť tlakové zariadenie navrhnuté a vyrobené tak, aby sa mohli vykonať všetky potrebné skúšky na zaistenie bezpečnosti,
 
-    - b) musia byť k dispozícií prostriedky na zistenie vnútorného stavu, napríklad vstupné otvory umožňujúce fyzický prístup do vnútra tlakového zariadenia, aby potrebné skúšky bolo možné vykonať bezpečne a ergonomicky, ak je potrebné trvalo zabezpečovať bezpečnosť tlakového zariadenia,
+    - b) musia byť k dispozícií prostriedky na zistenie vnútorného stavu, napríklad vstupné otvory umožňujúce fyzický prístup dovnútra tlakového zariadenia, aby potrebné skúšky bolo možné vykonať bezpečne a ergonomicky, ak je potrebné trvalo zaisťovať bezpečnosť tlakového zariadenia,
 
     - c) možno použiť aj iné prostriedky na zaistenie bezpečnosti tlakového zariadenia, ako sú uvedené v písmene b), v prípade, ak
 
-      - 1. je veľmi malé na fyzický prístup do vnútra,
+      - 1. je veľmi malé na fyzický prístup dovnútra,
 
       - 2. otvorenie tlakového zariadenia môže mať nepriaznivý vplyv na jeho obsah alebo
 
@@ -186,7 +186,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
   - 2.6 Korózia alebo iné chemické účinky
 
-    - Tlakové zariadenie, ak je to potrebné, musí byť vyhotovené s dostatočným prídavkom na koróziu alebo proti iným chemickým účinkom so zreteľom na predpokladané a odôvodnene predvídateľné použitie.
+    - Tlakové zariadenie, ak je to potrebné, musí byť vyhotovené s dostatočným prídavkom proti korózii alebo proti iným chemickým účinkom so zreteľom na predpokladané a odôvodnene predvídateľné použitie.
 
   - 2.7 Opotrebenie
 
@@ -220,17 +220,17 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - c) pri plnení alebo vypúšťaní na nebezpečné pripojenie a odpojenie.
 
-  - 2.10 Ochrana tlakového zariadenia proti prekročeniu dovolených hodnôt
+  - 2.10 Ochrana zariadenia proti prekročeniu dovolených hodnôt
 
-    - Tlakové zariadenie musí byť vybavené vhodnými ochrannými zariadeniami alebo sa musia urobiť opatrenia na jeho vybavenie takým ochranným zariadením v prípade, že sa nepredpokladá zabezpečenie ochrany inými ochrannými zariadeniami v rámci zostavy, ak by v odôvodnene predvídateľných podmienkach mohlo dôjsť k prekročeniu dovolených hodnôt.
+    - Zariadenie musí byť vybavené vhodnými ochrannými zariadeniami alebo sa musia urobiť opatrenia na jeho vybavenie takým ochranným zariadením v prípade, že sa nepredpokladá zabezpečenie ochrany inými ochrannými zariadeniami v rámci zostavy, ak by v odôvodnene predvídateľných podmienkach mohlo dôjsť k prekročeniu dovolených hodnôt.
 
-    - Ochranné zariadenie alebo kombinácia ochranných zariadení sa musí určiť na základe príslušných vlastností tlakového zariadenia alebo zostavy.
+    - Vhodné ochranné zariadenie alebo kombinácia ochranných zariadení sa musí určiť na základe príslušných vlastností tlakového zariadenia alebo zostavy.
 
-    - Ochranné zariadenia alebo ich kombinácie musia obsahovať
+    - Vhodné ochranné zariadenia alebo ich kombinácie majú obsahovať
 
     - a) bezpečnostné príslušenstvo podľa § 1 ods. 4 písm. d),
 
-    - b) podľa potreby iné vhodné zariadenie, napríklad oznamovač, ukazovateľ alebo výstražné zariadenie, ktoré umožní vykonať automatické alebo ručné zásahy na udržanie dovolených hodnôt tlakového zariadenia.
+    - b) podľa potreby iné vhodné kontrolné zariadenie, napríklad indikátor alebo výstražné zariadenie, ktoré umožní vykonať automatické alebo ručné zásahy na udržanie dovolených hodnôt tlakového zariadenia.
 
   - 2.11 Bezpečnostné príslušenstvo
 
@@ -240,11 +240,11 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - b) byť nezávislé od iných činností v prípade, ak bezpečnostná funkcia môže byť ovplyvnená inými činnosťami,
 
-    - c) vyhovovať príslušným zásadám navrhovania, aby bola zaistená bezpečnosť a spoľahlivá ochrana. Tieto zásady zahŕňajú hlavne zaistenie bezpečnosti pri poruche, zálohovanie, možnosti rôznorodosti vyhotovenia a automatické preverovanie vlastnej činnosti.
+    - c) vyhovovať príslušným zásadám navrhovania, aby bola zaistená vhodná a spoľahlivá ochrana. Tieto zásady zahŕňajú hlavne zaistenie bezpečnosti pri poruche, zálohovanie, možnosti rôznorodosti vyhotovenia a preverovanie vlastnej činnosti.
 
   - 2.11.2 Zariadenie na obmedzenie tlaku
 
-    - Toto zariadenie musí byť navrhnuté tak, aby nedochádzalo k trvalému zvyšovaniu najvyššieho pracovného tlaku. Krátkodobé zvýšenie tlaku je dovolené pri dodržaní podmienky podľa bodu 7.3.
+    - Toto zariadenie musí byť navrhnuté tak, aby nedochádzalo k trvalému prekročeniu najvyššieho dovoleného tlaku. Krátkodobé zvýšenie tlaku je dovolené pri dodržaní podmienky podľa bodu 7.3.
 
   - 2.11.3 Zariadenie na kontrolu teploty
 
@@ -262,7 +262,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
   - 3.1.1 Zhotovovanie jednotlivých častí
 
-    - Zhotovovanie jednotlivých častí, napríklad tvárnením a prípravou zvarových plôch, nesmie spôsobiť povrchové chyby, trhliny alebo zmeny mechanických vlastností, ktoré môžu zhoršiť bezpečnosť tlakového zariadenia.
+    - Zhotovovanie jednotlivých častí, napríklad tvárnením a prípravou zvarových plôch, nesmie spôsobiť povrchové chyby, trhliny alebo zmeny mechanických vlastností, ktoré môžu ohroziť bezpečnosť tlakového zariadenia.
 
   - 3.1.2 Nerozoberateľné spoje
 
@@ -272,19 +272,21 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - Nerozoberateľné spoje tlakového zariadenia, ktoré sú vystavené tlaku, a častí, ktoré sú k nim priamo pripojené, musia vyhotoviť zamestnanci s príslušnou kvalifikáciou a s použitím príslušných pracovných postupov.
 
-    - Pre tlakové zariadenie II., III. a IV. kategórie musia byť pracovné postupy a zamestnanci určení na vyhotovenie nerozoberateľných spojov schválení autorizovanou osobou, ktorá musí vykonať alebo dať vykonať prehliadky a skúšky podľa príslušných noriem alebo im rovnocenné prehliadky a skúšky.
+    - Pre tlakové zariadenie II., III. a IV. kategórie musia byť pracovné postupy a zamestnanci určení na vyhotovenie nerozoberateľných spojov schválení osobou autorizovanou podľa § 11 ods. 1 písm. a) zákona. V prípade, ak to ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná, organizáciou tretej strany autorizovanou členským štátom Európskej únie. Autorizovaná osoba alebo organizácia tretej strany musia vykonať prehliadky a skúšky podľa príslušných harmonizovaných noriem alebo musia byť vykonané im rovnocenné prehliadky a skúšky.
 
   - 3.1.3 Nedeštruktívne skúšky
 
-    - Nedeštruktívne skúšky nerozoberateľných spojov tlakových zariadení musia vykonávať zamestnanci s príslušnou kvalifikáciou. Pre tlakové zariadenie II., III. a IV. kategórie musia byť zamestnanci určení na vykonávanie nedeštruktívnych skúšok schválení autorizovanou osobou.
+    - Nedeštruktívne skúšky nerozoberateľných spojov tlakových zariadení musia vykonávať zamestnanci s príslušnou kvalifikáciou.
+
+    - Pre tlakové zariadenie III. a IV. kategórie musia byť pracovné postupy a zamestnanci určení na vyhotovenie nerozoberateľných spojov schválení osobou autorizovanou podľa § 11 ods. 1 písm. a) zákona. V prípade, ak to ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná, organizáciou tretej strany autorizovanou členským štátom Európskej únie. Autorizovaná osoba alebo organizácia tretej strany musia vykonať prehliadky a skúšky podľa príslušných harmonizovaných noriem alebo musia byť vykonané im rovnocenné prehliadky a skúšky.
 
   - 3.1.4 Tepelné spracovanie
 
     - Ak existuje riziko, že výrobný postup zmení vlastnosti materiálov v takom rozsahu, že môže dôjsť k zhoršeniu bezpečnosti tlakového zariadenia, musí sa použiť vhodné tepelné spracovanie.
 
-  - 3.1.5 Označovanie
+  - 3.1.5 Identifikovateľnosť
 
-    - Na označovanie materiálu, ktorý je vystavený tlaku, musia byť určené a dodržiavané postupy. Tieto postupy musia byť uplatňované vhodnými prostriedkami, a to od prevzatia materiálu, počas výroby až po poslednú skúšku tlakového zariadenia.
+    - Na identifikovanie materiálu, ktorý je vystavený tlaku, musia byť určené a dodržiavané postupy. Tieto postupy musia byť uplatňované vhodnými prostriedkami, a to od prevzatia materiálu, počas výroby až po poslednú skúšku tlakového zariadenia.
 
   - 3.2 Záverečné posúdenie
 
@@ -292,25 +294,25 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
   - 3.2.1 Záverečná kontrola
 
-    - Na tlakovom zariadení sa musí vykonať záverečná kontrola, pri ktorej sa na základe vizuálnej prehliadky a kontroly konštrukčnej dokumentácie hodnotí dodržanie požiadaviek tohto nariadenia. Pritom sa môžu zohľadniť skúšky vykonané počas výroby. Vonkajšia aj vnútorná prehliadka každej časti zariadenia sa musí vykonať, ak je potrebné, z bezpečnostných dôvodov. Vonkajšia aj vnútorná prehliadka sa vykoná, ak je to potrebné, ešte počas výroby, napríklad v prípade, že prehliadku nie je možné vykonať počas záverečnej kontroly.
+    - Na tlakovom zariadení sa musí vykonať záverečná kontrola, pri ktorej sa na základe vizuálnej prehliadky a kontroly technickej dokumentácie hodnotí dodržanie požiadaviek tohto nariadenia. Pritom sa môžu zohľadniť skúšky vykonané počas výroby. Vonkajšia aj vnútorná prehliadka každej časti zariadenia sa musí vykonať, ak je potrebné, z bezpečnostných dôvodov. Vonkajšia aj vnútorná prehliadka sa vykoná, ak je to potrebné, ešte počas výroby, napríklad v prípade, že prehliadku nie je možné vykonať počas záverečnej kontroly.
 
   - 3.2.2 Tlaková skúška
 
     - Súčasťou posúdenia zhody tlakového zariadenia je skúška tlakového telesa, ktorá sa obyčajne vykonáva ako hydraulická tlaková skúška tlakom, ktorý je rovnaký alebo vyšší ako tlak určený podľa bodu 7.4.
 
-    - Pre sériovo vyrábané tlakové zariadenie I. kategórie možno túto skúšku vykonať na reprezentatívnej vzorke.
+    - Pre sériovo vyrábané tlakové zariadenie I. kategórie možno túto skúšku vykonať na štatistickom základe.
 
     - Ak sa pri hydraulickej tlakovej skúške môže tlakové zariadenie poškodiť alebo ju nemožno vykonať, môžu sa vykonať iné rovnocenné skúšky. Pred ich vykonaním sa musia uskutočniť doplnkové opatrenia, napríklad nedeštruktívne skúšky alebo iné rovnocenné skúšky.
 
-  - 3.2.3 Kontrola bezpečnostnej časti
+  - 3.2.3 Kontrola bezpečnostných zariadení
 
-    - Súčasťou posúdenia zhody zostavy je aj kontrola bezpečnostných častí zameraná na dodržiavanie požiadaviek podľa bodu 2.10.
+    - Súčasťou posúdenia zhody zostavy je aj kontrola bezpečnostných zariadení zameraná na dodržiavanie požiadaviek podľa bodu 2.10.
 
   - 3.3 Označenie a nápisy
 
-  - 3.3.1 Na tlakovom zariadení musia byť, okrem označenia CE podľa § 12, uvedené
+  - 3.3.1 Na tlakovom zariadení musia byť okrem označenia CE podľa § 12 uvedené
 
-    - a) základné údaje:
+    - a) pre všetky tlakové zariadenia:
 
       - 1. názov a adresa výrobcu alebo iný spôsob jeho označenia,
 
@@ -326,7 +328,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
       - 2. menovitá svetlosť potrubia,
 
-      - 3. použitý skúšobný tlak („PT“) v baroch s uvedením dátumu skúšky,
+      - 3. použitý skúšobný tlak („PT") v baroch s uvedením dátumu skúšky,
 
       - 4. tlak, na ktorý je nastavené bezpečnostné príslušenstvo v baroch,
 
@@ -342,21 +344,23 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
       - 10. hmotnosť prázdneho tlakového zariadenia v kg,
 
-      - 11. skupina tekutiny,
+      - 11. skupina výrobkov,
 
-    - c) výstrahy podľa potreby umiestnené na tlakovom zariadení a upozorňujúce na nesprávne používanie, ktoré možno odôvodnene predpokladať.
+    - c) výstrahy podľa potreby umiestnené na tlakovom zariadení a upozorňujúce na nesprávne používanie, ktoré podľa skúseností možno odôvodnene predpokladať.
 
-  - 3.3.2 Označenie CE a požadované informácie musia byť umiestnené na tlakovom zariadení alebo na štítku pripevnenému k nemu s tým, že
+  - 3.3.2 Označenie CE a požadované informácie musia byť umiestnené na tlakovom zariadení alebo na štítku pripevnenom k nemu s týmito výnimkami:
 
     - a) označenie CE, ako aj iné označenie a nápisy uvedené v tejto prílohe môžu byť v niektorých prípadoch umiestnené v príslušnej dokumentácii, aby sa predišlo opakovanému označeniu jednotlivých častí, napríklad časti potrubia určené pre tú istú zostavu,
 
-    - b) informácie o tlakovom zariadení, ktoré je príliš malé, napríklad bezpečnostné príslušenstvo, a ktoré sú uvedené v bode 3.3.1 písm. b), môžu byť umiestnené na štítku pripevnenom k tlakovému zariadeniu,
+    - b) informácie o tlakovom zariadení, ktoré je príliš malé, napríklad príslušenstvo, a ktoré sú uvedené v bode 3.3.1 písm. b), môžu byť umiestnené na štítku pripevnenom k tlakovému zariadeniu,
 
     - c) možno použiť nápisy alebo iné prostriedky na označenie údajov o obsahu a na výstrahu podľa bodu 3.3.1 písm. c), ak sú nezmazateľné.
 
   - 3.4 Prevádzkové pokyny
 
-    - Pri tlakovom zariadení uvádzanom na trh musia byť priložené, ak je to nevyhnutné, pokyny pre prevádzkovateľa. Prevádzkové pokyny musia obsahovať
+    - Pri tlakovom zariadení uvádzanom na trh musia byť priložené, ak je to nevyhnutné, pokyny pre prevádzkovateľa.
+
+    - Prevádzkové pokyny musia obsahovať
 
     - a) potrebné informácie týkajúce sa
 
@@ -368,13 +372,13 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
       - 4. údržby vrátane kontrol vykonávaných prevádzkovateľom,
 
-    - b) údaje pripojené k tlakovému zariadeniu podľa bodu 3.3, okrem označenia série, a musí byť k nim priložená technická dokumentácia, výkresy a grafy, ktoré sú nevyhnutné pre prevádzku tlakového zariadenia,
+    - b) údaje pripojené k tlakovému zariadeniu podľa bodu 3.3 okrem označenia série a musí k nim byť priložená technická dokumentácia, výkresy a grafy, ktoré sú nevyhnutné na prevádzku tlakového zariadenia,
 
-    - c) upozornenie na riziká, ktoré vyplývajú z nesprávneho používania tlakového zariadenia podľa bodu 1.3 a z určitých vlastností návrhu tlakového zariadenia podľa bodu 2.2.3.
+    - c) prípadné upozornenie na riziká, ktoré vyplývajú z nesprávneho používania tlakového zariadenia podľa bodu 1.3 a z určitých vlastností návrhu tlakového zariadenia podľa bodu 2.2.3.
 
   - 4. MATERIÁLY
 
-    - Materiály používané na výrobu tlakových zariadení musia byť vyhovujúce po celý čas predpokladanej životnosti.
+    - Materiály používané na výrobu tlakových zariadení musia byť vyhovujúce po celý čas predpokladanej životnosti, ak sa nepredpokladá ich výmena.
 
     - Prídavné materiály a iné spájacie materiály musia vyhovovať požiadavkám podľa bodov 4.1, 4.2 písm. a) a bodu 4.3, a to pred použitím a aj po použití v spojenej konštrukcii.
 
@@ -394,9 +398,9 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - a) určiť vhodným spôsobom hodnoty nevyhnutné na pevnostné výpočty podľa bodu 2.2.3 a rovnako aj základné vlastnosti materiálov a ich spracovanie podľa bodu 4.1,
 
-    - b) uviesť vo svojej technickej dokumentácii údaje tykajúce sa zhody so špecifikáciou materiálov podľa tohto nariadenia jedným z týchto spôsobov:
+    - b) uviesť vo svojej technickej dokumentácii údaje týkajúce sa zhody so špecifikáciou materiálov podľa tohto nariadenia jedným z týchto spôsobov:
 
-      - 1. použitím materiálov, ktoré vyhovujú normám,
+      - 1. použitím materiálov, ktoré vyhovujú harmonizovaným normám,
 
       - 2. použitím materiálov uvedených v európskom schválení pre materiály podľa § 10 alebo
 
@@ -408,25 +412,25 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - Pre hlavné časti zariadenia II., III. a IV. kategórie vystavené tlaku táto dokumentácia musí mať formu certifikátu o osobitnej kontrole výrobku.
 
-    - Ak výrobca materiálov uplatňuje systém zabezpečovania kvality certifikovaný certifikačným orgánom a podrobil sa osobitnému posudzovaniu pre oblasť materiálov, považuje sa certifikát vydaný týmto výrobcom za potvrdenie zhody s príslušnými požiadavkami tohto bodu.
+    - Ak výrobca materiálov uplatňuje systém zabezpečovania kvality certifikovaný príslušným orgánom a podrobil sa osobitnému posudzovaniu pre oblasť materiálov, považuje sa certifikát vydaný týmto výrobcom za potvrdenie zhody s príslušnými požiadavkami tohto bodu.
 
   - OSOBITNÉ TECHNICKÉ POŽIADAVKY NA TLAKOVÉ ZARIADENIE
 
   - Okrem technických požiadaviek uvedených v bodoch 1 až 4 sa na tlakové zariadenie vzťahujú aj technické požiadavky uvedené v bodoch 5 a 6.
 
-  - 5. TLAKOVÉ ZARIADENIE VYSTAVENÉ PLAMEŇU ALEBO INAK VYHRIEVANÉ S RIZIKOM PREHRIATIA PODĽA § 4 ods. 2
+  - 5. TLAKOVÉ ZARIADENIE VYSTAVENÉ PLAMEŇU ALEBO INAK VYHRIEVANÉ S RIZIKOM PREHRIATIA PODĽA § 4 ods. 1
 
   - 5.1 Tlakovým zariadením vystaveným plameňu alebo inak vyhrievaným s rizikom prehriatia sú
 
     - a) generátory pary a horúcej vody podľa § 4 ods. 1 písm. b), napríklad parné a horúcovodné kotly, prehrievače a prihrievače, kotly na odpadové teplo, kotly na spaľovanie odpadu, elektródové alebo ponorné elektricky vykurované kotly, tlakové hrnce vrátane ich príslušenstva a prípadne aj s ich zariadeniami na úpravu napájacej vody a na prívod paliva,
 
-    - b) tlakové zariadenia na technologický ohrev určené na iné účely, ako je výroba pary a horúcej vody, uvedené v § 4 ods. 1 písm. a), napríklad ohrievače určené pre chemické a podobné procesy, a tlakové zariadenie na spracovanie potravín.
+    - b) tlakové zariadenia na technologický ohrev určené na iné účely, ako je výroba pary a horúcej vody, uvedené v § 4 ods. 1 písm. a), napríklad ohrievače určené pre chemické a podobné procesy, a tlakové zariadenia na spracovanie potravín.
 
-  - 5.2 Tlakové zariadenie podľa bodu 5.1 musí byť vypočítané, navrhnuté a vyrobené tak, aby sa vylúčilo alebo znížilo riziko výrazného zníženia odolnosti proti tlaku na najnižšiu možnú úroveň. Hlavne sa musí zabezpečiť, aby
+  - 5.2 Tlakové zariadenie podľa bodu 5.1 musí byť vypočítané, navrhnuté a vyrobené tak, aby sa vylúčilo alebo znížilo riziko výrazného obmedzenia prehriatia na najnižšiu možnú úroveň. Hlavne sa musí zabezpečiť, aby
 
     - a) boli k dispozícii vhodné ochranné prostriedky na obmedzenie prevádzkových parametrov, napríklad prívodu alebo odvodu tepla, prípadne úrovne hladiny, aby sa zabránilo akémukoľvek riziku z miestneho alebo celkového prehriatia,
 
-    - b) boli podľa potreby k dispozícii miesta na odber vzoriek na hodnotenie vlastností tekutiny, aby sa zabránilo riziku spojenému so vznikom usadenín a korózie,
+    - b) boli podľa potreby k dispozícii miesta na odber vzoriek na hodnotenie vlastností tekutiny, aby sa zabránilo riziku spojenému so vznikom usadenín alebo korózie,
 
     - c) sa vykonali vhodné opatrenia na vylúčenie rizika poškodenia spôsobeného usadeninami,
 
@@ -442,15 +446,15 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - b) na mieste, na ktorom dochádza ku kondenzácii vnútri potrubia na plyn, boli k dispozícii prostriedky na vypúšťanie a odstraňovanie usadenín z nižšie položených častí potrubia, aby sa zabránilo poškodeniu vplyvom hydraulického rázu alebo korózie,
 
-    - c) zohľadnila sa možnosť poškodenia vplyvom turbulencie a vzniku vírov, pričom možno použiť príslušné ustanovenia podľa bodu 2.7,
+    - c) sa zohľadnila možnosť poškodenia vplyvom turbulencie a vzniku vírov, pričom možno použiť príslušné ustanovenia podľa bodu 2.7,
 
-    - d) uvažovalo sa s rizikom únavy spôsobeným vibráciami v potrubí,
+    - d) sa uvažovalo s rizikom únavy spôsobeným vibráciami v potrubí,
 
     - e) v prípade, ak potrubie obsahuje tekutiny 1. skupiny, boli k dispozícii vhodné prostriedky na odpojenie odberových potrubí, ktorých veľkosť predstavuje veľké riziko,
 
-    - f) bolo na najnižšiu možnú úroveň znížené riziko náhodného vypustenia a miesta odberu musia byť zreteľne a viditeľne označené na potrubí údajom o tekutine, ktorá je v ňom obsiahnutá,
+    - f) bolo na najnižšiu možnú úroveň znížené riziko náhodného vypustenia a miesta odberu musia byť zreteľne a viditeľne označené na stabilnej strane potrubia údajom o tekutine, ktorá je v ňom obsiahnutá,
 
-    - g) poloha a trasa podzemného potrubia boli vyznačené v technickej dokumentácii a aby sa zabezpečila bezpečná údržba, kontrola alebo oprava.
+    - g) poloha a trasa podzemného potrubia boli vyznačené v technickej dokumentácii a aby sa zaistila bezpečná údržba, kontrola alebo oprava.
 
   - 7. OSOBITNÉ KVANTITATÍVNE POŽIADAVKY NA NIEKTORÉ TLAKOVÉ ZARIADENIA
 
@@ -460,7 +464,7 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
   - 7.1.1 Označenie
 
-    - a) R<sub>e/t</sub> medza klzu, ktorá pri výpočtovej teplote označuje hodnotu
+    - a) R<sub>e/t</sub>medza klzu, ktorá pri výpočtovej teplote označuje hodnotu
 
       - 1. hornej medze klzu pre materiály s hornou a dolnou medzou klzu,
 
@@ -472,23 +476,23 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
     - c) R<sub>m/t</sub> označuje medzu pevnosti pri výpočtovej teplote.
 
-  - 7.1.2 Celkové dovolené namáhanie membrány, najmä pri statickom zaťažení a pri teplote mimo oblasti výrazného tečenia, nesmie prekročiť menšiu hodnotu, ako sú:
+  - 7.1.2 Celkové dovolené membránové napätie, najmä pri statickom zaťažení a pri teplote mimo oblasti výrazného tečenia, nesmie prekročiť menšiu hodnotu podľa použitého materiálu, ako sú:
 
-    - a) 2/3 R<sub>e/t</sub> a 5/12 R<sub>m/20</sub> pre feritické ocele, normalizované (normalizované valcovanie) ocele okrem jemnozrnovej ocele a špeciálne tepelne spracovanej ocele,
+    - a) 2/3 R<sub>e/t</sub> a 5/12 R<sub>m/20</sub>pre feritické ocele, normalizované (normalizované valcovanie) ocele okrem jemnozrnovej ocele a špeciálne tepelne spracovanej ocele,
 
     - b) pre austenitické ocele
 
-      - 1. 2/3 R<sub>e/t</sub> - ak je ťažnosť väčšia ako 30 %, alebo
+      - 1. 2/3 R<sub>e/t</sub>– ak je ťažnosť väčšia ako 30 %, alebo
 
-      - 2. 5/6 R<sub>e/t</sub> a 1/3 R<sub>m/t</sub> - ak je ťažnosť väčšia ako 35 %,
+      - 2. 5/6 R<sub>e/t</sub>a 1/3 R<sub>m/t</sub> – ak je ťažnosť väčšia ako 35 %,
 
     - c) 10/19 R<sub>e/t</sub> a 1/3 R<sub>m/20</sub> pre nelegovanú alebo nízkolegovanú oceľ na odliatky,
 
-    - d) 2/3 R<sub>e/t</sub> pre hliník,
+    - d) 2/3 R<sub>e/t</sub>pre hliník,
 
-    - e) 2/3 R<sub>e/t</sub> a 5/12 R<sub>m/20</sub> pre hliníkové zliatiny nepodliehajúce vytvrdzovaniu počas starnutia.
+    - e) 2/3 R<sub>e/t</sub>a 5/12 R<sub>m/20</sub> pre hliníkové zliatiny nepodliehajúce vytvrdzovaniu počas starnutia.
 
-  - 7.2 Súčiniteľ zvarového spoja
+  - 7.2 Súčiniteľ spoja
 
     - Pri zvarových spojoch súčiniteľ zvarového spoja nesmie prekročiť hodnotu
 
@@ -502,16 +506,16 @@ Príloha č. 1 k nariadeniu vlády č. 576/2002 Z. z.
 
   - 7.3 Zariadenie na obmedzenie tlaku, hlavne pri tlakových nádobách
 
-    - Krátkodobé zvýšenie tlaku podľa bodu 2.11.2 nesmie presiahnuť 10 % hodnoty najvyššieho pracovného tlaku.
+    - Krátkodobé zvýšenie tlaku podľa bodu 2.11.2 nesmie presiahnuť 10 % hodnoty najvyššieho dovoleného tlaku.
 
   - 7.4 Hydraulický skúšobný tlak
 
     - Hydraulický skúšobný tlak podľa bodu 3.2.2 pri tlakovom zariadení nesmie byť menší ako vyššia hodnota
 
-    - a) tlaku, ktorý zodpovedá najväčšiemu zaťaženiu, ktorému môže byť tlakové zariadenie vystavené počas prevádzky po zohľadnení najvyššieho pracovného tlaku a najvyššej pracovnej teploty, vynásobeného súčiniteľom 1,25, alebo
+    - a) tlaku, ktorý zodpovedá najväčšiemu zaťaženiu, ktorému môže byť tlakové zariadenie vystavené počas prevádzky po zohľadnení najvyššieho dovoleného tlaku a najvyššej dovolenej teploty, vynásobeného súčiniteľom 1,25, alebo
 
-    - b) najvyššieho pracovného tlaku vynásobeného súčiniteľom 1,43.
+    - b) najvyššieho dovoleného tlaku vynásobeného súčiniteľom 1,43.
 
   - 7.5 Vlastnosti materiálov
 
-    - Ak sa nepožadujú iné hodnoty podľa iných kritérií, s ktorými sa musí uvažovať, považuje sa oceľ za dostatočne ťažnú, aby vyhovovala požiadavkám podľa bodu 4.1 písm. a), ak pri skúške ťahom vykonanej normalizovaným spôsobom nie je ťažnosť po pretrhnutí menšia ako 14 % a nárazová práca pri skúške vrubovej húževnatosti s vrubom tvaru V meraná na skúšobnej vzorke podľa ISO normy nie je menšia ako 27 J pri teplote najviac 20 <sup>o</sup>C, ale nie vyššej, ako je najnižšia pracovná teplota.
+    - Ak sa nepožadujú iné hodnoty podľa iných kritérií, s ktorými sa musí uvažovať, považuje sa oceľ za dostatočne ťažnú, aby vyhovovala požiadavkám podľa bodu 4.1 písm. a), ak pri skúške ťahom vykonanej normalizovaným spôsobom nie je ťažnosť po pretrhnutí menšia ako 14 % a nárazová práca pri skúške vrubovej húževnatosti s vrubom tvaru V meraná na skúšobnej vzorke podľa ISO normy nie je menšia ako 27 J pri teplote najviac 20 <sup>o</sup>C, ale nie vyššej, ako je najnižšia dovolená teplota.
