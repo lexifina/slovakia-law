@@ -6,6 +6,8 @@
 
 - 4) § 1 ods. 2 zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z.
 
+- 4a) § 1 ods. 1 písm. a) až e), g) až j) a m) zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z.
+
 - 5) § 657 a § 658 zákona č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 509/1991 Zb.
 
 - 6) § 56 Obchodného zákonníka.
@@ -24,13 +26,17 @@
 
 - 13) Napr. zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
-- 14) § 2 a nasl. zákona č. 44/1974 Zb. Colný zákon v znení neskorších predpisov.
+- 14) § 15 ods. 2 a § 17 ods. 6 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
 
 - 15) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
 - 16) § 1 ods. 3 písm. o) zákona č. 21/1992 Zb.
 
 - 17) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+
+- 17a) § 8 ods. 3 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+
+- 17b) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
 
 - 18) Napr. štvrtá časť zákona č. 92/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z.
 
@@ -40,13 +46,17 @@
 
 - 21) Napr. zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
+- 21a) § 1 ods. 1 a 3 zákona č. 21/1992 Zb. v znení neskorších predpisov.
+
+- 21b) § 34 a 35 zákona č. 21/1992 Zb. v znení neskorších predpisov.
+
 - 22) § 16 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
 - 23) Tretia časť zákona Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole.
 
-- 24) Zákon č. 44/1974 Zb. Colný zákon v znení neskorších predpisov.
+- 24) Zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- 25) § 265 až § 268 zákona č. 618/1992 Zb. Colný zákon.
+- 25) § 259 až 262 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
 - 26) Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy v znení neskorších predpisov.
 
