@@ -84,6 +84,18 @@
 
 - 32) § 24 zákona č. 214/1992 Zb.
 
+- 32a) § 24 ods. 4 zákona č. 92/1991 Zb. v znení neskorších predpisov.
+
+- 32b) § 2 písm. h) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 32c) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
+
+- 32d) Zákon č. 214/1992 Zb. v znení neskorších predpisov.
+
+- 32e) § 21 ods. 2 zákona č. 214/1992 Zb.
+
+- 32f) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z.
+
 - 33) § 9 zákona č. 248/1992 Zb.
 
 - § 6 zákona č. 530/1990 Zb
