@@ -1,0 +1,1 @@
+- *) Zoznamy sa uverejňujú v Ústrednom vestníku ČSR a SSR.
