@@ -26,6 +26,8 @@
 
 - 12) § 2 ods. 2 Obchodného zákonníka.
 
+- 12a) Zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
 - 13) § 19 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
 - 14) Zákon č. 184/2002 Z. z.Zákon č. 223/2001 Z. z.
