@@ -1,0 +1,3 @@
+Minister:
+
+Blažek v. r.
