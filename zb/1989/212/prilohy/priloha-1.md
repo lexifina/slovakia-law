@@ -836,13 +836,13 @@
 
       - 13.1. Forma uverejnenia
 
-        - Akékoľvek uverejnenie vykonávané Medzinárodným úradom, o ktorom je zmienka v Zmluve alebo v tomto vykonávacom predpise, sa vykoná v mesačníku Medzinárodného úradu spomenutom v Parížskom dohovore na ochranu priemyselného vlastníctva.
+        - Každé uverejnenie vykonávané Medzinárodným úradom, o ktorom je zmienka v Zmluve alebo v tomto vykonávacom predpise, sa vykoná v papierovej forme alebo v elektronickej forme.
 
       - 13.2. Obsah
 
-        - (a) Aspoň v prvom čísle každého roka sa v uvedenom mesačníku uverejní zoznam medzinárodných ukladacích miest podľa stavu k dátumu uverejnenia, s údajmi o druhoch mikroorganizmov, ktoré sa v týchto ukladacích miestach môžu ukladať, ako aj o výške poplatkov nimi vyberaných.
+        - a) Minimálne jedenkrát ročne, prednostne v prvom štvrťroku, sa zverejní aktualizovaný zoznam medzinárodných ukladacích miest vrátane údajov o druhoch mikroorganizmov, ktoré sa v týchto ukladacích miestach môžu ukladať, ako aj o výške poplatkov nimi vyberaných.
 
-        - (b) Úplná informácia o ďalej uvedených skutočnostiach sa uverejní jedenkrát, a to v prvom čísle mesačníka vydanom po vzniku predmetnej skutočnosti. Týka sa:
+        - b) Úplná informácia o uvedených skutočnostiach sa zverejní jedenkrát, a to ihneď po vzniku predmetnej skutočnosti.
 
           - /i/ každého nadobudnutia, zániku a obmedzenia štatútu medzinárodného ukladacieho miesta a opatrení urobených v súvislosti s týmto zánikom alebo obmedzením;
 
