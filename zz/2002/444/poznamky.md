@@ -23,3 +23,7 @@
 - 12) Čl. 6 ter vyhlášky ministra zahraničných vecí č. 64/1975 Zb. o Parížskom dohovore na ochranu priemyselného vlastníctva z 20. marca 1883, revidovanom v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Štokholme 14. júla 1967 v znení vyhlášky č. 81/1985 Zb.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 14) Článok 71 nariadenia Rady (ES) č. 6/2002 z 12. decembra 2001 o dizajnoch Spoločenstva.
+
+- 15) § 275 ods. 1 Občianskeho súdneho poriadku.
