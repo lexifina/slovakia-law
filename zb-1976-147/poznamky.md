@@ -1,0 +1,1 @@
+- 1) Vyhláška ministra zahraničný vecí č. 123/1973 Zb. o Protokole o rovnocennosti dokumentov o vzdelaní, vedeckých hodnostiach a tituloch, ktoré sa vydávajú alebo udieľajú v Československej socialistickej republike a vo Zväze sovietskych socialistických republík.
