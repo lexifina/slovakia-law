@@ -80,9 +80,9 @@
 
 - 41) § 6 ods. 1 zákona č. 488/2002 Z. z.
 
-- 42) § 5 nariadenia vlády Slovenskej republiky č. 284/2003 Z. z. o zdravotných problémoch a problémoch veterinárnej inšpekcie pri dovoze hovädzieho dobytka, oviec, kôz, ošípaných, čerstvého mäsa alebo mäsových výrobkov z tretích krajín.Nariadenie vlády Slovenskej republiky č. 301/2003 Z. z. o princípoch ovplyvňujúcich organizáciu veterinárnych kontrol zvierat vstupujúcich na územie Slovenskej republiky z tretích krajín.
+- 42) § 5 nariadenia vlády Slovenskej republiky č. 284/2003 Z. z. o zdravotných problémoch a problémoch veterinárnej inšpekcie pri dovoze hovädzieho dobytka, oviec, kôz, ošípaných, čerstvého mäsa alebo mäsových výrobkov z tretích krajín v znení nariadenia vlády Slovenskej republiky č. 485/2003 Z. z.Nariadenie vlády Slovenskej republiky č. 301/2003 Z. z. o princípoch ovplyvňujúcich organizáciu veterinárnych kontrol zvierat vstupujúcich na územie Slovenskej republiky z tretích krajín v znení nariadenia vlády Slovenskej republiky č. 499/2003 Z. z.Nariadenie vlády Slovenskej republiky č. 321/2003 Z. z., ktorým sa ustanovujú princípy organizácie veterinárnych kontrol produktov vstupujúcich do Slovenskej republiky z tretích krajín.
 
-- 43) § 2 ods. 2 písm. e) nariadenia vlády Slovenskej republiky č. 321/2003 Z. z., ktorým sa ustanovujú princípy organizácie veterinárnych kontrol produktov vstupujúcich do Slovenskej republiky z tretích krajín.
+- 43) § 2 ods. 1 písm. e) nariadenia vlády Slovenskej republiky č. 301/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 499/2003 Z. z.
 
 - 44) § 33 ods. 2 zákona č. 488/2002 Z. z.
 
@@ -112,10 +112,14 @@
 
 - 2) Kapitoly 5.9. normy ISO 17025 (1).
 
-- 3) ISO 31 (20).
+- 3) STN ISO 3534-1.
 
-- 4) ISO 5725-4 (5).
+- 4) STN ISO 31.
 
-- 5) ISO 5725-2 (5).
+- 5) STN ISO 17025.
 
-- 6) ISO 11843 (17).
+- 6) STN ISO 5725-4.
+
+- 7) STN ISO 5725-2.
+
+- 8) STN ISO 11843.

@@ -44,7 +44,7 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
     - 1. Definície pojmov
 
-      - 1.1. Správnosťou sa rozumie blízkosť zhody medzi výsledkom skúšky a uznanou referenčnou hodnotou (2). Je určená výťažnosťou a presnosťou.
+      - 1.1. Správnosťou sa rozumie blízkosť zhody medzi výsledkom skúšky a uznanou referenčnou hodnotou<sup>3</sup>). Je určená výťažnosťou a presnosťou.
 
       - 1.2. Alfa (α) chybou sa rozumie pravdepodobnosť, že testovaná vzorka je zhodná, aj keď bola získaná nezhodným meraním (falošne nezhodné rozhodnutie).
 
@@ -52,7 +52,7 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
       - 1.4. Beta (ß) chybou sa rozumie pravdepodobnosť, že testovaná vzorka je skutočne nezhodná, aj keď bola získaná zhodným meraním (falošne zhodné rozhodnutie).
 
-      - 1.5. Biasom sa rozumie rozdiel medzi predpokladaným výsledkom testu a uznanou referenčnou hodnotou (2).
+      - 1.5. Biasom sa rozumie rozdiel medzi predpokladaným výsledkom testu a uznanou referenčnou hodnotou<sup>3</sup>).
 
       - 1.6. Kalibračným štandardom sa rozumie prostriedok na meranie, ktorý predstavuje kvantitu látky, ktorá nás zaujíma tak, že spája svoju hodnotu s referenčným základom.
 
@@ -86,7 +86,7 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
       - 1.21. Stanoveným limitom sa rozumie maximálny limit rezíduí, maximálna úroveň alebo iná maximálna prípustná odchýlka ustanovená iným právnym predpisom Spoločenstva.
 
-      - 1.22. Presnosťou sa rozumie blízkosť zhody medzi nezávislými výsledkami testu získanými za určených (vopred stanovených) podmienok. Miera presnosti sa zvyčajne vyjadruje pojmom nepresnosť a vypočíta sa ako smerodajná odchýlka výsledku. Nižšia presnosť je určená väčšou smerodajnou odchýlkou (2).
+      - 1.22. Presnosťou sa rozumie blízkosť zhody medzi nezávislými výsledkami testu získanými za určených (vopred stanovených) podmienok. Miera presnosti sa zvyčajne vyjadruje pojmom nepresnosť a vypočíta sa ako smerodajná odchýlka výsledku. Nižšia presnosť je určená väčšou smerodajnou odchýlkou<sup>3</sup>).
 
       - 1.23. Skúškou spôsobilosti sa rozumie analyzovanie rovnakej vzorky, ktoré dovoľuje laboratóriám vybrať si ich vlastné metódy pod podmienkou, že tieto metódy sú použité za bežných podmienok. Skúšky sa musia realizovať podľa ISO guide 43-1 (3) a 43-2 (4) a môžu sa použiť na stanovenie reprodukovateľnosti metód.
 
@@ -100,13 +100,13 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
       - 1.28. Referenčným materiálom sa rozumie materiál, ktorého jedna alebo viac vlastností sú potvrdené validovanou metódou, a teda môže sa použiť na kalibráciu prístroja alebo na overenie metód merania.
 
-      - 1.29. Opakovateľnosťou sa rozumie presnosť za opakovateľných podmienok (2).
+      - 1.29. Opakovateľnosťou sa rozumie presnosť za opakovateľných podmienok<sup>3</sup>).
 
       - 1.30. Opakovateľnými podmienkami sa rozumejú podmienky, keď sú nezávislé výsledky testu získané rovnakou metódou, na rovnakých skúšobných predmetoch, v rovnakom laboratóriu, rovnakým operátorom, ktorý používa rovnaké vybavenie.
 
-      - 1.31. Reprodukovateľnosťou sa rozumie presnosť za reprodukovateľných podmienok (2)(4).
+      - 1.31. Reprodukovateľnosťou sa rozumie presnosť za reprodukovateľných podmienok<sup>3</sup>).
 
-      - 1.32. Reprodukovateľnými podmienkami sa rozumejú podmienky, keď sú výsledky testu získané rovnakou metódou, na rovnakých skúšobných predmetoch, v rôznych laboratóriách, rôznymi operátormi, ktorí používajú rôzne vybavenie (2)(4).
+      - 1.32. Reprodukovateľnými podmienkami sa rozumejú podmienky, keď sú výsledky testu získané rovnakou metódou, na rovnakých skúšobných predmetoch, v rôznych laboratóriách, rôznymi operátormi, ktorí používajú rôzne vybavenie<sup>4</sup>).
 
       - 1.33. Robustnosťou sa rozumie schopnosť analytickej metódy prijať zmeny experimentálnych podmienok, ktoré sa môžu vyjadriť ako zoznam materiálov vzorky, analytov, podmienok skladovania, prostredia a/alebo podmienok prípravy vzorky, za ktorých môže byť metóda použitá, ako bolo odporúčané, alebo s malými špecifikovanými modifikáciami. Pre všetky experimentálne podmienky, ktoré môžu byť v praxi predmetom výkyvu (napríklad stabilita reagentov, zloženie vzorky, pH, teplota), majú byť označené akékoľvek odchýlky, ktoré môžu ovplyvniť analytický výsledok.
 
@@ -128,11 +128,11 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
       - 1.42. Vzorkou testu sa rozumie vzorka pripravená z laboratórnej vzorky, z ktorej sa odoberá dávka testu.
 
-      - 1.43. Pravdivosťou sa rozumie blízkosť zhody medzi priemernou hodnotou získanou z veľkých sérií výsledkov testov a prijateľnou referenčnou hodnotou. Pravdivosť sa zvyčajne vyjadruje ako bias (2).
+      - 1.43. Pravdivosťou sa rozumie blízkosť zhody medzi priemernou hodnotou získanou z veľkých sérií výsledkov testov a prijateľnou referenčnou hodnotou. Pravdivosť sa zvyčajne vyjadruje ako bias<sup>3</sup>).
 
-      - 1.44. Jednotkami sa rozumejú jednotky podľa slovenskej technickej normy.<sup>3</sup>)
+      - 1.44. Jednotkami sa rozumejú jednotky podľa slovenskej technickej normy.<sup>4</sup>)
 
-      - 1.45. Validáciou sa rozumie potvrdenie vyšetrením a poskytnutie skutočného dôkazu, že príslušné požiadavky osobitného určenia sú splnené (1).
+      - 1.45. Validáciou sa rozumie potvrdenie vyšetrením a poskytnutie skutočného dôkazu, že príslušné požiadavky osobitného určenia sú splnené<sup>5</sup>).
 
       - 1.46. Vnútrolaboratórnou reprodukovateľnosťou sa rozumie presnosť získaná v tom istom laboratóriu za určených (vopred stanovených) podmienok (vrátane napríklad metódy, materiálu testu, operátora, prostredia) za dlhý časový úsek.
 
@@ -632,7 +632,7 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
           - 3.1.1.2. Pravdivosť
 
-          - V tejto časti je opísané určenie pravdivosti (zložka správnosti). Pravdivosť môže byť potvrdená len pomocou certifikovaného referenčného materiálu (CRM). Vždy sa použije dostupný CRM. Postup je podrobne opísaný v slovenskej technickej norme.<sup>4</sup>) Nižšie je uvedený príklad:
+          - V tejto časti je opísané určenie pravdivosti (zložka správnosti). Pravdivosť môže byť potvrdená len pomocou certifikovaného referenčného materiálu (CRM). Vždy sa použije dostupný CRM. Postup je podrobne opísaný v slovenskej technickej norme.<sup>6</sup>) Nižšie je uvedený príklad:
 
             - a) analyzovať šesť replikátov CRM v súlade s návodom metódy,
 
@@ -818,7 +818,7 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
           - 3.1.2.4. Reprodukovateľnosť
 
-            - Ak bola overená reprodukovateľnosť, laboratóriá sa môžu zúčastňovať na porovnávacích štúdiách podľa slovenskej technickej normy.<sup>5</sup>)
+            - Ak bola overená reprodukovateľnosť, laboratóriá sa môžu zúčastňovať na porovnávacích štúdiách podľa slovenskej technickej normy.<sup>7</sup>)
 
           - 3.1.2.5. Rozhodujúci limit (CCα)
 
@@ -826,13 +826,13 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
           - V prípade látok, pre ktoré nie je ustanovený povolený limit, CCα môže byť stanovené:
 
-            - a) buď postupom kalibračnej krivky podľa slovenskej technickej normy<sup>6</sup>)(tu sa počíta ako kritická hodnota čistej stavovej premennej). V tomto prípade sa má použiť slepý materiál, ktorý je fortifikovaný v najnižšej požadovanej pracovnej hladine a nad najnižšou požadovanou pracovnou hladinou v ekvidistantných krokoch. Analyzovať vzorky. Po identifikácii vniesť do grafu signál oproti pridanej koncentrácii. Korešpondujúca koncentrácia v úseku na osi y plus 2,33 krát smerodajná odchýlka zachytenej vnútrolaboratórnej reprodukovateľnosti sa rovná rozhodujúcemu limitu. Je to vhodné len pre kvantitatívne postupy (α = 1 %), alebo
+            - a) buď postupom kalibračnej krivky podľa slovenskej technickej normy<sup>8</sup>)(tu sa počíta ako kritická hodnota čistej stavovej premennej). V tomto prípade sa má použiť slepý materiál, ktorý je fortifikovaný v najnižšej požadovanej pracovnej hladine a nad najnižšou požadovanou pracovnou hladinou v ekvidistantných krokoch. Analyzovať vzorky. Po identifikácii vniesť do grafu signál oproti pridanej koncentrácii. Korešpondujúca koncentrácia v úseku na osi y plus 2,33 krát smerodajná odchýlka zachytenej vnútrolaboratórnej reprodukovateľnosti sa rovná rozhodujúcemu limitu. Je to vhodné len pre kvantitatívne postupy (α = 1 %), alebo
 
             - b) analyzovaním najmenej 20 slepých materiálov na matricu, aby bolo možné vypočítať pomer signálu k šumu v časovom okne, v ktorom sa očakáva analyt. Ako rozhodujúci limit možno použiť trojnásobok pomeru signál/šum. Je to vhodné pre kvantitatívne a kvalitatívne postupy.
 
             - V prípade látok s ustanoveným povoleným limitom CCα môže byť stanovené
 
-            - a) buď postupom kalibračnej krivky podľa slovenskej technickej normy<sup>6</sup>) (tu sa počíta ako kritická hodnota čistej stavovej premennej). V tomto prípade sa má použiť slepý materiál, ktorý je fortifikovaný približne povoleným limitom v ekvidistantných krokoch. Analyzovať vzorky. Po identifikácii vniesť do grafu signál oproti pridanej koncentrácii. Korešpondujúca koncentrácia v povolenom limite plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti sa rovná rozhodujúcemu limitu (α = 5 %), alebo
+            - a) buď postupom kalibračnej krivky podľa slovenskej technickej normy<sup>8</sup>) (tu sa počíta ako kritická hodnota čistej stavovej premennej). V tomto prípade sa má použiť slepý materiál, ktorý je fortifikovaný približne povoleným limitom v ekvidistantných krokoch. Analyzovať vzorky. Po identifikácii vniesť do grafu signál oproti pridanej koncentrácii. Korešpondujúca koncentrácia v povolenom limite plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti sa rovná rozhodujúcemu limitu (α = 5 %), alebo
 
             - b) analyzovaním najmenej 20 slepých materiálov na matricu, fortifikovaných analytom(mi) v limite. Korešpondujúca koncentrácia v povolenom limite plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti sa rovná rozhodujúcemu limitu (α = 5 %).
 
@@ -842,7 +842,7 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
           - V prípade látok s ustanoveným povoleným limitom CCß môže byť stanovené
 
-            - a) postupom kalibračnej krivky podľa slovenskej technickej normy<sup>6</sup>) (tu sa počíta ako najnižšia detekovateľná hodnota čistej stavovej premennej). V tomto prípade sa má použiť slepý materiál, ktorý je fortifikovaný v najnižšej požadovanej pracovnej hladine a pod najnižšou požadovanou pracovnou hladinou v ekvidistantných krokoch. Analyzovať vzorky. Po identifikácii vniesť do grafu signál oproti pridanej koncentrácii. Korešpondujúca koncentrácia v rozhodujúcom limite plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti priemerného nameraného obsahu v rozhodujúcom limite sa rovná detekčnej schopnosti (ß = 5 %),
+            - a) postupom kalibračnej krivky podľa slovenskej technickej normy<sup>8</sup>) (tu sa počíta ako najnižšia detekovateľná hodnota čistej stavovej premennej). V tomto prípade sa má použiť slepý materiál, ktorý je fortifikovaný v najnižšej požadovanej pracovnej hladine a pod najnižšou požadovanou pracovnou hladinou v ekvidistantných krokoch. Analyzovať vzorky. Po identifikácii vniesť do grafu signál oproti pridanej koncentrácii. Korešpondujúca koncentrácia v rozhodujúcom limite plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti priemerného nameraného obsahu v rozhodujúcom limite sa rovná detekčnej schopnosti (ß = 5 %),
 
             - b) analyzovaním najmenej 20 slepých materiálov na matricu, fortifikovaných analytom(mi) v rozhodujúcom limite. Analyzovať vzorky a identifikovať analyty. Hodnota rozhodujúceho limitu plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti nameraného obsahu sa rovná detekčnej schopnosti (ß = 5 %),
 
@@ -850,7 +850,7 @@ Príloha č. 8 k nariadeniu vlády č. 320/2003 Z. z.
 
           - V prípade látok, pre ktoré bol ustanovený detekčný limit CCß, môže byť stanovené
 
-            - a) buď postupom kalibračnej krivky podľa slovenskej technickej normy<sup>6</sup>) (tu sa počíta ako najnižšia detekovateľná hodnota čistej stavovej premennej). V tomto prípade sa použije zástupca slepého materiálu, ktorý je fortifikovaný približne povoleným limitom v ekvidistantných krokoch. Analyzovať vzorky a identifikovať analyt(y). Vypočítať smerodajnú odchýlku priemeru nameraného obsahu v rozhodujúcom limite. Korešpondujúca koncentrácia v hodnote rozhodujúceho limitu plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti sa rovná detekčnej schopnosti (ß = 5 %), alebo
+            - a) buď postupom kalibračnej krivky podľa slovenskej technickej normy<sup>8</sup>) (tu sa počíta ako najnižšia detekovateľná hodnota čistej stavovej premennej). V tomto prípade sa použije zástupca slepého materiálu, ktorý je fortifikovaný približne povoleným limitom v ekvidistantných krokoch. Analyzovať vzorky a identifikovať analyt(y). Vypočítať smerodajnú odchýlku priemeru nameraného obsahu v rozhodujúcom limite. Korešpondujúca koncentrácia v hodnote rozhodujúceho limitu plus 1,64 krát smerodajná odchýlka vnútrolaboratórnej reprodukovateľnosti sa rovná detekčnej schopnosti (ß = 5 %), alebo
 
             - b) analyzovaním najmenej 20 slepých materiálov na matricu, fortifikovaných analytom(mi) v rozhodujúcom limite. Hodnota rozhodujúceho limitu plus 1,64 krát korešpondujúca smerodajná odchýlka sa rovná detekčnej schopnosti (ß = 5 %).
 

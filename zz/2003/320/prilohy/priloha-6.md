@@ -115,3 +115,13 @@ Príloha č. 6 k nariadeniu vlády č. 320/2003 Z. z.
     - Akademická 3
 
     - 949 01 Nitra
+
+  - 5. Pre rezíduá uvedené v prílohe č. 2 skupine B bode 3 písm. f (rádioaktivita)
+
+    - Národné referenčné laboratórium pre rádiometriu a rádioekológiu
+
+    - Štátny veterinárny a potravinový ústav
+
+    - Akademická 3
+
+    - 949 01 Nitra
