@@ -1,0 +1,1 @@
+- 1) Týmto dňom nadobúda účinnosť aj nový sadzobník dane z obratu č. VI/2-22 700/73. V dôsledku toho neplatí poznámka pod čiarou v čl. 4 vyhl. č. 95/1967 Zb.
