@@ -18,6 +18,8 @@
 
 - 7a) Napríklad § 10 a 11 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z., výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.).
 
+- 7b) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
 - 8) Napr. § 4 ods. 1 písm. a) bod 1 a písm. e) zákona ČNR č. 37/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami, § 4 ods. 1 písm. a) bod 1 a písm. e) zákona SNR č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami, § 6, 18, 30 a § 32 ods. 1 zákon č. 147/1983 Zb.
 
 - 8a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
