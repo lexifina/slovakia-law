@@ -1,0 +1,1 @@
+- 1) § 1 zákona č. 298/1990 Sb., o úpravě některých majetkových vztahů řeholních řádů a kongregací a arcibiskupství olomouckého.
