@@ -1,8 +1,8 @@
 # § 5a Zmena a zrušenie cenného papiera
 
-(1) Zmena cenného papiera je akákoľvek zmena v náležitostiach cenného papiera vykonaná emitentom alebo rozhodnutím ministerstva.
+(1) Zmena cenného papiera je akákoľvek zmena v náležitostiach cenného papiera vykonaná emitentom alebo rozhodnutím úradu.
 
-(2) Zrušenie cenného papiera je zánik cenného papiera na základe rozhodnutia ministerstva, súdu alebo emitenta, ak vydal akcie, ktoré nie sú verejne obchodovateľné.
+(2) Zrušenie cenného papiera je zánik cenného papiera na základe rozhodnutia úradu, súdu alebo emitenta, ak vydal akcie, ktoré nie sú verejne obchodovateľné.
 
 (3) Na postup osoby, ktorá cenný papier mení alebo ruší, platia ustanovenia tohto zákona a osobitných právnych predpisov.<sup>1</sup>),<sup>2</sup>),<sup>3</sup>)
 

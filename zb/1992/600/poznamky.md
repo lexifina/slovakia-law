@@ -2,7 +2,7 @@
 
 - 2) § 176 Obchodného zákonníka.
 
-- 3) § 11 zákona č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch.
+- 3) § 28 zákona č. 385/1999 Z. z. o kolektívnom investovaní.
 
 - 4) Zákon č. 530/1990 Zb. o dlhopisoch.
 
@@ -28,9 +28,11 @@
 
 - 10) Napr. § 22 ods. 1 zákona č. 92/1991 Zb.
 
-- 11) Napr. § 155 Obchodného zákonníka, § 3 zákona č. 530/1990 Zb., § 23 zákona č. 92/1991 Zb., § 11 zákona č. 248/1992 Zb.
+- 11) Napr. § 155 Obchodného zákonníka, § 3 zákona č. 530/1990 Zb., § 23 zákona č. 92/1991 Zb., § 28 zákona č. 385/1999 Z. z.
 
 - 11a) § 3 zákona č. 530/1990 Zb. o dlhopisoch.
+
+- 11b) § 15 ods. 1 písm. b) zákona č. 330/2000 Z. z. o burze cenných papierov.
 
 - 12) § 2 ods. 1 Obchodného zákonníka.
 
@@ -42,17 +44,17 @@
 
 - 15a) § 21 ods. 2 Obchodného zákonníka.
 
-- 16) Napr. § 156 ods. 3 Obchodného zákonníka, § 11 ods. 2 zákona č. 191/1950 Zb., § 7 zákona č. 528/1990 Zb. devízový zákon v znení zákona č. 228/1992 Zb.
+- 16) Napr. § 156 ods. 3 Obchodného zákonníka, § 11 ods. 2 zákona č. 191/1950 Zb., § 13 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 17) § 4 ods. 4 zákona č. 530/1990 Zb.
 
-- § 7 zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb.
+- § 13 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 
-- 18) Napr. § 16 zákona č. 191/1950 Zb., § 7 zákona č. 528/1990 Zb. v znení zákona č. 228/1992 Zb.
+- 18) Napr. § 16 zákona č. 191/1950 Zb., § 13 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 
 - 19) Napr. § 313 zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
 
-- 19a) Napríklad zákon č. 248/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
+- 19a) Napríklad zákon č. 385/1999 Z z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
 - 20) § 577 a nasl. Obchodného zákonníka.
 
@@ -76,7 +78,7 @@
 
 - 27) § 6 ods. 3 písm. b) zákona č. 214/1992 o burze cenných papierov.
 
-- 27a) Zákon č. 214/1992 Zb. o burze cenných papierov.
+- 27a) Zákon č. 330/2000 Z. z. o burze cenných papierov.
 
 - 28) Zákon ČNR č. 576/1990 Zb. o pravidlách hospodárenia s rozpočtovými prostriedkami Českej republiky a obcí v Českej republike (rozpočtové pravidlá republiky) v znení neskorších predpisov.
 
@@ -94,7 +96,7 @@
 
 - 31a) § 2 ods. 1 písm. d) a § 4 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona Národnej rady Slovenskej republiky č. 251/1994 Z. z.
 
-- 32) § 24 zákona č. 214/1992 Zb.
+- 32) § 21 zákona č. 330/2000 Z. z.
 
 - 32a) § 24 ods. 4 zákona č. 92/1991 Zb. v znení neskorších predpisov.
 
@@ -132,6 +134,8 @@
 
 - 36c) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
+- 36d) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+
 - 37) Zákon ČNR č. 552/1991 Zb. o štátnej kontrole.
 
 - Zákon SNR č. 418/1991 Zb. o štátnej kontrole.
@@ -139,8 +143,6 @@
 - 37a) Napr. Obchodný zákonník, Občiansky zákonník, zákon č. 248/l992 Zb.
 
 - 37b) Napr. Trestný zákon, Zákonník práce.
-
-- 37c) § 38 zákona č. 2l/l992 Zb. o bankách v znení neskorších predpisov.
 
 - 38) § 22 ods. 1 zákona č. 92/1991 Zb.
 
@@ -157,3 +159,7 @@
 - 42) Zákon č. 214/1992 Zb. o burze cenných papierov v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
 
 - 43) Zákon č. 513/1991 Zb.
+
+- 44) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 45) § 33 ods. 2 zákona č. 330/2000 Z. z.
