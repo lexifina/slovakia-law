@@ -32,6 +32,16 @@
 
 - Vyhláška Ministerstva školstva Slovenskej socialistickej republiky, Ministerstva zdravotníctva Slovenskej socialistickej republiky a Ministerstva práce a sociálnych vecí Slovenskej socialistickej republiky č. 88/1984 Zb. o poskytovaní štipendií a hmotného zabezpečenia žiakov gymnázií a stredných odborných škôl.
 
+- 13a) § 32 ods. 10 písm. d) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
+
+- 13b) § 43 ods. 7 zákona č. 5/2004 Z. z.
+
+- 13c) § 46 ods. 4 zákona č. 5/2004 Z. z.
+
+- 13d) § 46 ods. 5 zákona č. 5/2004 Z. z.
+
+- 13e) § 51 ods. 4 zákona č. 5/2004 Z. z.
+
 - 14) § 51 a 52 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 15) § 85 a 86 a § 91 a 92 Zákona o rodine.
