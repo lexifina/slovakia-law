@@ -1,1 +1,0 @@
-Ing. Rázl v. r.
