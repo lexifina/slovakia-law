@@ -1,0 +1,1 @@
+- *) Tieto prostriedky budú podliehať odvodom na odborovom riaditeľstve.
