@@ -22,7 +22,7 @@
 
 - 9) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 216/1991 Zb. o cestovných dokladoch a cestovaní do zahraničia, zákon č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
 
-- 10) Zákon č. 123/1992 Zb. o pobyte cudzincov na území Českej a Slovenskej Federatívnej Republiky.
+- 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 10a) § 742 zákona č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 509/1991 Zb.
 
