@@ -46,39 +46,21 @@
 
     - 1. Pre pohraničný prechod sú otvorené tieto trate:
 
-      - a) Horní Dvořiště-Summerau
+      - a) Bratislava Devínska Nová Ves – Marchegg,
 
-      - b) České Velenice-Gmünd
-
-      - c) Šatov-Retz
-
-      - d) Břeclav-Hohenau
-
-      - e) Devínska Nová Ves-Marchegg.
+      - b) Bratislava Petržalka – Kittsee.
 
     - 2. Pre trate uvedené v odseku 1 sú určené tieto výmenné stanice:
 
-      - a) Summerau
+      - a) Marchegg,
 
-      - b) Gmünd
+      - b) Bratislava Petržalka.
 
-      - c) Šatov
+    - 3. V zmysle tejto dohody sú pohraničnými stanicami:
 
-      - d) Břeclav
+      - a) Bratislava Devínska Nová Ves,
 
-      - e) Marchegg.
-
-    - 3. V zmysle tejto Dohody sú pohraničnými stanicami:
-
-      - a) Horní Dvořiště
-
-      - b) České Velenice
-
-      - c) Retz
-
-      - d) Hohenau
-
-      - e) Devínska Nová Ves.
+      - b) Kittsee.
 
     - 4. Železničné správy sa môžu dohodnúť, že jednotlivé vlaky s hnacími vozidlami a personálom druhej železničnej správy môžu jazdiť i za výmennú stanicu. V týchto prípadoch platia obdobne ustanovenia článkov 4 odsek 5, 7, 11-14, 16 a 19, ktorými je upravená prípojová a prechodová služba na pohraničnej prípojovej trati a vo výmennej stanici.
 
@@ -238,9 +220,9 @@
 
     - Dojednania urobené na základe tejto Dohody sú v obidvoch zmluvných štátoch oslobodené od poplatkov.
 
-  - Článok 23 Osobitné dojednania
+  - Článok 23 Osobitné dohody
 
-    - Príslušné miesta zmluvných štátov môžu, pokiaľ to bude potrebné, uzavierať okrem už uvedených predvídaných dojednaní ešte osobitné dojednania na vykonávanie tejto Dohody.
+    - Príslušné orgány zmluvných strán, ako aj železnice môžu, ak je to potrebné, uzatvárať okrem už predvídaných dohôd aj osobitné dohody. Týka sa to aj pravidiel potrebných na otvorenie nového pohraničného priechodu, ako aj pravidiel, ktoré sa musia dodržiavať pri prácach na štátnych hraniciach alebo v ich bezprostrednej blízkosti pri zriadení, prestavbe alebo údržbe pohraničného priechodu.
 
   - Článok 24 Riešenie rozporov
 
