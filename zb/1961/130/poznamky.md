@@ -1,0 +1,1 @@
+- *) Vyhláška číslo 208/1957 Ú. l. (Ú. v.) o hospodárení s obalmi pri obehu tovaru sa na takto zapožičané obaly nevzťahuje.
