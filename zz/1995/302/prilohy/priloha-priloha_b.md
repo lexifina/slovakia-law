@@ -94,7 +94,7 @@ Príloha B
 
   - 0604 91 29 | | | |
 
-  - 1001 | pšenica a súraž | tona | 0 | všetky štáty okrem ČR
+  - 1001 | pšenica a súraž | tona | 150 000 | všetky štáty okrem ČR
 
   - 1002 00 00 | raž | tona | 0 | všetky štáty okrem ČR
 
@@ -104,15 +104,15 @@ Príloha B
 
   - 1004 00 00 | ovos | tona | 0 | všetky štáty okrem ČR
 
-  - 1005 | kukurica | tona | 0 | všetky štáty okrem ČR
+  - 1005 | kukurica | tona | 100 000 | všetky štáty okrem ČR
 
-  - 1107 | slad | tona | 50 000 | všetky štáty okrem ČR
+  - 1107 | slad | tona | 100 000 | všetky štáty okrem ČR
 
-  - 1205 00 | semená repky, semená repky olejnej, | tona | 15000 | všetky štáty okrem ČR
+  - 1205 00 | semená repky, semená repky olejnej, | tona | 80 000 | všetky štáty okrem ČR
 
   - | tiež drvené | | |
 
-  - 1206 00 | slnečnicové semená | tona | 15000 | všetky štáty okrem ČR
+  - 1206 00 | slnečnicové semená | tona | 50 000 | všetky štáty okrem ČR
 
   - 1209 99 10 | semená lesných stromov | tona | 20 | všetky štáty okrem ČR
 
@@ -144,15 +144,15 @@ Príloha B
 
   - | čísla 07 13 | | |
 
-  - 1701 | trstinový alebo repný cukor a chemicky čistá | tona | 30 000 | všetky štáty okrem ČR
+  - 1701 | trstinový alebo repný cukor a chemicky čistá | tona | 60 000 | všetky štáty okrem ČR
 
   - | sacharóza v pevnom stave | | |
 
-  - 1703 | melasa | tona | 20 000 | všetky štáty okrem ČR
+  - 1703 | melasa | tona | 35 000 | všetky štáty okrem ČR
 
   - 1901 20 00 | zmesi a cestá na prípravu pekárskeho tovaru, jemného alebo trvanlivého pečiva čísla 1905 | tona | 0 | všetky štáty okrem ČR
 
-  - 2302 až 2306 a | otruby, pokrutiny a šroty, kŕmne zmesi | tona | 0 | všetky štáty okrem ČR
+  - 2302 až 2306 a | otruby, pokrutiny a šroty, kŕmne zmesi | tona | 90 000 | všetky štáty okrem ČR
 
   - 2309 90 | | | |
 
@@ -310,7 +310,7 @@ Príloha B
 
   - 4406 | drevené železničné a podobné podvaly | m<sup>3</sup> | 5 000 | okrem EÚ, EZVO a ČR
 
-  - | rezivo ihličnaté: | m<sup>3</sup> | 150 000 | okrem EÚ, EZVO a ČR
+  - | rezivo ihličnaté: | m<sup>3</sup> | 500 000 | okrem EÚ, EZVO a ČR
 
   - 4407 10 91 | smrekové | | |
 
@@ -318,7 +318,7 @@ Príloha B
 
   - 4407 10 99 | ostatné | | |
 
-  - | rezivo listnaté, ktorého všetky tri rozmery | m<sup>3</sup> | 50 000 | okrem EÚ, EZVO a ČR
+  - | rezivo listnaté, ktorého všetky tri rozmery | m<sup>3</sup> | 100 000 | okrem EÚ, EZVO a ČR
 
   - | sú väčšie než hrúbka 13 mm, šírka | | |
 
