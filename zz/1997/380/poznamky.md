@@ -60,6 +60,16 @@
 
 - 20) § 172 ods. 1 Trestného poriadku.
 
+- 20a) Napríklad § 140 ods. 2 až 5 zákona č. 311/2001 Z. z. Zákonník práce, § 149 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov, § 1 ods. 5 zákona č. 313/2001 Z. z. o verejnej službe.
+
+- 20b) § 11 ods. 1 písm. b) zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+
+- 20c) § 10 zákona č. 370/1997 Z. z. v znení neskorších predpisov.
+
+- 20d) § 8 ods. 1 zákona č. 370/1997 Z. z. v znení neskorších predpisov.
+
+- 20e) Zákon č. 370/1997 Z. z. v znení neskorších predpisov.
+
 - 21) § 129 ods. 5 a 7 zákona č. 370/1997 Z. z.
 
 - 21a) § 115 Občianskeho zákonníka.
@@ -95,6 +105,10 @@
 - 32) Nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby v znení nariadenia vlády Slovenskej republiky č. 157/1995 Z. z.
 
 - 33a) § 4 zákona č. 1/1992 Zb.
+
+- 33b) § 12 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
+
+- 33c) § 10 zákona č. 320/2002 Z. z. o brannej povinnosti.
 
 - 34) § 7 ods. 1, § 7a, § 7b a § 7d nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 

@@ -1,19 +1,19 @@
 Príloha č. 2 k zákonu č. 380/1997 Z. z.
 
-PLATOVÉ TRIEDY A FUNKČNÉ PLATY PRE FUNKCIE PODDÔSTOJNÍKOV A PRÁPORČÍKOV
+PLATOVÉ TRIEDY A FUNKČNÉ PLATY PRE FUNCIE MUŽSTVA, PODDÔSTOJNÍKOV A PRÁPORČÍKOV
 
-Platová | Funkčný plat
+PLATOVÁ TRIEDA | FUNKČNÝ PLAT V SKMESAČNE
 
-trieda | v Sk mesačne
+1. | 6 400
 
-1. | 4 500
+2. | 6 900
 
-2. | 5 000
+3. | 7 400
 
-3. | 5 500
+4. | 7 900
 
-4. | 6 000
+5. | 8 400
 
-5 | 6 600
+6. | 9 000
 
-6. | 7 200
+7. | 9 600

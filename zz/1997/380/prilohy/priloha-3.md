@@ -1,23 +1,21 @@
 Príloha č. 3 k zákonu č. 380/1997 Z. z.
 
-PLATOVÉ TRIEDY A FUNKČNÉ PLATY PRE FUNKCIE DÔSTOJNÍKOV A GENERÁLOV
+PLATOVÉ TRIEDY A FUNKČNÉ PLATY PRE FUNCIE DÔSTOJNÍKOV A GENERÁLOV
 
-Platová | Funkčný plat
+PLATOVÁ TRIEDA | FUNKČNÝ PLAT V SKMESAČNE
 
-trieda | v Sk mesačne
+1. | 9 000
 
-1. | 6 600
+2. | 9 600
 
-2. | 7 200
+3. | 10 400
 
-3. | 8 000
+4. | 11 200
 
-4. | 8 800
+5. | 12 100
 
-5. | 9 700
+6. | 13 000
 
-6. | 10 600
+7. | 14 000
 
-7. | 11 600
-
-8. | 12 800
+8. | 15 200

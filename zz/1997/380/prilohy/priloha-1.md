@@ -2,247 +2,259 @@ Príloha č. 1 k zákonu č. 380/1997 Z .z
 
 CHARAKTERISTIKA PLATOVÝCH TRIED A PRÍKLADY ČINNOSTÍ
 
-PODDÔSTOJNÍCI A PRÁPORČÍCI
+MUŽSTVO, PODDÔSTOJNÍCI A PRÁPORČÍCI
 
 1. PLATOVÁ TRIEDA
 
 Kvalifikačný predpoklad vzdelania: stredné
 
-Rutinné práce podľa presných postupov a pokynov s bežnou fyzickou a zmyslovou záťažou a s dôsledkami na činnosť jednotlivcov v rámci jedného pracovného kolektívu.
+Jednoduché práce alebo pomocné práce, alebo prípravné práce podľa presných postupov a pokynov s bežnou zmyslovou záťažou, prípadne jednoduché práce so zvýšenou fyzickou námahou, obslužné rutinné opakujúce sa práce so zodpovednosťou za vlastnú prácu, jednoduchú prácu a plne kontrolovateľnú prácu.
 
-1.01. Vytváranie a dopĺňanie dátových a textových súborov databáz riadených užívateľským programom alebo systémom.
+1.01. Samostatná obsluha ručnej zbrane, výzbroje alebo špeciálneho vojenského zariadenia.
 
-1.02. Zaobstarávanie dát na nosné médiá podľa programu počítača vrátane ich kontroly, opráv, triedenia výpisu a podobne.
+1.02. Príprava ručnej zbrane, výzbroje alebo špeciálneho vojenského zariadenia na prevádzku.
 
-1.03. Zabezpečovanie prevádzky, údržby a opráv techniky.
-
-1.04. Zabezpečovanie prevádzkyschopnosti výpočtového miesta brigády (pluku).
+1.03. Základné ošetrovanie ručnej zbrane, výzbroje alebo špeciálneho vojenského zariadenia.
 
 2. PLATOVÁ TRIEDA
 
-Kvalifikačný predpoklad vzdelania: úplné stredné
+Kvalifikačný predpoklad vzdelania: stredné
 
-Samostatné rutinné práce, práce administratívneho charakteru zvládnuteľné v rámci existujúcich štandardov alebo zabezpečovanie bežných agend so zodpovednosťou za výsledky práce ovplyvňujúce činnosť jednotlivcov i pracovných kolektívov v rámci organizácie.
+Rutinné práce podľa presných postupov a pokynov s bežnou fyzickou a zmyslovou záťažou a s dôsledkami na činnosť jednotlivcov v rámci jedného pracovného kolektívu.
 
-2.01. Zabezpečovanie spisovej služby samostatného útvaru.
+2.01. Vytváranie a dopĺňanie dátových a textových súborov databáz riadených užívateľským programom alebo systémom.
 
-2.02. Zabezpečovanie podacej stanice práporu.
+2.02. Zaobstarávanie dát na nosné médiá podľa programu počítača vrátane ich kontroly, opráv, triedenia výpisu a podobne.
 
-2.03. Vyhľadávanie porúch a výkon jednoduchých rutinných opráv techniky.
+2.03. Zabezpečovanie prevádzky, údržby a opráv techniky.
+
+2.04. Zabezpečovanie prevádzkyschopnosti výpočtového miesta brigády (pluku).
 
 3. PLATOVÁ TRIEDA
 
 Kvalifikačný predpoklad vzdelania: úplné stredné
 
-Odborné práce technického a administratívneho charakteru alebo samostatný výkon agend spravidla s novými premenlivými informáciami s väzbami aj mimo súboru vykonávaných činností, ktoré sú spracúvané podľa rámcových postupov, práce spojené s určitou hmotnou zodpovednosťou, prípadne riadenie čiastkových prevádzkových úsekov, práce vyžadujúce spoluprácu aj s inými organizačnými útvarmi v rámci organizácie so zodpovednosťou za výsledky práce, s dôsledkami na iné organizačné útvary v rámci vlastnej organizácie.
+Samostatné rutinné práce, práce administratívneho charakteru zvládnuteľné v rámci existujúcich štandardov alebo zabezpečovanie bežných agend so zodpovednosťou za výsledky práce ovplyvňujúce činnosť jednotlivcov i pracovných kolektívov v rámci organizácie.
 
-3.01. Komplexné zabezpečovanie spisovej služby alebo podateľne v brigáde (pluku).
+3.01. Zabezpečovanie spisovej služby samostatného útvaru.
 
-3.02. Samostatné zabezpečovanie čiastkových činností spojených s personálnou a evidenčnou prácou.
+3.02. Zabezpečovanie podacej stanice práporu.
 
-3.03. Samostatné zabezpečovanie čiastkových úloh v oblasti organizačného, materiálneho alebo technického zabezpečenia brigády (pluku).
-
-3.04. Organizácia prevádzky, ošetrovania a opráv dopravných prostriedkov.
-
-3.05. Zásobovanie skladov tovarom vrátane fyzickej inventarizácie tovarov a obalov, prepočet a sumarizácia hodnoty zásob, odsúhlasovanie s účtovnými dokladmi, vyčíslovanie inventúrnych rozdielov, vyhotovovanie protokolu.
-
-3.06. Spracovanie grafických operačných dokumentov objektov a zariadení na prípravu štátneho územia na obranu.
-
-3.07. Organizačné a materiálne zabezpečenie útvaru vojenskej polície.
-
-3.08. Technické zabezpečenie útvaru zabezpečenia vojenskej polície.
-
-3.09. Zabezpečovanie činnosti klubu brigády (pluku).
-
-3.10. Zabezpečovanie úloh špeciálneho spojenia brigády (pluku).
-
-3.11. Vypracúvanie výkresov a projektových podkladov zložitejších detailov a jednoduchších zostáv.
-
-3.12. Vykonávanie špeciálnych videotechnických prác.
-
-3.13. Samostatné zabezpečovanie čiastkových úloh, objektívnej kontroly leteckej základne a ich vyhodnocovanie.
-
-3.14. Zabezpečovanie činnosti metodického kabinetu leteckej základne.
-
-3.15. Velenie zdrojovni a komplexné zabezpečenie jej činnosti.
-
-3.16. Komplexné velenie vykládkovému a prekládkovému miestu základne logistiky.
-
-3.17. Samostatné zabezpečovanie zbrojárskej činnosti.
-
-3.18. Komplexné zabezpečovanie dispečerskej činnosti základne logistiky.
-
-3.19. Samostatné zabezpečovanie evidenčných činností prevádzkovej roty vojenskej vysokej školy.
-
-3.20. Zabezpečovanie zdravotníckych činností práporu.
-
-3.21. Výkon farmaceutických laboratórnych činností.
-
-3.22. Nastavenie parametrov techniky a výkon odborných činností pri opravách techniky.
+3.03. Vyhľadávanie porúch a výkon jednoduchých rutinných opráv techniky.
 
 4. PLATOVÁ TRIEDA
 
 Kvalifikačný predpoklad vzdelania: úplné stredné
 
-Samostatné čiastkové odborné práce technického, administratívneho, hospodársko-správneho a prevádzkového charakteru, riadenie a organizácia rámcových úsekov, práce spojené s hmotnou zodpovednosťou s požiadavkou voľby správneho postupu z viacerých možných riešení s novými premenlivými informáciami, ktoré sú spracované podľa metodických vnútroorganizačných predpisov s presne stanovenými výstupmi so zodpovednosťou za čiastkové rozhodnutia a výsledky práce, s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie.
+Odborné práce technického a administratívneho charakteru alebo samostatný výkon agend spravidla s novými premenlivými informáciami s väzbami aj mimo súboru vykonávaných činností, ktoré sú spracúvané podľa rámcových postupov, práce spojené s určitou hmotnou zodpovednosťou, prípadne riadenie čiastkových prevádzkových úsekov, práce vyžadujúce spoluprácu aj s inými organizačnými útvarmi v rámci organizácie so zodpovednosťou za výsledky práce, s dôsledkami na iné organizačné útvary v rámci vlastnej organizácie.
 
-4.01. Komplexné riadenie a velenie družstvu, osádke, obsluhe, prevádzke, zmene, opravovni, výdajni.
+4.01. Komplexné zabezpečovanie spisovej služby alebo podateľne v brigáde (pluku).
 
-4.02. Organizovanie a riadenie výcviku v streleckej príprave na jednotlivé systémy riadenia podľa typu trenažéra.
+4.02. Samostatné zabezpečovanie čiastkových činností spojených s personálnou a evidenčnou prácou.
 
-4.03. Organizačné, materiálne a finančné zabezpečenie chodu roty.
+4.03. Samostatné zabezpečovanie čiastkových úloh v oblasti organizačného, materiálneho alebo technického zabezpečenia brigády (pluku).
 
-4.04. Výkon vojenskej poriadkovej, bezpečnostnej a dopravnej polície.
+4.04. Organizácia prevádzky, ošetrovania a opráv dopravných prostriedkov.
 
-4.05. Technické zabezpečenie údržby a opráv bojovej a inej techniky roty, čiastkové plnenie úloh technického zabezpečenia brigády (pluku).
+4.05. Zásobovanie skladov tovarom vrátane fyzickej inventarizácie tovarov a obalov, prepočet a sumarizácia hodnoty zásob, odsúhlasovanie s účtovnými dokladmi, vyčíslovanie inventúrnych rozdielov, vyhotovovanie protokolu.
 
-4.06. Analýza zistených signálov pri plnení úloh prieskumnej činnosti.
+4.06. Spracovanie grafických operačných dokumentov objektov a zariadení na prípravu štátneho územia na obranu.
 
-4.07. Získavanie podkladov na tvorbu máp a plánov, na dopĺňanie informácií databázy geodetických podkladov.
+4.07. Organizačné a materiálne zabezpečenie útvaru vojenskej polície.
 
-4.08. Komplexný výkon činnosti zástupcu veliteľa čaty.
+4.08. Technické zabezpečenie útvaru zabezpečenia vojenskej polície.
 
-4.09. Komplexný výkon činnosti náčelníka oddelenia výkonu disciplinárnych trestov posádky.
+4.09. Zabezpečovanie činnosti klubu brigády (pluku).
 
-4.10. Samostatný výkon čiastkových činností správcu posádky.
+4.10. Zabezpečovanie úloh špeciálneho spojenia brigády (pluku).
 
-4.11. Technické zabezpečenie údržby a opráv špeciálneho stanoviska.
+4.11. Vypracúvanie výkresov a projektových podkladov zložitejších detailov a jednoduchších zostáv.
 
-4.12. Samostatné zabezpečenie činnosti technika-kontrolóra.
+4.12. Vykonávanie špeciálnych videotechnických prác.
 
-4.13. Zabezpečovanie technických a operátorských činností práporu špeciálneho určenia a elektronického prieskumu.
+4.13. Samostatné zabezpečovanie čiastkových úloh, objektívnej kontroly leteckej základne a ich vyhodnocovanie.
 
-4.14. Zabezpečovanie technických činností strediska špeciálnych služieb a služieb ochrany utajovaných skutočností.
+4.14. Zabezpečovanie činnosti metodického kabinetu leteckej základne.
 
-4.15. Výkon špeciálnych technických a servisnotechnických činností výpočtového strediska a výpočtového miesta.
+4.15. Velenie zdrojovni a komplexné zabezpečenie jej činnosti.
 
-4.16. Zabezpečovanie špeciálnych technických činností posádkového klubu armády.
+4.16. Komplexné velenie vykládkovému a prekládkovému miestu základne logistiky.
 
-4.17. Samostatný výkon zbrojárskych a pyrotechnických činností.
+4.17. Samostatné zabezpečovanie zbrojárskej činnosti.
 
-4.18. Výkon špeciálnych operátorsko-výsadkárskych činností.
+4.18. Komplexné zabezpečovanie dispečerskej činnosti základne logistiky.
 
-4.19. Výkon inštruktorských činností vo výcvikovom stredisku.
+4.19. Samostatné zabezpečovanie evidenčných činností prevádzkovej roty vojenskej vysokej školy.
 
-4.20. Výkon operátorských činností pri zabezpečovaní spojenia vrátane rádioďalekopisných činností.
+4.20. Zabezpečovanie zdravotníckych činností práporu.
 
-4.21. Zabezpečovanie biologickej ochrany letiska.
+4.21. Výkon farmaceutických laboratórnych činností.
 
-4.22. Čiastkový výkon technických činností technického oddelenia a technickej letky leteckej základne.
-
-4.23. Výkon čiastkových činností pri riadení letov leteckej základne.
-
-4.24. Výkon revíznotechnických činností metrologického strediska.
-
-4.25. Výkon čiastkových činností technického zabezpečenia skupiny opráv základných prostriedkov.
-
-4.26. Komplexné riadenie a zabezpečovanie činnosti kuchynsko-jedálenského bloku.
-
-4.27. Technické zabezpečenie katedry vojenskej vysokej školy a zabezpečenie výučby vo vojenskej vysokej škole.
-
-4.28. Zabezpečenie činnosti odbornej knižnice vojenskej vysokej školy.
-
-4.29. Výkon čiastkových činností zástupcu vojenskej správy v podniku vyrábajúcom špeciálnu techniku.
-
-4.30. Výkon čiastkových veterinárnych činností.
-
-4.31. Výkon čiastkových kynologických činností.
+4.22. Nastavenie parametrov techniky a výkon odborných činností pri opravách techniky.
 
 5. PLATOVÁ TRIEDA
 
 Kvalifikačný predpoklad vzdelania: úplné stredné
 
-Samostatné ucelené odborné práce, riadenie a organizácia rámcových úsekov, prípadne práce spojené s hmotnou zodpovednosťou, ktoré sú dôležitou súčasťou širších procesov a javov, vyžadujúce spoluprácu pri riešení rôznorodých úloh vnútri celej organizácie s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie.
+Samostatné čiastkové odborné práce technického, administratívneho, hospodársko-správneho a prevádzkového charakteru, riadenie a organizácia rámcových úsekov, práce spojené s hmotnou zodpovednosťou s požiadavkou voľby správneho postupu z viacerých možných riešení s novými premenlivými informáciami, ktoré sú spracované podľa metodických vnútroorganizačných predpisov s presne stanovenými výstupmi so zodpovednosťou za čiastkové rozhodnutia a výsledky práce, s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie.
 
-5.01. Komplexné velenie čate (skupine, zmene, stanici, pracovisku, uzlu).
+5.01. Komplexné riadenie a velenie družstvu, osádke, obsluhe, prevádzke, zmene, opravovni, výdajni.
 
-5.02. Komplexné riadenie a organizovanie prevádzky techniky útvaru, vykonávanie kontrol technického stavu pozemnej techniky pred výjazdom.
+5.02. Organizovanie a riadenie výcviku v streleckej príprave na jednotlivé systémy riadenia podľa typu trenažéra.
 
-5.03. Komplexné zabezpečovanie spisovej služby v ústrednom orgáne štátnej správy, na Generálnom štábe Armády Slovenskej republiky, na veliteľstve pozemných síl alebo na veliteľstve vzdušných síl.
+5.03. Organizačné, materiálne a finančné zabezpečenie chodu roty.
 
-5.04. Samostatná evidencia a distribúcia vojenských predpisov s celorezortnou pôsobnosťou.
+5.04. Výkon vojenskej poriadkovej, bezpečnostnej a dopravnej polície.
 
-5.05. Plnenie odborných technických úloh pri objasňovaní prípadov trestnej činnosti.
+5.05. Technické zabezpečenie údržby a opráv bojovej a inej techniky roty, čiastkové plnenie úloh technického zabezpečenia brigády (pluku).
 
-5.06. Tvorba technologických postupov kalibrácie meradiel, kalibrácia pracovných meradiel výzbroje a techniky.
+5.06. Analýza zistených signálov pri plnení úloh prieskumnej činnosti.
 
-5.07. Zabezpečenie nákupu materiálu a náhradných dielcov pre odbornú činnosť základne.
+5.07. Získavanie podkladov na tvorbu máp a plánov, na dopĺňanie informácií databázy geodetických podkladov.
 
-5.08. Komplexné riadenie činnosti cvičiska brigády (pluku).
+5.08. Komplexný výkon činnosti zástupcu veliteľa čaty.
 
-5.09. Komplexné velenie strelnici.
+5.09. Komplexný výkon činnosti náčelníka oddelenia výkonu disciplinárnych trestov posádky.
 
-5.10. Komplexné velenie obsluhe špeciálnych zariadení (rušiča, diaľkomeru).
+5.10. Samostatný výkon čiastkových činností správcu posádky.
 
-5.11. Výkon inštruktorských činností výsadkového vojska.
+5.11. Technické zabezpečenie údržby a opráv špeciálneho stanoviska.
 
-5.12. Výkon technických činností v stredisku šifrovej služby.
+5.12. Samostatné zabezpečenie činnosti technika-kontrolóra.
 
-5.13. Výkon čiastkových činností stálej dozornej služby v areáli ústredného orgánu.
+5.13. Zabezpečovanie technických a operátorských činností práporu špeciálneho určenia a elektronického prieskumu.
 
-5.14. Tvorivá interpretácia hudobných diel jednoduchších foriem.
+5.14. Zabezpečovanie technických činností strediska špeciálnych služieb a služieb ochrany utajovaných skutočností.
 
-5.15. Zabezpečovanie zdravotníckych činností brigády (pluku).
+5.15. Výkon špeciálnych technických a servisnotechnických činností výpočtového strediska a výpočtového miesta.
 
-5.16. Výkon odborných činností zdravotného, veterinárneho, zubného a psychologického laboranta.
+5.16. Zabezpečovanie špeciálnych technických činností posádkového klubu armády.
 
-5.17. Samostatné odborné práce a operácie pri zabezpečovaní chodu zložitých prevádzkových procesov na sále strediska riadenia letovej prevádzky a na stanovištiach letiskového riadenia letovej prevádzky.
+5.17. Samostatný výkon zbrojárskych a pyrotechnických činností.
 
-5.18. Spracúvanie meteorologických alebo klimatologických údajov vrátane poskytovania operatívnych alebo režimových operácií.
+5.18. Výkon špeciálnych operátorsko-výsadkárskych činností.
 
-5.19. Spracúvanie automatizovaných a neautomatizovaných radarových dát vzdušných objektov.
+5.19. Výkon inštruktorských činností vo výcvikovom stredisku.
 
-5.20. Výkon technických činností a opráv na zariadeniach LETVIS a ASOC z centra riadenia vzdušných operácií.
+5.20. Výkon operátorských činností pri zabezpečovaní spojenia vrátane rádioďalekopisných činností.
 
-5.21. Zabezpečovanie vzdušného priestoru, zber a analýza vzdušných situácií, ich zasielanie užívateľom, spolupráca so susednými štátmi pri využití vzdušného priestoru.
+5.21. Zabezpečovanie biologickej ochrany letiska.
+
+5.22. Čiastkový výkon technických činností technického oddelenia a technickej letky leteckej základne.
+
+5.23. Výkon čiastkových činností pri riadení letov leteckej základne.
+
+5.24. Výkon revíznotechnických činností metrologického strediska.
+
+5.25. Výkon čiastkových činností technického zabezpečenia skupiny opráv základných prostriedkov.
+
+5.26. Komplexné riadenie a zabezpečovanie činnosti kuchynsko-jedálenského bloku.
+
+5.27. Technické zabezpečenie katedry vojenskej vysokej školy a zabezpečenie výučby vo vojenskej vysokej škole.
+
+5.28. Zabezpečenie činnosti odbornej knižnice vojenskej vysokej školy.
+
+5.29. Výkon čiastkových činností zástupcu vojenskej správy v podniku vyrábajúcom špeciálnu techniku.
+
+5.30. Výkon čiastkových veterinárnych činností.
+
+5.31. Výkon čiastkových kynologických činností.
 
 6. PLATOVÁ TRIEDA
 
 Kvalifikačný predpoklad vzdelania: úplné stredné
 
+Samostatné ucelené odborné práce, riadenie a organizácia rámcových úsekov, prípadne práce spojené s hmotnou zodpovednosťou, ktoré sú dôležitou súčasťou širších procesov a javov, vyžadujúce spoluprácu pri riešení rôznorodých úloh vnútri celej organizácie s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie.
+
+6.01. Komplexné velenie čate (skupine, zmene, stanici, pracovisku, uzlu).
+
+6.02. Komplexné riadenie a organizovanie prevádzky techniky útvaru, vykonávanie kontrol technického stavu pozemnej techniky pred výjazdom.
+
+6.03. Komplexné zabezpečovanie spisovej služby v ústrednom orgáne štátnej správy, na Generálnom štábe Armády Slovenskej republiky, na veliteľstve pozemných síl alebo na veliteľstve vzdušných síl.
+
+6.04. Samostatná evidencia a distribúcia vojenských predpisov s celorezortnou pôsobnosťou.
+
+6.05. Plnenie odborných technických úloh pri objasňovaní prípadov trestnej činnosti.
+
+6.06. Tvorba technologických postupov kalibrácie meradiel, kalibrácia pracovných meradiel výzbroje a techniky.
+
+6.07. Zabezpečenie nákupu materiálu a náhradných dielcov pre odbornú činnosť základne.
+
+6.08. Komplexné riadenie činnosti cvičiska brigády (pluku).
+
+6.09. Komplexné velenie strelnici.
+
+6.10. Komplexné velenie obsluhe špeciálnych zariadení (rušiča, diaľkomeru).
+
+6.11. Výkon inštruktorských činností výsadkového vojska.
+
+6.12. Výkon technických činností v stredisku šifrovej služby.
+
+6.13. Výkon čiastkových činností stálej dozornej služby v areáli ústredného orgánu.
+
+6.14. Tvorivá interpretácia hudobných diel jednoduchších foriem.
+
+6.15. Zabezpečovanie zdravotníckych činností brigády (pluku).
+
+6.16. Výkon odborných činností zdravotného, veterinárneho, zubného a psychologického laboranta.
+
+6.17. Samostatné odborné práce a operácie pri zabezpečovaní chodu zložitých prevádzkových procesov na sále strediska riadenia letovej prevádzky a na stanovištiach letiskového riadenia letovej prevádzky.
+
+6.18. Spracúvanie meteorologických alebo klimatologických údajov vrátane poskytovania operatívnych alebo režimových operácií.
+
+6.19. Spracúvanie automatizovaných a neautomatizovaných radarových dát vzdušných objektov.
+
+6.20. Výkon technických činností a opráv na zariadeniach LETVIS a ASOC z centra riadenia vzdušných operácií.
+
+6.21. Zabezpečovanie vzdušného priestoru, zber a analýza vzdušných situácií, ich zasielanie užívateľom, spolupráca so susednými štátmi pri využití vzdušného priestoru.
+
+7. PLATOVÁ TRIEDA
+
+Kvalifikačný predpoklad vzdelania: úplné stredné
+
 Samostatné odborné práce so zvýšenou zmyslovou záťažou. Riadenie, organizácia alebo operatívne zabezpečovanie chodu súboru zložitých zariadení a prevádzkových procesov podľa všeobecných postupov spojené so zodpovednosťou za zdravie a životy širšieho okruhu osôb a práce spojené s hmotnou zodpovednosťou s vplyvom na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie.
 
-6.01. Revízia technického stavu vybraných technických zariadení (zdvíhacích, tlakových, elektrických alebo plynových).
+7.01. Revízia technického stavu vybraných technických zariadení (zdvíhacích, tlakových, elektrických alebo plynových).
 
-6.02. Vykonávanie náročných prác pri obsluhe elektronických zariadení lietajúceho pracoviska vzdušného elektronického prieskumu, zisťovanie a vyhodnocovanie prevádzkových parametrov zdrojov rádiových a rádiotechnických signálov.
+7.02. Vykonávanie náročných prác pri obsluhe elektronických zariadení lietajúceho pracoviska vzdušného elektronického prieskumu, zisťovanie a vyhodnocovanie prevádzkových parametrov zdrojov rádiových a rádiotechnických signálov.
 
-6.03. Špeciálna ozbrojená individuálna ochrana.
+7.03. Špeciálna ozbrojená individuálna ochrana.
 
-6.04. Komplexné zabezpečenie dokumentačného spracovania notového materiálu, vykonávanie kontrol stavu notového materiálu posádkových hudieb, tvorba notových partov na osobných počítačoch.
+7.04. Komplexné zabezpečenie dokumentačného spracovania notového materiálu, vykonávanie kontrol stavu notového materiálu posádkových hudieb, tvorba notových partov na osobných počítačoch.
 
-6.05. Odborná metodická a trénerská činnosť, spracovanie programu telovýchovnej a športovej činnosti, usmerňovanie prípravy športovcov, zabezpečovanie vrcholovej športovej prípravy športovcov mládežníckych kategórií.
+7.05. Odborná metodická a trénerská činnosť, spracovanie programu telovýchovnej a športovej činnosti, usmerňovanie prípravy športovcov, zabezpečovanie vrcholovej športovej prípravy športovcov mládežníckych kategórií.
 
-6.06. Naštudovanie (komplexné zvládnutie) služobného a koncertného repertoáru vojenskej dychovej hudby.
+7.06. Naštudovanie (komplexné zvládnutie) služobného a koncertného repertoáru vojenskej dychovej hudby.
 
-6.07. Odborné špecializované práce pri vyhľadávaní a likvidácii nevybuchnutej alebo nebezpečnej munície, výbušnín a pri plnení ostatných pyrotechnických činností.
+7.07. Odborné špecializované práce pri vyhľadávaní a likvidácii nevybuchnutej alebo nebezpečnej munície, výbušnín a pri plnení ostatných pyrotechnických činností.
 
-6.08. Riadiace práce pri príprave rakiet na bojové použitie.
+7.08. Riadiace práce pri príprave rakiet na bojové použitie.
 
-6.09. Zabezpečovanie špeciálnych technických činností spojovacieho uzla alebo ústrednej vojenskej spojovacej správy.
+7.09. Zabezpečovanie špeciálnych technických činností spojovacieho uzla alebo ústrednej vojenskej spojovacej správy.
 
-6.10. Riadenie činnosti výcvikového strediska vrcholového športu.
+7.10. Riadenie činnosti výcvikového strediska vrcholového športu.
 
-6.11. Technické zabezpečenie činnosti vojenských posádkových hudieb vrátane zabezpečovania údržby a opráv hudobných nástrojov.
+7.11. Technické zabezpečenie činnosti vojenských posádkových hudieb vrátane zabezpečovania údržby a opráv hudobných nástrojov.
 
-6.12. Komplexné zabezpečovanie požiarnej služby leteckej základne.
+7.12. Komplexné zabezpečovanie požiarnej služby leteckej základne.
 
-6.13. Komplexné riadenie vojenskej správy budov s malým rozsahom obhospodarovaného majetku.
+7.13. Komplexné riadenie vojenskej správy budov s malým rozsahom obhospodarovaného majetku.
 
-6.14. Špeciálne technické činnosti pri previerke kvality dodávok špeciálnej techniky od civilných výrobcov.
+7.14. Špeciálne technické činnosti pri previerke kvality dodávok špeciálnej techniky od civilných výrobcov.
 
-6.15. Príprava pacienta na ambulantné ošetrovanie a vyšetrovanie, asistencia lekárovi pri ambulantnom vyšetrení na poliklinike.
+7.15. Príprava pacienta na ambulantné ošetrovanie a vyšetrovanie, asistencia lekárovi pri ambulantnom vyšetrení na poliklinike.
 
-6.16. Samostatný výkon odborných úkonov pri ošetrovaní zvierat.
+7.16. Samostatný výkon odborných úkonov pri ošetrovaní zvierat.
 
-6.17. Vykonávanie laboratórnych činností pri kontrole kvality liečiv a zdravotníckych prostriedkov.
+7.17. Vykonávanie laboratórnych činností pri kontrole kvality liečiv a zdravotníckych prostriedkov.
 
-6.18. Samostatný výkon špecializovaných prác v zubnom laboratóriu.
+7.18. Samostatný výkon špecializovaných prác v zubnom laboratóriu.
 
-6.19. Revízia technického stavu špeciálnych technických zariadení šifrovej služby.
+7.19. Revízia technického stavu špeciálnych technických zariadení šifrovej služby.
 
-6.20. Kontrola a vyhodnocovanie radarových dát o pohybe vzdušných objektov nad územím Slovenskej republiky a nad územím susedných štátov.
+7.20. Kontrola a vyhodnocovanie radarových dát o pohybe vzdušných objektov nad územím Slovenskej republiky a nad územím susedných štátov.
 
-6.21. Výkon špeciálnych činností pobočníka veliteľa pozemných síl alebo veliteľa vzdušných síl.
+7.21. Výkon špeciálnych činností pobočníka veliteľa pozemných síl alebo veliteľa vzdušných síl.
 
 DÔSTOJNÍCI A GENERÁLI
 
@@ -506,7 +518,7 @@ Kvalifikačný predpoklad vzdelania: vysokoškolské
 
 Výkon zložitých špecializovaných systémových a náročných tvorivých prác s rozsiahlymi väzbami medzi rôznymi odbormi činnosti vykonávaných podľa individuálne stanovených postupov vopred neurčeným spôsobom, koordinácia určených častí zložitých systémov vyžadujúca špeciálne konzultácie a osobitné podklady; systémové alebo metodické práce so samostatným výberom postupov a spôsobov riešení vykonávané vopred bližšie nešpecifikovaným spôsobom.
 
-5.01. Komplexné velenie brigáde alebo pluku.
+5.01. Komplexné velenie pluku alebo útvaru rýchleho nasadenia.
 
 5.02. Komplexné velenie vojenskému výcvikovému priestoru.
 
@@ -588,8 +600,6 @@ Vysokošpecializované odborné práce alebo zložité analytické činnosti, kt
 
 6.02. Komplexné velenie a riadenie správy zabezpečenia ministerstva.
 
-6.03. Komplexné velenie práporu rýchleho nasadenia.
-
 6.04. Komplexné velenie ústrednej vojenskej spojovacej správe, spojovaciemu prevádzkovému stredisku.
 
 6.05. Komplexné velenie útvaru vojenskej polície.
@@ -604,7 +614,7 @@ Vysokošpecializované odborné práce alebo zložité analytické činnosti, kt
 
 6.10. Komplexné riadenie a zabezpečenie rozhodujúcich oblastí činnosti topografického ústavu.
 
-6.11. Samostatné plnenie najzložitejších odborných úloh vojenskej zložky Kancelárie prezidenta Slovenskej republiky.
+6.11. Samostatné plnenie najzložitejších odborných úloh Vojenskej kancelárie prezidenta Slovenskej republiky.
 
 6.12. Komplexné riadenie úseku analýzy a tvorby projektov pri riešení informačných systémov, tvorba a úprava vysokonáročného aplikačného programového vybavenia vrátane odladenia programov.
 
@@ -660,7 +670,7 @@ Vysokošpecializované odborné práce alebo zložité analytické činnosti, kt
 
 6.38. Komplexné velenie a riadenie centra riadenia vzdušných operácií.
 
-6.39. Výkon najnáročnejších odborných prác spočívajúcich v rozborovej činnosti vrátane metodickej a kontrolnej činnosti podriadených prokuratúr, vykonávaných z úrovne vyššej vojenskej prokuratúry.
+6.39. Výkon najnáročnejších odborných prác spočívajúcich v rozborovej činnosti vrátane metodickej a kontrolnej činnosti podriadených prokuratúr a súdov vykonávaných z úrovne vyššej vojenskej prokuratúry a vyššieho vojenského súdu.
 
 7. PLATOVÁ TRIEDA
 
@@ -688,7 +698,7 @@ Tvorivé riešenie úloh výskumu a vývoja principiálne novým, originálnym s
 
 7.10. Normotvorná činnosť v jednotlivých oblastiach systému velenia a riadenia hlavných druhov vojsk na Generálnom štábe Armády Slovenskej republiky, na veliteľstve pozemných síl alebo na veliteľstve vzdušných síl.
 
-7.11. Koncepčná, normotvorná a koordinačná činnosť v ústrednom orgáne štátnej správy alebo na vojenskej súčasti Generálnej prokuratúry Slovenskej republiky.
+7.11. Koncepčná, normotvorná a koordinačná činnosť v ústrednom orgáne štátnej správy alebo na vojenskej súčasti Generálnej prokuratúry Slovenskej republiky, alebo na vyššom vojenskom súde.
 
 7.12. Koncepčná, koordinačná a kontrolná činnosť v rámci rozsahu a pôsobnosti ústredného orgánu štátnej správy vrátane vedenia kontrolnej akcie alebo kontrolnej skupiny.
 
@@ -724,7 +734,9 @@ Tvorivé riešenie úloh výskumu a vývoja principiálne novým, originálnym s
 
 7.28. Výkon najnáročnejších, vysokošpecializovaných odborných prác v odbore veterinárnej hygieny potravín, epizootológie, mikrobiológie, parazitológie a veterinárnej ekológie so zameraním na tvorbu a ochranu životného prostredia po získaní II. špecializácie.
 
-7.29. Tvorivé riešenie najzložitejších odborných úloh vojenskej zložky Kancelárie prezidenta Slovenskej republiky.
+7.29. Tvorivé riešenie najzložitejších odborných úloh Vojenskej kancelárie prezidenta Slovenskej republiky.
+
+7.30. Komplexné velenie brigáde alebo leteckej základni.
 
 8. PLATOVÁ TRIEDA
 
@@ -738,7 +750,7 @@ Tvorivé a vedecké práce pri spracúvaní úplne nových nekompletných inform
 
 8.03. Komplexné velenie pozemným silám alebo vzdušným silám alebo velenie a riadenie rozhodujúcich oblastí na veliteľstve pozemných síl alebo na veliteľstve vzdušných síl vrátane riešenia súčinnosti medzi podriadenými útvarmi.
 
-8.04. Komplexné riadenie a zabezpečenie činnosti vojenskej zložky Kancelárie prezidenta Slovenskej republiky a komplexné riešenie vecí súvisiacich s výkonom funkcie prezidenta Slovenskej republiky ako hlavného veliteľa ozbrojených síl.
+8.04. Komplexné riadenie a zabezpečenie činnosti Vojenskej kancelárie prezidenta Slovenskej republiky a komplexné riešenie vecí súvisiacich s výkonom funkcie prezidenta Slovenskej republiky ako hlavného veliteľa ozbrojených síl.
 
 8.05. Pilotovanie nadzvukového lietadla, zodpovednosť za kvalitné a bezpečné splnenie úloh letu od začiatku predletovej prípravy až do skončenia letu.
 

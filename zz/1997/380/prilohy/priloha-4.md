@@ -2,38 +2,42 @@ Príloha č. 4 k zákonu č. 380/1997 Z. z.
 
 HODNOSTNÝ PRÍPLATOK
 
-Hodnosť | | Sk mesačne
+HODNOSŤ | SK MESAČNE
 
-slobodník | &nbsp | 800
+vojak | 2 600
 
-desiatnik | &nbsp | 1 000
+slobodník | 2 900
 
-čatár | &nbsp | 1 200
+desiatnik | 3 100
 
-rotný | &nbsp | 1 400
+čatár | 3 300
 
-rotmajster | &nbsp | 1 600
+rotný | 3 500
 
-nadrotmajster | &nbsp | 1 800
+rotmajster | 3 800
 
-podpráporčík | podporučík | 2 000
+nadrotmajster | 4 100
 
-práporčík | poručík | 2 200
+štábny nadrotmajster | 4 300
 
-nadpráporčík | nadporučík | 2 400
+podpráporčík | 4 700
 
-kapitán | &nbsp | 2 600
+práporčík, poručík | 5 000
 
-major | &nbsp | 2 800
+nadpráporčík, nadporučík | 5 300
 
-podplukovník | &nbsp | 3 000
+kapitán | 5 600
 
-plukovník | &nbsp | 3 200
+major | 5 800
 
-generálmajor | &nbsp | 3 400
+podplukovník | 6 000
 
-generálporučík | &nbsp | 3 600
+plukovník | 6 200
 
-generálplukovník | &nbsp | 3 800
+brigádny generál | 6 400
 
-armádny generál | &nbsp | 4 000
+generálmajor | 6 600
+
+generálporučík | 6 800
+
+generál | 7 000
