@@ -1,0 +1,19 @@
+Příloha nařízení vlády ČSR č. 59/1984 Sb., kterým se zřizuje čestné uznání Za rozvoj národních výborů
+
+- Popis výtvarného řešení čestných uznání Za rozvoj národních výborů
+
+  - 1. Čestné uznání Za rozvoj národních výborů I. stupně
+
+    - Medaile předávaná s čestným uznáním je oboustranná o průměru 33 mm a je ražena z tombaku. Na líci je ve středu státní znak na poli z lipových lístků ve tvaru pětilistého květu, mezi jehož listy hvězdicovitě vyrůstají lipové květy. Na okraji medaile je nápis v mezikruží od spodního středu po směru hodinových ručiček „Za rozvoj národních výborů“ psaný versálkami vytenčovaného hůlkového písma. Medaile je závěsným kroužkem spojena se stuhou tkanou v délce 58 mm a v šířce 38 mm s kónickým složením k závěsnému kroužku. Členění podélných barevných polí stuhy má ve středu trikolóru v barvách státní vlajky v pořadí barev zleva bílá, červená, modrá v pruzích stejné šířky 3 mm. Trikolóra je na karmínově rudém poli zleva i zprava v šířce 10 mm. Oba kraje stuhy lemuje pruh rumělkově červený v šířce 4 mm. Na rubu je figura pracující ženy od pasu vzhůru, stojící mezi dvěma lipovými stromky, symbolizujícími národní republiky a jejich růst. Pažemi a trikolórou obepíná stromky do pevnějšího celku, symbolizujícího federativní uspořádání státu. Postava ženy zepředu je v letním pracovním oděvu, s holými pažemi a prostovlasou hlavou natočenou doprava v heraldickém směru hlavy lva ve státním znaku.
+
+    - Nosí-li se pouze stužka medaile, je napjata na pravoúhlé liště v rozměru 38x12 mm v barvách a členění barevných polí shodně se stuhou.
+
+  - 2. Čestné uznání Za rozvoj národních výborů II. stupně
+
+    - Medaile předávaná s čestným uznáním je oboustranná, ražena z tombaku, ve tvaru do kružnice o průměru 35 mm vepsaného pravidelného pětiúhelníku. Na líci je reliéf státního znaku, doplněný z levé a pravé strany řadou lipových lístků se stonky, směřujícími špičkami listů k okraji pole. Medaile je závěsným kroužkem spojena se stuhou tkanou v délce 58 mm a šířce 38 mm s kónickým složením k závěsnému kroužku. Stuha je v barvách trikolóry státní vlajky a rudé barvy v následujícím pořadí; vnější okraj stuhy tvoří pruh barvy modré široký 2 mm, ke středu následují z obou stran pruhy bílé široké 2 mm, středové pole je barvy červené z obou strany 12 mm široké, na tomto poli dominuje pruh rudý široký 6 mm. Na rubu je středový medailón tříčlenné rodiny tvořící střed pětilistého květu, složeného z pěti lipových listů bez stonků, na nichž jsou reliéfy symbolů společenské činnosti z oblasti výrobní (ozubené kolo, hornická kladiva a váhy s klasem), sociální (termální pramen a strom), vědecké a umělecké (atomové jádro a lyra) a ideologické (kniha a pěticípá hvězda). Po obvodě rámuje pětilistý květ nápis „Za rozvoj národních výborů“ psaný versálkami vytenčovaného hůlkového písma.
+
+    - Nosí-li se pouze stužka medaile, je napjata na pravoúhlé liště o rozměru 38x12 mm v barvách a členění barevných polí shodně se stuhou.
+
+  - 3. Čestné uznání Za rozvoj národních výborů III. stupně
+
+    - Medaile předávaná s čestným uznáním je oboustranná o průměru 70 mm a je ražena z tombaku. Na líci je státní znak ve středu pole tvaru pětilistého květu z drobných lipových lístků, v jehož mezerách jsou reliéfy symbolů společenské základny (hornická kladiva, ozubené kolo a klad) a nadstavby (kniha a lyra). Na rubu je po obvodu nápis „Za rozvoj národních výborů“ psaný versálkami vytenčovaného hůlkového písma. Ve středu medailového pole je pětilístek z lipových listů, jehož stonky tvoří pěticípou hvězdu. Plochu medaile tvoří siluety panelových domů, z jejichž bočních stěn vyrůstají lipové květy, korespondující s centrální lipovou hvězdicí. Pod touto hvězdicí je zobrazena rodina tvořená mužem, dítětem a ženou. Toto ztvárnění symbolizuje úlohu národních výborů v péči o občany. Medaile není závěsná a je uložena v krabičce.
