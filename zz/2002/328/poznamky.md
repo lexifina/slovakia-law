@@ -4,6 +4,22 @@
 
 - 3) § 10 zákona č. 320/2002 Z. z. o brannej povinnosti.
 
+- 3a) § 84 ods. 1 písm. a) až m) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.§ 79 ods. 1 písm. a) až l) zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- 3b) § 3 ods. 2 písm. a) až e) a i) až t) zákona č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení neskorších predpisov.
+
+- 3c) § 65 ods. 1 písm. a), b), e) zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.§ 1 ods. 2 písm. a), § 8 a 18 zákona č. 380/1997 Z. z. v znení neskorších predpisov.
+
+- 3d) § 93 ods. 1 písm. a), písm. b) bod 1., 3. až 7., písm. c) bod 1. až 3., 7. a 8. zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.§ 1 ods. 2 písm. b), § 8 a 18 zákona č. 380/1997 Z. z. v znení neskorších predpisov.
+
+- 3e) § 78 ods. 1 písm. a) až e), i) až l) zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 1 ods. 2 písm. a) a b), § 8 a 18 zákona č. 380/1997 Z. z. v znení neskorších predpisov.
+
+- 3f) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 3g) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+
 - 4) § 22 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
 - 5) § 81 ods. 1 písm. d) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
@@ -60,13 +76,17 @@
 
 - 28) § 93 ods. 1 písm. a) až c) zákona č. 154/2001 Z. z.
 
-- 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+- 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 29a) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+- 29a) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
-- 30) Vyhláška ministerstiev zdravotníctva a spravodlivosti, Štátneho úradu sociálneho zabezpečenia a Ústrednej rady odborov č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení neskorších predpisov.
+- 29b) § 43 ods. 2 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- 31) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+- § 40 ods. 3 zákona č. 200/1998 Z. z.
+
+- 30) Zákon č. 437/2004 Z. z. o náhrade za bolesť a o náhrade za sťaženie spoločenského uplatnenia a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- 31d) § 32 ods. 2 písm. d) zákona č. 370/1997 Z. z. v znení neskorších predpisov.
 
 - 32) Napríklad zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov, zákon č. 370/1997 Z. z. v znení neskorších predpisov.
 
@@ -82,6 +102,8 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
+- 36a) Napríklad zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
+
 - 37) Napríklad § 41 až 43 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z., zákon č. 283/2002 Z. z. o cestovných náhradách.
 
 - 38) § 136 zákona č. 311/2001 Z. z. Zákonník práce.
@@ -94,6 +116,8 @@
 
 - 39a) § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 534/2002 Z. z.
 
+- 39b) § 84 ods. 1 zákona č. 73/1998 Z. z.
+
 - 40) § 76 zákona č. 380/1997 Z. z.
 
 - 41) Zákon č. 420/1991 Zb. v znení neskorších predpisov.
@@ -105,6 +129,8 @@
 - Zákon č. 385/2000 Z. z.
 
 - Zákon č. 154/2001 Z. z.
+
+- 41a) § 119 zákona č. 370/1997 Z. z.
 
 - 42) Napríklad § 28 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z., § 94 ods. 1 písm. a) a b) zákona č. 312/2001 Z. z.
 
@@ -128,13 +154,17 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
-- 50) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
+- 50) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
 - 51) § 45 a 46 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 52) § 278 a 279 zákona č. 99/1963 Zb. Občiansky súdny poriadok.
 
 - § 69 až 73 zákona č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 235/1998 Z. z.
+
+- § 29b ods. 3 zákona č. 59/1965 Zb. v znení neskorších predpisov.
+
+- § 12b ods. 3 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. v znení zákona č. 451/2002 Z. z.
 
 - 53) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
