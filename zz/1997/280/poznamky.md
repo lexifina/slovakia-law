@@ -42,6 +42,10 @@
 
 - 22) § 10 až 25 a § 55 a 56 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
 
+- 22a) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 22b) § 71c a 71d zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
+
 - 23) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
 - 24) Napríklad zákon č. 141/1961 Zb. o trestnom konaní súdnom (trestný poriadok) v znení neskorších predpisov.
