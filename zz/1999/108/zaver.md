@@ -1,0 +1,1 @@
+Ladislav Pitner v. r.
