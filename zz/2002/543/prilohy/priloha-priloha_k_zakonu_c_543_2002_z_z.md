@@ -1,1 +1,1 @@
-Príloha k zákonu č. 543/2002 Z. z. [Vzor preukazu a odznaku](../assets/877b4a93106966aca2b0ed385bbd35b896c3e950b06ddd7baa8b8bfb18649049.pdf)
+Príloha k zákonu č. 543/2002 Z. z. [Vzor preukazu a odznaku](../assets/93a01d43bda9c7ababc65e2076c86d49bc06d6238fabdedfd44d51eb26e45853.pdf)
