@@ -1,0 +1,1 @@
+- *) Ustanovenie § 3 ods. 2 vyhlášky Ústrednej správy nákupu poľnohospodárskych výrobkov č. 47/1963 Zb. o nákupe poľnohospodárskych prebytkov od drobných užívateľov poľnohospodárskej pôdy a o predaji prebytkov poľnohospodárskych výrobkov.
