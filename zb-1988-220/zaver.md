@@ -1,0 +1,3 @@
+Minister:
+
+Válek v. r.
