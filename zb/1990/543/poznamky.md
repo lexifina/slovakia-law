@@ -1,4 +1,4 @@
-- 1) Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
+- 1) Zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
 - 2) § 142 až 145 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb. a zákona č. 180/1990 Zb.
 
@@ -38,9 +38,9 @@
 
 - 10) § 5 zákona č. 100/1988 Zb. v znení neskorších predpisov.
 
-- 11) § 142 ods. 6 a 7 zákona č. 100/1988 Zb. v znení neskorších predpisov.
+- 11) Napríklad zákon Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
 
-- 12) Zákon č. 50/1973 Zb. o pestúnskej starostlivosti v znení zákona č. 58/1984 Zb.
+- 12) Napríklad zákon č. 50/1973 Zb. o pestúnskej starostlivosti v znení neskorších predpisov.
 
 - 13) § 73a zákona č. 100/1988 Zb. v znení neskorších predpisov.
 
@@ -106,17 +106,17 @@
 
 - § 74 zákona č. 100/1988 Zb. v znení neskorších predpisov.
 
-- 31) Zákon č. 50/1973 Zb. v znení neskorších predpisov.
+- 31) § 10 ods. 4 písm. a) bod 4 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z.
 
-- 32) § 79 ods. 2 a § 83 ods. 2 Zákona o rodine.
+- 32) § 9 ods. 1 písm. d) a ods. 6 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z.
 
-- 33) § 45 ods. 3 Zákona o rodine.
+- 33) § 79 ods. 2 a § 83 ods. 2 Zákona o rodine.
 
-- 34) § 44 Zákona o rodine.
+- 34) § 45 ods. 3 Zákona o rodine.
 
-- 35) § 291 až 301 Trestného poriadku.
+- 35) § 44 Zákona o rodine.
 
-- 36) § 86 ods. 1 zákona č. 100/1988 Zb. v znení neskorších predpisov.
+- 36) § 291 až 301 Trestného poriadku.
 
 - 37) § 90 zákona č. 100/1988 Zb. v znení neskorších predpisov.
 
@@ -126,7 +126,9 @@
 
 - 38) Zákon č. 117/1966 Zb. o niektorých dôsledkoch zanedbávania starostlivosti o deti v znení zákona č. 99/1972 Zb.
 
-- 39) § 7 ods. 2 písm. f) zákona Slovenskej národnej rady č. 472/1990 Zb.
+- 38a) § 14 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z.
+
+- 39) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 39a) § 3 ods. 3 písm. i) zákona Slovenskej národnej rady č. 518/1990 Zb. o prechode zakladateľskej alebo zriaďovateľskej funkcie národných výborov na obce, ústredné orgány štátnej správy a orgány miestnej štátnej správy.
 
