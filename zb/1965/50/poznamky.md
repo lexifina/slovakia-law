@@ -1,0 +1,1 @@
+- *) Vyhláška Ministerstva financií č. 100/1964 Zb. o náhradách cestovných, sťahovacích a iných výdavkov. Náhrady pri zahrančných cestách sú upravené smernicami Ministerstva financií zo 14. marca 1960 č. 204/11 000/60 a dodatkami z 10. novembra 1960 č. 204/59 990/60, z 27. decembra 1960 č. 204/74 828/60 a zo 7. júla 1962 č. 204/36 200/62.
