@@ -1,0 +1,3 @@
+# Čl. II
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Slovenskej národnej rady č. 544/1990 Zb. o miestnych poplatkoch, ako vyplýva zo zmien a doplnení vykonaných zákonom Slovenskej národnej rady č. 72/1992 Zb., zákonom Slovenskej národnej rady č. 317/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 44/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 122/1996 Z. z., zákonom č. 219/1999 Z. z., zákonom č. 339/2000 Z. z., zákonom č. 58/2001 Z. z., zákonom č. 223/2001 Z. z., zákonom č. 560/2001 Z. z. a týmto zákonom.
