@@ -2,7 +2,11 @@
 
 - Vyhláška Ministerstva školstva SSR a Ministerstva práce a sociálnych vecí SSR č. 4/1987 Zb. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, stredných odborných učilíšť pre mládež vyžadujúcu osobitnú starostlivosť a osobitných odborných učilíšť.
 
+- 1) Zákon Českej národnej rady č. 368/1990 Zb. o voľbách do zastupiteľstiev v obciach.
+
 - 2) § 4 ods. 3 vyhlášky ÚRO č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení v znení vyhlášky č. 113/1975 Zb.
+
+- 2) Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
 
 - 3) § 15 ods. 1 vyhlášky č. 3/1987 Zb.
 
@@ -53,3 +57,19 @@
 - 25) § 137 ods. 8 vyhlášky č. 128/1975 Zb. v znení vyhlášky č. 164/1979 Zb.
 
 - 33) Zákon č. 73/1990 Zb. o civilnej službe.
+
+- 34) § 27 zákona Českej národnej rady č. 367/1990 Zb. o obciach (obecné zriadenie).
+
+- 35) § 11 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
+
+- 36) § 13 zákona Slovenskej národnej rady č. 369/1990 Zb.
+
+- 37) § 32 ods. 1 zákona Českej národnej rady č. 367/1990 Zb.
+
+- § 25 ods. 7 zákona Slovenskej národnej rady č. 369/1990 Zb.
+
+- 38) § 1 a 7 zákona č. 304/1990 Zb. o plate a náhradách výdavkov poslancov Federálneho zhromaždenia.
+
+- § 1 a 8 zákona Českej národnej rady č. 371/1990 Zb. o plate a náhradách výdavkov poslancov Českej národnej rady.
+
+- § 1 a 7 zákona Slovenskej národnej rady č. 365/1990 Zb. o plate a náhradách výdavkov poslancov Slovenskej národnej rady.
