@@ -2504,11 +2504,11 @@
 
     - PRAVIDLO 86 VESTNÍK
 
-      - 86.1 Obsah
+      - 86.1 Obsah a forma
 
-      - Vestník uvedený v článku 55 (4) obsahuje:
+        - (a) Vestník uvedený v článku 55(4) obsahuje:
 
-        - (i) pre každú zverejnenú medzinárodnú prihlášku údaje určené Administratívnymi smernicami prevzaté z titulnej strany brožúry podľa pravidla 48, prípadne výkres z uvedenej titulnej strany a anotáciu;
+        - (i) pre každú zverejnenú medzinárodnú prihlášku údaje stanovené Administratívnou smernicou prevzaté z titulnej strany brožúry podľa pravidla 48, prípadne výkres z tejto prvej strany a anotáciu;
 
         - (ii) sadzobník všetkých poplatkov, ktoré sa platia prijímacím úradom, Medzinárodnému úradu, orgánom pre medzinárodnú rešerš a orgánom pre medzinárodný predbežný prieskum;
 
@@ -2518,11 +2518,19 @@
 
         - (v) všetky iné užitočné informácie predpísané Administratívnymi smernicami, pokiaľ k nim nie je prístup Zmluvou alebo Vykonávacím predpisom zakázaný.
 
-      - 86.2 Jazyky
+        - (b) Údaje uvedené v odseku (a) budú k dispozícii v dvoch formách:
 
-        - (a) Vestník vychádza v anglickom a francúzskom vydaní. Bude sa vydávať aj v iných jazykoch, ak náklady s tým spojené budú zabezpečené predajom alebo subvenciou.
+          - (i) ako Vestník v papierovej forme, ktorý bude obsahovať údaje uvedené v Administratívnej smernici prevzatej z titulnej strany brožúry zverejnenej podľa pravidla 48 („bibliografické údaje“) a skutočnosti uvedené v odsekoch (a)(ii) až (v);
+
+          - (ii) ako Vestník v elektronickej forme, ktorý bude obsahovať bibliografické údaje, prípadne výkres zobrazený na uvedenej titulnej strane a anotáciu.
+
+      - 86.2 Jazyky; prístup k Vestníku
+
+        - (a) Vestník v papierovej forme bude vychádzať v dvojjazyčnom (anglickom a francúzskom) vydaní. Bude sa vydávať aj v iných jazykoch, ak sa náklady s tým spojené zabezpečia predajom alebo subvenciami.
 
         - (b) Zhromaždenie môže rozhodnuť, že sa Vestník bude vydávať v iných jazykov než v tých, ktoré sú uvedené v odseku (a).
+
+        - (c) Vestník v elektronickej forme uvedený v pravidle 86.1(b)(ii) bude prístupný súčasne v angličtine a vo francúzštine v elektronickej forme a prostriedkami uvedenými v Administratívnej smernici. Preklad zabezpečí Medzinárodný úrad v angličtine a vo francúzštine. Medzinárodný úrad zabezpečí, aby bol Vestník v elektronickej forme prístupný čo najskôr po dátume zverejnenia brožúry obsahujúcej medzinárodné prihlášky.
 
       - 86.3. Vydávacie obdobie
 
