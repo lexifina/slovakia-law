@@ -1,0 +1,1 @@
+- *) Poznámka: Po menovej reforme je pokuta uvedená v § 12 ods. 2 písm. c) 600 Kčs, v ods. 3 písm. b) 2.000 Kčs
