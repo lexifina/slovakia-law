@@ -4,10 +4,6 @@
 
 - § 10 ods. 3 a § 20 ods. 1 zákona č. 468/1991 Zb.
 
-- 3) § 1 písm. c) zákona č. 136/1991 Zb.
-
-- 4) § 2 písm. b) zákona č. 136/1991 Zb.
-
 - 5) § 20 zákona č. 468/1991 Zb.
 
 - 6) Zákon SNR č. 255/1991 Zb.
