@@ -1,0 +1,1 @@
+- *) Pozri vyhlášku ministra zahraničného obchodu č. 149/1965 Zb.
