@@ -1,0 +1,33 @@
+Príloha č. 2 vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z.
+
+[Príloha 02](../assets/2731ea327a66ca13eb6b918eae8b5a5400c8d547b3f9c50de90aaa48a43b2049.pdf)
+
+1. Dátum - uvedie sa dátum vykonania uzávierky.
+
+2. Číslo zmeny - uvedie sa číslo pracovnej zmeny, ktorá vykonala uzávierku.
+
+3. Číslo uzávierky - uvedie sa poradové číslo uzávierky.
+
+4. Kumulatívny obrat hrubý (GT1) - uvedie sa kumulovaný súčet hrubého obratu, ktorý predstavuje kumulovaný súčet absolútnych hodnôt tržieb nablokovaných v pokladnici.
+
+5. Kumulatívny obrat čistý (GT2) - uvedie sa kumulovaný súčet čistého obratu, ktorý predstavuje rozdiel medzi hrubým obratom a záporným obratom.
+
+6. Kumulatívny obrat záporný (GT3) - uvedie sa kumulovaný súčet záporného obratu, ktorý predstavuje kumulovaný súčet storno položiek, zliav a záporných položiek.
+
+7. Denný obrat v sadzbe 6 % DPH - uvedie sa denný obrat uskutočnený v sadzbe dane z pridanej hodnoty 6 %.
+
+8. Denný obrat v sadzbe 25 % DPH - uvedie sa denný obrat uskutočnený v sadzbe dane z pridanej hodnoty 25 %.
+
+9. Denná DPH v sadzbe 6 % - uvedie sa daň z pridanej hodnoty v sadzbe 6 % spolu.
+
+10. Denná DPH v sadzbe 25 % - uvedie sa daň z pridanej hodnoty v sadzbe 25 % spolu.
+
+11. Storno - uvedie sa výdavok z pokladnice za vrátený tovar.
+
+Zľavy - uvedú sa množstvové zľavy.
+
+Záporné položky - uvedie sa výber z pokladnice v hotovosti.
+
+12. Mesačný obrat - uvedie sa súčet obratov v jednotlivých sadzbách dane z pridanej hodnoty za deň.
+
+13. Podpis pokladníka - podpis pokladníka, ktorý vykonal uzávierku.
