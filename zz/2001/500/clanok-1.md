@@ -126,7 +126,11 @@ Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., 
 
 - 16. § 21 sa dopĺňa odsekmi 5 až 8, ktoré znejú:
 
-- „(6)
+- „(5)
+
+- Ustanovenie odseku 4 sa nevzťahuje na fyzické osoby s bydliskom v niektorom z členských štátov Európskej únie alebo v členskom štáte Organizácie pre hospodársku spoluprácu a rozvoj, ktoré podnikajú na území Slovenskej republiky.
+
+- (6)
 
 - Na obchodných dokumentoch týkajúcich sa podniku zahraničnej osoby alebo jeho organizačnej zložky je zahraničná osoba povinná okrem údajov podľa § 3a uvádzať aj údaj o zápise podniku alebo organizačnej zložky podniku do obchodného registra.
 
