@@ -1,3 +1,0 @@
-# Článok 32
-
-Ak hnuteľný majetok, ktorý zostal po smrti občana jednej zmluvnej strany zomretom na území druhej zmluvnej strany, je nepatrnej hodnoty a žiadna z osôb oprávnených na dedičstvo nemá bydlisko na území druhej zmluvnej strany ani neustanovila na tomto území svojho zástupcu, vydá sa tento majetok bez dedičského konania diplomatickému zastupiteľstvu alebo konzulárnemu úradu zmluvnej strany, ktorej občanom bol zomrelý. Pred odovzdaním majetku dedičom uspokojí alebo zabezpečí diplomatické zastupiteľstvo alebo konzulárny úrad v rozsahu tohto majetku pohľadávky veriteľov poručiteľa prihlásené v lehote jedného mesiaca odo dňa, keď tento majetok dostal.
