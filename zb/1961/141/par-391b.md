@@ -1,3 +1,3 @@
 # § 391b
 
-Ministerstvo financií Slovenskej republiky sa splnomocňuje, aby po dohode s generálnou prokuratúrou, ministerstvom spravodlivosti a ministerstvom obrany upravilo všeobecne záväzným právnym predpisom postup príslušných orgánov pri zabezpečovaní a správe zaisteného majetku.
+Ministerstvo spravodlivosti Slovenskej republiky sa splnomocňuje, aby po dohode s Generálnou prokuratúrou Slovenskej republiky a s Ministerstvom financií Slovenskej republiky upravilo všeobecne záväzným právnym predpisom postup príslušných orgánov pri zabezpečovaní a správe zaisteného majetku.

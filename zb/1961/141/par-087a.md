@@ -1,0 +1,3 @@
+# § 87a Zámena obsahu zásielok
+
+V záujme zistenia osôb, ktoré majú účasť na nakladaní so zásielkou obsahujúcou omamné látky, psychotropné látky, jedy, jadrové alebo iné podobné rádioaktívne materiály, falšované peniaze a falšované cenné papiere, strelné alebo hromadne účinné zbrane, strelivo a výbušniny, prokurátor alebo s jeho súhlasom vyšetrovateľ môže nariadiť, aby bol obsah takej zásielky vydanej podľa § 86 ods. 1 alebo 2 zamenený za iný, a takto upravená zásielka bola daná na ďalšiu prepravu. Zámenu vykoná policajný orgán, ktorý o tom spíše záznam, a zabezpečí úschovu zamenených vecí alebo materiálov.
