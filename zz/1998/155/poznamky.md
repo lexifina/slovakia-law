@@ -1,0 +1,1 @@
+- 1) § 9 zákona Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení zákona Národnej rady Slovenskej republiky č. 278/1996 Z. z.
