@@ -1,0 +1,3 @@
+Ministr:
+
+Klusák v. r.
