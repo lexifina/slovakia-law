@@ -1,9 +1,0 @@
-# § 265 znie:
-
-„(1)
-
-Pred rozhodnutím o osvojení vyslúchne súd - podľa možnosti osobne - osvojiteľa a jeho manžela, ak je potrebný jeho súhlas, rodičov osvojovaného dieťaťa, opatrovníka, ktorý mu bol ustanovený v konaní o osvojení, prípadne jeho poručníka, ďalej orgán poverený starostlivosťou o mládež a osvojované dieťa, ak je schopné posúdiť dosah osvojenia. Súd rodičov nevyslúchne, ak sú pozbavení rodičovskej moci alebo sú celkom pozbavení svojprávnosti, ako i vtedy, ak nie je potrebné ich privolenie pre osvojenie, hoci sú zákonnými zástupcami dieťaťa.
-
-(2)
-
-Osoby, ktoré podľa odseku 1 netreba vyslúchnuť, nie sú účastníkmi konania o osvojení.“.
