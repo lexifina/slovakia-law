@@ -1,0 +1,1 @@
+Příl.1 k vyhlášce č. 477/1992 Sb. [Příloha 01](../assets/d09883245446380f01210686e9b6bc90874417a5500e6de8e1ea89b8189e8913.pdf)
