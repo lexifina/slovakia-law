@@ -1,0 +1,1 @@
+- 1) Lichtenštajnské kniežatstvo má colnú úniu so Švajčiarskom a je zmluvnou stranou Dohody o Európskom hospodárskom priestore.
