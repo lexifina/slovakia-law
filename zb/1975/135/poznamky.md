@@ -7,3 +7,5 @@
 - 4) Inou činnosťou je napr. činnosť členov orgánov ľudovej kontroly, poslancov národných výborov, pokiaľ sú uvoľnení na výkon poslaneckej funkcie, advokátov.
 
 - 5) Povinnosť organizácií viesť záznamy a podávať hlásenia na účely sociálneho zabezpečenia a povinnosť nahradiť neprávom vyplatené dávky ustanovujú § 111 až 113 zákona a § 151 až 159 vyhlášky č. 128/1975 Zb.
+
+- 6) Ide o činnosť v odvetviach národného hospodárstva vymedzených vyhláškou č. 113/1972 Zb. o zavedení a využívaní jednotnej klasifikácie odvetví národného hospodárstva, vydanou na základe zákona č. 21/1971 Zb. o jednotnej sústave sociálno-ekonomických informácií. Pojmy „robotnícke povolania" a „prevádzkoví alebo obsluhujúci pracovníci" vymedzil Federálny štatistický úrad podľa vyhlášky č. 129/1971 Zb. o zavedení a využívaní jednotnej klasifikácie zamestnaní a jednotnej klasifikácie študijných a učebných odborov.
