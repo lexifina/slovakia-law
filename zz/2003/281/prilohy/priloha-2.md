@@ -468,7 +468,7 @@ Príloha č. 2 k nariadeniu vlády č. 281/2003 Z. z.
 
     - ab) za ktorou nasleduje úradné číslo prevádzkarne,
 
-    - ac) v dolnej časti skupiny skratiek: uvedené v právnom akte Európskych spoločenstiev uvedenom v prílohe č. 1 bode 1,
+    - ac) v dolnej časti skratka „EHS",
 
     - b) alebo oválna značka najmenej 6,5 cm široká a 4,5 cm vysoká s týmito informáciami uvedenými zreteľne čitateľnými znakmi:
 
@@ -476,7 +476,7 @@ Príloha č. 2 k nariadeniu vlády č. 281/2003 Z. z.
 
     - bb) v strede veterinárne schvaľovacie číslo prevádzkarne,
 
-    - bc) v dolnej časti skupiny skratiek: uvedené v právnom akte Európskych spoločenstiev uvedenom v prílohe č. 1 bode 1.
+    - bc) v dolnej časti skratka „EHS“.
 
   - Písmená musia byť najmenej 0,8 cm vysoké a číslice najmenej 1 cm vysoké. Rozmery a znaky tejto značky môžu byť zmenšené pri zdravotnom označovaní jahniat, kozliatok a prasiatok. Zdravotná značka môže okrem toho obsahovať indikáciu úradného veterinárneho lekára, ktorý vykonal zdravotnú prehliadku mäsa.
 
@@ -509,6 +509,26 @@ Príloha č. 2 k nariadeniu vlády č. 281/2003 Z. z.
   - 8.2. Ak je mäso prebaľované v inej prevádzkarni, ako je tá, v ktorej sa prvýkrát balilo do priameho obalu, na priamom obale musí byť zdravotná značka rozrábkarne, kde bolo prvýkrát balené do priameho obalu, a na druhom obale musí byť zdravotná značka prebaľovacieho strediska.
 
   - 9. Na zdravotné označovanie sa musia používať farby, ktoré spĺňajú požiadavky zdravotnej neškodnosti; ide o tieto farbivá: E 155 Hnedá HT, E 133 Brilantná modrá FCF alebo E 129 Allura červená AC, alebo vhodná zmes farbív E 133 Brilantná modrá FCF a E 129 Allura červená AC.<sup>9</sup>)
+
+  - 10. Mäso požívateľné pre ľudí určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní s nízkou kapacitou povolených podľa § 4 a zo zvierat podľa § 6 ods. 4 až 6 sa označuje okrem prípadu rozrobeného mäsa, ktoré nie je zabalené do druhého obalu uvedeného v § 4 ods. 7, rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch okrem zdravotnej značky uvedenej v bode 2. Toto mäso sa musí označiť národnou značkou kruhového tvaru s priemerom 3,5 cm s týmito údajmi:
+
+    - a) v hornej časti skratkou názvu okresu,<sup>10</sup>)
+
+    - b) v strednej časti veterinárnym kontrolným číslom prevádzkarne s nízkou kapacitou,
+
+    - c) v dolnej časti skratkou N,
+
+    - d) písmená musia byť najmenej 0,8 cm vysoké a číslice najmenej 1 cm vysoké.
+
+  - 11. Mäso požívateľné pre ľudí určené výlučne na domáci trh v Slovenskej republike a pochádzajúce z prevádzkarní podľa § 4 ods. 12, ktorým bola uznaná požiadavka na výnimky v prechodnom období najdlhšie do 31. decembra 2006, sa označuje rovnakým spôsobom, ako je uvedené v predchádzajúcich bodoch okrem zdravotnej značky uvedenej v bodoch 2 a 10 a bode 8.2, ktorý sa na túto prevádzkareň nevzťahuje. Toto mäso sa musí označiť národnou značkou štvorcového tvaru s hranou 3,5 centimetra s týmito informáciami:
+
+    - a) v hornej časti skratkou názvu okresu,<sup>10</sup>)
+
+    - b) v strednej časti úradným číslom prevádzkarne s prechodnými opatreniami,
+
+    - c) v dolnej časti skratkou N,
+
+    - d) písmená musia byť najmenej 0,8 cm vysoké a číslice najmenej 1 cm vysoké.
 
 - ČASŤ L BALENIE ČERSTVÉHO MÄSA DO PRIAMEHO OBALU A DO DRUHÉHO OBALU
 

@@ -32,7 +32,7 @@
 
 - 17) § 151 až 153 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.) v znení výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 13. februára 2003 č. 414/2003-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca cudzorodé látky v potravinách (oznámenie č. 101/2003 Z. z.).
 
-- 18) Nariadenie vlády Slovenskej republiky č. 320/2003 Z. z. o monitorovaní určitých látok a ich rezíduí v živých zvieratách a v produktoch živočíšneho pôvodu.
+- 18) Nariadenie vlády Slovenskej republiky č. 320/2003 Z. z. o monitorovaní určitých látok a ich rezíduí v živých zvieratách a v produktoch živočíšneho pôvodu znení nariadenia vlády Slovenskej republiky č. 483/2003 Z. z.Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 13. februára 2003 č. 414/2003-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca cudzorodé látky v potravinách (oznámenie č. 101/2003 Z. z.).
 
 - 19) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.) v znení výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky zo 16. decembra 1997 č. 557/1998-100, ktorým sa dopĺňa výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 284/1998 Z. z.).
 
@@ -43,6 +43,8 @@
 - 22) § 6 ods. 3 zákona č. 488/2002 Z. z.
 
 - 23) Nariadenie vlády Slovenskej republiky č. 279/2003 Z. z., ktorým sa ustanovujú zdravotné predpisy týkajúce sa živočíšnych vedľajších produktov, ktoré nie sú určené na ľudskú spotrebu.
+
+- 23a) Príloha č. 8 nariadenia vlády Slovenskej republiky č. 320/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 483/2003 Z. z.
 
 - 24) § 37 ods.11 zákona č. 488/2002 Z. z.
 
