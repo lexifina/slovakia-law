@@ -6,6 +6,4 @@
 
 - 4) Čl. 13 ods. 1 písm. c) Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
 
-- 5) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
-
-- 6) § 68 ods. 1 až 3 a § 69 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky.
+- 5) § 68 ods. 1 až 3 a § 69 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky.
