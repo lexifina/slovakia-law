@@ -22,6 +22,8 @@
 
 - 12) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
 
+- 12a) § 31 ods. 5 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 445/2001 Z. z.
+
 - 13) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
 - 14) Zákon č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
