@@ -109,3 +109,9 @@
   - 2. Podľa článku 34 ods. 2 dohovoru Estónska republika oznamuje, že žiadosti podľa odseku 1 tohto článku sa orgánom Estónskej republiky smú zasielať len prostredníctvom jej ústredného orgánu.
 
   - Podľa článku 60 ods. 1 dohovoru Estónska republika uplatňuje výhradu k článku 54, že každá písomnosť zasielaná ústrednému orgánu Estónskej republiky má byť v pôvodnom jazyku s pripojeným prekladom do anglického jazyka.
+
+  - Austrália
+
+  - a) Dohovor pre Austráliu nadobudol platnosť 1. augusta 2003.
+
+  - b) Austrália neurobila pri podpise ani pri uložení ratifikačnej listiny vyhlásenia ani neuplatnila výhrady.
