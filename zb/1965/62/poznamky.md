@@ -1,1 +1,0 @@
-- *) Vyhláška č. 7/1955 Ú. l. (Ú. v.) o poľovníckych zbraniach, vyhláška č. 124/1961 Zb. o strelných zbraniach a strelive a vyhláška č. 52/1962 Zb. o skúšaní a overovaní zbraní a streliva pre civilnú potrebu.
