@@ -48,11 +48,7 @@ II. Účasť pracujúcich pri uplatňovaní ústretového plánovania
 
 - Za tým účelom organizácie, orgány stredného článku riadenia a ústredné orgány špecifikujú cesty, ktorými sa má navrhované sprogresívnenie dosiahnuť.
 
-- 11. Ústretové plánovanie sa organizuje
-
-  - a) v prvých dvoch rokoch päťročnice ako sprogresívnenie ročného vykonávacieho štátneho plánu v ročných plánoch organizácií a orgánoch stredného článku riadenia do termínu ich potvrdenia nadriadeným stupňom riadenia (spravidla február plánovaného roka),
-
-  - b) v ďalších rokoch päťročnice ako sprogresívnenie päťročného štátneho plánu na príslušný rok (prípadne ako sprogresívnenie smerníc k ročnému vykonávaciemu štátnemu plánu) v návrhoch ročných plánov organizácií a orgánov stredného článku riadenia (spravidla september predchádzajúceho roka).<sup>4</sup>)
+- 11. Ústretové plánovanie sa organizuje ako sprogresívnenie vykonávacieho štátneho plánu na príslušný rok v ročných hospodárskych plánoch organizácií a orgánov stredného článku riadenia do termínu ich potvrdenia nadriadeným stupňom riadenia (spravidla december predchádzajúceho roka).
 
 - 12. Za sprogresívnenie plánu upravených vlastných výkonov alebo iného ukazovateľa tvoriaceho základ usmerňovania vývoja mzdových prostriedkov sa organizácie stimulujú tým, že sa im priznáva nárok na mzdové prostriedky v plnej výške podľa určeného normatívu. Za zvýšenie plánu prijatého po termíne určenom v bode 11 týchto zásad alebo za jeho prekročenie sa im priznáva nárok podľa skráteného normatívu. Normatív vyjadrujúci vzťah prírastku upravených vlastných výkonov sa v realizácii nekráti. Pre etapu ústretového plánu sa môže určiť zvyhodnený normatív.
 
