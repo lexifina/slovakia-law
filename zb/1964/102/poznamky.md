@@ -32,7 +32,7 @@
 
 - **) Za estrádnych umelcov sa nepovažujú ľudoví hudobníci a členovia súborov ľudovej tvorivosti.
 
-- *) § 319 Občianskeho súdneho poriadku.
+- *) Paragraf 319 Občianskeho súdneho poriadku.
 
 - *) Zákon č. 54/1956 Zb. o nemocenskom poistení v znení zákonov č. 16/1959 Zb. a č. 87/1968 Zb., zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, dávkach v materstve a o prídavkoch na deti z nemocenského poistenia a vyhlášky č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení a č. 95/1968 Zb. o poskytovaní prídavkov na deti v nemocenskom poistení.
 
@@ -59,3 +59,5 @@
 - **) Vládna vyhláška č. 107/1964 Zb. o zaraďovaní zamestnaní do I. a II. pracovnej kategórie pre účely sociálneho zabezpečenia.
 
 - *) Vyhláška č. 74/1961 Zb. o prenájme a používaní cestných vozidiel pre motorovú dopravu.
+
+- *) Paragraf 20 až 24 vyhlášky č. 101/1966 Zb.
