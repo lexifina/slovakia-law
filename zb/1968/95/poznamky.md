@@ -1,10 +1,12 @@
-- 1) Tretia časť Zákonníka práce č. 65/1965 Zb.
+- 1) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
 
-- 2) § 142 ods. 2 Zákonníka práce a vyhláška č. 132/1967 Zb. o odmeňovaní a hmotnom zabezpečení mladistvých nastupujúcich po skončení povinnej školskej dochádzky priamo do pracovného pomeru.
+- Zákon č. 39/1980 Zb. o vysokých školách.
 
-- 3) Vyhláška č. 87/1967 Zb. o finančnom a hmotnom zabezpečení učňov v internátnych učňovských školách pre mládež vyžadujúcu osobitnú starostlivosť a v učňovských školách navštevovaných učňami z ústavov sociálnej starostlivosti pre telesne chybnú mládež.
+- 2) § 142 ods. 2 Zákonníka práce.
 
-- 4) Školský zákon č. 186/1960 Zb. a zákon č. 19/1966 Zb. o vysokých školách.
+- 3) § 130 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 128/1975 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
+
+- 4) § 14 zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia.
 
 - 5) § 232 Zákonníka práce.
 
