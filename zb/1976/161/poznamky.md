@@ -1,4 +1,4 @@
-- 1) §63 zákona č. 41/1964 Zb. o hospodárení s bytmi.
+- 1) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 195/1989 Zb. o zabezpečení pracovníkov pri organizačných zmenách a občanov pred nástupom do zamestnania v znení zákona č. 162/1990 Zb. a vyhlášky č. 312/1990 Zb.
 
 - 2) Pozri najmä §187-206 Zákonníka práce, §421 Občianskeho zákonníka.
 
