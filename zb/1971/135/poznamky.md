@@ -1,1 +1,0 @@
-- *) Toto ustanovení se netýká útvarů národních výborů zřizovaných podle zvláštních předpisů, jako např. aparátu výborů lidové kontroly, útvarů civilní obrany.
