@@ -1,12 +1,12 @@
 - 1) Napr. § 20 vyhlášky č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
 
-- 2) § 9 ods. 2 zákona ČNR č. 39/1969 Zb., § 9 ods. 2 zákona SNR č. 206/1968 Zb.
+- 2) Zákon č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve.
 
-- 3) Vládna vyhláška č. 150/1958 Ú. l. (Ú. v.) o vybavovaní sťažností, oznámení a podnetov pracujúcich.
+- 1) Zákon č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve.
+
+- 3) § 3 zákona č. 42/1980 Zb. o hospodárskych stykoch so zahraničím.
 
 - 4) § 3 vyhlášky č. 90/1975 Zb.
-
-- 5) § 33 vyhlášky č. 100/1975 Zb. o pravidlách cestnej premávky.
 
 - 6) § 12 zákona č. 26/1964 Zb. o vnútrozemskej plavbe v znení zákona č. 126/1974 Zb. a vykonávacích predpisov (vyhláška č. 137/1974 Zb. o vnútrozemskej plavbe v znení vyhlášky č. 94/1976 Zb.).
 
