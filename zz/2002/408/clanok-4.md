@@ -8,6 +8,10 @@ Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský z�
 
 - 3. V § 6 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
+- „(2)
+
+- Nultým ročníkom základnej školy je forma výchovy a vzdelávania detí ako integrálna súčasť základnej školy. Vyučovanie v nultom ročníku sa môže organizovať s celodenným výchovným pôsobením s akceleračnými programami a cvičeniami na rozvoj poznávacích a mimopoznávacích funkcií s čiastočným plnením učebných osnov prvého ročníka základnej školy. Nultý ročník je určený pre deti, ktoré k 1. septembru dosiahli fyzický vek šesť rokov, nedosahujú školskú zrelosť, pochádzajú zo sociálne znevýhodneného prostredia a vzhľadom na sociálne a jazykové prostredie nie je u nich predpoklad zvládnutia učiva 1. ročníka základnej školy za jeden školský rok.“.
+
 - Doterajší odsek 2 sa označuje ako odsek 3.
 
 - 4. V § 28 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
