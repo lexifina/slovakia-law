@@ -82,10 +82,6 @@ Príloha E zákona SNR č. 472/1990 Zb. pol. | úsek štátnej správy | Na úse
 
 66. | | vládne nariadenie č. 15/1953 Zb. | 1 ods. 1 | overovanie odpisov (fotokópii) listín a podpisov na listinách, pokiaľ nejde o listiny, ktoré majú byť použité v cudzine
 
-67. | | zák. č. 75/1957 Zb. | 4 ods. 4 | vykonávanie zápisov do občianskeho preukazu
-
-| | vyhl. č. 119/1984 Zb. v znení vyhl. č. 178/1988 Zb. | 12 ods. 1 písm. b) |
-
 68. | | vyhl. č. 37/1961 Zb. | 8 ods. 1 | prijímanie spoločného vyhlásenia rodičov o dohode voľby štátneho občianstva pre dieťa
 
 | | vyhl. č. 71/1966 Zb. | 9 ods. 2 |
