@@ -68,6 +68,8 @@
 
 - 34) Napríklad Občiansky zákonník, zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
+- 35a) § 51 ods. 2 a § 51 ods. 3 písm. a) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+
 - 36) Zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
 - 37) Zákon č. 505/1990 Zb. o metrológii v znení neskorších predpisov.
