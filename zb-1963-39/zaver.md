@@ -1,0 +1,3 @@
+Predseda:
+
+Vlasák v. r.
