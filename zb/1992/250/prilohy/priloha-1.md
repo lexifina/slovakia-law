@@ -6,7 +6,7 @@ Príloha č. 1 nariadenia vlády SR č. 250/1992 Zb.
 
     - Kvalifikačný predpoklad vzdelania: úplné stredné
 
-    - Základné činnosti pri vykonávaní hasiacich prác, záchrane osôb a majetku pod vedením a s použitím základných technických prostriedkov, starostlivosť o zverené technické prostriedky, výzbroj a výstroj, sústavná odborná a fyzická príprava.
+    - Základné činnosti pri vykonávaní hasiacich prác, záchrane osôb a majetku pod vedením a s použitím základných technických prostriedkov, dýchacej techniky, starostlivosť o zverené technické prostriedky, výzbroj a výstroj, sústavná odborná a fyzická príprava.
 
     - Samostatný výkon bežných technických, prevádzkových, ekonomických a správnych činností na príslušnom organizačnom úseku správy Zboru požiarnej ochrany alebo zariadenia.
 
