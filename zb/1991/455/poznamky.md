@@ -68,6 +68,8 @@
 
 - Nariadenie ministra dopravy č. 75/1953 Zb., ktorým sa vykonávajú niektoré ustanovenia zákona o námornej plavbe.
 
+- Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov.
+
 - 19) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
 
 - Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.

@@ -70,8 +70,6 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Taxislužba | | územný, časový, miestny a vecný rozsah oprávnenia | okresný úrad | § 22 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990Zb.
 
-- Vnútrozemská plavba | preukaz spôsobilosti žiadateľa na zamýšľanú činnosť | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, spojov a verejných prác SR | zák. č. 26/1964 Zb. o vnútrozemskej plavbe
-
 - Letecké práce a iné podnikanie v civilnom letectve | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie podľa § 21 ods. 1, povolenie podľa § 23 ods. 1 a 2, § 44 ods. 2 a § 45 ods. 3 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov | územný, časový, miestny a vecný rozsah oprávnenia | Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky, Letecký úrad Slovenskej republiky | Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov
 
 - Zasielateľstvo | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | okresný úrad | § 41 až 45 zák. č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zák. č. 118/1990 Zb.
@@ -84,7 +82,7 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Zriaďovanie a prevádzkovanie jednotky požiarnej ochrany | osvedčenie | opakované skúšky každých 5 rokov | Ministerstvo vnútra SR | § 72 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zák. SNR č. 525/1990 Zb., § 66 vyhl. č. 446/1991 Zb., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane
 
-- Kominárstvo | osvedčenie o odbornej spôsobilosti vydané Komorou kominárov Slovenska* | územný rozsah oprávnenia | Komora kominárov Slovenska | § 4 ods. 4 písm. b) zákona č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov * § 11 ods. 2 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov§ 34 až 39 vyhlášky Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane v oblasti prevencie
+- Kominárstvo | osvedčenie o odbornej spôsobilosti vydané Komorou kominárov Slovenska* | územný rozsah oprávnenia | Komora kominárov Slovenska | § 4 ods. 4 písm. b) zákona č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov *§ 11 ods. 2 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov§ 34 až 39 vyhlášky Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane v oblasti prevencie
 
 - Poskytovanie technických služieb na ochranu majetku a osôb | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | spoľahlivosť a bezúhonnosť všetkých zamestnancov | Ministerstvo vnútra Slovenskej republiky | zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách)
 
