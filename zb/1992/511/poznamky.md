@@ -12,6 +12,8 @@
 
 - Nariadenie vlády ČSFR č. 419/1990 Zb. o základných skutočnostiach tvoriacich predmet štátneho tajomstva.
 
+- 5a) § 21 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
+
 - 6) § 26 až 29 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplné znenie č. 47/1992 Zb.).
 
 - 6a) § 23 ods. 7 zákona č. 286/1992 Zb. v znení neskorších predpisov.
@@ -24,15 +26,23 @@
 
 - 6e) § 15 zákona Slovenskej národnej rady č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
+- 6f) § 610 a nasl. Obchodného zákonníka.§ 765 a nasl. Občianskeho zákonníka.
+
 - 6g) Napr. § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení zákona Národnej rady Slovenskej republiky č. 182/1994 Z. z.
 
 - 7) Napr. § 18 zákona SNR č. 317/1992 Zb. o dani z nehnuteľností.
+
+- 7a) Zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.§ 20a zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 74/1995 Z. z.
 
 - 8) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov (úplné znenie č. 501/1992 Zb.).
 
 - 8a) Napr. § 25 ods. 2 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
 - 8b) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 8c) § 20 ods. 2 zákona č. 286/1992 Zb. v znení neskorších predpisov.
+
+- 8d) § 36 ods. 2 písm. a) bod 3 zákona č. 286/1992 Zb. v znení neskorších predpisov.
 
 - 8e) § 13 zákona č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
@@ -44,6 +54,8 @@
 
 - 10c) § 1 zákona č. 21/1992 Zb. o bankách.
 
+- 10d) Napr. § 22 zákona Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov.
+
 - 11) § 38 ods. 3 písm. c) zákona č. 21/1992 Zb. o bankách.
 
 - 11a) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou.
@@ -52,11 +64,17 @@
 
 - 11c) § 3 vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou.
 
+- 11d) Napr. zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
 - 12) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
+
+- 12a) Napr. zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov.
 
 - 13) Napr. § 32a) zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona SNR č. 498/1991 Zb.
 
 - 13a) § 7 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.
+
+- 13b) § 151a až 151m Občianskeho zákonníka.
 
 - 13c) Napr. § 262 zákona č. 618/1992 Zb. Colný zákon.
 
