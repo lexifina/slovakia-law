@@ -1,4 +1,4 @@
-- 1) § 119 ods. 2 Občianskeho zákonníka.
+- 1) § 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
 
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
@@ -12,11 +12,13 @@
 
 - 5c) § 15 ods. 1 a 2 zákona Slovenskej národnej rady č. 330/1991 Zb.
 
-- 5d) Príloha č. 3 písm. C bod 4 vyhlášky Slovenského úradu geodézie, kartografie a katastra č. 594/1992 Zb., ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+- 5d) Príloha č. 1 oddiel C 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 72/1997 Z. z.
 
 - 5e) Zákon č. 169/1949 Zb. o vojenských obvodoch.
 
-- 5f) § 6 zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení zákona Slovenskej národnej rady č. 194/1992 Zb.
+- 5ea) Zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+
+- 5f) § 100 písm. c) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 6) Zákon SNR č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
 
@@ -38,9 +40,11 @@
 
 - 12) § 15 ods. 6 až 11 (príloha č. 8 a príloha č. 9) vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a enáhradách za doasné užívanie pozemkov.
 
-- 13) § 40 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu.
+- 12b) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 14) § 20b Občianskeho zákonníka.
+- 12c) § 5 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.§ 5 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
+- 13) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
 
 - 15) § 116 Občianskeho zákonníka.
 
@@ -50,7 +54,9 @@
 
 - Zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení zákona č. 456/1990 Zb. a zákona č. 137/1991 Zb. Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení zákona č. 267/1992 Zb.
 
-- 18) Zákon SNR č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky.
+- 17a) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
+
+- 12a) § 7 zákona Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
 
 - 19) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 243/1993 Z. z. o sociálnej odkázanosti.
 
@@ -59,6 +65,8 @@
 - 20a) § 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 20b) Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
+
+- 20c) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 21) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona Národnej rady Slovenskej republiky č. 165/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z.
 
