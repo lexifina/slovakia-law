@@ -2,9 +2,9 @@
 
 - 2) Zákon č. 85/1990 Zb. o petičnom práve.
 
-- 2a) § 15 písm. f) zákona Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
+- 2a) Čl. 93 Ústavy Slovenskej republiky.
 
-- 2b) Čl. 93 Ústavy Slovenskej republiky.
+- 2b) § 1 ods. 4 zákona č. 85/1990 Zb. o petičnom práve.
 
 - 2c) § 1 ods. 4 zákona č. 85/1990 Zb. o petičnom práve.
 
