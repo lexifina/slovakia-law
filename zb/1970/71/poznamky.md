@@ -1,0 +1,1 @@
+- *) § 18 ods. 5, § 28 ods. 4, § 31 ods. 3 druhá veta a § 122a zákona o sociálnom zabezpečení a § 47 ods. 4, § 48 ods. 3, § 58 ods. 4, § 59 ods. 5, § 66 ods. 3 druhá veta a § 137a zákona o sociálnom zabezpečení družstevných roľníkov v doterajšom znení.
