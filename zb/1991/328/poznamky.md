@@ -24,4 +24,14 @@
 
 - 6) § 80 písm. c) a § 268 Občianskeho súdneho poriadku.
 
+- 6a) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení neskorších predpisov.
+
+- 6b) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- 6c) Napr. zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov,
+
+- zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov (úplné znenie č. 271/1993 Z. z.),
+
+- zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
+
 - 7) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení zákonov č. 458/1990 Zb. a č. 137/1991 Zb., zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
