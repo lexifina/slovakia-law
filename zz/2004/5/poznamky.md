@@ -44,11 +44,7 @@
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 23) § 43 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
-
-- § 2 písm. e) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
-
-- 24) § 58 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+- 22a) § 23 ods. 6 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25) § 2 zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
