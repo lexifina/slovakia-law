@@ -1,0 +1,1 @@
+Príloha vyhlášky Ministerstva obrany Slovenskej republiky č. 177/1996 Z. z. [Vzor - Preukaz o oprávnení na vstup na cudzie nehnuteľnosti](../assets/768e22a88c62aad4c3192afc4978c234e953de0eba7ecac745d2f32128cf6efe.pdf)
