@@ -1,0 +1,1 @@
+- 34a) § 27 ods. 2 zákona č. 328/1991 Zb. o konkurze a vyrovnaní.
