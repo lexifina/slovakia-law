@@ -1,0 +1,1 @@
+- 1) Přibráním znalce se rozumí i vyžádání posudku od státního orgánu nebo státního ústavu podle § 110 trestního řádu, nikoliv však jeho odborného vyjádření podle § 105 odstavce 1 druhé věty trestního řádu.
