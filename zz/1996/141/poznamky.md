@@ -1,0 +1,9 @@
+- 1) § 47c ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 264/1992 Zb., ústavného zákona č. 541/1992 Zb., zákona č. 544/1992 Zb., zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 172/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 244/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 369/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 190/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 56/1996 Z. z.Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení zákona č. 541/1990 Zb., zákona č. 429/1991 Zb. a zákona č. 561/1991 Zb.
+
+- 2) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+
+- 3) § 16 ods. 2 písm. d) zákona Slovenskej národnej rady č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení zákona Slovenskej národnej rady č. 501/1991 Zb.
+
+- 4) Napríklad vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení vyhlášky Ministerstva financií Slovenskej republiky č. 608/1992 Zb. a vyhlášky Ministerstva financií Slovenskej republiky č. 265/1993 Z. z.
+
+- 5) § 16 ods. 1 zákona Slovenskej národnej rady č. 474/1990 Zb. v znení zákona Slovenskej národnej rady č. 501/1991 Zb.

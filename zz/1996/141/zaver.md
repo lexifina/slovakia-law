@@ -1,0 +1,1 @@
+Peter Bisák v. r.
