@@ -1,5 +1,7 @@
 - 1) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
+- 1a) § 55 ods. 2 až 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, vyhláška Ministerstva vnútra Slovenskej republiky č. 83/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Slovenskej národnej rady o požiarnej ochrane týkajúce sa jednotiek požiarnej ochrany v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách. § 25 a 26 zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení zákona č. 319/1999 Z. z.
 
 - 3) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
