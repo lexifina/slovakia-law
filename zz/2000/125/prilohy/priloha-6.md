@@ -1,0 +1,3 @@
+Príloha č. 6 k vyhláške č. 125/2000 Z. z.
+
+- ZNAČKA NA OZNAČENIE PRÍSTUPOVEJ CESTY K STANOVIŠŤU PRENOSNÉHO HASIACEHO PRÍSTROJA<sup>21</sup>) ![Obrázok 06](../assets/c4996b3ecd9565edca7943ae31af7ea2364f4285aec6d8a73716f649c3b79e74.png)
