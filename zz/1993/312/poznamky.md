@@ -14,6 +14,8 @@
 
 - 7a) § 36 a 50 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
 
+- 7ab) Vyhláška Ministerstva financií Slovenskej republiky č. 313/1993 Z. z. o označení niektorých tabakových výrobkov kontrolnou známkou v znení vyhlášky č. 304/1995 Z. z. a vyhlášky č. 124/1997 Z. z.
+
 - 8) Vyhláška Ministerstva financií Slovenskej republiky č. 82/1993 Z. z., o forme, obsahu a náležitostiach colného vyhlásenia a o spôsobe vedenia colnej štatistiky.
 
 - 9) § 61 Colného zákona.
