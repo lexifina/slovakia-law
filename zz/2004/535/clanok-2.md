@@ -1,3 +1,3 @@
 # Čl. II
 
-Tento zákon nadobúda účinnosť 1. septembra 2004.
+Tento zákon nadobúda účinnosť pätnástym dňom po jeho vyhlásení.
