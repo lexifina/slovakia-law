@@ -26,11 +26,11 @@ Príloha č. 2 nariadenia vlády SR č. 519/1992 Zb.
 
     - 2.01 | riaditeľ úradu, riaditeľ (rektor) Policajnej akadémie Policajného zboru SR | 3000 - 4000
 
-    - 2.02 | zástupca riaditeľa úradu, zástupca riaditeľa (prorektor) Policajnej akadémie Policajného zboru SR, vedúci (veliteľ) útvaru, riaditeľ strednej odbornej školy | 1200 - 3000
+    - 2.02 | zástupca riaditeľa úradu, zástupca riaditeľa (prorektor) Policajnej akadémie Policajného zboru SR, riaditeľ strednej odbornej školy | 1200 - 3000
 
-    - 2.03 | zástupca vedúceho (veliteľa) útvaru, riaditeľa strednej odbornej školy | 1000 - 2000
+    - 2.03 | vedúci (veliteľ) útvaru, zástupca riaditeľa strednej odbornej školy | 1000 - 2000
 
-    - 2.04 | vedúci katedry | 800 - 1800
+    - 2.04 | vedúci katedry, zástupca vedúceho (veliteľa) útvaru | 800 - 1800
 
     - 2.05 | vedúci (veliteľ) oddelenia, skupiny | 300 - 1200
 
@@ -46,7 +46,7 @@ Príloha č. 2 nariadenia vlády SR č. 519/1992 Zb.
 
     - 3.04 | zástupca funkcionára uvedeného v bode 3.03., vedúci(veliteľ) odboru | 800 - 2000
 
-    - 3.05 | veliteľ obvodného oddelenia | 600 - 1500
+    - 3.05 | veliteľ obvodného, hraničného oddelenia | 600 - 1500
 
     - 3.06 | zástupca vedúceho (veliteľa) odboru, zástupca veliteľa obvodného oddelenia | 500 - 1500
 
