@@ -22,6 +22,8 @@
 
 - 3b) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
+- 3ba) § 72 ods. 1 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+
 - 3c) § 36g zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
 - 3d) § 36i zákona č. 21/1992 Zb. v znení neskorších predpisov.
