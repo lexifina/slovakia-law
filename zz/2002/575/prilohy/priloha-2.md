@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 575/2002 Z. z. [Vzor 02](../assets/4779ec392fbc84e7f59a1716532cf9672285fe6f035127ecf66a79e996046364.pdf)
+Príloha č. 2 k vyhláške č. 575/2002 Z. z. [vzor 02](../assets/947c73ca0c9864aaa0cdce629bf93de74d17727d72e0d514717bb540636b3138.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 5 k vyhláške č. 575/2002 Z. z. ![Vzor 05](../assets/e56dc32316ca5b7edab7b3eed7c6b374ddd2703a1900006ae47f75aeeca0e892.png)
+Príloha č. 5 k vyhláške č. 575/2002 Z. z. [vzor 05](../assets/46d0e6d7f88039b3abde59109472c1bf4146d96080e118afd23f1670c3d34a33.pdf)
