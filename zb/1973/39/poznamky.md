@@ -1,0 +1,1 @@
+- 1) Zákon č. 22/1964 Zb. o evidencii nehnuteľností.
