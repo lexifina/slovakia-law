@@ -1,3 +1,3 @@
 Príloha k nariadeniu vlády č. 400/1999 Z. z.
 
-- OSTATNÉ URČENÉ VÝROBKY [Príloha 01](../assets/5d962c2d10cd871389a8959ebf3a6b967326329cc022b586a004fe3e096b8794.pdf)
+- OSTATNÉ URČENÉ VÝROBKY [Príloha 01](../assets/a36485edf1231baab23b2d496a3fa8afee065534e9299a8b17a25423bb2455ee.pdf)
