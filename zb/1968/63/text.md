@@ -170,9 +170,7 @@ Ak sa budú uvedené opatrenia uplatňovať v organizácii postupne už pred zav
 
 - 26. Výška príplatkov, ktoré patria podľa skutočne odpracovaného času, zostáva nezmenená.
 
-- 27. Na mzdové zvýhodnenie trvale sa opakujúcej práce v sobotu alebo v nedeľu (pokiaľ dni nepretržitého odpočinku v týždni nepripadajú na nedeľu a pondelok) sa organizáciám odporúča vhodne použiť všetky nástroje súčasnej mzdovej sústavy (pobádacie zložky mzdy a rozpätia mzdových taríf), ak toto zvýhodnenie nie je už premietnuté do doterajších mzdových predpisov, prípadne ak sa neuplatňuje špecifická forma mzdy. Mzdové zvýhodnenie sobotnej a nedeľnej práce pritom nesmie prevýšiť 50 % základnej mzdy dosiahnutej za prácu v sobotu alebo nedeľu a nepatrí za prácu vo sviatok (pokiaľ pripadá na sobotu alebo nedeľu).
-
-Toto mzdové zvýhodnenie sa však netýka sobotnej a nedeľnej práce vyplývajúcej z nerovnomerného rozvrhnutia pracovného času v priebehu dlhšieho ako dvanásťtýždenného obdobia (§ 85 Zákonníka práce).
+- 27. Zrušený od 1. 1. 1969.
 
 Odmena pracovníkov s mesačnou mzdou za prácu nadčas
 
