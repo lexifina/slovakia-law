@@ -4,6 +4,16 @@
 
 - 3a) § 187 ods. 1 písm. b) zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
+- 3b) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+
+- 3c) § 36g zákona č. 21/1992 Zb. v znení neskorších predpisov.
+
+- 3d) § 36i zákona č. 21/1992 Zb. v znení neskorších predpisov.
+
+- 3e) § 160 Obchodného zákonníka.
+
+- 3f) § 36c zákona č. 21/1992 Zb. v znení neskorších predpisov.
+
 - 4) § 82 a nasl. zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
 - 5) Zákon č. 95/1963 Zb. o štátnom notárstve a o konaní pred štátnym notárstvom (notársky poriadok) v znení neskorších predpisov.
