@@ -102,6 +102,14 @@ Zákon Slovenskej národnej rady č. 134/1992 Zb. o štátnej správe ochrany ov
 
 - každoročne spracúva údaje o množstvách a kvalite predaných palív predkladané predajcami tuhých palív a kvapalných ropných palív<sup>11d</sup>) a predkladá ich najneskôr do 31. mája bežného roka v elektronickej forme určenej ministerstvom organizácii poverenej ministerstvom,
 
+- m)
+
+- podľa § 11a zákona o ovzduší sprístupňuje verejnosti žiadosti o vydanie súhlasu, súhlasy vydané na ich základe a ich aktualizácie a vykonáva verejné prerokovanie žiadosti o vydanie súhlasu,<sup>11e</sup>)
+
+- n)
+
+- periodicky preskúmava podmienky prevádzkovania spaľovne odpadov alebo zariadenia na spoluspaľovanie odpadov a podľa potreby ich upravuje alebo určuje nové podmienky prevádzkovania v súhlasoch vydaných podľa § 11a ods. 10 a 11 zákona o ovzduší,
+
 - o)
 
 - určuje emisné limity a všeobecné podmienky prevádzkovania a výnimky z emisných limitov a zo všeobecných podmienok prevádzkovania ustanovených osobitným predpisom,<sup>11f</sup>) ak to umožňuje osobitný predpis,
