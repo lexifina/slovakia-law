@@ -26,17 +26,21 @@
 
 - 12) Napr. zásoby neželezných kovov obsiahnuté v evidovaných zásobách rudy.
 
-- 13) Druhá časť nariadenia vlády ČSSR č. 80/1988 Zb. o určovaní kondícií, klasifikácii zásob výhradných ložísk a o posudzovaní, schvaľovaní a štátnej expertíze ich výpočtov.
+- 13) § 1 až 3 vyhlášky Slovenského geologického úradu č. 6/1992 Zb. o klasifikácii a výpočte zásob výhradných ložísk.
 
 - 14) § 14 ods. 4 a 5 banského zákona.
 
-- 15) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (trestný poriadok) v znení neskorších predpisov. Zákon č. 121/1962 Zb. o hospodárskej arbitráži v znení neskorších predpisov (úplné znenie č. 46/1983 Zb.). Zákon č. 60/1965 Zb. o prokuratúre v znení neskorších predpisov. Zákon č. 40/1974 Zb. o Zbore národnej bezpečnosti.
+- 14a) § 8 ods. 2 vyhlášky Slovenského geologického úradu č. 9/1989 Zb. v znení vyhlášky Slovenského geologického úradu č. 5/1992 Zb.
+
+- 15) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (trestný poriadok) v znení neskorších predpisov. Zákon č. 121/1962 Zb. o hospodárskej arbitráži v znení neskorších predpisov (úplné znenie č. 46/1983 Zb.). Zákon č. 60/1965 Zb. o prokuratúre v znení neskorších predpisov. Zákon SNR č. 204/1991 Zb. o Policajnom zbore Slovenskej republiky.
 
 - 16) § 18 ods. 1 písm. g) zákona SNR č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade.
 
 - 17) § 33 banského zákona.
 
 - 18) § 10 zákona SNR č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe.
+
+- 18a) § 1 vyhlášky Slovenského banského úradu č. 535/1991 Zb., ktorou sa určujú obvody pôsobnosti obvodných banských úradov.
 
 - 19) § 20 až 22 Hospodárskeho zákonníka.
 
