@@ -1,0 +1,1 @@
+- **) Tu sa vyhlasuje slovenský preklad v Prílohe Zbierky zákonov na str. 32.
