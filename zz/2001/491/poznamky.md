@@ -30,6 +30,10 @@
 
 - 16) § 56 až 260 Obchodného zákonníka.
 
-- 16a) § 20 zákona č. 473/2003 Z. z. o Pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov.
+- 16a) Napríklad nariadenie Rady (ES) č. 22001/1996 z 28. októbra 1996 o spoločnej organizácii trhu s ovocím a zeleninou (Ú. v. ES L 297, 21. 11. 1996), nariadenie Rady (EHS) č. 2075/1992 z 30. júna 1992 o spoločnej organizácii trhu so surovým tabakom (Ú. v. ES L 215, 30. 07. 1992), nariadenie Rady (ES) č. 1260/2001 z 19. júna 2001 o systéme organizovania spoločného trhu v sektore cukru (Ú. v. ES L 178, 30. 06. 2001).
+
+- 16b) Napríklad nariadenie Komisie (ES) č. 1148/2001 z 12. júna 2001 o kontrole zhody čerstvého ovocia a zeleniny s obchodnými normami (Ú. v. ES L 156, 13. 06. 2001).
+
+- 16c) § 20 zákona č. 473/2003 Z. z. o Pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov.
 
 - 17) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 158/1997 Z. z.
