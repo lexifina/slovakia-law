@@ -1,3 +1,0 @@
-Predseda:
-
-Štanceľ v. r.
