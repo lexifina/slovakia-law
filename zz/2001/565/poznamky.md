@@ -1,4 +1,4 @@
-- 1) § 2 ods. 1 opatrenia Štatistického úradu Slovenskej republiky č. 75/1998 Z. z., ktorým sa ustanovuje Číselník štatistických územných jednotiek Slovenskej republiky.
+- 1) Usmernenie Komisie (ES) o národnej regionálnej pomoci č. 98/C 74/06 z 10. marca 1998 v znení neskoršej zmeny a doplnenia.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
