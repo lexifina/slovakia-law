@@ -10,6 +10,8 @@
 
 - 6) § 164 a 165 vyhlášky č. 17/1994 Z. z.
 
+- 6a) Článok 20 § 2 Dodatku A k Dohovoru o medzinárodnej železničnej preprave (COTIF) (vyhláška č. 8/1985 Zb.).
+
 - 7) Vyhláška ministra zahraničných vecí č. 89/1963 Zb. o Colnom dohovore o karnetoch E. C. S. pre obchodné vzorky a o Colnom dohovore o karnete A. T. A. pre dovozný colný záznam tovaru.Vyhláška ministra zahraničných vecí č. 144/1982 Zb. o Colnom dohovore v medzinárodnej preprave tovaru na podklade karnetov TIR (Dohovor TIR).Oznámenie Federálneho ministerstva zahraničných vecí o podpísaní Dohovoru o používaní colných dokladov pri preprave nákladov v priamej automobilovej doprave tovaru (registrované v čiastke 36/1985 Zb.).Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 187/1996 Z. z. o pristúpení Slovenskej republiky k Dohovoru o spoločnom tranzitnom režime.
 
 - 8) Napríklad zákon č. 59/1997 Z. z. o ochrane pred dumpingom pri dovoze tovaru.
