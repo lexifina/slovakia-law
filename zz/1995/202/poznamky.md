@@ -1,12 +1,16 @@
-- 1) § 2 ods. 3 zákona č. 513/1991 Zb. Obchodný zákonník.
+- 1) § 2 ods. 3 a 4 Obchodného zákonníka.
 
-- 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky.
+- 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov v znení zákona č. 441/2001 Z. z.
 
-- 3) § 5 zákona č. 21/1992 Zb. o bankách.
+- Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
-- 4) § 1 ods. 2 zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z.
+- Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4a) § 1 ods. 1 písm. a) až e), g) až j) a m) zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z.
+- 3) § 2 ods. 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+
+- 4) § 2 ods. 1 a § 10 ods. 1 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
+
+- 4a) § 2 ods. 2 písm. a) až k) a r) zákona č. 566/2001 Z. z.
 
 - 5) § 657 a § 658 zákona č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 509/1991 Zb.
 
@@ -18,23 +22,39 @@
 
 - 7) § 6 ods. 3 Obchodného zákonníka.
 
-- 8) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+- 8) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 9) § 2 ods. 1 Obchodného zákonníka.
 
-- 10) § 1 ods. 3 písm. c) zákona č. 21/1992 Zb.
+- 10) § 2 ods. 2 a § 7 a 8 zákona č. 483/2001 Z. z.
 
-- 11) § 53 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 132/1994 Z. z.
+- 11) § 10 ods. 1 a 2 písm. a) a § 50 až 56 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 12) § 2 ods. 2 Obchodného zákonníka.
 
-- 13) Napr. zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
+- 13) Napríklad § 27 až 40a zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 34 až 36 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, § 4 až 21 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov, § 28 a 40 až 54a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, § 2 až 11 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, § 122 až 129 zákona č. 413/2002 Z. z. o sociálnom poistení, zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
-- 14) § 15 ods. 2 a § 17 ods. 6 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
+- 14) § 54 až 56 a 61 zákona č. 566/2001 Z. z.
 
-- 16) § 1 ods. 3 písm. o) zákona č. 21/1992 Zb.
+- 15) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
 
-- 17b) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
+- 15a) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
+
+- 16) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 16a) Napríklad § 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z., § 81 písm. e) Zákonníka práce, § 17 až 20 Obchodného zákonníka v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z., § 122 Trestného zákona v znení neskorších predpisov.
+
+- 16b) Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
+
+- 16c) Napríklad zákon č. 507/2001 Z. z. o poštových službách.
+
+- 17) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 17a) § 5 ods. 1 písm. a) až c) zákona č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 17b) Napríklad Občiansky súdny poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) v znení neskorších predpisov.
+
+- 18) Zákon č. 367/2000 Z. z. v znení neskorších predpisov.
 
 - 18a) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
@@ -50,22 +70,14 @@
 
 - 21b) § 21 ods. 3 a 4 Obchodného zákonníka.
 
-- 23) Tretia časť zákona Slovenskej národnej rady č. 418/1991 Zb. o štátnej kontrole.
+- 23) § 36 ods. 1 až 6 a § 37 a 37a zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.Druhá časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
-- 24) Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z.
+- 23a) § 37 ods. 3 písm. d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
-- 25) § 259 až 262 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
-
-- 26) Zákon Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy v znení neskorších predpisov.
-
-- 27) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
-- 28) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+- 23b) § 57 ods. 1 písm. e) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 29) Čl. 119 písm. d) a čl. 118 Ústavy Slovenskej republiky.
 
-- 30) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 30a) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov, § 17 až 20 Obchodného zákonníka, Trestný zákon v znení neskorších predpisov.
+- 30) § 94 až 114 zákona č. 483/2001 Z. z.
 
 - 31) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
