@@ -1,0 +1,3 @@
+# Čl. I.
+
+Pôsobnosť, ktorá prislúcha podľa § 35, ods. 2 a § 45, ods. 2 zákona zo dňa 18. júla 1946, č. 164 Sb., o starostlivosti o vojenských a vojnových poškodencov a obete vojny a fašistickej perzekúcie, Ministerstvu práce a sociálnej starostlivosti a podľa § 3, ods. 3 a 7, § 4, ods. 2, § 5, § 7, ods. 1, § 9, ods. 1, § 10, ods. 3, § 11, ods. 2, § 21, ods. 1, § 24, ods. 2 a 3, § 39, § 43 ods. 1, § 45, ods. 3, § 49, ods. 1 a 4, § 52 ods. 2, § 53, § 55, ods. 1 a § 56, ods. 1 toho istého zákona Ministerstvu práce a sociálnej starostlivosti po dohode s Ministerstvom financií, prechádza na štátne úrady pre vojnových poškodencov.
