@@ -1,0 +1,3 @@
+# Čl. II.
+
+Přijmouti a zastávati funkci člena komise okresního národního výboru, vykonávající trestní pravomoc (trestní komise nalézací), je občanskou povinností. Poruší-li člen trestní komise nalézací bez závažných důvodů tuto povinnost, zejména tím, že se bez dostatečné omluvy nedostaví k řízení, ač byl řádně obeslán, anebo se bez souhlasu předsedy komise před skončením řízení vzdálí, uloží mu předseda okresního národního výboru jako pořádkový trest pokutu do 5.000 Kčs nebo vězení do pěti dnů a podle okolnosti též náhradu útrat zmařeného řízení. Proti tomuto nálezu může se postižený do 15 dnů odvolati k zemskému národnímu výboru.
