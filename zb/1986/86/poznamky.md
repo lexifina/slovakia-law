@@ -7,3 +7,5 @@
 - 4) Vyhláška č. 118/1972 Zb. o pokladničných operáciách v socialistických organizáciách v znení neskorších predpisov.
 
 - 5) § 32b ods. 4 zákona SNR č. 79/1978 Zb.
+
+- 6) § 6 ods. 6 a § 13 ods. 3 vyhlášky č. 161/1976 Zb., ktorou sa vykonáva zákon o dani zo mzdy v znení neskorších predpisov.
