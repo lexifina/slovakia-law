@@ -4,13 +4,13 @@
 
 - 3) § 1 a 22 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
+- 3a) § 829 až 841 Občianskeho zákonníka.
+
 - 4) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 5) § 16 ods. 1 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
 - 6) § 34 ods. 3 písm. d) zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
-
-- 7) § 11 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - 8) § 4 ods. 7 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
 
@@ -20,9 +20,11 @@
 
 - 10) § 289 Obchodného zákonníka.
 
-- 10a) § 24 ods. 3 písm. a) zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 10a) § 19 ods. 2 písm. a) zákona č. 595/2003 Z. z. o dani z príjmov.
 
-- 11) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+- 10b) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení neskorších predpisov.
+
+- 11) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 12) § 1b ods. 2 a § 15 ods. 2 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
