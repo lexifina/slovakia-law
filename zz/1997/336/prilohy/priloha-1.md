@@ -4,156 +4,156 @@ Sídlo colného úradu | Pracovný obvod
 
 Banská Bystrica | Banská Bystrica
 
-&nbsp | Banská Štiavnica
+| Banská Štiavnica
 
-&nbsp | Brezno
+| Brezno
 
-&nbsp | Detva
+| Detva
 
-&nbsp | Krupina
+| Krupina
 
-&nbsp | Prievidza
+| Prievidza
 
-&nbsp | Zvolen
+| Zvolen
 
-&nbsp | Žarnovica
+| Žarnovica
 
-&nbsp | Žiar nad Hronom
+| Žiar nad Hronom
 
 Bratislava | Bratislava I
 
-&nbsp | Bratislava II
+| Bratislava II
 
-&nbsp | Bratislava III
+| Bratislava III
 
-&nbsp | Bratislava IV
+| Bratislava IV
 
-&nbsp | Bratislava V
+| Bratislava V
 
-&nbsp | Malacky Pezinok
+| Malacky Pezinok
 
-&nbsp | Senec
+| Senec
 
 Čierna nad Tisou | Michalovce
 
-&nbsp | Sobrance
+| Sobrance
 
-&nbsp | Treblšov
+| Treblšov
 
 Fiľakovo | Lučenec
 
-&nbsp | Poltár
+| Poltár
 
-&nbsp | Revúca
+| Rimavská Sobota
 
-&nbsp | Rimavská Sobota
-
-&nbsp | Veľký Krtíš
+| Veľký Krtíš
 
 Komárno | Komárno
 
-&nbsp | Dunajská Streda
+| Dunajská Streda
 
 Košice | Košice I
 
-&nbsp | Košice II
+| Košice II
 
-&nbsp | Košice III
+| Košice III
 
-&nbsp | Košice IV
+| Košice IV
 
-&nbsp | Košlce-okolie
+| Košlce-okolie
 
-&nbsp | Gelnica
+| Gelnica
 
-&nbsp | Rožňava
+| Revúca
+
+| Rožňava
 
 Nitra | Nitra
 
-&nbsp | Bánovce nad Bebravou
+| Bánovce nad Bebravou
 
-&nbsp | Galanta
+| Galanta
 
-&nbsp | Hlohovec
+| Hlohovec
 
-&nbsp | Partizánske
+| Partizánske
 
-&nbsp | Piešťany
+| Piešťany
 
-&nbsp | Šaľa
+| Šaľa
 
-&nbsp | Topoľčany
+| Topoľčany
 
-&nbsp | Trnava
+| Trnava
 
-&nbsp | Zlaté Moravce
+| Zlaté Moravce
 
 Poprad | Poprad
 
-&nbsp | Kežmarok
+| Kežmarok
 
-&nbsp | Levoča
+| Levoča
 
-&nbsp | Stará Ľubovňa
+| Stará Ľubovňa
 
-&nbsp | Spišská Nová Ves
+| Spišská Nová Ves
 
 Prešov | Prešov
 
-&nbsp | Bardejov
+| Bardejov
 
-&nbsp | Humenné
+| Humenné
 
-&nbsp | Medzilaborce
+| Medzilaborce
 
-&nbsp | Sabinov
+| Sabinov
 
-&nbsp | Snina
+| Snina
 
-&nbsp | Stropkov
+| Stropkov
 
-&nbsp | Svidník
+| Svidník
 
-&nbsp | Vranov nad Topľou
+| Vranov nad Topľou
 
 Senica | Myjava
 
-&nbsp | Senica
+| Senica
 
-&nbsp | Skalica
+| Skalica
 
 Štúrovo | Nové Zámky
 
-&nbsp | Levice
+| Levice
 
 Trenčín | Trenčín
 
-&nbsp | Nové Mesto nad Váhom
+| Nové Mesto nad Váhom
 
 Trstená | Dolný Kubín
 
-&nbsp | Liptovský Mikuláš
+| Liptovský Mikuláš
 
-&nbsp | Námestovo
+| Námestovo
 
-&nbsp | Ružomberok
+| Ružomberok
 
-&nbsp | Tvrdošín
+| Tvrdošín
 
 Žilina | Žilina
 
-&nbsp | Bytča
+| Bytča
 
-&nbsp | Čadca
+| Čadca
 
-&nbsp | Ilava
+| Ilava
 
-&nbsp | Kysucké Nové Mesto
+| Kysucké Nové Mesto
 
-&nbsp | Martin
+| Martin
 
-&nbsp | Považská Bystrica
+| Považská Bystrica
 
-&nbsp | Puchov
+| Puchov
 
-&nbsp | Turčianske Teplice
+| Turčianske Teplice
