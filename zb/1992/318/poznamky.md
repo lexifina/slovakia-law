@@ -14,7 +14,7 @@
 
 - 7a) § 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov. § 2 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky.
 
-- 7b) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+- 7b) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
 
 - 8) Napr. Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
 
