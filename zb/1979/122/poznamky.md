@@ -8,6 +8,20 @@
 
 - 5) Príloha 1 Železničného prepravného poriadku.
 
+- 5a) § 21 zákona ČNR č. 61/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe.
+
+- § 21 zákona SNR č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej správe banskej.
+
+- 5b) § 34 zákona ČNR č. 61/1988 Zb.
+
+- § 34 zákona SNR č. 51/1988 Zb.
+
+- 5c) § 2 bod 16 vyhlášky č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách.
+
+- 5d) § 22 zákona ČNR č. 61/1988 Zb.
+
+- § 22 zákona SNR č. 51/1988 Zb.
+
 - 6) § 36 vyhlášky č. 100/1975 Zb.
 
 - 7) Zákon Českej národnej rady č. 58/1971 Zb. o určení ústredného orgánu štátnej správy vo veciach dopravy.
@@ -16,7 +30,9 @@
 
 - 9) § 24 ods. 2, § 45 ods. 3, § 50 ods. 2, § 60 ods. 4, § 70 ods. 1 Trestného zákona č. 140/1961 Zb. (úplné znenie č. 113/1973 Zb.).
 
-- 10) § 47 ods. 6 vyhlášky Federálneho ministerstva dopravy č. 90/1975 Zb. o podmienkach premávky vozidiel na pozemných komunikáciách.
+- 9a) § 4 vyhlášky č. 41/1984 Zb. o podmienkach prevádzky vozidiel na pozemných komunikáciách.
+
+- 10) § 46 ods. 2 vyhlášky č. 41/1984 Zb.
 
 - 11) Náhrada za túto činnosť nepodlieha dôchodkovej dani (zákon č. 113/1971 Zb. o dôchodkovej dani a príspevku na sociálne zabezpečenie - úplné znenie č. 73/1977 Zb.).
 
