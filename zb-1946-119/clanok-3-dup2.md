@@ -1,0 +1,11 @@
+# Článek 3. Plášť (obraz č. 7 a 8) a kožich.
+
+(1) Plášť jest zhotoven z jemného sukna nebo z látky z česané příze barvy hlinité (khaki), opatřen podšívkou a šit v takových rozměrech, aby pod ním mohla býti nošena bluza a aby tělo bylo přikryto od krku až asi 10 cm pod kolena. Plášť pozůstává ze dvou přednic, z dvoudílného zadku, dvou rukávů a límce (obraz č. 7). Každá přednice jest opatřena šesti od sebe stejně vzdálenými knoflíky a šesti dírkami. Při zapnutí jest vzdálenost dvou hořejších knoflíků 18 cm, dolejších 14 cm. Ke každé přednici jest na spodní straně vodorovně připevněna kapsa, na vrchní straně přednice jest průřez kapsy zakryt soukennou patkou. Na ústí dvoudílného rukávu jest přišit 15 až 17 cm široký přehyb. Zadek pláště jest opatřen 60 cm dlouhým rozparkem. K zapínání rozparku slouží na pravé liště přišitých šest knoflíčků. Na zadku jsou ve výši boku přišity dvě svislé patky, 23 cm dlouhé, 4 cm široké, jež mají na hořejším konci po jednom knoflíku, na nějž se zapíná spona 6 cm široká a 25 cm dlouhá. Na sametovém pololežatém límci, v celku střiženém, jest na každém konci přišita výložka stejná jako na bluze. Na levé spodní straně límce jest přišita soukenná krční spona, na pravé pak knoflíček. Na každém rameni mezi rukávem a límcem jest ramenní páska v témže provedení jako u bluzy, opatřená však lemovkou z látky pláště.
+
+(2) Mimo to jest dovoleno nositi jako přípustné součástky: a) Nepromokavý plášť (obraz č. 8) sahající pod kolena z nepromokavé látky, nenápadného občanského střihu, nenápadných barev, souladných s barvou hlinitou.
+
+- b) Kožený plášť sahající alespoň ke kolenům, dlouhý, normálního tvaru, barvy hnědé, ze skopové kůže, zapíná se uvnitř sponou na široké pevné gumě, límec jest potažen duvetinem barvy hnědé. Přednice jsou hodně přes sebe a jsou staženy pasem s kroužkovou sponou. Klopy pláště dají se přepínati ke krku. Kapsy jsou rovné s patkou, rukáv všitý. Na rukávech dole jsou pásky ke stažení.
+
+- c) Kožich jest téhož tvaru a téže barvy jako plášť (odstavec 1), avšak volnějšího střihu s podšívkou z kůže z bílého beránka nebo z jiné kožešiny a límcem z kůže černého beránka.
+
+(3) Stejnokrojové součástky uvedené v odstavci 2 jsou opatřeny ramenními páskami v témže provedení jako u pláště (odstavec 1.); lemovka jest však provedena z materiálu stejnokrojové součástky. Tyto ramenní pásky mohou býti odpínací.
