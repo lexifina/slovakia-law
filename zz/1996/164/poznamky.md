@@ -20,9 +20,17 @@
 
 - 11) Zákon č. 110/1964 Zb. o telekomunikáciách v znení zákona č. 150/1992 Zb., zákona Národnej rady Slovenskej republiky č. 96/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 212/1995 Z. z.
 
+- 11a) § 261 až 275 Obchodného zákonníka.
+
+- § 43 až 51 Občianskeho zákonníka.
+
 - 12) Zákon č. 92/1949 Zb. Branný zákon, ako vyplýva zo zmien a doplnení vykonaných Ústavou Československej socialistickej republiky č. 100/1960 Zb. v znení ústavného zákona č. 101/1990 Zb., ústavným zákonom o československej federácii č. 143/1968 Zb. v znení ústavného zákona č. 125/1970 Zb. a ústavného zákona č. 126/1970 Zb., zákonom č. 86/1950 Zb., zákonom č. 88/1950 Zb., zákonom č. 19/1958 Zb., zákonom č. 140/1961 Zb. v znení neskorších predpisov, zákonom č. 100/1970 Zb. v znení neskorších predpisov, zákonom č. 40/1974 Zb. v znení neskorších predpisov, zákonom č. 64/1978 Zb., zákonom č. 72/1990 Zb., zákonom č. 227/1991 Zb., zákonom č. 164/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 166/1995 Z. z. a zákonom Národnej rady Slovenskej republiky č. 161/1996 Z. z.
 
 - 12a) § 14 ods. 1 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
+
+- 12b) § 760 až 773 Občianskeho zákonníka.
+
+- § 610 až 629 Obchodného zákonníka.
 
 - 13) Napríklad zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z., vyhláška Slovenského banského úradu č. 71/1988 Zb. o výbušninách v znení vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 77/1996 Z. z. a vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 78/1996 Z. z.
 
@@ -32,10 +40,26 @@
 
 - 13c) § 762 Občianskeho zákonníka.Zákon č. 87/1987 Zb. o veterinárnej starostlivosti v znení neskorších predpisov.
 
+- 13ca) Vyhláška ministra zahraničných vecí č. 8/1985 Zb. o Dohovore o medzinárodnej železničnej preprave (COTIF) v znení oznámenia č. 61/1991 Zb., oznámenia č. 251/1991 Zb., oznámenia č. 34/1997 Z. z. a oznámenia č. 15/2001 Z. z.
+
+- 13cb) Napríklad zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
+
+- 13cc) § 261 až 275 Obchodného zákonníka.
+
+- 13cd) § 12 ods. 2 písm. a) zákona č. 259/2001 Z. z. o Železničnej spoločnosti, a. s., a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení zákona č. 152/1997 Z. z.
+
+- 13ce) Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
+
 - 14) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
 
 - 15) § 89 ods. 14 Trestného zákona.
 
 - 16) § 8 ods. 2 zákona č. 17/1992 Zb. o životnom prostredí.
 
+- 16a) § 12 ods. 2 písm. c) zákona č. 259/2001 Z. z.
+
 - 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 18) § 2 ods. 2 Obchodného zákonníka.
+
+- 19) Napríklad zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
