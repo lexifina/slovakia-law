@@ -27,3 +27,9 @@
 - 11) § 226 a nasl. Colného zákona.
 
 - 12) § 33 zákona č. 455/1991 Zb.
+
+- 13) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.§ 299 Obchodného zákonníka.
+
+- Občiansky súdny poriadok.
+
+- 14) § 73 až 93 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
