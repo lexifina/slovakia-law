@@ -8,4 +8,6 @@
 
 - 5) § 11a zákona Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.
 
+- 5a) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
+
 - 6) Zákon č. 119/1992 Zb. o cestovných náhradách.
