@@ -38,11 +38,15 @@
 
     - Článok 5
 
-      - 1. Členov Výboru volí Výbor ministrov Rady Európy absolútnou väčšinou hlasov z menného zoznamu vyhotoveného Byrom Parlamentného zhromaždenia Rady Európy; každá národná delegácia strán v Parlamentnom zhromaždení navrhne troch kandidátov, z ktorých najmenej dvaja musia byť jej štátnymi príslušníkmi.
+      - 1. Členov Výboru volí Výbor ministrov Rady Európy absolútnou väčšinou hlasov z menného zoznamu vyhotoveného Byrom Parlamentného zhromaždenia Rady Európy; každá národná delegácia strán v Parlamentnom zhromaždení navrhne troch kandidátov, z ktorých najmenej dvaja musia byť jej štátnymi príslušníkmi. Ak má byť zvolený člen do Výboru za nečlenský štát Rady Európy, Byro Parlamentného zhromaždenia vyzve parlament tohto štátu, aby navrhol troch kandidátov, z ktorých najmenej dvaja musia byť jeho štátnymi príslušníkmi. Voľba Výborom ministrov sa uskutoční po porade so zmluvnou stranou, ktorej sa voľba týka.
 
       - 2. Rovnaký postup sa použije pri obsadzovaní neočakávane uvoľnených miest.
 
-      - 3. Členovia Výboru sú volení na obdobie štyroch rokov. Zvolení môžu byť len raz. Avšak funkčné obdobie troch členov zvolených v prvých voľbách sa skončí po dvoch rokoch. Členov, ktorých funkčné obdobie sa skončí uplynutím dvoch rokov počiatočného obdobia, určí žrebovaním generálny tajomník Rady Európy ihneď po skončení prvých volieb.
+      - 3. Členovia Výboru sú volení na obdobie štyroch rokov. Môžu byť znovuzvolení dvakrát. Avšak funkčné obdobie troch členov zvolených v prvých voľbách sa skončí po dvoch rokoch. Členov, ktorých funkčné obdobie sa skončí uplynutím dvoch rokov počiatočného obdobia, určí žrebovaním generálny tajomník Rady Európy ihneď po skončení prvých volieb.
+
+      - 4. S cieľom zabezpečiť v rámci možnosti každé dva roky obmenu polovice členov výboru Výbor ministrov môže rozhodnúť, prv než prikročí k akejkoľvek ďalšej voľbe, že funkčné obdobie jedného alebo viacerých členov výboru, ktorí majú byť zvolení, nemusí trvať štyri roky, nemôže však presiahnuť šesť rokov a nemôže trvať ani kratšie ako dva roky.
+
+      - 5. V prípade, ak ide o viac ako o jedno funkčné obdobie, a keď Výbor ministrov bude postupovať podľa predchádzajúceho odseku, pridelia sa tieto obdobia žrebovaním, ktoré vykoná generálny tajomník Rady Európy ihneď po voľbách.
 
     - Článok 6
 
@@ -102,7 +106,7 @@
 
     - Článok 12
 
-      - Výbor v súlade so zásadami dôvernosti uvedenými v článku 11 každoročne predloží Výboru ministrov všeobecnú správu o svojej činnosti, ktorá sa predloží Parlamentnému zhromaždeniu a zverejní.
+      - Výbor v súlade so zásadami dôvernosti uvedenými v článku 11 každoročne predloží Výboru ministrov všeobecnú správu o svojej činnosti, ktorá sa predloží Parlamentnému zhromaždeniu a každému nečlenskému štátu Rady Európy, ktorý je zmluvnou stranou dohovoru, a zverejní.
 
     - Článok 13
 
@@ -138,17 +142,19 @@
 
     - Článok 18
 
-      - Tento dohovor je otvorený na podpis členským štátom Rady Európy. Podlieha ratifikácii, prijatiu alebo schváleniu. Listiny o ratifikácii, prijatí či schválení sa uložia u generálneho tajomníka Rady Európy.
+      - (1) Tento dohovor je otvorený na podpis členským štátom Rady Európy. Podlieha ratifikácii, prijatiu alebo schváleniu. Listiny o ratifikácii, prijatí či schválení sa uložia u generálneho tajomníka Rady Európy.
+
+      - (2) Výbor ministrov Rady Európy môže vyzvať ktorýkoľvek nečlenský štát Rady Európy, aby pristúpil k dohovoru.
 
     - Článok 19
 
       - 1. Tento dohovor nadobudne platnosť prvým dňom mesiaca nasledujúceho po uplynutí troch mesiacov odo dňa, keď sedem členských štátov Rady Európy vyjadrilo súhlas byť viazaný týmto dohovorom v súlade s ustanoveniami článku 18.
 
-      - 2. Pre každý členský štát, ktorý dodatočne vyjadrí svoj súhlas byť viazaný týmto dohovorom, dohovor nadobudne platnosť prvým dňom mesiaca, ktorý nasleduje po uplynutí troch mesiacov odo dňa uloženia listiny o ratifikácii, prijatí alebo schválení.
+      - 2. Pre každý štát, ktorý dodatočne vyjadrí svoj súhlas byť viazaný týmto dohovorom, dohovor nadobudne platnosť prvým dňom mesiaca, ktorý nasleduje po uplynutí troch mesiacov odo dňa uloženia listiny o ratifikácii, prijatí schválení alebo o prístupe.
 
     - Článok 20
 
-      - 1. Každý štát môže pri podpise alebo uložení listiny o ratifikácii, prijatí alebo schválení určiť územie alebo územia, na ktorých sa bude tento dohovor vykonávať.
+      - 1. Každý štát môže pri podpise alebo uložení listiny o ratifikácii, prijatí schválení alebo o prístupe určiť územie alebo územia, na ktorých sa bude tento dohovor vykonávať.
 
       - 2. Každý štát môže neskôr vyhlásením zaslaným generálnemu tajomníkovi Rady Európy rozšíriť vykonávanie tohto dohovoru na každé ďalšie územie uvedené vo vyhlásení. Vo vzťahu k tomuto územiu dohovor nadobudne platnosť prvým dňom mesiaca nasledujúceho po uplynutí troch mesiacov odo dňa prijatia takého vyhlásenia generálnym tajomníkom.
 
@@ -164,11 +170,11 @@
 
       - 2. Táto výpoveď nadobudne účinnosť prvým dňom mesiaca nasledujúceho po uplynutí dvanástich mesiacov odo dňa prijatia oznámenia generálnym tajomníkom Rady Európy.
 
-    - Článok 23 Generálny tajomník Rady Európy oznámi členským štátom Rady Európy
+    - Článok 23 Generálny tajomník Rady Európy oznámi členským štátom a každému nečlenskému štátu Rady Európy, ktorý je zmluvnou stranou dohovoru:
 
       - a) každé podpísanie;
 
-      - b) uloženie každej listiny o ratifikácii, pristúpení alebo schválení;
+      - b) uloženie každej listiny o ratifikácii, pristúpení schválení alebo o prístupe;
 
       - c) každý dátum nadobudnutia platnosti tohto dohovoru v súlade s článkami 19 a 20;
 
