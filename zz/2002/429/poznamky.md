@@ -20,6 +20,8 @@
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
 
+- 11a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+
 - 12) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 13) § 8 písm. e) zákona č. 566/2001 Z. z.
