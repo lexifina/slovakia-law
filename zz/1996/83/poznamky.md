@@ -14,7 +14,7 @@
 
 - 8) § 16 nariadenia vlády Slovenskej socialistickej republiky č. 32/1975 Zb. o ochrane pred povodňami.
 
-- 9) § 24 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov, § 34 vyhlášky Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z.
+- 9) § 24 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov, § 36 ods. 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z.
 
 - 10) Napríklad § 9 vyhlášky Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 374/1990 Zb. o bezpečnosti práce a technických zariadení pri stavebných prácach.
 

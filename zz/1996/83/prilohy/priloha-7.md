@@ -52,7 +52,7 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
 - | k) grafické značenie požiarnej ochrany vo výkresoch, | |
 
-- | 1) príčiny vzniku požiarov a výbuchov v technologických procesoch, ochrana | |
+- | l) príčiny vzniku požiarov a výbuchov v technologických procesoch, ochrana | |
 
 - | technologických zariadení, | |
 
@@ -96,7 +96,7 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
 - | k) požiarne vodovody a zdroje požiarnej vody, | |
 
-- | 1) závislosť škôd od času voľného šírenia požiaru, | |
+- | l) závislosť škôd od času voľného šírenia požiaru, | |
 
 - | m) organizácia prác pri hromadných úrazoch a iných mimoriadnych udalostiach. | |
 
@@ -170,7 +170,7 @@ Príloha č. 7 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
 - | a) výpočet nasadenia síl a prostriedkov na zdolávanie požiarov vodou, | | len písm.
 
-- | b) požadovaná spotreba vody, | | a), e)
+- | b) požadovaná spotreba vody, | | a) až e)
 
 - | c) určenie počtu prúdov na hasenie, | |
 

@@ -8,7 +8,7 @@ Príloha č. 1 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
   - 3. O zaradení požiarnej techniky do pohotovosti, do zálohy a mimo prevádzky rozhoduje veliteľ jednotky požiarnej ochrany.
 
-  - 4. Obsluhovať požiarne vozidlá<sup>1</sup>) môže iba príslušník, pracovník alebo člen jednotky požiarnej ochrany zaradený do funkcie strojník, ktorý spĺňa kvalifikačné požiadavky na výkon tejto funkcie podľa osobitných predpisov,<sup>3</sup>) je zdravotne spôsobilý,<sup>4</sup>) má vodičské oprávnenie skupiny B, C a E, najmenej dvojročnú prax vo vedení vozidiel a najazdených minimálne 150 hodín na vozidlách, ktorých celková hmotnosť presahuje 3,5 tony.
+  - 4. Viesť a obsluhovať požiarne automobily<sup>1</sup>) môže iba určený príslušník, pracovník alebo člen jednotky požiarnej ochrany, ktorý spĺňa kvalifikačné požiadavky na výkon tejto funkcie podľa osobitných predpisov,<sup>3</sup>) je zdravotne spôsobilý,<sup>4</sup>) má najmenej dvojročnú prax vo vedení vozidiel a najazdených najmenej 150 hodín na vozidlách, ktorých celková hmotnosť presahuje 3,5 tony. Ak určený príslušník alebo pracovník jednotky požiarnej ochrany neviedol požiarny automobil s celkovou hmotnosťou nad 7,5 t dlhšie ako jeden mesiac, musí vykonať kondičnú jazdu v trvaní najmenej 20 minút.
 
   - 5. V prípade mimoriadnej udalosti alebo ak hrozí nebezpečenstvo z omeškania, môže viesť motorové vozidlo aj iný príslušník, pracovník alebo člen jednotky požiarnej ochrany, ktorý spĺňa kvalifikačné požiadavky uvedené v osobitnom predpise.<sup>3</sup>)
 
@@ -28,27 +28,23 @@ Príloha č. 1 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
   - 13. Pracoviská údržby musia byť z hľadiska bezpečnosti a ochrany zdravia pri práci a požiarnej ochrany bezpečné.<sup>6</sup>)
 
-  - 14. Strojník alebo iná osoba spĺňajúca kvalifikačné požiadavky uvedené v osobitnom predpise,<sup>3</sup>) ktorá neviedla požiarny automobil s celkovou hmotnosťou nad 7,5 t dlhšie ako jeden mesiac, musí vykonať kondičnú jazdu v trvaní minimálne 30 minút. O týchto jazdách sa vedie záznam v prevádzkovom denníku požiarneho automobilu.
+  - 14. Funkčnosť požiarnych automobilov zaradených do pohotovosti, ktoré sa v priebehu mesiaca nepoužili, treba overiť skúšobnou jazdou. O týchto jazdách sa vedie záznam v prevádzkových denníkoch týchto automobilov.
 
-  - 15. Funkčnosť požiarnych automobilov zaradených do pohotovosti, ktoré sa v priebehu mesiaca nepoužili, treba overiť skúšobnou jazdou. O týchto jazdách sa vedie záznam v prevádzkových denníkoch týchto automobilov.
+  - 15. Na špeciálnych zásahových automobiloch určených na práce vo výškach, ktoré sa v priebehu týždňa nepoužili pri zásahu alebo pri výcviku, treba pracovať s nadstavbou najmenej 15 minút. O práci sa vedie záznam v prevádzkových denníkoch týchto automobilov. Toto ustanovenie sa vzťahuje aj na používanie agregátov.
 
-  - 16. Na špeciálnych zásahových automobiloch určených na práce vo výškach, ktoré sa v priebehu týždňa nepoužili pri zásahu alebo pri výcviku, treba pracovať s nadstavbou najmenej 15 minút. O práci sa vedie záznam v prevádzkových denníkoch týchto automobilov. Toto ustanovenie sa vzťahuje aj na používanie agregátov.
+  - 16. Pri dopravnej nehode vozidla jednotky požiarnej ochrany postupuje vodič podľa osobitného predpisu.<sup>3</sup>)
 
-  - 17. Okresné správy Zboru požiarnej ochrany a zriaďovatelia jednotiek požiarnej ochrany sú povinní vytvárať pre strojnú službu podmienky pre bezpečnú a zdravotne nezávadnú prácu.<sup>7</sup>)
-
-  - 18. Pri dopravnej nehode vozidla jednotky požiarnej ochrany postupuje vodič podľa osobitného predpisu.<sup>3</sup>)
-
-  - 19. V strojnej službe sa musí viesť táto základná dokumentácia o prevádzke požiarnej techniky:
+  - 17. V strojnej službe sa musí viesť táto základná dokumentácia o prevádzke požiarnej techniky:
 
     - a) prevádzkový denník o používaní požiarneho automobilu – agregátu,
 
     - b) vozový zošit.
 
-  - 20. Prevádzkový denník sa vedie o každom automobile a agregáte zaradenom v jednotke požiarnej ochrany; vedie ho určená osoba. Do denníka požiarneho automobilu sa denne zapisuje preberanie služby (platí len pre vozidlá zaradené do pohotovosti) a všetky jazdy a skúšky. Každú jazdu okrem vodiča podpisuje príslušný veliteľ, ktorý bol za výjazd zodpovedný. Určený príslušník alebo pracovník strojnej služby kontroluje vedenie denníka raz za mesiac.
+  - 18. Prevádzkový denník sa vedie o každom automobile a agregáte zaradenom v jednotke požiarnej ochrany; vedie ho určená osoba. Do denníka požiarneho automobilu sa denne zapisuje preberanie služby (platí len pre vozidlá zaradené do pohotovosti) a všetky jazdy a skúšky. Každú jazdu okrem vodiča podpisuje príslušný veliteľ, ktorý bol za výjazd zodpovedný. Určený príslušník alebo pracovník strojnej služby kontroluje vedenie denníka raz za mesiac.
 
-  - 21. Vozový zošit sa vedie o každom automobile. Do tohto zošitu sa zapisujú všetky údaje o technických a prevádzkových podmienkach v priebehu životnosti vozidla, napr. inventár, pneumatiky, technické prehliadky, opravy a údržby, havárie a iné skutočnosti, ktoré sa uvádzajú v predtlači. Určený príslušník alebo pracovník strojnej služby kontroluje vozový zošit najmenej raz za štvrťrok. Ak ide o špeciálne zásahové automobily určené na práce vo výškach, dokumentácia uvedená v bode 19 písm. a) a b) sa vedie o podvozkovej časti. O nadstavbovej časti týchto automobilov sa vedie dokumentácia podľa osobitného predpisu.<sup>8</sup>)
+  - 19. Vozový zošit sa vedie o každom automobile. Do tohto zošitu sa zapisujú všetky údaje o technických a prevádzkových podmienkach v priebehu životnosti vozidla, napr. inventár, pneumatiky, technické prehliadky, opravy a údržby, havárie a iné skutočnosti, ktoré sa uvádzajú v predtlači. Určený príslušník alebo pracovník strojnej služby kontroluje vozový zošit najmenej raz za štvrťrok. Ak ide o špeciálne zásahové automobily určené na práce vo výškach, dokumentácia uvedená v bode 19 písm. a) a b) sa vedie o podvozkovej časti. O nadstavbovej časti týchto automobilov sa vedie dokumentácia podľa osobitného predpisu.<sup>8</sup>)
 
-  - 22. Druhy kontrol a údržby požiarnej techniky sú:
+  - 20. Druhy kontrol a údržby požiarnej techniky sú:
 
     - a) denná kontrola,
 
@@ -64,18 +60,18 @@ Príloha č. 1 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
     - g) príprava na zimné a letné obdobie.
 
-  - 23. Denná kontrola sa vykonáva pri výmene zmien. Na požiarnej technike sa kontroluje najmä stav a čistota, spustenie a chod motorovej jednotky, množstvo olejov, mazacích, chladiacich a pohonných látok, funkcia bŕzd, riadenia, svetelných, signálnych a výstražných zariadení, stav a nahustenie pneumatík (vizuálne), množstvo hasiacich látok, množstvo prevádzkových kvapalín, úplnosť, upevnenie a uloženie výzbroje a príslušenstva. V priebehu používania sa kontroluje chod motora sluchom, funkčnosť meracích prístrojov, únik pohonných, mazacích a chladiacich látok a množstvo hasiacich látok. Po použití požiarnej techniky sa doplnia pohonné, mazacie, chladiace a hasiace látky, prepláchne čerpadlo (ak to situácia vyžaduje), doplní sa použitá alebo sa vymení poškodená výzbroj.
+  - 21. Denná kontrola sa vykonáva pri výmene zmien. Na požiarnej technike sa kontroluje najmä stav a čistota, spustenie a chod motorovej jednotky, množstvo olejov, mazacích, chladiacich a pohonných látok, funkcia bŕzd, riadenia, svetelných, signálnych a výstražných zariadení, stav a nahustenie pneumatík (vizuálne), množstvo hasiacich látok, množstvo prevádzkových kvapalín, úplnosť, upevnenie a uloženie výzbroje a príslušenstva. V priebehu používania sa kontroluje chod motora sluchom, funkčnosť meracích prístrojov, únik pohonných, mazacích a chladiacich látok a množstvo hasiacich látok. Po použití požiarnej techniky sa doplnia pohonné, mazacie, chladiace a hasiace látky, prepláchne čerpadlo (ak to situácia vyžaduje), doplní sa použitá alebo sa vymení poškodená výzbroj.
 
-  - 24. Týždenná kontrola sa zameriava okrem prác vykonávaných pri dennej kontrole najmä na kontrolu funkčnosti výškovej techniky, ako je činnosť podpier ramien plošiny, vysunutie súpravy rebríkov, funkčnosti prenosnej techniky, ako je činnosť penometov, odsávačov dymu, osvetľovacích agregátov, tlaku v pneumatikách a dotiahnutie matíc kolies.
+  - 22. Týždenná kontrola sa zameriava okrem prác vykonávaných pri dennej kontrole najmä na kontrolu funkčnosti výškovej techniky, ako je činnosť podpier ramien plošiny, vysunutie súpravy rebríkov, funkčnosti prenosnej techniky, ako je činnosť penometov, odsávačov dymu, osvetľovacích agregátov, tlaku v pneumatikách a dotiahnutie matíc kolies.
 
-  - 25. Mesačná kontrola sa zameriava okrem prác vykonávaných pri týždennej kontrole najmä na kontrolu stavu a čistoty akumulátorov, ich uloženia, množstva a hustoty elektrolytu, pohonu tachometra a tesnosti motora (vizuálne).
+  - 23. Mesačná kontrola sa zameriava okrem prác vykonávaných pri týždennej kontrole najmä na kontrolu stavu a čistoty akumulátorov, ich uloženia, množstva a hustoty elektrolytu, pohonu tachometra a tesnosti motora (vizuálne).
 
-  - 26. Štvrťročná kontrola sa zameriava okrem prác vykonávaných pri týždennej a mesačnej kontrole pri špeciálnej nadstavbe najmä na kontrolu reťazí paralelogramu a ich mazanie, na stav napnutia lán paralelogramu a čistotu jeho krúžkov, čistotu hydraulického oleja (vizuálne), čistotu permanentných magnetov, oleja v závitovkových skriniach na pohon otáčania, aretáciu perovania zadných náprav a dotiahnutia skrutiek svorkovníc; ak ide o motory a podvozky, najmä na kontrolu chodu motora sluchom, neporušenosť tesnosti potrubia a všetkých skrutkových spojov, stavu tesnosti gumových spojov a funkciu uzáverov plniacich a vypúšťacích otvorov, tesnosti a uloženia chladiča, tesnosti prevodových mechanizmov, tesnosti brzdovej sústavy, dotiahnutia spojov a vypustenia kondenzátu, vôle riadenia a funkčnosti odpojovača akumulátora.
+  - 24. Štvrťročná kontrola sa zameriava okrem prác vykonávaných pri týždennej a mesačnej kontrole pri špeciálnej nadstavbe najmä na kontrolu reťazí paralelogramu a ich mazanie, na stav napnutia lán paralelogramu a čistotu jeho krúžkov, čistotu hydraulického oleja (vizuálne), čistotu permanentných magnetov, oleja v závitovkových skriniach na pohon otáčania, aretáciu perovania zadných náprav a dotiahnutia skrutiek svorkovníc; ak ide o motory a podvozky, najmä na kontrolu chodu motora sluchom, neporušenosť tesnosti potrubia a všetkých skrutkových spojov, stavu tesnosti gumových spojov a funkciu uzáverov plniacich a vypúšťacích otvorov, tesnosti a uloženia chladiča, tesnosti prevodových mechanizmov, tesnosti brzdovej sústavy, dotiahnutia spojov a vypustenia kondenzátu, vôle riadenia a funkčnosti odpojovača akumulátora.
 
-  - 27. Umývanie požiarnej techniky A zahŕňa najmä umývanie karosérie, nadstavby a čerpadlovej časti po každom použití. Umývanie požiarnej techniky B zahŕňa najmä umývanie celého vozidla, motora, podvozku a čerpadla, nakonzervovanie podvozku a karosérie nadstavby; vykonáva sa raz za polrok.
+  - 25. Umývanie požiarnej techniky A zahŕňa najmä umývanie karosérie, nadstavby a čerpadlovej časti po každom použití. Umývanie požiarnej techniky B zahŕňa najmä umývanie celého vozidla, motora, podvozku a čerpadla, nakonzervovanie podvozku a karosérie nadstavby; vykonáva sa raz za polrok.
 
-  - 28. Mazanie požiarnej techniky a výmena olejov sa vykonáva v časových intervaloch a v rozsahu určenom výrobcom. Mazanie však treba vykonávať po každom umývaní B.
+  - 26. Mazanie požiarnej techniky a výmena olejov sa vykonáva v časových intervaloch a v rozsahu určenom výrobcom. Mazanie však treba vykonávať po každom umývaní B.
 
-  - 29. Príprava požiarnej techniky na sezónnu prevádzku sa vykonáva v čase od 1. do 31. októbra na zimné obdobie a od 1. do 30. apríla na letné obdobie. Do tejto prípravy sa zahŕňa najmä výmena olejov, ak sa nepoužívajú celoročné oleje, naplnenie chladiacou zmesou, ak sa táto zmes nepoužíva celý rok, výmena pneumatík, ak sa nepoužívajú univerzálne pneumatiky. Okrem uvedených činností sa pri príprave na zimné obdobie preskúšava funkčnosť vykurovacieho a vetracieho systému, pripraví zimný výstroj (reťaze, posypový materiál), namažú všetky stykové plochy pohyblivých súčastí vrátane ventilov, čapov pák a kĺbov. Počas zimného obdobia sa akumulátory udržiavajú v nabitom stave. Pri príprave na letné obdobie sa vyradí zimný výstroj z vozidla.
+  - 27. Príprava požiarnej techniky na sezónnu prevádzku sa vykonáva v čase od 1. do 31. októbra na zimné obdobie a od 1. do 30. apríla na letné obdobie. Do tejto prípravy sa zahŕňa najmä výmena olejov, ak sa nepoužívajú celoročné oleje, naplnenie chladiacou zmesou, ak sa táto zmes nepoužíva celý rok, výmena pneumatík, ak sa nepoužívajú univerzálne pneumatiky. Okrem uvedených činností sa pri príprave na zimné obdobie preskúšava funkčnosť vykurovacieho a vetracieho systému, pripraví zimný výstroj (reťaze, posypový materiál), namažú všetky stykové plochy pohyblivých súčastí vrátane ventilov, čapov pák a kĺbov. Počas zimného obdobia sa akumulátory udržiavajú v nabitom stave. Pri príprave na letné obdobie sa vyradí zimný výstroj z vozidla.
 
-  - 30. Spôsob vykonávania údržby a určenie jej časových intervalov určuje výrobca podvozku, nadstavby alebo agregátu. Pokyny výrobcov sú záväzné. Údržbu môžu vykonávať príslušníci, pracovníci alebo členovia jednotky požiarnej ochrany alebo ju možno vykonať dodávateľským spôsobom.
+  - 28. Spôsob vykonávania údržby a určenie jej časových intervalov určuje výrobca podvozku, nadstavby alebo agregátu. Pokyny výrobcov sú záväzné. Údržbu môžu vykonávať príslušníci, pracovníci alebo členovia jednotky požiarnej ochrany alebo ju možno vykonať dodávateľským spôsobom.

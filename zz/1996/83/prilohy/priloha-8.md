@@ -170,7 +170,7 @@ Príloha č. 8 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
 - | a inertným plynom, | | |
 
-- | 1) zásady zdolávania, požiarov v rôznych objektoch, | | |
+- | l) zásady zdolávania, požiarov v rôznych objektoch, | | |
 
 - | m) povinnosti a úlohy veliteľa zásahu, | | |
 
@@ -210,7 +210,7 @@ Príloha č. 8 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
 - | e) bezpečnosť práce v zamorenom prostredí, | | |
 
-- | i) bezpečnosť práce pri čerpaní a doprave vody, | | |
+- | í) bezpečnosť práce pri čerpaní a doprave vody, | | |
 
 - | g) bezpečnosť práce vo výškach, | | |
 
@@ -328,33 +328,21 @@ Príloha č. 8 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
 - | a) zákon č. 174/1968 Zb. o štátnom odbornom dozore nad | | |
 
-- | bezpečnosťou práce, | | |
+- | bezpečnosťou práce v znení neskorších predpisov, | | |
 
-- | b) vyhláška SÚBP č. 86/1978 Zb. o kontrolách, revíziách | | |
+- | b) vyhláška Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, | | |
 
-- | a skúškach plynových zariadení, | | |
+- | bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti, | | |
 
-- | c) vyhláška SÚBP a SBÚ č. 23/ 1979 Zb., ktorou sa určujú | | |
+- | c) vyhláška Slovenského úradu bezpečnosti práce č. 86/1978 Zb. o kontrolách, | | |
 
-- | vyhradené tlakové zariadenia a ustanovujú niektoré podmienky | | |
+- | revíziách a skúškach plynových zariadení v znení neskorších predpisov, | | |
 
-- | na zaistenie ich bezpečnosti, | | |
+- | d) STN 07 8304 Kovové tlakové nádoby na prepravu plynov – prevádzkové pravidlá, | | |
 
-- | d) vyhláška SÚBP a SBÚ č. 26/ 1979 Zb., ktorou sa určujú | | |
+- | e) STN 07 8510 Farebné označenie kovových tlakových nádob na plyny pre zdravotnícke účely, | | |
 
-- | vyhradené plynové zariadenia a ustanovujú niektoré podmienky | | |
-
-- | na zaistenie ich bezpečnosti, | | |
-
-- | e) STN 07 8304 Kovové tlakové nádoby na prepravu plynov - | | |
-
-- | prevádzkové pravidlá, | | |
-
-- | í) STN 07 8510 Farebné označenie kovových tlakových nádob na | | |
-
-- | plyny pre zdravotnícke účely, | | |
-
-- | g) STN 38 6405 Plynové zariadenia. Zásady pre prevádzkovanie. | | |
+- | f) STN 38 6405 Plynové zariadenia. Zásady prevádzkovania. | | |
 
 - 16. | Izolačné dýchacie prístroje | 8 | 6 | 3
 
@@ -438,7 +426,7 @@ Príloha č. 8 vyhlášky Ministerstva vnútra Slovenskej republiky č. 83/1996 
 
 - 22. | Organizácia a úlohy spojovacej služby | 4 | 3 | 1
 
-- | a) zákon č. 110/ 1964 Zb. o telekomunikáciách v znení | | |
+- | a) zákon č. 110/1964 Zb. o telekomunikáciách v znení | | |
 
 - | neskorších predpisov, | | |
 
