@@ -1,0 +1,3 @@
+# Čl. VI
+
+Táto vyhláška nadobúda účinnosť 1. júlom 1990.
