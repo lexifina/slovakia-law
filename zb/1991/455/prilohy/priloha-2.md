@@ -10,7 +10,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 2. | Montáž, rekonštrukcia, opravy, údržba, odborné prehliadky a odborné skúšky vyhradených technických zariadení a plnenie tlakových nádob na dopravu plynov vrátane nádrží motorových vozidiel plynom | oprávnenie | § 4 ods. 1 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení |
 
-- 3. | Montáž, opravy a rekonštrukcie vyhradených tlakových, zdvíhacích a plynových zariadení a vykonávanie revízií a skúšok týchto zariadení*) | oprávnenie | § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 485/1990 Zb.§ 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/ 1990 Zb.§ 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/ 1990 Zb.*) len v oblasti pôsobnosti dozoru štátnej banskej správy |
+- 3. | Montáž, opravy a rekonštrukcie vyhradených tlakových, zdvíhacích a plynových zariadení a vykonávanie revízií a skúšok týchto zariadení*) | oprávnenie | § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 485/1990 Zb. § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/ 1990 Zb. § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/ 1990 Zb. *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
 - 4. | Revízia vyhradených elektrických zariadení*) | osvedčenie | § 9 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
@@ -54,19 +54,19 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 214 - Ostatné | | | |
 
-- 19. | Letecká škola | osvedčenie | § 21 zák. č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov |
+- 19. | Zrušená od 1. 11. 2004. | | |
 
 - 20. | Vyučovanie v odbore cudzích jazykov | dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky, alebo preukázanie aspoň 10-ročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať | |
 
 - 21. | Vyučovanie v odbore umenia | dokončené štúdium na príslušnej umeleckej škole alebo spôsobilosť preukázaná 10-ročnou praktickou činnosťou v odbore | |
 
-- 22. | Poradenstvo, výchova a vzdelávanie v oblasti ochrany práce | oprávnenie | § 4 ods. 1 písm. i) zák. č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov |
+- 22. | Poradenstvo, výchova a vzdelávanie v oblasti ochrany práce | oprávnenie | § 4 ods. 1 písm. i) zák. č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov § 5 ods. 7 zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov. |
 
 - 23. | Prevádzkovanie vzdelávacích zariadení na prípravu vykonávania špecializovaných činností v oblasti telesnej kultúry | potvrdenie o akreditácii | § 11 ods. 4 zák. č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
 - 24. | Výkon špecializovaných činností v oblasti telesnej kultúry | doklad o odbornej spôsobilosti | § 2 ods. 1 a 5 vyhl. Ministerstva školstva Slovenskej republiky č. 257/1998 Z. z. o podmienkach získavania odbornej spôsobilosti na vykonávanie špecializovaných činností v oblasti telesnej kultúry |
 
-- 25. | Vykonávanie odbornej prípravy na úseku požiarnej ochrany | oprávnenie | § 24 ods. 4 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/ 1995 Z. z.§ 36 vyhl. Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona SNR o požiarnej ochrane v oblasti prevencie v znení vyhl. č. 86/1997 Z. z. |
+- 25. | Vykonávanie odbornej prípravy na úseku požiarnej ochrany | oprávnenie | § 24 ods. 4 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/ 1995 Z. z. § 36 vyhl. Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona SNR o požiarnej ochrane v oblasti prevencie v znení vyhl. č. 86/1997 Z. z. |
 
 - 26. | Preskúšavanie komínov | osvedčenie | § 3 písm. c) zák. č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zák. č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
@@ -78,7 +78,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 30. | Činnosť vykonávaná banským spôsobom*) | osvedčenie o odbornej spôsobilosti | § 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom*) v rozsahu § 3 písm. b) až i) zák. č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe |
 
-- 32. | Ničenie a zneškodňovanie výbušnín | preukaz pyrotechnika skupiny C, vek 21 rokov | § 15 ods. 2 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 78/1993 Z. z., ktorou sa ustanovujú požiadavky na zaistenie bezpečnosti a ochrany zdravia pri výrobe a spracúvaní výbušnín§ 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
+- 32. | Ničenie a zneškodňovanie výbušnín | preukaz pyrotechnika skupiny C, vek 21 rokov | § 15 ods. 2 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 78/1993 Z. z., ktorou sa ustanovujú požiadavky na zaistenie bezpečnosti a ochrany zdravia pri výrobe a spracúvaní výbušnín § 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
 - 33. | Vykonávanie ohňostrojových prác | preukaz odpaľovača ohňostrojov | § 4 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
