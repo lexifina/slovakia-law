@@ -1,0 +1,1 @@
+- 1) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
