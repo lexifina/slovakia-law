@@ -2,7 +2,7 @@
 
 # § 88b
 
-(1) Pri odhaľovaní, zisťovaní a usvedčovaní páchateľov trestných činov uvedených v osobitnom zákone, trestných činov korupcie a trestného činu podľa § 158 Trestného zákona možno použiť agenta. Jeho použitie je prípustné len vtedy, ak odhaľovanie, zisťovanie a usvedčovanie páchateľov uvedených trestných činov by bolo iným spôsobom podstatne sťažené a získané poznatky odôvodňujú podozrenie z trestnej činnosti alebo úmyslu osoby spáchať takýto trestný čin.
+(1) Pri odhaľovaní, zisťovaní a usvedčovaní páchateľov obzvlášť závažných trestných činov, korupcie a trestného činu podľa § 158 Trestného zákona možno použiť agenta. Jeho použitie je prípustné len vtedy, ak odhaľovanie, zisťovanie a usvedčovanie páchateľov uvedených trestných činov by bolo iným spôsobom podstatne sťažené a získané poznatky odôvodňujú podozrenie z trestnej činnosti alebo úmyslu osoby spáchať takýto trestný čin.
 
 (2) Neprípustnou činnosťou agenta je, ak sám iniciatívne
 
@@ -28,4 +28,4 @@
 
 (11) O skutočnostiach dôležitých pre trestné konanie môže agenta v prípravnom konaní vyslúchnuť prokurátor pri primeranom použití ustanovenia § 101b ods. 3 tak, aby jeho totožnosť nemohla byť odhalená. Agent môže byť vyslúchaný na súde len pri primeranom použití ustanovení § 101 ods. 5, § 101b ods. 3 a § 209 Trestného poriadku tak, aby jeho totožnosť nemohla byť odhalená. Doručenie predvolania na hlavné pojednávanie agentovi zabezpečí príslušník Policajného zboru poverený prezidentom Policajného zboru.
 
-(12) Skutočnosti týkajúce sa trestných činov nesúvisiacich s vecou, v ktorej bol agent použitý, môžu sa v inom konaní použiť ako dôkaz iba vtedy, ak ide o trestný čin uvedený v osobitnom zákone<sup>2</sup>) alebo o korupciu.
+(12) Skutočnosti týkajúce sa trestných činov nesúvisiacich s vecou, v ktorej bol agent použitý, môžu sa v inom konaní použiť ako dôkaz iba vtedy, ak ide o obzvlášť závažný trestný čin, korupciu a trestný čin podľa § 158 Trestného zákona.
