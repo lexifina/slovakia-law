@@ -1,0 +1,3 @@
+# Čl. 2
+
+Toto nariadenie vlády nadobúda účinnosť dňom vyhlásenia.
