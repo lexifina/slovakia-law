@@ -14,7 +14,9 @@
 
 - 8) § 24 ods. 1 písm. b) a písm. n) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
-- 9) § 54 ods. 8 až 13 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 118/2002 Z. z.
+- 8a) § 54a ods. 14 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 445/2003 Z. z.
+
+- 9) § 54a ods. 1 až 13 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 445/2003 Z. z.
 
 - 10) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
