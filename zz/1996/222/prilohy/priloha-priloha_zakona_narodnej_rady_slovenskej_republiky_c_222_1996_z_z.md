@@ -190,32 +190,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 109. | | zák. SNR č. 330/1991 Zb. v znení neskorších predpisov | § 13 ods. 4 | rozhoduje o námietkach proti projektu pozemkových úprav
 
-- 110. | štátna veterinárna starostlivost | zák. SNR č. 11/1992 Zb. v znení neskorších predpisov | § 6 písm. a) | vydáva pokyny a posudky platné pre viaceré okresy kraja alebo pre celý kraj a dozerá na ich plnenie
-
-- 111. | | | § 6 písm. b) | koordinuje a kontroluje postupy prevencie a eradikácie velmi nebezpecných a nebezpecných nákaz podla pokynov štátnej veterinárnej správy a ústrednej protinákazovej komisie
-
-- 112. | | | § 6 písm. c) | kontroluje výkon ochrany zdravia zvierat pred nákazami a hromadne sa vyskytujúcimi ochoreniami podla pokynov štátnej veterinárnej správy
-
-- 113. | | | § 6 písm. d) | urcuje veterinárne podmienky na konanie zvodov zvierat, na ktorých sa sústredujú zvieratá z viacerých okresov
-
-- 114. | | | § 6 písm. e) | zabezpecuje dalšie vzdelávanie veterinárnych lekárov a ostatných pracovníkov v oblasti veterinárnej starostlivosti
-
-- 115. | | | § 6 písm. í) | kontroluje plnenie veterinárnych podmienok, ktoré urcila štátna veterinárna správa na veterinárnu ochranu štátneho územia
-
-- 116. | | | § 6 písm. g) | kontroluje výkon štátnej správy na úseku veterinárnej farmácie na okresných úradoch
-
-- 117. | | | § 6 písm. h) | koordinuje a kontroluje úlohy vyplývajúce z osobitných predpisov
-
-- 118. | | | § 6 písm. i) | spolupracuje s orgánmi na ochranu zdravia a s inými orgánmi potravinového dozoru
-
-- 119. | | | § 6 písm. j) | urcuje územnú a vecnú pôsobnost neštátnych zariadení na úseku veterinárnej starostlivosti a v spolupráci s okresnými úradmi vykonáva ich kontrolu
-
-- 120. | štátna veterinárna starostlivost | zák. SNR č. 11/1992 Zb. v znení neskorších predpisov | § 6 písm. k) | pri výskyte nákaz a hromadných ochorení poveruje pracovníkov odborných veterinárnych služieb osobitnými úlohami
-
-- 121. | | | § 6 písm. l) | zabezpecuje zber a spracovanie informácií o veterinárnej cinnosti okresných úradov v kraji, ktoré nariadila štátna veterinárna správa
-
-- 122. | | | § 6 písm. m) | zabezpecuje plnenie úloh obrany štátu na úseku veterinárnej starostlivosti
-
 - 133. | verejné a koncesné obstarávanie | zák. NR SR č. 263/1993 Z. z. v znení neskorších predpisov | § 21 ods. 2 písm. a) | dohliada na dodržiavanie tohto zákona a upozornuje obstarávatela, prípadne nadriadený orgán obstarávatela, na zistené nedostatky
 
 - 134. | | | § 21 ods. 2 písm. b) | dohliada na pripravenost obstarávania akcií limitovaných v § 4 ods. 2 písm. b)
