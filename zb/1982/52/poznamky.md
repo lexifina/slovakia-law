@@ -1,0 +1,1 @@
+- 1) Pôsobnosť uvedená v položkách 6, 7 a 8 prílohy bola prenesená na mestské národné výbory zákonom Slovenskej národnej rady č. 159/1971 Zb., ktorým sa mení a dopĺňa zákon o národných výboroch a upravuje pôsobnosť národných výborov na niektorých úsekoch štátnej správy.

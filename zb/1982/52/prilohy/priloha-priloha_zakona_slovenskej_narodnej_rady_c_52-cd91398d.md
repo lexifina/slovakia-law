@@ -1,0 +1,51 @@
+Príloha zákona Slovenskej národnej rady č. 52/1982 Zb., ktorým sa mení a dopĺňa zákon o národných výboroch a upravuje pôsobnosť miestnych národných výborov v strediskových obciach Pol. | Na úseku štátnej správy | sa prenáša na miestne národné výbory v strediskových obciach pôsobnosť patriaca okresným národným výborom | |
+
+| | podľa | | Predmet pôsobnosti
+
+| | právneho predpisu | ustanovenia |
+
+1 | 2 | 3 | 4 | 5
+
+1 | poľnohospodárstva | zák. SNR č. 78/1976 Zb. | § 3 ods. 1 písm. b) | zisťovanie pozemkov v obci, ktoré by sa mali vyhlásiť za súčasť poľnohospodárskeho pôdneho fondu, ich vyhlasovanie za súčasť tohto fondu a uskutočňovanie opatrení na ich využitie na poľnohospodársku výrobu
+
+2 | | vyhl. č. 342/1951 Ú. v. I | § 1 ods. 3 | vydávanie povolení na zriadenie včelích oplodňovacích staníc
+
+3 | | vyhl. č. 342/1951 Ú. v. I | § 2 | povoľovanie výnimky chovať iné včelstvá v chránenom obvode oplodňovacej stanice
+
+4 | | zák. č. 102/1963 Zb. vyhl. č. 103/1963 Zb. | § 9 ods. 4 § 9 ods. 1 a 2 | schvaľovanie rybárskeho hospodára a jeho zástupcu pre rybársky revír a vydávanie preukazov rybárskemu hospodárovi a jeho zástupcovi a prijímanie hlásení od rybárskeho hospodára o závadách v rybárskom hospodárení
+
+5 | | zák. č. 102/1963 Zb. vyhl. č. 103/1963 Zb. | § 18 § 49 ods. 2 § 50 ods. 2 a 3 § 51 ods. 3 § 52 | schvaľovanie rybárskej stráže, ktorá na ňom zloží sľub, vydávanie osvedčení o schválení rybárskej stráže a o vykonaní sľubu, vedenie zoznamov rybárskych stráží, vydávanie služobného odznaku rybárskej stráži, preberanie osvedčení a služobného odznaku od rybárskej stráže, ktorá prestala vykonávať ochrannú službu a prijímanie oznámenia organizácie o zániku tejto funkcie
+
+6 | hospodárenia s bytmi a nebytovými priestormi | zák. č. 41/1964 Zb. | § 57 ods. 1 | dávanie súhlasu na výnimočné rozdelenie bytu na dva alebo viac samostatných bytov
+
+7 | | zák. č. 41/1964 Zb. | § 57 ods. 2 | dávanie súhlasu na užívanie bytu alebo jeho časti na iné účely ako na bývanie
+
+8 | | zák. č. 41/1964 Zb. | § 67 ods. 3 | rozhodovanie o tom, či určitý byt má povahu služobného bytu
+
+9 | | smernice uverejnené v čiastke 42/1959 Ú. v. | časť I bod 2 | rozhodovanie o pridelení nebytových miestností orgánom alebo organizáciám pôsobiacim v strediskovej obci, ak v jednotlivom prípade nepresahuje ich podlahová plocha 500 m<sup>2</sup>
+
+10 | dopravy | zák. č. 68/1979 Zb. vyhl. č. 100/1975 Zb. | § 29 ods. 2 písm. a) § 33 ods. 1 | udelenie povolenia na dopravu viacerých ako 6 osôb v ložnom priestore motorového vozidla určeného na nákladnú dopravu, ak doprava nemá presahovať obvod pôsobnosti okresného národného výboru, a ak nejde o dopravu nebezpečných vecí
+
+11 | | zák. č. 68/1979 Zb. | § 29 ods. 2 písm. b) | udeľovanie povolenia na vykonávanie cestnej dopravy nemotorovými vozidlami
+
+12 | sociálneho zabezpečenia | zák. SNR č. 132/1975 Zb. | § 8 písm. a) bod 8 | rozhodovanie o podpore pri narodení dieťaťa dôchodkyni alebo manželke, príp. inej rodinnej príslušníčke nepracujúceho dôchodcu
+
+13 | | zák. SNR č. 132/1975 Zb. | § 8 písm. a) bod 9 | rozhodovanie o príspevku na rekreáciu detí nepracujúceho dôchodcu
+
+14 | | zák. SNR č. 132/1975 Zb. | § 8 písm. a) bod 10 | rozhodovanie o pohrebnom pri úmrtí nepracujúceho dôchodcu, príp. člena jeho rodiny
+
+15 | | zák. č. 132/1975 Zb. | § 8 písm. a) bod 11 | rozhodovanie o pohrebnom pri úmrtí jednotlivo hospodáriaceho roľníka, spolupracujúceho člena jeho rodiny alebo rodinného príslušníka
+
+16 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 15 písm. a) bod 3 § 23 a 24 | rozhodovanie o poskytnutí vecnej pomoci a peňažných príspevkov v starostlivosti o rodinu a deti
+
+17 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 15 písm. c) § 18 ods. 3 | vykonávanie určeného dohľadu nad deťmi
+
+18 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 18 písm. a) bod 3 § 18 ods. 1 a 2 | rozhodovanie o uložení obmedzenia maloletému, ktoré zabráni škodlivým vplyvom na jeho výchovu
+
+19 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 18 písm. b) § 14 ods. 1 | plnenie úloh pri koordinácii činnosti orgánov pôsobiacich v starostlivosti o rodinu a deti
+
+20 | | zák. SNR č. 132/1975 Zb. | § 32 | poskytovanie vecnej pomoci a peňažných príspevkov občanom, ktorí sa v dôsledku mimoriadnych udalostí ocitli v osobitne ťažkých pomeroch a nemôžu ich prekonať vlastným pričinením ani za pomoci svojej rodiny
+
+21 | | zák. SNR č. 132/1975 Zb. vyhl. č. 134/1975 Zb. | § 33 § 48 ods. 1 a 2 § 49 ods. 1 § 51 ods. 1 a 2 | poskytovanie výchovnej starostlivosti, poradenskej služby a podľa potreby aj vecnej pomoci a peňažných príspevkov občanom, ktorí žijú v mimoriadne ťažkých pomeroch, a preto potrebujú pomoc spoločnosti na prekonanie dôsledkov a návykov prameniacich z rozdielneho spôsobu života v minulosti
+
+22 | požiarnej ochrany | zák. č. 18/1958 Zb. | § 7 | rozhodovanie o vylúčení z užívania vecí ohrozujúcich svojimi nedostatkami požiarnu bezpečnosť ľudí alebo majetku, a to v objektoch, v ktorých sú oprávnené vykonávať protipožiarne prehliadky.
