@@ -8,7 +8,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - 1. Poplatky podľa položiek tohto oddielu vyberajú národné výbory.
 
-  - 2. Národný výbor bezprostredne nadriadený národnému výboru príslušnému na vyrubenie alebo vybranie poplatku môže v jednotlivých odôvodnených prípadoch na zamedzenie alebo na zmiernenie tvrdosti, prípadne z dôvodu všeobecného záujmu znížiť alebo odpustiť poplatok vyberaný podľa tohto oddielu.
+  - 2. Okresný národný výbor môže v jednotlivých odôvodnených prípadoch na zamedzenie alebo zmiernenie tvrdosti, prípadne z dôvodu všeobecného záujmu znížil alebo odpustiť poplatok vyberaný podľa tohto oddielu.
 
     - Položka 1
 
@@ -66,6 +66,10 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - b) Uzavretie manželstva medzi československým štátnym občanom alebo cudzincom, ktorý má na území Československej socialistickej republiky povolený trvalý pobyt, a cudzincom, ktorý má na území Československej socialistickej republiky povolený iný než trvalý pobyt | Kčs 250,-
 
+  - Poznámka: |
+
+  - Pokiaľ dôjde k uzavretiu manželstva pred iným než príslušným národným výborom, poplatok podľa písmena b) tejto položky vyberie príslušný (delegujúci) národný výbor, ktorý pripravil podklady pre uzavretie manželstva. |
+
     - Položka 5
 
   - Vydanie poľovného lístku alebo predĺženie jeho platnosti: |
@@ -100,17 +104,15 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 8
 
-  - Vydanie povolenia: |
-
-  - a) Vydanie povolenia (rozhodnutia o registrácii) občanom na poskytovanie služieb, na predaj tovaru alebo na inú činnosť | Kčs 100,-
+  - a) Vydanie rozhodnutia o registrácii na prevádzkovanie podnikateľskej činnosti | Kčs 120,-
 
   - b) Vydanie povolenia na výrub stromov rastúcich mimo lesa |
 
-  - - občanom | Kčs 20,-
+  - - fyzickým osobám | Kčs 20,-
 
-  - - organizáciám | Kčs 500,-
+  - - právnickým osobám | Kčs 500,-
 
-  - Splnomocnenie |
+  - Splnomocnenie: |
 
   - 1. Správny orgán zníži poplatok podľa písmena a) tejto položky na štvrtinu, ak sa povolenie vydáva na kratší čas ako 5 dní. |
 
@@ -118,29 +120,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 9
 
-  - Vydanie povolenia občanom na vykonávanie prác na projektovej dokumentácií stavby (vždy len pre určitú stavbu): |
-
-  - a) ak sú investormi organizácie (okrem národných výborov) | Kčs 300,-
-
-  - b) ak sú stavebníkmi občania a ak ide: | Kčs 300,-
-
-  - - o rodinný domček alebo o objekt individuálnej rekreácie nad 16 m<sup>2</sup> zastavanej plochy | Kčs 300,-
-
-  - - o garáž s jedným stojiskom | Kčs 100,-
-
-  - - o garáž s viac než jedným stojiskom | Kčs 50,- za každé druhé a ďalšie stojisko
-
-  - - o rekonštrukcie, nadstavby a prístavby a úpravy pri stavebných nákladoch rozpočtovaných nad 20 tis. Kčs | Kčs 200,-
-
-  - c) ak sú stavebníkmi občania a ak ide o stavby uvedené pod písmenom b) alebo o osadenie stavby do terénu, pripojenie na príslušné inžinierske siete (kanalizácia, elektrina a pod.) schválených typových podkladov, vyhlásených opakovateľných a vzorových projektov a katalógových riešení alebo ak sú investormi národné výbormi | Kčs 50,-
-
-  - Poznámky: |
-
-  - 1. Ak ide o vydanie povolenia na vykonávanie prác na projektovej dokumentácií hromadných alebo skupinových garáží pre socialistické organizácie, vyberie sa poplatok podľa písmena a) tejto položky. |
-
-  - 2. Ak ide o vydanie povolenia na vykonávanie prác na projektovej dokuntácií vlastnej stavby, prípadne stavby príbuzných v priamom rade, vyberie sa poplatok podľa písmena c) tejto položky. |
-
-  - 3. Ak povolenie na vykonávanie prác na projektovej dokumentácií stavby zahŕňa projektovanie viacerých samostatných objektov, vyberie sa iba jeden poplatok, a to v najvyššej sadzbe, ktorá je ustanovená pre niektorý z objektov uvedených v povolení. |
+    - zrušené od 1. 8. 1990
 
     - ODDIEL B
 
@@ -180,7 +160,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - d) o registráciu na výcvik vodičov cestných motorových vozidiel | Kčs 200,-
 
-  - e) o vydanie priepustky do hraničného pásma alebo o predĺženie jej platnosti | Kčs 20,-
+  - e) zrušené od 1. 8. 1990 |
 
   - f) o vydanie výnimky z ochranných ppodmienok chránených území |
 
@@ -192,7 +172,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - Oslobodenie: |
 
-  - 1. Od poplatku podľa písmena e) tejto položky sú oslobodené osoby, ktorým sa priepustka vystavuje za účelom výkonu zamestnania, a deti do 15 rokov. |
+  - zrušené od 1. 8. 1990 |
 
   - 2. Od poplatku podľa písmena f) tejto položky sú oslobodení žiadatelia vykonávajúci v chránenom území vedeckovýskumnú činnosť a činnosť v záujme ochrany územia. |
 
@@ -204,19 +184,23 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - a) Povolenie vecnej lotérie alebo tombol z hernej listiny | 10 %, najmenej Kčs 50,-
 
-  - b) Povolenie pevádzkovať hracie prístroje - za každý prístroj | Kčs 1000,- až 2000,-
+  - b) Povolenie na prevádzkovanie hracích prístrojov za každý prístroj | Kčs 20 000,-
 
-  - c) Povolenie prevádzkovať ostatné stávkové hry (rulety a pod.) z výher dosiahnutých prevádzkovateľom | 10 %, najmenej Kčs 1000,-
+  - c) Povolenie na prevádzkovanie ostatných stávkových hier (rulety a pod.), z výher dosiahnutých prevádzkovateľom | 10 %, najmenej Kčs 1000,-
+
+  - Splnomocnenie: |
+
+  - 1. Správny orgán, ktorý vydal povolenie na prevádzkovanie hracích prístrojov podľa písmena b) tejto položky, zníži sadzbu poplatku o 50 %, ak ide o povolenie na dobu kratšiu ako 6 mesaciov. |
+
+  - 2. Správny orgán môže v odôvodnených prípadoch vzhľadom na miestne podmienky poskytnúť úľavu pri poplatku podľa písmena b) tejto položky vo výške 25 % uvedenej sadzby. |
 
   - Poznámky: |
 
-  - 1. Poplatok podľa písmena a) tejto položky sa paltí bez vyrubenia na ústnu alebo písomnú výzvu, ak úkon vykonáva národný výbor. |
+  - 1. Poplatok podľa písmena a) tejto položky sa platí bez vyrubenia na ústnu alebo písomnú výzvu, ak úkon vykonáva národný výbor. |
 
   - 2. Poplatok podľa písmena c) tejto položky sa vyrubuje až po vykonaní úkonu, a to každoročne za predchádzajúci rok, po celú dobu platnosti vydaného povolenia. |
 
-  - 3. Poplatky podľa tejto položky sa vyrubujú a vyberajú podľa vyhlášky o správnych poplatkoch platnej v čase vydania povolenia. |
-
-  - 4. Za povolenie prevádzky hracích prístrojov na zahraničnú menu sa vyberie poplatok vo výške trojnásobku hornej hranice sadzby. |
+  - 3. Poplatok podľa písmena b) tejto položky sa vyrubuje a vyberá podľa vyhlášky platnej v dobe vydania povolenia. |
 
     - Položka 14
 
@@ -248,7 +232,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - Oslobodenie: |
 
-  - Od poplatku podľa písmen b) a c) tejto položky sú oslobodené socialistické organizácie vyvíjajúce, vyrábajúce alebo opravujúce zbrane a strelivo, ak ide o strelnice zriaďované na skúšky zbraní a streliva. |
+  - Od poplatku podľa písmen b) a c) tejto položky sú oslobodené organizácie vyvíjajúce, vyrábajúce alebo opravujúce zbrane a strelivo, ak ide o strelnice zriaďované na skúšky zbraní a streliva. |
 
     - Položka 17
 
@@ -274,7 +258,9 @@ Príloha vyhlášky č. 231/1988 Zb.
 
   - 3. Poplatky podľa tejto položky sa nevyberajú, ak správny orgán schvaľuje technickú spôsobilosť motorového alebo prípojného vozidla po odcudzení. |
 
-  - Poznámky: |
+  - 4. Správny orgán zníži poplatok na 400 Kčs, ak ide o vozidlo jednotlivo dovezené z cudziny vybavené funkčným riadeným trojcestným katalyzátorom.
+
+  - Poznámky: | |
 
   - 1. Podľa tejto položky sa vyberie poplatok aj v prípadoch, ak správny orgán schvaľuje technickú spôsobilosť motorového vozidla alebo prípojného vozidla, ktoré bolo trvale vyradené z evidencie alebo bolo dovezené jednotlivo z cudziny. |
 
@@ -716,7 +702,9 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - Položka 39
 
-    - zrušené od 20. 2. 1990
+  - a) Vydanie povolenia na podnikanie žiadateľovi, ktorý nemá trvalé bydlisko (sídlo) na území Českej a Slovenskej Federatívnej Republiky | Kčs 500,-
+
+  - b) Vydanie povolenia na prevádzkovanie cestovných kancelárii | Kčs 500,-
 
     - Položka 40
 
@@ -940,7 +928,7 @@ Príloha vyhlášky č. 231/1988 Zb.
 
       - Položka 62
 
-    - a) Vydanie povolenia na neobchodný vývoz vecí | 3 % až 300 % najmenej 20,- Kčs
+    - a) Vydanie povolenia na neobchodný vývoz vecí do voľného obehu | 3 % až 500 % najmenej 20,- Kčs
 
     - b) Predĺženie platnosti povolenia na neobchodný vývoz | Kčs 20,-
 
@@ -986,6 +974,8 @@ Príloha vyhlášky č. 231/1988 Zb.
 
     - - na zriadenie organizačnej složky čs. osoby v zahraničí | Kčs 2000,- až 25 000,-
 
+    - - povolenie podniku so zahraničnou majetkovou účasťou | Kčs 1000,- až 25 000,-
+
     - Splnomocnenie: |
 
     - Podľa zásady vzájomnosti alebo z dôvodu všeobecného záujmu môže správny orgán od vyberania poplatku podľa tejto položky upustiť alebo ho znížiť. v odôvodnených prípadoch môže správny orgán zvýšiť hornú hranicu sadzby poplatkov podľa tejto položky až do výšky dvojnásobku. |
@@ -993,6 +983,10 @@ Príloha vyhlášky č. 231/1988 Zb.
     - Poznámka: |
 
     - Poplatok podľa tejto položky je splatný pred registráciou povolenia.
+
+      - Položka 64A
+
+    - Za udelenie úradného povolenia na dovoz a vývoz tovaru a služieb | Kčs 2000,-
 
       - Položka 65
 
