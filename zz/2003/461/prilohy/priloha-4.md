@@ -342,7 +342,7 @@ Príloha č. 4 k zákonu č. 461/2003 Z. z.
 
   - 6. | Mentálna retardácia |
 
-  - | a) ľahká mentálna retardácia (horné, stredné a dolné pásmo, IQ v pásme 50 - 69, s prihliadnutím na sociálnu prispôsobivosť) | 20-30
+  - | a) ľahká mentálna retardácia (horné, stredné a dolné pásmo, IQ v pásme 50 - 69, s prihliadnutím na sociálnu prispôsobivosť) | 40-60
 
   - | b) stredná mentálna retardácia (IQ v pásme 35 - 49) | 80
 
