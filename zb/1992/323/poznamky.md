@@ -1,5 +1,7 @@
 - 1) Napr. Občiansky súdny poriadok.
 
+- 1a) Zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov.
+
 - 2) § 2 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
 - 2a) Zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení neskorších predpisov. Zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov. Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov. Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
