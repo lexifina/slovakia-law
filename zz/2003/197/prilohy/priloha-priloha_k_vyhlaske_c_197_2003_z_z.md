@@ -150,6 +150,8 @@ Príloha k vyhláške č. 197/2003 Z. z.
 
 - 246 | FI | FÍN | Fínsko Fínska republika | Finland Republic of Finland
 
+- 248 | AX | ALA | Alandy Alandy | Ăland Islands Ăland Islands
+
 - 250 | FR | FRA | Francúzsko Francúzska republika | France French Republic
 
 - 254 | GF | GUF | Francúzska Guyana Zámorský departmán Francúzskej Guyany | French Guiana French Guiana
@@ -478,8 +480,10 @@ Príloha k vyhláške č. 197/2003 Z. z.
 
 - 887 | YE | YEM | Jemen Jemenská republika | Yemen Republic of Yemen
 
-- 891 | YU | YUG | Srbsko a Čierna Hora Srbsko a Čierna Hora | Serbia and Montenegro Serbia and Montenegro
+- 891 | CS | SCG | Srbsko a Čierna Hora Srbsko a Čierna Hora | Serbia and Montenegro Serbia and Montenegro
 
 - 894 | ZM | ZMB | Zambia Zambijská republika | Zambia Republic of Zambia
 
 - 896 | | | Oblasti inde nešpecifikované Oblasti inde nešpecifikované | Areas not elsewhere specified Areas not elsewhere specified
+
+- 898 | | | Nešpecifikované Nešpecifikované | Not specified Not specified
