@@ -1,6 +1,8 @@
-- 1) Zákon SNR č. 149/1975 Zb. o archívnictve.
+- 1a) Zákon SNR č. 149/1975 Zb. o archívnictve.
 
-- 1) Zákon č. 119/1992 Zb. o cestovných náhradách.
+- 1a) Zákon č. 119/1992 Zb. o cestovných náhradách.
+
+- 1) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 2) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 33/1984 Zb. o cestovných náhradách v znení neskorších predpisov.
 
