@@ -1,0 +1,3 @@
+Ministr:
+
+Nikodým v. r.
