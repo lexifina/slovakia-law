@@ -1,4 +1,6 @@
-- 1) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1a) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 1a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
