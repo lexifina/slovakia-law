@@ -152,7 +152,7 @@
 
 - 23) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 23a) § 580 Občianskeho zákonníka.
+- 23a) § 8 ods. 5 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 24) Zákon Slovenskej národnej rady č. 322/l992 Zb. o štátnej štatistike v znení neskorších predpisov.
 
