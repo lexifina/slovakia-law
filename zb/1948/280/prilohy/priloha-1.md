@@ -4,6 +4,8 @@ Príloha k § 2 ods. 2 zákona č. 289/1948 Sb.
 
 Územie jednotlivých okresov sa upravuje tak, ako je ustanovené v časti I prílohy nariadenia č. 3/1949 Sb.
 
+Hranice krajov a okresov, určené týmto zákonom a vládnym nariadením č. 3/1949 Sb., o územnej organizácii okresov v českých zemiach, sa upravujú tak, ako je určené v prílohe k nariadeniu č. 119/1950 Sb.
+
 1. Pražský kraj.
 
 Sídlo krajského národného výboru je v Prahe.
