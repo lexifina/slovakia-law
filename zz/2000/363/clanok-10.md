@@ -1,0 +1,9 @@
+# Článok 10 Riešenie sporov medzi investorom a prijímajúcim štátom
+
+- 1. Akýkoľvek spor, ktorý vznikne medzi zmluvnou stranou a investorom druhej zmluvnej strany v súvislosti s investíciou, vrátane sporov z vyvlastnenia alebo zo znárodnenia sa bude podľa možnosti riešiť mimosúdnym urovnaním.
+
+- 2. Ak sa spor takýmto spôsobom nevyrieši do šiestich mesiacov odo dňa, keď jedna zo strán požiadala o mimosúdne urovnanie, môže ho dotknutý investor predložiť buď príslušnému súdu zmluvnej strany, alebo medzinárodnému rozhodcovskému súdu. Obe zmluvné strany sa zaväzujú pristúpiť na arbitrážne konanie. V takomto prípade sa použijú príslušné ustanovenia článku 9 ods. 3 až 8 mutatis mutandis. Jednako však predseda Medzinárodného rozhodcovského súdu Medzinárodnej obchodnej komory v Paríži bude požiadaný o vykonanie potrebných vymenovaní aj v prípade, že rozhodcovský súd určí svoje pravidlá s prihliadnutím na vtedy platné rozhodcovské pravidlá Komisie Organizácie Spojených národov pre medzinárodné obchodné právo (UNCITRAL). Rozhodcovský nález bude záväzný a aplikovateľný v súlade s vnútroštátnym právom.
+
+- 3. Zmluvná strana, ktorá je stranou v spore, nevznesie počas rozhodcovského konania alebo výkonu rozhodcovského nálezu námietku v prípade, ak dotknutý investor druhej zmluvnej strany dostal na základe poistnej zmluvy náhradu za celú škodu alebo za časť škody, ktorú utrpel.
+
+- 4. V prípade, že obe zmluvné strany sú stranami Dohovoru o riešení sporov z investícií medzi štátmi a občanmi iných štátov z 18. marca 1965, môže byť spor medzi zmluvnou stranou a investorom druhej zmluvnej strany v súlade s prvým odsekom tohto článku a na základe žiadosti dotknutého investora postúpený na vyriešenie formou zmierenia alebo arbitrážneho konania Medzinárodnému stredisku pre riešenie sporov z investícií.
