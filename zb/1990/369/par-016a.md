@@ -1,0 +1,3 @@
+# § 16a Spoločný obecný úrad
+
+Ak na základe dohody medzi obcami zriadi viac obcí spoločný obecný úrad, súčasťou dohody sú aj pravidlá financovania jeho činnosti, určenie jeho sídla a počtu pracovníkov, vymedzenie vzťahov k orgánom jednotlivých obcí a určenie, ktorý starosta obce bude štatutárnym orgánom v majetkovoprávnych veciach týkajúcich sa činnosti spoločného obecného úradu a v pracovnoprávnych vzťahoch týkajúcich sa pracovníkov v spoločnom obecnom úrade, ako aj ďalšie potrebné veci. Na platnosť dohody je potrebná trojpätinová väčšina všetkých členov obecného zastupiteľstva každej obce, ktorá je účastníkom dohody.
