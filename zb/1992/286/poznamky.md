@@ -190,6 +190,8 @@
 
 - 29b) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 29c) Opatrenie Štatistického úradu Slovenskej republiky č. 172/1995 Z. z., ktorým sa vyhlasuje klasifikácia produkcie.
+
 - 30) § 1 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení neskorších predpisov.
 
 - 30a) Napr. § 67, 124 a 217 Obchodného zákonníka.
