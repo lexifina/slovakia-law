@@ -1,0 +1,5 @@
+Príloha k zákonu č. 472/2002 Z. z.
+
+- Zoznam preberaných právne záväzných aktov Európskych spoločenstiev a Európskej únie
+
+  - Smernica Rady 77/799/EHS z 19. decembra 1977 o vzájomnej pomoci príslušných úradov členských štátov v oblasti priamych daní (Úradný vestník Európskych spoločenstiev, L 336, 27.12.1977) – zmenená smernicou Rady 79/1070/EHS zo 6. decembra 1979 (Úradný vestník Európskych spoločenstiev, L 331, 27.12.1979), smernicou Rady 92/12/EHS z 25. februára 1992 (Úradný vestník Európskych spoločenstiev, L 076, 23.3.1992) a smernicou Rady 2003/93/ES zo 7. októbra 2003 (Úradný vestník Európskej únie, L 264, 15.10.2003).
