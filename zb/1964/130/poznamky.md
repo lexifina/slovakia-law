@@ -1,1 +1,0 @@
-- *) Vyhláška č. 208/1957 Ú. l. (Ú. v.) o hospodárení s obalmi pri obehu tovaru.
