@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 25/2004 Z. z. [Vzor 06 - Návrh na zápis zmeny zapísaných údajov o komanditnej spoločnosti do obchodného registra](../assets/248e52679dfadc47bc7cc1ce9021c20d6ffcb3360a95636cd76e945efcac6948.pdf)
