@@ -90,7 +90,7 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - 1002 00 | raž | 10 000 | tona
 
-- 1003 00 80 | jačmeň ostatný | | tona
+- 1003 00 90 | jačmeň ostatný | | tona
 
 - 1004 00 | ovos | | tona
 
@@ -220,61 +220,57 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - Drevo a drevené výrobky | | |
 
-- 4401 10 00 | palivové drevo (polená, kláty, vetvy, viazanice a pod.) dĺžky 1 m a viac | 20 000 | m<sup>3</sup>
+- 4401 10 00 | palivové drevo (polená, kláty, vetvy, viazanice a pod.) | 20 000 | m<sup>3</sup>
 
 - 4403 10 10 | stĺpy ihličnaté surové a impregnované | 30 000 | m<sup>3</sup>
 
-- 4403 20 00 | vlákninové a ostatné priemyselné drevo ihličnaté | 140 000 | m<sup>3</sup>
+- 4403 20 00 10 | výrezy ihličnaté I. až III. akosti | 120 000 | m<sup>3</sup>
 
-- 4403 91 00 | vlákninové a ostatné priemyselné drevo listnaté - dubové | 215 000 | m<sup>3</sup>
+- 4403 20 00 90 | ostatné - vlákninové drevo ihličnaté | 140 000 | m<sup>3</sup>
 
-- 4403 92 00 | ostatné - bukové | | m<sup>3</sup>
+- | výrezy listnaté I. až III. triedy akosti: | 100 000 | m<sup>3</sup>
 
-- 4403 99 10 | ostatné - topoľové | | m<sup>3</sup>
+- 4403 91 00 10 | dubové | |
 
-- 4403 99 20 | ostatné - gaštanové | | m<sup>3</sup>
+- 4403 92 00 10 | bukové | |
 
-- 4403 99 80 | ostatné - surové drevo | | m<sup>3</sup>
+- 4403 99 10 10 | topoľové | |
 
-- 4403 20 00 | výrezy I. až III. triedy akosti ihličnaté | 120 000 | m<sup>3</sup>
+- 4403 99 80 10 | ostatné | |
 
-- 4403 91 00 | výrezy I. až III. triedy akosti listnaté | 100 000 | m<sup>3</sup>
+- | ostatné - vlákninové drevo: | 215 000 | m<sup>3</sup>
 
-- 4403 92 00 | | |
+- | listnaté | |
 
-- 4403 99 10 | | |
+- 4403 91 00 90 | dubové | |
 
-- 4403 99 20 | | |
+- 4403 92 00 90 | bukové | |
 
-- 4403 99 80 | | |
+- 4403 99 10 90 | topoľové | |
 
-- 4403 20 | výrezy IV. triedy akosti (žrďoviny, banské drevo) | | m<sup>3</sup>
+- 4403 99 80 90 | ostatné | |
 
-- 4403 91 | | |
+- 4406 | drevené železničné a podobné podvaly | 35 000 | m<sup>3</sup>
 
-- 4403 92 | | |
+- | rezivo ihličnaté: | 225 000 | m<sup>3</sup>
 
-- 4403 99 | | |
+- 4407 10 91 | smrekové | |
 
-- 4406 10 00 | drevené železničné podvaly neimpregnované | 15 000 | m<sup>3</sup>
+- 4407 10 93 | borovicové | |
 
-- 4406 90 00 | drevené podvaly ostatné | 20 000 | m<sup>3</sup>
+- 4407 10 99 | ostatné | |
 
-- 4407 10 | paletové prírezy | | m<sup>3</sup>
+- | rezivo listnaté, ktorého všetky tri rozmery sú väčšie než hrúbka 13 mm, šírka 60 mm, dĺžka 2 000 mm: | 125 000 | m<sup>3</sup>
 
-- 4407 91 | | |
+- 4407 91 90 | rezivo listnaté dubové | |
 
-- 4407 92 | | |
+- 4407 92 90 | rezivo listnaté bukové | |
 
-- 4407 99 | | |
+- 4407 99 91 | rezivo listnaté topoľové | |
 
-- 4407 10 | rezivo ihličnaté neopracované | 225 000 | m<sup>3</sup>
+- 4407 99 93 | rezivo listnaté orechové | |
 
-- 4407 91 | rezivo listnaté neopracované | 125 000 | m<sup>3</sup>
-
-- 4407 92 | | |
-
-- 4407 99 | | |
+- 4407 99 99 | rezivo listnaté ostatné | |
 
 - Buničina, papier a výrobky z nich | | |
 
@@ -282,7 +278,7 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - 4703 29 00 | | |
 
-- 4704 29 00 | buničina listnatá na chemické spracovanie | | tona
+- 4702 00 00 | chemická drevná buničina na chemické spracovanie | | tona
 
 - 4707 | zberový papier | |
 
@@ -308,7 +304,31 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - 7206 | | |
 
-- 7204 | železné a oceľové odpady vrátane pretavených a šrot | 150 000 | tona
+- 7204 10 00 | liatinové odpady a šrot | | tona
+
+- 7204 21 00 | odpady a šrot z legovanej nehrdzavejúcej ocele | | tona
+
+- 7204 29 00 | odpady a šrot z legovanej ocele - ostatné | | tona
+
+- 7204 30 00 | odpady a šrot z pocínovaného železa alebo ocele | | tona
+
+- 7204 41 10 | odpad zo sústruženia, hobľovania, frézovania, rezania a pilovania vrátane triesok | | tona
+
+- 7204 41 91 | zvyšky z razenia, paketované | | tona
+
+- 7204 41 99 | zvyšky z razenia, ostatné | | tona
+
+- 7204 49 10 | ostatné kovové odpady a šrot, drvené (rozstrihané) | | tona
+
+- 7204 49 30 | ostatné kovové odpady a šrot, ostatné - paketované | | tona
+
+- 7204 49 91 | ostatné kovové odpady a šrot, ostatné - netriedené | | tona
+
+- 7204 49 99 | ostatné kovové odpady a šrot, nie zvyšky po sústružení a razení, nepaketované | | tona
+
+- 7204 50 10 | pretavené odpady z legovanej ocele v ingotoch | | tona
+
+- 7204 50 90 | pretavené odpady v ingotoch, ostatné | | tona
 
 - Valcovaný materiál | | | tona
 
@@ -432,7 +452,11 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - 7208 35 10 | | |
 
-- 7208 35 90 | | |
+- 7208 35 91 | | |
+
+- 7208 35 93 | | |
+
+- 7208 35 99 | | |
 
 - 7208 42 10 | | |
 
@@ -446,7 +470,11 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - 7208 45 10 | | |
 
-- 7208 45 90 | | |
+- 7208 45 91 | | |
+
+- 7208 45 93 | | |
+
+- 7208 45 99 | | |
 
 - 7209 11 00 | plechy a zvitky valcované za studená | |
 
@@ -550,7 +578,7 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - 7210 90 39 | | |
 
-- 7210 90 11 | | |
+- 7211 90 11 | | |
 
 - 7212 50 31 | | |
 
@@ -594,7 +622,7 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - 7212 60 91 | | |
 
-- 7212 11 00 | | |
+- 7220 11 00 | | |
 
 - 7220 12 00 | | |
 
@@ -912,11 +940,7 @@ Príloha B vyhlášky č. 560/1991 Zb.
 
 - Motorové vozidlá | | |
 
-- 8701 90 22 | traktory | | ks
-
-- 8701 90 31 | | |
-
-- 8701 90 35 | | |
+- 8701 90 | traktory | | ks
 
 - Umelecké diela, zberateľské predmety a starožitnosti | | |
 

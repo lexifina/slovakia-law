@@ -20,7 +20,7 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 2844 50 00 | vyhorené (ožiarené) palivové články (kazety, súbory) | 0 | ks
 
-- 4707 | zberový papier | 50 000 | tona
+- 4707 | zberový papier | 150 000 | tona
 
 - 8401 30 00 | nevyhorené (neožiarené) palivové články (kazety, súbory); netýka sa palivových článkov obsahujúcich palivo vyrobené výlučne z uránu vyťaženého v Českej republike za účelom ich výroby | 5 | ks
 
@@ -32,9 +32,9 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 0102 90 | ostatný živý hovädzí dobytok | | tona
 
-- 0103 91 | ostatný živý bravčový dobytok do 50 kg (domáci) | | tona
+- 0103 91 | ostatný živý bravčový dobytok do 50 kg | | tona
 
-- 0103 92 | ostatný živý bravčový dobytok nad 50 kg (domáci) | | tona
+- 0103 92 | ostatný živý bravčový dobytok nad 50 kg | | tona
 
 - 0104 10 80 | ovce živé ostatné | | tona
 
@@ -46,77 +46,125 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 0203 | bravčové mäso čerstvé, chladené i mrazené | | tona
 
-- 0204 10 až 43 | baranie mäso | | tona
+- 0204 10 až 43 | baranie a jahňacie mäso | | tona
 
-- 0207 | mäso a jedlé droby hydiny čísla 0105 91 00 čerstvé, chladené alebo mrazené | | tona
+- 0207 | mäso a jedlé droby hydiny čísla 0105 čerstvé, chladené alebo mrazené | | tona
 
-- 0209 00 | bravčová masť a slanina | | tona
+- 0209 00 | bravčová sadlo a slanina | | tona
 
-- 0210 | mäso a droby nasolené, sušené | | tona
+- 0210 | mäso a jedlé droby, nasolené alebo v slanom náleve, sušené alebo údené, múčky a prášky jedlé, z mäsa alebo drobov | | tona
 
-- 0401 až 0406 | mlieko - celá kapitola okrem 0404 | | tona
+- 0301 93 00 | živé kapry | | tona
+
+- 0401 | mlieko a smotana, nezahustené ani neobsahujúce pridaný cukor alebo iné sladidlá | | tona
+
+- 0402 | mlieko a smotana, zahustené alebo obsahujúce prídavok cukru alebo iných sladidiel | | tona
+
+- 0403 | cmar, kyslé mlieko a smotana, jogurt, kefír a ostatné skvasené alebo acidofilné mlieko a smotana | | tona
+
+- 0405 | maslo a iné tuky z mlieka | | tona
+
+- 0406 | syry a tvaroh | | tona
+
+- 0407 00 | vtáčie vajcia v škrupinách čerstvé, konzervované alebo varené | | tona
+
+- 0408 | vtáčie vajcia bez škrupín a žĺtky | | tona
 
 - 0409 00 00 | prírodný med | | tona
 
-- 0602 99 49 | sadenice lesných drevín | | ks
+- 0602 20 | stromy, zákrpky, kríky a kríčky, tiež vrúbľované, tých druhov, ktoré rodia jedlé ovocie a orechy | | ks
 
-- 0603 | rezané kvety | | ks
+- 0602 30 30 | rododendrony a azalky, tiež vrúbľované | | ks
 
-- 0701 | zemiaky | | tona
+- 0602 40 | ružové kríky, tiež vrúbľované | | ks
+
+- 0602 99 41 | lesné stromy, kríky a kríčky | | ks
+
+- 0602 99 45 | stromy, kríky a kríčky okrem lesných - ich koreňovité odrezky a mladé rastliny | | ks
+
+- 0602 99 49 | stromy, kríky a kríčky okrem lesných - iné než koreňovité odrezky a mladé rastliny | | ks
+
+- 0603 | rezané kvety a puky na kytice alebo na okresné účely | | ks
+
+- 0701 | zemiaky, čerstvé alebo chladené | | tona
+
+- 0702 00 | paradajky, čerstvé alebo chladené | | tona
+
+- 0702 90 10 | kapusta (biela, červená), čerstvá alebo chladená | | tona
+
+- 0709 60 10 | sladká paprika, čerstvá alebo chladená | | tona
 
 - 0806 10 | hrozno čerstvé | | tona
 
 - 0808 10 | jablká | | tona
 
-- 0904 20 | mletá paprika | | tona
+- 0808 20 | hrušky a dule | | tona
+
+- 0904 20 90 | mletá paprika | | tona
 
 - 1001 | pšenica | | tona
 
-- 1002 | raž | | tona
+- 1002 00 00 | raž | | tona
 
-- 1003 | jačmeň | | tona
+- 1003 00 | jačmeň | | tona
+
+- 1005 90 00 | kukurica ostatná | | tona
 
 - 1105 | múka, krupica, vločky, granuly a pelety zo zemiakov | | tona
 
-- 1108 | škrob | | tona
+- 1108 | škroby; inulín | | tona
 
-- 1205 00 | semená repky | | tona
+- 1205 00 | semená repky, semená repky olejky, tiež drvené | | tona
 
-- 1206 00 | semená slnečnice | | tona
+- 1206 00 | slnečnicové semená, aj drvené | | tona
 
 - 1209 99 10 | semená lesných stromov | | tona
 
-- 1212 91 10 | cukrová repa čerstvá | | tona
+- 1210 | chmeľové šištičky, čerstvé alebo sušené, tiež drvené; lupulín | | tona
 
-- 1512 | slnečnicový olej | | tona
+- 1212 91 10 | cukrová repa, čerstvá | | tona
+
+- 1512 11 91 | slnečnicový olej | | tona
 
 - 1514 | repkový olej | | tona
 
-- 1517 | margarín | | tona
+- 1517 | margarín; zmesi alebo prípravky pokrmových živočíšnych tukov alebo olejov, alebo frakcií rôznych tukov alebo olejov, iné ako pokrmové tuky a oleje a ich frakcie čísla 1516 | | tona
 
-- 1701 | cukor trstinový alebo repný | | tona
+- 1601 00 | párky, salámy a podobné výrobky z mäsa, drobov alebo krvi; potravinové prípravky na podklade týchto výrobkov | | tona
 
-- 1702 30 až 40 | glukóza, glukózový sirup a izoglukóza | | tona
+- 1602 | iné prípravky a konzervy z mäsa, drobov alebo krvi | | tona
 
-- 1703 | melasa | | tona
+- 1701 | trstinový alebo repný cukor a chemicky čistá sacharóza, v pevnom stave | | tona
+
+- 1702 30 až 1702 40 | glukóza, glukózový sirup a izoglukóza | | tona
+
+- 1703 | melasy | | tona
 
 - 1902 | cestoviny | | tona
+
+- 2001 | zelenina, ovocie, orechy a iné jedlé časti rastlín, pripravené alebo konzervované v octe alebo v kyseline octovej | | tona
+
+- 2004 | ostatná zelenina, pripravená alebo konzervovaná inak ako v octe alebo kyseline octovej, zmrazená | | tona
+
+- 2007 | zaváraniny, želé, lekváre, ovocné a orechové kaše (pyré) | | tona
+
+- 2008 | ovocie, orechy a iné jedlé časti rastlín, inak upravené alebo konzervované | | tona
 
 - 2202 | nealkoholické nápoje | | hl
 
 - 2203 00 | pivo | | hl
 
-- 2204 | víno z čerstvého hrozna | | hl
+- 2204 | víno z čerstvého hrozna vrátane obohateného alkoholom; vínny mušt, iný ako čísla 2009 | | hl
 
-- 2207 | etylalkohol nad 80 % alkoholu | | hl
+- 2207 | etylalkohol nedenaturovaný s merným alkoholometrickým titrom nad 80 % vol. alebo viac; etylalkohol a destiláty denaturované, s akýmkoľvek alkoholometrickým titrom | | LPA
 
-- 2208 | nedenaturovaný etylalkohol pod 80 % alkoholu | | hl
+- 2208 | etylalkohol nedenaturovaný s merným alkoholickým titrom menším ako 80 % vol.; destiláty, likéry a ostatné liehové nápoje; zložené alkoholické prípravky používané na prípravu nápojov | | LPA
 
 - Tabak a vyrobené tabakové náhradky | | |
 
-- 2402 | cigary, cigarky a cigarety z tabaku alebo z tabakových nahradiek | | ks
+- 2402 | cigary (aj s odrezanými koncami), cigarky (cigarillos) a cigarety z tabaku alebo z tabakových náhradiek | | ks
 
-- 2403 | ostatné tabakové výrobky a tabakové náhradky | | ks
+- 2403 | ostatné tabakové výrobky a tabakové náhradky; homogenizovaný alebo rekonštituovaný tabak; tabakové výťažky a tresti | | ks
 
 - Drevo a drevené výrobky | | |
 
@@ -124,45 +172,29 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 4403 10 10 | stĺpy ihličnaté surové a impregnované | | m<sup>3</sup>
 
-- 4403 20 00 | vlákninové a ostatné priemyselné drevo ihličnaté | | m<sup>3</sup>
+- 4403 20 00 10 | výrezy ihličnaté I. až III. triedy akosti | | m<sup>3</sup>
 
-- 4403 91 00 | vlákninové a ostatné priemyselné drevo listnaté - dubové | | m<sup>3</sup>
+- 4403 20 00 90 | ostatné - vlákninové drevo ihličnaté | | m<sup>3</sup>
 
-- 4403 92 00 | vlákninové a ostatné priemyselné drevo listnaté - bukové | | m<sup>3</sup>
+- | výrezy listnaté I. až III. triedy akosti: | |
 
-- 4403 99 10 | vlákninové a ostatné priemyselné drevo listnaté - topoľové | | m<sup>3</sup>
+- 4403 91 00 10 | dubové | | m<sup>3</sup>
 
-- 4403 99 20 | ostatné - gaštanové | | m<sup>3</sup>
+- 4403 92 00 10 | bukové | | m<sup>3</sup>
 
-- 4403 99 30 | ostatné - eukalyptové | | m<sup>3</sup>
+- 4403 99 10 10 | topoľové | | m<sup>3</sup>
 
-- 4403 99 40 | ostatné - tropické drevo | | m<sup>3</sup>
+- 4403 99 80 10 | ostatné | | m<sup>3</sup>
 
-- 4403 99 80 | vlákninové ostatné priemyselné drevo listnaté - ostatné | | m<sup>3</sup>
+- | ostatné - vlákninové drevo listnaté: | |
 
-- 4403 20 00 | výrezy I. až III. triedy akosti ihličnaté a vlákninové drevo | | m<sup>3</sup>
+- 4403 91 00 90 | dubové | | m<sup>3</sup>
 
-- 4403 91 00 | výrezy I. až III. triedy akosti listnaté a vlákninové drevo | | m<sup>3</sup>
+- 4403 92 00 90 | bukové | | m<sup>3</sup>
 
-- 4403 92 00 | | |
+- 4403 99 10 90 | topoľové | | m<sup>3</sup>
 
-- 4403 99 10 | | |
-
-- 4403 99 20 | | |
-
-- 4403 99 30 | | |
-
-- 4403 99 40 | | |
-
-- 4403 99 80 | | |
-
-- 4403 20 | výrezy IV. triedy akosti (žrďovina, banské) | | m<sup>3</sup>
-
-- 4403 91 | | |
-
-- 4403 92 | | |
-
-- 4403 99 | | |
+- 4403 99 80 90 | ostatné | | m<sup>3</sup>
 
 - 4410 | drevotrieskové dosky | | m<sup>3</sup>
 
@@ -207,6 +239,12 @@ Príloha A vyhlášky č. 560/1991 Zb.
 - 2710 00 65 | určené na chemické spracovanie, ale iným postupom než pre položku 2710 00 61 | | tona
 
 - 2710 00 69 | na iné účely | | tona
+
+- 2710 00 69 10 | ťažké plynové oleje a ich zmesi na pohon motorov | | tona
+
+- 2710 00 69 20 | ťažké plynové oleje na vykurovacie účely | | tona
+
+- 2710 00 69 90 | ťažké plynové oleje ostatné | | tona
 
 - | vykurovacie oleje: | |
 
@@ -332,9 +370,13 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - Obuv | | |
 
+- 6402 | ostatná obuv s podrážkou a zvrškom z kaučuku alebo plastov | | páry
+
 - 6403 | obuv s podrážkou z kaučuku, plastov, usne alebo kompozitnej usne a so zvrškom z usne | | páry
 
 - 6404 | obuv s podrážkou z kaučuku, plastov, usne alebo kompozitnej usne a so zvrškom z textilných materiálov | | páry
+
+- 6405 | ostatná obuv | | páry
 
 - Keramické a azbestocementové výrobky | | |
 
@@ -388,7 +430,29 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 7224 | | |
 
-- 7204 | železné oceľové odpady vrátane pretavených a šrot | | tona
+- 7204 10 00 | liatinové odpady a šrot | | tona
+
+- 7204 21 00 | odpady a šrot z legovanej nehrdzavejúcej ocele | | tona
+
+- 7204 29 00 | odpady a šrot z legovanej ocele - ostatné | | tona
+
+- 7204 30 00 | odpady a šrot z pocínovaného železa alebo ocele | | tona
+
+- 7204 41 10 | odpad zo sústruženia, hobľovania, frézovania, rezania a pilovania vrátane triesok | | tona
+
+- 7204 41 91 | zvyšky z razenia, paketované | | tona
+
+- 7204 41 99 | zvyšky z razenia, ostatné | | tona
+
+- 7204 49 10 | ostatné kovové odpady a šrot, drvené (rozstrihané) | | tona
+
+- 7204 49 30 | ostatné kovové odpady a šrot, ostatné - paketované | | tona
+
+- 7204 49 91 | ostatné kovové odpady a šrot, nie zvyšky po sústružení a razení, nepaketované | | tona
+
+- 7204 50 10 | pretavené odpady z legovanej ocele v ingotoch | | tona
+
+- 7204 50 90 | pretavené odpady v ingotoch, ostatné | | tona
 
 - 7404 00 | odpady medené | | tona
 
@@ -866,7 +930,7 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 7212 50 97 | | |
 
-- 7212 50 48 | | |
+- 7212 50 98 | | |
 
 - 7220 20 31 | | |
 
@@ -1388,8 +1452,8 @@ Príloha A vyhlášky č. 560/1991 Zb.
 
 - 8528 10 58 | | |
 
-- 8529 10 31 | satelitné prijímače | | ks
+- 8529 90 70 | elektronické zostavy na príjem satelitného signálu | | ks
+
+- 8543 80 80 | satelitné prijímače (receivery) dovážané samostatne | | ks
 
 - 8529 90 98 | časti a súčasti vhodné na prístroje čísel 8525 až 8528 - ostatné, z toho len kompletné rozložené sady prístrojov čísla 8528 | | ks
-
-- [Príloha 02](../assets/808aa8d9f4fc29f7e34e642f4a86a0964ae22264cdf045f4cfb1489a76c5b4a3.pdf)

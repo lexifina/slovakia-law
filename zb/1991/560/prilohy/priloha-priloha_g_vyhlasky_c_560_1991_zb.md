@@ -1,1 +1,1 @@
-Príloha G vyhlášky č. 560/1991 Zb. [Príloha 01](../assets/08a5be593bc2efb24e4eda87bcc2bde4ca8f1cced62816524d6deb5d2d942d1b.pdf)
+Príloha G vyhlášky č. 560/1991 Zb. [Príloha 01](../assets/f2b33b67a4661d0e1eb5e41057b55e6fb9efb66ab14d91d69f2f8a8403bbe25f.pdf)

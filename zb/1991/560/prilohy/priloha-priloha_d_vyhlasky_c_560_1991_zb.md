@@ -18,7 +18,7 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - 2524 00 80 | Krocidolit | (6) | kg
 
-- 2804 70 00 | Fosfor (biely, žltý) | (2) | kg
+- 2804 70 00 | Fosfor (biely, žltý, červený) | (4) | kg
 
 - 2804 80 00 | Arzén | (2) | kg
 
@@ -40,7 +40,7 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - 2830 90 19 | Sírnik amónny (vrátane kyslého) | (6) | kg
 
-- 2830 90 90 | Polysulfit amónny | (6) | kg
+- 2830 90 90 | Polysulfid amónny | (6) | kg
 
 - 2833 29 70 | Sírany olova | (6) | kg
 
@@ -132,7 +132,7 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - 2908 90 00 | Dinoseb | (2) | kg
 
-- 2909 11 00 | Dietyléter | (5) | kg
+- 2909 11 00 | Dietyléter | (4) | kg
 
 - 2909 19 00 | Bis (chlórmetyl) éter | (6) | kg
 
@@ -150,13 +150,13 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - 2913 00 00 | O-nitrobenzaldehyd | (6) | kg
 
-- 2914 12 00 | Metyletylketón | (5) | kg
+- 2914 12 00 | Metyletylketón | (4) | kg
 
 - 2914 61 00 | 3,4-metyléndioxyfenyl | | kg
 
 - | 2-propanol | (4) |
 
-- 2915 24 00 | Acetanhydrid | (5) | kg
+- 2915 24 00 | Acetanhydrid | (4) | kg
 
 - 2915 39 90 | Ostatné estery kyseliny octovej, z toho len | | kg
 
@@ -218,7 +218,7 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - | - propylhexedrín | (3) |
 
-- 2921 44 00 | Tilidín | (1) | kg
+- 2922 49 80 | Tilidín | (1) | kg
 
 - 2921 45 00 | 2-naftylamín | (6) | kg
 
@@ -304,7 +304,7 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - | - amfepromón | (3) |
 
-- 2922 49 50 | Kyselina antranilová | (5) | kg
+- 2922 49 50 | Kyselina antranilová | (4) | kg
 
 - 2922 50 00 | Aminoalkoholfenoly, aminokyselinofenoly a iné aminozlúčeniny s kyslíkatou funkciou, z toho len | | kg
 
@@ -470,7 +470,7 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - | - paramexyl | (3) |
 
-- 2933 39 80 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre nekondenzovaný pyridínový kruh (hydrogenovaný alebo nehydrogenovaný) , z toho len | | kg
+- 2933 39 90 | Ostatné zlúčeniny obsahujúce vo svojej štruktúre nekondenzovaný pyridínový kruh (hydrogenovaný alebo nehydrogenovaný) , z toho len | | kg
 
 - | - 2-amino-3-nitropyridín | (2) |
 
@@ -648,12 +648,6 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - | Triazolam | (3) |
 
-- 2933 90 80 | Parafluórfentanyl | (1) | kg
-
-- 2933 90 80 | Beta-hydroxyfentanyl | (1) | kg
-
-- 2933 90 80 | Beta-hydroxy-3-metylfentanyl | (1) | kg
-
 - 2933 90 80 | Ostatné heterocyklické zlúčeniny len s dusíkatými heteroatómami, nukleové kyseliny a ich soli, z toho len | | kg
 
 - | - triazofos | (2) |
@@ -698,9 +692,13 @@ Príloha D vyhlášky č. 560/1991 Zb.
 
 - | - pentazocín | (3) |
 
-- | - tris-aziridinyl-fosfinoxid (TEPA, | |
+- | - tris-aziridinyl-fosfinoxid (TEPA, trietylénfosforamid) | (6) |
 
-- | trietylénfosforamid) | (6) |
+- | - parafluórfentanyl | (1) | kg
+
+- | - beta-hydroxyfentanyl | (1) | kg
+
+- | - beta-hydroxy-3-metylfentanyl | (1) | kg
 
 - 2934 90 99 | Ostatné heterocyklické zlúčeniny, z toho len | | kg
 
@@ -865,6 +863,18 @@ Príloha D vyhlášky č. 560/1991 Zb.
 - 8112 91 90 | Tálium | (2) | kg
 
 - 8112 99 90 | | |
+
+- 2806 10 00 | Kyselina chlórovodíková | (4) | tona
+
+- 2807 00 10 | Kyselina sírová | (4) | tona
+
+- 2841 60 10 | Manganistan draselný | (4) | tona
+
+- 2902 30 | Toluén | (4) | tona
+
+- 2914 11 00 | Acetón | (4) | tona
+
+- 2916 33 00 | Kyselina fenyloctová, jej soli, estery | (4) | tona
 
 - Vysvetlivky: (1) omamné látky(2) zvlášť nebezpečné jedy(3) psychotropné látky(4) prekurzory(5) pomocné chemické látky(6) ostatné jedy a špecifické karcinogénne látky
 
