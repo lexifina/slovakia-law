@@ -124,6 +124,8 @@ Zákon č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 358/2000 Z. 
 
 - 28. V § 11 ods. 3 sa vypúšťajú slová „14 a“.
 
+- 29. V § 12 ods. 2 písm. b) sa číslovka „11 400“ nahrádza číslovkou „16 800“.
+
 - 30. V § 12 ods. 3 sa slová „preukazu o ťažkom zdravotnom postihnutí“ nahrádzajú slovami „preukazu občana s ťažkým zdravotným postihnutím“.
 
 - 31. V § 12 ods. 5 sa za slovo „Daňovníkovi“ vkladá čiarka a slová „uvedenému v § 2 ods. 3“ sa nahrádzajú slovami „ktorý nemá na území Slovenskej republiky trvalý pobyt“.
