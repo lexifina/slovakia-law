@@ -42,6 +42,8 @@
 
 - 16b) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 16c) § 4 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+
 - 17) § 3 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 18) § 7 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb.
