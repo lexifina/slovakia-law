@@ -1,0 +1,5 @@
+# § 173b
+
+(1) Profesionálnemu vojakovi, ktorý vykonával profesionálnu službu v rozsahu zakladajúcom nárok na výsluhový dôchodok alebo ktorému bol priznaný invalidný výsluhový dôchodok a ktorému v období od 1. mája 1998 do 30. júna 1999 Sociálna poisťovňa priznala starobný dôchodok alebo pomerný starobný dôchodok, Sociálna poisťovňa rozhodne o nároku na starobný dôchodok alebo o nároku na pomerný starobný dôchodok podľa predpisov účinných po 30. júni 1999.
+
+(2) Ak profesionálny vojak, ktorý vykonával profesionálnu službu v rozsahu zakladajúcom nárok na výsluhový dôchodok alebo ktorému bol priznaný invalidný výsluhový dôchodok, požiadal v období od 1. mája 1998 do 30. júna 1999 Sociálnu poisťovňu o priznanie starobného dôchodku alebo o priznanie pomerného starobného dôchodku a konanie o priznaní týchto dávok nebolo do 30. júna 1999 právoplatne skončené, Sociálna poisťovňa rozhodne o nároku na starobný dôchodok alebo o nároku na pomerný starobný dôchodok podľa predpisov účinných po 30. júni 1999.
