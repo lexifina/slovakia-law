@@ -1,0 +1,3 @@
+# § 24d
+
+Štátna skúšobňa vykonáva náhodne kontrolu, či certifikované výrobky majú vlastnosti zhodné s ustanovenými technickými normami, technickými dokumentmi, prípadne s právnymi predpismi a či sú zabezpečené predpoklady pre trvalé dodržiavanie akosti výrobkov vo výrobe. Ak sa zistí, že výrobky nemajú vlastnosti zhodné s technickými normami, technickými dokumentmi, prípadne s právnymi predpismi alebo že nie sú zabezpečené predpoklady pre trvalé dodržiavanie akosti výrobkov vo výrobe, odoberie štátna skúšobňa certifikát alebo oprávnenie z neho vyplývajúce. Obdobne postupuje pri kontrole Úrad pre normalizáciu a meranie v prípadoch, keď si vykonanie kontroly vyhradil.
