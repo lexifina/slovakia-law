@@ -1,3 +1,5 @@
+- *) Vyhláška č. 102/1968 Zb. o krížení pozemných komunikácií so železnicami v úrovni koľají.
+
 - **) Pravidlá technickej prevádzky mestských dráh.
 
 - *) Najvyššia prípustná rýchlosť uvedená v technickom preukaze nepresahuje 50 km za hodinu.
