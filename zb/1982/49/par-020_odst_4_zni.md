@@ -1,0 +1,3 @@
+# § 20 odst. 4 zní:
+
+,,(4) Přestupek projedná ten orgán národního výboru, v jehož oboru působnosti k přestupku došlo. Krajské národní výbory, okresní národní výbory, městské národní výbory a obvodní národní výbory, jakož i místní národní výbory ve střediskových obcích mohou jako správní komise zřídit komise pro projednávání všech nebo některých přestupků. Členy těchto komisí volí národní výbor z řad svých poslanců a dalších občanů, především těch, kteří mu byli navrženi společenskými organizacemi. Předsedou komise je poslanec národního výboru. Komise jedná a rozhoduje v tříčlenném složení a usnáší se většinou hlasů.„.
