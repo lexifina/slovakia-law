@@ -1,0 +1,1 @@
+Pavel Ďugel v. r.
