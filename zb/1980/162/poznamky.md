@@ -1,30 +1,30 @@
-- 1) § 2 ods. 2 nariadenia vlády Československej socialistickej republiky č. 161/1980 Zb. o finančnom hospodárení výrobných hospodárskych jednotiek a podnikov.
+- 1) § 2 ods. 2 nariadenia vlády ČSSR č. 161/1980 Zb. o finančnom hospodárení výrobných hospodárskych jednotiek a podnikov v znení nariadenia vlády ČSSR č. 100/1985 Zb. (úplné znenie č. 106/1985 Zb.).
 
 - 2) § 3 písm. c) zákona č. 42/1980 Zb. o hospodárskych stykoch so zahraničím.
 
-- 3) § 3 vyhlášky Federálneho ministerstva financií č. 164/1980 Zb. o financovaní obežných prostriedkov.
+- 3) § 3 a 6 vyhlášky Federálneho ministerstva financií, Ministerstva financií ČSR a Ministerstva financií SSR č. 118/1984 Zb. o financovaní neinvestičných výdavkov na rozvoj vedy a techniky.
 
-- 4) § 2 ods. 1 zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon).
+- 4) Napr. vyhláška Federálneho ministerstva financií, Ministerstva financií ČSR a Ministerstva financií SSR č. 151/1978 Zb. o združovaní prostriedkov socialistických organizácií v znení vyhlášky č. 15/1984 Zb.
 
-- 5) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 163/1973 Zb. o dokumentácií stavieb.
+- 5) Napr. vyhláška č. 165/1980 Zb. o fonde kultúrnych a sociálnych potrieb.
 
-- 6) Zákon č. 53/1966 Zb. o ochrane poľnohospodárskeho pôdneho fondu v znení zákona č. 75/1976 Zb. a § 15 nariadenia vlády ČSSR č. 161/1980 Zb.
+- 6) § 2 ods. 3 nariadenia vlády ČSSR č. 161/1980 Zb. v znení nariadenia vlády ČSSR č. 100/1985 Zb. (úplné znenie č. 106/1985 Zb.).
 
-- 7) § 3 ods. 1 nariadenia vlády Československej socialistickej republiky č. 102/1976 Zb. o odstraňovaní ekonomickej ujmy socialistických poľnohospodárskych organizácií.
+- 7) Napr. § 5 ods. 3 vyhlášky Federálneho ministerstva financií č. 90/1972 Zb. o financovaní niektorých zariadení podnikovej spoločenskej spotreby a niektorých činností hospodárskych organizácií a organizácií zahraničného obchodu.
 
-- 8) § 115 zákona č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch.
+- 8) Pravidlá uplatňovania finančno-ekonomických nástrojov v zahraničnom obchode na obdobie 1986-1990 č. IX/1-1450/1985.
 
-- 9) Vyhláška Ministerstva všeobecného strojárstva č. 136/1964 Zb., ktorou sa vydávajú základné podmienky dodávky opráv strojárskych výrobkov.
+- 9) Rámcové zásady pre poskytovanie dotácií zo štátneho rozpočtu na investičnú výstavbu ustanovené vládou ČSSR.
 
-- 10) Pravidlá pre časové rozlíšenie sú súčasťou predpisov pre vedenie účtovníctva.
+- 10) Opatrenie vlády ČSSR č. 116/1982 Zb. na zabezpečenie a ďalšie zvyšovanie akosti výrobnej a podobnej hospodárskej činnosti schválené uznesením vlády ČSSR z 9. septembra 1982 č. 253 v znení opatrenia vlády ČSSR č. 39/1985 Zb.
 
-- 11) Fond opráv možno zriaďovať podľa ustanovení § 8 ods. 6 a § 14 ods. 4 nariadenia vlády ČSSR č. 161/1980 Zb.
+- 11) § 32 a § 71 ods. 2 nariadenia vlády ČSSR č. 161/1980 Zb. v znení nariadenia vlády ČSSR č. 100/1985 Zb. (úplné znenie č. 106/1985 Zb.).
 
-- 12) Rámcové zásady pre poskytovanie dotácií zo štátneho rozpočtu na investičnú výstavbu, ustanovené vládou Československej socialistickej republiky.
+- 12) § 11 ods. 1 vyhlášky Štátnej komisie pre vedecko - technický a investičný rozvoj a Federálneho štatistického úradu č. 145/1983 Zb. o povoľovaní začatia stavieb, potvrdzovaní termínu ich dokončenia a o registrácii stavieb.
 
-- 13) Vyhláška Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky a Ministerstva financií Slovenskej socialistickej republiky č. 151/1978 Zb. o združovaní prostriedkov socialistických organizácií.
+- 13) Príloha č. 12 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 105/1981 Zb. o dokumentácii stavieb.
 
-- 14) § 2 ods. 3 nariadenia vlády ČSSR č. 161/1980 Zb.
+- 14) Napr. metodické pokyny Federálneho ministerstva pre technický a investičný rozvoj z 31. marca 1983 pre spracovanie niektorých častí dokumentácie stavieb - príloha č. 2 týchto pokynov.
 
 - 15) Napríklad vyhláška Federálneho ministerstva financií a Ústrednej rady odborov č. 165/1980 Zb. o fonde kultúrnych a sociálnych potrieb.
 
