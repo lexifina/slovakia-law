@@ -1,1 +1,0 @@
-- 83) Nariadenie vlády ČSSR č. 142/1983 Zb. o poskytovaní dôchodkov niektorým pracujúcim dôchodcom.
