@@ -10,4 +10,4 @@
 
 - b) vyjadruje sa o podstatných otázkach, návrhoch a opatreniach v oblasti vysokoškolského štúdia.
 
-(4) Členstvo v študentskej rade vysokých škôl je čestné. Ministerstvo školstva finančne zabezpečuje činnosť študentskej rady vysokých škôl účelovým vyčlenením prostriedkov na činnosť jej sekretariátu. Náhrada výdavkov spojených s výkonom funkcie člena študentskej rady vysokých škôl sa poskytuje podľa osobitného predpisu.<sup>8</sup>)
+(4) Členstvo v Študentskej rade vysokých škôl je čestné. Ministerstvo školstva finančne zabezpečuje činnosť Študentskej rady vysokých škôl účelovým vyčlenením prostriedkov na činnosť jej sekretariátu. Náhrada výdavkov spojených s výkonom funkcie člena Študentskej rady vysokých škôl sa poskytuje podľa osobitného predpisu.<sup>8</sup>)
