@@ -10,6 +10,6 @@
 
 (5) Pri hlavnom pojednávaní samosudca prečíta na dôkaz vždy aj správu o výsledku objasňovania a jej prílohy.
 
-(6) Keď bol návrh na potrestanie doručený obvinenému, nemôže ho prokurátor vziať späť.
+(6) Prokurátor môže vziať návrh na potrestanie späť až do začatia hlavného pojednávania; v takom prípade urobí niektoré z opatrení uvedených v § 179e ods. 1 písm. b) až h).
 
 (7) Neverejné zasadnutie samosudca nekoná; pred rozhodnutím si však vyžiada vyjadrenie prokurátora.

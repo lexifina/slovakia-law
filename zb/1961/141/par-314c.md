@@ -8,11 +8,13 @@
 
 - c) trestné stíhanie zastaví, ak sú tu okolnosti uvedené v § 172 ods. 1,
 
-- d) trestné stíhanie preruší, ak sú tu okolnosti uvedené v § 173 ods. 1 písm. a) až d),
+- d) môže zastaviť trestné stíhanie, ak sú tu okolnosti uvedené v § 172 ods. 2,
 
-- e) vráti vec prokurátorovi, ak sa vo veci malo vykonať prípravné konanie,
+- e) trestné stíhanie preruší, ak sú tu okolnosti uvedené v § 173 ods. 1 písm. a) až d),
 
-- f) pokiaľ sa vo veci vykonávalo prípravné konanie, môže vec vrátiť prokurátorovi aj z dôvodov uvedených v § 188 ods. 1 písm. f).
+- f) vráti vec prokurátorovi, ak sa vo veci malo vykonať prípravné konanie,
+
+- g) pokiaľ sa vo veci vykonávalo prípravné konanie, môže vec vrátiť prokurátorovi aj z dôvodov uvedených v § 188 ods. 1 písm. f).
 
 (2) Do rozhodnutia podľa odseku 1 môže prokurátor podať sťažnosť, ktorá má, ak nejde o prerušenie trestného stíhania, odkladný účinok.
 
