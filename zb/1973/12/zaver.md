@@ -1,3 +1,0 @@
-Minister:
-
-Hagara v. r.
