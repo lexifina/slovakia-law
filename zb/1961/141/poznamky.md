@@ -8,6 +8,10 @@
 
 - 7) Zákon č. 618/1992 Zb. Colný zákon v znení zákona Národnej rady Slovenskej republiky č. 165/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 325/1993 Z. z.
 
+- 7a) § 4a zákona č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
+
+- 7b) § 29a ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 8) § 36 zákona č. 61/1952 Zb. o námornej plavbe.
 
 - 8a) § 21 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 353/1997 Z. z.
