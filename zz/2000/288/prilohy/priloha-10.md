@@ -1,0 +1,5 @@
+Príloha č. 10 k vyhláške č. 288/2000 Z. z.
+
+VZÁJOMNÁ VZDIALENOSŤ VÝCHODOV Z MIESTNOSTI ALEBO Z POŽIARNEHO ÚSEKU
+
+![Obrázok 10](../assets/785fb44385475b2ca03d6d0f524276ec4f46e340b413d2f356c1dc4c56c6742a.png)
