@@ -72,6 +72,34 @@ Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činn
 
 - Z údajov zapísaných v notárskych centrálnych registroch notár vydáva potvrdenia a výpisy, ktoré sú verejnými listinami (§ 3 ods. 3).“.
 
+- 9. Za § 73a sa vkladá § 73aa, ktorý znie:
+
+- „§ 73aa
+
+- Notár môže vydávať odpisy z údajov zapísaných v osobitných registroch, ak osobitný zákon neustanovuje inak, a osvedčovať ich správnosť.“.
+
+- 10. Za § 73j sa vkladá § 73k, ktorý vrátane nadpisu znie:
+
+- „§ 73k
+
+- Notársky centrálny register listín
+
+- (1)
+
+- Komora vedie Notársky centrálny register listín (ďalej len „register listín"), ktorý obsahuje notárske zápisnice spísané notárom a iné listiny ukladané do registra listín na žiadosť fyzickej osoby alebo právnickej osoby.
+
+- (2)
+
+- Notár zabezpečí uloženie notárskej zápisnice v elektronickej podobe do registra listín v deň jej spísania.
+
+- (3)
+
+- Notár na žiadosť fyzickej osoby alebo právnickej osoby zabezpečí uloženie prvopisu listiny v elektronickej podobe v registri listín.
+
+- (4)
+
+- Každý notár môže vydať z registra listín osvedčený odpis notárskej zápisnice za podmienok ustanovených v § 74 a osvedčený odpis listiny uloženej do registra listín na žiadosť fyzickej osoby alebo právnickej osoby s jej súhlasom alebo za podmienok ňou určených.“.
+
 - 11. V § 94 ods. 1 sa v úvodnej vete slová „na návrh komory“ nahrádzajú slovami „po prerokovaní s komorou“.
 
 - 12. V § 94 ods. 2 sa na konci pripájajú tieto slová:
