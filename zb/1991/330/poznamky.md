@@ -1,5 +1,7 @@
 - 1) § 19 ods. 1 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
 
+- 1a) § 2a zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
+
 - 2) Napr. zákon SNR č. 1/1955 Zb. SNR o štátnej ochrane prírody v znení neskorších predpisov.
 
 - § 50 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona SNR č. 196/1990 Zb.
@@ -16,11 +18,17 @@
 
 - 6) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 6a) Zákon Slovenskej národnej rady č. 100/1977 Zb.
+
+- 6b) § 3 zákona Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+
+- § 17 a 19 vyhlášky Slovenského úradu geodézie, kartografie a katastra č. 594/1992 Zb., ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+
+- 6c) § 17 ods. 2 zákona Slovenskej národnej rady č. 266/1992 Zb.
+
 - 7) § 2 zákona č. 22/1964 Zb. o evidencii nehnuteľností v znení zákona SNR č. 150/1983 Zb.
 
-- 8) § 244 a nasl. Občianskeho súdneho poriadku.
-
-- § 19 ods. 2 a 3 zákona č. 229/1991 Zb.
+- 8) § 247 až 250k Občianskeho súdneho poriadku.
 
 - 9) § 133, § 135 a § 489 ods. 1 Občianskeho zákonníka.
 
@@ -31,6 +39,10 @@
 - 12) Druhá časť zákona č. 229/1991 Zb.
 
 - 13) § 22 ods. 1 a 2 zákona č. 229/1991 Zb.
+
+- 13a) § 58 ods. 1 zákona č. 50/1976 Zb.
+
+- Zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - 14) § 406 a § 489 ods. 1 Občianskeho zákonníka.
 
@@ -54,9 +66,15 @@
 
 - 22) § 17 ods. 1 zákona č. 229/1991 Zb.
 
-- 23) § 11, 17, 18 a § 22 ods. 4 zákona č. 229/1991 Zb.
+- 23) Napr. § 11, 17, 18 a § 22 ods. 4 zákona č. 229/1991 Zb.
 
 - Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
+
+- Zákon č. 50/1976 Zb.
+
+- Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
+
+- 23a) § 22 a 22a zákona č. 229/1991 Zb.
 
 - 24) Zákon SNR č. 253/1991 Zb. o pôsobnosti vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
@@ -70,7 +88,7 @@
 
 - 29) § 6 ods. 1 písm. e) zákona č. 229/1991 Zb.
 
-- 30) § 22 zákona č. 229/1991 Zb.
+- 30) § 22 a § 22a zákona č. 229/1991 Zb.Zákon Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam.
 
 - 31) § 1 ods. 11 nariadenia SNR č. 104/1945 Zb. SNR o konfiškovaní a urýchlenom rozdelení pôdohospodárskeho majetku Nemcov, Maďarov, ako aj zradcov a nepriateľov Slovenského národa v znení neskorších predpisov.
 
@@ -98,6 +116,8 @@
 
 - 41) Zákon č. 224/1925 Zb. a n. o úprave pomerov vzniklých z usídlenia osadníkov na základe pomeru námezdného alebo pomerov podobných na nemovitom štátnom majetku na Slovensku a v Podkarpatskej Rusi.
 
+- 41a) Zákon č. 219/1991 Zb., ktorým sa mení a dopĺňa zákon č. 105/1990 Zb. o súkromnom podnikaní občanov.
+
 - 42) Napr. zákon č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby v znení neskorších predpisov.
 
 - 43) § 6 ods. 4 zákona č. 229/1991 Zb.
@@ -121,3 +141,5 @@
 - 52) § 9 vládneho nariadenia č. 47/1955 Zb. o opatreniach v odbore hospodársko-technických úprav pozemkov.
 
 - 53) § 22 ods. 1 písm. a) zákona č. 229/1991 Zb. v spojení s § 46 ods. 1 zákona č. 162/1990 Zb. o poľnohospodárskom družstevníctve.
+
+- 54) § 5 ods. 3 zákona č. 229/1991 Zb.
