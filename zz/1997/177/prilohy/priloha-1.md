@@ -1,1 +1,0 @@
-Príloha č. 1 k vyhláške č. 177/1997 Z. z. [Vzor 01 - Potvrdenie o úhrade príspevku dovozcu do dovozného fondu Exportno-importnej banky Slovenskej republiky](../assets/ba3040b0213f48abd3a07cfbb71998a31ba79f679150d4443333640ad340b3d5.pdf)
