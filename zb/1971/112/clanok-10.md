@@ -1,0 +1,3 @@
+# Článok 10 (K § 27 zákona)
+
+Penále ukladané zvýšením odvodu alebo príspevku na sociálne zabezpečenie (§ 27 ods. 2 zákona) sa predpíše tak z rozdielu, o ktorý sú odvod alebo príspevok na sociálne zabezpečenie určené platobným výmerom vyššie než odvod alebo príspevok na sociálne zabezpečenie, ktoré si organizácia sama vypočítala vo vyúčtovaní, ako aj z rozdielov určených dodatočným platobným výmerom na základe kontroly alebo revízie urobenej po určení. Ak organizácia rozdiel včítane zvýšenia (§ 27 ods. 2 zákona) nezaplatila do 15 dní po doručení platobného výmeru, je povinná platiť z nedoplatku k lehote zročnosti penále podľa § 27 ods. 1 zákona.
