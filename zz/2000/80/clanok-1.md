@@ -472,6 +472,14 @@ Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej staro
 
 - Doterajšie odseky 5 a 6 sa označujú ako odseky 6 a 7.
 
+- 44. V § 59 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Je zakázané využívať na účely kúpeľnej starostlivosti prírodné zdroje vôd, rašelín, slatín, bahien, plynov a emanácií, ktoré nie sú vyhlásené za prírodné liečivé zdroje.“.
+
+- Doterajšie odseky 3 a 4 sa označujú ako odseky 4 a 5.
+
 - 45. V § 63 ods. 2 písm. h) a i) sa vypúšťajú slová „a prevádzkovať“.
 
 - 46. V § 65 ods. 7 písmeno g) znie:
