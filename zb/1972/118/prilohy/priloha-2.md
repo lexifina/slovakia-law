@@ -1,0 +1,3 @@
+Príloha č. 2 vyhlášky č. 118/1972 Zb.
+
+- ODPORÚČANÝ VZOR DOHODY O HMOTNEJ ZODPOVEDNOSTI [Vzor 02](../assets/a7af99fdb878542e55cc5b7eb32be39ee87c489197422686523f22683f45c5de.pdf)
