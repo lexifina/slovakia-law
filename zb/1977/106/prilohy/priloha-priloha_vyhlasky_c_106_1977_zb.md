@@ -1,57 +1,45 @@
-Príloha vyhlášky č. 106/1977 Zb. Prevzatie vadných dodávok hnedého uhlia podľa § 22 ods. 4
+Príloha vyhlášky č. 106/1977 Zb. Prevzatie vadných dodávok uhlia a brikiet obchodom s palivami
 
-Pôvodná deklarácia dodávky | Kritériá vád | Nová deklarácia dodávky
+Pôvodná deklarácia dodávky | | Kritérium vád | Nová deklarácia dodávky |
 
-I. Obsah viditeľnej hlušiny | |
+1. Obsah viditeľnej hlušiny | | | |
 
-Hrubé | |
+uhlie ak. skupiny | A | 101 - 200 % normy | ak. skupina | B
 
-A hrubé | norma až 8 % | B hrubé
+| | nad 201 % normy | | C
 
-| 9 až 15 % | B orechové
+| B | 101 - 200 % normy | | C
 
-| 16 až 20 % | A prach
+| | nad 201 % normy | prach | C
 
-| nad 20 % | podľa dohody strán
+| C | nad 100 % normy | prach | C
 
-B hrubé | norma až 10 % | B orechové
+2. Obsah prachu | | | |
 
-| 11 až 15 % | C orechové
+uhlie ak. skupiny | A | 101 - 200 % normy | ak. skupina | B
 
-| 16 až 20 % | C prach
+| | nad 201 % normy | | C
 
-| nad 20 % | podľa dohody strán
+| B | 101 - 200 % normy | | C
 
-C hrubé | norma až 20 % | C prach
+| | nad 201 % normy | prach | C
 
-| nad 20 % | podľa dohody strán
+| C | nad 100 % normy | prach | C
 
-II. Obsah prachu | |
+3. Obsah podsitného | | | |
 
-Hrubé | |
+brikety | | 101 - 200 % normy | zlomky |
 
-A hrubé | norma až 10 % | B hrubé
+| | nad 201 % normy | triesky |
 
-| 11 až 20 % | B orechové
+4. Samovznietenie v záručnej dobe | | | |
 
-| nad 20 % | A prach
+hnedé uhlie | | | |
 
-B hrubé | norma až 10 % | B orechové
+akostnej skupiny | A | | prach | B
 
-| nad 10 % | B prach
+akostnej skupiny | B | | prach | C
 
-C hrubé | nad normu | C prach
+akostnej skupiny | C | | ťažné a ostatné |
 
-Stredné | |
-
-A orechové | norma až 15 % | B orechové
-
-| 16 až 25 % | A prach
-
-| nad 25 % | C prach
-
-B orechové | norma až 15 % | B prach
-
-| nad 15 % | C prach
-
-C orechové | nad normu | C prach
+brikety | | | triesky |
