@@ -72,6 +72,8 @@ Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení
 
 - 24. V § 63 ods. 1 sa vypúšťa písmeno c).
 
+- 25. V § 63 ods. 3 sa za slová „odseku 1“ vkladajú slová „písm. a)“ a slová „§ 75 ods. 6“ sa nahrádzajú slovami „§ 75 ods. 4“.
+
 - 26. V § 63 ods. 4 sa za slová „mesačného príspevku“ vkladajú slová „pripísaného na bežný účet dôchodkového fondu po pripísaní dôchodkových jednotiek na osobný dôchodkový účet sporiteľa“ a na konci sa pripája táto veta: „Postup pri výpočte a zúčtovaní odplaty za správu dôchodkového fondu a odplaty za vedenie osobného dôchodkového účtu môže ustanoviť všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
 
 - 27. V § 63 sa vypúšťa odsek 5.
