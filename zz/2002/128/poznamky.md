@@ -28,6 +28,10 @@
 
 - § 24 zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
+- 14a) § 1 písm. a) zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
+
+- 14b) Napríklad § 13 ods. 3 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z., nariadenie vlády Slovenskej republiky č. 391/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na strojové zariadenia v znení nariadenia vlády Slovenskej republiky č. 475/2000 Z. z. a nariadenia vlády Slovenskej republiky č. 161/2002 Z. z., nariadenie vlády Slovenskej republiky č. 393/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na spotrebiče plynných palív v znení nariadenia vlády Slovenskej republiky č. 148/2002 Z. z., nariadenie vlády Slovenskej republiky č. 392/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia v znení nariadenia vlády Slovenskej republiky č. 149/2002 Z. z.
+
 - 15) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
 - 16) Zákon č. 152/1995 Z. z. v znení neskorších predpisov.
