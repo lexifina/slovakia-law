@@ -8,7 +8,7 @@
 
 - 5) Zákon č. 330/2000 Z. z. o burze cenných papierov.
 
-- 6) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
+- 6) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
 - 7) Zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
 
