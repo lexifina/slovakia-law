@@ -1,1 +1,3 @@
+- 1) § 7 ods. 5 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení zákona č. 329/2000 Z. z.
+
 - 1a) § 7 ods. 5 zákona č. 385/1999 Z. z. o kolektívnom investovaní v znení zákona č. 329/2000 Z. z.
