@@ -1,0 +1,1 @@
+- *) Zákon č. 82/1968 Zb. o súdnej rehabilitácii nadobudol účinnosť 1. augustom 1968.
