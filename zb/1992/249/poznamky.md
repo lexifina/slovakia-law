@@ -24,13 +24,11 @@
 
 - 9a) Napr. zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
 
-- 9b) § 54 ods. 2 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 9b) § 54 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 80/2000 Z. z.
 
 - 9c) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
-- 9d) § 74a a § 87 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
-
-- 9e) § 27 ods. 1 a 2 písm. e) zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+- 9d) § 18 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
 
 - 9f) § 5 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach a § 12 vyhlášky Ministerstva školstva a vedy Slovenskej republiky č. 353/1994 Z. z. o predškolských zariadeniach.
 
