@@ -1,0 +1,1 @@
+Príloha č. 25 k vyhláške č. 25/2004 Z. z. [Vzor 25 - Návrh na výmaz európskej spoločnosti po premiestnení jej sídla do iného členského štátu](../assets/d9bcbabc1b5a4cef1137664760c92a37985a988464168626997d326b06900265.pdf)

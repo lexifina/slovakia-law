@@ -2,6 +2,32 @@
 
 - 2) § 60 ods. 4 Obchodného zákonníka.
 
+- 2a) Článok 14 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov (EZHZ) (Ú. v. ES L 199, 31. 07. 1985).
+
+- 2b) Článok 25 nariadenia Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Ú. v. ES L 294, 10. 11. 2001).
+
+- 2c) § 42 zákona č. 562/2004 Z. z. o európskej spoločnosti a o zmene a doplnení niektorých zákonov.
+
+- 2d) § 41 ods. 1 zákona č. 562/2004 Z. z.
+
+- 2e) § 43 ods. 2 zákona č. 562/2004 Z. z.
+
+- 2f) Článok 32 ods. 3 nariadenia Rady (ES) č. 2157/2001.
+
+- 2g) Článok 33 ods. 2 nariadenia Rady (ES) č. 2157/2001.
+
+- 2h) Článok 2 ods. 3 nariadenia Rady (ES) č. 2157/2001.
+
+- 2i) Článok 37 nariadenia Rady (ES) č. 2157/2001.
+
+- 2j) Článok 37 ods. 5 nariadenia Rady (ES) č. 2157/2001.
+
+- 2k) Článok 3 ods. 4 nariadenia Rady (ES) č. 2157/2001.
+
+- 2l) Článok 8 nariadenia Rady (ES) č. 2157/2001.
+
+- 2m) Článok 66 ods. 1 nariadenia Rady (ES) č. 2157/2001.
+
 - 3) § 69a ods. 3 písm. a) Obchodného zákonníka.
 
 - 4) § 69a ods. 3 písm. b) Obchodného zákonníka.

@@ -1,1 +1,1 @@
-Príloha č. 15 k vyhláške č. 25/2004 Z. z. [Vzor 15 - Návrh na zápis podniku zahraničnej osoby/organizačnej zložky podniku zahraničnej osoby do obchodného registra](../assets/dfcc3307263a8d695e2c471185a64624ba96fbe868897a36a50216fe2dc266fe.pdf)
+Príloha č. 15 k vyhláške č. 25/2004 Z. z. [Vzor 15 - Návrh na zápis podniku zahraničnej osoby/organizačnej zložky podniku zahraničnej osoby do obchodného registra](../assets/bf72bd9a3190a7a8efbef702a3d4e7c008b2816fd5b18314aa9cc59e8ff61544.pdf)

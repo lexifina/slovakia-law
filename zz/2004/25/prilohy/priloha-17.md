@@ -1,1 +1,1 @@
-Príloha č. 17 k vyhláške č. 25/2004 Z. z. [Vzor 17 - Návrh na zápis inej právnickej osoby do obchodného registra](../assets/e9694f5335f98fe4ddbba504d2b4d4594a54331875617db21de0e427cfe96fa9.pdf)
+Príloha č. 17 k vyhláške č. 25/2004 Z. z. [Vzor 17 - Návrh na zápis inej právnickej osoby do obchodného registra](../assets/ac7133e9de6ab9c049fdfb26ee32cf481290b1089fbfbc605cf82b0f9bbc867c.pdf)
