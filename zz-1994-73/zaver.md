@@ -1,0 +1,1 @@
+Imrich Andrejčák v. r.
