@@ -1,0 +1,1 @@
+- VZOR Č. 1 [Vzor 01](../assets/8abe411e18537af05c08249cecf7cec4f9c1d1385e049108809467703f0f4118.pdf)
