@@ -4,6 +4,10 @@
 
 - 2a) § 2 zákona č. 498/1990 Zb.
 
+- 2b) § 6 zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
+
+- 2c) § 4a zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
+
 - 3) § 90 zákona č. 100/1988 Zb. o sociálnom zabezpečení.
 
 - 4) § 91 zákona č. 100/1988 Zb.
@@ -30,7 +34,11 @@
 
 - 11) § 29 ods. 2 písm. c) zákona č. 100/1988 Zb.
 
-- 12) § 118 vyhlášky č. 149/1988 Zb.
+- 12) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 251/1993 Z. z., ktorou sa ustanovuje obsah a podmienky poskytovania poradenskej činnosti úradmi práce.
+
+- 12a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
+- 12b) § 3 ods. 3 písm. a) a b) vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 285/1992 Zb. o vykonávaní pracovnej rehabilitácie občanov so zmenenou pracovnou schopnosťou v znení vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 283/1994 Z. z.
 
 - 13) Zákon č. 156/1989 Zb. o odvodoch do štátneho rozpočtu.
 
@@ -54,7 +62,9 @@
 
 - Zákon č. 172/1990 Zb. o vysokých školách.
 
-- 20) § 116 vyhlášky č. 149/1988 Zb.
+- 20) Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 285/1992 Zb. o vykonávaní pracovnej rehabilitácie občanov so zmenenou pracovnou schopnosťou v znení vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 283/1994 Z. z.
+
+- 20a) § 116 Občianskeho zákonníka.
 
 - 21) Zákon č. 195/1991 Zb. o odstupnom poskytovanom pri skončení pracovného pomeru.
 
@@ -67,6 +77,8 @@
 - § 96 zákona č. 334/1991 Zb. o služobnom pomere policajtov zaradených vo Federálnom policajnom zbore a v Zbore hradnej polície.
 
 - § 117 zákona Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky.
+
+- 22a) § 18 ods. 4 až 6 zákona Národnej rady Slovenskej republiky č. 10/1993 Z. z. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 23) § 2 ods. 1 písm. b) nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení nariadenia vlády Slovenskej republiky č. 645/1992 Zb.
 
