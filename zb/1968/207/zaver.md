@@ -1,1 +1,0 @@
-Predseda: Klokoč v. r.
