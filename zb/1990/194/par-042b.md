@@ -4,7 +4,7 @@
 
 (2) Pri prevádzkovaní lotérií a iných podobných hier musia byť osoby oprávnené prijímať stávky (predávať žreby) a vyplácať výhry v pracovnom pomere alebo v pomere obdobnom pracovnému pomeru s organizáciou, ktorej bolo vydané povolenie.
 
-(3) Zamestnanci prevádzkovateľa lotérií a iných podobných hier musia byť bezúhonní a odborne spôsobilí. Pracovníci vo funkciách riaditeľ, vedúci ekonóm, vedúci kasína musia mať česko-slovenskú štátnu príslušnosť.
+(3) Zamestnanci prevádzkovateľa lotérií a iných podobných hier musia byť bezúhonní a odborne spôsobilí. Pracovníci vo funkciách riaditeľ, vedúci ekonóm, vedúci kasína musia mať slovenské štátne občianstvo.
 
 (4) Osoba oprávnená prijímať stávky sa nesmie zúčastňovať stávok u prevádzkovateľa, pre ktorého prijíma stávky.
 
@@ -14,19 +14,17 @@
 
 (7) Stávky možno prijímať len v hotovosti. Ministerstvo môže povoliť bezhotovostný príjem stávok pri tipovaní prostredníctvom telekomunikačných zariadení podľa osobitne schváleného herného poriadku. Takto prijímané stávky možno uhrádzať len z účtu hráča na základe jeho príkazu pri prevádzkovaní stávkových hier podľa § 2 písm. c) a h).
 
-(8) Lotérie a iné podobné hry je zakázané prevádzkovať:
+(8) Lotérie a iné podobné hry je zakázané vykonávať
 
-- a) na Veľký piatok, 24. decembra a v deň prvého vianočného sviatku,
+- a) na Veľký piatok, 24. a 25. decembra,
 
-- b) v deň volieb do zastupiteľských zborov,
+- b) v deň štátneho smútku,
 
-- c) v deň štátneho sviatku,
+- c) mimo herných hodín určených v povolení alebo v návštevnom poriadku.
 
-- d) mimo herných hodín určených v povolení alebo návštevnom poriadku.
+(9) Je zakázané prevádzkovať výherné prístroje v priestore železničnej a autobusovej stanice, v školách, školských zariadeniach, zariadeniach sociálnej starostlivosti pre deti a mládež, ubytovniach mládeže, zdravotníckych zariadeniach a v budovách štátnych orgánov. S výnimkou osobitne zriadených herní so stálym dozorom prevádzkovateľa je zakázané prevádzkovať výherné prístroje vo vzdialenosti 200 metrov od školy, školských zariadení, zariadení sociálnej starostlivosti pre deti a mládež a ubytovní mládeže.
 
-(9) Výherné prístroje s výnimkou osobitne zriadených herní so stálym dozorom je zakázané prevádzkovať v okruhu do 200 metrov od školy, ubytovne mládeže a iného podobného zariadenia.
-
-(10) Prevádzkovateľ a osoby, ktoré sú k nemu v pracovnom pomere alebo v pomere obdobnom pracovnému pomeru, zmluvní partneri, zástupcovia orgánu štátneho dozoru, ministerstva alebo iného správneho orgánu sú povinní zachovávať mlčanlivosť o účastníkoch stávok (hráčoch) a ich účasti na hre (ich zisku či strate). Porušenie tejto povinnosti sa trestá pokutou vo výške 100 000 Kčs.
+(10) Prevádzkovateľ a osoby, ktoré sú k nemu v pracovnom pomere alebo v pomere obdobnom pracovnému pomeru, zmluvní partneri, zástupcovia orgánu štátneho dozoru, ministerstva alebo iného správneho orgánu sú povinní zachovávať mlčanlivosť o účastníkoch stávok (hráčoch) a ich účasti na hre (ich zisku či strate). Porušenie tejto povinnosti sa trestá pokutou vo výške 100 000 Sk.
 
 (11) Povinnosť zachovávať mlčanlivosť o účastníkoch stávok a ich účasti na hre sa nevzťahuje na prípady
 

@@ -1,0 +1,7 @@
+# Čl. II
+
+- 1. Zostatok nerozdeleného obslužného v kasínach ku dňu účinnosti tohto zákona z uplynulých období je prevádzkovateľ povinný zahrnúť do výťažku pri vykonaní prvého odvodu z výťažku v roku 1997.
+
+- 2. Prevádzkovateľ, ktorý má ku dňu účinnosti tohto zákona platné povolenie na prevádzkovanie lotérií a iných podobných hier podľa doterajších predpisov, je povinný požiadať najneskôr do 1. decembra 1996 orgán, ktorý lotériu alebo inú podobnú hru povolil, o zmenu podmienok prevádzkovania podľa tohto zákona, inak povolenie ku dňu účinnosti tohto zákona s výnimkou povolení vydaných podľa § 2 písm. a), b) a d) zákona Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov zaniká. Povolenia na prevádzkovanie lotérií a iných podobných hier podľa § 2 písm. i) vydané právnickým osobám s majetkovou účasťou zahraničných osôb strácajú platnosť dňom uvedeným v povolení. Dňom vyhlásenia tohto zákona do 1. januára 1997 nemôže povoľujúci orgán vydať právnickej osobe s majetkovou účasťou zahraničných osôb povolenie na prevádzkovanie stávkových hier podľa § 2 písm. i) zákona Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení zákona Slovenskej národnej rady č. 68/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
+
+- 3. Štátne lotérie prevádzkované ku dňu účinnosti tohto zákona podľa doterajších predpisov sa považujú za štátne lotérie podľa § 4 tohto zákona.

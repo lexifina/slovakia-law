@@ -1,27 +1,55 @@
 # § 42a Povoľovanie lotérií a iných podobných hier
 
-(1) Prevádzkovanie lotérií a iných podobných hier možno povoliť organizácii so sídlom v Slovenskej republike. Ministerstvo môže povoliť prevádzkovanie lotérií na území Slovenskej republiky aj prevádzkovateľovi so sídlom v Českej republike, pokiaľ sa budú lotérie prevádzkovať na celom území Českej a Slovenskej Federatívnej Republiky. Rozdelenie výťažku z lotérie dohodne ministerstvo v Ministerstvom financií Českej republiky a uvedie v povolení.
+(1) Prevádzkovanie lotérií a iných podobných hier možno povoliť len právnickej osobe so sídlom v Slovenskej republike bez majetkovej účasti zahraničných osôb. Povolenie na stávkové hry v kasíne podľa § 2 písm. i) možno vydať len právnickej osobe, v ktorej má majetkovú účasť alebo štát, alebo právnická osoba s majetkovou účasťou štátu. Majetková účasť štátu alebo právnickej osoby, v ktorej má majetkovú účasť štát, musí byť u právnickej osoby, ktorej sa povoľuje prevádzkovanie stávkovej hry podľa § 2 písm. i), najmenej vo výške 51 % jej základného imania.
 
-(2) Obec vo svojom územnom obvode môže povoliť tomboly s hernou istinou do 80 000 Kčs, vecné lotérie s hernou istinou do 200 000 Kčs a prevádzkovanie výherných prístrojov na česko-slovenskú menu.
+(2) Povolenie na prevádzkovanie lotérie alebo inej podobnej hry podľa odseku 1 možno vydať právnickej osobe pred zápisom do obchodného registra, ak sa preukázalo, že právnická osoba bola založená. Oprávnenie na prevádzkovanie vzniká dňom zápisu do obchodného registra. Ak právnická osoba nepodá návrh na zápis do 90 dní od doručenia povolenia na prevádzkovanie lotérie alebo inej podobnej hry alebo ak sa návrhu na zápis do obchodného registra nevyhovie, musí právnická osoba vydané povolenie vrátiť orgánu, ktorý lotériu alebo inú podobnú hru povolil.
 
-(3) Ministerstvo môže povoliť prevádzkovanie lotérií a iných podobných hier podľa tohto zákona obci, ako aj prevádzkovanie hier podĺa § 2 písm. a) až i) s výnimkou hier uvedených v odseku 2.
+(3) Tomboly podľa § 2 písm. b), vecné lotérie podľa § 2 písm. a) s hernou istinou do 200 000 Sk a výherné prístroje podľa § 2 písm. e) môže povoliť vo svojom územnom obvode obec.
 
-(4) Prevádzkovanie lotérií a stávkových hier podľa § 2 písm. c), f), g), h) a i) možno povoliť najdlhšie na dobu 5 rokov, podľa § 2 písm. d) najdlhšie na dobu predaja žrebov na jeden rok a podľa § 2 písm. e) najdlhšie na jeden kalendárny rok.
+(4) Ministerstvo môže povoliť prevádzkovanie lotérií a iných podobných hier neuvedených v odseku 3 a prevádzkovanie výherných prístrojov, ak sú umiestnené v kasínach alebo ak sa prevádzkujú v cudzej mene, ako aj ďalšie lotérie a iné podobné hry neuvedené v § 2 písm. a) až i), ktoré spĺňajú podmienku podľa § 1. V povoleniach na výherné prístroje môže ministerstvo určiť podmienky prevádzkovania odchylne od ustanovenia § 20 ods. 1 písm. f), § 20 ods. 2 a ods. 4 a § 20a ods. 2.
 
-(5) Práva a povinnosti na prevádzkovanie lotérií a iných podobných hier vyplývajúce z platného povolenia nemožno previesť na inú právnickú alebo fyzickú osobu bez súhlasu povoľovacieho orgánu.
+(5) Povolenie možno vydať najdlhšie na
 
-(6) Prevádzkovanie lotérií a stávkových hier možno povoliť organizácii za predpokladu, že preukáže splnenie podmienok na riadne prevádzkovanie týchto hier, najmä, že má vyčlenený majetok pre túto činnosť vo výške aspoň 1 000 000 Kčs pri začiatku prevádzkovania stávkových hier podľa § 2 písm. e), 300 000 Kčs na jednu prevádzkáreň pri stávkových hrách podľa § 2 písm. g), 2 500 000 Kčs pri prevádzkovaní stávkových hier podľa § 2 písm. h) a 15 000 000 Kčs na jedno kasíno pri prevádzkovaní stávkových hier podľa § 2 písm. i) a že poskytne zebezpečenie na pohľadávky štátu a výplatu výhier účastníkom.
+- a) päť rokov pri lotériách a stávkových hrách podľa § 2 písm. c), f), g), h) a i),
 
-(7) Na zabezpečenie podľa odseku 6 určí ministerstvo v povolení konkrétnu sumu (ďalej len „istota“), najmenej vo výške 500 000 Kčs prevádzkovateľovi stávkových hier pomocou výherných prístrojov podľa § 2 písm. e), 300 000 Kčs na jednu prevádzkáreň pri stávkových hrách podľa § 2 písm. g), 1 000 000 Kčs pri prevádzkovaní stávkových hier podľa § 2 písm. h) a 1 500 000 Kčs na jedno kasíno pri prevádzkovaní stávkových hier podľa § 2 písm. i).
+- b) dva roky pri lotériách podľa § 2 písm. a) a d), pričom predaj žrebov nesmie trvať dlhšie ako jeden rok,
 
-(8) Istotu uloží prevádzkovateľ na osobitný účet v peňažnom ústave. Prevádzkovateľ s ňou môže disponovať len so súhlasom povoľujúceho orgánu. Pri použití istoty sa prednostne uhradia pohľadávky štátu. Ak istota nestačí na výplaty výhier účastníkom, uhradia sa tieto pohľadávky pomerne podľa ich výšky.
+- c) jeden kalendárny rok pri stávkových hrách podľa § 2 písm. e),
 
-(9) Istota sa uvoľní len vtedy, ak uplynula lehota, na ktorú sa povolenie vydalo alebo sa zrušilo alebo sa skončila činnosť, za podmienky, že verejnosti sa oznámil úmysel istotu vrátiť a nikto z účastníkov sa do 30 dní po oznámení neprihlásil so svojimi nárokmi.
+- d) päť rokov pri lotériách a iných podobných hrách neuvedených v § 2, ak spĺňajú podmienky podľa § 1.
 
-(10) V povoleniach na prevádzkovanie výherných prístrojov povoľujúci orgán určí istotu vo výške 30 000 Kčs za jeden výherný prístroj.
+(6) Práva a povinnosti na prevádzkovanie lotérií a iných podobných hier vyplývajúce z platného povolenia nemožno previesť na inú právnickú osobu alebo fyzickú osobu bez súhlasu povoľujúceho orgánu. Prevádzkovateľ sa nemôže zbaviť zodpovednosti za porušenie podmienok povolenia a ustanovení tohto zákona spôsobené inými osobami.
 
-(11) Ministerstvo môže ustanoviť jedného člena správnej a dozornej rady organizácie, ktorá prevádzkuje lotérie a iné podobné hry podľa § 2 písm. c), g), h) a i).
+(7) Prevádzkovanie lotérií a iných podobných hier možno povoliť, ak základné imanie právnickej osoby, ktorá žiada o povolenie na prevádzkovanie lotérie alebo inej podobnej hry, je najmenej
 
-(12) Organizácia je povinná pred vydaním povolenia na prevádzkovanie stávkových hier podľa § 2 písm. e), g), h) a i) doručiť ministerstvu súhlas na začatie prevádzky od obce.
+- a) 1 000 000 Sk pri stávkových hrách podľa § 2 písm. e),
 
-(13) Lotérie a iné podobné hry je povolené vykonávat len v stálych prevádzkových priestoroch, s výnimkou lotérií a tombol podľa § 2 písm. a), b) a d).
+- b) 300 000 Sk pri stávkových hrách podľa § 2 písm. g),
+
+- c) 2 500 000 Sk pri stávkových hrách podľa § 2 písm. h),
+
+- d) 15 000 000 Sk na jedno kasíno pri stávkových hrách podľa § 2 písm. i),
+
+(8) Základné imanie podľa odseku 7 musí byť splatené v plnej výške najneskôr v deň podania žiadosti o povolenie prevádzkovania lotérie alebo inej podobnej hry a počas platnosti tohto povolenia nemôže klesnúť pod limity ustanovené v odseku 7.
+
+(9) Na zabezpečenie svojej činnosti prevádzkovateľ je povinný uložiť na svoj osobitný účet v banke so sídlom v Slovenskej republike v lehote určenej orgánom, ktorý lotériu alebo inú podobnú hru povolil, peňažnú sumu určenú orgánom, ktorý lotériu alebo inú podobnú hru povolil v povolení (ďalej len „istota“), a to vo výške
+
+- a) 10 000 Sk na jeden výherný prístroj, ak prevádzkuje stávkové hry pomocou výherných prístrojov podľa § 2 písm. e),
+
+- b) 300 000 Sk na jednu herňu, ak prevádzkuje stávkové hry podľa § 2 písm. g),
+
+- c) 50 000 Sk na jednu stávkovú kanceláriu, ak prevádzkuje stávkové hry podľa § 2 písm. h), najviac však 3 000 000 Sk,
+
+- d) 1 500 000 Sk na jedno kasíno, ak prevádzkuje stávkové hry podľa § 2 písm. i),
+
+V ostatných prípadoch určí výšku istoty orgán, ktorý lotériu alebo inú podobnú hru povolil v povolení, a to v závislosti od výšky hernej istiny.
+
+(10) Orgán, ktorý lotériu alebo inú podobnú hru povolil, je povinný uvoľniť istotu, len ak uplynula lehota na prevádzkovanie lotérie alebo inej podobnej hry určená v povolení, alebo orgán, ktorý lotériu alebo inú podobnú hru povolil, povolenie zrušil, a to po odsúhlasení vyúčtovania lotérie alebo inej podobnej hry orgánom štátneho dozoru. Orgán štátneho dozoru je povinný bezodkladne písomne informovať orgán, ktorý lotériu alebo inú podobnú hru povolil, o odsúhlasení vyúčtovania lotérie alebo inej podobnej hry.
+
+(11) Istotu môže prevádzkovateľ použiť počas platnosti povolenia na prevádzkovanie lotérie alebo inej podobnej hry, ak nemá dostatok iných vlastných prostriedkov, a to len na úhradu odvodov z výťažku podľa § 4a ods. 1 až 3 a odseku 5, na úhradu odvodu podľa § 4a ods. 4 a podľa § 42d, prípadne na výplaty výher hráčom. Takto môže prevádzkovateľ istotu použiť len po predchádzajúcom písomnom súhlase orgánu, ktorý lotériu alebo inú podobnú hru povolil, a to prednostne na úhradu podľa § 4a ods. 1 až 5 a § 42d.
+
+(12) Ministerstvo môže ustanoviť jedného člena do orgánov právnickej osoby, ktorá prevádzkuje lotérie a iné podobné hry podľa § 2 písm. g), h) a i).
+
+(13) Právnická osoba je povinná pred vydaním povolenia na prevádzkovanie stávkových hier podľa § 2 písm. f), g), h) a i) doručiť povoľujúcemu orgánu súhlas na vykonávanie činnosti od obce; pri stávkových hrách podľa § 2 písm. e) iba vtedy, ak povolenie vydáva ministerstvo.
+
+(14) Lotérie a iné podobné hry možno vykonávať len v priestoroch určených v povolení.
