@@ -88,12 +88,6 @@
 
 - 13hc) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 13hd) Čl. I § 7 zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z. o niektorých opatreniach na zabezpečenie hospodárenia Slovenskej republiky v roku 1995 a o zmene a doplnení niektorých zákonov.
-
-- 13he) § 53 až 68 zákona č. 71/1967 Zb.
-
-- 13hf) Občiansky súdny poriadok.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
 - 13hg) § 524 až 530 Občianskeho zákonníka.
 
 - 13hh) Občiansky súdny poriadok.Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
@@ -143,6 +137,8 @@
 - 21ab) § 36 ods. 1 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení zákona č. 138/2003 Z. z.
 
 - 21ac) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
+- 21ad) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z.
 
 - 21b) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
 
