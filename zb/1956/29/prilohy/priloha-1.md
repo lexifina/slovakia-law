@@ -8,47 +8,43 @@
 
     - Pre pohraničný turistický ruch sa vymedzujú tieto územia (ďalej len „turistické oblasti“):
 
-  - v Československej socialistickej republike:
+  - V Poľskej ľudovej republike:
 
     - I. Turistická oblasť Dukla:
 
-    - zahrňuje územie pozdĺž cesty do Dukelského priesmyku cez Vyšný a Nižný Komárnik, Krajnú Poľanu, Hunkovce a Ladomírovú do Svidníka, včítane dukelského pamätníka a cintorína, vyhliadkovej veže pri kameni 153/3, stanovište I. a III. československej brigády a vyhliadkové plošiny pri Nižnom Komárniku a územie pozdĺž cesty od križovatky medzi Ladomírovou a Svidníkom cez Kapišovú do Nižnej Písanej a odtiaľ jednak do Vyšnej Písanej a jednak cez Dlhoňu do Havranca.
+    - zahŕňa územie pozdĺž cesty od Dukelského priesmyku cez Barwinek, Tylawu, Trzcianu a Lipowiec do Dukly, vrátane Dukly s okolitými obcami Teodorówkou, Nadolom, Zboiskami, Cergowou a Zakluczynom.
 
     - II. Turistická oblasť Tatry:
 
-    - územie vymedzené čiarou prebiehajúcou od miesta, kde cesta z Javoriny do Lysej Poľany pretína štátne hranice, po ceste cez Podspády, Ždiar, Tatranskú Kotlinu, Kežmarské Žľaby, Matliare, Tatranskú Lomnicu, Starý a Nový Smokovec, Tatranskú Polianku na Štrbské Pleso a ďalej cez kóty 1262 a 1178 na Tri Studne (kóta 1090), odtiaľ do Podbanska a po ceste do Pribyliny a ďalej po ceste Račkovou dolinou ku kóte 885, ďalej Jamnickou dolinou ku kóte 1797 a odtiaľ na Tri Kopy a Roháčskou dolinou cez Studený potok (kóta 1687/1), Suchú dolinu a Bobrovec do obce V Oraviciach a Tichou dolinou na štátne hranice (kóta 1103).
-
-    - III. Turistická oblasť Oravská priehrada:
-
-    - územie vymedzené čiarou prebiehajúcou od hraničného prechodu Trstená-Chyžné po ceste cez Trstenú, Tvrdošín a Ústie a ďalej cez most do Námestova a odtiaľ cez križovatku južne od Zubrohlavy a cez Bobrov ku štátnym hraniciam.
-
-    - IV. Turistická oblasť Krkonoše:
-
-    - územie vymedzené čiarou prebiehajúcou od hraničného prechodu Pomezné boudy-Krzaczyna po ceste cez Malú Úpu na križovatku pri kóte 6410 a odtiaľ do Pece pod Sněžkou a ďalej chodníkom ku kóte 1163,5 cez Bobie boudy na cestu k Lesnej boude a po nej cez Lesnú boudu a Liščiu horu na rázcestie pri bufete a odtiaľ do Špindlerovho Mlýna a cez Jestřabie, Dvorské boudy a Čertov vrch do Harrachova a ďalej po ceste ku štátnym hraniciam smerom k Jakuszyciam;
-
-  - v Poľskej ľudovej republike:
-
-    - I. Turistická oblasť Dukla:
-
-    - zahrňuje územie pozdĺž cesty od Dukelského priesmyku cez Barwinek, Tylawu, Trzcianu, Lipowec do Dukly včítane Dukly s okolitými obcami Teodorówka, Nadole, Zboiska, Cergowa a Zakluczyn.
-
-    - II. Turistická oblasť Tatry:
-
-    - územie vymedzené čiarou začínajúcou v bode, v ktorom cesta z Bobrova do Jablonky pretína štátne hranice a prebiehajúcou ďalej po ceste do obce Czarny Dunajec a ďalej po rieke Czarny Dunajec do Noweho Targu a odtiaľ po rieke Dunajec k mostu v Debne a od tohto mosta po ceste cez Maniowy, Czorsztyn, Kluszkowce do Kroscienka a ďalej po rieke Dunajec ku štátnym hraniciam.
+    - územie vymedzené čiarou začínajúcou v bode, v ktorom cesta z Bobrova do Jablonky pretína štátne hranice a prebiehajúcou ďalej po ceste cez Jablonku, Podwilk, Spytkowice, Rabku, Dolnú Mszanu, Tymbark, Tegoborze, Limanowú, Wytrzyszczku, Rozkotu, Dabrowú, Nowy Sacz, Stary Sacz, Golkowice a ďalej pozdĺž Dunajca k štátnym hraniciam.
 
     - III. Turistická oblasť Klodzko:
 
-    - územie vymedzené čiarou začínajúcou v bode, v ktorom cesta z Božanova do Radkowa pretína štátne hranice a prebiehajúcou ďalej po ceste cez Radków do Scinawky Srednej a ďalej pozdĺž železnice cez Klodzko, Bardo, Kamienec Zabkowicki od Otmuchova a z Otmuchova po ceste cez Paczków, Zloty Stok, Klodzko, Bystrzicu Klodzkú, Domaszków, Rózanku a Kolóniu Lesica na štátne hranice.
+    - územie vymedzené čiarou začínajúcou v bode, v ktorom cesta z Božanova do Radkówa pretína štátne hranice, a prebiehajúcou ďalej po ceste cez Radków do Scinawky Šrední a ďalej pozdĺž železnice cez Klodzko, Bardo, Kamieniec Zabkowicki do Otmuchowa a z Otmuchowa po ceste cez Paczków, Zloty Stok, Klodzko, Bystrzycu Klodzkú, Domaszków, Rózanku a Koloniu Lesica na štátne hranice.
 
     - IV. Turistická oblasť Krkonoše:
 
-    - územie vymedzené čiarou prebiehajúcou od hraničného prechodu v Jakuszyciach po ceste cez Szklarskú, Porebu, Piechowice, Piastów, Sobieszów, Sosnówku, Milków, Sciegny na rázcestie a odtiaľ cestou cez Krzaczynu do miesta, kde cesta z Krzaczyny do Pomezných búd pretína štátne hranice.
+    - územie vymedzené čiarou prebiehajúcou od hraničného prechodu v Jakuszyciach pozdĺž železnice cez Szklarskú Porebu, Piechowice, Cieplice Zdrój a Jeleniu Góru a ďalej po ceste cez Kowary až k bodu, kde sa s ňou stýka cesta z Przeleczy Okraj, a potom po tejto ceste do Przeleczy Okraj.
+
+  - V Československej socialistickej republike:
+
+    - I. Turistická oblasť Dukla:
+
+    - zahŕňa územie pozdĺž cesty od Dukelského priesmyku cez Vyšný a Nižný Komárnik, Krajnú Poľanu, Hunkovce a Ladomírovú do Svidníka, vrátane dukelského pamätníka a cintorína, vyhliadkovej veže pri kameni 153/3, stanovište I. a III. československej brigády a vyhliadkovej plošiny pri Nižnom Komárniku a územie pozdĺž cesty od križovatky medzi Ladomírovou a Svidníkom cez Kapišovú do Nižnej Pisanej a odtiaľ jednak do Vyšnej Pisanej a jednak cez Dlhoňu do Havranca.
+
+    - II. Turistická oblasť Tatry:
+
+    - zahŕňa územie vymedzené čiarou prebiehajúcou od bodu, kde cesta z Jablonky do Bobrova pretína štátne hranice, po tejto ceste do Bobrova a odtiaľ po ceste vedúcej južne od Zubrohlavy do Námestova a ďalej cez Ústie, Tvrdošín, Trstenú, Oravský Podzámok, Dolný Kubín, Kraľovany, Ružomberok, Liptovský Mikuláš - s prístupom po ceste do Demänovských jaskýň a výstupom na Chopok - ďalej z Liptovského Mikuláša pozdĺž cesty a železnice cez Liptovský Hrádok, Važec - vrátane Važeckých jaskýň - a Tatranskú Štrbu do Popradu a odtiaľ po ceste cez Veľký Slavkov, Dolný Smokovec, Starý Smokovec, Tatranskú Lomnicu, Tatranskú Kotlinu, Spišskú Belú, Slovenskú Ves, Reľov a Spišské Hanušovce do Spišskej Starej Vsi a potom po ceste k štátnym hraniciam vrátane Červeného Kláštora.
+
+    - III. Turistická oblasť Krkonoše:
+
+    - územie vymedzené čiarou prebiehajúcou od bodu, kde cesta z Jakuszyc do Harrachova pretína štátne hranice, po ceste vedúcej cez Nový Svět, Dolnú Rokytnicu, Přívlak, Hrabačov, Vrchlabí, Čistú, Leopold, Mladé Buky, Svobodu nad Úpou, Dolný a Horný Maršov, Malú Úpu a cez Pomezné boudy k štátnym hraniciam v priesmyku.
 
   - Článok 3
 
-    - 1. V turistickej oblasti Krkonoše sa otvára Cesta československo-poľského priateľstva vedúca po hrebeňoch Krkonôš pri československo-poľských štátnych hraniciach od miesta, kde cesta Pomezné boudy-Krzaczyna pretína štátne hranice, cez Sněžku, Malý a Veľký Šišák a Snežné jámy ku Szrenici. Občania oboch štátov môžu používať túto cestu na občiansky preukaz a pokiaľ ide o školskú mládež aj na iný preukaz totožnosti.
+    - 1. V turistickej oblasti Krkonoše sa otvára Cesta poľsko-československého priateľstva vedúca po hrebeňoch Krkonôš pri poľsko-československých štátnych hraniciach od miesta, kde cesta Krzaczyna - Pomezné boudy pretína štátne hranice, cez Sněžku, Malý a Velký Šišák a Sněžné Jámy k Szrenici. Občania obidvoch štátov môžu používať túto cestu na občiansky preukaz a pokiaľ ide o školskú mládež aj na iný preukaz totožnosti.
 
-    - 2. Aby sa uľahčilo spojenie medzi turistickými oblasťami Tatier a Oravskej priehrady, otvára sa pre turistický ruch cesta vedúca z Trstenej do Vitanovej a odtiaľ jednak k hraničnému prechodu Suchá Hora-Chocholów a jednak do obce V Oraviciach.
+    - 2. Z poľskej turistickej oblasti Tatry môžu sa podnikať československé organizované autobusové zájazdy na základe dohôd príslušných organizácií obidvoch krajín do Oswiecima po ceste z Chabówky cez Jordanów, Suchú, Wadowice a Zator, alebo do Krakowa a Wieliczky po ceste z Chabówky cez Myslenice. Trvanie každého takéhoto zájazdu nemôže prekračovať jeden deň.
 
   - Článok 4
 
