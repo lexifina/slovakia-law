@@ -1,0 +1,1 @@
+- 1) § 6 zákona č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení neskorších predpisov.
