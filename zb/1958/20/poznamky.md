@@ -1,0 +1,1 @@
+- *) Zákon č. 92/1949 Zb. v znení zákona č. 19/1958 Zb. nadobúda účinnosť 2. májom 1958.
