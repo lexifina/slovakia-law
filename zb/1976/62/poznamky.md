@@ -1,0 +1,3 @@
+- 1) Smernice Federálneho ministerstva vnútra z 23. decembra 1971 č. SKU-207/1971 pre manipuláciu a dopravu písomných a iných materiálov obsahujúcich skutočnosti tvoriace predmet štátneho, hospodárskeho a služobného tajomstva, oznámené v čiastke 6 Zbierky zákonov z roka 1972 a publikované v čiastke 7 Ústredného vestníka Slovenskej socialistickej republiky z roka 1972 pod č. 11; § 39 a nasl. nariadenia vlády Československej socialistickej republiky č. 153/1971 Zb. („účtovný archív" je označenie účtovnej spisovne).
+
+- 2) Vyhláška Ministerstva vnútra Slovenskej socialistickej republiky č. 63/1976 Zb., ktorou sa určujú kritériá na posudzovanie písomností ako archívnych dokumentov a upravujú niektoré podrobnosti o postupe pri vyraďovaní (škartácii) písomností.
