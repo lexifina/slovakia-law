@@ -1,0 +1,1 @@
+- 1) § 2 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení zákona č. 719/2004 Z. z.
