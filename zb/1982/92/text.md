@@ -18,6 +18,8 @@ Dňom 6. augusta 1994 stratila platnosť Dohoda medzi vládou ČSSR a vládou Zv
 
 Dňom 17. januára 1996 stratila platnosť Dohoda medzi vládou ČSSR a vládou Zväzu sovietskych socialistických republík o podmienkach vzájomných ciest občanov oboch štátov, podpísaná v Prahe 17. decembra 1981 vo vzťahu k Bieloruskej republike (oznámenie č. 76/1996 Z. z.).
 
+Dňom 28. júna 2000 stratila platnosť Dohoda medzi vládou ČSSR a vládou Zväzu sovietskych socialistických republík o podmienkach vzájomných ciest občanov oboch štátov podpísaná v Prahe 17. decembra 1981 vo vzťahu k Ukrajine (oznámenie č. 350/2000 Z. z.).
+
 Minister:
 
 Ing. Chňoupek v. r.
