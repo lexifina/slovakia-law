@@ -1,1 +1,0 @@
-- *) Uznesenie vlády zo 17. januára 1962 č. 12/1962 Zb., ktorým sa ustanovujú zásady pre rozmiesťovanie mládeže a pre prijímanie na ďalšie štúdium, čl. 2 ods. 4 smerníc Ministerstva školstva a kultúry pre rozmiesťovanie mládeže a prijímanie na štúdium na stredných školách z 25. januára 1962, č. 5222/62-II/5 (Vestník MŠK rok 1962, zošit 4).
