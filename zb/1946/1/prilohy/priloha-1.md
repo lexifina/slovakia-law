@@ -316,39 +316,17 @@
 
     - ČÁST II. Přeprava cestovních zavazadel.
 
-      - Čl. 29. Pojem cestovního zavazadla. Předměty vyloučené z přepravy nebo připuštěné k přepravě podmínečně.
+      - Čl. 29. Pojem cestovnej batožiny. Predmety vylúčené z prepravy alebo pripustené na prepravu podmienečne.
 
-        - § 1. Cestující může podati jako cestovní zavazadlo předměty, určené k jeho potřebě, které jsou zabaleny v cestovních kufrech, cestovních koších, cestovních vacích, cestovních brašnách, cestovních krabicích na klobouky, příručních bednách nebo v jiných obalech toho druhu.
+        - § 1. Cestujúci môže podať ako cestovnú batožinu predmety, ktorých objem, úprava, dĺžka a váha dovoľujú podľa úsudku odosielacej stanice, aby boly rýchle nakladané a umiestené v batožinovom voze (viď aj čl. 31). Tarifa môže obmedziť množstvo, objem, dĺžku a váhu predmetov alebo určiť ich úpravu.
 
-        - § 2. Kromě předmětů zabalených způsobem uvedeným v § 1, připouštějí se jako cestovní zavazadla, též nebalené, s výjimkou případu stanoveného písmenem d) tyto předměty:
-
-          - a) Přenosné nebo pojízdné židle pro nemocné, pojízdné židle jimi řiditelné s pomocným motorem nebo bez něho, lehátka;
-
-          - b) dětské kočárky;
-
-          - c) cestovní kufry se vzorky zboží;
-
-          - d) přenosné hudební nástroje ve skříňkách nebo v jiných obalech;
-
-          - e) nářadí pro představení artistů s podmínkou, že jeho úprava, objem a váha dovoluje je rychle naložiti a umístiti v zavazadlovém voze;
-
-          - f) měřičské nástroje až do délky 4 m a příruční nářadí;
-
-          - g) ruční sáňky a rohačky pro jednu neb dvě osoby, lyže, plachty na bruslení jakož i čluny do délky 5 m;
-
-          - h) jízdní kola s pomocným motorem nebo bez něho, motorová kola bez přívěsného vozíku s podmínkou, že jsou s nich sňaty volné součástky; brašnu pod sedadlem i brašnu připevněnou uvnitř rámu lze na nich ponechati.
-
-        - § 3. Jiné předměty, než které jsou uvedeny v §§ 1 a 2, mohou býti přijaty jako cestovní zavazadlo, jestliže to dovoluje tarif.
-
-        - § 4. Jako cestovní zavazadlo jsou z přepravy vyloučeny předměty uvedené v čl. 45 a předměty, které podle čl. 46 jsou připuštěny k přepravě podmínečně; tarif může stanoviti výjimky.
-
-        - § 5. Tarif nebo jízdní řád mohou obmeziti množství, objem, délku a váhu předmětů přepravovaných jako cestovní zavazadlo, případně mohou stanoviti další obmezení.
+        - § 2. Ako batožina sú z prepravy vylúčené predmety spomenuté v čl. 45 a predmety, ktoré podľa čl. 46 sú pripustené na prepravu len podmienečne; tarifa môže určiť výnimky.
 
       - Čl. 30. Odpovědnost cestujícího za cestovní zavazadlo. Přirážky.
 
-        - § 1. Cestující odpovídá za zachování ustanovení čl. 29; nezachová-li je, postihují jej následky z toho vzniklé. Železnice jest oprávněna, domnívá-li se, že byla porušena tato ustanovení, přezkoumati kdykoliv obsah zavazadla. Cestujícího je třeba přizvati k přezkoumání, nekoná-li se z důvodů správních opatření, ke kterým je stát oprávněn v zájmu bezpečnosti nebo veřejného pořádku. Nedostaví-li se cestující nebo nemůže-li býti vypátrán, je nutné provésti přezkoumání v přítomnosti alespoň jednoho svědka, cizího železnici; není-li takového svědka, je přibrati alespoň jednoho železničního zaměstnance. Tu zpraví železnice cestujícího o provedení prohlídky nejpozději při výdeji zavazadla.
+        - § 1. Cestující odpovídá za zachovaní ustanovení čl. 29, § 2; nezachová-li je, postihují jej následky z toho vzniklé. Železnice jest oprávněna, domnívá-li se, že byla porušena tato ustanovení, přezkoumati kdykoliv obsah zavazadla. Cestujícího je třeba přizvati k přezkoumání, nekoná-li se z důvodů správních opatření, ke kterým je stát oprávněn v zájmu bezpečnosti nebo veřejného pořádku. Nedostaví-li se cestující nebo nemůže-li býti vypátrán, je nutné provésti přezkoumání v přítomnosti alespoň jednoho svědka, cizího železnici; není-li takového svědka, je přibrati alespoň jednoho železničního zaměstnance. Tu zpraví železnice cestujícího o provedení prohlídky nejpozději při výdeji zavazadla.
 
-        - § 2. Je-li zjištěno, že byla porušena ustanovení čl. 29, § 4, je cestující povinen, nehledíc ke stíhání podle trestních předpisů, zaplatiti výdaje způsobené přezkoumáním a přirážku podle § 3 a je-li třeba, též doplatiti na dovozné za zboží a nahraditi škodu snad vzniklou. Čl. 73, § 8 platí obdobně.
+        - § 2. Je-li zjištěno, že boly porušené ustanovenia čl. 29, § 2, je cestující povinen, nehledíc ke stíhání podle trestních předpisů, zaplatiti výdaje způsobené přezkoumáním a přirážku podle § 3 a je-li třeba, též doplatiti na dovozné za zboží a nahraditi škodu snad vzniklou. Čl. 73, § 8 platí obdobně.
 
       - § 3. Pokud tarif neustanovuje jinak, činí přirážka za každý kilogram hrubé váhy toho kusu, v kterém byly:
 
@@ -374,9 +352,9 @@
 
       - Čl. 31. Obal a úprava cestovního zavazadla.
 
-        - § 1. Pokud je u zavazadla předepsán obal, musí býti baleno tak řádně, aby bylo za přepravy chráněno od úplné a částečné ztráty a poškození, jakož i aby nemohlo pošpiniti nebo způsobiti škodu, a to osobám, provozním prostředkům nebo jiným předmětům.
+        - § 1. Ak vyžaduje povaha batožiny obal, musí býti baleno tak řádně, aby bylo za přepravy chráněno od úplné a částečné ztráty a poškození, jakož i aby nemohlo pošpiniti nebo způsobiti škodu, a to osobám, provozním prostředkům nebo jiným předmětům.
 
-        - § 2. Jestliže u zavazadla, u něhož je předepsán obal, obal chybí nebo je vadný, je-li stav zavazadla vadný nebo jsou na něm zřejmé stopy poškození, může býti odmítnuto. Jestliže je železnice přece přijme ku přepravě, jest oprávněna poznamenati nedostatek na zavazadlovém lístku. Přijme-li cestující zavazadlový lístek s takovou poznámkou, platí to za uznání tohoto nedostatku.
+        - § 2. Jestliže u zavazadla, ktorého povaha vyžaduje obal, obal chybí nebo je vadný, je-li stav zavazadla vadný nebo jsou na něm zřejmé stopy poškození, může býti odmítnuto. Jestliže je železnice přece přijme ku přepravě, jest oprávněna poznamenati nedostatek na zavazadlovém lístku. Přijme-li cestující zavazadlový lístek s takovou poznámkou, platí to za uznání tohoto nedostatku.
 
         - § 3. Cestujícího stihnou následky toho, že obal chybí nebo že je vadný nebo že stav zavazadla je vadný nebo že jsou na něm zřejmé stopy poškození; zejména je cestující povinen nahraditi škodu, která by tím železnici snad vznikla. Jestliže není v zavazadlovém lístku poznámky podle § 2, přísluší provésti důkaz o těchto nedostatcích železnici.
 
@@ -418,7 +396,7 @@
 
         - § 11. Přijetí zavazadla přímo u vlaku (§ 1), jakož i přijetí těžkých kusů může býti učiněno závislým na zvláštních podmínkách.
 
-        - § 12. Pro přepravu dětských kočárků, jízdních a motorových kol, jakož i sáněk, lyží nebo jiného sportovního nářadí mohou býti tarifem stanoveny zvláštní podmínky.
+        - § 12. Pro přepravu dětských kočárků, vencov, kytíc, jízdních a motorových kol, jakož i sáněk, lyží nebo jiného sportovního nářadí mohou býti tarifem stanoveny zvláštní podmínky.
 
       - Čl. 33. Výdej cestovních zavazadel.
 
@@ -1568,7 +1546,7 @@
 
       - Čl. 90. Obmezená odpovědnost za škody, které mohou vzniknouti ze zvláštních příčin.
 
-        - § 1. Železnice neodpovídá u cestovního zavazadla za škodu vzniklou zvláštní povahou zavazadla, vadností obalu, nakládáním nebo vykládáním, jestliže nakládal anebo vykládal cestující zavazadlo podle ustanovení tohoto řádu nebo podle tarifu, anebo tím, že předměty z přepravy vyloučené jako cestovní zavazadlo (čl. 29, § 4) byly přece podány ku přepravě jako cestovní zavazadlo. Dovoluje-li tarif přepravovati jako cestovní zavazadlo některá živá zvířata, neodpovídá u nich železnice též za škodu vzniklou ze zvláštního nebezpečí spojeného s přepravou pro živá zvířata.
+        - § 1. Železnice neodpovídá u cestovního zavazadla za škodu vzniklou zvláštní povahou zavazadla, vadností obalu, nakládáním nebo vykládáním, jestliže nakládal anebo vykládal cestující zavazadlo podle ustanovení tohoto řádu nebo podle tarifu, anebo tím, že předměty z přepravy vyloučené jako cestovní zavazadlo (čl. 29, § 2) byly přece podány ku přepravě jako cestovní zavazadlo. Dovoluje-li tarif přepravovati jako cestovní zavazadlo některá živá zvířata, neodpovídá u nich železnice též za škodu vzniklou ze zvláštního nebezpečí spojeného s přepravou pro živá zvířata.
 
       - § 2. Železnice neodpovídá u spěšniny nebo u zboží za škodu vzniklou z jedné nebo z několika příčin níže uvedených:
 
