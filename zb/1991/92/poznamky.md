@@ -20,9 +20,7 @@
 
 - 4db) Zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
 
-- 4dc) Čl. 4 Ústavy Slovenskej republiky.
-
-- 4dd) Zákon č. 222/1946 Zb. o pošte (poštový zákon).
+- 4dc) Čl. 4 Ústavy Slovenskej republiky.§ 39 ods. 1 zákona č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon).
 
 - 4de) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -43,8 +41,6 @@
 - 7) Občiansky zákonník.
 
 - 7a) Napríklad § 80, 251 a nasl. zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov (úplné znenie č. 501/1992 Zb.), zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
-
-- 7b) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení neskorších predpisov.
 
 - 7c) § 46 ods. 1 písm. a) až c) zákona č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
 
@@ -93,6 +89,10 @@
 - 12) § 34 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 13) § 7 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- 14) § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
+- 15) Zákon č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
 
 - 1) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
 
