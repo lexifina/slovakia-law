@@ -1,0 +1,9 @@
+## 170.
+
+Vládní nařízení
+
+ze dne 27. srpna 1946,
+
+## kterým se vydává statut pedagogických fakult a určuje studijní doba učitelů.
+
+Vláda republiky Československé nařizuje podle § 3, odst. 1 zákona ze dne 9. dubna 1946, č. 100 Sb., kterým se zřizují pedagogické fakulty, podle § 2 dekretu presidenta republiky ze dne 27. října 1945, č. 132 Sb., o vzdělání učitelstva, a podle § 8 dekretu presidenta republiky ze dne 26. října 1945, č. 130 Sb., o státní péči osvětové:
