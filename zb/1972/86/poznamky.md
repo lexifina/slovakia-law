@@ -1,0 +1,1 @@
+- *) Priestupok podľa § 6 ods. 1 zákona č. 60/1961 Zb. o úlohách národných výborov pri zabezpečovaní socialistického poriadku.
