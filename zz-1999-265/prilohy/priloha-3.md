@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 265/1999 Z. z. [Vzor 03 - Žiadosť o dodávku zemného plynu (zmenu príkonu plynových spotrebičov) pre odberateľov s ročným odberom nad 60 tis. m3](../assets/d1c21e617500edfb1e6667e217abfbd782de8f23a73c0d83ec7fabf75413c7e0.pdf)
