@@ -1,0 +1,1 @@
+[Vzor 01](../assets/5e5b9cd0faf9e97f6782817d2fb039a1669a32cbe3fbd7f166f7226f3a1268d5.pdf)
