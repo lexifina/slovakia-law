@@ -1,0 +1,9 @@
+# Čl. 11
+
+(1) V hospodárskych organizáciách riadených národnými výbormi (okrem mestskej dopravy a bytového hospodárstva) a v podnikoch odvetvia vnútorného obchodu sa uplatní všeobecný spôsob financovania investičnej výstavby a rovnaký spôsob odvodu odpisov a ich použitia ako v odborove riadenom priemysle a v stavebníctve; v týchto organizáciách sú však sadzby odvodov z hrubého dôchodku ustanovené tak, že sa vytvárajú podmienky pre relatívne vyššiu účasť vytvoreného hrubého dôchodku na úhradu investícií a tým pre relatívne nižší podiel úveru. Aj v týchto odvetviach sa zachová predstih potreby investovať pred tvorbou vlastných zdrojov.
+
+(2) V hospodárstve riadenom národnými výbormi a v podnikoch vnútorného obchodu sa predpokladá vyšší podiel dotácií zo štátnych prostriedkov na úhrade investičnej výstavby. Tieto dotácie budú zamerané prednostne na rozvoj služieb pre obyvateľstvo a pre rozvoj maloobchodnej siete. Budú sa poskytovať podľa vopred ustanovených pravidiel tak, aby nenarúšali úlohu úveru a kritéria efektívnosti a neboli nástrojom subjektívne narušujúcim vzťahy medzi príjmami a výdavkami podnikov a vzťahy k štátnemu rozpočtu.
+
+(3) Výstavba obchodných zariadení v nových sídliskách bude sa naďalej financovať zo štátneho rozpočtu ako súčasť komplexnej bytovej výstavby s tým, že vybudované objekty budú sa obchodným organizáciám v zásade prenajímať za ekonomické nájomné. Investor komplexnej bytovej výstavby prerokuje s obchodnými organizáciami, že tieto súčasne zabezpečia prevádzku v obchodných zariadeniach budovaných v rámci komplexnej bytovej výstavby, a to ešte pred schválením projektovej dokumentácie. Tieto ustanovenia sa vzťahujú aj na zariadenia poskytujúce služby obyvateľstvu.
+
+(4) Národné výbory môžu zo svojich prostriedkov poskytovať dotácie na investičné akcie, na vykonaní ktorých majú záujem.
