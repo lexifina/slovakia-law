@@ -2,12 +2,10 @@
 
 (1) Pri preskúmavaní rozhodnutí a postupov správnych orgánov súdy konajú a rozhodujú v senátoch zložených z predsedu a dvoch sudcov, ak nie je ustanovené inak.
 
-(2) Samosudca koná a rozhoduje o opravných prostriedkoch proti rozhodnutiam
+(2) Samosudca koná a rozhoduje
 
-- a) podľa tretej hlavy tejto časti,
+- a) na krajskom súde o opravných prostriedkoch proti rozhodnutiam orgánov verejnej správy podľa tretej hlavy a vo veciach podľa šiestej hlavy tejto časti,
 
-- b) vo veciach, na ktorých prejednanie sú vecne príslušné okresné sudy,
+- b) vo veciach, na ktorých prejednanie sú vecne príslušné okresné súdy,
 
-- c) vo veciach, pri ktorých to výslovne ustanovuje zákon.
-
-(3) Najvyšší súd Slovenskej republiky koná a rozhoduje o opravných prostriedkoch proti rozhodnutiam krajských súdov a proti rozhodnutiam orgánov verejnej správy v senáte zloženom z predsedu a dvoch sudcov. O opravných prostriedkoch proti rozhodnutiam Najvyššieho súdu Slovenskej republiky koná a rozhoduje iný senát tohto súdu zložený z predsedu a štyroch sudcov.
+- c) vo veciach, v ktorých to ustanoví zákon.

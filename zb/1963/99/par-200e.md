@@ -15,3 +15,5 @@
 - f) o poverení zvolať valné zhromaždenie podľa osobitného zákona.<sup>34fe</sup>)
 
 (2) Konanie podľa odseku 1 písm. a) a b) možno začať aj bez návrhu.
+
+(3) Vo veciach podľa odseku 1 písm. a) až c) a e) nie je potrebné nariaďovať pojednávanie. Registrový súd rozhoduje uznesením.

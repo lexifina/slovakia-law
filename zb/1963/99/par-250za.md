@@ -1,6 +1,6 @@
 # § 250za Konanie vo veciach registrácie kandidátnych listín
 
-(1) Ak volebná komisia príslušná podľa osobitného zákona<sup>34i</sup>) rozhodla
+(1) Ak volebná komisia príslušná podľa osobitného zákona<sup>34ia</sup>) rozhodla
 
 - a) o registrácii kandidátnej listiny, môže sa politická strana alebo koalícia obrátiť na Najvyšší súd Slovenskej republiky s návrhom na zrušenie registrácie kandidátnej listiny,
 

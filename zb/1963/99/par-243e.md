@@ -4,7 +4,7 @@
 
 # § 243e
 
-(1) Ak generálny prokurátor Slovenskej republiky (ďalej len „generálny prokurátor“) na základe podnetu účastníka konania, osoby dotknutej rozhodnutím súdu alebo osoby poškodenej rozhodnutím súdu zistí, že právoplatným rozhodnutím súdu bol porušený zákon (§ 243f), a ak to vyžaduje ochrana práv a zákonom chránených záujmov fyzických osôb, právnických osôb alebo štátu a túto ochranu nie je možné dosiahnuť inými právnymi prostriedkami, podá proti takémuto rozhodnutiu súdu mimoriadne dovolanie.
+(1) Ak generálny prokurátor na základe podnetu účastníka konania, osoby dotknutej rozhodnutím súdu alebo osoby poškodenej rozhodnutím súdu zistí, že právoplatným rozhodnutím súdu bol porušený zákon (§ 243f), a ak to vyžaduje ochrana práv a zákonom chránených záujmov fyzických osôb, právnických osôb alebo štátu a túto ochranu nie je možné dosiahnuť inými právnymi prostriedkami, podá proti takémuto rozhodnutiu súdu mimoriadne dovolanie.
 
 (2) Mimoriadne dovolanie možno podať len proti tomu výroku súdneho rozhodnutia, ktoré účastník konania, osoba dotknutá týmto rozhodnutím alebo osoba poškodená týmto rozhodnutím súdu namieta.
 

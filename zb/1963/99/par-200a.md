@@ -10,4 +10,4 @@
 
 (4) Súdy a iné orgány vždy upozornia registrový súd na nezhodu medzi skutočným právnym stavom a stavom zápisov v obchodnom registri, ak táto skutočnosť pri ich činnosti vyjde najavo.
 
-(5) Ak registrový súd vydá uznesenie o začatí konania podľa odseku 2, doručí ho zapísanej osobe a postupuje podľa § 120 ods. 2. Vo veci samej rozhoduje registrový súd uznesením, na ktorého základe vykoná zápis.
+(5) Ak registrový súd vydá uznesenie o začatí konania podľa odseku 2, doručí ho zapísanej osobe a postupuje podľa § 120 ods. 2, okrem prípadov, ak je obsahom podnetu podľa odseku 3 oprava chýb v písaní a počítaní alebo iných zrejmých nesprávností. O veci nie je potrebné nariaďovať pojednávanie. Vo veci samej rozhoduje registrový súd uznesením, na ktorého základe vykoná zápis.

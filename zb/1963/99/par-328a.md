@@ -1,6 +1,6 @@
 # § 328a
 
-(1) Po právoplatnosti uznesenia o nariadení výkonu rozhodnutia a po odhade spísaných vecí predseda senátu zabezpečí aby
+(1) Po právoplatnosti uznesenia o nariadení výkonu rozhodnutia a po odhade spísaných vecí súd zabezpečí, aby
 
 - a) mimoriadne významné výtvarné diela a pamiatky,
 

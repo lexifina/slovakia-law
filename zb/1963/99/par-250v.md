@@ -14,7 +14,7 @@
 
 (5) Navrhovateľ má právo na náhradu trov konania, ak súd návrhu vyhovel.
 
-(6) Predseda senátu konanie zastaví, ak odpadli dôvody na ďalšie konanie, a zároveň rozhodne o trovách konania.
+(6) Súd konanie zastaví, ak odpadli dôvody na ďalšie konanie, a zároveň rozhodne o trovách konania.
 
 (7) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.
 

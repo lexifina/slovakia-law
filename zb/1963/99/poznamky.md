@@ -78,8 +78,6 @@
 
 - 32) § 259 ods. 4 Obchodného zákonníka.
 
-- 33) Zákon SNR č. 129/1991 Zb. o komerčných právnikoch.
-
 - 33a) § 62 zákona č. 94/1963 Zb. o rodine v znení neskorších predpisov.
 
 - Čl. IV zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení neskorších predpisov a zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
@@ -88,13 +86,15 @@
 
 - 33ab) Napríklad § 456 Občianskeho zákonníka.
 
+- 33abc) Článok 234 Zmluvy o založení Európskeho spoločenstva (úplné znenie Úradný vestník Európskeho spoločenstva C 325, 24/12/2002).
+
+- 33abcd) Napríklad zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
+
 - 33ac) Čl. 81 a 82 Zmluvy o založení Európskeho spoločenstva (úplné znenie Úradný vestník Európskeho spoločenstva C 325, 24/12/2002).
 
 - 33b) § 161 ods. 5 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 34) Vyhláška Ministerstva spravodlivosti Českej republiky č. 270/1990 Zb. o odmenách advokátov a komerčných právnikov za poskytovanie právnej pomoci v znení vyhlášky č. 573/1990 Zb.
-
-- Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 44/1991 Zb.
+- 34) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 163/2002 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb.
 
 - 34a) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
 
@@ -116,45 +116,15 @@
 
 - 34h) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
-- 34i) § 13 ods. 3 písm. a) zákona Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení zákona č. 187/1998 Z. z.
+- 34ia) § 20 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky.
 
-- 34j) § 19 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení zákona č. 187/1998 Z. z.
+- § 10 ods. 3 písm. a) zákona č. 331/2003 Z. z. o voľbách do Európskeho parlamentu.
+
+- 34j) § 19 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení zákona č. 187/1998 Z. z.§ 15 zákona č. 331/2003 Z. z.
 
 - 34k) § 15 ods. 3 a § 20 ods. 2 zákona č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
 
-- 35) V súčasnosti ide najmä o tieto prípady:
-
-- § 57b ods. 1 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 180/1990 Zb., ak ide o rozhodnutie o povinnosti zamestnanca alebo iného príjemcu peňažnej dávky nemocenského poistenia alebo prídavkov na deti vrátiť preplatok na dávke neprávom vyplatenej, ako aj proti rozhodnutiu v iných než dávkových veciach nemocenského poistenia,
-
-- § 122 ods. 1 zákona č. 103/1964 Zb. o zabezpečení družstevných roľníkov v chorobe a o zabezpečení matky a dieťaťa v znení zákona č. 180/1990 Zb., ak ide o rozhodnutie o povinnosti príjemcu dávky zo zabezpečenia v chorobe a zo zabezpečenia matky a dieťaťa vrátiť preplatok na dávke neprávom vyplatenej, ako aj proti rozhodnutiu v iných než dávkových veciach zabezpečenia v chorobe a zabezpečenia matky a dieťaťa,
-
-- § 112 ods. 3 zákona č. 44/1974 Zb. colný zákon v znení zákona č. 117/1983 Zb. a zákona č. 5/1991 Zb..
-
-- § 7, 8 a § 61 ods. 2 zákona č. 147/1983 Zb. o zbraniach a strelive v znení zákona č. 49/1990 Zb.,
-
-- § 122 a 145a zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb. a zákona č. 180/1990 Zb., ak ide o rozhodnutie o zákonnom nároku na dávku dôchodkového zabezpečenia uvedenú v § 7 písm. a) č. 1 – 7, písm. b) a c) citovaného zákona,
-
-- § 8 ods. 3, § 11 ods. 2 a § 12 ods. 3 písm. c) zákona č. 83/1990 Zb. o združovaní občanov,
-
-- § 11 ods. 3 a § 13 zákona č. 84/1990 Zb. o zhromažďovacom práve,
-
-- § 27 ods. 3 zákona SNR č. 132/1990 Zb. o advokácii,
-
-- § 28 ods. 3 zákona č. 172/1990 Zb. o vysokých školách,
-
-- § 11 ods. 2 zákona č. 382/1990 Zb. o rodičovskom príspevku, ak ide o rozhodnutie vrátiť preplatok,
-
-- § 28 zákona SNR č. 129/1991 Zb. o komerčných právnikoch,
-
-- § 9 ods. 3 a 6 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku,
-
-- § 18 ods. 1 zákona č. 451/1991 Zb., ktorým sa ustanovujú niektoré ďalšie predpoklady na výkon niektorých funkcií v štátnych orgánoch a organizáciách Českej a Slovenskej Federatívnej Republiky, Českej republiky a Slovenskej republiky,
-
-- § 17 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností,
-
-- § 34 zákona č. 237/1991 Zb. o patentových zástupcoch,
-
-- § 8 ods. 5 zákona č. 424/1991 Zb.
+- 35) Článok 256 Zmluvy o založení Európskeho spoločenstva (úplné znenie Úradný vestník Európskeho spoločenstva C 325, 24/12/2002).
 
 - 35a) Napríklad § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
 
@@ -170,4 +140,4 @@
 
 - 36) § 5 zákona č. 526/1990 Zb. o cenách.
 
-- 36a) Zákon č. 530/2003 Z. z.
+- 36a) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
