@@ -1,6 +1,6 @@
 - 1) Zákon č. 102/1971 Zb. o ochrane štátneho tajomstva v znení neskorších predpisov.
 
-- 2) Napr. zákon SNR č. 472/1990 Zb. o organizácii miestnej štátnej správy.
+- 2) Zákon č. 518/2003 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov a o zmene niektorých zákonov.Zákon č. 519/2003 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov a o zmene zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a o zmene niektorých zákonov.
 
 - 3) Zákon SNR č. 369/1991 Zb. o obecnom zriadení.
 
