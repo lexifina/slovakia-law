@@ -1,0 +1,11 @@
+## 105
+
+VYHLÁŠKA
+
+Štátnej komisie pre vedeckotechnický a investičný rozvoj
+
+zo 7. novembra 1985
+
+## o experimentálnom overovaní vo výstavbe
+
+Štátna komisia pre vedeckotechnický a investičný rozvoj ustanovuje podľa § 53 ods. 1 písm. e) zákona č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev v znení zákona č. 115/1983 Zb. a § 143 ods. 1 písm. d) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon):
