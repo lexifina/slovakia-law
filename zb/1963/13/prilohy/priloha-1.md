@@ -32,6 +32,8 @@
 
       - 1. Lietadlá používané v medzinárodnej preprave leteckými podnikmi určenými jednou zmluvnou stranou, ako i ich obvyklé vybavenie, zásoby paliva a mazadiel, palubné zásoby (vrátane potravín, nápojov a tabaku) budú pri vstupe na územie druhej zmluvnej strany oslobodené od všetkých ciel, inšpekčných poplatkov i ostatných podobných poplatkov a dávok za podmienky, že toto vybavenie a zásoby zostanú na palube lietadiel až do opätovného vyvezenia.
 
+        - 1a) Zariadenie a náradie dovezené leteckými podnikmi určenými jednou zo zmluvných strán, ktoré sa má použiť na medzinárodnom letišti druhej zmluvnej strany na zavedenie alebo vykonávanie medzinárodných leteckých služieb zabezpečovaných týmito leteckými podnikmi, bude oslobodené od všetkých ciel, inšpekčných poplatkov a ostatných podobných poplatkov a dávok za podmienky, že zostane na uvedenom letišti.
+
       - 2. S výnimkou poplatkov a dávok za poskytnuté služby budú ďalej oslobodené od poplatkov a dávok uvedených v odseku 1:
 
         - a) palubné zásoby akéhokoľvek pôvodu prevzaté na území jednej zmluvnej strany a naložené do lietadiel, zabezpečujúcich medzinárodnú linku druhej zmluvnej strany,
