@@ -1612,6 +1612,14 @@ Dodatok k č. 213/2002 Z. z.
 
   - predsedníctva justičných komisíí v sídle vyšších trestných súdov
 
+    - Ukrajina
+
+  - 1. Ministerstvo spravodlivosti Ukrajiny pre listiny vydané justičnými orgánmi a súdmi vrátane listín osvedčených ukrajinskými notármi
+
+  - 2. Ministerstvo vzdelávania a vedy Ukrajiny pre verejné listiny vydané vzdelávacími orgánmi, štátnymi orgánmi, zariadeniami a organizáciami v oblasti vzdelávania a vedy
+
+  - 3. Ministerstvo zahraničných vecí Ukrajiny pre všetky ostatné listiny
+
     - Veľká Británia
 
   - 1. pre Veľkú Britániu „Her Majesty's Principal Secretary of State for Foreign and Commonwealth Affairs, Foreign and Commonwealth Office“, London SW1
