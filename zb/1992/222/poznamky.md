@@ -1,5 +1,7 @@
 - 1) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
+- 1a) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
 - 2) Zákon Slovenskej národnej rady č. 84/1991 Zb. o územných finančných orgánoch v znení zákona Slovenskej národnej rady č. 136/1992 Zb. a zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 2a) § 829 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplne znenie č. 47/1992 Zb.).
