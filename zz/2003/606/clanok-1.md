@@ -34,6 +34,12 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 
 - Ustanovenia odsekov 1 až 5, § 3 a § 4 ods. 1 sa primerane vzťahujú aj na vycestovanie.“.
 
+- 6. § 5 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Ustanovenia odseku 1 písm. d) a § 4 ods. 2 písm. b) a c) sa nevzťahujú na občanov členských štátov Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore (ďalej len „občan Európskeho hospodárskeho priestoru").“.
+
 - 7. § 7 vrátane nadpisu znie:
 
 - „§ 7
@@ -41,6 +47,12 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 - Vylúčenie odopretia vstupu
 
 - Cudzincovi, ktorý počas hraničnej kontroly požiadal o udelenie azylu na území Slovenskej republiky, o poskytnutie dočasného útočiska na území Slovenskej republiky, ktorému bolo poskytnuté dočasné útočisko na území Slovenskej republiky alebo ktorému bol vydaný cestovný doklad cudzinca podľa § 48, nemožno odoprieť vstup.“.
+
+- 8. Za § 14 sa vkladá § 14a, ktorý znie:
+
+- „§ 14a
+
+- Vízum môže na základe medzinárodnej zmluvy udeliť aj diplomatická misia alebo konzulárny úrad iného členského štátu Európskej únie v zahraničí.“.
 
 - 9. V § 18 písm. d) sa vypúšťa slovo „alebo“.
 
@@ -180,6 +192,8 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 
 - 29. V § 29 ods. 1 písm. c) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak by dôsledky zrušenia povolenia boli neprimerané dôvodu zrušenia povolenia na prechodný pobyt, najmä s ohľadom na súkromný a rodinný život cudzinca,“.
 
+- 30. § 30 až 33 vrátane nadpisu nad § 30 sa vypúšťajú.
+
 - 31. V § 35 písmeno a) znie:
 
 - „a)
@@ -226,9 +240,235 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 
 - 41. V § 43 ods. 2 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „cudzincovi podľa odseku 1 písm. e) udelí policajný útvar povolenie na tolerovaný pobyt aj bez žiadosti.“.
 
+- 42. Tretia časť sa dopĺňa piatou hlavou, ktorá vrátane nadpisu znie:
+
+- „PIATA HLAVA
+
+- OSOBITNÉ USTANOVENIA PRE OBČANA EURÓPSKEHO HOSPODÁRSKEHO PRIESTORU A JEHO RODINNÉHO PRÍSLUŠNÍKA
+
+- § 45a
+
+- (1)
+
+- Občan Európskeho hospodárskeho priestoru, ktorý sa hodlá trvalo zdržiavať na území Slovenskej republiky, je povinný prihlásiť sa na trvalý pobyt na policajnom útvare podľa miesta trvalého pobytu. Občan Európskeho hospodárskeho priestoru je pri hlásení trvalého pobytu povinný predložiť cestovný doklad a doklad potvrdzujúci zabezpečenie ubytovania.
+
+- (2)
+
+- Trvalý pobyt občana Európskeho hospodárskeho priestoru zanikne, ak
+
+- a)
+
+- písomne oznámi skončenie trvalého pobytu policajnému útvaru,
+
+- b)
+
+- mu bol uložený trest vyhostenia,<sup>2</sup>)
+
+- c)
+
+- bol administratívne vyhostený alebo
+
+- d)
+
+- nadobudol štátne občianstvo Slovenskej republiky.
+
+- (3)
+
+- Občan Európskeho hospodárskeho priestoru, ktorý hodlá trvalo vycestovať z územia Slovenskej republiky, je povinný písomne oznámiť skončenie trvalého pobytu policajnému útvaru.
+
+- (4)
+
+- Na hlásenie trvalého pobytu sa nevzťahuje všeobecný predpis o správnom konaní.<sup>6</sup>)
+
+- § 45b
+
+- (1)
+
+- Policajný útvar udelí povolenie na trvalý pobyt cudzincovi, ktorý nie je občanom Európskeho hospodárskeho priestoru a je rodinným príslušníkom občana Európskeho hospodárskeho priestoru s trvalým pobytom (ďalej len „zvýhodnený cudzinec"), ak jeho pobyt neohrozuje bezpečnosť štátu alebo verejný poriadok.
+
+- (2)
+
+- Rodinný príslušník občana Európskeho hospodárskeho priestoru je
+
+- a)
+
+- manžel,
+
+- b)
+
+- príbuzný v priamom rade, ktorý je od neho závislý,
+
+- c)
+
+- príbuzný manžela v priamom rade, ktorý je od neho závislý.
+
+- (3)
+
+- Žiadosť o udelenie povolenia na trvalý pobyt podáva zvýhodnený cudzinec osobne na zastupiteľskom úrade podľa § 24 ods. 1 alebo osobne na policajnom útvare. Pri podávaní žiadosti o udelenie povolenia na trvalý pobyt je zvýhodnený cudzinec povinný predložiť cestovný doklad. Ak zvýhodnený cudzinec nepredloží cestovný doklad, zastupiteľský úrad alebo policajný útvar neprijme žiadosť o udelenie povolenia na trvalý pobyt.
+
+- (4)
+
+- K žiadosti podľa odseku 3 zvýhodnený cudzinec priloží
+
+- a)
+
+- tri fotografie podľa § 25 ods. 2,
+
+- b)
+
+- doklad potvrdzujúci, že je rodinným príslušníkom občana Európskeho hospodárskeho priestoru,
+
+- c)
+
+- doklad alebo čestné vyhlásenie s odôvodnením potvrdzujúce, že je závislým príbuzným; to neplatí, ak ide o manžela alebo dieťa mladšie ako 21 rokov,
+
+- d)
+
+- doklad potvrdzujúci zabezpečenie ubytovania,
+
+- e)
+
+- doklad o zdravotnom poistení na území Slovenskej republiky,
+
+- f)
+
+- čestné vyhlásenie o tom, že nebude záťažou pre systém sociálneho zabezpečenia Slovenskej republiky.
+
+- (5)
+
+- Zastupiteľský úrad alebo policajný útvar môže vyžiadať od zvýhodneného cudzinca doklad nie starší ako 30 dní potvrdzujúci skutočnosť, že netrpí nákazlivou chorobou, ktorej šírenie je trestné,<sup>12</sup>)a doklad nie starší ako 90 dní potvrdzujúci bezúhonnosť.
+
+- (6)
+
+- Ak žiadosť o udelenie povolenia na trvalý pobyt neobsahuje náležitosti podľa odsekov 4 a 5, orgán, ktorý žiadosť prijal, vyzve žiadateľa, aby v určenej lehote nedostatky odstránil; súčasne ho poučí o následkoch neodstránenia nedostatkov. Ak žiadateľ v určenej lehote nedostatky neodstráni, policajný útvar konanie zastaví.
+
+- (7)
+
+- Policajný útvar rozhodne o žiadosti o udelenie povolenia na trvalý pobyt zvýhodneného cudzinca do 30 dní od doručenia žiadosti policajnému útvaru.
+
+- (8)
+
+- Policajný útvar žiadosť o udelenie povolenia na trvalý pobyt zvýhodneného cudzinca zamietne, ak
+
+- a)
+
+- je nežiaducou osobou,
+
+- b)
+
+- je dôvodné podozrenie, že pri svojom pobyte ohrozí bezpečnosť štátu, verejný poriadok alebo verejné zdravie,
+
+- c)
+
+- možno predpokladať, že bude záťažou pre systém sociálneho zabezpečenia Slovenskej republiky,
+
+- d)
+
+- je dôvodné podozrenie, že uzavrel manželstvo s cieľom získať povolenie na trvalý pobyt.
+
+- (9)
+
+- Povolenie na trvalý pobyt zvýhodneného cudzinca zanikne, ak
+
+- a)
+
+- písomne oznámi skončenie trvalého pobytu policajnému útvaru,
+
+- e)
+
+- mu bol uložený trest vyhostenia,<sup>2</sup>)
+
+- f)
+
+- bol administratívne vyhostený,
+
+- g)
+
+- nadobudol štátne občianstvo Slovenskej republiky alebo
+
+- h)
+
+- mu policajný útvar zrušil povolenie na trvalý pobyt.
+
+- (10)
+
+- Policajný útvar povolenie na trvalý pobyt zvýhodneného cudzinca zruší, ak
+
+- a)
+
+- zanikne trvalý pobyt občanovi Európskeho hospodárskeho priestoru, ktorého je zvýhodnený cudzinec rodinným príslušníkom; to neplatí, ak ide o zánik podľa § 45a ods. 2 písm. d),
+
+- b)
+
+- zistí skutočnosti, ktoré sú dôvodom na zamietnutie žiadosti o udelenie povolenia na trvalý pobyt,
+
+- c)
+
+- zistí, že uzavrel manželstvo s cieľom získať povolenie na trvalý pobyt alebo
+
+- d)
+
+- zanikol príbuzenský vzťah do piatich rokov od udelenia povolenia na trvalý pobyt.
+
+- (11)
+
+- Policajný útvar nezruší povolenie na trvalý pobyt zvýhodneného cudzinca, ak by dôsledky zrušenia povolenia boli neprimerané dôvodu zrušenia povolenia na trvalý pobyt, najmä s ohľadom na súkromný a rodinný život zvýhodneného cudzinca.“.
+
+- 43. § 46 vrátane nadpisu znie:
+
+- „§ 46
+
+- Doklad o povolení na pobyt a doklad o trvalom pobyte
+
+- (1)
+
+- Cudzincovi, ktorému bolo udelené povolenie na prechodný pobyt, vystaví zastupiteľský úrad alebo policajný útvar doklad o povolení na pobyt vo forme nálepky. Platnosť dokladu o povolení na pobyt určí policajný útvar podľa času povoleného pobytu najviac na päť rokov; platnosť dokladu o povolení na pobyt sa však musí skončiť najmenej 90 dní pred skončením platnosti cestovného dokladu cudzinca.
+
+- (2)
+
+- Cudzincovi, ktorému bolo udelené povolenie na trvalý pobyt, vystaví policajný útvar doklad o povolení na pobyt vo forme identifikačnej karty s fotografiou. Ak ide o prvé povolenie na pobyt, platnosť dokladu určí policajný útvar najviac na tri roky; platnosť dokladu o povolení na pobyt sa však musí skončiť najmenej 90 dní pred skončením platnosti cestovného dokladu cudzinca. Ak ide o ďalšie povolenie, platnosť dokladu určí policajný útvar najviac na desať rokov.
+
+- (3)
+
+- Maloletý cudzinec podľa odseku 2 je povinný najneskôr 30 dní pred dovŕšením veku 15 rokov požiadať o vydanie dokladu o povolení na pobyt.
+
+- (4)
+
+- Cudzincovi, ktorému bol udelený azyl, vystaví policajný útvar doklad o povolení na pobyt vo forme identifikačnej karty podľa osobitného predpisu.<sup>1</sup>)
+
+- (5)
+
+- Cudzincovi, ktorý je občanom Európskeho hospodárskeho priestoru s trvalým pobytom, vystaví policajný útvar doklad o trvalom pobyte vo forme identifikačnej karty s fotografiou. Doklad o trvalom pobyte sa vydáva s platnosťou na päť rokov; po uplynutí tejto lehoty vydá policajný útvar na požiadanie nový doklad o trvalom pobyte s platnosťou na desať rokov.
+
+- (6)
+
+- Zvýhodnenému cudzincovi, ktorému bolo udelené povolenie na trvalý pobyt, vystaví policajný útvar doklad o trvalom pobyte podľa odseku 5.
+
+- (7)
+
+- Cudzincovi, ktorý má právo na pobyt na základe medzinárodnej zmluvy,<sup>8a</sup>) vystaví policajný útvar na požiadanie doklad o povolení na pobyt vo forme identifikačnej karty; platnosť dokladu o povolení na pobyt určí policajný útvar najviac na päť rokov.
+
+- (8)
+
+- Cudzinec, ktorý má udelené ďalšie povolenie, a cudzinec podľa odsekov 4 až 6 sú povinní najneskôr 14 dní pred skončením platnosti dokladu o povolení na pobyt alebo dokladu o trvalom pobyte požiadať o vystavenie nového dokladu o povolení na pobyt alebo dokladu o trvalom pobyte.
+
+- (9)
+
+- Ak bol cudzincovi vydaný matričný doklad Slovenskej republiky, policajný útvar uvedie v doklade o povolení na pobyt alebo v doklade o trvalom pobyte meno a priezvisko v tvare uvedenom v tomto matričnom doklade, inak sa meno a priezvisko a ostatné mená a priezviská cudzinca uvedú podľa tvaru uvedeného latinkou v cestovnom doklade.
+
+- (10)
+
+- Ak zanikne povolenie na pobyt alebo trvalý pobyt občana Európskeho hospodárskeho priestoru, policajný útvar vykoná opatrenia na zabránenie zneužitia dokladu o povolení na pobyt alebo dokladu o trvalom pobyte, a ak je to možné, doklad znehodnotí.“.
+
 - 44. V § 48 sa slová „bolo priznané postavenie utečenca“ nahrádzajú slovami „bol udelený azyl“.
 
 - 45. V § 49 ods. 1 písm. j) sa na konci pripájajú tieto slová: „ak ide o cudzinca, ktorému bolo udelené povolenie na prechodný pobyt na účel štúdia podľa § 21 alebo § 22,“.
+
+- 46. § 49 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ustanovenie odseku 1 písm. a), e) a n) sa nevzťahuje na občana Európskeho hospodárskeho priestoru.“.
 
 - 47. V § 51 ods. 2 sa slová „písm. d)“ nahrádzajú slovami „písm. c)“ a slová „alebo ods. 2“ sa vypúšťajú.
 
@@ -240,7 +480,11 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 
 - „(7)
 
-- Policajný útvar môže skrátiť čas zákazu vstupu podľa odseku 1 alebo administratívne nevyhostiť cudzinca, ktorý má udelené povolenie na trvalý pobyt, ak by dôsledky postupu podľa odseku 1 boli neprimerané vzhľadom na súkromný a rodinný život cudzinca a dĺžku jeho pobytu.“.
+- Policajný útvar môže skrátiť čas zákazu vstupu podľa odseku 1 alebo administratívne nevyhostiť cudzinca, ktorý má udelené povolenie na trvalý pobyt, ak by dôsledky postupu podľa odseku 1 boli neprimerané vzhľadom na súkromný a rodinný život cudzinca a dĺžku jeho pobytu.
+
+- (8)
+
+- Občan Európskeho hospodárskeho priestoru a zvýhodnený cudzinec môžu byť vyhostení, len ak ohrozujú bezpečnosť štátu alebo verejný poriadok.“.
 
 - 51. Doterajší text § 61 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
 
@@ -331,6 +575,14 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 - Policajný útvar oznámi nájdenie maloletého cudzinca na území Slovenskej republiky úradu práce, sociálnych vecí a rodiny, v ktorého územnom obvode sa maloletý cudzinec našiel.“.
 
 - 61. V § 81 ods. 7 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „platnosť sa však skončí najneskôr 30. júna 2004.“.
+
+- 62. Za § 81 sa vkladá § 81a, ktorý vrátane nadpisu znie:
+
+- „§ 81a
+
+- Prechodné ustanovenie k úpravám účinným ku dňu nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii
+
+- Prechodný pobyt občana únie udelený pred účinnosťou tohto ustanovenia sa považuje odo dňa jeho účinnosti za trvalý pobyt podľa § 45a; policajný útvar vystaví takejto osobe doklad o trvalom pobyte podľa § 46 ods. 5.“.
 
 - 63. Zákon sa dopĺňa prílohou, ktorá znie:
 
