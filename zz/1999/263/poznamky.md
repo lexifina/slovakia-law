@@ -28,6 +28,12 @@
 
 - 12) § 2 ods. 2 Obchodného zákonníka.§ 22 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
+- 12a) Obchodný zákonník.
+
+- Občiansky zákonník.
+
+- 12b) § 39 Občianskeho zákonníka.
+
 - 13) § 281 až 288 Obchodného zákonníka.
 
 - 15) § 273 Obchodného zákonníka.

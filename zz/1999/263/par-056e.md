@@ -1,3 +1,7 @@
 # § 56e
 
-Obstarávateľ môže použiť metódu rokovacieho konania bez zverejnenia, ak je splnená aspoň jedna podmienka uvedená v § 52 ods. 1 a 2.
+(1) Obstarávateľ môže použiť metódu rokovacie konanie bez zverejnenia, ak je splnená aspoň jedna podmienka uvedená v § 52 ods. 1 a 2.
+
+(2) Obstarávateľ uskutoční výber uchádzača pri rokovacom konaní bez zverejnenia na základe informácií o predmete obstarávania získaných prieskumom trhu.
+
+(3) Obstarávateľ vyzve pri rokovacom konaní bez zverejnenia vybratého uchádzača na predloženie dokladu o oprávnení podnikať a rokuje s ním o podmienkach zmluvy.

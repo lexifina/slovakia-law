@@ -24,6 +24,4 @@ Pri podprahovej metóde verejného obstarávania s vyššou cenou obstarávateľ
 
 - i) určí lehotu na predkladanie ponúk tak, že zohľadní čas potrebný na spracovanie ponúk a na vysvetľovanie podmienok a súťažných podkladov,
 
-- j) určí lehotu viazanosti ponúk tak, že zohľadní čas potrebný na vyhodnotenie ponúk a uzavretie zmluvy s úspešným uchádzačom,
-
-- k) uvedie pri obstarávaní výkonov vo výzve údaje primerane podľa § 54 ods. 4.
+- j) určí lehotu viazanosti ponúk tak, že zohľadní čas potrebný na vyhodnotenie ponúk a uzavretie zmluvy s úspešným uchádzačom.

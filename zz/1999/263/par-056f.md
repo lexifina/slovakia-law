@@ -4,10 +4,8 @@
 
 # § 56f
 
-(1) Obstarávateľ pri rokovacom konaní bez zverejnenia postupuje podľa § 53 ods. 1 a uzavrie zmluvu s vybratým uchádzačom.
+(1) Obstarávateľ postupuje pri rokovacom konaní bez zverejnenia podľa § 56e ods. 2 tak, aby vynaložené náklady na získanie predmetu obstarávania boli primerané jeho kvalite a cene. Obstarávateľ podľa svojich podmienok určí finančný limit alebo vecný limit, pri ktorom nebude vykonávať prieskum trhu.
 
-(2) Obstarávateľ vyžaduje doklad o oprávnení podnikať na preukázanie splnenia podmienok účasti pri uzatváraní zmluvy na poskytnutie služieb alebo zmluvy na uskutočnenie prác; doklad o oprávnení podnikať netreba vyžadovať pri uzatváraní zmluvy na dodanie tovarov.
+(2) Pri uzatváraní zmlúv sa nevyžaduje písomná forma zmluvy okrem zmlúv, pri ktorých to vyžaduje všeobecne záväzný právny predpis.
 
-(3) Pri uzatváraní zmlúv sa nevyžaduje písomná forma zmluvy okrem zmlúv, pri ktorých to vyžaduje všeobecne záväzný právny predpis.
-
-(4) Výsledok verejného obstarávania obstarávateľ nezverejňuje vo vestníku.
+(3) Výsledok verejného obstarávania obstarávateľ nezverejňuje vo vestníku.
