@@ -9,5 +9,3 @@
 (4) Stredisko cenných papierov, ktoré dočasne vykonáva činnosť podľa osobitného predpisu,<sup>94</sup>) je povinné z evidencií, ktoré vedie, poskytovať Národnej banke Slovenska ňou požadované informácie na účely výkonu bankového dohľadu.
 
 (5) Národná banka Slovenska môže najdlhšie na obdobie do 31. decembra 2006 ustanoviť osobitné podmienky financovania hypotekárnych úverov a komunálnych úverov aj pre hypotekárnu banku, ktorá o to požiadala a ktorá má k 1. januáru 2004 udelené bankové povolenie na vykonávanie hypotekárnych obchodov. Ak hypotekárna banka predloží k 1. januáru 2004 takúto písomnú žiadosť Národnej banke Slovenska, tak do dňa právoplatnosti rozhodnutia Národnej banky Slovenska o tejto žiadosti je hypotekárna banka oprávnená zabezpečovať financovanie hypotekárnych úverov a komunálnych úverov podľa predpisov platných k 31. decembru 2003.
-
-(6) Informácie o klientovi a jeho obchodoch uvedených v § 92a ods. 1, ktoré banky a pobočky zahraničných bánk získali pred 1. januárom 2004, môžu banky a pobočky zahraničných bánk poskytnúť do spoločného bankového registra podľa § 92a, a to do 31. decembra 2004 aj bez súhlasu klienta.

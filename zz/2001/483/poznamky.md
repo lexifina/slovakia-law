@@ -40,6 +40,10 @@
 
 - 15a) § 37 a 37a zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
+- 15b) Zákon č. 96/2002 Z. z. v znení zákona č. 43/2004 Z. z.
+
+- Zákon č. 510/2002 Z. z. v znení neskorších predpisov.
+
 - 16) § 99 až 111 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
 
 - 17) § 27 a 28 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
@@ -122,6 +126,16 @@
 
 - 45) § 36 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
+- 45a) § 43 ods. 6 zákona č. 95/2002 Z. z.
+
+- 45b) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 95/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 510/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 594/2003 Z. z.
+
 - 46) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
@@ -182,6 +196,8 @@
 
 - 66a) § 151k ods. 3 Občianskeho zákonníka.
 
+- 66b) § 16 až 18b zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
+
 - 67) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 68) § 16 ods. 4 a 5 a § 20 ods. 4 zákona č. 530/1990 Zb. v znení neskorších predpisov.
@@ -224,13 +240,19 @@
 
 - 83) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 84) § 4 ods. 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 84) § 2 ods. 1 písm. b) a c) a § 29a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 85) Napríklad § 5 a 6 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, § 5 a § 10 ods. 8 zákona č. 460/2002 Z. z. o vykonávaní medzinárodných sankcií zabezpečujúcich medzinárodný mier a bezpečnosť.
 
 - 86) Napríklad Dohovor Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.), Dohovor o boji s podplácaním zahraničných verejných činiteľov v medzinárodných obchodných transakciách (oznámenie č. 318/1999 Z. z.), Dohovor o praní špinavých peňazí, vyhľadávaní, zhabaní a konfiškácii ziskov z trestnej činnosti (oznámenie č. 109/2002 Z. z.), Trestnoprávny dohovor o korupcii (oznámenie č. 375/2002 Z. z.), Medzinárodný dohovor o potláčaní financovania terorizmu (oznámenie č. 593/2002 Z. z.).
 
-- 86a) § 19 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 86a) § 17 písm. b), § 18 a 19 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 86b) § 2 a 4 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
+
+- 86c) § 6 až 13 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
+
+- 86d) Zákon č. 460/2002 Z. z. Nariadenie vlády Slovenskej republiky č. 707/2002 Z. z., ktorým sa vyhlasujú medzinárodné sankcie zabezpečujúce medzinárodný mier a bezpečnosť v znení neskorších predpisov.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
@@ -257,6 +279,8 @@
 - 88h) Napríklad § 12 ods. 1 a 2 a § 22b zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
 - 88i) § 23 a 55 zákona č. 428/2002 Z. z.
+
+- 88ia) § 10 ods. 7 a § 13 ods. 7 zákona č. 428/2002 Z. z.
 
 - 88j) § 4 ods. 1 a 2 zákona č. 244/2002 Z. z.
 
