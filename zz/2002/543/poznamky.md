@@ -188,9 +188,19 @@
 
 - 91) § 3, 4 a 12 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z.
 
+- 91a) § 21 ods. 1 zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
+
+- § 3 ods. 1 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 244/1997 Z. z. o vyznačovaní a evidencii ťažby dreva.
+
 - 92) Napríklad § 13, 32, 33, 39, 39b, 39c a 40 zákona č. 50/1976 Zb. v znení neskorších predpisov, § 24 až 28 zákona č. 44/1988 Zb. v znení neskorších predpisov, § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb., § 11 a 12 zákona č. 135/1961 Zb. v znení neskorších predpisov, § 7 a 8 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z., § 29 zákona č. 143/1998 Z. z., § 47 zákona č. 195/2000 Z. z., § 4 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov, § 29 ods. 2 zákona č. 23/1962 Zb., zákon č. 139/2002 Z. z.
 
-- 93) Napríklad § 6 zákona Slovenskej národnej rady č. 307/1992 Zb. v znení zákona č. 83/2000 Z. z.
+- 92a) § 4 zákona Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľnosti v znení neskorších predpisov.
+
+- 93) Napríklad zákon č. 184/2002 Z. z. v znení neskorších predpisov.
+
+- 93a) § 23 zákona č. 61/1977 Zb.
+
+- 93b) § 2 ods. 3 písm. e) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z.
 
 - 94) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 282/1993 Z. z. o zmiernení niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam v znení zákona č. 97/2002 Z. z.
 
