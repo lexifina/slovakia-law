@@ -4,7 +4,13 @@
 
 - 3) Zákon Slovenskej národnej rady č. 78/1978 Zb. o školských zariadeniach v znení zákona Slovenskej národnej rady č. 32/1984 Zb. (úplné znenie č. 54/1984 Zb.).
 
-- 4) Napr.: vyhláška č. 143/1984 Zb. o základnej škole, vyhláška č. 80/1991 Zb. o stredných školách, vyhláška č. 56/1990 Zb. o školách v prírode.
+- 4) Napríklad:
+
+- Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 143/1984 Zb. o základnej škole v znení neskorších predpisov.
+
+- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 80/1991 Zb. o stredných školách v znení vyhlášky Ministerstva školstva a vedy Slovenskej republiky č. 52/1993 Z. z.
+
+- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 383/1992 Zb. o škole v prírode.
 
 - 5) § 83 a nasl. Zákonníka práce.
 
