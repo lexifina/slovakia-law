@@ -1,0 +1,1 @@
+- *) Adresa: Obvodní báňský úřad v Buchcově, náměstí 1. Mája č. 12, telefon 216.

@@ -1,0 +1,3 @@
+Předseda:
+
+Teper v. r.
