@@ -4,6 +4,10 @@
 
 - 2) § 2 ods. 2 Obchodného zákonníka.
 
+- 2a) Zákon Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 2b) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
+
 - 3) § 8 a 9 zákona č. 17/1992 Zb. o životnom prostredí.
 
 - 4) § 192 Hospodárskeho zákonníka.
@@ -16,19 +20,21 @@
 
 - § 281 až 288 Obchodného zákonníka.
 
-- 5) § 34 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 163/1973 Zb. o dokumentácii stavieb.
+- 5) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch.
+
+- Zákon Národnej rady Slovenskej republiky č. 136/1995 Z. z.
 
 - 6) Zákon č. 30/1968 Zb. o štátnom skúšobníctve a vyhláška Úradu pre normalizáciu a meranie č. 32/1968 Zb., ktorou sa vykonáva zákon o štátnom skúšobníctve.
 
 - 7) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
 
-- 8) Vyhláška Českého úradu geodetického a kartografického č. 10/1974 Zb. o geodetických prácach vo výstavbe v znení vyhlášky č. 38/1974 Zb.,
+- 8) § 5 a 6 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z.
 
-- Vyhláška Slovenského úradu geodézie a kartografie č. 11/1974 Zb. o geodetických prácach vo výstavbe.
+- 9) § 712 Občianskeho zákonníka.
 
-- 9) § 288 Hospodárskeho zákonníka.
+- § 5 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami.
 
-- 10) Zákon č. 60/1961 Zb. o úlohách národných výborov pri zabezpečovaní socialistického poriadku, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 10) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 10a) § 128 ods. 2 Občianskeho zákonníka.
 
@@ -56,7 +62,11 @@
 
 - 10j) Vládne nariadenie č. 29/1959 Zb. o oprávneniach k cudzím nehnuteľnostiam pri stavbách a prevádzke podzemných potrubí pre pohonné látky a ropu.
 
-- 11) Napr. zákon č. 122/1975 Zb. o poľnohospodárskom družstevníctve, zákon č. 123/1975 Zb. o užívaní pôdy a iného poľnohospodárskeho majetku na zabezpečenie výroby.
+- 10k) § 2 až 15, § 18 a 19 vyhlášky č. 465/1991 Zb.
+
+- 10l) § 151n, 151o, 151p a 151r Občianskeho zákonníka.
+
+- 11) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
 
 - 12) Zákon č. 169/1949 Zb. o vojenských obvodoch.
 
@@ -79,12 +89,6 @@
 - zákon č. 138/1973 Zb. v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
-
-- 15) Obchodný zákonník,zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 231/1992 Zb., zákona č. 600/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z. (úplné znenie č. 105/1995 Z. z.).
-
-- 16) Napríklad zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov,
-
-- zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov,zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov,zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.
 
 - 17) § 2 ods. 1 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí.
 
@@ -117,5 +121,3 @@
 - zákon č. 138/1973 Zb.
 
 - 17c) Napr. zákon ČNR č. 367/1990 Zb., zákon ČNR č. 425/1990 Zb. o okresných úradoch, úprave ich pôsobnosti a o niektorých ďalších opatreniach s tým súvisiacich v znení neskorších predpisov, zákon ČNR č. 418/1990 Zb. o hlavnom meste Prahe, zákon ČNR č. 2/1969 Zb. o zriadení ministerstiev a iných ústredných orgánov štátnej správy ČSR v znení neskorších predpisov, zákon SNR č. 369/1990 Zb., zákon SNR č. 347/1990 Zb. o organizácii ministerstiev a iných ústredných orgánov štátnej správy SR v znení neskorších predpisov, zákon SNR č. 595/1990 Zb. o štátnej správe pre životné prostredie, zákon SNR č. 96/1990 Zb. o zriadení Slovenskej komisie pre životné prostredie a o zmenách v pôsobnosti ministerstiev SR, zákon SNR č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave.
-
-- 18) Útvar hlavného architekta hlavného mesta Prahy.
