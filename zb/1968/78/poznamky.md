@@ -1,3 +1,0 @@
-- *) O poskytovaní kúpeľného liečenia spisovateľom, hudobným skladateľom, výtvarným umelcom, architektom, vedeckým pracovníkom, výkonným umelcom a artistom, uznaným príslušnou vrcholnou ideovou organizáciou, pokiaľ sú povinne poistení, rozhoduje posudková komisia zriadená inštrukciou predsedu býv. Štátneho úradu sociálneho zabezpečenia (inštrukcia č. 5/1966 uverejnená v čiastke 14/1966 Vestníka ŠÚSZ a registrovaná v čiastke 37/1966 Zb.).
-
-- *) § 122 písm. b) vyhlášky č. 102/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení, vyhláška č. 76/1957 Ú. l. (Ú. v.) o prechode z pracovnej neschopnosti do invalidity (čiastočnej invalidity) a § 16 ods. 1 písm. b) vyhlášky č. 104/1964 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení družstevných roľníkov.
