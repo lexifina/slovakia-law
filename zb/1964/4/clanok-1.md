@@ -1,0 +1,21 @@
+# Čl. I
+
+Zákon č. 27/1954 Zb. o voľbách do Národného zhromaždenia v znení zákona č. 37/1960 Zb. a zákonného opatrenia č. 26/1961 Zb. sa mení a doplňuje takto:
+
+§ 48 znie:
+
+„§ 48
+
+Doplňovacie voľby
+
+(1)
+
+Ak sa z akéhokoľvek dôvodu uprázdni miesto poslanca Národného zhromaždenia, Predsedníctvo Národného zhromaždenia určí doplňovaciu voľbu. Doplňovacia voľba sa koná najneskoršie 90 dní po tom, čo sa miesto poslanca Národného zhromaždenia uprázdnilo.
+
+(2)
+
+Predsedníctvo Národného zhromaždenia nemusí určiť doplňovaciu voľbu alebo môže rozhodnúť, že sa doplňovacia voľba nevykoná, ak by sa mala konať v čase po vyhlásení všeobecných volieb do Národného zhromaždenia.
+
+(3)
+
+Pre riadenie doplňovacích volieb zriadi Predsedníctvo Národného zhromaždenia pre celé volebné obdobie Národného zhromaždenia Ústrednú volebnú komisiu pre doplňovacie voľby. Komisia sa skladá z predsedu, námestníka, tajomníka a z ďalších šiestich členov. Orgánom Ústrednej volebnej komisie pre doplňovacie voľby do Národného zhromaždenia na Slovensku je Slovenská volebná komisia, ktorú zriadi Predsedníctvo Slovenskej národnej rady; má rovnaké zloženie.“.
