@@ -16,7 +16,11 @@
 
 - 9) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 58/1997 Z. z.
 
+- 9a) § 58 ods. 2 a § 139 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 10) § 289 Obchodného zákonníka.
+
+- 10a) § 24 ods. 3 písm. a) zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
 
 - 11) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
