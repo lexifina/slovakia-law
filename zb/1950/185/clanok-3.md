@@ -1,3 +1,0 @@
-# Čl. III.
-
-Tento zákon nadobúda účinnosť dňom vyhlásenia; vykoná ho minister-predseda Štátneho úradu plánovacieho po dohode s ministrom financií a ostatnými zúčastnenými členmi vlády.
