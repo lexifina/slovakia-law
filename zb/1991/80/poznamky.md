@@ -1,14 +1,22 @@
-- 1) § 10 ods. 3 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov. § 5 ods. 1 a § 6 ods. 3 písm. a) zákona SNR č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve.
+- 1) § 10 ods. 3 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.§ 6 ods. 3 písm. a) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
 
-- 2) § 57 ods. 2 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
+- 2) § 56 ods. 1 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 2a) Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 280/1994 Z. z. o súkromných školách.Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 536/1990 Zb. o zriaďovaní a činnosti cirkevných škôl.
+
+- 2b) § 3 ods. 3 vyhlášky Ministerstva školstva Slovenskej republiky č. 145/1996 Z. z. o prijímaní na štúdium na stredných školách v znení neskorších predpisov.
+
+- 2c) § 4a ods. 1 písm. a) a § 5a ods. 1 písm. b) a písm. d) zákona Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.§ 78a písm. a) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 416/2001 Z. z.
+
+- 2d) § 6 ods. 3 písm. a) zákona Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
 
 - 3) Vyhláška Ministerstva školstva, mládeže a telesnej výchovy SSR č. 65/1988 Zb. o športových školách a stredných odborných učilištiach s triedami s vrcholovou športovou prípravou.
 
-- 4) Vyhláška č. 2/1987 Zb. o školách pre mládež vyžadujúcu osobitnú starostlivosť.
+- 4) Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 212/1991 Zb. o špeciálnych školách v znení neskorších predpisov.
 
 - 5) § 3 ods. 1 zákona SNR č. 542/1990 Zb.
 
-- 6) § 7 ods. 6 písm. b) zákona SNR č. 542/1990 Zb.
+- 6) § 3 ods. 13 a § 7a ods. 9 zákona Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
 
 - 7) Úprava Ministerstva zdravotníctva Slovenskej socialistickej republiky z 10. júla 1981 č. Z-1053/1981-B/12 o starostlivosti o zdravie pri vykonávaní telesnej výchovy, športu a brannej športovej činnosti (č. 22/1981 Vestníka MZd SSR), registrovaná v čiastke 32/1981 Zb.
 
