@@ -118,6 +118,8 @@ Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore
 
 - Vyšetrovateľ je vo veciach, ktoré vyšetruje, procesne samostatný a je viazaný iba ústavou, ústavnými zákonmi, zákonmi a ostatnými všeobecne záväznými právnymi predpismi, medzinárodnými zmluvami, ktorými je Slovenská republika viazaná, a v rozsahu ustanovenom Trestným poriadkom aj pokynmi prokurátora a súdu.“.
 
+- 9. V § 8 ods. 1 sa slovo „policajt“ nahrádza slovami „príslušník Policajného zboru (ďalej len „policajt“)“ a na konci sa pripája táto veta: „Pri vykonávaní služobnej činnosti je policajt povinný dodržiavať etický kódex policajta, ktorý vydá minister.“.
+
 - 10. V § 11 ods. 2 sa za slovo „policajt“ vkladajú slová „okrem policajta konajúceho podľa § 39a ods. 2 a 3“.
 
 - 11. V § 17 ods. 7 sa bodka na konci nahrádza čiarkou a pripájajú sa tieto slová: „čo vyznačí v úradnom zázname o predvedení.“.
@@ -127,6 +129,42 @@ Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore
 - Doterajšie odseky 6 až 9 sa označujú ako odseky 5 až 8.
 
 - 13. V § 18 ods. 8 sa slovo „alebo“ nahrádza spojkou „a“.
+
+- 14. V § 19 ods. 1 písmeno c) znie:
+
+- „c)
+
+- ktorá sa pokúsila o útek pri predvedení podľa § 17 alebo § 18, a dôvodná obava z jej úteku trvá,“.
+
+- 15. V § 19 sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- ktorá na útvare Policajného zboru uráža policajta alebo inú osobu alebo sa správa inak agresívne.“.
+
+- 16. V § 19 sa za odsek 1 vkladajú nové odseky 2 a 3, ktoré znejú:
+
+- „(2)
+
+- Útvar Policajného zboru, ktorý prevzal od policajta zaistenú osobu, bezodkladne vydá o zaistení osoby rozhodnutie, v ktorom uvedie dôvod, pre ktorý bola osoba zaistená, a bez zbytočných prieťahov ho odovzdá zaistenej osobe. Proti rozhodnutiu o zaistení osoby môže zaistená osoba podať odvolanie. Odvolanie nemá odkladný účinok.
+
+- (3)
+
+- Na konanie a rozhodovanie o zaistenej osobe sa vzťahujú všeobecné predpisy o správnom konaní.<sup>10</sup>)“.
+
+- Doterajšie odseky 2 až 5 sa označujú ako odseky 4 až 7.
+
+- Poznámka pod čiarou k odkazu 10 znie:
+
+- „10)
+
+- Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).“.
+
+- 17. V § 19 ods. 6 prvá veta znie:
+
+- „Osobe zaistenej podľa odseku 1 sa umožní bez zbytočného odkladu na jej požiadanie vyrozumieť o zaistení niektorú z blízkych osôb<sup>8</sup>) a požiadať advokáta o poskytnutie právnej pomoci.“.
+
+- 18. V § 19 ods. 7 sa vypúšťajú slová „zaistení alebo“.
 
 - 19. § 20a vrátane nadpisu znie:
 
@@ -771,3 +809,81 @@ Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore
 - (4)
 
 - Pri náhrade škody vzniknutej v súvislosti s vykonávaním úloh podľa odseku 2 sa postupuje podľa § 78 a podľa osobitného zákona.<sup>7</sup>)“.
+
+- 64. Za šiestu hlavu sa vkladá nová siedma hlava, ktorá vrátane nadpisu znie:
+
+- „SIEDMA HLAVA
+
+- DOBROVOĽNÝ STRÁŽCA PORIADKU
+
+- § 77d
+
+- (1)
+
+- Dobrovoľný strážca poriadku (ďalej len „strážca poriadku“) pomáha pri plnení úloh služby poriadkovej polície Policajného zboru, služby dopravnej polície Policajného zboru a služby hraničnej polície Policajného zboru na úseku ochrany verejného poriadku, pri dohľade nad bezpečnosťou a plynulosťou cestnej premávky a pri ochrane štátnej hranice. Strážcom poriadku môže byť osoba, ktorá dosiahla vek 21 rokov, je spôsobilá na právne úkony a požíva medzi občanmi dôveru a vážnosť.
+
+- (2)
+
+- Osobu na prijatie za strážcu poriadku môže navrhnúť obec, v ktorej má osoba trvalý pobyt. Návrh na prijatie za strážcu poriadku obsahuje
+
+- a)
+
+- meno a priezvisko, dátum narodenia, rodné číslo a adresu trvalého pobytu navrhovanej osoby,
+
+- b)
+
+- písomný súhlas navrhovanej osoby,
+
+- c)
+
+- výpis registra trestov navrhovanej osoby nie starší ako tri mesiace.
+
+- (3)
+
+- Osobu za strážcu poriadku prijíma a schvaľuje podľa potrieb Policajného zboru riaditeľ útvaru Policajného zboru. Útvar Policajného zboru po schválení osoby za strážcu poriadku tejto vydá preukaz strážcu poriadku.
+
+- § 77e
+
+- (1)
+
+- Strážca poriadku plní úlohy okrem úloh podľa odseku 4 len v prítomnosti policajta a podľa jeho pokynov. Strážca poriadku musí byť viditeľne označený preukazom strážcu poriadku a rukávovou páskou; označenie strážcu poriadku zabezpečuje útvar Policajného zboru. Za zníženej viditeľnosti strážca poriadku používa reflexnú vestu.
+
+- (2)
+
+- Strážca poriadku má pri plnení úloh preukaz strážcu poriadku viditeľne pripnutý na ľavej prednej strane horného dielu odevu. Preukaz strážcu poriadku tvorí biely polkartón rozmerov 105 mm x 75 mm zaliaty do fólie, na ktorého prednej strane na zelenom podklade je bielymi písmenami uvedený nápis DOBROVOĽNÝ STRÁŽCA PORIADKU. Pod nápisom vľavo je číslo preukazu, titul, meno a priezvisko strážcu poriadku a odtlačok okrúhlej pečiatky so štátnym znakom. Pod nápisom vpravo je fotografia rozmerov 3 cm x 3,5 cm strážcu poriadku, dátum a podpis riaditeľa útvaru Policajného zboru. Vzor preukazu je uvedený v prílohe č. 1.
+
+- (3)
+
+- Rukávovú pásku tvorí pruh látky zelenej farby široký 120 mm s nápisom DOBROVOĽNÝ STRÁŽCA PORIADKU v bielej reflexnej farbe a s písmenami vysokými 25 mm. Reflexná vesta je žltej reflexnej farby s nápisom „DOBROVOĽNÝ STRÁŽCA PORIADKU“. Rukávová páska a reflexná vesta sú v čase, keď strážca poriadku neplní úlohy podľa odseku 1, uložené na miestne príslušnom útvare Policajného zboru. Vzor rukávovej pásky je uvedený v prílohe č. 2.
+
+- (4)
+
+- Strážca poriadku je oprávnený so súhlasom útvaru Policajného zboru vykonávať na úseku ochrany verejného poriadku, bezpečnosti a plynulosti cestnej premávky a ochrany štátnej hranice školenia, prednášky a inštruktáže.
+
+- (5)
+
+- Strážca poriadku je pri plnení úloh podľa odseku 1 oprávnený,
+
+- a)
+
+- ak ide o porušenie všeobecne záväzného právneho predpisu na úseku ochrany verejného poriadku, ochrany bezpečnosti a plynulosti cestnej premávky a ochrany štátnej hranice, používať na odstránenie takého porušenia dohováranie a výzvu,
+
+- b)
+
+- usmerňovať účastníkov dopravy najmä pri dopravnej nehode, poškodení komunikácie a na tieto účely dávať pokyn na zastavenie vozidla.
+
+- (6)
+
+- Každý je povinný uposlúchnuť výzvu, pokyn a usmernenie strážcu poriadku alebo strpieť výkon jeho oprávnení podľa ustanovenia odseku 5.
+
+- (7)
+
+- Čas a miesto plnenia úloh strážcu poriadku určuje útvar Policajného zboru po dohode so strážcom poriadku.“.
+
+- Doterajšia siedma hlava sa označuje ako ôsma hlava a doterajšia ôsma hlava sa označuje ako deviata hlava.
+
+- 65. Za § 83 sa vkladá § 83a, ktorý znie:
+
+- „§ 83a
+
+- Zrušuje sa zákon č. 382/1997 Z. z. o pomocníkoch Policajného zboru.“.
