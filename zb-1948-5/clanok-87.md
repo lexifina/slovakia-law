@@ -1,0 +1,5 @@
+# Článek 87.
+
+- 1. S výjimkou případů, kde jiné řízení je zvláště předepsáno některým článkem této smlouvy, každý spor o výklad nebo provedení této smlouvy, který nebude vyřízen přímým diplomatickým jednáním, bude předložen čtyřem velvyslancům, jednajícím podle článku 86, s tou výjimkou, že v tomto případě velvyslanci nebudou omezeni lhůtou, stanovenou v tomto článku. Každý takový spor, který nebude jimi vyřízen do dvou měsíců, bude, ačli sporné strany se mezi sebou nedohodnou o jiném způsobu vyřízení, na žádost jedné nebo druhé sporné strany předložen komisi, složené ze zástupce každé strany a třetího člena zvoleného vzájemnou dohodou obou stran z příslušníků třetího státu. Kdyby se obě strany do jednoho měsíce nedohodly o jmenování třetího člena, může jedna nebo druhá strana požádati generálního sekretáře Spojených národů, aby ho jmenoval.
+
+- 2. Rozhodnutí většiny členů komise bude rozhodnutím komise a strany je přijmou jako konečné a závazné.
