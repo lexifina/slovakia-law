@@ -1,0 +1,3 @@
+# Čl. III
+
+Ustanovení § 4, odst. 6 dekretu č. 100/l945 Sb. ve znění čl. II lze obdobně užíti i na majetek, na který se vztahuje ustanovení čl. IV zákona ze dne 7. dubna 1948, č. 79 Sb., kterým se mění a doplňuje zákon ze dne 16. května 1946, č. 128 Sb., o neplatnosti některých majetkově-právních jednání z doby nesvobody a o nárocích z této neplatnosti a z jiných zásahů do majetku vzcházejících. Jde-li přitom o majetek znárodněný nebo o takový jiný majetek, k jehož znárodnění nedošlo jen v důsledku neplatného majetkově-právního jednání nebo neplatného zásahu z doby nesvobody, hledí se v řízení o náhradě na osoby, které dosáhly pravomocného výroku podle čl. IV, odst. 1 zákona č. 79/1948 Sb., jako by jim tento majetek byl znárodněn.
