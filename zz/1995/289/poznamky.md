@@ -24,6 +24,8 @@
 
 - 8) § 14 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 190/1995 Z. z.
 
+- 8a) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
 - 9) § 29 ods. 2 zákona č. 286/1992 Zb. o daniach z príjmov.
 
 - 10) § 10 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení.
@@ -49,6 +51,8 @@
 - 15) § 489 Obchodného zákonníka.
 
 - 15a) § 137 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
+
+- 15b) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
 - 16) § 140 Zákonníka práce.
 
@@ -138,6 +142,8 @@
 
 - 50) § 119 a nasl. zákona č. 618/1992 Zb.
 
+- 50a) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
+
 - 51) § 38 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 146/1995 Z. z.
 
 - 52) § 15 zákona č. 111/1990 Zb. o štátnom podniku.
@@ -193,6 +199,8 @@
 - 66) § 159 až 161 zákona č. 618/1992 Zb.
 
 - 67) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách.
+
+- 67a) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl.
 
 - 68) Vyhláška ministra zahraničných vecí č. 160/1988 Zb. o Medzinárodnom dohovore o harmonizovanom systéme opisu a číselného označovania tovaru a Protokole o jeho zmene
 
