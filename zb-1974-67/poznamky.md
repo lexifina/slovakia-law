@@ -1,0 +1,1 @@
+- 1) V rozpočtových a príspevkových organizáciách postupujú nadriadené orgány v odôvodnených prípadoch primerane podľa týchto zásad.
