@@ -2,27 +2,31 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
 
 - Zoznam učebných odborov zaradených do kategórie A
 
-  - a) Učebné odbory národohospodársky najdôležitejšie v organizáciách riadených Federálnym ministerstvom palív a energetiky
+  - a) Učebné odbory národohospodársky najdôležitejšie v organizáciách riadených Federálnym ministerstvom palív a energetiky a v organizáciách výrobnej hospodárskej jednotky Rudné bane a magnezitové závody
 
     - 1. banské učebné odbory, v ktorých sa uskutočňuje praktická príprava (odborný výcvik) v podzemí
 
       - učebné odbory novokoncipované<sup>10</sup>)
 
+      - 01-11-4 baník mechanizátor
+
       - 03-15-2 mechanik-opravár s odborným zameraním na banské stroje a zariadenia
 
-      - 14-62-2 elektromechanik s odborným zameraním na banské stroje a zariadenia
+      - 04-42-4 banský elektromontér
 
-      - banský elektromontér - študijný odbor<sup>11</sup>)
+      - 04-62-2 elektromechanik s odborným zameraním na banské stroje a zariadenia
 
-      - baník mechanizátor - študijný odbor<sup>11</sup>)
+      - učebné odbory podľa doterajších predpisov<sup>11</sup>)
 
-      - učebné odbory podľa doterajších predpisov<sup>12</sup>)
+      - 21-61-2 baník v uhoľných baniach
 
-      - 21-61-2 baník pre uhoľné bane
+      - 21-62-2 baník v rudných baniach
 
       - 21-63-2 baník mechanizovaných pracovísk
 
       - 21-65-2 strojník komplexne mechanizovaných porubov a predkov
+
+      - 21-66-2 strojník dopravných zariadení
 
       - 21-67-2 banský zámočník
 
@@ -32,19 +36,21 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
 
       - učebné odbory novokoncipované<sup>10</sup>)
 
-      - 03-13-2 mechanik-opravár s odborným zameraním na stroje a zariadenia pre odvetvie energetiky a lomové prevádzky
+      - 01-12-4 mechanik banských strojov a veľkostrojov
 
-      - 04-61-2 elektromechanik s odborným zameraním na stroje a zariadenia pre odvetvie energetiky a lomové prevádzky
+      - 03-13-2 mechanik-opravár s odborným zameraním na stroje a zariadenia v odvetví energetiky a v lomových prevádzkach
+
+      - 04-61-2 elektromechanik s odborným zameraním na stroje a zariadenia v odvetví energetiky a v lomových prevádzkach
 
       - 04-63-2 elektromechanik s odborným zameraním na rozvodné zariadenia
 
-      - učebné odbory podľa doterajších predpisov<sup>12</sup>)
+      - učebné odbory podľa doterajších predpisov<sup>11</sup>)
 
-      - 21-69-2 vŕtač pre odvetvie palív, plynárenstva a uránový priemysel
+      - 21-69-2 vŕtač (v odvetví palív, plynárenstva, rudného a nerudného baníctva a uránovom priemysle)
 
-      - 24-09-2 potrubár pre odvetvie plynárenstva
+      - 24-09-2 potrubár (v odvetví plynárenstva)
 
-      - 24-24-2 prevádzkový zámočník pre odvetvie energetiky a lomové prevádzky
+      - 24-24-2 prevádzkový zámočník (v odvetví energetiky, rudného a nerudného baníctva a v lomových prevádzkach)
 
       - 26-81-2 elektromontér rozvodných zariadení
 
@@ -440,8 +446,6 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
 
     - 03-11-2 mechanik-opravár s odborným zameraním na poľnohospodárske a lesnícke stroje a zariadenia
 
-    - 03-15-2 mechanik-opravár s odborným zameraním na banské stroje a zariadenia
-
     - 03-19-2 mechanik-opravár s odborným zameraním na koľajové vozidlá
 
     - 03-41-2 úpravár kovov s odborným zameraním na tepelné spracovanie
@@ -451,8 +455,6 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
     - 03-72-2 strojný kováč
 
     - 03-75-2 obrábač kovov
-
-    - 04-62-2 elektromechanik s odborným zameraním na banské stroje a zariadenia
 
     - 04-63-2 elektromechanik s odborným zameraním na rozvodné zariadenia
 
@@ -494,17 +496,9 @@ Príloha č. 1 vyhlášky č. 95/1979 Zb.
 
     - učebné odbory podľa doterajších predpisov<sup>12</sup>)
 
-    - 21-62-2 baník pre rudné bane
-
-    - 21-63-2 baník mechanizovaných pracovísk
-
     - 21-64-2 koksár
 
-    - 21-65-2 strojník komplexne mechanizovaných porubov a predkov
-
     - 21-66-2 strojník dopravných zariadení
-
-    - 21-67-2 banský zámočník
 
     - 21-68-2 banský elektromontér
 
