@@ -10,6 +10,18 @@
 
 - 3) Nariadenie vlády ČSSR č. 137/1989 Zb. o závodnom stravovaní.
 
+- 3a) § 3 ods. 3 vyhlášky Ministerstva školstva, mládeže a športu Slovenskej republiky č. 212/1991 Zb. o špeciálnych školách.
+
+- 3b) § 4 vyhlášky Ministerstva školstva, mládeže a športu Slovenskej republiky č. 212/1991 Zb.
+
+- 3c) § 50 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb.
+
+- 3d) § 87 ods. 1 a 2 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 240/1993 Z. z.
+
+- 3e) § 7 až 27 zákona č. 29/1984 Zb. v znení zákona č. 171/1990 Zb., zákona č. 522/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
+
+- 3f) Zákon č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 41/1994 Z. z.
+
 - 4) § 130 vyhlášky MZSV SSR č. 151/1988 Zb.
 
 - 5) § 127 vyhlášky MZSV SSR č. 151/1988 Zb.
