@@ -1,0 +1,1 @@
+- *) § 91 zák. č. 32/1962 Zb. o sociálnom zabezpečení družstevných roľníkov.
