@@ -1,0 +1,1 @@
+- 7) § 19 nařízení vlády České republiky č. 216/1992 Sb., kterým se vydává Zdravotní řád a provádějí některá ustanovení zákona České národní rady č. 550/1991 Sb., o všeobecném zdravotním pojištění.
