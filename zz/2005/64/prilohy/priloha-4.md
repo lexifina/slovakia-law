@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 64/2005 Z. z. [Výkaz o umiestnení prostriedkov technických rezerv v životnom poistení - vzor](../assets/ab26d8e2bd7abb47a691815376895dd08aaf6269c95446ffd67dcfb6baa9f2fc.pdf)

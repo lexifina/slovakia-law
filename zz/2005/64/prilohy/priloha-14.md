@@ -1,0 +1,1 @@
+Príloha č. 14 k vyhláške č. 64/2005 Z. z. [Hlásenie o voľných, ničím nezaťažených aktívach tvoriacich garančný fond - vzor](../assets/05de5325c887563ef1e7cbac447213dc697921461fe0cdb261e893e2e48cfbdc.pdf)

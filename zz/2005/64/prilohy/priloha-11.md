@@ -1,0 +1,1 @@
+Príloha č. 11 k vyhláške č. 64/2005 Z. z. [Výkaz o rovnováhe medzi peňažnými menami aktív a pasív (currency matching) v neživotnom poistení - vzor](../assets/4b5c00c3b8016285efa8f935e9838a7f81d5500ff858b37967177f8258bae9ff.pdf)

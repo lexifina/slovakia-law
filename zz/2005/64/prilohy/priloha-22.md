@@ -1,0 +1,1 @@
+Príloha č. 22 k vyhláške č. 64/2005 Z. z. [Zoznam poisťovacích agentov - FO, ktoré vykonávali sprostredkovanie poistenia v mene poisťovne/zaisťovne/pobočky zahraničnej poisťovne/pobočky zahraničnej zaisťovne k 31. decembru predchádzajúceho kalendárneho roka - vzor](../assets/3679e6beb0a36541543a13805f87a26734bfa758b7f5c2d1afeeedc23c6f96fd.pdf)

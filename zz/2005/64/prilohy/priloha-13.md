@@ -1,0 +1,1 @@
+Príloha č. 13 k vyhláške č. 64/2005 Z. z. [Hlásenie o všetkých zmenách týkajúcich sa všeobecných poistných podmienok a osobitných poistných podmienok, výpočtu sadzieb poistného a technických rezerv poisťovne - vzor](../assets/6364355d39194260d7739c07ae37672f9aefe003644f5cee21a24af684a9b4f8.pdf)

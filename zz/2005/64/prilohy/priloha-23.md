@@ -1,0 +1,1 @@
+Príloha č. 23 k vyhláške č. 64/2005 Z. z. [Zoznam poisťovacích agentov - PO, ktoré vykonávali sprostredkovanie poistenia v mene poisťovne/zaisťovne/pobočky zahraničnej poisťovne/pobočky zahraničnej zaisťovne k 31. decembru predchádzajúceho kalendárneho roka - vzor](../assets/8e4932b4fab259ad3d71690f64344bd666b12f0c2242f58d5e1abea7d804c152.pdf)
