@@ -1,6 +1,6 @@
 Príloha č. 3 k zákonu č. 73/1998 Z. z.
 
-- ZOZNAM ČINNOSTÍ, PRI KTORÝCH PATRÍ PRÍPLATOK ZA ŠTÁTNU SLUŽBU V SŤAŽENOM A ZDRAVIU ŠKODLIVOM PRACOVNOM PROSTREDÍ
+- ZOZNAM ČINNOSTÍ, PRI KTORÝCH VÝKONE PATRÍ PRÍPLATOK ZA ŠTÁTNU SLUŽBU V SŤAŽENÝCH A ZDRAVIU ŠKODLIVÝCH PODMIENKACH
 
   - I. SKUPINA
 
@@ -94,9 +94,9 @@ Príloha č. 3 k zákonu č. 73/1998 Z. z.
 
       - 1. Odber a spracovanie materiálu na biologické expozičné testy.
 
-      - 2. Vykonávanie dozoru na pracoviskách, sledovanie zdravotného stavu a odber s následným spracovaním vzoriek ovzdušia v laboratóriách, najmä na určenie chemických faktorov a ich vplyvu na zdravie.
+      - 2. Vykonávanie dozoru na pracoviskách, sledovanie zdravotného stavu a odber s následným spracovaním vzoriek ovzdušia v laboratóriách, najmä na určenie chemických zlúčenín a prašnosti a ich vplyvu na zdravie.
 
-      - 3. Vykonávanie dozoru nad činnosťami vykonávanými na pracoviskách s výskytom nebezpečných chemických faktorov, ak sú tieto činnosti zaradené do druhej kategórie a vyššej.
+      - 3. Vykonávanie dozoru nad činnosťami vykonávanými na pracoviskách s výskytom chemických škodlivín a prašnosti, ak sú tieto činnosti zaradené do kategórie 2 a vyššej, v zmysle pokynu č. 13/1986 Vestníka Ministerstva zdravotníctva SSR na vykonávanie hygienického dozoru na pracoviskách a vyhlasovanie rizikových prác.
 
       - 4. Činnosti anestéziologických tímov pri poskytovaní celkovej anestézie pri anestéziách plynnými anestetikami alebo parami kvapalných anestetík (napríklad galotan, éter, oxid dusný, cyklopropán) a ďalšie činnosti na anestéziologicko-resuscitačných oddeleniach pri poskytovaní anestézie.
 
@@ -108,7 +108,7 @@ Príloha č. 3 k zákonu č. 73/1998 Z. z.
 
       - 8. Činnosti v poloprevádzkových podmienkach pri základnom i aplikovanom výskume a vývoji, výrobe, spracovaní a úprave ručnej manipulácie pri skladovaní, delení a balení látok, ak surovina, polotovar, respektíve hotový výrobok sú jedovaté, činnosť v týchto podmienkach je spojená s rizikom profesionálnej subakútnej a subchronickej otravy predovšetkým prostredníctvom inhalácie, pevného i kvapalného aerosolu a plynu alebo cez neporušenú kožu.
 
-      - 9. Činnosti v laboratóriách (chemických, fyzikálno-chemických, biochemických atď.) pri výskume a rozboroch vrátane prípravy vzoriek za predpokladu, že analyzovaná, spracúvaná alebo vyrábaná látka je veľmi jedovatá<sup>53</sup>).
+      - 9. Činnosti v laboratóriách (chemických, fyzikálno-chemických, biochemických atď.) pri výskume a rozboroch vrátane prípravy vzoriek za predpokladu, že analyzovaná, spracúvaná alebo vyrábaná látka je zvlášť nebezpečne jedovatá.
 
     - E. Fyzikálne vplyvy
 
@@ -122,7 +122,7 @@ Príloha č. 3 k zákonu č. 73/1998 Z. z.
 
       - 5. Obsluha výsypky a vyberanie škváry a popola v uzavretých priestoroch pod kotlom.
 
-      - 6. Činnosti vykonávané v prostredí nadmerného hluku podľa osobitných predpisov.<sup>18c</sup>)
+      - 6. Činnosti vykonávané v prostredí nadmerného hluku zodpovedajúcom triede hluku najmenej N 115.
 
   - II. SKUPINA
 
@@ -252,9 +252,9 @@ Príloha č. 3 k zákonu č. 73/1998 Z. z.
 
     - D. Chemické škodliviny
 
-      - 1. Výkon bežného štátneho zdravotného dozoru na pracoviskách s výskytom chemických a fyzikálnych faktorov zaradených do tretej a štvrtej kategórie.
+      - 1. Výkon bežného štátneho zdravotného dozoru na pracoviskách s výskytom chemických a fyzikálnych škodlivín zaradených do kategórií 3 a 4 podľa pokynu č. 13/1986 Vestníka Ministerstva zdravotníctva SSR na vykonávanie hygienického dozoru na pracoviskách a vyhlasovanie rizikových prác.
 
-      - 2. Činnosti s nebezpečnými chemickými látkami a nebezpečnými chemickými prípravkami, ktoré sú klasifikované ako veľmi jedovaté látky a prípravky,<sup>53</sup>) vykonávané v úzkom kontakte s nimi, kde výkon činnosti je podmienený náročnou, odbornou prípravou, individuálnou fyziologickou a psychologickou spôsobilosťou a vysokými požiadavkami na dôsledné dodržiavanie zásad ochrany zdravia a bezpečnosti práce.
+      - 2. Činnosti s vysokorizikovými chemickými škodlivinami, ktoré sú klasifikované ako zvlášť nebezpečné jedy, vykonávané v úzkom kontakte s nimi, kde výkon činnosti je podmienený náročnou, odbornou prípravou, individuálnou fyziologickou a psychologickou spôsobilosťou a vysokými požiadavkami na dôsledné dodržiavanie zásad ochrany zdravia a bezpečnosti práce.
 
     - E. Fyzikálne vplyvy
 
