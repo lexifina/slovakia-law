@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 57/2005 Z. z. OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V SKLENÝCH TEPLICIACH ![Obrázok 01](../assets/fd5e96c64a23f429c5f2440b40805b380b5b18db66083f557aac6a3a50f803ed.tiff)

@@ -1,0 +1,15 @@
+Príloha č. 3 k vyhláške č. 57/2005 Z. z. POPIS HRANÍC OCHRANNÝCH PÁSIEM PRÍRODNÝCH LIEČIVÝCH ZDROJOV V SKLENÝCH TEPLICIACH
+
+- Ochranné pásmo I. stupňa
+
+- Ochranné pásmo I. stupňa je vyznačené v mapovom podklade - Štátna mapa odvodená v mierke 1 : 5 000, listy Banská Štiavnica 6-4, Banská Štiavnica 5-4, Banská Štiavnica 6-5, Banská Štiavnica 5-5.
+
+- Ochranné pásmo I. stupňa chráni výverovú oblasť. Severná hranica sa začína na sútoku Teplej a Dedinského potoka. Pokračuje kolmo cez údolie Teplej, pretína cestu a pokračuje až na vrstevnicu 350 m n.m. Západná hranica vedie po vrstevnici 350 m n.m., obchádza záhrady, pokračuje výbežkom západným smerom, ktorý sa končí na vrstevnici 375 m n.m. Po nej pokračuje ďalej do oblasti prameňa Janka. Odtiaľ pokračuje juhozápadným smerom ľavou stranou údolia Teplej súbežne so štátnou cestou Sklené Teplice - Hliník nad Hronom asi 100 m od nej. Pretína ľavostranný prítok Teplej, pokračuje po ňom v dĺžke asi 250 m, stáča sa južným smerom cez hrebeň a vedie až po potok Teplá. Od potoka Teplá pretína kolmo štátnu cestu, smerujúc na vrstevnicu 400 m n.m. Ďalej pokračuje po vrstevnici 400 m n.m. až do doliny Vydričného potoka, odkiaľ hranica pokračuje priamkou severným smerom. Pod cintorínom pretína údolie Vydričného potoka, prechádza do svahu a cez hrebeň pokračuje až po prístupovú cestu ku Kúpeľno-liečebnému domu Sklené Teplice. Od neho pokračuje hranica po vrstevnici 375 m n.m. až do údolia Dedinského potoka, kde sa spája so severnou hranicou.
+
+- Do ochranného pásma I. stupňa je zahrnutý aj vrt ST-4 vzhľadom na to, že sa preukázala jeho hydraulická spojitosť so zdrojmi termálnej vody vo výverovej oblasti, a jednak preto, že pri klesajúcej výdatnosti týchto termálnych zdrojov môže slúžiť ako nový zdroj prírodnej liečivej vody. Ochrana vrtu ST-4 je zabezpečená kruhom s polomerom 50 m.
+
+- Ochranné pásmo II. stupňa
+
+- Ochranné pásmo II. stupňa je vyznačené v mapovom podklade - Vodohospodárska mapa Slovenskej republiky v mierke 1 : 50 000, listy Žiar nad Hronom 36-31, Banská Štiavnica 36-33.
+
+- Ochranné pásmo II. stupňa chráni akumulačnú oblasť. Ochranné pásmo II. stupňa obkolesuje ochranné pásmo I. stupňa. Má tvar rovnoramenného trojuholníka s preponou pozdĺž rieky Hron. Jeho hranice sú vedené v teréne po viditeľných kótach, cestách a rieke Hron. Severnú hranicu tvorí rieka Hron. Na západe sa začína na moste ponad Hron, medzi obcami Bzenica a Bukovina. Na východe sa končí na moste ponad rieku Hron, medzi obcami Dolina a Jalná. Východná hranica sa začína na moste ponad rieku Hron, medzi obcami Dolina a Jalná, pokračuje juhozápadným smerom po hrebeni (rozvodnici), po kótach Horná Snoža (512 m n.m.), Plieška (795 m n.m.), Jaseňový vrch (829 m n.m.), Snoža (834 m n.m.), Brezový hrad (811 m n.m.), po hrebeni popri osadách Podhorie a Teplá na kótu 777 m n.m. Západná hranica sa začína na kóte 777 m n.m., pokračuje severozápadným smerom po hrebeni (rozvodnici), po kótach Studený vrch (876 m n.m.), Zlatý vrch (850 m n.m.), Bralec (671 m n.m.), kóta 468 m n.m., Hlinícká hora (347 m n.m.), Chobien (392 m n.m.) a po hrebeni na most ponad rieku Hron, medzi obcami Bzenica a Bukovina.
