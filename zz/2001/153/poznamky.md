@@ -67,3 +67,5 @@
 - § 13 až 26 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 
 - 32) § 30 a 31 zákona č. 141/1961 Zb. v znení neskorších predpisov.
+
+- 40) § 26 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
