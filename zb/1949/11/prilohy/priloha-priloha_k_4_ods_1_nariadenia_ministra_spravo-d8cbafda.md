@@ -202,7 +202,7 @@ Príloha k § 4, ods. 1 nariadenia ministra spravodlivosti č. 11/1949 Sb.
 
 - | Broumov | Broumov
 
-- | Dobruška | Dobruška
+- | Nové Město nad Metují | Dobruška
 
 - | Dvůr Králové nad Labem | Dvůr Králové nad Labem
 
