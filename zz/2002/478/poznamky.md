@@ -1,4 +1,6 @@
-- 1) § 13 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. Z. v znení neskorších predpisov.
+- 1) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 12/2001 Z. z. o požiadavkách na zabezpečenie radiačnej ochrany.
 
 - 2) § 2 ods. 1 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
