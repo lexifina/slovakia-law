@@ -26,8 +26,6 @@
 
 - 13) § 89 ods. 14 Trestného zákona.
 
-- 14) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
-
 - 15) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov; zákon č. 513/1991 Zb. v znení neskorších predpisov; zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
 
 - 16) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
