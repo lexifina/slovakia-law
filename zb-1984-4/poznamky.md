@@ -1,0 +1,1 @@
+- 1) Nový predmet podnikania podniku zahraničného obchodu Art Centrum, československé stredisko výtvarných umení, určil minister zahraničného obchodu rozhodnutím z 29. decembra 1983.
