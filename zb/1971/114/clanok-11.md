@@ -1,0 +1,3 @@
+# Článok 11 (K § 31 zákona)
+
+Penále ukladané zvýšením dane alebo príspevku na sociálne zabezpečenie (§ 31 ods. 2 zákona) sa predpíše tak z rozdielu, o ktorý sú daň alebo príspevok na sociálne zabezpečenie vyrubené platobným výmerom vyššie než daň alebo príspevok na sociálne zabezpečenie, ktoré si daňovník sám vypočítal v priznaní, ako aj z rozdielov určených dodatočným platobným výmerom na základe kontroly alebo revízie vykonanej po vyrubení. Ak daňovník nezaplatil rozdiel včítane zvýšenia (§ 31 ods. 2 zákona) do 15 dní po doručení platobného výmeru, je povinný platiť z nedoplatku k lehote zročnosti penále podľa § 31 ods. 1 zákona.
