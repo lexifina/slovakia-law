@@ -1,14 +1,22 @@
 - 1) § 31 zákona.
 
+- 1) Nariadenie vlády Slovenskej socialistickej republiky č. 2/1988 Zb. o predaji tovaru a poskytovaní iných služieb na základe povolenia národného výboru.
+
 - 2) Vyhláška ministra vnútorného obchodu č. 10/1966 Zb. o nákupe tovaru vo vnútornom obchode socialistickými organizáciami.
 
 - Úprava Ministerstva obchodu Slovenskej socialistickej republiky č. 9/1982 Vestníka Ministerstva obchodu Slovenskej socialistickej republiky o zákaze predaja niektorých druhov tovaru vo vnútornom obchode socialistickým organizáciám.
+
+- 2) § 33 ods. 2 vyhlášky predsedu Štátnej banky československej č. 10/1978 Zb. o platobnom styku a zúčtovaní na účtoch organizácie.
 
 - 3) Zákon č. 35/1962 Zb. o mierovej službe v znení zákona č. 57/1975 Zb.
 
 - Vyhláška Úradu pre normalizáciu a meranie č. 61/1963 Zb. o zabezpečovaní správnosti meradiel a merania v znení vyhlášok č. 102/1967 Zb. a č. 59/1979 Zb.
 
+- 3) Odborová norma 73 54 13.
+
 - 4) Tovar nepoužitý, nezodpovedajúci určeným voľbám (triedam akosti).
+
+- 4) Odborová norma 73 54 12.
 
 - 5) § 248 ods. 2 Občianskeho zákonníka.
 
