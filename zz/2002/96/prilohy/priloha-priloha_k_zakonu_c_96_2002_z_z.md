@@ -64,4 +64,4 @@ Centrálny depozitár | najmenej 0,01 %, najviac 0,1 % z výšky základného im
 
 Dôchodková správcovská spoločnosť | najmenej 0,01 % z výšky základného imania, najviac súčet hodnôt 850 000 Sk a 0,3 % z rozdielu výšky základného imania a sumy 200 000 000 Sk, najviac však 3 000 000 Sk.
 
-Sprostredkovateľ starobného dôchodkového sporenia | najmenej 3 000 Sk, najviac 10 000 Sk.
+Sprostredkovateľ starobného dôchodkového sporenia | najmenej 1 000 Sk, najviac 3 000 Sk.
