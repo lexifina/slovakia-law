@@ -1,1 +1,0 @@
-- 1) Napríklad tyče, dosky, fólie, rúrky, profily, podlahové a nábytkové krytiny, umelé kože, pásy a remene.
