@@ -1,5 +1,5 @@
-## Spoločné ustanovenia o zodpovednosti organizácie
+## Spoločné ustanovenia o zodpovednosti zamestnávateľa
 
 # § 205a
 
-Ak organizácia preukáže, že škodu zavinil aj poškodený pracovník, jej zodpovednosť sa pomerne obmedzí; pri zodpovednosti za škodu pri pracovných úrazoch a chorobách z povolania sa postupuje podľa ustanovení § 191.
+Ak zamestnávateľ preukáže, že škodu zavinil aj poškodený zamestnanec, jeho zodpovednosť sa pomerne obmedzí; pri zodpovednosti za škodu pri pracovných úrazoch a chorobách z povolania sa postupuje podľa ustanovení § 191.

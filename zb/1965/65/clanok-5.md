@@ -1,3 +1,3 @@
 # Článok V
 
-Pracovníci majú prostredníctvom odborovej organizácie právo na informácie o činnosti organizácie a zásadných otázkach súvisiacich s ekonomikou a rozvojom organizácie.
+Zamestnanci majú prostredníctvom odborovej organizácie právo na informácie o činnosti zamestnávateľa a zásadných otázkach súvisiacich s ekonomikou a rozvojom zamestnávateľa.

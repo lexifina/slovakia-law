@@ -1,6 +1,6 @@
-# § 205d Zákonné poistenie zodpovednosti organizácie za škodu
+# § 205d Zákonné poistenie zodpovednosti zamestnávateľa za škodu
 
-(1) Organizácie zamestnávajúce aspoň jedného pracovníka sú pre prípad svojej zodpovednosti za škodu pri pracovnom úraze alebo chorobe z povolania poistené (ďalej len „zákonné poistenie“) v úrazovej poisťovni (ďalej len „poisťovňa“). To sa nevzťahuje na organizácie, ktoré majú podľa zákona postavenie štátneho orgánu.
+(1) Zamestnávatelia zamestnávajúci aspoň jedného zamestnanca sú pre prípad svojej zodpovednosti za škodu pri pracovnom úraze alebo chorobe z povolania poistené (ďalej len „zákonné poistenie“) v úrazovej poisťovni (ďalej len „poisťovňa“). To sa nevzťahuje na zamestnávateľov, ktorí majú podľa zákona postavenie štátneho orgánu.
 
 (2) Ak vznikne poisťovni vykonávaním zákonného poistenia majetková ujma, má právo na úhradu tejto ujmy zo štátneho rozpočtu.
 
@@ -12,6 +12,6 @@
 
 (6) Bližšie podmienky a sadzby poistného ustanoví vyhláškou Ministerstvo financií Slovenskej republiky.
 
-(7) Ak pri zániku organizácie neprejdú práva a povinnosti z pracovnoprávneho vzťahu na inú organizáciu, má poškodený (pozostalý) právo priamo voči poisťovni, aby mu škodu nahradila v tom istom rozsahu, v akom by mu ju bola povinná nahradiť sama poistená organizácia.
+(7) Ak pri zániku zamestnávateľa neprejdú práva a povinnosti z pracovnoprávneho vzťahu na iného zamestnávateľa, má poškodený (pozostalý) právo priamo voči poisťovni, aby mu škodu nahradila v tom istom rozsahu, v akom by mu ju bol povinný nahradiť sám poistený zamestnávateľ.
 
-(8) V rozsahu, v akom sa na organizáciu vzťahuje zákonné poistenie, zaniká jej povinnosť dojednať zmluvné poistenie podľa osobitných predpisov.
+(8) V rozsahu, v akom sa na zamestnávateľa vzťahuje zákonné poistenie, zaniká jeho povinnosť dojednať zmluvné poistenie podľa osobitných predpisov.

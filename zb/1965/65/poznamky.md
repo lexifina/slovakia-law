@@ -1,8 +1,6 @@
 - *) Pre účely tohto uznesenia sa socialistickou organizáciou rozmejú aj jej organizačné jednotky.
 
-- 1) Zákon č. 90/1988 Zb. o poľnohospodárskom družstevníctve.
-
-- Zákon č. 94/1988 Zb. o bytovom, spotrebnom a výrobnom družstevníctve.
+- 1) § 226 ods. 2 Obchodného zákonníka.
 
 - 1) Pozri zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie a zákon č. 462/1919 Zb. o prepožičiavaní miest legionárom v znení zákona č. 196/1946 Zb.
 
@@ -23,6 +21,18 @@
 - 7) § 116 vyhlášky č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
 
 - 8) § 14 zákona č. 120/1962 Zb. o boji proti alkoholizmu.
+
+- 8a) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
+
+- 8b) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+
+- 8c) § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
+
+- 8d) Zákon č. 119/1992 Zb. o cestovných náhradách.
+
+- 8e) Zákon č. 119/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 53/1996 Z. z.
+
+- 8f) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 9) Vyhláška Federálneho ministerstva vnútra č. 135/1983 Zb. o ochrane majetku v socialistickom spoločenskom vlastníctve.
 
@@ -57,6 +67,8 @@
 - 22) Napríklad zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
 
 - 23) Napríklad zákon č. 513/1991 Zb. Obchodný zákonník, zákon č. 328/1991 Zb. o konkurze a vyrovnaní.
+
+- 23a) § 17 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
 
 - 24) § 17 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku.
 
