@@ -1,12 +1,12 @@
-- 1) § 27 zákona SNR č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
+- 1) § 27 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení zákona Slovenskej národnej rady č. 195/1992 Zb.
 
 - 2) § 73 ods. 6 písm. f) a i) zákona č. 100/1988 Zb. o sociálnom zabezpečení.§ 58 vyhlášky MZSV SSR č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon SNR o pôsobnosti orgánov SSR v sociálnom zabezpečení v znení vyhlášky č. 145/1990 Zb.
 
-- 2a) § 13 ods. 3 vyhlášky MZSV SSR č. 151/1988 Zb.§ 65 ods. 1 a 2 vyhlášky MZSV SSR č. 151/1988 Zb.
+- 2a) § 13 ods. 2 vyhlášky Ministerstva zdravotníctva a sociálnych vecí Slovenskej socialistickej republiky č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 590/1990 Zb. a vyhlášky Ministerstva práce a sociálnych vecí Slovenskej republiky č. 259/1992 Zb.
 
-- 2b) § 8 ods. 1 zákona č. 73/1990 Zb. o civilnej službe.
+- 2b) § 28 zákona Slovenskej národnej rady č. 543/1990 Zb. v znení neskorších predpisov.
 
-- 2c) § 28 zákona SNR č. 543/1990 Zb.
+- 2c) § 7 ods. 1 zákona č. 73/1990 Zb. o civilnej službe v znení zákona č. 18/1992 Zb.
 
 - 3) Nariadenie vlády ČSSR č. 137/1989 Zb. o závodnom stravovaní.
 
@@ -15,6 +15,14 @@
 - 5) § 127 vyhlášky MZSV SSR č. 151/1988 Zb.
 
 - 6) § 122 a 129 vyhlášky MZSV SSR č. 151/1988 Zb.
+
+- 6a) § 93 ods. 1 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona Národnej rady Slovenskej republiky č. 240/1993 Z. z. o zmenách súvisiacich so zabezpečovaním sociálnej starostlivosti.
+
+- 6b) § 21, 25 a 30 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení zákona Slovenskej národnej rady č. 195/1992 Zb.
+
+- 7) § 15 a 16 vyhlášky Ministerstva financií Slovenskej republiky č. 638/1992 Zb. o hospodárení s prostriedkami štátneho rozpočtu Slovenskej republiky a o hospodárení rozpočtových a príspevkových organizácií.
+
+- 8) Zákon č. 526/1990 Zb. o cenách.
 
 - 9) § 93 zákona o sociálnom zabezpečení.§ 122 až 125 vyhlášky FMPSV č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení vyhlášky č. 123/1990 Zb.
 
