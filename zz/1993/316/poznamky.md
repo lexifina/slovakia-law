@@ -1,6 +1,6 @@
 - 1) Vyhláška ministra zahraničných vecí č. 160/1988 Zb. o Medzinárodnom dohovore o harmonizovanom systéme opisu a číselného označovania tovaru a Protokole o jeho zmene.
 
-- 1a) Nariadenie vlády Slovenskej republiky č. 360/1996 Z. z., ktorým sa vydáva colný sadzobník v znení nariadenia vlády Slovenskej republiky č. 99/1997 Z. z.
+- 1a) Nariadenie vlády Slovenskej republiky č. 388/1998 Z. z., ktorým sa vydáva colný sadzobník v znení neskorších predpisov.
 
 - 1b) § 115 Občianskeho zákonníka.
 
@@ -8,9 +8,9 @@
 
 - 1d) § 2 písm. k) body 1 a 8 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon.
 
-- 2) Doplnková poznámka 4 ku kapitole 27 nariadenia vlády Slovenskej republiky č. 360/1996 Z. z.
+- 2) Doplnková poznámka 4 ku kapitole 27 nariadenia vlády Slovenskej republiky č. 388/1998 Z. z.
 
-- 2a) Doplnkové poznámky 4 a 6 ku kapitole 27 nariadenia vlády Slovenskej republiky č. 360/1996 Z. z.
+- 2a) Doplnkové poznámky 4 a 6 ku kapitole 27 nariadenia vlády Slovenskej republiky č. 388/1998 Z. z.
 
 - 3) § 196 až 211 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
