@@ -486,7 +486,33 @@ Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru,
 
 - 81. V § 87 odsek 1 znie:
 
-- „82.
+- „(1)
+
+- Policajtom patrí hodnostný príplatok v týchto sumách:
+
+- Hodnosť | Sk mesačne
+
+- strážmajster | 3 800
+
+- nadstrážmajster | 4 100
+
+- podpráporčík - podporučík | 4 700
+
+- práporčík - poručík | 5 000
+
+- nadpráporčík - nadporučík | 5300
+
+- kapitán | 5 600
+
+- major | 5 800
+
+- podplukovník | 6 000
+
+- plukovník | 6 200
+
+- generál | 6 400.".
+
+- 82.
 
 - V § 89 ods. 1 sa číslo „47" nahrádza číslom „57“.
 
