@@ -36,7 +36,11 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 
 - (2)
 
-- Ak zákon ustanovuje, že k zmluve je potrebná jej registrácia štátnym notárstvom, je zmluva účinná registráciou. Ak je rozhodnutie záporné, zmluva sa zrušuje.“.
+- Ak zákon ustanovuje, že k zmluve je potrebná jej registrácia štátnym notárstvom, je zmluva účinná registráciou. Ak je rozhodnutie záporné, zmluva sa zrušuje.
+
+- (3)
+
+- Ak na návrh podaný do troch rokov od uzavretia zmluvy nedošlo k rozhodnutiu príslušného orgánu alebo k registrácii, platí, že účastníci od zmluvy odstúpili.“.
 
 - 5. V § 100 ods. 2 sa na konci pripája táto veta:
 
@@ -87,6 +91,10 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 - „Ochrana držby
 
 - § 132a
+
+- (1)
+
+- Kto s vecou nakladá ako so svojou a so zreteľom na všetky okolnosti je dobromyseľný, že mu vec patrí, má - pokiaľ nie je ustanovené inak - obdobné práva na ochranu, aké má vlastník veci.
 
 - (2)
 
@@ -190,6 +198,10 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 
 - 18. § 149 sa dopĺňa odsekom 4, ktorý znie:
 
+- „(4)
+
+- Ak do troch rokov od zániku bezpodielového spoluvlastníctva manželov nedošlo k jeho vyporiadaniu dohodou alebo ak bezpodielové spoluvlastníctvo manželov nebolo na návrh podaný do troch rokov od jeho zániku vyporiadané rozhodnutím súdu, platí, pokiaľ ide o hnuteľné veci, že sa manželia vyporiadali podľa stavu, v akom každý z nich veci z bezpodielového spoluvlastníctva pre potrebu svoju, svojej rodiny a domácnosti výlučne ako vlastník užíva. O ostatných hnuteľných veciach a o nehnuteľných veciach platí, že sú v podielovom spoluvlastníctve a že podiely oboch spoluvlastníkov sú rovnaké. To isté platí primerane o ostatných majetkových právach, ktoré sú pre manželov spoločné.“.
+
 - 19. V § 174 sa jeho doterajšie znenie označuje ako odsek 1 a pripája sa odsek 2, ktorý znie:
 
 - „(2)
@@ -224,6 +236,10 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 
 - „§ 221
 
+- (1)
+
+- Ak na pozemku zriadi stavbu občan, ktorý nie je oprávnený pozemok užívať alebo ktorý je oprávnený užívať ho na iný účel, súd na návrh národného výboru alebo organizácie, ktoré majú pozemok v správe, alebo organizácia, ktorá je vlastníkom pozemku (§ 205 ods. 2) alebo na návrh toho, kto má k pozemku zriadené právo osobného užívania, prikáže stavbu za náhradu navrhovateľovi, ledaže by tomu bránili dôvody hodné osobitného zreteľa, najmä že stavebník bol dobromyseľný, že stavbu zriaďuje oprávnene. Ak je to v záujme spoločnosti, môže súd aj po zistení stanoviska príslušného národného výboru, ktorý je stavebným úradom, rozhodnúť, že stavebník je povinný stavbu na svoj náklad odstrániť.
+
 - (2)
 
 - Ak dôvody hodné osobitného zreteľa bránia rozhodnúť podľa odseku 1, súd na návrh vlastníka stavby upraví vzťahy vo veci pozemku, na ktorom sa stavba zriadila, najmä zruší právo osobného užívania k tomuto pozemku alebo zriadi bezplatne alebo za náhradu vecné bremeno, ktoré je hospodársky nevyhnutné na výkon vlastníckeho práva k stavbe.
@@ -237,6 +253,10 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 - „(2)
 
 - Ak ale došlo v čase od uzavretia zmluvy do jej splnenia na základe rozhodnutia vlády Československej socialistickej republiky k zmene cenového predpisu, podľa ktorého sa cena dohodla, je organizácia povinná občana na to bez meškania písomne upozorniť a oznámiť mu novú cenu.
+
+- (3)
+
+- Občan je oprávnený po oznámení novej ceny od zmluvy odstúpiť; ak od zmluvy bez zbytočného odkladu neodstúpi, je povinný zaplatiť organizácii novú cenu, ledaže k zvýšeniu ceny došlo po prekročení dohodnutého času vykonania služby.
 
 - (4)
 
@@ -252,7 +272,9 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 
 - 30. Za § 263 sa vkladá § 263a, ktorý znie:
 
-- „§ 263a“.
+- „§ 263a
+
+- Ak organizácia zhotovuje občanovi stavbu na objednávku, zodpovedá za poškodenie alebo zničenie jeho stavby až do prevzatia zhotovenej stavby, ledaže by ku škode došlo aj inak.“.
 
 - 31. V § 268 ods. 1 v druhej vete sa slová „Krajský národný" nahrádzajú slovom „Národný".
 
@@ -346,6 +368,12 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 
 - „§ 453a
 
+- (1)
+
+- Ak sa vlastník veci dopustil takého protiprávneho konania, ktorým sa trvale zbavil možnosti vec obvyklým spôsobom užívať, pripadá vec do vlastníctva štátu, pokiaľ je v rozpore so záujmom spoločnosti, aby vlastník s vecou ďalej nakladal. Obdobne prechádzajú na štát aj iné majetkové práva občana, s výnimkou práva dedičského, práva zo
+
+- zodpovednosti za škodu na zdraví alebo iného práva obmedzeného len na jeho osobu. Štátu však nepripadá ten majetok, ktorý je nevyhnutne potrebný na uspokojenie životných potrieb osôb, o výživu alebo výchovu ktorých je vlastník veci alebo ten, ktorému prislúcha majetkové právo, povinný sa starať, a ďalej majetok, ktorý iný dobromyseľne od vlastníka nadobudol.
+
 - (2)
 
 - Pripadnutím majetku štátu zaniká bezpodielové spoluvlastníctvo manželov.“.
@@ -397,6 +425,8 @@ Občiansky zákonník č. 40/1964 Zb. v znení zákona č. 58/1969 Zb. sa mení 
 - Vláda Českej socialistickej republiky a vláda Slovenskej socialistickej republiky ustanovia nariadením podrobnejšiu úpravu.“.
 
 - 51. V § 490 ods. 2 druhá a tretia veta znejú:
+
+- „Pokiaľ by nezastavané stavebné pozemky vzhľadom na svoje určenie a výmeru mohli byť predmetom práva osobného užívania (§ 199, 200), môžu ich občania darovať svojim manželom, ako aj príbuzným v priamom pokolení a súrodencom, prípadne zároveň s nimi aj ich manželom. Na zmluvu o prevode budovy, ktorá je v súkromnom vlastníctve, a na zmluvu o prevode alebo prenájme poľnohospodárskeho (lesného) pozemku je potrebný súhlas národného výboru, ledaže by išlo o prevod do socialistického spoločenského vlastníctva.“.
 
 - 52. V § 495
 
