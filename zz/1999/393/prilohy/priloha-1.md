@@ -2,7 +2,7 @@ Príloha č. 1 k nariadeniu vlády č. 393/1999 Z. z.
 
 - PODROBNOSTI O TECHNICKÝCH POŽIADAVKÁCH NA SPOTREBIČE A VYBAVENIE 1. Všeobecné požiadavky
 
-- 1.1 Spotrebiče musia byť vyrobené tak, aby pri použití, ako je definované v § 1 ods. 3, fungovali bezpečne a neohrozovali zdravie, bezpečnosť ani majetok osôb, ani domáce zvieratá, ani životné prostredie.
+- 1.1 Spotrebiče musia byť vyrobené tak, aby pri použití, ako je definované v § 1 ods. 3, fungovali bezpečne a neohrozovali zdravie, bezpečnosť ani majetok osôb, ani domáce zvieratá.
 
 - 1.2 Pri uvádzaní spotrebiča na trh je nevyhnutné
 
@@ -40,7 +40,7 @@ Príloha č. 1 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 1.2.3 Upozornenia na spotrebičoch a ich obaloch musia obsahovať jednoznačné údaje o druhu a pripájacom pretlaku paliva a obmedzenia pri použití, najmä to, že spotrebič musí byť inštalovaný len v priestoroch s dostatočným vetraním.
 
-- 1.3 Vybavenie určené pre spotrebiče musí byť vykonané tak, aby spĺňalo presne svoj účel použitia, ak je zabudované podľa technických návodov výrobcu. Návody na inštaláciu, zostavenie, prevádzku a údržbu vybavenia musia byť dodané spoločne s vybavením.
+- 1.3 Vybavenie určené pre spotrebiče musí byť vyhotovené tak, aby spĺňalo presne svoj účel použitia, ak je zabudované podľa technických návodov výrobcu na inštaláciu. Návody na inštaláciu, zostavenie, prevádzku a údržbu vybavenia musia byť dodané spoločne s vybavením.
 
 - 2. Materiály
 
@@ -116,4 +116,4 @@ Príloha č. 1 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 3.7 Potraviny, pitná a úžitková voda
 
-- Materiály a súčasti používané na výrobu spotrebiča, ktoré prichádzajú do styku s potravinami, pitnou alebo s úžitkovou vodou, nesmú nepriaznivo ovplyvňovať ich kvalitu.
+- Materiály a súčasti používané na výrobu spotrebiča bez ohľadu na právne predpisy, ktoré sa na ne vzťahujú, ktoré prichádzajú do styku s potravinami, pitnou alebo úžitkovou vodou, nesmú nepriaznivo ovplyvňovať ich kvalitu.

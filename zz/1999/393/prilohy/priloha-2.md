@@ -4,7 +4,7 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 1.1 Preskúšanie typu je postup posudzovania zhody, pri ktorom autorizovaná osoba skúša a osvedčuje, že vzorka spotrebiča alebo vybavenia reprezentujúca zamýšľanú výrobu alebo dovoz spĺňa požiadavky tohto nariadenia, ktoré sa na ňu vzťahujú.
 
-- 1.2 Výrobca alebo dovozca poskytuje autorizovanej osobe
+- 1.2 Výrobca alebo splnomocnenec poskytuje autorizovanej osobe
 
 - 1.2.1 a) meno a priezvisko, ak je fyzickou osobou, alebo obchodné meno, ak je právnickou osobou, a svoje sídlo,
 
@@ -16,7 +16,7 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 1.3 Autorizovaná osoba
 
-- 1.3.1 Posudzuje technickú dokumentáciu a zisťuje, či bol typ podľa nej vyrobený, a identifikuje prvky, ktoré boli navrhnuté podľa požiadaviek technických predpisov, harmonizovaných slovenských technických noriem a iných technických požiadaviek.
+- 1.3.1 Posudzuje dokumentáciu a zisťuje, či bol typ podľa nej vyrobený, a identifikuje prvky, ktoré boli navrhnuté podľa požiadaviek technických predpisov, harmonizovaných slovenských technických noriem a iných technických požiadaviek.
 
 - 1.3.2 Ak neboli použité harmonizované slovenské technické normy alebo ak také normy neexistujú, alebo nekonkretizujú všetky technické požiadavky, ktoré sa na spotrebič alebo vybavenie vzťahujú, vykonáva, alebo dá vykonať potrebné skúšky alebo zistenia na účely posúdenia, či riešenie prijaté výrobcom spĺňa technické požiadavky.
 
@@ -24,25 +24,29 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 1.4 Ak typ spĺňa ustanovenia a požiadavky tohto nariadenia, autorizovaná osoba vystaví výrobcovi alebo dovozcovi certifikát typu. Certifikát typu musí obsahovať výsledky skúšok, prípadne podmienky jeho platnosti, ako aj nevyhnutné údaje o identifikácii certifikovaného typu a v prípade potreby aj opis jeho funkcie. K certifikátu typu musia byť pripojené príslušné technické podklady, napr. výkresy a diagramy.
 
-- 1.5 Výrobca alebo dovozca informuje autorizovanú osobu, ktorá vydala certifikát typu, o všetkých zmenách certifikovaného typu, ktoré by mohli ovplyvniť zhodu s technickými požiadavkami. Zmeny certifikovaného typu musí dodatočne schváliť autorizovaná osoba, ktorá vydala certifikát typu, ak tieto zmeny ovplyvňujú zhodu s technickými požiadavkami alebo predpísanými podmienkami na použitie spotrebiča alebo vybavenia. Toto dodatočné schválenie musí byť vydané ako dodatok k pôvodnému certifikátu o preskúšaní typu.
+- 1.5 Výrobca alebo splnomocnenec informuje autorizovanú osobu, ktorá vydala certifikát typu, o všetkých zmenách certifikovaného typu, ktoré by mohli ovplyvniť zhodu s technickými požiadavkami. Zmeny certifikovaného typu musí dodatočne schváliť autorizovaná osoba, ktorá vydala certifikát typu, ak tieto zmeny ovplyvňujú zhodu s technickými požiadavkami alebo predpísanými podmienkami na použitie spotrebiča alebo vybavenia. Toto dodatočné schválenie musí byť vydané ako dodatok k pôvodnému certifikátu o preskúšaní typu.
+
+- 1.6 Autorizovaná osoba bezodkladne informuje iné autorizované osoby o vydaných certifikátoch typu. Tie sú oprávnené dostať rovnopis certifikátu typu alebo jeho doplnky. Rovnako sú na základe odôvodnenej žiadosti oprávnené dostať kópiu prílohy k certifikátu a protokoly o vykonaných skúškach.
+
+- 1.7 Ak autorizovaná osoba odmietne vydať certifikát typu alebo ho odníme, musí o tom informovať úrad a tiež iné autorizované osoby s príslušným odôvodnením.
 
 - 2. Overovanie zhody výrobku s certifikovaným typom podľa § 3 ods. 1 písm. a)
 
-- 2.1 Overovanie zhody výrobku s certifikovaným typom je postup, keď výrobca alebo dovozca vyhlasuje, že spotrebič alebo vybavenie sú v zhode s typom opísaným v certifikáte typu a spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo dovozca vypracuje písomné vyhlásenie o zhode. Vyhlásenie o zhode sa môže vzťahovať na jeden či viac kusov spotrebiča.
+- 2.1 Overovanie zhody výrobku s certifikovaným typom je postup, keď výrobca alebo splnomocnenec vyhlasuje, že spotrebič alebo vybavenie sú v zhode s typom opísaným v certifikáte typu a spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo jeho splnomocnenec vypracuje a uchováva písomné vyhlásenie o zhode na výrobky vyrobené mimo štátov, s ktorými má Slovenská republika medzinárodnú zmluvu.
 
-- 2.2 Výrobca alebo dovozca vykoná všetky nevyhnutné opatrenia na to, aby výrobný proces vrátane výstupnej kontroly a skúšok konečného výrobku zabezpečoval jednotnosť výroby a zhodu spotrebičov alebo vybavení s typom opísaným v certifikáte typu a s technickými požiadavkami, ktoré sú na neho aplikovateľné. Autorizovaná osoba, ktorú si zvolil výrobca alebo dovozca, vykonáva náhodné kontroly spotrebičov alebo vybavení podľa bodu 2.3.
+- 2.2 Výrobca alebo splnomocnenec vykoná všetky nevyhnutné opatrenia na to, aby výrobný proces vrátane výstupnej kontroly a skúšok konečného výrobku zabezpečoval jednotnosť výroby a zhodu spotrebičov alebo vybavení s typom opísaným v certifikáte typu a s technickými požiadavkami, ktoré sú na neho aplikovateľné. Autorizovaná osoba, ktorú si zvolil výrobca alebo splnomocnenec, vykonáva náhodné kontroly spotrebičov alebo vybavení podľa bodu 2.3.
 
 - 2.3 Kontroly spotrebičov alebo vybavení vykonávané na dohodnutom mieste musí vykonávať autorizovaná osoba náhodne v nepravidelných intervaloch minimálne jedenkrát za rok. Musí sa vyskúšať primeraný počet spotrebičov alebo vybavení a musia sa vykonať vhodné skúšky podľa harmonizovaných slovenských technických noriem alebo ekvivalentné skúšky na účely zistenia zhody s aplikovateľnými technickými požiadavkami. Autorizovaná osoba v každom prípade určí, či tieto skúšky treba vykonať úplne, alebo čiastočne. Ak jeden alebo viac spotrebičov, alebo vybavení nespĺňa technické požiadavky, autorizovaná osoba o tom vydá správu, ktorú odovzdáva výrobcovi alebo dovozcovi, aby sa zabránilo uvádzaniu chybných spotrebičov na trh.
 
 - 3. Posudzovanie systému kvality výroby podľa § 3 ods. 1 písm. b)
 
-- 3.1 Posudzovanie systému kvality výroby je postup, pri ktorom výrobca alebo dovozca, ktorý spĺňa ustanovenia bodu 3.2, vyhlasuje, že spotrebič alebo vybavenie zodpovedá typu opísanému v certifikáte typu a že spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo dovozca vypracuje písomné vyhlásenie o zhode. Toto vyhlásenie platí pre jeden alebo viac spotrebičov alebo vybavení.
+- 3.1 Posudzovanie systému kvality výroby je postup, pri ktorom výrobca alebo splnomocnenec, ktorý spĺňa ustanovenia bodu 3.2, vyhlasuje, že spotrebič alebo vybavenie zodpovedá typu opísanému v certifikáte typu a že spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo splnomocnenec vypracuje písomné vyhlásenie o zhode. Toto vyhlásenie platí pre jeden alebo viac spotrebičov alebo vybavení.
 
 - 3.2 Výrobca má zavedený systém kvality výroby, ktorý zaručuje zhodu spotrebičov s typom podľa certifikátu typu a s technickými požiadavkami, ktoré sú na ne aplikovateľné. Výrobca podlieha dohľadu podľa bodu 3.4.
 
 - 3.3 Systém kvality
 
-- 3.3.1 Výrobca alebo dovozca poskytuje autorizovanej osobe
+- 3.3.1 Výrobca alebo splnomocnenec poskytuje autorizovanej osobe
 
 - a) dokumentáciu k systému kvality,
 
@@ -84,13 +88,13 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 4. Posudzovanie zhody typu (zabezpečovanie kvality výrobkov) podľa § 3 ods. 1 písm. c)
 
-- 4.1 Posudzovanie zhody typu je postup, pri ktorom výrobca alebo dovozca, ktorý spĺňa ustanovenia bodu 4.2, vyhlasuje, že spotrebič alebo vybavenie zodpovedá typu opísanému v certifikáte typu a že spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo dovozca vypracuje písomné vyhlásenie o zhode.
+- 4.1 Posudzovanie zhody typu je postup, pri ktorom výrobca alebo splnomocnenec, ktorý spĺňa ustanovenia bodu 4.2, vyhlasuje, že spotrebič alebo vybavenie zodpovedá typu opísanému v certifikáte typu a že spĺňa technické požiadavky, ktoré sa naň vzťahujú. Výrobca alebo splnomocnenec vypracuje písomné vyhlásenie o zhode.
 
 - 4.2 Výrobca používa schválený systém kvality podľa bodu 4.3 na výstupnú kontrolu a skúšky a podlieha dohľadu podľa bodu 4.4.
 
 - 4.3 Systém kvality
 
-- 4.3.1 Výrobca alebo dovozca poskytuje autorizovanej osobe
+- 4.3.1 Výrobca alebo splnomocnenec poskytuje autorizovanej osobe
 
 - a) dokumentáciu o systéme kvality,
 
@@ -130,9 +134,9 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 5. Overovanie zhody podľa § 3 ods. 1 písm. d)
 
-- 5.1 Overovanie zhody je postup, pri ktorom výrobca alebo dovozca zabezpečuje plnenie bodov 5.2 a 5.3 a vyhlasuje, že spotrebič alebo vybavenie zodpovedá typu opísanému v certifikáte typu a že zodpovedá technickým požiadavkám, ktoré sa naň vzťahujú.
+- 5.1 Overovanie zhody je postup, pri ktorom výrobca alebo splnomocnenec zabezpečuje plnenie bodov 5.2 a 5.3 a vyhlasuje, že spotrebič alebo vybavenie zodpovedá typu opísanému v certifikáte typu a že zodpovedá technickým požiadavkám, ktoré sa naň vzťahujú.
 
-- 5.2 Výrobca alebo dovozca vykoná všetky nevyhnutné opatrenia, aby pri výrobnom procese bola zaistená zhoda s typom spotrebiča alebo vybavenia, ktorý je opísaný v certifikáte typu, a s technickými požiadavkami, ktoré sa naň vzťahujú. Výrobca alebo dovozca vypracuje písomné vyhlásenie o zhode.
+- 5.2 Výrobca alebo splnomocnenec vykoná všetky nevyhnutné opatrenia, aby pri výrobnom procese bola zaistená zhoda s typom spotrebiča alebo vybavenia, ktorý je opísaný v certifikáte typu, a s technickými požiadavkami, ktoré sa naň vzťahujú. Výrobca alebo splnomocnenec vypracuje písomné vyhlásenie o zhode.
 
 - 5.3 Autorizovaná osoba vykoná príslušné zistenia a skúšky na overenie zhody spotrebiča alebo vybavenia s technickými požiadavkami, a to podľa voľby výrobcu alebo dovozcu podľa bodu 5.4 alebo 5.5.
 
@@ -156,7 +160,7 @@ Príloha č. 2 k nariadeniu vlády č. 393/1999 Z. z.
 
 - 6. Overovanie zhody každého výrobku autorizovanou osobou
 
-- 6.1 Overovanie zhody každého výrobku autorizovanou osobou je postup, pri ktorom výrobca alebo dovozca zabezpečuje a vyhlasuje, že spotrebič alebo vybavenie, na ktoré bol vydaný certifikát podľa bodu 6.2, zodpovedá technickým požiadavkám, ktoré sa naň vzťahujú. Výrobca alebo dovozca vypracuje písomné vyhlásenie o zhode.
+- 6.1 Overovanie zhody každého výrobku autorizovanou osobou je postup, pri ktorom výrobca alebo dovozca zabezpečuje a vyhlasuje, že spotrebič alebo vybavenie, na ktoré bol vydaný certifikát podľa bodu 6.2, zodpovedá technickým požiadavkám, ktoré sa naň vzťahujú. Výrobca alebo splnomocnenec vypracuje písomné vyhlásenie o zhode.
 
 - 6.2 Autorizovaná osoba posúdi spotrebič alebo vybavenie a podrobí ho s prihliadnutím na technickú dokumentáciu potrebným skúškam s cieľom zistiť jeho zhodu s technickými požiadavkami. Autorizovaná osoba vydá certifikát o zhode spotrebiča alebo vybavenia, ak vyhovel vykonaným skúškam, a zabezpečí na nich umiestnenie slovenskej značky zhody.
 
