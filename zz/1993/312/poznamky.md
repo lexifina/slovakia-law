@@ -12,6 +12,8 @@
 
 - 7) § 251 Colného zákona, § 124 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov a § 72 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona Národnej rady Slovenskej republiky č. 165/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 253/1993 Z. z.
 
+- 7a) § 36 a 50 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
+
 - 8) Vyhláška Ministerstva financií Slovenskej republiky č. 82/1993 Z. z., o forme, obsahu a náležitostiach colného vyhlásenia a o spôsobe vedenia colnej štatistiky.
 
 - 9) § 61 Colného zákona.
@@ -23,6 +25,8 @@
 - 12) § 39 a 63 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 13) § 226 a nasl. Colného zákona.
+
+- 13a) § 5 ods. 6 vyhlášky Ministerstva financií Slovenskej republiky č. 313/1993 Z. z. o označení niektorých tabakových výrobkov kontrolnou známkou.
 
 - 14) § 62 ods. 1 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
