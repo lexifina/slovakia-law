@@ -408,7 +408,7 @@ Podmienky na vystavenie vyhlásenia na faktúre
 
 a) schválený vývozca podľa článku 22 alebo
 
-b) ktorýkoľvek vývozca na akúkoľvek zásielku skladajúcu sa z jedného alebo z viacerých nákladových kusov a obsahujúcu pôvodné výrobky, ktorých celková hodnota nepresahuje 6 000 ECU.
+b) ktorýkoľvek vývozca na akúkoľvek zásielku skladajúcu sa z jedného alebo z viacerých nákladových kusov a obsahujúcu pôvodné výrobky, ktorých celková hodnota nepresahuje 6 000 euro.
 
 - 2. Vyhlásenie na faktúre sa môže vystaviť, ak príslušné výrobky možno považovať za pôvodné v Spoločenstve, Slovenskej republike alebo v jednej z krajín uvedených v článkoch 3 a 4 a ak sú splnené ostatné podmienky tohto protokolu.
 
@@ -464,7 +464,9 @@ Oslobodenie od dôkazu o pôvode
 
 2. Dovozy, ktoré sú príležitostné a skladajú sa výhradne z výrobkov na uspokojenie osobných potrieb príjemcov alebo cestujúcich, alebo ich rodín, sa nepovažujú za obchodné, ak je z povahy a množstva výrobkov zrejmé, že nejde o obchodný účel dovozu.
 
-3. Celková hodnota týchto výrobkov okrem toho nesmie presiahnuť 500 ECU v prípade malých zásielok a 1 200 ECU v prípade výrobkov tvoriacich časť osobnej batožiny cestujúcich.
+3.
+
+Celková hodnota týchto výrobkov okrem toho nesmie presiahnuť 500 euro v prípade malých zásielok a 1 200 euro v prípade výrobkov tvoriacich časť osobnej batožiny cestujúcich.
 
 Článok 27
 
@@ -500,17 +502,17 @@ Nezrovnalosti a formálne chyby
 
 2. Zrejmé formálne chyby, napríklad preklepy na dôkaze o pôvode, nie sú dôvodom na jeho neprijatie, ak také chyby nevyvolajú pochybnosti o pravdivosti vyhlásenia uvedeného v tomto dôkaze.
 
-Článok 30
+- Článok 30
 
-Sumy vyjadrené v ECU
+Sumy vyjadrené v euro
 
-1. Sumy v národnej mene vyvážajúcej krajiny, ktoré zodpovedajú sumám vyjadreným v ECU, určí vyvážajúca krajina a oznámi ich dovážajúcim krajinám prostredníctvom Európskej komisie.
+- 1. Sumy v národnej mene vyvážajúcej krajiny, ktoré zodpovedajú sumám vyjadreným v euro, určí vyvážajúca krajina a oznámi ich dovážajúcim krajinám prostredníctvom Európskej komisie.
 
 - 2. Ak tieto sumy prevyšujú zodpovedajúce sumy určené dovážajúcou krajinou, uzná ich táto krajina za predpokladu, ak sú výrobky fakturované v mene vyvážajúcej krajiny. Ak sú výrobky fakturované v mene niektorej členskej krajiny Európskeho spoločenstva alebo jednej z krajín uvedených v článkoch 3 a 4, uzná dovážajúca krajina sumu oznámenú touto krajinou.
 
-3. Sumy vyjadrené v ktorejkoľvek národnej mene sú ekvivalentom tejto národnej meny voči ECU podľa kurzu platného v prvý pracovný deň mesiaca októbra 1995.
+- 3. Sumy, ktoré sa majú použiť v ktorejkoľvek národnej mene, budú protihodnotou tejto národnej meny voči euru podľa kurzu platného v prvý pracovný deň mesiaca októbra roku 1999.
 
-4. Sumy vyjadrené v ECU a ich ekvivalenty v národných menách členských štátov Európskeho spoločenstva a Slovenskej republiky preskúma Asociačný výbor, ak o to požiada Spoločenstvo alebo Slovenská republika. V prípade zmien po tomto preskúmaní Asociačný výbor zaručí, aby nedošlo k zníženiu súm vyjadrených v národných menách, a posúdi potrebu zachovania rovnocenných účinkov týchto limitov. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v ECU.
+- 4. Sumy vyjadrené v euro a ich protihodnoty v národných menách členských štátov a Slovenskej republiky preskúma Asociačný výbor, ak o to požiada Spoločenstvo alebo Slovenská republika. Pri preskúmavaní Asociačný výbor zabezpečí, že nedôjde k zníženiu súm, ktoré sa majú použiť v národnej mene a okrem toho posúdi potrebu zachovania účinkov týchto limitov v reálnych hodnotách. Na tento účel môže rozhodnúť aj o úprave súm vyjadrených v euro.
 
 HLAVA VI
 
