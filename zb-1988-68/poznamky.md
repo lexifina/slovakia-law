@@ -1,0 +1,1 @@
+- 1) § 4 zákona č. 20/1966 Sb., o péči o zdraví lidu.
