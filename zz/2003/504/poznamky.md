@@ -22,6 +22,8 @@
 
 - 11) Napríklad § 3 ods. 2 zákona Slovenskej národnej rady č. 307/1992 Zb. v znení neskorších predpisov.
 
+- 11a) § 43 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
+
 - 12) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 13) § 13 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
