@@ -42,6 +42,8 @@
 
 - 11ac) § 91a zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 245/2000 Z. z.
 
+- 11ad) § 20 ods. 2 písm. z) zákona č. 387/1996 Z. z. v znení zákona č. 504/2001 Z. z.
+
 - 11b) § 31 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 12) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde v znení neskorších predpisov.
@@ -73,8 +75,6 @@
 - 13ha) § 7 zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z. o niektorých opatreniach na zabezpečenie hospodárenia Slovenskej republiky v roku 1995 a o zmene a doplnení niektorých zákonov.
 
 - 13haa) § 86 Zákonníka práce.
-
-- 13hb) Zákon Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
 
 - 13hc) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
