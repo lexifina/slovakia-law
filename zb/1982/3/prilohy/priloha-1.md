@@ -4,21 +4,27 @@ Príloha č. 1 vyhlášky č. 3/1982 Zb.
 
 - Afganská demokratická republika
 
+- Botswanská republika
+
 - Bangladéšska ľudová republika
 
 - Beninská ľudová republika
 
 - Bhutánske kráľovstvo
 
+- Burkina Faso
+
 - Čadská republika
 
 - Demokratická republika Svätého Tomáša a Princovho ostrova
+
+- Džibutská republika
 
 - Federatívna a islamská republika Komory
 
 - Gambijská republika
 
-- Guinejská ľudová revolučná republika
+- Guinejská republika
 
 - Haitská republika
 
@@ -28,9 +34,9 @@ Príloha č. 1 vyhlášky č. 3/1982 Zb.
 
 - Kapverdská republika
 
-- Laoská ľudovodemokratická republika
+- Kráľovstvo Lesotho
 
-- Lesotho
+- Laoská ľudovodemokratická republika
 
 - Maledivská republika
 
@@ -40,13 +46,9 @@ Príloha č. 1 vyhlášky č. 3/1982 Zb.
 
 - Nigerská republika
 
-- Republika Botswana
-
 - Republika Burundi
 
 - Republika Guinea-Bissau
-
-- Republika Horná Volta
 
 - Republika Mali
 
@@ -54,13 +56,15 @@ Príloha č. 1 vyhlášky č. 3/1982 Zb.
 
 - Republika Togo
 
+- Republika Rovníková Guinea
+
 - Rwandská republika
 
 - Socialistická Etiópia
 
 - Stredoafrická republika
 
-- Sudánska demokratická republika
+- Sudánska republika
 
 - Ugandská republika
 

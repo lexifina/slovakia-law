@@ -16,7 +16,7 @@ Barbados
 
 Bolívijská republika
 
-Brazilská federatívna republika
+Brazílska federatívna republika
 
 Cyperská republika
 
@@ -30,7 +30,7 @@ Egyptská arabská republika
 
 Fidži
 
-Filipínská republika
+Filipínska republika
 
 Gabunská republika
 
@@ -40,7 +40,7 @@ Grenada
 
 Guatemalská republika
 
-Guayanská kooperatívna republika
+Guyanská kooperatívna republika
 
 Hašimovské jordánske kráľovstvo
 
@@ -56,9 +56,9 @@ Iránská islamská republika
 
 Jamajka
 
-Kambodžská ľudová republika
-
 Kamerunská zjednotená republika
+
+Kampučská ľudová republika
 
 Kenská republika
 
@@ -76,21 +76,27 @@ Kráľovstvo Saudská Arábia
 
 Kráľovstvo Tonga
 
+Kráľovstvo Svazijsko
+
 Kubánska republika
 
 Libanonská republika
 
 Libérijská republika
 
+Líbyjská arabská ľudová socialistická džamahýria
+
 Madagaskarská demokratická republika
 
 Malajzia
+
+Malawiská republika
 
 Marocké kráľovstvo
 
 Mauretánska islamská republika
 
-Maurítius
+Mauritius
 
 Mongolská ľudová republika
 
@@ -116,13 +122,13 @@ Republika Nauru
 
 Republika Pobrežie slonoviny
 
-Republika Rovníková Guinea
-
 Republika Trinidad a Tobago
 
 Salvadorská republika
 
 Senegalská republika
+
+Seyschelská republika
 
 Singapurská republika
 
@@ -176,4 +182,4 @@ Zairská republika
 
 Zambijská republika
 
-Zimbabwe
+Zimbabwská republika

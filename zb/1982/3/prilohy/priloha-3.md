@@ -11,7 +11,3 @@ Príloha č. 3 vyhlášky č. 3/1982 Zb.
 - 17 01 09 | D - ostatný (repný a trstinový cukor v pevnom stave)
 
 - 24 02 02 | B - cigarety
-
-- 62 03 | Vrecia a vrecká na baliace účely
-
-- 62 04 | Plachty na vozy a pod., lodné plachty, vonkajšie stóry, stany a výstroj na táborenie
