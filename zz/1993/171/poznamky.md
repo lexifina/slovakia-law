@@ -2,6 +2,8 @@
 
 - 1a) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
 
+- 1aa) Napríklad § 34 ods. 6 a 8 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 19e ods. 1 a 3 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení zákona č. 458/2003 Z. z., § 55j ods. 1 a 3 zákona č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., § 25 ods. 2 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
+
 - 1b) § 13 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
 - 2) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
@@ -15,6 +17,8 @@
 - 4) Napríklad Trestný zákon,Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov, a o zmene a doplnení niektorých zákonov v znení zákona č. 481/2002 Z. z.
+
+- 6) § 15a Trestného poriadku.
 
 - 7) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
@@ -89,6 +93,10 @@
 - 27) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
 
 - 27a) § 3 písm. c) zákona č. 52/1998 Z. z.
+
+- 27b) § 24 zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení zákona č. 319/1999 Z. z.
+
+- § 28 zákona č. 335/1991 Zb. v znení neskorších predpisov.
 
 - 27c) § 8 ods. 1 a ods. 2 písm. b) zákona č. 52/1998 Z. z.
 
