@@ -2,7 +2,7 @@ Príloha č. 1 k zákonu č. 375/1997 Z. z.
 
 - BILANCIA PRÍJMOV A VÝDAVKOV ŠTÁTNEHO ROZPOČTU NA ROK 1998 (v tis. Sk) | Ukazovateľ | Štátny rozpočet
 
-- A. | Daňové príjmy | 166 486 000
+- A. | Daňové príjmy | 155 636 000
 
 - | Dane z príjmov, ziskov a kapitálového majetku | 62 630 000
 
@@ -16,37 +16,25 @@ Príloha č. 1 k zákonu č. 375/1997 Z. z.
 
 - | dane z príjmov vyberané zrážkou | 8 000 000
 
-- | Daň z majetku | 1 100 000
+- | Daň z majetku | 1 200 000
 
-- | Domáce dane na tovary a služby | 88 556 000
+- | Domáce dane na tovary a služby | 79 506 000
 
-- | z toho: daň z pridanej hodnoty | 64 250 000
+- | z toho: daň z pridanej hodnoty | 56 500 000
 
-- | spotrebné dane | 24 300 000
+- | spotrebné dane | 23 000 000
 
-- | Dane z medzinárodného obchodu a transakcií | 14 200 000
+- | Dane z medzinárodného obchodu a transakcií | 12 300 000
 
-- | z toho: dovozné clo | 6 000 000
+- | z toho: dovozné clo | 5 500 000
 
-- | dovozná prirážka | 8 000 000
+- | dovozná prirážka | 6 600 000
 
-- B. | Nedaňové príjmy | 10 605 684
+- B. | Nedaňové príjmy | 12 350 000
 
-- | Príjmy z podnikania a z vlastníctva majetku | 2 711 511
+- C. | Príjmy zo splácania úverov a pôžičiek a z predaja účastín | 614 000
 
-- | Administratívne a iné poplatky a platby, kapitálové príjmy | 6 088 035
-
-- | Úroky z domácich a zo zahraničných úverov, pôžičiek a vkladov | 135 230
-
-- | Iné nedaňové príjmy | 1 670 908
-
-- C. | Príjmy zo splácania úverov a pôžičiek a z predaja účastín | 2 708 316
-
-- | Z domácich úverov a pôžičiek | 2 143 816
-
-- | Zo zahraničných úverov a pôžičiek | 564 500
-
-- I. | PRÍJMY spolu | 179 800 000
+- I. | PRÍJMY spolu | 168 600 000
 
 - A. | Bežné výdavky | 167 824 164
 
@@ -108,4 +96,4 @@ Príloha č. 1 k zákonu č. 375/1997 Z. z.
 
 - II. | VÝDAVKY spolu | 184 800 000
 
-- I. - II. | Prebytok (+), schodok (-) | - 5 000 000
+- I. - II. | Prebytok (+), schodok (-) | - 16 200 000
