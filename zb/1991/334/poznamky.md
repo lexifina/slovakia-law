@@ -12,13 +12,7 @@
 
 - Zákon SNR č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti.
 
-- 6) § 294 Trestného zákona.
-
-- § 159 ods. 3 písm. b), § 171 ods. 2 a § 188 ods. 1 písm. b) Trestného poriadku.
-
-- § 10 ods. 1 písm. a) zákona ČNR č. 200/1990 Zb. o priestupkoch.
-
-- § 10 ods. 1 písm. a) zákona SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+- 6) § 10 ods. 1 písm. a) zákona ČNR č. 200/1990 Zb. o priestupkoch.§ 10 ods. 1 písm. a) zákona SNR č. 372/1990 Zb. o priestupkoch.
 
 - 7) Zákon ČNR č. 200/1990 Zb.
 
@@ -45,6 +39,10 @@
 - 15) Zákon č. 32/1957 Zb. o nemocenskej starostlivosti v ozbrojených silách v znení neskorších predpisov.
 
 - 16) § 202 ods. 2 Zákonníka práce.
+
+- 16a) Zákon č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov.
+
+- 16b) § 24 ods. 4 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 17) Napr. § 33 zákona č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
 
