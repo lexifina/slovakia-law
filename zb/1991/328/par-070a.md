@@ -2,8 +2,6 @@
 
 (1) Konania začaté pred nadobudnutím účinnosti tohto zákona súd dokončí podľa doterajších právnych predpisov, ak ďalej nie je ustanovené inak.
 
-(2) Ak sa v konaniach uvedených v odseku 1 vyhlási konkurz, použijú sa na ďalší priebeh konania ustanovenia tohto zákona.
-
 (3) Ustanovenia § 4a, § 4b ods. 1, § 15, 16, § 28 ods. 2, § 66a, 66b, 66c, 66d, 66e a 66f sa vzťahujú aj na konania uvedené v odseku 1; právne účinky úkonov, ktoré nastali skôr, zostávajú zachované.
 
 (4) V konaniach podľa odseku 1 nemožno začať dohodovanie.
