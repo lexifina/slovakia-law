@@ -1,1 +1,0 @@
-- *) Napr. vládne nariadenie č. 30/1958 Zb. v znení vládneho nariadenia č. 120/1961 Zb., vyhláška č. 102/1958 Ú. l. (Ú. v.) (§ 90) a vyhláška č. 62/1953 Ú. l. (č. 94/1953 Ú. v.).
