@@ -148,7 +148,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 6
 
-  - a) Vydanie preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka .... | 50 Sk
+  - a) Vydanie preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 50 Sk
 
   - b) Vydanie preukazu (osvedčenia) ako náhrady za zničený, stratený alebo poškodený preukaz (osvedčenie), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 200 Sk
 
@@ -156,7 +156,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Vydanie preukazu (osvedčenia) ako náhrady za stratený, zničený alebo poškodený preukaz (osvedčenie), opakovane v priebehu dvoch po sebe nasledujúcich rokoch ..... | 500 Sk
 
-  - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené vydanie prvého občianskeho preukazu a vydanie občianskeho preukazu z úradnej moci. |
+  - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené vydanie prvého občianskeho preukazu a vydanie občianskeho preukazu z úradnej moci a od poplatku podľa písmena c) tejto položky je oslobodené predĺženie platnosti preukazu osobitného označenia vozidla pre ťažko zdravotne alebo ťažko pohybovo postihnutú osobu odkázanú na individuálnu prepravu. |
 
     - Položka 7
 
@@ -952,6 +952,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie Od poplatku je oslobodené vydanie nového vodičského preukazu po skončení skúšobnej lehoty určenej osbitným právnym predpisom.<sup>19</sup>) |
 
+    - Položka 63a
+
+  - a) Podanie žiadosti o vydanie osobitného označenia vozidla a preukazu osobitného označenia vozidla<sup>19a</sup>) ................................................................................................................................ | 100 Sk
+
+  - b) Podanie žiadosti o vydanie preukazu osobitného označenia vozidla<sup>19a</sup>) ako náhrady za zničený, stratený alebo poškodený preukaz osobitného označenia vozidla<sup>19a</sup>) ........................ | 30 Sk
+
     - Položka 64
 
   - Povolenie výnimky<sup>20</sup>) z právnych predpisov na úseku bezpečnosti a plynulosti cestnej premávky |
@@ -984,53 +990,73 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 67
 
-  - Schválenie technickej spôsobilosti vrátane vydania príslušných dokladov |
+  - Podanie žiadosti o |
 
-  - a) jednotlivého motorového vozidla alebo prípojného vozidla |
+  - a) udelenie typového schválenia cestného vozidla alebo zvláštneho vozidla | 5 000 Sk
 
-  - 1. novovyrobené vozidlá .............................................................................................................................. | 2 000 Sk
+  - b) udelenie typového schválenia ES cestného vozidla alebo zvláštneho vozidla ............................................... | 5 000 Sk
 
-  - 2. ojazdené vozidlá....................................................................................................................................... |
+  - c) uznanie typového schválenia ES cestného vozidla alebo zvláštneho vozidla ................................................. | 3 000 Sk
 
-  - 2.1. kategórie M a N, do troch rokov ....................................................................................................... | 10 000 Sk
+  - d) rozšírenie udeleného typového schválenia, typového schválenia ES cestného vozidla alebo zvláštneho vozidla alebo rozšírenie uznaného typového schválenia ES cestného vozidla alebo zvláštneho vozidla ...... | 1 000 Sk
 
-  - 2.2. kategórie M a N, od troch do štyroch rokov .................................................................................... | 20 000 Sk
+  - e) udelenie viacstupňového typového schválenia dokončeného cestného vozidla alebo zvláštneho vozidla | 3 000 Sk
 
-  - 2.3. kategórie M a N, od štyroch do piatich rokov ................................................................................. | 30 000 Sk
+  - f) udelenie viacstupňového typového schválenia ES dokončeného cestného vozidla alebo zvláštneho vozidla ................................................................................................................................................................................. | 3 000 Sk
 
-  - 2.4. kategórie M a N, od piatich do šiestich rokov ................................................................................ | 40 000 Sk
+  - g) uznanie viacstupňového typového schválenia ES dokončeného cestného vozidla alebo zvláštneho vozidla ................................................................................................................................................................................. | 3 000 Sk
 
-  - 2.5. kategórie M a N, staršie ako šesť rokov ......................................................................................... | 50 000 Sk
+  - h) rozšírenie udeleného viacstupňového typového schválenia, viacstupňového typového schválenia ES cestného vozidla alebo zvláštneho vozidla alebo rozšírenie uznaného viacstupňového typového schválenia ES dokončeného cestného vozidla alebo zvláštneho vozidla ............................................................. | 1 000 Sk
 
-  - 2.6. ostatné kategórie vozidiel .................................................................................................................. | 5 000 Sk
+  - i) udelenie typového schválenia systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla .................................................................................................................................... | 2 000 Sk
 
-  - b) hromadne vyrábaného alebo dovážaného typu motorového vozidla alebo prípojného vozidla .. | 5 000 Sk
+  - j) udelenie typového schválenia ES systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla .................................................................................................................. | 2 000 Sk
 
-  - c) hromadne vyrábaného alebo dovážaného typu súčasti, výstroja a výbavy motorového vozidla alebo prípojného vozidla ............................................................................................................................... | 3 000 Sk
+  - k) udelenie správy o homologizácii typu systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla .................................................................................................................. | 2 000 Sk
 
-  - d) hromadne prestavaného typu motorového vozidla alebo prípojného vozidla ................................ | 2 000 Sk
+  - l) rozšírenie udeleného typového schválenia, typového schválenia ES systému,komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla alebo rozšírenie udelenej správy o homologizácii typu systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla .................................................................................................................................... | 500 Sk
 
-  - e) hromadne vyrábaného alebo dovážaného typu pracovného stroja neseného alebo pripojeného | 5 000 Sk
+  - m) schválenie jednotlivo vyrobeného cestného vozidla alebo zvláštneho vozidla ............................................... | 3 000 Sk
 
-  - f) hromadne vyrábaného alebo dovážaného typu nadstavby motorového vozidla alebo prípojného vozidla ............................................................................................................................................................... | 2 000 Sk
+  - n) schválenie jednotlivo vyrobeného systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla .................................................................................................................. | 1 000 Sk
 
-  - g) motorového vozidla alebo prípojného vozidla po prestavbe alebo dostavbe................................... | 50 % príslušnej sadzby
+  - o) schválenie jednotlivo dovezeného cestného vozidla alebo zvláštneho vozidla ............................................... | 2 000 Sk
 
-  - h) motorového vozidla pre osoby s ťažkým zdravotným postihnutím, držiteľov preukazu ZŤP alebo ZŤP-S a preukazu občana s ťažkým zdravotným postihnutím, ktorým sa poskytol peňažný príspevok na kúpu osobného motorového vozidla podľa osobitného zákona<sup>11</sup>) ........................................................................................................... | 75 Sk
+  - p) uznanie typového schválenia ES jednotlivo dovezeného cestného vozidla alebo zvláštneho vozidla ......... | 2 000 Sk
 
-  - i) jednotlivo vyrobenej alebo dovezenej súčasti výstroja a výbavy .................................................. | 1 000 Sk
+  - q) uznanie typového schválenia alebo typového schválenia ES jednotlivo dovezeného cestného vozidla alebo zvláštneho vozidla, ktoré je vo vlastníctve občana Slovenskej republiky .................................................... | 1 000 Sk
 
-  - j) motorového vozidla po prestavbe na alternatívny pohon skvapalneným ropným plynom ........... | 2 000 Sk
+  - r) schválenie jednotlivo dovezeného systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla .................................................................................................................. | 500 Sk
 
-  - Poznámka Poplatku podľa tejto položky nepodlieha schválenie technickej spôsobilosti motorového vozidla alebo prípojného vozidla po jeho odcudzení v prípade, že tieto boli evidované na území Slovenskej republiky. |
+  - s) schválenie hromadnej prestavby typu cestného vozidla alebo zvláštneho vozidla ......................................... | 5 000 Sk
+
+  - t) rozšírenie udeleného schválenia hromadnej prestavby typu cestného vozidla alebo zvláštneho vozidla ... | 1 000 Sk
+
+  - u) schválenie prestavby jednotlivého cestného vozidla alebo zvláštneho vozidla ................................................ | 10 000 Sk
+
+  - v) schválenie prestavby jednotlivého cestného vozidla alebo zvláštneho vozidla montážou plynového zariadenia ........................................................................................................................................................................... | 2 000 Sk
+
+  - w) schválenie alebo uznanie podľa písm. m), o), p) a q) pre občanov s ťažkým zdravotným postihnutím, ktorým sa poskytol peňažný príspevok na kúpu osobného motorového vozidla podľa osobitného zákona<sup>20a</sup>) .......................................................................................................................................................................... | 75 Sk
+
+  - x) vykonanie zmeny v osvedčení o evidencii alebo v technickom osvedčení vozidla ............................................ | 100 Sk
+
+  - Poznámky 1. Ak žiadateľ jednou žiadosťou podľa písmen m), n) a r) tejto položky požaduje viac schválení, poplatky sa sčítavajú. 2. Poplatku podľa tejto položky nepodlieha schválenie cestného vozidla alebo zvláštneho vozidla po jeho odcudzení v prípade, že tieto boli evidované na území Slovenskej republiky. |
 
     - Položka 68
 
-  - Podanie žiadosti o povolenie výroby (stavby) alebo prestavby jednotlivého vozidla<sup>21</sup>)........................... | 200 Sk
+  - Podanie žiadosti o |
+
+  - a) povolenie výroby jednotlivého cestného vozidla alebo zvláštneho vozidla<sup>21</sup>) ........................................... | 500 Sk
+
+  - b) povolenie prestavby jednotlivého cestného vozidla alebo zvláštneho vozidla<sup>21</sup>) ..................................... | 500 Sk
+
+  - c) povolenie hromadnej prestavby typu cestného vozidla alebo zvláštneho vozidla<sup>21</sup>) ............................... | 1 000 Sk
+
+  - Splnomocnenie Za podanie žiadosti o dodatočné vydanie povolenia podľa písmen a) až c) tejto položky správny orgán vyberie poplatok do výšky päťnásobku sadzby. |
 
     - Položka 69
 
-  - Vykonanie zmeny alebo predĺženie platnosti osvedčenia o schválení technickej spôsobilosti typu motorového vozidla alebo prípojného vozidla alebo typu súčasti, výstroja a výbavy .................. | 500 Sk
+  - Podanie žiadosti o zmenu alebo predĺženie platnosti v udelenom typovom schválení alebo typovom schválení ES cestného vozidla alebo zvláštneho vozidla, v udelenom viacstupňovom typovom schválení alebo typovom schválení ES dokončeného cestného vozidla alebo zvláštneho vozidla, v udelenom typovom schválení alebo typovom schválení ES systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla, v udelenej správe o homologizácii typu systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla, v udelenom schválení hromadnej prestavby typu cestného vozidla alebo zvláštneho vozidla, v základných technických opisoch cestného vozidla alebo zvláštneho vozidla ............................................................................... | 1 000 Sk
 
     - Položka 70
 
@@ -1070,19 +1096,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 72
 
-  - a) Podanie žiadosti o udelenie osvedčenia hromadného výrobcu<sup>22</sup>) ............................................................. | 500 Sk
+  - a) Podanie žiadosti o udelenie osvedčenia výrobcu<sup>22</sup>) ........................................................ | 500 Sk
 
-  - b) Podanie žiadosti o udelenie osvedčenia hromadného dovozcu<sup>22</sup>) ............................................................ | 500 Sk
+  - b) Podanie žiadosti o udelenie osvedčenia zástupcu výrobcu<sup>22</sup>) ...................................... | 500 Sk
 
-  - c) Podanie žiadosti o zmenu údajov v osvedčeniach hromadného výrobcu alebo hromadného dovozcu | 200 Sk
+  - c) Podanie žiadosti o zmenu údajov v osvedčeniach výrobcu alebo zástupcu výrobcu alebo o predĺženie ich platnosti ................................................................................................ | 500 Sk
 
     - Položka 73
 
-  - a) Podanie žiadosti o dočasné vyradenie motorového vozidla alebo prípojného vozidla z premávky | 200 Sk
+  - a) Podanie žiadosti o dočasné vyradenie cestného vozidla alebo zvláštneho vozidla z premávky na pozemných komunikáciách .............................................................................................................................. | 500 Sk
 
-  - b) Povolenie výnimky na schválenie technickej spôsobilosti jednotlivého motorového vozidla alebo prípojného vozidla ..................................................................................................................................... | 500 Sk
+  - b) Podanie žiadosti o povolenie výnimky podľa osobitného predpisu<sup>22ac</sup>) ................................................. | 500 Sk
 
-  - c) Podanie žiadosti o trvalé vyradenie motorového vozidla alebo prípojného vozidla z evidencie ........ | 50 Sk
+  - c) Podanie žiadosti o trvalé vyradenie motorového vozidla alebo prípojného vozidla z evidencie ........... | 50 Sk
 
   - Poznámka Poplatok podľa písmena a) tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení motorového vozidla alebo prípojného vozidla z premávky. |
 
@@ -1144,11 +1170,53 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 78
 
-  - a) Udelenie oprávnenia alebo predĺženie oprávnenia, alebo zmena rozsahu oprávnenia na vykonávanie kontrol technického stavu vozidiel a prevádzkovanie stanice technickej kontroly .............................................................. | 5 000 Sk
+  - a) Podanie žiadosti o udelenie povolenia na zriadenie |
 
-  - b) Udelenie oprávnenia alebo predĺženie oprávnenia, alebo zmena rozsahu oprávnenia na vykonávanie emisných kontrol vozidiel a prevádzkovanie pracoviska emisnej kontroly .......................................................................... | 5 000 Sk
+  - 1. stanice technickej kontroly ..... | 2 500 Sk
 
-  - c) Udelenie oprávnenia z dôvodu úradnej povinnosti alebo pri znížení rozsahu oprávnenia podľa písmena a) alebo písmena b) ................................................................................................................................... | 200 Sk
+  - 2. pracoviska emisnej kontroly ..... | 2 500 Sk
+
+  - 3. pracoviska kontroly originality ..... | 2 500 Sk
+
+  - 4. pracoviska montáže plynových zariadení ..... | 2 500 Sk
+
+  - b) Podanie žiadosti o udelenie oprávnenia na vykonávanie |
+
+  - 1. technických kontrol vozidiel ..... | 2 500 Sk
+
+  - 2. emisných kontrol motorových vozidiel ..... | 2 500 Sk
+
+  - 3. kontrol originality vozidiel ..... | 2 500 Sk
+
+  - 4. montáže plynových zariadení ..... | 2 500 Sk
+
+  - c) Podanie žiadosti o zmenu údajov v udelenom oprávnení podľa písmena b) ..... | 500 Sk
+
+  - Poznámky 1. Ak žiadateľ jednou žiadosťou podľa písmen a) a b) tejto položky požaduje viac povolení alebo oprávnení, poplatky sa sčítavajú. 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napr. zmenu názvu ulice a pod. |
+
+    - Položka 78a
+
+  - a) Podanie prihlášky na vykonanie skúšky (vrátane opakovanej) na získanie osvedčenia o odbornej spôsobilosti alebo predĺženia platnosti osvedčenia o odbornej spôsobilosti |
+
+  - 1. kontrolného technika ..... | 2 500 Sk
+
+  - 2. technika emisnej kontroly ..... | 2 500 Sk
+
+  - 3. technika kontroly originality ..... | 2 500 Sk
+
+  - 4. technika montáže plynových zariadení ..... | 2 500 Sk
+
+  - b) Vydanie osvedčenia o odbornej spôsobilosti |
+
+  - 1. kontrolného technika ..... | 200 Sk
+
+  - 2. technika emisnej kontroly ..... | 200 Sk
+
+  - 3. technika kontroly originality ..... | 200 Sk
+
+  - 4. technika montáže plynových zariadení ..... | 200 Sk
+
+  - Poznámka Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napr. zmenu názvu ulice a pod. |
 
     - Položka 79
 

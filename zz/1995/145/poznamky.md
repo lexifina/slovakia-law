@@ -24,8 +24,6 @@
 
 - Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
-
 - Zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení zákona č. 58/1997 Z. z.
@@ -60,13 +58,19 @@
 
 - 19) § 72 ods. 2 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
+- 19a) § 41 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení zákona č. 510/2003 Z. z.
+
 - 20) § 127 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
-- 21) § 104 ods. 2 a § 106 ods. 2 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+- 20a) § 61 zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 22) § 2 písm. j) a k) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+- 21) § 14, 18 a 19 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
+- 22) § 4 zákona č. 725/2004 Z. z.
 
 - 22a) § 28 ods. 1 písm. m) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení zákona č. 506/2002 Z. z.
+
+- 22ac) § 111 zákona č. 725/2004 Z. z.
 
 - 22b) § 29 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení zákona č. 506/2002 Z. z.
 
