@@ -1,4 +1,6 @@
-- 1) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 16/1959 Zb., zákona č. 58/1964 Zb., zákona č. 65/1965 Zb., zákona č. 87/1968 Zb., zákona č. 88/1968 Zb., zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 8/1982 Zb., zákona č. 73/1982 Zb., zákona č. 148/1983 Zb., zákona č. 109/1984 Zb., zákona č. 51/1987 Zb., zákona č. 110/1990 Zb., zákona č. 180/1990 Zb., zákona č. 306/1991 Zb., zákona č. 235/1992 Zb., zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení nariadenia vlády Československej socialistickej republiky č. 98/1971 Zb., zákona č. 99/1972 Zb., zákona č. 73/1982 Zb., zákona č. 57/1984 Zb., zákona č. 109/1984 Zb., nariadenia vlády Československej socialistickej republiky č. 112/1984 Zb., zákona č. 51/1987 Zb., zákona č. 103/1988 Zb., zákona č. 180/1990 Zb., zákona č. 306/1991 Zb., zákona Slovenskej národnej rady č. 195/1992 Zb., zákona č. 235/1992 Zb., zákona Národnej rady Slovenskej republiky č. 14/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. a zákona Národnej rady Slovenskej republiky č.194/1994 Z. z.Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb., zákona č. 180/1990 Zb., zákona č. 1/1991 Zb., zákona č. 46/1991 Zb., zákona č. 246/1991 Zb., zákona č. 306/1991 Zb., zákona č. 578/1991 Zb., zákona č. 116/1992 Zb., zákona č. 235/1992 Zb., zákona Národnej rady Slovenskej republiky č. 7/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 14/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 59/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 97/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 240/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 285/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 38/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 39/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 71/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 195/1994 Z. z.Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení zákona Slovenskej národnej rady č. 195/1992 Zb., zákona Národnej rady Slovenskej republiky č. 240/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 194/1994 Z. z.
+- 1) Zákonník práce.
+
+- 1a) Zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia v znení neskorších predpisov.
 
 - 2) § 124 Zákonníka práce.
 
@@ -13,6 +15,8 @@
 - 6) § 13 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
 
 - 7) § 1 ods. 3 písm. a), b) a d) a odsek 4, § 7 a 8, § 15 písm. a) č. 1 až 11, č. 16, č. 18 až 20, písm. b) až k), písm. m) a n), § 16 písm. a) č. 1, písm. b) č. 1 až 4, písm. c) č. 1 až 3 zákona Slovenskej národnej rady č. 543/1990 Zb. v znení neskorších predpisov.
+
+- 7a) Zákonník práce.Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
 
 - 8) § 1 ods. 3 písm. e) a f), § 13 písm. b) a f), § 14 písm. a) a b), § 15 písm. a) č. 12 až 15, písm. e) a l), § 16 písm. a) č. 2 až 7, písm. b) č. 2, 3 a 5 a písm. c) č. 2 a 3 zákona Slovenskej národnej rady č. 543/1990 Zb. v znení neskorších predpisov.
 
@@ -115,6 +119,8 @@
 - 25) Zákon č. 563/1991 Zb. o účtovníctve.
 
 - 26) Zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení zákona Slovenskej národnej rady č. 453/1992 Zb., zákona Národnej rady Slovenskej republiky č. 2/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 155/1993 Z. z.
+
+- 27) Občiansky zákonník.
 
 - 28) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.Vyhláška Ministerstva financií Slovenskej republiky č. 136/1996 Z. z., ktorou sa ustanovuje tvorba, použitie a spôsob umiestnenia prostriedkov rezerv poisťovne v znení neskorších predpisov.
 
