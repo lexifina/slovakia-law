@@ -1,0 +1,1 @@
+[Obrázok 01](../assets/08678d974316574e1ab48cd572ca1c369262e02e84f308b8bfd1fb7c5c2c1291.pdf)
