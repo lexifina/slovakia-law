@@ -34,4 +34,8 @@
 
 - zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
 
+- 6d) § 2 a 3 zákona Národnej rady Slovenskej republiky č. 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností.
+
+- 6e) § 5 zákona Národnej rady Slovenskej republiky č. 192/1995 Z. z.
+
 - 7) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení zákonov č. 458/1990 Zb. a č. 137/1991 Zb., zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
