@@ -114,7 +114,11 @@ Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v 
 
 - 13. V § 20 sa odsek 2 dopĺňa písmenami w), x) a y), ktoré znejú:
 
-- „x)
+- „w)
+
+- prijímať žiadosti o poskytnutie peňažných náhrad z garančného fondu, uskutočňovať výplaty týchto peňažných náhrad, uplatňovať pohľadávky Národného úradu práce voči zamestnávateľom, ktorí sú platobne neschopní,<sup>2b</sup>)
+
+- x)
 
 - zabezpečovať úlohy spojené s hromadným prepúšťaním,<sup>2c</sup>)
 
@@ -594,6 +598,10 @@ Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v 
 
 - Povinnosti zamestnávateľa voči okresnému úradu práce pri hromadnom prepúšťaní ustanovuje osobitný predpis.<sup>17a</sup>)
 
+- (4)
+
+- Zamestnávateľ alebo správca konkurznej podstaty je povinný do piatich pracovných dní od vzniku platobnej neschopnosti písomne informovať o tejto skutočnosti okresný úrad práce, v ktorého územnom obvode má sídlo.
+
 - (5)
 
 - Povinnosti ustanovené v odseku 2 sa nevzťahujú na zamestnávanie občanov v zahraničnej službe, na zamestnávanie občanov na Ministerstve obrany Slovenskej republiky, u právnických osôb v pôsobnosti Ministerstva obrany Slovenskej republiky, v ozbrojených silách, v ozbrojených bezpečnostných zboroch a v štátom uznaných cirkvách a náboženských spoločnostiach.<sup>18</sup>)“.
@@ -744,7 +752,33 @@ Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v 
 
 - Povinnosti ustanovené v odsekoch 1 až 5 sa nevzťahujú na zamestnávateľa, ktorý je rozpočtovou organizáciou alebo príspevkovou organizáciou.
 
-- § 128b“.
+- § 128b
+
+- Postup okresných úradov práce pri uspokojovaní nárokov z garančného fondu
+
+- (1)
+
+- Okresný úrad práce do piatich pracovných dní od doručenia oznámenia o platobnej neschopnosti zamestnávateľa doručí tomuto zamestnávateľovi alebo správcovi konkurznej podstaty tlačivá na získanie údajov potrebných na poskytovanie peňažných náhrad.
+
+- (2)
+
+- Zamestnávateľ alebo správca konkurznej podstaty vyplní všetky požadované údaje podľa odseku 1, potvrdí ich správnosť a doručí ich okresnému úradu práce do desiatich pracovných dní od doručenia tlačív.
+
+- (3)
+
+- Výplatu peňažných náhrad z garančného fondu uskutočňuje okresný úrad práce na základe písomnej žiadosti zamestnanca najneskôr do 30 dní od doručenia žiadosti.
+
+- (4)
+
+- O uskutočnených výplatách peňažných náhrad z garančného fondu v členení podľa jednotlivých zamestnancov okresný úrad práce informuje príslušný daňový úrad.
+
+- (5)
+
+- Po uskutočnení výplaty peňažných náhrad z garančného fondu sa zamestnávateľ stáva dlžníkom Národného úradu práce a Národný úrad práce sa stáva veriteľom dlžníka.
+
+- (6)
+
+- Poskytnutie peňažných náhrad z garančného fondu nezávisí od plnenia príspevkovej povinnosti zamestnávateľa podľa tohto zákona.“.
 
 - Doterajšia štrnásta časť a pätnásta časť sa označujú ako pätnásta časť a šestnásta časť.
 
