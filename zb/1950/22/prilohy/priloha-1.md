@@ -1,0 +1,1 @@
+- Kresba mince po 1 Kčs z hliníka: ![Obrázok 01](../assets/4a7fe9590bc4caebfa4988d58cdb5d61697ed986bbe4d121f585cba365e00d76.png)
