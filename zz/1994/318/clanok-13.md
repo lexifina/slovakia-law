@@ -1,0 +1,3 @@
+# Článok 13
+
+Ďalšie dávky dôchodkového zabezpečenia (výchovné, príplatok k výchovnému, zvýšenie dôchodku pre bezvládnosť, podpora pri narodení dieťaťa a pohrebné) priznáva a vypláca nositeľ zabezpečenia toho zmluvného štátu, ktorý vypláca dôchodok. Ak dôchodok vyplácajú nositelia zabezpečenia obidvoch zmluvných štátov, tieto dávky priznáva a vypláca nositeľ zabezpečenia toho zmluvného štátu, na ktorého území má oprávnená osoba trvalý pobyt. Ak sú oprávnené dve osoby s trvalým pobytom v rôznych zmluvných štátoch, príslušným na výplatu výchovného a príplatku k výchovnému je nositeľ zabezpečenia toho zmluvného štátu, na ktorého území má dieťa trvalý pobyt.

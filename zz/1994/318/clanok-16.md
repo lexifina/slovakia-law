@@ -1,0 +1,3 @@
+# Článok 16
+
+Ak sú podľa právnych predpisov s prihliadnutím na túto zmluvu dané predpoklady na poskytovanie prídavkov na deti (príplatku k prídavkom na deti) alebo jednorazových dávok (podpory pri narodení dieťaťa, pohrebného) v obidvoch zmluvných štátoch, priznáva a vypláca dávku nositeľ zabezpečenia toho zmluvného štátu, na ktorého území má oprávnená osoba trvalý pobyt, a ak ide o pohrebné, na ktorého území mal zomrelý trvalý pobyt. Ak sú oprávnené dve osoby, avšak s trvalým pobytom v rôznych zmluvných štátoch, príslušným na výplatu prídavkov na deti a príplatku k prídavkom na deti je nositeľ zabezpečenia toho zmluvného štátu, na ktorého území má dieťa trvalý pobyt.
