@@ -12,6 +12,8 @@ Pretože zásady uvedené v ustanoveniach §§ 34, 36 a 42 smerníc Štátnej ba
 
 - „(1) Za iné investície sa považujú<sup>†</sup>)
 
+  - a) náklady na odplatný prevod správy strojov, zariadenia, náradia a inventára od organizácií štátneho socialistického sektora a na nákup pozemkov, budov, stavieb, strojov, zariadenia, náradia a inventára od iných organizácií ako organizácií štátneho socialistického sektora, pokiaľ už tieto odplatne prevádzané alebo nakupované veci slúžili ako základné fondy; za iné investície sa považujú aj náklady na nákup pozemkov a starších budov, stavieb, strojov, zariadenia, náradia a inventára od súkromníkov,
+
   - b) náklady na investičnú výstavbu a generálne opravy v zahraničí,
 
   - c) náklady na obstaranie základného stáda a ťažných zvierat,
