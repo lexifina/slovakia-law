@@ -2,6 +2,8 @@
 
 Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 110/1996 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 5 ods. 2 písm. d) sa slová „v dojčenských ústavoch“ nahrádzajú slovami „v detských domovoch“.
+
 - 2. V § 7 ods. 4 sa vypúšťajú slová „alebo okresný úrad“.
 
 - 3. V § 24 ods. 1 znie:

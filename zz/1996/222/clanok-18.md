@@ -416,6 +416,10 @@ Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneh
 
 - ústavy sociálnej starostlivosti,
 
+- b)
+
+- detské domovy.
+
 - (2)
 
 - Na poskytovanie služieb sociálnej starostlivosti okresné úrady zriaďujú a kontrolujú tieto zariadenia:
@@ -510,7 +514,11 @@ Zákon Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneh
 
 - (3)
 
-- Na konanie a rozhodovanie podľa odsekov 1 a 2 prvej vety sa vzťahujú všeobecné predpisy o správnom konaní. Ústav a zariadenie sociálnej starostlivosti má pri rozhodovaní podľa odsekov 1 a 2 prvej vety postavenie správneho orgánu.“.
+- Na konanie a rozhodovanie podľa odsekov 1 a 2 prvej vety sa vzťahujú všeobecné predpisy o správnom konaní. Ústav a zariadenie sociálnej starostlivosti má pri rozhodovaní podľa odsekov 1 a 2 prvej vety postavenie správneho orgánu.
+
+- (4)
+
+- O úhrade za starostlivosť, ktorá sa poskytuje deťom v detskom domove, rozhoduje detský domov. Detský domov vypláca deťom aj vreckové.“.
 
 - 39. V § 31 ods. 1 sa slová „v § 27 ods. 1 písm. a) až e) a písm. h) č. 1 až 3“ nahrádzajú slovami „v § 27 ods. 1 a 2“.
 
