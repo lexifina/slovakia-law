@@ -118,7 +118,7 @@
 
   - Článok 11
 
-    - Táto zmluva zostáva v platnosti po dobu dvadsať rokov. Pre Zmluvné strany, ktoré do roka pred uplynutím tejto lehoty neodovzdajú vláde Poľskej ľudovej republiky vyhlásenie o vypovedaní Zmluvy, zostane Zmluva v platnosti po dobu ďalších desať rokov.
+    - Zmluva o priateľstve, spolupráci a vzájomnej pomoci podpísaná vo Varšave 14. mája 1955 zostáva v platnosti po dobu ďalších dvadsiatich rokov. Pre zmluvné strany, ktoré do roka pred uplynutím tejto lehoty neodovzdajú vláde Poľskej ľudovej republiky vyhlásenie o vypovedaní Zmluvy, zostane Zmluva v platnosti ešte po dobu desiatich rokov.
 
     - Ak sa v Európe vytvorí systém kolektívnej bezpečnosti a za tým účelom sa uzavrie Celoeurópska zmluva o kolektívnej bezpečnosti, o čo sa budú Zmluvné strany vytrvalo usilovať, stratí táto Zmluva platnosť dňom, keď vstúpi do platnosti Celoeurópska zmluva.
 
