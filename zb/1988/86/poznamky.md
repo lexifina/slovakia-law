@@ -1,4 +1,10 @@
-- 1) § 13 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon). Nariadenie vlády ČSSR č. 80/1988 Zb. o určovaní kondícií, klasifikácii zásob výhradných ložísk a o posudzovaní, schvaľovaní a štátnej expertíze ich výpočtov.
+- 1) § 3 ods. 1 písm. a) zákona Slovenskej národnej rady č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade v znení zákona Slovenskej národnej rady č. 497/1991 Zb.
+
+- § 7a zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
+
+- 1a) § 13 banského zákona.
+
+- § 4 ods. 3 vyhlášky Slovenského geologického úradu č. 6/1992 Zb. o klasifikácii a výpočte zásob výhradných ložísk.
 
 - 2) § 3 vyhlášky Federálneho štatistického úradu a Federálneho ministerstva pre technický a investičný rozvoj č. 120/1979 Zb. o priestorovej identifikácii informácií.
 
