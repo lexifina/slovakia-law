@@ -198,21 +198,67 @@ XIX. Ortuť a jej zlúčeniny CAS č. 7439-97-6
 
 3. Bod 2 neplatí pre alkalické mangánové gombíkové články a batérie zložené z gombíkových batérií.
 
-XX. Arzén a jeho zlúčeniny CAS č. 7440-38-2
+XX. Arzén a jeho zlúčeniny
 
-1. Nemôžu ich obsahovať látky a prípravky používané na
+Nesmú sa používať ako látky a zložky prípravkov, ktoré sú určené
 
-1.1. zabránenie usadzovania mikroorganizmov, rastlín alebo zvierat na zariadeniach celkom alebo čiastočne ponorených do vody (napr. trupy člnov a lodí, klietky, plaváky, bóje, siete a akékoľvek iné pomôcky a zariadenia používané pri chove rýb alebo vodných mäkkýšov, akékoľvek pomôcky alebo zariadenia úplne alebo čiastočne ponorené do vody),
+a) na zabránenie usadzovania mikroorganizmov, rastlín a živočíchov na
 
-1.2. ochranu dreva,
+1. trupoch člnov a lodí,
 
-1.3. priemyselnú úpravu vody.
+2. klietkach, plavákoch, bójach, sieťach a akýchkoľvek iných pomôckach alebo zariadeniach používaných pri chove rýb alebo mäkkýšov,
 
-2. Bod 1.2. neplatí pre anorganické soli typu Cu-Cr-As (CCA, meď-chróm-arzén) používané pri priemyselnej vákuovej alebo tlakovej impregnácii dreva určeného na vonkajšie použitie.
+3. akýchkoľvek pomôckach alebo zariadeniach úplne alebo čiastočne ponorených do vody,
 
-3. Prípravky typu DFA (dinitrofenol-fluorid-arzén) sa môžu použiť na opravy in situ už postavených stožiarov, ktoré nesú elektrické káble. S týmito prípravkami môžu zaobchádzať len odborníci pri použití vákua a tlaku.
+b) na konzervovanie dreva; okrem toho sa takto upravené drevo nesmie uvádzať na trh,
+
+c) výnimka z písmena b) platí v súvislosti s
+
+1. látkami a prípravkami na konzervovanie dreva;
+
+tie sa môžu používať v priemyselných výrobných zariadeniach používajúcich vákuum (podtlak) alebo tlak (pretlak) na impregnáciu dreva, ak ide o roztoky anorganických zlúčenín medi, chrómu a arzénu (CCA) typu C; takto upravené drevo sa nesmie uviesť na trh pred dokončením fixácie konzervačného prostriedku,
+
+2. drevom upraveným roztokmi CCA v priemyselných zariadeniach podľa bodu 1;
+
+toto drevo sa môže uviesť na trh na ďalšie použitie, ak je zaistená bezpečnosť a ochrana zdravia pri práci, ochrana života a zdravia ľudí a ochrana životného prostredia a nie je pravdepodobné, že by sa počas svojej životnosti dostalo do styku s pokožkou osôb širokej verejnosti
+
+– ako stavebné drevo vo verejných a poľnohospodárskych budovách, úradných budovách a priemyselných zariadeniach,
+
+– na mostoch a stavbe mostov,
+
+– ako stavebné drevo v sladkovodných oblastiach a poloslaných vodách, napr. na móla, prístavné hrádze a mosty,
+
+– ako protihlukové bariéry,
+
+– ako protilavínové zátarasy,
+
+– na bezpečnostné oplotenie a bariéry pri hlavných cestách,
+
+– ako guľatina z ihličnatých drevín zbavená kôry, použitá v ohradách pre hospodárske zvieratá,
+
+– v konštrukciách zabraňujúcich zosuvom pôdy,
+
+– ako stĺpy elektrického a telekomunikačného vedenia,
+
+– ako podvaly podzemnej železnice.
 
 Bez toho, aby boli dotknuté ostatné ustanovenia osobitného predpisu o klasifikácii, balení a označovaní nebezpečných látok a prípravkov,<sup>1a</sup>) akékoľvek ošetrené drevo uvádzané na trh musí byť osobitne označené textom „Len na použitie v priemyselných zariadeniach a na ošetrovanie dreva odborníkmi. Obsahuje arzén“.
+
+Okrem toho akékoľvek drevo dodávané na trh v balíkoch sa musí označiť nálepkou s textom „Pri manipulácii s týmto drevom používajte ochranné rukavice. Pri rezaní alebo inom opracúvaní tohto dreva používajte proti prachu osobné ochranné prostriedky na ochranu dýchacích orgánov a na ochranu zraku a tváre. Odpad z tohto dreva musí zneškodniť autorizovaný podnik ako nebezpečný odpad“.
+
+3. Upravené drevo uvedené v bodoch 1 a 2 sa nesmie používať
+
+– v obytných alebo domácich stavbách bez ohľadu na účel,
+
+– v akýchkoľvek aplikáciách, keď hrozí riziko opakovaného styku s pokožkou,
+
+– v morskej vode,
+
+– na iné poľnohospodárske účely, ako sú ohrady pre hospodárske zvieratá, a na stavebné použitie v súlade s bodom 2,
+
+– v akýchkoľvek aplikáciách, pri ktorých by upravené drevo mohlo prísť do styku s polotovarmi a hotovými výrobkami určenými na ľudskú a živočíšnu spotrebu.
+
+4. Nesmú sa používať ako látky a zložky prípravkov určených na použitie pri úprave úžitkovej vody bez ohľadu na jej použitie.
 
 XXI. Organociničité zlúčeniny
 
@@ -907,6 +953,8 @@ c) textilné alebo usňové hračky a hračky s textilným alebo usňovým oble�
 d) priadza a textílie určené na použitie konečným spotrebiteľom.
 
 2. Okrem toho sa textilné, usňové a odevné výrobky nesmú uvádzať na trh, ak nezodpovedajú požiadavkám ustanoveným v bode 1.
+
+3. Azofarbivá uvedené v Zozname azofarbív sa nesmú uvádzať na trh ani používať na farbenie textilných, usňových a odevných výrobkov ako látky alebo zložky prípravkov v koncentráciách vyšších ako 0,1 hmotnostných percent.
 
 Zoznam aromatických amínov
 
