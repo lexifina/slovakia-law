@@ -1192,9 +1192,9 @@
 
         - Ak medzinárodná prihláška neobsahuje názov a prijímací úrad oznámil orgánu pre medzinárodnú rešerš, že vyzval prihlasovateľa, aby tento nedostatok odstránil, orgán pre medzinárodnú rešerš vykonáva medzinárodnú rešerš, pokiaľ nedostane oznámenie, že uvedená prihláška sa považuje za vzatú späť.
 
-      - 37.2 Vyhotovenie názvu
+      - 37.2. Určenie názvu
 
-        - Ak medzinárodná prihláška neobsahuje názov a orgán pre medzinárodnú rešerš nedostal od prijímacieho úradu oznámenie o tom, že vyzval prihlasovateľa, aby uviedol názov, alebo keď tento orgán zistí, že názov nezodpovedá pravidlu 4.3, vyhotoví názov sám.
+        - Ak medzinárodná prihláška neobsahuje názov a orgán pre medzinárodnú rešerš nedostal od prijímacieho úradu oznámenie o tom, že vyzval prihlasovateľa, aby predložil názov, alebo ak tento orgán zistí, že názov nezodpovedá pravidlu 4.3., určí názov sám. Takýto názov sa určí v jazyku, v ktorom je zverejnená medzinárodná prihláška, alebo ak sa preklad predložil podľa pravidla 12.1.(c) a orgán pre medzinárodnú rešerš si to želá, v jazyku prekladu.
 
     - PRAVIDLO 38 CHÝBAJÚCA ALEBO CHYBNÁ ANOTÁCIA
 
@@ -1204,7 +1204,7 @@
 
       - 38.2. Vyhotovenie anotácie
 
-        - (a) Ak medzinárodná prihláška neobsahuje anotáciu a orgán pre medzinárodnú rešerš nedostal oznámenie od prijímacieho úradu v tom zmysle, že prihlasovateľ bol vyzvaný, aby anotáciu predložil, alebo keď uvedený orgán zistí, že anotácia nevyhovuje ustanoveniu pravidla 8, vyhotoví anotáciu sám (v jazyku, v ktorom je medzinárodná prihláška zverejnená).
+        - (a) Ak medzinárodná prihláška neobsahuje anotáciu a orgán pre medzinárodnú rešerš nedostal od prijímacieho úradu oznámenie o tom, že vyzval prihlasovateľa, aby predložil anotáciu, alebo ak tento orgán zistí, že anotácia nevyhovuje pravidlu 8, vyhotoví anotáciu sám. Takáto anotácia sa vyhotoví v jazyku, v ktorom je zverejnená medzinárodná prihláška, alebo ak sa preklad predložil podľa pravidla 12.1.(c) a orgán pre medzinárodnú rešerš si to želá, v jazyku prekladu.
 
         - (b) Prihlasovateľ smie, do jedného mesiaca od dátumu podania správy o medzinárodnej rešerši poštou, zaslať pripomienky k anotácii vyhotovenej orgánom pre medzinárodnú rešerš. Ak tento orgán zmení anotáciu, ktorú vyhotovil, oznámi zmenu Medzinárodného úradu.
 
@@ -1260,7 +1260,7 @@
 
         - Lehota pre spracovanie medzinárodnej rešeršovej správy alebo uznesenia podľa článku 17 (2) (a) je trojmesačná, a to od dátumu, keď orgánu pre medzinárodnú rešerš došlo rešeršové vyhotovenie, alebo deväťmesačná, a to od dátumu priority, pričom platí lehota, ktorá uplynie neskôr.
 
-    - PRAVIDLO 43 MEDZINÁRODNÁ REŠERŠOVÁ SPRÁVA
+    - Pravidlo 43 Správa o medzinárodnej rešerši
 
       - 43.1. Označenie
 
@@ -1276,9 +1276,9 @@
 
         - (b) Zatriedenie vykoná orgán pre medzinárodnú rešerš.
 
-      - 43.4 Jazyk
+      - 43.4. Jazyk
 
-      - Každá medzinárodná rešeršová správa a uznesenie podľa článku 17 (2) (a) sú napísané jazykom, v ktorom bola zverejnená medzinárodná prihláška, ktorej sa týkajú.
+      - Každá správa o medzinárodnej rešerši a uznesenie podľa článku 17 (2) (a) Zmluvy sa vyhotovia v jazyku, v ktorom je zverejnená medzinárodná prihláška, na ktorú sa vzťahujú, alebo ak sa preklad predložil podľa pravidla 12.1.(c) a orgán pre medzinárodnú rešerš si to želá, v jazyku prekladu.
 
       - 43.5 Citácia
 
@@ -1710,11 +1710,31 @@
 
         - (a) Ak prihlasovateľ nemá právo podať návrh, alebo v prípade dvoch alebo viacerých prihlasovateľov, ktorých nemajú právo podať návrh podľa ustanovení pravidla 54.2., platí, že návrh nebol predložený.
 
-    - PRAVIDLO 55 JAZYKY (MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM)
+    - Pravidlo 55 Jazyky (medzinárodný predbežný prieskum)
 
-      - 55.1 Návrh
+      - 55.1. Jazyk návrhu
 
-        - Návrh sa podáva v jazyku medzinárodnej prihlášky, a ak sa medzinárodná prihláška podala v inom jazyku, než v ktorom bola zverejnená, v jazyku zverejnenia.
+        - Návrh sa podáva v jazyku medzinárodnej prihlášky alebo, ak sa prihláška podala v inom jazyku, než v ktorom bola zverejnená, v jazyku zverejnenia. Ak sa podľa pravidla 55.2. požaduje preklad medzinárodnej prihlášky, návrh je v jazyku prekladu.
+
+      - 55.2. Preklad medzinárodnej prihlášky
+
+        - (a) Ak sa medzinárodná prihláška nepodá ani nezverejní v jazyku alebo v jednom z jazykov uvedených v dohode uzavretej medzi Medzinárodným úradom a orgánom pre medzinárodný predbežný prieskum určeným na vykonávanie medzinárodného predbežného prieskumu tejto prihlášky, môže tento orgán požiadať s výnimkou odseku (b), aby prihlasovateľ predložil spolu s návrhom preklad medzinárodnej prihlášky do jazyka alebo do jedného z jazykov určených v uvedenej dohode.
+
+        - (b) Ak sa preklad medzinárodnej prihlášky do jazyka podľa odseku (a) odovzdal orgánu pre medzinárodnú rešerš podľa pravidla 12.1.(c) a orgán pre medzinárodný predbežný prieskum je súčasťou toho istého národného úradu alebo medzivládnej organizácie ako orgán pre medzinárodnú rešerš, prihlasovateľ nemusí predložiť preklad podľa odseku (a). V prípade, že prihlasovateľ nepredloží preklad podľa odseku (a), medzinárodný predbežný prieskum sa vykoná na základe prekladu predloženého podľa pravidla 12.1.(c).
+
+        - (c) Ak sa nesplní požiadavka uvedená v odseku (a) a odsek (b) neplatí, orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby predložil požadovaný preklad v lehote, ktorá musí byť primeraná okolnostiam. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum môže lehotu predĺžiť kedykoľvek pred vydaním rozhodnutia.
+
+        - (d) Ak prihlasovateľ vyhovie výzve v lehote uvedenej v odseku (c), táto požiadavka sa bude považovať za splnenú. Ak to prihlasovateľ neurobí, bude sa návrh považovať za nepredložený.
+
+        - (e) Ustanovenia odsekov (a) až (d) budú platiť len vtedy, ak orgán pre medzinárodný predbežný prieskum vyhlásil v oznámení adresovanom Medzinárodnému úradu, že súhlasí s vykonaním medzinárodného predbežného prieskumu na základe prekladu v zmysle týchto odsekov.
+
+      - 55.3. Preklad zmien
+
+        - (a) Ak sa požaduje preklad medzinárodnej prihlášky podľa pravidla 55.2., všetky zmeny, ktoré sú uvedené vo vyhlásení týkajúcom sa zmien podľa pravidla 53.9. a ktoré si prihlasovateľ želá vziať do úvahy na účely medzinárodného predbežného prieskumu, a všetky zmeny podľa článku 19 Zmluvy, ktoré sa musia vziať do úvahy podľa pravidla 66.1.(c), musia byť v jazyku prekladu. Ak také zmeny boli alebo sú podané v inom jazyku, musí sa predložiť aj preklad.
+
+        - (b) Ak sa požadovaný preklad zmien podľa odseku (a) nepredloží, orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby predložil chýbajúci preklad v lehote, ktorá musí byť primeraná okolnostiam. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum môže lehotu predĺžiť kedykoľvek pred vydaním rozhodnutia.
+
+        - (c) Ak prihlasovateľ nevyhovie výzve v lehote uvedenej v odseku (b), zmena sa nevezme do úvahy na účely medzinárodného predbežného prieskumu.
 
     - PRAVIDLO 56 NESKORŠIA VOĽBA
 
@@ -1826,7 +1846,7 @@
 
       - 60.1. Nedostatky návrhu
 
-        - (a) Ak návrh nevyhovuje požiadavkám uvedeným v pravidlách 53.1, 53.2 (a) (i) až (iv), 53.2 (b), 53.3 až 53.8 a 55, vyzve orgán pre medzinárodný predbežný prieskum prihlasovateľa, aby nedostatky v primeranej lehote opravil. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum ju môže kedykoľvek pred rozhodnutím predĺžiť.
+        - (a) Ak návrh nevyhovuje požiadavkám uvedeným v pravidlách 53.1., 53.2.(a) (i) až (iv), 53.2.(b), 53.3. až 53.8. a 55.1., orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby nedostatky opravil v lehote, ktorá je primeraná okolnostiam. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum môže lehotu predĺžiť kedykoľvek pred vydaním rozhodnutia.
 
         - (b) Ak prihlasovateľ vyhovie výzve v lehote podľa odseku (a), predpokladá sa, že návrh došiel s pôvodným dátumom podania pod podmienkou, že návrh pri predložení obsahoval aspoň voľbu a umožňoval identifikáciu medzinárodnej prihlášky; inak sa predpokladá, že návrh došiel dňom, keď orgán pre medzinárodný predbežný prieskum dostal opravu.
 
@@ -1856,7 +1876,7 @@
 
         - (a) Orgán pre medzinárodný predbežný prieskum vyznačí na návrhu dátumu prijatia, alebo prípadne dátum podľa pravidla 60.1 (b). Orgán pre medzinárodný predbežný prieskum zašle návrh bez odkladu Medzinárodnému úradu, pričom zhotoví kópiu návrhu a ponechá si ju v spise.
 
-        - (b) Orgán pre medzinárodný predbežný prieskum ihneď písomne informuje prihlasovateľa o dátume prijatia návrhu. Ak predpokladá, podľa pravidiel 54.4 (a), 57.4 (c), 58.2 (c) alebo 60.1 (c), že návrh sa nepredložil, alebo keď predpokladá, že voľba podľa pravidla 60.1 (d) sa nevykonala, bude o tom orgán pre medzinárodný predbežný prieskum informovať prihlasovateľa a Medzinárodný úrad.
+        - (b) Orgán pre medzinárodný predbežný prieskum ihneď písomne informuje prihlasovateľa o dátume prijatia návrhu. Ak sa návrh posudzuje podľa pravidiel 54.4.(a), 55.2.(d), 57.4.(c), 58.2.(c) alebo podľa pravidla 60.1.(c) ako nepredložený alebo ak sa voľba posudzuje podľa pravidla 60.1.(d) ako nevykonaná, orgán pre medzinárodný predbežný prieskum to oznámi prihlasovateľovi a Medzinárodnému úradu.
 
         - (c) Medzinárodný úrad musí ihneď oznámiť prihlasovateľovi príjem a dátum prijatia oznámenia o neskoršej voľbe. Dátumom je buď dátum skutočného prijatia Medzinárodným úradom, alebo prípadne dátum podľa pravidla 56.1 (f) alebo 60.2 (b). Ak podľa pravidla 60.2 (c) platí, že oznámenie sa nepredložilo, alebo keď podľa pravidla 60.2 (d) sa neskoršia voľba považuje za nevykonanú, oznámi to Medzinárodný úrad prihlasovateľovi.
 
@@ -2002,9 +2022,15 @@
 
         - (b) zrušené.
 
-      - 66.9 Jazyk úprav
+      - 66.9. Jazyk zmien
 
-      - Ak sa medzinárodná prihláška podala v inom jazyku, než v ktorom sa zverejnila, musí sa každá zmena a list podľa pravidla 66.8 (a) predložiť v jazyku zverejnenia.
+        - (a) S výnimkou odsekov (b) a (c), ak sa medzinárodná prihláška podala v inom jazyku, než v ktorom je zverejnená, každá zmena, ako aj každý list podľa pravidla 66.8.(a) sa predložia v jazyku, v ktorom je zverejnená medzinárodná prihláška.
+
+        - (b) Ak sa medzinárodný predbežný prieskum vykonáva podľa pravidla 55.2. na základe prekladu medzinárodnej prihlášky, každá zmena, ako aj každý list v zmysle odseku (a) sa musia predložiť v jazyku prekladu.
+
+        - (c) S výnimkou pravidla 55.3., ak sa zmena alebo list nepredložili v jazyku požadovanom podľa odseku (a) alebo (b), orgán pre medzinárodný predbežný prieskum, ak je to možné vzhľadom na lehotu určenú na vyhotovenie správy o medzinárodnom predbežnom prieskume, vyzve prihlasovateľa, aby predložil zmenu alebo list v požadovanom jazyku v lehote, ktorá musí byť primeraná okolnostiam.
+
+        - (d) Ak prihlasovateľ nevyhovie výzve na predloženie zmeny v požadovanom jazyku v lehote uvedenej v odseku (c), zmena sa nebude brať do úvahy na účely medzinárodného predbežného prieskumu. Ak prihlasovateľ nevyhovie výzve na predloženie listu uvedeného v odseku (a) v požadovanom jazyku v lehote podľa odseku (c), požadovaná zmena sa nemusí vziať do úvahy na účely medzinárodného predbežného prieskumu.
 
     - PRAVIDLO 67 PREDMET PODĽA ČLÁNKU 34 (4) (a) (i)
 
@@ -2178,6 +2204,12 @@
 
       - Každý náhradný list podľa pravidla 66.8 (a) a každý náhradný list obsahujúci úpravy podľa článku 19 musí byť - pokiaľ nie sú nahradené neskôr predloženými listami - priložené k správe. Úpravy podľa článku 19, ktoré sa považujú za zrušené úpravou podľa článku 34 a listy podľa pravidla 66.8 (a) sa neprikladajú.
 
+      - 70.17. Jazyky vyhotovenia správy a príloh
+
+        - (a) Správa a všetky prílohy sú vyhotovené v jazyku, v ktorom je zverejnená medzinárodná prihláška, ktorej sa týkajú, alebo ak sa medzinárodný predbežný prieskum vykonával podľa pravidla 55.2. na základe prekladu medzinárodnej prihlášky, v jazyku prekladu.
+
+        - (b) (zostáva zrušené)
+
     - PRAVIDLO 71 ODOVZDANIE SPRÁVY O MEDZINÁRODNOM PREDBEŽNOM PRIESKUME
 
       - 71.1 Prijímatelia
@@ -2218,11 +2250,13 @@
 
       - Odovzdanie podľa článku 36 (3) (a) sa vykoná čo najskôr, ako je to možné, ale nie skôr než odovzdanie podľa článku 20.
 
-    - PRAVIDLO 74 PREKLAD PRÍLOH SPRÁVY O MEDZINÁRODNOM PREDBEŽNOM PRIESKUME A JEHO PREDLOŽENIE
+    - Pravidlo 74 Preklad príloh k správe o medzinárodnom predbežnom prieskume a jeho predloženie
 
-      - 74.1 Obsah prekladu a lehota na jeho predloženie
+      - 74.1. Obsah prekladu a lehota na jeho predloženie
 
-      - Ak zvolený úrad požaduje predloženie prekladu medzinárodnej prihlášky podľa článku 39 (1), prihlasovateľ predloží v lehote podľa článku 39 (1) preklad každého náhradného listu uvedeného v pravidle 70.16 a priloženého k správe o medzinárodnom predbežnom prieskume. Rovnaká lehota platí vtedy, keď sa v dôsledku vyhlásenia podľa článku 64 (2) (a) (i) zvolenému úradu dodáva preklad medzinárodnej prihlášky v lehote podľa článku 22.
+        - (a) Ak zvolený úrad požaduje predloženie prekladu medzinárodnej prihlášky podľa článku 39 (1) Zmluvy, prihlasovateľ predloží v lehote uvedenej v tomto článku preklad každého náhradného listu uvedeného v pravidle 70.16. a priloženého k správe o medzinárodnom predbežnom prieskume, ak takýto list nie je v jazyku požadovaného prekladu medzinárodnej prihlášky. Rovnaká lehota sa použije aj vtedy, ak sa predloženie prekladu medzinárodnej prihlášky zvolenému úradu musí uskutočniť vzhľadom na vyhlásenie podľa článku 64 (2) (a) (i) Zmluvy v lehote uvedenej v článku 22 Zmluvy.
+
+        - (b) Ak predloženie prekladu medzinárodnej prihlášky podľa článku 39 (1) Zmluvy zvolený úrad nepožaduje, môže tento úrad požadovať od prihlasovateľa, aby predložil v lehote uvedenej v tomto článku preklad každého náhradného listu uvedeného v pravidle 70.16., ktorý je priložený k správe o medzinárodnom predbežnom prieskume a nie je v jazyku, v ktorom bola medzinárodná prihláška zverejnená.
 
     - PRAVIDLO 76 Vyhotovenie, preklad a poplatok podľa článku 39 (1); preklad prioritného dokladu
 
@@ -2718,7 +2752,7 @@
 
       - 92.2. Jazyky
 
-        - (a) S výhradou pravidiel 55.1 a 66.9 a odseku (c) tohto pravidla musí byť každý list alebo doklad predložený prihlasovateľom orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum v tom istom jazyku ako medzinárodná prihláška, na ktorú sa tento list alebo doklad vzťahujú. Ak bola medzinárodná prihláška podľa pravidla 12.1 (c) preložená, musí sa použiť jazyk tohto prekladu.
+        - (a) S výnimkou pravidiel 55.1. a 66.9. a odseku (b) tohto pravidla musí prihlasovateľ predložiť každý list alebo dokument orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum v rovnakom jazyku, v akom je medzinárodná prihláška, ktorej sa týka. Ak sa však preklad medzinárodnej prihlášky odovzdal podľa pravidla 12.1.(c) alebo sa podal podľa pravidla 55.2.(a) alebo (c), použije sa jazyk prekladu.
 
         - (b) Každý list prihlasovateľa určený orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum môže byť v inom jazyku než medzinárodná prihláška, pokiaľ uvedený orgán použitie takého jazyka schválil.
 
