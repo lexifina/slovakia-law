@@ -1,0 +1,1 @@
+- 1) Netýka sa slovenského vydania.
