@@ -62,22 +62,22 @@
 
 - 29) ŠEVT, tlačivo, sklad. č. 49137 0.
 
-- 1) Platí len pre prípravné obdobie zasahujúce do IV. ročníka.
+- 1) V skupine študijných odborov 85 sa uvádza kód zodpovedajúcich učebných odborov podľa doterajších predpisov.
 
-- 2) Pri práci s pacientmi 4-6 žiakov na 1 majstra odbornej výchovy.
-
-- 3) Pri práci so zákazníkom 4-6 žiakov na 1 majstra odbornej výchovy.
+- 2) Pri práci so zákazníkom 4-6 žiačok na jedného majstra odbornej výchovy.
 
 - 1) Študijný odbor podľa oddielu D, ktorý obsahovo nadväzuje na učebný odbor.
 
-- Pre vojenské stredné odborné učilištia sa stĺpec 8 rozširuje o študijné odbory označené „V".
+- Pre vojenské stredné odborné učilištia sa stĺpec 11 rozširuje o študijné odbory označené „V".
 
-- 2) V učebnom odbore mechanik banských prevádzok je na 1 majstra odbornej výchovy až 30 žiakov, ak sú prideľovaní kádrovým robotníkom na sústredených pracoviskách.
+- 2) V učebnom odbore mechanik banských prevádzok je na jedného majstra odbornej výchovy až 30 žiakov, ak sú prideľovaní kádrovým robotníkom na sústredených pracoviskách.
 
-- 3) V špecializácii pre vulkanizáciu je 4-6 žiakov na 1 majstra odbornej výchovy.
+- 3) V 3. ročníku pri práci vo výškach 4 žiaci na jedného majstra odbornej výchovy.
 
-- 4) V priemyslovej výrobe v III. ročníku až 15 žiakov na 1 majstra odbornej výchovy.
+- 4) V špecializácii pre vulkanizáciu je 4 až 6 žiakov na jedného majstra odbornej výchovy.
 
-- 5) V III. ročníku pri práci vo výškach 4 žiaci na 1 majstra odbornej výchovy.
+- 5) V priemyselnej výrobe v 3. ročníku až 15 žiakov na jedného majstra odbornej výchovy.
 
-- 6) Pri aranžérskych prácach v obchodnej prevádzke 5-10 žiakov na 1 majstra odbornej výchovy.
+- 6) Pri aranžérskych prácach v obchodnej prevádzke 5-10 žiakov na jedného majstra odbornej výchovy.
+
+- 7) Učebný odbor je určený len pre štúdium popri zamestnaní.
