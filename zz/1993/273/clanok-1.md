@@ -1,0 +1,3 @@
+# Čl. 1 Predmet dohody
+
+Táto dohoda upravuje postup pri vyporiadaní majetku, práv a záväzkov vo vlastníctve Českej a Slovenskej Federatívnej Republiky vytvorených zo štátneho rozpočtu federácie, ku ktorým má právo hospodárenia Česko-slovenský rozhlas, Česko-slovenská televízia a Česko-slovenská tlačová kancelária, a majetkových a iných práv a záväzkov uvedených federálnych subjektov k 31. decembru 1992 vrátane majetku, s ktorým po vyporiadaní majetku, práv a záväzkov podľa § 4 zákona č. 136/1991 Zb. o rozdelení pôsobnosti medzi Českou a Slovenskou Federatívnou Republikou a Českou republikou a Slovenskou republikou vo veciach tlače a iných informačných prostriedkov disponovali vo vzťahu k iným osobám.
