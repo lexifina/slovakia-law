@@ -16,7 +16,7 @@
 
 - 6b) Zákon č. 530/1990 Zb. o dlhopisoch.
 
-- 6c) § 37 zákona č. 21/1992 Zb.
+- 6c) § 37 druhá a tretia veta zákona č. 21/1992 Zb.
 
 - 6d) Zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplne znenie č. 47/1992 Zb.).
 
