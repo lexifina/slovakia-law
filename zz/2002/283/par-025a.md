@@ -1,0 +1,3 @@
+# § 25a
+
+Zamestnancovi nepatrí náhrada liečebných výdavkov podľa § 25, ak zamestnanec, manžel a deti zamestnanca sú počas dočasného vyslania zdravotne poistení v cudzine;<sup>19</sup>) zamestnanca, manžela a deti zamestnanca počas dočasného vyslania zdravotne poistí zamestnávateľ. Zamestnanec sa zúčastňuje na zdravotnom poistení vo výške podľa osobitného predpisu.<sup>19a</sup>) Zamestnanec sa zúčastňuje na zdravotnom poistení za manžela, ktorý nasleduje zamestnanca do miesta dočasného vyslania vo výške 4 % z minimálnej mzdy.<sup>19b</sup>) Podrobnosti spoluúčasti zamestnanca na zdravotnom poistení za seba a za manžela, ktorý ho nasleduje do miesta dočasného vyslania, určí zamestnávateľ vo vnútornom predpise.
