@@ -1,0 +1,1 @@
+- 1) Priamo nadriadeným orgánom družstevnej organizácie v odvetví poľnohospodárstva sa na účely tejto vyhlášky rozumie príslušná okresná (krajská) poľnohospodárska správa.
