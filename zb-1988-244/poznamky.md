@@ -1,0 +1,1 @@
+- 1) Přílohy č. 1, 3, 4 nařízení vlády ČSR č. 192/1988 Sb., o jedech a některých jiných látkách škodlivých zdraví.
