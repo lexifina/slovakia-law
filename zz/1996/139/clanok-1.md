@@ -12,18 +12,6 @@ Nariadenie vlády Slovenskej republiky č. 134/1994 Z. z. o vydávaní a použit
 
 - § 8
 
-- (1)
-
-- Organizovanie trhu s dlhopisom podľa § 22 a § 24 ods. 3 a 4 zákona (ďalej len „dlhopis fondu“) medzi osobami oprávnenými nadobúdať dlhopis fondu podľa § 24 ods. 7 a 8 zákona pred lehotou jeho splatnosti podľa § 24 ods. 11 zákona zabezpečuje Fond národného majetku Slovenskej republiky (ďalej len „fond“).
-
-- (2)
-
-- Fond zabezpečuje organizovanie trhu s dlhopismi fondu prostredníctvom zástupcov fondu, ktorých pre príslušný okres splnomocňuje fond po predchádzajúcej dohode s príslušným okresným úradom. Takto splnomocnený zástupca fondu koná v mene fondu a na účet fondu.
-
-- (3)
-
-- Fond zmluvne dohodne s RM-Systémom Slovakia, a. s. Bratislava (ďalej len „RM-Systém Slovakia, a. s.“) technické zabezpečenie trhu s dlhopismi fondu v registračných miestach kupónovej privatizácie a v obchodných miestach RM-Systému Slovakia, a. s., overovanie oprávnenosti prevodov dlhopisov fondu, vedenie evidencie o vykonaných prevodoch dlhopisov fondu na základe zmlúv o prevodoch dlhopisov fondu, zúčtovanie prevodov dlhopisov fondu voči fondu a postupovanie príkazov Stredisku cenných papierov Slovenskej republiky (ďalej len „stredisko“) na vykonanie majetkových prevodov dlhopisov fondu medzi osobami uvedenými v § 24 ods. 7 a 8 zákona.
-
 - (4)
 
 - RM-Systém Slovakia, a. s. po dohode s fondom predloží ministerstvu na schválenie v ministerstvom určenej lehote návrh postupu, podľa ktorého sa budú vykonávať príkazy na prevody dlhopisov fondu v súlade so zákonom a týmto nariadením.
@@ -31,10 +19,6 @@ Nariadenie vlády Slovenskej republiky č. 134/1994 Z. z. o vydávaní a použit
 - (5)
 
 - Majetkové prevody (prechody) dlhopisov fondu pre osoby uvedené v § 24 ods. 7 a 8 zákona v súlade so zákonom a týmto nariadením vykonáva stredisko.
-
-- (6)
-
-- Fond najmenej raz za štvrťrok zverejňuje najmä v dennej tlači s celoštátnou pôsobnosťou zoznam akciových spoločností, ktorých akcie bude fond ponúkať za dlhopisy fondu prostredníctvom zástupcov fondu, a počet ponúkaných akcií s uvedením ich podielu na základnom imaní akciovej spoločnosti.
 
 - (7)
 
@@ -64,35 +48,21 @@ Nariadenie vlády Slovenskej republiky č. 134/1994 Z. z. o vydávaní a použit
 
 - obchodník s cennými papiermi<sup>7</sup>) zastupujúci prevodcu alebo nadobúdateľa alebo obstarávajúci prevod dlhopisov fondu pre prevodcu alebo pre nadobúdateľa
 
-- je fondom splnomocnený osobitnou zmluvou uzatvorenou medzi fondom a obchodníkom s cennými papiermi, či koná v súlade s podmienkami tejto zmluvy a či
-
 - koná na základe úradne overeného<sup>8</sup>) písomného plnomocenstva osobitne udeleného na tento účel prevodcom alebo nadobúdateľom,
 
 - f)
 
 - splnomocnenec<sup>9</sup>) zastupujúci prevodcu<sup>10</sup>) pri prevode dlhopisu fondu koná na základe úradne overeného<sup>8</sup>) písomného plnomocenstva osobitne udeleného na tento účel,
 
-- g)
-
-- zástupca fondu je na základe zmluvy uzavretej medzi ním a fondom oprávnený v mene fondu a na účet fondu zabezpečovať predaj majetkových účastí fondu za dlhopisy fondu.
-
 - (9)
 
 - RM-Systém Slovakia, a. s. postúpi príkaz na prevod dlhopisov fondu stredisku, len ak boli splnené podmienky uvedené v odseku 8
 
-- a cena dohodnutá v zmluve je primeraná.
-
 - Ak pokyn na prevod dlhopisov fondu dá obchodník s cennými papiermi alebo splnomocnenec alebo zástupca fondu, RM-Systém Slovakia, a. s. postúpi príkaz na prevod dlhopisov fondu stredisku, len ak
-
-- bolo
 
 - plnomocenstvo
 
-- udelené po účinnosti tohto nariadenia a
-
 - je prílohou pokynu na prevod dlhopisov fondu.
-
-- Za primeranú cenu sa považuje cena, ktorá nie je nižšia ako 75 % menovitej hodnoty dlhopisu fondu v čase predaja vrátane jeho výnosu v jednotlivých rokoch.
 
 - (10)
 
@@ -105,10 +75,6 @@ Nariadenie vlády Slovenskej republiky č. 134/1994 Z. z. o vydávaní a použit
 - (1)
 
 - Ak dlhopis fondu použije jeho majiteľ na vklad do obchodnej spoločnosti, ktorá nadobudla majetok podľa zákona na účel vyrovnania záväzku tejto obchodnej spoločnosti voči fondu alebo Slovenskému pozemkovému fondu [§ 24 ods. 7 písm. a) zákona], prílohou tohto pokynu na prevod dlhopisov fondu stredisku je aj potvrdenie o výške záväzku obchodnej spoločnosti voči fondu alebo Slovenskému pozemkovému fondu. RM-Systém Slovakia, a. s. overí, či sa prevod dlhopisu fondu v prospech obchodnej spoločnosti uskutočňuje na účel úhrady záväzku tejto obchodnej spoločnosti voči fondu alebo Slovenskému pozemkovému fondu a do výšky tohto záväzku podľa potvrdenia o výške záväzku tejto obchodnej spoločnosti voči fondu alebo Slovenskému pozemkovému fondu.
-
-- (2)
-
-- Príkaz na prevod dlhopisu fondu stredisku podľa § 24 ods. 8 písm. a) zákona postúpi RM-Systém Slovakia, a. s., len ak nadobúdateľ je osobou uvedenou v registri podľa § 8 ods. 7 a do výšky jeho záväzku voči fondu alebo Slovenskému pozemkovému fondu splatnom v bežnom roku.
 
 - (3)
 
@@ -130,33 +96,17 @@ Nariadenie vlády Slovenskej republiky č. 134/1994 Z. z. o vydávaní a použit
 
 - Príkaz na prevod dlhopisov fondu pre právnické osoby, ktoré vykonávajú doplnkové dôchodkové poistenie a doplnkové zdravotné poistenie (ďalej len „oprávnené poisťovne“), postúpi RM-Systém Slovakia, a. s. stredisku, len ak
 
-- je oprávnená poisťovňa uvedená v registri podľa § 8 ods. 7 a
-
 - prílohou príkazu na prevod dlhopisu fondu stredisku je aj potvrdenie o uzavretí zmluvy medzi majiteľom dlhopisu fondu a oprávnenou poisťovňou podľa osobitného predpisu. RM-Systém Slovakia, a. s. postúpi príkaz na prevod dlhopisu fondu stredisku na základe príkazov na predaj a kúpu dlhopisu fondu podaných v prospech oprávnenej poisťovne.
 
 - (2)
 
 - RM-Systém Slovakia, a. s. postúpi príkaz na prevod dlhopisu fondu v prospech Všeobecnej úverovej banky, a. s., Investičnej a rozvojovej banky, a. s. alebo Slovenskej sporiteľne, a. s. [§ 24 ods. 8 písm. d) zákona] stredisku,
 
-- len ak je táto banka uvedená v registri podľa § 8 ods. 7.
-
 - § 12
 
 - Splatenie dlhopisu fondu pred lehotou jeho splatnosti podľa § 24 ods. 11 zákona vykonáva fond na základe výzvy. V tejto výzve sa uvádza aj lehota, v ktorej osoby uvedené v § 24 ods. 8 zákona na základe tejto výzvy môžu uplatniť splatenie dlhopisu fondu pred lehotou jeho splatnosti, a počet dlhopisov fondu, ktoré chce fond takto splatiť. Ak fond spláca dlhopis fondu podľa § 24 ods. 11 zákona, je zmluva o splatení dlhopisu fondu pred lehotou jeho splatnosti prílohou k príkazu na vykonanie prevodu RM-Systémom Slovakia, a. s. Ak osoba, ktorú fond vyzval, nesplní výzvu v určenej lehote, RM-Systém Slovakia, a. s. postúpi stredisku príkaz na prevod dlhopisov fondu na fond najneskôr v posledný deň lehoty určenej vo výzve.
 
 - § 13
-
-- (1)
-
-- Akcie z majetku fondu za dlhopisy fondu možno nadobudnúť za menovitú hodnotu dlhopisu fondu vrátane jeho výnosu za uplynulé roky priamym predajom uskutočneným medzi fondom alebo zástupcom fondu [§ 8 ods. 8 písm. g)] a
-
-- a)
-
-- osobou uvedenou v § 24 ods. 3 zákona,
-
-- b)
-
-- osobou uvedenou v § 24 ods. 8 zákona s výnimkou osôb uvedených v § 24 ods. 8 písm. a) zákona a nájomcov bytov.
 
 - (2)
 
