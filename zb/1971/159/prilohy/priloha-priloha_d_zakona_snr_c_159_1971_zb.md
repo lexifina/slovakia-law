@@ -40,7 +40,7 @@ Príloha D zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 17 | | vl. nar. č. 14/1959 Zb. | § 15 ods. 2 | rozhodovanie o tom, či vlastník pozemku je povinný trpieť za náhradu, aby voda bola vedená cez jeho pozemok do miesta zneškodnenia alebo využitia
 
-18 | | zák. č. 166/1960 Zb. | § 15 ods. 2 | rozhodovanie o spôsobe, rozsahu a trvaní lesnej dopravy po cudzích pozemkoch, prípadne o výške náhrady
+18 | | zrušená od 1.1.1978 | |
 
 19 | hospodárenia s bytmi a nebytovými priestormi | zák. č. 41/1964 Zb. | § 57 | rozhodovanie o rozdelení bytu na dva alebo viaceré samostatné byty a o možnosti užívať byt alebo jeho časti na iné účely ako na bývanie
 

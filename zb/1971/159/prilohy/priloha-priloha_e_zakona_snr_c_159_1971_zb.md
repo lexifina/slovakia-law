@@ -24,7 +24,7 @@ Príloha E zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 
 9 | | vyhl. č. 103/1963 Zb. | § 48 ods. 2 | vykonávanie opatrení na ochranu prírody, kultúrnych pamiatok a iných vedeckých záujmov pri výkone rybárskeho práva a pri hospodárení na rybníkoch na návrh orgánov štátnej ochrany prírody, štátnej pamiatkovej starostlivosti alebo orgánov povolaných na uplatnenie iných vedekých záujmov
 
-10 | lesného a vodného hospodárstva | zák. č. 166/1960 Zb. | § 43 ods. 2 | určovanie miesta na preháňanie dobytka lesom
+10 | zrušená od 1.1.1978 | | |
 
 11 | hospodárenia s bytmi a nebytovými priestormi | vyhl. č. 60/1964 Zb. | § 8 ods. 2 | určovanie ročnej sadzby za iné zariadenie a vybavenie bytu
 
