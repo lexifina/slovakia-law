@@ -252,9 +252,13 @@ Príloha č. 2 k nariadeniu vlády č. 272/2003 Z. z.
 
       - b) úradným číslom prevádzkarne,
 
+      - c) v dolnej časti so skratkou názvu Európskych hospodárskych spoločenstiev alebo skratkou „EFTA“ alebo „ETY“; ak je odosielajúcou krajinou Slovenská republika, skratkou „EHS“, alebo
+
       - d) v hornej časti s názvom odosielajúcej krajiny veľkými písmenami, ak je odosielajúcou krajinou Slovenská republika, názvom „SLOVENSKÁ REPUBLIKA“,
 
       - e) v strede s úradným číslom prevádzkarne,
+
+      - f) v dolnej časti so skratkou názvu Európskych hospodárskych spoločenstiev alebo skratkou „EFTA“ alebo „ETY“, ak je odosielajúcou krajinou Slovenská republika, skratkou „EHS“,
 
       - g) teplotou, pri ktorej sa vaječné výrobky musia uchovávať, a lehotou, dokedy je zaručená ich trvanlivosť.
 
