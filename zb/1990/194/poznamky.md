@@ -5,3 +5,7 @@
 - 3) Vyhláška Federálneho ministerstva financií, Ministerstva financií, cien a miezd Českej socialistickej republiky, Ministerstva financií, cien a miezd Slovenskej socialistickej republiky č. 231/1988 Zb. o správnych poplatkoch v znení neskorších predpisov.
 
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 5) Napr. zákon Slovenskej národnej rady č. 96/1991 Zb. o verejných kultúrnych podujatiach.
+
+- 6) Zákone Slovenskej národnej rady č. 84/1991 Zb. o daňových orgánoch.

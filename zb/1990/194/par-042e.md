@@ -1,0 +1,7 @@
+# § 42e Vyúčtovanie lotérií a iných podobných hier
+
+(1) Lotériová komisia alebo lotériový zástupca sú povinní do dvoch mesiacov po uplynutí lehoty na vyzdvihnutie výhier predložiť vyúčtovanie prevádzky lotérií a tombol podľa § 2 písm. a), b) a d) orgánu štátneho dozoru a v odpise orgánu, ktorý povolenie vydal. Do príjmu lotérie patria aj výhry pripadajúce na nepredané žreby a výhry, ktoré neboli vyzdvihnuté v určenej lehote. Do príjmu tomboly patria aj výhry, ktoré neboli vyzdvihnuté v určenej lehote.
+
+(2) Prevádzkovateľ je povinný do dvoch mesiacov po uplynutí doby, na ktorú bolo vydané povolenie, podať vyúčtovanie z prevádzkovania stávkových hier podľa § 2 písm. e) osobitne za jednotlivé výherné prístroje a predložiť ho orgánu štátneho dozoru a v odpise povoľujúcemu orgánu.
+
+(3) Prevádzkovateľ je povinný každoročne po uplynutí kalendárneho roku do 15. februára predložiť vyúčtovanie z prevádzkovania lotérií a stávkových hier podľa § 2 písm. c), f) až i) za predchádzajúci kalendárny rok orgánu štátneho dozoru a v odpise ministerstvu. V prípade ukončenia prevádzkovania hry v priebehu roku je prevádzkovateľ povinný odovzdať vyúčtovanie do dvoch mesiacov po ukončení prevádzky. Z vyúčtovania musí byť zrejmý výťažok dosiahnutý prevádzkovateľom za hodnotené obdobie. Prevádzkovateľ vypočíta časť výťažku určenú v povolení podľa § 4 ods. 4 na sociálne, osvetové alebo iné verejnoprospešné účely. Správnosť odvodu a použitia výťažku preveruje orgán štátneho dozoru.
