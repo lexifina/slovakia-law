@@ -64,4 +64,6 @@
 
 - 26) Nariadenie vlády Československej socialistickej republiky č. 148/1971 Zb. o ochrane hospodárskeho a služobného tajomstva v znení nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 420/1990 Zb.
 
+- 26a) Zákon Národnej rady Slovenskej republiky č. 14/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1993 a o zmene zákonov v oblasti sociálneho zabezpečenia a niektorých ďalších zákonov.
+
 - 27) Zákon č. 33/1965 Zb. o úhrade nákladov vznikajúcich štátu z úrazov, z chorôb z povolania a iných poškodení na zdraví (o regresných náhradách).
