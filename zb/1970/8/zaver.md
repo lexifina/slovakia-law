@@ -1,0 +1,3 @@
+Minister:
+
+Gajdošík v.r.
