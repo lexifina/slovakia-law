@@ -1,0 +1,1 @@
+Michal Vaľo v. r.
