@@ -1,3 +1,0 @@
-Vedúci:
-
-Jakeš v. r.
