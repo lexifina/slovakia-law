@@ -1,3 +1,0 @@
-Príloha č. 35 k vyhláške č. 251/2001 Z. z.
-
-- VZOR POVOLENIE NA REŽIM DOČASNÉ PREŽITIE [Vzor 35](../assets/59b6fa7a31a67c783390052374e13f6f8517ddd5055520d5f88a6ff080e8a51c.pdf)

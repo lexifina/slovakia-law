@@ -1,3 +1,0 @@
-Príloha č. 39 k vyhláške č. 251/2001 Z. z.
-
-- VZOR OSVEDČENIE O COLNOM STATUSE TOVARU [Vzor 39](../assets/9e439e078d15b87fb958a0047056ba44ad9bdfed421d6338c7245e25938568f6.pdf)

@@ -1,3 +1,0 @@
-Príloha č. 33 k vyhláške č. 251/2001 Z. z.
-
-- VZOR POVOLENIE NA REŽIM AKTÍVNY ZUŠĽCHŤOVACÍ STYK [Vzor 33](../assets/e1cd574a5a9e54814a2f050dd036f43250d0068f02bb777a0da2c797436244a3.pdf)
