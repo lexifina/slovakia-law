@@ -1,1 +1,0 @@
-- 9) Rozhodnutie Ministerstva poľnohospodárstva a výživy SSR č. 7114/79-EK zo 16. júla 1979 o stálych zúčtovacích cenách a skupinových stálych cenách na oceňovanie poľnohospodárskych produktov.
