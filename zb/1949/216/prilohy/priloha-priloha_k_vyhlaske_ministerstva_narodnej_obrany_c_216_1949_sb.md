@@ -326,7 +326,7 @@ Príloha k vyhláške Ministerstva národnej obrany č. 216/1949 Sb.
 
 - | | | Zábřeh
 
-- | Gottwaldov dočasne so sídlom v Kroměříži | Gottwaldov | Jednotný národný výbor Gottwaldov
+- | Gottwaldov | Gottwaldov | Jednotný národný výbor Gottwaldov
 
 - | | | Hodonín
 
