@@ -56,6 +56,8 @@
 
 - 17c) Napríklad § 588 Občianskeho zákonníka, § 5 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
+- 17ca) § 6 ods. 1 prvá veta zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
 - 17d) § 1a písm. f) vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení vyhlášky Ministerstva financií Slovenskej republiky č. 608/1992 Zb.
 
 - 17e) § 3 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
