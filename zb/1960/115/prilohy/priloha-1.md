@@ -42,7 +42,7 @@
 
       - c) poskytovať Rade materiály a informácie nevyhnutné pre plnenie jej úloh;
 
-      - d) informovať Radu, ako sa plnia odporúčania orgánov Rady, ktoré prijali.
+      - d) informovať Radu, ako sa plnia odporúčania orgánov Rady, ktoré prijali a dojednania, ktoré urobili v rámci Rady.
 
   - Článok III Pôsobnosť a oprávnenie
 
@@ -50,7 +50,7 @@
 
       - a) organizuje všestrannú hospodársku a vedeckotechnickú spoluprácu členských štátov Rady na najracionálnejšie využívanie ich prírodných zdrojov a na urýchlenie rozvoja výrobných síl a napomáha rozvoj socialistickej ekonomickej integrácie;
 
-      - b) napomáha zdokonaľovanie medzinárodnej socialistickej deľby práce koordináciou plánov rozvoja národného hospodárstva, špecializáciou a kooperáciou výroby členských štátov Rady;
+      - b) napomáha zdokonaľovanie medzinárodnej socialistickej deľby práce organizáciou vzájomných konzultácií o hlavných otázkach hospodárskej politiky, koordináciou plánov rozvoja národného hospodárstva, spracovaním dlhodobých programov spolupráce, špecializáciou a kooperáciou výroby členských štátov Rady s prihliadnutím na celosvetovú deľbu práce;
 
       - c) robí opatrenia na skúmanie ekonomických a vedeckotechnických problémov, o ktoré majú členské štáty Rady záujem;
 
@@ -66,7 +66,9 @@
 
       - na výmenu vedeckotechnických poznatkov a pokrokových výrobných skúseností;
 
-      - e) vyvíja ďalšiu činnosť nevyhnutnú na dosiahnutie cieľov Rady.
+      - e) napomáha členským štátom Rady zopätie ich mnohostrannej spolupráce v Rámci Rady s dvojstrannou spoluprácou týchto štátov pri zabezpečení čo najúplnejšej výmeny informácií štátov o najdôležitejších opatreniach, ktoré spracúvajú a uskutočňujú na dvojstrannom základe s cieľom realizovať opatrenia dlhodobých programov mnohostrannej spolupráce;
+
+      - f) vyvíja ďalšiu činnosť nevyhnutnú na dosiahnutie cieľov Rady.
 
     - 2. Rada vzájomnej hospodárskej pomoci v zhode s týmto Štatútom
 
@@ -78,13 +80,17 @@
 
     - 1. Odporúčania sa týkajú otázok hospodárskej a vedecko - technickej spolupráce. Oznamujú sa členským štátom Rady na prerokovanie.
 
-      - Členské štáty Rady uskutočňujú odporúčania, ktoré prijali na základe uznesení svojich vlád alebo kompetentných orgánov podľa svojho zákonodarstva.
+      - Členské štáty Rady uskutočňujú odporúčania, ktoré prijali na základe uznesení svojich vlád alebo iných kompetentných orgánov podľa svojho zákonodarstva.
 
     - 2. Rozhodnutia sa týkajú organizačných a procedurálnych otázok. Ak nie je v rozhodnutiach určené ináč alebo ak nevyplýva niečo iné z ich povahy, nadobúdajú platnosť dňom podpisu zápisnice o schôdzke kompetentného orgánu Rady.
 
     - 3. Všetky odporúčania a rozhodnutia Rada robí len so súhlasom zainteresovaných členských štátov Rady; záujem o ktorúkoľvek z otázok prerokúvaných Radou môže vyhlásiť každý členský štát Rady.
 
-      - Odporúčania a rozhodnutia sa nevzťahujú na štáty, ktoré vyhlásili, že o danú otázku nemajú záujem. Každý z týchto štátov sa však môže pripojiť k odporúčaniam a rozhodnutiam prijatým ostatnými členskými štátmi Rady.
+      - Neúčasť jedného alebo niekoľkých členských štátov Rady na jednotlivých opatreniach, na ktorých sú zainteresované ostatné členské štáty Rady, neprekáža uskutočňovaniu spolupráce pri týchto opatreniach zainteresovanými štátmi v Rade.
+
+      - Odporúčania a rozhodnutia sa nevzťahujú na štáty, ktoré vyhlásili svoju neúčasť pri ich uznášaní alebo že o danú otázku nemajú záujem. Každý z týchto štátov sa však môže pripojiť k odporúčaniam a rozhodnutiam prijatým ostatnými členskými štátmi Rady.
+
+    - 4. Prerokúvanie otázok hospodárskej a vedecko-technickej spolupráce v orgánoch Rady sa môže zavŕšiť dojednaním medzi členskými štátmi Rady o vykonávaní nimi dohodnutých opatrení. Dojednania nadobúdajú platnosť spôsobom ustanoveným štátmi, ktoré sú stranami dojednania a vychádzajúcim z ich zákonodarstva a vykonávajú sa spôsobom platným v týchto štátoch.
 
   - Článok V Orgány
 
@@ -138,7 +144,7 @@
 
     - 4. Výkonný výbor
 
-      - a) riadi všetky práce spojené s realizáciou úloh Rady v súlade s uzneseniami Zasadaní Rady, sústavne sleduje, ako členské štáty Rady plnia záväzky vyplývajúce z prijatých odporúčaní orgánov Rady;
+      - a) riadi všetky práce spojené s realizáciou úloh Rady v súlade s uzneseniami Zasadaní Rady, organizuje a vykonáva sústavné sledovanie, ako členské štáty Rady plnia záväzky vyplývajúce z nimi prijatých odporúčaní orgánov Rady a platných dojednaní dosiahnutých v rámci týchto orgánov, a ako prebieha spolupráca uskutočňovaná v rámci mnohostranných dohôd uzavretých na základe uvedených odporúčaní a dojednaní;
 
       - b) riadi práce na koordinácii plánov rozvoja národného hospodárstva, na špecializácii a kooperácii výroby členských štátov Rady a organizuje rozpracovanie základných smerov racionálnej deľby práce v najdôležitejších odboroch výroby týchto štátov;
 
@@ -218,17 +224,19 @@
 
     - 2. Sekretariát Rady:
 
-      - a) organizuje prípravu a pomáha v priebehu zasadaní orgánov Rady a porád konaných v rámci Rady, vypracúva materiály alebo pomáha pri príprave materiálov na zasadania orgánov Rady v súlade s plánmi práce týchto orgánov a plní funkciu sekretariátu ostatných orgánov Rady;
+      - a) organizuje prípravu a pomáha v priebehu zasadaní orgánov Rady a porád konaných v rámci Rady, vypracúva materiály alebo pomáha pri príprave materiálov na zasadania orgánov Rady v súlade s plánmi práce týchto orgánov poskytuje operatívnu súčinnosť orgánom Rady v období medzi ich zasadaniami na dojednanie posudzovaných otázok a plní funkciu sekretariátu ostatných orgánov Rady;
 
       - b) zostavuje ekonomické prehľady a uskutočňuje ekonomické štúdie na základe materiálov členských štátov Rady; vypracúva a zverejňuje informačné a iné materiály o otázkach hospodárskej a vedeckotechnickej spolupráce členských štátov Rady a vypracúva tiež aj iné prehľady a štúdie;
 
       - c) vypracúva návrhy k jednotlivým otázkam práce Rady za účelom ich prerokovania v príslušných orgánoch Rady;
 
-      - d) vypracúva alebo spolupôsobí pri vypracovaní návrhov mnohostranných dohôd o hospodárskej a vedeckotechnickej spolupráci podľa odporúčaní a rozhodnutí orgánov Rady;
+      - d) vypracúva alebo spolupôsobí pri vypracovaní návrhov mnohostranných dohôd o hospodárskej a vedeckotechnickej spolupráci podľa odporúčaní a rozhodnutí orgánov Rady ako aj dojednania dosiahnuté v rámci týchto orgánov;
 
-      - e) organizuje a vedie evidenciu plnenia odporúčaní a rozhodnutí orgánov Rady a vypracúva príslušné návrhy na ich prerokovanie;
+      - e) organizuje a vedie evidenciu plnenia odporúčaní a rozhodnutí orgánov Rady ako aj dojednaní dosiahnutých v rámci týchto orgánov a vypracúva príslušné návrhy na ich prerokovanie;
 
-      - f) vyvíja ďalšiu činnosť vyplývajúcu z tohto Štatútu, z odporúčaní a rozhodnutí Rady, ako aj zo Štatútu Sekretariátu Rady.
+      - f) napomáha komplexnú prípravu otázok prerokúvaných v orgánoch Rady a zopätie ich práce;
+
+      - g) vyvíja ďalšiu činnosť vyplývajúcu z tohto Štatútu, z odporúčaní a rozhodnutí Rady, ako aj zo Štatútu Sekretariátu Rady.
 
     - 3. Sekretár Rady, jeho námestníci a personál sekretariátu majú pri plnení svojich služobných povinností rovnaké postavenie ako pracovnici iných medzinárodných organizácií.
 
@@ -242,9 +250,13 @@
 
   - Článok XII Styky Rady s medzinárodnými organizáciami
 
-    - Rada vzájomnej hospodárskej pomoci môže nadväzovať a udržiavať styky s orgánmi OSN a s odbornými a inými medzinárodnými organizáciami.
+    - 1. Rada vzájomnej hospodárskej pomoci môže nadväzovať a udržiavať styky s orgánmi OSN a s odbornými a inými medzinárodnými organizáciami.
 
       - Povahu a formu týchto stykov určuje Rada podľa dojednania s príslušnými orgánmi OSN a medzinárodnými organizáciami, najmä tak, že s nimi uzaviera dohody.
+
+    - 2. Medzinárodné organizácie zriadené členskými štátmi Rady na uskutočňovanie spolupráce v jednotlivých oblastiach hospodárstva, vedy a techniky sa uvádzajú do zmluvného vzťahu k Rade.
+
+      - Rada koordinuje činnosť týchto organizácií s činnosťou Rady na základe dohôd, ktoré s nimi uzavrie.
 
   - Článok XIII Finančné veci
 
