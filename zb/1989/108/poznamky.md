@@ -1,1 +1,0 @@
-- 10) § 85 a 87 Zákonníka práce.
