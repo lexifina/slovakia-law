@@ -1,0 +1,1 @@
+Dr. Nejedlý v. r.
