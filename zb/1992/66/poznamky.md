@@ -28,7 +28,7 @@
 
 - 13) § 32 zákona Slovenskej národnej rady č. 204/1991 Zb. o Policajnom zbore Slovenskej republiky.
 
-- 14) Inštrukcia Ministerstva spravodlivosti Slovenskej republiky č. 1/1991 o ochrane utajovaných skutočností v rezorte MS SR.
+- 14) Napr. § 13 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona Národnej rady Slovenskej republiky č. 72/1995 Z. z.,§ 36 a 37 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona Národnej rady Slovenskej republiky č. 251/1994 Z. z.,§ 13 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 15) Výnos Ministerstva spravodlivosti Slovenskej republiky z 18. marca 1992 č. 90/1992-30 o nariaďovaní a odmeňovaní pracovnej pohotovosti sudcov, justičných čakateľov a pracovníkov odborného aparátu okresných a krajských súdov, reg. v čiastke 36/1992 Zb.
 
