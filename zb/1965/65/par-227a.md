@@ -1,7 +1,19 @@
 # § 227a
 
-(1) Pri uzavieraní pracovnej zmluvy môže organizácia s učňom uzavrieť dohodu, v ktorej sa učeň zaviaže, že po vykonaní záverečnej učňovskej skúšky, prípadne po uplynutí učebnej doby zotrvá v organizácii v pracovnom pomere po určitý čas, najdlhšie však 3 roky; do tejto doby sa nezapočítava doba základnej (náhradnej) vojenskej služby. Dohoda sa musí uzavrieť písomne, inak je neplatná.
+(1) Organizácia, pre ktorú sa žiak pripravuje na povolanie, môže so žiakom stredného odborného učilišťa (osobitného odborného učilišťa) uzavrieť dohodu, v ktorej sa žiak zaviaže, že po vykonaní záverečnej skúšky alebo maturitnej skúšky, prípadne po uplynutí doby štúdia (prípravy), zotrvá v organizácii v pracovnom pomere po určitú dobu, najviac však tri roky. Do doby zotrvania v pracovnom pomere sa nezapočítavajú doby uvedené v § 143 ods. 4. Dohoda sa môže uzavrieť len pri uzavieraní pracovnej zmluvy; musí sa uzavrieť písomne, inak je neplatná.
 
-(2) Ak iná organizácia uzavrie s pracovníkom v čase trvania jeho záväzku pracovnú zmluvu, je povinná organizácii, v ktorej bol pracovník v učebnom pomere, na jej žiadosť nahradiť primerané náklady vynaložené na jeho výchovu v učebnom pomere. Federálne Ministerstvo financií môže po dohode so zúčastnenými ústrednými orgánmi určiť druhy týchto nákladov a určiť výšku ich náhrady paušálnymi sumami.
+(2) Ak pracovníkovi vznikne v dobe, po ktorú sa zaviazal zotrvať v pracovnom pomere podľa predchádzajúceho odseku pracovný pomer, členský pomer k výrobnému družstvu alebo jednotnému roľníckemu družstvu alebo služobný pomer k inej organizácii, je táto organizácia povinná uhradiť predchádzajúcej organizácii pomernú časť primeraných nákladov na jeho výchovu v učebnom alebo študijnom odbore. To isté platí, ak pracovníkovi vznikne v tejto dobe niektorý z uvedených pracovných vzťahov v ďalšej organizácii (v ďalších organizáciách).
 
-(3) Povinnosť organizácie uhrádzať náklady podľa predchádzajúceho odseku sa pomerne zníži, ak pracovník nesplnil záväzok podľa odseku 1 iba čiastočne. Povinnosť organizácie uhrádzať tieto náklady nevzniká, ak organizácia, v ktorej bol pracovník v učebnom pomere, netrvá na splnení záväzku vyplývajúceho z uzavretej dohody alebo ak pracovník rozviaže pracovný pomer výpoveďou z dôvodov uvedených v § 51 ods. 1 písm. c) alebo d) alebo ak zruší pracovný pomer okamžite (§ 54).
+(3) Uhrádzajú sa primerané náklady za celý čas výchovy v strednom odbornom učilište (osobitnom odbornom učilišti). Pomerná časť primeraných nákladov je ich časť, ktorá zodpovedá nesplnenej dobe záväzku.
+
+(4) Povinnosť organizácie uhradiť náklady nevzniká, ak
+
+- a) táto organizácia zamestnáva pracovníka v dobe trvania jeho záväzku v pracovnom pomere podľa § 25 ods. 2,
+
+- b) pracovník nemôže vykonávať podľa lekárskeho posudku alebo rozhodnutia orgánu štátnej zdravotníckej správy alebo sociálneho zabezpečenia povolanie, pre ktoré sa pripravoval, prípadne doterajšiu prácu z dôvodov uvedených v § 46 ods. 1 písm. d) a § 54,
+
+- c) predchádzajúca organizácia porušuje podstatnú povinnosť, ktorú má voči pracovníkovi podľa pracovnej alebo kolektívnej zmluvy alebo právnych predpisov,
+
+- d) pracovník nasleduje manžela do miesta jeho bydliska alebo mladistvý pracovník nasleduje rodičov do miesta ich nového bydliska,
+
+- e) predchádzajúca organizácia rozviaže s pracovníkom pracovný pomer.

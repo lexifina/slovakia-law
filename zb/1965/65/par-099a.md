@@ -1,3 +1,3 @@
 # § 99a
 
-Vláda Československej socialistickej republiky môže po dohode s Ústrednou radou Československého odborového hnutia upraviť pre niektoré skupiny pracovníkov pôsobnosť závodných výborov pri hromadných úpravách pracovného času odchylne od ustanovení obsiahnutých v tejto hlave.
+Vláda Československej socialistickej republiky môže po dohode s Ústrednou radou Československého odborového hnutia ustanoviť nariadením pre niektoré skupiny pracovníkov pôsobnosť príslušných odborových orgánov pri hromadných úpravách pracovného času odchylne od ustanovení obsiahnutých v tejto hlave.
