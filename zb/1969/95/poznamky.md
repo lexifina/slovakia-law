@@ -1,0 +1,1 @@
+- *) České znenie Predpisov č. 4, 6, 7 a 8 možno tiež objednať pod č. 0188524/28007, 0222957/32917, 0222958/32918, 0222139/32805 v ÚVTEI, Praha 1, Konviktská č.5.
