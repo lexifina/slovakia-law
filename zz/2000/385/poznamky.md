@@ -22,6 +22,8 @@
 
 - 5a) § 26 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
+- 5b) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
+
 - 6) Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
 
 - 7) § 36 ods. 1 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
