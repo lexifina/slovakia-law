@@ -1,0 +1,1 @@
+Príloha k vyhláške MF SR č. 24/1993 Z. z. [Vzor - Uplatnenie nároku na odpočet dane z obratu alebo dovoznej dane pri zásobách materiálu a tovaru pri prechode na systém dane z pridanej hodnoty](../assets/6c5cb883f74f11b4e27f2d47e6e439061e889989dbaf86e990af655691539206.pdf)
