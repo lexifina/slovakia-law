@@ -26,6 +26,8 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - 2. | | Výrobky a výkony na vývoz dodávané občanmi podľa § 11 a § 12 organizáciám, prípadne občanom oprávneným na zahraničnoobchodnú činnosť - uplatňujú sa zmluvné kúpne ceny.
 
+- 3. | | Nájom a podnájom nebytových priestorov (ďalej len „nájom") vo vlastníctve občanov; cena (ďalej len „nájomné") včítane služieb spojených s nájmom sa dojednáva v rámci maximálnych cien spôsobom a za podmienok ustanovených v položke č. 252a. II. časti zoznamu.
+
 - II. Časť | |
 
 - Výrobky a výkony dodávané organizáciami | |
@@ -430,7 +432,7 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - 154. | 903 1 | Reštauračné stravovanie v prevádzkárňach výberovej, I. a II. skupiny, zaradených do kategórie a skupiny podľa odborovej normy ON 73 5413
 
-- 155. | | Vedľajšie služby poskytované v zariadeniach reštauračného stravovania a prechodného ubytovania, zaradených do kategórie, triedy a skupiny podľa odborových noriem ON 73 5412 včítane dodatku a ON 73 5413. V prípade prenájmu miestnosti za účelom konania akcie organizácie alebo orgánu Národného frontu, politickej strany alebo občianskej iniciatívy registrovanej príslušným ministerstvom vnútra platí pre dojednanie ceny ustanovenie položky 252
+- 155. | | Vedľajšie služby poskytované v zariadeniach reštauračného stravovania a prechodného ubytovania, zaradených do kategórie, triedy a skupiny podľa odborových noriem ON 73 5412 včítane dodatku a ON 73 5413.
 
 - 156. | 905 5 | Spravodajstvo a informácie poskytované ČTK
 
@@ -762,9 +764,27 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - | | oceňované podľa cenníka VC - 20/ 100/89. Cena sa dojednáva podľa nákladov vynaložených na ďalšie odovzdanie, t. j. vyhľadanie, vyhotovenie, prípadnú úpravu, technický dohľad a pod. a podľa dohodnutej časti ekonomického prínosu vznikajúceho u odberateľa
 
-- 251. | | Odplatné prevody vlastníctva alebo práva hospodárenia k nehnuteľnosti medzi socialistickými organizáciami - nehnuteľnosťou sa na potreby tejto vyhlášky rozumejú pozemky, trvalé porasty, vodné plochy a stavby prevádzané medzi socialistickými organizáciami podľa desiatej časti Hospodárskeho zákonníka
+- 251. | | Odplatné prevody vlastníctva alebo práva hospodárenia k nehnuteľnosti, ak osobitné predpisy neustanovujú inak;<sup>48a</sup>) ak ide o prevod na česko-slovenský subjekt so zahraničnou účasťou alebo iný než česko-slovenský subjekt, je zmluvná cena platná až po jej registrácii<sup>48b</sup>) Ministerstvom financií, cien a miezd Českej republiky alebo Ministerstvom financií, cien a miezd Slovenskej republiky podľa sídla nehnuteľnosti. Nehnuteľnosťou sa pre potreby tejto vyhlášky rozumejú pozemky, trvalé porasty, vodné plochy a stavby už používané
 
-- 252. | | Odplatné užívanie nehnuteľností medzi socialistickými organizáciami včítane služieb s užívaním spojených, ak nie je osobitnými predpismi ustanovené inak;<sup>49</sup>) pri odplatnom užívaní nehnuteľností za účelom konať akcie organizácie alebo orgánu Národného frontu, politickej strany alebo občianskej iniciatívy registrovanej príslušným ministerstvom vnútra (napr. schôdze, voľby, slávnostné zasadanie) nesmie dojednaná cena presiahnuť výšku úplných vlastných nákladov a zisk vo výške 10 % týchto nákladov. Toto obmedzenie sa netýka akcií zábavného charakteru, pri ktorých sa vyberá vstupné
+- 252. | | Odplatné užívanie nehnuteľností včítane služieb s ním spojených, ak osobitné predpisy<sup>49</sup>) neustanovujú inak a okrem nájmu nebytových priestorov oceňovaného podľa položky č. 252a. tohto zoznamu
+
+- 252a. | | 1. Nájom nebytových priestorov včítane služieb s ním spojených. Nájomné podľa tejto položky platí pre všetky formy vlastníctva, ako aj práva hospodárenia s nebytovými priestormi, pokiaľ sú prenajímateľmi česko-slovenské subjekty. V prípade prenájmu cudzím štátnym občanom, zahraničným právnickým osobám, právnickým osobám so zahraničnou účasťou sa nájomné dojednáva dohodou.<sup>49a</sup>)S rozpočtovými a príspevkovými oragnizáciami možno zmenu dosiaľ platného nájomného dojednať až na obdobie od 1. januára 1991.
+
+- | | 2. Nájomné (bez pripočítania ceny služieb) sa dojednáva v rámci maximálnej výšky vypočítanej z ročných sadzieb za 1 m<sup>2</sup> podlahovej plochy nebytového priestoru, ktoré sú na účely
+
+- | | a) obchodné, reštauračné, reprezentačné, školské, zdravotnícke, kancelárske a ďalšie priestory podobných úžitkových vlastností..... 190,- Kčs
+
+- | | b) výrobné, dielenské, skladové a na účely garáží a ďalšie priestory podobných úžitkových vlastností................................. 165,- Kčs
+
+- | | c) spoločenské, kultúrne a ďalšie priestory podobných úžitkových vlastností................................................................... 130,- Kčs
+
+- | | d) ostatné nebytové priestory, predovšetkým provizóriá.....96,- Kčs
+
+- | | 3. Nájomné za užívanie ateliérov umelcami<sup>49b</sup>)sa dojednáva do výšky maximálnych cien, ktorými sú ceny určené podľa predpisu o úhrade za užívanie bytov.<sup>49c</sup>)
+
+- | | 4. Ceny služieb spojených s užívaním nebytového priestoru sa dojednávajú v prípadoch, keď pre príslušný výkon nie sú ceny určené.
+
+- | | 5. Miestny národný výbor môže s prihliadnutím na atraktivitu prostredia alebo výhodnosti polohy nebytového priestoru určiť objekty, prípadne lokality, kde možno dojednať nájomné bez obmedzenia uvedeného v odseku 2.
 
 - 253. | | Príležitostný predaj výrobkov, ktorým sa rozumie ojedinelý predaj plnohodnotného výrobku, ktorý organizácia pôvodne nakúpila pre svoju potrebu alebo nakúpila a dodala podľa požiadaviek inej organizácie. Ceny sa dojednávajú v rámci maximálnych cien, ktorými sú určené alebo dojednané ceny, za ktoré sa výrobky pôvodne nakúpili, zvýšené o zaplatenú daň z obratu alebo odbytovú prirážku a ďalej prirážku na krytie všetkých nákladov s príležitostným predajom spojených, najviac 3 % z pôvodnej ceny. Pri predaji občanom je maximálnou vždy maloobchodná cena, určená alebo zaplatená zmluvná maloobchodná cena, a pokiaľ nebola maloobchodná cena dosiaľ určená alebo dojednaná, je maximálnou cenou veľkoobchodná cena s daňou z obratu. Pri výrobku, ktorého pôvodná veľkoobchodná cena nie je uvedená v cenníku alebo nie je pôvodne dojednaná cena už známa, je maximálnou veľkoobchodnou cenou tá, ktorou je výrobok ocenený v evidencii podniku
 
@@ -976,11 +996,13 @@ Príloha vyhlášky č. 35/1990 Zb.
 
 - <sup>47</sup>) Ceny podľa Cenníka VC – 4/2/88 – I. diel a Cenníka VC – 5/2/88 – I. diel, prepočítané určeným indexom.
 
-- <sup>48</sup>) Cenník NC – VC – 30/19/89
+- <sup>48</sup>) Cenník NC – VC – 30/19/89 <sup>48a</sup>)Vyhláška Ministerstva financií, cien a miezd Českej socialistickej republiky č. 182/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov.
 
-- <sup>49</sup>) Vyhláška č. 200/1956 Ú. l. (Ú. v.) o nájomnom z pozemkov, na ktorých sa ťažia piesky. Vyhláška č. 119/1988 Zb. o hospodárení s národným majetkom. Vyhláška č. 98/1967 Zb. o úhrade za užívanie nebytových priestorov.
+- Vyhláška Ministerstva financií, cien a miezd Slovenskej socialistickej republiky č. 205/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a o náhradách za dočasné užívanie pozemkov.
 
-- <sup>50</sup>) Vyhláška č. 4/1967 Zb. o ochrane a o dobe, spôsobe a podmienkach lovu niektorých druhov zveri v znení vyhlášok č. 10/1975 Zb. a č. 172/1975 Zb.
+- Vyhláška Federálneho ministerstva financií č. 122/1984 Zb. o náhradách pri vyvlastnení stavieb, pozemkov, porastov a práv k nim.
+
+- Vyhláška Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky, Českého cenového úradu a Slovenského cenového úradu č. 47/1978 Zb. o predaji bytov z národného majetku občanom a o finančnej pomoci pri modernizácii zakúpených bytov v znení neskorších predpisov.<sup>48b</sup>) § 6 nariadenia vlády Československej socialistickej republiky č. 112/1985 Zb. o štátnom riadení cien.<sup>49</sup>) Vyhláška č. 200/1956 Ú. l. o nájomnom z pozemkov, na ktorých sa ťažia piesky. Vyhláška č. 119/1988 Zb. o hospodárení s národným majetkom<sup>49a</sup>) § 7 zákona č. 116/1990 Zb. o nájme a podnájme nebytových priestorov.<sup>49b</sup>) Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon).<sup>49c</sup>) Vyhláška č. 60/1964 Zb. o úhrade za užívanie bytu a za služby spojené s užívaním bytu v znení neskorších predpisov.<sup>50</sup>) Vyhláška č. 4/1967 Zb. o ochrane a o dobe, spôsobe a podmienkach lovu niektorých druhov zveri v znení vyhlášok č. 10/1975 Zb. a č. 172/1975 Zb.
 
 - <sup>51</sup>) Podľa platných predpisov Federálneho ministerstva zahraničného obchodu a Federálneho ministerstva financií.
 
