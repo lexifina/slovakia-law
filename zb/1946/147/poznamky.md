@@ -1,0 +1,1 @@
+- *) Změny provedené předpisy, které vládní nařízení č. 15/1927 Sb. mění a doplňují, nabývají účinnosti dnem stanoveným v těchto předpisech.
