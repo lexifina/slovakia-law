@@ -1,4 +1,4 @@
-# § 250b Nepovolená prevádzka lotérií a iných podobných hier
+# § 250d Nepovolená prevádzka lotérií a iných podobných hier
 
 (1) Kto bez povolenia prevádzkuje lotériu alebo inú podobnú hru, potresce sa odňatím slobody až na dva roky.
 
