@@ -4,9 +4,17 @@
 
 - 2a) § 2 ods. 1 a 2 a § 23 ods. 4 zákona č. 483/2001 Z. z.
 
-- 3) § 70 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
+- 2b) § 2 ods. 1 a 6 a § 21 ods. 1 prvá veta zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
 
-- 4) Zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
+- § 780 ods. 1 Občianskeho zákonníka.
+
+- § 709 ods. 1 a § 719a Obchodného zákonníka.
+
+- 2c) § 4 ods. 1 písm. g) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 3) § 70 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení zákona č. 526/2002 Z. z.
+
+- 4) Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
 - 4a) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
 
@@ -22,7 +30,19 @@
 
 - 7a) § 2 zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. o rodnom čísle.
 
-- 7b) § 879d zákona č. 40/1964 Zb. Občianskeho zákonníka v znení zákona č. 261/2001 Z. z.
+- 7aa) Napríklad § 3a a § 27 až 33 Obchodného zákonníka, § 2 ods. 2 a § 10 a 11 zákona č. 34/2002 Z. z., § 9 ods. 1 a 2 a § 10 zákona č. 147/1997 Z. z., § 9 ods. 1 a 2 a § 11 zákona č. 213/1997 Z. z. v znení zákona č. 35/2002 Z. z., § 6, 7, 9 a 9a zákona č. 83/1990 Zb. v znení neskorších predpisov, § 6 ods. 1 a § 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov a § 5 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
+- 7b) § 782, 785, 879d a § 879e ods. 5 Občianskeho zákonníka.
+
+- 7c) § 25 až 49 zákona č. 385/1999 Z. z. v znení neskorších predpisov.
+
+- 7d) § 25 ods. 1 až 3 č. 429/2002 Z. z.
+
+- 7e) § 5 a 6 a § 8 písm. d) zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+
+- 7f) § 80 ods. 1, § 81 ods. 1 a 2 a § 82 ods. 1 zákona č. 566/2001 Z. z.
+
+- 7g) § 7 ods. 2 písm. a) a § 30 zákona č. 483/2001 Z. z.
 
 - 8) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
@@ -32,6 +52,8 @@
 
 - § 3 nariadenia vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
 
+- § 77 ods. 2 zákona č. 510/2002 Z. z.
+
 - 9b) Napríklad § 50 až 65 zákona č. 483/2001 Z. z.
 
 - 10) § 20 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
@@ -39,6 +61,8 @@
 - 11) § 53 až 62 zákona č. 483/2001 Z. z.
 
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 12a) § 2 až 30 zákona č. 510/2002 Z. z.
 
 - 13) § 15 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
@@ -54,27 +78,47 @@
 
 - 15a) § 682 až 691 Obchodného zákonníka v znení neskorších predpisov.
 
+- 15aa) § 54 a 55 zákona č. 483/2001 Z. z.
+
+- § 8, § 14 ods. 1 písm. a) a l) a § 50 ods. 3 písm. a) a ods. 4 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+
+- 15ab) Zákon č. 36/1967 Z. z. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
+
 - 15b) Zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
 
 - 15c) Zákon č. 381/1997 Z. z. o cestovných dokladoch.
 
-- 15d) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 70/1997 Z. z.
+- 15d) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15e) Napríklad § 784 Občianskeho zákonníka.
 
 - 15ea) § 492 a § 546 až 550 Občianskeho zákonníka.
 
+- 15eaa) § 7 ods. 3 a § 10 ods. 1 písm. d) zákona č. 428/2002 Z. z.
+
 - 15f) § 9 vyhlášky Ministerstva financií č. 47/1964 Zb. o peňažných službách občanom v znení vyhlášky Štátnej banky československej č. 31/1990 Zb.
 
-- 15g) Napríklad zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 15g) Napríklad zákon č. 431/2002 Z. z., zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
-- 16) Zákon č. 563/1991 Zb. o účtovníctve.
+- 15h) § 6 ods. 2 až 6 a § 46 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
+- § 13 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
+- 15i) § 2 ods. 3 a § 8 až 13 zákona č. 386/2002 Z. z.
+
+- 16) Zákon č. 431/2002 Z. z.
 
 - 17) § 36 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 17a) § 28 ods. 1 písm. a) až e) Obchodného zákonníka v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
 
-- 18) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
+- 18) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z.
+
+- 18a) § 4 ods. 1 písm. a), b) a c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
+
+- 18b) § 91 ods. 3 zákona č. 483/2001 Z. z.
+
+- 18c) § 2 ods. 1 Obchodného zákonníka.
 
 - 19) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
