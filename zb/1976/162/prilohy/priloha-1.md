@@ -200,11 +200,7 @@
 
 - a) pred iným miestnym národným výborom povereným viesť matriky, než je miestny národný výbor uvedený v § 4 ods. 1 zákona č. 94/1963 Zb. o rodine | Kčs 100,- až 500,-
 
-- b) pred československým zastupiteľským úradom |
-
-- - ak manželstvo uzavierajú československí štátni občania zdržiavajúci sa mimo územia ČSSR zo služobných dôvodov | Kčs 100,- až 500,-
-
-- - v ostatných prípadoch | Kčs 300,- až 1500,-
+- b) zrušené od 1. 4. 1986 |
 
 - Oslobodenie pri položkách 18 a 19: Od poplatku sú oslobodené poplatné úkony podľa položiek 18 a 19, ak život toho, kto chce uzavrieť manželstvo, je priamo ohrozený (§ 4 ods. 3 zákona č. 94/1963 Zb.). |
 
@@ -492,7 +488,7 @@
 
 - a) cestnej dopravy osôb alebo nákladov<sup>1</sup>) pre československého alebo zahraničného prevádzateľa cestnej dopravy: |
 
-- 1. na jednu prepravu | Kčs 50,- až 2 000,-
+- 1. na jednu prepravu | Kčs 50,- až 3 000,-
 
 - 2. na viacej prepráv alebo na určité časové obdobie | Kčs 200,- až 10 000,-
 
@@ -500,27 +496,27 @@
 
 - b) vnútroštátneho zasielateľstva<sup>2</sup>) | Kčs 200,- až 2 000,-
 
-- Oslobodenie: 1. Od poplatku vyberaného podľa písmena a) tejto položky je oslobodená preprava osôb na pracovisko pri lesných a poľnohospodárskych prácach, a to včítane prepravy viacerých než 6 osôb v ložnom priestore motorového vozidla určeného na nákladnú dopravu, nepravidelná preprava osôb pri zabezpečovaní brigádnických prác a nepravidelná preprava osôb a telovýchovného inventára, ak sa tým zabezpečuje plnenie plánu rozvoja telovýchovy a športu. 2. Od poplatku podľa písmena a) tejto položky sú oslobodené povolenia na vykonávanie mestskej hromadnej dopravy a povoelnia na vykonávanie taxislužby organizáciami riadenými národnými výbormi. |
+- Oslobodenie: 1. Od poplatku vyberaného podľa písmena a) tejto položky je oslobodená preprava osôb na pracovisko pri lesných a poľnohospodárskych prácach, a to včítane prepravy viacerých než 6 osôb v ložnom priestore motorového vozidla určeného na nákladnú dopravu, nepravidelná preprava osôb pri zabezpečovaní brigádnických prác a nepravidelná preprava osôb a telovýchovného inventára, ak sa tým zabezpečuje plnenie plánu rozvoja telovýchovy a športu. 2. Od poplatku podľa písmena a) tejto položky sú oslobodené povolenia na vykonávanie mestskej hromadnej dopravy a povolenia na vykonávanie taxislužby organizáciami riadenými národnými výbormi. |
 
-- Splnomocnenie: 1. Správny orgán môže od poplatku upustiť, ak ide o prepravu poľnohospodárskych výrobkov a potrieb vykonávanú v zmysle ustanovenia § 136 až 151 vyhlášky č. 123/1976 Zb., posypových hmôt a pri mimoriadnych dopravách tuhých palív. 2. Správny orgán môže na základe vzájomnosti od vybrania poplatku upustiť alebo poplatok znížiť. V odôvodnených prípadoch, najmä z hľadiska zabezpečenia zásad prepravnej politiky, dodržania zásad vzájomnosti a pod., možno hornú hranicu poplatkov uvedených v tejto položke pod písmenom a) bodom 1 a bodom 3 zvýšiť až na dvojnásobok. 3. Za dodatočne vydané povolenie na dopravu môže správny orgán vyrubiť poplatok až do výšky dvojnásobku hornej hranice sadzby. |
+- Splnomocnenie: 1. Správny orgán môže od poplatku upustiť, ak ide o prepravu poľnohospodárskych výrobkov a potrieb vykonávanú v zmysle ustanovenia § 37 až 41 vyhlášky č. 73/1985 Zb. o základných podmienkach dodávky poľnohospodárskych výrobkov a poľnohospodárskych potrieb, posypových hmôt a pri mimoriadnych dopravách tuhých palív. 2. Správny orgán môže na základe vzájomnosti od vybrania poplatku upustiť alebo poplatok znížiť. V odôvodnených prípadoch, najmä z hľadiska zabezpečenia zásad prepravnej politiky, dodržania zásad vzájomnosti a pod., možno hornú hranicu poplatkov uvedených v tejto položke pod písmenom a) bodom 1 a bodom 3 zvýšiť až na dvojnásobok. 3. Za dodatočne vydané povolenie na dopravu môže správny orgán vyrubiť poplatok až do výšky trojnásobku hornej hranice sadzby. |
 
-- Poznámky: 1. Podľa písmena a) tejto položky sa vyberie poplatok aj za vydanie povolenia na prepravu viacerých ako 6 osôb v ložnom priestore motorového vozidla určeného na nákladnú dopravu. 2. Za preskúmanie technickej spôsobilosti nákladného automobilu na prepravu viacerých ako 6 osôb v ložnom priestore s vyhotovením záznamu do dokladov sa vyberie poplatok podľa položky 35 písmena b). |
+- Poznámky: 1. Podľa písmena a) tejto položky sa vyberie poplatok aj za vydanie povolenia na prepravu viacerých ako 6 osôb v ložnom priestore motorového vozidla určeného na nákladnú dopravu. 2. Za preskúmanie technickej spôsobilosti nákladného automobilu na prepravu viacerých ako 6 osôb v ložnom priestore s vyhotovením záznamu do dokladov sa vyberie poplatok podľa položky 35 písmena b). 3. Výšku poplatku v rámci sadzby ustanovenej rozpätím určí správny orgán najmä podľa rozsahu, doby trvania, obťažnosti a závažnosti úkonu so súhlasom príslušného ministerstva financií. 4. Povolenie sa odovzdá (doručí) až po zaplatení poplatku podľa tejto položky. |
 
   - Položka 39:
 
-- Povolenie na zvláštne používanie diaľníc, ciest a miestnych komunikácií I., II. a III. triedy (osobitné povolenie) pri preprave mimoriadne ťažkých a rozmerných predmetov a na používanie vozidiel, ktorých rozmer alebo váha presahuje mieru určenú osobitnými predpismi |
+- Povolenie na zvláštne užívanie diaľníc, ciest a miestnych komunikácií pri prepravách nadmieru ťažkých alebo rozmerných predmetov a na používanie vozidiel, ktorých rozmery alebo hmotnosť presahujú mieru ustanovenú osobitnými predpismi |
 
-- a) pri doprave v obvode jedného okresu | Kčs 100,-
+- a) pri doprave v obvode jedného okresu | Kčs 200,- až 2000,-
 
-- b) pri doprave presahujúcej územie obvodu jedného okresu | Kčs 200,-
+- b) pri doprave presahujúcej územie jedného okresu | Kčs 600,- až 6000,-
 
-- c) pri medzinárodnej doprave po území ČSSR | Kčs 400,- až 5000,-
+- c) pri medzinárodnej doprave a v rámci medzinárodnej dopravy | Kčs 1000,- až 120 000,-
 
-- Oslobodenie: Od poplatku sú oslobodené povolenia pre vozidlá dopravujúce lesné alebo poľnohospodárske výrobky a pri preprave poľnohospodárskych strojov. |
+- Oslobodenie: Od poplatku podľa písmena b) tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti so žatevnými prácami. |
 
-- Splnomocnenie: 1. Správny orgán môže poplatok vyberaný podľa písmena c) tejto položky znížiť alebo od jeho vyberania upustiť na základe vzájomnosti. 2. Ak sa vodič motorového vozidla patriaceho zahraničnému podniku (podnikateľovi) nepreukáže pri vstupe a výstupe z územia ČSSR osobitným povolením, môže správny orgán zvýšiť poplatok podľa písmena c) až na dvojnásobok hornej hranice sadzby. |
+- Splnomocnenie: 1. Správny orgán môže poplatok podľa písmena c) tejto položky znížiť alebo od jeho vybratia upustiť na základe vzájomnosti. V odôvodnených prípadoch najmä z hľadiska zabezpečenia zásad prepravnej politiky môže hornú hranicu sadzby poplatku zvýšiť až na dvojnásobok.2. Za dodatočne vydávané povolenie môže správny orgán zvýšiť hornú hranicu sadzby poplatku až na dvojnásobok. |
 
-- Poznámky: 1. Pokiaľ sa doprava uskutočňuje po diaľnici (trebás len čiastočne), vyberá poplatok Federálne ministerstvo dopravy. V ostatných prípadoch vyberie poplatok ONV pri doprave v obvode jedného okresu a KNV pri doprave presahujúcej územie obvodu jedného okresu, a to aj v prípade, že doprava presahuje jeho územie. 2. Poplatok podľa písmena c) sa určuje v rámci rozpätia s prihliadnutím na prepravnú vzdialenosť, na hmotnosť a rozmery nákladu alebo vozidla. |
+- Poznámky: 1. Výšku poplatkov v rámci sadzby ustanovenej rozpätím určí Federálne ministerstvo dopravy, Ministerstvo vnútra ČSR a Ministerstvo vnútra SSR najmä podľa rozsahu, doby trvania, obťažnosti a závažnosti úkonu so súhlasom príslušného ministerstva financií.2. Povoleniami podľa tejto položky sa rozumejú povolenia podľa § 11 ods. 1 písm. a) vyhlášky č. 35/1984 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon).3. Povolenie sa odovzdá (doručí) až po zaplatení poplatku podľa tejto položky, s výnimkou dodatočne vydávaných povolení. |
 
   - Položka 40:
 
@@ -766,27 +762,39 @@
 
   - Položka 63:
 
-- a) Vydanie povolenia na neobchodný vývoz vecí | 3 % až 500 %, najmenej však Kčs 20,-
+- a) Vydanie povolenia na neobchodný vývoz vecí | 3 % až 150 % najmenej Kčs 20,-
 
-- b) Predĺženie platnosti povolenia uvedeného pod písmenom a) | Kčs 20,-
+- b) Predĺženie platnosti povolenia na neobchodný vývoz | Kčs 20,-
 
-- c) Povolenie podľa zákona o devízovom hospodárstve | 3 % až 500 %, najmenej však Kčs 20,-
+- c) Predĺženie platnosti colného dokladu | Kčs 10,- až 100,-
 
-- d) Predĺženie platnosti colného dokladu | Kčs 10,- až 100,-
+- d) Overenie obchodných dokladov pre zahraničné orgány | Kčs 10,- až 100,-
 
-- e) Overenie obchodných dokladov pre zahraničné orgány | Kčs 10,- až 100,-
+- Oslobodenie: Od poplatku podľa písmena a) a b) tejto položky sú oslobodené medzinárodné organizácie so sídlom v ČSSR a Československý Červený kríž, ak ide o neobchodný vývoz vecí v rámci ich činnosti. |
 
-- Oslobodenie: 1. Od poplatku sú oslobodené medzinárodné organizácie so sídlom v ČSSR, ak ide o vývoz alebo dovoz vecných darov v rámci ich činnosti. 2. Od poplatku vyberaného podľa písmena a) a písmena b) tejto položky je oslobodený Československý Červený kríž, ak ide o neobchodný vývoz vecí v rámci jeho činnosti. |
+- Splnomocnenie: Správny orgán môže poplatok podľa písmena a) tejto položky znížiť alebo od jeho vybratia upustiť na základe vzájomnosti. |
 
-- Splnomocnenie: Správny orgán môže poplatok vyberaný podľa tejto položky znížiť alebo od jeho vybrania upustiť na základe vzájomnosti. Z dôvodu všeobecného záujmu môže správny orgán poplatok určiť až vo výške dvojnásobku hornej hranice sadzby, prípadne poplatok znížiť alebo od jeho vybrania upustiť. |
-
-- Poznámky: 1. V ktorých prípadoch je potrebné povolenie na neobchodný vývoz, ustanovuje vyhláška č. 59/1980 Zb. o neobchodných vývozoch a dovozoch vecí. 2. Poplatok podľa písmena a) možno zaplatiť až pri vývoze. 3. Poplatok podľa písmena c) vyberá správny orgán len za povolenia v neobchodnej oblasti, pokiaľ sa udieľajú výhradne v záujme žiadateľa alebo pokiaľ súvisia aj s iným než devízovým konaním. |
+- Poznámky: 1. Poplatok podľa písmena a) tejto položky sa platí najneskoršie pri vývoze tovaru.2. Výšku poplatku v rámci sadzby ustanovenej rozpätím určí správny orgán najmä podľa rozsahu, doby trvania, obťažnosti a závažnosti úkonu so súhlasom príslušného ministerstva financií. |
 
   - Položka 63A:
 
 - Vydanie oprávnenia na dovoz, vývoz a tranzit rádiových staníc | Kčs 120,-
 
 - Poznámka: Za vydanie oprávnenia československým zastupiteľským úradom sa poplatok vyberie vo výške 40 % určenej sadzby. |
+
+  - Položka 63 B:
+
+  - Povolenia udeľované podľa zákona o devízovom hospodárstve 3 % až 150 % najmenej Kčs 20,-
+
+  - Splnomocnenie:
+
+  - Správny orgán môže poplatok podľa tejto položky znížiť alebo od jeho vybratia upustiť na základe vzájomnosti.
+
+    - Poznámky:
+
+      - 1. Výšku poplatku v rámci sadzby ustanovenej rozpätím určí správny orgán najmä podľa rozsahu, doby trvania, obťažnosti a závažnosti úkonu so súhlasom príslušného ministerstva financií.
+
+      - 2. Poplatok podľa tejto položky vyberá správny orgán len za povolenia v neobchodnej oblasti,<sup>1</sup>) pokiaľ sa udeľujú výhradne v záujme žiadateľa.
 
   - Položka 64:
 
@@ -802,19 +810,29 @@
 
   - Položka 66:
 
-- Povolenie remeslnej a obchodnej činnosti<sup>8</sup>) alebo drobnej živnosti | Kčs 20,- až 500,-
+- Vydanie povolenia občanom na vykonávanie služieb, na predaj tovaru alebo na inú činnosť | Kčs 20,- až 500,-
+
+- Splnomocnenie:Ak správny orgán vydáva povolenie dodatočne (po začatí tejto činnosti bez povolenia), zvyšuje sa sadzba poplatku na dvojnásobok. |
 
   - Položka 67:
 
-- Za podanie žiadosti o vydanie alebo predĺženie povolenia |
+- a) Vydanie alebo predĺženie povolenia |
 
-- - na zriadenie obchodného zastupiteľstva zahraničným osobám<sup>3</sup>) | Kčs 1000,- až 10 0000,-
+- - na zriadenie obchodného zastupiteľstva zahraničným osobám<sup>2</sup>) | Kčs 1000,- až 10 000,-
 
 - - na zahraničnoobchodnú činnosť | Kčs 1000,- až 10 000,-
 
-- - na poskytovanie zahranično-hospodárskych služieb | Kčs 1000,- až 10 000,-
+- - na poskytovanie zahraničnohospodárskych služieb | Kčs 1000,- až 10 000,-
 
-- Splnomocnenie: Podľa zásady vzájomnosti alebo z dôvodu všeobecného záujmu môže správny orgán od vybrania poplatku upustiť alebo ho znížiť. |
+- b) Vydanie súhlasu so začatím konania o obsahu licenčnej zmluvy | Kčs 50,- až 500,-
+
+- c) Vydanie povolenia na uzavretie licenčnej zmluvy | Kčs 1000,- až 10 000,-
+
+- Oslobodenie:Od poplatku podľa tejto položky sú oslobodené československé socialistické organizácie. |
+
+- Splnomocnenie: Podľa zásad vzájomnosti alebo z dôvodu všeobecného záujmu môže správny orgán od vybratia poplatku podľa tejto položky upustiť alebo ho znížiť. V odôvodnených prípadoch môže správny orgán zvýšiť hornú hranicu sadzby poplatkov podľa tejto položky až na dvojnásobok. |
+
+- Poznámky:1. Poplatok podľa písmena a) tejto položky je splatný pred registráciou povolenia.2. Výšku poplatku v rámci sadzby ustanovenej rozpätím určí správny orgán najmä podľa rozsahu, doby trvania, obťažnosti a závažnosti úkonu so súhlasom príslušného ministerstva financií. |
 
   - SADZOBNÍK II
 
@@ -828,137 +846,107 @@
 
   - Konzulárne poplatky
 
-  - Splnomocnenie pre celý oddiel
+  - Splnomocnenie pre oddiel A
 
-  - Federálne ministerstvo zahraničných vecí a československé zastupiteľské úrady môžu poplatky nimi vyberané znížiť alebo od vybrania upustiť z dôvodu vzájomnosti alebo z dôvodu všeobecného záujmu.
+  - Správne orgány vyrubujúce a vyberajúce poplatky podľa tejto časti sadzobníka môžu ustanovenú sadzbu poplatku znížiť alebo upustiť od vybratia poplatku z dôvodu vzájomnosti, z dôvodu všeobecného záujmu alebo vo vzťahu k devízovému tuzemcovi.
 
-  - Poznámky spoločné pre celý oddiel:
+  - Poznámky pre oddiel A
 
-  - 1. Poplatky podľa tohto oddielu vyrubujú a vyberajú Federálne ministerstvo zahraničných vecí a československé zastupiteľské úrady, pokiaľ jednotlivé položky a poznámky k nim neustanovujú inak.
+  - 1. Poplatky podľa tejto časti sadzobníka vyrubujú a vyberajú Federálne ministerstvo zahraničných vecí, československé zastupiteľské úrady a ďalšie správne orgány, ak tak ustanovujú jednotlivé položky.
 
-  - 2. Pri vyrubovaní a platení konzulárnych poplatkov sa prepočítavajú československé koruny na cudzie meny a naopak v prepočítavacom pomere určenom ŠBČS.
+  - 2. Československé zastupiteľské úrady a Federálne ministerstvo zahraničných vecí môžu podľa splnomocnenia pre túto časť postupovať a pri vyrubovaní a vyberaní poplatkov podľa položiek sadzobníka I.
+
+  - 3. Výšku poplatku v rámci sadzby ustanovenej rozpätím určí správny orgán najmä podľa rozsahu, doby trvania, obťažnosti a závažnosti úkonu so súhlasom príslušného ministerstva financií.
 
   - Položka 1:
 
-- Udelenie československého víza alebo predĺženie jeho platnosti | Kčs 20,- až 500,-
+- Udelenie československého víza alebo predĺženie jeho platnosti | Kčs 30,- až 1500,-
 
-- Oslobodenie: Od poplatku sú oslobodené a) diplomatické, služobné a osobitné víza, b) víza udelené významným osobám. |
+- Oslobodenie:Od poplatku sú oslobodené víza udeľované- do diplomatických, služobných a osobitných pasov, ak je zachovaná vzájomnosť,- významným osobám,- deťom do 15 rokov,- štátnym príslušníkom rozvojových štátov Ázie, Afriky, Strednej a Južnej Ameriky, ktorí do ČSSR prichádzajú na pozvanie Ústrednej rady odborov. |
 
-- Poznámka: Poplatok podľa tejto položky vyrubujú a vyberajú aj orgány federálneho ministerstva vnútra. |
+- Poznámky: 1. Správny orgán vyberie poplatok podľa tejto položky aj za povolenie na cestu do ČSSR.2. Poplatok podľa tejto položky vyberajú tiež útvary pasov a víz Zborov národnej bezpečnosti a orgány pasovej kontroly.3. Poplatok podľa tejto položky je splatný bez vyrubenia pred vykonaním úkonu. |
 
   - Položka 2:
 
-- Konanie o podaniach na československých zastupiteľských úradoch, ak nie je za úkony vyvolané podaním uložený osobitný poplatok | Kčs 5,- až 500,-
+- Vykonanie uzavretia manželstva československým zastupiteľským úradom | Kčs 300,- až 1500,-
 
-- Poznámka: Poplatok sa vyberie, aj keď žiadaný úkon bol bezvýsledný. |
+- Oslobodenie:Od poplatku podľa tejto položky sú oslobodení československí štátni občania zdržujúci sa služobne v zahraničí. |
 
   - Položka 3:
 
-- Vydanie zbrojného sprievodného listu o počte zbraní dovážaných do ČSSR za účelom poľovania alebo športových akcií za každú dovážanú alebo prevážanú zbraň | Kčs 40,-
+- Podanie žiadosti na československom zastupiteľskom úrade | Kčs 5,- až 1000,-
 
-- Oslobodenie: Od poplatku sú podľa tejto položky oslobodení cudzí štátni príslušníci, ktorí prídu do ČSSR na pozvanie ústredných straníckych a štátnych orgánov (vlády ČSSR, ČSR, SSR a ich členov, Federálneho zhromaždenia, ČNR, SNR) alebo sú hosťami ústredného výboru Českého poľovníckeho zväzu alebo Slovenského poľovníckeho zväzu so schválením príslušnými ministerstvami. Od poplatku sú ďalej oslobodení cudzí štátni príslušníci, ktorí sa zúčastnia na medzinárodných podujatiach plánovaných ÚV ČSTV v športovej streľbe. |
+- Poznámka:Podľa tejto položky sa nepostupuje, ak sa za požadovaný úkon vyrubuje a vyberá poplatok podľa inej položky tohto oddielu alebo podľa položiek v sadzobníku I. |
 
   - Položka 4:
 
-- Vybranie pohľadávky, renty a pod., s výnimkou požitkov zo sociálneho zabezpečenia, alebo úhrn úkonov v konaní o dedičstvo (včítane intervencie na príslušných orgánoch, vymáhania priamo zastupiteľským úradom a doručenia) z vybranej sumy (ceny) alebo z čistej hodnoty dedičstva | 2 %, najmenej však Kčs 30,-
+- Vybratie pohľadávky, renty a pod. s výnimkou požitkov zo sociálneho zabezpečenia, úkony v konaní o dedičstve (včítane intervencie na príslušných orgánoch, vymáhania a doručenia dedičstva) z vybratej sumy (ceny) alebo z hodnoty dedičstva | 2 % najmenej Kčs 30,-
 
-- Poznámka: Za samotné prekročenie za účelom vybrania, ak dlžník poukáže platbu priamo veriteľovi (príjemcovi), sa vyberie poplatok podľa položky 2. |
+- Poznámky:1. Pokiaľ sa k žiadosti veriteľa (príjemcu) alebo dediča vykonáva iba úkon na zabezpečenie pohľadávky, renty alebo dedičstva, vyrubí sa poplatok podľa položky 3 tohto oddielu.2. Poplatok za úkony v konaní o dedičstve podľa tejto položky sa vyrubuje z hodnoty dedičstva nezníženej o honorár právneho zástupcu. |
 
   - Položka 5:
 
-- Doručenie peňazí, cenných papierov, vkladných knižiek a iných cenných predmetov z doručovanej sumy alebo z ceny doručovaného predmetu | 1 %, najmenej však Kčs 10,-
+- Úradná úschova |
+
+- - peňazí, cenných papierov, vkladných knižiek a iných cenných predmetov zo sumy alebo ceny predmetu za každý rok | 1% najmenej Kčs 100,-
+
+- - listín alebo spisov za každý rok | Kčs 10,- až 100,-
 
   - Položka 6:
 
-- Úradná úschova |
+- Spísanie písomností o právnych úkonoch, najmä zmlúv, závetov, plnomocenstiev a pod. | Kčs 25,- až 500,-
 
-- a) peňazí, cenných papierov, vkladných knižiek a iných predmetov za rok | Kčs 100,-
-
-- b) listín alebo spisov za rok | Kčs 10,-
-
-- Splnomocnenie: Správny orgán môže poplatok podľa písmena a) znížiť až na sumu 10,- Kčs za rok zo sociálnych dôvodov alebo z dôvodov všeobecného záujmu. |
+- Poznámka:Poplatok sa nevyberá za vyplnenie pasových, vízových a ďalších tlačív, ktoré slúžia na úradnú potrebu alebo na potrebu československého zastupiteľského úradu. |
 
   - Položka 7:
 
-- Spísanie písomností o právnych úkonoch, najmä zmlúv, závetov, plnomocenstiev a pod., ak nie je zaň uložený osobitný poplatok, z ceny predmetu | 0,5 %, najmenej však Kčs 25,-, najviac Kčs 400,-
-
-- Poznámka: Poplatok sa nevyberá za vyplnenie pasových, vízových a iných formulárov na úradnú potrebu. |
+- Vidovanie listín bez overenia | Kčs 30,- až 100,-
 
   - Položka 8:
 
-- Vidovanie listín bez overenia, ak nie je zaň uložený osobitný poplatok | Kčs 30,-
+- Overenie |
+
+- - podpisu na listine i na jej rovnopise za každý podpis | Kčs 30,- až 100,-
+
+- - úradných pečiatok a úradných podpisov (superlegalizácia) | Kčs 40,- až 500,-
 
   - Položka 9:
 
-- Overenie: |
+- a) Vyhotovenie odpisu (fotokópie) včítane overenia | Kčs 40,- až 120,-
 
-- a) podpisu | Kčs 30,-
+- b) Overenie správnosti odpisu (fotokópie) predloženého stránkou | Kčs 10,- až 100,-
 
-- b) úradných pečatí a úradných podpisov (superlegalizácia) | Kčs 40,- až 200,-
-
-- c) úradných pečatí a úradných podpisov aj s obstaraním legalizačnej doložky cudzieho úradu | Kčs 60,-
-
-- d) legalizácia alebo vidovanie obchodných listín (osvedčenia o pôvode tovaru a pod.) podľa zásady vzájomnosti vo výške, ktorú určí FMZV po dohode s FMZO a FMF, najmenej však | Kčs 40,-
-
-- e) lodných dokladov (lodného, strojného, zdravotného denníka, rádiodenníka, knihy kotlov, zoznamu posádky) | Kčs 60,-
-
-- f) druhého a každého ďalšieho podpisu súkromnej osoby na tej iste listine alebo overenie podpisu tej istej osoby na ďalších rovnopisoch tej istej listiny | Kčs 10,-
+- c) Overenie správnosti prekladu predloženého stránkou | Kčs 20,- až 100,-
 
   - Položka 10:
 
-- a) Vyhotovenie odpisu (fotokópie) s overením jeho správnosti, |
+- a) Vystavenie a doručenie matričného dokladu | Kčs 20,- až 500,-
 
-- - prvého, za každú aj len začatú stranu | Kčs 40,-
-
-- - druhého a každého ďalšieho, za každú aj len začatú stranu | Kčs 20,-
-
-- b) Overenie odpisu (fotokópie) predloženého stránkou, |
-
-- - prvého, za každú aj len začatú stranu listiny, ktorej odpis sa overuje | Kčs 20,-
-
-- - druhého a každého ďalšieho, za každú aj len začatú stranu listiny, ktorej odpis sa overuje | Kčs 10,-
-
-  - Položka 10A:
-
-- Za vystavenie a doručenie matričného dokladu | Kčs 20,- až 500,-
+- b) Vyhotovenie prekladu matričného dokladu a jeho overenie | Kčs 30,- až 120,-
 
   - Položka 11:
 
-- Vyhotovenie | Za každú aj len začatú stranu prekladu
+- Vyhotovenie prekladu spisového materiálu |
 
-- a) prekladu matrikového dokladu aj s jeho overením | Kčs 30,-
+- I. do českého alebo slovenského jazyka za každú i začatú stranu | Kčs 40,- až 100,-
 
-- b) prekladu iného spisového materiálu, než je uvedený pod písmenom a), s jeho overením |
+- II. z českého alebo slovenského jazyka za každú i začatú stranu | Kčs 50,- až 120,-
 
-- 1. z cudzieho jazyka do češtiny alebo slovenčiny | Kčs 40,-
+- III. z jedného cudzieho jazyka do druhého za každú i začatú stranu | Kčs 100,- až 200,-
 
-- 2. z češtiny alebo slovenčiny do cudzieho jazyka | Kčs 50,-
+- IV. z čínskeho, japonského, kórejského jazyka a iných znakových jazykov za každý slovný znak | Kčs 3,-
 
-- 3. z jedného cudzieho jazyka do druhého | Kčs 100,-
-
-- 4. z čínštiny alebo japončiny za každý slovný znaky | Kčs 1,-
-
-- 5. do čínštiny alebo japončiny za každý slovný znak | Kčs 2,-
-
-- c) bez overenia alebo za overenie správnosti prekladu predloženého stránkou | vo výške polovice sadzieb podľa písmena b)
-
-- d) za druhé a každé ďalšie vyhotovenie prekladu alebo overenie prekladu sa vyrubí poplatok vo výške | 30 % sadzieb uvedených pod písmenami a) alebo b)
-
-- Za preklad archívneho materiálu z latiny alebo zo starej nemčiny (pred rokom 1850) do češtiny alebo slovenčiny sa vyberá poplatok sadzbou podľa písmena d) bodu 3. |
-
-  - Položka 11A:
-
-- Za vystavenie a doručenie archívnej rešerše | Kčs 20,- až 2000,-
+- V. do čínskeho, japonského, kórejského jazyka a iných znakových jazykov za každý slovný znak | Kčs 5,-
 
   - Položka 12:
 
-- Vystavenie dočasného sprievodného listu o československej príslušnosti lode plávajúcej pod československou štátnou vlajkou | Kčs 300,-
-
-- Poznámka: Poplatok podľa tejto položky vyberá aj Federálne ministerstvo dopravy. |
+- Vystavenie a doručenie archívnej rešerše | Kčs 20,- až 2000,-
 
   - Položka 13:
 
-- Prevzatie námorného protestu od kapitána lode po príchode do prístavu, vyhotovenie protkolu o zapísaní poznámky v lodnom denníku o prevzatí námorného protestu | Kčs 200,-
+- Vydanie povolenia na prevoz alebo na dovoz každej zbrane alebo jej hlavnej časti alebo streliva | Kčs 40,- až 100,-
+
+- Oslobodenie:1. Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do ČSSR na pozvanie alebo so súhlasom ústredných straníckych alebo štátnych orgánov alebo sú hosťami Českého alebo Slovenského poľovníckeho zväzu, ak bolo pozvanie týchto hostí schválené príslušnými ministerstvami. Od poplatku sú ďalej oslobodené osoby, ktoré sa zúčastňujú medzinárodných akcií plánovaných ÚV ČSZTV v športovej streľbe.2. Od poplatku podľa tejto položky sú oslobodené povolenia na zbrane získané ako ceny v streleckých alebo podobných súťažiach. |
 
   - Oddiel B
 
@@ -1120,438 +1108,14 @@
 
   - Oddiel C
 
-  - ŠTÁTNA MIEROVÁ SLUŽBA
+  - Splnomocnenie pre oddiel C
 
-  - Splnomocnenie k celému oddielu
-
-  - 1. Orgán štátnej mierovej služby (štátnej metrológie) môže zvýšiť poplatok až na dvojnásobok základnej sadzby v prípadoch, keď sa o úradné overenie žiadalo oneskorene alebo doba platnosti úradného overenia predkladaného meradla uplynula a meradlo sa používalo v prevádzke alebo meradlo nebolo spôsobilé na úradné overenie z dôvodu zanedbania povinnej starostlivosti používateľom meradla.
-
-  - 2. Orgán štátnej mierovej služby môže poplatok zvýšiť podľa náročnosti skúšky až na dvojnásobok základnej sadzby, pokiaľ požadovaný rozsah skúšky presahuje rozsah ustanovený príslušným metrologickým predpisom.
-
-  - Overovanie vybraných prevádzkových meradiel
-
-  - Dĺžka
+  - Úrad pre normalizáciu a meranie môže zvýšiť poplatok až na dvojnásobok v prípadoch, keď sa o povolenie požiadalo oneskorene.
 
   - Položka 23:
 
-- Overenie: |
-
-- a) dĺžkových meradiel na strižný tovar | Kčs 5,-
-
-- b) meračských pásem určených na presné meranie |
-
-- - na meraciu dĺžku do 30 m | Kčs 200,-
-
-- - nad 30 m | sadzba Kčs 200,- sa zvyšuje o Kčs 50,- za každých i začatých 10 m
-
-- c) odvaľovacích a skladacích meracích zariadení na metrové a plošné textílie | Kčs 250,-
-
-- - prídavných zariadení | Kčs 100,-
-
-- d) taxametrov pri osobných a nákladných vozidlách taxislužby | Kčs 100,-
-
-- e) počítadiel kilometrov pri nájomných vozidlách požičovní automobilov | Kčs 100,-
-
-- Splnomocnenie: Ak orgán štátnej mierovej služby overuje na jednom vozidle taxameter aj počítadlo kilometrov, zvýši sadzbu poplatku určenú podľa písmena e) tejto položky o 50 %. |
-
-  - Plošný obsah
+- Povolenie dovozu meradla | Kčs 200,-
 
   - Položka 24:
 
-- Overenie stroja na meranie plochy usní | Kčs 240,-
-
-  - Hmotnosť
-
-  - Položka 25:
-
-- Overenie: |
-
-- a) obchodných závaží a špeciálnych závaží | Kčs 2, až 10,-
-
-- b) mostových váh pre cestné vozidlá | Kčs 200,- až 1000,-
-
-- c) mostových váh pre koľajové vozidlá | Kčs 400,- až 1000,-
-
-- d) váh na zisťovanie hmotnosti na os pri koľajových vozidlách | Kčs 600,-
-
-- e) bežných váh (3. triedy) používaných v obchodnom styku, dojčenských a zdravotníckych váh | Kčs 10,- až 300,-
-
-- f) presných váh (2. triedy) | Kčs 30,-
-
-- g) jemných váh (1. triedy) | Kčs 300,-
-
-- h) váh určených na kontrolu dávkovacích, baliacich a triediacich zariadení | Kčs 10,- až 300,-
-
-- ch) obilných skúšačov | Kčs 50,- až 80,-
-
-- i) váh na počítanie kusov a zisťovanie vlastností látok | Kčs 40,-
-
-- j) váh s automatickou činnosťou na váženie obilnín v obchodnom styku | Kčs 100,- až 300,-
-
-  - Mechanický pohyb
-
-  - Položka 26:
-
-- Overenie cestného radarového rýchlomeru | Kčs 400,-
-
-  - Sila, mechanické skúšky materiálu
-
-  - Položka 27:
-
-- Overenie: |
-
-- a) skúšobných trhacích strojov a lisov | Kčs 250 až 600,-
-
-- b) skúšobných kyvadlových kladív na skúšky vrubovej a nárazovej húževnatosti materiálov | Kčs 500,-
-
-- c) skúšobných strojov na dlhodobé skúšky tečenia materiálu | Kčs 300,-
-
-- Splnomocnenie: Ak orgán štátnej mierovej služby overuje univerzálny stroj v ťahu aj v tlaku, môže zvýšiť poplatok podľa písmena a) tejto položky až o 50 % hornej hranice sadzby. |
-
-  - Objem, prietok
-
-  - Položka 28:
-
-- Overenie: |
-
-- a) odmerných nádob na kvapaliny | Kčs 5,-
-
-- b) sklenených nádob určených na výčap hotových nápojov |
-
-- - jednotlivo | Kčs 5,-
-
-- - hromadne | Kčs 0,50
-
-- c) odmerného laboratórneho skla | Kčs 20,- až 50,-
-
-- d) prepravných sudov používaných ako meradlá objemu |
-
-- - do 220 l | Kčs 5,- až 8,-
-
-- - nad 220 l | sadzba sa zvyšuje za každých aj začatých 100 l o Kčs 5,-
-
-- e) prepravných tankov na kvapaliny používaných ako meradlá objemu |
-
-- - do 3000 l | Kčs 300,-
-
-- - nad 3000 l | sadzba Kčs 300,- sa zvyšuje o Kčs 30,- za každých aj začatých 1000 l
-
-- f) nádrží na ropu používaných ako meradlá objemu pre medzinárodný styk | Kčs 3000,-
-
-- g) objemových dávkovacích meradiel na kvapaliny | Kčs 30,- až 60,-
-
-- h) butyrometrov | Kčs 20,-
-
-- ch) kontrolných objemových liehových meradiel | Kčs 500,-
-
-- i) prietokových meradiel na kvapaliny, pohonné látky a požívatiny používaných v obchodnom styku | Kčs 40,- až 100,-
-
-- j) vodomerov |
-
-- - na studenú vodu | Kčs 5,- až 50,-
-
-- - na teplú vodu | Kčs 10,- až 60,-
-
-- - bubnových | Kčs 40,-
-
-- k) plynomerov | Kčs 20,- až 300,-
-
-- l) plynomerov s otáčavými priestmi a rýchlostných plynomerov | Kčs 100,- až 300,-
-
-- m) laboratórnych plynomerov | Kčs 80,-
-
-- n) prístrojov určených na prepočet stavových veličín plynu na meranie v obchodnom styku | Kčs 300,-
-
-  - Teplota, teplo
-
-  - Položka 29:
-
-- Overenie: |
-
-- a) lekárskych a zverolekárskych teplomerov |
-
-- - jednotlivo | Kčs 3,-
-
-- - hromadne | Kčs 0,50
-
-- b) mechanických meračov tepla | Kčs 10,- až 500,-
-
-  - Elektrické a magnetické veličiny
-
-  - Položka 30:
-
-- Overenie: |
-
-- a) elektromerov na striedavý prúd na priame meranie spotreby elektrickej energie v maloodbere | Kčs 40,- až 150,-
-
-- b) elektromerov na striedavý prúd na priame a nepriame meranie spotreby elektrickej energie vo veľkoodbere a elektromerov s grafickým záznamom alebo meračom maxima | Kčs 300,-
-
-- c) meracích transformátorov prúdu a napätia v spojení s elektromermi |
-
-- - s primárnym obsahom do 500 A alebo do 25 000 V, triedy presnosti 0,5 l a 1 | Kčs 100,-
-
-- - nad 500 A | sadzba Kčs 100,- sa zvyšuje o Kčs 15,- za každých aj začatých 100 A
-
-- - nad 25 000 V | sadzba Kčs 100,- sa zvyšuje o Kčs 10,- za každých aj začatých 1000 V
-
-- d) Epsteinových prístrojov na meranie magnetických vlastností plechov pre elektrotechniku určených na preukazné skúšky | Kčs 800,-
-
-- e) meracích zostáv na meranie magnetov určených na preukazné skúšky | Kčs 1000,-
-
-  - Hustota
-
-  - Položka 31:
-
-- Overenie laboratórnych hustomerov, liehomerov, cukromerov a muštomerov | Kčs 150,-
-
-  - Overovanie hlavných podnikových etalónov
-
-  - Dĺžka
-
-  - Položka 32:
-
-- Overenie: |
-
-- a) etalónových čiarkových meradiel | Kčs 50,- až 2000,-
-
-- b) etalónových metrov na kontrolu dĺžkových meradiel na strižný tovar | Kčs 200,-
-
-- c) dĺžkových meradiel na kontrolu dĺžky skladania pri skladacích meracích prístrojoch na textílie | Kčs 150,-
-
-- d) etalónových metrov pre geodéziu | Kčs 200,-
-
-- e) etalónových meračských pásem |
-
-- - do 30 m | Kčs 300,-
-
-- - nad 30 m | sadzba Kčs 300,- sa zvyšuje za každých aj začatých 10 m o 70,- Kčs
-
-- f) etalónových koncových mierok | Kčs 20,- až 1200,-
-
-- g) tŕňov na kontrolu obilných sít | Kčs 25,-
-
-  - Plošný obsah
-
-  - Položka 33:
-
-- Overenie etalónových hárkov plošného obsahu | Kčs 150,-
-
-  - Rovinný uhol
-
-  - Položka 34:
-
-- Overenie optických polygónov, goniometrov, autoklimátorov používaných s optickými polygónmi, prístrojov na skúšanie uhlových delení, optických deliacich hláv a skúšačov libiel | Kčs 100,- až 2000,-
-
-  - Hmotnosť
-
-  - Položka 35:
-
-- Overenie: |
-
-- a) etalónových závaží a etalónových váh všetkých tried presnosti | Kčs 20,- až 200,-
-
-- b) zaťažovacích závaží | Kčs 20,- až 150,-
-
-- c) závažových železničných vozňov | Kčs 500,-
-
-- d) rohových vozíkov | Kčs 100,-
-
-  - Čas, frekvencia
-
-  - Položka 36:
-
-- Overenie: |
-
-- a) etalónových zariadení na kontrolu stopiek | Kčs 100,- až 1000,-
-
-- b) etalónov otáčok | Kčs 100,-
-
-- c) etalonážneho zariadenia na kontrolu otáčkomerov | Kčs 400,-
-
-  - Mechanický pohyb
-
-  - Položka 37:
-
-- Overenie etalónových |
-
-- - snímačov mechanického kmitania | Kčs 250,-
-
-- - vibrometrov | Kčs 350,-
-
-- - vibrátorov | Kčs 400,-
-
-  - Sila, mechanické skúšky materiálu
-
-  - Položka 38:
-
-- a) Overenie etalónových |
-
-- - silomerov | Kčs 120,- až 1000,-
-
-- - tvrdomerných doštičiek Rockwell A, B, C, N, T, Vickers a Brinell | Kčs 50,-
-
-- - vnikacích telies Rockwell C, N a Vickers | Kčs 170,-
-
-- b) Overenie mierok VIckers a Brinell | Kčs 100,- až 400,-
-
-  - Objem, prietok
-
-  - Položka 39:
-
-- a) Overenie etalónových odmerných kovových nádob a etalónových odmerných sklenených baniek | Kčs 150,-
-
-- - byriet a pipiet | Kčs 100,-
-
-- - plynomerov | Kčs 300,- až 600,-
-
-- - prietokomerov | Kčs 50,- až 500,-
-
-- b) Overenie kubíkovacích strojov alebo staníc na overovanie vodomerov a objemových prietokových meradiel | Kčs 500,-
-
-- c) Vymeriavanie stupnice | Kčs 50,- až 500,-
-
-- Splnomocnenie: Orgán štátnej mierovej služby zvýši sadzbu určenú pod písmenom b) tejto položky o 10,- Kčs za overovanie každých aj začatých 100 l. |
-
-  - Tlak
-
-  - Položka 40:
-
-- a) Overenie etalónových tlakomerov |
-
-- - piestových | Kčs 500,-
-
-- - deformačných | Kčs 50,- až 150,-
-
-- - kvapalinových | Kčs 200,-
-
-- b) Overenie etalónových |
-
-- - kvapalinových a zvonových mikromanometrov | Kčs 200,-
-
-- - barometrov | Kčs 300,-
-
-- - kompresných vákuometrov | Kčs 200,-
-
-  - Teplota, teplo
-
-  - Položka 41:
-
-- Overenie: |
-
-- a) etalónových sklenených teplomerov | Kčs 200,- až 300,-
-
-- b) etalónových platinových odporových teplomerov | Kčs 1000,-
-
-- c) etalónových termočlánkov | Kčs 700,-
-
-- d) etalónových jasových pyrometrov | Kčs 300,-
-
-- e) teplotných žiaroviek | Kčs 1000,-
-
-  - Elektrické a magnetické veličiny
-
-  - Položka 42:
-
-- a) Overenie |
-
-- - etalónových elektromerov | Kčs 400,-
-
-- - meracieho zariadenia na overovanie elektromerov | Kčs 350,-
-
-- b) Overenie meracieho zariadenia na overovanie meracích transformátorov | Kčs 200,- až 1500,-
-
-- c) Overenie meracích transformátorov | Kčs 200,- až 5000,-
-
-- d) Overenie etalónových výchylkových a číslicových voltmetrov, ampérmetrov a wattmetrov | Kčs 100,- až 1500,-
-
-- e) Overenie Westonových článkov | Kčs 300,-
-
-  - Položka 43:
-
-- Overenie: |
-
-- a) etalónových laboratórnych kompenzátorov | Kčs 1000,-
-
-- b) etalónových laboratórnych odporových mostíkov | Kčs 800,- až 1200,-
-
-- c) etalónového odporu | Kčs 150,- až 400,-
-
-- d) etalónu |
-
-- - kapacity | Kčs 70,- až 1000,-
-
-- - indukčnosti | Kčs 75,- až 170,-
-
-- - magnetického indukčného toku na rovnomerné magnetické merania | Kčs 550,-
-
-- - magnetických indukcií na rovnomerné magnetické merania | Kčs 600,-
-
-- e) etalónových vzoriek |
-
-- - na kontrolu Epsteinových prístrojov | Kčs 550,-
-
-- - magneticky tvrdých materiálov | Kčs 800,-
-
-- f) etalónových napäťových a prúdových zdrojov | Kčs 2000,-
-
-- g) etalónových komparátorov elektrického napätia, prúdu a výkonu | Kčs 2000,-
-
-  - Hustota
-
-  - Položka 44:
-
-- Overenie etalónových hustomerov a hustomerov všetkých technických princípov s hodnotou dielika menšou ako 0,2 kg.m<sup>-3</sup> | Kčs 450,-
-
-  - Viskozita
-
-  - Položka 45:
-
-- Overenie: |
-
-- - etalónových kapilárnych viskozimetrov Ubbelohde | Kčs 1500,-
-
-- - referenčného materiálu pre viskozitu | Kčs 100,- až 500,-
-
-  - Svetelné veličiny
-
-  - Položka 46:
-
-- Overenie etalónovej žiarovky |
-
-- - na svetelný tok | Kčs 600,-
-
-- - na svietivosť | Kčs 600,-
-
-- - na farebnú teplotu | Kčs 600,-
-
-  - Veličiny ionizujúceho žiarenia
-
-  - Položka 47:
-
-- Overenie sekundárnych |
-
-- - etalónových žiaričov rádionuklidov | Kčs 100,- až 5000,-
-
-- - etalónov žiarenia X s prenosťou väčšou ako ± 0,7 % | Kčs 100,- až 5000,-
-
-  - OSTATNÉ SPRÁVNE ÚKONY MIEROVEJ SLUŽBY
-
-  - Položka 48:
-
-- Úradné skúšky a overenie typu (prípadne schválenie vzorky) meradla alebo povolenia dovozu meradla | Kčs 200,- až 5000,-
-
-  - Položka 49:
-
-- Povolenie úradného overenia merardla v cudzine | Kčs 200,-
-
-  - Položka 50:
-
-- Úradné skúšky a overenie meradla nepodliehajúceho povinnému úradnému overovaniu | Kčs 50,- až 5000,-
-
-  - Položka 51:
-
-- Úradné overovanie československého analytického normálu | Kčs 50,- až 200,-
-
-  - Položka 52:
-
-- Vydanie metrologických posudkov a expertíz | Kčs 400,- až 10 000,-
+- Povolenie úradného overenia meradla v cudzine | Kčs 200,-
