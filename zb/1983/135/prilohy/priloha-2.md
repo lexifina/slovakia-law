@@ -1,0 +1,3 @@
+Príloha č. 2
+
+- VZOR PREUKAZU PRACOVNÍKA HLIADKOVEJ SLUŽBY [Vzor 02](../assets/dc7aea838fd06fb5bf455c7908b0f6c089eb1e67fee59235abc86754e604de31.pdf)
