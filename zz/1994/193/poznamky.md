@@ -12,6 +12,8 @@
 
 - 2e) § 45 ods. 3 a § 46 Zákona o rodine.
 
+- 2ea) Zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z.
+
 - 3) § 34 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb., zákona č. 522/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
 
 - 4) § 7 a 8 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 578/1991 Zb., zákona č. 231/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 247/1993 Z. z.
@@ -47,6 +49,8 @@
 - 13b) Zákon č. 286/1992 Zb. v znení neskorších predpisov.
 
 - 13c) § 4, § 6 ods. 8 a § 10 ods. 2 zákona č. 286/1992 Zb. v znení zákona č. 626/1992 Zb., zákona Národnej rady Slovenskej republiky č. 124/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 326/1993 Z. z.
+
+- 13ca) Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov.
 
 - 13d) § 7 písm. c) zákona č. 100/1988 Zb.
 
