@@ -2,9 +2,13 @@
 
 - 2) Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 10/1984 o vystrojovaní obvinených a odsúdených v znení rozkazu ministra spravodlivosti Slovenskej republiky č. 5/1992.
 
+- 2a) § 41 ods. 2 Trestného zákona.
+
 - 3) § 116 Občianskeho zákonníka.
 
 - 4) Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 2/1974 - úplné znenie Inštrukcie o vedení administratívy a evidencie pri výkone väzby a trestu odňatia slobody v nápravnovýchovných ústavoch a väzniciach Slovenskej socialistickej republiky v znení neskorších predpisov.
+
+- 4a) § 12a ods. 10 písm. b) zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby v znení zákona č. 451/2002 Z. z.
 
 - 5) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 46/1985 Zb. o postupe pri úmrtí a o pohrebníctve.
 
@@ -20,7 +24,7 @@
 
 - 11) Zákon č. 20/1960 Zb. o starostlivosti o zdravie ľudu v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 419/1991 Zb., ktorým sa menia a dopĺňajú niektoré predpisy v oblasti zdravotníctva.
 
-- 12) Rozkaz ministra spravodlivosti Slovenskej republiky č. 2/1993 o zamestnávaní obvinených a odsúdených a o vedľajšom hospodárstve.
+- 12) § 16 ods. 1 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. v znení zákona č. 451/2002 Z. z.
 
 - 13) § 13 zákona Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení neskorších predpisov.
 
