@@ -24,7 +24,11 @@
 
 - 4b) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 4c) Napríklad § 14 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+- 4c) Napríklad § 14 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
+
+- 4d) § 68c zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
+
+- § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní.
 
 - 5) § 53 Občianskeho súdneho poriadku.
 
