@@ -36,4 +36,8 @@
 
 - 6ch) Zákon č. 21/1992 Zb. o bankách.
 
+- 6i) § 24 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona Národnej rady Slovenskej republiky č. 60/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 190/1995 Z. z.
+
 - 7) § 348 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
+
+- 8) Napríklad § 303 a nasl. Obchodného zákonníka.
