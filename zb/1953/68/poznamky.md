@@ -1,0 +1,1 @@
+- *) Poznámka: Zákon č. 6/1952 Sb. ve znění vyplývajícím z vládního nařízení č. 48/1953 Sb. nabývá účinnosti dnem 8. června 1953; provede jej předseda vlády v dohodě se zúčastněnými členy vlády.
