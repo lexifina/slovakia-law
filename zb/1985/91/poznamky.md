@@ -1,1 +1,0 @@
-- 1) Poverenia sa vyhlasujú vo Vestníku Úradu pre normalizáciu a meranie.
