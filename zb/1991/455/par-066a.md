@@ -6,6 +6,6 @@
 
 Štátnu správu v živnostenskom podnikaní vykonávajú
 
-- a) živnostenské úrady, ktorými sú obvodné úrady a okresné úrady,
+- a) živnostenské úrady, ktorými sú obvodné úrady a krajské úrady,
 
 - b) Ministerstvo vnútra Slovenskej republiky.
