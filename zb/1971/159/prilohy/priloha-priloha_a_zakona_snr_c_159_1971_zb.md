@@ -123,5 +123,3 @@ Príloha A zákona SNR č. 159/1971 Zb. Pol. | Na úseku štátnej správy | pre
 58 | | zák. č. 162/1949 Zb. | § 1 ods. 2 | povoľovanie výroby zbraní a streliva pre študijné alebo vyučovacie účely
 
 59 | | | § 6 | povoľovanie výnimky zo zákazu výroby, opravovania, predaja, držania a nosenia nedovolených zbraní a strelív
-
-60 | na ostatných úsekoch štátnej správy | vyhl. č. 47/1967 Zb. | § 37 ods. 2 | určovanie výhrady uvedenej v § 36 ods. 4 pre organizácie miestneho hospodárstva, ktorých činnosť presahuje obvod pôsobnosti okresných národných výborov
