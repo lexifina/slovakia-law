@@ -12,6 +12,4 @@
 
 (5) Ostatnými fondmi, ktoré tvoria majetok organizácií pri obežných prostriedkoch, nie sú rezervy na náklady vytvorené v účtovníctve organizácie v súlade s platnými predpismi.
 
-(6) Stav rezervného fondu organizácie k 1. januáru 1972 nie je súčasťou základu odvodu z majetku organizácie, ale základu odvodu z majetku nadriadeného orgánu, ktorému sa v roku 1972 odvedie.
-
 (7) V organizáciách verejnej automobilovej dopravy sa za majetok slúžiaci prevažne osobnej doprave považujú autobusy, stanice, zastávky slúžiace osobnej doprave, stavby a budovy slúžiace garážovaniu a opravám motorových vozidiel osobnej dopravy, ak sú samostatným inventárnym predmetom.
