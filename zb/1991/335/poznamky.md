@@ -1,5 +1,7 @@
 - 1) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 57/1998 Z. z. o Železničnej polícii v znení zákona č. 73/1998 Z. z., zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže, zákon č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
+- 1c) § 26 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
 - 2) § 14 a 15 Trestného poriadku v znení neskorších predpisov.
 
 - 3) § 26 ods. 4 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
