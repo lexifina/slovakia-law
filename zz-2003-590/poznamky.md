@@ -1,0 +1,1 @@
+- 1) § 26 ods. 5 zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení neskorších predpisov.
