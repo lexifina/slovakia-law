@@ -2,17 +2,19 @@
 
 (1) Sankčný úrok vyrubí správca dane
 
-- a) daňovému subjektu, ak daň priznanú v daňovom priznaní alebo hlásení nezaplatí v lehote a vo výške podľa osobitného zákona,<sup>11ab</sup>)
+- a) daňovému subjektu, ak daň priznanú v daňovom priznaní alebo hlásení nezaplatí v lehote alebo vo výške podľa osobitného zákona,<sup>11ab</sup>)
 
-- b) daňovému subjektu, ak daň priznanú v dodatočnom daňovom priznaní alebo hlásení nezaplatí v lehote a vo výške podľa osobitného zákona,<sup>11ab</sup>)
+- b) daňovému subjektu, ak daň priznanú v dodatočnom daňovom priznaní alebo hlásení nezaplatí v lehote alebo vo výške podľa osobitného zákona,<sup>11ab</sup>)
 
-- c) platiteľovi dane, ak neodvedie vybraný preddavok na daň, vybranú daň alebo zrazenú daň v lehote a vo výške podľa osobitného zákona,<sup>6ec</sup>)
+- c) platiteľovi dane, ak neodvedie vybraný preddavok na daň, vybranú daň alebo zrazenú daň v lehote alebo vo výške podľa osobitného zákona,<sup>6ec</sup>)
 
-- d) daňovému subjektu, ak daň alebo rozdiel dane vyrubený správcom dane alebo daň určená dohodou medzi daňovým subjektom a správcom dane, alebo daň určená správcom dane podľa pomôcok nebola zaplatená v lehote a vo výške určenej správcom dane v rozhodnutí,
+- d) daňovému subjektu, ak daň alebo rozdiel dane vyrubený správcom dane alebo daň určená dohodou medzi daňovým subjektom a správcom dane, alebo daň určená správcom dane podľa pomôcok nebola zaplatená v lehote alebo vo výške určenej správcom dane v rozhodnutí,
 
-- e) daňovému subjektu, ak preddavok na daň nebol zaplatený v lehote podľa osobitného zákona;<sup>6ec</sup>) pri preddavkoch na daň z príjmov sa sankčný úrok vyrubí až do dňa platby vrátane, najdlhšie do uplynutia lehoty na podanie daňového priznania a pri omeškaní s platením preddavkov na daň z príjmov zo závislej činnosti do vykonania ročného zúčtovania preddavkov na daň, najdlhšie však do 31. marca roku nasledujúceho po uplynutí zdaňovacieho obdobia, na ktoré sa mali platiť preddavky na daň.
+- e) daňovému subjektu, ak preddavok na daň nebol zaplatený v lehote alebo vo výške podľa osobitného zákona;<sup>6ec</sup>) pri preddavkoch na daň z príjmov sa sankčný úrok vyrubí až do dňa platby vrátane, najdlhšie do uplynutia lehoty na podanie daňového priznania a pri omeškaní s platením preddavkov na daň z príjmov zo závislej činnosti do vykonania ročného zúčtovania preddavkov na daň, najdlhšie však do 31. marca roku nasledujúceho po uplynutí zdaňovacieho obdobia, na ktoré sa mali platiť preddavky na daň.
 
-(2) Správca dane vyrubí sankčný úrok z dlžnej sumy vo výške štvornásobku základnej úrokovej sadzby Národnej banky Slovenska platnej v deň vzniku daňového nedoplatku alebo v deň nasledujúci po dni, v ktorom mal byť preddavok na daň zaplatený alebo odvedený. Sankčný úrok sa vyrubí za každý deň omeškania, začínajúc dňom nasledujúcim po dni splatnosti až do dňa platby vrátane. Sankčný úrok sa počíta najdlhšie za štyri roky omeškania s platbou s výnimkou uvedenou v odseku 1 písm. e).
+- f) daňovému subjektu, ak splátku dane nezaplatí v lehote alebo vo výške podľa osobitného zákona.<sup>11ca</sup>)
+
+(2) Správca dane vyrubí sankčný úrok z dlžnej sumy vo výške štvornásobku základnej úrokovej sadzby Národnej banky Slovenska platnej v deň vzniku daňového nedoplatku alebo v deň nasledujúci po dni, v ktorom mal byť preddavok na daň zaplatený alebo odvedený alebo splátka dane zaplatená. Sankčný úrok sa vyrubí za každý deň omeškania, začínajúc dňom nasledujúcim po dni splatnosti až do dňa platby vrátane. Sankčný úrok sa počíta najdlhšie za štyri roky omeškania s platbou s výnimkou uvedenou v odseku 1 písm. e). Sankčný úrok sa nevyrubuje zo sankčného úroku.
 
 (3) Proti rozhodnutiu o vyrubení sankčného úroku sa možno odvolať.
 
@@ -24,6 +26,8 @@
 
 (7) Správca dane zaplatí daňovému subjektu sankčný úrok vo výške podľa odseku 6 aj v prípade oneskoreného vrátenia dane alebo nadmerného odpočtu podľa osobitného zákona.<sup>6eb</sup>)
 
-(8) Sankčný úrok sa nevyrubí, ak nepresiahne za jednotlivý druh dane 500 Sk; to neplatí pri dani z nehnuteľností, pri ktorej sa sankčný úrok nevyrubí, ak nepresiahne 100 Sk. Sankčný úrok správca dane nevyrubí, ak zaniklo právo vyrubiť daň alebo rozdiel dane.
+(8) Sankčný úrok sa nevyrubí, ak nepresiahne v jednotlivom prípade 500 Sk. Ak je správcom dane obec, sankčný úrok sa nevyrubí, ak nepresiahne v jednotlivom prípade 100 Sk. Správca dane, ktorým je daňový úrad alebo colný úrad, nezaplatí daňovému subjektu sankčný úrok podľa odseku 6 alebo 7, ak nepresiahne v jednotlivom prípade 500 Sk; ak je správcom dane obec, nezaplatí daňovému subjektu sankčný úrok podľa odseku 6, ak nepresiahne v jednotlivom prípade 100 Sk. Sankčný úrok správca dane nevyrubí, ak zaniklo právo vyrubiť daň alebo rozdiel dane.
 
 (9) Sankčný úrok je splatný do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o vyrubení sankčného úroku.
+
+(10) Ustanovenia odsekov 1 až 9 sa vzťahujú na všetky dane.
