@@ -1,0 +1,5 @@
+# Článok 3
+
+A. Zmluvné strany súhlasia s tým, že každoročne poskytnú komisii finančné alebo materiálne prostriedky na účely tejto dohody. Výška týchto ročných príspevkov bude závisieť od výšky finančných prostriedkov, ktoré budú mať k dispozícii obidve zmluvné strany v súlade s ich príslušnými štátnymi zákonmi a predpismi. Všetky záväzky, povinnosti a výdavky schválené komisiou sa budú realizovať v súlade s ročným rozpočtom schváleným zmluvnými stranami. Pri príprave rozpočtu a vedení účtovnej evidencie o finančných prostriedkoch, ako aj pri vypracúvaní finančných a programových správ pre zmluvnú stranu Slovenskej republiky bude komisia postupovať podľa platných predpisov a zákonov v Slovenskej republike a pre zmluvnú stranu Spojených štátov amerických bude komisia postupovať podľa Príručky pre dvojstranné komisie a nadácie Informačnej agentúry Spojených štátov.
+
+B. Zmluvné strany sa zaväzujú, že povolenie na pobyt pre držiteľa štipendia v prijímajúcom štáte nebude podmienené vydaním pracovného povolenia.
