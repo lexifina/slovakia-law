@@ -284,7 +284,11 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - c)
 
-- spracovanie starých vozidiel (§ 49 až 54),“.
+- spracovanie starých vozidiel (§ 49 až 54),
+
+- d)
+
+- zhodnocovanie alebo zneškodňovanie odpadov zo svetelných zdrojov s obsahom ortuti (§ 47).“.
 
 - 29. V § 9 ods. 1 písm. b) sa na konci pripájajú tieto slová: „alebo bydlisko v niektorom z členských štátov Európskych spoločenstiev alebo v štáte, ktorý je súčasťou Európskeho hospodárskeho priestoru (ďalej len „členský štát")“.
 
@@ -732,7 +736,11 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - (3)
 
-- Povinnosť podľa odseku 2 neplatí, ak v dostupnosti 50 km po komunikáciách od miesta uskutočňovania stavebných a demolačných prác nie je prevádzkované zariadenie na materiálové zhodnocovanie stavebných odpadov alebo odpadov z demolácií.“.
+- Povinnosť podľa odseku 2 neplatí, ak v dostupnosti 50 km po komunikáciách od miesta uskutočňovania stavebných a demolačných prác nie je prevádzkované zariadenie na materiálové zhodnocovanie stavebných odpadov alebo odpadov z demolácií.
+
+- (4)
+
+- Ten, kto vykonáva výstavbu, údržbu, rekonštrukciu alebo demoláciu komunikácie, je povinný stavebné odpady vznikajúce pri tejto činnosti a odpady z demolácií materiálovo zhodnotiť pri výstavbe, rekonštrukcii alebo údržbe komunikácií.“.
 
 - Poznámky pod čiarou k odkazom 50a až 50h znejú:
 
@@ -831,6 +839,10 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 - Výrobca a dovozca sú povinní zaregistrovať sa v Recyklačnom fonde do 30 dní od začatia výroby alebo dovozu svetelných zdrojov s obsahom ortuti, ohlásiť Recyklačnému fondu zmeny v údajoch potrebných na registráciu a umožniť orgánom štátneho dozoru v odpadovom hospodárstve (§ 73) kontrolu ich registrácie v Recyklačnom fonde, kontrolu správnosti výpočtu príspevku a kontrolu jeho platenia.“.
 
 - 86. § 47 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Držiteľ svetelného zdroja s obsahom ortuti je povinný odovzdať ho na zhodnotenie alebo zneškodnenie len držiteľovi autorizácie [§ 8 ods. 3 písm. d)].“.
 
 - 87. V § 48 ods. 1 sa vypúšťa posledná veta.
 
