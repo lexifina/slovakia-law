@@ -62,6 +62,8 @@
 
 - 12i) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- 12ia) § 6 ods. 1 Obchodného zákonníka.
+
 - 12j) § 25 zákona č. 214/1992 Zb. o burze cenných papierov a § 50 ods. 4 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 246/1994 Z. z.
 
 - 12k) § 6 ods. 3 Obchodného zákonníka.
@@ -81,3 +83,11 @@
 - 14) Zákon č. 389/1990 Zb. o dani z príjmov obyvateľstva.
 
 - 15) Národná rada Slovenskej republiky podľa čl. 154 ods. 1 Ústavy Slovenskej republiky č. 460/1992 Zb.
+
+- 16) § 105 ods. 1 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
+
+- 17) § 99 ods. 3 písm. b) a § 104 ods. 2 zákona č. 566/2001 Z. z.
+
+- 18) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 19) § 254 až 260 Obchodného zákonníka.
