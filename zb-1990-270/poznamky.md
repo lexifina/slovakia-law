@@ -1,0 +1,1 @@
+- 1) Vyhláška federálního ministerstva práce a sociálních věcí č. 33/1984 Sb., o cestovních náhradách, v platném znění.
