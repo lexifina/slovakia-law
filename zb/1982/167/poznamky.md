@@ -1,0 +1,1 @@
+- 1) Pre prepočet zahraničných mien na československé koruny a naopak platia prepočítacie pomery určené Štátnou bankou československou v kurzovnom lístku pre niektoré neobchodné platby.

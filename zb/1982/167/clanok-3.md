@@ -1,0 +1,13 @@
+# Čl. 3 (k § 4 zákona)
+
+(1) Sumou, o ktorú sa zvýšili náklady v rozpore s právnymi predpismi, je aj daň vyberaná v Československej socialistickej republike, ktorá bola zaplatená za subjekty so sídlom alebo bydliskom na území štátov, s ktorými Československá socialistická republika dojednala zmluvy o zamedzení dvojakého zdanenia, pokiaľ bola zahrnutá do nákladov.
+
+(2) Ak sa náklady daňovníka vzťahujú tak na činnosť podliehajúcu dani, ako aj na nezdaňovanú (správnu, záujmovú a pod.) činnosť, uznávajú sa náklady pri určovaní základu dane len v tej výške, v akej pripadajú na činnosť podrobenú dani. Ak ich výšku nemožno zistiť z účtovníctva ani z inej preukázateľnej evidencie, určí sa podľa vhodného kritéria, napr. podľa zastavanej plochy, prejdených kilometrov, počtu pracovníkov a pod., alebo podľa pomeru príjmov zo zdaniteľnej a nezdaniteľnej činnosti.
+
+(3) Príjmami z licenčných a im podobných poplatkov [§ 4 ods. 7 písm. a) zákona] sa rozumie plnenie akéhokoľvek druhu, či už peňažné alebo naturálne, ktoré sa poskytuje ako náhrada za využitie alebo za právo na použitie patentov, ochranných známok, priemyselných vzorov, návrhov, designov, modelov, plánov, utajovaných vzorcov alebo postupov, receptúr a priemyselných, obchodných alebo vedeckých znalostí a výrobno - technických poznatkov.<sup>1</sup>)
+
+(4) Príjmami z prevádzkových práv [§ 4 ods. 7 písm. b) zákona] sa rozumie plnenie akéhokoľvek druhu, či už peňažné alebo naturálne, ktoré sa poskytuje ako náhrada za použitie práva verejne predvádzať divadelné, filmové, televízne alebo hudobné dielo požívajúce autorskoprávnu ochranu.<sup>1</sup>)
+
+(5) U daňovníkov uvedených v § 2 ods. 1 písm. h) zákona sa za náklady nevyhnutne vynaložené na dosiahnutie a zabezpečenie príjmov v Československej socialistickej republike považujú aj odpisy v rozsahu a do výšky podľa čs. predpisov a primeraná časť celkových administratívnych výdavkov vynaložených v cudzine na zabezpečenie príjmov v Československej socialistickej republike.
+
+(6) Základ dane podľa § 4 ods. 7 písm. d) zákona sa u daňovníkov uvedených v § 2 ods. 1 písm. h) zákona určí vo výške, ktorú by z tej istej činnosti dosiahla organizácia so sídlom na území Československej socialistickej republiky. Na jeho určenie sa môže použiť pomer zisku k hrubým príjmom pri porovnateľných organizáciách alebo činnostiach za predchádzajúci kalendárny rok. Pokiaľ medzinárodná zmluva, ktorou je Československá socialistická republika viazaná, neustanovuje inak, bude základ dane robiť vždy najmenej 30 % z nákladov na hrubé mzdy vyplatené (či už v tuzemsku alebo v zahraničí) za činnosť vykonávanú na území Československej socialistickej republiky.<sup>1</sup>)
