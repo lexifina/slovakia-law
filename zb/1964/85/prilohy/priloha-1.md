@@ -106,7 +106,7 @@
 
     - 1. Železničné správy sú povinné na území svojho štátu zriaďovať a udržiavať v riadnom stave zabezpečovacie a oznamovacie zariadenia potrebné pre pohraničný prechod železníc. Železničné správy môžu dohodnúť odchýlky.
 
-    - 2. Oznamovacie vedenie prekračujúce štátne hranice, ktoré spája výmenné stanice a pohraničné stanice, musí končiť v týchto staniciach a nesmie byť pripojené na vnútrozemskú sieť.
+    - 2. Oznamovacie diaľkové spoje prekračujúce štátne hranice, ktoré spájajú výmenné stanice a pohraničné stanice, musia sa končiť v týchto staniciach a nesmú byť pripojené na vnútrozemskú sieť. Železničné správy zmluvných štátov môžu sa však dohodnúť inak, pokiaľ sú pre to dané predpoklady podľa vnútroštátnych právnych predpisov.
 
     - 3. Železniční zamestnanci susednej správy sú oprávnení používať oznamovacie zariadenia uvedené v odsekoch 1 a 2 pre služobné účely bezplatne.
 
@@ -190,7 +190,7 @@
 
     - 1. Železniční zamestnanci vrátane dozorných a vyšetrujúcich železničných zamestnancov, ktorí prekračujú pri služobnom výkone v prípojovej a prechodovej službe štátne hranice, musia mať dvojjazyčné preukazy na prekračovanie štátnych hraníc podľa vzoru Prílohy 1a prípadne 1b. Tieto preukazy oprávňujú na prekračovanie štátnych hraníc na jednej alebo niekoľkých tratiach uvedených v článku 3 odsek 1, ako aj na pobyt v územnom štáte po dobu výkonu služby.
 
-    - 2. Preukazy na prekračovanie štátnych hraníc sa vydávajú s platnosťou na dobu piatich rokov. Preukazy na prekračovanie štátnych hraníc vydáva pre československých železničných zamestnancov československé Ministerstvo vnútra a viduje ich príslušné rakúske bezpečnostné riaditeľstvo. Preukazy na prekračovanie štátnych hraníc pre rakúskych železničných zamestnancov vydáva príslušné rakúske bezpečnostné riaditeľstvo a viduje ich československé Ministerstvo vnútra. Vidovanie platí vždy pre jeden kalendárny rok.
+    - 2. Preukazy na prekračovanie štátnych hraníc sa vydávajú s platnosťou na dobu piatich rokov. Preukazy na prekračovanie štátnych hraníc vydáva pre československých železničných zamestnancov československé Ministerstvo vnútra a viduje ich príslušné rakúske bezpečnostné riaditeľstvo. Preukazy na prekračovanie štátnych hraníc pre rakúskych železničných zamestnancov vydáva príslušné rakúske bezpečnostné riaditeľstvo a viduje ich československé Ministerstvo vnútra. Vidovanie sa udeľuje na dobu platnosti preukazov na prekračovanie štátnych hraníc.
 
     - 3. Vidovanie môže sa odoprieť bez udania dôvodov; vidovanie už urobené môže sa kedykoľvek bez udania dôvodu odvolať. O odopretí alebo odvolaní vidovania musí sa neodkladne upovedomiť úrad, ktorý preukaz na prekračovanie štátnych hraníc vydal, a výmenná prípadne pohraničná stanica uvedená v tomto preukaze.
 
@@ -273,6 +273,10 @@
       - Na dôkaz toho podpísali splnomocnenci túto Dohodu a opatrili ju pečaťou.
 
       - Dané v Prahe 22. septembra 1962 vo dvoch vyhotoveniach, v jazyku českom a nemeckom, pričom obidve znenia majú rovnakú platnosť.
+
+  - Článok II
+
+    - Vidovanie preukazov na prekračovanie štátnych hraníc udelené železničným zamestnancom do 31. decembra 1967 platí bez ďalšieho vidovania po dobu platnosti týchto preukazov.
 
 - Za Československú socialistickú republiku:
 
