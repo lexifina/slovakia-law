@@ -66,6 +66,12 @@
 
 - 22) § 17 ods. 1 zákona č. 229/1991 Zb.
 
+- 22a) § 6 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
+
+- 22b) § 18 zákona č. 229/1991 Zb.§ 16 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
+
+- 22c) § 2 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
+
 - 23) Napr. § 11, 17, 18 a § 22 ods. 4 zákona č. 229/1991 Zb.
 
 - Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
