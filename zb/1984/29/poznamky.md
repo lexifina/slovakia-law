@@ -32,6 +32,10 @@
 
 - 4) § 26, 26a a 26b zákona SNR č. 79/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
+- 4a) § 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 4b) § 21 a 23 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
+
 - 5) § 10 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
 
 - 5a) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
