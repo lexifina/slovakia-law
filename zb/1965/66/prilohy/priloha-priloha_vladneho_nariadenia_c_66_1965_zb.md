@@ -28,7 +28,7 @@ Príloha vládneho nariadenia č. 66/1965 Zb.
 
   - 5. vlastná svadba
 
-  - a svadba detí pracovné voľno s náhradou mzdy sa pracovníkovi poskytne najviac na dva dni na vlastnú svadbu a rodičom na jeden deň na účasť na svadbe detí;
+  - pracovné voľno s náhradou mzdy sa pracovníkovi poskytne najviac na dva dni na vlastnú svadbu a rodičom na jeden deň na účasť na svadbe detí;
 
   - 6. presťahovanie pracovníka, ktorý má svoju vlastnú domácnosť (bytové zariadenie)
 
