@@ -1,0 +1,11 @@
+## 296
+
+ZÁKON
+
+NÁRODNEJ RADY SLOVENSKEJ REPUBLIKY
+
+z 26. septembra 1996
+
+## o zmene a doplnení zákona č. 53/1959 Zb. o jednotnej sústave knižníc (Knižničný zákon) v znení neskorších predpisov, zákona Slovenskej národnej rady č. 109/1961 Zb. o múzeách a galériách v znení neskorších predpisov a zákona Slovenskej národnej rady č. 36/1978 Zb. o divadelnej činnosti (divadelný zákon) v znení neskorších predpisov
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
