@@ -20,7 +20,7 @@
 
 - 11) § 16 zákona č. 385/1999 Z. z.
 
-- 12) § 3 zákona č. 330/2000 Z. z. o burze cenných papierov.
+- 12) § 4 zákona č. 429/2002 Z. z. o burze cenných papierov.
 
 - 13) § 55 ods. 1 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
@@ -58,9 +58,19 @@
 
 - 30) § 9 ods. 4 zákona č. 95/2002 Z. z.
 
+- 30a) § 5 ods. 2 zákona č. 429/2002 Z. z.
+
 - 31) § 9 ods. 2 zákona č. 385/1999 Z. z.
 
-- 32) § 8 ods. 6 zákona č. 330/2000 Z. z.
+- 31g) § 6 ods. 1 písm. a) zákona č. 429/2002 Z. z.
+
+- 31h) § 6 ods. 1 písm. c) zákona č. 429/2002 Z. z.
+
+- 31i) § 6 ods. 1 písm. d) zákona č. 429/2002 Z. z.
+
+- 31j) § 6 ods. 1 písm. e) zákona č. 429/2002 Z. z.
+
+- 32) § 6 ods. 1 písm. b) zákona č. 429/2002 Z. z.
 
 - 33) § 70 ods. 1 písm. a) zákona č. 566/2001 Z. z.
 
@@ -122,7 +132,7 @@
 
 - 61) § 4 ods. 5 písm. d) zákona č. 330/2000 Z. z.
 
-- 62) § 15 ods. 3 zákona č. 330/2000 Z. z.
+- 62) § 18 ods. 3 zákona č. 429/2002 Z. z.
 
 - 63) § 103 ods. 4 zákona č. 566/2001 Z. z.
 
