@@ -1,0 +1,1 @@
+- 1) Zmena názvu funkcie vyplýva z opatrenia Federálneho ministerstva práce a sociálnych vecí z 31. 12. 1975 č. II/6-1998/75-7201 na úpravu celoštátnych predpisov pre uplatnenie racionalizácie práce a mzdových sústav.
