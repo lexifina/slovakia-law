@@ -44,7 +44,7 @@
 
 - § 20 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
-- 20) Napríklad § 48 ods. 1 zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 20) Napríklad § 37 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, § 476 až 480 Občianskeho zákonníka.
 
 - 21) § 6 ods. 2 písm. a) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
