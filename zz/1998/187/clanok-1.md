@@ -876,10 +876,6 @@ Zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej náro
 
 - Ak Ústavný súd Slovenskej republiky vyhlási voľby za neplatné alebo zruší výsledok volieb, predseda Národnej rady Slovenskej republiky vyhlási nové voľby do Národnej rady Slovenskej republiky; nové voľby vyhlási do 30 dní od uverejnenia nálezu Ústavného súdu Slovenskej republiky v Zbierke zákonov Slovenskej republiky.“.
 
-- „(1)
-
-- Ak sa uprázdni mandát počas volebného obdobia Národnej rady Slovenskej republiky, nastupuje náhradník tej istej politickej strany, pričom náhradníka určí politická strana.“.
-
 - 41. V § 48 sa vypúšťa odsek 2.
 
   - Doterajšie odseky 3 až 7 sa označujú ako odseky 2 až 6. V novom odseku 6 sa číslovka „6“ nahrádza číslovkou „5“ a v novom odseku 5 sa vypúšťa posledná veta.
