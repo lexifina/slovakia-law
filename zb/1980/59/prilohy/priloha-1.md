@@ -1,25 +1,25 @@
 Príloha č. 1 vyhlášky č. 59/1980 Zb.
 
-- Veci, na vývoz ktorých je potrebné povolenie [§ 1 ods. 1 písm. c) a ods. 2 písm. b) vyhlášky]: 1. dovážané tabakové výrobky,
+- Veci, na vývoz ktorých je potrebné povolenie [§ 1 ods. 1 písm. c) a ods. 2 písm. b) vyhlášky]:
 
-- 2. gumotextilné ležadlá a nafukovacie gumenné člny,
+  - 1. gumotextilné ležadlá a nafukovacie gumené člny;
 
-- 3. stany,
+  - 2. stany;
 
-- 4. spacie vaky,
+  - 3. spacie vaky;
 
-- 5. lyže,
+  - 4. športové potreby každého druhu;
 
-- 6. koberce,
+  - 5. koberce;
 
-- 7. školské aktovky a perečníky,
+  - 6. brúsené sklo;
 
-- 8. brúsené sklo,
+  - 7. úžitkový porcelán;
 
-- 9. úžitkový porcelán,
+  - 8. smaltovaný a hliníkový riad;
 
-- 10. smaltovaný riad,
+  - 9. lustre;
 
-- 11. lustre,
+  - 10. inštalačný a elektroinštalačný materiál;
 
-- 12. inštalačné a elektroinštalačné a stavebné materiály.
+  - 11. stavebné materiály.

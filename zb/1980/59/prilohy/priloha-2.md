@@ -1,51 +1,45 @@
 Príloha č. 2 vyhlášky č. 59/1980 Zb.
 
-- Veci, ktorých vývoz je zakázaný (§ 7 ods. 1 vyhlášky): 1. mäso, ryby, hydina a výrobky z nich včítane konzerv,
+- Veci, ktorých vývoz je zakázaný (§ 7 ods. 1 vyhlášky):
 
-- 2. maslo, masť, jedlé tuky,
+  - 1. potraviny každého druhu včítane nápojov, pochutín a južného ovocia, s výnimkou ovocia mierneho pásma a čerstvej zeleniny;
 
-- 3. mliečne konzervy včítane sušeného mlieka,
+  - 2. cigarety a ostatné tabakové výrobky;
 
-- 4. ryža,
+  - 3. bavlnené tkaniny každého druhu;
 
-- 5. cukor,
+  - 4. plyše a manchestre každého druhu;
 
-- 6. káva,
+  - 5. pletené vrchné ošatenie;
 
-- 7. kakao,
+  - 6. bielizeň pletená a šitá z tkanín;
 
-- 9. južné ovocie (pomaranče, citróny, banány, ananás a pod.),
+  - 7. dojčenské a detské ošatenie každého druhu;
 
-- 10. dojčenské a detské oblečenie každého druhu,
+  - 8. posteľná bielizeň;
 
-- 11. pletená bielizeň,
+  - 9. pančuchové výrobky každého druhu;
 
-- 12. osobná bielizeň z tkanín,
+  - 10. odevy z usní a kožušinové výrobky každého druhu včítane umelých;
 
-- 13. pletené vrchné oblečenie,
+  - 11. prikrývky, uteráky, utierky;
 
-- 14. pančuchové výrobky každého druhu,
+  - 12. obuv každého druhu;
 
-- 15. odevy z usní a kožušín včítane umelých kožušín,
+  - 13. kožené rukavice a kožená galantéria;
 
-- 16. prikrývky, uteráky a utierky,
+  - 14. remeselnícke a hospodárske náradie a nástroje;
 
-- 17. bavlnárske tkaniny každého druhu,
+  - 15. nehrdzavejúce príbory a nehrdzavejúci riad;
 
-- 18. posteľná bielizeň,
+  - 16. výrobky zo zlata a striebra;
 
-- 19. plyše každého druhu,
+  - 17. pneumatiky a duše;
 
-- 20. obuv každého druhu,
+  - 18. náhradné dielce k motorovým vozidlám;
 
-- 21. náradie a nástroje,
+  - 19. mydlá, pracie a čistiace prostriedky;
 
-- 22. nehrdzavejúce príbory a nehrdzavejúci riad,
+  - 20. perie a výrobky z peria;
 
-- 23. výrobky zo zlata,
-
-- 24. pneumatiky a duše,
-
-- 25. perie a výrobky z peria,
-
-- 26. starožitnosti.
+  - 21. starožitnosti;
