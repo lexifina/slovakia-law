@@ -1,3 +1,0 @@
-Ministr:
-
-Lér v. r.
