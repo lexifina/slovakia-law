@@ -30,6 +30,6 @@
 
 (2) Za priestupok podľa odseku 1 písm. a) až f) a písm. h) možno uložiť pokutu do 10 000 Sk.
 
-(3) Za priestupok podľa odseku 1 písm. g) možno uložiť vodičovi pokutu vo výške dvojnásobku úhrady uvedenej v sadzobníku, ktorý je prílohou tohto zákona.
+(3) Za priestupok podľa odseku 1 písm. g) možno uložiť vodičovi pokutu do výšky trojnásobku úhrady na kalendárny rok uvedenej v sadzobníku, ktorý je prílohou č. 1 k tomuto zákonu.
 
 (4) Na priestupky a ich prejednávanie sa vzťahuje osobitný predpis.<sup>10</sup>)
