@@ -1,0 +1,11 @@
+## 4
+
+VYHLÁŠKA
+
+Federálneho ministerstva zahraničného obchodu
+
+z 24. januára 1973
+
+## o prevode časti predmetu činnosti Omnipolu, podniku zahraničného obchodu, do Merkurie, podniku zahraničného obchodu
+
+Minister zahraničného obchodu ustanovuje po dohode s ministrom financií ČSSR podľa § 2 a § 20 zákona č. 119/1948 Zb. o štátnej organizácii zahraničného obchodu a medzinárodného zasielateľstva a podľa § 38 ods.1 písm. b) zákona č. 133/1970 Zb. o pôsobnosti federálnych ministerstiev:
