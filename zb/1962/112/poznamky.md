@@ -1,0 +1,1 @@
+- *) Neučiteľské štúdium len na Univerzite 17. novembra.
