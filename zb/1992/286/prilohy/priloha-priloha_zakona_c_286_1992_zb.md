@@ -24,9 +24,21 @@ Príloha zákona č. 286/1992 Zb.
 
 - b) elektrochemické zdroje prúdu (odbor 346) | 2
 
+- c) zariadenia chladiace a mraziace (odbor 432) | 2
+
 - (4) Pracovné stroje a zariadenia (Trieda 4) z toho: | 2
 
-- a) ručné mechanizované náradie (odbor 414) | 1
+- nástroje rezacie, strihacie a tvarovacie nornalizované a náradie a nástroje zemevrtné (odbor 411 s výnimkou 411 8) | 1
+
+- náradie upínacie bežné (odbor 412) |
+
+- náradie remeselnícke (odbor 413) |
+
+- náradie ručné mechanizované (odbor 414) |
+
+- náradie upínacie, rezacie a ručné, meradlá a nástroje tvarovacie, nenormalizované a nástroje diamantové (odbor 415) |
+
+- prostriedky a nástroje brúsiace (odbor 421) |
 
 - b) stroje na pestovanie, hnojenie a ochranu rastlín (odbor 536 3) | 1
 
@@ -52,11 +64,15 @@ Príloha zákona č. 286/1992 Zb.
 
 - (5) Prístroje a osobitné technické zariadenia (Trieda 5) z toho: | 2
 
-- a) návestné a zabezpečovacie zariadenia (odbor 404) | 3
+- a) zariadenia návesné a zabezpečovacie (odbor 404) s výnimkou výrobkov pre zabezpečovacie zariadenia k ostrahe elektromechanickej a elektronickej (odbor 404 6) | 3
 
-- b) stroje na spracovanie dát (odbor 403) | 1
+- b) prístroje meracie elektronické a mikroskopy elektrónové (odbor 391) | 1
 
-- c) reprografické zariadenia (odbor 401) | 1
+- c) zariadenia reprografické (odbor 401) | 1
+
+- d) stroje, prístroje a zariadenia kancelárske (odbor 402) | 1
+
+- e) stroje na spracovanie dát (odbor 403) | 1
 
 - (6) Dopravné prostriedky (Trieda 6) z toho: | 3
 
@@ -84,19 +100,17 @@ Príloha zákona č. 286/1992 Zb.
 
 - k) transparentné zariadenia na prepravu kusových materiálov (odbor 476) | 2
 
-- (7) Inventár (Trieda 7) | 2
+- (7) Inventár (Trieda 7)z toho: | 2
+
+- a) výrobky ortopedické a protetické, výrobky očnej optiky a ochranné pomôcky (odbor 793) | 1
+
+- b) výrobky ozdobnícke (odbor 746) | 1
 
 - (8) Pestovateľské celky trvalých porastov (Trieda 9) | 3
 
-- (9) Zvieratá z toho: | 2
+- (9) Zvieratá z toho: | 1
 
-- a) plemenné a dostihové kone (odbor 0342, odbor 034 34) | 3
-
-- b) ťažné zvieratá (odbor 034 32, odbor 031 332) | 3
-
-- c) základné stádo ošípaných (odbor 032) | 1
-
-- d) hydina - kŕdel (odbor 041 33) | 1
+- plemenné a dostihové kone (odbor 034 2, odbor 034 34) | 2
 
 - (10) Nehmotný majetok z toho: | 2
 
@@ -106,10 +120,4 @@ Príloha zákona č. 286/1992 Zb.
 
 - (11) Opravné položky k odplatne obstaranému majetku<sup>17</sup>) | 3
 
-- (12) Otvárky nových lomov, pieskovní, hlinísk a technické rekultivácie, pokiaľ nie sú súčasťou hmotného majetku, do ktorého vstupnej ceny je zahrnutý, dočasné stavby<sup>2</sup>) a banské diela sa odpisujú rovnomerne. Ročný odpis sa určí ako podiel vstupnej ceny a určenej doby trvania. |
-
-- (13) Banské diela prevádzkované pred 1. januárom 1993 možno odpisovať ako celý súbor jednotnmou sadzbou vo výške 4 % zo vstupnej ceny súboru. |
-
-- (14) Hmotný majetok a nehmotný majetok, ktorý nemožno zaradiť podľa odsekov 1 až 12, sa na účely odpisovania zaradí do odpisovej skupiny 3. |
-
-- (15) Súbor predmetov (§ 26) sa musí evidovať na jednej karte a zaradiť do príslušnej odpisovej skupiny podľa hlavného funkčného celku. |
+- (12) Súbor predmetov (§ 26) sa musí evidovať na jednej karte a zaradiť do príslušnej odpisovej skupiny podľa hlavného funkčného celku. |
