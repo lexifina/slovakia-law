@@ -782,6 +782,10 @@
 
   - | Poznámka: Poplatok sa vyberá jednoduchou sadzbou, i keď sa v zhode s platnými predpismi vydá hromadný sprievodný list pre viacej zvierat. |
 
+  - 101a | Povolenie domácej zakáľačky ošípaných - za kus | 20
+
+  - | Poznámka: Poplatok za povolenie domácej zakáľačky sa platí aj za súhlas na ponechanie nútene zaklanej ošípanej chovateľovi pre jeho domácnosť. |
+
   - 102 | Poľovné lístky, a to: |
 
   - | a) ročný poľovný lístok pre tuzemca | 60
