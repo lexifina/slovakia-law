@@ -99,3 +99,5 @@
 - 34) Trestný poriadok.
 
 - 35) Zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
+- 36) § 64 zákona č. 335/1991 Zb. v znení neskorších predpisov.
