@@ -1,8 +1,6 @@
 Príloha zákona č. 286/1992 Zb.
 
-- Zatriedenie hmotného majetku a nehmotného majetku do odpisových skupín podľa predpokladanej doby odpisovania [Príloha 01](../assets/99f24a8dded743c84c3d84f86116165b6f0c42aa06f630ac547e072ca52b3803.pdf)
-
-- POLOŽKY | ODPISOVÁ SKUPINA
+- Zatriedenie hmotného majetku a nehmotného majetku do odpisových skupín podľa predpokladanej doby odpisovania POLOŽKY | ODPISOVÁ SKUPINA
 
 - (1) Budovy a haly (Trieda 1)<sup>1</sup>)z toho; | 5
 
