@@ -1,0 +1,3 @@
+Predseda:
+
+Chudík v. r.
