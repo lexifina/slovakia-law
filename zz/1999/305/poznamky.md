@@ -2,6 +2,8 @@
 
 - 2) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 3) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+
 - 4) § 54 a § 64 ods. 2 a 3 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
 
 - 5) § 24 ods. 4, § 31 ods. 1 písm. a), § 56 ods. 2, § 133 ods. 4 písm. a) a § 139 ods. 1 a 2 zákona č. 100/1988 Zb. v znení neskorších predpisov.
