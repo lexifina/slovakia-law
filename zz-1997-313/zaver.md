@@ -1,0 +1,1 @@
+Gustáv Krajči v. r.
