@@ -1,0 +1,1 @@
+- *) Vyhláška č. 196/1954 Ú. l. (č. 220/1954 Ú. v.) o sadzbách prevádzkových honorárov za verejné nedivadelné predvádzanie hudobných diel v znení vyhlášky č. 183/1968 Zb.
