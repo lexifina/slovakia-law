@@ -1,10 +1,6 @@
 Príloha č. 5 vyhlášky č. 17/1994 Z. z.
 
-- VECI PRE POTREBU ZRAKOVO POSTIHNUTÝCH OSÔB Podpoložka | Názov tovaru
-
-- colného |
-
-- sadzobníka |
+- VECI PRE POTREBU ZRAKOVO POSTIHNUTÝCH OSÔB Podpoložka colného sadzobníka | Názov tovaru
 
 - 0106 00 | Ostatné živé zvieratá
 
@@ -12,25 +8,25 @@ Príloha č. 5 vyhlášky č. 17/1994 Z. z.
 
 - | -- Psy na sprevádzanie zrakovo postihnutých osôb
 
-- 4802 | Nenatieraný papier, kartón a lepenka určené na popisovanie, potlačenie alebo na iné
+- 4802 | Nenatieraný papier, kartón a lepenka na popisovanie, potlačenie alebo na iné grafické
 
-- | grafické účely a papier, kartón, lepenka na dierne štítky alebo na dierne pásky
+- | účely a papier, kartón, lepenka na dierne štítky alebo na dierne pásky v kotúčoch alebo
 
-- | v kotúčoch alebo listoch (hárkoch), iné ako patriace do čísel 4801 alebo 4803; ručný
+- | listoch (hárkoch), iné ako patriace do čísel 4801 alebo 4803; ručný papier, kartón a
 
-- | papier, kartón a lepenka
+- | lepenka
 
-- | - iný papier, kartón a lepenka neobsahujúce vlákniny získané mechanickými
+- | - Iný papier, kartón a lepenka neobsahujúce vlákniny získané mechanickými postupmi
 
-- | postupmi alebo z ich celkového vlákninového zloženia nie je obsah týchto vláken
+- | alebo z ich celkového vlákninového zloženia nie je obsah týchto vláken väčší ako
 
-- | väčší ako 10 % (bezdrevné papiere):
+- | 10 % (bezdrevné papiere):
 
-- ex 4802 52 | -- S plošnou hmotnosťou 40 g. m<sup>-2</sup> alebo vyššou, nie však vyššou ako 150 g. m<sup>-2</sup>
+- ex 4802 52 | -- S plošnou hmotnosťou 40 g.m<sup>-2</sup> alebo vyššou, nie však vyššou ako 150 g.m<sup>-2</sup>
 
 - | - Braille papier
 
-- ex 4802 53 | -- S plošnou hmotnosťou vyššou ako 150 g. m<sup>-2</sup>
+- ex 4802 53 | -- S plošnou hmotnosťou vyššou ako 150 g.m<sup>-2</sup>
 
 - | - Braille papier
 
@@ -44,31 +40,29 @@ Príloha č. 5 vyhlášky č. 17/1994 Z. z.
 
 - 4805 | Iný nenatieraný papier, kartón alebo lepenka v kotúčoch alebo listoch (hárkoch)
 
-- 4805 60 | - Iný papier a kartón s plošnou hmotnosťou najviac 150 g. m<sup>-2</sup>.
+- 4805 60 | - Iný papier a kartón s plošnou hmotnosťou najviac 150 g.m<sup>-2</sup>:
 
-- ex 4805 60 80 | -- Ostatné:
+- ex 4805 60 90 | -- Ostatné:
 
 - | - Braille papier
 
-- 4805 70 | - Iný kartón s plošnou hmotnosťou vyššou ako 150 g. m<sup>-2</sup>, avšak nižšou ako 225
-
-- | g.m<sup>-2</sup>.
+- 4805 70 | - Iný kartón s plošnou hmotnosťou vyššou ako 150 g.m<sup>-2</sup>, avšak nižšou ako 225 g.m<sup>-2</sup>:
 
 - ex 4805 70 90 | -- Ostatné:
 
-- | Braille papier
+- | - Braille papier
 
-- 4805 80 | - Iný kartón a lepenka s plošnou hmotnosťou 225 g. m<sup>-2</sup> a vyššou:
+- 4805 80 | - Iný kartón a lepenka s plošnou hmotnosťou 225 g.m<sup>-2</sup> a vyššou:
 
 - ex 4805 80 90 | -- Ostatné:
 
 - | - Braille papier
 
-- 4823 | Iný papier, kartón a lepenka, buničitá vata a pásy splstených buničitých vláken
+- 4823 | Iný papier, kartón a lepenka, buničitá vata a pásy splstených buničinových vláken
 
-- | rezané na formát alebo na tvary: iné výrobky z papieroviny, papiera, kartónu, lepenky,
+- | rezané na formát alebo na tvary; iné výrobky z papieroviny, papiera, kartónu, lepenky,
 
-- | buničitej vaty alebo pásov splstených buničitých vláken
+- | buničitej vaty alebo pásov splstených buničinových vláken
 
 - 4823 59 | -- Ostatné:
 
@@ -76,17 +70,13 @@ Príloha č. 5 vyhlášky č. 17/1994 Z. z.
 
 - | - Braille papier
 
-- ex 6602 00 00 | Palice, palice so sedadielkom, biče, jazdecké bičíky a podobné výrobky
-
-- | - Biele palice pre zrakovo postihnuté osoby
-
 - ex 8469 | Písacie stroje a stroje na spracovanie textov (slovné procesory)
 
 - | - Upravené na používanie pre zrakovo postihnuté osoby
 
 - ex 8471 | Stroje na automatické spracovanie dát a ich jednotky; magnetické alebo optické
 
-- | snímače, stroje na prepis dát v kódovanej forme na médiá dát a stoj e na spracúvanie
+- | snímače, stroje na prepis dát v kódovanej forme na médiá dát a stroje na spracúvanie
 
 - | týchto dát inde neuvedené ani nezahrnuté
 
@@ -98,15 +88,15 @@ Príloha č. 5 vyhlášky č. 17/1994 Z. z.
 
 - | reprodukčné prístroje bez zariadenia na záznam zvuku
 
-- | - Gramofóny a kazetové prehrávače osobitne vyrobené alebo prispôsobené pre
+- | - Gramofóny a kazetové prehrávače osobitne vyrobené alebo prispôsobené pre zrakovo
 
-- | zrakovo postihnuté osoby
+- | postihnuté osoby
 
 - ex 8524 | Gramofónové platne, magnetické pásky a iné nahráte médiá na záznam zvuku alebo
 
-- | na podobné záznamy vrátane matríc a galvanických odtlačkov na výrobu platní,
+- | na podobné záznamy vrátane matríc a galvanických odtlačkov na výrobu platní, avšak
 
-- | avšak s výnimkou výrobkov kapitoly 37
+- | s výnimkou výrobkov kapitoly 37
 
 - | - Nahovorené knihy
 
@@ -116,49 +106,49 @@ Príloha č. 5 vyhlášky č. 17/1994 Z. z.
 
 - 9013 | Výrobky s tekutými kryštálmi, ktoré nie sú inde osobitne zahrnuté; lasery iné ako
 
-- | laserové diódy; ostatné optické prístroje a nástroje inde v tejto kapitole neuvedené
+- | laserové diódy; ostatné optické prístroje a nástroje inde v tejto kapitole neuvedené ani
 
-- | ani nezahrnuté
+- | nezahrnuté
 
 - ex 9013 80 | - Ostatné optické prístroje a nástroje:
 
 - | - Zväčšovače televízneho obrazu pre zrakovo postihnuté osoby
 
-- | - Zväčšovače televízneho obrazu pre zrakovo postihnuté osoby
-
 - | - Elektronické čítacie zariadenie pre zrakovo postihnuté osoby
 
-- ex 9021 | Ortopedické pomôcky a prístroje vrátane bariel, liečebných a chirurgických pásov
+- ex 9021 | Ortopedické pomôcky a prístroje vrátane bariel, liečebných a chirurgických pásov a
 
-- | a bandáží; dlahy a iné potreby a prístroje na liečenie zlomenín; protézové pomôcky
+- | bandáží; dlahy a iné potreby a prístroje na liečenie zlomenín; protézové pomôcky a
 
-- | a prístroje; prístroje pre nedoslýchavých a iné prístroje nosené v ruke alebo na tele
+- | prístroje; prístroje pre nedoslýchavých a iné prístroje nosené v ruke alebo na tele alebo
 
-- | alebo implantované v organizme na kompenzovanie následkov nejakej vady alebo
+- | implantované v organizme na kompenzovanie následkov nejakej chyby alebo neschop-
 
-- | neschopnosti
+- | nosti
 
 - 9021 90 | - Ostatné:
 
 - ex 9021 90 90 | -- Ostatné:
 
+- | - Biele palice
+
 - | - Elektronické orientačné prístroje a detektory prekážok pre zrakovo postihnuté
 
 - | osoby
 
-- 9023 00 | Nástroje, prístroje a modely určené na predvádzanie (napríklad pri vyučovaní alebo
+- 9023 00 | Nástroje, prístroje a modely určené na predvádzanie (napríklad pri vyučovaní alebo na
 
-- | na výstavách), nehodiace sa na iné účely
+- | výstavách) nehodiace sa na iné účely
 
-- ex 9023 00 90 | - Ostatné:
+- ex 9023 00 80 | - Ostatné:
 
 - | - Vyučovacie pomôcky a prístroje špeciálne upravené na používanie pre zrakovo
 
 - | postihnuté osoby
 
-- ex 9102 | Náramkové hodinky, vreckové hodiny a podobné hodinky (vrátane stopiek)
+- ex 9102 | Náramkové hodinky, vreckové hodinky a podobné hodinky (vrátane stopiek) s výnimkou
 
-- | s výnimkou zaradených do čísla 9101
+- | zaradených do čísla 9101
 
 - | - Braillove hodinky s puzdrom z iných ako drahých kovov
 
@@ -174,6 +164,18 @@ Príloha č. 5 vyhlášky č. 17/1994 Z. z.
 
 - | postihnuté osoby
 
-- Rôzne | Všetky ostatné predmety a špeciálne vybavenie na vzdelávacie, výchovné, vedecké,
+- Rôzne | Vybavenia na mechanickú alebo počítačovú výrobu Braillovho písma a nahrávaného
 
-- | kultúrne alebo športové účely pre zrakovo postihnuté osoby
+- | materiálu, ako sú stereopísacie stroje, elektronický Braille, prepisové a tlačiarenské
+
+- | stroje,
+
+- | Brailleho počítačové terminály a displeje
+
+- | Magnetické pásky a kazety na výrobu Braillových a čítaných kníh
+
+- | Všetky ostatné predmety a špeciálne vybavenie na vzdelávacie, výchovné, vedecké,
+
+- | kultúrne a športové účely a na spoločenské uplatnenie zrakovo postihnutých osôb za
+
+- | podmienky, že výrobky rovnakého druhu sa v čase dovozu v tuzemsku nevyrábajú

@@ -1,109 +1,121 @@
-Príloha č. 1 vyhlášky č. 17/1994 Z. z.
+Príloha č. 1 vyhlášky č. 17/1994 Z. z. A. TOVAR NA VZDELÁVACIE, VÝCHOVNÉ, VEDECKÉ ALEBO KULTÚRNE ÚČELY
 
-- TOVAR NA VZDELÁVACIE, VÝCHOVNÉ, VEDECKÉ ALEBO KULTÚRNE ÚČELY A. Knihy, publikácie a dokumenty
+Podpoložka colného sadzobníka | Názov tovaru
 
-- Podpoložka | Názov tovaru
+3705 | Fotografické dosky a filmy, exponované a vyvolané, iné ako kinematografické filmy
 
-- colného |
+ex 3705 20 00 | Mikrofilmy detských obrázkových kníh a detských maľovaniek na dokreslenie alebo
 
-- sadzobníka |
+| vyfarbenie, kníh v zošitových vydaniach, kníh krížoviek, novín a periodických časo-
 
-- 3705 | Fotografické dosky a filmy, exponované a vyvolané, iné ako kinematografické filmy
+| pisov, dokladov alebo správ neobchodného charakteru, jednotlivých ilustrácií, tla-
 
-- ex 3705 20 00 | - Mikrofilmy kníh, detských obrázkových kníh a detských omaľovánok na
+| čených strán kníh a reprodukcií na výrobu kníh
 
-- | dokreslenie alebo vyfarbenie, kníh v zošitových vydaniach, kníh krížoviek, novín
+ex 3705 10 00 | Kópie filmov určené na výrobu kníh
 
-- | a periodických časopisov, dokladov alebo správ neobchodného charakteru,
+ex 3705 90 10 |
 
-- | jednotlivých ilustrácií, tlačených strán kníh a reprodukcií na výrobu kníh
+ex 3705 90 90 |
 
-- ex 3705 10 00 | - Kópie filmov určené na výrobu kníh
+4820 20 00 | Školské zošity (písanky) s vytlačeným textom a prázdnym priestorom, ktorý žiaci
 
-- ex 3705 90 10, |
+| majú doplniť
 
-- ex 3705 90 90, |
+4901 | Tlačené knihy
 
-- 4903 00 00 | Obrázkové albumy alebo obrázkové knihy, predlohy na kreslenie a omaľovánky pre
+4901 | Knihy a dokumenty vyhotovovane množením odlišným od tlače
 
-- | deti
+ex 4901 10 | Natlačené stránky vo forme volných alebo viazaných hárkov
 
-- 4905 | Kartografické výrobky všetkých druhov vrátane atlasov, nástenných máp,
+ex 4901 a ex 4911 | Oficiálne vládne publikácie, ako úradné, parlamentné a správne dokumenty, vytla-
 
-- | topografických plánov a glóbusov, tlačené
+| čené v krajine svojho pôvodu
 
-- 4905 99 00 | - Mapy
+ex 4901, ex 4906 00 00 a | Rukopisy vrátane strojopisov
 
-- ex 4906 00 00 | Stavebné, strojnícke a priemyslové plány a projekty a ich reprodukcie
+ex 4911 |
 
-- 4911 | Ostatné tlačiarenské výrobky vrátane tlačených obrazov, rytín a fotografií
+4902 | Noviny a periodiká
 
-- ex 4911 10 00 | - Katalógy vydaných kníh a publikácií, ponúkaných na predaj zahraničnými
+ex 4902 | Zošity s krížovkami, ktoré obsahujú tlačený text
 
-- | vydavateľmi alebo predaj cami kníh
+4903 00 00 | Obrázkové albumy alebo obrázkové knihy, predlohy na kreslenie a maľovanky pre
 
-- | - Katalógy filmov, zvukových nahrávok alebo iných obrazových alebo zvukových
+| deti
 
-- | materiálov s výchovným, vedeckým alebo kultúrnym zameraním
+4904 00 00 | Hudobné záznamy písané ručne, tlačené alebo rozmnožené iným spôsobom ako
 
-- | - Plagáty určené na podporu turistiky a turistické publikácie, letáky, turistickí
+| tlačou
 
-- | sprievodcovia, cestovné a letové poriadky, brožúry a podobné publikácie
+4905 | Kartografické výrobky všetkých druhov vrátane atlasov, nástenných máp, topogra-
 
-- | ilustrované aj neilustrované vrátane vydaných súkromnými podnikmi, ktoré sú
+| fických plánov a glóbusov, tlačené
 
-- | určené na získanie verejnosti na návštevu cudzích štátov vrátane mikrokópií
+4905 99 00 | Mapy
 
-- | týchto predmetov
+ex 4906 00 00 | Stavebné, strojnícke a priemyselné plány a projekty a ich reprodukcie
 
-- | - Bibliografický informačný materiál určený na bezplatné rozdávanie
+4911 | Ostatné tlačiarenské výrobky vrátane tlačených obrazov, rytín a fotografií
 
-- ex 4911 99 00 | - Ostatné:
+ex 4911 10 | Katalógy vydaných kníh a publikácií, ponúkaných na predaj zahraničnými vydava-
 
-- | - - Ostatné:
+| teľmi alebo predajcami kníh
 
-- | - Tabuľky, grafy a diagramy vhodné na vedecké účely v oblasti geológie, zoológie,
+| Katalógy filmov, zvukových nahrávok alebo iných obrazových alebo zvukových
 
-- | botaniky, mineralógie, paleontológie, archeológie, etnológie, meteorológie,
+| materiálov s výchovným, vedeckým alebo kultúrnym zameraním
 
-- | klimatológie a geofyziky
+| Plagáty určené na podporu turistiky a turistické publikácie, letáky, turistickí
 
-- ex 4911 99 00 | - - Ostatné:
+| sprievodcovia, cestovné a letové poriadky, brožúry a podobné publikácie ilustrované
 
-- | - Samostatné ilustrácie, tlačené listy a reprodukcie korektúr určené na výrobu
+| aj neilustrované vrátane vydaných súkromnými podnikmi, ktoré sú určené na
 
-- | kníh vrátane mikrokópií týchto predmetov
+| získanie verejnosti na návštevu cudzích štátov vrátane mikrokópií týchto predmetov
 
-- | - Mikrokópie kníh, detských obrázkových kníh a detských omaľovánok na
+| Bibliografický informačný materiál určený na bezplatné rozdávanie
 
-- | dokreslenie alebo vyfarbenie, kníh v zošitovom vydaní, kníh krížoviek, novín
+ex 4911 99 00 | Ostatné:
 
-- | a periodických časopisov, dokladov a správ neobchodného charakteru1)
+| Tabuľky, grafy a diagramy vhodné na vedecké účely v oblasti geológie, zoológie,
 
-- | - Publikácie určené na získanie verejnosti pre štúdium v zahraničí vrátane
+| botaniky, mineralógie, paleontológie, archeológie, etnológie, meteorológie, klimato-
 
-- | mikrokópií týchto publikácií. Tabuľky a diagramy vhodné na vzdelávanie,
+| lógie a geofyziky
 
-- | výchovné a vedecké účely v oblasti geológie, zoológie, botaniky, mineralógie,
+| Samostatné ilustrácie, tlačené listy a reprodukcie korektúr určené na výrobu kníh
 
-- | paleontológie, archeológie, etnológie, meteorológie, klimatológie, geofyziky
+| vrátane mikrokópií týchto predmetov
 
-- | a podobne
+| Mikrokópie kníh, detských obrázkových kníh a detských maľovaniek na dokreslenie
 
-- | - Meteorologické a geofyzikálne diagramy
+| alebo vyfarbenie, kníh v zošitovom vydaní, kníh krížoviek, novín a periodických
 
-- Podpoložka | Názov tovaru
+| časopisov, dokladov a správ neobchodného charakteru
 
-- colného |
+| Publikácie určené na získanie verejnosti pre štúdium v zahraničí vrátane mikrokópií
 
-- sadzobníka |
+| týchto publikácií
 
-- 9023 00 | Nástroje, prístroje a modely určené na predvádzanie (napríklad pri vyučovaní alebo
+| Tabuľky a diagramy vhodné na vzdelávacie, výchovné a vedecké účely v oblasti
 
-- &nbsp | na výstavách) nehodiace sa na iné účely
+| geológie, zoológie, botaniky, mineralógie, paleontológie, archeológie, etnológie, kli-
 
-- ex 9023 00 90 | - Ostatné:
+| matológie, geofyziky a podobne
 
-- B. Obrazový a zvukový materiál so vzdelávacím, výchovným, vedeckým alebo kultúrnym zameraním
+| Meteorologické a geofyzikálne diagramy
 
-- Tovar vyrobený Organizáciou Spojených národov alebo niektorou z jej špecializovaných inštitúcií (napríklad UNICEF) alebo dovážaný v jej prospech.
+9023 00 | Nástroje, prístroje a modely určené na predvádzanie (napríklad pri vyučovaní alebo
+
+| na výstavách) nehodiace sa na iné účely
+
+ex 9023 00 80 | Ostatné:
+
+Rôzne | Podklady pre tlač alebo filmy, ktoré sa budú používať na tlač a výrobu kníh
+
+| Tlačené dokumenty alebo správy nekomerčného charakteru
+
+B. OBRAZOVÝ A ZVUKOVÝ MATERIÁL SO VZDELÁVACÍM, VÝCHOVNÝM, VEDECKÝM ALEBO KULTÚRNYM ZAMERANÍM
+
+Tovar vyrobený Organizáciou Spojených národov alebo niektorou z jej špecializovaných inštitúcií (napríklad UNICEF) alebo dovážaný v jej prospech.
