@@ -42,6 +42,8 @@
 
 - 9d) § 11 ods. 1 zákona č. 563/1991 Zb. o účtovníctve.
 
+- 9e) § 5 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+
 - 10) Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 79/1981 Zb. o zdravotníckych pracovníkoch a iných odborných pracovníkoch v zdravotníctve.
 
 - 10a) Zákon č. 140/1998 Z. z.
