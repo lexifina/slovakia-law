@@ -2,19 +2,15 @@
 
 - § 2 nariadenia vlády Slovenskej republiky č. 282/2003 Z. z. o požiadavkách v záujme ochrany zdravia ľudí pri produkcii a uvádzaní čerstvého hydinového mäsa na trh.
 
-- § 2 nariadenia vlády Slovenskej republiky č. 287/2003 Z. z. o požiadavkách na zdravie zvierat pri výmene mäsových výrobkov s členskými štátmi.
-
-- § 2 nariadenia vlády Slovenskej republiky č. 283/2003 Z. z. o zdravotných problémoch, ktoré ovplyvňujú výmenu čerstvého mäsa z domáceho hovädzieho dobytka, ošípaných, z domácich oviec, kôz a z domácich nepárnokopytníkov.
+- § 2 nariadenia vlády Slovenskej republiky č. 284/2003 Z. z. o zdravotných problémoch a problémoch veterinárnej inšpekcie pri dovoze hovädzieho dobytka, oviec, kôz, ošípaných, čerstvého mäsa alebo mäsových výrobkov z tretích krajín v znení nariadenia vlády Slovenskej republiky č. 485/2003 Z. z.§ 2 nariadenia vlády Slovenskej republiky č. 283/2003 Z. z. o zdravotných problémoch, ktoré ovplyvňujú výmenu čerstvého mäsa z domáceho hovädzieho dobytka, ošípaných, z domácich oviec, kôz a z domácich nepárnokopytníkov.
 
 - § 2 nariadenia vlády Slovenskej republiky č. 317/2003 Z. z. o požiadavkách na výrobu a uvádzanie na trh mletého mäsa a mäsových prípravkov.
 
-- § 2 písm. a) a b) nariadenia vlády Slovenskej republiky č. 300/2003 Z. z. o požiadavkách na zdravie zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri produkcii králičieho mäsa a zveriny zo zveri z farmových chovov a pri ich uvádzaní na trh.
-
-- § 2 ods. 1 písm. d) nariadenia vlády Slovenskej republiky č. 311/2003 Z. z. o požiadavkách na ochranu zdravia zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri usmrcovaní voľne žijúcej zveri a uvádzaní zveriny z tejto zveri na trh.
+- § 2 ods. 1 písm. a) a b) nariadenia vlády Slovenskej republiky č. 300/2003 Z. z. o požiadavkách na zdravie zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri produkcii králičieho mäsa a zveriny zo zveri z farmových chovov a pri ich uvádzaní na trh v znení nariadenia vlády Slovenskej republiky č. 501/2003 Z. z.§ 2 ods. 1 písm. d) nariadenia vlády Slovenskej republiky č. 311/2003 Z. z. o požiadavkách na ochranu zdravia zvierat a o požiadavkách v záujme ochrany zdravia ľudí pri usmrcovaní voľne žijúcej zveri a uvádzaní zveriny z tejto zveri na trh.
 
 - 2) Nariadenie vlády Slovenskej republiky č. 317/2003 Z. z.
 
-- 3) § 4 ods. 3 zákona č. 488/2002 Z. z.
+- 3) § 4 ods. 3 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
 - 4) § 2 písm. a) zákona č. 488/2002 Z. z.
 
@@ -42,7 +38,7 @@
 
 - § 4 ods. 1 a 5 a príloha č. 2 časť I nariadenia vlády Slovenskej republiky č. 282/2003 Z. z.
 
-- 14) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 13. februára 2003 č. 414/2003-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca cudzorodé látky v potravinách (oznámenie č. 101/2003 Z. z.).
+- 14) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 195/1996 Z. z.) v znení výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky zo 16. decembra 1997 č. 557/1998-100 (oznámenie č. 284/1998 Z. z.).
 
 - 15) § 37 ods. 10 zákona č. 488/2002 Z. z.
 
@@ -60,7 +56,7 @@
 
 - 20) § 6 ods. 2 písm. a) a § 14 ods. 3 zákona č. 488/2002 Z. z.
 
-- 21) § 4 ods. 1 písm. a) bod 1 a ods. 4 a 6 nariadenia vlády Slovenskej republiky č. 281/2003 Z. z.
+- 21) § 4 ods. 1 písm. a) prvý bod a ods. 4 a 5 nariadenia vlády Slovenskej republiky č. 281/2003 Z. z. v znení nariadenia vlády Slovenskej republiky č. 490/2003 Z. z.
 
 - 22) § 2 písm. d) zákona č. 488/2002 Z. z.
 
@@ -68,7 +64,7 @@
 
 - 24) § 31 zákona č. 488/2002 Z. z.
 
-- Nariadenie vlády Slovenskej republiky č. 293/2003 Z. z. o veterinárnej kontrole pri výmenách živých zvierat a produktov živočíšneho pôvodu s členskými štátmi.
+- Nariadenie vlády Slovenskej republiky č. 292/2003 Z. z. o podrobnostiach veterinárnych kontrol pri výmenách produktov živočíšneho pôvodu s členskými štátmi v znení nariadenia vlády Slovenskej republiky č. 493/2003 Z. z.
 
 - 25) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 13. februára 2003 č. 414/2003-100 (oznámenie č. 201/2003 Z. z.).
 
@@ -80,15 +76,13 @@
 
 - 2) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 29/2002 Z. z. o požiadavkách na pitnú vodu a kontrolu kvality pitnej vody.
 
-- 3) § 33 a 34 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.) v znení výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky zo 16. decembra 1997 č. 557/1998-100, ktorým sa dopĺňa výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 284/1998 Z. z.).
-
-- § 21 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
+- 3) § 33 a 34 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 195/1996 Z. z.)§ 21 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
 
 - 1) § 48 ods. 1 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
 - 2) Nariadenie vlády Slovenskej republiky č. 317/2003 Z. z. o požiadavkách na výrobu a uvádzanie na trh mletého mäsa a mäsových prípravkov.
 
-- 3) § 3 ods. 1 zákona č. 488/2002 Z. z.
+- 3) § 3 zákona č. 488/2002 Z. z.
 
 - 4) § 3 ods. 2 zákona č. 488/2002 Z. Z.
 

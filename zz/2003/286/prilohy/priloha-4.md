@@ -66,13 +66,13 @@ Príloha č. 4 k nariadeniu vlády č. 286/2003 Z. z.
 
     - | Jedlý loj | | Loj na rafinovanie | Jedlá bravčová masť | | Masť a bravčový tuk na rafinovanie | Jedlé tuky | Tuky na rafinovanie
 
-    - | prvá trieda<sup>1</sup>) | ostatný | | prvá trieda<sup>2</sup>) | ostatná | | |
+    - | Prvá trieda<sup>1</sup>) | Ostatný | | Prvá trieda<sup>2</sup>) | Ostatná | | |
 
-    - Voľné mastné kyseliny najviac (v<sup>3</sup>) m/m (%) kyseliny olejovej | 0, 75 | 1,25 | 3,0 | 0,75 | 1,25 | 2,0 | 1,25 | 3,0
+    - Voľné mastné kyseliny najviac [v (%) hmot. zlomku<sup>3</sup>)] kyseliny olejovej | 0,75 | 1,25 | 3,0 | 0,75 | 1,25 | 2,0 | 1,25 | 3,0
 
-    - Peroxidy najviac | 4 meq.kg<sup>-1</sup> | 4 meq.kg<sup>-1</sup> | 6 meq.kg<sup>-1</sup> | 4 meq.kg<sup>-1</sup> | 6 meq.kg<sup>-1</sup> | 6 meq.kg<sup>-1</sup> | 4 meq.kg-1 | 10 meq.kg<sup>-1</sup>
+    - Peroxidy najviac | 4 meq/kg<sup>-1</sup> | 4 meq/kg<sup>-1</sup> | 6 meq/kg<sup>-1</sup> | 4 meq/kg<sup>-1</sup> | 6 meq/kg<sup>-1</sup> | 6 meq/kg<sup>-1</sup> | 4 meq/kg<sup>-1</sup> | 10 meq/kg<sup>-1</sup>
 
-    - Voda a nečistoty | najviac 0,5 % | | | | | | |
+    - Voda a nečistoty | Najviac 0,5% | | | | | | |
 
     - Vôňa, chuť, farba | normálna | | | | | | |
 

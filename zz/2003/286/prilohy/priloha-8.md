@@ -4,11 +4,11 @@ Príloha č. 8 k nariadeniu vlády č. 286/2003 Z. z.
 
   - ČASŤ A
 
-    - 1. Prevádzkareň umiestnenú na veľkoobchodnom trhu [§ 2 písm. t)] nemožno uviesť v zozname schválených prevádzkarní podľa § 8 ods. 1 písm. a), ak nespĺňa podmienky uvedené v časti B.
+    - 1. Prevádzkareň umiestnenú na veľkoobchodnom trhu [§ 2 písm. u)] nemožno uviesť v zozname schválených prevádzkarní podľa § 8 ods. 1 písm. a), ak nespĺňa podmienky uvedené v časti B.
 
     - 2. Prevádzkarne alebo kombinácie prevádzkarní, ktoré prevádzkujú svoju činnosť na veľkoobchodnom trhu, môžu mať pridelené veterinárne schvaľovacie čísla.
 
-    - 3. Veterinárne schvaľovacie číslo uvedené v bode 3 môže štátna veterinárna a potravinová správa dočasne pozastaviť alebo zrušiť, ak prevádzkareň alebo kombinácia prevádzkarní naďalej nespĺňa podmienky ustanovené týmto nariadením alebo nedodržiava iné veterinárne požiadavky.<sup>1</sup>) Toto pozastavenie alebo zrušenie schválenia nemusí nevyhnutne ovplyvniť schválenie iných prevádzkarní umiestnených na veľkoobchodnom trhu.
+    - 3. Veterinárne schvaľovacie číslo uvedené v bode 2 môže štátna veterinárna a potravinová správa dočasne pozastaviť alebo zrušiť, ak prevádzkareň alebo kombinácia prevádzkarní naďalej nespĺňa podmienky ustanovené týmto nariadením alebo nedodržiava iné veterinárne požiadavky.<sup>1</sup>) Toto pozastavenie alebo zrušenie schválenia nemusí nevyhnutne ovplyvniť schválenie iných prevádzkarní umiestnených na veľkoobchodnom trhu.
 
   - ČASŤ B PODMIENKY NA SCHVÁLENIE PREVÁDZKARNÍ UMIESTNENÝCH NA VEĽKOOBCHODNÝCH TRHOCH
 

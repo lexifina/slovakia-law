@@ -260,13 +260,13 @@ Príloha č. 3 k nariadeniu vlády č. 286/2003 Z. z.
 
         - a) boli sterilizované výrobky účinne tepelne ošetrené; tieto kontroly sa vykonávajú prostredníctvom
 
-          - 1. termostatových skúšok (inkubačných testov), pri ktorých sa musí inkubácia vykonávať najmenej pri 37 <sup>o</sup>C po 7 dní alebo najmenej pri 35 <sup>o</sup>C po 10 dní, alebo pri inej kombinácii času a teploty uznanej za rovnocennú s uvedenými kombináciami príslušným orgánom veterinárnej správy.<sup>9</sup>)
+          - 1. termostatových skúšok (inkubačných testov), pri ktorých sa musí inkubácia vykonávať najmenej pri 37 <sup>o</sup>C po 7 dní alebo najmenej pri 35 <sup>o</sup>C po 10 dní, alebo pri inej kombinácii času a teploty uznanej za rovnocennú s uvedenými kombináciami štátnou veterinárnou a potravinovou správou.<sup>9</sup>)
 
           - 2. mikrobiologických vyšetrení obsahu a obalov v laboratóriu prevádzkarne alebo v inom schválenom laboratóriu,
 
         - b) pasterizované výrobky v hermeticky uzavretých obaloch vyhovovali kritériám uznaným štátnou veterinárnou a potravinovou správou,
 
-      - 5. sa vykonávajú potrebné kontroly na zabezpečenie toho, aby voda na chladenie obalov obsahovala po použití reziduálny obsah chlóru; štátna veterinárna a potravinová správa môže povoliť výnimku z tejto požiadavky, ak voda na chladenie obalov spĺňa požiadavky podľa osobitného predpisu.<sup>2</sup>)
+      - 5. sa vykonávajú potrebné kontroly na zabezpečenie toho, aby voda na chladenie obalov obsahovala po použití reziduálny obsah chlóru; štátna veterinárna a potravinová správa môže povoliť výnimku z tejto požiadavky, ak voda na chladenie obalov spĺňa požiadavky podľa osobitného predpisu.<sup>9</sup>)
 
     - C. Príslušný orgán veterinárnej správy môže povoliť
 
