@@ -1,0 +1,3 @@
+Minister:
+
+Andrejčák v. r.
