@@ -1,0 +1,3 @@
+# Článok 20 Verejné služby
+
+Odmeny vrátane penzií vyplácané z verejných fondov jedného zmluvného štátu alebo nižšieho správneho útvaru alebo miestneho orgánu tohto štátu občanovi tohto štátu za služby preukazované vo funkciách vládnej povahy podliehajú zdaneniu iba v tomto štáte. Avšak ustanovenia článku 14 – Nezávislé povolania, článku 15 – Závislé povolania, alebo článku 18 Umelci a športovci, sa uplatnia podľa toho, o aký prípad ide, a predchádzajúca veta sa nepoužije na odmeny platené z verejných fondov jedného zmluvného štátu, nižšieho správneho útvaru alebo miestneho úradu tohto štátu za služby preukazované v súvislosti s priemyselnou alebo obchodnou činnosťou vykonávanou týmto zmluvným štátom, nižším správnym útvarom alebo miestnym úradom.
