@@ -4,7 +4,7 @@
 
 - 3) § 13 vyhlášky Federálneho ministerstva dopravy č. 35/1984 Zb., ktorou sa vykonáva zákon o pozemných komunikáciách (cestný zákon).
 
-- 4) Napríklad zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave, zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 4) Napríklad zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave, zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
@@ -18,6 +18,8 @@
 
 - 9) § 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení neskorších predpisov.
 
+- 9a) § 22 zákona č. 725/2004 Z. z.
+
 - 10) § 3d zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
 - 10a) § 17 ods. 1 písm. a), b) a c) zákona č. 195/1998 Z. z. o sociálnej pomoci.
@@ -27,6 +29,8 @@
 - 12) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
 
 - 13) Zákon č. 124/1992 Zb.
+
+- 13a) Zákon č. 135/1961 Zb. v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -40,6 +44,8 @@
 
 - 18a) Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov.
 
+- 18b) § 11 ods. 11 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty.
+
 - 19) § 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z.
 
 - 20) Napríklad vyhláška ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení vyhlášky ministra zahraničných vecí č. 82/1984 Zb., zákon č. 121/2004 Z. z.
@@ -51,6 +57,8 @@
 - 22) § 49 a 50 Trestného zákona.
 
 - 23) § 14 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
+
+- 23a) § 23 ods. 1 zákona č. 725/2004 Z. z.
 
 - 24) § 3 ods. 2 zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
@@ -72,11 +80,15 @@
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
 
+- 32a) Zákon č. 725/2004 Z. z.
+
 - 33) Obchodný zákonník.
 
 - 34) Napríklad Občiansky zákonník, zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z.
 
-- 34a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 34a) § 85 zákona č. 725/2004 Z. z.
+
+- 34aa) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 35) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z.
 
@@ -88,6 +100,10 @@
 
 - 37b) § 21 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
+- 37c) § 54 zákona č. 725/2004 Z. z.
+
+- 37d) Zákon č. 725/2004 Z. z.
+
 - 38) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 39) § 158 Trestného poriadku.
@@ -95,6 +111,8 @@
 - 40) § 3 zákona č. 135/1961 Zb. v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 41) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
+- 41a) § 23 ods. 8, 9 a 11 písm. a) zákona č. 725/2004 Z. z.
 
 - 42) § 52 písm. b) zákona Slovenskej národnej rady č. 372/1990 Zb.
 
