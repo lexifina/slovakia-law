@@ -1,1 +1,0 @@
-Jozef Moravčík v. r.
