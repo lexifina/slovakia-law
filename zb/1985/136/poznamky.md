@@ -8,7 +8,7 @@
 
 - 4) § 128 ods. 1 Občianskeho zákonníka č. 40/1964 Zb. v úplnom znení vyhlásenom pod č. 70/1983 Zb.
 
-- 5) Zákon č. 52/1966 Zb. o osobnom vlastníctve bytov v znení zákona č. 30/1978 Zb.
+- 5) Zákon č. 52/1966 Zb. o osobnom vlastníctve bytov v znení zákona č. 30/1978 Zb., zákona č. 509/1991 Zb. a zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb.
 
 - 6) Výnos Federálneho ministerstva financií, Ministerstva financií Českej republiky, Ministerstva financií Slovenskej republiky a Štátnej banky česko-slovenskej o podmienkach poskytovania finančnej pomoci na družstevnú bytovú výstavbu, uverejnený pod č. 3 vo Finančnom spravodajcovi č. 2 – 3/1991, reg. v čiastke 16/1991 Zb.
 
@@ -19,6 +19,8 @@
 - Smernice zväzov družstiev vydané podľa § 69 ods. 8 zákona č. 94/1988 Zb. o bytovom, spotrebnom a výrobnom družstevníctve.
 
 - 7) Úžitkovou plochou sa rozumie plocha podľa ČSN 73 4301 (bez plochy logií a balkónov).
+
+- 7a) Napr. zákon č. 47/1956 Zb. o civilnom letectve (letecký zákon) v znení zákona č. 40/1964 Zb., zákona č. 43/1976 Zb., zákona č. 90/1990 Zb. a zákona č. 383/1990 Zb.
 
 - 8) Pokyny Ministerstva výstavby a techniky Českej socialistickej republiky z 21. apríla 1969 a pokyny Ministerstva výstavby a techniky Slovenskej socialistickej republiky z 15. júna 1970 o vymedzení vecného rozsahu rozpočtových nákladov bytového domu (Spravodajca FVTIR, MVT ČSR a MVT SSR, čiastka 1-2/1969 a čiastka 6/1970).
 
@@ -110,9 +112,9 @@
 
 - Položka 100 Prílohy D a § 2 ods. 3 zákona Slovenskej národnej rady č. 472/1990 Zb.
 
-- 32f) § 58 Občianskeho zákonníka.
+- 32f) § 151a a nasl. Občianskeho zákonníka.
 
-- 32g) Zaradenie organizácií sa riadi jednotnou klasifikáciou odvetví národného hospodárstva upravenou úpravou Federálneho štatistického úradu pod č. 5 Spravodajcu ústredných štatistických orgánov, čiastka 8 z roka 1985, reg. v čiastke 33/1985 Zb.
+- 32g) § 143a Občianskeho zákonníka.
 
 - 32h) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 17/1982 Zb. o technických požiadavkách na výstavbu skupinových rodinných domčekov do osobného vlastníctva.
 
@@ -130,7 +132,7 @@
 
 - § 7 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
-- 34b) § 1 ods. 1 Hospodárskeho zákonníka.
+- 34b) § 88 ods. 1 písm. a) zákona č. 50/1976 Zb.
 
 - 34c) § 5 písmeno b) zákona Českej národnej rady č. 425/1990 Zb.
 
@@ -162,18 +164,30 @@
 
 - § 17, 18 a 19 vyhlášky č. 1/1982 Zb.
 
-- 39) § 12, 14 a 15 vyhlášky č. 191/1964 Zb.
+- 39) § 12, 14 a 15 vyhlášky Štátnej plánovacej komisie a Ministerstva financií č. 191/1964 Zb. o finančnej, úverovej a inej pomoci družstevnej bytovej výstavbe a výstavbe rodinných domčekov.
 
-- Predpisy ministerstiev poľnohospodárstva a výživy a lesného a vodného hospodárstva, vydané na základe § 18 a 19 vyhlášky č. 191/1964 Zb.
+- Predpisy ministerstiev poľnohospodárstva a výživy a lesného a vodného hospodárstva vydané na základe § 18 a 19 vyhlášky č. 191/1964 Zb.
 
-- § 11 vyhlášky č. 137/1968 Zb. v znení vyhlášky č. 14/1969 Zb. a vyhlášky č. 26/1969 Zb.
+- § 11 vyhlášky Ministerstva financií č. 137/1968 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe v znení vyhlášky č. 14/1969 Zb. a vyhlášky č. 26/1969 Zb.
 
-- Predpisy ministerstiev poľnohospodárstva a výživy a lesného a vodného hospodárstva, vydané na základe § 17 vyhlášky č. 137/1968 Zb.
+- Predpisy ministerstiev poľnohospodárstva a výživy a lesného a vodného hospodárstva vydané na základe § 17 vyhlášky č. 137/1968 Zb.
 
-- § 12, 17 a 18 vyhlášky č. 160/1976 Zb. v znení vyhlášky č. 172/1980 Zb.
+- § 12, 17 a 18 vyhlášky Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 160/1976 Zb. o finančnej a úverovej pomoci družstevnej a individuálnej bytovej výstavbe v znení vyhlášky č. 172/1980 Zb.
 
-- § 12, 17, 18 a 24 vyhlášky č. 1/1982 Zb. v znení vyhlášky č. 159/1983 Zb.
+- § 12, 17, 18 a 24 vyhlášky Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 1/1982 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe v znení vyhlášky č. 159/1983 Zb.
 
-- § 12, 19, 20, 26 a 27 vyhlášky č. 136/1985 Zb. v znení vyhlášky č. 74/1989 Zb.
+- § 12, 19, 20, 26 a 27 vyhlášky Federálneho ministerstva financií, ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 136/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve v znení vyhlášky č. 74/1989 Zb. a vyhlášky č. 73/1991 Zb.
 
-- 40) Opatrenie o pozastavení uzavieraní zmlúv a príspevkoch na individuálnu bytovú výstavbu a modernizáciu rodinných domčekov z 9. októbra 1990, uverejnené pod č. 25 vo Finančnom spravodajcovi č. 9/1990 v znení redakčného oznámenia uverejneného pod č. 52 vo Finančnom spravodajcovi č. 12/1990.
+- 40) § 4 ods. 1 zákona č. 98/1987 Zb. o osobitnom príspevku baníkom v znení zákona č. 160/1989 Zb.
+
+- 41) § 119 ods. 2 Občianskeho zákonníka.
+
+- 42) § 12 vyhlášky č. 137/1968 Zb. v znení vyhlášky č. 14/1969 Zb. a vyhlášky č. 26/1969 Zb.
+
+- § 19 vyhlášky č. 160/1976 Zb. v znení vyhlášky č. 172/1980 Zb.
+
+- § 19 vyhlášky č. 1/1982 Zb. v znení vyhlášky č. 159/1983 Zb.
+
+- § 18 vyhlášky č. 136/1985 Zb. v znení vyhlášky č. 74/1989 Zb. a vyhlášky č. 73/1991 Zb.
+
+- 43) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb.
