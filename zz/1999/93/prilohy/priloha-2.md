@@ -1,3 +1,0 @@
-Príloha č. 2 k vyhláške č. 93/1999 Z. z.
-
-- ZOZNAM DRUHOV UVEDENÝCH V PRÍLOHÁCH WASHINGTONSKÉHO DOHOVORU [Príloha 02](../assets/e2ac11481b2659b7c8a808201485ca3100e6b1e2a6398b78cab6568db3e5d9d7.pdf)
