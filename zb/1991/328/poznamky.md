@@ -6,6 +6,16 @@
 
 - 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
+- 1d) § 31 až 58 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
+
+- 1e) § 65 ods. 1 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- 1f) § 3 ods. 5 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1g) § 99 ods. 1 a ods. 3 písm. h) a § 99 ods. 15 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení zákona č. 291/2002 Z. z.
+
+- 1h) § 82 ods. 1 písm. b) zákona č. 566/2001 Z. z.
+
 - 2) § 91 ods. 2 Občianskeho súdneho poriadku.
 
 - 2a) Napríklad Občiansky súdny poriadok, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok), zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
@@ -17,6 +27,8 @@
 - Zákon SNR č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
 - 3a) § 5 Obchodného zákonníka.
+
+- 3aa) § 35 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.§ 107a zákona č. 566/2001 Z. z. v znení zákona č. 291/2002 Z. z.
 
 - 3b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z.
 
@@ -69,3 +81,5 @@
 - 7) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení zákonov č. 458/1990 Zb. a č. 137/1991 Zb., zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
 
 - 8) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+
+- 9) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
