@@ -1,1 +1,0 @@
-- *) Smernice Ministerstva zahraničného obchodu o vývoznom a dovoznom konaní v styku so socialistickými krajinami (č. 2/1969 Vestníka Ministerstva zahraničného obchodu) a smernice Ministerstva zahraničného obchodu o dovoznom konaní v styku s kapitalistickými krajinami (č. 3/1969 Vestníka Ministerstva zahraničného obchodu).
