@@ -1,0 +1,1 @@
+- 1) § 23 zákona č. 129/1989 Zb. o rozpočtovej sústave ČSSR a o pravidlách hospodárenia s rozpočtovými prostriedkami (rozpočtové pravidlá).
