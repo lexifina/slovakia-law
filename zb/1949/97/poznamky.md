@@ -1,0 +1,1 @@
+- *) Vládne nariadenie č. 163/1947 Sb., v znení vládnych nariadení č. 80/1948 a č. 32/1949 Sb. platí odo dňa 23. februára 1949.
