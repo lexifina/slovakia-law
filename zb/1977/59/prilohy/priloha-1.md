@@ -68,9 +68,11 @@
 
   - 1. Občania zmluvných strán môžu používať spoločnú „Cestu československo-poľského priateľstva“, vedúcu po hrebeňoch Krkonôš, ak majú u seba preukaz totožnosti.
 
-  - 2. Podrobný priebeh spoločnej cesty uvedenej v odseku 1 je vyznačený na mape tvoriacej prílohu č. 2 tejto Dohody. Príslušné orgány oboch zmluvných strán vyznačia priebeh tejto cesty v teréne.
+  - 2. Cestu česko-slovensko-poľského priateľstva, vedúcu po hrebeňoch Krkonôš, môžu používať občania tretích štátov, ak pri sebe majú cestovný doklad. Občania tretích štátov podliehajú právnemu poriadku zmluvnej strany, na ktorej území sa nachádzajú.
 
-  - 3. Podmienky používania spoločnej „Cesty československo-poľského priateľstva“ sú upravené v Zmluve medzi Československou socialistickou republikou a Poľskou ľudovou republikou o právnych vzťahoch na československo-poľských štátnych hraniciach, o spolupráci a vzájomnej pomoci v hraničných otázkach, podpísanej v Prahe 2. decembra 1967.
+  - 3. Podrobný priebeh spoločnej cesty uvedenej v odseku 1 je vyznačený na mape tvoriacej prílohu č. 2 tejto Dohody. Príslušné orgány oboch zmluvných strán vyznačia priebeh tejto cesty v teréne.
+
+  - 4. Podmienky používania spoločnej „Cesty československo-poľského priateľstva“ sú upravené v Zmluve medzi Československou socialistickou republikou a Poľskou ľudovou republikou o právnych vzťahoch na československo-poľských štátnych hraniciach, o spolupráci a vzájomnej pomoci v hraničných otázkach, podpísanej v Prahe 2. decembra 1967.
 
 - Článok 8 Pre turistickú a športovú plavbu sa sprístupňujú pohraničné úseky riek Dunajca a Popradu za týchto podmienok:
 
