@@ -81,3 +81,9 @@
 - 24) § 68 ods. 3 vyhlášky č. 149/1988 Zb. v znení vyhlášky č. 123/1990 Zb.
 
 - 25) § 27 ods. 2 nariadenia vlády Československej socialistickej republiky č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce.
+
+- 26) Zákon č. 76/1952 Zb. o dani zo mzdy v znení neskorších predpisov.
+
+- Zákon č. 389/1990 Zb. o dani z príjmov obyvateľstva.
+
+- Zákon č. 36/1965 Zb. o dani z príjmov z literárnej a umeleckej činnosti v znení neskorších predpisov.
