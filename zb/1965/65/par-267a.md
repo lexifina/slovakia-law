@@ -10,7 +10,7 @@
 
 - d) vedľajšia činnosť (§ 71) sa môže vo výrobnom družstve vykonávať len v pracovnom pomere alebo na základe dohôd o prácach vykonávaných mimo pracovného pomeru;
 
-- e) pracovný poriadok družstva schvaľuje členská schôdza družstva. V pracovnom poriadku sa najmä určí, ktorý orgán družstva ukladá kárne opatrenia a rozhoduje o námietkach proti uloženiu pokarhania;
+- e) pracovný poriadok družstva schvaľuje členská schôdza družstva. Orgány oprávnené ukladať kárne opatrenia určí Český zväz výrobných družstiev a Slovenský zväz výrobných družstiev;
 
 - f) v prípadoch, v ktorých tento zákon umožňuje upraviť aj niektoré pracovné alebo mzdové podmienky kolektívnou zmluvou, možno vo výrobných družstvách takú úpravu urobiť uznesením členskej schôdze;
 
