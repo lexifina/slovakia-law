@@ -8,6 +8,8 @@
 
 - 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
+- 1ca) § 14 až 17 Občianskeho súdneho poriadku.
+
 - 1d) § 31 až 58 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
 
 - 1e) § 65 ods. 1 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
