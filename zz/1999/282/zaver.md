@@ -1,1 +1,0 @@
-Jozef Macejko v. r.
