@@ -22,6 +22,8 @@
 
 - 9) § 528 Obchodného zákonníka.
 
+- 9a) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste a o tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
+
 - 10) Napr. § 22 ods. 1 zákona č. 92/1991 Zb.
 
 - 11) Napr. § 155 Obchodného zákonníka, § 3 zákona č. 530/1990 Zb., § 23 zákona č. 92/1991 Zb., § 11 zákona č. 248/1992 Zb.
