@@ -138,15 +138,15 @@
 
 - Deň vykonania platby
 
-- 1. Za deň, ktorý sa považuje za deň vykonania platby voči Úradu, je:
+- 1. Deň, ktorý sa považuje za deň vykonania platby voči Úradu, je
 
-- a) v prípadoch uvedených v článku 5 odsek 1(a) a (b): deň, v ktorom je čiastka platby alebo prevodu skutočne pripísaná na bankový alebo žírový účet Úradu;
+- a) v prípadoch uvedených v článku 5 odseku 1(a) a (b) deň, v ktorom je čiastka platby alebo prevodu skutočne pripísaná na bankový alebo žírový účet Úradu;
 
-- b) v prípadoch uvedených v článku 5 odsek 1(c): deň prijatia čiastky šekom úradom, za predpokladu, že šek je krytý.
+- b) v prípadoch uvedených v článku 5 odseku 1(c) deň prijatia čiastky šekom Úradom za predpokladu, že šek je krytý.
 
-- 2. Ak prezident Úradu na základe článku 5 odsek 2 pripustí aj iné spôsoby platenia poplatkov, než sú uvedené v článku 5 odsek 1, potom určí aj deň, ktorý sa považuje za deň vykonania platby.
+- 2. Ak prezident Úradu na základe článku 5 odseku 2 pripustí aj iné spôsoby platenia poplatkov, než sú uvedené v článku 5 odseku 1, potom určí aj deň, ktorý sa považuje za deň vykonania platby.
 
-- 3. Ak sa na základe ustanovenia odsekov 1 a 2 platba nepovažuje za uskutočnenú až do uplynutí lehoty, v rámci ktorej mala byť vykonaná; lehota sa považuje za dodržanú, ak bol úradu predložený dôkaz o tom, že platca:
+- 3. Ak sa na základe ustanovenia odsekov 1 a 2 platba nepovažuje za uskutočnenú až do uplynutia lehoty, v rámci ktorej mala byť vykonaná, lehota sa považuje za dodržanú, ak bol Úradu predložený dôkaz o tom, že platca
 
 - a) v lehote, v ktorej mala byť platba uskutočnená, splnil v zmluvnom štáte niektorú z uvedených podmienok:
 
@@ -154,9 +154,9 @@
 
 - ii) riadne vystavil príkaz bankovej inštitúcii alebo pošte, aby čiastku previedla;
 
-- iii) odoslal na pošte list s adresou úradu, ktorý obsahoval šek v zmysle článku 5 odsek 1(d), ak je tento šek krytý, a
+- iii) odoslal na pošte list s adresou Úradu, ktorý obsahoval šek v zmysle článku 5 odseku 1(d), ak je tento šek krytý, a
 
-- b) zaplatil príplatok 10 % príslušného poplatku alebo poplatkov, najviac však 153 EUR; príplatok sa neplatí, ak podmienka uvedená v pododseku (a) bola splnená najneskôr desať dní pred uplynutím lehoty na zaplatenie.
+- b) zaplatil príplatok 10 % príslušného poplatku alebo poplatkov, najviac však 150 EUR; príplatok sa neplatí, ak podmienka uvedená v pododseku (a) bola splnená najneskôr desať dní pred uplynutím lehoty na zaplatenie.
 
 - 4. Úrad môže požiadať platcu, aby predložil dôkaz o tom, v ktorom dni bola splnená podmienka uvedená v odseku 3(a), a aby prípadne zaplatil príplatok uvedený v odseku 3(b) v lehote, ktorú mu stanoví. Ak sa tejto výzve nevyhovie alebo dôkaz nie je dostatočný, prípadne ak nebol včas zaplatený príplatok, lehota na zaplatenie sa považuje za nedodržanú.
 
@@ -170,15 +170,13 @@
 
 - Článok 10
 
-- Vrátenie poplatku za správu o európskej rešerši
+- Vrátenie poplatku za rešerš
 
-- 1. Poplatok za rešerš sa celkom alebo čiastočne vracia, ak je správa o európskej rešerši založená na skoršej rešeršnej správe, ktorú Úrad už spracoval na prihlášku, na základe ktorej sa uplatňuje právo prednosti pre európsku patentovú prihlášku, alebo ktorá je pôvodnou prihláškou v zmysle článku 76 Dohovoru, alebo pôvodná prihláška v zmysle pravidla 15 vykonávacieho predpisu.
+- 1. Rešeršný poplatok za európsku alebo dodatočnú európsku rešerš sa celkom alebo čiastočne vracia, ak je správa o európskej rešerši založená na skoršej rešeršnej správe, ktorú Úrad už spracoval na prihlášku, na základe ktorej sa uplatňuje právo prednosti pre európsku patentovú prihlášku, alebo ktorá je pôvodnou prihláškou v zmysle článku 76 Dohovoru alebo pôvodnou prihláškou v zmysle pravidla 15 vykonávacieho predpisu.
 
-- 2. Čiastka, ktorú možno podľa odseku 1 vrátiť, predstavuje 25, 50, 75 alebo 100 % poplatku za rešerš, a to podľa rozsahu, v ktorom úrad môže čerpať zo skoršej rešeršnej správy.
+- 2. Čiastka, ktorú možno podľa odseku 1 vrátiť, predstavuje 50 alebo 100 % poplatku za rešerš, a to podľa rozsahu, v ktorom Úrad môže čerpať zo skoršej rešeršnej správy.
 
-- 3. Poplatok za rešerš sa vracia v plnej výške, ak sa správa o európskej rešerši týka európskej oddelenej prihlášky a je v plnej miere založená na skoršej rešeršnej správe pre pôvodnú prihlášku.
-
-- 4. Poplatok za rešerš sa vracia v plnej výške, ak je európska patentová prihláška vzatá späť alebo zamietnutá, alebo sa považuje za vzatú späť v čase, keď úrad ešte nezačal s vyhotovením správy o európskej rešerši.
+- 3. Poplatok za rešerš sa vracia v plnej výške, ak je európska patentová prihláška vzatá späť alebo zamietnutá, alebo sa považuje za vzatú späť v čase, keď Úrad ešte nezačal s vyhotovením správy o európskej rešerši.
 
 - Článok 10a
 
@@ -202,6 +200,12 @@
 
 - Ak sa pri úhrade poplatku zaplatí príliš vysoká čiastka, preplatok sa nevracia, ak ide o malú čiastku a príslušný účastník nepožiadal výslovne o jej vrátenie. Prezident úradu určí, čo sa považuje za malú čiastku.
 
+- Článok 10d
+
+- Vrátenie poplatku za medzinárodný predbežný prieskum
+
+- Ak prihlasovateľ v čase prípravy medzinárodného predbežného prieskumu nepožiadal o vyhotovenie podrobného predbežného prieskumu alebo nepodal zmeny podľa článku 19 alebo článku 34 odseku 2 Zmluvy o patentovej spolupráci alebo iné námietky, Úrad vráti prihlasovateľovi dve tretiny poplatku za medzinárodný predbežný prieskum. O podrobnostiach vrátenia poplatku za medzinárodný predbežný prieskum rozhodne prezident Úradu.
+
 - Článok 11
 
 - Rozhodnutie o výške nákladov, proti ktorým možno podať sťažnosť
@@ -214,7 +218,7 @@
 
 - 1. Zníženie poplatkov podľa pravidla 6 odseku 3 vykonávacieho predpisu predstavuje 20 % prihlasovacieho poplatku, poplatku za prieskum, poplatku za námietku a poplatku za sťažnosť.
 
-- 2. Zníženie podľa pravidla 107 odsek 2 vykonávacieho predpisu predstavuje 50 % poplatku za prieskum.
+- 2. Zníženie podľa pravidla 107 odseku 2 vykonávacieho predpisu predstavuje 50 % poplatku za prieskum. K zníženiu poplatok nedôjde, ak Úrad ako orgán pre medzinárodný predbežný prieskum vrátil poplatok za predbežný prieskum podľa článku 10d.
 
 - Článok 13
 
