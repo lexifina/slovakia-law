@@ -1,0 +1,1 @@
+# Čl. VII. Všeobecná ustanovení.
