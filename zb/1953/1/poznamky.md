@@ -1,1 +1,0 @@
-- *) Zákon č. 87/1950 Zb. v znení zákona č. 67/1952 Zb. nadobúda účinnosť dňom 1. januára 1953
