@@ -504,7 +504,15 @@ Zákon č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 58/1969 Zb., z
 
 - (2)
 
-- Osobitný predpis môže ustanoviť fyzickej osobe alebo právnickej osobe povinnosť uzavrieť poistnú zmluvu (povinné zmluvné poistenie).“.
+- Osobitný predpis môže ustanoviť fyzickej osobe alebo právnickej osobe povinnosť uzavrieť poistnú zmluvu (povinné zmluvné poistenie).
+
+- (3)
+
+- Ak osobitný predpis členského štátu Európskych spoločenstiev alebo štátu, ktorý je súčasťou Európskeho hospodárskeho priestoru (ďalej len „členský štát"), ustanoví povinné zmluvné poistenie, táto povinnosť je splnená, ak je poistná zmluva uzavretá v súlade s osobitnými predpismi členského štátu, ktoré sa týkajú tohto poistenia.
+
+- (4)
+
+- Ak osobitný predpis členského štátu ustanovuje povinné zmluvné poistenie a súčasne právo tohto členského štátu ukladá poisťovateľovi povinnosť oznámiť oprávneným orgánom zánik poistného plnenia, môže tento zánik poisťovateľ uplatniť voči poškodeným tretím osobám len za podmienok ustanovených osobitným predpisom tohto členského štátu.“.
 
 - 14. Za § 792 sa vkladá § 792a, ktorý znie:
 
