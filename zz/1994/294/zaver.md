@@ -1,1 +1,0 @@
-Rudolf Filkus v. r
