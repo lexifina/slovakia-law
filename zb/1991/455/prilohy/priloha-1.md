@@ -28,60 +28,58 @@ SKUPINA 104 - Výroba zdravotníckych výrobkov, presných a optických prístro
 
 11. | Hodinárstvo | I
 
-12. | zrušené od 1.12.2001 |
-
 SKUPINA 106 - Výroba a spracovanie kameniva a zemín, keramika | |
 
-13. | Kamenárstvo | I
+12. | Kamenárstvo | I
 
 SKUPINA 108 - Výroba potravín a nápojov | |
 
-14. | Mäsiarstvo a údenárstvo | I
+13. | Mäsiarstvo a údenárstvo | I
 
-15. | Výroba piva a sladu | I
+14. | Výroba piva a sladu | I
 
-16. | Výroba mliečnych výrobkov | I
+15. | Výroba mliečnych výrobkov | I
 
-17. | Výroba pekárskych a cukrárskych výrobkov | I
+16. | Výroba pekárskych a cukrárskych výrobkov | I
 
 SKUPINA 110 - Výroba kože, kožených výrobkov (vrátane obuvi), výroba gumových výrobkov a výrobkov z plastických látok | |
 
-18. | Kožušníctvo | I
+17. | Kožušníctvo | I
 
 SKUPINA 111 - Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov | |
 
-19. | Stolárstvo | I
+18. | Stolárstvo | I
 
-20. | Zlatníctvo a klenotníctvo | I
+19. | Zlatníctvo a klenotníctvo | I
 
 SKUPINA 112 - Výroba papierenská a polygrafická | |
 
-21. | Polygrafická výroba | I
+20. | Polygrafická výroba | I
 
 SKUPINA 113 - Stavebníctvo | |
 
-22. | Murárstvo | I
+21. | Murárstvo | I
 
-23. | Tesárstvo | I
+22. | Tesárstvo | I
 
-24. | Pokrývačstvo | I
+23. | Pokrývačstvo | I
 
-25. | Klampiarstvo | I
+24. | Klampiarstvo | I
 
-26. | Izolatérstvo | I
+25. | Izolatérstvo | I
 
-27. | Vodoinštalatérstvo a kúrenárstvo | I
+26. | Vodoinštalatérstvo a kúrenárstvo | I
 
-28. | Inštalácia a opravy chladiarenských zariadení |
+27. | Inštalácia a opravy chladiarenských zariadení |
 
-29. | Elektroinštalatérstvo |
+28. | Elektroinštalatérstvo |
 
-30. | Plynoinštalatérstvo |
+29. | Plynoinštalatérstvo |
 
 SKUPINA 114 - Ostatné | |
 
-31. | Holičstvo a kaderníctvo | III
+30. | Holičstvo a kaderníctvo | III
 
-32. | Kozmetické služby | V
+31. | Kozmetické služby | V
 
-33. | Pohostinská činnosť | V
+32. | Pohostinská činnosť | V
