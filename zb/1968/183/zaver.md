@@ -1,0 +1,3 @@
+Minister:
+
+Galuška v. r.
