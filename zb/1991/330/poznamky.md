@@ -2,13 +2,7 @@
 
 - 1a) § 2a zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
-- 2) Napr. zákon SNR č. 1/1955 Zb. SNR o štátnej ochrane prírody v znení neskorších predpisov.
-
-- § 50 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona SNR č. 196/1990 Zb.
-
-- § 22 zákona SNR č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
-
-- Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb.
+- 2) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 69 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, § 22 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 3) § 1 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení zákona SNR č. 130/1991 Zb.
 
@@ -20,11 +14,11 @@
 
 - 6a) Zákon Slovenskej národnej rady č. 100/1977 Zb.
 
-- 6b) § 3 zákona Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+- 6b) § 6 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- § 17 a 19 vyhlášky Slovenského úradu geodézie, kartografie a katastra č. 594/1992 Zb., ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+- § 14 a 15 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
-- 6c) § 17 ods. 2 zákona Slovenskej národnej rady č. 266/1992 Zb.
+- 6c) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 7) § 2 zákona č. 22/1964 Zb. o evidencii nehnuteľností v znení zákona SNR č. 150/1983 Zb.
 
@@ -32,7 +26,7 @@
 
 - 9) § 133, § 135 a § 489 ods. 1 Občianskeho zákonníka.
 
-- 10) Zákon č. 22/1964 Zb.
+- 10) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 11) § 32 a nasl. zákona č. 50/1976 Zb.
 
@@ -44,6 +38,10 @@
 
 - Zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
+- 13aa) § 68 ods. 1 a § 254 ods. 1 Obchodného zákonníka.
+
+- § 15 ods. 1 písm. b) zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
 - 14) § 406 a § 489 ods. 1 Občianskeho zákonníka.
 
 - 15) § 22 ods. 1 zákona č. 229/1991 Zb.
@@ -51,6 +49,10 @@
 - 16) Zákon č. 50/1976 Zb.
 
 - Vyhláška SÚGK č. 82/1973 Zb. o overovaní geometrických plánov a iných výsledkov geodetických prác.
+
+- 16a) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
+
+- Vyhláška Úradu geodézie, kartografie a katastra Slovenskej republiky č. 178/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o geodézii a kartografii.
 
 - 17) § 52 až 58 vyhlášky FMTIR č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky FMTIR č. 45/1979 Zb.
 
@@ -64,6 +66,8 @@
 
 - 21) Zákon č. 229/1991 Zb.
 
+- 21a) Zákon č. 229/1991 Zb.Zákon Národnej rady Slovenskej republiky č.180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
 - 22) § 17 ods. 1 zákona č. 229/1991 Zb.
 
 - 22a) § 6 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
@@ -72,7 +76,7 @@
 
 - 22c) § 2 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
 
-- 23) Napr. § 11, 17, 18 a § 22 ods. 4 zákona č. 229/1991 Zb.
+- 23) Napríklad § 11, 17, 18 a § 22 ods. 4 zákona č. 229/1991 Zb., zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení neskorších predpisov, zákon č. 61/1977 Zb. v znení neskorších predpisov.
 
 - Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
 
@@ -81,6 +85,44 @@
 - Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
 - 23a) § 22 a 22a zákona č. 229/1991 Zb.
+
+- 23b) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 23c) § 281 až 288 Obchodného zákonníka.
+
+- 23d) § 5, 45 a 45a zákona č. 92/1991 Zb. v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 23e) § 8 a 26 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 23f) § 108 ods. 2 písm. a) a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 23g) § 40 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 23h) § 16 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.
+
+- 23i) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 441/2000 Z. z.
+
+- 23j) § 21 ods. 1 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+
+- 23k) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
+
+- 23l) Napríklad zákon Národnej rady Slovenskej republiky č. 40/1994 Z. z. o Štátnom podpornom fonde pôdohospodárstva a potravinárstva v znení neskorších predpisov a § 19 ods. 4 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
+
+- 23m) Napríklad zákon č. 92/1991 Zb. v znení neskorších predpisov, zákon č. 229/1991 Zb. v znení neskorších predpisov, zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov, zákon č. 64/1997 Z. z. o užívaní pozemkov v zriadených záhradkových osadách a vyporiadaní vlastníctva k nim.
+
+- 23n) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
+
+- 23o) Zákon č. 563/1991 Zb. v znení neskorších predpisov v znení zákona č. 466/2000 Z. z.
+
+- § 26 až 33 zákona č. 366/1999 Z. z. o daniach z príjmov.
+
+- 23p) Zákon č. 563/1991 Zb. v znení neskorších predpisov v znení zákona č. 466/2000 Z. z.
+
+- 23r) § 5 zákona Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností.
+
+- § 4 vyhlášky Ministerstva financií Slovenskej republiky č. 58/1993 Z. z., ktorou sa vykonáva zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností.
 
 - 24) Zákon SNR č. 253/1991 Zb. o pôsobnosti vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
