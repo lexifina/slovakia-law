@@ -104,9 +104,11 @@ Dr. Clementis v. r.
 
   - Oba štáty zriadia Smiešanú komisiu, složenú zo 6 členov. Táto komisia bude pôsobiť ako iniciatívny a poradný sbor. Jej hlavnou úlohou bude navrhovať opatrenia zásadnej povahy na vykonávanie tohto dohovoru.
 
+    - Všetky otázky zahrnuté do Dohovoru o sociálnom poistení a dotýkajúce sa vecných dávok z poistenia pre prípad nemoci a materstva, pokiaľ náležia do odboru preventívnej a liečebnej starostlivosti, budú prejednávané zdravotníckou komisiou, zriadenou na základe Dohovoru medzi Československou republikou a Poľskou republikou o spolupráci na poli ochrany zdravia zo 17. novembra 1950.
+
 - Článok 11
 
-  - Tento dohovor vykonajú príslušní ministri, majúc ohľad na podnety a návrhy Smiešanej komisie. Príslušné najvyššie správne úrady oboch štátov budú sa uvedomovať o opatreniach, vydaných na vykonanie tohto dohovoru.
+  - Tento Dohovor budú vykonávať v obidvoch štátoch kompetentné najvyššie správne úrady a ústredné orgány odborových organizácií, prihliadajúc k podnetom a návrhom Zmiešanej komisie. Tieto úrady a orgány odborových organizácií sa budú upovedomovať o opatreniach vydaných na vykonanie tohto Dohovoru.
 
 - Článok 12
 
@@ -172,13 +174,13 @@ Dr. Clementis v. r.
 
     - Smiešaná komisia sa bude schádzať podľa potreby, najmenej raz v roku, a to striedavo v Československej republike a v Poľskej republike. Predsedom toho ktorého zasadania Smiešanej komisie bude predseda delegácie toho štátu, na ktorého území sa bude zasadanie konať.
 
-    - Na rokovanie Smiešanej komisie môžu zástupcovia jedného i druhého štátu si pribrať poradcu. Smiešaná komisia môže zriadiť zo svojich členov alebo i z iných osôb podvýbory, v ktorých každý štát bude zastúpený rovnakým počtom členov. Predsedov takýchto podvýborov vymenuje československý minister sociálnej starostlivosti, ak budú zasadať v Československu, a poľský minister práce a sociálnej starostlivosti, ak budú zasadať v Poľsku. Smiešaná komisia bude rokovať podľa rokovacieho poriadku, na ktorom sa sama usnesie.
+    - Na rokovanie Smiešanej komisie môžu zástupcovia jedného i druhého štátu si pribrať poradcu. Smiešaná komisia môže zriadiť zo svojich členov alebo i z iných osôb podvýbory, v ktorých každý štát bude zastúpený rovnakým počtom členov. Predsedov podvýborov vymenúva predseda delegácie štátu, na území ktorého sa bude zasadanie konať. Smiešaná komisia bude rokovať podľa rokovacieho poriadku, na ktorom sa sama usnesie.
 
     - V.
 
     - K článku 11.
 
-    - V Československej republike je pre vykonávanie tohto dohovoru predovšetkým príslušný minister sociálnej starostlivosti, v Poľskej republike minister práce a sociálnej starostlivosti.
+    - Oba štáty si navzájom oznámia, ktoré najvyššie správne úrady a ústredné orgány odborových organizácií sú v zmysle článku 11 Dohovoru kompetentné pre jeho vykonávanie.
 
     - VI.
 
