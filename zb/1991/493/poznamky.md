@@ -2,6 +2,10 @@
 
 - 1a) Zákon Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov a o zmene a doplnení niektorých zákonov.
 
+- 1b) § 8 ods. 1 zákona č. 328/1991 Zb.
+
+- 1c) § 8 ods. 5 zákona č. 328/1991 Zb.
+
 - 2) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 4/1991 Zb.
 
 - Vyhláška č. 180/1991 Zb. o odmenách a náhradách komerčných právnikov za poskytovanie právnej pomoci.
