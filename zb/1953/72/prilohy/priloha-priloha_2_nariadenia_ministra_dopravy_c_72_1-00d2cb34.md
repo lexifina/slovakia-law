@@ -30,13 +30,13 @@ Príloha 2 nariadenia ministra dopravy č. 72/1953 Zb. o poriadku plavebnej bezp
 
     - Čl. 5. (k čl. 20 ZP) Vlečenie lodí
 
-      - (1) Na československom úseku Dunaja medzi ústím rieky Moravy (r. km 1.880.2) až po Gönyü (r. km 1.790) smú remorkéry vliecť, ak nie je plavebnou vyhláškou ustanovené inak,
+      - (1) Na československom úseku Dunaja od ústia rieky Moravy (r. km 1880,2) až po Gönyü (r. km 1790) smú remorkéry vliecť, ak nie je plavebnou vyhláškou ustanovené inak,
 
         - a) po svojom boku za plavby po prúde i proti prúdu iba jednu loď,
 
-        - b) v závese po prúde v bočnom soskupení lode len v jednom rade, a to pri vodnom stave 400 cm a nižšom na vodočte v Bratislave až do celkovej šírky 31 m, pri vodnom stave vyššom až do celkovej šírky 40 m,
+        - b) v závese po prúde v bočnom zoskupení lode len v jednom rade, a to pri vodnom stave na vodočte v Bratislave 350 cm a nižšom až do celkovej šírky 31 m, pri vodnom stave vyššom až do celkovej šírky 40 m,
 
-        - c) v závese proti prúdu lode za sebou, a to pri vodnom stave 400 cm a nižšom na vodočte v Bratislave najviac štyri lode a pri vodnom stave vyššom najviac päť lodí.
+        - c) v závese proti prúdu lode za sebou, a to pri vodnom stave na vodočte v Bratislave 350 cm a nižšom najviac štyri lode a pri vodnom stave vyššom najviac päť lodí.
 
       - (2) Ak sú v prípade uvedenom v odseku 1 písm. c) vlečené výlučne prázdne lode, možno vliecť šesť lodí, ak sú spojené bočne po dvoch v troch radoch za sebou.
 
