@@ -1,5 +1,7 @@
 - Podle usnesení vlády republiky Československé ze dne 29. června 1948 a se souhlasem presidenta republiky uvádí se v prozatímní platnost s účinností od 20. dubna 1948 Protokol ze dne 24. března 1948 o opravách k Všeobecné dohodě a clech a obchodu, uvedené v prozatímní platnost vládní vyhláškou ze dne 8. dubna 1948, č. 59 Sb.
 
+- Podľa usnesenia vlády Československej republiky zo dňa 15. februára 1949 a so súhlasom prezidenta republiky uvádzajú sa do dočasnej platnosti s účinnosťou od 1. januára 1949 Protokoly zo dňa 14. septembra 1948, ktorými sa pozmeňujú časť II a čl. XXVI a časť I a čl. XXIX Všeobecnej dohody o clách a obchode, vyhlásenej vo Sbierke zákonov pod č. 59/1948, v znení Protokolov zo dňa 24. marca 1948, vyhlásených v Sbierke zákonov pod č. 211/1948, 212/1948 a 216/1948.
+
 - V příloze této vládní vyhlášky se uveřejňuje v původním znění anglickém a francouzském a v českém překladu text protokolu, pokud se vztahuje na přílohy vládní vyhlášky č. 59/1948 Sb.*)
 
 - Zápotocký v. r.
