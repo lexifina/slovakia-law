@@ -1,0 +1,1 @@
+- 1) Zákon č. 530/1990 Zb. o dlhopisoch.
