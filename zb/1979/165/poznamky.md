@@ -1,8 +1,12 @@
-- 1) Najmä zákon č. 54/1956 Zb. o nemocenskom poistení zamestnancov v platnom znení, zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení zákona č. 99/1972 Zb., vyhláška Ústrednej rady odborov č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení v platnom znení a vyhláška Ústrednej rady odborov č. 95/1968 Zb. o poskytovaní prídavkov na deti v nemocenskom poistení.
+- 1) Vyhláška Ministerstva školstva ČSR a Ministerstva práce a sociálnych vecí ČSR č. 3/1987 Zb. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, stredných odborných učilíšť pre mládež vyžadujúcu osobitnú starostlivosť a osobitných odborných učilíšť.
 
-- 2) § 267 ods. 2 Zákonníka práce.
+- Vyhláška Ministerstva školstva SSR a Ministerstva práce a sociálnych vecí SSR č. 4/1987 Zb. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, stredných odborných učilíšť pre mládež vyžadujúcu osobitnú starostlivosť a osobitných odborných učilíšť.
 
-- 3) § 18 ods. 4 zákona č. 54/1956 Zb. v znení zákona č. 87/1968 Zb.
+- 2) § 4 ods. 3 vyhlášky ÚRO č. 143/1965 Zb. o poskytovaní peňažných dávok v nemocenskom poistení v znení vyhlášky č. 113/1975 Zb.
+
+- 3) § 15 ods. 1 vyhlášky č. 3/1987 Zb.
+
+- § 15 ods. 1 vyhlášky č. 4/1987 Zb.
 
 - 4) § 21 zákona č. 54/1956 Zb.
 

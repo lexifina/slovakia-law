@@ -1,0 +1,9 @@
+# § 50a Nemocenské žiakov stredných alebo osobitných odborných učilíšť
+
+(1) Deň prechodu z prípravného obdobia do obdobia odborného rozvoja sa na zistenie rozhodného obdobia posudzuje rovnako ako vstup do zamestnania.<sup>2</sup>) Ak v čase školských prázdnin (s výnimkou zimných a jarných prázdnin), na ktoré nadväzuje obdobie odborného rozvoja, vykonával žiak učilišťa odbornú prax, za ktorú je odmieňaný ako v období odborného rozvoja, považuje sa deň, keď začal túto odbornú prax vykonávať, za deň prechodu z prípravného obdobia do obdobia odborného rozvoja.
+
+(2) Na zistenie čistej dennej mzdy podľa § 6 ods. 1 vyhlášky č. 143/1965 Zb. sa do počtu pracovných dní, ktorým sa delí započítateľný zárobok zúčtovaný v rozhodnom období, zahŕňajú aj pracovné dni, v ktorých sa žiak učilišťa zúčastnil na teoretickom vyučovaní; nezahŕňajú sa však pracovné dni pripadajúce na obdobie školských prázdnin (s výnimkou zimných a jarných prázdnin), ak v nich žiak učilišťa nevykonával odbornú prax.
+
+(3) Žiakovi učilišťa patrí nemocenské najskôr odo dňa, od ktorého mu pri pracovnej neschopnosti (karanténe) už nepatrí odmena podľa predpisov o finančnom a hmotnom zabezpečení žiakov učilíšť;<sup>1</sup>) priznanie nemocenského však nebráni poskytovaniu príspevku na dieťa žiaka (žiačky) učilišťa.<sup>3</sup>) Nemocenské sa poskytuje aj za pracovné dni, v ktorých sa žiak učilišťa mal zúčastniť na teoretickom vyučovaní, a za pracovné dni pripadajúce na zimné a jarné prázdniny. Neposkytuje sa však za pracovné dni pripadajúce na obdobie hlavných školských prázdnin s výnimkou pracovných dní, keď mal žiak učilišťa vykonávať odbornú prax, za ktorú patrí odmena ako v období odborného rozvoja. Podporná doba sa však počíta vždy od prvého dňa pracovnej neschopnosti.
+
+(4) Ustanovenie § 50 ods. 3 sa na žiakov učilišťa vzťahuje obdobne.
