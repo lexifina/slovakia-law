@@ -1,0 +1,1 @@
+- 1) § 3 ods. 1 zákona č. 195/2000 Z. z. o telekomunikáciách.
