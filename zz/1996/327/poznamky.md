@@ -26,6 +26,6 @@
 
 - 2) STN 83 0550-3 Fyzikálno-chemický rozbor kalov. Stanovenie celkovej sušiny, zvyšku po žíhaní a straty žíhaním.
 
-- 1) Pridelený skládke okresným úradom.
+- 1) Pridelený skládke obvodným úradom životného prostredia.
 
 - 2) Nehodiace sa prečiarknuť.
