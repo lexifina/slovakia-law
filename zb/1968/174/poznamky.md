@@ -5,3 +5,5 @@
 - 2) Zákon č. 526/1990 Zb. o cenách.
 
 - 3) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 4) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
