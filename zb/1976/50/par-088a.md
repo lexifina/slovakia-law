@@ -15,3 +15,5 @@
 - a) nepredloží žiadosť o dodatočné povolenie stavby,
 
 - b) nesplní podmienky rozhodnutia o dodatočnom povolení stavby.
+
+(7) Na konanie o dodatočnom povolení stavby sa primerane vzťahujú ustanovenia § 58 až 66.
