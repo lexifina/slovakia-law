@@ -1,0 +1,1 @@
+- *) Brnenské veľtrhy a výstavy - vyhláška ministra zahr. obchodu č. 104/1960 Zb. v znení vyhlášky č. 109/1966 Zb. Rapid - vyhláška ministra zahr. obchodu č. 105/1960 Zb. v znení vyhlášok č. 32/1961 Zb. a č. 109/1966 Zb.
