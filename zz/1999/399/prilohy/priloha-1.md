@@ -46,7 +46,7 @@ Príloha č. 1 k nariadeniu vlády č. 399/1999 Z. z.
 
 - I | 0,001g ≤ e | 100 e | 50 000 | -
 
-- II | 0,001g ≤ e ≤ 0,005 g0,1 g ≤ e | 20 e50 e | 100 5 000 | 100 000100 000
+- II | 0,001g ≤ e ≤ 0,05 g0,1 g ≤ e | 20 e50 e | 100 5 000 | 100 000100 000
 
 - III | 0,1 g ≤ e ≤ 2 g5 g ≤ e | 20 e20 e | 100 500 | 10 000 10 000
 
@@ -110,15 +110,15 @@ Príloha č. 1 k nariadeniu vlády č. 399/1999 Z. z.
 
 - Trieda presnosti | Overovací dielik (e) | Dolná medza váživosti (Min) minimum | Počet overovacích dielikov |
 
-- | | | minimum<sup>1</sup>)n = Max / e<sub>(i + 1)</sub> | maximumn = Max / e<sub>i</sub>
+- | | | minimálna hodnota<sup>1</sup>)n = Max<sub>i</sub> / e<sub>(i + 1)</sub> | maximálna hodnotan = Max<sub>i</sub> / e<sub>i</sub>
 
-- I | 0,001g ≤ e | 100 e<sub>i</sub> | 50 000 | -
+- I | 0,001g ≤ e | 100 e<sub>1</sub> | 50 000 | -
 
-- II | 0,001g ≤ e<sub>i</sub> ≤ 0,05 g0,1 g ≤ e<sub>i</sub> | 20 e<sub>i</sub>50 e<sub>i</sub> | 5 000 5 000 | 100 000100 000
+- II | 0,001g ≤ e<sub>i</sub> ≤ 0,05 g0,1 g ≤ e<sub>i</sub> | 20 e<sub>1</sub>50 e<sub>1</sub> | 5 000 5 000 | 100 000100 000
 
-- III | 0,1 g ≤ e | 20 e<sub>i</sub> | 500 | 10 000
+- III | 0,1 g ≤ e | 20 e<sub>1</sub> | 500 | 10 000
 
-- IIII | 5 g ≤ e<sub>i</sub> | 10 e<sub>i</sub> | 50 | 1 000
+- IIII | 5 g ≤ e<sub>i</sub> | 10 e<sub>1</sub> | 50 | 1 000
 
 - <sup>1</sup>) V prípade i = r platí príslušný stĺpec tabuľky č. 1, pričom „e" je nahradené „e<sub>r</sub>".
 

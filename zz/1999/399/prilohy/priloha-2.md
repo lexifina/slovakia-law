@@ -6,17 +6,17 @@ Príloha č. 2 k nariadeniu vlády č. 399/1999 Z. z.
 
   - 1.1 Skúška typu je postup posúdenia zhody, ktorým autorizovaná osoba preveruje a potvrdzuje, že vlastnosti vzorky typu váh reprezentujúcej zamýšľanú výrobu alebo dovoz spĺňajú požiadavky tohto nariadenia, ktoré sa na váhy vzťahujú.
 
-  - 1.2 Výrobca alebo dovozca podáva žiadosť o skúšku typu autorizovanej osobe.
+  - 1.2 Výrobca alebo jeho splnomocnenec podáva žiadosť o skúšku typu autorizovanej osobe.
 
   - 1.2.1 Žiadosť obsahuje
 
-  - a) meno a priezvisko, pobyt výrobcu alebo dovozcu, ak ide o fyzickú osobu, alebo obchodné meno a sídlo výrobcu alebo dovozcu, ak ide o právnickú osobu,
+  - a) meno a priezvisko, pobyt výrobcu alebo jeho splnomocnenca, ak ide o fyzickú osobu, alebo obchodné meno a sídlo výrobcu alebo jeho splnomocnenca, ak ide o právnickú osobu,
 
   - b) písomné vyhlásenie, že žiadosť o skúšku typu nebola podaná inej autorizovanej osobe,
 
   - c) technickú dokumentáciu uvedenú v prílohe č. 3.
 
-  - 1.2.2 Výrobca alebo dovozca predkladá autorizovanej osobe vzorku váh, ktoré by sa mali vyrábať alebo dovážať (ďalej len „vzorka“).
+  - 1.2.2 Výrobca alebo jeho splnomocnenec predkladá autorizovanej osobe vzorku váh, ktoré by sa mali vyrábať alebo dovážať (ďalej len „vzorka“).
 
   - 1.3 Autorizovaná osoba
 
@@ -28,7 +28,7 @@ Príloha č. 2 k nariadeniu vlády č. 399/1999 Z. z.
 
   - 1.3.4 vykoná alebo dá vykonať príslušné skúšky na účel zistenia, či výrobca, ktorý použil harmonizované slovenské technické normy na zabezpečenie zhody s technickými požiadavkami, ich použil správne.
 
-  - 1.4 Ak vzorka spĺňa ustanovenia tohto nariadenia, autorizovaná osoba vydá výrobcovi alebo dovozcovi certifikát typu. Certifikát typu obsahuje závery skúšok, prípadne podmienky jeho platnosti, údaje potrebné na identifikáciu certifikovaného typu a v prípade potreby aj opis činnosti váh. K certifikátu typu sa prikladajú technické prílohy, ktorými sú výkresy a schémy a podobne. Platnosť certifikátu typu je 10 rokov od dátumu jeho vydania a možno ho opakovane predĺžiť o ďalších 10 rokov. Ak v konštrukcii váh dôjde k podstatným zmenám, napríklad v dôsledku použitia novej techniky, možno platnosť certifikátu typu obmedziť na 2 roky, pričom môže byť predĺžená o 3 roky.
+  - 1.4 Ak vzorka spĺňa ustanovenia tohto nariadenia, autorizovaná osoba vydá výrobcovi alebo jeho splnomocnencovi certifikát typu. Certifikát typu obsahuje závery skúšok, prípadne podmienky jeho platnosti, údaje potrebné na identifikáciu certifikovaného typu a v prípade potreby aj opis činnosti váh. K certifikátu typu sa prikladajú technické prílohy, ktorými sú výkresy a schémy a podobne. Platnosť certifikátu typu je 10 rokov od dátumu jeho vydania a možno ho opakovane predĺžiť o ďalších 10 rokov. Ak v konštrukcii váh dôjde k podstatným zmenám, napríklad v dôsledku použitia novej techniky, možno platnosť certifikátu typu obmedziť na 2 roky, pričom môže byť predĺžená o 3 roky.
 
   - 1.5 Autorizovaná osoba poskytne členským štátom Európskych spoločenstiev pravidelne zoznam
 
@@ -44,11 +44,11 @@ Príloha č. 2 k nariadeniu vlády č. 399/1999 Z. z.
 
   - 1.6 Iné autorizované osoby môžu získať kópie certifikátov typu vrátane príloh na základe ich žiadosti.
 
-  - 1.7 Výrobca alebo dovozca informuje autorizovanú osobu, ktorá vydala certifikát typu, o akýchkoľvek úpravách certifikovaného typu. Úpravy certifikovaného typu schvaľuje autorizovaná osoba, ktorá vydala certifikát typu, ak tieto zmeny ovplyvňujú zhodu typu váh s technickými požiadavkami alebo predpísanými podmienkami na používanie váh. Úpravy certifikovaného typu sa schvaľujú vydaním dodatku k pôvodnému certifikátu typu.
+  - 1.7 Výrobca alebo jeho splnomocnenec informuje autorizovanú osobu, ktorá vydala certifikát typu, o akýchkoľvek úpravách certifikovaného typu. Úpravy certifikovaného typu schvaľuje autorizovaná osoba, ktorá vydala certifikát typu, ak tieto zmeny ovplyvňujú zhodu typu váh s technickými požiadavkami alebo predpísanými podmienkami na používanie váh. Úpravy certifikovaného typu sa schvaľujú vydaním dodatku k pôvodnému certifikátu typu.
 
   - 2. Vyhlásenie o zhode váh s certifikovaným typom
 
-  - 2.1 Vyhlásenie o zhode váh s certifikovaným typom je dokument, v ktorom výrobca alebo dovozca, ktorý spĺňa požiadavky podľa bodu 2.2, vyhlasuje, že tam, kde je to aplikovateľné, sú príslušné váhy v zhode s certifikovaným typom opísaným v certifikáte typu a spĺňajú požiadavky tohto nariadenia, ktoré sa na ne vzťahujú. Výrobca alebo dovozca umiestňuje na všetky váhy značku zhody a nápisy podľa prílohy č. 4 a vydá písomné vyhlásenie o zhode. Značka zhody sa musí doplniť identifikačným kódom autorizovanej osoby zodpovednej za dohľad nad systémom kvality podľa bodu 2.4.
+  - 2.1 Vyhlásenie o zhode váh s certifikovaným typom je dokument, v ktorom výrobca alebo jeho splnomocnenec, ktorý spĺňa požiadavky podľa bodu 2.2, vyhlasuje, že tam, kde je to aplikovateľné, sú príslušné váhy v zhode s certifikovaným typom opísaným v certifikáte typu a spĺňajú požiadavky tohto nariadenia, ktoré sa na ne vzťahujú. Výrobca alebo jeho splnomocnenec umiestňuje na všetky váhy značku zhody a nápisy podľa prílohy č. 4 a vydá písomné vyhlásenie o zhode. Značka zhody sa musí doplniť identifikačným kódom autorizovanej osoby zodpovednej za dohľad nad systémom kvality podľa bodu 2.4.
 
   - 2.2 Výrobca má náležite zavedený systém kvality podľa bodu 2.3, ktorý podlieha dohľadu podľa bodu 2.4.
 
@@ -72,7 +72,7 @@ Príloha č. 2 k nariadeniu vlády č. 399/1999 Z. z.
 
   - 2.3.3 Autorizovaná osoba preverí a vyhodnotí systém kvality, aby zistila, či spĺňa požiadavky uvedené v bode 2.3.2. Autorizovaná osoba predpokladá zhodu s týmito požiadavkami, ak ide o systémy kvality uplatňujúce príslušnú harmonizovanú slovenskú technickú normu. Autorizovaná osoba o svojom rozhodnutí informuje výrobcu a zainteresované autorizované osoby. Správa pre výrobcu obsahuje závery previerky a v prípade odmietnutia aj odôvodnenie.
 
-  - 2.3.4 Výrobca alebo dovozca informuje autorizovanú osobu, ktorá schválila systém kvality, o každej aktualizácii spôsobu zabezpečovania systému kvality, ktorá vyplýva zo zmien súvisiacich napríklad s novými technológiami a novými koncepciami kvality.
+  - 2.3.4 Výrobca alebo jeho splnomocnenec informuje autorizovanú osobu, ktorá schválila systém kvality, o každej aktualizácii spôsobu zabezpečovania systému kvality, ktorá vyplýva zo zmien súvisiacich napríklad s novými technológiami a novými koncepciami kvality.
 
   - 2.3.5 Autorizovaná osoba, ktorá odoberie schválenie systému kvality, o tom informuje zainteresované autorizované osoby.
 
@@ -92,9 +92,9 @@ Príloha č. 2 k nariadeniu vlády č. 399/1999 Z. z.
 
   - 3. Overenie
 
-  - 3.1 Overenie je postup, pri ktorom výrobca alebo dovozca zabezpečuje a vyhlasuje, že váhy, ktoré boli kontrolované podľa bodu 3.3, ak je to aplikovateľné, zodpovedajú typu opísanému v certifikáte typu a technickým požiadavkám, ktoré sa na ne vzťahujú.
+  - 3.1 Overenie je postup, pri ktorom výrobca alebo jeho splnomocnenec zabezpečuje a vyhlasuje, že váhy, ktoré boli kontrolované podľa bodu 3.3, ak je to aplikovateľné, zodpovedajú typu opísanému v certifikáte typu a technickým požiadavkám, ktoré sa na ne vzťahujú.
 
-  - 3.2 Výrobca prijme všetky nevyhnutné opatrenia, aby výrobný proces zabezpečoval, ak je to aplikovateľné, zhodu váh s typom opísaným v certifikáte typu a s technickými požiadavkami, ktoré sa ne vzťahujú. Výrobca alebo dovozca označí každý výrobok značkou zhody a vydá vyhlásenie o zhode.
+  - 3.2 Výrobca prijme všetky nevyhnutné opatrenia, aby výrobný proces zabezpečoval, ak je to aplikovateľné, zhodu váh s typom opísaným v certifikáte typu a s technickými požiadavkami, ktoré sa ne vzťahujú. Výrobca alebo jeho splnomocnenec označí každý výrobok značkou zhody a vydá vyhlásenie o zhode.
 
   - 3.3 Autorizovaná osoba vykoná skúšky, aby preverila zhodu váh s technickými požiadavkami skúšaním každej váhy podľa bodu 3.5.
 
@@ -106,17 +106,17 @@ Príloha č. 2 k nariadeniu vlády č. 399/1999 Z. z.
 
   - 3.5.2 Autorizovaná osoba zabezpečí umiestnenie svojho identifikačného kódu na každú váhu, ktorej zhoda s technickými požiadavkami bola preukázaná, a vydá písomný certifikát o zhode vzťahujúci sa na vykonané skúšky.
 
-  - 3.5.3 Výrobca alebo dovozca predloží na požiadanie certifikát o zhode vydaný autorizovanou osobou.
+  - 3.5.3 Výrobca alebo jeho splnomocnenec predloží na požiadanie certifikát o zhode vydaný autorizovanou osobou.
 
   - 4. Overenie bez skúšky typu
 
-  - 4.1 Overenie bez skúšky typu je postup, pri ktorom výrobca alebo dovozca zabezpečuje a vyhlasuje, že váha vo všeobecnosti projektovaná na špecifické aplikácie, pre ktoré bol vydaný certifikát podľa bodu 4.2, spĺňa technické požiadavky, ktoré sa na ňu vzťahujú. Výrobca alebo dovozca umiestni značku zhody na váhu a vydá vyhlásenie o zhode.
+  - 4.1 Overenie bez skúšky typu je postup, pri ktorom výrobca alebo jeho splnomocnenec zabezpečuje a vyhlasuje, že váha vo všeobecnosti projektovaná na špecifické aplikácie, pre ktoré bol vydaný certifikát podľa bodu 4.2, spĺňa technické požiadavky, ktoré sa na ňu vzťahujú. Výrobca alebo jeho splnomocnenec umiestni značku zhody na váhu a vydá vyhlásenie o zhode.
 
   - 4.2 Autorizovaná osoba skontroluje váhu a vykoná príslušné skúšky, ktoré sú ustanovené v harmonizovaných slovenských technických normách, alebo ekvivalentné skúšky s cieľom preveriť zhodu s technickými požiadavkami. Autorizovaná osoba zabezpečí umiestnenie svojho identifikačného kódu na váhy, ktorých zhoda s technickými požiadavkami bola potvrdená, a vydá písomný certifikát o zhode vzťahujúci sa na vykonané skúšky.
 
   - 4.3 Autorizovaná osoba musí mať k dispozícii technickú dokumentáciu váh uvedenú v prílohe č. 3. Účelom predloženia dokumentácie je umožniť posúdenie zhody váh s technickými požiadavkami a pochopenie ich návrhu, výroby a činnosti.
 
-  - 4.4 Výrobca alebo dovozca predloží na požiadanie certifikát o zhode vydaný autorizovanou osobou.
+  - 4.4 Výrobca alebo jeho splnomocnenec predloží na požiadanie certifikát o zhode vydaný autorizovanou osobou.
 
   - 5. Spoločné požiadavky
 
@@ -126,7 +126,7 @@ Príloha č. 2 k nariadeniu vlády č. 399/1999 Z. z.
 
   - 5.3.1 Ak sa výrobca rozhodne pre realizáciu jedného z postupov uvedených v bode 5.1 v dvoch etapách, a v prípade, že tieto dve etapy budú realizovať rozdielne autorizované osoby, označia sa váhy, ktoré boli odskúšané v prvej etape, identifikačným kódom autorizovanej osoby, ktorá skúšky vykonala v prvej etape.
 
-  - 5.3.2 Autorizovaná osoba, ktorá vykonala skúšky v prvej etape, vystaví pre každé váhy certifikát obsahujúci údaje potrebné na identifikáciu váh a špecifikáciu skúšok, ktoré boli vykonané. Autorizovaná osoba, ktorá vykoná druhú etapu skúšok, vykoná tie skúšky, ktoré neboli vykonané v prvej etape. Výrobca alebo dovozca predloží na požiadanie certifikát o zhode vydaný autorizovanou osobou.
+  - 5.3.2 Autorizovaná osoba, ktorá vykonala skúšky v prvej etape, vystaví pre každé váhy certifikát obsahujúci údaje potrebné na identifikáciu váh a špecifikáciu skúšok, ktoré boli vykonané. Autorizovaná osoba, ktorá vykoná druhú etapu skúšok, vykoná tie skúšky, ktoré neboli vykonané v prvej etape. Výrobca alebo jeho splnomocnenec predloží na požiadanie certifikát o zhode vydaný autorizovanou osobou.
 
   - 5.3.3 Výrobca, ktorý vydá vyhlásenie o zhode podľa bodu 2 v prvej etape, môže použiť ten istý postup v druhej etape alebo môže v druhej etape pokračovať v overení zhody podľa bodu 3.
 
