@@ -154,6 +154,8 @@
 
 - 68) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
+- 68a) Zákon č. 431/2002 Z. z. o účtovníctve.
+
 - 69) Zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 310/1993 Z. z. o spotrebnej dani z piva v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 312/1993 Z. z. o spotrebnej dani z tabaku a tabakových výrobkov v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 316/1993 Z. z. o spotrebnej dani z uhľovodíkových palív a mazív v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení neskorších predpisov.
 
 - 70) Napríklad vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
@@ -204,7 +206,7 @@
 
 - 89) Napríklad zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z., zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení neskorších predpisov.
 
-- 90) Zákon č. 610/1992 Zb. o rezervách pre zistenie základu dane z príjmov.
+- 90) Zákon č. 368/1999 Z. z. o rezervách a opravných položkách na zistenie základu dane z príjmov.
 
 - 91) Zákon Slovenskej národnej rady č. 419/1991 Zb., ktorým sa menia a dopĺňajú niektoré predpisy v oblasti zdravotníctva v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
