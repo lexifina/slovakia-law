@@ -2,242 +2,200 @@ Príloha č. 2
 
 - k nariadeniu vlády č. 578/1990 Zb.
 
-- S K U P I N Y funkcií duchovných vykonávajúcich duchovenskú činnosť 1. Apoštolská cirkev na Slovensku: |
+- SKUPINY FUNKCIÍ DUCHOVNÝCH VYKONÁVAJÚCICH DUCHOVENSKÚ ČINNOSŤ
 
-- C. | diakon, pastor zboru
+  - 1. Apoštolská cirkev na Slovensku:
 
-- D. | samostatný duchovný správca - pastor
+    - C. diakon, pomocný pastor
 
-- E. | duchovný správca diakonie, člen Ústrednej rady
+    - D. pastor zboru
 
-- | starších, oblastný správca
+    - E. člen Rady cirkvi, oblastný správca, duchovný správca diakonie
 
-- F. | zástupca biskupa
+    - F. zástupca biskupa
 
-- G. | biskup
+    - G. biskup
 
-- 2. Bratská jednota baptistov v Slovenskej republike: |
+  - 2. Bratská jednota baptistov v Slovenskej republike:
 
-- C. | pomocný kazateľ
+    - C. pomocný kazateľ, kazateľský asistent
 
-- D. | kazateľ
+    - D. kazateľ
 
-- E. | člen rady
+    - E. člen rady, tajomník rady
 
-- F. | tajomník rady
+    - F. podpredseda rady
 
-- G. | predseda rady
+    - G. predseda rady
 
-- 3. Cirkev adventistov siedmeho dňa: |
+  - 3. Cirkev adventistov siedmeho dňa, Slovenské združenie:
 
-- C. | praktikant, nevysvätený kazateľ
+    - C. praktikant, nevysvätený kazateľ
 
-- D. | kazateľ
+    - D. kazateľ
 
-- E. | vedúci oddelenia
+    - E. vedúci oddelenia
 
-- F. | tajomník, hospodár
+    - F. tajomník, hospodár
 
-- G. | predseda
+    - G. predseda
 
-- 4. Cirkev bratská v Slovenskej republike: |
+  - 4. Cirkev bratská v Slovenskej republike:
 
-- C. | diakon, kazateľský asistent, pomocný duchovný
+    - C. diakon, kazateľský asistent, pomocný duchovný
 
-- D. | ordinovaný kazateľ, správca zboru, administrátor
+    - D. ordinovaný kazateľ, správca zboru, administrátor zboru
 
-- | zboru
+    - E. člen rady, tajomník rady
 
-- E. | člen rady, tajomník rady
+    - F. podpredseda rady
 
-- F. | podpredseda rady
+    - G. predseda rady
 
-- G. | predseda rady
+  - 5. Cirkev československá husitská na Slovensku:
 
-- 5. Cirkev československá husitská na Slovensku: |
+    - C. diakon (jáhen), kaplán, kazateľ, pomocný duchovný
 
-- C. | diakon (jáhen), kaplán, kazateľ, pomocný duchovný
+    - D. samostatný duchovný správca – farár
 
-- D. | samostatný duchovný správca - farár
+    - E. predseda okrsku – dekan, diecézny tajomník
 
-- E. | predseda okrsku - dekan, diecézny tajomník
+    - F. generálny vikár – zástupca patriarchu
 
-- F. | generálny vikár - zástupca patriarchu
+    - G. biskup – patriarcha
 
-- G. | biskup - patriarcha
+  - 6. Evanjelická cirkev augsburského vyznania na Slovensku:
 
-- 6. Evanjelická cirkev a. v. na Slovensku: |
+    - C. diakon, kaplán, výpomocný duchovný
 
-- C. | diakon, kaplán
+    - D. farár, námestný farár, konsenior, duchovný správca
 
-- D. | farár, námestný farár, konsenior
+    - E. senior, tajomník dištriktuálneho biskupského úradu, vedúci dištriktuálneho biskupského úradu, tajomník generálneho biskupského úradu, duchovný správca diakonie
 
-- E. | senior, tajomník dlštriktuálneho biskupského
+    - F. riaditeľ generálneho biskupského úradu
 
-- | úradu, vedúci dlštriktuálneho biskupského úradu,
+    - G. biskup, generálny biskup
 
-- | tajomník generálneho biskupského úradu
+  - 7. Evanjelická cirkev metodistická, Slovenská oblasť:
 
-- F. | riaditeľ generálneho biskupského úradu
+    - C. pomocný kazateľ
 
-- G. | biskup, generálny biskup
+    - D. kazateľ, povereník rady oblasti
 
-- 7. Evanjelická cirkev metodistická: |
+    - E. člen rady oblasti
 
-- C. | pomocný kazateľ
+    - F. podpredseda rady oblasti
 
-- D. | kazateľ, povereník rady oblasti
+    - G. predseda rady oblasti, superintendent
 
-- E. | člen rady oblasti
+  - 8. Gréckokatolícka cirkev v Slovenskej republike:
 
-- F. | podpredseda rady oblasti
+    - C. diakon, kaplán, výpomocný duchovný
 
-- G. | predseda rady oblasti
+    - D. aktuár, ceremoniár, archivár, duchovný správca, farár, farský administrátor, rektor chrámu, duchovný rehoľného rádu, kongregácie alebo monastiera sui iuris
 
-- 8. Gréckokatolícka cirkev: |
+    - E. protopresbyter, tajomník arcibiskupského úradu, tajomník biskupského úradu, tajomník biskupa, duchovenský člen ústredia cirkvi, kanonik, člen zboru konzultorov, člen kňazskej (presbyterskej) rady, notár cirkevného súdu, člen cirkevného súdu
 
-- C. | diakon, kaplán, výpomocný duchovný
+    - F. protosynkel, pomocný biskup, synkel, súdny vikár, protoihumen rehoľného rádu, kongregácie alebo monastiera sui iuris, riaditeľ arcibiskupského úradu, riaditeľ biskupského úradu, kancelár
 
-- D. | aktuár, ceremoniár, archivár, samostatný
+    - G. arcibiskup, eparchiálny biskup, exarcha, administrátor eparchie
 
-- | duchovný správca, farár, správca chrámu,
+  - 9. Kresťanské zbory na Slovensku:
 
-- | zástupca dekana
+    - D. starší zboru
 
-- E. | dekan, tajomník biskupského úradu, ducho-
+    - E. –
 
-- | venský člen ústredia cirkvi, diecézny vikár,
+    - F. člen medzizborovej rady
 
-- | notár diecézneho súdu, riaditeľ biskupského
+    - G. zástupca kresťanských zborov
 
-- | úradu
+  - 10. Náboženská spoločnosť Jehovovi svedkovia v Slovenskej republike:
 
-- F. | generálny vikár, pomocný biskup, biskupský vikár,
+    - B. priekopník
 
-- | súdny vikár, vyšší predstavený rehoľných spolo-
+    - C. starší, služobný pomocník
 
-- | čenstiev, tajomník arcibiskupského úradu, riaditeľ
+    - D. misionár, zvláštny priekopník
 
-- | arcibiskupského úradu
+    - E. oblastný, krajský dozorca
 
-- G. | arcibiskup, diecézny biskup, apoštolský adminis-
+    - F. člen výboru spoločnosti
 
-- | trátor
+    - G. koordinátor spoločnosti
 
-- 9. Kresťanské zbory na Slovensku: |
+  - 11. Novoapoštolská cirkev v Slovenskej republike:
 
-- D. | starší zboru
+    - C. diakon
 
-- E. | -
+    - D. kňaz
 
-- F. | člen medzizborovej rady
+    - E. evanjelista, okresný evanjelista
 
-- G. | zástupca kresťanských zborov
+    - F. okresný najstarší, biskup
 
-- 10. Náboženská spoločnosť Jehovovi svedkovia: |
+    - G. apoštol, okresný apoštol, kmeňový apoštol
 
-- B. | priekopník
+  - 12. Pravoslávna cirkev na Slovensku:
 
-- C. | starší, služobný pomocník
+    - C. diakon, pomocný duchovný
 
-- D. | misionár, zvláštny priekopník
+    - D. duchovný správca
 
-- E. | oblastný, krajský dozorca
+    - E. dekan, arcidekan, člen komisie na skúmanie kanonických priestupkov, duchovenský člen eparchiálnej a metropolitnej rady, tajomník oddelenia úradu eparchiálnej rady, osobný tajomník biskupa
 
-- F. | člen výboru spoločnosti
+    - F. biskup – vikár, tajomník metropolitnej rady, kancelár metropolitnej rady, archimandrita, tajomník eparchiálnej rady, riaditeľ eparchiálnej rady
 
-- G. | koordinátor spoločnosti
+    - G. eparchiálny biskup, arcibiskup, metropolita
 
-- 11. Pravoslávna cirkev na Slovensku: |
+  - 13. Reformovaná kresťanská cirkev na Slovensku:
 
-- C. | diakon, pomocný duchovný
+    - C. levita, kaplán, kaplán samostatne riadiaci zbor
 
-- D. | duchovný správca
+    - D. administrátor, duchovný samostatne riadiaci zbor, konsenior, synodný radca
 
-- E. | dekan, arcidekan, člen duchovných súdov, ta-
+    - E. senior, duchovenský člen synody, hlavný synodný radca
 
-- | jomník eparchiálnej rady, riaditeľ eparchiálnej
+    - F. zástupca biskupa
 
-- | rady, duchovenský člen eparchiálnej a metropo-
+    - G. biskup
 
-- | litnej rady
+  - 14. Rímskokatolícka cirkev v Slovenskej republike:
 
-- F. | biskup - vikár, tajomník metropolitnej rady, kance-
+    - C. diakon, kaplán, výpomocný duchovný
 
-- | lár metropolitnej rady, archimandrita
+    - D. aktuár, ceremoniár, archivár, duchovný správca, farár, farský administrátor, rektor kostola, duchovný rehoľnej spoločnosti
 
-- G. | eparchiálny biskup, arcibiskup, metropolita
+    - E. dekan, tajomník arcibiskupského úradu, tajomník biskupského úradu, tajomník biskupa, duchovenský člen ústredia cirkvi, kanonik, člen zboru konzultorov, člen kňazskej (presbyterskej) rady, notár cirkevného súdu, člen diecézneho súdu
 
-- 12. Reformovaná kresťanská cirkev na Slovensku: |
+    - F. pomocný biskup, generálny vikár, biskupský vikár, súdny vikár, vyšší predstavený rehoľných spoločenstiev, riaditeľ arcibiskupského úradu, riaditeľ biskupského úradu, kancelár
 
-- C. | levita, kaplán
+    - G. arcibiskup, diecézny biskup, diecézny administrátor
 
-- D. | kaplán a farár samostatne riadiaci zbor, konsenior
+  - 15. Starokatolícka cirkev na Slovensku:
 
-- E. | senior, duchovenský člen synody, riaditeľ kancelá-
+    - C. pomocný duchovný
 
-- | rie synody
+    - D. samostatný duchovný správca, farár
 
-- F. | zástupca biskupa
+    - E. oblastný vikár, dekan, kanonik, tajomník biskupského úradu
 
-- G. | biskup
+    - F. generálny vikár, pomocný biskup
 
-- 13. Rímskokatolícka cirkev: |
+    - G. biskup, administrátor biskupstva
 
-- C. | diakon, kaplán, výpomocný duchovný
+  - 16. Ústredný zväz Židovských náboženských obcí v Slovenskej republike:
 
-- D. | aktuár, ceremoniár, archivár, samostatný
+    - A. mašgiach, šochet
 
-- | duchovný správca, farár, rektor kostola, duchovný
+    - B. šames
 
-- | rehoľnej spoločnosti
+    - C. kantor
 
-- E. | dekan, tajomník biskupského úradu, duchovenský
+    - D. hlavný kantor
 
-- | člen ústredia cirkvi, kanonik, člen zboru konzulto-
+    - E. –
 
-- | rov, člen kňazskej (presbyterskej) rady, diecézny
+    - F. rabín
 
-- | administrátor, notár cirkevného súdu, člen die-
-
-- | cézneho súdu, riaditeľ biskupského úradu
-
-- F. | generálny vikár, pomocný biskup, biskupský vikár,
-
-- | súdny vikár, vyšší predstavený rehoľných spolo-
-
-- | čenstiev, tajomník arcibiskupského úradu, riaditeľ
-
-- | arcibiskupského úradu
-
-- G. | arcibiskup, diecézny biskup, apoštolský adminis-
-
-- | trátor
-
-- 14. Starokatolícka cirkev v Slovenskej republike: |
-
-- C. | pomocný duchovný
-
-- D. | samostatný duchovný správca, farár
-
-- E. | oblastný vikár, kanonik, tajomník ordinariátu
-
-- F. | generálny vikár
-
-- G. | biskup, ordinár, administrátor biskupstva
-
-- 15. Ústredný zväz Židovských náboženských obcí v Slovenskej republike |
-
-- A. | mašgiach, šochet
-
-- B. | šames
-
-- C. | kantor
-
-- D. | hlavný kantor
-
-- E. | -
-
-- F. | rabín
-
-- G. | hlavný rabín
+    - G. hlavný rabín
