@@ -1,169 +1,165 @@
 Príloha nariadenia vlády SR č. 163/1992 Zb.
 
-- Rozsah prípravy a predmet skúšky na získanie osobitnej odbornej spôsobilosti
+- ROZSAH PRÍPRAVY A PREDMET SKÚŠKY NA ZÍSKANIE OSOBITNEJ ODBORNEJ SPÔSOBILOSTI
 
-  - I. Pre všetky pracovné činnosti vyžadujúce osobitnú odbornú spôsobilosť (§ 1) sú predmetom prípravy a skúšky
+  - I. Na všetky funkcie vyžadujúce osobitnú odbornú spôsobilosť (§ 1) sú predmetom prípravy a skúšky
 
     - a) vedomosti
 
-    - – o organizácii a kompetenciách štátnej správy pre životné prostredie,
+      - 1. o organizácii a kompetenciách štátnej správy pre životné prostredie,
 
-    - – o organizácii a kompetenciach miestnej štátnej správy a územnej samosprávy,
+      - 2. o organizácii a kompetenciách miestnej štátnej správy a územnej samosprávy,
 
-    - – o územnom a správnom členení Slovenskej republiky,
+      - 3. o územnom a správnom členení Slovenskej republiky,
 
-    - – o organizácii a základných kompetenciách vlády Slovenskej republiky a ústredných orgánov štátnej správy,
+      - 4. o organizácii a základných kompetenciách vlády Slovenskej republiky a ústredných orgánov štátnej správy,
 
-    - – o obsahu ústavy,
+      - 5. o obsahu ústavy,
 
-    - – zo zákona o životnom prostredí,
+      - 6. zo zákona o životnom prostredí,
 
-    - – zo zákona o Štátnom fonde životného prostredia Slovenskej republiky a vykonávacích predpisov,
+      - 7. zo zákona o Štátnom fonde životného prostredia Slovenskej republiky a z predpisov vydaných na jeho vykonanie,
 
-    - – z právnej úpravy hodnotenia vplyvu na životné prostredie,
-
-    - – o životnom prostredí (tzv. ekologické minimum),<sup>1</sup>) v rozsahu učebnej pomôcky vydanej Komisiou.
+      - 8. z právnej úpravy posudzovania vplyvu na životné prostredie,
 
     - b) praktické aplikačné úradné postupy
 
-    - – v správnom konaní,
+      - 1. v správnom konaní,
 
-    - – v prejednávaní priestupkov,
+      - 2. pri prejednávaní priestupkov.
 
-    - – vo využívaní výpočtovej techniky;
+  - II. Obsah osobitnej odbornej spôsobilosti na jednotlivé funkcie tvoria tieto ďalšie vedomosti:
 
-    - c) ovládanie úradného jazyka.
+    - l. na okresných a obvodných úradoch životného prostredia
 
-  - II. Obsah osobitnej odbornej spôsobilosti pre jednotlivé funkcie tvoria tieto ďalšie vedomosti a praktické aplikačné úradné postupy:
+      - a) na funkciu prednostu úradu a jeho zástupcu
 
-    - 1. V okresných a obvodných úradoch životného prostredia:
+        - 1. zo základných znalostí práva životného prostredia a zo štátnej environmentálnej politiky,
 
-      - a) Pre funkciu prednostu úradu a zástupcu prednostu úradu
+        - 2. z právnej úpravy rozpočtových pravidiel,
 
-      - – zo znalostí z ekologickej politiky,
+        - 3. zo Zákonníka práce,
 
-      - – z právnej úpravy rozpočtových pravidiel,
+        - 4. z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a živnostenského zákona,
 
-      - – zo Zákonníka práce,
+        - 5. z predpisov upravujúcich kontrolu v štátnej správe vrátane jej metodiky,
 
-      - – z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a zákona o živnostenskom podnikaní (živnostenský zákon),
+        - 6. z vybraných častí právnych predpisov o evidencii nehnuteľností,
 
-      - – z predpisov upravujúcich kontroly v štátnej správe vrátane jej metodiky,
+      - b) na prácu na úseku územného rozvoja a štátnej stavebnej správy
 
-      - – z vybraných častí právnych predpisov o evidencii nehnuteľností.
+        - 1. z odborných poznatkov o krajinnoekologickom plánovaní,
 
-      - b) Pre prácu na úseku územného rozvoja štátnej stavebnej správy
+        - 2. z právnych predpisov o územnom plánovaní a stavebnom poriadku a o evidencii nehnuteľností,
 
-      - – z odborných poznatkov z krajinnoekologického plánovania,
+        - 3. z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a živnostenského zákona,
 
-      - – z právnych predpisov o územnom plánovaní a stavebnom poriadku a o evidencii nehnuteľností,
+        - 4. z vybraných častí právnych predpisov o vodnom hospodárstve, o ochrane čistoty ovzdušia, o ochrane prírody, o odpadoch a o starostlivosti o zdravie ľudí,
 
-      - - z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a živnostenského zákona,
+        - 5. z praktických aplikačných úradných postupov pri rozhodovaní na úseku územného rozvoja a štátnej stavebnej správy,
 
-      - – z vybraných častí právnych predpisov o vodnom hospodárstve, o ochrane čistoty ovzdušia, o ochrane prírody, o odpadoch a o starostlivosti o zdravie ľudu,
+      - c) na prácu na úseku ochrany a čistoty ovzdušia
 
-      - – z praktických aplikačných úradných postupov pri rozhodovaní na úseku územného rozvoja a štátnej stavebnej správy.
+        - 1. z odborných poznatkov o ochrane ovzdušia pred znečisťovaním,
 
-      - c) Pre prácu na úseku ochrany a čistoty ovzdušia
+        - 2. z právnych predpisov o ochrane čistoty ovzdušia,
 
-      - – z odborných poznatkov o ochrane ovzdušia pred znečisťovaním,
+        - 3. z vybraných častí predpisov o evidencii nehnuteľností a o kontrole,
 
-      - – z právnych predpisov o ochrane čistoty ovzdušia,
+        - 4. z praktických aplikačných úradných postupov pri rozhodovaní vo veciach ochrany ovzdušia,
 
-      - – z vybraných častí právnej úpravy starostlivosti o zdravie ľudu,
+        - 5. o medzinárodných dohodách súvisiacich s ochranou ovzdušia,
 
-      - – z praktických aplikačných úradných postupov pri rozhodovaní vo veciach ochrany ovzdušia,
+      - d) na prácu na úseku akosti a množstva vôd a ich racionálneho využívania
 
-      - – o medzinárodných dohodách súvisiacich s ochranou ovzdušia.
+        - 1. z odborných poznatkov o ochrane vôd pred znečisťovaním,
 
-      - d) Pre prácu na úseku akosti a množstva vôd a ich racionálneho využívania
+        - 2. z právnych predpisov o vodnom hospodárstve,
 
-      - – z odborných poznatkov o ochrane vôd pred znečisťovaním,
+        - 3. z vybraných častí predpisov z práva životného prostredia, o evidencii nehnuteľností a o kontrole,
 
-      - – z právnych predpisov o vodnom hospodárstve,
+        - 4. z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a živnostenského zákona,
 
-      - – z vybraných častí právnych predpisov o územnom plánovaní a stavebnom poriadku, o odpadoch a o evidencii nehnuteľností,
+        - 5. z praktických aplikačných úradných postupov pri rozhodovaní na úseku akosti a množstva vôd a ich racionálneho využívania,
 
-      - – z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a živnostenského zákona,
+      - e) na prácu na úseku odpadov
 
-      - – z praktických aplikačných úradných postupov pri rozhodovaní na úseku akosti a množstva vôd a ich racionálneho využívania.
+        - 1. z odborných poznatkov o odpadoch,
 
-      - e) Pre prácu na úseku odpadov
+        - 2. z právnych predpisov o odpadoch,
 
-      - – z odborných poznatkov o odpadoch,
+        - 3. z vybraných častí predpisov z práva životného prostredia, o evidencii nehnuteľností a o kontrole,
 
-      - – z právnych predpisov o odpadoch,
+        - 4. z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a živnostenského zákona,
 
-      - – z vybraných častí právnych predpisov o vodách, o územnom plánovaní a stavebnom poriadku a o evidencii nehnuteľností,
+        - 5. z právnych predpisov o ochrane zdravia ľudí,
 
-      - – z vybraných častí Občianskeho zákonníka, Obchodného zákonníka a živnostenského zákona,
+        - 6. z praktických aplikačných úradných postupov pri rozhodovaní na úseku odpadov,
 
-      - – z praktických aplikačných úradných postupov pri rozhodovaní na úseku odpadov,
+        - 7. o medzinárodných dohodách súvisiacich s odpadmi,
 
-      - – o medzinárodných dohodách súvisiacich s odpadmi.
+      - f) na prácu na úseku ochrany prírody
 
-      - f) Pre prácu na úseku ochrany prírody
+        - 1. z odborných poznatkov o ochrane prírody a krajiny,
 
-      - – z odborných poznatkov o ochrane prírody,
+        - 2. z právnych predpisov o ochrane prírody a krajiny,
 
-      - – z právnych predpisov o ochrane prírody,
+        - 3. z vybraných častí predpisov z práva životného prostredia, o evidencii nehnuteľností a o kontrole,
 
-      - – z vybraných častí právnych predpisov o územnom plánovaní a stavebnom poriadku, o odpadoch, o ovzduší, o vodách, o pôde, o nerastnom bohatstve a o evidencii nehnuteľností,
+        - 4. z praktických aplikačných úradných postupov pri rozhodovaní na úseku štátnej správy ochrany prírody,
 
-      - – z praktických aplikačných úradných postupov pri rozhodovaní na úseku štátnej ochrany prírody,
+        - 5. o medzinárodných dohodách súvisiacich s ochranou prírody a krajiny;
 
-      - – o medzinárodných dohodách súvisiacich s ochranou prírody.
+        - 2. v Slovenskej inšpekcii životného prostredia
 
-    - 2. V Slovenskej inšpekcii životného prostredia:
+      - a) na prácu na úseku vodohospodárskej inšpekcie
 
-      - a) Pre prácu na úseku vodohospodárskej inšpekcie
+        - 1. z odborných poznatkov o ochrane vôd pred znečisťovaním,
 
-      - – z odborných poznatkov o ochrane vôd pred znečisťovaním,
+        - 2. z predpisov upravujúcich kontrolu v štátnej správe vrátane jej metodiky,
 
-      - – z predpisov upravujúcich kontroly v štátnej správe, vrátane jej metodiky,
+        - 3. z právnych predpisov o vodnom hospodárstve,
 
-      - – z právnych predpisov o vodnom hospodárstve,
+        - 4. z praktických aplikačných úradných postupov pri ukladaní pokút,
 
-      - – z praktických aplikačných úradných postupov pri ukladaní pokút,
+        - 5. o medzinárodných dohodách súvisiacich s ochranou vôd,
 
-      - – o medzinárodných dohodách súvisiacich s ochrannou vôd.
+      - b) na prácu na úseku inšpekcie ochrany a čistoty ovzdušia
 
-      - b) Pre prácu na úseku inšpekcie ochrany a čistoty ovzdušia
+        - 1. z odborných poznatkov o ochrane ovzdušia pred znečisťovaním,
 
-      - – z odborných poznatkov o ochrane ovzdušia pred znečisťovaním,
+        - 2. z predpisov upravujúcich kontrolu v štátnej správe vrátane jej metodiky,
 
-      - – z predpisov upravujúcich kontroly v štátnej správe, vrátane jej metodiky,
+        - 3. z právnych predpisov o ochrane čistoty ovzdušia,
 
-      - – z právnych predpisov o ochrane čistoty ovzdušia,
+        - 4. z vybraných častí právnej úpravy o ochrane zdravia ľudí,
 
-      - – z vybraných častí právnej úpravy starostlivosti o zdravie ľudu,
+        - 5. z praktických aplikačných úradných postupov pri ukladaní pokút,
 
-      - – z praktických aplikačných úradných postupov pri ukladaní pokút,
+        - 6. o medzinárodných dohodách súvisiacich s ochranou ovzdušia,
 
-      - – o medzinárodných dohodách súvisiacich s ochranou ovzdušia.
+      - c) na prácu na úseku inšpekcie odpadov
 
-      - c) Pre prácu na úseku inšpekcie odpadov
+        - 1. z odborných poznatkov o odpadoch,
 
-      - – z odborných poznatkov o odpadoch,
+        - 2. z predpisov upravujúcich kontrolu v štátnej správe vrátane jej metodiky,
 
-      - – z predpisov upravujúcich kontroly v štátnej správe, vrátane jej metodiky,
+        - 3. z právnych predpisov o odpadoch,
 
-      - – z právnych predpisov o odpadoch,
+        - 4. z praktických aplikačných úradných postupov pri ukladaní pokút,
 
-      - – z praktických aplikačných úradných postupov pri ukladaní pokút,
+        - 5. o medzinárodných dohodách súvisiacich s odpadmi,
 
-      - – o medzinárodných dohodách súvisiacich s odpadmi.
+      - d) na prácu na úseku inšpekcie ochrany prírody a krajiny
 
-      - d) Pre prácu na úseku inšpekcie ochrany prírody
+        - 1. z odborných poznatkov o ochrane prírody a krajiny,
 
-      - – z odborných poznatkov o ochrane prírody,
+        - 2. z predpisov upravujúcich kontrolu v štátnej správe vrátane jej metodiky,
 
-      - – z predpisov upravujúcich kontroly v štátnej správe, vrátane jej metodiky,
+        - 3. z právnych predpisov o ochrane prírody a krajiny,
 
-      - – z právnych predpisov o ochrane prírody,
+        - 4. z vybraných častí predpisov o evidencii nehnuteľností, o územnom plánovaní a stavebnom poriadku,
 
-      - – z vybraných častí právnych predpisov o evidencii nehnuteľností, o územnom plánovaní a stavebnom poriadku,
+        - 5. z praktických aplikačných úradných postupov pri ukladaní pokút,
 
-      - – z praktických aplikačných úradných postupov pri ukladaní pokút,
-
-      - – o medzinárodných dohodách súvisiacich s ochranou prírody.
+        - 6. o medzinárodných dohodách súvisiacich s ochranou prírody a krajiny.

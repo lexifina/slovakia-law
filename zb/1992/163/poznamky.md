@@ -1,4 +1,4 @@
-- 1) § 45 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
+- 1) Zákon Národnej rady Slovenskej republiky č. 136/1995 Z. z. o odbornej spôsobilosti na vybrané činnosti vo výstavbe a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 2) Napríklad § 22, § 24 zákona č. 172/1990 Zb. o vysokých školách.
 
@@ -10,9 +10,7 @@
 
 - 4) § 126 ods. 2 Zákonníka práce.
 
-- 5) § 5, 6 a 9 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 33/1984 Zb. o cestovných náhradách v znení vyhlášok č. 81/1988 Zb., č. 241/1988 Zb. a č. 251/1990 Zb.
-
-- 6) § 7 a 8 vyhlášky č. 33/1984 Zb.
+- 5) Zákon č.119/1992 Zb. o cestovných náhradách.
 
 - 7) § 141a Zákonníka práce.
 
