@@ -1,0 +1,5 @@
+Príloha k nariadeniu vlády č. 8/2000 Z. z.
+
+ZOZNAM ZDRAVOTNÍCKYCH POMÔCOK UHRÁDZANÝCH ALEBO ČIASTOČNE UHRÁDZANÝCH NA ZÁKLADE ZDRAVOTNÉHO POISTENIA
+
+[Príloha 01](../assets/188969f4d42b98cafd3c6637cd2726acd8937ef70dfdd66e1a6bcaadefcde2e5.pdf)
