@@ -1,0 +1,3 @@
+# Čl. I. - zavedený predpisom č. 115/1947 Zb.
+
+Pokud je to nutno v zájmu včasného splnění úkolů stanovených zákonem ze dne 25. října 1946, č. 192 Sb., o dvouletém hospodářském plánu, může zemský národní výbor zmocniti stavební úřad, aby v obcích, kde dosud nebylo provedeno řízení podle § 7, odst. 2 a 3 zákona č. 86/1946 Sb., provedl toto řízení a jeho jménem vydal zvláštní dílčí výměr o obnově (§ 8) pokud jde o objekty, jichž obnova jest součástí úkolů dvouletého hospodářského plánu a má býti provedena jinou stavební činností, než novostavbou, a pokud provedení obnovy nepředpokládá změnu upravovacího plánu.
