@@ -10,6 +10,8 @@
 
 - 6a) Zákon Slovenskej národnej rady č. 13/1992 Zb. o Slovenskej lekárskej komore, Slovenskej komore zubných lekárov a Slovenskej lekárnickej komore.
 
+- 6b) Zákon č. 216/2002 Z. z. o povolaní lekárnika, o Slovenskej lekárnickej komore a o doplnení zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+
 - 7) Zákon Národnej rady Slovenskej republiky č. 115/1995 Z. z. o ochrane zvierat.
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
