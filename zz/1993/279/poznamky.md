@@ -27,3 +27,17 @@
 - § 45 a 46 Zákona o rodine.
 
 - 11) § 45 ods. 3 a § 46 zákona č. 94/1963 Zb. o rodine v znení zákona č. 132/1982 Zb. a zákona č. 234/1992 Zb.
+
+- 11a) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 11b) § 72 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 11c) § 13 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
+
+- 11d) § 7 vyhlášky Ministerstva školstva a vedy Slovenskej republiky č. 121/1994 Z. z. o zriaďovaní, činnosti a prevádzke zariadení školského stravovania v znení neskorších predpisov.
+
+- 11e) § 2 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok v znení neskorších predpisov.
+
+- 11f) § 2 písm. a) zákona č. 125/1998 Z. z. v znení neskorších predpisov.
+
+- 11g) Zákon č. 119/1992 Z. z. o cestovných náhradách v znení neskorších predpisov.
