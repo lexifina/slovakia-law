@@ -16,4 +16,6 @@ Podľa ustanovenia článku 28 vstúpila Dohoda v platnosť 12. júla 1963.
 
 České znenie Dohody sa vyhlasuje súčasne.<sup>*</sup>)
 
+Oznámením č. 112/2006 Z. z., ktorým bol potvrdený stav zmluvnej základne medzi Slovenskou republikou a Chorvátskou republikou po sukcesii Slovenskej republiky do zmlúv bývalej Českej a Slovenskej Federatívnej Republiky, sa tejto dohode skončila platnosť dňom výmeny nót.
+
 David v. r.
