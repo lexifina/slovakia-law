@@ -1,4 +1,4 @@
-- 1) § 50 ods. 1 zákona č. 60/1965 Zb. o prokuratúre v znení neskorších predpisov.
+- 1) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky.
 
