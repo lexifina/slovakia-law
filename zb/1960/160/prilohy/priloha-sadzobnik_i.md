@@ -310,9 +310,11 @@ Pol. | Predmet poplatku | | | | | Poplatok Kčs
 
 | Oddiel H | | | | |
 
-| Školstvo | | | | |
+| Školstvo a zdravotníctvo | | | | |
 
 35. | Povolenie súkromného vyučovania | | | | | 500,-
+
+35a. | Za vydanie lekárskeho potvrdenia o zdravotnom stave pre vystavenie vodičského preukazu, žiadosť o daňovú úľavu, súdne konanie | | | | | 10,-
 
 | Oddiel I | | | | |
 
