@@ -6,9 +6,9 @@
 
 - a) príspevky do garančného fondu podľa § 128a,
 
-- b) účelová dotácia zo štátneho rozpočtu vo výške zodpovedajúcej príspevkom do garančného fondu podľa písmena a),
+- b) účelová dotácia zo štátneho rozpočtu, ak tak určí zákon o štátnom rozpočte na príslušný rozpočtový rok,
 
-- c) úroky z finančných prostriedkov garančného fondu uložených v bankách znížené o osobitnú sadzbu dane,<sup>12a</sup>)
+- c) úroky z finančných prostriedkov garančného fondu uložených v Štátnej pokladnici znížené o osobitnú sadzbu dane,<sup>12a</sup>)
 
 - d) prijaté penále za omeškané platenie príspevkov do garančného fondu,
 
@@ -24,6 +24,6 @@
 
 (3) Finančné prostriedky garančného fondu sa účtovne vedú oddelene od ostatných fondov.
 
-(4) Účelová dotácia zo štátneho rozpočtu sa poskytne v januári príslušného kalendárneho roka formou preddavku vo výške jednej osminy sumy výplat peňažných náhrad z garančného fondu predpokladanej v rozpočte Národného úradu práce na príslušný kalendárny rok; výška štvrťročných preddavkov v ďalších štvrťrokoch sa určí na základe skutočne zúčtovaných peňažných náhrad z garančného fondu k 28. februáru, 31. máju a 31. augustu a jednej tretiny sumy preddavku poskytnutého v januári príslušného kalendárneho roka. Ročné zúčtovanie poskytnutých preddavkov náhrad sa vykoná v termíne do 31. marca nasledujúceho kalendárneho roka, najviac však do výšky ročnej účelovej dotácie zo štátneho rozpočtu podľa odseku 2 písm. b).
+(4) Účelová dotácia zo štátneho rozpočtu do garančného fondu sa poskytne štvrťročne k poslednému dňu prvého mesiaca príslušného štvrťroku vo výške jednej štvrtiny zo sumy podľa § 77a ods. 2 písm. b). Ročné zúčtovanie účelovej dotácie zo štátneho rozpočtu sa riadi osobitným predpisom.<sup>12ba</sup>)
 
 (5) V prípade, že prostriedky garančného fondu nebudú postačovať na krytie výdavkov podľa odseku 1, môže sa poskytnúť zo štátneho rozpočtu Národnému úradu práce návratná finančná výpomoc.

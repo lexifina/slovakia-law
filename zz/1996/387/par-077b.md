@@ -1,3 +1,3 @@
 # § 77b
 
-Účelová dotácia zo štátneho rozpočtu Národnému úradu práce na úhradu príspevkov na rekvalifikáciu zamestnancov podľa § 84a a príspevkov na vytvorené nové pracovné miesta zamestnávateľovi podľa § 93a sa poskytuje štvrťročne vo forme preddavku. Ročné zúčtovanie poskytnutých preddavkov sa vykoná v termíne do 31. marca nasledujúceho kalendárneho roka.
+Účelová dotácia zo štátneho rozpočtu Národnému úradu práce na spolufinancovanie príspevkov na aktívnu politiku trhu práce podľa § 84a, 86, 90a, 91a a § 93a sa môže poskytnúť na základe žiadosti Národného úradu práce štvrťročne vo forme preddavku. Ročné zúčtovanie účelovej dotácie zo štátneho rozpočtu sa riadi osobitným predpisom.<sup>12ba</sup>)

@@ -30,6 +30,8 @@
 
 - 8c) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
+- 8d) Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8f) § 130 ods. 3 Zákonníka práce.
 
 - 9) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
@@ -47,6 +49,8 @@
 - 12a) Zákon č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 173/1998 Z. z.
 
 - 12b) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+
+- 12ba) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 12c) § 2 ods. 1 písm. c) zákona č. 565/2001 Z. z. o investičných stimuloch a o zmene a doplnení niektorých zákonov.
 

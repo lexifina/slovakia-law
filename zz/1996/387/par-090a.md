@@ -2,7 +2,7 @@
 
 (1) Dohodnuté pracovné miesto pre absolventa školy je každé pracovné miesto, na ktoré je prijatý absolvent školy, ktorý je evidovaný ako nezamestnaný najmenej šesť mesiacov, a to na základe dohody uzatvorenej medzi okresným úradom práce a zamestnávateľom najviac na tri mesiace.
 
-(2) Okresný úrad práce poskytuje zamestnávateľovi z účelovej dotácie zo štátneho rozpočtu príspevok na úhradu mzdy alebo platu zamestnanca vo výške mesačnej minimálnej mzdy platnej k poslednému dňu mesiaca, za ktorý sa príspevok poskytuje, a príspevok na úhradu poistného na zdravotné poistenie, nemocenské poistenie a dôchodkové zabezpečenie platené zamestnávateľom v sume určenej z vymeriavacieho základu podľa osobitných predpisov.<sup>13h</sup>)
+(2) Okresný úrad práce môže poskytnúť zamestnávateľovi príspevok na úhradu mzdy alebo platu zamestnanca vo výške mesačnej minimálnej mzdy platnej k poslednému dňu mesiaca, za ktorý sa príspevok poskytuje, a príspevok na úhradu poistného na zdravotné poistenie, nemocenské poistenie a dôchodkové zabezpečenie platené zamestnávateľom v sume určenej z vymeriavacieho základu podľa osobitných predpisov.<sup>13r</sup>) Ak okresný úrad práce poskytne príspevok na úhradu mzdy alebo platu zamestnanca, poskytne aj príspevok na úhradu poistného na zdravotné poistenie, nemocenské poistenie a dôchodkové zabezpečenie platené zamestnávateľom v sume určenej z vymeriavacieho základu podľa osobitných predpisov.<sup>13r</sup>)
 
 (3) Okresný úrad práce neposkytne príspevok podľa odseku 2, ak má zamestnávateľ nižší počet zamestnancov ako šesť mesiacov pred podaním žiadosti.
 
