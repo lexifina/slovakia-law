@@ -1,1 +1,0 @@
-- 1) Časť pododvetvia 411 Jednotná klasifikácia odvetví národného hospodárstva – stavebné objekty 803.1 – 803.5 Jednotnej klasifikácie stavebných objektov.
