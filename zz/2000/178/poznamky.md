@@ -1,0 +1,1 @@
+- 1) Dňom nadobudnutia účinnosti tejto vyhlášky stráca platnosť rozhodnutie Inšpektorátu kúpeľov a žriediel na Ministerstve zdravotníctva Slovenskej republiky č. 20/94 z 1. februára 1994, ktorým boli určené nevyhnutné dočasné ochranné opatrenia pre zdroje prírodných minerálnych vôd v Budiši.
