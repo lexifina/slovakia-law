@@ -1,0 +1,1 @@
+- 1) § 5 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
