@@ -73,3 +73,19 @@
 - 32) STN ISO 6182.
 
 - 33) STN EN 60945, ITU-R 693.
+
+- 1) Obež. MSC 809 sa použije, len ak sa zariadenie má nainštalovať na ro-ro lodiach určených na prepravu cestujúcich.
+
+- 2) Obež. MSC 810 sa použije, len ak sa zariadenie má nainštalovať na ro-ro lodiach určených na prepravu cestujúcich.
+
+- 1) Ak povrchový materiál musí mať určitú maximálnu kalorifickú hodnotu, táto sa bude merať v súlade s ISO 1716.
+
+- 1) IMO MSC/Obež. 862 sa môže použiť iba pre voliteľné zariadenie s diaľkovou aktiváciou, nie pre samotné EPIRB.
+
+- 2) V súlade s rozhodnutiami IMO a ITU požiadavky na generátor dvojtónového poplachu a prenos na H3E už nie sú použiteľné v skúšobných normách.
+
+- 3) Môže sa použiť, iba ak Inmarsat C SES obsahuje funkcie EGC.
+
+- 4) V súlade s rozhodnutiami IMO a ITU požiadavky na generátor dvojtónového poplachu a prenos na A3H už nie sú použiteľné v skúšobných normách.
+
+- 1) Odkaz na SOLAS, kapitola II je odkaz na SOLAS 1974 v znení MSC 73, ktorý nadobudne účinnosť 1. júla 2002.
