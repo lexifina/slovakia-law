@@ -18,7 +18,7 @@
 
 - 10) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
 
-- 11) § 54 ods. 8 až 13 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 118/2002 Z. z.
+- 11) § 54a ods. 1 až 13 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 445/2003 Z. z.
 
 - 12) § 4 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -55,6 +55,8 @@
 - 28) § 72 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
 - 29) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 29a) § 54a ods. 14 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 445/2003 Z. z.
 
 - 30) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
