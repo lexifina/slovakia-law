@@ -1,0 +1,1 @@
+Marián Tkáč v. r.
