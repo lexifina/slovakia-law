@@ -1,0 +1,1 @@
+Príloha vyhlášky Ministerstva financií Slovenskej republiky č. 272/1993 Z. z. [Vzor - Uplatnenie nároku na vrátenie sumy dane z pridanej hodnoty z ceny zdaniteľného plnenia](../assets/75e076802c5561d9f64e3dfa2582690a7f330e74ac0194b39436cf8fe717528b.pdf)
