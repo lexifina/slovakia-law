@@ -4,6 +4,8 @@
 
 - 1b) § 21 ods. 2 Obchodného zákonníka.
 
+- 1c) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+
 - 2a) § 460 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
 - 2b) § 2 písm. b) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
@@ -34,10 +36,12 @@
 
 - 3ed) § 12 zákona č. 263/1999 Z. z.
 
-- 3f) § 36c zákona č. 21/1992 Zb. v znení neskorších predpisov.
+- 3f) § 46 ods. 2 písm. a) a c) zákona č. 600/1992 Zb. v znení neskorších predpisov.
 
 - 4) § 361 až 36r zákona č. 21/1992 Zb. v znení neskorších predpisov.
 
 - 4a) Napríklad Občiansky zákonník, Obchodný zákonník.
+
+- 4b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 5) § 185i až 185s Občianskeho súdneho poriadku v znení neskorších predpisov.
