@@ -4,7 +4,7 @@ Príloha č. 3 zákona SNR č. 593/1990 Zb.
 
 - Účelové rezervy spolu | 563 640
 
-- v tom: |
+- v tom: | &nbsp
 
 - - na úlohy rozvoja vedy a techniky | 454 040
 
@@ -16,7 +16,7 @@ Príloha č. 3 zákona SNR č. 593/1990 Zb.
 
 - Účelové prostriedky štátneho rozpočtu Slovenskej republiky zapracované v kapitolách:
 
-- Ministerstvo práce a sociálnych vecí SR: |
+- Ministerstvo práce a sociálnych vecí SR: | &nbsp
 
 - - na valorizáciu dôchodkov | 3 400 000
 
@@ -24,30 +24,32 @@ Príloha č. 3 zákona SNR č. 593/1990 Zb.
 
 - - na nezamestnanosť | 2 600 000
 
-- Ministerstvo kultúry SR: |
+- Ministerstvo kultúry SR: | &nbsp
 
-- - na obnovu kultúrnych pamiatok | 300 000
+- - na obnovu národných kultúrnych pamiatok | 300 000
 
 - - na cirkev | 389 000
 
 - - na dotovanie tlače a umeleckej tvorby určenej pre detskú literatúru a detské časopisy | 25 000
 
-- Ministerstvo spravodlivosti SR: |
+- Ministerstvo spravodlivosti SR: | &nbsp
 
 - - na rehabilitácie | 165 500
 
-- Ministerstvo školstva, mládeže a športu SR: |
+- Ministerstvo školstva, mládeže a športu SR: | &nbsp
 
 - - na športovú reprezentáciu Slovenskej republiky | 20 000
 
-- Ministerstvo poľnohospodárstva a výživy SR: |
+- Ministerstvo poľnohospodárstva a výživy SR: | &nbsp
 
 - - dotácie do štátneho fondu zúrodnenia pôdy | 224 000
 
-- Slovenská komisia pre životné prostredie SR: |
+- Slovenská komisia pre životné prostredie SR: | &nbsp
 
 - - dotácie do štátneho fondu vodného hospodárstva | 250 000
 
 - - dotácie do štátneho fondu ochrany ovzdušia | 100 000
 
 - Spolu v kapitolách | 8 873 500
+
+- [Príloha 03](../assets/17cfb1459b9c642fd43873bce818d2d7801bcd2279aaeaf5b36e9ac294e8d46f.pdf)

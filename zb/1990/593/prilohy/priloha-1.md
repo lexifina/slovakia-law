@@ -2,7 +2,7 @@ Príloha č. 1 zákona SNR č. 593/1990 Zb.
 
 - Celkový prehľad príjmov a výdavkov štátneho rozpočtu Slovenskej republiky na rok 1991 (v tis. Kčs) Príjmy |
 
-- Príjmy v odvetvovom členení |
+- Príjmy v odvetvovom členení | &nbsp
 
 - v tom: | 103 723 800
 
@@ -24,7 +24,7 @@ Príloha č. 1 zákona SNR č. 593/1990 Zb.
 
 - Výdavky |
 
-- Výdavky v odvetvovom členení |
+- Výdavky v odvetvovom členení | &nbsp
 
 - v tom: | 1 12 023 900
 
@@ -34,7 +34,7 @@ Príloha č. 1 zákona SNR č. 593/1990 Zb.
 
 - - na peňažné a technické služby | 4 766 816
 
-- - na spoločenské služby a činnosti pre obyvateľstvo | 77 225 860
+- - na spoločenské služby a činnosti pre obyvateľstvo | 76 625 860
 
 - - na bezpečnosť | 2 936 849
 
@@ -42,6 +42,8 @@ Príloha č. 1 zákona SNR č. 593/1990 Zb.
 
 - Dotácie do rozpočtov obcí | 6 162 900
 
-- Výdavky spolu | 118 786 800
+- Výdavky spolu | 118 186800
 
-- Prebytok | 100 000
+- Prebytok | 700 000
+
+- [Príloha 01](../assets/5e12f38ba8cc3756c26879c48b52f5697e3de2760980faaf8ee96a2eacb7debb.pdf)
