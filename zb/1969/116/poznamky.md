@@ -1,1 +1,0 @@
-- *) Liekopis bol vydaný nákladom Štátneho zdravotníckeho nakladateľstva v Prahe.
