@@ -36,6 +36,8 @@ Príloha 1 vyhlášky č. 266/1990 Zb. Zoznam položiek tovaru, na ktorého dovo
 
 2204 | Víno z čerstvého hrozna | 80 tis. hl
 
+1701 | Repný a trstinový cukor | 40 tis. ton
+
 Údaje uvedené v stĺpci „množstvo na rok 1991“ vyjadrujú množstvo, ktoré najviac môže byť dovezené za celý rok 1991; započítajú sa teda doňho aj objemy dodávok realizovaných pred účinnosťou tejto vyhlášky.
 
 [Příloha 02](../assets/2fe50bc8969a108f05ccf27cf5d72258282b5138ac7528751c0ef173c3c7828f.pdf)
