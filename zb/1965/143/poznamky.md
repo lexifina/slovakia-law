@@ -102,19 +102,13 @@
 
 - **) Piata časť, prvý oddiel (§ 35 a nasl.) opatrenia č. 91/1958 Zb. v znení vyhlášky č. 191/1960 Zb.
 
-- ***) O vrátení dávok už vyplatených a o zodpovednosti závodu za poistné skrátené výplatou takej dávky platí § 48 ods. 2 zákona č. 54/1956 Zb. a § 24 ods. 4 opatrenia č. 91/1958 Zb.
-
-- *) § 16 ods. 2 opatrenia č. 91/1958 Zb. v znení vyhlášky č. 191/1960 Zb.
-
-- **) Podľa vl. nar. č. 57/1956 Zb. o nemocenskom poistení členov výrobných družstiev.
-
-- ***) § 269 Zákonníka práce.
-
 - 1) Zákon č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch; vyhláška č. 106/1972 Zb. o odmeňovaní objavov, vynálezov, zlepšovacích návrhov a priemyselných vzorov.
 
 - 1) Táto suma je zo sumy 750 Kčs, prípadne zo sumy 900 Kčs, napr. pri 42,5 hodinovom týždňovom pracovnom čase 17,60 Kčs prípadne 21,10 Kčs, pri 42 hodinovom týždňovom pracovnom čase 17,80 Kčs, prípadne 21,40 Kčs, a pri 41,25 hodinovom týždňovom pracovnom čase 18,10 Kčs, prípadne 21,80 Kčs.
 
 - 1) § 18 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 148/1983 Zb. o zjednotení sadzieb nemocenského.
+
+- 1) § 18 ods. 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 148/1983 Zb.
 
 - 2) § 21 vyhlášky č. 106/1972 Zb.
 
@@ -123,6 +117,8 @@
 - 2) § 84 a 85 Zákonníka práce.
 
 - 2) § 83 Zákonníka práce.
+
+- 2) Napr. § 299 ods. 1 Občianskeho súdneho poriadku.
 
 - 3) Napr. úprava Ministerstva baníctva č. 8 z 1. 4. 1967 o deputátnom uhlí a dreve v uhoľnom priemysle.
 
