@@ -1,0 +1,1 @@
+- 1) § 3 odst. 1 zákona ČNR č. 160/1992 Sb., o zdravotní péči v nestátních zdravotnických zařízeních.
