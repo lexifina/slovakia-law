@@ -12,9 +12,11 @@
 
 - 6a) Zákon č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 7) § 16 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
 - 8) § 8 ods. 2 Občianskeho zákonníka.
+
+- 8a) Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
+
+- 8b) § 16 ods. 2 zákona č. 71/1967 Zb.
 
 - 9) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
@@ -22,13 +24,17 @@
 
 - 11) § 250n Občianskeho súdneho poriadku.
 
+- 11a) § 16 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
+
+- 11b) § 17 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z.
+
 - 12) Napríklad Zákonník práce.
 
 - 13) § 2 Obchodného zákonníka.
 
 - 15) Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení zákona č. 48/2002 Z. z.
 
-- 16) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 16) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) § 34 až 37 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 143/1984 Zb. o základnej škole v znení neskorších predpisov.
 
@@ -36,7 +42,7 @@
 
 - 19) § 41 ods. 2 Trestného zákona.
 
-- 20) Zákon č. 71/1967 Zb. v znení zákona č. 215/2002 Z. z.
+- 20) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 21) Napríklad § 58 zákona č. 48/2002 Z. z., § 379 až 383 Trestného poriadku.
 

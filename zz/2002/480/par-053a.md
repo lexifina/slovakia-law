@@ -1,3 +1,3 @@
 # § 53a
 
-Týmto zákonom sa preberá právne záväzný akt Európskych spoločenstiev uvedený v prílohe č. 5.
+Týmto zákonom sa preberajú právne akty Európskych spoločenstiev a Európskej únie uvedené v prílohe č. 5.
