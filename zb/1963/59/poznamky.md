@@ -1,0 +1,1 @@
+- *) Tým sa doplňujú ustanovenia čl. 20 ods. 4 a 5 vyhlášky č. 205/1958 Ú. l. (Ú. v.).
