@@ -1,0 +1,11 @@
+Príloha č. 2
+
+- SÚHRNNÉ ÚDAJE A ZÁKLADNÉ UKAZOVATELE STAVBY KOMPLEXNEJ BYTOVEJ VÝSTAVBY [Vzor 02](../assets/3a7f63c77142603e290f282ffcdd3a363f1a787446a90f18ce618dee3cd0fb51.pdf)
+
+  - SÚHRNNÉ ÚDAJE A ZÁKLADNÉ UKAZOVATELE STAVBY KBV - technická a občianska vybavenosť
+
+  - Vzor 03
+
+  - SÚHRNNÉ ÚDAJE A ZÁKLADNÉ UKAZOVATELE STAVBY
+
+  - Vzor 04
