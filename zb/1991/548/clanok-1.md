@@ -388,6 +388,12 @@ Zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění zákona České nár
 
   - Vyhláška č. 394/1991 Sb., o postavení, organizaci a činnosti fakultních nemocnic a dalších nemocnic, vybraných odborných léčebných ústavů a krajských hygienických stanic v řídící působnosti ministerstva zdravotnictví České republiky.“.
 
+- 44. § 40 zní:
+
+- „§ 40
+
+- Každá fyzická osoba, která provozuje podnikatelskou činnost, a každá právnická osoba je povinna zajistit pro své zaměstnance závodní preventivní péči.<sup>4</sup>) Bližší podmínky poskytování závodní preventivní péče stanoví ministerstvo zdravotnictví vyhláškou.“.
+
 - 45. § 44 odst. 2 zní:
 
 - „(2)
