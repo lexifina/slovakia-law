@@ -32,15 +32,15 @@
 
 - 15) § 10 zákona č. 1/1991 Zb.
 
-- 15a) § 32 ods. 1 zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení zákona č. 306/1991 Zb.
-
-- § 40 ods. 2 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení zákona č. 306/1991 Zb.
+- 15a) § 32 zákona č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z.Zákon Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
 
 - 15b) § 20 ods. 3 a 4 zákona č. 1/1991 Zb. o zamestnanosti v znení zákona č. 231/1992 Zb.
 
 - 16) § 8 ods. 1 zákona č. 1/1991 Zb.
 
 - 18) § 50 Zákonníka práce.
+
+- 18a) § 10 ods. 4 písm. a) bod 3 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení zákona Národnej rady Slovenskej republiky č. 134/1995 Z. z.
 
 - 19) § 8 ods. 2 zákona č. 1/1991 Zb.
 
@@ -51,5 +51,7 @@
 - 22) § 24 ods. 1 písm. c) zákona č. 1/1991 Zb.
 
 - 23) § 24 ods. 4 zákona č. 1/1991 Zb.
+
+- 23a) § 24 ods. 3 zákona č. 1/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 197/1995 Z. z.
 
 - 24) § 9 ods. 1 zákona č. 1/1991 Zb.
