@@ -1,0 +1,1 @@
+- 1) § 8 zákona č. 103/1974 Zb. o poľnohospodárskej dani v znení neskorších predpisov.
