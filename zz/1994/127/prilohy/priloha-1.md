@@ -4,374 +4,570 @@ Príloha č. 1 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z.
 
   - 1. Ťažobný priemysel
 
-- Prislušný orgán: Ministerstvo hospodárstva Slovenskej republiky
+- Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Ťažba a úprava uhlia, lignitu, bitumenóznych hornín, rúd a magnezitu | nad 100 000 t/rok | do 100 000 t/rok
+- 1. | Ťažba a úprava uhlia, lignitu a bituminóznych hornín | nad 100 000 t/rok | do 100 000 t/rok
 
-- 2. | Ťažba a úprava rádioaktívnych nerastov vrátane odvalov a odkalísk a ich rekultivácie | bez limitu |
+- 2. | Ťažba a úprava rúd a magnezitu | nad 100 000 t/rok | do 100 000 t/rok
 
-- 3. | Ťažba a úprava ropy | nad 10 000 t/rok |
+- 3. | Ťažba a úprava rádioaktívnych nerastov vrátane odvalov a odkalísk a ich rekultivácie | bez limitu |
 
-- 4. | Ťažba a úprava zemného plynu | nad 10 mil. m<sup>3</sup>/rok | bez limitu
+- 4. | Ťažba a úprava ropy | nad 50 t/ deň | do 50 t/ deň
 
-- 5. | Podzemné uskladňovanie zemného plynu v prírodných horninových štruktúrach | nad 100 mil. m<sup>3</sup>/rok | od 10 do 100 mil. m<sup>3</sup>/rok
+- 5. | Ťažba a úprava zemného plynu | nad 50 000 m<sup>3</sup>/deň | do 50 000 m<sup>3</sup>/deň
 
-- 6. | Ťažba a úprava azbestu | | bez limitu
+- 6. | Povrchové a priemyselné zariadenia na ťažbu uhlia, lignitu, ropy, zemného plynu, rúd a bituminóznych hornín | | bez limitu
 
-- 7. | Ťažba a úprava kameňa, štrkopiesku, piesku a ostatných nerastov neuvedených v položkách 1 až 6 v množstve alebo s celkovým záberom pozemkov | nad 200 000 t/rok alebo nad 10 ha | od 100 000 do 200 000 t/rok alebo od 5 do 10 ha
+- 7. | Podzemné uskladňovanie zemného plynu v prírodných horninových štruktúrach | nad 100 mil. m<sup>3</sup>/rok | od 10 do 100 mil. m<sup>3</sup>/rok
+
+- 8. | Podzemné uskladňovanie zemného plynu v umelo vybudovaných podzemných priestoroch | nad 500 000 m<sup>3</sup> | do 500 000 m<sup>3</sup>
+
+- 9. | Ťažba a úprava azbestu vrátane zariadení na ťažbu a úpravu | bez limitu |
+
+- 10. | Ťažba nerastov bagrovaním z riek | | od 100 000 t/rok
+
+- 11. | Lomy a povrchová ťažba a úprava kameňa; ťažba štrkopiesku a piesku | nad 200 000 t/rok alebo nad 10 ha | od 100 000 t/rok do 200 000 t/rok alebo od 5 do 10 ha
+
+- 12. | Ťažba kaolínu, keramických a žiaruvzdorných ílov a ílovcov | nad 100 000 t/rok alebo nad 10 ha | do 100 000 t/rok alebo od 5 do 10 ha
+
+- 13. | Lomy a povrchová ťažba vápenca | nad 150 000 t/rok alebo nad 10 ha | do 150 000 t/rok alebo od 5 do 10 ha
+
+- 14. | Ťažba sklárskych a zlievárenských pieskov | nad 100 000 t/rok | do 100 000 t/rok
+
+- 15. | Ťažba ostatných nerastov, ak nie sú uvedené v položkách 1 - 6, 9 - 14 | nad 100 000 t/rok alebo nad 10 ha | do 100 000 t/rok alebo od 5 do 10 ha
+
+- 16. | Ťažobné vrty (okrem vrtov na skúmanie stability pôdy), najmä: - geotermálne vrty - vrty pre vodné zdroje - vrty na uskladňovanie jadrového odpadu | nad 500 m bez limitu | do 500 m nad 300 m
 
   - 2. Energetický priemysel
 
 - Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Tepelné elektrárne a ostatné zariadenia na spaľovanie tuhých, kvapalných alebo plynných fosílnych palív | nad 300 MW tepelného výkonu | od 50 do 300 MW tepelného výkonu
+- 1. | Tepelné elektrárne a ostatné zariadenia na spaľovanie | 300 MW a viac tepelného výkonu | od 50 do 300 MW tepelného výkonu
 
-- 2. | Hydroelektrárne s vodnou nádržou s výškou hrádze nad základovou líniou alebo s celkovým objemom alebo s rozlohou | nad 10 m alebo nad 1 mil. m<sup>3</sup> alebo nad 100 ha | od 3 do 10 m a do 1 mil. m<sup>3</sup> od 10 do 100 ha
+- 2. | Priemyselné zariadenia na výrobu elektriny z vodnej energie (hydroelektrárne) | nad 50 MW | od 5 do 50 MW
 
-- 3. | Jadrové elektrárne a iné zariadenia sjadrovými reaktormi | bez limitu |
+- 3. | Zariadenia na využívanie vetra na výrobu energie (veterné elektrárne) | | bez limitu
 
-- 4. | Zariadenia určené na výrobu alebo obohacovanie jadrového paliva, na prepracovanie vyhoretého jadrového paliva a výskumné zariadenia na výrobu a konverziu jadrového paliva a jadrových palivových surovín | bez limitu |
+- 4. | Jadrové elektrárne a iné zariadenia s jadrovými reaktormi<sup>1</sup>) vrátane ich vyraďovania a likvidácie | bez limitu |
 
-- 5. | Medzlsklady a úložlská vyhoretého jadrového paliva | bez limitu |
+- 5. | Zariadenia určené na výrobu alebo obohacovanie jadrového paliva, na prepracovanie vyhoreného jadrového paliva a výskumné zariadenia na výrobu a konverziu jadrového paliva a jadrových palivových surovín | bez limitu |
 
-- 6. | Zariadenia na zhromaždovanie, uskladňovanie a spracovanie vysokoaktívnych rádioaktívnych odpadov | bez limitu |
+- 6. | Zariadenia na spracovanie vyhoreného jadrového paliva a vysokoaktívnych odpadov | bez limitu |
 
-- 7. | Zariadenia na spracovanie a uloženie stredne a nízkoaktívnych odpadov z prevádzky a likvidácie jadrových elektrární a využívania rádionuklidov | bez limitu |
+- 7. | Úložiská vyhoreného jadrového paliva a vysokoaktívnych odpadov | bez limitu |
 
-- 8. | Geotermátne elektrárne a výhrevne | bez limitu |
+- 8. | Zariadenia na skladovanie a úpravu vyhoreného jadrového paliva a vysokoaktívnych rádioaktívnych odpadov | bez limitu |
 
-- 9. | Diaľkové prenosové vedenia elektrickej energie | 220 kV a vyššie | 110 kV
+- 9. | Zariadenia na skladovanie (plánované na viac ako 10 rokov) vyhoreného jadrového paliva alebo rádioaktívneho odpadu na inom mieste, ako bol vyprodukovaný | bez limitu |
 
-- 10. | Diaľkové plynovody s potrubím so svetlosťou alebo tlakom | od 500 mm alebo od 1 Mpa | od 304 do 500 mm alebo od 0,3 do 1 Mpa
+- 10. | Zariadenia na spracovanie, úpravu a ukladanie stredne a nízkoaktívnych odpadov z prevádzky a vyraďovanie jadrových elektrární a využívanie rádionuklidov | bez limitu |
+
+- 11. | Geotermálne elektrárne a výhrevne | od 50 MW | od 5 MW
+
+- 12. | Ostatné priemyselné zariadenia na výrobu elektriny, pary a teplej vody, ak nie sú zaradené v položkách 1 - 4 a 11 | od 50 MW | od 5 MW
+
+- 13. | Priemyselné zariadenia na vedenie pary, plynu a teplej vody | | bez limitu
+
+- 14. | Diaľkové prenosové vedenia elektrickej energie | 220 kV a viac alebo s dĺžkou nad 15 km | od 110 kV
+
+- 15. | Diaľkové plynovody s potrubím so svetlosťou alebo s tlakom | od 500 mm alebo od 1 MPa alebo nad 20 km | od 300 do 500 mm alebo od 0,3 do 1 MPa, alebo do 20 km
+
+- 16. | Podzemné uskladnenie horľavých plynov | | bez limitu
+
+- 17. | Povrchové skladovanie fosílnych palív | | nad 10 000 m<sup>3</sup>
+
+- 18. | Zariadenia na spracovanie a uskladňovanie rádioaktívnych odpadov, ak nie sú zaradené v iných položkách | | bez limitu
 
   - 3. Hutnícky priemysel
 
 - Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Úprava alebo aglomerovanie rúd | nad 100 000 t/rok | od 20 000 do 100 000 t/rok
+- 1. | Úprava, praženie alebo aglomerovanie rúd (vrátane sulfidových rúd) | nad 100 000 t/rok | do 100 000 t/rok
 
-- 2. | Praženie alebo aglomerovanie rúd s obsahom toxických zložiek, najmä Hg, As, Cd | | bez limitu
+- 2. | Zariadenia na spracovanie železných kovov | |
 
-- 3. | Primárna výroba a spracovanie surového železa, liatiny a ocele vrátane valcovní a ostatných spracovateľských zariadení (zlievárne, kováčske dielne atď.) | nad 20 000 t/rok | od 3 000 do 20 000 t/rok
+- | - zariadenia na valcovanie za tepla | | nad 20 t/hod, surovej ocele
 
-- 4. | Výroba ferozliatin s obsahom toxických zlúčenín | | bez limitu
+- | - kováčske dielne s kladivami, ktorých energia presahuje | | 50 kJ/kladivo alebo 20 MW tepelného výkonu
 
-- 5. | Výroba a spracovanie neželezných kovov (najmä As, Hg a Pb) vsádzky | nad 3 000 t/rok |
+- | - kovanie výbuchom | | bez limitu
 
-- 6. | Tavenie liatiny alebo surovej ocele a neželezných kovov | nad 100 000 t/rok | od 20 000 do 100 000 t/rok
+- | - aplikácia ochranného taveného kovového náteru (pokovovanie) | | nad 1 t surovej ocele/hod.
 
-- 7. | Tavenie zliatin s obsahom toxických zlúčenín | | bez limitu
+- 3. | Zlievanie železných kovov | | nad 20 t/ deň
 
-  - 4. Chemický, farmaceutický a petrochemícký priemysel
+- 4. | Primárna výroba surového železa, liatiny alebo ocele (primárna alebo sekundárna tavba) vrátane kontinuálneho odlievania | bez limitu |
+
+- 5. | Výroba ferozliatin | bez limitu |
+
+- 6. | Zariadenia na výrobu surových neželezných kovov z rudy, koncentrátov alebo druhotných surovín metalurgickými, chemickými alebo elektrolytickými procesmi | bez limitu |
+
+- 7. | Zariadenia na tavenie vrátane zlievania neželezných kovov okrem vzácnych kovov vrátane recyklovaných výrobkov (rafinovanie, liatie a pod.) | nad 100 000 t/rok | od 1 000 do 100 000 t/rok
+
+- 8. | Tavenie zliatin s obsahom toxických zlúčenín | | nad 4 t/ deň
+
+- 9. | Zariadenia na povrchovú úpravu kovov a plastických materiálov, využívajúce elektrolytické alebo chemické procesy | nad 100 000 m<sup>2</sup>/rok upravenej plochy | od 30 000 do 100 000 m<sup>2</sup>/rok upravenej plochy
+
+  - 4. Chemický, farmateutický a petrochemický priemysel
 
 - Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
-- | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
+- | | Časť A | Časť B
 
-- 1. | Tepelné a chemické spracovanie uhlia (plynárne, koksárne) a bitúmenových bridlíc | nad 100 000 t/rok | od 10 000 do 100 000 t/rok
+- | | (povinné hodnotenie) | (zisťovacie konanie)
 
-- 2. | Palivárske a petrochemické spracovanie ropy (s výnimkou mazadiel vyrábaných z polotovarov) vrátane závodov na regeneráciu opotrebovaných minerálnych olejov | nad 200 000 t/rok | od 10 000 do 200 000 t/rok
+- 1. | Tepelné a chemické spracovanie uhlia, lignitu (plynárne, koksárne) a bituminóznych hornín | nad 500 t/deň | do 500 t/deň
 
-- 3. | Komplexné chemické zariadenia na výrobu chemických zlúčenín organického a anorganického pôvodu vrátane chlórovaných uhľovodíkov s výraznou tvorbou, toxických odpadov | bez limitu |
+- 2. | Rafinérie ropy (okrem podnikov, ktoré vyrábajú len mazadlá z ropy) vrátane závodov na regeneráciu opotrebovaných minerálnych olejov | 500 t/deň a viac | od 50 do 500 t/deň
 
-- 4. | Výroba tuhých priemyselných hnojív | nad 10 000 t/rok |
+- 3. | Komplexné chemické zariadenia, t. j. zariadenia na výrobu chemikálií v priemyselnom rozsahu, využívajúce procesy chemickej konverzie, v ktorých za sebou nasleduje niekoľko funkčne navzájom prepojených prevádzok, ktoré sú určené na výrobu: | bez limitu |
 
-- 5. | Výroba viskózových vláken, celofánu a celofánových derivátov | bez limitu |
+- | - základných organických chemikálií, ako sú: | |
 
-- 6. | Výroba farmaceutických výrobkov a čistých chemikálií | | bez limitu
+- | a) jednoduché uhľovodíky (lineárne alebo cyklické, nasýtené alebo nenasýtené, alifatické alebo aromatické), | |
 
-- 7. | Výroba jedov a pesticídov | | bez limitu
+- | b) uhľovodíky obsahujúce kyslík, ako sú alkoholy, aldehydy, ketóny, karboxylové kyseliny, estery, acetáty, étery, peroxidy, epoxidové živice, | |
 
-- 8. | Skladovanie jedov a pesticídov | nad 100 t | od 10 do 100 t
+- | c) uhľovodíky obsahujúce síru, | |
 
-- 9. | Výroba antioxidantov, urýchľovačov a iných gumárenských chemikálií | nad 200 t/rok |
+- | d) uhľovodíky obsahujúce dusík, ako sú amíny, amidy, dusité, dusné alebo dusičné zlúčeniny, nitrily, kyanáty, izokyanáty, | |
 
-- 10. | Výroba farieb a lakov | nad 200 t/rok | od 50 do 200 t/rok
+- | e) uhľovodíky obsahujúce fosfor, | |
 
-- 11. | Diaľkové ropovody s potrubím so svetlosťou alebo tlakom | od 500 mm alebo od 1 MPa | od 300 do 500 mm alebo od 0,3 do 1 MPa
+- | f) halogénové uhľovodíky, | |
+
+- | g) organokovové zlúčeniny, | |
+
+- | h) základné plasty (polymérové syntetické vlákna a vlákna na celulózovom základe), | |
+
+- | i) syntetické gumy, | |
+
+- | j) farby a pigmenty, | |
+
+- | k) povrchovo aktívne látky; | |
+
+- | - základných anorganických chemikálií, ako sú: | |
+
+- | a) plyny (napr. amoniak, chlór alebo chlorovodík, fluór alebo fluorovodík, oxidy uhlíka, zlúčeniny síry, oxidy dusíka, vodík, oxid siričitý, karbonylchlorid), | |
+
+- | b) kyseliny (napr. chromitá, fluorovodíková, fosforečná, dusičná, chlorovodíková, sírová, óleum a ostatné kyseliny síry), | |
+
+- | c) zásady (napr. hydroxid amónny, hydroxid draselný, hydroxid sodný), | |
+
+- | d) soli (napr. chlorid amónny, chlorečnan draselný, uhličitan draselný, uhličitan sodný, peroxoboritan, dusičnan strieborný), | |
+
+- | e) nekovy, oxidy kovov alebo iné anorganické zlúčeniny, ako sú napr. karbid vápnika, kremík, karbid kremíka; | |
+
+- | - fosforečných, dusíkatých alebo draselných hnojív (jednoduchých alebo zložených); | |
+
+- | - základných výrobkov na ošetrovanie rastlín a biocídov; | |
+
+- | - základných farmaceutických výrobkov, využívajúcu chemické alebo biologické procesy; | |
+
+- | - výbušnín; | |
+
+- | - bielkovinových potravinárskych prísad, droždia, fermentov a ďalších bielkovinových látok (proteínov). | |
+
+- 4. | Výroba uhlíka (grafitu) alebo elektrografitu spaľovaním alebo grafitizáciou | bez limitu |
+
+- 5. | Používanie alebo regenerácia chlórovaných uhľovodíkov | nad 100 t/rok | od 10 t/rok
+
+- | | | do 100 t/rok
+
+- 6. | Zariadenia na zhodnotenie alebo deštrukciu výbušných látok | | bez limitu
+
+- 7. | Výroba viskózových vláken celofánu a celofánových derivátov | bez limitu |
+
+- 8. | Výroba jedov | | bez limitu
+
+- 9. | Skladovanie jedov a pesticídov | nad 100 t | od 10 do 100 t
+
+- 10. | Výroba antioxidantov, urýchľovačov a iných gumárenských chemikálií | nad 200 t/rok |
+
+- 11. | Výroba pesticídov, farmaceutických výrobkov, peroxidov a elastomérov | | bez limitu
+
+- 12. | Výroba farieb a lakov | nad 200 t/rok | do 200 t/rok
+
+- 13. | Potrubia na prepravu ropy alebo chemikálií | |
+
+- | - so svetlosťou | od 500 mm | od 300 do 500 mm
+
+- | - alebo s tlakom | od 1 MPa | od 0,3 do 1 MPa
+
+- | - alebo s dĺžkou | nad 20 km | od 5 do 20 km
+
+- 14. | Výroba chemikálií a polotovarov neuvedených v položkách 3-8, 10-12 | | bez limitu
 
   - 5. Drevospracujúci, celulózový a papierenský priemysel
 
-  - Priemysel stavebných látok
-
 - Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Impregnácia dreva s použitím toxických chemikálií | nad 1 000 t/rok použitých chemikálií | od 100 do 1 000 t/rok použitých chemikálií
+- 1. | Impregnácia dreva použitím toxických chemikálií | nad 1 000 t/rok použitých chemikálií | od 100 do 1000 t/rok použitých chemikálií
 
-- 2. | Výroba drevovláknitých a drevotrieskových dosiek a preglejky | nad 100 000 m<sup>2</sup>/rok |
+- 2. | Výroba drevovláknitých a drevotrieskových dosiek | nad 50 000 m<sup>3</sup>/rok |
 
-- 3. | Výroba nábytku | | nad 10 000 m<sup>3</sup>/rok vstupnej suroviny
+- 3. | Výroba nábytku | nad 10 000 m<sup>3</sup>/rok vstupných materiálov |
 
-- 4. | Výroba celulózy a papiera | nad 100 000 t/rok |
+- 4. | Priemyselné zariadenia na výrobu | |
 
-- 5. | Cementárne, vápenky a výroba magnezitu | nad 100 000 t/rok | do 100 000 t/rok
+- | - buničiny z dreva alebo z podobných vláknitých materiálov | bez limitu |
 
-- 6. | Výroba stavebných hmôt vrátane panelární | nad 100 000 t/rok |
+- | - papiera a lepenky | nad 200 t/deň | do 200 t/deň
 
-- 7. | Výroba azbestocementových výrobkov | nad 20 000 t/rok výrobkov | od 5 000 do 20 000 t/ rok výrobkov
+- | - a spracovanie celulózy | | bez limitu
 
-- 8. | Obaľovne živičných zmesí | nad 10 000 t/rok |
+  - 6. Priemysel stavebných látok
 
-  - 6. Kovopriemysel.
+- Príslušný orgán: Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky
 
-- Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
-
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Povrchová úprava kovov | nad 100 100 m<sup>2</sup>/rok upravenej plochy | od 30 000 do 100 000 m<sup>2</sup>/rok upravenej plochy
+- 1. | Cementárne, vápenky (s rotačnými alebo inými pecami) | nad 100 000 t/rok | do 100 000 t/rok
 
-  - 7. Sklársky a keramický priemysel
+- 2. | Výroba stavebných hmôt vrátane panelární a stavebných výrobkov | nad 100 000 t/rok | do 100 000 t/rok
 
-  - Ostatné priemyselné odvetvia
+- 3. | Výroba azbestocementových výrobkov s ročnou produkciou finálneho výrobku | nad 20 000 t/rok | do 20 000 t/rok
 
-- Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
+- 4. | Obaľovne živičných zmesí | nad 10 000 t/rok |
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
-
-- | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
-
-- 1. | Výroba skla alebo sklenených vláken s kapacitou | nad 50 000 t/rok | od 10 000
-
-- | | | do 50 000 t/rok
-
-- 2. | Výroba tehál a ostatných výrobkov hrubej a jemnej | nad 200 000 t/rok |
-
-- | keramiky | |
-
-- 3. | Textilné úpravne a farbiarne použitých chemikálií | nad 10 000 t/rok |
-
-- 4. | Garbiarne | nad 20 000 t/rok |
-
-- | | vstupnej suroviny |
-
-- 5. | Polygrafické prevádzky | nad 10 t/ rok |
-
-- | | použitých chemikálií |
-
-- 6. | Používanie alebo regenerácia chlórovaných | nad 100 t/rok |
-
-- | uhľovodíkov | |
-
-- 7. | Sériová veľkovýroba obuvi | nad 250 000 |
-
-- | | párov/ rok |
-
-- 8. | Výroba výrobkov z azbestu s ročnou produkciou | nad 50 t/ rok | od 10 do 50 t/rok
-
-- | finálnych výrobkov na | |
-
-- | - trecie materiály | |
-
-- | - iné využitie azbestu | nad 200 t/rok | od 50 do 200 t/rok
-
-  - 8. Infraštruktúra
+  - 7. Strojársky a elektrotechnický priemysel
 
 - Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Odkaliská, úložiská popolčeka a odvaly hlušiny s kapacitou | nad 250 000 m<sup>3</sup> | od 50 000 do 250 000 m
+- 1. | Výroba a montáž motorových vozidiel a výroba motorov motorových vozidiel | | bez limitu
 
-- 2. | Skládky na zneškodňovanie zvláštnych a nebezpečných odpadov | bez limitu |
+- 2. | Lodenice | | bez limitu
 
-- 3. | Skládky na zneškodňovanie ostatných odpadov s kapacitou | nad 250 000 m<sup>3</sup> | od 50 000 do250 000 m<sup>3</sup>
+- 3. | Zariadenia na výrobu a opravy lietadiel | | bez limitu
 
-- 4. | Spaľovne zvláštneho a nebezpečného odpadu | bez limitu |
+- 4. | Výroba železničných zariadení | | bez limitu
 
-- 5. | Stavby, objekty a zariadenia na nakladanie s nebezpečným odpadom | bez limitu |
+- 5. | Testovacie zariadenia na motory, turbíny a reaktory | | bez limitu
 
-- 6. | Nadzemné sklady s kapacitou | |
+- 6. | Trvalé skúšobné trate pre motorové vozidlá | | bez limitu
 
-- | - zemného plynu a iných plynných médií | nad 100 000 m<sup>3</sup> | od 10 000 do 100 000 m<sup>3</sup>
+- 7. | Strojárska alebo elektrotechnická výroba s výrobnou plochou | | nad 3000 m<sup>2</sup>
 
-- | - ropy a ropných produktov | nad 10 000 m<sup>3</sup> | od 1 000 do 10 000 m<sup>3</sup>
+  - 8. Ostatné priemyselné odvetvia
 
-- | - chemikálií | nad 1 000 m<sup>3</sup> | od 500 do 1 000 m<sup>3</sup>
+- Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky<sup>1</sup>)
 
-- 7. | Podzemné sklady ropných produktov a chemikálií | nad 1 000 m<sup>3</sup> |
+- Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky<sup>2</sup>)
 
-  - 9. Vodné hospodárstvo
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
+
+- | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
+
+- 1. | Zariadenia na výrobu skla alebo sklenených vláken | nad 50 000 t/rok | do 50 000 t/rok
+
+- 2. | Zariadenia na tavenie minerálnych látok vrátane výroby minerálnych vláken | | bez limitu
+
+- 3. | Výroba keramických výrobkov pálením, najmä strešných škridiel, tehál, tvrdených tehál, ostatných kameninových výrobkov, hrubej a jemnej keramiky a porcelánu | nad 200 000 t/rok | do 200 000 t/rok
+
+- 4. | Zariadenia na predúpravu (pranie, bielenie, macerácia) alebo farbenie vláken alebo textílií | nad 10 000 t/rok použitých chemikálií | do 10 000 t/rok použitých chemikálií
+
+- 5. | Garbiarne | nad 20 000 t/rok vstupnej suroviny | do 20 000 t/rok vstupnej suroviny
+
+- 6. | Polygrafické prevádzky | nad 10 t/rok použitých chemikálií | od 1 t/rok do 10 t/rok použitých chemikálií
+
+- 7. | Priemyselné zariadenia na povrchovú úpravu látok, predmetov alebo výrobkov s použitím organických rozpúšťadiel, hlavne na apretáciu, tlač, poťahovanie, odmasťovanie, vodovzdornú úpravu, lepenie, lakovanie (natieranie), čistenie alebo na impregnovanie s kapacitou spotreby používanej látky | | nad 200 t/rok
+
+- 8. | Sériová veľkovýroba obuvi | nad 250 000 párov/rok |
+
+- 9. | Výroba výrobkov z azbestu vrátane zariadení s ročnou produkciou finálnych výrobkov na | |
+
+- | - trecie materiály | nad 50 t/rok | do 50 t/rok
+
+- | - iné využitie azbestu | nad 200 t/rok | do 200 t/rok
+
+  - 9. Infraštruktúra
+
+- Príslušný orgán: Ministerstvo životného prostredia Slovenskej republiky<sup>1</sup>)
+
+- Ministerstvo hospodárstva Slovenskej republiky<sup>2</sup>)
+
+- Ministerstvo vnútra Slovenskej republiky<sup>3</sup>)
+
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
+
+- | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
+
+- 1. | Odkaliská, úložiská popolčeka a odvaly hlušiny s kapacitou | nad 250 000 m<sup>3</sup> | do 250 000 m<sup>3</sup>
+
+- 2. | Skládky na nebezpečný odpad | bez limitu |
+
+- 3. | Skládky na zneškodňovanie nie nebezpečného odpadu | nad 250 000 m<sup>3</sup> | od 50 000 m<sup>3</sup>
+
+- | | | do 250 000 m<sup>3</sup>
+
+- 4. | Skládky na inertný odpad | | nad 250 000 m<sup>3</sup>
+
+- 5. | Zariadenia na zneškodňovanie ostatných odpadov spaľovaním alebo fyzikálno-chemickou úpravou | bez limitu |
+
+- 6. | Zariadenia na zhodnocovanie alebo zneškodňovanie nebezpečných odpadov spaľovaním alebo fyzikálno-chemickou úpravou | bez limitu |
+
+- 7. | Stavby, objekty a zariadenia na nakladanie s nebezpečným odpadom, ak nie sú uvedené v položkách 2 - 3, 6 | | bez limitu
+
+- 8. | Skladovanie železného šrotu vrátane autovrakov | | bez limitu
+
+- 9. | Zariadenia na zhodnocovanie stavebného odpadu | nad 100 000 t/rok | od 50 000 t/rok
+
+- | | | do 100 000 t/rok
+
+- 10. | Zariadenia na zneškodňovanie odpadov (nezahrnuté v položkách 1-8) | | bez limitu
+
+- 11. | Nadzemné sklady s kapacitou | |
+
+- | - zemného plynu a iných plynných médií | nad 100 000 m<sup>3</sup> | do 100 000 m<sup>3</sup>
+
+- | - ropy a petrochemických výrobkov | nad 10 000 t | do 10 000 t
+
+- | - chemikálií a chemických výrobkov | nad 1 000 t | do 1 000 t
+
+- 12. | Podzemné sklady s kapacitou | |
+
+- | - zemného plynu a iných plynných médií | nad 100 000 m<sup>3</sup> | do 100 000 m<sup>3</sup>
+
+- | - ropy a petrochemických výrobkov | nad 10 000 t | do 10 000 t
+
+- | - chemikálií a chemických výrobkov | nad 1 000 t | do 1 000 t
+
+- 13. | Projekty rozvoja priemyselných zón | | bez limitu
+
+- 14. | Urbanistické rozvojové projekty vrátane výstavby | |
+
+- | - bytových jednotiek | nad 500 | od 100 do 500
+
+- | - veľkých obchodných jednotiek | | nad 1 000 m<sup>2</sup> predajnej plochy
+
+- | - obchodných reťazcov | | nad 5 000 m<sup>2</sup> celkovej predajnej plochy
+
+- | - parkovísk | nad 500 stojísk | od 100 do 500 stojísk
+
+- | - garáží | nad 300 stojísk | od 20 do 300 stojísk
+
+- | - veľkokapacitných skladov | | nad 1 000 m<sup>2</sup> skladovacej plochy
+
+- 15. | Krematóriá a cintoríny | | bez limitu
+
+  - 10. Vodné hospodárstvo
+
+- Príslušný orgán: Ministerstvo pôdohospodárstva Slovenskej republiky<sup>1</sup>)
+
+- Ministerstvo vnútra Slovenskej republiky<sup>2</sup>)
+
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
+
+- | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
+
+- 1. | Priehrady, nádrže a iné zariadenia určené na zadržiavanie alebo na akumuláciu vody | |
+
+- | - s výškou hrádze nad základovou líniou alebo | nad 8 m | do 8 m
+
+- | - s celkovým novým objemom alebo dodatočne zadržaným objemom alebo | nad 1 milión m<sup>3</sup> | do 1 milióna m<sup>3</sup>
+
+- | - s rozlohou | nad 100 ha | do 100 ha
+
+- 2. | Zariadenia na prevod zdrojov vody medzi riečnymi tokmi, ak je taký prevod zameraný na prevenciu pred možným nedostatkom vody | nad 10 miliónov m<sup>3</sup>/rok | do 10 miliónov m<sup>3</sup>/rok
+
+- 3. | Zariadenia na prevod zdrojov vody medzi riečnymi tokmi, ak dlhoročný priemerný prietok toku, z ktorého sa má voda čerpať, presahuje | nad 2 mld. m<sup>3</sup>, a keď množstvo prevádzanej vody presahuje 5 % toku | do 2 mld. m<sup>3</sup>
+
+- 4. | Odber podzemných vôd alebo umelé dopĺňanie podzemných vôd | 10 miliónov m<sup>3</sup>/rok a viac | do 10 miliónov m<sup>3</sup>/rok
+
+- 5. | Diaľkové vodovody | | nad 20 km
+
+- 6. | Čistiarne odpadových vôd a kanalizačné siete | pre viac ako 100 000 ekvivalentných obyvateľov | do 100 000 ekvivalentných obyvateľov
+
+- 7. | Výstavba kanálov a protipovodňových diel | | bez limitu
+
+  - 11. Poľnohospodárska výroba a lesná výroba
 
 - Príslušný orgán: Ministerstvo pôdohospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Priehrady a vodné nádrže s výškou hrádze nad základovou líniou alebo s celkovým objemom alebo s rozlohou | nad 10 m alebo 1 mil. m<sup>3</sup> alebo nad 100 ha 1 mil. m<sup>3</sup> | od 3 do 10 m alebo 1. mil. m<sup>3</sup> alebo od 10 do 100 ha
+- 1. | Objekty na intenzívnu živočíšnu výrobu vrátane depónií vedľajších produktov s kapacitou | |
 
-- 2. | Stavby a zariadenia na odber podzemnej vody na pitné účely, úpravne vôd, vodojemy, čerpacie stanice, zariadenia na zachytávanie prameňov | nad 5 000 m<sup>3</sup>/ deň |
+- | - hospodárskych zvierat | | od 100 stojísk
 
-- 3. | Čistiarne odpadových vôd a kanalizačné siete | pre viac ako 100 000 ekvivalentných obyvateľov |
+- | - ošípaných | nad 2 000 miest (nad 30 kg) alebo 750 miest prasníc | od 200 miest do 2 000 miest (nad 30 kg) alebo 750 miest prasníc
 
-  - 10. Poľnohospodárska a lesná výroba
+- | - hydiny | nad 85 000 miest brojlerov alebo 40 000 miest nosníc | od 55 000 miest do 85 000 miest brojlerov alebo od 25 000 miest nosníc do 40 000 miest nosníc
+
+- 2. | Intenzívny chov rýb | | bez limitu
+
+- 3. | Melioračné zásahy, najmä | |
+
+- | - odvodnenie, závlahy, protierózna ochrana pôd, pozemkové úpravy | nad 500 ha | od 10 ha do 500 ha
+
+- | - lesnícko-technické meliorácie | | len v chránených územiach
+
+- 4. | Objekty na skladovanie pesticídov, kvapalných a suspendovaných priemyselných hnojív | nad 10 t |
+
+- 5. | Kafilérie a veterinárne asanačné ústavy | bez limitu |
+
+- 6. | Ťažba rašeliny | nad 200 000 t/rok alebo nad 20 ha ťažobného miesta | do 200 000 t/rok alebo od 3 do 20 ha ťažobného miesta
+
+- 7. | Odlesňovanie a prvé zalesňovanie na účel zmeny na iný typ využitia krajiny | nad 10 ha | od 5 ha do 10 ha
+
+- 8. | Návrhy na využitie neobrábaných alebo poloprírodných oblastí na intenzívne poľnohospodárske účely | | bez limitu
+
+- 9. | Návrhy na reštrukturalizáciu vidieckych usadlostí | | bez limitu
+
+  - 12. Potravinársky priemysel
 
 - Príslušný orgán: Ministerstvo pôdohospodárstva Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Objekty pre živočíšnu výrobu vrátane depónií vedľajších produktov | |
+- 1. | Pivovary, sladovne, vinárske závody a výrobne nealkoholických nápojov | | bez limitu
 
-- | - hovädzieho dobytka | | nad 100 ks
+- 2. | Bitúnky a mäsokombináty, hydinárske závody | | bez limitu
 
-- | - ošípaných | | nad 200 ks
+- 3. | Priemyselné zariadenia na výrobu škrobu (škrobárne) | nad 50 000 t/rok vstupnej suroviny | do 50 000 t/rok vstupnej suroviny
 
-- | - hydiny | | nad 25 000 ks
+- 4. | Cukrovary (výroba a rafinovanie cukru) | nad 150 000 t/rok spracovanej suroviny | do 150 000 t/rok spracovanej suroviny
 
-- 2. | Melioračné zásahy (odvodnenie, závlahy, protierózna ochrana pôd, pozemkové úpravy, lesnícke -technické meliorácie) v chránených územiach a ochranných pásmach CHVO | | NP, ŠPR, VHKO, PHO, CHVO, CHÚ*
+- 5. | Priemyselná výroba cukroviniek a sirupov | | bez limitu
 
-- 3. | Objekty na skladovanie pesticídov, kvapalných a suspendovaných priemyselných hnojív | nad 100 t |
+- 6. | Liehovary | nad 10 000 t/rok suroviny |
 
-- 4. | Kafilérie a veterinárne asanačné ústavy | bez limitu |
+- 7. | Tukový priemysel (výroba rastlinných olejov a tukov) a výroba saponátových prostriedkov | nad 20 000 t/rok výrobkov | do 20 000 t/rok výrobkov
 
-- 5. | Ťažba rašeliny v množstve alebo s celkovým záberom pozemkov, nad 200 000 t/rok alebo nad 10 ha | d 100 000 do 200 000 t/rok alebo od 5 do 10 ha |
+- 8. | Mliekárne a priemyselné výrobne mliečnych výrobkov | | bez limitu
 
-- 6. | Veľkoplošné odlesňovanie | nad 10 ha | od 3 do 10 ha
+- 9. | Priemyselné zariadenia na spracovanie rýb a výrobu rybieho oleja | | bez limitu
 
-- *NP – národný park
+- 10. | Konzervárne a baliarne živočíšnych a rastlinných výrobkov | | nad 100 t/rok výrobkov
 
-- ŠPR – štátna prírodná rezervácia
+- 11. | Ostatné špeciálne technológie potravinárskeho priemyslu | | nad 100 t/rok výrobkov
 
-- CHKO – chránená krajinná oblasť,
+- 12. | Ostatné biotechnológie | | bez limitu
 
-- PHO – pásmó hygienickej ochrany
+  - 13. Dopravné a spojové stavby a zariadenia
 
-- CHVO – chránená vodohospodárska oblasť
+- Príslušný orgán: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky<sup>1</sup>)
 
-- CHÚ – ostatné chránené územia
+- Ministerstvo pôdohospodárstva Slovenskej republiky<sup>2</sup>)
 
-  - 11. Potravinársky priemysel
-
-- Príslušný orgán: Ministerstvo pôdohospodárstva Slovenskej republiky
-
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Pivovary, sladovne, vinárske závody a výrobne nealkoholických nápojov | | nad 50 000 hl/rok
+- 1. | Výstavba diaľnic a ciest pre motorové vozidlá vrátane objektov | bez limitu |
 
-- 2. | Bitúnky a mäsokombináty, hydinárske závody | | nad 5 000 t/rok produktov
+- 2. | Výstavba, prestavba alebo rozšírenie jestvujúcej cesty I. a II. triedy | 10 km a viac súvislej dľžky | do 10 km súvislej dľžky
 
-- 3. | Škrobárne | | nad 50 000 t/rok vstupnej suroviny
+- 3. | Výstavba železničných dráh | nad 20 km | do 20 km
 
-- 4. | Cukrovary (výroba alebo rafinovanie cukru) | | nad 150 000 t/rok spracovanej suroviny
-
-- 5. | Liehovary | nad 10 000 t/rok suroviny |
-
-- 6. | Tukový priemysel (výroba rastlinných olejov a tukov) a výroba saponátových prostriedkov | nad 20 000 t/rok výrobkov | od 5 000 do 20 000 t/ rok výrobkov
-
-- 7. | Mliekárne a výrobne mliečnych výrobkov | | nad 10 000 t/rok spracovaného mlieka
-
-- 8. | Konzervárenské závody | | nad 10 000 t/rok výrobkov
-
-- 9. | Ostatné špeciálne biotechnológie | | bez limitu
-
-  - 12. Dopravné a spojové stavby a zariadenia
-
-- Príslušný orgán: Ministerstvo dopravy, spojov a verejných prác Slovenskej republiky
-
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
-
-- | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
-
-- 1. | Diaľnice a cesty vrátane objektov | diaľnice | cesty I. a II. triedy nad 5 km
-
-- 2. | Železničné trate | nad 20 km | nad 5 km do 20 km
-
-- 3. | Železničné stanice | |
+- 4. | Železničné stanice | |
 
 - | - osobné | nad 3 koľaje | do 3 koľají
 
 - | - zmiešané (nákladné + osobné) | nad 5 koľají | do 5 koľají
 
-- | - zriadovacie | nad 10 koľají |
+- | - zriaďovacie | nad 10 koľají |
 
-- | - nákladné, prekladiská kombinovanej dopravy | nad 3 koľaje | do 3 koľají
+- | - nákladné, prekladiská kombinovanej dopravy | nad 3 koľaje |
 
-- | - kontajnerové prekladiská | nad 3 koľaje |
+- | - kontajnerové prekladiská | nad 3 koľaje | do 3 koľají
 
 - | - pohraničné prechodové | nad 8 koľají |
 
-- 4. | Rušňové a vozňové depá | nad 6 stání | do 6 stání
+- 5. | Rušňové a vozňové depá | nad 6 stojísk | do 6 stojísk
 
-- 5. | Dezinfekčné stanice (koľajiská) | nad 100 vozňov/ deň | do 100 vozňov/ deň
+- 6. | Dezinfekčné stanice (koľajiská) | nad 100 vozňov/deň | do 100 vozňov/deň
 
-- 6. | Odstavné stanice (koľajiská) | nad 30 súprav/ deň | do 30 súprav/ deň
+- 7. | Odstavné stanice (koľajiská) | nad 30 súprav/deň | do 30 súprav/deň
 
-- 7. | Vodné cesty | pre plavbu lodí s výtlakom do 1 350 t | pre plavbu lodí s výtlakom nad 1 350 t
+- 8. | Električkové dráhy, lanové dráhy a trolejbusové dráhy | | bez limitu
 
-- 8. | Prístavy | pre plavbu lodí s výtlakom do 1 350 t | pre plavbu lodí s výtlakom nad 1 350 t
+- 9. | Obchodné prístavy, prístavné móla na nakladanie a vykladanie, ktoré sú pripojené k zemi a vonkajšie prístavy (okrem železničných mól) | pre plavbu lodí s výtlakom nad 1 350 t | pre plavbu lodí s výtlakom do 1 350 t
 
-- 9. | Letiská | vzletové a pristávacie dráhy nad 2 100 m | vzletové a pristávacie dráhy od 1 200 m do 2 100 m
+- 10. | Vnútrozemské vodné cesty a prístavy vrátane prístavných zariadení pre vnútrozemskú vodnú dopravu | pre plavbu lodí s výtlakom nad 1 350 t | pre plavbu lodí s výtlakom do 1 350 t
 
-- 10. | Zariadenia dráh osobitného určenia | | ozubnicové dráhy a lanové dráhy bez limitu
+- 11. | Výstavba letísk | s hlavnou vzletovou a pristávacou dráhou s dľžkou štartovacej dráhy 2 100 m a viac | vzletové a pristávacie dráhy do 2 100 m
 
-- 11. | Objekty na opravy a údržbu automobilovej techniky | s kapacitou nad 50 opravárenských miest | s kapacitou od 30 do 50 opravárenských miest
+- 12. | Špeciálne dráhy (ozubnicové dráhy a metro) | | bez limitu
 
-- 12. | Zariadenia pre rozhlasové a televízne vysielače | | od 500 kW výstupného výkonu
+- 13. | Objekty na opravy a údržbu automobilovej techniky | s kapacitou nad 50 opravárenských miest | s kapacitou od 30 do 50 opravárenských miest
 
-- 13. | Rádiolokačné zariadenia primárne | s výkonom nad 750 W a frekvenciou nad 1 GHz |
+- 14. | Zariadenia pre rozhlasové a televízne vysielače | | od 500 kW výstupného výkonu
 
-  - 13. Zmeny vo využívaní krajiny
+- 15. | Rádiolokačné zariadenia primárne | s výkonom nad 750 W a frekvenciou nad 1 GHz |
+
+  - 14. Zmeny vo využívaní krajiny
 
 - Príslušný orgán: Ministerstvo životného prostredia Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Vrty na zásobovanie pitnou vodou | | s očakávanou výdatnosťou nad 100 l/ s
+- 1. | Vrty na zásobovanie pitnou vodou | | s očakávanou výdatnosťou nad 100 l/s
 
-- 2. | Zásahy do územia, ktoré môžu spôsobiť podstatné zmeny v biologickej rozmanitosti, štruktúra funkcii ekosystémov | | bez limitu
+- 2. | Zásahy do územia, ktoré môžu spôsobiť podstatné zmeny v biologickej rozmanitosti, štruktúre a funkcii ekosystémov | | bez limitu
 
 - 3. | Odber geotermálnych vôd | | bez limitu
 
-  - 14. Účelové objekty a cestovný ruch
+  - 15. Účelové objekty na šport, rekreáciu a cestovný ruch
 
-- Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky
+- Príslušný orgán: Ministerstvo hospodárstva Slovenskej republiky<sup>1</sup>)
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Ministerstvo školstva Slovenskej republiky<sup>2</sup>)
+
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Výstavba rekreačných a ubytovacích turistických zariadení vrátane kempingov a iných ubytovacích objektov | | v intraviláne nad 500 ubytovacích miest v extraviláne nad 200 ubytovacích miest
+- 1. | Výstavba športových, rekreačných a turistických ubytovacích zariadení vrátane kempingov a iných objektov, hotelové komplexy a súvisiace zariadenia | v chránených územiach bez limitu | v intraviláne nad 500 ubytovacích miest, v extraviláne bez limitu
 
-- 2. | Prístavy na vodné športy (upravené móla, skladové priestory, opravárenské dielne a podobne) | od 100 miest pre plavidlá |
+- 2. | Prístavy na vodné športy (vrátane mól, skladových priestorov, opravárenských dielní a pod.) | od 100 miest pre plavidlá |
 
-- 3. | Skokanské mostíky a trate na zjazdové lyžovanie | umiestnené v chránených územiach |
+- 3. | Rekreačné prístavy pre jachty a malé člny | | bez limitu
 
-  - 15. Vojenské objekty
+- 4. | Zjazdové trate, bežecké trate, lyžiarske vleky, skokanské mostíky, lanovky a ostatné zariadenia | umiestnené v chránených územiach | nezahrnuté v časti A
+
+- 5. | Trvalé pretekárske trate a skúšobné trate pre motorové vozidlá | | bez limitu
+
+- 6. | Trvalé kempy a miesta pre karavany | | bez limitu
+
+- 7. | Tematické parky | | bez limitu
+
+  - 16. Vojenské stavby
 
 - Príslušný orgán: Ministerstvo obrany Slovenskej republiky
 
-- Pol. č. | Činnosť, objekty a zariadenia | Prahové hodnoty |
+- Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
 - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-- 1. | Vojenské priestory a zariadenia na výcvik, ak si vyžadujú plochu nad | 100 ha |
-
-- 2. | Činnosti, objekty a zariadenia uvedené v ostatných kapitolách tejto prílohy, ak sa nachádzajú vo vojenských priestoroch | |
+- 1. | Vojenské priestory a zariadenia na výcvik, ak si vyžadujú plochu | nad 100 ha |
