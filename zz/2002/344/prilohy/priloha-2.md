@@ -68,6 +68,22 @@
 
   - b) Maroko pri podpise a uložení ratifikačnej listiny vyhlásenia ani výhrady neurobilo.
 
+  - Litovská republika
+
+  - a) Dohovor pre Litovskú republiku nadobudne platnosť 1. septembra 2004.
+
+  - b) Listina o prístupe Litovskej republiky k dohovoru obsahuje tieto vyhlásenia a túto výhradu:
+
+  - „Litovská republika určuje Ministerstvo sociálnych vecí a práce Litovskej republiky ako ústredný orgán na vykonávanie úloh určených dohovorom.
+
+  - Žiadosti podľa čl. 34 ods. 1 sa majú zasielať litovským orgánom prostredníctvom ústredného orgánu.
+
+  - Osvedčenie podľa článku 40 ods. 1 vydáva obvodný súd Litovskej republiky podľa miesta obvyklého pobytu dieťaťa.
+
+  - Každá písomnosť zasielaná do Litovskej republiky musí byť preložená do litovčiny, alebo ak to nie je možné, do anglického jazyka.
+
+  - Litovská republika si vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území.
+
   - Lotyšská republika
 
   - a) Dohovor pre Lotyšsko nadobudol platnosť 1. apríla 2003.
