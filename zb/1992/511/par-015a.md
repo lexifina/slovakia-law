@@ -7,3 +7,5 @@
 (3) Odvolanie voči rozhodnutiu o predbežnom opatrení nie je prípustné.
 
 (4) Právne úkony vykonané v rozpore s uloženým predbežným opatrením sú neplatné.
+
+(5) Predbežným opatrením nemožno obmedziť alebo zamedziť výkon záložného práva podľa osobitného predpisu.<sup>6ga</sup>)
