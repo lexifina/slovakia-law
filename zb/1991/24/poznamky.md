@@ -1,8 +1,6 @@
-- 1) Zákon č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení neskorších predpisov.
-
 - 2) Zákon č. 111/1990 Zb. o štátnom podniku.
 
-- 3) Zákon č. 104/1990 Zb. o akciových spoločnostiach.
+- 3) Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
 - 4) Zákon č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb.
 
@@ -39,3 +37,5 @@
 - Zákon č. 95/1963 Zb. o štátnom notárstve a o konaní pred štátnym notárstvom v znení neskorších predpisov.
 
 - 13) Zákon SNR č. 84/1991 Zb. o daňových orgánoch.
+
+- 14) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
