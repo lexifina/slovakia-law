@@ -1,5 +1,0 @@
-# § 8a Prevod pozemkov, technickej vybavenosti územia a inžinierskych stavieb nevyhnutných na zriadenie priemyselného parku podnikateľovi v priemyselnom parku
-
-(1) Obec môže pozemky alebo technickú vybavenosť územia a inžinierske stavby nevyhnutné na zriadenie priemyselného parku previesť za odplatu podnikateľovi, ktorý podniká na území priemyselného parku. Tento prevod sa uskutoční za všeobecnú hodnotu celého pozemku, všeobecnú hodnotu technickej vybavenosti a všeobecnú hodnotu inžinierskych stavieb v celom priemyselnom parku, ktorá bude stanovená znaleckým posudkom podľa osobitných predpisov.<sup>11</sup>) Ak pôjde o predaj len časti územia priemyselného parku, odplatný prevod sa uskutoční za všeobecnú hodnotu vyčleneného pozemku, všeobecnú hodnotu vyčlenenej technickej vybavenosti a vyčlenených inžinierskych stavieb v časti priemyselného parku, ktorá bude stanovená znaleckým posudkom podľa osobitných predpisov.<sup>11)</sup>
-
-(2) Príjmy z prevodu podľa odseku 1 sú príjmom rozpočtu obce a príjmom štátneho rozpočtu v pomere, v akom sa tieto zdroje podieľali na financovaní nákladov na zriadenie priemyselného parku.
