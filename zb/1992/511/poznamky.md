@@ -44,6 +44,12 @@
 
 - 11) § 38 ods. 3 písm. c) zákona č. 21/1992 Zb. o bankách.
 
+- 11a) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou.
+
+- 11b) § 58 zákona č. 455/1991 Zb. Živnostenský zákon v znení neskorších predpisov.
+
+- 11c) § 3 vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou.
+
 - 12) Vládna vyhláška č. 150/1958 Ú. v. o vybavovaní sťažností, oznámení a podnetov pracujúcich.
 
 - 13) Napr. § 32a) zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona SNR č. 498/1991 Zb.
