@@ -10,9 +10,11 @@ UPLATŇOVANIE CIEL A VÝMENA POĽNOHOSPODÁRSKYCH KONCESIÍ MEDZI SLOVENSKOU REP
 
 2. Pri dovozných clách uplatňovaných v Slovenskej republike na výrobky, ktoré majú pôvod v Estónskej republike a sú uvedené v Prílohe B k tomuto protokolu, sa bude uplatňovať MFN sadzba.
 
-3. Dovozné clá uplatňované v Estónskej republike na výrobky, ktoré majú pôvod v Slovenskej republike, budú zrušené dňom nadobudnutia platnosti tejto dohody.
+3. Dovozné clá uplatňované v Slovenskej republike na výrobky, ktoré majú pôvod v Estónskej republike, uvedené v Prílohe C k tomuto protokolu a priložené k tomuto rozhodnutiu budú predmetom tu uvedených koncesií.
 
-4. Colné sadzby vzťahujúce sa na tento protokol zahŕňajú ad valorem aj špecifické clá a špecifické poplatky za výrobky.
+- 4. Dovozné clá uplatňované v Estónskej republike na výrobky, ktoré majú pôvod v Slovenskej republike, budú zrušené dňom nadobudnutia platnosti tejto dohody.
+
+- 5. Colné sadzby vzťahujúce sa na tento protokol zahŕňajú ad valorem aj špecifické clá a špecifické poplatky za výrobky.
 
 [Příloha 06](../assets/9b60652c0660fded34be4c00732eb15c8092cad39e8704094d6ba2e6274fc929.pdf)
 
@@ -1737,3 +1739,33 @@ HS kód
 240391
 
 240399
+
+Príloha C k Protokolu 1
+
+HS Kód | Opis | Kvóta | Colná tarifa
+
+040210, 040221, 040229 | Mlieko a smotana, koncentrované alebo obsahujúce pridaný cukor alebo iné sladidla | 200 t | 0%
+
+04061020, 040690 | Syry a tvaroh | 350 t | 0%
+
+081190 | Ostatné mrazené ovocie a orechy | 50 t | 0%
+
+160100, 16022090, 160231, 160232, 160250 | Párky, salámy a podobné výrobky z mäsa, drobov alebo z krvi; potravinové prípravky na podklade týchto výrobkov a ostatné pripravené alebo konzervované mäso, droby alebo krv | 200 t | 0%
+
+160241, 160242, 160249 | Ostatné pripravené alebo konzervované mäso, droby alebo krv zo svíň | 100 t | 0%
+
+190190 | Sladový výťažok a ostatné | 200 t | 0%
+
+190520 | Medovník | 100 t | 0%
+
+200980 | Šťava z akéhokoľvek ostatného jednotlivého ovocia alebo zeleniny | 70 t | 0%
+
+2105 | Zmrzlina | 100 t | 15 %
+
+210690 ex 21069030 to 21069059 | Ostatné potravinové prípravky inde nešpecifikované ani nezahrnuté, bez ochutených alebo farbených cukrových sirupov | 200 t | 0%
+
+220210 | Vody obsahujúce cukor alebo sladidla | 50 t | 0%
+
+220300 | Pivo zo sladu | 100 t | 0%
+
+220860 | Vodka | 100 t | 25%
