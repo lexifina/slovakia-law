@@ -1,3 +1,0 @@
-# Čl. III.
-
-Dnem 31. prosince 1945 pozbývají platnosti všechna ustanovení o věcech jím upravených, zejména vládní nařízení ze dne 29. července 1938, č. 163 Sb., i s připojeným železničním přepravním řádem, příloha A železničního přepravního řádu, připojeného k vládnímu nařízení ze dne 17. července 1928, č. 144 Sb., a vládne nariadenie zo dňa 11. novembra 1944, č. 142 Sl. z., ktorým sa čiastočne mení železničný prepravný poriadok. Týmž dnem se zrušuje použivatelnost vládního nařízení ze dne 27. března 1941, č. 145 Sb., s připojeným železničním přepravním řádem a všech předpisů je měnících a doplňujících.
