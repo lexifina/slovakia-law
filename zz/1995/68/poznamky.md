@@ -1,1 +1,0 @@
-- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 16/1995 Z. z. o úprave výšky sadzieb náhrad stravného.
