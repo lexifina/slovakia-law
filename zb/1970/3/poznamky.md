@@ -1,0 +1,1 @@
+- *) Poriadok plavebnej bezpečnosti vydáva Ministerstvo dopravy, pôšt a telekomunikácií SSR vlastným nákladom; možno ho dostať na Štátnej plavebnej správe v Bratislave.
