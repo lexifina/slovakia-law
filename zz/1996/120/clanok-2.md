@@ -1,3 +1,0 @@
-# Čl. II
-
-Súťaže vyhlásené pred dňom účinnosti tohto zákona sa dokončia podľa dosiaľ platných predpisov.
