@@ -30,7 +30,17 @@
 
 - 3) §3 vyhlášky Štátneho úradu sociálneho zabezpečenia č. 1/1957 Ú. l. (Ú.v.), ktorou sa ustanovujú podrobnosti k prechodným ustanoveniam zákona o sociálnom zabezpečení.
 
+- 3a) § 3 ods. 1 zákona č. 351/1997 Z. z. Branný zákon.
+
+- 3b) § 26 až 28 zákona č. 114/1998 Z. z. o sociálnom zabezpečení vojakov.
+
+- 3c) § 29 až 32 zákona č. 114/1998 Z. z.
+
+- 3d) § 47 ods. 1 zákona č. 114/1998 Z. z.
+
 - 4) § 4 zákona č. 98/1987 Zb.
+
+- 4a) § 29 zákona č. 114/1998 Z. z.
 
 - 5) §101 zákona č. 121/1975 Zb. o sociálnom zabezpečení v znení zákona č. 150/1979 Zb.
 
@@ -41,6 +51,10 @@
 - 7a) § 2 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde.
 
 - 7aa) § 16 ods. 8 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z.
+
+- 7ab) § 35 až 39 zákona č. 114/1998 Z. z.
+
+- 7ac) § 40 a 41 zákona č. 114/1998 Z. z.
 
 - 7b) § 12 až 18 zákona č. 1/1991 Zb. v znení neskorších predpisov.
 
@@ -54,6 +68,10 @@
 
 - 7cd) § 4 zákona č. 125/1998 Z. z.
 
+- 7ce) Zákon č. 132/1998 Z. z. o zvýšení dôchodkov v roku 1998, o úprave dôchodkov priznaných v roku 1999 a o zmene a doplnení niektorých zákonov v oblasti sociálneho zabezpečenia v znení zákona č. 107/1999 Z. z.Zákon č. 107/1999 Z. z. o zvýšení dôchodkov v roku 1999, o úprave dôchodkov priznaných v roku 2000 a o zmene a doplnení niektorých zákonov v oblasti sociálneho zabezpečenia.
+
+- 7cf) § 3 ods. 2 zákona č. 132/1998 Z. z. v znení zákona č. 107/1999 Z. z.§ 3 ods. 2 zákona č. 107/1999 Z. z.
+
 - 7d) § 3 ods. 2 písm. e) a ods. 3 písm. b) zákona č. 463/1991 Zb.
 
 - 7e) Zákon č. 463/1991 Zb. v znení neskorších predpisov.
@@ -62,13 +80,15 @@
 
 - 7g) § 5 zákona Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti.
 
+- 7ga) § 42 až 46 zákona č. 114/1998 Z. z.
+
 - 8) § 1 ods. 1 č. 1 písm. g) zákona č. 255/1946 Zb.
 
 - 9) § 1 ods. 1 č. 1 písm. a) až d) a č. 2 zákona č. 255/1946 Zb.
 
 - 10) Podľa § 1 ods. 1 č. 1 písm. f) zákona č. 255/1946 Zb. je účastníkom povstania, kto sa zúčastnil na povstaní v máji 1945, pričom za bojov padol, bol ťažko ranený alebo utrpel ťažkú poruchu zdravia.
 
-- 10a) § 46 Zákona o rodine.
+- 10a) § 18 až 59 zákona č. 114/1998 Z. z.
 
 - 10b) § 12 a nasl. zákona č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov (úplné znenie č. 450/1992 Zb.).
 
@@ -131,6 +151,12 @@
 - 24) § 68 ods. 3 vyhlášky č. 149/1988 Zb. v znení vyhlášky č. 123/1990 Zb.
 
 - 25) § 27 ods. 2 nariadenia vlády Československej socialistickej republiky č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce.
+
+- 25a) Zákon č. 132/1998 Z. z. v znení zákona č. 107/1999 Z. z.
+
+- 25b) § 3 ods. 2 zákona č. 132/1998 Z. z.
+
+- 25c) Zákon Národnej rady Slovenskej republiky č. 38/1994 Z. z. o úprave dôchodkov priznaných v roku 1994.Zákon Národnej rady Slovenskej republiky č. 195/1994 Z. z. o zvýšení dôchodkov v roku 1994 a o úprave dôchodkov priznaných v roku 1995.Zákon Národnej rady Slovenskej republiky č. 135/1995 Z. z. o zvýšení dôchodkov v roku 1995, o úprave dôchodkov priznaných v roku 1996 a o zmene niektorých predpisov v oblasti sociálneho zabezpečenia.Zákon Národnej rady Slovenskej republiky č. 376/1996 Z. z. o úprave dôchodkov priznaných v roku 1997 a o zmene niektorých predpisov.Zákon č. 357/1997 Z. z. o úprave dôchodkov priznaných v roku 1998.Zákon č. 132/1998 Z. z. v znení zákona č. 107/1999 Z. z.
 
 - 26) Zákon č. 76/1952 Zb. o dani zo mzdy v znení neskorších predpisov.
 
