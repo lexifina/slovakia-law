@@ -1,0 +1,1 @@
+- *) Paragraf 50 a nasl. zákona č. 95/1963 Zb. o štátnom notárstve a o konaní pred štátnym notárstvom (notárskeho poriadku).
