@@ -6,7 +6,7 @@
 
 (3) Súd a v prípravnom konaní na návrh prokurátora sudca rozhodne, že peňažná záruka pripadá štátu, ak obvinený
 
-- a) ujde, skrýva sa alebo neoznámi zmenu svojho pobytu a znemožní tak doručenie predvolania alebo inej písomnosti súdu, prokurátora, vyšetrovateľa alebo vyhľadávacieho orgánu,
+- a) ujde, skrýva sa alebo neoznámi zmenu svojho pobytu a znemožní tak doručenie predvolania alebo inej písomnosti súdu, prokurátora alebo vyšetrovateľa,
 
 - b) zavinene sa nedostaví na predvolanie na úkon trestného konania, ktorého vykonanie je bez jeho prítomnosti vylúčené,
 
@@ -17,5 +17,3 @@
 Na dôvody, pre ktoré peňažná záruka môže pripadnúť štátu, musí sa obvinený a osoba, ktorá peňažnú záruku zložila, vopred upozorniť.
 
 (4) Peňažnú záruku zruší na návrh obvineného alebo osoby, ktorá ju zložila, alebo aj bez návrhu súd alebo sudca, ktorý o jej prijatí rozhodol, ak pominuli dôvody, ktoré k jej prijatiu viedli. Ak bol obvinený právoplatne odsúdený na nepodmienečný trest odňatia slobody alebo peňažný trest, môže súd rozhodnúť, že peňažná záruka trvá do dňa, keď odsúdený nastúpi výkon trestu odňatia slobody alebo zaplatí peňažný trest. Obvinený, ktorý bol právoplatne odsúdený na peňažný trest, môže tiež požiadať, aby sa záruka, ktorú zložil, použila na zaplatenie peňažného trestu.
-
-(5) Proti rozhodnutiam o peňažnej záruke podľa odsekov 3 a 4 je prípustná sťažnosť. Odkladný účinok má iba sťažnosť proti rozhodnutiu o pripadnutí peňažnej záruky štátu.

@@ -1,3 +1,7 @@
-# § 83c Vstup do obydlia
+# § 83c Vstup do obydlia, iných priestorov a na pozemok
 
-Na odstránenie naliehavého nebezpečenstva môže vyšetrovateľ alebo vyhľadávací orgán alebo policajný orgán vstúpiť do obydlia iba vtedy, ak vec neznesie odklad a vstup do obydlia je nevyhnutný pre ochranu života alebo zdravia osôb, pre ochranu ich práv a slobôd alebo pre odvrátenie závažného ohrozenia verejnej bezpečnosti a poriadku, najmä ak ide o obydlie osoby pristihnutej pri čine alebo osoby, na ktorú bol vydaný príkaz na zatknutie. Po vstupe do obydlia nesmú byť vykonané žiadne iné úkony než také, ktoré slúžia na odstránenie naliehavého nebezpečenstva.
+(1) Vyšetrovateľ alebo policajný orgán môžu vstúpiť do obydlia, iných priestorov alebo na pozemok len vtedy, ak vec neznesie odklad a vstup je nevyhnutný na ochranu života alebo zdravia osôb alebo na ochranu iných práv a slobôd alebo na odvrátenie závažného ohrozenia verejnej bezpečnosti a poriadku, najmä ak ide o obydlie alebo iné priestory alebo pozemok osoby pristihnutej pri čine.
+
+(2) Rovnako môžu na miesta uvedené v odseku 1 vstúpiť v prípade, ak bol vydaný príkaz na zatknutie alebo príkaz na dodanie do výkonu trestu odňatia slobody tam sa zdržujúcej osoby alebo ak treba predviesť tam sa zdržujúceho obvineného.
+
+(3) Po vstupe na miesta uvedené v odseku 1 možno vykonať iba také úkony, ktoré neznesú odklad, alebo úkony na predvedenie osoby.

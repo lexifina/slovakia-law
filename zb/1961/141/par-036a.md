@@ -4,7 +4,7 @@
 
 - a) ak je pozbavený spôsobilosti na právne úkony alebo ak je jeho spôsobilosť na právne úkony obmedzená,
 
-- b) ak ide o podmienečné prepustenie z výkonu trestu odňatia slobody mladistvého, ktorý v čase konania verejného zasadania nedovŕšil devätnásty rok,
+- b) ak ide o podmienečné prepustenie z výkonu trestu odňatia slobody mladistvého, ktorý v čase konania verejného zasadania nedovŕšil osemnásty rok,
 
 - c) ak je vo väzbe, alebo
 
@@ -16,7 +16,7 @@
 
 - b) ak ide o trestný čin, na ktorý zákon ustanovuje trest odňatia slobody, ktorého horná hranica prevyšuje päť rokov,
 
-- c) ak je mladistvý a v čase konania verejného zasadania o sťažnosti pre porušenie zákona alebo o návrhu na povolenie obnovy nedovŕšil devätnásty rok, alebo
+- c) ak je mladistvý a v čase konania verejného zasadania o sťažnosti pre porušenie zákona alebo o návrhu na povolenie obnovy nedovŕšil osemnásty rok, alebo
 
 - d) ak sú pochybnosti o jeho spôsobilosti náležite sa obhajovať,
 
