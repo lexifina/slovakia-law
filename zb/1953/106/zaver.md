@@ -1,0 +1,9 @@
+Zápotocký v. r.
+
+Fierlinger v. r.
+
+Dr. Dolanský v. r.
+
+Ďuriš v. r.
+
+Dr. Kyselý v. r.
