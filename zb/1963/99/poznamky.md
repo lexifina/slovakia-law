@@ -74,7 +74,7 @@
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 240/1990 Zb. o odmenách a náhradách advokátov za poskytovanie právnej pomoci v znení vyhlášky č. 44/1991 Zb.
 
-- 34a) § 12 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 209/1994 Z. z.
+- 34a) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
 
 - 34b) § 150 Občianskeho zákonníka.
 
