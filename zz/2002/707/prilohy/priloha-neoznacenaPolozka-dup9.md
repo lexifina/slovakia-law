@@ -25,3 +25,5 @@ b) akékoľvek služby súvisiace s vodnou dopravou v sankcionovanej krajine
 8. technické poradenstvo, pomoc a výcvik súvisiaci s vojenskými aktivitami
 
 9. poskytovanie personálu a materiálu na účely výcviku alebo technických podporných služieb súvisiacich s navrhovaním, vývojom, výrobou, používaním a údržbou zbraní,<sup>1</sup>) streliva<sup>1</sup>) alebo vojenského materiálu<sup>2</sup>)
+
+10. drevo a výrobky drevospracujúceho priemyslu.
