@@ -1,1 +1,0 @@
-Vladimír Mečiar v. r.
