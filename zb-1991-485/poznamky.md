@@ -1,0 +1,1 @@
+- 7) § 20 zákona č. 530/1990 Sb., o dluhopisech.
