@@ -8,12 +8,4 @@
 
 - *) Zmluvu možno uzatvárať aj ako trojstrannú zmluvu, v ktorej jednou zo strán je aj generálny projektant.
 
-- *) § 20 a 21 zák. č. 30/1968 Zb. o štátnom skúšobníctve.
-
-- **) § 14 až 16 zák. č. 30/1968 Zb. o štátnom skúšobníctve.
-
-- ***) § 2 ods. 2 zák. č. 30/1968 Zb. o štátnom skúšobníctve.
-
-- †) Zák. č. 36/1967 Zb. o znalcoch a tlmočníkoch a čiastka 1/1970 Ústredného vestníka ČSR.
-
 - †) Porov. aj § 291 ods. 2 Hosp. zák.

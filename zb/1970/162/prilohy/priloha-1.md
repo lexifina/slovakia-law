@@ -30,37 +30,15 @@
 
     - § 8 až 10 - Zrušené od 1. 1. 1974.
 
-    - § 11 (k § 16 ods. 3 vyhl. č. 107/1966 Zb.)
+    - § 11 - Zrušený od 1. 10. 1976.
 
-      - V projektoch komplexnej bytovej výstavby sa nesmú použiť výrobky, ktorých použiteľnosť nie je doložená:
-
-      - a) rozhodnutím štátnej skúšobne o schválení výrobku podliehajúceho schvaľovaniu podľa osobitných predpisov,*)
-
-      - b) rozhodnutím štátnej skúšobne o zaradení výrobku podliehajúceho povinnému hodnoteniu alebo nepovinne hodnoteného podľa osobitných predpisov**) do prvého alebo druhého stupňa akosti, alebo
-
-      - c) osvedčením výrobkov neuvedených pod písmenom a) a b) vydaným štátnou skúšobňou podľa osobitných predpisov,***) ak si to vyhradí investor v zmluve podľa § 7,
-
-      - d) znaleckým posudkom o výrobku, spracovaným ústavom alebo iným špecializovaným pracoviskom, v prípade, že pre odbor, do ktorého výrobok patrí, nie je určená štátna skúšobňa,†) ak si to investor vyhradí v zmluve podľa § 7.
-
-      - § 12 až 14 - Zrušené od 1. 1. 1974.
+    - § 12 až 14 - Zrušené od 1. 1. 1974.
 
 - TRETIA ČASŤ Povinnosti účastníkov výstavby
 
   - Štátny stavebný dozor
 
-    - § 15 (ods. 2: k § 46-48 vyhl. č. 107/1966 Zb., ods. 3: k § 49 vyhl. č. 107/1966 Zb.)
-
-      - (1) Dodávateľ je povinný bez zbytočného odkladu preskúmať projektovú dokumentáciu odovzdanú mu odberateľom.†)
-
-      - (2) Generálny projektant je povinný zamerať autorský dozor aj na kontrolu kvality vykonávaných prác a dodávok pre výstavbu a na zabezpečenie ich súladu s kvalitou predpokladanou projektom.
-
-      - (3) Investor je povinný výkonom technického dozoru zisťovať, či dodávky dochádzajúce na stavbu alebo vykonávané práce zabezpečujú kvalitu stavby predpokladanú projektom. Ak zistí opak, je povinný žiadať dodávateľa (napr. zápisom v stavebnom denníku) o bezodkladnú nápravu. V prípade, že ide o závady, ktoré by mohli samy osebe alebo v súhrne mať za následok sťaženie prevádzky (užívania) dokončenej stavby, je povinný požadovať od zodpovedných orgánov dodávateľa prerušenie prác, prípadne sám dať taký príkaz pracovníkom dodávateľa, ak zodpovedný orgán dodávateľa nie je dosiahnuteľný a ak hrozí nebezpečenstvo z omeškania.
-
-    - § 16 (ods. 1 a 2: k § 33 a 34 vyhl. č. 144/1959 Ú. l.)
-
-      - (1) Stavebný úrad pri výkone štátneho stavebného dozoru zisťuje najmä, či pracovníci technického dozoru investora a autorského dozoru generálneho projektanta plnia povinnosti podľa predchádzajúcich odsekov. Ak zistí, že pracovníci technického dozoru investora a autorského dozoru generálneho projektanta neplnia riadne svoje povinnosti, vyzve investora, prípadne generálneho projektanta, aby urobili nápravu.
-
-      - (2) Stavebný úrad sa zameriava aj na to, ako sa zabezpečuje kontrola kvality dodávok dochádzajúcich na stavbu a prác, a ak zistí závady, vyzve zodpovedné orgány a organizácie urobiť nápravu. Ak tieto orgány a organizácie jeho výzvu neposlúchnu, stavebný úrad môže rozhodnutím vydať príkaz na zastavenie prác; o takom rozhodnutí podá správu krajskému národnému výboru, prípadne národnému výboru postavenému na roveň krajskému národnému výboru (ďalej len „krajský národný výbor“) a v závažných prípadoch aj príslušnému ministerstvu výstavby a techniky.
+    - § 15 a 16 - Zrušené od 1. 10. 1976.
 
 - ŠTVRTÁ ČASŤ Spoločné ustanovenia
 
@@ -100,9 +78,9 @@
 
     - (1) Vyhláška nadobúda účinnosť 1. januárom 1971.
 
-    - (2) Ustanovenie § 11 písm. b), ktorým sa umožňuje použitie iba takých výrobkov, ktoré boli pri povinnom alebo nepovinnom hodnotení zaradené do prvého alebo druhého stupňa akosti, nadobudnú platnosť dňom, ktorý určí Federálny výbor pre technický a investičný rozvoj po dohode s ministerstvami výstavby a techniky ČSR a SSR a s ministerstvami stavebníctva ČSR a SSR.
+    - (2) Zrušený od 1. 10. 1976.
 
-    - (3) Ustanovenia § 11 písm. c) a d) platia pre projekty dokončené po 1. 1. 1972.
+    - (3) Zrušený od 1. 10. 1976.
 
   - Minister výstavby a techniky ČSR:
 
