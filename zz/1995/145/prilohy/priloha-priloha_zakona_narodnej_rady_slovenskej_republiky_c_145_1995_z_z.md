@@ -3505,3 +3505,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - b) Vydanie náhradného potvrdenia (duplikátu) o zatriedení produkcie podľa štatistickej klasifikácie ako náhrady za stratené, zničené, poškodené alebo odcudzené potvrdenie ............................................... | 100 Sk
 
   - Poznámka Poplatok podľa tejto položky vyberá Štatistický úrad Slovenskej republiky. |
+
+  - XX. ČASŤ ELEKTRONICKÝ PODPIS
+
+    - Položka 268
+
+  - a) Podanie žiadosti o akreditáciu poskytovateľa certifikačných služieb ....................... | 20 000 Sk
+
+  - b) Podanie žiadosti o uznanie zhody technických prostriedkov na vyhotovenie a overenie elektronického podpisu ................... | 10 000 Sk
