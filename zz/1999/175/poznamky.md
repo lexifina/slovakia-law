@@ -1,4 +1,4 @@
-- 1) § 35 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 1) § 8 ods. 1 zákona Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky.
 
 - 2) § 112 ods. 2 zákona č. 50/1976 Zb.
 
