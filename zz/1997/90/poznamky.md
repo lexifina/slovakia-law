@@ -2,7 +2,7 @@
 
 - 2) § 68 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
-- 3) Zákon Slovenskej národnej rady č. 410/1991 Zb. o služobnom pomere príslušníkov Policajného zboru Slovenskej republiky v znení neskorších predpisov.
+- 3) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 4) § 2 ods. 1 zákona č. 36/l967 Zb. o znalcoch a tlmočníkoch.
 
