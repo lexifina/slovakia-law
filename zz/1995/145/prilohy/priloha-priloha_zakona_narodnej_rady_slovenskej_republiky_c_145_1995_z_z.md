@@ -136,6 +136,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) Zápis do zoznamu odborne spôsobilých osôb podľa osobitného predpisu<sup>10a</sup>) ..... | 1 000 Sk
 
+  - f) Zápis do zoznamu znalcov, tlmočníkov a prekladateľov ..... | 5 000 Sk
+
+  - g) Výpis zo zoznamu znalcov, tlmočníkov a prekladateľov, za každú stranu ..... | 50 Sk
+
   - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. |
 
     - Položka 6
