@@ -2,7 +2,9 @@
 
 - 2) § 19 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb.
 
-- 3) Napr. § 35 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb., zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
+- 3) Napr. § 53 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách, zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov, § 74 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní, § 50 ods. 2 zákona Národnej rady Slovenskej republiky č. 274/1994 Z.z. o Sociálnej poisťovni.
+
+- 3a) Napr. zákon Slovenskej národnej rady č. 196/1991 Zb. o Matici slovenskej.
 
 - 4) Napr. § 261 a nasl. zákona č. 513/1991 Zb. (Obchodný zákonník), § 488 a nasl. zákona č. 40/1964 Zb. (Občiansky zákonník) v znení neskorších predpisov.
 
@@ -24,31 +26,45 @@
 
 - Vyhláška Slovenského úradu geodézie, kartografie a katastra č. 594/1992 Zb., ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
 
+- 10a) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
+
 - 11) Napr. § 135, 456, 462 a 628 Občianskeho zákonníka, § 185gObčianskeho súdneho poriadku, § 52 ods. 3 a § 55 ods. 3 zákona č. 140/1964 Zb. (Trestný zákon v znení neskorších predpisov.
 
 - 12) Napr. zákon č. 618/1992 Zb. (Colný zákon) v znení neskorších predpisov, zákon č. 238/1991 Zb. o odpadoch.
 
-- 13) Napr. § 1 ods. 1 vyhlášky Ministerstva spravodlivosti č. 45/1964 Zb., ktorou sa vykonávajú niektoré ustanovenia Občianskeho zákonníka, § 369 Obchodného zákonníka.
+- 13) Nariadenie vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
 
-- 14) § 30 ods. 3 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb.
+- 13a) § 54 ods. 1 písm. f) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+
+- 13b) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+
+- 13c) Napr. § 140 Občianskeho zákonníka.
+
+- 14) § 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+
+- 14a) § 21 ods. 4 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+
+- 14b) § 4 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
 - 15) Zákon č. 526/1990 Zb. o cenách.
 
 - 16) § 43 a nasl. Občianskeho zákonníka.
 
-- 17) § 588 a nasl. a § 628 a nasl. Občianskeho zákonníka.
+- 17) § 588 a nasl., § 628 a nasl. a § 611 Občianskeho zákonníka.
 
-- § 476 a nasl. Obchodného zákonníka.
+- 17a) § 2 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
+
+- 17b) § 39 Občianskeho zákonníka.
 
 - 18) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 18a) § 4 zákona Slovenskej národnej rady č. 27/1987 Zb.
 
 - 19) § 35 ods. 1 Občianskeho súdneho poriadku.
 
 - 20) § 663 a nasl. Občianskeho zákonníka.
 
 - 21) § 659 a nasl. Občianskeho zákonníka.
-
-- 22) § 7 ods. 1 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
 - 23) § 151a a nasl. Občianskeho zákonníka.
 
