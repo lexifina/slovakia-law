@@ -8,6 +8,10 @@ Ministerstvo zahraničných vecí Slovenskej republiky oznamuje, že 3. marca 19
 
 Dohoda nadobudla platnosť 7. marca 1996 na základe článku 12 ods. 1.
 
+Dohoda
+
+medzi Slovenskou republikou a Rumunskom o podpore a vzájomnej ochrane investícií
+
 Vláda Slovenskej republiky a vláda Rumunska (ďalej len „zmluvné strany“),
 
 želajúc si zintenzívniť hospodársku spoluprácu na vzájomný prospech oboch štátov,
