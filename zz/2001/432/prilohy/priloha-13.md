@@ -1,0 +1,3 @@
+Príloha č. 13 k vyhláške č. 432/2001 Z. z.
+
+- SPRÁVA ŠTÁTNYCH HMOTNÝCH REZERV SLOVENSKEJ REPUBLIKY [Tabulka 13](../assets/da7678b4bf4fa65931f80cc8a49108bd43b69cf9fe91cd630bb53267da402163.pdf)
