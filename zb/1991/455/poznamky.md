@@ -8,7 +8,7 @@
 
 - Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.)
 
-- 2a) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov.
+- 2a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 3) § 25 ods. 1 zákona č. 87/1987 Zb. o veterinárnej starostlivosti v znení zákona č. 239/1991 Zb.
 
@@ -39,6 +39,12 @@
 - 9) § 11 a § 13 ods. 1 až 4 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní.
 
 - 9a) Zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov.
+
+- 9b) § 4, 4a a 5 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
+
+- 9c) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 9d) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
@@ -78,7 +84,7 @@
 
 - 16) § 2 a § 3 písm. a) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
 
-- 17) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 17) § 5 ods. 2 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
 
 - 17a) § 14 zákona č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
