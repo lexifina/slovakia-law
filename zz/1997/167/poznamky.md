@@ -1,4 +1,6 @@
-- 1) § 124 až 128 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla v znení vyhlášky Ministerstva financií Slovenskej republiky č. 122/1995 Z. z.
+- 1a) § 124 až 128 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla v znení vyhlášky Ministerstva financií Slovenskej republiky č. 122/1995 Z. z.
+
+- 1) § 32 a 33 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla v znení vyhlášky č. 2/1999 Z. z.
 
 - 2) § 129 až 132 vyhlášky č. 17/1994 Z. z.
 
