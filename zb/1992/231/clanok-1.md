@@ -124,6 +124,30 @@ Zákonník práce č. 65/1965 Zb. v znení zákona č. 88/1968 Zb., zákona č. 
 
 - 18. Za § 205c sa vkladá nový § 205d, ktorý včítane nadpisu znie:
 
+- „§ 205d
+
+- Zákonné poistenie zodpovednosti organizácie za škodu
+
+- (1)
+
+- Organizácie zamestnávajúce aspoň jedného pracovníka sú pre prípad svojej zodpovednosti za škodu pri pracovnom úraze alebo chorobe z povolania poistené (ďalej len „zákonné poistenie“) v poisťovniach, o ktorých to ustanovia zákony národných rád. To sa nevzťahuje na organizácie, ktoré majú podľa zákona postavenie štátneho orgánu.
+
+- (2)
+
+- Zákony národných rád upravia spôsob úhrady prípadnej ujmy vzniknutej poisťovni prevádzkovaním zákonného poistenia.
+
+- (3)
+
+- Bližšie podmienky a sadzby poistného ustanoví vyhláškou Ministerstvo financií Českej republiky a Ministerstvo financií Slovenskej republiky.
+
+- (4)
+
+- Pokiaľ pri zániku organizácie neprejdú práva a povinnosti z pracovnoprávneho vzťahu na inú organizáciu, má poškodený (pozostalý) právo priamo voči poisťovni, aby mu škodu nahradila v tom istom rozsah, v akom by mu ju bola povinná nahradiť sama poistná organizácia.
+
+- (5)
+
+- V rozsahu v akom sa na organizáciu vzťahuje zákonné poistenie, zaniká jej povinnosť dojednať zmluvné poistenie podľa osobitných predpisov.<sup>21</sup>)“.
+
 - 19. V § 242 ods. 2 sa bodka za prvou vetou nahrádza čiarkou a pripájajú sa slová „prípadne osobitný zákon.“.
 
 - 20. § 249 sa dopĺňa odsekom 4, ktorý znie:
