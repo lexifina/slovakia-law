@@ -866,26 +866,4 @@ Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekút
 
 - „§ 234
 
-- Exekútorskí kandidáti sa stávajú dňom účinnosti tohto zákona exekútorskými koncipientmi. Komora ich zapíše do zoznamu exekútorských koncipientov do 30 dní od nadobudnutia účinnosti tohto zákona.
-
-- § 235
-
-- (1)
-
-- Z exekúcie podľa tohto zákona sú vylúčené pohľadávky vzniknuté v súvislosti so zabezpečovaním a s poskytovaním zdravotnej starostlivosti podľa osobitných predpisov.<sup>20</sup>)
-
-- (2)
-
-- Exekučné konanie podľa odseku 1 sa zastavuje. Oprávnený môže podať návrh na výkon rozhodnutia podľa Občianskeho súdneho poriadku; ak takýto návrh podá do troch mesiacov od nadobudnutia účinnosti tohto zákona, účinky podaného návrhu zostávajú zachované.“.
-
-- Poznámka pod čiarou k odkazu 20 znie:
-
-- „20)
-
-- Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
-
-- Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.“.
+- Exekútorskí kandidáti sa stávajú dňom účinnosti tohto zákona exekútorskými koncipientmi. Komora ich zapíše do zoznamu exekútorských koncipientov do 30 dní od nadobudnutia účinnosti tohto zákona.“.
