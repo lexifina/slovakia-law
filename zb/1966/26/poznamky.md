@@ -1,0 +1,1 @@
+- *) Napr. § 14 ods. 2 alebo § 57 ods. 3 zákona alebo § 2 tejto vyhlášky.
