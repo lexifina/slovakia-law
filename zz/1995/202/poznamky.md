@@ -32,9 +32,11 @@
 
 - 16) § 1 ods. 3 písm. o) zákona č. 21/1992 Zb.
 
+- 16a) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+
 - 17) Zákon č. 600/1992 Zb. v znení neskorších predpisov.Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.Zákon č. 385/1999 Z. z. o kolektívnom investovaní.
 
-- 17a) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
+- 17a) § 20 zákona č. 330/2000 Z. z. o burze cenných papierov.
 
 - 17b) § 21 ods. 4 zákona č. 214/1992 Zb. o burze cenných papierov.
 
@@ -52,7 +54,7 @@
 
 - 21a) Zákon č. 21/1992 Zb. v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.Zákon č. 385/1999 Z. z.Zákon č. 600/1992 Zb. v znení neskorších predpisov.
 
-- 21b) § 34 a 35 zákona č. 21/1992 Zb. v znení neskorších predpisov.
+- 21b) § 21 ods. 3 a 4 Obchodného zákonníka.
 
 - 22) § 16 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
