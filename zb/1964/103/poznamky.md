@@ -10,6 +10,10 @@
 
 - 5) Nariadením vlády ČSSR č. 98/1971 Zb. o zvýšení podpory pri narodení dieťaťa sa táto podpora zvýšila od 1. októbra 1971 na sumu 2000 Kčs na každé narodené dieťa.
 
+- 5a) § 4 a 5 zákona č. 463/1991 Zb. o životnom minime.
+
+- 5b) § 12 a nasl. zákona č. 1/1991 Zb. o zamestnanosti v znení neskorších predpisov (úplné znenie č. 450/1992 Zb.).
+
 - 6) Vyhlášky č. 61/1969 Zb., č. 67/1969 Zb., č. 110/1970 Zb. a č. 156/1970 Zb.
 
 - 7) § 276 a nasl. Občianskeho súdneho poriadku (úplné znenie č. 162/1973 Zb.).
