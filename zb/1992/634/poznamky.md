@@ -38,8 +38,6 @@
 
 - 9d) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon), zákon č. 478/1992 Zb. o úžitkových vzoroch, zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z., zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z. z.
 
-- 9e) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
-
 - 10) § 2 zákona č. 505/1990 Zb. o metrológii.
 
 - 11) § 13 ods. 2 zákona č. 526/1990 Zb.
@@ -68,6 +66,8 @@
 
 - 13c) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
 
+- 13d) § 52 až 60 Občianskeho zákonníka v znení neskorších predpisov.
+
 - 14) Zákon Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa.
 
 - 14a) § 5 ods. 3 zákona č. 199/2004 Z. z. Colného zákona a o zmene a doplnení niektorých zákonov.
@@ -77,3 +77,5 @@
 - 14c) § 84 a 85 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
 
 - 14d) Napríklad Občiansky zákonník, zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon č. 128/2002 Z. z., zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov, zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji, zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
+
+- 15) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov.
