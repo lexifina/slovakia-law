@@ -1,1 +1,0 @@
-- *) V znení uvedenom v prílohe vyhlášky ministra výkupu zo dňa 24. septembra 1954 č. 43/1954 Zb. nadobúda účinnosť dňom 22. októbra 1954 a platí pre dodávkovú povinnosť a výkup poľnohospodárskych výrobkov začínajúc rokom 1955.
