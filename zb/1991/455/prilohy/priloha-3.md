@@ -84,7 +84,7 @@ Príloha č. 3 zákona č. 455/1991 Zb.
 
 - Služby verejných nosičov a poslov | | zjavné používanie stanoveného označenia, spoľahlivosť všetkých zamestnancov podľa § 27 ods. 2 živnostenského zákona | |
 
-- Podnikanie v oblasti nakladania s odpadmi | | | obvodný úrad životného prostredia | § 2 ods. 6, § 4 ods. 1 písm. d), § 7 a 8 zák. č. 238/1991 Zb. o odpadoch
+- Podnikanie v oblasti nakladania s odpadmi | Osvedčenie (§ 10 zákona č. 76/1998 Z. z.) | vyžaduje sa len pre činnosti podľa zákona č. 76/1998 Z. z. | obvodný úrad životného prostredia | § 2 ods. 6, § 4 ods. 1 písm. d), § 7 a 8 zák. č. 238/1991 Zb. o odpadoch
 
 - Asanačný podnik | 1. absolvovanie vysokej školy veterinárnej alebo absolvovanie strednej odbornej školy veterinárnej, príp. absolvovanie pomaturitného štúdia veterinárneho odboru alebo spôsobilosť na výkon príslušných odborných činností získaná dokončením zodpovedajúceho štúdia,2. splnenie ďalších osobitných kvalifikačných predpokladov, ak sú stanovené Ministerstvom poľnohospodárstva SR | 1. overenie príslušným orgánom veterinárnej starostlivosti, že podnikateľ má k dispozícii potrebné zariadenia a prístroje a podmienky na dodržiavanie potrebných protinákazových a hygienických opatrení,2. povinnosť zabezpečovať za odplatu odvoz odpadov živočíšneho pôvodu v určenom obvode | okresná veterinárna správa | § 3a písm. a), § 19 ods. 1 písm. a) až c), § 21 ods. 1 písm. b), ods. 2 a 3, § 25, § 35 ods. 1 písm. e) č. 4 a ods. 3 zák. č. 239/ 1991 Zb., ktorým sa mení a dopĺňa zákon č. 87/1987 Zb. o veterinárnej starostlivosti (úplné znenie č. 215/1992 Zb.)
 
