@@ -1,1 +1,0 @@
-Ing. Sorel v. r.
