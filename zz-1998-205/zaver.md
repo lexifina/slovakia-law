@@ -1,0 +1,1 @@
+Ján Dlhopolček v. r.
