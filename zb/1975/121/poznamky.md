@@ -88,4 +88,8 @@
 
 - 36) Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení zákona č. 59/1969 Zb. a zákon č. 100/1970 Zb. o služobnom pomere príslušníkov Zboru národnej bezpečnosti.
 
+- 44) § 142 Zákonníka práce.
+
+- 45) § 10 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 129/1979 Zb. o pracovnom uplatnení a hmotnom zabezpečení pracovníkov trvale nespôsobilých na doterajšiu prácu v podzemí hlbinných baní v znení vyhlášok č. 21/1982 Zb. a č. 145/1982 Zb.
+
 - 1) § 55 ods. 4 zákona č. 121/1975 Zb. a obdobné ustanovenia prv platných predpisov.
