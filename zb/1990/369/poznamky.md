@@ -26,9 +26,7 @@
 
 - 10) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách.
 
-- 10a) § 20 ods. 1 zákona č. 563/1991 Zb. o účtovníctve.
-
-- § 2 ods. 2 písm. a) zákona Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov.
+- 10a) Napríklad zákon Národnej rady Slovenskej republiky č. 314/1996 Z. z. o prokuratúre v znení neskorších predpisov.
 
 - 11) Zákon č. 85/1990 Zb. o petičnom práve.
 
