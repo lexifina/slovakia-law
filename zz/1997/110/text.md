@@ -176,10 +176,6 @@ Medzinárodnej organizácie práce, ktorých zmluvnou stranou bola Česká a Slo
 
 (Ženeva 9. júla 1964, č. 490/1990 Zb.)
 
-42. Dohovor Medzinárodnej organizácie práce o minimálnom veku na prijatie do zamestnania pod zemou v baniach č. 123/1965 (Convention of the International Labour Organization concerning the Minimum Age for Admission to Employment Underground in Mines No. 123/1965)
-
-(Ženeva 22. júna 1965, č. 507/1990 Zb.)
-
 43. Dohovor Medzinárodnej organizácie práce o lekárskom vyšetrení mladých osôb a o ich spôsobilosti pri zamestnávaní pod zemou v baniach č. 124/1965 (Convention of the International Labour Organization concerning Medical Examination of Young Persons for Fitness for Employment Underground in Mines No. 124/1965)
 
 (Ženeva 23. júna 1965, č. 25/1981 Zb.)
