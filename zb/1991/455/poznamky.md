@@ -52,6 +52,8 @@
 
 - Zákon ČNR č. 185/1991 Zb. o poisťovníctve.
 
+- 13a) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
+
 - 14) Napr. § 25 ods. 1 písm. b) zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.
 
 - 15) Zákon SNR č. 194/1990 Zb. o lotériách a iných podobných hrách.
