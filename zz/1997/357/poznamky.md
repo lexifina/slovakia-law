@@ -1,3 +1,0 @@
-- 1) Zákon č. 154/1997 Z. z. o zvýšení dôchodkov v roku 1997 a o zmene a doplnení niektorých zákonov v oblasti sociálneho zabezpečenia.
-
-- 2) § 5 ods. 1 až 3, § 6, § 7 ods. 2 a § 8 zákona č. 46/1991 Zb. o zvyšovaní dôchodkov v znení zákona Národnej rady Slovenskej republiky č. 97/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 285/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 195/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 135/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 110/1996 Z. z. a zákona č. 154/1997 Z. z.
