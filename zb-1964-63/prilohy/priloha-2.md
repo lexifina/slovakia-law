@@ -1,0 +1,7 @@
+Príloha č. 2 vyhlášky č. 63/1964 Zb.
+
+- Zoznam tovaru a predmetov, ktorých dovoz nie je podmienený súhlasom Ministerstva poľnohospodárstva a výživy ČSR alebo Ministerstva poľnohospodárstva a výživy SSR, ktoré nemusia byť opatrené rastlinolekárskym osvedčením a pri ktorých sa rastlinolekárska prehliadka vykonáva náhodne
+
+  - 1. Africká tráva, egreš - plody, artičok, čučoriedky - plody, zemiaková múčka, brusnice - plody, čakankové puky, fazuľa - struky, sušené chmeľové hlávky, borievka - plody, korok a korkový odpad, mŕtvi živočíšni škodcovia vo všetkých vývojových štádiách okrem škodcov uvedených v prílohe 1, surová koža, strihané kvety (okrem chryzantém, ruží a klinčekov) dovážané v cestovnom styku, lufa, lyko, maliny - plody, uhorky - plody, pálka, odkôrnené drevo a rezivo, ostružiny - plody, pažítka - rezaná, piasava, trsť, rebarbora - stopky listov, fermentovaný rastlinný tovar okrem tabaku, ríbezle - plody, ryžové korienky, repné rezky, seno, slama, stelivo a krmivo pri doprave zvierat, šípky - sušené plody, trieslo, trstina, rastlinné vlákna (bavlna, fíber, juta, kenaf, kokos, konopa, ľan, sisal a i.), jedlé huby. Ďalej úžitkové časti kelu, kalerábu, špargle, karfióla, šalátu, špenátu, kapusty.
+
+  - 2. Zásoby potravín rastlinného pôvodu cestujúcich a posádok dopravných prostriedkov v cestovnom styku v množstve povolenom pre dovoz bez cla okrem rastlín a ich častí určených na ďalšie pestovanie. Náhodným prehliadkam podliehajú aj dopravné prostriedky všetkých druhov a obalový materiál rastlinného pôvodu.

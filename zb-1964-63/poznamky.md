@@ -1,0 +1,1 @@
+- *) Zoznam škodcov vonkajšej karantény zostavuje Ministerstvo s prihliadnutím na medzinárodné dohody o vonkajšej karanténe.
