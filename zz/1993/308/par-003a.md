@@ -42,13 +42,23 @@
 
 - b) volí a odvoláva výkonného riaditeľa,
 
-- c) schvaľuje štatút strediska,
+- c) poveruje výkonom funkcie výkonného riaditeľa iného zamestnanca strediska, ak výkon funkcie výkonného riaditeľa zanikol (§ 3b ods. 5), a to až do zvolenia nového výkonného riaditeľa; rozsah poverenia určí správna rada uznesením,
 
-- d) schvaľuje rokovací poriadok správnej rady,
+- d) schvaľuje štatút strediska,
 
-- e) schvaľuje návrh rozpočtu strediska,
+- e) schvaľuje rokovací poriadok správnej rady,
 
-- f) schvaľuje plán činnosti strediska.
+- f) schvaľuje návrh rozpočtu strediska,
+
+- g) schvaľuje plán činnosti strediska,
+
+- h) schvaľuje správu o stave dodržiavania ľudských práv v Slovenskej republike,
+
+- i) schvaľuje ročnú záverečnú správu o činnosti strediska,
+
+- j) schvaľuje účtovnú závierku strediska,
+
+- k) schvaľuje výročnú správu o hospodárení strediska.
 
 (7) Podrobnosti o vnútorných pomeroch strediska upraví štatút strediska. Štatút musí byť v súlade s medzinárodnou zmluvou.<sup>2</sup>)
 
