@@ -1,0 +1,1 @@
+- 1) Vyhláška ministra zahraničních věcí č. 84/1975 Sb., o Úmluvě o vzájemném uznávání ekvivalentnosti dokladů o absolvování středních, středních odborných a vysokých škol a rovněž dokladů o udělování vědeckých hodností a titulů.
