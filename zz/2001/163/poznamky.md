@@ -52,4 +52,6 @@
 
 - 25) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
 
+- 25a) § 4 až 9 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov.
+
 - 26) Napríklad nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z., vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 33/1999 Z. z. o prípravkoch na ochranu rastlín.
