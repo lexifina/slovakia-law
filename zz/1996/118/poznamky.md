@@ -48,23 +48,29 @@
 
 - 5f) Zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
 
-- 5g) Zákon č. 385/1999 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
+- 5g) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z.
+
+- 5ga) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5h) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
 - 5i) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
 
+- 5ia) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+
 - 5j) § 2 ods. 2 a § 5 zákona č. 507/2001 Z. z. o poštových službách.
 
 - 5k) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
 
-- 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 a 4 a § 163 ods. 1 a 6 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 14 ods. 1 a § 20 ods. 1 zákona č. 385/1999 Z. z. v znení neskorších predpisov, § 4 ods. 5 a 6 a § 11 ods. 5 a 6 zákona č. 95/2002 Z. z., § 30 zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z. v znení zákona č. 409/2000 Z. z.
+- 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 a 4 a § 163 ods. 1 a 6 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 3 ods. 11 a 12, § 4 ods. 4 až 8, § 75 až 80 a § 81 ods. 2 zákona č. 594/2003 Z. z., § 4 ods. 5 a 6 a § 11 ods. 5 a 6 zákona č. 95/2002 Z. z., § 30 zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z. v znení zákona č. 409/2000 Z. z.
 
 - 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 19 zákona č. 431/2002 Z. z. o účtovníctve.
 
 - 5n) Napríklad zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
 - 5o) Napríklad § 80 ods. 1 zákona č. 566/2001 Z. z.
+
+- 5p) § 44 ods. 5 písm. l) zákona č. 483/2001 Z. z. v znení zákona č. 554/2004 Z. z.
 
 - 6) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -76,7 +82,7 @@
 
 - 7b) § 782, 785, 879d a § 879e ods. 5 Občianskeho zákonníka.
 
-- 7c) § 25 až 49 zákona č. 385/1999 Z. z. v znení neskorších predpisov.
+- 7c) § 35 až 74 zákona č. 594/2003 Z. z.
 
 - 7d) § 25 ods. 1 až 3 č. 429/2002 Z. z.
 
