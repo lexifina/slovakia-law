@@ -16,8 +16,6 @@
 
 - 9) Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore.
 
-- 10) § 6 ods. 4 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave.
-
 - 11) Smernica z 15. mája 1970 č. Z-7709/1970-B/1 o posudzovaní zdravotnej spôsobilosti na prácu (registrovaná v čiastke 24/1970 Zb.).
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 95/2000 Z. z.Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 377/1996 Z. z. o poskytovaní osobných ochranných pracovných prostriedkov.
