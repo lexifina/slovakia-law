@@ -1,3 +1,0 @@
-Ministerka:
-
-Sedláková v. r.
