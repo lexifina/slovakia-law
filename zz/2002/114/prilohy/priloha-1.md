@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 114/2002 Z. z.
+
+- OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V TORNALI
+
+- ![Obrázok 01-1](../assets/171aa5b3f65e972411a811dc562fd42593ca4d9ba94e12cadd747d76a4e5c722.png)
