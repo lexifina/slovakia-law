@@ -1,5 +1,7 @@
 - 1) § 2 písm. m) zákona č. 618/1992 Zb. Colný zákon.
 
+- 1a) § 115 až 117 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplné znenie č. 47/1992 Zb.).
+
 - 2) Vyhláška Ministerstva financií Slovenskej republiky č. 82/1993 Z. z. o forme obsahu a náležitostiach colného vyhlásenia a o spôsobe vedenia colnej štatistiky.
 
 - 3) § 194 a nasl. Colného zákona.
@@ -14,7 +16,13 @@
 
 - 7) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov (úplné znenie zákona č. 84/1987 Zb.).
 
+- 7a) § 112 vyhlášky Ministerstva financií Slovenskej republiky č. 17/1994 Z. z. o oslobodení tovaru od dovozného cla.
+
+- 7b) § 63 ods. 2 písm. f) zákona č. 44/1974 Zb. Colný zákon v znení neskorších predpisov.
+
 - 8) § 2 Obchodného zákonníka.
+
+- 8a) Doplnková poznámka 4 ku kapitole 27 colného sadzobníka.
 
 - 9) § 226 a nasl. Colného zákona.
 
