@@ -4,6 +4,8 @@
 
 - 3) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike.
 
+- 3a) § 13 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov.
+
 - 4) Zákon č. 172/1988 Zb. o poľnohospodárskej dani.
 
 - 5) Zákon č. 35/1967 Zb. o opatreniach proti znečisťovaniu ovzdušia v znení neskorších predpisov.
