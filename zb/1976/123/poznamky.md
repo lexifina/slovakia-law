@@ -88,4 +88,4 @@
 
 - 43) Vyhláška č. 154/1975 Zb.
 
-- 44) Zákon č. 61/1964 Zb. v znení neskorších predpisov a vyhláška č. 62/1964 Zb. v znení neskorších predpisov.
+- 44) y

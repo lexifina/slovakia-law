@@ -2,41 +2,41 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - Nákupné organizácie poľnohospodárskych výrobkov - § 5 ods. 1 Výrobok | | Nákupné organizácie
 
-- Obilniny včítane kukurice | v ČSR: | - podniky trustu Zemědělské zásobování a nákup Praha (ďalej len „podniky trustu ZZN Praha");
+- 1. Obilniny včítane kukurice | v ČSR: | - podniky trustu Zemědělské zásobování a nákup Praha (ďalej len „podniky trustu ZZN Praha");
 
 - | v SSR: | - podniky trustu Poľnohospodárske zásobovanie a nákup Bratislava (ďalej len „podniky trustu PZN Bratislava").
 
-- Jedlé strukoviny | v ČSR: | - podniky trustu ZZN Praha
+- 2. Jedlé strukoviny | v ČSR: | - podniky trustu ZZN Praha,
 
 - | | - organizácie Českého svazu spotřebních družstev Praha (ďalej len „organizácie ČSSD Praha");
 
 - | v SSR: | - podniky trustu PZN Bratislava,
 
-- | | - organizácie Zväzu slovenských spotrebných družstiev Bratislava (ďalej len „organizácie ZSSD Bratislava").
+- | | - organizácie Slovenského zväzu spotrebných družstiev Bratislava (ďalej len „organizácie SZSD Bratislava").
 
-- Kŕmne strukoviny | v ČSR: | - podniky trustu ZZN Praha;
-
-- | v SSR: | - podniky trustu PZN Bratislava.
-
-- Olejniny (s výnimkou maku) | v ČSR: | - podniky trustu ZZN Praha;
+- 3. Kŕmne strukoviny | v ČSR: | - podniky trustu ZZN Praha;
 
 - | v SSR: | - podniky trustu PZN Bratislava.
 
-- Mak | v ČSR: | - podniky trustu ZZN Praha,
+- 4. Olejniny (s výnimkou maku) | v ČSR: | - podniky trustu ZZN Praha;
+
+- | v SSR: | - podniky trustu PZN Bratislava.
+
+- 5. Mak | v ČSR: | - podniky trustu ZZN Praha,
 
 - | | - organizácie ČSSD Praha;
 
 - | v SSR: | - podniky trustu PZN Bratislava,
 
-- | | - organizácie ZSSD Bratislava.
+- | | - organizácie SZSD Bratislava.
 
-- Konzumné zemiaky | v ČSR: | - podniky trustu ZZN Praha,
+- 6. Konzumné zemiaky | v ČSR: | - podniky trustu ZZN Praha,
+
+- | | - podniky trustu Obchod ovocem a zeleninou Praha,
 
 - | | - závody odborového podniku Mrazírny Praha (ďalej len „závody OP Mrazírny Praha"),
 
 - | | - závody odborového podniku Škrobárny Havlíčkův Brod,
-
-- | | - podniky trustu Obchod ovocem a zeleninou Praha,
 
 - | | - organizácie ČSSD Praha;
 
@@ -46,9 +46,9 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - podniky trustu Liehovary a konzervárne Bratislava (ďalej len „podniky trustu LIKO Bratislava"),
 
-- | | - organizácie ZSSD Bratislava.
+- | | - organizácie SZSD Bratislava.
 
-- Priemyselné zemiaky | v ČSR: | - závody odborového podniku Škrobárny Havlíčkův Brod,
+- 7. Priemyselné zemiaky | v ČSR: | - závody odborového podniku Škrobárny Havlíčkův Brod,
 
 - | | - podniky trustu ZZN Praha;
 
@@ -56,49 +56,51 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - podniky trustu PZN Bratislava.
 
-- Seno, slama, úsušky krmovín a krmoviny na výrobu úsuškov | v ČSR: | - podniky trustu ZZN Praha;
+- 8. Seno, slama, úsušky krmovín a krmoviny na výrobu úsuškov | v ČSR: | - podniky trustu ZZN Praha;
 
 - | v SSR: | - podniky trustu PZN Bratislava.
 
-- Cukrová repa | v ČSR: | - podniky trustu Cukrovarnický průmysl Praha;
+- 9. Cukrová repa | v ČSR: | - podniky trustu Cukrovarnický průmysl Praha;
 
 - | v SSR: | - podniky trustu Cukor - cukrovinky Bratislava.
 
-- Čakanka | v ČSR: | - podniky trustu Tukový průmysl Praha;
+- 10. Čakanka | v ČSR: | - podniky trustu Tukový průmysl Praha;
 
 - | v SSR: | - podniky trustu Cukor - cukrovinky Bratislava.
 
-- Stonky ľanu a stonky konopy | v ČSR: | - závody národného podniku Českomoravský len Humpolec;
+- 11. Stonky ľanu a stonky konopy | v ČSR: | - závody národného podniku Českomoravský len Humpolec;
 
 - | v SSR: | - podniky trustu Slovakotex Trenčín.
 
-- Chmeľ | v ČSR: | - odborový podnik Chmelařství Žatec;
+- 12. Chmeľ | v ČSR: | - odborový podnik Chmelařství Žatec;
 
 - | v SSR: | - odborový podnik Chmelařství Žatec.
 
-- Plody koreninovej papriky | v ČSR: | - podniky trustu Konzervárny a lihovary Praha (ďalej len „podniky trustu KOLI Praha");
+- 13. Plody koreninovej papriky | v ČSR: | - podniky trustu Konzervárny a lihovary Praha (ďalej len „podniky trustu KOLI Praha");
 
 - | v SSR: | - podniky trustu LIKO Bratislava.
 
-- Tabak | v ČSR: | - závody odborového podniku Československý tabákový průmysl Kutná Hora;
+- 14. Tabak | v ČSR: | - závody odborového podniku Československý tabákový průmysl Kutná Hora;
 
 - | v SSR: | - závody odborového podniku Československý tabakový priemysel Bratislava.
 
-- Slama metlového ciroku | v ČSR: | - podniky trustu ZZN Praha;
+- 15. Slama metlového ciroku | v ČSR: | - organizácie Českého svazu výrobních družstev Praha;
 
-- | v SSR: | - podniky trustu PZN Bratislava.
+- | v SSR: | - organizácie Slovenského zväzu výrobných družstiev Bratislava.
 
-- Prázdne makovice | v ČSR: | - podniky trustu ZZN Praha,
+- 16. Prázdne makovice | v ČSR: | - podniky trustu ZZN Praha,
+
+- | | - Léčivé rostliny, národní podnik, Zbraslav,
 
 - | | - organizácie ČSSD Praha;
 
 - | v SSR: | - podniky trustu PZN Bratislava,
 
-- | | - organizácie SZSD Bratislava,
+- | | - Slovakofarma, národný podnik, Hlohovec,
 
-- | | - Slovakofarma, národný podnik, Hlohovec.
+- | | - organizácie SZSD Bratislava.
 
-- Zelenina a ovocie | v ČSR: | - podniky trustu Obchod ovocem a zeleninou Praha,
+- 17. Zelenina a ovocie | v ČSR: | - podniky trustu Obchod ovocem a zeleninou Praha,
 
 - | | - podniky trustu KOLI Praha,
 
@@ -114,11 +116,13 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - podniky trustu Cukor - cukrovinky Bratislava,
 
-- | | - organizácie ZSSD Bratislava,
+- | | - organizácie SZSD Bratislava,
+
+- | | - Agrokomplex Nitra, len na vlastné spracovanie,
 
 - | | - spoločné poľnohospodárske podniky, len na vlastné spracovanie.
 
-- Muštové hrozno viniča hroznorodého | v ČSR: | - vinárske závody trustu Pivovary a sladoviny Praha,
+- 18. Muštové hrozno viniča hroznorodého | v ČSR: | - vinárske závody trustu Pivovary a sladoviny Praha,
 
 - | | - podniky trustu KOLI Praha,
 
@@ -130,7 +134,7 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - podniky trustu LIKO Bratislava.
 
-- Lesné plody | v ČSR: | - organizácie ČSSD Praha,
+- 19. Lesné plody | v ČSR: | - organizácie ČSSD Praha,
 
 - | | - závody podnikov Středočeské, Jihočeské, Západočeské, Severočeské, Východočeské, Jihomoravské a Severomoravské státní lesy (ďalej len „závody podnikov Státní lesy“),
 
@@ -140,13 +144,13 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - podniky trustu KOLI Praha;
 
-- | v SSR: | - organizácie ZSSD Bratislava,
+- | v SSR: | - organizácie SZSD Bratislava,
 
 - | | - závody podnikov Západoslovenské, Stredoslovenské a Východoslovenské štátne lesy (ďalej len „závody podnikov Štátne lesy“),
 
 - | | - podniky trustu LIKO Bratislava.
 
-- Huby | v ČSR: | - organizácie ČSSD Praha,
+- 20. Huby | v ČSR: | - organizácie ČSSD Praha,
 
 - | | - podniky trustu KOLI Praha,
 
@@ -156,65 +160,57 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - závody podnikov Státní lesy;
 
-- | v SSR: | - organizácie ZSSD Bratislava,
+- | v SSR: | - organizácie SZSD Bratislava,
 
 - | | - závody podnikov Štátne lesy,
 
 - | | - podniky trustu LIKO Bratislava.
 
-- Korenie | v ČSR: | - podniky trustu Obchod ovocem a zeleninou Praha,
+- 21. Korenie | v ČSR: | - podniky trustu Obchod ovocem a zeleninou Praha,
+
+- | | - podniky trustu KOLI Praha,
 
 - | | - organizácie ČSSD Praha;
 
 - | v SSR: | - podniky trustu Obchod s ovocím a zeleninou Bratislava,
 
-- | | - organizácie ZSSD Bratislava.
+- | | - organizácie SZSD Bratislava.
 
-- Liečivé rastliny | v ČSR: | - Léčivé rostliny, národní podnik, Zbraslav;
+- 22. Liečivé rastliny | v ČSR: | - Léčivé rostliny, národní podnik, Zbraslav;
 
 - | v SSR: | - Slovakofarma, národný podnik, Hlohovec.
 
-- Jatočný hovädzí dobytok, jatočné ošípané, jatočné teľce | v ČSR: | - podniky trustu ZZN Praha;
+- 23. Jatočný hovädzí dobytok, jatočné ošípané, jatočné teľce | v ČSR: | - podniky trustu Masný průmysl Praha;
 
-- | v SSR: | - podniky trustu PZN Bratislava.
+- | v SSR: | - podniky trustu Mäsový priemysel Bratislava.
 
-- Jatočný hovädzí dobytok, jatočné ošípané a jatočné teľce vykrmované mliečnymi kŕmnymi zmesami pri nákupe napevno v mäse | v ČSR: | - podniky trustu ZZN Praha,
-
-- | | - podniky trustu Masného průmyslu Praha;
-
-- | v SSR: | - podniky trustu PZN Bratislava,
-
-- | | - podniky trustu Mäsového priemyslu Bratislava.
-
-- Jatočné ovce a jahňatá | v ČSR: | - podniky trustu ZZN Praha,
+- 24. Jatočné ovce a jahňatá | v ČSR: | - podniky trustu Masný průmysl Praha,
 
 - | | - organizácie ČSSD Praha;
 
-- | v SSR: | - podniky trustu PZN Bratislava,
+- | v SSR: | - podniky trustu Mäsový priemysel Bratislava,
 
 - | | - organizácie MOVIS Holíč,
 
-- | | - organizácie ZSSD Bratislava.
+- | | - organizácie SZSD Bratislava.
 
-- Jatočné kozy | v ČSR: | - podniky trustu ZZN Praha,
+- 25. Jatočné kozy | v ČSR: | - podniky trustu Masný průmysl Praha,
 
 - | | - organizácie ČSSD Praha;
 
-- | v SSR: | - podniky trustu PZN Bratislava.
+- | v SSR: | - podniky trustu Mäsový priemysel Bratislava.
 
-- Jatočné kone a jatočné žriebätá | v ČSR: | - podniky trustu ZZN Praha,
+- 26. Jatočné kone a jatočné žriebätá | v ČSR: | - podniky trustu Masný průmysl Praha,
 
-- | v SSR: | - podniky trustu PZN Bratislava.
+- | v SSR: | - podniky trustu Hydinársky priemysel Bratislava.
 
-- Jatočná hydina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
+- 27. Jatočná hydina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
 
 - | | - závody odborového podniku Státní rybářství České Budějovice (ďalej len „závody OP Státní rybářství České Budějovice“);
 
 - | v SSR: | - podniky trustu Hydinársky priemysel Bratislava.
 
-- Zverina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
-
-- | | - podniky trustu ZZN Praha,
+- 28. Zverina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
 
 - | | - organizácie ČSSD Praha,
 
@@ -222,9 +218,9 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | v SSR: | - podniky trustu Hydinársky priemysel Bratislava,
 
-- | | - podniky trustu PZN Bratislava.
+- | | - organizácie SZSD Bratislava.
 
-- Živá zver | v ČSR: | - hospodárske zariadenia Českého mysliveckého svazu Praha,
+- 29. Živá zver | v ČSR: | - hospodárske zariadenia Českého mysliveckého svazu Praha,
 
 - | | - závody podnikov Státní lesy;
 
@@ -232,29 +228,27 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - závody podnikov Štátne lesy.
 
-- Jatočné králiky | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
-
-- | | - organizácie ČSSD Praha,
-
-- | | - podniky trustu ZZN Praha;
-
-- | v SSR: | - podniky trustu Hydinársky priemysel Bratislava,
-
-- | | - Spoločný družstevný hydinársky podnik BRANKO Nitra,
-
-- | | - organizácie ZSSD Bratislava.
-
-- Ryby, rybacie násady, plôdik, ikry a raky | v ČSR: | - závody OP Státní rybářství České Budějovice,
+- 30. Jatočné králiky | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
 
 - | | - organizácie ČSSD Praha;
 
 - | v SSR: | - podniky trustu Hydinársky priemysel Bratislava,
 
-- | | - hospodárske zariadenia Slovenského zväzu rybárov Žilina.
+- | | - Spoločný družstevný hydinársky podnik BRANKO Nitra,
 
-- Kože | v ČSR: | - odborový podnik KARA Trutnov,
+- | | - organizácie SZSD Bratislava.
 
-- | | - podniky trustu ZZN Praha kože z farmársky chovaných kožušinových zvierat (t. j. norkov, polárnych líšok, líšok, nutrií) od socialistických organizácií,
+- 31. Ryby, rybacie násady, plôdik, ikry a raky | v ČSR: | - závody OP Státní rybářství České Budějovice,
+
+- | | - organizácie ČSSD Praha;
+
+- | v SSR: | - podniky trustu Hydinársky priemysel Bratislava,
+
+- | | - hospodárske zariadenia Slovenského zväzu rybárov Žilina,
+
+- | | - organizácie SZSD Bratislava.
+
+- 32. Kože | v ČSR: | - odborový podnik KARA Trutnov,
 
 - | | - Zverimex Praha kože z farmársky chovaných králikov, ďalej kože z divých kožušinových zvierat, kože z jahniat a oviec od svojich členov,
 
@@ -264,45 +258,41 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - organizácie Chovprodukt Galanta a Slovmink Matúškovo kože z farmársky chovaných kožušinových zvierat (t. j. norkov, líšok, polárnych líšok a nutrií) od svojich členov - jednotlivo hospodáriacich roľníkov,
 
-- | | - krajské podniky Zberné suroviny kože z farmársky chovaných domácich králikov, kože z divých kožušinových zvierat, kože jahniat a oviec od jednotlivo hospodáriacich roľníkov.
+- | | - krajské podniky Zberné suroviny kože z farmársky chovaných domácich králikov, kože z divých kožušinových zvierat, kože z jahniat a oviec od jednotlivo hospodáriacich roľníkov.
 
-- Mlieko (smotana) | v ČSR: | - podniky trustu Mlékárenský průmysl Praha;
+- 33. Mlieko (smotana) | v ČSR: | - podniky trustu Mlékárenský průmysl Praha;
 
 - | v SSR: | - podniky trustu Mliekárenský priemysel Bratislava,
 
-- | | - potravinársky kombinát Trebišov.
+- | | - Potravinársky kombinát, národný podnik, Trebišov.
 
-- Ovčí hrudkový syr, miešaný hrudkový syr a ovčie mlieko | v ČSR: | - podniky trustu Mliekárenský priemysel Bratislava;
+- 34. Ovčí hrudkový syr, miešaný hrudkový syr a ovčie mlieko | v ČSR: | - podniky trustu Mliekárenský priemysel Bratislava;
 
 - | v SSR: | - podniky trustu Mliekárenský priemysel Bratislava.
 
-- Konzumné slepačie vajcia | v ČSR: | - podniky trustu Drůbežářský průmysl Praha;
+- 35. Konzumné slepačie vajcia | v ČSR: | - podniky trustu Drůbežářský průmysl Praha;
 
 - | v SSR: | - podniky trustu Hydinársky priemysel Bratislava.
 
-- Ovčia vlna | v ČSR: | - podniky trustu ZZN Praha;
+- 36. Ovčia vlna | v ČSR: | - podniky trustu ZZN Praha;
 
 - | v SSR: | - podniky trustu PZN Bratislava.
 
-- Včelí med, včelí vosk a ostatné výrobky z chovu včiel | v ČSR: | - organizácie ČSSD Praha,
+- 37. Včelí med, včelí vosk a ostatné výrobky z chovu včiel | v ČSR: | - organizácie ČSSD Praha;
 
-- | | - podniky trustu ZZN Praha;
+- | v SSR: | - organizácie SZSD Bratislava.
 
-- | v SSR: | - organizácie ZSSD Bratislava.
+- 38. Chovný a úžitkový hovädzí dobytok, ošípané, ovce | v ČSR: | - podniky trustu Státní plemenářské podniky Praha;
 
-- Chovný a úžitkový hovädzí dobytok, ošípané, ovce | v ČSR: | - podniky trustu ZZN Praha;
+- | v SSR: | - podniky trustu Štátne plemenárske podniky Bratislava.
 
-- | v SSR: | - podniky trustu PZN Bratislava.
-
-- Chovná hydina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
+- 39. Chovná hydina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
 
 - | | - závody OP Státní rybářství České Budějovice;
 
 - | v SSR: | - podniky trustu Hydinársky priemysel Bratislava.
 
-- Úžitková hydina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
-
-- | | - podniky trustu ZZN Praha,
+- 40. Úžitková hydina | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
 
 - | | - závody OP Státní rybářství České Budějovice;
 
@@ -312,24 +302,24 @@ Príloha vyhlášky č. 123/1976 Zb.
 
 - | | - Spoločný družstevný liahárenský podnik Nitra.
 
-- Úžitkové žriebätá | v ČSR: | - podniky trustu Státní plemenářské podniky Praha;
+- 41. Úžitkové žriebätá | v ČSR: | - podniky trustu Státní plemenářské podniky Praha;
 
 - | v SSR: | - podniky trustu Štátne plemenárske podniky Bratislava.
 
-- Úžitkové kone | v ČSR: | - podniky trustu ZZN Praha;
+- 42. Úžitkové kone | v ČSR: | - podniky trustu Státní plemenářské podniky Praha;
 
-- | v SSR: | - podniky trustu PZN Bratislava.
+- | v SSR: | - podniky trustu Štátne plemenárske podniky Bratislava.
 
-- Prasiatka a behúne | v ČSR: | - podniky trustu ZZN Praha,
+- 43. Prasiatka a behúne | v ČSR: | - podniky trustu Státní plemenářské podniky Praha,
 
 - | | - závody odborového podniku Velkovýkrmny Praha;
 
-- | v SSR: | - podniky trustu PZN Bratislava,
+- | v SSR: | - podniky trustu Štátne plemenárske podniky Bratislava,
 
 - | | - závody odborového podniku Veľkovýkrmne Palárikovo.
 
-- Násadové vajcia | v ČSR: | - podniky trustu Drůbežářský průmysl Praha;
+- 44. Násadové vajcia | v ČSR: | - podniky trustu Drůbežářský průmysl Praha,
 
 - | v SSR: | - podniky trustu Hydinársky priemysel Bratislava.
 
-- Osivo, sadivo a škôlkárske výpestky | v ČSR aj v SSR: | - organizácie poverené podľa osobitných predpisov.<sup>44</sup>)
+- 45. Osivo, sadivo a škôlkárske výpestky | v ČSR aj v SSR: | - organizácie poverené podľa osobitných predpisov.<sup>44</sup>)
