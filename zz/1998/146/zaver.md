@@ -1,1 +1,0 @@
-Vojtech Tkáč v. r.

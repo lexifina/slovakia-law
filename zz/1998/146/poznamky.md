@@ -1,1 +1,0 @@
-- 1) Opatrenie Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 361/1997 Z. z. o úprave výšky sadzieb náhrad stravného.
