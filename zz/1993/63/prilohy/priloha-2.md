@@ -1,1 +1,1 @@
-Príloha č. 2 [Príloha č. 2](../assets/5ee26d94521a411965fd29a4c2c37e509b104800dbf2ca07933d7398c14c4f80.pdf)
+Príloha č. 2 ![Obrázok 02-1](../assets/51006e8b434938d016b52bfcb3ffc9018c0f39b755bc071958f027ce70428392.png)
