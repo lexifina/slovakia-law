@@ -2,9 +2,11 @@
 
 Príloha č. 2 zákona č. 222/1992 Zb.
 
-- Zoznam služieb podliehajúcich sadzbe dane 23 % Číselný kód | Názov tovaru
+- Zoznam služieb podliehajúcich sadzbe dane 25 % Číselný kód | Názov tovaru
 
 - 903 1 | - Reštauračné stravovanie
+
+- 903 9 | - Stravovanie verejné ostatné
 
 - 911 | - Opravy a údržba strojov a zariadení pre energetiku a ťažbu
 
@@ -22,7 +24,7 @@ Príloha č. 2 zákona č. 222/1992 Zb.
 
 - 918 | - Opravy a údržba výrobkov elektrotechnického a elektronického priemyslu
 
-- 919 | - Opravy a údržba výrobkov jemnej mechaniky a opravy náradia
+- 919 | - Opravy a údržba výrobkov jemnej mechaniky a opravy náradias výnimkou - „Opravy a údržba techniky zdravotníckej vrátane prístrojov"
 
 - 921 | - Opravy a údržba ostatných výrobkov strojárskeho a kovoobrábacieho priemyslu
 

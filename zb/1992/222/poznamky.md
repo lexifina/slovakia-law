@@ -1,12 +1,14 @@
 - 1) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
-- 2) Zákon ČNR č. 531/1990 Zb. o územných finančných orgánoch.
-
-- Zákon SNR č. 84/1991 Zb. o daňových orgánoch v znení zákona SNR č. 136/1992 Zb.
+- 2) Zákon Slovenskej národnej rady č. 84/1991 Zb. o územných finančných orgánoch v znení zákona Slovenskej národnej rady č. 136/1992 Zb. a zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 2a) § 829 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov (úplne znenie č. 47/1992 Zb.).
 
 - 2b) § 27 a nasl. Zákonníka práce.
+
+- 2c) § 227 Obchodného zákonníka v znení neskorších predpisov.
+
+- 2d) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 297/1992 Zb., zákona č. 496/1992 Zb. a zákona č. 565/1992 Zb.
 
 - 3) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
@@ -18,7 +20,7 @@
 
 - 8) § 2 zákona č. 526/1990 Zb. o cenách.
 
-- 9) Zákon č. 213/1992 Zb. o spotrebných daniach.
+- 9) Zákon č. 213/1992 Zb. o spotrebných daniach v znení zákona č. 595/1992 Zb.
 
 - 10) Napr.: Zákon ČNR č. 565/1991 Zb. o miestnych poplatkoch, zákon SNR č. 544/1991 Zb. o miestnych poplatkoch v znení zákona SNR č. 72/1992 Zb.
 
@@ -28,7 +30,7 @@
 
 - 12) Vyhláška Federálneho štatistického radu č. 114/1972 Zb. o zavedení a využívaní jednotnej klasifikácie výkonov v znení neskorších predpisov - odbory číslo 941, 942, 943 a 945.
 
-- 13) § 1 zákona č. 528/1990 Zb. devízový zákon v znení neskorších predpisov.
+- 13) § 4 Devízového zákona č. 528/1990 Zb.
 
 - 14) § 476 až 488 zákona č. 513/1991 Zb.
 
@@ -46,7 +48,7 @@
 
 - 21) § 692 zákona č. 513/1991 Zb.
 
-- 22) § 2 písm. b) zákona č. 528/1990 Zb.
+- 22) § 2 písm. b) Devízového zákona č. 528/1990 Zb.
 
 - 23) Vyhláška č. 114/1972 Zb. v znení neskorších predpisov - odbor číslo 953.
 
@@ -84,31 +86,35 @@
 
 - 36) § 476 a 487 zákona č. 513/1991 Zb.
 
-- 37) § 75 zákona č. 44/1974 Zb. colný zákon v znení neskorších predpisov.
+- 36a) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
 
-- 38) § 78 zákona č. 44/1974 Zb.
+- 37) § 84 a nasl. Colného zákona č. 618/1992 Zb.
 
-- 39) § 46 zákona č. 44/1974 Zb.
+- 38) § 119 písm. b) a nasl. zákona č. 618/1992 Zb.
 
-- 40) § 44 zákona č. 44/1974 Zb.
+- 38a) § 143 a nasl. zákona č. 618/1992 Zb.
+
+- 38b) § 153 a nasl. zákona č. 618/1992 Zb.
+
+- 39) § 194 a nasl. zákona č. 618/1992 Zb.
+
+- 40) § 147 a § 193 zákona č. 618/1992 Zb.
 
 - 41) Vyhláška Federálneho ministerstva zahraničného obchodu č. 69/1989 Zb. o oslobodení obchodného tovaru dovážaného a pochádzajúceho z rozvojových krajín od dovozného cla.
 
 - 42) Vládna vyhláška č. 59/1948 Zb., ktorou sa uvádza do dočasnej platnosti Všeobecná dohoda o clách a obchode z 30. októbra 1947.
 
-- 43) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
+- 43) Napr. Vyhláška Federálneho ministerstva zahraničného obchodu č. 572/1990 Zb. o oslobodení tovaru dovážaného pre potrebu štátom registrovaných cirkví, náboženských spoločností, rehoľných rádov, kongregácií a ich charitatívnych zariadení od dovozného cla.
 
-- Vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
-
-- Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
-
-- Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
+- Vyhláška Federálneho ministerstva zahraničného obchodu č. 39/1992 Zb. o oslobodení vybraných druhov tovaru od dovozného cla.
 
 - 43a) Vyhláška č. 572/1990 Zb. o oslobodení tovaru dovážaného pre potrebu štátom registrovaných cirkví, náboženských spoločností, rehoľných rádov, kongregácií a ich charitatívnych zariadení od dovozného cla. Vyhláška č. 39/1992 Zb. o oslobodení vybraných druhov tovaru od dovozného cla.
 
-- 44) Vyhláška Federálneho ministerstva financií č. 586/1990 Zb. o odpisovaní základných prostriedkov v znení vyhlášky č. 345/1991 Zb.
+- 44) § 63 zákona č. 618/1992 Zb.
 
-- 45) § 29 a 30 zákona č. 563/1991 Zb.
+- 45) § 159 zákona č. 618/1992 Zb.
+
+- 45a) Zákon Národnej rady Slovenskej republiky č. 14/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1993 a o zmene zákonov v oblasti sociálneho zabezpečenia a niektorých ďalších zákonov v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
 
 - 46) § 4 zákona č. 73/1952 Zb. o dani z obratu v znení zákona č. 107/1990 Zb.
 

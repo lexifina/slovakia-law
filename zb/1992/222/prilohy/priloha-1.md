@@ -1,6 +1,6 @@
 Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b08c856125b8c05ff237c5243fd57a1001d054bebf62391c0d.pdf)
 
-- Zoznam tovaru podliehajúceho sadzbe dane 5 % Číselný kód | Názov tovaru |
+- Zoznam tovaru podliehajúceho sadzbe dane 6 % Číselný kód | Názov tovaru |
 
 - 01 | - Živé zvieratá |
 
@@ -68,7 +68,7 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 
 - | 23089019 | - Výlisky z hrozna (matolíny) , ostatné
 
-- | 2309 | - Prípravky používané na výživu zvierat
+- | 2309 10 | - Výživa pre psov a mačky v balení na drobný predaj
 
 - 27 | - Nerastné palivá, minerálne oleje a výrobky ich destilácie; bitúmenové látky; minerálne vosky |
 
@@ -94,6 +94,8 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 
 - | 27150000 | - Bitúmenové zmesi na báze prírodného asfaltu alebo prírodného bitúmenu, petrolejového (naftového) bitúmenu, zemného dechtu alebo smoly zo zemného dechtu (napr. asfaltový tmel), riedené a podobné výrobky
 
+- 2844 40 00 | - Rádioaktívne prvky a izotopy a zlúčeniny iné ako položiek 2844 10, 2844 20 alebo 2844 30; zliatiny, dioperzie (vrátane cermetov), keramické výrobky a zmesi obsahujúce tieto prvky, izotopy alebo zlúčeniny; rádioaktívne odpady |
+
 - 29251100 | - Sacharín a jeho soli |
 
 - 2941 | - Antibiotiká |
@@ -106,7 +108,13 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 
 - 39209990 | - Ostatné - iba fóliový materiál z polyvinylalkoholu |
 
+- 4014 | - Zdravotnícke alebo farmaceutické výrobky (vrátane cumlíkov) z vulkanizovaného, iného ako tvrdeného kaučuku, tiež s príslušenstvom z tvrdej gumy |
+
+- 4401 | - Palivové drevo (polená, kláty, konáre, viazanice a podobné); drevené štiepky alebo triesky; drevené piliny, zbytky a odpad, tiež aglomerované v tvare klátov, brikiet, peliet a v podobných tvaroch |
+
 - 440130 | - Drevené piliny, zvyšky a odpad, aj aglomerované v tvare klátov, brikiet, pelet a podobných tvaroch |
+
+- 4402 00 00 | - Drevené uhlie (vrátane uhlia zo škrupín alebo orechov), tiež aglomerované |
 
 - 4810 | - Papier, kartón a lepenka, natierané na jednej alebo na oboch stranách kaolínom alebo inou anorganickou látkou, tiež so spájadlom, bez akéhokoľvek ďalšieho náteru, prípadne na povrchu farbené, ozdobené alebo potlačené, v kotúčoch alebo listoch (hárkoch) - iba zo stopercentne recyklovaného papiera |
 
@@ -115,6 +123,10 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 - 4818 | - Toaletný papier, vreckovky, odmaskovacie servítky, uteráky, obrusy, obrúsky, detské plienky, hygienické tampóny, prestieradlá a podobný tovar používaný v domácnosti, na toaletné, hygienické a nemocničné účely, odevy a ich doplnky z papieroviny, z papiera, buničitej vaty alebo pásov zo splstených buničinových vlákien - iba zo stopercentne recyklovaného papiera |
 
 - 4820 | - Registre, účtové knihy, bloky (poznámkové, objednávok, potvrdeniek), memorandové zápisníky, zložky listových papierov a podobné výrobky, zošity, bloky pijavých papierov, rýchloviazače (s voľnými listami alebo iné), dosky a spisové mapy, obchodné tlačivá, sady papierov poprekladané karbónovými papiermi a ostatné školské, kancelárske a papierenské výrobky z papiera alebo kartónu; albumy na vzorky alebo zbierky a obaly na knihy, z papiera, kartónu alebo lepenky - iba zo stopercentne recyklovaného papiera |
+
+- 4820 20 | - Zošity |
+
+- 4820 90 | - Ostatné, ak ide o školské výrobky z papiera alebo kartónu |
 
 - 4901 | - Knihy, brožúry, letáky a podobné tlačiarenské výrobky, tiež v jednotlivých listoch (hárkoch) |
 
@@ -128,16 +140,38 @@ Príloha č. 1 zákona č. 222/1992 Zb. [Příloha 01](../assets/165dae1d5c08e1b
 
 - 84186991 | - Ostatné tepelné čerpadlá |
 
+- 8419 19 009 | - Slnečné absorpčné kolektory na ohrievanie vody |
+
+- ex 8469 | - Písacie stroje a stroje na spracovanie textu - len na použitie nevidiacimi a slabozrakými |
+
 - 87039010 | - S elektrickými motormi - osobné automobily a iné motorové vozidlá konštruované hlavne na prepravu osôb (okrem uvedených v čísle 8702), včítane osobných dodávkových automobilov a pretekárskych automobilov |
 
 - 8713 | - Vozidlá pre invalidov, tiež s motorom alebo iným mechanickým pohonným zariadením |
 
+- 9001 30 00 | - Kontaktné šošovky |
+
 - 900140 | - Okuliarové šošovky zo skla |
 
+- 9001 50 | - Okuliarové šošovky z iných materiálov |
+
+- 9003 | - Rámy na okuliare alebo podobné výrobky a ich časti a súčasti |
+
+- 9004 10 10 | - Okuliare (korekčné, ochranné alebo iné) a podobné výrobky s opticky opracovanými sklami |
+
+- 9013 20 20 | - Lasery, iné laserové diódy. |
+
+- 9018 | - Lekárske, chirurgické, zubolekárske alebo zverolekárske nástroje a prístroje vrátane scintigrafických prístrojov, ostatné elektroliečebné prístroje, ako aj prístroje na skúšanie zraku |
+
+- 9019 | - Prístroje na mechanoterapiu; masážne prístroje; psychotechnické prístroje; prístroje na liečbu ozónom, kyslíkom, aerosólom, dýchacie prístroje oživovacie a iné liečebné dýchacie prístroje |
+
 - 9021 | - Ortopedické pomôcky a prístroje, včítane bariel, liečebných a chirurgických pásov a bandáží; dlahy a iné potreby a prístroje na liečenie zlomenín; protézové pomôcky a prístroje; prístroje pre nedoslýchavých a iné prístroje nosené v ruke alebo na tele alebo implantované v organizme na kompenzovanie následkov nejakej chyby alebo neschopnosti |
+
+- 9022 | - Röntgenové prístroje a prístroje využívajúce žiarenie alfa, beta alebo gama, tiež na lekárske, chirurgické, zubolekárske alebo zverolekárske účely vrátane rádiografických alebo rádioterapeutických prístrojov, rôntgenov a iných zariadení na výrobu rôntgenových lúčov, generátorov vysokého napätia, ovládacích stolov, presvetľovacích štítov, stolov, kresiel a podobných výrobkov na vyšetrovanie alebo liečenie |
 
 - 90261051 | - Prietokomery - ostatné |
 
 - 90261091 | - Prietokomery - elektronické |
+
+- 90 30 10 | - Prístroje a nástroje na meranie alebo zisťovanie ionizujúceho žiarenia - s výnimkou na používanie v civilných lietadlách |
 
 - Číselný kód obsahuje dvojciferný kód kapitoly Harmonizovaného systém<sup>46</sup>) (ďalej len „harmonizovaný systém“) alebo štvorciferný kód čísla harmonizovaného systému alebo šesťciferný kód položky harmonizovaného systému alebo osemciferný kód položky kombinovanej nomenklatúry.<sup>47</sup>)
