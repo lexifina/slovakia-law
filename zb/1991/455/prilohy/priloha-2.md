@@ -40,9 +40,7 @@ Príloha č. 2 zákona č. 455/1991 Zb.
 
 - SKUPINA 204 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | |
 
-- Výroba, opravy a montáž meradiel | registrácia na Úrade pre normalizáciu, § 19 zák. č. 505/ 1990 Zb. o metrológii metrológiu a skúšobníctvo SR vykonaná po zistení, že podnik má na náležitý výkon činnosti vytvorené potrebné predpoklady | § 19 zák, č. 505/1990 Zb. o meterológii
-
-- Očná optika | Absolvent strednej zdravotníckej školy s maturitou v študijnom odbore očný optik a päťročná prax v odbore | § 28a ods. 2 a 3 zákona č. 140/1998 Z. z. v znení neskorších predpisov
+- Výroba, opravy a montáž určených meradiel | doklad o spôsobilosti v oblasti metrológie | § 29 zákona č. 142/2000 Z. z. o metrológii
 
 - SKUPINA 205 - Výroba elektrických prístrojov | |
 
