@@ -1,3 +1,0 @@
-Minister:
-
-Krutina v. r.
