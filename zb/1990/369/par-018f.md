@@ -16,7 +16,9 @@
 
 - g) vybavuje sťažnosti, ak tak ustanovuje osobitný zákon,<sup>16g</sup>)
 
-- h) je povinný vykonať kontrolu, ak ho o to požiada obecné zastupiteľstvo.
+- h) je povinný vykonať kontrolu, ak ho o to požiada obecné zastupiteľstvo,
+
+- i) plní ďalšie úlohy ustanovené osobitným zákonom.
 
 (2) Hlavný kontrolór sa zúčastňuje na zasadnutiach obecného zastupiteľstva a obecnej rady s hlasom poradným; môže sa zúčastňovať aj na zasadnutiach komisií zriadených obecným zastupiteľstvom.
 
