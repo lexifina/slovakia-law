@@ -8,7 +8,7 @@
 
 - c) dokladom o nepretržitej štvorročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
 
-- d) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
+- d) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
 
 - e) dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti a dokladom o absolvovaní najmenej trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
 

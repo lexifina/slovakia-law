@@ -28,7 +28,9 @@
 
 - d) nemá v prevádzkarni a na trhovom mieste autorizovanú inšpekčnú knihu,
 
-- e) poruší povinnosť podľa § 30 ods. 5.
+- e) poruší povinnosť podľa § 30 ods. 5,
+
+- f) neoznámi zrušenie prevádzkarne (§ 17 ods. 6).
 
 (4) Živnostenský úrad môže uložiť zodpovednému zástupcovi pokutu až do 20 000 Sk, ak vykonáva funkciu zodpovedného zástupcu vo viacerých prevádzkarňach ako v jednej prevádzkarni (§ 11 ods. 5).
 

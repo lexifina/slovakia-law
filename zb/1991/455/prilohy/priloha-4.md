@@ -8,8 +8,6 @@ Príloha č. 4 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
     - Inštalácia a opravy chladiacich zariadení
 
-    - Elektroinštalatérstvo
-
     - Plynoinštalatérstvo
 
   - B. Živnosti vykonávané v prevádzkarni alebo externe

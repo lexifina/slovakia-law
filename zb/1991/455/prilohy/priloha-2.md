@@ -4,13 +4,13 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 201 - Výroba kovov a kovových výrobkov | | | |
 
-- 1. | Zlievanie drahých kovov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie o splnení ďalších podmienok odbornej spôsobilosti | § 48 zák. č. 539/1992 Zb. o puncovníctve a skúšaní drahých kovov (puncový zákon) |
+- 1. | Zlievanie drahých kovov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie o splnení ďalších podmienok odbornej spôsobilosti | § 48 zák. č. 539/1992 Zb. o puncovníctve a skúšaní drahých kovov (puncový zákon) | I - platí pre odbornú spôsobilosť podľa § 21 a 22 živnostenského zákona
 
 - SKUPINA 202 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | | | |
 
-- 2. | Výroba, montáž, rekonštrukcie, opravy a údržba vyhradených technických zariadení a ich častí, vykonávanie ich odborných prehliadok a odborných skúšok, označovanie vyhradených technických zariadení, plnenie tlakových nádob na dopravu plynov | oprávnenie | § 3 ods. 1 vyhl. Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti |
+- 2. | Montáž, rekonštrukcia, opravy, údržba, odborné prehliadky a odborné skúšky vyhradených technických zariadení a plnenie tlakových nádob na dopravu plynov vrátane nádrží motorových vozidiel plynom | oprávnenie | § 4 ods. 1 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení |
 
-- 3. | Výroba, montáž, opravy a rekonštrukcie vyhradených tlakových, zdvíhacích a plynových zariadení a vykonávanie revízií a skúšok týchto zariadení*) | oprávnenie | § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 485/1990 Zb.§ 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/ 1990 Zb.§ 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/ 1990 Zb.*) len v oblasti pôsobnosti dozoru štátnej banskej správy |
+- 3. | Montáž, opravy a rekonštrukcie vyhradených tlakových, zdvíhacích a plynových zariadení a vykonávanie revízií a skúšok týchto zariadení*) | oprávnenie | § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 485/1990 Zb.§ 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/ 1990 Zb.§ 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/ 1990 Zb.*) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
 - 4. | Revízia vyhradených elektrických zariadení*) | osvedčenie | § 9 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
@@ -20,7 +20,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 204 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | | | |
 
-- 7. | Výroba, opravy a montáž určených meradiel | osvedčenie o skúške | § 29 ods. 2 zák. č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov |
+- 7. | Opravy a montáž určených meradiel | osvedčenie o skúške | § 29 ods. 2 zák. č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov |
 
 - 8. | Overovanie určených meradiel Úradné meranie | rozhodnutie o autorizácii | § 24 zák. č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov |
 
@@ -38,9 +38,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - | Projektovanie stavieb | osvedčenie o odbornej spôsobilosti | § 43c zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 554/2001 Z. z. |
 
-- 12. | Uskutočňovanie stavieb a ich zmien | 1. vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru a 4 roky praxe v odbore alebo 2. odborné stredoškolské vzdelanie stavebného smeru a 8 rokov praxe v odbore | | I
+- 12. | Uskutočňovanie stavieb a ich zmien | 1. vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru a 4 roky praxe v odbore alebo 2. odborné stredoškolské vzdelanie stavebného smeru a 8 rokov praxe v odbore | |
 
-- 13. | Uskutočňovanie jednoduchých stavieb, drobných stavieb a ich zmien | 1. vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru alebo 2. odborné stredoškolské vzdelanie stavebného smeru a 3 roky praxe v odbore | | I
+- 13. | Uskutočňovanie jednoduchých stavieb, drobných stavieb a ich zmien | 1. vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru alebo 2. odborné stredoškolské vzdelanie stavebného smeru a 3 roky praxe v odbore | |
 
 - 14. | Výkon činnosti vedenia uskutočňovania stavieb na individuálnu rekreáciu, prízemných stavieb a stavieb zariadenia staveniska, ak ich zastavaná plocha nepresahuje 300 m<sup>2</sup> a výšku 15 m, drobných stavieb a ich zmien | vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru alebo odborné stredoškolské vzdelanie stavebného smeru a 3 roky praxe v odbore | § 44 ods. 2 zák. č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z. |
 
@@ -68,7 +68,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 25. | Vykonávanie odbornej prípravy na úseku požiarnej ochrany | oprávnenie | § 24 ods. 4 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/ 1995 Z. z.§ 36 vyhl. Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona SNR o požiarnej ochrane v oblasti prevencie v znení vyhl. č. 86/1997 Z. z. |
 
-- 26. | Čistenie a kontrola komínov, Preskúšavanie komínov | osvedčenie | § 3 písm. c) zák. č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zák. č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
+- 26. | Preskúšavanie komínov | osvedčenie | § 3 písm. c) zák. č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zák. č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
 - 27. | Technik požiarnej ochrany a Špecialista požiarnej ochrany | osvedčenie | § 11 ods. 1 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/ 1995 Z. z. |
 
@@ -82,25 +82,25 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 33. | Vykonávanie ohňostrojových prác | preukaz odpaľovača ohňostrojov | § 4 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
-- 34. | Predaj pyrotechnických predmetov tried II a III a podtriedy T1 | doklad o odbornej spôsobilosti podlá osobitných predpisov*) | *) § 8 ods. 2 vyhl. Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch v znení nar. vlády Slovenskej republiky č. 398/1999 Z. z. |
+- 34. | Predaj pyrotechnických predmetov tried II a III a podtriedy T1 | doklad o odbornej spôsobilosti podlá osobitných predpisov*) | *) § 8 ods. 2 vyhl. Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch v znení nar. vlády Slovenskej republiky č. 398/1999 Z. z. | V
 
 - 35. | Prevádzkovanie cestovnej kancelárie | 1 . vysokoškolské vzdelanie ekonomického alebo právnického smeru a 2 roky praxe v odbore alebo2. vyššie odborné vzdelanie v odbore a 3 roky praxe v odbore, alebo3. úplné stredné vzdelanie v odbore alebo v ekonomickom odbore a 5 rokov praxe v odbore | | II
 
 - 36. | Prevádzkovanie cestovnej agentúry | 1. vysokoškolské vzdelanie ekonomického alebo právnického smeru a 1 rok praxe v odbore alebo2. vyššie odborné vzdelanie v odbore a 2 roky praxe v odbore, alebo3. úplné stredné vzdelanie v odbore alebo v ekonomickom odbore a 3 roky praxe v odbore | | II
 
-- 37. | Sprievodca cestovného ruchu | osvedčenie | § 8 zák. č. 386/ 1997 Z. z. o ďalšom vzdelávaní a o zmene zákona NR SR č. 387 / 1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. | V
+- 37. | Sprievodca cestovného ruchu | osvedčenie | § 8 zák. č. 386/ 1997 Z. z. o ďalšom vzdelávaní a o zmene zákona NR SR č. 387 / 1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. |
 
-- 38. | Masérske služby | 1. absolvovanie strednej zdravotníckej školy s maturitnou skúškou v odbore rehabilitácie alebo2. absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy, alebo3. absolvovanie lekárskej fakulty v odbore telovýchovného lekárstva alebo balneológie, alebo4. absolvovanie vysokej školy telovýchovného smeru | | V
+- 38. | Masérske služby | 1. absolvovanie strednej zdravotníckej školy alebo2. absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy, alebo3. absolvovanie lekárskej fakulty v odbore telovýchovného lekárstva alebo balneológie, alebo4. absolvovanie vysokej školy telovýchovného smeru | |
 
 - 39. | Ubytovacie služby v ubytovacích zariadeniach s prevádzkovaním pohostinských činností v týchto zariadeniach a v chatovej osade triedy 3, v kempingoch triedy 3 a 4 | 1. vysokoškolské vzdelanie v odbore a 2 roky praxe v odbore alebo2. vyššie odborné vzdelanie v odbore a 3 roky praxe v odbore, alebo3. úplné stredné vzdelanie v odbore alebo v ekonomickom odbore a 5 rokov praxe v odbore | | V
 
-- 40. | Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia [§ 3 ods. 1 písm. c) bod 9] | 1. stredoškolské vzdelanie reštaurátorského zamerania a 3 roky praxe v odbore reštaurovania alebo2. úplné stredné vzdelanie príbuzného odboru a 5 rokov praxe v odbore reštaurovania, alebo3. vysokoškolské umelecké vzdelanie reštaurátorského zamerania alebo príbuzného odboru a 1 rok praxe v odbore reštaurovania | |
+- 40. | Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia [§ 3 ods. 1 písm. c) bod 9] | 1. stredoškolské vzdelanie reštaurátorského zamerania a 3 roky praxe v odbore reštaurovania alebo2. úplné stredné vzdelanie príbuzného odboru a 5 rokov praxe v odbore reštaurovania, alebo3. vysokoškolské umelecké vzdelanie reštaurátorského zamerania alebo príbuzného odboru a 1 rok praxe v odbore reštaurovania | | I
 
-- 41. | Chov laboratórnych zvierat | oprávnenie (akreditácia) | § 31 písm. a) zák. NR SR č. 115/1995 Z. z. o ochrane zvierat |
+- 41. | Zrušená od 1. 7. 2004. | | |
 
 - 42. | Poskytovanie poštových služieb | 1. vysokoškolské vzdelanie technického, ekonomického alebo právnického zamerania a 3 roky praxe v riadení v oblasti poštových služieb alebo2. stredoškolské vzdelanie technického alebo ekonomického zamerania a 5 rokov praxe v riadení v oblasti poštových služieb | |
 
-- 43. | Prevádzka malých plavidiel | osvedčenie | § 31 zák. č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov |
+- 43. | Zrušená od 1. 7. 2004. | | |
 
 - 44. | Činnosť autorizovanej osoby | rozhodnutie o autorizácii | § 11 zák. č. 264/1 999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov |
 
@@ -110,7 +110,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 47. | Inseminácia | 1. vysokoškolské vzdelanie veterinárnej medicíny alebo zootechniky alebo2. osvedčenie o odbornej spôsobilosti | § 25 ods. 1 písm. d) a § 25 ods. 2 zák. č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
-- 48. | Podnikanie v oblasti chovu, spracovania a obchodovania s chránenými živočíchmi, pestovania, spracovania a obchodovania s chránenými rastlinami, spracovania a obchodovania s chránenými nerastmi a chránenými skamenelinami | súhlas | § 7 písm. g), § 27 ods. 2, § 29 ods. 4 a § 30 ods. 1 zák. NR SR č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov |
+- 48. | Zrušená od 1. 7. 2004. | | |
 
 - 49. | Pedikúra | osvedčenie | § 8 ods. 1 zák. č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona NR SR č. 387 /1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. |
 

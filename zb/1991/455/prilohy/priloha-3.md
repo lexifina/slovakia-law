@@ -4,13 +4,13 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 302 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | | | |
 
-- 1. | Vývoj a výroba zbraní alebo streliva | stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo 10 rokov praxe v odbore | |
+- 1. | Vývoj a výroba zbraní alebo streliva | stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo 10 rokov praxe v odbore | | I
 
 - 2. | Opravy, úpravy, ničenie, znehodnocovanie alebo výroba rezu zbraní | stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo 10 rokov praxe v odbore | |
 
 - 3. | Ničenie, znehodnocovanie alebo výroba rezu streliva | vek 21 rokov a preukaz pyrotechnika skupiny A alebo B, alebo C | |
 
-- 4. | Nákup, predaj, prenájom alebo úschova zbraní a streliva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | |
+- 4. | Nákup, predaj, prenájom alebo úschova zbraní a streliva | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona | | V
 
 - 5. | Preprava zbraní a streliva | | |
 
@@ -18,7 +18,7 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 307 - Výroba chemických výrobkov | | | |
 
-- 7. | Výskum, vývoj, výroba a spracovanie, výbušnín | súhlas | § 23 ods. 1 zák. Slovenskej národnej rady č. 51/1988 Zb. v znení zákona NR SR č. 154/1995 Z. z. |
+- 7. | Zrušená od 1. 7. 2004. | | |
 
 - SKÚPINA 314 - Ostatné | | | |
 
@@ -32,9 +32,9 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 12. | Cestná motorová doprava (vnútroštátna nepravidelná autobusová doprava, vnútroštátna nákladná cestná doprava, vnútroštátna taxislužba) | osvedčenie*)dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám:osvedčenie o odbornej spôsobilosti, doklad o finančnej spoľahlivosti | § 3 zák. č. 168/1996 Z. z. o cestnej doprave v znení zák. č. 386/1 996 Z. z., zák. č. 58/1997 Z. z. a zák. č. 340/2000 Z. z.dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám § 3 a 3a zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov*) nevyžaduje sa pre podnikanie najviac s piatimi vozidlami, z ktorých každé má užitočnú hmotnosť najviac 3,5 t alebo celkovú hmotnosť najviac 6 t |
 
-- 13. | Zasielateľstvo | 1 . stredoškolské vzdelanie v odbore a 2 roky praxe v odbore alebo2. odborná spôsobilosť podlá § 22 písm. c) živnostenského zákona alebo3. nepretržitá 5 -ročná prax v odbore v postavení vedúceho podniku | | IV
+- 13. | Zasielateľstvo | 1 . stredoškolské vzdelanie v odbore a 2 roky praxe v odbore alebo2. vysokoškolské vzdelanie v odbore a najmenej jednoročná prax v odbore alebo3. nepretržitá 5 -ročná prax v odbore v postavení vedúceho podniku | | IV
 
-- 14. | Veterinárna asanácia | záväzné stanovisko príslušného orgánu veterinárnej starostlivosti | § 51 ods. 4 zák. č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov |
+- 14. | Zrušená od 1. 7. 2004. | | |
 
 - 15. | Poskytovanie technických služieb na ochranu majetku a osôb | | § 62 ods. 1 zák. č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení zák. č. 225/2000 Z. z. |
 
