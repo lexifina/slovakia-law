@@ -1,0 +1,1 @@
+- 1) Tlačivá možno dostať v ústredí a vo všetkých pobočkách Štátnej banky československej, na správach pre veci majetkové a devízové a v štátnych sporiteľniach.
