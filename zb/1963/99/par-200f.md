@@ -2,10 +2,10 @@
 
 # § 200f Konanie vo veciach zoznamov voličov a zoznamov oprávnených osôb na hlasovanie v referende
 
-(1) Ak obec sama neodstráni chyby alebo nedostatky v zoznamoch voličov alebo v zoznamoch oprávnených osôb na hlasovanie v referende, môže sa občan tým dotknutý obrátiť na okresný súd príslušný podľa volebného okrsku s návrhom na vydanie rozhodnutia o vykonaní opravy alebo o doplnení zoznamu.
+(1) Ak obec sama neodstráni chyby alebo nedostatky v zoznamoch voličov alebo v zoznamoch oprávnených osôb na hlasovanie v referende, môže sa občan tým dotknutý obrátiť na súd príslušný podľa volebného okrsku s návrhom na vydanie rozhodnutia o vykonaní opravy alebo o doplnení zoznamu.
 
 (2) Účastníkmi konania sú navrhovateľ a obec.
 
-(3) Súd rozhodne uznesením do troch dní od podania návrhu. Rozhodnutie treba doručiť účastníkom konania v deň rozhodnutia.
+(3) Súd rozhodne bez pojednávania uznesením do troch dní od podania návrhu. Rozhodnutie treba doručiť účastníkom v deň rozhodnutia.
 
 (4) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.
