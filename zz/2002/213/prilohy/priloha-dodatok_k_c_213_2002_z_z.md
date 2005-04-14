@@ -182,6 +182,20 @@ Dodatok k č. 213/2002 Z. z.
 
   - 4. „the Deputy Registrar“.
 
+    - Ekvádor
+
+    - Departamento de Legalizaciones
+
+    - Dirección General de Asuntos Consulares y Legalizaciones
+
+    - Ministerio de Relaciones Exteriores
+
+    - Carrión 10-40 y Av. 10 de Agosto
+
+    - QUITO
+
+    - Ecuador
+
     - Estónsko
 
   - 1. „Välisministeerium, konsulaarosakonna őigusbüroo“, Islandi väljak 1, 15049 Tallinn, phone +372 6317 440, fax +372 631 7454
@@ -251,6 +265,10 @@ Dodatok k č. 213/2002 Z. z.
     - Na ostrove Curacao pre listiny uvedené v prvom odseku čl. 3 dohovoru aj vedúci Registra narodení, úmrtí, manželstiev, obyvateľstva a voličov ostrova Curacao a jeho zástupca
 
   - 3. pre ostrov Aruba „de Directeur van het Centraal Bureau Juridische en Algemene Zaken“
+
+    - Honduras
+
+    - Ministerstvo zahraničných vecí
 
     - Chorvátsko
 
