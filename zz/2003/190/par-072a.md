@@ -1,0 +1,5 @@
+# § 72a Zánik trestnosti nedovoleného ozbrojovania
+
+(1) Trestnosť nedovoleného ozbrojovania zaniká u osoby, ktorá bez povolenia drží zbraň alebo časť zbrane kategórie A, kategórie B alebo kategórie C, ak v lehote 12 mesiacov odo dňa účinnosti tohto zákona túto zbraň dobrovoľne odovzdá do úschovy ktorémukoľvek útvaru Policajného zboru; ten o prevzatí vydá potvrdenie.
+
+(2) Ten, kto odovzdal zbraň podľa odseku 1, môže podať žiadosť o jej zaevidovanie, ak touto zbraňou nebol podľa odborného vyjadrenia alebo znaleckého posudku útvaru ministerstva špecializovaného na znaleckú činnosť<sup>40</sup>) spáchaný trestný čin; žiadosť možno podať do dvoch mesiacov od písomného oznámenia, že zbraňou nebol spáchaný trestný čin, ktoré zašle policajný útvar. Policajný útvar zaeviduje zbraň, ak sú splnené podmienky podľa § 37, s tým, že sa nepožaduje predloženie potvrdeného nákupného povolenia alebo potvrdeného zbrojného sprievodného listu a preukázanie spôsobu zákonného nadobudnutia zbrane. Ak osoba o zaevidovanie zbrane nepožiada v ustanovenej lehote, zbraň pripadne do vlastníctva štátu a spravuje ju ministerstvo.

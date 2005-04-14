@@ -81,3 +81,5 @@
 - 38) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 39) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+
+- 40) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
