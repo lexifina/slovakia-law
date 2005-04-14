@@ -16,6 +16,8 @@
 
   - Podľa článku 44 dohovoru Česká republika má česť určiť Ministerství spravedlnosti České republiky so sídlom v Prahe 2, Vyšehradská 16, ako orgán, ktorému sa majú zasielať žiadosti o prevzatie alebo odovzdanie právomoci podľa článkov 8 a 9 dohovoru týkajúce sa súdneho konania v Českej republike alebo v inom zmluvnom štáte. Iné žiadosti podľa článkov 8 a 9 dohovoru a žiadosti o súhlas s umiestnením dieťaťa do pestúnskej alebo do ústavnej starostlivosti podľa článku 33 dohovoru sa majú zasielať na Úřad pro mezinárodně právní ochranu detí so sídlom v Brne, Benešova 22.“.
 
+  - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na uplatnenie jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom sa bude uznávať a vykonávať v Českej republike použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
+
   - 2. Monako
 
   - a) Dohovor pre Monako nadobudol platnosť 1. januára 2002.
@@ -83,6 +85,8 @@
   - Každá písomnosť zasielaná do Litovskej republiky musí byť preložená do litovčiny, alebo ak to nie je možné, do anglického jazyka.
 
   - Litovská republika si vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území.
+
+  - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na uplatnenie jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom sa bude uznávať a vykonávať v Litovskej republike použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
 
   - Lotyšská republika
 
