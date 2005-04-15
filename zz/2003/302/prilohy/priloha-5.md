@@ -1,67 +1,75 @@
 Príloha č. 5 k nariadeniu vlády č. 302/2003 Z. z.
 
-- DODATOČNÉ POŽIADAVKY NA CESTNÉ DOPRAVNÉ PROSTRIEDKY POUŽÍVANÉ NA PREPRAVU DOMÁCICH NEPÁRNOKOPYTNÍKOV, HOVÄDZIEHO DOBYTKA, DOMÁCICH OVIEC, DOMÁCICH KÔZ A OŠÍPANÝCH PRI CESTÁCH PRESAHUJÚCICH OSEM HODÍN
+- Minimálny rozsah tematických okruhov tréningových kurzov a školení na prípravu školiteľov
 
-  - Ak sa prekročí osem hodín ustanovených v prílohe č. 2. kapitole VII bode 2, musia cestné dopravné prostriedky použité na prepravu domácich nepárnokopytníkov, hovädzieho dobytka, domácich oviec, domácich kôz a ošípaných spĺňať tieto dodatočné požiadavky:
+  - Tréningové kurzy podľa § 8a ods. 3 a školenia na prípravu školiteľov podľa § 8d ods. 6 musia mať tento minimálny rozsah tematických okruhov:
 
-  - 1. Podstielka
+  - I. Výučba právnych predpisov
 
-  - Okrem ustanovenia prílohy č. 2 časti A kapitoly I bodu 15 musí byť zvieratám zabezpečená vhodná podstielka, ktorá zabezpečuje
+    - a) právne predpisy vzťahujúce sa na prepravu zvierat a na ochranu zvierat v Slovenskej republike,
 
-    - a) pohodlie zvierat; množstvo podstielky môže značne kolísať v závislosti od druhu a počtu prepravovaných zvierat, od trvania cesty a od počasia,
+    - b) povinnosti prepravcu, najmä vo vzťahu k
 
-    - b) primerané pohltenie a rozptýlenie moču a trusu.
+      - 1. registrácii prepravcu,
 
-  - 2. Kŕmenie
+      - 2. spôsobilosti dopravného prostriedku na prepravu zvierat,
 
-  - Vzhľadom na druh a kategóriu prepravovaných zvierat a trvanie cesty uvedené v prílohe č. 2 kapitole VII bode 4 musia byť zvieratá počas cesty kŕmené, pričom sa uplatnia tieto požiadavky:
+      - 3. spôsobilosti zvierat na prepravu a jej posúdenie,
 
-    - a) cestný dopravný prostriedok musí viezť dostatočné množstvo vhodného krmiva na zabezpečenie požiadaviek prepravovaných zvierat na krmivo počas cesty,
+      - 4. pracovným postupom spojeným s prepravou zvierat a počas prepravy, ako sú nakládka, vykládka a manipulácia so zvieratami, kontrola zvierat a poskytnutie starostlivosti zvieratám počas prepravy,
 
-    - b) krmivo musí byť počas cesty chránené pred vplyvmi počasia, ako aj pred kontamináciou, najmä pred kontamináciou prachom, pohonnými látkami, výfukovým plynom, močom a trusom zvierat,
+      - 5. dĺžke trvania cesty a jej plánovaniu,
 
-    - c) špecifické vybavenie (žľaby, nádrže alebo akékoľvek iné vhodné prostriedky na distribúciu krmiva), ktoré je nevyhnutné požívať na kŕmenie zvierat, prepravované v dopravnom prostriedku musí byť dezinfikované po každej ceste,
+      - 6. dodatočným požiadavkám pri preprave na dlhé vzdialenosti,
 
-    - d) vybavenie používané podľa písmena c) musí byť konštruované tak, aby neporanilo zvieratá a mohlo byť v prípade potreby pripevnené k určitej časti vozidla, aby sa predišlo prevrhnutiu; ak je vozidlo v pohybe a ak sa vybavenie nepoužíva, musí byť skladované v časti dopravného prostriedku oddelenej od zvierat.
+      - 7. hustote nakládky,
 
-  - 3. Prístup
+      - 8. potrebnej sprievodnej dokumentácii a spôsobu jej držania, vypĺňania, predkladania pri kontrole a zasielania,
 
-    - Vozidlá používané na prepravu zvierat musia byť tak vybavené, aby bol kedykoľvek možný prístup k všetkým prepravovaným zvieratám, aby mohli byť skontrolované a mohla im byť poskytnutá primeraná starostlivosť vrátane kŕmenia a napájania.
+    - c) právne predpisy Európskych spoločenstiev týkajúce sa ochrany zvierat počas prepravy.
 
-  - 4. Vetranie
+  - II. Výučba o správaní sa zvierat, fyziologických požiadavkách zvierat so zreteľom na kŕmenie, napájanie a odpočinok vybraného druhu alebo vybraných druhov, podľa zamerania tréningového kurzu alebo školenia
 
-    - a) vozidlo musí byť vybavené primeraným vetracím systémom zabezpečujúcim trvalú pohodu prepravovaných zvierat, pričom sa do úvahy berú tieto kritériá:
+    - a) základné prejavy pohody zvierat a porušenia pohody zvierat,
 
-      - 1. plánovaná cesta a jej trvanie,
+    - b) fyziologické požiadavky na zloženie, množstvo a kvalitu krmiva a intervaly kŕmenia,
 
-      - 2. konštrukcia použitého vozidla (otvorené alebo uzavreté),
+    - c) fyziologické požiadavky na množstvo a kvalitu vody a intervaly napájania,
 
-      - 3. vnútorná teplota a vonkajšia teplota vyplývajúca z poveternostných podmienok, ktoré sa môžu vyskytnúť počas plánovanej cesty,
+    - d) fyziologické požiadavky na dĺžku a intervaly odpočinku.
 
-      - 4. špecifické fyziologické potreby rôznych druhov prepravovaných zvierat,
+  - III. Vysvetlenie rizík prepravy zvierat a pojmu stres
 
-      - 5. hustota naložených zvierat ustanovená v prílohe č. 2 kapitole VI a voľný priestor nad zvieratami,
+    - a) pojem stres a najdôležitejšie stresory v súvislosti s prepravou zvierat,
 
-    - b) vetrací systém musí byť naprojektovaný tak, aby
+    - b) riziko vplyvu mechanických a kinetických faktorov pri preprave,
 
-      - 1. mohol byť použitý kedykoľvek, keď sú zvieratá vo vozidle, nezávisle od toho, či vozidlo stojí alebo je v pohybe,
+    - c) riziko vplyvu klimatických faktorov pri preprave,
 
-      - 2. zabezpečil dostatočnú cirkuláciu neznečisteného vzduchu pri minimálnej výmene vzduchu 10 m<sup>3</sup> za hodinu na každých 100 kg živej hmotnosti prepravovaných zvierat,
+    - d) riziko vplyvu sociálnych faktorov pri preprave,
 
-    - c) na splnenie požiadaviek podľa písmen a) a b) musí prevádzkovateľ bez obmedzenia voľnosti pohybu zvierat zabezpečiť
+    - e) zdravotné riziká pri preprave.
 
-      - 1. nútený ventilačný systém alebo
+  - IV. Vysvetlenie dosahu spôsobu jazdy a manipulácie so zvieratami na ich pohodu, produkciu a reprodukciu a kvalitu mäsa
 
-      - 2. ventilačný systém, ktorý zaručuje, že pre všetky zvieratá umiestnené vo vozidle môže byť udržiavaná teplota v rozpätí od 5 <sup>o</sup>C do 30 <sup>o</sup>C s toleranciou +5 <sup>o</sup>C v závislosti od vonkajšej teploty; tento systém musí byť vybavený vhodným monitorovacím zariadením, ktoré je možné kontrolovať v kabíne z miesta vodiča.
+    - a) dosah spôsobu jazdy a manipulácie so zvieratami na pohodu zvierat počas prepravy,
 
-  - 5. Pohyblivé prepážky
+    - b) dosah spôsobu jazdy a manipulácie so zvieratami na produkciu a reprodukciu zvierat po skončení prepravy,
 
-    - Vozidlo musí byť vybavené prepážkami tak, aby mohli byť vytvorené oddelené priestory. Prepážky musia byť konštruované tak, aby mohli byť umiestnené v rôznych polohách a veľkosť oddelení mohla byť prispôsobená špecifickým požiadavkám, typu, veľkosti a počtu zvierat.
+    - c) dosah spôsobu jazdy a manipulácie so zvieratami na kvalitu mäsa po zabití prepravovaných zvierat.
 
-  - 6. Zásobovanie vodou
+  - V. Praktická príprava manipulácie so zvieratami
 
-    - Vozidlo musí byť vybavené prípojkou na pripojenie na vodný zdroj počas zastávok.
+    - a) nácvik preháňania zvierat,
 
-    - Vozidlo musí byť vybavené pevným alebo prenosným zariadením vhodným pre rôzne druhy zvierat, napríklad žľaby, misy alebo napájačky na napojenie zvierat na palube vozidla. Tieto zariadenia musia byť navrhnuté tak, aby sa zvieratá nemohli poraniť.
+    - b) nácvik nakládky, vykládky a oddeľovania zvierat,
 
-    - Vozidlá prepravujúce ošípané musia byť v závislosti od ich kapacity, počtu prepravovaných zvierat a plánovaných zastávok počas cesty opatrené jedným alebo viacerými zásobníkmi na vodu s dostatočnou kapacitou tak, aby zvieratá mohli počas cesty piť podľa ich chuti. Tieto nádrže musia byť konštruované tak, aby mohli byť vypustené a vyčistené po každej ceste, a musia byť opatrené systémom umožňujúcim kontrolu hladiny vody a doplnenie počas cesty pri každej vhodnej príležitosti. Nádrže musia byť spojené s napájacími zariadeniami vo vnútri oddelení pomocou dobre fungujúceho systému tak, aby ošípané mali možnosť sa kedykoľvek napiť. Navyše s uvedeným systémom sa môže súčasne použiť sprejovací systém na vlhčenie ošípaných.
+    - c) odhad hmotnosti zvierat.
+
+  - VI. Nácvik riešenia kritických situácií
+
+    - a) simulácia poruchy dopravného prostriedku,
+
+    - b) simulácia dopravnej nehody,
+
+    - c) simulácia úhynu, poranenia alebo ochorenia prepravovaného zvieraťa.
