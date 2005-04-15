@@ -28,4 +28,6 @@
 
 - 11b) § 47 ods. 2 písm. d) zákona č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže.
 
-- 12) § 8 a 9 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby.
+- 12) § 51 zákona č. 153/2001 Z. z. o prokuratúre.
+
+- 13) § 91 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
