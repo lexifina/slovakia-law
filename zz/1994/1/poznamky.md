@@ -14,6 +14,8 @@
 
 - 8) § 2 zákona č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov.
 
+- 8a) § 2 ods. 1 zákona č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení zákona č. 542/2004 Z. z.
+
 - 9) Zákon č.61/1977 Zb. o lesoch v znení zákona Národnej rady Slovenskej republiky č.183/1993 Z. z.
 
 - 10) Zákon Slovenskej národnej rady č. 84/1991 Zb. o daňových orgánoch v znení neskorších predpisov.
