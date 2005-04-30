@@ -142,6 +142,10 @@ Dodatok k č. 213/2002 Z. z.
 
   - 2. Ministerstvo zahraničných vecí pre všetky ostatné listiny
 
+    - Cookove ostrovy
+
+    - Ministerstvo zahraničných vecí a imigrácie
+
     - Cyprus
 
     - Ministerstvo spravodlivosti Cyperskej republiky
