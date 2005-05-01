@@ -1,1 +1,0 @@
-Ľudovít Černák v. r.
