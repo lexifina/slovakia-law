@@ -16,7 +16,7 @@
 
 - b) spracúvať nepravdivé osobné údaje; tieto osobné údaje sa musia takto označiť.
 
-(3) Policajný zbor je oprávnený pri spracúvaní osobných údajov pri plnení úloh Policajného zboru v súvislosti s trestným konaním spracúvať osobné údaje, ktoré odhaľujú rasový alebo etnický pôvod, politické názory, náboženskú vieru alebo svetonázor, členstvo v politických stranách alebo politických hnutiach, členstvo v odborových organizáciách a údaje týkajúce sa zdravia alebo pohlavného života (ďalej len „osobitné kategórie osobných údajov"), ak je to vzhľadom na povahu trestného činu nevyhnutné.
+(3) Policajný zbor je oprávnený pri spracúvaní osobných údajov pri plnení úloh Policajného zboru v súvislosti s trestným konaním spracúvať osobné údaje, ktoré odhaľujú rasový alebo etnický pôvod, politické názory, náboženskú vieru alebo svetonázor, členstvo v politických stranách alebo politických hnutiach, členstvo v odborových organizáciách a údaje týkajúce sa zdravia alebo pohlavného života (ďalej len „osobitné kategórie osobných údajov"), ak je to vzhľadom na povahu trestného činu nevyhnutné. Policajný zbor je oprávnený spracúvať osobitné kategórie osobných údajov aj o osobách určitej komunity, ktoré spáchali trestný čin, ak sa hromadne vyskytujú trestné činy páchané osobami tejto komunity.
 
 (4) Policajný zbor je oprávnený spracúvať osobné údaje pri plnení úloh Policajného zboru na účely trestného konania i bez súhlasu osoby, ktorej sa týkajú, pričom je povinný dbať na ochranu jej súkromia. Ak nie je predpoklad ohrozenia plnenia úloh Policajného zboru na účely trestného konania, Policajný zbor zlikviduje osobné údaje; ak také osobné údaje neboli zlikvidované, Policajný zbor dotknutej osobe oznámi, že sa o nej vedú osobné údaje.
 

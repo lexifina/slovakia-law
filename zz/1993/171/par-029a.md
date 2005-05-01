@@ -12,6 +12,6 @@
 
 (3) Pri vykonávaní úkonov podľa odseku 1 je policajt služby finančnej polície a služby kriminálnej polície povinný umožniť prítomnosť dotknutých osôb.
 
-(4) Pri odhaľovaní daňových únikov alebo nezákonných finančných operácií alebo legalizácie príjmov z trestnej činnosti a s nimi súvisiacich trestných činov a ich páchateľov podľa § 2 ods. 1 písm. b) a c) je policajt služby finančnej polície oprávnený písomne žiadať od bánk a pobočiek zahraničných bánk správy, ktoré sa týkajú klientov bánk alebo pobočiek zahraničných bánk, aj keď sú predmetom bankového tajomstva.<sup>11f</sup>)
+(4) Pri odhaľovaní daňových únikov alebo nezákonných finančných operácií alebo legalizácie príjmov z trestnej činnosti a s nimi súvisiacich trestných činov a ich páchateľov podľa § 2 ods. 1 písm. b) a c) je policajt služby finančnej polície a služby kriminálnej polície oprávnený písomne žiadať od bánk a pobočiek zahraničných bánk správy, ktoré sa týkajú klientov bánk alebo pobočiek zahraničných bánk, aj keď sú predmetom bankového tajomstva.<sup>11f</sup>)
 
 (5) Policajti služby finančnej polície uplatňujú oprávnenia pri predchádzaní legalizácii a pri odhaľovaní legalizácie príjmov z trestnej činnosti podľa osobitného predpisu.<sup>11g</sup>)

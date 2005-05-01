@@ -4,4 +4,4 @@
 
 (1) Operatívno-pátracia činnosť je systém spravidla utajených, spravodajských opatrení vykonávaných Policajným zborom na účely predchádzania, zamedzovania, odhaľovania a dokumentovania trestnej činnosti a zisťovania jej páchateľov, zabezpečovania ochrany určených osôb a strážených objektov, technicky chránených objektov, zabezpečovania a poskytovania ochrany a pomoci ohrozenému svedkovi a chránenému svedkovi, ochrany štátnej hranice a vypátrania osôb a vecí.
 
-(2) Operatívno-pátraciu činnosť vykonávajú na to určené služby Policajného zboru, ktoré sú na tento účel oprávnené využiť aj služobného psa na pachové práce.
+(2) Operatívno-pátraciu činnosť vykonávajú na to určené služby Policajného zboru.
