@@ -46,10 +46,6 @@ Príloha č. 5 k nariadeniu vlády č. 743/2004 Z. z.
 
 - - zdravotnícky manažment a financovanie
 
-  - Spoločný špecializačný odbor pre všetky kategórie zdravotníckych pracovníkov s vysokoškolským vzdelaním
+  - Spoločné štúdium pre všetky kategórie zdravotníckych pracovníkov s vysokoškolským vzdelaním
 
-- - verejné zdravotníctvo
-
-  - Spoločné štúdium pre všetky kategórie pracovníkov v zdravotníctve s vysokoškolským vzdelaním
-
-- - verejné zdravotníctvo Master of Public Health
+- - odborník na riadenie vo verejnom zdravotníctve Master of Public Health

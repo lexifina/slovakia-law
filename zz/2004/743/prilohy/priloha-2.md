@@ -108,7 +108,7 @@ Príloha č. 2 k nariadeniu vlády č. 743/2004 Z. z.
 
   - 8. všeobecné lekárstvo
 
-  - d) Špecializačné odbory s minimálnou dĺžkou trvania špecializačného štúdia 3 roky, ktoré možno začať získavať až po dokončení špecializácie v niektorom zo špecializačných odborov uvedených v písmenách a) až c), ak vzorový špecializačný študijný program neurčuje inak (ďalej len „subšpecializácie“), a ktoré členské štáty Európskej únie, Nórsko, Lichtenštajnsko, Island alebo Švajčiarsko neuznávajú automaticky
+  - d) Špecializačné odbory s minimálnou dĺžkou trvania špecializačného štúdia 3 roky, ktoré nie sú členskými štátmi Európskej únie, Nórskom, Lichtenštajnskom, Islandom alebo Švajčiarskom uznávané automaticky
 
   - 1. angiológia
 
@@ -116,121 +116,115 @@ Príloha č. 2 k nariadeniu vlády č. 743/2004 Z. z.
 
   - 3. hepatológia
 
-  - e) Certifikované pracovné činnosti v certifikovaných odboroch s minimálnou dĺžkou trvania certifikačnej prípravy 2 roky
+  - e) Špecializačné odbory s minimálnou dĺžkou trvania špecializačného štúdia 3 roky, ktoré možno začať získavať až po dokončení špecializácie v niektorom zo špecializačných odborov uvedených v písmenách a) až d), ak vzorový špecializačný študijný program neurčuje inak (ďalej len „subšpecializácie"), a ktoré nie sú členskými štátmi Európskej únie, Nórskom, Lichtenštajnskom, Islandom alebo Švajčiarskom uznávané automaticky
 
   - 1. algeziológia
 
   - 2. andrológia
 
-  - 3. dorastové lekárstvo
+  - 3. epidemiológia
 
-  - 4. epidemiológia
+  - 4. foniatria
 
-  - 5. foniatria
+  - 5. gerontopsychiatria
 
-  - 6. gerontopsychiatria
+  - 6. gynekologická sexuológia
 
-  - 7. gynekologická sexuológia
+  - 7. gynekologická urológia
 
-  - 8. gynekologická urológia
+  - 8. hygiena detí a mládeže
 
-  - 9. hygiena detí a mládeže
+  - 9. hygiena výživy
 
-  - 10. hygiena výživy
+  - 10. hygiena životného prostredia
 
-  - 11. hygiena životného prostredia
+  - 11. klinické pracovné lekárstvo a klinická toxikológia
 
-  - 12. klinické pracovné lekárstvo a klinická toxikológia
+  - 12. letecké lekárstvo
 
-  - 13. letecké lekárstvo
+  - 13. mamológia
 
-  - 14. mamológia
+  - 14. materno-fetálna medicína
 
-  - 15. materno-fetálna medicína
+  - 15. medicína drogových závislostí
 
-  - 16. medicína drogových závislostí
+  - 16. medicínska informatika a bioštatistika
 
-  - 17. medicínska informatika a bioštatistika
+  - 17. neonatológia
 
-  - 18. neonatológia
+  - 18. ochrana zdravia pred ionizujúcim žiarením
 
-  - 19. ochrana zdravia pred ionizujúcim žiarením
+  - 19. onkológia v gynekológii
 
-  - 20. onkológia v gynekológii
+  - 20. onkológia v chirurgii
 
-  - 21. onkológia v chirurgii
+  - 21. onkológia v urológii
 
-  - 22. onkológia v urológii
+  - 22. ortopedická protetika
 
-  - 23. ortopedická protetika
+  - 23. paliatívna medicína
 
-  - 24. paliatívna medicína
+  - 24. pediatrická endokrinológia
 
-  - 25. pediatrická endokrinológia
+  - 25. pediatrická gastroenterológia, hepatológia a výživa
 
-  - 26. pediatrická gastroenterológia, hepatológia a výživa
+  - 26. pediatrická gynekológia
 
-  - 27. pediatrická gynekológia
+  - 27. pediatrická hematológia a onkológia
 
-  - 28. pediatrická hematológia a onkológia
+  - 28. pediatrická kardiológia
 
-  - 29. pediatrická kardiológia
+  - 29. pediatrická imunológia a alergiológia
 
-  - 30. pediatrická imunológia a alergiológia
+  - 30. pediatrická anestéziológia
 
-  - 31. pediatrická anestéziológia
+  - 31. pediatrická infektológia
 
-  - 32. pediatrická infektológia
+  - 32. pediatrická intenzívna medicína
 
-  - 33. pediatrická intenzívna medicína
+  - 33. pediatrická nefrológia
 
-  - 34. pediatrická nefrológia
+  - 34. pediatrická neurológia
 
-  - 35. pediatrická neurológia
+  - 35. pediatrická oftalmológia
 
-  - 36. pediatrická oftalmológia
+  - 36. pediatrická ortopédia
 
-  - 37. pediatrická ortopédia
+  - 37. pediatrická otorinolaryngológia
 
-  - 38. pediatrická otorinolaryngológia
+  - 38. pediatrická pneumológia a ftizeológia
 
-  - 39. pediatrická pneumológia a ftizeológia
+  - 39. pediatrická reumatológia
 
-  - 40. pediatrická reumatológia
+  - 40. pediatrická urgentná medicína
 
-  - 41. pediatrická urgentná medicína
+  - 41. pediatrická urológia
 
   - 42. preventívne pracovné lekárstvo a toxikológia
 
-  - 43. primárna starostlivosť o deti a dorast
+  - 43. posudkové lekárstvo
 
-  - 44. posudkové lekárstvo
+  - 44. psychiatrická sexuológia
 
-  - 45. psychiatrická sexuológia
+  - 45. reprodukčná medicína
 
-  - 46. reprodukčná medicína
+  - 46. revízne lekárstvo
 
-  - 47. revízne lekárstvo
+  - 47. súdne lekárstvo
 
-  - 48. súdne lekárstvo
+  - 48. telovýchovné lekárstvo
 
-  - 49. telovýchovné lekárstvo
+  - 49. ultrazvuk v gynekológii a pôrodníctve
 
-  - 50. ultrazvuk v gynekológii a pôrodníctve
+  - 50. výchova k zdraviu
 
-  - 51. výchova k zdraviu
+  - 51. zdravotnícka ekológia
 
-  - 52. závodné zdravotné služby
+  - 52. všeobecná starostlivosť o deti a dorast
 
-  - 53. zdravotnícka ekológia
+  - 53. služby zdravia pri práci
 
-  - 54. pediatrická urológia
-
-  - 55. všeobecná zdravotná starostlivosť o deti a dorast
-
-  - 56. služby zdravia pri práci
-
-  - f) Certifikované pracovné činnosti v certifikovaných metódach
+  - f) Certifikované pracovné činnosti
 
   - 1. abdominálna ultrasonografia u dospelých
 
@@ -264,7 +258,7 @@ Príloha č. 2 k nariadeniu vlády č. 743/2004 Z. z.
 
   - 16. klinické skúšanie liekov
 
-  - 17. mamológia
+  - 17. mamodiagnostika v gynekológii
 
   - 18. mamodiagnostika v rádiológii
 
@@ -286,9 +280,9 @@ Príloha č. 2 k nariadeniu vlády č. 743/2004 Z. z.
 
   - 27. spondylochirurgia
 
-  - 27. vyšetrovacie metódy v genetike
+  - 28. vyšetrovacie metódy v genetike
 
-  - 28. vyšetrovacie metódy v kardiológii
+  - 29. vyšetrovacie metódy v kardiológii
 
   - B. KATEGÓRIA ZUBNÝ LEKÁR
 
@@ -330,7 +324,7 @@ Príloha č. 2 k nariadeniu vlády č. 743/2004 Z. z.
 
   - 3. lekárenstvo
 
-  - b) Subšpecializácie s minimálnou dĺžkou trvania špecializačného štúdia 2 roky, ktoré možno začať získavať až po dokončení špecializácie v niektorom zo špecializačných odborov uvedených v písmene c) a ktoré členské štáty Európskej únie, Nórsko, Lichtenštajnsko, Island alebo Švajčiarsko neuznávajú automaticky
+  - b) Subšpecializácie s minimálnou dĺžkou trvania špecializačného štúdia 2 roky, ktoré možno začať získavať až po dokončení špecializácie v niektorom zo špecializačných odborov uvedených v písmene a) a ktoré členské štáty Európskej únie, Nórsko, Lichtenštajnsko, Island alebo Švajčiarsko neuznávajú automaticky
 
   - 1. klinická farmácia
 

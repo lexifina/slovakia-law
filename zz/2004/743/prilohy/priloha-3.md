@@ -76,7 +76,7 @@ Príloha č. 3 k nariadeniu vlády č. 743/2004 Z. z.
 
   - B. KATEGÓRIA PÔRODNÁ ASISTENTKA
 
-  - a) Špecializačné odbory po získaní vyššieho odborného vzdelania
+  - a) Špecializačné odbory po získaní vysokoškolského bakalárskeho vzdelania alebo po získaní vyššieho odborného vzdelania
 
   - 1. anestéziológia a intenzívna starostlivosť
 
@@ -140,10 +140,6 @@ Príloha č. 3 k nariadeniu vlády č. 743/2004 Z. z.
 
   - 11. vyšetrovacie metódy v genetike
 
-  - Spoločná certifikovaná pracovná činnosť:
-
-- – organizácia a techniky v tkanivových bankách
-
   - d) Špecializačné odbory po získaní úplného stredného odborného vzdelania v odbore farmaceutický laborant
 
   - 1. farmaceutická kontrola
@@ -162,7 +158,7 @@ Príloha č. 3 k nariadeniu vlády č. 743/2004 Z. z.
 
   - D. KATEGÓRIA ASISTENT
 
-  - a) Špecializačné odbory po získaní vysokoškolského vzdelania v odbore verejné zdravotníctvo
+  - a) Špecializačné odbory po získaní vysokoškolského vzdelania v magisterskom štúdiu v odbore verejné zdravotníctvo
 
   - 1. epidemiológia
 
@@ -180,7 +176,7 @@ Príloha č. 3 k nariadeniu vlády č. 743/2004 Z. z.
 
   - 8. zdravotnícka informatika a bioštatistika
 
-  - b) Špecializačné odbory po získaní vyššieho odborného vzdelania v odbore diplomovaný asistent hygieny a epidemiológie
+  - b) Špecializačné odbory po získaní vysokoškolského vzdelania v bakalárskom štúdiu v odbore verejné zdravotníctvo alebo po získaní vyššieho odborného štúdia v odbore diplomovaný asistent hygieny a epidemiológie
 
   - 1. epidemiológia
 
