@@ -1,3 +1,0 @@
-# § 42d
-
-Na úhradu výdavkov orgánu štátneho dozoru odvádza prevádzkovateľ lotérií a iných podobných hier 2 % z výťažku ročne na príjmový rozpočtový účet ministerstva. Prevádzkovateľ odvádza na účet ministerstva preddavky na tieto výdavky mesačne do 25 dní od skončenia kalendárneho mesiaca na základe predbežného mesačného vyúčtovania výťažku podaného v tej istej lehote miestne príslušnému orgánu štátneho dozoru. Do 31. marca prevádzkovateľ vykoná ročné vyúčtovanie za predchádzajúci rok, predloží správu o vyúčtovaní miestne príslušnému orgánu štátneho dozoru a povoľujúcemu orgánu a uhradí rozdiel peňažných prostriedkov vyčíslených pri ročnom vyúčtovaní mesačných preddavkov.
