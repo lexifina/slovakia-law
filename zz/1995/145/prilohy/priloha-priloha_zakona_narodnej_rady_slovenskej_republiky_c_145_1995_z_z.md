@@ -2050,23 +2050,39 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 140
 
-  - a) Vydanie povolenia na prevádzkovanie výherných prístrojov, za každý výherný prístroj ........... | 40 000 Sk
+  - a) udelenie individuálnej licencie na prevádzkovanie týchto hazardných hier: |
 
-  - b) Vydanie rozhodnutia o zmene povolenia na prevádzkovanie lotérií a iných podobných hier podľa zákona Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov ................................................................................................................ | 1 000 Sk
+  - 1. číselné lotérie ................................................................................................................... | 10 000 Sk
 
-  - c) Žiadosť o vydanie povolenia na prevádzkovanie lotérií a iných podobných hier ..................... | 10 000 Sk
+  - 2. okamžité lotérie ................................................................................................................ | 10 000 Sk
 
-  - Poznámka Ak na technickom zariadení ako celku môže hrať súčasne viac hráčov, považuje sa každé samostatné hracie miesto (hrací modul) za jeden výherný prístroj. |
+  - 3. výherné prístroje, za každý výherný prístroj .................................................................. | 45 000 Sk
+
+  - 4. stávkové hry okrem kurzových stávok ............................................................................ | 10 000 Sk
+
+  - 5. žrebové peňažné lotérie alebo žrebové peňažno-vecné lotérie ............................... | 10 000 Sk
+
+  - 6. kurzové stávky .................................................................................................................... | 100 000 Sk
+
+  - 7. hazardné hry v kasíne ...................................................................................................... | 1 000 000 Sk
+
+  - 8. bingo vrátane špeciálneho binga .................................................................................. | 100 000 Sk
+
+  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ............................................................................... | 100 000 Sk
+
+  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..................................... | 100 000 Sk
+
+  - b) oznámenie prevádzkovateľa žrebovej vecnej lotérie alebo tomboly ............................ | 1 000 Sk
+
+  - c) zmena licencie na základe oznámenia alebo požiadania prevádzkovateľa hazardnej hry pri všetkých hazardných hrách ........................................................................ | 1 000 Sk
+
+  - d) vydanie identifikačnej karty výherného prístroja ............................................................... | 500 Sk
+
+  - e) vydanie identifikačnej karty výherného prístroja ako náhrady za stratenú, zničenú, poškodenú alebo odcudzenú identifikačnú kartu ................................................................ | 500 Sk
 
     - Položka 141
 
-  - a) Vydanie oprávnenia na prijímanie kurzových stávok v stávkových kanceláriách .................... | 1 000 Sk
-
-  - b) Predĺženie platnosti oprávnenia podľa písmena a) .................................................................... | 500 Sk
-
-  - c) Vydanie identifikačnej karty výherného prístroja ............................................................................ | 500 Sk
-
-  - d) Vydanie identifikačnej karty výherného prístroja ako náhradu za stratenú, zničenú, poškodenú alebo odcudzenú kartu ...................................................................................................... | 500 Sk
+  - Vydanie poverenia na odborné posudzovanie podľa zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov .................................................................................................... | 50 000 Sk
 
     - Položka 142
 
