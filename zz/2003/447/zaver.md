@@ -1,1 +1,0 @@
-Pál Csáky v. r.
