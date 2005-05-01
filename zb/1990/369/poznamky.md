@@ -106,6 +106,8 @@
 
 - 18a) Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
+- 18aa) Napríklad zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
+
 - 18b) § 7 ods. 2 Občianskeho zákonníka.
 
 - § 3 zákona Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
