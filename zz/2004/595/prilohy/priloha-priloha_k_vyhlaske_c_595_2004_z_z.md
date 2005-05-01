@@ -1,1 +1,1 @@
-Príloha k vyhláške č. 595/2004 Z. z. [VZOR](../assets/0b416df9a3b8aa99db5e49602534c3b2918c159bf468067e412499e40056d4d1.pdf)
+Príloha k vyhláške č. 595/2004 Z. z. [Vzor](../assets/9df4d916c7c035d0014fb6e6c185cae6a2626cffd71ad428d7d3b629a8a519eb.pdf)
