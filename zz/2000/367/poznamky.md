@@ -28,7 +28,7 @@
 
 - 14) § 2 ods. 2 zákona č. 513/1991 Zb. Obchodného zákonníka.Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 15) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
+- 15) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 15a) Napríklad zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení zákona č. 302/1999 Z. z., zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
