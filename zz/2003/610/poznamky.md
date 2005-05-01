@@ -58,9 +58,7 @@
 
 - 24) § 17 zákona č. 431/2002 Z. z. o účtovníctve.
 
-- 25) § 2 zákona č. 166/2003 Z. z.
-
-- § 88 zákona č. 141/1961 Zb.
+- 25) Zákon č. 166/2003 Z. z.§ 88 ods. 9 a 10 Trestného poriadku.
 
 - 26) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
