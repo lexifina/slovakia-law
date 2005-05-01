@@ -20,4 +20,6 @@ Príloha k zákonu č. 48/2002 Z. z. v znení neskorších predpisov
 
 - 9. Smernica Rady Európskych spoločenstiev č. 93/96/EHS z 29. októbra 1993 o práve pobytu pre študentov, Ú. v. ES, L 317, uverejnená 18. decembra 1993, s. 0059 – 0060.
 
+- 10. Smernica Rady č. 2001/51/ES z 28. júna 2001 doplňujúca ustanovenia článku 26 Dohovoru vykonávajúceho Schengenskú dohodu zo 14. júna 1985, Ú. v. ES L 187, uverejnená 10. júla 2001, s. 0045 – 0046.
+
 - (2) Preklad týchto právnych aktov sa nachádza v Centrálnej prekladateľskej jednotke sekcie Inštitút pre aproximáciu práva Úradu vlády Slovenskej republiky.

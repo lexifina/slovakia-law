@@ -2,6 +2,8 @@
 
 - 2) § 57 Trestného zákona v znení neskorších predpisov.
 
+- 2a) § 2 ods. 1 zákona č. 298/1999 Z. z. o správe štátnych hraníc v znení zákona č. 515/2003 Z. z.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 4) § 69 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
