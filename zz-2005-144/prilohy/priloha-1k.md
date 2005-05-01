@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 144/2005 Z. z.
+
+- OCHRANNÉ PÁSMO I. STUPŇA ZDROJA PRÍRODNEJ MINERÁLNEJ VODY V LEGNAVE ![Obrázek 01](../assets/00443f489729c9af14e3d564894e6a347cdccb35d918fbc8c474b366732a7916.png)
