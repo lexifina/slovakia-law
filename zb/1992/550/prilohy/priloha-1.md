@@ -14,9 +14,13 @@
 
     - Článok 1
 
-      - 1. Zmluvné strany sa zaväzujú poskytovať si v súlade s ustanoveniami tohto dohovoru čo najširšiu vzájomnú pomoc v konaniach o trestných činoch, ktorých potrestanie v čase, keď sa o pomoc žiada, patrí do právomoci justičných orgánov dožadujúcej strany.
+      - (1) Zmluvné strany sa zaväzujú poskytovať si v súlade s ustanoveniami tohto dohovoru čo najširšiu vzájomnú pomoc v konaniach o trestných činoch, ktorých potrestanie patrí v čase podania žiadosti o právnu pomoc do právomoci justičných orgánov dožadujúcej zmluvnej strany.
 
-      - 2. Tento dohovor sa nevzťahuje na zatknutie, výkon rozsudku alebo na trestné činy vojenské, ktoré nie sú trestné podľa všeobecného trestného práva.
+      - (2) Tento dohovor sa neuplatní na zatknutie, výkon rozsudku alebo trestné činy vojenské, ktoré nie sú trestné podľa všeobecného trestného práva.
+
+      - (3) Vzájomná pomoc sa môže poskytnúť aj v konaniach, ktoré začali správne orgány o skutkoch, ktoré možno potrestať podľa vnútroštátneho právneho poriadku dožadujúcej alebo dožiadanej zmluvnej strany z dôvodu, že sú porušením právnych noriem, ak rozhodnutie môže viesť ku konaniu pred súdom, ktorý je príslušný rozhodovať predovšetkým v trestných veciach.
+
+      - (4) Vzájomná pomoc sa nesmie odmietnuť výlučne z dôvodu, že sa týka skutkov, ktoré môžu zakladať zodpovednosť právnickej osoby v dožadujúcej zmluvnej strane.
 
     - Článok 2 Pomoc možno odmietnuť:
 
@@ -36,7 +40,9 @@
 
     - Článok 4
 
-      - Dožiadaná strana oznámi, ak o to požiada výslovne dožadujúca strana, dátum a miesto, kde sa dožiadanie vykoná. Orgány a zúčastnené osoby môžu byť prítomné, pokiaľ s tým dožiadaná strana súhlasí.
+      - (1) Dožiadaná strana oznámi, ak o to požiada výslovne dožadujúca strana, dátum a miesto, kde sa dožiadanie vykoná. Orgány a zúčastnené osoby môžu byť prítomné, pokiaľ s tým dožiadaná strana súhlasí.
+
+      - (2) Žiadosti o povolenie účasti zástupcov orgánov alebo zúčastnených osôb by sa nemali zamietnuť, ak je predpoklad, že v dôsledku ich účasti bude výsledok vybavenia dožiadania lepšie vyhovovať potrebám dožadujúcej zmluvnej strany, a tak sa vylúči potreba doplňujúcich dožiadaní.
 
     - Článok 5
 
@@ -90,23 +96,21 @@
 
     - Článok 11
 
-      - 1. Osoba vo väzbe alebo vo výkone trestu odňatia slobody, ktorej osobnú účasť ako svedka alebo na účely konfrontácie vyžaduje dožadujúca strana, bude dočasne odovzdaná na územie, kde sa má vykonať výsluch, za podmienky, že bude vrátená v lehote určenej dožiadanou stranou a za podmienok uvedených v ustanoveniach článku 12, pokiaľ sú použiteľné.
+      - (1) Osoba vo väzbe alebo vo výkone trestu odňatia slobody, o ktorej osobnú účasť na účely dokazovania, nie však jej trestného stíhania, požiada dožadujúca zmluvná strana, sa dočasne odovzdá na jej územie za podmienky, že sa vráti v lehote určenej dožiadanou zmluvnou stranou, a za podmienok uvedených v ustanoveniach článku 12 dohovoru v rozsahu, v akom sú použiteľné.
 
-      - Odovzdanie možno odmietnuť, pokiaľ:
+      - Odovzdanie možno odmietnuť, ak
 
-        - a) osoba, ktorá je vo väzbe alebo vo výkone trestu odňatia slobody, nebude súhlasiť;
+        - a) osoba, ktorá je vo väzbe alebo vo výkone trestu odňatia slobody, s tým nesúhlasí,
 
-        - b) je jej prítomnosť potrebná pre trestné stíhanie, ktoré prebieha na území dožiadanej zmluvnej strany;
+        - b) je jej prítomnosť potrebná v trestnom konaní na území dožiadanej zmluvnej strany,
 
-        - c) odovzdanie by mohlo predĺžiť jej väzbu alebo trest, alebo
+        - c) odovzdanie by mohlo predĺžiť dobu jej väzby alebo výkonu trestu odňatia slobody, alebo
 
-        - d) sú iné dôvody prevažujúce nad jej odovzdaním na územie dožadujúcej strany.
+        - d) existujú iné dôvody prevažujúce nad jej odovzdaním na územie dožadujúcej zmluvnej strany.
 
-      - 2. V prípadoch, ktoré sú uvedené v predchádzajúcom odseku a za podmienok ustanovenia článku 2 sa povolí prevoz osoby vo väzbe alebo vo výkone trestu odňatia slobody cez územie tretieho štátu, ktorý je stranou tohto dohovoru, na žiadosť, ku ktorej sa pripoja všetky potrebné doklady a ktorú zašle ministerstvo spravodlivosti dožadujúcej strany ministerstvu spravodlivosti strany, cez ktorej územie sa prevoz žiada.
+      - (2) Za podmienok uvedených v článku 2 dohovoru sa v prípadoch uvedených v odseku 1 povolí prevoz osoby vo väzbe alebo vo výkone trestu odňatia slobody cez územie tretieho štátu, ktorý je zmluvnou stranou tohto dohovoru, na žiadosť ministerstva spravodlivosti dožadujúcej zmluvnej strany, ku ktorej sa pripoja všetky potrebné doklady a ktorá sa zašle ministerstvu spravodlivosti zmluvnej strany, cez ktorej územie sa prevoz žiada. Zmluvná strana môže odmietnuť povolenie na prevoz svojich štátnych občanov.
 
-      - Zmluvná strana môže odmietnuť povolenie prevozu svojich občanov.
-
-      - 3. Odovzdaná osoba zostane vo väzbe na území dožadujúcej strany a tam, kde to prichádza do úvahy, aj na území strany, kde sa žiada o prevoz, pokiaľ strana, u ktorej sa žiada o odovzdanie, nepožiada o jej prepustenie.
+      - (3) Odovzdaná osoba sa na území dožadujúcej zmluvnej strany, ako aj na území zmluvnej strany, cez ktorej územie sa uskutoční prevoz, ak je prevoz potrebný, bude držať vo väzbe, ak zmluvná strana, u ktorej sa žiada o odovzdanie, nepožiada o jej prepustenie.
 
     - Článok 12
 
@@ -142,19 +146,33 @@
 
     - Článok 15
 
-      - 1. Dožiadania uvedené v článkoch 3, 4 a 5 rovnako ako žiadosti uvedené v čl. 11 zašle ministerstvo spravodlivosti dožadujúcej strany ministerstvu spravodlivosti dožiadanej strany a ich vybavenie sa zašle rovnakým spôsobom.
+      - (1) Žiadosti o právnu pomoc, ako aj spontánne informácie zašle v písomnej forme ministerstvo spravodlivosti dožadujúcej zmluvnej strany ministerstvu spravodlivosti dožiadanej zmluvnej strany a ich vybavenie sa zašle rovnakým spôsobom. Žiadosti však môžu zaslať justičné orgány dožadujúcej zmluvnej strany priamo justičným orgánom dožiadanej zmluvnej strany a ich vybavenie sa zašle rovnakým spôsobom.
 
-      - 2. V naliehavých prípadoch môžu dožiadanie zaslať priamo justičné orgány dožadujúcej strany justičným orgánom dožiadanej strany. Vybavenie spolu s príslušnými dokladmi sa zašle spôsobom uvedeným v odseku 1 tohto článku.
+      - (2) Žiadosti podľa článku 11 tohto dohovoru a článku 13 jeho druhého dodatkového protokolu zašle vždy ministerstvo spravodlivosti dožadujúcej zmluvnej strany ministerstvu spravodlivosti dožiadanej zmluvnej strany a ich vybavenie sa zašle rovnakým spôsobom.
 
-      - 3. Žiadosti uvedené v článku 13 ods. 1 môžu zaslať priamo príslušné justičné orgány príslušným úradom dožiadanej strany. Vybavenie môžu zaslať priamo tieto úrady. Žiadosti uvedené v čl. 13 ods. 2 bude zasielať ministerstvo spravodlivosti dožadujúcej strany ministerstvu spravodlivosti dožiadanej strany.
+      - (3) Žiadosti o právnu pomoc v konaniach podľa článku 1 ods. 3 tohto dohovoru môžu tiež zaslať správne alebo justičné orgány dožadujúcej zmluvnej strany priamo, podľa okolností veci, správnym alebo justičným orgánom dožiadanej zmluvnej strany a ich vybavenie sa zašle rovnakým spôsobom.
 
-      - 4. Iné žiadosti o vzájomnú pomoc než tie, ktoré sú uvedené v odsekoch 1 a 3 tohto článku, osobitne žiadosti o vyšetrovanie, ktoré predchádza trestnému stíhaniu, si môžu zasielať priamo justičné orgány.
+      - (4) Žiadosti o právnu pomoc podľa článkov 18 a 19 druhého dodatkového protokolu k dohovoru môžu tiež zaslať príslušné orgány dožadujúcej zmluvnej strany priamo príslušným orgánom dožiadanej zmluvnej strany.
 
-      - 5. V tých prípadoch, keď je dovolený priamy styk podľa tohto dohovoru, možno ho uskutočňovať prostredníctvom Medzinárodnej organizácie trestnej polície (INTERPOL).
+      - (5) Žiadosti podľa článku 13 ods. 1 tohto dohovoru môžu zaslať príslušné justičné orgány priamo príslušným úradom dožiadanej zmluvnej strany a ich vybavenie môžu zaslať priamo tieto úrady. Žiadosti podľa článku 13 ods. 2 tohto dohovoru zasiela ministerstvo spravodlivosti dožadujúcej zmluvnej strany ministerstvu spravodlivosti dožiadanej zmluvnej strany.
 
-      - 6. Zmluvná strana môže pri podpise tohto dohovoru, uložení svojej ratifikačnej listiny alebo listiny o prístupe vyhlásením adresovaným generálnemu tajomníkovi Rady Európy oznámiť, že niektoré alebo všetky žiadosti o pomoc sa jej musia zasielať iným spôsobom, než ako je uvedené v tomto článku, alebo požiadať, aby v prípadoch uvedených v odseku 2 tohto článku bola kópia dožiadania zaslaná súčasne jej ministerstvu spravodlivosti.
+      - (6) Žiadosti o odpisy odsúdení a opatrení podľa článku 4 dodatkového protokolu k dohovoru sa môžu zaslať priamo príslušným orgánom. Každá zmluvná strana môže kedykoľvek vyhlásením zaslaným generálnemu tajomníkovi Rady Európy určiť, ktoré orgány považuje za príslušné na účely tohto odseku.
 
-      - 7. Ustanovenia tohto článku sa nedotýka dvojstranných dohôd alebo dojednaní, ktoré platia medzi zmluvnými stranami a ustanovujú priame zasielanie žiadostí o pomoc medzi ich úradmi.
+      - (7) V prípadoch, keď je dovolený priamy styk podľa tohto dohovoru, možno ho v naliehavých prípadoch uskutočňovať prostredníctvom Medzinárodnej organizácie kriminálnej polície (Interpol).
+
+      - (8) Každá zmluvná strana si môže kedykoľvek vyhlásením adresovaným generálnemu tajomníkovi Rady Európy vyhradiť, že žiadosti o právnu pomoc alebo určité z nich vybaví len pri splnení jednej alebo viacerých z ďalej uvedených podmienok:
+
+        - a) kópia žiadosti sa zašle ústrednému orgánu určenému v tomto vyhlásení,
+
+        - b) žiadosti okrem naliehavých žiadostí sa musia zasielať ústrednému orgánu určenému v tomto vyhlásení,
+
+        - c) v prípade zaslania žiadosti v priamom styku z dôvodu jej naliehavosti sa súčasne musí zaslať jej kópia aj jej ministerstvu spravodlivosti,
+
+        - d) niektoré alebo všetky žiadosti o právnu pomoc sa majú zasielať inými spôsobmi, než aké sú uvedené v tomto článku.
+
+      - (9) Žiadosti o právnu pomoc a iná korešpondencia podľa tohto dohovoru alebo jeho protokolov sa môžu zasielať akýmkoľvek elektronickým alebo iným spôsobom telekomunikácie za predpokladu, že dožadujúca zmluvná strana je spôsobilá kedykoľvek na žiadosť predložiť ju v písomnej podobe a jej originál. Každá zmluvná strana však môže kedykoľvek vyhlásením zaslaným generálnemu tajomníkovi Rady Európy určiť podmienky, za ktorých je ochotná prijať a vybaviť žiadosti o právnu pomoc zaslané elektronickým alebo iným spôsobom telekomunikácie.
+
+      - (10) Ustanovenia tohto článku nemajú vplyv na ustanovenia platných dvojstranných zmlúv alebo dohôd medzi zmluvnými stranami, ktoré upravujú priame zasielanie žiadostí o právnu pomoc medzi ich orgánmi.
 
     - Článok 16
 
@@ -178,7 +196,19 @@
 
     - Článok 20
 
-      - S výhradou ustanovenia článku 10 ods. 3 vybavenie žiadosti o vzájomnú pomoc nezakladá nárok na náhradu výdavkov okrem tých, ktoré súvisia s prítomnosťou znalcov na území dožiadanej strany alebo odovzdaním osoby, ktorá je vo väzbe, ktorá sa vykonáva podľa článku 11.
+      - (1) Zmluvné strany nebudú žiadať navzájom náhradu žiadnych nákladov, ktoré vznikli uplatňovaním tohto dohovoru alebo jeho protokolov, s výnimkou
+
+        - a) nákladov, ktoré vznikli účasťou znalcov na území dožiadanej zmluvnej strany,
+
+        - b) nákladov, ktoré vznikli odovzdaním osoby vo väzbe alebo vo výkone trestu odňatia slobody podľa článkov 13 alebo 14 druhého dodatkového protokolu k dohovoru alebo článku 11 dohovoru,
+
+        - c) náklady rozsiahlej alebo mimoriadnej povahy.
+
+      - (2) Náklady zriadenia telefonického spojenia alebo videospojenia, náklady súvisiace s prevádzkou takého telefonického spojenia alebo videospojenia na území dožiadanej zmluvnej strany, odmena poskytnutá tlmočníkom a odmeny svedkov a ich cestovné náklady na území dožiadanej zmluvnej strany však nahradí dožadujúca zmluvná strana, ak sa zmluvné strany nedohodnú inak.
+
+      - (3) Zmluvné strany navzájom konzultujú spôsob úhrady nákladov podľa odseku 1 písm. c).
+
+      - (4) Ustanovenia tohto článku nemajú vplyv na ustanovenia článku 10 ods. 3 dohovoru.
 
   - HLAVA VI Trestné oznámenie
 
@@ -208,7 +238,7 @@
 
     - Článok 24
 
-      - Zmluvná strana môže pri podpise dohovoru alebo pri uložení svojej ratifikačnej listiny alebo listiny o prístupe vo vyhlásení zaslanom generálnemu tajomníkovi Rady Európy určiť, ktoré orgány bude na účely tohto dohovoru považovať za justičné orgány.
+      - Každý štát pri podpise alebo pri uložení svojej ratifikačnej listiny alebo listiny o prijatí, schválení alebo prístupe vyhlásením zaslaným generálnemu tajomníkovi Rady Európy určí, ktoré orgány bude na účely dohovoru považovať za justičné orgány. Následne môže kedykoľvek rovnakým spôsobom zmeniť obsah svojho vyhlásenia.
 
     - Článok 25
 
