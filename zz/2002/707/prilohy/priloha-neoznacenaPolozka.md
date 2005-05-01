@@ -1,5 +1,0 @@
-Príloha č. 3 k nariadeniu vlády č. 707/2002 Z. z.
-
-ZOZNAM PODĽA REZOLÚCIE BEZPEČNOSTNEJ RADY ORGANIZÁCIE SPOJENÝCH NÁRODOV č. 1343 (2001) UPRAVENEJ REZOLÚCIOU BEZPEČNOSTNEJ RADY ORGANIZÁCIE SPOJENÝCH NÁRODOV č. 1521 (2003)
-
-Sankcionované územie: územie Libérijskej republiky
