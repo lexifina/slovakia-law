@@ -1,1 +1,0 @@
-- 1) Napríklad Ženevské dohody z 12. augusta 1949 v znení dodatkových protokolov k týmto dohovorom z 8. júna 1977.
