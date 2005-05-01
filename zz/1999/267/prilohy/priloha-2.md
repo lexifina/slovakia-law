@@ -1,1 +1,0 @@
-Príloha č. 2 k vyhláške č. 267/1999 Z. z. [Žiadosť o pripojenie na verejný rozvod elektriny nového odberného miesta - o zvýšenie rezervovaného odberu odberateľa kategórie C a D](../assets/66f24fab2a810cdd10be289fe18163ea057d4dccd18d2cc16a0d6d7329f9c300.pdf)
