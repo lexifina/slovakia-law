@@ -1,3 +1,3 @@
 Príloha č. 13 k vyhláške č. 210/2000 Z. z.
 
-- PLYNOMERY [Príloha 13](../assets/423f541803aea846361afb20ab774ff4ad57df0d8881e37a9acd444fc0e66144.pdf)
+- PLYNOMERY [Príloha 13](../assets/7bcb701e62d941402d20bd88fba85c6e2471e25a002154b90016ea123f4cc2b6.pdf)

@@ -1,3 +1,3 @@
 Príloha č. 24 k vyhláške č. 210/2000 Z. z.
 
-- OBJEMOVÉ MERADLÁ NA LIEH [Príloha 24](../assets/4ec94a6409d0aadd67246e752241b4e967ee4a853bbb7113bdd596b114a3c811.pdf)
+- OBJEMOVÉ MERADLÁ NA LIEH [Príloha 24](../assets/3afc96f13394a72f48e36256f0b63d6ae610475ffdbfb05c1e1772f3fd3855e0.pdf)

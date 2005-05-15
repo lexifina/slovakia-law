@@ -1,3 +1,3 @@
 Príloha č. 5 k vyhláške č. 210/2000 Z. z.
 
-- VZOR PREUKAZU INŠPEKTORA [Príloha 05](../assets/2bc6d1e7bb45aa184427146cf713bf3ea2399488c7c32f9d14aff9106a63ed59.pdf)
+- VZOR PREUKAZU ZAMESTNANCOV VYKONÁVAJÚCICH METROLOGICKÝ DOZOR [Príloha č. 5 k vyhláške č. 210/2000 Z. z.](../assets/0edde6c81cf2f1f720569f76aa6754561c2f719584090d43c5b3c0342859c5b0.pdf)

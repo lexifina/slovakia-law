@@ -1,3 +1,3 @@
 Príloha č. 38 k vyhláške č. 210/2000 Z. z.
 
-- SKLENÉ TEPLOMERY [Príloha 38](../assets/9a7ba33d4a0fbedc7bf230557099a62bd31a0926961ddd2c77d126e1d0f58c52.pdf)
+- SKLENÉ TEPLOMERY [Príloha č. 38 k vyhláške č. 210/2000 Z. z.](../assets/2da9c74368c75b76d85ed9d723a2057fcda10e2b77626205fed59c7b310d1dae.pdf)

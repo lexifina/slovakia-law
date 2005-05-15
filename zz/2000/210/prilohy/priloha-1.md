@@ -150,7 +150,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 2.2 Mechanický pohyb
 
-    - 2.2.1 | Cestné radarové rýchlomery používané políciou pri kontrole dodržiavania pravidiel cestnej premávky<sup>3</sup>) | áno | áno | 1 rok | 31
+    - 2.2.1 | Cestné rýchlomery používané políciou pri kontrole dodržiavania pravidiel cestnej premávky<sup>3</sup>) | áno | áno | 1 rok | 31
 
     - 2.2.2 | Tachografy mechanické a elektronické pre cestné vozidlá<sup>2</sup>),<sup>3</sup>),<sup>5</sup>) | áno | áno | 2 roky | 62
 
@@ -180,7 +180,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 2.4.5 | Napínacie zariadenia na predpätý betón<sup>3</sup>) | nie | áno | 1 rok | 60
 
-    - 2.4.6 | Momentové kľúče<sup>3</sup>) | nie | áno | 1 rok | 59
+    - 2.4.6 | Momentové kľúče | nie | áno | 1 rok | 59
 
   - 3. TEPELNOTECHNICKÉ VELIČINY
 

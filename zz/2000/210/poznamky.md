@@ -8,6 +8,10 @@
 
 - 5) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 6) STN EN ISO/IEC 17025 Všeobecné požiadavky na spôsobilosť skúšobných a kalibračných laboratórií.
+
+- 6) Smernica Európskeho parlamentu a Rady 98/34/ES o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v platnom znení (Ú. v. ES L 204, 21. 7. 1998).
+
 - 1) Ak pri schválení typu meradla alebo pri certifikácii typu meradla nebol určený iný čas platnosti overenia.
 
 - 2) Meradlá používané pri meraniach súvisiacich s platbami a/alebo pri príprave spotrebiteľsky balených výrobkov.
