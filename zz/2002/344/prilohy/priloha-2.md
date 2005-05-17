@@ -24,6 +24,22 @@
 
   - b) Monako pri podpise a uložení ratifikačnej listiny vyhlásenia ani výhrady neurobilo.
 
+  - b/ Monacké kniežatstvo určilo ako ústredný orgán podľa čl. 29 a príslušný orgán podľa čl. 44:
+
+  - Direction des Services Judiciaires
+
+  - Palais de Justice
+
+  - 5, Rue Colonel Bellando de Castro
+
+  - 98000 MONACO
+
+  - Tel: +377 93 15 84 30 alebo +377 93 15 83 66
+
+  - Fax: +377 93 15 85 89
+
+  - e-mail: sminazzolli@gouv.mc
+
   - 3. Slovenská republika
 
   - a) Dohovor pre Slovenskú republiku nadobudol platnosť 1. januára 2002.
@@ -133,6 +149,8 @@
   - 2. Podľa článku 34 ods. 2 dohovoru Estónska republika oznamuje, že žiadosti podľa odseku 1 tohto článku sa orgánom Estónskej republiky smú zasielať len prostredníctvom jej ústredného orgánu.
 
   - Podľa článku 60 ods. 1 dohovoru Estónska republika uplatňuje výhradu k článku 54, že každá písomnosť zasielaná ústrednému orgánu Estónskej republiky má byť v pôvodnom jazyku s pripojeným prekladom do anglického jazyka.
+
+  - 3. Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na uplatnenie jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom je uznateľné a vykonateľné v Estónskej republike použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
 
   - Austrálsky zväz
 
