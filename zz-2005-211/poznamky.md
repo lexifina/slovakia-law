@@ -1,0 +1,1 @@
+- 1) Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 582/2003 Z. z.
