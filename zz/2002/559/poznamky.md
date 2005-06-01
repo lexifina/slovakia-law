@@ -8,7 +8,15 @@
 
 - 5) § 2 ods. 13 zákona č. 429/2002 Z. z. o burze cenných papierov.
 
+- 5a) § 2 písm. s) opatrenia Národnej banky Slovenska zo 16. januára 2004 č. 4/2004 o primeranosti vlastných zdrojov financovania bánk (oznámenie č. 36/2004 Z. z.).
+
 - 6) § 8 písm. c) zákona č. 566/2001 Z. z.
+
+- 6a) § 4 ods. 1 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6b) § 11 ods. 1 zákona č. 95/2002 Z. z.
+
+- 6c) § 43 ods. 5 písm. i) zákona č. 95/2002 Z. z. v znení neskorších predpisov.
 
 - 7) § 2 písm. j) opatrenia č. 6/2002 (oznámenie č. 695/2002 Z. z.).
 
@@ -16,7 +24,7 @@
 
 - 9) Vyhláška Ministerstva financií Slovenskej republiky č. 558/2002 Z. z., ktorou sa ustanovuje rozsah, spôsob a termíny predkladania výkazov, hlásení alebo prehľadov z účtovnej evidencie a štatistickej evidencie a ustanovuje obsah, forma, členenie, termíny, spôsob a miesto predkladania výkazov, hlásení a iných správ obchodníka s cennými papiermi a zahraničného obchodníka s cennými papiermi.
 
-- 10) Opatrenie Ministerstva financií Slovenskej republiky z 22. decembra 1993 č. 65/393/1993, ktorým sa ustanovuje zostavenie konsolidovanej účtovnej závierky (oznámenie č. 8/1994 Z. z.).
+- 10) § 22 ods. 1 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2003 Z. z.
 
 - 10a) Opatrenie č. 6/2002 (oznámenie č. 695/2002 Z. z.).
 
