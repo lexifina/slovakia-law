@@ -44,4 +44,4 @@
 
 - 1) § 12 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 436/2001 Z. z.
 
-- Opatrenie Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 509/2003 Z. z. o zaradení výrobkov medzi určené výrobky.
+- Opatrenie Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 590/2004 Z. z. o zaradení výrobkov medzi určené výrobky.

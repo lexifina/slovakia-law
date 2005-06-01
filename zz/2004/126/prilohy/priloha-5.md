@@ -28,7 +28,7 @@ Príloha č. 5 k vyhláške č. 126/2004 Z. z.
 
   - c) spracovanie starých vozidiel,
 
-  - d) zhodnocovanie alebo zneškodňovanie odpadov zo svetelných zdrojov s obsahom ortuti.
+  - d) spracovanie odpadu z elektrických a elektronických zariadení.
 
   - 10. vyhodnotenie stavu plnenia technických požiadaviek, ako aj požiadaviek a podmienok ustanovených v rozhodnutí o udelení autorizácie podľa § 13 ods. 3 zákona,
 
@@ -63,3 +63,5 @@ Príloha č. 5 k vyhláške č. 126/2004 Z. z.
   - 10. povolenia ministerstva na dovoz nebezpečného odpadu na územie Slovenskej republiky podľa § 68 ods. 2 písm. c) zákona,
 
   - 11. vyjadrenia k dokumentácii alebo plánu likvidácie banských diel a lomov a k plánu likvidácie starých banských diel podľa § 16 písm. e) zákona,
+
+  - 12. súhlasu na zber alebo spracovanie odpadu z elektrických a elektronických zariadení podľa § 7 ods. 1 písm. r) zákona,
