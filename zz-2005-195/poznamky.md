@@ -1,0 +1,1 @@
+- 1) Čl. 3.6, STN EN ISO 3744 Akustika. Určenie hladín akustického výkonu zdrojov hluku pomocou akustického tlaku. Technická metóda merania v prevažujúcom voľnom zvukovom poli nad rovinou odrážajúcou zvuk (01 1604).
