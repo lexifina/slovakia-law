@@ -6,6 +6,8 @@
 
 - 3) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 3a) § 12, 168 a 169 Trestného poriadku.
+
 - 4) § 89 ods. 5 Trestného zákona.
 
 - 5) § 89 ods. 8 Trestného zákona.
@@ -13,6 +15,8 @@
 - § 68 ods. 4 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov.Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
+- 6a) § 90 ods. 3 a § 98 Trestného poriadku.
 
 - 7) § 116 Občianskeho zákonníka.
 
@@ -22,7 +26,7 @@
 
 - 8) § 742 Občianskeho zákonníka.
 
-- 9) Zákon č. 174/1950 Zb. o dražbách mimo exekúcie v znení zákona č. 513/1991 Zb.
+- 9) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 10) § 2 Obchodného zákonníka.
 
@@ -58,28 +62,28 @@
 
 - 27) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 28) § 4 ods. 1 písm. g) zákona č. 428/2002 Z. z.
-
 - 29) § 24 zákona Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení zákona č. 319/1999 Z. z.
 
 - 30) § 8 zákona č. 428/2002 Z. z.
 
 - 31) § 11 a 12 Trestného zákona v znení neskorších predpisov.
 
-- 32) § 4 ods. 2 zákona č. 428/2002 Z. z.
+- 32) § 4 ods. 2 a 3 zákona č. 428/2002 Z. z.
 
 - 33) Napríklad zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov a zákon č. 381/1997 Z. z. v znení neskorších predpisov.
 
-- 34) § 5 ods. 3 zákona č. 195/2000 Z. z. o telekomunikáciách.
+- 34) § 5 ods. 2 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
 - 35) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov v znení zákona č. 441/2001 Z. z.
 
-- 36) § 2 zákona č. 195/2000 Z. z.
+- 36) § 2 zákona č. 610/2003 Z. z.
 
-- 37) § 5 ods. 1 zákona č. 195/2000 Z. z.
+- 37) § 5 a § 55 ods. 1 písm. b) a c) zákona č. 610/2003 Z. z.
 
-- 38) § 9 ods. 3 písm. b) zákona č. 195/2000 Z. z.
+- 38) § 55 ods. 6 písm. b) zákona č. 610/2003 Z. z.
 
-- 39) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+- 39) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 40) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- 41) § 18 ods. 4 zákona č. 215/2004 Z. z.
