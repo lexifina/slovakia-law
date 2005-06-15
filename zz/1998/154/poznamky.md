@@ -1,1 +1,0 @@
-- 1) § 2 písm. f) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 150/1998 Z. z. o preskúšavaní a zatrieďovaní vína a o štátnej kontrolnej známke v znení vyhlášky č. 42/2003 Z. z.
