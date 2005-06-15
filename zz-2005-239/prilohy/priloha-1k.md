@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 239/2005 Z. z.
+
+- OCHRANNÉ PÁSMO I. STUPŇA ZDROJOV PRÍRODNÝCH MINERÁLNYCH VÔD V LÚKE ![Obrázek 01](../assets/94f30c44d9fa7afd8b664b369517302c4674b41ac4dd4d3962e04c84248234d5.jpg)
