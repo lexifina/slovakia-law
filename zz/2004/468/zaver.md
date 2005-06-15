@@ -1,1 +1,0 @@
-Zsolt Simon v. r.
