@@ -1,0 +1,3 @@
+Príloha č. 16 k vyhláške č. 231/2005 Z. z.
+
+- VZOR HLÁSENIE O MNOŽSTVE POUŽITÝCH CIBÉB NA VÝROBU TOKAJSKÝCH VÍN K 31.7. ..... [Vzor 16](../assets/391b48f25217e3496ad79162076ee8edb177f23d9cb466c5ed554289a3fea563.pdf)

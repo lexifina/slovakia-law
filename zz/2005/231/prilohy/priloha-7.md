@@ -1,0 +1,3 @@
+Príloha č. 7 k vyhláške č. 231/2005 Z. z.
+
+- VZOR EVIDENCIA O TVORBE VÝROBNEJ DÁVKY A O TECHNOLOGICKOM POSTUPE [Vzor 07](../assets/7c190d20dbf95487cebd134ed7b4d1e2c5592d8ba9f2a457b8b70b410dec6c7c.pdf)

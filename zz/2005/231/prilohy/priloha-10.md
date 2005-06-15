@@ -1,0 +1,3 @@
+Príloha č. 10 k vyhláške č. 231/2005 Z. z.
+
+- VZOR OZNÁMENIE O ÚPRAVE ZVYŠKOVÉHO CUKRU [Vzor 10](../assets/1d2096607825b627dde572b2be95c77e4fc9666baa69ae23460432e155555055.pdf)

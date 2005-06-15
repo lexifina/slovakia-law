@@ -1,0 +1,3 @@
+Príloha č. 21 k vyhláške č. 231/2005 Z. z.
+
+- VZOR ŽIADOSŤ O PRESKÚŠANIE A ZATRIEDENIE VÍNA [Vzor 21](../assets/791c92245b0eb60ab1b1ad9c672ae75333e962d58735125dd3e673a54f6508d0.pdf)
