@@ -1,0 +1,5 @@
+# § 16b Pozastavenie klinického skúšania a zakázanie klinického skúšania
+
+(1) Ak štátny ústav zistí, že zadávateľ alebo skúšajúci si neplní povinnosti, uloží zadávateľovi alebo skúšajúcemu nápravné opatrenia v písomnej forme. Štátny ústav neodkladne informuje etickú komisiu o uložených nápravných opatreniach.
+
+(2) Ak štátny ústav zistí, že podmienky žiadosti o povolenie klinického skúšania podľa § 16 ods. 2 nie sú splnené, alebo ak má informácie, ktoré vzbudzujú pochybnosti o bezpečnosti alebo vedeckej odôvodnenosti klinického skúšania, písomne požiada, okrem prípadu hroziaceho rizika, zadávateľa a skúšajúceho o stanovisko k zisteným nedostatkom v lehote do siedmich dní od doručenia písomnej žiadosti. Ak sa neodstránia nedostatky, štátny ústav môže rozhodnúť o pozastavení klinického skúšania alebo o zakázaní klinického skúšania; rozhodnutie neodkladne oznámi zadávateľovi. Súčasne informuje o vydanom rozhodnutí príslušnú etickú komisiu a Európsku agentúru na hodnotenie liekov (ďalej len „agentúra“).
