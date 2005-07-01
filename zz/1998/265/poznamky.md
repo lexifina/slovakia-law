@@ -10,6 +10,8 @@
 
 - 8) § 3 zákona č. 600/2003 Z. z. prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
+- 9) § 3 ods. 1 písm. a) tretí bod zákona č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
+
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 11) § 276 až 302 Občianskeho súdneho poriadku.
