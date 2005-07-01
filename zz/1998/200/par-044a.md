@@ -8,7 +8,7 @@
 
 - c) v lehote určenej ministrom.
 
-(2) V majetkovom priznaní podľa odseku 1 písm. a) sa uvádza stav majetku ku dňu vzniku služobného pomeru. V majetkovom priznaní podľa odseku 1 písm. b) a c) sa uvádza stav majetku k poslednému dňu kalendárneho mesiaca, ktorý predchádza mesiacu, v ktorom sa podáva majetkové priznanie.
+(2) V majetkovom priznaní podľa odseku 1 písm. a) sa uvádza stav majetku ku dňu vzniku služobného pomeru. V majetkovom priznaní podľa odseku 1 písm. b) sa uvádza stav majetku k 1. januáru kalendárneho roka, v ktorom sa podáva majetkové priznanie. V majetkovom priznaní podľa odseku 1 písm. c) sa uvádza stav majetku k poslednému dňu kalendárneho mesiaca, ktorý predchádza mesiacu, v ktorom sa podáva majetkové priznanie.
 
 (3) Majetkové priznanie obsahuje
 
@@ -20,7 +20,9 @@
 
 - d) označenie majetkového práva alebo inej majetkovej hodnoty, ktorých hodnota presahuje 200 000 Sk, právny dôvod ich nadobudnutia, dátum ich nadobudnutia a ocenenie majetkového práva alebo inej majetkovej hodnoty,
 
-- e) označenie hnuteľných vecí, majetkových práv a iných majetkových hodnôt, aj keď ich hodnota jednotlivo nepresahuje 200 000 Sk, ak ich súhrnná hodnota presahuje 500 000 Sk.
+- e) označenie hnuteľných vecí, majetkových práv a iných majetkových hodnôt, aj keď ich hodnota jednotlivo nepresahuje 200 000 Sk, ak ich súhrnná hodnota presahuje 500 000 Sk,
+
+- f) údaj o príjme z vykonávania činností uvedených v § 44 ods. 7, ak tento príjem presahuje 50 000 Sk za kalendárny rok.
 
 (4) Za majetok podľa odseku 3 písm. b) sa považujú aj byty a nebytové priestory. Za majetok podľa odseku 3 písm. c) sa považujú aj peňažné prostriedky v hotovosti v slovenskej mene a v cudzej mene, vklady v bankách a v pobočkách zahraničných bánk v slovenskej mene a v cudzej mene a vklady v zahraničných bankách.
 
