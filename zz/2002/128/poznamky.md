@@ -18,6 +18,8 @@
 
 - 9) Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
 
+- 9a) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+
 - 10) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
 - 11) Napríklad § 25 a 28 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 128/2002 Z. z.
