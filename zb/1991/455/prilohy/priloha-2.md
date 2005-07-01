@@ -56,7 +56,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 214 - Ostatné | | | |
 
-- 19. | Zrušená od 1. 11. 2004. | | |
+- 19. | Prevádzkovanie autoškoly | osvedčenie o registrácii autoškoly | § 3 ods. 8 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov |
 
 - 20. | Vyučovanie v odbore cudzích jazykov | dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky, alebo preukázanie aspoň 10-ročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať | |
 

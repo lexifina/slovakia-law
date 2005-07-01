@@ -170,6 +170,8 @@
 
 - 23ph) § 88 zákona č. 725/2004 Z. z.
 
+- 23q) Zákon č. 8 /2005 Z. z. o správcoch a zmene a doplnení niektorých zákonov.
+
 - 23r) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
 - 24) Napríklad § 73 ods. 4 a 5 a § 75 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 231/1992 Zb., § 7 ods. 1 zákona č. 370/1997 Z. z. o vojenskej službe, § 23 ods. 2 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, § 48 ods. 6 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
