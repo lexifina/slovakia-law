@@ -1,6 +1,6 @@
 Príloha č. 6 k zákonu č. 553/2003 Z. z.
 
-- ROZPÄTIA PERCENTUÁLNEHO PODIELU Z PLATOVEJ TARIFY NAJVYŠŠIEHO PLATOVÉHO STUPŇA PRÍSLUŠNEJ PLATOVEJ TRIEDY NA ÚČELY URČENIA PRÍPLATKU ZA RIADENIE (§ 8) Stupeň riadenia | | Pôsobnosť zamestnávateľa | | |
+- PERCENTUÁLNY PODIEL PRÍPLATKU ZA RIADENIE Stupeň riadenia | | Pôsobnosť zamestnávateľa | | |
 
 - | | celoštátna | krajská (regionálna) | okresná | miestna
 

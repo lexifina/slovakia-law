@@ -2,7 +2,7 @@
 
 - 2) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 3) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z.
 
 - 4) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -12,7 +12,7 @@
 
 - 7) Zákon č. 544/2002 Z. z. o Horskej záchrannej službe.
 
-- 8) Napríklad vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 156/2002 Z. z. o odbornej spôsobilosti pracovníkov v zdravotníctve a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
+- 8) Napríklad vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
 
 - 9) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
@@ -21,6 +21,8 @@
 - 10) § 143 ods. 8 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
 
 - 11) § 27a ods. 2 zákona č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
+
+- 11a) § 50 ods. 1 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 12) Napríklad zákon č. 320/2002 Z. z. o brannej povinnosti v znení zákona č. 512/2002 Z. z.
 
@@ -40,13 +42,7 @@
 
 - 17) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 18) § 5 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
-
-- § 12 vyhlášky Ministerstva školstva a vedy Slovenskej republiky č. 353/1994 Z. z. o predškolských zariadeniach.
-
-- 19) § 50 a 50b zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- § 6 ods. 2 písm. b) až d) zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
+- 19) § 14 ods. 2 písm. b) až d) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
 
@@ -69,6 +65,8 @@
 - Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
 - 29) Vládne nariadenie č. 96/1953 Zb. o Hydrometeorologickom ústave.
+
+- 29a) Napríklad zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov, vyhláška Ministerstva školstva Slovenskej republiky č. 42/1996 Z. z. o ďalšom vzdelávaní pedagogických pracovníkov.
 
 - 30) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
