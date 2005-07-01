@@ -12,4 +12,6 @@
 
 - 6) § 108 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 6a) § 117a zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 7) § 13 ods. 4 zákona č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č. 536/2004 Z. z.
