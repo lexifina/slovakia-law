@@ -32,6 +32,8 @@
 
 - 10a) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
+- 10b) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
+
 - 11) § 72 až 88 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 12) § 2 ods. 3 písm. a) a § 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.

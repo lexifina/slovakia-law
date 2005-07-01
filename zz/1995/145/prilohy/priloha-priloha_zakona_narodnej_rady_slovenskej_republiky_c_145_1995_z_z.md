@@ -144,7 +144,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - g) Výpis zo zoznamu znalcov, tlmočníkov a prekladateľov, za každú stranu ..... | 50 Sk
 
-  - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. |
+  - h) zápis fyzickej osoby do zoznamu správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 5 000 Sk
+
+  - i) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 5 000 Sk
+
+  - j) ročný poplatok správcu-fyzickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 5 000 Sk
+
+  - k) ročný poplatok správcu-právnickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 5 000 Sk
+
+  - l) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 50 Sk
+
+  - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Ročný poplatok správcu je splatný do 90 dní od uplynutia roka, za ktorý sa poplatok vyberá. Správca-fyzická osoba nemá povinnosť platiť ročný poplatok správcu, ak je spoločníkom správcu-právnickej osoby. Ročný poplatok správcu sa nevyberá za obdobie, počas ktorého má správca pozastavený výkon správcovskej činnosti. |
 
     - Položka 6
 
@@ -948,7 +958,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 63
 
-  - Vydanie vodičského preukazu, medzinárodného vodičského preukazu alebo inštruktorského preukazu a ich rozšírenie ............................................................................. | 100 Sk
+  - Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu a ich rozšírenie ................................................................................................................................ | 100 Sk
 
   - Oslobodenie Od poplatku je oslobodené vydanie nového vodičského preukazu po skončení skúšobnej lehoty určenej osbitným právnym predpisom.<sup>19</sup>) |
 
@@ -1118,21 +1128,29 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) na získanie vodičského oprávnenia |
 
-  - 1. skupiny A a AM a podskupiny A1 ..................................................................................................... | 500 Sk
+  - 1. skupiny A a AM a podskupiny A1 ........................................................................................................... | 500 Sk
 
-  - 2. skupiny B, B+E a T a podskupiny B1 .............................................................................................. | 1 000 Sk
+  - 2. skupiny B, B+E a T a podskupiny B1 .................................................................................................... | 1 000 Sk
 
-  - 3. skupiny C1+E a D1+E a podskupiny C1 a D1 .............................................................................. | 1 500 Sk
+  - 3. skupiny C1+E a D1+E a podskupiny C1 a D1 .................................................................................... | 1 500 Sk
 
-  - 4. skupiny C, C+E, D a D+E ................................................................................................................. | 2 000 Sk
+  - 4. skupiny C, C+E, D a D+E ........................................................................................................................ | 2 000 Sk
 
-  - b) pri preskúšaní odbornej spôsobilosti držiteľa vodičského oprávnenia .................................... | 500 Sk
+  - b) pri preskúšaní odbornej spôsobilosti držiteľa vodičského oprávnenia .......................................... | 500 Sk
 
-  - c) na získanie alebo rozšírenie inštruktorského oprávnenia ........................................................... | 1 000 Sk
+  - c) na získanie inštruktorského oprávnenia |
 
-  - d) na predĺženie platnosti inštruktorského oprávnenia ..................................................................... | 300 Sk
+  - 1. skupiny A a AM a podskupiny A1 ............................................................................................................ | 500 Sk
 
-  - Poznámky 1. Správny orgán vyberie poplatky podľa tejto položky vo výške 25 %, ak ide o skúšku na získanie vodičského oprávnenia, ak sa výcvik vykonával na stredných (aj vojenských) školách a odborných učilištiach v rámci povinného predmetu dopravnej výchovy, ak sa výcvik vykonával na stredných odborných školách Policajného zboru v rámci odbornej prípravy, ak ide o vykonanie skúšky na získanie vodičského oprávnenia odvedencov a o opakované skúšky. 2. Poplatok podľa tejto položky sa nevyberie za preskúšanie odbornej spôsobilosti pri vydaní vodičského preukazu náhradou za vodičský preukaz vydaný v cudzine. 3. Poplatok podľa písmena a) tejto položky sa vyberie za každú skupinu vodičského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín vodičského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. |
+  - 2. skupiny B, B + E a T a podskupiny B1 ................................................................................................... | 1 000 Sk
+
+  - 3. skupiny C1 + E a D1 + E a podskupiny C1 a D1 ................................................................................. | 1 500 Sk
+
+  - 4. skupiny C, C + E, D a D + E ..................................................................................................................... | 2 000 Sk
+
+  - d) na predĺženie platnosti inštruktorského oprávnenia ............................................................................ | 500 Sk
+
+  - Poznámky 1. Správny orgán vyberie poplatky podľa tejto položky vo výške 25 %, ak ide o skúšku na získanie vodičského oprávnenia, ak sa výcvik vykonával na stredných (aj vojenských) školách a odborných učilištiach v rámci povinného predmetu dopravnej výchovy, ak sa výcvik vykonával na stredných odborných školách Policajného zboru v rámci odbornej prípravy, ak ide o vykonanie skúšky na získanie vodičského oprávnenia odvedencov a o opakované skúšky. 2. Poplatok podľa tejto položky sa nevyberie za preskúšanie odbornej spôsobilosti pri vydaní vodičského preukazu náhradou za vodičský preukaz vydaný v cudzine. 3. Poplatok podľa písmena a) tejto položky sa vyberie za každú skupinu vodičského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín vodičského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. 4. Správny orgán vyberie poplatok podľa písmena c) tejto položky vo výške 50 % za opakovanú skúšku na získanie inštruktorského oprávnenia. Poplatok podľa písmena c) tejto položky sa vyberie za každú skupinu inštruktorského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín inštruktorského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. |
 
     - Položka 75
 
@@ -1160,13 +1178,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 77
 
-  - Vydanie evidenčného dokladu |
+  - Vydanie osvedčenia o registrácii autoškoly, ak ide |
 
-  - a) na vykonávanie výcviku vodičov a doškoľovacieho kurzu vodičov alebo pri rozšírení rozsahu výcviku ............................................................................................................................................................ | 5 000 Sk
+  - a) o vykonávanie výučby a výcviku účastníkov prípravy na skúšku odbornej spôsobilosti na vydanie oprávnenia viesť motorové vozidlá a doškoľovacích kurzov držiteľov vodičských oprávnení |
 
-  - b) na vykonávanie výcviku žiadateľov o inštruktorské oprávnenie a doškoľovacieho kurzu alebo pri rozšírení rozsahu výcviku ................................................................................................................. | 5 000 Sk
+  - 1. skupiny A a AM a podskupiny A1 .............................................................................................................................. | 2 000 Sk
 
-  - c) z úradnej povinnosti alebo pri znížení rozsahu výcviku podľa písmena a) alebo písmena b) .................... | 200 Sk
+  - 2. skupiny B, B + E a T a podskupiny B1 .................................................................................................................... | 2 000 Sk
+
+  - 3. skupiny C1 + E a D1 + E a podskupín C1 a D1 .................................................................................................... | 2 000 Sk
+
+  - 4. skupiny C, C + E, D a D + E ...................................................................................................................................... | 2 000 Sk
+
+  - b) o vykonanie zmeny v osvedčení o registrácii ........................................................................................................... | 2 000 Sk
+
+  - Poznámky 1. Poplatok podľa písmena a) sa vyberie za každú skupinu samostatne. Ak sa jedna registrácia týka viacerých skupín, poplatky uvedené za jednotlivé skupiny sa zrátajú; to neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. 2. Poplatok podľa písmena b) sa nevyberie, ak ide o zmenu registrácie na základe úradného rozhodnutia, napr. v dôsledku zmeny názvu ulice alebo číslovania domov. |
 
     - Položka 78
 
