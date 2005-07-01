@@ -26,6 +26,8 @@
 
 - 12) Obchodný zákonník.
 
+- 12a) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
+
 - 13) Napríklad § 30 a 31 Občianskeho súdneho poriadku, § 38 až 40a Trestného poriadku.
 
 - 14) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
