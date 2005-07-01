@@ -20,6 +20,18 @@ Zákon č. 472/2002 Z. z. o medzinárodnej pomoci a spolupráci pri správe dan�
 
 - Príslušný orgán Slovenskej republiky je oprávnený žiadať o doručenie jeho rozhodnutí alebo iných písomností daňovému subjektu príslušný úrad zmluvného štátu; na túto žiadosť sa vzťahuje postup podľa odsekov 1 a 2 primerane.“.
 
+- 2. Za § 7 sa vkladá § 7a, ktorý znie:
+
+- „§ 7a
+
+- Príslušný orgán Slovenskej republiky poskytuje príslušnému úradu iného členského štátu Európskej únie každoročne do 30. júna informáciu o vyplatenom, poukázanom alebo pripísanom úroku alebo inom výnose podľa osobitného predpisu.<sup>5a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 5a znie:
+
+- „5a)
+
+- § 32 ods. 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 679/2004 Z. z.“.
+
 - 3. Za § 9 sa vkladá § 9a, ktorý vrátane nadpisu znie:
 
 - „§ 9a

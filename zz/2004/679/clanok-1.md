@@ -334,6 +334,18 @@ Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a 
 
 - 74. V § 32 ods. 5 sa suma „10 000 Sk" nahrádza sumou „100 000 Sk" a v tretej vete sa slová „priezvisko a trvalý pobyt fyzickej osoby" nahrádzajú slovami „priezvisko, trvalý pobyt fyzickej osoby a daňové identifikačné číslo (§ 31 ods. 11), ak jej bolo pridelené,".
 
+- 75. § 32 sa dopĺňa odsekom 15, ktorý znie:
+
+- „(15)
+
+- Právnické osoby a fyzické osoby, ktoré vyplácajú, poukazujú alebo pripisujú úrok alebo iný výnos podľa osobitného zákona,<sup>11da</sup>) sú povinné oznámiť každoročne do 31. marca miestne príslušnému správcovi dane na tlačive, ktorého vzor určí ministerstvo, meno, priezvisko, trvalý pobyt fyzickej osoby z iného členského štátu Európskej únie, ktorá je ich konečným príjemcom, a úhrnnú sumu týchto úrokov alebo iných výnosov vyplatených, poukázaných alebo pripísaných fyzickej osobe za predchádzajúci kalendárny rok. Ak úrok alebo iný výnos bol pripísaný v prospech bankového účtu fyzickej osoby, v oznámení sa uvedie aj jeho číslo a názov banky; ak úrok alebo iný výnos nebol pripísaný na účet fyzickej osoby, v oznámení sa uvedie spôsob jeho poukázania alebo pripísania.“.
+
+- Poznámka pod čiarou k odkazu 11da znie:
+
+- „11da)
+
+- § 9 ods. 2 písm. r) zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.“.
+
 - 76. V § 35 odseky 1 až 4 znejú:
 
 - „(1)
