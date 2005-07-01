@@ -42,6 +42,30 @@ Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôs
 
 - daňové identifikačné číslo,<sup>3c</sup>) ak subjekt nie je platiteľom dane z pridanej hodnoty,“.
 
+- 5. V § 2 písm. j) sa za šiesty bod vkladajú nové body 7 až 11, ktoré znejú:
+
+- „7.
+
+- identifikačné číslo pre daň,<sup>3d</sup>) ak subjekt je platiteľom dane z pridanej hodnoty,
+
+- 8.
+
+- meno a adresu sídla, miesta podnikania, prípadne prevádzkarne subjektu, ktorý dodáva tovar alebo poskytuje službu, ak subjekt je platiteľom dane z pridanej hodnoty,
+
+- 9.
+
+- základ dane, ak subjekt je platiteľom dane z pridanej hodnoty,
+
+- 10.
+
+- sadzbu dane alebo údaj o oslobodení od dane, ak subjekt je platiteľom dane z pridanej hodnoty,
+
+- 11.
+
+- výšku dane spolu, ak subjekt je platiteľom dane z pridanej hodnoty,“.
+
+- Doterajší bod 7 sa označuje ako bod 12.
+
 - 6. V § 3 ods. 2 písmeno b) znie:
 
 - „b)
