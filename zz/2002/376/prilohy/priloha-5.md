@@ -30,9 +30,9 @@
 
 - 2. Poplatok za rešerš |
 
-- - za európsku rešerš alebo za dodatočnú európsku rešerš [článok 78 odsek 2, pravidlo 46 odsek 1, pravidlo 112 a člá- nok 157 odsek 2(b)] | 690
+- - za európsku rešerš alebo za dodatočnú európsku rešerš [článok 78 odsek 2, pravidlo 46 odsek 1, pravidlo 112 a článok 157 odsek 2 písmeno (b)] | 960
 
-- - za medzinárodnú rešerš (pravidlo 16.1 Zmluvy a pravidlo 105 odsek 1) | 1 550
+- - za medzinárodnú rešerš (pravidlo 16.1 PCT a pravidlo 105 odsek 1) | 1 550
 
 - 3. Poplatok za určenie za každý určený zmluvný štát (článok 79 odsek 2); popla- tok za určenie do všetkých zmluvných štátov sa považuje za zaplatený v prípa- de, že prihlasovateľ zaplatí 7-násobok tohto poplatku | 75
 
@@ -62,7 +62,9 @@
 
 - 5. Príplatok za oneskorenú platbu udržia- vacieho poplatku za európsku prihlášku (článok 86 odsek 2) | 10 % z udržiavacieho poplatku plateného s oneskorením
 
-- 6. Poplatok za prieskum (článok 94 odsek 2) | 1 430
+- 6a. Poplatok za prieskum (článok 94 odsek 2) | 1 280
+
+- 6b. Poplatok za prieskum (článok 94 odsek 2) v prípade medzinárodnej prihlášky, na ktorú nie je vypracovaná dodatočná správa o európskej rešerši [článok 157 odsek 3 písmeno (a)] | 1 430
 
 - 7. Príplatok za oneskorené podanie žiadosti o prieskum (pravidlo 85b) | 50 % poplatku za prieskum
 
@@ -176,13 +178,11 @@
 
 - Článok 10
 
-- Vrátenie poplatku za rešerš
+- Vrátenie poplatku za správu o európskej rešerši
 
-- 1. Rešeršný poplatok za európsku alebo dodatočnú európsku rešerš sa celkom alebo čiastočne vracia, ak je správa o európskej rešerši založená na skoršej rešeršnej správe, ktorú Úrad už spracoval na prihlášku, na základe ktorej sa uplatňuje právo prednosti pre európsku patentovú prihlášku, alebo ktorá je pôvodnou prihláškou v zmysle článku 76 Dohovoru alebo pôvodnou prihláškou v zmysle pravidla 15 vykonávacieho predpisu.
+- 1. Poplatok za európsku rešerš alebo za dodatočnú európsku rešerš sa vracia v plnej výške, ak je európska patentová prihláška vzatá späť alebo zamietnutá, alebo je považovaná za vzatú späť v čase, keď úrad ešte nezačal s vyhotovením správy o rešerši.
 
-- 2. Čiastka, ktorú možno podľa odseku 1 vrátiť, predstavuje 50 alebo 100 % poplatku za rešerš, a to podľa rozsahu, v ktorom Úrad môže čerpať zo skoršej rešeršnej správy.
-
-- 3. Poplatok za rešerš sa vracia v plnej výške, ak je európska patentová prihláška vzatá späť alebo zamietnutá, alebo sa považuje za vzatú späť v čase, keď Úrad ešte nezačal s vyhotovením správy o európskej rešerši.
+- 2. Ak je správa o európskej rešerši založená na skoršej rešeršnej správe, ktorú Úrad už spracoval pre prihlášku, na základe ktorej sa uplatňuje právo prednosti alebo ktorá je pôvodnou prihláškou v zmysle článku 76 Dohovoru alebo pôvodnou prihláškou v zmysle pravidla 15 Vykonávacieho predpisu, Úrad vráti prihlasovateľovi v súlade s rozhodnutím prezidenta sumu, ktorá závisí od typu skoršej rešerše a od miery, v akej Úrad čerpá zo skoršej rešeršnej správy pri uskutočňovaní nasledujúcej rešerše.
 
 - Článok 10a
 

@@ -770,6 +770,14 @@
 
 - 6) Správa o európskej rešerši obsahuje zatriedenie európskej patentovej prihlášky podľa medzinárodného triedenia.
 
+- Pravidlo 44a
+
+- Rozšírená správa o európskej rešerši
+
+- (1) K správe o európskej rešerši je priložené vyjadrenie o tom, či prihláška a vynález, na ktoré sa prihláška vzťahuje, pravdepodobne spĺňajú požiadavky tohto dohovoru, ak nemožno vydať oznámenie podľa pravidla 51 odseku 2 alebo 4.
+
+- (2) Vyjadrenie podľa odseku 1 sa nezverejňuje spolu s rešeršnou správou.
+
 - Pravidlo 45
 
 - Neúplná rešerš
