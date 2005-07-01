@@ -118,6 +118,8 @@
 
 - 34j) § 19 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení zákona č. 187/1998 Z. z.§ 15 zákona č. 331/2003 Z. z.
 
+- 34j) § 117a zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 290/2005 Z. z.
+
 - 34k) § 15 ods. 3 a § 20 ods. 2 zákona č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
 
 - 35) Článok 256 Zmluvy o založení Európskeho spoločenstva (úplné znenie Úradný vestník Európskeho spoločenstva C 325, 24/12/2002).
