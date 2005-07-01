@@ -52,7 +52,7 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - d)
 
-- vlastnícke alebo iné práva k finančným nástrojom, ktoré musia byť evidované vo verejnom registri cenných papierov alebo v inej obdobnej evidencii a ktoré sú držané alebo sa nachádzajú v inom členskom štáte, sa spravujú právnym poriadkom členského štátu, na ktorého území sa vedie príslušný verejný register alebo iná obdobná evidencia; to rovnako platí aj pre právne úkony vykonané po zavedení nútenej správy, týkajúce sa finančných nástrojov a pre práva s tým spojené, pri ktorých sa vyžaduje ich zápis do verejného registra alebo inej obdobnej evidencie vedenej v inom členskom štáte,
+- vlastnícke alebo iné práva k investičným nástrojom, ktoré musia byť evidované vo verejnom registri cenných papierov alebo v inej obdobnej evidencii a ktoré sú držané alebo sa nachádzajú v inom členskom štáte, sa spravujú právnym poriadkom členského štátu, na ktorého území sa vedie príslušný verejný register alebo iná obdobná evidencia; to rovnako platí aj pre právne úkony vykonané po zavedení nútenej správy, týkajúce sa investičných nástrojov a pre práva s tým spojené, pri ktorých sa vyžaduje ich zápis do verejného registra alebo inej obdobnej evidencie vedenej v inom členskom štáte,
 
 - e)
 
