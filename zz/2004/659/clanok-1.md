@@ -120,6 +120,12 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 21. V § 9 ods. 2 písm. k) sa za slovo „štipendiá<sup>51</sup>)“ vkladajú slová „okrem doktorandského štipendia“.
 
+- 22. V § 9 sa odsek 2 dopĺňa písmenom r), ktoré znie:
+
+- „r)
+
+- úroky a iné výnosy z vkladov, z úverov a pôžičiek, z výnosov podielových listov, dlhopisov, vkladových certifikátov, depozitných certifikátov, pokladničných poukážok, vkladových listov a iných cenných papierov a vkladov postavených im na roveň plynúce zo zdroja na území Slovenskej republiky fyzickej osobe, ktorá je daňovníkom iného členského štátu Európskej únie a ktorá je konečným príjemcom takýchto príjmov.“.
+
 - 23. V § 9 sa odsek 2 dopĺňa písmenami s) a t), ktoré znejú:
 
 - „s)
