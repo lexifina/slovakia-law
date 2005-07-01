@@ -1,6 +1,8 @@
-- 1) § 6 a 7 zákona č. 281/2002 Z. z. o prídavku na dieťa a o príspevku k prídavku na dieťa.
+- 1) § 5 a 6 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
-- 2) Napríklad zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti, § 45 ods. 1 a § 78 až 82 zákona č. 94/1963 Zb. o rodine v znení neskorších predpisov.
+- 2) § 45, 48, § 56 ods. 2 a § 103 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
+
+- 2a) § 49 zákona č. 36/2005 Z. z.
 
 - 3) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov v znení zákona č. 441/2001 Z. z.
 
@@ -10,11 +12,27 @@
 
 - 4) Zákon č. 48/2002 Z. z.
 
+- 4a) § 2 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
+
 - 5) § 51 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 6) § 6 a 7 zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 5a) § 44 až 47 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) § 6 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok v znení zákona č. 439/2000 Z. z.
+- 5b) Napríklad zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 5c) Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5d) Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
+
+- 5e) Zákon č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov.
+
+- 5f) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6) § 5 a § 6 ods. 1, 2 a 5 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 7) § 5 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
 - 8) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
