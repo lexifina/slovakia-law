@@ -10,6 +10,38 @@ Zákon č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 58/1969 Zb., z
 
 - 4. V § 151m ods. 1 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak osobitný zákon neustanovuje inak.“.
 
+- 5. Za § 151md sa vkladá § 151me, ktorý znie:
+
+- „§ 151me
+
+- (1)
+
+- Ustanovenia § 151e, § 151i ods. 2, § 151j ods. 1, § 151l ods. 1 a 2 a § 151m ods. 1, ods. 3 poslednej vety, ods. 7 a 9 a § 151ma ods. 1 a 2 sa nepoužijú, ak je zálohom pohľadávka na peňažné prostriedky na bežnom účte alebo na vkladovom účte podľa osobitného predpisu alebo pohľadávka na peňažné prostriedky vo forme vkladov podľa tohto zákona a ak záložný veriteľ a záložca patria medzi tieto osoby:
+
+- a)
+
+- orgány verejnej moci členského štátu,
+
+- b)
+
+- Národná banka Slovenska alebo centrálna banka iného štátu, Európska centrálna banka, Medzinárodný menový fond, Európska investičná banka, medzinárodná rozvojová banka a Banka pre medzinárodné zúčtovanie,
+
+- c)
+
+- banka, zahraničná banka, obchodník s cennými papiermi, zahraničný obchodník s cennými papiermi, poisťovňa, zahraničná poisťovňa, správcovská spoločnosť, zahraničná správcovská spoločnosť, inštitúcia elektronických peňazí, zahraničná inštitúcia elektronických peňazí, subjekt kolektívneho investovania a zahraničný subjekt kolektívneho investovania,
+
+- d)
+
+- centrálny depozitár cenných papierov, zahraničný centrálny depozitár alebo osoba, ktorej predmetom činnosti je zúčtovanie a vyrovnanie obchodov s investičnými nástrojmi,
+
+- e)
+
+- iné osoby ako uvedené v písmenách a) až d) s výnimkou fyzických osôb, ak je druhou zmluvnou stranou niektorá z osôb uvedených v písmenách a) až d).
+
+- (2)
+
+- Na záložné právo podľa odseku 1 sa primerane použijú ustanovenia osobitného zákona o záložnom práve k cenným papierom.“.
+
 - 6. V § 783 ods. 1 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak tento zákon neustanovuje inak.“.
 
 - 7. V § 783 ods. 2 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak tento zákon neustanovuje inak.“.

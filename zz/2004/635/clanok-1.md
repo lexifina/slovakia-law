@@ -78,6 +78,88 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 12. V § 45 ods. 4 sa slová „je potrebné“ nahrádzajú slovami „sa vyžaduje“.
 
+- 13. Za § 53 sa vkladajú § 53a až 53d, ktoré vrátane nadpisu znejú:
+
+- „Osobitné ustanovenia k záložnému právu
+
+- § 53a
+
+- (1)
+
+- Ustanovenia § 45 ods. 3 a 4, § 46, § 50 ods. 3, § 51 ods. 4 až 7 sa nepoužijú pri záložnom práve k cenným papierom, ak záložný veriteľ a záložca patria medzi tieto osoby:
+
+- a)
+
+- orgány verejnej moci členského štátu,
+
+- b)
+
+- Národná banka Slovenska alebo centrálna banka iného štátu, Európska centrálna banka, Medzinárodný menový fond, Európska investičná banka, medzinárodná rozvojová banka<sup>47a</sup>) a Banka pre medzinárodné zúčtovanie,
+
+- c)
+
+- banka, zahraničná banka, obchodník s cennými papiermi, zahraničný obchodník s cennými papiermi, poisťovňa, zahraničná poisťovňa, správcovská spoločnosť, zahraničná správcovská spoločnosť, inštitúcia elektronických peňazí, zahraničná inštitúcia elektronických peňazí, subjekt kolektívneho investovania a zahraničný subjekt kolektívneho investovania,
+
+- d)
+
+- centrálny depozitár cenných papierov, zahraničný centrálny depozitár alebo osoba, ktorej predmetom činnosti je zúčtovanie a vyrovnanie obchodov s investičnými nástrojmi,
+
+- e)
+
+- iné osoby, ako sú uvedené v písmenách a) až d), s výnimkou fyzických osôb, ak je druhou zmluvnou stranou niektorá z osôb uvedených v písmenách a) až d).
+
+- (2)
+
+- Na vznik zmluvného záložného práva podľa odseku 1 k listinnému cennému papieru, ktorý je prevoditeľný rubopisom, sa vyžaduje aj záložný rubopis. Záložný rubopis musí obsahovať doložku „na založenie" a osobu záložného veriteľa. Inak musí záložný rubopis obsahovať primerane náležitosti uvedené v § 21 ods. 2. Ak záložné právo k listinnému cennému papieru, ktorý sa opatril záložným rubopisom, zanikne, záložný veriteľ je povinný vyznačiť na založenom listinnom cennom papieri zánik záložného práva. Ustanovením tohto odseku nie sú dotknuté ustanovenia osobitného zákona.<sup>44</sup>)
+
+- (3)
+
+- Zmluvné záložné právo podľa odseku 1 k zaknihovanému cennému papieru vzniká registráciou tohto záložného práva v evidencii centrálneho depozitára alebo člena, u ktorého je vedený účet majiteľa založeného cenného papiera, postupom podľa § 50.
+
+- (4)
+
+- Vznik, zmena alebo zánik zmluvného záložného práva podľa odseku 1 k cenným papierom sa musí zaregistrovať v registri záložných práv bez zbytočného odkladu po jeho vzniku, zmene alebo zániku.
+
+- (5)
+
+- Centrálny depozitár je povinný po vykonaní registrácie zmluvného záložného práva podľa odseku 1 na príslušnom účte majiteľa založeného cenného papiera, ak je účet majiteľa vedený v jeho evidencii, bez zbytočného odkladu zaevidovať túto skutočnosť v registri záložných práv. Člen je povinný po vykonaní registrácie zmluvného záložného práva na príslušnom účte majiteľa založeného cenného papiera bez zbytočného odkladu oznámiť túto skutočnosť spolu s potrebnými údajmi centrálnemu depozitárovi na zaevidovanie v registri záložných práv.
+
+- § 53b
+
+- (1)
+
+- Záložný veriteľ je oprávnený nakladať s cenným papierom založeným podľa § 53a ods. 1 a uplatňovať práva s ním spojené aj bez súhlasu záložcu.
+
+- (2)
+
+- Ak pohľadávka zabezpečená zmluvným záložným právom k cennému papieru je riadne a včas splnená, záložný veriteľ je povinný vrátiť založený cenný papier vrátane výnosov záložcovi. Za splnenie povinnosti podľa prvej vety sa považuje aj vrátenie zastupiteľného cenného papiera alebo zastupiteľných cenných papierov alebo výnosov z nich v hodnote založeného cenného papiera vrátane výnosov z tohto cenného papiera, a ak je to uvedené v záložnej zmluve, aj započítaním hodnoty zálohu alebo zastupiteľného zálohu proti príslušným záväzkom.
+
+- (3)
+
+- Ak pohľadávka zabezpečená zmluvným záložným právom k cennému papieru podľa § 53a ods. 1 nie je riadne a včas splnená, záložný veriteľ je oprávnený založený cenný papier predať alebo nadobudnúť vlastnícke právo k založenému cennému papieru, ak tak bolo dohodnuté v zmluve o založení cenného papiera a zároveň bol dohodnutý aj spôsob ocenenia založeného cenného papiera. O výkone záložného práva k cennému papieru záložný veriteľ nie je povinný vopred informovať záložcu. Záložný veriteľ je oprávnený založený cenný papier predať alebo nadobudnúť vlastnícke právo k založenému cennému papieru odo dňa nasledujúceho po dni, v ktorom nebola riadne a včas splnená pohľadávka zabezpečená zmluvným záložným právom k cennému papieru.
+
+- (4)
+
+- Pri predaji cenného papiera založeného podľa § 53a ods. 1 je záložný veriteľ povinný postupovať s náležitou starostlivosťou tak, aby založený cenný papier predal za cenu, za ktorú sa rovnaký cenný papier zvyčajne predáva za porovnateľných podmienok v čase a mieste predaja založeného cenného papiera.
+
+- (5)
+
+- Pri nakladaní so založeným zaknihovaným cenným papierom podľa odseku 1, ako aj pri výkone záložného práva k zaknihovanému cennému papieru podľa odseku 3 príkaz na registráciu prevodu založeného zaknihovaného cenného papiera z účtu majiteľa záložcu na účet majiteľa záložného veriteľa dáva záložný veriteľ v mene záložcu.
+
+- § 53c
+
+- Na vykonávanie, vznik, zmenu a zánik zabezpečovacích prevodov cenných papierov sa primerane vzťahujú ustanovenia § 45 ods. 6, § 46, 47, § 50 ods. 1, 2, 4 až 6 a § 53a ods. 5, ak dlžníkom a veriteľom je osoba podľa § 53a ods. 1.
+
+- § 53d
+
+- Ustanovenia § 45 až 53d sa vzťahujú len na zaknihované cenné papiere, ktoré sú evidované v evidencii podľa § 10 ods. 4. Ak sú zaknihované cenné papiere evidované v zahraničí, záložné práva k týmto zaknihovaným cenným papierom sa riadia ustanoveniami právneho poriadku štátu, v ktorom je príslušný účet vedený.“.
+
+- Poznámka pod čiarou k odkazu 47a znie:
+
+- „47a)
+
+- § 2 písm. l) opatrenia Národnej banky Slovenska zo 16. januára 2004 č. 4/2004 o primeranosti vlastných zdrojov financovania bánk (oznámenie č. 36/2004 Z. z.).“.
+
 - 14. V § 54 ods. 3 sa slová „písm. a) a e)“ nahrádzajú slovami „písm. a), e) a g)“.
 
 - 15. V § 54 ods. 5 sa vypúšťajú slová „Európskych spoločenstiev alebo v štáte, ktorý je súčasťou Európskeho hospodárskeho priestoru (ďalej len „členský štát")“.
