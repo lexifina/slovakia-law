@@ -18,7 +18,7 @@
 
 - 10) Nariadenie vlády Slovenskej republiky č. 491/2002 Z. z., ktorým sa ustanovujú kvalitatívne ciele povrchových vôd a limitné hodnoty ukazovateľov znečistenia odpadových vôd a osobitných vôd.
 
-- 11) Vládne nariadenie č. 96/1953 Zb. o Hydrometeorologickom ústave.
+- 11) § 21 ods. 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 12) Napríklad zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení neskorších predpisov.
 
@@ -143,6 +143,8 @@
 - 71) Zákon č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov v znení zákona č. 440/2002 Z. z.
 
 - 72) § 1 ods. 2 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
+
+- 72a) Nariadenie vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd.
 
 - 73) § 46 zákona č. 71/1967 Zb.
 
