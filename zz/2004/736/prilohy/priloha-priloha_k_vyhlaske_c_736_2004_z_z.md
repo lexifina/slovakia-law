@@ -1,59 +1,43 @@
 Príloha k vyhláške č. 736/2004 Z. z.
 
-- ZOZNAM ÚZEMNÝCH OBVODOV, ZOZNAM COLNÝCH ÚRADOV A ICH SÍDLA Územný obvod | Colný úrad | Sídlo colného úradu
+- ZOZNAM COLNÝCH ÚRADOV, ICH SÍDLA A ZOZNAM ÚZEMNÝCH OBVODOV Colný úrad | Sídlo colného úradu | Územný obvod
 
-- Okres | |
+- | | Okres
 
-- BanskáBystrica Banská Štiavnica Brezno Detva Krupina Prievidza Zvolen Žarnovica Žiar nad Hronom | Banská Bystrica | Banská Bystrica
+- Banská Bystrica | Banská Bystrica | Banská Bystrica Banská Štiavnica Brezno Detva Krupina Lučenec Poltár Rimavská Sobota Veľký Krtíš Zvolen Žarnovica Žiar nad Hronom
 
-- Okres | |
+- | | Okres
 
-- Bratislava I Bratislava II Bratislava III Bratislava IV Bratislava V Malacky Pezinok Senec | Bratislava | Bratislava
+- Bratislava | Bratislava | Bratislava I Bratislava II Bratislava III Bratislava IV Bratislava V Malacky Pezinok
 
-- Okres | |
+- | | Senec
 
-- Michalovce Sobrance Trebišov | Čierna nad Tisou | Čierna nad Tisou
+- | | Okres
 
-- Okres | |
+- Čierna nad Tisou | Čierna nad Tisou | Michalovce Sobrance Snina Trebišov
 
-- Lučenec Poltár Rimavská Sobota Veľký Krtíš | Fiľakovo | Fiľakovo
+- | | Okres
 
-- Okres | |
+- Košice | Košice | Košice I Košice II Košice III Košice IV Košice-okolie Gelnica Levoča Revúca Rožňava Spišská Nová Ves
 
-- Komárno Dunajská Streda | Komárno | Komárno
+- | | Okres
 
-- Okres | |
+- Nitra | Nitra | Nitra Komárno Levice Nové Zámky Šaľa Topoľčany Zlaté Moravce
 
-- Košice I Košice II Košice III Košice IV Košice-okolie Gelnica Revúca Rožňava | Košice | Košice
+- | | Okres
 
-- Okres | |
+- Prešov | Prešov | Prešov Bardejov Humenné Kežmarok Medzilaborce Poprad Sabinov Stará Ľubovňa Stropkov Svidník Vranov nad Topľou
 
-- Nitra Bánovce nad Bebravou Galanta Hlohovec Partizánske Piešťany Šaľa Topoľčany Trnava Zlaté Moravce | Nitra | Nitra
+- | | Okres
 
-- Okres | |
+- Trenčín | Trenčín | Trenčín Bánovce nad Bebravou Ilava Myjava Nové Mesto nad Váhom
 
-- Poprad Kežmarok Levoča Stará Ľubovňa Spišská Nová Ves | Poprad | Poprad
+- | | Partizánske Považská Bystrica Prievidza Púchov
 
-- Okres | |
+- | | Okres
 
-- Prešov Bardejov Humenné Medzilaborce Sabinov Snina Stropkov Svidník Vranov nad Topľou | Prešov | Prešov
+- Trnava | Senica | Trnava Dunajská Streda Galanta Hlohovec Piešťany Senica Skalica
 
-- Okres | |
+- | | Okres
 
-- Myjava Senica Skalica | Senica | Senica
-
-- Okres | |
-
-- Nové Zámky Levice | Štúrovo | Štúrovo
-
-- Okres | |
-
-- Trenčín Nové Mesto nad Váhom | Trenčín | Trenčín
-
-- Okres | |
-
-- Dolný Kubín Liptovský Mikuláš Námestovo Ružomberok Tvrdošín | Trstená | Trstená
-
-- Okres | |
-
-- Žilina Bytča Čadca Ilava Kysucké Nové Mesto Martin Považská Bystrica Púchov Turčianske Teplice | Žilina | Žilina
+- Žilina | Žilina | Žilina Bytča Čadca Dolný Kubín Kysucké Nové Mesto Liptovský Mikuláš Martin Námestovo Ružomberok Turčianske Teplice Tvrdošín
