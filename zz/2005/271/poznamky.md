@@ -14,8 +14,6 @@
 
 - 8) Čl. 3 písm. c) nariadenia Európskeho parlamentu a Rady (ES) č. 1831/2003.
 
-- 8a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
-
 - 9) Čl. 15 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002.
 
 - 10) Čl. 18 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002.
