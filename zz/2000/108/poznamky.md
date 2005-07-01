@@ -36,7 +36,7 @@
 
 - 19) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
 
-- 20) Zákon č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+- 20) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
 
 - 21) Zákon č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
 
