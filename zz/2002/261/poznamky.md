@@ -22,6 +22,12 @@
 
 - 12) Napríklad zákon č. 138/1973 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
+- 12a) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12b) § 2 zákona Národnej rady Slovenskej republiky č. 261/1995 Z. z. o štátnom informačnom systéme.
+
+- 12c) § 21 až 28 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
 - 13) § 10 ods. 1 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
 - 14) § 3 ods. 17 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.
@@ -36,8 +42,6 @@
 
 - 19) § 181b, 181c, 181e, 181f a 181g Trestného zákona.
 
-- 20) Napríklad § 5 ods. 3 až 5, § 10 a 11 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 21 až 23 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
-
 - 21) § 11 zákona č. 455/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
 - 22) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
@@ -45,10 +49,6 @@
 - 23) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 24) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
-
-- 25) § 17 až 19, § 30 až 33 zákona č. 48/2002 Z. z.
-
-- 26) Napríklad § 10, § 11 ods. 3 a 7 zákona č. 455/1991 Zb. v znení neskorších predpisov, § 21 až 23 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 27) Napríklad § 9 zákona č. 314/2001 Z. z., § 76 zákona č. 223/2001 Z. z., § 11 ods. 3 zákona č. 309/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z., § 42 ods. 2 až 4 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. v znení zákona č. 553/2001 Z. z.
 
@@ -66,9 +66,13 @@
 
 - 34) Zákon č. 314/2001 Z. z.Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
+- 34a) Zákon č. 314/2001 Z. z.
+
+- 34b) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov, zákon č. 314/2001 Z. z. v znení neskorších predpisov, zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 579/2004 Z. z.
+
 - 35) § 2 a § 8 až 12 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
-- 36) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 127/1994 Z. z. v znení neskorších predpisov.
+- 36) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 127/1994 Z. z. v znení neskorších predpisov, zákon č. 245/2003 Z. z. v znení neskorších predpisov, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 37) Napríklad zákon č. 314/2001 Z. z., zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov, zákon č. 211/2000 Z. z., zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 95/2000 Z. z.
 
@@ -88,7 +92,7 @@
 
 - 45) § 20 až 22 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
-- 46) § 40 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+- 46) § 39 až 42 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
 - 47) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 315/1997 Z. z. o uzavretí Dohody medzi vládou Slovenskej republiky a vládou Maďarskej republiky o spolupráci a vzájomnej pomoci pri katastrofách, oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 373/1998 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Rakúskou republikou o spolupráci a vzájomnej pomoci pri katastrofách, oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 94/2001 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Českou republikou o spolupráci a vzájomnej pomoci pri mimoriadnych udalostiach.
 
@@ -100,7 +104,17 @@
 
 - 51) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 1) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.
+- 1) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
+
+- 2) Čl. 27 a príloha III k nariadeniu Európskeho parlamentu a Rady (ES) č. 2003/2003 z 13. októbra 2003 o hnojivách (Ú. v. EÚ L 304, 21. 11. 2003).
+
+- 3) Vyhláška ministra zahraničných vecí č. 64/1987 Zb. o Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR).
+
+- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 243/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Európskej dohody o medzinárodnej cestnej preprave nebezpečných vecí (ADR).
+
+- 4) Vyhláška Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch v znení nariadenia vlády Slovenskej republiky č. 398/1999 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 398/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na pyrotechnické výrobky v znení nariadenia vlády Slovenskej republiky č. 297/2000 Z. z.
 
 - 1) Zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
