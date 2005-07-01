@@ -8,7 +8,7 @@ Príloha č. 13 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
 
     - a) fenylketonúria do 18. roku života - po 18. roku života sa posudzuje individuálne na základe neurologického a psychiatrického vyšetrenia,
 
-    - b) cystická fibróza so závažnou poruchou digescie a metabolizmu s prejavmi malabsorpcie s hypalbuminémiou nižšou ako 35 g/l,
+    - b) cystická fibróza s pankreatickou insuficienciou,
 
     - c) nešpecifické zápalové ochorenie čreva - ulcerózna kolitída, Crohnova choroba v období sekundárnej malabsorpcie s hypalbuminémiou nižšou ako 32 g/l,
 
