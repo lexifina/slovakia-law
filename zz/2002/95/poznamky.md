@@ -98,6 +98,8 @@
 
 - 33) Zákonník práce.
 
+- 33a) § 5 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 34) § 42a a 42b Občianskeho zákonníka.
 
 - 35) § 31 ods. 4 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
