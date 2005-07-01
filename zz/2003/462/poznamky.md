@@ -14,8 +14,6 @@
 
 - 8) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
-- 9) § 4 ods. 2 zákona č. 280/2002 Z. z. v znení zákona č. 643/2002 Z. z.
-
 - 10) § 6 ods. 3 písm. b) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti.
 
 - 11) § 10 ods. 2 písm. a) až c) zákona č. 320/2002 Z. z. o brannej povinnosti.
