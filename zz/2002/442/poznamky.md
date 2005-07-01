@@ -1,26 +1,28 @@
 - 1) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
-- 2) § 48 zákona č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon).
+- 2) § 52 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
 
-- 3) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi.
+- 3) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov.
 
 - 4) § 2 Obchodného zákonníka.
 
 - 5) § 57 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 5a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
 - 6) Napríklad § 13 až 16 Obchodného zákonníka.
 
-- 7) Napríklad zákon č. 184/2002 Z. z., nariadenie vlády Slovenskej republiky č. 242/1993 Z. z., ktorým sa ustanovujú ukazovatele prípustného stupňa znečistenia vôd.
+- 7) Napríklad zákon č. 364/2004 Z. z. v znení zákona č. 587/2004 Z. z.
 
 - 8) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
-- 9) Napríklad zákon č. 184/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, zákon č. 223/2001 Z. z., nariadenie vlády Slovenskej republiky č. 242/1993 Z. z.
+- 9) Napríklad zákon č. 364/2004 Z. z. v znení zákona č. 587/2004 Z. z., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky č. 54/2000 Z. z.
 
-- 11) Zákon č. 184/2002 Z. z.
+- 11) Zákon č. 364/2004 Z. z. v znení zákona č. 587/2004 Z. z.
 
-- 12) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+- 12) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 13) § 108 až 116 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -50,9 +52,11 @@
 
 - 26) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
+- 26a) § 11 až 14 zákona č. 364/2004 Z. z.
+
 - 27) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
-- 28) Zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení neskorších predpisov.
+- 28) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 29) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
