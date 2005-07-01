@@ -98,6 +98,8 @@
 
 - 47) Napríklad zákon Slovenskej národnej rady č. 511/1992 v znení neskorších predpisov, Občiansky súdny poriadok v znení neskorších predpisov.
 
+- 47a) § 2 písm. l) opatrenia Národnej banky Slovenska zo 16. januára 2004 č. 4/2004 o primeranosti vlastných zdrojov financovania bánk (oznámenie č. 36/2004 Z. z.).
+
 - 48) Napríklad zákon č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z.
 
 - 49) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
