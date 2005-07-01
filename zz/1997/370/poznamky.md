@@ -62,7 +62,9 @@
 
 - 29a) § 3 Branného zákona.
 
-- 31) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+- 31) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+
+- Zákon č. 124/1992 Zb. o Vojenskej polícii v znení zákona č. 422/2002 Z. z.
 
 - 33) § 15 ods. 3 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
 
