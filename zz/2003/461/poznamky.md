@@ -104,6 +104,10 @@
 
 - 45) Napríklad § 136 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
+- 45a) § 166, § 168 ods. 5 a § 169 zákona č. 311/2001 Z. z.
+
+- 45b) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
+
 - 46) Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
 
 - 47) Občiansky zákonník.
@@ -115,8 +119,6 @@
 - 50) § 11 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
 - 51) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
-
-- 52) § 4 ods. 2 zákona č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
 - 53) Napríklad § 162 zákona č. 311/2001 Z. z.
 
@@ -133,8 +135,6 @@
 - 59) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
 - 60) § 85 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 386/1997 Z. z.
-
-- 61) Zákon č. 280/2002 Z. z. v znení zákona č. 643/2002 Z. z.
 
 - 62) § 196 ods. 1 zákona č. 311/2001 Z. z.
 
