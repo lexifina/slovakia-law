@@ -1,0 +1,7 @@
+# § 7a Zmluvná výroba
+
+(1) V písomnej zmluve, ktorá upravuje vykonávanie zmluvy výrobnej operácie alebo zmluvnej operácie,<sup>6a</sup>) sa upravuje najmä dodržiavanie zásad a požiadaviek správnej výrobnej praxe zo strany zhotoviteľa a spôsob, akým odborný zástupca zodpovedný za zabezpečovanie kvality alebo osoba poverená prepúšťaním šarže bude vykonávať svoje povinnosti.
+
+(2) Zhotoviteľ môže ďalej zadať dodávku prác alebo časti prác zverených podľa zmluvy inej fyzickej osobe alebo právnickej osobe len s písomným súhlasom objednávateľa.
+
+(3) Zhotoviteľ dodržiava zásady a požiadavky správnej výrobnej praxe.
