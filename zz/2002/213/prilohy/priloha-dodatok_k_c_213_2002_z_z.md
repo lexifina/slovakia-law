@@ -280,6 +280,10 @@ Dodatok k č. 213/2002 Z. z.
 
   - 2. „Ministerstvo pravosuđa, uprave i lokalne samouprave“
 
+    - India
+
+    - Ministerstvo vonkajších vecí
+
     - Island
 
     - Ministerstvo zahraničných vecí (Utanríkisráđuneytiđ)
