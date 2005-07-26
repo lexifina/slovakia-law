@@ -18,7 +18,7 @@
 
 (4) Fond reprodukcie sa okrem prostriedkov podľa odsekov 2 a 3 vytvára z odpisov hmotného a nehmotného majetku podľa osobitného predpisu<sup>7</sup>) a z výnosov z predaja hmotného a nehmotného majetku. Fond reprodukcie sa používa podľa § 17 ods. 3.
 
-(5) Štipendijný fond sa okrem prostriedkov podľa odsekov 2 a 3 vytvára z časti výnosov zo školného (§ 92 ods. 15) a z časti dotácie na sociálnu podporu študentov (§ 89 ods. 7) určenú na sociálne štipendiá (§ 96). Štipendijný fond sa používa na poskytovanie štipendií podľa § 95 až 97 a pôžičiek podľa § 101 ods. 3.
+(5) Štipendijný fond sa okrem prostriedkov podľa odsekov 2 a 3 vytvára z časti výnosov zo školného (§ 92 ods. 15) a z časti dotácie na sociálnu podporu študentov (§ 89 ods. 7) určenú na sociálne štipendiá a motivačné štipendiá (§ 96). Štipendijný fond sa používa na poskytovanie štipendií podľa § 95 až 97 a pôžičiek podľa § 101 ods. 3.
 
 (6) Fond na podporu štúdia študentov so zdravotným postihnutím možno použiť na finančné zabezpečenie zodpovedajúcich podmienok štúdia študentov so zdravotným postihnutím vzhľadom na ich špeciálne študijné potreby.
 
