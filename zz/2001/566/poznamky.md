@@ -50,6 +50,8 @@
 
 - 24b) § 5 písm. j) zákona č. 594/2003 Z. z.
 
+- 24c) § 5 písm. e) zákona č. 594/2003 Z. z.
+
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
 - 26) § 31 ods. 6 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 149/2001 Z. z.
@@ -99,6 +101,18 @@
 - 47) Napríklad zákon Slovenskej národnej rady č. 511/1992 v znení neskorších predpisov, Občiansky súdny poriadok v znení neskorších predpisov.
 
 - 47a) § 2 písm. l) opatrenia Národnej banky Slovenska zo 16. januára 2004 č. 4/2004 o primeranosti vlastných zdrojov financovania bánk (oznámenie č. 36/2004 Z. z.).
+
+- 47b) § 2 ods. 1 písm. b) alebo ods. 2 zákona č. 483/2001 Z. z.
+
+- 47c) Napríklad zákon č. 594/2003 Z. z.
+
+- 47d) Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
+
+- 47e) § 39 zákona č. 510/2002 Z. z.
+
+- 47f) § 32 ods. 4 zákona č. 510/2002 Z. z.
+
+- 47g) § 151m ods. 1, 2 a 3 posledná veta, ods. 7 a 9 a § 151ma ods. 1 a 2 Občianskeho zákonníka.
 
 - 48) Napríklad zákon č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z.
 
@@ -240,6 +254,10 @@
 
 - 97) § 71 až 80 zákona č. 71/1967 Zb.
 
+- 97a) § 17 písm. b), § 18 a 19 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 97b) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+
 - 98) § 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 99) § 850 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
@@ -254,9 +272,13 @@
 
 - 102b) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
-- 103) § 5 písm. b) zákona č. 594/2003 Z. z.
+- 102c) § 6 ods. 6 zákona č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 103a) Zákon č. 429/2002 Z. z. o burze cenných papierov.
+- 103) Zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
+
+- 103a) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní Smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149 z 30. 4. 2004).
+
+- 103b) § 5 písm. e) zákona č. 594/2003 Z. z.
 
 - 104) § 23 ods. 6 písm. d) zákona č. 366/1999 Z. z. o daniach z príjmov.
 

@@ -1,0 +1,11 @@
+# § 135b
+
+(1) Úrad je povinný spolupracovať s príslušnými orgánmi dohľadu členských štátov a vymieňať si s nimi na účely výkonu dohľadu nad uskutočňovaním verejnej ponuky cenných papierov informácie týkajúce sa regulovaných trhov, druhov cenných papierov obchodovaných na trhoch členských štátov, najmä ak emitent podlieha dohľadu viacerých orgánov dohľadu členských štátov alebo ak schválenie prospektu bolo zverené podľa § 125 ods. 8. Úrad je povinný spolupracovať s príslušnými orgánmi dohľadu členských štátov pri žiadostiach o pozastavenie alebo zakázanie obchodovania s cennými papiermi prijatými na obchodovanie na regulovanom trhu súčasne v Slovenskej republike a v iných členských štátoch.
+
+(2) Ak úrad zistí, že osoba zodpovedná za uskutočnenie verejnej ponuky cenných papierov porušila všeobecne záväzné právne predpisy alebo nedodržala povinnosti, ktoré jej vyplývajú z prijatia na obchodovanie na regulovanom trhu, tieto zistenia ohlási príslušnému orgánu dohľadu domovského členského štátu emitenta.
+
+(3) Ak osoba zodpovedná za verejnú ponuku cenných papierov napriek opatreniam prijatým príslušným orgánom dohľadu domovského členského štátu emitenta naďalej porušuje všeobecne záväzné právne predpisy alebo iné podmienky činnosti alebo ak sa tieto opatrenia preukážu ako nedostatočné, úrad môže po informovaní príslušného orgánu dohľadu domovského členského štátu emitenta prijať všetky potrebné opatrenia na ochranu investorov. Úrad je povinný bez zbytočného odkladu po prijatí týchto opatrení informovať komisiu.
+
+(4) Ak príslušný orgán dohľadu hostiteľského členského štátu emitenta oznámi úradu, že osoba zodpovedná za verejnú ponuku cenných papierov na území hostiteľského členského štátu emitenta porušuje právne predpisy alebo podmienky činnosti, úrad prijme potrebné opatrenia na ukončenie protiprávneho stavu. Prijaté opatrenia úrad bez zbytočného odkladu oznámi príslušnému orgánu dohľadu hostiteľského členského štátu emitenta.
+
+(5) Ak osoba zodpovedná za verejnú ponuku cenných papierov pri činnosti na území hostiteľského členského štátu emitenta poruší právne predpisy tohto členského štátu alebo podmienky činnosti, je povinná vykonať alebo strpieť aj opatrenia prijaté príslušným orgánom dohľadu hostiteľského členského štátu emitenta v súlade s právnymi predpismi tohto členského štátu.
