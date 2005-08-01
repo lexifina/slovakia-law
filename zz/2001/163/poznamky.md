@@ -1,8 +1,10 @@
 - 1) § 2 ods. 2 písm. a) až c) Obchodného zákonníka.
 
+- Čl. 2 ods. 10 nariadenia Európskeho parlamentu a Rady (ES) č. 648/2004 z 31. marca 2004 o detergentoch (Ú. v. EÚ L 104, 8. 4. 2004).
+
 - 2) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.Zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 70/2000 Z. z.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 184/1993 Z. z. o krmivách.Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekárskej starostlivosti.
+- 3) Zákon č. 271/2005 Z. z. o výrobe, uvádzaní na trh a používaní krmív (krmivársky zákon).
 
 - 4) Zákon č. 136/2000 Z. z. o hnojivách.
 
@@ -32,6 +34,16 @@
 
 - 14) § 99 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
 
+- 14a) Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
+
+- 14b) Nariadenie Komisie (ES) č. 1179/94 z 25. mája 1994 týkajúce sa prvého zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 131, 26. 5. 1994).
+
+- Nariadenie Komisie (ES) č. 2268/95 z 27. septembra 1995 týkajúce sa druhého zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 231, 28. 9. 1995).
+
+- Nariadenie Komisie (ES) č. 143/97 z 27. januára 1997 týkajúce sa tretieho zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 025, 28. 1. 1997).
+
+- Nariadenie Komisie (ES) č. 2364/2000 z 25. októbra 2000 týkajúce sa štvrtého zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 273, 26. 10. 2000).
+
 - 15) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
@@ -55,6 +67,14 @@
 - Rozhodnutie Rady 2003/106/ES z 19. decembra 2002 o schválení, v mene Európskeho spoločenstva, Rotterdamského dohovoru o udeľovaní predbežného súhlasu po predchádzajúcom oznámení pre určité nebezpečné chemikálie a prípravky na ochranu rastlín v medzinárodnom obchode (Úradný vestník Európskej únie L 063, 06. 03. 2003).
 
 - 23b) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
+- 23g) Nariadenie Európskeho parlamentu a Rady (ES) č. 304/2003 z 28. januára 2003 o vývoze a dovoze nebezpečných chemikálií.
+
+- Rozhodnutie Rady 2003/106/ES z 19. decembra 2002 o schválení, v mene Európskeho spoločenstva, Rotterdamského dohovoru o udeľovaní predbežného súhlasu po predchádzajúcom oznámení pre určité nebezpečné chemikálie a prípravky na ochranu rastlín v medzinárodnom obchode (Ú. v. EÚ L 063, 6. 3. 2003).
+
+- 23j) Čl. 12 nariadenia (ES) č. 648/2004.
+
+- 23k) Čl. 5 ods. 3 nariadenia (ES) č. 648/2004.
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z.
 
