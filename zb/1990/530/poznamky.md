@@ -22,6 +22,8 @@
 
 - 2f) § 6 ods. 3 písm. d) zákona č. 566/2001 Z. z.
 
+- 2g) § 160 Obchodného zákonníka.
+
 - 3a) Napríklad § 187 ods. 1 písm. b) Obchodného zákonníka.
 
 - 3b) Zákon č. 483/2001 Z. z.
