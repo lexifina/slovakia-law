@@ -86,11 +86,7 @@
 
 - 40) § 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 41) § 123 zákona č. 566/2001 Z. z.
-
-- 42) § 122 zákona č. 566/2001 Z. z.
-
-- 43) § 120 zákona č. 566/2001 Z. z.
+- 42) § 125 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
 - 44) § 69 Obchodného zákonníka.
 
@@ -98,15 +94,17 @@
 
 - 46) § 66a Obchodného zákonníka.
 
+- 46a) § 125h ods. 1 písm. a) až h), j) a k) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+
+- 46b) § 125h ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+
 - 47) § 107 ods. 9 zákona č. 566/2001 Z. z.
 
 - 48) § 7 ods. 6 zákona č. 566/2001 Z. z.
 
-- 49) § 121 zákona č. 566/2001 Z. z.
-
-- 50) § 27 zákona č. 385/1999 Z. z.
-
 - 51) § 156 ods. 8 Obchodného zákonníka.
+
+- 51a) § 125a zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
 - 52) § 20 zákona č. 563/1991 Zb. o účtovníctve v znení zákona č. 366/1999 Z. z.
 
@@ -116,33 +114,13 @@
 
 - 55) Napríklad § 99 ods. 4 písm. a) zákona č. 566/2001 Z. z.
 
+- 55a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Ú. v. Európskych spoločenstiev L 243, 11.09.2002).
+
 - 56) § 28 ods. 3 písm. e) a f) zákona č. 566/2001 Z. z.
 
 - 57) § 119 zákona č. 566/2001 Z. z.
 
 - 58) § 5 písm. j) zákona č. 594/2003 Z. z.
-
-- 59) § 21 zákona č. 563/1991 Zb.
-
-- 60) Napríklad zákon č. 530/1990 Zb. v znení neskorších predpisov.
-
-- 61) § 168 ods. 2 Obchodného zákonníka.
-
-- 62) § 6 ods. 2 zákona č. 566/2001 Z. z.
-
-- 63) § 157 ods. 2 Obchodného zákonníka.
-
-- 64) § 114 a 118 zákona č. 566/2001 Z. z.
-
-- 65) § 2 písm. c) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
-- 66) § 207 Obchodného zákonníka.
-
-- 67) § 41 zákona č. 594/2003 Z. z.
-
-- 68) Príloha č. 4 k zákonu č. 594/2003 Z. z.
-
-- 69) § 14 zákona č. 594/2003 Z. z.
 
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
