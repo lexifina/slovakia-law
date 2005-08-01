@@ -2370,7 +2370,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) Vydanie rozhodnutia o zmene registrácie veterinárneho lieku |
 
-  - 1. zmena balenia, výrobcu, držiteľa rozhodnutia, druhu obalu, zmena názvu veterinárneho lieku .................................................................................................................. | 3 000 Sk
+  - 1. zmena balenia, výrobcu, držiteľa rozhodnutia, druhu obalu, zmena názvu veterinárneho lieku ....................................................................................... | 3 000 Sk
 
   - 2. zmeny v ochranných lehotách, spôsobe skladovania v dávkovaní, času použiteľnosti veterinárneho lieku ............................................................................................................................. | 20 000 Sk
 
@@ -2384,23 +2384,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - k) žiadosť o vzájomné uznanie registrácie veterinárneho lieku ................................................. | 35 000 Sk
 
-  - l) žiadosť o zaradenie lieku do zoznamu alebo o zmenu zaradenia lieku v zozname liekov | 1 000 Sk
+  - l) žiadosť o prevod registrácie humánneho lieku ................................................. | 10 000 Sk
 
-  - m) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok ...................................................... | 1 000 Sk
+  - m) žiadosť o prevod registrácie veterinárneho lieku ................................................. | 5 000 Sk
 
-  - n) žiadosť o zaradenie dietetickej potraviny na osobitné medicínske účely do zoznamu dietetických potravín ................................................................................................. | 1 000 Sk
+  - n) žiadosť o zaradenie lieku do zoznamu alebo o zmenu zaradenia lieku v zozname liekov | 1 000 Sk
 
-  - o) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) ............................................................................................... | 3 000 Sk
+  - o) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok ...................................................... | 1 000 Sk
 
-  - p) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) .... | 500 Sk
+  - p) žiadosť o zaradenie dietetickej potraviny na osobitné medicínske účely do zoznamu dietetických potravín .................................................................... | 1 000 Sk
 
-  - r) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) ............................................................................................................. | 500 Sk
+  - r) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) ............................................................................................ | 3 000 Sk
 
-  - s) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ................................................................................................... | 500 Sk
+  - s) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) .... | 500 Sk
 
-  - t) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku .............................. | 10 000 Sk
+  - t) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) .............................................................................. | 500 Sk
 
-  - u) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky ................... | 5 000 Sk
+  - u) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ........................................................................................................ | 500 Sk
+
+  - v) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku .............................. | 10 000 Sk
+
+  - z) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky ................... | 5 000 Sk
 
     - Položka 153
 
