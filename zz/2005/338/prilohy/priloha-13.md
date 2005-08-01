@@ -1,0 +1,3 @@
+Príloha č. 13 k vyhláške č. 338/2005 Z. z.
+
+- VÝSLEDNÁ BILANCIA ŽIVÍN ZA CELÚ OBHOSPODAROVANÚ VÝMERU POĽNOHOSPODÁRSKEJ PÔDY [Tabuľka 13](../assets/561abb97bebc5514ca9a26aa199db1c36214181dc225b965a7e97c950f2e245c.pdf)
