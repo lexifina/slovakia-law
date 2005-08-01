@@ -42,6 +42,8 @@
 
 - 17) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
+- 17a) Napríklad zákon č. 634/1992 Zb. v znení neskorších predpisov, zákon č. 264/1999 Z. z. v znení neskorších predpisov, zákon č. 178/1998 Z. z. v znení neskorších predpisov, zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov, zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení zákona č. 434/2004 Z. z.
+
 - 18) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
