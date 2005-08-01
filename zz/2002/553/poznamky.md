@@ -12,6 +12,8 @@
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
+- 5a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+
 - 6) § 15 Občianskeho zákonníka.
 
 - 7) Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
