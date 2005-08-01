@@ -8,7 +8,7 @@
 
 (4) Štátny ústav kontroluje, či zadávateľ registruje a oznamuje všetky podozrenia na neočakávané závažné nežiaduce účinky skúšaného produktu alebo skúšaného lieku, o ktorých sa dozvedel.
 
-(5) Zadávateľ predkladá na požiadanie zdravotnej poisťovne, ktorá vykonáva zdravotné poistenie,
+(5) Zadávateľ predkladá na požiadanie zdravotnej poisťovne, ktorá vykonáva verejné zdravotné poistenie,
 
 - a) kópiu písomnej správy podľa odseku 4,
 

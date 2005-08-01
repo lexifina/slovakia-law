@@ -10,4 +10,4 @@
 
 (5) Po oznámení úmrtia účastníka (odseky 2 a 4) skúšajúci poskytne zadávateľovi a etickej komisii všetky požadované informácie.
 
-(6) Zadávateľ vedie register všetkých nežiaducich udalostí, ktoré mu oznámil skúšajúci; register sa predkladá na požiadanie štátnemu ústavu, etickej komisii a zdravotnej poisťovni, ktorá vykonáva zdravotné poistenie účastníka, a príslušným orgánom členských štátov, na ktorých území sa vykonáva multicentrické klinické skúšanie.
+(6) Zadávateľ vedie register všetkých nežiaducich udalostí, ktoré mu oznámil skúšajúci; register sa predkladá na požiadanie štátnemu ústavu, etickej komisii a zdravotnej poisťovni, ktorá vykonáva verejné zdravotné poistenie účastníka, a príslušným orgánom členských štátov, na ktorých území sa vykonáva multicentrické klinické skúšanie.
