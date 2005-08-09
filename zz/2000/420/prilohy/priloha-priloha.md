@@ -2,9 +2,9 @@ Príloha
 
 - ZOZNAM hraničných priechodov na spoločných štátnych hraniciach a) Cestné hraničné priechody
 
-- &nbsp | Hraničný priechod | Dislokácia | Kategória | Rozsah dopravy | Prevádzková doba
+- | Hraničný priechod | Dislokácia | Kategória | Rozsah dopravy | Prevádzková doba
 
-- &nbsp | 1 | 2 | 3 | 4 | 5
+- | 1 | 2 | 3 | 4 | 5
 
 - 1. | Brodské - Lanžhot | SR/ČR | 1 | P, C, M, OA, B, N3 | nepretržitá
 
@@ -18,23 +18,17 @@ Príloha
 
 - 6 | Moravské Lieskové - Strání | ČR | 1 | P, C, M, OA, B, N3 | nepretržitá
 
-- &nbsp | &nbsp | &nbsp | &nbsp | &nbsp | &nbsp
-
 - 7. | Nová Bošáca - Brezová | ČR | 1 | P, C, M, OA, B, N3 | nepretržitá
-
-- &nbsp | &nbsp | &nbsp | &nbsp | &nbsp | &nbsp
 
 - 8. | Drietoma - Starý Hrozenkov | ČR | 1 | P, C, M, OA, B, N | nepretržitá
 
 - 9 | Horné Srnie - Brumov-Bylnice | SR | 1 | P, C, M, OA, B, N3 | nepretržitá
 
-- &nbsp | &nbsp | &nbsp | &nbsp | &nbsp | &nbsp
-
 - 10. | Červený Kameň - Nedašova Lhota | SR | 1 | P, C, M, OA, N3 | nepretržitá
 
 - 11. | Lysá pod Makytou - Strelná | ČR | 1 | P, C, M, OA, B, N | nepretržitá
 
-- 12. | Makov - Velké Karlovice | SR | 1 | P, C, M, OA, B, N | nepretržitá
+- 12. | Zrušený od 9. 8. 2005. | | | |
 
 - 13. | Makov - Bílá-Bumbálka | SR | 1 | P, C, M, OA, B, N | nepretržitá
 
