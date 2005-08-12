@@ -1,0 +1,35 @@
+## Konanie
+
+# § 44a
+
+(1) Konanie vo veciach upravených týmto zákonom, na ktoré sa nevzťahuje všeobecný predpis o správnom konaní, je začaté dňom, keď voči prevádzkovateľovi, sprostredkovateľovi alebo inej právnickej osobe alebo fyzickej osobe (ďalej len „účastník konania“) urobil úrad prvý úkon. Ak sa konanie začína na podnet účastníka konania, dňom začatia konania je deň doručenia podnetu úradu.
+
+(2) Účastníkom konania je ten, o koho právach alebo povinnostiach sa má konať. Za účastníka konania, ktorým nie je fyzická osoba, koná štatutárny orgán, prípadne jeho zamestnanec alebo člen, ktorý sa preukáže písomným poverením štatutárneho orgánu, že je oprávnený za neho konať, pokiaľ jednotlivé ustanovenia tohto zákona neustanovujú inak. Účastník konania sa môže nechať v konaní zastupovať. V tej istej veci môže mať účastník konania súčasne len jedného zástupcu, ktorému udelí písomne splnomocnenie na celé konanie, alebo len na určité úkony. Splnomocnenie na zastupovanie účastníka konania, ktorým nie je fyzická osoba, musí byť udelené osobou, ktorá je oprávnená konať v jeho mene.
+
+(3) Konanie je neverejné. Týmto nie je dotknuté ustanovenie § 48.
+
+(4) Na dokazovanie možno použiť všetky prostriedky, ktorými možno zistiť a objasniť skutočný stav veci a ktoré sú v súlade s právnymi predpismi. Dôkazmi sú najmä vyjadrenia účastníkov konania, výpovede svedkov, listiny, znalecké posudky alebo odborné posudky, správy, vyjadrenia a potvrdenia orgánov alebo iných právnických osôb a fyzických osôb, zverejnené informácie, obhliadky a kontrolné zistenia. Ako dôkaz možno použiť namiesto originálu listiny alebo originálu akéhokoľvek záznamu aj ich rozmnoženinu v tlačenej, fotografickej, zvukovej, zvukovo-obrazovej alebo v inej všeobecne zrozumiteľnej forme, ak je umiestnená na bežne dostupnom nosiči informácií.
+
+(5) Úrad môže namiesto dôkazu pripustiť čestné vyhlásenie fyzickej osoby. Čestné vyhlásenie úrad nepripustí, ak tomu bráni všeobecný záujem alebo ak by tým bola porušená rovnosť medzi účastníkmi konania. Čestným vyhlásením nemožno nahradiť znalecký posudok. V čestnom vyhlásení je fyzická osoba povinná uviesť pravdivé údaje. Úrad musí upozorniť fyzickú osobu na právne následky nepravdivého čestného vyhlásenia.
+
+(6) Úrad môže ustanoviť znalca alebo znalcov podľa osobitného predpisu,<sup>33a</sup>) ak je na odborné posúdenie skutočností dôležitých pre rozhodnutie vo veci potrebný znalecký posudok a uložiť ustanovenému znalcovi, aby samostatne písomne vypracoval znalecký posudok, alebo aby sa v znaleckom posudku vyjadril k otázkam, ktoré mu položil úrad. Na tento účel úrad ustanovenému znalcovi sprístupní potrebné údaje zo spisu. V súvislosti s vypracovaním znaleckého posudku môže úrad uložiť účastníkovi konania, aby poskytol ustanovenému znalcovi všetky podstatné informácie, predložil alebo sprístupnil všetky potrebné listiny, podklady alebo predmety, alebo umožnil prístup k technickému a programovému vybaveniu informačného systému, podal mu potrebné vysvetlenia, alebo aby niečo vykonal alebo znášal, ak je to potrebné na podanie znaleckého posudku.
+
+(7) Účastník konania je povinný navrhnúť na podporu svojich tvrdení dôkazy, ktoré sú mu známe. Úrad rozhodne, ktoré z navrhnutých dôkazov sa vykonajú a vykoná aj iné dôkazy, ktoré účastníci konania nenavrhli, ak sú potrebné na zistenie a objasnenie skutočného stavu veci. Skutočnosti všeobecne známe alebo známe úradu z jeho činnosti netreba dokazovať.
+
+(8) Úrad hodnotí dôkazy podľa svojej voľnej úvahy, a to každý dôkaz jednotlivo a všetky dôkazy v ich vzájomnej súvislosti; pritom prihliada na všetko, čo v konaní vyšlo najavo.
+
+(9) Dôležité písomnosti, najmä opatrenia a rozhodnutia sa účastníkovi konania, adresátovi, alebo osobe, ktorá sa preukáže jeho splnomocnením na preberanie zásielok, doručujú poštou ako doporučená zásielka s doručenkou a poznámkou „do vlastných rúk“. Písomnosti, ktoré sú určené účastníkovi konania, ktorým nie je fyzická osoba, doručujú sa osobám alebo členom oprávneným za tento subjekt prijímať písomnosti alebo tomu, kto je oprávnený za tento subjekt konať. Písomnosti určené advokátovi možno doručovať tiež advokátskym koncipientom a iným pracovníkom, ktorí sú u advokáta pracovne činní a sú advokátom poverení na prijímanie zásielok.
+
+(10) Ak nebol adresát zásielky, ktorá sa má doručiť do vlastných rúk, zastihnutý, hoci sa v mieste doručenia zdržiava, doručovateľ ho vhodným spôsobom upovedomí, že zásielku príde znovu doručiť v určený deň a hodinu. Ak nový pokus o doručenie zostane bezvýsledný, doručovateľ uloží zásielku na pošte a adresáta o tom vhodným spôsobom upovedomí. Ak si adresát nevyzdvihne zásielku do troch dní od uloženia, posledný deň tejto lehoty sa považuje za deň doručenia, aj keď sa adresát o uložení nedozvedel.
+
+(11) Ak si adresát vyhradí doručovanie zásielok do poštového priečinka, pošta adresátovi oznámi príchod zásielky, možnosť prevzatia a odbernú lehotu na predpísanom tlačive, ktoré vloží do poštového priečinka. Ak si adresát na základe dohody preberá zásielky na pošte a nemá pridelený poštový priečinok, pošta tieto zásielky neoznamuje. V obidvoch prípadoch sa dátum príchodu zásielky považuje za dátum uloženia. Ak si adresát nevyzdvihne zásielku do troch dní od uloženia, posledný deň tejto lehoty sa považuje za deň doručenia, aj keď sa adresát o uložení nedozvedel.
+
+(12) Účastník konania, ktorý sa zdržiava v cudzine alebo tam má sídlo alebo trvalý pobyt, je povinný na doručovanie zásielok určiť si svojho zástupcu so sídlom alebo s trvalým pobytom na území Slovenskej republiky a včas písomne úradu oznámiť jeho meno, priezvisko a adresu.
+
+(13) Písomnosť je doručená ihneď, ako ju účastník konania prevezme alebo pošta doporučenú zásielku vrátila ako nedoručiteľnú alebo ak doručenie zásielky bolo zmarené konaním alebo opomenutím účastníka konania. Ak adresát bezdôvodne odoprel zásielku prijať, písomnosť je doručená dňom, keď sa jej prijatie odoprelo; na to musí doručovateľ adresáta upozorniť.
+
+(14) Ak je to potrebné, úrad určí na vykonanie úkonu v konaní lehotu, ak ju neustanovuje tento zákon. Do lehoty sa nezapočítava deň, keď došlo ku skutočnosti určujúcej začiatok lehoty. Lehoty určené podľa týždňov, mesiacov alebo rokov sa končia uplynutím toho dňa, ktorý sa svojím označením zhoduje s dňom, keď došlo ku skutočnosti určujúcej začiatok lehoty, a ak taký deň v mesiaci nie je, lehota sa končí posledným dňom mesiaca. Ak koniec lehoty pripadne na sobotu, nedeľu alebo na deň pracovného pokoja, je posledným dňom lehoty najbližší nasledujúci pracovný deň. Lehota je zachovaná, ak sa posledný deň lehoty podanie podá na úrad alebo ak sa odovzdá na poštovú prepravu. V pochybnostiach sa považuje lehota za zachovanú, ak sa nepreukáže opak.
+
+(15) Trovy, ktoré v konaní vznikli účastníkovi konania, znáša účastník konania. Trovy konania, ktoré vznikli úradu, znáša úrad.
+
+(16) Konanie začaté z vlastnej iniciatívy úradu možno zastaviť, ak odpadol dôvod konania alebo ak sa v priebehu konania preukázalo, že nie sú dostatočné dôvody na jeho pokračovanie, alebo ak účastník konania zomrel.
