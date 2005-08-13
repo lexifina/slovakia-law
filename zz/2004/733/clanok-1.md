@@ -34,7 +34,17 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - 10. V § 39 ods. 12 písm. a) sa vypúšťajú slová „a drobných stavebných odpadov“.
 
+- 11. § 39 sa dopĺňa odsekom 15, ktorý znie:
+
+- „(15)
+
+- Obec je povinná umožniť výrobcovi elektrozariadení zaviesť a prevádzkovať na jej území systém oddeleného zberu elektroodpadu z domácností a umožniť mu v rozsahu potrebnom na tento účel užívať existujúce zariadenia na zber komunálnych odpadov; ak takú možnosť obec nemá, je povinná umožniť výrobcovi elektrozariadení v uvedenom rozsahu zriadiť na jej pozemkoch zariadenie na zber elektroodpadu z domácností. Obec má nárok na náhradu nákladov, ktoré jej vznikli z postupu podľa prvej vety.“.
+
 - 12. V § 44 ods. 1 druhej vete, § 44a ods. 1 druhej vete, § 46 ods. 1 druhej vete, § 46 ods. 2 druhej vete, § 48 ods. 1 druhej vete a § 48 ods. 2 druhej vete sa slová „pre ktoré“ nahrádzajú slovom „ktorých“.
+
+- 13. § 45 sa vypúšťa.
+
+- 14. § 47 sa vypúšťa.
 
 - 15. V § 49 ods. 7 sa slová „prípravu na zhodnotenie alebo zneškodnenie“ nahrádzajú slovami „zhodnotenie alebo na prípravu na zneškodnenie“.
 
@@ -137,6 +147,30 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 - a)
 
 - zabezpečiť, aby elektrozariadenie bolo vyrobené a navrhnuté tak, aby sa uľahčila demontáž a zhodnotenie, najmä opätovné použitie a recyklácia elektroodpadu, najmä nesmie použiť špecifické konštrukčné prvky alebo výrobné postupy, ktoré by bránili opätovnému použitiu elektroodpadu, ak takéto špecifické konštrukčné prvky alebo výrobné postupy neposkytujú dôležité výhody vo vzťahu k ochrane životného prostredia alebo k požiadavkám na zaistenie bezpečnosti a zdravia,
+
+- b)
+
+- vyznačiť pri uvedení elektrozariadenia na trh na elektrozariadení alebo na obale elektrozariadenia alebo vyznačiť na daňovom či inom obdobnom doklade vyhotovenom pri jeho predaji údaje, z ktorých bude možné zistiť osobu, ktorá uviedla elektrozariadenie na trh a údaj, či bolo elektrozariadenie uvedené na trh pred alebo po 13. auguste 2005; táto povinnosť sa nevzťahuje na svetelné zdroje,
+
+- c)
+
+- uvádzať na trh elektrozariadenie označené grafickým symbolom ustanoveným vo všeobecne záväznom právnom predpise [§ 68 ods. 3 písm. u)] na účely spätného odberu alebo oddeleného zberu; táto povinnosť sa nevzťahuje na svetelné zdroje; ak nie je možné elektrozariadenie takto označiť z dôvodu jeho veľkosti alebo funkčnosti, označí sa obal, návod na použitie a záručný list elektrozariadenia,
+
+- e)
+
+- zabezpečiť individuálne alebo kolektívne spätný odber elektrozariadení a oddelený zber elektroodpadu od pôvodcov s výnimkou historického elektroodpadu, ktorý nie je elektroodpadom z domácností (§ 54f ods. 3),
+
+- f)
+
+- plniť povinnosti podľa § 54e ods. 1, § 54f ods. 1 a § 54g ods. 1 tak, aby nadväzovali na systém spätného odberu alebo oddeleného zberu,
+
+- g)
+
+- spätne odobraté elektrozariadenie a elektroodpad z oddeleného zberu prednostne opätovne používať ako celok, inak ho odovzdať spracovateľovi elektroodpadu alebo do zariadenia na zber odpadov, ak takéto zariadenie vykonáva zber elektroodpadu výhradne pre spracovateľa elektroodpadu,
+
+- h)
+
+- oddelený zber a odovzdanie zozbieraného elektroodpadu spracovateľovi uskutočňovať tak, aby nedochádzalo k sťažovaniu opätovného použitia alebo recyklácie takéhoto elektroodpadu,
 
 - i)
 
@@ -248,7 +282,181 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - (3)
 
-- Za plnenie ustanovených limitov podľa odseku 1 písm. i) sa považuje potvrdené zhodnocovanie, opätovné použitie alebo recyklácia elektroodpadu aj na území iného členského štátu Európskej únie. Pri vývoze elektroodpadu na územie nečlenského štátu Európskej únie sa za plnenie ustanovených limitov považuje zhodnocovanie, opätovné použitie alebo recyklácia, ak vývozca preukáže, že sa uskutočnili za podmienok porovnateľných s podmienkami ustanovenými týmto zákonom.“.
+- Za plnenie ustanovených limitov podľa odseku 1 písm. i) sa považuje potvrdené zhodnocovanie, opätovné použitie alebo recyklácia elektroodpadu aj na území iného členského štátu Európskej únie. Pri vývoze elektroodpadu na územie nečlenského štátu Európskej únie sa za plnenie ustanovených limitov považuje zhodnocovanie, opätovné použitie alebo recyklácia, ak vývozca preukáže, že sa uskutočnili za podmienok porovnateľných s podmienkami ustanovenými týmto zákonom.
+
+- § 54c
+
+- Povinnosti distribútora a oprávnenie spotrebiteľa
+
+- (1)
+
+- Distribútor, ktorý uskutočňuje spätný odber, je povinný o tom informovať obvyklým spôsobom spotrebiteľa.
+
+- (2)
+
+- Distribútor je povinný uskutočňovať spätný odber bezplatne. Distribútor môže spätný odber odmietnuť, ak odovzdávané elektrozariadenie neobsahuje základné komponenty, obsahuje odpad, alebo keď z dôvodu kontaminácie predstavuje riziko pre zdravie a bezpečnosť personálu.
+
+- (3)
+
+- Distribútor, ktorý uskutočňuje spätný odber, je povinný vykonávať spätný odber elektrozariadení a ich odovzdávanie spracovateľovi elektroodpadu tak, aby nedochádzalo k sťaženiu opätovného použitia alebo recyklácie takéhoto elektroodpadu.
+
+- (4)
+
+- Spotrebiteľ je oprávnený bezplatne odovzdať elektrozariadenie do systému spätného odberu alebo elektroodpad do systému oddeleného zberu.
+
+- § 54d
+
+- Povinnosti spracovateľa elektroodpadu
+
+- Spracovateľ elektroodpadu je okrem povinností podľa § 19 tohto zákona povinný
+
+- a)
+
+- voliť pri výstavbe nových zariadení na spracovanie elektroodpadu alebo pri modernizácii jestvujúcich zariadení najlepšie dostupné technológie s prihliadnutím na primeranosť výdavkov na ich obstaranie a prevádzku,
+
+- b)
+
+- uvádzať do prevádzky a prevádzkovať stroje a zariadenia na spracovanie elektroodpadu v súlade s platnou dokumentáciou a s podmienkami určenými v súhlase obvodného úradu životného prostredia vydanom podľa § 7 ods. 1 písm. r),
+
+- c)
+
+- vykonať opatrenia na nápravu uložené príslušným orgánom štátnej správy odpadového hospodárstva (§ 69),
+
+- d)
+
+- viesť prevádzkovú dokumentáciu o spracovaní elektroodpadu,
+
+- e)
+
+- viesť a uchovávať v ustanovenom rozsahu evidenciu o množstve a kategóriách prevzatého spracovaného elektroodpadu a spôsobe jeho spracovania,
+
+- f)
+
+- ohlasovať ustanovené údaje z evidencie výrobcovi elektrozariadenia a štvrťročne Recyklačnému fondu,
+
+- g)
+
+- nakladať s elektroodpadom tak, aby bol predovšetkým zbavený látok nebezpečných pre životné prostredie, prednostne odobrať z elektroodpadu všetky kvapaliny a komponenty, vykonať ďalšie opatrenia na zníženie negatívnych vplyvov na životné prostredie,
+
+- h)
+
+- zabezpečiť úplné spracovanie elektroodpadu vrátane zabezpečenia opätovného použitia častí elektroodpadu a zhodnotenia odpadov zo spracovania elektroodpadu, najmä recykláciou, ako aj zabezpečenia zneškodnenia nevyužiteľných zvyškov,
+
+- i)
+
+- zverejniť podmienky, za ktorých preberá elektroodpad na spracovanie,
+
+- j)
+
+- prevziať vo svojej prevádzke na spracovanie elektroodpad z domácností bez požadovania poplatku alebo inej platby od jeho konečného držiteľa,
+
+- k)
+
+- plniť povinnosti pôvodcu odpadu vo vzťahu k ním produkovaným odpadom,
+
+- l)
+
+- skladovať a spracovať elektroodpad podľa ustanovených technických požiadaviek.
+
+- § 54e
+
+- Nakladanie s elektroodpadom z domácností
+
+- (1)
+
+- Výrobca elektrozariadení je povinný zabezpečiť na vlastné náklady individuálne alebo kolektívne nakladanie s odovzdaným elektroodpadom z domácností, ak pochádza z elektrozariadení z jeho výroby, predaja alebo dovozu uvedených na trh po 13. auguste 2005.
+
+- (2)
+
+- Výrobca elektrozariadení je povinný zabezpečiť na vlastné náklady kolektívne nakladanie s elektroodpadom, ktorý pochádza z elektrozariadenia uvedeného na trh pred 13. augustom 2005 (ďalej len “historický elektroodpad„) z domácností, odovzdaného za predchádzajúci kalendárny rok, podľa podielu výrobcov elektrozariadení na trhu, ktorý určí ministerstvo pre každú kategóriu elektrozariadení v kalendárnom roku na základe hlásení podľa § 54b ods. 1 písm. p).
+
+- (3)
+
+- Výrobca elektrozariadení je oprávnený pri predaji elektrozariadenia uvádzať na elektrozariadení, alebo na jeho obale alebo etikete alebo na daňovom či inom obdobnom doklade vyhotovenom pri jeho predaji, výšku recyklačného poplatku určeného na úhradu nákladov na nakladanie s historickým elektroodpadom z domácností pochádzajúcim z týchto elektrozariadení. Výška recyklačného poplatku musí zodpovedať skutočne vynaloženým nákladom na nakladanie s elektroodpadom. Po uplynutí ustanovených termínov (§ 81 ods. 21) sa uvádzanie recyklačných poplatkov na elektrozariadení zakazuje.
+
+- (4)
+
+- Povinnosti podľa odseku 1 sa vzťahujú aj na výrobcov elektrozariadení uvádzajúcich na trh elektrozariadenia prostriedkami elektronickej komunikácie, a to v prípade, ak je miesto plnenia alebo určenia na území Slovenskej republiky.
+
+- (5)
+
+- Na elektroodpad z domácností, ktorý je komunálnym odpadom, sa nevzťahujú ustanovenia § 39 okrem odsekov 4 a 5, ktoré sa naň vzťahujú primerane a odseku 15.
+
+- § 54f
+
+- Nakladanie s elektroodpadom, ktorý nie je elektroodpadom z domácností
+
+- (1)
+
+- Výrobca elektrozariadení je povinný zabezpečiť na vlastné náklady individuálne alebo kolektívne nakladanie s elektroodpadom, ktorý nie je elektroodpadom z domácností, ak pochádza z elektrozariadení z jeho výroby, predaja alebo dovozu uvedených na trh po 13. auguste 2005.
+
+- (2)
+
+- Výrobca elektrozariadení je povinný zabezpečiť na vlastné náklady individuálne nakladanie s historickým elektroodpadom, ktorý nie je elektroodpadom z domácností, ak takýto elektroodpad pochádza z elektrozariadenia rovnakej kategórie alebo rovnakého funkčného určenia, ako je nahradzujúce elektrozariadenie, a to pri jeho predaji.
+
+- (3)
+
+- Nakladanie s historickým elektroodpadom, ktorý nie je elektroodpadom z domácností a nie je uvedený v odseku 2, zabezpečí jeho držiteľ.
+
+- § 54g
+
+- Nakladanie s elektroodpadom zo svetelných zdrojov
+
+- (1)
+
+- Nakladanie s elektroodpadom podľa prílohy č. 3a bodu 5 zabezpečí výrobca svetelných zdrojov individuálne alebo kolektívne bez rozdielu miesta vzniku elektroodpadu a dátumu uvedenia svetelného zdroja na trh.
+
+- (2)
+
+- Na výrobcu svetelných zdrojov sa rovnako vzťahuje § 54e ods. 4.
+
+- § 54h
+
+- Spoločné ustanovenie
+
+- (1)
+
+- Výrobca elektrozariadení, ktorý plní povinnosti podľa § 54e ods. 1 a § 54f ods. 1 individuálne a výrobca svetelných zdrojov, ktorý plní povinnosti podľa § 54g ods. 1 individuálne sú povinní pri uvedení elektrozariadenia na trh poskytnúť záruku na zabezpečenie týchto povinností formou viazaného bankového účtu alebo zodpovedajúceho poistenia. Výška záruky sa určí ako súčin množstva elektrozariadení podľa kategórií a príslušnej sadzby.
+
+- (2)
+
+- Kolektívne zabezpečovanie spätného odberu, oddeleného zberu a nakladania s elektroodpadom nezbavuje výrobcu zodpovednosti za plnenie ustanovených limitov.
+
+- (3)
+
+- Výrobca elektrozariadení môže uzatvoriť s obcou zmluvu o zavedení a prevádzkovaní systému oddeleného zberu elektroodpadu na jej území.
+
+- § 54i
+
+- Príspevok do Recyklačného fondu za elektrozariadenia
+
+- (1)
+
+- Výrobca elektrozariadení je povinný platiť príspevok do Recyklačného fondu za elektrozariadenia, v množstve rovnajúcom sa elektroodpadu, pre ktoré nezabezpečil zber elektroodpadov a ich zhodnotenie, opätovné použitie alebo recykláciu sám alebo kolektívne v rozsahu ustanovených limitov [§ 54b ods. 1 písm. i)]; príspevok sa platí podľa § 56 ods. 1 za kalendárny štvrťrok.
+
+- (2)
+
+- Príspevok platia a za správnosť jeho výpočtu zodpovedajú výrobcovia elektrozariadení, ktorí uvádzajú výrobky na trh v Slovenskej republike.
+
+- (3)
+
+- Výrobca elektrozariadení platí príspevok podľa § 41 ods. 13 a 14.
+
+- (4)
+
+- Výrobca elektrozariadení je povinný zaregistrovať sa v Recyklačnom fonde do 30 dní od začatia činnosti, ohlásiť Recyklačnému fondu zmeny v údajoch potrebných na registráciu a umožniť orgánom štátneho dozoru v odpadovom hospodárstve (§ 73) kontrolu ich registrácie v Recyklačnom fonde, kontrolu správnosti výpočtu príspevku a kontrolu jeho platenia.
+
+- (5)
+
+- Výrobca elektrozariadení je povinný
+
+- a)
+
+- viesť a uchovávať evidenciu o objeme svojej výroby, dovozu, vývozu a reexportu,
+
+- b)
+
+- ohlasovať ustanovené údaje z evidencie štvrťročne Recyklačnému fondu a príslušnému obvodnému úradu životného prostredia.“.
 
 - Doterajšia siedma až desiata časť sa označujú ako ôsma až jedenásta časť.
 
@@ -257,6 +465,22 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 - „69)
 
 - § 3 ods. 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.“.
+
+- 19. V § 55 ods. 1 písmeno e) znie:
+
+- „e)
+
+- elektrozariadení (§ 54i)“.
+
+- 20. V § 55 ods. 1 sa vypúšťa písmeno g).
+
+- Doterajšie písmená h) až k) sa označujú ako písmená g) až j).
+
+- 21. V § 55 ods. 2 sa vypúšťa písmeno g).
+
+- Doterajšie písmená h) až l) sa označujú ako písmená g) až k).
+
+- 22. V § 58 ods. 2 sa slovo „sedemnásť“ nahrádza slovom „šestnásť“ a v písmene a) sa slovo „jedenásť“ nahrádza slovom „desať“ a slová „písm. a) až k)“ sa nahrádzajú slovami „písm. a) až j)“.
 
 - 23. V § 62 ods. 1 písm. a) piaty bod znie:
 
