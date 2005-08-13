@@ -158,159 +158,239 @@ Príloha k vyhláške č. 127/2004 Z. z.
 
 - 9616 10 90 | Rozprašovacie zariadenia a hlavy na ne z kovov
 
-  - F. Elektrické a elektronické zariadenia podľa § 45 zákona
+  - F. Elektrozariadenia podľa § 54i zákona
 
-- Kód podľa colného sadzobníka | Názov výrobku podľa colného sadzobníka
+- Kategória č. 1 | Veľké domáce spotrebiče
 
-- 8469 | Písacie stroje (iné ako tlačiarne položky 8471 colného sadzobníka); stroje na spracovanie textu
+- 1.1. | Chladiace zariadenia
 
-- 8470 | Počítacie stroje a vreckové prístroje na záznam, vyvolanie a zobrazenie údajov výpočtovými funkciami; účtovacie stroje, frankovacie stroje, stroje na vydávanie lístkov a podobné stroje vybavené počítacím zariadením; registračné pokladnice
+- 1.1.1. | Veľké chladiarenské spotrebiče
 
-- ex 8471 | Stroje na automatické spracovanie údajov a ich jednotky; magnetické alebo optické snímače, stroje na prepis údajov v kódovanej forme na pamäťové médiá a stroje spracúvajúce tieto údaje, inde nešpecifikované alebo nezahrnuté:
+- 1.1.2. | Chladničky
 
-- ex 8471 10 8471 10 90 | - Analógové alebo hybridné stroje na automatické spracovanie údajov: — Ostatné
+- 1.1.3. | Mrazničky
 
-- | - Ostatné digitálne zariadenia na automatické spracovanie údajov:
+- 1.1.4. | Iné veľké spotrebiče používané na chladenie, konzervovanie a skladovanie potravín
 
-- 8471 41 | — Obsahujúce pod spoločným krytom najmenej centrálnu spracovateľskú jednotku, vstupnú a výstupnú jednotku, tiež kombinované:
+- 1.2. | Ostatné
 
-- 8471 41 10 | — Na použitie v civilných lietadlách
+- 1.2.1. | Práčky
 
-- 8471 41 90 | — Ostatné
+- 1.2.2. | Sušičky
 
-- 8471 49 | — Ostatné predkladané vo forme systému:
+- 1.2.3. | Umývačky riadu
 
-- 8471 49 10 | — Na použitie v civilných lietadlách
+- 1.2.4. | Sporáky a rúry na pečenie
 
-- 8471 49 90 | — Ostatné
+- 1.2.5. | Elektrické sporáky
 
-- 8471 50 | - Digitálne spracovateľské jednotky, iné ako patriace do podpoložiek 847141 a 8471 49 colného sadzobníka, tiež obsahujúce pod spoločným krytom aj jednu alebo dve z nasledujúcich jednotiek: pamäťové jednotky, vstupné a výstupné jednotky:
+- 1.2.6. | Elektrické varné dosky
 
-- 8471 50 10 | — Na použitie v civilných lietadlách
+- 1.2.7. | Mikrovlnné rúry
 
-- 8471 50 90 | -- Ostatné
+- 1.2.8. | Iné veľké spotrebiče používané na varenie a iné spracovanie potravín
 
-- ex 8471 60 | - Vstupné alebo výstupné jednotky, tiež obsahujúce pod spoločným krytom aj pamäťové jednotky:
+- 1.2.9. | Elektrické spotrebiče na vykurovanie
 
-- 8471 60 40 | — Tlačiarne
+- 1.2.10. | Elektrické radiátory
 
-- 8471 60 50 | — Klávesnice
+- 1.2.11. | Iné veľké spotrebiče na vykurovanie miestností, postelí, nábytku na sedenie
 
-- 8471 60 90 | — Ostatné
+- 1.2.12. | Elektrické ventilátory
 
-- 8510 | Holiace strojčeky a strojčeky na strihanie vlasov, so vstavaným elektrickým motorom
+- 1.2.13. | Klimatizačné zariadenia
 
-- 8517 | Elektrické prístroje na linkovú telefóniu alebo telegrafiu, vrátane linkových telefónnych súprav s bezdrôtovými mikrotelefónmi a telekomunikačné prístroje na nosnú frekvenciu alebo na digitálne drôtové systémy; videotelefóny
+- 1.2.14. | Iné zariadenia na ventiláciu a klimatizáciu
 
-- 8518 | Mikrofóny a ich stojany; reproduktory, tiež vstavané; slúchadlá všetkých druhov kombinované alebo nekombinované s mikrofónom a súpravy pozostávajúce z mikrofónu a jedného alebo viacerých reproduktorov; elektrické nízkofrekvenčné zosilňovače; súpravy elektrických zosilňovačov zvuku
+- Kategória č. 2 | Malé domáce spotrebiče
 
-- 8519 | Gramofóny, tiež prenosné, gramofónové šasi, kazetové prehrávače a iné zvukové reprodukčné prístroje bez zariadenia na záznam zvuku
+- 2.1. | Vysávače
 
-- 8520 | Magnetofóny a iné prístroje na záznam zvuku, tiež s reprodukčným zariadením
+- 2.2. | Čističe kobercov
 
-- 8521 | Videofonické prístroje na záznam a reprodukciu, tiež so zabudovaným videotunerom
+- 2.3. | Iné spotrebiče na čistenie
 
-- ex 8522 | Časti, súčasti a príslušenstvo vhodné na použitie výhradne alebo hlavne s prístrojmi položiek 8519 až 8521 colného sadzobníka:
+- 2.4. | Spotrebiče, ktoré sa používajú na šitie, tkanie a iné spracovanie textilu
 
-- 8522 10 00 | - Prenosky
+- 2.5. | Žehličky a iné spotrebiče na žehlenie, mangľovanie a inú starostlivosť o šatstvo
 
-- ex 8522 90 | - Ostatné:
+- 2.6. | Hriankovače
 
-- 8522 90 10 | — Zostavy a podzostavy skladajúce sa z dvoch alebo niekoľkých spojených častí, na prístroje patriace do podpoložky 8520 90 colného sadzobníka na použitie v civilných lietadlách
+- 2.7. | Fritézy
 
-- | — Ostatné:
+- 2.8. | Mlynčeky, kávovary a zariadenia na otváranie a zatváranie nádob alebo obalov
 
-- | -----Elektronické zostavy:
+- 2.9. | Elektrické nože
 
-- 8522 90 51 | -----Zostavy tlačených obvodov pre výrobky podpoložky 8520 20 00 colného sadzobníka
+- 2.10. | Spotrebiče na strihanie vlasov, sušenie vlasov, čistenie zubov, holenie, masáž a iné spotrebiče na starostlivosť o telo
 
-- 8522 90 59 | -----Ostatné
+- 2.11. | Hodiny, hodinky a zariadenia na meranie, ukazovanie alebo zaznamenávanie času
 
-- 8522 90 93 | — Jednoduché kazetové zostavy o celkovej hrúbke nepresahujúcej 53 mm, používané vo výrobe prístrojov na záznam zvuku a reprodukčných prístrojov
+- 2.12. | Váhy
 
-- 8522 90 98 | —- Ostatné
+- Kategória č. 3 | Informačné technológie a telekomunikačné zariadenia
 
-- 8527 | Prijímacie prístroje na rádiotelefóniu, rádiotelegrafiu alebo rozhlasové vysielanie tiež kombinované v jednej skrini s prístrojom na záznam alebo reprodukciu zvuku alebo s hodinami
+- 3.1. | Osobné počítače
 
-- 8528 | Televízne prijímače tiež so vstavanými rozhlasovými prijímačmi alebo prístrojmi na záznam či reprodukciu zvuku alebo obrazu; videomonitory a videoprojektory
+- 3.1.1. | Servery
 
-- ex 8537 | Rozvádzače, rozvodové panely, ovládacie (dispečerské) stoly, pulty, skrine a ostatné základne vybavené dvoma alebo viacerými zariadeniami položky 8535 alebo 8536 colného sadzobníka, na elektronické riadenie alebo na rozvod elektrického prúdu vrátane zabudovaných nástrojov a prístrojov kapitoly 90 a číslicové riadiace zariadenia, okrem spínacích prístrojov a zariadení položky 8517 colného sadzobníka:
+- 3.1.2. | Minipočítače
 
-- 8537 10 10 | — Číslicovo riadené panely so zabudovaným zariadením na automatické spracovanie údajov
+- 3.1.3. | Osobné počítače vrátane procesora, myši, obrazovky a klávesnice
 
-- 8537 10 91 | -- Ostatné — Programovateľné pamäťové riadiace prvky
+- 3.1.4. | Laptopy vrátane procesora, myši, obrazovky a klávesnice
 
-- ex 8540 | Elektrónky a trubice so studenou katódou, so žeravenou katódou alebo s fotokatódou (napr. vákuové či parami alebo plynmi plnené elektrónky a trubice, ortuťové usmerňovacie výbojky a trubice, katódové trubice, televízne obrazovky a snímacie elektrónky televíznych kamier):
+- 3.1.5. | Notebooky
 
-- | - Televízne CRT obrazovky, vrátane CRT obrazoviek pre videomonitory:
+- 3.1.6. | Elektronické diáre
 
-- 8540 11 | — Farebné:
+- 3.1.7. | Iné výrobky a zariadenia na zber, uchovávanie, spracovanie, prezentáciu alebo elektronické sprostredkovanie informácií
 
-- | —- S pomerom šírky k výške menším ako 1,5 s uhlopriečkou:
+- 3.2. | Ostatné
 
-- 8540 11 11 | ----Nepresahujúcou 42 cm
+- 3.2.1. | Tlačiarne
 
-- 8540 11 13 | — Presahujúcou 42 cm, ale nepresahujúcou 52 cm
+- 3.2.2. | Kopírovacie zariadenia
 
-- 8540 11 15 | — Presahujúcou 52 cm ale nepresahujúcou 72 cm
+- 3.2.3. | Elektrické a elektronické písacie stroje
 
-- 8540 11 19 | ----Presahujúcou 72 cm
+- 3.2.4. | Vreckové a stolové kalkulačky
 
-- | — Ostatné, s uhlopriečkou obrazovky:
+- 3.2.5. | Užívateľské terminály a systémy
 
-- 8540 11 91 | ----Nepresahujúcou 75 cm
+- 3.2.6. | Faxový prístroj
 
-- 8540 11 99 | — Presahujúcou 75 cm
+- 3.2.7. | Telex
 
-- 8540 12 00 | — Čiernobiele alebo inak monochromatické
+- 3.2.8. | Telefónny prístroj
 
-- 8542 | Elektronické integrované obvody a mikrozostavy
+- 3.2.9. | Telefónne automaty
 
-- ex 8548 | Odpad a zbytky galvanických článkov, batérií a elektrických akumulátorov, nepoužiteľné galvanické články, batérie a elektrické akumulátory; elektrické časti a súčasti strojov a prístrojov nešpecifikované ani nezahrnuté inde v tejto kapitole:
+- 3.2.10. | Bezdrôtové telefónne prístroje
 
-- ex 8548 90 | - Ostatné
+- 3.2.11. | Mobilné telefónne prístroje
 
-- 8548 90 10 | — Dynamické pamäte s priamym prístupom v multikombinovaných formách, ako sú zásobníkové D-RAM a moduly
+- 3.2.12. | Záznamníky
 
-- ex 9009 | Fotokopírovacie prístroje s optickým alebo kontaktným systémom a termokopírovacie prístroje:
+- 3.2.13. | Iné výrobky alebo zariadenia na prenos zvuku, obrazu alebo iných informácií prostredníctvom telekomunikácií
 
-- | - Elektrostatické fotokopírovacie prístroje:
+- Kategória č. 4 | Spotrebná elektronika
 
-- 9009 11 00 | — Priamo reprodukujúce obraz originálu na kópiu (priamy postup)
+- 4.1. | Televízne prijímače
 
-- 9009 12 00 | — Reprodukujúce obraz originálu na kópiu pomocou sprostredkovacieho nosiča (nepriamy postup)
+- 4.1.1. | Televízne prijímače
 
-- | - Ostatné fotokopírovacie prístroje:
+- 4.2. | Ostatné
 
-- 9009 21 00 | — So zabudovaným optickým systémom
+- 4.2.1. | Rozhlasové prijímače
 
-- 9009 22 00 | — Kontaktného typu
+- 4.2.2. | Videokamery
 
-- 9009 30 00 | — Termokopírovacie prístroje
+- 4.2.3. | Videorekordéry
 
-  - G. Svetelné zdroje s obsahom ortuti podľa § 47 zákona
+- 4.2.4. | Hi-fi zariadenia
 
-- Kód podľa colného sadzobníka | Názov výrobku podľa colného sadzobníka
+- 4.2.5. | Zosilňovače zvuku
 
-- ex 8539 | Elektrické žiarovky alebo výbojky, vrátane žiaroviek na svetlomety a ultrafialové alebo infračervené žiarovky; oblúkovky:
+- 4.2.6. | Hudobné nástroje
 
-- | Výbojky, okrem ultrafialových:
+- 4.2.7. | Iné výrobky alebo zariadenia na zaznamenávanie alebo prehrávanie zvuku alebo obrazu vrátane signálov alebo technológií na iné šírenie zvuku a obrazu ako prostredníctvom telekomunikácií
 
-- 8539 31 | — Fluorescenčné, so žeravenou katódou:
+- Kategória č. 5 | Svetelné zdroje
 
-- 8539 31 10 | — S obojstrannou päticou
+- 5.1 | Obsahujúce ortuť
 
-- 8539 31 90 | — Ostatné
+- 5.1.1. | Lineárne žiarivky
 
-- 8539 32 | — Ortuťové alebo sodíkové výbojky; kovové halogénové žiarivky:
+- 5.1.2. | Kompaktné žiarivky
 
-- 8539 32 10 | — Ortuťové výbojky
+- 5.1.3. | Vysokotlakové výbojky vrátane sodíkových tlakových výbojok a výbojok s kovovými parami
 
-- 8539 32 50 | — Sodíkové výbojky
+- 5.1.4. | Nízkotlakové sodíkové výbojky
 
-- 8539 32 90 | — Halogenidové výbojky
+- 5.2. | Neobsahujúce ortuť
 
-- 8539 39 00 | -- Ostatné
+- 5.2.1. | Svietidlá pre žiarivky s výnimkou svietidiel v domácnostiach
+
+- 5.2.2. | Iné svietidlá alebo zariadenia na šírenie alebo usmerňovanie svetla s výnimkou žiaroviek
+
+- Kategória č. 6 | Elektrické a elektronické nástroje s výnimkou veľkých stacionárnych priemyselných nástrojov
+
+- 6.1. | Vŕtačky
+
+- 6.2. | Pílky
+
+- 6.3. | Šijacie stroje
+
+- 6.4. | Zariadenia na otáčanie, frézovanie, brúsenie, drvenie, pílenie, krájanie, strihanie, vŕtanie, dierovanie, razenie, skladanie, ohýbanie alebo podobné spracovanie dreva, kovu a iných materiálov
+
+- 6.5. | Nástroje na nitovanie, pritlkanie klincov alebo skrutkovanie alebo odstraňovanie nitov, klincov, skrutiek alebo na podobné účely
+
+- 6.6. | Nástroje na zváranie, spájkovanie alebo podobné účely
+
+- 6.7. | Zariadenia na striekanie, nanášanie, rozprašovanie alebo iné spracovanie kovových alebo plynných látok inými prostriedkami
+
+- 6.8. | Nástroje na kosenie alebo iné záhradkárske činnosti
+
+- Kategória č. 7 | Hračky, zariadenia určené na športové a rekreačné účely
+
+- 7.1. | Súpravy elektrických vláčikov alebo autodráh
+
+- 7.2. | Konzoly na videohry
+
+- 7.3. | Videohry
+
+- 7.4. | Počítače pre bicyklovanie, potápanie, beh, veslovanie a na obdobné účely
+
+- 7.5. | Športové zariadenia s elektrickými a elektronickými súčiastkami
+
+- 7.6. | Hracie automaty
+
+- Kategória č. 8 | Zdravotnícke zariadenia s výnimkou všetkých implantovaných a infikovaných výrobkov
+
+- 8.1. | Zariadenia na rádioterapiu
+
+- 8.2. | Kardiologické prístroje
+
+- 8.3. | Prístroje na dialýzu
+
+- 8.4. | Dýchacie prístroje
+
+- 8.5. | Prístroje pre nukleárnu medicínu
+
+- 8.6. | Laboratórne zariadenia pre in-vitro diagnostiku
+
+- 8.7. | Analyzátory
+
+- 8.8. | Mrazničky
+
+- 8.9. | Prístroje na fertilizačné testy
+
+- 8.10. | Iné prístroje na detekciu, prevenciu, monitorovanie, liečenie, zmierňovanie chorôb, zranení alebo postihnutia
+
+- Kategória č. 9 | Prístroje na monitorovanie a kontrolu
+
+- 9.1. | Hlásič elektrickej požiarnej signalizácie
+
+- 9.2. | Tepelné regulátory
+
+- 9.3. | Termostaty
+
+- 9.4. | Prístroje na meranie, váženie alebo nastavovanie pre domácnosť alebo ako laboratórne zariadenia
+
+- 9.5. | Iné monitorovacie a kontrolné prístroje používané v priemyselných zariadeniach, napríklad ovládacie panely
+
+- Kategória č. 10 | Predajné automaty
+
+- 10.1. | Predajné automaty na teplé nápoje
+
+- 10.2. | Predajné automaty na teplé alebo chladené fľaše alebo plechovky
+
+- 10.3. | Predajné automaty na tuhé výrobky
+
+- 10.4. | Automaty na výdaj peňazí
+
+- 10.5. | Všetky prístroje na automatický výdaj výrobkov
 
   - H. Sklo podľa § 48 zákona
 

@@ -6,7 +6,7 @@
 
 - 4) § 44 ods. 1 a 2 zákona č. 223/2001 Z. z.
 
-- 5) § 45 ods. 1 zákona č. 223/2001 Z. z. v znení zákona č. 245/2003 Z. z.
+- 5) § 54i ods. 1 zákona č. 223/2001 Z. z. v znení zákona č. 733/2004 Z. z.
 
 - 6) § 46 ods. 1 zákona č. 223/2001 Z. z.
 
