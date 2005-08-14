@@ -988,6 +988,10 @@ Dodatok k č. 213/2002 Z. z.
 
     - 4. pre iné listiny ktorýkoľvek z orgánov uvedených v bodoch 1 - 3
 
+      - Poľsko
+
+    - Ministerstvo zahraničných vecí
+
       - Portugalsko
 
     - 1. Portugalsko (územnie v Európe) | generálny prokurátor republiky a prokurátori republiky pri odvolacích súdoch
