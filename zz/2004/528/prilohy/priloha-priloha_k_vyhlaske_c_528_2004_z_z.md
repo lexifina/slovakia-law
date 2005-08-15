@@ -1,3 +1,0 @@
-Príloha k vyhláške č. 528/2004 Z. z.
-
-- POVERENIE NA VNÚTROŽILOVÚ APLIKÁCIU [Vzor 01](../assets/44b104876738b0f3d873084f3a15bb26d9aa71466560b4edc445004b5845e971.pdf)
