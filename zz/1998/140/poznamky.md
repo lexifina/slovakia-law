@@ -102,7 +102,7 @@
 
 - 19a) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
-- 19aa) Zákon č. 19/2002 Z. z., ktorým sa ustanovujú podmienky vydávania aproximačných nariadení vlády Slovenskej republiky v znení zákona č. 207/2002 Z. z.
+- 19aa) Zákon č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov.
 
 - 19ab) Zákon Národnej rady Slovenskej republiky č. 184/1993 Z. z. o krmivách v znení zákona č. 472/2003 Z. z.
 
