@@ -2346,15 +2346,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 151
 
-  - a) Vydanie povolenia na zaobchádzanie s omamnými a psychotropnými látkami a prekurzormi skupiny I a registrácia prevádzkovateľov zaobchádzajúcich s prekurzormi skupín II a III ............ | 1 000 Sk
+  - a) Vydanie povolenia na zaobchádzanie s omamnými a psychotropnými látkami a určenými látkami kategórie 1 a registrácia prevádzkovateľov zaobchádzajúcich s určenými látkami kategórie 2 a 3 ........... | 1 000 Sk
 
-  - b) Zmena povolenia vydaného podľa písmena a) ................................................................................... | 500 Sk
+  - b) Zmena povolenia alebo registrácie vydaného podľa písmena a) ............................................................... | 500 Sk
 
-  - c) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na využívanie prírodných liečivých zdrojov alebo prírodných zdrojov minerálnych stolových vôd .............................. | 10 000 Sk
+  - c) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na využívanie prírodných liečivých zdrojov alebo prírodných zdrojov minerálnych stolových vôd .................................... | 10 000 Sk
 
-  - d) Zmena povolenia podľa písmena c).......................................................................................................... | 5 000 Sk
+  - d) Zmena povolenia podľa písmena c)............................................................................................................ | 5 000 Sk
 
-  - e) Vydanie povolenia Ministerstvom zdravotníctva Slovenskej republiky na úpravu produktov prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody .............................................. | 3 000 Sk
+  - e) Vydanie povolenia Ministerstvom zdravotníctva Slovenskej republiky na úpravu produktov prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody ............................................. | 3 000 Sk
 
     - Položka 152
 
@@ -2448,23 +2448,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Vydanie úradného povolenia na dovoz alebo vývoz licencovaného tovaru (dovozná alebo vývozná licencia) okrem povolenia na dovoz alebo vývoz kontrolovaného tovaru v rámci autolimitačných medzivládnych dohôd, z hodnoty tovaru povolenej v licencii .............................................................................. | 0,1 % najmenej 1 000 Sk
 
-  - b) Vydanie povolenia na dovoz alebo vývoz kontrolovaného tovaru a vývoz tovaru v rámci autolimitačných dohôd .......................................................................................... | 1 000 Sk
+  - b) Vydanie povolenia na dovoz alebo vývoz kontrolovaného tovaru a vývoz tovaru v rámci autolimitačných dohôd ............................................................................................. | 1 000 Sk
 
-  - c) Vydanie povolenia na obchodovanie s vojenským materiálom ................................................ | 50 000 Sk
+  - c) Vydanie povolenia na obchodovanie s vojenským materiálom .................................................. | 50 000 Sk
 
   - d) Vydanie licencie na dovoz a vývoz vojenského materiálu, z hodnoty tovaru povolenej v licencii ............. | 0,1 % najmenej 1 000 Sk
 
-  - e) Vydanie licencie na dovoz a vývoz vojenského materiálu, zbraní, streliva a výbušnín zrýchleným obežníkovým spôsobom, z hodnoty tovaru udelenej v licencii .......................... | 0,5 % najmenej 3 000 Sk
+  - e) Vydanie licencie na dovoz a vývoz vojenského materiálu, zbraní, streliva a výbušnín zrýchleným obežníkovým spôsobom, z hodnoty tovaru udelenej v licencii ........................................................................... | 0,5 % najmenej 3 000 Sk
 
-  - f) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné a psychotropné látky ............. | 1 000 Sk
+  - f) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné a psychotropné látky ........ | 1 000 Sk
 
-  - g) Vydanie jednorazového alebo všeobecného povolenia na dovoz alebo vývoz prekurzorov, z hodnoty tovaru uvedeného v povolení ................................................ | 0,1 %
+  - g) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok ........................ | 1 000 Sk
 
-  - h) Vydanie licencie na dovoz alebo vývoz vybraných chemických látok a prípravkov podľa osobitného predpisu<sup>36n</sup>) ................................................................................ | 1 000 Sk
+  - h) Vydanie licencie na dovoz alebo vývoz vybraných chemických látok a prípravkov podľa osobitného predpisu<sup>36n</sup>) ...................................................................................... | 1 000 Sk
 
-  - i) Vydanie medzinárodnej dovoznej certifikácie (IIC - International import certifikation) alebo certifikácie konečného užívateľa (EUC - End-user certifikation) ............................................ | 500 Sk
+  - i) Vydanie medzinárodnej dovoznej certifikácie (IIC - International import certifikation) alebo certifikácie konečného užívateľa (EUC - End-user certifikation) .............................................. | 500 Sk
 
-  - j) Vydanie duplikátu alebo predĺženia platnosti povolení (licencií) podľa písmen a) až i) ........................... | 500 Sk
+  - j) Vydanie duplikátu alebo predĺženia platnosti povolení (licencií) podľa písmen a) až i) ....................... | 500 Sk
 
   - Splnomocnenie V prípade podlimitných dodávok môže správny orgán znížiť určenú sadzbu poplatku. Poplatky možno zaplatiť aj bez písomnej výzvy správneho orgánu. |
 
