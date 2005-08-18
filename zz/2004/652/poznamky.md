@@ -6,6 +6,8 @@
 
 - 4) § 2 písm. c) zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
+- 4a) Napríklad zákon č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov, Nariadenie Rady (ES) č. 111/2005, ktorým sa ustanovujú pravidlá sledovania obchodu s drogovými prekurzormi medzi Spoločenstvom a tretími krajinami z 22. decembra 2004 (Ú. v. EÚ L 022 z 26.1.2005) a Nariadenie Európskeho parlamentu a Rady (ES) č. 273/2004 z 11. februára 2004 o drogových prekurzoroch (Ú. v. EÚ L 047 z 18.2.2004).
+
 - 5) Napríklad nariadenie (ES) č. 638/2004 Európskeho parlamentu a Rady z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 (Ú. v. EÚ L 102, 7. 04. 2004).
 
 - 6) Napríklad zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení neskorších predpisov, zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení zákona č. 556/2004 Z. z., zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení zákona č. 556/2004 Z. z., zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zákona č. 556/2004 Z. z.
