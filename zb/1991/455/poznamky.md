@@ -116,7 +116,7 @@
 
 - § 34 a 35 nariadenia vlády SSR č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nariadenia vlády SR č. 232/1990 Zb.
 
-- 22a) Zákon č. 219/2003 Z. z. o zaobchádzaní s chemickými látkami, ktoré možno zneužiť na nezákonnú výrobu omamných látok a psychotropných látok a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 22a) Zákon č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov.
 
 - 23a) § 6, 7 a 21 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
