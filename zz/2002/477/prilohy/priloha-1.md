@@ -6,4 +6,4 @@ Príloha č. 1
 
 - 1. Činnosti samostatne zárobkovo činných osôb a sprostredkovateľov v oblasti obchodu a distribúcie toxických výrobkov.
 
-- 2. Činnosti poisťovacích agentov a maklérov (skupina ISIC 630).
+- 2. Činnosti sprostredkovateľov poistenia a sprostredkovateľov zaistenia (skupina ISIC 630).
