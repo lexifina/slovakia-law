@@ -32,11 +32,39 @@ Príloha č. 6 k zákonu č. 577/2004 Z. z.
 
 - Polymorbidita | u osôb nad 70 rokov pred nástupom na kúpeľnú liečbu geriatrické vyšetrenie.
 
-  - 3. Súhrn výsledkov klinických a laboratórnych vyšetrení, ktoré navrhujúci lekár uvedie v návrhu, musí umožňovať, aby mohla byť naordinovaná kúpeľná liečba už v prvý deň pobytu, nie až po vykonaní doplňujúceho vyšetrenia.
+  - 3. Lekár, ktorý poskytuje všeobecnú ambulantnú starostlivosť na základe nálezu lekára, ktorý poskytuje špecializovanú ambulantnú starostlivosť, môže vypisovať návrhy na kúpeľnú starostlivosť v kategórii „B”:
 
-  - 4. Ak je kúpeľná liečba indikovaná pre iné choroby ako onkologické, u osôb s onkologickým ochorením musí návrh obsahovať vyjadrenie onkológa ku kúpeľnej starostlivosti.
+  - – v indikačnej skupine II: indikácia II/1, II/3, II/5,
 
-  - 5. Pred nástupom na kúpeľnú starostlivosť musí ošetrujúci praktický lekár potvrdiť aktuálny zdravotný stav pacienta z hľadiska vylúčenia možnej kontraindikácie. Potvrdenie nesmie byť staršie ako 14 dní.
+  - – v indikačnej skupine III: indikácia III/4, III/7, III/14,
+
+  - – v indikačnej skupine V: indikácia V/1,
+
+  - – v indikačnej skupine VII: indikácia VII/1, VII/2, VII/4, VII/5, VII/6, VII/7, VII/9,
+
+  - – v indikačnej skupine VIII: indikácia VIII/6.
+
+  - V kategórii „C” – lekár, ktorý poskytuje všeobecnú ambulantnú starostlivosť na základe nálezu lekára, ktorý poskytuje špecializovanú ambulantnú starostlivosť, môže vypisovať návrhy na kúpeľnú starostlivosť okrem:
+
+  - – indikačnej skupiny IV: indikácia IV/3,
+
+  - – indikačnej skupiny VI: indikácia VI/3,
+
+  - – indikačnej skupiny IX: indikácia IX/3,
+
+  - – indikačnej skupiny X: indikácia X/5, X/6,
+
+  - – indikačnej skupiny XI: indikácia XI/5, XI/6 a
+
+  - – celej indikačnej skupiny XII.
+
+  - Všeobecný lekár pre deti a dorast na základe nálezu lekára, ktorý poskytuje špecializovanú ambulantnú starostlivosť, môže vypisovať návrhy na kúpeľnú starostlivosť okrem indikačnej skupiny XXI a indikačnej skupiny XXX.
+
+  - 4. Súhrn výsledkov klinických a laboratórnych vyšetrení, ktoré navrhujúci lekár uvedie v návrhu, musí umožňovať, aby mohla byť naordinovaná kúpeľná liečba už v prvý deň pobytu, nie až po vykonaní doplňujúceho vyšetrenia.
+
+  - 5. Ak je kúpeľná liečba indikovaná pre iné choroby ako onkologické, u osôb s onkologickým ochorením musí návrh obsahovať vyjadrenie onkológa ku kúpeľnej starostlivosti.
+
+  - 6. Pred nástupom na kúpeľnú starostlivosť musí ošetrujúci praktický lekár potvrdiť aktuálny zdravotný stav pacienta z hľadiska vylúčenia možnej kontraindikácie. Potvrdenie nesmie byť staršie ako 14 dní.
 
   - Všeobecné kontraindikácie kúpeľnej starostlivosti
 
@@ -80,4 +108,4 @@ Príloha č. 6 k zákonu č. 577/2004 Z. z.
 
   - tabuľková časť
 
-- [Tabuľka 02](../assets/ed2894d876b7264e367f316f2517d1b3811996dd50664e95dc51eed9ce91d86a.pdf)
+- [Tabuľka 02](../assets/a210b8db2f86f711acc1707dff58da07d35025461e0721276a4e7f95884dd860.pdf)

@@ -1,18 +1,18 @@
 Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
-- NÁPLŇ PREVENTÍVNYCH PREHLIADOK Preventívne prehliadky detí | |
+- NÁPLŇ PREVENTÍVNYCH PREHLIADOK Preventívna starostlivosť o deti a dorast | |
 
-- Obsah: | Komplexné pediatrické vyšetrenie zahŕňajúce poradenstvo rodičom. V termínoch preventívnej prehliadky sa vykoná aj pravidelné povinné očkovanie. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
+- Obsah: | Komplexné pediatrické vyšetrenie zahŕňajúce poradenstvo rodičom. Pravidelné povinné očkovanie je možné vykonať aj mimo preventívnej prehliadky. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
 
-- Vykonáva: | lekár so špecializáciou v špecializačnom odbore pediatria |
+- Vykonáva: | lekár so špecializáciou všeobecná starostlivosť o deti a dorast |
 
-- Okruh poistencov: | poistenci do dovŕšenia 15 rokov veku |
+- Okruh poistencov: | poistenci do dovŕšenia 18 rokov veku a 364 dní |
 
 - Periodicita: | 1) deväť preventívnych prehliadok poistenca do jedného roku veku, z toho najmenej tri do troch mesiacov veku |
 
 - | 2) jedna preventívna prehliadka poistenca vo veku 18 mesiacov |
 
-- | 3) jedna preventívna prehliadka poistenca od troch rokov veku do 15 rokov veku raz za dva roky |
+- | 3) jedna preventívna prehliadka poistenca od troch rokov do 18 rokov veku a 364 dní raz za dva roky |
 
 - Z o z n a m v ý k o n o v | |
 
@@ -28,11 +28,11 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | US vyšetrenie bedrových kĺbov u dojčiat | vykonáva sa v 8. až 10. týždni života
 
-- | 5. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť bedrových kĺbov. Vyšetrí sa psychomotorický vývin. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. Očkovanie: 1. dávka DiTePer, Hib, HB | vykonáva sa v 3. až 4. mesiaci života
+- | 5. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť bedrových kĺbov. Vyšetrí sa psychomotorický vývin. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. Očkovanie: 1. dávka DiTePer, Hib, VHB | vykonáva sa v 3. až 4. mesiaci života
 
 - | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 3. až 4. mesiaci života
 
-- | 6. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch, reakcie očí a moč. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. Očkovanie: 2. dávka DiTePer, Hib, HB | vykonáva sa v 5. až 6. mesiaci života
+- | 6. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch, reakcie očí a moč. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. Očkovanie: 2. dávka DiTePer, Hib, VHB | vykonáva sa v 5. až 6. mesiaci života
 
 - | Základné patologické súčasti moču (kompletný dôkaz) | vykonáva sa v 5. až 6. mesiaci života
 
@@ -44,13 +44,13 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | 8. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 9. až 10. mesiaci života
 
-- | 9. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. Očkovanie: 3. dávka DiTePer, Hib, HB | vykonáva sa v 11. až 12. mesiaci života
+- | 9. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. Očkovanie: 3. dávka DiTePer, Hib, VHB | vykonáva sa v 11. až 12. mesiaci života
 
 - | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 11. až 12. mesiaci života
 
-- | 10. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. Očkovanie: 1. dávka MMR | vykonáva sa do 18. mesiaca života
+- | 10. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. Očkovanie: 1. dávka MMR | vykonáva sa v 15. mesiaci života
 
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa do 18. mesiaca života
+- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 15. mesiaci života
 
 - | 11. preventívna prehliadka Výkon zahŕňa: anamnézu od rodičov so zameraním na nové anamneastické údaje. Vyšetrenie celkového stavu, antropometrické merania. Kompletné pediatrické vyšetrenie. Overenie laterality, znalosť farby, odmeranie krvného tlaku, vyšetrenie moču, vyšetrenie reči, slovnej zásoby, vyšetrenie sluchu, kontrola chrbtice, genitálu. Odoslanie dieťaťa na potrebné odborné vyšetrenie. Posúdenie psychického vývoja. Zhodnotenie sociálnej situácie. Poskytne sa poradenstvo rodičom vrátane výživy. Očkovanie: DiTePer | vykonáva sa v 3. roku života
 
@@ -60,7 +60,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 3. roku života
 
-- | 12. preventívna prehliadka Výkon zahŕňa: rozhovor s rodičmi zameraný na nové anamnestické údaje. Antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Hodnotenie psychomotorického vývoja. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi, moču. Vyšetrenie znalosti farieb, ich slovné označenie. Udržiavanie telesnej čistoty. Posúdenie zaradenia dieťaťa do kolektívu v predškolskom období. Zhodnotenie sociálnej situácie. Pravidelné poradenstvo rodičom vrátane výživy. Očkovanie: DiTePer | vykonáva sa v 5. roku života
+- | 12. preventívna prehliadka Výkon zahŕňa: rozhovor s rodičmi zameraný na nové anamnestické údaje. Antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Hodnotenie psychomotorického vývoja. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi, moču. Vyšetrenie znalosti farieb, ich slovné označenie. Udržiavanie telesnej čistoty. Posúdenie zaradenia dieťaťa do kolektívu v predškolskom období. Zhodnotenie sociálnej situácie. Pravidelné poradenstvo rodičom vrátane výživy. | vykonáva sa v 5. roku života
 
 - | Základné patologické súčasti moču (kompletný dôkaz) | vykonáva sa v 5. roku života
 
@@ -118,11 +118,11 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna starostlivosť o dorast a dospelých | |
 
-- Obsah: | Základná preventívna prehliadka obsahuje komplexné vyšetrenie všetkých orgánových systémov, kontrolu stavu očkovania (napr. tetanus), vyšetrenie pulzu a tlaku krvi, kontrolu hmotnosti vrátane rád a dokumentácie. Súčasťou vyšetrenia u mužov je palpačné vyšetrenie prostaty per rectum. V prípade, že v tom istom roku sa má vykonať per rectum vyšetrenie v rámci preventívneho vyšetrenia urológom, lekársky nález urológa sa založí do dokumentácie ako súčasť preventívnej prehliadky. Laboratórne vyšetrenia: moč chemicky, močový sediment, glykémia, kreatinín, krvný obraz vrátane trombocytov. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
+- Obsah: | Základná preventívna prehliadka obsahuje komplexné vyšetrenie všetkých orgánových systémov, kontrolu stavu očkovania (napr. tetanus), vyšetrenie pulzu a tlaku krvi, kontrolu hmotnosti vrátane rád a dokumentácie. Súčasťou vyšetrenia u mužov je palpačné vyšetrenie prostaty per rectum. V prípade, že v tom istom roku sa má vykonať per rectum vyšetrenie v rámci preventívneho vyšetrenia urológom, lekársky nález urológa sa založí do dokumentácie ako súčasť preventívnej prehliadky. Laboratórne vyšetrenia: moč chemicky, močový sediment, glykémia, kreatinín, krvný obraz vrátane trombocytov. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
 
-- Vykonáva: | lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo a v prípade poistencov do 28. roku veku aj lekár so špecializáciou v špecializačnom odbore pediatria alebo dorastové lekárstvo |
+- Vykonáva: | lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo a v prípade poistencov do 28. roku veku aj lekár so špecializáciou v špecializačnom odbore všeobecná starostlivosť o deti a dorast |
 
-- Okruh: | poistenci starší ako 15 rokov |
+- Okruh: | poistenci starší ako 18 rokov |
 
 - Periodicita: | raz za dva roky, v prípade darcov krvi raz za rok |
 
@@ -145,12 +145,6 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 - | Močový sediment (semikvantitatívne) |
 
 - | Základné patologické súčasti moču (nekompletný dôkaz) |
-
-- | Alanínaminotransferáza |
-
-- | Alanínaminotransferáza v kapilárnej krvi (REP) |
-
-- | Gama-glutamyltransferáza |
 
 - | Okultné krvácanie v stolici | u poistencov starších ako 50 rokov a u poistencov s pozitívnou rodinnou anamnézou karcinómu hrubého čreva a konečníka
 
@@ -184,15 +178,15 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna stomatologická prehliadka | |
 
-- Obsah: | Podrobná prehliadka chrupu, parodontu, mäkkých tkanív ústnej dutiny, kontrola medzičeľustných vzťahov a vzájomného postavenia zubov, zubných náhrad, dentálnej hygieny a hygienických návykov, určenie indexov KPE a PBI. |
+- Obsah: | Podrobná prehliadka chrupu, parodontu, mäkkých tkanív ústnej dutiny, kontrola medzičeľustných vzťahov a vzájomného postavenia zubov, zubných náhrad, dentálnej hygieny a hygienických návykov, určenie indexov KPE a CPITN. |
 
 - Vykonáva: | zubný lekár |
 
 - Okruh poistencov: | všetci |
 
-- Periodicita: | 1) U poistencov, ktorí ešte nedosiahli 18 rokov veku, raz za 6 mesiacov, najskôr však po uplynutí 6 mesiacov od ukončenej sanácie. |
+- Periodicita: | 1) U poistencov, ktorí ešte nedosiahli 18 rokov veku, dvakrát v kalendárnom roku, najskôr však po uplynutí 4 mesiace od ukončenej sanácie. |
 
-- | 2) U poistencov, ktorí dosiahli 18 rokov veku, raz za rok, najskôr však po uplynutí 6 mesiacov od ukončenej sanácie. |
+- | 2) U poistencov, ktorí dosiahli 18 rokov veku, jedenkrát v kalendárnom roku, najskôr však po uplynutí 4 mesiace od ukončenej sanácie konzervatívno-chirurgickej |
 
 - | 3) U tehotných poistenkýň dva razy počas toho istého tehotenstva, a to na začiatku prvého a na začiatku tretieho trimestra. |
 
@@ -206,7 +200,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna gynekologická prehliadka | |
 
-- Obsah: | Preventívna gynekologická prehliadka je zameraná na včasnú diagnostiku onkologického ochorenia u ženy. Súčasťou preventívnej prehliadky je aj poskytnutie potrebného poradenstva. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
+- Obsah: | Preventívna gynekologická prehliadka je zameraná na včasnú diagnostiku onkologického ochorenia u ženy. Súčasťou preventívnej prehliadky je aj poskytnutie potrebného poradenstva. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
 
 - Vykonáva: | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo |
 
@@ -247,8 +241,6 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 - | Glukóza v kapilárnej krvi (REP) | raz za rok od 30. roku veku
 
 - | Uhľohydrátový antigénny determinant Ca 125 | raz za rok od 30. roku veku
-
-- | Uhľohydrátový antigénny determinant Ca 72-4 | raz za rok od 30. roku veku
 
 - | Erytrocyty - počet (MICC) | raz za rok od 30. roku veku
 
@@ -400,7 +392,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna urologická prehliadka | |
 
-- Obsah: | Kompletná preventívna urologická prehliadka zahŕňa: fyzikálne vyšetrenie, palpačné vyšetrenie prostaty per rektum, palpačné vyšetrenie semenníkov, ultrazvukové vyšetrenie prostaty. Laboratórne vyšetrenia: moč chemicky, močový sediment, kreatinín, PSA. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
+- Obsah: | Kompletná preventívna urologická prehliadka zahŕňa: fyzikálne vyšetrenie, palpačné vyšetrenie prostaty per rektum, palpačné vyšetrenie semenníkov, ultrazvukové vyšetrenie prostaty. Laboratórne vyšetrenia: moč chemicky, močový sediment, kreatinín, PSA. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
 
 - Vykonáva: | lekár so špecializáciou v špecializačnom odbore urológia |
 

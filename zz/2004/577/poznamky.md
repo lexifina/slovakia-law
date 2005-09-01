@@ -42,8 +42,6 @@
 
 - 20) § 9 a 12 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 21) § 4 ods. 2 písm. g) zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
-
 - 22) § 11 ods. 2 písm. h) zákona č. 578/2004 Z. z.
 
 - 22a) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
@@ -58,16 +56,24 @@
 
 - 27) § 57 a 64 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 28) § 27 ods. 1 Občianskeho zákonníka.
+- 28) § 27 Občianskeho zákonníka.
 
-- Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
+- Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
-- Zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti v znení neskorších predpisov.
+- Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 29a) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 30) § 7 zákona č. 581/2004 Z. z.
 
 - 31) § 2 ods. 11 zákona č. 576/2004 Z. z.
 
 - 32) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
+
+- 33) § 20 ods. 2 a 3 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 34) § 9 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 35) § 6 ods. 2 zákona č. 581/2004 Z. z.
