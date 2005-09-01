@@ -1,5 +1,147 @@
 Príloha č. 2 k zákonu č. 326/2005 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+- SÍDLA A ÚZEMNÁ PÔSOBNOSŤ KRAJSKÝCH LESNÝCH ÚRADOV A OBVODNÝCH LESNÝCH ÚRADOV Krajský lesný úrad | Obvodný lesný úrad | Pôsobnosť v okresoch
 
-  - Smernica Rady 92/43/EHS z 21. mája 1992 o ochrane prirodzených biotopov a voľne žijúcich živočíchov a rastlín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2; Ú. v. ES L 206, 22. 7. 1992) v znení smernice Rady 97/62/ES z 27. októbra 1997 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 4; Ú. v. ES L 305, 8. 11. 1997) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. EÚ L 284, 31. 10. 2003) v znení Aktu o podmienkach pristúpenia Rakúska, Švédska a Fínska (Ú. v. ES C 241, 29. 8. 1994) [upravené rozhodnutím Rady 95/1/ES, Euratom, ESUO (Ú. v. ES L 1, 1. 1. 1995)] v znení Aktu o podmienkach pristúpenia Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky a o úpravách zmlúv, na ktorých je založená Európska únia (Ú. v. EÚ L 236, 23. 9. 2003) v znení smernice Rady 2006/105/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006) v znení smernice Rady 2013/17/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013).
+- Bratislava | Bratislava | Bratislava I - V
+
+- | | Pezinok
+
+- | | Senec
+
+- | Malacky | Malacky
+
+- Trnava | Trnava | Trnava
+
+- | | Piešťany
+
+- | | Hlohovec
+
+- | Dunajská Streda | Dunajská Streda
+
+- | | Galanta
+
+- | Senica | Senica
+
+- | | Skalica
+
+- Nitra | Nitra | Nitra
+
+- | | Topoľčany
+
+- | | Zlaté Moravce
+
+- | Levice | Levice
+
+- | Nové Zámky | Nové Zámky
+
+- | | Komárno
+
+- | | Šaľa
+
+- Trenčín | Trenčín | Trenčín
+
+- | | Bánovce nad Bebravou
+
+- | Nové Mesto nad Váhom | Nové Mesto nad Váhom
+
+- | | Myjava
+
+- | Považská Bystrica | Považská Bystrica
+
+- | | Púchov
+
+- | | Ilava
+
+- | Prievidza | Prievidza
+
+- | | Partizánske
+
+- Žilina | Žilina | Žilina
+
+- | | Bytča
+
+- | Čadca | Čadca
+
+- | Kysucké Nové Mesto | Kysucké Nové Mesto
+
+- | Dolný Kubín | Dolný Kubín
+
+- | | Námestovo
+
+- | | Tvrdošín
+
+- | Martin | Martin
+
+- | | Turčianske Teplice
+
+- | Liptovský Mikuláš | Liptovský Mikuláš
+
+- | Ružomberok | Ružomberok
+
+- Banská Bystrica | Banská Bystrica | Banská Bystrica
+
+- | Brezno | Brezno
+
+- | Žarnovica | Žarnovica
+
+- | | Žiar nad Hronom
+
+- | | Banská Štiavnica
+
+- | Zvolen | Zvolen
+
+- | | Detva
+
+- | Rimavská Sobota | Rimavská Sobota
+
+- | Veľký Krtíš | Veľký Krtíš
+
+- | | Krupina
+
+- | Lučenec | Lučenec
+
+- | | Poltár
+
+- | Revúca | Revúca
+
+- Prešov | Prešov | Prešov
+
+- | | Sabinov
+
+- | Bardejov | Bardejov
+
+- | Humenné | Humenné
+
+- | | Medzilaborce
+
+- | Snina | Snina
+
+- | Stropkov | Stropkov
+
+- | | Svidník
+
+- | Kežmarok | Kežmarok
+
+- | | Stará Ľubovňa
+
+- | Poprad | Poprad
+
+- | | Levoča
+
+- | Vranov nad Topľou | Vranov nad Topľou
+
+- Košice | Košice | Košice I - IV
+
+- | | Košice okolie
+
+- | Rožňava | Rožňava
+
+- | Michalovce | Michalovce
+
+- | | Sobrance
+
+- | | Trebišov
+
+- | Spišská Nová Ves | Spišská Nová Ves
+
+- | Gelnica | Gelnica
