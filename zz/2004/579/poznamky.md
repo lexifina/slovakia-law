@@ -4,8 +4,6 @@
 
 - 3) § 7 písm. a) a § 8 ods. 1 písm. b) zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 579/2004 Z. z.
 
-- 4) § 21 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
-
 - 5) § 5 zákona č. 129/2002 Z. z.
 
 - 6) § 10 ods. 2 zákona č. 129/2002 Z. z.
@@ -15,6 +13,8 @@
 - 8) § 2 ods. 2 písm. b) zákona č. 129/2002 Z. z.
 
 - 9) § 7 zákona č. 129/2002 Z. z.
+
+- 9a) § 17b zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 10) § 7 ods. 3 písm. a) zákona č. 578/2004 Z. z.
 
@@ -27,3 +27,5 @@
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 15) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16) Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
