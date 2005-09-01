@@ -18,7 +18,9 @@
 
 - 10) § 194 ods. 6 Obchodného zákonníka.
 
-- 11) § 6 ods. 8 a 10 zákona č. 580/2004 Z. z.
+- 11) § 6 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 11a) § 10a zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 12) § 17 ods. 7, § 18 a § 19 ods. 12 zákona č. 580/2004 Z. z.
 
@@ -48,9 +50,9 @@
 
 - 25) Zákon č. 577/2004 Z. z.
 
-- 26) § 4 písm. a) a § 11 ods. 1 písm. a) zákona č. 578/2004 Z. z.
-
 - 27) § 2 ods. 19 zákona č. 576/2004 Z. z.
+
+- 27a) § 2 ods. 1 písm. a) a § 3 zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -64,21 +66,47 @@
 
 - 33) § 67 Obchodného zákonníka.
 
+- 33a) § 2 ods. 20 a 21 zákona č. 576/2004 Z. z.
+
 - 34) Zákon č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 35) § 20 ods. 4 zákona č. 431/2002 Z. z.
+
+- 35a) § 9 ods. 3 zákona č. 580/2004 Z. z.
+
+- 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
 
 - 36) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
 
 - 37) Zákon č. 580/2004 Z. z.
 
-- 38) Napríklad § 17 ods. 7 a § 19 ods. 12 zákona č. 580/2004 Z. z.
+- 38) § 17 ods. 7 a § 19 ods. 11 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 38a) § 18 ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 38b) § 9 ods. 4 zákona č. 580/2004 Z. z.
+
+- 38c) § 19 ods. 12 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 38d) § 27 ods. 8 a § 27a ods. 9 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 39) § 26 zákona č. 580/2004 Z. z.
 
-- 40) § 4 ods. 3 zákona č. 576/2004 Z. z.
+- 40) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
+
+- 41a) § 42 ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
+
+- 41b) § 3 ods. 1 písm. a) zákona č. 578/2004 Z. z.
+
+- 41c) § 3 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 41d) § 7 a 11 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 41e) § 7 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 41f) § 3 ods. 1 písm. c) zákona č. 578/2004 Z. z.
 
 - 42) § 42 ods. 2 Zákonníka práce.
 
@@ -124,9 +152,15 @@
 
 - 61) § 68 ods. 3 písm. e) Obchodného zákonníka.
 
+- 61a) § 33 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 61b) § 33 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
 - 62) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 63) § 25 ods. 1 písm. e) zákona č. 576/2004 Z. z.
+
+- 63a) § 89 ods. 9 Trestného zákona.
 
 - 64) § 42 zákona č. 576/2004 Z. z.
 
@@ -142,9 +176,9 @@
 
 - 69) § 43 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 70) Zákon č. 578/2004 Z. z., zákon č. 576/2004 Z. z., zákon č. 577/2004 Z. z.
+- 70) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 71) Napríklad zákon č. 140/1998 Z. z. v znení neskorších predpisov.
+- 71) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 72) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
 
@@ -164,7 +198,15 @@
 
 - 80) § 566 až 576 Obchodného zákonníka.
 
+- 80a) § 27 a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 81) § 99 ods. 3 písm. a) a § 107 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 81a) Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 82) § 250b ods. 1 Občianskeho súdneho poriadku.
 
@@ -202,4 +244,4 @@
 
 - 98) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z.
 
-- 99) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
+- 99) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 82/2005 Z. z.
