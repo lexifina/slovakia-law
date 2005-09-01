@@ -238,6 +238,8 @@
 
 - 82) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 150/2001 Z. z.
 
+- 82a) § 16b zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 341/2005 Z. z.
+
 - 83) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 84) § 2 ods. 1 písm. b) a c) a § 29a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
