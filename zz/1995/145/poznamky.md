@@ -1,5 +1,9 @@
 - 1) § 4 ods. 2 písm. a) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
+- 1a) § 38 Občianskeho súdneho poriadku.
+
+- 1b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 2) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
 - Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
@@ -19,6 +23,8 @@
 - 8) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 8a) § 106 ods. 3 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
+
+- 8b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
