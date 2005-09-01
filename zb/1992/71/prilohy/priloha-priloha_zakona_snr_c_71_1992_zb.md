@@ -302,9 +302,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 26 |
 
-- a) Z návrhu na prikázanie veci inému súdu z dôvodu vhodnosti | 500 Sk
-
-- b) Za vznesenie námietky zaujatosti účastníkom konania | 500 Sk
+- Z návrhu na prikázanie veci inému súdu z dôvodu vhodnosti | 500 Sk
 
 - Poznámka: Poznámka k položke 25 platí aj pre túto položku. |
 
