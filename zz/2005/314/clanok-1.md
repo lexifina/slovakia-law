@@ -10,6 +10,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 4. V § 17 ods. 5 sa vypúšťajú slová „zahraničnej“ a „zahraničných“ a za druhú vetu sa vkladá nová tretia veta, ktorá znie: „Rovnako sa posudzuje aj vzťah medzi zahraničnými závislými osobami.“.
 
+- 5. V § 33 ods. 1 sa suma „4 800“ nahrádza sumou „5 400“.
+
+- 6. § 52 sa dopĺňa odsekom 41, ktorý znie:
+
+- „(41)
+
+- Za zdaňovacie obdobie roka 2005 si môže daňovník uplatniť za podmienok ustanovených v § 33 daňový bonus na vyživované dieťa v sume 5 000 Sk, pričom za kalendárne mesiace január až august v sume 400 Sk mesačne a za kalendárne mesiace september až december v sume 450 Sk mesačne.“.
+
 - 7. § 52 sa dopĺňa odsekom 42, ktorý znie:
 
 - „(42)
