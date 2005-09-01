@@ -8,6 +8,12 @@ Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 67/2002 Z. z. kto
 
 - Touto vyhláškou sa transponujú právne akty Európskych spoločenstiev a Európskej únie uvedené v prílohe č. 1.“.
 
+- 2. V Prílohe Bod XXVIII, Nikel a jeho zlúčeniny CAS č. 7440-0-20 sa bod 1 nahrádza novým bodom 1, ktorý znie:
+
+- „1.
+
+- Nikel a jeho zlúčeniny sa môžu používať vo všetkých predmetoch, ktoré sa vkladajú do prepichnutých častí ľudského tela, ak miera uvoľňovania niklu z takýchto predmetov je menšia ako 0,2 µg /cm<sup>2</sup>/týždeň (migračný limit).“.
+
 - 3. V Prílohe Bod XLIV, Difenyléter, pentabrómderivát C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O CAS č. 32534-81-9 EC č. 251-084-2 sa vkladá nový bod 3, ktorý znie:
 
 - „3.
