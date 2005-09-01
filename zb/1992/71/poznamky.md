@@ -30,6 +30,6 @@
 
 - 6) § 250l Občianskeho súdneho poriadku.
 
-- 7) § 26 ods. 2 zákona SNR č. 80/1992 Zb.
+- 7) § 67 ods. 1 písm. c) zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
 - 8) Vyhláška Ministerstva financií č. 16/1962 Zb. o konaní vo veciach daní a poplatkov.
