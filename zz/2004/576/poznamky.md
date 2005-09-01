@@ -8,9 +8,9 @@
 
 - 5) § 27 Občianskeho zákonníka.
 
-- Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
+- Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
-- Zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti v znení neskorších predpisov.
+- Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
 - 6) § 72 Trestného zákona.
 
@@ -80,6 +80,10 @@
 
 - § 69 zákona č. 195/1998 Z. z.
 
+- 31a) § 8 zákona č. 141/1961 Zb. o trestnom konaní súdnom (trestný poriadok) v znení neskorších predpisov.
+
+- 31b) § 128 Občianskeho súdneho poriadku.
+
 - 32) § 115 Občianskeho zákonníka.
 
 - 33) § 116 Občianskeho zákonníka.
@@ -92,11 +96,15 @@
 
 - 37) § 43 zákona č. 581/2004 Z. z.
 
+- 37a) Zákon č. 152/1998 Z. z. o sťažnostiach.
+
 - 38) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - § 116 ods. 2 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 38a) § 19 zákona č. 5/2004 Z. z. v znení zákona č. 82/2005 Z. z.
+
+- § 106a zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 39) Zákon č. 95/2002 o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -130,4 +138,8 @@
 
 - 52) § 36 a 37 zákona č. 578/2004 Z. z.
 
+- 52a) § 12a zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
+
 - 53) § 18 ods. 5 zákona č. 578/2004 Z. z.
+
+- 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.

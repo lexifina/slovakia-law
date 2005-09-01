@@ -372,35 +372,35 @@ Príloha č. 2 k zákonu č. 576/2004 Z. z.
 
   - C. Národné zdravotnícke registre
 
-    - 16. Názov zisťovania: Hlásenie o pacientovi s diabetes mellitus typ 1
+    - 16. Názov registra: Národný register pacientov s onkologickým ochorením
 
       - a) Zoznam osobných údajov
 
-        - Meno a priezvisko, rodné číslo, kód okresu trvalého bydliska v Slovenskej republike, adresa, dátum zistenia diagnózy DM, výskyt diabetu v rodine, výskyt iných ochorení v rodine, prekonané detské ochorenia, posledný infekt pred ochorením (diagnóza, liečba), prvé klinické príznaky ochorenia, vybrané biochemické výsledky (glykémia bazálna a postprandiálna, glykozúria, ketoacidóza, HbA1c), terapia (denná dávka inzulínu, typ inzulínu, diéta), stav pacienta ku dňu hlásenia, trvanie remisie, hospitalizácia (kde, počet hospitalizácií, počet kontrol), úroveň spolupráce pacienta a rodičov pri liečebnom režime.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, zamestnávateľ a zamestnanie, anamnestické údaje vrátane výskytu rizikových faktorov u pacienta, vyšetrenia vedúce k stanoveniu diagnózy, dátum prvých príznakov, kódy diagnóz podľa MKCH-10, špecifikácia diagnózy podľa topografického kódu MKCH-O, TNM klasifikácia ochorenia, klinický rozsah nádoru, histologický nález, cytologický nález, plán primárnej liečby, dátum a typ operácie, údaje o terapii, súhrnné hodnotenie liečby, dátum smrti, príčina smrti, patologicko-anatomické diagnózy.
 
       - b) Účel ich spracúvania
 
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnom ochorení hromadného výskytu, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia (projekt EURODIAB), OECD a Eurostat v agregovanom tvare.
+        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine onkologických ochorení výrazne ovplyvňujúcej úroveň zdravotného stavu obyvateľstva, ukazovateľov chorobnosti a úmrtnosti, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
 
       - c) Podmienky ich získavania a poskytovania
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – diabetologické ambulancie, detské oddelenia, interné oddelenia.
+        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia, poskytovatelia zdravotnej starostlivosti.
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
+        - Periodicita: priebežne najneskôr do troch mesiacov od stanovenia diagnózy.
 
         - Použitá metóda: vyčerpávajúce zisťovanie.
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+        - Získavanie osobných údajov: v tlačovom formulári (Hlásenie zhubného nádoru) alebo v elektronickej forme.
 
       - d) Okruh dotknutých osôb
 
-        - Pacienti s diabetes mellitus typ 1.
+        - Pacienti s onkologickým ochorením.
 
-    - 17. Názov zisťovania: Hlásenie o pacientovi s vrodenou chybou srdca
+    - 17. Názov registra: Národný register pacientov s vrodenou chybou srdca
 
       - a) Zoznam osobných údajov
 
-        - Meno a priezvisko, rodné číslo, kód okresu trvalého bydliska v Slovenskej republike, adresa, dátum zistenia srdcovej chyby, klinická diagnóza (kódy diagnóz podľa MKCH-10), výskyt vrodených chýb srdca v rodine, kontakt matky so škodlivinami prostredia, spôsob korekcie chyby vrátane dátumu, pracovisko, ktoré korekciu vykonalo, dátum exitu u exitovaných, patologicko-anatomická diagnóza, zhodnosť klinickej a patologickej diagnózy (kódy podľa MKCH-10).
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa zákonného zástupcu, PSČ, dátum zistenia srdcovej chyby, klinické diagnózy (kódy diagnóz podľa MKCH-10 a kódy podľa špecifického číselníka VCHS), výskyt vrodených chýb srdca v rodine, údaje o tehotenstve a pôrode, kontakt matky so škodlivinami prostredia, spôsob korekcie chyby vrátane dátumu, pracovisko, ktoré korekciu vykonalo, dátum exitu u exitovaných, patologicko-anatomická diagnóza, zhodnosť klinickej a patologickej diagnózy (kódy podľa MKCH-10).
 
       - b) Účel ich spracúvania
 
@@ -420,41 +420,17 @@ Príloha č. 2 k zákonu č. 576/2004 Z. z.
 
         - Deti s vrodenou chybou srdca.
 
-    - 18. Názov zisťovania: Hlásenie o pacientovi s mentálnou retardáciou
+    - 18. Názov registra: Národný register pacientov so srdcovocievnym ochorením
 
       - a) Zoznam osobných údajov
 
-        - Meno a priezvisko, rodné číslo, kód okresu trvalého bydliska v Slovenskej republike, adresa, ústav/zariadenie, pôrodná hmotnosť a dĺžka, klinická diagnóza pri prijatí, overená klinická diagnóza (kódy diagnóz podľa MKCH-10), stupeň mentálnej retardácie, spôsob liečby a rehabilitácia, úprava stavu, dátum exitu, príčina exitu (kód diagnózy podľa MKCH-10).
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej a sociálnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení už od prenatálneho a perinatálneho obdobia a rozvoj epidemiologických poznatkov o závažnej skupine diagnóz vedúcich k mentálnej retardácii, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – centrá nerovnomerného vývinu, detské rehabilitačné zariadenia, pediatrické oddelenia.
-
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Pacienti s mentálnym postihnutím.
-
-    - 19. Názov zisťovania: Hlásenie o pacientovi s akútnou koronárnou príhodou
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné číslo, kód okresu trvalého bydliska v Slovenskej republike, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH-10, začiatok akútnych príznakov, miesto zahájenia liečby, výskyt typických klinických príznakov, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, terapia (čas zahájenia terapie, podané lieky), exitus – dátum, patologicko-anatomická diagnóza.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH-10, začiatok akútnych príznakov, miesto začatia liečby, klinické príznaky, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, liečba (čas zahájenia, podané lieky, realizované výkony), efekt liečby, dátum smrti, patologicko-anatomické diagnózy.
 
       - b) Účel ich spracúvania
 
         - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine ochorení výrazne ovplyvňujúcej úroveň chorobnosti a úmrtnosti populácie, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
 
-      - c) Podmienky ich získavania
+      - c) Podmienky ich získavania a poskytovania
 
         - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – lôžkové koronárne a interné oddelenia.
 
@@ -468,19 +444,19 @@ Príloha č. 2 k zákonu č. 576/2004 Z. z.
 
         - Pacienti s akútnou koronárnou príhodou vo vekovej skupine nad 25 rokov.
 
-    - 20. Názov zisťovania: Hlásenie o pacientovi s cievnou mozgovou príhodou – ZR (MZ SR) 5-12
+    - 19. Názov registra: Národný register pacientov s cievnou mozgovou príhodou
 
       - a) Zoznam osobných údajov
 
-        - Meno a priezvisko, rodné číslo, kód okresu trvalého bydliska v Slovenskej republike, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH-10, typ mozgovej príhody, začiatok akútnych príznakov, miesto zahájenia liečby, výskyt typických klinických príznakov, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, terapia (čas zahájenia terapie, podané lieky), exitus – dátum, patologicko-anatomická diagnóza podľa MKCH-10.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH-10, typ mozgovej príhody, začiatok akútnych príznakov, miesto zahájenia liečby, výskyt typických klinických príznakov, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, liečba (čas začatia liečby, podané lieky, realizované výkony), dátum smrti, patologicko-anatomické diagnózy podľa MKCH-10.
 
       - b) Účel ich spracúvania
 
         - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine ochorení výrazne ovplyvňujúcej úroveň chorobnosti a úmrtnosti populácie, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
 
-      - c) Podmienky ich získavania
+      - c) Podmienky ich získavania a poskytovania
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – právne subjekty (posteľové neurologické, interné a geriatrické oddelenia).
+        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – právne subjekty (posteľové neurologické, interné a geriatrické oddelenia, JIS).
 
         - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
 
@@ -492,21 +468,21 @@ Príloha č. 2 k zákonu č. 576/2004 Z. z.
 
         - Pacienti s cievnou mozgovou príhodou bez vekového obmedzenia.
 
-    - 21. Názov zisťovania: Národný register asistovanej reprodukcie (AR) SR
+    - 20. Názov registra: Národný register pacientov s diabetes mellitus typ l
 
       - a) Zoznam osobných údajov
 
-        - Rodné číslo, meno a priezvisko, adresa trvalého bydliska, úhrada ZP, použitá metóda AR, počet absolvovaných cyklov AR, výsledok liečby, komplikácie, v prípade úspechu ďalší osud gravidity, zvlášť registrované viacplodové gravidity, v budúcnosti stav a vývin detí narodených po liečbe neplodnosti metódami AR.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, dátum zistenia diagnózy DM, výskyt diabetu v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, posledný infekt pred ochorením (diagnóza, liečba), prvé klinické príznaky, vybrané biochemické výsledky (glykémia bazálna a postprandiálna, glykozúria, ketoacidóza, HbAlc), liečba (denná dávka inzulínu, typ inzulínu, diéta), stav pacienta ku dňu hlásenia, trvanie remisie, hospitalizácie (miesto hospitalizácie, počet hospitalizácií, počet kontrol), úroveň spolupráce pacienta a zákonných zástupcov pri liečebnom režime.
 
       - b) Účel ich spracúvania
 
-        - Účelom štatistického zisťovania a spracúvania je registrácia stavu a úrovne AR v Slovenskej republike s následnou možnosťou poskytovania údajov do európskych a svetových registrov a pre zdravotné poisťovne, v budúcnosti sledovanie vývinu detí narodených po použití metód AR.
+        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnom ochorení hromadného výskytu, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia (projekt EURODIAB), OECD a Eurostat v agregovanom tvare.
 
-      - c) Podmienky ich získavania
+      - c) Podmienky ich získavania a poskytovania
 
-        - Vymedzenie spravodajských jednotiek: centrá asistovanej reprodukcie v Slovenskej republike.
+        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – diabetologické ambulancie, detské oddelenia, interné oddelenia.
 
-        - Periodicita: 1x mesačne a súhrnné údaje 1x polročne.
+        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
 
         - Použitá metóda: vyčerpávajúce zisťovanie.
 
@@ -514,19 +490,43 @@ Príloha č. 2 k zákonu č. 576/2004 Z. z.
 
       - d) Okruh dotknutých osôb
 
-        - Všetky pacientky centier, ktoré sú liečené metódami AR.
+        - Pacienti s diabetes mellitus typ 1.
 
-    - 22. Názov zisťovania: Národný transplantačný register SR
+    - 21. Názov registra: Národný register pacientov s chronickým ochorením pľúc
 
       - a) Zoznam osobných údajov
 
-        - Meno a priezvisko, rodné číslo, kód okresu trvalého bydliska v Slovenskej republike, adresa, zdravotná poisťovňa, kódy diagnóz podľa MKCH-10, výskyt rizikových faktorov u pacienta, medicínske údaje súvisiace s odberom a transplantáciou orgánov, tkanív a buniek (ďalej len „orgán“), dátum vyjadrenia prípadného nesúhlasu s odobratím orgánov po smrti.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, dátum zistenia diagnózy, výskyt chronických ochorení pľúc v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, klinické príznaky, vybrané biochemické výsledky, liečba, realizované výkony, stav pacienta ku dňu hlásenia, hospitalizácia (miesto hospitalizácie, počet hospitalizácií, počet kontrol), úroveň spolupráce pacienta pri liečebnom režime, dátum smrti, patologicko-anatomická diagnóza podľa MKCH-10.
 
       - b) Účel ich spracúvania
 
-        - Účelom štatistického zisťovania a spracúvania je registrácia čakateľov na transplantáciu orgánov, darcov orgánov a transplantácií s následnou možnosťou poskytovania údajov vybratým poskytovateľom (transplantačné centrá, tkanivové banky, dialyzačné centrá) a do európskych a svetových registrov, ako aj osôb, ktoré počas svojho života vyjadrili nesúhlas s odobratím orgánov po smrti.
+        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine ochorení výrazne ovplyvňujúcej úroveň chorobnosti a úmrtnosti populácie, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
 
-      - c) Podmienky ich získavania
+      - c) Podmienky ich získavania a poskytovania
+
+        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia, poskytovatelia zdravotnej starostlivosti.
+
+        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
+
+        - Použitá metóda: vyčerpávajúce zisťovanie.
+
+        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+
+      - d) Okruh dotknutých osôb
+
+        - Osoby s vybranými chronickými ochoreniami pľúc.
+
+    - 22. Názov registra: Národný transplantačný register
+
+      - a) Zoznam osobných údajov
+
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, telefónny kontakt, zdravotná poisťovňa, kódy diagnóz podľa MKCH-10, výskyt rizikových faktorov u pacienta, medicínske údaje súvisiace s odberom a transplantáciou orgánov, tkanív a buniek, dátum vyjadrenia prípadného nesúhlasu s odobratím orgánov po smrti.
+
+      - b) Účel ich spracúvania
+
+        - Účelom štatistického zisťovania a spracúvania je registrácia čakateľov na transplantáciu orgánov, tkanív a buniek, darcov orgánov, tkanív a buniek a transplantácií s následnou možnosťou poskytovania údajov vybratým poskytovateľom (transplantačné centrá, tkanivové banky, dialyzačné centrá) a do európskych a svetových registrov, ako aj osôb, ktoré počas svojho života vyjadrili nesúhlas s odobratím orgánov po smrti.
+
+      - c) Podmienky ich získavania a poskytovania
 
         - Vymedzenie spravodajských jednotiek: poskytovatelia zdravotnej starostlivosti, osoby spôsobilé na právne úkony a zákonní zástupcovia osôb nespôsobilých dať informovaný súhlas.
 
@@ -538,10 +538,132 @@ Príloha č. 2 k zákonu č. 576/2004 Z. z.
 
       - d) Okruh dotknutých osôb
 
-      - – pacienti s takým základným ochorením, pre ktoré transplantácia predstavuje účinnú formu liečby,
+      - – pacienti so základným ochorením, pre ktoré transplantácia predstavuje účinnú formu liečby,
 
       - – potenciálni darcovia orgánov, tkanív a buniek,
 
       - – osoby, ktoré počas svojho života vyjadrili nesúhlas s odobratím orgánov a tkanív po smrti,
 
       - – pacienti, ktorí podstúpili transplantáciu.
+
+    - 23. Názov registra: Národný register pacientov s prenosným ochorením
+
+      - a) Zoznam osobných údajov
+
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, vzdelanie, zamestnanie, kódy diagnóz sledovaných infekčných ochorení podľa MKCH-10, forma ochorenia, začiatok ochorenia, dátum hlásenia, etiológia, miesto nákazy, profesionalita ochorenia, údaje o vakcinácii, doplnkové údaje (miesto a čas zahájenia liečby, hospitalizácia, výskyt klinických príznakov, kontakty, výskyt rizikových faktorov u pacienta), liečba (čas začatia liečby, podané lieky), výsledok liečby, špecifické údaje o nemocničných nákazách (miesto hospitalizácie, výkony, rizikové faktory), laboratórne výsledky, mikrobiologické výsledky, dátum smrti, patologicko-anatomické diagnózy.
+
+      - b) Účel ich spracúvania
+
+        - Účelom zberu údajov do registra a ich spracúvania je analyzovať epidemiologické charakteristiky prenosných ochorení vrátane HIV/AIDS a tbc a na ich základe prijímať opatrenia preventívneho alebo represívneho charakteru a hodnotiť ich účinnosť.
+
+        - Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare. V zmysle smerníc EÚ sú vybrané prenosné ochorenia hlásené do siete WHO a EU aj na individuálnej úrovni.
+
+      - c) Podmienky ich získavania a poskytovania
+
+        - Vymedzenie spravodajských jednotiek: poskytovatelia zdravotnej starostlivosti (povinné hlásenie), regionálne úrady verejného zdravotníctva, Úrad verejného zdravotníctva Slovenskej republiky.
+
+        - Periodicita: priebežný zber údajov.
+
+        - Použitá metóda: vyčerpávajúce zisťovanie, aktívna surveillance.
+
+        - Získavanie osobných údajov: v tlačovom formulári (Hlásenie o prenosnom ochorení), v elektronickej forme, v prípadoch určených zákonom aj telefonicky, osobne alebo poslom.
+
+      - d) Okruh dotknutých osôb
+
+        - Osoby s vybranými prenosnými ochoreniami, nosiči choroboplodných mikroorganizmov na území Slovenskej republiky.
+
+    - 24. Názov registra: Národný register pacientov s tuberkulózou
+
+      - a) Zoznam osobných údajov
+
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, dátum zistenia diagnózy, forma ochorenia, kontakty, výskyt tbc v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, údaje o vakcinácii, klinické príznaky, vybrané biochemické a mikrobiologické výsledky, liečba, klinický stav pacienta, hospitalizácie, úroveň spolupráce pacienta pri liečebnom režime, dátum smrti, patologicko-anatomická diagnóza podľa MKCH-10.
+
+      - b) Účel ich spracúvania
+
+        - Účelom zberu údajov do registra a ich spracúvania je mapovanie výskytu tuberkulózy v Slovenskej republike, skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnom ochorení, ako aj hodnotenie zdravotného stavu obyvateľstva. Sleduje sa výskyt tuberkulózy, jej bakteriologický status, liečba a výsledky liečby. Sledované údaje sú podkladom pre riadiacich pracovníkov odboru TaRCH pri dohľade nad tuberkulózou. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD, Central Intelligence System for Infectious Diseases vo WHO pre potreby EUROTB a Eurostat v agregovanom tvare.
+
+      - c) Podmienky ich získavania a poskytovania
+
+        - Vymedzenie spravodajských jednotiek: sieť ambulantných oddelení TaRCH v Slovenskej republike, myko-bakteriologické laboratóriá.
+
+        - Periodicita: priebežný zber údajov.
+
+        - Použitá metóda: vyčerpávajúce zisťovanie.
+
+        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+
+      - d) Okruh dotknutých osôb
+
+        - Osoby s diagnostikovanou tuberkulózou.
+
+    - 25. Názov registra: Národný artroplastický register
+
+      - a) Zoznam osobných údajov
+
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, zdravotná poisťovňa, adresa, pracovisko, dátum operácie, primárna diagnóza, predchádzajúce operácie, operačný prístup, použité profylaktické antibiotiká s dávkovaním, typ endoprotézy, operovaná strana, spôsob fixácie endoprotézy, použitý cement, cementovacia technika, typ a veľkosť komponentov endoprotézy, dátum primárnej implantácie, pracovisko, kde bola vykonaná primárna implantácia, dôvod revízie, revidované časti.
+
+      - b) Účel ich spracúvania
+
+        - Účelom zberu údajov je sledovanie prežívania jednotlivých typov endoprotéz, sledovanie počtu revízii na jednotlivých pracoviskách a ich pomerné zastúpenie, evaluácia jednotlivých parametrov a ich súvis s revíznou operáciou, poskytnutie údajov o primoimplantácii pracovisku v prípade, ak bude vykonávať revíznu operáciu, sledovanie úspešnosti prežívania na jednotlivých pracoviskách.
+
+      - c) Podmienky ich získavania a poskytovania
+
+        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – traumatologické a ortopedické oddelenia.
+
+        - Periodicita: mesačne.
+
+        - Použitá metóda: vyčerpávajúce zisťovanie.
+
+        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej podobe.
+
+      - d) Okruh dotknutých osôb
+
+        - Pacienti po totálnej endoprotéze bedrového kĺbu, pacienti po endoprotéze kolenného kĺbu.
+
+    - 26. Názov registra: Národný register tkanivových zariadení
+
+      - a) Zoznam osobných údajov
+
+        - Neuvádzajú sa.
+
+      - b) Účel ich spracúvania
+
+        - Účelom zberu údajov je zavedenie registra všetkých tkanivových zariadení, ktoré boli zriadené a ktoré získali na svoju činnosť oprávnenie v členskom štáte.
+
+      - c) Podmienky ich získavania a poskytovania
+
+        - Vymedzenie spravodajských jednotiek: tkanivové zariadenia, ako napríklad tkanivové banky, banky krvotvorných zárodočných buniek, odberové centrá pre tkanivá a bunky, spracovateľské centrá pre tkanivá a bunky, banky pupočníkovej krvi, banky zárodočných buniek, banky kmeňových a embryonálnych buniek, centrá asistovanej reprodukcie.
+
+        - Periodicita: pri udelení a zrušení oprávnenia a všetkých zmenách, ktoré sa týkajú oprávnenia.
+
+        - Použitá metóda: vyčerpávajúce zisťovanie.
+
+        - Získavanie osobných údajov: nie okrem uvedenia mena zodpovednej osoby.
+
+      - d) Okruh dotknutých osôb
+
+        - Nie sú okrem uvedenia mena zodpovednej osoby.
+
+    - 27. Názov registra: Národný register biobánk
+
+      - a) Zoznam osobných údajov
+
+        - Neuvádzajú sa.
+
+      - b) Účel ich spracúvania
+
+        - Účelom zberu údajov je zavedenie registra všetkých biobánk, ktoré boli zriadené a ktoré získali na svoju činnosť oprávnenie v členskom štáte.
+
+      - c) Podmienky ich získavania a poskytovania
+
+        - Vymedzenie spravodajských jednotiek: biobanky.
+
+        - Periodicita: pri udelení a zrušení oprávnenia a všetkých zmenách, ktoré sa týkajú oprávnenia.
+
+        - Použitá metóda: vyčerpávajúce zisťovanie.
+
+        - Získavanie osobných údajov: nie okrem uvedenia mena zodpovednej osoby.
+
+      - d) Okruh dotknutých osôb
+
+        - Nie sú okrem uvedenie mena zodpovednej osoby.
