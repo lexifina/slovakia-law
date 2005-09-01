@@ -1,6 +1,6 @@
-# § 250ze Konanie vo veciach združovania v politických stranách a politických hnutiach
+# § 250ze Konanie vo veciach registrácie politických strán a politických hnutí
 
-(1) Ak prípravný výbor politickej strany alebo politického hnutia nesúhlasí s upozornením príslušného ministerstva, že návrh na registráciu nemá náležitosti požadované zákonom alebo že v návrhu sú neúplné alebo nepresné údaje, môže sa prípravný výbor domáhať určenia, že návrh na registráciu nemá nedostatky.
+(1) Ak prípravný výbor politickej strany alebo politického hnutia nesúhlasí s upozornením príslušného ministerstva, že návrh na registráciu nemá náležitosti požadované zákonom<sup>36</sup>) alebo že v návrhu sú neúplné alebo nepresné údaje, môže sa prípravný výbor domáhať určenia, že návrh na registráciu nemá nedostatky.
 
 (2) Účastníkmi konania sú prípravný výbor a príslušné ministerstvo.
 

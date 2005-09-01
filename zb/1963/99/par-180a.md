@@ -1,6 +1,6 @@
 # § 180a Konanie o osvojiteľnosti
 
-(1) Ak súd zistí, že sú splnené predpoklady na osvojenie podľa osobitného predpisu,<sup>34faa</sup>) môže začať aj bez návrhu konanie o osvojiteľnosti.
+(1) Ak súd zistí, že sú splnené predpoklady na osvojenie podľa osobitného predpisu,<sup>23</sup>) môže začať aj bez návrhu konanie o osvojiteľnosti.
 
 (2) Účastníkmi konania sú dieťa a jeho rodičia. Maloletý rodič dieťaťa, ktorý dosiahol vek šestnásť rokov, je účastníkom konania, aj keď nie je zákonným zástupcom dieťaťa. V tomto konaní má procesnú spôsobilosť. Maloletý rodič dieťaťa, ktorý nedosiahol vek šestnásť rokov, musí byť v tomto konaní zastúpený svojím zákonným zástupcom.
 

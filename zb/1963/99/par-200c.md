@@ -1,6 +1,6 @@
 # § 200c
 
-(1) Na konanie vo veciach obchodného registra a na rozhodovanie o námietkach proti odmietnutiu vykonania zápisu je príslušný registrový súd.<sup>34fba</sup>)
+(1) Na konanie vo veciach obchodného registra a na rozhodovanie o námietkach proti odmietnutiu vykonania zápisu je príslušný registrový súd.<sup>27</sup>)
 
 (2) Na konanie vo veciach obchodného registra a na rozhodovanie o námietkach proti odmietnutiu vykonania zápisu je príslušný registrový súd, v ktorého obvode má osoba, ktorá sa zapisuje do obchodného registra, sídlo. Ak osoba, ktorá sa zapisuje do obchodného registra, nemá sídlo, je príslušný registrový súd podľa miesta podnikania; ak nemá ani miesto podnikania, je príslušný registrový súd podľa miesta bydliska tejto osoby.
 

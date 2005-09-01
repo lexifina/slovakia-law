@@ -1,6 +1,6 @@
 # § 175l
 
-(1) Ak mal poručiteľ v čase svojej smrti s pozostalým manželom majetok v bezpodielovom spoluvlastníctve, o ktorého vyporiadaní sa nezačalo konanie na súde, vyporiada sa tento majetok v konaní o dedičstve podľa osobitného predpisu.<sup>34b</sup>)
+(1) Ak mal poručiteľ v čase svojej smrti s pozostalým manželom majetok v bezpodielovom spoluvlastníctve, o ktorého vyporiadaní sa nezačalo konanie na súde, vyporiada sa tento majetok v konaní o dedičstve podľa osobitného predpisu.<sup>18</sup>)
 
 (2) Majetok uvedený v odseku 1 sa môže vyporiadať dohodou medzi pozostalým manželom a dedičmi uzavretou písomne alebo ústne do zápisnice. Ak medzi nimi nedôjde k dohode, vyporiada tento majetok súd príslušný na konanie o dedičstve. Ak rozhodnutie závisí od skutočnosti, ktorá zostala medzi účastníkmi sporná, postupuje súd podľa § 175k ods. 3.
 

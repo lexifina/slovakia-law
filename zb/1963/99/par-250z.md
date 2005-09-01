@@ -4,9 +4,9 @@
 
 ## Konanie vo volebných veciach
 
-# § 250z Konanie vo veciach zoznamov voličov a zoznamov oprávnených osôb na hlasovanie v referende
+# § 250z Konanie vo veciach zoznamov voličov a zoznamov oprávnených občanov na hlasovanie v referende
 
-(1) Ak obec sama neodstráni chyby alebo nedostatky v stálom zozname voličov alebo v zozname oprávnených osôb na hlasovanie v referende, môže sa občan tým dotknutý obrátiť na okresný súd príslušný podľa volebného okrsku s návrhom na vydanie rozhodnutia o vykonaní opravy alebo o doplnení zoznamu.
+(1) Ak obec sama neodstráni chyby alebo nedostatky v stálom zozname voličov alebo v zozname oprávnených občanov na hlasovanie v referende, môže sa občan tým dotknutý obrátiť na okresný súd príslušný podľa volebného okrsku s návrhom na vydanie rozhodnutia o vykonaní opravy alebo o doplnení zoznamu.
 
 (2) Účastníkmi konania sú navrhovateľ a obec.
 

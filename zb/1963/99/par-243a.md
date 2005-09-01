@@ -1,6 +1,6 @@
 # § 243a
 
-(1) Dovolací súd spravidla nariadi pojednávanie o dovolaní proti rozsudku; pojednávanie nenariadi, ak ide o prípady uvedené v § 237, v § 241 ods. 2 písm. b) a d).
+(1) Dovolací súd rozhodne o dovolaní spravidla bez pojednávania; pojednávanie môže nariadiť, ak to považuje za potrebné.
 
 (2) Ak dovolací súd nariadi pojednávanie, postupuje obdobne podľa § 215 a § 216 ods. 2. Dokazovanie však nevykonáva.
 

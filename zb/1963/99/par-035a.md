@@ -1,6 +1,6 @@
 # § 35a
 
-(1) Európska komisia (ďalej len „Komisia") a Protimonopolný úrad Slovenskej republiky (ďalej len „protimonopolný úrad") môžu v konaní, v ktorom súd uplatňuje ustanovenia osobitného predpisu,<sup>33ac</sup>) predložiť písomné vyjadrenie k právnym alebo skutkovým skutočnostiam priamo súvisiacim s prejednávanou vecou. Súd môže vyhovieť žiadosti Komisie alebo protimonopolného úradu o ústne vyjadrenie.
+(1) Európska komisia (ďalej len „Komisia") a Protimonopolný úrad Slovenskej republiky (ďalej len „protimonopolný úrad") môžu v konaní, v ktorom súd uplatňuje ustanovenia osobitného predpisu,<sup>6</sup>) predložiť písomné vyjadrenie k právnym alebo skutkovým skutočnostiam priamo súvisiacim s prejednávanou vecou. Súd môže vyhovieť žiadosti Komisie alebo protimonopolného úradu o ústne vyjadrenie.
 
 (2) Písomné vyjadrenie podľa odseku 1 musí mať všeobecné náležitosti podania podľa § 42 ods. 3.
 

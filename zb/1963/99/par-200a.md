@@ -2,7 +2,7 @@
 
 # § 200a
 
-(1) Konanie vo veciach obchodného registra je konanie, ktorým sa má dosiahnuť zhoda medzi zápisom v obchodnom registri a skutočným stavom inak ako na základe návrhu na zápis, zmenu zápisu alebo výmaz údajov podľa osobitného zákona.<sup>34fa</sup>)
+(1) Konanie vo veciach obchodného registra je konanie, ktorým sa má dosiahnuť zhoda medzi zápisom v obchodnom registri a skutočným stavom inak ako na základe návrhu na zápis, zmenu zápisu alebo výmaz údajov podľa osobitného zákona.<sup>25</sup>)
 
 (2) Konanie vo veciach obchodného registra môže registrový súd začať aj bez návrhu.
 

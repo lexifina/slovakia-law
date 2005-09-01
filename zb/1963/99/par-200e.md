@@ -8,11 +8,11 @@
 
 - c) o návrhu na vyhlásenie uznesenia členskej schôdze družstva o rozdelení likvidačného zostatku za neplatné,
 
-- d) o neplatnosti obchodnej spoločnosti,<sup>34fc</sup>)
+- d) o neplatnosti obchodnej spoločnosti,<sup>28</sup>)
 
-- e) o vymenovaní audítora na posúdenie návrhu zmluvy o splynutí, zmluvy o zlúčení alebo projektu rozdelenia obchodnej spoločnosti podľa osobitného zákona,<sup>34fd</sup>)
+- e) o vymenovaní audítora na posúdenie návrhu zmluvy o splynutí, zmluvy o zlúčení alebo projektu rozdelenia obchodnej spoločnosti podľa osobitného zákona,<sup>29</sup>)
 
-- f) o poverení zvolať valné zhromaždenie podľa osobitného zákona.<sup>34fe</sup>)
+- f) o poverení zvolať valné zhromaždenie podľa osobitného zákona.<sup>30</sup>)
 
 (2) Konanie podľa odseku 1 písm. a) a b) možno začať aj bez návrhu.
 

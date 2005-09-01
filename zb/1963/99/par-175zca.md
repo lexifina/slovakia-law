@@ -1,6 +1,6 @@
 # § 175zca Osvedčenie o dedičstve
 
-(1) Notár poverený súdom (§ 38 ods. 1) vydá osvedčenie o dedičstve, ak
+(1) Notár poverený súdom (§ 38 ods. 1) vydá so súhlasom účastníkov osvedčenie o dedičstve, ak
 
 - a) dedičstvo nadobudol jediný dedič, ktorý nesmie byť maloletý, ani osobou, ktorá musí mať opatrovníka podľa zákona,
 
@@ -24,7 +24,7 @@
 
 - f) ak ide o spoluvlastníkov, výšku ich spoluvlastníckych podielov vyjadrených zlomkom z celku,
 
-- g) ďalšie údaje, najmä údaje potrebné na zápis právnych vzťahov k nehnuteľnostiam do katastra nehnuteľností a údaje nevyhnutné na zistenie základu dane podľa osobitného predpisu,<sup>34d</sup>)
+- g) ďalšie údaje, najmä údaje potrebné na zápis práva k nehnuteľnosti do katastra nehnuteľností,<sup>19</sup>)
 
 - h) podpisy účastníkov a ich vyhlásenie, že súhlasia s obsahom osvedčenia,
 
@@ -40,4 +40,4 @@
 
 (5) Účastník sa môže vzdať práva na podanie žiadosti podľa odseku 4. V tomto prípade dňom vzdania sa práva na podanie žiadosti všetkými účastníkmi nadobudne osvedčenie o dedičstve účinky právoplatného uznesenia o dedičstve.
 
-(6) Na opravu osvedčenia o dedičstve sa primerane použijú ustanovenia osobitného predpisu.<sup>34e</sup>)
+(6) Na opravu osvedčenia o dedičstve sa primerane použijú ustanovenia osobitného predpisu.<sup>20</sup>)
