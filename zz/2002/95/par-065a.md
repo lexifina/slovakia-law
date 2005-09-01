@@ -4,7 +4,7 @@
 
 # § 65a Spolupoistenie
 
-(1) Poisťovaciu činnosť možno vykonávať aj formou spolupoistenia. Pri spolupoistení možno uzavrieť poistnú zmluvu medzi poistníkom a viacerými poisťovňami, poisťovňami z iného členského štátu alebo zahraničnými poisťovňami, ktorí uzavreli vzájomnú dohodu o spoločnom postupe pri poistení určitých poistných rizík (ďalej len „spolupoisťovateľ"), a to v mene a na účet všetkých spolupoisťovateľov. Táto dohoda o spoločnom postupe musí určiť hlavného spolupoisťovateľa. Na plnenie povinností hlavného spolupoisťovateľa podľa tohto zákona možno vytvoriť samostatný spoločný útvar na tento účel, poverený orgán niektorého spolupoisťovateľa alebo spoločne určeného poisťovacieho makléra.
+(1) Poisťovaciu činnosť možno vykonávať aj formou spolupoistenia. Pri spolupoistení možno uzavrieť poistnú zmluvu medzi poistníkom a viacerými poisťovňami, poisťovňami z iného členského štátu alebo zahraničnými poisťovňami, ktorí uzavreli vzájomnú dohodu o spoločnom postupe pri poistení určitých poistných rizík (ďalej len „spolupoisťovateľ"), a to v mene a na účet všetkých spolupoisťovateľov. Táto dohoda o spoločnom postupe musí určiť hlavného spolupoisťovateľa. Na plnenie povinností hlavného spolupoisťovateľa podľa tohto zákona možno vytvoriť samostatný spoločný útvar na tento účel, poverený orgán niektorého spolupoisťovateľa alebo spoločne určeného sprostredkovateľa poistenia.
 
 (2) Dohoda o spoločnom postupe spolupoisťovateľov podľa odseku 1 musí obsahovať aj výšku podielov jednotlivých spolupoisťovateľov na právach a záväzkoch vyplývajúcich zo spolupoistenia.
 
