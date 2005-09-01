@@ -168,7 +168,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z.
 
   - 2. 21 | Španielsko / España | Cirugía general y del aparato digestivo | |
 
-  - 2. 22 | Švédsko / Sverige | Kirurgi | |
+  - 2. 22 | Švédsko / S ver ige | Kirurgi | |
 
   - 2. 23 | Taliansko / Italia | Chirurgia generale | |
 
@@ -2422,7 +2422,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z.
 
   - 42. 28 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Medizinische Radiologie / Nuklearmedizin / radiologie médicale / médecine nucléaire / radiologia medica / medicina nucleare | |
 
-  - 43. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | úrazová chirurgia
+  - 43. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | úrazová chirurgia alebo urgentná medicína
 
   - 43. 02 | Cyprus / Κύπρος | - | |
 
