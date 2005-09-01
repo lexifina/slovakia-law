@@ -4,11 +4,21 @@
 
 - 3) § 2 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
-- 3a) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
+- 3a) Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
 
 - 3b) Trestný zákon v znení neskorších predpisov.
 
 - 3c) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+
+- 3d) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+
+- 3e) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 3f) § 7 ods. 2 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
+
+- 3g) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
+
+- 3h) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 4) § 138 a 148 Občianskeho súdneho poriadku.
 
@@ -18,9 +28,13 @@
 
 - 4c) Napríklad § 14 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
 
-- 4d) § 68c zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
+- 4d) Napríklad § 68c zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z., § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní, Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 z 21. apríla 2004, ktorým sa vytvára európsky exekučný titul pre nesporné nároky (Ú. v. EÚ L 143, 30. 4. 2004).
 
-- § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní.
+- 4e) Čl. 110 ods. 2, čl. 225a, čl. 244 a 256 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002).
+
+- 4ea) Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 (Ú. v. EÚ L 143, 30. 4. 2004).
+
+- 4f) § 5 ods. 2 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 288/1995 Z. z. o odmenách a náhradách súdnych exekútorov.
 
 - 5) § 53 Občianskeho súdneho poriadku.
 
@@ -32,17 +46,25 @@
 
 - 7) § 163 Občianskeho súdneho poriadku.
 
-- 8) Napr. zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov, zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
+- 8) Napríklad Zákonník práce, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 9) § 25 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
+- 8a) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 10) Zákon č. 195/1998 Z. z. o sociálnej pomoci.
+- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10a) § 57 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
+- Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 8b) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 11) § 716 a nasl. Obchodného zákonníka.
 
-- 11a) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
+- 11a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11aa) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+
+- 11ab) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
 
 - Zákon č. 478/1992 Zb. o úžitkových vzoroch v znení neskorších predpisov.
 
@@ -50,7 +72,11 @@
 
 - Zákon č. 146/2000 Z. z. o ochrane topografií polovodičových výrobkov.
 
-- 11b) § 88 ods. 1, § 93 ods. 2, § 148 ods. 3 Obchodného zákonníka.
+- 11ac) § 48 Občianskeho súdneho poriadku.
+
+- 11ad) § 148 ods. 3 Obchodného zákonníka.
+
+- 11b) § 88 Obchodného zákonníka.
 
 - 11ba) § 2 Obchodného zákonníka.
 
@@ -59,6 +85,12 @@
 - 11bb) § 2 až 6 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - § 7 nariadenia vlády Slovenskej republiky č. 95/1994 Z. z., ktorým sa vykonávajú niektoré ustanovenia zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z. týkajúce sa dlžníkov hospodáriacich na pôde.
+
+- 11bc) Zákon č. 43/2004 Z. z.
+
+- 11bd) § 6 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku.
+
+- 11be) § 151ma Občianskeho zákonníka.
 
 - 11c) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
@@ -78,6 +110,12 @@
 
 - 13b) Napríklad zákon č. 600/1992 Zb. v znení neskorších predpisov, zákon č. 191/1950 Zb. zákon zmenkový a šekový, zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
 
+- 13ba) § 80 písm. c) Občianskeho súdneho poriadku.
+
+- 13c) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+
+- 13d) § 151h, § 151ma a 151md Občianskeho zákonníka.
+
 - 14) § 201 a nasl. Občianskeho súdneho poriadku.
 
 - 15) § 476 a nasl. Obchodného zákonníka.
@@ -89,6 +127,8 @@
 - 17a) § 22 ods. 1 a § 27 ods. 3 písm. a) zákona č. 600/1992 Zb. v znení neskorších predpisov.
 
 - 17b) § 2 ods. 1 zákona č. 600/1992 Zb. v znení neskorších predpisov.
+
+- 17ba) § 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 651/2004 Z. z.
 
 - 17c) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
