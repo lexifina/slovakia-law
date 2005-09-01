@@ -2,6 +2,8 @@
 
 - 2) § 53 ods. 1 písm. g ) zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
 - 3) Trestný zákon.
 
 - 4) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
