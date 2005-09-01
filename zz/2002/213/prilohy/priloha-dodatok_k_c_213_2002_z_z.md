@@ -1026,13 +1026,9 @@ Dodatok k č. 213/2002 Z. z.
 
   - Rumunsko
 
-  - 1. Ministerstvo spravodlivosti pre listiny uvedené v článku 1 a, c, d dohovoru
+  - 1. Súdy pre listiny uvedené v článku 1 písm. a), c), d) dohovoru
 
-  - 2. Ministerstvo zahraničných vecí pre listiny uvedené v článku 1 b dohovoru
-
-  - 3. Odvolacie súdy (Curti de apel) pre listiny uvedené v článku 1 písm. a), c), d) dohovoru
-
-  - 4. Prefektúry pre listiny uvedené v článku 1 písm. b) dohovoru
+  - 2. Prefektúry pre listiny uvedené v článku 1 písm. b) dohovoru
 
     - Ruská federácia
 
