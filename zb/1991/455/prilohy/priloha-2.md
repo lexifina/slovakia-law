@@ -131,5 +131,3 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore |
 
 - 57. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
-
-- 58. | Doprava do zdravotníckeho zariadenia alebo zo zdravotníckeho zariadenia | - stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore sanitár a trojročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov |
