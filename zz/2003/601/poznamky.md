@@ -29,3 +29,7 @@
 - 11) § 15 zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 12) Zákon č. 410/2004 Z. z. o vyplatení jednorazového príspevku poberateľovi dôchodku v roku 2004 a o zmene zákona o životnom minime.
+
+- 13) § 64 ods. 1 písm. b) zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+
+- 14) § 70 zákona č. 305/2005 Z. z.
