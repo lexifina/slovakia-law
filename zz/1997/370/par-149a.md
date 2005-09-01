@@ -2,7 +2,7 @@
 
 # § 149a
 
-(1) Prieskumným konaním sa posudzuje zdravotná spôsobilosť<sup>70e</sup>) vojaka vo výkone vojenskej služby, na výkon vojenskej služby alebo na výkon funkcie, do ktorej je ustanovený alebo zaradený z dôvodu zmeny jeho zdravotného stavu a ktorá má vplyv na výkon vojenskej služby alebo na výkon funkcie, do ktorej je ustanovený alebo zaradený. Zdravotná spôsobilosť sa zisťuje na základe lekárskej prehliadky, ktorú možno doplniť odborným vyšetrením.
+(1) Prieskumným konaním sa posudzuje zdravotná spôsobilosť<sup>70e</sup>) vojaka vo výkone vojenskej služby, na výkon vojenskej služby alebo na výkon funkcie, do ktorej je zaradený z dôvodu zmeny jeho zdravotného stavu a ktorá má vplyv na výkon vojenskej služby alebo na výkon funkcie, do ktorej je zaradený. Zdravotná spôsobilosť sa zisťuje na základe lekárskej prehliadky, ktorú možno doplniť odborným vyšetrením.
 
 (2) Prieskumné konanie sa vykonáva:
 
@@ -25,5 +25,3 @@
 - e) dočasnej nespôsobilosti vykonávať funkciu, do ktorej je ustanovený alebo zaradený s výrokom „DOČASNE NESPÔSOBILÝ",
 
 - f) trvalej nespôsobilosti vykonávať funkciu, do ktorej je ustanovený alebo zaradený s výrokom „NESPÔSOBILÝ".
-
-(5) Ustanovenie odseku 4 písm. b) a d) až f) sa nevzťahuje na vojakov prípravnej služby.
