@@ -14,6 +14,8 @@
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
+- 6a) § 62 ods. 1 písm. a) zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+
 - 7) § 4 zákona č. 601/2003 Z. z.
 
 - 8) § 5 zákona č. 595/2003 Z. z.
