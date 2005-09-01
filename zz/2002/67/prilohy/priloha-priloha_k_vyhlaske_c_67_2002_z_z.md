@@ -452,7 +452,7 @@ Obchodný názov DBBT CAS č. 76253-60-6
 
 XXVIII. Nikel a jeho zlúčeniny CAS č. 7440-0-20
 
-1. Nikel a jeho zlúčeniny sa môžu používať v častiach výrobkov, ktoré sa vkladajú do prepichnutých uší alebo iných prepichnutých častí ľudského tela, pri epitelizácií rán spôsobených prepichnutím, ktoré sa neskôr odstránia alebo ostávajú v tele, ak je v týchto častiach výrobkov, ktoré sú homogénne, koncentrácia niklu vyjadrená pomerom hmotnosti niklu k celkovej hmotnosti výrobku menšia ako 0,05 hmotnostných percent.
+- 1. Nikel a jeho zlúčeniny sa môžu používať vo všetkých predmetoch, ktoré sa vkladajú do prepichnutých častí ľudského tela, ak miera uvoľňovania niklu z takýchto predmetov je menšia ako 0,2 µg /cm<sup>2</sup>/týždeň (migračný limit).
 
 2. Nikel a jeho zlúčeniny sa môžu používať pri výrobkoch určených na priamy a dlhodobý kontakt s pokožkou, ako sú
 
