@@ -1,19 +1,39 @@
-Príloha č. 2 k zákonu č. 380/1997 Z. z.
+Príloha č. 7 k zákonu č. 380/1997 Z. z.
 
-PLATOVÉ TRIEDY A FUNKČNÉ PLATY PRE FUNCIE MUŽSTVA, PODDÔSTOJNÍKOV A PRÁPORČÍKOV
+SLUŽNÉ
 
-PLATOVÁ TRIEDA | FUNKČNÝ PLAT V SKMESAČNE
+Hodnosť | Sk mesačne
 
-1. | 6 400
+vojak | 400
 
-2. | 6 900
+slobodník | 450
 
-3. | 7 400
+desiatnik | 580
 
-4. | 7 900
+čatár | 710
 
-5. | 8 400
+rotný | 800
 
-6. | 9 000
+rotmajster | 850
 
-7. | 9 600
+nadrotmajster | 900
+
+podpráporčík | 950
+
+práporčík | 1 000
+
+nadpráporčík | 1 050
+
+podporučík | 900
+
+poručík | 1 000
+
+nadporučík | 1 100
+
+kapitán | 1 200
+
+major | 1 300
+
+podplukovník | 1 400
+
+plukovník | 1 500

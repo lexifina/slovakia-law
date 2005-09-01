@@ -1,16 +1,4 @@
-- 1) § 3 zákona č. 351/1997 Z. z. Branný zákon v znení zákona č. 401/2000 Z. z.
-
-- 2) § 2 ods. 1 písm. b) bod 2 zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
-
-- 3) § 24 ods. 2 zákona č. 370/1997 Z. z.
-
-- 4) § 24 ods. 3 zákona č. 370/1997 Z. z.
-
-- 5) § 24 ods. 1 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
-
-- 6) Napríklad zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
-
-- 6a) § 30 ods. l zákona č. 351/1997 Z. z.
+- 1) § 10 ods. 2 písm. a) až c) zákona č. 320/2002 Z. z. o brannej povinnosti.
 
 - 7) § 13 až 15 a § 31a zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
@@ -56,10 +44,6 @@
 
 - 18c) § 41 ods. 3 písm. b) zákona č. 366/1999 Z. z. o daniach z príjmov.
 
-- 19) § 226 Trestného poriadku.
-
-- 20) § 172 ods. 1 Trestného poriadku.
-
 - 20a) Napríklad § 140 ods. 2 až 5 zákona č. 311/2001 Z. z. Zákonník práce, § 149 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov, § 1 ods. 5 zákona č. 313/2001 Z. z. o verejnej službe.
 
 - 20b) § 11 ods. 1 písm. b) zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
@@ -102,15 +86,21 @@
 
 - 30a) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
-- 31) § 4 zákona č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
+- 30b) Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 31) § 6 zákona č. 553/2003 Z. z. v znení zákona č. 369/2004 Z. z.
+
+- 31a) § 11 zákona č. 553/2003 Z. z. v znení zákona č. 369/2004 Z. z.
+
+- 31b) § 226 Trestného poriadku.
+
+- 31c) § 172 ods. 1 Trestného poriadku.
 
 - 32) Nariadenie vlády Slovenskej republiky č. 169/1993 Z. z. o platových pomeroch zamestnancov zahraničnej služby v znení nariadenia vlády Slovenskej republiky č. 157/1995 Z. z.
 
 - 33a) § 4 zákona č. 1/1992 Zb.
 
 - 33b) § 12 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
-
-- 33c) § 10 zákona č. 320/2002 Z. z. o brannej povinnosti.
 
 - 34) § 7 ods. 1, § 7a, § 7b a § 7d nariadenia vlády Slovenskej republiky č. 249/1992 Zb. o platových pomeroch zamestnancov v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
