@@ -1,41 +1,37 @@
-Príloha č. 12 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
+Príloha č. 13 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
 
-- Zoznam chronických stavov, pri ktorých dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia bez používania technicky náročných pomôcok, a zoznam technicky náročných pomôcok, ktorých používaním dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia
+- Skupiny chorôb a porúch na účely poskytovania peňažného príspevku na kompenzáciu zvýšených výdavkov na diétne stravovanie
 
-  - I. Zoznam chronických stavov, pri ktorých dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia v dôsledku ťažkých porúch mobility bez používania technicky náročných pomôcok
+  - Skupiny
 
-    - a) ťažké spastické obrny a chabé obrny dolných končatín,
+  - I. skupina
 
-    - b) mozgové, mozočkové a miešne dysfunkcie podmieňujúce ťažké poruchy chôdze,
+    - a) fenylketonúria do 18. roku života - po 18. roku života sa posudzuje individuálne na základe neurologického a psychiatrického vyšetrenia,
 
-    - c) stavy so stuhnutím kolenného kĺbu alebo bedrového kĺbu trvalého charakteru bez možnosti ovplyvnenia tohto stavu ďalšou liečbou.
+    - b) cystická fibróza s pankreatickou insuficienciou,
 
-    - d) úplná slepota oboch očí,
+    - c) nešpecifické zápalové ochorenie čreva - ulcerózna kolitída, Crohnova choroba v období sekundárnej malabsorpcie s hypalbuminémiou nižšou ako 32 g/l,
 
-    - e) praktická slepota oboch očí.
+    - d) coeliakia v detskom veku a u dospelých, ktorých zdravotný stav si vyžaduje osobitné potravinové výrobky.
 
-  - II. Zoznam technicky náročných pomôcok, ktorých používaním dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia
+  - II. skupina
 
-    - a) elektrické vozíky,
+    - a) diabetes mellitus typ I., diabetes mellitus typ II. inzulidependentný s komplikáciami,
 
-    - b) mechanické vozíky,
+    - b) odstránenie 2/3 alebo celého žalúdka s malnutríciou, poklesom hmotnosti tela o 20 % od normy s hypalbuminémiou nižšou ako 32 g/l,
 
-    - c) kočíky,
+    - c) syndróm krátkeho čreva so skrátením čreva viac ako 100 cm s prejavmi malabsorpcie s hypalbuminémiou nižšou ako 32 g/l,
 
-    - d) chodúľky,
+    - d) chronické poškodenie pankreasu (zápal, nádor, úraz) so závažnou maldigesciou, poklesom hmotnosti tela o 20 % od normy s prejavmi malabsorpcie s hypalbuminémiou nižšou ako 32 g/l,
 
-    - e) kraulery,
+    - e) systémové ochorenia - systémový lupus erytematodes, Sjögrenov syndróm, reumatoidná artritída, Bechterevova choroba - spojené s poklesom hmotnosti tela viac ako 20 % od normy s hypalbuminémiou nižšou ako 32 g/l,
 
-    - f) ortézy z tuhých materiálov (dlahy, výstuže, pružiny)
+    - f) malígne ochorenia spojené s poruchou funkcie tráviaceho traktu, s poklesom hmotnosti tela o 20 % od normy s hypalbuminémiou nižšou ako 32 g/l,
 
-      - 1. ortézy krku, trupu, bedra a lumbálnej oblasti,
+    - g) skupina ďalších zriedkavých chorôb a porúch, ktoré sú spojené s príjmom potravy, s diagnostikovanou závažnou zmenou funkcie tráviaceho traktu alebo s poklesom hmotnosti tela viac ako 20 % od normálnej hodnoty s prejavmi malabsorpcie s hypalbuminémiou nižšou ako 32 g/l.
 
-      - 2. ortézy horných končatín okrem ortéz prstov a ruky, ktoré nemajú uchytenie na predlaktí,
+  - III. skupina
 
-      - 3. ortézy dolných končatín okrem ortéz prstov a nohy, ktoré nemajú uchytenie na predkolení,
+    - a) chronická insuficiencia obličiek, kde je hladina kreatinínu v sére vyššia ako 200 mmol/l,
 
-    - g) protézy
-
-      - 1. protézy horných končatín okrem protéz prstov a ruky, ktoré nemajú uchytenie tuhou objímkou na predlaktí alebo predkolení,
-
-      - 2. protézy dolných končatín okrem protéz chodidla, ktoré sú kompenzované výplňou a ortopedickou obuvou a nemajú uchytenie tuhou objímkou na predkolení.
+    - b) zúženie pažeráka s výraznou poruchou prehĺtania na benígnom podklade alebo malígnom podklade.

@@ -1,19 +1,41 @@
-Príloha č. 11 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
+Príloha č. 12 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
 
-- Zoznam sídiel úradov práce, sociálnych vecí a rodiny na účely organizovania náhradnej rodinnej starostlivosti a zriaďovania zariadení sociálnych služieb, v ktorých sa realizuje rozhodnutie súdu vo veciach maloletých detí P. č. | Sídlo úradu práce, sociálnych vecí a rodiny | Územná pôsobnosť úradu práce, sociálnych vecí a rodiny
+- Zoznam chronických stavov, pri ktorých dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia bez používania technicky náročných pomôcok, a zoznam technicky náročných pomôcok, ktorých používaním dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia
 
-- 1 | Bratislava | na území Bratislavského kraja
+  - I. Zoznam chronických stavov, pri ktorých dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia v dôsledku ťažkých porúch mobility bez používania technicky náročných pomôcok
 
-- 2 | Trnava | na území Trnavského kraja
+    - a) ťažké spastické obrny a chabé obrny dolných končatín,
 
-- 3 | Trenčín | na území Trenčianskeho kraja
+    - b) mozgové, mozočkové a miešne dysfunkcie podmieňujúce ťažké poruchy chôdze,
 
-- 4 | Nitra | na území Nitrianskeho kraja
+    - c) stavy so stuhnutím kolenného kĺbu alebo bedrového kĺbu trvalého charakteru bez možnosti ovplyvnenia tohto stavu ďalšou liečbou.
 
-- 5 | Žilina | na území Žilinského kraja
+    - d) úplná slepota oboch očí,
 
-- 6 | Banska Bystrica | na území Banskobystrického kraja
+    - e) praktická slepota oboch očí.
 
-- 7 | Prešov | na území Prešovského kraja
+  - II. Zoznam technicky náročných pomôcok, ktorých používaním dochádza k nadmernému opotrebovaniu šatstva, bielizne, obuvi a bytového zariadenia
 
-- 8 | Košice | na území Košického kraja
+    - a) elektrické vozíky,
+
+    - b) mechanické vozíky,
+
+    - c) kočíky,
+
+    - d) chodúľky,
+
+    - e) kraulery,
+
+    - f) ortézy z tuhých materiálov (dlahy, výstuže, pružiny)
+
+      - 1. ortézy krku, trupu, bedra a lumbálnej oblasti,
+
+      - 2. ortézy horných končatín okrem ortéz prstov a ruky, ktoré nemajú uchytenie na predlaktí,
+
+      - 3. ortézy dolných končatín okrem ortéz prstov a nohy, ktoré nemajú uchytenie na predkolení,
+
+    - g) protézy
+
+      - 1. protézy horných končatín okrem protéz prstov a ruky, ktoré nemajú uchytenie tuhou objímkou na predlaktí alebo predkolení,
+
+      - 2. protézy dolných končatín okrem protéz chodidla, ktoré sú kompenzované výplňou a ortopedickou obuvou a nemajú uchytenie tuhou objímkou na predkolení.

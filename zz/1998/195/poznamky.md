@@ -28,20 +28,6 @@
 
 - 21) § 2 písm. e) zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku.
 
-- 23) § 43 ods. 2 Zákona o rodine.
-
-- 24) § 37 ods. 3, § 68 ods. 2 a § 83 Zákona o rodine.
-
-- 25) § 79 ods. 2 Zákona o rodine.
-
-- 26) § 45 ods. 3 Zákona o rodine.
-
-- 27) § 44 Zákona o rodine.
-
-- 28) § 74 až 87 Trestného zákona.
-
-- § 291 až 301 Trestného poriadku.
-
 - 29) Zákon Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
 
 - 29a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
@@ -56,13 +42,9 @@
 
 - 32a) § 28 a 31 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
-- 33) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
+- 32b) Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
-- 34) § 13 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
-
-- 35) § 170 až 203, § 205 a 206 Zákonníka práce.
-
-- 36) § 2 písm. a) zákona č. 601/2003 Z. z.
+- 36) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
 - 37) § 175a až 175z Občianskeho súdneho poriadku.
 
@@ -101,12 +83,6 @@
 - 46) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
 - 47) Napríklad zákon č. 50/1973 Zb. o pestúnskej starostlivosti v znení neskorších predpisov.
-
-- 48) Vyhláška ministra zahraničných vecí č. 33/1959 Zb. o Dohovore o vymáhaní výživného v cudzine.Vyhláška ministra zahraničných vecí č. 132/1976 Zb. o Dohovore o uznávaní a výkone rozhodnutí o vyživovacej povinnosti.
-
-- 49) Napríklad zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov.
-
-- 49a) Napríklad vyhláška Federálneho ministerstva zahraničných vecí č. 104/1991 Zb. o dojednaní Dohovoru o právach dieťaťa.
 
 - 49b) Články 14 až 25 Ústavy Slovenskej republiky.
 

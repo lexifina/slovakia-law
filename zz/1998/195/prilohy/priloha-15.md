@@ -1,37 +1,37 @@
-Príloha č. 13 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
+Príloha č. 14 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
 
-- Skupiny chorôb a porúch na účely poskytovania peňažného príspevku na kompenzáciu zvýšených výdavkov na diétne stravovanie
+- Minimálne výšky finančného príspevku poskytnutého subjektu, ktorý poskytuje sociálnu pomoc podľa zákona, alebo obci podľa § 86 ods. 2 a 3 na poskytovanie sociálnych služieb a sociálneho poradenstva (vrátane sociálnej prevencie a vybraných činností sociálnoprávnej ochrany) podľa druhu sociálnej služby, jednotky výkonu a spôsobu poskytovania sociálnej pomoci (v Sk) Spôsob poskytovania sociálnej služby | | | | | |
 
-  - Skupiny
+- Druh služby | Jednotka výkonu | Ambul./ v domácnosti | Denne/ v noci | Týždenne | Prechodne | Celoročne
 
-  - I. skupina
+- Sociálne poradenstvo (vrátane sociálnej prevencie a sociálnoprávnej ochrany) | Poradca/ sociálny pracovník | 250 000 | | | |
 
-    - a) fenylketonúria do 18. roku života - po 18. roku života sa posudzuje individuálne na základe neurologického a psychiatrického vyšetrenia,
+- Prepravná služba | 1 km | 16 | | | |
 
-    - b) cystická fibróza s pankreatickou insuficienciou,
+- Opatrovateľská služba | hodina | 100 | | | |
 
-    - c) nešpecifické zápalové ochorenie čreva - ulcerózna kolitída, Crohnova choroba v období sekundárnej malabsorpcie s hypalbuminémiou nižšou ako 32 g/l,
+- Zariadenie opatrovateľskej služby | občan | | 60 000 | 98 000 | 125 000 |
 
-    - d) coeliakia v detskom veku a u dospelých, ktorých zdravotný stav si vyžaduje osobitné potravinové výrobky.
+- Domov dôchodcov | občan | | | | | 110 000
 
-  - II. skupina
+- Rehabilitačné stredisko | občan | | 60 000 | | 117 000 |
 
-    - a) diabetes mellitus typ I., diabetes mellitus typ II. inzulidependentný s komplikáciami,
+- Zariadenie chráneného bývania | občan | | | | | 95 000
 
-    - b) odstránenie 2/3 alebo celého žalúdka s malnutríciou, poklesom hmotnosti tela o 20 % od normy s hypalbuminémiou nižšou ako 32 g/l,
+- Domov sociálnych služieb pre deti | občan | | 110 000 | 150 000 | | 185 000
 
-    - c) syndróm krátkeho čreva so skrátením čreva viac ako 100 cm s prejavmi malabsorpcie s hypalbuminémiou nižšou ako 32 g/l,
+- Domov sociálnych služieb pre dospelých | občan | | 85 000 | 140 000 | | 155 000
 
-    - d) chronické poškodenie pankreasu (zápal, nádor, úraz) so závažnou maldigesciou, poklesom hmotnosti tela o 20 % od normy s prejavmi malabsorpcie s hypalbuminémiou nižšou ako 32 g/l,
+- Stanica opatrovateľskej služby pre deti | občan | | | | 85 000 |
 
-    - e) systémové ochorenia - systémový lupus erytematodes, Sjögrenov syndróm, reumatoidná artritída, Bechterevova choroba - spojené s poklesom hmotnosti tela viac ako 20 % od normy s hypalbuminémiou nižšou ako 32 g/l,
+- Krízové stredisko | občan | 35 000 | | | 185 000 |
 
-    - f) malígne ochorenia spojené s poruchou funkcie tráviaceho traktu, s poklesom hmotnosti tela o 20 % od normy s hypalbuminémiou nižšou ako 32 g/l,
+- Domov pre osamelých rodičov | občan | | | | | 33 000
 
-    - g) skupina ďalších zriedkavých chorôb a porúch, ktoré sú spojené s príjmom potravy, s diagnostikovanou závažnou zmenou funkcie tráviaceho traktu alebo s poklesom hmotnosti tela viac ako 20 % od normálnej hodnoty s prejavmi malabsorpcie s hypalbuminémiou nižšou ako 32 g/l.
+- Zariadenie pestúnskej starostlivosti | občan | | | | | 80 000
 
-  - III. skupina
+- Detský domov | občan | | | | | 180 000
 
-    - a) chronická insuficiencia obličiek, kde je hladina kreatinínu v sére vyššia ako 200 mmol/l,
+- Resocializačné stredisko | občan | | | | 150 000 |
 
-    - b) zúženie pažeráka s výraznou poruchou prehĺtania na benígnom podklade alebo malígnom podklade.
+- Útulok | občan | | 30 000 | | 60 000 |
