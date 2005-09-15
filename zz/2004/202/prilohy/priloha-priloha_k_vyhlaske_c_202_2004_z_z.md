@@ -1,4 +1,4 @@
-Príloha č. 2 k vyhláške č. 202/2004 Z. z.
+Príloha k vyhláške č. 202/2004 Z. z.
 
 - POVOLENÉ DENATURAČNÉ PROSTRIEDKY NA OSOBITNÚ DENATURÁCIU LIEHU, ICH USTANOVENÉ NAJMENŠIE MNOŽSTVO A ÚČEL POUŽITIA OSOBITNE DENATUROVANÉHO LIEHU A OSOBITNE DENATUROVANÉHO LIEHU BEZVODÉHO Číslo | Denaturačný prostriedok | Ustanovené najmenšie množ- stvo jednotlivých zložiek dena- turačného prostriedku pri 20°C | | | Účel použitia osobitne denaturovaného liehu a osobitne denaturovaného liehu bezvodého | Poznámka
 
@@ -14,7 +14,7 @@ Príloha č. 2 k vyhláške č. 202/2004 Z. z.
 
 - 5. | ajatín | 10 g | 1 kg | 10 kg | na maskérske účely, na iné konkrétne použitie v kozmetickom priemysle |
 
-- 6. | benzín lekársky | 10 ml | 1 l | 10 l | na laboratórne, vedecké, vyučovacie, vý- vojové, výskumné a skúšobné účely, vý- robu pektínu, vývoj, prípravu a výrobu liekov a iných výrobkov slúžiacich na ochranu a podporu zdravia, imunologic- kých prípravkov, výrobu očkovacích lá- tok, dodávky distribútorom liekov, záso- bovanie zdravotníckych zariadení, lekární, výdaj v lekárňach, pri výrobe zdravotníckeho materiálu, zdravotníc- kych pomôcok a na iné nevyhnutné po- užitie v zdravotníctve a farmaceutickom priemysle | Na denaturá- ciu liehu možno použiť benzín lekár- sky známej koncentrácie.
+- 6. | benzín lekársky | 10 ml | 1 l | 10 l | na laboratórne, vedecké, vyučovacie, vý- vojové, výskumné a skúšobné účely, vý- robu pektínu, vývoj, prípravu a výrobu liekov a iných výrobkov slúžiacich na ochranu a podporu zdravia, imunologic- kých prípravkov, výrobu očkovacích lá- tok, dodávky distribútorom liekov, záso- bovanie zdravotníckych zariadení, lekární, výdaj v lekárňach, pri výrobe zdravotníckeho materiálu, zdravotníc- kych pomôcok a na iné nevyhnutné po- užitie v zdravotníctve a farmaceutickom priemysle na výrobu ekologických prípravkov na použitie v poľnohospodárstve | Na denaturá- ciu liehu možno použiť benzín lekár- sky známej koncentrácie.
 
 - 7. | benzín lekársky | 20 ml | 2 l | 20 l | na čistenie, odmasťovanie a na iné kon- krétne použitie v priemysle, ak nemožno použiť všeobecne denaturovaný lieh | Na denaturá- ciu liehu mož- no použiť benzín lekár- sky známej koncentrácie.
 
@@ -30,7 +30,7 @@ Príloha č. 2 k vyhláške č. 202/2004 Z. z.
 
 - 13. | glycerín | 100 g | 10 kg | 100 kg | na výrobu brzdových kvapalín, autokoz- metiky a na iné konkrétne použitie v che- mickom priemysle |
 
-- 14. | izopropylalkohol technický | 100 ml | 10 l | 100 l | na výrobu katalyzátorov, na použitie v kozmetickom priemysle |
+- 14. | izopropylalkohol technický | 100 ml | 10 l | 100 l | na výrobu katalyzátorov, na použitie v kozmetickom priemysle na výrobu čistiacich prostriedkov, leštiacich prostriedkov |
 
 - 15. | mentol | 250 mg | 25 g | 250 g | na výrobu masážnych prípravkov a na použitie v kozmetickom priemysle |
 
@@ -43,6 +43,8 @@ Príloha č. 2 k vyhláške č. 202/2004 Z. z.
 - 19. | zmesi vonných lá- tok s výnimkou lá- tok uvedených v osobitnom predpise<sup>14</sup>) | 10 g | 1 kg | 10 kg | na použitie v kozmetickom priemysle, na výrobu osviežovačov vzduchu |
 
 - 20. | zmesi vonných lá- tok s výnimkou lá- tok uvedených v osobitnom predpise<sup>15</sup>) | 10 g | 1 kg | 10 kg | na výrobu prostriedkov určených na úst- nu hygienu, výrobu pleťovej kozmetiky |
+
+- 21. | izopropylalkohol a terc-butylalkohol | 50 ml a 780 mg | 5 l a 78 g | 50 l a 780 g | na použitie v kozmetickom priemysle |
 
 - <sup>14</sup>) Príloha č. 3 k vyhláške Ministerstva zdravotníctva Slovenskej republiky č. 156/2004 Z. z., ktorou sa ustanovujú požiadavky na kozmetické výrobky.
 

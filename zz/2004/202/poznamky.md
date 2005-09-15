@@ -1,5 +1,7 @@
 - 1) § 2 ods. 1 písm. a), b), e) a f) zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh.
 
+- 1a) Nariadenie Komisie (ES) č. 3199/93 z 22. novembra 1993 o vzájomnom uznávaní postupov úplnej denaturácie etanolu na účely výnimky zo spotrebnej dane (Ú. v. ES L 288, 23. 11. 1993) v znení nariadenia Komisie (ES) č. 1309/2005 z 10. augusta 2005 (Ú. v. EÚ L 208, 11. 8. 2005).
+
 - 2) § 2 ods. 2 písm. o) zákona č. 467/2002 Z. z.
 
 - 3) § 2 ods. 2 písm. r) zákona č. 467/2002 Z. z.
