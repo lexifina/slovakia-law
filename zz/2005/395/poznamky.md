@@ -1,0 +1,1 @@
+- 1) § 20 ods. 3 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
