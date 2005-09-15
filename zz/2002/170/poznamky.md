@@ -26,9 +26,9 @@
 
 - 17) § 7 ods. 1 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
-- 18) § 123 ods. 6 zákona č. 566/2001 Z. z.
+- 18) § 122 ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
-- 19) § 123 ods. 7 zákona č. 566/2001 Z. z.
+- 19) § 125h ods. 4 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
 - 20) § 128 ods. 3 zákona č. 566/2001 Z. z.
 
@@ -40,9 +40,13 @@
 
 - 24) § 11 zákona č. 95/2002 Z. z.
 
-- 25) § 13 ods. 4 a 11 zákona č. 95/2002 Z. z.
+- 25) § 14 ods. 1 zákona č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
 - 26) § 37 ods. 5 zákona č. 95/2002 Z. z.
+
+- 26a) § 23 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+
+- 26b) § 68 ods. 4 zákona č. 650/2004 Z. z.
 
 - 27) § 8 ods. 5 zákona č. 594/2003 Z. z.
 
@@ -57,6 +61,8 @@
 - 30) § 9 ods. 4 zákona č. 95/2002 Z. z.
 
 - 30a) § 5 ods. 2 zákona č. 429/2002 Z. z.
+
+- 30b) § 24 ods. 3 zákona č. 650/2004 Z. z.
 
 - 31) § 10 ods. 1 písm. a) zákona č. 594/2003 Z. z.
 
@@ -168,7 +174,17 @@
 
 - 54) § 22 ods. 3 zákona č. 95/2002 Z. z.
 
-- 54a) § 13 ods. 18 zákona č. 95/2002 Z. z.
+- 54a) § 36 ods. 1 písm. g) zákona č. 95/2002 Z. z. v znení neskorších predpisov.
+
+- 54aa) § 36 ods. 1 písm. h) zákona č. 95/2002 Z. z. v znení zákona č. 645/2004 Z. z.
+
+- Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 594/2003 Z. z. v znení zákona č. 635/2004 Z. z.
+
+- Zákon č. 650/2004 Z. z.
 
 - 54b) § 66b zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
@@ -192,7 +208,33 @@
 
 - 54l) § 52 ods. 1 písm. j) zákona č. 43/2004 Z. z.
 
-- 54m) § 52 ods. 1 písm. j) a § 111 ods. 15 zákona č. 43/2004 Z. z.
+- 54m) § 26 ods. 1 písm. a) zákona č. 650/2004 Z. z.
+
+- 54n) § 26 ods. 1 písm. b) zákona č. 650/2004 Z. z.
+
+- 54o) § 26 ods. 1 písm. c) zákona č. 650/2004 Z. z.
+
+- 54p) § 26 ods. 1 písm. d) zákona č. 650/2004 Z. z.
+
+- 54q) § 26 ods. 1 písm. e) zákona č. 650/2004 Z. z.
+
+- 54r) § 26 ods. 1 písm. f) zákona č. 650/2004 Z. z.
+
+- 54s) § 26 ods. 1 písm. g) zákona č. 650/2004 Z. z.
+
+- 54t) § 26 ods. 1 písm. h) zákona č. 650/2004 Z. z.
+
+- 54u) § 26 ods. 1 písm. i) zákona č. 650/2004 Z. z.
+
+- 54v) § 26 ods. 1 písm. j) zákona č. 650/2004 Z. z.
+
+- 54w) § 26 ods. 1 písm. k) zákona č. 650/2004 Z. z.
+
+- 54x) § 26 ods. 1 písm. l) zákona č. 650/2004 Z. z.
+
+- 54y) § 26 ods. 1 písm. m) zákona č. 650/2004 Z. z.
+
+- 54z) § 26 ods. 1 písm. n) zákona č. 650/2004 Z. z.
 
 - 61) § 4 ods. 5 písm. d) zákona č. 330/2000 Z. z.
 
@@ -200,23 +242,21 @@
 
 - 63) § 103 ods. 4 zákona č. 566/2001 Z. z.
 
-- 64) § 114 ods. 4 zákona č. 566/2001 Z. z.
+- 64) § 114 ods. 4 a § 116 zákona č. 566/2001 Z. z.
 
-- 65) § 118 ods. 5, § 114 ods. 4 a § 170 ods. 3 zákona č. 566/2001 Z. z.
-
-- 65a) § 114 ods. 4, § 118 ods. 5, § 119 ods. 4 a § 170 zákona č. 566/2001 Z. z.
+- 65) § 114 ods. 4, § 118 ods. 5, § 119 ods. 4 a § 170 ods. 3 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 66) § 114 ods. 14 zákona č. 566/2001 Z. z.
 
 - 67) § 127 ods. 2 zákona č. 566/2001 Z. z.
 
-- 67a) § 122 ods. 2 zákona č. 566/2001 Z. z.§ 29 ods. 2 zákona č. 429/2002 Z. z.
+- 67a) § 121 a § 125 ods. 2 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 67b) § 122 ods. 2 zákona č. 566/2001 Z. z.
+- 68) § 125c zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
-- 68) § 122 ods. 7 zákona č. 566/2001 Z. z.
+- 69) § 120 ods. 6 písm. d) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
-- 69) § 125 ods. 3 zákona č. 566/2001 Z. z.
+- 69a) § 120 ods. 6 písm. e) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
 - 70) § 61 ods. 5 zákona č. 95/2002 Z. z.
 
@@ -225,3 +265,9 @@
 - 71a) § 69 ods. 8 zákona č. 43/2004 Z. z.
 
 - 71b) § 84 ods. 4 zákona č. 43/2004 Z. z.
+
+- 71c) § 121 ods. 4 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+
+- 71d) § 39 ods. 8 zákona č. 650/2004 Z. z.
+
+- 71e) § 54 ods. 12 zákona č. 650/2004 Z. z.

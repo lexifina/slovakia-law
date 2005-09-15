@@ -34,9 +34,9 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - o) na vznik a činnosť centrálneho depozitára<sup>16</sup>) | 110 000 Sk
 
-- p) na nezverejnenie určitej informácie z prospektu cenného papiera<sup>18</sup>) emitentovi | 10 000 Sk
+- „p) na nezverejnenie určitých údajov z prospektu<sup>18</sup>) | 1 000 Sk
 
-- r) na zúženie obsahu prospektu cenného papiera<sup>19</sup>) vyhlasovateľovi verejnej ponuky | 10 000 Sk
+- r) na zúženie prospektu cenného papiera<sup>19</sup>) | 1 000 Sk
 
 - s) na nezverejnenie určitej informácie z prospektu investície<sup>20</sup>) vyhlasovateľovi verejnej ponuky | 10 000 Sk
 
@@ -50,13 +50,27 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - x) na vykonávanie zaisťovacej činnosti právnickej osobe so sídlom na území Slovenskej republiky, poisťovni, zahraničnej poisťovni alebo zahraničnej zaisťovni<sup>24</sup>) | 100 000 Sk
 
-- y) na vykonávanie činnosti poisťovacieho makléra alebo poisťovacieho agenta, ktorý vykonáva sprostredkovanie poistenia pre viac ako jednu poisťovňu,<sup>25</sup>) |
+- y) na sprostredkovanie poistenia poisťovacím agentom a na sprostredkovanie poistenia poisťovacím maklérom<sup>25</sup>) |
 
 - 1. fyzickej osobe | 3 000 Sk
 
 - 2. právnickej osobe | 10 000 Sk
 
-- z) na zápis do zoznamu aktuárov<sup>26</sup>) fyzickej osobe | 3 000 Sk
+- z) na sprostredkovanie zaistenia sprostredkovateľom zaistenia<sup>25</sup>) |
+
+- 1. fyzickej osobe | 3 000 Sk
+
+- 2. právnickej osobe | 10 000 Sk
+
+- za) na zápis do zoznamu aktuárov<sup>26</sup>) fyzickej osobe | 3 000 Sk
+
+- zb) na vznik a činnosť doplnkovej dôchodkovej spoločnosti<sup>26a</sup>) | 50 000 Sk
+
+- zc) na vykonávanie činnosti sprostredkovateľa doplnkového dôchodkového sporenia | 3 000 Sk
+
+- 1. fyzickej osobe<sup>26b</sup>) | 3 000 Sk
+
+- 2. právnickej osobe<sup>26b</sup>) | 10 000 Sk
 
 - Položka 2 - Zmena rozhodnutia, ktorým bolo udelené povolenie
 
@@ -72,13 +86,15 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - f) na vznik a činnosť centrálneho depozitára<sup>29</sup>) | 10 000 Sk
 
-- g) iná ako v písmenách b) a c)<sup>28</sup>) pre obchodníka s cennými papiermi alebo zahraničného obchodníka s cennými papiermi | 2 000 Sk
+- g) iná ako v písmenách d) a e)<sup>28</sup>) pre obchodníka s cennými papiermi alebo zahraničného obchodníka s cennými papiermi | 2 000 Sk
 
 - h) na vykonávanie poisťovacej činnosti právnickej osobe so sídlom na území Slovenskej republiky alebo zahraničnej poisťovni<sup>30</sup>) | 5 000 Sk
 
 - i) na vykonávanie zaisťovacej činnosti právnickej osobe so sídlom na území Slovenskej republiky, poisťovni, zahraničnej poisťovni alebo zahraničnej zaisťovni<sup>30</sup>) | 5 000 Sk
 
 - j) na vznik a činnosť burzy cenných papierov<sup>30a</sup>) | 15 000 Sk
+
+- k) na vznik a činnosť doplnkovej dôchodkovej spoločnosti<sup>30b</sup>) | 5 000 Sk
 
 - Položka 3 - Vydávanie predchádzajúceho súhlasu
 
@@ -210,33 +226,57 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - zzl) na tvorbu ďalších technických rezerv poisťovne<sup>54</sup>) | 5 000 Sk
 
-- zzm) na vrátenie povolenia na vykonávanie činnosti poisťovacieho makléra alebo poisťovacieho agenta, ktorý vykonáva sprostredkovanie poistenia pre viac ako jednu poisťovňu,<sup>54a</sup>) |
+- zzm) na zahrnutie položiek podľa § 31 ods. 6 a § 70a ods. 3 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov do skutočnej miery solventnosti poisťovne alebo pobočky zahraničnej poisťovne<sup>54a</sup>) | 5 000 Sk
 
-- 1. fyzickej osobe | 500 Sk
+- zzn) na vykonávanie sprostredkovateľských činností pre finančné inštitúcie v súlade s osobitnými predpismi<sup>54aa</sup>) | 5 000 Sk
 
-- 2. právnickej osobe | 1 000 Sk
+- zzo) na nadobudnutie alebo prekročenie podielu na základnom imaní dôchodkovej správcovskej spoločnosti alebo na hlasovacích právach v dôchodkovej správcovskej spoločnosti vo výške 5 %, 10 %, 20 %, 33 %, 50 % a 66 % v jednej alebo v niekoľkých operáciách priamo alebo konaním v zhode<sup>54b</sup>) alebo na to, aby sa dôchodková správcovská spoločnosť stala dcérskou spoločnosťou inej materskej spoločnosti<sup>54c</sup>) | 10 000 Sk
 
-- zzn) na nadobudnutie alebo prekročenie podielu na základnom imaní dôchodkovej správcovskej spoločnosti alebo na hlasovacích právach v dôchodkovej správcovskej spoločnosti vo výške 5 %, 10 %, 20 %, 33 %, 50 % a 66 % v jednej alebo v niekoľkých operáciách priamo alebo konaním v zhode<sup>54b</sup>) alebo na to, aby sa dôchodková správcovská spoločnosť stala dcérskou spoločnosťou inej materskej spoločnosti<sup>54c</sup>) | 10 000 Sk
+- zzp) na zníženie základného imania dôchodkovej správcovskej spoločnosti presahujúce základné imanie podľa § 47 ods. 8 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov (ďalej len „zákon o starobnom dôchodkovom sporení“), ak nejde o zníženie z dôvodov straty<sup>54d</sup>) | 20 000 Sk
 
-- zzo) na zníženie základného imania dôchodkovej správcovskej spoločnosti presahujúce základné imanie podľa § 47 ods. 8 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov (ďalej len „zákon o starobnom dôchodkovom sporení“), ak nejde o zníženie z dôvodov straty<sup>54d</sup>) | 20 000 Sk
+- zzq) na voľbu osoby navrhovanej za člena predstavenstva dôchodkovej správcovskej spoločnosti a člena dozornej rady dôchodkovej správcovskej spoločnosti, na menovanie prokuristu dôchodkovej správcovskej spoločnosti a na ustanovenie za vedúceho zamestnanca zodpovedného za výkon odborných činností<sup>54e</sup>) | 1 000 Sk
 
-- zzp) na voľbu osoby navrhovanej za člena predstavenstva dôchodkovej správcovskej spoločnosti a člena dozornej rady dôchodkovej správcovskej spoločnosti, na menovanie prokuristu dôchodkovej správcovskej spoločnosti a na ustanovenie za vedúceho zamestnanca zodpovedného za výkon odborných činností<sup>54e</sup>) | 1 000 Sk
+- zzr) na zrušenie dôchodkovej správcovskej spoločnosti bez likvidácie a jej zánik zlúčením s inou dôchodkovou správcovskou spoločnosťou pri súčasnom prechode správy dôchodkových fondov, ako aj práv a povinností plynúcich zo starobného dôchodkového sporenia voči sporiteľom a poberateľom dôchodku starobného dôchodkového sporenia na nástupnícku dôchodkovú správcovskú spoločnosť<sup>54f</sup>) | 20 000 Sk
 
-- zzq) na zrušenie dôchodkovej správcovskej spoločnosti bez likvidácie a jej zánik zlúčením s inou dôchodkovou správcovskou spoločnosťou pri súčasnom prechode správy dôchodkových fondov, ako aj práv a povinností plynúcich zo starobného dôchodkového sporenia voči sporiteľom a poberateľom dôchodku starobného dôchodkového sporenia na nástupnícku dôchodkovú správcovskú spoločnosť<sup>54f</sup>) | 20 000 Sk
+- zzs) na zmenu stanov dôchodkovej správcovskej spoločnosti<sup>54g</sup>) | 5 000 Sk
 
-- zzr) na zmenu stanov dôchodkovej správcovskej spoločnosti<sup>54g</sup>) | 5 000 Sk
+- zzt) na zverenie výkonu činností uvedených v § 47 ods. 2 písm. b) a c) zákona o starobnom dôchodkovom sporení inej fyzickej osobe alebo právnickej osobe<sup>54h</sup>) | 20 000 Sk
 
-- zzs) na zverenie výkonu činností uvedených v § 47 ods. 2 písm. b) a c) zákona o starobnom dôchodkovom sporení inej fyzickej osobe alebo právnickej osobe<sup>54h</sup>) | 20 000 Sk
+- zzu) na prechod správy dôchodkových fondov pri súčasnom prechode práv a povinností plynúcich zo starobného dôchodkového sporenia voči sporiteľom a poberateľom dôchodku starobného dôchodkového sporenia na inú dôchodkovú správcovskú spoločnosť<sup>54i</sup>) | 20 000 Sk
 
-- zzt) na prechod správy dôchodkových fondov pri súčasnom prechode práv a povinností plynúcich zo starobného dôchodkového sporenia voči sporiteľom a poberateľom dôchodku starobného dôchodkového sporenia na inú dôchodkovú správcovskú spoločnosť<sup>54i</sup>) | 20 000 Sk
+- zzv) na zmenu depozitára dôchodkovej správcovskej spoločnosti<sup>54j</sup>) | 5 000 Sk
 
-- zzu) na zmenu depozitára dôchodkovej správcovskej spoločnosti<sup>54j</sup>) | 5 000 Sk
+- zzw) na zmenu štatútu dôchodkového fondu<sup>54k</sup>) | 2 000 Sk
 
-- zzv) na zmenu štatútu dôchodkového fondu<sup>54k</sup>) | 2 000 Sk
+- zzx) na vrátenie povolenia na vznik a činnosť dôchodkovej správcovskej spoločnosti<sup>54l</sup>) | 10 000 Sk
 
-- zzw) na vrátenie povolenia na vznik a činnosť dôchodkovej správcovskej spoločnosti<sup>54l</sup>) | 10 000 Sk
+- zzy) na nadobudnutie alebo prekročenie podielu na základnom imaní doplnkovej dôchodkovej spoločnosti alebo na hlasovacích právach v doplnkovej dôchodkovej spoločnosti vo výške 5 %, 10 %, 20 %, 33 %, 50 % a 66 % v jednej operácii alebo niekoľkých operáciách priamo alebo konaním v zhode, alebo na to, aby sa doplnková dôchodková spoločnosť stala dcérskou spoločnosťou inej materskej spoločnosti<sup>54m</sup>) | 10 000 Sk
 
-- zzx) na vrátenie povolenia na vykonávanie činnosti sprostredkovateľa starobného dôchodkového sporenia<sup>54m</sup>) | 1 000 Sk
+- zzz) na zníženie základného imania doplnkovej dôchodkovej spoločnosti presahujúceho základné imanie podľa § 22 ods. 8 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov (ďalej len „zákon o doplnkovom dôchodkovom sporení")<sup>54n</sup>) | 20 000 Sk
+
+- zzza) na voľbu osôb navrhovaných za členov predstavenstva doplnkovej dôchodkovej spoločnosti a členov dozornej rady doplnkovej dôchodkovej spoločnosti, vedúcich zamestnancov v priamej riadiacej pôsobnosti predstavenstva zodpovedných za riadenie investícií, vedúceho zamestnanca riadiaceho útvar vnútornej kontroly a na menovanie prokuristu doplnkovej dôchodkovej spoločnosti<sup>54o</sup>) | 1 000 Sk
+
+- zzzb) na vrátenie povolenia na vznik a činnosť doplnkovej dôchodkovej spoločnosti<sup>54p</sup>) | 10 000 Sk
+
+- zzzc) na zrušenie doplnkovej dôchodkovej spoločnosti bez likvidácie a na jej zánik zlúčením s inou doplnkovou dôchodkovou spoločnosťou pri súčasnom prechode správy doplnkových dôchodkových fondov, práv a povinností vyplývajúcich z doplnkového dôchodkového sporenia na nástupnícku doplnkovú dôchodkovú spoločnosť<sup>54q</sup>) | 20 000 Sk
+
+- zzzd) na prechod správy doplnkových dôchodkových fondov pri súčasnom prechode práv a povinností plynúcich z doplnkového dôchodkového sporenia voči účastníkom a poberateľom dávok na inú doplnkovú dôchodkovú spoločnosť<sup>54r</sup>) | 20 000 Sk
+
+- zzze) na zmenu stanov doplnkovej dôchodkovej spoločnosti<sup>54s</sup>) | 5 000 Sk
+
+- zzzf) na zmenu štatútu doplnkového dôchodkového fondu<sup>54t</sup>) | 2 000 Sk
+
+- zzzg) na zmenu dávkového plánu<sup>54u</sup>) ............. 2 000 Sk | 2 000 Sk
+
+- zzzh) na zverenie výkonu činností podľa § 37 zákona o doplnkovom dôchodkovom sporení inej fyzickej osobe alebo právnickej osobe<sup>54v</sup>) | 20 000 Sk
+
+- zzzi) na zmenu depozitára doplnkového dôchodkového fondu<sup>54w</sup>) | 20 000 Sk
+
+- zzzj) na vytvorenie nového doplnkového dôchodkového fondu<sup>54x</sup>) | 5 000 Sk
+
+- zzzk) na zlúčenie príspevkových doplnkových dôchodkových fondov<sup>54y</sup>) | 5 000 Sk
+
+- zzzl) na zrušenie príspevkového doplnkového dôchodkového fondu<sup>54z</sup>) | 5 000 Sk
 
 - Položka 4 - Schvaľovanie
 
@@ -248,65 +288,59 @@ Príloha k vyhláške č. 170/2002 Z. z.
 
 - d) zmien prevádzkového poriadku centrálneho depozitára<sup>63</sup>) | 10 000 Sk
 
-- e) ponuky na prevzatie<sup>64</sup>) | 10 000 Sk
+- e) ponuky na prevzatie a konkurenčnej ponuky na prevzatie<sup>64</sup>) | 10 000 Sk
 
-- f) povinnej ponuky na prevzatie,<sup>65</sup>) |
+- f) povinnej ponuky na prevzatie<sup>65</sup>) | 30 000 Sk
 
-- 1. ak podiel na hlasovacích právach spojených s akciami jedného emitenta kótovaných akcií presiahne 33 % všetkých hlasovacích práv spojených s akciami tejto akciovej spoločnosti podľa výšky základného imania emitenta: |
+- g) zmeny ponuky na prevzatie a povinnej ponuky na prevzatie<sup>66</sup>) | 1 000 Sk
 
-- 1 000 000 Sk - 100 000 000 Sk | 10 000 Sk
-
-- 100 000 001 Sk - 500 000 000 Sk | 40 000 Sk
-
-- nad sumu 500 000 000 Sk | 150 000 Sk
-
-- 2. ak podiel na hlasovacích právach jedného emitenta kótovaných akcií presiahne 50 % alebo 66 % všetkých hlasovacích práv spojených s akciami tejto akciovej spoločnosti podľa výšky základného imania emitenta: |
-
-- 1 000 000 Sk - 100 000 000 Sk | 15 000 Sk
-
-- 100 000 001 Sk - 500 000 000 Sk | 60 000 Sk
-
-- nad sumu 500 000 000 Sk | 240 000 Sk
-
-- g) povinnej ponuky na prevzatie vyhlásenej na základe rozhodnutia valného zhromaždenia akcionárov emitenta kótovaných akcií, že akcie vydané týmto emitentom prestanú byť kótované<sup>65a</sup>) | 50 000 Sk
-
-- h) zmeny ponuky na prevzatie a povinnej ponuky na prevzatie<sup>66</sup>) | 1 000 Sk
-
-- i) prospektu investície z celkového objemu majetkových aktív, ktoré sa majú nadobudnúť z peňažných prostriedkov zhromaždených na základe verejnej ponuky<sup>67</sup>) | 0,05 %
+- h) prospektu investície z celkového objemu majetkových aktív, ktoré sa majú nadobudnúť z peňažných prostriedkov zhromaždených na základe verejnej ponuky<sup>67</sup>) | 0,05 %
 
 - najmenej | 2 000 Sk
 
 - najviac | 1 000 000 Sk
 
-- j) prospektu cenných papierov podľa objemu emisie, ktorá je predmetom verejnej ponuky cenných papierov alebo kótovacieho prospektu cenných papierov podľa objemu emisie, pre ktorú je kótovací prospekt vypracovaný<sup>67a</sup>) |
+- i) prospektu cenných papierov vypracovaného ako jeden dokument alebo základného prospektu cenných papierov,<sup>67a</sup>) ak žiadateľom je emitent | 40 000 Sk
 
-- do 1 000 000 Sk | 10 000 Sk
+- j) prospektu cenných papierov skladajúceho sa zo samostatných dokumentov,<sup>67a</sup>) ak žiadateľom je emitent, a to |
 
-- 1 000 001 Sk - 100 000 000 Sk | 30 000 Sk
+- 1. registračného dokumentu | 20 000 Sk
 
-- 100 000 001 Sk - 300 000 000 Sk | 50 000 Sk
+- 2. súhrnného dokumentu | 10 000 Sk
 
-- 300 000 001 Sk - 600 000 000 Sk | 120 000 Sk
+- 3. opisu cenných papierov | 10 000 Sk
 
-- 600 000 001 Sk - 900 000 000 Sk | 240 000 Sk
+- k) dodatku prospektu cenného papiera alebo prospektu investície<sup>68</sup>) | 1 000 Sk
 
-- nad sumu 900 000 000 Sk | 360 000 Sk
+- l) uznania prospektu cenného papiera schváleného príslušným orgánom v štáte sídla emitenta<sup>69</sup>) | 5 000 Sk
 
-- k) prospektu cenných papierov<sup>67b</sup>) pre vyhlasovateľa verejnej ponuky cenných papierov, ktorý nie je emitentom ponúkaných cenných papierov | 5 000 Sk
+- 1. fyzickej osoby s trvalým pobytom na území Slovenskej republiky<sup>69</sup>) | 1 000 Sk
 
-- l) dodatku prospektu cenného papiera alebo prospektu investície<sup>68</sup>) | 1 000 Sk
+- 2. malého a stredného podniku so sídlom na území Slovenskej republiky<sup>69a</sup>) | 5 000 Sk
 
-- m) uznania prospektu cenného papiera schváleného príslušným orgánom v štáte sídla emitenta<sup>69</sup>) | 5 000 Sk
+- m) prevodu poistného kmeňa alebo jeho časti<sup>70</sup>) | 20 000 Sk
 
-- n) prevodu poistného kmeňa alebo jeho časti<sup>70</sup>) | 20 000 Sk
+- n) štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 10 000 Sk
 
-- o) štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 10 000 Sk
+- o) zmien štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 5 000 Sk
 
-- p) zmien štatútu Slovenskej kancelárie poistiteľov<sup>71</sup>) | 5 000 Sk
+- p) vymenovania likvidátora dôchodkovej správcovskej spoločnosti a schválenie jeho odmeny<sup>71a</sup>) | 5 000 Sk
 
-- q) vymenovania likvidátora dôchodkovej správcovskej spoločnosti a schválenie jeho odmeny<sup>71a</sup>) | 5 000 Sk
+- q) predĺženia lehoty na zosúladenie skladby majetku v dôchodkovom fonde s limitmi a ustanoveniami podľa § 81 až 83 a § 88 až 9071b) | 10 000 Sk
 
-- r) predĺženia lehoty na zosúladenie skladby majetku v dôchodkovom fonde s limitmi a ustanoveniami podľa § 81 až 83 a § 88 až 90<sup>71b</sup>) | 10 000 Sk
+- r) prospektu cenných papierov vypracovaného ako jeden dokument, ak žiadateľom je vyhlasovateľ verejnej ponuky cenných papierov, ktorý nie je emitentom cenných papierov, ktoré sú predmetom verejnej ponuky cenných papierov, alebo osoba žiadajúca o prijatie na obchodovanie na regulovanom trhu<sup>71c</sup>) | 6 000 Sk
+
+- s) prospektu cenných papierov skladajúceho sa zo samostatných dokumentov, ak žiadateľom je vyhlasovateľ verejnej ponuky cenných papierov, ktorý nie je emitentom cenných papierov, ktoré sú predmetom verejnej ponuky cenných papierov, alebo osoba žiadajúca o prijatie na obchodovanie na regulovanom trhu,<sup>71c</sup>) a to |
+
+- 1. registračného dokumentu | 2 000 Sk
+
+- 2. súhrnného dokumentu | 2 000 Sk
+
+- 3. opisu cenných papierov | 2 000 Sk
+
+- t) vymenovania likvidátora doplnkovej dôchodkovej spoločnosti a jeho odmeny<sup>71d</sup>) | 5 000 Sk
+
+- u) predĺženia lehoty na zosúladenie skladby majetku v doplnkovom dôchodkovom fonde s limitmi a obmedzeniami podľa zákona o doplnkovom dôchodkovom sporení<sup>71e</sup>) | 10 000 Sk
 
 - Poznámka:Položky uvedené v písmenách c), d), e) a f) sa použijú aj vtedy, ak túto žiadosť podá investičný fond, investičná spoločnosť, likvidátor investičného fondu alebo likvidátor investičnej spoločnosti.
 
