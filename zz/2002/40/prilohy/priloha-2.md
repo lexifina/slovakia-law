@@ -658,79 +658,7 @@ Príloha č. 2
 
       - Železničné dráhy | 60 | 50 | 55 | 45
 
-- IV. oddiel Vibrácie v pracovnom prostredí
-
-  - A. Najvyššie prípustné hodnoty určujúcich veličín vibrácií v pracovnom prostredí
-
-    - 1. Najvyššie prípustné hodnoty určujúcich veličín vibrácií sa vzťahujú na vibrácie vyskytujúce sa na povrchu konštrukcií a predmetov v miestach, z ktorých sa môžu prenášať na človeka. Podľa druhu prenosu sú ustanovené najvyššie prípustné hodnoty pre vibrácie prenášané na ruky, najvyššie prípustné hodnoty pre vibrácie prenášané na celé telo a najvyššie prípustné hodnoty pre miestne vibrácie.
-
-    - 2. Najvyššie prípustné hodnoty určujúcich veličín vibrácií sa vzťahujú aj na otrasy, ak hlavná časť ich energie je obsiahnutá v tretinooktávových pásmach so strednou frekvenciou od 1 Hz do 80 Hz.
-
-    - 3. Najvyššie prípustné hodnoty určujúcich veličín vibrácií sa vzťahujú na výsledné normalizované zrýchlenie hodnotených vibrácií, ak ďalej nie je ustanovené inak.
-
-    - 4. Ekvivalentné vážené zrýchlenie vibrácií, ktoré sa vzťahuje na kratší alebo dlhší čas ako 8 hodín, sa prepočíta na normalizovanú hodnotu podľa I. oddielu bodov 36 a 39.
-
-  - B. Prenos vibrácií na ruky
-
-    - 1. Najvyššia prípustná hodnota výsledného normalizovaného zrýchlenia vibrácií prenášaného na ruky a<sub>hv,8h,p</sub> je 2,4 ms<sup>-2</sup> a hladina výsledného normalizovaného zrýchlenia vibrácií L<sub>ahv,8h,p</sub> je 127,5 dB.
-
-    - 2. Najvyššie prípustné hodnoty pre vibrácie, ktoré trvajú najviac 20 minút, sú vyjadrené hodnotami
-
-      - a<sub>hv,20min,p</sub> = 11,8 ms<sup>-2,</sup>
-
-      - L<sub>ahv,20min,p</sub> = 141,5 dB.
-
-    - 3. Pri výpočte výsledného normalizovaného zrýchlenia vibrácií pôsobiaceho na ruky sa použijú hodnotiace súčinitele k<sub>x</sub>= k<sub>y</sub>= k<sub>z</sub> = 1.
-
-  - C. Prenos vibrácií na celé telo
-
-    - 1. Vibrácie, ktoré sa prenášajú na celé telo, sa hodnotia na sedacej podložke u sediaceho zamestnanca alebo na podlahe u stojaceho zamestnanca vo frekvenčnom rozsahu určenom tretinooktávovými pásmami 1 Hz až 80 Hz. Pri vibráciách chrbtovej opierky sa vibrácie hodnotia na povrchu časti opierky, ktorá je v kontakte s chrbtom zamestnanca v smere osi x.
-
-    - 2. Najvyššia prípustná hodnota výsledného normalizovaného zrýchlenia prenášaného na celé telo je a<sub>v,8h,p</sub> je 0,6 ms<sup>-2</sup> a zodpovedajúca hladina zrýchlenia L<sub>av,8h,p</sub> je 115,5 dB.
-
-    - 3. Na výpočet výsledného zrýchlenia sa použijú hodnotiace súčinitele k<sub>x</sub> = 1,4, k<sub>y</sub> = 1,4, k<sub>z</sub> = 1,0.
-
-    - 4. Najvyššia prípustná hodnota pre vibrácie chrbtovej opierky je rovnaká ako pre vibrácie na celé telo podľa bodu 2. Vibrácie chrbtovej opierky sa hodnotia ako vibrácie na celé telo s frekvenčnou váhovou funkciou W<sub>c</sub>, pričom k<sub>x</sub> = 0,8, k<sub>y</sub> = k<sub>z</sub> = 0.
-
-    - 5. Najvyššie prípustné hodnoty zrýchlenia vibrácií s trvaním najviac 10 minút sú vyjadrené hodnotami
-
-      - a<sub>v,10min,p</sub> = 4,16 ms<sup>-2</sup>,
-
-      - L<sub>av,10min,p</sub> = 132,4 dB.
-
-    - 6. Ak sa pri vibráciách predpokladajú prechodné javy alebo otrasy, okrem ekvivalentného zrýchlenia a<sub>weq,T</sub> sa hodnotí aj maximálna hodnota váženého priebežného zrýchlenia a<sub>wmax</sub> v rovnakom časovom intervale. Ak je a<sub>wmax</sub> v danej osi väčšie alebo rovné 1,5 a<sub>weq,T</sub> , údaje sa musia uviesť pri hodnotení vibrácií.
-
-    - 7. Pre práce s vyšším stupňom mentálneho zaťaženia a pre práce vykonávané v osobitných podmienkach sa najvyššie prípustné hodnoty výsledného normalizovaného zrýchlenia celkových vibrácií určia súčinom hodnoty uvedenej v bode 2 a korekčných činiteľov uvedených v tabuľke č. 6. Zodpovedajúce najvyššie prípustné hladiny zrýchlenia sa určia súčtom hladiny uvedenej v bode 2 a korekcií uvedených v tabuľke č. 6.
-
-      - Tabuľka č. 6 Korekcie a korekčné činitele
-
-      - Skupina | Druh práce | Korekčný činiteľ | Korekcia (dB)
-
-      - I. | Náročná duševná činnosť | 0,1 | -20
-
-      - II. | Práca na stacionárnych strojoch Vibrácie prenášané na pracovné miesta bez vlastného zdroja vibrácií | 0,16 | -16
-
-      - III. | Fyzická práca náročná na presnosť a sústredenie | 0,32 | -10
-
-      - IV. | Práca na samohybných strojoch pohybujúcich sa po špeciálne upravených povrchoch*) | 0,5 | -6
-
-      - V. | Riadenie motorových vozidiel a samohybných strojov | 0,71 | -3
-
-      - VI. | Fyzická práca nenáročná na presnosť, rutinná pracovná činnosť | 1 | 0
-
-      - *) Stroje s obmedzeným rozsahom pohybu, napr. žeriavy, banské kombajny, exkavátory a podobne.
-
-  - D. Miestne vibrácie
-
-    - 1. Najvyššia prípustná hodnota výsledného normalizovaného zrýchlenia miestnych vibrácií a<sub>teq,8h,p</sub> v tretinooktávových pásmach so strednou frekvenciou 1 Hz až 1000 Hz je 0,1 ms<sup>-2</sup>.
-
-    - 2. Najvyššia prípustná hladina normalizovaného zrýchlenia miestnych vibrácií v tretinooktávových pásmach L<sub>ateq,8h,p</sub> pri stredných frekvenciách 1 Hz až 1000 Hz je 100 dB.
-
-  - E. Najvyššie prípustné hodnoty určujúcich veličín vibrácií pre vykonanie technických, organizačných a iných opatrení
-
-    - Najvyššie prípustné hodnoty určujúcich veličín vibrácií pre vykonanie technických, organizačných a iných opatrení<sup>11</sup>) sú uvedené v IV. oddiele časti B, C a D skupine prác VI.
-
-- V. oddiel Vibrácie v budovách
+- IV. oddiel Vibrácie v budovách
 
   - Najvyššie prípustné hodnoty určujúcich veličín vibrácií v chránených priestoroch budov
 
@@ -792,7 +720,7 @@ Príloha č. 2
 
     - e) Veľkosť prechodových javov v kanceláriách a dielňach sa nesmie zvyšovať nad hodnoty uvedené v tabuľke bez kontroly, či nedochádza k rušeniu pracovnej činnosti.
 
-- VI. oddiel Vibrácie s frekvenciou 0,1 Hz až 0,63 Hz
+- V. oddiel Vibrácie s frekvenciou 0,1 Hz až 0,63 Hz
 
   - Najvyššie prípustné hodnoty určujúcich veličín vertikálnych vibrácií
 
