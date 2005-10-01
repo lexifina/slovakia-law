@@ -4,7 +4,7 @@ Príloha č. 1 k nariadeniu vlády č. 165/2004 Z. z.
 
   - 1. Predplodina na poli nesmie odporovať výrobe osiva druhov a odrôd plodiny a pole musí byť dostatočne čisté, bez samovysiatych rastlín z predchádzajúcich pestovaní.
 
-- V prípade hybridov kvaky sa na pozemku nesmú päť rokov pestovať žiadne rastliny z rodu Cruciferae.
+- V prípade hybridov repky sa na pozemku nesmú päť rokov pestovať žiadne rastliny z rodu Cruciferae.
 
   - 2. Plodina musí spĺňať tieto požiadavky na izolačné vzdialenosti od príbuzných zdrojov peľu, ktoré môžu spôsobiť nežiaduce cudzoopelenie:
 
@@ -147,7 +147,3 @@ Príloha č. 1 k nariadeniu vlády č. 165/2004 Z. z.
   - d) hmotnostné percento inertného materiálu, ako je uvedené v súlade s medzinárodnými metódami testovania, nemá prekročiť 0,3 %.
 
 - Členské štáty môžu byť oprávnené nevykonávať skúšky so zreteľom na uvedené štandardy alebo iné podmienky, ak na základe predchádzajúcej skúsenosti sú pochybnosti, či tieto štandardy, alebo podmienky boli splnené.
-
-  - II. OBCHODNÉ OSIVO
-
-- Požiadavky ustanovené v častiach 2 až 4 sa uplatňujú aj na obchodné osivo.

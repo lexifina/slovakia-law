@@ -58,7 +58,7 @@ Príloha č. 2 k nariadeniu vlády č. 165/2004 Z. z.
 
 - – základné osivo, materský komponent 99,0 %,
 
-- – základné osivo, otcovský komponent 99,0 %,
+- – základné osivo, otcovský komponent 99,9 %,
 
 - – certifikované osivo 90,0 %,
 
@@ -76,7 +76,7 @@ Príloha č. 2 k nariadeniu vlády č. 165/2004 Z. z.
 
 - Druhy kategórie | | Analytická čistota | | Maximálny počet semien iných rastlín vo vzorke | | | | | | | Maximálny počet semien Orobanche spp.
 
-- | Minimálna kličivosť (% klíčivých zŕn) | Mini- málna analy- tická čistota (hmot- nostné %) | Maximálny počet semien iných rastlin- ných druhov (hmot- nostné %) | Ostatné rastlinné druhy (a) | Avena ludovicia- na, Avena sterilis | Cuscuta spp. | Raphanus raphanis- trum | Rumex spp. okrem Rumex acetosella | Alopecurus myosuro- ides | Lolium remotum |
+- | Minimálna kličivosť (% klíčivých zŕn) | Mini- málna analy- tická čistota (hmot- nostné %) | Maximálny počet semien iných rastlin- ných druhov (hmot- nostné %) | Ostatné rastlinné druhy (a) | Avena ludovicia- na, Avena sterilis, Avena fatua | Cuscuta spp. | Raphanus raphanis- trum | Rumex spp. okrem Rumex acetosella | Alopecurus myosuro- ides | Lolium remotum |
 
 - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 
@@ -118,9 +118,9 @@ Príloha č. 2 k nariadeniu vlády č. 165/2004 Z. z.
 
   - a) maximálny obsah semien stanovený v stĺpci 5 zahŕňa tiež osivá druhov v stĺpcoch 6 až 11,
 
-  - b) určenie celkového obsahu semien ostatných rastlinných druhov podľa počtu sa nemusí urobiť, ak sú pochybnosti, či podmienky stanovené v stĺpci 5 sú splnené,
+  - b) určenie celkového obsahu semien ostatných rastlinných druhov podľa počtu sa nemusí urobiť, ak nie sú pochybnosti, či podmienky stanovené v stĺpci 5 sú splnené,
 
-  - c) určenie celkového obsahu semien Cuscuta spp. podľa počtu sa nemusí urobiť, ak sú pochybnosti, či podmienky stanovené v stĺpci 7 sú splnené,
+  - c) určenie celkového obsahu semien Cuscuta spp. podľa počtu sa nemusí urobiť, ak nie sú pochybnosti, či podmienky stanovené v stĺpci 7 sú splnené,
 
   - d) prítomnosť jedného semena Cuscuta spp. vo vzorke predpísanej hmotnosti sa nesmie posudzovať ako znečistenie, ak druhá vzorka tej istej veľkosti je bez semien Cuscuta spp.,
 
