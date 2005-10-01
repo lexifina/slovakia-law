@@ -1,6 +1,6 @@
 Príloha č. 3 k nariadeniu vlády č. 287/2004 Z. z.
 
-- POŽIADAVKY na hmotnosť dávky a hmotnosť vzorky osiva obilnín Druhy | Maximálna hmotnosť dávky (v tonách) | Minimálna hmotnosť vzorky odobratej z dávky (v gramoch) | Hmotnosť vzorky na určenie množstva ustanoveného v stĺpcoch 4 až 10 prí- lohy II (2) (A) a III (3) (v gramoch)
+- POŽIADAVKY na hmotnosť dávky a hmotnosť vzorky osiva obilnín Druhy | Maximálna hmotnosť dávky (v tonách) | Minimálna hmotnosť vzorky odobratej z dávky (v gramoch) | Hmotnosť vzorky na určenie množstva ustanoveného v stĺpcoch 4 až 10 prí- lohy II (2) (A) a II (3) (v gramoch)
 
 - 1 | 2 | 3 | 4
 

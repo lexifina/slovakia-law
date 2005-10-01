@@ -106,7 +106,7 @@ Príloha č. 1 k nariadeniu vlády č. 287/2004 Z. z.
 
 - Počet rastlín, ktoré sú identifikované ako jasne divoké rastliny alebo červenozrnné rastliny, nesmie byť vyšší ako:
 
-  - a) pri výrobe predstupňov a základného osiva,
+  - a) 0 pri výrobe predstupňov a základného osiva,
 
   - b) jedna rastlina na 50 m<sup>2</sup> pri výrobe certifikovaného osiva.
 
