@@ -12,8 +12,6 @@
 
 - 7) § 46 ods. 2 zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
 
-- 8) § 47 ods. 1 zákona č. 223/2001 Z. z.
-
 - 9) § 48 ods. 1 zákona č. 223/2001 Z. z. v znení neskorších predpisov.
 
 - 10) § 48 ods. 2 zákona č. 223/2001 Z. z.
