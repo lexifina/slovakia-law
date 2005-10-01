@@ -78,7 +78,7 @@ Príloha č. 4 k nariadeniu vlády č. 270/2004 Z. z.
 
   - a) pre certifikované osivo
 
-  - 1. označenie „Malé balenie“,
+  - 1. označenie „Malé ES B balenie",
 
   - 2. obchodné meno a sídlo dodávateľa zodpovedného za označenie alebo jeho identifikačné číslo,
 
@@ -100,7 +100,7 @@ Príloha č. 4 k nariadeniu vlády č. 270/2004 Z. z.
 
   - b) pre obchodné osivo
 
-  - 1. označenie „Malé balenie“,
+  - 1. označenie „Malé ES B balenie“,
 
   - 2. obchodné meno a sídlo dodávateľa zodpovedného za označenie alebo jeho identifikačné číslo,
 
@@ -110,7 +110,7 @@ Príloha č. 4 k nariadeniu vlády č. 270/2004 Z. z.
 
   - 5. číslo dávky, ak sériové číslo neumožňuje identifikovať dávku,
 
-  - 6. botanický názov druhu krmoviny, aspoň latinský názov,
+  - 6. botanický názov druhu* krmoviny, aspoň latinský názov,
 
   - 7. označenie „Obchodné osivo“,
 
@@ -120,19 +120,19 @@ Príloha č. 4 k nariadeniu vlády č. 270/2004 Z. z.
 
   - c) pre zmes osiva
 
-  - 1. označenie „Malé balenie“,
+  - 1. označenie „Malé ES A balenie", alebo „Malé ES B balenie,
 
   - 2. obchodné meno a sídlo dodávateľa zodpovedného za označenie alebo jeho identifikačné číslo,
 
-  - 3. úradne pridelené sériové číslo malého balenia,
+  - 3. úradne pridelené sériové číslo Malého ES B balenia,
 
-  - 4. označenie členského štátu a zodpovedného úradného orgánu, ktorý pridelil sériové číslo, alebo ich rozlišovací kód pri malom balení,
+  - 4. označenie členského štátu a zodpovedného úradného orgánu, ktorý pridelil sériové číslo, alebo ich rozlišovací kód pri Malom ES B balení,
 
-  - 5. číslo dávky, ak sériové číslo neumožňuje identifikovať dávku pri malom balení,
+  - 5. číslo dávky, ak sériové číslo neumožňuje identifikovať dávku pri Malom ES B balení,
 
-  - 6. číslo dávky pri malom balení,
+  - 6. číslo dávky pri Malom ES A balení,
 
-  - 7. označenie členského štátu alebo jeho rozlišovací kód pri malom balení,
+  - 7. označenie členského štátu alebo jeho rozlišovací kód pri Malom ES A balení,
 
   - 8. „Zmes osiva na ...................“ (uviesť predpokladané použitie),
 
@@ -141,3 +141,5 @@ Príloha č. 4 k nariadeniu vlády č. 270/2004 Z. z.
   - 10. ak sú použité granulované pesticídy, pelety alebo iné pevné častice, uvedie sa aj pôvod týchto aditív a približný pomer hmotnosti čistých semien a celkovej hmotnosti,
 
   - 11. botanické názvy druhov a odrôd krmovín a hmotnostný podiel každej zložky podľa jednotlivých druhov; iba názov zmesi sa uvedie, ak percentuálne zloženie zmesi dodávateľ písomne oznámi kupujúcemu na základe dokladu kontrolného úradu.
+
+  - * Vysvetlivka pri druhu lupinus uviesť, či ide o horký, alebo sladký.
