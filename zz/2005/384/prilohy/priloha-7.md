@@ -1,0 +1,3 @@
+Príloha č. 7: Povodňový denník (aktuálny, zodpovedajúci povodni a povodňovej situácii)
+
+- Obsahuje v chronologickom poradí zápisy všetkých udalostí, ktoré sa na povodňovom úseku stali, vykonané opatrenia, prijaté a odoslané informácie, príkazy s časovými záznamami, prijaté a vydané príkazy s uvedením času a mena toho, kto správu, informáciu, príkaz a pod. prevzal alebo vydal, postupy vykonané podľa povodňového plánu, nasadenie zamestnancov, technických prostriedkov, použitý materiál a ďalšie okolnosti potrebné na zdokumentovanie priebehu povodňových zabezpečovacích prác a postupu podľa povodňového plánu alebo príkazov povodňového orgánu.
