@@ -2412,21 +2412,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Oznámenie novej chemickej látky, ktorá sa bude uvádzať ročne na trh v množstve |
 
-  - 1. menšom ako 0,1 t ................................................................................................................................ | 10 000 Sk
+  - 1. menšom ako 0,1 t | 10 000 Sk
 
-  - 2. 0,1 t až v množstve menšom ako 1 t ................................................................................................. | 20 000 Sk
+  - 2. 0,1 t až v množstve menšom ako 1 t | 20 000 Sk
 
-  - 3. 1 t až v množstve menšom ako 10 t .................................................................................................. | 30 000 Sk
+  - 3. 1 t až v množstve menšom ako 10 t | 30 000 Sk
 
-  - 4. 10 t až v množstve menšom ako 100 t ............................................................................................. | 40 000 Sk
+  - 4. 10 t až v množstve menšom ako 100 t | 40 000 Sk
 
-  - 5. 100 t až v množstve menšom ako 1 000 t ....................................................................................... | 50 000 Sk
+  - 5. 100 t až v množstve menšom ako 1 000 t | 50 000 Sk
 
-  - 6. 1 000 t a v množstve nad 1 000 t ....................................................................................................... | 60 000 Sk
+  - 6. 1 000 t a v množstve nad 1 000 t | 60 000 Sk
 
-  - b) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky .................................. | 20 000 Sk
+  - b) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky | 20 000 Sk
 
-  - c) Žiadosť o zvláštne označovanie obalov nebezpečných chemických látok a nebezpečných chemických prípravkov<sup>36r</sup>) ......................................................................................................................... | 5 000 Sk
+  - c) Žiadosť o zvláštne označovanie obalov nebezpečných chemických látok a nebezpečných chemických prípravkov<sup>36r</sup>) | 5 000 Sk
+
+  - d) Žiadosť o podanie výnimky z uvádzania detergentov alebo povrchovo aktívnych látok pre detergenty na trh<sup>36t</sup>) | 5 000 Sk
 
   - Poznámky 1. Poplatok podľa písmena a) tejto položky sa vzťahuje aj na chemické látky obsiahnuté v chemickom prípravku. 2. Pri predložení dodatkovej dokumentácie k oznámeniu o dosiahnutí väčšieho množstva uvádzania novej chemickej látky ročne na trh alebo celkovo<sup>36s</sup>) je poplatník povinný doplatiť rozdiel poplatku podľa písmena a) bodov 1 až 6. 3. Poplatok podľa písmena a) tejto položky sa znižuje v prípade medziproduktu o 50 %. |
 
