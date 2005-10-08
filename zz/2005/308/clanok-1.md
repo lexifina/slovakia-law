@@ -130,6 +130,54 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 
 - 18. V § 28 ods. 3 sa číslo „4“ nahrádza číslom „2“.
 
+- 19. § 29 vrátane nadpisu znie:
+
+- „§ 29
+
+- Uvádzanie detergentov a povrchovo aktívnych látok pre detergenty na trh
+
+- (1)
+
+- Informácie a dokumentáciu podľa osobitného predpisu Európskej únie<sup>23a</sup>) poskytujú výrobcovia<sup>23b</sup>) centru.
+
+- (2)
+
+- Žiadosť o udelenie výnimky podľa osobitného predpisu Európskej únie<sup>23c</sup>) sa spolu s dokumentáciou odôvodňujúcou žiadosť o výnimku zasiela centru.
+
+- (3)
+
+- Dodržanie povinností uložených podľa odseku 1 a osobitným predpisom Európskej únie<sup>23d</sup>) kontroluje Slovenská obchodná inšpekcia.
+
+- (4)
+
+- Kartu údajov o zložkách detergentov<sup>23e</sup>) poskytujú výrobcovia Toxikologickému informačnému centru.
+
+- (5)
+
+- Na klasifikáciu, označovanie a balenie detergentov vrátane detergentov obsahujúcich nebezpečnú látku sa vzťahujú ustanovenia § 23 až 26.
+
+- (6)
+
+- Pri označovaní detergentov sa informácie podľa osobitného predpisu Európskych spoločenstiev<sup>23f</sup>) uvádzajú v štátnom jazyku.<sup>16</sup>)
+
+- (7)
+
+- Na obaloch tekutých detergentov, ktoré sú určené na predaj malospotrebiteľovi, sa nemôže použiť grafické zobrazenie ovocia podľa osobitného predpisu,<sup>6</sup>) ktoré môže uviesť malospotrebiteľa do omylu.“.
+
+- Poznámky pod čiarou k odkazom 23a až 23f znejú:
+
+- „<sup>23a</sup>) Čl. 9 nariadenia (ES) č. 648/2004.
+
+- <sup>23b</sup>) Čl. 2 ods. 10 nariadenia (ES) č. 648/2004.
+
+- <sup>23c</sup>) Čl. 4 ods. 2 a čl. 5 nariadenia (ES) č. 648/2004.
+
+- <sup>23d</sup>) Nariadenie (ES) č. 648/2004.
+
+- <sup>23e</sup>) Čl. 9 ods. 3 nariadenia (ES) č. 648/2004.
+
+- <sup>23f</sup>) Čl. 11 nariadenia (ES) č. 648/2004.“.
+
 - 20. V § 30 odsek 6 znie:
 
 - „(6)
@@ -144,6 +192,28 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 
 - Rozhodnutie Rady 2003/106/ES z 19. decembra 2002 o schválení, v mene Európskeho spoločenstva, Rotterdamského dohovoru o udeľovaní predbežného súhlasu po predchádzajúcom oznámení pre určité nebezpečné chemikálie a prípravky na ochranu rastlín v medzinárodnom obchode (Ú. v. EÚ L 063, 6. 3. 2003).“.
 
+- 22. V § 33 písm. h) sa slová „vo vestníku“ nahrádzajú slovami „vo Vestníku Ministerstva hospodárstva Slovenskej republiky“.
+
+- 23. § 33 sa dopĺňa písmenami j) až m), ktoré znejú:
+
+- „j)
+
+- zabezpečuje plnenie úloh uvedených v osobitnom predpise Európskej únie<sup>23h</sup>) prostredníctvom akreditujúcej osoby,<sup>15</sup>)
+
+- k)
+
+- postupuje podľa osobitného predpisu Európskej únie,<sup>23i</sup>)
+
+- l)
+
+- podáva každé tri roky v spolupráci s centrom Európskej komisii správu o preberaní právne záväzných aktov Európskych spoločenstiev a Európskej únie v oblasti chemických látok, chemických prípravkov a detergentov do právneho poriadku Slovenskej republiky,“.
+
+- Poznámky pod čiarou k odkazom 23h a 23i znejú:
+
+- „<sup>23h</sup>) Nariadenie (ES) č. 648/2004.
+
+- <sup>23i</sup>) Čl. 15 ods. 1 nariadenia (ES) č. 648/2004.“.
+
 - 25. V § 34 písm. b) sa na konci pripájajú tieto slová: „prostredníctvom Úradu verejného zdravotníctva Slovenskej republiky,“.
 
 - 26. V § 34 písm. c) bode 1 sa za slovo „do“ vkladá slovo „európskeho<sup>14b</sup>)“.
@@ -152,7 +222,15 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 
 - 28. V § 35 písm. c) bode 1 sa za slovo „do“ vkladá slovo „európskeho<sup>14b</sup>)“.
 
+- 29. V § 37 ods. 1 sa za slová „na úseku“ vkladajú slová „uvádzania chemických látok, chemických prípravkov a detergentov na trh na úseku“.
+
 - 30. V § 37 ods. 2 písm. g) sa za slovom „látok“ vypúšťa čiarka a pripájajú sa tieto slová: „a pri zaraďovaní prioritných chemických látok do európskeho zoznamu prioritných chemických látok<sup>14b</sup>) postupuje podľa § 19,“.
+
+- 31. V § 37 ods. 2 písmeno k) znie:
+
+- „k)
+
+- spolupracuje s ministerstvom hospodárstva pri príprave správy pre Európsku komisiu o preberaní právne záväzných aktov Európskych spoločenstiev a Európskej únie v oblasti chemických látok, chemických prípravkov a detergentov do právneho poriadku Slovenskej republiky,“.
 
 - 32. V § 37 ods. 2 písm. l) sa na konci pripájajú tieto slová: „a zúčastňuje sa na zasadnutiach výborov Európskej komisie,<sup>23j</sup>)“.
 
@@ -185,6 +263,24 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 - Kontrolné orgány môžu podnikateľovi uložiť opatrenia na nápravu zistených nedostatkov alebo vydať zákaz uvedenia detergentov na trh.“.
 
 - 37. V § 39 ods. 1 sa za slovo „pôdohospodárstva“ vkladá čiarka a slovo „centru“.
+
+- 38. V § 39 odsek 2 znie:
+
+- „(2)
+
+- Kontrolným orgánom vykonávajúcim kontrolu trhu je Slovenská obchodná inšpekcia, ktorá pri výkone kontroly postupuje podľa osobitného predpisu<sup>25a</sup>) a kontroluje plnenie povinností podľa § 4 až 8, 10, 12, 14, 15, 17, 18, 20, 23 až 29, 31 a 42. V rámci kontroly spolupracuje s centrom, s kontrolnými orgánmi Európskej únie a s kontrolnými orgánmi členských štátov Európskej únie.“.
+
+- Poznámka pod čiarou k odkazu 25a znie:
+
+- „25a)
+
+- § 4 až 9 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 39. V § 40 sa odsek 3 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- nesplnil podmienky uvedené v § 29, pričom nedodržal ustanovenia osobitného predpisu Európskej únie.<sup>23b</sup>)“.
 
 - 41. Za § 43 sa vkladá § 43a, ktorý znie:
 
