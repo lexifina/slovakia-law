@@ -62,15 +62,25 @@
 
 - 23) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
-- 23a) Nariadenie Európskeho parlamentu a Rady (ES) č. 304/2003 z 28. januára 2003 o vývoze a dovoze nebezpečných chemikálií.
+- 23a) Čl. 9 nariadenia (ES) č. 648/2004.
 
-- Rozhodnutie Rady 2003/106/ES z 19. decembra 2002 o schválení, v mene Európskeho spoločenstva, Rotterdamského dohovoru o udeľovaní predbežného súhlasu po predchádzajúcom oznámení pre určité nebezpečné chemikálie a prípravky na ochranu rastlín v medzinárodnom obchode (Úradný vestník Európskej únie L 063, 06. 03. 2003).
+- 23b) Čl. 2 ods. 10 nariadenia (ES) č. 648/2004.
 
-- 23b) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 23c) Čl. 4 ods. 2 a čl. 5 nariadenia (ES) č. 648/2004.
+
+- 23d) Nariadenie (ES) č. 648/2004.
+
+- 23e) Čl. 9 ods. 3 nariadenia (ES) č. 648/2004.
+
+- 23f) Čl. 11 nariadenia (ES) č. 648/2004.
 
 - 23g) Nariadenie Európskeho parlamentu a Rady (ES) č. 304/2003 z 28. januára 2003 o vývoze a dovoze nebezpečných chemikálií.
 
 - Rozhodnutie Rady 2003/106/ES z 19. decembra 2002 o schválení, v mene Európskeho spoločenstva, Rotterdamského dohovoru o udeľovaní predbežného súhlasu po predchádzajúcom oznámení pre určité nebezpečné chemikálie a prípravky na ochranu rastlín v medzinárodnom obchode (Ú. v. EÚ L 063, 6. 3. 2003).
+
+- 23h) Nariadenie (ES) č. 648/2004.
+
+- 23i) Čl. 15 ods. 1 nariadenia (ES) č. 648/2004.
 
 - 23j) Čl. 12 nariadenia (ES) č. 648/2004.
 
@@ -82,6 +92,6 @@
 
 - 25) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
-- 25a) § 4 až 9 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov.
+- 25a) § 4 až 9 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) Napríklad nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z., vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 33/1999 Z. z. o prípravkoch na ochranu rastlín.
