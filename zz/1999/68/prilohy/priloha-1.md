@@ -2,7 +2,7 @@
 
 - medzi vládou Slovenskej republiky a Zväzovou vládou Zväzovej republiky Juhoslávie o podpore a vzájomnej ochrane investícií
 
-- Vláda Slovenskej republiky a Zväzová vláda Zväzovej republiky Juhoslávie (ďalej len „zmluvné strany“),
+- Vláda Slovenskej republiky a Rada ministrov Srbska a Čiernej Hory (ďalej len „zmluvné strany”),
 
 - želajúc si zintenzívniť hospodársku spoluprácu na vzájomný prospech oboch štátov,
 
@@ -50,11 +50,9 @@
 
     - 2. Každá zmluvná strana poskytne na svojom území investorom štátu druhej zmluvnej strany, ak ide o riadenie, udržiavanie, užívanie alebo nakladanie s ich investíciami, zaobchádzanie, ktoré nie je menej priaznivé ako to, ktoré poskytuje svojim vlastným investorom alebo investorom ktoréhokoľvek tretieho štátu podľa toho, ktoré je výhodnejšie.
 
-    - 3. Ustanovenia odsekov 1 a 2 nemožno vykladať tak, že zaväzujú jednu zmluvnú stranu poskytovať investorom štátu druhej zmluvnej strany také zaobchádzanie, výhody alebo výsady, ktoré môže prvá zmluvná strana poskytovať na základe
+    - 3. Ustanovenia odsekov 1 a 2 nemožno vykladať tak, že zaväzujú jednu zmluvnú stranu poskytovať investorom štátu druhej zmluvnej strany také zaobchádzanie, výhody alebo výsady, ktoré môže prvá zmluvná strana poskytovať na základe akejkoľvek medzinárodnej dohody alebo zmluvy týkajúcej sa výlučne alebo prevažne zdanenia alebo akejkoľvek vnútornej legislatívy týkajúcej sa výlučne alebo prevažne zdanenia.
 
-      - 1) akejkoľvek colnej únie, zóny voľného obchodu, menovej únie alebo podobných medzinárodných dohôd vedúcich k takýmto úniám alebo k inštitúciám, alebo iných foriem regionálnej spolupráce, ktorej jedna zo zmluvných strán je alebo môže byť členom,
-
-      - 2) akejkoľvek medzinárodnej dohody alebo zmluvy týkajúcej sa výlučne alebo prevažne zdanenia alebo akejkoľvek vnútornej legislatívy týkajúcej sa výlučne alebo prevažne zdanenia.
+    - 4. Ustanovenia o nediskriminácii, národnom zaobchádzaní a doložke najvyšších výhod v tejto dohode sa nebudú aplikovať na všetky súčasné alebo budúce výhody poskytnuté ktoroukoľvek stranou na základe členstva alebo asociácie v colnej, hospodárskej alebo menovej únii, spoločnom trhu alebo zóne voľného obchodu štátnym príslušníkom alebo svojim vlastným spoločnostiam, alebo štátnym príslušníkom a spoločnostiam členského štátu takejto únie, spoločného trhu, zóny voľného obchodu alebo akejkoľvek tretej krajine.
 
   - Článok 4 Náhrada strát
 
@@ -96,6 +94,8 @@
 
     - 2. Prevody budú vykonané bez prílišného meškania v akejkoľvek voľne zameniteľnej mene podľa trhového výmenného kurzu platného v čase prevodu.
 
+    - 3. Ustanovenia odsekov 1 a 2 tohto článku sa použijú bez ohľadu na opatrenia prijaté Európskou úniou.
+
   - Článok 7 Postúpenie práv
 
     - 1. Ak jedna zo zmluvných strán alebo ňou splnomocnená agentúra poskytne platbu svojim vlastným investorom na základe záruky, ktorú udelila v súvislosti s investíciami na území štátu druhej zmluvnej strany, druhá zmluvná strana uzná
@@ -112,9 +112,11 @@
 
     - 2. Ak sa takýto spor medzi investorom štátu jednej zmluvnej strany a druhou zmluvnou stranou nevyrieši do šiestich mesiacov odo dňa písomnej notifikácie nároku, investor je oprávnený predložiť spor buď
 
-      - 1) Medzinárodnému stredisku pre riešenie investičných sporov (ICSID) zriadenému Dohovorom o riešení sporov z investícií medzi štátmi a občanmi iných štátov, ktorý bol otvorený na podpis vo Washingtone, D. C., 18. marca 1965, v prípade, že obe zmluvné strany sú stranami tohto dohovoru,
+      - 1) miestne príslušnému súdu zmluvnej strany, ktorá je stranou sporu,
 
-      - 2) medzinárodnému rozhodcovi alebo Medzinárodnému rozhodcovskému súdu zriadenému ad hoc podľa rozhodcovských pravidiel Komisie Organizácie Spojených národov pre medzinárodné obchodné právo (UNCITRAL).
+      - 2) Medzinárodnému stredisku pre riešenie investičných sporov (ICSID) zriadenému Dohovorom o riešení investičných sporov medzi štátmi a príslušníkmi iných štátov, otvorenému na podpis vo Washingtone, DC, 18. marca 1965, v prípade, že obe zmluvné strany sú stranami tejto dohody,
+
+      - 3) medzinárodnému rozhodcovi alebo ad hoc Medzinárodnému rozhodcovskému súdu zriadenému podľa Rozhodcovských pravidiel Komisie Organizácie Spojených národov pre medzinárodné obchodné právo (UNCITRAL).
 
     - 3. Rozhodcovský nález bude konečný a záväzný pre obe strany v spore.
 
