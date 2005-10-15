@@ -1,10 +1,10 @@
 Príloha č. 5 k vyhláške č. 489/2002 Z. z.
 
-[Vzor 05-1](../assets/306ec37728a46be61d5568d67bb2f721a490a0a52fc31aa82854e97d97715e9b.pdf)
+[Vzor 05-1](../assets/403c5a6377f4ded55b0dc9295ab999a4ca4ef93817827075361b9bd7ed9caa19.pdf)
 
-[Vzor 05-2](../assets/3e909387861854ae55ea310ca366e5eac895ef30efb6ffc2c873d9a08e394a6b.pdf)
+[Vzor 05-2](../assets/96f58ac4908669ae33f2f1875f9d2e06e7876a309c5cfa2b22b2e4113fae2591.pdf)
 
-[Vzor 05-3](../assets/65aa52d15124d2ffbd96fed4b33520c64110a7bb6369f902fd618f61a69496e0.pdf)
+[Vzor 05-3](../assets/c0efe2133fbb6277636184f3ef5fa052e0b4a9f415a264f8ff442be42bce7bef.pdf)
 
 KÓDY NA VYPLNENIE SPRÁVY O ZÁVAŽNEJ PRIEMYSELNEJ HAVÁRII
 

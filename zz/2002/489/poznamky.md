@@ -12,7 +12,11 @@
 
 - 7) § 2 písm. c) zákona č. 261/2002 Z. z.
 
-- 8) § 10 ods. 1 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 158/2001 Z. z.
+- 7a) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
+
+- 7b) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení neskorších predpisov, zákon č. 163/2001 Z. z. v znení neskorších predpisov, zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 314/2001 Z. z. v znení neskorších predpisov, zákon č. 261/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
+
+- 8) § 8b ods. 2 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
 - 9) § 2 ods. 2 Obchodného zákonníka.
 
@@ -25,6 +29,8 @@
 - 13) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
 
 - 14) Napríklad § 9 zákona č. 314/2001 Z. z. o ochrane pred požiarmi, § 76 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov, § 11 ods. 3 zákona č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z., § 42 ods. 2 až 4 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie v znení zákona č. 553/2001 Z. z.
+
+- 14a) § 18 až 38 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 

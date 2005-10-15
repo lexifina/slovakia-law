@@ -4,7 +4,7 @@ POŽIADAVKY NA BEZPEČNOSTNÝ RIADIACI SYSTÉM
 
 A. Organizačná štruktúra podniku a potrební zamestnanci
 
-Bezpečnostný riadiaci systém v tejto oblasti obsahuje najmä
+I. Bezpečnostný riadiaci systém v tejto oblasti obsahuje najmä
 
 a) organizačnú schému,
 
@@ -18,13 +18,17 @@ b) úlohy a zodpovednosť radových zamestnancov a riadiacich zamestnancov na je
 
 4. riadenie a kontrolu neštandardných situácií vrátane havarijných stavov,
 
-5. identifikáciu potrieb školenia a výcviku zamestnancov vrátane určenia činností vyžadujúcich osobitné školenie a výcvik, ich zabezpečenia a hodnotenia ich úrovne a účinnosti podľa písmen c) a d),
+5.
+
+identifikáciu potrieb školenia a výcviku zamestnancov vrátane určenia činností vyžadujúcich osobitné školenie a výcvik, ich zabezpečenie a hodnotenie ich úrovne a účinnosti podľa písmen c) a d),
 
 6. koordinovanie uplatňovania bezpečnostného riadiaceho systému a podávanie správ vrcholovému manažmentu podniku,
 
 c) identifikáciu potrebnej kvalifikácie zamestnancov uvedených v písmene b),
 
 d) zabezpečenie potrebnej kvalifikácie zamestnancov.
+
+II. Ustanovenia podľa bodu I sa primerane vzťahujú aj na zamestnancov cudzieho podnikateľa.
 
 B. Identifikácia a hodnotenie nebezpečenstiev ako zdrojov rizika možných závažných priemyselných havárií
 

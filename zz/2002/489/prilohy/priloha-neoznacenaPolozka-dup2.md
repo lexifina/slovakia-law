@@ -4,7 +4,7 @@ OBSAH INFORMÁCIE PRE DOTKNUTÚ VEREJNOSŤ
 
 Informácia podľa § 22 ods. 1 a 3 zákona pre verejnosť obsahuje najmä
 
-a) názov (obchodné meno) a adresu prevádzkovateľa, názov a umiestnenie podniku; ak sa informácia poskytuje podľa § 22 ods. 3 zákona, tiež názov a adresu okresného úradu,
+a) názov (obchodné meno) a adresu prevádzkovateľa, názov a umiestnenie podniku; ak sa informácia poskytuje podľa § 22 ods. 3 zákona, tiež názov a adresu obvodného úradu životného prostredia,
 
 b) meno a funkciu osoby, ktorá informáciu poskytuje,
 
