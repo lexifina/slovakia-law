@@ -1160,6 +1160,144 @@ Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zme
 
 - 72. V § 63 a v celom texte zákona sa slová „Štátny dráhový úrad“ nahrádzajú slovami „Úrad pre reguláciu železničnej dopravy“ v príslušnom gramatickom tvare.
 
+- 73. § 64 znie:
+
+- „§ 64
+
+- (1)
+
+- Zriaďuje sa Úrad pre reguláciu železničnej dopravy (ďalej len „úrad") ako orgán štátnej správy vo veciach dráh, národný regulátor a cenový orgán<sup>22</sup>) v oblasti celoštátnych a regionálnych dráh, ktorý vykonáva pôsobnosť podľa tohto zákona s výnimkou vecí, o ktorých rozhoduje ministerstvo a samosprávne kraje.
+
+- (2)
+
+- Úrad je rozpočtová organizácia<sup>23</sup>) so sídlom v Bratislave. Finančnými vzťahmi<sup>24</sup>) je zapojený na štátny rozpočet prostredníctvom rozpočtovej kapitoly ministerstva.
+
+- (3)
+
+- Úrad môže mimo svojho sídla zriaďovať stále alebo dočasné pracoviská.
+
+- (4)
+
+- Úrad vykonáva činnosti efektívne, objektívne, transparentne a nediskriminačne. Rozhodnutia, opatrenia a informácie vrátane informácií, ktoré prispejú k otvorenému a funkčne konkurenčnému rozhodujúcemu trhu, zverejňuje na internete a vo vestníku dopravy, pričom zabezpečuje ochranu údajov.
+
+- (5)
+
+- Na čele úradu je predseda, ktorého vymenúva a odvoláva vláda Slovenskej republiky na návrh ministra.
+
+- (6)
+
+- Predseda úradu
+
+- a)
+
+- riadi úrad a zodpovedá za jeho činnosť,
+
+- b)
+
+- koná ako štatutárny orgán úradu v mene úradu vo všetkých veciach,
+
+- c)
+
+- podpisuje všeobecne záväzné právne predpisy vydávané úradom,
+
+- d)
+
+- schvaľuje organizačný poriadok úradu.
+
+- (7)
+
+- Predsedu úradu v jeho neprítomnosti zastupuje podpredseda úradu, ktorého vymenúva a odvoláva predseda úradu na základe výsledkov výberového konania podľa osobitného predpisu.<sup>25</sup>)
+
+- (8)
+
+- Funkčné obdobie predsedu úradu a podpredsedu úradu je šesť rokov. Tá istá osoba môže vykonávať funkciu predsedu úradu alebo podpredsedu úradu najviac dve po sebe nasledujúce funkčné obdobia.
+
+- (9)
+
+- Platové a ďalšie náležitosti predsedu úradu určuje vláda podľa osobitného predpisu.<sup>25</sup>)
+
+- (10)
+
+- Predseda úradu a podpredseda úradu nesmú počas funkčného obdobia
+
+- a)
+
+- vykonávať funkciu v politickej strane alebo v politickom hnutí ani pôsobiť v ich prospech,
+
+- b)
+
+- vykonávať funkciu v inom štátnom orgáne alebo v orgáne právnickej osoby zriadenej zákonom ako verejnoprávna inštitúcia,
+
+- c)
+
+- byť zamestnancom, spoločníkom alebo konateľom právnickej osoby, členom jej štatutárneho orgánu, riadiaceho orgánu, kontrolného orgánu, štatutárnym orgánom alebo zamestnancom fyzickej osoby ani mať podiel na základnom imaní alebo podiel na hlasovacích právach týchto osôb, ani pôsobiť v ich prospech alebo neprospech, ak sú tieto osoby prevádzkovateľom dráhy alebo dopravcom; toto obmedzenie sa vzťahuje aj na blízke osoby<sup>26</sup>) predsedu úradu a podpredsedu úradu.
+
+- (11)
+
+- Výkon funkcie predsedu úradu a podpredsedu úradu sa skončí:
+
+- a)
+
+- uplynutím funkčného obdobia,
+
+- b)
+
+- vzdaním sa funkcie,
+
+- c)
+
+- odvolaním z funkcie,
+
+- d)
+
+- ak bol odsúdený za úmyselný trestný čin alebo za trestný čin spáchaný z nedbanlivosti priamo súvisiaci s jeho výkonom funkcie,
+
+- e)
+
+- ak bol pozbavený spôsobilosti na právne úkony,
+
+- f)
+
+- úmrtím alebo vyhlásením za mŕtveho.
+
+- (12)
+
+- Predseda úradu sa môže vzdať funkcie písomným oznámením predsedovi vlády. Funkčné obdobie predsedu úradu zaniká vymenovaním nového predsedu úradu. Podpredseda úradu sa môže vzdať funkcie písomným oznámením predsedovi úradu.
+
+- (13)
+
+- Predseda úradu a podpredseda úradu môžu byť odvolaní z funkcie, ak
+
+- a)
+
+- si neplnia povinnosti podľa tohto zákona alebo nezabezpečia, aby úrad plnil povinnosti, ktoré mu ukladá zákon,
+
+- b)
+
+- počas najmenej šiestich po sebe nasledujúcich mesiacov nevykonáva svoju funkciu.“.
+
+- Poznámky pod čiarou k odkazom 22 až 26 znejú:
+
+- „22)
+
+- § 20 ods.1 písm. d) zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení neskorších predpisov.
+
+- 23)
+
+- § 21 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 24)
+
+- § 22 zákona č. 523/2004 Z. z.
+
+- 25)
+
+- Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 26)
+
+- § 116 Občianskeho zákonníka.“.
+
 - 74. V § 65 ods. 1 písmeno c) znie:
 
 - „c)
@@ -1198,11 +1336,97 @@ Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zme
 
 - vydáva osvedčenie o školení bezpečnostného poradcu na prepravu nebezpečného tovaru alebo poveruje právnickú osobu na vydávanie osvedčení o školení bezpečnostného poradcu na prepravu nebezpečného tovaru.“.
 
-- „§ 65b
+- 79. Za § 65 sa vkladajú § 65a a 65b, ktoré znejú:
+
+- „§ 65a
+
+- Úrad v rámci svojej pôsobnosti na základe tohto zákona alebo podľa medzinárodných zmlúv, ktorými je Slovenská republika viazaná,
+
+- a)
+
+- sleduje nediskriminačné zaobchádzanie prevádzkovateľa dráhy so žiadateľmi o prístup na dopravnú cestu a je odvolacím orgánom vo veciach
+
+- 1.
+
+- týkajúcich sa sieťového vyhlásenia a kritérií v ňom obsiahnutých,
+
+- 2.
+
+- prideľovania kapacity dopravnej cesty,
+
+- 3.
+
+- režimu spoplatňovania,
+
+- 4.
+
+- úrovne alebo štruktúry cien za použitie dopravnej cesty,
+
+- b)
+
+- vydáva a odníma licencie dopravcom,
+
+- c)
+
+- vydáva a odníma bezpečnostné osvedčenie,
+
+- d)
+
+- kontroluje dodržiavanie licencií dopravcami,
+
+- e)
+
+- vydáva a odníma povolenia na prevádzkovanie dráhy,
+
+- f)
+
+- vykonáva reguláciu cien za používanie dopravnej cesty a reguláciu cien vo vnútroštátnej železničnej osobnej doprave,
+
+- g)
+
+- vyjadruje sa k zmluve o prevádzkovaní dopravy (§ 30 ods. 3),
+
+- h)
+
+- schvaľuje zmluvy o prístupe na dopravnú cestu medzi prevádzkovateľom dráhy a dopravcom,
+
+- i)
+
+- schvaľuje typy dráhových vozidiel železničných dráh a ich podstatné zmeny znamenajúce odchýlku od schváleného typu, vykonáva evidenciu dráhových vozidiel a prideľuje evidenčné čísla dráhovým vozidlám,
+
+- j)
+
+- poveruje právnické osoby na overovanie odbornej spôsobilosti zamestnancov prevádzkovateľa lanovej dráhy a dopravcu na lanovej dráhe,
+
+- k)
+
+- vyšetruje nehody v obvode dráhy (§ 48c),
+
+- l)
+
+- zabezpečuje reguláciu bezpečnosti (§ 48a),
+
+- m)
+
+- spolupracuje a vymieňa si informácie s regulačnými úradmi alebo obdobnými úradmi iných štátov,
+
+- n)
+
+- vydáva na základe zákona všeobecne záväzné právne predpisy, ktoré sa vyhlasujú uverejnením v Zbierke zákonov Slovenskej republiky<sup>28</sup>) (§ 38m),
+
+- o)
+
+- vykonáva štátny dozor a ukladá sankcie.
+
+- § 65b
 
 - Predkladanie správ Národnej rade Slovenskej republiky
 
 - Úrad každoročne predkladá Národnej rade Slovenskej republiky do 31. mája nasledujúceho roka správu o činnosti a hospodárení úradu.“.
+
+- Poznámka pod čiarou k odkazu 28 znie:
+
+- „<sup>28</sup>) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.“.
 
 - 80. V § 66 ods. 1 písmeno e) znie:
 
@@ -1268,6 +1492,30 @@ Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zme
 
 - Dopravca, ktorý prevádzkuje verejnú osobnú dopravu na dráhe, je povinný zabezpečiť v dráhových vozidlách technické a personálne podmienky na prepravu osôb s obmedzenou schopnosťou pohybu a orientácie na všetkých tratiach postupne do 10 rokov od nadobudnutia účinnosti tohto zákona.“.
 
+- 87. Za § 69a sa vkladá § 69b, ktorý znie:
+
+- „§ 69b
+
+- (1)
+
+- Zrušuje sa Štátny dráhový úrad.
+
+- (2)
+
+- Správa majetku štátu, ktorú k 31. decembru 2005 vykonával Štátny dráhový úrad, prechádza od 1. januára 2006 na úrad.
+
+- (3)
+
+- Práva a povinnosti zo štátnozamestnaneckého pomeru štátnych zamestnancov Štátneho dráhového úradu, ktorí k 31. decembru 2005 vykonávali štátnu službu, prechádzajú na úrad.
+
+- (4)
+
+- Práva a povinnosti z pracovnoprávnych vzťahov zamestnancov Štátneho dráhového úradu, ktorí k 31. decembru 2005 vykonávali verejnú službu, prechádzajú na úrad.
+
+- (5)
+
+- Konanie začaté pred účinnosťou tohto zákona sa dokončí podľa tohto zákona.“.
+
 - 88. V § 70 sa označenie odkazu na poznámku pod čiarou 14 nahrádza označením 30.
 
 - Poznámka pod čiarou k odkazu 30 znie:
@@ -1275,6 +1523,12 @@ Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zme
 - „30)
 
 - Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.“.
+
+- 89. V § 73 sa pôvodný text označuje odsekom 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Proti rozhodnutiu úradu možno podať rozklad. O rozklade rozhoduje predseda úradu na základe návrhu ním zriadenej osobitnej komisie.“.
 
 - 90. V § 75 sa vypúšťajú body 1 až 6, 9, 11, 13, 14, 16, 17, 20, 24 a 25.
 
