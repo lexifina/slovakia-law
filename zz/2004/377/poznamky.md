@@ -4,8 +4,8 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
 
-- 4) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 4) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
 - 5) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 6) Zákon č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 6) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
