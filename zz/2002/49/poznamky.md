@@ -56,9 +56,15 @@
 
 - 29) § 420a Občianskeho zákonníka.
 
+- 29a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
 - 30) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu v znení zákona č. 83/2000 Z. z., zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a štátnej banskej správe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 31) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 236/2000 Z. z.
+
+- 31a) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 31b) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 32) § 102 zákona č. 50/1976 Zb.
 
