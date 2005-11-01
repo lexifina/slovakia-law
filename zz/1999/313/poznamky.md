@@ -32,6 +32,8 @@
 
 - 17) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 17a) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 18) § 32 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 19) § 31 ods. 2 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
