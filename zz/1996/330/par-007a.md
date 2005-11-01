@@ -16,7 +16,7 @@
 
 - d) preveruje odbornú spôsobilosť fyzických osôb na skúšky, odborné prehliadky a odborné skúšky, opravy alebo na obsluhu vyhradených technických zariadení,
 
-- e) osvedčuje, či technické zariadenia, materiál a dokumentácia stavieb, technických zariadení, technológií, prototypov strojov a zariadení spĺňajú požiadavky bezpečnosti technických zariadení.
+- e) posudzuje a podáva odborné vyjadrenie, či technické zariadenia, materiál a projektová dokumentácia stavieb s prevádzkovým a výrobným technickým zariadením a jej zmeny a dokumentácia technických zariadení, technológií, prototypov strojov a zariadení spĺňajú požiadavky bezpečnosti a ochrany zdravia pri práci vrátane bezpečnosti technických zariadení.
 
 (5) Technická inšpekcia vykonáva činnosti podľa odseku 4 za úhradu.
 
