@@ -38,6 +38,10 @@
 
 - 17) Napríklad § 2 ods. 2 písm. a) až c) a § 21 Obchodného zákonníka v znení zákona č. 500/2001 Z. z., zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 209/2002 Z. z., § 21 až 23 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
+- 17a) § 20 až 22 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 17b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 18) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 19) § 8 až 13 a § 16 zákona č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
@@ -45,5 +49,11 @@
 - 20) § 8 až 13 zákona č. 10/1996 Z. z. v znení zákona č. 502/2001 Z. z.
 
 - 20a) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 20b) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 20c) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 20d) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
