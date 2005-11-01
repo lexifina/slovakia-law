@@ -94,6 +94,8 @@
 
 - 10aa) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
+- 10ab) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
 - 12) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 13) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
