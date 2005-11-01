@@ -12,7 +12,9 @@
 
 - e) zabezpečenie spracovania návrhu územnoplánovacej dokumentácie, dohľad nad jeho spracovaním a jeho prerokovanie,
 
-- f) prípravu podkladov na schválenie návrhu územnoplánovacej dokumentácie.
+- f) prípravu podkladov na schválenie návrhu územnoplánovacej dokumentácie,
+
+- g) zabezpečenie vyhlásenia záväznej časti územnoplánovacej dokumentácie, uloženie územnoplánovacej dokumentácie a vyhotovenie registračného listu a jeho doručenie ministerstvu.
 
 (2) Na zabezpečenie spracovateľa územnoplánovacej dokumentácie sa použijú všeobecné predpisy o verejnom obstarávaní.<sup>1f</sup>)
 

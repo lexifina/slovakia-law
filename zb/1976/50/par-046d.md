@@ -18,4 +18,6 @@
 
 - f) osoba vykonávajúca stavebný dozor,
 
-- g) osoba vykonávajúca štátny dozor.
+- g) osoba vykonávajúca štátny dozor,
+
+- h) koordinátor bezpečnosti práce na stavenisku.

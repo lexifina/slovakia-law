@@ -12,7 +12,7 @@
 
 - Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/1998 Z. z. o úhradách za sprístupnenie informácií o životnom prostredí.
 
-- 1f) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+- 1f) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 82/2005 Z. z.
 
 - 1g) Napríklad § 9 ods. 4 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.
 
@@ -68,6 +68,8 @@
 
 - 8) § 5 a 6 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z.
 
+- 8a) § 65 až 69 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
+
 - 9) § 712 Občianskeho zákonníka.
 
 - § 5 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami.
@@ -114,9 +116,9 @@
 
 - 11) § 20a zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 11a) § 2 ods. 3 písm. b) a odseky 6 a 7 zákona č. 313/2001 Z. z. o verejnej službe.
-
 - 11b) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11c) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
 - 12) Zákon č. 281/1997 Z. z.
 
@@ -139,6 +141,8 @@
 - zákon č. 138/1973 Zb. v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
+
+- 15) Napríklad zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 657/2004 Z. z. o tepelnej energetike, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 17) § 2 ods. 1 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí.
 

@@ -1,6 +1,6 @@
 # § 81a
 
-(1) Stavebný úrad spíše o ústnom konaní protokol, ktorý obsahuje
+(1) Stavebný úrad spíše o ústnom pojednávaní protokol, ktorý obsahuje
 
 - a) označenie stavby,
 
@@ -12,6 +12,6 @@
 
 - e) námietky účastníkov konania,
 
-- f) stanoviská dotknutých orgánov štátnej správy.
+- f) stanoviská dotknutých orgánov.
 
 (2) Protokol podľa odseku 1 môže stavebný úrad nahradiť jednoduchým záznamom, najmä ak sa stavba dokončila v súlade s overenou dokumentáciou, ak nie sú zistené odchýlky od skutočného realizovania stavby a neboli podané námietky účastníkov konania.

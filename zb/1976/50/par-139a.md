@@ -22,7 +22,9 @@
 
 - c) pozemkov ostatných plôch,
 
-- d) pozemkov vhodných na zastavanie vymedzených na tento účel schváleným územným plánom obce alebo schváleným územným plánom zóny.
+- d) pozemkov vhodných na zastavanie vymedzených na tento účel schváleným územným plánom obce alebo schváleným územným plánom zóny,
+
+- e) pozemkov, ktoré podľa schváleného územného plánu obce alebo schváleného územného plánu zóny sú určené na umiestnenie stavieb na účel uspokojovania voľnočasových a rekreačných potrieb obyvateľstva (rekreácie).
 
 (9) Zeleň sú vysadené alebo udržiavané rastliny v sídlach a v ich okolí, ako aj pozdĺž líniových stavieb v ostatnej krajine.
 
@@ -36,7 +38,7 @@
 
 - d) prístavy,
 
-- e) jednotná telekomunikačná sieť,
+- e) vedenia elektronickej komunikačnej siete,
 
 - f) vedenia a zariadenia verejného rozvodu elektrického prúdu a verejné elektrické osvetlenie,
 
@@ -52,4 +54,16 @@
 
 - l) skládky odpadu a ďalšie stavby na nakladanie s odpadom,
 
-- m) ochranné stavby civilnej ochrany obyvateľstva.
+- m) zariadenia civilnej ochrany.
+
+(11) Za rozsiahlu novú výstavbu a prestavbu v obci sa na účely tohto zákona považuje taká výstavba a prestavba, ktorou sa dosiahne
+
+- a) rozšírenie zastavaného územia obce najmenej o 15 %,
+
+- b) zvýšenie počtu obyvateľov obce nad 2000,
+
+- c) rozšírenie obytného územia alebo zmiešaného územia v obci o viac ako 2 ha,
+
+- d) rozšírenie výrobného územia v obci o viac ako 3 ha alebo ak tým výrazne stúpnu nároky na dopravnú a technickú vybavenosť obce, alebo
+
+- e) zvýšenie návštevnosti rekreačného územia v obci najmenej o 10 % alebo zväčšenie rekreačného územia o viac ako 2 ha.
