@@ -32,6 +32,8 @@
 
 - 9) Napríklad § 3 a 14 vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti, § 14 vyhlášky Slovenského úradu bezpečnosti práce č. 25/1984 Zb. na zaistenie bezpečnosti práce v nízkotlakových kotolniach v znení vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 75/1996 Z. z.
 
+- 9a) § 140b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 479/2005 Z. z.
+
 - 10) Vyhláška Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z.
 
 - 10a) § 12 zákona č. 121/2004 Z. z.
