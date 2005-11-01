@@ -56,10 +56,14 @@
 
 - 22a) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
+- 22b) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
 - 23) § 9 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 24) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 25) § 2 ods. 2 Obchodného zákonníka.
+
+- 25a) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 1) Smernice Rady sú preložené do slovenského jazyka; do úradného prekladu v slovenskom jazyku možno nahliadnuť v sídle Inštitútu pre aproximáciu práva Úradu vlády Slovenskej republiky, Námestie slobody 1/29, Bratislava.
