@@ -40,7 +40,9 @@
 
 - 16a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 16b) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+- 16b) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 16ba) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 16c) § 4 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
