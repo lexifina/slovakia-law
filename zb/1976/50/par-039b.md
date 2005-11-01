@@ -2,7 +2,7 @@
 
 (1) Rozhodnutím o využívaní územia sa povoľuje nové využívanie územia, určujú sa jeho podmienky a čas jeho platnosti.
 
-(2) V podmienkach nového využívania územia sa určí najmä spôsob, akým sa má územie upraviť, usporiadať, zalesniť, odvodniť, pripojiť na pozemné komunikácie, na siete a zariadenia technického vybavenia územia, spôsob zabezpečenia požiadaviek vyplývajúcich z blízkosti chránených častí krajiny a zo stanovísk dotknutých orgánov štátnej správy a určenia požiadaviek na ochranu existujúcich stavieb a zelene.
+(2) V podmienkach nového využívania územia sa určí najmä spôsob, akým sa má územie upraviť, usporiadať, zalesniť, odvodniť, pripojiť na pozemné komunikácie, na siete a zariadenia technického vybavenia územia, spôsob zabezpečenia požiadaviek vyplývajúcich z blízkosti chránených častí krajiny a zo stanovísk dotknutých orgánov a určenia požiadaviek na ochranu existujúcich stavieb a zelene. Podmienkami rozhodnutia podľa odseku 1 sa môže určiť aj kapacitná únosnosť využívania územia na voľnočasové alebo rekreačné potreby obyvateľstva vrátane limitov pre ubytovacie kapacity.
 
 (3) Rozhodnutie o využívaní územia sa vyžaduje na
 

@@ -1,6 +1,6 @@
 # § 88a Konanie o dodatočnom povolení stavby
 
-(1) Ak stavebný úrad zistí, že stavba bola postavená bez stavebného povolenia alebo v rozpore s ním, začne z vlastného podnetu konanie a vyzve vlastníka stavby, aby v určenej lehote predložil doklady o tom, že dodatočné povolenie nie je v rozpore s verejnými záujmami chránenými týmto zákonom a osobitnými predpismi.
+(1) Ak stavebný úrad zistí, že stavba bola postavená bez stavebného povolenia alebo v rozpore s ním, začne z vlastného podnetu konanie a vyzve vlastníka stavby, aby v určenej lehote predložil doklady o tom, že dodatočné povolenie nie je v rozpore s verejnými záujmami chránenými týmto zákonom, najmä s cieľmi a zámermi územného plánovania, a osobitnými predpismi. Ak bola stavba začatá bez právoplatného stavebného povolenia, ktoré už bolo vydané, stavebný úrad posúdi súlad stavby s verejnými záujmami na základe záväzných stanovísk podľa § 140b a podkladov predložených v stavebnom konaní.
 
 (2) Ak vlastník stavby požadované doklady nepredloží v určenej lehote alebo ak sa na ich podklade preukáže rozpor stavby s verejným záujmom, stavebný úrad nariadi odstránenie stavby.
 
@@ -17,3 +17,7 @@
 - b) nesplní podmienky rozhodnutia o dodatočnom povolení stavby.
 
 (7) Na konanie o dodatočnom povolení stavby sa primerane vzťahujú ustanovenia § 58 až 66.
+
+(8) Podľa odsekov 1 až 7 sa postupuje aj pri neohlásenej jednoduchej stavbe alebo jej zmene, ak bola určená na ohlásenie podľa § 55 ods. 2 písm. a).
+
+(9) S konaním o dodatočnom povolení stavby, ktorá je už dokončená, môže stavebný úrad spojiť kolaudačné konanie.

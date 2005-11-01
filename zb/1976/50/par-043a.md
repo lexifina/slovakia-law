@@ -20,7 +20,7 @@
 
 - g) diaľkové a miestne rozvody vody alebo pary, úpravne vody, miestne kanalizácie a čistiarne odpadových vôd,
 
-- h) diaľkové a miestne telekomunikačné siete a vedenia, telekomunikačné stožiare, transformačné stanice,
+- h) diaľkové a miestne elektronické komunikačné siete a vedenia, telekomunikačné stožiare, transformačné stanice,
 
 - i) diaľkové a miestne rozvody elektriny, stožiare, transformačné stanice, televízne káblové rozvody,
 
@@ -28,7 +28,7 @@
 
 - k) stavby energetických zariadení, plynárne a spaľovne odpadu,
 
-- l) stavby na spracovanie a ukladanie jadrového materiálu,
+- l) stavby na spracovanie a ukladanie jadrového materiálu a rádioaktívneho odpadu,
 
 - m) stavby chemických zariadení, rafinérie a koksovne,
 

@@ -10,7 +10,7 @@
 
 - c) vyplývajúce z chránených častí krajiny alebo z ich blízkosti,
 
-- d) vyplývajúce zo stanovísk dotknutých orgánov štátnej správy.
+- d) vyplývajúce zo stanovísk dotknutých orgánov.
 
 (3) Rozhodnutie o umiestnení stavby sa nevyžaduje na
 
@@ -25,3 +25,5 @@
 - e) informačné zariadenia, reklamné zariadenia a propagačné zariadenia.
 
 (4) Stavebný úrad spojí územné konanie o umiestnení stavby so stavebným konaním pri jednoduchej stavbe alebo jej prístavbe a nadstavbe, ak sú podmienky umiestnenia jednoznačné vzhľadom na pomery v území; pri ostatných stavbách tak urobí za predpokladu, že podmienky na ich umiestnenie vyplývajú z územného plánu zóny.
+
+(5) Stavebný úrad môže v rozhodnutí o umiestnení jednoduchej stavby, jej prístavby alebo nadstavby určiť, že na jej uskutočnenie postačí ohlásenie podľa § 55 ods. 2. Nevzťahuje sa to na stavby povoľované špeciálnymi, vojenskými a inými stavebnými úradmi podľa § 120 a 121.

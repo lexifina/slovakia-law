@@ -10,4 +10,4 @@ Kolaudačné rozhodnutie sa nevydá, ak nie je zaistená bezpečnosť a ochrana 
 
 - d) nie sú splnené podmienky stavebného povolenia na nevyhnutnú komplexnosť výstavby a na vylúčenie negatívnych účinkov stavby na okolité životné prostredie, prípadne ich obmedzenie na prípustnú mieru,
 
-- e) nie sú predložené doklady o vyhovujúcich výsledkoch predpísaných skúšok a doklady o overení vhodných stavebných výrobkov (§ 43f).
+- e) nie sú predložené doklady o vyhovujúcich výsledkoch predpísaných skúšok a vyhlásenia výrobcu o zhode stavebných výrobkov (§ 43f).

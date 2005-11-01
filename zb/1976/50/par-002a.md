@@ -17,3 +17,21 @@
 (5) Odborná spôsobilosť sa osvedčuje vydaním preukazu o odbornej spôsobilosti a overuje sa každých desať rokov.
 
 (6) Ministerstvo vedie register odborne spôsobilých osôb.
+
+(7) Ministerstvo vyčiarkne z registra odborne spôsobilých osôb toho, kto
+
+- a) zomrel alebo bol vyhlásený za mŕtveho,
+
+- b) prestal byť plne spôsobilý na právne úkony,
+
+- c) prestal byť bezúhonným,
+
+- d) bol do registra zapísaný na základe nepravdivých alebo neúplných údajov,
+
+- e) porušuje napriek písomnému upozorneniu ministerstva predpisy o obstarávaní územnoplánovacích podkladov alebo územnoplánovacej dokumentácie,
+
+- f) písomne požiadal o vyčiarknutie alebo
+
+- g) po uplynutí 10 rokov od posledného overenia odbornej spôsobilosti nemá overenú odbornú spôsobilosť podľa odseku 5.
+
+(8) Bezúhonným na účely tohto zákona je ten, kto nebol právoplatne odsúdený za úmyselný trestný čin alebo za trestný čin spáchaný v súvislosti so zabezpečením obstarávania územnoplánovacích podkladov alebo územnoplánovacej dokumentácie. Bezúhonnosť sa preukazuje výpisom z registra trestov nie starším ako 3 mesiace.

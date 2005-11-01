@@ -14,4 +14,4 @@
 
 - e) programy odpadového hospodárstva,
 
-- f) koncepcie rozvoja jednotlivých oblastí života obcí.
+- f) koncepcie rozvoja jednotlivých oblastí života obcí a stratégie a programy regionálneho rozvoja.
