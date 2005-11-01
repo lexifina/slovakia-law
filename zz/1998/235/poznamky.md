@@ -1,10 +1,12 @@
 - 1) § 2 ods. 1 písm. l) zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
-- 2) Napríklad § 45 a 46 zákona č. 94/1963 Zb. o rodine v znení zákona č. 132/1982 Zb.
+- 2) § 45, 48, § 56 ods. 2 a § 103 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
-- 3) § 69 ods. 2 zákona č. 94/1963 Zb.
+- 3) § 49 zákona č. 36/2005 Z. z.
 
-- 4) § 68 ods. 1 písm. b) zákona č. 94/1963 Zb.
+- 4) § 102 ods. 1 písm. c) zákona č. 36/2005 Z. z.
+
+- 5) § 54 zákona č. 36/2005 Z. z.
 
 - 6) Napríklad § 45 ods. 1 a § 78 zákona č. 94/1963 Zb. v znení neskorších predpisov.
 
@@ -14,7 +16,9 @@
 
 - 8) § 45 ods. 3 zákona č. 94/1963 Zb. v znení zákona č. 132/1982 Zb. a § 46 zákona č. 94/1963 Zb.
 
-- 10) § 10 a 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách.
+- 10) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
+
+- 10a) Napríklad § 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z.
 
 - 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
