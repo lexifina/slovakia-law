@@ -2,6 +2,8 @@
 
 - 1a) § 32 zákona č. 138/1973 Zb. o vodách (vodný zákon).
 
+- 1b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
 - 2) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 3) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -49,6 +51,8 @@
 - 21) Zákon č. 351/1997 Z. z. BRANNÝ ZÁKON.
 
 - 21a) § 7 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 21b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 22) § 3 písm. c) zákona Slovenskej národnej rady č. 51/1988 Zb.
 
