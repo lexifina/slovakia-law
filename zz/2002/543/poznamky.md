@@ -50,8 +50,6 @@
 
 - 25) § 71 až 74 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 26) § 79 až 82 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
 - 27) § 85 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 28) § 88, 88a, 89 a 90 zákona č. 50/1976 Zb. v znení neskorších predpisov.
@@ -202,6 +200,8 @@
 
 - 93b) § 2 ods. 3 písm. e) vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z.
 
+- 93c) § 22 ods. 2 písm. c) zákona č. 326/2005 Z. z.
+
 - 94) Napríklad zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 282/1993 Z. z. o zmiernení niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam v znení zákona č. 97/2002 Z. z.
 
 - 95) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
@@ -265,3 +265,7 @@
 - 120) § 420 až 450 Občianskeho zákonníka.Vyhláška ministerstiev zdravotníctva a spravodlivosti, Štátneho úradu sociálneho zabezpečenia a Ústrednej rady odborov č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení neskorších predpisov.
 
 - 121) Napríklad § 27 vyhlášky Ministerstva poľnohospodárstva a výživy č. 59/1967 Zb., ktorou sa vydávajú vykonávacie predpisy k zákonu o poľovníctve v znení neskorších predpisov.
+
+- 122) § 140a zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 123) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
