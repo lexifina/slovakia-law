@@ -78,6 +78,8 @@
 
 - 39) § 3 a 4 zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
+- 39a) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 40) Nariadenie vlády Slovenskej republiky č. 46/1978 Zb. o chránenej oblasti prirodzenej akumulácie vôd na Žitnom ostrove v znení neskorších predpisov.
 
 - 41) § 3 zákona č. 44/1988 Zb. v znení neskorších predpisov.
@@ -118,6 +120,8 @@
 
 - 59) Napríklad zákon č. 241/2001 Z. z. v znení neskorších predpisov.
 
+- 59a) § 11 až 31 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 60) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 61) § 13 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
@@ -131,6 +135,10 @@
 - 65) Zákon č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) v znení neskorších predpisov.
 
 - 66) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 66a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 66b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 67) § 106 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
