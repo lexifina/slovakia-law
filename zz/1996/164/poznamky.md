@@ -1,5 +1,13 @@
 - 1) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb., zákona č. 262/1992 Zb., zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
 
+- 1b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 1c) § 39a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 1d) § 55 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 1e) § 56 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
 
 - 3) Zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
@@ -11,6 +19,8 @@
 - 6) § 120 zákona č. 50/1976 Zb.
 
 - 7) § 58 a nasl. zákona č. 50/1976 Zb. v znení zákona č. 262/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
+
+- 7a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 8) § 76 a nasl. zákona č. 50/1976 Zb. v znení zákona č. 262/1992 Zb.
 
@@ -62,8 +72,22 @@
 
 - 16b) § 179 ods. 1 Trestného zákona.
 
-- 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 18) § 2 ods. 2 Obchodného zákonníka.
 
 - 19) Napríklad zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
+
+- 22) § 20 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení neskorších predpisov.
+
+- 23) § 21 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 24) § 22 zákona č. 523/2004 Z. z.
+
+- 25) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 26) § 116 Občianskeho zákonníka.
+
+- 27a) § 20 ods. 4, § 21 ods. 3 a § 22 ods. 5 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 28) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
