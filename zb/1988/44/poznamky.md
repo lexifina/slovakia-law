@@ -16,7 +16,7 @@
 
 - 6) § 16 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon).
 
-- 7) § 8, 12 a 21 zákona č. 50/1976 Zb.
+- 7) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 7a) § 9 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
@@ -29,6 +29,10 @@
 - 9) § 2 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 10) § 117 až 121 zákona č. 50/1976 Zb.
+
+- 10a) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 10b) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 11) Napríklad zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov, zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti, zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 308/2000 Z. z., vyhláška Ministerstva dopravy a Ústredného banského úradu č. 28/1967 Zb., ktorou sa ustanovujú pravidlá pre styk dráh s banskou činnosťou.
 
