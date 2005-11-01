@@ -1,0 +1,1 @@
+- 1) Zákon č. 666/2004 Z. z. o ochrane pred povodňami.
