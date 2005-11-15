@@ -90,21 +90,43 @@ PRÍLOHA
 
     - a) Dohovor pre Francúzsko nadobudol platnosť 1. mája 1988.
 
-    - b) Francúzsko uplatnilo tieto výhrady a urobilo tieto vyhlásenia:
+    - b)
 
-      - „Francúzsko si podľa článku 28 ods. 1 vyhradzuje právo vylúčiť použitie článku 1, ak neexistuje vzájomnosť zaobchádzania medzi ním a štátom, ktorého štátnym občanom je žiadateľ, na osoby, ktoré nie sú občanmi zmluvného štátu, ale majú svoj obvyklý pobyt na území zmluvného štátu, okrem osôb, ktoré majú alebo mali svoj obvyklý pobyt na území Francúzska.
+      - Podľa čl. 3, 4 a 16 určila Francúzska republika ústredný orgán:
 
-      - Podľa článkov 3 a 29 sa určuje Ministerstvo spravodlivosti, úsek medzinárodnej právnej pomoci odboru civilných vecí a pečate, ako ústredný orgán na prijímanie žiadostí o právnu pomoc a na konanie o nich.
+      - Ministerstvo spravodlivosti („Ministčre de la Justice")
 
-      - Podľa článkov 4 a 29 sa určuje Ministerstvo spravodlivosti, úsek medzinárodnej právnej pomoci odboru civilných vecí a pečate, ako ústredný orgán na odosielanie žiadostí o právnu pomoc.
+      - Odbor civilných vecí a pečate („Direction des Affaires Civiles et du Sceau")
 
-      - Podľa článku 16 ods. 1 a článku 29 sa určuje Ministerstvo spravodlivosti, úsek medzinárodnej právnej pomoci odboru civilných vecí a pečate, ako ústredný orgán na odosielanie žiadostí o výkon rozhodnutí podľa článku 15.
+      - Úsek medzinárodnej právnej pomoci civilnej a obchodnej [„Bureau de l’entraide civile et commerciale internationale (D3)"]
 
-      - Podľa článku 16 ods. 2 a článku 29 sa určuje Ministerstvo spravodlivosti, úsek medzinárodnej právnej pomoci odboru civilných vecí a pečate, ako ústredný orgán na prijímanie žiadostí podľa článku 15.
+      - 13, Place Vendôme
 
-      - V súlade s článkom 7 ods. 2 a článkom 28 ods. 2 písm. a) vláda posúdi len také žiadosti, ktoré sú vyhotovené vo francúzštine alebo ku ktorým je pripojený preklad do tohto jazyka.
+      - 75042 Paris Cedex 01
 
-      - Podľa ustanovení článku 33 vláda vyhlasuje, že dohovor sa uplatní na celom území Francúzskej republiky.“
+      - tel.: + 33 (1) 44 77 64 52
+
+      - fax: + 33 (1) 44 77 61 22
+
+      - e-mail: entraide-civile-internationale@justice.gouv.fr
+
+      - Kontaktné osoby:
+
+    - – Pani Béatrice BIONDI
+
+    - Magistrat – Chef du bureau
+
+    - (dorozumievací jazyk: francúzština, španielčina a angličtina)
+
+    - tel.: +33 (1) 44 77 66 34
+
+    - – Pán Pierre CHAPON
+
+    - Attaché d’administration centrale
+
+    - (dorozumievací jazyk: francúzština a angličtina)
+
+    - tel.: +33 (1) 44 77 69 64
 
   - Holandsko
 
