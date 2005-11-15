@@ -1,6 +1,6 @@
 Príloha č. 5 k vyhláške č. 490/2004 Z. z.
 
-- OSNOVA ZNALECKÉHO POSUDKU PRE ODBOR STAVEBNÍCTVO, ODVETVIE OCEŇOVANIE NEHNUTEĽNOSTÍ
+- OSNOVA ZNALECKÉHO POSUDKU PRE ODBOR STAVEBNÍCTVO, ODVETVIE ODHAD HODNOTY NEHNUTEĽNOSTÍ
 
   - V posudku sú vyjadrené odborné závery o skutočnostiach, ktoré objasňuje. Posudok sa vypracúva tak, aby bol preskúmatelný z hľadiska odbornosti a súladu so skutočným stavom veci. Posudok o všeobecnej hodnote je aj doklad o stave stavieb a nehnuteľností k rozhodujúcemu termínu.
 

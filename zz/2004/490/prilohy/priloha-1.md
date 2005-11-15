@@ -4,20 +4,16 @@ Príloha č. 1 k vyhláške č. 490/2004 Z. z.
 
   - 1. Doprava cestná
 
-  - 2. Ekonomika a podnikanie
+  - 2. Ekonómia a manažment
 
   - 3. Elektronické komunikácie
 
-  - 4. Elektrotechnika silnoprúdová
+  - 4. Elektrotechnika
 
-  - 5. Elektrotechnika slaboprúdová
+  - 5. Lesníctvo
 
-  - 6. Lesné hospodárstvo
+  - 6. Poľnohospodárstvo
 
-  - 7. Podnikové hospodárstvo
+  - 7. Stavebníctvo
 
-  - 8. Poľnohospodárstvo
-
-  - 9. Stavebníctvo
-
-  - 10. Strojárstvo
+  - 8. Strojárstvo
