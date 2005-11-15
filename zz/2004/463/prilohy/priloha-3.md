@@ -1,31 +1,35 @@
 Príloha č. 3 k vyhláške č. 463/2004 Z. z. TRIEDY KVALITY A ICH ZNAKY
 
-Tabuľka 3
+Tabuľka 5
 
-Triedy kvality a ich znaky - hmotnostné kategórie jatočných oviec a kvalitatívne triedy
+Triedy mäsitosti - profily jatočného tela oviec a vývin hlavných mäsitých častí
 
-Skupina | A | | B | | C |
+Trieda mäsitosti | Opis
 
-Hmotnosť | do 7 kg vrátane | | od 7,1 kg do 10 kg vrátane | | od 10,1 kg do 13 kg vrátane |
+S | Plece: extrémne vyklenuté, veľmi široké Chrbát: extrémne vyklenutý, veľmi široký Zadná časť: zdvojené svalstvo, profily extrémne vyklenuté (superkonvexné)
 
-Trieda kvality | 1. | 2. | 1. | 2. | 1. | 2.
+E | Plece: výrazne vyklenuté Chrbát: výrazne vyklenutý, široký Zadná časť: všetky profily veľmi vyklenuté
 
-Farba mäsa | bledoružová | iná farba mäsa, iná trieda pretučnenosti | bledoružová | iná farba mäsa, iná trieda pretučnenosti | bledoružová | iná farba mäsa, iná trieda pretučnenosti
+U | Plece: vyklenuté Chrbát: vyklenutý, široký až k plecu Zadná časť: takmer vyklenuté profily
 
-Trieda pretučne- nosti | (2) alebo (3) | | (2) alebo (3) | | (2) alebo (3) |
+R | Plece: dobre vyvinuté Chrbát: dobre vyvinutý, ale zužuje sa k plecu Zadná časť : takmer rovné profily
 
-Tabuľka 4
+0 | Plece: mierne vyvinuté až ploché Chrbát: mierne vyvinutý Zadná časť: mierne prehĺbené profily
 
-Trieda pretučnenosti - množstvo tuku na vonkajšej časti jatočného tela oviec a v hrudnej dutine
+P | Plece: ploché, s vystupujúcimi kosťami, úzke Chrbát: úzky, s vystupujúcimi kosťami Zadná časť: všetky profily prehĺbené až veľmi prehĺbené (superkonkávne)
+
+Tabuľka 6
+
+Triedy pretučnenosti - vrstva tuku na povrchu jatočného tela oviec a v hrudnej dutine a v brušnej dutine
 
 Trieda pretučnenosti | Opis
 
-1 | takmer žiadny tuk alebo veľmi malá vrstva tuku
+1 | Povrch tela: žiadna alebo len veľmi malá vrstva podkožného tuku Hrudná dutina: žiadne alebo len veľmi malé množstvo tuku medzi rebrami Brušná dutina: žiadna alebo len veľmi malá vrstva tuku na obličkách
 
-2 | malá vrstva tuku pokrýva jatočné telo, svalovina je viditeľná takmer všade
+2 | Povrch tela: malá vrstva podkožného tuku pokrýva časť jatočného tela, môže byť menej viditeľná na končatinách Hrudná dutina: medzirebrová svalovina zreteľne viditeľná Brušná dutina: veľmi malá vrstva tuku obaľuje časť obličiek
 
-3 | jatočné telo je takmer celé obalené tukom, malá vrstva tuku sa nachádza aj v hrudnej dutine
+3 | Povrch tela: žiadna alebo len veľmi malá vrstva podkožného tuku Hrudná dutina: medzirebrová svalovina je ešte viditeľná Brušná dutina: malá vrstva tuku obaľuje časť obličiek alebo celé obličky
 
-4 | jatočné telo je pokryté vrstvou tuku okrem pliec a zadnej časti, ktoré tuk nepokrýva úplne, vrstva tuku sa nachádza aj v oblasti hrudníka
+4 | Povrch tela: žiadna alebo len veľmi malá vrstva podkožného tuku Hrudná dutina: medzirebrová svalovina je takmer súvislé pokrytá vrstvou tuku Brušná dutina: obličky obalené tukom
 
-5 | jatočné telo je pokryté hrubou vrstvou tuku, veľká vrstva tuku je aj v oblasti hrudníka
+5 | Povrch tela: veľmi výrazná vrstva podkožného tuku, miestami viditeľné ložiská tuku Hrudná dutina: medzirebrová svalovina je pokrytá vrstvou tuku, tukové ložiská viditeľné na rebrách Brušná dutina: obličky obalené výraznou vrstvou tuku
