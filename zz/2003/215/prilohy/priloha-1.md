@@ -42,27 +42,27 @@ K oznámeniu č. 215/2003 Z. z.
 
   - Článok 9
 
-    - 1. Výkonnému riaditeľovi sú pri výkone jeho funkcie priznané tieto výsady a imunity:
+    - 1. Výkonnému riaditeľovi a zástupcovi výkonného riaditeľa sa pri výkone ich funkcie priznávajú tieto výsady a imunity:
 
-      - a) vyňatie z právomoci Slovenskej republiky týkajúce sa ním vykonaných úkonov v rámci jeho oficiálnej činnosti vrátane hovoreného a písaného slova,
+      - a) vyňatie z právomoci Slovenskej republiky týkajúce sa vykonaných úkonov v rámci ich oficiálnej činnosti vrátane hovoreného a písaného slova,
 
       - b) nedotknuteľnosť všetkých oficiálnych spisov a dokumentov,
 
-      - c) nedotknuteľnosť jeho osobnej a oficiálnej batožiny,
+      - c) nedotknuteľnosť ich osobnej a oficiálnej batožiny,
 
       - d) oslobodenie od všetkých priamych daní (a tie isté výsady vo vzťahu k výmene meny, aké sú priznané diplomatickému personálu),
 
-      - e) oslobodenie od imigračných obmedzení a od registračných formalít vrátane členov jeho rodiny tvoriacich súčasť jeho domácnosti,
+      - e) oslobodenie od imigračných obmedzení a od registračných formalít vrátane členov ich rodiny tvoriacich súčasť ich domácností,
 
-      - f) právo dovážať bez cla svoj nábytok a zvršky pri prvom nástupe do funkcie a po ukončení funkcie bez cla vyviesť takýto nábytok a zvršky,
+      - f) právo dovážať bez cla svoj nábytok a zvršky pri prvom nástupe do funkcie a po ukončení funkcie bez cla vyviezť takýto nábytok a zvršky,
 
-      - g) právo doviesť bez cla svoje súkromné vozidlo na vlastné použitie a následne ho bez cla vyviesť.
+      - g) právo doviezť bez cla svoje súkromné vozidlo na vlastné použitie a následne ho bez cla vyviezť.
 
-    - 2. Ustanovenia odseku 1 písm. e), f) a g) sa nepoužijú v prípade, že daná osoba je občanom Slovenskej republiky alebo má trvalý pobyt na území Slovenskej republiky.
+    - 2. Ustanovenia odseku 1 písm. e), f) a g) sa nepoužijú v prípade, že výkonný riaditeľ alebo zástupca výkonného riaditeľa je občanom Slovenskej republiky alebo má trvalý pobyt na území Slovenskej republiky.
 
-    - 3. Výsady a imunity sa poskytujú výkonnému riaditeľovi nie na účely jeho osobného prospechu, ale na účely zabezpečenia nezávislého výkonu jeho funkcie.
+    - 3. Výsady a imunity sa poskytujú výkonnému riaditeľovi a zástupcovi výkonného riaditeľa nie na účely ich osobného prospechu, ale na účely zabezpečenia nezávislého výkonu ich funkcie.
 
-  - Vzhľadom na túto skutočnosť má Konferencia ministrov zahraničných vecí právo a povinnosť vzdať sa imunity pre výkonného riaditeľa vždy, keď podľa jej názoru je výkon imunity v rozpore so spravodlivosťou a možno sa jej vzdať bez ujmy na dôvodoch, prečo je táto imunita garantovaná.
+  - Vzhľadom na túto skutočnosť má Konferencia ministrov zahraničných vecí právo a povinnosť vzdať sa imunity pre výkonného riaditeľa alebo pre zástupcu výkonného riaditeľa vždy, keď podľa jej názoru je výkon imunity v rozpore so spravodlivosťou a možno sa jej vzdať bez ujmy na dôvodoch, prečo je táto imunita garantovaná.
 
   - Článok 10
 
