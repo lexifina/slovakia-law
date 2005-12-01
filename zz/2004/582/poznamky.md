@@ -48,7 +48,7 @@
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
-- 23) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 23) § 30 ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 279/2001 Z. z.
 
 - 24) § 2 písm. x) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 450/2003 Z. z.
 
@@ -86,11 +86,15 @@
 
 - § 6 zákona Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
 
-- 38) § 94 až 96 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 38) § 3 ods. 3 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
 - 39) § 2 písm. at) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
-- 40) § 2 ods. 5, 7 a 10 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách v znení neskorších predpisov.
+- 40) § 2 zákona č. 513/1991 Zb. v znení neskorších predpisov.
+
+- § 6 ods. 2 zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 659/2004 Z. z.
+
+- 40a) § 94 až 96 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
 - 41) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
@@ -103,6 +107,10 @@
 - 45) § 91 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
 - 46) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 46a) § 30 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
+
+- § 25 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
 
 - 47) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
