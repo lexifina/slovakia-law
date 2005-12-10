@@ -1,11 +1,9 @@
 ## Jedenásty oddiel
 
-## Konanie o preskúmaní rozhodnutia Národnej rady Slovenskej republiky vo veciach rozporu osobného záujmu s verejným záujmom
+## Konanie o preskúmaní rozhodnutia vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov
 
 # § 73a
 
-(1) Konanie sa začína na návrh ústavného činiteľa alebo vyššieho štátneho funkcionára, ktorého sa týka uznesenie Národnej rady Slovenskej republiky podľa ústavného zákona Národnej rady Slovenskej republiky o zamedzení rozporu záujmov pri výkone funkcií ústavných činiteľov a vyšších štátnych funkcionárov.<sup>19</sup>)
+(1) Konanie sa začína na návrh verejného funkcionára,<sup>19</sup>) ktorého sa týka rozhodnutie orgánu, ktorý vykonáva konanie o návrhu vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov podľa ústavného zákona o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov<sup>20</sup>) (ďalej len „orgán”).
 
-(2) O podaní návrhu platí § 20. K návrhu sa pripojí napadnuté uznesenie Národnej rady Slovenskej republiky.
-
-(3) Návrh sa musí podať Ústavnému súdu do 15 dní odo dňa doručenia uznesenia Národnej rady Slovenskej republiky dotknutému ústavnému činiteľovi alebo vyššiemu štátnemu funkcionárovi.
+(2) O podaní návrhu platí § 20. K návrhu sa pripojí napadnuté rozhodnutie orgánu podľa odseku 1.
