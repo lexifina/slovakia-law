@@ -30,9 +30,9 @@
 
 - 16) Napríklad Občiansky súdny poriadok, zákon č. 153/2001 Z. z. o prokuratúre.
 
-- 19) Čl. 12 ústavného zákona Národnej rady Slovenskej republiky č. 119/1995 Z. z.
+- 19) Čl. 2 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
 
-- 20) Čl. 12 ods. 6 ústavného zákona Národnej rady Slovenskej republiky č. 119/1995 Z. z.
+- 20) Čl. 9 a 10 ústavného zákona č. 357/2004 Z. z. v znení ústavného zákona č. 545/2005 Z. z.
 
 - 21) Zákon č. 385/2000 Z. z.
 
