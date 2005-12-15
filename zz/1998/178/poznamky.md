@@ -36,11 +36,17 @@
 
 - 17) § 5, 24,26 a 29 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny.
 
+- 17a) Čl. 2 písm. t) nariadenia Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Ú. v. ES L 061, 3. 3. 1997) v znení nariadenia Komisie (ES) č. 938/97 z 26. mája 1997 (Ú. v. ES L 140, 30. 5. 1997) v znení nariadenia Komisie (ES) č. 2307/97 z 18. novembra 1997 (Ú. v. ES L 325, 27. 11. 1997) v znení nariadenia Komisie (ES) č. 2214/98 z 15. októbra 1998 (Ú. v. ES L 279, 16. 10. 1998) v znení nariadenia Komisie (ES) č. 1476/1999 zo 6. júla 1999 (Ú. v. ES L 171, 7. 7. 1999) v znení nariadenia Komisie (ES) č. 2724/2000 z 30. novembra 2000 (Ú. v. ES L 320, 18. 12. 2000) v znení nariadenia Komisie (ES) č. 1579/2001 z 1. augusta 2001 (Ú. v. ES L 209, 2. 8. 2001) v znení nariadenia Komisie (ES) č. 2476/2001 zo 17. decembra 2001 (Ú. v. ES L 334, 18. 12. 2001) v znení nariadenia Komisie (ES) č. 1497/2003 z 18. augusta 2003 (Ú. v. ES L 215, 27. 8. 2003) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Ú. v. ES L 284, 31. 10. 2003) v znení nariadenia Komisie (ES) č. 834/2004 z 28. apríla 2004 (Ú. v. ES L 127, 29. 4. 2004).
+
 - 18) § 8 ods. 2 zákona Národnej rady Slovenskej republiky č. 115/1995 Z. z. o ochrane zvierat.
 
 - 19) § 65 vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 121/1987 Zb. o zabezpečovaní zdravotnej nezávadnosti živočíšnych produktov.
 
 - 20) § 8 zákona č. 87/1987 Zb. o veterinárnej starostlivosti v znení zákona č. 239/1991 Zb. (úplné znenie č. 215/1992 Zb.).
+
+- 20a) § 33 a 34 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+
+- 20b) § 7 zákona č. 543/2002 Z. z.
 
 - 21) § 21 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách.
 
@@ -49,8 +55,6 @@
 - 23) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z.§ 83 až 93 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.).
 
 - 24) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
-
-- 25) § 36 zákona č. 455/1991 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z.§ 74 písm. c) a § 79 až 82 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.).
 
 - 26) § 2 ods. 2 Obchodného zákonníka v znení neskorších predpisov.Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
