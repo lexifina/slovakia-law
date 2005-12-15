@@ -388,77 +388,63 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 24
 
-  - a) Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
+  - a) | Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
 
-  - 1. podnikania a zamestnania ............................................................................................... | 5 000 Sk
+  - | 1. podnikania | 7 000 Sk
 
-  - 2. sezónneho zamestnania .................................................................................................. | 1 000 Sk
+  - | 2. zamestnania | 5 000 Sk
 
-  - 3. štúdia a činností podľa osobitných programov<sup>16a</sup>) .......................................................... | 3 000 Sk
+  - | 3. sezónneho zamestnania | 1 000 Sk
 
-  - 4. zlúčenia rodiny .................................................................................................................. | 4 000 Sk
+  - | 4. štúdia a činností podľa osobitných programov | 3 000 Sk
 
-  - 5. iný ....................................................................................................................................... | 5 000 Sk
+  - | 5. zlúčenia rodiny | 4 000 Sk
 
-  - b) Žiadosť o udelenie prvého povolenia na trvalý pobyt .......................................................... | 5 000 Sk
+  - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 2 000 Sk
 
-  - c) Žiadosť o obnovenie povolenia na prechodný pobyt cudzincovi na účel |
+  - b) | Žiadosť o udelenie prvého povolenia na trvalý pobyt | 5 000 Sk
 
-  - 1. podnikania a zamestnania ................................................................................................... | 3 000 Sk
+  - c) | Žiadosť o obnovenie povolenia na prechodný pobyt cudzincovi na účel |
 
-  - 2. sezónneho zamestnania ....................................................................................................... | 500 Sk
+  - | 1. podnikania | 4 000 Sk
 
-  - 3. štúdia a činností podľa osobitných programov<sup>16a</sup>) ............................................................... | 1 000 Sk
+  - | 2. zamestnania | 3 000 Sk
 
-  - 4. zlúčenia rodiny ........................................................................................................................ | 2 000 Sk
+  - | 3. sezónneho zamestnania | 500 Sk
 
-  - 5. iný ............................................................................................................................................ | 3 000 Sk
+  - | 4. štúdia a činností podľa osobitných programov | 1 000 Sk
 
-  - d) Žiadosť o udelenie povolenia na trvalý pobyt na neobmedzený čas ....................................... | 1 000 Sk
+  - | 5. zlúčenia rodiny | 2 000 Sk
 
-  - e) Žiadosť o registráciu štátneho príslušníka členského štátu Európskej únie na účel |
+  - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 1 000 Sk
 
-  - 1. vykonávania hospodárskej činnosti a zamestnania ................................................................... | 5 000 Sk
+  - d) | Žiadosť o udelenie povolenia na trvalý pobyt na neobmedzený čas | 5 000 Sk
 
-  - 2. štúdia, pedagogickej, výskumnej, vedeckej, umeleckej činnosti a účasti na odbornej praxi ............ | 3 000 Sk
+  - e) | Vydanie dokladu o pobyte | 50 Sk
 
-  - 3. zlúčenia rodiny ................................................................................................................................... | 4 000 Sk
+  - f) | Vydanie dokladu o pobyte ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad | 200 Sk
 
-  - f) Žiadosť o obnovenie registrácie na prechodný pobyt pre občanov členských štátov Európskej únie na účel |
+  - g) | Žiadosť o udelenie tolerovaného pobytu | 3 000 Sk
 
-  - 1. vykonávania hospodárskej činnosti a zamestnania ................................................................................... | 3 000 Sk
+  - h) | Žiadosť o predĺženie tolerovaného pobytu | 1 000 Sk
 
-  - 2. štúdia, pedagogickej, výskumnej, vedeckej, umeleckej činnosti a účasti na odbornej praxi ............. | 1 000 Sk
+  - i) | Potvrdenie o pobyte cudzinca na území Slovenskej republiky | 100 Sk
 
-  - 3. zlúčenia rodiny ..................................................................................................................................................... | 2 000 Sk
+  - j) | Vydanie cudzineckého pasu cudzincovi | 1 000 Sk
 
-  - g) Vydanie dokladu o povolení na pobyt ............................................................................................................... | 100 Sk
+  - k) | Vydanie cudzineckého pasu cudzincovi od 5 do 15 rokov | 400 Sk
 
-  - h) Vydanie dokladu o povolení na pobyt ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad ............ | 200 Sk
+  - l) | Vydanie cudzineckého pasu cudzincovi mladšiemu ako 5 rokov | 250 Sk
 
-  - i) Žiadosť o udelenie tolerovaného pobytu .......................................................................................................... | 3 000 Sk
-
-  - j) Žiadosť o predĺženie tolerovaného pobytu ....................................................................................................... | 1 000 Sk
-
-  - k) Potvrdenie o pobyte cudzinca na území Slovenskej republiky ..................................................................... | 100 Sk
-
-  - Oslobodenie 1. Od poplatkov podľa písmen a) až f), i) a j) tejto položky sú oslobodené osoby mladšie ako šestnásť rokov. 2. Od poplatkov podľa písmen a), c), e), f) tejto položky je oslobodené udelenie alebo obnovenie povolenia na pobyt štipendistov vlády Slovenskej republiky, ktorým bolo štipendium priznané. 3. Od poplatkov podľa písmen a), c), e), f) tejto položky je na základe vzájomnosti oslobodené udelenie alebo obnovenie povolenia na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorov cudzích jazykov prichádzajúcich na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 4. Od poplatku podľa písmen i) a j) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a) a b) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov. |
-
-  - Splnomocnenie 1. Správny orgán môže od vybratia poplatku podľa tejto položky upustiť alebo poplatok znížiť z humanitného dôvodu alebo z dôvodu vzájomnosti. 2. Správny orgán môže vybrať poplatok podľa písmena h) tejto položky až do výšky štvornásobku sadzby, ak sa vydáva doklad o povolení na pobyt pre cudzinca na území Slovenskej republiky po druhýkrát, prípadne viackrát do jedného roka od vydania predošlého dokladu. |
-
-    - Položka 25
-
-  - Udelenie víza Slovenskej republiky alebo jeho predĺženie cudzincovi s povoleným pobytom na území Slovenskej republiky ............................................................................................. | 1 000 Sk
-
-  - Oslobodenie Od poplatku podľa tejto položky je oslobodené udelenie víza a predĺženie víza Slovenskej republiky 1. do diplomatických a služobných pasov, osobám mladším ako 15 rokov a v ostatných prípadoch, ak je zachovaná vzájomnosť, 2. z dôvodu zdravotníckej, charitatívnej pomoci alebo kultúrnej výmeny. |
+  - Oslobodenie 1. Od poplatku podľa písmen a) a c) tejto položky sú oslobodené osoby, ktoré žiadajú zlúčenie rodiny s azylantom.<sup>16a</sup>) 2. Od poplatkov podľa písmen a) až d), g) a h) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 3. Od poplatkov podľa písmen a) a c) tejto položky je oslobodené udelenie alebo obnovenie povolenia na pobyt štipendistov vlády Slovenskej republiky, ktorým bolo štipendium priznané. 4. Od poplatkov podľa písmen a) a c) tejto položky je na základe vzájomnosti oslobodené udelenie alebo obnovenie povolenia na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 5. Od poplatku podľa písmen g) a h) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b) a d) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 6. Od poplatku podľa písmen j), k) a l) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b) a d) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov alebo ktorým má byť cudzinecký pas vydaný podľa § 47 ods. 2 písm. b) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 7. Od poplatku podľa písmen b) a d) tejto položky sú oslobodené osoby, ktorým bolo udelené povolenie na trvalý pobyt podľa § 35 písm. a) a § 45a až 45d zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. | |
 
     - Položka 26
 
-  - a) Udelenie víza Slovenskej republiky na hraničnom priechode ........................................................... | 4 000 Sk
+  - a) Udelenie víza Slovenskej republiky na hraničnom priechode | 4 000 Sk
 
-  - b) Udelenie víza Slovenskej republiky cudzincovi na hraničnom priechode v rámci organizovanej turistiky na pobyt kratší ako 24 hodín ................................................................................ | 2 000 Sk
+  - b) Zrušené od 15. 12. 2005. |
 
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky. |
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky. Od poplatku podľa tejto položky sú oslobodení aj rodinní príslušníci občana členského štátu Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore a Švajčiarskej konfederácie. |
 
   - Splnomocnenie Správny orgán môže v odôvodnených prípadoch a z dôvodov všeobecného záujmu alebo z humanitného dôvodu poplatok znížiť alebo upustiť od jeho vybratia; z dôvodu vzájomnosti môže poplatok zvýšiť alebo znížiť vo vzťahu k cudzincovi. |
 
@@ -3694,23 +3680,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 240
 
-  - a) Žiadosť o udelenie letiskového víza ................................................................................................... | 1 200 Sk
+  - a) Žiadosť o udelenie letiskového víza ................................................................ | 1 200 Sk
 
-  - b) Žiadosť o udelenie tranzitného víza na jeden vstup ....................................................................... | 1 200 Sk
+  - b) Žiadosť o udelenie tranzitného víza na jeden vstup .................................... | 1 200 Sk
 
-  - c) Žiadosť o udelenie tranzitného víza na dva vstupy .......................................................................... | 1 500 Sk
+  - c) Žiadosť o udelenie tranzitného víza na dva vstupy ....................................... | 1 500 Sk
 
-  - d) Žiadosť o udelenie tranzitného víza na viac vstupov ...................................................................... | 3 000 Sk
+  - d) Žiadosť o udelenie tranzitného víza na viac vstupov .................................... | 3 000 Sk
 
-  - e) Žiadosť o udelenie krátkodobého víza na jeden vstup ................................................................... | 1 200 Sk
+  - e) Žiadosť o udelenie krátkodobého víza na jeden vstup ................................. | 1 200 Sk
 
-  - f) Žiadosť o udelenie krátkodobého víza na viac vstupov ................................................................... | 3 000 Sk
+  - f) Žiadosť o udelenie krátkodobého víza na viac vstupov ................................. | 3 000 Sk
 
-  - g) Žiadosť o udelenie dlhodobého víza .................................................................................................. | 5 000 Sk
+  - g) Žiadosť o udelenie dlhodobého víza ................................................................ | 5 000 Sk
 
-  - h) Žiadosť o udelenie skupinového víza ................................................................................................ | 60 % príslušnej sadzby určenej podľa písmen a) až g)
+  - h) Žiadosť o udelenie skupinového víza .............................................................. | 60 % príslušnej sadzby určenej podľa písmen a) až g)
 
-  - Oslobodenie Od poplatku za udelenie víza sa oslobodzujú 1. držitelia diplomatických a služobných pasov, ak je zachovaná vzájomnosť, 2. osoby mladšie ako 15 rokov, 3. občania štátov, s ktorými Slovenská republika uzavrela dohody o bezplatnom udeľovaní víz, jednostranne zrušila vízové poplatky alebo na základe vzájomnosti, 4. novinári, ktorí sú akreditovaní v Slovenskej republike, na základe predloženia platného novinárskeho preukazu vydaného ministerstvom zahraničných vecí, 5. osoby, ktorým bolo priznané postavenie zahraničného Slováka. |
+  - Oslobodenie Od poplatku za udelenie víza sa oslobodzujú 1. držitelia diplomatických a služobných pasov, ak je zachovaná vzájomnosť, 2. osoby mladšie ako 15 rokov, 3. občania štátov, s ktorými Slovenská republika uzavrela dohody o bezplatnom udeľovaní víz, jednostranne zrušila vízové poplatky alebo na základe vzájomnosti, 4. novinári, ktorí sú akreditovaní v Slovenskej republike, na základe predloženia platného novinárskeho preukazu vydaného ministerstvom zahraničných vecí, 5. osoby, ktorým bolo priznané postavenie zahraničného Slováka,6. osoby, ktorým bolo udelené krátkodobé vízum na jeden vstup na účel prevzatia povolenia na pobyt. |
 
   - Splnomocnenie Správny orgán vyberie poplatky podľa tejto položky vo výške dvojnásobku príslušnej sadzby, ak ide o prednostné udelenie víza. |
 
@@ -3720,31 +3706,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 242
 
-  - a) Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
+  - a) | Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
 
-  - 1. podnikania a zamestnania ........................................................................................................................ | 5 000 Sk
+  - | 1. podnikania | 7 000 Sk
 
-  - 2. sezónneho zamestnania ........................................................................................................................... | 1 000 Sk
+  - | 2. zamestnania | 5 000 Sk
 
-  - 3. štúdia a činností podľa osobitných programov<sup>16a</sup>) .............................................................................. | 3 000 Sk
+  - | 3. sezónneho zamestnania | 1 000 Sk
 
-  - 4. zlúčenia rodiny ............................................................................................................................................. | 4 000 Sk
+  - | 4. štúdia a činností podľa osobitných programov | 3 000 Sk
 
-  - 5. iný ................................................................................................................................................................... | 5 000 Sk
+  - | 5. zlúčenia rodiny | 4 000 Sk
 
-  - b) Žiadosť o registráciu štátneho príslušníka členského štátu Európskej únie na účel |
+  - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 2 000 Sk
 
-  - 1. vykonávania hospodárskej činnosti a zamestnania ............................................................................. | 5 000 Sk
+  - b) | Žiadosť o udelenie prvého povolenia na trvalý pobyt | 5 000 Sk
 
-  - 2. štúdia, pedagogickej, výskumnej, vedeckej, umeleckej činnosti a účasti na odbornej praxi ....... | 3 000 Sk
-
-  - 3. zlúčenia rodiny .............................................................................................................................................. | 4 000 Sk
-
-  - c) Žiadosť o udelenie prvého povolenia na trvalý pobyt .............................................................................. | 5 000 Sk
-
-  - d) Vydanie dokladu o povolení na pobyt ........................................................................................................ | 100 Sk
-
-  - Oslobodenie 1. Od poplatku podľa písmen a) až c) tejto položky sú oslobodené osoby mladšie ako šestnásť rokov. 2. Od poplatku podľa písmen a) a b) tejto položky je oslobodené udelenie povolenia na prechodný pobyt štipendistom vlády Slovenskej republiky, ktorým bolo štipendium priznané. 3. Od poplatkov podľa písmen a) a b) tejto položky je na základe vzájomnosti oslobodené udelenie povolenia na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. |
+  - Oslobodenie 1. Od poplatku podľa písmen a) a b) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 2. Od poplatku podľa písmena a) tejto položky je oslobodené udelenie povolenia na pobyt štipendistom vlády Slovenskej republiky, ktorým bolo štipendium priznané. 3. Od poplatkov podľa písmena a) tejto položky je na základe vzájomnosti oslobodené povolenie na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. | |
 
     - Položka 243
 
