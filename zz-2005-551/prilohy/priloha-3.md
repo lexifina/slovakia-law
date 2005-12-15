@@ -1,0 +1,3 @@
+Príloha č. 3 k vyhláške č. 551/2005 Z. z.
+
+- OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V SLIAČI A V KOVÁČOVEJ ![Obrázok 03](../assets/d57b8ea6ed1ba44c623d142f0052991be5a04974a7d4565b7c67f0697a156a1c.png)
