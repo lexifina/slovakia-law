@@ -36,6 +36,8 @@
 
 - 12a) Príloha č. 1 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
+- 12b) § 116, 117 Občianskeho zákonníka.
+
 - 13) Nariadenie vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
 
 - 13a) § 54 ods. 1 písm. f) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
@@ -56,7 +58,7 @@
 
 - 13e) § 24 ods. 1 písm. a) až r) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
-- 13f) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+- 13f) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 13g) § 2 ods. 2 Obchodného zákonníka.
 
@@ -111,6 +113,8 @@
 - 23aa) § 151n Občianskeho zákonníka.
 
 - 23ab) § 154 až 220 Obchodného zákonníka.
+
+- Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
 - 23b) § 829 a nasl. Občianskeho zákonníka.
 
