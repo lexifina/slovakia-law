@@ -1,5 +1,0 @@
-Príloha č. 2 k vyhláške č. 113/2002 Z. z.
-
-- OCHRANNÉ PÁSMO II. A III. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V LIPTOVSKEJ OSADE
-
-- ![Obrázok 02-1](../assets/d63cbc67c3e237fd78c43015a5af5d13df5970b7e47b81a0936c6a2afe66d120.png)
