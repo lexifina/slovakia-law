@@ -1,67 +1,69 @@
 # § 45b
 
-(1) Policajný útvar udelí povolenie na trvalý pobyt cudzincovi, ktorý nie je občanom Európskeho hospodárskeho priestoru a je rodinným príslušníkom občana Európskeho hospodárskeho priestoru s trvalým pobytom (ďalej len „zvýhodnený cudzinec"), ak jeho pobyt neohrozuje bezpečnosť štátu alebo verejný poriadok.
+(1) Policajný útvar udelí prvé povolenie cudzincovi, ktorý nie je občanom Európskeho hospodárskeho priestoru a ktorý sa mieni zdržiavať na území Slovenskej republiky dlhšie ako tri mesiace, ak
+
+- a) je rodinným príslušníkom občana Európskeho hospodárskeho priestoru podľa § 45a ods. 1 (ďalej len „zvýhodnený cudzinec”) a
+
+- b) nie je záťažou pre systém zdravotného zabezpečenia a sociálneho zabezpečenia Slovenskej republiky.
 
 (2) Rodinný príslušník občana Európskeho hospodárskeho priestoru je
 
-- a) manžel,
+- a) manžel a jeho dieťa mladšie ako 21 rokov alebo jeho nezaopatrené dieťa,<sup>11</sup>)
 
-- b) príbuzný v priamom rade, ktorý je od neho závislý,
+- b) dieťa mladšie ako 21 rokov alebo nezaopatrené dieťa,<sup>11</sup>)
 
-- c) príbuzný manžela v priamom rade, ktorý je od neho závislý.
+- c) príbuzný v priamom rade, ktorý je od neho závislý,
 
-(3) Žiadosť o udelenie povolenia na trvalý pobyt podáva zvýhodnený cudzinec osobne na zastupiteľskom úrade podľa § 24 ods. 1 alebo osobne na policajnom útvare. Pri podávaní žiadosti o udelenie povolenia na trvalý pobyt je zvýhodnený cudzinec povinný predložiť cestovný doklad. Ak zvýhodnený cudzinec nepredloží cestovný doklad, zastupiteľský úrad alebo policajný útvar neprijme žiadosť o udelenie povolenia na trvalý pobyt.
+- d) príbuzný manžela v priamom rade, ktorý je od neho závislý,
 
-(4) K žiadosti podľa odseku 3 zvýhodnený cudzinec priloží
+- e) iný rodinný príslušník, ktorý je od neho závislý, alebo člen jeho domácnosti.
+
+(3) K žiadosti o udelenie prvého povolenia je zvýhodnený cudzinec povinný predložiť cestovný doklad; ak cestovný doklad k žiadosti nepredloží, policajný útvar žiadosť o udelenie prvého povolenia neprijme. K žiadosti o udelenie prvého povolenia zvýhodnený cudzinec priloží
 
 - a) tri fotografie podľa § 25 ods. 2,
 
-- b) doklad potvrdzujúci, že je rodinným príslušníkom občana Európskeho hospodárskeho priestoru,
+- b) doklad potvrdzujúci, že je rodinným príslušníkom občana Európskeho hospodárskeho priestoru s pobytom na území Slovenskej republiky,
 
-- c) doklad alebo čestné vyhlásenie s odôvodnením potvrdzujúce, že je závislým príbuzným; to neplatí, ak ide o manžela alebo dieťa mladšie ako 21 rokov,
+- c) doklad alebo čestné vyhlásenie s odôvodnením potvrdzujúce, že je závislým príbuzným alebo členom domácnosti; to neplatí, ak ide o rodinných príslušníkov podľa odseku 2 písm. a) a b),
 
-- d) doklad potvrdzujúci zabezpečenie ubytovania,
+- d) čestné vyhlásenie o tom, že nebude záťažou pre systém zdravotného zabezpečenia a sociálneho zabezpečenia Slovenskej republiky.
 
-- e) doklad o zdravotnom poistení na území Slovenskej republiky,
+(4) Policajný útvar vydá žiadateľovi v deň podania žiadosti o udelenie prvého povolenia potvrdenie o jej prijatí.
 
-- f) čestné vyhlásenie o tom, že nebude záťažou pre systém sociálneho zabezpečenia Slovenskej republiky.
+(5) Policajný útvar žiadosť o udelenie prvého povolenia zvýhodneného cudzinca zamietne, ak
 
-(5) Zastupiteľský úrad alebo policajný útvar môže vyžiadať od zvýhodneného cudzinca doklad nie starší ako 30 dní potvrdzujúci skutočnosť, že netrpí nákazlivou chorobou, ktorej šírenie je trestné,<sup>12</sup>)a doklad nie starší ako 90 dní potvrdzujúci bezúhonnosť.
+- a) nie sú splnené podmienky podľa odseku 1,
 
-(6) Ak žiadosť o udelenie povolenia na trvalý pobyt neobsahuje náležitosti podľa odsekov 4 a 5, orgán, ktorý žiadosť prijal, vyzve žiadateľa, aby v určenej lehote nedostatky odstránil; súčasne ho poučí o následkoch neodstránenia nedostatkov. Ak žiadateľ v určenej lehote nedostatky neodstráni, policajný útvar konanie zastaví.
+- b) je dôvodné podozrenie, že počas svojho pobytu ohrozí bezpečnosť štátu alebo závažným spôsobom verejný poriadok, alebo verejné zdravie, alebo
 
-(7) Policajný útvar rozhodne o žiadosti o udelenie povolenia na trvalý pobyt zvýhodneného cudzinca do 30 dní od doručenia žiadosti policajnému útvaru.
+- c) je žiadateľ nežiaducou osobou alebo je dôvodné podozrenie, že zvýhodnený cudzinec uzavrel manželstvo s cieľom získať povolenie na pobyt.
 
-(8) Policajný útvar žiadosť o udelenie povolenia na trvalý pobyt zvýhodneného cudzinca zamietne, ak
+(6) Právo na prvé povolenie má zvýhodnený cudzinec zachované aj vtedy, ak je zamestnaný alebo podniká, alebo má finančné prostriedky na zabezpečenie pobytu, aby sa nestal záťažou pre systém sociálneho zabezpečenia Slovenskej republiky, a zdravotné poistenie a ak
 
-- a) je nežiaducou osobou,
+- a) jeho pobyt trval najmenej jeden rok pred úmrtím občana Európskeho hospodárskeho priestoru,
 
-- b) je dôvodné podozrenie, že pri svojom pobyte ohrozí bezpečnosť štátu, verejný poriadok alebo verejné zdravie,
+- b) zaniklo jeho manželstvo,
 
-- c) možno predpokladať, že bude záťažou pre systém sociálneho zabezpečenia Slovenskej republiky,
+  - 1. ktoré trvalo najmenej tri roky a jeho pobyt trval najmenej jeden rok,
 
-- d) je dôvodné podozrenie, že uzavrel manželstvo s cieľom získať povolenie na trvalý pobyt.
+  - 2. z ktorého nezaopatrené dieťa bolo na základe rozhodnutia príslušného orgánu zverené do jeho starostlivosti,
 
-(9) Povolenie na trvalý pobyt zvýhodneného cudzinca zanikne, ak
+  - 3. z dôvodov hodných osobitného zreteľa alebo
 
-- a) písomne oznámi skončenie trvalého pobytu policajnému útvaru,
+  - 4. a zvýhodnený cudzinec na základe rozhodnutia príslušného orgánu má právo stretávať sa na území Slovenskej republiky s nezaopatreným dieťaťom po dobu určenú týmto orgánom alebo
 
-- e) mu bol uložený trest vyhostenia,<sup>2</sup>)
+- c) študuje a občan Európskeho hospodárskeho priestoru, ktorý je jeho rodičom, zomrel alebo skončil pobyt na území Slovenskej republiky; právo na prvé povolenie je zachované aj pre rodiča študenta, ktorý má dieťa v osobnej starostlivosti, pričom toto právo je zachované až do ukončenia štúdia.
 
-- f) bol administratívne vyhostený,
+(7) Prvé povolenie zvýhodnenému cudzincovi zanikne z dôvodu uvedeného v § 45a ods. 4 alebo ak mu policajný útvar zrušil prvé povolenie.
 
-- g) nadobudol štátne občianstvo Slovenskej republiky alebo
+(8) Policajný útvar zruší prvé povolenie zvýhodnenému cudzincovi, ak
 
-- h) mu policajný útvar zrušil povolenie na trvalý pobyt.
+- a) zanikne pobyt občana Európskeho hospodárskeho priestoru podľa § 45a ods. 4 písm. a) a b), ktorého je zvýhodnený cudzinec rodinným príslušníkom,
 
-(10) Policajný útvar povolenie na trvalý pobyt zvýhodneného cudzinca zruší, ak
+- b) zistí skutočnosti, ktoré sú dôvodom na zamietnutie žiadosti o udelenie prvého povolenia; to neplatí, ak ide o ohrozenie verejného zdravia, alebo
 
-- a) zanikne trvalý pobyt občanovi Európskeho hospodárskeho priestoru, ktorého je zvýhodnený cudzinec rodinným príslušníkom; to neplatí, ak ide o zánik podľa § 45a ods. 2 písm. d),
+- c) zistí, že uzavrel manželstvo s cieľom získať prvé povolenie.
 
-- b) zistí skutočnosti, ktoré sú dôvodom na zamietnutie žiadosti o udelenie povolenia na trvalý pobyt,
+(9) Ustanovenie odseku 7 neplatí, ak by dôsledky zrušenia prvého povolenia boli neprimerané dôvodu zrušenia prvého povolenia najmä s ohľadom na súkromný a rodinný život cudzinca.
 
-- c) zistí, že uzavrel manželstvo s cieľom získať povolenie na trvalý pobyt alebo
-
-- d) zanikol príbuzenský vzťah do piatich rokov od udelenia povolenia na trvalý pobyt.
-
-(11) Policajný útvar nezruší povolenie na trvalý pobyt zvýhodneného cudzinca, ak by dôsledky zrušenia povolenia boli neprimerané dôvodu zrušenia povolenia na trvalý pobyt, najmä s ohľadom na súkromný a rodinný život zvýhodneného cudzinca.
+(10) Ak sa žiadosti o udelenie prvého povolenia vyhovie, rozhodnutie sa nevydáva.

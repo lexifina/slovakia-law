@@ -1,4 +1,4 @@
-- 1) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+- 1) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 57 Trestného zákona v znení neskorších predpisov.
 
@@ -24,11 +24,15 @@
 
 - 10) Napríklad Zákonník práce.
 
-- 11) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 10a) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10b) § 22 ods. 7 zákona č. 5/2004 Z. z. v znení zákona č. 82/2005 Z. z.
+
+- 11) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
 - 11a) Článok 1 bod 1 písm. c) Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z. ).
 
-- 12) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 105/1987 Zb., ktorou sa určuje, ktoré choroby sa považujú za nákazlivé v zmysle Trestného zákona.
+- 11b) § 22 ods. 5 zákona č. 5/2004 Z. z. v znení zákona č. 1/2005 Z. z.
 
 - 12a) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
@@ -42,21 +46,39 @@
 
 - 17) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
 
+- 17a) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 17b) § 67 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 18) Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov.
 
 - 19) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
+
+- 19a) § 7 ods. 1 zákona č. 477/2003 Z. z. o ochrane štátnej hranice.
 
 - 20) § 2 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
 - 21) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
 
+- 21a) Dohovor o právach dieťaťa (oznámenie č. 104/1991 Zb.).
+
 - 22) § 41 ods. 2 Trestného zákona v znení zákona č. 175/1990 Zb.
 
 - 23) § 116 Občianskeho zákonníka.
 
+- 23a) Nariadenie Rady (ES) č. 343/2003 z 18. februára 2003 ustanovujúce kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o azyl podanej v členskom štáte príslušníkom tretej krajiny (Ú. v. EÚ L 050, 25. 2. 2003).
+
+- Nariadenie Komisie (ES) č. 1560/2003 z 2. septembra 2003, ktorým sa ustanovujú podrobné pravidlá na uplatňovanie nariadenia Rady (ES) č. 343/2003 ustanovujúce kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o azyl podanej v členskom štáte príslušníkom tretej krajiny (Ú. v. EÚ L 222, 5. 9. 2003).
+
+- 23b) Dohoda medzi vládou Slovenskej republiky a vládou Ukrajiny o odovzdávaní a prijímaní osôb cez spoločné štátne hranice (oznámenie č. 116/1994 Z. z.).
+
 - 24) § 250l Občianskeho súdneho poriadku v znení zákona č. 519/1991 Zb.
 
 - 25) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+
+- 25a) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
+
+- 25b) § 321 ods. 3 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 
 - 26) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
