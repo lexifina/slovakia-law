@@ -1,4 +1,4 @@
-Príloha k zákonu č. 150/2001 Z. z.
+Príloha č. 1 k zákonu č. 150/2001 Z. z.
 
 - OBVODY V PÔSOBNOSTI DAŇOVÝCH ÚRADOV V SLOVENSKEJ REPUBLIKE
 
