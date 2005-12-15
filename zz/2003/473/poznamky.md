@@ -16,6 +16,10 @@
 
 - 9) § 34 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
+- 9a) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 9b) Napríklad Nariadenie Rady č. 1883/78 z 2. augusta 1978, ktorým sa ustanovujú všeobecné pravidlá pre financovanie intervencií Záručnou sekciou Európskeho poľnohospodárskeho usmerňovacieho a záručného fondu (Ú. v. ES L 216, 5. 8. 1978) v platnom znení, Nariadenie Komisie (ES) č. 1843/2003 zo 17. októbra 2003 stanovujúce koeficienty zníženia hodnoty, ktoré sa majú uplatňovať pri nákupe poľnohospodárskych produktov na rozpočtový rok 2004 (Ú. v. EÚ L 268, 18. 10. 2003).
+
 - 10) § 31 zákona č. 540/2001 Z. z.
 
 - 11) § 27 zákona č. 540/2001 Z. z.
