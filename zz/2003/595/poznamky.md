@@ -1,6 +1,12 @@
 - 1) Zákon č. 431/2002 Z. z. o účtovníctve.
 
+- 1a) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
+
+- 2a) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) Napríklad zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov, zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov, zákon č. 105/2002 Z. z. o poskytnutí jednorazového finančného príspevku príslušníkom československých zahraničných alebo spojeneckých armád, ako aj domáceho odboja v rokoch 1939 - 1945 v znení neskorších predpisov, zákon č. 462/2002 Z. z. o poskytnutí jednorazového príspevku politickým väzňom v znení zákona č. 665/2002 Z. z.
 
@@ -57,6 +63,8 @@
 - 28) Napríklad zákon č. 328/1991 Zb. v znení neskorších predpisov, § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 29) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+
+- 29a) Napríklad zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení zákona č. 747/2004 Z. z., zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
 - 30) § 476 až 488 Obchodného zákonníka.
 
@@ -126,6 +134,8 @@
 
 - 59) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
+- 59a) § 18 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+
 - 60) § 149 až 151 Občianskeho zákonníka.
 
 - 61) § 137 až 142 Občianskeho zákonníka.
@@ -160,7 +170,9 @@
 
 - 76) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 77) § 18 ods. 1 zákona č. 431/2002 Z. z.
+- 77) § 18 ods. 1 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 77a) § 17a zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
 - 78) § 21a zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení zákona č. 511/2002 Z. z.
 
@@ -260,6 +272,8 @@
 
 - 116) § 659 Občianskeho zákonníka.
 
+- 116a) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
+
 - 117) § 833 Občianskeho zákonníka.
 
 - 118) § 25 ods. 4 zákona č. 431/2002 Z. z.
@@ -274,7 +288,7 @@
 
 - 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
-- 122a) § 39 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 122a) Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).
 
 - 123) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -341,3 +355,5 @@
 - 148) Zákon č. 385/2000 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 154/2001 Z. z. v znení zákona č. 669/2002 Z. z.
+
+- 149) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.

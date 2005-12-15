@@ -36,7 +36,7 @@ Príloha č. 1 k zákonu č. 595/2003 Z. z.
 
 - 1 - 16 | 29.32.65 | Stroje a prístroje pre poľnohospodárstvo, záhradníctvo, lesníctvo, hydinárstvo a včelárstvo inde nezaradené
 
-- 1-17 | 29.40.5 | Ručné náradie pneumatické alebo so vstavaným motorom
+- 1-17 | 29.41.1 | Ručné náradie pneumatické alebo so vstavaným motorom
 
 - 1 - 18 | 30.0 | Kancelárske stroje a počítače
 
@@ -136,15 +136,15 @@ Príloha č. 1 k zákonu č. 595/2003 Z. z.
 
 - 2-27 | 29.32 | Ostatné stroje pre poľnohospodárstvo a lesníctvo okrem:
 
-- | | - 29.32. 14 - Rozmetávače hnoja a umelých hnojív
+- | | - 29.32.14 - Rozmetávače hnoja a umelých hnojív
 
-- | | - 29.32. 4 - Mechanické prístroje na striekanie, rozstrekovanie, alebo rozprašovanie kvapalín alebo práškov pre poľnohospodárstvo alebo záhradníctvo
+- | | - 29.32.4 - Mechanické prístroje na striekanie, rozstrekovanie, alebo rozprašovanie kvapalín alebo práškov pre poľnohospodárstvo alebo záhradníctvo
 
 - | | - 29.32.5 - Samonakladacie alebo samovýklopné prívesy a návesy na poľnohospodárske účely
 
 - | | - 29.32.65 - Stroje a prístroje pre poľnohospodárstvo, záhradníctvo, lesníctvo, hydinárstvo a včelárstvo
 
-- 2-28 | 29.4 | Obrábacie stroje okrem 29.40.5 - ručné náradie pneumatické alebo so vstavaným motorom
+- 2-28 | 29.4 | Obrábacie stroje okrem 29.41.1 - ručné náradie pneumatické alebo so vstavaným motorom
 
 - 2-29 | 29.52.1 | Stroje na hlbinnú ťažbu
 
@@ -286,7 +286,7 @@ Príloha č. 1 k zákonu č. 595/2003 Z. z.
 
 - 3-25 | 35.20 | Železničné a električkové lokomotívy, vozňový park a ich súčasti okrem:
 
-- | | -35.20.33- Vozidlá koľajové banské a lokálky (železnice osobitného určenia)
+- | | -35.20.33 - Vozidlá koľajové banské a lokálky (železnice osobitného určenia)
 
 - 3-26 | | Pestovateľské celky trvalých porastov s časom plodnosti dlhším ako tri roky
 
