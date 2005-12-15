@@ -6,6 +6,8 @@
 
 - 1b) § 92 ods. 2 Občianskeho súdneho poriadku.
 
+- 1ba) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
+
 - 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
 - 1ca) § 14 až 17 Občianskeho súdneho poriadku.
