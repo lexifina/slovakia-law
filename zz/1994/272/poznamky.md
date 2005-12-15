@@ -42,10 +42,6 @@
 
 - 6an) § 3 ods. 1 písm. g) a i) zákona č. 163/2001 Z. z.
 
-- 6ao) § 2 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 6ap) § 2 písm. d) zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
-
 - 6b) Vyhláška Ministerstva vnútra Slovenskej republiky č. 173/1995 Z. z. o zabezpečovaní záchranných, lokalizačných a likvidačných prác v znení vyhlášky Ministerstva vnútra Slovenskej republiky č. 383/1998 Z. z.
 
 - 6c) Zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 264/1999 Z. z.
