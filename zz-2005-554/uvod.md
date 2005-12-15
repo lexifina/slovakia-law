@@ -1,0 +1,11 @@
+## 554
+
+VYHLÁŠKA
+
+Ministerstva zdravotníctva Slovenskej republiky
+
+z 25. novembra 2005,
+
+## ktorou sa vyhlasujú ochranné pásma zdrojov prírodných minerálnych vôd v Čeríne, časti Čačín
+
+Ministerstvo zdravotníctva Slovenskej republiky podľa § 65 ods. 14 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov ustanovuje:
