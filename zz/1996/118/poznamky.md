@@ -64,7 +64,7 @@
 
 - 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 a 4 a § 163 ods. 1 a 6 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 3 ods. 11 a 12, § 4 ods. 4 až 8, § 75 až 80 a § 81 ods. 2 zákona č. 594/2003 Z. z., § 4 ods. 5 a 6 a § 11 ods. 5 a 6 zákona č. 95/2002 Z. z., § 30 zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z. v znení zákona č. 409/2000 Z. z.
 
-- 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 19 zákona č. 431/2002 Z. z. o účtovníctve.
+- 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 3 a 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 5n) Napríklad zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
