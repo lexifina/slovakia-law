@@ -120,6 +120,12 @@ Príloha č. 3 k vyhláške č. 704/2002 Z. z.
 
       - Pri hmotnostnom toku vyššom ako 50 g.h<sup>-1</sup> nesmie celková koncentrácia látok 3. podskupiny v odpadovom plyne prekročiť hodnotu 5 mg.m<sup>-3.</sup>
 
+    - 2.4 Emisné limity pre ťažké kovy pri osobitných podmienkach
+
+    - 2.4.1 Ak sú pri odvádzaní odpadových plynov fyzikálne podmienky (tlak, teplota), pri ktorých sa látky môžu vyskytovať aj v kvapalnom skupenstve alebo plynnom skupenstve, musí byť hmotnostná koncentrácia alebo hmotnostný tok uvedený v bodoch 2.1 až 2.3 dodržaný pre súčet tuhých, kvapalných a plynných emisií.
+
+    - 2.4.2 Emisné limity podľa bodu 2.4.1 platia pre zdroje, pre ktoré začalo konanie o vydanie súhlasu na povolenie stavby od 1. januára 2006. Pre zdroje, pre ktoré začalo konanie na povolenie stavby do 31. decembra 2005, platia emisné limity podľa bodu 2.4.1 od 1. januára 2011.
+
     - 3. EMISNÉ LIMITY PRE PLYNNÉ ANORGANICKÉ ZNEČISŤUJÚCE LÁTKY
 
     - (3. skupina)

@@ -17,3 +17,5 @@
 - 6) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 284/2001 Z. z., ktorou sa ustanovuje Katalóg odpadov v znení vyhlášky č. 409/2002 Z. z.
 
 - 7) Napríklad zákon č. 223/2001 Z. z.
+
+- 1) Napríklad STN EN 12391-1 Komíny. Základné ustanovenia pre kovové komíny. Časť 1: Komíny pre otvorené spotrebiče. STN EN 12391-2 Komíny. Základné ustanovenia pre kovové komíny. Časť 2: Komíny pre tlakové spotrebiče.

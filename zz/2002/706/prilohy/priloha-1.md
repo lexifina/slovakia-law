@@ -284,30 +284,16 @@ Príloha č. 1 k vyhláške č. 706/2002 Z. z.
 
       - N-metylpyrolidón
 
-      - olefíny okrem 1,3-butadiénu (karcinogén)
+      - alkény okrem 1,3-butadiénu (karcinogén)
 
-      - cykloolefíny
+      - cykloalkény
 
-      - parafíny okrem metánu
+      - alkány okrem metánu
 
-      - cykloparafíny
+      - cykloalkány
 
       - Pre jestvujúce zdroje
 
         - a) sú cyklohexylamín a cyklohexanón zaradené medzi znečisťujúce látky s platnosťou od 1. januára 2005,
 
         - b) do 31. decembra 2004 je furfural zaradený do 2. podskupiny a bifenyl je zaradený do 3. podskupiny 4. skupiny znečisťujúcich látok.
-
-  - III. PLYNNÉ LÁTKY SPÔSOBUJÚCE SKLENÍKOVÝ EFEKT
-
-  - oxid uhličitý
-
-  - metán
-
-  - oxid dusný
-
-  - fluórované uhľovodíky
-
-  - plnofluórované uhľovodíky
-
-  - fluorid sírový

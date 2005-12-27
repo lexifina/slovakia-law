@@ -32,15 +32,15 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - | - valcovne s projektovanou výrobou surovej ocele v t za hodinu | > 20 | >0
 
-- | - kováčovne s kladivami s projektovaným výkonom v kJ na jedno | > 50 | ≥ 1
+- | – kováčske dielne s kladivami s energiou väčšou ako 50 kJ | > 50 | ≥ 1
 
-- | kladivo a súčasne s projektovanou spotrebou tepelnej energie v MW, | > 20 | ≥ 1
+- | na jedno kladivo, kde spotreba tepelnej energie je väčšia ako 20 MW | > 20 | ≥ 1
 
 - | - lisovne a tepelné spracovanie neželezných kovov s projektovanou výrobou v t za hodinu | - | ≥ 1
 
 - 2.6 | Úprava rúd neželezných kovov a manipulácia s týmito materiálmi v práškovom stave | > 0 | -
 
-- 2.7 | Výroba neželezných kovov a ich zliatin z rúd, koncentrátov alebo druhotných surovín metalurgickým, chemickým alebo elektrolytickým procesom | >2,5 | >0
+- 2.7 | Výroba neželezných kovov a ich zliatin navzájom a s železnými kovmi (ferozliatiny) z rúd, koncentrátov alebo druhotných surovín metalurgickým, chemickým alebo elektrolytickým procesom | > 0 | -
 
 - 2.8 | Tavenie neželezných kovov vrátane zlievania zliatin, pretavovania a rafinácie kovového šrotu s projektovanou taviacou kapacitou v t za deň | |
 
@@ -52,11 +52,11 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - | Povrchové úpravy | |
 
-- | - pri použití elektrolytických postupov s objemom kúpeľov v m<sup>3</sup> | > 30 | > 1
+- | - pri použití elektrolytických postupov s projektovaným objemom kúpeľov v m<sup>3</sup> | > 30 | > 1
 
-- | - pri použití chemických postupov s objemom kúpeľov v m<sup>3</sup> | > 100 | ≥ 3
+- | - pri použití chemických postupov s projektovaným objemom kúpeľov v m<sup>3</sup> | > 100 | ≥ 3
 
-- | - nanášanie kovových alebo zliatinových vrstiev a povlakov kovov a ich zliatin okrem surovej ocele v tavenine s projektovanou kapacitou v kg za hodinu | > 1 000 | ≥ 10
+- | - nanášanie kovových alebo zliatinových vrstiev a povlakov kovov a ich zliatin okrem surovej ocele v tavenine s projektovanou kapacitou nanášania v kg za hodinu | > 1 000 | ≥ 10
 
 - | - nanášanie kovových alebo zliatinových vrstiev a povlakov kovov a ich zliatin okrem surovej ocele plameňovým, elektrooblúkovým, plazmovým a iným striekaním s projektovanou kapacitou nanášania v kg za hodinu | > 20 | ≥ 2
 
@@ -100,13 +100,11 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - 3.7 | Výroba skla, sklárskych výrobkov a sklených vlákien s projektovanou kapacitou tavenia v t za deň | > 20 | ≥ 0,5
 
-- 3.8 | Výroba keramických výrobkov pálením najmä škridiel, tehál, obkladačiek, porcelánu, keramiky, kameniny a žiaruvzdorných materiálov podľa | |
+- 3.8 | Výroba keramických výrobkov pálením, najmä škridiel, tehál, obkladačiek, porcelánu, keramiky, kameniny a žiaruvzdorných materiálov podľa | |
 
 - | - projektovanej výrobnej kapacity v t za deň | > 75 | ≥ 1
 
-- | - menovitej kapacity taviacich pecí v m<sup>3</sup> pri hustote vsádzky nad 300 kg/m<sup>3</sup> | > 4 | ≥ 0,l
-
-- | - objemu vypáľovacieho zariadenia okrem diskontinuálnych elektrických pecí v m<sup>3</sup> | > 3 | > 0,5
+- | - objemovej kapacity pecí v m<sup>3</sup>pri hustote vsádzky nad 300 kg/m<sup>3</sup> | > 4 | >0,5
 
 - 3.9 | Výroba ľahčených nekovových minerálnych produktov s projektovanou výrobnou kapacitou v m<sup>3</sup> za deň | >20 | >0
 
@@ -124,13 +122,13 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - 4.1 | Ťažba ropy a súvisiaca doprava a skladovanie | > 0 | -
 
-- 4.2 | Ťažba zemného plynu naftového a súvisiaca doprava a skladovanie | > 0 | -
+- 4.2 | Ťažba a skladovanie zemného plynu naftového Potrubná preprava a distribúcia zemného plynu naftového sa nepovažuje za zdroj znečisťovania ovzdušia. | > 0 | -
 
 - 4.3 | Rafinérie ropy | > 0 | -
 
 - 4.4 | Petrochemické spracovanie ropy | > 0 | -
 
-- 4.5 | Distribučné sklady a prečerpávacie zariadenia palív, mastív, petrochemických výrobkov a iných organických kvapalín podľa | |
+- 4.5 | Distribučné sklady a prečerpávacie zariadenia palív, mastív, petrochemických výrobkov a iných organických kvapalín okrem skvapalnených uhľovodíkových plynov a stlačeného zemného plynu naftového podľa | |
 
 - | - nainštalovaného súhrnného objemu skladovania v m<sup>3</sup> | ≥ 1 000 | >0
 
@@ -238,7 +236,7 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - 4.39 | Výroba, regenerácia a zneškodňovanie akumulátorov a monočlánkov | - | > 0
 
-- 4.40 | Čerpacie stanice pohonných látok okrem skvapalnených uhľovodíkových plynov podľa projektovaného alebo skutočného ročného obratu v m<sup>3</sup> za rok (ktorý je väčší) | - | ≥ 100
+- 4.40 | Čerpacie stanice pohonných látok okrem skvapalnených uhľovodíkových plynov a stlačeného zemného plynu naftového podľa projektovaného alebo skutočného ročného obratu v m<sup>3</sup> za rok (ktorý je väčší) | - | ≥ 100
 
 - 4.99 | Ostatné organické a anorganické chemické výroby - členenie podľa bodu 2.99 | |
 
@@ -270,7 +268,7 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - 6 | OSTATNÝ PRIEMYSEL A ZARIADENIA | |
 
-- 6.1 | Lakovanie v priemysle výroby automobilov a iné obdobné sériové (strojové) lakovanie kovov s projektovanou spotrebou organických rozpúšťadiel v t za rok | > 15 |
+- 6.1 | Lakovanie v priemysle výroby automobilov s projektovanou spotrebou organických rozpúšťadiel v t za rok | > 15 |
 
 - 6.2 | Opravy náterov, prestriekavanie áut, nanášanie náterov na veľkorozmerné výrobky (napr. autobusy, nákladné vozidlá, koľajové vozidlá, lode) s projektovanou spotrebou organických rozpúšťadiel v t za rok | > 15 | > 0,5
 
@@ -284,7 +282,7 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - 6.4 | Odmasťovanie a čistenie povrchov kovov, elektrosúčiastok a iných materiálov vrátane odstraňovania starých náterov (povlakov) organickými rozpúšťadlami s projektovanou spotrebou v t za rok: | |
 
-- | - rozpúšťadlá klasifikované ako látky s karcinogénnymi, mutagénnymi a teratogénnymi účinkami (označené ako R45, R46, R49, R60, R61) | > 1 | >0
+- | - rozpúšťadlá klasifikované ako látky s karcinogénnymi, mutagénnymi a teratogénnymi účinkami (označené ako R45, R46, R49, R60, R61) a halogenované rozpúšťadlá označené ako R40 | > 1 | >0
 
 - | - ostatné organické rozpúšťadla | > 2 | ≥ 0,6
 
@@ -384,7 +382,7 @@ Príloha č. 2 k vyhláške č. 706/2002 Z. z.
 
 - 2. Technológia, pre ktorú je prahová kapacita vyjadrená viacerými veličinami, je kategorizovaná ako veľký zdroj, ak sa kapacita najmenej jednej časti rovná prahovej kapacite alebo je vyššia, ak v tabuľke nie je uvedené inak. Ak kapacita žiadnej časti nezodpovedá prahovej kapacite pre veľký zdroj, technológia je kategorizovaná ako stredný zdroj; ak kapacita žiadnej časti nezodpovedá ani prahovej kapacite pre stredný zdroj, technológia je kategorizovaná ako malý zdroj.
 
-- 3. Technológia, ktorá je kategorizovaná ako veľký zdroj, sa označuje príslušným číslom kategórie s doplnením čísla 1 za bodkou. Technológia, ktorá je kategorizovaná ako stredný zdroj, sa označuje príslušným číslom kategórie s doplnením čísla 2 za bodkou.
+- 3. Technológia, ktorá je kategorizovaná ako veľký zdroj znečisťovania ovzdušia, sa označuje príslušným číslom kategórie, za ktoré sa doplní bodka a za ňu sa doplní číslo 1. Technológia, ktorá je kategorizovaná ako stredný zdroj znečisťovania ovzdušia, sa označuje príslušným číslom kategórie, za ktoré sa doplní bodka a za ňu sa doplní číslo 2.
 
 - 4. Technológia, ktorá nie je v kategorizácii uvedená, je kategorizovaná ako veľký zdroj, stredný zdroj alebo malý zdroj podľa prahových kapacít, ktoré sú uvedené v bode 2.99; označuje sa príslušným číslom skupiny kategórie s doplnením čísla 1 alebo 2 za číslom 99. Ak zaradenie do kategórie 2.99 až 5.99 podľa technického princípu alebo účelu technológie nie je zrejmé, zaraďuje sa medzi ostatné technológie a výroby a označí sa číslom 6.99.1 alebo 6.99.2.
 
