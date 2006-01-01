@@ -6,7 +6,7 @@ Príloha č. 11 k vyhláške č. 169/2002 Z. z.
 
 - b) orgány štátnej správy na úseku ochrany pred požiarmi,
 
-- c) zabezpečovanie ochrany pred požiarmi u právnických osôb a podnikajúcich fyzických osôb,
+- c) zabezpečovanie ochrany pred požiarmi u právnických osôb a fyzických osôb-podnikateľov,
 
 - d) zabezpečovanie ochrany pred požiarmi v obciach,
 

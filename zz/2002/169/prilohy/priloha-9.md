@@ -208,7 +208,7 @@ Príloha č. 9 k vyhláške č. 169/2002 Z. z.
 
 - 8. Príčiny vzniku požiarov a výbuchov v technologických procesoch a ochrana technologických zariadení
 
-- 9. Preventívne opatrenia v objektoch právnických osôb a podnikajúcich fyzických osôb v poľnohospodárskych objektoch
+- 9. Preventívne opatrenia v objektoch právnických osôb a fyzických osôb-podnikateľov v poľnohospodárskych objektoch
 
 - X. Poradová príprava
 

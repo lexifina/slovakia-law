@@ -8,11 +8,11 @@ Príloha č. 10 k vyhláške č. 169/2002 Z. z.
 
 - c) štátny požiarny dozor,
 
-- d) zabezpečovanie ochrany pred požiarmi u právnických osôb a podnikajúcich fyzických osôb,
+- d) zabezpečovanie ochrany pred požiarmi u právnických osôb a fyzických osôb-podnikateľov,
 
 - e) zabezpečovanie ochrany pred požiarmi v obciach,
 
-- f) postih právnických osôb a podnikajúcich fyzických osôb za porušovanie predpisov o ochrane pred požiarmi,
+- f) postih právnických osôb a fyzických osôb-podnikateľov za porušovanie predpisov o ochrane pred požiarmi,
 
 - g) Hasičský a záchranný zbor,
 

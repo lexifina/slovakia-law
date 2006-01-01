@@ -1,6 +1,6 @@
 Príloha č. 1 k vyhláške č. 169/2002 Z. z.
 
-- POSTUP PRI SPRACÚVANÍ ANALÝZY A JEJ OBSAH 1. Pri analýze sa spracúva jeden objekt právnickej osoby alebo podnikajúcej fyzickej osoby, ktorý spĺňa podmienky uvedené v bode 2, alebo súbor objektov, ktoré sú navzájom spojené technologickým zariadením. Pri vypracúvaní analýzy sa predpokladá, že v prípade právnickej osoby alebo podnikajúcej fyzickej osoby nemôže súčasne vzniknúť viac ako jeden požiar a stavy zamestnancov alebo členov hasičskej jednotky a hasičská technika, ktoré sa vzťahujú na určený objekt, postačujú aj na zdolanie požiaru v každom ďalšom objekte právnickej osoby alebo podnikajúcej fyzickej osoby.
+- POSTUP PRI SPRACÚVANÍ ANALÝZY A JEJ OBSAH 1. Pri analýze sa spracúva jeden objekt právnickej osoby alebo fyzickej osoby-podnikateľa, ktorý spĺňa podmienky uvedené v bode 2, alebo súbor objektov, ktoré sú navzájom spojené technologickým zariadením. Pri vypracúvaní analýzy sa predpokladá, že v prípade právnickej osoby alebo fyzickej osoby-podnikateľa nemôže súčasne vzniknúť viac ako jeden požiar a stavy zamestnancov alebo členov hasičskej jednotky a hasičská technika, ktoré sa vzťahujú na určený objekt, postačujú aj na zdolanie požiaru v každom ďalšom objekte právnickej osoby alebo fyzickej osoby-podnikateľa.
 
 - 2. Pri spracúvaní analýzy sa posudzuje objekt, v ktorom prevláda
 
@@ -16,7 +16,7 @@ Príloha č. 1 k vyhláške č. 169/2002 Z. z.
 
 - 3. Analýza sa skladá z dvoch častí, pričom
 
-- a) prvá časť opisuje skutkový stav, ak ide o právnickú osobu alebo o podnikajúcu fyzickú osobu, ako aj o ďalšie subjekty, ktoré sa v jej priestoroch nachádzajú, a to z hľadiska celkového zabezpečenia ochrany pred požiarmi vrátane posúdenia požiarneho rizika v jednotlivých požiarnych úsekoch; v tejto časti sa určí aj objekt s najnepriaznivejším hodnotením podľa bodu 2,
+- a) prvá časť opisuje skutkový stav, ak ide o právnickú osobu alebo o fyzickú osobu-podnikateľa, ako aj o ďalšie subjekty, ktoré sa v jej priestoroch nachádzajú, a to z hľadiska celkového zabezpečenia ochrany pred požiarmi vrátane posúdenia požiarneho rizika v jednotlivých požiarnych úsekoch; v tejto časti sa určí aj objekt s najnepriaznivejším hodnotením podľa bodu 2,
 
 - b) druhá časť obsahuje výpočet potrebného počtu zamestnancov alebo členov zaradených do hasičskej jednotky na vykonanie účinného zásahu pri zdolávaní požiaru na určený objekt alebo súbor objektov, ako aj potrebu hasičskej techniky, hasiacich látok a vecných prostriedkov.
 
