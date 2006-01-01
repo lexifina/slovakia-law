@@ -34,6 +34,4 @@
 
 - 6c) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
-- 6d) § 247 Občianskeho súdneho poriadku.
-
 - 7) Občiansky súdny poriadok.
