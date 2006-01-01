@@ -16,13 +16,11 @@
 
 - 8) § 2 ods. 3 zákona č. 576/2004 Z. z.
 
-- 9) § 4 ods. 3 zákona č. 576/2004 Z. z.
-
 - 10) § 6 ods. 1 písm. h) zákona č. 581/2004 Z. z.
 
 - 10a) § 11 písm. c) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
-- 11) § 3 ods. 1 zákona č. 576/2004 Z. z.
+- 11) Príloha č. 1 zákona č. 576/2004 Z. z.
 
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 
@@ -32,7 +30,7 @@
 
 - 15) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
-- 16) § 11 ods. 1 písm. c) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
+- 16) § 7 ods. 3 písm. e) a f) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 538/2005 Z. z.
 
 - 17) § 22 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
@@ -61,6 +59,8 @@
 - Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+
+- 28a) § 2 písm. a) a § 5 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 

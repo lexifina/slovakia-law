@@ -4,7 +4,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Obsah: | Komplexné pediatrické vyšetrenie zahŕňajúce poradenstvo rodičom. Pravidelné povinné očkovanie je možné vykonať aj mimo preventívnej prehliadky. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
 
-- Vykonáva: | lekár so špecializáciou všeobecná starostlivosť o deti a dorast |
+- Vykonáva: | lekár so špecializáciou v špecializačnom odbore pediatria |
 
 - Okruh poistencov: | poistenci do dovŕšenia 18 rokov veku a 364 dní |
 
@@ -120,7 +120,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Obsah: | Základná preventívna prehliadka obsahuje komplexné vyšetrenie všetkých orgánových systémov, kontrolu stavu očkovania (napr. tetanus), vyšetrenie pulzu a tlaku krvi, kontrolu hmotnosti vrátane rád a dokumentácie. Súčasťou vyšetrenia u mužov je palpačné vyšetrenie prostaty per rectum. V prípade, že v tom istom roku sa má vykonať per rectum vyšetrenie v rámci preventívneho vyšetrenia urológom, lekársky nález urológa sa založí do dokumentácie ako súčasť preventívnej prehliadky. Laboratórne vyšetrenia: moč chemicky, močový sediment, glykémia, kreatinín, krvný obraz vrátane trombocytov. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
 
-- Vykonáva: | lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo a v prípade poistencov do 28. roku veku aj lekár so špecializáciou v špecializačnom odbore všeobecná starostlivosť o deti a dorast |
+- Vykonáva: | lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo a v prípade poistencov do 28. roku veku aj lekár so špecializáciou v špecializačnom odbore pediatria |
 
 - Okruh: | poistenci starší ako 18 rokov |
 
