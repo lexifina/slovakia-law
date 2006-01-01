@@ -18,6 +18,8 @@
 
 - 9) § 8 zákona Slovenskej národnej rady č. 80/1990 Zb.
 
+- 9a) § 18 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
 - 10) Zákon č. 424/1991 Zb. o združovaní v politických stranách a politických hnutiach v znení neskorších predpisov.
 
 - 11) § 200g Občianskeho súdneho poriadku.
