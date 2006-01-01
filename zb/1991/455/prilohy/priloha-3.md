@@ -30,13 +30,13 @@ Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 11. | Zrušená od 1. 11. 2004. | | |
 
-- 12. | Cestná motorová doprava (vnútroštátna nepravidelná autobusová doprava, vnútroštátna nákladná cestná doprava, vnútroštátna taxislužba) | osvedčenie*)dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám:osvedčenie o odbornej spôsobilosti, doklad o finančnej spoľahlivosti | § 3 zák. č. 168/1996 Z. z. o cestnej doprave v znení zák. č. 386/1996 Z. z., zák. č. 58/1997 Z. z. a zák. č. 340/2000 Z. z.dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám § 3 a 3a zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov*) nevyžaduje sa pre podnikanie najviac s piatimi vozidlami, z ktorých každé má užitočnú hmotnosť najviac 3,5 t alebo celkovú hmotnosť najviac 6 t |
+- 12. | Cestná motorová doprava (vnútroštátna nepravidelná autobusová doprava, vnútroštátna nákladná cestná doprava, vnútroštátna taxislužba) | osvedčenie*)dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám:osvedčenie o odbornej spôsobilosti, doklad o finančnej spoľahlivosti | § 3 zák. č. 168/1996 Z. z. o cestnej doprave v znení zák. č. 386/1 996 Z. z., zák. č. 58/1997 Z. z. a zák. č. 340/2000 Z. z.dňom nadobudnutia platnosti zmluvy o pristúpení SR k Európskym spoločenstvám § 3 a 3a zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov*) nevyžaduje sa pre podnikanie najviac s piatimi vozidlami, z ktorých každé má užitočnú hmotnosť najviac 3,5 t alebo celkovú hmotnosť najviac 6 t |
 
 - 13. | Zasielateľstvo | 1 . stredoškolské vzdelanie v odbore a 2 roky praxe v odbore alebo2. vysokoškolské vzdelanie v odbore a najmenej jednoročná prax v odbore alebo3. nepretržitá 5 -ročná prax v odbore v postavení vedúceho podniku | | IV
 
 - 14. | Zrušená od 1. 7. 2004. | | |
 
-- 15. | Poskytovanie technických služieb na ochranu majetku a osôb | | § 62 ods. 1 zák. č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení zák. č. 225/2000 Z. z. |
+- 15. | Zrušená od 1. 1. 2006. | | |
 
 - 16. | Prevádzkovanie závodného hasičského útvaru | oprávnenie | § 17 ods. 1 písm. n) zák. č. 314/2001 Z. z. o ochrane pred požiarmi |
 
