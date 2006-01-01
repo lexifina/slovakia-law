@@ -20,7 +20,7 @@
 
 - 11) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín.
 
-- 12) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov, § 38 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov, § 122 Trestného zákona, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 12) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, § 91 až 93a zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 40 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 122 Trestného zákona, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 13) § 116 Občianskeho zákonníka.
 
@@ -42,11 +42,13 @@
 
 - 21) Zákon č. 231/1999 Z. z. o štátnej pomoci.
 
-- 22) Napríklad zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike; zákon Slovenskej národnej rady č. 81/1992 Zb. o Česko-slovenskej tlačovej kancelárii Slovenskej republiky.
+- 22) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike, § 36 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon Slovenskej národnej rady č. 81/1992 Zb. o Česko-slovenskej tlačovej kancelárii Slovenskej republiky v znení zákona č. 442/2003 Z. z., zákon č. 619/2003 Z. z. o Slovenskom rozhlase, zákon č. 16/2004 Z. z. o Slovenskej televízii.
 
 - 23) Napríklad zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov, zákon č. 527/1990 Zb. o vynálezoch priemyselných vzorov a zlepšovacích návrhov; zákon č. 478/1992 Zb. o úžitkových vzoroch; zákon č. 132/1989 Zb. o ochrane práv k novým odrodám rastlín a plemenám zvierat; zákon č. 529/1991 Zb. o ochrane topografií polovodičových výrobkov.
 
-- 24) Napríklad zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok); zákon č. 99/1963 Zb. Občiansky súdny poriadok; zákon č. 335/1991 Zb. o súdoch a sudcoch; zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
+- 24) Napríklad zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov, zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov, zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 24a) Napríklad čl. 38. 1 Protokolu č. 18 o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky k Zmluve o založení Európskeho spoločenstva v platnom znení, prílohy k zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
 - 25) Napríklad zákon Národnej rady Slovenskej republiky č. 314/1996 Z. z. o prokuratúre v znení neskorších predpisov, zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane.
 
