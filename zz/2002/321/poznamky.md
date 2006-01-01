@@ -8,15 +8,13 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
-- 4) § 72 zákona č. 370/1997 Z. z. o vojenskej službe.
-
 - 5) Čl. 4 a 5 ústavného zákona č. 227/2002 Z. z.
 
 - 6) § 70 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 7) Napríklad ústavný zákon č. 227/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
-- 8) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
+- 8) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) Čl. 2 až 5 ústavného zákona č. 227/2002 Z. z.
 
@@ -34,13 +32,15 @@
 
 - 16) § 13 zákona č. 370/1997 Z. z.
 
-- 17) Zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení zákona č. 563/2001 Z. z.
+- 17) § 138 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
-- 18) Zákon č. 370/1997 Z. z. v znení neskorších predpisov.
+- 18) § 28 zákona č. 346/2005 Z. z.
 
 - 19) Napríklad čl. 86 písm. a) a čl. 92 ods. 1 Ústavy Slovenskej republiky, § 2 a 45 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
 
-- 20) Zákon č. 320/2002 Z. z. o brannej povinnosti.
+- 20) Zákon č. 346/2005 Z. z.
+
+- 20a) § 19 ods. 6 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
 - 21) § 19 a 20 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky.
 
@@ -52,9 +52,7 @@
 
 - 25) Napríklad mandát určený Bezpečnostnou radou Organizácie Spojených národov, mandát rady splnomocnencov OBSE, čl. X Dohovoru o zákaze vývoja, výroby, hromadenia a použitia chemických zbraní a o ich zničení (oznámenie č. 276/1997 Z. z.).
 
-- 26) § 74 ods. 2 zákona č. 370/1997 Z. z.
-
-- 27) § 3 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 246/1993 Z. z. o zbraniach a strelive v znení neskorších predpisov.
+- 27) § 2 písm. c) prvý, desiaty, jedenásty a pätnásty bod zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov.
 
 - 28) § 4 ods. 2 písm. a) až g) zákona č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
