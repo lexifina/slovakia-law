@@ -10,10 +10,6 @@
 
 - 4) § 70 Trestného poriadku.
 
-- 5) § 33 a 41 Trestného poriadku.
-
-- 5a) § 41 ods. 2 Trestného zákona.
-
 - 5b) § 116 Občianskeho zákonníka.
 
 - 6) § 9 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
