@@ -7,3 +7,7 @@
 (3) Občan pri vstupe do štátnej služby alebo colník, ktorí sa domnievajú, že ich práva alebo právom chránené záujmy boli dotknuté nedodržaním zásady rovnakého zaobchádzania, môžu sa obrátiť na súd a domáhať sa právnej ochrany ustanovenej osobitným zákonom.<sup>1a</sup>)
 
 (4) Služobný úrad alebo nadriadený nesmie colníka postihovať alebo znevýhodňovať preto, že colník uplatňuje svoje práva vyplývajúce zo služobného pomeru.
+
+(5) Služobný úrad oboznámi colníkov s ustanoveniami o zásade rovnakého zaobchádzania.
+
+(6) Porušenie zásady rovnakého zaobchádzania podľa odseku 1 colníkom sa považuje za porušenie služobnej povinnosti colníka.
