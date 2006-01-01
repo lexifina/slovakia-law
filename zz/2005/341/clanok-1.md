@@ -12,6 +12,8 @@ Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 36/1967 Z
 
 - Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.“.
 
+- 3. V § 9 sa vypúšťa odsek 3.
+
 - 4. V § 15 sa v tretej vete vypúšťajú slová „náhodným výberom pomocou technických prostriedkov a programových prostriedkov“.
 
 - 5. V § 15 sa v tretej vete nad slová „osobitného predpisu“ umiestňuje odkaz 2.
