@@ -6,24 +6,26 @@
 
 - § 18 a 19 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
-- 4) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 4) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 5) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 5a) Napríklad zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon č. 291/2002 Z. z. v znení zákona č. 386/2002 Z. z.
+- 5a) Napríklad zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon č. 291/2002 Z. z. v znení neskorších predpisov.
 
-- 6) § 49b ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 348/1999 Z. z.
+- 6) § 13 ods. 1 a 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 7) § 53 zákona č. 566/2001 Z. z.
 
 - 8) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 8a) § 28 ods. 3 písm. b) piaty bod zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 122/2000 Z. z.
+
 - 9) § 116 a 117 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
-- 11) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
+- 11) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
-- 12) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 434/2001 Z. z.
+- 12) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 13) § 23 ods. 1 zákona č. 291/2002 Z. z.
