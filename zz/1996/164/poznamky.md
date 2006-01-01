@@ -1,5 +1,7 @@
 - 1) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb., zákona č. 262/1992 Zb., zákona Národnej rady Slovenskej republiky č. 136/1995 Z. z. a zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
 
+- 1a) Napríklad § 10 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
+
 - 1b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 1c) § 39a ods. 3 zákona č. 50/1976 Zb. v znení neskorších predpisov.
@@ -28,11 +30,7 @@
 
 - 10) Zákon Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky v znení zákona Slovenskej národnej rady č. 295/1992 Zb.
 
-- 11) Zákon č. 110/1964 Zb. o telekomunikáciách v znení zákona č. 150/1992 Zb., zákona Národnej rady Slovenskej republiky č. 96/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 212/1995 Z. z.
-
-- 11a) § 261 až 275 Obchodného zákonníka.
-
-- § 43 až 51 Občianskeho zákonníka.
+- 10a) § 17 Obchodného zákonníka.
 
 - 12) Zákon č. 92/1949 Zb. Branný zákon, ako vyplýva zo zmien a doplnení vykonaných Ústavou Československej socialistickej republiky č. 100/1960 Zb. v znení ústavného zákona č. 101/1990 Zb., ústavným zákonom o československej federácii č. 143/1968 Zb. v znení ústavného zákona č. 125/1970 Zb. a ústavného zákona č. 126/1970 Zb., zákonom č. 86/1950 Zb., zákonom č. 88/1950 Zb., zákonom č. 19/1958 Zb., zákonom č. 140/1961 Zb. v znení neskorších predpisov, zákonom č. 100/1970 Zb. v znení neskorších predpisov, zákonom č. 40/1974 Zb. v znení neskorších predpisov, zákonom č. 64/1978 Zb., zákonom č. 72/1990 Zb., zákonom č. 227/1991 Zb., zákonom č. 164/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 166/1995 Z. z. a zákonom Národnej rady Slovenskej republiky č. 161/1996 Z. z.
 
@@ -60,7 +58,7 @@
 
 - 13ce) Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
-- 14) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
+- 14) § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení zákona č. 276/2001 Z. z.
 
 - 14a) § 69 ods. 4 Obchodného zákonníka.
 
@@ -68,7 +66,7 @@
 
 - 16) § 8 ods. 2 zákona č. 17/1992 Zb. o životnom prostredí.
 
-- 16a) § 12 ods. 2 písm. c) zákona č. 259/2001 Z. z.
+- 27) § 12 ods. 2 písm. c) zákona č. 259/2001 Z. z.
 
 - 16b) § 179 ods. 1 Trestného zákona.
 
@@ -77,6 +75,10 @@
 - 18) § 2 ods. 2 Obchodného zákonníka.
 
 - 19) Napríklad zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
+
+- 20) § 11 zákona Národnej rady Slovenskej republiky č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 21) § 18 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z.
 
 - 22) § 20 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení neskorších predpisov.
 
@@ -91,3 +93,7 @@
 - 27a) § 20 ods. 4, § 21 ods. 3 a § 22 ods. 5 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 28) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
+
+- 29) § 18 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.§ 30 zákona č. 264/1999 Z. z.
+
+- 30) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.

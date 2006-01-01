@@ -11,3 +11,5 @@
 - c) účtovnou závierkou vrátane jej prílohy, ak dopravca v predchádzajúcom ročnom účtovnom období vykonával podnikateľskú činnosť,
 
 - d) obchodno-podnikateľským plánom.
+
+(3) Žiadateľ sa nepovažuje za finančne spôsobilého, ak má nedoplatky na daniach alebo na odvodoch na zdravotné, dôchodkové a nemocenské poistenie a na poistenie v nezamestnanosti alebo ak bol naňho vyhlásený konkurz alebo bol zamietnutý návrh na vyhlásenie konkurzu pre nedostatok majetku.

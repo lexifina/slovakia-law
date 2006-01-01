@@ -32,11 +32,13 @@
 
 - h) strpieť zistenie totožnosti privolaným príslušníkom Policajného zboru, ak sa pri kontrole odmietne preukázať osobnými údajmi.
 
+- i) preukázať sa na výzvu vodiča dráhového vozidla, sprievodcu dráhového vozidla alebo iného zamestnanca dopravcu povereného výkonom kontroly preukazom totožnosti pri zakúpení cestovného lístka prostredníctvom internetu v prípade kontroly preukazov, na základe ktorých je priznaná zľava cestovného, a v prípade vymáhania náhrad škôd v zmysle prepravného poriadku dopravcu.
+
 (3) Úhrada pri nepreukázaní sa platným cestovným lístkom podľa odseku 2 písm. g) na železničnej dráhe je
 
 - a) desaťnásobok cestovného bez príplatkov a zliav v prvom tarifnom pásme, ak cestujúci skutočnosť, že cestuje bez platného cestovného lístka, sprievodcovi ohlási bez vyzvania,
 
-- b) stonásobok cestovného bez príplatkov a zliav v prvom tarifnom pásme, ak cestujúci skutočnosť, že cestuje bez platného cestovného lístka, sprievodcovi neohlási.
+- b) do stonásobku cestovného bez príplatkov a zliav v prvom tarifnom pásme, ak cestujúci skutočnosť, že cestuje bez platného cestovného lístka, sprievodcovi neohlási a určí ju dopravca v prepravnom poriadku.
 
 (4) Úhrada podľa odseku 2 písm. g) sa neplatí v prípadoch, ak cestujúci nastúpi v stanici, v ktorej nie je výdajňa cestovných lístkov, alebo ak je výdajňa cestovných lístkov v čase odchodu dráhového vozidla zatvorená. Ostatné prípady, keď sa táto úhrada neplatí, ustanoví tarifa.
 

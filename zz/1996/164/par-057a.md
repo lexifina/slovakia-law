@@ -20,4 +20,6 @@
 
 (4) Prevádzkovateľ určeného technického zariadenia je povinný pred odstránením prekážky alebo zmenou pôvodného stavu na mieste mimoriadnej udalosti podľa odseku 3 zdokumentovať stav na mieste vzniku mimoriadnej udalosti.
 
-(5) Príslušný dráhový správny úrad v rámci výkonu štátneho dozoru je oprávnený zisťovať príčiny vzniku mimoriadnej udalosti v súvislosti s prevádzkou určeného technického zariadenia.
+(5) Prevádzkovateľ určeného technického zariadenia je povinný vykonať vlastné zisťovanie príčin vzniku mimoriadnej udalosti, viesť ich evidenciu a evidenciu príčin vzniku a vykonať potrebné opatrenia.
+
+(6) Príslušný dráhový správny úrad v rámci výkonu štátneho dozoru je oprávnený zisťovať príčiny vzniku mimoriadnej udalosti v súvislosti s prevádzkou určeného technického zariadenia.
