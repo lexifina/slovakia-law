@@ -22,7 +22,7 @@
 
 - § 42 vyhlášky Ministerstva vnútra Slovenskej republiky č. 90/1997 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Národnej rady Slovenskej republiky o premávke na pozemných komunikáciách.
 
-- 11) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+- 11) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 12) § 800 a 802 Občianskeho zákonníka.
 

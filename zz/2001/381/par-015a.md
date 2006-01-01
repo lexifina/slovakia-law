@@ -14,4 +14,4 @@
 
 (4) Likvidačný zástupca je oprávnený vo vzťahu k poškodenému pri uspokojovaní jeho nárokov zastupovať poisťovateľa v plnom rozsahu a musí zabezpečiť prešetrovanie nárokov poškodeného v úradnom jazyku členského štátu, v ktorom má poškodený trvalý pobyt alebo sídlo; tým nie je dotknuté právo poškodeného uplatniť svoje nároky na náhradu škody priamo proti poisťovateľovi alebo proti osobe, ktorá túto škodu spôsobila.
 
-(5) Poisťovateľ je povinný do siedmich dní odo dňa určenia likvidačného zástupcu písomne oznámiť úradu a kancelárii meno, priezvisko, dátum narodenia, adresu trvalého pobytu likvidačného zástupcu alebo jeho obchodné meno a sídlo. Kancelária tieto informácie bez zbytočného odkladu poskytuje príslušným národným informačným strediskám iných členských štátov.
+(5) Poisťovateľ je povinný do siedmich dní odo dňa určenia likvidačného zástupcu písomne oznámiť Národnej banke Slovenska a kancelárii meno, priezvisko, dátum narodenia, adresu trvalého pobytu likvidačného zástupcu alebo jeho obchodné meno a sídlo. Kancelária tieto informácie bez zbytočného odkladu poskytuje príslušným národným informačným strediskám iných členských štátov.
