@@ -44,6 +44,8 @@
 
 - 23) § 20 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.
 
+- 23a) Príloha bod 2.1.2. k rozhodnutiu Rady EÚ z 19. decembra 2002, ktorým sa stanovujú kritériá a postupy pre prijímanie odpadu na skládky odpadu podľa článku 16 a prílohy II k smernici 1999/31/ES (Ú. v. EÚ L 011, 16. 1. 2003).
+
 - 24) § 2 ods. 13 a príloha č. 4 k zákonu č. 223/2001 Z. z.
 
 - 25) Nariadenie vlády Slovenskej republiky č. 242/1993 Z. z., ktorým sa ustanovujú ukazovatele prípustného stupňa znečistenia vôd.
@@ -58,7 +60,15 @@
 
 - 30) § 21 ods. 1 písm. e) zákona č. 223/2001 Z. z.
 
+- 30a) Príloha bod 2.1. k rozhodnutiu Rady EÚ z 19. decembra 2002, ktorým sa stanovujú kritériá a postupy pre prijímanie odpadu na skládky odpadu podľa článku 16 a prílohy II k smernici 1999/31/ES (Ú. v. EÚ L 011, 16. 1. 2003).
+
+- 30b) Príloha bod 2.2. k rozhodnutiu Rady EÚ z 19. decembra 2002, ktorým sa stanovujú kritériá a postupy pre prijímanie odpadu na skládky odpadu podľa článku 16 a prílohy II k smernici 1999/31/ES (Ú. v. EÚ L 011, 16. 1. 2003).
+
+- 30c) Príloha bod 2.3.1. k rozhodnutiu Rady EÚ z 19. decembra 2002, ktorým sa stanovujú kritériá a postupy pre prijímanie odpadu na skládky odpadu podľa článku 16 a prílohy II k smernici 1999/31/ES (Ú. v. EÚ L 011, 16. 1. 2003).
+
 - 31) § 40 ods. 8 zákona č. 223/2001 Z. z.
+
+- 31a) Príloha bod 2.4. k rozhodnutiu Rady EÚ z 19. decembra 2002, ktorým sa stanovujú kritériá a postupy pre prijímanie odpadu na skládky odpadu podľa článku 16 a prílohy II k smernici 1999/31/ES (Ú. v. EÚ L 011, 16. 1. 2003).
 
 - 32) § 7 ods. 8 zákona č. 223/2001 Z. z.
 

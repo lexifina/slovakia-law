@@ -1,3 +1,3 @@
 # § 48a Transpozičný odkaz
 
-Touto vyhláškou sa transponujú právne akty Európskych spoločenstiev uvedené v prílohe č. 16.
+Touto vyhláškou sa transponujú právne akty Európskych spoločenstiev uvedené v prílohe č. 14.

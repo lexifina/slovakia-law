@@ -1,4 +1,4 @@
-Príloha č. 15
+Príloha č. 1 k vyhláške č. 283/2001 Z. z.
 
 - MONITOROVACÍ SYSTÉM SKLÁDKY ODPADOV
 

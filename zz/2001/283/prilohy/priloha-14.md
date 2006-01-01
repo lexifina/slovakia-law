@@ -1,105 +1,21 @@
 Príloha č. 14 k vyhláške č. 283/2001 Z. z.
 
-- HRANIČNÉ HODNOTY UKAZOVATEĽOV PRE VODNÝ VÝLUH ODPADU, KTORÝ NIE JE NEBEZPEČNÝ | Ukazovateľ | Jednotka | Hraničná hodnota
+- ZOZNAM TRANSPONOVANÝCH SMERNÍC
 
-- 1 | pH | - | 5,5 - 13
+  - Touto vyhláškou sa transponujú tieto právne akty Európskych spoločenstiev:
 
-- 2 | vodivosť | mS/m | 1000
+  - 1. Smernica Rady č. 75/442/EHS z 15. júla 1975 o odpadoch.
 
-- 3 | ekotoxicita | ml/l | 10
+  - 2. Smernica Rady č. 91/689/EHS z 12. decembra 1991 o nebezpečných odpadoch.
 
-- 4 | polycyklické aromatické uhľovodíky (PAU) | mg/l | 0,01
+  - 3. Smernica Rady č. 99/31/ES z 26. apríla 1999 o skládkach odpadov.
 
-- 5 | fenolový index | mg/l | 10
+  - 4. Smernica Rady č. 91/157/EHS z 18. marca 1991 o batériách a akumulátoroch obsahujúcich niektoré nebezpečné látky.
 
-- 6 | nepolárne extrahovateľné látky (NEL) | mg/l | 100
+  - 5. Smernica Európskeho parlamentu a Rady 2000/76/ES zo 4. decembra 2000 o spaľovaní odpadov.
 
-- 7 | adsorbovateľné organické halogénované zlúčeniny (AOX) | mg/l | 5,0
+  - 6. Smernica Rady č. 78/176/EHS z 20. februára 1978 o odpadoch z odvetvia priemyslu na výrobu oxidu titaničitého.
 
-- 8 | rozpustený organický uhlík (DOC) | mg/l | 200
+  - 7. Smernica Rady č. 82/883/EHS z 3. decembra 1982 o postupe pri dohľade a monitorovaní životného prostredia v súvislosti s odpadom z priemyslu oxidu titaničitého.
 
-- 9 | chemická spotreba kyslíka (CHSK<sub>Cr</sub>)<sup>1</sup>) | mg/l | 300
-
-- 10 | aniónaktívne tenzidy<sup>2</sup>) | mg/l | 2,0
-
-- 11 | vápnik | mg/l |
-
-- <sup>3</sup>)
-
-- 12 | horčík | mg/l |
-
-- <sup>3</sup>)
-
-- 13 | hliník | mg/l | 50
-
-- 14 | antimón | mg/l | 5,0
-
-- 15 | arzén | mg/l | 5,0
-
-- 16 | bárium | mg/l | 50,0
-
-- 17 | berýlium | mg/l | 0,5
-
-- 18 | bór | mg/l | 100
-
-- 19 | olovo | mg/l | 10
-
-- 20 | kadmium | mg/l | 0,5
-
-- 21 | chróm celkový | mg/l | 50,0
-
-- 22 | železo | mg/l |
-
-- <sup>3</sup>)
-
-- 23 | kobalt | mg/l | 10
-
-- 24 | meď | mg/l | 10
-
-- 25 | bizmut | mg/l | 50
-
-- 26 | nikel | mg/l | 50,0
-
-- 27 | ortuť | mg/l | 0,05
-
-- 28 | selén | mg/l | 5,0
-
-- 29 | striebro | mg/l | 5,0
-
-- 30 | tálium | mg/l | 2,0
-
-- 31 | vanád | mg/l | 20,0
-
-- 32 | zinok | mg/l | 100
-
-- 33 | cín | mg/l | 100
-
-- 34 | fluoridy | mg/l | 50,0
-
-- 35 | amónne ióny | mg/l |
-
-- <sup>3</sup>)
-
-- 36 | chloridy | mg/l |
-
-- <sup>3</sup>)
-
-- 37 | kyanidy celkové | mg/l | 20,0
-
-- 38 | kyanidy ľahko uvoľniteľné | mg/l | 10,0
-
-- 39 | dusičnany | mg/l |
-
-- <sup>3</sup>)
-
-- 40 | dusitany | mg/l |
-
-- <sup>3</sup>)
-
-- 41 | fosforečnany celkové | mg/l |
-
-- <sup>3</sup>)
-
-- 42 | sírany | mg/l | <sup>3</sup>)
-
-- Poznámky:<sup>1</sup>) oxidovateľnosť s K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub><sup>2</sup>) aniónaktívne tenzidy prepočítané na dodecylsulfónan sodný<sup>3</sup>) ohraničené vodivosťou
+  - 8. Smernica Rady č. 96/59/ES zo 16. septembra 1996 o zneškodňovaní polychlórovaných bifenylov a polychlórovaných terfenylov (PCB/PCT).
