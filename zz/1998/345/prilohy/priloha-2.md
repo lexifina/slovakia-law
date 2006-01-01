@@ -1,1 +1,1 @@
-[Anglické znenie textu](../assets/46b4599b3da6325f9b5ccdad77c824ecd2c86751c6ebca09cd50b08736ee9f27.pdf)
+[Anglické znenie textu](../assets/28f72f1b0cf256379797a02c86818fd6686778de2d6680c5db3f809535f99baa.pdf)

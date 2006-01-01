@@ -1488,116 +1488,120 @@
 
         - V prípade rozporu medzi ustanoveniami administratívnych pokynov na jednej strane a ustanoveniami dohody, protokolu alebo tohto vykonávacieho predpisu na druhej strane majú posledné menované ustanovenia prednosť.
 
-  - SADZOBNÍK POPLATKOV | švajčiarske franky
+  - SADZOBNÍK POPLATKOV
 
-  - 1. Medzinárodná prihláška podliehajúca výlučne dohode |
+    - (platný od 1. januára 2006)
 
-  - Platia sa nasledujúce poplatky na obdobie desiatich rokov: |
+  - | | | švajčiarske franky
 
-  - 1.1 Základný poplatok [článok 8(2)(a) dohody] |
+  - 1. | Medzinárodná prihláška podliehajúca výlučne dohode | |
 
-  - 1.1.1 ak žiadne vyhotovenie známky nie je vo farbe | 653
+  - | Platia sa nasledujúce poplatky na obdobie desiatich rokov: | |
 
-  - 1.1.2 ak niektoré z vyhotovení známky je vo farbe | 903
+  - | 1.1 | Základný poplatok [článok 8(2)(a) dohody]* |
 
-  - 1.2 Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(b) dohody] | 73
+  - | | 1.1.1 ak žiadne vyhotovenie známky nie je vo farbe 1.1.2 ak niektoré z vyhotovení známky je vo farbe | 653 903
 
-  - 1.3 Doplnkový poplatok za vyznačenie každej zmluvnej krajiny [článok 8(2)(c) dohody] | 73
+  - | 1.2 | Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(b) dohody] | 73
 
-  - 2. Medzinárodná prihláška podliehajúca výlučne protokolu |
+  - | 1.3 | Doplnkový poplatok za vyznačenie každej zmluvnej krajiny [článok 8(2)(c) dohody] | 73
 
-  - Platia sa nasledujúce poplatky na obdobie desiatich rokov: |
+  - 2. | Medzinárodná prihláška podliehajúca výlučne Protokolu | |
 
-  - 2.1 Základný poplatok [článok 8(2)(i) protokolu] |
+  - | Platia sa nasledujúce poplatky na obdobie desiatich rokov: | |
 
-  - 2.1.1 ak žiadne vyhotovenie známky nie je vo farbe | 653
+  - | 2.1 | Základný poplatok [článok 8(2)(i) Protokolu]* |
 
-  - 2.1.2 ak niektoré z vyhotovení známky je vo farbe | 903
+  - | | 2.1.1 ak žiadne vyhotovenie známky nie je vo farbe | 653
 
-  - 2.2 Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(ii) protokolu] okrem prípadu, keď sú vyznačené výlučne zmluvné strany, ktorých povinnosťou je zaplatiť individuálne poplatky (pozri 2.4) [článok 8(7)(a)(i) protokolu] | 73
+  - | | 2.1.2 ak niektoré z vyhotovení známky je vo farbe | 903
 
-  - 2.3 Doplnkový poplatok za vyznačenie každej zmluvnej strany [článok 8(2)(iii) protokolu] okrem prípadu, ak je vyznačená zmluvná strana, ktorej povinnosťou je platiť individuálny poplatok (pozri 2.4) [pozri článok 8(7)(a)(ii) protokolu] | 73
+  - | 2.2 | Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(ii) protokolu] okrem prípadu, keď sú vyznačené výlučne zmluvné strany,ktorých povinnosťou je zaplatiť individuálne poplatky (pozri 2.4)[článok 8(7)(a)(i) protokolu] | 73
 
-  - 2.4 Individuálny poplatok za vyznačenie každej zmluvnej strany, pri ktorej sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]; výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
+  - | 2.3 | Doplnkový poplatok za vyznačenie každej zmluvnej strany [článok 8(2)(iii) protokolu]okrem prípadu, ak je vyznačená zmluvná strana, ktorej povinnosťou je platiť individuálny poplatok(pozri 2.4) [pozri článok 8(7)(a)(ii) protokolu] | 73
 
-  - 3. Medzinárodná prihláška podliehajúca dohode a protokolu |
+  - | 2.4 | Individuálny poplatok za vyznačenie každej zmluvnej strany, pri ktorej sa platí individuálny poplatok(a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]; výšku individuálneho poplatku si určí každádotknutá zmluvná strana. |
 
-  - Platia sa nasledujúce poplatky na obdobie desiatich rokov: |
+  - 3. | Medzinárodná prihláška podliehajúca dohode a Protokolu | |
 
-  - 3.1 Základný poplatok |
+  - | Platia sa nasledujúce poplatky na obdobie desiatich rokov: | |
 
-  - 3.1.1 ak žiadne vyhotovenie známky nie je vo farbe | 653
+  - | 3.1 | Základný poplatok* |
 
-  - 3.1.2 ak niektoré z vyhotovení známky je vo farbe | 903
+  - | | 3.1.1 ak žiadne vyhotovenie známky nie je vo farbe | 653
 
-  - 3.2 Dodatkový poplatok pre každú triedu výrobkov a služieb presahujúcu tri triedy | 73
+  - | | 3.1.2 ak niektoré z vyhotovení známky je vo farbe | 903
 
-  - 3.3 Doplnkové poplatky za vyznačenie každej zmluvnej strany, pri ktorej nie je povinnosťou platiť individuálny poplatok | 73
+  - | 3.2 | Dodatkový poplatok pre každú triedu výrobkov a služieb presahujúcu tri triedy | 73
 
-  - 3.4 Individuálny poplatok za vyznačenie každej zmluvnej strany, pri ktorej sa platí individuálíy poplatok [pozri článok 8(7)(a) protokolu] okrem prípadu, akje vyznačená krajina viazaná aj dohodou a úrad pô- vodu je úradom v krajine, ktorá je viazaná takisto dohodou. V prípade takej krajiny sa platí doplnkový poplatok. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
+  - | 3.3 | Doplnkové poplatky za vyznačenie každej zmluvnej strany, pri ktorej nie je povinnosťou platiť individuálny poplatok | 73
 
-  - 4. Nedostatky týkajúce sa zatriedenia výrobkov a služieb |
+  - | 3.4 | Individuálny poplatok za vyznačenie každej zmluvnej strany, pri ktorej sa platí individuálny poplatok [pozri článok 8(7)(a) protokolu] okrem prípadu, akje vyznačená krajina viazaná aj dohodou a úrad pôvodu je úradom v krajine, ktorá je viazaná takisto dohodou. V prípade takej krajiny sa platí doplnkovýpoplatok. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
 
-  - Platia sa nasledujúce poplatky [pravidlo 12(1)(b)]: |
+  - 4. | Nedostatky týkajúce sa zatriedenia výrobkov a služieb | |
 
-  - 4.1 Ak nie sú výrobky a služby zaradené do tried | 77 plus 4 za každý ďalší termín presahujúci 20 termínov
+  - | Platia sa nasledujúce poplatky [pravidlo 12(1)(b)]: | |
 
-  - 4.2 Ak je zatriedenie, uvedené v prihláške pre jeden alebo viac termínov, nesprávne | 20 plus 4 za nesprávne zaradený termín,
+  - | 4.1 | Ak nie sú výrobky a služby zaradené do tried | 77 plus 4 za každý ďalší termín presahujúci 20 termínov
 
-  - pričom platí, že ak bude celkový poplatok splatný v rámci tejto položky a poplatok týkajúci sa medzinárodnej prihlášky bude nižší ako 150 švajčiarskych frankov, poplatky sa odpúšťajú. |
+  - | 4.2 | Ak je zatriedenie, uvedené v prihláške pre jeden alebo viac termínov, nesprávne | 20 plus 4 za nesprávne zaradený termín,
 
-  - 5. Vyznačenie nasledujúce po medzinárodnom zápise |
+  - | | pričom platí, že ak bude celkový poplatok splatný v rámci tejto položky a poplatok týkajúci sa medzinárodnej prihlášky bude nižší ako 150 švajčiarskych frankov, poplatky sa odpúšťajú. |
 
-  - Platia sa nasledujúce poplatky na obdobie odo dňa nadobudnutia účinnosti vyznačenia do dňa uplynutia aktuálnej lehoty stanovenej pre medzinárodný zápis: |
+  - 5. | Vyznačenie nasledujúce po medzinárodnom zápise | |
 
-  - 5.1 Základný poplatok | 300
+  - | Platia sa nasledujúce poplatky na obdobie odo dňa nadobudnutia účinnosti vyznačenia do dňa uplynutia aktuálnej lehoty stanovenej pre medzinárodný zápis: | |
 
-  - 5.2 Doplnkový poplatok za každú z vyznačených zmluvných strán uvedených v samotnej požiadavke, pričom pri tejto zmluvnej strane neexistuje povinnosť platiť individuálny poplatok (poplatok pokrýva zvyšnú časť obdobia v dĺžke desiatich rokov) | 73
+  - | 5.1 | Základný poplatok | 300
 
-  - 5.3 Individuálny poplatok za každú z vyznačených zmluvných strán, pri ktorej sa platí individuálny popla- tok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
+  - | 5.2 | Doplnkový poplatok za každú z vyznačených zmluvných strán uvedených v samotnej požiadavke, pričom pri tejto zmluvnej strane neexistuje povinnosť platiť individuálny poplatok (poplatokpokrýva zvyšnú časť obdobia v dĺžke desiatich rokov) | 73
 
-  - 6. Obnova |
+  - | 5.3 | Individuálny poplatok za každú z vyznačených zmluvných strán, pri ktorej sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
 
-  - Platia sa nasledujúce poplatky na obdobie desiatich rokov: |
+  - 6. | Obnova | |
 
-  - 6.1 Základný poplatok | 653
+  - | Platia sa nasledujúce poplatky na obdobie desiatich rokov: | |
 
-  - 6.2 Dodatkový poplatok okrem prípadov, ak by sa obnova uskutočnila výlučne pre vyznačenú zmluvnú stranu, pri ktorej existuje povinnosť platiť individuálne poplatky | 73
+  - | 6.1 | Základný poplatok | 653
 
-  - 6.3 Doplnkový poplatok za každú z vyznačených zmluvných strán, pri ktorej nieje povinnosťou platiť individuálny poplatok | 73
+  - | 6.2 | Dodatkový poplatok okrem prípadov, ak by sa obnova uskutočnila výlučne pre vyznačenúzmluvnú stranu, pri ktorej existuje povinnosť platiť individuálne poplatky | 73
 
-  - 6.4 Individuálny poplatok na vyznačenie každej z vyznačených zmluvných strán, pri ktorej sa platí indivi- duálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]. Výšku individuálneho po- platku si určí každá dotknutá zmluvná strana. |
+  - | 6.3 | Doplnkový poplatok za každú z vyznačených zmluvných strán, pri ktorej nieje povinnosťouplatiť individuálny poplatok | 73
 
-  - 6.5 Príplatok za využitie odkladnej lehoty | 50 % z výšky poplatku podľa položky 6.1
+  - | 6.4 | Individuálny poplatok na vyznačenie každej z vyznačených zmluvných strán, pri ktorej sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
 
-  - 7. Iné záznamy |
+  - | 6.5 | Príplatok za využitie odkladnej lehoty | 50 % z výšky poplatkupodľa položky 6.1
 
-  - 7.1 Úplný prevod medzinárodného zápisu | 177
+  - 7. | Iné záznamy | |
 
-  - 7.2 Čiastočný prevod (iba ohľadne niektorých výrobkov a služieb alebo niektorých zmluvných strán) medzinárodného zápisu | 177
+  - | 7.1 | Úplný prevod medzinárodného zápisu | 177
 
-  - 7.3 Obmedzenie zoznamu výrobkov a služieb požadované majiteľom následne po medzinárodnom zápise za predpokladu, že ak sa obmedzenie týka viac ako jednej zmluvnej strany, je rovnaké pre všetky zmluvné strany | 177
+  - | 7.2 | Čiastočný prevod (iba ohľadne niektorých výrobkov a služieb alebo niektorých zmluvných strán) medzinárodného zápisu | 177
 
-  - 7.4 Zmena mena a/alebo adresy majiteľa jedného zápisu alebo viacerých medzinárodných zápisov, pre ktoré sa požaduje zápis rovnakej zmeny v jednej žiadosti | 150
+  - | 7.3 | Obmedzenie zoznamu výrobkov a služieb požadované majiteľom následne po medzinárodnom zápise za predpokladu, že ak sa obmedzenie týka viac ako jednej zmluvnej strany, je rovnaké pre všetky zmluvné strany | 177
 
-  - 7.5 Zápis licencie, ktorá sa týka medzinárodného zápisu | 177
+  - | 7.4 | Zmena mena a/alebo adresy majiteľa jedného zápisu alebo viacerých medzinárodných zápisov, pre ktoré sa požaduje zápis rovnakej zmeny v jednej žiadosti | 150
 
-  - 8. Informácie tykajúce sa medzinárodného zápisu |
+  - | 7.5 | Zápis licencie, ktorá sa týka medzinárodného zápisu | 177
 
-  - 8.1 Vyhotovenie overeného výpisu z medzinárodného registra pozostávajúceho z analýzy stavu medzinárodného zápisu (detailný overený výpis) menej ako tri strany | 155
+  - 8. | Informácie tykajúce sa medzinárodného zápisu | |
 
-  - za každú stranu navyše | 10
+  - | 8.1 | Vyhotovenie overeného výpisu z medzinárodného registra pozostávajúceho z analýzy stavu medzinárodného zápisu (detailný overený výpis) menej ako tri strany | 155
 
-  - 8.2 Vyhotovenie overeného výpisu z medzinárodného registra pozostávajúceho z kópie všetkých zverejnení a všetkých oznámení o odmietnutí, ktoré sa uskutočnili v súvislosti s medzinárodným zápisom (jednoduchý overený výpis) menej ako tri strany | 77
+  - | | za každú stranu navyše | 10
 
-  - za každú stranu navyše | 2
+  - | 8.2 | Vyhotovenie overeného výpisu z medzinárodného registra pozostávajúceho z kópie všetkých zverejnení a všetkých oznámení o odmietnutí, ktoré sa uskutočnili v súvislosti s medzinárodným zápisom (jednoduchý overený výpis) menej ako tri strany | 77
 
-  - 8.3 Jednoduché potvrdenie alebo písomná informácia týkajúca sa jediného medzinárodného zápisu | 77
+  - | | za každú stranu navyše | 2
 
-  - pre každý ďalší medzinárodný zápis, ak sú v tej istej žiadosti požadované rovnaké informácie | 10
+  - | 8.3 | Jednoduché potvrdenie alebo písomná informácia týkajúca sa jediného medzinárodného zápisu | 77
 
-  - 8.4 Výtlačok alebo fotokópia zverejnenia medzinárodného zápisu, cena za stranu | 5
+  - | | pre každý ďalší medzinárodný zápis, ak sú v tej istej žiadosti požadované rovnaké informácie | 10
 
-  - 9. Špeciálne služby |
+  - | 8.4 | Výtlačok alebo fotokópia zverejnenia medzinárodného zápisu, cena za stranu | 5
 
-  - Medzinárodný úrad je oprávnený inkasovať poplatky, ktorých výšku stanoví sám v prípade naliehavých úkonov a v prípade služieb, ktoré nie sú uvedené v tomto sadzobníku poplatkov. |
+  - 9. | Špeciálne služby | |
+
+  - | Medzinárodný úrad je oprávnený inkasovať poplatky, ktorých výšku stanoví sám v prípade naliehavýchúkonov a v prípade služieb, ktoré nie sú uvedené v tomto sadzobníku poplatkov. | |
+
+    - *) Pre medzinárodné prihlášky podané prihlasovateľmi, ktorých krajinou pôvodu je najmenej rozvinutá krajina, v zmysle zoznamu OSN, je základný poplatok znížený na hodnotu 10 % predpísanej sumy (zaokrúhlené na najbližšie celé číslo). V tom prípade je výška základného poplatku 65 švajčiarskych frankov (ak žiadne vyhotovenie známky nie je vo farbe) alebo 90 švajčiarskych frankov (ak niektoré z vyhotovení známky je vo farbe).
