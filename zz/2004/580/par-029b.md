@@ -21,3 +21,5 @@
 (4) Výška minimálnej mzdy zmenená nariadením vlády Slovenskej republiky vždy k 1. októbru kalendárneho roka sa na účely tohto zákona použije od 1. januára do 31. decembra nasledujúceho kalendárneho roka.
 
 (5) Ak sa poistenec považuje za zamestnanca podľa § 11 ods. 3 z viacerých dôvodov u toho istého zamestnávateľa, posudzuje sa akoby bol u tohto zamestnávateľa zamestnancom iba raz.
+
+(6) Preukazovanie skutočností podľa § 11 ods. 8 písm. b), d), e), o) a q) sa upraví dohodou, ktorú uzatvorí Sociálna poisťovňa s úradom. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.

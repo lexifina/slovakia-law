@@ -6,6 +6,10 @@
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 3a) § 7 ods. 1 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3b) § 29 ods. 1 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
 - 4) § 2 písm. d) a § 54 ods. 4 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
 
 - 5) § 18 až 38 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
@@ -110,15 +114,23 @@
 
 - 39i) § 64a zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
+- 39ia) § 57 ods. 1 a 2 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+
 - 39j) § 116 a 117 Občianskeho zákonníka.
+
+- 39ja) § 18 až 38 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
 - 39k) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 39l) § 58 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
-- 39m) § 13 ods. 1 písm. a), b) a d) zákona č. 461/2003 Z. z. v znení neskorších predpisov.§ 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+- 39m) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 39n) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+- Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov v znení zákona č. 244/2005 Z. z.
+
+- 39n) § 34 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 39na) § 42 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 39o) § 39 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -126,15 +138,17 @@
 
 - 39q) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 39r) Nariadenie Rady (ES) č. 883/2004 Európskeho parlamentu a Rady z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 166, 30. 4. 2004) v znení jeho opravy (Ú. v. EÚ L 200, 30. 4. 2004).
+- 39r) Nariadenie Rady (EHS) č. 1408/71 zo 14. júna 1971 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci Spoločenstva (Ú. v. ES L 28, 30. 1. 1977) v platnom znení.Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa stanovuje postup na vykonávanie nariadenia (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci Spoločenstva (Ú. v. ES L 28, 30. 1. 1997) v platnom znení.
 
 - 39s) § 5 a 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 39t) § 6 ods. 3 a § 43 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 39t) § 6 ods. 3 zákona č. 595/2003 Z. z.
 
-- 39u) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+- 39ta) § 43 zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z.
 
-- § 5 písm. a) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+- 39tb) § 43 ods. 3 písm. j) zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z.
+
+- 39u) § 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 39v) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -170,9 +184,7 @@
 
 - 47) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
 
-- 48) Napríklad § 136 ods. 1 Zákonníka práce.
-
-- 48a) Napríklad zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 315/2001 Z. z. v znení neskorších predpisov, § 83 zákona č. 73/1998 Z. z. v znení zákona č. 328/2002 Z. z.
+- 48) Napríklad § 136, § 139 až § 141 Zákonníka práce.
 
 - 49) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
 
