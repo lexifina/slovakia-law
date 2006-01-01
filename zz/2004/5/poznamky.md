@@ -4,6 +4,8 @@
 
 - 3) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 3a) Nariadenie Rady (EHS) č. 1612/68 z 15. októbra 1968 o slobode pohybu pracovníkov v rámci spoločenstva (Ú. v. ES L 257/2, 19. 10. 1968) v platnom znení.
+
 - 4) Obchodný zákonník.
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
@@ -22,9 +24,11 @@
 
 - 12) Napríklad zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 13) § 76 až 104 Obchodného zákonníka.
+- 13) § 76 až 153 Obchodného zákonníka.
 
 - 13a) Napríklad Obchodný zákonník, Občiansky zákonník.
+
+- 13b) § 2 písm. d) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
 
 - 14) § 71 zákona č. 461/2003 Z. z. o sociálnom poistení.
 
@@ -40,11 +44,15 @@
 
 - 18b) Nariadenie Rady (EHS) č. 311/76 z 9. februára 1976 o zostavovaní štatistík zahraničných pracovníkov (Ú. v. ES L 039, 14. 2. 1976).
 
-- 19) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 19) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 20) § 73 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
 - 20a) § 233 ods. 12 zákona č. 461/2003 Z. z. v znení zákona č. 82/2005 Z. z.
+
+- 20b) Zákon č. 528/2005 Z. z. o výkone trestu povinnej práce a o doplnení zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (zákon o výkone trestu povinnej práce).
+
+- 20c) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 21) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
@@ -59,8 +67,6 @@
 - 24b) § 22 zákona č. 48/2002 Z. z. v znení zákona č. 606/2003 Z. z.
 
 - 25) § 2 zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
-
-- 26) § 2 písm. d) zákona č. 480/2002 Z. z.
 
 - 27) § 2 písm. e) zákona č. 480/2002 Z. z.
 
@@ -104,15 +110,21 @@
 
 - 44) § 8 zákona č. 253/1998 Z. z.
 
-- 45) Napríklad zákon č. 94/1963 Zb. Zákon o rodine v znení neskorších predpisov, zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 45) Napríklad zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení uznesenia Ústavného súdu Slovenskej republiky č. 297/2005 Z. z., zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 46) § 140 ods. 3 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 46a) § 281 až 288 Obchodného zákonníka.
 
 - 47) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
 
 - 48) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 49) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
+- 49a) § 71 a 263 zákona č. 461/2003 Z. z.
+
+- 49b) Nariadenie Komisie (ES) č. 2204/2002 z 5. decembra 2002 o uplatňovaní článkov 87 a 88 Zmluvy o ES o štátnej pomoci pre zamestnanosť (Ú. v. ES L 337/3, 13. 12. 2002).
 
 - 50) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
 
@@ -134,6 +146,10 @@
 
 - 59) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
 
+- 59a) Zákon č. 231/1999 Z. z. v znení neskorších predpisov.
+
+- Nariadenie Rady (ES) č. 659/1999 z 22. marca 1999, ktorým sa ustanovujú podrobné pravidlá uplatňovania článku 93 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ L 083, 27. 3. 1999).
+
 - 60) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 60a) § 51 a 853 Občianskeho zákonníka.
@@ -145,6 +161,8 @@
 - Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
 
 - 62a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+
+- 62b) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 63) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
