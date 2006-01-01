@@ -54,6 +54,12 @@
 
 - 22) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
+- 22a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Úradný vestník Európskych spoločenstiev L 243, 11. 09. 2002).
+
+- Nariadenie Komisie (ES) č. 1725/2003 z 29. septembra 2003 o prijatí určitých medzinárodných účtovných noriem v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Úradný vestník Európskej únie L 261, 13. 10. 2003) v znení nariadenia Komisie (ES) č. 707/2004 zo 6. apríla 2004 (Úradný vestník Európskej únie L 111, 17. 04. 2004).
+
+- 22b) Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).
+
 - 23) § 39 Obchodného zákonníka.
 
 - 24) Napríklad § 40 zákona č. 483/2001 Z. z., § 34 ods. 3 zákona č. 34/2002 Z. z.
