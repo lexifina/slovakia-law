@@ -128,7 +128,7 @@
 
 - Zákon č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce.
 
-- 23e) Zákon č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
+- 23e) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
 - 23f) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
 

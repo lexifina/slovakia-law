@@ -54,6 +54,8 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 18. | Technické osvedčovanie stavebných výrobkov | oprávnenie | § 4 ods. 3 zák. č. 90/1998 Z. z. o stavebných výrobkoch v znení zák. č. 264/1 999 Z. z. |
 
+- 18a. | Energetická certifikácia | osvedčenie o vykonaní skúšky odbornej spôsobilosti | § 31 ods. 2 písm. j) zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov |
+
 - SKUPINA 214 - Ostatné | | | |
 
 - 19. | Prevádzkovanie autoškoly | osvedčenie o registrácii autoškoly | § 3 ods. 8 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov |
@@ -66,7 +68,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 23. | Prevádzkovanie vzdelávacích zariadení na prípravu vykonávania špecializovaných činností v oblasti telesnej kultúry | potvrdenie o akreditácii | § 11 ods. 4 zák. č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
-- 24. | Výkon špecializovaných činností v oblasti telesnej kultúry | doklad o odbornej spôsobilosti | § 2 ods. 1 a 5 vyhl. Ministerstva školstva Slovenskej republiky č. 257/1998 Z. z. o podmienkach získavania odbornej spôsobilosti na vykonávanie špecializovaných činností v oblasti telesnej kultúry |
+- 24. | Výkon špecializovaných činností v oblasti telesnej kultúry okrem horskej vodcovskej činnosti | doklad o odbornej spôsobilosti | § 2 ods. 1 a 5 vyhl. Ministerstva školstva Slovenskej republiky č. 257/1998 Z. z. o podmienkach získavania odbornej spôsobilosti na vykonávanie špecializovaných činností v oblasti telesnej kultúry |
+
+- 24a. | Horská vodcovská činnosť - vedenie návštevníkov v horách pri nehorolezeckých túrach, horolezeckých túrach a lyžiarskych vysokohorských túrach | Osvedčenie o odbornej spôsobilosti horského vodcu vydané Národnou asociáciou horských vodcov | § 2d ods. 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov
 
 - 25. | Vykonávanie odbornej prípravy na úseku požiarnej ochrany | oprávnenie | § 24 ods. 4 zák. SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona NR SR č. 99/ 1995 Z. z. § 36 vyhl. Ministerstva vnútra Slovenskej republiky č. 82/1996 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona SNR o požiarnej ochrane v oblasti prevencie v znení vyhl. č. 86/1997 Z. z. |
 
@@ -79,6 +83,8 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 29. | Vyhotovovanie lesných hospodárskych plánov | osvedčenie o odbornej a technickej spôsobilosti | § 3 ods. 4 zák. SNR č. 100/ 1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení zákona SNR č. 510/1991 Zb. |
 
 - 30. | Činnosť vykonávaná banským spôsobom*) | osvedčenie o odbornej spôsobilosti | § 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom*) v rozsahu § 3 písm. b) až i) zák. č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe |
+
+- 31. | Zrušená od 1. 1. 2004. | | |
 
 - 32. | Ničenie a zneškodňovanie výbušnín | preukaz pyrotechnika skupiny C, vek 21 rokov | § 15 ods. 2 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 78/1993 Z. z., ktorou sa ustanovujú požiadavky na zaistenie bezpečnosti a ochrany zdravia pri výrobe a spracúvaní výbušnín § 5 vyhl. Ministerstva hospodárstva Slovenskej republiky č. 79/ 1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
@@ -131,3 +137,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore |
 
 - 57. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
+
+- 58. | Činnosť environmentálneho overovateľa | Osvedčenie o akreditácii | § 12 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov |
+
+- 60. | Odborná príprava v oblasti environmentálneho manažérstva a auditu | Oprávnenie | § 18 ods. 1 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov |
