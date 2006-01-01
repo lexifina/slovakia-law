@@ -158,6 +158,8 @@
 
 - 17) § 36 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
+- Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+
 - 17a) § 28 ods. 1 písm. a) až e) Obchodného zákonníka v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
 
 - 18) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z.
