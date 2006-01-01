@@ -54,7 +54,7 @@
 
 - 13f) § 33 zákona č. 595/2003 Z. z.
 
-- 14) § 51 a 52 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 14) § 57 ods. 1 a 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 15) § 85 a 86 a § 91 a 92 Zákona o rodine.
 
@@ -74,9 +74,11 @@
 
 - Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
-- 21) § 3a ods. 10 písm. a) tretí bod a písm. b) siedmy bod zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+- 20a) § 2 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
-- 22) § 5 zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov.
+- 21) § 46 a 54 zákona č. 5/2004 Z. z.
+
+- 22) § 3 až 5 zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov.
 
 - 23) § 3 ods. 3 písm. a) zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
@@ -101,6 +103,8 @@
 - 30) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
 - 31) § 244 až 250k Občianskeho súdneho poriadku.
+
+- 31a) § 51 a 853 Občianskeho zákonníka.
 
 - 32) § 166 až 168 Trestného zákona.
 
