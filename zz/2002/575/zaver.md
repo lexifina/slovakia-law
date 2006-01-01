@@ -1,1 +1,0 @@
-Jozef Stank v. r.
