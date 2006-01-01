@@ -84,7 +84,7 @@
 
 - 42) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
-- 43) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení zákona č. 43/2004 Z. z.
+- 43) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 44) Zákon č. 152/1998 Z. z. o sťažnostiach.
 

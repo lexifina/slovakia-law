@@ -48,7 +48,7 @@ Príloha č. 1 k zákonu č. 43/2004 Z. z.
 
     - l<sub>x</sub> = počet žijúcich ludí vo veku x rokov.
 
-    - Na výpočet l<sub>x</sub>sa musia použiť zmiešané úmrtnostné tabuľky schválené Úradom pre finančný trh.
+    - Na výpočet l<sub>x</sub>sa musia použiť zmiešané úmrtnostné tabuľky schválené Národnou bankou Slovenska.
 
     - 2.1 Vzorec na výpočet potrebného jednotkového kapitálu pre starobné dôchodky a predčasné starobné dôchodky poskytované formou doživotného dôchodku
 
