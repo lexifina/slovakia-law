@@ -1,0 +1,3 @@
+Príloha č. 4 k zákonu č. 655/2005 Z. z.
+
+- VÝDAVKY ŠTÁTNEHO ROZPOČTU NA REALIZÁCIU PROGRAMOV NA ROK 2006 [Tabuľka 04](../assets/6287a8e7ee2f1565d229d80939aba7b19a7b5669d45ef898f298a2fcf8be40a0.pdf)
