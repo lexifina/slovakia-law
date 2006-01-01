@@ -72,7 +72,7 @@ Príloha č. 2 k nariadeniu vlády č. 42/2004 Z. z.
 
 - | 300 Sk za zverejnenie zmeny v údajoch o zriadení mediačného centra | 30
 
-- Údaje zverejňované správcom alebo súdnym exekútorom podľa osobitných predpisov<sup>9</sup>) | bezodplatne |
+- Údaje zverejňované správcom alebo súdnym exekútorom podľa osobitných predpisov<sup>1a</sup>) | bezodplatne |
 
 - Údaje o verejných súťažiach | bezodplatne, ak je vyhlasovateľom verejnej súťaže orgán verejnej moci |
 
