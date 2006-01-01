@@ -16,7 +16,7 @@
 
 - Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+- Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
 
 - § 22 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -56,7 +56,7 @@
 
 - 17) § 6 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
-- 18) § 8 ods. 1 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+- 18) § 6 ods. 1 písm. b) a § 8 ods. 1 až 3 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 19) § 244 a 247 Občianskeho súdneho poriadku.
 
