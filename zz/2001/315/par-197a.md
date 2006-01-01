@@ -2,9 +2,7 @@
 
 (1) Pri vymenovaní zamestnanca ministerstva alebo zamestnanca obce uvedeného v § 194a, 194b, § 195a, 195b a § 196a sa postupuje podľa § 17 až 19, § 49, § 103 až 122.
 
-(2) Veliteľa Hasičského a záchranného útvaru hlavného mesta Slovenskej republiky Bratislavy vymenúva prezident zboru po dohode s mestským zastupiteľstvom hlavného mesta Slovenskej republiky Bratislavy.
-
-(3) Ak zamestnanec ministerstva alebo zamestnanec obce
+(2) Ak zamestnanec ministerstva alebo zamestnanec obce
 
 - a) nie je vymenovaný do dočasnej štátnej služby,
 

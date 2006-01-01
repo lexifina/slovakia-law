@@ -12,7 +12,7 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
 - 1.4 prezident zboru | 30 - 47
 
-- 2. Ministerstvo - Zariadenia zboru |
+- 2. Ministerstvo - Zariadenia zboru a osobitné zariadenie zboru |
 
 - Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
 
@@ -26,9 +26,9 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
 - 2.5 vedúci oddelenia | 6 - 12
 
-- 2.6 zástupca riaditeľa zariadenia alebo zástupca veliteľa zariadenia | 7 - 20
+- 2.6 zástupca riaditeľa zariadenia alebo zástupca veliteľa zariadenia alebo zástupca veliteľa osobitného zariadenia | 7 - 20
 
-- 2.7 riaditeľ zariadenia alebo veliteľ zariadenia | 15 - 30
+- 2.7 riaditeľ zariadenia alebo veliteľ zariadenia alebo veliteľ osobitného zariadenia | 15 - 30
 
 - 3. Krajské riaditeľstvo Hasičského a záchranného zboru a pracovisko zboru |
 

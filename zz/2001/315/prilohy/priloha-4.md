@@ -11,3 +11,9 @@ Príloha č. 4 k zákonu č. 315/2001 Z. z.
   - 4. Smernica Rady 2000/43/ES z 29. júna 2000, ktorou sa zavádza zásada rovnakého zaobchádzania s osobami bez ohľadu na rasový alebo etnický pôvod (Ú. v. ES L 180, 19. 07. 2000).
 
   - 5. Smernica Rady 2000/78/ES z 27. novembra 2000, ktorá ustanovuje všeobecný rámec pre rovnaké zaobchádzanie v zamestnaní a povolaní (Ú. v. ES L 303, 2. 12. 2000).
+
+  - 6. Smernica Rady 75/117/EHS z 10. februára 1975 o aproximácii zákonov členských štátov týkajúcich sa uplatňovania zásady rovnakej odmeny pre mužov a ženy (Ú. v. ES 045, 19. 2. 1975).
+
+  - 7. Smernica Rady 76/207/EHS z 9. februára 1976 o vykonávaní zásady rovnakého zaobchádzania s mužmi a ženami pokiaľ ide o prístup k zamestnaniu, odbornej príprave a postupu v zamestnaní a o pracovné podmienky (Ú. v. ES L 39, 14. 2.1976) v znení smernice Európskeho parlamentu a Rady 2002/73/ES z 23. septembra 2002 (Ú. v. ES L 269, 5. 10. 2002).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2003/88/ES zo 4. novembra 2002 o niektorých aspektoch organizácie pracovného času (Ú. v. ES L 299, 18. 11. 2003).

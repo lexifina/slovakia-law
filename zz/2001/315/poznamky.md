@@ -24,11 +24,13 @@
 
 - 8) § 2 ods. 1 písm. b) zákona č. 314/2001 Z. z.
 
-- 9) Napríklad zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
+- 9) § 2 ods. 2 a § 44 ods. 1 zákona č. 314/2001 Z. z.
 
 - 10) Zákon č. 313/2001 Z. z. o verejnej službe.
 
 - 10a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
+- 10a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 11) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
@@ -46,11 +48,17 @@
 
 - 16a) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
+- 16b) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
 - 17) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
 - 17a) § 13 zákona č. 314/2001 Z. z.§ 19 vyhlášky Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
 
 - 17aa) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 17aaa) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení.
+
+- 17aaaa) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) § 143 a 143a Občianskeho zákonníka.
 
@@ -70,13 +78,19 @@
 
 - 24) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov, zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z.
 
+- 24a) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
+
 - 25) Občiansky zákonník.
 
-- 26) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
+- 25a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
+
+- 26) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+
+- Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 491/2004 Z. z. o odmenách, náhradách výdavkov a náhradách za stratu času pre znalcov, tlmočníkov a prekladateľov.
 
 - 27) Občiansky súdny poriadok v znení neskorších predpisov.
 
-- 27a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+- 27a) § 7 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - 28) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
