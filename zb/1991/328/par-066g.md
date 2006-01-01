@@ -1,5 +1,0 @@
-# § 66g Povinnosť podať návrh na vyhlásenie konkurzu alebo na vyrovnanie
-
-(1) V prípade, že dlžník, ktorý je podnikateľom, je nepretržite počas 60 dní v predlžení, je povinný podať návrh na vyhlásenie konkurzu alebo na vyrovnanie. Túto povinnosť nemá dlžník uvedený v § 67 ods. 3, dlžník hospodáriaci na poľnohospodárskej pôde alebo na lesnej pôde, a to v čase od 1. apríla do 30. septembra kalendárneho roka, a správca ustanovený podľa osobitného predpisu.<sup>8</sup>)
-
-(2) Povinnosť uvedenú v odseku 1 majú všetky osoby, ktoré sú oprávnené v mene dlžníka podať návrh na vyhlásenie konkurzu alebo na vyrovnanie, s výnimkou správcu ustanoveného podľa osobitného predpisu<sup>6b</sup>) a osôb oprávnených podať návrh na vyhlásenie konkurzu alebo na vyrovnanie v mene dlžníka uvedeného v § 67 ods. 3 a dlžníka hospodáriaceho na poľnohospodárskej pôde alebo na lesnej pôde, a to v čase od 1. apríla do 30. septembra kalendárneho roka; ak ju nesplnia, zodpovedajú veriteľom spoločne a nerozdielne za škodu, ktorá im tým vznikne.
