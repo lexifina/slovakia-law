@@ -4,4 +4,4 @@ Príloha č. 7 k vyhláške č. 338/2005 Z. z.
 
 - Fyzická osoba alebo právnická osoba prevádzkujúca lesnú výrobu:
 
-- [Vzor 07](../assets/38bbdfc76d05f1add5d6bcf7bd33332f18227cb17397b70c56203f089b649169.pdf)
+- [Vzor 07](../assets/fa74b1b620420eae676094bb4aca1b0685dc50fbedb98b12de9baf034a40ff9a.pdf)
