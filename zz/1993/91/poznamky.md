@@ -1,1 +1,0 @@
-- 1) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní.
