@@ -1,1 +1,0 @@
-- 1) Zákon č. 547/1990 Zb. o nakladaní s niektorými druhmi tovaru a technológií a o ich kontrole.
