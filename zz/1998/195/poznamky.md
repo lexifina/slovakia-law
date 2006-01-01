@@ -70,9 +70,11 @@
 
 - 41g) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z.
 
-- 42) § 8a a príloha č. 3 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
+- 42) § 5 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - 43) § 101 až 107 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+
+- 43a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 44) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
