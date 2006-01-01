@@ -1,4 +1,8 @@
-- 1) § 76 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky č. 45/1979 Zb.
+- 1) § 8 a 9 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 579/2004 Z. z.
+
+- 1a) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 113/2004 Z. z.
+
+- 1b) § 76 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky č. 45/1979 Zb.
 
 - 2) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.
 
@@ -20,15 +24,11 @@
 
 - Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov. Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
 
-- 8) Zákon č. 40/1961 Zb. Ústavný zákon č. 10/1969 Zb. o Rade ochrany štátu.
-
 - 10) § 1 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 11) § 2 zákona Národnej rady Slovenskej republiky č. 3/1993 Z.z. o zriadení Armády Slovenskej republiky v znení neskorších predpisov.
 
 - 12) Oznámenie Federálneho ministerstva zahraničných vecí o viazanosti Českej a Slovenskej Federatívnej Republiky Dodatkovými protokolmi I a II k Ženevským dohovorom z 12. augusta 1949 o ochrane obetí medzinárodných ozbrojených konfliktov a konfliktov nemajúcich medzinárodný charakter prijatých v Ženeve 8. júna 1977, č. 168/1991 Zb.
-
-- 13) § 30 zákona č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
 
 - 14) Napr. Slovenský Červený kríž, Zväz civilnej ochrany Slovenskej republiky, dobrovoľné jednotky požiarnej ochrany, Rýchla zdravotnícka pomoc, Hygienická služba, Banská záchranná služba, Horská služba, Jaskyniarska záchranná služba, Asociácia cvičiteľov záchranárskych psov, Vodná záchranná služba.
 
@@ -39,6 +39,8 @@
 - 16) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 284/1992 Zb. o opatreniach hospodárskej mobilizácie.
 
 - 16a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 16aa) § 18 ods. 1 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
 - 16b) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
@@ -51,6 +53,8 @@
 - 18) § 7 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
 - § 29 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+
+- 18a) Napríklad § 10 ods. 1 písm. p) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov, § 18 ods. 1 zákona č. 261/2002 Z. z., § 6 ods. 1 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 77/2005 Z. z.
 
 - 19) Napr. Slovenský Červený kríž, Zväz civilnej ochrany Slovenskej republiky.
 
