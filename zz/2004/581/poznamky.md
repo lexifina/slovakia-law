@@ -34,6 +34,10 @@
 
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
+- 17a) § 12 ods. 5 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
+
+- 17b) § 17 ods. 3 písm. c) a § 18 ods. 5 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
 - 18) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19) § 5 zákona č. 578/2004 Z. z.
@@ -43,8 +47,6 @@
 - 21) § 12 ods. 1 a 6 zákona č. 576/2004 Z. z.
 
 - 22) § 7 ods. 1 písm. c) a § 10 zákona č. 576/2004 Z. z.
-
-- 23) § 9 zákona č. 578/2004 Z. z.
 
 - 24) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
