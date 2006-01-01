@@ -40,6 +40,8 @@
 
 - 19) Tretia a štvrtá časť zákona č. 657/2004 Z. z. o tepelnej energetike.
 
+- § 10 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov.
+
 - 20) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
