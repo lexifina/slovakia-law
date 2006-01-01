@@ -49,3 +49,5 @@
 - 21) Zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení zákona č. 302/1992 Z. z.
 
 - 22) Zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov.
+
+- 23) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
