@@ -6,6 +6,8 @@
 
 - 3a) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
 
+- 3aa) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
 - 3b) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 4) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
