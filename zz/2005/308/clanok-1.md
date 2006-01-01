@@ -206,13 +206,21 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 
 - l)
 
-- podáva každé tri roky v spolupráci s centrom Európskej komisii správu o preberaní právne záväzných aktov Európskych spoločenstiev a Európskej únie v oblasti chemických látok, chemických prípravkov a detergentov do právneho poriadku Slovenskej republiky,“.
+- podáva každé tri roky v spolupráci s centrom Európskej komisii správu o preberaní právne záväzných aktov Európskych spoločenstiev a Európskej únie v oblasti chemických látok, chemických prípravkov a detergentov do právneho poriadku Slovenskej republiky,
+
+- m)
+
+- je odvolacím orgánom vo veciach, v ktorých rozhodlo centrum.“.
 
 - Poznámky pod čiarou k odkazom 23h a 23i znejú:
 
 - „<sup>23h</sup>) Nariadenie (ES) č. 648/2004.
 
 - <sup>23i</sup>) Čl. 15 ods. 1 nariadenia (ES) č. 648/2004.“.
+
+- 24. V § 34 sa vypúšťa písmeno a).
+
+- Doterajšie písmená b) až f) sa označujú ako písmená a) až e).
 
 - 25. V § 34 písm. b) sa na konci pripájajú tieto slová: „prostredníctvom Úradu verejného zdravotníctva Slovenskej republiky,“.
 
@@ -256,6 +264,32 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 
 - „<sup>23k</sup>) Čl. 5 ods. 3 nariadenia (ES) č. 648/2004.“.
 
+- 34. V § 37 odsek 3 znie:
+
+- „(3)
+
+- Centrum je rozpočtová organizácia,<sup>23l</sup>) ktorá je finančnými vzťahmi zapojená na rozpočet ministerstva hospodárstva. Centrum je služobným úradom štátnych zamestnancov, ktorí vykonávajú štátnu službu,<sup>23m</sup>) a zamestnávateľom zamestnancov, ktorí vykonávajú práce vo verejnom záujme.<sup>23n</sup>)“.
+
+- Poznámky pod čiarou k odkazom 23l, 23m a 23n znejú:
+
+- „23l)
+
+- § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 23m)
+
+- Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23n)
+
+- Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.“.
+
+- 35. V § 37 odsek 4 znie:
+
+- „(4)
+
+- Na čele centra je riaditeľ, ktorého vymenúva a odvoláva minister hospodárstva Slovenskej republiky po dohode s ministrom zdravotníctva Slovenskej republiky a ministrom životného prostredia Slovenskej republiky.“.
+
 - 36. V § 38 odsek 8 znie:
 
 - „(8)
@@ -281,6 +315,12 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 - „e)
 
 - nesplnil podmienky uvedené v § 29, pričom nedodržal ustanovenia osobitného predpisu Európskej únie.<sup>23b</sup>)“.
+
+- 40. Za § 42a sa vkladá § 42b, ktorý znie:
+
+- „§ 42b
+
+- Osoba, ktorá podľa doterajších predpisov vykonáva funkciu riaditeľa centra, sa od účinnosti tohto zákona považuje za riaditeľa centra podľa tohto zákona.“.
 
 - 41. Za § 43 sa vkladá § 43a, ktorý znie:
 
