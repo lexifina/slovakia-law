@@ -160,13 +160,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 6
 
-  - a) Vydanie preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 50 Sk
+  - a) Vydanie preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 150 Sk
 
-  - b) Vydanie preukazu (osvedčenia) ako náhrady za zničený, stratený alebo poškodený preukaz (osvedčenie), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 200 Sk
+  - b) Vydanie preukazu (osvedčenia) ako náhrady za zničený, stratený, odcudzený alebo poškodený preukaz (osvedčenie), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 500 Sk
 
-  - c) Predĺženie platnosti preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 50 Sk
+  - c) Predĺženie platnosti preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 200 Sk
 
-  - d) Vydanie preukazu (osvedčenia) ako náhrady za stratený, zničený alebo poškodený preukaz (osvedčenie), opakovane v priebehu dvoch po sebe nasledujúcich rokoch ..... | 500 Sk
+  - d) Vydanie preukazu (osvedčenia) ako náhrady za stratený, zničený, odcudzený alebo poškodený preukaz (osvedčenie), opakovane v priebehu dvoch po sebe nasledujúcich rokoch ..... | 1 000 Sk
 
   - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené vydanie prvého občianskeho preukazu a vydanie občianskeho preukazu z úradnej moci a od poplatku podľa písmena c) tejto položky je oslobodené predĺženie platnosti preukazu osobitného označenia vozidla pre ťažko zdravotne alebo ťažko pohybovo postihnutú osobu odkázanú na individuálnu prepravu. |
 
@@ -472,25 +472,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 30
 
-  - a) Žiadosť o vydanie zbrojného preukazu ...................................................................................................... | 500 Sk
+  - a) Žiadosť o vydanie zbrojného preukazu | 500 Sk
 
   - b) Vykonanie skúšky alebo preskúšanie z odbornej spôsobilosti držať alebo nosiť zbraň a strelivo |
 
-  - 1. prvá skúška .................................................................................................................................................... | 1 500 Sk
+  - 1. prvá skúška | 1 500 Sk
 
-  - 2. opakovaná skúška ........................................................................................................................................ | 800 Sk
+  - 2. opakovaná skúška | 800 Sk
 
-  - c) Žiadosť o rozšírenie zbrojného preukazu ................................................................................................... | 500 Sk
+  - c) Žiadosť o rozšírenie zbrojného preukazu | 500 Sk
 
-  - d) Žiadosť o vydanie nového zbrojného preukazu ......................................................................................... | 100 Sk
+  - d) Žiadosť o vydanie nového zbrojného preukazu | 500 Sk
 
-  - e) Žiadosť o vydanie európskeho zbrojného pasu ........................................................................................ | 500 Sk
+  - e) Žiadosť o vydanie európskeho zbrojného pasu | 500 Sk
 
-  - f) Žiadosť o predĺženie platnosti európskeho zbrojného pasu ................................................................... | 100 Sk
+  - f) Žiadosť o predĺženie platnosti európskeho zbrojného pasu | 100 Sk
 
-  - g) Žiadosť o vydanie zbrojnej licencie .............................................................................................................. | 5 000 Sk
+  - g) Žiadosť o vydanie zbrojnej licencie | 10 000 Sk
 
-  - h) Žiadosť o vydanie povolenia na prevádzkovanie strelnice....................................................................... | 5 000 Sk
+  - h) Žiadosť o vydanie povolenia na prevádzkovanie strelnice | 20 000 Sk
 
   - Oslobodenie 1. Od poplatku podľa písmen a) až g) tejto položky sú oslobodení profesionálni vojaci ozbrojených síl Slovenskej republiky, príslušníci ozbrojených zborov Slovenskej republiky a príslušníci Slovenskej informačnej služby. 2. Od poplatku podľa tejto položky sú oslobodené osoby uvedené v bode 1 oslobodenia pri položke 37, ak ide o zbrane používané na poľovné účely. 3. Od poplatku podľa tejto položky sú oslobodení športoví strelci zaradení v strediskách vrcholového športu a reprezentanti Slovenskej republiky v športovej streľbe, ak ide o zbrane používané len na športové účely. 4. Od poplatku podľa tejto položky sú oslobodené osoby uvedené v bode 1 tohto oslobodenia, ak boli v služobnom pomere najmenej 20 rokov. |
 
@@ -946,9 +946,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 63
 
-  - Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu a ich rozšírenie ................................................................................................................................ | 100 Sk
+  - a) Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu a ich rozšírenie | 200 Sk
 
-  - Oslobodenie Od poplatku je oslobodené vydanie nového vodičského preukazu po skončení skúšobnej lehoty určenej osbitným právnym predpisom.<sup>19</sup>) |
+  - b) Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu ako náhrady za |
+
+  - 1. stratený, zničený alebo poškodený preukaz | 400 Sk
+
+  - 2. za odcudzený preukaz | 200 Sk
+
+  - Oslobodenie Od poplatku je oslobodené vydanie nového vodičského preukazu po skončení skúšobnej lehoty určenej osobitným právnym predpisom.<sup>19</sup>) |
 
     - Položka 63a
 
@@ -968,11 +974,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 65
 
-  - a) Zápis prvého držiteľa motorového vozidla alebo prípojného vozidla do evidencie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov ........................................................................................... | 1 000 Sk
+  - a) Zápis prvého držiteľa motorového vozidla alebo prípojného vozidla do evidencie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov | 1 000 Sk
 
-  - b) Zápis ďalšieho držiteľa motorového vozidla alebo prípojného vozidla do evidencie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov ............................................................................................ | 300 Sk
+  - b) Zápis ďalšieho držiteľa motorového vozidla alebo prípojného vozidla do evidencie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov | 1 000 Sk
 
-  - c) Zápis prvého a ďalšieho držiteľa motorového vozidla alebo prípojného vozidla do evidencie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov, ak je držiteľom motorového vozidla osoba s ťažkým zdravotným postihnutím, držiteľ preukazu ZŤP alebo ZŤP-S a preukazu občana s ťažkým zdravotným postihnutím alebo ak ide o motorové vozidlo upravené na vedenie osobami s ťažkým zdravotným postihnutím ..................................................... | 50 Sk
+  - c) Zápis prvého a ďalšieho držiteľa motorového vozidla alebo prípojného vozidla do evidencie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov, ak je držiteľom motorového vozidla osoba s ťažkým zdravotným postihnutím, držiteľ preukazu ZŤP alebo ZŤP-S a preukazu občana s ťažkým zdravotným postihnutím alebo ak ide o motorové vozidlo upravené na vedenie osobami s ťažkým zdravotným postihnutím | 50 Sk
 
   - Oslobodenie Od poplatku podľa tejto položky je oslobodený zápis držiteľa motorového vozidla alebo prípojného vozidla nadobudnutého dedením, na základe úradného príkazu alebo rozhodnutia súdu a zániku bezpodielového spoluvlastníctva manželov. |
 
@@ -1102,11 +1108,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 73
 
-  - a) Podanie žiadosti o dočasné vyradenie cestného vozidla alebo zvláštneho vozidla z premávky na pozemných komunikáciách .............................................................................................................................. | 500 Sk
+  - a) Podanie žiadosti o dočasné vyradenie cestného vozidla alebo zvláštneho vozidla z premávky na pozemných komunikáciách | 100 Sk
 
-  - b) Podanie žiadosti o povolenie výnimky podľa osobitného predpisu<sup>22ac</sup>) ................................................. | 500 Sk
+  - b) Podanie žiadosti o povolenie výnimky podľa osobitného predpisu<sup>22ac</sup>) | 500 Sk
 
-  - c) Podanie žiadosti o trvalé vyradenie motorového vozidla alebo prípojného vozidla z evidencie ........... | 50 Sk
+  - c) Podanie žiadosti o trvalé vyradenie motorového vozidla alebo prípojného vozidla z evidencie | 50 Sk
 
   - Poznámka Poplatok podľa písmena a) tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení motorového vozidla alebo prípojného vozidla z premávky. |
 
@@ -2054,7 +2060,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 138
 
-  - Prevzatie štátnej záruky Ministerstvom financií Slovenskej republiky za bankový úver vystavením záručnej listiny alebo podpísaním zmluvy o záruke, z celkovej istiny úveru |
+  - Poskytnutie štátnej záruky Ministerstvom financií Slovenskej republiky za bankový úver vystavením záručnej listiny alebo podpísaním zmluvy o záruke, z celkovej istiny úveru |
 
   - | | a) do 100 mil. Sk ............................................................................................................................................ | 100 000 Sk
 
@@ -2168,33 +2174,47 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 149
 
-  - a) Podanie žiadosti o vydanie licencie na prevádzku |
+  - a) Podanie žiadosti o udelenie licencie na prevádzku |
 
-  - 1. strážnej služby .............................................................................................................................................. | 2 500 Sk
+  - 1. strážnej služby ................................................................................................................................................. | 2 500 Sk
 
-  - 2. detektívnej služby ......................................................................................................................................... | 3 000 Sk
+  - 2. detektívnej služby ............................................................................................................................................ | 3 000 Sk
 
-  - 3. vlastnej ochrany ........................................................................................................................................... | 2 000 Sk
+  - 3. odbornej prípravy a poradenstva .................................................................................................................. | 3 500 Sk
 
-  - b) Podanie prihlášky o vykonanie skúšky odbornej spôsobilosti,<sup>34</sup>) za každú prihlásenú osobu .... | 1 000 Sk
+  - 4. vlastnej ochrany ............................................................................................................................................... | 2 000 Sk
 
-  - c) Podanie žiadosti o udelenie akreditácie<sup>35</sup>) ............................................................................................. | 1 000 Sk
+  - 5. technickej služby ............................................................................................................................................. | 2 000 Sk
 
-  - d) Vydanie licencie na prevádzku bezpečnostnej služby alebo vlastnej ochrany .................................. | 1 000 Sk
+  - b) Podanie žiadosti o vykonanie kvalifikačnej skúšky ...................................................................................... | 2 000 Sk
 
-  - e) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky ............................................................................. | 1 000 Sk
+  - c) Podanie prihlášky na vykonanie skúšky odbornej spôsobilosti za každú prihlásenú osobu |
 
-  - f) Vydanie preukazu odbornej spôsobilosti osoby poverenej výkonom fyzickej ochrany alebo pátrania pri poskytovaní bezpečnostných služieb<sup>36</sup>) ....................................................................... | 500 Sk
+  - 1. skúška typu S ................................................................................................................................................... | 500 Sk
 
-  - g) Vydanie rozhodnutia o udelení akreditácie na odbornú prípravu súkromných bezpečnostných činností ...................................................................................................................................... | 5 000 Sk
+  - 2. skúška typu P ................................................................................................................................................... | 1 500 Sk
 
-  - h) Vydanie rozhodnutia o zmene údajov v rozhodnutí o udelení licencie na prevádzku bezpečnostnej služby alebo vlastnej ochrany ....................................................................................................... | 500 Sk
+  - 3. skúška po skrátenej forme odbornej prípravy ........................................................................................... | 1 000 Sk
 
-  - i) Vydanie rozhodnutia o zmene údajov v rozhodnutí o udelení akreditácie na odbornú prípravu súkromných bezpečnostných činností ................................................................................. | 2 000 Sk
+  - d) Podanie žiadosti o udelenie akreditácie ........................................................................................................ | 5 000 Sk
 
-  - j) Podanie žiadosti o preverenie spoľahlivosti osoby, ktorá má byť poverená výkonom fyzickej ochrany na strategickom objekte, <sup>34a</sup>) za každú osobu ....................................................................... | 100 Sk
+  - e) Podanie žiadosti o preverenie spoľahlivosti osoby, ktorá má byť poverená výkonom fyzickej ochrany na objekte osobitnej dôležitosti, za každú osobu ................................................................. | 100 Sk
 
-  - Poznámky 1. Správny orgán môže poplatok podľa písmena f) znížiť na pätinu uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydaný podľa § 32 ods. 2 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách). 2. Správny orgán môže zvýšiť poplatok podľa písmena f) tejto položky až do výšky dvojnásobku sadzby, ak sa vydáva preukaz odbornej spôsobilosti pri druhej strate. Pri každej ďalšej strate preukazu odbornej spôsobilosti môže poplatok zvýšiť o dvojnásobok predchádzajúceho poplatku. |
+  - f) Vydanie licencie na prevádzkovanie bezpečnostnej služby, vlastnej ochrany alebo technickej služby | 1 000 Sk
+
+  - g) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky ................................................................................... | 1 000 Sk
+
+  - h) Vydanie preukazu odbornej spôsobilosti ....................................................................................................... | 500 Sk
+
+  - i) Vydanie rozhodnutia o udelení akreditácie ..................................................................................................... | 1 000 Sk
+
+  - j) Vydanie rozhodnutia o zmene rozhodnutia o udelení licencie .................................................................... | 500 Sk
+
+  - k) Vydanie rozhodnutia o zmene rozhodnutia o udelení akreditácie ............................................................. | 2 000 Sk
+
+  - l) Vydanie výpisu z evidencie informačného systému súkromnej bezpečnosti .......................................... | 500 Sk
+
+  - Poznámky 1. Správny orgán poplatok podľa písmena a) bodu 5. zníži na pätinu uvedenej sadzby, ak k 1. 1. 2006 je žiadateľ držiteľom oprávnenia podľa doterajších predpisov. 2. Správny orgán môže poplatok podľa písmena h) znížiť na pätinu uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydávaný podľa § 19 ods. 3 a 4 zákona o súkromnej bezpečnosti. 3. Správny orgán zvýši poplatok podľa písmena h) do výšky dvojnásobku uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydávaný pri druhej strate. Pri každej ďalšej strate preukazu odbornej spôsobilosti sa poplatok zvýši na dvojnásobok predchádzajúceho poplatku. 4. Správny orgán správny poplatok podľa písmena j) nevyberie, ak zmena rozhodnutia o udelení licencie je vykonaná z podnetu správneho orgánu. 5. Správny orgán správny poplatok podľa písmena k) nevyberie, ak zmena rozhodnutia o udelení akreditácie je vykonaná z podnetu správneho orgánu. |
 
     - Položka 150
 
@@ -2276,73 +2296,61 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Vydanie povolenia na sprostredkovanie zamestnania za úhradu |
 
-  - 1. pre fyzické osoby .................................................................................................................................... | 500 Sk
+  - 1. pre fyzické osoby | 500 Sk
 
-  - 2. pre právnické osoby .............................................................................................................................. | 1 000 Sk
+  - 2. pre právnické osoby | 1 000 Sk
 
-  - b) Predĺženie povolenia na sprostredkovanie zamestnania za úhradu |
+  - b) Zmena povolenia na sprostredkovanie zamestnania za úhradu |
 
-  - 1. pre fyzické osoby ................................................................................................................................... | 250 Sk
+  - 1. pre fyzické osoby | 250 Sk
 
-  - 2. pre právnické osoby .............................................................................................................................. | 500 Sk
+  - 2. pre právnické osoby | 500 Sk
 
-  - c) Zmena povolenia na sprostredkovanie zamestnania za úhradu |
+  - c) Vydanie povolenia na činnosť agentúry dočasného zamestnávania |
 
-  - 1. pre fyzické osoby ................................................................................................................................... | 250 Sk
+  - 1. pre fyzické osoby | 1 500 Sk
 
-  - 2. pre právnické osoby ............................................................................................................................. | 500 Sk
+  - 2. pre právnické osoby | 3 000 Sk
 
-  - d) Vydanie povolenia na činnosť agentúry dočasného zamestnávania |
+  - d) Zmena povolenia na činnosť agentúry dočasného zamestnávania |
 
-  - 1. pre fyzické osoby ................................................................................................................................... | 1 500 Sk
+  - 1. pre fyzické osoby | 750 Sk
 
-  - 2. pre právnické osoby ............................................................................................................................. | 3 000 Sk
+  - 2. pre právnické osoby | 1 500 Sk
 
-  - e) Predĺženie povolenia na činnosť agentúry dočasného zamestnávania |
+  - e) Vydanie povolenia na činnosť agentúry podporovaného zamestnávania |
 
-  - 1. pre fyzické osoby ................................................................................................................................... | 750 Sk
+  - 1. pre fyzické osoby | 1 500 Sk
 
-  - 2. pre právnické osoby ............................................................................................................................. | 1 500 Sk
+  - 2. pre právnické osoby | 3 000 Sk
 
-  - f) Zmena povolenia na činnosť agentúry dočasného zamestnávania |
+  - f) Zmena povolenia na činnosť agentúry podporovaného zamestnávania |
 
-  - 1. pre fyzické osoby .................................................................................................................................. | 750 Sk
+  - 1. pre fyzické osoby | 750 Sk
 
-  - 2. pre právnické osoby ............................................................................................................................ | 1 500 Sk
+  - 2. pre právnické osoby | 1 500 Sk
 
-  - g) Vydanie povolenia na činnosť agentúry podporovaného zamestnávania |
+  - g) Vyhotovenie duplikátu povolení uvedených v písmenách a) až f) | 100 Sk
 
-  - 1. pre fyzické osoby .................................................................................................................................... | 1 500 Sk
-
-  - 2. pre právnické osoby ............................................................................................................................. | 3 000 Sk
-
-  - h) Predĺženie povolenia na činnosť agentúry podporovaného zamestnávania |
-
-  - 1. pre fyzické osoby ................................................................................................................................... | 750 Sk
-
-  - 2. pre právnické osoby ............................................................................................................................. | 1 500 Sk
-
-  - i) Zmena povolenia na činnosť agentúry podporovaného zamestnávania |
-
-  - 1. pre fyzické osoby ................................................................................................................................... | 750 Sk
-
-  - 2. pre právnické osoby ............................................................................................................................. | 1 500 Sk
-
-  - j) Vyhotovenie duplikátu povolení uvedených v písmenách a) až i) | 100 Sk
-
-  - Poznámky Správny orgán odpustí poplatok podľa písmena a) až f) fyzickej osobe, ktorá je držiteľom preukazu ZŤP alebo ZŤP-S a preukazu občana s ťažkým zdravotným postihnutím, ak uvedenú činnosť bude vykonávať ako osoba samostatne zárobkovo činná a nebude zamestnancom. |
+  - Poznámky Správny orgán odpustí poplatok podľa písmen a) až f) fyzickej osobe, ktorá je držiteľom preukazu občana s ťažkým zdravotným postihnutím, ak uvedenú činnosť bude vykonávať ako osoba samostatne zárobkovo činná a nebude zamestnancom. |
 
     - Položka 151
 
   - a) Vydanie povolenia na zaobchádzanie s omamnými a psychotropnými látkami a určenými látkami kategórie 1 a registrácia prevádzkovateľov zaobchádzajúcich s určenými látkami kategórie 2 a 3 ........... | 1 000 Sk
 
-  - b) Zmena povolenia alebo registrácie vydaného podľa písmena a) ............................................................... | 500 Sk
+  - b) Zmena povolenia alebo registrácie vydaného podľa písmena a) ................................................................ | 500 Sk
 
-  - c) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na využívanie prírodných liečivých zdrojov alebo prírodných zdrojov minerálnych stolových vôd .................................... | 10 000 Sk
+  - c) Vydanie povolenia využívať prírodný liečivý zdroj alebo prírodný minerálny zdroj Štátnou kúpeľnou komisiou ............................................................................................................ | 10 000 Sk
 
-  - d) Zmena povolenia podľa písmena c)............................................................................................................ | 5 000 Sk
+  - d) Zmena povolenia podľa písmena c)................................................................................................................... | 5 000 Sk
 
-  - e) Vydanie povolenia Ministerstvom zdravotníctva Slovenskej republiky na úpravu produktov prírodného liečivého zdroja alebo prírodného zdroja minerálnej stolovej vody ............................................. | 3 000 Sk
+  - e) Vydanie povolenia na úpravu prírodnej liečivej vody alebo prírodnej minerálnej vody Štátnou kúpeľnou komisiou.......................................................................................... | 5 000 Sk
+
+  - f) Vydanie rozhodnutia o uznaní klimatických podmienok vhodných na liečenie Štátnou kúpeľnou komisiou................................................................................................................... | 10 000 Sk
+
+  - g) Vydanie rozhodnutia o uznaní prírodnej liečivej vody alebo prírodnej minerálnej vody Štátnou kúpeľnou komisiou................................................................................................................... | 10 000 Sk
+
+  - h) Vydanie povolenia na prevádzkovanie prírodných liečebných kúpeľov alebo kúpeľných liečební Štátnou kúpeľnou komisiou..................................................................................... | 25 000 Sk
 
     - Položka 152
 
@@ -2772,31 +2780,31 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Žiadosť o registráciu organizácie podľa osobitného predpisu<sup>39h</sup>) pre |
 
-  - a) malú organizáciu<sup>39i</sup>) a malého podnikateľa<sup>39j</sup>) ........................................................................................ | 2 000 Sk
+  - a) malú organizáciu – malý podnik<sup>39i</sup>) ........................................................... | 2 000 Sk
 
-  - b) stredného podnikateľa<sup>39k</sup>) ............................................................................................................................. | 20 000 Sk
+  - b) strednú organizáciu – stredný podnik<sup>39i</sup>) ................................................. | 20 000 Sk
 
-  - c) ostatné organizácie ......................................................................................................................................... | 50 000 Sk
+  - c) ostatnú organizáciu ....................................................................................... | 50 000 Sk
 
     - Položka 171i
 
-  - Žiadosť o predĺženie registrácie podľa osobitného predpisu<sup>39l</sup>) pre |
+  - Žiadosť o predĺženie registrácie organizácie podľa osobitného predpisu<sup>39j</sup>) pre |
 
-  - a) malú organizáciu<sup>39i</sup>) a malého podnikateľa<sup>39j</sup>) .................................................................................... | 500 Sk
+  - a) malú organizáciu – malý podnik<sup>39i</sup>) ............................................................................... | 500 Sk
 
-  - b) stredného podnikateľa<sup>39k</sup>) ......................................................................................................................... | 5 000 Sk
+  - b) strednú organizáciu – stredný podnik<sup>39i</sup>) ..................................................................... | 5 000 Sk
 
-  - c) ostatné organizácie ...................................................................................................................................... | 15 000 Sk
+  - c) ostatnú organizáciu ........................................................................................................... | 15 000 Sk
 
     - Položka 171j
 
-  - Žiadosť o zrušenie dočasného pozastavenia registrácie podľa osobitného predpisu<sup>39m</sup>) pre |
+  - Žiadosť o zrušenie dočasného pozastavenia registrácie organizácie podľa osobitného predpisu<sup>39k</sup>) pre |
 
-  - a) malú organizáciu<sup>39i</sup>) a malého podnikateľa<sup>39j</sup>) ........................................................................................ | 1 000 Sk
+  - a) malú organizáciu – malý podnik<sup>39i</sup>) ..................................................................................................................... | 1 000 Sk
 
-  - b) stredného podnikateľa<sup>39k</sup>) ............................................................................................................................. | 10 000 Sk
+  - b) strednú organizáciu – stredný podnik<sup>39i</sup>) ............................................................................................................ | 10 000 Sk
 
-  - c) ostatné organizácie .......................................................................................................................................... | 25 000 Sk
+  - c) ostatnú organizáciu .................................................................................................................................................. | 25 000 Sk
 
     - Položka 171k
 

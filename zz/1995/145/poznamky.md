@@ -240,13 +240,15 @@
 
 - 39g) § 21 zákona č. 261/2002 Z. z.
 
-- 39h) § 18 ods. 7 písm. e) zákona č. 468/2002 Z. z. o systéme environmentálne orientovaného riadenia a auditu.
+- 39h) § 2 ods. 4 písm. c) zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov.
 
-- 39i) § 8 ods. 5 zákona č. 468/2002 Z. z.
+- 39i) Príloha I k nariadeniu Komisie (ES) č. 70/2001 z 12. januára 2001 o uplatňovaní článkov 87 a 88 Zmluvy ES na štátnu pomoc malým a stredným podnikom (Ú. v. ES L 010, 13. 1. 2001).
 
-- 39j) § 10 ods. 1 písm. a) zákona č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+- Odporúčanie Európskej komisie o definícii mikro a malých a stredných podnikov č. 361/2003/EC (Ú. v. ES L 124, 20. 5. 2003).
 
-- 39k) § 10 ods. 1 písm. b) zákona č. 231/1999 Z. z.
+- 39j) § 3 ods. 2 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov.
+
+- 39k) § 3 ods. 4 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov.
 
 - 39l) § 19 ods. 2 zákona č. 468/2002 Z. z.
 
