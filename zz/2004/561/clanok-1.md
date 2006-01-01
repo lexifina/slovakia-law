@@ -136,6 +136,52 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z. s
 
 - „Účtovná jednotka pritom zohľadňuje aj informácie týkajúce sa stavu ku dňu, ku ktorému sa zostavuje účtovná závierka a ktoré účtovná jednotka získala do dňa zostavenia účtovnej závierky.“.
 
+- 27. Za § 17 sa vkladajú § 17a a 17b, ktoré znejú:
+
+- „§ 17a
+
+- (1)
+
+- Okrem účtovných jednotiek podľa osobitných predpisov<sup>22a</sup>) zostavuje individuálnu účtovnú závierku a výročnú správu podľa osobitných predpisov<sup>22a</sup>) aj účtovná jednotka, ktorou je banka, pobočka zahraničnej banky, Exportno-importná banka Slovenskej republiky, obchodník s cennými papiermi, pobočka zahraničného obchodníka s cennými papiermi, Garančný fond investícií, správcovská spoločnosť, pobočka správcovskej spoločnosti, poisťovňa, pobočka zahraničnej poisťovne, zaisťovňa, pobočka zahraničnej zaisťovne, Slovenská kancelária poisťovateľov, dôchodková správcovská spoločnosť, doplnková dôchodková poisťovňa, Fond ochrany vkladov, Burza cenných papierov, Centrálny depozitár cenných papierov Slovenskej republiky.
+
+- (2)
+
+- Podľa odseku 1 postupuje aj účtovná jednotka neuvedená v odseku 1, ak je obchodnou spoločnosťou, ktorá najmenej dve po sebe idúce účtovné obdobia spĺňa aspoň dve z týchto podmienok:
+
+- a)
+
+- celková suma majetku presiahla 5 000 000 000 Sk, pričom sumou majetku sa rozumie suma zistená zo súvahy v ocenení neupravenom o položky podľa § 26 ods. 3,
+
+- b)
+
+- čistý obrat presiahol 5 000 000 000 Sk,
+
+- c)
+
+- priemerný prepočítaný počet zamestnancov v jednotlivom účtovnom období presiahol 2 000.
+
+- (3)
+
+- Účtovná jednotka uvedená v odseku 2, ktorá začne zostavovať individuálnu účtovnú závierku a výročnú správu podľa odseku 1, zostavuje takúto individuálnu účtovnú závierku aj keď zaniknú podmienky ustanovené v odseku 2.
+
+- (4)
+
+- Na účtovnú jednotku, ktorá zostavuje individuálnu účtovnú závierku a výročnú správu podľa odseku 1, sa vzťahuje tento zákon, ak osobitné predpisy<sup>22a</sup>) neustanovujú inak.
+
+- § 17b
+
+- Účtovná jednotka, ktorou je Národná banka Slovenska, zostavuje individuálnu účtovnú závierku a výročnú správu podľa osobitného predpisu.<sup>22b</sup>) Na účtovnú jednotku, ktorou je Národná banka Slovenska, sa vzťahuje tento zákon, ak osobitné predpisy<sup>22b</sup>) neustanovujú inak.“.
+
+- Poznámky pod čiarou k odkazom 22a a 22b znejú:
+
+- „<sup>22a</sup>) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Úradný vestník Európskych spoločenstiev L 243, 11. 09. 2002).
+
+- Nariadenie Komisie (ES) č. 1725/2003 z 29. septembra 2003 o prijatí určitých medzinárodných účtovných noriem v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Úradný vestník Európskej únie L 261, 13. 10. 2003) v znení nariadenia Komisie (ES) č. 707/2004 zo 6. apríla 2004 (Úradný vestník Európskej únie L 111, 17. 04. 2004).
+
+- 22b)
+
+- Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).“.
+
 - 28. V § 18 odsek 5 znie:
 
 - „(5)
