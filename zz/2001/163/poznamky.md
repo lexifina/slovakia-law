@@ -86,6 +86,12 @@
 
 - 23k) Čl. 5 ods. 3 nariadenia (ES) č. 648/2004.
 
+- 23l) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 23m) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23n) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
 - 24) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z.
 
 - 24a) Zákon č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a zmene a doplnení niektorých zákonov.
