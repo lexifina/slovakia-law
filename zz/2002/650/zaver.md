@@ -1,1 +1,0 @@
-Peter Čarakčiev v. r.
