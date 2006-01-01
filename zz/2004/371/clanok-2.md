@@ -7,3 +7,9 @@ Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 36/1967 Z
 - Doterajší odsek 4 sa označuje ako odsek 3.
 
 - Poznámky pod čiarou k odkazom 1b, 14, 15 a 24 sa vypúšťajú.
+
+- 2. V § 9 odsek 3 znie:
+
+- „(3)
+
+- Krajské súdy rozhodujú ako súdy prvého stupňa aj v prípadoch, ak osobitný predpis ustanovuje, že rozhoduje súd.“.
