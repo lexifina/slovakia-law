@@ -24,7 +24,7 @@
 
 - 13) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
-- 14) Napríklad zákon č. 368/1999 Z. z. rezervách a opravných položkách na zistenie základu dane z príjmov.
+- 14) Napríklad § 20 ods. 9 písm. b) a d) zákona č. 595/2003 Z. z.
 
 - 14a) § 2 písm. s) druhý bod zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
 
@@ -32,19 +32,21 @@
 
 - 14c) § 19 ods. 3 písm. o) zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
 
+- 14ca) § 25 ods. 6 zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
+
 - 14d) § 17 ods. 3 písm. h) zákona č. 595/2003 Z. z.
 
 - 14e) § 8 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 651/2004 Z. z.
 
 - 14f) Zákon č. 222/2004 Z. z. v znení neskorších predpisov.
 
-- 14g) § 11 zákona č. 222/2004 Z. z.
+- 14g) § 11 a 11a zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
 
-- 15) Napríklad zákon č. 70/1998 Z. z. o energetike v znení neskorších predpisov, zákon č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon), zákon č. 543/2002 Z. z. o ochrane prírody a krajiny.
+- 15) Napríklad zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon), v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 16) Napríklad zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
-- 17) Zákon č. 70/1998 Z. z. v znení neskorších predpisov.
+- 17) Zákon č. 656/2004 Z. z.
 
 - 17a) § 24 ods. 2 zákona č. 595/2003 Z. z.
 

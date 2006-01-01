@@ -4,4 +4,4 @@
 
 (2) Pri prijatí služby alebo pri nadobudnutí majetku, ktorým je tovar podľa osobitného predpisu<sup>14e</sup>), pri ktorých nevzniká účtovnej jednotke nárok na odpočítanie dane z pridanej hodnoty podľa osobitného predpisu<sup>14f</sup>), je daň z pridanej hodnoty súčasťou obstarávacej ceny.
 
-(3) Daň z pridanej hodnoty vzťahujúca sa na tovar nadobudnutý za protihodnotu v tuzemsku z iného členského štátu Európskych spoločenstiev<sup>14g</sup>) sa v deň vzniku daňovej povinnosti účtuje v knihe záväzkov alebo v pomocnej knihe k dani z pridanej hodnoty.
+(3) Daň z pridanej hodnoty vzťahujúca sa na tovar nadobudnutý za protihodnotu v tuzemsku z iného členského štátu Európskych spoločenstiev<sup>14g</sup>) sa v deň vzniku daňovej povinnosti účtuje v knihe záväzkov alebo v pomocnej knihe k dani z pridanej hodnoty. Ak vznikne právo odpočítať daň z pridanej hodnoty<sup>14f</sup>), účtuje sa odpočítateľná daň v deň vzniku nároku na odpočítanie dane v knihe pohľadávok alebo v pomocnej knihe dane z pridanej hodnoty.

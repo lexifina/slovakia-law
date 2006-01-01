@@ -16,6 +16,14 @@
 
 (5) V deň splatnosti dohodnutých platieb sa v knihe záväzkov nájomcu účtuje záväzok vo výške splatného finančného nákladu, v peňažnom denníku sa účtuje úhrada dohodnutej platby<sup>14c</sup>).
 
-(6) V rámci uzávierkových účtovných operácií sa v peňažnom denníku nájomcu účtuje odpis majetku obstaraného finančným prenájmom<sup>3</sup>).
+(6) Ak je ocenenie majetku v cudzej mene, prepočíta sa ocenenie majetku, ako aj ocenenie záväzku z istiny v účtovníctve nájomcu na slovenskú menu kurzom vyhláseným Národnou bankou Slovenska platným ku dňu prevzatia majetku nájomcom. V deň splatnosti dohodnutých platieb sa v knihe záväzkov nájomcu účtuje záväzok vo výške splatného finančného nákladu, prepočítaný kurzom Národnej banky Slovenska platným ku dňu splatnosti. V peňažnom denníku sa zaúčtuje úhrada dohodnutej platby v slovenskej mene, ktorá sa ocení kurzom príslušnej banky platným v deň úhrady. Kurzové rozdiely, vznikajúce pri jednotlivých splátkach, sa účtujú podľa § 15 ods. 4.
 
-(7) Majetok obstaraný finančným prenájmom sa v účtovníctve nájomcu odpisuje podľa § 14.
+(7) Prijatie majetku prenajímateľom z dôvodu predčasného ukončenia finančného prenájmu sa účtuje v knihe zásob v zostatkovej hodnote istiny, ak prenajímateľ bude tento majetok využívať aj naďalej na obchodovanie. Zánik pohľadávky sa účtuje v knihe pohľadávok prenajímateľa. Prípadné finančné vysporiadanie prenajímateľa s nájomcom sa účtuje v peňažnom denníku prenajímateľa.
+
+(8) V deň odovzdania majetku prenajímateľovi z dôvodu predčasného ukončenia finančného prenájmu sa účtuje vyradenie majetku v zostatkovej cene v knihe dlhodobého majetku nájomcu. V knihe záväzkov nájomcu sa účtuje zánik zostatku záväzku vzniknutého z finančného prenájmu. Prípadné finančné vysporiadanie nájomcu s prenajímateľom sa účtuje v peňažnom denníku nájomcu.
+
+(9) V rámci uzávierkových účtovných operácií sa v peňažnom denníku nájomcu účtuje odpis majetku obstaraného finančným prenájmom<sup>3</sup>).
+
+(10) Majetok obstaraný finančným prenájmom sa v účtovníctve nájomcu odpisuje podľa § 14.
+
+(11) Pri účtovaní dane z pridanej hodnoty z majetku obstaraného finančným prenájmom sa v účtovníctve nájomcu postupuje podľa osobitného predpisu<sup>14ca</sup>).
