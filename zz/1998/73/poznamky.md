@@ -16,11 +16,13 @@
 
 - 7) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
 
+- 7a) § 11 ods. 7 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
 - 8) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 9) § 116 zákona č. 40/1964 Zb. Občiansky zákonník.
 
-- 10) § 6 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
+- 10) § 7 ods. 3 a § 12 ods. 9 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
 - 10a) Napríklad § 2 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
@@ -31,6 +33,8 @@
 - 10c) § 20 zákona č. 328/2002 Z. z.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+
+- 11a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 12) § 20 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
@@ -112,7 +116,13 @@
 
 - 33) Zákon č. 40/1964 Zb. v znení neskorších predpisov.
 
-- 34) Napríklad zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+- 34) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 34a) § 4 až 8 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení zákona č. 256/2003 Z. z.
+
+- 34b) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- 34c) Zákon č. 272/1994 Z. z. v znení neskorších predpisov.
 
 - 35) § 9 zákona č. 328/2002 Z. z.
 

@@ -7,3 +7,7 @@
 (3) Občan pri vstupe do štátnej služby alebo policajt, ktorí sa domnievajú, že ich práva alebo právom chránené záujmy boli dotknuté nedodržaním zásady rovnakého zaobchádzania, môžu sa obrátiť na súd a domáhať sa právnej ochrany ustanovenej osobitným zákonom.<sup>1</sup>)
 
 (4) Služobný úrad alebo nadriadený nesmie policajta postihovať alebo znevýhodňovať preto, že policajt uplatňuje svoje práva vyplývajúce zo služobného pomeru.
+
+(5) Služobný úrad oboznámi policajtov s ustanoveniami o zásade rovnakého zaobchádzania.
+
+(6) Porušenie zásady rovnakého zaobchádzania podľa odseku 1 policajtom sa považuje za porušenie služobnej povinnosti policajta.
