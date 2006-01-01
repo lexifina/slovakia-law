@@ -1,0 +1,3 @@
+# § 51e Prechodné ustanovenia k úpravám účinným od 1. januára 2006
+
+Právnická osoba alebo fyzická osoba, ktorá má v rámci podnikania v držbe preukázateľne zdanený lieh v spotrebiteľskom balení označenom kontrolnou páskou v súlade s osobitným predpisom<sup>49a</sup>) v znení účinnom k 30. aprílu 2004 (ďalej len „spotrebiteľské balenie označené kontrolnou páskou“), je povinná najneskôr do 31. januára 2006 oznámiť colnému úradu počet spotrebiteľských balení označených kontrolnou páskou, ktoré má v držbe k 31. decembru 2005, a to v členení podľa objemu spotrebiteľského balenia a objemovej koncentrácie liehu v spotrebiteľskom balení.
