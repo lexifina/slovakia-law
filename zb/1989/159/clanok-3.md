@@ -1,5 +1,0 @@
-# Článok III Prechodné ustanovenia
-
-- 1. Trest právoplatne uložený pred účinnosťou tohto zákona za čin, ktorý nie je trestným činom ani prečinom podľa tohto zákona, sa nevykoná; ustanovenie Trestného zákona o súhrnnom treste sa v takom prípade nepoužije. Ak za taký trestný čin a zbiehajúci sa iný čin bol uložený úhrnný alebo súhrnný trest, súd trest pomerne skráti. Pritom prihliadne na vzájomný pomer závažnosti činu, ktorý od účinnosti tohto zákona nie je trestným činom ani prečinom, a ostatných činov.
-
-- 2. Trest právoplatne uložený po nadobudnutí účinnosti zákonného opatrenia Predsedníctva Federálneho zhromaždenia Československej socialistickej republiky č. 10/1989 Zb. za trestný čin sťažovania výkonu právomoci verejného činiteľa podľa § 156a Trestného zákona súd pomerne skráti. Pritom prihliadne na vzájomný pomer hornej hranice trestu odňatia slobody pred nadobudnutím a po nadobudnutí účinnosti tohto zákona. Podľa rovnakých zásad postupuje, ak za tento čin a zbiehajúci sa iný čin bol uložený úhrnný alebo súhrnný trest.
