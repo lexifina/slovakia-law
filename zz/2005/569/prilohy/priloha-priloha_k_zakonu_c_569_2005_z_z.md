@@ -1,1 +1,1 @@
-Príloha k zákonu č. 569/2005 Z. z. [Príloha k zákonu č. 569/2005 Z. z.](../assets/f03ab5d4c527099a634832a817f65edc50ae36ab784f22c3ea29592e2f8c8fc0.pdf)
+Príloha k zákonu č. 569/2005 Z. z. [Vzor](../assets/23ef1870e6e795c79d97ee14b487ee5e30dbfa6438953f99164e424a1f20e271.pdf)
