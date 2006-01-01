@@ -402,7 +402,11 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - n)
 
-- zneškodňovať biologicky rozložiteľný odpad zo záhrad a z parkov vrátane odpadu z cintorínov a z ďalšej zelene na pozemkoch právnických osôb, fyzických osôb a občianskych združení, ak sú súčasťou komunálneho odpadu,“.
+- zneškodňovať biologicky rozložiteľný odpad zo záhrad a z parkov vrátane odpadu z cintorínov a z ďalšej zelene na pozemkoch právnických osôb, fyzických osôb a občianskych združení, ak sú súčasťou komunálneho odpadu,
+
+- o)
+
+- zneškodňovať odpad z výroby oxidu titaničitého vstrekovaním do pôdy podľa položky D3 uvedenej v prílohe č. 3 na pôde tvoriacej poľnohospodársky pôdny fond.“.
 
 - 44. V § 18 ods. 7 sa za číslicu „6“ vkladá čiarka. Súčasne sa na konci odseku pripája táto veta: „Ak ide o komunálne odpady alebo drobné stavebné odpady, zistená osoba je povinná na vlastné náklady zabezpečiť ich zhodnotenie alebo zneškodnenie osobou, ktorá má na túto činnosť uzatvorenú zmluvu s obcou podľa § 39 ods. 7, alebo obcou, ak túto činnosť obec zabezpečuje sama.“.
 
