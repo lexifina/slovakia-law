@@ -1,1 +1,0 @@
-- *) Sú to: Východná dráha v Bratislave. - Stredná dráha v Olomouci. - Severozápadná dráha v Prahe. - Juhozápadná dráha v Plzni.
