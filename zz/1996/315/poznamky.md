@@ -92,7 +92,7 @@
 
 - 35) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z.
 
-- 35a) § 51 ods. 2 a § 51 ods. 3 písm. a) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+- 35a) § 51 ods. 2 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 35aa) § 21 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
