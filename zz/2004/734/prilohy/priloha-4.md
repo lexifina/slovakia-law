@@ -1,9 +1,9 @@
-Príloha č. 4 k vyhláške č. 734/2004 Z. z.
+Príloha č. 4 k vyhláške č. 645/2005 Z. z.
 
 - VZORY NÁLEPIEK s týždňovou platnosťou
 
-- ![Obrázok 04-1](../assets/61868210f3eacac0509d6f99adb310874c6af0947fcffd9258bcc5e73d4b193c.tiff)
+- ![Obrázok 04-1](../assets/5818185bcf2a8bf9254ce48cc4cea442e0895e7e0ddf925880ef37efd2125c98.jpg)
 
-- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE s týždňovou platnosťou
+- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s týždňovou platnosťou
 
-- ![Obrázok 04-2](../assets/5c6cb7daf3444eb385cf4c3e89291fe98446b541590cb7efaf42fc523e0eb8de.tiff)
+- ![Obrázok 04-2](../assets/88c0e0a35de7f1c7dfdd3e833f343bc8c431d97ede0946cbeda75f6c4c44327a.jpg)

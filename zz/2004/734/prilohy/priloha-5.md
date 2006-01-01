@@ -1,9 +1,9 @@
-Príloha č. 5 k vyhláške č. 734/2004 Z. z.
+Príloha č. 5 k vyhláške č. 645/2005 Z. z.
 
-- VZORY NÁLEPIEK s 1-dňovou platnosťou
+- VZORY NÁLEPIEK s jednodňovou platnosťou
 
-- ![Obrázok 05-1](../assets/4bae3eea1ee626144460add119958aa91bd69594d284811cdc42d20c6e22414c.tiff)
+- ![Obrázok 05-1](../assets/f21270bc118d206fc3578c76af04440d951c7af4514bd0fff4ae3738dcb6d4aa.jpg)
 
-- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s 1-dňovou platnosťou
+- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s jednodňovou platnosťou
 
-- ![Obrázok 05-2](../assets/2b0e5f30dfa768dc0e8519ee14a7b3850185329707c75dcbd4e1f9c5f0e4f461.tiff)
+- ![Obrázok 05-2](../assets/81ab3c3f46989b8a6d9bdcd205378f4dc75d1ea3dc1e1dad49ea5bea074cdc0d.jpg)

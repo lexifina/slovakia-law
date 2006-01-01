@@ -1,9 +1,9 @@
-Príloha č. 2 k vyhláške č. 734/2004 Z. z.
+Príloha č. 2 k vyhláške č. 645/2005 Z. z.
 
 - VZORY NÁLEPIEK s ročnou platnosťou
 
-- ![Obrázok 02-1](../assets/8b564847a6bcf58f15a1be9dfa2503560e4948581c0a1e46e6f1f21d1259d1e6.tiff)
+- ![Obrázok 02-1](../assets/057f76675817316f4ae53cffc36b4ea7a64c3e9452edcae1f257575ea2c6246c.jpg)
 
-- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLIEPIEK s ročnou platnosťou
+- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s ročnou platnosťou
 
-- ![Obrázok 02-2](../assets/d2eb671a321ebc1ec6fecb08b6bad7957970074a7a5ae5b13f5adbfe93449aac.tiff)
+- ![Obrázok 02-2](../assets/33025c6b5be09142c8202f24f33306b74a493fa5a22a2e146596ad33738ae1e2.jpg)

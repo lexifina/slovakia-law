@@ -1,5 +1,5 @@
-Príloha č. 1 k vyhláške č. 734/2004 Z. z.
+Príloha č. 1 k vyhláške č. 645/2005 Z. z.
 
-- VZOR DODATKOVÝCH TABULIEK
+- Vzor dodatkových tabuliek pre spoplatnenie úsekov ciest I. triedy pre vozidlá nad 3,5 t
 
-- ![Obrázok 01-1](../assets/546ff9c28a276b9450b7e533a508917ce3f9a3a61bf72d1d879a094053079bf0.tiff)
+- ![Obrázok 01](../assets/a71e773710035473be65ffb0f728f3d3ae6ec8f54015c349d28908d580f68122.jpg)
