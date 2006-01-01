@@ -6,7 +6,7 @@ Príloha č. 1 k vyhláške č. 227/2004 Z. z.
 
 - pobočka colného úradu Zvolen - Lieskovec, nácestné stredisko, Lieskovská cesta 24/494
 
-- pobočka colného úradu Jesenské, Sobotská 204
+- pobočka colného úradu Lučenec, nácestné stredisko, Podjavorinskej 19
 
   - 2. Colný úrad Bratislava
 

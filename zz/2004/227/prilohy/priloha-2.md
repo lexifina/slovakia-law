@@ -2,265 +2,237 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
 - Spôsob vypĺňania tlačiva
 
-  - Pri vypĺňaní tlačiva sa okrem vysvetľujúcich poznámok podľa osobitného predpisu Európskej únie<sup>1</sup>) (ďalej len „únia“) použijú tieto vysvetľujúce poznámky:
+  - Pri vypĺňaní tlačiva sa okrem vysvetľujúcich poznámok podľa osobitného predpisu<sup>1</sup>) použijú tieto vysvetľujúce poznámky:
 
-  - A. Colné formality pri vývoze (alebo odoslaní), spätnom vývoze, pasívnom zušľachťovacom styku alebo tranzite
+  - A. Colné formality pri odoslaní alebo vývoze
+
+  - Táto časť upravuje spôsob vypĺňania tlačiva pre
+
+  - 1. colný režim vývoz,
+
+  - 2. colný režim pasívny zušľachťovací styk,
+
+  - 3. colný režim tranzit,
+
+  - 4. umiestnenie tovaru s predfinancovanou vývoznou náhradou v colnom sklade,
+
+  - 5. colne schválené určenie spätný vývoz,
+
+  - 6. preukazovanie statusu tovaru spoločenstva.
 
   - Odsek 2 tlačiva Odosielateľ/vývozca
 
-  - Ak odosielateľovi alebo vývozcovi bolo pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v pravom hornom rohu. Ak odosielateľ alebo vývozca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvedie sa iné identifikačné číslo pridelené na štatistické účely alebo na iné účely. Pri zberných zásielkach sa môže uviesť zápis „Rôzni“ a k písomnému colnému vyhláseniu sa pripojí zoznam všetkých vývozcov.
-
-  - Vypĺňa sa aj pri colnom režime tranzit.
+  - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo odosielateľa. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak odosielateľ/vývozca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo. Identifikačné číslo odosielateľa sa neuvádza pri colnom režime tranzit. Ak je potrebné uviesť viacero odosielateľov, uvádza sa poznámka „Rôzni“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam odosielateľov.
 
   - Odsek 4 tlačiva Ložné listy
 
-  - Vypĺňa sa iba pri colnom režime tranzit.
+  - Vypĺňa sa pri colnom režime tranzit a preukazovaní statusu tovaru spoločenstva.
 
   - Odsek 6 tlačiva Nákladové kusy spolu
 
-  - Vypĺňa sa.
+  - Uvádza sa počet nákladových kusov za všetky tovarové položky. V prípade voľne uloženého tovaru sa uvádza číslo 1.
+
+  - Nevypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade a preukazovaní statusu tovaru spoločenstva.
 
   - Odsek 7 tlačiva Referenčné číslo
 
-  - Ak sa použije tento odsek, uvedie sa najviac jedenásťmiestny alfanumerický údaj bez bodiek, čiarok, lomiek a podobných znakov.
+  - Vypĺňa sa pri colnom režime tranzit, ak je colné vyhlásenie podané prostredníctvom zariadenia na spracovanie a prenos údajov.
 
   - Odsek 8 tlačiva Príjemca
 
-  - Vypĺňa sa aj pri vývozných formalitách, pri prepúšťaní tovaru do colného režimu pasívny zušľachťovací styk a pri spätnom vývoze tovaru nachádzajúcom sa v colnom režime s ekonomickým účinkom.
+  - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise.<sup>2</sup>) Ako identifikačné číslo sa uvádza identifikačné číslo príjemcu, ktoré mu pridelili na daňové, colné alebo štatistické účely úrady v štáte, kde má príjemca sídlo alebo adresu trvalého pobytu. Ak je potrebné uviesť viacero príjemcov, uvádza sa poznámka „Rôzni“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam príjemcov.
 
-  - Pri zberných zásielkach sa môže uviesť zápis „Rôzni“ a k písomnému colnému vyhláseniu sa pripojí zoznam všetkých príjemcov.
+  - Nevypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade a preukazovaní statusu tovaru spoločenstva.
 
-  - Vypĺňa sa, aj ak má príjemca sídlo mimo colného územia únie alebo štátov Európskeho združenia voľného obchodu.
+  - Odsek 14 tlačiva Deklarant/zástupca
 
-  - Odsek 9 tlačiva Osoba zodpovedná za platobný styk
-
-  - Ak sa uplatňuje na vyvážaný tovar nárok na vývoznú náhradu podľa osobitného predpisu únie<sup>2</sup>) v rámci spoločnej poľnohospodárskej politiky, uvedie sa poznámka „Žiadosť o vyplatenie vývoznej náhrady“, registračné číslo Pôdohospodárskej platobnej agentúry, ak ho pridelila, a poznámka, z ktorej je zrejmé, že sa žiada o vyplatenie vývoznej náhrady vopred alebo o predfinancovanie vývoznej náhrady,<sup>3</sup>) ak je to potrebné.
-
-  - Odsek 10 tlačiva Prvý štát určenia
-
-  - Nevypĺňa sa.
-
-  - Odsek 11 tlačiva Štát obchodu
-
-  - Štátom obchodu je štát, v ktorom má svoje sídlo alebo pobyt kupujúci alebo príjemca, ak sa tovar do tretieho štátu nepredáva. Ak je kupujúci osoba pôsobiaca na colnom území únie, uvedie sa kód štátu určenia.
-
-  - V ľavej časti odseku sa uvádza veľkými tlačenými písmenami kód štátu obchodu uvedený v prílohe č. 3.
+  - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak deklarant nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
 
   - Nevypĺňa sa pri colnom režime tranzit.
-
-  - Odsek 13 tlačiva Spoločná poľnohospodárska politika (SPP)
-
-  - Nevypĺňa sa.
-
-  - Odsek 14 tlačiva Deklarant alebo zástupca vývozcu/odosielateľa
-
-  - Ak deklarantovi alebo zástupcovi vývozcu alebo odosielateľa bolo pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v pravom hornom rohu. Ak deklarant alebo zástupca vývozcu alebo odosielateľa nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvedie sa iné identifikačné číslo pridelené na štatistické účely alebo na iné účely.
-
-  - Pred menom a priezviskom/názvom deklaranta alebo zástupcu vývozcu/odosielateľa sa uvedie príslušný kód uvedený v prílohe č. 3.
 
   - Odsek 15 tlačiva Štát odoslania/vývozu
 
-  - Vypĺňa sa iba pri colnom režime tranzit.
+  - Vypĺňa sa pri colnom režime tranzit, ak colné vyhlásenie nie je podané prostredníctvom zariadenia na spracovanie a prenos údajov.
 
   - Odsek 15a tlačiva Kód štátu odoslania/vývozu
 
-  - Nevypĺňa sa.
-
-  - Odsek 15b tlačiva Kód štátu odoslania/vývozu
-
-  - Nevypĺňa sa.
-
-  - Odsek 16 tlačiva Štát pôvodu
-
-  - V odseku sa môže uviesť názov štátu pôvodu.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva.
 
   - Odsek 17 tlačiva Štát určenia
 
-  - Vypĺňa sa aj pri prepúšťaní tovaru do colného režimu pasívny zušľachťovací styk a pri spätnom vývoze tovaru z colného režimu colné uskladňovanie.
+  - Vypĺňa sa pri colnom režime tranzit, ak colné vyhlásenie nie je podané prostredníctvom zariadenia na spracovanie a prenos údajov.
 
   - Odsek 17a tlačiva Kód štátu určenia
 
-  - Nevypĺňa sa pri colnom režime tranzit.
+  - Vypĺňa sa.
 
-  - V odseku sa uvádza veľkými tlačenými písmenami dvojmiestny kód štátu určenia uvedený v prílohe č. 3.
+  - Odsek 18 tlačiva Evidenčný údaj a štát registrácie dopravného prostriedku pri odchode
 
-  - Odsek 17b tlačiva Kód štátu určenia
+  - Vypĺňa sa evidenčné číslo dopravného prostriedku. Evidenčné číslo dopravného prostriedku sa nevypĺňa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade, preukazovaní statusu tovaru spoločenstva a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
 
-  - Nevypĺňa sa.
+  - Kód štátu registrácie dopravného prostriedku pri odchode sa vypĺňa pri colnom režime tranzit.
 
-  - Odsek 18 tlačiva Evidenčné číslo a štát registrácie dopravného prostriedku pri odchode
-
-  - Vypĺňa sa aj pri vývozných formalitách a pri prepúšťaní tovaru do colného režimu pasívny zušľachťovací styk.
-
-  - Štát registrácie dopravného prostriedku sa uvádza v pravej, hrubo orámovanej časti odseku uvedením dvojmiestneho alfabetického kódu uvedeného v prílohe č. 3.
+  - Nevypĺňa sa pri poštovej preprave a preprave potrubím a vedením.
 
   - Odsek 19 tlačiva Kontajner
 
-  - Vypĺňa sa aj pri colnom režime tranzit.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva.
 
   - Odsek 20 tlačiva Dodacie podmienky
 
-  - V prvej časti tohto odseku a v druhej časti tohto odseku sa uvádzajú kódy uvedené v prílohe č. 3 a poznámky podľa osobitného predpisu únie.<sup>4</sup>) Tretia časť odseku sa nevypĺňa.
+  - Vypĺňajú sa prvé dve časti odseku.
 
-  - Nevypĺňa sa pri colnom režime tranzit.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
 
-  - Odsek 21 tlačiva Evidenčné číslo a štát registrácie aktívneho dopravného prostriedku<sup>5</sup>) prekračujúceho hranice
+  - Odsek 21 tlačiva Evidenčný údaj a štát registrácie aktívneho dopravného prostriedku prekračujúceho hranice
 
-  - Ľavá časť odseku sa nevypĺňa.
+  - Evidenčné číslo aktívneho dopravného prostriedku prekračujúceho hranice sa vypĺňa pri colnom režime vývoz a colnom režime tranzit.
 
-  - V pravej, hrubo orámovanej časti tohto odseku sa uvádza štát registrácie aktívneho dopravného prostriedku uvedením dvojmiestneho alfabetického kódu uvedeného v prílohe č. 3.
+  - Kód štátu registrácie aktívneho dopravného prostriedku prekračujúceho hranice pri odchode sa nevypĺňa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade, spätnom vývoze tovaru z colného režimu colné uskladňovanie a preukazovaní statusu tovaru spoločenstva.
 
-  - Odsek 22 tlačiva Mena a celková fakturovaná suma
+  - Nevypĺňa sa pri železničnej preprave, poštovej preprave a preprave potrubím a vedením.
 
-  - Vypĺňa sa.
+  - Odsek 22 tlačiva Mena a celková fakturovaná cena
 
-  - V ľavej časti odseku sa uvádza kód meny uvedený v prílohe č. 3; nepoužije sa trojmiestny kód geonomenklatúry podľa osobitného predpisu únie.<sup>6</sup>)
-
-  - V pravej časti odseku sa uvádza fakturovaná cena v mene vyjadrenej kódom v ľavej časti tohto odseku.
-
-  - Nevypĺňa sa pri colnom režime tranzit.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
 
   - Odsek 23 tlačiva Prepočítací kurz
 
-  - Vypĺňa sa.
-
-  - Nevypĺňa sa pri colnom režime tranzit.
+  - Vypĺňa sa, len ak sa na prepočet cudzej meny nepoužije prepočítací kurz podľa osobitného predpisu,<sup>3</sup>) napríklad pri doplňujúcom colnom vyhlásení pri zjednodušenom postupe.
 
   - Odsek 24 tlačiva Druh obchodu
 
-  - Vypĺňa sa.
+  - Vypĺňajú sa obe časti odseku.
 
-  - V odseku sa uvádzajú kódy uvedené v prílohe č. 3.
-
-  - Nevypĺňa sa pri colnom režime tranzit a spätnom vývoze z colného režimu colné uskladňovanie.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva, spätnom vývoze tovaru z colného režimu colné uskladňovanie a umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade.
 
   - Odsek 25 tlačiva Druh dopravy na hranici
 
-  - Vypĺňa sa aj pri colnom režime tranzit a pri spätnom vývoze tovaru z colného režimu colné uskladňovanie.
-
-  - V odseku sa uvádzajú kódy uvedené v prílohe č. 3.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva.
 
   - Odsek 26 tlačiva Druh dopravy vo vnútrozemí
 
-  - V odseku sa uvádzajú kódy uvedené v prílohe č. 3.
-
-  - Nevypĺňa sa pri colnom režime tranzit.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva.
 
   - Odsek 27 tlačiva Miesto naloženia
 
   - Nevypĺňa sa.
 
-  - Odsek 28 tlačiva Finančné a bankové údaje
-
-  - Nevypĺňa sa.
-
   - Odsek 29 tlačiva Výstupný colný úrad
 
-  - Nevypĺňa sa.
+  - Výstupným colným úradom je colný úrad, ktorý leží na vonkajšej hranici colného územia spoločenstva a cez ktorý tovar vystupuje z colného územia spoločenstva. Na určenie výstupného colného úradu sa uvádzajú kódy určené pre systém NCTS (Nový automatizovaný tranzitný systém).
+
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva, v doplňujúcom colnom vyhlásení pri zjednodušenom postupe<sup>4</sup>) a colnom režime tranzit.
 
   - Odsek 30 tlačiva Umiestnenie tovaru
 
-  - Nevypĺňa sa.
+  - Vypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade.
 
   - Odsek 31 tlačiva Nákladové kusy a opis tovaru
 
-  - Ak tovar podlieha spotrebnej dani, uvedie sa v pravom dolnom rohu odseku merná jednotka podľa zákona o príslušnej spotrebnej dani a množstvo tovaru v tejto mernej jednotke s presnosťou na štyri desatinné miesta.
+  - Uvádza sa počet a druh balení tovaru, značky a čísla balení a presný opis tovaru s uvedením obchodného názvu a bližšej špecifikácie (technický opis, chemické značky, evidenčné čísla a výrobné čísla) potrebnej na zatriedenie tovaru do podpoložky kombinovanej nomenklatúry.
+
+  - Uplatnenie nároku na vyplatenie vývoznej náhrady na tovar, ktorý je spracovaný podľa schválenej receptúry, uvádza sa takto: „Receptúra - X“, kde X vyjadruje registračné číslo receptúry pridelené Pôdohospodárskou platobnou agentúrou.
+
+  - Ak je tovar balený vo viacerých druhoch balení, uvádzajú sa všetky druhy balení a ich počet.
+
+  - Ak tovar podlieha spotrebnej dani, uvádza sa množstvo tovaru v mernej jednotke, ktorá je základom na výpočet spotrebnej dane. Číselný údaj o množstve tovaru sa zaokrúhľuje na štyri desatinné miesta. Uvádza sa aj údaj o označení spotrebiteľského balenia liehu, výrobkov z liehu a tabakových výrobkov.
 
   - Odsek 32 tlačiva Číslo položky
 
-  - Vypĺňa sa, aj ak deklarácia obsahuje jednu položku.
+  - Uvádza sa poradové číslo položky tovaru.
 
   - Odsek 33 tlačiva Kód tovaru
 
-  - Uvádzajú sa kódy uvedené v prílohe č. 3.
-
-  - Odsek 34a tlačiva Kód štátu pôvodu
-
-  - V odseku možno uviesť veľkými tlačenými písmenami alfabetický dvojmiestny kód uvedený v prílohe č. 3.
+  - Piata časť odseku sa nevypĺňa.
 
   - Odsek 34b tlačiva Kód štátu pôvodu
 
-  - V odseku sa uvádza číselný kód kraja, v ktorom bol tovar vyrobený alebo získaný, zostavený, spracovaný, alebo v ktorom sa uskutočnila jeho údržba. Ak taký kraj nie je známy, uvádza sa kraj, v ktorom sa uskutočnila obchodná operácia alebo kraj, z ktorého bol tovar odoslaný.
+  - Uvádzajú sa kódy regiónu, v ktorom bol tovar vyrobený alebo z ktorého sa tovar vyváža, ktoré sú uvedené v prílohe č. 3.
 
-  - V odseku sa uvádzajú kódy uvedené v prílohe č. 3.
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva, spätnom vývoze tovaru z colného režimu colné uskladňovanie a colnom režime tranzit.
 
   - Odsek 35 tlačiva Hrubá hmotnosť
 
-  - Vypĺňa sa aj pri colnom režime tranzit.
-
-  - Ak je hrubá hmotnosť tovaru nižšia ako 1 kg, uvedie sa 1. Pri hrubej hmotnosti vyššej ako 1 kg sa desatinné čísla pod 0,5 zaokrúhľujú smerom nadol a desatinné čísla od 0,5 smerom nahor. Údaje sa uvádzajú v kg, pričom sa neuvádza skratka „kg“.
-
-  - Odsek 37 tlačiva Režim
-
-  - V odseku sa uvádzajú kódy uvedené v prílohe č. 3.
-
-  - Odsek 38 tlačiva Vlastná hmotnosť
-
-  - Ak je vlastná hmotnosť tovaru nižšia ako 1 kg, uvedie sa 1. Pri vlastnej hmotnosti vyššej ako 1 kg sa desatinné čísla pod 0,5 zaokrúhľujú smerom nadol a desatinné čísla od 0,5 smerom nahor. Údaje sa uvádzajú v kg, pričom sa neuvádza skratka „kg“.
-
-  - Odsek 39 tlačiva Kontingent
-
-  - Nevypĺňa sa.
+  - Vypĺňa sa.
 
   - Odsek 40 tlačiva Súhrnná deklarácia/predchádzajúci doklad
 
-  - Vypĺňa sa aj pri vývozných formalitách, pri prepúšťaní tovaru do colného režimu pasívny zušľachťovací styk a pri spätnom vývoze tovaru nachádzajúcom sa v colnom režime s ekonomickým účinkom. Uvádzajú sa údaje o predchádzajúcich colných dokladoch, napríklad písomné colné vyhlásenie, a o ich evidenčných číslach, napríklad z písomného colného vyhlásenia v odseku A alebo C, ak sa tieto doklady týkajú písomného colného vyhlásenia. Údaje spoločné pre celú zásielku sa uvedú iba v jednotnom colnom doklade.
-
-  - Ak je potrebné uviesť odkazy na viaceré colné doklady, uvedie sa do tohto odseku zápis „Rôzne“ a k písomnému colnému vyhláseniu sa priloží ich zoznam.
+  - Uvádza sa odkaz na doklad, ktorým sa preukazuje colný status tovaru, postavenie v colnom režime alebo odkaz na obchodný doklad (predchádzajúce colné vyhlásenie, predbežné colné vyhlásenie, zápis do účtovnej evidencie a iné). Uvádzajú sa kódy dokladov uvedené v osobitnom predpise.<sup>2</sup>) Ak je potrebné uviesť viacero dokladov, uvádza sa poznámka „Rôzne“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam dokladov.
 
   - Odsek 41 tlačiva Dodatkové merné jednotky
 
-  - Vypĺňa sa aj pri spätnom vývoze tovaru z colného režimu colné uskladňovanie.
+  - Číselný údaj sa uvádza v merných jednotkách uvedených pri podpoložke kombinovanej nomenklatúry v celých číslach zaokrúhlene smerom nahor.
 
-  - Ak pre podpoložku kombinovanej nomenklatúry, ktorej kód je uvedený v prvej časti odseku 33, nie je v tovarovej nomenklatúre špecifikovaná dodatková merná jednotka, uvedie sa 0.
+  - Nevypĺňa sa, ak je pri podpoložke kombinovanej nomenklatúry uvedená nešpecifikovaná merná jednotka.
 
   - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
-  - V odseku sa uvádzajú záznamy o predložených osvedčeniach a povoleniach colných orgánov a iných orgánov, ak sú na príslušný vývoz alebo colný režim tranzit potrebné.
+  - Pri spätnom vývoze tovaru z colného režimu aktívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru, ktorý mal status tovaru spoločenstva, a príslušný kód takto: „Pridaná hodnota AZS - X - V0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime aktívny zušľachťovací styk v slovenských korunách.
 
-  - Ak deklarant predkladá doklady podľa osobitných predpisov únie alebo právnych predpisov Slovenskej republiky, uvedie sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Európskej únie) a údaj na jeho identifikáciu, napríklad číslo dokladu. Ak sa na vývoz tovaru nepredkladajú osvedčenia a povolenia colných orgánov alebo iných orgánov, uvádza sa v ľavom hornom rohu tohto odseku kód uvedený v prílohe č. 3.
+  - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s vývozom tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu - X - V0800“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách.
 
-  - V pravej časti odseku pred časť označenú „Kód O. Z.“ pod odsek 41 jednotného colného dokladu alebo doplnkového tlačiva sa uvádzajú v celých slovenských korunách zaokrúhlene smerom nadol bez desatinnej čiarky alebo bodky náklady na dopravu, poistenie, nakladanie a manipuláciu spojené s dopravou vyvážaného tovaru uvedeného v odseku 31 jednotného colného dokladu alebo doplnkového tlačiva od miesta, kde tovar opúšťa územie Slovenskej republiky. Ak je známa len celková hodnota týchto nákladov na celú zásielku, uvedú sa prepočítané náklady na hrubú hmotnosť každej tovarovej položky. Ak nie sú známe tieto náklady v čase predkladania colného vyhlásenia colnému úradu, uvedie sa v tomto odseku kód uvedený v prílohe č. 3.
+  - Príslušné sumy v tomto odseku sa uvádzajú v celých slovenských korunách zaokrúhlene smerom nahor.
 
-  - Ak sa navrhuje colne schválené určenie spätný vývoz po colnom režime aktívny zušľachťovací styk, v pravom dolnom rohu v bodkovane vyznačenej časti sa uvádza cena za poskytnutú službu vrátane ceny tovaru únie, ktorý bol pridaný k tovaru prepustenému do colného režimu aktívny zušľachťovací styk.
+  - Uplatnenie žiadosti o vyplatenie vývoznej náhrady sa uvádza takto: „Žiadosť o vyplatenie vývoznej náhrady - X - V0900“, kde X vyjadruje registračné číslo žiadateľa o vyplatenie vývoznej náhrady pridelené Pôdohospodárskou platobnou agentúrou.
 
-  - V zostávajúcej časti odseku sa uvádzajú údaje o predložených dokladoch a poznámky deklaranta. Ak tovar podlieha spotrebnej dani, uvedie sa text „Tovar je predmetom spotrebnej dane. Ak sa ako dôkaz o cene tovaru predkladá účtovný doklad, uvedie sa kód uvedený v prílohe č. 3. Za týmto kódom sa uvedie číslo predloženého dokladu. Pri predložení viacerých účtovných dokladov sa kód uvedený v prílohe č. 3 zopakuje pred každým číslom dokladu.
+  - Uplatnenie žiadosti o vyplatenie vývoznej náhrady vopred podľa osobitného predpisu<sup>5</sup>) sa uvádza takto: „Zálohová platba - V0910“.
 
-  - Pri colnom režime tranzit sa uvádzajú len záznamy o predložených povoleniach a osvedčeniach, ak sú potrebné.
+  - Ak deklarant predkladá doklady podľa osobitných predpisov Európskej únie alebo právnych predpisov Slovenskej republiky, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník spoločenstva). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
 
-  - Pri nedostatku miesta možno tieto údaje uviesť v prílohe zväzku jednotného colného dokladu.
+  - Ak sa tlačivo použije ako zjednodušené colné vyhlásenie, uvádza sa v tomto odseku kód 4PZB a číslo povolenia na použitie zjednodušeného postupu podľa osobitného predpisu.<sup>6</sup>)
 
   - Odsek 46 tlačiva Štatistická hodnota
 
-  - Vypĺňa sa aj pri spätnom vývoze tovaru z colného režimu colné uskladňovanie.
+  - Uvádza sa štatistická hodnota tovaru uvedeného v odseku 31. Štatistická hodnota pri vývoze je hodnota tovaru na mieste a v čase, keď tovar vystupuje zo Slovenskej republiky.
 
-  - V tomto odseku sa uvádza fakturovaná cena vyvážanej položky (v súlade s dodacími podmienkami) tovaru z odseku 31 jednotného colného dokladu alebo doplnkového tlačiva v celých slovenských korunách zaokrúhlených smerom nadol bez desatinnej čiarky alebo bodky a bez desatinných čísel.
+  - Hodnota tovaru sa vypočíta
 
-  - K jednej položke možno uviesť najviac deväťmiestny údaj zaokrúhlený na celé koruny smerom nadol.
+  - 1. v prípade predaja alebo nákupu na základe fakturovanej sumy za tovar,
 
-  - Pri skončení colného režimu aktívny zušľachťovací styk, ak sa tovar vyváža späť do tretieho štátu, uvádza sa fakturovaná cena, ktorá sa vykazuje pri prepustení do colného režimu aktívny zušľachťovací styk spolu s fakturovanou cenou spracovateľských operácií vrátane ceny tovaru únie alebo tovaru, ktorý nie je tovarom únie a ktorý bol pridaný k pôvodne dovezenému tovaru.
+  - 2. v ostatných prípadoch na základe hodnoty, ktorá by sa fakturovala v prípade jeho nákupu alebo predaja.
 
-  - Pri skončení colného režimu dočasné použitie s tým, že tovar sa vracia späť do tretieho štátu, uvádza sa fakturovaná cena vykazovaná pri prepustení tovaru do colného režimu dočasné použitie.
+  - Štatistická hodnota môže zahŕňať len dodatočné náklady, napríklad náklady na dopravu alebo poistenie súvisiace s tou časťou prepravy, ktorá sa v prípade vyvážaného tovaru uskutočňuje na území Slovenskej republiky; štatistická hodnota nezahŕňa platby splatné pri dovoze alebo vývoze, ako je clo, daň z pridanej hodnoty, spotrebné dane, odvody, vývozné náhrady alebo ostatné platby s rovnocenným účinkom.
 
-  - Ak sa za tovar neplatí alebo neinkasuje, uvedie sa hodnota rovnakého alebo podobného tovaru.
+  - Štatistická hodnota tovaru, ktorý bol podrobený spracovateľským operáciám, sa určí tak, ako keby sa celý tovar vyrobil v štáte spracovania.
+
+  - Štatistická hodnota tovaru používaného ako hmotný nosič informácií (napríklad diskety, počítačové pásky, filmy, plány, audiokazety, videokazety, kompaktné disky), ktorý obsahuje informácie, ktoré sú predmetom obchodu, zahŕňa celkové náklady tovaru, čo znamená, že štatistická hodnota tovaru predstavuje súčet hodnoty hmotného nosiča informácií a hodnoty informácií, ktoré hmotný nosič informácií nesie.
+
+  - Štatistická hodnota sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor.
+
+  - Pri určovaní štatistickej hodnoty sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
+
+  - Nevypĺňa sa pri preukazovaní statusu tovaru spoločenstva a colnom režime tranzit.
 
   - Odsek 47 tlačiva Výpočet platieb
 
   - Nevypĺňa sa.
 
-  - Odsek 48 tlačiva Odklad platby
+  - Odsek 49 tlačiva Označenie skladu
 
-  - Nevypĺňa sa.
+  - Vypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade. Uvádza sa číslo povolenia na prevádzkovanie colného skladu.
 
   - B. Colné formality pri dovoze
 
-  - Odsek 1 tlačiva Deklarácia
+  - Táto časť upravuje spôsob vypĺňania tlačiva pri tovare prepustenom do colného režimu
 
-  - Vypĺňa sa aj druhá časť odseku s použitím kódu uvedeného v prílohe č. 3.
+  - 1. voľný obeh,
 
-  - Odsek 2 tlačiva Odosielateľ/vývozca
+  - 2. colné uskladňovanie,
 
-  - Pri prepustení do colného režimu colné uskladňovanie v colnom sklade typu A, B, C a F vyplnenie tohto odseku nie je potrebné.
+  - 3. aktívny zušľachťovací styk,
+
+  - 4. prepracovanie pod colným dohľadom,
+
+  - 5. dočasné použitie.
+
+  - Odsek 2 tlačiva Odosielateľ
+
+  - Nevypĺňa sa.
+
+  - Odsek 3 tlačiva Tlačivá
+
+  - Vypĺňa sa.
 
   - Odsek 4 tlačiva Ložné listy
 
@@ -268,129 +240,69 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Odsek 6 tlačiva Nákladové kusy spolu
 
-  - Vypĺňa sa.
-
-  - Odsek 7 tlačiva Referenčné číslo
-
-  - Ak sa použije tento odsek, uvedie sa najviac jedenásťmiestny alfanumerický údaj bez bodiek, čiarok, lomiek a podobných znakov.
+  - Nevypĺňa sa.
 
   - Odsek 8 tlačiva Príjemca
 
-  - Pri zberných zásielkach sa uvádza zápis „Rôzni“, ich zoznam sa priloží k colnému vyhláseniu.
-
-  - Ak dovozcovi alebo príjemcovi bolo pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v pravom hornom rohu. Ak dovozca alebo príjemca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvedie sa iné identifikačné číslo pridelené na štatistické účely alebo na iné účely.
-
-  - Odsek 9 tlačiva Osoba zodpovedná za platobný styk
-
-  - Nevypĺňa sa.
-
-  - Odsek 10 tlačiva Posledný štát odoslania
-
-  - Nevypĺňa sa.
-
-  - Odsek 11 tlačiva Štát obchodu/výroby
-
-  - V ľavej časti odseku sa uvádza veľkými tlačenými písmenami kód uvedený v prílohe č. 3. Ide o kód štátu, v ktorom má svoje sídlo alebo pobyt predávajúci alebo odosielateľ, ak sa tovar do tretích štátov nepredáva. Ak je predávajúci osoba pôsobiaca na colnom území únie, uvedie sa kód štátu odoslania.
-
-  - Nevypĺňa sa pri prepustení tovaru do colného režimu colné uskladňovanie v colnom sklade typu A, B, C a F.
+  - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak príjemca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
 
   - Odsek 12 tlačiva Údaje o hodnote
 
   - Nevypĺňa sa.
 
-  - Odsek 13 tlačiva Spoločná poľnohospodárska politika (SPP)
+  - Odsek 14 tlačiva Deklarant/zástupca
 
-  - Nevypĺňa sa.
-
-  - Odsek 14 tlačiva Deklarant /zástupca
-
-  - Ak deklarantovi alebo zástupcovi bolo pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v pravom hornom rohu. Ak deklarant alebo zástupca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvedie sa iné identifikačné číslo pridelené na štatistické účely alebo na iné účely.
-
-  - Pred menom a priezviskom/názvom deklaranta alebo zástupcu sa uvedie príslušný kód uvedený v prílohe č. 3.
-
-  - Odsek 15 tlačiva Štát odoslania/vývozu
-
-  - Nevypĺňa sa.
+  - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak deklarant nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo. Ak dovozcu pri uplatnení oslobodenia od dane zastupuje daňový zástupca,<sup>7</sup>) uvádza sa pod identifikačné číslo deklaranta osobitné identifikačné číslo daňového zástupcu.
 
   - Odsek 15a tlačiva Kód štátu odoslania/vývozu
 
-  - Uvádza sa kód uvedený v prílohe č. 3.
+  - Vypĺňa sa pri colnom režime voľný obeh, colnom režime aktívny zušľachťovací styk, colnom režime dočasné použitie a colnom režime prepracovanie pod colným dohľadom.
 
-  - Odsek 16 tlačiva Štát pôvodu
+  - Odsek 17a tlačiva Kód štátu určenia
 
-  - Nevypĺňa sa.
-
-  - Odsek 17 tlačiva Štát určenia
-
-  - Vypĺňa sa, iba ak ide o tovar navrhovaný na prepustenie do colného režimu colné uskladňovanie s predfinancovaním vývoznej náhrady<sup>3</sup>) v rámci spoločnej poľnohospodárskej politiky.
+  - Vypĺňa sa.
 
   - Odsek 17b tlačiva Kód štátu určenia
 
-  - Uvádza sa číselný kód kraja, v ktorom bude tovar spotrebovaný alebo bude zostavený, spracovaný, opravený, alebo v ktorom sa uskutoční jeho údržba. Ak taký kraj nie je známy, uvádza sa kraj, v ktorom sa uskutoční obchodná operácia, alebo kraj, do ktorého bude tovar dodaný.
+  - Uvádzajú sa kódy regiónu, v ktorom sa tovar spotrebuje alebo v ktorom sa tovar prepúšťa do colného režimu; príslušné kódy sú uvedené v prílohe č. 3.
 
-  - Uvádzajú sa kódy uvedené v prílohe č. 3.
+  - Odsek 18 tlačiva Evidenčný údaj a štát registrácie dopravného prostriedku pri príchode
 
-  - Odsek 18 tlačiva Evidenčné číslo a štát registrácie dopravného prostriedku príchodu
+  - Evidenčné číslo dopravného prostriedku sa vypĺňa pri colnom režime voľný obeh, colnom režime aktívny zušľachťovací styk, colnom režime dočasné použitie a colnom režime prepracovanie pod colným dohľadom.
 
-  - Štát registrácie dopravného prostriedku sa uvádza v pravej, hrubo orámovanej časti odseku kódom uvedeným v prílohe č. 3.
-
-  - Odsek 19 tlačiva Kontajner
-
-  - Uvádzajú sa kódy uvedené v prílohe č. 3.
+  - Nevypĺňa sa pri poštovej preprave a preprave potrubím a vedením.
 
   - Odsek 20 tlačiva Dodacie podmienky
 
-  - Vypĺňa sa.
+  - Vypĺňajú sa prvé dve časti odseku.
 
-  - Uvádzajú sa kódy uvedené v prílohe č. 3 a poznámky podľa osobitného predpisu únie.<sup>4</sup>)
+  - Nevypĺňa sa pri colnom režime colné uskladňovanie v colnom sklade typu A, B, C, E a F.
 
-  - Tretia časť odseku sa nevypĺňa.
+  - Odsek 21 tlačiva Evidenčný údaj a štát registrácie aktívneho dopravného prostriedku prekračujúceho hranice
 
-  - Odsek 21 tlačiva Evidenčné číslo a štát registrácie aktívneho dopravného prostriedku prekračujúceho hranice
+  - Evidenčné číslo aktívneho dopravného prostriedku prekračujúceho hranice sa nevypĺňa. Štát registrácie aktívneho dopravného prostriedku prekračujúceho hranice sa uvádza pri colnom režime voľný obeh, colnom režime aktívny zušľachťovací styk v podmienečnom systéme, colnom režime dočasné použitie a colnom režime prepracovanie pod colným dohľadom.
 
-  - Ľavá časť odseku sa nevypĺňa.
-
-  - V pravej, hrubo orámovanej časti odseku sa uvádza štát registrácie dopravného prostriedku kódom uvedeným v prílohe č. 3.
+  - Nevypĺňa sa pri železničnej preprave, poštovej preprave a preprave potrubím a vedením.
 
   - Odsek 22 tlačiva Mena a celková fakturovaná suma
 
-  - Vypĺňa sa.
-
-  - V ľavej časti tohto odseku sa uvádza kód meny uvedený v prílohe č. 3; nepoužije sa trojmiestny kód geonomenklatúry podľa osobitného predpisu únie.<sup>6</sup>)
-
-  - V pravej časti odseku sa uvádza fakturovaná cena v peňažnej mene vyjadrenej kódom v ľavej časti tohto odseku.
+  - Vypĺňa sa aj pri colnom režime colné uskladňovanie v colnom sklade typu D.<sup>8</sup>)
 
   - Odsek 23 tlačiva Prepočítací kurz
 
-  - Vypĺňa sa.
+  - Vypĺňa sa, len ak sa na prepočet cudzej meny nepoužije prepočítací kurz podľa osobitného predpisu,<sup>3</sup>) napríklad pri doplňujúcom colnom vyhlásení pri zjednodušenom postupe.
 
   - Odsek 24 tlačiva Druh obchodu
 
-  - Vypĺňa sa.
-
-  - Uvádzajú sa kódy uvedené v prílohe č. 3.
+  - Vypĺňajú sa obe časti odseku pri colnom režime voľný obeh, colnom režime aktívny zušľachťovací styk v podmienečnom systéme, colnom režime dočasné použitie a colnom režime prepracovanie pod colným dohľadom.
 
   - Odsek 25 tlačiva Druh dopravy na hranici
 
-  - Vypĺňa sa aj pri prepustení do colného režimu colné uskladňovanie.
-
-  - Uvádzajú sa kódy uvedené v prílohe č. 3.
+  - Vypĺňa sa.
 
   - Odsek 26 tlačiva Druh dopravy vo vnútrozemí
 
-  - Vypĺňa sa aj pri colnom režime colné uskladňovanie.
-
-  - Uvádzajú sa kódy uvedené v prílohe č. 3.
-
-  - Odsek 27 tlačiva Miesto vyloženia
-
-  - Nevypĺňa sa.
-
-  - Odsek 28 tlačiva Finančné a bankové údaje
-
-  - Vypĺňa sa, s výnimkou prípadu, keď sa za tovar neplatí alebo neinkasuje.
-
-  - Uvádza sa bankové spojenie a číslo účtu deklaranta tak, aby bolo zrejmé, v ktorej banke alebo pobočke zahraničnej banky sa účet deklaranta vedie.
+  - Vypĺňa sa.
 
   - Odsek 29 tlačiva Vstupný colný úrad
 
@@ -402,69 +314,87 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Odsek 31 tlačiva Nákladové kusy a opis tovaru
 
-  - Uvádza sa aj doplnková merná jednotka, ak sa na účely čerpania colných kvót používa iná merná jednotka ako tá, v ktorej je vyjadrené množstvo tovaru v odseku 41.
+  - Uvádza sa počet a druh balení tovaru, značky a čísla balení a presný opis tovaru s uvedením obchodného názvu a bližšej špecifikácie (technický opis, chemické značky, evidenčné a výrobné čísla) potrebnej na zatriedenie tovaru do podpoložky kombinovanej nomenklatúry.
 
-  - Ak tovar podlieha spotrebnej dani, uvedie sa v pravom dolnom rohu odseku merná jednotka podľa zákona o príslušnej spotrebnej dani a množstvo tovaru v tejto mernej jednotke s presnosťou na štyri desatinné miesta.
+  - Druh balenia sa uvádza kódom podľa osobitného predpisu.<sup>2</sup>) Ak je tovar balený vo viacerých druhoch balení, uvádzajú sa všetky druhy balení a ich počet.
 
-  - Sumy prípadných pripočítateľných položiek k základu dane z pridanej hodnoty<sup>7</sup>) sa uvedú v ľavom dolnom rohu odseku, pričom za kódom „DPH“ sa uvedie údaj v celých slovenských korunách zaokrúhlených smerom nahor. Ak sú sumy pripočítateľných položiek spoločné pre viac položiek, rozpočítajú sa v pomere podľa hrubej hmotnosti jednotlivých položiek.
+  - Ak tovar podlieha spotrebnej dani alebo inej platbe vypočítavanej na základe špecifickej sadzby, uvádza sa množstvo tovaru v mernej jednotke, ktorá je základom na výpočet spotrebnej dane alebo inej platby. Číselný údaj o množstve tovaru sa zaokrúhľuje na štyri desatinné miesta.
 
-  - Odsek 32 tlačiva Číslo položky
-
-  - Pri vykazovaní jednej položky tovaru nie je potrebné uvádzať v tomto odseku poradové číslo položky tovaru.
+  - Uvádza sa aj údaj o označení spotrebiteľského balenia liehu, výrobkov z liehu a tabakových výrobkov.
 
   - Odsek 33 tlačiva Kód tovaru
 
-  - Uvádzajú sa kódy uvedené v prílohe č. 3.
+  - V piatej časti odseku sa uvádzajú kódy uvedené v prílohe č. 3.
 
-  - Odsek 34a tlačiva Kód štátu pôvodu
-
-  - Odsek sa vypĺňa.
-
-  - Uvádza sa kód štátu pôvodu<sup>8</sup>) uvedený v prílohe č. 3.
-
-  - Odsek 35 tlačiva Hrubá hmotnosť (kg)
-
-  - Odsek sa vypĺňa.
-
-  - Ak je hrubá hmotnosť tovaru nižšia ako 1 kg, uvedie sa 1. Pri hrubej hmotnosti vyššej ako 1 kg sa desatinné čísla pod 0,5 zaokrúhľujú smerom nadol a desatinné čísla od 0,5 smerom nahor. Údaje sa uvádzajú v kg, pričom sa neuvádza skratka „kg“.
-
-  - Odsek 37 tlačiva Režim
-
-  - V ľavej časti sa uvádzajú kódy uvedené v prílohe č. 3.
-
-  - Pravá časť odseku sa vypĺňa, iba ak deklarant žiada o oslobodenie od cla a zároveň uplatňuje nárok na oslobodenie od dane z pridanej hodnoty,<sup>9</sup>) alebo deklaruje oslobodenie od spotrebnej dane alebo pozastavenie spotrebnej dane. Použije sa kód uvedený v prílohe č. 3, ktorý pozostáva z dvojmiestneho číselného kódu vyjadrujúceho žiadosť o oslobodenie od cla a z jednomiestneho alfabetického kódu, ktorý vyjadruje uplatnenie nároku na oslobodenie od dane z pridanej hodnoty, deklarovanie nároku na oslobodenie od spotrebnej dane alebo pozastavenie spotrebnej dane.
-
-  - Odsek 39 tlačiva Kontingent
-
-  - Vypĺňa sa, ak deklarant uplatňuje zníženie dovozného cla pri dovoze tovaru v rámci colných kvót alebo stropov uvedením kódu uvedeného v prílohe č. 3.
-
-  - Odsek 40 tlačiva Súhrnná deklarácia/predchádzajúci doklad
+  - Odsek 35 tlačiva Hrubá hmotnosť
 
   - Vypĺňa sa.
 
-  - Ak je potrebné uviesť viac odkazov, uvedie sa do tohto odseku zápis „Rôzne“ a k písomnému colnému vyhláseniu sa priloží zoznam príslušných odkazov.
+  - Odsek 36 tlačiva Preferencia
+
+  - Vypĺňa sa, len ak to vyžadujú predpisy Európskej únie pri colnom režime voľný obeh, colnom režime aktívny zušľachťovací styk, colnom režime dočasné použitie a colnom režime prepracovanie pod colným dohľadom.
+
+  - Odsek 37 tlačiva Režim
+
+  - V pravej časti odseku sa uvádzajú kódy na bližšie špecifikovanie navrhovaného colného režimu. Na uplatnenie požiadavky na oslobodenie dovážaného tovaru od dovozného cla a dane z pridanej hodnoty sa uvádzajú kódy podľa osobitného predpisu<sup>2</sup>) a kódy uvedené v prílohe č. 3.
+
+  - Odsek 39 tlačiva Kontingent
+
+  - Vypĺňa sa pri colnom režime voľný obeh, ak si deklarant uplatňuje nárok na zníženú colnú sadzbu v rámci colnej kvóty alebo colného stropu. Uvádza sa číslo príslušnej colnej kvóty alebo príslušného colného stropu.
+
+  - Odsek 40 tlačiva Súhrnná deklarácia/predchádzajúci doklad
+
+  - Uvádza sa odkaz na doklad, ktorým sa preukazuje status deklarovaného tovaru, postavenie v colnom režime alebo odkaz na obchodný doklad (predchádzajúce colné vyhlásenie, predbežné colné vyhlásenie, zápis do účtovnej evidencie a iné). Uvádzajú sa kódy dokladov uvedené v osobitnom predpise.<sup>2</sup>) Ak je potrebné uviesť viacero dokladov, uvádza sa poznámka „Rôzne“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam dokladov.
+
+  - Odsek 41 tlačiva Dodatkové merné jednotky
+
+  - Číselný údaj sa uvádza v mernej jednotke uvedenej pri podpoložke kombinovanej nomenklatúry v Spoločnom colnom sadzobníku<sup>9</sup>) v celých číslach zaokrúhlene smerom nahor.
+
+  - Nevypĺňa sa, ak je v Spoločnom colnom sadzobníku pri podpoložke kombinovanej nomenklatúry uvedená nešpecifikovaná merná jednotka.
 
   - Odsek 42 tlačiva Cena za položku
 
-  - Nevypĺňa sa.
+  - Uvádza sa fakturovaná cena za tovar uvedený v odseku 31. Ak sa za tovar neplatí, uvádza sa cena, ktorá by sa platila za tento tovar alebo podobný tovar v prípade jeho nákupu alebo predaja. Do fakturovanej ceny sa nezahŕňajú náklady na dopravu, poistenie, balenie a manipuláciu, ak sa fakturujú samostatne. Údaj sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor.
+
+  - Pri určovaní ceny za položku sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
 
   - Odsek 43 tlačiva Kód CH
 
-  - Nevypĺňa sa.
+  - Nevypĺňa sa pri colnom režime colné uskladňovanie v colnom sklade typu A, B, C, E a F.
 
   - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
-  - Uvádzajú sa záznamy o predložených osvedčeniach a povoleniach colných orgánov a iných orgánov, ak sú na príslušný dovoz potrebné.
+  - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru z miesta odoslania po miesto vstupu na colné územie spoločenstva a príslušný kód sa uvádzajú takto: „Náklady na dopravu C - X - D0600“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách. Ak sú tieto náklady zahrnuté vo fakturovanej cene, tento údaj sa neuvádza.
 
-  - Ak deklarant predkladá doklady podľa osobitných predpisov únie alebo právnych predpisov Slovenskej republiky, uvedie sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Európskej únie) a údaj na jeho identifikáciu, napríklad číslo dokladu. Ak sa na vývoz tovaru nepredkladajú osvedčenia a povolenia colných orgánov alebo iných orgánov, uvádza sa v ľavom hornom rohu tohto odseku kód uvedený v prílohe č. 3.
+  - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru od miesta vstupu na colné územie spoločenstva po prvé miesto určenia na území Slovenskej republiky a príslušný kód sa uvádzajú takto: „Náklady na dopravu D - X - D0610“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách. Tento údaj sa uvádza, ak sa uplatní postup podľa osobitného predpisu.<sup>10</sup>)
 
-  - V pravej časti odseku pred časť označenú „Kód O. Z.“ pod odsek 41 jednotného colného dokladu alebo doplnkového tlačiva sa uvádzajú v celých slovenských korunách zaokrúhlene smerom nadol bez desatinnej čiarky alebo bodky náklady na dopravu, poistenie, nakladanie a manipuláciu spojené s dopravou dovážaného tovaru uvedeného v odseku 31 jednotného colného dokladu alebo doplnkového tlačiva na miesto, kde tovar vstupuje na územie Slovenskej republiky. Ak je známa len celková hodnota týchto nákladov na celú zásielku, uvedú sa prepočítané náklady na hrubú hmotnosť každej tovarovej položky. Ak nie sú známe tieto náklady v čase predkladania colného vyhlásenia colnému úradu, uvedie sa v tomto odseku kód uvedený v prílohe č. 3.
+  - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu S - X - D0620“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách. Tieto náklady sa uvádzajú aj vtedy, ak sú zahrnuté vo fakturovanej cene.
 
-  - Ak sa navrhuje colný režim voľný obeh po colnom režime pasívny zušľachťovací styk, v pravom dolnom rohu v bodkovane vyznačenej časti sa uvádza cena za poskytnutú službu vrátane ceny tovaru únie, ktorý bol pridaný k tovaru. Táto cena sa zaokrúhľuje na celé koruny smerom nadol.
+  - Pri spätnom dovoze tovaru z colného režimu pasívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru a príslušný kód takto: „Pridaná hodnota PZS - X - D0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime pasívny zušľachťovací styk v slovenských korunách.
 
-  - V zostávajúcej časti odseku sa uvádzajú údaje o predložených dokladoch a poznámky deklaranta. Ak tovar podlieha spotrebnej dani, uvedie sa text „Tovar je predmetom spotrebnej dane. Ak sa ako dôkaz o cene tovaru predkladá účtovný doklad, uvedie sa kód uvedený v prílohe č. 3. Za týmto kódom sa uvedie číslo predloženého dokladu. Pri predložení viacerých účtovných dokladov sa kód uvedený v prílohe č. 3 zopakuje pred každým číslom dokladu.
+  - Príslušné sumy v tomto odseku sa uvádzajú v celých slovenských korunách zaokrúhlene smerom nahor.
 
-  - Pri nedostatku miesta možno tieto údaje uviesť v prílohe zväzku jednotného colného dokladu.
+  - Ak deklarant predkladá doklady podľa osobitných predpisov Európskej únie alebo právnych predpisov Slovenskej republiky, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník spoločenstva). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
+
+  - Ak deklarant uvedením príslušného kódu v odseku 36 žiada o zvýhodnenú colnú sadzbu z dôvodu preferenčného pôvodu tovaru, uvádza sa v tomto odseku kód jedného z dokladov o preferenčnom pôvode podľa systému TARIC SK, za ktorým sa uvádza dvojmiestny alfabetický kód štátu pôvodu osvedčeného na doklade, ktorý je dôkazom o pôvode, a evidenčné číslo tohto dokladu. Napríklad „N954 NO A123456“, kde „N954“ je kód sprievodného osvedčenia EUR. 1 podľa systému TARIC SK, „NO“ je štát pôvodu uvedený na doklade, ktorý je dôkazom o pôvode, a „A123456“ je evidenčné číslo sprievodného osvedčenia EUR. 1.
+
+  - Ak na doklade, ktorý je dôkazom o preferenčnom pôvode, je uvedený preferenčný pôvod v regionálnej skupine krajín, za kódom dokladu sa uvádza štvormiestny numerický kód tejto regionálnej skupiny krajín podľa systému TARIC SK, uvedenej ako štát pôvodu na doklade, ktorý je dôkazom o pôvode, a evidenčné číslo tohto dokladu. Napríklad „N954 2012 A123456“, kde „N954“ je kód sprievodného osvedčenia EUR. 1, „2012“ je kód pôvodu pre Európsky hospodársky priestor podľa systému TARIC SK a „A123456“ je evidenčné číslo sprievodného osvedčenia EUR. 1.
+
+  - Ak je na účely priznania zvýhodnenej colnej sadzby z dôvodu preferenčného pôvodu tovaru alebo vyhodnotenia iných opatrení potrebné osvedčenie o pôvode, ktoré obsahuje ďalšie špecifické údaje, uvádza sa toto osvedčenie dvakrát. Raz ako osvedčenie o pôvode a raz ako osvedčenie o pôvode so špecifickými údajmi. Napríklad pre sprievodné osvedčenie EUR. 1 obsahujúce špecifický údaj - označenie „Derogácia - Rozhodnutie 2/2001“ sa uvádza kód „N954“ pre osvedčenie o pôvode a kód „U021“ pre osvedčenie o pôvode so špecifickými údajmi.
+
+  - Pri dovoze tovaru, ktorý sa zatrieďuje do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>9</sup>) na základe vstupnej ceny, v tomto odseku sa uvádza kód dokladu žiadosti o použitie niektorej zo vstupných cien. Napríklad ak má byť tovar zatriedený do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>9</sup>) s použitím ceny FOB (vyplatené na palube), uvádza sa kód dokladu „1011“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny FOB ako vstupnej ceny“.
+
+  - Ak sa má použiť ako základ na výpočet dodatočného dovozného cla v sektore cukru iná ako reprezentatívna cena,<sup>10a</sup>) uvádza sa v tomto odseku kód dokladu žiadosti o použitie takejto ceny. Napríklad ak sa má ako základ na výpočet dodatočného dovozného cla v sektore cukru použiť cena CIF (náklady, poistné a prepravné), uvádza sa kód dokladu „1014“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny CIF ako základu na výpočet dodatočného dovozného cla v sektore cukru“.
+
+  - Okrem kódov uvedených v predchádzajúcom odseku možno použiť aj tieto kódy:
+
+  - 3ZCD - pri predložení potvrdenia o zabezpečení dovoznej platby,
+
+  - 4PZB - povolenie na použitie zjednodušeného postupu podľa osobitného predpisu,<sup>6</sup>)
+
+  - 4PZC - povolenie na použitie zjednodušeného postupu podľa osobitného predpisu.<sup>10b</sup>)
+
+  - Ak je potrebné uviesť viacero osobitných záznamov alebo predložených dokladov, tieto záznamy možno uviesť v prílohe k tlačivu.
 
   - Odsek 45 tlačiva Oprava
 
@@ -472,32 +402,66 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Odsek 46 tlačiva Štatistická hodnota
 
-  - V tomto odseku sa uvádza fakturovaná cena dovážanej položky (v súlade s dodacími podmienkami) tovaru z odseku 31 jednotného colného dokladu alebo doplnkového tlačiva v celých slovenských korunách zaokrúhlených smerom nadol bez desatinnej čiarky alebo bodky a bez desatinných čísel.
+  - Uvádza sa štatistická hodnota tovaru uvedeného v odseku 31. Štatistická hodnota pri dovoze je hodnota tovaru na mieste a v čase, keď tovar vstupuje na územie Slovenskej republiky.
 
-  - K jednej položke možno uviesť najviac deväťmiestny údaj zaokrúhlený na celé koruny smerom nadol.
+  - Hodnota tovaru sa vypočíta
 
-  - Pri prepustení tovaru do colného režimu voľný obeh v súvislosti s ukončením colného režimu aktívny zušľachťovací styk sa uvádza fakturovaná cena vykazovaná pri prepustení tovaru do colného režimu aktívny zušľachťovací styk.
+  - 1. v prípade predaja alebo nákupu na základe fakturovanej sumy za tovar,
 
-  - Pri prepustení tovaru do colného režimu voľný obeh v súvislosti s ukončením colného režimu pasívny zušľachťovací styk sa uvádza fakturovaná cena vykazovaná pri prepustení do colného režimu pasívny zušľachťovací styk a fakturovaná cena spracovateľských operácií vrátane pridaného tovaru, ktorý nie je tovarom únie.
+  - 2. v ostatných prípadoch na základe hodnoty, ktorá by sa fakturovala v prípade jeho nákupu alebo predaja.
 
-  - Ak sa za tovar neplatí alebo neinkasuje, uvedie sa hodnota rovnakého alebo podobného tovaru.
+  - Štatistická hodnota môže zahŕňať len dodatočné náklady, napríklad náklady na dopravu alebo poistenie súvisiace s tou časťou prepravy tovaru, ktorá sa v prípade dovážaného tovaru uskutočňuje mimo územia Slovenskej republiky; štatistická hodnota nezahŕňa platby splatné pri dovoze alebo vývoze, ako je clo, daň z pridanej hodnoty, spotrebné dane, odvody, vývozné náhrady alebo ostatné platby s rovnocenným účinkom.
+
+  - Štatistická hodnota tovaru, ktorý bol podrobený spracovateľským operáciám, určí sa tak, ako keby sa celý tovar vyrobil v štáte spracovania.
+
+  - Štatistická hodnota tovaru používaného ako hmotný nosič informácií (napríklad diskety, počítačové pásky, filmy, plány, audiokazety, videokazety, kompaktné disky), ktorý obsahuje informácie, ktoré sú predmetom obchodu, zahŕňa celkové náklady tovaru, čo znamená, že štatistická hodnota tovaru predstavuje súčet hodnoty hmotného nosiča informácií a hodnoty informácií, ktoré hmotný nosič informácií nesie.
+
+  - Štatistická hodnota sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor.
+
+  - Pri určovaní štatistickej hodnoty sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
 
   - Odsek 47 tlačiva Výpočet platieb
 
-  - Uvádzajú sa aj údaje, ktoré môžu členské štáty podľa osobitného predpisu únie<sup>1</sup>) vyžadovať.
+  - Pododsek Druh
 
-  - V prvom stĺpci sa uvedie veľkými tlačenými písmenami kód druhu platby uvedený v prílohe č. 3.
+  - V stĺpci sa uvádzajú pod sebou druhy vymeriavaných platieb. Pri tovare podliehajúcom spotrebnej dani sa uvádzajú tieto kódy:
 
-  - V poslednom stĺpci sa uvedie kód uvedený v prílohe č. 3.
+- Kód | Druh spotrebnej dane
 
-  - Colná hodnota a clo sa zaokrúhľujú na celé koruny smerom nadol.
+- 1U0 | Spotrebná daň z minerálneho oleja
 
-  - Základ na vymeranie dane, ako aj vypočítaná daň sa zaokrúhľujú podľa osobitných predpisov.<sup>10</sup>)
+- 1V0 | Spotrebná daň z vína
+
+- 1S0 | Spotrebná daň z liehu
+
+- 1T0 | Spotrebná daň z tabakových výrobkov
+
+- 1 R0 | Spotrebná daň z piva
+
+  - Pododsek Základ na vymeranie platby
+
+  - Uvádza sa základ na vymeranie cla - colná hodnota tovaru. Ak tovar podlieha viacerým druhom cla, uvádzajú sa všetky základy potrebné na vymeranie cla.
+
+  - Ak tovar podlieha spotrebnej dani, uvádza sa aj základ na vymeranie spotrebnej dane.
+
+  - Základ na výpočet cla s použitím valorických colných sadzieb sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor. Základ na výpočet cla s použitím špecifických colných sadzieb sa uvádza s presnosťou na štyri desatinné miesta v mernej jednotke uvedenej v odseku 31. Vypočítané clo sa zaokrúhľuje na celé slovenské koruny smerom nahor. Základ na vymeranie dane a vypočítaná daň sa zaokrúhľujú podľa osobitných predpisov.<sup>10c</sup>)
+
+  - Pododsek Sadzba
+
+  - Nevypĺňa sa.
+
+  - Pododsek Suma
+
+  - Nevypĺňa sa.
+
+  - Pododsek Spôsob platby
+
+  - Vypĺňa sa.
 
   - Odsek 48 tlačiva Odklad platby
 
-  - Vypĺňa sa, ak dovážaný tovar podlieha dovoznému clu a colný úrad povolil odklad platby.
+  - Nevypĺňa sa.
 
   - Odsek 49 tlačiva Označenie skladu
 
-  - Vypĺňa sa iba pri colnom režime colné uskladňovanie.
+  - Vypĺňa sa pri colnom režime colné uskladňovanie. Uvádza sa číslo povolenia na prevádzkovanie colného skladu.

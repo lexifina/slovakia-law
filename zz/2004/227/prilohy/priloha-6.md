@@ -4,7 +4,7 @@ Príloha č. 6 k vyhláške č. 227/2004 Z. z.
 
 - | Textilný tovar a obuv(kapitola KN 61 - Odevy a odevné doplnky, pletené alebo háčkovanékapitola KN 62 - Odevy a odevné doplnky, iné ako pletené alebo háčkovanékapitola KN 63 - Obnosené odevykapitola KN 64 - Obuv, gamaše a podobné výrobky) | Banány[(číselný znak KN 0803 00 19) (článok 290a nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Úradný vestník Európskych spoločenstiev L 253, 11. 10. 1993) v platnom znení)]
 
-- Banská Bystrica | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko | Zvolen - Lieskovec, nácestné stredisko Jesenské
+- Banská Bystrica | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko
 
 - Bratislava | Galvaniho Letisko | Prístav
 
@@ -18,6 +18,6 @@ Príloha č. 6 k vyhláške č. 227/2004 Z. z.
 
 - Trnava | Brodské Dunajská Streda | Trnava
 
-- Trenčín | Trenčín Považská Bystrica Nové Mesto nad Váhom | Trenčín
+- Trenčín | Trenčín Považská Bystrica Nové Mesto nad Váhom Prievidza | Trenčín
 
 - Žilina | Martin Žilina, nácestné stredisko Trstená Ružomberok | Žilina, nácestné stredisko Trstená
