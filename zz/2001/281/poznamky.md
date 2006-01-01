@@ -19,5 +19,3 @@
 - 10) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 11) Zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.Zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov.
-
-- 12) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
