@@ -438,7 +438,7 @@
 
 - 53 – Dane a poplatky
 
-- 531 – Cestná daň
+- 531 – Daň z motorových vozidiel
 
 - 532 – Daň z nehnuteľnosti
 

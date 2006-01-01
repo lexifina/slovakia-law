@@ -1,14 +1,8 @@
-- 1) Napríklad § 2 ods. 2 Obchodného zákonníka, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
+- 1) Napríklad § 2 ods. 2 Obchodného zákonníka, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
-- 2) Opatrenie Ministerstva financií Slovenskej republiky z 13. novembra 2002 č. 20 359/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre banky, pobočky zahraničných bánk, Národnú banku Slovenska Fond ochrany vkladov, obrany vkladov, obchodníkov z cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, záručný fond investícií, správcovské spoločnosti a podielové fondy (oznámenie č. 646/2002 Z. z.).
+- 2) Opatrenie Ministerstva financií Slovenskej republiky z 30. novembra 2005 č. MF/22930/ 2005-74, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre zdravotné poisťovne (oznámenie č. 592/2005 Z. z.).Opatrenie Ministerstva financií Slovenskej republiky z 30. novembra 2005 č. MF/24035/ 2005-74, ktorým sa ustanovujú podrobnosti o postupoch účtovania a účtovej osnove pre Sociálnu poisťovňu (oznámenie č. 580/2005 Z. z.).Opatrenie Ministerstva financií Slovenskej republiky z 11. decembra 2003 č. 24501/ 2003-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre rozpočtové organizácie, štátne fondy, príspevkové organizácie, obce a vyššie územné celky (oznámenie č. 567/2003 Z. z.) v znení neskorších predpisov.
 
-- Opatrenie Ministerstva financií Slovenskej republiky z 13. novembra 2002 č. 20 360/20 02-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre Exportno - importnú banku Slovenskej republiky (oznámenie č. 645/2002 Z. z.).
-
-- Opatrenie Ministerstva financií Slovenskej republiky z 3. decembra 2002 č. 22 212/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre poisťovne, pobočky zahraničných poisťovní, zaisťovne, pobočky zahraničných zaisťovní a Slovenskú kanceláriu poisťovateľov (oznámenie č. 693/2002 Z. z.). Opatrenie Ministerstva financií Slovenskej republiky z 10. decembra 2002 č. 22 502/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a účtovej osnove pre účtovné jednotky, ktoré nie sú založené alebo zriadené za účelom podnikania (oznámenie č. 734/2002 Z. z.).
-
-- Opatrenie Ministerstva financií Slovenskej republiky z 10. decembra 2002 č. 21 577/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a účtovej osnove pre zdravotné poisťovne, Sociálnu poisťovňu a Národný úrad práce (oznámenie č. 720/2002 Z. z.).
-
-- Opatrenie Ministerstva financií Slovenskej republiky zo 17. decembra 2002 č. 23 340/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcová účtová osnova pre rozpočtové organizácie, štátne fondy, obce, vyššie územné celky, príspevkové organizácie a niektoré iné právnické osoby, ktorých hlavným predmetom činnosti nie je podnikanie (oznámenie č. 742/2002 Z. z.).
+- Opatrenie Ministerstva financií Slovenskej republiky z 10. decembra 2002 č. 22502/ 2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a účtovej osnove pre účtovné jednotky, ktoré nie sú založené alebo zriadené za účelom podnikania (oznámenie č. 734/2002 Z. z.) v znení neskorších predpisov.
 
 - 3) § 28 ods. 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
@@ -22,7 +16,7 @@
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
-- 8) Napríklad zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z. (úplné znenie č. 34/2001 Z. z.).
+- 8) Napríklad zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
 - 9) § 22 ods. 2 zákona č. 595/2003 Z. z.
 
@@ -42,13 +36,17 @@
 
 - 15) § 8 písm. d) zákona č.566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
-- 16) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 16) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 353/2005 Z. z.
 
-- 16a) § 2 písm. s) druhý bod zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
+- 16a) § 120 zákona č. 7/2005 Z. z. v znení zákona č. 353/2005 Z. z.
+
+- 16b) § 2 písm. s) druhý bod zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
 
 - 17) § 7 zákona č. 368/1999 Z. z. o rezervách a opravných položkách na zistenie základu dane z príjmov.
 
 - 19a) § 2 písm. s) prvý bod zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
+
+- 19b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.
 
 - 20) § 24 ods. 2 zákona č. 595/2003 Z. z.
 
@@ -58,7 +56,13 @@
 
 - 23) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
-- 24) Napríklad zákon č. 70/1998 Z. z. o energetike v znení neskorších predpisov, zákon č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon), zákon č. 543/2002 Z. z. o ochrane prírody a krajiny.
+- 23a) § 83 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
+
+- 23b) § 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 23c) § 76 zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 24) Napríklad zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 364/2004 o vodách a zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon), v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 25) Napríklad zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
@@ -74,6 +78,8 @@
 
 - 30a) § 43 ods. 7 zákona č. 595/2003 Z. z.
 
+- 30aa) Napríklad zákon č. 595/2004 Z. z. v znení neskorších predpisov.
+
 - 30b) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 30c) § 69 ods. 2 až 4, 6, 7 a 9 zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
@@ -82,9 +88,9 @@
 
 - 30e) § 8 zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
 
-- 31) Napríklad zákon Národnej rady Slovenskej republiky č. 309/1993 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 229/1995 Z. z. o spotrebnej dani z liehu v znení neskorších predpisov.
+- 31) Napríklad zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
 
-- 32) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 32) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34) § 157 Obchodného zákonníka v znení neskorších predpisov.
 

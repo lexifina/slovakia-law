@@ -2,7 +2,7 @@
 
 (1) Na účely účtovania finančného prenájmu sa rozumie
 
-- a) finančným prenájmom obstaranie dlhodobého hmotného majetku na základe nájomnej zmluvy s dojednaným právom kúpy prenajatej veci za dohodnuté platby počas dohodnutej doby nájmu<sup>16a)</sup> tohto majetku,
+- a) finančným prenájmom obstaranie dlhodobého hmotného majetku na základe nájomnej zmluvy s dojednaným právom kúpy prenajatej veci za dohodnuté platby počas dohodnutej doby nájmu<sup>16b)</sup> tohto majetku,
 
 - b) dohodnutými platbami jednotlivé platby uhrádzané nájomcom prenajímateľovi počas dohodnutej doby finančného prenájmu majetku; súčasťou dohodnutých platieb je aj kúpna cena<sup>19a)</sup>, za ktorú na konci dohodnutej doby finančného prenájmu majetku prechádza vlastnícke právo k prenajatému majetku z prenajímateľa na nájomcu,
 
@@ -55,3 +55,5 @@
 - b) účtu 315 - Ostatné pohľadávky.
 
 (14) Výnos z predaja majetku, ktorý predávajúci súčasne nadobúda zmluvou o finančnom prenájme, sa v účtovníctve predávajúceho časovo rozlišuje počas dohodnutej doby finančného prenájmu v sume, ktorá je znížená o účtovnú hodnotu tohto majetku, ak sa pri jeho predaji dosiahol zisk.
+
+(15) Istina u nájomcu z dohodnutých platieb sa v účtovníctve nájomcu stanoví podľa odseku 1 písm. c), ak ide o finančný prenájom od zahraničného prenajímateľa, ktorý neurčuje rozdelenie dohodnutých platieb na istinu a finančný výnos.
