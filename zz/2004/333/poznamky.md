@@ -24,8 +24,6 @@
 
 - 10) Zákon č. 424/1991 Zb. o združovaní v politických stranách a v politických hnutiach v znení neskorších predpisov.
 
-- 11) § 23 ods. 1 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 12) § 250za Občianskeho súdneho poriadku.
 
 - 13) Zákon č. 619/2003 Z. z. o Slovenskom rozhlase.
