@@ -68,14 +68,16 @@
 
 - 21b) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon), zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách v znení neskorších predpisov, zákon č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti v znení zákona č. 183/2000 Z. z.
 
-- 23) § 36 ods. 1 až 6 a § 37 a 37a zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.Druhá časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+- 23) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- 23a) § 37 ods. 3 písm. d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
+- Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+
+- 23a) § 8 ods. 2 písm. d) zákona č. 747/2004 Z. z.
 
 - 23b) § 57 ods. 1 písm. e) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 29) Čl. 119 písm. d) a čl. 118 Ústavy Slovenskej republiky.
 
-- 30) § 94 až 114 zákona č. 483/2001 Z. z.
+- 30) § 12 až 34 zákona č. 747/2004 Z. z.
 
 - 31) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
