@@ -14,7 +14,7 @@
 
 - 8) § 788 a nasl. Občianskeho zákonníka.
 
-- 9) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 9) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
@@ -38,7 +38,7 @@
 
 - 20) § 48 ods. 14 zákona č. 43/2004 Z. z. v znení zákona č. 186/2004 Z. z.
 
-- 21) § 35 zákona č. 96/2002 Z. z.
+- 21) § 27 ods. 1 až 5 zákona č. 747/2004 Z. z.
 
 - 22) § 66b Obchodného zákonníka.
 
