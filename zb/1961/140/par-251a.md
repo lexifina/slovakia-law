@@ -1,3 +1,0 @@
-# § 251a
-
-Kto ukryje alebo na seba alebo iného prevedie z nedbanlivosti vec väčšej hodnoty, ktorá bola získaná trestným činom spáchaným inou osobou, potresce sa odňatím slobody až na šesť mesiacov alebo peňažným trestom.
