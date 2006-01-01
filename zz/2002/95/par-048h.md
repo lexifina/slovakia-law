@@ -1,6 +1,6 @@
 # § 48h
 
-(1) Poisťovňa alebo zaisťovňa, ktorá ovláda finančný konglomerát, je povinná k 31. marcu kalendárneho roka alebo na žiadosť úradu predkladať úradu údaje o koncentrácii rizík finančného konglomerátu. Ak finančný konglomerát nie je ovládaný poisťovňou alebo zaisťovňou, údaje podľa prvej vety predkladá úradu zmiešaná finančná holdingová spoločnosť alebo regulovaná osoba určená úradom po predchádzajúcom vyjadrení regulovaných osôb alebo zmiešaných finančných holdingových spoločností tvoriacich súčasť finančného konglomerátu.
+(1) Poisťovňa alebo zaisťovňa, ktorá ovláda finančný konglomerát, je povinná k 31. marcu kalendárneho roka alebo na žiadosť Národnej banky Slovenska predkladať Národnej banke Slovenska údaje o koncentrácii rizík finančného konglomerátu. Ak finančný konglomerát nie je ovládaný poisťovňou alebo zaisťovňou, údaje podľa prvej vety predkladá Národnej banke Slovenska zmiešaná finančná holdingová spoločnosť alebo regulovaná osoba určená Národnou bankou Slovenska po predchádzajúcom vyjadrení regulovaných osôb alebo zmiešaných finančných holdingových spoločností tvoriacich súčasť finančného konglomerátu.
 
 (2) Koncentráciou rizík finančného konglomerátu sa na účely doplňujúceho dohľadu rozumie každá činnosť osôb tvoriacich súčasť finančného konglomerátu, ktorá môže spôsobiť takú stratu, ktorá môže ohroziť platobnú schopnosť alebo bezpečnosť a zdravie regulovaných osôb tvoriacich súčasť finančného konglomerátu; takáto koncentrácia môže byť v riziku protistrany, úverovom riziku, investičnom riziku, poistnom riziku, trhovom riziku, riziku likvidity, operačnom riziku a inom riziku alebo kombinácii týchto rizík.
 
@@ -8,7 +8,7 @@
 
 (4) Ak finančný konglomerát ovláda zmiešaná finančná holdingová spoločnosť a ak je najvýznamnejším finančným sektorom vo finančnom konglomeráte sektor poisťovníctva, vzťahujú sa na koncentráciu rizík sektora poisťovníctva a zmiešanej finančnej holdingovej spoločnosti primerane ustanovenia § 31.
 
-(5) Všeobecne záväzný právny predpis, ktorý vydá ministerstvo, ustanoví na účely zisťovania koncentrácie rizík finančného konglomerátu spôsob výpočtu
+(5) Všeobecne záväzný právny predpis, ktorý vydá Národná banka Slovenska, ustanoví na účely zisťovania koncentrácie rizík finančného konglomerátu spôsob výpočtu
 
 - a) majetkovej angažovanosti finančného konglomerátu a čo sa rozumie majetkovou angažovanosťou finančného konglomerátu,
 

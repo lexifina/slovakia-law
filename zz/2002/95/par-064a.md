@@ -1,10 +1,10 @@
 # § 64a Likvidácia poisťovne, poisťovne z iného členského štátu alebo zaisťovne v rámci členských štátov
 
-(1) Úrad je povinný bez zbytočného odkladu informovať príslušné orgány dohľadu iných členských štátov o tom, že podal návrh na zrušenie a likvidáciu poisťovne, zaisťovne vrátane ich pobočiek v iných členských štátoch a o ich vstupe do likvidácie.
+(1) Národná banka Slovenska je povinná bez zbytočného odkladu informovať príslušné orgány dohľadu iných členských štátov o tom, že podala návrh na zrušenie a likvidáciu poisťovne, zaisťovne vrátane ich pobočiek v iných členských štátoch a o ich vstupe do likvidácie.
 
 (2) Rozhodnutie o zrušení a likvidácii poisťovne, zaisťovne vrátane ich pobočiek v iných členských štátoch je platné pre všetky členské štáty.
 
-(3) Úrad zverejní vo vestníku úradu oznámenie o začatí likvidácie poisťovne z iného členského štátu po tom, ako sa o tejto skutočnosti dozvie.
+(3) Národná banka Slovenska zverejní vo vestníku Národnej banky Slovenska oznámenie o začatí likvidácie poisťovne z iného členského štátu po tom, ako sa o tejto skutočnosti dozvie.
 
 (4) Likvidátor bez zbytočného odkladu zverejní výrok rozhodnutia podľa odseku 2 v Úradnom vestníku Európskych spoločenstiev v slovenskom jazyku.
 
@@ -14,6 +14,6 @@
 
 (7) Veriteľ, ktorý má trvalý pobyt alebo sídlo v inom členskom štáte, je oprávnený si uplatniť svoju pohľadávku na príslušnom orgáne v Slovenskej republike v úradnom jazyku alebo v jednom z úradných jazykov tohto členského štátu, prípadne v slovenskom jazyku, ak ho ovláda. Doklad, ktorým si veriteľ uplatňuje pohľadávku, sa označí „Uplatnenie pohľadávky".
 
-(8) Likvidátor je povinný pravidelne informovať veriteľov o priebehu likvidácie subjektov podľa odseku 1. Úrad je povinný na požiadanie poskytnúť informácie o priebehu likvidácie subjektov podľa odseku 1 príslušným orgánom dohľadu iných členských štátov.
+(8) Likvidátor je povinný pravidelne informovať veriteľov o priebehu likvidácie subjektov podľa odseku 1. Národná banka Slovenska je povinná na požiadanie poskytnúť informácie o priebehu likvidácie subjektov podľa odseku 1 príslušným orgánom dohľadu iných členských štátov.
 
-(9) Ak likvidátor z iného členského štátu, ktorý vykonáva likvidáciu poisťovne z iného členského štátu, chce pôsobiť na území Slovenskej republiky, jeho vymenovanie sa úradu preukazuje úradne osvedčenou kópiou rozhodnutia o vymenovaní za likvidátora alebo iným obdobným dokladom vydaným príslušným orgánom dohľadu iného členského štátu a úrad môže požadovať ich preklad do slovenského jazyka.
+(9) Ak likvidátor z iného členského štátu, ktorý vykonáva likvidáciu poisťovne z iného členského štátu, chce pôsobiť na území Slovenskej republiky, jeho vymenovanie sa Národnej banke Slovenska preukazuje úradne osvedčenou kópiou rozhodnutia o vymenovaní za likvidátora alebo iným obdobným dokladom vydaným príslušným orgánom dohľadu iného členského štátu a Národná banka Slovenska môže požadovať ich preklad do slovenského jazyka.
