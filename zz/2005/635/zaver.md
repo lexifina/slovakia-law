@@ -1,0 +1,1 @@
+Jirko Malchárek v. r.
