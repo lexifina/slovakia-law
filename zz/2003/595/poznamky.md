@@ -38,11 +38,11 @@
 
 - 16) Napríklad § 18 až 33 zákona č. 283/2002 Z. z.
 
-- 17) Napríklad Zákonník práce.
+- 17) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
 
 - 18) § 145 Zákonníka práce.
 
-- 20) Napríklad zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+- 20) Napríklad zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
@@ -89,6 +89,10 @@
 - 39) Napríklad zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov, zákon č. 452/2004 Z. z. o náhradnom výživnom.
 
 - 40) § 5 a § 20 ods. 1 písm. a) zákona č. 328/2002 Z. z.
+
+- 40a) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
+
+- 40b) § 40 zákona č. 43/2004 Z. z. v znení zákona č. 721/2004 Z. z.
 
 - 41) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
@@ -166,6 +170,8 @@
 
 - 74) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
+- 74a) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
 - 75) § 68 Obchodného zákonníka.
 
 - 76) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
@@ -202,7 +208,9 @@
 
 - Zákon č. 385/1999 Z. z. v znení neskorších predpisov.
 
-- 89) § 7 ods. 4 zákona č. 283/2002 Z. z.
+- 89) Zákonník práce.
+
+- Zákon č. 283/2002 Z. z. v znení neskorších predpisov.
 
 - 90) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -216,6 +224,8 @@
 
 - 93) § 223 ods. 8 Obchodného zákonníka.
 
+- 93a) § 2 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
+
 - 94) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 95) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
@@ -226,15 +236,29 @@
 
 - Zákon č. 80/1997 Z. z. v znení neskorších predpisov.
 
-- 98) Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
+- 98) Zákon č. 326/2005 Z. z. o lesoch.
 
-- 99) § 13 až 14a zákona Slovenskej národnej rady č. 100/1977 Zb. v znení neskorších predpisov.
+- 99) § 20 ods. 6 zákona č. 326/2005 Z. z.
+
+- 99a) § 47 zákona č. 326/2005 Z. z.
 
 - 100) Zákon č. 44/1988 Zb. v znení neskorších predpisov.
 
 - 101) Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
 
 - 102) Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
+
+- 102a) § 17 ods. 7 a § 19 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 102b) § 9 ods. 7 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- § 42 ods. 4 písm. a) zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 347/2005 Z. z.
+
+- § 57 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- 102c) § 27, 27a a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 102d) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
 
 - 103) Napríklad zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z.
 
@@ -356,4 +380,6 @@
 
 - Zákon č. 154/2001 Z. z. v znení zákona č. 669/2002 Z. z.
 
-- 149) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.
+- 149) § 68 až 75 zákona č. 581/2004 Z. z.
+
+- 150) § 74 ods. 2 zákona č. 581/2004 Z. z.

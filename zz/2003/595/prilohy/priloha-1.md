@@ -290,7 +290,7 @@ Príloha č. 1 k zákonu č. 595/2003 Z. z.
 
 - 3-26 | | Pestovateľské celky trvalých porastov s časom plodnosti dlhším ako tri roky
 
-- 3-27 | | z kódu 2213 KS len: televízne a káblové rozvody z kódu 2224 KS len: televízne a káblové rozvody
+- 3-27 | | 2213 KS – Diaľkové telekomunikačné siete a vedenia 2224 KS – Miestne elektrické a telekomunikačné rozvody a vedenia
 
 - 3-28 | | Drobné stavby vymedzené osobitným predpisom<sup>107</sup>) s výnimkou uvedenou v § 22 ods. 2 písm. b) druhom bode
 
