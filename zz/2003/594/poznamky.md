@@ -40,7 +40,7 @@
 
 - 21) § 73 zákona č. 566/2001 Z. z.
 
-- 22) § 37 ods. 1 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+- 22) § 29 ods. 2 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 23) § 144 ods. 7 zákona č. 566/2001 Z. z.
 
@@ -158,7 +158,7 @@
 
 - 73) Vyhláška Ministerstva financií Slovenskej republiky č. 558/2002 Z. z., ktorou sa ustanovuje rozsah, spôsob a termíny predkladania výkazov, hlásení alebo prehľadov z účtovnej evidencie a štatistickej evidencie a ustanovuje obsah, forma, členenie, termíny, spôsob a miesto predkladania výkazov, hlásení a iných správ obchodníka s cennými papiermi a zahraničného obchodníka s cennými papiermi v znení vyhlášky č. 34/2003 Z. z.
 
-- 74) Zákon č. 96/2002 Z. z.
+- 74) Zákon č. 747/2004 Z. z.
 
 - 75) Občiansky súdny poriadok v znení neskorších predpisov.
 
@@ -166,7 +166,11 @@
 
 - 77) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
-- 78) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- Zákon č. 747/2004 Z. z.Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov.
 
 - 79) § 2 ods. 1 písm. d) a § 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
