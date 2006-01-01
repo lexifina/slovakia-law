@@ -26,6 +26,8 @@
 
 - 14) § 7 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
 
+- 14a) Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
+
 - 15) Zákon Národnej rady Slovenskej republiky č. 3/1993 Z. z. o zriadení Armády Slovenskej republiky v znení neskorších predpisov.
 
 - 16) § 33 zákona č. 314/2001 Z. z.
