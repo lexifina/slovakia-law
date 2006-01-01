@@ -2,7 +2,7 @@
 
 # § 12a
 
-(1) Ak orgán činný v trestnom konaní pri zaistení obvineného neprevzal jeho peňažné prostriedky v slovenskej mene alebo cudzej mene, do úschovy ich prevezme ústav pri vzatí obvineného do výkonu väzby a eviduje ich v pokladni ústavu do rozhodnutia orgánu činného v trestnom konaní. Obvinenému sa môžu peňažné prostriedky vydať, ak s tým súhlasí príslušný orgán činný v trestnom konaní.
+(1) Ak orgán činný v trestnom konaní alebo súd pri zaistení obvineného neprevzal jeho peňažné prostriedky v slovenskej mene alebo cudzej mene, do úschovy ich prevezme ústav pri vzatí obvineného do výkonu väzby a eviduje ich v pokladni ústavu do rozhodnutia orgánu činného v trestnom konaní alebo súdu. Obvinenému sa môžu peňažné prostriedky vydať, ak s tým súhlasí príslušný orgán činný v trestnom konaní alebo súd.
 
 (2) Obvinenému sa v účtovnej evidencii na účte cudzích prostriedkov ústavu na jeho konte počas výkonu väzby evidujú peňažné prostriedky:
 
