@@ -20,13 +20,15 @@
 
 - 9a) § 35 zákona č. 140/1998 Z. z. v znení zákona č. 342/2005 Z. z.
 
+- 9b) § 33 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
+
 - 10) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 7 zákona č. 581/2004 Z. z.
 
 - 12) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 13) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 13) § 53 písm. b) zákona č. 538/2005 Z. z.
 
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
@@ -39,8 +41,6 @@
 - 17) § 19 a 22 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17a) Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
-
-- 18) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 19) § 116 Občianskeho zákonníka.
 
