@@ -16,6 +16,6 @@
 
 - b) obmedziť alebo pozastaviť výkon niektorých vnútroskupinových obchodov.
 
-(3) Ak je súčasťou finančného konglomerátu osoba, nad ktorou podľa § 6 ods. 1 vykonáva dohľad Národná banka Slovenska, je Národná banka Slovenska oprávnená uložiť sankciu podľa § 50 aj na základe oznámenia úradu o porušení ustanovení osobitného predpisu<sup>45b</sup>) alebo na základe oznámenia príslušného orgánu dohľadu členského štátu, ktorý zodpovedá za dohľad nad finančným konglomerátom, ktorého súčasťou je osoba podľa § 6 ods. 1.
+(3) Ak je súčasťou finančného konglomerátu osoba, nad ktorou podľa § 6 ods. 1 vykonáva dohľad Národná banka Slovenska, je Národná banka Slovenska oprávnená uložiť sankciu podľa § 50 aj na základe oznámenia príslušného orgánu dohľadu členského štátu, ktorý zodpovedá za dohľad nad finančným konglomerátom, ktorého súčasťou je osoba podľa § 6 ods. 1.
 
-(4) Ak Národná banka Slovenska uložila sankciu osobe podľa § 6 ods. 1, ktorá je súčasťou finančného konglomerátu podliehajúceho doplňujúcemu dohľadu vykonávanému úradom alebo príslušným orgánom dohľadu členského štátu, a ak udelenie tejto sankcie má význam pre výkon doplňujúceho dohľadu, oznámi túto skutočnosť úradu alebo príslušnému orgánu dohľadu členského štátu.
+(4) Ak Národná banka Slovenska uložila sankciu osobe podľa § 6 ods. 1, ktorá je súčasťou finančného konglomerátu podliehajúceho doplňujúcemu dohľadu vykonávanému príslušným orgánom dohľadu členského štátu, a ak udelenie tejto sankcie má význam pre výkon doplňujúceho dohľadu, oznámi túto skutočnosť príslušnému orgánu dohľadu členského štátu.

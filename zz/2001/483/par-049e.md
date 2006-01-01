@@ -10,7 +10,7 @@
 
 (3) Najmenší finančný sektor vo finančnom konglomeráte je finančný sektor, ktorého priemer z podielov podľa odseku 2 je najnižší; najvýznamnejší finančný sektor vo finančnom konglomeráte je finančný sektor, ktorého priemer z podielov podľa odseku 2 je najvyšší. Na účely výpočtu priemeru z podielov podľa odseku 2 na meranie najmenšieho a najvýznamnejšieho finančného sektora sa bankový sektor a sektor investičných služieb považujú za jeden sektor.
 
-(4) Ak skupina nedosiahne hodnotu priemeru podľa odseku 2 z podielov podľa odseku 2, ale celkové aktíva najmenšieho finančného sektora v skupine sú vyššie ako 6 mld. EUR, Národná banka Slovenska je oprávnená určiť po dohode s úradom a s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, že skupina sa nebude považovať za finančný konglomerát alebo že sa nebudú uplatňovať ustanovenia § 49g až 49j, ak vykonávanie doplňujúceho dohľadu nie je vhodné z hľadiska cieľov doplňujúceho dohľadu, najmä ak
+(4) Ak skupina nedosiahne hodnotu priemeru podľa odseku 2 z podielov podľa odseku 2, ale celkové aktíva najmenšieho finančného sektora v skupine sú vyššie ako 6 mld. EUR, Národná banka Slovenska je oprávnená určiť po dohode s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, že skupina sa nebude považovať za finančný konglomerát alebo že sa nebudú uplatňovať ustanovenia § 49g až 49j, ak vykonávanie doplňujúceho dohľadu nie je vhodné z hľadiska cieľov doplňujúceho dohľadu, najmä ak
 
 - a) priemer z podielov podľa odseku 2 nepresiahne 5 % alebo
 
@@ -18,9 +18,9 @@
 
 - c) podiel na trhu najmenšieho finančného sektora nepresiahne 5 % v žiadnom členskom štáte, ak je meraný z hľadiska celkových aktív v bankovom sektore alebo sektore investičných služieb a z hľadiska hrubej výšky predpísaného poistného poistných zmlúv uzatvorených v sektore poisťovníctva.
 
-(5) Rozhodnutia Národnej banky Slovenska prijaté podľa odseku 4 Národná banka Slovenska oznámi aj úradu a príslušným orgánom dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
+(5) Rozhodnutia Národnej banky Slovenska prijaté podľa odseku 4 Národná banka Slovenska oznámi aj príslušným orgánom dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
 
-(6) Národná banka Slovenska je oprávnená po dohode s úradom a príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, vylúčiť právnickú osobu z výpočtu podielov podľa odsekov 1 až 3, ak ide o osobu,
+(6) Národná banka Slovenska je oprávnená po dohode s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, vylúčiť právnickú osobu z výpočtu podielov podľa odsekov 1 až 3, ak ide o osobu,
 
 - a) ktorá má sídlo na území štátu, ktorý nie je členským štátom a ktorého právny poriadok neumožňuje výmenu informácií na účely výkonu doplňujúceho dohľadu,
 
@@ -28,15 +28,15 @@
 
 - c) ktorej zaradenie do finančného konglomerátu je nevhodné z hľadiska cieľov doplňujúceho dohľadu.
 
-(7) Národná banka Slovenska je oprávnená po vyjadrení úradu a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, brať do úvahy hodnoty podielov uvedených v odsekoch 1 a 2 za tri za sebou nasledujúce roky, aby sa zamedzilo náhlej zmene režimu výkonu doplňujúceho dohľadu, a nebrať do úvahy dosiahnutie hodnôt podielov uvedených v odsekoch 1 a 2, ak nastanú významné zmeny v štruktúre skupiny.
+(7) Národná banka Slovenska je oprávnená po vyjadrení príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, brať do úvahy hodnoty podielov uvedených v odsekoch 1 a 2 za tri za sebou nasledujúce roky, aby sa zamedzilo náhlej zmene režimu výkonu doplňujúceho dohľadu, a nebrať do úvahy dosiahnutie hodnôt podielov uvedených v odsekoch 1 a 2, ak nastanú významné zmeny v štruktúre skupiny.
 
-(8) Národná banka Slovenska je oprávnená v osobitne odôvodnených prípadoch a po vyjadrení úradu a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, pri výpočte hodnoty podielov podľa odsekov 1 a 2 nahradiť alebo doplniť kritérium založené na celkových aktívach kritériami založenými na štruktúre príjmov alebo podsúvahových činnostiach, a to jedným alebo oboma súčasne, alebo pridať jedno kritérium alebo obidve tieto kritériá, ak majú osobitný význam z hľadiska účelu doplňujúceho dohľadu.
+(8) Národná banka Slovenska je oprávnená v osobitne odôvodnených prípadoch a po vyjadrení príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, pri výpočte hodnoty podielov podľa odsekov 1 a 2 nahradiť alebo doplniť kritérium založené na celkových aktívach kritériami založenými na štruktúre príjmov alebo podsúvahových činnostiach, a to jedným alebo oboma súčasne, alebo pridať jedno kritérium alebo obidve tieto kritériá, ak majú osobitný význam z hľadiska účelu doplňujúceho dohľadu.
 
 (9) Ak hodnota podielu podľa odseku 1 klesne pod 40 % alebo hodnota priemeru z podielov podľa odseku 2 klesne pod 10 % v prípade finančných konglomerátov, na ktoré sa už vzťahuje doplňujúci dohľad, na nasledujúce tri roky platí pri výpočte podľa odseku 1 hodnota podielu 35 % a pri výpočte podľa odseku 2 hodnota priemeru z podielov 8 %.
 
 (10) Ak v prípade skupiny, nad ktorou sa už vykonáva doplňujúci dohľad, celkové aktíva najmenšieho finančného sektora skupiny klesnú pod 6 mld. EUR, na nasledujúce tri roky platí pri výpočte podľa odseku 4 suma 5 mld. EUR.
 
-(11) Národná banka Slovenska môže so súhlasom úradu a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, počas obdobia ustanoveného v odsekoch 7 až 10 určiť, že prestanú platiť nižšie hodnoty podielov alebo nižšia suma ustanovená v odsekoch 7 až 10 pre finančné konglomeráty podliehajúce doplňujúcemu dohľadu.
+(11) Národná banka Slovenska môže so súhlasom príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, počas obdobia ustanoveného v odsekoch 7 až 10 určiť, že prestanú platiť nižšie hodnoty podielov alebo nižšia suma ustanovená v odsekoch 7 až 10 pre finančné konglomeráty podliehajúce doplňujúcemu dohľadu.
 
 (12) Výpočty týkajúce sa celkových aktív sa robia súhrnom údajov o celkových aktívach osôb v skupine z ich ročných účtovných závierok. Na účely tohto výpočtu sa pre osoby, v ktorých je nadobudnutá majetková účasť, berie do úvahy výška podielu nadobudnutého v danej osobe. Ak boli zostavené konsolidované účtovné závierky, použijú sa tieto namiesto súhrnu údajov.
 

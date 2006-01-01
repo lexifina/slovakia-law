@@ -1,8 +1,8 @@
 # § 49l
 
-(1) Národná banka Slovenska pri výkone doplňujúceho dohľadu spolupracuje s úradom a s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, aj vtedy, ak doplňujúci dohľad vykonáva úrad alebo príslušný orgán dohľadu členského štátu, a to najmenej v rozsahu podľa odseku 3.
+(1) Národná banka Slovenska pri výkone doplňujúceho dohľadu spolupracuje s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, aj vtedy, ak doplňujúci dohľad vykonáva príslušný orgán dohľadu členského štátu, a to najmenej v rozsahu podľa odseku 3.
 
-(2) Národná banka Slovenska je povinná na žiadosť úradu a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, poskytnúť im informácie potrebné na výkon dohľadu nad regulovanými osobami vo finančnom konglomeráte a dohľadu nad finančnými konglomerátmi, najmenej však v rozsahu podľa odseku 3. Národná banka Slovenska je povinná poskytnúť tieto informácie aj z vlastného podnetu, ak zistí, že uvedené informácie sú dôležité na výkon dohľadu nad finančnými konglomerátmi. Národná banka Slovenska je oprávnená vyžiadať si od úradu a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, informácie potrebné na výkon doplňujúceho dohľadu najmenej v rozsahu podľa odseku 3 a tiež je oprávnená vymieňať si informácie potrebné na výkon dohľadu nad finančnými konglomerátmi aj so zahraničnými centrálnymi bankami, Európskym systémom centrálnych bánk a Európskou centrálnou bankou.
+(2) Národná banka Slovenska je povinná na žiadosť príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, poskytnúť im informácie potrebné na výkon dohľadu nad regulovanými osobami vo finančnom konglomeráte a dohľadu nad finančnými konglomerátmi, najmenej však v rozsahu podľa odseku 3. Národná banka Slovenska je povinná poskytnúť tieto informácie aj z vlastného podnetu, ak zistí, že uvedené informácie sú dôležité na výkon dohľadu nad finančnými konglomerátmi. Národná banka Slovenska je oprávnená vyžiadať si od príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, informácie potrebné na výkon doplňujúceho dohľadu najmenej v rozsahu podľa odseku 3 a tiež je oprávnená vymieňať si informácie potrebné na výkon dohľadu nad finančnými konglomerátmi aj so zahraničnými centrálnymi bankami, Európskym systémom centrálnych bánk a Európskou centrálnou bankou.
 
 (3) Spolupráca a výmena informácií podľa odsekov 1 a 2 sa týka najmä
 
@@ -20,15 +20,15 @@
 
 - g) nepriaznivého vývoja v regulovaných osobách alebo v iných osobách vo finančnom konglomeráte, ktorý by mohol mať vážny negatívny vplyv na banku alebo inštitúciu elektronických peňazí,
 
-- h) závažných sankcií a mimoriadnych opatrení prijatých Národnou bankou Slovenska, úradom a príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
+- h) závažných sankcií a mimoriadnych opatrení prijatých Národnou bankou Slovenska, príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
 
-(4) Národná banka Slovenska je povinná prerokovať s úradom alebo s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu,
+(4) Národná banka Slovenska je povinná prerokovať s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu,
 
 - a) vydanie rozhodnutia o predchádzajúcom súhlase podľa § 28 ods. 1 písm. a) a b) a § 9 ods. 4, ak by zmeny v akcionárskej štruktúre alebo zmeny v orgánoch banky a inštitúcie elektronických peňazí ovplyvnili výkon doplňujúceho dohľadu,
 
-- b) uloženie sankcií alebo prijatie opatrení voči regulovaným osobám vo finančnom konglomeráte, ktoré by mohli mať vplyv aj na regulované osoby podliehajúce doplňujúcemu dohľadu vykonávanému úradom alebo príslušným orgánom dohľadu členských štátov, ktorý zodpovedá za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
+- b) uloženie sankcií alebo prijatie opatrení voči regulovaným osobám vo finančnom konglomeráte, ktoré by mohli mať vplyv aj na regulované osoby podliehajúce doplňujúcemu dohľadu vykonávanému príslušným orgánom dohľadu členských štátov, ktorý zodpovedá za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
 
-(5) Národná banka Slovenska nie je povinná rokovať podľa odseku 4, ak toto rokovanie môže ohroziť prijatie rozhodnutí v príslušnej lehote alebo ak prijatie sankcií a opatrení neznesie odklad. Národná banka Slovenska v takom prípade bez zbytočného odkladu informuje úrad alebo príslušné orgány dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
+(5) Národná banka Slovenska nie je povinná rokovať podľa odseku 4, ak toto rokovanie môže ohroziť prijatie rozhodnutí v príslušnej lehote alebo ak prijatie sankcií a opatrení neznesie odklad. Národná banka Slovenska v takom prípade bez zbytočného odkladu informuje príslušné orgány dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
 
 (6) Národná banka Slovenska je pri výkone doplňujúceho dohľadu oprávnená vyzvať príslušný orgán dohľadu členského štátu, ktorý zodpovedá za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, v tom členskom štáte, v ktorom má sídlo materská spoločnosť, aby požiadal materskú spoločnosť o informácie potrebné na vykonávanie úloh Národnej banky Slovenska podľa § 49k a aby jej postúpil tieto informácie.
 

@@ -36,8 +36,6 @@
 
 - § 67 až 71 zákona č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z.
 
-- 15) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
-
 - 15a) § 37 a 37a zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 15b) Zákon č. 96/2002 Z. z. v znení zákona č. 43/2004 Z. z.
@@ -292,13 +290,9 @@
 
 - 88m) Zákon č. 244/2002 Z. z.
 
-- 89) § 22 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
+- 89) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 89a) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
-
-- 90) Zákon č. 36/1967 Zb. v znení zákona č. 238/2000 Z. z.
-
-- 91) § 244 a 247 Občianskeho súdneho poriadku.
 
 - 92) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
