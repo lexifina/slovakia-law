@@ -34,6 +34,8 @@
 
 - 17) § 5 zákona č. 302/2001 Z. z.
 
+- 17a) Napríklad § 48 ods. 1 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+
 - 18) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - Zákon č. 302/2001 Z. z. v znení neskorších predpisov.
@@ -42,19 +44,23 @@
 
 - 20) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
 
+- 20a) Napríklad § 8 ods. 4 a 5 zákona č. 523/2004 Z. z.
+
 - 21) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
 - 22) Zákon č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23) § 5 ods. 1 písm. f) zákona č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
 
+- 23a) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
 - 24) § 829 až 841 Občianskeho zákonníka v znení neskorších predpisov.
 
-- 25) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+- 25) § 1 až 13, § 14 ods. 2, § 15 až 17, § 24 až 26, § 31 až 47, § 51 až 70, § 81 až 85 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 26) § 116 Občianskeho zákonníka.
 
-- 27) Zákon Národnej rady Slovenskej republiky č. 253/1994 Z. z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov.
+- 27) Napríklad zákon Národnej rady Slovenskej republiky č. 253/1994 Z. z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov, § 18c zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 369/2004 Z. z.
 
 - 28) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 603/2003 Z. z.
 
