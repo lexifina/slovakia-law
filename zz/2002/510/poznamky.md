@@ -116,7 +116,7 @@
 
 - 33) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+- Zákon č. 483/2001 Z. z. v znení neskorších predpisov.Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 34) § 34a ods. 2 a 3 a § 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
@@ -174,7 +174,7 @@
 
 - 48i) § 23 a 55 zákona č. 428/2002 Z. z.
 
-- 49) § 94 až 114 zákona č. 483/2001 Z. z.
+- 49) § 12 až 34 zákona č. 747/2004 Z. z.
 
 - 50) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
