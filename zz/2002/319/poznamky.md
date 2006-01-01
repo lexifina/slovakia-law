@@ -14,6 +14,8 @@
 
 - 8) Čl. 102 ods. 1 písm. m) a čl. 119 písm. n) Ústavy Slovenskej republiky.Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z.§ 10 zákona č. 321/2002 Z. z.
 
+- 8a) Zákon č. 569 /2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu.
+
 - 9) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
@@ -22,9 +24,13 @@
 
 - 12) Čl. 11 ods. 6 ústavného zákona č. 227/2002 Z. z.
 
-- 14) § 32 a 14 zákona č. 320/2002 Z. z. o brannej povinnosti.
+- 14) § 21 ods. 2 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
-- 15) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 15) § 5 a 6 zákona č. 569 /2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu.
+
+- 15a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 15b) Napríklad zákon č. 570/2005 Z. z., zákon č. 569/2005 Z. z.
 
 - 16) § 4 zákona č. 320/2002 Z. z. o brannej povinnosti.
 
