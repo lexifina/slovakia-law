@@ -1,1 +1,0 @@
-- 1) Napríklad zákon č. 469/2002 Z. z. o environmentálnom označovaní výrobkov.
