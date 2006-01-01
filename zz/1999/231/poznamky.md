@@ -38,8 +38,6 @@
 
 - 24a) Zákon č. 565/2001 Z. z. o investičných stimuloch a o zmene a doplnení niektorých zákonov.
 
-- 24b) § 250w až 250y Občianskeho súdneho poriadku.
-
 - 24c) Zákon č. 71/1967 Zb. o správnom konaní v znení neskorších predpisov.
 
 - 25) Čl. 120 ods. 2 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
