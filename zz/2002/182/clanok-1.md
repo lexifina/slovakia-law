@@ -195,3 +195,7 @@ Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa z
 - (3)
 
 - Daňové subjekty, ktoré dosiahli ročný obrat podľa § 4 ods. 7 písm. c) za zdaňovacie obdobie roka 2000, sa stávajú vybranými daňovými subjektmi dňom nadobudnutia účinnosti tohto zákona. Ak tieto daňové subjekty nedosiahli v roku 2001 a nedosiahnu v roku 2002 obrat podľa § 4 ods. 7 písm. c), prestávajú byť vybranými daňovými subjektmi od 1. januára 2004.“.
+
+- „(2)
+
+- Ak to nariadi počas konania podľa odseku 1 prezident republiky, výkon trestu sa odloží alebo preruší. Tieto úkony podľa nariadenia prezidenta republiky zabezpečí minister spravodlivosti.“.
