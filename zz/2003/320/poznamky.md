@@ -46,6 +46,8 @@
 
 - 24) § 6 ods. 2 písm. n) zákona č. 488/2002 Z. z.
 
+- 24a) Príloha VII časť I body 1 až 4 a 6 až 8 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 z 29. apríla 2004 o úradných kontrolách uskutočňovaných za účelom zabezpečenia overenia dodržiavania potravinového a krmivového práva a predpisov o zdraví zvierat a o starostlivosti o zvieratá (Ú. v. EÚ L 165, 30. 4. 2004).
+
 - 25) § 6 ods. 2 písm. n) zákona č. 488/2002 Z. z.
 
 - 26) § 2 písm. b) zákona č. 488/2002 Z. z.
@@ -87,6 +89,8 @@
 - 44) § 33 ods. 2 zákona č. 488/2002 Z. z.
 
 - 45) § 33 ods. 8 zákona č. 488/2002 Z. z.
+
+- 45a) Články 19 až 22 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 (Ú. v. EÚ L 165, 30. 4. 2004).
 
 - 46) Nariadenie vlády Slovenskej republiky č. 321/2003 Z. z.
 
