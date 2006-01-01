@@ -66,6 +66,20 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - hodnota zamestnaneckej opcie poskytnutej zamestnávateľom na nákup zamestnaneckej akcie určená ako rozdiel medzi vyššou trhovou cenou zamestnaneckej akcie platnou v prvý deň možnosti realizácie opcie a cenou akcie garantovanou opciou, znížený o sumu zaplatenú zamestnancom za nákup opcie; zamestnaneckou opciou na účely tohto zákona je opcia nadobudnutá zamestnancom od zamestnávateľa alebo od obchodnej spoločnosti ekonomicky prepojenej s obchodnou spoločnosťou zamestnávateľa, ktorú nemožno scudziť; zamestnaneckou akciou na účely tohto zákona je akcia nadobudnutá zamestnancom od zamestnávateľa alebo od akciovej spoločnosti ekonomicky prepojenej s obchodnou spoločnosťou zamestnávateľa.“.
 
+- 10. Poznámka pod čiarou k odkazu 17 znie:
+
+- „17)
+
+- Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.“.
+
+- 11. V § 5 ods. 7 písm. d) sa slovo „zamestnávateľa“ nahrádza slovami „poskytnutého zamestnávateľom“.
+
+- 12. Poznámka pod čiarou k odkazu 20 znie:
+
+- „20)
+
+- Napríklad zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 13. V § 5 sa odsek 7 dopĺňa písmenami i) a j), ktoré znejú:
 
 - „i)
@@ -88,13 +102,35 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - Napríklad zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení zákona č. 747/2004 Z. z., zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.“.
 
+- 15. V § 6 odsek 10 znie:
+
+- „(10)
+
+- Ak daňovník, ktorý nie je platiteľom dane z pridanej hodnoty, alebo daňovník, ktorý je platiteľom dane z pridanej hodnoty len časť zdaňovacieho obdobia, neuplatní preukázateľné daňové výdavky, môže uplatniť výdavky vo výške 40 % z úhrnu príjmov uvedených v odsekoch 1 a 2 okrem daňovníka, ktorý má z týchto príjmov len príjmy z vykonávania remeselných živností podľa osobitného predpisu,<sup>33</sup>) ktorý môže uplatniť výdavky vo výške 60 %. Ak daňovník s príjmami podľa odseku 3 nie je platiteľom dane z pridanej hodnoty alebo je platiteľom dane z pridanej hodnoty len časť zdaňovacieho obdobia, neuplatní preukázateľné daňové výdavky, môže uplatniť výdavky vo výške 40 % z týchto príjmov. Ak daňovník uplatní výdavky podľa tohto odseku, v sumách výdavkov sú zahrnuté všetky daňové výdavky daňovníka okrem zaplateného poistného a príspevkov, ktoré je daňovník povinný platiť, ak toto poistné a príspevky neboli zahrnuté do základu dane v predchádzajúcich zdaňovacích obdobiach; toto poistné a príspevky si môže daňovník uplatniť vo výdavkoch v preukázanej výške. Daňovník počas uplatňovania výdavkov týmto spôsobom je povinný viesť evidenciu o príjmoch v časovom slede, o zásobách a o pohľadávkach.“.
+
 - 16. V § 7 ods. 1 písm. b) sa za slová „na vkladovom účte“ vkladá čiarka a slová „na účte stavebného sporiteľa“.
+
+- 17. V § 8 sa odsek 1 dopĺňa písmenami k) a l), ktoré znejú:
+
+- „k)
+
+- vrátené poistné na zdravotné poistenie<sup>20</sup>) zaplatené bez právneho dôvodu a vrátené poistné na sociálne poistenie<sup>21</sup>) zaplatené bez právneho dôvodu alebo vrátená časť poistného presahujúca správnu výšku poistného,<sup>20</sup>) o ktoré si daňovník znížil v predchádzajúcom zdaňovacom období alebo predchádzajúcich zdaňovacích obdobiach príjmy podľa § 5 a 6,
+
+- l)
+
+- príjmy z derivátových operácií.“.
 
 - 18. V § 8 sa odsek 3 dopĺňa písmenom c), ktoré znie:
 
 - „c)
 
 - príjmy podľa odseku 1 písm. k).“.
+
+- 19. V § 8 ods. 5 písmeno b) znie:
+
+- „b)
+
+- cena veci, cenného papiera alebo opcie zistená v čase nadobudnutia, ak nejde o výdavok podľa písmena a), pričom pri nehnuteľnostiach získaných dedením alebo darovaním sa vychádza z ceny podľa § 25,“.
 
 - 20. V § 8 ods. 5 písm. e) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „pri predaji zamestnaneckých akcií aj suma nepeňažného príjmu uvedeného v § 5 ods. 3 písm. b) zdanená podľa § 35,“.
 
@@ -103,6 +139,24 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - „(11)
 
 - Pri príjmoch podľa odseku 1 písm. l) sa za výdavky považujú poplatky a iné podobné platby súvisiace s realizáciou derivátových operácií a výdavky súvisiace s vysporiadaním týchto derivátových operácií.“.
+
+- 22. V § 9 ods. 2 písmeno a) znie:
+
+- „a)
+
+- dávky, podpory a služby z verejného zdravotného poistenia,<sup>20</sup>) individuálneho zdravotného poistenia,<sup>20</sup>) sociálneho poistenia,<sup>21</sup>) nemocenského zabezpečenia a úrazového zabezpečenia,<sup>40</sup>) dôchodky zo starobného dôchodkového sporenia<sup>40a</sup>) vrátane plnenia z tohto sporenia podľa osobitného predpisu<sup>40b</sup>) a plnenia z povinného zahraničného poistenia rovnakého druhu,“.
+
+- Poznámky pod čiarou k odkazom 40a a 40b znejú:
+
+- „40a)
+
+- Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
+
+- 40b)
+
+- § 40 zákona č. 43/2004 Z. z. v znení zákona č. 721/2004 Z. z.“.
+
+- 23. V § 9 ods. 2 písm. c) sa za slová „príplatok k dôchodku“ vkladajú slová „vrátane príplatku za výkon funkcie sudcu, sudcu ústavného súdu a prokurátora“.
 
 - 24. V § 9 ods. 2 písm. s) sa nad slová „v zahraničí“ umiestňuje odkaz 59a.
 
@@ -186,9 +240,19 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - dôchodkovou správcovskou spoločnosťou a vytvára a spravuje dôchodkové fondy,<sup>40a</sup>) sú len príjmy dôchodkovej správcovskej spoločnosti.“.
 
+- 33. V § 13 ods. 2 písm. e) sa na konci pripájajú tieto slová: „príjmy z finančných operácií vykonávané Agentúrou pre riadenie dlhu a likvidity podľa osobitného predpisu<sup>74a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 74a znie:
+
+- „74a)
+
+- § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.“.
+
 - 34. V § 13 ods. 2 písm. f) sa nad slovo „zahraničí“ umiestňuje odkaz 59a.
 
 - 36. V § 14 ods. 3 sa na konci pripája táto veta: „Základ dane daňovníka, ktorý je dôchodkovou správcovskou spoločnosťou vytvárajúcou a spravujúcou dôchodkové fondy, sa zisťuje len za dôchodkovú správcovskú spoločnosť.“.
+
+- 37. V § 16 ods. 1 písm. e) štvrtom bode sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „hnuteľnou vecou umiestnenou na území Slovenskej republiky je aj dopravný prostriedok využívaný daňovníkom podľa § 2 písm. d) alebo stálou prevádzkarňou daňovníka podľa § 2 písm. e) v medzinárodnej doprave,“.
 
 - 38. V § 17 sa odsek 1 dopĺňa písmenom c), ktoré znie:
 
@@ -214,6 +278,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 40. V § 17 ods. 5 sa za slová „základu dane“ vkladá slovo „zahraničnej“, za slová „obchodných vzťahoch“ sa vkladá slovo „zahraničných“ a vypúšťa sa tretia veta.
 
+- 41. V § 17 ods. 6 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ktorá je v súlade s princípom nezávislého vzťahu podľa § 18 ods. 1.“.
+
 - 42. V § 17 ods. 15 druhá veta znie: „Opravy chýb minulých účtovných období, ak ide o náklady (výdavky) uznané za daňový výdavok alebo výnosy (príjmy) zahrnované do zdaniteľných príjmov, sa zahrnujú do základu dane toho zdaňovacieho obdobia, s ktorým vecne a časovo súvisia, bez ohľadu na to, či sa účtujú do nákladov, výnosov alebo na účet nerozdelený zisk minulých rokov.“.
 
 - 43. V § 17 ods. 16 sa slová „cenu, v ktorej bol majetok ocenený v účtovníctve pri jeho nadobudnutí, zvýšenú o preukázateľné náklady vynaložené na rekonštrukcie a modernizácie tohto majetku“ nahrádzajú slovami „cenu podľa § 25“.
@@ -224,17 +290,67 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - Ak daňovník pred začatím zdaňovacieho obdobia doručí správcovi oznámenie o nezahrnovaní kurzových rozdielov vznikajúcich v účtovníctve z dôvodu nezrealizovaného inkasa pohľadávok alebo neuhradených platieb záväzkov ku dňu, ku ktorému sa zostavuje účtovná závierka, do základu dane v období, v ktorom o nich účtuje, zahrnú sa tieto rozdiely do základu dane v tom zdaňovacom období, v ktorom došlo k inkasu alebo odpisu pohľadávky alebo platbe alebo odpisu záväzku. V zdaňovacom období, v ktorom tento daňovník doručí správcovi dane oznámenie o ukončení nezahrnovania týchto kurzových rozdielov do základu dane, zahrnie do základu dane aj kurzové rozdiely vyčíslené v účtovníctve, nezahrnuté do základu dane v predchádzajúcich zdaňovacích obdobiach.“.
 
+- 45. V § 17 ods. 21 sa za slová „úroky z omeškania<sup>79</sup>)“ vkladajú slová „okrem úrokov z omeškania z úverov platených bankám a prijatých bankami,“.
+
+- 46. § 17 sa dopĺňa odsekmi 27 a 28, ktoré znejú:
+
+- „(27)
+
+- Základ dane daňovníka podľa § 2 písm. e) sa vypočíta ako súčet základov dane a daňových strát jednotlivých stálych prevádzkarní a základu dane z tých druhov príjmov, ktoré nie sú súčasťou základu dane stálej prevádzkarne, z ktorých sa daň nevyberá zrážkou podľa § 43 alebo z ktorých vybraním dane zrážkou nie je splnená daňová povinnosť.
+
+- (28)
+
+- Ak pri zmene sídla alebo miesta skutočného vedenia obchodnej spoločnosti, alebo družstva z územia Slovenskej republiky do niektorého z členských štátov Európskej únie vznikne na území Slovenskej republiky stála prevádzkareň, pri vyčíslení základu dane za zdaňovacie obdobie do dňa zmeny sídla alebo miesta skutočného vedenia sa nepoužije odsek 13 o úprave základu dane, ak zostatky účtov vymedzené v odseku 13 sa vzťahujú na majetok vzniknutej stálej prevádzkarne umiestnenej na území Slovenskej republiky. Táto stála prevádzkareň môže odpočítavať aj daňovú stratu vykázanú pred zmenou sídla alebo miesta skutočného vedenia podľa podmienok uvedených v § 30, pričom pokračuje v už začatom odpisovaní majetku právnickou osobou.“.
+
+- 47. V § 19 sa odsek 2 dopĺňa písmenami o) a p), ktoré znejú:
+
+- „o)
+
+- úhrn výdavkov (nákladov) na deriváty<sup>1</sup>) do výšky príjmov (výnosov) z derivátov v úhrne za zdaňovacie obdobie, okrem
+
+- 1.
+
+- daňovníkov, ktorí vykonávajú činnosť podľa osobitného predpisu,<sup>88</sup>) poisťovní, pobočiek zahraničných poisťovní, zaisťovní a pobočiek zahraničných zaisťovní, ktorým sa výdavok (náklad) na deriváty uzná do výšky účtovanej ako náklad,
+
+- 2.
+
+- zabezpečovacích derivátov, pri ktorých sa výdavok (náklad) na opčnú prémiu k nakúpenej kúpnej a nakúpenej predajnej opcii uzná do výšky účtovanej ako náklad,
+
+- p)
+
+- výdavky (náklady) na stravovanie vynaložené daňovníkom s príjmami podľa § 6 ods. 1 a 2 za každý odpracovaný deň v kalendárnom roku, najviac v rozsahu a vo výške ustanovených pre zamestnancov podľa osobitného predpisu,<sup>89</sup>) ak daňovníkovi súčasne nevzniká nárok na príspevok na stravovanie podľa osobitného predpisu<sup>89</sup>) v súvislosti s výkonom závislej činnosti, alebo daňovník neuplatňuje výdavky (náklady) na stravovanie podľa písmena e).“.
+
+- Poznámka pod čiarou k odkazu 89 znie:
+
 - „89)
 
 - Zákonník práce.
 
 - Zákon č. 283/2002 Z. z. v znení neskorších predpisov.“.
 
+- 48. V § 19 ods. 3 písm. h) sa vypúšťajú slová „k pochybným a“ a za slová „v bankách“ sa vkladá čiarka a slová „na ktoré je možné tvoriť opravnú položku do výšky 100 %,“.
+
+- 49. V § 19 ods. 3 písm. k) druhý bod znie:
+
+- „2.
+
+- ak na jej odpočítanie platiteľ dane z pridanej hodnoty nemá nárok, alebo pomerná časť dane z pridanej hodnoty, ak platiteľ dane uplatňuje nárok na odpočítanie dane koeficientom podľa osobitného predpisu,<sup>6</sup>)“.
+
+- 50. V § 19 ods. 3 písm. l) sa na konci pripájajú tieto slová: „a príspevky na účelové sporenie a životné poistenie, ktoré platí zamestnávateľ za zamestnancov; tieto príspevky je možné uznať v úhrne najviac do výšky 6 % zo zúčtovanej mzdy a náhrady mzdy zamestnanca, ktorý je účastníkom týchto sporení“.
+
 - 51. V § 19 ods. 3 písmeno o) znie:
 
 - „o)
 
 - úrok pri finančnom prenájme zahrnovaný do základu dane počas celej doby trvania finančného prenájmu podľa osobitného predpisu,<sup>1</sup>)“.
+
+- 52. V § 20 odsek 4 znie:
+
+- „(4)
+
+- Daňovým výdavkom bánk a pobočiek zahraničných bánk<sup>94</sup>) a Exportno-importnej banky Slovenskej republiky<sup>95</sup>) je tvorba opravnej položky k znehodnoteným pohľadávkam z poskytnutých úverov.“.
+
+- 53. V § 20 ods. 6 sa slová „pohľadávok uvedených“ nahrádzajú slovami „výšky opravnej položky k pohľadávkam uvedeným“.
 
 - 54. V § 20 ods. 9 písm. a) sa na konci pripájajú tieto slová: „rezervy na vyprodukované emisie v zmysle osobitného predpisu;<sup>149</sup>) to neplatí u daňovníkov účtujúcich v sústave jednoduchého účtovníctva“.
 
@@ -243,6 +359,26 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - „149)
 
 - Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.“.
+
+- 55. V § 20 ods. 9 písmeno b) znie:
+
+- „b)
+
+- lesnú pestovnú činnosť vykonávanú podľa osobitného zákona;<sup>98</sup>) tvorba rezervy na lesnú pestovnú činnosť sa určuje v projekte lesnej pestovnej činnosti na obdobie do doby zabezpečenia mladého lesného porastu<sup>99</sup>) potvrdenom odborným lesným hospodárom,<sup>99a</sup>) a to aj u daňovníka účtujúceho v sústave jednoduchého účtovníctva,<sup>1</sup>)“.
+
+- Poznámky pod čiarou k odkazom 98, 99 a 99a znejú:
+
+- „98)
+
+- Zákon č. 326/2005 Z. z. o lesoch.
+
+- 99)
+
+- § 20 ods. 6 zákona č. 326/2005 Z. z.
+
+- 99a)
+
+- § 47 zákona č. 326/2005 Z. z.“.
 
 - 56. V § 20 sa odsek 9 dopĺňa písmenom e), ktoré znie:
 
@@ -254,6 +390,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 58. V § 20 ods. 14 sa za slová „zahrnuté do príjmov“ vkladajú slová „vrátane pohľadávok nadobudnutých vkladom podniku alebo jeho časti, alebo pohľadávok nadobudnutých právnym nástupcom daňovníka zrušeného bez likvidácie“.
 
+- 59. V § 21 ods. 1 písmeno c) znie:
+
+- „c)
+
+- úplatky alebo iné neoprávnené výhody poskytnuté inej osobe priamo alebo sprostredkovane aj vtedy, ak v príslušnom štáte je poskytnutie takéhoto úplatku alebo inej neoprávnenej výhody obvykle tolerované,“.
+
+- 60. V § 21 ods. 1 písm. i) sa na konci pripájajú slová „a p)“.
+
 - 61. V § 22 sa odsek 6 dopĺňa písmenom f), ktoré znie:
 
 - „f)
@@ -261,6 +405,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - technické zhodnotenie hmotného majetku obstarávaného formou finančného prenájmu.“.
 
 - 62. V § 22 ods. 8 prvej vete sa vypúšťajú slová „najneskôr do piatich rokov od jeho obstarania“ a súčasne sa vypúšťa druhá veta.
+
+- 63. § 22 sa dopĺňa odsekom 14, ktorý znie:
+
+- „(14)
+
+- U daňovníka, u ktorého zdaňovacie obdobie je kratšie ako kalendárny rok z dôvodu úmrtia, sa uplatní z vypočítaného ročného odpisu alikvotná časť pripadajúca na celé mesiace, počas ktorých daňovník majetok účtoval ako obchodný majetok.<sup>1</sup>) Zvyšnú časť ročného odpisu prepočítaného na kalendárne mesiace uplatní daňovník pokračujúci v činnosti po zomretom daňovníkovi, pričom zvyšná časť odpisu sa uplatní už v mesiaci, v ktorom bol majetok zaevidovaný v majetku daňovníka pokračujúceho v činnosti po zomretom daňovníkovi.“.
+
+- 64. V § 23 ods. 1 písm. c) sa vypúšťajú slová „a úpravy bystrín a lesnícko-technické meliorácie“.
 
 - 65. V § 24 ods. 1 úvodné vety znejú: „Hmotný majetok a nehmotný majetok odpisuje daňovník, ktorý má k tomuto majetku vlastnícke právo. Hmotný majetok a nehmotný majetok odpisuje aj daňovník, ktorý nemá vlastnícke právo k tomuto majetku, ak účtuje<sup>1</sup>) alebo vedie evidenciu podľa § 6 ods. 11 o“.
 
@@ -285,6 +437,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - 68. V § 25 ods. 1 písm. c) sa na konci vypúšťajú slová „toto ustanovenie sa nevzťahuje na daňovníka, ktorý je fyzickou osobou“.
 
 - 69. V § 25 ods. 1 písm. d) sa slová „písmen a) a b)“ nahrádzajú slovami „písmen a) až c)“.
+
+- 70. V § 25 ods. 5 sa vypúšťa písmeno c).
 
 - 71. V § 26 ods. 8 prvej vete sa za slová „finančného prenájmu“ vkladajú slová „okrem pozemkov“ a na konci sa pripájajú tieto slová a vety: „zvýšenej o náklady súvisiace s obstaraním predmetu finančného prenájmu vynaložené nájomcom do doby zaradenia tohto majetku do užívania. Pri postúpení nájomnej zmluvy sa odstupné zaplatené nad rámec celkovej sumy dohodnutých platieb odpisuje ako súčasť vstupnej ceny rovnomerne počas zostávajúcej doby trvania nájomnej zmluvy. V prípade predĺženia alebo skrátenia dohodnutej doby finančného prenájmu sa už uplatnené odpisy spätne neupravujú a zvyšná časť odpisovanej hodnoty sa rozpočítava rovnomerne až do novej dohodnutej doby ukončenia finančného prenájmu.“.
 
@@ -326,9 +480,39 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).“.
 
+- 78. V § 33 sa suma „5 400“ nahrádza sumou „6 480“.
+
+- 79. V § 34 odseky 5, 6 a 7 znejú:
+
+- „(5)
+
+- Poslednou známou daňovou povinnosťou na výpočet preddavkov v preddavkovom období podľa odseku 1 je daň vypočítaná zo základu dane uvedeného v poslednom daňovom priznaní, zníženého o nezdaniteľné časti základu dane podľa § 11 platné v zdaňovacom období, na ktoré sú platené preddavky na daň pri použití sadzby dane podľa § 15 platnej v zdaňovacom období, na ktoré sú platené preddavky na daň, znížená o zápočet dane zaplatenej v zahraničí, o daňový bonus a o daň vybranú podľa § 43, odpočítavanú ako preddavok na daň. Pri zmene poslednej známej daňovej povinnosti z podaného daňového priznania v bežnom zdaňovacom období k začiatku preddavkového obdobia podľa odseku 1 sa preddavky na daň splatné do začiatku tohto preddavkového obdobia nemenia, pričom ak preddavky na daň zaplatené do tejto zmeny sú vyššie ako preddavky vypočítané z podaného daňového priznania, suma preddavkov z poslednej známej daňovej povinnosti prevyšujúca sumu preddavkov vypočítanú z podaného daňového priznania sa započíta na úhradu ďalších preddavkov na daň platených po tejto zmene alebo sa na základe žiadosti daňovníkovi vrátia.
+
+- (6)
+
+- Daňovník s neobmedzenou daňovou povinnosťou podľa § 2 písm. d) prvého bodu s príjmami podľa § 5, ktorý vykonáva závislú činnosť u zamestnávateľa, ktorý nie je platiteľom dane<sup>122</sup>) ani zahraničným platiteľom dane podľa § 48, platí preddavky na daň z týchto príjmov zo závislej činnosti miestne príslušnému správcovi dane<sup>128</sup>) vo výške vypočítanej z príjmu vyplateného, poukázaného alebo pripísaného na účet daňovníka v príslušnom kalendárnom mesiaci spôsobom podľa § 35. Tieto preddavky sú splatné do konca kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom daňovníkovi bol takýto príjem vyplatený, poukázaný alebo pripísaný na účet. Začatie poberania tohto príjmu je povinný daňovník oznámiť miestne príslušnému správcovi dane<sup>128</sup>) do konca kalendárneho mesiaca, v ktorom mu po prvýkrát bol takýto príjem vyplatený, poukázaný alebo pripísaný.
+
+- (7)
+
+- Daňovník s obmedzenou daňovou povinnosťou podľa § 2 písm. e), s príjmami podľa § 16 ods. 1 písm. b), ktorý vykonáva závislú činnosť u zamestnávateľa, ktorý nie je platiteľom dane<sup>122</sup>) ani zahraničným platiteľom dane podľa § 48, platí preddavky na daň z týchto príjmov zo závislej činnosti miestne príslušnému správcovi dane<sup>128</sup>) vypočítané z príjmu vyplateného, poukázaného alebo pripísaného na účet daňovníka v príslušnom kalendárnom mesiaci, zníženého o pomernú časť nezdaniteľnej časti základu dane na daňovníka podľa § 11 ods. 1 písm. a), pri použití sadzby dane podľa § 15, platných v zdaňovacom období, za ktoré boli príjmy vyplatené, poukázané alebo pripísané. Tieto preddavky sú splatné do konca kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bol daňovníkovi takýto príjem vyplatený, poukázaný alebo pripísaný na účet. Začatie poberania tohto príjmu je povinný daňovník oznámiť miestne príslušnému správcovi dane<sup>128</sup>) do konca kalendárneho mesiaca, v ktorom mu po prvýkrát bol takýto príjem vyplatený, poukázaný alebo pripísaný. Ak zo zmluvy, na základe ktorej tento daňovník poberá príjmy,
+
+- a)
+
+- vyplýva, že na území Slovenskej republiky sa bude zdržiavať viac ako 183 dní, platí preddavky na daň od začiatku svojho pobytu na území Slovenskej republiky,
+
+- b)
+
+- nevyplýva, že na území Slovenskej republiky sa bude zdržiavať viac ako 183 dní, platí preddavky na daň až za kalendárny mesiac nasledujúci po uplynutí 183 dní pobytu na území Slovenskej republiky.“.
+
 - 80. V § 34 ods. 9 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „pričom môže ísť aj o kombináciu takýchto príjmov.“.
 
 - 81. V § 35 ods. 1 písm. b) sa slová „písm. b) až d)“ nahrádzajú slovami „písm. b) až e)“.
+
+- 82. V § 37 ods. 1 písmeno a) znie:
+
+- „a)
+
+- predložením dokladu o oprávnenosti nároku na uplatnenie nezdaniteľnej časti základu dane podľa § 11 ods. 1 písm. b) a § 11 ods. 5 vystaveným oprávneným subjektom poskytujúcim služby podľa § 2 písm. u) a v) a vyhlásením o výške vlastného príjmu manželky (manžela),“.
 
 - 83. V § 38 ods. 1 prvá veta znie:
 
@@ -366,9 +550,45 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 93. V § 42 ods. 6 sa za slová „základu dane“ vkladajú slová „zníženého o daňovú stratu“.
 
+- 94. V § 42 ods. 7 prvej vete sa za slovo „pred“ vkladá slovo „bezprostredne“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Pri výpočte poslednej známej daňovej povinnosti sa postupuje rovnako ako pri výpočte dane za predchádzajúce zdaňovacie obdobie vrátane použitia sadzby dane platnej v zdaňovacom období, na ktoré sú platené preddavky.“.
+
 - 95. V § 43 ods. 3 písm. a) sa za slová „bežných účtov“ vkladá čiarka a slová „z účtov stavebných sporiteľov“.
 
+- 96. V § 43 sa odsek 3 dopĺňa písmenom j), ktoré znie:
+
+- „j)
+
+- príjem podľa § 5 ods. 1 písm. a) až g) plynúci daňovníkovi od zamestnávateľa, ktorý je platiteľom dane,<sup>122</sup>) ktorého úhrnná výška od tohto zamestnávateľa nepresiahne za kalendárny mesiac úhrnnú sumu 5 000 Sk a u ktorého si tento daňovník pri výpočte preddavkov na daň z príjmov zo závislej činnosti neuplatňuje nezdaniteľné časti základu dane podľa § 11 a daňový bonus podľa § 33.“.
+
+- 97. V § 43 ods. 5 písm. a) sa za slová „vklady alebo poistné;“ vkladajú slová „v prípade preddavkovo uskutočňovaných výplat z poistenia pre prípad dožitia určitého veku podlieha dani vyberanej zrážkou rozdiel medzi zaplateným poistným a vyšším plnením z poistenia pre prípad dožitia určitého veku, a to v tom zdaňovacom období, v ktorom pri výplate z poistenia celkový úhrn súm plnenia z poistenia pre prípad dožitia určitého veku presiahne celkový úhrn súm zaplateného poistenia, pričom vybraná daň z predchádzajúcich výplat sa započíta na úhradu celkovej dane;“.
+
+- 98. V § 43 ods. 5 písmeno b) znie:
+
+- „b)
+
+- v odseku 3 písm. h) je príjem znížený o výdavok vo výške ustanoveného percenta pre tento príjem podľa § 6 ods. 10.“.
+
+- 99. V § 43 sa odsek 5 dopĺňa písmenami c) a d), ktoré znejú:
+
+- „c)
+
+- v odseku 3 písm. j) je príjem znížený podľa § 5 ods. 8,
+
+- d)
+
+- v § 16 ods. 1 písm. d) je príjem znížený o 40 %.“.
+
+- 100. V § 43 ods. 6 sa na konci prvej vety pripájajú tieto slová: „s výnimkou daňovníka s obmedzenou daňovou povinnosťou s príjmami podľa § 16 ods. 1 písm. d)“ a na konci druhej vety sa pripájajú tieto slová: „a v prípade, ak daňovník vybranú daň zrážkou neodpočíta od dane ako preddavok v podanom daňovom priznaní podľa odseku 7“.
+
+- 101. V § 43 ods. 10 druhá veta znie:
+
+- „Za pripísanie úhrady v prospech daňovníka pri výnosoch z cenných papierov plynúcich príjemcovi od správcovských spoločností sa nepovažuje zahrnutie výnosu do aktuálnej ceny už vydaného podielového listu, ktorým je splnená povinnosť každoročného vyplácania výnosu z majetku podielového fondu.“.
+
+- 102. V § 44 ods. 2 prvej vete sa za slová „peňažného plnenia“ vkladá čiarka a slová „najviac však do výšky podľa medzinárodnej zmluvy,“ a v poslednej vete sa slová „znížený o 25 %“ nahrádzajú slovami „znížený o výdavok vo výške ustanoveného percenta pre tento príjem podľa § 6 ods. 10“.
+
 - 103. V § 45 ods. 1 piatej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „pričom u daňovníka, ktorý je fyzickou osobou, sa rozumie celkovým základom dane (na účely zápočtu dane) základ dane neznížený o nezdaniteľné časti základu dane podľa § 11.“.
+
+- 104. V § 46 druhej vete sa za slová „podľa § 35“ vkladajú slová „okrem zdaniteľných príjmov daňovníka, u ktorého za zdaňovacie obdobie nepresiahnu takéto príjmy 50 % sumy podľa § 11 ods. 1 písm. a)“.
 
 - 105. V § 50 ods. 6 písm. a) sa za slová „zaplatil v lehote na podanie daňového priznania,“ vkladajú slová „ak podáva daňové priznanie,“ a za slovo „zrazená“ sa vkladá čiarka a slová „pričom táto daň je vysporiadaná v správnej výške do lehoty na podanie vyhlásenia podľa odseku 1“.
 
@@ -429,3 +649,13 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - Pri predĺžení alebo skrátení dohodnutej doby finančného prenájmu sa výška mesačného odpisu vypočítaná podľa § 26 ods. 8 upraví počnúc mesiacom, v ktorom sa nájomca a prenajímateľ dohodli na zmene doby trvania finančného prenájmu.“.
 
 - 110. V prílohe č. 1 odpisovej skupine 1 položke 1-17 sa kód „29.40.5“ nahrádza kódom „29.41.1“ a odpisovej skupine 2 položke 2-28 sa kód „29.40.5“ nahrádza kódom „29.41.1“.
+
+- 111. V prílohe č. 1 odpisovej skupine 3 položke 3-27 sa slová „z kódu 2213 KS len: televízne a káblové rozvody“ nahrádzajú slovami „2213 KS - Diaľkové telekomunikačné siete a vedenia“ a slová „z kódu 2224 KS len: televízne a káblové rozvody“ sa nahrádzajú slovami „2224 KS - Miestne elektrické a telekomunikačné rozvody a vedenia“.
+
+- 112. V prílohe č. 2 prvom bode sa vypúšťajú slová „smernice Rady 73/79/EHS z 9. apríla 1973 (Ú. v. ES L 103, 18. 4. 1973),“.
+
+- 113. V prílohe č. 2 druhom bode sa na konci pripájajú tieto slová: „v znení smernice Rady 2005/19/ES zo 17. februára 2005 (Ú. v. ES L 058, 4. 3. 2005)“.
+
+- 114. V prílohe č. 2 štvrtom bode sa na konci pripájajú tieto slová: „smernice Rady 2004/66/ES z 26. apríla 2004 (Ú. v. ES L 168, 1. 5. 2004)“.
+
+- 115. V prílohe č. 2 piatom bode sa na konci pripájajú tieto slová: „v znení smernice Rady 2004/66/ES z 26. apríla 2004 (Ú. v. ES L 168, 1. 5. 2004), smernice Rady 2004/76/ES z 29. apríla 2004 (Ú. v. ES L 157, 30. 4. 2004)“.
