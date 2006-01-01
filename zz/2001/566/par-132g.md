@@ -10,4 +10,4 @@
 
 (2) V prípade investičných odporúčaní, ktoré nemajú písomnú formu, sa povinnosť podľa odseku 1 pokladá za splnenú aj v prípade, ak je uvedené miesto, kde sú tieto informácie priamo dostupné verejnosti, kde boli zverejnené, alebo odkaz na internetovú stránku obsahujúcu príslušné údaje.
 
-(3) Povinná osoba je povinná na žiadosť úradu zabezpečiť zdôvodnenie investičného odporúčania.
+(3) Povinná osoba je povinná na žiadosť Národnej banky Slovenska zabezpečiť zdôvodnenie investičného odporúčania.

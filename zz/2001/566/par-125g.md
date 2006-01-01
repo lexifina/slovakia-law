@@ -1,6 +1,6 @@
 # § 125g Emitenti so sídlom v nečlenských štátoch
 
-(1) Úrad môže schváliť prospekt pre verejnú ponuku cenných papierov alebo prijatie na obchodovanie na regulovanom trhu pre emitenta, ktorý má sídlo v štáte, ktorý nie je členským štátom a ktorý bol vypracovaný v súlade s právnymi predpismi tohto štátu, ak
+(1) Národná banka Slovenska môže schváliť prospekt pre verejnú ponuku cenných papierov alebo prijatie na obchodovanie na regulovanom trhu pre emitenta, ktorý má sídlo v štáte, ktorý nie je členským štátom a ktorý bol vypracovaný v súlade s právnymi predpismi tohto štátu, ak
 
 - a) prospekt bol vypracovaný v súlade s medzinárodnými pravidlami vydanými medzinárodnými organizáciami komisií pre cenné papiere vrátane pravidiel týkajúcich sa poskytovania údajov verejnosti a ak
 

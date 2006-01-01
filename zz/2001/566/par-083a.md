@@ -10,7 +10,7 @@
 
 (3) Obchodník s cennými papiermi, na ktorého sa vzťahuje odsek 1, je pred zmenou svojej účasti na systéme ochrany klientov podľa odseku 1 povinný
 
-- a) písomne oznámiť fondu a úradu presný dátum zmeny svojej účasti na systéme ochrany klientov a preukázať im, že táto zmena sa uskutoční bez zníženia rozsahu ochrany klientskeho majetku v porovnaní s ochranou klientskeho majetku podľa tohto zákona,
+- a) písomne oznámiť fondu a Národnej banke Slovenska presný dátum zmeny svojej účasti na systéme ochrany klientov a preukázať im, že táto zmena sa uskutoční bez zníženia rozsahu ochrany klientskeho majetku v porovnaní s ochranou klientskeho majetku podľa tohto zákona,
 
 - b) písomne uzavrieť s každým klientom, na ktorého klientsky majetok sa vzťahuje zmena systému ochrany klientov, osobitnú zmluvu, ktorou sa upravia dôsledky vyplývajúce pre klienta a jeho klientsky majetok zo zmeny systému ochrany klientov; ak sa klient rozhodne vybrať svoj klientsky majetok alebo previesť ho inde, obchodník s cennými papiermi je povinný umožniť mu to bez uplatňovania akýchkoľvek sankcií,
 

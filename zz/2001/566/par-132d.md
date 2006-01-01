@@ -1,6 +1,6 @@
 # § 132d
 
-(1) Osoba s riadiacou zodpovednosťou u emitenta a osoba s ňou spriaznená je povinná oznámiť bez zbytočného odkladu úradu a emitentovi každý obchod, ktorý vykonala na vlastný účet s akciami tohto emitenta alebo s finančnými nástrojmi súvisiacimi s týmito akciami, do piatich pracovných dní od jeho uzavretia. Úrad je povinný túto informáciu zverejniť vo vestníku. Osobou s riadiacou zodpovednosťou u emitenta a osobou s ňou spriaznenou sa rozumie
+(1) Osoba s riadiacou zodpovednosťou u emitenta a osoba s ňou spriaznená je povinná oznámiť bez zbytočného odkladu Národnej banke Slovenska a emitentovi každý obchod, ktorý vykonala na vlastný účet s akciami tohto emitenta alebo s finančnými nástrojmi súvisiacimi s týmito akciami, do piatich pracovných dní od jeho uzavretia. Národná banka Slovenska je povinná túto informáciu zverejniť vo vestníku. Osobou s riadiacou zodpovednosťou u emitenta a osobou s ňou spriaznenou sa rozumie
 
 - a) člen štatutárneho, riadiaceho alebo dozorného orgánu emitenta,
 

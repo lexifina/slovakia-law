@@ -1,6 +1,6 @@
 # § 132c Zoznamy osôb s prístupom k dôverným informáciám
 
-(1) Emitent alebo osoby konajúce v jeho mene alebo na jeho účet sú povinné zostaviť a viesť zoznam osôb pracujúcich pre nich na základe pracovnoprávneho vzťahu alebo iného právneho vzťahu, ktoré majú prístup k dôverným informáciám. Emitenti a osoby konajúce v ich mene alebo na ich účet sú povinné tento zoznam aktualizovať. Zoznam podľa prvej vety a jeho aktualizácie sú osoby, ktoré ho vedú, povinné poskytnúť úradu na jeho žiadosť bez zbytočného odkladu.
+(1) Emitent alebo osoby konajúce v jeho mene alebo na jeho účet sú povinné zostaviť a viesť zoznam osôb pracujúcich pre nich na základe pracovnoprávneho vzťahu alebo iného právneho vzťahu, ktoré majú prístup k dôverným informáciám. Emitenti a osoby konajúce v ich mene alebo na ich účet sú povinné tento zoznam aktualizovať. Zoznam podľa prvej vety a jeho aktualizácie sú osoby, ktoré ho vedú, povinné poskytnúť Národnej banke Slovenska na jeho žiadosť bez zbytočného odkladu.
 
 (2) Zoznam podľa odseku 1 obsahuje
 

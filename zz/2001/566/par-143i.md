@@ -1,6 +1,6 @@
 # § 143i
 
-(1) Obchodník s cennými papiermi, ktorý ovláda finančný konglomerát, je povinný polročne, ako aj na žiadosť úradu predkladať úradu údaje o významných vnútroskupinových obchodoch finančného konglomerátu. Ak finančný konglomerát nie je ovládaný obchodníkom s cennými papiermi, údaje podľa prvej vety je povinná predložiť úradu zmiešaná finančná holdingová spoločnosť alebo regulovaná osoba určená úradom po predchádzajúcom vyjadrení regulovaných osôb alebo zmiešaných finančných spoločností tvoriacich finančný konglomerát.
+(1) Obchodník s cennými papiermi, ktorý ovláda finančný konglomerát, je povinný polročne, ako aj na žiadosť Národnej banky Slovenska predkladať Národnej banke Slovenska údaje o významných vnútroskupinových obchodoch finančného konglomerátu. Ak finančný konglomerát nie je ovládaný obchodníkom s cennými papiermi, údaje podľa prvej vety je povinná predložiť Národnej banke Slovenska zmiešaná finančná holdingová spoločnosť alebo regulovaná osoba určená Národnou bankou Slovenska po predchádzajúcom vyjadrení regulovaných osôb alebo zmiešaných finančných spoločností tvoriacich finančný konglomerát.
 
 (2) Vnútroskupinovým obchodom sa na účely tohto zákona rozumie obchod, v ktorom regulované osoby tvoriace finančný konglomerát priamo alebo nepriamo využívajú iné spoločnosti tej istej skupiny alebo fyzickú osobu, alebo právnickú osobu, ktoré ovládajú, na splnenie povinnosti, a to bez ohľadu, či je táto povinnosť určená zmluvou a či je splnenie tejto povinnosti za úhradu.
 

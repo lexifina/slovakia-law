@@ -36,7 +36,7 @@
 
 - 19) § 8 zákona č. 311/1999 Z. z. o registri trestov.
 
-- 20) Zákon č. 329/2000 Z. z. o Úrade pre finančný trh a o zmene a doplnení niektorých zákonov.
+- 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 21) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -242,9 +242,13 @@
 
 - 92) Trestný poriadok v znení neskorších predpisov.
 
-- 93) Zákon č. 566/1992 Zb. v znení neskorších predpisov.
+- 93) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- Zákon č. 483/2001 Z. z.Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov.
+- Zákon č. 747/2004 Z. z.Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov.
 
 - 94) § 2 ods. 1 písm. d) a § 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 

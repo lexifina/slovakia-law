@@ -8,6 +8,6 @@
 
 (4) Ak sa podľa tohto zákona prospekt nevyžaduje, podstatné údaje poskytované emitentom alebo vyhlasovateľom verejnej ponuky cenných papierov a určené kvalifikovaným investorom alebo osobitným kategóriám investorov podľa § 120 ods. 3 a 5 vrátane údajov poskytnutých na stretnutiach týkajúcich sa ponúk cenných papierov sa poskytnú všetkým kvalifikovaným investorom alebo osobitným kategóriám investorov, ktorým je ponuka výlučne určená. Ak sa zverejnenie prospektu vyžaduje, tieto údaje sa zahrnú do prospektu alebo do dodatku k prospektu podľa § 125c.
 
-(5) Úrad je oprávnený zakázať alebo pozastaviť na desať pracovných dní zverejnenie oznámenia, inzerátu, plagátu a iného dokumentu podľa odseku 1, ak zistí, že by ich zverejnením alebo ďalším zverejňovaním boli porušené ustanovenia tohto alebo osobitného zákona.<sup>103a</sup>)
+(5) Národná banka Slovenska je oprávnená zakázať alebo pozastaviť na desať pracovných dní zverejnenie oznámenia, inzerátu, plagátu a iného dokumentu podľa odseku 1, ak zistí, že by ich zverejnením alebo ďalším zverejňovaním boli porušené ustanovenia tohto alebo osobitného zákona.<sup>103a</sup>)
 
 (6) Ustanoveniami odsekov 1 až 4 nie sú dotknuté ustanovenia osobitného predpisu.<sup>103a</sup>)
