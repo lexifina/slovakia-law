@@ -6,7 +6,7 @@ Príloha č. 1 k zákonu č. 401/1998 Z. z.
 
     - Tuhé znečisťujúce látky
 
-    - Za tuhé znečisťujúce látky sa na účely spoplatňovania považujú aj látky tuhého skupenstva uvedené v 1. a 2. sadzobnej triede, avšak len v tom prípade, ak hmotnostný tok jednotlivého druhu znečisťujúcej látky v mieste jej vypúšťania je rovný alebo nižší ako hmotnostný tok platný pre nové zdroje znečisťovania ovzdušia, uvedený v bodoch 1 a 2 II. časti prílohy č. 3 k osobitnému predpisu,<sup>13</sup>) od ktorého prekročenia je ustanovená povinnosť dodržiavať koncentračný emisný limit.
+    - Za tuhé znečisťujúce látky sa na účely spoplatňovania považujú aj látky tuhého skupenstva uvedené v 1. a 2. sadzobnej triede, avšak len v tom prípade, ak hmotnostný tok jednotlivého druhu znečisťujúcej látky v mieste jej vypúšťania je rovný alebo nižší ako hmotnostný tok platný pre nové zdroje znečisťovania ovzdušia, uvedený v bodoch 1 a 2 II. časti prílohy č. 3 k osobitnému predpisu,<sup>1</sup>) od ktorého prekročenia je ustanovená povinnosť dodržiavať koncentračný emisný limit.
 
     - Oxidy síry vyjadrené ako oxid siričitý
 

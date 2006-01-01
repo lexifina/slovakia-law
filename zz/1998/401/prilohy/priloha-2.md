@@ -2,7 +2,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
 - VÝPOČET VÝŠKY POPLATKU PREVÁDZKOVATEĽA VEĽKÉHO ALEBO STREDNÉHO ZDROJA
 
-  - V hodnotenom období sa poplatok za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia vypočíta podľa vzťahu č. 1 ako súčet poplatkov za množstvá tejto znečisťujúcej látky vypustené do ovzdušia v jednotlivých poplatkových režimoch a poplatku za prekročenie určenej emisnej kvóty.<sup>14</sup>) Za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia nad určenú emisnú kvótu sa platí okrem poplatku v príslušnom poplatkovom režime aj poplatok za prekročenie emisnej kvóty.
+  - V hodnotenom období sa poplatok za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia vypočíta podľa vzťahu č. 1 ako súčet poplatkov za množstvá tejto znečisťujúcej látky vypustené do ovzdušia v jednotlivých poplatkových režimoch a poplatku za prekročenie určenej emisnej kvóty.<sup>1</sup>) Za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia nad určenú emisnú kvótu sa platí okrem poplatku v príslušnom poplatkovom režime aj poplatok za prekročenie emisnej kvóty.
 
   - 1. P<sub>ZLi</sub> = P<sub>ZLiD</sub> + P<sub>ZLiP</sub> + P<sub>ZLiB</sub> + P<sub>ZLiN</sub> + P<sub>ZLiQ</sub>
 
@@ -12,7 +12,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - P<sub>ZLiP</sub> – poplatok za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia pri prekračovaní emisného limitu
 
-  - P<sub>ZLiB</sub> – poplatok za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia pri zaradení do triedy B<sup>15</sup>)
+  - P<sub>ZLiB</sub> – poplatok za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia pri zaradení do triedy B<sup>2</sup>)
 
   - P<sub>ZLiN</sub> – poplatok za množstvo znečisťujúcej látky (i) vypustené zo zdroja znečisťovania ovzdušia pri nezistení údajov o dodržaní emisného limitu (§ 5 ods. 2)
 
@@ -38,11 +38,11 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
 - 6. P<sub>ZLiQ</sub> = ZP<sub>i</sub> x K<sub>K</sub> x K<sub>Q</sub> x M<sub>iQ</sub> |
 
-  - M<sub>xiD</sub> - množstvo znečisťujúcej látky (i) z miesta vypúšťania (x) vypustené pri dodržiavaní emisného limitu; do tohto množstva sa započítavajú všetky množstvá znečisťujúcej látky (i) vypustené počas dodržiavania emisného limitu, počas stavov, pre ktoré nie je ustanovená povinnosť dodržiavať emisné limity,<sup>16</sup>) počas stavov, pre ktoré nie je ustanovená povinnosť podľa osobitného predpisu<sup>17</sup>) preukazovať dodržiavanie emisného limitu a nie je preukázané prekračovanie emisného limitu (nebezpečné stavy, havarijné stavy a stavy vážneho a bezprostredného ohrozenia alebo zhoršenia ovzdušia), a množstvá z nedefinovaných miest vypúšťania (fugitívne emisie) a z plošných miest vypúšťania
+  - M<sub>xiD</sub> - množstvo znečisťujúcej látky (i) z miesta vypúšťania (x) vypustené pri dodržiavaní emisného limitu; do tohto množstva sa započítavajú všetky množstvá znečisťujúcej látky (i) vypustené počas dodržiavania emisného limitu, počas stavov, pre ktoré nie je ustanovená povinnosť dodržiavať emisné limity,<sup>1</sup>) počas stavov, pre ktoré nie je ustanovená povinnosť podľa osobitného predpisu<sup>3</sup>) preukazovať dodržiavanie emisného limitu a nie je preukázané prekračovanie emisného limitu (nebezpečné stavy, havarijné stavy a stavy vážneho a bezprostredného ohrozenia alebo zhoršenia ovzdušia), a množstvá z nedefinovaných miest vypúšťania (fugitívne emisie) a z plošných miest vypúšťania
 
-  - M<sub>xiP</sub> - množstvo znečisťujúcej látky (i) z miesta vypúšťania (x) vypustené pri prekračovaní emisného limitu; do tohto množstva sa započítavajú všetky množstvá znečisťujúcej látky (i) vypustené počas stavov, pre ktoré je preukázané podľa osobitného predpisu<sup>17</sup>) prekračovanie emisného limitu (spracované výsledky kontinuálneho monitorovania a množstvá znečisťujúcej látky vypustené v čase medzi jednorazovým meraním preukazujúcim prekračovanie emisného limitu a následným jednorazovým meraním po realizácii opatrení na nápravu preukazujúcim dodržiavanie emisného limitu)
+  - M<sub>xiP</sub> - množstvo znečisťujúcej látky (i) z miesta vypúšťania (x) vypustené pri prekračovaní emisného limitu; do tohto množstva sa započítavajú všetky množstvá znečisťujúcej látky (i) vypustené počas stavov, pre ktoré je preukázané podľa osobitného predpisu<sup>3</sup>) prekračovanie emisného limitu (spracované výsledky kontinuálneho monitorovania a množstvá znečisťujúcej látky vypustené v čase medzi jednorazovým meraním preukazujúcim prekračovanie emisného limitu a následným jednorazovým meraním po realizácii opatrení na nápravu preukazujúcim dodržiavanie emisného limitu)
 
-  - M<sub>xiB</sub> - množstvo znečisťujúcej látky (i) z miesta vypúšťania (x) vypustené počas jej zaradenia do triedy B<sup>15</sup>)
+  - M<sub>xiB</sub> - množstvo znečisťujúcej látky (i) z miesta vypúšťania (x) vypustené počas jej zaradenia do triedy B<sup>2</sup>)
 
   - M<sub>xiN</sub> - množstvo znečisťujúcej látky (i) z miesta vypúšťania (x) vypustené pri nezistení údajov o dodržaní emisného limitu (§ 5 ods. 2)
 
@@ -112,7 +112,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - Tabuľka č. 2: Koeficienty emisného limitu, koeficienty prekročenia emisnej kvóty a kompenzačné koeficienty pre všetky znečisťujúce látky podliehajúce poplatkovej povinnosti
 
-- | | Trieda A a B | | Trieda A<sup>10</sup>) | | Trieda B<sup>15</sup>)
+- | | Trieda A a B | | Trieda A<sup>4</sup>) | | Trieda B<sup>2</sup>)
 
 - | | EQ prekročená | EL dodržaný | EL prekročený | Údaje nezistené (§ 5 ods. 2) |
 
@@ -152,15 +152,15 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - K<sub>ELN</sub> – koeficient emisného limitu pri nezistení údajov o dodržaní emisného limitu
 
-- [Príloha 02](../assets/b5d06631abde4a7abeb69a77bbaab8f9733056958110efe094571fc5a6ab4d3e.pdf)
+- [Príloha 02](../assets/05ca0a07f13c72936204209f12675f8f363fff8034f4b32adbbad0817603da2f.pdf)
 
   - Tabuľka č. 3:
 
   - Koeficienty emisného limitu, koeficienty prekročenia emisnej kvóty a kompenzačné koeficienty pre všetky znečisťujúce látky podliehajúce poplatkovej povinnosti pre všetkých znečisťovateľov ovzdušia, ktorí užívajú hnedé uhlie v množstve nad 30 % ročnej spotreby majúce pôvod na území Slovenskej republiky
 
-- | | Trieda A a B EQ prekročená | EL dodržaný | Trieda A<sup>10</sup>) EL prekročený | Údaje nezistené (§ 5 ods. 2) | Trieda B<sup>15</sup>)
+- | | Trieda A a B EQ prekročená | EL dodržaný | Trieda A<sup>4</sup>) EL prekročený | Údaje nezistené (§ 5 ods. 2) | Trieda B<sup>2</sup>)
 
-- Rok | K<sub>k</sub> | K<sub>Q</sub> | K<sub>ELD</sub> | K<sub>ELP</sub> | K<sub>ELN</sub> | K<sub>ELB</sub>
+- Rok | KK | Ko | KELD | Kelp | Keln | KELB
 
 - 2001 | 0,60 | 3,0 | 1,0 | 4,0 | 1,5 | 1,3
 
@@ -174,4 +174,14 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
 - 2006 | 0,60 | 3,0 | 1,0 | 4,0 | 1,5 | 1,3
 
-- 2007 a neskôr | 0,60 | 3,0 | 1,0 | 4,0 | 1,5 | -
+- 2007 | 0,65 | 3,0 | 1,0 | 4,0 | 1,5 | 1,35
+
+- 2008 | 0,70 | 3,0 | 1,0 | 4,0 | 1,5 | 1,40
+
+- 2009 | 0,75 | 3,0 | 1,0 | 4,0 | 1,5 | 1,45
+
+- 2010 | 0,80 | 3,0 | 1,0 | 4,0 | 1,5 | 1,50
+
+- 2011 | 0,85 | 3,0 | 1,0 | 4,0 | 1,5 | -
+
+- a neskôr | | | | | |
