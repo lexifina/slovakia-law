@@ -16,4 +16,4 @@
 
 - b) dodržiavanie tohto zákona a osobitných zákonov v rozsahu z nich vyplývajúceho a všeobecne záväzných právnych predpisov vydaných na ich vykonanie.
 
-(3) Dohľad podľa odseku 1 vykonáva úrad.
+(3) Dohľad podľa odseku 1 vykonáva Národná banka Slovenska.

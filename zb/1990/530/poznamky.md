@@ -4,7 +4,7 @@
 
 - 1b) § 21 ods. 2 Obchodného zákonníka.
 
-- 1c) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov
+- 1c) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 2) § 99 ods. 3 písm. j) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
