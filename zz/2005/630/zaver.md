@@ -1,0 +1,1 @@
+Karol Dvorák v. r.
