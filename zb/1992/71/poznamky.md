@@ -2,9 +2,9 @@
 
 - 1a) § 44 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 2) § 1 ods. 3, 5 a 6 zákona č. 335/1991 Zb. o súdoch a sudcoch.
+- 2) § 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
-- 3) § 7 zákona SNR č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov).
+- 3) Zákon č. 757/2004 Z. z.
 
 - 3a) § 19 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
@@ -20,13 +20,23 @@
 
 - 3e) § 2 ods. 8 zákona Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 3f) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+
+- 3g) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- 3h) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a o doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 4) Zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
 
 - Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku.
 
 - 4a) § 15 ods. 3 zákona Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch.
 
-- 5) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 86/2002 Z. z. o stanovení všeobecnej hodnoty majetku.
+- 4b) Občiansky súdny poriadok.
+
+- Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z.
+
+- 5) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 6) § 250l Občianskeho súdneho poriadku.
 
