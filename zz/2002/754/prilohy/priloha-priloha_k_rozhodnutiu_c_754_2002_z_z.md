@@ -108,10 +108,6 @@ ZM.2.4.1 ZM.2.4.2 ZM.2.4.3 ZM.2.4.4 ZM.2.4.5 ZM.2.4.6 ZM.2.4.7 ZM.2.4.8 ZM.2.4.9
 
 ZM.2.4.11 ZM.2.4.12 ZM.2.4.13 ZM.2.4.14 | 500 g 750 g 1 000 g 2 000 g | 9,90 10,50 16,50 18,50
 
-- Poznámky:
-
-- * Ak sa poskytuje k službám Doporučene alebo Poistenie.
-
 - Položka LB. 1.1.1 a LB.1.1.2 | - ak ktorýkoľvek rozmer listu presahuje príslušný najväčší rozmer listovej zásielky plochého pravouhlého tvaru (dĺžka 235 mm, šírka 165 mm, hrúbka 5 mm) určený PP podľa článku 3 ods. 13 alebo je list podaný v doručenkovej obálke, ktorá nespĺňa podmienku podľa článku 26 PP ods. 7, uplatní sa cena podľa položky LB. 1.1.3.
 
 - Položka LB. 1.2.1 a LB. 1.2.2 | - ak ktorýkoľvek rozmer listu presahuje príslušný najväčší rozmer listovej zásielky plochého pravouhlého tvaru (dĺžka 235 mm, šírka 165 mm, hrúbka 5 mm) určený PP podľa článku 3 ods. 13 alebo je list podaný v doručenkovej obálke, ktorá nespĺňa podmienku podľa článku 26 PP ods. 7, uplatní sa cena podľa položky LB. 1.2.3.
