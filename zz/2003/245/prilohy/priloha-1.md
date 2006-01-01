@@ -50,7 +50,7 @@ Príloha č. 1 k zákonu č. 245/2003 Z. z.
 
   - 4. Chemický priemysel
 
-  - Pri kategórii prevádzok uvedených v tomto bode sa výrobou rozumie výroba v priemyselnom meradle pomocou chemických reakcií a fyzikálno-chemických procesov (body 4.1. až 4.6.).
+  - Pri prevádzkach uvedených v tejto kategórii priemyselnej činnosti sa výrobou rozumie výroba v priemyselnom meradle pomocou chemických reakcií a fyzikálno-chemických procesov (body 4.1. až 4.6.).
 
     - 4.1. Chemické prevádzky na výrobu základných organických chemických látok, ako sú
 
