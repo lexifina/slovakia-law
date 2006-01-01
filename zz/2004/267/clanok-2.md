@@ -1,7 +1,0 @@
-# Čl. II
-
-Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení zákona č. 57/1965 Zb., zákona č. 58/1969 Zb., zákona č. 149/1969 Zb., zákona č. 48/1973 Zb., zákona č. 29/1978 Zb., zákona č. 43/1980 Zb., zákona č. 159/1989 Zb., zákona č. 178/1990 Zb., zákona č. 303/1990 Zb., zákona č. 558/1991 Zb., zákona Národnej rady Slovenskej republiky č. 6/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 178/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 247/1994 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 222/1998 Z. z., zákona č. 256/1998 Z. z., zákona č. 272/1999 Z. z., zákona č. 173/2000 Z. z., zákona č. 366/2000 Z. z., zákona č. 253/2001 Z. z., zákona č. 182/2002 Z. z., zákona č. 215/2002 Z. z., zákona č. 422/2002 Z. z., zákona č. 457/2003 Z. z. a zákona č. 458/2003 Z. z. sa mení takto:
-
-- 1. V § 454a ods. 1 sa slová „1. májom 2004“ nahrádzajú slovami „1. septembrom 2004“.
-
-- 2. V § 454a ods. 2 sa slová „1. mája 2004“ nahrádzajú slovami „1. septembra 2004“.
