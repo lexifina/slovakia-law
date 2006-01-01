@@ -24,7 +24,11 @@
 
 - 12) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 12a) § 2c zákona č. 291/2002 Z. z. v znení zákona č. 659/2005 Z. z.
+
 - 13) Zákon č. 473/2003 Z. z.
+
+- 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -46,9 +50,15 @@
 
 - 22) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
 
+- 22a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 353/2005 Z. z.
+
 - 23) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 24) Napríklad zákon Národnej rady Slovenskej republiky č. 254/1994 Z. z. o Štátnom fonde likvidácie jadrovoenergetických zariadení a nakladania s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi v znení neskorších predpisov, zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania.
+
+- 24a) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
 - 25) Opatrenie Ministerstva financií Slovenskej republiky z 25. februára 2003 č. 1407/2003 – 92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek účtovnej závierky, termíny a miesto predkladania účtovnej závierky pre rozpočtové organizácie, štátne fondy, obce, vyššie územné celky, príspevkové organizácie a niektoré iné právnické osoby, ktorých hlavným predmetom činnosti nie je podnikanie (oznámenie č. 88/2003 Z. z.) v znení neskorších predpisov.
 
@@ -57,6 +67,8 @@
 - 27) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, Obchodný zákonník.
 
 - 28) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 28a) § 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 29) § 489 až 496 Obchodného zákonníka.
 
@@ -70,7 +82,7 @@
 
 - 32) § 92 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
-- 33) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
+- 33) Napríklad zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34) § 10 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení zákona č. 419/2002 Z. z.
 
@@ -102,7 +114,7 @@
 
 - 46) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
 
-- 47) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
+- 47) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
 - 48) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov (úplné znenie č. 138/2004 Z. z.).
 
