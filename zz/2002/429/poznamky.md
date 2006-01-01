@@ -22,7 +22,7 @@
 
 - 11a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
-- 12) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+- 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 13) § 8 písm. e) zákona č. 566/2001 Z. z.
 
@@ -49,6 +49,16 @@
 - 23) Občiansky súdny poriadok.
 
 - 24) Trestný poriadok.
+
+- 24a) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z.
+
+- Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 25) § 2 ods. 1 písm. b), c) a d) a § 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
