@@ -339,3 +339,9 @@ Zákon č. 124/1992 Zb. o Vojenskej polícii v znení zákona č. 422/2002 Z. z.
 - „§ 38
 
 - Vojenská polícia pri plnení svojich úloh spolupracuje hlavne s Policajným zborom Slovenskej republiky, Železničnou políciou, Zborom väzenskej a justičnej stráže, colnými orgánmi a obecnými políciami. Obsah spolupráce, súčinnosť a vzájomné vzťahy upraví zmluva.“.
+
+„31)
+
+Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+
+Zákon č. 124/1992 Zb. o Vojenskej polícii v znení zákona č. 422/2002 Z. z.“.
