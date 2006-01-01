@@ -32,6 +32,86 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - vymáha pohľadávky na poistnom vrátane úrokov z omeškania, pohľadávky za poskytnutú zdravotnú starostlivosť a pohľadávky vyplývajúce z prerozdelenia poistného podľa osobitného predpisu<sup>37</sup>) na základe právoplatného rozhodnutia úradu,“.
 
+- 6. V § 6 odsek 2 znie:
+
+- „(2)
+
+- Zdravotná poisťovňa je povinná vytvoriť zoznam poistencov čakajúcich na poskytnutie zdravotnej starostlivosti, ak by úhrada inej ako neodkladnej zdravotnej starostlivosti<sup>17</sup>) ohrozila zabezpečenie neodkladnej zdravotnej starostlivosti. Ak zdravotná poisťovňa vytvorí zoznam poistencov čakajúcich na poskytnutie zdravotnej starostlivosti, poskytovateľ zdravotnej starostlivosti je povinný poskytovať zdravotnej poisťovni údaje potrebné na jeho vedenie v rozsahu a spôsobom dohodnutým so zdravotnou poisťovňou a zdravotná poisťovňa je povinná
+
+- a)
+
+- viesť zoznam podľa jednotlivých chorôb,
+
+- b)
+
+- zaraďovať poistencov do zoznamu na základe údajov oznámených poskytovateľom zdravotnej starostlivosti v poradí podľa oznámených údajov,
+
+- c)
+
+- dodržiavať vytvorené poradie poistencov v zozname podľa jednotlivých chorôb,
+
+- d)
+
+- bez zbytočného odkladu písomne informovať poistenca o jeho zaradení do zoznamu alebo vyradení zo zoznamu; pri vyradení zo zoznamu aj o dôvodoch vyradenia,
+
+- e)
+
+- informovať poistenca zaradeného do zoznamu na požiadanie o jeho poradí v zozname,
+
+- f)
+
+- predložiť úradu na požiadanie pravidlá zaraďovania a vyraďovania poistencov zo zoznamu,
+
+- g)
+
+- uverejniť na úradnej tabuli alebo na inom verejne prístupnom mieste a na svojej internetovej stránke pravidlá zaraďovania a vyraďovania poistencov zo zoznamu.“.
+
+- 7. V § 6 odseky 3 až 9 znejú:
+
+- „(3)
+
+- Zdravotná poisťovňa je povinná viesť zoznam poistencov čakajúcich na vhodný orgán, tkanivo alebo na vhodné bunky na účely transplantácie. Ak zdravotná poisťovňa vytvorí takýto zoznam, poskytovateľ zdravotnej starostlivosti je povinný poskytovať zdravotnej poisťovni údaje potrebné na jeho vedenie v rozsahu a spôsobom dohodnutým so zdravotnou poisťovňou; povinnosti zdravotnej poisťovne podľa odseku 2 písm. a) až g) platia rovnako. Ak je v tomto zozname ku dňu účtovnej závierky zaradený najmenej jeden poistenec, zdravotná poisťovňa je povinná vytvoriť ku dňu účtovnej závierky technickú rezervu na úhradu za zdravotnú starostlivosť poistencom zaradeným v tomto zozname. Technické rezervy možno použiť výhradne na takýto účel.
+
+- (4)
+
+- Zdravotná poisťovňa nesmie zaradiť do zoznamu podľa odsekov 2 a 3 poistenca, ktorého zdravotný stav spĺňa kritériá na poskytnutie neodkladnej zdravotnej starostlivosti.<sup>17</sup>)
+
+- (5)
+
+- V prípade zmeny zdravotného stavu poistenca, ktorá vyžaduje poskytnutie neodkladnej zdravotnej starostlivosti, zdravotná poisťovňa je povinná bez zbytočného odkladu poistenca vyradiť zo zoznamu.
+
+- (6)
+
+- Zdravotná poisťovňa môže vytvoriť ku dňu účtovnej závierky
+
+- a)
+
+- technickú rezervu na úhradu za zdravotnú starostlivosť, ktorá nebola ku dňu účtovnej závierky uhradená,
+
+- b)
+
+- technickú rezervu na úhradu za zdravotnú starostlivosť, ktorá bola poskytnutá ku dňu účtovnej závierky, ale do tohto termínu nebol zdravotnej poisťovni doručený účtovný doklad.
+
+- (7)
+
+- Technické rezervy podľa odseku 6 sa vytvárajú vo výške dostatočnej na úhradu za zdravotnú starostlivosť a zahŕňajú aj všetky predpokladané náklady spojené s vykonaním úhrady zdravotnej starostlivosti; možno ich použiť výhradne na takýto účel.
+
+- (8)
+
+- Ak je v zozname podľa odseku 2 zaradený najmenej jeden poistenec a zdravotná poisťovňa dosiahla podľa správy uvedenej v § 11 ods. 1 písm. a) a správy uvedenej v § 11 ods. 1 písm. b) v príslušnom kalendárnom roku, v ktorom zaradila poistenca do zoznamu, kladný hospodársky výsledok, je povinná finančné prostriedky vyplývajúce z tohto výsledku najneskôr do 60 dní od predloženia príslušnej správy [§ 11 ods. 1 písm. a) a b)] použiť na zdravotnú starostlivosť poistencov zaradených do zoznamu, a to až do výšky 100 %. Zdravotná poisťovňa môže použiť menej ako 100 % finančných prostriedkov vyplývajúcich z kladného hospodárskeho výsledku na zdravotnú starostlivosť poistencov zaradených do zoznamu len vtedy, ak sumou zodpovedajúcou takejto výške finančných prostriedkov zabezpečí zdravotnú starostlivosť pre všetkých poistencov zaradených do zoznamu.
+
+- (9)
+
+- Všeobecne záväzný právny predpis, ktorý vydá Ministerstvo zdravotníctva Slovenskej republiky (ďalej len „ministerstvo zdravotníctva”), môže ustanoviť podrobnosti o
+
+- a)
+
+- vytváraní a vedení zoznamov podľa odsekov 2 a 3,
+
+- b)
+
+- vytváraní a použití technických rezerv.“.
+
 - 8. V § 6 ods. 11 písmeno b) znie:
 
 - „b)
@@ -169,6 +249,8 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - „33a)
 
 - § 2 ods. 20 a 21 zákona č. 576/2004 Z. z.“.
+
+- 20. V § 15 ods. 1 písm. b) sa slová „(§ 6 ods. 6 a 7)“ nahrádzajú slovami „(§ 6 ods. 3)“.
 
 - 21. V § 15 ods. 1 sa za písmeno l) vkladá nové písmeno m), ktoré znie:
 
@@ -725,6 +807,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - „§ 85b
 
 - V roku 2005 je zdravotná poisťovňa povinná uhradiť pomernú časť príspevku podľa § 8a.“.
+
+- 76. Za § 85b sa vkladá § 85c, ktorý znie:
+
+- „§ 85c
+
+- Zoznam poistencov čakajúcich na poskytnutie zdravotnej starostlivosti vytvorený do 31. decembra 2005 sa považuje za zoznam poistencov čakajúcich na poskytnutie zdravotnej starostlivosti vytvorený podľa tohto zákona.“.
 
 - 77. Za § 86a sa vkladajú § 86b a 86c, ktoré znejú:
 
