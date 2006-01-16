@@ -4,7 +4,7 @@ Príloha č. 2
 
 - 1 | 2 | 3 | 4 | 5 | 6
 
-- 1 | Skalité - Zwardoň | cestný (diaľničný) | osobná a nákladná | Zwardoň (PR) |
+- 1 | Skalité - Zwardoň Zrušený od 16. januára 2006. | | | |
 
 - 2 | Novoť - Ujsoly | cestný | osobná a nákladná | Novoť (SR) | nákladná doprava do 3,5 tony celkovej hmotnosti
 

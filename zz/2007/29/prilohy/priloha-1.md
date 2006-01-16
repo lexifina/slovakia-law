@@ -35,3 +35,5 @@ Príloha č. 1
 - 15 | Bobrov - Winiarczykówka | cestný | osobná a nákladná | Winiarczykówka (PR) | nákladná doprava do 7,5 tony celkovej hmotnosti
 
 - 16 | Čirč - Leluchów | cestný | osobná a nákladná | Leluchów (PR) | nákladná doprava do 7,5 tony celkovej hmotnosti
+
+- 17 | Skalité - Zwardoň | cestný | osobná a nákladná | Zwardoň (PR) | nákladná doprava do 7,5 tony celkovej hmotnosti
