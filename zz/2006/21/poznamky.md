@@ -1,0 +1,1 @@
+- 1) Rezolúcia 2625 (XXV), príloha.
