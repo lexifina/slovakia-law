@@ -294,10 +294,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Nahliadnutie do matrík, za každý zväzok matrík.......................................................................................... | 50 Sk
 
-    - Položka 17
-
-  - Vydanie osvedčenia o právnej spôsobilosti na uzatvorenie manželstva v cudzine......................................... | 500 Sk
-
     - Položka 18
 
   - a) Povolenie uzatvoriť manželstvo na inom než príslušnom matričnom<sup>15</sup>) úrade štátnymi občanmi Slovenskej republiky ....................................................................................... | 200 Sk
@@ -308,27 +304,29 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Povolenie uzatvoriť manželstvo štátnymi občanmi Slovenskej republiky mimo úradne určenej miestnosti | 1 000 Sk
 
-  - e) Uzatvorenie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom<sup>16</sup>) | 2 000 Sk
+  - e) Uzatvorenie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom | 2 000 Sk
 
-  - f) Uzatvorenie manželstva medzi cudzincami<sup>16</sup>) | 5 000 Sk
+  - f) Uzatvorenie manželstva medzi cudzincami | 5 000 Sk
+
+  - g) Uzavretie manželstva, ak ani jeden zo snúbencov nemá na území Slovenskej republiky trvalý pobyt<sup>16</sup>) | 5 000 Sk
 
   - Oslobodenie 1. Od poplatku podľa tejto položky sú oslobodené osoby, ktorých život je priamo ohrozený, občania s ťažkým zdravotným postihnutím a držitelia preukazu občana s ťažkým zdravotným postihnutím. 2. Od poplatku podľa písmen a) a b) tejto položky sú oslobodení snúbenci, ktorí uzatvárajú manželstvo na matričnom úrade príslušnom podľa miesta prechodného pobytu v mieste pracoviska jedného z nich. |
 
-  - Poznámky 1. Poplatok podľa tejto položky sa vyberie len od jedného zo snúbencov. 2. Na území Slovenskej republiky sa orgánom štátu, pred ktorým sa manželstvo uzatvára, rozumie stále pracovisko okresného úradu (matričný úrad). 3. Ak sa uzatvorí manželstvo pred iným než príslušným matričným úradom, poplatok podľa písmena b) tejto položky vyberie príslušný (delegujúci) matričný úrad, ktorý pripravil podklady na uzatvorenie manželstva. |
+  - Poznámky 1. Poplatok podľa tejto položky sa vyberie len od jedného zo snúbencov. 2. Na území Slovenskej republiky sa orgánom štátu, pred ktorým sa manželstvo uzatvára, rozumie matričný úrad. 3. Ak sa vyberie poplatok podľa písmena g) tejto položky, poplatok podľa písmena e) alebo f) tejto položky sa nevyberie. 4. Ak sa uzatvorí manželstvo pred iným než príslušným matričným úradom, poplatok podľa písmena b) tejto položky vyberie príslušný (delegujúci) matričný úrad, ktorý pripravil podklady na uzatvorenie manželstva. |
 
     - Položka 19
 
-  - Povolenie zmeny |
+  - Zmena |
 
-  - a) priezviska hanlivého, výstredného, smiešneho, skomoleného, cudzojazyčného.......................... | 100 Sk
+  - a) hanlivého alebo neosobného mena alebo hanlivého priezviska | 100 Sk
 
-  - b) priezviska maloletých detí ......................................................................................................................... | 1 000 Sk
+  - b) priezviska maloletých detí | 1 100 Sk
 
-  - c) mena alebo priezviska v ostatných prípadoch ...................................................................................... | 3 000 Sk
+  - c) mena alebo priezviska v ostatných prípadoch | 3 000 Sk
 
-  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena priezviska, ku ktorej dochádza vyhlásením rozvedeného manžela, že prijíma opäť predchádzajúce alebo pôvodné (rodné) priezvisko, ak sa táto skutočnosť oznámila do jedného mesiaca po nadobudnutí právoplatnosti rozhodnutia o rozvode manželstva. 2. Od poplatku podľa tejto položky je oslobodená oprava mena a priezviska osoby v prípade transsexuality, zmena alebo oprava priezviska osvojených detí alebo zmena, ktorú treba vykonať v dôsledku nesprávnych (neúplných) zápisov v matrike. |
+  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena priezviska, ku ktorej dochádza vyhlásením rozvedeného manžela, že prijíma opäť predošlé priezvisko, ak sa táto skutočnosť oznámila do troch mesiacov od právoplatnosti rozhodnutia o rozvode manželstva. 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska z dôvodu zmeny pohlavia,zmena mena a priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike a zapísanie priezviska osvojiteľa ako priezviska. |
 
-  - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej rodinnej starostlivosti na priezvisko opatrovníka, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak opatrovníkmi alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
+  - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
     - Položka 20
 
@@ -344,7 +342,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 ............................................................................................................................................................. | 500 Sk
 
-  - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl.<sup>16a</sup>) |
+  - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl<sup>16a</sup>) a presídlenci z Ukrajiny z oblasti Černobyľu. |
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
@@ -2428,19 +2426,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 153a
 
-  - 1. Vydanie rozhodnutia o autorizácii biocídneho výrobku ........................................................................... | 200 000 Sk
+  - 1. Vydanie rozhodnutia o autorizácii biocídneho výrobku ........................................................................... | 200 000 Sk |
 
-  - 2. Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom ............................................. | 100 000 Sk
+  - 2. Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom ............................................. | 100 000 Sk |
 
-  - 3. Zmena rozhodnutia o autorizácii biocídneho výrobku alebo zmena rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom ............................................................................................................. | 75 000 Sk
+  - 3. Zmena rozhodnutia o autorizácii biocídneho výrobku alebo zmena rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom ............................................................................................................. | 75 000 Sk |
 
-  - 4. Vydanie rozhodnutia o autorizácii biocídneho výrobku alebo vydanie rozhodnutia registrácie biocídneho výrobku s nízkym rizikom na základe vzájomného uznania .................................................. | 50 000 Sk
+  - 4. Vydanie rozhodnutia o autorizácii biocídneho výrobku alebo vydanie rozhodnutia registrácie biocídneho výrobku s nízkym rizikom na základe vzájomného uznania .................................................. | 50 000 Sk |
 
-  - 5. Vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh ............................................... | 5 000 Sk
+  - 5. Vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh ............................................... | 5 000 Sk |
 
-  - 6. Hodnotenie novej účinnej látky pred jej uvedením na trh ...................................................................... | 6 000 000 Sk
+  - 6. Hodnotenie účinnej látky na účely jej zaradenia medzi | |
 
-  - Poznámka 1. Centrum pre chemické látky a prípravky vyberie poplatok podľa prvého bodu za žiadosť podanú podľa § 4 ods. 2 zákona č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov. 2. Centrum pre chemické látky a prípravky vyberie poplatok podľa druhého bodu za žiadosť podanú podľa § 4 ods. 4 zákona č. 217/2003 Z. z.3. Centrum pre chemické látky a prípravky vyberie poplatok podľa tretieho bodu za žiadosť podanú podľa § 11 ods. 1 písm. c), § 7 ods. 9 zákona č. 217/2003 Z. z.4. Centrum pre chemické látky a prípravky vyberie poplatok podľa štvrtého bodu za žiadosť podanú podľa § 10 zákona č. 217/2003 Z. z. 5. Centrum pre chemické látky a prípravky vyberie poplatok podľa piateho bodu za žiadosť podanú podľa § 9 zákona č. 217/2003 Z. z. 6. Poplatok podľa šiesteho bodu tejto položky vyberie Centrum pre chemické látky a prípravky. |
+  - a) účinné látky vyhovujúce na zaradenie do biocídnych výrobkov, | |
+
+  - b) účinné látky s nízkym rizikom vyhovujúce na zaradenie do biocídnych výrobkov s nízkym rizikom | 6 000 000 Sk |
+
+  - Poznámka 1. Centrum pre chemické látky a prípravky vyberie poplatok podľa prvého bodu za žiadosť podanú podľa § 4 ods. 2 zákona č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov. 2. Centrum pre chemické látky a prípravky vyberie poplatok podľa druhého bodu za žiadosť podanú podľa § 4 ods. 4 zákona č. 217/2003 Z. z.3. Centrum pre chemické látky a prípravky vyberie poplatok podľa tretieho bodu za žiadosť podanú podľa § 11 ods. 1 písm. c), § 7 ods. 9 zákona č. 217/2003 Z. z.4. Centrum pre chemické látky a prípravky vyberie poplatok podľa štvrtého bodu za žiadosť podanú podľa § 10 zákona č. 217/2003 Z. z. 5. Centrum pre chemické látky a prípravky vyberie poplatok podľa piateho bodu za žiadosť podanú podľa § 9 zákona č. 217/2003 Z. z. 6. Poplatok podľa šiesteho bodu tejto položky vyberie Centrum pre chemické látky a prípravky. | |
 
     - Položka 154
 
@@ -2809,6 +2811,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 171k
 
   - Podanie žiadosti o vydanie alebo zmenu oprávnenia na overovanie správ podľa zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.......................................................................... | 5 000 Sk
+
+    - Položka 171l
+
+  - a) Podanie žiadosti o zapísanie do zoznamu odborne spôsobilých osôb na posudzovanie vplyvov na životné prostredie<sup>39l</sup>) | 3 000 Sk
+
+  - b) Zapísanie do zoznamu pre každý z odborov činností<sup>39l</sup>) alebo oblastí činností<sup>39l</sup>)........ | 1 000 Sk
 
   - XI. ČASŤ BANSKÁ ČINNOSŤ
 
@@ -3752,9 +3760,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 245
 
-  - a) Vydanie osvedčenia o štátnom občianstve Slovenskej republiky ..................................................... | 300 Sk
-
-  - b) Vydanie osvedčenia o právnej spôsobilosti na uzatvorenie manželstva v cudzine ....................... | 500 Sk
+  - Vydanie osvedčenia o štátnom občianstve Slovenskej republiky ..................................................... | 300 Sk
 
     - Položka 246
 

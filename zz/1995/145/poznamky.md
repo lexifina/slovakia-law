@@ -52,7 +52,7 @@
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
-- 16) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 16) § 30 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona č. 14/2006 Z. z.
 
 - 16a) § 22 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
@@ -250,7 +250,7 @@
 
 - 39k) § 3 ods. 4 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov.
 
-- 39l) § 19 ods. 2 zákona č. 468/2002 Z. z.
+- 39l) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
 
 - 39m) § 19 ods. 4 zákona č. 468/2002 Z. z.
 
