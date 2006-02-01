@@ -54,6 +54,8 @@
 
 - 26) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
+- 26a) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+
 - 27) Napríklad § 70 a 254 Obchodného zákonníka.
 
 - 28) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
