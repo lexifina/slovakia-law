@@ -22,6 +22,8 @@
 
 - 1j) § 180b Trestného zákona.
 
+- 1k) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
+
 - 2) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení zákona č. 113/2004 Z. z.
 
 - 3) § 6 ods. 2 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
