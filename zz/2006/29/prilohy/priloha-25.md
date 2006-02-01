@@ -1,0 +1,3 @@
+Príloha č. 25 k vyhláške č. 29/2006 Z. z.
+
+- VZOR OZNAČENIA PRACOVISKA MONTÁŽE PLYNOVÝCH ZARIADENÍ CNG [Vzor 25](../assets/96d072551de9dd30c952b9a3d8b8b31a27188cd8b7afc4ac18b9c2286121d907.pdf)
