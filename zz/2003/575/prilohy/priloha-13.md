@@ -1,1 +1,0 @@
-Príloha č. 13 k vyhláške č. 575/2003 Z. z. [Príloha 13](../assets/466d64683315e8213e3739a142bdb3b03257147593606c1648ea6177ee663642.pdf)
