@@ -2,6 +2,8 @@
 
 - 2) § 1 ods. 2 zákona č. 241/2001 Z. z.§ 34 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
 
+- 2a) § 18 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+
 - 3) § 6 ods. 8 a § 48 zákona č. 241/2001 Z. z.
 
 - 4) § 2 Obchodného zákonníka.
