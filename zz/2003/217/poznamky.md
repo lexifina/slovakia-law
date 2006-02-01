@@ -30,17 +30,13 @@
 
 - 12) § 2 písm. n) Colného zákona.
 
-- 13) § 2 písm. b) a § 30 až 33 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
-
-- Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
-
-- § 24 až 26 Obchodného zákonníka.
-
 - 14) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 15) § 27 zákona č. 163/2001 Z. z. v znení zákona č. 128/2002 Z. z.
 
 - Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 515/2001 Z. z. o podrobnostiach o obsahu karty bezpečnostných údajov.
+
+- 15a) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 375/2003 Z. z., ktorou sa ustanovujú podrobnosti dokumentácie k žiadosti o autorizáciu biocídneho výrobku a podrobnosti dokumentácie k žiadosti o registráciu biocídneho výrobku s nízkym rizikom a podrobnú špecifikáciu údajov predkladaných pred uvedením biocídneho výrobku a podrobnú špecifikáciu údajov predkladaných pred uvedením biocídneho výrobku s nízkym rizikom na trh.
 
 - 16) § 6 zákona č. 163/2001 Z. z.
 
@@ -89,3 +85,9 @@
 - 30) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 31) § 4 až 9 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov.
+
+- 31a) Nariadenie Komisie (ES) č. 1896/2000 zo 7. septembra 2000 o prvej etape programu uvedeného v článku 16(2) smernice 98/8/ES Európskeho parlamentu a Rady o biocídnych výrobkoch (Ú. v. ES L 228, 8. 9. 2000) v znení nariadenia Komisie (ES) č. 2032/2003 zo 4. novembra 2003 (Ú. v. EÚ L 307, 24. 11. 2003).
+
+- Nariadenie Komisie (ES) č. 2032/2003 zo 4. novembra 2003 o druhej fáze 10-ročného pracovného programu uvedeného v článku 16 ods. 2 smernice Európskeho parlamentu a Rady 98/8/ES o uvádzaní biocídnych prípravkov na trh a ktorým sa mení a dopĺňa nariadenie (ES) č. 1896/2000 (Ú. v. EÚ L 307, 24. 11. 2003).
+
+- 31b) Nariadenie Komisie (ES) č. 1048/2005 z 13. júna 2005, ktorým sa mení a dopĺňa nariadenie Komisie (ES) č. 2032/2003 o druhej fáze 10-ročného pracovného programu uvedeného v článku 16 ods. 2 smernice Európskeho parlamentu a Rady 98/8/ES o uvádzaní biocídnych výrobkov na trh (Ú. v. EÚ L 178, 9. 7. 2005).

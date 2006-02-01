@@ -1,4 +1,4 @@
-Príloha
+Príloha č. 1 k zákonu č. 217/2003 Z. z.
 
 - Typy biocídnych výrobkov Typ výrobku | Názov typu výrobku | Oblasť použitia
 
