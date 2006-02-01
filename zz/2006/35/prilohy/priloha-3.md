@@ -1,0 +1,1 @@
+Príloha č. 3 k vyhláške č. 35/2006 Z. z. [Zjednodušené oznámenie o vyhlásení verejného obstarávania dynamickým nákupným systémom - Vzor 03](../assets/b5bf84da2c95aab147745ce878b9b849095c3d70944bbbbd43eee7869c89669f.pdf)

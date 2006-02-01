@@ -1,0 +1,1 @@
+- 1) Nariadenie Komisie (ES) č. 1564/2005 zo 7. septembra 2005, ktorým sa ustanovujú štandardné formuláre na zverejňovanie oznámení v rámci postupov verejného obstarávania podľa smerníc Európskeho parlamentu a Rady 2004/17/ES a 2004/18/ES (Ú. v. EÚ L 257, 1. 10. 2005)
