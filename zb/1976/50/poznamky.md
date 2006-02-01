@@ -14,6 +14,12 @@
 
 - 1f) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 82/2005 Z. z.
 
+- 1fa) § 9 ods. 5 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
+
+- 1fb) § 9 zákona č. 24/2006 Z. z.
+
+- 1fc) Príloha č. 8 zákona č. 24/2006 Z. z.
+
 - 1g) Napríklad § 9 ods. 4 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.
 
 - 1h) § 27 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
