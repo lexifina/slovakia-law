@@ -22,7 +22,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
     - 3. Užívateľ.
 
-    - 4. Charakter navrhovanej činnosti (nová činnosť, zmena činnosti a ukončenie činnosti).
+    - 4. Charakter navrhovanej činnosti (nová činnosť, zmena činnosti a podobne).
 
     - 5. Umiestnenie navrhovanej činnosti (kraj, okres, obec, katastrálne územie, parcelné číslo).
 
@@ -30,7 +30,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
     - 7. Termín začatia a skončenia výstavby a prevádzky navrhovanej činnosti.
 
-    - 8. Opis technického a technologického riešenia.
+    - 8. Stručný opis technického a technologického riešenia.
 
     - 9. Zdôvodnenie potreby navrhovanej činnosti v danej lokalite (jej pozitíva a negatíva).
 
@@ -52,7 +52,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
   - III. Základné informácie o súčasnom stave životného prostredia dotknutého územia
 
-    - 1. Charakteristika prírodného prostredia vrátane chránených území [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
+    - 1. Charakteristika prírodného prostredia vrátane chránených území [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
 
     - 2. Krajina, krajinný obraz, stabilita, ochrana, scenéria.
 
@@ -62,7 +62,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
   - IV. Základné údaje o predpokladaných vplyvoch navrhovanej činnosti na životné prostredie vrátane zdravia a o možnostiach opatrení na ich zmiernenie
 
-    - 1. Požiadavky na vstupy (napr. záber lesných pozemkov a pôdy, spotreba vody, ostatné surovinové a energetické zdroje, dopravná a iná infraštruktúra, nároky na pracovné sily, iné nároky).
+    - 1. Požiadavky na vstupy (napr. záber pôdy, spotreba vody, ostatné surovinové a energetické zdroje, dopravná a iná infraštruktúra, nároky na pracovné sily, iné nároky).
 
     - 2. Údaje o výstupoch (napr. zdroje znečistenia ovzdušia, odpadové vody, iné odpady, zdroje hluku, vibrácií, žiarenia, tepla a zápachu, iné očakávané vplyvy, napríklad vyvolané investície).
 
@@ -70,7 +70,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
     - 4. Hodnotenie zdravotných rizík.
 
-    - 5. Údaje o predpokladaných vplyvoch navrhovanej činnosti na biodiverzitu a chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
+    - 5. Údaje o predpokladaných vplyvoch navrhovanej činnosti na chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
 
     - 6. Posúdenie očakávaných vplyvov z hľadiska ich významnosti a časového priebehu pôsobenia.
 
@@ -88,7 +88,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
     - 13. Ďalší postup hodnotenia vplyvov s uvedením najzávažnejších okruhov problémov.
 
-  - V. Porovnanie variantov navrhovanej činnosti a návrh optimálneho variantu s prihliadnutím na vplyvy na životné prostredie
+  - V. Porovnanie variantov navrhovanej činnosti a návrh optimálneho variantu
 
   - (vrátane porovnania s nulovým variantom)
 

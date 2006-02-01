@@ -28,15 +28,15 @@ Príloha č. 4 k zákonu č. 24/2006 Z. z.
 
   - III. Základné údaje o súčasnom stave životného prostredia dotknutého územia
 
-    - 1. Informácie o súčasnom stave životného prostredia vrátane zdravia a jeho pravdepodobný vývoj, ak sa strategický dokument nebude realizovať.
+    - 1. Informácie o súčasnom stave životného prostredia vrátane zdravia a jeho pravdepodobný vývoj, ak sa strategický dokument bude realizovať.
 
-    - 2. Informácia vo vzťahu k environmentálne obzvlášť dôležitým oblastiam, akými sú navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti a pod.
+    - 2. Informácia vo vzťahu k environmentálne obzvlášť dôležitým oblastiam, akými sú navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti a pod.
 
-    - 3. Charakteristika životného prostredia vrátane zdravia v oblastiach, ktoré budú pravdepodobne významne ovplyvnené.
+    - 3. Charakteristika životného prostredia vrátane zdravia v oblastiach, ktoré budú významne ovplyvnené.
 
     - 4. Environmentálne problémy vrátane zdravotných problémov, ktoré sú relevantné z hľadiska strategického dokumentu.
 
-    - 5. Environmentálne aspekty vrátane zdravotných aspektov zistených na medzinárodnej, národnej a inej úrovni, ktoré sú relevantné z hľadiska strategického dokumentu, ako aj to, ako sa zohľadnili počas prípravy strategického dokumentu.
+    - 5. Environmentálne ciele vrátane zdravotných cieľov zistených na medzinárodnej, národnej a inej úrovni, ktoré sú relevantné z hľadiska strategického dokumentu, ako aj to, ako sa zohľadnili počas prípravy strategického dokumentu.
 
   - IV. Základné údaje o predpokladaných vplyvov strategického dokumentu vrátane zdravia
 
@@ -46,7 +46,7 @@ Príloha č. 4 k zákonu č. 24/2006 Z. z.
 
     - 1. Opatrenia na odvrátenie, zníženie alebo zmiernenie prípadných významných negatívnych vplyvov na životné prostredie vrátane zdravia, ktoré by mohli vyplynúť z realizácie strategického dokumentu.
 
-  - VI. Dôvody výberu zvažovaných alternatív zohľadňujúcich ciele a geografický rozmer strategického dokumentu a opis toho, ako bolo vykonané vyhodnotenie vrátane ťažkostí s poskytovaním potrebných informácií, ako napr. technické nedostatky alebo neurčitosti
+  - VI. Dôvody pre výber zvažovaných alternatív a popis toho, ako bolo vykonané vyhodnotenie vrátane ťažkostí s poskytovaním potrebných informácií, ako napr. technické nedostatky alebo neurčitosti
 
   - VII. Návrh monitorovania environmentálnych vplyvov vrátane vplyvov na zdravie
 

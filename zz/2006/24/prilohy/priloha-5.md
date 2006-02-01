@@ -74,7 +74,7 @@ Príloha č. 5 k zákonu č. 24/2006 Z. z.
 
     - 7. Krajina – štruktúra, typ, scenéria, stabilita, ochrana.
 
-    - 8. Chránené územia, chránené stromy a ochranné pásma podľa osobitných predpisov [napr. národné parky, chránené krajinné oblasti, navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti], územný systém ekologickej stability (miestny, regionálny, nadregionálny).
+    - 8. Chránené územia, chránené stromy a ochranné pásma podľa osobitných predpisov [napr. národné parky, chránené krajinné oblasti, navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti], územný systém ekologickej stability (miestny, regionálny, nadregionálny).
 
     - 9. Obyvateľstvo – demografické údaje (napr. počet dotknutých obyvateľov, veková štruktúra, zdravotný stav, zamestnanosť, vzdelanie), sídla, aktivity (poľnohospodárstvo, priemysel, lesné hospodárstvo, služby, rekreácia a cestovný ruch), infraštruktúra (doprava, produktovody, telekomunikácie, odpady a nakladanie s odpadmi).
 
@@ -104,7 +104,7 @@ Príloha č. 5 k zákonu č. 24/2006 Z. z.
 
     - 8. Vplyvy na krajinu – štruktúru a využívanie krajiny, scenériu krajiny.
 
-    - 9. Vplyvy na chránené územia a ochranné pásma [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti], na územný systém ekologickej stability.
+    - 9. Vplyvy na chránené územia a ochranné pásma [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti], na územný systém ekologickej stability.
 
     - 10. Vplyvy na kultúrne a historické pamiatky, vplyvy na archeologické náleziská.
 
@@ -112,11 +112,11 @@ Príloha č. 5 k zákonu č. 24/2006 Z. z.
 
     - 12. Iné vplyvy.
 
-    - 13. Komplexné posúdenie očakávaných vplyvov z hľadiska ich významnosti, vzájomných vzťahov a ich porovnanie s platnými právnymi predpismi.
+    - 13. Komplexné posúdenie očakávaných vplyvov z hľadiska ich významnosti a ich porovnanie s platnými právnymi predpismi.
 
   - IV. Navrhované opatrenia na prevenciu, elimináciu, minimalizáciu a kompenzáciu vplyvov na životné prostredie a zdravie
 
-  - V. Porovnanie variantov zohľadňujúcich ciele a geografický rozmer strategického dokumentu vrátane porovnania s nulovým variantom
+  - V. Porovnanie variantov (vrátane porovnania s nulovým variantom)
 
     - 1. Tvorba súboru kritérií a určenie ich dôležitosti na výber optimálneho variantu.
 

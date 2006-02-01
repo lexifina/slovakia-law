@@ -24,7 +24,7 @@ Príloha č. 2 k zákonu č. 24/2006 Z. z.
 
     - 4. Obsah (osnova).
 
-    - 5. Uvažované variantné riešenia zohľadňujúce ciele a geografický rozmer strategického dokumentu.
+    - 5. Uvažované variantné riešenia.
 
     - 6. Vecný a časový harmonogram prípravy a schvaľovania.
 
@@ -44,7 +44,7 @@ Príloha č. 2 k zákonu č. 24/2006 Z. z.
 
     - 4. Vplyv na zdravotný stav obyvateľstva.
 
-    - 5. Vplyvy na chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti a pod.] vrátane návrhu opatrení na ich zmiernenie.
+    - 5. Vplyvy na chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti a pod.] vrátane návrhu opatrení na ich zmiernenie.
 
     - 6. Možné riziká súvisiace s uplatňovaním strategického materiálu.
 
@@ -52,7 +52,7 @@ Príloha č. 2 k zákonu č. 24/2006 Z. z.
 
   - IV. Dotknuté subjekty
 
-    - 1. Vymedzenie dotknutej verejnosti vrátane jej združení.
+    - 1. Vymedzenie zainteresovanej verejnosti vrátane jej združení.
 
     - 2. Zoznam dotknutých subjektov.
 

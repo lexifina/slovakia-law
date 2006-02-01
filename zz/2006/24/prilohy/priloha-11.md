@@ -24,35 +24,31 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 3. Užívateľ.
 
-    - 4. Charakter navrhovanej činnosti (nová činnosť, zmena činnosti, ukončenie činnosti a podobne).
+    - 4. Umiestnenie (katastrálne územie, parcelné číslo).
 
-    - 5. Umiestnenie (katastrálne územie, parcelné číslo).
+    - 5. Prehľadná situácia umiestnenia navrhovanej činnosti (mierka 1 : 50 000).
 
-    - 6. Prehľadná situácia umiestnenia navrhovanej činnosti (mierka 1 : 50 000).
+    - 6. Dôvod umiestnenia v danej lokalite.
 
-    - 7. Dôvod umiestnenia v danej lokalite.
+    - 7. Termín začatia a skončenia výstavby a prevádzky navrhovanej činnosti.
 
-    - 8. Termín začatia a skončenia výstavby a prevádzky navrhovanej činnosti.
+    - 8. Stručný popis technického a technologického riešenia.
 
-    - 9. Popis technického a technologického riešenia.
+    - 9. Varianty navrhovanej činnosti.
 
-    - 10. Varianty navrhovanej činnosti podľa § 22 ods. 2.
+    - 10. Celkové náklady (orientačné).
 
-    - 11. Celkové náklady (orientačné).
+    - 11. Dotknutá obec.
 
-    - 12. Dotknutá obec.
+    - 12. Dotknutý samosprávny kraj.
 
-    - 13. Dotknutý samosprávny kraj.
+    - 13. Dotknuté orgány.
 
-    - 14. Dotknuté orgány.
+    - 14. Povoľujúci orgán.
 
-    - 15. Povoľujúci orgán.
+    - 15. Rezortný orgán.
 
-    - 16. Rezortný orgán.
-
-    - 17. Druh požadovaného povolenia navrhovanej činnosti podľa osobitných predpisov.
-
-    - 18. Vyjadrenie o vplyvoch navrhovanej činnosti presahujúcich štátne hranice.
+    - 16. Vyjadrenie o vplyvoch navrhovanej činnosti presahujúcich štátne hranice.
 
   - B. ÚDAJE O PRIAMYCH VPLYVOCH NAVRHOVANEJ ČINNOSTI NA ŽIVOTNÉ PROSTREDIE VRÁTANE ZDRAVIA
 
@@ -84,7 +80,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 6. Zápach a iné výstupy (zdroj, intenzita).
 
-    - 7. Doplňujúce údaje (napr. významné terénne úpravy a zásahy do krajiny a horninového prostredia).
+    - 7. Doplňujúce údaje (napr. významné terénne úpravy a zásahy do krajiny).
 
   - C. KOMPLEXNÁ CHARAKTERISTIKA A HODNOTENIE VPLYVOV NA ŽIVOTNÉ PROSTREDIE VRÁTANE ZDRAVIA
 
@@ -108,7 +104,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 8. Krajina – štruktúra krajiny, krajinný obraz, scenéria, stabilita, ochrana.
 
-    - 9. Chránené územia podľa osobitných predpisov a ich ochranné pásma [napr. národné parky, chránené krajinné oblasti, navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti], chránené stromy.
+    - 9. Chránené územia podľa osobitných predpisov a ich ochranné pásma [napr. národné parky, chránené krajinné oblasti, navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti], chránené stromy.
 
     - 10. Územný systém ekologickej stability (miestny, regionálny, nadregionálny).
 
@@ -136,11 +132,11 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 2. Vplyvy na horninové prostredie, nerastné suroviny, geodynamické javy a geomorfologické pomery.
 
-    - 3. Vplyvy na klimatické pomery a zraniteľnosť navrhovanej činnosti voči zmene klímy.
+    - 3. Vplyvy na klimatické pomery.
 
     - 4. Vplyvy na ovzdušie (napr. množstvo a koncentrácia emisií a imisií).
 
-    - 5. Vplyvy na vodné pomery (napr. vodný útvar, kvalitu, režimy, odtokové pomery, zásoby).
+    - 5. Vplyvy na vodné pomery (napr. kvalitu, režimy, odtokové pomery, zásoby).
 
     - 6. Vplyvy na pôdu (napr. spôsob využívania, kontaminácia, pôdna erózia).
 
@@ -148,7 +144,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 8. Vplyvy na krajinu – štruktúru a využívanie krajiny, krajinný obraz.
 
-    - 9. Vplyvy na biodiverzitu, chránené územia a ich ochranné pásma [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
+    - 9. Vplyvy na chránené územia a ich ochranné pásma [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
 
     - 10. Vplyvy na územný systém ekologickej stability.
 
@@ -162,7 +158,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 15. Vplyvy na kultúrne hodnoty nehmotnej povahy (napr. miestne tradície).
 
-    - 16. Iné vplyvy (napr. očakávané vplyvy vyplývajúce zo zraniteľnosti navrhovanej činnosti voči rizikám závažných havárií alebo prírodných katastrof, ktoré majú význam pre navrhovanú činnosť).
+    - 16. Iné vplyvy.
 
     - 17. Priestorová syntéza vplyvov činnosti v území (napr. predpokladaná antropogénna záťaž územia, priestorová syntéza negatívnych vplyvov na obyvateľstvo, prírodné prostredie, krajinu, urbánny komplex a využitie zeme, priestorové rozloženie predpokladaných preťažených lokalít územia, priestorová syntéza pozitívnych vplyvov činnosti.
 
@@ -186,15 +182,15 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 6. Vyjadrenie k technicko-ekonomickej realizovateľnosti opatrení.
 
-  - V. Porovnanie vhodných variantov navrhovanej činnosti podľa § 22 ods. 2 a návrh optimálneho variantu s prihliadnutím na vplyvy na životné prostredie
+  - V. Porovnanie variantov navrhovanej činnosti a návrh optimálneho variantu
 
   - (vrátane porovnania s nulovým variantom)
 
-    - 1. Tvorba súboru kritérií so zreteľom na charakter, veľkosť a rozsah navrhovanej činnosti, technológiu a umiestnenie a určenie ich dôležitosti na výber optimálneho variantu navrhovanej činnosti podľa § 22 ods. 2.
+    - 1. Tvorba súboru kritérií a určenie ich dôležitosti na výber optimálneho variantu.
 
-    - 2. Výber optimálneho variantu alebo stanovenie poradia vhodnosti pre posudzované varianty navrhovanej činnosti podľa § 22 ods. 2.
+    - 2. Výber optimálneho variantu alebo stanovenie poradia vhodnosti pre posudzované varianty.
 
-    - 3. Zdôvodnenie návrhu optimálneho variantu navrhovanej činnosti podľa § 22 ods. 2.
+    - 3. Zdôvodnenie návrhu optimálneho variantu.
 
   - VI. Návrh monitoringu a poprojektovej analýzy
 

@@ -26,7 +26,7 @@ Príloha č. 7 k zákonu č. 24/2006 Z. z.
 
     - 2. Vplyv na zdravie obyvateľov.
 
-    - 3. Vplyv na chránené územia [napr. na navrhované chránené vtáčie územia, územia európskeho významu alebo európsku sústavu chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
+    - 3. Vplyv na chránené územia [napr. na navrhované chránené vtáčie územia, územia európskeho významu alebo súvislú európsku sústavu chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
 
     - 4. Vplyv na životné prostredie presahujúci štátne hranice.
 
@@ -37,5 +37,3 @@ Príloha č. 7 k zákonu č. 24/2006 Z. z.
     - 2. Odporúčaný variant.
 
     - 3. Odôvodnenie bodov 1 a 2.
-
-    - 4. Vyhlásenie sumarizujúce, ako boli začlenené úvahy o environmentálnych aspektoch do strategického dokumentu a ako bola zohľadnená správa o hodnotení strategického dokumentu, ako boli zohľadnené stanoviská verejnosti k správe o hodnotení strategického dokumentu, výsledky uskutočnených konzultácií, dôvody výberu schváleného strategického dokumentu v porovnaní s inými prijateľnými variantmi vrátane návrhu monitoringu a o opatreniach, o ktorých sa rozhodlo v súvislosti s monitoringom.

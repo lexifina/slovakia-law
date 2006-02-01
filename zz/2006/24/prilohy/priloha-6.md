@@ -44,7 +44,7 @@ Príloha č. 6 k zákonu č. 24/2006 Z. z.
 
     - (Napr. vplyv na zložky životného prostredia, vplyv na chránené územia...)
 
-  - V. CELKOVÉ HODNOTENIE VPLYVOV STRATEGICKÉHO DOKUMENTU NA NAVRHOVANÉ CHRÁNENÉ VTÁČIE ÚZEMIA, ÚZEMIA EURÓPSKEHO VÝZNAMU ALEBO EURÓPSKU SÚSTAVU CHRÁNENÝCH ÚZEMÍ (NATURA 2000)
+  - V. CELKOVÉ HODNOTENIE VPLYVOV STRATEGICKÉHO DOKUMENTU NA NAVRHOVANÉ CHRÁNENÉ VTÁČIE ÚZEMIA, ÚZEMIA EURÓPSKEHO VÝZNAMU ALEBO SÚVISLÚ EURÓPSKU SÚSTAVU CHRÁNENÝCH ÚZEMÍ (NATURA 2000)
 
   - VI. Závery
 
@@ -57,10 +57,6 @@ Príloha č. 6 k zákonu č. 24/2006 Z. z.
     - 4. Odôvodnenie záverečného stanoviska z posúdenia strategického dokumentu.
 
     - 5. Návrh monitoringu.
-
-    - 6. Vyhlásenie sumarizujúce, ako boli začlenené úvahy o environmentálnych aspektoch do strategického dokumentu, ako bola zohľadnená správa o hodnotení strategického dokumentu, ako boli zohľadnené stanoviská verejnosti k správe o hodnotení strategického dokumentu, výsledky uskutočnených konzultácií, dôvody výberu schváleného strategického dokumentu v porovnaní s inými prijateľnými variantmi a informácia o opatreniach, o ktorých sa rozhodlo v súvislosti s monitoringom.
-
-    - 7. Informácia pre schvaľujúci orgán o dotknutej verejnosti pri posudzovaní vplyvov strategických dokumentov.
 
   - VII. Potvrdenie správnosti údajov
 
