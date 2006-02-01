@@ -8,6 +8,12 @@
 
 - 3a) § 6 ods. 3 písm. c) zákona č. 36/2005 Z. z.
 
+- 3b) § 27 zákona č. 36/2005 Z. z.
+
+- 3c) § 16 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona č. 36/2005 Z. z.
+
+- 3d) § 3 ods. 4 a § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení zákona č. 14/2006 Z. z.
+
 - 4) § 10 Občianskeho zákonníka.
 
-- 5) § 10 zákona č. 268/1949 Zb. o matrikách.
+- 5) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
