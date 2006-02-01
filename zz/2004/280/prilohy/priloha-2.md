@@ -1,91 +1,87 @@
 Príloha č. 2 k nariadeniu vlády č. 280/2004 Z. z.
 
-- POŽIADAVKY na uznávanie množiteľského materiálu viniča
+- POŽIADAVKY NA MNOŽITEĽSKÝ MATERIÁL
 
-  - I. Všeobecné podmienky
+  - I. VŠEOBECNÉ PODMIENKY
 
-  - 1. Množiteľský materiál sa vyznačuje odrodovou pravosťou a odrodovou čistotou; pri obchodovaní so štandardným materiálom sa akceptuje tolerancia na úrovni 1 %.
+  - 1. Množiteľský materiál a klon musia spĺňať odrodovú pravosť a odrodovú čistotu; pri uvádzaní štandardného materiálu na trh je prípustná odchýlka 1 % odrodovej pravosti a odrodovej čistoty.
 
-  - 2. Minimálna technická čistota: 96 %.
+  - 2. Množiteľský materiál musí spĺňať minimálne technickú čistotu 96 %. Za technické nečistoty sa považuje
 
-- Za technicky nečisté sa považuje
+  - a) množiteľský materiál úplne alebo čiastočne zoschnutý aj v prípade, ak po zoschnutí bol namočený do vody,
 
-  - a) úplne alebo čiastočne vysušený množiteľský materiál, a to dokonca aj vtedy, ak po vysušení bol namočený do vody,
+  - b) poškodený, ohnutý alebo porušený množiteľský materiál, najmä poškodený mechanicky, aj v dôsledku ľadovca alebo mrazu, alebo rozdrvený, alebo polámaný, ranami po zálistkoch a pod.,
 
-  - b) poškodený, ohnutý alebo porušený množiteľský materiál, najmä pri poškodení v dôsledku ľadovca alebo mrazu, alebo ak bol rozdrvený alebo polámaný.
+  - c) materiál, ktorý nespĺňa požiadavky uvedené v III. časti.
 
-- Výskyt škodlivých organizmov, ktoré znižujú úžitkovosť množiteľského materiálu, musí byť čo najnižší.
+  - 3. Viničové výhony dosiahli dostatočné štádium zrelosti dreva.
 
-  - II. Osobitné podmienky
+  - 4. Prítomnosť škodlivých organizmov, ktoré znižujú použiteľnosť množiteľského materiálu, sa toleruje, len ak je na najnižšej možnej úrovni. Množiteľský materiál vykazujúci jasné znaky alebo príznaky škodlivého organizmu, pre ktorý neexistuje žiadne účinné ošetrenie, sa odstráni.
 
-  - 1. Zakorenené vrúble
+  - II. OSOBITNÉ PODMIENKY
 
-- Zakorenené vrúble pozostávajúce zo základného materiálu navrúbľovaného na základný materiál alebo zo základného materiálu navrúbľovaného na certifikovaný materiál sú klasifikované ako základný materiál. Zakorenené vrúble pozostávajúce z certifikovaného materiálu navrúbľovaného na základný materiál alebo z certifikovaného materiálu navrúbľovaného na certifikovaný materiál sú klasifikované ako certifikovaný materiál. Všetky ostatné kombinácie sú klasifikované ako štandardný materiál.
+- Zakorenené sadenice
 
-  - 2. Časti sadeníc viniča
+- Zakorenené sadenice pozostávajúce z kombinácie rovnakej kategórie množiteľského materiálu sa zatrieďujú do tejto kategórie. Zakorenené sadenice pozostávajúce z kombinácie rôznych kategórií množiteľského materiálu sa zatrieďujú do nižšej kategórie, z ktorých sa zakorenená sadenica skladá.
 
-- Výhony viniča musia dosiahnuť príslušné štádium zrelosti dreva. Pomer „drevo/stržeň“ je pre danú odrodu obvyklý.
+  - III. TRIEDENIE
 
-  - III. Triedenie
+  - 1. Odrezky podpníkov na štepenie, odrezky zo selektovaného a z podpníkového vinohradu a viničie
 
-  - 1. Odrezky podpníkov na štepenie, odrezky zo škôlky a viničie
+- Priemer
+
+- Priemer sa meria v najširšom bode prierezu; to sa nevzťahuje na bylinné odrezky.
+
+  - 1. Odrezky podpníkov na štepenie a viničie:
+
+  - 1.1. priemer vrcholu: 6,5 až 12 mm,
+
+  - 1.2. maximálny priemer dolného konca: 15 mm okrem viničia určeného na vrúbľovanie in situ.
+
+  - 2. Odrezky zo selektovaného a z podpníkového vinohradu:
+
+  - 2.1. minimálny priemer vrcholu: 3,5 mm.
+
+  - 2. Zakorenené odrezky
 
   - A. Priemer
 
-- Priemer sa meria v najširšom bode horného prierezu.
-
-- Odrezky podpníkov na vrúbľovanie a viničie:
-
-  - 1. priemer vrcholu
-
-  - 1.1 Vitis rupestris a jeho kríženie s Vitis vinifera 6 mm až 12 mm,
-
-  - 1.2 ostatné odrody 6,5 mm až 12 mm, počet výhonov s priemerom maximálne 7 mm v prípade Vitis rupestris a jeho kríženia s Vitis vinifera a najviac 7,5 mm v prípade ostatných odrôd nepresahuje 25 % vo zväzku,
-
-  - 1.3 maximálny priemer dolného konca 14 mm okrem viničia pre prevrúbľovanie; rez sa vykoná minimálne 2 cm pod najnižším očkom.
-
-  - 2. Odrezky zo škôlky
-
-- Minimálny priemer vrcholu je 3,5 mm.
+- Priemer sa meria v strede internódia pod bočným výrastkom a pozdĺž najdlhšej osi je minimálne 5 mm. To sa nevzťahuje na zakorenené odrezky získané z bylinného množiteľského materiálu.
 
   - B. Dĺžka
 
-  - 1. Odrezky z podpníkov na vrúbľovanie
+- Dĺžka od najnižšieho bodu, v ktorom korene vystupujú do základne bočného výrastku, nie je menšia ako
 
-- Minimálna dĺžka od najnižšej časti najnižšieho kolienka až po najvyššie internodium je 1,05 m.
+  - 1. 30 cm pri zakorenených odrezkoch určených na vrúbľovanie, pri zakorenených odrezkoch určených pre Sicíliu je však táto dĺžka 20 cm,
 
-  - 2. Odrezky zo škôlky
+  - 2. 20 cm pri ostatných zakorenených odrezkoch.
 
-- Minimálna dĺžka od najnižšej časti najnižšieho kolienka až po najvyššie internodium je 55 cm, v prípade Vitis vinifera 30 cm.
+- To sa nevzťahuje na zakorenené odrezky získané z bylinného množiteľského materiálu.
 
-  - 3. Viničie
+  - C. Korene
 
-  - a) s piatimi použiteľnými očkami má minimálnu dĺžku od najnižšej časti najnižšieho kolienka až po najvyššie internodium 50 cm,
+- Každá sadenica musí mať najmenej tri dobre vyvinuté a dobre rozmiestnené korene. Odroda 420 A však môže mať len dva dobre vyvinuté korene, ak sa nachádzajú oproti sebe.
 
-  - b) s jedným použiteľným očkom má minimálnu dĺžku 6,5 cm; rez sa má urobiť minimálne vo vzdialenosti 1,5 cm nad očkom a 5 cm pod očkom.
+  - D. Päta
 
-  - C. Zakorenené odrezky
+- Rez sa musí vykonať v dostatočnej vzdialenosti od diafragmy, aby nedošlo k jej poškodeniu, ale nie nižšie ako 1 cm pod ňou.
 
-  - 1. Priemer
+  - 3. Zakorenené sadenice
 
-- Priemer meraný v strede internódia bezprostredne pod bočným výrastkom a pozdĺž najdlhšej osi nie je menší ako 5 mm.
+  - A. Dĺžka
 
-  - 2. Dĺžka
+- Výhon musí mať dĺžku najmenej 20 cm.
 
-- Vzdialenosť od najnižšieho bodu, v ktorom korene vystupujú do základne bočného výrastku, nie je menšia ako
+- To neplatí pre zakorenené sadenice získané z bylinného množiteľského materiálu.
 
-  - a) 30 cm, ak ide o podpníky,
+  - B. Korene
 
-  - b) 22 cm, ak ide o ostatné zakorenené odrezky.
+- Každá sadenica musí mať najmenej tri dobre vyvinuté a dobre rozmiestnené korene. Odroda 420 A však môže mať len dva dobre vyvinuté korene, ak sa nachádzajú oproti sebe.
 
-  - 3. Korene
+  - C. Zrast
 
-- Každá sadenica má minimálne tri veľmi dobre vyvinuté a dobre rozmiestnené korene. Odroda 420 A môže mať len dva dobre vyvinuté korene za predpokladu, že sa nachádzajú proti sebe.
+- Každá sadenica sa vyznačuje primeraným, pravidelným a pevným zrastom.
 
-  - 4. Zakorenené vrúble
+  - D. Päta
 
-  - a) výhon je dlhý najmenej 20 cm,
-
-  - b) korene; každá sadenica má minimálne tri veľmi dobre vyvinuté a dobre rozmiestnené korene; odroda 420 A môže mať len dva dobre vyvinuté korene za predpokladu, že sa nachádzajú proti sebe,
-
-  - c) zrast; každá sadenica sa vyznačuje adekvátnym, pravidelným a bezpečným zrastom.
+- Rez by sa mal vykonať v dostatočnej vzdialenosti od diafragmy, aby nedošlo k jej poškodeniu, ale nie nižšie ako 1 cm pod ňou.

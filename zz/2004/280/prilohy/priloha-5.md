@@ -2,7 +2,7 @@ Príloha č. 5 k nariadeniu vlády č. 280/2004 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
-  - Týmto nariadením sa preberajú tieto právne akty Európskych spoločenstiev a Európskej únie:
+  - 1. Týmto nariadením sa preberajú tieto právne akty Európskych spoločenstiev a Európskej únie:
 
 - Smernica Rady 68/193/EHS z 9. apríla 1968 o obchodovaní s materiálom na vegetatívne rozmnožovanie viniča v znení
 
@@ -28,4 +28,4 @@ Príloha č. 5 k nariadeniu vlády č. 280/2004 Z. z.
 
 - smernice Rady 2003/61/ES z 18. júna 2003.
 
-- Smernica Rady je preložená do slovenského jazyka; do úradného prekladu v slovenskom jazyku možno nahliadnuť v Inštitúte pre aproximáciu práva Úradu vlády Slovenskej republiky, Námestie slobody 1/29, Bratislava.
+  - 2. Smernica Komisie 2005/43/ES z 23. júna 2005, ktorou sa menia a dopĺňajú prílohy k smernici Rady 68/193/EHS o obchodovaní s materiálom na vegetatívne rozmnožovanie viniča (Ú. v. EÚ L 169, 26. 4. 2005).

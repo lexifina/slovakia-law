@@ -1,19 +1,25 @@
 Príloha č. 3 k nariadeniu vlády č. 280/2004 Z. z.
 
-- BALENIE
+- BALENIE MNOŽITEĽSKÉHO MATERIÁLU
 
-  - Zloženie balení alebo viazaní
+  - Obsah balení alebo zväzkov
 
-- | Počet
+- 1 - Druh | 2 - Počet jednotlivých kusov | 3 - Maximálne množstvo
 
-- 1. Zakorenené vrúble | 25, alebo ak sa používajú plastové vrecká podobných balení, 50 alebo 100
+- 1. Zakorenené sadenice | 25, 50, 100 alebo násobky 100 | 500
 
-- 2. Zakorenené odrezky | 50, alebo ak sa používajú plastové vrecká podobných balení, 100
+- 2. Zakorenené odrezky | 50, 100 alebo násobky 100 | 500
 
-- 3. Viničie: 3.1 s piatimi použiteľnými očkami 3.2 s jedným použiteľným očkom | 100 alebo 200 500 alebo jeho násobok
+- 3. Viničie - minimálne s piatimi použiteľnými očkami - s jedným použiteľným očkom | 100 alebo 200 500 alebo násobky 500 | 200 5 000
 
-- 4. odrezky podpníkov na vrúbľovanie | 200
+- 4. Odrezky podpníkov na štepenie | 100 alebo násobky 100 | 1 000
 
-- 5. Odrezky podpníkov zo škôlky a Vitis vinifera odrezkov zo škôlky | 200 alebo 500
+- 5. Odrezky zo selektovaného a z podpníkového vinohradu | 100 alebo násobky 100 | 500
 
-- 6. Ostatné odrezky zo škôlky | 200
+- Osobitné podmienky
+
+- 1. Malé množstvá
+
+- V prípade potreby môže byť počet jednotlivých kusov v balení a vo zväzkoch všetkých druhov a kategórií množiteľského materiálu uvedeného v stĺpci 1 menší, ako sú najmenej počty uvedené v stĺpci 2.
+
+- 2. Sadenice viniča zakorenené v akomkoľvek substráte v črepníkoch, prepravkách a škatuliach. Počet jednotlivých kusov a najvyššie množstvo sa neuplatňujú.

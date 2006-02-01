@@ -1,43 +1,117 @@
 Príloha č. 4 k nariadeniu vlády č. 280/2004 Z. z.
 
-- POŽIADAVKY NA NÁVESKU
+- POŽIADAVKY NA OZNAČOVANIE MNOŽITEĽSKÉHO MATERIÁLU
 
-  - A. Požadované informácie
+  - A. NÁVESKA
 
-  - 1. „ES kvalita“
+  - I. Požadované informácie
 
-  - 2. Meno a adresa dodávateľa a jeho identifikačné číslo
+  - 1. Norma ES
 
-  - 3. Úrad zodpovedný za certifikáciu a kontrolu a členský štát
+  - 2. Krajina výroby
 
-  - 4. Príslušné číslo zväzku
+  - 3. Orgán zodpovedný za vydávanie osvedčení alebo previerku a členský štát alebo ich iniciály
 
-  - 5. Odroda a tam, kde je to vhodné, klon (pre zakorenené sadenice na štepenie, klony podpníkov a viničie )
+  - 4. Meno a adresa osoby zodpovednej za uzatvorenie alebo jej identifikačné číslo
 
-  - 6. Kategória
+  - 5. Druh materiálu
 
-  - 7. Krajina výroby
+  - 6. Typ materiálu
 
-  - 8. Množstvo
+  - 7. Kategória
 
-  - 9. Dĺžka, ak ide o odrezky podpníkové určené na vrúbľovanie, ak členský štát udeľuje výnimku z pravidiel pre minimálnu dĺžku.
+  - 8. Odroda a prípadne klon; ak ide o zakorenené sadenice, platí tento údaj pre podpník a vrchný štepenec
 
-- Ak ide o zakorenené odrezky a zakorenené vrúble, sú dostatočné údaje podľa bodov 1, 2, 5, 6 a 7.
+  - 9. Referenčné číslo dávky
 
-  - B. Doplňujúce informácie povolené pre základný množiteľský materiál a pre certifikovaný rozmnožovací materiál:
+  - 10. Množstvo
 
-- Základný materiál/materiály vegetatívneho štádia boli predtým testované ..............(orgán) a bolo potvrdené, že nemajú ...............(vírusové ochorenie) na základe ..............(testovacia metóda).
+  - 11. Dĺžka - len pre odrezky podpníkov na štepenie: tento údaj zahŕňa minimálnu dĺžku odrezkov príslušnej dávky
 
-- Pre základný množiteľský materiál a pre certifikovaný rozmnožovací materiál sa tieto informácie môžu týkať zvinutky a roncetu viniča a v prípade odrezkov z podpníkov aj škvrnitosti. Testy musia byť úradne uznané. Musia byť vykonané za obdobie najmenej troch rokov úradne uznaným a kontrolovaným orgánom.
+  - 12. Rok zberu
 
-- Použiť sa môžu tieto testovacie metódy:
+  - II. Minimálne požiadavky
 
-  - a) pre všetky vírusové ochorenia metóda indexovania, ak ide o viničové rastliny,
+- Náveska musí spĺňať tieto požiadavky:
 
-  - b) pre roncet viniča okrem predchádzajúcich metód metóda indexovania, ak ide o bylinné rastliny, a takisto metóda serológie.
+  - 1. musí byť nezmazateľne tlačená a jasne čitateľná,
 
-  - C. Minimálne rozmery
+  - 2. musí byť pripevnená na nápadnom mieste, aby bola dobre viditeľná,
 
-  - 1. 110 x 67 mm, ak ide o odrezky podpníkov určené na vrúbľovanie, viničie a odrezky zo škôlky,
+  - 3. informácie uvedené v časti A nemôžu byť žiadnym spôsobom skryté, zastreté ani prerušené inými informáciami alebo obrázkami,
 
-  - 2. 80 x 70 mm, ak ide o zakorenené odrezky a zakorenené vrúble.
+  - 4. informácie uvedené v časti A musia byť zobrazené rovnakým spôsobom.
+
+  - III. Výnimka pri malých množstvách pre konečných spotrebiteľov
+
+  - 1. Viac ako jeden kus
+
+- Požadované informácie pre návesku I. časti podľa bodu 10 znejú: „Presný počet kusov na balenie alebo zväzok".
+
+  - 2. Len jeden kus
+
+- Nevyžadujú sa tieto informácie ustanovené v časti A:
+
+  - 2.1. druh materiálu,
+
+  - 2.2. kategória,
+
+  - 2.3. referenčné číslo dávky,
+
+  - 2.4. množstvo,
+
+  - 2.5. dĺžka odrezkov podpníkov na štepenie,
+
+  - 2.6. rok zberu.
+
+  - IV. Výnimka pri viniči v črepníkoch, prepravkách a škatuliach
+
+- Ak ide o sadenice viniča zakorenené v akomkoľvek substráte v črepníkoch, prepravkách a škatuliach, keď nie je možné, aby balenie tohto materiálu spĺňalo požiadavky na uzatvorenie (vrátane označenia náveskou) z dôvodu jeho obsahu,
+
+  - a) množiteľský materiál sa uchováva v samostatných dávkach vhodne označených podľa odrody a prípadne klonu a podľa počtu jednotlivých kusov,
+
+  - b) úradná náveska nie je povinná,
+
+  - c) k množiteľskému materiálu je priložený sprievodný doklad ustanovený v časti B.
+
+  - B. SPRIEVODNÝ DOKLAD
+
+  - I. Podmienky, ktoré sa majú splniť
+
+- Sprievodný doklad musí
+
+  - 1. byť vydaný najmenej v dvoch vyhotoveniach (pre odosielateľa a pre príjemcu),
+
+  - 2. vyhotovenie pre príjemcu musí sprevádzať dodávku z adresy odosielateľa na adresu príjemcu,
+
+  - 3. uvádzať všetky informácie o jednotlivých dávkach dodávky stanovené v II. časti,
+
+  - 4. byť uchovaný najmenej jeden rok a musí byť sprístupnený kontrolnému orgánu.
+
+  - II. Zoznam informácií, ktoré musí obsahovať sprievodný doklad
+
+  - 1. Norma ES
+
+  - 2. Krajina výroby
+
+  - 3. Orgán zodpovedný za vydávanie osvedčení alebo previerku a členský štát alebo ich iniciály
+
+  - 4. Poradové číslo
+
+  - 5. Odosielateľ (adresa, registračné číslo)
+
+  - 6. Príjemca (adresa)
+
+  - 7. Druhy
+
+  - 8. Druh (druhy) materiálu
+
+  - 9. Kategória (kategórie)
+
+  - 10. Odroda (odrody) a prípadne klon (klony); pri zakorenených sadeniciach platí tento údaj pre podpník a vrchný štepenec
+
+  - 11. Počet jednotlivých kusov na dávku
+
+  - 12. Celkový počet dávok
+
+  - 13. Dátum dodávky.
