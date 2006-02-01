@@ -12,10 +12,8 @@ Príloha č. 5 k zákonu č. 25/2006 Z. z.
 
   - 5. Slovenská technická norma na účely tohto zákona je norma podľa osobitného predpisu.<sup>2</sup>)
 
-  - 6. Norma pre oblasť obrany na účely tohto zákona je technická špecifikácia, ktorej dodržanie nie je povinné a ktorú schvaľuje organizácia pre normalizáciu špecializovaná na vypracovanie technických špecifikácií na opakované alebo kontinuálne využívanie v oblasti obrany.
+  - 6. Európske technické osvedčenie na účely tohto zákona je kladné technické hodnotenie vhodnosti použitia výrobku na konkrétny účel založené na splnení základných požiadaviek na stavby pomocou základných charakteristík výrobku a podmienok určených na jeho využitie a použitie, ktoré vydáva príslušná právnická osoba.
 
-  - 7. Európske technické osvedčenie na účely tohto zákona je kladné technické hodnotenie vhodnosti použitia výrobku na konkrétny účel založené na splnení základných požiadaviek na stavby pomocou základných charakteristík výrobku a podmienok určených na jeho využitie a použitie, ktoré vydáva príslušná právnická osoba.
+  - 7. Spoločná technická špecifikácia na účely tohto zákona je technická špecifikácia vypracovaná v súlade s postupom uznaným členskými štátmi, ktorá bola uverejnená v Úradnom vestníku Európskej únie.
 
-  - 8. Spoločná technická špecifikácia na účely tohto zákona je technická špecifikácia vypracovaná v súlade s postupom uznaným členskými štátmi, ktorá bola uverejnená v Úradnom vestníku Európskej únie.
-
-  - 9. Technický odkaz na účely tohto zákona je akýkoľvek produkt vytvorený európskymi normalizačnými organizáciami okrem európskych noriem, prijatý ako reakcia na potreby trhu.
+  - 8. Technický odkaz na účely tohto zákona je akýkoľvek produkt vytvorený európskymi normalizačnými organizáciami okrem európskych noriem, prijatý ako reakcia na potreby trhu.
