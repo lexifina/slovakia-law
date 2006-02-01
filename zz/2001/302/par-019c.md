@@ -12,4 +12,4 @@
 
 - d) osoby, ktorým boli poskytnuté z rozpočtu samosprávneho kraja účelové dotácie alebo návratné finančné výpomoci podľa osobitného predpisu<sup>13</sup>) v rozsahu nakladania s týmito prostriedkami.
 
-(3) Kontrolná činnosť podľa odseku 1 sa nevzťahuje na konanie, v ktorom o právach, právom chránených záujmoch alebo o povinnostiach právnických osôb alebo fyzických osôb rozhoduje predseda v správnom konaní podľa § 16.
+(3) Kontrolná činnosť podľa odseku 1 sa nevzťahuje na konanie, v ktorom o právach, právom chránených záujmoch alebo o povinnostiach právnických osôb alebo fyzických osôb rozhoduje v oblasti verejnej správy samosprávny kraj.

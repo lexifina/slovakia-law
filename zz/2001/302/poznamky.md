@@ -34,6 +34,10 @@
 
 - 16) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
+- 16a) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+
+- 17a) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
+
 - 18) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
 - 18a) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
