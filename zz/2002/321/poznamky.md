@@ -26,6 +26,18 @@
 
 - 13) Zákon č. 153/2001 Z. z. o prokuratúre.
 
+- 13a) § 12 ods. 1 písm. e) zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
+
+- 13b) § 2 písm. b) a c) zákona č. 143/1998 Z. z.
+
+- 13c) § 2 písm. n) zákona č. 143/1998 Z. z. v znení zákona č. 544/2004 Z. z.
+
+- 13d) § 8 ods. 3 zákona č. 143/1998 Z. z. v znení zákona č. 544/2004 Z. z.
+
+- 13e) § 4 ods. 3 zákona č. 143/1998 Z. z. v znení zákona č. 544/2004 Z. z.
+
+- 13f) § 4 ods. 2 zákona č. 575/2001 Z. z.
+
 - 14) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení zákona č. 143/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 15) Čl. 102 ods. 1 písm. k) Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
