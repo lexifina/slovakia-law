@@ -1,0 +1,3 @@
+# § 250a
+
+Žalobca musí byť zastúpený advokátom, pokiaľ nemá právnické vzdelanie buď sám, alebo jeho zamestnanec (člen), ktorý zaňho na súde koná; to neplatí vo veciach, v ktorých je daná vecná príslušnosť okresného súdu, alebo ak ide o preskúmanie rozhodnutia a postupu vo veciach zdravotného poistenia, sociálneho zabezpečenia vrátane nemocenského poistenia, dôchodkového zabezpečenia, štátnych sociálnych dávok, sociálnej pomoci a poistenia v nezamestnanosti, aktívnej politiky trhu práce a garančného fondu, poskytovania zdravotnej starostlivosti, vo veciach priestupkov a vo veciach žiadateľov o priznanie postavenia utečenca.
