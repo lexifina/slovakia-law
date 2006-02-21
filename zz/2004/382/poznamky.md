@@ -31,3 +31,5 @@
 - 15) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 16) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- 17) Napríklad § 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
