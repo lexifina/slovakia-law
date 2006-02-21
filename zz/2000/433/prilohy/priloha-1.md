@@ -202,12 +202,6 @@ c) schopnosť vypracúvať certifikáty, záznamy a správy požadované na over
 
 Príloha č. 6 k nariadeniu vlády č. 433/2000 Z. z.
 
-ZOZNAM TRANSPONOVANÝCH SMERNÍC
+ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
 
-Týmto nariadením sa úplne transponujú nasledujúce smernice:
-
-1. Smernica Rady č. 92/42/EHS z 21. mája 1992 o požiadavkách na účinnosť nových teplovodných kotlov na kvapalné palivá alebo plynné palivá.
-
-2. Smernica Rady č. 93/68/EHS z 22. júla 1993, ktorou sa menia a dopĺňajú smernice č. 87/404/EHS (jednoduché tlakové nádoby), č. 88/378/EHS (bezpečnosť hračiek), č. 89/106/EHS (stavebné výrobky), č. 89/336/EHS (elektromagnetická kompatibilita), č. 89/392/EHS (strojové zariadenie), č. 89/686/EHS (osobné ochranné prostriedky), č. 90/384/EHS (váhy s neautomatickou činnosťou), č. 90/385/EHS (implantovateľné zdravotnícke pomôcky), č. 90/396/EHS (spotrebiče plynných palív), č. 91/263/EHS (telekomunikačné zariadenia), č. 92/42/EHS (nové teplovodné kotly spaľujúce kvapalné palivo alebo plynné palivo) a č. 73/23/EHS (elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia).
-
-3. Revidovaný preklad Smernice Rady č. 92/42/EHS a Smernice Rady č. 93/68/EHS sa nachádza v Centrálnej prekladateľskej jednotke sekcie Inštitút pre aproximáciu práva Úradu vlády Slovenskej republiky.
+Smernica Európskeho parlamentu a Rady 1992/42/ES z 21. mája 1992 o požiadavkách na účinnosť nových teplovodných kotlov na kvapalné alebo plynné palivá (Ú. v. EÚ L 167, 22. 6. 1992) v znení smernice Európskeho parlamentu a Rady 1993/68/EHS z 22. 7. 1993 (Ú. v. EÚ L 220, 30. 8. 1993) a smernice Európskeho parlamentu a Rady 2004/8/ES z 11. 2. 2004 (Ú. v. EÚ L 52, 21. 2. 2004).
