@@ -36,19 +36,21 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Konzulárne oddelenie Ministerstva zahraničných vecí („Drejtoria Konsullore, Zyra e Legalizimeve, Ministria e Puneve te Jashtme“)
 
-    - Andorra
+    - Andorrské kniežatstvo
 
-  - 1. „Ministre/a ďAfers Exteriors, Cultura i cooperació“
+  - 1. Ministre/a d’Afers Exteriors, Cultura i Cooperació
 
-  - 2. „Ministre/a de Justícia i Interior“
+  - 2. Ministre/a de Justícia i Interior
 
-  - 3. „Ministre/a ďEconomia“
+  - 3. Ministre/a d’Economia
 
-  - 4. „Director/a de política exterior, afers bilaterals i Unió Europea“
+  - 4. Director/a d’afers bilaterals i Unió Europea
 
-  - 5. „Director/a ďafers multilaterals i cooperació al desenvolupament“
+  - 5. Director/a d’afers multilaterals i cooperació al desenvolupament
 
-  - 6. „Cap ďÁrea ďafers generals del Ministeri ďAfers Exteriors“
+  - 6. Director/a d’afers jurídics i consulars
+
+  - 7. Cap d’Area d’afers generals del Ministeri d’Afers Exteriors, Cultura i Cooperació
 
     - Antigua a Barbuda
 
