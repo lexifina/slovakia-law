@@ -32,7 +32,11 @@ Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v
 
 - d)
 
-- prostredníctvom sponzorstva tabakového výrobku,“.
+- prostredníctvom sponzorstva tabakového výrobku,
+
+- e)
+
+- uvádzaním ochrannej známky, emblému, názvu alebo iného výrazného znaku tabakového výrobku okrem ich uvádzania na miestach predaja tabakových výrobkov.“.
 
 - 3. V § 6 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
