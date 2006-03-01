@@ -1,1 +1,0 @@
-- 1) Zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení neskorších predpisov.
