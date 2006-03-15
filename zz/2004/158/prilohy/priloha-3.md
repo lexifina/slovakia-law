@@ -4,32 +4,36 @@ Príloha č. 3 k vyhláške č. 158/2004 Z. z.
 
   - 1. Označenie CE so všetkými sprievodnými údajmi vyžadovanými harmonizovanou európskou normou
 
-- ![obrázok 01](../assets/94840ff5b1db7bb24ae9d3771377017ade5da9fd67ba2d0960640a4a5c6c5b06.tiff)
+- ![Obrázok 03-1](../assets/7bb2aeab8e0ac5305979ce8e192553a8cb4727a3f80fde3dbbbdb73cc7a3780d.png)
 
   - 2. Označenie CE s minimálnymi sprievodnými údajmi
 
-- ![obrázok 02](../assets/6f2044b211deb4823f462a5e752f3a40a28724ea8ae7a215e79ac6b288fcca7b.tiff)
+- ![Obrázok 03-2](../assets/7631922d83888e60d3e013c57c5651775dbfc53ef023e0502475bcfd7d98a8e5.png)
 
   - 3. Slovenská značka zhody C<sub>SK</sub> so všetkými sprievodnými údajmi podľa tejto vyhlášky a neharmonizovanej slovenskej technickej normy
 
-- ![obrázok 03](../assets/f483f1555db7cfe706174b8eae292093b01735597fefd3a4da62a637d40266d5.tiff)
+- ![Obrázok 03-3](../assets/c168650d2686b05ec5b723267342d1c9fd2c3516b1feec9cde5cc0381d02fade.png)
 
   - 4. Slovenská značka zhody C<sub>SK</sub> s minimálnymi sprievodnými údajmi
 
-- ![obrázok 04](../assets/4b1b3693a4b2b98391c3a37500becb6c552031e70183d0c73b24a06b164c0607.tiff)
+  - a) na výrobok s preukázanou zhodou v systéme 1+ alebo 1 (s technickým osvedčením č. TO-04/1234)
 
-  - a) na výrobok s preukázanou zhodou v systéme 1
+- ![Obrázok 03-4-a](../assets/cc3e4fb2906b44518fed7f77d1fb5b6acdbcce05f430047d3ae2770189715689.png)
 
-- ![obrázok 05](../assets/ba6523a9d395d110d17d67f966acf6f08771958bc15d841074e664f9a9dd19a8.tiff)
+  - b) na výrobok s preukázanou zhodou v systéme 2+ (s normou STN EN 206-1)
 
-  - b) na výrobok s preukázanou zhodou v systéme 2+
+- ![Obrázok 03-4-b](../assets/ac510748aee1084dd8f1299ac96c38fe1be38a652811ed3924723591368345e3.png)
 
-- ![obrázok 06](../assets/395a34002a3ae064b7f052b2ddc5f9e9f91aad4c9dfa0eb31847681d94568e27.tiff)
+  - c) na výrobok s preukázanou zhodou v systéme 2, 3 alebo 4 (s technickým osvedčením č. TO-05/1333)
 
-  - c) na výrobok s preukázanou zhodou v systéme 4
+- ![Obrázok 03-4-c](../assets/77aecb979ad45864844d951a8935031f953a91baa1be5ef328f0df157c4e32a9.png)
 
 - Poznámky:
 
-  - a) Tvar a veľkosť písmen označenia CE a slovenskej značky zhody C<sub>SK</sub>, spôsoby vyhotovenia a zabezpečenia proti opätovnému použitiu určujú § 19 a 20 a príloha zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody v znení neskorších predpisov.
+  - a) Tvar a veľkosť písmen označenia CE a slovenskej značky zhody C<sub>SK</sub>, spôsoby vyhotovenia a zabezpečenia proti opätovnému použitiu upravuje § 18, § 19, § 21 a príloha k zákonu č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
-  - b) Kód autorizovanej osoby pri slovenskej značke zhody C<sub>SK</sub> sa skladá z písmena C, resp. písmena I, medzery a dvojciferného poradového čísla prideleného autorizovanej osobe Ministerstvom výstavby a regionálneho rozvoja Slovenskej republiky. Pripája sa len kód autorizovanej osoby, ktorá vydala certifikát zhody v rámci preukazovania zhody systémom 1+ alebo 1, resp. certifikát vnútropodnikovej kontroly v rámci preukazovania zhody systémom 2+. V iných systémoch preukazovania zhody sa kód autorizovanej osoby k značke nepridáva.
+  - b) Na označenie CE sa harmonizovaná norma uvádza bez národných prefixov, ako sú STN, ČSN, DIN a pod.
+
+  - c) Kód autorizovanej osoby pri značke C<sub>SK</sub>pozostáva z písmena C, resp. I a z dvojciferného poradového čísla prideleného autorizovanej osobe ministerstvom, ktorá vydala certifikát zhody v rámci preukazovania zhody systémom 1+ alebo 1, resp. certifikát vnútropodnikovej kontroly v rámci preukazovania zhody systémom 2+. V iných systémoch preukazovania zhody sa kód autorizovanej osoby k značke nepridáva.
+
+  - d) Písmená i číslice v značke C<sub>SK</sub> vrátane kódu autorizovanej osoby sú typu Gothic No. 13. Veľkosť písmena a čísla kódu autorizovanej osoby je približne 50 % z veľkosti písmen SK.

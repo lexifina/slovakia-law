@@ -1,38 +1,56 @@
-- 1) STN EN 13501-1:2002 Požiarna klasifikácia stavebných výrobkov a stavebných prvkov. Klasifikácia založená na výsledkoch zo skúšok na reakciu na oheň. (Index „FL“ je použitý z angl. výrazu Flooring – podlaha).
+- 1) STN EN 13501-1:2004 Klasifikácia požiarnych charakteristík stavebných výrobkov a prvkov stavieb. Časť 1: Klasifikácia využívajúca údaje zo skúšok na reakcie na oheň.
 
-- 1) Funkcia „oddeľovanie“ sa môže deklarovať len v spojení s funkciami „filtrácia“, „vystužovanie“ alebo „ochrana“, pričom výrobca v súvislosti s funkciou „oddeľovanie“ nevydáva osobitné vyhlásenie zhody.
+- 2) Rozhodnutie Komisie č. 2003/632/ES z 26. augusta 2003, ktorým sa mení a dopĺňa rozhodnutie č. 2000/147/ES, ktorým sa vykonáva smernica Rady 89/106/EHS s ohľadom na klasifikáciu požiarnej odolnosti stavebných výrobkov (Ú. v. EÚ L 220, 3. 9. 2003).
 
-- 2) Výraz „konštrukčný“ charakterizuje účel výrobku v stavbe ako časti konštrukcie stavby zabezpečujúcej stabilitu stavby (nosný prvok) alebo aj samonosného prvku, ktorý prenáša aj vonkajšie zaťaženie (napr. zaťaženie vetrom).
+- 3) Rozhodnutie Komisie č. 2001/671/ES z 21. augusta 2001, ktorým sa vykonáva smernica Rady 89/106/EHS, pokiaľ ide o klasifikáciu striech a strešných krytín z hľadiska zaťaženia vonkajším požiarom (Ú. v. ES L 235, 4. 9. 2001) v platnom znení.
 
-- 3) Výrazy „betónové“ alebo „z betónu“ charakterizujú výrobok vyrobený z hutného, ľahkého alebo z autoklávového prevzdušneného betónu, a to s výstužou alebo bez nej.
+- 4) STN P ENV 1187:2004 Zaťaženie striech vonkajším požiarom. Skúšobné metódy.
 
-- 4) Podľa vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 524/2002 Z. z., ktorou sa ustanovujú podrobnosti o výkone odborného technicko-bezpečnostného dohľadu a o zaraďovaní vodných diel do jednotlivých kategórií.
+- 5) STN EN 13501-2:2005 Klasifikácia požiarnych charakteristík stavebných výrobkov a prvkov stavieb. Časť 2: Klasifikácia využívajúca údaje zo skúšok požiarnej odolnosti (okrem ventilačných zariadení).
 
-- 5) Základným účelom je taký účel výrobku v stavbe, pri ktorom sa pre danú skupinu alebo skupiny výrobkov nedeklaruje špecifický účel alebo použitie v takých stavbách alebo v častiach stavieb, na ktoré sa vzťahujú špecifické predpisy, požiadavky alebo vlastnosti, ktoré sa uvádzajú v texte pod základným účelom. Ak sa uplatní jeden systém alebo viaceré systémy preukazovania zhody vyžadované pri rešpektovaní špecifík, tento systém alebo systémy sa uplatnia spolu so systémom predpísaným pre základný účel, pričom výrobca vydá len jedno vyhlásenie zhody.
+- 6) Smernica Európskeho parlamentu a Rady 98/34/ES o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v platnom znení (Ú. v. ES L 204, 21. 7. 1998).
 
-- 6) Vzťahuje sa na skupiny 0401 a 0404.
+- 1) Triedy uvedené v tabuľke platia pre nespojené dosky, pre spojené dosky T&G a dosky s úplne podopretými spojmi inštalovanými podľa STN P ENV 12872: 2001 Dosky na báze dreva. Návod na používanie nosných dosiek na podlahy, steny a stropy.
 
-- 7) Výrobok z hľadiska klasifikácie reakcie na oheň zodpovedá § 3 ods. 4 písm. a) vyhlášky.
+- 2) STN EN 300: 1999 Dosky z orientovaných triesok (OSB). Definície, triedenie a požiadavky.
 
-- 8) Výrobok z hľadiska klasifikácie reakcie na oheň zodpovedá § 3 ods. 4 písm. b) vyhlášky.
+- 3) STN EN 312: 2004 Trieskové dosky. Špecifikácie.
 
-- 9) Výrobok z hľadiska klasifikácie reakcie na oheň zodpovedá § 3 ods. 2 alebo ods. 3 vyhlášky.
+- 4) STN EN 622-2: 2004 Vláknité dosky. Špecifikácie. Časť 2: Požiadavky na tvrdé dosky.
 
-- 10) Vzťahuje sa na skupiny 0404 a 0405.
+- 5) STN EN 622-3: 2004 Vláknité dosky. Špecifikácie. Časť 2: Požiadavky na polotvrdé dosky.
 
-- 11) Zloženie navrhovanej malty a spôsob výroby sa volí s cieľom dosiahnuť špecifikované vlastnosti (koncepcia kvality). Malta predpísaného zloženia sa vyrába podľa predpísanej receptúry (koncepcia receptúry).
+- 6) STN EN 622-4: 2000 Vláknité dosky. Špecifikácie. Časť 2: Požiadavky na mäkké dosky.
 
-- 12) Druh I zahŕňa prímesi z inertných alebo takmer inertných materiálov. Druh II zahŕňa prímesi z aktívnych materiálov.
+- 7) STN EN 622-5: 2000 Vláknité dosky. Špecifikácia. Časť 5: Požiadavky na dosky vyrobené suchým spôsobom (MDF).
 
-- 13) Murovacie prvky kategórie I majú zaručenú pevnosť v tlaku s pravdepodobnosťou porušenia nie väčšou ako 5 % na rozdiel od kategórie II s nezaručenou mierou spoľahlivosti.
+- 8) STN EN 634-2: 1999 Cementovotrieskové dosky. Špecifikácia. Časť 2: Požiadavky na trieskové dosky spojené obyčajným portlandským cementom na použitie v suchom, vlhkom a vonkajšom prostredí.
 
-- 14) Vzťahuje sa len na prvky s integrovanými tepelnoizolačnými materiálmi, pričom sa uplatní aj systém preukazovania zhody podľa kategórie prvku.
+- 9) STN EN 636: 2004 Preglejované dosky. Špecifikácie.
 
-- 15) Zvýšenie tuhosti konštrukcie a súvisiaci systém preukazovania zhody sa vzťahuje na skupinu 2003.
+- 10) STN EN 13353: 2005 Dosky z prírodného dreva (SWP). Požiadavky.
 
-- 16) Systémy typu I a III, na rozdiel od systémov typu II a IV, obsahujú prvky znižujúce riziko v prípade zlyhania lepených spojov.
+- 10a) Ide o vegetačné dielce podľa STN 73 6131-3 na málo zaťažené dopravné plochy.
 
-- 17) Vzťahuje sa na skupinu 2504.
+- 10b) Vzťahuje sa na poklopy a vtokové mreže.
+
+- 11) STN EN 520: 2005 Sadrokartónové dosky. Definície, požiadavky a skúšobné metódy.
+
+- 12) STN EN ISO 536: 1999 Papier a lepenka. Určenie plošnej hmotnosti.
+
+- 13) STN EN 438-7: 2005 Dekoratívne vysokotlakové lamináty (HPL). Dosky na báze reaktoplastových živíc (lamináty). Časť 7: Kompaktné laminátové a HPL zložené dosky na vnútorné a vonkajšie steny a konečnú úpravu stropov.
+
+- 13a) Vrátane nosných stropných tehlových alebo betónových tvaroviek a dosiek.
+
+- 14) STN EN 438-4: 2005 Dekoratívne vysokotlakové lamináty (HPL). Dosky na báze reaktoplastových živíc (lamináty). Časť 4: Klasifikácia a špecifikácia kompaktných laminátov s hrúbkou 2 mm a väčšou.
+
+- 15) STN EN 438-3: 2005 Dekoratívne vysokotlakové lamináty (HPL). Dosky na báze reaktoplastových živíc (lamináty). Časť 3: Klasifikácia a špecifikácia laminátov s hrúbkou menšou ako 2 mm určených na nalepenie na podklad.
+
+- 15a) KZS zodpovedá anglickej terminológii ETICS – External Thermal Insulation Composite Systems.
+
+- 16) STN EN 13986: 2005 Dosky na báze dreva na používanie v konštrukciách. Vlastnosti, preukazovanie zhody a označovanie.
+
+- 17) Kondicionované podľa STN EN 13238: 2003 Skúšky reakcie stavebných výrobkov na oheň. Postupy kondicionovania a všeobecné pravidlá pre výber podkladov.
 
 - 18) Vzťahuje sa len na skupinu 2603.
 
@@ -42,7 +60,9 @@
 
 - 21) Vzťahuje sa len na obkladačky a panely z krehkých materiálov, obkladačky a panely určené na zavesené podhľady a výrobky skupín 3902 a 3903.
 
-- 22) Vzťahuje sa len na držiaky potrubí, ventily a kohúty a na bezpečnostné zariadenia.
+- 21a) Podľa STN 75 0150.
+
+- 22) Vzťahuje sa len na držiaky potrubí, armatúry a na bezpečnostné zariadenia.
 
 - 23) Vzťahuje sa len na nádrže.
 

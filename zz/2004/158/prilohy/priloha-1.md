@@ -20,7 +20,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 0102 | Geotextílie a geotextíliám podobné výrobky do podzemných stavieb a tunelov alebo do stavieb na zadržiavanie kvapalných odpadov | | 2+
 
-- 0103 | Stabilizačné a hydroizolačné zmesi do podložia stavieb | | 2+
+- 0103 | Stabilizačné a hydroizolačné zmesi do podložia stavieb vrátane podložia násypu pozemnej komunikácie alebo železničnej trate | | 2+
 
 - 0104 | Prefabrikované pilóty a súvisiace konštrukčné prvky<sup>2</sup>) | | 2+
 
@@ -54,13 +54,15 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - PPB – predpisy o požiarnej bezpečnosti,
 
-- ROE – reakcia na oheň v exteriéri.
+- RVO – reakcia na vonkajší oheň,
+
+- TRO – trieda reakcie na oheň.
 
 - Membrány proti vlhkosti, vode a radónu | | |
 
-- 0401 0402 0403 0404 0405 | Hydroizolačné a/alebo protiradónové fólie pre nadzemné podlažie (nepodpivničené) alebo pre podzemné priestory (pivničné) Hydroizolačné pásy pre murované steny Parozábrany a paropriepustné vrstvy pre steny alebo strechy Strešné povlakové fólie a iné strešné membránové povlaky Strešné podkladové vrstvy | Na základný účel<sup>5</sup>) | 32+<sup>6</sup>)
+- 0401 0402 0403 0404 0405 0406 | Hydroizolačné a/alebo protiradónové fólie pre nadzemné podlažie (nepodpivničené) alebo pre podzemné priestory (pivničné) Hydroizolačné pásy pre murované steny Parozábrany a paropriepustné vrstvy pre steny alebo strechy Strešné povlakové fólie a iné strešné membránové povlaky Strešné podkladové vrstvyHydroizolačné náterové látky, malty a tmely pre nadzemné podlažia alebo podzemné priestory stavieb, alebo pod dlažby a obklady | Na základný účel<sup>5</sup>) | 32+<sup>6</sup>)
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reak- cie na oheň, resp. potreby skúšania ROE: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa TRO, resp. potreby skúšania RVO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -68,9 +70,9 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | (A1 až E)<sup>9</sup>), F | 4
 
-- | | výrobky vyžadujúce skúšanie ROE<sup>10</sup>) | 3
+- | | výrobky vyžadujúce skúšanie RVO<sup>10</sup>) | 3
 
-- | | výrobky nevyžadujúce skúšanie ROE<sup>10</sup>) | 4
+- | | výrobky nevyžadujúce skúšanie RVO<sup>10</sup>) | 4
 
 - Výrobky pre cesty, chodníky a iné dopravné plochy | | |
 
@@ -78,15 +80,15 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 0502 | Asfaltové zmesi pre konštrukcie ciest a povrchové úpravy dopravných plôch a špeciálne výrobky na povrchové úpravy dopravných plôch | Na základný účel<sup>5</sup>) | 2+
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
-- | | (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>)<sup>7</sup>) | 1
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>)<sup>7</sup>) | 1
 
-- | | (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>)<sup>8</sup>), D<sub>FL</sub>, E<sub>FL</sub> | 3
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>)<sup>8</sup>), D<sub>fl</sub>, E<sub>fl</sub> | 3
 
-- | | (A1<sub>FL</sub> to E<sub>FL</sub>)<sup>9</sup>), F<sub>FL</sub> | 4
+- | | (A1<sub>fl</sub> to E<sub>fl</sub>)<sup>9</sup>), F<sub>fl</sub> | 4
 
-- 05030504 | Kamenivo do nestmelených a hydraulicky stmelených materiálov pre konštrukcie ciest Kamenivo do bitúmenových zmesi a na povrchové úpravy pre cesty, letiská a iné dopravné plochy | Podľa účelu: |
+- 0503 0504 | Kamenivo do nestmelených a hydraulicky stmelených materiálov pre konštrukcie ciest Kamenivo do bitúmenových zmesi a na povrchové úpravy pre cesty, letiská a iné dopravné plochy | Podľa účelu: |
 
 - | | do obrusných vrstiev | 2+
 
@@ -94,7 +96,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 0505 | Betóny pre cementobetónové kryty vozoviek | | 2+
 
-- 0506 | Dilatačné čapy a zálievky pre betónové<sup>3</sup>) vozovky | | 4
+- 0506 | Klzné tŕne a zálievky pre betónové<sup>3</sup>) vozovky | | 4
 
 - 0507 | Dosky, dlažbové kocky a obrubníky z prírodného kameňa na vonkajšie dlažby | | 4
 
@@ -102,7 +104,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 0509 | Dlažbové tehly | | 4
 
-- 0510 | Dlažbové prvky zahŕňajúce dlažbové kocky, dlaždice, obrubníky (okrem výrobkov skupín 0507 až 0509), sklobetónové svetlíky, podlahy z kovových platní, tuhé dlážkoviny, bridlice, mozaiky, terazzové dlaždice a platne z mrežového plechu alebo roštov | | 4
+- 0510 | Dlažbové prvky zahŕňajúce dlažbové kocky, dlaždice, obrubníky (okrem výrobkov skupín 0507 až 0509), sklobetónové svetlíky, podlahy z kovových platní, platne z mrežového plechu alebo roštov, tuhé dlážkoviny, bridlice, mozaiky, terazzové dlaždice a vegetačné dielce<sup>10a</sup>) | | 4
 
 - 0511 | Cestné záchytné systémy - zvodidlá, nárazové vankúše, premiestniteľné bariéry, laná a rímsy | | 1
 
@@ -168,31 +170,23 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 0805 | Drevené stožiare pre nadzemné elektrické vedenia | | 2+
 
-- 0806 | Ostatné stožiare pre nadzemné elektrické vedenia | | 2+
+- 0806 | Ostatné prefabrikované stožiare alebo ich prefabrikované konštrukčné časti pre nadzemné elektrické vedenia, telekomunikačné zariadenia, veterné elektrárne a podobné zariadenia | | 2+
 
 - Výrobky na odpadovú a povrchovú (dažďovú) vodu | | |
 
-- 0901 | Rúry a tvarovky z prostého betónu, betónu vystuženého oceľovým vláknom a železobetónu s tesnením alebo bez tesnenia | | 4
+- 0901 | Rúry a tvarovky z prostého betónu, betónu vystuženého oceľovým vláknom a železobetónu s tesnením alebo bez tesnenia na kanalizačné potrubia | | 4
 
-- 0902 | Rúry a tvarovky na odpadovú vodu ostatné a tesnenia odpadových potrubí | | 4
+- 0902 | Rúry a tvarovky ostatné a tesnenia na kanalizačné potrubia | | 4
 
-- 0903 | Nádrže septikov a žúmp | | 3
+- 0903 0904 0905 | Rúry a tvarovky na odpadové potrubia budov Vstupné šachty a revízne komory kanalizačných potrubí vrátane stúpadiel, rebríkov a zábradlí Prevzdušňovacie ventily na odpadové potrubia budov | Na základný účel<sup>5</sup>) Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: (A1, A2, B, C)<sup>7</sup>) (A1, A2, B, C),<sup>8</sup>) D, E (A1 až E),<sup>9</sup>) F | 4 1 3 4
 
-- 0904 | Vstupné šachty a revizne komory vrátane stúpadiel, rebríkov a zábradlí | | 4
+- 0906 0907 | Čerpacie stanice odpadových vôd a spätné klapky na odpadové vody na použitie vnútri budov Systémy a prvky domových čistiarní odpadových vôd a nádrže žúmp | Na základný účel<sup>5</sup>) Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: (A1, A2, B, C)<sup>7</sup>) (A1, A2, B, C),<sup>8</sup>) D, E (A1 až E),<sup>9</sup>) F | 3 1 3 4
 
-- 0905 | Ventily na vstup vzduchu do gravitačných odpadových potrubí počas podtlaku (na ochranu sifónov - zápachových uzáverov) | | 4
-
-- 0906 | Čerpacie stanice odpadových vôd a spätné klapky na odpadové vody na použitie vnútri budov | | 3
-
-- 0907 | Systémy a prvky domových čistiarní odpadových vôd | | 3
-
-- 0908 | Lapače a odlučovače (separátory) pre odpadové vody z budov a inžinierskych stavieb vrátane ciest | | 4
-
-- 0909 | Vpusty, poklopy a vtokové mreže na použitie na vozovkách, odstavných pruhoch, parkoviskách a spevnených plochách mimo budov | | 4
+- 0908 0909 | Lapače a odlučovače (separátory) pre odpadové vody z budov a inžinierskych stavieb vrátane ciest Vpusty, poklopy a vtokové mreže na použitie na vozovkách, odstavných pruhoch, parkoviskách a spevnených plochách mimo budov | Na základný účel<sup>5</sup>) Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: (A1, A2, B, C)<sup>7</sup>) (A1, A2, B, C),<sup>8</sup>) D, E (A1 až E),<sup>9</sup>) F | 4 1<sup>10b</sup>) 1 3 4
 
 - 0910 | Rámové priepusty z betónu<sup>3</sup>) | | 4
 
-- 0911 | Odvodňovacie žľaby na komunikácie a plochy pre vozidlá a chodcov | | 3
+- 0911 | Odvodňovacie žľaby na komunikácie a plochy pre vozidlá a chodcov | Na základný účel<sup>5</sup>) Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: (A1, A2, B, C)<sup>7</sup>) (A1, A2, B, C),<sup>8</sup>) D, E (A1 až E),<sup>9</sup>) F | 3 1 3 4
 
 - 0912 | Podlahové vpusty | | 4
 
@@ -206,11 +200,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - Kamenivo do betónu a mált | | |
 
-- 1101 | Kamenivo do betónu | Podľa účelu: |
-
-- | | do betónov pevn. tried C12/15 až C100 /115, resp. LC12 /15 až LC 80/88 | 2+
-
-- | | do betónov nižších pevnostných tried | 4
+- 1101 | Kamenivo do betónu | | 2+
 
 - 1102 | Kamenivo do malty | Podľa účelu: |
 
@@ -220,33 +210,29 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 1103 | Ľahké kamenivo do betónu, malty a injektážnej malty | Podľa účelu: |
 
-- | | do betónov pevnostných tried C 12/15 až C 100/115, resp. LC 12/15 až LC 80/88 a murovacích a injektážnych mált | 2+
+- | | do betónov a murovacích a injektážnych mált | 2+
 
-- | | do betónov nižších tried a ostatných mált | 4
+- | | do ostatných mált | 4
 
 - Cementy, vápna a iné spojivá | | |
 
 - 1201 | Cementy a zmesné cementy (bežné) na prípravu betónu, malty, injektážnej (zalievkovej) malty a ostatných zmesí | | 1 +
 
-- 1202 | Špeciálne cementy (odolné proti nízkym teplotám, biele cementy, cementy odolné proti síre, proti morskej vode, nízko alkalické cementy, hlinitano-vápenaté cementy, murovacie cementy a cestné cementy) na prípravu betónu, malty, injektážnej (zalievkovej) malty a ostatných zmesí | | 1 +
+- 1202 | Špeciálne cementy (odolné proti nízkym teplotám, biele cementy, cementy odolné proti síre, proti morskej vode, nízko alkalické cementy, hlinitano-vápenaté cementy, s veľmi nízkym hydratačným teplom, vysokopecné cementy s nízkou začiatočnou pevnosťou, murovacie cementy a cestné cementy) na prípravu betónu, malty, injektážnej (zalievkovej) malty a ostatných zmesí | | 1 +
 
 - 1203 | Stavebné vápna vrátane páleného vápna, dolomitického vápna a hydraulického vápna na prípravu betónu, malty, injektážnej (zalievkovej) malty a ostatných zmesí | | 2
 
-- 1204 | Hydraulické spojivá na výrobu zmesí do podkladových vrstiev dopravných plôch | | 2+
+- 1204 | Hydraulické spojivá na výrobu zmesí do podkladových vrstiev dopravných plôch a hydraulické spojivá na výrobu mált | | 2+
 
 - Betóny, malty, injektážne zmesi, prísady a prímesi | | |
 
-- 1301 | Betóny pevnostných tried C 8/10 až C 100/115, resp. LC 8/9 až LC 80/88 | Podľa pevnostných tried: |
+- 1301 | Betóny všetkých pevnostných tried vyrábané v stabilných alebo mobilných betonárňach | | 2+
 
-- | | C 12/15 až C 100/115, resp. LC 12/15 až LC 80/88 | 2+
-
-- | | nižšie triedy | 4
-
-- 1302 | Vodostavebné betóny | | 2+
+- 1302 | Zrušená od 15. 3. 2006. | |
 
 - 1303 | Striekané betóny | | 2+
 
-- 1304 | Injektážne zmesi a cementové suspenzie | | 2+
+- 1304 | Zmesi na injektážne alebo zálievkové malty | | 2+
 
 - 1305 | Priemyselne vyrábané malty na murovanie | Podľa druhu:<sup>11</sup>) |
 
@@ -294,7 +280,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | kategória II | 4
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň:<sup>14</sup>) |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO:<sup>14</sup>) |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -308,15 +294,17 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 1701 | Debniace systémy na báze dutých blokov (debniace tvarovky) alebo panelov prepojených rozperkami, vyrobených z izolačných materiálov alebo z kombinácie izolačných a iných materiálov, ktoré sa vypĺňajú betónom, prípadne betónom s výstužou, slúžiace na konštrukcie nenosných i nosných vnútorných i vonkajších stien | Na základný účel<sup>5</sup>) | 2+
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>3</sup>) | 1
 
 - | | (A1, A2, B, C),<sup>8</sup>)D, E, (A1 až E),<sup>9</sup>) F | 2+
 
+- 1702 | Debniace systémy na báze betónových debniacich tvaroviek alebo panelov z betónu prepojených rozperkami | Podľa nosnosti: nosné nenosné | 2+ 4
+
 - Nosné prvky rámových, stenových, stropných a strešných konštrukcií budov | | |
 
-- 1801 | Konštrukčné<sup>2</sup>) prefabrikované nosníky, väzníky, stĺpy a dosky z betónu,<sup>3</sup>) z murovacích prvkov - alebo kovové - nechránené alebo chránené proti korózii náterom, zvárané alebo nezvárané | | 2+
+- 1801 | Konštrukčné<sup>2</sup>) prefabrikované nosníky, väzníky, stĺpy a dosky z betónu,<sup>3</sup>) z murovacích prvkov<sup>13a</sup>) - alebo kovové - nechránené alebo chránené proti korózii náterom, zvárané alebo nezvárané | | 2+
 
 - 1802 | Konštrukčné<sup>2</sup>) nosníky, väzníky, stĺpy a dosky z lepeného lamelového dreva | | 1
 
@@ -354,43 +342,43 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
-- | | (A1, A2, B, C),<sup>8</sup>)D, E | 3
+- | | (A1, A2, B, C),<sup>8</sup>) D, E | 3
 
 - | | (A1 až E),<sup>9</sup>) F | 4
 
 - 2002 2003 | Prefabrikované konštrukčné<sup>2</sup>) panely na báze dreva v tvare uzavretých alebo otvorených kaziet, opláštené z vnútornej strany a/alebo aj z vonkajšej strany, prípadne obsahujúce membránu, izoláciu, výstužné a upevňovacie prvky, určené na konštrukcie stien, podláh, striech a pod. Samonosné kompozitné ľahké panely skladajúce sa z opláštenia (z rozličných organických, minerálnych alebo kovových materiálov) z vonkajšej strany a/alebo aj z vnútornej strany, spojeného s prípadným vnútorným rámom a s prípadným izolačným jadrom, určené na konštrukcie vnútorných alebo vonkajších stien, stropov a striech a na obklady stien | Na základný účel<sup>5</sup>) | 4
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reak- cie na oheň, resp. potreby skúšania ROE: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO, resp. potreby skúšania RVO: |
 
-- | | (A1, A2, B, C),<sup>7</sup>) (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>)<sup>7</sup>) | 1
+- | | (A1, A2, B, C),<sup>7</sup>) (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>)<sup>7</sup>) | 1
 
-- | | (A1, A2, B, C),8) D, E, (A1<sub>FL</sub>,A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>),<sup>8</sup>) D<sub>FL</sub>, E<sub>FL</sub> | 3
+- | | (A1, A2, B, C),8) D, E, (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>),<sup>8</sup>) D<sub>fl</sub>, E<sub>fl</sub> | 3
 
-- | | (A1 až E),<sup>9</sup>) F, (A1<sub>FL</sub>až E<sub>FL</sub>),<sup>9</sup>) F<sub>FL</sub> | 4
+- | | (A1 až E),<sup>9</sup>) F, (A1<sub>fl</sub> až E<sub>fl</sub>),<sup>9</sup>) F<sub>fl</sub> | 4
 
-- | | Výrobky vyžadujúce skúšanie ROE | 3
+- | | Výrobky vyžadujúce skúšanie RVO | 3
 
-- | | Výrobky nevyžadujúce skúšanie ROE | 4
+- | | Výrobky nevyžadujúce skúšanie RVO | 4
 
-- | | Na použitie v požiarnych úsekoch | 3
+- | | Na delenie požiarnych úsekov | 3
 
-- | | Na zvýšenie únosnosti, resp. tuhosti<sup>15</sup>) konštrukcie | 1315)
+- | | Na zvýšenie únosnosti, resp. tuhosti<sup>15</sup>) konštrukcie | 13<sup>15</sup>)
 
 - | | Na použitie podľa PNL | 3
 
 - Tepelnoizolačné výrobky a systémy | | |
 
-- 2101 | Tepelnoizolačné systémy na vonkajšiu tepelnú izoláciu stien (ETICS) na báze mechanicky upevňovaných alebo lepených tepelnoizolačných dosák omietaných jednou alebo viacerými vrstvami malty | Na základný účel<sup>5</sup>) | 2+
+- 2101 | Tepelnoizolačné systémy na vonkajšiu tepelnú ochranu stien (kontaktné zatepľovacie systémy – KZS)<sup>15a</sup>) na báze mechanicky upevňovaných alebo lepených tepelnoizolačných dosák omietaných jednou alebo viacerými vrstvami malty | Na základný účel<sup>5</sup>) | 2+
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
 - | | (A1, A2, B, C),<sup>8</sup>) D, E, (A1 až E),<sup>9</sup>) F | 2+
 
-- 2102 2103 2104 2105 2106 | Tepelnoizolačné systémy na vonkajšiu tepelnú izoláciu stien (Vetures) skladajúce sa z vonkajších obkladových prvkov, tepelnoizolačnej vrstvy a upevňovacích prvkov. Obkladové prvky sa môžu dodávať už spojené s izolačnou vrstvou alebo sa tieto elementy spájajú na stavbe. Upevňujú sa tak, aby medzi izolačnou vrstvou a stenou nebola vzduchová medzera Priemyselne vyrábané tepelnoizolačné výrobky vo forme dosák, rohoží, rolovaných pásov - alebo v inej forme - z minerálnej vlny, expandovaného polystyrénu, extrudovaného polystyrénu, tvrdej polyuretánovej a polyizokyanurátovej peny, fenolovej peny, penového skla, drevitej vlny, expandovaného perlitu, expandovaného korku, alebo z drevených vláken - určené na tepelnú izoláciu budov Tepelnoizolačné výrobky formované - nanášané na mieste zo sypanej minerálnej vlny, expandovaného ľahčeného ílovitého plniva, expandovaného perlitu, lúpaného vermikulitu, sypanej celulózy, polyuretánovej peny alebo močovinovo- formaldehydovej peny Tepelnoizolačné výrobky vo forme obložených alebo neobložených blokov, dosák, rúrových profilov, lamiel a prefabrikovaných výrobkov z minerálnej vlny, pružnej kaučukovitej peny, penového skla, kremičitanu vápenatého, expandovaného polystyrénu, extrudovaného polystyrénu, expandovaného polyetylénu, polyuretánovej a polyizokyanurátovej peny- určené na technické zariadenia budov a priemyselné inštalácie Tepelnoizolačné výrobky na cesty, železničné trate a iné použitie v stavebníctve (ľahké výplňové a protimrazové izolácie, zníženie bočného tlaku zeminy na podporných múroch a mostných pilieroch, rozloženie zaťaženia na zakopanom potrubí v kanáloch a pod.) | Na základný účel<sup>5</sup>) | 3
+- 2102 2103 2104 2105 2106 | Tepelnoizolačné systémy na vonkajšiu tepelnú ochranu stien (Vetures) skladajúce sa z vonkajších obkladových prvkov, tepelnoizolačnej vrstvy a upevňovacích prvkov. Obkladové prvky sa môžu dodávať už spojené s izolačnou vrstvou alebo sa tieto elementy spájajú na stavbe. Upevňujú sa tak, aby medzi izolačnou vrstvou a stenou nebola vzduchová medzera Priemyselne vyrábané tepelnoizolačné výrobky vo forme dosák, rohoží, rolovaných pásov alebo v inej forme, určené na tepelnú izoláciu budov Tepelnoizolačné výrobky formované alebo nanášané na mieste zo sypaných alebo penových materiálov, určené na tepelnú izoláciu budov Tepelnoizolačné výrobky v rôznych formách, určené na technické zariadenia budov a priemyselné inštalácie Tepelnoizolačné výrobky na cesty, železničné trate a iné použitie v stavebníctve (ľahké výplňové a protimrazové izolácie, zníženie bočného tlaku zeminy na podporných múroch a mostných pilieroch, rozloženie zaťaženia na zakopanom potrubí v kanáloch a pod.) | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -402,7 +390,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 2201 | Závesné steny | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -416,7 +404,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 2203 | Samonosné priesvitné strešné systémy (okrem zostávna báze skla) | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reak- cie na oheň, resp. potreby skúšania ROE: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO, resp. potreby skúšania RVO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -424,15 +412,15 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | (A1 až E),<sup>9</sup>) F | 4
 
-- | | výrobky vyžadujúce skúšanie ROE | 3
+- | | výrobky vyžadujúce skúšanie RVO | 3
 
-- | | výrobky nevyžadujúce skúšanie ROE | 4
+- | | výrobky nevyžadujúce skúšanie RVO | 4
 
 - Strešné skladané krytiny, strešné okná a svetlíky | | |
 
 - 2501 2502 2503 2504 | Strešné krytiny keramické a betónové, vláknocementové, bridlicové, kamenné a asfaltové, šindle a vlnovkyPloché a tvarované tabule (z kovových plechov, plastov a pod.) Priemyselne vyrábané kompozitné a sendvičové strešné panely s izoláciou alebo bez nej Strešné okná a strešné svetlíky | Na základný účel<sup>5</sup>) | 431<sup>7</sup>)
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reak- cie na oheň, resp. potreby skúšania ROE: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO, resp. potreby skúšania RVO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -440,23 +428,23 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | (A1 až E),<sup>9</sup>) F | 4
 
-- | | výrobky vyžadujúce skúšanie ROE | 3
+- | | výrobky vyžadujúce skúšanie RVO | 3
 
-- | | výrobky nevyžadujúce skúšanie ROE | 4
+- | | výrobky nevyžadujúce skúšanie RVO | 4
 
-- | | Na použitie v požiar- nych úsekoch | 3
+- | | Na použitie v požiarnych úsekoch | 3
 
-- | | Na použitie prispieva- júce k tuhosti strechy | 3
+- | | Na použitie prispievajúce k tuhosti strechy | 3
 
 - | | Na použitie podľa PNL | 3
 
 - Strešné membránové a liate výrobky | | |
 
-- 2601 | Parozábrany a paropriepustné vrstvy, strešné podkladové vrstvy a strešné povlakové fólie a iné strešné membránové povlaky | Poznámka: Výrobky sú zahrnuté v skupi- nách 0403, 0404 a 0405 |
+- 2601 | Parozábrany a paropriepustné vrstvy, strešné podkladové vrstvy a strešné povlakové fólie a iné strešné membránové povlaky | Poznámka: Výrobky sú zahrnuté v skupinách 0403, 0404 a 0405 |
 
 - 2602 2603 | Strešné vodotesné systémy aplikované v tekutom stave Liaty asfalt | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reak- cie na oheň, resp. potreby skúšania ROE: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO, resp. potreby skúšania RVO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -464,9 +452,9 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | (A1 až E),<sup>9</sup>) F | 4
 
-- | | výrobky vyžadujúce skúšanie ROE | 3
+- | | výrobky vyžadujúce skúšanie RVO | 3
 
-- | | výrobky nevyžadujúce skúšanie ROE | 4
+- | | výrobky nevyžadujúce skúšanie RVO | 4
 
 - | | Na použitie podľa PNL1<sup>8</sup>) | 3
 
@@ -474,7 +462,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - Príslušenstvo striech a iné výrobky pre strechy | | |
 
-- 2701 | Strešné odkvapové žľaby a rúry | | 4
+- 2701 | Zrušená od 15. 3. 2006. | |
 
 - 2702 | Strešné prístupové systémy - strešné lávky a stupne, nástupné plochy, strešné bezpečnostné háky a kotevné prvky určené na údržbu a opravy striech | | 3
 
@@ -518,21 +506,21 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | tepelnoizolačné a/alebo zvukovoizolačné | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reak- cie na oheň, resp. potreby skúšania ROE: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO, resp. potreby skúšania RVO: |
 
 - | | A1, A2, B, C, D, E | 3
 
 - | | (A1 až E),<sup>9</sup>) F | 4
 
-- | | výrobky vyžadujúce skúšanie ROE | 3
+- | | výrobky vyžadujúce skúšanie RVO | 3
 
-- | | výrobky nevyžadujúce skúšanie ROE | 4
+- | | výrobky nevyžadujúce skúšanie RVO | 4
 
 - Prefabrikované schodiská a schodiskové systémy | | |
 
 - 3201 | Prefabrikované kompletné schodiskové systémy (okrem povalových - podkrovných schodov) | Na základný účel<sup>5</sup>) | 2+
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -542,17 +530,23 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 3202 | Prefabrikované schodiská z betónu<sup>3</sup>) | | 2+
 
+- 3203 | Dosky z betónu, terazza a pod. na schodiskové stupne v interiéri alebo v exteriéri | Podľa nosnosti: |
+
+- | | nosné | 3
+
+- | | nenosné | 4
+
 - Systémy priečok | | |
 
 - 3301 | Samonosné systémy priečok na pevné alebo demontovateľné zabudovanie | Na základný účel<sup>5</sup>) | 4
 
-- | | Na použitie v požiar- nych úsekoch | 3
+- | | Na použitie v požiarnych úsekoch | 3
 
 - | | Bezpečné (riziko úrazu) | 3
 
 - | | Na použitie podľa PNL | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -562,15 +556,13 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - Sadrové výrobky na steny, priečky a stropy | | |
 
-- 3401 | Sadrové tvárnice a sadrové lepidlá na nenosné priečky, obklady stien a požiarnu ochranu (tvárnice nie sú určené na stropy) | Podľa účelu: |
+- 3401 | Sadrové tvarovky a sadrové lepidlá na nenosné priečky, obklady stien a požiarnu ochranu (tvarovky nie sú určené na stropy) | Na základný účel | 4
 
-- | | na časti stavby bez požiarnej ochrany | 4
-
-- | | na požiarnu ochranu | 3
+- | | Na požiarnu ochranu | 3
 
 - 3402 | Sadrokartón a stropné prvky s tenkou povrchovou úpravou, vláknité sadrové dosky a kompozitné panely (lamináty) a sadrové omietky vrátane príslušných doplnkových výrobkov | Na základný účel<sup>5</sup>) | 4
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -578,7 +570,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | (A1 až E),<sup>9</sup>) F | 4
 
-- | | Na požiarnu ochranu konštrukčných prvkov a do požiarnych úsekov | 3
+- | | Na požiarnu ochranu konštrukčných prvkov a delenie požiarnych úsekov | 3
 
 - | | Na vystuženie drevených rámových stien a dreveného krovu | 3
 
@@ -586,19 +578,19 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 3501 3502 | Dlažbové prvky, dlážkoviny, mozaiky, vlysky a parkety, krycie mriežky alebo platne, tuhé laminátové podlahy, výrobky na báze dreva, na vnútorné použitie vrátane vnútorných verejných dopravných komunikácií Systémy zvýšených a dutinových podláh na vnútorné použitie vrátane vnútorných verejných dopravných komunikácii | Podľa triedy reakcie na oheň: |
 
-- | | (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>)<sup>7</sup>) | 1
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>)<sup>7</sup>) | 1
 
-- | | (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>),<sup>8</sup>) D<sub>FL</sub>, E<sub>FL</sub> | 3
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>),<sup>8</sup>) D<sub>fl</sub>, E<sub>fl</sub> | 3
 
-- | | (A1<sub>FL</sub> až E<sub>FL</sub>),<sup>9</sup>) F<sub>FL</sub> | 4
+- | | (A1<sub>fl</sub> až E<sub>fl</sub>),<sup>9</sup>) F<sub>fl</sub> | 4
 
 - | | Na použitie podľa PNL | 3
 
 - 3503 3504 | Potery pod podlahy, nivelizačné látky, liate podlahy a vsypy (do podláh) na podlahy vrátane vnútorných verejných dopravných komunikácii Homogénne a heterogénne pružné dlážkoviny dodávané ako dlaždice, tabule alebo v rolovanej forme - textilné, plastové, gumové, linoleové, korkové, antistatické tabule, pružné laminátové podlahy a pružné dlaždice | Na vnútorné použitie podľa triedy reakcie na oheň: |
 
-- | | (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>)<sup>7</sup>) | 1
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>)<sup>7</sup>) | 1
 
-- | | (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>),<sup>8</sup>) D<sub>FL</sub>, E<sub>FL</sub>, (A1<sub>FL</sub>až E<sub>FL</sub>),<sup>9</sup>) F<sub>FL</sub> | 3
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>),<sup>8</sup>) D<sub>fl</sub>, E<sub>fl</sub>, (A1<sub>fl</sub>až E<sub>fl</sub>),<sup>9</sup>) F<sub>fl</sub> | 3
 
 - | | Na vonkajšie použitie | 4
 
@@ -608,7 +600,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 3901 3902 3903 | Obklady v rolovanej forme, obkladové prvky, šindle, dosky (okrem dosák z betónu<sup>3</sup>), panely a profily na obklady stien a stropov v interiéri a exteriéri Systémy zavesených podhľadov na stropy v interiéri a exteriéri Profily určené na upevnenie obkladov stien a stropov a závesné rámy na upevnenie zavesených podhľadov | Na základný účel<sup>5</sup>) | 4
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -626,7 +618,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 3904 | Malty a lepidlá na obkladové prvky v interiéri a exteriéri | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -636,7 +628,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 3905 | Obkladové systémy vonkajších stien na ich ochranu pred poveternostnými vplyvmi, prípadne prispievajúce k vonkajšej tepelnej izolácii stien (okrem komponentov týchto systémov dodávaných samostatne a okrem systémov skupín 2101, 2102 a 2202) | Na základný účel<sup>5</sup>) | 2+
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -650,13 +642,13 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | (A1, A2, B, C),<sup>8</sup>) D, E, (A1 až E),<sup>9</sup>) F | 2+
 
-- Spojovacie prvky, lepidlá a tmely | | |
+- Spojovacie prvky a materiály, lepidlá a tmely | | |
 
 - 4001 | Spojovacie prvky na kovové konštrukčné<sup>2</sup>)časti - stavieb nity, svorníky, čapy a skrutky s maticami a podložkami | | 2+
 
 - 4002 | Spojovacie prostriedky na výrobky z konštrukčného<sup>2</sup>) dreva - spony do dreva, delené prstencové spony, záchytky, valcovité oceľové a drevené spojovacie články, skrutky do dreva, závitové svorníky a klince | | 3
 
-- 4003 | Šmykové dosky, styčníkové dosky s tŕňmi a spojovacie klincované dosky na výrobky z konštrukčného<sup>2</sup>) dreva | | 2+
+- 4003 | Šmykové dosky, styčníkové dosky s prelisovanými hrotmi a spojovacie klincované dosky na výrobky z konštrukčného<sup>2</sup>) dreva | | 2+
 
 - 4004 | Kovové kotvy do betónu (typy určené pre ľahké systémy) na upevnenie alebo podopretie ľahkých zavesených stropných podhľadov, inštalácií a pod. | | 2+
 
@@ -674,7 +666,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 4011 4012 | Dilatačné čapy umožňujúce vzájomný pohyb medzi spojenými doskami alebo medzi doskami a stenamiLepidlá na použitie v konštrukčných<sup>2</sup>) častiach pozemných a inžinierskych stavieb | Na základný účel<sup>5</sup>) | 2+
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -686,17 +678,17 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 4014 | Tesniace tmely (škárovacie tmely a montážne peny) a tesniace pásy | | 4
 
-- Potrubia, nádrže a príslušenstvo na pitnú vodu | | |
+- Rúry, nádrže a príslušenstvo na pitnú vodu<sup>21a</sup>) | | |
 
 - 4101 | Potrubné a/alebo zásobníkové systémy skladajúce sa z výrobkov skupín 4102 až 4108 | | 1 +
 
-- 4102 | Tuhé, pružné a tvárne potrubia na tlakové alebo beztlakové rozvody pitnej vody v budovách alebo mimo budov, inštalované na povrchu alebo pod povrchom | | 1 +
+- 4102 | Rúry na tlakové alebo beztlakové rozvody pitnej vody v budovách alebo mimo budov, inštalované na povrchu alebo pod povrchom | | 1 +
 
 - 4103 | Nádrže tlakové alebo beztlakové vrátane zásobníkov teplej vody, inštalované na povrchu alebo pod povrchom | | 1 +
 
 - 4104 | Ochranné a bezpečnostné zariadenia - hlásiče priesakov, ochrany pred preplnením nádrží a pod. | | 1 +
 
-- 4105 | Tvarovky, spojky, lepidlá a tesnenia na tesné spájanie tuhých, pružných a tvárnych potrubí | | 1 +
+- 4105 | Tvarovky, spájky, lepidlá a tesnenia na tesné spájanie tuhých, pružných a tvárnych potrubí | | 1 +
 
 - 4106 | Armatúry | | 1 +
 
@@ -704,13 +696,13 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 4108 | Membrány, živice, povlaky, vložky a mazivá | | 1 +
 
-- Potrubia, nádrže a príslušenstvo na úžitkovú vodu, plyn a tekuté palivá | | |
+- Rúry, nádrže a príslušenstvo na úžitkovú a napájaciu vodu,<sup>21a</sup>) plyn a tekuté palivá | | |
 
-- 4201 | Výrobky na dopravu, rozvod a skladovanie úžitkovej vody, ktorými sú rúry, nádrže, hlásiče priesakov, ochrany proti preplneniu nádrží, tvarovky, spojky, tesnenia, držiaky potrubí (bez kotiev), čerpadlá, ventily a kohúty a bezpečnostné zariadenia, resp. potrubné a/alebo zásobníkové systémy skladajúce sa z týchto výrobkov | Na základný účel<sup>5</sup>) | 4
+- 4201 | Výrobky na dopravu, rozvod a skladovanie úžitkovej vody, ktorými sú rúry, nádrže, hlásiče priesakov, ochrany proti preplneniu nádrží, tvarovky, spájky, tesnenia, držiaky potrubí (bez kotiev), čerpadlá, armatúry a bezpečnostné zariadenia, resp. potrubné a/alebo zásobníkové systémy skladajúce sa z týchto výrobkov | Na základný účel<sup>5</sup>) | 4
 
 - | | Na vykurovacie systémy | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň:<sup>22</sup>) |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO:<sup>22</sup>) |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -722,11 +714,11 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - | | Na účel, na ktorý sa vzťahujú PPB | 1
 
-- | | Na inštalácie v priesto- roch, kde sa vyžaduje požiarna odolnosť<sup>23</sup>) | 1
+- | | Na inštalácie v priestoroch, kde sa vyžaduje požiarna odolnosť<sup>23</sup>) | 1
 
 - Výrobky na rozvod elektrickej energie, dátové a zabezpečovacie vedenia a bleskozvody | | |
 
-- 4301 | Výrobky na rozvod elektrickej energie a na dátové a zabez- pečovacie vedenia - vodiče a káble na pevné uloženie a ochranné rúrky a žľaby s deklarovanou požiarnou odolnosťou | Na inštalácie v priesto- roch, kde sa vyžaduje požiarna odolnosť | 1
+- 4301 | Výrobky na rozvod elektrickej energie a na dátové a zabezpečovacie vedenia - vodiče a káble na pevné uloženie a ochranné rúrky a žľaby s deklarovanou požiarnou odolnosťou | Na inštalácie v priestoroch, kde sa vyžaduje požiarna odolnosť | 1
 
 - 4302 | Aktívne bleskozvody | | 1
 
@@ -748,7 +740,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 4501 4502 4503 4504 | Spotrebiče na tuhé palivá na vykurovanie obytných priestorov - kachle, pece a vstavané spotrebiče (kozubové vložky a pod.) Spotrebiče na tuhé palivá na varenie pre domácnosť Vykurovacie telesá spaľujúce kvapalné palivá Vykurovacie telesá bez vlastného zdroja energie - najmä radiátory, konvektory, teplovzdušné konvektory vrátane jednotkových ventilátorov, vykurovacie lišty a štrbiny, stropné sálavé panely a ďalšie stacionárne vykurovacie telesá, stenové a podlahové vykurovacie systémy | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -772,7 +764,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - Sanitárne zariadenia | | |
 
-- 4801 | Drezy, umývadlá, komunálne žľaby, bidety, kúpacie vane a sprchovacie vaničky | | 4
+- 4801 | Drezy, umývadlá, komunálne žľaby, bidety, vírivé vane a sprchovacie vaničky | | 4
 
 - 4802 | Sprchové a vaňové zásteny a ochranné kryty | | 4
 
@@ -794,7 +786,7 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 5001 5002 | Výrobky na ochranu pred požiarom alebo zlepšenie požiarnej odolnosti - najmä nátery, povlaky alebo obloženia (okrem sadrových výrobkov, výrobkov z minerálnej vlny, prefabrikovaných železobetónových prvkov, omietok a výrobkov na úpravu vnútorných a vonkajších povrchov stien a povrchov stropov) Výrobky na zabránenie alebo obmedzenie šírenia požiaru - tmely, tesnenia, peny, elastoméry a pod. aplikované na mieste, alebo v prefabrikovaných podobách ako dosky, bloky, vankúše, vrecia, ovínadlá, rukávy a pod., požiarne upchávky v stenách a stropoch pri prestupe káblov a potrubi, požiarne klapky a potrubia s požiarnou odolnosťou | Na základný účel<sup>5</sup>) | 1
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -808,23 +800,23 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 5005 | Zariadenia na potlačenie výbuchu alebo ich komponenty | | 1
 
-- Hasiace zariadenia a ich komponenty | | |
+- Stabilné hasiace zariadenia a ich komponenty | | |
 
-- 5101 | Stabilné hasiace zariadenia - hadicové zariadenia | | 1
+- 5101 | Hadicové zostavy pre prvý zásah, suché a mokré protipožiarne hydrantové systémy | | 1
 
-- 5102 | Stabilné hasiace zariadenia - časti sprinklerových a vodných rozstrekovacích zariadení | | 1
+- 5102 | Sprinklerové a vodné sprchové systémy - zostavy | | 1
 
-- 5103 | Stabilné hasiace zariadenia - prvky plynových zariadení na CO<sub>2</sub> | | 1
+- 5103 | Plynové systémy - zostavy | | 1
 
-- 5104 | Stabilné hasiace zariadenia - práškové zariadenia | | 1
+- 5104 | Práškové systémy - zostavy | | 1
 
-- 5105 | Stabilné hasiace zariadenia - penové zariadenia | | 1
+- 5105 | Penové systémy - zostavy | | 1
 
-- 5106 | Komponenty stabilných hasiacich zariadení, ktoré nie sú zahrnuté v skupinách 5101 až 5105 - požiarne hydranty, detektory/spínače prietoku vody, tlakové detektory/spínače, uzatváracie armatúry, prívodné potrubia, požiarne čerpadlá a skupiny čerpadiel, hubice, sprinklery a výtokové armatúry | | 1
+- 5106 | Samostatné komponenty stabilných hasiacich zariadení uvedených v skupinách 5101 až 5105 - požiarne hydranty, detektory/spínače prietoku vody, tlakové snímače/spínače, uzatváracie armatúry, prívodné potrubia, požiarne čerpadlá a skupiny čerpadiel, hubice, sprinklery a výtokové armatúry, zostavy mokrých ventilových staníc, zostavy suchých ventilových staníc, zostavy zavodňovacích ventilových staníc, riadiace ventily s tepelnou poistkou, ventily vysokotlakových nádob s príslušenstvom a ich spúšťače, neelektrické blokovacie zariadenia, pružné prípojky, manometre a tlakové spínače, mechanické vážiace zariadenia, spätné ventily a spätné klapky | | 1
 
 - Systémy a komponenty zariadení požiarnej signalizácie | | |
 
-- 5201 | Elektrická požiarna signalizácia - zariadenia akustickej popla- chovej signalizácie požiaru | | 1
+- 5201 | Elektrická požiarna signalizácia - zariadenia akustickej poplachovej signalizácie požiaru | | 1
 
 - 5202 | Elektrická požiarna signalizácia - napájacie zariadenia | | 1
 
@@ -834,17 +826,17 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - 5205 | Elektrická požiarna signalizácia - líniové dymové hlásiče využívajúce optický lúč | | 1
 
-- 5206 | Komponenty zariadení požiarnej signalizácie, ktoré nie sú zahrnuté v skupinách 5201 až 5205 - hlásiče dymu, tepla a plameňa, ústredne požiarnej signalizácie, zariadenia na prenos poplachového signálu vrátane ochrany proti skratu prenoso- vých ciest, poplachové zariadenia, vstupné a výstupné zariadenia, tlačidlové hlásiče a súvisiace napájacie zariadenia | | 1
+- 5206 | Komponenty zariadení požiarnej signalizácie, ktoré nie sú zahrnuté v skupinách 5201 až 5205 - hlásiče dymu, tepla a plameňa, ústredne požiarnej signalizácie, zariadenia na prenos poplachového signálu vrátane ochrany proti skratu prenosových ciest, poplachové zariadenia, vstupné a výstupné zariadenia, tlačidlové hlásiče a súvisiace napájacie zariadenia | | 1
 
 - 5207 | Kombinované zariadenia požiarnej signalizácie a poplachovej signalizácie, systémy na ohlasovanie požiarov | | 1
 
-- 5208 | Detektory, jednotky na potlačenie výbuchu, indikátory výbuchu, výrobky na uvoľnenie tlaku výbuchu | | 1
+- 5208 | Systémy na potlačenie výbuchu, detektory, jednotky na potlačenie výbuchu, indikátory výbuchu, výrobky na uvoľnenie tlaku výbuchu | | 1
 
 - Náterové a penetračné látky a systémy | | |
 
 - 5301 5302 5303 | Náterové a penetračné látky a systémy na ochranu konštrukčných častí stavieb proti korózii a degradácii (okrem ochrany betónových stavieb a ochrany pred požiarom) Náterové systémy na ochranu kovových potrubných systémov a nádrží proti korózii Náterové systémy na ochranu tepelných izolácií proti degradácii a vlhkosti | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -854,9 +846,9 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - Zvukovoizolačné a antivibračné výrobky | | |
 
-- 5401 5402 | Systémy na tlmenie vibrácií a hluku do plávajúcich podláh Systémy na tlmenie vibrácií a hluku na steny | Na základný účel<sup>5</sup>) | 1
+- 5401 5402 | Systémy na tlmenie vibrácií a hluku do plávajúcich podláh Systémy na tlmenie vibrácií a hluku na steny | Na základný účel<sup>5</sup>) | 3
 
-- | | Na účel, na ktorý sa vzťahujú PPB, s člene- ním podľa triedy reakcie na oheň: |
+- | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
 - | | (A1, A2, B, C)<sup>7</sup>) | 1
 
@@ -884,9 +876,9 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 
 - Zvláštne výrobky | | |
 
-- 5601 | Prefabrikované silá z betónu<sup>2</sup>)(len na sypké materiály) | | 2+
+- 5601 | Prefabrikované silá z betónu<sup>3</sup>) na sypké materiály a kontajnery z betónu<sup>3</sup>) na pevný odpad ukladané do zeme | | 2+
 
-- 5602 | Prefabrikované výrobky z betónu<sup>3</sup>) pre málo namáhané a ne- nosné časti stavieb (okrem rúr, nádrží a prvkov plotov), napr. telekomunikačné skrine, malé krabicové vpusty, prvky nenosných stien, obkladové dosky a pod. | | 4
+- 5602 | Prefabrikované výrobky z betónu<sup>3</sup>) pre málo namáhané a nenosné časti stavieb (okrem rúr, nádrží a prvkov plotov), napr. telekomunikačné skrine, malé krabicové vpusty, prvky nenosných stien, obkladové dosky a pod. | | 4
 
 - 5603 | Prefabrikované prvky z betónu<sup>3</sup>) pre ploty | | 4
 
@@ -897,3 +889,13 @@ Príloha č. 1 k vyhláške č. 158/2004 Z. z.
 - 5606 | Požiarne výťahy | | 1
 
 - 5607 | Systémy sanácie vlhkého muriva | | 4
+
+- 5608 | Systémy zasklenia balkónov a lodžií | | 3
+
+- 5609 | Výrobky na povrchy detských ihrísk | Na vnútorné použitie podľa TRO: |
+
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>)<sup>7</sup>) | 1
+
+- | | (A1<sub>fl</sub>, A2<sub>fl</sub>, B<sub>fl</sub>, C<sub>fl</sub>),<sup>8</sup>) D<sub>fl</sub>, E<sub>fl</sub>, (A1<sub>fl</sub> až E<sub>fl</sub>,<sup>9</sup>) F<sub>fl</sub> | 3
+
+- | | Na vonkajšie použitie | 4
