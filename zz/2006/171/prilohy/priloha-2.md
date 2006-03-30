@@ -1,0 +1,33 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 171/2006 Z. z.
+
+- LEHOTY na nové voľby do orgánov samosprávy obcí 8. júla 2006 Lehota | § - ods. | Úloha | Zabezpečí | Termín
+
+- 85 dní | 16 - 9 | Zverejnenie počtu obyvateľov obce ku dňu vyhlásenia volieb | obec | 14. 4. 2006
+
+- 65 dní | 9 - 3 | Zverejnenie volebných obvodov a počtu poslancov, ktorý sa má v nich zvoliť pri voľbách do obecného zastupiteľstva | obecné zastupiteľstvo | 4. 5. 2006
+
+- 55 dní | 16 - 2 21 - 1, 2 | Podanie kandidátnych listín | politické strany a nezávislí kandidáti | 14. 5. 2006
+
+- 55 dní | 14 - 1 | Delegovanie jedného člena a jedného náhradníka do miestnej volebnej komisie pri voľbách do obecného zastupiteľstva | politické strany | 14. 5. 2006
+
+- 50 dní | 14 - 3 | Uskutočnenie prvého zasadania miestnej volebnej komisie | miestna volebná komisia | 19. 5. 2006
+
+- 45 dní | 17 - 2 22 - 2 | Zaregistrovanie kandidátov na poslancov obecného zastupiteľstva a na starostu obce | miestna volebná komisia | 24. 5. 2006
+
+- 40 dní | 10 - 2 | Utvorenie volebných okrskov a určenie volebných miestností | starosta obce | 29. 5. 2006
+
+- 35 dní | 18 a 23 | Uverejnenie zoznamu zaregistrovaných kandidátov | miestna volebná komisia | 3. 6. 2006
+
+- 30 dní | 13 - 3 | Uskutočnenie prvého zasadania obvodnej volebnej komisie | obvodná volebná komisia | 8. 6. 2006
+
+- 25 dní | 27 | Informovanie voličov o zápise do zoznamu voličov a o čase a mieste konania volieb | obec | 13. 6. 2006
+
+- 20 dní | 15 - 1 | Delegovanie jedného člena a jedného náhradníka do okrskovej volebnej komisie pri voľbách do obecného zastupiteľstva | politické strany | 18. 6. 2006
+
+- 17 dní | 30 - 1 | Začiatok volebnej kampane | politické strany a nezávislí kandidáti | 21. 6. 2006
+
+- 15 dní | 15 - 3 | Uskutočnenie prvého zasadania okrskovej volebnej komisie | okrsková volebná komisia | 23. 6. 2006
+
+- 48 hodín | 30 - 3 | Ukončenie volebnej kampane | politické strany a nezávislí kandidáti | 6. 7. 2006
+
+- | 26 -1 | Volebný deň | okrsková volebná komisia | 8. 7. 2006
