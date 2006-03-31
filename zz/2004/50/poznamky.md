@@ -1,1 +1,0 @@
-- 1) § 2 ods. 9 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2003 Z. z.
