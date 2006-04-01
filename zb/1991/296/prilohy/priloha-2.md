@@ -144,7 +144,7 @@
 
       - Ak je menovaný spoločný zástupca, v žiadosti sa musí táto skutočnosť uviesť.
 
-      - 4.9 Určenie štátov; druhy ochrany; národné a regionálne patenty
+      - 4.9 Určenie štátov. Druhy ochrany. Národné a regionálne patenty
 
         - (a) Podanie žiadosti založí:
 
@@ -154,7 +154,7 @@
 
           - (iii) údaj, že medzinárodná prihláška, ak ide o každý určený štát, v ktorom sa uplatňuje článok 45(1), je na udelenie regionálneho patentu, a tiež národného patentu, ak sa neuplatňuje článok 45(2).
 
-        - (b) Bez ohľadu na odsek (a)(i), ak k 1. októbru 2002 národné zákonodarstvo zmluvného štátu stanoví, že podanie medzinárodnej prihlášky, ktorá obsahuje určenie tohto štátu a ktorá uplatňuje prioritu skoršej národnej prihlášky, majúcej účinok v tomto štáte, musí viesť k upusteniu od skoršej národnej prihlášky, čo má také isté dôsledky ako späťvzatie skoršej národnej prihlášky, akákoľvek žiadosť môže, tak dlho, ako to národné zákonodarstvo dovolí, obsahovať tento údaj nepretržite za predpokladu, že určený úrad informoval Medzinárodný výbor do 1. januára 2003, že bude uplatňovať tento odsek vo vzťahu k určeniu tohto štátu. Medzinárodný úrad prijatú informáciu okamžite zverejní vo vestníku.
+        - (b) Aj napriek odseku (a)(i), ak 5. októbra 2005 národné zákonodarstvo zmluvného štátu uvádza, že podanie medzinárodnej prihlášky, ktorá obsahuje určenie tohto štátu a uplatňuje prioritu skoršej národnej prihlášky majúcej účinok v tomto štáte, bude mať za následok, že skoršia národná prihláška prestane mať účinok s rovnakými dôsledkami ako späťvzatie skoršej národnej prihlášky, môže žiadosť, v ktorej sa uplatňuje priorita zo skoršej národnej prihlášky podanej v tomto štáte, obsahovať údaj, že sa nevykonalo určenie tohto štátu, za predpokladu, že určený úrad oznámi Medzinárodnému úradu do 5. januára 2006, že tento odsek platí vo vzťahu k určeniu tohto štátu a toto oznámenie je stále v platnosti v deň medzinárodného podania. Medzinárodný úrad okamžite zverejní prijatú informáciu v medzinárodnom vestníku.
 
       - 4.10 Uplatnenie priority
 
@@ -610,7 +610,7 @@
 
         - Každý určený štát, v ktorom sa žiada o udelenie úžitkového vzoru na základe medzinárodnej prihlášky, môže namiesto pravidiel 13.1 až 13.4 použiť vo veciach tam upravených ustanovenia svojho národného zákonodarstva o úžitkových vzoroch, pokiaľ sa konanie o medzinárodnej prihláške začalo v tomto štáte, a za predpokladu, že prihlasovateľovi sa poskytnú aspoň dva mesiace od uplynutia lehoty podľa článku 22 na prispôsobenie prihlášky požiadavkám národného zákonodarstva.
 
-    - Pravidlo 13bis Vynálezy týkajúce sa biologických materiálov
+    - Pravidlo 13bis Vynálezy týkajúce sa biologického materiálu
 
       - 13bis.1 Definícia
 
@@ -634,7 +634,7 @@
 
         - (b) Nezahrnutie odkazu na uložený biologický materiál alebo nezahrnutie niektorého údaja, ktorý sa týka biologického materiálu podľa odseku (a), nemá dôsledok v žiadnom určenom štáte, ktorého národná legislatíva taký odkaz alebo údaj v národnej prihláške nevyžaduje.
 
-      - 13bis.4 Odkazy: lehota na poskytnutie údajov
+      - 13bis.4 Odkazy: lehota na predloženie údajov
 
         - (a) S výnimkou odsekov (b) a (c), ak nie je niektorý z údajov uvedený v pravidle 13bis.3(a) obsiahnutý v odkaze na uložený biologický materiál v medzinárodnej prihláške pri podaní, ale je predložený Medzinárodnému úradu:
 
@@ -646,9 +646,9 @@
 
         - (c) Ak prihlasovateľ žiada skoršie zverejnenie podľa článku 21(2)(b), ktorýkoľvek určený úrad môže každý údaj, ktorý nebol predložený pred skončením technických príprav na medzinárodné zverejnenie, považovať za údaj, ktorý nebol predložený včas.
 
-        - (d) Medzinárodný úrad oznámi prihlasovateľovi dátum, keď dostal každý údaj predložený podľa odseku (a), a
+        - (d) Medzinárodný úrad oznámi prihlasovateľovi dátum prijatia každého údaja predloženého podľa odseku (a), a
 
-          - (i) ak bol údaj prijatý pred skončením technických príprav na medzinárodné zverejnenie, oznámi tento dátum a uvedie závažné údaje z odkazu v brožúre zverejnenej podľa pravidla 48;
+          - (i) ak bol údaj prijatý pred dokončením technických príprav na zverejnenie, zverejní sa predložený údaj podľa odseku (a) a dátum jeho prijatia spolu s medzinárodnou prihláškou,
 
           - (ii) ak bol údaj prijatý po skončení technických príprav na medzinárodné zverejnenie, oznámi dátum a závažné údaje z odkazu určeným úradom.
 
@@ -1126,13 +1126,13 @@
 
         - (c) Ak oprava alebo dodatočné uplatnenie priority spôsobí zmenu dátumu priority, každá lehota, ktorá sa počíta od skoršie uplatneného dátumu priority a ktorá ešte neuplynula, bude sa počítať od takto zmeneného dátumu priority.
 
-      - 26bis.2 Výzva na opravu nedostatkov pri uplatňovaní priority
+      - 26bis.2 Výzva na opravu nedostatkov v uplatnení priority
 
         - (a) Tam, kde prijímací úrad zanedbá alebo Medzinárodný úrad zistí, že uplatnenie priority nespĺňa požiadavky pravidla 4.10 alebo že niektorý údaj v uplatnení priority nie je totožný so zodpovedajúcim údajom v prioritnom doklade, prijímací úrad, prípadne Medzinárodný úrad vyzve prihlasovateľa, aby opravil údaj v nárokovanej priorite.
 
         - (b) Ak v odpovedi na výzvu podľa odseku (a) prihlasovateľ pred uplynutím stanovenej lehoty podľa pravidla 26bis.1(a) nepredloží oznámenie obsahujúce opravu údajov na nárokovanú prioritu tak, aby spĺňali požiadavky pravidla 4.10, toto nárokovanie priority sa na účely konania podľa Zmluvy bude považovať za nevykonané a prijímací úrad, prípadne Medzinárodný úrad o tom vydá uznesenie a oznámi to prihlasovateľovi za predpokladu, že nárokovanie priority sa nebude považovať za vykonané len preto, že chýba iba údaj o čísle skoršej prihlášky uvedenej v pravidle 4.10(a)(ii), alebo preto, že údaj v nárokovanej priorite nie je rovnaký ako zodpovedajúci údaj uvedený v prioritnom doklade.
 
-        - (c) Ak prijímací úrad alebo Medzinárodný úrad vydal uznesenie podľa odseku (b), Medzinárodný úrad na žiadosť prihlasovateľa prijatú Medzinárodným úradom pred skončením technických príprav na medzinárodné zverejnenie za predpokladu, že zaplatil osobitný poplatok, ktorému žiadosť podlieha a ktorého výška je daná Administratívnymi smernicami, zverejní spolu s medzinárodnou prihláškou informácie týkajúce sa nároku na prioritu, ktoré sa považovali za nevykonané. Kópia tejto žiadosti bude obsiahnutá v ozname podľa článku 20, ak sa kópia brožúry nepoužije na oznam alebo ak sa medzinárodná prihláška nezverejní z dôvodov uvedených v článku 64(3).
+        - (c) Ak prijímací úrad alebo Medzinárodný úrad vydá rozhodnutie podľa odseku (b), Medzinárodný úrad na základe žiadosti prihlasovateľa, ak ju Medzinárodný úrad dostane pred ukončením technických príprav na medzinárodné zverejnenie a po zaplatení zvláštneho poplatku, ktorého výška je stanovená v administratívnych smerniciach, zverejní spolu s medzinárodnou prihláškou oznámenie týkajúce sa uplatnenia priority, ktoré sa považuje za nevykonané. Kópia tejto žiadosti bude obsiahnutá v postúpení podľa článku 20, ak medzinárodná prihláška nebola zverejnená z dôvodov uvedených v článku 64(3).
 
     - Pravidlo 26ter Oprava alebo doplnenie vyhlásení podľa pravidla 4.17
 
@@ -1570,8 +1570,6 @@
 
         - (a-bis) Medzinárodný úrad musí oznámiť každému určenému úradu v súlade s pravidlom 93bis.1 prijatie archívneho vyhotovenia, dátum prijatia archívneho vyhotovenia, prijatie prioritného dokladu a dátum prijatia prioritného dokladu.
 
-        - (a-ter) Oznámenie podľa odseku (a-bis) musí obsahovať ktorékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17(i) až (iv), a akúkoľvek jeho opravu podľa pravidla 26ter.1, ktorú Medzinárodný úrad prijal pred uplynutím lehoty podľa pravidla 26ter.1 za predpokladu, že určený úrad informoval Medzinárodný úrad o skutočnosti, že aplikovateľné národné zákonodarstvo vyžaduje poskytnutie dokladov alebo dôkazov týkajúcich sa podstaty, na ktorú sa vyhlásenie vzťahuje.
-
         - (b) Medzinárodný úrad dá na vedomie určeným úradom bez zbytočného odkladu všetky úpravy, ktoré mu došli v lehote podľa pravidla 46.1, pokiaľ neboli obsiahnuté už v postúpení podľa článku 20, a oznámi to prihlasovateľovi.
 
         - (c) Medzinárodný úrad bez zbytočného odkladu, po uplynutí 28 mesiacov od dátumu priority, zašle prihlasovateľovi správu, ktorá uvádza
@@ -1610,35 +1608,33 @@
 
     - Pravidlo 48 Medzinárodné zverejnenie
 
-      - 48.1 Forma
+      - 48.1 Forma a prostriedky
 
-        - (a) Medzinárodná prihláška sa zverejní vo forme brožúry.
-
-        - (b) Podrobnosti, ktoré sa týkajú formy brožúry a spôsobu reprodukcie, sa spravujú Administratívnymi smernicami.
+        - Medzinárodné prihlášky sa zverejnia takou formou a prostriedkami, ktoré určia administratívne smernice.
 
       - 48.2. Obsah
 
-        - (a) Brožúra musí obsahovať
+        - (a) Brožúra medzinárodnej prihlášky obsahuje
 
-          - (i) normalizovanú titulnú stránku;
+          - (i) normalizovanú prvú stránku,
 
-          - (ii) opis;
+          - (ii) opis,
 
-          - (iii) nároky;
+          - (iii) nároky,
 
-          - (iv) prípadné výkresy;
+          - (iv) výkresy (ak nejaké sú),
 
-          - (v) s výhradou odseku (g) medzinárodnú rešeršovú správu alebo rozhodnutie podľa článku 17 (2) (a); zverejnenie medzinárodnej rešeršovej správy v brožúre však nemusí obsahovať tú časť medzinárodnej rešeršovej správy, ktorá obsahuje iba náležitosti podľa pravidla 43, ktoré sú už uvedené na titulnej strane brožúry;
+          - (v) s výhradou k odseku (g) medzinárodnú rešeršnú správu alebo rozhodnutie podľa článku 17(2)(a),
 
-          - (vi) oznámenie podané podľa článku 19 (1), pokiaľ Medzinárodný úrad nezistí, že oznámenie nie je v súlade s ustanoveniami pravidla 46.4;
+          - (vi) každé oznámenie podané podľa článku 19(1), ak Medzinárodný úrad nezistí, že oznámenie nie je v súlade s ustanoveniami pravidla 46.4,
 
-          - (vii) všetky žiadosti o opravu podľa tretej vety pravidla 91.1 (f),
+          - (vii) každú žiadosť o opravu podľa tretej vety pravidla 91.1(f),
 
-          - (viii) všetky údaje z každého odkazu týkajúceho sa uloženého biologického materiálu predloženého podľa pravidla 13bis osobitne od opisu spolu s uvedením dátumu, keď Medzinárodný úrad takéto údaje dostal;
+          - (viii) údaje týkajúce sa uloženého biologického materiálu predloženého podľa pravidla 13bis oddelene od opisu spolu s uvedením dátumu, keď Medzinárodný úrad takéto údaje prijal,
 
-          - (ix) akúkoľvek informáciu, ktorá sa týka uplatnenia priority, ktorá sa považuje za nevykonanú podľa pravidla 26bis.2(b), ktorého zverejnenie sa vyžaduje podľa pravidla 26bis.2(c),
+          - (ix) každé oznámenie týkajúce sa uplatnenia priority, ktoré sa považuje za nevykonané podľa pravidla 26bis.2(b), ktorého zverejnenie sa vyžaduje podľa pravidla 26bis.2(c),
 
-          - (x) akékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17(v), a akúkoľvek jeho opravu podľa pravidla 26ter.1, ktorú Medzinárodný úrad prijal pred uplynutím lehoty podľa pravidla 26ter.1.
+          - (x) každé vyhlásenie podľa pravidla 4.17 a každú jeho opravu podľa pravidla 26ter.1, ktorú prijal Medzinárodný úrad pred uplynutím lehoty podľa pravidla 26ter.1.
 
         - (b) Bez ohľadu na odsek (c) titulná strana obsahuje
 
@@ -1656,17 +1652,15 @@
 
         - (e) Ak na titulnej strane nie je dosť miesta pre celú anotáciu podľa odseku (b) (iii), bude anotácia aj na rube tejto titulnej strany. To isté platí pre preklad anotácie, ak sa vyžaduje jeho zverejnenie podľa pravidla 48.3 (c).
 
-        - (f) Ak sa nároky upravili podľa článku 19, obsahuje zverejnenie buď celý text podaných aj upravených nárokov, alebo celý text podaných nárokov s uvedením zmien. Uvedie sa aj oznámenie podľa článku 19 (1), pokiaľ Medzinárodný úrad nezistí, že nie je v súlade s ustanoveniami pravidla 46.4. Uvedie sa tiež dátum, keď upravené nároky došli Medzinárodnému úradu.
+        - (f) Ak boli nároky upravené podľa článku 19, obsahuje zverejnenie medzinárodnej prihlášky celý text podaných a upravených nárokov. Uvádzať sa bude aj každé oznámenie podľa článku 19(1), ak Medzinárodný úrad nezistí, že oznámenie nie je v súlade s ustanoveniami pravidla 46.4. Uvedie sa aj dátum, keď Medzinárodný úrad upravené nároky prijal.
 
-        - (g) Ak nie je po dokončení technických príprav medzinárodného zverejnenia ešte k dispozícii medzinárodná rešeršová správa (napr. v dôsledku zverejnenia na žiadosť prihlasovateľa podľa článkov 21 (2) (b) a 64 (3) (c) (i), obsahuje brožúra namiesto medzinárodnej rešeršovej správy údaj o tom, že správa nie je ešte k dispozícii a že brožúra včítane medzinárodnej rešeršovej správy sa opätovne zverejní, alebo, že medzinárodná rešeršová správa (až bude k dispozícii) sa zverejní osobitne.
+        - (g) Ak v čase dokončenia technických príprav na medzinárodné zverejnenie nie je k dispozícii medzinárodná rešeršená správa, prvá strana obsahuje údaj o tom, že správa nie je k dispozícii a že medzinárodná rešeršná správa sa zverejní zvlášť (keď bude k dispozícii) spolu s revidovanou prvou stranou.
 
-        - (h) Ak po dokončení technických príprav medzinárodného zverejnenia neuplynula ešte lehota pre úpravu nárokov podľa článku 19, uvedie sa to v brožúre s tým, že v prípade úprav nárokov podľa článku 19 sa brožúra bez odkladu buď opätovne zverejní (včítane upravených nárokov), alebo že sa podanie obsahujúce úpravy zverejní osobitne. V poslednom uvedenom prípade sa opätovne zverejní aspoň tiež titulná strana a nároky, a ak došlo oznámenie podľa článku 19 (1), aj toto oznámenie, ibaže Medzinárodný úrad zistí, že oznámenie nie je v súlade s ustanoveniami pravidla 46.4.
-
-        - (i) Administratívne smernice určujú prípady, pre ktoré platia rôzne možnosti uvedené v odseku (g) a (h), a to podľa rozsahu a zložitosti úprav alebo podľa rozsahu medzinárodnej prihlášky a s prihliadnutím na náklady.
+        - (h) Ak v čase dokončenia technických príprav na medzinárodné zverejnenie neuplynula lehota na úpravu nárokov podľa článku 19, uvedie sa táto skutočnosť na prvej strane s tým, že v prípade úprav nárokov podľa článku 19 Medzinárodný úrad po ich prijatí zverejní celý text podaných a upravených nárokov v lehote podľa pravidla 46.1 spolu s revidovanou prvou stranou. Ak sa podalo oznámenie podľa článku 19(1), Medzinárodný úrad zverejní aj toto oznámenie, ak nezistí, že oznámenie nebolo v súlade s ustanovením pravidla 46.4.
 
       - 48.3 Jazyky zverejnenia
 
-        - (a) Ak sa medzinárodná prihláška podáva v čínštine, angličtine, francúzštine, nemčine, japončine, ruštine alebo v španielčine („jazyky zverejnenia“), zverejní sa v jazyku, v ktorom bola podaná.
+        - (a) Ak je medzinárodná prihláška podaná v arabčine, čínštine, angličtine, francúzštine, nemčine, japončine, ruštine alebo španielčine („jazyky zverejnenia“), prihláška je zverejnená v jazyku, v ktorom bola podaná.
 
         - (a-bis) Ak sa medzinárodná prihláška nepodáva v jazyku zverejnenia a predložil sa preklad do jazyka zverejnenia podľa pravidla 12.3, prihláška sa zverejní v jazyku prekladu.
 
@@ -2830,35 +2824,31 @@
 
         - V prípade podľa článku 53 (5) (b) oznámi Medzinárodný úrad rozhodnutia prijaté Zhromaždením (pokiaľ nejde o rozhodnutia týkajúce sa len jeho vlastného konania) tým zmluvným štátom, ktoré neboli zastúpené, a vyzve ich, aby odovzdali svoj hlas, alebo sa zdržali hlasovania písomne do troch mesiacov od dátumu oznámenia. Ak v tejto lehote počet zmluvných štátov, ktoré odovzdali svoj hlas alebo sa zdržali hlasovania dosiahne ten počet, ktorý chýbal do uznášaniaschopnej väčšiny na zasadaní, nadobudnú rozhodnutia účinnosť, ak je ovšem aj potom zároveň zachovaná potrebná väčšina.
 
-    - PRAVIDLO 86 VESTNÍK
+    - Pravidlo 86 Vestník
 
-      - 86.1 Obsah a forma
+      - 86.1 Obsah
 
-        - (a) Vestník uvedený v článku 55(4) obsahuje:
+      - Vestník uvedený v článku 55(4) obsahuje
 
-        - (i) pre každú zverejnenú medzinárodnú prihlášku údaje stanovené Administratívnou smernicou prevzaté z titulnej strany brožúry podľa pravidla 48, prípadne výkres z tejto prvej strany a anotáciu;
+        - (i) pre každú zverejnenú medzinárodnú prihlášku údaje stanovené v administratívnych smerniciach prevzaté z titulnej stránky zverejnenej medzinárodnej prihlášky, výkres (ak nejaký je) z tejto prvej stránky a anotáciu,
 
-        - (ii) sadzobník všetkých poplatkov, ktoré sa platia prijímacím úradom, Medzinárodnému úradu, orgánom pre medzinárodnú rešerš a orgánom pre medzinárodný predbežný prieskum;
+        - (ii) sadzobník všetkých poplatkov, ktoré sa platia prijímacím úradom, Medzinárodnému úradu, orgánom pre medzinárodnú rešerš a orgánom pre medzinárodný predbežný prieskum,
 
-        - (iii) oznámenia, ktorých uverejnenie sa vyžaduje podľa Zmluvy a Vykonávacieho predpisu;
+        - (iii) oznámenia, ktoré sa vyžadujú podľa Zmluvy a Vykonávacieho predpisu,
 
-        - (iv) informácie od určených alebo zvolených úradov, pokiaľ Medzinárodnému úradu dôjdu a v rozsahu, v akom mu dôjdu, o tom, či sa splnili požiadavky článkov 22 alebo 39, pokiaľ ide o medzinárodné prihlášky obsahujúce určenie alebo voľbu príslušného úradu;
+        - (iv) informácie od určených alebo zvolených úradov, pokiaľ Medzinárodnému úradu dôjdu, a v rozsahu, v akom mu dôjdu, o tom, či sa splnili požiadavky článku 22 alebo 39, ak ide o medzinárodné prihlášky obsahujúce určenie alebo voľbu príslušného úradu,
 
         - (v) všetky iné užitočné informácie predpísané Administratívnymi smernicami, pokiaľ k nim nie je prístup Zmluvou alebo Vykonávacím predpisom zakázaný.
 
-        - (b) Údaje uvedené v odseku (a) budú k dispozícii v dvoch formách:
+      - 86.2 Jazyky. Forma a prostriedky zverejnenia. Časovanie.
 
-          - (i) ako Vestník v papierovej forme, ktorý bude obsahovať údaje uvedené v Administratívnej smernici prevzatej z titulnej strany brožúry zverejnenej podľa pravidla 48 („bibliografické údaje“) a skutočnosti uvedené v odsekoch (a)(ii) až (v);
-
-          - (ii) ako Vestník v elektronickej forme, ktorý bude obsahovať bibliografické údaje, prípadne výkres zobrazený na uvedenej titulnej strane a anotáciu.
-
-      - 86.2 Jazyky; prístup k Vestníku
-
-        - (a) Vestník v papierovej forme bude vychádzať v dvojjazyčnom (anglickom a francúzskom) vydaní. Bude sa vydávať aj v iných jazykoch, ak sa náklady s tým spojené zabezpečia predajom alebo subvenciami.
+        - (a) Vestník sa zverejní súčasne v anglickom a francúzskom jazyku. Preklady do angličtiny a francúzštiny zabezpečí Medzinárodný úrad.
 
         - (b) Zhromaždenie môže rozhodnuť, že sa Vestník bude vydávať v iných jazykov než v tých, ktoré sú uvedené v odseku (a).
 
-        - (c) Vestník v elektronickej forme uvedený v pravidle 86.1(b)(ii) bude prístupný súčasne v angličtine a vo francúzštine v elektronickej forme a prostriedkami uvedenými v Administratívnej smernici. Preklad zabezpečí Medzinárodný úrad v angličtine a vo francúzštine. Medzinárodný úrad zabezpečí, aby bol Vestník v elektronickej forme prístupný čo najskôr po dátume zverejnenia brožúry obsahujúcej medzinárodné prihlášky.
+        - (c) Formu a prostriedky, ktorými sa bude zverejňovať Vestník, stanovia administratívne smernice.
+
+        - (d) Medzinárodný úrad zabezpečí, že pre každú medzinárodnú prihlášku zverejní vo Vestníku informácie podľa pravidla 86.1(i) v deň zverejnenia alebo čím skôr po dátume zverejnenia medzinárodnej prihlášky.
 
       - 86.3. Vydávacie obdobie
 
@@ -2876,17 +2866,11 @@
 
         - Ďalšie podrobnosti týkajúce sa Vestníka môžu určiť Administratívne smernice.
 
-    - PRAVIDLO 87 VÝTLAČKY PUBLIKÁCIÍ
+    - Pravidlo 87 Výtlačky publikácií
 
-      - 87.1 Orgány pre medzinárodnú rešeš a pre medzinárodný predbežný prieskum
+      - 87.1 Výtlačok publikácie na požiadanie
 
-        - Každý orgán pre medzinárodnú rešerš a medzinárodný predbežný prieskum má právo na dva bezplatné výtlačky každej zverejnenej medzinárodnej prihlášky, Vestníka a každej inej publikácie všeobecného dosahu, ktorú vydal Medzinárodný úrad v súvislosti so Zmluvou a Vykonávacím predpisom.
-
-      - 87.2. Národné úrady
-
-        - (a) Každý národný úrad má právo na jeden bezplatný výtlačok každej zverejnenej medzinárodnej prihlášky, Vestníka a každej inej publikácie všeobecného dosahu, ktorú vydal Medzinárodný úrad v súvislosti so Zmluvou a Vykonávacím predpisom.
-
-        - (b) Publikácie uvedené v odseku (a) sa zašlú na osobitnú žiadosť. Ak je niektorá publikácia dostupná v niekoľkých jazykoch, uvedie sa v žiadosti jazyk alebo jazyky, v ktorých sa táto publikácia požaduje.
+        - Medzinárodný úrad vytlačí zdarma každú zverejnenú medzinárodnú prihlášku, Vestník a každú inú publikáciu všeobecného záujmu zverejnenú Medzinárodným úradom v súvislosti so Zmluvou alebo týmto Vykonávacím predpisom orgánu pre medzinárodnú rešerš, orgánu pre medzinárodný predbežný prieskum a národným úradom na základe žiadosti príslušného orgánu alebo úradu. Ďalšie detaily týkajúce sa formy a prostriedkov, ktorými sa budú publikácie zasielať, stanovia administratívne smernice.
 
     - PRAVIDLO 88 ZMENA VYKONÁVACIEHO PREDPISU
 
@@ -3116,7 +3100,7 @@
 
         - (b) Oznámenie podľa odseku (a) musí Medzinárodný úrad ihneď zverejniť vo Vestníku a bude platiť pre medzinárodné prihlášky podané viac ako jeden mesiac po dátume tohto zverejnenia.
 
-    - Pravidlo 91 Zjavné omyly v dokladoch
+    - Pravidlo 91 Zjavné omyly v dokumentoch
 
       - 91.1. Oprava
 
@@ -3138,7 +3122,7 @@
 
           - (iv) Medzinárodného úradu, ak ide o chybu v inej písomnosti predloženej tomuto úradu, než je medzinárodná prihláška alebo jej úpravy a opravy.
 
-        - (f) Orgán, ktorý schváli alebo odmietne nápravu, to bez odkladu oznámi prihlasovateľovi a v prípade odmietnutia uvedie dôvody. Orgán, ktorý nápravu schválil, to bez odkladu oznámi Medzinárodnému úradu. Ak došlo k odmietnutiu nápravy, Medzinárodný úrad zverejní žiadosť o nápravu spolu s medzinárodnou prihláškou na žiadosť prihlasovateľa, podanú v rozhodnom období podľa odsekov (g-bis), (g-ter) alebo (g-quater), za predpokladu, že sa zaplatí osobitný poplatok, ktorého výšku určujú Administratívne smernice. Kópia žiadosti o nápravu sa priloží k postúpeniu podľa článku 20, pokiaľ sa na postúpenie nepoužije brožúra alebo pokiaľ sa medzinárodná prihláška nezverejňuje na základe článku 64 (3).
+        - (f) Orgán, ktorý schváli alebo zamietne nápravu, to bez odkladu oznámi prihlasovateľovi a v prípade odmietnutia uvedie dôvody. Orgán, ktorý nápravu schváli, to bez odkladu oznámi Medzinárodnému úradu. Ak došlo k odmietnutiu nápravy, Medzinárodný úrad zverejní žiadosť o nápravu spolu s medzinárodnou prihláškou na žiadosť prihlasovateľa, podanú v rozhodnom období podľa odsekov (g-bis), (g-ter) a (g-quarter), za predpokladu, že zaplatí osobitný poplatok, ktorého výšku určujú administratívne smernice. Kópia žiadosti o nápravu sa priloží k postúpeniu podľa článku 20, ak sa medzinárodná prihláška nezverejňuje na základe článku 64(3).
 
         - (g) Schválenie nápravy podľa odseku (e) je účinné s výhradou odsekov (g-bis), (g-ter) a (g-quater):
 
