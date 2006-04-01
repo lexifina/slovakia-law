@@ -48,7 +48,7 @@
 
 - 13) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
-- 14) Zákon č. 468/1991 Zb. o prevádzkovaní rozhlasového a televízneho vysielania v znení neskorších predpisov.
+- 14) Napríklad § 45 až 52, § 55 a § 56 až 60 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
@@ -90,21 +90,21 @@
 
 - 25a) § 3 ods. 3 písm. m) zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
-- 26) § 21 ods. 3 zákona č. 195/2000 Z. z. o telekomunikáciách.
+- 26) § 75 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
-- 27) § 22 ods. 3 zákona č. 195/2000 Z. z.
+- 27) § 31 zákona č. 610/2003 Z. z.
 
-- 27a) § 23 ods. 4 zákona č. 195/2000 Z. z.
+- 27a) § 31 ods. 6 písm. f) zákona č. 610/2003 Z. z.
 
-- 27b) § 23 ods. 4 písm. a) a b) zákona č. 195/2000 Z. z.
+- 27b) § 32 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
 
-- 27c) § 25 ods. 3 zákona č. 195/2000 Z. z.
+- 27c) § 32 ods. 21 a § 35 ods. 5 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
 
-- 27d) § 34 ods. 3 zákona č. 195/2000 Z. z.
+- 27d) § 35 ods. 4 písm. a) zákona č. 610/2003 Z. z.
 
-- 27e) § 29 zákona č. 195/2000 Z. z.
+- 27e) § 36 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
 
-- 27f) § 37 ods. 6 písm. c) zákona č. 195/2000 Z. z.
+- 27f) § 14 ods. 3 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
 
 - 27g) § 37 ods. 14 zákona č. 195/2000 Z. z.
 

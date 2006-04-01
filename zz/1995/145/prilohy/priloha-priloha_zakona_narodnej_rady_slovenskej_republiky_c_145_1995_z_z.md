@@ -250,31 +250,53 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 13
 
-  - a) Vydanie licencie na terestriálne vysielanie ............................................................................................................ | 20 000 Sk až 10 000 000 Sk
+  - a) Udelenie licencie na televízne vysielanie<sup>14</sup>) |
 
-  - b) Vydanie licencie na rozhlasové vysielanie prostredníctvom družice ................................................................. | 200 000 Sk
+  - 1. celoplošné alebo multiregionálne | 20 000 Sk
 
-  - c) Vydanie licencie na televízne vysielanie prostredníctvom družice ..................................................................... | 1 000 000 Sk
+  - 2. regionálne | 10 000 Sk
 
-  - d) Vydanie licencie na vysielanie prostredníctvom ostatných telekomunikačných sietí alebo zariadení ........ | 10 000 Sk až 500 000 Sk
+  - 3. lokálne | 5 000 Sk
 
-  - e) Vydanie rozhodnutia o zmene licencie na rozhlasové vysielanie ....................................................................... | 5 000 Sk až 20 000 Sk
+  - b) Udelenie licencie na rozhlasové vysielanie<sup>14</sup>) |
 
-  - f) Vydanie rozhodnutia o zmene licencie na televízne vysielanie ............................................................................. | 5 000 Sk až 50 000 Sk
+  - 1. celoplošné alebo multiregionálne | 10 000 Sk
 
-  - g) Vydanie rozhodnutia o predĺžení doby platnosti licencie na vysielanie – správny orgán vyberie poplatok vo výške poplatku za vydanie licencie podľa písmen a), b), c) a d) |
+  - 2. regionálne | 5 000 Sk
 
-  - h) Vydanie rozhodnutia o registrácii na retransmisiu ................................................................................................. | 10 000 Sk až 500 000 Sk
+  - 3. lokálne | 5 000 Sk
 
-  - i) Vydanie rozhodnutia o zmene registrácie na retransmisiu .................................................................................... | 5 000 Sk až 20 000 Sk
+  - c) Udelenie licencie na vysielanie do zahraničia alebo prostredníctvom satelitu |
+
+  - 1. televízne vysielanie | 20 000 Sk
+
+  - 2. rozhlasové vysielanie | 10 000 Sk
+
+  - d) Vydanie rozhodnutia o predĺžení doby platnosti licencie na vysielanie – správny orgán vyberie poplatok vo výške poplatku za udelenie licencie podľa písmen a) až c) |
+
+  - e) Udelenie krátkodobej licencie na |
+
+  - 1. televízne vysielanie | 3 000 Sk
+
+  - 2. rozhlasové vysielanie | 1 500 Sk
+
+  - f) Vydanie rozhodnutia o zmene licencie na vysielanie okrem zmeny podľa písmena d) |
+
+  - 1. televízne vysielanie | 1 000 Sk až 5 000 Sk
+
+  - 2. rozhlasové vysielanie | 1 000 Sk až 5 000 Sk
+
+  - g) Registrácia retransmisie<sup>14</sup>) | 5 000 Sk až 20 000 Sk
+
+  - h) Vydanie rozhodnutia o zmene registrácie retransmisie | 1 000 Sk až 5 000 Sk
 
   - Splnomocnenie |
 
-  - Poplatok v rámci určeného rozpätia podľa písmen a), d) až f), h) a i) tejto položky určí príslušný správny orgán. |
+  - Poplatok v rámci určeného rozpätia podľa písmen f) až h) tejto položky určí príslušný správny orgán. |
 
   - Poznámka |
 
-  - Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
+  - Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu; poplatok za udelenie licencie sa vyberie po vydaní rozhodnutia o jej udelení a poplatok za registráciu retransmisie sa vyberie po vydaní rozhodnutia o jej registrácii. |
 
     - Položka 15
 
@@ -1948,89 +1970,55 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámka Poplatky podľa tejto položky sa vzťahujú iba na námornú plavbu. |
 
-  - VII. ČASŤ TELEKOMUNIKÁCIE
+  - VII. ČASŤ ELEKTRONICKÉ KOMUNIKÁCIE
 
     - Položka 99
 
-  - a) Rozhodnutie o pripojení iného prevádzkovateľa telekomunikačnej siete alebo poskytovateľa telekomunikačnej služby do verejnej telekomunikačnej siete (ďalej len sieť)<sup>26</sup>) .......................... | 25 000 Sk
+  - Podanie návrhu na rozhodnutie sporu<sup>26</sup>) |
 
-  - b) Rozhodnutie o prístupe iného prevádzkovateľa siete alebo poskytovateľa telekomunikačnej služby do siete<sup>27</sup>) ......................................................................................................................................... | 25 000 Sk
+  - a) o prístupe alebo prepojení............................................................................. | 50 000 Sk
 
-  - c) Rozhodnutie o pozastavení výkonu zmluvy o vzájomnom prepojení sietí<sup>27a</sup>) .............................. | 50 000 Sk
+  - b) o spoločnom umiestnení a používaní zariadení............................................ | 25 000 Sk
 
-  - d) Určenie technických, prevádzkových a cenových podmienok zmluvným stranám<sup>27b</sup>) ............... | 100 000 Sk
-
-  - e) Rozhodnutie o podmienkach spoločného používania priestorov a zariadení držiteľov licencií<sup>27c</sup>) ...................................................................................................................................................... | 25 000 Sk
-
-  - Poznámka Poplatok podľa tejto položky správny orgán vyberie až po vykonaní úkonu. |
+  - c) okrem sporov podľa písm. a) a b).................................................................. | 10 000 Sk
 
     - Položka 100
 
-  - a) Vydanie rozhodnutia o schválení technickej spôsobilosti vybraného telekomunikačného zariadenia<sup>27d</sup>) | 10 000 Sk
+  - a) vydanie rozhodnutia o pridelení čísla<sup>27</sup>)<sub>.....</sub> | 1 500 Sk
 
-  - b) Vydanie rozhodnutia o schválení technickej spôsobilosti vybraného telekomunikačného zariadenia v prípade opakovaného schvaľovania ....................................................................................................... | 3 000 Sk
-
-  - c) Vydanie duplikátu rozhodnutí uvedených v písmenách a) a b) ............................................................................. | 100 Sk
-
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodení držitelia preukazu ZŤP alebo ZŤP-S a preukazu občana s ťažkým zdravotným postihnutím, zariadenia sociálnych služieb, právnické osoby a fyzické osoby, ktoré vykonávajú sociálnu prevenciu alebo poskytujú sociálne poradenstvo alebo sociálne služby za podmienok ustanovených osobitným zákonom<sup>11</sup>) a nevykonávajú sociálnu prevenciu alebo neposkytujú sociálne poradenstvo alebo sociálne služby na účel dosiahnutia zisku, fyzické osoby a právnické osoby zriadené na poskytovanie zdravotnej starostlivosti podľa osobitných predpisov.<sup>12</sup>) |
-
-  - Poznámka Poplatok podľa tejto položky správny orgán vyberie až po vykonaní úkonu. |
-
-    - Položka 101
-
-  - Vydanie rozhodnutia o pridelení čísla pre telekomunikačné služby a telekomunikačné siete<sup>27e</sup>) ....... | 1 500 Sk
+  - b) žiadosť o vykonanie zmeny vo vydanom rozhodnutí o pridelení čísla<sup>27a</sup>)<sub>.....</sub> | 500 Sk
 
   - Poznámka Poplatok podľa tejto položky sa nevyberie, ak správny orgán prideľuje čísla pre tiesňové volania, hlásenie porúch, hovory s ohlasovňou medzimestských a medzinárodných hovorov, hovory s telefónnou stanicou určenou na podávanie telegramov telefonicky a informácie (hlásky), ktoré informujú volajúceho účastníka o zmenách účastníckych telefónnych čísel. |
 
+    - Položka 101
+
+  - a) podanie žiadosti o povolenie na prevádzkovanie rádiových zariadení alebo podanie žiadosti o pridelenie frekvencií<sup>27b</sup>) | 200 Sk
+
+  - b) predĺženie doby platnosti individuálneho, prevádzkového, typového, osobitného povolenia na prevádzkovanie rádiových zariadení<sup>27c</sup>) | 200 Sk
+
+  - c) vydanie amatérskeho povolenia na prevádzkovanie rádiových zariadení<sup>27d</sup>) alebo predĺženie doby jeho platnosti | 100 Sk
+
+  - d) podanie žiadosti o zmenu povolenia vydanom podľa tejto položky | 100 Sk
+
     - Položka 102
 
-  - a) Podanie žiadosti o povolenie na prevádzkovanie rádiových zariadení<sup>27f</sup>) ....................................... | 200 Sk
+  - a) vydanie osvedčenia o osobitnej odbornej spôsobilosti<sup>27e</sup>).................................................................... | 300 Sk
 
-  - b) Predĺženie doby platnosti individuálneho, typového, osobitného povolenia na prevádzkovanie rádiových zariadení<sup>27g</sup>) ................................................................................................................................... | 200 Sk
-
-  - c) Vydanie amatérskeho povolenia na prevádzkovanie rádiových zariadení alebo predĺženie doby jeho platnosti<sup>27f</sup>), <sup>27g</sup>), <sup>27h</sup>) ........................................................................................................................... | 100 Sk
-
-  - d) Vydanie frekvenčného prísľubu |
-
-  - 1. pre pevnú rádiokomunikačnú službu .................................................................................................... | 3 000 Sk
-
-  - 2. pre ostatné služby ..................................................................................................................................... | 1 000 Sk
-
-  - e) Zmena povolení vydaných podľa tejto položky ....................................................................................... | 100 Sk
+  - b) žiadosť o vydanie duplikátu osvedčenia o osobitnej odbornej spôsobilosti............................................ | 200 Sk
 
     - Položka 103
 
-  - a) Vydanie osvedčenia o osobitnej odbornej spôsobilosti<sup>27h</sup>) ........................................................ | 300 Sk
+  - a) overenie osobitnej odbornej spôsobilosti operátora amatérskych staníc, rádiotelefonistu leteckej pohyblivej služby alebo plavebnej pohyblivej služby<sup>27e</sup>) | 200 Sk
 
-  - b) Žiadosť o predĺženie platnosti osvedčenia uvedeného v písmene a) ....................................... | 100 Sk
+  - b) overenie osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení<sup>27e</sup>) | 500 Sk
 
-  - c) Žiadosť o vydanie duplikátu osvedčenia uvedeného v písmene a) ............................................ | 200 Sk
+  - c) opravná skúška pri overení podľa písmena a) | 100 Sk
+
+  - d) opravná skúška pri overení podľa písmena b) | 200 Sk
 
     - Položka 104
 
-  - a) Overenie osobitnej spôsobilosti operátora amatérskych staníc, rádiotelefonistu pohyblivej leteckej a námornej služby<sup>27h</sup>) ...................................................................................................................... | 200 Sk
-
-  - b) Overenie osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení<sup>27h</sup>) .................................. | 500 Sk
-
-  - c) Opravná skúška pri overení podľa písmena a) ...................................................................................... | 100 Sk
-
-  - d) Opravná skúška pri overení podľa písmena b) ...................................................................................... | 200 Sk
-
-    - Položka 105
-
-  - a) Registrácia na začatie telekomunikačnej činnosti podľa § 14 zákona č. 195/2000 Z. z. o telekomunikáciách ....................................................................................................................... | 2 000 Sk
-
-  - b) Zmena v registrácii podľa písmena a) .................................................................................... | 500 Sk
-
-    - Položka 106
-
-  - a) Podanie žiadosti o licenciu<sup>27i</sup>) ................................................................................................ | 1 000 Sk
-
-  - b) Vydanie rozhodnutia o predbežných podmienkach na vykonávanie telekomunikačných činností<sup>27j</sup>) ....................................................................................................................................... | 5 000 Sk
-
-    - Položka 107
-
-  - Žiadosť o vykonanie zmien vo vydaných povoleniach<sup>27k</sup>) ........................................................ | 500 Sk
+  - Vydanie potvrdenia o splnení oznamovacej povinnosti<sup>27f</sup>)........................................................ | 500 Sk
 
   - VIII. ČASŤ FINANČNÁ SPRÁVA A OBCHODNÁ ČINNOSŤ
 
