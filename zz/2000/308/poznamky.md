@@ -40,6 +40,10 @@
 
 - 21) Napríklad § 30 ods. 1 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, § 6 ods. 3 písm. c) zákona č. 195/2000 Z. z.
 
+- 21a) Zákon č. 152/1998 Z. z. o sťažnostiach.
+
+- 21b) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
 - 22) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. v znení neskorších predpisov, zákon č. 46/1999 Z. z.
 
 - 23) § 5 zákona č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
