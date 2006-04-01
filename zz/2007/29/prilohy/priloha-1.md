@@ -14,7 +14,7 @@ Príloha č. 1
 
 - 5 | Suchá Hora - Chocholów | cestný | osobná a nákladná | Suchá Hora (SR) | nákladná doprava do 3,5 tony celkovej hmotnosti
 
-- 6 | Tatranská Javorina - Lysá Poľana | cestný | osobná a nákladná | Lysá Poľana (PR) |
+- 6 | Tatranská Javorina - Łysa Polana | cestný | osobná a nákladná | Łysa Polana (PR) | nákladná doprava do 7,5 tony celkovej hmotnosti
 
 - 7 | Lysá nad Dunajcom - Niedzica | cestný | osobná | Lysá nad Dunajcom (SR) |
 
