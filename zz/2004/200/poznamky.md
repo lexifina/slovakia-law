@@ -1,14 +1,14 @@
 - 1) § 2 písm. f) zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
-- 2) Čl. 1 Nariadenia Rady (ES) č. 3295/94 z 22. decembra 1994 ustanovujúce opatrenia proti prepusteniu falšovaného a nelegálne rozmnoženého tovaru do voľného obehu, na vývoz alebo spätný vývoz a proti jeho vstupu do režimu s podmienečným oslobodením od cla (Úradný vestník Európskej únie L 341 z 30. 12. 1994) v znení Nariadenia Rady (ES) č. 241/99 z 25. januára 1999.
+- 2) Čl. 1 nariadenia Rady (ES) č. 1383/2003 z 22. júla 2003, ktoré sa týka colného konania pri tovare podozrivom z porušovania niektorých práv duševného vlastníctva a opatrení, ktoré sa majú prijať pri tovare, pri ktorom sa zistilo, že sa takéto práva porušili (Ú. v. EÚ L 196, 2. 8. 2003).
 
-- 3) Čl. 1 ods. 2 písm. a) Nariadenia Rady (ES) č. 3295/94 v znení Nariadenia Rady (ES) č. 241/99.
+- 3) Čl. 2 ods. 1 nariadenia Rady (ES) č. 1383/2003.
 
 - 4) Zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon) v znení zákona č. 402/2002 Z. z.
 
 - 5) Zákon č. 478/1992 Zb. o úžitkových vzoroch v znení neskorších predpisov.
 
-- 6) Zákon č. 444/2002 Z. z. o dizajnoch.
+- 6) Zákon č. 444/2002 Z. z. o dizajnoch v znení zákona č. 344/2004 Z. z.
 
 - 7) Zákon č. 55/1997 Z. z. o ochranných známkach v znení neskorších predpisov.
 
@@ -20,17 +20,17 @@
 
 - 11) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
-- 12) Napríklad zákon č. 618/2003 Z. z., zákon č. 435/2001 Z. z. v znení zákona č. 402/2002 Z. z., zákon č. 478/1992 Zb. v znení neskorších predpisov, zákon č. 444/2002 Z. z., zákon č. 55/1997 Z. z. v znení neskorších predpisov, zákon č. 469/2003 Z. z., zákon č. 146/2000 Z. z., zákon č. 132/1989 Zb. v znení neskorších predpisov.
+- 12) Napríklad zákon č. 618/2003 Z. z., zákon č. 435/2001 Z. z. v znení zákona č. 402/2002 Z. z., zákon č. 478/1992 Zb. v znení neskorších predpisov, zákon č. 444/2002 Z. z. v znení zákona č. 344/2004 Z. z., zákon č. 55/1997 Z. z. v znení neskorších predpisov, zákon č. 469/2003 Z. z., zákon č. 146/2000 Z. z., zákon č. 132/1989 Zb. v znení neskorších predpisov.
 
 - 13) Nariadenie Rady (ES) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Úradný vestník Európskej únie L 302 z 19. 10. 1992) v znení neskorších zmien a doplnkov.
 
-- 14) Čl. 3 ods. 1 Nariadenia Rady (ES) č. 3295/94 v znení Nariadenia Rady (ES) č. 241/99.
+- 14) Čl. 5 ods. 3 nariadenia Rady (ES) č. 1383/2003.
 
 - 15) § 3 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 16) Čl. 6 ods. 1 Nariadenia Rady (ES) č. 1383/2003 z 22. júla 2003 o postupe colných orgánov pri tovare, pri ktorom je podozrenie z porušovania niektorých práv duševného vlastníctva a opatreniach pri tovare, ktorým sa tieto práva porušujú (Úradný vestník Európskej únie L 196 z 2. 8. 2003).
+- 16) Čl. 6 ods. 1 nariadenia Rady (ES) č. 1383/2003.
 
-- 17) Čl. 3 Nariadenia Rady (ES) č. 3295/94 v znení Nariadenia Rady (ES) č. 241/99.
+- 17) Čl. 5 a čl. 6 nariadenia Rady (ES) č. 1383/2003 a čl. 3 nariadenia Komisie (ES) 1891/2004 z 21. októbra 2004, ktorým sa vykonáva nariadenie Rady (ES) č. 1383/2003 o prijatí opatrení colnými orgánmi pri tovare, pri ktorom je podozrenie z porušovania niektorých práv duševného vlastníctva, a opatrení, ktoré sa majú prijať pri tovare, pri ktorom sa zistilo, že sa práva duševného vlastníctva porušili (Ú. v. EÚ L 328, 30. 10. 2004).
 
 - 18) Čl. 37 Nariadenia Rady (ES) č. 2913/92 v znení neskorších zmien a doplnkov.
 
@@ -38,7 +38,9 @@
 
 - 20) Čl. 50 Nariadenia Rady (ES) č. 2913/92 v znení neskorších zmien a doplnkov.
 
-- 21) Čl. 6 Nariadenia Rady (ES) č. 3295/94.
+- 20a) Čl. 11 ods. 1 nariadenia Rady (ES) č. 1383/2003.
+
+- 21) Čl. 13 nariadenia Rady (ES) č. 1383/2003.
 
 - 22) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -50,7 +52,7 @@
 
 - 26) § 2 ods. 2 Obchodného zákonníka.
 
-- 27) Napríklad zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
+- 27) Napríklad zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 28) Zákon č. 40/1964 Zb. Občiansky zákonník.
 
@@ -60,7 +62,11 @@
 
 - 30) § 2 písm. a) zákona č. 199/2004 Z. z.
 
+- 30a) Nariadenie Rady (ES) č. 1383/2003.
+
 - 31) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 31a) Čl. 18 nariadenia Rady (ES) č. 1383/2003.
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
