@@ -54,6 +54,8 @@
 
 - 6h) § 12 ods. 1 Trestného poriadku v znení neskorších predpisov.
 
+- 7) Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
+
 - 7a) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 7aa) Napríklad zákon č. 150/2001 Z. z. v znení zákona č. 182/2002 Z. z., zákon č. 152/1998 Z. z. o sťažnostiach v znení neskorších predpisov.
