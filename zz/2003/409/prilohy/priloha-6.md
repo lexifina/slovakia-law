@@ -60,13 +60,7 @@ Príloha č. 6 k vyhláške č. 409/2003 Z. z.
 
   - 3.2.1 Čistenie pomocou chlórovaných uhľovodíkov
 
-  - V prevádzkach na čistenie textílií pomocou chlórovaných uhľovodíkov koncentrácia pár rozpúšťadla v plynoch odsávaných zo sušiarní a z pracovného prostredia nesmie prekročiť pri hmotnosti jednej dávky textílií
-
-    - a) do 30 kg 150 mg.m<sup>-3</sup>,
-
-    - b) 30 kg a viac 100 mg.m<sup>-3</sup>.
-
-    - Celkový emisný faktor nesmie prekročiť hodnotu 30 g rozpúšťadla na 1 kg čistených textílií v mesačnom priemere.
+    - Celkový emisný faktor nesmie presiahnuť hodnotu 30 g rozpúšťadla na 1 kg čistených textílií v mesačnom priemere.
 
   - 3.2.2 Čistenie pomocou technického benzínu
 

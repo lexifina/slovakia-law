@@ -42,9 +42,9 @@ Príloha č. 3 k vyhláške č. 409/2003 Z. z.
 
   - Činnosť | Faktor K<sub>1</sub>
 
-  - Rotačná hĺbkotlač; flexografická tlač; laminovanie ako súčasť tlačiarenskej činnosti; lakovanie ako súčasť tlačiarenskej činnosti; impregnácia dreva; natieranie textílii, tkanín, fólií a papiera; nanášanie lepidla | 4
+  - Rotačná hĺbkotlač; flexografická tlač; laminovanie ako súčasť tlačiarenskej činnosti; lakovanie ako súčasť tlačiarenskej činnosti; natieranie dreva; natieranie textílii, tkanín, fólií a papiera; nanášanie lepidla | 4
 
-  - Natieranie pásov a zvitkov; natieranie navíjaných drôtov; opravy a prestriekavanie áut | 3
+  - Natieranie pásov a zvitkov; opravy a prestriekavanie áut | 3
 
   - Nátery pre styk s potravinami; natieranie na volnom priestranstve | 2,33
 

@@ -74,9 +74,9 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 3) Pre nové zariadenia, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 7.
 
-    - 4) Koncentračný emisný limit platí pri hmotnostnom toku 10 g.h<sup>-1</sup>.
+    - 4) Koncentračný emisný limit platí pri hmotnostnom toku 100 g.h<sup>-1</sup>.
 
-    - 5) Koncentračný emisný limit platí pri hmotnostnom toku 100 g.h<sup>-1</sup>.
+    - 5) Koncentračný emisný limit platí pri hmotnostnom toku 10 g.h<sup>-1</sup>.
 
   - 2.2 Odmasťovanie a čistenie povrchu kovov, elektrosúčiastok a iných materiálov a výrobkov ostatnými organickými rozpúšťadlami [§ 3 písm. c)]
 
@@ -536,7 +536,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 5) Pre zariadenia, ktoré používajú technológiu umožňujúcu opätovné využitie regenerovaných rozpúšťadiel, platí emisný limit 150 mg.m<sup>-3</sup>.
 
-    - 6) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 5 – 15 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 4.
+    - 6) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 5 – 15 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 6.
 
   - 16. Extrakcia rastlinných olejov, živočíšnych tukov a rafinácia rastlinných olejov
 
