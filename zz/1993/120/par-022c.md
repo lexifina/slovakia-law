@@ -1,3 +1,5 @@
-# § 22c Paušálne náhrady
+# § 22c Paušálne náhrady a cestovné náhrady pri zahraničných cestách
 
-Generálnemu prokurátorovi patria paušálne náhrady vo výške 8 000 Sk mesačne, a to začínajúc prvým dňom mesiaca, v ktorom bol do funkcie generálneho prokurátora vymenovaný.
+(1) Generálnemu prokurátorovi patria paušálne náhrady vo výške 50 % mesačného platu.
+
+(2) Výšku náhrady pri zahraničných cestách, ktoré súvisia s výkonom funkcie generálneho prokurátora, určí národná rada uznesením.

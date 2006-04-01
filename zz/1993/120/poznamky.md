@@ -20,6 +20,8 @@
 
 - 8a) Čl. 150 Ústavy Slovenskej republiky.
 
+- 8b) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+
 - 9) Zákon Národnej rady Slovenskej republiky č. 7/1993 Z. z. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia.
 
 - 10) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
