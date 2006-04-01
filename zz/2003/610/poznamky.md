@@ -1,6 +1,8 @@
 - 1) Vyhláška Ministerstva zahraničných vecí č. 190/1968 Zb. o Medzinárodnom dohovore o telekomunikáciách, Montreux 1965.
 
-- 2) § 43a ods. 3 písm. h) a i) a § 139a ods. 10 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 1a) Napríklad zákon č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z., zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.
+
+- 2) § 43a ods. 3 písm. h) a i), § 55 ods. 2 a § 139a ods. 10 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 3) Nariadenie vlády Slovenskej republiky č. 453/2002 Z. z. o postupoch pri poskytovaní informácií v oblasti technických predpisov a technických noriem.
 
@@ -11,6 +13,8 @@
 - 6) § 5 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
 - 7) Čl. 2 ods. 3 a čl. 3 ods. 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+
+- 7a) Napríklad § 68 zákona č. 308/2000 Z. z. o vysielaní a retransmisii.
 
 - 8) § 21 ods. 4 písm. a) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
@@ -56,7 +60,13 @@
 
 - 23) § 53 až 63 zákona č. 308/2000 Z. z.
 
+- 23a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií v znení neskorších predpisov.
+
 - 24) § 17 zákona č. 431/2002 Z. z. o účtovníctve.
+
+- 24a) § 3 písm. c) zákona č. 308/2000 Z. z.
+
+- 24b) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 25) Zákon č. 166/2003 Z. z.§ 88 ods. 9 a 10 Trestného poriadku.
 
@@ -64,7 +74,9 @@
 
 - 27) § 10 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme.
 
-- 28) § 151n až 151p Občianskeho zákonníka.
+- 27a) § 32 písm. a) a c) a § 55 ods. 2 zákona č. 50/1976 Zb.
+
+- 28) § 151n až 151p Občianskeho zákonníka.§ 139 ods. 1 zákona č. 50/1976 Zb.
 
 - 29) § 35 zákona č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam.
 
@@ -73,5 +85,9 @@
 - 31) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 32) § 246 ods. 2 písm. b) Občianskeho súdneho poriadku v znení zákona č. 424/2002 Z. z.
+
+- 33) § 52 zákona č. 308/2000 Z. z.
+
+- 34) § 68 ods. 4 zákona č. 308/2000 Z. z.
 
 - 1) Dostupnosť týchto informácií môže byť obmedzená na zaisteresované strany len v prípade verejných bezpečnostných záujmov.
