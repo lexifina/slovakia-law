@@ -8,6 +8,8 @@
 
 - 6) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
+- 7) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
 - 8) § 3 písm. a) zákona č. 52/1998 Z. z.
 
 - 9) § 18 zákona č. 153/2001 Z. z. o prokuratúre.
@@ -16,7 +18,13 @@
 
 - 11) § 33 zákona č. 153/2001 Z. z.
 
+- 11a) Napríklad § 23 zákona č. 71/1967 Zb., § 22 zákona č. 511/1992 Zb.
+
 - 12) Zákon č. 241/2001 Z. z.
+
+- 12a) Zákon č. 99/1963 Zb. v znení neskorších predpisov.
+
+- Zákon č. 301/2005 Z. z. Trestný poriadok.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
@@ -26,7 +34,7 @@
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 193/1994 Z. z. o prídavkoch na deti a o príplatku k prídavkom na deti v znení neskorších predpisov.
 
-- 17) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 17) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
