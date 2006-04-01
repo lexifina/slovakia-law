@@ -2,6 +2,8 @@
 
 - 1a) Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov.
 
+- 1b) Zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
 - 3) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov.
 
 - 4) Nariadenie vlády Slovenskej republiky č. 300/1995 Z. z., ktorým sa vydáva colný sadzobník.
@@ -40,7 +42,11 @@
 
 - 18) § 244 a nasl. Občianskeho súdneho poriadku.
 
-- 18a) Zákon č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 308/2000 Z. z.Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 507/2001 Z. z. o poštových službách.
+- 18a) Zákon č. 610/2003 Z. z. v znení neskorších predpisov.Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 507/2001 Z. z. o poštových službách.
+
+- 18b) Zákon č. 276/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 610/2003 Z. z. v znení neskorších predpisov.
 
 - 19) Zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
 
