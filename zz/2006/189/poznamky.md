@@ -1,0 +1,23 @@
+- *) Táto zmluva bola prijatá na diplomatickej konferencii WIPO o otázkach týkajúcich sa autorského práva, jemu príbuzných práv a s ním súvisiacich práv 20. decembra 1996 v Ženeve.
+
+- Dohodnuté vyhlásenia diplomatickej konferencie, ktorá zmluvu prijala, týkajúce sa určitých ustanovení WCT sú uvedené ako poznámky pod čiarou k príslušným odkazom.
+
+- 1) Dohodnuté vyhlásenie týkajúce sa článku 1 ods. 4: Právo rozmnožovania, ako je ustanovené v článku 9 Bernského dohovoru vrátane výnimiek v ňom uvedených, sa plne uplatňuje v digitálnom prostredí, predovšetkým na použitie diel v digitálnej forme. Rozumie sa, že uloženie chráneného diela v digitálnej forme na elektronickom médiu je rozmnožením v zmysle článku 9 Bernského dohovoru.
+
+- 2) Dohodnuté vyhlásenie týkajúce sa článku 3: Rozumie sa, že pri použití článku 3 tejto zmluvy sa pojem „krajina Únie“ v článkoch 2 až 6 Bernského dohovoru bude interpretovať, akoby to bol odkaz na zmluvnú stranu tejto zmluvy pri uplatnení týchto článkov Bernského dohovoru na ochranu stanovenú touto zmluvou. Takisto sa rozumie, že pojem „krajina mimo Únie“ v týchto článkoch Bernského dohovoru sa za tých istých okolnosti bude interpretovať ako odkaz na krajinu, ktorá nie je zmluvnou stranou tejto zmluvy a pojem „tento dohovor“ v článku 2 ods. 8, článku 2 bis ods. 2, článkoch 3, 4 a 5 Bernského dohovoru sa bude interpretovať, akoby to bol odkaz na Bernský dohovor a túto zmluvu. Napokon sa rozumie, že výraz „príslušník jednej z krajín Únie“ použitý v článkoch 3 až 6 Bernského dohovoru bude pri uplatňovaní týchto článkov v tejto zmluve v prípade medzivládnej organizácie, ktorá je jej zmluvnou stranou, znamenať príslušníka jednej z krajín, ktorá je členom tejto organizácie.
+
+- 3) Dohodnuté vyhlásenie týkajúce sa článku 4: Rozsah ochrany počítačových programov podľa článku 4 tejto zmluvy v súvislosti s článkom 2 je v súlade s článkom 2 Bernského dohovoru a na rovnakej úrovni s príslušnými ustanoveniami Dohody TRIPS.
+
+- 4) Dohodnuté vyhlásenie týkajúce sa článku 5: Rozsah ochrany kompilácií dát (databáz) podľa článku 5 tejto zmluvy v súvislosti s článkom 2 je v súlade s článkom 2 Bernského dohovoru a na rovnakej úrovni s príslušnými ustanoveniami Dohody TRIPS.
+
+- 5) Dohodnuté vyhlásenie týkajúce sa článkov 6 a 7: Pojmy „rozmnoženiny“ a „originál a rozmnoženiny“ použité v týchto článkoch, ktoré sú predmetom práva rozširovania a práva nájmu podľa uvedených článkov, sa vzťahujú výhradne na fixované rozmnoženiny, ktoré sa môžu dať do obehu ako hmotné predmety.
+
+- 6) Dohodnuté vyhlásenie týkajúce sa článkov 6 a 7: Pojmy „rozmnoženiny“ a „originál a rozmnoženiny“ použité v týchto článkoch, ktoré sú predmetom práva rozširovania a práva nájmu podľa uvedených článkov, sa vzťahujú výhradne na fixované rozmnoženiny, ktoré sa môžu dať do obehu ako hmotné predmety.
+
+- 7) Dohodnuté vyhlásenie týkajúce sa článku 7: Rozumie sa, že záväzok podľa článku 7 ods.1 nevyžaduje, aby zmluvná strana poskytla výhradné právo komerčného nájmu autorom, ktorým sa podľa právneho poriadku zmluvnej strany neposkytli práva pri zvukových záznamoch. Rozumie sa, že tento záväzok je v súlade s článkom 14 ods. 4 Dohody TRIPS.
+
+- 8) Dohodnuté vyhlásenie týkajúce sa článku 8: Rozumie sa, že prosté zabezpečenie hmotného vybavenia na umožnenie alebo uskutočnenie prenosu nepredstavuje samo osebe prenos v zmysle tejto zmluvy alebo Bernského dohovoru. Ďalej sa rozumie, že nič v článku 8 nebráni tomu, aby zmluvná strana uplatnila článok 11 bis ods. 2.
+
+- 9) Dohodnuté vyhlásenie týkajúce sa článku 10: Rozumie sa, že ustanovenia článku 10 umožňujú zmluvným stranám pokračovať a primerane rozšíriť obmedzenia a výnimky v digitálnom prostredí vo svojich národných právnych poriadkoch, ktoré sa považujú za prijateľné podľa Bernského dohovoru. Podobne by sa tieto ustanovenia mali chápať tak, že umožňujú zmluvným stranám navrhnúť nové výnimky a obmedzenia, ktoré sú náležité v prostredí digitálnej siete. Takisto sa rozumie, že článok 10 ods. 2 ani nezužuje, ani nerozširuje rozsah použiteľnosti obmedzení a výnimiek, ktoré sú dovolené podľa Bernského dohovoru.
+
+- 10) Dohodnuté vyhlásenie týkajúce sa článku 12: Rozumie sa, že odkaz na „porušenie akéhokoľvek práva obsiahnutého v tejto zmluve alebo v Bernskom dohovore“ zahŕňa tak výhradné práva, ako aj práva na odmenu. Ďalej sa rozumie, že zmluvné strany sa nebudú opierať o tento článok pri navrhovaní alebo implementácii systémov na správu práv, ktoré by mali za následok zavedenie formalít, ktoré nie sú dovolené Bernským dohovorom alebo touto zmluvou a ktoré by bránili voľnému pohybu tovarov alebo ohrozovali požívanie práv podľa tejto zmluvy.
