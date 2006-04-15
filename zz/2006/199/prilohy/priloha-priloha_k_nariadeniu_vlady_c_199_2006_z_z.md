@@ -1,0 +1,3 @@
+Príloha k nariadeniu vlády č. 199/2006 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV Smernica Rady 78/933/EHS zo 17. októbra 1978 o aproximácii právnych predpisov členských štátov týkajúcich sa montáže osvetľovacích zariadení a zariadení svetelnej signalizácie na kolesových poľnohospodárskych alebo lesných traktoroch (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 5.) v znení smernice Rady 82/890/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 6.), smernice Európskeho parlamentu a Rady 97/54/ES (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 19.) a smernice Komisie 99/56/ES (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 24.).
