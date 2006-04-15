@@ -6,9 +6,11 @@
 
 - 4) § 33 ods. 6 zákona č. 578/2004 Z. z.
 
-- 5) § 34 ods. 1 zákona č. 578/2004 Z. z.
+- 4a) § 40 a 42 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
-- 6) Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+- 4b) Príloha č. 5 k vyhláške Ministerstva zdravotníctva Slovenskej republiky č. 30/2006 Z. z., ktorou sa ustanovujú podrobnosti o záchrannej zdravotnej službe.
+
+- 5) § 34 ods. 1 zákona č. 578/2004 Z. z.
 
 - 7) § 34 ods. 2 zákona č. 578/2004 Z. z.
 
@@ -18,7 +20,7 @@
 
 - 10) § 96 zákona č. 578/2004 Z. z.
 
-- 11) § 2 zákona č. 370/1997 Z. z. v znení neskorších predpisov.
+- 11) § 2 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 1) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 

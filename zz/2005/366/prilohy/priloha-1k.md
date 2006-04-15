@@ -6,7 +6,7 @@ Príloha č. 1 k vyhláške č. 366/2005 Z. z.
 
   - Za samostatné štúdium a výkon zdravotníckej praxe v príslušnom odbore najmenej štyri roky v priebehu piatich rokov sa zdravotníckemu pracovníkovi prizná 50 kreditov, v zdravotníckom povolaní v kategórii lekár a v kategórii zubný lekár 100 kreditov a lekárovi, ktorý vykonáva lekársku posudkovú činnosť,<sup>1</sup>) 150 kreditov.
 
-  - Za samostatné štúdium a výkon zdravotníckej praxe v rámci profesionálnej služby vojaka<sup>2</sup>) mimo územia Slovenskej republiky sa za každý rok tohto výkonu profesionálnej služby<sup>2</sup>) zdravotníckemu pracovníkovi prizná 50 kreditov.
+  - Za samostatné štúdium a výkon zdravotníckej praxe v rámci štátnej služby profesionálnych vojakov ozbrojených síl Slovenskej republiky<sup>11</sup>) mimo územia Slovenskej republiky sa za každý rok tohto výkonu profesionálnej služby<sup>2</sup>) zdravotníckemu pracovníkovi prizná 20 % z ustanoveného celkového počtu kreditov.
 
   - B. Merateľná zložka
 
@@ -16,54 +16,104 @@ Príloha č. 1 k vyhláške č. 366/2005 Z. z.
 
   - 3. Za 60 minút účasti zdravotníckeho pracovníka na jednorazovej vzdelávacej aktivite organizovanej na okresnej úrovni, krajskej úrovni alebo celoslovenskej úrovni,<sup>3</sup>) ktorej minimálne trvanie je 360 minút, sa prizná účastníkovi 1 kredit. Pri viacdňovej vzdelávacej aktivite sa prizná účastníkovi najviac
 
-  - a) 5 kreditov za prvý deň účasti; u sestier a pôrodných asistentiek a asistentov 7 kreditov,
+  - a) 5 kreditov za prvý deň účasti,
 
-  - b) 7 kreditov za druhý deň účasti; u sestier a pôrodných asistentiek a asistentov 5 kreditov,
+  - b) 7 kreditov za druhý a každý ďalší deň účasti,
 
-  - c) 3 kredity za každý ďalší deň pri vzdelávacej aktivite trvajúcej viac ako 48 hodín.
+  - c) 3 kredity za posledný deň pri vzdelávacej aktivite trvajúcej viac ako 48 hodín.
 
-  - 4. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je prednáška na vzdelávacej aktivite na okresnej alebo krajskej úrovni, sa autorovi priznajú najviac 3 kredity, spoluautorovi najviac 2 kredity; u sestier a pôrodných asistentiek a asistentov na vzdelávacej aktivite na okresnej alebo krajskej úrovni sa autorovi prizná 10 kreditov a spoluautorovi 5. Autorom sa na účely tejto vyhlášky rozumie zdravotnícky pracovník, ktorého výsledkom vlastnej tvorivej duševnej činnosti sú najmenej dve tretiny prezentovaného diela alebo zostavovateľ diela, spoluautorom každý zdravotnícky pracovník, ktorý vlastnou tvorivou duševnou činnosťou zámerne prispel k doplneniu chýbajúcej časti diela autora alebo zostavovateľa diela do výslednej podoby. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
+  - 4. Za 60 minút účasti zdravotníckeho pracovníka na jednorazovej vzdelávacej aktivite vedenej v cudzom jazyku alebo konanej v zahraničí sa priznajú účastníkovi 2 kredity.
 
-  - 5. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je prednáška na vzdelávacej aktivite na celoslovenskej alebo medzinárodnej úrovni, sa autorovi prizná 15 kreditov a spoluautorovi 10 kreditov. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
+  - 5. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je prednáška na vzdelávacej aktivite na okresnej alebo krajskej úrovni, sa autorovi priznajú najviac 3 kredity, spoluautorovi najviac 2 kredity; u sestier a pôrodných asistentiek a asistentov na vzdelávacej aktivite na okresnej alebo krajskej úrovni sa autorovi prizná 10 kreditov a spoluautorovi 5. Autorom sa na účely tejto vyhlášky rozumie zdravotnícky pracovník, ktorého výsledkom vlastnej tvorivej duševnej činnosti sú najmenej dve tretiny prezentovaného diela alebo zostavovateľ diela, spoluautorom každý zdravotnícky pracovník, ktorý vlastnou tvorivou duševnou činnosťou zámerne prispel k doplneniu chýbajúcej časti diela autora alebo zostavovateľa diela do výslednej podoby. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
 
-  - 6. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je poster alebo účasť v panelovej diskusii na vzdelávacej aktivite na okresnej alebo krajskej úrovni, sa autorovi priznajú najviac 2 kredity, spoluautorovi najviac 1 kredit; u sestier a pôrodných asistentiek a asistentov na vzdelávacej aktivite na okresnej alebo krajskej úrovni sa autorovi prizná 5 kreditov a spoluautorovi 3 kredity. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
+  - 6. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je prednáška na vzdelávacej aktivite na celoslovenskej alebo medzinárodnej úrovni, sa autorovi prizná 15 kreditov a spoluautorovi 10 kreditov. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
 
-  - 7. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je poster alebo účasť v panelovej diskusii na vzdelávacej aktivite na celoslovenskej alebo medzinárodnej úrovni, sa autorovi prizná 10 kreditov a spoluautorovi 5 kreditov. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
+  - 7. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je poster alebo účasť v panelovej diskusii na vzdelávacej aktivite na okresnej alebo krajskej úrovni, sa autorovi priznajú najviac 2 kredity, spoluautorovi najviac 1 kredit; u sestier a pôrodných asistentiek a asistentov na vzdelávacej aktivite na okresnej alebo krajskej úrovni sa autorovi prizná 5 kreditov a spoluautorovi 3 kredity. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
 
-  - 8. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je prednáška, poster alebo účasť v panelovej diskusii, ktoré sú vedené v cudzom jazyku, alebo sa konajú v zahraničí, sa autorovi prizná 15 kreditov, spoluautorovi 10 kreditov. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
+  - 8. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je poster alebo účasť v panelovej diskusii na vzdelávacej aktivite na celoslovenskej alebo medzinárodnej úrovni, sa autorovi prizná 10 kreditov a spoluautorovi 5 kreditov. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
 
-  - 9. Za účasť zdravotníckeho pracovníka na odbornej stáži na akreditovanom pracovisku<sup>4</sup>) poskytovateľa zdravotnej starostlivosti, ktorej cieľom je prehĺbenie znalostí pod odborným dohľadom zdravotníckeho pracovníka s príslušnou odbornou spôsobilosťou na inom pracovisku, ako je obvyklé miesto výkonu povolania zdravotníckeho pracovníka, sa priznajú účastníkovi 2 kredity za každý deň, najviac však 30 kreditov, u zubného lekára a lekára vykonávajúceho posudkovú činnosť 3 kredity za každý deň, najviac však 15 kreditov. V prípade pobytu na akreditovaných pracoviskách v inom členskom štáte, ako je Slovenská republika, 4 kredity za každý deň, najviac však 7 kreditov.
+  - 9. Za aktívnu účasť zdravotníckeho pracovníka na sústavnom vzdelávaní podľa odsekov 1 až 3, ktorou je prednáška, poster alebo účasť v panelovej diskusii, ktoré sú vedené v cudzom jazyku, alebo sa konajú v zahraničí, sa autorovi prizná 15 kreditov, spoluautorovi 10 kreditov. Kredity možno priznať najviac dvom spoluautorom. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
 
-  - 10. Za 45 minút pedagogickej alebo prednáškovej činnosti v rámci teoretickej a praktickej výučby v odbornom, špecializačnom alebo certifikačnom vzdelávaní v kurzoch, školeniach alebo pri vedení odbornej stáže a vyučovaní odborných predmetov v študijnom odbore, ktorým sa získava odborná spôsobilosť na výkon zdravotníckeho povolania, alebo prednáškovej činnosti v podobe teoretickej alebo teoreticko-praktickej činnosti v rámci akreditovaného vzdelávacieho programu sústavného vzdelávania organizovaného vzdelávacími ustanovizňami, komorami, odbornými spoločnosťami Slovenskej lekárskej spoločnosti alebo inými medzinárodne uznanými odbornými spoločnosťami, alebo profesijnými združeniami a poskytovateľmi, sa lektorovi prizná 10 kreditov, pričom je možné získať v priebehu jedného hodnoteného obdobia maximálne 50 kreditov. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
+  - 10. Za účasť zdravotníckeho pracovníka na odbornej stáži na akreditovanom pracovisku<sup>4</sup>) poskytovateľa zdravotnej starostlivosti, ktorej cieľom je prehĺbenie znalostí pod odborným dohľadom zdravotníckeho pracovníka s príslušnou odbornou spôsobilosťou na inom pracovisku, ako je obvyklé miesto výkonu povolania zdravotníckeho pracovníka, sa priznajú účastníkovi 2 kredity za každý deň, najviac však 30 kreditov, u zubného lekára a lekára vykonávajúceho posudkovú činnosť 3 kredity za každý deň, najviac však 15 kreditov. V prípade pobytu na akreditovaných pracoviskách v inom členskom štáte, ako je Slovenská republika, 4 kredity za každý deň, najviac však 7 kreditov.
 
-  - 11. Za publikačnú činnosť v periodickej tlači alebo v neperiodických publikáciách, ktoré majú odborný charakter a ich obsah sa týka zdravotníckeho povolania alebo zdravotnej starostlivosti,
+  - 11. Za 45 minút pedagogickej alebo prednáškovej činnosti v rámci teoretickej a praktickej výučby v odbornom, špecializačnom alebo certifikačnom vzdelávaní v kurzoch, školeniach alebo pri vedení odbornej stáže a vyučovaní odborných predmetov v študijnom odbore, ktorým sa získava odborná spôsobilosť na výkon zdravotníckeho povolania, alebo prednáškovej činnosti v podobe teoretickej alebo teoreticko-praktickej činnosti v rámci akreditovaného vzdelávacieho programu sústavného vzdelávania organizovaného vzdelávacími ustanovizňami, komorami, odbornými spoločnosťami Slovenskej lekárskej spoločnosti alebo inými medzinárodne uznanými odbornými spoločnosťami, alebo profesijnými združeniami a poskytovateľmi, sa lektorovi prizná 10 kreditov, pričom je možné získať v priebehu jedného hodnoteného obdobia maximálne 50 kreditov. Ak sa vzdelávací materiál prezentuje opakovane, ďalšie kredity sa nepriznávajú.
 
-  - a) v prípade odborného článku sa prizná autorovi 15 kreditov a spoluautorovi 10 kreditov,
+  - 12. Za publikačnú činnosť odborného charakteru, ktorá sa týka zdravotníckeho povolania alebo zdravotnej starostlivosti, sa prizná za túto činnosť
 
-- - prehľadový článok v odbornom časopise | - v domácom autor - v domácom spoluautor - v zahraničnom autor - v zahraničnom spoluautor | = 15 kreditov = 10 kreditov = 20 kreditov = 10 kreditov
+  - a) v periodickej tlači
 
-- - monografia v slovenskom jazyku | - autor - spoluautor | = 50 kreditov = 20 kreditov
+- - odborný článok | - autorovi - spoluautorovi | = 15 kreditov, = 10 kreditov,
 
-- - monografia v cudzom jazyku | - autor - spoluautor | = 80 kreditov = 30 kreditov
+- - prehľadový článok v odbornom časopise | - v domácom autorovi - v domácom spoluautorovi - v zahraničnom autorovi - v zahraničnom spoluautorovi | = 15 kreditov, = 10 kreditov, = 20 kreditov, = 15 kreditov,
 
-- - úvodník v slovenskom jazyku - úvodník v cudzom jazyku - pôvodná práca | | = 3 kredity = 7 kreditov = 10 kreditov
+- - úvodník v slovenskom jazyku | | = 3 kredity,
 
-  - b) v prípade učebnice, skrípt, výučbového filmu alebo učebnej pomôcky (napr. výučbový CD ROOM) sa prizná autorovi (vrátane zostavovateľa) 20 kreditov a spoluautorovi (vrátane autora odborného článku v učebnici) 10 kreditov,
+- - úvodník v cudzom jazyku | | = 7 kreditov,
 
-  - c) hodnotenie za vytvorenie autodidaktického testu,
+- - didaktický test minimálne s 10 otázkami | - autorovi - spoluautorovi | = 10 kreditov, = 5 kreditov,
 
-- 80 % - 100 % úspešnosť riešenia | = 2 kredity
+  - b) v neperiodickej tlači
 
-- 60 % - 80 % úspešnosť riešenia | = 1 kredit
+- - monografia v slovenskom jazyku | - autorovi - spoluautorovi | = 50 kreditov, = 20 kreditov,
 
-- 0 % - 60 % úspešnosť riešenia | = 0 kreditov
+- - monografia v cudzom jazyku | - autorovi - spoluautorovi | = 80 kreditov, = 30 kreditov,
 
-- autor kompletného testu s 20 otázkami | = 4 kredity
+- - pôvodná práca v slovenskom jazyku | - autorovi | = 50 kreditov,
 
-- autor časti textu | = 2 kredity
+- - pôvodná práca v cudzom jazyku | - autorovi | = 80 kreditov,
 
-  - 12. Za vedeckovýskumnú činnosť, ako je účasť vo výskumných projektoch a výskumných zámeroch týkajúcich sa zdravotníctva, sa účastníkovi prizná 25 kreditov, ak sa týka príslušného študijného alebo špecializačného odboru, trvá minimálne šesť mesiacov a je doložená písomnou správou z oponentského konania,
+- - učebnice, skriptá v slovenskom jazyku | - autorovi - spoluautorovi | = 50 kreditov, = 20 kreditov,
+
+- - učebnice, skriptá v cudzom jazyku | - autorovi - spoluautorovi | = 80 kreditov, = 50 kreditov,
+
+  - c) na elektronických médiách
+
+- - vedenie webovej odbornej zdravotníckej stránky v slovenskom jazyku | - autorovi - spoluautorovi | = 50 kreditov, = 20 kreditov,
+
+- - výučbový film alebo učebná pomôcka, napríklad výučbový CD nosič | - autorovi vrátane zostavovateľa - spoluautorovi | = 30 kreditov, = 15 kreditov.
+
+  - 13. Za včasné vyplnenie a zaslanie autodidaktického testu uverejneného podľa bodu 12 sa priznajú pri 80 % - 100 % úspešnosti riešenia 2 kredity a pri 60 % - 80 % úspešnosti riešenia 1 kredit; pri 0 % - 60 % úspešnosti riešenia sa neprizná žiadny kredit.
+
+  - 14. Za vedeckovýskumnú činnosť, ako je účasť vo výskumných projektoch a výskumných zámeroch týkajúcich sa zdravotníctva, sa účastníkovi prizná 25 kreditov, ak sa týka príslušného študijného alebo špecializačného odboru, trvá minimálne šesť mesiacov a je doložená písomnou správou z oponentského konania,
 
 - - riešiteľ medzinárodného projektu | = 30 kreditov
 
 - - spoluriešiteľ medzinárodného projektu | = 20 kreditov
+
+  - 15. Za špecializačné štúdium
+
+- Tabuľka č. 1
+
+- CELKOVÝ POČET KREDITOV | | | | | | | | |
+
+- Špeciali- začné štúdium v trvaní | Lekár | Zubný lekár | Farmaceut | Sestra | Pôrodná asistentka | Labo- rant | Asis- tent | Tech- nik | Iný zdra- votnícky pracov- ník
+
+- 5 rokov | 250 | 250 | 100 | - | - | - | - | - | 100
+
+- 4 roky | 200 | 200 | 80 | - | - | - | - | - | 80
+
+- 3 roky | 150 | 150 | 60 | - | - | - | - | - | 60
+
+- 2 roky | - | - | 40 | 40 | 40 | 40 | 40 | 40 | 40
+
+- 1 rok | - | - | 20 | 20 | 20 | 20 | 20 | 20 | 20
+
+  - 16. Za certifikačnú prípravu
+
+- Tabuľka č. 2
+
+- CELKOVÝ POČET KREDITOV | | | | | | | | |
+
+- Certifi- kačná príprava v trvaní | Lekár | Zubný lekár | Farmaceut | Sestra | Pôrodná asistentka | Labo- rant | Asis- tent | Tech- nik | Iný zdravot- nícky pracov- ník
+
+- 4 roky | - | - | - | - | - | - | - | - | 80
+
+- 3 roky | 150 | 150 | 60 | - | - | - | - | - | 60
+
+- 2 roky | 100 | 100 | 40 | 40 | - | 40 | 40 | - | 40
+
+- 1 rok | 50 | 50 | 20 | 20 | 20 | 20 | 20 | 20 | 20
+
+- 1 semester | 25 | 25 | 10 | 10 | 10 | 10 | 10 | 10 | 10
+
+- 3 mesiace | 20 | 20 | 8 | 8 | 8 | 8 | 8 | 8 | 8
