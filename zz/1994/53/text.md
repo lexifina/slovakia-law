@@ -422,6 +422,8 @@ Organizácie Spojených národov, ktorých zmluvnou stranou bola Česká a Slove
 
 (VIEDEŇ 22. marca 1985)
 
+Slovenská republika 28. mája 1993 notifikovala depozitárovi sukcesiu do predmetného zmluvného dokumentu s účinnosťou od 1. januára 1993.
+
 102. Montrealský protokol o látkach, ktoré porušujú ozónovú vrstvu
 
 (MONTREAL 16. septembra 1987)
