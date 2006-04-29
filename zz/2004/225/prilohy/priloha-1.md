@@ -1,6 +1,6 @@
 Príloha č. 1 k vyhláške č. 225/2004 Z. z.
 
-- I. DIEL VYOBRAZENIE DOPRAVNÝCH ZNAČIEK, DOPRAVNÝCH ZARIADENÍ A OSOBITNÝCH OZNAČENÍ, ČÍSLA, ROZMERY, FARBY A PRESNÉ VYHOTOVENIE DOPRAVNÝCH ZNAČIEK A DOPRAVNÝCH ZARIADENÍ [Příloha 01](../assets/3b0eb783ea8b0ddca44c5d7be4756dac1da37dba5c379f7b1ebc64279efd667a.pdf)
+- I. DIEL VYOBRAZENIE DOPRAVNÝCH ZNAČIEK, DOPRAVNÝCH ZARIADENÍ A OSOBITNÝCH OZNAČENÍ, ČÍSLA, ROZMERY, FARBY A PRESNÉ VYHOTOVENIE DOPRAVNÝCH ZNAČIEK A DOPRAVNÝCH ZARIADENÍ [Príloha 01](../assets/eadb78d159dfc4b567a1379e471af6462f2ec89eb05f6ca056ea87f357db83f6.pdf)
 
   - V. Rozmery, farby a presné vyhotovenie dopravných značiek a dopravných zariadení
 
@@ -324,7 +324,7 @@ Príloha č. 1 k vyhláške č. 225/2004 Z. z.
 
         - (22) K značke č. D 30a:
 
-      - Značka Tunel (č. D 30a) označuje blízkosť vjazdu do tunela, kde platia pravidlá premávky na pozemných komunikáciách pre správanie v tuneli. V dolnej časti môže byť uvedený jeho názov. Dĺžka tunela môže byť vyznačená dodatkovou tabuľkou č. E 4.
+      - Značka Tunel (č. D 30a) označuje blízkosť vjazdu do tunela, kde platia pravidlá premávky na pozemných komunikáciách pre správanie v tuneli. V dolnej časti môže byť uvedený jeho názov. Dĺžka tunela môže byť vyznačená dodatkovou tabuľkou č. E 4. Ak ide o tunel dlhší ako 3 000 m, zostávajúca dĺžka tunela sa uvedie každých 1 000 m.
 
         - (23) K značke č. D 30b:
 
@@ -461,6 +461,14 @@ Príloha č. 1 k vyhláške č. 225/2004 Z. z.
         - (56) K značkám č. D 69a až D 69c:
 
       - Značky Kultúrny alebo turistický cieľ (č. D69a a č. D69b), alebo Komunálny cieľ (č. D 69c) informujú vhodným nápisom, symbolom alebo siluetou o smere, prípadne o vzdialenosti k vyznačenému kultúrnemu, turistickému alebo komunálnemu cieľu (napríklad radnica, divadlo, múzeum, galéria a podobne).
+
+        - (57) K značkám č. D 70a a D 70b:
+
+      - Značky Núdzové východy sa používajú na označenie núdzových východov v tuneloch, rovnaké značky sa použijú pre všetky druhy núdzových východov.
+
+        - (58) K značkám č. D 71a až D 71c:
+
+      - Značky Únikové cesty sa použijú na označenie smeru k dvom najbližším núdzovým východom v tuneli, dva najbližšie núdzové východy musia byť označené na bočných stenách vo vzdialenosti najviac 25 m, vo výške 1 m až 1,5 m nad úrovňou únikovej cesty vyznačením vzdialenosti k východom.
 
       - Čl. 5 Dodatkové tabuľky
 

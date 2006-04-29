@@ -277,3 +277,5 @@ Príloha č. 2 k vyhláške č. 225/2004 Z. z.
       - 90.06: noha
 
       - 90.07: použiteľné.
+
+      - 95. Vodič, ktorý je držiteľom OOS a spĺňa požiadavky odbornej spôsobilosti uvedené v článku 3 Smernice 2003/59/ES do...(napr. 95.01.01.2012).
