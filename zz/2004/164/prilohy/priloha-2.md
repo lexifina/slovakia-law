@@ -4,207 +4,209 @@ Príloha č. 2 k nariadeniu vlády č. 164/2004 Z. z.
 
   - Časť A Poľné plodiny a zeleniny
 
-    - 1. Skúšky DUS sa vykonávajú podľa Protokolov na stanovenie odlišnosti, vyrovnanosti a stálosti Úradu spoločenstva pre odrody rastlín (ďalej len „protokoly CPVO“) pri týchto druhoch poľnohospodárskych plodín:
+    - 1. Skúšky DUS sa vykonávajú podľa protokolov na stanovenie odlišnosti, vyrovnanosti a stálosti Úradu spoločenstva pre odrody rastlín (ďalej len „protokol CPVO”) pri týchto druhoch poľnohospodárskych plodín:
 
-  - a) poľné plodiny |
+    - a) poľné plodiny
 
-  - 1. Helianthus annuus L. | Slnečnica ročná
+  - Druhy uvedené v spoločnom katalógu | Protokol CPVO
 
-  - 2. Hordeum vulgare L. | Jačmeň siaty
+  - Hrach siaty | TP 7/1 zo 6. 11. 2003
 
-  - 3. Secale cereale L. | Raž siata
+  - Repka olejka | TP 36/1 z 25. 3. 2004
 
-  - 4. Triticum aestivum L. emend. Fiori et Paol. | Pšenica letná
+  - Slnečnica ročná | TP 81/1 z 31. 10. 2002
 
-  - 5. Tritlcum durum Desf. | Pšenica tvrdá
+  - Ovos siaty | TP 20/1 zo 6. 11. 2003
 
-  - 6. Zea mays L. | Kukurica siata
+  - Jačmeň siaty | TP 19/2 zo 6. 11. 2003
 
-  - 7. Solanum tuberosum L. | Zemiak
+  - Ryža | TP 16/1 z 18. 11. 2004
 
-  - b) zeleniny |
+  - Raž siata | TP 58/1 z 31. 10. 2002
 
-  - 1. Allium porrum L. | Pór pestovaný
+  - Tritikale (pšenično-ražný hybrid) | TP 121/1 zo 6. 11. 2003
 
-  - 2. Asparagus officinalis L. | Špargľa
+  - Pšenica | TP 3/3 zo 6. 11. 2003
 
-  - 3. Brassica oleracea L. convar. botrytis (L.) Alef. var. botrytis L. | Karfiol
+  - Pšenica tvrdá | TP 120/2 zo 6. 11. 2003
 
-  - 4. Brassica oleracea L. convar. botrytis (L.) Alef. var. cymosa Duch. | Brokolica
+  - Kukurica siata | TP 2/2 z 15. 11. 2001
 
-  - 5. Brassica oleracea L. convar. oleracea var. gemmifera DC. | Kel ružičkový
+  - Zemiak | TP 23/1 z 27. 3. 2002
 
-  - 6. Brassica oleracea L. convar. capitata (L.) var. sabauda L. | Kel hlávkový
+    - b) zeleniny
 
-  - 7. Brassica oleracea L. convar. capitata (L.) var. alba (DC.) | Kapusta hlávková biela
+  - Druhy uvedené v spoločnom katalógu | Protokol CPVO
 
-  - 8. Brassica oleracea L. convar. capitata (L.) var. rubra DC. | Kapusta hlávková červená
+  - Pór pestovaný | TP/ 85/1 z 15. 11. 2001
 
-  - 9. Capsicum annuum L. | Paprika ročná
+  - Špargľa | TP /130/1 z 27. 3. 2002
 
-  - 10. Clchorium endlvla L. | Čakanka štrbákova, endívia
+  - Karfiol | TP /45/1 z 15. 11. 2001
 
-  - 11. Cucumis melo L. | Melón cukrový
+  - Brokolica | TP /151/1 z 27. 3. 2002
 
-  - 12. Cucumls satlvus L. | Uhorka siata
+  - Kel ružičkový | TP /54/1 z 27. 3. 2002
 
-  - 13. Daucus carota L. | Mrkva obyčajná
+  - Kel hlávkový | TP /48/1 z 15. 11. 2001
 
-  - 14. Lactuca satlva L. | Šalát siaty
+  - Kapusta hlávková | TP /48/1 z 15. 11. 2001
 
-  - 15. Lycopersicon lycopersicum (L.) Karsten ex Farw. | Rajčiak jedlý
+  - Kapusta červená | TP/48/1 z 15. 11. 2001
 
-  - 16. Phaseolus vulgaris L. | Fazuľa záhradná
+  - Paprika ročná | TP /76/1 z 27. 3. 2002
 
-  - 17. Raphanus satlvus L. | Reďkev siata
+  - Čakanka štrbákova, endívia | TP /118/1 z 27. 3. 2002
 
-  - 18. Splnacea oleracea L. | Špenát siaty
+  - Melón cukrový | TP /104/1 z 27. 3. 2002
 
-  - 19. Valerianella locusta (L.) Laterr. | Valeriánka poľná
+  - Uhorka siata | TP /61/1 z 27. 3. 2002
 
-    - 2. Skúšky DUS sa vykonávajú podľa Metodík na stanovenie odlišnosti, vyrovnanosti a stálosti Medzinárodnej únie na ochranu práv nových odrôd rastlín (ďalej len „metodiky UPOV“) pri týchto druhoch poľnohospodárskych plodín:
+  - Mrkva obyčajná | TP /49/6 z 27. 3. 2002
 
-  - a) poľné plodiny |
+  - Šalát siaty | TP /13/1 z 15. 11. 2001
 
-  - 1. Beta vulgaris L. | Repa kŕmna
+  - Rajčiak jedlý | TP /44/2 z 15. 11. 2001
 
-  - 2. Agrostis canlna L. | Psinček psí
+  - Fazuľa záhradná | TP /12/1 z 15. 11. 2001
 
-  - 3. Agrostis glgantea Roth. | Psinček obrovský
+  - Reďkev siata | TP /64/6 z 27. 3. 2002
 
-  - 4. Agrostis stolonifera L. | Psinček poplazový
+  - Špenát siaty | TP /55/6 z27. 3. 2002
 
-  - 5. Agrostis capillaris L. | Psinček obyčajný tenučký
+  - Valeriánka poľná | TP /75/6 z 27. 3. 2002
 
-  - 6. Bromus catharticus Vahl | Stoklas preháňavý
+    - 2. Skúšky DUS sa vykonávajú podľa metodík na stanovenie odlišnosti, vyrovnanosti a stálosti Medzinárodnej únie na ochranu práv nových odrôd rastlín (ďalej len „metodika UPOV”) pri týchto druhoch poľnohospodárskych plodín:
 
-  - 7. Bromus sitchensis Trin. | Stoklas sitkanský
+    - a) poľné plodiny
 
-  - 8. Dactylis glomerata L. | Reznačka laločnatá
+  - Druhy uvedené v spoločnom katalógu | Metodika UPOV
 
-  - 9. Festuca arundinacea Schreber | Kostrava trsteníkovitá
+  - Repa kŕmna | TG /150/3 zo 4. 11. 1994
 
-  - 10. Festuca ovina L. | Kostrava ovčia
+  - Psinček psí | TG /30/6 z 12. 10. 1990
 
-  - 11. Festuca pratensis Hudson | Kostrava lúčna
+  - Psinček obrovský | TG /30/6 z 12. 10. 1990
 
-  - 12. Festuca rubra L. | Kostrava červená
+  - Psinček poplazový | TG /30/6 z 12. 10. 1990
 
-  - 13. Lolium multiflorum Lam. | Mätonoh mnohokvetý
+  - Psinček obyčajný tenučký | TG /30/6 z 12. 10. 1990
 
-  - 14. Lolium perenne L. | Mätonoh trváci
+  - Stoklas preháňavý | TG /180/3 zo 4. 4. 2001
 
-  - 15. Lolium x boucheanum Kunth | Mätonoh hybridný
+  - Stoklas sitkanský | TG /180/3 zo 4. 4. 2001
 
-  - 16. Phleum bertolonii DC. | Timotejka uzlatá
+  - Reznačka laločnatá | TG /31/8 zo 17. 4. 2002
 
-  - 17. Phleum pratense L. | Timotejka lúčna
+  - Kostrava trsteníkovitá | TG /39/8 zo 17. 4. 2002
 
-  - 18. Poa pratensis L. | Lipnica lúčna
+  - Kostrava ovčia | TG /67/4 z 12. 11. 1980
 
-  - 19. Lupinus albus L. | Lupina biela
+  - Kostrava lúčna | TG /39/8 zo 17. 4. 2002
 
-  - 20. Lupinus angustifolius L. | Lupina úzkolistá
+  - Kostrava červená | TG /67/4 z 12. 11. 1980
 
-  - 21. Lupinus luteus L. | Lupina žltá
+  - Mätonoh mnohokvetý | TG /4/7 z 12. 10. 1990
 
-  - 22. Medicago lupulina L. | Lucerna ďatelinová
+  - Mätonoh trváci | TG /4/7 z 12. 10. 1990
 
-  - 23. Medicago sativa L. | Lucerna siata
+  - Mätonoh hybridný | TG /4/7 z 12. 10. 1990
 
-  - 24. Medicago x varia T. Martyn | Lucerna menlivá
+  - Timotejka uzlatá | TG /34/6 zo 7. 11. 1984
 
-  - 25. Pisum sativum L. (partim.) | Hrach siaty peluška
+  - Lipnica lúčna | TG /33/6 z 12. 10. 1990
 
-  - 26. Trifolium pratense L. | Ďatelina lúčna
+  - Lupina biela | TG /66/4 z 31. 3. 2004
 
-  - 27. Trifolium repens L. | Ďatelina plazivá
+  - Lupina úzkolistá | TG /66/4 z 31. 3. 2004
 
-  - 28. Vicia faba L. (partim.) | Bôb obyčajný
+  - Lupina žltá | TG /66/4 z 31. 3. 2004
 
-  - 29. Vicia sativa L. | Vika siata
+  - Lucerna siata | TG /6/5 zo 6. 4. 2005
 
-  - 30. Brassica napus L. var. napobrassica (L.) Rchb. | Kvaka
+  - Ďatelina lúčna | TG /5/7 zo 4. 4. 2001
 
-  - 31. Raphanus sativus L. var. oleiformis Pers. | Reďkev siata olejná
+  - Ďatelina plazivá | TG /38/7 z 9. 4. 2003
 
-  - 32. Arachis hypogea L. | Podzemnica olejná
+  - Bôb obyčajný | TG /8/6 zo 17. 4. 2002
 
-  - 33. Brassica rapa L. var. silvestris (Lam.) Briggs | Repica olejnatá
+  - Vika siata | TG /32/6 z 21. 10. 1988
 
-  - 34. Brassica napus L. (partim.) | Repka olejka
+  - Kvaka | TG /89/6 zo 4. 4. 2001
 
-  - 35. Carthamus tinctorius L. | Požlt farbiarsky
+  - Reďkev siata | TG /178/3 zo 4. 4. 2001
 
-  - 36. Gossypium spp. | Bavlník
+  - Podzemnica olejná | TG /93/3 z 13. 11. 1985
 
-  - 37. Linum usitatissimum L. | Ľan siaty
+  - Repica olejnatá | TG /185/3 zo 17. 4. 2002
 
-  - 38. Papaver somniferum L. | Mak siaty
+  - Požlt farbiarsky | TG /134/3 z 12. 10. 1990
 
-  - 39. Sinapis alba L. | Horčica biela
+  - Bavlník | TG /88/6 zo 4. 4. 2001
 
-  - 40. Glycine max (L.) Merrill | Sója fazuľová
+  - Ľan siaty | TG /57/6 z 20. 10. 1995
 
-  - 41. Avena sativa L. | Ovos siaty
+  - Mak siaty | TG /166/3 z 24. 3. 1999
 
-  - 42. Oryza sativa L. | Ryža
+  - Horčica biela | TG /179/3 zo 4. 4. 2001
 
-  - 43. Sorghum bicolor (L.) Moench. | Cirok dvojfarebný
+  - Sója fazuľová | TG /80/6 z 1. 4. 1998
 
-  - 44. x Triticosecale Wittm. | Tritikale
+  - Cirok dvojfarebný | TG /122/3 zo 6. 10. 1989
 
-  - b) zeleniny |
+    - b) zeleniny
 
-  - 1. Allium fistulosum L. | Cibuľa zimná
+  - Druhy uvedené v spoločnom katalógu | Metodika UPOV
 
-  - 2. Allium sativum L. | Cesnak kuchynský
+  - Cibuľa zimná | TG /161/3 z 1. 4. 1998
 
-  - 3. Apium graveolens L. | Zeler voňavý
+  - Cesnak | TG /162/4 zo 4. 4. 2001
 
-  - 4. Beta vulgaris L. var. vulgaris | Mangold
+  - Zeler | TG /82/4 zo 17. 4. 2002
 
-  - 5. Beta vulgaris L. var. conditiva Alef. | Cvikla
+  - Mangold | TG /106/3 zo 7. 10. 1987
 
-  - 6. Brassica oleracea L. var. acephala DC. Alef var. sabellica L. | Kel kučeravý
+  - Cvikla | TG /60/6 z 18. 10. 1996
 
-  - 7. Brassica oleracea L. convar. acephala (DC.) Alef. var. gongylodes | Kaleráb
+  - Kel kučeravý | TG /90/6 zo 17. 4. 2002
 
-  - 8. Brassica pekinensis (Lour.) Rupr. | Kapusta pekinská/čínska
+  - Kaleráb | TG /65/4 zo 17. 4. 2002
 
-  - 9. Brassica rapa L. var. rapa | Okrúhlica
+  - Kapusta pekinská | TG /105/4 z 9. 4. 2003
 
-  - 10. Cichorium intybus L. (partim.) | Čakanka obyčajná šalátová a listová
+  - Okrúhlica | TG /37/10 zo 4. 4. 2001
 
-  - 11. Cichorium intybus L. (partim.) | Čakanka priemyselná
+  - Čakanka obyčajná šalátová | TG /173/3 z 5. 4. 2000
 
-  - 12. Citrullus lanatus (Thunb.) Matsum. et Nakai. | Dyňa červená
+  - Čakanka štrbákova, endívia | TG /154/3 z 18. 10. 1996
 
-  - 13. Cucurbita maxima Duchesne. | Tekvica obrovská
+  - Priemyselná čakanka | TG /172/3 zo 4. 4. 2001
 
-  - 14. Cucurbita pepo L. | Tekvica obyčajná
+  - Dyňa červená | TG /142/3 z 26. 10. 1993
 
-  - 15. Cynara cardunculus L. | Artičoka bodliaková, karda
+  - Tekvica obrovská | TG /155/3 z 18. 10. 1996
 
-  - 16. Cynara scolymus L. | Artičoka zeleninová
+  - Tekvica obyčajná | TG /119/4 zo 17. 4. 2002
 
-  - 17. Foeniculum vulgare Mill. | Fenikel obyčajný
+  - Artičoka | TG /184/3 zo 4. 4. 2001
 
-  - 18. Petroselinum crispum (Miller) Nyman ex A. W. Hill. | Petržlen záhradný
+  - Fenikel | TG /183/3 zo 4. 4. 2001
 
-  - 19. Phaseolus coccineus L. | Fazuľa šarlátová
+  - Petržlen | TG /136/4 z 18. 10. 1991
 
-  - 20. Pisum sativum L. (partlm.) | Hrach siaty okrem pelušky
+  - Fazuľa šarlátová | TG /9/5 z 9. 5. 2003
 
-  - 21. Rheum rhaponticum L. | Rebarbora pontlcká
+  - Hrach | TG /7/9 zo 4. 11. 1994 v znení opravy z 18. 10. 1996
 
-  - 22. Scorzonera hispanica L. | Hadomor španielsky
+  - Rebarbora | TG /62/6 z 24. 3. 1999
 
-  - 23. Solanum melongena L. | Baklažán
+  - Hadomor španielsky | TG /116/3 z 21. 10. 1988
 
-  - 24. Vicia faba L. (partlm.) | Bôb obyčajný záhradný
+  - Baklažán | TG /117/4 zo 17. 4. 2002
 
-    - 3. Skúšky DUS druhov poľnohospodárskych plodín, ktoré nie sú uvedené v bodoch 1 a 2, sa vykonávajú podľa metodík kontrolného ústavu na stanovenie odlišnosti, vyrovnanosti a stálosti odrôd rastlín.
+  - Bôb obyčajný | TG /206/1 z 9. 4. 2003
+
+    - 3. Skúšky DUS druhov poľnohospodárskych plodín, ktoré nie sú uvedené v prvom a druhom bode, sa vykonávajú podľa metodík kontrolného ústavu na stanovenie odlišnosti, vyrovnanosti a stálosti odrôd rastlín.
 
     - 4. Pri overovaní hospodárskej hodnoty sa skúšajú a hodnotia tieto požiadavky:
 
@@ -218,11 +220,11 @@ Príloha č. 2 k nariadeniu vlády č. 164/2004 Z. z.
 
   - Vo výsledkoch o overovaní hospodárskej hodnoty odrody sa uvedú aj použité metódy overovania hospodárskej hodnoty.
 
-    - 5. Pri vykonávaní skúšok DUS podľa bodu 1 sa skúšajú a hodnotia všetky znaky odrody, ktoré sú uvedené v protokoloch CPVO. Pri vykonávaní skúšok DUS podľa odseku 2 sa povinne skúšajú a hodnotia tie znaky odrody, ktoré sú v metodikách UPOV označené hviezdičkou.
+    - 5. Pri vykonávaní skúšok DUS podľa prvého bodu sa skúšajú a hodnotia všetky znaky odrody, ktoré sú uvedené v protokoloch CPVO. Pri vykonávaní skúšok DUS podľa odseku 2 sa povinne skúšajú a hodnotia tie znaky odrody, ktoré sú v metodikách UPOV označené symbolom „*”.
 
-    - 6. Znaky podľa bodu 5 sa hodnotia, ak ich hodnotenie nie je znemožnené stupňom prejavu niektorého iného znaku a ak vyjadreniu stupňa prejavu hodnoteného znaku nebránia environmentálne podmienky, v ktorých sa skúška vykonáva.
+    - 6. Znaky podľa piateho bodu sa hodnotia, ak ich hodnotenie nie je znemožnené stupňom prejavu niektorého iného znaku a ak vyjadreniu stupňa prejavu hodnoteného znaku nebránia environmentálne podmienky, v ktorých sa skúška vykonáva.
 
-    - 7. Protokoly CPVO a metodiky UPOV sú uložené v sídle kontrolného ústavu a sú verejne prístupné.
+    - 7. Protokoly CPVO a metodiky UPOV sú uložené v sídle kontrolného ústavu a sú verejne prístupné na internetovej stránke CPVO www.cpvo.eu.int a na internetovej stránke UPOV www.upov.int.
 
   - Časť B Vinič
 
@@ -334,7 +336,23 @@ Príloha č. 2 k nariadeniu vlády č. 164/2004 Z. z.
 
       - 1.1.1.2 modré odrody viniča – Blauer Spätburgunder
 
-      - 1.1.2 so zreteľom na Francúzsko:
+      - 1.1.2 so zreteľom na Grécko
+
+      - 1.1.2.1 biele odrody viniča - Savatiano, Zoumiatiko, Vilana, Assyrtiko, Chardonnay
+
+      - 1.1.2.2 modré odrody viniča - Mandilaria, Xynomavro, Cabernet Sauvignon, Korinthiaki
+
+      - 1.1.2.3 stolové odrody viniča - Razaki, Cardinal, Italia, Soultanina, Perlette
+
+      - 1.1.3 so zreteľom na Španielsko
+
+      - 1.1.3.1 biele odrody viniča - Airen, Palomino, Pedro Ximénez, Viura-Macabeo
+
+      - 1.1.3.2 modré odrody viniča - Bobal, Garnacha, Mazuela, Tempranillo
+
+      - 1.1.3.3 stolové odrody viniča - Moscatel, Roseti, Aledo, Ohanes
+
+      - 1.1.4 so zreteľom na Francúzsko:
 
       - 1.1.4.1 biele odrody viniča – Riesling, Chasselas blanc, Müller-Thurgau, Sauvignon, Ugni blanc
 
@@ -342,7 +360,7 @@ Príloha č. 2 k nariadeniu vlády č. 164/2004 Z. z.
 
       - 1.1.4.3 stolové odrody viniča – Cardinal rouge, Chasselas blanc, Alphonse Lavallée, Servant blanc
 
-      - 1.1.3 so zreteľom na Taliansko:
+      - 1.1.5 so zreteľom na Taliansko:
 
       - 1.1.5.1 biele odrody viniča – Trebbiano toscano, Pinot bianco, Chasselas dorato
 
@@ -350,7 +368,7 @@ Príloha č. 2 k nariadeniu vlády č. 164/2004 Z. z.
 
       - 1.1.5.3 stolové odrody viniča – Regina, Chasselas dorato, Cardinal
 
-      - 1.1.4 so zreteľom na Luxembursko:
+      - 1.1.6 so zreteľom na Luxembursko:
 
     - biele odrody viniča – Riesling, Müller-Thurgau
 
