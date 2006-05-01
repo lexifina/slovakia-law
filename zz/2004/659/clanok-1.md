@@ -226,6 +226,24 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - finančné prostriedky plynúce z grantov poskytovaných na základe medzinárodných zmlúv, ktorými je Slovenská republika viazaná.“.
 
+- 35. V § 13 sa odsek 2 dopĺňa písmenom i), ktoré znie:
+
+- „i)
+
+- príjmy podľa § 16 ods. 1 písm. e) prvého bodu plynúce zo zdroja na území Slovenskej republiky právnickej osobe, ktorá je daňovníkom členského štátu Európskej únie a ktorá je aj konečným príjemcom týchto príjmov od daňovníka podľa § 2 písm. d) druhého bodu, ale len ak do dňa výplaty príjmu, počas obdobia najmenej dvadsiatich štyroch mesiacov bezprostredne nasledujúcich po sebe
+
+- 1.
+
+- daňovník, ktorý tento príjem vypláca, má najmenej 25 % priamy podiel na základnom imaní konečného príjemcu tohto príjmu alebo
+
+- 2.
+
+- konečný príjemca tohto príjmu má najmenej 25 % priamy podiel na základnom imaní daňovníka, ktorý tento príjem vypláca, alebo
+
+- 3.
+
+- iná právnická osoba so sídlom v členskom štáte Európskej únie má najmenej 25 % priamy podiel na základnom imaní daňovníka, ktorý tento príjem vypláca, a zároveň má aj najmenej 25 % priamy podiel na základnom imaní konečného príjemcu tohto príjmu.“.
+
 - 36. V § 14 ods. 3 druhá veta znie: „Základ dane daňovníka, ktorý je doplnkovou dôchodkovou spoločnosťou vytvárajúcou doplnkové dôchodkové fondy, sa zisťuje len za doplnkovú dôchodkovú spoločnosť.“.
 
 - 37. V § 14 ods. 6 sa na konci pripája táto veta: „Táto časť základu dane alebo časť daňovej straty sa zahrnuje do základu dane v tom zdaňovacom období, za ktoré verejná obchodná spoločnosť podala daňové priznanie.“.
