@@ -1,0 +1,1 @@
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV Smernica Európskeho parlamentu a Rady č. 2003/30/ES z 8. mája 2003 o podpore používania biopalív alebo iných obnoviteľných palív v doprave (Mimoriadne vydanie Ú. v. EÚ, 13/ zv. 31.).
