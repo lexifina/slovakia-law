@@ -1,5 +1,7 @@
 - 1) § 2 Obchodného zákonníka.
 
+- 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
 
 - 3) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
@@ -12,7 +14,11 @@
 
 - 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008, 11/01/1996, s. 11–15).
 
+- 6a) § 50 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
+
 - 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
+
+- 7a) § 2 písm. c) bod 16 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
 
 - 8) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
 
@@ -70,7 +76,7 @@
 
 - 29) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- 30) Napríklad zákon č. 472/2002 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 30) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 

@@ -12,4 +12,4 @@
 
 (3) Colný úrad preverí u žiadateľa skutočnosti a údaje podľa odsekov 1 a 2 a zaradí právnickú osobu alebo fyzickú osobu do evidencie prevádzkovateľov podnikov na výrobu, spracovanie alebo skladovanie zemného plynu.
 
-(4) Na prevádzkovateľa podniku na výrobu, spracovanie alebo skladovanie zemného plynu a na kontrolu a postup pri preprave zemného plynu sa nevzťahujú § 18 až 28, 30 až 32, 34 a 39.
+(4) Na prevádzkovateľa podniku na výrobu, spracovanie alebo skladovanie zemného plynu a na kontrolu a postup pri preprave zemného plynu sa nevzťahujú § 18 až 28, 30 až 32, 34, 35, 37 až 39.
