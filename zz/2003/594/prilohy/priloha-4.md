@@ -94,7 +94,7 @@ Príloha č. 4 k zákonu č. 594/2003 Z. z.
 
     - p) iné zmeny, ktoré sa týkajú majetku alebo záväzkov v podielovom fonde.
 
-  - 7. Porovnanie troch posledných rokov v štruktúre výkazu o majetku a záväzkoch a výkazu o príjmoch a výdavkoch, pričom je nutné osobitne uviesť tieto údaje podľa stavu ku koncu roka vo forme porovnávacej tabuľky:
+  - 7. Porovnanie troch posledných rokov v štruktúre súvahy a výkazu ziskov a strát, pričom je nutné osobitne uviesť tieto údaje podľa stavu ku koncu roka vo forme porovnávacej tabuľky:
 
     - a) celková čistá hodnota majetku,
 
@@ -109,3 +109,11 @@ Príloha č. 4 k zákonu č. 594/2003 Z. z.
   - 8. Údaje o využívaných technikách a nástrojoch podľa § 49 ods. 3, najmä údaje o hodnote záväzkov, ktoré vznikli ich využívaním, a údaje o celkovej hodnote záväzkov z činnosti správcovskej spoločnosti s majetkom v podielovom fonde.
 
   - 9. Správa o výkone hlasovacích práv spojených s cennými papiermi v majetku v podielovom fonde.
+
+  - 10. V prípade špeciálneho podielového fondu nehnuteľností sa uvádzajú aj tieto údaje:
+
+    - a) identifikácia každej nehnuteľnosti v majetku špeciálneho podielového fondu nehnuteľností a jej hodnota podľa znaleckého posudku,
+
+    - b) údaje o zisku alebo strate za účtovné obdobie pri predaji každej nehnuteľnosti,
+
+    - c) údaje o realitných kanceláriách, ktorých služby správcovská spoločnosť využíva pri správe majetku v špeciálnom podielovom fonde nehnuteľností.

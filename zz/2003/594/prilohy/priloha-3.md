@@ -54,4 +54,4 @@ Príloha č. 3 k zákonu č. 594/2003 Z. z.
 
   - 5.4. Dátum zverejnenia prospektu.
 
-  - 6. Vyhlásenie predstavenstva správcovskej spoločnosti, že zodpovedá za to, že skutočnosti uvedené v zjednodušenom predajnom prospekte sú úplné a pravdivé.
+  - 6. Vyhlásenie predstavenstva správcovskej spoločnosti, že zodpovedá za to, že skutočnosti uvedené v zjednodušenom predajnom prospekte sú aktuálne a pravdivé.

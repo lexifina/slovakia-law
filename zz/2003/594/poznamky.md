@@ -38,6 +38,8 @@
 
 - 20) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- 20a) § 54 a 55 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 21) § 73 zákona č. 566/2001 Z. z.
 
 - 22) § 29 ods. 2 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
@@ -71,6 +73,8 @@
 - 33) Zákon č. 431/2002 Z. z. o účtovníctve.
 
 - 34) § 75 zákona č. 566/2001 Z. z.
+
+- 34a) § 7 ods. 10 zákona č. 566/2001 Z. z.
 
 - 35) § 116 Občianskeho zákonníka.
 
@@ -120,7 +124,15 @@
 
 - 55) § 10 ods. 4 písm. a) a c) zákona č. 566/2001 Z. z.
 
-- 56) Napríklad § 16, 17, 18, 103, 105 a 107 až 111 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+- 56) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 56a) § 28 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 56b) § 41 a 43 zákona č. 566/2001 Z. z. v znení zákona č. 594/2003 Z. z.
+
+- 56c) Napríklad zákon č. 566/2001 Z. z. v znení neskorších predpisov, Obchodný zákonník.
+
+- 56d) § 16 zákona č. 566/2001 Z. z.
 
 - 57) Zákon č. 367/2000 Z. z.
 
@@ -134,9 +146,15 @@
 
 - 62) § 113 zákona č. 566/2001 Z. z.
 
+- 62a) § 6 ods. 2 písm. e) a písm. f) zákona č. 566/2001 Z. z.
+
 - 63) § 100 ods. 2 zákona č. 566/2001 Z. z.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 64a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+
+- 64b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 65) § 6 ods. 2 písm. e) a f) zákona č. 566/2001 Z. z.
 

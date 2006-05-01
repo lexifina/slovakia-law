@@ -34,13 +34,13 @@ Príloha č. 2 k zákonu č. 594/2003 Z. z.
 
   - 1.10. Spôsob a podmienky vyplatenia podielových listov a okolnosti, za ktorých môže byť pozastavené právo na vyplatenie podielových listov.
 
-  - 1.12. Opis pravidiel pre výpočet a použitie výnosov.
+  - 1.11. Opis pravidiel pre výpočet a použitie výnosov.
 
-  - 1.13. Opis investičných cieľov s majetkom v podielovom fonde vrátane finančných cieľov (napríklad rast majetku alebo výnosov), investičnej stratégie (napríklad špecializácia na určité územné alebo hospodárske oblasti), prípadné obmedzenia investičnej stratégie, ako aj údaje o technikách, nástrojoch a úveroch, ktoré možno využiť pri správe majetku v podielovom fonde.
+  - 1.12. Opis investičných cieľov s majetkom v podielovom fonde vrátane finančných cieľov (napríklad rast majetku alebo výnosov), investičnej stratégie (napríklad špecializácia na určité územné alebo hospodárske oblasti), prípadné obmedzenia investičnej stratégie, ako aj údaje o technikách, nástrojoch a úveroch, ktoré možno využiť pri správe majetku v podielovom fonde.
 
-  - 1.14. Pravidlá pre oceňovanie majetku v podielovom fonde.
+  - 1.13. Pravidlá pre oceňovanie majetku v podielovom fonde.
 
-  - 1.15. Údaje o výpočte aktuálnej ceny, predajnej ceny a nákupnej ceny, najmä
+  - 1.14. Údaje o výpočte aktuálnej ceny, predajnej ceny a nákupnej ceny, najmä
 
   - – pravidlá pre výpočet a periodicita výpočtu týchto cien,
 
@@ -48,7 +48,7 @@ Príloha č. 2 k zákonu č. 594/2003 Z. z.
 
   - – spôsob, miesto a periodicita zverejňovania týchto cien.
 
-  - 1.16. Údaje o druhoch, výške a výpočte odplaty účtovanej na ťarchu majetku v podielovom fonde pre správcovskú spoločnosť, depozitára alebo tretie osoby a údaje o nákladoch spojených so správou podielového fondu uhrádzaných z majetku v podielovom fonde správcovskej spoločnosti, depozitárovi alebo tretím osobám.
+  - 1.15. Údaje o druhoch, výške a výpočte odplaty účtovanej na ťarchu majetku v podielovom fonde pre správcovskú spoločnosť, depozitára alebo tretie osoby a údaje o nákladoch spojených so správou podielového fondu uhrádzaných z majetku v podielovom fonde správcovskej spoločnosti, depozitárovi alebo tretím osobám.
 
   - 2. Informácie o správcovskej spoločnosti
 
