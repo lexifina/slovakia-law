@@ -6,7 +6,7 @@ Príloha č. 6 k vyhláške č. 227/2004 Z. z.
 
 - Banská Bystrica | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko
 
-- Bratislava | Galvaniho Letisko | Prístav
+- Bratislava | Kopčianska Letisko | Prístav
 
 - Čierna nad Tisou | Michalovce Dobrá, terminál kombinovanej dopravy | Michalovce
 

@@ -6,6 +6,8 @@
 
 - 4) Čl. 76 ods. 1 písm. a) až c) nariadenia Rady (EHS) č. 2913/92 z 12. 10. 1992, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
 
+- 4a) Nariadenie Rady (EHS) č. 2658/87 z 23. 7. 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Ú. v. ES L 256, 7. 9. 1987) v platnom znení.
+
 - 5) Čl. 24 nariadenia Komisie (ES) č. 800/1999 z 15. 4. 1999, ktorým sa ustanovujú spoločné podrobné pravidlá pre uplatňovanie vývozných náhrad na poľnohospodárske výrobky (Ú. v. ES L 102, 17. 4. 1999).
 
 - 6) Čl. 76 ods. 1 písm. b) nariadenia Rady (EHS) č. 2913/92 v platnom znení.
@@ -13,8 +15,6 @@
 - 7) § 69a zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 651/2004 Z. z.
 
 - 8) Čl. 525 ods. 2 písm. a) nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
-
-- 9) Nariadenie Rady (EHS) č. 2658/87 z 23. 7. 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Ú. v. ES L 256, 7. 9. 1987) v platnom znení.
 
 - 10) § 24 ods. 2 písm. b) zákona č. 222/2004 Z. z.
 

@@ -162,9 +162,9 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Odsek 41 tlačiva Dodatkové merné jednotky
 
-  - Číselný údaj sa uvádza v merných jednotkách uvedených pri podpoložke kombinovanej nomenklatúry v celých číslach zaokrúhlene smerom nahor.
+  - Číselný údaj sa uvádza v celých číslach, merných jednotkách uvedených v Spoločnom colnom sadzobníku<sup>4a</sup>) pri podpoložke kombinovanej nomenklatúry. Pri merných jednotkách vyjadrujúcich dĺžku, plochu, objem, hmotnosť, množstvo energie alebo množstvo práce sa číselný údaj uvádza s presnosťou na štyri desatinné miesta.
 
-  - Nevypĺňa sa, ak je pri podpoložke kombinovanej nomenklatúry uvedená nešpecifikovaná merná jednotka.
+  - Nevypĺňa sa, ak je v Spoločnom colnom sadzobníku pri podpoložke kombinovanej nomenklatúry uvedená nešpecifikovaná merná jednotka.
 
   - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
@@ -244,7 +244,7 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Odsek 8 tlačiva Príjemca
 
-  - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak príjemca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
+  - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise<sup>2</sup>). Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak príjemca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
 
   - Odsek 12 tlačiva Údaje o hodnote
 
@@ -322,6 +322,10 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Uvádza sa aj údaj o označení spotrebiteľského balenia liehu, výrobkov z liehu a tabakových výrobkov.
 
+  - Odsek 32 tlačiva Číslo položky
+
+  - Uvádza sa poradové číslo položky.
+
   - Odsek 33 tlačiva Kód tovaru
 
   - V piatej časti odseku sa uvádzajú kódy uvedené v prílohe č. 3.
@@ -348,15 +352,13 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Odsek 41 tlačiva Dodatkové merné jednotky
 
-  - Číselný údaj sa uvádza v mernej jednotke uvedenej pri podpoložke kombinovanej nomenklatúry v Spoločnom colnom sadzobníku<sup>9</sup>) v celých číslach zaokrúhlene smerom nahor.
+  - Číselný údaj sa uvádza v celých číslach, merných jednotkách uvedených v Spoločnom colnom sadzobníku<sup>4a</sup>) pri podpoložke kombinovanej nomenklatúry. Pri merných jednotkách vyjadrujúcich dĺžku, plochu, objem, hmotnosť, množstvo energie alebo množstvo práce sa číselný údaj uvádza s presnosťou na štyri desatinné miesta.
 
   - Nevypĺňa sa, ak je v Spoločnom colnom sadzobníku pri podpoložke kombinovanej nomenklatúry uvedená nešpecifikovaná merná jednotka.
 
   - Odsek 42 tlačiva Cena za položku
 
-  - Uvádza sa fakturovaná cena za tovar uvedený v odseku 31. Ak sa za tovar neplatí, uvádza sa cena, ktorá by sa platila za tento tovar alebo podobný tovar v prípade jeho nákupu alebo predaja. Do fakturovanej ceny sa nezahŕňajú náklady na dopravu, poistenie, balenie a manipuláciu, ak sa fakturujú samostatne. Údaj sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor.
-
-  - Pri určovaní ceny za položku sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
+  - Uvádza sa fakturovaná cena za tovar uvedený v odseku 31. Ak sa za tovar neplatí, uvádza sa cena, ktorá by sa platila za tento tovar alebo podobný tovar v prípade jeho nákupu alebo predaja. Do fakturovanej ceny sa nezahŕňajú náklady na dopravu, poistenie, balenie a manipuláciu, ak sa fakturujú samostatne. Údaj sa uvádza v mene uvedenej v odseku 22 s presnosťou na tri desatinné miesta.
 
   - Odsek 43 tlačiva Kód CH
 
@@ -382,7 +384,7 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Ak je na účely priznania zvýhodnenej colnej sadzby z dôvodu preferenčného pôvodu tovaru alebo vyhodnotenia iných opatrení potrebné osvedčenie o pôvode, ktoré obsahuje ďalšie špecifické údaje, uvádza sa toto osvedčenie dvakrát. Raz ako osvedčenie o pôvode a raz ako osvedčenie o pôvode so špecifickými údajmi. Napríklad pre sprievodné osvedčenie EUR. 1 obsahujúce špecifický údaj - označenie „Derogácia - Rozhodnutie 2/2001“ sa uvádza kód „N954“ pre osvedčenie o pôvode a kód „U021“ pre osvedčenie o pôvode so špecifickými údajmi.
 
-  - Pri dovoze tovaru, ktorý sa zatrieďuje do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>9</sup>) na základe vstupnej ceny, v tomto odseku sa uvádza kód dokladu žiadosti o použitie niektorej zo vstupných cien. Napríklad ak má byť tovar zatriedený do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>9</sup>) s použitím ceny FOB (vyplatené na palube), uvádza sa kód dokladu „1011“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny FOB ako vstupnej ceny“.
+  - Pri dovoze tovaru, ktorý sa zatrieďuje do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>4a</sup>) na základe vstupnej ceny, v tomto odseku sa uvádza kód dokladu žiadosti o použitie niektorej zo vstupných cien. Napríklad ak má byť tovar zatriedený do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>4a</sup>) s použitím ceny FOB (vyplatené na palube), uvádza sa kód dokladu „1011“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny FOB ako vstupnej ceny“.
 
   - Ak sa má použiť ako základ na výpočet dodatočného dovozného cla v sektore cukru iná ako reprezentatívna cena,<sup>10a</sup>) uvádza sa v tomto odseku kód dokladu žiadosti o použitie takejto ceny. Napríklad ak sa má ako základ na výpočet dodatočného dovozného cla v sektore cukru použiť cena CIF (náklady, poistné a prepravné), uvádza sa kód dokladu „1014“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny CIF ako základu na výpočet dodatočného dovozného cla v sektore cukru“.
 
@@ -444,7 +446,7 @@ Príloha č. 2 k vyhláške č. 227/2004 Z. z.
 
   - Ak tovar podlieha spotrebnej dani, uvádza sa aj základ na vymeranie spotrebnej dane.
 
-  - Základ na výpočet cla s použitím valorických colných sadzieb sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor. Základ na výpočet cla s použitím špecifických colných sadzieb sa uvádza s presnosťou na štyri desatinné miesta v mernej jednotke uvedenej v odseku 31. Vypočítané clo sa zaokrúhľuje na celé slovenské koruny smerom nahor. Základ na vymeranie dane a vypočítaná daň sa zaokrúhľujú podľa osobitných predpisov.<sup>10c</sup>)
+  - Základ na výpočet cla s použitím valorických colných sadzieb sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor. Základ na výpočet cla s použitím špecifických colných sadzieb sa uvádza s presnosťou na štyri desatinné miesta v mernej jednotke uvedenej v odseku 31. Základ na vymeranie dane a vypočítaná daň sa zaokrúhľujú podľa osobitných predpisov.<sup>10c</sup>)
 
   - Pododsek Sadzba
 
