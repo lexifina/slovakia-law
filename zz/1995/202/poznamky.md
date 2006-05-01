@@ -22,11 +22,9 @@
 
 - 7) § 6 ods. 3 Obchodného zákonníka.
 
-- 8) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
-
 - 9) § 2 ods. 1 Obchodného zákonníka.
 
-- 10) § 2 ods. 2 a § 7 a 8 zákona č. 483/2001 Z. z.
+- 10) § 2 ods. 2, § 7 a 8 a § 11 a 12 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 11) § 10 ods. 1 a 2 písm. a) a § 50 až 56 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -34,9 +32,11 @@
 
 - 13) Napríklad § 27 až 40a zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 34 až 36 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, § 4 až 21 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov, § 28 a 40 až 54a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, § 2 až 11 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, § 122 až 129 zákona č. 413/2002 Z. z. o sociálnom poistení, zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
-- 14) § 54 až 56 a 61 zákona č. 566/2001 Z. z.
+- 14) § 54 až 56 a § 61 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 15) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
+- § 3 ods. 3 a § 6 ods. 2 písm. m) zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení zákona č. 213/2006 Z. z.
+
+- 15) § 8 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
 
 - 15a) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
 
