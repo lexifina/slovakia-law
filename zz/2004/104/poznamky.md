@@ -1,5 +1,7 @@
 - 1) § 2 Obchodného zákonníka.
 
+- 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
 
 - 3) Zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z.
@@ -14,7 +16,7 @@
 
 - 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
 
-- 8) Čl. 29 až 31 a čl. 45, 46 až 49 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúceho v Spoločenstve systém oslobodení od cla (Úradný vestník Európskych spoločenstiev L 105 z 23/04/1983, s. 1 – 37) v znení neskorších zmien a doplnkov.
+- 8) Čl. 29 až 31 a čl. 45 až 49 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúce systém Spoločenstva pre oslobodenie od cla (Ú. v. ES L 105, 23. 4. 1983) v platnom znení.
 
 - 9) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov.
 
@@ -66,7 +68,11 @@
 
 - 29) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- 30) Napríklad zákon č. 472/2002 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 30) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
+
+- 30a) § 14a a 70 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 30b) § 14a ods. 11 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 31) § 29 zákona č. 431/2002 Z. z.
 
