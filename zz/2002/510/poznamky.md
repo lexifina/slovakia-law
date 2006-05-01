@@ -80,6 +80,8 @@
 
 - § 3 písm. b) zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
+- 27ga) § 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 520/2005 Z. z.
+
 - 27h) § 7 ods. 15 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
 - § 8 písm. b) zákona č. 566/2001 Z. z.
@@ -111,6 +113,8 @@
 - 30) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
 - 31) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+
+- Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 32) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 71/1967 Zb. v znení zákona č. 215/2002 Z. z.
 
