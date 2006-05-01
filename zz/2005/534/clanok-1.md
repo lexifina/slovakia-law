@@ -250,6 +250,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 34. V § 13 ods. 2 písm. f) sa nad slovo „zahraničí“ umiestňuje odkaz 59a.
 
+- 35. V § 13 ods. 2 písm. i) úvodnej vete sa za slová „prvého bodu“ vkladajú slová „a druhého bodu a náhrady za použitie alebo za poskytnutie práva na použitie priemyselného, obchodného alebo vedeckého zariadenia“.
+
 - 36. V § 14 ods. 3 sa na konci pripája táto veta: „Základ dane daňovníka, ktorý je dôchodkovou správcovskou spoločnosťou vytvárajúcou a spravujúcou dôchodkové fondy, sa zisťuje len za dôchodkovú správcovskú spoločnosť.“.
 
 - 37. V § 16 ods. 1 písm. e) štvrtom bode sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „hnuteľnou vecou umiestnenou na území Slovenskej republiky je aj dopravný prostriedok využívaný daňovníkom podľa § 2 písm. d) alebo stálou prevádzkarňou daňovníka podľa § 2 písm. e) v medzinárodnej doprave,“.
