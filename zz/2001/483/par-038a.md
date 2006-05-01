@@ -16,4 +16,4 @@
 
 - b) Policajnému zboru na jeho požiadanie poskytovať záznamy a údaje získané zariadeniami podľa odseku 2 písm. b) na účely plnenia úloh Policajného zboru.
 
-(4) Opatrením, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v Zbierke zákonov Slovenskej republiky, sa ustanoví obsah a rozsah analýzy rizík podľa odseku 1, čo sa rozumie pod bezpečnostnými opatreniami podľa odseku 2, a požiadavky na tieto bezpečnostné opatrenia.
+(4) Opatrením, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanoví obsah a rozsah analýzy rizík podľa odseku 1, čo sa rozumie pod bezpečnostnými opatreniami podľa odseku 2, a požiadavky na tieto bezpečnostné opatrenia.

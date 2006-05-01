@@ -18,7 +18,7 @@
 
 - 9) Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z.
 
-- 10) § 24 ods. 1 zákona č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 466/2000 Z. z.
+- 10) § 19 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov.
 
 - 11) Napríklad zákon Národnej rady Slovenskej republiky č. 124/1996 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
 
@@ -54,17 +54,19 @@
 
 - 21) § 2 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení zákona č. 242/1999 Z. z.
 
-- 22) § 9 ods. 3 a § 42 ods. 2 Zákonníka práce.
-
 - 23) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
-- 24) § 8 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
+- 24) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 24a) § 8 písm.b) zákona č. 566/2001 Z. z.§ 6 ods. 11 a 12 zákona č. 594/2003 Z. z.
 
 - § 3 písm. a) zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
+- 24aa) § 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 520/2005 Z. z.
+
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
+
+- 24c) § 1 ods. 2, § 6 ods. 3 a § 8 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
 
 - 25) § 173 a 174 Obchodného zákonníka.
 
@@ -118,7 +120,7 @@
 
 - 42) § 19 zákona č. 466/2002 Z. z.
 
-- 43) § 1 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona č. 238/2000 Z. z.
+- 43) § 3 ods. 3 zákona č. 7/2005 Z. z. v znení zákona č. 520/2005 Z. z.
 
 - 44) § 6 ods. 4 a 5 a § 22 ods. 2 zákona č. 431/2002 Z. z.
 
@@ -134,13 +136,7 @@
 
 - Zákon č. 594/2003 Z. z.
 
-- 46) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 431/2002 Z. z.Zákon č. 510/2002 Z. z.Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
+- 46) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
 
 - 47) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
@@ -158,23 +154,21 @@
 
 - Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách okresnými úradmi a obcami.
 
-- 51) § 46 až 66 zákona č. 328/1991 Zb. v znení neskorších predpisov.
-
-- 52) § 4 až 33 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+- 52) § 3 až 107 a § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 53) § 42a a 42b Občianskeho zákonníka.
 
 - 54) § 31 ods. 4 Obchodného zákonníka.
 
-- 55) Napríklad § 28, § 31 až 33, § 60 a 66j zákona č. 328/1991 Zb. v znení neskorších predpisov, § 251 až 338 Občianskeho súdneho poriadku.
+- 55) Napríklad § 70, § 87 a § 94 až 101 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 56) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
 - 57) § 6, 7 a § 12 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
-- 58) Zákon č. 328/1991 Zb. v znení neskorších predpisov.
+- 58) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 59) § 7 ods. 2 nariadenia vlády Slovenskej republiky č. 100/1993 Z. z. o Obchodnom vestníku v znení nariadenia vlády č. 50/1998 Z. z.
+- Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 60) § 68 ods. 7 Obchodného zákonníka.
 
@@ -232,7 +226,15 @@
 
 - 80) Trestný poriadok v znení neskorších predpisov.
 
-- 81) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly.Zákon č. 238/2001 Z. z. Colný zákon.
+- 80a) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
+
+- 80b) Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 80c) Napríklad § 4 ods. 3 písm. c) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.
+
+- 81) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- Zákon č. 199/2004 Z. z. v znení neskorších predpisov.
 
 - 82) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 150/2001 Z. z.
 
@@ -252,11 +254,13 @@
 
 - 86c) § 6 až 13 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
 
-- 86d) Zákon č. 460/2002 Z. z. Nariadenie vlády Slovenskej republiky č. 707/2002 Z. z., ktorým sa vyhlasujú medzinárodné sankcie zabezpečujúce medzinárodný mier a bezpečnosť v znení neskorších predpisov.
+- 86d) § 2 ods. 1 písm. d) a ods. 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
 - 87a) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 87aa) § 75 ods. 12 zákona č. 7/2005 Z. z.
 
 - 87b) § 4 ods. 3, § 5, § 23 a 55 zákona č. 428/2002 Z. z.
 
@@ -291,8 +295,6 @@
 - 88m) Zákon č. 244/2002 Z. z.
 
 - 89) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
-
-- 89a) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
 
 - 92) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
