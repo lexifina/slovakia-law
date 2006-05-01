@@ -1,21 +1,11 @@
-Príloha č. 1 k zákonu č. 107/2004 Z. z.
+Príloha č. 1 k zákonu č. 107/2004 Z. z. v znení zákona č. 218/2006 Z. z.
 
-- Týmto zákonom sa preberajú tieto smernice:
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
-- 1. Smernica Rady 92/12/EHS z 25. februára 1992 o všeobecnom systéme, držbe, preprave a kontrole tovarov podliehajúcich spotrebnej dani v znení neskorších zmien a doplnkov.
+  - 1. Smernica Rady 92/12/EHS z 25. februára 1992 o všeobecných systémoch pre výrobky podliehajúce spotrebnej dani a o vlastníctve, pohybe a monitorovaní takýchto výrobkov (Ú. v. ES L 76, 23. 3. 1992) v znení smernice Rady 92/108/EHS zo 14. decembra 1992 (Ú. v. ES L 390, 31. 12. 1992), smernice Rady 94/74/ES z 22. decembra 1994 (Ú. v. ES L 365, 31. 12. 1994), smernice Rady 96/99/ES z 30. decembra 1996 (Ú. v. ES L 8, 11. 1. 1997), smernice Rady 2000/44/ES z 30. júna 2000 (Ú. v. ES L 161, 1. 7. 2000), smernice Rady 2000/47/ES z 20. júla 2000 (Ú. v. ES L 193, 29. 7. 2000), nariadenia Rady 807/2003/ES zo 14. apríla 2003 (Ú. v. EÚ L 122, 16. 5. 2003) a smernice Rady 2004/106/ES zo 16. novembra 2004 (Ú. v. EÚ L 359, 4. 12. 2004).
 
-(Úradný vestník Európskych spoločenstiev, L 076, 23/03/1992, s. 1 – 13)
+  - 2. Smernica Rady 92/83/EHS z 19. októbra 1992 o zosúladení štruktúr spotrebných daní pre etanol a alkoholické nápoje (Ú. v. ES L 316, 31. 10. 1992).
 
-- 2. Smernica Rady 92/83/EHS z 19. októbra 1992 o zosúladení štruktúr spotrebných daní z alkoholu a alkoholických nápojov.
+  - 3. Smernica Rady 92/84/EHS z 19. októbra 1992 o aproximácii sadzieb spotrebnej dane na alkohol a alkoholické nápoje (Ú. v. ES L 316, 31. 10. 1992).
 
-(Úradný vestník Európskych spoločenstiev, L 316, 31/10/1992, s. 21 – 27)
-
-- 3. Smernica Rady 92/84/EHS z 19. októbra 1992 o zbližovaní sadzieb spotrebných daní z alkoholu a alkoholických nápojov.
-
-(Úradný vestník Európskych spoločenstiev, L 316, 31/10/1992, s. 29 – 31)
-
-- 4. Smernica Rady 69/169/EHS z 28. mája 1969 o zosúladení ustanovení zákonov, iných predpisov a administratívnych opatrení týkajúcich sa oslobodenia od dane z obratu a od spotrebnej dane pre dovoz v rámci medzinárodného cestovania v znení neskorších zmien a doplnkov.
-
-(Úradný vestník Európskych spoločenstiev, L 133, 04/06/1969, s. 6 – 8)
-
-Preklady smerníc sa nachádzajú v Centrálnej prekladateľskej jednotke sekcie Inštitút pre aproximáciu práva Úradu vlády Slovenskej republiky.
+  - 4. Smernica Rady 69/169/EHS z 28. mája 1969 o harmonizácii ustanovení zákonov, iných právnych predpisov a správnych opatrení týkajúcich sa oslobodenia od dane z obratu a od spotrebnej dane pre dovoz v medzinárodnom cestovnom ruchu (Ú. v. ES L 133, 4. 6. 1969) v znení smernice Rady 72/230/EHS z 12. júna 1972 (Ú. v. ES L 139, 17. 6. 1972), smernice Rady 78/1032/EHS z 19. decembra 1978 (Ú. v. ES L 366, 28.12.1978), smernice Rady 78/1033/EHS z 19. decembra 1978 (Ú. v. ES L 366, 28. 12. 1978), smernice Rady 81/933/EHS zo 17. novembra 1981 (Ú. v. ES L 338, 25. 11. 1981), smernice Rady 82/443/EHS z 29. júna 1982 (Ú. v. ES L 206, 14. 7. 1982), smernice Rady 84/231/EHS z 30. apríla 1984 (Ú. v. ES L 117, 3. 5. 1984), smernice Rady 85/348/EHS z 8. júla 1985 (Ú. v. ES L 183, 16. 7. 1985), smernice Rady 87/198/EHS zo 16. marca 1987 (Ú. v. ES L 78, 20. 3. 1987), smernice Rady 88/664/EHS z 21. decembra 1988 (Ú. v. ES L 382, 31. 12. 1988), smernice Rady 89/194/EHS z 13. marca 1989 (Ú. v. ES L 73, 17. 3. 1989), smernice Komisie 89/220/EHS zo 7. marca 1989 (Ú. v. ES L 92, 5. 4. 1989), smernice Rady 91/191/EHS z 27. marca 1991 (Ú. v. ES L 94, 16. 4. 1991), smernice Rady 91/673/EHS z 19. decembra 1991 (Ú. v. ES L 373, 31. 12. 1991), smernice Rady 91/680/EHS zo 16. decembra 1991 (Ú. v. ES L 376, 31. 12. 1991), smernice Rady 92/12/EHS z 25. februára 1992 (Ú. v. ES L 76, 23. 3. 1992), smernice Rady 92/111/EHS zo 14. decembra 1992 (Ú. v. ES L 384, 30. 12. 1992), smernice Rady 94/4/ES zo 14. februára 1994 (Ú. v. ES L 60, 3. 3. 1994) a smernice Rady 2000/47/ES z 20. júla 2000 (Ú. v. ES L 193, 29. 7. 2000).

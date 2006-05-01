@@ -1,5 +1,7 @@
 - 1) § 2 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
+- 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
 
 - 3) STN 56 0186 Metóda skúšania piva.
@@ -12,7 +14,7 @@
 
 - 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
 
-- 8) Čl. 29 až 31 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúce v Európskom spoločenstve systém oslobodení od cla (Úradný vestník Európskych spoločenstiev, L 105, 23/04/1983, str. 1 – 37) v znení neskorších zmien a doplnkov.
+- 8) Čl. 29 až 31 a čl. 45 až 49 nariadenia Rady č. 918/83/EHS z 28. marca 1983 ustanovujúce systém Spoločenstva pre oslobodenie od cla (Ú. v. ES L 105, 23. 4. 1983) v platnom znení.
 
 - 9) Čl. 45, 46 a 49 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúce v Európskom spoločenstve systém oslobodení od cla (Úradný vestník Európskych spoločenstiev, L 105, 23/04/1983, str. 1 – 37) v znení neskorších zmien a doplnkov.
 
@@ -64,7 +66,9 @@
 
 - 29) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- 30) Napríklad zákon č. 472/2002 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 30) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
+
+- 30a) § 14a a 70 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 31) Napríklad § 14a ods. 11 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
