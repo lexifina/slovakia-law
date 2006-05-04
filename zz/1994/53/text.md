@@ -410,13 +410,17 @@ Organizácie Spojených národov, ktorých zmluvnou stranou bola Česká a Slove
 
 (ŽENEVA 28. septembra 1984)
 
+Slovenská republika 28. mája 1993 notifikovala sukcesiu do protokolu s účinnosťou od 1. januára 1993.
+
 99. Protokol k Dohovoru o diaľkovom znečisťovaní ovzdušia prechádzajúcom hranicami štátov z roku 1979, o znížení emisií síry alebo jej roztokov prechádzajúcich hranicami štátov najmenej o 30%
 
 (HELSINKI 8. júla 1985)
 
+Slovenská republika 28. mája 1993 notifikovala sukcesiu do protokolu s účinnosťou od 1. januára 1993.
+
 100. Protokol k Dohovoru o diaľkovom znečisťovaní ovzdušia prechádzajúcom hranicami štátov z roku 1979, o znižovaní emisií oxidu dusíka alebo ich prenosov cez hranice štátov
 
-(SOFIA 31. októbra 1988)
+Slovenská republika 28. mája 1993 notifikovala sukcesiu do protokolu s účinnosťou od 1. januára 1993.
 
 101. Viedenský dohovor o ochrane ozónovej vrstvy
 
@@ -427,6 +431,8 @@ Slovenská republika 28. mája 1993 notifikovala depozitárovi sukcesiu do predm
 102. Montrealský protokol o látkach, ktoré porušujú ozónovú vrstvu
 
 (MONTREAL 16. septembra 1987)
+
+Slovenská republika 28. mája 1993 notifikovala sukcesiu do protokolu s účinnosťou od 1. januára 1993.
 
 103. Bazilejský dohovor o riadení pohybov nebezpečných odpadov cez hranice štátov a ich zneškodnení (BAZILEJ 22. marca 1989)
 
