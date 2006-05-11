@@ -24,6 +24,8 @@
 
 - 13) § 7 ods. 5 a § 9 ods. 1 písm. a) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
+- 13a) Ústavný zákon č. 254/2006 Z. z. o zriadení a činnosti výboru Národnej rady Slovenskej republiky na preskúmavanie rozhodnutí Národného bezpečnostného úradu.
+
 - 14) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 15) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon č. 385/2000 Z. z. v znení neskorších predpisov.
