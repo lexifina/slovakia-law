@@ -1,10 +1,10 @@
-- 1) Napríklad zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov, zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov, zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 189/1993 Z. z. o Fonde detí a mládeže v znení neskorších predpisov, § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona č. 441/2000 Z. z.
+- 1) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 11 ods. 10 a § 28 ods. 4 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
-- 1a) Napríklad § 26 ods. 5 a § 26a zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona č. 445/2001 Z. z.
+- 1a) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
-- 1b) Zákon č. 92/1991 Zb.
+- 1b) § 21 zákona č. 523/2004 Z. z.
 
-- 1c) § 10 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+- 1c) § 19 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 1d) § 10 zákona č. 92/1991 Zb.
 
@@ -26,12 +26,14 @@
 
 - 3) § 39 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
-- 4) Ústavný zákon Národnej rady Slovenskej republiky č. 119/1995 Z. z. o zamedzení rozporu záujmov pri výkone funkcií ústavných činiteľov a vyšších štátnych funkcionárov.
+- 4) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
 
 - 5) § 14 až 22 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 6) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 7) § 89 ods. 9 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
+- 7) § 128 ods. 1 zákona č. 300/2005 Z. z. Trestný zákon.
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 9) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
