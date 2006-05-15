@@ -6,18 +6,22 @@
 
 - b) zámena zásob,
 
-- c) výpožička zásob,
+- c) pôžička zásob,
 
-- d) nájom mobilizačných rezerv,
+- d) výpožička zásob,
 
-- e) vyčleňovanie mobilizačných rezerv,
+- e) nájom mobilizačných rezerv,
 
-- f) skladovanie zásob,
+- f) vyčleňovanie mobilizačných rezerv,
 
-- g) presun zásob.
+- g) skladovanie zásob,
+
+- h) presun zásob,
+
+  - i) preskúšanie zásob.
 
 (2) Hospodárenie s mobilizačnými rezervami sa zabezpečuje zmluvou o ochraňovaní zásob alebo nehnuteľného majetku uzatvorenou medzi Správou rezerv a ochraňovateľom.
 
-(3) Pri ochraňovaní mobilizačných rezerv je ochraňovateľ povinný vykonávať činnosti, ktorými sa predchádza vzniku škody stratou, nevhodným skladovaním a manipuláciou pri obmenách, zámenách a vyčleňovaní, ďalej škodám spôsobeným oneskoreným podaním návrhu na obmenu, zámenu a vyčleňovanie vrátane ich oneskorenej realizácie.
+(3) Pri ochraňovaní mobilizačných rezerv je ochraňovateľ povinný vykonávať činnosti, ktorými sa predchádza vzniku škody stratou odcudzením, poškodením, nevhodným skladovaním a manipuláciou pri obmenách, zámenách a vyčleňovaní, ďalej škodám spôsobeným oneskoreným podaním návrhu na obmenu, zámenu a vyčleňovanie vrátane ich oneskorenej realizácie.
 
-(4) Mobilizačné rezervy obstaráva ochraňovateľ.
+(4) Ak zásoby mobilizačných rezerv určené pre ochraňovateľa skladuje Správa rezerv, hospodárenie s nimi realizuje ochraňovateľ v spolupráci so Správou rezerv na základe zmluvy o ochraňovaní.

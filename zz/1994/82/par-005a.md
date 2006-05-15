@@ -1,15 +1,17 @@
 # § 5a Hospodárenie s hmotnými rezervami
 
-(1) Pri hospodárení s hmotnými rezervami Správa rezerv uskutočňuje iba
+(1) Pri hospodárení s hmotnými rezervami Správa rezerv uplatňuje zásadu účelnosti a hospodárnosti a uskutočňuje iba
 
 - a) kúpu a predaj zásob,
 
 - b) obmenu a zámenu zásob,
 
-- c) pôžičku zásob,
+- c) pôžičku a výpožičku zásob,
 
-pričom sa uplatňuje zásada účelnosti a hospodárnosti.
+- d) uvoľňovanie zásob,
 
-(2) Na hospodárenie s nehnuteľným majetkom hmotných rezerv sa primerane vzťahujú ustanovenia § 6a až 6f.
+- e) skladovanie zásob,
 
-(3) Podrobnosti o tvorbe a hospodárení s hmotnými rezervami ustanoví všeobecne záväzný právny predpis, ktorý vydá Správa rezerv.
+- f) ochraňovanie a udržiavanie zásob.
+
+(2) Na hospodárenie s nehnuteľnosťami hmotných rezerv sa primerane vzťahujú ustanovenia § 6a až 6f.

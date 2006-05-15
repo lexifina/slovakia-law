@@ -11,3 +11,7 @@
 (5) Vydaním rozhodnutia Správy rezerv na vyčlenenie zásob nie je dotknutá povinnosť ochraňovateľa zásoby ochraňovať až do skončenia ich prevodu alebo likvidácie.
 
 (6) Vydaním rozhodnutia Správy rezerv na vyčlenenie nehnuteľností nie sú dotknuté povinnosti ochraňovateľa tieto ochraňovať až do skončenia ich prevodu alebo likvidácie. Prevod nehnuteľnosti Správa rezerv uskutočňuje podľa osobitných predpisov.<sup>2a</sup>)
+
+(7) Pri vyčleňovaní motorových vozidiel a prípojných vozidiel zo zásob mobilizačných rezerv je ochraňovateľ povinný predložiť Správe rezerv osvedčenie o evidencii na vykonanie zmeny v evidencii motorových vozidiel.
+
+(8) Ak bol na ochraňovateľa vyhlásený konkurz, správca konkurznej podstaty je povinný majetok štátu v správe Správy rezerv ochraňovať až do jeho prevzatia Správou rezerv.
