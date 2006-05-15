@@ -22,6 +22,8 @@ Dňom nadobudnutia platnosti zmluvy uverejnenej oznámením č. 269/2002 Z. z. s
 
 Dňom nadobudnutia platnosti zmluvy uverejnenej oznámením č. 386/2004 Z. z. sa skončila medzi Slovenskou republikou a Slovinskou republikou platnosť Zmluvy medzi Československou socialistickou republikou a Socialistickou federatívnou republikou Juhosláviou o zamedzení dvojitého zdanenia v odbore daní z príjmu a z majetku podpísanej v Prahe 2. novembra 1981 a jej ustanovenia sa prestanú vykonávať od dátumu, keď sa začne vykonávať táto zmluva v súlade s ustanoveniami odseku 2 (vyhláška č. 99/1983 Zb.).
 
+Výmenou nót uverejnenou oznámením č. 265/2006 Z. z. sa skončila platnosť Zmluvy medzi Československou socialistickou republikou a Socialistickou federatívnou republikou Juhosláviou o zamedzení dvojakého zdanenia v odbore daní z príjmu a z majetku (Praha 2. novembra 1981, vyhláška č. 99/1983 Zb.) medzi Slovenskou republikou a Bosnou a Hercegovinou po sukcesii Slovenskej republiky do zmlúv bývalej Českej a Slovenskej Federatívnej Republiky.
+
 Prvý námestník:
 
 Řehořek v. r.
