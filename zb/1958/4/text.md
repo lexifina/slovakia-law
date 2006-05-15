@@ -20,4 +20,6 @@ Nadobudnutím platnosti dohody uverejnenej oznámením č. 131/1998 Z. z. strác
 
 Nadobudnutím platnosti dohody uverejnenej oznámením č. 141/1998 Z. z. stráca platnosť vo vzťahu medzi Slovenskou republikou a Chorvátskou republikou Dohoda o spolupráci v oblasti kultúry, umenia, vedy, školstva a osvety medzi vládou Československej republiky a vládou Federatívnej ľudovej republiky Juhoslávie podpísaná 29. januára 1957 v Belehrade (vyhláška ministra zahraničných vecí č. 4/1958 Zb.) podľa oznámenia č. 112/2006 Z. z.
 
+Výmenou nót uverejnenou oznámením č. 265/2006 Z. z. stráca platnosť vo vzťahu medzi Slovenskou republikou a Bosnou a Hercegovinou Dohoda o spolupráci v oblasti kultúry, umenia, vedy, školstva a osvety medzi vládou Československej republiky a vládou Federatívnej ľudovej republiky Juhoslávie podpísaná 29. januára 1957 v Belehrade (vyhláška ministra zahraničných vecí č. 4/1958 Zb.).
+
 David v. r.
