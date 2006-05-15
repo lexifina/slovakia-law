@@ -18,6 +18,8 @@ Dňom nadobudnutia platnosti dohody uverejnenej oznámením č. 91/2000 Z. z. sa
 
 Dňom nadobudnutia platnosti dohody uverejnenej oznámením č. 269/2000 Z. z. sa skončila platnosť Dohody medzi vládou Československej socialistickej republiky a vládou Socialistickej federatívnej republiky Juhoslávie o spolupráci na úseku ochrany rastlín podpísanej 16. júna 1965 v Belehrade (vyhláška ministra zahraničných vecí č. 6/1966 Zb.).
 
+Výmenou nót uverejnenou oznámením č. 266/2006 Z. z. sa skončila platnosť Dohody medzi vládou Československej socialistickej republiky a vládou Socialistickej federatívnej republiky Juhoslávie o spolupráci na úseku ochrany rastlín podpísanej 16. júna 1965 v Belehrade (vyhláška ministra zahraničných vecí č. 6/1966 Zb.) medzi Slovenskou republikou a Bosnou a Hercegovinou po sukcesii Slovenskej republiky do zmlúv bývalej Českej a Slovenskej Federatívnej Republiky.
+
 Prvý námestník ministra:
 
 dr. Gregor v. r.
