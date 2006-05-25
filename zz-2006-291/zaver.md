@@ -1,0 +1,1 @@
+Milan Karabín v. r.
