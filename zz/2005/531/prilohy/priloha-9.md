@@ -121,3 +121,17 @@ Príloha č. 9
   - 45. Smernica Komisie 2005/57/ES z 21. septembra 2005, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť MCPA a MCPB ako účinné látky (Ú. v. EÚ L 246, 22. 9. 2005).
 
   - 46. Smernica Komisie 2005/58/ES z 21. septembra 2005, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bifenazát a milbemektin ako účinné látky (Ú. v. EÚ L 246, 22. 9. 2005).
+
+  - 47. Smernica Rady 2005/25/ES zo 14. marca 2005, ktorou sa mení a dopĺňa príloha VI k smernici 91/414/EHS, pokiaľ ide o prípravky na ochranu rastlín obsahujúce mikroorganizmy (Ú. v. EÚ L 90, 8. 4. 2005).
+
+  - 48. Smernica Komisie 2005/72/ES z 21. októbra 2005, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť látky chlórpyrifos, chlórpyrifos-metyl, mankozeb, maneb a metiram ako účinné látky (Ú. v. EÚ L 279, 22. 10. 2005).
+
+  - 49. Smernica Komisie 2006/5/ES zo 17. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť warfarín ako účinnú látku (Ú. v. EÚ L 12, 18. 1. 2006).
+
+  - 50. Smernica Komisie 2006/6/ES zo 17. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tolylfluanid ako účinnú látku (Ú. v. EÚ L 12, 18. 1. 2006).
+
+  - 51. Smernica Komisie 2006/10/ES zo 27. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť forchlórfenuron a indoxakarb ako účinné látky (Ú. v. EÚ L 25, 28. 1. 2006).
+
+  - 52. Smernica Komisie 2006/16/ES zo 7. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť oxamyl ako účinnú látku (Ú. v. EÚ L 36, 8. 2. 2006).
+
+  - 53. Smernica Komisie 2006/19/ES zo 14. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 1-metylcyklopropén ako účinnú látku (Ú. v. EÚ L 44 , 15. 2. 2006).

@@ -1,3 +1,3 @@
 Príloha č. 1 k nariadeniu vlády č. 531/2005 Z. z.
 
-- Zoznam povolených účinných látok [Tabulka 01](../assets/2228202c8c20fa0767788badc677ceb19ee8b90242848e46e5a5b3e2c9eb725f.pdf)
+- Zoznam povolených účinných látok [Tabuľka 01](../assets/ad6c06d3c7951f4bc8ff6c67e1b8df295e32d4bd71e4e9c842187cca387646d8.pdf)
