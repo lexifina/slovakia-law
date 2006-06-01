@@ -134,10 +134,14 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 55. | Prevádzkovanie verejných vodovodov I. až III. kategórie a prevádzkovanie verejných kanalizácií I. až III. kategórie | osvedčenie o odbornej spôsobilosti na prevádzkovanie verejných vodovodov a verejných kanalizácií | |
 
-- 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore |
+- 56. | Správa registratúry | úplné stredné vzdelanie a 3 roky praxe v odbore | |
 
 - 57. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
 
 - 58. | Činnosť environmentálneho overovateľa | Osvedčenie o akreditácii | § 12 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov |
 
 - 60. | Odborná príprava v oblasti environmentálneho manažérstva a auditu | Oprávnenie | § 18 ods. 1 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov |
+
+- 61. | Kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie | - osvedčenie o odbornej spôsobilosti | § 9 ods. 4 písm. a) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov |
+
+- 62. | Hodnotenie zdravotných rizík zo životného prostredia | - osvedčenie o odbornej spôsobilosti | § 9 ods. 4 písm. b) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov". |
