@@ -1,10 +1,12 @@
 - 1) Napríklad § 61 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 1a) § 14 ods. 1 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
-
 - 1b) § 15 a 16 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 1c) § 71 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 1d) § 24a až 24c zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1e) § 10 ods. 2 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
