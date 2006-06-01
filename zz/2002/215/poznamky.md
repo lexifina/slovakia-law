@@ -1,4 +1,4 @@
-- 1) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 1) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 2) § 1 ods. 2 zákona č. 241/2001 Z. z.§ 34 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
 
