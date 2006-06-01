@@ -339,15 +339,3 @@ Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v zn
 - smernice Komisie 2001/59/ES zo 6. 8. 2001 (Ú. v. ES L 225, 21. 08. 2001),
 
 - nariadenia Rady (ES) č. 2003/807 zo 14. 4. 2003 (Ú. v. EÚ L 122, 16. 05. 2003).
-
-  - Čl. II
-
-    - Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 290/1996 Z. z., zákona č. 95/2000 Z. z., zákona č. 470/2000 Z. z., zákona č. 514/2001 Z. z., zákona č. 553/2001 Z. z., zákona č. 245/2003 Z. z., zákona č. 256/2003 Z. z., zákona č. 472/2003 Z. z. a zákona č. 578/2003 Z. z. sa mení takto:
-
-    - V § 8a ods. 1 písmeno a) znie:
-
-  - „a) používať pri svojej činnosti len prípravky, ktoré schválil príslušný orgán,<sup>2</sup>) a dodržiavať návod výrobcu,".
-
-  - Poznámka pod čiarou k odkazu 2 znie:
-
-  - „<sup>2</sup>) § 37 ods. 1 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 217/2003 Z. z.".
