@@ -24,15 +24,21 @@
 
 - 13) Napríklad zákon Národnej rady Slovenskej republiky č. 246/1993 Z. z. o zbraniach a strelive v znení neskorších predpisov, zákon č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 14) § 2 ods. 5 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+- 13a) § 35 až 39d zákona č. 576/2004 Z. z. zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 15) § 2 ods. 1 až 3 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
+- 14) § 2 ods. 5 a § 21b zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
-- 16) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+- 15) § 24 a 25 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 17) § 44 ods. 1 zákona Národnej rady Slovenskej republiky č. 140/1998 Z. z. v znení neskorších predpisov.
+- 15a) § 26 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 18) § 25 a 26 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 16) § 20 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 17) § 2 ods. 1 až 3 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
+
+- 18) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 18a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 19) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
