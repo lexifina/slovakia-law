@@ -4,4 +4,8 @@
 
 (2) Štátny zamestnanec, u ktorého sa postupuje podľa odseku 1 a ktorý do 31. marca 2002 dosiahol menej ako 50 rokov veku, je povinný najneskôr do 31. decembra 2005 začať štúdium, ktorého absolvovaním si doplní kvalifikačný predpoklad vzdelania ustanovený pre funkciu, do ktorej je vymenovaný; toto štúdium musí absolvovať najneskôr do 31. decembra 2010.
 
-(3) Štátnozamestnanecký pomer štátneho zamestnanca sa skončí najneskôr 31. decembra 2005, ak nezačne štúdium podľa odseku 2, alebo najneskôr 31. decembra 2010, ak úspešne neabsolvuje štúdium podľa odseku 2.
+(3) Štátny zamestnanec každoročne preukazuje štúdium potvrdením príslušného vzdelávacieho zariadenia.
+
+(4) Štátnozamestnanecký pomer štátneho zamestnanca sa skončí najneskôr 31. decembra 2005, ak nezačne štúdium podľa odseku 2, alebo najneskôr 31. decembra 2010, ak úspešne neabsolvuje štúdium podľa odseku 2.
+
+(5) Štátnozamestnanecký pomer štátneho zamestnanca sa končí posledným dňom mesiaca, v ktorom štátny zamestnanec neúspešne skončí štúdium podľa odseku 2, ak nebol trvale preložený podľa § 29 ods. 5. Štátny zamestnanec je povinný bezodkladne oznámiť služobnému úradu neúspešné skončenie štúdia podľa odseku 2.

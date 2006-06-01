@@ -7,3 +7,5 @@
 (3) O skončení, skrátení alebo predĺžení dočasného vyslania rozhoduje vedúci úradu. Dočasné vyslanie skončí dňom, ktorý je uvedený v rozhodnutí o skončení dočasného vyslania.
 
 (4) Na predstaveného, ktorý je veľvyslancom, sa odseky 1 až 3 vzťahujú primerane.
+
+(5) Po skončení dočasného vyslania sa štátny zamestnanec zaradí do toho istého odboru štátnej služby služobného úradu, v ktorom vykonával štátnu službu pred dočasným vyslaním, ak sa štátny zamestnanec nedohodne so služobným úradom inak.

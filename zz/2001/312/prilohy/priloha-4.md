@@ -12,6 +12,8 @@ Príloha č. 4 k zákonu č. 312/2001 Z. z.
 
       - 3. Laboratórne činnosti spojené s dôkazom patogénnych mikroorganizmov alebo ich toxínov a činnosti spojené s dôkazom endo- a ektoparazitov v materiáli, ktorý bol nimi kontaminovaný alebo je z kontaminácie podozrivý.
 
+      - 4. Profesionálne epidemiologické vyšetrovanie vrátane vykonávania a kontroly v ohnisku nákaz.
+
     - B. IONIZUJÚCE ŽIARENIE ALEBO NEIONIZUJÚCE ŽIARENIE
 
       - 1. Činnosti vykonávané na priemyselných pracoviskách s uzavretými rádioaktívnymi žiaričmi mimo kontrolovaného pásma, montáž, demontáž a dozimetrická kontrola priemyselných rádioizotopových indikačných zariadení.
@@ -27,6 +29,8 @@ Príloha č. 4 k zákonu č. 312/2001 Z. z.
       - 1. Činnosti vykonávané v chemickom, fyzikálno-chemickom alebo inom skúšobnom laboratóriu.
 
       - 2. Dozor vykonávaný nad nádržkovými vozňami a nádržkovými kontajnermi prepravujúcimi skvapalnené plyny, ropné látky, žieravé a jedovaté látky, ktorý je spojený s rizikom inhalácie zvyškov chemických škodlivín pri vnútornej fyzickej prehliadke týchto zariadení.
+
+      - 3. Vykonávanie štátneho zdravotného dozoru nad prácami vykonávanými na pracoviskách s výskytom chemických škodlivín a prašnosti, odber vzoriek pracovného ovzdušia a biologického materiálu na pracoviskách, kde sa vykonáva štátny zdravotný dozor.
 
     - D. FYZIKÁLNE VPLYVY
 
@@ -49,6 +53,8 @@ Príloha č. 4 k zákonu č. 312/2001 Z. z.
       - 4. Činnosti vykonávané pri riadení a prevádzke urýchľovačov častíc (betatrón, cyklotrón), neutrónových generátorov a školských reaktorov.
 
       - 5. Činnosti vykonávané s pulzovými generátormi s veľmi vysokými frekvenciami.
+
+      - 6. Vykonávanie štátneho zdravotného dozoru v kontrolovaných pásmach pracovísk so zdrojmi ionizujúceho žiarenia.
 
     - C. CHEMICKÉ ŠKODLIVINY
 
