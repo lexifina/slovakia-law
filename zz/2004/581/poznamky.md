@@ -76,6 +76,8 @@
 
 - 35a) § 9 ods. 3 zákona č. 580/2004 Z. z.
 
+- 35aa) Napríklad § 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
 
 - 36) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
@@ -245,3 +247,7 @@
 - 97) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
 - 98) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z.
+
+- 98a) § 566 až 576 Obchodného zákonníka.
+
+- 99) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
