@@ -52,11 +52,15 @@ Príloha č. 2 k nariadeniu vlády č. 742/2004 Z. z.
 
   - a) laboratórne vyšetrovacie metódy,
 
-  - 2. vyššie odborné štúdium
+  - 2. vysokoškolské bakalárske štúdium
+
+  - a) zdravotnícke a diagnostické pomôcky,
+
+  - 3. vyššie odborné štúdium
 
   - a) diplomovaný medicínsko-technický laborant,
 
-  - 3. úplné stredné odborné štúdium
+  - 4. úplné stredné odborné štúdium
 
   - a) zdravotnícky laborant,
 
@@ -112,7 +116,7 @@ Príloha č. 2 k nariadeniu vlády č. 742/2004 Z. z.
 
   - 1. vysokoškolské magisterské alebo inžinierske štúdium
 
-  - a) rehabilitácia,
+  - a) fyzioterapia,
 
   - b) logopédia,
 
@@ -145,6 +149,10 @@ Príloha č. 2 k nariadeniu vlády č. 742/2004 Z. z.
   - p) výživa ľudí,
 
   - r) sociálna práca,
+
+  - s) fyzika so zameraním na lekársku fyziku alebo na dozimetriu,
+
+  - t) chémia so zameraním na kvasnú chémiu,
 
   - 2. vysokoškolské bakalárske štúdium
 
