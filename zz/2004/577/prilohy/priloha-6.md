@@ -108,4 +108,4 @@ Príloha č. 6 k zákonu č. 577/2004 Z. z.
 
   - tabuľková časť
 
-- [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/6932360069571ec99880c0ab01cac5c7da1951d28af21a314b9b2e2b6f77ddfc.pdf)
+- [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/bd665d17e130c9d2bdcf5e6b8d7e6f50e557d14f5ea78adce1a76c7c6c80e8ac.pdf)
