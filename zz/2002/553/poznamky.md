@@ -2,7 +2,7 @@
 
 - 2) Vyhláška ministra zahraničných vecí č. 32/1955 Zb. o Dohovore o zabránení a trestaní zločinu genocídia.Vyhláška ministra zahraničných vecí č. 53/1974 Zb. o Dohovore o nepremlčateľnosti vojnových zločinov a zločinov proti ľudskosti.Ustanovenia Desiatej hlavy Trestného zákona.Vyhláška ministra zahraničných vecí č. 143/1988 Zb. o Dohovore proti mučeniu a inému krutému, neľudskému alebo ponižujúcemu zaobchádzaniu alebo trestaniu.
 
-- 2a) Zákon č. 283/2002 Z. z. o cestovných náhradách.
+- 2a) § 11 zákona č. 219/2006 Z. z. o protikomunistickom odboji.
 
 - 2b) Napríklad § 136 Zákonníka práce.
 
