@@ -190,6 +190,8 @@
 
 - 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 
+- 52a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 53) § 7 zákona č. 581/2004 Z. z.
 
 - 54) § 9 ods. 6 až 8 zákona č. 581/2004 Z. z.
