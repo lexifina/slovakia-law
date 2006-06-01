@@ -1,3 +1,0 @@
-# Čl. II
-
-Toto nariadenie vlády nadobúda účinnosť 15. septembra 2005.
