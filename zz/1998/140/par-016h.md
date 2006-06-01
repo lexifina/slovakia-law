@@ -29,3 +29,7 @@
 (2) Všetky zmeny vlastníctva údajov a dokumentácie sa musia zdokumentovať.
 
 (3) Na požiadanie sa musia všetky údaje a dokumentácia predložiť etickej komisii a štátnemu ústavu.
+
+(4) Etická komisia uchováva dokumentáciu priloženú k žiadosti o stanovisko k etike klinického skúšania alebo k žiadosti o zmene údajov v protokole najmenej tri roky po skončení klinického skúšania.
+
+(5) Nosiče na uloženie dokumentácie musia byť také, aby sa dokumentácia v plnom rozsahu zachovala a bola čitateľná počas celej lehoty uloženia a aby sa mohla na požiadanie poskytnúť príslušným orgánom.

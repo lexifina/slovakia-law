@@ -1,6 +1,6 @@
 # § 38b Predpisovanie a výdaj náhradného generického lieku
 
-(1) Generické lieky sú terapeuticky rovnocenné lieky, ktoré majú rovnakú cestu podania a spôsob podania, rovnakú liekovú formu, rovnaké kvalitatívne a kvantitatívne zloženie liečiv a pomocných látok ovplyvňujúcich biologickú dostupnosť liečiv v jednotke dávky liekovej formy a rovnakú veľkosť balenia vyjadrenú uvedením množstva dávok liekovej formy v hmotnostných, objemových alebo v kusových jednotkách; musia byť registrované (§ 22 a 22a).
+(1) Generický liek (§ 21 ods. 7) musí byť registrovaný (§ 22 a 22a).
 
 (2) Náhradný generický liek je liek uvedený v zozname liekov uhrádzaných na základe verejného zdravotného poistenia<sup>15</sup>) s rovnakou alebo nižšou úhradou zdravotnej poisťovne a s rovnakou alebo s inou úhradou pacienta ako liek predpísaný na lekárskom predpise.
 

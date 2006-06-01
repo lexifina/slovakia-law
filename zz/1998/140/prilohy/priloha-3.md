@@ -36,7 +36,7 @@ Príloha č. 3 k zákonu č. 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
 
     - e) pridanie novej cesty podávania.
 
-  - 4. Zmena špecifikácie veterinárneho lieku určeného na podávanie zvieratám, z ktorých sa produkujú potraviny:
+  - 4. Zmena špecifikácie veterinárneho lieku určeného na podávanie potravinovým zvieratám:
 
     - a) pridanie druhu zvieraťa alebo zmena druhu zvieraťa, pre ktorý je veterinárny liek určený,
 

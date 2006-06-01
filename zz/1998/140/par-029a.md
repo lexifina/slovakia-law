@@ -22,7 +22,7 @@
 
   - 2.1 so špecializáciou v odbore zabezpečovanie kvality liekov s certifikátom na zabezpečovanie kvality transfúznych liekov alebo
 
-  - 2.2 so špecializáciou v odbore vyšetrovacie metódy v hematológii a transfuziológii.<sup>3</sup>)
+  - 2.2 so špecializáciou v odbore vyšetrovacie metódy v hematológii a transfuziológii<sup>3</sup>) s certifikátom na zabezpečovanie kvality transfúznych liekov.
 
 - e) odborný zástupca zodpovedný za prípravu transfúznych liekov a odborný zástupca zodpovedný za zabezpečovanie kvality transfúznych liekov nie sú vo vzájomnej riadiacej pôsobnosti.
 

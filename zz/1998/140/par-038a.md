@@ -41,3 +41,7 @@
 (5) Orgán, ktorý rozhoduje o registrácii lieku, zatrieďuje liek do skupiny liekov, ktorých výdaj nie je viazaný na lekársky predpis, ak liek nespĺňa kritériá uvedené v odsekoch 2 až 4.
 
 (6) Pri predlžovaní platnosti registrácie lieku alebo pri predložení nových poznatkov o registrovanom lieku sa opätovne posudzuje zatriedenie lieku.
+
+(7) Ak sa orgán, ktorý rozhoduje o registrácii lieku, dozvie nové skutočnosti o kvalite, účinnosti a bezpečnosti lieku, posúdi ich a prípadne zmení zatriedenie lieku v súlade s kritériami uvedenými v odsekoch 2 až 4.
+
+(8) Ak orgán, ktorý rozhoduje o registrácii lieku, zmenil zatriedenie lieku na základe výsledkov farmakologicko-toxikologického skúšania alebo klinického skúšania, nebude sa pri posudzovaní žiadosti iného žiadateľa o zmenu zatriedenia lieku s obsahom rovnakého liečiva odvolávať na výsledky týchto skúšaní jeden rok od povolenia prvotnej zmeny zatriedenia lieku.

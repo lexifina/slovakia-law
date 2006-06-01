@@ -6,7 +6,7 @@
 
 - b) veterinárny lekár prepraví veterinárne lieky v pôvodnom balení výrobcu,
 
-- c) veterinárne lieky určené na podanie zvieratám, z ktorých sa vyrábajú potraviny, majú rovnaké kvalitatívne a kvantitatívne zloženie liečiv ako veterinárne lieky registrované v hostiteľskom členskom štáte,
+- c) veterinárne lieky určené na podanie potravinovým zvieratám majú rovnaké kvalitatívne a kvantitatívne zloženie liečiv ako veterinárne lieky registrované v hostiteľskom členskom štáte,
 
 - d) veterinárny lekár poskytujúci služby v inom členskom štáte sa oboznámi so správnou veterinárnou praxou uplatňovanou v príslušnom členskom štáte a zabezpečí, aby bola dodržaná ochranná lehota uvedená na označení daného veterinárneho lieku, okrem prípadov, keď od neho možno očakávať, že by mal vedieť, že dodržiavanie uvedenej správnej veterinárnej praxe si vyžaduje uvedenie dlhšej ochrannej lehoty,
 
@@ -23,3 +23,13 @@
 - b) choroba, proti ktorej daný liek vyvoláva imunitu, sa na príslušnom území nevyskytuje vo veľkom rozsahu.
 
 (3) O opatreniach uvedených v odseku 2 štátna veterinárna a potravinová správa informuje komisiu.
+
+(4) Veterinárni lekári, ktorí poskytujú odborné veterinárne úkony, sú povinní držať zásobu veterinárnych liekov uvedenú v osobitnom predpise<sup>19ag</sup>) len vo vlastných alebo nimi prenajatých priestoroch (ďalej len „príručný sklad”). Príručný sklad musí spĺňať požiadavky osobitného predpisu.<sup>19ah</sup>)
+
+(5) Pri predpisovaní a používaní veterinárnych liekov sú veterinárni lekári povinní postupovať podľa súčasných poznatkov farmakoterapie; lieky môžu predpisovať len zvieratám, pre ktoré je veterinárny liek určený, a na indikácie schválené pri registrácii veterinárneho lieku. Podrobnosti o požiadavkách na predpisovanie a používanie veterinárnych liekov ustanoví všeobecne záväzný právny predpis vydaný ministerstvom pôdohospodárstva.
+
+(6) Vlastníci alebo chovatelia potravinových zvierat nesmú
+
+- a) mať v držbe a ani používať veterinárne lieky, ktoré obsahujú liečivá zakázané podľa osobitného predpisu,<sup>19ai</sup>)
+
+- b) používať veterinárne lieky bez predchádzajúceho súhlasu veterinárneho lekára.
