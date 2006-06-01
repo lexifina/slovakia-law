@@ -52,7 +52,9 @@
 
 - 25) § 20 zákona č. 578/2004 Z. z.
 
-- 26) § 8 zákona č. 320/2002 Z. z. o brannej povinnosti v znení neskorších predpisov.
+- 26) § 10 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
+- 26a) § 12 zákona č. 570/2005 Z. z.
 
 - 27) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 5/2004 Z. z.
 
@@ -79,10 +81,6 @@
 - 31) Dohovor o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 380/2001 Z. z.).
 
 - § 69 zákona č. 195/1998 Z. z.
-
-- 31a) § 8 zákona č. 141/1961 Zb. o trestnom konaní súdnom (trestný poriadok) v znení neskorších predpisov.
-
-- 31b) § 128 Občianskeho súdneho poriadku.
 
 - 32) § 115 Občianskeho zákonníka.
 
@@ -112,7 +110,13 @@
 
 - 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
+- 40a) Napríklad zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
 - 41) § 8 Občianskeho zákonníka.
+
+- 41a) § 13 až 15 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 41b) § 79 a 79a zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 42) § 17 zákona č. 581/2004 Z. z.
 
@@ -139,6 +143,8 @@
 - 52) § 36 a 37 zákona č. 578/2004 Z. z.
 
 - 52a) § 12a zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- 52b) § 71 až 73 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 53) § 18 ods. 5 zákona č. 578/2004 Z. z.
 
