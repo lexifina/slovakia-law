@@ -2208,75 +2208,67 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1. samosprávnym krajom |
 
-  - 1.1. pre fyzické osoby ................................................................................................................................ | 2 000 Sk
+  - 1.1. pre fyzické osoby | 2 000 Sk
 
-  - 1.2. pre právnické osoby .......................................................................................................................... | 5 000 Sk
+  - 1.2. pre právnické osoby | 5 000 Sk
 
-  - 2. Ministerstvom zdravotníctva Slovenskej republiky ............................................................................ | 15 000 Sk
+  - 2. Ministerstvom zdravotníctva Slovenskej republiky | 15 000 Sk
 
   - b) Zmena povolenia na prevádzkovanie zdravotníckeho zariadenia vydaného |
 
-  - 1. samosprávnym krajom .......................................................................................................................... | 1 000 Sk
+  - 1. samosprávnym krajom | 1 000 Sk
 
-  - 2. Ministerstvom zdravotníctva Slovenskej republiky ............................................................................. | 5 000 Sk
+  - 2. Ministerstvom zdravotníctva Slovenskej republiky | 5 000 Sk
 
-  - c) Vyhotovenie duplikátu povolení uvedených v písmenách a) a b) ...................................................... | 100 Sk
+  - c) Vyhotovenie duplikátu povolení uvedených v písmenách a) a b) | 100 Sk
 
   - d) Vydanie povolenia na zaobchádzanie alebo manipuláciu s humánnymi alebo veterinárnymi liečivami a na zaobchádzanie alebo manipuláciu so zdravotníckymi alebo s veterinárnymi pomôckami alebo potrebami podľa osobitného predpisu |
 
-  - 1. pre fyzické osoby ....................................................................................................................................... | 2 000 Sk
+  - 1. pre fyzické osoby | 2 000 Sk
 
-  - 2. pre právnické osoby ................................................................................................................................. | 5 000 Sk
+  - 2. pre právnické osoby | 5 000 Sk
 
-  - e) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
+  - e) Vydanie povolenia Úradu verejného zdravotníctva Slovenskej republiky na činnosti vedúce k ožiareniu, povolenia na uvádzanie rádioaktívnych látok do životného prostredia a povolenia na činnosti dôležité z hľadiska radiačnej ochrany |
 
-  - 1. pre fyzické osoby ........................................................................................................................................ | 5 000 Sk
+  - 1. pre fyzické osoby | 5 000 Sk
 
-  - 2. pre právnické osoby ................................................................................................................................... | 15 000 Sk
+  - 2. pre právnické osoby | 15 000 Sk
 
-  - f) Zmena povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
+  - f) Zmena povolenia Úradu verejného zdravotníctva Slovenskej republiky uvedeného v písmene e) |
 
-  - 1. pre fyzické osoby ......................................................................................................................................... | 3 000 Sk
+  - 1. pre fyzické osoby | 3 000 Sk
 
-  - 2. pre právnické osoby ................................................................................................................................... | 5 000 Sk
+  - 2. pre právnické osoby | 5 000 Sk
 
-  - g) Predĺženie platnosti povolenia Ministerstva zdravotníctva Slovenskej republiky na nakladanie so zdrojmi ionizujúceho žiarenia |
+  - g) Predĺženie platnosti povolenia Úradu verejného zdravotníctva Slovenskej republiky uvedeného v písmene e) |
 
-  - 1. pre fyzické osoby ......................................................................................................................................... | 2 500 Sk
+  - 1. pre fyzické osoby | 2 500 Sk
 
-  - 2. pre právnické osoby ................................................................................................................................... | 7 500 Sk
+  - 2. pre právnické osoby | 7 500 Sk
 
-  - h) Vydanie povolenia Ministerstva zdravotníctva Slovenskej republiky na kvalitatívne a kvantitatívne zisťovanie faktorov životného a pracovného prostredia |
+  - h) Vydanie záväzného stanoviska alebo rozhodnutia<sup>36a</sup>) | 500 Sk
 
-  - 1. pre fyzické osoby .......................................................................................................................................... | 10 000 Sk
+  - i) Vyhotovenie duplikátu záväzného stanoviska alebo rozhodnutia uvedeného v písmene h) | 100 Sk
 
-  - 2. pre právnické osoby ..................................................................................................................................... | 30 000 Sk
+  - j) Vykonanie skúšky pred komisiou na preskúšanie odbornej spôsobilosti | 500 Sk
 
-  - i) Zmena povolenia Ministerstva zdravotníctva Slovenskej republiky uvedeného v písmene i) |
+  - k) Vydanie osvedčenia o odbornej spôsobilosti<sup>36b</sup>) | 200 Sk
 
-  - 1. pre fyzické osoby ........................................................................................................................................... | 3 000 Sk
+  - l) Vydanie duplikátu osvedčenia podľa písmena k) | 100 Sk
 
-  - 2. pre právnické osoby ..................................................................................................................................... | 5 000 Sk
+  - m) Vydanie povolenia Úradu verejného zdravotníctva Slovenskej republiky na použitie inej látky v kozmetických výrobkoch ako uvedenej v zoznamoch povolených látok | 30 000 Sk
 
-  - j) Predĺženie platnosti povolenia uvedeného v písmene i) |
+  - n) Vydanie povolenia Úradu verejného zdravotníctva Slovenskej republiky na neuvedenie látky v zozname zložiek v označení kozmetických výrobkov z dôvodu ochrany obchodného tajomstva | 20 000 Sk
 
-  - 1. pre fyzické osoby ........................................................................................................................................... | 5 000 Sk
+  - o) Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o povolení výnimky zo zákazu testovať zložky alebo kombináciu zložiek kozmetického výrobku na zvieratách | 20 000 Sk
 
-  - 2. pre právnické osoby ..................................................................................................................................... | 15 000 Sk
+  - p) Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o povolení výnimky zo zákazu testovať konečný kozmetický výrobok alebo jeho prototyp na zvieratách | 20 000 Sk
 
-  - k) Vyhotovenie duplikátov povolení uvedených v písmenách e) až k) ........................................................ | 500 Sk
+  - q) Predĺženie platnosti povolenia podľa písmen m) a n) | 1 000 Sk
 
-  - l) Vydanie posudku orgánu na ochranu zdravia<sup>36a</sup>) ................................................................................. | 500 Sk
+  - r) Vydanie osobného radiačného preukazu | 500 Sk
 
-  - m) Vyhotovenie duplikátu posudku uvedeného v písmene m) ................................................................... | 100 Sk
-
-  - n) Vykonanie skúšky pred komisiou na preskúšanie odbornej spôsobilosti<sup>36b</sup>) ................................. | 500 Sk
-
-  - o) Vydanie osvedčenia o odbornej spôsobilosti<sup>36b</sup>) ................................................................................... | 200 Sk
-
-  - p) Vydanie duplikátu osvedčenia podľa písmena p) .................................................................................... | 100 Sk
-
-  - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
+  - s) Vyhotovenie duplikátu osobného radiačného preukazu uvedeného v písmene r) | 200 Sk
 
     - Položka 150a
 
@@ -2340,53 +2332,107 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 152
 
-  - a) Vydanie rozhodnutia o registrácii humánneho lieku ............................................................... | 75 000 Sk
+  - a) Vydanie rozhodnutia o registrácii humánneho lieku | 75 000 Sk
 
-  - b) Vydanie rozhodnutia o registrácii veterinárneho lieku ............................................................ | 50 000 Sk
+  - b) Vydanie rozhodnutia o registrácii veterinárneho lieku |
 
-  - c) Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku ........................... | 50 000 Sk
+  - 1. Žiadosť o samostatnú registráciu podloženú úplnými experimentálnymi alebo literárnymi údajmi – veterinárne lieky určené pre viac ako dva druhy cieľových zvierat | 75 000 Sk
 
-  - d) Vydanie rozhodnutia o predĺžení platnosti registrácie veterinárneho lieku ........................ | 20 000 Sk
+  - 2. Žiadosť o samostatnú registráciu podloženú úplnými experimentálnymi alebo literárnymi údajmi – veterinárne lieky určené pre menej ako dva druhy cieľových zvierat | 60 000 Sk
 
-  - e) Vydanie rozhodnutia o zmene registrácie humánneho lieku ................................................ | 20 000 Sk
+  - 3. Žiadosť o registráciu generickú a registráciu so súhlasom iného držiteľa | 40 000 Sk
+
+  - 4. Žiadosť o hybridnú registráciu, tzn. registráciu generickú s údajmi nad rámec zásadnej podobnosti | 50 000 Sk
+
+  - 5. Žiadosť o registráciu ďalšej sily alebo liekovej formy, rozšírenie registrácie – veterinárne lieky určené pre viac ako dva cieľové druhy zvierat | 30 000 Sk
+
+  - 6. Žiadosť o registráciu ďalšej sily alebo liekovej formy, rozšírenie registrácie – veterinárne lieky určené pre menej ako dva cieľové druhy zvierat | 20 000 Sk
+
+  - 7. Žiadosť o registráciu veterinárneho homeopatického lieku zjednodušeným postupom | 15 000 Sk
+
+  - 8. Žiadosť o registráciu ďalšej sily/síl alebo liekovej formy veterinárneho homeopatického lieku – rozšírenie registrácie | 5 000 Sk
+
+  - c) Vydanie rozhodnutia o predĺžení platnosti registrácie humánneho lieku | 50 000 Sk
+
+  - d) Žiadosť o predĺženie platnosti registrácie veterinárnych liekov okrem veterinárnych homeopatických liekov | 30 000 Sk
+
+  - e) Vydanie rozhodnutia o zmene registrácie humánneho lieku | 20 000 Sk
 
   - f) Vydanie rozhodnutia o zmene registrácie veterinárneho lieku |
 
-  - 1. zmena balenia, výrobcu, držiteľa rozhodnutia, druhu obalu, zmena názvu veterinárneho lieku ....................................................................................... | 3 000 Sk
+  - 1. typ I |
 
-  - 2. zmeny v ochranných lehotách, spôsobe skladovania v dávkovaní, času použiteľnosti veterinárneho lieku ............................................................................................................................. | 20 000 Sk
+  - 1.1. Žiadosť o zmenu registrácie veterinárneho lieku typu IA a IB | 3 000 Sk
 
-  - g) Vydanie rozhodnutia o registrácii homeopatického lieku, lieku s obsahom alergénu a registrovaného lieku<sup>36c</sup>) ................................................................................................................ | 5 000 Sk
+  - 1.2. Žiadosť o zmenu registrácie veterinárneho lieku postupom vzájomného uznania registrácie lieku v referenčnom členskom štáte (typ IA a IB) | 3 000 Sk
 
-  - h) Vydanie rozhodnutia o predĺžení registrácie podľa písmena g) ........................................... | 4 000 Sk
+  - 1.3. Žiadosť o zmenu registrácie veterinárneho lieku postupom vzájomného uznania vydaného kompetentným orgánom iného členského štátu (typ IA a IB) | 3 000 Sk
 
-  - i) Vydanie rozhodnutia o zmene registrácie podľa písmena g) ................................................. | 2 000 Sk
+  - 1.4. Žiadosť o zmenu registrácie veterinárneho lieku decentralizovaným postupom (typ IA a IB) | 3 000 Sk
 
-  - j) žiadosť o vzájomné uznanie registrácie humánneho lieku .................................................... | 60 000 Sk
+  - 2. typ II |
 
-  - k) žiadosť o vzájomné uznanie registrácie veterinárneho lieku ................................................. | 35 000 Sk
+  - 2.1. Žiadosť o zmenu registrácie veterinárneho lieku typu II | 20 000 Sk
 
-  - l) žiadosť o prevod registrácie humánneho lieku ................................................. | 10 000 Sk
+  - 2.2. Skrátenie ochrannej lehoty po zmene maximálneho limitu rezíduí vydanej v Úradnom vestníku Európskej Komisie | 20 000 Sk
 
-  - m) žiadosť o prevod registrácie veterinárneho lieku ................................................. | 5 000 Sk
+  - 2.3. Žiadosť o zmenu registrácie veterinárneho lieku typu II postupom vzájomného uznania vydaného kompetentným orgánom iného členského štátu | 15 000 Sk
+
+  - 2.4. Žiadosť o zmenu registrácie veterinárneho lieku typu II decentralizovaným postupom | 30 000 Sk
+
+  - g) Vydanie rozhodnutia o registrácii homeopatického lieku, lieku s obsahom alergénu a registrovaného lieku<sup>36c</sup>) | 5 000 Sk
+
+  - h) Vydanie rozhodnutia o predĺžení registrácie podľa písmena g) | 4 000 Sk
+
+  - i) Vydanie rozhodnutia o zmene registrácie podľa písmena g) | 2 000 Sk
+
+  - j) žiadosť o vzájomné uznanie registrácie humánneho lieku | 60 000 Sk
+
+  - k) Žiadosť o vzájomné uznanie registrácie veterinárneho lieku |
+
+  - 1. Žiadosť o uznanie rozhodnutia o registrácii veterinárneho lieku vydaného kompetentným orgánom iného členského štátu | 50 000 Sk
+
+  - 2. Žiadosť o uznanie rozhodnutia o registrácii veterinárneho lieku s odkazom na vedeckú literatúru vydaného kompetentným orgánom iného členského štátu | 40 000 Sk
+
+  - 3. Žiadosť o uznanie rozhodnutia o registráciu homeopatického veterinárneho lieku zjednodušeným postupom vydaného kompetentným orgánom iného členského štátu | 20 000 Sk
+
+  - 4. Žiadosť o uznanie rozhodnutia o registrácii veterinárneho lieku so súhlasom držiteľa rozhodnutia o registrácii veterinárneho lieku, žiadosť o registráciu veterinárneho lieku (rozšírenie radu) | 30 000 Sk
+
+  - 5. Žiadosť o uznanie registrácie veterinárneho lieku decentralizovaným postupom | 150 000 Sk
+
+  - 6. Žiadosť o vzájomné uznanie registrácie veterinárneho lieku, ak je Slovenská republika referenčným členským štátom | 80 000 Sk
+
+  - 7. Žiadosť o vzájomné uznanie registrácie veterinárneho lieku s odkazom na vedeckú literatúru, ak je Slovenská republika referenčným členským štátom | 60 000 Sk
+
+  - 8. Žiadosť o vzájomné uznanie registrácie veterinárneho homeopatického lieku zjednodušeným postupom, ak je Slovenská republika referenčným členským štátom | 30 000 Sk
+
+  - 9. Žiadosť o o vzájomné uznanie registrácie veterinárneho lieku so súhlasom držiteľa (rozšírenie radu), ak je Slovenská republika referenčným členským štátom | 40 000 Sk
+
+  - l) žiadosť o prevod registrácie humánneho lieku | 10 000 Sk
+
+  - m) žiadosť o prevod registrácie veterinárneho lieku | 5 000 Sk
 
   - n) žiadosť o zaradenie lieku do zoznamu alebo o zmenu zaradenia lieku v zozname liekov | 1 000 Sk
 
-  - o) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok ...................................................... | 1 000 Sk
+  - o) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu alebo o zmenu zaradenia zdravotníckej pomôcky v zozname zdravotníckych pomôcok | 1 000 Sk
 
-  - p) žiadosť o zaradenie dietetickej potraviny na osobitné medicínske účely do zoznamu dietetických potravín .................................................................... | 1 000 Sk
+  - p) žiadosť o zaradenie dietetickej potraviny na osobitné medicínske účely do zoznamu dietetických potravín | 1 000 Sk
 
-  - r) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) ............................................................................................ | 3 000 Sk
+  - r) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) | 3 000 Sk
 
-  - s) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) .... | 500 Sk
+  - s) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) | 500 Sk
 
-  - t) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) .............................................................................. | 500 Sk
+  - t) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) | 500 Sk
 
-  - u) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ........................................................................................................ | 500 Sk
+  - u) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) | 500 Sk
 
-  - v) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku .............................. | 10 000 Sk
+  - v) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku | 10 000 Sk
 
-  - z) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky ................... | 5 000 Sk
+  - z) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky | 5 000 Sk
+
+  - x) Žiadosť o zrušenie registrácie veterinárneho lieku s ďalšími požiadavkami | 2 000 Sk
+
+  - Poznámka 1. Žiadosť o zrušenie registrácie veterinárneho lieku bez ďalších požiadaviek je bez poplatku. 2. Zmena v registrácii podmienená nariadením Európskej komisie je bez poplatku. |
 
     - Položka 153
 

@@ -180,9 +180,9 @@
 
 - 36) § 32 ods. 6 zákona č. 379/1997 Z. z.
 
-- 36a) § 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 36a) § 10 ods. 3 až 7 zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
-- 36b) § 20 písm. h) a § 21 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+- 36b) § 9 zákona č. 126/2006 Z. z.
 
 - 36c) § 21 ods. 5 písm. c) zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení zákona č. 119/2000 Z. z.
 
