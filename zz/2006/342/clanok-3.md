@@ -1,0 +1,351 @@
+# Čl. III
+
+Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z., zákona č. 525/2005 Z. z. a zákona č. 282/2006 Z. z. sa mení a dopĺňa takto:
+
+- 1. § 8 vrátane nadpisu znie:
+
+- „§ 8
+
+- Reklama liekov
+
+- (1)
+
+- Reklama liekov<sup>14</sup>) zahŕňa akúkoľvek formu podomového informovania, agitačnú činnosť alebo podnecovanie smerujúce k podpore predpisovania, vydávania, predaja alebo spotreby liekov.
+
+- (2)
+
+- Reklama liekov je
+
+- a)
+
+- reklama liekov určená verejnosti,
+
+- b)
+
+- reklama liekov určená osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky,
+
+- c)
+
+- návšteva osoby oprávnenej predpisovať lieky a osoby oprávnenej vydávať lieky obchodným zástupcom držiteľa rozhodnutia o registrácii lieku (ďalej len „lekársky zástupca”), ktorej cieľom je propagácia liekov,
+
+- d)
+
+- poskytovanie vzoriek liekov verejnosti, osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky,
+
+- e)
+
+- poskytovanie stimulov smerujúcich k predpisovaniu liekov alebo vydávaniu liekov, ako sú dary, ponuky alebo prísľuby akéhokoľvek prospechu alebo mimoriadnej peňažnej alebo vecnej odmeny s výnimkou tých, ktorých hodnota je nepatrná,
+
+- f)
+
+- sponzorovanie propagačných podujatí, na ktorých sa zúčastňujú osoby oprávnené predpisovať lieky alebo osoby oprávnené vydávať lieky,
+
+- g)
+
+- sponzorovanie vedeckých kongresov, na ktorých sa zúčastňujú osoby oprávnené predpisovať lieky alebo osoby oprávnené vydávať lieky, vrátane preplácania cestovných náhrad a nákladov na ubytovanie, ktoré sú spojené s účasťou na tomto podujatí.
+
+- (3)
+
+- Reklama liekov nie je
+
+- a)
+
+- označovanie lieku a písomná informácia pre používateľov lieku,<sup>15</sup>)
+
+- b)
+
+- korešpondencia, ktorá môže byť doplnená materiálom nepropagačnej povahy, potrebná na zodpovedanie osobitnej otázky týkajúcej sa lieku,
+
+- c)
+
+- odkazový materiál a informácia vzťahujúca sa napríklad na zmenu balenia lieku, na varovanie pred nežiaducimi účinkami v rámci dohľadu nad liekmi alebo obchodný katalóg a cenník za podmienky, že neobsahuje žiadne informácie o liekoch,
+
+- d)
+
+- informácia týkajúca sa zdravia alebo chorôb ľudí, ak neobsahuje priamy alebo nepriamy odkaz na liek.
+
+- (4)
+
+- Zakazuje sa reklama liekov,
+
+- a)
+
+- ktoré nie sú v Slovenskej republike registrované,<sup>16</sup>)
+
+- b)
+
+- ktoré obsahujú omamné látky, psychotropné látky a prípravky,<sup>17</sup>)
+
+- c)
+
+- ktorých výdaj je viazaný na lekársky predpis alebo na veterinárny lekársky predpis,
+
+- d)
+
+- ktorých výdaj nie je viazaný na lekársky predpis, avšak sa uhrádzajú na základe verejného zdravotného poistenia podľa osobitného predpisu.<sup>18</sup>)
+
+- (5)
+
+- Zákaz uvedený v odseku 4 sa nevzťahuje
+
+- a)
+
+- na očkovacie kampane organizované držiteľom rozhodnutia o registrácii lieku alebo zástupcom držiteľa rozhodnutia o registrácii lieku, ak sú povolené ministerstvom zdravotníctva,
+
+- b)
+
+- na reklamu určenú osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky.
+
+- (6)
+
+- Zakazuje sa držiteľom rozhodnutia o registrácii lieku alebo zástupcom držiteľa rozhodnutia o registrácii lieku priamo distribuovať lieky verejnosti na účely reklamy.
+
+- (7)
+
+- Reklama liekov
+
+- a)
+
+- sa musí v každej časti zhodovať s údajmi uvedenými v súhrne charakteristických vlastností lieku,<sup>15a</sup>)
+
+- b)
+
+- musí podporovať racionálne používanie lieku objektívnym informovaním o vlastnostiach lieku bez zveličovania vlastností lieku,
+
+- c)
+
+- nesmie byť klamlivá.
+
+- (8)
+
+- Bez toho, aby boli dotknuté odseky 4 až 6, každá reklama liekov určená verejnosti musí
+
+- a)
+
+- byť zostavená tak, aby bolo jednoznačné, že informácia je reklamou, a aby sa výrobok, ktorý je predmetom reklamy, dal jednoznačne identifikovať ako liek,
+
+- b)
+
+- obsahovať
+
+- 1.
+
+- názov lieku a názov liečiva, len ak obsahuje jedno liečivo,
+
+- 2.
+
+- nevyhnutné informácie o správnom používaní,
+
+- 3.
+
+- výslovnú a zrozumiteľnú výzvu na pozorné prečítanie poučenia o správnom používaní lieku obsiahnutého v písomnej informácii pre používateľov liekov, ktorá je pribalená k lieku,
+
+- 4.
+
+- text: „Tradičný rastlinný liek určený na indikácie overené výhradne dlhodobým používaním”, ak je predmetom reklamy tradičný rastlinný liek.
+
+- (9)
+
+- Reklama liekov určená pre verejnosť nesmie obsahovať žiadny prvok, ktorý
+
+- a)
+
+- vyvoláva dojem, že lekárske vyšetrenie alebo lekársky zákrok sú zbytočné,
+
+- b)
+
+- ponúka určenie diagnózy alebo spôsob liečby korešpondenciou,
+
+- c)
+
+- vyvoláva dojem, že účinky lieku sú zaručené a nie sú sprevádzané žiadnymi nežiaducimi účinkami alebo sú lepšie alebo rovnaké ako účinky iného lieku alebo inej liečby,
+
+- d)
+
+- naznačuje, že dobrý zdravotný stav osoby by sa mohol zlepšiť užívaním lieku,
+
+- e)
+
+- naznačuje, že dobrý zdravotný stav osoby by mohol byť ovplyvnený neužívaním lieku; tento zákaz sa nevzťahuje na očkovacie kampane uvedené v odseku 5,
+
+- f)
+
+- oslovuje výlučne alebo hlavne deti,
+
+- g)
+
+- obsahuje odporúčanie vedcov, zdravotníckych pracovníkov alebo známych osôb, ktoré svojou popularitou môžu podnietiť spotrebu liekov,
+
+- h)
+
+- pripodobňuje liek k potravine, kozmetickému výrobku alebo k inému spotrebnému tovaru,
+
+- i)
+
+- vyvoláva dojem, že bezpečnosť alebo účinnosť lieku spočíva v tom, že má prírodný pôvod,
+
+- j)
+
+- môže prostredníctvom opisu alebo podrobným znázornením anamnézy viesť k mylnému samourčeniu diagnózy,
+
+- k)
+
+- odkazuje nadmerným, hrozivým alebo klamlivým spôsobom na potvrdenie o vyliečení ochorenia,
+
+- l)
+
+- používa nadmerným, hrozivým alebo klamlivým spôsobom zobrazenia zmien ľudského organizmu spôsobených chorobou alebo zranením a znázorňuje účinok lieku v ľudskom organizme na tieto zmeny.
+
+- (10)
+
+- Reklama liekov určená osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky musí obsahovať
+
+- a)
+
+- základné informácie o lieku, ktoré sú v zhode so súhrnom charakteristických vlastností lieku,<sup>15a</sup>)
+
+- b)
+
+- zatriedenie lieku podľa spôsobu výdaja,
+
+- c)
+
+- dátum vypracovania alebo dátum aktualizovania.
+
+- (11)
+
+- Dokumentácia týkajúca sa lieku, ktorá sa odovzdáva ako súčasť propagácie tohto lieku osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky, musí obsahovať presné a aktuálne údaje, ktoré sú overiteľné a dostatočne úplné, aby príjemcovi umožnili urobiť si vlastný názor na terapeutickú hodnotu propagovaného lieku. Cenové ponuky, tabuľky a iné ilustračné prvky prevzaté z lekárskych časopisov alebo z iných vedeckých prác, ktoré sú použité v dokumentácii, musia byť reprodukované verne a musia byť uvedené presné pramene.
+
+- (12)
+
+- Lekársky zástupca musí absolvovať školenie a musí mať dostatočné vedecké vedomosti, aby bol schopný poskytnúť čo najpresnejšie a najúplnejšie informácie o lieku, ktorý propaguje. Školenie je povinný zabezpečiť držiteľ rozhodnutia o registrácii lieku.
+
+- (13)
+
+- Lekárski zástupcovia počas každej návštevy odovzdajú alebo dajú k dispozícii osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky, ktoré navštívili, súhrn charakteristických vlastností lieku, ktorý propagujú; môžu poskytnúť aj údaje o cene lieku a o výške a podmienkach úhrady lieku na základe verejného zdravotného poistenia.
+
+- (14)
+
+- Lekárski zástupcovia odovzdajú osobe zodpovednej za činnosť systému na monitorovanie nežiaducich účinkov [§ 23 ods. 1 písm. l)] informácie o používaní lieku, ktorý propagujú; v informácii uvedú všetky nežiaduce účinky, ktoré im oznámili osoby, ktoré navštívili.
+
+- (15)
+
+- Keď sa lieky propagujú osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky, zakazuje sa týmto osobám dodávať, ponúkať a sľubovať dary, peňažné a vecné výhody alebo prospech, ak nie sú nepatrnej hodnoty a nie sú relevantné pre výkon lekárskej alebo lekárnickej praxe.
+
+- (16)
+
+- Pohostenie na propagačných podujatiach musí byť prísne obmedzené len na účel propagačného podujatia a môže sa poskytovať len zdravotníckym pracovníkom; toto ustanovenie nebráni tomu, aby sa pohostenie priamo alebo nepriamo poskytovalo na podujatiach určených výhradne na odborné a vedecké účely, ak takéto pohostenie bude vždy prísne obmedzené na hlavný vedecký účel podujatia a neposkytne sa iným osobám ako zdravotníckym pracovníkom.
+
+- (17)
+
+- Zakazuje sa osobám oprávneným predpisovať lieky a osobám oprávneným vydávať lieky vyžadovať alebo prijať dar, peňažnú alebo materiálnu výhodu alebo iný prospech zakázaný podľa odseku 15 alebo prijať pohostenie v rozpore s odsekom 16.
+
+- (18)
+
+- Zákazy a obmedzenia podľa odsekov 15 a 16 nemajú vplyv na cenové opatrenia podľa osobitného predpisu.<sup>18a</sup>)
+
+- (19)
+
+- Vzorky liekov môže držiteľ rozhodnutia o registrácii lieku poskytnúť na základe písomnej žiadosti len osobe oprávnenej predpisovať lieky, a to v rozsahu dvoch vzoriek najmenšieho balenia registrovaného lieku<sup>16</sup>) za rok s označením „BEZPLATNÁ LEKÁRSKA VZORKA – NEPREDAJNÁ” a s priloženým súhrnom charakteristických vlastností lieku.
+
+- (20)
+
+- Kontrolu a evidenciu vzoriek liekov zabezpečuje držiteľ rozhodnutia o registrácii lieku.
+
+- (21)
+
+- Poskytovať vzorky liekov, ktoré obsahujú omamné látky alebo psychotropné látky, je zakázané.
+
+- (22)
+
+- Držiteľ rozhodnutia o registrácii lieku je povinný
+
+- a)
+
+- vytvoriť vo svojom podniku vedeckú službu, ktorá je zodpovedná za informácie o liekoch, ktoré uvádza na trh,
+
+- b)
+
+- sprístupniť alebo odovzdať Štátnemu ústavu pre kontrolu liečiv<sup>21</sup>) vzorku každej reklamy vychádzajúcej z jeho podniku spolu s vyhlásením o osobách, ktorým je určená, o spôsobe šírenia a o dátume začiatku šírenia,
+
+- c)
+
+- zabezpečiť súlad reklamy liekov svojho podniku s požiadavkami tohto zákona,
+
+- d)
+
+- overiť si, či lekárski zástupcovia, ktorých zamestnáva, sú odborne zaškolení podľa odseku 12 a plnia si svoje povinnosti podľa odsekov 13 a 14,
+
+- e)
+
+- poskytnúť Štátnemu ústavu pre kontrolu liečiv informácie a súčinnosť, ak o ne požiada pri výkone svojej činnosti,
+
+- f)
+
+- zabezpečiť, aby sa rozhodnutia Štátneho ústavu pre kontrolu liečiv bezodkladne a v plnej miere realizovali.
+
+- (23)
+
+- Držiteľovi rozhodnutia o registrácii lieku sa nezakazuje spoločná reklama lieku a jednou alebo s viacerými ním určenými právnickými osobami alebo fyzickými osobami.
+
+- (24)
+
+- Ustanovenia tohto zákona sa vzťahujú aj na reklamu homeopatických liekov okrem ustanovenia odseku 4 písm. a). V reklame homeopatických liekov sa môžu používať len informácie a údaje schválené pri registrácii homeopatického lieku.“.
+
+- Poznámky pod čiarou k odkazom 14 až 18a znejú:
+
+- „14)
+
+- § 2 ods. 5 a § 21b zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+
+- 15)
+
+- § 24 a 25 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 15a)
+
+- § 26 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 16)
+
+- § 20 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 17)
+
+- § 2 ods. 1 až 3 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
+
+- 18)
+
+- Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 18a)
+
+- Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.“.
+
+- 2. V § 11 odsek 3 znie:
+
+- „(3)
+
+- Okrem opatrení podľa odsekov 1 a 2 orgán dozoru uloží pokutu
+
+- a)
+
+- do 50 000 Sk osobe oprávnenej predpisovať lieky a osobe oprávnenej vydávať lieky za porušenie ustanovenia § 8 ods. 17 a lekárskemu zástupcovi za porušenie ustanovenia § 8 ods. 12 až 14,
+
+- b)
+
+- do 100 000 Sk šíriteľovi reklamy za porušenie ustanovenia § 3 ods. 5 a § 8 ods. 8, 9 a 24,
+
+- c)
+
+- do 2 000 000 Sk šíriteľovi reklamy za porušenie všeobecných požiadaviek na reklamu podľa § 3 ods. 1 a 3 až 7 a požiadaviek na reklamu niektorých produktov podľa § 5 až 7, § 8 ods. 4 a 24 a § 9 a držiteľovi rozhodnutia o registrácii lieku, ktorá je predmetom reklamy, za porušenie ustanovení § 8 ods. 6, 11, 15, 16, 19 až 22 a 24,
+
+- d)
+
+- do 5 000 000 Sk objednávateľovi reklamy za klamlivú reklamu podľa § 3 ods. 2, neprípustnú porovnávaciu reklamu podľa § 4 a za porušenie ustanovení § 8 ods. 4, 7 až 10 a 24.“.
+
+- 3. Príloha sa dopĺňa bodom 3, ktorý znie:
+
+- „3.
+
+- Smernica Európskeho parlamentu a Rady 2001/83/ES zo 6. novembra 2001 o právnych predpisoch spoločenstva týkajúcich sa liekov na humánne použitie (Ú. v. ES L 311, 28. 11. 2001) v znení smernice 2002/98/ES z 27. januára 2003 (Ú. v. EÚ L 33, 8. 2. 2003), v znení smernice Komisie 2003/63/ES z 25. júna 2003 (Ú. v. EÚ L 159, 27. 6. 2003), v znení smernice Európskeho parlamentu a Rady 2004/24/ES z 31. marca 2004 (Ú. v. EÚ L 136, 30. 4. 2004), v znení smernice Európskeho parlamentu a Rady 2004/27/ES z 31. marca 2004 (Ú. v. EÚ L 136, 30. 4. 2004).“.
