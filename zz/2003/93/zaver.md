@@ -1,1 +1,0 @@
-Ľubomír Plai v. r.
