@@ -10,6 +10,8 @@
 
 - 6) Napríklad § 8 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, § 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 6a) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 7) Nariadenie (ES) Európskeho parlamentu a Rady č. 2195/2002 z 5. novembra 2002 o spoločnom slovníku obstarávania (CPV) (Ú. v. EÚ L 340, 16. decembra 2002, s. 1) v znení nariadenia Komisie č. 2151/2003 zo 16. decembra 2003 (Ú. v. EÚ L 329, 16. decembra 2003, s. 1).
 
 - 8) § 2 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
