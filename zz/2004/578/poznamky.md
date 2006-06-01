@@ -42,6 +42,8 @@
 
 - 17a) Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
 
+- 17b) § 35 ods. 1 a § 39a ods. 7 a 8 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 19) § 116 Občianskeho zákonníka.
 
 - 20) § 49 Trestného zákona.
@@ -106,7 +108,9 @@
 
 - 44) § 50 ods. 3 písm. c) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
-- 45) § 6 až 17 a § 26 až 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 45) § 39 a 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- § 6 až 17 a § 26 až 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - § 44 ods. 1 zákona č. 577//2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 347/2005 Z. z.
 
