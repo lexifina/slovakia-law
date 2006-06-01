@@ -1,0 +1,13 @@
+Príloha č. 6 k nariadeniu vlády č. 345/2006 Z. z.
+
+- KONVERZNÉ FAKTORY NA HODNOTENIE PRÍJMU RÁDIONUKLIDOV V tabuľke č. 1 sú uvedené konverzné faktory na prepočet objemových aktivít vzácnych rádioaktívnych plynov na príkon efektívnej dávky pre dospelých jednotlivcov z obyvateľstva a pre pracovníkov, praktikantov a študentov starších ako 18 rokov.
+
+- V tabuľke č. 2 sú uvedené koeficienty f1 absorpcie v tráviacom ústrojenstve podľa prvkov a zlúčenín pre pracovníkov vystavených ožiareniu, a ak je to vhodné aj pre jednotlivcov z obyvateľstva; pri príjme ingesciou.
+
+- V tabuľke č. 3 sú uvedené typy absorpcie v pľúcach a koeficienty f1 absorpcie v tráviacom ústrojenstve podľa prvkov a zlúčenín pre pracovníkov vystavených ožiareniu a praktikantov a študentov starších ako 18 rokov; pri príjme inhaláciou.
+
+- Pre jednotlivcov z obyvateľstva sa pri typoch absorpcie v pľúcach a koeficientoch f1 absorpcie v tráviacom ústrojenstve musí zohľadniť chemická forma prvku na základe dostupných medzinárodných odporúčaní. Obecne platí zásada, že ak o týchto parametroch nie sú dostupné informácie, použije sa najreštriktívnejšia hodnota.
+
+- V tabuľke č. 4 sú uvedené hodnoty úväzku efektívnej dávky na jednotku príjmu ingesciou a hodnoty úväzku efektívnej dávky na jednotku príjmu inhaláciou pre pracovníkov a pre praktikantov a študentov starších ako 18 rokov okrem hodnôt pre dcérske produkty premeny radónu a torónu. Pre ožiarenie pri práci sú v tabuľke č. 4 uvedené hodnoty úväzku efektívnej dávky na jednotku príjmu ingesciou zodpovedajúce rôznym koeficientom f1 absorpcie v tráviacom ústrojenstve a hodnoty úväzku efektívnej dávky na jednotku príjmu inhaláciou pre rôzne typy retencie v pľúcach so zodpovedajúcimi koeficientmi f1 pre frakciu, ktorá prechádza z pľúc do tráviaceho ústrojenstva.
+
+- V tabuľkách č. 5 a č. 6 sú uvedené hodnoty úväzku efektívnej dávky na jednotku príjmu ingesciou alebo inhaláciou pre jednotlivcov z obyvateľstva a pre praktikantov a študentov vo veku od 16 do 18 rokov okrem hodnôt pre dcérske produkty premeny radónu a torónu. Ak ide o ožiarenie jednotlivcov z obyvateľstva, tabuľka č. 5 uvádza hodnoty úväzku efektívnej dávky na jednotku príjmu ingesciou zodpovedajúce rôznym koeficientom f1 absorpcie v tráviacom ústrojenstve u detí do 1 roku veku, u detí starších ako 1 rok podľa vekových kategórií a u dospelých; tabuľka č. 6 uvádza hodnoty úväzku efektívnej dávky na jednotku príjmu inhaláciou pre rôzne typy retencie v pľúcach so zodpovedajúcimi koeficientmi f1 pre frakciu príjmu, ktorá prechádza z pľúc do tráviaceho ústrojenstva. Ak sú informácie o týchto parametroch dostupné, použije sa zodpovedajúca hodnota, ak nie sú, použije sa najreštriktívnejšia hodnota.
