@@ -6,6 +6,8 @@
 
 - 4) § 1 zákona č. 34/1946 Zb., ktorým sa vymedzuje pojem „československého partizána“.
 
+- 4a) § 10 zákona č. 219/2006 Z. z. o protikomunistickom odboji.
+
 - 5) § 29 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
 - 6) Zákon č. 402/2000 Z. z. o zásluhách Milana Rastislava Štefánika o Slovensko.
