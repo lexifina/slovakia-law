@@ -29,3 +29,5 @@
 - § 99 písm. o) zákona č. 725/2004 Z. z.
 
 - 14) § 2 písm. ai) zákona č. 725/2004 Z. z.
+
+- 15) Nariadenie vlády Slovenskej republiky č. 318/2006 Z. z. o technických požiadavkách na spätné zrkadlá motorových vozidiel určené ako náhradné dielce.
