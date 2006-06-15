@@ -1,1 +1,0 @@
-Peter Ponický v. r.
