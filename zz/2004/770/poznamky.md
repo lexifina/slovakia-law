@@ -8,4 +8,6 @@
 
 - 5) § 11 ods. 8 písm. d) zákona č. 576/2004 Z. z.
 
+- 5a) § 2 ods. 10 a 11 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
+
 - 6) § 40 ods. 4 zákona č. 578/2004 Z. z.
