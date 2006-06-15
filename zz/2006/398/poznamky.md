@@ -1,0 +1,1 @@
+- *) Časť I hlava I článok 3b) Dohovoru o medzinárodnom civilnom letectve, Chicago 1944.
