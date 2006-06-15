@@ -148,7 +148,7 @@ Príloha č. 4 k vyhláške č. 30/2006 Z. z.
 
     - 72. Jelšava
 
-    - 73. Kecerovce
+    - 73. Bidovce
 
     - 74. Kežmarok
 
@@ -521,6 +521,16 @@ Príloha č. 4 k vyhláške č. 30/2006 Z. z.
     - 258. Žilina, časť juh
 
     - 259. Žilina, časť východ
+
+    - 260. Beladice
+
+    - 261. Košice, časť sever
+
+    - 262. Mýto pod Ďumbierom
+
+    - 263. Staré Hory
+
+    - 264. Zemianska Olča
 
   - Sídla pre vodnú záchrannú zdravotnú službu
 
