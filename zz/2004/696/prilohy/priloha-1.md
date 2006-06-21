@@ -44,7 +44,7 @@ dohodli sa takto:
 
     - od 1. októbra do 30. apríla od 08.00 do 16.00 hodiny.
 
-    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy pre občanov Slovenskej republiky a občanov Maďarskej republiky, ako aj pre občanov členských štátov Európskeho hospodárskeho priestoru vrátane vybavovania autobusovej dopravy.
+    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy občanov členských štátov Európskej únie, občanov zmluvných štátov dohody o Európskom hospodárskom priestore a občanov Švajčiarskej konfederácie, ako aj rodinných príslušníkov týchto osôb, ktorí nie sú občanmi žiadneho z uvedených štátov, sú však zvýhodnenými osobami v zmysle právnych ustanovení spoločenstva o voľnom pohybe občanov Európskej únie, vrátane autobusovej dopravy.
 
     - (4) Vybavovacím priestorom pre kontrolné orgány Slovenskej republiky (ďalej len „slovenské kontrolné orgány“) na hraničnom vybavovacom mieste sú
 
@@ -88,7 +88,7 @@ dohodli sa takto:
 
     - od 06.00 do 22.00 hodiny.
 
-    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie chodcov a cyklistov občanov Slovenskej republiky a občanov Maďarskej republiky, ako aj občanov členských štátov Európskeho hospodárskeho priestoru.
+    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie chodcov a cyklistov občanov členských štátov Európskej únie, občanov zmluvných štátov dohody o Európskom hospodárskom priestore a občanov Švajčiarskej konfederácie, ako aj rodinných príslušníkov týchto osôb, ktorí nie sú občanmi žiadneho z uvedených štátov, sú však zvýhodnenými osobami v zmysle právnych ustanovení spoločenstva o voľnom pohybe občanov Európskej únie.
 
     - (4) Vybavovacím priestorom pre kontrolné orgány Maďarskej republiky (ďalej len „maďarské kontrolné orgány“) na hraničnom vybavovacom mieste sú
 
@@ -134,7 +134,7 @@ dohodli sa takto:
 
     - od 1. októbra do 30. apríla od 08.00 do 17.00 hodiny.
 
-    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy pre občanov Slovenskej republiky a občanov Maďarskej republiky, ako aj občanov členských štátov Európskeho hospodárskeho priestoru.
+    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy občanov členských štátov Európskej únie, občanov zmluvných štátov dohody o Európskom hospodárskom priestore a občanov Švajčiarskej konfederácie, ako aj rodinných príslušníkov týchto osôb, ktorí nie sú občanmi žiadneho z uvedených štátov, sú však zvýhodnenými osobami v zmysle právnych ustanovení spoločenstva o voľnom pohybe občanov Európskej únie.
 
     - (4) Vybavovacím priestorom pre maďarské kontrolné orgány na hraničnom vybavovacom mieste sú
 
@@ -228,7 +228,7 @@ dohodli sa takto:
 
     - od 08.00 – 20.00 hodiny.
 
-    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy pre občanov Slovenskej republiky a občanov Maďarskej republiky, ako aj pre občanov členských štátov Európskeho hospodárskeho priestoru a vybavovanie nákladnej dopravy do 3,5 tony celkovej hmotnosti vozidiel evidovaných na území štátov zmluvných strán a na území členských štátov Európskeho hospodárskeho priestoru.
+    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy občanov členských štátov Európskej únie, občanov zmluvných štátov dohody o Európskom hospodárskom priestore a občanov Švajčiarskej konfederácie, ako aj rodinných príslušníkov týchto osôb, ktorí nie sú občanmi žiadneho z uvedených štátov, sú však zvýhodnenými osobami v zmysle právnych ustanovení spoločenstva o voľnom pohybe občanov Európskej únie, a vybavovanie nákladnej dopravy do 3,5 tony celkovej hmotnosti vozidiel evidovaných na území niektorého zo zmluvných štátov dohody o Európskom hospodárskom priestore.
 
     - (4) Vybavovacím priestorom pre maďarské kontrolné orgány na hraničnom vybavovacom mieste sú
 
@@ -290,11 +290,9 @@ dohodli sa takto:
 
     - (1) Na cestnom hraničnom priechode Salka – Letkés umiestnenom na území Maďarskej republiky je v prevádzke slovenské hraničné vybavovacie miesto.
 
-    - (2) Prevádzkový čas je stanovený
+    - (2) Prevádzkový čas je stanovený od 06.00 do 22.00 hodiny.
 
-    - od 08.00 do 20.00 hodiny.
-
-    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy pre občanov Slovenskej republiky a občanov Maďarskej republiky, ako aj pre občanov členských štátov Európskeho hospodárskeho priestoru a vybavovanie nákladnej dopravy do 3,5 tony celkovej hmotnosti vozidiel evidovaných na území štátov zmluvných strán a na území členských štátov Európskeho hospodárskeho priestoru.
+    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie osobnej dopravy občanov členských štátov Európskej únie, občanov zmluvných štátov dohody o Európskom hospodárskom priestore a občanov Švajčiarskej konfederácie, ako aj rodinných príslušníkov týchto osôb, ktorí nie sú občanmi žiadneho z uvedených štátov, sú však zvýhodnenými osobami v zmysle právnych ustanovení spoločenstva o voľnom pohybe občanov Európskej únie, a vybavovanie nákladnej dopravy do 7,5 tony celkovej hmotnosti vozidiel evidovaných na území niektorého zo zmluvných štátov dohody o Európskom hospodárskom priestore.
 
     - (4) Vybavovacím priestorom pre slovenské kontrolné orgány na hraničnom vybavovacom mieste sú
 
@@ -388,13 +386,11 @@ dohodli sa takto:
 
     - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie
 
-      - a) osobnej dopravy občanov Slovenskej republiky a občanov Maďarskej republiky vrátane dopravy mikrobusov neprepravujúcich viac ako 9 osôb s výnimkou autobusovej dopravy,
+      - a) osobnej dopravy občanov členských štátov Európskej únie, občanov zmluvných štátov dohody o Európskom hospodárskom priestore a občanov Švajčiarskej konfederácie, ako aj rodinných príslušníkov týchto osôb, ktorí nie sú občanmi žiadneho z uvedených štátov, sú však zvýhodnenými osobami v zmysle právnych ustanovení spoločenstva o voľnom pohybe občanov Európskej únie, s výnimkou vybavovania autobusovej dopravy prepravujúcej viac ako 9 osôb,
 
       - b) občanov všetkých štátov sveta používajúcich dopravné prostriedky, ktoré nie sú spôsobilé na jazdu po diaľnici, a vybavovanie chodcov a cyklistov.
 
-    - (4) Na hraničnom priechode je akákoľvek obchodná preprava tovaru vylúčená.
-
-    - (5) Vybavovacím priestorom pre slovenské kontrolné orgány na hraničnom vybavovacom mieste sú
+    - (4) Vybavovacím priestorom pre slovenské kontrolné orgány na hraničnom vybavovacom mieste sú
 
       - a) úsek cesty č. 150 od spoločnej štátnej hranice na hraničné vybavovacie miesto na účel dochádzky do výkonu služby,
 
@@ -498,7 +494,7 @@ dohodli sa takto:
 
     - od 00.00 do 24.00 hodiny.
 
-    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie medzinárodnej nákladnej dopravy a medzinárodnej osobnej dopravy pre občanov Slovenskej republiky a občanov Maďarskej republiky, ako aj pre občanov členských štátov Európskeho hospodárskeho priestoru.
+    - (3) Hraničné vybavovacie miesto zabezpečuje vybavovanie medzinárodnej nákladnej dopravy a osobnej dopravy občanov členských štátov Európskej únie, občanov zmluvných štátov dohody o Európskom hospodárskom priestore a občanov Švajčiarskej konfederácie, ako aj rodinných príslušníkov týchto osôb, ktorí nie sú občanmi žiadneho z uvedených štátov, sú však zvýhodnenými osobami v zmysle právnych ustanovení spoločenstva o voľnom pohybe občanov Európskej únie.
 
     - (4) Hraničné vybavovanie osobnej dopravy a nákladnej dopravy vykonávajú kontrolné orgány zmluvných strán v železničnej stanici Bánréve, vybavovanie osobnej dopravy podľa potreby a účelu vykonávajú počas jazdy vo vlakoch medzi stanicami Tornaľa - Ózd.
 
