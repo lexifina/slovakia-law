@@ -4,12 +4,12 @@ Príloha č. 3 k zákonu č. 541/2004 Z. z.
 
   - Štandardizované dokumenty podľa tejto prílohy musia byť zhotovené čiernou tlačou na bielom papieri s hmotnosťou najmenej 40 g/m<sup>2</sup> a s takou pevnosťou, že pri normálnom používaní sa nebude ľahko trhať alebo krčiť. Štandardizovaný dokument musí mať rozmery 210 x 297 mm s maximálnou toleranciou dĺžky – 5 mm, resp. + 8 mm.
 
-- [Časť A](../assets/fe234a25e84112eda9b0766aba95549c03cdde7907a1bdd58560ac23329311ee.pdf)
+- [Časť A](../assets/dee261bc155d6e11b780faab04f8a81f66b20ad4fc1c4cdf04fa8df7f4b4d9a7.pdf)
 
-- [Časť B](../assets/6a172464ba2531c1414aacf69dd84f5b19e1279e443fe081bcfbdbf80f98f8a8.pdf)
+- [Časť B](../assets/7a9454398ee0da2d277ca874c3b409e9dfb995bde72a919c26aa78e34e706f80.pdf)
 
-- [Časť C](../assets/810231af0e8d3544ec4aa4fde8c888fb4602d4e23b1b144aa32316f1eb22be65.pdf)
+- [Časť C](../assets/8e9d6b988d0a39f67afb1974285500b0c6e3a13ada30232fa9da930365086044.pdf)
 
-- [Časť D](../assets/10f82c9c8370fa98dde2d2647c2465d07981a57327d4d632f604f83d42513837.pdf)
+- [Časť D](../assets/75b4820cc5340e16629d27109917b657ed8b68e0a4d727ecec917a55f01bfdff.pdf)
 
-- [Časť E](../assets/e43560c0c9751e970c9455e08aa0177f682266a92dae344cb7857cc6ed884234.pdf)
+- [Časť E](../assets/ded2f5e2dd83b400fbc8b9bd5a1d82312716778145166e9813ee0e24e570bbdb.pdf)
