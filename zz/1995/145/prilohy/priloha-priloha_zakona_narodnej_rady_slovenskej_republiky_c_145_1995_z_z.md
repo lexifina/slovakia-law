@@ -166,9 +166,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Predĺženie platnosti preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 200 Sk
 
-  - d) Vydanie preukazu (osvedčenia) ako náhrady za stratený, zničený, odcudzený alebo poškodený preukaz (osvedčenie), opakovane v priebehu dvoch po sebe nasledujúcich rokoch ..... | 1 000 Sk
+  - d) Vydanie preukazu (osvedčenia) ako náhrady za stratený, zničený, odcudzený alebo poškodený preukaz (osvedčenie), opakovane v priebehu dvoch po sebe nasledujúcich rokoch .... | 1 000 Sk
 
-  - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené vydanie prvého občianskeho preukazu a vydanie občianskeho preukazu z úradnej moci a od poplatku podľa písmena c) tejto položky je oslobodené predĺženie platnosti preukazu osobitného označenia vozidla pre ťažko zdravotne alebo ťažko pohybovo postihnutú osobu odkázanú na individuálnu prepravu. |
+  - Oslobodenie Od poplatku podľa písmena c) tejto položky je oslobodené predĺženie platnosti preukazu osobitného označenia vozidla pre ťažko zdravotne alebo ťažko pohybovo postihnutú osobu odkázanú na individuálnu prepravu. |
 
     - Položka 7
 
@@ -346,7 +346,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) mena alebo priezviska v ostatných prípadoch | 3 000 Sk
 
-  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena priezviska, ku ktorej dochádza vyhlásením rozvedeného manžela, že prijíma opäť predošlé priezvisko, ak sa táto skutočnosť oznámila do troch mesiacov od právoplatnosti rozhodnutia o rozvode manželstva. 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska z dôvodu zmeny pohlavia,zmena mena a priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike a zapísanie priezviska osvojiteľa ako priezviska. |
+  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska podľa § 7 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov. 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike. 3. Od poplatku podľa tejto položky je oslobodená zmena priezviska, ku ktorej dochádza vyhlásením rozvedeného manžela, že prijíma opäť predošlé priezvisko, ak sa táto skutočnosť oznámila do troch mesiacov od právoplatnosti rozhodnutia o rozvode manželstva. 4. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska z dôvodu zmeny pohlavia, zmena mena a priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike a zapísanie priezviska osvojiteľa ako priezviska. |
 
   - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
@@ -386,9 +386,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 22
 
-  - Vydanie osvedčenia o štátnom občianstve Slovenskej republiky....................................................... | 100 Sk
+  - Vydanie osvedčenia o štátnom občianstve Slovenskej republiky | 100 Sk
+
+  - Oslobodenie Od poplatku podľa tejto položky je oslobodené vydanie osvedčenia o štátnom občianstve Slovenskej republiky na účely vydania prvého občianskeho preukazu. |
 
   - Poznámka Poplatok podľa tejto položky sa vyberie v polovičnej výške, ak ide o udelenie štátneho občianstva bývalým slovenským alebo československým štátnym občanom; poplatok podľa tejto položky sa vyberie vo výške dvojnásobku, ak sa osvedčenie o štátnom občianstve vydáva ihneď na výslovnú žiadosť poplatníka. |
+
+    - Položka 22a
+
+  - a) Podanie žiadosti o vydanie občianskeho preukazu | 150 Sk
+
+  - b) Podanie žiadosti o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz | 500 Sk
+
+  - c) Podanie žiadosti o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz, opakovane v priebehu dvoch po sebe nasledujúcich rokoch | 1000 Sk
+
+  - Oslobodenie Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie prvého občianskeho preukazu a nového občianskeho preukazu podľa § 7 ods. 2 a § 17 ods. 4 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov. |
 
     - Položka 23
 
@@ -3140,23 +3152,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 202
 
-  - a) Vydanie oprávnenia alebo osvedčenia podľa osobitných predpisov v oblasti bezpečnosti práce a technických zariadení<sup>42</sup>) ................................................................................................................................... | 500 Sk
+  - a) Vydanie oprávnenia právnickej osobe na vykonávanie bezpečnostnotechnickej služby<sup>42</sup>) | 5 000 Sk
 
-  - b) Vydanie oprávnenia podľa osobitných predpisov v oblasti bezpečnosti práce a technických zariadení v jadrovej energetike<sup>43</sup>) vrátane miestneho zisťovania na účely overenia spôsobilosti, za každú aj začatú hodinu pracovného času ................................................................................................... | 200 Sk, najviac však 10 000 Sk
+  - b) Vydanie oprávnenia fyzickej osobe, ktorá je podnikateľom a podnikateľom na vykonávanie bezpečnostnotechnickej služby<sup>42</sup>) | 2 500 Sk
 
-  - c) Vydanie osvedčenia podľa osobitných predpisov v oblasti bezpečnosti práce a technických zariadení v jadrovej energetike<sup>44</sup>) ...................................................................................................................... | 500 Sk
+  - c) Vydanie oprávnenia na výchovu a vzdelávanie v oblasti ochrany práce právnickej osobe<sup>42</sup>) | 5 000 Sk
 
-  - d) Vydanie odborného stanoviska podľa osobitných predpisov v oblasti bezpečnosti práce a technických zariadení v jadrovej energetike<sup>45</sup>) ............................................................................................. | 1 000 Sk
+  - d) Vydanie oprávnenia na výchovu a vzdelávanie v oblasti ochrany práce fyzickej osobe,<sup>42</sup>) ktorá je zamestnávateľom a podnikateľom | 2 500 Sk
 
-  - e) Vydanie stanoviska orgánom štátneho odborného dozoru nad bezpečnosťou práce a technickými zariadeniami k pravidlám o bezpečnosti a ochrane zdravia pri práci podľa ustanovení Zákonníka práce ................................................................................................................................ | 500 Sk
+  - e) Vydanie osvedčenia autorizovanému bezpečnostnému technikovi<sup>42</sup>) | 1 000 Sk
 
-  - f) Povolenie výnimky (schválenie náhradných bezpečnostných opatrení) z predpisov na zaistenie bezpečnosti a ochrany zdravia pri práci okrem miestneho zisťovania ......................................................... | 1 000 Sk
-
-  - g) Predĺženie výnimky (schválenie náhradných bezpečnostných opatrení) z predpisov na zaistenie bezpečnosti a ochrany zdravia pri práci okrem miestneho zisťovania ......................................................... | 500 Sk
-
-  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch poplatok podľa písmena d) tejto položky znížiť, prípadne podľa rozsahu posudzovanej dokumentácie zvýšiť až na päťnásobok príslušnej sadzby. |
-
-  - Poznámky 1. Poplatky podľa tejto položky vyberajú orgány štátneho odborného dozoru nad bezpečnosťou práce. 2. Poplatok podľa písmen f) a g) tejto položky vyberie správny orgán až po vykonaní úkonu. |
+  - f) Vydanie povolenia zamestnávateľovi na výkon ľahkých prác fyzickými osobami, ktoré nedovŕšili 15 rokov veku podľa Zákonníka práce<sup>42</sup>) | 500 Sk
 
     - Položka 203
 
@@ -3828,17 +3834,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
-    - Položka 248
-
-  - Povolenie zmeny |
-
-  - a) priezviska hanlivého, výstredného, smiešneho, skomoleného, cudzojazyčného .......... | 100 Sk
-
-  - b) priezviska maloletých detí ......................................................................................................... | 1 000 Sk
-
-  - c) mena alebo priezviska v ostatných prípadoch ...................................................................... | 3 000 Sk
-
-  - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 3. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
+    - Položka 248 - Zrušená od 1. 7. 2006.
 
     - Položka 249
 

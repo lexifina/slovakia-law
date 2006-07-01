@@ -258,7 +258,7 @@
 
 - 41) § 20 ods. 9 zákona č. 130/1998 Z. z.
 
-- 42) § 4 ods. 1 písm. i) a § 6 písm. d) zákona č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
+- 42) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
 - 43) § 5 vyhlášky Slovenského úradu bezpečnosti práce č. 66/1989 Zb. na zaistenie bezpečnosti technických zariadení v jadrovej energetike v znení vyhlášky č. 31/1991 Zb.
 
