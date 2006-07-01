@@ -1,3 +1,0 @@
-# § 10a
-
-Týmto nariadením sa preberá právny akt Európskych spoločenstiev a Európskej únie uvedený v prílohe č. 4.
