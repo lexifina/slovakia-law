@@ -1,0 +1,5 @@
+Príloha č. 3 k nariadeniu vlády č. 392/2006 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
+
+  - Smernica Rady 89/655/EHS z 30. novembra 1989 o minimálnych požiadavkách na bezpečnosť a ochranu zdravia pri používaní pracovných zariadení pracovníkmi pri práci (druhá samostatná smernica v zmysle článku 16 ods. 1 smernice 89/391/EHS), (Mimoriadne vydanie Ú. v. EÚ, 05/zv.1) v znení Smernice Rady 95/63/ES z 5. decembra 1995, ktorou sa mení a dopĺňa smernica 89/655/EHS o minimálnych požiadavkách na bezpečnosť a ochranu zdravia pri používaní pracovných prostriedkov pracovníkmi pri práci (druhá samostatná smernica v zmysle článku 16 ods. 1 smernice 89/391/EHS), (Mimoriadne vydanie Ú. v. EÚ, 05/zv.2) a v znení Smernice Európskeho parlamentu a Rady 2001/45/ES z 27. júna 2001, ktorou sa mení a dopĺňa smernica Rady 89/655/EHS o minimálnych požiadavkách na bezpečnosť a ochranu zdravia pri používaní pracovných prostriedkov pracovníkmi pri práci (druhá samostatná smernica v zmysle článku 16 ods. 1 smernice 89/391/EHS), (Mimoriadne vydanie Ú. v. EÚ, 05/zv.4).
