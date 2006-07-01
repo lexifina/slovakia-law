@@ -1,4 +1,4 @@
-- 1) Napríklad § 497 až 507 Obchodného zákonníka, § 1 ods. 2 písm. b) zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
+- 1) Napríklad § 497 až 507 Obchodného zákonníka, § 2 ods. 1 písm. b) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 663 Občianskeho zákonníka.
 
@@ -22,4 +22,4 @@
 
 - 12) § 19 zákona č. 634/1992 Zb.
 
-- 13) § 2a zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
+- 13) § 2 písm. i) zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
