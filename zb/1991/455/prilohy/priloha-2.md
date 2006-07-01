@@ -8,15 +8,15 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 202 - Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | | | |
 
-- 2. | Montáž, rekonštrukcia, opravy, údržba, odborné prehliadky a odborné skúšky vyhradených technických zariadení a plnenie tlakových nádob na dopravu plynov vrátane nádrží motorových vozidiel plynom | oprávnenie | § 4 ods. 1 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení |
+- 2. | Opravy, odborné prehliadky a odborné skúšky vyhradených technických zariadení | 1. oprávnenie 2. doklad o odbornej spôsobilosti | § 15 ods. 1 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov § 15 ods. 9 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
 
 - 3. | Montáž, opravy a rekonštrukcie vyhradených tlakových, zdvíhacích a plynových zariadení a vykonávanie revízií a skúšok týchto zariadení*) | oprávnenie | § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 485/1990 Zb. § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 486/ 1990 Zb. § 4 ods. 1 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhl. č. 488/ 1990 Zb. *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
 - 4. | Revízia vyhradených elektrických zariadení*) | osvedčenie | § 9 vyhl. Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
-- 5. | Projektovanie alebo konštruovanie vyhradených elektrických zariadení | osvedčenie | § 24 ods. 1 vyhl. Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích elektrických a plynových technických zariadení a o odbornej spôsobilosti |
+- 5. | Projektovanie a konštruovanie vyhradených technických zariadení elektrických | osvedčenie | § 24 ods. 1 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení |
 
-- 6. | Opravy a údržba kancelárskych elektrických strojov a prístrojov a elektrických strojov a prístrojov pre domácnosť | osvedčenie | § 22 alebo § 23, alebo § 24 vyhl. Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích elektrických a plynových technických zariadení a o odbornej spôsobilosti |
+- 6. | Zrušená od 1. 7. 2006. | | |
 
 - SKUPINA 204 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | | | |
 
@@ -56,6 +56,8 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 18a. | Energetická certifikácia | osvedčenie o vykonaní skúšky odbornej spôsobilosti | § 31 ods. 2 písm. j) zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov |
 
+- 18b. | Vykonávanie činnosti koordinátora bezpečnosti | 1. vysokoškolské vzdelanie stavebného alebo architektonického smeru alebo odborné stredoškolské vzdelanie stavebného smeru a najmenej tri roky praxe v odbore alebo 2. osvedčenie autorizovaného bezpečnostného technika | § 22 ods. 3 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov § 5 ods. 1 nariadenia vlády Slovenskej republiky č. 510/2001 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko v znení nariadenia vlády Slovenskej republiky č. 282/2004 Z. z. |
+
 - SKUPINA 214 - Ostatné | | | |
 
 - 19. | Prevádzkovanie autoškoly | osvedčenie o registrácii autoškoly | § 3 ods. 8 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov |
@@ -64,7 +66,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 21. | Vyučovanie v odbore umenia | dokončené štúdium na príslušnej umeleckej škole alebo spôsobilosť preukázaná 10-ročnou praktickou činnosťou v odbore | |
 
-- 22. | Poradenstvo, výchova a vzdelávanie v oblasti ochrany práce | oprávnenie | § 4 ods. 1 písm. i) zák. č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov § 5 ods. 7 zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov. |
+- 22. | Poradenstvo, výchova a vzdelávanie v oblasti ochrany práce*) | oprávnenie | § 5 ods. 7 zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
+
+- 22a. | Výchova a vzdelávanie v oblasti ochrany práce | oprávnenie | § 27 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
 
 - 23. | Prevádzkovanie vzdelávacích zariadení na prípravu vykonávania špecializovaných činností v oblasti telesnej kultúry | potvrdenie o akreditácii | § 11 ods. 4 zák. č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
@@ -130,7 +134,13 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 53. | Vykonávanie odbornej prípravy na úseku prevencie závažných priemyselných havárií | oprávnenie | § 13 ods. 1 a 5 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov |
 
-- 54. | Bezpečnostnotechnické služby | 1. osvedčenie alebo2. odborné vzdelanie v oblasti bezpečnosti a ochrany zdravia pri práci získanej vysokoškolským alebo stredoškolským štúdiom | § 12 zák. č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov |
+- 54. | Bezpečnostnotechnické služby | 1. oprávnenie 2. osvedčenie bezpečnostného technika 3. osvedčenie autorizovaného bezpečnostného technika | § 21 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov § 23 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov § 24 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
+
+- 54a. | Bezpečnostný technik | osvedčenie bezpečnostného technika | § 23 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
+
+- 54b. | Autorizovaný bezpečnostný technik | osvedčenie autorizovaného bezpečnostného technika | § 24 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
+
+- 54c. | Pracovná zdravotná služba | oprávnenie | § 21 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
 
 - 55. | Prevádzkovanie verejných vodovodov I. až III. kategórie a prevádzkovanie verejných kanalizácií I. až III. kategórie | osvedčenie o odbornej spôsobilosti na prevádzkovanie verejných vodovodov a verejných kanalizácií | |
 

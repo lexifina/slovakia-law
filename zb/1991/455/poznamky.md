@@ -10,6 +10,8 @@
 
 - 2a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
+- 2b) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov.
+
 - 3) § 25 ods. 1 zákona č. 87/1987 Zb. o veterinárnej starostlivosti v znení zákona č. 239/1991 Zb.
 
 - Zákon ČNR č. 240/1991 Zb. o šľachtení a plemenitbe hospodárskych zvierat.
