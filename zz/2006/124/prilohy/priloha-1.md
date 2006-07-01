@@ -1,91 +1,47 @@
 Príloha č. 1 k zákonu č. 124/2006 Z. z.
 
-- ZOZNAM činností s vyšším rizikom, pri ktorých môže vzniknúť závažné poškodenie zdravia zamestnancov alebo pri ktorých častejšie vzniká poškodenie ich zdravia
+- ZOZNAM činností s vyšším rizikom, pri ktorých môže dôjsť k závažnému poškodeniu zdravia zamestnancov alebo pri ktorých častejšie dochádza k poškodeniu ich zdravia
 
-  - Činnosti s vyšším rizikom, pri ktorých môže pri plnení pracovných povinností vzniknúť závažné poškodenie zdravia zamestnancov alebo pri ktorých častejšie vzniká poškodenie ich zdravia, podľa tohto zákona sa na základe štatistickej klasifikácie ekonomických činností<sup>33</sup>) rozdeľujú takto:
+  - Činnosti s vyšším rizikom, pri ktorých môže pri plnení pracovných povinností dôjsť k závažnému poškodeniu zdravia zamestnancov alebo pri ktorých častejšie dochádza k poškodeniu ich zdravia, podľa tohto zákona sa na základe odvetvovej klasifikácie ekonomických činností rozdeľujú takto:
 
-- Kód podľa štatistickej klasifikácie ekonomických činností | | Názov
+- Kód odvetvovej klasifikácie ekonomických činností (OKEČ) | Ekonomická činnosť
 
-- Divízia | Skupina |
+- A | Poľnohospodárstvo, poľovníctvo a lesníctvo
 
-- 01 | | Pestovanie plodín a chov zvierat, poľovníctvo a služby s tým súvisiace
+- C | Ťažba nerastných surovín
 
-- 02 | | Lesníctvo a ťažba dreva
+- DA | Výroba potravín, nápojov a tabakových výrobkov
 
-- 05 | | Ťažba uhlia a lignitu
+- DC | Spracúvanie kože a výroba kožených výrobkov
 
-- 06 | | Ťažba ropy a zemného plynu
+- DD | Spracúvanie dreva a výroba výrobkov z dreva
 
-- 07 | | Dobývanie kovových rúd
+- DE | Výroba celulózy, papiera a výrobkov z papiera; vydavateľstvo a tlač
 
-- 08 | | Iná ťažba a dobývanie
+- DF | Výroba koksu, rafinovaných ropných produktov a jadrového paliva
 
-- 09 | | Pomocné činnosti pri ťažbe
+- DG | Výroba chemikálií, chemických výrobkov a chemických vláken
 
-- 10 | | Výroba potravín
+- DH | Výroba výrobkov z gumy a plastov
 
-- 11 | | Výroba nápojov
+- DI | Výroba ostatných nekovových minerálnych výrobkov
 
-- 12 | | Výroba tabakových výrobkov
+- DJ | Výroba kovov a výroba kovových výrobkov
 
-- 15 | | Výroba kože a kožených výrobkov
+- DK | Výroba strojov a zariadení inde nezaradených
 
-- 16 | | Spracovanie dreva a výroba výrobkov z dreva a korku okrem nábytku; výroba predmetov zo slamy a prúteného materiálu
+- DL | Výroba elektrických a optických zariadení
 
-- 17 | | Výroba papiera a papierových výrobkov
+- DM | Výroba dopravných prostriedkov
 
-- | 18.1 | Tlač a služby súvisiace s tlačou
+- DN | Výroba i. n.
 
-- 19 | | Výroba koksu a rafinovaných ropných produktov
+- E | Výroba a rozvod elektriny, plynu, pary a vody
 
-- 20 | | Výroba chemikálií a chemických produktov
+- F | Stavebníctvo
 
-- 21 | | Výroba základných farmaceutických výrobkov a farmaceutických prípravkov
+- I | Doprava, skladovanie a pošty okrem telekomunikácií, vzdušnej dopravy a činnosti cestovných kancelárií
 
-- 22 | | Výroba výrobkov z gumy a plastu
+- N | Zdravotníctvo a sociálna pomoc
 
-- 23 | | Výroba ostatných nekovových minerálnych výrobkov
-
-- 24 | | Výroba a spracovanie kovov
-
-- 25 | | Výroba kovových konštrukcií okrem strojov a zariadení
-
-- 26 | | Výroba počítačových, elektronických a optických výrobkov
-
-- 27 | | Výroba elektrických zariadení
-
-- 28 | | Výroba strojov a zariadení inde nezaradených
-
-- 29 | | Výroba motorových vozidiel, návesov a prívesov
-
-- 30 | | Výroba ostatných dopravných prostriedkov
-
-- 31 | | Výroba nábytku
-
-- 32 | | Iná výroba
-
-- 35 | | Dodávka elektriny, plynu, pary a studeného vzduchu
-
-- 36 | | Zber, úprava a dodávka vody
-
-- 41 | | Výstavba budov
-
-- 42 | | Inžinierske stavby
-
-- 43 | | Špecializované stavebné práce
-
-- 49 | | Pozemná doprava a doprava potrubím
-
-- 50 | | Vodná doprava
-
-- 52 | | Skladové a pomocné činnosti v doprave
-
-- 53 | | Poštové služby a služby kuriérov
-
-- 75 | | Veterinárne činnosti
-
-- 86 | | Zdravotníctvo
-
-- 87 | | Starostlivosť v pobytových zariadeniach (rezidenčná starostlivosť)
-
-- 88 | | Sociálna práca bez ubytovania
+- O | Ostatné spoločenské, sociálne a osobné služby

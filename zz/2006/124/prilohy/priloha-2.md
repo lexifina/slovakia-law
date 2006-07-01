@@ -12,7 +12,7 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
     - 01.2 bezpečnostných technikov
 
-    - 01.3 zamestnávateľov, ktorí budú osobne vykonať úlohy bezpečnostných technikov
+    - 01.3 zamestnávateľov, ktorí budú osobne vykonať úlohy bezpečnostných technikov a autorizovaných bezpečnostných technikov
 
   - skupina 02 Bezpečnosť a ochrana zdravia pri práci na vyhradených technických zariadeniach tlakových
 
@@ -60,19 +60,19 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
   - V rámci tejto skupiny činnosťou je výchova a vzdelávanie
 
-    - 06.1 osôb na obsluhu motorových vozíkov
+    - 06.1 vodičov motorových vozíkov
 
   - skupina 07 Bezpečnosť a ochrana zdravia pri práci vo výške
 
   - V rámci tejto skupiny činnosťou je výchova a vzdelávanie
 
-    - 07.1 osôb pracujúcich vo výške pomocou špeciálnej horolezeckej a speleologickej techniky
+    - 07.1 zamestnancov pracujúcich vo výške
 
     - 07.2 osôb na montáž a demontáž lešenia (lešenári)
 
   - skupina 08 Bezpečnosť a ochrana zdravia pri práci so stavebnými strojmi a zariadeniami
 
-  - V rámci tejto skupiny činnosťou je výchova a vzdelávanie osôb
+  - V rámci tejto skupiny činnosťou je výchova a vzdelávanie zamestnancov
 
     - 08.1 na obsluhu vybraných stavebných strojov a zariadení
 
@@ -80,7 +80,7 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
   - V rámci tejto skupiny činnosťou je výchova a vzdelávanie
 
-    - 09.1 osôb na obsluhu vybraných poľnohospodárskych strojov a zariadení
+    - 09.1 zamestnancov na obsluhu vybraných poľnohospodárskych strojov a zariadení
 
   - skupina 10 Bezpečnosť a ochrana zdravia pri práci s lesníckymi strojmi a zariadeniami
 
