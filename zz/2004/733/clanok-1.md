@@ -156,6 +156,10 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - uvádzať na trh elektrozariadenie označené grafickým symbolom ustanoveným vo všeobecne záväznom právnom predpise [§ 68 ods. 3 písm. u)] na účely spätného odberu alebo oddeleného zberu; táto povinnosť sa nevzťahuje na svetelné zdroje; ak nie je možné elektrozariadenie takto označiť z dôvodu jeho veľkosti alebo funkčnosti, označí sa obal, návod na použitie a záručný list elektrozariadenia,
 
+- d)
+
+- pri uvádzaní na trh elektrozariadení, ktoré patria do kategórie 1 až 7 a 10 podľa prílohy č. 3a a žiariviek alebo svietidiel určených na použitie v domácnostiach, zabezpečiť, aby tieto neobsahovali materiály a súčiastky obsahujúce olovo, kadmium, ortuť, polybrómované bifenyly, polybrómované difenylétery alebo šesťmocný chróm, okrem ustanovených prípadov [§ 68 ods. 3 písm. u)]; táto požiadavka sa nevzťahuje na náhradné dielce určené na opravu alebo na opätovné použitie elektrozariadení, ktorých pôvodné materiály a súčiastky mohli obsahovať olovo, ortuť, kadmium, polybrómované bifenyly, polybrómované difenylétery a šesťmocný chróm,
+
 - e)
 
 - zabezpečiť individuálne alebo kolektívne spätný odber elektrozariadení a oddelený zber elektroodpadu od pôvodcov s výnimkou historického elektroodpadu, ktorý nie je elektroodpadom z domácností (§ 54f ods. 3),
