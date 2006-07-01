@@ -93,5 +93,3 @@
 - 32) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 33) § 7 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
-
-- 33a) Zákon Národnej rady Slovenskej republiky č. 254/1994 Z. z. o Štátnom fonde likvidácie jadrovoenergetických zariadení a nakladania s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi v znení neskorších predpisov.
