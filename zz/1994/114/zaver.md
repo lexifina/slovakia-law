@@ -1,1 +1,0 @@
-Milan Hanzel v. r.
