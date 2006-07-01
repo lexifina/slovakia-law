@@ -212,6 +212,8 @@ Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení zákona č. 515
 
 - 14. V § 11 ods. 2 písm. a) sa vypúšťajú slová „pravidlá správania sa na lyžiarskej trati,“.
 
+- 15. V § 11 ods. 2 písm. e) sa vypúšťajú slová: „, okrem nákladov, ktoré sa uhrádzajú z povinného zdravotného poistenia, ak porušila povinnosti podľa písmen a) až d)“.
+
 - 16. § 12 vrátane nadpisu znie:
 
 - „§ 12
