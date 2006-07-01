@@ -354,7 +354,11 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - (4)
 
-- Na vydanie odberného poukazu, jeho používanie a odňatie, na vyradenie z evidencie, ako aj nakladanie s daňovo zvýhodneným minerálnym olejom [§ 11 ods. 2 písm. a) a c)] sa použije § 11 ods. 5, 7 až 9, 11 až 13 primerane.“.
+- Na vydanie odberného poukazu, jeho používanie a odňatie, na vyradenie z evidencie, ako aj nakladanie s daňovo zvýhodneným minerálnym olejom [§ 11 ods. 2 písm. a) a c)] sa použije § 11 ods. 5, 7 až 9, 11 až 13 primerane.
+
+- (5)
+
+- Právnická osoba alebo fyzická osoba, ktorá chce v rámci podnikania odoberať a dodávať na daňovom území minerálny olej uvedený v § 6 ods. 1 písm. e) a minerálny olej uvedený v § 4 ods. 7, musí písomne požiadať colný úrad o zaradenie do evidencie obchodníkov s minerálnym olejom. Na žiadosť o zaradenie do evidencie obchodníkov s minerálnym olejom sa odseky 1 a 2 použijú primerane. Ak boli predložené údaje v súlade s odsekmi 1 a 2, colný úrad zaradí žiadateľa do evidencie obchodníkov s minerálnym olejom.“.
 
 - 46. V § 29 ods. 1 sa slovo „dopravenie“ nahrádza slovom „vstup“.
 
