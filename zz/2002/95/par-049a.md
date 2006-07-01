@@ -1,6 +1,6 @@
 # § 49a
 
-(1) Národná banka Slovenska môže zmiešanej holdingovej spoločnosti, ktorá je súčasťou finančného konglomerátu, nad ktorým Národná banka Slovenska vykonáva doplňujúci dohľad, podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zistených nedostatkov uložiť pokutu od 100 000 Sk do 20 000 000 Sk, ak
+(1) Národná banka Slovenska môže zmiešanej holdingovej spoločnosti, ktorá je súčasťou finančného konglomerátu, nad ktorým Národná banka Slovenska vykonáva doplňujúci dohľad, podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zistených nedostatkov uložiť pokutu od 50 000 Sk do 20 000 000 Sk, ak
 
 - a) neumožní vykonať dohľad na mieste,
 

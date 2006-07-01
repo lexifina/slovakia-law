@@ -22,6 +22,8 @@
 
 - 4) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
+- Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 4a) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 4b) § 8 písm. b) zákona č. 566/2001 Z. z.§ 6 ods. 11 a 12 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
@@ -30,9 +32,13 @@
 
 - 5) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
+- 5a) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
 - 7) § 5 zákona č. 385/1999 Z. z. o kolektívnom investovaní.
+
+- 7a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
@@ -44,8 +50,6 @@
 
 - 10a) § 15a zákona č. 381/2001 Z. z. v znení zákona č. 430/2003 Z. z.
 
-- 11) § 30 zákona č. 328/1991 Zb. v znení neskorších predpisov.
-
 - 12) § 37 zákona č. 96/2002 Z. z.
 
 - 13) § 35 zákona č. 96/2002 Z. z.
@@ -56,9 +60,9 @@
 
 - 15a) Zákon č. 594/2003 Z. z.
 
-- 15b) § 4 ods. 7 zákona č. 594/2003 Z. z.
+- 15aa) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 16) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 15b) § 4 ods. 7 zákona č. 594/2003 Z. z.
 
 - 17) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
@@ -110,9 +114,7 @@
 
 - 28) § 154 až 229 Obchodného zákonníka.
 
-- 29) § 46 až 66 zákona č. 328/1991 Zb. v znení neskorších predpisov.
-
-- 30) § 4 až 33 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+- 30) § 3 až 107 a § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 31) § 116 Občianskeho zákonníka.
 
