@@ -116,6 +116,10 @@ Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na poz
 
 - krajské úrady,
 
+- c)
+
+- obvodné úrady,
+
 - d)
 
 - krajské dopravné inšpektoráty,
