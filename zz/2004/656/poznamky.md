@@ -34,6 +34,10 @@
 
 - 16) Nariadenie Rady a Európskeho parlamentu 1228/2003/ES o podmienkach pre prístup do siete pre cezhraničné výmeny elektriny (Ú. v. EÚ L 176, 15. 07. 2003).
 
+- 16a) § 7 ods. 1 písm. b) zákona č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov.
+
+- 16b) § 7 ods. 4 zákona č. 238/2006 Z. z.
+
 - 17) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 18) § 12 zákona č. 276/2001 Z. z. v znení neskorších predpisov.
