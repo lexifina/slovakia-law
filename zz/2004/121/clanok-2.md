@@ -13,3 +13,7 @@ Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na poz
 - 2. Poznámka pod čiarou k odkazu 20 znie:
 
 - „<sup>20</sup>) Napríklad vyhláška ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení vyhlášky ministra zahraničných vecí č. 82/1984 Zb., zákon č. 121/2004 Z. z.“.
+
+- „<sup>12</sup>) § 86 písm. c) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb.
+
+- § 12 ods. 4 a 5 zákona č. 121/2004 Z. z.“.
