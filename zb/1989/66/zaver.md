@@ -1,3 +1,0 @@
-Predseda:
-
-RSDr. Moncman
