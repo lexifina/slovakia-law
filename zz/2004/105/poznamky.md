@@ -1,12 +1,26 @@
 - 1) § 2 Obchodného zákonníka.
 
+- 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
 
 - 3) Príloha č. 16 tretia časť k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
 
+- 3a) § 115 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
 - 4) § 3 ods. 1 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 653/2002 Z. z. o prevádzkovaní liehovarníckeho závodu na pestovateľské pálenie ovocia a o spôsobe použitia vzoriek liehu.
 
-- 5) Zákon č.140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+- 5) § 2 ods. 5 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+
+- 5a) § 2 ods. 8 zákona č. 140/1998 Z. z. v znení zákona č. 633/2004 Z. z.
+
+- 5b) § 2 ods. 9 zákona č. 140/1998 Z. z.
+
+- 5c) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 5d) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 6) Nariadenie Komisie (ES) č. 3199/93 z 22. novembra 1993 o vzájomnom uznávaní postupov úplnej denaturácie etanolu na účely výnimky zo spotrebnej dane (Úradný vestník Európskych spoločenstiev L 288, 23/11/1993, strany 12 – 15) v znení neskorších zmien a doplnkov.
 
@@ -24,9 +38,15 @@
 
 - 13) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008 z 11/01/1996, strany 11 – 15) v znení neskorších zmien a doplnkov.
 
-- 14) Čl. 29 až 31 a čl. 45, 46 až 49 Nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúceho systém oslobodení od cla Spoločenstva (Úradný vestník Európskych spoločenstiev L 105, 23/04/1983, strany 1 – 37) v znení neskorších zmien a doplnkov.
+- 14) Čl. 29 až 31 a čl. 45 až 49 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúceho systém Spoločenstva pre oslobodenie od cla (Ú. v. ES L 105, 23. 4. 1983) v platnom znení.
 
-- 15) § 2 ods. 2 písm. f) zákona č. 467/2002 Z. z.
+- 15) § 2 ods. 2 písm. f) zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh.
+
+- 15a) § 2 ods. 2 písm. m) zákona č. 467/2002 Z. z.
+
+- 15b) Nariadenie Komisie (ES) č. 3199/93 z 22. novembra 1993 o vzájomnom uznávaní postupov úplnej denaturácie etanolu na účely výnimky zo spotrebnej dane (Ú. v. ES L 288, 23. 11. 1993) v znení nariadenia Komisie (ES) č. 1309/2005 z 10. augusta 2005 (Ú. v. EÚ L 208, 11. 8. 2005).
+
+- 15c) Vyhláška Ministerstva financií Slovenskej republiky č. 202/2004 Z. z. o povolených denaturačných prostriedkoch, ich ustanovených množstvách na denaturáciu liehu, o požiadavkách na denaturáciu liehu a manipuláciu s denaturovaným liehom, o požiadavkách na jeho vlastnosti a o určenom účele použitia denaturovaného liehu v znení neskorších predpisov.
 
 - 16) Napríklad § 4 ods. 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 2745/2002-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca označovanie potravín (oznámenie č. 634/2002 Z. z.), § 21 ods. 2 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov, vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení v znení vyhlášky č. 420/2001 Z. z.
 
@@ -38,7 +58,7 @@
 
 - 18) Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
-- 19) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 15/1998 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb v znení neskorších predpisov.
+- 19) Nariadenie Komisie (ES) č. 1291/2000 z 9. júna 2000, ktorým sa stanovujú podrobné pravidlá uplatňovania systému dovozných a vývozných licencií a certifikátov s vopred stanovenou sadzbou náhrady pre poľnohospodárske výrobky (Ú. v. ES L 152, 24. 6. 2000) v platnom znení.
 
 - 19a) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
 
@@ -52,9 +72,13 @@
 
 - 21b) Vyhláška Ministerstva financií Slovenskej republiky č. 226/2004 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na usporiadanie technologických zariadení na výrobu, spracovanie, skladovanie a prepravu liehu, kontrole množstva liehu, zisťovaní zásob liehu a o spôsobe vedenia evidencie.
 
-- 21c) Zákon č. 140/2000 Z. z. v znení neskorších predpisov.Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
+- 21c) Zákon č. 142/2000 Z. z. v znení zákona č. 431/2004 Z. z.
+
+- Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
 
 - 22) Zákon č. 104/2004 Z. z. o spotrebnej dani z vína.
+
+- 23) § 14a a 70 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 25) § 2 ods. 3 písm. i) zákona č. 467/2002 Z. z.
 
@@ -67,6 +91,14 @@
 - 30) § 4 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 653/2002 Z. z.
 
 - 31) Zákon č. 142/2000 Z. z.
+
+- 31a) § 2 ods. 3 písm. k) zákona č. 467/2002 Z. z.
+
+- 31b) § 2 ods. 3 písm. j) zákona č. 467/2002 Z. z.
+
+- 31c) § 2 ods. 3 písm. h) zákona č. 467/2002 Z. z.
+
+- 31d) § 2 ods. 3 písm. l) zákona č. 467/2002 Z. z.
 
 - 32) § 19 zákona č. 431/2002 Z. z.
 
@@ -104,7 +136,13 @@
 
 - 45) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- 46) Napríklad zákon č. 472/2002 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 46) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
+
+- 46a) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 46b) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 46c) § 14a ods. 11 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 47) § 2 ods. 2 písm. p) zákona č. 467/2002 Z. z.
 
