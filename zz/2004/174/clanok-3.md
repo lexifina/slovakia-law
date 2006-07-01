@@ -16,6 +16,10 @@ Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení zákona č. 441/2001 
 
 - Rozhodnutie zástupcov vlád členských štátov Európskej únie, ktorí sa zišli na zasadaní Rady Európskej únie o zavedení náhradného cestovného dokladu č. 96/409/SZBP z 25. júna 1996.“.
 
+- 2. V § 6 ods. 1 a 2, § 9 ods. 1 a 2, § 14 ods. 3 písm. m) a n), § 15 ods. 1, § 20 ods. 1, § 23 ods. 1, § 27 ods. 1 a § 30a ods. 1 sa slová „okresný úrad“ vo všetkých tvaroch nahrádzajú slovami „obvodný úrad“ v príslušnom tvare.
+
+- 3. V § 6 ods. 1 sa slová „Okresný úrad Bratislava I (ďalej len „príslušný okresný úrad")“ nahrádzajú slovami „Obvodný úrad Bratislava (ďalej len „príslušný obvodný úrad")“.
+
 - 4. Za § 10 sa vkladá § 10a, ktorý vrátane nadpisu znie:
 
 - „§ 10a
