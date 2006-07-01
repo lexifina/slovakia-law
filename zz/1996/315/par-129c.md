@@ -14,4 +14,4 @@
 
 - e) útvar Policajného zboru, ktorý dopravnú nehodu vyšetroval, a evidenčné číslo, pod ktorým bola vec zaevidovaná.
 
-(3) Do 30. júna 2006 vedú evidenciu podľa § 85 ods. 1 písm. a) a pôsobnosť pri vydávaní vodičských preukazov podľa § 77 až 83 vykonávajú orgány Policajného zboru.
+(3) Do 30. júna 2008 vedú evidenciu podľa § 85 ods. 1 písm. a) a pôsobnosť pri vydávaní vodičských preukazov podľa § 77 až 83 vykonávajú orgány Policajného zboru.
