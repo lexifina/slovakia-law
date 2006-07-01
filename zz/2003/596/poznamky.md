@@ -187,3 +187,5 @@
 - 82) § 15 ods. 2 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 83) Nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
+
+- 84) § 53 zákona č. 29/1984 Zb. v znení neskorších predpisov.
