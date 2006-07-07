@@ -63,3 +63,7 @@ Príloha č. 3
 - 30 | Osturňa - Łapszanka | II/160/6 | peší, bicykle, lyže | 1. 4. - 30. 9. 1. 10. - 31. 3. | 6,00 - 20,00 9,00 - 16,00
 
 - 31 | Kikula - Kykula | III/175 | peší, bicykle, lyže | 1. 4. - 30. 9. 1. 10. - 31. 3. | 8,00 - 20,00 9,00 - 16,00
+
+- 32 | Oravská Polhora - Moczarki | III/94 | peší, bicykle, lyže | celoročne | 6,00 - 20,00
+
+- 33 | Legnava - Muszyna | II/15/10 | peší, bicykle, lyže | celoročne | 6,00 - 20,00
