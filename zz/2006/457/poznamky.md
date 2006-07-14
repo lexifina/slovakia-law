@@ -1,0 +1,1 @@
+- 1) Dohoda o zmene z roku 2003 zahŕňa vo svojej preambule text týkajúci sa výkladu článku 1, ktorý je súčasťou prílohy.
