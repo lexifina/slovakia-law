@@ -792,13 +792,11 @@ K oznámeniu č. 129/2006 Z. z.
 
     - MC 98015 Monaco Cedex
 
-    - Namíbia
+    - Namíbijská republika
 
-  - 1. všetci sudcovia („magistrate") vrátane oblastných a dodatkových sudcov
+  - 1. „Registrar“ a „Assistant Registrar of the High Court“ a
 
-  - 2. „Registrar of High Court"
-
-  - 3. „Permanent Secretary" a „Deputy Permanent Secretary" ministerstva spravodlivosti („Ministry of Justice and Office of the Attorney-General")
+  - 2. „Permanent Secretary“ a „Deputy Permanent Secretary: Ministry of Justice“
 
     - Niue (závislé územie Nového Zélandu)
 
@@ -1176,9 +1174,11 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 4. „Registrar of the Supreme Court"
 
-    - Slovinsko
+    - Slovinská republika
 
-    - Ministerstvo spravodlivosti a verejnej správy Slovinskej republiky
+  - 1. Ministerstvo spravodlivosti Slovinskej republiky pre listiny vydané notármi a prekladateľmi
+
+  - 2. Krajské súdy pre listiny vydané notármi, notárskymi koncipientmi, sudcami, štátnymi orgánmi, organizáciami a osobami, ktoré zastupujú verejné inštitúcie a právnické osoby na základe plnomocenstva
 
     - Spolková republika Nemecko
 
