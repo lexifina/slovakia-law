@@ -1,1 +1,0 @@
-- 1) § 2 zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a v štátnej správe lesného hospodárstva v znení zákona Slovenskej národnej rady č. 510/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z.
