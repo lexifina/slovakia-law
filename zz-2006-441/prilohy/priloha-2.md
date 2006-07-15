@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 441/2006 Z. z. [OSVEDČENIE o odbornej spôsobilosti na vyhotovenie lesného hospodárskeho plánu - Vzor](../assets/e1c57d064a317bba1fa6ba5ed428d564bc346b1e71077c57902b684d3b1b593d.pdf)
