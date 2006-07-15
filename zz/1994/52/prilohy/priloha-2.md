@@ -1,1 +1,0 @@
-Príloha č. 2 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 52/1994 Z. z. [Vzor 02 - Vysvedčenie o vykonaní skúšky odborného lesného hospodára](../assets/1c413939ed65336dcdcda828694cda7e05d3ec61254bca0b2670885edb4c4625.pdf)

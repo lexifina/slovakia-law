@@ -1,1 +1,0 @@
-Príloha č. 4 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 52/1994 Z. z. [Vzor 04 - Vysvedčenie o preskúšaní odborného lesného hospodára](../assets/13f3d4f7419972fcfd0f129dfd7f4fa18a20c587838e218f2cfa5f278c6ef3fd.pdf)[príloha](../assets/13f3d4f7419972fcfd0f129dfd7f4fa18a20c587838e218f2cfa5f278c6ef3fd.pdf)

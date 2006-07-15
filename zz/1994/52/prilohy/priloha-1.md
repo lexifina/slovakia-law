@@ -1,1 +1,0 @@
-Príloha č. 1 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 52/1994 Z. z. [Vzor 01 - Žiadosť o vykonanie skúšky](../assets/5533bc3e22fa387f1997a5748e60566f13859b5dfbfdbbc8a48fb4da472b428b.pdf)
