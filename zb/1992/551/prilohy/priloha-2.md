@@ -4,7 +4,7 @@
 
     - Žiadosti o prevzatie trestného konania sa zasielajú Generálnej prokuratúre Slovenskej republiky.
 
-    - Žiadosť o odovzdanie trestného konania do cudziny je príslušné zaslať Ministerstvo spravodlivosti Slovenskej republiky, ak ide o vec v štádiu po podaní obžaloby. V ostatných prípadoch je príslušná zaslať žiadosť do cudziny Generálna prokuratúra Slovenskej republiky.
+    - Na zasielanie žiadostí o odovzdanie trestného konania do cudziny je príslušné Ministerstvo spravodlivosti Slovenskej republiky.
 
   - Článok 18 ods. 2
 
