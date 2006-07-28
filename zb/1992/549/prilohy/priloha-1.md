@@ -309,3 +309,13 @@
   - Článok 23
 
     - Slovenská republika vyzýva ostatné zmluvné strany, aby svoje žiadosti a pripojené doklady, ktoré nie sú v slovenskom jazyku alebo v jednom z oficiálnych jazykov Rady Európy, zasielali s pripojeným prekladom do jedného z týchto jazykov.
+
+    - VYHLÁSENIE
+
+    - Slovenskej republiky k Európskemu dohovoru o vydávaní
+
+  - Článok 28 ods. 1
+
+    - V súlade s článkom 28 ods. 3 Európskeho dohovoru o vydávaní z 13. decembra 1957 Slovenská republika informuje, že nebude uplatňovať dohovor a jeho dodatkové protokoly z 15. októbra 1975 a 17. októbra 1978 vo vzťahu k tým zmluvným stranám – členským štátom Európskej únie, ktoré implementovali Rámcové rozhodnutie Rady Európskej únie z 13. júna 2002 o európskom zatýkacom rozkaze a vydávacom konaní medzi členskými štátmi (2002/584/JHA) a ktoré uplatňujú postup na základe tohto rámcového rozhodnutia. Slovenská republika považuje uvedené rámcové rozhodnutie za jednotný právny predpis v zmysle tohto článku.
+
+    - Slovenská republika bude vo vzťahu k zmluvným stranám dohovoru a jeho dodatkových protokolov, ktoré sú členskými štátmi Európskej únie, aj naďalej uplatňovať ustanovenia dohovoru a jeho dodatkových protokolov v rozsahu, v ktorom tieto neboli nahradené rámcovým rozhodnutím, a v prípadoch, na ktoré sa rámcové rozhodnutie nevzťahuje (vrátane prípadov, na ktoré sa vzťahujú vyhlásenia členských štátov).
