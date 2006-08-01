@@ -6,7 +6,7 @@
 
 - 4) § 11 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
-- 5) Napríklad § 118 zákona č. 311/2001 Z. z. Zákonník práce, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+- 5) § 138 ods. 1 až 6 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 6) § 34 ods. 2 a § 59 ods. 2 a ods. 3 písm. a) zákona č. 461/2003 Z. z.
 
@@ -20,8 +20,10 @@
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov.
 
-- 13) § 55 zákona č. 461/2003 Z. z.
-
 - 14) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 15) § 54 zákona č. 461/2003 Z. z.
+
+- 16) § 55 zákona č. 461/2003 Z. z.
+
+- 17) § 57 zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
