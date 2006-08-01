@@ -20,13 +20,15 @@
 
 - 10) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11) § 10 ods. 2 písm. a) až c) zákona č. 320/2002 Z. z. o brannej povinnosti.
+- 11) § 15 ods. 1 písm. c) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
-- 12) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- 12) § 15 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
+
+- 12a) § 15 ods. 1 písm. e) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
 - 13) § 65 ods. 2 až 10 zákona č. 461/2003 Z. z.
 
-- 14) § 15 ods. 3 až 5 zákona č. 461/2003 Z. z.
+- 14) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
 - 15) § 20 zákona č. 461/2003 Z. z.
 
@@ -123,6 +125,18 @@
 - 58) § 27 Obchodného zákonníka.
 
 - Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
+
+- 58a) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 58b) § 3 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 58c) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 58d) § 4 ods. 1 písm. a) až c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
+
+- 58e) § 7 ods. 6 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 58f) § 23 a 55 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
 - 59) § 17 až 23 zákona č. 431/2002 Z. z. o účtovníctve.
 
