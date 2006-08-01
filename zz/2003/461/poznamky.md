@@ -38,15 +38,15 @@
 
 - 16) § 29a ods. 1 zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
 
+- 16a) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
 - 17) § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
 
 - 18) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 19) Napríklad zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení zákona č. 302/1999 Z. z., zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov.
 
-- 20) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
-
-- 21) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov.
+- 21) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov a zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 22) § 76 až 104 Obchodného zákonníka.
 
@@ -78,9 +78,9 @@
 
 - 34) § 7 ods. 1 až 3, 5 a 6 zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
 
-- 35) § 10 ods. 2 písm. a) až c) zákona č. 320/2002 Z. z. o brannej povinnosti.
+- 35) § 64a zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
-- 36) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- 36) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
 - 37) § 51 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
@@ -91,6 +91,8 @@
 - 40) § 10 ods. 2 písm. d) zákona č. 320/2002 Z. z.
 
 - 41) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
+
+- 41a) § 2 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
 - 42) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 154/2001 Z. z. v znení neskorších predpisov, zákon č. 315/2001 Z. z. v znení neskorších predpisov.
 
@@ -136,13 +138,15 @@
 
 - 60) § 85 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 386/1997 Z. z.
 
+- 60a) Zákon č. 437/2004 Z. z. o náhrade za bolesť a o náhrade za sťaženie spoločenského uplatnenia a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- 61) § 214 až 216 zákona č. 311/2001 Z. z.
+
 - 62) § 196 ods. 1 zákona č. 311/2001 Z. z.
 
 - 63) § 196 ods. 2 zákona č. 311/2001 Z. z.
 
 - 64) § 196 ods. 3 zákona č. 311/2001 Z. z.
-
-- 65) § 214 až 216 zákona č. 311/2001 Z. z.
 
 - 66) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -162,11 +166,15 @@
 
 - 73) Napríklad § 136 až 144 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
-- 74) § 77 až 80 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
-
-- 76) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
-
 - 78) § 2 ods. 1 nariadenia vlády Slovenskej republiky č. 499/2002 Z. z. o výške pracovnej odmeny a o podmienkach jej poskytovania obvineným a odsúdeným, o výške peňažnej odmeny za výkon iných prospešných prác a o podmienkach jej poskytovania odsúdeným.
+
+- 78a) § 11 ods. 5 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 78b) § 11 ods. 6 a 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 78c) § 11 ods. 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 78d) § 11 ods. 8 a 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 79) § 49 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
@@ -179,12 +187,6 @@
 - 82) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 83) § 524 až 530 Občianskeho zákonníka.
-
-- 84) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
-
-- 85) § 31 ods. 3 a § 54 ods. 1 písm. c) zákona č. 328/1991 Zb. v znení neskorších predpisov.
-
-- 86) § 20, § 31 ods. 5 a § 56 zákona č. 328/1991 Zb. v znení zákona č. 238/2000 Z. z.
 
 - 87) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
 
@@ -212,8 +214,6 @@
 
 - 94) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 95) § 37 ods. 6 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. v znení neskorších predpisov.
-
 - 95a) § 108a a 108b zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
@@ -233,6 +233,8 @@
 - § 12b ods. 3 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. v znení zákona č. 451/2002 Z. z.
 
 - 100a) § 26 ods. 3 zákona č. 43/2004 Z. z.
+
+- 100aa) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 100b) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
