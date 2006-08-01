@@ -20,7 +20,7 @@
 
 - 11) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z.
 
-- 12) § 13 zákona č. 95/2002 Z. z. v znení zákona č. 186/2004 Z. z.
+- 12) Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
 - 13) Obchodný zákonník.
 
@@ -46,6 +46,18 @@
 
 - 24) § 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
 
+- 24a) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 24b) § 3 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 24c) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 24d) § 4 ods. 1 písm. a) až c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 24e) § 7 ods. 6 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 24f) § 23 a 55 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+
 - 25) § 17 až 22 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
 
 - 26) § 57 zákona č. 43/2004 Z. z.
@@ -68,17 +80,31 @@
 
 - 33) § 51 Občianskeho zákonníka.
 
+- 33a) § 5 zákona č. 566/2001 Z. z.
+
 - 34) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 35) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 36) § 80 a 81 zákona č. 43/2004 Z. z.
+- 36) § 80 až 86 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 37) § 83 zákona č. 43/2004 Z. z.
+- 36a) § 82 ods. 5 zákona č. 43/2004 Z. z. v znení zákona č. 439/2004 Z. z.
+
+- 36b) § 87 zákona č. 43/2004 Z. z. v znení zákona č. 721/2004 Z. z.
+
+- 36c) § 88 zákona č. 43/2004 Z. z. v znení zákona č. 721/2004 Z. z.
+
+- 36d) § 89 zákona č. 43/2004 Z. z.
+
+- 36e) § 90 zákona č. 43/2004 Z. z.
+
+- 36f) § 91 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
 - 38) § 113 zákona č. 566/2001 Z. z.
 
 - 39) § 88 zákona č. 43/2004 Z. z.
+
+- 39a) § 81 ods. 1 písm. h) zákona č. 43/2004 Z. z.
 
 - 40) § 82 ods. 8 zákona č. 43/2004 Z. z.
 
@@ -89,8 +115,6 @@
 - 43) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
 
 - 44) Obchodný zákonník.
-
-- Zákonník práce.
 
 - 45) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
 
