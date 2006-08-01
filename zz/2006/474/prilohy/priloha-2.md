@@ -1,0 +1,3 @@
+- SPOLOČNÉ VYHLÁSENIE VYSOKÝCH ZMLUVNÝCH STRÁN O STANOVENÝCH LEHOTÁCH NA RATIFIKÁCIU DOHOVORU O PRISTÚPENÍ
+
+  - Vysoké zmluvné strany, ktoré sa zišli v rámci Rady na podpis Dohovoru o pristúpení Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky k Rímskemu dohovoru z roku 1980 o rozhodnom práve pre zmluvné záväzky, vyhlasujú, že prijmú potrebné opatrenia na ratifikovanie tohto dohovoru v primeranej lehote, a ak to bude možné, pred decembrom 2005.
