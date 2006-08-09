@@ -16,7 +16,7 @@ Slovenská republika urobila pri uložení ratifikačnej listiny tieto vyhlásen
 
 1. „V zmysle článku 6 ods. 2 písm. d) a článku 13 ods. 5 je príslušným orgánom, ktorý generálnemu tajomníkovi Organizácie Spojených národov poskytne kópie právnych predpisov Slovenskej republiky, ktoré vykonávajú články 6 a 13 dohovoru, ako aj všetkých podstatných zmien týchto právnych predpisov alebo informáciu o nich, Ministerstvo spravodlivosti Slovenskej republiky.“
 
-2. „V zmysle článku 18 ods. 13 sú príslušnými orgánmi na prijímanie žiadostí o vzájomnú právnu pomoc Ministerstvo spravodlivosti Slovenskej republiky a v prípravnom konaní Generálna prokuratúra Slovenskej republiky.“
+2. „V zmysle článku 18 ods. 13 je príslušným orgánom na prijatie žiadosti Ministerstvo spravodlivosti Slovenskej republiky. V naliehavých prípadoch možno žiadosti zaslať prostredníctvom Medzinárodnej organizácie kriminálnej polície (Interpol)."
 
 3. „V zmysle článku 18 ods. 14 sú pre Slovenskú republiku jazykmi prijateľnými na prijímanie a vyhotovovanie písomných záznamov v súvislosti so žiadosťami o vzájomnú právnu pomoc slovenský, český, anglický a francúzsky jazyk.“
 
