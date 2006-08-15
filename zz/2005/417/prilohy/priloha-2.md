@@ -1,3 +1,3 @@
 Príloha č. 2 k vyhláške č. 417/2005 Z. z.
 
-- VZOR [Vzor 02](../assets/d47a0c516d8591b932316ab36e68518afb89986e23b89ac8b0efde198211e593.pdf)
+- VZOR [Vzor 02](../assets/93a28ac663e78197667cd7f71e8e684a449d1e263fd4858a5e8daaa2fc473e0c.pdf)

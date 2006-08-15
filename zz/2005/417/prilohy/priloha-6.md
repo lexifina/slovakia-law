@@ -1,3 +1,3 @@
 Príloha č. 6 k vyhláške č. 417/2005 Z. z.
 
-- VZOR [Vzor 06](../assets/8ee3eeeb569e97e397c8439adcbdbfe6675c06c0354e74acc4832ae2b3cd359a.pdf)
+- VZOR [Vzor 06](../assets/887d57f069b2e4f600d9bca4074b081613f93d3ca850c0819b10efc03f559f49.pdf)
