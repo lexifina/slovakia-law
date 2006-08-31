@@ -1,0 +1,3 @@
+Príloha č. 3 k vyhláške č. 487/2006 Z. z.
+
+- OZNAMOVANIE ZÁVAŽNÝCH NEŽIADUCICH REAKCIÍ [Tlačivo 03](../assets/2fc70f7b6dc4335614e03f85fe7280843f17d48d34039bdf052f3b1024457505.pdf)
