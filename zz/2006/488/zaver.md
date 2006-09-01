@@ -1,0 +1,1 @@
+Jaroslav Izák v. r.
