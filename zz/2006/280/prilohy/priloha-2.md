@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
-- Ustanovenia týkajúce sa vzoru Európskej únie pre kvalifikačnú kartu vodiča
+- VZOR KVALIFIKAČNEJ KARTY VODIČA
 
   - A. Opis kvalifikačnej karty vodiča
 
@@ -40,55 +40,35 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
         - 8. obec pobytu,
 
-        - 9. skupiny vozidiel, na ktoré vodič spĺňa požiadavky na základnú kvalifikáciu a pravidelný výcvik;
+        - 9. skupiny (podskupiny) vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
 
-      - e) nadpis ‚Vzor Európskej únie‘ v jazyku alebo v jazykoch členského štátu vydávajúceho kartu a záhlavie ‚kvalifikačná karta vodiča‘ v ostatných úradných jazykoch Únie vytlačené modrou farbou tak, aby tvorili pozadie karty:
+      - e) nadpis „Vzor Európskych spoločenstiev“ v štátnom jazyku Slovenskej republiky a záhlavie „kvalifikačná karta vodiča“ v ostatných jazykoch členských štátov vytlačený modrou farbou tak, aby tvorili pozadie karty, a to
 
-        - tarjeta de cualificación del conductor
+        - kvalifikačná karta vodiča,
 
-        - карта за квалификация на водача
+        - tarjeta de cualificación del conductor,
 
-        - osvědčení profesní způsobilosti řidiče
+        - chaufforuddannelsesbevis,
 
-        - chaufføruddannelsesbevis
+        - Fahrerqualifizierungsnachweis,
 
-        - Fahrerqualifizierungsnachweis
+        - ...............................................,
 
-        - juhi ametipädevuse kaart
+        - driverqualification card,
 
-        - δελτίο επιμόρφωσης οδηγού
+        - carte de qualification de conducteur,
 
-        - driver qualification card
+        - cárta cáílíochta tiomána,
 
-        - carte de qualification de conducteur
+        - carta di qualificazione del conducente,
 
-        - kvalifikacijska kartica vozača
+        - kwalificatierkaart bestuurder,
 
-        - cárta cáilíochta tiomána
+        - carta de qualificacao do motorista,
 
-        - carta di qualificazione del conducente
+        - kuljettajan ammattipätevyyskortti,
 
-        - vadītāja kvalifikācijas apliecība
-
-        - vairuotojo kvalifikacinė kortelė
-
-        - gépjárművezetői képesítési igazolvány
-
-        - karta ta’ kwalifikazzjoni tas-sewwieq
-
-        - kwalificatiekaart bestuurder
-
-        - karta kwalifikacji kierowcy
-
-        - carta de qualificação do motorista
-
-        - Cartela de pregătire profesională a conducătorului auto
-
-        - kartica o usposobljenosti voznika
-
-        - kuljettajan ammattipätevyyskortti
-
-        - yrkeskompetensbevis för förare.
+        - yrkeskompetensbevis for forare,
 
       - f) referenčné farby:
 
@@ -100,9 +80,9 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
       - a) údaje o držiteľovi zoradené a očíslované takto:
 
-        - 9. skupiny vozidiel, na ktoré vodič spĺňa požiadavky na základnú kvalifikáciu a pravidelný výcvik;
+        - 9. skupiny (podskupiny) vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
 
-        - 10. harmonizovaný kód Únie „95“ ustanovený podľa osobitného predpisu.<sup>5aa</sup>)
+        - 10. kód Spoločenstva podľa zoznamu kódov Spoločenstva (§ 11 ods. 3),
 
         - 11. priestor na úradné záznamy vydávajúceho štátu, ktorý sa týka administratívnych údajov alebo údajov vzťahujúcich sa na bezpečnosť cestnej premávky. Ak sa údaje vzťahujú k bodom tejto prílohy, musí sa pred údajom uviesť číslo bodu,
 
@@ -116,6 +96,6 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
     - B.3 V záujme zvýšenia bezpečnosti kvalifikačnej karty vodiča možno jej text doplniť o farby alebo značky, ako sú stĺpcový kód, štátny znak alebo bezpečnostné prvky. Stĺpcový kód nesmie obsahovať iné údaje, než sú uvedené v bode A.
 
-  - C. Vzor Európskej únie pre kvalifikačnú kartu vodiča
+  - C. Vzhľad kvalifikačnej karty vodiča uznávaný Európskym spoločenstvom
 
-- [Vzor Európskej únie pre kvalifikačnú kartu vodiča](../assets/4bb4d6380c06665628e3e844c573f775c17fd363695f53a35fb9f92b35801409.pdf)
+- [Obrázok 02-1](../assets/c90de827108756d2d506f6fe3a9c51ccf1f78ea2e1f622596c7ef69b2810dc81.pdf)
