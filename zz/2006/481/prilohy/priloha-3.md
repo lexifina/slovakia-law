@@ -1,0 +1,3 @@
+Príloha č. 3 k vyhláške č. 481/2006 Z. z.
+
+- VZOR EVIDENČNÁ KARTA LESNÍCKEJ ROVNOŠATY [Vzor 03](../assets/03933a974596383b217586daff9ff1a0d6d6e506ef57808c1163e2f703702656.pdf)
