@@ -42,6 +42,10 @@
 
 - 15) § 13 zákona č. 596/2003 Z. z.
 
+- 15a) § 13 ods. 7 písm. f) zákona č. 596/2003 Z. z.
+
+- 15b) § 13 ods. 7 písm. e) zákona č. 596/2003 Z. z.
+
 - 16) Napríklad zákon č. 126/1998 Z. z. o Slovenskej živnostenskej komore a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) § 11 vyhlášky Ministerstva školstva Slovenskej republiky č. 44/1996 Z. z. o jazykových školách a štátnych jazykových školách a o štátnych jazykových skúškach.
