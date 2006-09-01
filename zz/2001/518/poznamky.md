@@ -12,6 +12,10 @@
 
 - 7) § 21 ods. 9 zákona č. 140/1998 Z. z.
 
+- 7a) § 21a ods. 2 písm. j) zákona č. 140/1998 Z. z. v znení zákona č. 342/2006 Z. z.
+
+- 7b) § 22 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
 - 8) § 21 zákon č. 140/1998 Z. z.
 
 - 9) § 21a ods. 1 zákona č. 140/1998 Z. z.
@@ -21,6 +25,8 @@
 - 11) § 29 ods. 1 písm. b) zákona č. 140/1998 Z. z.
 
 - 12) § 22 ods. 10 zákona č. 140/1998 Z. z.
+
+- 12a) § 21a ods. 8 písm. g) zákona č. 140/1998 Z. z. v znení zákona č. 342/2006 Z. z.
 
 - 13) § 21 ods. 4 písm. j) zákona č. 140/1998 Z. z.
 
