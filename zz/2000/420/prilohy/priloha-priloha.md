@@ -97,3 +97,21 @@ Príloha
 - 5. nákladná doprava obmedzená na dopravu ucelených vlakov s hromadnými substrátmi s výnimkou tovaru, ktorý podlieha rastlinnolekárskej alebo veterinárnej kontrole, a preprava súprav vlakov prázdnych železničných vozňov
 
 - 6. nákladní doprava len mimoriadne
+
+- c) Riečne hraničné priechody
+
+- Hraničný priechod | Kategória | Hraničný znak | Rozsah dopravy | Prevádzková doba
+
+- Hodonín přístaviště - Skalica prístavisko | 1 | IX 7/4C - 7/5C IX 4/4S - 4/5S | OS | 1. 4. - 31. 10. 9:30 - 10:00 h 11:30 - 12:00 h 13:30 - 14:00 h 15:30 - 16:00 h
+
+- Rohatec přístaviště - Skalica prístavlsko | 1 | IX 1/5C - 1/6C IX 4/4S - 4/5S | OS | 1. 4. - 31. 10. 10:30 - 11:30 h 14:30 - 15:30 h
+
+- Sudoměřice (Výklopník) - Skalica prístavisko | 1 | VIII 30/35S, VIII 31C - VIII 31/14C, VIII 31/15S | OS | 1. 4. - 31. 10. 10:45 - 11:15 h 14:45 - 15:15 h
+
+- Vysvetlivky:
+
+- Kategórie
+
+- 1 – hraničný priechod pre občanov všetkých štátov
+
+- OS – osobná doprava
