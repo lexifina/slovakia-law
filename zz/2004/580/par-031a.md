@@ -20,18 +20,18 @@
 
 - d) lehota podľa § 19 ods. 10 do konca júla 2006,
 
-- e) lehota podľa § 19 ods. 11 do 30. septembra 2006,
+- e) lehota podľa § 19 ods. 11 do 31. októbra 2006,
 
 - f) lehota podľa § 19 ods. 15 do 31. augusta 2006,
 
-- g) lehota podľa § 19 ods. 16 do 30. septembra 2006.
+- g) lehota podľa § 19 ods. 16 do 31. októbra 2006.
 
 (7) V roku 2006 sa lehoty na ročné prerozdeľovanie poistného ustanovujú takto:
 
 - a) lehota podľa § 27a ods. 2 do 31. augusta 2006,
 
-- b) lehota podľa § 27a ods. 9 do 30. septembra 2006,
+- b) lehota podľa § 27a ods. 9 do 31. októbra 2006,
 
-- c) lehota podľa § 27a ods. 10 do 30. novembra 2006.
+- c) lehota podľa § 27a ods. 10 do 31. decembra 2006.
 
 (8) Konanie o pokutách začaté pred účinnosťou tohto zákona sa dokončí podľa doterajších predpisov.
