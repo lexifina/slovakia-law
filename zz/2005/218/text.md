@@ -16,6 +16,8 @@ Pozastavuje účinnosť čl. I § 15 zákona Národnej rady Slovenskej republiky
 
 Podľa čl. 125 ods. 5 Ústavy Slovenskej republiky platnosť rozhodnutia o pozastavení účinnosti čl. I § 15 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov zanikne vyhlásením rozhodnutia vo veci samej, ak toto rozhodnutie o pozastavení účinnosti Ústavný súd Slovenskej republiky už predtým nezrušil, pretože pominuli dôvody, pre ktoré bolo prijaté.
 
+Podľa čl. 125 ods. 5 Ústavy Slovenskej republiky platnosť rozhodnutia o pozastavení účinnosti napadnutého ustanovenia čl. I § 15 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov (uverejneného v Zbierke zákonov Slovenskej republiky čiastke 95 pod číslom 218/2005 Z. z.) zanikne vyhlásením rozhodnutia Ústavného súdu Slovenskej republiky vo veci samej (nález Ústavného súdu Slovenskej republiky č. 537/2006 Z. z.).
+
 Predseda pléna
 
 Ústavného súdu Slovenskej republiky:
