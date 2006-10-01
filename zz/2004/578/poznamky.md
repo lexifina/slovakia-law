@@ -201,3 +201,5 @@
 - 78) Zákon Slovenskej národnej rady č. 14/1992 Zb. o Slovenskej komore stredných zdravotníckych pracovníkov a o Slovenskej komore zubných technikov v znení zákona č. 311/2002 Z. z.
 
 - 79) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
+
+- 80) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
