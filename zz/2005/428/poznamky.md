@@ -1,1 +1,0 @@
-- 1) § 2 ods. 1 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení zákona č. 346/1999 Z. z.
