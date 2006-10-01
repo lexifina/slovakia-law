@@ -26,11 +26,11 @@ Príloha č. 1 k vyhláške č. 419/2006 Z. z.
 
     - pobočka colného úradu Komárno, most
 
-    - pobočka colného úradu Nové Zámky, nácestné stredisko, Komárňanská cesta 12
+    - pobočka colného úradu Nové Zámky, nácestné stredisko, Komárňanská cesta 13
 
   - 6. Colný úrad Prešov
 
-    - pobočka colného úradu Prešov, nácestné stredisko, Ľubochnianska 2, Ľubotice
+    - pobočka colného úradu Prešov, nácestné stredisko, Košická 30
 
     - pobočka colného úradu Poprad, nácestné stredisko, Karpatská 13
 

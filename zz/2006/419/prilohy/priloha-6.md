@@ -18,6 +18,6 @@ Príloha č. 6 k vyhláške č. 419/2006 Z. z.
 
 - Trnava | Brodské Dunajská Streda | Trnava
 
-- Trenčín | Trenčín Považská Bystrica Nové Mesto nad Váhom Prievidza | Trenčín
+- Trenčín | Trenčín Púchov Nové Mesto nad Váhom Prievidza | Trenčín
 
 - Žilina | Martin Žilina, nácestné stredisko Trstená Ružomberok | Žilina, nácestné stredisko Trstená
