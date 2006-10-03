@@ -1,3 +1,3 @@
 Príloha k č. 267/1998 Z. z.
 
-[Anglické znenie textu](../assets/7a8ef4ab3a1d28b7b20bdca72daa210ef9a986a3b6c41dbac1a8c373fbea7d2a.pdf)
+[Anglické znenie textu](../assets/106d5c9e4364623e1582c4a5e3a6b3f0473100719bfb127d66faffb06d8ad691.pdf)

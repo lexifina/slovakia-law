@@ -86,15 +86,15 @@
 
       - (b) bez ohľadu na písmeno (a) môže každá zmluvná strana vyhlásiť, že pre medzinárodné zápisy uskutočnené podľa tohto protokolu sa lehota jedného roka uvedená v písmene (a) nahrádza lehotou osemnástich mesiacov,
 
-      - (c) v takomto vyhlásení možno ďalej spresniť, že ak môže odmietnutie ochrany vyplývať z námietky proti udeleniu ochrany, úrad uvedenej zmluvnej strany môže oznámiť toto zamietnutie medzinárodnému úradu až po uplynutí lehoty osemnástich mesiacov. Tento úrad môže oznámiť zamietnutie ochrany v súvislosti s príslušným medzinárodným zápisom po uplynutí lehoty osemnástich mesiacov, iba ak:
+      - (c) v takomto vyhlásení možno ďalej spresniť, že ak môže odmietnutie ochrany vyplývať z námietky proti udeleniu ochrany, úrad uvedenej zmluvnej strany môže oznámiť toto zamietnutie medzinárodnému úradu až po uplynutí lehoty osemnástich mesiacov. Tento úrad môže oznámiť zamietnutie ochrany v súvislosti s príslušným medzinárodným zápisom po uplynutí lehoty osemnástich mesiacov, iba ak
 
       - (i) informoval pred uplynutím lehoty osemnástich mesiacov medzinárodný úrad o možnosti podania námietok po uplynutí lehoty osemnástich mesiacov,
 
-      - (ii) oznámenie o zamietnutí odôvodnené námietkou sa vykoná najneskôr do siedmich mesiacov od dátumu začatia plynutia lehoty na podanie námietky; ak lehota na podanie námietky sa skončí pred uplynutím siedmich mesiacov, musí sa oznámenie uskutočniť v lehote jedného mesiaca pred skončením uvedenej lehoty na podanie námietky,
+      - (ii) oznámenie o zamietnutí odôvodnené námietkou sa vykoná v lehote jedného mesiaca pred skončením lehoty na podanie námietky, avšak najneskôr do siedmich mesiacov od dátumu začatia plynutia lehoty na podanie námietky,
 
       - (d) každé vyhlásenie podľa písmena (b) alebo (c) možno vykonať v listinách uvedených v článku 14 (2) a dátum nadobudnutia platnosti vyhlásenia sa bude zhodovať s dátumom nadobudnutia účinnosti protokolu pre štát alebo medzivládnu organizáciu, ktoré vyhlásenie vykonali. Takéto vyhlásenie možno vykonať aj neskôr, pričom toto vyhlásenie nadobúda platnosť tri mesiace po tom, ako ho dostal generálny riaditeľ organizácie (ďalej len „generálny riaditeľ“) alebo od ľubovoľného neskoršieho dátumu uvedeného v tomto vyhlásení, a to v súvislosti s ktorýmkoľvek medzinárodným zápisom, ktorého dátum je rovnaký alebo neskorší, ako je dátum nadobudnutia platnosti vyhlásenia,
 
-      - (e) po uplynutí desiatich rokov od nadobudnutia platnosti tohto protokolu zhromaždenie overí funkčnosť systému stanoveného v písmenách (a) až (d). Potom môžu byť ustanovenia uvedených písmen jednomyseľným rozhodnutím zhromaždenia upravené.
+      - (e) po uplynutí desiatich rokov od nadobudnutia platnosti tohto protokolu zhromaždenie overí funkčnosť systému ustanoveného v písmenách (a) až (d). Potom môžu byť ustanovenia uvedených písmen jednomyseľným rozhodnutím zhromaždenia* upravené.
 
     - (3) Medzinárodný úrad bezodkladne odošle jedno vyhotovenie oznámenia o zamietnutí majiteľovi medzinárodného zápisu. Majiteľ bude oprávnený použiť všetky opravné prostriedky ako v prípade prihlásenia ochrannej známky priamo na úrade, ktorý zamietnutie oznámil. Ak medzinárodný úrad prijal informáciu podľa odseku 2 (c) (i), bezodkladne odošle túto informáciu majiteľovi medzinárodného zápisu.
 
