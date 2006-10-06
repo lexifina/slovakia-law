@@ -1,0 +1,35 @@
+# § 51d
+
+(1) Ak medzinárodná zmluva, ktorou je Slovenská republika viazaná,<sup>10b</sup>) alebo osobitný predpis<sup>11</sup>) neustanovujú inak a predmetom žiadosti o registráciu veterinárneho lieku je generický liek referenčného veterinárneho lieku, ktorý je alebo bol registrovaný v Slovenskej republike alebo v spoločenstve najmenej pred ôsmimi rokmi, od žiadateľa sa nevyžaduje, aby predložil výsledky skúšok na neškodnosť a výsledky skúšok na rezíduá alebo výsledky toxikologicko-farmakologického skúšania a klinického skúšania.
+
+(2) Generický veterinárny liek registrovaný podľa odseku 1 sa nemôže uviesť na trh dovtedy, kým neuplynie desať rokov od prvotnej registrácie referenčného veterinárneho lieku.
+
+(3) Registrácia generického veterinárneho lieku podľa odseku 1 sa uplatňuje aj v prípade, ak referenčný veterinárny liek nebol registrovaný v Slovenskej republike. V takom prípade žiadateľ uvedie vo svojej žiadosti členský štát, v ktorom referenčný veterinárny liek je alebo bol registrovaný. Ústav kontroly veterinárnych liečiv požiada kompetentný orgán tohto členského štátu o vydanie potvrdenia o registrácii referenčného veterinárneho lieku s uvedením úplného zloženia registrovaného referenčného veterinárneho lieku a o predloženie aj ďalších požadovaných dokumentov o tomto lieku.
+
+(4) Desaťročné obdobie uvedené v odseku 2 sa predĺži na 13 rokov, ak ide o veterinárny liek určený pre ryby alebo včely, alebo iné živočíšne druhy označené v súlade s postupom uvedeným v osobitnom predpise.<sup>19abj</sup>)
+
+(5) Referenčný veterinárny liek je veterinárny liek prvotne registrovaný v Slovenskej republike alebo v spoločenstve.
+
+(6) Generický veterinárny liek je veterinárny liek, ktorý má rovnaké kvalitatívne a kvantitatívne zloženie liečiv a rovnakú liekovú formu ako referenčný veterinárny liek a ktorého biologická rovnocennosť s referenčným veterinárnym liekom bola preukázaná primeranými skúškami biologickej dostupnosti. Rozličné soli, estery, étery, izoméry, zmesi izomérov, komplexy alebo deriváty liečiva sa považujú za rovnaké liečivo, ak sa ich vlastnosti významne nelíšia z hľadiska bezpečnosti a účinnosti. V takých prípadoch žiadateľ musí predložiť doplňujúce informácie, ktoré majú poskytnúť dôkaz o bezpečnosti alebo účinnosti rozličných solí, esterov alebo derivátov povoleného liečiva. Rozličné perorálne liekové formy s okamžitým uvoľňovaním sa považujú za rovnakú liekovú formu. Od žiadateľa sa nepožadujú výsledky skúšok biologickej dostupnosti, ak preukáže, že generický veterinárny liek vyhovuje požadovaným kritériám na skúšky biologickej dostupnosti.
+
+(7) Ak veterinárny liek nie je generickým veterinárnym liekom podľa kritérií uvedených v odseku 6 alebo ak nie je možné preukázať biologickú rovnocennosť prostredníctvom štúdií biologickej dostupnosti, alebo ak ide o zmeny liečiva, terapeutických indikácií, koncentrácie, liekovej formy alebo cesty podania v porovnaní s referenčným veterinárnym liekom, musia sa predložiť výsledky skúšok na neškodnosť, skúšok na rezíduá a výsledky toxikologicko-farmakologického skúšania a klinického skúšania.
+
+(8) Ak biologický veterinárny liek podobný referenčnému biologickému veterinárnemu lieku nespĺňa podmienky uvedené v definícii generického lieku v súvislosti najmä s rozdielmi týkajúcimi sa vstupných surovín alebo výrobných postupov biologického veterinárneho lieku a referenčného biologického veterinárneho lieku, musia sa predložiť výsledky toxikologicko-farmakologického skúšania a klinického skúšania. Druh a množstvo doplňujúcich údajov musí byť v súlade s požiadavkami tohto zákona (§ 20 ods. 4).
+
+(9) Ak ide o veterinárny liek určený pre jeden alebo viac druhov potravinových zvierat a obsahujúci nové liečivo, ktoré nebolo v spoločenstve povolené do 30. apríla 2004, desaťročné obdobie uvedené v odseku 2 sa predĺži o jeden rok pre každé rozšírenie rozhodnutia o registrácii lieku o iný druh potravinového zvieraťa, ak rozhodnutie o rozšírení registrácie lieku bolo vydané do piatich rokov od vydania prvotného rozhodnutia o registrácii lieku. Táto lehota celkove nemôže prekročiť 13 rokov, ak ide o liek, ktorý je určený pre štyri alebo viac druhov potravinových zvierat.
+
+(10) Predĺženie desaťročného obdobia na 11, 12 alebo 13 rokov pre veterinárny liek určený pre potravinové zvieratá sa udeľuje, ak držiteľ rozhodnutia o registrácii veterinárneho lieku pôvodne požiadal aj o určenie maximálnych limitov rezíduí ustanovených pre druhy zahrnuté do povolenia.
+
+(11) Vykonávanie skúšok na účely uplatňovania odsekov 1 až 10 sa nepovažuje za protirečiace právam súvisiacim s patentmi alebo dodatkovými ochrannými osvedčeniami pre lieky.
+
+(12) Ak medzinárodná zmluva, ktorou je Slovenská republika viazaná,<sup>10b</sup>) alebo osobitný predpis<sup>11</sup>) neustanovujú inak a predmetom žiadosti o registráciu veterinárneho lieku je veterinárny liek, ktorý obsahuje liečivo, ktoré sa v spoločenstve dobre osvedčilo pri veterinárnom používaní počas najmenej desiatich rokov a jeho účinnosť a bezpečnosť je potvrdená, žiadateľ môže predložiť výsledky skúšok na neškodnosť, skúšok na rezíduá a výsledky toxikologicko-farmakologického skúšania a klinického skúšania publikované vo vedeckých prácach.
+
+(13) Hodnotiaca správa, ktorú uverejnila agentúra po posúdení žiadosti o ustanovenie maximálnych limitov rezíduí v súlade s osobitným predpisom,<sup>9beh</sup>) sa môže primeraným spôsobom použiť ako literatúra, najmä pre skúšky na neškodnosť.
+
+(14) Ak žiadateľ v žiadosti o registráciu veterinárneho lieku určeného pre niektorý druh potravinového zvieraťa odkazuje na vedeckú literatúru a v súvislosti s tým istým veterinárnym liekom a s cieľom rozšíriť registráciu lieku pre iný druh potravinového zvieraťa predloží nové výskumy rezíduí v súlade s osobitným predpisom <sup>9beh</sup>) spolu s ďalšími klinickými skúškami, nie je povolené, aby tretia strana použila výsledky týchto skúšok tri roky od vydania rozhodnutia o registrácii veterinárneho lieku, pre ktoré boli uskutočnené.
+
+(15) Ak ide o veterinárny liek obsahujúci liečivá použité v zložení registrovaného veterinárneho lieku, ktoré doposiaľ neboli použité v kombinácii na terapeutické účely, musia sa predložiť výsledky skúšky na neškodnosť a skúšky na rezíduá alebo výsledky nového toxikologicko-farmakologického skúšania a klinického skúšania súvisiace s touto kombináciou liečiv; vedecké referencie týkajúce sa každého liečiva osobitne sa nepredkladajú.
+
+(16) Po vydaní rozhodnutia o registrácii veterinárneho lieku môže jeho držiteľ povoliť používanie farmaceutických dokumentov, dokumentov o skúškach na neškodnosť a skúškach na rezíduá alebo o toxikologicko-farmakologickom skúšaní a klinickom skúšaní obsiahnutých v spisovej dokumentácii veterinárneho lieku na účely posudzovania veterinárneho lieku, ktorý má rovnaké kvalitatívne a kvantitatívne zloženie liečiv a rovnakú liekovú formu.
+
+(17) Za mimoriadnych okolností sa pri imunobiologickom veterinárnom lieku od žiadateľa nevyžaduje, aby predložil výsledky niektorých terénnych pokusov s cieľovými druhmi, ak sa tieto pokusy nemôžu uskutočniť z náležite odôvodnených príčin, najmä kvôli iným predpisom spoločenstva.
