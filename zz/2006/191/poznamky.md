@@ -4,6 +4,8 @@
 
 - 3) § 99 písm. o) zákona č. 725/2004 Z. z.
 
+- 3a) Nariadenie vlády Slovenskej republiky č. 563/2006 Z. z. o technických požiadavkách na ochranu cestujúcich v motorových vozidlách pri čelnom náraze.
+
 - 4) Nariadenie vlády Slovenskej republiky č. 150/2006 Z. z. o technických požiadavkách na výhľad vodičov motorových vozidiel.
 
 - 5) § 5 ods. 11 a 20, § 6 ods. 7 a 10 a § 7 ods. 9 a 13 zákona č. 725/2004 Z. z.
