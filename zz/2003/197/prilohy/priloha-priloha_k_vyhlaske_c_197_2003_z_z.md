@@ -190,6 +190,8 @@ Príloha k vyhláške č. 197/2003 Z. z.
 
 - 320 | GT | GTM | Guatemala Guatemalská republika | Guatemala Republic of Guatemala
 
+- 831 | GG | GGY | Guernsey Guernsey | Guernsey Guernsey
+
 - 324 | GN | GIN | Guinea Guinejská republika | Guinea Republic of Guinea
 
 - 328 | GY | GUY | Guyana Guyanská kooperatívna republika | Guyana Republic of Guyana
@@ -218,6 +220,8 @@ Príloha k vyhláške č. 197/2003 Z. z.
 
 - 372 | IE | IRL | Írsko Írsko | Ireland Ireland
 
+- 833 | IM | IMN | Man Ostrov Man | Isle of Man Isle of Man
+
 - 376 | IL | ISR | Izrael Izraelský štát | Israel State of Israel
 
 - 380 | IT | ITA | Taliansko Talianska republika | Italy Italian Republic
@@ -227,6 +231,8 @@ Príloha k vyhláške č. 197/2003 Z. z.
 - 388 | JM | JAM | Jamajka Jamajka | Jamaica Jamaica
 
 - 392 | JP | JPN | Japonsko Japonsko | Japan Japan
+
+- 832 | JE | JEY | Jersey Jersey | Jersey Jersey
 
 - 398 | KZ | KAZ | Kazachstan Kazašská republika | Kazakhstan Republic of Kazakhstan
 
