@@ -2,6 +2,12 @@
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
+- 2a) § 9 ods. 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2b) § 13 nariadenia vlády Slovenskej republiky č. 294/2005 Z. z. o meradlách.
+
+- 2c) § 8 nariadenia vlády Slovenskej republiky č. 294/2005 Z. z.
+
 - 3) § 21 až 23 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 4) § 2 ods. 2 písm. c) Obchodného zákonníka.
@@ -12,6 +18,10 @@
 
 - 6) Smernica Európskeho parlamentu a Rady 98/34/ES o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v platnom znení (Ú. v. ES L 204, 21. 7. 1998).
 
+- 7) Smernica Európskeho parlamentu a Rady z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v znení smernice 98/48/ES, zákon č. 264/1999 Z. z., nariadenie vlády Slovenskej republiky č. 453/2002 Z. z. o postupoch pri poskytovaní informácií v oblasti technických predpisov a technických noriem.
+
+- 8) Napríklad nariadenie vlády Slovenskej republiky č. 399/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na váhy s neautomatickou činnosťou v znení nariadenia vlády Slovenskej republiky č. 150/2002 Z. z., nariadenie vlády Slovenskej republiky č. 294/2005 Z. z.
+
 - 1) Ak pri schválení typu meradla alebo pri certifikácii typu meradla nebol určený iný čas platnosti overenia.
 
 - 2) Meradlá používané pri meraniach súvisiacich s platbami a/alebo pri príprave spotrebiteľsky balených výrobkov.
@@ -20,7 +30,7 @@
 
 - 4) Meradlá používané pri diagnostike a plánovaní terapie, súvisiace s priamym ohrozením zdravia a života pacienta.
 
-- 5) Tachografy spĺňajúce požiadavky vyhlášky ministra zahraničných vecí č. 108/1976 Zb. o Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) v znení neskorších predpisov.V nadväznosti na dodatok č. 2 k Európskej dohode o práci osádok vozidiel v medzinárodnej cestnej doprave (AETR) z 1. júla 1970, Príloha – Kontrolné zariadenia. Všeobecné ustanovenia, časť I, kontrolné zariadenia – tachografy označené schvaľovacou (homologačnou) značkou potvrdzujúcou schválenie typu v zmysle dodatkov č. 1 a 2 k tejto prílohe sa v Slovenskej republike považujú za meradlá schváleného typu.
+- 5) Nariadenie Rady (EHS) č. 3821/85 z 20. decembra 1985 o záznamovom zariadení v cestnej doprave (Mimoriadne vydanie Ú. v. EÚ, 7/zv. 1).
 
 - 6) Pri schvaľovaní typu meradiel sa vyžaduje vyjadrenie Ministerstva financií Slovenskej republiky.
 

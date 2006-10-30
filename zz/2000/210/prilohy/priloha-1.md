@@ -22,7 +22,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 1.1.4 | Taxametre vozidiel taxislužby | áno | áno | 2 roky | 18
 
-    - 1.1.5 | Počítadlá kilometrov v prenajímaných vozidlách požičovní automobilov | nie | áno | 2 roky | 18
+    - 1.1.5 | Zrušené od 30. 10. 2006. | | | |
 
     - 1.1.6 | Skúšobné sitá<sup>2</sup>),<sup>9</sup>) | nie | áno | 2 roky | 56
 
@@ -150,15 +150,17 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 2.2 Mechanický pohyb
 
-    - 2.2.1 | Cestné rýchlomery používané políciou pri kontrole dodržiavania pravidiel cestnej premávky<sup>3</sup>) | áno | áno | 1 rok | 31
+      - Meradlá uvedené v položke 2.2.2 podliehajú pred uvedením na trh schváleniu typu podľa osobitného predpisu.<sup>5</sup>) Meradlá uvedené v položke 2.2.2, ktoré pri overení vyhovejú ustanoveným požiadavkám, sa označia overovacou značkou a zabezpečovacou značkou.
 
-    - 2.2.2 | Tachografy mechanické a elektronické pre cestné vozidlá<sup>2</sup>),<sup>3</sup>),<sup>5</sup>) | áno | áno | 2 roky | 62
+    - 2.2.1 | Cestné rýchlomery (používané pri kontrole dodržiavania pravidiel cestnej premávky)<sup>3</sup>) | áno | áno | 1 rok | 31
+
+    - 2.2.2 | Záznamové zariadenia v cestnej doprave<sup>2</sup>),<sup>3</sup>),<sup>5</sup>) | - | áno<sup>5</sup>) | 2 roky | <sup>5</sup>)
 
     - 2.3 Tlak
 
       - Meradlá uvedené v položke 2.3.1 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
 
-    - 2.3.1 | Meradlá tlaku krvi - tonometre<sup>4</sup>) a) deformačné (mechanické) b) ortuťové (kvapalinové) | - | po oprave<sup>14</sup>) | 2 roky | 40<sup>16</sup>)
+    - 2.3.1 | Neinvazívne meradlá tlaku krvi<sup>4</sup>) a) mechanické b) elektromechanické | - - | po oprave<sup>14</sup>) po oprave<sup>14</sup>) | 2 roky 1 rok | 40<sup>16</sup>) 40<sup>16</sup>)
 
     - 2.3.2 | Prevodníky tlaku používané v kafilérických zariadeniach<sup>3</sup>) | áno | áno | 1 rok | 33
 
@@ -180,13 +182,13 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 2.4.5 | Napínacie zariadenia na predpätý betón<sup>3</sup>) | nie | áno | 1 rok | 60
 
-    - 2.4.6 | Momentové kľúče | nie | áno | 1 rok | 59
+    - 2.4.6 | Momentové kľúče | áno | áno | 1 rok | 59
 
   - 3. TEPELNOTECHNICKÉ VELIČINY
 
     - 3.1 Teplota, teplo
 
-      - Meradlá uvedené v položke 3.1.1 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a meradlá podľa písmena b) podliehajú počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
+      - Meradlá uvedené v položke 3.1.1 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
 
     - 3.1.1 | Lekárske a zverolekárske teplomery elektronické<sup>4</sup>) | - | po oprave<sup>14</sup>) | 2 roky | 32<sup>17</sup>)
 

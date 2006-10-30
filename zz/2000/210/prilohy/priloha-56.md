@@ -1,3 +1,3 @@
 Príloha č. 56 k vyhláške č. 210/2000 Z. z.
 
-- SKÚŠOBNÉ SITÁ [Príloha 56](../assets/4e7e3c57d402953e46006471395fea2476cf7c7d4ac8300decf563b351c5b599.pdf)
+- SKÚŠOBNÉ SITÁ [Príloha 56](../assets/0c8468c28b0b095717b4e62aca3d2a5e99d15cfe4d723ab5f958a03c88f40c84.pdf)
