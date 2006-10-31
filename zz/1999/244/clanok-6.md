@@ -1,6 +1,6 @@
 # Článok 6 Prevody
 
-- 1. Každá zmluvná strana, na ktorej území uskutočňujú investície investori druhej zmluvnej strany, poskytne týmto investorom voľný prevod platieb vzťahujúcich sa na investície. Prevod zahŕňa najmä
+- 1. Bez dopadov na opatrenia prijaté Európskou úniou každá zmluvná strana, na ktorej území sa uskutočňujú investície investormi druhej zmluvnej strany, poskytne týmto investorom voľný prevod platieb vzťahujúcich sa na investície a tento zahŕňa najmä:
 
   - a) kapitál a dodatočné sumy na udržanie alebo zväčšenie investícií,
 
