@@ -33,3 +33,5 @@
 - 13) § 64 ods. 1 písm. b) zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
 - 14) § 70 zákona č. 305/2005 Z. z.
+
+- 15) Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
