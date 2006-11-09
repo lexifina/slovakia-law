@@ -24,6 +24,8 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
+- 4a) Napríklad zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
+
 - 5) Napríklad zákon č. 280/2002 Z. z. v znení zákona č. 643/2002 Z. z. a zákon č. 238/1998 Z. z.
 
 - 5a) § 7 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
