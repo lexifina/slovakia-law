@@ -114,7 +114,9 @@
 
 - 39) Zákon č. 283/2002 Z. z.
 
-- 39a) § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 534/2002 Z. z.
+- 39a) Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
+
+- 39aa) § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 534/2002 Z. z.
 
 - 39b) § 84 ods. 1 zákona č. 73/1998 Z. z.
 
