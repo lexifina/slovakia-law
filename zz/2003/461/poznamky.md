@@ -270,4 +270,6 @@
 
 - 113) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.
 
+- 113a) Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
+
 - 114) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
