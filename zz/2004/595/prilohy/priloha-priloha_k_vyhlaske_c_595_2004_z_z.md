@@ -1,1 +1,3 @@
-Príloha k vyhláške č. 595/2004 Z. z. [Vzor](../assets/9df4d916c7c035d0014fb6e6c185cae6a2626cffd71ad428d7d3b629a8a519eb.pdf)
+Príloha k vyhláške č. 595/2004 Z. z.
+
+- VZOR Hlásenie o primeranosti vlastných zdrojov dôchodkovej správcovskej spoločnosti [Vzor](../assets/7e958ce5167ba2ce050798eb29cc3a6857550de4b055c13d0978956e0cdb70bd.pdf)
