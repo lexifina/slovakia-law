@@ -34,6 +34,8 @@
 
 - 4ea) Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 (Ú. v. EÚ L 143, 30. 4. 2004).
 
+- 4eb) Napríklad zmluva medzi Československou socialistickou republikou a Zväzom sovietskych socialistických republík o právnej pomoci a právnych vzťahoch v občianskych, rodinných a trestných veciach (Vyhláška ministra zahraničných vecí č. 95/1983 Zb.), zmluva medzi Československou socialistickou republikou a Socialistickou federatívnou republikou Juhosláviou o úprave právnych vzťahov v občianskych, rodinných a trestných veciach (Vyhláška ministra zahraničných vecí č. 207/1964 Zb.).
+
 - 4f) § 5 ods. 2 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 288/1995 Z. z. o odmenách a náhradách súdnych exekútorov.
 
 - 5) § 53 Občianskeho súdneho poriadku.
@@ -135,3 +137,5 @@
 - 18) § 171 ods. 1, § 188 ods. 1 písm. c), § 222 ods. 2 a § 257 písm. a) Trestného poriadku.
 
 - 19) § 244 až 250k Občianskeho súdneho poriadku.
+
+- 20) § 102c zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 527/2006 Z. z.
