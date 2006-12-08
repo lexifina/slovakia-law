@@ -1626,13 +1626,19 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 7. „The Solicitor General"
 
-    - Sv. Vincent a Grenadíny
+    - Svätý Vincent a Grenadíny
 
   - 1. „The Permanent Secretary, Ministry of Foreign Affairs"
 
   - 2. „The Registrar, High Court"
 
   - 3. „The Senior Crown Counsel, The Ministry of Legal Affairs"
+
+  - 4. The Executive Director, International Financial Services Authority
+
+  - 5. The Deputy Director, International Financial Services Authority
+
+  - 6. The Manager, Administration, International Financial Services Authority
 
     - Svazijsko
 
