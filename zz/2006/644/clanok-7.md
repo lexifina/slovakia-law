@@ -1,0 +1,7 @@
+# Čl. VII
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie
+
+- a) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 430/2002 Z. z., zákonom č. 510/2002 Z. z., zákonom č. 165/2003 Z. z., zákonom č. 603/2003 Z. z., zákonom č. 215/2004 Z. z., zákonom č. 554/2004 Z. z., zákonom č. 747/2004 Z. z., zákonom č. 69/2005 Z. z., zákonom č. 340/2005 Z. z., zákonom č. 341/2005 Z. z., zákonom č. 214/2006 Z. z. a týmto zákonom,
+
+- b) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch), ako vyplýva zo zmien a doplnení vykonaných zákonom č. 291/2002 Z. z., zákonom č. 510/2002 Z. z., zákonom č. 162/2003 Z. z., zákonom č. 594/2003 Z. z., zákonom č. 43/2004 Z. z., zákonom č. 635/2004 Z. z., zákonom č. 747/2004 Z. z., zákonom č. 7/2005 Z. z., zákonom č. 266/2005 Z. z., zákonom č. 336/2005 Z. z., zákonom č. 213/2006 Z. z. a týmto zákonom.
