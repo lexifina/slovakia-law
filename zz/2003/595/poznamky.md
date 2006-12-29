@@ -162,8 +162,6 @@
 
 - 70) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
-- 71) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
-
 - 72) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 73) § 27 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
@@ -179,6 +177,8 @@
 - 77) § 18 ods. 1 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
 - 77a) § 17a zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 77b) § 35 a 36 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 78) § 21a zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení zákona č. 511/2002 Z. z.
 
