@@ -204,6 +204,10 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 3. „the Director of Justice Affairs Department“
 
+    - Dánske kráľovstvo
+
+    - Ministerstvo zahraničných vecí
+
     - Dominika (Dominické spoločenstvo)
 
   - 1. „the Attorney General“
