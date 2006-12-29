@@ -46,7 +46,7 @@
 
 - 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 19) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov.
+- 19) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) Napríklad § 12 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
 
@@ -57,6 +57,12 @@
 - 22a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Úradný vestník Európskych spoločenstiev L 243, 11. 09. 2002).
 
 - Nariadenie Komisie (ES) č. 1725/2003 z 29. septembra 2003 o prijatí určitých medzinárodných účtovných noriem v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Úradný vestník Európskej únie L 261, 13. 10. 2003) v znení nariadenia Komisie (ES) č. 707/2004 zo 6. apríla 2004 (Úradný vestník Európskej únie L 111, 17. 04. 2004).
+
+- 22aa) § 5 písm. j) zákona č. 594/2003 Z. z.
+
+- 22ab) Napríklad § 17 ods.1 písm. c) zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z., Obchodný zákonník.
+
+- 22ac) Medzinárodný účtovný štandard 27 bod 37, Medzinárodné účtovné štandardy 28 a 31, Nariadenie Komisie (ES) č. 2238/2004 z 29. decembra 2004, ktorým sa mení a dopĺňa nariadenie (ES) č. 1725/2003, ktorým sa prijímajú určité medzinárodné účtovné štandardy v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002, pokiaľ ide o IFRS 1, IAS 1 až 10, 12 až 17, 19 až 24, 27 až 38, 40 a 41 a SIC 1 až 7, 11 až 14, 18 až 27, 30 až 33 (Ú. v. EÚ L 394, 31. 12. 2004).
 
 - 22b) Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).
 
@@ -74,7 +80,9 @@
 
 - 28) Napríklad § 35 ods. 2 zákona č. 34/2002 Z. z.
 
-- 28a) § 15 ods. 6 písm. e) zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+- 28a) Napríklad zákon č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 28b) § 15 ods. 6 písm. e) zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
 - 29) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 4 zákona č. 34/2002 Z. z.
 
