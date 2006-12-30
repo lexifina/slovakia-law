@@ -20,9 +20,9 @@
 
 - 7) § 2 písm. j) opatrenia č. 6/2002 (oznámenie č. 695/2002 Z. z.).
 
-- 8) Opatrenie Ministerstva financií Slovenskej republiky zo 16. novembra 1998 č. 3177/1998- KM, ktorým sa ustanovuje účtovná osnova a postupy účtovania pre podnikateľov (oznámenie č. 362/1998 Z. z.).
+- 8) Napríklad zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 9) Vyhláška Ministerstva financií Slovenskej republiky č. 558/2002 Z. z., ktorou sa ustanovuje rozsah, spôsob a termíny predkladania výkazov, hlásení alebo prehľadov z účtovnej evidencie a štatistickej evidencie a ustanovuje obsah, forma, členenie, termíny, spôsob a miesto predkladania výkazov, hlásení a iných správ obchodníka s cennými papiermi a zahraničného obchodníka s cennými papiermi.
+- 9) Napríklad vyhláška Ministerstva financií Slovenskej republiky č. 558/2002 Z. z., ktorou sa ustanovuje rozsah, spôsob a termíny predkladania výkazov, hlásení alebo prehľadov z účtovnej evidencie a štatistickej evidencie a ustanovuje obsah, forma, členenie, termíny, spôsob a miesto predkladania výkazov, hlásení a iných správ obchodníka s cennými papiermi a zahraničného obchodníka s cennými papiermi v znení neskorších predpisov, opatrenie Národnej banky Slovenska č. 10/2006 o predkladaní výkazov bankami, pobočkami zahraničných bánk, obchodníkmi s cennými papiermi a zahraničnými obchodníkmi s cennými papiermi na účely vykonávania dohľadu (oznámenie č. 627/2006 Z. z.).
 
 - 10) § 22 ods. 1 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2003 Z. z.
 
