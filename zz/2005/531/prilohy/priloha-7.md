@@ -68,7 +68,7 @@ Príloha č. 7 k nariadeniu vlády č. 531/2005 Z. z.
 
   - 17. pokyny na bezpečné zneškodnenie prípravku na ochranu rastlín a jeho obalu,
 
-  - 18. doba použiteľnosti pri bežných podmienkach skladovania maximálne dva roky od dátumu výroby,
+  - 18. doba použiteľnosti pri bežných podmienkach skladovania, ak je kratšia ako dva roky od dátumu výroby.
 
   - 19. údaje týkajúce sa prvej pomoci,
 

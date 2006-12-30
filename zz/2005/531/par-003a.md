@@ -33,3 +33,5 @@
 (5) Ustanovenia odsekov 1, 2 a 4 sa primerane použijú na odborné pracoviská.
 
 (6) Na základe výzvy kontrolného ústavu držiteľ registrácie alebo žiadateľ o registráciu je povinný zaslať bez zbytočného odkladu príslušnému registračnému úradu iného členského štátu, Komisii alebo Európskemu úradu pre potravinovú bezpečnosť informácie, údaje, dokumentačný súbor údajov alebo jeho časť.
+
+(7) Držiteľ registrácie prípravku je povinný predložiť kontrolnému ústavu v lehote ním určenej údaje a informácie o účinnej látke v prípravku a o prípravku vrátane údajov o ich zložení.

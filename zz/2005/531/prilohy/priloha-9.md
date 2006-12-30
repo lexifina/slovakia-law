@@ -165,3 +165,15 @@ Príloha č. 9
   - 13. Smernica Komisie 2006/16/ES zo 7. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť oxamyl ako účinnú látku (Ú. v. EÚ L 36, 8. 2. 2006).
 
   - 14. Smernica Komisie 2006/19/ES zo 14. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 1-metylcyklopropén ako účinnú látku (Ú. v. EÚ L 44, 15. 2. 2006).
+
+  - 15. Smernica Komisie 2006/39/ES z 12. apríla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť clodinafop, pirimikarb, rimsulfuron, tolklofos-metyl, tritikonazol ako účinné látky (Ú. v. EÚ L 104, 13. 4. 2006).
+
+  - 16. Smernica Komisie 2006/41/ES zo 7. júla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť klotianidin a petoxamid ako účinné látky (Ú. v. EÚ L 187, 8. 7. 2006).
+
+  - 17. Smernica Komisie 2006/64/ES z 18. júla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť clopyralid, cyprodinyl, fosetyl a trinexapac medzi účinné látky (Ú. v. EÚ L 206, 27. 7. 2006).
+
+  - 18. Smernica Komisie 2006/74/ES z 21. augusta 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dichlorprop-P, metconazole, pyrimethanil a triclopyr medzi účinné látky (Ú. v. EÚ L 235, 30. 8. 2006).
+
+  - 19. Smernica Komisie 2006/75/ES z 11. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimoxystrobín medzi účinné látky (Ú. v. EÚ L 248, 12. 9. 2006).
+
+  - 20. Smernica Komisie 2006/76/ES z 22. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky chlórtalonil (Ú. v. EÚ L 263, 23. 9. 2006).

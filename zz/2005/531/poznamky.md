@@ -26,6 +26,8 @@
 
 - 10a) Zákon č. 151/2002 Z. z. o používaní genetických technológii a geneticky modifikovaných organizmov.
 
+- 10b) § 10 ods. 3 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
+
 - 1) Príloha č. 5 časť B – metóda B.5 výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2002 z 27. marca 2002 na vykonanie zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch (oznámenie č. 384/2002 Z. z.).
 
 - 2) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
