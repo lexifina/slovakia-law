@@ -1,1 +1,0 @@
-Príloha č. 3 k vyhláške č. 64/2005 Z. z. [Výkaz o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla - vzor](../assets/62771b5eae1aecd6a185878e354db0daa7a2ea15f99e448f6881a8d36ef4e857.pdf)

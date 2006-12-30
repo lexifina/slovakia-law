@@ -1,1 +1,0 @@
-Príloha č. 7 k vyhláške č. 64/2005 Z. z. [Výkaz špecifických údajov o poistnom trhu životného poistenia a neživotného poistenia - vzor](../assets/71fbce55cb4829380935f678855bcf12666af2f8a9d74cd48641ccbf2eac8382.pdf)

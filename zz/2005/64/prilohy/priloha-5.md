@@ -1,1 +1,0 @@
-Príloha č. 5 k vyhláške č. 64/2005 Z. z. [Prehľad o umiestnení prostriedkov technických rezerv v neživotnom poistení - vzor](../assets/0ba0d3372d988b87f27932e83ee1fdbbd630a58ae916ba664135f75be503c6c0.pdf)

@@ -1,1 +1,0 @@
-Príloha č. 24 k vyhláške č. 64/2005 Z. z. [Nekonsolidovaná bilancia finančných aktív a finančných pasív za poisťovne, zaisťovne, pobočky zahraničnej poisťovne a pobočky zahraničnej zaisťovne - vzor](../assets/5bb2bda9c7aa6d07b3fdb84e84b3b6371a18972c55fe34ff9a9e1165f0f04a46.pdf)

@@ -1,1 +1,0 @@
-Príloha č. 10 k vyhláške č. 64/2005 Z. z. [Výkaz o rovnováhe medzi peňažnými menami aktív a pasív (currency matching) v životnom poistení - vzor](../assets/0c6d26c1ba2a1d9f9bde0b4c1ca4b90e2a36a71e463cb30062d8c78de8805069.pdf)
