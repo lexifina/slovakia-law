@@ -1873,5 +1873,3 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - 13.
 
 - Smernica Európskeho parlamentu a Rady 2004/25/ES z 21. apríla 2004 o ponukách na prevzatie (Ú. v. EÚ L 142, 30. 4. 2004).“.
-
-- 1. V § 3 písm. a) štvrtom bode sa slová „poisťovacom agentovi, poisťovacom maklérovi" nahrádzajú slovami „sprostredkovateľovi poistenia".
