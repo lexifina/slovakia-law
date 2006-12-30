@@ -1,4 +1,4 @@
-Príloha č. 15 k vyhláške č. 558/2002 Z. z. [Vzor 15](../assets/d9be4d234f0a2fd8482283a50760b289e15a107e7ed1b6a70e910e572726a4ed.pdf)
+Príloha č. 15 k vyhláške č. 558/2002 Z. z. [Vzor 15](../assets/b1a00458e80e2738e67597768278aeec835f3a7223e802e17b65845fd1b5eb24.pdf)
 
 Poznámky:
 

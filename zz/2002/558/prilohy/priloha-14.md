@@ -1,4 +1,4 @@
-Príloha č. 14 k vyhláške č. 558/2002 Z. z. [Vzor 14](../assets/d38ec0329926ae4f71f8e23ab6ba4c73811c9ac21d6a72a45a6bdd2fa6442155.pdf)
+Príloha č. 14 k vyhláške č. 558/2002 Z. z. [Vzor 14](../assets/113dbad20cf78681e181cb41919ff48a6d293b249c0bb402c9f55d141d2fb10d.pdf)
 
 Vysvetlivky:
 
