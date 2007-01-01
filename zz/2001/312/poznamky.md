@@ -10,6 +10,8 @@
 
 - 3c) Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 3d) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
 - 4b) § 4 zákona č. 73/1998 Z. z. v znení zákona č. 181/1999 Z. z.
 
 - 4c) § 7 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
@@ -19,8 +21,6 @@
 - 5) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, § 143 ods. 5 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z., zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení zákona č. 411/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení zákona č. 166/2003 Z. z., zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 5a) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
-
-- 5b) Napríklad zákon č. 150/2001 Z. z. v znení zákona č. 182/2002 Z. z., zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z., zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z., § 7 zákona Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
 
 - 5c) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 638/2005 Z. z.
 

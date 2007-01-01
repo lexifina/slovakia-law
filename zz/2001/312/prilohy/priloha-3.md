@@ -2,7 +2,7 @@ Príloha č. 3 k zákonu č. 312/2001 Z. z.
 
 - PERCENTUÁLNY PODIEL PRÍPLATKU ZA RIADENIE Stupeň riadenia | | Percentuálny podiel
 
-- 1. | vedúci úradu, ktorým je ministerstvo, ostatný ústredný orgán štátnej správy, Kancelária Národnej rady Slovenskej republiky, Najvyšší kontrolný úrad Slovenskej republiky, Kancelária prezidenta Slovenskej republiky, Kancelária verejného ochrancu práv, Kancelária Súdnej rady Slovenskej republiky, Ústavný súd Slovenskej republiky, predstavený v politickej funkcii týchto úradov a predseda | 47 – 90
+- 1. | vedúci úradu, ktorým je ostatný ústredný orgán štátnej správy, Kancelária Národnej rady Slovenskej republiky, Najvyšší kontrolný úrad Slovenskej republiky, Kancelária prezidenta Slovenskej republiky, Kancelária verejného ochrancu práv, Kancelária Súdnej rady Slovenskej republiky a Ústavný súd Slovenskej republiky, | 47 – 90
 
 - 2. | vedúci úradu neuvedeného v bode 1 a predstavený v politickej funkcii služobného úradu neuvedeného v bode 1, zástupca vedúceho úradu uvedeného v bode 1 | 17 – 75
 

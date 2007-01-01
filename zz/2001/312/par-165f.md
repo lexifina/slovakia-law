@@ -1,7 +1,5 @@
 # § 165f
 
-(1) Štátny zamestnanec, ktorý bol do stálej štátnej služby vymenovaný do 31. marca 2006, a štátny zamestnanec, ktorý bude do stálej štátnej služby vymenovaný do 30. júna 2008, je povinný preukázať alebo získať kvalifikačné predpoklady podľa § 14 ods. 1 písm. k) do 31. decembra 2008.
+(1) Rozhodnutia o zvyšovaní kvalifikácie, ktoré nadobudli právoplatnosť do 31. mája 2006, sa považujú za dohody o zvyšovaní kvalifikácie podľa tohto zákona. Obsah dohody o zvyšovaní kvalifikácie upraví služobný úrad v súlade s týmto zákonom.
 
-(2) Štátny zamestnanec, ktorý bude do stálej štátnej služby vymenovaný v období od 1. júla 2008 do 31. decembra 2008, je povinný ich preukázať alebo získať najneskôr do 30. júna 2009.
-
-(3) Získanie požadovaných vedomostí a zručností potrebných na efektívne využívanie informačných a komunikačných technológií podľa § 14 ods. 1 písm. k) sa považuje za prehlbovanie kvalifikácie podľa § 77 ods. 1 až 4.
+(2) Na štátneho zamestnanca, ktorý po 1. júni 2006 spĺňa kvalifikačný predpoklad vzdelania určený na funkciu, do ktorej bol vymenovaný a nepokračuje v štúdiu podľa § 159a, sa nevzťahuje § 77 ods. 8, 12 a 13 a § 159a ods. 4.
