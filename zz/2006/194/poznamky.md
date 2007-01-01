@@ -15,3 +15,5 @@
 - § 88 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
 
 - § 99 písm. o) zákona č. 725/2004 Z. z.
+
+- 7) § 5 ods. 11 a 20, § 6 ods. 7 a 10 a § 7 ods. 9 a 13 zákona č. 725/2004 Z. z.
