@@ -20,6 +20,8 @@
 
 - 3g) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
+- 3h) § 152 ods. 2 zákona č. 73/1998 Z. z.
+
 - 4) § 22 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
 - 5) § 81 ods. 1 písm. d) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.

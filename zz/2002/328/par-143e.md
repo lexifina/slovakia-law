@@ -1,0 +1,3 @@
+# § 143e
+
+Príplatok priznaný v rámci súdnej rehabilitácie alebo mimosúdnej rehabilitácie k starobnému dôchodku, invalidnému dôchodku a čiastočnému invalidnému dôchodku, ktoré sa podľa § 125 a 126 považujú za výsluhový dôchodok a invalidný výsluhový dôchodok, ktorý sa k 30. júnu 2002 nevyplácal z dôvodu, že spolu s dôchodkom presiahol najvyššiu výmeru ustanovenú predpisom účinným pred 1. júlom 2002, alebo sa z tohto dôvodu vyplácal v nižšej sume, sa uvoľní odo dňa splátky splatnej po 31. decembri 2006 v sume, v akej by sa vyplácal k tomuto dňu bez obmedzenia z tohto dôvodu. Útvar sociálneho zabezpečenia ministerstva alebo Vojenský úrad sociálneho zabezpečenia o tejto dávke rozhodne najneskôr do 31. decembra 2008.
