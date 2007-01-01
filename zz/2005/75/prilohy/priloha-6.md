@@ -1,1 +1,0 @@
-Príloha č. 6 k vyhláške č. 75/2005 Z. z. [Stav majetku v dôchodkovom fonde podľa percentuálneho podielu emitentov na majetku v dôchodkovom fonde - vzor](../assets/be3a72e8f4711556a47270133639b13eaa73405775abcbade64fcdff93c82907.pdf)

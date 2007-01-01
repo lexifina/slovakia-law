@@ -1,1 +1,0 @@
-Príloha č. 4 k vyhláške č. 75/2005 Z. z. [Stav a zmeny zloženia majetku v dôchodkovom fonde v členení podľa trhov, bánk, pobočiek zahraničných bánk a emitentov - vzor](../assets/e32f3e3c9d58402d284c687968f5eb7f0bdbc1ea8e3e4cfcbf76e0ad84bb0c8b.pdf)

@@ -1,1 +1,0 @@
-Príloha č. 13 k vyhláške č. 75/2005 Z. z. [Informácie o dôchodkových fondoch spravovaných dôchodkovou správcovskou spoločnosťou - vzor](../assets/07ddee2bd8ad56d108d9001207da56e015ef7c2e629f5ad44b1f1af1d06e9ab9.pdf)

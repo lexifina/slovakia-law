@@ -1,1 +1,0 @@
-Príloha č. 9 k vyhláške č. 75/2005 Z. z. [Skrátená verzia ročnej správy a polročnej správy o hospodárení s majetkom v dôchodkovom fonde - vzor](../assets/d9e24f67a3c51d278dc4efa5dbbfc25e63df1fc20c06e7b66098f261116bba4b.pdf)

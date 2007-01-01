@@ -1,1 +1,0 @@
-Príloha č. 15 k vyhláške č. 75/2005 Z. z. [Obsah dennej informácie o každej transakcii s majetkom v dôchodkovom fonde - vzor](../assets/7cef176751b87b660e415227f7032c0b39763becbd888a17e505828b57c12559.pdf)
