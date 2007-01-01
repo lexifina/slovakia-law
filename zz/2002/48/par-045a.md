@@ -10,7 +10,7 @@
 
 - b) podniká,
 
-- c) študuje na štátnej škole alebo štátom uznanej škole a má finančné prostriedky na zabezpečenie pobytu a zdravotné poistenie na území Slovenskej republiky,
+- c) študuje na škole v Slovenskej republike a má finančné prostriedky na zabezpečenie pobytu a zdravotné poistenie na území Slovenskej republiky,
 
 - d) má finančné prostriedky na zabezpečenie pobytu a zdravotné poistenie na území Slovenskej republiky alebo
 

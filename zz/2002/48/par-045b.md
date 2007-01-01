@@ -18,9 +18,9 @@
 
 - e) iný rodinný príslušník, ktorý je od neho závislý, alebo člen jeho domácnosti.
 
-(3) K žiadosti o udelenie prvého povolenia je zvýhodnený cudzinec povinný predložiť cestovný doklad; ak cestovný doklad k žiadosti nepredloží, policajný útvar žiadosť o udelenie prvého povolenia neprijme. K žiadosti o udelenie prvého povolenia zvýhodnený cudzinec priloží
+(3) Žiadosť o udelenie prvého povolenia zvýhodnený cudzinec podáva osobne na zastupiteľskom úrade alebo osobne na policajnom útvare. K žiadosti o udelenie prvého povolenia je zvýhodnený cudzinec povinný predložiť cestovný doklad; ak cestovný doklad k žiadosti nepredloží, policajný útvar žiadosť o udelenie prvého povolenia neprijme. K žiadosti o udelenie prvého povolenia zvýhodnený cudzinec priloží
 
-- a) tri fotografie podľa § 25 ods. 2,
+- a) fotografie podľa § 25 ods. 2,
 
 - b) doklad potvrdzujúci, že je rodinným príslušníkom občana Európskeho hospodárskeho priestoru s pobytom na území Slovenskej republiky,
 
@@ -28,7 +28,7 @@
 
 - d) čestné vyhlásenie o tom, že nebude záťažou pre systém zdravotného zabezpečenia a sociálneho zabezpečenia Slovenskej republiky.
 
-(4) Policajný útvar vydá žiadateľovi v deň podania žiadosti o udelenie prvého povolenia potvrdenie o jej prijatí.
+(4) Orgán, ktorý žiadosť prijal, vydá žiadateľovi v deň podania žiadosti o udelenie prvého povolenia potvrdenie o jej prijatí. Policajný útvar rozhodne o žiadosti do 90 dní odo dňa jej doručenia policajnému útvaru.
 
 (5) Policajný útvar žiadosť o udelenie prvého povolenia zvýhodneného cudzinca zamietne, ak
 

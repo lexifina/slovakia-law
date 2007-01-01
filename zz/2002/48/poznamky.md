@@ -1,5 +1,7 @@
 - 1) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1a) Nariadenie Európskeho parlamentu a Rady (ES) č. 562/2006 z 15. marca 2006, ktorým sa ustanovuje kódex Spoločenstva o pravidlách upravujúcich pohyb osôb cez hranice (Kódex schengenských hraníc), (Ú. v. EÚ L 105, 13. 4. 2006).
+
 - 2) § 57 Trestného zákona v znení neskorších predpisov.
 
 - 2a) § 2 ods. 1 zákona č. 298/1999 Z. z. o správe štátnych hraníc v znení zákona č. 515/2003 Z. z.
@@ -14,19 +16,25 @@
 
 - 6) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 6a) Nariadenie Rady (ES) č. 415/2003 z 27. februára 2003 o udeľovaní víz na hraniciach vrátane udeľovania týchto víz námorníkom na ceste (Ú. v. EÚ L 064, 7. 3. 2003).
+
 - 7) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
 - 8) Zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
 - 8a) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z. ).
 
-- 9) § 2 ods. 2 Obchodného zákonníka.
+- 9) Napríklad Obchodný zákonník.
 
 - 10) Napríklad Zákonník práce.
 
 - 10a) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10b) § 22 ods. 7 zákona č. 5/2004 Z. z. v znení zákona č. 82/2005 Z. z.
+
+- 10c) § 22 ods. 7 písm. c) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- 10d) § 2 zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 11) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
@@ -47,6 +55,8 @@
 - 17) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
 
 - 17a) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 17aa) Čl. 8 Dohovoru o ochrane ľudských práv a základných slobôd (oznámenie č. 209/1992 Zb.).
 
 - 17b) § 67 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -70,7 +80,7 @@
 
 - Nariadenie Komisie (ES) č. 1560/2003 z 2. septembra 2003, ktorým sa ustanovujú podrobné pravidlá na uplatňovanie nariadenia Rady (ES) č. 343/2003 ustanovujúce kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o azyl podanej v členskom štáte príslušníkom tretej krajiny (Ú. v. EÚ L 222, 5. 9. 2003).
 
-- 23b) Dohoda medzi vládou Slovenskej republiky a vládou Ukrajiny o odovzdávaní a prijímaní osôb cez spoločné štátne hranice (oznámenie č. 116/1994 Z. z.).
+- 23b) Napríklad Dohoda medzi vládou Slovenskej republiky a vládou Ukrajiny o odovzdávaní a prijímaní osôb cez spoločné štátne hranice (oznámenie č. 116/1994 Z. z.).
 
 - 24) § 250l Občianskeho súdneho poriadku v znení zákona č. 519/1991 Zb.
 
