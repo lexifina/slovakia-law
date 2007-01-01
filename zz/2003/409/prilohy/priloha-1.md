@@ -56,11 +56,9 @@ Príloha č. 1 k vyhláške č. 409/2003 Z. z.
 
   - Každá priemyselná alebo komerčná činnosť vo forme natierania a s tým súvisiaceho odmasťovania pri
 
-    - a) natieraní cestných vozidiel alebo ich častí, ktoré sa vykonáva ako súčasť opravy vozidla, konzervácie alebo dekorácie mimo výrobných zariadení,
+    - a) pôvodnom natieraní cestných vozidiel alebo ich častí materiálmi určenými na povrchovú úpravu, ak sa táto činnosť vykonáva mimo pôvodnej výrobnej linky,
 
-    - b) pôvodnom natieraní cestných vozidiel alebo ich častí materiálmi určenými na povrchovú úpravu, ak sa táto činnosť vykonáva mimo pôvodnej výrobnej linky,
-
-    - c) natieraní prívesov (vrátane návesov).
+    - b) natieraní prívesov (vrátane návesov).
 
     - Nepatrí sem nanášanie substrátov s obsahom kovov za pomoci elektroforetických a chemických nanášacích techník (nanášanie striekaním alebo rozprašovaním). Ak je súčasťou natierania aj potlač na ten istý povrch bez ohľadu na to, aká technika sa použije, potom sa táto potlač považuje za súčasť natierania. Tlačiarenské činnosti, ktoré sú vykonávané ako samostatná činnosť, do uvedených činností nepatria.
 

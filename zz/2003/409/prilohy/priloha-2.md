@@ -162,19 +162,17 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
-  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit ako emisný faktor celkové- ho organického uhlíka<sup>1</sup>) | Emisný limit celkového orga- nického uhlíka v odpadových plynoch<sup>2</sup>) | Emisný limit pre fugitívne emisie<sup>3</sup>) | Emisný limit TZL<sup>2</sup>) | Osobitné ustanovenia
+  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit ako emisný faktor celkového organického uhlíka<sup>1</sup>) | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>2</sup>) | Emisný limit pre fugitívne emisie<sup>3</sup>) | Emisný limit TZL<sup>2</sup>) | Osobitné ustanovenia
 
   - | t.rok<sup>-1</sup> | g.m<sup>-2</sup> | mg.m<sup>-3</sup> | % | mg.m<sup>-3</sup> |
 
-  - Nanášanie náterových látok | 0,6 - 5<sup>9</sup>) | - | 120 | 25 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>),<sup>7</sup>), <sup>8</sup>)
+  - Nanášanie náterových látok | 0,6 - 5<sup>9</sup>) | - | 120 | 25 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>), <sup>7</sup>), <sup>8</sup>)
 
-  - Nanášanie náterových látok | > 5- 15 | - | 100 | 25 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>),<sup>7</sup>), <sup>8</sup>)
+  - Nanášanie náterových látok | > 5- 15 | - | 100 | 25 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>), <sup>7</sup>), <sup>8</sup>)
 
-  - Nanášanie náterových látok | > 15 | - | 50/75<sup>5</sup>) | 20 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>),<sup>7</sup>), <sup>8</sup>)
+  - Nanášanie náterových látok | > 15 | - | 50/75<sup>5</sup>) | 20 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>), <sup>7</sup>), <sup>8</sup>)
 
-  - Sériové - kontinuálne nanášanie náterových látok | > 5 | 60 | 50/75<sup>5</sup>) | 20 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>), <sup>7</sup>), <sup>8</sup>)
-
-  - Práškové lakovanie | - | - | 50 | - | 15 | Poznámka <sup>8</sup>), <sup>10</sup>)
+  - Práškové lakovanie | - | - | 50 | - | 15 | Poznámka <sup>8</sup>), <sup>0</sup>)
 
   - Poznámky:
 
@@ -250,7 +248,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 3) Uvedený limit platí pre nátery bytových doplnkov a malých kožených predmetov (tašky, peňaženky, opasky a pod.).
 
-  - 5. Opravy a prestriekavanie áut
+  - 5. Sériové lakovanie áut pri spotrebe rozpúšťadla menej ako 15 t za rok
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
@@ -258,7 +256,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | % | mg.m<sup>-3</sup>
 
-  - Sériové lakovanie áut < 15 t.rok<sup>-1</sup> opravy a prestriekavanie áut | > 0,5 | 50<sup>3</sup>) | 25 | 3
+  - Sériové lakovanie áut < 15 t.rok<sup>-1</sup> | > 0,5 | 50<sup>3</sup>) | 25 | 3
 
   - Poznámky:
 
