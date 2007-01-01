@@ -2,10 +2,6 @@
 
 - 2) § 9a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
-- 3) § 6 ods. 2 písm. a), § 9 ods. 2 písm. a) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
-
-- § 57a a § 57b zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
 - 4) § 1 ods. 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
 - 5) § 15 zákona č. 596/2003 Z. z.
@@ -54,6 +50,6 @@
 
 - 23) § 5 a 7 zákona č. 279/1993 Z. z. v znení neskorších predpisov.
 
-- 24) § 13 ods. 7 písm. f) zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+- 24a) § 6 ods. 1 a § 9 ods. 1 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
