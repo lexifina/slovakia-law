@@ -130,6 +130,10 @@
 
 - Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov.
 
+- 42a) § 33 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 42b) § 57 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 43) § 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 44) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
