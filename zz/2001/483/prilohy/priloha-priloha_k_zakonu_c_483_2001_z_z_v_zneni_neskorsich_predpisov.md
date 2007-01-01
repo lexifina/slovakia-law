@@ -2,12 +2,18 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
 
 - ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
-  - 1. Smernica Európskeho parlamentu a Rady 2000/12/ES z 20. marca 2000 o zakladaní a podnikaní úverových inštitúcií (Úradný vestník Európskych spoločenstiev L 126, 26. 05. 2000) v znení smernice Európskeho parlamentu a Rady 2000/28/ES z 18. septembra 2000 (Úradný vestník Európskych spoločenstiev L 275, 27. 10. 2000) v znení smernice Európskeho parlamentu a Rady 2002/87/ES zo 16. decembra 2002 (Úradný vestník Európskych spoločenstiev L 035, 11. 02. 2003) v znení smernice Európskeho parlamentu a Rady 2002/87/ES zo 16. decembra 2002 (Úradný vestník Európskej únie L 35, 11. 02. 2003) v znení smernice Európskeho parlamentu a Rady 2004/39/ES z 21. apríla 2004 (Úradný vestník Európskej únie L 145, 30. 04. 2004) v znení smernice Komisie 2004/69/ES z 27. apríla 2004 (Úradný vestník Európskej únie L 125, 28. 04. 2004).
+  - 1. Smernica Európskeho parlamentu a Rady 2000/46/ES z 18. septembra 2000 o začatí a vykonávaní činností a dohľade nad obozretným podnikaním inštitúcií elektronického peňažníctva (Ú. v. ES L 275, 27. 10. 2000, Mimoriadne vydanie Ú. v. EÚ, 6/zv. 03).
 
-  - 2. Smernica Európskeho parlamentu a Rady 2000/46/ES z 18. septembra 2000 o zakladaní, podnikaní a o kontrole podnikania inštitúcií zaoberajúcich sa elektronickými peniazmi (Úradný vestník Európskych spoločenstiev L 275, 27. 10. 2000).
+  - 2. Smernica Európskeho parlamentu a Rady 2001/24/ES zo 4. apríla 2001 o reorganizácii a likvidácii úverových inštitúcií (Ú. v. ES L 125, 5. 5. 2001, Mimoriadne vydanie Ú. v. EÚ, 6/zv. 04).
 
-  - 3. Smernica Rady 93/6/EHS z 15. marca 1993 o kapitálovej primeranosti investičných firiem a úverových inštitúcií (Úradný vestník Európskych spoločenstiev L 141, 11. 06. 1993) v znení smernice Európskeho parlamentu a Rady 98/31/ES z 22. júna 1998 (Úradný vestník Európskych spoločenstiev L 204, 21. 07. 1998) v znení smernice Európskeho parlamentu a Rady 98/33/ES z 22. júna 1998 (Úradný vestník Európskych spoločenstiev L 270, 7. 10. 1998) v znení smernice Európskeho parlamentu a Rady 2002/87/ES zo 16. decembra 2002 (Úradný vestník Európskej únie L 035, 11. 02. 2003) v znení smernice Európskeho parlamentu a Rady 2004/39/ES z 21. apríla 2004 (Úradný vestník Európskej únie L 145, 30. 04. 2004).
+  - 3. Smernica Európskeho parlamentu a Rady 2002/87/ES zo 16. decembra 2002 o doplnkovom dohľade nad úverovými inštitúciami, poisťovňami a investičnými spoločnosťami vo finančnom konglomeráte, ktorou sa menia a dopĺňajú smernice Rady 73/239/EHS, 79/267/EHS, 92/49/EHS, 92/96/EHS, 93/6/EHS, 93/22/EHS a smernice Európskeho parlamentu a Rady 98/78/ES a 2000/12/ES (Ú. v. EÚ L 35, 11. 2. 2003, Mimoriadne vydanie Ú. v. EÚ, 6/zv. 04).
 
-  - 4. Smernica Európskeho parlamentu a Rady 2001/24/ES zo 4. apríla 2001 o reorganizácii a likvidácii úverových inštitúcií (Úradný vestník Európskych spoločenstiev L 125, 5. 05. 2001).
+  - 4. Smernica Európskeho parlamentu a Rady 2004/39/ES z 21. apríla 2004 o trhoch s finančnými nástrojmi, o zmene a doplnení smerníc Rady 85/611/EHS a 93/6/EHS a smernice Európskeho parlamentu a Rady 2000/12/ES a o zrušení smernice Rady 93/22/EHS (Ú. v. EÚ L 145, 30. 4. 2004, Mimoriadne vydanie Ú. v. EÚ, 6/zv. 07).
 
-  - 5. Smernica Európskeho parlamentu a Rady 2002/87/ES zo 16. decembra 2002 o doplňujúcom dohľade nad úverovými inštitúciami, poisťovňami a investičnými firmami vo finančnom konglomeráte, ktorou sa menia a dopĺňajú smernice Rady 73/239/EHS, 79/267/EHS, 92/49/EHS, 92/96/EHS, 93/6/EHS, 93/22/EHS a smernice Európskeho parlamentu a Rady 98/78/ES a 2000/12/ES (Úradný vestník Európskej únie L 035, 11. 02. 2003).
+  - 5. Smernica Európskeho parlamentu a Rady 2005/1/ES z 9. marca 2005, ktorou sa menia a dopĺňajú smernice Rady 73/239/EHS, 85/611/EHS, 91/675/EHS, 92/49/EHS a 93/6/EHS a smernice Európskeho parlamentu a Rady 94/19/ES, 98/78/ES, 2000/12/ES, 2001/34/ES, 2002/83/ES a 2002/87/ES s cieľom vytvoriť novú organizačnú štruktúru výborov pre finančné služby (Ú. v. EÚ L 79, 24. 3. 2005).
+
+  - 6. Smernica Európskeho parlamentu a Rady 2006/31/ES z 5. apríla 2006, ktorou sa mení a dopĺňa smernica 2004/39/ES o trhoch s finančnými nástrojmi s ohľadom na určité termíny (Ú. v. EÚ L 114, 27. 4. 2006).
+
+  - 7. Smernica Európskeho parlamentu a Rady 2006/48/ES zo 14. júna 2006 o začatí a vykonávaní činností úverových inštitúcií (prepracované znenie) (Ú. v. EÚ L 177, 30. 6. 2006).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2006/49/ES zo 14. júna 2006 o kapitálovej primeranosti investičných spoločností a úverových inštitúcií (prepracované znenie) (Ú. v. EÚ L 177, 30. 6. 2006).

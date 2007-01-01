@@ -2,7 +2,7 @@
 
 (1) Národná banka Slovenska prerokuje žiadosť o udelenie bankového povolenia s orgánom
 
-- a) bankového dohľadu členského štátu, v ktorom má zahraničná banka sídlo, ak ide o udelenie bankového povolenia podľa § 7 ods. 8 písm. a) až c),
+- a) dohľadu členského štátu, v ktorom má zahraničná banka sídlo, ak ide o udelenie bankového povolenia podľa § 7 ods. 8 písm. a) až c),
 
 - b) dohľadu členského štátu, ktorý je zodpovedný za dohľad nad poisťovňami alebo obchodníkmi s cennými papiermi a v ktorom má zahraničná poisťovňa alebo zahraničný obchodník s cennými papiermi sídlo, ak ide o udelenie bankového povolenia podľa § 7 ods. 8 písm. d) až f).
 

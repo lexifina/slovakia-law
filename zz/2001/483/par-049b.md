@@ -8,7 +8,7 @@ Na účely tohto zákona sa rozumie
 
     - 1a. je ovládaná regulovanou osobou,
 
-    - 1b. regulovaná osoba podľa bodu 1a je materskou spoločnosťou osoby vo finančnom sektore alebo je osobou, ktorá má majetkovú účasť podľa § 44 ods. 5 písm. m) na osobe vo finančnom sektore, alebo je osobou prepojenou s osobou vo finančnom sektore vzťahom ovládania podľa § 44 ods. 5 písm. l) tretieho bodu,
+    - 1b. regulovaná osoba podľa bodu 1a je materskou spoločnosťou osoby vo finančnom sektore alebo je osobou, ktorá má majetkovú účasť podľa § 44 ods. 5 písm. m) na osobe vo finančnom sektore, alebo je osobou prepojenou s osobou vo finančnom sektore vzťahom ovládania podľa § 49b písm. d) tretieho bodu,
 
     - 1c. aspoň jedna z osôb v skupine je zo sektora poisťovníctva a aspoň jedna z bankového sektora alebo zo sektora investičných služieb a
 
@@ -36,4 +36,12 @@ Na účely tohto zákona sa rozumie
 
   - 4. zmiešaná finančná holdingová spoločnosť,
 
-- c) skupinou skupina osôb navzájom prepojených vzťahom ovládania podľa § 44 ods. 5 písm. l).
+- c) skupinou skupina osôb navzájom prepojených vzťahom ovládania podľa § 44 ods. 5 písm. l),
+
+- d) ovládaním vzťah, ak
+
+  - 1. jedna osoba kontroluje inú osobu,
+
+  - 2. jedna osoba má majetkovú účasť v inej osobe alebo
+
+  - 3. osoby sú navzájom prepojené vzťahom vyjadrujúcim vplyv na riadení porovnateľný s vplyvom zodpovedajúcim majetkovej účasti alebo cez väčšinu tých istých osôb v štatutárnych orgánoch alebo dozorných orgánoch dvoch alebo viacerých osôb.

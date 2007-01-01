@@ -36,7 +36,7 @@
 
 - § 67 až 71 zákona č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z.
 
-- 15a) § 37 a 37a zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+- 15a) § 6 až 11 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15b) Zákon č. 96/2002 Z. z. v znení zákona č. 43/2004 Z. z.
 
@@ -70,8 +70,6 @@
 
 - 25) § 173 a 174 Obchodného zákonníka.
 
-- 26) Napríklad § 497 až 507 a § 708 až 719 Obchodného zákonníka, § 778 až 787 Občianskeho zákonníka.
-
 - 26a) § 2 ods. 2 a § 23 Obchodného zákonníka.
 
 - 26b) § 2 zákona č. 429/2002 Z. z.
@@ -89,6 +87,12 @@
 - 30b) § 31 ods. 5 písm. b) a § 61 zákona č. 510/2002 Z. z.
 
 - 30c) Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+
+- 30d) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 o uplatňovaní medzinárodných účtovných noriem.
+
+- 30e) Napríklad zákon č. 619/2003 Z. z. o Slovenskom rozhlase, zákon č. 16/2004 Z. z. o Slovenskej televízii.
 
 - 31) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
@@ -156,6 +160,10 @@
 
 - 52) § 3 až 107 a § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
+- 52a) § 180 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 151me Občianskeho zákonníka.
+
 - 53) § 42a a 42b Občianskeho zákonníka.
 
 - 54) § 31 ods. 4 Obchodného zákonníka.
@@ -214,6 +222,8 @@
 
 - 74) Zákon č. 367/2000 Z. z.
 
+- 74a) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+
 - 75) § 2 ods. 2 Obchodného zákonníka.
 
 - 76) § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
@@ -242,7 +252,7 @@
 
 - 83) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 84) § 2 ods. 1 písm. b) a c) a § 29a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 84) § 2 ods. 1 písm. b), c) a l) a § 29a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 85) Napríklad § 5 a 6 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, § 5 a § 10 ods. 8 zákona č. 460/2002 Z. z. o vykonávaní medzinárodných sankcií zabezpečujúcich medzinárodný mier a bezpečnosť.
 
