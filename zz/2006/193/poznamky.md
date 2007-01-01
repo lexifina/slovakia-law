@@ -1,6 +1,8 @@
 - 1) § 1 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek.
 
-- 2) § 8 ods. 10 a 17 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+- 1a) Príloha č. 1 časť B prvý bod zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
+- 2) § 8 ods. 10 a 17 zákona č. 725/2004 Z. z.
 
 - 3) § 5 ods. 11 a 20, § 6 ods. 7 a 10 a § 7 ods. 9 a 13 zákona č. 725/2004 Z. z.
 
