@@ -876,6 +876,234 @@ Zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákon
 
 - Colný úrad môže v odôvodnených prípadoch povoliť iný spôsob vedenia evidencie, ako je uvedený v odseku 4.“.
 
+- 92. § 44 vrátane nadpisu znie:
+
+- „§ 44
+
+- Povolenie na predaj spotrebiteľského balenia v daňovom voľnom obehu
+
+- (1)
+
+- Právnická osoba alebo fyzická osoba, ktorá chce v rámci podnikateľskej činnosti na daňovom území predávať v daňovom voľnom obehu lieh uvedený v § 4 ods. 2 písm. a) v spotrebiteľskom balení, musí mať povolenie na predaj spotrebiteľského balenia v daňovom voľnom obehu (ďalej len „povolenie na predaj"), ak tento zákon neustanovuje inak; taká právnická osoba alebo fyzická osoba musí písomne požiadať colný úrad o vydanie povolenia na predaj.
+
+- (2)
+
+- Povinnosť podľa odseku 1 sa nevzťahuje na právnickú osobu alebo fyzickú osobu registrovanú colným úradom podľa § 23, 27, 28, 37 a § 37a, ktorá vykonáva len činnosť súvisiacu s prevádzkovaním daňového skladu, prijímaním liehu z iného členského štátu v pozastavení dane, so zabezpečovaním dodávok liehu v mene prevádzkovateľa daňového skladu so sídlom v inom členskom štáte, s prevádzkovaním tranzitného daňového skladu alebo daňového skladu pre zahraničných zástupcov (ďalej len „registrovaná osoba").
+
+- (3)
+
+- Za predaj spotrebiteľského balenia v daňovom voľnom obehu v rámci podnikateľskej činnosti sa na účely tohto zákona považuje predaj alebo iný výdaj spotrebiteľského balenia iným prevádzkovateľom živností<sup>42a</sup>) (veľkoobchod), alebo predaj alebo iný výdaj spotrebiteľského balenia konečnému spotrebiteľovi (maloobchod), alebo predaj alebo iný výdaj zo spotrebiteľského balenia konečnému spotrebiteľovi (maloobchod). Za predaj spotrebiteľského balenia v daňovom voľnom obehu sa považuje aj ponúkanie spotrebiteľského balenia na predaj.
+
+- (4)
+
+- Žiadosť o vydanie povolenia na predaj musí obsahovať
+
+- a)
+
+- identifikačné údaje žiadateľa a adresu umiestnenia jeho prevádzkarne, ak nie je totožná so sídlom alebo s trvalým pobytom žiadateľa,
+
+- b)
+
+- identifikačné číslo pre daň z pridanej hodnoty, ak bolo žiadateľovi pridelené,
+
+- c)
+
+- daňové identifikačné číslo žiadateľa.
+
+- (5)
+
+- Prílohami k žiadosti sú
+
+- a)
+
+- výpis z obchodného registra alebo zo živnostenského registra nie starší ako 30 dní alebo jeho osvedčená kópia,
+
+- b)
+
+- zoznam dodávateľov spotrebiteľského balenia s uvedením ich identifikačných údajov,
+
+- c)
+
+- zoznam odberateľov spotrebiteľského balenia s uvedením ich identifikačných údajov s výnimkou odberateľov spotrebiteľského balenia, ktorými sú koneční spotrebitelia,
+
+- d)
+
+- výpis z registra trestov žiadateľa alebo jeho zodpovedného zástupcu, ak je žiadateľom fyzická osoba, a ak je žiadateľom právnická osoba, výpis z registra trestov zodpovedného zástupcu a fyzických osôb, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov; výpis z registra trestov nesmie byť starší ako 30 dní.
+
+- (6)
+
+- Žiadateľ musí spĺňať tieto podmienky:
+
+- a)
+
+- má živnostenské oprávnenie,<sup>42a</sup>)
+
+- b)
+
+- nebol právoplatne odsúdený za úmyselný trestný čin; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
+
+- c)
+
+- nebolo mu počas obdobia desiatich rokov, podľa odseku 15 písm. a) až d), odňaté povolenie na predaj spotrebiteľského balenia v daňovom voľnom obehu,
+
+- d)
+
+- nie je v likvidácii ani na neho nie je právoplatne vyhlásený konkurz.
+
+- (7)
+
+- Colný úrad vydá povolenie na predaj do 30 dní odo dňa podania žiadosti, ak žiadateľ k žiadosti priložil doklady podľa odseku 5 a splnil podmienky podľa odseku 6. Ak žiadateľ k žiadosti o vydanie povolenia na predaj nepriložil všetky doklady podľa odseku 5 alebo nesplnil všetky podmienky podľa odseku 6, colný úrad vyzve žiadateľa, aby nedostatky v lehote do 15 dní odstránil a vydá žiadateľovi povolenie na predaj do 15 dní odo dňa odstránenia nedostatkov. Ak žiadateľ v určenej lehote neodstráni nedostatky, colný úrad žiadosť zamietne a konanie zastaví.
+
+- (8)
+
+- Právnická osoba alebo fyzická osoba, ktorej colný úrad vydal povolenie na predaj (ďalej len „držiteľ povolenia na predaj"), je povinná každú zmenu skutočností a údajov podľa odseku 4 písm. a) a podľa odseku 5 písm. b) a c) oznámiť colnému úradu do 15 dní odo dňa ich vzniku. Zmenu údajov podľa odseku 5 písm. a) je držiteľ povolenia na predaj povinný oznámiť colnému úradu do 15 dní odo dňa podania návrhu na zmenu údajov príslušnému orgánu.
+
+- (9)
+
+- Colné riaditeľstvo vedie elektronickú databázu údajov, ktorá obsahuje evidenciu vydaných povolení na predaj, v ktorej sa uvádzajú
+
+- a)
+
+- identifikačné údaje držiteľa povolenia na predaj, adresy jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom držiteľa povolenia na predaj,
+
+- b)
+
+- číslo povolenia na predaj,
+
+- c)
+
+- dátum vydania povolenia na predaj,
+
+- d)
+
+- dátum odňatia povolenia na predaj.
+
+- (10)
+
+- Colné riaditeľstvo zverejňuje na internetovej stránke zoznam povolení na predaj, v ktorom uvedie údaje podľa odseku 9.
+
+- (11)
+
+- Držiteľ povolenia na predaj je povinný
+
+- a)
+
+- nakupovať spotrebiteľské balenie len od držiteľa povolenia na predaj alebo od registrovanej osoby, ak tento zákon neustanovuje inak,
+
+- b)
+
+- predložiť na požiadanie colného úradu doklady preukazujúce spôsob nadobudnutia spotrebiteľského balenia,
+
+- c)
+
+- viesť evidenciu podľa odseku 12,
+
+- d)
+
+- skladovať v prevádzkarni len spotrebiteľské balenie určené na predaj v rámci podnikateľskej činnosti.
+
+- (12)
+
+- Držiteľ povolenia na predaj je povinný za každú prevádzkareň viesť evidenciu podľa účtovných dokladov, v ktorej uvedie obchodný názov spotrebiteľského balenia, objem spotrebiteľského balenia v litroch, objemovú koncentráciu liehu a
+
+- a)
+
+- počet prijatých spotrebiteľských balení v kusoch a množstvo liehu v l a., identifikačné údaje dodávateľa spotrebiteľského balenia a jeho číslo povolenia na predaj alebo registračné číslo, v členení na príjem z maloobchodu alebo veľkoobchodu,
+
+- b)
+
+- počet vydaných spotrebiteľských balení v kusoch a množstvo liehu v l a., a to v členení podľa identifikačných údajov a čísla povolenia na predaj alebo registračného čísla, ak je známy odberateľ spotrebiteľského balenia, a počet spotrebiteľských balení v kusoch a množstvo liehu v l a. vydaných ostatným odberateľom spotrebiteľského balenia,
+
+- c)
+
+- stav zásob spotrebiteľských balení v kusoch a množstvo liehu v l a. k poslednému dňu kalendárneho mesiaca; ak zistí rozdiel medzi počtom prijatých spotrebiteľských balení a počtom vydaných spotrebiteľských balení, uvedie dôvod tohto rozdielu.
+
+- (13)
+
+- Registrovaná osoba je povinná predávať spotrebiteľské balenie v daňovom voľnom obehu len držiteľovi povolenia na predaj alebo registrovanej osobe, ak tento zákon neustanovuje inak.
+
+- (14)
+
+- Povolenie na predaj zaniká dňom
+
+- a)
+
+- úmrtia fyzickej osoby alebo dňom nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení fyzickej osoby za mŕtvu, ak nepokračujú v živnosti dedičia alebo súdom ustanovený správca dedičstva,
+
+- b)
+
+- zániku živnostenského oprávnenia,<sup>42b</sup>)
+
+- c)
+
+- nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení konkurzu,
+
+- d)
+
+- nadobudnutia právoplatnosti rozhodnutia o odňatí povolenia na predaj.
+
+- (15)
+
+- Colný úrad povolenie na predaj odníme, ak držiteľ povolenia na predaj
+
+- a)
+
+- prestal spĺňať podmienku uvedenú v odseku 6 písm. b),
+
+- b)
+
+- vstúpi do likvidácie,
+
+- c)
+
+- nepreukáže pôvod alebo spôsob nadobudnutia spotrebiteľského balenia, ktoré sa u neho nachádza alebo ktoré sa u neho nachádzalo, v súlade s týmto zákonom,
+
+- d)
+
+- nedodržiava povinnosti podľa odseku 11 písm. c) a d) a výzvy colného úradu a ani uloženie pokuty neviedli k náprave,
+
+- e)
+
+- požiada o odňatie povolenia na predaj.
+
+- (16)
+
+- Ak držiteľovi povolenia na predaj zaniklo povolenie na predaj podľa odseku 14, môže zásoby spotrebiteľského balenia predať s písomným súhlasom colného úradu len držiteľovi povolenia alebo registrovanej osobe, pričom sa § 47 ods. 19 a odsek 20 písm. a) nepoužijú. Rovnako postupuje aj správca konkurznej podstaty alebo súdny exekútor, alebo iná osoba, ak pri výkone rozhodnutia predávajú spotrebiteľské balenie.
+
+- (17)
+
+- Ak registrovanej osobe colný úrad odňal povolenie na prevádzkovanie daňového skladu, povolenie prijímať lieh z iného členského štátu v pozastavení dane, zrušil registráciu daňového splnomocnenca, odňal povolenie na prevádzkovanie tranzitného daňového skladu alebo povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov, môže zásoby spotrebiteľského balenia s písomným súhlasom colného úradu predať len držiteľovi povolenia alebo registrovanej osobe, pričom sa § 47 ods. 19 a odsek 20 písm. a) nepoužijú. Rovnako postupuje aj správca konkurznej podstaty alebo súdny exekútor, alebo iná osoba, ak pri výkone rozhodnutia predávajú spotrebiteľské balenie.
+
+- (18)
+
+- Držiteľ povolenia na predaj je povinný z evidencie podľa odseku 12 oznamovať colnému úradu najneskôr 25. deň kalendárneho mesiaca nasledujúceho po mesiaci, za ktorý údaje oznamuje,
+
+- a)
+
+- množstvo prijatého liehu v spotrebiteľských baleniach v l a., a to v členení podľa čísla povolenia na predaj alebo podľa registračného čísla dodávateľa spotrebiteľského balenia, ktorým je maloobchod, a podľa čísla povolenia na predaj alebo registračného čísla dodávateľa spotrebiteľského balenia, ktorým je veľkoobchod,
+
+- b)
+
+- množstvo vydaného liehu v spotrebiteľských baleniach v l a., a to v členení podľa čísla povolenia na predaj alebo podľa registračného čísla, ak je známy odberateľ spotrebiteľského balenia, a množstvo vydaného liehu v spotrebiteľských baleniach v l a. ostatným odberateľom spotrebiteľského balenia,
+
+- c)
+
+- stav zásob liehu v spotrebiteľských baleniach v l a. k poslednému dňu kalendárneho mesiaca.
+
+- (19)
+
+- Držiteľ povolenia na predaj oznamuje údaje podľa odseku 18 za kalendárny mesiac na tlačive, ktorého vzor ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo. Po dohode s colným úradom možno údaje oznamovať elektronicky, pričom zaručený elektronický podpis sa nevyžaduje.“.
+
+- Poznámky pod čiarou k odkazom 42a a 42b znejú:
+
+- „42a)
+
+- § 33 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 42b)
+
+- § 57 zákona č. 455/1991 Zb. v znení neskorších predpisov.“.
+
 - 93. V § 45 ods. 1 sa za slová „pohybom liehu“ vkladá čiarka a slová „tlačou a distribúciou kontrolných známok“.
 
 - 94. V § 45 odsek 7 znie:
@@ -1331,6 +1559,12 @@ Zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákon
 - (19)
 
 - Ak konanie o uložení pokuty za porušenie oznamovacej povinnosti podľa § 44 zákona v znení účinnom k 30. júnu 2006 nebolo právoplatne ukončené k 30. júnu 2006, v konaní sa nepokračuje.“.
+
+- 105. Za § 52a sa vkladá § 52b, ktorý znie:
+
+- „§ 52b
+
+- Zrušuje sa vyhláška Ministerstva financií Slovenskej republiky č. 573/2004 Z. z., ktorou sa ustanovujú vzory tlačív oznámení o výrobe, príjme, výdaji a stave zásob liehu.“.
 
 - 106. Príloha č. 1 znie:
 
