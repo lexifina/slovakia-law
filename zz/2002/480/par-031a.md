@@ -2,7 +2,7 @@
 
 Ministerstvo na účel zlúčenia rodiny poskytne dočasné útočisko
 
-- a) manželovi odídenca, ak manželstvo trvá v štáte, ktorý odídenec opustil z dôvodov podľa § 29 ods. 1 a odídenec s tým vopred písomne súhlasí,
+- a) manželovi odídenca, ak manželstvo trvá a trvalo aj v čase, keď cudzinec odišiel z krajiny pôvodu a odídenec so zlúčením vopred písomne súhlasí,
 
 - b) slobodným deťom odídenca a slobodným deťom manžela odídenca do 18 rokov ich veku,
 
