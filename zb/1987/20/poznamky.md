@@ -1,7 +1,3 @@
-- 1) Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon).
-
-- 3) § 100 písm. b) stavebního zákona.
-
 - 6) § 4 a 5 vyhlášky č. 90/1984 Sb., o správě národního majetku.
 
 - 7) § 32 až 42 stavebního zákona.
@@ -14,13 +10,7 @@
 
 - 11) § 20 odst. 1 písm. c), § 24 odst. 4, § 36 až 39 a § 43 vyhlášky č. 5/1987 Sb., o dokumentaci staveb.
 
-- 12) Zákon č. 184/2006 Sb., o odnětí nebo omezení vlastnického práva k pozemku nebo ke stavbě (zákon o vyvlastnění).
-
 - 13) § 86 a 87 a § 94 stavebního zákona.
-
-- 14) § 32 písm. c) a § 33 odst. 2 stavebního zákona.
-
-- 15) § 108 odst. 2 písm. e) stavebního zákona.
 
 - 16) Úmluva UNESCO o opatřeních k zákazu a zamezení nedovoleného dovozu, vývozu a převodu vlastnictví kulturních statků z roku 1970 (vyhláška č. 15/1980 Sb.).
 
@@ -29,12 +19,6 @@
 - Celní zákon č. 44/1974 Sb.
 
 - Zákon č. 42/1980 Sb., o hospodářských stycích se zahraničím.
-
-- 18) § 127 stavebního zákona.
-
-- 19) Například zákon č. 183/2006 Sb.
-
-- 20) § 99 písm. b) a § 102 odst. 5 stavebního zákona.
 
 - 21) § 65 zákona o národních výborech.
 
