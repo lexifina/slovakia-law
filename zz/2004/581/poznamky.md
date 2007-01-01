@@ -40,6 +40,24 @@
 
 - 18) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 18a) § 26 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 18b) § 19 ods. 12 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 18c) § 27 ods. 9 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 18d) § 27a ods. 10 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 18e) § 20 ods. 17 zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 660/2005 Z. z.
+
+- 18f) § 16 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 18g) § 19 ods. 11 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 18h) § 18 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 18i) § 10a zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
 - 19) § 5 zákona č. 578/2004 Z. z.
 
 - 20) § 7 ods. 1 písm. a) prvý bod a § 8 ods. 2 zákona č. 576/2004 Z. z.
@@ -49,6 +67,8 @@
 - 22) § 7 ods. 1 písm. c) a § 10 zákona č. 576/2004 Z. z.
 
 - 24) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+
+- 24a) § 78b a 78c zákona č. 578/2004 Z. z. v znení zákona č. 538/2005 Z. z.
 
 - 25) Zákon č. 577/2004 Z. z.
 
