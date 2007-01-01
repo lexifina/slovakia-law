@@ -10,6 +10,22 @@ Zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kance
 
 - Tento zákon upravuje spôsob organizovania zájazdov a niektoré podmienky podnikania cestovných kancelárií a cestovných agentúr.“.
 
+- 2. V § 2 ods. 1 sa vypúšťajú slová „a zorganizovaná“.
+
+- 3. V § 2 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Za vopred pripravenú kombináciu služieb sa považuje kombinácia služieb pripravená najneskôr v momente uzavretia zmluvy.“.
+
+- Doterajšie odseky 2 až 4 sa označujú ako odseky 3 až 5.
+
+- 4. V § 2 ods. 3 sa slovo „zorganizovaný“ nahrádza slovom „pripravený“.
+
+- 5. V § 2 ods. 4 sa vypúšťa písmeno a).
+
+- Doterajšie písmená b) a c) sa označujú ako písmená a) a b).
+
 - 6. V § 3 sa odsek 2 dopĺňa písmenami f) a g), ktoré znejú:
 
 - „f)
@@ -21,6 +37,8 @@ Zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kance
 - poskytuje činnosť sprievodcu v cestovnom ruchu.“.
 
 - 7. V poznámke pod čiarou k odkazu 3 sa citácia „§ 741a až 741k Občianskeho zákonníka v znení neskorších predpisov.“ nahrádza citáciou „§ 52 až 60 a § 741a až 741k Občianskeho zákonníka.“.
+
+- 8. V § 4 ods. 1 sa na konci pripájajú tieto slová: „okrem predaja kombinácie služieb“.
 
 - 9. Za § 5 sa vkladá § 5a, ktorý vrátane nadpisu znie:
 
