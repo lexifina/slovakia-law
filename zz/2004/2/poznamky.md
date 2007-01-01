@@ -12,10 +12,12 @@
 
 - 11) § 36 ods. 2 zákona č. 279/1993 Z. z.
 
-- 12) § 6 ods. 2 a 3 zákona č. 279/1993 Z. z.
+- 12) § 6 ods. 2 zákona č. 279/1993 Z. z.
 
-- 13) § 26 ods. 2 zákona č. 279/1993 Z. z.
+- 12a) § 4 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 43/1996 Z. z. o podrobnostiach o výchovnom poradenstve a o poradenských zariadeniach.
 
-- 14) § 8 zákona č. 279/1993 Z. z.
+- 12b) § 5 ods. 6 písm. a) zákona č. 596/2003 Z. z.
 
 - 15) § 35 zákona č. 596/2003 Z. z.
+
+- 16) § 19 ods. 2 písm. d) a e) zákona č. 596/2003 Z. z.
