@@ -1,5 +1,5 @@
-Príloha č. 2 vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z.
+Príloha č. 2 k vyhláške č. 55/1994 Z. z.
 
 DENNÝ VÝKAZ OBRATOV PLATITEĽA DANE Z PRIDANEJ HODNOTY
 
-[Vzor 02](../assets/4f6edab4aee04aaf6d644319422a553e463396c508204fa0ff2b4c53b12c0e3d.pdf)
+[Vzor 02](../assets/8a5aafc18973c2828892d4dbe1fa66538ac7df969a862aff0aa43a7f01d5ba3f.pdf)

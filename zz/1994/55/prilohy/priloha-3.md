@@ -1,5 +1,5 @@
-Príloha č. 3 vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z.
+Príloha č. 3 k vyhláške č. 55/1994 Z. z.
 
-MESAČNÝ VÝKAZ OBRATOV PLATITEĽA DANE Z PRIDANEJ HODNOTY
+MESAČNÝ VÝKAZ OBRATOV PLATITEĽ A DANE Z PRIDANEJ HODNOTY
 
-[Vzor 03](../assets/fd3e0fa44452ccde26019822a91f24f6a75b11c9bb94c6d6f53330fb5df57aae.pdf)
+[Vzor 03](../assets/31c15f655215bf5f2d856d435c6c17fb4726ec3a28efb0974560a538834f20a4.pdf)
