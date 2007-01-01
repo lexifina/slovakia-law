@@ -218,6 +218,8 @@ Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení
 
 - 29. V § 64 ods. 4 prvá veta a druhá veta znejú: „Fyzická osoba uvedená v § 14 ods. 1 je povinná uzatvoriť zmluvu o starobnom dôchodkovom sporení do 30 dní odo dňa, v ktorom nastala skutočnosť podmieňujúca vznik prvej účasti na starobnom dôchodkovom sporení. Ak fyzická osoba podľa prvej vety neuzatvorí zmluvu o starobnom dôchodkovom sporení v lehote podľa prvej vety, Sociálna poisťovňa určí dôchodkovú správcovskú spoločnosť, v ktorej vznikne tejto fyzickej osobe prvá účasť na starobnom dôchodkovom sporení.".
 
+- 30. V § 64 ods. 5 sa na konci pripája táto veta: „Dôchodková správcovská spoločnosť zodpovedá za škodu spôsobenú pri činnosti, ktorá súvisí s uzatváraním zmluvy o starobnom dôchodkovom sporení.".
+
 - 31. V § 64 odsek 7 znie:
 
 - „(7)
@@ -253,6 +255,10 @@ Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení
 - Sociálna poisťovňa je povinná bez zbytočného odkladu po zápise zmluvy o starobnom dôchodkovom sporení uzatvorenej s dôchodkovou správcovskou spoločnosťou, do ktorej sporiteľ prestupuje, informovať o tomto zápise dôchodkovú správcovskú spoločnosť, z ktorej sporiteľ prestupuje, a dôchodkovú správcovskú spoločnosť, do ktorej sporiteľ prestupuje.“.
 
 - 36. V § 64b sa vypúšťa odsek 5.
+
+- 37. V § 65 ods. 4 sa vypúšťa druhá veta.
+
+- 38. V § 65 ods. 5 sa vypúšťa druhá veta.
 
 - 39. V § 67 ods. 1 prvej vete sa za slová „§ 47 ods. 2 písm. a) a b)" vkladajú slová „prvom, štvrtom, piatom, siedmom, jedenástom a".
 
@@ -292,6 +298,10 @@ Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení
 
 - 52. V § 99 ods. 4 prvej vete sa vypúšťajú slová „a správu" a na konci sa pripája veta, ktorá znie: „Depozitár a osoba, ktorej bola zverená úschova zahraničných cenných papierov, sú povinní viesť úschovu týchto cenných papierov vždy oddelene od ostatného majetku a spôsobom, ktorý zabezpečí ochranu práv sporiteľov podľa § 74.".
 
+- 53. V § 107 sa vypúšťa odsek 4.
+
+- Doterajší odsek 5 sa označuje ako odsek 4.
+
 - 54. V § 109 sa odsek 1 dopĺňa písmenom d), ktoré znie:
 
 - „d)
@@ -299,6 +309,28 @@ Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení
 - najneskôr do jedného mesiaca po skončení kalendárneho štvrťroka priebežnú účtovnú závierku vyhotovenú k poslednému dňu kalendárneho štvrťroka.“.
 
 - 55. V § 110 ods. 3 sa slovo „denne" nahrádza slovami „každý pracovný deň" a za slová „v dôchodkovom fonde" sa vkladajú slová „a o stave majetku v dôchodkovom fonde".
+
+- 56. Nadpis deviatej časti znie:
+
+- „PROPAGAČNÁ ČINNOSŤ A REKLAMA“.
+
+- 57. § 111 sa vypúšťa.
+
+- 58. Nadpis § 112 sa vypúšťa.
+
+- 59. V § 113 sa vypúšťa odsek 7.
+
+- Doterajšie odseky 8 až 10 sa označujú ako odseky 7 až 9.
+
+- 60. V § 114 ods. 1 sa vypúšťa písmeno d).
+
+- Doterajšie písmená e) až j) sa označujú ako písmená d) až i).
+
+- 61. V § 114 ods. 1 písm. g) sa za slovami „dôchodková správcovská spoločnosť" vypúšťa čiarka a slová „depozitár alebo sprostredkovateľ" sa nahrádzajú slovami „a depozitár".
+
+- 62. V § 115 ods. 1 sa vypúšťa písmeno q).
+
+- Doterajšie písmeno r) sa označuje ako písmeno q).
 
 - 63. V § 115 ods. 3 sa slová „písm. o)" nahrádzajú slovami „písm. n)".
 
