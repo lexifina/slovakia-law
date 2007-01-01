@@ -124,6 +124,10 @@
 
 - 50) § 21 a 28 ods. 3 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
+- 50a) Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
+
+- 50b) § 10 ods. 5 zákona č. 340/2005 Z. z.
+
 - 51) § 27 ods. 5 Zákonníka práce v znení neskorších predpisov.
 
 - 52) § 30 zákona č. 328/1991 Zb. v znení neskorších predpisov.
@@ -156,9 +160,11 @@
 
 - 58h) § 23 a 55 zákona č. 428/2002 Z. z.
 
-- 58i) § 31 ods. 7 zákona č. 483/2001 Z. z.
+- 58i) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 58j) Opatrenie Národnej banky Slovenska z 12. decembra 2002 č. 8/2002 o majetkovej angažovanosti bánk (oznámenie č. 697/2002 Z. z.).
+- 58j) § 31 až 33d zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 58k) § 39 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 59) § 17 až 20 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
@@ -167,6 +173,8 @@
 - 60a) § 19 ods. 1 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
 - 61) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+
+- 61a) § 2 Obchodného zákonníka.
 
 - 62) Zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
 
@@ -266,15 +274,15 @@
 
 - 98) § 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 99) § 850 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+- 99) § 276 až 279 Obchodného zákonníka.
 
-- 100) Napr. § 160 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+- 100) § 187 ods. 2 Obchodného zákonníka.
 
-- 101) § 66a Obchodného zákonníka v znení zákona č. 127/1999 Z. z.
+- 101) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
-- 102) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
+- 102) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
-- 102a) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+- 102a) § 4 ods. 6 zákona č. 594/2003 Z. z. o kolektívnom investovaní.
 
 - 102b) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
@@ -305,6 +313,12 @@
 - 108a) Zákon č. 428/2002 Z. z.
 
 - 109) Občiansky súdny poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
+
+- 109a) § 44 až 49 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 109b) § 33c zákona č. 483/2001 Z. z.
+
+- 109c) § 29 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 110) § 13 zákona č. 329/2000 Z. z.
 

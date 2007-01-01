@@ -2,4 +2,4 @@
 
 # § 143a
 
-Doplňujúcim dohľadom je sledovanie a regulácia rizík finančných konglomerátov, ktorých súčasťou sú obchodníci s cennými papiermi, banky, inštitúcie elektronických peňazí,<sup>15</sup>) poisťovne, zaisťovne alebo správcovské spoločnosti, na účely obmedzenia rizík, ktorým sú obchodník s cennými papiermi alebo iná regulovaná osoba vystavené z dôvodu ich účasti vo finančnom konglomeráte.
+Doplňujúcim dohľadom je sledovanie a regulácia rizík finančných konglomerátov, ktorých súčasťou sú obchodníci s cennými papiermi, úverové inštitúcie,<sup>15</sup>) poisťovne, zaisťovne alebo správcovské spoločnosti, na účely obmedzenia rizík, ktorým sú obchodník s cennými papiermi alebo iná regulovaná osoba vystavené z dôvodu ich účasti vo finančnom konglomeráte.

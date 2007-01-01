@@ -8,7 +8,7 @@ Na účely tohto zákona sa rozumie
 
     - 1a. je ovládaná regulovanou osobou,
 
-    - 1b. regulovaná osoba podľa bodu 1a je materskou spoločnosťou osoby vo finančnom sektore alebo je osobou, ktorá má majetkovú účasť podľa § 8 písm. l) na osobe vo finančnom sektore, alebo je osobou prepojenou s osobou vo finančnom sektore vzťahom ovládania podľa § 138 ods. 5 písm. n) tretieho bodu,
+    - 1b. regulovaná osoba podľa bodu 1a je materskou spoločnosťou osoby vo finančnom sektore alebo je osobou, ktorá má majetkovú účasť podľa § 8 písm. l) na osobe vo finančnom sektore, alebo je osobou prepojenou s osobou vo finančnom sektore vzťahom ovládania podľa § 143b písm. d) tretieho bodu,
 
     - 1c. aspoň jedna z osôb v skupine je zo sektora poisťovníctva a aspoň jedna z bankového sektora alebo zo sektora investičných služieb a
 
@@ -28,7 +28,7 @@ Na účely tohto zákona sa rozumie
 
 - b) finančným sektorom sektor, v ktorom pôsobí jedna alebo viaceré z týchto právnických osôb:
 
-  - 1. banka, inštitúcia elektronických peňazí, iná právnická osoba ako banka, ktorá v rámci svojho podnikania vykonáva ako svoju rozhodujúcu alebo podstatnú činnosť niektorú z činností uvedených v osobitnom zákone<sup>110a</sup>) alebo ktorej hlavným predmetom podnikania je nadobúdanie podielov na majetku podľa osobitného zákona,<sup>110b</sup>) ako aj akýkoľvek subjekt so sídlom v zahraničí s obdobným predmetom činnosti alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
+  - 1. úverová inštitúcia, iná právnická osoba ako banka, ktorá v rámci svojho podnikania vykonáva ako svoju rozhodujúcu alebo podstatnú činnosť niektorú z činností uvedených v osobitnom zákone<sup>110a</sup>) alebo ktorej hlavným predmetom podnikania je nadobúdanie podielov na majetku podľa osobitného zákona,<sup>110b</sup>) ako aj akýkoľvek subjekt so sídlom v zahraničí s obdobným predmetom činnosti alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
 
   - 2. poisťovňa, zaisťovňa alebo právnická osoba kontrolujúca finančný konsolidovaný celok podľa osobitného zákona;<sup>23</sup>) tieto tvoria sektor poisťovníctva,
 
@@ -36,4 +36,14 @@ Na účely tohto zákona sa rozumie
 
   - 4. zmiešaná finančná holdingová spoločnosť,
 
-- c) skupinou skupina osôb navzájom prepojených vzťahom ovládania podľa § 138 ods. 5 písm. n).
+- c) skupinou skupina osôb navzájom prepojených vzťahom ovládania podľa písmena d),
+
+- d) ovládaním sa na účely doplňujúceho dohľadu rozumie vzťah v skupine osôb, v ktorej
+
+  - 1. jedna osoba kontroluje inú osobu,
+
+  - 2. jedna osoba má majetkovú účasť v inej osobe alebo
+
+  - 3. osoby sú navzájom prepojené vzťahom vyjadrujúcim vplyv na riadení porovnateľný s vplyvom zodpovedajúcim majetkovej účasti alebo cez väčšinu tých istých osôb v štatutárnych orgánoch alebo dozorných orgánoch dvoch alebo viacerých osôb,
+
+- e) regulovanou osobou obchodník s cennými papiermi, banka, inštitúcia elektronických peňazí, poisťovňa, správcovská spoločnosť a rovnaká zahraničná osoba.
