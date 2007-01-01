@@ -1,9 +1,9 @@
-Príloha č. 3 k vyhláške č. 645/2005 Z. z.
+Príloha č. 3 k vyhláške č. 734/2004 Z. z.
 
-- VZORY NÁLEPIEK s mesačnou platnosťou
+- VZORY NÁLEPIEK s mesačnou dobou platnosti
 
-- ![Obrázok 03-1](../assets/bbb3346c888f71ac4818dffc3ea76a3dc675fc5bfd0cb071540ea8623c7560b7.jpg)
+- ![Obrázok 03-1](../assets/aab5815496e45e9f476dd76ff34b99c3e1b71eb9230e062b6445811389553e54.png)
 
-- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s mesačnou platnosťou
+- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s mesačnou dobou platnoti
 
-- ![Obrázok 03-2](../assets/4acdc948ee02f1a04b45f7a68dfc6a3afab57ab70cfce73ecd3e3b85b5fb0150.jpg)
+- ![Obrázok 03-2](../assets/df22679006a8f481b6fdc47cde4dd8102149f1e19e4848a98d078581141da129.png)
