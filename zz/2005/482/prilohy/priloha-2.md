@@ -1,6 +1,6 @@
 Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
-- ŠTATISTICKÉ ZISOVANIA ORGANIZOVANÉ A VYKONÁVANÉ MINISTERSTVAMI A OSTATNÝMI ÚSTREDNÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY A NIMI ZRIADENÝMI ORGANIZÁCIAMI A INÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY ZRIADENÝMI PODĽA OSOBITNÝCH PREDPISOV V ROKOCH 2006 AŽ 2008 [Prehľad zisťovaní](../assets/1c97d2349cc26132bd3e9ccc20134cc88ed220336c7664240c1a6a2c4993ef7a.pdf)
+- ŠTATISTICKÉ ZISOVANIA ORGANIZOVANÉ A VYKONÁVANÉ MINISTERSTVAMI A OSTATNÝMI ÚSTREDNÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY A NIMI ZRIADENÝMI ORGANIZÁCIAMI A INÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY ZRIADENÝMI PODĽA OSOBITNÝCH PREDPISOV V ROKOCH 2006 AŽ 2008 [Prehľad zisťovaní](../assets/b3203b4cf13b768ea2d5e602624beadefc9dce8e7c39fb0df931cc58a1604c00.pdf)
 
 - Charakteristiky zisťovaní
 
@@ -334,6 +334,36 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
 
+  - 10a. Názov zisťovania: Štvrťročný výkaz o pracovných miestach v malých podnikoch a u podnikateľov
+
+    - Značka štatistického formulára: PM (MPSVR SR) 1-04
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať údaje o vzniknutých, zaniknutých, voľných a obsadených pracovných miestach na účely získania spoľahlivých informácií na tvorbu politík v oblasti trhu práce a pre potreby štátnej štatistiky.
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: výberové zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: počet vzniknutých a zaniknutých pracovných miest v sledovanom štvrťroku, počet voľných a obsadených pracovných miest k poslednému dňu štvrťroka, charakteristika voľného pracovného miesta: profesia podľa klasifikácie zamestnaní ustanovenej osobitným predpisom,<sup>1</sup>) pracovný úväzok a náročnosť obsadenia voľného pracovného miesta.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+      - Podniky zapísané v obchodnom registri, príspevkové a neziskové organizácie, ktoré sú trhovými výrobcami s počtom zamestnancov 0 až 19, fyzické osoby nezapísané v obchodnom registri bez ohľadu na prevažujúcu činnosť.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita zisťovania: štvrťročne.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. kalendárneho dňa po sledovanom období.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky prostredníctvom TREXIMY, spol. s r. o., Bratislava.
+
   - 11. Názov zisťovania: Polročný výkaz o pohybe agendy na Najvyššom súde Slovenskej republiky
 
     - Značka štatistického formulára: V (MS SR) 4-02
@@ -417,36 +447,6 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
       - Periodicita zisťovania: štvrťročne.
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po sledovanom období.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo školstva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
-
-  - 14. Názov zisťovania: Štvrťročný výkaz o kapitálových výdavkoch
-
-    - Značka štatistického formulára: Škol (MŠ SR) 3-04
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o investičnej výstavbe podľa účelu výstavby, pre potreby riadenia a rozhodovania a na prijímanie opatrení pri plnení ekonomických ukazovateľov.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: vyfakturované kapitálové výdavky a plnenie ukazovateľov investícií jednotlivých stavieb.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Verejné vysoké školy, školy a školské zariadenia a ostatné organizácie priamo riadené Ministerstvom školstva Slovenskej republiky.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: štvrťročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 17. a 25. kalendárneho dňa po sledovanom období.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -656,7 +656,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. septembra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka, SOU a U do 4. októbra.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -760,7 +760,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o prospechu a dochádzke žiakov gymnázií, stredných odborných škôl, konzervatórií, združených stredných škôl, stredných odborných učilíšť a učilíšť potrebné na hodnotenie kvality procesu na pedagogické účely a na prijímanie opatrení v riadiacej činnosti podľa stavu k 30. júnu sledovaného roka a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o prospechu a dochádzke žiakov gymnázií, stredných odborných škôl, konzervatórií, združených stredných škôl, stredných odborných učilíšť a učilíšť potrebné na hodnotenie kvality procesu na pedagogické účely a na prijímanie opatrení v riadiacej činnosti podľa stavu k 31. augustu sledovaného roka a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -776,7 +776,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 4. júla sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 5. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -896,7 +896,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 8. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. januára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1586,7 +1586,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 29. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1864,13 +1864,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
 
-  - 62. Názov zisťovania: Štvrťročný výkaz o vybraných ekonomických ukazovateľoch v príspevkových a neziskových organizáciách
+  - 62. Názov zisťovania: Štvrťročný výkaz o vybraných ekonomických ukazovateľoch v príspevkových a neziskových organizáciách a v štátnych akciových spoločnostiach
 
     - Značka štatistického formulára: ON (MZ SR) 1-04
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o finančnom hospodárení a špecifických údajoch v príspevkových zdravotníckych organizáciách a neziskových zdravotníckych organizáciách. Výsledky zisťovania sa využijú na analytické účely štatistiky a pre potreby Ministerstva zdravotníctva Slovenskej republiky na určovanie cien zdravotníckych výkonov.
+      - Účelom štatistického zisťovania je získať informácie o finančnom hospodárení a špecifických údajoch v príspevkových zdravotníckych organizáciách a neziskových zdravotníckych organizáciách a v štátnych akciových spoločnostiach. Výsledky zisťovania sa využijú na analytické účely štatistiky a pre potreby Ministerstva zdravotníctva Slovenskej republiky na určovanie cien zdravotníckych výkonov.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1894,7 +1894,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 63. Názov zisťovania: Štatistický lístok pacienta prijatého do ústavnej starostlivosti v psychiatrickom zariadení
 
@@ -1928,7 +1928,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 64. Názov zisťovania: Hlásenie príčin a okolností úmyselného sebapoškodenia
 
@@ -1962,7 +1962,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 65. Názov zisťovania: Hlásenie o ukončenej kúpeľnej liečbe
 
@@ -1996,7 +1996,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 66. Názov zisťovania: Hlásenie liečby užívateľa drog
 
@@ -2030,7 +2030,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 67. Názov zisťovania: Ročný výkaz o činnosti diabetologických ambulancií
 
@@ -2062,7 +2062,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 68. Názov zisťovania: Ročný výkaz o činnosti ambulancií pneumológie a ftizeológie
 
@@ -2094,7 +2094,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 69. Názov zisťovania: Ročný výkaz o činnosti psychiatrických ambulancií
 
@@ -2126,9 +2126,9 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
-  - 70. Názov zisťovania: Ročný výkaz o činnosti ambulancií pre deti a dorast
+  - 70. Názov zisťovania: Ročný výkaz o činnosti všeobecných ambulancií pre deti a dorast
 
     - Značka štatistického formulára: A (MZ SR) 5-01
 
@@ -2158,7 +2158,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 71. Názov zisťovania: Ročný výkaz o činnosti oddelenia lekárskej genetiky
 
@@ -2172,7 +2172,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: zamestnanci v ambulanciách, laboratóriách a na špecializovaných úsekoch oddelení lekárskej genetiky, prenatálne vyšetrenia a chromozómové vyšetrenia.
+      - Charakteristika navrhnutých ukazovateľov: personálne zabezpečenie v ambulanciách, laboratóriách a na špecializovaných úsekoch oddelení lekárskej genetiky, prenatálne vyšetrenia a chromozómové vyšetrenia.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2190,7 +2190,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 72. Názov zisťovania: Ročný výkaz o činnosti gynekologických ambulancií
 
@@ -2222,7 +2222,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 73. Názov zisťovania: Ročný výkaz o stomatologickej starostlivosti
 
@@ -2254,7 +2254,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 74. Názov zisťovania: Ročný výkaz o činnosti dermatovenerologických ambulancií
 
@@ -2286,39 +2286,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
-
-  - 75. Názov zisťovania: Ročný výkaz o doraste
-
-    - Značka štatistického formulára: A (MZ SR) 10-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o zdravotnej starostlivosti o dorast. Údaje sa využijú pre riadenie a rozhodovanie v zdravotníctve.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: dorast, vyšetrenia, dispenzarizované ochorenia a defektný dorast.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Poskytovatelia zdravotnej starostlivosti bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – zdravotníctvo (OKEČ 85.1).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 76. Názov zisťovania: Ročný výkaz o činnosti oddelenia telovýchovného lekárstva
 
@@ -2350,7 +2318,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 77. Názov zisťovania: Ročný výkaz o činnosti chirurgických odborov (ambulantných a posteľových)
 
@@ -2382,7 +2350,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 78. Názov zisťovania: Ročný výkaz o nefrologickej starostlivosti a liečbe nahrádzajúcej funkciu obličiek
 
@@ -2396,7 +2364,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: nefrologické pracoviská a lôžkový fond, počet zamestnancov, diagnózy, vekové zloženie pacientov a spôsob a dĺžka ich liečby, technické vybavenie a laboratórne vybavenie dialyzačných stredísk a nefrologických laboratórií.
+      - Charakteristika navrhnutých ukazovateľov: nefrologické pracoviská a posteľový fond, personálne zabezpečenie, diagnózy, vekové zloženie pacientov a spôsob a dĺžka ich liečby, technické vybavenie a laboratórne vybavenie dializačných stredísk a nefrologických laboratórií.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2414,7 +2382,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 79. Názov zisťovania: Ročný výkaz o činnosti oftalmologických oddelení a ambulancií
 
@@ -2422,7 +2390,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o pracoviskách, zamestnancoch a činnosti oftalmologických ambulancií a oddelení. Výsledky zisťovania sa využijú na riadenie zdravotníctva, na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o pracoviskách a činnosti oftalmologických ambulancií a oddelení. Výsledky zisťovania sa využijú na riadenie zdravotníctva, na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -2446,7 +2414,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 80. Názov zisťovania: Ročný výkaz o činnosti oddelení Fakultnej nemocnice pre cudzokrajné choroby
 
@@ -2460,7 +2428,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: výskyt cudzokrajných chorôb, nároky na jednotlivé druhy vyšetrení a prehľady o odborných zamestnancoch poskytujúcich zdravotnícku pomoc.
+      - Charakteristika navrhnutých ukazovateľov: výskyt cudzokrajných chorôb, nároky na jednotlivé druhy vyšetrení a personálne zabezpečenie.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2478,7 +2446,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 81. Názov zisťovania: Ročný výkaz o činnosti kardiologických ambulancií
 
@@ -2492,7 +2460,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet pracovísk, pracovných miest, počet pacientov dispenzarizovaných v kardiologických ambulanciách podľa vekových skupín, pohlavia, vybrané ochorenia na choroby obehovej sústavy a revaskularizačné zákroky.
+      - Charakteristika navrhnutých ukazovateľov: počet pracovísk, personálne zabezpečenie, počet pacientov dispenzarizovaných v kardiologických ambulanciách podľa vekových skupín, pohlavia, vybrané ochorenia na choroby obehovej sústavy a revaskularizačné zákroky.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2510,7 +2478,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 82. Názov zisťovania: Ročný výkaz o činnosti neurologických ambulancií
 
@@ -2524,7 +2492,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet pracovísk, pracovných miest, činnosť neurologických ambulancií, počet evidovaných pacientov podľa vybraných skupín diagnóz a veková štruktúra pacientov s cievnymi chorobami mozgu.
+      - Charakteristika navrhnutých ukazovateľov: počet pracovísk, personálne zabezpečenie, činnosť neurologických ambulancií, počet evidovaných pacientov podľa vybraných skupín diagnóz a veková štruktúra pacientov s cievnymi chorobami mozgu.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2542,7 +2510,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 83. Názov zisťovania: Ročný výkaz o činnosti záchrannej zdravotnej služby (poskytovateľov záchrannej zdravotnej služby)
 
@@ -2550,13 +2518,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o pracoviskách, pracovných miestach a činnosti záchrannej zdravotnej služby. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
+      - Účelom štatistického zisťovania je získať informácie o pracoviskách a činnosti záchrannej zdravotnej služby. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet pracovísk, pracovné miesta, činnosť záchrannej zdravotnej služby a počet ošetrených osôb podľa vybraných diagnóz.
+      - Charakteristika navrhnutých ukazovateľov: počet pracovísk, personálne zabezpečenie, činnosť záchrannej zdravotnej služby a počet ošetrených osôb podľa vybraných diagnóz.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2574,7 +2542,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 84. Názov zisťovania: Ročný výkaz o činnosti agentúry domácej ošetrovateľskej starostlivosti
 
@@ -2588,7 +2556,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: zamestnanci v agentúrach domácej ošetrovateľskej starostlivosti podľa jednotlivých kategórií, ošetrené osoby podľa vekových skupín, počet postihnutí u ošetrovaných osôb a počet výkonov u ošetrovaných osôb.
+      - Charakteristika navrhnutých ukazovateľov: personálne zabezpečenie v agentúrach domácej ošetrovateľskej starostlivosti podľa jednotlivých kategórií, ošetrené osoby podľa vekových skupín, počet postihnutí u ošetrovaných osôb a počet výkonov u ošetrovaných osôb.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2606,7 +2574,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 85. Názov zisťovania: Ročný výkaz o činnosti oddelenia a ambulancie klinickej biochémie
 
@@ -2620,7 +2588,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet pracovných miest podľa kategórií zamestnancov a počet a druh vyšetrení.
+      - Charakteristika navrhnutých ukazovateľov: personálne zabezpečenie a počet a druh vyšetrení.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2638,7 +2606,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 86. Názov zisťovania: Ročný výkaz o činnosti hematologického a transfúziologického oddelenia (úseku)
 
@@ -2652,7 +2620,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet pracovných miest, laboratórnych vyšetrení pre hematológiu a transfúziológiu, darcovia krvi, ich vyšetrenia, príprava jednotlivých zložiek krvi a použitie krvných prípravkov.
+      - Charakteristika navrhnutých ukazovateľov: personálne zabezpečenie, laboratórnych vyšetrení pre hematológiu a transfúziológiu, darcovia krvi, ich vyšetrenia, príprava jednotlivých zložiek krvi a použitie krvných prípravkov.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2670,7 +2638,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 87. Názov zisťovania: Ročný výkaz o činnosti oddelenia (pracoviska) nukleárnej medicíny
 
@@ -2684,7 +2652,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet rádionuklidových vyšetrení, počet zamestnancov a prístrojové vybavenie na pracoviskách nukleárnej medicíny.
+      - Charakteristika navrhnutých ukazovateľov: počet rádionuklidových vyšetrení, personálne zabezpečenie a prístrojové vybavenie na pracoviskách nukleárnej medicíny.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2702,7 +2670,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 88. Názov zisťovania: Ročný výkaz o činnosti rádiológie
 
@@ -2734,7 +2702,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 89. Názov zisťovania: Ročný výkaz o činnosti fyziatricko-rehabilitačného (rehabilitačného) oddelenia a ambulancie
 
@@ -2766,7 +2734,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 90. Názov zisťovania: Ročný výkaz o činnosti oddelenia (ambulancie) ortopedickej protetiky a výdajne ortopedicko-protetických pomôcok
 
@@ -2780,7 +2748,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet zamestnancov, počet vyšetrení, počet zariadení výdajní ortopedicko-protetických pomôcok, počet osôb evidovaných na oddeleniach (ambulanciách) ortopedickej protetiky a poskytnuté ortopedicko-protetické pomôcky.
+      - Charakteristika navrhnutých ukazovateľov: personálne zabezpečenie, počet vyšetrení, počet zariadení výdajní ortopedicko-protetických pomôcok, počet osôb evidovaných na oddeleniach (ambulanciách) ortopedickej protetiky a poskytnuté ortopedicko-protetické pomôcky.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2798,7 +2766,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 91. Názov zisťovania: Ročný výkaz o činnosti ambulancie a laboratória klinickej imunológie a alergológie
 
@@ -2812,7 +2780,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet ambulancií, pracovných miest, počet ochorení u sledovaných osôb a vybrané vyšetrenia.
+      - Charakteristika navrhnutých ukazovateľov: počet ambulancií, personálne zabezpečenie, počet ochorení u sledovaných osôb a vybrané vyšetrenia.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2830,7 +2798,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 92. Názov zisťovania: Ročný výkaz o činnosti oddelenia patologickej anatómie
 
@@ -2844,7 +2812,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet úmrtí, počet pitiev, počet oddelení a pracovných miest a činnosť oddelení.
+      - Charakteristika navrhnutých ukazovateľov: počet úmrtí, počet pitiev, počet oddelení a personálne zabezpečenie a činnosť oddelení.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2862,7 +2830,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 93. Názov zisťovania: Ročný výkaz o činnosti súdnolekárskeho oddelenia
 
@@ -2894,7 +2862,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 94. Názov zisťovania: Ročný výkaz o posteľovom fonde zdravotníckeho zariadenia
 
@@ -2902,13 +2870,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie umožňujúce kvantitatívne a kvalitatívne hodnotiť využitie lôžkovej kapacity jednotlivých posteľových oddelení v rámci zdravotníckeho zariadenia. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
+      - Účelom štatistického zisťovania je získať informácie umožňujúce kvantitatívne a kvalitatívne hodnotiť využitie posteľovej kapacity jednotlivých posteľových oddelení v rámci zdravotníckeho zariadenia. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: posteľový fond zdravotníckeho zariadenia a jeho využitie podľa jednotlivých oddelení, lekárske miesta na lôžkových oddeleniach a pracovné miesta sestier a asistentov.
+      - Charakteristika navrhnutých ukazovateľov: posteľový fond zdravotníckeho zariadenia a jeho využitie podľa jednotlivých oddelení a personálne zabezpečenie.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2926,7 +2894,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 95. Názov zisťovania: Ročný výkaz o gynekologicko-pôrodníckej starostlivosti
 
@@ -2940,7 +2908,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: gynekologicko-pôrodnícka starostlivosť v lôžkovej časti.
+      - Charakteristika navrhnutých ukazovateľov: gynekologicko-pôrodnícka starostlivosť v posteľovej časti.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -2958,7 +2926,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 96. Názov zisťovania: Ročný výkaz o činnosti anestéziológie a intenzívnej medicíny
 
@@ -2990,7 +2958,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 97. Názov zisťovania: Ročný výkaz o činnosti radiačnej onkológie
 
@@ -3022,7 +2990,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 98. Názov zisťovania: Ročný výkaz o činnosti detských sanatórií
 
@@ -3054,7 +3022,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 99. Názov zisťovania: Ročný výkaz o činnosti psychiatrického oddelenia nemocnice, psychiatrickej nemocnice a psychiatrickej liečebne
 
@@ -3068,7 +3036,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: posteľový fond a jeho využitie pre dospelých, deti a dorast a odborné zabezpečenie zdravotníckymi zamestnancami v psychiatrických zariadeniach.
+      - Charakteristika navrhnutých ukazovateľov: posteľový fond a jeho využitie pre dospelých, deti a dorast a personálne zabezpečenie v psychiatrických zariadeniach.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3086,7 +3054,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 100. Názov zisťovania: Ročný výkaz o neodkladnej chirurgickej pomoci pri niektorých ochoreniach
 
@@ -3118,7 +3086,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 101. Názov zisťovania: Ročný výkaz o výkonoch kúpeľných organizácií
 
@@ -3126,7 +3094,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie, ktoré poskytujú prehľad o využití lôžkovej kapacity a o liečebných výkonoch v jednotlivých kúpeľných liečebniach. Získané údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
+      - Účelom štatistického zisťovania je získať informácie, ktoré poskytujú prehľad o využití posteľovej kapacity a o liečebných výkonoch v jednotlivých kúpeľných liečebniach. Získané údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -3150,7 +3118,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 102. Názov zisťovania: Ročný výkaz o činnosti neurochirurgického oddelenia
 
@@ -3158,13 +3126,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o výkonoch a počte pacientov na neurochirurgických oddeleniach, o posteľovom fonde a o kategóriách zdravotníckych zamestnancov na týchto oddeleniach. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
+      - Účelom štatistického zisťovania je získať informácie o výkonoch a počte pacientov na neurochirurgických oddeleniach, o posteľovom fonde na týchto oddeleniach. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: neurochirurgické oddelenia v lôžkovej časti, počet operácií a počet pacientov.
+      - Charakteristika navrhnutých ukazovateľov: neurochirurgické oddelenia v posteľovej časti, počet operácií a počet pacientov.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3182,7 +3150,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 103. Názov zisťovania: Ročný výkaz o činnosti oddelenia a ambulancie klinickej onkológie
 
@@ -3196,7 +3164,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: pracoviská klinickej onkológie, pracovné miesta, prístrojové vybavenie, vyšetrenia a liečebné postupy na oddeleniach a v ambulancii klinickej onkológie.
+      - Charakteristika navrhnutých ukazovateľov: pracoviská klinickej onkológie, personálne zabezpečenie, prístrojové vybavenie, vyšetrenia a liečebné postupy na oddeleniach a v ambulancii klinickej onkológie.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3214,7 +3182,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 104. Názov zisťovania: Ročný výkaz o činnosti psychiatrického stacionára
 
@@ -3228,7 +3196,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: pacienti a činnosti stacionárov pre dospelých, deti a dorast a odborné zabezpečenie zdravotníckymi zamestnancami.
+      - Charakteristika navrhnutých ukazovateľov: pacienti a činnosti stacionárov pre dospelých, deti a dorast a odborné personálne zabezpečenie.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3246,7 +3214,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 105. Názov zisťovania: Ročný výkaz o činnosti motorového parku
 
@@ -3260,7 +3228,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet vozidiel podľa druhu, spotreby pohonných látok, počet prevozov a počet zamestnancov v dopravnej službe.
+      - Charakteristika navrhnutých ukazovateľov: počet vozidiel podľa druhu, spotreby pohonných látok, počet prevozov a personálne zabezpečenie v dopravnej službe.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3278,25 +3246,25 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
-  - 106. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych zdravotníckych zariadení
+  - 106. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych poskytovateľov zdravotnej starostlivosti
 
     - Značka štatistického formulára: ON (MZ SR) 2-01
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o finančnom hospodárení a o špecifických údajoch v neštátnych zdravotníckych zariadeniach. Získané údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
+      - Účelom štatistického zisťovania je získať informácie o finančnom hospodárení a o špecifických údajoch u neštátnych poskytovateľov zdravotnej starostlivosti. Získané údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: výdavky a náklady, príjmy a výnosy a doplnkové ukazovatele za neštátne zdravotnícke zariadenia (posteľové aj neposteľové) a vybrané ukazovatele (za posteľové zdravotnícke zariadenia).
+      - Charakteristika navrhnutých ukazovateľov: výdavky a náklady, príjmy a výnosy, doplnkové ukazovatele a vybrané ukazovatele za neštátnych poskytovateľov zdravotnej starostlivosti (posteľových aj neposteľových).
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Poskytovatelia zdravotnej starostlivosti bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
+      - Neštátni poskytovatelia zdravotnej starostlivosti bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
 
     - – zdravotníctvo (OKEČ 85.1).
 
@@ -3304,13 +3272,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 9. mája nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. apríla nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 107. Názov zisťovania: Ročný výkaz o počte a štruktúre zamestnancov v zdravotníctve
 
@@ -3342,95 +3310,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
-
-  - 108. Názov zisťovania: Hlásenie o vzniku a zmenách štátnej zdravotníckej organizácie
-
-    - Značka štatistického formulára: R (MZ SR) 1-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je príprava a aktualizácia registra štátnych zdravotníckych zariadení poskytujúcich zdravotnú starostlivosť na rôznej územnej úrovni. Register poskytuje prehľad o rozmiestnení štátnych zdravotníckych zariadení a ostatných zariadení a slúži na racionálne rozmiestňovanie a efektívne rozmiestňovanie a využívanie zdravotníckych zariadení z hľadiska zabezpečovania potrebnej zdravotnej starostlivosti obyvateľom v jednotlivých regiónoch. Z registra sa získavajú aktuálne údaje do adresára štátnych zdravotníckych zariadení, ktorý sa každoročne pripravuje pre Ministerstvo zdravotníctva Slovenskej republiky.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: identifikácia štátneho zdravotníckeho zariadenia, územného začlenenia, druh poskytovanej zdravotnej starostlivosti, zriaďovateľ, prevádzkovateľ, dátumy vzniku a zániku odbornej činnosti a organizácie, ako aj ostatné údaje o zdravotníckom zariadení.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Poskytovatelia zdravotnej starostlivosti a ostatné organizácie v zdravotníctve bez ohľadu na prevažujúcu činnosť a počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – zdravotníctvo (OKEČ 85.1),
-
-    - – činnosti sociálnej pomoci (OKEČ 85.3),
-
-    - – vyššie školstvo (OKEČ 80.3),
-
-    - – výskum a vývoj (OKEČ 73.0),
-
-    - – verejná správa a obrana; povinné sociálne zabezpečenie (OKEČ 75.0),
-
-    - – pomocné činnosti súvisiace s poistením a dôchodkovým zabezpečením (OKEČ 67.2),
-
-    - – činnosti členských organizácií inde neuvedených (OKEČ 91.0).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa odo dňa doručenia tlačiva hlásenia.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
-
-  - 109. Názov zisťovania: Hlásenie štatistických údajov o lekárovi a farmaceutovi
-
-    - Značka štatistického formulára: R (MZ SR) 8-99
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je príprava a aktualizácia registra lekárov a farmaceutov, ktorý bude obsahovať okrem identifikačných údajov aj informácie o pregraduálnej výchove a postgraduálnej výchove lekárov a farmaceutov, údaje o vykonávanej činnosti v zdravotníckych zariadeniach, o pracovných úväzkoch a o pracovnoprávnych aspektoch.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: identifikácia lekára alebo farmaceuta pracujúceho v zdravotníckych zariadeniach a ostatných organizáciách, odborné zameranie a vzdelanie vzhľadom na vekovú štruktúru a odbor činnosti, ako aj pracovné úväzky a pracovnoprávne aspekty.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Poskytovatelia zdravotnej starostlivosti a ostatné organizácie v zdravotníctve bez ohľadu na prevažujúcu činnosť a počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – zdravotníctvo (OKEČ 85.1),
-
-    - – činnosti sociálnej pomoci (OKEČ 85.3),
-
-    - – vyššie školstvo (OKEČ 80.3),
-
-    - – výskum a vývoj (OKEČ 73.0),
-
-    - – verejná správa a obrana; povinné sociálne zabezpečenie (OKEČ 75.0),
-
-    - – pomocné činnosti súvisiace s poistením a dôchodkovým zabezpečením (OKEČ 67.2),
-
-    - – činnosti členských organizácií inde neuvedených (OKEČ 91.0).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: nepravidelne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 14. kalendárneho dňa po vzniku zmeny v priebehu roka a vždy do 31. januára nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 110. Názov zisťovania: Register chronických ochorení pľúc
 
@@ -3464,19 +3344,19 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Fakultnej nemocnice s poliklinikou Bratislava, pracovisko Podunajské Biskupice.
 
-  - 111. Názov zisťovania: Ročný výkaz o sieti zdravotníckych zariadení (prevádzkovatelia ústavných zdravotníckych zariadení)
+  - 111. Názov zisťovania: Ročný výkaz o sieti poskytovateľov zdravotnej starostlivosti (prevádzkovatelia ústavných zdravotníckych zariadení)
 
     - Značka štatistického formulára: S (MZ SR) 1-01
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie poskytujúce prehľad o sieti zdravotníckych zariadení. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve a na publikačnú činnosť.
+      - Účelom štatistického zisťovania je získať informácie poskytujúce prehľad o sieti poskytovateľov zdravotnej starostlivosti. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve a na publikačnú činnosť.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: siete zdravotníckych zariadení, ich druhy, počet pracovných miest lekárov a sestier, vyšetrenia v organizačných útvaroch zdravotníckeho zariadenia a v návštevnej službe.
+      - Charakteristika navrhnutých ukazovateľov: siete poskytovateľov zdravotnej starostlivosti, ich druhy, personálne zabezpečenie, vyšetrenia v organizačných útvaroch poskytovateľa zdravotnej starostlivosti a v návštevnej službe.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3494,21 +3374,21 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
-  - 112. Názov zisťovania: Ročný výkaz o sieti neštátnych zdravotníckych zariadení (prevádzkovatelia ambulantných zdravotníckych zariadení)
+  - 112. Názov zisťovania: Ročný výkaz o sieti poskytovateľov zdravotnej starostlivosti (poskytovatelia ambulantnej a lekárenskej zdravotnej starostlivosti)
 
     - Značka štatistického formulára: S (MZ SR) 2-01
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie poskytujúce prehľad o sieti neštátnych zdravotníckych zariadení. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve a na publikačnú činnosť.
+      - Účelom štatistického zisťovania je získať informácie poskytujúce prehľad o sieti poskytovateľov zdravotnej starostlivosti. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve a na publikačnú činnosť.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: siete neštátnych zdravotníckych zariadení, ich druhy, počet pracovných miest lekárov a sestier, vyšetrenia v organizačných útvaroch zdravotníckeho zariadenia a v návštevnej službe.
+      - Charakteristika navrhnutých ukazovateľov: siete poskytovateľov zdravotnej starostlivosti (ambulancií), ich druhy, personálne zabezpečenie, vyšetrenia v organizačných útvaroch poskytovateľa zdravotnej starostlivosti a v návštevnej službe.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3526,7 +3406,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 113. Názov zisťovania: Ročný výkaz o sieti zdravotníckych zariadení (posteľová časť)
 
@@ -3558,7 +3438,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 114. Názov zisťovania: Ročný výkaz o sieti zariadení kúpeľnej starostlivosti
 
@@ -3566,13 +3446,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o sieti zariadení kúpeľnej starostlivosti, o počte liečební, oddelení, postelí a lekárskych miestach podľa indikačných skupín. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
+      - Účelom štatistického zisťovania je získať informácie o sieti zariadení kúpeľnej starostlivosti, o počte liečební, oddelení a postelí. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: kúpeľná starostlivosť pre dospelých a deti podľa skupín chorôb s uvedením počtu liečební, oddelení, postelí a lekárskych miest.
+      - Charakteristika navrhnutých ukazovateľov: kúpeľná starostlivosť pre dospelých a deti podľa skupín chorôb s uvedením počtu liečební, oddelení, postelí a personálneho zabezpečenia.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3590,7 +3470,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Ústavu zdravotníckych informácií a štatistiky v Bratislave.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
   - 115. Názov zisťovania: Hlásenie o pacientovi s genetickými chorobami
 
@@ -3722,7 +3602,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. februára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 1. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -4196,6 +4076,36 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo kultúry Slovenskej republiky prostredníctvom Divadelného ústavu.
 
+  - 132a. Názov zisťovania: Ročný výkaz o obytných zoskupeniach – rómskych osídleniach
+
+    - Značka štatistického formulára: RI (ÚV SR) 1-01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať informácie o stave obytných zoskupení, počte a type obydlí, infraštruktúre, počte obyvateľov a ich štruktúre v obytných zoskupeniach – rómskych osídleniach a o realizovaných projektoch a programoch pre rómske komunity. Výsledky štatistického zisťovania sa využijú na usmerňovanie sociálnej politiky a realizáciu programov vlády Slovenskej republiky, regionálnych a miestnych samospráv a mimovládnych organizácií vo vzťahu k rómskym komunitám.
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: vyčerpávajúce zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: poloha zoskupenia vo vzťahu k územnému plánu a k obci, počet a typ obydlí v zoskupení, zdroj pitnej vody, kanalizácia, plyn, elektrina, verejné osvetlenie, odvoz odpadu, prístupová cesta, počet obyvateľov v zoskupení a ich štruktúra, počet žiakov podľa typov škôl, počet asistentov učiteľa, projekty a programy pre rómske komunity podľa druhu aktivity a zdrojov financovania.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+      - Obce.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita zisťovania: ročne.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára nasledujúceho roka.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Úrad vlády Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Úrad vlády Slovenskej republiky.
+
   - 133. Názov zisťovania: Ročný výkaz o činnosti orgánov územnej samosprávy v správnom konaní
 
     - Značka štatistického formulára: ŠS (MV SR) 5-01
@@ -4490,46 +4400,6 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Správa štátnych hmotných rezerv Slovenskej republiky.
 
-  - 141. Názov zisťovania: Výkaz o stave vybraného sortimentu pohotovostných zásob štátu
-
-    - Značka štatistického formulára: PZ (SŠHR SR) 1-99
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o stave zásob vybraného sortimentu pohotovostných zásob v naturálnom vyjadrení, ktorý bude slúžiť na pokrytie základných potrieb obyvateľstva a záchranných jednotiek v období mimoriadnej situácie, núdzového stavu, výnimočného stavu, vojnového stavu a stavu vojny a pri regulácii predaja. Výsledky zisťovania využijú ústredné orgány štátnej správy Slovenskej republiky a orgány miestnej štátnej správy na pohotové riešenie zásobovania počas mimoriadnych udalostí.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: výberové zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: stav zásob vybraných tovarov v organizačnej jednotke v naturálnom vyjadrení.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-    - Podniky zapísané v obchodnom registri s počtom zamestnancov 50 a viac, ktoré vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – výroba a konzervovanie mäsa (OKEČ 15.11),
-
-    - – spracovanie a konzervovanie rýb a výroba rybích výrobkov (OKEČ 15.20),
-
-    - – veľkoobchod s potravinami, nápojmi a tabakom (OKEČ 51.3),
-
-    - – veľkoobchod s mliekarenskými výrobkami, vajcami, jedlými olejmi a tukmi (OKEČ 51.33),
-
-    - – maloobchod s potravinami, nápojmi a tabakom v špecializovaných predajniach (OKEČ 52.2).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: nepravidelne (k 31. marcu a k 30. septembru).
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. kalendárneho dňa po sledovanom období.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Správa štátnych hmotných rezerv Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Správa štátnych hmotných rezerv Slovenskej republiky.
-
   - 142. Názov zisťovania: Výkaz o dani z nehnuteľnosti
 
     - Značka štatistického formulára: Daň (MF SR) 1-01
@@ -4588,7 +4458,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky prostredníctvom Výskumného ústavu dopravného v Žiline.
 
   - 144. Názov zisťovania: Ročný výkaz o vybavení základnými fondmi na diaľniciach a na cestách
 
@@ -4618,7 +4488,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky prostredníctvom Výskumného ústavu dopravného v Žiline.
 
   - 145. Názov zisťovania: Ročný výkaz o cestách a ich objektoch
 
@@ -4648,7 +4518,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky prostredníctvom Výskumného ústavu dopravného v Žiline.
 
   - 146. Názov zisťovania: Ročný výkaz o diaľniciach a rýchlostných cestách a ich objektoch
 
@@ -4678,7 +4548,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky prostredníctvom Výskumného ústavu dopravného v Žiline.
 
   - 147. Názov zisťovania: Ročný výkaz o financovaní cestnej infraštruktúry
 
@@ -4710,7 +4580,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky prostredníctvom Výskumného ústavu dopravného v Žiline.
 
   - 148. Názov zisťovania: Ročný výkaz o technických parametroch a prevádzkových parametroch terminálu kombinovanej dopravy
 
@@ -4912,7 +4782,9 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Prevádzkovatelia verejnej a neverejnej autobusovej dopravy bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
+      - Prevádzkovatelia verejnej autobusovej dopravy a neverejnej autobusovej dopravy, ktorí sú držiteľmi dopravnej licencie a licencie spoločenstva, prevádzkovatelia verejnej železničnej dopravy, bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
+
+    - – doprava (OKEČ 60.1),
 
     - – doprava (OKEČ 60.2),
 
@@ -4928,7 +4800,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - – pošty a telekomunikácie (OKEČ 64),
 
-    - – nehnuteľnosti, prenájom a obchodné činnosti (OKEČ 70 – 74),
+    - – nehnuteľnosti, prenájom a obchodné činnosti (OKEČ 70 až 74),
 
     - – vybrané trhové služby a cestovný ruch (OKEČ 70 až 74, 80, 90, 92, 93, 63.3).
 
@@ -4942,7 +4814,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
 
-      - Orgán vykonávajúci štatistické zisťovanie a jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky prostredníctvom Výskumného ústavu dopravného v Žiline.
 
   - 154. Názov zisťovania: Polročný výkaz o vybraných elektronických komunikačných službách
 
@@ -5142,13 +5014,11 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet stratených poštových zásielok a poškodených poštových zásielok a poštové zásielky s úbytkom obsahu v členení na vnútroštátny styk a medzinárodný styk a ukazovatele charakterizujúce dostupnosť poštových služieb.
+      - Charakteristika navrhnutých ukazovateľov: počet stratených poštových zásielok a poškodených poštových zásielok a poštové zásielky s úbytkom obsahu v členení na vnútroštátny styk a medzinárodný styk.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – poštové a doručovateľské činnosti (OKEČ 64.1).
+      - Slovenská pošta, a. s.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5448,7 +5318,9 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - – výroba mlynských výrobkov, škrobu a škrobových výrobkov (OKEČ 15.6),
 
-    - – sprostredkovanie obchodu s poľnohospodárskymi surovinami (OKEČ 51.11).
+    - – sprostredkovanie obchodu s poľnohospodárskymi surovinami (OKEČ 51.11),
+
+    - – veľkoobchod s obilninami, osivami a krmivami (OKEČ 51.21).
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5898,7 +5770,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 180. Názov zisťovania: Štvrťročný výkaz o dodávkach dreva v lesníctve
 
@@ -5934,7 +5806,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 181. Názov zisťovania: Polročný výkaz o hospodárení v podnikoch potravinárskeho priemyslu
 
@@ -6038,7 +5910,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 184. Názov zisťovania: Ročný výkaz o činnosti a hospodárení v neštátnych lesoch
 
@@ -6058,7 +5930,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Súkromní vlastníci a užívatelia lesov, pozemkové spoločenstvá, družstvá, subjekty obhospodarujúce mestské, obecné lesy a cirkevné lesy bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
+      - Súkromní vlastníci a obhospodarovatelia lesov, pozemkové spoločenstvá, družstvá, subjekty obhospodarujúce mestské, obecné lesy a cirkevné lesy bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
 
     - – lesníctvo a ťažba dreva (OKEČ 02.01),
 
@@ -6074,7 +5946,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 185. Názov zisťovania: Ročný výkaz o nákladoch a výnosoch v lesníckej činnosti
 
@@ -6106,7 +5978,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 186. Názov zisťovania: Ročný výkaz o stavebnej činnosti v lesníctve
 
@@ -6140,7 +6012,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 187. Názov zisťovania: Ročný výkaz o stave a využití vlastných mechanizačných prostriedkov v lesnom hospodárstve
 
@@ -6172,39 +6044,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
-
-  - 188. Názov zisťovania: Ročný výkaz o zdravotnom stave lesov
-
-    - Značka štatistického formulára: Les (MP SR) 10-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať súhrnné informácie o výmere lesného pôdneho fondu, zdravotnom stave lesov a o realizovaných ochranných a obranných opatreniach. Výsledky zisťovania sa využijú pri analytickej činnosti, prognostickej činnosti a koncepčnej činnosti zameranej na hodnotenie a riadenie zdravotného stavu lesov a pre potreby medzinárodných organizácií.
-
-      - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>27</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: výmera lesného pôdneho fondu a porastovej pôdy, zastúpenie ihličnatých drevín a listnatých drevín, poškodenie lesov abiotickými škodlivými činiteľmi, biotickými škodlivými činiteľmi a antropogénnymi škodlivými činiteľmi a spotreba ochranných látok v lesnom hospodárstve.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Lesnícky výskumný ústav, Zvolen a Lesoprojekt, Zvolen.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. mája nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesníckeho výskumného ústavu, Zvolen a Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 189. Názov zisťovania: Ročný výkaz o dodávkach sejbového a sadbového materiálu lesných drevín
 
@@ -6240,7 +6080,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesoprojektu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 190. Názov zisťovania: Ročný výkaz o jarnom kmeňovom stave zveri a o revíri, stave a love zveri
 
@@ -6274,7 +6114,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Lesníckeho výskumného ústavu, Zvolen.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
   - 191. Názov zisťovania: Ročný výkaz o včelárstve
 
@@ -6341,48 +6181,6 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom š. p. Hydromeliorácie, Bratislava.
-
-  - 193. Názov zisťovania: Ponuková bilancia hroznového vína
-
-    - Značka štatistického formulára: Víno (MP SR) 2-99
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o výrobe, pohybe a zásobách vína. Výsledky zisťovania sa využívajú na vypracovanie analýz Ministerstva pôdohospodárstva Slovenskej republiky a na zabezpečenie požiadaviek Európskeho štatistického systému.
-
-      - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>29</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: zásoby a zdroje a použitie jednotlivých druhov vín.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Právnické osoby a fyzické osoby bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – výroba hroznového vína (OKEČ 15.93),
-
-    - – pestovanie ovocia, orechov, plodín na výrobu nápojov a korenia (OKEČ 01.13),
-
-    - – baliace činnosti (OKEČ 74.82),
-
-    - – veľkoobchod s alkoholickými a inými nápojmi (OKEČ 51.34),
-
-    - – maloobchod s alkoholickými a inými nápojmi (OKEČ 52.25).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: nepravidelne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 18. augusta a 18. januára po skončení sledovaného obdobia.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
 
   - 194. Názov zisťovania: Odhad úrody ovocia
 
