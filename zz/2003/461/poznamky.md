@@ -152,11 +152,13 @@
 
 - 67) § 2 ods. 1, 2 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
-- 68) Zákon č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
+- 68) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
 
-- Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+- 69) § 3 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
-- 69) Zákon č. 311/2001 Z. z. v znení neskorších predpisov.
+- 69a) Zákon č. 552/2003 Z. z. v znení neskorších predpisov.
+
+- 69b) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
 - 70) Opatrenie Štatistického úradu Slovenskej republiky č. 236/1993 Z. z., ktorým sa ustanovujú klasifikácie, číselník a register v oblasti štátnej štatistiky v znení opatrenia Štatistického úradu Slovenskej republiky č. 16/2001 Z. z.
 
@@ -250,9 +252,11 @@
 
 - 106) Zákon č. 241/2001 Z. z. v znení zákona č. 418/2002 Z. z.
 
-- 106a) § 64 ods. 4 zákona č. 43/2004 Z. z.
+- 106a) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
-- 106b) § 64a a 64b zákona č. 43/2004 Z. z.
+- 106b) § 64 ods. 4 zákona č. 43/2004 Z. z.
+
+- 106c) § 64a a 64b zákona č. 43/2004 Z. z.
 
 - 107) Zákon Národnej rady Slovenskej republiky č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
