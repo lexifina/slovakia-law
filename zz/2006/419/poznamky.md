@@ -18,11 +18,9 @@
 
 - 10) § 24 ods. 2 písm. b) zákona č. 222/2004 Z. z.
 
-- 11) Nariadenie Komisie (ES) č. 1422/95 z 23. 6. 1995 ustanovujúce podrobné vykonávacie pravidlá pre dovoz melasy v sektore cukru a ktorým sa mení a dopĺňa nariadenie (EHS) č. 785/68 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 17.).
-
-- Nariadenie Komisie (ES) č. 1423/95 z 23. 6. 1995, ktorým sa ustanovujú vykonávacie pravidlá pre dovoz výrobkov v sektore cukru okrem melasy (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 17.).
-
 - 12) Čl. 76 ods. 1 písm. c) nariadenia Rady (EHS) č. 2913/92 v platnom znení.
+
+- 12a) § 27 zákona č. 222/2004 Z. z. v znení zákona č. 656/2006 Z. z.
 
 - 13) Napríklad zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov.
 

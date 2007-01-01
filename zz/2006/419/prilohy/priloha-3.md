@@ -226,7 +226,7 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
       - U408 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. j) zákona č. 98/2004 Z. z. v znení zákona č. 223/2006 Z. z.,
 
-      - U409 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. k) zákona č. 98/2004 Z. z. v znení zákona č. 223/2006 Z. z.,
+      - U409 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 4 zákona č. 98/2004 Z. z. v znení zákona č. 672/2006 Z. z.
 
     - b) kódy používané pri spotrebnej dani z vína:
 

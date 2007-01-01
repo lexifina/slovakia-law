@@ -186,6 +186,8 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Ak sa tlačivo použije ako zjednodušené colné vyhlásenie, uvádza sa v tomto odseku kód 4PZB a číslo povolenia na použitie zjednodušeného postupu podľa osobitného predpisu.<sup>7</sup>)
 
+      - Ak deklarant predkladá spolu s colným vyhlásením doklad, ktorý nie je uvedený v systéme TARIC SK, uvádza sa kód dokladu „9999" a identifikačný údaj alebo opis predloženého dokladu.
+
     - Odsek 46 tlačiva Štatistická hodnota
 
       - Uvádza sa štatistická hodnota tovaru uvedeného v odseku 31. Štatistická hodnota pri vývoze je hodnota tovaru na mieste a v čase, keď tovar vystupuje zo Slovenskej republiky.
@@ -390,8 +392,6 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Pri dovoze tovaru, ktorý sa zatrieďuje do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>5</sup>) na základe vstupnej ceny, sa v tomto odseku uvádza kód dokladu žiadosti o použitie niektorej zo vstupných cien. Napríklad, ak má byť tovar zatriedený do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>5</sup>) s použitím ceny FOB (vyplatené na palube), uvádza sa kód dokladu „1011“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny FOB ako vstupnej ceny“.
 
-      - Ak sa má použiť ako základ na výpočet dodatočného dovozného cla v sektore cukru iná ako reprezentatívna cena,<sup>11)</sup> uvádza sa v tomto odseku kód dokladu žiadosti o použitie takejto ceny. Napríklad, ak sa má ako základ na výpočet dodatočného dovozného cla v sektore cukru použiť cena CIF (náklady, poistné a prepravné), uvádza sa kód dokladu „1014“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny CIF ako základu na výpočet dodatočného dovozného cla v sektore cukru“.
-
       - Okrem kódov uvedených v predchádzajúcom odseku možno použiť aj tieto kódy:
 
       - 3ZCD – pri predložení potvrdenia o zabezpečení dovoznej platby,
@@ -400,7 +400,11 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - 4PZC – povolenie na použitie zjednodušeného postupu podľa osobitného predpisu.<sup>12</sup>)
 
+      - 1015 – žiadosť o použitie zníženej sadzby dane z pridanej hodnoty podľa osobitného predpisu.<sup>12a</sup>)
+
       - Ak je potrebné uviesť viacero osobitných záznamov alebo predložených dokladov, tieto záznamy sa uvádzajú v prílohe k tlačivu.
+
+      - Ak deklarant predkladá spolu s colným vyhlásením doklad, ktorý nie je uvedený v systéme TARIC SK, uvádza sa kód dokladu „9999" a identifikačný údaj alebo opis predloženého dokladu.
 
     - Odsek 45 tlačiva Oprava
 
