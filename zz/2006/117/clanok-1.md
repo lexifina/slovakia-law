@@ -386,6 +386,14 @@ Zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení zákona č.
 
 - Úrad udelí individuálne povolenie najviac na desať rokov. Úrad je oprávnený individuálne povolenie opakovane predĺžiť najviac na obdobie desiatich rokov. Ak je to odôvodnené dobou návratnosti investície, úrad je oprávnený udeliť individuálne povolenie aj na dlhšie obdobie alebo individuálne povolenie o dlhšiu dobu predĺžiť. Ak ide o individuálne povolenie na prevádzkovanie rádiového zariadenia na rozhlasové analógové a televízne analógové pozemské vysielanie vydané na základe licencie na analógové pozemské vysielanie, možno toto individuálne povolenie udeliť na dobu uvedenú v žiadosti o povolenie, najviac na dobu, na ktorú bola udelená licencia na analógové pozemské vysielanie.
 
+- (22)
+
+- Podnik môže previesť na iný podnik svoje práva vyplývajúce z pridelenia frekvencií len po súhlase úradu, ak následkom prevodu nedôjde k narušeniu súťaže a k zmene v používaní frekvencie, ak bolo jej používanie medzinárodne harmonizované.
+
+- (23)
+
+- Podmienky a postupy prevodu práv podľa odseku 22 ustanoví všeobecne záväzný právny predpis, ktorý vydá úrad.
+
 - (24)
 
 - Úrad neudelí alebo nepredĺži individuálne povolenie, ak
