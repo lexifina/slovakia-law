@@ -14,7 +14,7 @@ Príloha č. 3 k vyhláške č. 18/1999 Z. z.
 
 - | mykané vlákna | 17.00<sup>2</sup>)
 
-- | Konské vlásle |
+- | Konské vlásie |
 
 - | česané vlákna | 16,00
 
@@ -129,3 +129,5 @@ Príloha č. 3 k vyhláške č. 18/1999 Z. z.
 - | Azbest | 2,00
 
 - | Papierové nite | 13,75
+
+- 45 | elastomultiester | 1,50.
