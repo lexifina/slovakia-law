@@ -1,3 +1,0 @@
-# Čl. II
-
-Toto nariadenie vlády nadobúda účinnosť 1. februára 2006.
