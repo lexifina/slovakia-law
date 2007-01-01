@@ -35,3 +35,5 @@ Príloha č. 14 k zákonu č. 195/1998 Z. z. v znení neskorších predpisov
 - Resocializačné stredisko | občan | | | | 150 000 |
 
 - Útulok | občan | | 30 000 | | 60 000 |
+
+  - Poznámka: Minimálne výšky finančného príspevku na jednotku výkonu, ktorou je poradca/sociálny pracovník a občan, sú uvedené na jeden rozpočtový rok.

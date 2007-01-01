@@ -22,7 +22,7 @@ Samosprávny kraj pri výkone samosprávnej pôsobnosti
 
 - c) rozhoduje v druhom stupni vo veciach, v ktorých v správnom konaní v prvom stupni koná a rozhoduje zariadenie sociálnych služieb, ktoré zriadil ako rozpočtovú organizáciu alebo príspevkovú organizáciu,
 
-- d) zriaďuje a kontroluje zariadenie sociálnych služieb uvedené v § 18 ods. 4 a môže zriaďovať a kontrolovať zariadenia sociálnych služieb uvedené v § 18 ods. 2,
+- d) zriaďuje a kontroluje zariadenie sociálnych služieb uvedené v § 18 ods. 3,
 
 - e) uzatvára dohodu:
 

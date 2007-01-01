@@ -1,28 +1,26 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 70/1997 Z. z.
+- 1) § 21 až 23 a § 34 až 43 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- 2) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+- 2) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
-- 3) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+- 3) § 45a a 45c zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z.
+- 4) § 45c zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 70/1997 Z. z.
+- 5) § 45a, 45b a 45d zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 6) § 21 až 23 a § 34 až 43 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
+- 6) § 35, 38 a 45a zákona č. 48/2002 v znení neskorších predpisov.
 
-- 6a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+- 7) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) § 8 a 9 Občianskeho zákonníka.
+- 8) § 45a zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 7a) § 215 Trestného zákona.
+- 9) § 34 až 42 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 7b) § 242 a 243 Trestného zákona.
+- 10) Zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
-- 8) § 3 a 4 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
+- 11) § 3 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 9) § 2 zákona č. 125/1998 Z. z.
-
-- 10) § 3 zákona č. 125/1998 Z. z.
+- 12) § 2 písm. a) zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
 - 20) Napríklad § 322 Občianskeho súdneho poriadku,§ 115 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
