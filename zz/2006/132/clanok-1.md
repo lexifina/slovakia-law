@@ -16,9 +16,19 @@ Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 409/2003
 
 - Touto vyhláškou sa preberá právny akt Európskych spoločenstiev a Európskej únie uvedený v prílohe č. 7.“.
 
+- 6. V prílohe č. 1 bode V sa vypúšťa písmeno a).
+
+- Doterajšie písmená b) a c) sa označujú ako písmená a) a b).
+
 - 7. V prílohe č. 2 bode 2.1.3 sa v poznámke pod tabuľkou k odkazu 4 slová „10 g.h<sup>-1</sup>“ nahrádzajú slovami „100 g.h<sup>-1</sup>“.
 
 - 8. V prílohe č. 2 bode 2.1.3 sa v poznámke pod tabuľkou k odkazu 5 slová „100 g.h<sup>-1</sup>“ nahrádzajú slovami „10 g.h<sup>-1</sup>“.
+
+- 9. V prílohe č. 2 bode 4.3 sa v tabuľke vypúšťa tento text:
+
+- Sériové - kontinuálne nanášanie náterových látok | > 5 | 60 | 50/75<sup>5</sup>) | 20 | 3 | Poznámka<sup>1</sup>), <sup>6</sup>),<sup>7</sup>),<sup>8</sup>)
+
+- 10. V prílohe č. 2 nadpis piateho bodu znie: „Sériové lakovanie áut pri spotrebe rozpúšťadla menej ako 15 t za rok“ a v prvom stĺpci tabuľky sa vypúšťajú slová „opravy a prestriekavanie áut“.
 
 - 11. V prílohe č. 2 bode 15 sa v poznámke pod tabuľkou k odkazu 6 slová „§ 7 ods. 4“ nahrádzajú slovami „§ 7 ods. 6“.
 
