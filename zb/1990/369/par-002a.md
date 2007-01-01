@@ -24,4 +24,4 @@
 
 (5) Obec sa môže rozdeliť, ak nové obce budú mať katastrálne územie alebo súbor katastrálnych území tvoriaci súvislý územný celok, najmenej 3 000 obyvateľov, ak urbanisticky nesplynuli s ostatnými časťami obce. Obec nemožno rozdeliť, ak do rozvoja odčleňovanej časti obce boli vložené investície, od ktorých je závislá celá obec.
 
-(6) Dohodu o rozdelení obce a ďalšie dokumenty podpisuje starosta obce a splnomocnenec petičného výboru alebo osoba určená v petícii.<sup>2a</sup>) Na rozdelenie obce sa primerane vzťahujú odseky 2 až 4.
+(8) Dohodu o rozdelení obce a ďalšie dokumenty podpisuje starosta obce a splnomocnenec petičného výboru alebo osoba určená v petícii.<sup>2a</sup>) Na rozdelenie obce sa primerane vzťahujú odseky 2 až 4.
