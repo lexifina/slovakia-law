@@ -428,7 +428,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. sezónneho zamestnania | 1 000 Sk
 
-  - | 4. štúdia a činností podľa osobitných programov | 3 000 Sk
+  - | 4. štúdia a osobitnej činnosti | 3 000 Sk
 
   - | 5. zlúčenia rodiny | 4 000 Sk
 
@@ -444,7 +444,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. sezónneho zamestnania | 500 Sk
 
-  - | 4. štúdia a činností podľa osobitných programov | 1 000 Sk
+  - | 4. štúdia a osobitnej činnosti | 1 000 Sk
 
   - | 5. zlúčenia rodiny | 2 000 Sk
 
@@ -452,7 +452,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) | Žiadosť o udelenie povolenia na trvalý pobyt na neobmedzený čas | 5 000 Sk
 
-  - e) | Vydanie dokladu o pobyte | 50 Sk
+  - e) | Vydanie dokladu o pobyte | 150 Sk
 
   - f) | Vydanie dokladu o pobyte ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad | 200 Sk
 
@@ -674,7 +674,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 37
 
-  - a) Vydanie poľovného lístka pre štátneho občana Slovenskej republiky a cudzinca, ktorý má na území Slovenskej republiky povolený trvalý pobyt |
+  - a) Vydanie poľovného lístka pre štátneho občana Slovenskej republiky, občana iného členského štátu Európskej únie a cudzinca, ktorý má na území Slovenskej republiky povolený trvalý pobyt |
 
   - 1. ročný........................................................................................................................................................... | 100 Sk
 
@@ -2110,11 +2110,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 143
 
-  - a) Vydanie rozhodnutia daňovým orgánom, colným orgánom alebo obcou v daňovom konaní na základe žiadosti daňového subjektu podľa § 4, § 13, § 38 ods. 6, § 59 a § 64 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov ....................................................................... | 300 Sk
+  - a) Vydanie rozhodnutia daňovým orgánom, colným orgánom alebo obcou v daňovom konaní na základe žiadosti daňového subjektu podľa § 4, § 13, § 59 a § 64 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov ....................................................................... | 300 Sk
 
   - b) Vydanie potvrdenia daňovým orgánom, colným orgánom podľa osobitných predpisov<sup>8</sup>) .................. | 100 Sk
 
   - c) Doplnenie údajov na predtlačenom tlačive, ktoré predloží žiadateľ ......................................................... | 50 Sk
+
+  - d) Pridelenie registračného odberného čísla ................................................................................................... | 300 Sk
 
   - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodené vydanie potvrdenia o preukázaní podmienok na uznanie nezdaniteľných častí základu dane pri príjmoch fyzických osôb zo závislej činnosti a funkčných požitkov vydávané daňovými úradmi podľa § 43 ods. 1 písm. g) zákona č. 366/1999 Z. z. o daniach z príjmov. Oslobodené je aj vydanie potvrdenia o daňovej rezidencii a vydanie potvrdenia o zaplatení dane na území Slovenskej republiky pre nerezidentné osoby na účely aplikácie medzinárodných zmlúv, ktorými je Slovenská republika viazaná. 2. Od poplatku podľa tejto položky je oslobodené potvrdenie o registrácii podľa výnosu Ministerstva financií Slovenskej republiky č. 63/161/1995 o náležitostiach žiadosti o vydanie povolenia na nákup liehu oslobodeného od spotrebnej dane z liehu. |
 
@@ -2126,7 +2128,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Žiadosť o písomný súhlas správcu dane s výmazom z obchodného registra........................... | 300 Sk
 
-  - c) Žiadosť o poskytnutie úľavy podľa § 103 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, podľa § 29 zákona Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení neskorších predpisov, podľa § 23 zákona Národnej rady Slovenskej republiky č. 87/1994 Z. z. o cestnej dani v znení neskorších predpisov, podľa § 18 písm. a) zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch ........................................ | 500 Sk
+  - c) Žiadosť o poskytnutie úľavy zo sankcií alebo odpustenie sankcií podľa § 103 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.......................................... | 500 Sk
 
   - d) Vydanie osvedčenia o registrácii ako náhrady za stratené, zničené, poškodené alebo odcudzené osvedčenie .................................................................................................................. | 200 Sk
 
@@ -2524,41 +2526,59 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 156
 
-  - Vydanie sprievodného osvedčenia o pôvode tovaru EUR.1 ............................................................. | 100 Sk
+  - a) Vydanie sprievodného osvedčenia o pôvode tovaru EUR.1 .................................... | 100 Sk
+
+  - b) Vydanie osvedčenia o preferenčnom pôvode tovaru alebo osvedčenia o statuse tovaru colnými orgánmi................... | 100 Sk
+
+  - c) Dodatočné vydanie osvedčenia o preferenčnom pôvode tovaru alebo osvedčenia o statuse tovaru colnými orgánmi | 300 Sk
+
+  - d) Vydanie informačného listu INF 4 colnými orgánmi...................................................... | 100 Sk
 
     - Položka 158
 
-  - a) Vydanie osvedčenia orgánmi colnej správy o spôsobilosti dopravných prostriedkov a kontajnerov na prepravu tovaru pod colnou uzáverou ............................................................................................................ | 200 Sk
+  - a) Vydanie osvedčenia orgánmi colnej správy o spôsobilosti dopravných prostriedkov a kontajnerov na prepravu tovaru pod colnou uzáverou | 200 Sk
 
-  - b) Žiadosť o odpustenie alebo vrátenie sumy dovoznej platby alebo vývoznej platby .............................. | 500 Sk
+  - b) Žiadosť o odpustenie alebo vrátenie sumy dovoznej platby alebo vývoznej platby za každé colné vyhlásenie | 500 Sk
 
-  - c) Žiadosť o odklad platenia sumy dovoznej platby alebo vývoznej platby, žiadosť o pozhovenie s dovoznou platbou alebo vývoznou platbou a žiadosť o povolenie splátok dovoznej platby alebo vývoznej platby ............................................................................................................................................. | 500 Sk
+  - c) Žiadosť o odklad platenia sumy dovoznej platby alebo vývoznej platby, žiadosť o pozhovenie s dovoznou platbou alebo vývoznou platbou a žiadosť o povolenie splátok dovoznej platby alebo vývoznej platby | 500 Sk
 
-  - d) Žiadosť o upustenie od vybratia úroku z omeškania úhrady dovoznej platby alebo vývoznej platby .. | 500 Sk
+  - d) Žiadosť o upustenie od vybratia úroku z omeškania úhrady dovoznej platby alebo vývoznej platby......... | 500 Sk
+
+  - Oslobodenie |
+
+  - Od poplatku podľa písmena b) tejto položky sú oslobodené právnické osoby a fyzické osoby, ak ide o žiadosť o vrátenie dovoznej platby pri colnom režime aktívny zušľachťovací styk v systéme vrátenia. |
 
     - Položka 159
 
-  - a) Žiadosť o povolenie vývozcovi osvedčovať preferenčný pôvod výrobkov vyhlásením na faktúre ................... | 500 Sk
+  - a) Žiadosť o povolenie vývozcovi osvedčovať preferenčný pôvod výrobkov vyhlásením na faktúre | 500 Sk
 
-  - b) Žiadosť o povolenie režimu s ekonomickým účinkom a žiadosť o prevádzkovanie colného skladu .......... | 500 Sk
+  - b) Žiadosť o povolenie používať účtovné delenie na spravovanie zásob na účely osvedčovania preferenčného pôvodu | 500 Sk
 
-  - c) Predĺženie platnosti povolenia na použitie režimu s ekonomickým účinkom, povolenia na prevádzkovanie colného skladu a povolenia zjednodušeného postupu pri podávaní colného vyhlásenia | 50 Sk
+  - c) Žiadosť o povolenie režimu s ekonomickým účinkom a žiadosť o prevádzkovanie colného skladu | 500 Sk
 
-  - d) Žiadosť o povolenie zjednodušeného postupu pri podávaní colného vyhlásenia .......................................... | 500 Sk
+  - d) Predĺženie platnosti alebo zmena povolenia na použitie režimu s ekonomickým účinkom, povolenia na prevádzkovanie colného skladu a povolenia zjednodušeného postupu pri podávaní colného vyhlásenia | 200 Sk
 
-  - e) Žiadosť o prijatie opatrenia proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru<sup>36o</sup>) ....................................................................................................................................................... | 500 Sk
+  - e) Žiadosť o povolenie zjednodušeného postupu pri podávaní colného vyhlásenia | 500 Sk
 
-  - f) Žiadosť o povolenie zjednodušeného postupu použitia celkovej záruky v spoločnom tranzitnom režime .. | 500 Sk
+  - f) Žiadosť o prijatie opatrenia proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru<sup>36o</sup>) | 500 Sk
 
-  - g) Žiadosť o povolenie zjednodušeného postupu oslobodenia od povinnosti zabezpečenia v spoločnom tranzitnom režime .................................................................................................................................................... | 500 Sk
+  - g) Žiadosť o povolenie zjednodušeného postupu použitia celkovej záruky v spoločnom tranzitnom režime | 500 Sk
 
-  - h) Žiadosť o povolenie zjednodušeného postupu udelenia štatútu schváleného odosielateľa a použitia osobitných uzáver v spoločnom tranzitnom režime ..................................................................................................... | 500 Sk
+  - h) Žiadosť o povolenie zjednodušeného postupu oslobodenia od povinnosti zabezpečenia v spoločnom tranzitnom režime | 500 Sk
 
-  - i) Žiadosť o povolenie zjednodušeného postupu udelenia štatútu schváleného príjemcu v spoločnom tranzitnom režime ....................................................................................................................................................... | 500 Sk
+  - i) Žiadosť o povolenie zjednodušeného postupu udelenia štatútu schváleného odosielateľa a použitia osobitných uzáver v spoločnom tranzitnom režime | 500 Sk
 
-  - j) Žiadosť o zjednodušený postup na colnom úrade odoslania na vykonanie tranzitných operácií v rámci colného územia (schválený odosielateľ) ...................................................................................................................... | 500 Sk
+  - j) Žiadosť o povolenie zjednodušeného postupu udelenia štatútu schváleného príjemcu v spoločnom tranzitnom režime | 500 Sk
 
-  - k) Žiadosť o zjednodušený postup na colnom úrade určenia v rámci colného územia (schválený príjemca) | 500 Sk
+  - k) Žiadosť o zjednodušený postup na colnom úrade odoslania na vykonanie tranzitných operácií v rámci colného územia (schválený odosielateľ) | 500 Sk
+
+  - l) Žiadosť o zjednodušený postup na colnom úrade určenia v rámci colného územia (schválený príjemca) | 500 Sk
+
+  - Oslobodenie |
+
+  - 1. Od poplatku podľa písmena c) tejto položky sú oslobodené právnické osoby a fyzické osoby, ak sa žiadosť o povolenie colného režimu s ekonomickým účinkom podáva zjednodušeným postupom. |
+
+  - 2. Od poplatku podľa písmena e) tejto položky sú oslobodené právnické osoby a fyzické osoby, ak ide o žiadosť o povolenie zjednodušeného postupu pri podávaní colného vyhlásenia pri neúplnom colnom vyhlásení. |
 
   - X. ČASŤ ŽIVOTNÉ PROSTREDIE
 
@@ -3770,7 +3790,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. sezónneho zamestnania | 1 000 Sk
 
-  - | 4. štúdia a činností podľa osobitných programov | 3 000 Sk
+  - | 4. štúdia a osobitnej činnosti | 3 000 Sk
 
   - | 5. zlúčenia rodiny | 4 000 Sk
 
@@ -3778,15 +3798,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) | Žiadosť o udelenie prvého povolenia na trvalý pobyt | 5 000 Sk
 
-  - Oslobodenie 1. Od poplatku podľa písmen a) a b) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 2. Od poplatku podľa písmena a) tejto položky je oslobodené udelenie povolenia na pobyt štipendistom vlády Slovenskej republiky, ktorým bolo štipendium priznané. 3. Od poplatkov podľa písmena a) tejto položky je na základe vzájomnosti oslobodené povolenie na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. | |
+  - Oslobodenie 1. Od poplatku podľa písmen a) a b) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 2. Od poplatku podľa písmena a) tejto položky je oslobodené udelenie povolenia na pobyt štipendistom vlády Slovenskej republiky, ktorým bolo štipendium priznané. 3. Od poplatkov podľa písmena a) tejto položky je na základe vzájomnosti oslobodené povolenie na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 4. Od poplatkov podľa písmena b) sú oslobodené osoby, ktoré požiadali o udelenie povolenia na trvalý pobyt podľa § 35 ods. 1 písm. a) a § 45b zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. | |
 
     - Položka 243
 
-  - a) Žiadosť o vydanie cestovného pasu ......................................................................................................... | 900 Sk
+  - a) Žiadosť o vydanie cestovného pasu ..... | 1 000 Sk
 
-  - b) Žiadosť o vydanie cestovného pasu osobe mladšej ako 15 rokov ..................................................... | 350 Sk
+  - b) Žiadosť o vydanie cestovného pasu osobe od 5 rokov do 15 rokov ..... | 400 Sk
 
-  - c) Predĺženie platnosti alebo vykonanie zmeny v cestovnom doklade .................................................... | 100 Sk
+  - c) Žiadosť o vydanie cestovného pasu osobe mladšej ako 5 rokov ..... | 250 Sk
+
+  - d) Vykonanie zmeny v cestovnom doklade, za každý úkon ..... | 100 Sk
 
   - Splnomocnenie Správny orgán vyberie poplatok podľa písmena a) tejto položky vo výške dvojnásobku príslušnej sadzby, ak prijíma žiadosť o vydanie cestovného pasu ako náhrady za stratený, zničený alebo poškodený cestovný pas vydaný od 1. apríla 1994. Poznámka Poplatok podľa tejto položky sa nevyberie, ak sa vydáva náhradou za platný cestovný doklad pri zmene rodného čísla nezavinenej občanom, z dôvodu chybného zápisu rodného čísla v matrike alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. |
 
