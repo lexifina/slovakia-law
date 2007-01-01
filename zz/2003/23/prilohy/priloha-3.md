@@ -242,35 +242,35 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
   - Metóda číslo | Oblasť aplikovania | | Činidlo
 
-  - 1 | Acetát | Určité iné vlákna | Acetón
+  - 1. | acetát | určité iné vlákna | acetón
 
-  - 2 | Určité proteínové vlákna | Určité iné vlákna | Chlórnan
+  - 2. | určité proteínové vlákna | určité iné vlákna | chlórnan
 
-  - 3 | Viskóza, meďnaté vlákno alebo určité typy modalu | Bavlna | Kyselina mravčia a chlorid zinočnatý
+  - 3. | viskóza, meďnaté vlákno alebo určité typy modalu | bavlna | kyselina mravčia a chlorid zinočnatý
 
-  - 4 | Polyamid alebo nylon | Určité iné vlákna | Kyselina mravčia, 80 % m/m
+  - 4. | polyamid alebo nylon | určité iné vlákna | kyselina mravčia, 80 % m/m
 
-  - 5 | Acetát | Triacetát | Benzylalkohol
+  - 5. | acetát | triacetát | benzylalkohol
 
-  - 6 | Triacetát | Určité iné vlákna | Dichlórmetán
+  - 6. | triacetát alebo polylaktid | určité iné vlákna | dichlórmetán
 
-  - 7 | Určité celulózové vlákna | Polyester | Kyselina sírová, 75 % m/m
+  - 7. | určité celulózové vlákna | polyester alebo elastomultiester | kyselina sírová, 75 % m/m
 
-  - 8 | Akrylové vlákna, určité modakrylové vlákna alebo určité chloridové vlákna | Určité iné vlákna | Dimetylformamid
+  - 8. | akrylové vlákna, určité modakrylové vlákna alebo určité chloridové vlákna | určité iné vlákna | dimetylformamid
 
-  - 9 | Určité chloridové vlákna | Určité iné vlákna | Sírouhlík/acetón, 55,5/ 44,5 v/v
+  - 9. | určité chloridové vlákna | určité iné vlákna | sírouhlík/acetón, 55,5/44,5 v/v
 
-  - 10 | Acetát | Určité chloridové vlákna | Ľadová kyselina octová
+  - 10. | acetát | určité chloridové vlákna | ľadová kyselina octová
 
-  - 11 | Hodváb | Vlna alebo vlasy (chlpy) | Kyselina sírová, 75 % m/m
+  - 11. | hodváb | vlna alebo srsť | kyselina sírová, 75 % m/m
 
-  - 12 | Juta | Určité živočíšne vlákna | Metóda na obsah dusíka
+  - 12. | juta | určité živočíšne vlákna | metóda na základe stanovenia obsahu dusíka
 
-  - 13 | Polypropylén | Určité iné vlákna | Xylén
+  - 13. | polypropylén | určité iné vlákna | xylén
 
-  - 14 | Chloridové vlákna (homopolyméry vinylchloridu) | Určité iné vlákna | Metóda s koncentrovanou kyselinou sírovou
+  - 14. | určité iné vlákna | chloridové vlákna (homopolyméry vinylchloridu) | metóda s použitím koncentrovanej kyseliny sírovej
 
-  - 15 | Chloridové vlákna, určité modakrylové vlákna, určité elastanové vlákna, acetátové vlákna, triacetátové vlákna | Určité iné vlákna | Cyklohexanón
+  - 15. | chloridové vlákna, určité modakrylové vlákna, určité elastanové vlákna, acetátové vlákna a triacetátové vlákna | určité iné vlákna | cyklohexanón
 
     - METÓDA č. 1 ACETÁT A URČITÉ INÉ VLÁKNA
 
@@ -286,7 +286,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
     - 1.2.
 
-    - s vlnou (1), zvieracími chlpami (2 a 3), hodvábom (4), bavlnou (5), ľanom (7), pravými konope (8), jutou (9), manilskými konope (10), alfou (11), kokosovým vláknom (12), kanafom (13), ramiou (14), sisalom - mexickými konope (15), meďnatým vláknom (21), modalom (22), proteínom (23), viskózou (25), akrylom (26), polyamidom alebo nylonom (30) a polyesterom (31).
+    - vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), ľanom (7), pravým konope (8), jutou (9), abakovým vláknom (10), alfou (11), kokosovým vláknom (12), vláknom broom (13), ramiovým vláknom (14), sisalovým vláknom (15), meďnatým vláknom (21), modalom (22), proteínovým vláknom (23), viskózou (25), akrylovým vláknom (26), polyamidom alebo nylonom (30), polyesterom (34) a elastomultiesterom (45).
 
     - Uvedenú metódu nemožno za žiadnych okolností použiť pri acetátových vláknach, ktoré boli deacetylované na povrchu.
 
@@ -332,7 +332,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. určitých proteínových vláken, konkrétne: vlny (1), zvieracích chlpov (2 a 3), hodvábu (4), proteínu (23),
 
-        - 1.2. s bavlnou (5), meďnatým vláknom (21), viskózou (25), akrylom (26), chloridovými vláknami (27), polyamidom alebo nylonom (30), polyesterom (31), polypropylénom (33), elastanom (39) a sklenými vláknami (40).
+        - 1.2. bavlnou (5), meďnatým vláknom (21), viskózou (25), akrylovým vláknom (26), chloridovými vláknami (27), polyamidom alebo nylonom (30), polyesterom (34), polypropylénom (36), elastanom (42), skleným vláknom (43) a elastomultiesterom (45).
 
         - Ak sú prítomné odlišné proteínové vlákna, metóda dáva súhrn ich čiastok, ale nie ich jednotlivé množstvá.
 
@@ -450,7 +450,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. polyamidu alebo nylonu (30)
 
-        - 1.2. s vlnou (1), zvieracími chlpami (2 a 3), bavlnou (5), meďnatým vláknom (21), modalovým vláknom (22), viskózou (25), akrylom (26), chloridovými vláknami (27), polyesterom (31), polypropylénom (33) a so skleným vláknom (40).
+        - 1.2. vlnou (1), zvieracou srsťou (2 a 3), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylovým vláknom (26), chloridovým vláknom (27), polyesterom (34), polypropylénom (36), skleným vláknom (43) a elastomultiesterom (45).
 
         - Ako bolo uvedené, táto metóda je taktiež použiteľná na zmesi s vlnou, no v prípade, ak je obsah vlny nad 25 %, mala by sa použiť metóda č. 2 (rozpúšťanie vlny v roztoku alkalického chlórnanu sodného).
 
@@ -544,19 +544,21 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 1. OBLASŤ APLIKOVANIA
 
-        - Túto metódu možno použiť po odstránení nevláknovej látky na dvojzložkové zmesi:
+        - Túto metódu možno použiť po odstránení nevláknovej látky na dvojzložkové zmesi
 
-        - 1.1. triacetátu (24)
+        - 1. triacetátu (24) alebo polylaktidu (33a)
 
-        - 1.2. s vlnou (1), zvieracími chlpami (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalovým vláknom (22), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (31) a so skleným vláknom (40).
+        - s
+
+        - 2. vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylovým vláknom (26), polyamidom alebo nylonom (30), polyesterom (34), skleným vláknom (43) a elastomultiesterom (45).
 
         - Poznámka
 
-        - Triacetátové vlákna, ktoré dostali apretúru vedúcu k čiastočnej hydrolýze, nebudú v činidle úplne rozpustné. V takýchto prípadoch metóda nie je použiteľná.
+        - Triacetátové vlákna, ktoré dostali apretúru vedúcu k čiastočnej hydrolýze, nie sú v činidle úplne rozpustné. V takých prípadoch metóda nie je použiteľná.
 
       - 2. PRINCÍP
 
-        - Triacetátové vlákno sa rozpúšťa zo známej suchej hmotnosti zmesi pomocou dichlórmetánu. Zvyšok sa zhromaždí, premyje, vysuší a odváži; jeho hmotnosť, ak je to potrebné korigovaná, sa vyjadrí ako percento suchej hmotnosti zmesi. Percento suchého triacetátu sa zistí rozdielom.
+        - Triacetátové alebo polylaktidové vlákna sa získavajú zo známej suchej hmotnosti zmesi prostredníctvom rozpúšťania dichlórmetánom. Zvyšok sa zhromažďuje, premýva, suší a váži; jeho hmotnosť, ktorá sa v prípade potreby upravuje, sa vyjadrí ako percentuálny podiel zo suchej hmotnosti zmesi. Percentuálny podiel suchého triacetátu sa zisťuje na základe vyjadrenia rozdielu.
 
       - 3. VYBAVENIE A ČINIDLÁ (iné ako tie, ktoré sú špecifikované vo všeobecných inštrukciách)
 
@@ -578,7 +580,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00 okrem polyesteru, pre ktorý hodnota d = 1,01.
+        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00 s výnimkou polyesteru a elastomultiesteru, pri ktorých hodnota d = 1,01.
 
       - 6. PRESNOSŤ
 
@@ -594,7 +596,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. bavlny (5), ľanu (7), konope (8), ramie - čínskej trávy (14), meďnatého vlákna (21), modalového vlákna (22), viskózy (25)
 
-        - 1.2. s polyesterom (31).
+        - 1.2. polyesterom (34) a elastomultiesterom (45).
 
       - 2. PRINCÍP
 
@@ -648,7 +650,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. akrylov (26), určitých modakrylov (29) alebo určitých chloridových vláken (27)<sup>1</sup>)
 
-        - 1.2. s vlnou (1), so zvieracími chlpami (2 a 3), s hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), polyamidom alebo nylonom (30) a polyesterom (31).
+        - 1.2. vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), polyamidom alebo nylonom (30), polyesterom (34) a elastomultiesterom (45).
 
         - Je rovnako použiteľná na akryly a určité modakryly spracovávané s kovovokomplexnými farbivami, ale nie tie, ktoré sú farbené chrómovými farbami.
 
@@ -686,17 +688,9 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00 okrem prípadov:
+        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00 s výnimkou týchto prípadov:
 
-        - pre vlnu d = 1,01
-
-        - pre bavlnu d = 1,01
-
-        - pre meďnaté vlákno d = 1,01
-
-        - pre modal d = 1,01
-
-        - pre polyester d = 1,01
+      - pre vlnu pre bavlnu pre meďnaté vlákno pre modal pre polyester pre elastomultiester | d = 1,01 d = 1,01 d = 1,01 d = 1,01 d = 1,01 d = 1,01
 
       - 6. PRESNOSŤ
 
@@ -712,7 +706,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. určitých chloridových vláken (27), menovite určitých polyvinylchloridových vláken, či už sú následne chlórované alebo nie<sup>1</sup>)
 
-        - 1.2. s vlnou (1), so zvieracími chlpami (2 a 3), s hodvábom (4), bavlnou (5), meďnatými vláknami (21), modalom (22), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (31), so skleným vláknom (40).
+        - 1.2. vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylovým vláknom (26), polyamidom alebo nylonom (30), polyesterom (34), skleným vláknom (43) a elastomultiesterom (45).
 
         - Ak je obsah vlny alebo hodvábu v zmesi viac ako 25 %, použije sa metóda č. 2. Ak je obsah polyamidu alebo nylonu v zmesi viac ako 25 %, použije sa metóda č. 4.
 
@@ -958,11 +952,11 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 1. OBLASŤ APLIKOVANIA
 
-      - Túto metódu možno použiť po odstránení nevláknovej látky na dvojzložkové zmesi:
+        - 1.1. propylénových vlákien (36)
 
-        - 1.1. polypropylénových vláken (33)
+        - s
 
-        - 1.2. s vlnou (1), živočíšnými chlpmi (2 a 3), hodvábom (4), bavlnou (5), acetátom (19), meďnatým vláknom (21), modalom (22), triacetátom (24), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (31) a skleným vláknom (40).
+        - 1.2. vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), acetátovým vláknom (19), meďnatým vláknom (21), modalom (22), triacetátovým vláknom (24), viskózou (25), akrylovým vláknom (26), polyamidom alebo nylonom (30), polyesterom (34), skleným vláknom (43) a elastomultiesterom (45).
 
       - 2. PRINCÍP
 
@@ -1018,7 +1012,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. chloridových vláken (27) založených na homopolyméroch vinylchloridu, či už následne chlórovaných alebo nie
 
-        - 1.2. s bavlnou (5), acetátom (19), meďnatým vláknom (21), modalom (22), triacetátom (24), viskózou (25), určitými akrylmi (26), určitými modakrylmi (29), polyamidom alebo nylonom (30) a polyesterom (31).
+        - 1.2. bavlnou (5), acetátovým vláknom (19), meďnatým vláknom (21), modalom (22), triacetátovým vláknom (24), viskózou (25), určitými akrylátovými vláknami (26), určitými modakrylátovými vláknami (29), polyamidom alebo nylonom (30), polyesterom (34) a elastomultiesterom (45).
 
         - Príslušné modakryly sú tie, ktoré dávajú číry roztok, keď sú ponorené do koncentrovanej kyseliny sírovej (relatívna hustota 1,84 pri 20 <sup>o</sup>C).
 
