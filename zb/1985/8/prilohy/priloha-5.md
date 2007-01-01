@@ -8,6 +8,8 @@ PRÍLOHA I
 
 - v znení zmien a doplnkov k 1. januáru 2005
 
+- Zmeny a doplnky k Poriadku pre medzinárodnú železničnú prepravu nebezpečného tovaru (RID) nadobudli platnosť 1. januára 2007 (oznámenie č. 40/2007 Z. z.). Do textu zmien a doplnkov k poriadku možno nahliadnuť na Ministerstve dopravy, pôšt a telekomunikácií Slovenskej republiky.
+
 - Členskými štátmi COTIF sú (stav k 1. januáru 2004):
 
 - Albánsko, Alžírsko, Belgicko, Bosna a Hercegovina, Bulharsko, Česká republika, Dánsko, Fínsko, Francúzsko, Grécko, Holandsko, Chorvátsko, Irak, Irán, Írsko, Juhoslávia, Maďarsko, Libanon, Lichtenštajnsko, Litva, Lotyšsko, Luxembursko, Macedónsko, Maroko, Monako, Nemecko, Nórsko, Poľsko, Portugalsko, Rakúsko, Rumunsko, Slovensko, Slovinsko, Sýria, Španielsko, Švajčiarsko, Švédsko, Taliansko, Tunisko, Turecko, Ukrajina, Veľká Británia.
