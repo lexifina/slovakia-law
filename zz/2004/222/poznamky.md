@@ -12,6 +12,10 @@
 
 - 6a) Zákon č. 610/2003 Z. z. o elektronických komunikáciách.
 
+- 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
+
+- § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 7) § 3 zákona č. 507/2001 Z. z. o poštových službách.
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
