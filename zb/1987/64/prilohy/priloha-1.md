@@ -150,6 +150,8 @@
 
     - Generálny tajomník Organizácie Spojených národov sa žiada, aby vyhotovil autorizovaný preklad príloh do anglického jazyka a tento preklad pripojil k overeným odpisom uvedeným v článku 17.
 
+    - Dňa 2. októbra 2006 boli prijaté zmeny a doplnky príloh A a B k Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR) (oznámenie č. 60/2007 Z. z.). Zmeny a doplnky príloh nadobudli platnosť 1. januára 2007 a týmto dňom nadobudli platnosť aj pre Slovenskú republiku. Tieto zmeny a doplnky sú uverejnené vo Vestníku Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 3/2007.
+
   - Príloha A | Všeobecné ustanovenia a ustanovenia týkajúce sa nebezpečných látok a predmetov | | | 421
 
   - Časť 1 | Všeobecné ustanovenia | | | 422
