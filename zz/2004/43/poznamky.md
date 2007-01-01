@@ -184,6 +184,8 @@
 
 - 79) § 113 zákona č. 566/2001 Z. z.
 
+- 79a) § 6 ods. 16 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 80) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z.
 
 - 81) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.

@@ -10,7 +10,9 @@
 
 - b) fyzická osoba, ktorá uzatvorila zmluvu o starobnom dôchodkovom sporení, nie je poistencom podľa osobitného predpisu,<sup>3</sup>)
 
-- c) fyzická osoba povinne zúčastnená na starobnom dôchodkovom sporení podľa § 14 ods. 1 uzatvorila túto zmluvu po uplynutí 30 dní odo dňa vzniku jej povinnej účasti na starobnom dôchodkovom sporení.
+- c) fyzická osoba povinne zúčastnená na starobnom dôchodkovom sporení podľa § 14 ods. 1 uzatvorila túto zmluvu po uplynutí 30 dní odo dňa vzniku jej povinnej účasti na starobnom dôchodkovom sporení,
+
+- d) sporiteľovi, ktorý uzatvoril zmluvu o starobnom dôchodkovom sporení podľa § 64b ods. 1, Sociálna poisťovňa nevydala akceptačný list podľa § 64b ods. 2.
 
 (4) Ak Sociálnej poisťovni bola doručená viac ako jedna zmluva o starobnom dôchodkovom sporení, Sociálna poisťovňa zapíše do registra zmlúv tú zmluvu o starobnom dôchodkovom sporení, ktorá jej bola doručená ako prvá.
 
