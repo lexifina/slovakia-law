@@ -2,6 +2,16 @@
 
 Zákon č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) v znení zákona č. 245/2003 Z. z. a zákona č. 525/2003 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 4 ods.1 písm. d) sa nad slovo „kvóty“ umiestňuje odkaz 2a.
+
+- Poznámka pod čiarou k odkazu 2a znie:
+
+- „2a)
+
+- § 2 písm. a) zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.“.
+
+- 2. V § 4 sa vypúšťajú odseky 6 až 19.
+
 - 3. V § 29 písmeno o) znie:
 
 - „o)
@@ -35,3 +45,7 @@ Zákon č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 4
 - „21)
 
 - Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.“.
+
+- 5. V § 41 ods.1 sa vypúšťa písmeno b).
+
+- Doterajšie písmená c) až n) sa označujú ako písmená b) až m).
