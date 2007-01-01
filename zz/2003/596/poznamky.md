@@ -72,7 +72,11 @@
 
 - 30) § 9 ods. 2 písm. c) zákona Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
 
+- 30a) Zákon č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 171/2005 Z. z.
+
 - 31) Zákon č. 597/2003 Z. z.
+
+- Zákon č. 564/2004 Z. z. v znení zákona č. 171/2005 Z. z.
 
 - 32) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
 
@@ -128,6 +132,10 @@
 
 - 53) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
+- 53a) § 57a a 57b zákona č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 53b) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
+
 - 54) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
 - 55) Čl. 34, 35, 38 a 42 Ústavy Slovenskej republiky.
@@ -135,6 +143,10 @@
 - 56) Zákon č. 308/1991 Zb. v znení zákona č. 394/2000 Z. z.
 
 - 57) Napríklad § 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov, § 1 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 57a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- § 2 ods. 2 písm. c) Obchodného zákonníka.
 
 - 58) § 45 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -189,3 +201,5 @@
 - 83) Nariadenie vlády Slovenskej republiky č. 157/1997 Z. z. o osobitných kvalifikačných predpokladoch na výkon niektorých činností v krajských úradoch a okresných úradoch.
 
 - 84) § 53 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 85) § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve.
