@@ -1,1 +1,0 @@
-Ján Matuský v. r.
