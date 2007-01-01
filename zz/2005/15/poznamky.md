@@ -110,9 +110,9 @@
 
 - 49) Čl. 8 ods. 5 nariadenia Rady (ES) č. 338/97.
 
-- 50) § 7 ods. 3 písm. s) zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve v znení neskorších predpisov.
+- 50) § 9 ods. 3 písm. v) zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov.
 
-- 51) § 6 ods. 3 písm. u) a § 6 ods. 4 zákona č. 240/2001 Z. z. v znení neskorších predpisov.
+- 51) § 11 ods. 3 písm. j) zákona č. 652/2004 Z. z.
 
 - 52) Zákon č. 488/2002 Z. z. v znení neskorších predpisov.
 
@@ -139,10 +139,6 @@
 - 60) Čl. 11 ods. 3 nariadenia Rady (ES) č. 338/97.
 
 - 61) Čl. 4, 5, 8 a 9 nariadenia Rady (ES) č. 338/97.
-
-- 62) Čl. 4 ods. 1 a 2 nariadenia Rady (ES) č. 338/97.
-
-- 63) Čl. 4 ods. 3 a 4 nariadenia Rady (ES) č. 338/97.
 
 - 64) Čl. 4 a 5 nariadenia Rady (ES) č. 338/97.
 
