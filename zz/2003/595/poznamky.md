@@ -60,7 +60,7 @@
 
 - 27) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
-- 28) Napríklad zákon č. 328/1991 Zb. v znení neskorších predpisov, § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 28) Napríklad § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
@@ -84,9 +84,11 @@
 
 - 37a) Napríklad zákon č. 382/2004 Z. z.
 
-- 38) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 38) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 39) Napríklad zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov, zákon č. 452/2004 Z. z. o náhradnom výživnom.
+
+- 39a) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
 - 40) § 5 a § 20 ods. 1 písm. a) zákona č. 328/2002 Z. z.
 
@@ -148,7 +150,7 @@
 
 - 63) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
 
-- 64) § 2 písm. a) zákona č. 601/2003 Z. z. životnom minime a o zmene a doplnení niektorých zákonov.
+- 64) Napríklad zákon č. 235/1998 Z. z. v znení neskorších predpisov, zákon č. 238/1998 Z. z. v znení neskorších predpisov, zákon č. 280/2002 Z. z. v znení neskorších predpisov, zákon č. 600/2003 Z. z. v znení zákona č. 485/2004 Z. z.
 
 - 66) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
@@ -210,8 +212,6 @@
 
 - 89) Zákonník práce.
 
-- Zákon č. 283/2002 Z. z. v znení neskorších predpisov.
-
 - 90) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach.
@@ -232,9 +232,11 @@
 
 - 96) § 801 Občianskeho zákonníka.
 
-- 97) Zákon č. 95/2002 Z. z.
+- 97) Zákon č. 80/1997 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 80/1997 Z. z. v znení neskorších predpisov.
+- Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 98) Zákon č. 326/2005 Z. z. o lesoch.
 
@@ -351,6 +353,8 @@
 - 135) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 136) § 45 zákona č. 383/1997 Z. z.
+
+- 136b) § 32 ods. 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 534/2005 Z. z.
 
 - 137) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
 
