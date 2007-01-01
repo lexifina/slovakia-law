@@ -4,6 +4,8 @@
 
 - 2) § 2 ods. 1 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
+- 2a) § 2 písm. a) zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
+
 - 3) § 22 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 4) § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
