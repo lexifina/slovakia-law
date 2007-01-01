@@ -4,9 +4,17 @@
 
 - 3) § 49 zákona č. 36/2005 Z. z.
 
+- 3a) § 3 až 7 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- § 34 až 42 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3b) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 4) § 102 ods. 1 písm. c) zákona č. 36/2005 Z. z.
 
 - 5) § 54 zákona č. 36/2005 Z. z.
+
+- 5a) § 29 ods. 1 zákona č. 36/2005 Z. z.
 
 - 6) Napríklad § 45 ods. 1 a § 78 zákona č. 94/1963 Zb. v znení neskorších predpisov.
 
