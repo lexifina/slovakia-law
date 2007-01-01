@@ -36,7 +36,7 @@
 
 - 15) § 8 písm. d) zákona č.566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
-- 16) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 353/2005 Z. z.
+- 16) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 16a) § 120 zákona č. 7/2005 Z. z. v znení zákona č. 353/2005 Z. z.
 
@@ -88,6 +88,12 @@
 
 - 30e) § 8 zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
 
+- 30f) § 50 ods. 1 až 3 zákona č. 222/2004 Z. z.
+
+- 30g) § 50 ods. 4 zákona č. 222/2004 Z. z. v znení zákona č. 523/2005 Z. z.
+
+- 30h) § 50 ods. 5 zákona č. 222/2004 Z. z.
+
 - 31) Napríklad zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
 
 - 32) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -101,6 +107,8 @@
 - 37) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z.
 
 - 38) § 4 ods.3 zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z.
+
+- 38a) Zákonník práce v znení neskorších predpisov.
 
 - 39) Napríklad § 355 Obchodného zákonníka.
 

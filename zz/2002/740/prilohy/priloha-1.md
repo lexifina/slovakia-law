@@ -1,6 +1,6 @@
 - Príloha č. 1 k opatreniu č. 23054/2002-92
 
-- Rámcová účtová osnova pre podnikateľov
+- RÁMCOVÁ ÚČTOVÁ OSNOVA PRE PODNIKATEĽOV
 
 - Účtová trieda 0 – Dlhodobý majetok
 
@@ -54,7 +54,7 @@
 
 - 06 – Dlhodobý finančný majetok
 
-- 061 – Podielové cenné papiere a podiely v ovládanej osobe
+- 061 – Podielové cenné papiere a podiely v dcérskej účtovnej jednotke
 
 - 062 – Podielové cenné papiere a podiely v spoločnosti s podstatným vplyvom
 
@@ -96,19 +96,19 @@
 
 - 09 – Opravné položky k dlhodobému majetku
 
-- 091 – Opravná položka k dlhodobému nehmotnému majetku
+- 091 – Opravné položky k dlhodobému nehmotnému majetku
 
-- 092 – Opravná položka k dlhodobému hmotnému majetku
+- 092 – Opravné položky k dlhodobému hmotnému majetku
 
-- 093 – Opravná položka k nedokončenému dlhodobému nehmotnému majetku
+- 093 – Opravné položky k nedokončenému dlhodobému nehmotnému majetku
 
-- 094 – Opravná položka k nedokončenému dlhodobému hmotnému majetku
+- 094 – Opravné položky k nedokončenému dlhodobému hmotnému majetku
 
-- 095 – Opravná položka k poskytnutým preddavkom na dlhodobý majetok
+- 095 – Opravné položky k poskytnutým preddavkom na dlhodobý majetok
 
-- 096 – Opravná položka k dlhodobému finančnému majetku
+- 096 – Opravné položky k dlhodobému finančnému majetku
 
-- 097 – Opravná položka k nadobudnutému majetku
+- 097 – Opravné položky k nadobudnutému majetku
 
 - 098 – Oprávky k opravnej položke k nadobudnutému majetku
 
@@ -142,17 +142,17 @@
 
 - 19 – Opravné položky k zásobám
 
-- 191 – Opravná položka k materiálu
+- 191 – Opravné položky k materiálu
 
-- 192 – Opravná položka k nedokončenej výrobe
+- 192 – Opravné položky k nedokončenej výrobe
 
-- 193 – Opravná položka k polotovarom vlastnej výroby
+- 193 – Opravné položky k polotovarom vlastnej výroby
 
-- 194 – Opravná položka k výrobkom
+- 194 – Opravné položky k výrobkom
 
-- 195 – Opravná položka k zvieratám
+- 195 – Opravné položky k zvieratám
 
-- 196 – Opravná položka k tovaru
+- 196 – Opravné položky k tovaru
 
 - Účtová trieda 2 – Finančné účty
 
@@ -314,7 +314,7 @@
 
 - 39 – Opravná položka k zúčtovacím vzťahom a vnútorné zúčtovanie
 
-- 391 – Opravná položka k pohľadávkam
+- 391 – Opravné položky k pohľadávkam
 
 - 395 – Vnútorné zúčtovanie
 
@@ -378,7 +378,7 @@
 
 - 473 – Vydané dlhopisy
 
-- 474 - Záväzky z nájmu
+- 474 – Záväzky z nájmu
 
 - 475 – Dlhodobé prijaté preddavky
 
@@ -407,6 +407,8 @@
 - 503 – Spotreba ostatných neskladovateľných dodávok
 
 - 504 – Predaný tovar
+
+- 505 – Tvorba a zúčtovanie opravných položiek k zásobám
 
 - 51 – Služby
 
@@ -462,21 +464,15 @@
 
 - 549 – Manká a škody
 
-- 55 – Odpisy, rezervy a opravné položky nákladov na hospodársku činnosť
+- 55 – Odpisy a opravné položky k dlhodobému majetku
 
 - 551 – Odpisy dlhodobého nehmotného majetku a dlhodobého hmotného majetku
 
-- 552 – Tvorba zákonných rezerv
-
-- 554 – Tvorba ostatných rezerv
+- 553 – Tvorba a zúčtovanie opravných položiek k dlhodobému majetku
 
 - 555 – Zúčtovanie komplexných nákladov budúcich období
 
 - 557 – Zúčtovanie oprávky k opravnej položke k nadobudnutému majetku
-
-- 558 – Tvorba zákonných opravných položiek
-
-- 559 – Tvorba ostatných opravných položiek
 
 - 56 – Finančné náklady
 
@@ -488,6 +484,8 @@
 
 - 564 – Náklady na precenenie cenných papierov
 
+- 565 – Tvorba a zúčtovanie opravných položiek k finančnému majetku
+
 - 566 – Náklady na krátkodobý finančný majetok
 
 - 567 – Náklady na derivátové operácie
@@ -496,23 +494,11 @@
 
 - 569 – Manká a škody na finančnom majetku
 
-- 57 – Rezervy a opravné položky finančných nákladov
-
-- 574 – Tvorba rezerv
-
-- 579 – Tvorba opravných položiek
-
 - 58 – Mimoriadne náklady
-
-- 581 – Náklady na zmenu metódy
 
 - 582 – Škody
 
-- 584 – Tvorba rezerv
-
 - 588 – Ostatné mimoriadne náklady
-
-- 589 – Tvorba opravných položiek
 
 - 59 – Dane z príjmov a prevodové účty
 
@@ -576,19 +562,11 @@
 
 - 648 – Ostatné výnosy z hospodárskej činnosti
 
-- 65 – Zúčtovanie rezerv a opravných položiek výnosov z hospodárskej činnosti
-
-- 652 – Zúčtovanie zákonných rezerv
-
-- 654 – Zúčtovanie ostatných rezerv
+- 65 – Zúčtovanie niektorých položiek z hospodárskej činnosti
 
 - 655 – Zúčtovanie komplexných nákladov budúcich období
 
 - 657 – Zúčtovanie oprávky k opravnej položke k nadobudnutému majetku
-
-- 658 – Zúčtovanie zákonných opravných položiek
-
-- 659 – Zúčtovanie ostatných opravných položiek
 
 - 66 – Finančné výnosy
 
@@ -608,23 +586,11 @@
 
 - 668 – Ostatné finančné výnosy
 
-- 67 – Zúčtovanie rezerv a opravných položiek finančných výnosov
-
-- 674 – Zúčtovanie rezerv
-
-- 679 – Zúčtovanie opravných položiek
-
 - 68 – Mimoriadne výnosy
-
-- 681 – Výnosy zo zmeny metódy
 
 - 682 – Náhrady škôd
 
-- 684 – Zúčtovanie rezerv
-
 - 688 – Ostatné mimoriadne výnosy
-
-- 689 – Zúčtovanie opravných položiek
 
 - 69 – Prevodové účty
 
