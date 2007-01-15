@@ -92,6 +92,8 @@
 
 - 27a) § 20 ods. 4, § 21 ods. 3 a § 22 ods. 5 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 27b) Nariadenie (ES) č. 881/2004 Európskeho parlamentu a Rady z 29. apríla 2004, ktorým sa ustanovuje Európska železničná agentúra (Nariadenie o agentúre) (Ú. v. EÚ L 220, 21. 6. 2004).
+
 - 28) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
 - 29) § 18 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.§ 30 zákona č. 264/1999 Z. z.

@@ -52,7 +52,7 @@ schvaľuje zmluvy o prístupe na dopravnú cestu medzi prevádzkovateľom dráhy
 
 i)
 
-schvaľuje typy dráhových vozidiel železničných dráh a ich podstatné zmeny znamenajúce odchýlku od schváleného typu, vykonáva evidenciu dráhových vozidiel a prideľuje evidenčné čísla dráhovým vozidlám,
+schvaľuje typy dráhových vozidiel a ich podstatné zmeny znamenajúce odchýlku od schváleného typu, schvaľuje ich technickú spôsobilosť na prevádzku, prideľuje evidenčné čísla dráhovým vozidlám a vedie národný register dráhových vozidiel a národný register železničnej infraštruktúry,
 
 j)
 
@@ -77,3 +77,7 @@ vydáva na základe zákona všeobecne záväzné právne predpisy, ktoré sa vy
 o)
 
 vykonáva štátny dozor a ukladá sankcie.
+
+p)
+
+povoľuje uvedenie do prevádzky štrukturálnych subsystémov, ktoré tvoria európsky železničný systém na území Slovenskej republiky a kontroluje, či sú správne prevádzkované a udržiavané.
