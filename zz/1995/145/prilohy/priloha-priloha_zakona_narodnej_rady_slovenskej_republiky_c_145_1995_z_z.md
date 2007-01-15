@@ -3122,7 +3122,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) o povolení na nakladanie s jadrovými materiálmi ........................................................................................ | 5 000 Sk
 
-  - j) o povolení na dovoz alebo vývoz jadrových materiálov, špeciálnych materiálov a zariadení ................ | 5 000 Sk
+  - j) o povolení na dovoz alebo vývoz jadrových materiálov, vývoz špeciálnych materiálov a zariadení ...... | 5 000 Sk
 
   - k) o povolení na prepravu rádioaktívnych materiálov ....................................................................................... | 5 000 Sk
 
