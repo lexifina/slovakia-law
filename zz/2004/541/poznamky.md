@@ -36,7 +36,7 @@
 
 - 17) Kapitola 7 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
 
-- 18) § 9 ods. 4 písm. c), § 14 ods. 4 písm. c) zákona č. 26/2002 Z. z. o podmienkach a kontrole dovozu, vývozu a sprostredkovateľských činností týkajúcich sa tovaru a technológií podliehajúcich medzinárodným kontrolným režimom a o zmene zákona č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 18) § 9 ods. 6 písm. c) , § 13 ods. 4 písm. c) a § 20 ods. 3 písm. b) zákona č. 21/2007 Z. z. o tovare a technológiách dvojakého použitia a o zmene a doplnení niektorých zákonov.
 
 - 19) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
