@@ -155,3 +155,5 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 61. | Kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie | - osvedčenie o odbornej spôsobilosti | § 9 ods. 4 písm. a) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov |
 
 - 62. | Hodnotenie zdravotných rizík zo životného prostredia | - osvedčenie o odbornej spôsobilosti | § 9 ods. 4 písm. b) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov". |
+
+- 63. | Kontrola kotlov a vykurovacích sústav, kontrola klimatizačných systémov | osvedčenie | § 7 ods. 3 zákona č. 17/2007 Z. z. o pravidelnej kontrole kotlov, vykurovacích sústav a klimatizačných systémov a o zmene a doplnení niektorých zákonov |
