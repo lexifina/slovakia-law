@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 3/2007 Z. z.
+
+- OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH MINERÁLNYCH ZDROJOV V NOVEJ ĽUBOVNI ![Obrázek 01](../assets/e2604ad2a7b239a0c5bc881c9b74687c9b87af4a73d7ec7bd339df8054816552.png)
