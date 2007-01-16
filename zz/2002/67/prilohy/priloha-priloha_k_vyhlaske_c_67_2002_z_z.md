@@ -1209,3 +1209,27 @@ Látka nemusí byť klasifikovaná ako karcinogénna, ak sa dá dokázať, že o
 Poznámka R
 
 Klasifikácia látky ako karcinogénnej sa nevyžaduje pri vláknach s dĺžkou váženého geometrického priemeru menšieho ako dve štandardné geometrické odchýlky väčšie ako 6 µm.
+
+LI. Ftaláty alebo iné čísla CAS a EC týkajúce sa tejto látky:
+
+- bis(2-etylhexyl)-ftalát (DEHP) | CAS č. 117-81-7 | EC č. 204-211-0
+
+- dibutyl-ftalát (DBP) | CAS č. 84-74-2 | EC č. 201-557-4
+
+- benzyl-butyl-ftalát (BBP) | CAS č. 85-68-7 | EC č. 201-622-7
+
+Nesmú sa použiť ako látky alebo zložky prípravkov v hračkách a vo výrobkoch určených na starostlivosť o dieťa v koncentrácii vyššej ako 0,1 hmotnostného % mäkčeného materiálu.
+
+Hračky a výrobky určené na starostlivosť o dieťa obsahujúce tieto ftaláty v koncentrácii vyššej ako 0,1 hmotnostného % mäkčeného materiálu sa nesmú uvádzať na trh.
+
+LIa. Ftaláty alebo iné čísla CAS a EC týkajúce sa tejto látky:
+
+- di-izononyl-ftalát (DINP) | CAS č. 28553-12-0 CAS č. 68515-48-0 | EC č. 249-079-5 a EC č. 271-090-9
+
+- di-izodecyl-ftalát (DIDP) | CAS č. 26761-40-0 CAS č. 68515-49-1 | EC č. 247-977-1 a EC č. 271-091-4
+
+- di-n-oktyl-ftalát (DNOP) | CAS č. 117-84-0 | EC č. 204-214-7
+
+Nesmú sa použiť ako látky alebo zložky prípravkov v hračkách a vo výrobkoch určených na starostlivosť o dieťa, ktoré si deti môžu vkladať do úst, v koncetrácii vyššej ako 0,1 hmotnostného % mäkčeného materiálu.
+
+Hračky a výrobky určené na starostlivosť o dieťa obsahujúce tieto ftaláty v koncentrácii vyššej ako 0,1 hmotnostného % mäkčeného materiálu sa nesmú uvádzať na trh.
