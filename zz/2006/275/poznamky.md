@@ -10,8 +10,6 @@
 
 - 3) Napríklad zákon č. 428/2002 Z. z. v znení neskorších predpisov, zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 4) § 18 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
-
 - 5) § 5 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 25/2006 Z. z.
 
 - 6) § 9 zákona č. 215/2002 Z. z.
