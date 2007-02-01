@@ -1,0 +1,1 @@
+- 1) Smernice Rady sú preložené do slovenského jazyka; do úradného prekladu v slovenskom jazyku možno nahliadnuť v sídle Inštitútu pre aproximáciu práva Úradu vlády Slovenskej republiky, Námestie slobody 1/29, Bratislava.
