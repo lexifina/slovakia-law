@@ -343,3 +343,21 @@
   - Podľa čl. 54 ods. 2 si Maďarská republika vyhradzuje právo prijímať len písomnosti v maďarskom jazyku. Ak nie je reálne možné písomnosti preložiť do maďarského jazyka, bude akceptovaný preklad do anglického jazyka.
 
   - Maďarská republika si vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu majetku dieťaťa, ktorý sa nachádza na jej území, ako aj právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým jej orgánmi vo vzťahu k takému majetku.
+
+  - Bulharská republika
+
+  - a) Dohovor pre Bulharskú republiku nadobudol platnosť 1. februára 2007.
+
+  - b) Bulharská republika pri uložení ratifikačnej listiny urobila túto výhradu a vyhlásenie:
+
+  - 1. „Podľa článku 60 ods. 1 dohovoru si Bulharská republika vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území, a vyhradzuje si právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým vo vzťahu k takému majetku jej orgánmi."
+
+  - 2. „Bulharská republika vyhlasuje, že žiadosti podľa článku 34 ods. 1 tohto dohovoru sa smú zasielať jej orgánom len prostredníctvom ústredného orgánu."
+
+  - 3. Podľa článku 29 dohovoru Bulharská republika určila ústredný orgán:
+
+  - Ministerstvo spravodlivosti Bulharskej republiky
+
+  - Slavianska 1
+
+  - 1040 Sofia
