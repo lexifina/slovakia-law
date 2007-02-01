@@ -1,6 +1,6 @@
 # § 29b Samosprávny kraj
 
-Samosprávny kraj
+Samosprávny kraj pri výkone samosprávy
 
 - a) udeľuje a odníma dopravnú licenciu na vnútroštátnu pravidelnú autobusovú dopravu,
 
@@ -10,7 +10,7 @@ Samosprávny kraj
 
 - d) vykonáva odborný dozor nad cestnou dopravou v kraji, ak ide o pravidelnú autobusovú dopravu,
 
-- e) ukladá dopravcom pokuty za porušenie povinností (§ 35 ods. 1 a 2), ak nejde o medzinárodnú pravidelnú autobusovú dopravu,
+- e) ukladá dopravcom pokuty za porušenie povinností (§ 35 ods. 1 a 2),
 
 - f) prejednáva priestupky podľa § 36 a podľa osobitného predpisu,<sup>28b</sup>) ak boli spáchané na úseku štátnej správy v pôsobnosti samosprávneho kraja,
 
