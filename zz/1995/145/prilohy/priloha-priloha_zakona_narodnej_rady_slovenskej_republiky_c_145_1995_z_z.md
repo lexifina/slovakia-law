@@ -1272,69 +1272,65 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 79
 
-  - a) Vydanie dopravnej licencie vnútroštátnemu dopravcovi |
+  - a) Vydanie dopravnej licencie dopravcovi |
 
-  - 1. na medzinárodnú verejnú pravidelnú autobusovú dopravu, za každý aj začatý rok ............................. | 3 000 Sk
+  - 1. na medzinárodnú pravidelnú autobusovú dopravu, za každý aj začatý rok | 3 000 Sk
 
-  - 2. na medzinárodnú osobitnú pravidelnú autobusovú dopravu, za každý aj začatý rok ........................... | 2 000 Sk
+  - 2. na medzinárodnú osobitnú pravidelnú autobusovú dopravu, za každý aj začatý rok | 2 000 Sk
 
-  - 3. na vnútroštátnu verejnú pravidelnú autobusovú dopravu, za každý aj začatý rok ................................. | 2 000 Sk
+  - 3. na vnútroštátnu pravidelnú autobusovú dopravu, za každý aj začatý rok | 2 000 Sk
 
-  - 4. na vnútroštátnu osobitnú pravidelnú autobusovú dopravu, za každý aj začatý rok ............................... | 1 000 Sk
+  - 4. na vnútroštátnu osobitnú pravidelnú autobusovú dopravu, za každý aj začatý rok | 1 000 Sk
 
-  - 5. na mestskú autobusovú dopravu, za každých aj začatých päť rokov na jednu autobusovú linku ...... | 1 000 Sk
+  - 5. na mestskú autobusovú dopravu, za každých aj začatých päť rokov na jednu autobusovú linku v obci | 500 Sk
 
-  - 6. na mestskú autobusovú dopravu, za každých aj začatých päť rokov na viac autobusových liniek mestskej hromadnej dopravy v obci .......................................................................................................... | 5 000 Sk
+  - 6. na mestskú autobusovú dopravu, za každých aj začatých päť rokov na viac autobusových liniek v obci | 5 000 Sk
 
-  - b) Vydanie dopravnej licencie na neurčitý čas podľa písmena a) .................................................................. | 25 000 Sk
+  - b) Vykonanie zmeny dopravnej licencie podľa písmena a) | 50 % príslušnej sadzby
 
-  - c) Vydanie dopravnej licencie zahraničnému dopravcovi na medzinárodnú autobusovú dopravu, za každý aj začatý rok ............................................................................................................................................... | 10 000 Sk
+  - c) Vydanie povolenia na prevádzkovanie medzinárodnej nákladnej cestnej dopravy zahraničným dopravcom medzi dvoma miestami na území Slovenskej republiky |
 
-  - d) Vykonanie zmeny dopravnej licencie podľa písmen a) až c) ....................................................................... | 50 % príslušnej sadzby
+  - 1. na jednu prepravu jedným vozidlom | 5 000 Sk
 
-  - e) Vydanie povolenia na prevádzkovanie medzinárodnej cestnej nákladnej dopravy zahraničným dopravcom medzi dvoma miestami na území Slovenskej republiky |
+  - 2. na dve až päť prepráv jedným vozidlom | 10 000 Sk
 
-  - 1. na jednu prepravu jedným vozidlom ............................................................................................................... | 5 000 Sk
+  - 3. na neobmedzený počet prepráv jedným vozidlom | 30 000 Sk
 
-  - 2. na dve až päť prepráv jedným vozidlom ......................................................................................................... | 10 000 Sk
+  - d) Vydanie povolenia na medzinárodnú nepravidelnú autobusovú dopravu do miesta na území Slovenskej republiky alebo z neho, alebo cez územie Slovenskej republiky |
 
-  - 3. na neobmedzený počet prepráv jedným vozidlom ....................................................................................... | 30 000 Sk
+  - 1. na jednu prepravu jedným motorovým vozidlom | 200 Sk
 
-  - f) Vydanie povolenia na prevádzkovanie medzinárodnej cestnej nepravidelnej osobnej (autobusovej) dopravy do miesta na území Slovenskej republiky alebo z neho, alebo cez územie Slovenskej republiky zahraničným dopravcom ................................................................................................... |
+  - 2. na opakovanú (kyvadlovú) dopravu | 6 000 Sk
 
-  - 1. na jednu prepravu jedným vozidlom ............................................................................................................... | 1 000 Sk
+  - e) Podanie žiadosti o schválenie cestovného poriadku alebo o jeho zmenu | 200 Sk
 
-  - 2. na opakovanú (kyvadlovú) dopravu ................................................................................................................. | 6 000 Sk
+  - f) Vydanie povolenia CEMT<sup>23</sup>) na medzinárodnú nákladnú cestnú dopravu |
 
-  - g) Vydanie povolenia na prevádzkovanie medzinárodnej cestnej nákladnej dopravy zahraničným prevádzkovateľom na jednu prepravu jedným motorovým vozidlom .............................................................. | 10 000 Sk
+  - 1. do príslušných štátov uvedených v povolení s platnosťou aj do Rakúska na dobu jedného roka | 20 000 Sk
 
-  - h) Podanie žiadosti o schválenie cestovného poriadku alebo o jeho zmenu ................................................ | 200 Sk
+  - 2. do príslušných štátov uvedených v povolení s platnosťou aj do Talianska a Grécka na dobu jedného roka | 15 000 Sk
 
-  - i) Vydanie povolenia<sup>23</sup>) CEMT slovenskému prevádzkovateľovi na prevádzkovanie medzinárodnej cestnej nákladnej dopravy ....................................................................................................................................... |
+  - 3. do príslušných štátov uvedených v povolení bez platnosti do Rakúska, Talianska a Grécka na dobu jedného roka | 10 000 Sk
 
-  - 1. do príslušných štátov uvedených v povolení s platnosťou aj do Rakúska na neobmedzený počet prepráv na dobu jedného roka ............................................................................................................................... | 30 000 Sk
+  - g) Odovzdanie neadresného povolenia<sup>23</sup>) druhého štátu slovenskému prevádzkovateľovi na vykonávanie medzinárodnej nákladnej cestnej dopravy alebo nepravidelnej autobusovej dopravy |
 
-  - 2. do príslušných štátov uvedených v povolení bez Rakúska na neobmedzený počet prepráv na dobu jedného roka .............................................................................................................................................. | 20 000 Sk
+  - 1. jednorazové (do cudzieho štátu a späť) | 200 Sk
 
-  - j) Odovzdanie neadresného povolenia<sup>23</sup>) druhého štátu slovenskému prevádzkovateľovi na prevádzkovanie medzinárodnej cestnej nákladnej a nepravidelnej osobnej (autobusovej) dopravy |
+  - 2. jednorazové do tretieho štátu a späť | 500 Sk
 
-  - 1. jednorazové do Rakúska (tam a späť) ........................................................................................................... | 250 Sk
+  - 3. trvalé (neobmedzený počet prepráv na dobu jedného roka alebo na dobu určenú v prepravnom povolení) | 5 000 Sk
 
-  - 2. jednorazové (do cudzieho štátu a späť) ......................................................................................................... | 200 Sk
+  - h) Vydanie povolenia na medzinárodnú nepravidelnú autobusovú dopravu, medzinárodnú nákladnú cestnú dopravu alebo medzinárodnú taxislužbu<sup>22b</sup>) | 500 Sk
 
-  - 3. trvalé (neobmedzený počet prepráv na dobu jedného roka alebo na dobu určenú v prepravnom povolení) do Rakúska .............................................................................................................................................. | 10 000 Sk
+  - i) Vydanie povolenia Spoločenstva alebo licencie Spoločenstva<sup>22c</sup>) | 200 Sk
 
-  - 4. trvalé (neobmedzený počet prepráv na dobu jedného roka alebo na dobu určenú v prepravnom povolení) do ostatných štátov .................................................................................................................................. | 5 000 Sk
+  - j) Vydanie overenej kópie povolenia Spoločenstva alebo licencie Spoločenstva na každé vozidlo | 50 Sk
 
-  - 5. jednorazové do tretieho štátu a späť ............................................................................................................... | 500 Sk
+  - k) Podanie žiadosti o vydanie potvrdenia o vykonávaní medzinárodnej autobusovej dopravy pre vlastnú potrebu<sup>22d</sup>) | 100 Sk
 
-  - 6. na opakovanú (kyvadlovú) autobusovú dopravu do Rakúska .................................................................... | 1 000 Sk
+  - l) Vydanie osvedčenia o odbornej príprave poradcov<sup>22a</sup>) | 500 Sk
 
-  - 7. na opakovanú (kyvadlovú) autobusovú dopravu do ostatných štátov ....................................................... | 600 Sk
-
-  - k) Vydanie osvedčenia o odbornej príprave poradcov <sup>22a</sup>) ............................................................................... | 500 Sk
-
-  - l) Vydanie povolenia na medzinárodnú nepravidelnú autobusovú dopravu, medzinárodnú nákladnú cestnú dopravu alebo medzinárodnú taxislužbu<sup>22b</sup>) .......................................................................................... | 500 Sk
+  - m) Podanie žiadosti o vydanie osvedčenia vodiča<sup>22e</sup>) | 200 Sk
 
   - Splnomocnenie 1. Správny orgán môže upustiť od vybratia poplatku, ak ide o prepravu poľnohospodárskych výrobkov, prepravu vykonanú z humanitných dôvodov alebo z dôvodov verejného záujmu. 2. Správny orgán môže na základe vzájomnosti od vybratia poplatku upustiť alebo sadzbu poplatku znížiť. V odôvodnených prípadoch, predovšetkým z hľadiska zabezpečenia zásad dopravnej politiky, môže správny orgán poplatok podľa tejto položky zvýšiť až na trojnásobok. 3. Za dodatočne vydávanú licenciu (povolenie) môže správny orgán zvýšiť príslušnú sadzbu poplatku až na trojnásobok. |
 

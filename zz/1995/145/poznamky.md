@@ -80,7 +80,13 @@
 
 - 22ac) § 111 zákona č. 725/2004 Z. z.
 
-- 22b) § 29 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení zákona č. 506/2002 Z. z.
+- 22b) § 29 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
+
+- 22c) § 28 ods. 1 písm. p) a r) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
+
+- 22d) § 28 ods. 1 písm. q) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
+
+- 22e) § 28 ods. 1 písm. s) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
 
 - 23) § 23 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení neskorších predpisov.
 
