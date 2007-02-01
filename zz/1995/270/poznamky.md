@@ -14,6 +14,8 @@
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z.
 
+- 6a) Napríklad § 3 ods. 6 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2007 Z. z.
+
 - 7) § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku.
 
 - 8) § 3 a 3a zákona č. 29/1984 Zb. v znení zákona č. 171/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
