@@ -274,17 +274,19 @@ K oznámeniu č. 129/2006 Z. z.
 
   - Rovaniemen maistraatti Rovakatu 8 P.B. 8183 96101 ROVANIEMI tel.: +358 (16) 329-4111 fax: +358 (16) 329-4999 | Lapin maistraatti Valtion virastotalo 99100 KITTILÄ tel.: +358 (16) 651-2275 fax: +358 (16) 651-2270 |
 
-    - Francúzsko
+    - Francúzska republika
 
   - 1. pre departmenty v Európe a v zámorí (Guadeloupe, Guyana, Martinik a Réunion) „les Procureurs généraux prčs les cours ďappel“
 
   - 2. pre zámorské územia
 
+  - Mayotte | ,le Procureur de la République pres le Tribunal supérieur d´appel de Mayotte`
+
   - Nová Kaledónia | "le Procureur général prčs la Cour ď appel de Nouméa"
 
   - Wallis a Futuna | „le juge de la section du Tribunal de premičre instance de Nouméa, siégeant ŕ Mata Utu"
 
-  - Francúzska Polynézia | „le Procureur de la République prčs le Tribunal supérieur d’appel de Papeete"
+  - Francúzska Polynézia | ,le Procureur général pres la Cour d´appel de Papeete`
 
   - Sv. Peter a Michal (St. Pierre; Miquelon) | „le Président du Tribunal supérieur d’appel de St. Pierre"
 
