@@ -1116,17 +1116,21 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Ministerstvo zahraničných vecí
 
-    - Samoa
+    - Samojský nezávislý štát
 
-    - „The Secretary for Foreign Affairs
+    - The Chief Executive Officer (v čase jeho neprítomnosti ,The Acting Chief Executive Officer`)
 
-    - Ministry of Foreign Affairs"
+    - Ministry of Foreign Affairs and Trade
 
-    - P.O. Box L1861
+    - P. O. BOX L 1859
 
-      - APIA
+      - Apia, Samoa
 
-      - Samoa
+      - Tel.: + (685) 21171/25313
+
+      - Fax: +(685) 21504
+
+      - e-mail: mfa@mfat.gov.ws
 
       - San Maríno
 
