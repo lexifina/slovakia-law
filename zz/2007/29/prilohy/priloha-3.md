@@ -22,7 +22,7 @@ Príloha č. 3
 
 - 10 | Lesnica - Szczawnica | II/91 | peší, bicykle, lyže, invalidné vozíky | 1. 6. - 31. 10. 1. 11. - 31. 5. | 7,00 - 19,00 9,00 - 16,00
 
-- 11 | Červený Kláštor - Sromowce Nižne | II/104 | peší, bicykle, invalidné vozíky | 1. 5. - 31. 10. | 7,00 - 19,00
+- 11 | Sromowce Nizne - Červený Kláštor | II/105 | invalidné vozíky, peší, bicykle, lyže | celoročne | 6,00 - 22,00
 
 - 12 | Veľká Franková - Kacwin | II/138/I- II/138/II | peší, bicykle | 1. 7. - 15. 11. | 7,00 - 19,00
 
