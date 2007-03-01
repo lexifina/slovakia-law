@@ -1,5 +1,7 @@
-- 1) § 21 ods. 4 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 1) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 2) Zákon Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
+- 2) § 12 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
-- 3) Zákon č. 203/2001 Z. z. o Agentúre na podporu vedy a techniky v znení zákona č. 132/2002 Z. z.
+- 3) § 12 zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 4) § 10 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
