@@ -12,6 +12,12 @@
 
 - 7) § 8 zákona č. 212/1997 Z. z. v znení zákona č. 182/2000 Z. z.
 
+- 7a) § 79 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+
+- 7b) § 48 zákona č. 618/2003 Z. z.
+
+- 7c) § 5 ods. 19 zákona č. 618/2003 Z. z.
+
 - 8) Zákon Slovenskej národnej rady č. 74/1963 Zb. o Slovenskej akadémii vied v znení neskorších predpisov.
 
 - 9) § 13 ods. 4 a 7 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
@@ -20,7 +26,7 @@
 
 - 11) § 488 Občianskeho zákonníka.
 
-- 12) § 24 zákona č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov.
+- 12) § 31 zákona č. 618/2003 Z. z.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
