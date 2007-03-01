@@ -20,6 +20,8 @@
 
 - 4a) Vyhláška Úradu priemyselného vlastníctva Slovenskej republiky č. 117/1997 Z. z., ktorou sa vykonáva zákon č. 55/1997 Z. z. o ochranných známkach.
 
+- 4aa) Občiansky zákonník.
+
 - 4b) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
 
 - 5) § 508 a nasl. Obchodného zákonníka.
