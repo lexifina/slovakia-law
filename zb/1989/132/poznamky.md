@@ -34,4 +34,6 @@
 
 - 6a) § 2 ods. 2 Obchodného zákonníka.
 
+- 6aa) Občiansky zákonník.
+
 - 7) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení zákona Slovenskej národnej rady č. 524/1990 Zb., zákona Slovenskej národnej rady č. 266/1992 Zb., zákona Slovenskej národnej rady č. 295/1992 Zb., zákona Slovenskej národnej rady č. 511/1992 Zb., zákona Národnej rady Slovenskej republiky č. 237/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 248/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 250/1994 Z. z.
