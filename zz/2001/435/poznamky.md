@@ -24,6 +24,8 @@
 
 - 13) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
+- 13a) Občiansky zákonník.
+
 - 14) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
 
 - 15) Vyhláška ministra zahraničných vecí č. 212/1989 Zb. o Budapeštianskej zmluve o medzinárodnom uznávaní uloženia mikroorganizmov na účely patentového konania a Vykonávacieho predpisu k nej.
@@ -44,13 +46,7 @@
 
 - 22) Zákon č. 478/1992 Zb. o úžitkových vzoroch v znení zákona č. 90/1993 Z. z.
 
-- 23) Zákon Národnej rady Slovenskej republiky č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
-
-- 24) Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekárskej starostlivosti.
-
-- 25) Zákon Národnej rady Slovenskej republiky č. 140/1998 Z. z.
-
-- Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z.
+- 22a) Nariadenie Rady (EHS) č. 1768/92 z 18. júna 1992 o vytvorení dodatkového ochranného osvedčenia na liečivá (Mimoriadne vydanie Ú. v. EÚ, kap. 13/ zv. 11, Ú. v. ES L 182, 2. 7. 1992).Nariadenie Európskeho parlamentu a Rady (ES) č. 1610/96 z 23. júla 1996 o vytvorení dodatkového ochranného osvedčenia na výrobky na ochranu rastlín (Mimoriadne vydanie Ú. v. EÚ, kap. 3/ zv. 19, Ú. v. ES L 198, 8. 8. 1996).
 
 - 26) § 40 zákona č. 237/1991 Zb. o patentových zástupcoch v znení zákona Národnej rady Slovenskej republiky č. 90/1993 Z. z.
 
