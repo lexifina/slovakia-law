@@ -10,4 +10,4 @@ Príloha č. 1 k nariadeniu vlády č. 340/2006 Z. z.
 
   - 4. V prípade vyšetrenia detí a mládeže je potrebné brať do úvahy primerane nižšie hodnoty vstupných povrchových dávok alebo aplikovanej aktivity.
 
-- [Tabuľky 01](../assets/5215c7a01ed67ebefd57f4b8dab08c4519033b9aafacacf9d124c8bfc6f189f2.pdf)
+- [Tabuľky 01](../assets/1de2f93f8cf2e09493af81ce8c0bd48300b0f5a20aa52979da50afa0707a18fa.pdf)

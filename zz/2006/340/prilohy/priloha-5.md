@@ -294,7 +294,7 @@ Príloha č. 5 k nariadeniu vlády č. 340/2006 Z. z.
 
 - *) Kategória zdravotníckych pracovníkov: |
 
-- RDGN RT NM IRV STO LEK IL RA ZS IOP FYZ | - lekári so špecializáciou v rádiológii - lekári so špecializáciou v radiačnej onkológii - lekári so špecializáciou v nukleárnej medicíne, farmaceuti so špecializáciou v technológii rádiofarmák - lekári s certifikovanou pracovnou činnosťou v intervenčnej rádiológii - zubní lekári - lekári s inou špecializáciou, ktorí používajú röntgenové zariadenia ako súčasť svojich pracovných postupov (napríklad chirurgovia, kardiochirurgovia, ortopédi, urológovia a pod.) - indikujúci lekári - diplomovaní rádiologickí asistenti - sestry (na oddeleniach nukleárnej medicíny a rádioterapie) - iní odborní pracovníci (na oddeleniach rádioterapie a nukleárnej medicíny) - klinickí fyzici
+- RDGN RT NM IRV STO LEK IL RA ZS IOP FYZ | - lekári so špecializáciou v rádiológii - lekári so špecializáciou v radiačnej onkológii - lekári so špecializáciou v nukleárnej medicíne, farmaceuti so špecializáciou v technológii rádiofarmák - lekári s certifikovanou pracovnou činnosťou v intervenčnej rádiológii - zubní lekári - lekári s inou špecializáciou, ktorí používajú röntgenové zariadenia ako súčasť svojich pracovných postupov (napríklad chirurgovia, kardiochirurgovia, ortopédi, urológovia a pod.) - indikujúci lekári - rádiologickí asistenti - sestry (na oddeleniach nukleárnej medicíny a rádioterapie) - iní odborní pracovníci (na oddeleniach rádioterapie a nukleárnej medicíny) - klinickí fyzici
 
 - **) Požadovaná úroveň základných znalostí v radiačnej ochrane: |
 
