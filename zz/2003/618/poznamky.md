@@ -16,10 +16,14 @@
 
 - 9) Článok 3 Dohovoru o medzinárodnom zápise audiovizuálnych diel (oznámenie č. 365/1992 Zb.).
 
+- 9a) Napríklad § 24 ods. 1 písm. k) a § 31 ods. 2 písm. l) zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
+
+- 9b) Občiansky zákonník.
+
 - 10) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
 - 11) § 313 Obchodného zákonníka.
 
-- 12) Napríklad § 16 písm. f), § 17 ods. 1 písm. c), § 46 ods. 2 písm. d) a § 57 ods. 2 písm. d) a e) zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
+- 12) § 16 písm. f), § 17 ods. 1 písm. c), § 46 ods. 2 písm. d), § 57 ods. 2 písm. d) zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.
 
 - 13) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
