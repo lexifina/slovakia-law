@@ -8,6 +8,8 @@
 
 - 5) § 508 až 515 Obchodného zákonníka.
 
+- 5a) Občiansky zákonník.
+
 - 6) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
