@@ -1,6 +1,6 @@
 Príloha č. 9 k nariadeniu vlády č. 572/2001 Z. z.
 
-- KRITÉRIÁ POUŽÍVANÉ NA TRIEDENIE
+- PRAVIDLÁ TRIEDENIA ZDRAVOTNÍCKYCH POMÔCOK
 
   - I. Definície
 
@@ -77,6 +77,8 @@ Príloha č. 9 k nariadeniu vlády č. 572/2001 Z. z.
       - b) miecha,
 
       - c) mozgové blany.
+
+    - 1.9. Protéza bedrového kĺbu, protéza kolenného kĺbu alebo protéza ramenného kĺbu je implantovateľná komponentná časť totálnej protézy kĺbu, ktorej úlohou je zabezpečiť funkciu podobnú prirodzenému bedrovému kĺbu, prirodzenému kolennému kĺbu alebo prirodzenému ramennému kĺbu. Pomocné časti (skrutky, kliny, platničky a nástroje) sa nepovažujú za protézu bedrového kĺbu, protézu kolenného kĺbu alebo protézu ramenného kĺbu.
 
   - II. Pravidlá používania
 
@@ -168,7 +170,7 @@ Príloha č. 9 k nariadeniu vlády č. 572/2001 Z. z.
 
     - 2.4. Pravidlo 8
 
-      - Všetky implantovateľné zdravotnícke pomôcky a chirurgické invázne zdravotnícke pomôcky na dlhodobé používanie sa zaraďujú do skupiny IIb okrem tých, ktoré sú určené na
+      - Všetky implantovateľné zdravotnícke pomôcky a chirurgické invázne zdravotnícke pomôcky na dlhodobé používanie sa zaraďujú do skupiny IIb okrem protézy bedrového kĺbu, protézy kolenného kĺbu, protézy ramenného kĺbu a tých, ktoré sú určené na
 
       - a) umiestnenie do zubov, v tomto prípade sa zaraďujú do skupiny IIa,
 
@@ -241,3 +243,7 @@ Príloha č. 9 k nariadeniu vlády č. 572/2001 Z. z.
     - 4.7. Pravidlo 19
 
       - Bez poškodenia záujmov ostatných pravidiel, prsné implantáty sa zaraďujú do skupiny III.
+
+    - 4.8. Pravidlo 20
+
+      - Protézy bedrového kĺbu, protézy kolenného kĺbu a protézy ramenného kĺbu sa zaraďujú do skupiny III.

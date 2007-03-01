@@ -2,7 +2,7 @@ Príloha č. 12 k nariadeniu vlády č. 572/2001 Z. z.
 
 - OZNAČENIE CE
 
-  - 1. Označenie CE sa po nadobudnutí účinnosti medzinárodnej dohody PECA stane slovenskou značkou zhody pre určené výrobky. Skladá sa z iniciálok CE podľa grafickej úpravy uvedenej v prílohe k zákonu.
+  - 1. Označenie CE sa skladá z iniciálok CE podľa grafickej úpravy uvedenej v prílohe k zákonu.
 
   - 2. V prípade zmenšenia alebo zväčšenia označenia CE proporcie vyplývajúce z rastrovanej grafickej úpravy sa dodržia.
 
