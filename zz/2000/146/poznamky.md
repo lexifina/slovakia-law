@@ -14,6 +14,8 @@
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže v znení zákona č. 240/1998 Z. z.
 
+- 8a) Občiansky zákonník.
+
 - 9) § 51 Obchodného zákonníka.
 
 - 10) Vyhláška Federálneho úradu pre vynálezy č. 350/1991 Zb. o odmeňovaní patentových zástupcov.
