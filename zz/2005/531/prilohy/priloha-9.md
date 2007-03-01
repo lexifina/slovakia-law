@@ -177,3 +177,17 @@ Príloha č. 9
   - 19. Smernica Komisie 2006/75/ES z 11. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimoxystrobín medzi účinné látky (Ú. v. EÚ L 248, 12. 9. 2006).
 
   - 20. Smernica Komisie 2006/76/ES z 22. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky chlórtalonil (Ú. v. EÚ L 263, 23. 9. 2006).
+
+  - 21. Smernica Komisie 2006/85/ES z 23. októbra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zahrnúť fenamifos a etefón ako aktívne látky (Ú. v. EÚ L 293, 24. 10. 2006).
+
+  - 22. Smernica Komisie 2006/131/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metamidofos ako účinnú látku (Ú. v. EÚ L 349, 12. 12. 2006).
+
+  - 23. Smernica Komisie 2006/132/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť procymidone medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006).
+
+  - 24. Smernica Komisie 2006/133/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flusilazol medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006).
+
+  - 25. Smernica Komisie 2006/134/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenarimol medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006).
+
+  - 26. Smernica Komisie 2006/135/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť carbendazim medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006).
+
+  - 27. Smernica Komisie 2006/136/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dinocap medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006).
