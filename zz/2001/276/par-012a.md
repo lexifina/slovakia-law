@@ -32,7 +32,7 @@
 
 - n) poskytovania univerzálnej služby,<sup>1e</sup>)
 
-- o) prevzatia zodpovednosti za odchýlky jednotlivých účastníkov trhu a za odchýlky sústavy, spôsob vyhodnocovania, zúčtovania a vysporiadania odchýlok jednotlivých účastníkov trhu a odchýlky sústavy.
+- o) prevzatia zodpovednosti za odchýlky jednotlivých účastníkov trhu a za odchýlky sústavy a siete, spôsob vyhodnocovania, zúčtovania a vysporiadania odchýlok jednotlivých účastníkov trhu a odchýlky sústavy a siete.
 
 (3) Podmienkami potrebnými na organizovanie trhu s elektrinou a plynom sú aj určenie
 
@@ -40,7 +40,7 @@
 
 - b) spôsobu predchádzania vzniku preťaženia a riešenia preťaženia národnej sústavy alebo siete,
 
-- c) postupov na vyhodnocovanie odchýlky účastníka trhu a odchýlky sústavy,
+- c) postupov na vyhodnocovanie odchýlky účastníka trhu a odchýlky sústavy a siete,
 
 - d) rozsahu a spôsobu zabezpečenia podporných služieb,
 
@@ -60,7 +60,7 @@
 
 - c) podmienky za dodávky elektriny vyrobenej z obnoviteľných zdrojov energie, kombinovanou výrobou elektriny a tepla a elektriny vyrobenej z domáceho uhlia,
 
-- d) podmienky vyúčtovania za dodávky elektriny vrátane dodávky regulačnej elektriny a dodávky elektriny domácnostiam,
+- d) podmienky vyúčtovania za dodávky elektriny a plynu vrátane dodávky regulačnej elektriny a dodávky elektriny a plynu domácnostiam,
 
 - e) podmienky vyúčtovania za poskytnuté podporné služby a systémové služby,
 

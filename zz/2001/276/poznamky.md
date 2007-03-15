@@ -4,7 +4,7 @@
 
 - 1b) Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
 
-- 1c) Zákon č. 656/2004 Z. z.Zákon č. 657/2004 Z. z.Zákon č. 442/2002 Z. z.Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
+- 1c) Zákon č. 442/2002 Z. z. v znení neskorších predpisov. Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon). Zákon č. 656/2004 Z. z.Zákon č. 657/2004 Z. z. v znení neskorších predpisov. Nariadenie Európskeho parlamentu a Rady (ES) č. 1228/2003 z 26. júna 2003 o podmienkach prístupu do siete pre cezhraničné výmeny elektrickej energie (Mimoriadne vydanie Ú. v. EÚ, kap. 12/zv. 2., Ú. v. EÚ 176, 15. 7. 2003). Nariadenie Európskeho parlamentu a Rady (ES) č. 1775/2005 z 28. septembra 2005 o podmienkach prístupu do prepravných sietí pre zemný plyn (Ú. v. EÚ L 289, 3. 11. 2005).
 
 - 1d) § 2 písm. c) zákona č. 656/2004 Z. z.
 
@@ -12,15 +12,39 @@
 
 - 1f) § 2 písm. b) zákona č. 656/2004 Z. z.
 
+- 1fa) Zákon č. 656/2004 Z. z.
+
+- Zákon č. 657/2004 Z. z.
+
+- 1faa) Zákon č. 656/2004 Z. z.
+
+- Zákon č. 657/2004 Z. z.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1228/2003 z 26. júna 2003 o podmienkach prístupu do siete pre cezhraničné výmeny elektrickej energie.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1775/2005 z 28. septembra 2005 o podmienkach prístupu do prepravných sietí pre zemný plyn.
+
 - 1g) Napríklad § 22, 24, 41, 43 a 52 zákona č. 656/2004 Z. z.
 
 - 1h) § 52 zákona č. 656/2004 Z. z.
 
-- 1i) § 19 zákona č. 656/2004 Z. z.
-
 - 1j) § 32 zákona č. 656/2004 Z. z.
 
 - 1k) Nariadenie Európskeho parlamentu a Rady (ES) č. 1228/2003 zo dňa 26. júna 2003 o podmienkach pre prístup do siete pre cezhraničné výmeny elektriny (Úradný vestník Európskej únie L 176, 15. 07. 2003) v znení nariadenia Rady (ES) č. 1223/2004 zo dňa 28. júna 2004 (Úradný vestník Európskej únie L 233, 02. 07. 2004).
+
+- 1l) Nariadenie Európskeho parlamentu a Rady (ES) č. 1228/2003.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1775/2005.
+
+- 1m) Článok 7 ods. 4 a 5 nariadenia Európskeho parlamentu a Rady (ES) č. 1775/2005.
+
+- 1n) Článok 7 ods. 6 nariadenia Európskeho parlamentu a Rady (ES) č. 1775/2005.
+
+- 1na) Bod 2.2 odsek 2 prílohy nariadenia Európskeho parlamentu a Rady (ES) č. 1775/2005.
+
+- 1nb) Článok 6 ods. 6 a článok 7 nariadenia Európskeho parlamentu a Rady (ES) č. 1228/2003.
+
+- 1o) § 116 Občianskeho zákonníka.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
@@ -28,13 +52,13 @@
 
 - 4) Zákon č. 364/2004 Z. z.
 
-- 5) Zákon Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
-
 - 6) Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 6a) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
-- 6b) Zákon Národnej rady Slovenskej republiky č. 254/1994 Z. z. o Štátnom fonde likvidácie jadrovoenergetických zariadení a nakladania s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi v znení neskorších predpisov.
+- 6b) Zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2006 Z. z.
+
+- 6c) Článok 3 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 1775/2005.
 
 - 7) § 14 zákona č. 656/2004 Z. z.§ 28 zákona č. 657/2004 Z. z.
 
@@ -45,3 +69,5 @@
 - 11) § 244 až 250k Občianskeho súdneho poriadku.
 
 - 11a) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
+
+- 11b) § 6 ods. 4 písm. a) a § 6 ods. 5 písm. a) zákona č. 442/2002 Z. z.
