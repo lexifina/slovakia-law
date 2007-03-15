@@ -8,8 +8,6 @@
 
 - 3b) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
-- 3c) Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 3d) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 4b) § 4 zákona č. 73/1998 Z. z. v znení zákona č. 181/1999 Z. z.
