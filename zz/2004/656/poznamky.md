@@ -4,6 +4,10 @@
 
 - 3) Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
+- 3a) § 12 ods. 2 zákona č. 276/2001 Z. z. v znení zákona č. 107/2007 Z. z.
+
+- 3b) § 12 ods. 6 zákona č. 276/2001 Z. z. v znení zákona č. 107/2007 Z. z.
+
 - 4) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 5) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
