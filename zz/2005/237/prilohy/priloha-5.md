@@ -10,7 +10,7 @@ Príloha č. 5 k vyhláške č. 237/2005 Z. z.
 
   - Záhorský rajón
 
-  - Bílkove Humence, Borský Mikuláš, Lakšárska Nová Ves, Moravský Svätý Ján, Sekule, Šaštín-Stráže, Závod
+  - Bílkove Humence, Borský Mikuláš, Lakšárska Nová Ves, Malé Leváre, Moravský Svätý Ján, Sekule, Šaštín-Stráže, Závod
 
   - Stupavský rajón
 
@@ -18,7 +18,7 @@ Príloha č. 5 k vyhláške č. 237/2005 Z. z.
 
   - Bratislavský rajón
 
-  - Bratislava-Devín, Bratislava-Dúbravka, Bratislava-Karlova Ves, Bratislava-Nové Mesto, Bratislava-Rača, Bratislava-Vajnory
+  - Bratislava-Devín, Bratislava-Dúbravka, Bratislava-Karlova Ves, Bratislava-Nové Mesto, Bratislava-Rača, Bratislava-Vajnory, Bratislava-Vrakuňa
 
   - Pezinský rajón
 
@@ -42,7 +42,7 @@ Príloha č. 5 k vyhláške č. 237/2005 Z. z.
 
   - Trnavský rajón
 
-  - Boleráz, Brestovany, Bučany, Dolná Krupá, Hrnčiarovce nad Parnou, Jaslovské Bohunice, Majcichov, Malženice, Špačince, Šúrovce, Trnava, Vlčkovce, Voderady, Zavar, Zeleneč
+  - Boleráz, Brestovany, Bučany, Dolná Krupá, Hrnčiarovce nad Parnou, Jaslovské Bohunice, Majcichov, Malženice, Šelpice, Špačince, Šúrovce, Trnava, Vlčkovce, Voderady, Zavar, Zeleneč
 
   - Hlohovecký rajón
 
@@ -128,7 +128,7 @@ Príloha č. 5 k vyhláške č. 237/2005 Z. z.
 
   - Radošinský rajón
 
-  - Bojná, Horné Obdokovce, Horné Štitáre, Kovarce, Lipovník, Ludanice, Nemčice, Nitrianska Blatnica, Nitrianska Streda, Oponice, Orešany, Ostratice, Preseľany, Radošina, Súlovce, Šalgovce, Tesáre, Urmince, Veľké Ripňany, Vozokany
+  - Bojná, Horné Obdokovce, Horné Štitáre, Kovarce, Lipovník, Ludanice, Nemčice, Nitrianska Blatnica, Nitrianska Streda, Oponice, Orešany, Ostratice, Preseľany, Radošina, Skačany, Súlovce, Šalgovce, Tesáre, Urmince, Veľké Ripňany, Vozokany, Vysočany
 
   - Zlatomoravecký rajón
 
@@ -136,7 +136,7 @@ Príloha č. 5 k vyhláške č. 237/2005 Z. z.
 
   - Vrábeľský rajón
 
-  - Babindol, Beša, Čechynce, Čifáre, Golianovo, Iňa, Klasov, Lúčnica nad Žitavou, Lula, Malý Cetín, Malý Lapáš, Melek, Michal nad Žitavou, Nová Ves nad Žitavou, Paňa, Tajná, Tehla, Telince, Veľký Cetín, Veľký Ďur, Veľký Lapáš, Vinodol, Vráble, Žitavce
+  - Babindol, Beša, Čechynce, Čifáre, Golianovo, Iňa, Klasov, Lúčnica nad Žitavou, Lula, Malý Cetín, Malý Lapáš, Melek, Michal nad Žitavou, Nová Ves nad Žitavou, Paňa, Tajná, Tehla, Telince, Veľké Chyndice, Veľký Cetín, Veľký Ďur, Veľký Lapáš, Vinodol, Vráble, Žitavce
 
   - Žitavský rajón
 
