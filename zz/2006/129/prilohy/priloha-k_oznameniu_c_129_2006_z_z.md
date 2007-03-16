@@ -784,6 +784,12 @@ K oznámeniu č. 129/2006 Z. z.
 
     - direccion general juridica y de estudios legislativos del departamento del distrito federal – izazaga 89, 8 piso, col. centro – c.p. 06080 mexico, d.f. – tel.: (525) 709 0884 – fax: 709 7846
 
+    - Moldavská republika
+
+  - 1. Ministerstvo zahraničných vecí – pre správne listiny ústredných verejných orgánov
+
+  - 2. Ministerstvo spravodlivosti – pre všetky ostatné listiny
+
     - Monako
 
     - Direction des Services Judiciaires
