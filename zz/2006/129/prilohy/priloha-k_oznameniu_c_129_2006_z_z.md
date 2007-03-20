@@ -362,9 +362,11 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 2. „Registrar of Magistrates Court" a štátni úradníci vymenovaní ministrom spravodlivosti podľa zákona o notároch z roku 1976
 
-    - Írsko
+    - Írska republika
 
-    - „Department of Foreign Affairs" v Dubline
+    - ,Consular Section, Department of Foreign Affairs` v Dubline
+
+    - ,Consular Services, Department of Foreign Affairs` v Corku
 
     - Japonsko
 
