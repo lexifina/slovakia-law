@@ -1,0 +1,9 @@
+## 157
+
+OZNÁMENIE
+
+Ministerstva zahraničných vecí Slovenskej republiky
+
+Ministerstvo zahraničných vecí Slovenskej republiky oznamuje, že rozhodnutím Zhromaždenia Medzinárodnej únie pre patentovú spoluprácu boli 5. októbra 2005 prijaté Zmeny Vykonávacieho predpisu k Zmluve o patentovej spolupráci (oznámenie č. 296/1991 Zb.) v znení neskorších zmien (oznámenie č. 529/1992 Zb., oznámenie č. 291/1995 Z. z., oznámenie č. 292/1995 Z. z., oznámenie č. 346/1998 Z. z., oznámenie č. 47/2001 Z. z., oznámenie č. 288/2001 Z. z., oznámenie č. 257/2002 Z. z., oznámenie č. 29/2003 Z. z., oznámenie č. 30/2003 Z. z., oznámenie č. 574/2003 Z. z., oznámenie č. 83/2004 Z. z., oznámenie č. 97/2005 Z. z. a oznámenie č. 123/2006 Z. z.).
+
+Zmeny nadobudnú platnosť 1. apríla 2007. Týmto dňom nadobudnú platnosť aj pre Slovenskú republiku.
