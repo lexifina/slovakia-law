@@ -40,13 +40,13 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 2. V snahe postupne dosiahnuť cieľ uvedený v článku 1 bude Europol predchádzať nedovolenému obchodovaniu s omamnými látkami, psychotropnými látkami a určenými látkami, obchodovaniu s jadrovými a rádioaktívnymi látkami, ilegálnemu prevádzaniu imigrantov, obchodovaniu s ľuďmi a krádežiam motorových vozidiel a potláčať ich.
 
-      - Najneskôr do dvoch rokov po nadobudnutí platnosti tohto dohovoru sa bude Europol zaoberať spáchanými trestnými činmi alebo trestnými činmi, ktoré by mohli byť spáchané v oblasti terorizmu ohrozujúceho život, spravodlivosť, osobnú slobodu alebo vlastníctvo. Rada v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii môže jednomyseľne rozhodnúť a dať príkaz Europolu, aby sa zaoberal takýmito teroristickými aktivitami aj pred uplynutím tohto obdobia.
+      - Na účel postupného dosiahnutia cieľa uvedeného v odseku 1 bude Europol iniciatívne konať v oblasti prevencie a boja proti nedovolenému obchodovaniu s omamnými látkami, psychotropnými látkami a určenými látkami, legalizácii príjmov z trestnej činnosti, nedovolenému obchodovaniu s jadrovými a rádioaktívnymi látkami, nedovolenému pašovaniu migrantov, obchodovaniu s ľuďmi a trestnej činnosti s motorovými vozidlami.
 
       - Rada v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii môže jednomyseľne rozhodnúť a dať príkaz Europolu, aby sa zaoberal aj inými formami zločinu, ako sú uvedené v prílohe tohto dohovoru, alebo ich špecifickými prejavmi. Pred rozhodnutím Rada poveruje správnu radu, aby pripravila svoje rozhodnutie, a najmä aby ustanovila rozpočtové a personálne dôsledky pre Europol.
 
       - 3. Do pôsobnosti Europolu, ak ide o formy kriminality alebo ich špecifických prejavov, patrí
 
-        - 1) legalizácia príjmov z trestnej činnosti súvisiaca s uvedenými formami trestných činov alebo ich špecifickými prejavmi,
+        - 1) Kompetencia Europolu, ak ide o druh trestného činu alebo jeho špecifické prejavy, bude zahŕňať súvisiace trestné činy. Nebude však zahŕňať trestné činy zakladajúce sa na legalizácii príjmov z trestnej činnosti, ktoré nepatria do kompetencie Europolu podľa odseku 2,
 
         - 2) súvisiace trestné činy.
 
@@ -74,7 +74,11 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 4) pomáha pri vyšetrovaní v členským štátoch a poskytuje všetky dôležité informácie národným ústredniam,
 
-        - 5) udržiava počítačový systém zhromaždených informácií obsahujúcich údaje v súlade s článkami 8, 10 a11.
+        - 5) udržiava počítačový systém zhromaždených informácií obsahujúcich údaje v súlade s článkami 8, 10 a 11,
+
+        - 6) zúčastňovať sa vo funkcii posily v spoločných vyšetrovacích tímoch v súlade s článkom 3a,
+
+        - 7) žiadať kompetentné orgány dotknutých členských štátov, aby viedli a koordinovali vyšetrovania v špecifických prípadoch v súlade s článkom 3b.
 
       - 2. S cieľom zlepšovať spoluprácu a zvyšovať výkonnosť príslušných orgánov členských štátov prostredníctvom národných ústrední s ohľadom na plnenie cieľov ustanovených v článku 2 ods. 1 Europol plní aj ďalšie úlohy:
 
@@ -93,6 +97,34 @@ K oznámeniu č. 619/2004 Z. z.
         - 3) metódy prevencie kriminality,
 
         - 4) technické a kriminalisticko-vedecké policajné metódy a vyšetrovacie postupy.
+
+    - Článok 3a Účasť v spoločných vyšetrovacích tímoch
+
+      - 1. Úradníci Europolu sa môžu zúčastniť vo funkcii posily v spoločných vyšetrovacích tímoch, ako aj v tímoch vytvorených podľa článku 1 Rámcového rozhodnutia z 13. júna 2002 o spoločných vyšetrovacích tímoch<sup>1</sup>) alebo podľa článku 13 Dohovoru z 29. mája 2000 o vzájomnej pomoci na trestných veciach medzi členskými štátmi Európskej únie, ak tieto tímy vyšetrujú trestné činy, ktoré patria do kompetencie Europolu podľa článku 2. Úradníci Europolu môžu v medziach ustanovených právom členského štátu, v ktorom vyšetrovací tím pôsobí, a podľa dohody uvedenej v odseku 2 pomáhať pri všetkých činnostiach a vymieňať si informácie so všetkými členmi vyšetrovacieho tímu podľa odseku 3. Nezúčastnia sa však na prijímaní žiadnych donucovacích opatrení.
+
+      - 2. Administratívna realizácia účasti úradníkov Europolu v spoločnom vyšetrovacom tíme sa ustanoví v dohode medzi riaditeľom Europolu a kompetentnými orgánmi členských štátov zúčastnených v spoločnom vyšetrovacom tíme so zapojením národných jednotiek. Pravidlá upravujúce také dohody určí Správna rada Europolu konajúca na základe dvojtretinovej väčšiny svojich členov.
+
+      - 3. Úradníci Europolu vykonávajú svoje úlohy pod vedením vedúceho tímu, pričom sa zohľadnia podmienky ustanovené v dohode uvedenej v odseku 2.
+
+      - 4. Podľa dohody uvedenej v odsekoch 2 a 3 sa môžu úradníci Europolu priamo spojiť s členmi spoločného vyšetrovacieho tímu a v súlade s týmto dohovorom poskytovať členom a vyslaným členom spoločného vyšetrovacieho tímu informácie z ktorejkoľvek zložky počítačového systému zhromaždených informácií uvedenej v článku 6. V prípade priameho spojenia bude o tom Europol informovať súčasne národné jednotky členských štátov zastúpených v tíme, ako aj členské štáty, ktoré poskytli informácie.
+
+      - 5. Informácie, ktoré získal úradník Europolu počas účasti v spoločnom vyšetrovacom tíme, môžu sa so súhlasom a na základe zodpovednosti členského štátu, ktorý poskytol informácie, zaradiť do ktorejkoľvek zložky počítačového systému podľa podmienok ustanovených v tomto dohovore.
+
+      - 6. Počas pôsobenia spoločného vyšetrovacieho tímu uvedeného v tomto článku budú úradníci Europolu vo vzťahu k trestným činom, ktoré spáchali alebo ktoré boli spáchané proti nim, podliehať vnútroštátnym právnym predpisom členského štátu, v ktorom pôsobia, uplatniteľným na osoby s porovnateľnou funkciou.
+
+    - Článok 3b Žiadosti Europolu o začatie vyšetrovania trestných činov
+
+      - 1. Členské štáty sa majú zaoberať každou žiadosťou Europolu o začatie, vedenie a koordinovanie vyšetrovaní v špecifických prípadoch a mali by takým žiadostiam venovať náležitú pozornosť. Europol je potrebné informovať, či sa požadované vyšetrovanie začne.
+
+      - 2. Ak sa kompetentné orgány členského štátu rozhodnú, že nevyhovejú žiadosti Europolu, budú informovať Europol o svojom rozhodnutí a o dôvodoch takého rozhodnutia, ak im nie je znemožnené uviesť svoje dôvody, pretože by tým
+
+        - (i) poškodili podstatné záujmy bezpečnosti štátu alebo
+
+        - (ii) by ohrozili úspešnosť prebiehajúcich vyšetrovaní, alebo bezpečnosť jednotlivcov.
+
+      - 3. Odpovede na žiadosti Europolu o začatie, vedenie a koordinovanie vyšetrovaní v špecifických prípadoch, ako aj informácie pre Europol o výsledkoch vyšetrovaní treba odosielať cez kompetentné orgány členských štátov na základe pravidiel ustanovených v Dohovore o Europole a príslušnej vnútroštátnej legislatívy.
+
+      - 4. Na základe dohody o spolupráci, ktorá sa má podpísať s Eurojust-om, bude Europol pri podávaní žiadosti o začatie vyšetrovaní trestných činov informovať Eurojust.
 
     - Článok 4 Národné ústredne
 
@@ -596,6 +628,8 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 1) zúčastňuje sa na rozširovaní cieľov Europolu (článok 2 ods. 2),
 
+        - 1a) konajúc na základe dvojtretinovej väčšiny svojich členov ustanoví pravidlá upravujúce administratívnu realizáciu účasti úradníkov Europolu v spoločných vyšetrovacích tímoch (článok 3a ods. 2),
+
         - 2) jednomyseľne definuje práva a povinnosti styčných dôstojníkov Europolu (článok 5),
 
         - 3) jednomyseľne rozhoduje o počte styčných dôstojníkov, ktorých môžu členské štáty vysielať do Europolu (článok 5),
@@ -635,6 +669,8 @@ K oznámeniu č. 619/2004 Z. z.
         - 20) jednomyseľne prijíma predpisy o bezpečnostnom preverovaní úradníkov Europolu,
 
         - 21) dvojtretinovou väčšinou rozhoduje spory medzi členským štátom a Europolom alebo medzi členskými štátmi o náhrade škody vyplývajúcej zo zodpovednosti za neoprávnené alebo nesprávne spracúvanie údajov (článok 38),
+
+        - 21a) koná na základe dvojtretinovej väčšiny v sporoch medzi členským štátom a Europolom, ktoré sa týkajú zodpovednosti za účasť Europolu v spoločných vyšetrovacích tímoch (článok 39a),
 
         - 22) zúčastňuje sa na akejkoľvek zmene a doplnku tohto dohovoru (článok 43),
 
@@ -813,6 +849,12 @@ K oznámeniu č. 619/2004 Z. z.
       - 3. Poškodená strana má právo žiadať, aby sa Europol voči nej zdržal akéhokoľvek konania alebo aby už začaté konanie zastavil.
 
       - 4. Vnútroštátne súdy členských štátov príslušné riešiť spory súvisiace so zodpovednosťou Europolu uvedenou v tomto článku sa určujú odkazom na príslušné ustanovenia Bruselského dohovoru z 27. septembra 1968 o právomoci a výkone rozhodnutí v občianskoprávnych a obchodných záležitostiach v znení dohôd o pristúpení.
+
+    - Článok 39a Zodpovednosť za účasť Europolu v spoločných vyšetrovacích tímoch
+
+      - 1. Členský štát, na území ktorého škodu spôsobili úradníci Europolu pôsobiaci v ňom v súlade s článkom 3a počas ich pomoci pri operatívnych opatreniach, nahradí túto škodu podľa podmienok uplatniteľných na škodu spôsobenú jeho vlastnými úradníkmi.
+
+      - 2. Ak sa dotknutý členský štát nedohodne inak, Europol nahradí v plnej výške akékoľvek sumy, ktoré tento zaplatil obetiam alebo osobám oprávneným v ich mene na náhradu škody uvedenú v odseku 1. Každý spor medzi týmto členským štátom a Europolom o princípe alebo výške úhrady sa musí postúpiť správnej rade, ktorá vyrieši danú vec na základe dvojtretinovej väčšiny.
 
     - Článok 40 Riešenie sporov
 

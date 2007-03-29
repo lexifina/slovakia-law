@@ -2,7 +2,7 @@ PRÍLOHA
 
 Uvedená v článku 2
 
-Zoznam ďalších závažných foriem medzinárodného zločinu, ktorými sa môže Europol zaoberať, okrem tých, ktoré sú uvedené v článku 2 ods. 2, a to v súlade so svojím cieľom ustanoveným v článku 2 ods. 1:
+Zoznam ďalších závažných foriem medzinárodného zločinu, ktorými sa môže Europol zaoberať, a to v súlade so svojím cieľom ustanoveným v článku 2 ods. 1. Okrem toho akt vydania pokynov Europolu pre činnosť s jedným z uvedených druhov trestných činov v súlade s článkom 2 ods. 2 predpokladá, že je tiež kompetentný zaoberať sa súvisiacimi trestnými činmi.
 
 Proti životu, zdraviu alebo osobnej slobode:
 
