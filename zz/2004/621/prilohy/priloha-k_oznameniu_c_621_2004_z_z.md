@@ -74,6 +74,8 @@ dohodli sa takto:
 
   - 3. Na zamestnancov Europolu sa vzťahujú ustanovenia článku 14 protokolu o výsadách a imunitách Európskych spoločenstiev.
 
+  - 4. V súlade s článkom 17 ods. 2 sa imunita uvedená v odseku 1 písm. a) neudelí vo vzťahu k úradným úkonom, ktorých výkon sa požaduje pri plnení úloh, ustanovených v článku 3a dohovoru, týkajúcich sa účasti úradníkov Europolu v spoločných vyšetrovacích tímoch.
+
 - Článok 9 Zbavenie imunity
 
   - Imunita, ktorú požívajú osoby uvedené v článku 8, sa nevzťahuje na žalobu tretej strany v občianskoprávnom konaní o náhradu škody vrátane zranenia alebo smrti vzniknutej v dôsledku dopravnej nehody zavinenej ktoroukoľvek takouto osobou.
