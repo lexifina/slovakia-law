@@ -34,6 +34,10 @@
 
 - 2da) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení zákona č. 512/2002 Z. z.
 
+- 2daa) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 344/2006 Z. z. o minimálnych bezpečnostných požiadavkách na tunely v cestnej sieti.
+
+- 2dab) Zákon č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
+
 - 2db) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi, zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z.).
 
 - 2e) § 64 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
@@ -41,6 +45,8 @@
 - 2ea) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - 2f) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 2fa) Zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 747/2004 Z. z.
 
 - 2ga) § 94 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
