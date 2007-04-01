@@ -1,1 +1,1 @@
-Príloha č. 19 k vyhláške č. 239/2006 Z. z. [Oznámenie o výsledku ročného zúčtovania poistného plateného štátom podľa § 19 zákona za rok - vzor](../assets/1985cd2ad9c4a811f575abb371d8ea025d9d073630196f1150eb691649e88594.pdf)
+Príloha č. 19 k vyhláške č. 239/2006 Z. z. [Vzor 19 - Oznámenie o výsledku ročného zúčtovania poistného plateného štátom podľa § 19 zákona za rok 2006](../assets/37ba8d1f2f76083c8757a6eb059a249f8d06d0d3d83f78caf53df29bda250f80.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 13 k vyhláške č. 239/2006 Z. z. [List XD - zamestnanec s príjmami podľa § 13 ods. 5 zákona - vzor](../assets/951b44a8be6d61076246e30fe9362407a00f80f6d5ddb3f5f19f87110640f554.pdf)
+Príloha č. 13 k vyhláške č. 239/2006 Z. z. [Vzor 13 - List XD - zamestnanec s príjmami podľa § 13 ods. 5 zákona](../assets/d63da89337d38204612cffeba5ce9da0564d425ff5a1cc185d47c6a40a1911bf.pdf)

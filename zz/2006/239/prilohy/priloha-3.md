@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 239/2006 Z. z. [Ročné zúčtovanie TYP C - vzor](../assets/5b24d2eb6c417633bf0a6106e9811f4811c8840f507a24b703c746a04aa57ea0.pdf)
+Príloha č. 3 k vyhláške č. 239/2006 Z. z. [Vzor 03 - Ročné zúčtovanie poistného na verejné zdravotné poistenie platiteľa poistného podľa § 11 ods. 2 zákona za rok 2006](../assets/b2efc9d138d34011a209d5609a8320b75a9b6c12a16af64cb94fe438b60dd693.pdf)

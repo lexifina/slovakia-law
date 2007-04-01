@@ -1,3 +1,3 @@
 Príloha č. 15 k vyhláške č. 239/2006 Z. z.
 
-[Žiadosť - vzor](../assets/fd98ad416f7a96d00e4323af034e3d5ecaa25712e93bbbe2489d107cd5313605.pdf)
+[Vzor 15 - Žiadosť 2006](../assets/e46ce77f1f9fdb198e1ec16d8937390a0d98928faedd21d7b9a386ac157b9fa0.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 9 k vyhláške č. 239/2006 Z. z. [Ročné zúčtovanie TYP X - vzor](../assets/f2ee1641d6384361d2e1f153245b991c07ea8893adf0a0aa2a0ffd7330effaaa.pdf)
+Príloha č. 9 k vyhláške č. 239/2006 Z. z. [Vzor 09 - Ročné zúčtovanie poistného na verejné zdravotné poistenie poistenca, ktorý mal viacerých platiteľov poistného alebo došlo k zmene sadzby za rok 2006](../assets/0bc10d1ab3e63771e5f4ff2e650ccabbd7bd30e32868752f6e582ad8b6030075.pdf)

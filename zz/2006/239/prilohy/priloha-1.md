@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 239/2006 Z. z. [Ročné zúčtovanie TYP A - vzor](../assets/d48a910cfc2e37eaec4a8564d64b90f3f6f6e8b1df90f3829c311f7de32a9fc5.pdf)
+Príloha č. 1 k vyhláške č. 239/2006 Z. z. [Vzor 01 - Ročné zúčtovanie poistného na verejné zdravotné poistenie zamestnanca za rok 2006](../assets/8f1e86fc7deeaf25154c0342c90b03f0cc9b41adbfda61ee379f0d116b622b10.pdf)

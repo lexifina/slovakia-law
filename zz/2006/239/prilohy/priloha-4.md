@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 239/2006 Z. z. [Ročné zúčovanie TYP S - vzor](../assets/b23e82a17acb7c3f27bcb0808467965624b61877275713d1793abecf5bc4bbb9.pdf)
+Príloha č. 4 k vyhláške č. 239/2006 Z. z. [Vzor 04 - Ročné zúčtovanie poistného na verejné zdravotné poistenie poistenca, ktorý mal viacerých platiteľov za rok 2006](../assets/07a545d3ad89879adc2079cc9f8af9d4cf25b304f0a57ca39d1615d99b453f7c.pdf)

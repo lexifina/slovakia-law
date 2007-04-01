@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 239/2006 Z. z. [Ročné zúčtovanie TYP B - vzor](../assets/9fc1e8c70e9ef0e3d35588a8b8e76f6988a6421f16d83192cd4f4fd74fab25cb.pdf)
+Príloha č. 2 k vyhláške č. 239/2006 Z. z. [Vzor 02 - Ročné zúčtovanie poistného na verejné zdravotné poistenie samostatne zárobkovo činnej osoby za rok 2006](../assets/2e9bf4648f7be0a86650ed35ad6c0cf6895f01c2d9f8c8bc2ee6981b86dd3ab4.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 10 k vyhláške č. 239/2006 Z. z. [List XA - zamestnanec a zamestnávateľ - vzor](../assets/34823c0ad0f6eeb2262d242a42ae70d8d1e4eb83ebc2be6e0d7a07de9953eb7e.pdf)
+Príloha č. 10 k vyhláške č. 239/2006 Z. z. [Vzor 10 - List XA - zamestnanec a zamestnávateľ](../assets/09cfdb41bae714cb478a70f172a8a3949987dcc75513b727a15b66b8084cd3c7.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 14 k vyhláške č. 239/2006 Z. z. [Oznámenie zamestnávateľa - vzor](../assets/f91855556a6801d67ac02aed693938e6fc5c23dab8387c270f8866bfec2baf98.pdf)
+Príloha č. 14 k vyhláške č. 239/2006 Z. z. [Vzor 14 - Oznámenie zamestnávateľa o preplatkoch a nedoplatkoch za jednotlivých zamestnancov za rok 2006](../assets/740d1e03b1a4240f1ba0fc7d0b0918a465b73401ac97614e13a6ef5abaf82985.pdf)
