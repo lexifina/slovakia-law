@@ -2,6 +2,6 @@
 
 - 2) § 10a ods. 9 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení zákona č. 209/2001 Z. z.
 
-- 3) § 15 ods. 2 zákona č. 2/1991 Zb. v znení neskorších predpisov.
+- 3) § 13 ods. 7 zákona č. 2/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 54/1996 Z. z.
 
-- 4) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+- Vyhláška Ministerstva financií Slovenskej republiky č. 179/1991 Zb., ktorou sa ustanovuje výška odmeny sprostredkovateľovi a rozhodcovi, výška poplatku za poskytnutie rovnopisu kolektívnej zmluvy vyššieho stupňa a výška a spôsob úhrady nákladov konania pred rozhodcom v znení neskorších predpisov.
