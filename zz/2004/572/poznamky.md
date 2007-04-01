@@ -6,7 +6,13 @@
 
 - 4) Príloha č. 1 k zákonu č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
+- 4a) Príloha III a IV nariadenia Komisie (ES) č. 2216/2004 z 21. decembra 2004 o normalizovaných a zabezpečených systémoch registrov v súlade so smernicou Európskeho parlamentu a Rady č. 2003/87/ES a s rozhodnutím Európskeho parlamentu a Rady č. 280/2004/ES (Ú. v. EÚ L 386, 29. 12. 2004).
+
+- 4b) Nariadenie Komisie (ES) č. 2216/2004.
+
 - 5) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 5a) Napríklad zákon č. 478/2002 Z. z., zákon č. 223/2001 Z. z. o odpadoch v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene a doplnení zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 6) § 19 ods.1 písm. n) zákona č. 478/2002 Z. z. v znení zákona č. 525/2003 Z. z.
 
@@ -14,7 +20,7 @@
 
 - 8) § 9 ods. 2 zákona č. 478/2002 Z. z.
 
-- 9) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
+- 9) Príloha XVI nariadenia Komisie (ES) č. 2216/2004.
 
 - 10) Zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov.
 
@@ -23,6 +29,10 @@
 - Zákon č. 401/1998 Z. z. v znení neskorších predpisov.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 12a) Príloha č. VIII nariadenia Komisie (ES) č. 2216/2004.
+
+- 12b) Čl. 27 nariadenia Komisie (ES) č. 2216/2004.
 
 - 13) § 4 ods. 5 zákona č. 478/2002 Z. z.
 
