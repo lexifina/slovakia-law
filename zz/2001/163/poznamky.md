@@ -62,17 +62,35 @@
 
 - 23) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
-- 23a) Čl. 9 nariadenia (ES) č. 648/2004.
+- 23a) Príloha č. II nariadenia Európskeho parlamentu a Rady (ES) č. 850/2004 o perzistentných organických znečisťujúcich látkach, ktorým sa mení a dopĺňa smernica 79/117/EHS (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 8; Ú. v. EÚ L 158, 30. 4. 2004) v znení nariadenia Rady (ES) č. 1195/2006 z 18. júla 2006 (Ú. v. EÚ L 217, 8. 8. 2006).
 
-- 23b) Čl. 2 ods. 10 nariadenia (ES) č. 648/2004.
+- 23b) Príloha č. I nariadenia Európskeho parlamentu a Rady (ES) č. 850/2004.
 
-- 23c) Čl. 4 ods. 2 a čl. 5 nariadenia (ES) č. 648/2004.
+- 23c) Čl. 2 ods. 10 nariadenia (ES) č. 648/2004.
 
-- 23d) Nariadenie (ES) č. 648/2004.
+- 23d) Čl. 11 nariadenia (ES) č. 648/2004.
 
 - 23e) Čl. 9 ods. 3 nariadenia (ES) č. 648/2004.
 
-- 23f) Čl. 11 nariadenia (ES) č. 648/2004.
+- 23f) Čl. 4 ods. 2 a čl. 5 nariadenia (ES) č. 648/2004.
+
+- 23fa) Nariadenie (ES) č. 648/2004.
+
+- 23fb) § 591 až 600 Obchodného zákonníka.
+
+- 23fc) Zákon č. 271/2005 Z. z. o výrobe, uvádzaní na trh a používaní krmív (krmivársky zákon).
+
+- Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
+- Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+
+- Zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- Zákon č. 136/2000 Z. z. o hnojivách v znení zákona č. 555/2004 Z. z.
+
+- Zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
 - 23g) Nariadenie Európskeho parlamentu a Rady (ES) č. 304/2003 z 28. januára 2003 o vývoze a dovoze nebezpečných chemikálií.
 

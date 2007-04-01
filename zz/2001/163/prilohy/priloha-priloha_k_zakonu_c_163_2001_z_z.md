@@ -2,7 +2,7 @@ Príloha k zákonu č. 163/2001 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
-  - Smernica Rady 67/548/EHS o aproximácii zákonov, iných právnych predpisov a správnych opatrení týkajúcich sa klasifikácie, balenia a označovania nebezpečných látok (Úradný vestník Európskych spoločenstiev P 196, 16. 08. 1967)
+  - 1. Smernica Rady 67/548/EHS o aproximácii zákonov, iných právnych predpisov a správnych opatrení týkajúcich sa klasifikácie, balenia a označovania nebezpečných látok (Úradný vestník Európskych spoločenstiev P 196, 16. 08. 1967)
 
   - v znení smernice Rady 69/81/EHS z 13. 3. 1969 (Ú. v. ES L 068, 19. 03. 1969),
 
@@ -81,3 +81,7 @@ Príloha k zákonu č. 163/2001 Z. z.
   - smernice Komisie 2001/59/ES zo 6. 8. 2001 (Ú. v. ES L 225, 21. 08. 2001),
 
   - nariadenia Rady (ES) č. 2003/807 zo 14. 4. 2003 (Ú. v. EÚ L 122, 16. 05. 2003).
+
+  - 2. Smernica Európskeho parlamentu a Rady 2004/9/ES z 11. februára 2004 o inšpekcii a overovaní správnej laboratórnej praxe (SLP) (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 8; Ú. v. EÚ L 50, 20. 2. 2004).
+
+  - 3. Smernica Európskeho parlamentu a Rady 2004/10/ES z 11. februára 2004 o zosúlaďovaní zákonov, predpisov a správnych opatrení uplatňovaných na zásady správnej laboratórnej praxe a overovanie ich uplatňovania pri testoch chemických látok (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 8; Ú. v. EÚ L 50, 20. 2. 2004).
