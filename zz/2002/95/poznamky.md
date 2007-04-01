@@ -56,6 +56,8 @@
 
 - 14) § 476 až 488 Obchodného zákonníka.
 
+- 14a) § 20 ods. 2 písm. a) a b) a § 28 ods. 3 a 4 zákona č. 381/2001 Z. z. v znení zákona č. 430/2003 Z. z.
+
 - 15) § 66b Obchodného zákonníka v znení zákona č. 127/1999 Z. z.
 
 - 15a) Zákon č. 594/2003 Z. z.
