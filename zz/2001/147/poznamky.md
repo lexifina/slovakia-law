@@ -42,9 +42,11 @@
 
 - 19) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
-- 20) § 23 ods. 1 zákona č. 23/2002 Z. z., ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov a o zmene niektorých zákonov.
+- 20) § 23 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 21) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 21a) § 3 ods. 1 písm. b) a c) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
 - 22) Zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
 
