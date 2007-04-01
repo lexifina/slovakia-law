@@ -60,6 +60,8 @@
 
 - 23a) § 23 ods. 1 zákona č. 725/2004 Z. z.
 
+- 23b) § 7 ods. 6 písm. c) zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
+
 - 24) § 3 ods. 2 zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
 - § 7 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky.
@@ -81,6 +83,8 @@
 - 32) Zákon Národnej rady Slovenskej republiky č. 100/1996 Z. z. o ochrane štátneho tajomstva, služobného tajomstva, o šifrovej ochrane informácií a o zmene a doplnení Trestného zákona v znení neskorších predpisov.
 
 - 32a) Zákon č. 725/2004 Z. z.
+
+- 32aa) Zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 747/2004 Z. z.
 
 - 33) Obchodný zákonník.
 
