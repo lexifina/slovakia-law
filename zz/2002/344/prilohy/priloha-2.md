@@ -361,3 +361,17 @@
   - Slavianska 1
 
   - 1040 Sofia
+
+  - Albánska republika
+
+  - a) Dohovor pre Albánsku republiku nadobudol platnosť 1. apríla 2007.
+
+  - b) Albánska republika pri uložení ratifikačnej listiny urobila túto výhradu a vyhlásenie:
+
+  - 1. „Podľa článku 60 ods. 1 dohovoru si Albánska republika vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území, a vyhradzuje si právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým vo vzťahu k takému majetku jej orgánmi, ako ustanovuje článok 55 dohovoru."
+
+  - 2. „Albánska republika vyhlasuje, že žiadosti podľa článku 34 ods. 1 tohto dohovoru sa smú zasielať jej orgánom len prostredníctvom ústredného orgánu."
+
+  - 3. Podľa článku 29 dohovoru Albánska republika určila ústredný orgán:
+
+  - Ministerstvo spravodlivosti Albánskej republiky
