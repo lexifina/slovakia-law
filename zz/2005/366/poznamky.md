@@ -29,3 +29,9 @@
 - 3) Príloha č. 6 nariadenia vlády Slovenskej republiky č. 743/2004 Z. z. v znení nariadenia vlády Slovenskej republiky č. 179/2005 Z. z.
 
 - 4) § 40 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov,
+
+- 5) § 40 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 6) Príloha č. 5 časť B bod 7 nariadenia vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností.
+
+- 7) § 41 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
