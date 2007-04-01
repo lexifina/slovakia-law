@@ -354,6 +354,8 @@
 
 - 136) § 45 zákona č. 383/1997 Z. z.
 
+- 136a) § 61 ods. 1 a § 75 ods. 1 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
+
 - 136b) § 32 ods. 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 534/2005 Z. z.
 
 - 137) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
