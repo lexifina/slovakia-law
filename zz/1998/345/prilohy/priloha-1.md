@@ -96,23 +96,13 @@
 
     - Pravidlo 3 Zastupovanie pred medzinárodným úradom
 
-      - (1) Zástupca; adresa zástupcu; počet zástupcov
+      - (1) Zástupca; počet zástupcov
 
         - (a) Prihlasovateľ alebo majiteľ si môže ustanoviť zástupcu v konaní pred medzinárodným úradom.
 
-        - (b) Adresa zástupcu bude uvedená
+        - (b) Prihlasovateľ alebo majiteľ môže mať iba jedného zástupcu. Ak sú uvedení viacerí zástupcovia, považuje sa za zástupcu a ako zástupca je zapísaný ten, kto je uvedený na prvom mieste.
 
-          - (i) v prípade medzinárodnej prihlášky podliehajúcej výlučne dohode na území zmluvnej strany viazanej dohodou,
-
-          - (ii) v prípade medzinárodnej prihlášky podliehajúcej výlučne protokolu na území zmluvnej strany viazanej protokolom,
-
-          - (iii) v prípade medzinárodnej prihlášky podliehajúcej dohode a zároveň aj protokolu na území zmluvnej strany,
-
-          - (iv) v prípade medzinárodného zápisu na území zmluvnej strany.
-
-        - (c) Prihlasovateľ alebo majiteľ môže mať iba jedného zástupcu. Ak sú uvedení viacerí zástupcovia, považuje sa za zástupcu a ako zástupca je zapísaný ten, kto je uvedený na prvom mieste.
-
-        - (d) Ak je advokátska kancelária alebo patentová kancelária oznámená medzinárodnému úradu ako zástupca, považuje sa za jedného zástupcu.
+        - (c) Ak je advokátska kancelária alebo patentová kancelária oznámená medzinárodnému úradu ako zástupca, považuje sa za jedného zástupcu.
 
       - (2) Ustanovenie zástupcu
 
@@ -128,9 +118,9 @@
 
       - (3) Nesprávne ustanovenie
 
-        - (a) Ak nie je adresa predpokladaného zástupcu na príslušnom území podľa odseku (1)(b), medzinárodný úrad nebude považovať ustanovenie za platné a bude o tom informovať prihlasovateľa alebo majiteľa, predpokladaného zástupcu a ak ustanovenie zaslal alebo podal úrad, tento úrad.
+        - (a) Ak medzinárodný úrad považuje ustanovenie zástupcu podľa odseku (2) za nesprávne, oznámi to prihlasovateľovi alebo majiteľovi, predpokladanému zástupcovi a ak ustanovenie zaslal alebo podal úrad, aj tomuto úradu.
 
-        - (b) Ak medzinárodný úrad považuje ustanovenie zástupcu podľa odseku (2) za nesprávne, oznámi to prihlasovateľovi alebo majiteľovi, predpokladanému zástupcovi a ak ustanovenie zaslal alebo podal úrad, aj tomuto úradu.
+        - (b) Ak nie sú splnené náležitosti podľa odsekov (1)(b) a (2), medzinárodný úrad zasiela všetky príslušné oznámenia priamo prihlasovateľovi alebo majiteľovi.
 
         - (c) Ak nie sú splnené náležitosti podľa odsekov (1)(b) a (2), medzinárodný úrad zasiela všetky príslušné oznámenia priamo prihlasovateľovi alebo majiteľovi.
 
@@ -716,7 +706,9 @@
 
       - (2) Záznam o neplatnosti a informovanie dotknutého úradu a majiteľa
 
-      - Medzinárodný úrad zaznamená neplatnosť do medzinárodného registra spolu s údajmi obsiahnutými v oznámení o neplatnosti a oboznámi o tom majiteľa. Medzinárodný úrad informuje tiež úrad, ktorý zaslal oznámenie o neplatnosti, o dátume, ku ktorému bola neplatnosť zaznamenaná v medzinárodnom registri, ak dotknutý úrad žiadal o dodávanie takýchto informácií.
+        - (a) Medzinárodný úrad zaznamená neplatnosť do medzinárodného registra spolu s údajmi obsiahnutými v oznámení o neplatnosti a oboznámi o tom majiteľa. Medzinárodný úrad informuje tiež úrad, ktorý zaslal oznámenie o neplatnosti, o dátume, ku ktorému bola neplatnosť zaznamenaná v medzinárodnom registri, ak dotknutý úrad žiadal o dodávanie takýchto informácií.
+
+        - (b) Medzinárodný úrad zaznamená neplatnosť ku dňu doručenia oznamu o neplatnosti pod podmienkou, že oznámenie spĺňa stanovené náležitosti.
 
     - Pravidlo 20 Obmedzenie práva majiteľa disponovať medzinárodným zápisom
 
@@ -734,7 +726,9 @@
 
       - (3) Záznam
 
-      - Medzinárodný úrad zaznamená do medzinárodného registra údaje oznámené podľa odsekov (1) a (2) a vhodným spôsobom o tom informuje majiteľa, vyznačené dotknuté zmluvné strany a ak bola táto informácia oznámená úradom, aj tento úrad.
+        - (a) Medzinárodný úrad zaznamená do medzinárodného registra údaje oznámené podľa odsekov (1) a (2) a vhodným spôsobom o tom informuje majiteľa, úrad zmluvnej strany majiteľa a úrady vyznačených dotknutých zmluvných strán.
+
+        - (b) Údaje zaslané podľa odsekov (1) a (2) zaznamená medzinárodný úrad ku dňu ich doručenia pod podmienkou, že oznámenie o neplatnosti spĺňa stanovené náležitosti.
 
     - Pravidlo 20bis Licencie
 
@@ -778,7 +772,9 @@
 
       - (3) Zápis a oznámenie
 
-      - Ak žiadosť spĺňa náležitosti podľa odseku (1)(a), (b) a (d), medzinárodný úrad zapíše licenciu do medzinárodného registra spolu s informáciami uvedenými v žiadosti, oznámi túto skutočnosť úradom vyznačených zmluvných strán, pre ktoré je licencia poskytnutá, a zároveň informuje majiteľa a, ak bola žiadosť podaná úradom, aj tento úrad.
+        - (a) Ak žiadosť spĺňa náležitosti podľa odseku (1)(a), (b) a (d), medzinárodný úrad zapíše licenciu do medzinárodného registra spolu s informáciami uvedenými v žiadosti, oznámi túto skutočnosť úradom vyznačených zmluvných strán, pre ktoré je licencia poskytnutá, a zároveň informuje majiteľa a, ak bola žiadosť podaná úradom, aj tento úrad.
+
+        - (b) Medzinárodný úrad zapíše licenciu ku dňu doručenia žiadosti pod podmienkou, že žiadosť spĺňa stanovené náležitosti.
 
       - (4) Zmena alebo výmaz zápisu licencie
 
@@ -800,7 +796,7 @@
 
         - (c) Vyhlásenie podľa písmena (a) sa musí zaslať medzinárodnému úradu pred uplynutím 18-tich mesiacov odo dňa, keď bolo oznámenie uvedené v odseku (3) zaslané úradu.
 
-        - (d) Medzinárodný úrad zapíše do medzinárodného registra vyhlásenie vykonané v súlade s písmenom (c) a oznámi to majiteľovi alebo úradu, ktorý žiadosť o zápis licencie podal.
+        - (d) Medzinárodný úrad zapíše do medzinárodného registra vyhlásenie vykonané v súlade s písmenom (c) a oznámi to majiteľovi alebo úradu, ktorý žiadosť o zápis licencie podal. Medzinárodný úrad zaznamená vyhlásenie ku dňu doručenia oznámenia pod podmienkou, že oznámenie spĺňa stanovené náležitosti.
 
         - (e) Konečné rozhodnutie týkajúce sa vyhlásenia vykonaného v súlade s písmenom (c) sa musí oznámiť medzinárodnému úradu, ktorý ho zapíše do medzinárodného registra a zároveň to oznámi majiteľovi alebo úradu, ktorý žiadosť o zápis licencie podal.
 
@@ -822,9 +818,13 @@
 
         - (iii) dátum podania prihlášky a jej číslo, dátum a číslo zápisu, prípadne aj dátum práva prednosti národného alebo regionálneho zápisu nahradeného medzinárodným zápisom.
 
+      - Oznámenie môže obsahovať informácie o iných právach nadobudnutých v dôsledku tohto národného alebo regionálneho zápisu spôsobom dohodnutým medzi medzinárodným úradom a dotknutým úradom.
+
       - (2) Zápis
 
-        - Medzinárodný úrad zapíše údaje oznámené podľa odseku (1) do medzinárodného registra a informuje o tejto skutočnosti majiteľa.
+        - (a) Medzinárodný úrad zapíše údaje oznámené podľa odseku (1) do medzinárodného registra a informuje o tejto skutočnosti majiteľa.
+
+        - (b) Údaje oznámené podľa odseku (1) zapíše Medzinárodný úrad ku dňu doručenia oznámenia pod podmienkou, že oznámenie spĺňa stanovené náležitosti.
 
     - Pravidlo 21bis Ostatné skutočnosti týkajúce sa nárokovania seniority
 
@@ -1140,7 +1140,7 @@
 
       - (2) Oznámenie
 
-        - Medzinárodný úrad je povinný opravu oznámiť majiteľovi aj úradom vyznačených zmluvných strán, na ktorých území má oprava účinky.
+        - Medzinárodný úrad je povinný opravu oznámiť majiteľovi aj úradom vyznačených zmluvných strán, na ktorých území má oprava účinky. Navyše, ak úrad, ktorý o opravu žiadal, nie je úradom vyznačenej zmluvnej strany, kde má oprava účinky, Medzinárodný úrad informuje aj tento úrad.
 
       - (3) Odmietnutie opravy
 
@@ -1262,11 +1262,7 @@
 
         - (v) zoznam dní, počas ktorých nie je medzinárodný úrad v danom a v nasledujúcom kalendárnom roku otvorený pre verejnosť.
 
-      - (3) Ročný abecedný zoznam
-
-        - Medzinárodný úrad bude každoročne zverejňovať abecedný zoznam majiteľov medzinárodných zápisov, v ktorých prospech sa vo Vestníku zverejnil jeden zápis alebo viac zápisov. Pri mene majiteľa musí byť uvedené číslo medzinárodného zápisu, číslo strany výtlačku Vestníka, v ktorom boli zverejnené informácie týkajúce sa medzinárodného zápisu, a určenie povahy tohto zápisu, ako napr. zápis, obnova, odmietnutie, neplatnosť, výmaz alebo zmena.
-
-      - (4) Počet výtlačkov pre úrady zmluvných strán
+      - (3) Počet výtlačkov pre úrady zmluvných strán
 
         - (a) Medzinárodný úrad zašle úradom každej zo zmluvných strán výtlačky Vestníka. Každý úrad má právo na dva výtlačky zadarmo. Ak počas daného kalendárneho roka počet vyznačení zapísaných vo vzťahu k tejto zmluvnej strany prevýši 2 000 (dvetisíc), v nasledujúcom roku má úrad nárok na 3 výtlačky zadarmo a na ďalší výtlačok zadarmo za každých ďalších 1 000 (tisíc) zápisov. Každá zmluvná strana má právo zakúpiť každý rok za polovičnú cenu rovnaký počet výtlačkov, ako je počet, na ktorý má nárok zadarmo.
 
