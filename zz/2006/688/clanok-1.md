@@ -34,11 +34,17 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - príjmy z podielových listov dosiahnuté z ich vyplatenia (vrátenia).“.
 
+- 7. V § 7 ods. 3 sa slová „a), b), d) a e) a v odseku 2“ nahrádzajú slovami „a), b), d), e) a g) a v odseku 2“ dvakrát.
+
 - 8. § 7 sa dopĺňa odsekmi 6 a 7, ktoré znejú:
 
 - „(6)
 
-- Do základu dane (čiastkového základu dane) sa zahrnie suma, o ktorú úhrn príjmov podľa odseku 1 písm. g) prevyšuje úhrn vkladov podielnika; za vklad podielnika sa považuje predajná cena vyplateného (vráteného) podielového listu pri jeho vydaní. Ak úhrn vkladov podielnika prevyšuje úhrn príjmov podľa odseku 1 písm. g), na rozdiel sa neprihliada.“.
+- Do základu dane (čiastkového základu dane) sa zahrnie suma, o ktorú úhrn príjmov podľa odseku 1 písm. g) prevyšuje úhrn vkladov podielnika; za vklad podielnika sa považuje predajná cena vyplateného (vráteného) podielového listu pri jeho vydaní. Ak úhrn vkladov podielnika prevyšuje úhrn príjmov podľa odseku 1 písm. g), na rozdiel sa neprihliada.
+
+- (7)
+
+- Ak daňovník využije možnosť odpočítať daň vybranú zrážkou podľa § 43 ods. 10 ako preddavok na daň podľa § 43 ods. 7, základ dane (čiastkový základ dane) sa zistí podľa odseku 6.“.
 
 - 9. V § 8 ods. 1 písm. e) sa bodkočiarka nahrádza čiarkou a vypúšťajú sa slová „na účely tohto zákona sa považuje za prevod cenného papiera aj vrátenie (vyplatenie) podielového listu“.
 
@@ -473,6 +479,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - príjem podľa § 16 ods. 1 písm. e) štvrtého bodu s výnimkou nájomného alebo príjmu plynúceho z iného využitia nehnuteľností umiestnených na území Slovenskej republiky a príjmu, pri ktorom sa zabezpečuje daň podľa § 44.“.
 
 - 87. V § 43 ods. 4 prvej vete sa na konci pripájajú tieto slová: „alebo 9“.
+
+- 88. V § 43 ods. 10 sa na konci pripájajú tieto vety: „Pri vyplatení (vrátení) podielového listu sa vykoná zrážka dane z kladného rozdielu medzi vkladom podielnika, ktorým je predajná cena podielového listu pri jeho vydaní a vyplatenou nezdanenou sumou; ak ide o príjemcu, ktorým je podielový fond, zrážka dane sa nevykoná a ak ide o príjemcu, ktorým je obchodník s cennými papiermi alebo zahraničný obchodník s cennými papiermi držiaci podielové listy vo svojom mene pre svojich klientov v rámci poskytovania investičnej služby na území Slovenskej republiky prostredníctvom svojej pobočky alebo bez zriadenia pobočky, zrážka dane sa nevykoná a platiteľom dane<sup>122</sup>) vyberanej zrážkou z vyplatenia (vrátenia) podielového listu je obchodník s cennými papiermi alebo zahraničný obchodník s cennými papiermi. Rovnaký postup sa použije aj v prípade, ak vypláca podielové listy alebo obdobné cenné papiere zahraničný subjekt kolektívneho investovania alebo zahraničná správcovská spoločnosť.<sup>136a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 136a znie:
+
+- „136a)
+
+- § 61 ods. 1 a § 75 ods. 1 zákona č. 594/2003 Z. z. v znení neskorších predpisov.“.
 
 - 89. V § 43 ods. 11 sa za druhú vetu vkladá nová tretia veta, ktorá znie: „Platiteľ dane,<sup>122</sup>) ktorý vykonal zrážku z príjmov zo závislej činnosti podľa odseku 3 písm. j), je povinný hlásenie o vykonaní zrážky a odvedení zrazenej dane oznámiť správcovi dane na tlačive podľa § 39 ods. 9 písm. a), v lehote podľa § 49 ods. 2.“.
 
