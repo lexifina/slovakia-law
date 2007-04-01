@@ -1,4 +1,6 @@
-- 1) Napríklad § 61 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 1) § 5 ods. 4 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
+- 1a) Napríklad § 61 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 1b) § 15 a 16 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
