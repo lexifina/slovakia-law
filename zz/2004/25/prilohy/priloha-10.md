@@ -1,1 +1,3 @@
-Príloha č. 10 k vyhláške č. 25/2004 Z. z. [Vzor 10 - Návrh na zápis zmeny zapísaných údajov o akciovej spoločnosti do obchodného registra](../assets/7a88a61513105a8704eb2de9db026cad31543d760e6798ab0635f7f0bf8f96ab.pdf)
+Príloha č. 10 k vyhláške č. 25/2004 Z. z. Vzor 10 - Návrh na zápis zmeny zapísaných údajov o akciovej spoločnosti do obchodného registra
+
+(Poznámka redacie: Novela č. 150/2007 Z. z. zmenila vzor Návrhu na zápis zmeny zapísaných údajov o akciovej spoločnosti do obchodného registra s účinnosťou od 1. apríla 2007 a nové znenie návrhu nebolo v Zbierke zákonov Slovenskej republiky publikované.)

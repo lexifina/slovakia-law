@@ -2,7 +2,7 @@
 
 # § 16e Návrh na prvý zápis
 
-(1) S výnimkou prípadu podľa odseku 5 sa návrh na zápis európskej spoločnosti do obchodného registra podáva na tlačive, ktorého vzor je uvedený v prílohe č. 23.
+(1) Návrh na zápis európskej spoločnosti do obchodného registra sa podáva na tlačive, ktorého vzor je uvedený v prílohe č. 23.
 
 (2) K návrhu na zápis európskej spoločnosti, ktorá vzniká v dôsledku splynutia alebo zlúčenia, do obchodného registra sa okrem listín podľa § 4 prikladajú
 
