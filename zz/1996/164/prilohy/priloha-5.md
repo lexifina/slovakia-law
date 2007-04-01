@@ -1,19 +1,111 @@
-Príloha č. 5
+Príloha č. 5 k zákonu č. 164/1996 Z. z. v znení zákona č. 109/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- BEZPEČNOSTNÉ UKAZOVATELE A SYSTÉMY RIADENIA BEZPEČNOSTI
 
-  - 1. Smernica Rady 91/440/EHS z 29. júla 1991 o rozvoji železníc Spoločenstva (Ú. v. ES, L 237, 24. 8. 1991) v znení smernice Európskeho parlamentu a Rady 2001/12/ES z 26. februára 2001 (Ú. v. ES, L 075, 15. 3. 2001) a jej opravy (Ú. v. ES, L 334, 18. 12. 2001).
+  - BEZPEČNOSTNÉ UKAZOVATELE
 
-  - 2. Smernica Rady č. 95/18/ES z 19. júna 1995 o udeľovaní licencií železničným podnikom (Ú. v. ES, L 143, 27.6.1995) v znení smernice Európskeho parlamentu a Rady 2001/13/ES z 26. februára 2001 (Ú. v. ES, L 075, 15. 3. 2001).
+  - 1. Ukazovatele nehody
 
-  - 3. Smernica Európskeho parlamentu a Rady 2001/14/ES z 26. februára 2001 o prideľovaní kapacity železničnej infraštruktúry, vyberaní poplatkov za používanie železničnej infraštruktúry a bezpečnostnej certifikácii ES (Ú. v. ES, L 075, 15. 3. 2001).
+  - 1. Celkový počet nehôd a relatívny počet nehôd na vlakové kilometre, členený na tieto druhy nehôd:
 
-  - 4. Smernica Rady 96/48/ES z 23. júla 1996 o interoperabilite na transeurópskych vysokorýchlostných železniciach (Ú. v. ES, L 235, 17. 9. 1996) v znení smernice Európskeho parlamentu a Rady 2004/50/ES z 29. apríla 2004 (Ú. v. ES, L 164, 30. 4. 2004) a jej opravy (Ú. v. EÚ, L 220, 21. 6. 2004).
+    - a) zrážky vlakov vrátane zrážok s prekážkami vo vnútri prechodového prierezu,
 
-  - 5. Smernica Rady 96/35/ES z 3. júna 1996 o menovaní a odbornej kvalifikácii bezpečnostných poradcov pre prepravu nebezpečného tovaru cestnou, železničnou, vnútrozemskou vodnou dopravou (Ú. v. ES, L 145, 19. 6. 1996).
+    - b) vykoľajenie vlakov,
 
-  - 6. Smernica Rady 96/49/ES z 23. júla 1996 o zblížení zákonov členských štátov týkajúcich sa prepravy nebezpečného tovaru železničnou dopravou (Ú. v. ES, L 235, 17. 9. 1996) v znení smernice Komisie 96/87/ES z 13. decembra 1996 (Ú. v. ES, L 335, 24. 12. 1996), v znení smernice Komisie 1999/48/ES z 21. mája 1999 (Ú. v. ES, L 169, 5. 7. 1999), v znení smernice Európskeho parlamentu a Rady 2000/62/ES z 10. októbra 2000 (Ú. v. ES, L 279, 1.11.2000), v znení smernice Komisie 2001/6/ES z 29. januára 2001 (Ú. v. ES, L 030, 1. 2. 2001), v znení smernice Komisie 2003/29/ES zo 7. apríla 2003 (Ú. v. EÚ, L 090, 8. 4. 2003).
+    - c) nehody na úrovňových priecestiach vrátane nehôd, na ktorých sa podieľajú chodci,
 
-  - 7. Smernica Európskeho parlamentu a Rady 2000/18/ES zo 17. apríla 2000 o minimálnych požiadavkách na bezpečnostných poradcov pre prepravu nebezpečného tovaru cestnou, železničnou alebo vnútrozemskou vodnou dopravou (Ú. v. ES, L 118, 19. 5. 2000).
+    - d) nehody s poškodením osôb spôsobeným pohybom železničného vozidla s výnimkou samovrážd,
 
-  - 8. Smernica Európskeho parlamentu a Rady 2001/16/ES z 19. marca 2001 (Ú. v. ES, L 110, 20. 4. 2001) v znení smernice Európskeho parlamentu a Rady 2004/50/ES z 29. apríla 2004 (Ú. v. EÚ, L 164, 30. 4. 2004) a jej opravy (Ú. v. EÚ, L 220, 21. 6. 2004).
+    - e) samovraždy,
+
+    - f) požiare vo vozidlách,
+
+    - g) ostatné nehody.
+
+      - Každá nehoda sa uvedie pod príslušným druhom prvotnej nehody, hoci následky sekundárnej nehody sú závažnejšie, napríklad požiar po vykoľajení.
+
+  - 2. Celkový počet ťažko zranených a usmrtených osôb podľa druhu nehody a ich relatívny počet na vlakové kilometre, členený do týchto kategórií:
+
+    - a) cestujúci, aj v pomere k celkovému počtu osobokilometrov,
+
+    - b) zamestnanci vrátane personálu dodávateľov,
+
+    - c) užívatelia úrovňových priecestí,
+
+    - d) neoprávnené osoby v železničných prevádzkových priestoroch,
+
+    - e) ostatné osoby.
+
+  - 2. Ukazovatele mimoriadnych udalostí
+
+  - 1. Celkový počet lomov koľajníc, deformácií koľajníc a chýb návestenia a ich relatívny počet na vlakové kilometre.
+
+  - 2. Celkový počet prejdených návestí Stoj a ich relatívny počet na vlakové kilometre.
+
+  - 3. Celkový počet lomov kolies a náprav na vozidlovom parku v prevádzke a ich relatívny počet na vlakové kilometre.
+
+  - 3. Ukazovatele následkov nehôd
+
+  - 1. Celkové náklady a náhrady v eurách a relatívne náklady a náhrady na vlakové kilometre všetkých nehôd, pri ktorých by sa podľa možnosti mali vypočítať a zahrnúť tieto náklady:
+
+    - a) úmrtia a zranenia,
+
+    - b) náhrada za stratu alebo poškodenie majetku cestujúcich, personálu alebo tretích strán vrátane nákladov súvisiacich s poškodením životného prostredia,
+
+    - c) výmena alebo oprava poškodených vozidiel a železničných zariadení,
+
+    - d) meškania, poruchy a odklon dopravy vrátane dodatočných nákladov na personál a stratu budúcich príjmov.
+
+      - Od vyššie uvedených nákladov sa odpočítajú odškodnenia alebo náhrady uhradené, alebo ktoré pravdepodobne uhradia tretie strany, napríklad majitelia motorových vozidiel podieľajúci sa na dopravných nehodách na úrovňových priecestiach. Náhrady, ktoré dostane prevádzkovateľ dráhy alebo dopravca na základe vlastných poistných zmlúv, sa neodpočítajú.
+
+  - 2. Celkový a priemerný počet pracovných hodín, ktoré zamestnanci a dodávatelia nemohli kvôli nehode odpracovať.
+
+  - 4. Ukazovatele technickej bezpečnosti infraštruktúry
+
+  - 1. Percentuálny podiel tratí s automatickým zabezpečením vlakov v prevádzke, percentuálny podiel vlakových kilometrov s využitím prevádzkových systémov automatického zabezpečenia vlakov.
+
+  - 2. Počet úrovňových priecestí celkom a na kilometer trate. Percentuálny podiel automaticky alebo manuálne zabezpečených úrovňových priecestí.
+
+  - 5. Ukazovatele riadenia bezpečnosti
+
+    - Interné audity vykonané prevádzkovateľom dráhy alebo dopravcom podľa dokumentácie systému riadenia bezpečnosti, celkový počet vykonaných auditov a percentuálny podiel auditov požadovaných alebo plánovaných.
+
+  - 6. Definície
+
+    - Pri podávaní správy pri predkladaní údajov podľa tejto prílohy môžu byť využité bežne používané definície ukazovateľov a metódy kalkulácie nákladov. Všetky použité definície a metódy výpočtu sa musia vysvetliť v prílohe výročnej správy.
+
+    - SYSTÉMY RIADENIA BEZPEČNOSTI
+
+  - 1. Požiadavky na systém riadenia bezpečnosti
+
+    - Všetky dôležité prvky systému riadenia bezpečnosti musia byť zdokumentované a musí byť opísané najmä rozdelenie zodpovednosti v rámci organizácie prevádzkovateľa dráhy alebo dopravcu. Systém musí opisovať, akým spôsobom vedenie podniku zabezpečuje spoľahlivú prevádzkovú kontrolu a dozor nad vykonávanými činnosťami v rôznych oblastiach, zapojenie personálu a jeho zástupcov na všetkých úrovniach a ako sa zabezpečuje postupné zdokonaľovanie systému riadenia bezpečnosti.
+
+  - 2. Základné prvky systému riadenia bezpečnosti
+
+    - Základnými prvkami systému riadenia bezpečnosti sú:
+
+    - a) bezpečnostná politika schválená riaditeľom podniku a oznámená všetkým zamestnancom,
+
+    - b) kvalitatívne a kvantitatívne ciele organizácie na udržanie a zvýšenie bezpečnosti a plány a postupy na dosiahnutie týchto cieľov,
+
+    - c) postupy zaručenia zhody s normami a inými určenými podmienkami počas životnosti zariadenia a počas prevádzky, ako aj postupy dodržiavania existujúcich, nových a zmenených technických a prevádzkových noriem alebo iných podmienok určených v
+
+      - 1. technických špecifikáciách,
+
+      - 2. bezpečnostných predpisoch,
+
+      - 3. iných vecne príslušných predpisoch,
+
+      - 4. úradných rozhodnutiach,
+
+    - d) postupy a metódy na vykonávanie hodnotenia rizík a uplatňovanie opatrení na kontrolu rizík vždy, keď zo zmeny prevádzkových podmienok alebo nového materiálu vyplývajú nové riziká pre infraštruktúru alebo prevádzku,
+
+    - e) školiace programy pre personál a systémy, ktorými sa zabezpečí zachovanie spôsobilosti personálu a zodpovedajúce vykonávanie úloh,
+
+    - f) opatrenia na zabezpečenie dostatočného toku informácií v rámci organizácie a prípadne medzi organizáciami, ktoré využívajú tú istú infraštruktúru,
+
+    - g) postupy a formáty dokumentovania informácií o bezpečnosti a určenie kontrolného postupu na zabezpečenie konfigurácie rozhodujúcich informácií o bezpečnosti,
+
+    - h) príprava plánov nasadenia nehodových pomocných prostriedkov, záchranárov vrátane zdravotníkov a hasičov, poplachových a informačných plánov po dohode s príslušnými verejnými orgánmi,
+
+    - i) ustanovenia o pravidelných interných auditoch systému riadenia bezpečnosti.

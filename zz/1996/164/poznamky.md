@@ -62,7 +62,7 @@
 
 - 14a) § 69 ods. 4 Obchodného zákonníka.
 
-- 15) § 89 ods. 14 Trestného zákona.
+- 15) § 124 ods. 1 Trestného zákona.
 
 - 16) § 8 ods. 2 zákona č. 17/1992 Zb. o životnom prostredí.
 

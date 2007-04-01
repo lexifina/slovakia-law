@@ -10,7 +10,9 @@
 
 - c) výsledky auditu vnútornej bezpečnosti.
 
-(3) Príslušný dráhový správny úrad je povinný každý rok do 30. júla zverejniť vo vestníku dopravy výročnú správu týkajúcu sa svojej činnosti v oblasti bezpečnosti za predchádzajúci kalendárny rok.
+- d) vývoj bezpečnostných ukazovateľov podľa prílohy č. 5 a údaje o závažných nedostatkoch a poruchách v prevádzke dráhy alebo dopravy na dráhe.
+
+(3) Príslušný dráhový správny úrad je povinný vždy do 30. septembra kalendárneho roka zverejniť vo vestníku dopravy výročnú správu týkajúcu sa svojej činnosti v oblasti bezpečnosti za predchádzajúci kalendárny rok; túto správu a vyhodnotenie bezpečnostných ukazovateľov podľa prílohy č. 5 za oblasť železničnej dopravy zašle v tomto termíne aj Európskej železničnej agentúre.
 
 (4) Správa podľa odseku 3 musí obsahovať
 

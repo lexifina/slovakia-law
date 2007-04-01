@@ -9,3 +9,5 @@ Regulácia bezpečnosti zahŕňa
 - c) schvaľovanie dráhových vozidiel železničných dráh,
 
 - d) vykonávanie dohľadu a vyšetrovanie nehôd.
+
+- e) vykonávanie dohľadu nad prijatím potrebných opatrení prevádzkovateľom dráhy a dopravcom na ochranu pred požiarmi.
