@@ -1,5 +1,3 @@
-## Náhradné poistné plnenie z poistného garančného fondu
-
 # § 24a
 
 (1) Poškodený s trvalým pobytom alebo sídlom na území Slovenskej republiky má nárok na náhradné poistné plnenie z poistného garančného fondu (ďalej len „náhradné poistné plnenie"), ak
@@ -14,7 +12,7 @@
 
 - b) uplatnil nárok na náhradu škody proti príslušnému poisťovateľovi žalobou na súde.
 
-(3) Náhradné poistné plnenie sa neposkytuje za škody vzniknuté úhradou nákladov zdravotnej starostlivosti, dávok nemocenského poistenia a dávok dôchodkového poistenia.
+(3) Náhradné poistné plnenie sa neposkytuje za uplatnené, preukázané a vyplatené náklady zdravotnej starostlivosti, nemocenské dávky, dávky nemocenského zabezpečenia, úrazové dávky, dávky úrazového zabezpečenia, dôchodkové dávky, dávky výsluhového zabezpečenia a dôchodky starobného dôchodkového sporenia.
 
 (4) Kancelária je povinná poskytnúť náhradné poistné plnenie alebo poskytnúť písomné vysvetlenie dôvodov, pre ktoré odmietla poskytnúť alebo pre ktoré znížila náhradné poistné plnenie, a to do dvoch mesiacov odo dňa uplatnenia nároku na náhradné poistné plnenie. Kancelária neposkytne náhradné poistné plnenie alebo písomné vysvetlenie, ak poisťovateľ alebo jeho likvidačný zástupca poskytne poškodenému poistné plnenie alebo písomné vysvetlenie dôvodov, pre ktoré odmieta poskytnúť alebo pre ktoré znížil poistné plnenie.
 
