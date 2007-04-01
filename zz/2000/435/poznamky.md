@@ -1,4 +1,4 @@
-- 1) Napríklad Medzinárodný dohovor o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov, Medzinárodný dohovor o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov, Medzinárodný dohovor o nákladovej značke (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+- 1) Rozhodnutie Komisie 96/587/ES z 30. septembra 1996 o uverejnení zoznamu uznaných organizácií, ktoré oznámili členské štáty v súlade so smernicou Rady 94/57/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 07/zv. 2; Ú. v. ES L 257, 10. 10. 1996) v platnom znení.
 
 - 1a) Nariadenie vlády Slovenskej republiky č. 180/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a o postupoch posudzovania zhody na plavidlá určené na rekreačné účely.
 
@@ -19,6 +19,8 @@
 - 5) § 20 ods. 2 písm. s) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
 
 - 6) Napríklad zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 95/2000 Z. z., § 132 až 138 Zákonníka práce v znení neskorších predpisov.
+
+- 6a) Medzinárodný dohovor o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
 
 - 7) Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
 
@@ -51,6 +53,12 @@
 - 20) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 20a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 20b) Nariadenie vlády Slovenskej republiky č. 581/2006 Z. z. o systéme povinných kontrol pre bezpečnú prevádzku prievozných lodí ro-ro a vysokorýchlostných osobných plavidiel v pravidelnej preprave.
+
+- 20c) Nariadenie vlády Slovenskej republiky č. 579/2006 Z. z., ktorým sa ustanovujú podmienky bezpečnej nakládky a vykládky námornej lode na hromadný náklad.
+
+- Nariadenie vlády Slovenskej republiky č. 66/2007 Z. z. o prístavných zberných zariadeniach na lodný odpad a na zvyšky nákladu.
 
 - 21) Obchodný zákonník v znení neskorších predpisov.
 
