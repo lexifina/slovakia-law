@@ -22,6 +22,10 @@
 
 - 12) § 128 Občianskeho zákonníka v znení neskorších predpisov.
 
+- 12a) § 47 ods. 7 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+
+- 12b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
 - 13) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 14) § 12 zákona č. 276/2001 Z. z. v znení zákona č. 442/2002 Z. z.
@@ -39,6 +43,8 @@
 - § 469 až 470 Obchodného zákonníka.
 
 - 19) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 19b) § 7a ods. 2 písm. a) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 20) Zákon č. 656/2004 Z. z.
 
