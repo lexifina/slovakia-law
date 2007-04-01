@@ -10,7 +10,7 @@
 
         - (b) Vo Vykonávacom predpise slová „hlava“ a „článok“ sa vzťahujú na príslušnú hlavu a článok Zmluvy.
 
-    - PRAVIDLO II VÝKLAD NIEKTORÝCH SLOV
+    - Pravidlo 2 Výklad niektorých slov
 
       - 2.1 „Prihlasovateľ“
 
@@ -27,6 +27,12 @@
       - 2.3 „Podpis“
 
         - Ak národné zákonodarstvo, používané prijímacím úradom alebo príslušným orgánom pre medzinárodnú rešerš alebo pre medzinárodný predbežný prieskum, vyžaduje použitie pečiatky namiesto podpisu, bude pre tento úrad alebo orgán výraz „podpis“ znamenať „pečiatku“.
+
+      - 2.4 „Prioritné obdobie“
+
+        - (a) Kedykoľvek sa použije výraz „prioritné obdobie“ vo vzťahu k uplatneniu priority, znamená to obdobie 12 mesiacov od dátumu podania skoršej prihlášky, ktorej priorita sa uplatňuje. Dátum podania skoršej prihlášky nespadá do tohto obdobia.
+
+        - (b) Pravidlo 80.5 sa použije mutatis mutandis k prioritnému obdobiu.
 
   - ČASŤ B Pravidlá, ktoré sa týkajú hlavy I Zmluvy
 
@@ -58,7 +64,7 @@
 
     - Pravidlo 4 Žiadosť (obsah)
 
-      - 4.1 Povinný a fakultatívny obsah; podpis
+      - 4.1 Povinný a fakultatívny obsah. Podpis.
 
         - (a) Žiadosť musí obsahovať
 
@@ -86,7 +92,11 @@
 
           - (ii) žiadosť na prijímací úrad, aby pripravil a odoslal Medzinárodnému úradu prioritný doklad, ak prihláška, na ktorú sa nárokuje priorita, bola podaná na národnom úrade alebo medzivládnom orgáne, ktorý je prijímacím úradom.
 
-          - (iii) vyhlásenia tak, ako stanovuje pravidlo 4.17.
+          - (iii) vyhlásenia podľa pravidla 4.17,
+
+          - (iv) vyhlásenie podľa pravidla 4.18,
+
+          - (v) žiadosť o obnovenie práva na prioritu
 
         - (d) Žiadosť musí byť podpísaná.
 
@@ -158,7 +168,7 @@
 
       - 4.10 Uplatnenie priority
 
-        - (a) Akékoľvek vyhlásenie uvedené v článku 8(1) („Uplatnenie priority“) môže uplatňovať prioritu z jednej alebo viacerých skorších prihlášok podaných v krajine alebo v ktorejkoľvek krajine Parížskeho dohovoru na ochranu priemyselného vlastníctva, alebo v krajine ktoréhokoľvek člena Svetovej obchodnej organizácie, ktorý nie je členom tohto dohovoru. Akékoľvek uplatnenie priority bude okrem pravidla 26bis.1 uvedené v žiadosti; žiadosť bude obsahovať stanovisko v tom zmysle, že sa uplatňuje priorita skoršej prihlášky a uvedie sa
+        - (a) Akékoľvek vyhlásenie uvedené v článku 8(1) („uplatnenie priority“) môže uplatňovať prioritu jednej alebo viacerých skorších prihlášok podaných buď v členskom štáte, alebo v niektorom členskom štáte Parížskeho dohovoru na ochranu priemyselného vlastníctva, alebo v členskom štáte, alebo v členskom štáte Svetovej obchodnej organizácie, ktorý nie je členským štátom tejto zmluvy. Každé uplatnenie priority sa musí uviesť v žiadosti; žiadosť pozostáva z vyhlásenia, že sa uplatňuje priorita zo skoršej prihlášky, a musí obsahovať
 
           - (i) dátum, kedy bola skoršia prihláška podaná, dátum podania je v rámci lehoty 12 mesiacov, ktoré predchádzajú dátumu medzinárodného podania;
 
@@ -228,11 +238,15 @@
 
         - (v) vyhlásenie o zverejneniach, ktoré nie sú na škodu udelenia patentu, alebo o výnimkách pri nedostatku novosti, ako sa uvádza v pravidle 51bis.1(a)(v).
 
-      - 4.18 Dodatkové údaje
+      - 4.18 Vyhlásenie o včlenení odkazom
 
-        - (a) Žiadosť nesmie obsahovať iné údaje ako tie, ktoré sa uvádzajú v pravidlách 4.1 až 4.17, za predpokladu, že Administratívne smernice môžu dovoliť, ale nemôžu nariadiť, aby sa do žiadosti zahrnuli akékoľvek dodatkové údaje, ktoré sú uvedené v Administratívnych smerniciach.
+        - Ak si medzinárodná prihláška ku dňu, keď prijímací úrad prijal skôr jeden alebo viac prvkov uvedených v článku 11(1)(iii), uplatňuje prioritu skoršej prihlášky, môže žiadosť obsahovať vyhlásenie, ak prvok medzinárodnej prihlášky uvedený v článku 11(1)(iii)(d) alebo (e) alebo časť opisu, nárokov alebo výkresov uvedených v pravidle 20.5(a) nie sú inak obsiahnuté v medzinárodnej prihláške, ale sú úplne obsiahnuté v skoršej prihláške, že prvok alebo časť, s prihliadnutím na potvrdenie podľa pravidla 20.6, sú včlenené vyhlásením do medzinárodnej prihlášky na účely pravidla 20.6. Ak žiadosť neobsahuje takéto vyhlásenie k uvedenému dňu, môže sa doložiť k žiadosti iba vtedy, ak bolo v nej obsiahnuté inak alebo predložené spolu s medzinárodnou prihláškou k uvedenému dňu.
 
-        - (b) Ak žiadosť obsahuje iné údaje než tie, ktoré sa uvádzajú v pravidlách 4.1 až 4.17 alebo ktoré dovoľujú podľa odseku (a) Administratívne smernice, prijímací úrad tieto dodatkové položky vymaže ex officio.
+      - 4.19 Dodatkové údaje
+
+        - (a) Žiadosť nesmie obsahovať žiadne iné údaje než tie, ktoré sa uvádzajú v pravidlách 4.1 až 4.18, s tým, že administratívne smernice môžu dovoliť, ale nie nariadiť, aby sa do žiadosti zahrnuli ďalšie dodatkové údaje vymedzené v administratívnych smerniciach.
+
+        - (b) Ak žiadosť obsahuje iné údaje než tie, ktoré sú uvedené v pravidlách 4.1 až 4.18 alebo povolené podľa odseku (a) administratívnymi smernicami, prijímací úrad z úradnej moci zruší tieto dodatkové údaje.
 
     - PRAVIDLO 5 OPIS
 
@@ -380,7 +394,7 @@
 
         - V celej medzinárodnej prihláške sa dôsledne používa zvolená terminológia a značky.
 
-    - PRAVIDLO 11 POŽIADAVKY NA VONKAJŠIU ÚPRAVU MEDZINÁRODNEJ PRIHLÁŠKY
+    - Pravidlo 11 Požiadavky na vonkajšiu úpravu
 
       - 11.1 Počet vyhotovení
 
@@ -470,7 +484,7 @@
 
         - (c) Strojopis má medziriadkovú medzeru 1 1/2.
 
-        - (d) Všetky textové časti musia byť napísané takým písmom, pri ktorom sú veľké písmená vysoké najmenej 0,21 cm, čiernou nezmazateľnou farbou a tak, aby boli splnené požiadavky uvedené v pravidle 11.2.
+        - (d) Všetky textové časti musia byť napísané takým písmom, pri ktorom sú veľké písmená vysoké najmenej 0,28 cm, a čiernou nezmazateľnou farbou tak, aby boli splnené požiadavky uvedené v pravidle 11.2, za predpokladu, že každá textová časť v žiadosti môže byť napísaná takými písmenami, ktorých výška nie je menšia ako 0,21 cm.
 
         - (e) Ustanovenia odsekov (c) a (d), pokiaľ ide o medzery a o rozmery znakov, sa nevzťahujú na texty v čínštine alebo v japončine.
 
@@ -524,9 +538,9 @@
 
       - 11.14 Neskôr predložené doklady
 
-        - Pravidlá 10 a 11.1 až 11.13 sa vzťahujú aj na každý doklad – napríklad na opravené stránky, upravené nároky, preklady predložené po podaní medzinárodnej prihlášky.
+        - Pravidlá 10 a 11.1 až 11.13 sa takisto vzťahujú na každý dokument – napríklad, opravené stránky, upravené nároky, preklady – predložené po podaní medzinárodnej prihlášky.
 
-    - Pravidlo 12 Jazyk medzinárodnej prihlášky a preklad na účely medzinárodnej rešerše a medzinárodného zverejnenia
+    - Pravidlo 12 Jazyk medzinárodnej prihlášky a preklady na účely medzinárodnej rešerše a medzinárodného zverejnenia
 
       - 12.1 Prípustné jazyky pri podaní medzinárodnej prihlášky
 
@@ -542,17 +556,25 @@
 
         - (d) Bez ohľadu na odsek (a) sa musí každý text obsiahnutý v časti opisu s výpisom sekvencií podľa pravidla 5.2(a) podať v súlade so štandardom uvedeným v Administratívnej smernici.
 
-      - 12.2 Jazyk zmien v medzinárodných prihláškach
+      - 12.1bis Jazyk prvkov a častí predložených podľa pravidla 20.3, 20.5 alebo 20.6
+
+        - Prvok uvedený v článku 11(1)(iii)(d) alebo (e), ktorý predložil prihlasovateľ podľa pravidla 20.3(b) alebo 20.6(a), a časť opisu, nárokov alebo výkresov, ktoré predložil prihlasovateľ podľa pravidla 20.5(b) alebo 20.6(a), musí byť v jazyku medzinárodnej prihlášky, ako sa podala, alebo ak sa vyžaduje preklad prihlášky podľa pravidla 12.3(a) alebo 12.4(a), v obidvoch, v jazyku, v akom sa prihláška podala, a v jazyku prekladu.
+
+      - 12.1ter Jazyk údajov predložených podľa pravidla 13bis.4
+
+        - Každý údaj týkajúci sa uloženého biologického materiálu, predložený podľa pravidla 13bis.4 musí byť v takom jazyku, v akom sa podala medzinárodná prihláška, za predpokladu, že ak sa vyžaduje preklad medzinárodnej prihlášky podľa pravidla 12.3(a) alebo 12.4(a), každý údaj sa musí predložiť v obidvoch jazykoch, tak v jazyku prihlášky, ako sa podala, ako aj v jazyku prekladu.
+
+      - 12.2 Jazyk zmien v medzinárodnej prihláške
 
         - (a) Každá zmena v medzinárodnej prihláške musí byť v jazyku, v ktorom bola podaná prihláška, s výnimkou pravidiel 46.3, 55.3 a 66.9.
 
-        - (b) Akákoľvek oprava zrejmej chyby podľa pravidla 91.1 v medzinárodnej prihláške je v jazyku, v ktorom je podaná prihláška, za predpokladu, že:
+        - b) Každá oprava podľa pravidla 91.1 zjavného omylu v medzinárodnej prihláške musí byť v jazyku, v ktorom sa prihláška podala, za predpokladu, že
 
-          - (i) ak sa vyžaduje preklad medzinárodnej prihlášky podľa pravidla 12.3(a), 12.(4) alebo 55.2(a), opravy, ktoré odkazujú na pravidlo 91.1(e)(ii) a (iii), sa podajú v obidvoch jazykoch, v jazyku prihlášky a v jazyku prekladu;
+          - (i) ak sa vyžaduje preklad medzinárodnej prihlášky podľa pravidla 12.3(a), 12.4(a) alebo 55.2(a), opravy podľa pravidla 91.1(b)(ii) a (iii) sa musia podať tak v jazyku prihlášky, ako aj v jazyku prekladu,
 
-          - (ii) tam, kde sa vyžaduje preklad žiadosti podľa pravidla 26.3ter(c), môžu sa potrebné úpravy podľa pravidla 91.1(e)(i) podať iba v jazyku prekladu.
+          - (ii) ak sa vyžaduje preklad žiadosti podľa pravidla 26.3ter(c), opravy podľa pravidla 91.1(b)(i) stačí predložiť iba v jazyku prekladu.
 
-        - (c) Každá oprava chyby v medzinárodnej prihláške podľa pravidla 26 musí byť v jazyku, v ktorom je podaná medzinárodná prihláška. Každá oprava chyby podľa pravidla 26 v preklade medzinárodnej prihlášky predloženého podľa pravidla 12.3 alebo 55.2(a) alebo v preklade žiadosti predloženej podľa pravidla 26.3ter(c) musí byť v jazyku prekladu.
+        - (c) Každá oprava chyby v medzinárodnej prihláške podľa pravidla 26 musí byť v jazyku, v ktorom sa podala medzinárodná prihláška. Každá oprava chyby podľa pravidla 26 v preklade predloženom podľa pravidla 12.3 alebo 12.4, každá oprava chyby podľa pravidla 55.2(c) v preklade predloženom podľa pravidla 55.2(a) alebo každá oprava v preklade žiadosti predloženej podľa pravidla 26.3ter(c) musí byť v jazyku prekladu.
 
       - 12.3 Preklad na účely medzinárodnej rešerše
 
@@ -566,7 +588,7 @@
 
         - (b) Odsek (a) sa nepoužije pre žiadosť ani pre žiadnu časť opisu s výpisom sekvencií.
 
-        - (c) Ak prijímací úrad zašle prihlasovateľovi oznámenie podľa pravidla 20.5(c) a ak prihlasovateľ nepredložil preklad požadovaný podľa odseku (a), prijímací úrad musí spolu s oznámením vyzvať prihlasovateľa, aby:
+        - (c) Ak prijímací úrad zašle prihlasovateľovi oznámenie podľa pravidla 20.2(c), prihlasovateľ nepredložil preklad vyžadovaný podľa odseku (a), prijímací úrad musí, pokiaľ možno spolu s oznámením, vyzvať prihlasovateľa, aby
 
           - (i) predložil preklad v lehote podľa odseku (a);
 
@@ -900,77 +922,111 @@
 
         - (c) Na účely pravidiel 14.1(c), 15.4 a 16.1(f), keď bola medzinárodná prihláška odovzdaná Medzinárodnému úradu podľa odseku (b), bude sa za dátum prijatia medzinárodnej prihlášky považovať dátum, keď Medzinárodný úrad skutočne prijal medzinárodnú prihlášku. Na účely tohto odseku sa nepoužije posledná veta odseku (b).
 
-    - PRAVIDLO 20 PRÍJEM MEDZINÁRODNEJ PRIHLÁŠKY
+    - Pravidlo 20 Dátum medzinárodného podania
 
-      - 20.1 Dátum a číslo
+      - 20.1 Zistenie podľa článku 11(1)
 
-        - (a) Len čo dôjdu písomnosti za účelom podania medzinárodnej prihlášky, vyznačí prijímací úrad nezmazateľne na žiadosti každého prijatého vyhotovenia dátum, keď tieto písomnosti skutočne došli, a na každom liste každého prijatého vyhotovenia číslo medzinárodnej prihlášky.
+        - (a) Len čo dôjdu písomnosti na účel podania medzinárodnej prihlášky, prikročí prijímací úrad bez zbytočného odkladu k zisteniu, či písomnosti spĺňajú požiadavky článku 11(1).
 
-        - (b) Miesto, kde sa na každom liste vyznačí dátum alebo číslo, ako aj ďalšiu podrobnú úpravu ustanovia Administratívne smernice.
+        - (b) Na účely článku 11(1)(iii)(c) stačí uviesť meno prihlasovateľa tak, aby bolo možné určiť jeho totožnosť aj vtedy, keď je jeho priezvisko chybne napísané, dané mená nie sú uvedené v plnom znení, a v prípade právnických osôb, ak je ich názov skrátený alebo neúplný.
 
-      - 20.2 Príjem v rôznych dňoch
+        - (c) Na účely článku 11(1)(ii) stačí, aby časť, ktorú možno považovať za opis (okrem jeho časti obsahujúcej výpis sekvencií), a časť, ktorú možno považovať za nárok alebo nároky, budú v jazyku, ktorý je prípustný pre prijímací úrad podľa pravidla 12.1(a).
 
-        - (a) V prípade, že všetky listy patriace k tej istej zamýšľanej medzinárodnej prihláške, nedôjdu prijímaciemu úradu ten istý deň, opraví tento úrad dátum vyznačený na žiadosti (pričom už vyznačený prvší dátum alebo dátumy zostanú čitateľné), a to tak, že uvedie deň, keď došli písomnosti dopĺňajúce medzinárodnú prihlášku, ibaže:
+        - (d) Ak do 1. októbra 1997 odsek (c) nie je v súlade s platným národným zákonodarstvom prijímacieho úradu, odsek (c) sa nepoužije pre tento prijímací úrad dovtedy, kým bude nezlučiteľnosť s týmto zákonodarstvom pokračovať, a ak to zmienený úrad oznámi Medzinárodnému úradu do 31. decembra 1997. Došlé oznámenie Medzinárodný úrad ihneď zverejnení vo Vestníku.
 
-          - (i) prihlasovateľovi sa nezaslala výzva na vykonanie opráv podľa článku 11 (2) (a) a uvedené písomnosti došli do 30 dní od dátumu, keď po prvý raz došli nejaké listy;
+      - 20.2 Kladné zistenie podľa článku 11(1)
 
-          - (ii) prihlasovateľovi sa zaslala výzva na vykonanie opráv podľa článku 11 (2) (a) a uvedené písomnosti došli v príslušnej lehote podľa pravidla 20.6;
+        - (a) Ak prijímací úrad zistí v čase prijatia písomnosti na účel podania medzinárodnej prihlášky, že sú splnené požiadavky podľa článku 11(1), prijímací úrad udelí ako dátum medzinárodného podania dátum, keď medzinárodnú prihlášku prijal.
 
-          - (iii) ide o prípad uvedený v článku 14 (2) a chýbajúce výkresy došli do 30 dní od dátumu, keď sa podali neúplné písomnosti;
+        - (b) Prijímací úrad opečiatkuje žiadosť medzinárodnej prihlášky, ktorej udelil dátum medzinárodného podania, ako predpisujú administratívne smernice. Kópia, ktorej žiadosť bola takto opečiatkovaná, je archívnou kópiou medzinárodnej prihlášky.
 
-          - (iv) nedôjde alebo dôjde oneskorene akýkoľvek list obsahujúci anotáciu alebo jej časť, čo samo osebe nevyžaduje opravu dátumu vyznačeného na žiadosti.
+        - (c) Prijímací úrad bez odkladu oznámi prihlasovateľovi číslo medzinárodnej prihlášky a dátum medzinárodného podania. Zároveň zašle Medzinárodnému úradu kópiu oznámenia zaslaného prihlasovateľovi, ak ho už nezaslal, alebo ho zasiela zároveň s archívnou kópiou Medzinárodnému úradu podľa pravidla 22.1(a).
 
-        - (b) Každý list, ktorý dôjde potom, čo došli po prvý raz nejaké listy, označí prijímací úrad dátumom, keď došiel.
+      - 20.3 Chyby podľa článku 11(1)
 
-      - 20.3 Opravená medzinárodná prihláška
+        - (a) Ak pri zistení, či písomnosti na účel podania medzinárodnej prihlášky spĺňajú požiadavky článku 11(1), prijímací úrad zistí, že nejaká z požiadaviek článku 11(1) nie je splnená alebo sa javí ako nesplnená, ihneď vyzve prihlasovateľa, aby podľa voľby prihlasovateľa
 
-      - V prípade uvedenom v článku 11 (2) (b) opraví prijímací úrad dátum vyznačený na žiadosti (pričom už vyznačený prvší dátum alebo dátumy zostanú čitateľné), a to tak, že uvedie deň, keď došla posledná požadovaná oprava.
+          - (i) predložil požadovanú opravu podľa článku 11(2), alebo
 
-      - 20.4 Zistenie podľa článku 11 (1)
+          - (ii) ak sa uvedené požiadavky týkajú prvku, ktorý je uvedený v článku 11(1)(iii)(d) alebo (e), aby potvrdil v súlade s pravidlom 20.6(a), že prvok je včlenený odkazom podľa pravidla 4.18,
 
-        - (a) Len čo dôjdu písomnosti za účelom podania medzinárodnej prihlášky, prikročí prijímací úrad bez zbytočného odkladu k zisteniu, či písomnosti spĺňajú požiadavky článku 11 (1).
+        - a prípadne vypracoval stanovisko v lehote podľa pravidla 20.7. Ak táto lehota uplynie po 12 mesiacoch od dátumu podania prihlášky, ktorej prioritu uplatňuje, prijímací úrad musí na to upozorniť prihlasovateľa.
 
-        - (b) Na účely článku 11 (1) (iii) (c) stačí uviesť meno prihlasovateľa tak, aby bolo možné určiť jeho totožnosť aj vtedy, ak je jeho priezvisko chybne napísané alebo mená nie sú uvedené v plnom znení a v prípade, že ide o právnické osoby, ak je ich názov skrátený alebo neúplný.
+        - (b) Ak na základe výzvy podľa odseku (a) alebo inak
 
-        - (c) Na účely článku 11(1)(ii) stačí, aby časť, ktorá sa javí ako opis (okrem jeho časti obsahujúcej výpis sekvencií), a časť, ktorá sa javí ako nárok alebo nároky, boli v jazyku prípustnom prijímacím úradom podľa pravidla 12.1(a).
+          - (i) prihlasovateľ predloží prijímaciemu úradu požadovanú opravu podľa článku 11(2) po dátume prijatia písomnosti na účel podania medzinárodnej prihlášky, ale s neskorším dátumom podania, ako stanovuje príslušná lehota podľa pravidla 20.7, prijímací úrad udelí neskorší dátum ako dátum medzinárodného podania a koná podľa pravidla 20.2(b) a (c),
 
-        - (d) Ak k dátumu 1. októbra 1997 nie je odsek (c) zlučiteľný s národnou legislatívou prijímacieho úradu, odsek (c) sa pre tento prijímací úrad nepoužije, ak bude nezlučiteľnosť s touto legislatívou pokračovať a ak to tento úrad oznámi Medzinárodnému úradu do 31. decembra 1997. Došlé oznámenie Medzinárodný úrad ihneď zverejní vo Vestníku.
+          - (ii) je prvok podľa článku 11(1)(iii)(d) alebo (e) považovaný za súčasť medzinárodnej prihlášky podľa pravidla 20.6(b), v deň, keď jeden prvok alebo viac prvkov uvedených v článku 11(1)(iii) prijímací úrad prijal skôr, prijímací úrad udelí ako dátum medzinárodného podania deň, keď sú splnené všetky požiadavky článku 11(1), a bude konať podľa pravidla 20.2(b) a (c).
 
-      - 20.5 Kladné zistenie
+        - (c) Ak prijímací úrad neskôr odhalí alebo na základe prihlasovateľovej odpovede zistí, že urobil chybu v zaslanej výzve podľa odseku (a), keď požiadavky článku 11(1) boli splnené, bude konať podľa pravidla 20.2.
 
-        - (a) Ak je zistenie podľa článku 11 (1) kladné, prijímací úrad opečiatkuje žiadosť názvom prijímacieho úradu a slovami „PCT International Application“ alebo „Demande internationale PCT“. Keď nie je oficiálnym jazykom prijímacieho úradu ani angličtina, ani francúzština, môže slová „International Application“ alebo „Demande internationale“ sprevádzať preklad týchto slov do oficiálneho jazyka prijímacieho úradu.
+      - 20.4 Negatívne zistenie podľa článku (11)(1)
 
-        - (b) Vyhotovenie, ktorého žiadosť bola takto opečiatkovaná, bude archívnym vyhotovením medzinárodnej prihlášky.
+      - Ak prijímací úrad nedostane opravu v lehote podľa pravidla 20.7 alebo potvrdenie podľa pravidla 20.3(a) alebo ak opravu alebo potvrdenie prijal, ale prihláška stále nespĺňa požiadavky článku 11(1), prijímací úrad
 
-        - (c) Prijímací úrad bez odkladu oznámi prihlasovateľovi číslo medzinárodnej prihlášky a dátum medzinárodného podania. Zároveň zašle Medzinárodnému úradu odpis oznámenia zaslaného prihlasovateľovi, ibaže sa Medzinárodnému úradu podľa pravidla 22.1 (a) zároveň zasiela, alebo sa už zaslalo, archívne vyhotovenie.
+        - (i) ihneď oznámi prihlasovateľovi, že prihláška sa nepovažuje a nebude sa považovať za medzinárodnú prihlášku, a tieto dôvody uvedie,
 
-      - 20.6 Výzva na opravy
+        - (ii) oznámi Medzinárodnému úradu, že číslo označené na dokumentoch sa nepoužije ako číslo medzinárodnej prihlášky,
 
-        - (a) Výzva na opravy podľa článku 11 (2) musí uviesť tú požiadavku podľa článku 11 (1), ktorá nebola podľa názoru prijímacieho úradu splnená.
+        - (iii) ponechá si písomnosti na účel podania medzinárodnej prihlášky a celú korešpondenciu podľa pravidla 93.1 a
 
-        - (b) Prijímací úrad bez odkladu odošle výzvu prihlasovateľovi a určí podľa okolností prípadu primeranú lehotu na podanie opravy. Táto lehota nesmie byť kratšia ako 10 dní a dlhšia ako jeden mesiac od dátumu výzvy. Ak táto lehota uplynie po uplynutí 1 roka od dátumu podania ktorejkoľvek prihlášky, z ktorej sa uplatňuje priorita, môže prijímací úrad prihlasovateľa na túto okolnosť upozorniť.
+        - (iv) zašle kópiu uvedených dokumentov Medzinárodnému úradu, ak na základe žiadosti prihlasovateľa podľa článku 25(1) Medzinárodný úrad potrebuje túto kópiu a ak zvlášť o ňu požiada.
 
-      - 20.7 Záporné zistenie
+      - 20.5 Chýbajúce časti
 
-      - Ak prijímací úrad nedostane v predpísanej lehote odpoveď na svoju výzvu na opravy alebo ak oprava predložená prihlasovateľom nespĺňa ešte požiadavky článku 11 (1), prijímací úrad:
+        - (a) Ak pri zisťovaní, či písomnosti nasvedčujú, že medzinárodná prihláška spĺňa požiadavky článku 11(1), prijímací úrad zistí, že chýba alebo sa zdá, že chýba časť opisu, nárokov alebo výkresov vrátane prípadu, ak chýbajú, alebo sa zdá, že chýbajú všetky výkresy s výnimkou prípadu, ak chýba alebo sa zdá, že chýba celý prvok uvedený v článku 11(1)(iii)(d) alebo (e), úrad ihneď vyzve prihlasovateľa, ktorý podľa svojej voľby
 
-        - (i) bez odkladu oznámi prihlasovateľovi, že jeho prihláška sa nepovažuje a nebude považovať za medzinárodnú prihlášku, a uvedie pre to dôvody;
+          - (i) doplní písomnosti na účel podania medzinárodnej prihlášky tak, že zašle chýbajúce časti, alebo
 
-        - (ii) oznámi Medzinárodnému úradu, že číslo vyznačené na písomnostiach sa nepoužije ako číslo medzinárodnej prihlášky;
+          - (ii) potvrdí v súlade s pravidlom 20.6(a), že táto časť je včlenená odkazom podľa pravidla 4.18,
 
-        - (iii) ponechá si písomnosti, z ktorých sa skladá zamýšľaná medzinárodná prihláška, a všetku korešpondenciu, ktorá sa jej týka, podľa pravidla 93.1;
+          - prípadne vypracuje stanovisko v rámci príslušnej lehoty podľa pravidla 20.7. Ak táto lehota uplynie po 12 mesiacoch od dátumu podania prihlášky, ktorej priorita sa nárokuje, prijímací úrad na túto skutočnosť upozorní prihlasovateľa.
 
-        - (iv) odošle kópiu uvedených písomností Medzinárodnému úradu v prípade, že v dôsledku žiadosti prihlasovateľa podľa článku 25 (1) Medzinárodný úrad takú kópiu potrebuje a výslovne o ňu požiada.
+        - (b) Ak po výzve podľa odseku (a) alebo inak prihlasovateľ predloží prijímaciemu úradu v deň alebo pred dňom, keď sa splnili všetky požiadavky uvedené v článku 11(1), ale v rámci príslušnej lehoty podľa pravidla 20.7 chýbajúcu časť uvedenú v odseku (a) tak, aby doplnil medzinárodnú prihlášku, táto časť sa včlení do prihlášky a prijímací úrad udelí ako dátum medzinárodného podania deň, keď sa splnili všetky požiadavky článku 11(1), a koná podľa pravidla 20.2(b) a (c).
 
-      - 20.8 Omyl prijímacieho úradu
+        - (c) Ak po výzve podľa odseku (a) alebo inak prihlasovateľ predloží prijímaciemu úradu po dni, keď boli všetky požiadavky uvedené v článku 11(1) splnené v rámci príslušnej lehoty podľa pravidla 20.7, chýbajúcu časť uvedenú v odseku (a) tak, aby doplnil medzinárodnú prihlášku, táto časť sa včlení do prihlášky a prijímací úrad opraví dátum medzinárodného podania na dátum, keď prijímací úrad prijal túto časť, adekvátne to oznámi prihlasovateľovi a koná tak, ako stanovujú administratívne smernice.
 
-      - Ak prijímací úrad zistí alebo si na základe odpovede prihlasovateľa uvedomí, že sa dopustil omylu, keď vydal výzvu na opravu, pretože požiadavky článku 11 (1) boli v čase, keď písomnosti došli, splnené, bude postupovať podľa pravidla 20.5.
+        - (d) Ak po výzve podľa odseku (a) alebo inak časť uvedená v odseku (a) sa podľa pravidla 20.6(b) považuje za súčasť písomností na účel podania medzinárodnej prihlášky v deň, keď jeden prvok alebo viac prvkov uvedených v článku 11(1)(iii) prijímací úrad prijal skôr, prijímací úrad udelí ako dátum medzinárodného podania deň, keď sú splnené všetky požiadavky článku 11(1), a koná podľa pravidla 20.2(b) a (c).
 
-      - 20.9 Overená kópia pre prihlasovateľa
+        - (e) Ak sa opravil dátum medzinárodného podania podľa odseku (c), prihlasovateľ môže v oznámení zaslanom prijímaciemu úradu v lehote jedného mesiaca od dátumu oznámenia podľa odseku (c) vyžadovať, aby sa chýbajúca časť považovala za vypustenú, v tomto prípade sa považuje chýbajúca časť za nepredloženú a oprava dátumu medzinárodného podania podľa tohto odseku sa bude považovať za nevykonanú a prijímací úrad bude konať tak, ako stanovujú administratívne smernice.
 
-        - Proti zaplateniu poplatku dodá prijímací úrad prihlasovateľovi na žiadosť overené kópie medzinárodnej prihlášky tak, ako sa podala, a všetkých opráv k nej.
+      - 20.6 Potvrdenie registrácie prvkov a častí odkazom
 
-    - PRAVIDLO 21 PRÍPRAVA VYHOTOVENIA
+        - (a) Prihlasovateľ môže predložiť prijímaciemu úradu v príslušnej lehote podľa pravidla 20.7 písomné oznámenie, ktoré potvrdzuje, že prvok alebo časť je včlenená odkazom do medzinárodnej prihlášky podľa pravidla 4.18, doložené
+
+          - (i) listom alebo listami stelesňujúcimi celý prvok, ako je obsiahnutý v skoršej prihláške, alebo príslušnú stelesňujúcu časť,
+
+          - (ii) ak prihlasovateľ ešte nevyhovel pravidlu 17.1(a), (b) alebo (b-bis) s ohľadom na prioritný doklad, kópiou skoršej prihlášky, ako sa podala,
+
+          - (iii) ak skoršia prihláška nie je v jazyku, v ktorom sa medzinárodná prihláška podala, prekladom skoršej prihlášky do tohto jazyka, alebo ak sa vyžaduje preklad medzinárodnej prihlášky podľa pravidla 12.3(a) alebo 12.4(a), prekladom skoršej prihlášky tak do jazyka, v ktorom sa medzinárodná prihláška podala, ako aj jazyka prekladu, a
+
+          - (iv) v prípade častí opisu, nárokov alebo výkresov, údajom, kde je táto časť obsiahnutá v skoršej prihláške, a prípadne v každom preklade uvedenom v bode (iii).
+
+        - (b) Ak prijímací úrad zistí, že požiadavkám pravidla 4.18 a odseku (a) sa vyhovelo a že prvok alebo časť uvedená v odseku (a) je úplne obsiahnutá v príslušnej skoršej prihláške, tak sa prvok alebo časť považuje za súčasť domnelej medzinárodnej prihlášky v deň, keď jeden prvok alebo viac prvkov uvedených v článku 11(1)(iii) už skôr prijal prijímací úrad.
+
+        - (c) Ak prijímací úrad zistí, že požiadavkám podľa pravidla 4.18 alebo odseku (a) sa nevyhovelo alebo že prvok alebo časť uvedená v odseku (a) nie je úplne obsiahnutá v príslušnej skoršej prihláške, prijímací úrad bude konať podľa pravidla 20.3(b)(i), 20.5(b) alebo 20.5(c) podľa toho, čo sa bude vyžadovať.
+
+      - 20.7 Lehota
+
+        - (a) Príslušná lehota podľa pravidla 20.3(a) a (b), 20.4, 20.5(a), (b) a (c) a 20.6(a) bude
+
+          - (i) dva mesiace od dátumu výzvy, ak sa výzva podľa pravidla 20.3(a) alebo 20.5(a), podľa toho, čo sa vyžaduje, zaslala prihlasovateľovi,
+
+          - (ii) dva mesiace od dátumu, keď jeden prvok alebo viac prvkov uvedených v článku 11(1)(iii) skôr prijal prijímací úrad, ak sa takáto výzva nezaslala prihlasovateľovi.
+
+        - (b) Ak prijímací úrad prijal opravu podľa článku 11(2) alebo oznámenie podľa pravidla 20.6(a), ktoré potvrdzuje včlenenie odkazom na prvok uvedený v článku 11(1)(iii)(d) alebo (e), po uplynutí príslušnej lehoty podľa odseku (a), ale predtým, ako úrad zaslal prihlasovateľovi oznámenie podľa pravidla 20.4(i), bude sa oprava alebo oznámenie považovať za prijaté v tejto lehote.
+
+      - 20.8 Nezlučiteľnosť s národným zákonodarstvom
+
+        - (a) Ak 5. októbra 2005 pravidlá 20.3(a)(ii) a (b)(ii), 20.5(a)(ii) a (d) a 20.6 nebudú v súlade s národným zákonodarstvom platným pre prijímací úrad, pravidlá, ktorých sa to týka, sa nebudú vzťahovať na medzinárodné prihlášky, ktoré sa podali v tomto prijímacom úrade, tak dlho, kým pretrváva nezlučiteľnosť s týmto zákonom za predpokladu, že uvedený úrad to oznámi Medzinárodnému úradu do 5. apríla 2006. Medzinárodný úrad túto informáciu ihneď zverejní vo Vestníku.
+
+        - (a-bis) Ak chýbajúci prvok alebo časť nemôžu byť včlenené odkazom do medzinárodnej prihlášky podľa pravidiel 4.18 a 20.6 pre úkony odseku (a) tohto pravidla, prijímací úrad bude konať primerane podľa toho, ako stanovujú pravidlá 20.3(b)(i), 20.5(b) alebo 20.5(c). Ak prijímací úrad koná, ako stanovuje pravidlo 20.5(c), prihlasovateľ môže konať, ako stanovuje pravidlo 20.5(e).
+
+        - (b) Ak 5. októbra 2005 pravidlá 20.3(a)(ii) a (b)(ii), 20.5(a)(ii) a (d) a 20.6 nebudú v súlade s národným zákonodarstvom platným pre prijímací úrad, pravidlá, ktorých sa to týka, sa nebudú vzťahovať na medzinárodné prihlášky, ktoré sa týkajú konania podľa článku 22 na úrade, kým bude trvať nezlučiteľnosť s týmto zákonom za predpokladu, že uvedený úrad bude o tom ihneď informovať Medzinárodný úrad do 5. apríla 2006. Medzinárodný úrad túto informáciu ihneď zverejní vo Vestníku.
+
+        - (c) Ak sa prvok alebo časť považujú za včlenené odkazom do medzinárodnej prihlášky na základe zistenia prijímacieho úradu podľa pravidla 20.6(b), ale toto včlenenie odkazom sa neuplatňuje na medzinárodné prihlášky v konaní pred určeným úradom pre účinok odseku (b) tohto pravidla, určený úrad môže konať o prihláške, akoby bol medzinárodný dátum podania udelený podľa pravidla 20.3(b)(i) alebo 20.5(b) alebo opravený podľa pravidla 20.5(c) podľa okolností, za predpokladu, že pravidlo 82ter.1(c) a (d) sa použije mutatis mutandis.
+
+    - Pravidlo 21 Príprava vyhotovení
 
       - 21.1 Zodpovednosť prijímacieho úradu
 
@@ -980,15 +1036,19 @@
 
         - (c) Ak sa medzinárodná prihláška podá v menšom počte vyhotovení, než predpisuje pravidlo 11.1 (b), je prijímací úrad zodpovedný za prípravu potrebného počtu vyhotovení bez zbytočného odkladu a má právo určiť poplatok za tento úkon a vybrať ho od prihlasovateľa.
 
-    - Pravidlo 22 Odovzdanie archívnej kópie a prekladu
+      - 21.2 Overená kópia pre prihlasovateľa
+
+        - Prijímací úrad za poplatok zašle prihlasovateľovi na základe žiadosti overenú kópiu medzinárodnej prihlášky, ako bola podaná, a tiež všetky jej opravy.
+
+    - Pravidlo 22 Odovzdanie archívneho vyhotovenia
 
       - 22.1 Postup
 
         - (a) Ak je zistenie podľa článku 11 (1) kladné a predpisy o národnej bezpečnosti nevylučujú prerokovanie medzinárodnej prihlášky ako takej, prijímací úrad odovzdá archívne vyhotovenie Medzinárodnému úradu. To sa vykoná ihneď potom, čo medzinárodná prihláška došla, alebo ak je potrebné preskúmanie z hľadiska záujmov národnej bezpečnosti, ihneď po nevyhnutnom objasnení. V každom prípade však musí prijímací úrad odovzdať archívne vyhotovenie tak, aby došlo Medzinárodnému úradu pred uplynutím 13 mesiacov od dátumu priority. Ak má k odovzdaniu dôjsť poštou, podá prijímací úrad archívne vyhotovenie na poštovú prepravu najneskôr päť dní pred uplynutím 13 mesiacov od dátumu priority.
 
-        - (b) Ak Medzinárodný úrad dostal odpis oznámenia podľa pravidla 20.5 (c), ale ku dňu uplynutia 13 mesiacov od dátumu priority dosiaľ nemá archívne vyhotovenie, upomenie prijímací úrad na odovzdanie archívneho vyhotovenia bez zbytočného odkladu.
+        - (b) Ak Medzinárodný úrad prijal kópiu oznámenia podľa pravidla 20.2(c), ale ku dňu uplynutia 13 mesiacov od dátumu priority stále nemá archívne vyhotovenie, upozorní prijímací úrad, aby mu okamžite zaslal archívnu kópiu.
 
-        - (c) Ak Medzinárodný úrad dostal odpis oznámenia podľa pravidla 20.5 (c), ale ku dňu uplynutia 14 mesiacov od dátumu priority dosiaľ nemá archívne vyhotovenie, oznámi to prihlasovateľovi a prijímaciemu úradu.
+        - (c) Ak Medzinárodný úrad prijal kópiu oznámenia podľa pravidla 20.2(c), ale ku dňu uplynutia 14 mesiacov od dátumu priority stále nemá archívne vyhotovenie, oznámi to prihlasovateľovi a prijímaciemu úradu.
 
         - (d) Po uplynutí 14 mesiacov od dátumu priority môže prihlasovateľ požiadať prijímací úrad, aby overil kópiu medzinárodnej prihlášky tak, ako sa podala, a môže túto overenú kópiu zaslať Medzinárodnému úradu.
 
@@ -1048,15 +1108,13 @@
 
     - Pravidlo 26 Preskúmanie a oprava niektorých častí medzinárodnej prihlášky prijímacím úradom
 
-      - 26.1 Lehota pre preskúmanie
+      - 26.1 Výzva na opravu podľa článku 14(1)(b)
 
-        - (a) Prijímací úrad vydá výzvu na opravu podľa článku 14 (1) čo najskôr, pokiaľ možno do jedného mesiaca od dátumu, keď medzinárodná prihláška došla.
-
-        - (b) Ak prijímací úrad vydá výzvu na opravu nedostatku uvedeného v článku 14 (1) (a) (iii) alebo (iv), (chýbajúci názov alebo anotácia), oznámi to orgánu pre medzinárodnú rešerš.
+        - Prijímací úrad vydá výzvu na opravu podľa článku 14(1)(b) čo najskôr, ak možno do jedného mesiaca od prijatia medzinárodnej prihlášky. Vo výzve prijímací úrad vyzve prihlasovateľa, aby predložil požadovanú opravu, a dá prihlasovateľovi možnosť, aby sa vyjadril v lehote podľa pravidla 26.2.
 
       - 26.2 Lehota na vykonanie opráv
 
-        - Lehota podľa článku 14 (1) (b) musí byť primeraná okolnostiam prípadu a určí ju v každom prípade prijímací úrad. Nesmie byť kratšia ako jeden mesiac od výzvy na opravu. Pred vydaním rozhodnutia ju môže prijímací úrad kedykoľvek predĺžiť.
+        - Lehota uvedená v pravidle 26.1 je dva mesiace od dátumu výzvy na opravu. Prijímací úrad ju kedykoľvek môže predĺžiť pred prijatím rozhodnutia.
 
       - 26.2bis Preskúmanie požiadaviek podľa článku 14(1)(a)(i) a (ii)
 
@@ -1084,55 +1142,107 @@
 
       - 26.3ter Výzva na opravu nedostatkov podľa článku 3(4)(i)
 
-        - (a) Ak sa anotácia alebo text na výkresoch predložil v inom jazyku, než je jazyk opisu a nárokov, prijímací úrad v prípade, že:
+        - (a) Ak sa anotácia alebo text na výkresoch predložil v inom jazyku, než je jazyk opisu a nárokov, prijímací úrad v prípade, že
 
           - (i) sa vyžaduje preklad medzinárodnej prihlášky podľa pravidla 12.3(a) alebo
 
           - (ii) anotácia alebo text na výkresoch je v jazyku, v ktorom sa medzinárodná prihláška zverejní;
 
-          - vyzve prihlasovateľa, aby predložil preklad anotácie a textu na výkresoch do jazyka, v ktorom sa medzinárodná prihláška zverejní. Pravidlá 26.1(a), 26.2, 26.3, 26.3bis, 26.5 a 29.1 sa použijú mutatis mutandis.
+          - vyzve prihlasovateľa, aby predložil preklad anotácie alebo textu na výkresoch do jazyka, v ktorom sa medzinárodná prihláška zverejní. Pravidlá 26.1, 26.2, 26.3, 26.3bis, 26.5 a 29.1 sa použijú mutatis mutandis.
 
         - (b) Ak k 1. októbru 1997 nie je odsek (a) zlučiteľný s národnou legislatívou prijímacieho úradu, odsek (a) sa pre tento prijímací úrad nepoužije, ak bude nezlučiteľnosť s touto legislatívou pokračovať a ak to tento úrad oznámi Medzinárodnému úradu do 31. decembra 1997. Došlé oznámenie sa ihneď zverejní vo Vestníku.
 
-        - (c) Ak žiadosť nie je v súlade s pravidlom 12.1(c), prijímací úrad vyzve prihlasovateľa, aby predložil preklad, ktorý je v súlade s týmto pravidlom. Pravidlo 3, 26.1(a), 26.2, 26.5 a 29.1 sa použije mutatis mutandis.
+        - (c) Ak žiadosť nie je v súlade s pravidlom 12.1(c), prijímací úrad vyzve prihlasovateľa, aby predložil preklad, ktorý je v súlade s týmto pravidlom. Pravidlá 3, 26.1, 26.2, 26.5 a 29.1 sa použijú mutatis mutandis.
 
         - (d) Ak k 1. októbru 1997 nie je odsek (c) zlučiteľný s národnou legislatívou prijímacieho úradu, odsek (c) sa pre tento prijímací úrad nepoužije, ak bude nezlučiteľnosť s touto legislatívou pokračovať a ak to tento úrad oznámi Medzinárodnému úradu do 31. decembra 1997. Došlé oznámenie sa ihneď zverejní vo Vestníku.
 
       - 26.4 Postup
 
-        - Každú opravu možno navrhnúť prijímaciemu úradu listom adresovaným prijímaciemu úradu, ak je oprava takej povahy, že ju možno z listu preniesť do archívneho vyhotovenia bez toho, aby to nepriaznivo ovplyvnilo zreteľnosť a možnosť priamej reprodukcie toho listu, na ktorý sa má oprava preniesť. Inak je prihlasovateľ povinný predložiť náhradný list s urobenou opravou a v sprievodnom liste upozorniť na rozdiely medzi náhradným a pôvodným listom.
-
-        - (b) až (d) zrušené
+        - Opravu žiadosti možno navrhnúť prijímaciemu úradu listom adresovaným prijímaciemu úradu, ak je oprava takej povahy, že ju možno z listu preniesť do žiadosti bez toho, aby to nepriaznivo ovplyvnilo zreteľnosť a možnosť priamej reprodukcie tohto listu, na ktorý sa má oprava preniesť. Inak v prípade opravy každého prvku medzinárodnej prihlášky iného než žiadosť je prihlasovateľ povinný predložiť náhradný list s urobenou opravou a v sprievodnom liste upozorniť na rozdiely medzi náhradným a pôvodným listom.
 
       - 26.5 Rozhodnutie prijímacieho úradu
 
-        - Prijímací úrad rozhodne, či prihlasovateľ predložil opravu v lehote podľa pravidla 26.2, a ak sa oprava v lehote podala, či sa medzinárodná prihláška takto opravená má považovať za vzatú späť, alebo nie, pričom sa rozumie, že žiadna medzinárodná prihláška sa nepovažuje za vzatú späť pre nedodržanie požiadaviek na vonkajšiu úpravu podľa pravidla 11, ak tieto požiadavky spĺňa aspoň potiaľ, pokiaľ je to potrebné v záujme primeranej jednotnosti medzinárodného zverejnenia.
+        - Prijímací úrad rozhodne, či prihlasovateľ predložil opravu v stanovenej lehote podľa pravidla 26.2, a ak sa oprava v lehote podala, či sa takto opravená medzinárodná prihláška má považovať za vzatú späť alebo nie, pričom je zrejmé, že žiadna medzinárodná prihláška sa nepovažuje za vzatú späť pre nedodržanie požiadaviek na vonkajšiu úpravu podľa pravidla 11, ak tieto požiadavky spĺňa aspoň potiaľ, pokiaľ je to nutné v záujme primeranej jednotnosti medzinárodného zverejnenia.
 
         - (b) zrušené
 
-      - 26.6 Chýbajúce výkresy
-
-        - (a) Ak podľa článku 14 (2) medzinárodná prihláška odkazuje na výkresy, ktoré v skutočnosti k prihláške pripojené nie sú, prijímací úrad to v takej prihláške poznamená.
-
-        - (b) Dátum, keď prihlasovateľovi došlo upovedomenie podľa článku 14 (2), nemá žiadny účinok na lehotu ustanovenú pravidlom 20.2 (a) (iii).
+      - 26.6 (zrušené)
 
     - Pravidlo 26bis Oprava alebo dodatočné uplatnenie priority
 
       - 26bis.1 Oprava alebo dodatočné uplatnenie priority
 
-        - (a) Prihlasovateľ môže opraviť alebo dodatočne uplatniť požiadavku na prioritu oznámením predloženým prijímaciemu úradu alebo Medzinárodnému úradu v lehote 16 mesiacov od dátumu priority alebo v prípade, že oprava alebo doplnenie uplatnenia nároku na prioritu by spôsobilo zmenu dátumu priority, 16 mesiacov od takto zmeneného dátumu priority podľa toho, ktorá zo 16-mesačnej lehoty uplynie skôr za predpokladu, že také oznámenie sa môže predložiť najneskôr do štyroch mesiacov od dátumu medzinárodného podania. Oprava uplatnenia priority môže obsahovať pridanie ktoréhokoľvek údaja uvedeného v pravidle 4.10.
+        - (a) Prihlasovateľ môže opraviť alebo dodatočne uplatniť prioritu v žiadosti oznámením predloženým prijímaciemu úradu alebo Medzinárodnému úradu v lehote 16 mesiacov od dátumu priority alebo v prípade, že oprava alebo doplnenie nároku na prioritu by spôsobilo zmenu dátumu priority, 16 mesiacov od takto zmeneného dátumu priority podľa toho, ktorá zo 16-mesačnej lehoty uplynie skôr, za predpokladu, že také oznámenie sa môže predložiť najneskôr do štyroch mesiacov od dátumu medzinárodného podania. Oprava uplatnenia priority môže obsahovať pridanie akéhokoľvek údaja uvedeného v pravidle 4.10.
 
         - (b) Každé oznámenie podľa odseku (a) prijaté prijímacím úradom alebo Medzinárodným úradom po tom, čo prihlasovateľ požiadal o skoršie zverejnenie podľa článku 21(2)(b), bude sa považovať za nepredložené, iba ak by táto žiadosť bola späťvzatá pred skončením technických príprav pred medzinárodným zverejnením.
 
         - (c) Ak oprava alebo dodatočné uplatnenie priority spôsobí zmenu dátumu priority, každá lehota, ktorá sa počíta od skoršie uplatneného dátumu priority a ktorá ešte neuplynula, bude sa počítať od takto zmeneného dátumu priority.
 
-      - 26bis.2 Výzva na opravu nedostatkov v uplatnení priority
+      - 26bis.2 Nedostatky pri uplatňovaní priority
 
-        - (a) Tam, kde prijímací úrad zanedbá alebo Medzinárodný úrad zistí, že uplatnenie priority nespĺňa požiadavky pravidla 4.10 alebo že niektorý údaj v uplatnení priority nie je totožný so zodpovedajúcim údajom v prioritnom doklade, prijímací úrad, prípadne Medzinárodný úrad vyzve prihlasovateľa, aby opravil údaj v nárokovanej priorite.
+        - (a) Tam, kde prijímací úrad zanedbá alebo Medzinárodný úrad zistí vo vzťahu k uplatneniu priority, že
 
-        - (b) Ak v odpovedi na výzvu podľa odseku (a) prihlasovateľ pred uplynutím stanovenej lehoty podľa pravidla 26bis.1(a) nepredloží oznámenie obsahujúce opravu údajov na nárokovanú prioritu tak, aby spĺňali požiadavky pravidla 4.10, toto nárokovanie priority sa na účely konania podľa Zmluvy bude považovať za nevykonané a prijímací úrad, prípadne Medzinárodný úrad o tom vydá uznesenie a oznámi to prihlasovateľovi za predpokladu, že nárokovanie priority sa nebude považovať za vykonané len preto, že chýba iba údaj o čísle skoršej prihlášky uvedenej v pravidle 4.10(a)(ii), alebo preto, že údaj v nárokovanej priorite nie je rovnaký ako zodpovedajúci údaj uvedený v prioritnom doklade.
+          - (i) dátum medzinárodného podania medzinárodnej prihlášky je neskorší ako dátum uplynutia obdobia priority a že žiadosť o obnovenie práva na prioritu podľa pravidla 26bis.3 sa nepredložila,
 
-        - (c) Ak prijímací úrad alebo Medzinárodný úrad vydá rozhodnutie podľa odseku (b), Medzinárodný úrad na základe žiadosti prihlasovateľa, ak ju Medzinárodný úrad dostane pred ukončením technických príprav na medzinárodné zverejnenie a po zaplatení zvláštneho poplatku, ktorého výška je stanovená v administratívnych smerniciach, zverejní spolu s medzinárodnou prihláškou oznámenie týkajúce sa uplatnenia priority, ktoré sa považuje za nevykonané. Kópia tejto žiadosti bude obsiahnutá v postúpení podľa článku 20, ak medzinárodná prihláška nebola zverejnená z dôvodov uvedených v článku 64(3).
+          - (ii) uplatnenie priority nie je v súlade s požiadavkami pravidla 4.10 alebo
+
+          - (iii) údaj v uplatňovaní priority nekorešponduje s údajom, ktorý vyzerá ako prioritný doklad,
+
+          - prijímací úrad alebo Medzinárodný úrad v takom prípade vyzve prihlasovateľa, aby opravil uplatnenie priority. V prípade uvedenom v bode (i), ak dátum medzinárodného podania je v lehote dvoch mesiacov od dátumu, keď uplynulo obdobie priority, prijímací úrad alebo Medzinárodný úrad informuje aj prihlasovateľa o možnosti predloženia žiadosti o obnovenie práva na prioritu v súlade s pravidlom 26bis.3, ak prijímací úrad neoznámi Medzinárodnému úradu podľa pravidla 26bis.3(j) nezlučiteľnosť pravidla
+
+        - (b) Ak prihlasovateľ nepredložil oznámenie na opravu uplatnenia priority pred uplynutím lehoty podľa pravidla 26bis.1(a), toto uplatnenie priority s výhradou podľa odseku (c) na účely konania podľa Zmluvy sa považuje za nepodané („za neplatné“) a prijímací úrad alebo Medzinárodný úrad o tom vydá rozhodnutie a oznámi to prihlasovateľovi. Každé oznámenie opravujúce uplatnenie priority, ktoré prijímací úrad alebo Medzinárodný úrad prijal, ale nie neskôr ako jeden mesiac po uplynutí tejto lehoty, sa bude považovať za prijaté pred uplynutím tejto lehoty.
+
+        - (c) Uplatnenie priority sa nebude považovať za neplatné iba pre
+
+          - (i) chýbajúci údaj čísla skoršej prihlášky podľa pravidla 4.10(a)(ii),
+
+          - (ii) neúplný údaj v uplatnenej priorite so zodpovedajúcim údajom v prioritnom doklade alebo
+
+          - (iii) dátum medzinárodného podania medzinárodnej prihlášky, ktorý je neskorší ako dátum uplynutia obdobia priority za predpokladu, že dátum medzinárodného podania je v rámci obdobia dvoch mesiacov od tohto dátumu.
+
+        - (d) Ak prijímací úrad alebo Medzinárodný úrad vydal rozhodnutie podľa odseku (b) alebo ak sa uplatnenie priority považuje za neplatné iba pre uplatňovanie odseku (c), Medzinárodný úrad zverejní spolu s medzinárodnou prihláškou informáciu, ktorá sa týka uplatnenia priority podľa administratívnych smerníc, ako aj každú informáciu týkajúcu sa uplatnenia priority, ktorú predložil prihlasovateľ, ktorú Medzinárodný úrad prijme pred ukončením technických príprav na zverejnenie. Táto informácia bude zahrnutá v postúpení podľa článku 20, ak medzinárodná prihláška nie je zverejnená na základe článku 64(3).
+
+        - (e) Ak si prihlasovateľ želá opraviť alebo doplniť uplatnenie priority, ale lehota podľa pravidla 26bis.1 uplynula, môže prihlasovateľ pred uplynutím 30 mesiacov od dátumu priority a za zvláštny poplatok, ktorého výšku stanovia administratívne smernice, požiadať Medzinárodný úrad, aby zverejnil informáciu týkajúcu sa tejto skutočnosti, a Medzinárodný úrad túto informáciu ihneď zverejní.
+
+      - 26bis.3 Obnovenie práva na prioritu prijímacím úradom
+
+        - (a) Ak má medzinárodná prihláška dátum medzinárodného podania, ktorý je neskorší ako dátum uplynutia prioritného obdobia, ale v lehote dvoch mesiacov od tohto dátumu, prijímací úrad musí na žiadosť prihlasovateľa a s výhradou odsekov (b) až (g) tohto pravidla obnoviť právo priority, ak úrad zistí, že sa vyhovelo kritériu (kritérium na obnovenie práva), ktoré uplatňuje, menovite, že zanedbanie podania medzinárodnej prihlášky v prioritnom období
+
+          - (i) sa stalo aj napriek náležitej starostlivosti vyžadovanej okolnosťami alebo
+
+          - (ii) bolo neúmyselné.
+
+          - Každý prijímací úrad musí uplatňovať aspoň jedno z týchto kritérií a môže uplatňovať aj obidve.
+
+        - (b) Žiadosť podľa odseku (a) bude
+
+          - (i) podaná v prijímacom úrade v príslušnej lehote podľa odseku (e),
+
+          - (ii) obsahovať vysvetlenie dôvodov, pre ktoré medzinárodná prihláška nebola podaná v lehote prioritného obdobia,
+
+          - (iii) pokiaľ možno doložená vyhlásením alebo iným dôkazom vyžadovaným podľa odseku (f).
+
+        - (c) Ak sa uplatnenie priority vzhľadom ku skoršej prihláške neuplatňuje v medzinárodnej prihláške, prihlasovateľ musí predložiť v príslušnej lehote podľa odseku (e) oznámenie podľa pravidla 26bis.1(a) doplňujúce uplatnenie priority.
+
+        - (d) Predloženie žiadosti podľa odseku (a) môže prijímací úrad spoplatniť vo svoj prospech. Poplatok za žiadosť o obnovenie práva na prioritu je splatný v lehote podľa odseku (e). Výšku príslušného poplatku určí prijímací úrad.
+
+        - (e) Lehota uvedená v odsekoch (b)(i), (c) a (d) bude dva mesiace od dátumu uplynutia obdobia priority za predpokladu, že ak prihlasovateľ požiada o skoršie zverejnenie podľa článku 21(2)(b), každá žiadosť podľa odseku (a) alebo každé predložené oznámenie uvedené v odseku (c), alebo poplatok uvedený v odseku (d) zaplatený po ukončení technických príprav na zverejnenie sa bude považovať za nepredložené alebo poplatok za nezaplatený včas.
+
+        - (f) Prijímací úrad môže požadovať, že vyhlásenie alebo iný dôkaz podporujúci dôvody uvedené v odseku (b)(iii) sa mu predloží v lehote primeranej okolnostiam. Prihlasovateľ môže predložiť Medzinárodnému úradu kópiu každého vyhlásenia alebo iného dôkazu predloženému prijímaciemu úradu, v tomto prípade Medzinárodný úrad začlení túto kópiu do svojich spisov.
+
+        - (g) Prijímací úrad neodmietne celkom alebo čiastočne žiadosť podľa odseku (a) bez toho, aby dal prihlasovateľovi príležitosť vyjadriť sa k zamýšľanému zamietnutiu v lehote primeranej okolnostiam. Takéto oznámenie zamýšľaného zamietnutia prijímacím úradom sa môže zaslať prihlasovateľovi spolu s výzvou na podanie vyhlásenia alebo iného dôkazu podľa odseku (f).
+
+        - (h) Prijímací úrad okamžite
+
+          - (i) oznámi Medzinárodnému úradu prijatie žiadosti podľa odseku (a),
+
+          - (ii) rozhodne na základe žiadosti,
+
+          - (iii) oznámi svoje rozhodnutie prihlasovateľovi a Medzinárodnému úradu a kritérium na obnovenie práva na prioritu, na základe ktorého založil svoje rozhodnutie.
+
+        - (i) Každý prijímací úrad musí informovať Medzinárodný úrad, aké kritérium na obnovenie uplatňuje, a o každej následnej zmene, ktorá sa naň vzťahuje.
+
+        - (j) Ak 5. októbra 2005 nie sú odseky (a) až (i) zlučiteľné s národným zákonodarstvom, ktoré uplatňuje tento úrad, tieto odseky prijímací úrad nepoužije, ak bude nezlučiteľnosť s týmto zákonom pokračovať za predpokladu, že to úrad oznámi Medzinárodnému úradu do 5. apríla 2006. Došlé oznámenie Medzinárodný úrad ihneď zverejnení vo Vestníku.
 
     - Pravidlo 26ter Oprava alebo doplnenie vyhlásení podľa pravidla 4.17
 
@@ -1250,9 +1360,9 @@
 
         - (b) Pokiaľ je to možné a vhodné, medzinárodná rešerš obsiahne celý predmet, na ktorý sú zamerané nároky alebo ku ktorému by podľa rozumného očakávania mohli byť zamerané po úprave.
 
-    - PRAVIDLO 34 MINIMÁLNA DOKUMENTÁCIA
+    - Pravidlo 34 Minimálna dokumentácia
 
-      - 34.1 Definícia
+      - 34.1 Vymedzenie
 
         - (a) Vymedzenie pojmov podľa článku 2 (i) a (ii) neplatí na účely tohto pravidla.
 
@@ -1264,11 +1374,11 @@
 
           - (iii) z inej zverejnenej nepatentovej literatúry, na ktorej sa orgány pre medzinárodnú rešerš dohodnú a ktorej zoznam uverejní Medzinárodný úrad po prvý raz pri uzavretí dohody a potom pri každej zmene.
 
-        - (c) Okrem odsekov (d) a (e) sa za „národné patentové doklady“ považujú:
+        - (c) S výhradou odsekov (d) a (e) sa za „národné patentové doklady“ považujú
 
           - (i) patenty vydané v roku 1920 a po tomto roku Francúzskom, bývalým Reichspatentamtom v Nemecku, Japonskom, bývalým Sovietskym zväzom, Švajčiarskom (iba vo francúzštine a nemčine), Veľkou Britániou a Spojenými štátmi americkými;
 
-          - (ii) patenty vydané Spolkovou republikou Nemecko a Ruskou federáciou;
+          - (ii) patenty vydané Nemeckou spolkovou republikou, Kórejskou republikou a Ruskou federáciu
 
           - (iii) prípadné patentové prihlášky zverejnené v roku 1920 a po tomto roku v krajinách uvedených v bodoch (i) a (ii);
 
@@ -1280,7 +1390,7 @@
 
         - (d) Ak sa prihláška znovu zverejňuje raz (napríklad „Offenlegungsschrift“ ako „Auslegeschrift“) alebo viackrát, nemusí orgán pre medzinárodnú rešerš uchovávať všetky znenia vo svojej dokumentácii; každý taký orgán je teda oprávnený neuchovávať viac ako jedno znenie. Ďalej aj v prípadoch, kde sa schvaľuje prihláška a vydáva vo forme patentu alebo osvedčenia na úžitkový vzor (Francúzsko), nemusí orgán pre medzinárodnú rešerš uchovávať tak prihlášku, ako aj patent, alebo osvedčenie na užitkový vzor (Francúzsko) vo svojej dokumentácii; každý orgán je teda oprávnený uchovávať buď iba prihlášku, alebo iba patent alebo osvedčenie na úžitkový vzor (Francúzsko).
 
-        - (e) Každý orgán pre medzinárodnú rešerš, ktorého úradným jazykom alebo jedným z úradných jazykov nie je japončina, ruština alebo španielčina, má právo nezahrnúť do svojej dokumentácie tie patentové doklady Japonska, Ruskej federácie a bývalého Sovietskeho zväzu, ale ani tie patentové doklady v španielčine, pre ktoré nie sú všeobecne dostupné anotácie v angličtine. Anglické anotácie budú všeobecne dostupné po dátume, keď nadobudne účinnosť tento vykonávací predpis, ktorý vyžaduje zahrnutie patentovej dokumentácie, na ktorú sa odvolávajú anotácie, najneskôr do šiestich mesiacov po tom, čo anotácie nadobudnú všeobecnú dostupnosť. Ak sa anotačné služby v angličtine prerušia v tých technických odboroch, v ktorých boli anglické anotácie doteraz všeobecne dostupné, prijme Zhromaždenie vhodné opatrenia na urýchlenú obnovu týchto služieb v uvedených odboroch.
+        - (e) Orgán pre medzinárodnú rešerš, ktorého úradným jazykom alebo jedným z jeho úradných jazykov nie je japončina, kórejčina, ruština alebo španielčina, má právo nezahrnúť do svojej dokumentácie tie patentové doklady Japonska, Kórejskej republiky, Ruskej federácie a bývalého Sovietskeho zväzu, ako aj tie patentové doklady v španielčine, pre ktoré nie sú všeobecne dostupné anotácie v angličtine. Ak budú anglické anotácie všeobecne dostupné po nadobudnutí platnosti tohto Vykonávacieho predpisu, budú tie patentové dokumenty, ktorých sa anotácie týkajú, zahrnuté do dokumentácie najneskôr do šiestich mesiacov potom, čo anotácie nadobudnú všeobecnú dostupnosť. Ak dôjde k prerušeniu anotačných služieb v angličtine v tých technických odboroch, kde boli anglické anotácie všeobecne dostupné, prijme Zhromaždenie vhodné opatrenia na urýchlenú obnovu týchto služieb v uvedených odboroch.
 
         - (f) Na účely tohto pravidla sa prihlášky, ktoré boli iba vyložené na verejné nahliadnutie, nepovažujú za zverejnené prihlášky.
 
@@ -1308,11 +1418,11 @@
 
         - (c) Pravidlá 35.1. a 35.2. sa nepoužijú v prípade, keď Medzinárodný úrad je prijímacím úradom podľa pravidla 19.1. (a) (iii).
 
-    - Pravidlo 36 Minimálne požiadavky na orgán pre medzinárodnú rešerš
+    - Pravidlo 36 Minimálne požiadavky na orgány pre medzinárodnú rešerš
 
       - 36.1 Vymedzenie minimálnych požiadaviek
 
-      - Minimálne požiadavky podľa ustanovenia článku 16 (3)(c) sú tieto:
+      - Minimálne požiadavky podľa ustanovenia článku 16(3)(c) sú:
 
         - (i) národný úrad alebo medzivládna organizácia musí mať aspoň 100 zamestnancov s plným pracovným úväzkom, ktorí majú dostatočnú technickú kvalifikáciu na vykonávanie rešerší;
 
@@ -1320,7 +1430,9 @@
 
         - (iii) úrad alebo organizácia musí mať personál schopný vykonávať rešerše v požadovaných technických odboroch a s jazykovými znalosťami aspoň tých jazykov, v ktorých je spísaná alebo preložená minimálna dokumentácia podľa pravidla 34,
 
-        - (iv) úrad alebo organizácia musí byť menovaná ako orgán pre medzinárodný predbežný prieskum.
+        - (iv) úrad alebo organizácia musia mať primeraný systém manažovania kvality a vnútorný plán kontrol v súlade so všeobecnými pravidlami medzinárodnej rešerše,
+
+        - (v) úrad alebo organizácia musia byť vymenované ako orgány pre medzinárodný predbežný prieskum.
 
     - PRAVIDLO 37 CHÝBAJÚCI ALEBO CHYBNÝ NÁZOV
 
@@ -1332,17 +1444,25 @@
 
         - Ak medzinárodná prihláška neobsahuje názov a orgán pre medzinárodnú rešerš nedostal od prijímacieho úradu oznámenie, že vyzval prihlasovateľa, aby tento nedostatok odstránil, alebo ak tento orgán zistí, že názov nezodpovedá pravidlu 4.3, vyhotoví názov sám. Taký názov sa vyhotoví v jazyku, v ktorom sa medzinárodná prihláška zverejní, alebo ak bol predložený preklad do iného jazyka podľa pravidla 23.1(b) a orgán pre medzinárodnú rešerš si to želá, v jazyku prekladu.
 
-    - PRAVIDLO 38 CHÝBAJÚCA ALEBO CHYBNÁ ANOTÁCIA
+    - Pravidlo 38 Chýbajúca alebo chybná anotácia
 
       - 38.1 Chýbajúca anotácia
 
         - Ak medzinárodná prihláška neobsahuje anotáciu a prijímací úrad oznámil orgánu pre medzinárodnú rešerš, že vyzval prihlasovateľa, aby tento nedostatok odstránil, orgán pre medzinárodnú rešerš vykonáva medzinárodnú rešerš, pokiaľ nedostane oznámenie, že uvedená prihláška sa považuje za vzatú späť.
 
-      - 38.2. Vyhotovenie anotácie
+      - 38.2 Vyhotovenie anotácie
 
-        - (a) Ak medzinárodná prihláška neobsahuje anotáciu a orgán pre medzinárodnú rešerš nedostal od prijímacieho úradu oznámenie, že vyzval prihlasovateľa, aby anotáciu predložil, alebo ak tento orgán zistí, že anotácia nezodpovedá ustanoveniu pravidla 8, vyhotoví anotáciu sám. Taká anotácia sa vyhotoví v jazyku, v ktorom sa má medzinárodná prihláška zverejniť, alebo ak bol predložený preklad do iného jazyka podľa pravidla 23.1(b) a orgán pre medzinárodnú rešerš si to želá, v jazyku prekladu.
+        - Ak medzinárodná prihláška neobsahuje anotáciu a orgán pre medzinárodnú rešerš nedostal od prijímacieho úradu oznámenie, že vyzval prihlasovateľa, aby predložil anotáciu, alebo ak uvedený orgán zistí, že anotácia nie je v súlade s pravidlom 8, vyhotoví anotáciu sám. Taká anotácia sa vyhotoví v jazyku, v ktorom má byť zverejnená medzinárodná prihláška, alebo ak bol predložený preklad do iného jazyka podľa pravidla 23.1(b) a orgán pre medzinárodnú rešerš si tak želá, do jazyka prekladu.
 
-        - (b) Prihlasovateľ smie, do jedného mesiaca od dátumu podania správy o medzinárodnej rešerši poštou, zaslať pripomienky k anotácii vyhotovenej orgánom pre medzinárodnú rešerš. Ak tento orgán zmení anotáciu, ktorú vyhotovil, oznámi zmenu Medzinárodného úradu.
+      - 38.3 Zmeny anotácie
+
+      - Prihlasovateľ môže až do uplynutia jedného mesiaca od dátumu odoslania správy o medzinárodnej rešerši orgánu pre medzinárodnú rešerš predložiť
+
+        - (i) navrhované zmeny anotácie alebo
+
+        - (ii) ak anotáciu vyhotovil orgán, navrhované zmeny alebo pripomienky k anotácii alebo aj zmeny a pripomienky,
+
+      - a orgán rozhodne, či adekvátne zmení anotáciu. Ak orgán upraví anotáciu, oznámi zmeny Medzinárodnému úradu.
 
     - PRAVIDLO 39 PREDMET PODĽA ČLÁNKU (17) (2) (a) (i)
 
@@ -1416,7 +1536,11 @@
 
       - 43.4 Jazyk
 
-      - Každá správa o medzinárodnej rešerši a uznesenie podľa článku 17(2)(a) sa musí zverejniť v jazyku, v ktorom je medzinárodná prihláška, na ktorú sa vzťahuje, alebo ak bol odovzdaný preklad do iného jazyka podľa pravidla 23.1(b) a orgán pre medzinárodnú rešerš si to želá, v jazyku prekladu.
+      - Každá správa o medzinárodnej rešerši a uznesenie podľa článku 17(2)(a) sa musia zverejniť v jazyku, v ktorom je medzinárodná prihláška, na ktorú sa vzťahujú, za predpokladu, že
+
+        - (i) ak sa predložil preklad medzinárodnej prihlášky do iného jazyka podľa pravidla 23.1(b) a medzinárodný orgán si tak želá, správa o medzinárodnej rešerši a každé uznesenie vykonané podľa článku 17(2)(a) môžu byť v jazyku prekladu,
+
+        - (ii) ak je medzinárodná prihláška zverejnená v jazyku prekladu predloženého podľa pravidla 12.4, ktorý nie je prípustný pre orgán pre medzinárodnú rešerš, a ak si orgán tak želá, správa o medzinárodnej rešerši a každé uznesenie vykonané podľa článku 17(2)(a) môžu byť v obidvoch jazykoch, v jazyku, ktorý je prípustný pre orgán, a v jazyku zverejnenia vo vzťahu k pravidlu 48.3(a).
 
       - 43.5 Citácia
 
@@ -1437,6 +1561,12 @@
         - (b) Ak sa medzinárodná rešerš vzťahovala na patenty, autorské osvedčenia na vynálezy, osvedčenia o úžitkových vzoroch, úžitkové vzory, dodatkové patenty alebo dodatkové osvedčenia, dodatkové autorské osvedčenia na vynález, dodatkové osvedčenia o úžitkových vzoroch alebo na zverejnené prihlášky k niektorému z uvedených druhov ochrany tých štátov, z tých období alebo v tých jazykoch, ktoré nie sú zahrnuté do minimálnej dokumentácie podľa pravidla 34, medzinárodná rešeršová správa bude podľa možností obsahovať údaje o druhoch dokladov, o štátoch, obdobiach a jazykoch, na ktoré sa vzťahovala. Na účely tohto odseku neplatí článok 2 (ii).
 
         - (c) Ak sa medzinárodná rešerš založila alebo rozšírila na elektronickú bázu dát, môže medzinárodná rešeršová správa uvádzať názov databázy, a ak sa to považuje pre iných za užitočné a za vykonateľné, použité rešeršové výrazy.
+
+      - 43.6bis Posúdenie opráv zjavných chýb
+
+        - (a) Opravu zjavnej chyby, ktorá je schválená podľa pravidla 91.1 s výhradou odseku (b), vezme orgán pre medzinárodnú rešerš do úvahy na účely medzinárodnej rešerše a uvedie to v správe o medzinárodnej rešerši.
+
+        - (b) Opravu zjavnej chyby nevezme orgán pre medzinárodnú rešerš do úvahy na účely medzinárodnej rešerše, ak je schválená alebo oznámená tomuto orgánu, podľa toho čo platí, po začatí vypracovávania správy o medzinárodnej rešerši, v tomto prípade, ak je to možné, sa to uvedie v správe, ktorej podaním to orgán pre medzinárodnú rešerš primerane oznámi Medzinárodnému úradu a Medzinárodný úrad koná podľa administratívnych smerníc.
 
       - 43.7. Poznámky týkajúce sa jednotnosti vynálezu
 
@@ -1466,7 +1596,7 @@
 
         - K písomnému posudku sa pripoja ďalšie pripomienky, ktoré sú ustanovené v pravidlách.
 
-        - (b) Na účely vyhotovenia písomného posudku sa články 33(2) až (6), 35(2) a 35(5) a pravidlá 43.4, 64, 65, 66.1(e), 66.7, 67, 70.2(b) a (d), 70.3, 70.4(ii), 70.5(a), 70.6 až 70.10, 70.12, 70.14 a 70.15(a) použijú primerane.
+        - (b) Na účely vyhotovenia písomného posudku sa články 33(2) až (6) a 35(2) a (3) a pravidlá 43.4, 43.6bis, 64, 65, 66.1(e), 66.7, 67, 70.2(b) a (d), 70.3, 70.4(ii), 70.5(a), 70.6 až 70.10, 70.12, 70.14 a 70.15(a) použijú mutatis mutandis.
 
         - (c) Písomný posudok musí obsahovať oznámenie informujúce prihlasovateľa, že ak je podaný návrh na medzinárodný predbežný prieskum, písomný posudok sa bude podľa pravidla 66.1bis(a), ale s výhradou pravidla 66.1bis(b) považovať za písomný posudok orgánu pre medzinárodný predbežný prieskum na účely pravidla 66.2(a). V tomto prípade je prihlasovateľ vyzvaný, aby pred uplynutím lehoty podľa pravidla 54bis.1(a) predložil orgánu písomnú odpoveď spolu s prípadnými zmenami.
 
@@ -1614,7 +1744,7 @@
 
       - 48.2. Obsah
 
-        - (a) Brožúra medzinárodnej prihlášky obsahuje
+        - (a) Zverejnená medzinárodná prihláška obsahuje
 
           - (i) normalizovanú prvú stránku,
 
@@ -1628,23 +1758,33 @@
 
           - (vi) každé oznámenie podané podľa článku 19(1), ak Medzinárodný úrad nezistí, že oznámenie nie je v súlade s ustanoveniami pravidla 46.4,
 
-          - (vii) každú žiadosť o opravu podľa tretej vety pravidla 91.1(f),
+          - (vii) ak Medzinárodný úrad prijal žiadosť o zverejnenie podľa pravidla 91.3(d) pred ukončením technických príprav na zverejnenie každú žiadosť o opravu zjavnej chyby, dôvod a pripomienky uvedené v pravidle 91.3(d),
 
           - (viii) údaje týkajúce sa uloženého biologického materiálu predloženého podľa pravidla 13bis oddelene od opisu spolu s uvedením dátumu, keď Medzinárodný úrad takéto údaje prijal,
 
-          - (ix) každé oznámenie týkajúce sa uplatnenia priority, ktoré sa považuje za nevykonané podľa pravidla 26bis.2(b), ktorého zverejnenie sa vyžaduje podľa pravidla 26bis.2(c),
+          - (ix) každú informáciu týkajúcu sa uplatnenia priority podľa pravidla 26bis.2(d),
 
-          - (x) každé vyhlásenie podľa pravidla 4.17 a každú jeho opravu podľa pravidla 26ter.1, ktorú prijal Medzinárodný úrad pred uplynutím lehoty podľa pravidla 26ter.1.
+          - (x) každé vyhlásenie uvedené v pravidle 4.17 a každú jeho opravu podľa pravidla 26ter.1, ktorú prijal Medzinárodný úrad pred uplynutím lehoty podľa pravidla 26ter.1,
 
-        - (b) Bez ohľadu na odsek (c) titulná strana obsahuje
+          - (xi) každú informáciu týkajúcu sa žiadosti podľa pravidla 26bis.3 na obnovenie práva na prioritu a rozhodnutie prijímacieho úradu na základe takejto žiadosti vrátane informácie, na základe akého kritéria sa rozhodlo.
 
-          - (i) údaje prevzaté z formulára žiadosti a iné údaje predpísané Administratívnymi smernicami;
+        - (b) Bez ohľadu na odsek (c) titulná stránka obsahuje
 
-          - (ii) obrázok alebo obrázky, ak medzinárodná prihláška obsahuje výkresy, ibaže platí pravidlo 8.2 (b);
+          - (i) údaje prevzaté z formulára žiadosti a iné údaje, ktoré predpisujú administratívne smernice,
 
-          - (iii) abstrakt; ak je abstrakt v anglickom jazyku a v inom jazyku, anglický text sa uvedie ako prvý,
+          - (ii) obrázok alebo obrázky, ak medzinárodná prihláška obsahuje výkresy, ak sa neuplatňuje pravidlo 8.2(b),
 
-          - (iv) údaj, že žiadosť obsahuje akékoľvek vyhlásenie, na ktoré sa odkazuje v pravidle 4.17, ktoré Medzinárodný úrad prijal pred uplynutím lehoty podľa pravidla 26ter.1.
+          - (iii) anotáciu, ak je anotácia v angličtine a v ďalšom jazyku, anglický text sa uvedie na prvom mieste,
+
+          - (iv) údaj, tam kde sa vyžaduje, že žiadosť obsahuje vyhlásenie uvedené v pravidle 4.17, ktoré prijal Medzinárodný úrad pred uplynutím lehoty podľa pravidla 26ter.1,
+
+          - (v) ak prijímací úrad udelil dátum medzinárodného podania podľa pravidla 20.3(b)(ii) alebo 20.5(d) na základe začlenenia prvku alebo časti podľa pravidla 4.18 a 20.6 odkazom, údaj o tejto skutočnosti spolu s údajom, či prihlasovateľ na účely pravidla 20.6(a)(ii) spoľahlivo splnil podmienky pravidla 17.1(a), (b) alebo (b-bis) vo vzťahu k prioritnému dokladu alebo zvlášť predložil kópiu príslušnej skoršej prihlášky,
+
+          - (vi) údaj, tam kde sa vyžaduje, že zverejnená medzinárodná prihláška obsahuje informáciu podľa pravidla 26bis.2(d),
+
+          - (vii) údaj, tam kde sa vyžaduje, že zverejnená medzinárodná prihláška obsahuje informáciu týkajúcu sa žiadosti podľa pravidla 26bis.3 o obnovenie práva na prioritu a rozhodnutie prijímacieho úradu na základe takejto žiadosti,
+
+          - (viii) údaj, tam kde sa vyžaduje, že prihlasovateľ predložil podľa pravidla 26bis.3(f) kópiu vyhlásenia alebo iného dôkazu Medzinárodnému úradu.
 
         - (c) Ak sa vydalo rozhodnutie podľa článku 17 (2) (a), titulná strana na to výrazne poukáže a nemusí na nej byť ani výkres ani anotácia.
 
@@ -1658,6 +1798,12 @@
 
         - (h) Ak v čase dokončenia technických príprav na medzinárodné zverejnenie neuplynula lehota na úpravu nárokov podľa článku 19, uvedie sa táto skutočnosť na prvej strane s tým, že v prípade úprav nárokov podľa článku 19 Medzinárodný úrad po ich prijatí zverejní celý text podaných a upravených nárokov v lehote podľa pravidla 46.1 spolu s revidovanou prvou stranou. Ak sa podalo oznámenie podľa článku 19(1), Medzinárodný úrad zverejní aj toto oznámenie, ak nezistí, že oznámenie nebolo v súlade s ustanovením pravidla 46.4.
 
+        - (i) Ak schválenie opravy zjavnej chyby v medzinárodnej prihláške podľa pravidla 91.1 Medzinárodný úrad prijme alebo prípadne udelí po ukončení technických príprav na zverejnenie, zverejní sa stanovisko, ktoré odráža všetky opravy spolu so stranami, ktorých sa opravy týkajú, alebo s náhradnými listami a listom predloženým podľa pravidla 91.2, podľa okolností, a prvá strana sa znova uverejní.
+
+        - (j) Ak v deň ukončenia technických príprav na zverejnenie stále chýba žiadosť podľa pravidla 26bis.3 o obnovenie práva na prioritu, zverejnená medzinárodná prihláška bude obsahovať v mieste rozhodnutia prijímacieho úradu na základe žiadosti údaj o tom, že takéto rozhodnutie nie je k dispozícii a že sa zverejní zvlášť, keď bude predložené.
+
+        - (k) Ak žiadosť o zverejnenie podľa pravidla 91.3(d) Medzinárodný úrad prijal po ukončení technických príprav na zverejnenie žiadosť o opravu, dôvody a pripomienky uvedené v tomto pravidle sa musia ihneď zverejniť po prijatí takejto žiadosti o zverejnenie a prvá strana sa znova zverejní.
+
       - 48.3 Jazyky zverejnenia
 
         - (a) Ak je medzinárodná prihláška podaná v arabčine, čínštine, angličtine, francúzštine, nemčine, japončine, ruštine alebo španielčine („jazyky zverejnenia“), prihláška je zverejnená v jazyku, v ktorom bola podaná.
@@ -1666,7 +1812,7 @@
 
         - (b) Ak nie je medzinárodná prihláška podaná v jazyku zverejnenia a podľa pravidla 12.3 alebo 12.4 bol predložený preklad v jazyku zverejnenia, prihláška sa zverejní v jazyku prekladu.
 
-        - (c) Ak je medzinárodná prihláška zverejnená v inom jazyku než anglickom, zverejní sa medzinárodná rešeršová správa v rozsahu podľa pravidla 48.2 (a) (v) alebo rozhodnutie podľa článku 17 (2) (a), názov vynálezu, anotácia a všetky texty k obrázku alebo obrázkom v anotácii tak v tomto jazyku, ako aj v angličtine. Za vyhotovenie prekladu nesie zodpovednosť Medzinárodný úrad.
+        - (c) Ak je medzinárodná prihláška zverejnená v inom jazyku ako v angličtine, zverejnení sa správa o medzinárodnej rešerši v rozsahu podľa pravidla 48.2(a)(v) alebo uznesenie podľa článku 17(2)(a), názov vynálezu, anotácia a všetky texty k obrázku alebo obrázkom v anotácii v tomto jazyku, ako aj v angličtine. Preklad, ak ho nepredložil prihlasovateľ podľa pravidla 12.3, urobí Medzinárodný úrad, ktorý nesie zaň zodpovednosť.
 
       - 48.4 Prvšie zverejnenie na žiadosť prihlasovateľa
 
@@ -1796,6 +1942,56 @@
 
         - (b) Prihlasovateľ môže, ak to dovoľuje národné zákonodarstvo príslušného určeného úradu, predložiť takýto údaj alebo ak sa dovoľuje, konvertovať kedykoľvek neskôr z jedného druhu ochrany na iný druh ochrany.
 
+    - Pravidlo 49ter Účinok obnovenia práva na prioritu prijímacím úradom.
+
+      - Obnovenie práva na prioritu určeným úradom
+
+        - 49ter.1 Účinok obnovenia práva na prioritu prijímacím úradom
+
+          - (a) Ak prijímací úrad obnovil právo na prioritu podľa pravidla 26bis.3 založené na zistení, že opomenutie podať medzinárodnú prihlášku v období priority nastalo aj napriek náležitej starostlivosti, toto obnovenie musí byť s výhradou odseku (c) účinné v každom určenom štáte.
+
+          - (b) Ak prijímací úrad obnovil právo na prioritu podľa pravidla 26bis.3 založenom na zistení, že opomenutie podať medzinárodnú prihlášku v období priority bolo neúmyselné, toto obnovenie musí byť s výhradou odseku (c) účinné v každom určenom štáte, ktorého platné národné zákonodarstvo zabezpečuje obnovenie práva priority založeného na tomto kritériu alebo na kritériu, ktoré podľa názoru prihlasovateľa je priaznivejšie ako toto kritérium.
+
+          - (c) Rozhodnutie prijímacieho úradu, aby sa obnovilo právo na prioritu podľa odseku 26bis.3, nebude účinné v určenom štáte, ak určený úrad, súd alebo iný jeho kompetentný orgán alebo orgán, ktorý koná pre tento určený štát, zistí, že neboli splnené podmienky podľa pravidla 26bis.3(a), (b)(i) alebo (c), pričom vzal do úvahy dôvody uvedené v žiadosti predloženej prijímaciemu úradu podľa pravidla 26bis.3(a) a každé vyhlásenie alebo iný dôkaz podaný prijímaciemu úradu podľa pravidla 26bis.3(b)(iii).
+
+          - (d) Určený úrad nebude prehodnocovať rozhodnutie prijímacieho úradu, ak nebudú odôvodnené pochybnosti, že požiadavka uvedená v odseku (c) nebola splnená, v opačnom prípade to určený úrad primerane oznámi prihlasovateľovi, uvedie dôvody svojich pochybností a umožní prihlasovateľovi, aby sa vyjadril v primeranej lehote.
+
+          - (e) Žiadny určený štát nie je viazaný rozhodnutím prijímacieho úradu o zamietnutí žiadosti podľa pravidla 26bis.3 na obnovenie práva na prioritu.
+
+          - (f) Ak prijímací úrad zamietol žiadosť o obnovenie práva na prioritu, každý určený štát môže považovať túto žiadosť, ako by bola žiadosťou na obnovenie práva na prioritu predložená tomuto určenému úradu podľa pravidla 49ter.2(a) v lehote podľa tohto pravidla.
+
+          - (g) Ak 5. októbra 2005 odseky (a) a (d) nie sú v súlade s národným zákonodarstvom určeného úradu, tieto odseky sa nebudú vzťahovať na tento úrad dovtedy, kým bude pokračovať nezlučiteľnosť s týmto zákonom za predpokladu, že uvedený úrad bude o tom informovať Medzinárodný úrad do 5. apríla 2006. Medzinárodný úrad prijatú informáciu ihneď zverejní vo Vestníku.
+
+        - 49ter.2 Obnovenie práva na prioritu určeným úradom
+
+          - (a) Ak medzinárodná prihláška uplatňuje prioritu zo skoršej prihlášky a dátum medzinárodného podania je neskorší ako dátum uplynutia obdobia priority, ale v lehote dvoch mesiacov od tohto dátumu, určený úrad na základe žiadosti prihlasovateľa v súlade s odsekom (b) obnoví právo na prioritu, ak úrad zistí, že sa vyhovelo ním uplatňovanému kritériu („kritérium na obnovenie práva na prioritu"), že zanedbanie podať prihlášku v prioritnom období sa menovite
+
+            - (i) stalo aj napriek náležitej starostlivosti, ktorú si vyžadovali okolnosti, alebo
+
+            - (ii) bolo neúmyselné.
+
+            - Každý určený úrad musí uplatňovať aspoň jedno z uvedených kritérií a môže uplatňovať aj obidve.
+
+          - (b) Žiadosť podľa odseku (a)
+
+            - (i) sa musí podať v určenom úrade v lehote jedného mesiaca od príslušnej lehoty podľa článku 22,
+
+            - (ii) musí zdôvodniť zanedbanie podania medzinárodnej prihlášky v období priority a prípadne doložiť vyhlásenie alebo iný dôkaz, ktorý sa vyžaduje podľa odseku (c), a
+
+            - (iii) musí byť podrobená poplatku za žiadosť na obnovenie podľa odseku (d).
+
+          - (c) Určený úrad môže žiadať, aby vyhlásenie alebo iný dôkaz podporujúci zdôvodnené stanovisko uvedené v odseku (b)(ii) sa mu podal v lehote primeranej okolnostiam.
+
+          - (d) Predloženie žiadosti podľa odseku (a) môže určený úrad podrobiť poplatku, poplatok za žiadosť o obnovenie, vo svoj prospech.
+
+          - (e) Určený úrad nezamietne celkom alebo čiastočne žiadosť podľa odseku (a) bez toho, aby nedal prihlasovateľovi príležitosť vyjadriť sa k zamýšľanému zamietnutiu v lehote primeranej okolnostiam. Takéto oznámenie o zamýšľanom zamietnutí môže zaslať určený úrad prihlasovateľovi spolu s výzvou, aby predložil vyhlásenie alebo iný dôkaz podľa odseku (c).
+
+          - (f) Ak národné zákonodarstvo platné pre určený úrad dovoľuje obnovenie práva na prioritu za podmienok, ktoré sú podľa názoru prihlasovateľa výhodnejšie ako požiadavky uvedené v odsekoch (a) a (b), určený úrad môže pri rozhodovaní o práve na prioritu uplatňovať požiadavky podľa platného národného zákonodarstva namiesto požiadaviek týchto odsekov.
+
+          - (g) Každý určený úrad musí informovať Medzinárodný úrad, aké kritériá na obnovu práva priority uplatňuje, prípadne požiadavky národného zákonodarstva uplatňované v súlade s odsekom (f) a všetky následné zmeny v tomto ohľade. Medzinárodný úrad ihneď zverejní túto informáciu vo Vestníku.
+
+          - (h) Ak 5. októbra 2005 odseky (a) až (g) nie sú v súlade s národným zákonodarstvom určeného úradu, tieto odseky sa nebudú uplatňovať v tomto úrade dovtedy, kým bude pokračovať nezlučiteľnosť s týmto zákonom za predpokladu, že uvedený úrad bude informovať o tom Medzinárodný úrad do 5. apríla 2006. Medzinárodný úrad ihneď zverejní prijatú informáciu vo Vestníku.
+
   - PRAVIDLO 50
 
   - OPRÁVNENIE PODĽA ČLÁNKU 22 (3)
@@ -1822,11 +2018,11 @@
 
       - 51.1 Lehota na podanie žiadosti o zaslanie kópií
 
-        - Lehota uvedená v článku 25(1)(c) je dva mesiace od dátumu oznámenia zaslaného prihlasovateľovi podľa ustanovení pravidiel 20.7(i), 24.2(c) alebo 29.1(ii).
+        - Lehota uvedená v článku 25(1)(c) je dva mesiace a počíta sa od dátumu oznámenia zaslaného prihlasovateľovi podľa pravidla 20.4(i), 24.2(c) alebo 29.1(ii).
 
       - 51.2 Kópia oznámenia
 
-        - V prípadoch, keď prihlasovateľovi došlo záporné zistenie podľa článku 11 (1) a keď požiada Medzinárodný úrad podľa článku 25 (1) o zaslanie spisových kópií zamýšľanej medzinárodnej prihlášky niektorému z určených úradov, pripojí ku svojej žiadosti kópiu správy o zápornom zistení podľa pravidla 20.7 (i).
+        - Ak prihlasovateľ po prijatí negatívneho rozhodnutia podľa článku 11(1) požiada Medzinárodný úrad podľa článku 25(1), aby zaslal kópie spisu písomností na účely podania medzinárodnej prihlášky niektorým z určených úradov, pripojí ku svojej žiadosti kópiu správy podľa pravidla 20.4(i).
 
       - 51.3 Lehota na zaplatenie národného poplatku a predloženie prekladu
 
@@ -1866,7 +2062,11 @@
 
           - (ii) potvrdený štátnym orgánom alebo súdnym tlmočníkom, ale len v tom prípade, ak určený úrad odôvodnene pochybuje o správnosti prekladu.
 
-        - (e) Národné zákonodarstvo aplikované určeným úradom v súlade s článkom 27 môže vyžadovať od prihlasovateľa, aby poskytol preklad prioritného dokladu za predpokladu, že taký preklad sa môže vyžiadať len vtedy, ak platnosť nároku na prioritu je relevantná na určenie patentovateľnosti daného vynálezu.
+        - (e) Národné zákonodarstvo uplatňované určeným úradom môže v súlade s článkom 27 vyžadovať, aby prihlasovateľ predložil preklad prioritného dokladu za predpokladu, že takýto preklad sa môže vyžadovať, iba vtedy, ak
+
+          - (i) platnosť uplatňovanej priority je dôležitá pre rozhodnutie, či je príslušný vynález patentovateľný, alebo
+
+          - (ii) dátum medzinárodného podania je udelený prijímacím úradom podľa pravidla 20.3(b)(ii) alebo 20.5(d) na základe včlenenia prvku alebo časti odkazom podľa pravidla 4.18 a 20.6 na účely rozhodnutia, podľa pravidla 82ter.1(b), či tento prvok alebo časť je úplne obsiahnutá v príslušnom prioritnom doklade, v takomto prípade národné zákonodarstvo uplatňované určeným úradom môže tiež vyžadovať od prihlasovateľa, aby v prípade časti opisu, nárokov alebo výkresov predložil údaj, kde je táto časť obsiahnutá v preklade prioritného dokladu.
 
         - (f) Ak 17. marca 2000 podmienka v odseku (e) nebude zlučiteľná s národným zákonodarstvom aplikovaným určeným úradom, táto podmienka sa nebude aplikovať na tento úrad tak dlho, kým daná podmienka nebude zlučiteľná s týmto právom za predpokladu, že dotknutý úrad podľa toho neinformoval Medzinárodný úrad do 30. novembra 2000. Medzinárodný úrad bude promptne publikovať prijatú informáciu vo Vestníku.
 
@@ -1998,9 +2198,9 @@
 
       - 54bis.1 Lehota na podanie návrhu
 
-        - (a) Návrh sa môže podať kedykoľvek pred uplynutím nasledovného obdobia, podľa toho, ktoré uplynie neskôr
+        - (a) Návrh sa môže podať kedykoľvek pred uplynutím nasledujúceho obdobia, podľa toho, ktoré uplynie neskôr:
 
-          - (i) tri mesiace od doručenia správy o medzinárodnej rešerši prihlasovateľovi a vypracovania písomného posudku podľa pravidla 43bis.1 alebo vyhlásenia týkajúceho sa článku 17(2)(a) alebo
+          - (i) tri mesiace od doručenia správy o medzinárodnej rešerši prihlasovateľovi alebo uznesenia podľa článku 17(2)(a) a písomného posudku vypracovaného podľa pravidla 43bis.1 alebo
 
           - (ii) 22 mesiacov od dátumu priority.
 
@@ -2020,11 +2220,15 @@
 
           - (ii) jazykom zverejnenia.
 
+        - (a-bis) Preklad medzinárodnej prihlášky do jazyka uvedeného v odseku (a) musí obsahovať každý prvok uvedený v článku 11(1)(iii)(d) alebo (e), ktorý predložil prihlasovateľ podľa pravidla 20.3(b) alebo 20.6(a), a každú časť opisu, nárokov alebo výkresov, ktoré predložil prihlasovateľ podľa pravidla 20.5(b) alebo 20.6(a), ktoré sa považovali za obsiahnuté v medzinárodnej prihláške podľa pravidla 20.6(b).
+
+        - (a-ter) Orgán pre medzinárodný predbežný prieskum musí preveriť každý preklad podľa odseku (a), či je v súlade s požiadavkami na vonkajšiu úpravu podľa pravidla 11, v takom rozsahu, aký je nutný na účely medzinárodného predbežného prieskumu.
+
         - (b) Ak sa preklad medzinárodnej prihlášky do jazyka podľa odseku (a) odovzdal orgánu pre medzinárodný predbežný prieskum podľa pravidla 23.1(b) a orgán pre medzinárodný predbežný prieskum je súčasťou rovnakého národného úradu alebo medzivládnej organizácie ako orgán pre medzinárodnú rešerš, prihlasovateľ nemusí predkladať preklad podľa odseku (a). V takom prípade ak prihlasovateľ nepredloží preklad podľa odseku (a), medzinárodný predbežný prieskum sa vykoná na základe prekladu predloženého podľa pravidla 23.1(b).
 
-        - (c) Ak sa nesplní požiadavka uvedená v odseku (a) a odsek (b) neplatí, orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby predložil požadovaný preklad v lehote, ktorá musí byť primeraná okolnostiam. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum môže lehotu predĺžiť kedykoľvek pred vydaním rozhodnutia.
+        - (c) Ak požiadavky uvedené v odsekoch (a), (a-bis) a (a-ter) nie sú splnené a odsek (b) sa neuplatňuje, orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby predložil požadovaný preklad alebo požadovanú opravu v lehote primeranej okolnostiam. Lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum ju môže predĺžiť kedykoľvek pred vydaním rozhodnutia.
 
-        - (d) Ak prihlasovateľ vyhovie výzve v lehote podľa odseku (c), bude sa táto požiadavka považovať za splnenú. Ak prihlasovateľ zabudne vyhovieť, bude sa návrh považovať za nepredložený a orgán pre medzinárodný predbežný prieskum o tom vydá uznesenie.
+        - (d) Ak prihlasovateľ vyhovie výzve v lehote podľa odseku (c), uvedenej požiadavke sa vyhovelo. Ak prihlasovateľ tak nevykoná, žiadosť sa považuje za nepredloženú a orgán pre medzinárodný predbežný prieskum vydá o tom uznesenie.
 
       - 55.3. Preklad zmien
 
@@ -2224,19 +2428,23 @@
 
         - (iii) úrad alebo organizácia musí mať personál schopný vykonávať prieskum v požadovaných technických odboroch a so znalosťou aspoň tých jazykov, v ktorých je spísaná alebo preložená minimálna dokumentácia podľa pravidla 34,
 
-        - (iv) úrad alebo organizácia musí byť vymenovaná ako orgán pre medzinárodnú rešerš.
+        - (iv) úrad alebo organizácia musia mať primeraný systém manažovania kvality a vnútorný plán kontrol v súlade so všeobecnými pravidlami medzinárodnej rešerše,
 
-    - PRAVIDLO 64 ZNÁMY STAV TECHNIKY PRE MEDZINÁRODNÝ PREDBEŽNÝ PRIESKUM
+        - (v) úrad alebo organizácia musia byť vymenované ako orgány pre medzinárodný predbežný prieskum.
+
+    - Pravidlo 64 Známy stav techniky pre medzinárodný predbežný prieskum
 
       - 64.1 Známy stav techniky
 
         - (a) Na účely článku 33 (2) a (3) je známym stavom techniky všetko, čo bolo sprístupnené verejnosti kdekoľvek vo svete v písomných materiáloch (včítane výkresov a iných vyobrazení) za predpokladu, že k sprístupneniu došlo pred rozhodným dátumom.
 
-        - (b) Na účely odseku (a) rozhodný dátum znamená:
+        - (b) Na účely odseku (a) rozhodujúci dátum znamená
 
-          - (i) s výhradou bodu (ii) dátum medzinárodného podania medzinárodnej prihlášky, ktorá je predmetom medzinárodného predbežného prieskumu;
+          - (i) s výhradou bodov (ii) a (iii) dátum medzinárodného podania medzinárodnej prihlášky, ktorá je predmetom medzinárodného predbežného prieskumu,
 
-          - (ii) ak medzinárodná prihláška, ktorá je predmetom medzinárodného predbežného prieskumu, uplatňuje oprávnene prioritu prvšej prihlášky, dátum podania takej prvšej prihlášky.
+          - (ii) ak medzinárodná prihláška, ktorá je predmetom medzinárodného predbežného prieskumu, uplatňuje prioritu zo skoršej prihlášky a má dátum medzinárodného podania, ktorý spadá do obdobia priority, dátum podania takejto skoršej prihlášky, ak orgán pre medzinárodný predbežný prieskum nepovažuje uplatnenie priority za neplatné,
+
+          - (iii) ak medzinárodná prihláška, ktorá je predmetom medzinárodného predbežného prieskumu, uplatňuje prioritu skoršej prihlášky a má dátum medzinárodného podania, ktorý je neskorší ako dátum, keď uplynulo obdobie priority, ale v období dvoch mesiacov od tohto dátumu, dátum podania takejto skoršej prihlášky, ak orgán pre medzinárodný predbežný prieskum nepovažuje uplatnenie priority za neplatné pre iné dôvody ako tvrdenie, že dátum medzinárodného podania medzinárodná prihlášky je neskorší ako dátum, keď uplynulo obdobie priority.
 
       - 64.2. Nepísomné zverejnenie
 
@@ -2258,7 +2466,7 @@
 
     - Pravidlo 66 Konanie pred orgánom pre medzinárodný predbežný prieskum
 
-      - 66.1. Podklad medzinárodného predbežného prieskumu
+      - 66.1 Podklad medzinárodného predbežného prieskumu
 
         - (a) S výhradou odsekov (b) až (d) musí byť medzinárodný predbežný prieskum založený na medzinárodnej prihláške tak, ako bola podaná.
 
@@ -2267,6 +2475,8 @@
         - (c) Úpravy podľa článku 19 vykonané predtým, než sa podal návrh, musia sa vziať do úvahy na účely medzinárodného predbežného prieskumu, pokiaľ nie sú nahradené alebo zrušené úpravou podľa ustanovení článku 34.
 
         - (d) Úpravy podľa článku 19 vykonané predtým, než sa podal návrh, a úpravy podľa článku 34 predložené orgánu pre medzinárodný predbežný prieskum sa musia s výhradou pravidla 66.4 bis na účely medzinárodného predbežného prieskumu vziať do úvahy.
+
+        - (d-bis) Opravu zrejmých chýb, ktoré sú dovolené podľa pravidla 91.1, orgán pre medzinárodný predbežný prieskum vezme do úvahy na účely medzinárodného predbežného prieskumu s ohľadom na pravidlo 66.4bis.
 
         - (e) Návrhy týkajúce sa vynálezov, vo vzťahu ku ktorým sa nevyhotovila žiadna medzinárodná rešeršová správa, nemusia byť predmetom medzinárodného predbežného prieskumu.
 
@@ -2318,13 +2528,13 @@
 
         - (b) Na žiadosť prihlasovateľa mu môže orgán pre medzinárodný predbežný prieskum poskytnúť jednu alebo viac dodatočných možností na predloženie úprav alebo dôvodov.
 
-      - 66.4. bis Zvažovanie úprav a dôvodov
+      - 66.4bis Posúdenie úprav, dôvodov a opráv zjavných chýb
 
-        - Úpravy alebo dôvody nemusí orgán pre medzinárodný predbežný prieskum brať do úvahy na účely písomného posudku alebo správy o medzinárodnom predbežnom prieskume, ak sa prijali po tom, čo tento orgán začal zostavovať posudok alebo správu.
+        - Úpravy, dôvody a opravy zjavných chýb nemusí orgán pre medzinárodný predbežný prieskum vziať do úvahy na účely písomného posudku a správy o medzinárodnom predbežnom prieskume, ako ich prijal alebo mu boli oznámené, podľa toho čo sa hodí, po začatí vypracovávania písomného posudku alebo správy.
 
       - 66.5 Úpravy
 
-        - Každý zmena nárokov, opisu alebo výkresov, včítane vypustenia nárokov alebo vypustenia častí opisu alebo vypustenia niektorých výkresov, sa považuje za úpravu, ibaže ide o nápravu zjavných omylov.
+        - Každá zmena nárokov, opisu alebo výkresov včítane zrušenia nárokov, vypustenia časti opisu alebo vypustenia niektorých výkresov sa považuje za úpravu, ak nejde o opravu zjavnej chyby.
 
       - 66.6 Neformálny styk s prihlasovateľom
 
@@ -2450,7 +2660,7 @@
 
         - (iii) šesť mesiacov od dátumu, keď orgán pre medzinárodný predbežný prieskum prijal preklad predložený podľa pravidla 55.2.
 
-    - Pravidlo 70 Správa orgánu pre medzinárodný predbežný prieskum o medzinárodnom predbežnom prieskume na patentovateľnosť (Správa o medzinárodnom predbežnom prieskume)
+    - Pravidlo 70 Medzinárodná predbežná správa o patentovateľnosti vyhotovená orgánom pre medzinárodný predbežný prieskum (správa o medzinárodnom predbežnom prieskume)
 
       - 70.1 Vymedzenie
 
@@ -2465,6 +2675,8 @@
         - (c) Ak sa orgán pre medzinárodný predbežný prieskum domnieva, že niektorá úprava presahuje rozsah vynálezu pri podaní medzinárodnej prihlášky, spracuje správu tak, akoby k úprave nedošlo, a uvedie to v správe. Uvedie aj dôvody, prečo podľa jeho mienky úprava rozsah presahuje.
 
         - (d) Ak sa nároky vzťahujú na vynálezy, na ktoré sa nespracovala medzinárodná rešeršová správa, a neboli preto predmetom medzinárodného predbežného prieskumu, musí sa to v správe o medzinárodnom predbežnom prieskume uviesť.
+
+        - (e) Ak sa vzala do úvahy oprava zjavnej chyby podľa pravidla 66.1, uvedie sa to v správe. Ak sa nevzala do úvahy oprava zjavnej chyby podľa pravidla 66.4bis, orgán pre medzinárodný predbežný prieskum uvedie, ak je to možné, tento nedostatok v správe, primerane to oznámi Medzinárodnému úradu a Medzinárodný úrad koná v zmysle administratívnych smerníc.
 
       - 70.3. Označenie
 
@@ -2546,7 +2758,7 @@
 
       - 70.16 Prílohy ku správe
 
-        - (a) Každý náhradný list podľa pravidla 66.8(a) alebo (b), každý náhradný list obsahujúci úpravy podľa článku 19 a každý náhradný list obsahujúci opravy zrejmých omylov potvrdených podľa pravidla 91.1(e)(iii) musia sa, ak nie sú neskôr nahradené predloženými listami alebo úpravami spočívajúcimi v zrušení celých listov podľa pravidla 66.8(b), priložiť k správe. Náhradné listy obsahujúce úpravy podľa článku 19 sa považujú za zrušené úpravami podľa článku 34, a listy podľa pravidla 66.8 sa neprikladajú.
+        - (a) Každý náhradný list podľa pravidla 66.8(a) alebo (b) a každý náhradný list obsahujúci úpravy podľa článku 19 bude priložený k správe, ak nie je nahradený neskoršími náhradnými listami alebo úpravami, ktoré spočívajú v zrušení celých listov podľa pravidla 66.8(b). Neprikladajú sa náhradné listy obsahujúce úpravy podľa článku 19, ktoré sa považujú za zrušené úpravami podľa článku 34, a listy podľa pravidla 66.8.
 
         - (b) Napriek odseku (a) každý nahradený alebo zrušený náhradný list uvedený v tomto odseku sa prikladá k správe, ak orgán pre medzinárodný predbežný prieskum posúdi, že príslušná náhrada alebo zrušenie úpravy presahuje obsah medzinárodnej prihlášky, ako bola podaná, a správa obsahuje dotyčný údaj podľa pravidla 70.2(c). V takomto prípade nahradený alebo zrušený náhradný list sa označí podľa administratívnych smerníc.
 
@@ -2616,7 +2828,9 @@
 
         - (b) Ak predloženie prekladu medzinárodnej prihlášky podľa článku 39 (1) Zmluvy zvolený úrad nepožaduje, môže tento úrad požadovať od prihlasovateľa, aby predložil v lehote uvedenej v tomto článku preklad každého náhradného listu uvedeného v pravidle 70.16., ktorý je priložený k správe o medzinárodnom predbežnom prieskume a nie je v jazyku, v ktorom bola medzinárodná prihláška zverejnená.
 
-    - Pravidlo 76 Preklad prioritného dokladu; použitie niektorých pravidiel o konaní pred zvolenými úradmi
+    - Pravidlo 76 Preklad prioritného dokladu.
+
+      - Použitie niektorých pravidiel v konaní pred zvolenými úradmi.
 
       - 76.1 zrušené
 
@@ -2628,9 +2842,9 @@
 
         - Prihlasovateľ nie je povinný predložiť žiadnemu zvolenému úradu preklad prioritného dokladu pred uplynutím príslušnej lehoty podľa článku 39.
 
-      - 76.5 Použitie niektorých pravidiel o konaní pred zvolenými úradmi
+      - 76.5 Použitie niektorých pravidiel v konaní pred zvolenými úradmi
 
-      - Pravidlá 13ter.3, 22.1(g), 47.1, 49, 49bis a 51bis použijú s podmienkou, že:
+      - Pravidlá 13ter.3, 20.8(c), 22.1(g), 47.1, 49, 49bis, 49ter a 51bis sa použijú za predpokladu, že
 
         - (i) určený úrad, prípadne určený štát sa považuje za zvolený úrad, prípadne za zvolený štát;
 
@@ -2786,11 +3000,25 @@
 
         - Ustanovenia národného zákonodarstva podľa článku 48 (2), ktoré určenému alebo zvolenému štátu umožňujú ospravedlniť nedodržanie lehôt, sú tie ustanovenia, ktoré upravujú navrátenie do predchádzajúceho stavu, obnovu konania, reštitúciu in integrum alebo pokračovanie v konaní, aj keď sa nedodržala lehota, a všetky iné ustanovenia o predlžovaní lehôt alebo o odpustení ich zmeškania.
 
-    - Pravidlo 82ter Oprava chýb vykonaných prijímacím úradom alebo Medzinárodným úradom
+    - Pravidlo 82ter Oprava chýb prijímacieho úradu alebo Medzinárodného úradu
 
-      - 82ter.1 Chyby v dátume medzinárodného podania a v dátume uplatňovanej priority
+      - 82ter.1 Chyby v dátume medzinárodného podania a v dátume uplatnenej priority
 
-      - Ak prihlasovateľ určenému alebo zvolenému úradu uspokojivo preukáže, že dátum medzinárodného podania nie je správny v dôsledku chyby prijímacieho úradu alebo že prijímací úrad alebo Medzinárodný úrad chybne považoval uplatnenie priority za nevykonané, a ak ide o takú chybu, ktorú by určený alebo zvolený úrad sám opravil podľa národnej legislatívy alebo národnej praxe, keby sa jej dopustil, uvedený úrad túto chybu opraví a bude považovať medzinárodnú prihlášku, akoby jej bol priznaný opravený dátum medzinárodného podania alebo akoby sa uplatnenie priority nepovažovalo za nevykonané.
+        - (a) Ak prihlasovateľ určenému alebo zvolenému úradu uspokojivo dokáže, že dátum medzinárodného podania je nesprávny v dôsledku chyby prijímacieho úradu alebo že prijímací úrad alebo Medzinárodný úrad mylne považoval uplatnenie priority za nevykonané, a ak ide o takúto chybu, ktorú by určený alebo zvolený úrad sám opravil podľa národného zákonodarstva alebo národnej praxe, keby sa jej dopustil, tak uvedený úrad chybu opraví a koná o medzinárodnej prihláške, ako keby sa jej priznal opravený dátum medzinárodného podania alebo ako keby sa uplatnenie priority nepovažovalo za neplatné.
+
+        - (b) Ak prijímací úrad udelil dátum medzinárodného podania podľa pravidla 20.3(b)(ii) alebo 20.5(d) na základe včlenenia prvkov alebo častí odkazom podľa pravidiel 4.18 a 20.6, ale určený alebo zvolený úrad zistí, že
+
+          - (i) prihlasovateľ nesplnil pravidlá 17.1(a), (b) alebo (b-bis) vo vzťahu k prioritnému dokladu,
+
+          - (ii) neboli splnené požiadavky podľa pravidiel 4.18, 20.6(a)(i) alebo 51bis.1(e)(ii) alebo
+
+          - (iii) prvky alebo časti prihlášky nie sú úplne obsiahnuté v príslušnom prioritnom doklade,
+
+          - určený alebo zvolený úrad môže s výhradou odseku (c) nakladať s medzinárodnou prihláškou, ako keby dátum medzinárodného podania bol pridelený podľa pravidla 20.3(b)(i) alebo 20.5(b) alebo opravený podľa pravidla 20.5(c), podľa toho, čo sa vyžaduje, za predpokladu, že pravidlo 17.1(c) sa použije mutatis mutandis.
+
+        - (c) Určený alebo zvolený úrad nebude konať o medzinárodnej prihláške podľa odseku (b), ak sa dátum medzinárodného podania pridelil podľa pravidla 20.3(b)(i) alebo 20.5(b) alebo bol opravený podľa pravidla 20.5(c) bez toho, aby nedal možnosť prihlasovateľovi vyjadriť sa k zamýšľanému konaniu alebo podať žiadosť podľa odseku (d) v lehote primeranej okolnostiam.
+
+        - (d) Ak určený alebo zvolený úrad v súlade s odsekom (c) oznámil prihlasovateľovi, že zamýšľa konať o medzinárodnej prihláške, ako keby dátum medzinárodného podania bol opravený podľa pravidla 20.5(c), prihlasovateľ môže v oznámení predloženom tomuto úradu v lehote stanovenej podľa odseku (c) požiadať, aby sa chýbajúca časť považovala za nepredloženú na účely národného konania v tomto úrade, vtedy sa uvedená časť nepovažuje za predloženú a úrad koná o medzinárodnej prihláške, ako keby nemala opravený dátum medzinárodného podania.
 
     - PRAVIDLO 83 PRÁVO VYSTUPOVAŤ PRED MEDZINÁRODNÝMI ORGÁNMI
 
@@ -3100,47 +3328,65 @@
 
         - (b) Oznámenie podľa odseku (a) musí Medzinárodný úrad ihneď zverejniť vo Vestníku a bude platiť pre medzinárodné prihlášky podané viac ako jeden mesiac po dátume tohto zverejnenia.
 
-    - Pravidlo 91 Zjavné omyly v dokumentoch
+    - Pravidlo 91 Oprava zjavných chýb v medzinárodnej prihláške a iných dokumentoch
 
-      - 91.1. Oprava
+      - 91.1 Oprava zjavných chýb
 
-        - (a) S výhradou ustanovenia odseku (a) až (g-quater) možno zjavné omyly v medzinárodnej prihláške alebo iných listinách predložených prihlasovateľom napraviť.
+        - (a) Zjavná chyba v medzinárodnej prihláške alebo inom dokumente, ktorý predložil prihlasovateľ, sa môže opraviť v súlade s týmto pravidlom, ak prihlasovateľ o to požiada.
 
-        - (b) Omyly vyplývajúce z toho, že v medzinárodnej prihláške alebo v inej písomnosti sa napísalo niečo, čo sa zrejme nazamýšľalo, sa považujú za zjavné omyly. Aj ich náprava musí byť zrejmá v tom zmysle, že každý hneď pozná, že sa nemohlo zamýšlať nič iné, než to, čo sa predkladá ako náprava.
+        - (b) Opravu chyby s výhradou autorizácie musí vykonať „kompetentný orgán", t. j.
 
-        - (c) Vynechanie celých častí alebo celých listov medzinárodnej prihlášky, aj keď je zrejme dôsledkom nepozornosti, napríklad v štádiu kopírovania alebo kompletizovania listov, nemožno napraviť.
+          - (i) v prípade chyby v časti žiadosti medzinárodnej prihlášky alebo v jej oprave – prijímací úrad,
 
-        - (d) Oprava sa môže uskutočniť na žiadosť prihlasovateľa. Orgán, ktorý zistil zjavný omyl, môže vyzvať prihlasovateľa, aby podal žiadosť o opravu podľa odsekov (e) až (g-quater). Pravidlo 26.4 platí mutatis mutandis aj pre žiadosť o opravu.
+          - (ii) v prípade chyby v opise, nárokoch alebo vo výkresoch alebo v ich oprave alebo ak orgán pre medzinárodný predbežný prieskum nie je kompetentný podľa bodu (iii) – orgán pre medzinárodnú rešerš,
 
-        - (e) Žiadna oprava sa nevykoná bez výslovného oprávnenia
+          - (iii) v prípade chyby v opise, nárokoch alebo vo výkresoch alebo v ich oprave alebo v zmenách podľa článku 19 alebo 34, ak sa podala žiadosť o medzinárodný predbežný prieskum a nebola vzatá späť ku dňu začatia medzinárodného predbežného prieskumu v súlade s pravidlom 69.1 – orgán pre medzinárodný predbežný prieskum,
 
-          - (i) prijímacieho úradu, ak ide o omyl v žiadosti;
+          - (iv) v prípade chyby v dokumente, ktorý nie je uvedený v bodoch (i) až (iii) predložených prijímaciemu úradu, orgánu pre medzinárodnú rešerš, orgánu pre medzinárodný predbežný prieskum alebo Medzinárodnému úradu, inej než chyby v anotácii alebo v zmenách podľa článku 19 – týmto úradom, orgánom alebo Medzinárodným úradom, podľa okolností.
 
-          - (ii) orgánu pre medzinárodnú rešerš, ak ide o omyl v inej časti medzinárodnej prihlášky, než je žiadosť, alebo v iných písomnostiach predložených tomuto orgánu;
+        - (c) Kompetentný orgán musí autorizovať opravu chyby podľa tohto pravidla iba vtedy, ak je kompetentnému orgánu zrejmé, že v príslušnom čase podľa odseku (f) sa ešte niečo plánovalo, než čo sa objavuje v príslušnom dokumente, a že nič iné ako navrhovaná oprava by nemohlo byť plánované.
 
-          - (iii) orgánu pre medzinárodný predbežný prieskum, ak ide o chyby v ktorejkoľvek časti medzinárodnej prihlášky, okrem žiadosti, alebo v ktorejkoľvek písomnosti predloženej tomuto orgánu
+        - (d) V prípade chyby v opise, nárokoch alebo vo výkresoch alebo v oprave alebo ich zmene kompetentný orgán musí na účely odseku (c) vziať do úvahy iba obsah opisu, nárokov a výkresov a prípadne opravu alebo príslušnú zmenu.
 
-          - (iv) Medzinárodného úradu, ak ide o chybu v inej písomnosti predloženej tomuto úradu, než je medzinárodná prihláška alebo jej úpravy a opravy.
+        - (e) V prípade chyby v časti žiadosti medzinárodnej prihlášky alebo jej opravy alebo v dokumente uvedenom v odseku (b)(iv) kompetentný orgán musí na účely odseku (c) vziať do úvahy iba obsah samotnej medzinárodnej prihlášky a prípadne príslušnú opravu alebo dokument uvedený v odseku (b)(iv) spolu s akýmkoľvek iným dokumentom predloženým so žiadosťou, opravu alebo dokument, prípadne každý prioritný doklad vzťahujúci sa na medzinárodnú prihlášku, ktorá je dostupná orgánu v súlade s administratívnymi smernicami, a každý iný dokument obsiahnutý v spise medzinárodnej prihlášky, ktorý má orgán v príslušnom čase podľa odseku (f).
 
-        - (f) Orgán, ktorý schváli alebo zamietne nápravu, to bez odkladu oznámi prihlasovateľovi a v prípade odmietnutia uvedie dôvody. Orgán, ktorý nápravu schváli, to bez odkladu oznámi Medzinárodnému úradu. Ak došlo k odmietnutiu nápravy, Medzinárodný úrad zverejní žiadosť o nápravu spolu s medzinárodnou prihláškou na žiadosť prihlasovateľa, podanú v rozhodnom období podľa odsekov (g-bis), (g-ter) a (g-quarter), za predpokladu, že zaplatí osobitný poplatok, ktorého výšku určujú administratívne smernice. Kópia žiadosti o nápravu sa priloží k postúpeniu podľa článku 20, ak sa medzinárodná prihláška nezverejňuje na základe článku 64(3).
+        - (f) Príslušný čas na účely odsekov (c) a (e) bude
 
-        - (g) Schválenie nápravy podľa odseku (e) je účinné s výhradou odsekov (g-bis), (g-ter) a (g-quater):
+          - (i) v prípade chyby v časti medzinárodnej prihlášky k dátumu podania – dátum medzinárodného podania,
 
-          - (i) tam, kde ho udeľuje prijímací úrad alebo orgán pre medzinárodnú rešerš v tom prípade, že oznámenie o schválení nápravy určené Medzinárodnému úradu, dôjde tomuto úradu pred uplynutím 17 mesiacov od dátumu priority;
+          - (ii) v prípade chyby v dokumente inom než medzinárodná prihláška k dátumu podania vrátane chyby v oprave alebo zmene medzinárodnej prihlášky – dátum predloženia dokumentu.
+
+        - (g) Chyba nebude opraviteľná podľa tohto pravidla, ak
+
+          - (i) sa chyba týka vypustenia jedného prvku alebo viacerých prvkov medzinárodnej prihlášky uvedených v článku 3(2) alebo jedného celého listu alebo viacerých celých listov medzinárodnej prihlášky,
 
           - (ii) tam, kde ho udeľuje orgán pre medzinárodný predbežný prieskum v prípade, že sa udelilo pred spracovaním správy o medzinárodnom predbežnom prieskume;
 
           - (iii) tam, kde ho udeľuje Medzinárodný úrad v prípade, že sa udelilo pred uplynutím 17 mesiacov od dátumu priority.
 
-        - (g-bis) Ak oznámenie podľa odseku (g) (i) dôjde Medzinárodnému úradu alebo ak nápravu podľa odseku (g) (iii) Medzinárodný úrad schválil po uplynutí 17 mesiacov od dátumu priority, ale pred dokončením technických príprav medzinárodného zverejnenia, schválenie je účinné a náprava sa včlení do príslušného zverejnenia.
+        - (h) Ak prijímací úrad, orgán pre medzinárodnú rešerš, orgán pre medzinárodný predbežný prieskum zistí, čo sa zdá ako opraviteľná zjavná chyba v medzinárodnej prihláške alebo inom dokumente, môže vyzvať prihlasovateľa, aby požiadal o opravu podľa tohto pravidla.
 
-        - (g-ter) Ak prihlasovateľ požiadal Medzinárodný úrad, aby zverejnil jeho medzinárodnú prihlášku pred uplynutím 18 mesiacov od dátumu priority, musí oznámenie podľa odseku (g) (i) dôjsť Medzinárodnému úradu a Medzinárodný úrad musí schváliť nápravu podľa odseku (g) (iii) najneskôr do dokončenia technických príprav medzinárodného zverejnenia ak má byť schválenie nápravy účinné.
+      - 91.2 Žiadosti o opravu
 
-        - (g-quater) Ak sa medzinárodná prihláška nezverejňuje podľa článku 64 (3), musí označenie podľa odseku (g) (i) dôjsť Medzinárodnému úradu a Medzinárodný úrad musí schváliť nápravu podľa odseku (g) (ii) najneskôr do postúpenia medzinárodnej prihlášky podľa článku 20, ak má byť schválenie nápravy účinné.
+        - Žiadosť o opravu podľa pravidla 91.1 sa predloží kompetentnému orgánu do 26 mesiacov od dátumu priority. Žiadosť musí špecifikovať chybu, ktorá sa má opraviť, a navrhovať opravu a môže, podľa voľby prihlasovateľa, obsahovať aj stručné vysvetlenie. Pravidlo 26.4 sa použije muatis mutandis k navrhovanému spôsobu opravy, ktorý sa musí uviesť.
 
-        - (h) zrušené
+      - 91.3 Autorizácia a účinok opravy
 
-      - 91.2 zrušené
+        - (a) Kompetentný orgán musí ihneď rozhodnúť, či autorizuje alebo zamietne autorizáciu opravy podľa pravidla 91.1 a ihneď oznámiť prihlasovateľovi a Medzinárodnému úradu autorizáciu alebo zamietnutie a v prípade zamietnutia jeho dôvod. Medzinárodný úrad musí postupovať podľa administratívnych smerníc vrátane oznámenia podľa potreby, prijímaciemu úradu, orgánu pre medzinárodnú rešerš, orgánu pre medzinárodný predbežný prieskum a určeným a zvoleným úradom autorizáciu alebo zamietnutie.
+
+        - (b) Ak sa oprava zjavnej chyby autorizovala podľa pravidla 91.1, príslušný dokument sa musí opraviť v súlade s administratívnymi smernicami.
+
+        - (c) Ak sa autorizovala oprava zjavnej chyby, tak bude účinná
+
+          - (i) v prípade medzinárodnej prihlášky tak, ako bola podaná, k dátumu medzinárodného podania,
+
+          - (ii) v prípade chyby v inom dokumente ako medzinárodnej prihláške, tak ako bola podaná, vrátane chyby v oprave alebo zmene medzinárodnej prihlášky, k dátumu predloženia dokumentu.
+
+        - (d) Ak kompetentný orgán odmietne autorizáciu opravy podľa pravidla 91.1, Medzinárodný úrad musí na základe jemu predloženej žiadosti prihlasovateľom v lehote dvoch mesiacov od dátumu odmietnutia a s výhradou zaplatenia zvláštneho poplatku, ktorého výšku fixne stanovia v administratívne smernice, zverejniť žiadosť o opravu, dôvod zamietnutia autorizácie a všetky ďalšie stručné pripomienky, ktoré prihlasovateľ môže predložiť, ak je to možné, spolu s medzinárodnou prihláškou. Kópiu žiadosti, dôvody a pripomienky (ak nejaké sú), sa musia, ak je to možné, zahrnúť do postúpenia podľa článku 20, ak medzinárodná prihláška nebola zverejnená s účinkom podľa článku 64.3.
+
+        - (e) Opravu zrejmej chyby nemusí vziať do úvahy žiadny určený úrad, v ktorom sa konanie alebo prieskum medzinárodnej prihlášky začal už pred dátumom oznámenia úradu podľa pravidla 91.3(a) o autorizácii opravy kompetentným orgánom.
+
+        - (f) Určený úrad nemusí vziať do úvahy opravu, ktorá bola oprávnená podľa pravidla 91.1, len ak zistí, že by nedovolil vykonanie opravy podľa pravidla 91.1, ak by bol kompetentným orgánom, za predpokladu, že žiaden určený úrad nezamietne opravu oprávnenú podľa pravidla 91.1 bez toho, aby dal príležitosť prihlasovateľovi vyjadriť sa v lehote primeranej okolnostiam k úmyslu úradu, že nebude brať opravu do úvahy.
 
     - PRAVIDLO 92 KOREŠPONDENCIA
 
