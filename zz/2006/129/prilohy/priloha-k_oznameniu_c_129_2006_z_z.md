@@ -1582,29 +1582,21 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Americké Panenské ostrovy | bez určenia orgánu
 
-      - Srbsko a Čierna Hora
+      - Srbská republika
 
-  - 1. Ministerstvo spravodlivosti a miestnej samosprávy Srbskej republiky
+    - Sukcesiu do dohovoru deklarovala Srbská republika vyhlásením z 9. júna 2006.
 
-    - Belehrad, ulica Nemanjina 22
+    - Ministerstvo spravodlivosti Srbskej republiky
 
-    - tel./fax: + 381 11 361 287
+    - Nemanjina 22-26
 
-    - kontaktná osoba: pán Milisav Coguri, vedúci odboru medzinárodnej právnej pomoci
+    - 11000 Belehrad
 
-  - 2. Ministerstvo spravodlivosti Republiky Čierna Hora
+    - Srbsko
 
-    - Sekcia súdnictva
+    - Tel.: + 381 11 3620540/+381 11 3620596
 
-    - Podgorica, ulica Vuka Karadžiča 3
-
-    - tel./fax: +381 081 248 541
-
-    - kontaktná osoba: pani Vesna Ratkovi, zástupkyňa ministra spravodlivosti pre súdne záležitosti Republiky Čierna Hora
-
-    - tel./fax: + 381 081 248 531, e-mail: vesnarat@cg.yu
-
-  - 3. mestské súdy (súdy prvého stupňa)
+    - Fax: +381 11 3620540
 
     - Sv. Kitts a Nevis
 
