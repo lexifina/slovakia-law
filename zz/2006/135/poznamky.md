@@ -28,4 +28,6 @@
 
 - 13) Napríklad § 13 ods. 3 až 5, § 106 zákona č. 725/2004 Z. z.
 
+- 14) § 5 ods. 5 a 20, § 6 ods. 5 a 10 a § 7 ods. 6 a 13 zákona č. 725/2004 Z. z.
+
 - 1) Nariadenie vlády Slovenskej republiky č. 394/2005 Z. z. o technických požiadavkách na povinné štítky a nápisy, ich umiestnenie a spôsob pripevnenia na motorových vozidlách a ich prípojných vozidlách.
