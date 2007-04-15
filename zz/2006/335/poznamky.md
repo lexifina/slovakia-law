@@ -25,3 +25,5 @@
 - 11) § 13 ods. 6 zákona č. 725/2004 Z. z.
 
 - 12) Dohovor o Organizácii pre hospodársku spoluprácu a rozvoj (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 141/2001 Z. z.).
+
+- 13) § 5 ods. 5 a 20, § 6 ods. 5 a 10 a § 7 ods. 6 a 13 zákona č. 725/2004 Z. z.
