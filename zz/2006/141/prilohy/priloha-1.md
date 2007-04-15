@@ -2,4 +2,6 @@ Príloha k nariadeniu vlády č. 141/2006 Z. z.
 
 ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
 
-Smernica Rady 74/483/EHS zo 17. septembra 1974 o aproximácii právnych predpisov členských štátov o vonkajších výčnelkoch motorových vozidiel (Ú. v. ES L 266, 2. 10. 1974) v znení smernice Komisie 79/488/EHS (Ú. v. ES L 128, 26. 5. 1979), smernice Rady 87/354/EHS (Ú. v. ES L 192, 11. 7. 1987) a v znení Aktu o podmienkach pristúpenia Slovenskej republiky pripojeného k Zmluve o pristúpení k Európskej únii, prílohy II (Ú. v. EÚ L 236, 23. 9. 2003).
+1. Smernica Rady 74/483/EHS zo 17. septembra 1974 o aproximácii právnych predpisov členských štátov o vonkajších výčnelkoch motorových vozidiel (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 2.) v znení smernice Komisie 79/488/EHS z 18. apríla 1979 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 5.), smernice Rady 87/354/EHS z 25. júna 1987 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 8.) a v znení Aktu o podmienkach pristúpenia Slovenskej republiky pripojeného k Zmluve o pristúpení k Európskej únii, prílohy II (Ú. v. EÚ L 236, 23. 9. 2003).
+
+2. Smernica Rady 2006/96/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 363, 20. 12. 2006).
