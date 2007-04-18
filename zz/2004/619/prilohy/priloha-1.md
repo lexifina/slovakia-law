@@ -36,31 +36,21 @@ K oznámeniu č. 619/2004 Z. z.
 
     - Článok 2 Ciele
 
-      - 1. Cieľom Europolu je v rámci spolupráce medzi členskými štátmi podľa článku K.1 ods. 9 Zmluvy o Európskej únii zlepšovať prostredníctvom opatrení uvedených v tomto dohovore účinnosť a spoluprácu príslušných orgánov členských štátov v oblasti prevencie a boja proti terorizmu, nedovolenému obchodovaniu s omamnými látkami, psychotropnými látkami a určenými látkami a iných závažných foriem medzinárodného zločinu v prípadoch, ak existujú konkrétne náznaky, že ide o činnosť organizovanej zločineckej štruktúry a uvedené zločiny postihujú dva členské štáty alebo viac členských štátov spôsobom, ktorý si vyžaduje spoločný postup členských štátov vzhľadom na rozsah, dôležitosť a dôsledky príslušných trestných činov.
+      - 1. Cieľom Europolu je v rámci policajnej spolupráce medzi členskými štátmi podľa Zmluvy o Európskej únii zlepšovať prostredníctvom opatrení uvedených v tomto dohovore účinnosť a spoluprácu príslušných orgánov členských štátov v oblasti predchádzania závažným zločinom a boja proti nim v prípadoch, ak existujú konkrétne náznaky alebo dostatočné dôvody domnievať sa, že ide o činnosť organizovanej zločineckej štruktúry a uvedené zločiny postihujú dva alebo viac členských štátov spôsobom, ktorý si vyžaduje spoločný postup členských štátov vzhľadom na rozsah, dôležitosť a dôsledky príslušných trestných činov. Na účel tohto dohovoru sa za závažné medzinárodné zločiny považujú tieto formy zločinu: spáchané trestné činy alebo trestné činy, ktoré by mohli byť spáchané v oblasti terorizmu ohrozujúceho život, spravodlivosť, osobnú slobodu alebo vlastníctvo, nedovolené obchodovanie s omamnými, psychotropnými a určenými látkami, nezákonná činnosť súvisiaca s legalizáciou príjmov z trestnej činnosti, obchodovanie s jadrovými a rádioaktívnymi látkami, ilegálne prevádzanie imigrantov, obchodovanie s ľuďmi, krádeže motorových vozidiel a formy zločinu uvedené v prílohe alebo ich špecifické prejavy.
 
-      - 2. V snahe postupne dosiahnuť cieľ uvedený v článku 1 bude Europol predchádzať nedovolenému obchodovaniu s omamnými látkami, psychotropnými látkami a určenými látkami, obchodovaniu s jadrovými a rádioaktívnymi látkami, ilegálnemu prevádzaniu imigrantov, obchodovaniu s ľuďmi a krádežiam motorových vozidiel a potláčať ich.
+      - 2. Na návrh správnej rady Rada jednomyseľne ustanovuje priority Europolu v oblasti boja proti formám závažných medzinárodných zločinov, ktoré patria do mandátu Europolu, ako aj ich predchádzania.
 
-      - Na účel postupného dosiahnutia cieľa uvedeného v odseku 1 bude Europol iniciatívne konať v oblasti prevencie a boja proti nedovolenému obchodovaniu s omamnými látkami, psychotropnými látkami a určenými látkami, legalizácii príjmov z trestnej činnosti, nedovolenému obchodovaniu s jadrovými a rádioaktívnymi látkami, nedovolenému pašovaniu migrantov, obchodovaniu s ľuďmi a trestnej činnosti s motorovými vozidlami.
+      - 3. Do pôsobnosti Europolu, ak ide o formu trestnej činnosti alebo jej špecifické prejavy, patria aj súvisiace trestné činy. Nezahŕňajú však trestné činy súvisiace s legalizáciou príjmov z trestnej činnosti, pri ktorých ide o formy trestnej činnosti, ktoré podľa odseku 1 nepatria do pôsobnosti Europolu.
 
-      - Rada v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii môže jednomyseľne rozhodnúť a dať príkaz Europolu, aby sa zaoberal aj inými formami zločinu, ako sú uvedené v prílohe tohto dohovoru, alebo ich špecifickými prejavmi. Pred rozhodnutím Rada poveruje správnu radu, aby pripravila svoje rozhodnutie, a najmä aby ustanovila rozpočtové a personálne dôsledky pre Europol.
+      - Za súvisiace trestné činy sa považuje také konanie, ktoré sa zohľadňuje podľa postupov ustanovených v článkoch 8 a 10:
 
-      - 3. Do pôsobnosti Europolu, ak ide o formy kriminality alebo ich špecifických prejavov, patrí
+      - - trestné činy spáchané s cieľom získavať prostriedky na páchanie trestných činov v oblasti pôsobnosti Europolu,
 
-        - 1) Kompetencia Europolu, ak ide o druh trestného činu alebo jeho špecifické prejavy, bude zahŕňať súvisiace trestné činy. Nebude však zahŕňať trestné činy zakladajúce sa na legalizácii príjmov z trestnej činnosti, ktoré nepatria do kompetencie Europolu podľa odseku 2,
+      - - trestné činy spáchané s cieľom uľahčovať alebo uskutočňovať trestné činy v oblasti pôsobnosti Europolu,
 
-        - 2) súvisiace trestné činy.
+      - - trestné činy spáchané na zabezpečovanie beztrestnosti trestných činov, ktoré patria do pôsobnosti Europolu.
 
-        - Za súvisiace trestné činy sa považuje konanie, ktoré sa zohľadňuje v súlade s postupmi ustanovenými v článkoch 8 a 10:
-
-        - - trestné činy spáchané s cieľom získavať prostriedky na páchanie trestných činov v oblasti pôsobnosti Europolu,
-
-        - - trestné činy spáchané s cieľom uľahčovať alebo uskutočňovať trestné činy v oblasti pôsobnosti Europolu,
-
-        - - trestné činy spáchané na zabezpečovanie beztrestnosti trestných činov, ktoré patria do pôsobnosti Europolu.
-
-      - 4. Na účely tohto dohovoru „príslušné orgány“ sú všetky štátne orgány v členských štátoch, ktoré sú podľa vnútroštátnych právnych predpisov zodpovedné za prevenciu a boj proti trestnými činom.
-
-      - 5. Na účely článkov 1 a 2 „nedovolené obchodovanie s omamnými látkami, psychotropnými látkami a určenými látkami“ sú trestné činy uvedené v článku 3 ods. 1 Dohovoru Organizácie Spojených národov z 20. decembra 1988 proti nedovolenému obchodu s omamnými a psychotropnými látkami a v ustanoveniach, ktoré menia a dopĺňajú alebo nahrádzajú uvedený dohovor.
+      - 4. Na účely tohto dohovoru „príslušné orgány" sú všetky štátne orgány členských štátov, ktoré sú podľa vnútroštátnych právnych predpisov zodpovedné za predchádzanie trestným činom a boj proti nim.
 
     - Článok 3 Úlohy
 
@@ -88,15 +78,17 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 3) pripravuje súhrnné správy o situácii.
 
-      - 3. Okrem toho môže Europol v rámci svojich cieľov podľa článku 2 ods. 1, v súlade so svojimi personálnymi a rozpočtovými možnosťami a v medziach určených správnou radou, pomáhať členským štátom prostredníctvom poradenstva a výskumu v týchto oblastiach:
+      - 3. Okrem toho môže Europol v rámci svojich cieľov podľa článku 2 ods. 1 v súlade so svojimi personálnymi a rozpočtovými možnosťami a v medziach určených správnou radou poskytovať pomoc členským štátom prostredníctvom poradenstva a výskumu v týchto oblastiach:
 
         - 1) školenia členov príslušných orgánov,
 
         - 2) organizácia a technické vybavenie týchto orgánov,
 
-        - 3) metódy prevencie kriminality,
+        - 3) metódy predchádzania kriminalite,
 
         - 4) technické a kriminalisticko-vedecké policajné metódy a vyšetrovacie postupy.
+
+      - 4. Bez toho, aby bol dotknutý Dohovor o predchádzaní falšovaniu peňazí podpísaný v Ženeve 20. apríla 1929 a Protokol k nemu, Europol má taktiež funkciu kontaktného miesta Európskej únie pri kontaktoch s tretími štátmi a organizáciami pre boj proti falšovanej mene euro.
 
     - Článok 3a Účasť v spoločných vyšetrovacích tímoch
 
@@ -130,7 +122,9 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 1. Každý členský štát zriadi alebo vymenuje národnú ústredňu na plnenie úloh uvedených v tomto článku.
 
-      - 2. Národná ústredňa je jediným styčným orgánom medzi Europolom a príslušnými orgánmi jednotlivých krajín. Vzťahy medzi národnou ústredňou a príslušnými orgánmi sa riadia vnútroštátnymi právnymi predpismi jednotlivých krajín a najmä príslušnými ústavnými predpismi.
+      - 2. Národná ústredňa je jediným styčným orgánom medzi Europolom a príslušnými národnými orgánmi. Členské štáty však môžu povoliť priame kontakty medzi určenými príslušnými orgánmi a Europolom s výhradou podmienok určených dotknutým členským štátom vrátane predchádzajúceho zapojenia národnej ústredne.
+
+      - Národná ústredňa zároveň dostáva od Europolu všetky informácie zmenené v rámci priamych kontaktov medzi Europolom a určenými národnými orgánmi. Vzťahy medzi národnou ústredňou a príslušnými orgánmi sa riadia vnútroštátnymi právnymi predpismi a najmä príslušnými ústavnými predpismi.
 
       - 3. Členské štáty prijmú potrebné opatrenia, ktoré umožňujú národným ústredniam plniť si svoje úlohy a najmä umožňujú prístup k príslušným vnútroštátnym údajom.
 
@@ -150,7 +144,7 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 7) pri každej výmene informácií medzi nimi a Europolom zabezpečujú súlad s právom.
 
-      - 5. Bez toho, aby bola dotknutá zodpovednosť členských štátov, ako je určená v článku K.2 ods. 2 Zmluvy o Európskej únii, národná ústredňa nie je povinná v jednotlivých prípadoch poskytovať informácie a správy ustanovené v článku 4 bodoch 1), 2) a 6) a v článkoch 7 a 10, ak by išlo o
+      - 5. Bez toho, aby bola dotknutá zodpovednosť členských štátov, so zreteľom na udržiavanie verejného poriadku a ochranu vnútornej bezpečnosti, národná ústredňa nie je povinná v jednotlivých prípadoch poskytovať informácie a správy ustanovené v článku 4 bodoch 1), 2) a 6) a v článkoch 7 a 10, ak by išlo o
 
         - 1) poškodenie základných národných bezpečnostných záujmov alebo
 
@@ -160,7 +154,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 6. Komunikačné náklady národných ústrední znášajú členské štáty okrem nákladov za pripojenie.
 
-      - 7. Vedúci národných ústrední sa stretávajú podľa potreby s cieľom poskytovať Europolu pomoc prostredníctvom poradenstva.
+      - 7. Vedúci národných ústrední sa stretávajú pravidelne s cieľom poskytovať Europolu pomoc prostredníctvom poradenstva, a to z vlastnej iniciatívy alebo na základe žiadosti.
 
     - Článok 5 Styční dôstojníci
 
@@ -199,6 +193,12 @@ K oznámeniu č. 619/2004 Z. z.
         - 3) indexový systém obsahujúci určité údaje z analyzovaných súborov uvedených v bode 2), v súlade s opatreniami ustanovenými v článku 11.
 
       - 2. Počítačový systém na zhromažďovanie informácií vedený Europolom nesmie byť za žiadnych okolností pripojený k inému automatizovanému systému okrem automatizovaných systémov národných ústrední.
+
+    - Článok 6a Spracovanie informácií Europolom
+
+      - Europol môže v rámci podpory vykonávania svojich úloh spracúvať aj údaje s cieľom určiť, či sú podstatné pre jeho úlohy a či môžu byť začlenené do automatizovaného systému zberu informácií uvedeného v článku 6 ods. 1.
+
+      - Zmluvné strany na zasadnutí v Rade určujú dvojtretinovou väčšinou podmienky spracovania takých údajov, najmä ak ide o prístup k údajom a ich využívanie, ako aj o lehoty ich uchovávania a vymazávania, ktoré nesmú prekročiť lehotu šiestich mesiacov, pričom sa riadne zohľadnia zásady uvedené v článku 14. Správna rada pripravuje rozhodnutie zmluvných strán a konzultuje ho v spoločnom dozornom orgáne uvedenom v článku 24.
 
   - HLAVA II INFORMAČNÝ SYSTÉM
 
@@ -258,17 +258,21 @@ K oznámeniu č. 619/2004 Z. z.
 
     - Článok 9 Právo na prístup do informačného systému
 
-      - 1. Právo vkladať údaje priamo do informačného systému a vyhľadávať ich majú len národné ústredne, styční dôstojníci, riaditeľ, zástupcovia riaditeľa alebo riadne splnomocnení úradníci Europolu. Údaje sa môžu vyhľadávať, ak je to v konkrétnom prípade potrebné na plnenie úloh Europolu; vyhľadávanie sa uskutoční v súlade so zákonmi, s inými predpismi, administratívnymi opatreniami a postupmi vyhľadávajúcej ústredne podľa dodatočných ustanovení v tomto dohovore.
+      - 1. Národné ústredne, styční dôstojníci, riaditeľ, zástupcovia riaditeľa alebo riadne splnomocnení úradníci Europolu majú právo vkladať údaje priamo do informačného systému a vyhľadávať ich v ňom. Údaje sa môžu vyhľadávať, ak je to v konkrétnom prípade potrebné na plnenie úloh Europolu; vyhľadávanie sa uskutoční v súlade so zákonmi, s inými predpismi, administratívnymi opatreniami a postupmi vyhľadávajúcej ústredne podľa dodatočných ustanovení v tomto dohovore.
 
       - 2. Údaje môže meniť, opravovať alebo vymazávať len ústredňa, ktorá tieto údaje do informačného systému vkladala. Ak sa iná ústredňa domnieva, že údaje uvedené v článku 8 ods. 2 sú nesprávne alebo si želá ich doplniť, ihneď informuje ústredňu, ktorá tieto údaje vkladala; táto ústredňa bezodkladne preverí takéto oznámenie a ak je to potrebné, okamžite tieto údaje zmení, opraví alebo vymaže. Ak sa údaje podľa článku 8 ods. 3 týkajú osoby, každá ústredňa môže vkladať dodatočné údaje podľa 8 ods. 3. Ak dôjde k zrejmému rozporu medzi vloženými údajmi, príslušné ústredne sa po vzájomnej konzultácii dohodnú. Ak má ústredňa v úmysle vymazať všetky údaje podľa článku. 8 ods. 2 týkajúce sa osoby a iné ústredne vložili v súvislosti s touto osobou do systému údaje podľa článku 8 ods. 3, prechádza právna zodpovednosť za ochranu údajov podľa článku 15 ods. 1, ako aj právo meniť, dopĺňať, opravovať a vymazávať tieto údaje podľa článku 8 ods. 2 na ústredňu, ktorá ako ďalšia vložila údaje o tejto osobe podľa článku 8 ods. 3. Ústredňa, ktorá má v úmysle vymazať svoje údaje, o tom informuje ústredňu, na ktorú prechádza právna zodpovednosť za ochranu údajov.
 
       - 3. Zodpovednosť za možnosť vyhľadávania, vkladania alebo zmeny v rámci informačného systému nesie ústredňa, ktorá vyhľadáva, vkladá alebo mení údaje; musí byť možné zistiť totožnosť tejto ústredne. Prenos informácií medzi národnými ústredňami a príslušnými orgánmi v členských štátoch sa riadi vnútroštátnymi právnymi predpismi.
 
+      - 4. Okrem národných ústrední a osôb uvedených v odseku 1 môžu v informačnom systéme Europolu zadávať dopyty príslušné orgány vymenované na túto úlohu členskými štátmi. Výsledok dopytu však bude uvádzať len to, či sú požadované informácie dostupné v informačnom systéme Europolu. Ďalšie informácie sa potom môžu získať prostredníctvom národnej ústredne Europolu.
+
+      - Informácie týkajúce sa vymenovaných príslušných orgánov vrátane neskorších úprav sa poskytnú generálnemu sekretariátu Rady, ktorý informáciu uverejní v Úradnom vestníku Európskej únie.
+
   - HLAVA III PRACOVNÉ SÚBORY NA ANALYTICKÉ ÚČELY
 
     - Článok 10 Zber, spracovávanie a používanie osobných údajov
 
-      - 1. Ak je to potrebné na plnenie cieľov ustanovených v článku 2 ods. 1, Europol môže okrem údajov neosobného charakteru ukladať, meniť a používať v iných dátových súboroch údaje o trestných činoch, ktoré patria do pôsobnosti Europolu podľa článku 2 ods. 2, vrátane údajov o súvisiacich trestných činoch uvedených v článku 2 ods. 3 bode 2), ktoré sú určené na špecifickú analýzu a týkajú sa
+      - 1. Ak je to potrebné na plnenie cieľov ustanovených v článku 2 ods. 1, Europol môže okrem údajov neosobného charakteru ukladať, meniť a používať v iných súboroch údaje o trestných činoch, ktoré patria do pôsobnosti Europolu, vrátane údajov o súvisiacich trestných činoch uvedených v druhom pododseku článku 2 ods. 3, ktoré sú určené na špecifickú analýzu a týkajú sa
 
         - 1) osôb uvedených v článku 8 ods. 1,
 
@@ -282,13 +286,15 @@ K oznámeniu č. 619/2004 Z. z.
 
         - Zber, ukladanie a spracovávanie údajov uvedených v prvej vete článku 6 Dohovoru Rady Európy z 28. januára 1981 týkajúceho sa automatizovaného spracovávania osobných údajov nie je povolené, ak nie je nevyhnutne potrebné na účely príslušných súborov a ak takéto údaje nedopĺňajú iné osobné údaje, ktoré sa už v súbore nachádzajú. Je zakázané vybrať určitú skupinu osôb iba na základe údajov uvedených v prvej vete článku 6 Dohovoru Rady Európy z 28. januára 1981 pri porušení uvedených účelových ustanovení.
 
-        - Rada jednomyseľne a v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii prijíma vykonávacie predpisy pre súbory údajov, ktoré pripravila správna rada a ktoré obsahujú dodatočné podrobnosti najmä o kategóriách osobných údajov uvedených v tomto článku a ustanoveniach týkajúcich sa bezpečnosti príslušných údajov a vnútornej kontroly ich používania.
+        - Rada jednomyseľne prijíma vykonávacie predpisy pre súbory údajov, ktoré pripravila správna rada a ktoré obsahujú dodatočné podrobnosti najmä o kategóriách osobných údajov uvedených v tomto článku a ustanoveniach týkajúcich sa bezpečnosti príslušných údajov a vnútornej kontroly ich používania.
 
       - 2. Takéto súbory sa vytvoria na účely analýzy vymedzenej ako zber, spracovanie alebo používanie údajov s cieľom pomôcť pri vyšetrovaní trestných činov. Každý projekt analýzy vyžaduje vytvorenie analytickej skupiny, v ktorej podľa úloh ustanovených v článku 3 ods. 1 a 2 a článku 5 ods. 3 úzko spolupracujú títo účastníci:
 
-        - 1) analytici a iní úradníci Europolu určení riaditeľstvom Europolu; iba analytici majú právo vkladať údaje do príslušného súboru a vyhľadávať ich v ňom,
+        - 1) analytici a iní úradníci Europolu vymenovaní riaditeľstvom Europolu,
 
         - 2) styční dôstojníci alebo odborníci z členských štátov poskytujúci informácie alebo ktorých sa analýza týka podľa odseku 6.
+
+        - Len analytici sú oprávnení vkladať údaje do príslušného súboru a meniť také údaje; všetci účastníci môžu vyhľadávať v súbore údaje.
 
       - 3. Na žiadosť Europolu alebo z vlastnej iniciatívy poskytujú národné ústredne podľa článku 4 ods. 5 Europolu všetky informácie, ktoré si môže vyžadovať plnenie ich úloh podľa článku 3 ods. 1 bodu 2). Členské štáty oznamujú takéto údaje, len ak sa môžu spracovávať aj podľa vnútroštátnych právnych predpisov na účely prevencie a analýzy trestných činov alebo boja proti nim.
 
@@ -310,9 +316,9 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 7) medzinárodné organizácie kriminálnej polície,
 
-        - o poskytnutie príslušných informácií všetkými primeranými prostriedkami. Môže tiež za rovnakých podmienok a rovnakými prostriedkami prijímať informácie poskytnuté rôznymi orgánmi z ich vlastnej iniciatívy. Rada v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii a po konzultácii so správnou radou jednomyseľne ustanoví pravidlá, ktoré má Europol v tomto ohľade dodržiavať.
+        - o poskytnutie príslušných informácií všetkými primeranými prostriedkami. Môže tiež za rovnakých podmienok a rovnakými prostriedkami prijímať informácie poskytnuté rôznymi orgánmi z ich vlastnej iniciatívy. Rada po konzultácii so správnou radou jednomyseľne ustanoví pravidlá, ktoré má Europol v tomto ohľade dodržiavať.
 
-      - 5. V miere, v akej je Europol oprávnený podľa iných dohovorov na počítačový prístup k údajom v iných informačných systémoch, môže Europol vyhľadávať osobné údaje takýmito prostriedkami, ak je to potrebné na plnenie jeho úloh podľa článku 3 ods. 1 bodu 2).
+      - 5. V miere, v akej je Europol oprávnený podľa právnych nástrojov Európskej únie alebo medzinárodných právnych nástrojov získať prístup k údajom v iných informačných systémoch, môže Europol vyhľadávať osobné údaje takýmito prostriedkami, ak je to potrebné na plnenie jeho úloh podľa článku 3 ods. 1 druhého bodu. Využívanie týchto údajov Europolom sa riadi platnými ustanoveniami takých právnych nástrojov Európskej únie alebo medzinárodných právnych nástrojov.
 
       - 6. Ak má analýza všeobecný a strategický charakter, sú všetky členské štáty prostredníctvom styčných dôstojníkov alebo odborníkov v plnom rozsahu oboznámené s výsledkami práce, najmä odovzdávaním správ vypracovaných Europolom.
 
@@ -334,7 +340,21 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 3) ak rozpor pretrváva, do ôsmich dní sa zídu zástupcovia zúčastnených strán v správnej rade; ak sa členský štát nevzdá uplatnenia potreby informácií, o jeho plnej moci rozhodne konsenzom.
 
-      - 8. Členský štát, ktorý poskytuje údaje Europolu, rozhoduje sám o stupni a zmene ich utajenia. O rozširovaní alebo operatívnom používaní analyzovaných údajov sa rozhodne na základe konzultácií účastníkov analýzy. Členský štát, ktorý sa pripojí k prebiehajúcej analýze, nesmie najmä bez predchádzajúceho súhlasu príslušných členských štátov rozširovať ani používať údaje.
+      - 8. Členský štát, ktorý poskytuje údaje Europolu, rozhoduje sám o stupni a zmene ich utajenia. O akomkoľvek rozširovaní alebo operatívnom používaní analyzovaných údajov rozhoduje členský štát, ktorý poskytol údaje Europolu. Ak sa nedá určiť, ktorý členský štát poskytol Europolu údaje, o rozširovaní alebo operatívnom používaní údajov rozhodujú účastníci analýzy. Členský štát alebo zúčastnený odborník, ktorý sa pripojí k prebiehajúcej analýze, nesmie najmä rozširovať alebo používať údaje bez predchádzajúceho súhlasu pôvodne zainteresovaných členských štátov. Členský štát, ktorý sa pripojí k prebiehajúcej analýze, nesmie najmä bez predchádzajúceho súhlasu príslušných členských štátov rozširovať ani používať údaje.
+
+      - 9. Europol môže pozývať odborníkov z tretích štátov alebo tretích orgánov podľa odseku 4, aby sa zúčastnili na činnosti analytickej skupiny v prípade, ak
+
+        - 1) je v platnosti dohoda medzi Europolom a tretím štátom alebo tretím orgánom, ktorá obsahuje primerané ustanovenia o výmene informácií vrátane odovzdávania osobných údajov, ako aj o dôvernosti vymenených informácií,
+
+        - 2) účasť odborníkov z tretieho štátu alebo tretieho orgánu je v záujme členských štátov,
+
+        - 3) tretí štát alebo tretí orgán je priamo zainteresovaný,
+
+        - 4) všetci účastníci podľa odseku 2 súhlasia s účasťou odborníkov z tretieho štátu alebo tretieho orgánu na činnosti analytickej skupiny.
+
+        - Účasť odborníkov z tretieho štátu alebo tretieho orgánu na činnosti analytickej skupiny je predmetom dohody medzi Europolom a tretím štátom alebo tretím orgánom. Pravidlá, ktorými sa riadia také dohody, určuje správna rada dvojtretinovou väčšinou svojich členov.
+
+        - Dohody medzi Europolom a tretími štátmi alebo tretími orgánmi sa zasielajú spoločnému dozornému orgánu uvedenému v článku 24, ktorý môže predložiť správnej rade akékoľvek pripomienky, ktoré považuje za potrebné.
 
     - Článok 11 Indexový systém
 
@@ -348,7 +368,7 @@ K oznámeniu č. 619/2004 Z. z.
 
     - Článok 12 Postup pri otváraní súboru údajov
 
-      - 1. Pre každý počítačový súbor údajov, ktorý obsahuje osobné údaje, s ktorými pracuje Europol na účely plnenia úloh uvedených v článku 10, musí Europol uvádzať v príkaze, ktorým sa súbor otvára, a ktorý schvaľuje správna rada:
+      - 1. Pre každý počítačový súbor údajov, ktorý obsahuje osobné údaje, s ktorými pracuje Europol na účely plnenia úloh uvedených v článku 10, musí Europol špecifikovať v príkaze, ktorým sa súbor otvára:
 
         - 1) názov súboru,
 
@@ -356,21 +376,25 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 3) skupiny osôb, o ktorých sú uložené údaje,
 
-        - 4) charakter údajov, ktoré sa majú ukladať, a údaje uvedené v prvej vete článku 6 dohovoru Rady Európy z 28. januára 1981, ktoré sú bezpodmienečne potrebné,
+        - 4) charakter údajov, ktoré sa majú ukladať, a akékoľvek údaje uvedené v prvej vete článku 6 Dohovoru Rady Európy z 28. januára 1981, ktoré sú bezpodmienečne potrebné,
 
         - 5) prísun a vkladanie údajov, ktoré sa majú ukladať,
 
         - 6) vstup pre údaje, ktoré budú uložené,
 
-        - 7) podmienky, za ktorých sa osobné údaje uložené v súbore môžu poskytovať, akým príjemcom a podľa akého postupu,
+        - 7) podmienky, za akých sú osobné údaje uložené v súbore, za akých sa môžu poskytovať, akým príjemcom a podľa akého postupu,
 
-        - 8) lehoty na skúmanie a dĺžku uloženia,
+        - 8) lehoty na skúmanie údajov a dĺžka uloženia,
 
-        - 9) spôsob ustanovenia protokolu.
+        - 9) spôsob stanovenia protokolu.
 
-        - Riaditeľ Europolu ihneď informuje spoločný dozorný orgán uvedený v článku 24 o príkaze na otvorenie takéhoto súboru údajov a prijme podklady, aby mohol správnej rade odovzdať prípadné pripomienky, ktoré považuje za potrebné.
+      - 2. Riaditeľ Europolu ihneď informuje spoločný dozorný orgán ustanovený v článku 24 a správnu radu o príkaze na otvorenie súboru údajov a dostane dokumentáciu.
 
-      - 2. Ak v naliehavých prípadoch nemožno čakať na súhlas správnej rady, ktorý sa vyžaduje podľa odseku 1, riaditeľ môže z vlastnej iniciatívy alebo na žiadosť príslušných členských štátov odôvodneným rozhodnutím nariadiť otvorenie súboru údajov. Súčasne informuje členov správnej rady o svojom rozhodnutí. Potom sa bezodkladne vykoná postup podľa odseku 1, ktorý sa čo najskôr skončí.
+      - Spoločný dozorný orgán môže správnej rade odovzdať prípadné pripomienky, ktoré považuje za potrebné. Riaditeľ Europolu môže od spoločného dozorného orgánu žiadať, aby toto vykonal v rámci určitej lehoty.
+
+      - 3. Správna rada môže kedykoľvek nariadiť riaditeľovi Europolu, aby zmenil príkaz na otvorenie súboru údajov alebo aby súbor údajov uzatvoril. Správna rada rozhodne o dni, ku ktorému bude účinná taká zmena alebo uzatvorenie.
+
+      - 4. Súbor údajov sa nesmie uchovávať na obdobie dlhšie ako tri roky. Pred skončením trojročného obdobia však Europol preskúma potrebu ďalšieho uchovávania súboru údajov. Ak je to na účely súboru údajov bezpodmienečne potrebné, riaditeľ Europolu môže nariadiť pokračovanie súboru údajov na ďalšie trojročné obdobie. Postup, ktorý sa má v takých prípadoch dodržiavať, je špecifikovaný v odsekoch 1 až 3.
 
   - HLAVA IV SPOLOČNÉ USTANOVENIA O SPRACÚVANÍ INFORMÁCIÍ
 
@@ -400,9 +424,11 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 3. Europol uchováva údaje takým spôsobom, aby bolo možné ustanoviť, ktorý členský štát alebo tretia strana poskytli tieto údaje alebo či sú tieto údaje výsledkom analýzy vykonanej Europolom.
 
-    - Článok 16 Ustanovenia o príprave správ
+    - Článok 16 Ustanovenia o kontrole vyhľadávania
 
-      - Europol vypracováva správy v priemere minimálne pre každé desiate vyhľadávanie osobných údajov a pre každé vyhľadávanie v rámci informačného systému uvedeného v článku 7 s cieľom skontrolovať, či sú podľa zákona prípustné. Údaje uvedené v správe môže na tento účel používať len Europol a dozorné orgány uvedené v článkoch 23 a 24. Tieto údaje sa po šiestich mesiacoch vymažú, ak si ich nevyžiada prebiehajúca kontrola. Podrobnosti určuje správna rada po konzultácii so spoločným dozorným orgánom.
+      - Europol vytvorí primerané kontrolné mechanizmy s cieľom povoliť overenie zákonnosti vyhľadávania v automatizovanom systéme zberu informácií uvedenom v článkoch 6 a 6a.
+
+      - Údaje takto získané využíva Europol a dozorné orgány uvedené v článkoch 23 a 24 len na tento účel a vymažú sa po šiestich mesiacoch, ak nie sú naďalej potrebné pre prebiehajúcu kontrolu. O podrobnostiach takých kontrolných mechanizmov rozhodne správna rada po konzultácii so spoločným dozorným orgánom.
 
     - Článok 17 Pravidlá používania údajov
 
@@ -424,9 +450,9 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 2) je v tomto štáte alebo takom orgáne zabezpečená primeraná úroveň ochrany údajov, a
 
-        - 3) je to prípustné podľa všeobecných pravidiel podľa odseku 2.
+        - 3) toto je prípustné podľa všeobecných pravidiel podľa odseku 2; také pravidlá môžu ustanoviť odchýlku z druhého bodu vo výnimočných prípadoch, ak riaditeľ Europolu považuje prenos údajov za absolútne potrebný na ochranu základných záujmov dotknutých členských štátov v rámci pôsobnosti cieľov Europolu alebo v záujme odvrátenia bezprostredného nebezpečenstva súvisiaceho s kriminalitou. Riaditeľ Europolu za každých okolností zváži úroveň ochrany údajov v štáte alebo príslušnom orgáne vzhľadom na vyváženie tejto úrovne ochrany údajov s uvedenými záujmami.
 
-      - 2. V súlade s postupom uvedeným v Hlave VI Zmluvy o Európskej únii a s ohľadom na okolnosti uvedené v odseku 3 Rada jednomyseľne ustanovuje všeobecné pravidlá poskytovania osobných údajov zo strany Europolu tretím krajinám a tretím orgánom podľa článku 10 ods. 4. Správna rada pripravuje rozhodnutie Rady a konzultuje spoločný dozorný orgán uvedený v článku 24.
+      - 2. S ohľadom na okolnosti uvedené v odseku 3 Rada jednomyseľne ustanovuje všeobecné pravidlá poskytovania osobných údajov zo strany Europolu tretím krajinám a tretím orgánom podľa článku 10 ods. 4. Správna rada pripravuje rozhodnutie Rady a konzultuje spoločný dozorný orgán uvedený v článku 24.
 
       - 3. Primeranosť úrovne ochrany údajov, ktorú poskytujú tretie krajiny a tretie orgány podľa článku 10 ods. 4, sa posudzuje zohľadnením všetkých okolností, ktoré hrajú úlohu pri poskytovaní osobných údajov; zohľadňuje sa najmä
 
@@ -512,7 +538,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 2. Počas preverovania môžu jednotky uvedené v odseku 1 tretej a štvrtej vete rozhodnúť o ponechaní uložených údajov do ďalšieho preverovania, ak je to naďalej potrebné na plnenie úloh Europolu. Ak sa neprijme žiadne rozhodnutie o ponechaní uložených údajov, tieto údaje sa automaticky vymažú.
 
-      - 3. Uchovávanie osobných údajov osôb uvedených v článku 10 ods. 1 bode 1) nesmie prekročiť celkovo tri roky. Každá lehota sa zakaždým začína znovu dňom, keď došlo k udalosti, ktorá viedla k uloženiu údajov o tejto osobe. Nevyhnutnosť ponechania uložených údajov je potrebné každoročne preverovať a preverovanie zdokumentovať.
+      - 3. Potreba nepretržitého uchovávania osobných údajov týkajúcich sa jednotlivcov podľa článku 10 ods. 1 sa preskúma každý rok a toto preskúmanie sa zdokumentuje. Uchovávanie takých údajov v súbore údajov podľa článku 12 nesmie presiahnuť obdobie existencie súboru.
 
       - 4. Ak členský štát zo svojich vnútroštátnych súborov údajov vymaže údaje poskytnuté Europolu, ktoré sú uložené v iných súboroch údajov Europolu, príslušne o tom informuje Europol. V takých prípadoch Europol vymaže údaje okrem prípadov, ak má o ne iný záujem na základe poznatkov, ktoré presahujú tie, ktoré vlastní poskytujúci členský štát. Europol informuje príslušný členský štát, že tieto údaje ponecháva uložené.
 
@@ -527,6 +553,8 @@ K oznámeniu č. 619/2004 Z. z.
       - 2. Ak sa preukáže, že údaje v spisoch Europolu sú nesprávne, Europol je povinný ich opraviť.
 
       - 3. Každá osoba, o ktorej vedie Europol spis, môže voči Europolu uplatniť právo na opravu, zničenie spisu alebo vloženie príslušnej poznámky. Uplatňuje sa článok 20 ods. 4 a článok 24 ods. 2 a 7.
+
+      - 4. Zásady spracovania informácií ustanovené v tejto hlave sa uplatňujú na údaje v spisoch.
 
     - Článok 23 Národný dozorný orgán
 
@@ -562,7 +590,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 5. Ak spoločný dozorný orgán zistí porušenie ustanovení tohto dohovoru pri ukladaní, spracúvaní alebo používaní osobných údajov, podá sťažnosť, ktorú považuje za potrebnú, riaditeľovi Europolu a požiada ho o odpoveď v lehote, ktorú určí riaditeľ Europolu. Riaditeľ informuje správnu radu o celom postupe. V prípade ťažkostí sa spoločný dozorný orgán obráti na správnu radu.
 
-      - 6. Spoločný dozorný orgán pripravuje v pravidelných intervaloch správy o činnosti. V súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii sa tieto správy zasielajú Rade. Správna rada má predtým možnosť doručiť svoje stanovisko, ktoré sa pripojí k správam.
+      - 6. Spoločný dozorný orgán pripravuje v pravidelných intervaloch správy o činnosti. Tieto správy sa zasielajú Európskemu parlamentu a Rade. Správna rada má predtým možnosť doručiť svoje stanovisko, ktoré sa pripojí k správam.
 
       - Spoločný dozorný orgán rozhodne, či uverejní, alebo neuverejní svoju správu o činnosti. Ak sa rozhodne tak urobiť, určí, akým spôsobom sa správa uverejní.
 
@@ -608,7 +636,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 2. Europol má mať v každom členskom štáte najvyššiu možnú právnu a zmluvnú spôsobilosť, akú majú právnické osoby podľa práva príslušného štátu. Europol môže najmä nadobúdať a scudzovať hnuteľný a nehnuteľný majetok a môže byť účastníkom súdneho konania.
 
-      - 3. Europol je oprávnený uzatvárať dohodu o sídle s Holandským kráľovstvom a uzatvárať podľa článku 10 ods. 4 s tretími krajinami a tretími orgánmi potrebné dohody o utajení podľa článku 18 ods. 6, ako aj iné opatrenia v rámci predpisov jednomyseľne ustanovených Radou na základe tohto dohovoru a hlavy VI Zmluvy o Európskej únii.
+      - 3. Europol je oprávnený uzatvárať dohodu o sídle s Holandským kráľovstvom a uzatvárať podľa článku 10 ods. 4 s tretími krajinami a tretími orgánmi potrebné dohody o utajení podľa článku 18 ods. 6, ako aj iné opatrenia v rámci predpisov jednomyseľne ustanovených Radou na základe tohto dohovoru.
 
     - Článok 27 Orgány Europolu
 
@@ -626,7 +654,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 1. Europol má správnu radu. Správna rada:
 
-        - 1) zúčastňuje sa na rozširovaní cieľov Europolu (článok 2 ods. 2),
+        - 1) zúčastňuje sa na stanovovaní priorít Europolu vzhľadom na boj proti formám závažnej medzinárodnej kriminality a ich predchádzanie v rámci svojho mandátu (článok 2 ods. 2),
 
         - 1a) konajúc na základe dvojtretinovej väčšiny svojich členov ustanoví pravidlá upravujúce administratívnu realizáciu účasti úradníkov Europolu v spoločných vyšetrovacích tímoch (článok 3a ods. 2),
 
@@ -634,13 +662,17 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 3) jednomyseľne rozhoduje o počte styčných dôstojníkov, ktorých môžu členské štáty vysielať do Europolu (článok 5),
 
+        - 3a) zúčastňuje sa na určovaní podmienok spracovania údajov s cieľom určiť, či sú podstatné pre jej úlohy a či môžu byť začlenené do automatizovaného systému zberu informácií (článok 6a),
+
         - 4) pripravuje vykonávacie predpisy pre súbory údajov (článok 10),
+
+        - 4a) určuje dvojtretinovou väčšinou svojich členov pravidlá upravujúce dojednania týkajúce sa účasti odborníkov z tretieho štátu alebo tretieho orgánu na činnosti analytickej skupiny (článok 10 ods. 9),
 
         - 5) zúčastňuje sa na prijímaní predpisov, ktoré upravujú vzťahy Europolu s tretími krajinami a tretími orgánmi podľa článku 10 ods. 4 (články 10, 18 a 42),
 
         - 6) jednomyseľne rozhoduje o podrobnostiach týkajúcich sa návrhu indexového systému (článok 11),
 
-        - 7) dvojtretinovou väčšinou schvaľuje príkazy na otváranie súborov údajov (článok 12),
+        - 7) môže nariadiť riaditeľovi Europolu, aby zmenil príkaz na otvorenie súboru údajov alebo aby uzatvoril súbor údajov (článok 12 ods. 3),
 
         - 8) môže doručovať stanoviská k poznámkam a správam spoločného dozorného orgánu (článok 24),
 
@@ -655,6 +687,8 @@ K oznámeniu č. 619/2004 Z. z.
         - 13) zúčastňuje sa na prijímaní služobného poriadku (článok 30),
 
         - 14) zúčastňuje sa na príprave dohôd o utajení a prijímaní ustanovení o ochrane údajov dôverného charakteru (články 18 a 31),
+
+        - 14a) dvojtretinovou väčšinou svojich členov prijíma pravidlá prístupu k dokumentom Europolu (článok 32a),
 
         - 15) zúčastňuje sa na príprave návrhu rozpočtu vrátane plánu jeho plnenia, auditu a absolutória, ktoré sa má poskytnúť riaditeľovi (články 35 a 36),
 
@@ -672,7 +706,7 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 21a) koná na základe dvojtretinovej väčšiny v sporoch medzi členským štátom a Europolom, ktoré sa týkajú zodpovednosti za účasť Europolu v spoločných vyšetrovacích tímoch (článok 39a),
 
-        - 22) zúčastňuje sa na akejkoľvek zmene a doplnku tohto dohovoru (článok 43),
+        - 22) zúčastňuje sa na akýchkoľvek zmenách a doplnkoch tohto dohovoru alebo prílohy k nemu (článok 43),
 
         - 23) je zodpovedná za iné úlohy, ktoré jej pridelí Rada, najmä v súvislosti s ustanoveniami na vykonávanie tohto dohovoru.
 
@@ -692,17 +726,17 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 9. Správna rada zasadá minimálne dvakrát do roka.
 
-      - 10. Správna rada každoročne jednomyseľne prijíma:
+      - 10. S prihliadnutím na priority ustanovené Radou v súlade s článkom 2 ods. 2 a aktualizáciu riaditeľom Europolu podľa článku 29 ods. 3 šiesteho bodu prijíma správna rada jednomyseľne každý rok
 
-        - 1) všeobecnú správu o činnosti Europolu za predchádzajúci rok,
+        - 1) všeobecnú správu o činnosti Europolu počas predchádzajúceho roka,
 
-        - 2) správu o budúcej činnosti Europolu, v ktorej zohľadňuje prevádzkové požiadavky členských štátov a ich dosah na rozpočet a personál Europolu.
+        - 2) správu o budúcej činnosti Europolu s prihliadnutím na operatívne požiadavky členských štátov a rozpočtové a personálne dôsledky pre Europol.
 
-        - Tieto správy sa majú predkladať Rade v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii.
+        - Takéto správy sa predkladajú Rade, aby ich vzala na vedomie a schválila. Rada ich taktiež pre informáciu zasiela Európskemu parlamentu.
 
     - Článok 29 Riaditeľ
 
-      - 1. Na čele Europolu je riaditeľ, ktorého jednomyseľne vymenúva Rada v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii po prijatí stanoviska správnej rady. Riaditeľ je vymenovaný na štvorročné obdobie, ktoré sa môže raz predĺžiť.
+      - 1. Na čele Europolu je riaditeľ, ktorého jednomyseľne vymenúva Rada po prijatí stanoviska správnej rady. Riaditeľ je vymenovaný na štvorročné obdobie, ktoré sa môže raz predĺžiť.
 
       - 2. Riaditeľovi pomáhajú jeho zástupcovia, ktorých počet určí Rada. Zástupcovia riaditeľa sú vymenovaní na štvorročné obdobie, ktoré sa môže raz predĺžiť v súlade s postupom ustanoveným v odseku 1. Ich úlohy podrobnejšie určí riaditeľ.
 
@@ -718,27 +752,29 @@ K oznámeniu č. 619/2004 Z. z.
 
         - 5) vypracúvanie návrhu rozpočtu, návrhu plánu jeho plnenia a návrhu päťročného finančného plánu a za plnenie rozpočtu Europolu,
 
-        - 6) plnenie všetkých ostatných úloh, ktoré sú mu pridelené v tomto dohovore alebo ktorými ho poverila správna rada.
+        - 6) pravidelné informovanie správnej rady o vykonávaní priorít podľa článku 2 ods. 2,
+
+        - 7) všetky ostatné úlohy, ktoré mu boli pridelené v tomto dohovore alebo správnou radou.
 
       - 4. Za plnenie svojich povinností riaditeľ zodpovedá správnej rade. Zúčastňuje sa zasadaní správnej rady.
 
       - 5. Riaditeľ je zákonným zástupcom Europolu.
 
-      - 6. Riaditeľ a jeho zástupcovia môžu byť odvolaní rozhodnutím Rady prijatým v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii dvojtretinovou väčšinou členských štátov po prijatí stanoviska správnej rady.
+      - 6. Riaditeľ a jeho zástupcovia môžu byť odvolaní rozhodnutím Rady prijatým dvojtretinovou väčšinou členských štátov po prijatí stanoviska správnej rady.
 
       - 7. Napriek odsekom 1 a 2 je dĺžka prvého funkčného obdobia po nadobudnutí platnosti tohto dohovoru päť rokov pre riaditeľa, štyri roky pre jeho bezprostredného zástupcu a tri roky pre druhého zástupcu.
 
     - Článok 30 Personál
 
-      - 1. Riaditeľ, jeho zástupcovia a zamestnanci Europolu sa pri svojej činnosti riadia cieľmi a úlohami Europolu a neprijímajú ani nežiadajú príkazy od žiadnej vlády, orgánu, organizácie alebo osoby pôsobiacej mimo Europolu, ak nie je v tomto dohovore ustanovené inak, bez toho, aby bola dotknutá hlava VI Zmluvy o Európskej únii.
+      - 1. Riaditeľ, jeho zástupcovia a zamestnanci Europolu sa pri svojej činnosti riadia cieľmi a úlohami Europolu a neprijímajú ani nežiadajú príkazy od žiadnej vlády, orgánu, organizácie alebo osoby pôsobiacej mimo Europolu, ak nie je v tomto dohovore ustanovené inak, bez toho, aby bola dotknutá Zmluva o Európskej únii.
 
       - 2. Riaditeľ je nadriadeným svojim zástupcom a zamestnancom Europolu. Prijíma a prepúšťa zamestnancov. Pri výbere zohľadňuje okrem osobných predpokladov zamestnancov pre danú prácu a odbornej kvalifikácie aj potrebu zabezpečovať primerané zastúpenie štátnych príslušníkov všetkých členských štátov a úradných jazykov Európskej únie.
 
-      - 3. Podrobné opatrenia sa ustanovia v služobnom poriadku, ktorý jednomyseľne prijme Rada po prijatí stanoviska správnej rady v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii.
+      - 3. Podrobné opatrenia sa ustanovia v služobnom poriadku, ktorý jednomyseľne prijme Rada po prijatí stanoviska správnej rady.
 
     - Článok 31 Dôverné informácie
 
-      - 1. Europol a členské štáty prijímajú primerané opatrenia na ochranu informácií, ktoré majú spĺňať požiadavku na zachovanie ich dôverného charakteru a ktoré Europol získava, alebo ktoré si vymieňa na základe tohto dohovoru. Na tento účel má Rada jednomyseľne prijímať primerané predpisy o ochrane dôverných informácií pripravených správnou radou a predložených Rade v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii.
+      - 1. Europol a členské štáty prijímajú primerané opatrenia na ochranu informácií, ktoré majú spĺňať požiadavku na zachovanie ich dôverného charakteru a ktoré Europol získava, alebo ktoré si vymieňa na základe tohto dohovoru. Na tento účel má Rada jednomyseľne prijímať primerané predpisy o ochrane dôverných informácií pripravených správnou radou a predložených Rade.
 
       - 2. Ak Europol poverí určité osoby vykonávaním činností dôverného charakteru, členské štáty sa zaväzujú, že na žiadosť riaditeľa Europolu zabezpečia, aby preverovanie ich štátnych príslušníkov prebiehalo v súlade s ich vnútroštátnymi ustanoveniami, a že si pritom budú navzájom pomáhať. Príslušný orgán, ktorý je na základe vnútroštátnych ustanovení za takúto činnosť zodpovedný, oboznámi Europol iba s výsledkami preverovania, ktoré sú pre Europol záväzné.
 
@@ -766,19 +802,23 @@ K oznámeniu č. 619/2004 Z. z.
 
       - Každý členský štát prípadne zavedie najneskôr ku dňu nadobudnutia platnosti tohto dohovoru v rámci svojich vnútroštátnych právnych predpisov predpisy alebo ustanovenia potrebné na súdne stíhanie za porušenie povinnosti obozretného konania a zachovávania dôverných informácií uvedenej v odsekoch 2 a 3. Každý členský štát zabezpečuje, aby sa takéto predpisy a ustanovenia vzťahovali aj na jeho vlastných zamestnancov prichádzajúcich do styku s Europolom pri výkone svojich pracovných povinností.
 
+    - Článok 32a Právo prístupu k dokumentom Europolu
+
+      - Na základe návrhu riaditeľa Europolu prijíma správna rada dvojtretinovou väčšinou svojich členov pravidlá prístupu k dokumentom Europolu pre každého občana únie a každú fyzickú osobu a právnickú osobu s bydliskom alebo so sídlom v členskom štáte s prihliadnutím na zásady a medze ustanovené v nariadení Európskeho parlamentu a Rady o verejnom prístupe k dokumentom Európskeho parlamentu, Rady a Komisie prijatým na základe článku 255 Zmluvy o založení Európskeho spoločenstva.
+
     - Článok 33 Jazyky
 
       - 1. Správy a všetky ďalšie písomnosti a dokumentácia predkladané správnej rade sa predkladajú vo všetkých úradných jazykoch Európskej únie. Pracovnými jazykmi správnej rady sú úradné jazyky Európskej únie.
 
       - 2. Preklady potrebné na prácu Europolu zabezpečuje prekladateľské centrum inštitúcií Európskej únie.
 
-    - Článok 34 Poskytovanie informácií Európskemu parlamentu
+    - Článok 34 Informovanie Európskeho parlamentu
 
-      - 1. Predsedníctvo Rady predloží každý rok Európskemu parlamentu osobitnú správu o práci Europolu. Každú prípadnú zmenu tohto dohovoru je nutné konzultovať s Európskym parlamentom.
+      - 1. Rada konzultuje v Európskom parlamente v súlade s konzultačným postupom ustanoveným v Zmluve o Európskej únii každú iniciatívu členského štátu alebo návrh Komisie vzhľadom na prijatie každého opatrenia uvedeného v článku 10 ods. 1, článku 10 ods. 4, článku 18 ods. 2, článku 24 ods. 7, článku 26 ods. 3, článku 30 ods. 3, článku 31 ods. 1, článku 42 ods. 2 alebo ak sa nejakým spôsobom zmení a doplní tento dohovor alebo príloha k nemu.
 
-      - 2. Predsedníctvo Rady alebo jeho zástupca vymenovaný predsedníctvom majú vo vzťahu k Európskemu parlamentu zohľadňovať povinnosť obozretného konania a zachovávania dôverných informácií.
+      - 2. Predsedníctvo Rady alebo jeho zástupca sa môže zúčastniť na zasadnutiach Európskeho parlamentu s cieľom diskutovať o všeobecných otázkach týkajúcich sa Europolu. Predsedníctvu Rady alebo jeho zástupcovi môže pomáhať riaditeľ Europolu. Predsedníctvo Rady alebo jeho zástupca zohľadňuje vzhľadom na Európsky parlament povinnosti obozretného konania a zachovávania dôverných informácií.
 
-      - 3. Povinnosť ustanovená v tomto článku sa nedotýka práva národných parlamentov, článku K.6 Zmluvy o Európskej únii a všeobecných zásad upravujúcich vzťahy s Európskym parlamentom podľa hlavy VI Zmluvy o Európskej únii.
+      - 3. Povinnosti ustanovené v tomto článku sa nedotýkajú práv národných parlamentov a všeobecných zásad upravujúcich vzťahy s Európskym parlamentom podľa Zmluvy o Európskej únii.
 
     - Článok 35 Rozpočet
 
@@ -792,9 +832,9 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 3. Najneskôr do 31. marca každého roka vypracúva riaditeľ návrh rozpočtu a návrh plánu plnenia na nasledujúci rozpočtový rok a po ich posúdení finančným výborom ich spolu s návrhom päťročného finančného plánu predkladá správnej rade.
 
-      - 4. Správna rada prijíma rozhodnutie týkajúce sa päťročného finančného plánu. Prijíma ho jednomyseľne.
+      - 4. Správna rada prijíma rozhodnutie týkajúce sa päťročného finančného plánu. Prijíma ho jednomyseľne. Päťročný finančný plán sa zasiela Rade. Rada ho taktiež predkladá Európskemu parlamentu pre informáciu.
 
-      - 5. Po prijatí stanoviska správnej rady Rada schvaľuje v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii rozpočet Europolu najneskôr do 30. júna roku predchádzajúceho rozpočtovému roku. Prijíma ho jednomyseľne. Po schválení rozpočtu Radou vzniká každému členskému štátu povinnosť uhradiť čo najrýchlejšie príslušný finančný príspevok.
+      - 5. Po prijatí stanoviska správnej rady Rada schvaľuje rozpočet Europolu najneskôr do 30. júna roku predchádzajúceho rozpočtovému roku. Prijíma ho jednomyseľne. Po schválení rozpočtu Radou vzniká každému členskému štátu povinnosť uhradiť čo najrýchlejšie príslušný finančný príspevok.
 
       - 6. Riaditeľ vykonáva rozpočet v súlade s finančným nariadením uvedeným v odseku 9.
 
@@ -802,7 +842,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 8. Finančný výbor je zložený z predstaviteľov členských štátov, ktorí sú odborníkmi na otázky rozpočtu, po jednom za každý členský štát. Jeho úlohou je pripravovať diskusiu o rozpočtových a finančných záležitostiach.
 
-      - 9. V súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii Rada jednomyseľne prijíma finančné nariadenie špecifikujúce hlavne podrobné pravidlá vypracúvania, zmien a plnenia rozpočtu a monitorovania jeho vykonávania, ako aj spôsob, akým majú členské štáty uhrádzať svoje finančné príspevky.
+      - 9. Rada jednomyseľne prijíma finančné nariadenie špecifikujúce hlavne podrobné pravidlá vypracúvania, zmien a plnenia rozpočtu a monitorovania jeho vykonávania, ako aj spôsob, akým majú členské štáty uhrádzať svoje finančné príspevky.
 
     - Článok 36 Audit
 
@@ -818,7 +858,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - Všetky náklady súvisiace s vykonávaním auditu sú uhrádzané z rozpočtu ustanoveného v článku 35.
 
-      - 3. V súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii predkladá spoločný audítorský výbor Rade audítorskú správu o účtovnej závierke; ešte predtým však majú riaditeľ a finančný kontrolór možnosť vyjadriť svoje stanovisko k audítorskej správe a správu prerokúva správna rada.
+      - 3. Predkladá spoločný audítorský výbor Rade audítorskú správu o účtovnej závierke; ešte predtým však majú riaditeľ a finančný kontrolór možnosť vyjadriť svoje stanovisko k audítorskej správe a správu prerokúva správna rada.
 
       - 4. Riaditeľ Europolu poskytuje členom spoločného audítorského výboru všetky informácie a pomoc, ktoré potrebujú na plnenie svojej úlohy.
 
@@ -848,7 +888,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 3. Poškodená strana má právo žiadať, aby sa Europol voči nej zdržal akéhokoľvek konania alebo aby už začaté konanie zastavil.
 
-      - 4. Vnútroštátne súdy členských štátov príslušné riešiť spory súvisiace so zodpovednosťou Europolu uvedenou v tomto článku sa určujú odkazom na príslušné ustanovenia Bruselského dohovoru z 27. septembra 1968 o právomoci a výkone rozhodnutí v občianskoprávnych a obchodných záležitostiach v znení dohôd o pristúpení.
+      - 4. Vnútroštátne súdy členských štátov príslušné riešiť spory súvisiace so zodpovednosťou Europolu uvedenou v tomto článku sa určujú odkazom na príslušné ustanovenia nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o súdnej právomoci, uznávaní a výkone súdnych rozhodnutí v občianskych a obchodných veciach.
 
     - Článok 39a Zodpovednosť za účasť Europolu v spoločných vyšetrovacích tímoch
 
@@ -858,7 +898,7 @@ K oznámeniu č. 619/2004 Z. z.
 
     - Článok 40 Riešenie sporov
 
-      - 1. O sporoch medzi členskými štátmi týkajúcich sa výkladu alebo uplatňovania tohto dohovoru diskutuje v úvodnom štádiu Rada v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii s cieľom hľadať riešenie.
+      - 1. O sporoch medzi členskými štátmi týkajúcich sa výkladu alebo uplatňovania tohto dohovoru diskutuje v úvodnom štádiu Rada s cieľom hľadať riešenie.
 
       - 2. Ak sa takéto spory nevyriešia do šiestich mesiacov, členské štáty, ktoré sú zúčastnenými stranami sporu, na základe vzájomnej dohody rozhodnú o spôsobe, akým sa majú vyriešiť.
 
@@ -870,7 +910,7 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 2. Holandské kráľovstvo a ostatné členské štáty sa rovnako dohodnú na tom, že styčným dôstojníkom vyslaným z iných členských štátov, ako aj ich rodinným príslušníkom patria výhody a imunity, ktoré sú potrebné na plnenie úloh styčných dôstojníkov Europolu.
 
-      - 3. Protokol uvedený v odseku 1 Rada prijíma jednomyseľným rozhodnutím v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii a schvaľujú ho členské štáty v súlade so svojimi príslušnými ústavnými predpismi.
+      - 3. Protokol uvedený v odseku 1 Rada prijíma jednomyseľným rozhodnutím a schvaľujú ho členské štáty v súlade so svojimi príslušnými ústavnými predpismi.
 
   - HLAVA VII ZÁVEREČNÉ USTANOVENIA
 
@@ -878,15 +918,17 @@ K oznámeniu č. 619/2004 Z. z.
 
       - 1. Ak je to dôležité na plnenie úloh opísaných v článku 3, Europol nadväzuje a udržiava vzťahy spolupráce s tretími orgánmi podľa článku 10 ods. 4 bodov 1) až 3). Správna rada jednomyseľne vypracúva predpisy, ktorými sa majú takéto vzťahy riadiť. Toto ustanovenie sa nedotýka článku 10 ods. 4 a 5 a článku 18 ods. 2; výmeny osobných údajov sa uskutočňujú výlučne v súlade s ustanoveniami hláv II až IV tohto dohovoru.
 
-      - 2. Ak je to potrebné na plnenie úloh opísaných v článku 3, Europol môže nadväzovať a udržiavať vzťahy s tretími štátmi a s tretími orgánmi podľa článku 10 ods. 4 bodov 4), 5), 6) a 7). Po prijatí stanoviska správnej rady Rada v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii jednomyseľne vypracúva predpisy, ktorými sa majú riadiť vzťahy uvedené v prvej vete. Tretia veta odseku 1 platí rovnako.
+      - 2. Ak je to potrebné na plnenie úloh opísaných v článku 3, Europol môže nadväzovať a udržiavať vzťahy s tretími štátmi a s tretími orgánmi podľa článku 10 ods. 4 bodov 4), 5), 6) a 7). Po prijatí stanoviska správnej rady Rada jednomyseľne vypracúva predpisy, ktorými sa majú riadiť vzťahy uvedené v prvej vete. Tretia veta odseku 1 platí rovnako.
+
+      - 3. Europol vytvára a udržiava úzku spoluprácu s Eurojustom, ak je to podstatné na plnenie úloh Europolu a na dosiahnutie jeho cieľov, s prihliadnutím na potrebu predísť zdvojeniu úsilia. Základné prvky takej spolupráce určí dohoda, ktorá sa má ustanoviť v súlade s týmto dohovorom a jeho vykonávacími opatreniami.
 
     - Článok 43 Zmeny a doplnky dohovoru
 
-      - 1. V súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii Rada na základe návrhu členského štátu a po konzultácii so správnou radou jednomyseľne rozhoduje podľa článku K.1 ods. 9 Zmluvy o Európskej únii o každej zmene a doplnku tohto dohovoru, ktorú odporúča členským štátom na prijatie v súlade s ich príslušnými ústavnými predpismi.
+      - 1. Rada na základe návrhu členského štátu a po konzultácii so správnou radou jednomyseľne rozhoduje podľa Zmluvy o Európskej únii o každej zmene a doplnku tohto dohovoru, ktorú odporúča členským štátom na prijatie v súlade s ich príslušnými ústavnými predpismi.
 
       - 2. Zmeny a doplnky nadobúdajú platnosť v súlade s článkom 45 ods. 2 tohto dohovoru.
 
-      - 3. Rada však môže v súlade s postupom ustanoveným v hlave VI Zmluvy o Európskej únii a na základe podnetu členského štátu a po diskusii správnej rady o tejto záležitosti jednomyseľne rozhodnúť o rozšírení, zmene a doplnku definícií foriem trestných činov uvedených v prílohe. Okrem toho sa môže Rada rozhodnúť zaviesť nové definície foriem trestných činov uvedených v prílohe.
+      - 3. Po tom, čo správna rada prediskutovala záležitosť, môže však Rada jednomyseľne rozhodnúť o zmene a doplnku prílohy k tomuto dohovoru doplnením ostatných foriem závažnej medzinárodnej trestnej činnosti alebo úpravou definícií v nej obsiahnutých.
 
       - 4. Generálny tajomník Rady Európskej únie oznamuje všetkým členským štátom dátum nadobudnutia platnosti zmien a doplnkov.
 

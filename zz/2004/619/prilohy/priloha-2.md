@@ -1,8 +1,8 @@
 PRÍLOHA
 
-Uvedená v článku 2
+uvedená v článku 2
 
-Zoznam ďalších závažných foriem medzinárodného zločinu, ktorými sa môže Europol zaoberať, a to v súlade so svojím cieľom ustanoveným v článku 2 ods. 1. Okrem toho akt vydania pokynov Europolu pre činnosť s jedným z uvedených druhov trestných činov v súlade s článkom 2 ods. 2 predpokladá, že je tiež kompetentný zaoberať sa súvisiacimi trestnými činmi.
+Zoznam ďalších závažných foriem medzinárodnej trestnej činnosti, ktorými sa Europol môže zaoberať okrem tých, ktoré sú už ustanovené v článku 2 ods. 1, a to v súlade s cieľom Europolu ustanoveným v článku 2 ods. 1:
 
 Proti životu, zdraviu alebo osobnej slobode:
 
@@ -46,9 +46,7 @@ Proti životnému prostrediu:
 
 - klonovanie ľudskej bytosti.
 
-V súlade s článkom 2 ods. 2 právomoc Europolu zaoberať sa niektorou z uvedených foriem trestnej činnosti znamená, že Europol je taktiež príslušný zaoberať sa aj činnosťami súvisiacimi s praním špinavých peňazí a s ďalšími súvisiacimi trestnými činmi.
-
-Pokiaľ ide o formy trestných činov uvedených v článku 2 ods. 2, na účely tohto dohovoru:
+Pokiaľ ide o formy trestných činov uvedených v článku 2 ods. 1, na účely tohto dohovoru:
 
 - „zločin spojený s jadrovými a rádioaktívnymi látkami“ sú trestné činy uvedené v článku 7 ods. 1 Dohovoru o fyzickej ochrane jadrových materiálov podpísaného vo Viedni a New Yorku 3. marca 1980 a trestné činy súvisiace s jadrovými, resp. rádioaktívnymi materiálmi definovanými v článku 197 Zmluvy o Euratome a v smernici 80/836/Euratom z 15. júla 1980,
 
@@ -59,6 +57,8 @@ Pokiaľ ide o formy trestných činov uvedených v článku 2 ods. 2, na účely
 - „trestné činy súvisiace s motorovými vozidlami“ sú neoprávnené používanie alebo odcudzovanie motorových vozidiel, nákladných vozidiel, návesov, nákladov nákladných vozidiel a návesov, autobusov, motocyklov, obytných prívesov a poľnohospodárskych vozidiel, pracovných vozidiel a náhradných súčiastok do takýchto vozidiel, ako aj ich prechovávanie a zatajovanie,
 
 - „nezákonné pranie peňazí“ sú trestné činy uvedené v článku 6 ods. 1 až 3 Dohovoru Rady Európy o praní peňazí, vyhľadávaní, zabavovaní a konfiškácii ziskov z trestnej činnosti podpísaného v Štrasburgu 8. novembra 1990.
+
+- nedovolené obchodovanie s omamnými, psychotropnými a určenými látkami“ sú trestné činy uvedené v článku 3 ods. 1 Dohovoru Organizácie Spojených národov z 20. decembra 1988 o nezákonnom obchodovaní s narkotikami a psychotropnými látkami a v ustanoveniach, ktoré menia a dopĺňajú alebo nahrádzajú uvedený dohovor.
 
 Formy zločinu uvedené v článku 2 a v tejto prílohe posudzujú príslušné vnútroštátne orgány v súlade s vnútroštátnym právom príslušných členských štátov.
 
