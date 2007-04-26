@@ -82,7 +82,11 @@
 
 - 28a) Napríklad zákon č. 581/2004 Z. z. v znení neskorších predpisov.
 
+- 28aa) § 8 písm. f ) zákona č. 566/2001 Z. z.
+
 - 28b) § 15 ods. 6 písm. e) zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+
+- 28c) Napríklad § 18 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 29) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 4 zákona č. 34/2002 Z. z.
 
