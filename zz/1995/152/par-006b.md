@@ -2,7 +2,7 @@
 
 (1) Oznamovanie priameho rizika alebo nepriameho rizika pre ľudské zdravie pochádzajúceho z potravín sa vykonáva systémom rýchlej výmeny informácií.
 
-(2) Orgány potravinového dozoru a kontaktné miesto si medzi sebou vymieňajú oznámenia v prípade, ak sa preukáže, že potraviny sú zdraviu škodlivé alebo existuje opodstatnené podozrenie, že môžu predstavovať vážne ohrozenie zdravia a bezpečnosť spotrebiteľa.
+(2) Orgány úradnej kontroly potravín a kontaktné miesto si medzi sebou vymieňajú oznámenia v prípade, ak sa preukáže, že potraviny sú zdraviu škodlivé alebo existuje opodstatnené podozrenie, že môžu predstavovať vážne ohrozenie zdravia a bezpečnosť spotrebiteľa. Za výmenu informácií v prípade rizika zodpovedajú orgány úradnej kontroly potravín a kontaktné miesto.
 
 (3) Podrobnosti o systéme rýchlej výmeny informácií o potravinách v prípade vážneho a bezprostredného ohrozenia zdravia a bezpečnosti spotrebiteľov ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
 
@@ -10,10 +10,6 @@
 
 - a) zhromažďuje a vyhodnocuje poskytnuté informácie,
 
-- b) oznamuje Európskej komisii opatrenia z dôvodu ohrozenia zdravia a bezpečnosti spotrebiteľa týkajúce sa uvádzania potravín do obehu, odporúčania uplatnenia špecifických podmienok pri uvádzaní potravín do obehu, zákaz vstupu dávky, kontajnera alebo nákladu potravín.
+- b) oznamuje Európskej komisii opatrenia z dôvodu ohrozenia zdravia a bezpečnosti spotrebiteľa týkajúce sa umiestňovania potravín na trh, odporúčania uplatnenia špecifických podmienok pri umiestňovaní potravín na trh, zákaz vstupu dávky, kontajnera alebo nákladu potravín.
 
-(5) Za hodnotenie rizika a riadenie rizika zodpovedajú ministerstvo a ministerstvo zdravotníctva. Za rýchlu výmenu informácií v prípade rizika zodpovedajú orgány uvedené v odseku 2.
-
-(6) Informovanie verejnosti o riziku a prijatých opatreniach vykonávajú ministerstvo a ministerstvo zdravotníctva v rámci svojich kompetencií podľa tohto zákona.
-
-(7) V osobitných prípadoch, ak potravina môže mať škodlivý účinok na zdravie ľudí a nie je o tom dostatok vedeckých dôkazov, orgány uvedené v odseku 2 uplatňujú princíp prevencie založený na prijatí dočasných opatrení krátkodobého a okamžitého charakteru na riadenie rizika, pričom sa musí zabezpečiť okamžité vedecké hodnotenie rizika.
+(5) Ministerstvo alebo ministerstvo zdravotníctva môžu poveriť fyzické osoby alebo právnické osoby prípravou vedeckých stanovísk a poskytovaním vedeckého poradenstva a vedeckej a technickej podpory na vyhodnocovanie rizík z potravín. Poverené osoby spolupracujú s orgánmi úradnej kontroly potravín.

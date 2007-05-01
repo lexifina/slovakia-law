@@ -2,7 +2,7 @@
 
 (1) Ministerstvo zodpovedá za veci upravené potravinovým kódexom týkajúce sa
 
-- a) spôsobu označovania potravín vrátane potravín nového typu a tabakových výrobkov,
+- a) spôsobu označovania potravín a tabakových výrobkov,
 
 - b) požiadaviek na jednotlivé druhy potravín a tabakové výrobky, na suroviny určené na výrobu potravín a tabakové výrobky,
 
@@ -10,7 +10,7 @@
 
   - 1. teplotné režimy a relatívnu vlhkosť vzduchu pri skladovaní a zmrazovaní potravín,
 
-  - 2. spôsob skladovania a manipuláciu s potravinami a tabakovými výrobkami počas ich uvádzania do obehu,
+  - 2. spôsob skladovania a manipuláciu s potravinami a tabakovými výrobkami počas ich umiestnenia na trh,
 
   - 3. osobitné požiadavky na prepravu,
 
@@ -28,7 +28,7 @@
 
 - a) požiadaviek na zdravotnú neškodnosť jednotlivých druhov potravín vrátane potravín nového typu a surovín, množstva a druhov potravinových doplnkov, látok určených na aromatizáciu, kontaminujúcich látok a reziduí pesticídov, toxikologicky významných a pomocných látok, prídavných látok, ich čistoty, identifikácie a podmienok ich použitia do potravín, prípadne skupiny výrobkov, v ktorých sa môžu tieto látky vyskytovať,
 
-- b) hygienických požiadaviek na výrobu potravín, tabakových výrobkov, na manipuláciu s nimi a na ich uvádzanie do obehu vrátane hygienických požiadaviek na predaj potravín a niektorých osobitných hygienických požiadaviek,
+- b) hygienických požiadaviek na výrobu potravín, na manipuláciu s nimi a na ich umiestnenie na trh vrátane hygienických požiadaviek na predaj potravín a niektorých osobitných hygienických požiadaviek,
 
 - c) mikrobiologických požiadaviek na jednotlivé druhy potravín, potravinové suroviny, pomocné a prídavné látky a potravinové doplnky, spôsobu výberu, počtu odobratých vzoriek a spôsobu kontroly a hodnotenia,
 
@@ -36,10 +36,16 @@
 
 - e) potravín a surovín, ktoré možno radiačne ošetrovať, podmienok ožarovania, druhoch žiarenia a najvyšších prípustných dávok,
 
-- f) požiadaviek na predmety prichádzajúce do styku s potravinami a tabakovými výrobkami,
+- f) požiadaviek na predmety prichádzajúce do styku s potravinami,
 
 - g) pravidiel na výber epidemiologicky rizikových skupín potravín,
 
 - h) požiadaviek na zdravotnú neškodnosť balených vôd a spôsobu ich úpravy,
 
-- i) podmienok uvádzania potravín alebo zložiek nového typu do obehu.
+- i) podmienok umiestňovania potravín alebo zložiek nového typu na trh.
+
+- j) hygienických požiadaviek ustanovených osobitným predpisom<sup>2a</sup>) na priame dodávanie malých množstiev prvotných produktov ich prevádzkovateľom potravinárskeho podniku konečnému spotrebiteľovi alebo miestnym maloobchodným prevádzkarňam, ktoré priamo zásobujú konečného spotrebiteľa,
+
+- k) na úpravy hygienických požiadaviek ustanovených osobitným predpisom<sup>2a</sup>) na používanie tradičných metód výroby, spracúvanie alebo distribúcie potravín a úpravu hygienických požiadaviek na konštrukciu, usporiadanie a vybavenie prevádzkarní,
+
+- l) všeobecných ustanovení o označovaní výživovej hodnoty a nutričnom označovaní potravín, o vyhláseniach o výživovej alebo zdravotnej hodnote.
