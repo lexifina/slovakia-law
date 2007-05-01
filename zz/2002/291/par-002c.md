@@ -28,7 +28,7 @@
 
 (5) Klient Štátny dlh môže zriadiť na účely zhodnotenia dočasne voľných finančných prostriedkov a na účely vykonávania finančných operácií na riadenie rizík účet v Národnej banke Slovenska, banke alebo pobočke zahraničnej banky. Účet klienta Štátny dlh zriadený v Národnej banke Slovenska musí vždy vykazovať kreditný zostatok.
 
-(6) Klient Štátny dlh vykonáva obchody so Štátnou pokladnicou za podmienok na peňažnom trhu v čase vykonávaného obchodu.
+(6) Klient Štátny dlh vykonáva obchody so Štátnou pokladnicou za podmienok na peňažnom trhu v čase vykonávaného obchodu a v osobitných prípadoch<sup>10a</sup>) za dohodnutých podmienok po predchádzajúcom písomnom súhlase ministerstva.
 
 (7) Prebytok samostatného účtu sa po dohode so Štátnou pokladnicou a s agentúrou prednostne použije na krytie záväzkov Štátnej pokladnice podľa § 11 ods. 5 voči klientom.
 

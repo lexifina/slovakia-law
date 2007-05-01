@@ -28,6 +28,8 @@
 
 - k) usmerňuje vykonávanie finančných operácií týkajúcich sa prevodov otvorenej likviditnej pozície, úrokovej pozície a devízovej pozície Štátnej pokladnice na ministerstvo, ktoré je osobitným klientom pre činnosti súvisiace so štátnym dlhom (ďalej len „klient Štátny dlh”),
 
-- l) schvaľuje na základe návrhu agentúry stratégiu riadenia štátneho dlhu a vykonáva kontrolu jej realizácie.
+- l) schvaľuje na základe návrhu agentúry stratégiu riadenia štátneho dlhu a vykonáva kontrolu jej realizácie,
 
-(2) Usporiadanie, obsahové vymedzenie, spôsob, termín a miesto predkladania informácií z účtovných výkazov a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektmi verejnej správy ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+- m) vydáva predchádzajúci písomný súhlas podľa § 2c ods. 6.
+
+(2) Usporiadanie, obsahové vymedzenie, spôsob, termín a miesto predkladania informácií z účtovníctva a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektmi verejnej správy ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.

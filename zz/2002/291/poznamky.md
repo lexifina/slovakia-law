@@ -2,7 +2,7 @@
 
 - 2) § 21 ods. 1 a 2 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 3) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
+- 3) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 4) § 14 ods. 6 zákona č. 523/2004 Z. z.
 
@@ -17,6 +17,8 @@
 - 9) § 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 455/2004 Z. z.
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, § 47c zákona č. 92/1991 Zb. v znení neskorších predpisov.
+
+- 10a) § 13 ods. 1 písm. f) zákona č. 523/2004 Z. z.
 
 - 11) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z.
 
@@ -81,8 +83,6 @@
 - 28a) § 5 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 28b) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- 29) Zákon č. 431/2002 Z. z.
 
 - 29a) § 38 až 58 zákona č. 510/2002 Z. z.
 
