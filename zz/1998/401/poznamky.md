@@ -1,5 +1,11 @@
 - 1) § 3 ods. 2 zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší).
 
+- 1a) § 29 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 1b) § 8 až 19 a § 29 ods. 2 zákona č. 245/2003 Z. z.
+
+- § 40 ods. 9 zákona č. 478/2002 Z. z. v znení neskorších predpisov.
+
 - 2) § 28 písm. e) zákona č. 478/2002 Z. z. v znení zákona č. 525/2003 Z. z.
 
 - 3) § 28 písm. f) zákona č. 478/2002 Z. z. v znení zákona č. 525/2003 Z. z.

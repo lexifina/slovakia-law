@@ -152,7 +152,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - K<sub>ELN</sub> – koeficient emisného limitu pri nezistení údajov o dodržaní emisného limitu
 
-- [Príloha 02](../assets/05ca0a07f13c72936204209f12675f8f363fff8034f4b32adbbad0817603da2f.pdf)
+- [Príloha 02](../assets/9244ad683c0a17ef4b63da5a60226328b253cc48fa68bc0d8c3de6ec2a7fada7.pdf)
 
   - Tabuľka č. 3:
 
@@ -185,3 +185,23 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 - 2011 | 0,85 | 3,0 | 1,0 | 4,0 | 1,5 | -
 
 - a neskôr | | | | | |
+
+  - Tabuľka č. 4:
+
+  - Koeficienty emisného limitu, koeficienty prekročenia emisnej kvóty a kompenzačné koeficienty pre všetky znečisťujúce látky podliehajúce poplatkovej povinnosti pre zdroje znečisťovania podľa § 1 ods. 4.
+
+- Rok | K<sub>k</sub> | Trieda A a B EQ prekročenáK<sub>O</sub> | EL dodržaný K<sub>ELD</sub> | Trieda A<sup>4)</sup> EL prekročený K<sub>ELP</sub> | Údaje nezistené (§ 5 ods. 2) K<sub>ELN</sub> | Trieda B<sup>2)</sup> K<sub>ELB</sub>
+
+- 2006 | 0,85 | 3,0 | 1,0 | 4,0 | 1,5 | 4,0
+
+- 2007 | 0,85 | 3,0 | 1,0 | 4,0 | 1,5 | 4,0
+
+- 2008 | 0,90 | 3,0 | 1,0 | 4,0 | 1,5 | 4,0
+
+- 2009 | 0,90 | 3,0 | 1,0 | 4.0 | 1,5 | 4,0
+
+- 2010 | 0,95 | 3,0 | 1,0 | 4,0 | 1,5 | 4,0
+
+- 2011 | 0,95 | 3,0 | 1,0 | 4,0 | 1,5 | 4,0
+
+- 2012 a neskôr | 1,00 | 3,0 | 1,0 | 4,0 | 1,5 | -
