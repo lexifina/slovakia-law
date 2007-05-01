@@ -1,1 +1,0 @@
-Ján Sitek v. r.
