@@ -1,0 +1,1 @@
+- 1) § 64 ods. 1 a 2 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
