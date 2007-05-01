@@ -120,6 +120,18 @@
 
 - 53) § 160 Obchodného zákonníka.
 
+- 53a) § 20 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
+
+- 53b) § 19 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 53c) § 22 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 53d) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002.
+
+- Nariadenie Európskej komisie (ES) č. 1725/2003 z 29. septembra 2003, ktorým sa prijímajú určité medzinárodné účtovné štandardy, v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Ú. v. EÚ L 261, 13. 10. 2003, Mimoriadne vydanie Ú. v. EÚ 13/zv. 32).
+
+- 53e) § 132b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 54) § 130 zákona č. 566/2001 Z. z.
 
 - 55) Napríklad § 99 ods. 4 písm. a) zákona č. 566/2001 Z. z.
@@ -131,6 +143,10 @@
 - 57) § 119 zákona č. 566/2001 Z. z.
 
 - 58) § 5 písm. j) zákona č. 594/2003 Z. z.
+
+- 58a) § 5 ods. 1 písm. a), d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 58b) § 132 ods. 1 až 3 zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
 
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
