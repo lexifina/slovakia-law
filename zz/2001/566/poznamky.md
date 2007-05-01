@@ -284,6 +284,8 @@
 
 - 102a) § 4 ods. 6 zákona č. 594/2003 Z. z. o kolektívnom investovaní.
 
+- 102aa) § 161 ods. 3 Občianskeho súdneho poriadku.
+
 - 102b) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
 - 102c) § 6 ods. 6 zákona č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.

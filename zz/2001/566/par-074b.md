@@ -8,7 +8,7 @@
 
 - c) vlastných zdrojoch obchodníka s cennými papiermi,
 
-- d) dodržiavaní požiadaviek pre minimálnu výšku vlastných zdrojov obchodníka s cennými papiermi,
+- d) dodržiavaní požiadaviek pre minimálnu výšku vlastných zdrojov obchodníka s cennými papiermi a vnútorného kapitálu obchodníka s cennými papiermi,
 
 - e) kreditnom riziku a riziku obchodných pohľadávok,
 
@@ -24,13 +24,13 @@
 
 - k) postupoch zmierňovania kreditného rizika a operačného rizika.
 
-(2) Obchodník s cennými papiermi nie je povinný uverejňovať podstatné informácie, vnútorné informácie alebo dôverné informácie okrem tých, ktoré sa ustanovia podľa odsekov 1 a 4, pričom
+(2) Obchodník s cennými papiermi nie je povinný uverejňovať nepodstatné informácie, vnútorné informácie alebo dôverné informácie okrem tých, ktoré sa ustanovia podľa odsekov 1 a 4, pričom
 
-- a) podstatnou informáciou sa rozumie informácia, ktorej uverejnenie alebo nesprávne uverejnenie mohlo zmeniť alebo ovplyvniť hodnotenie alebo rozhodnutie užívateľa tejto informácie, ktorý na nej zakladá svoje obchodné rozhodnutia,
+- a) nepodstatnou informáciou sa rozumie informácia, ktorej uverejnenie alebo nesprávne uverejnenie nemohlo zmeniť alebo ovplyvniť hodnotenie alebo rozhodnutie užívateľa tejto informácie, ktorý na nej zakladá svoje obchodné rozhodnutia,
 
 - b) vnútornou informáciou sa rozumie informácia, ktorej uverejnenie ohrozilo konkurenčnú pozíciu obchodníka s cennými papiermi alebo znížilo hodnotu investícií obchodníka s cennými papiermi,
 
-- c) dôvernou informáciou sa rozumie informácia, o ktorej sa obchodník s cennými papiermi vo vzťahu ku klientovi alebo k inej svojej zmluvnej strane zaviazal zachovávať jej dôvernosť.
+- c) dôvernou informáciou sa na tento účel rozumie informácia, o ktorej sa obchodník s cennými papiermi vo vzťahu ku klientovi alebo k inej svojej zmluvnej strane zaviazal zachovávať jej dôvernosť.
 
 (3) Ustanovenia odsekov 1 a 2 sa vzťahujú aj na pobočku zahraničného obchodníka s cennými papiermi.
 
