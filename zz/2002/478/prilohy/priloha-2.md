@@ -24,7 +24,7 @@ Príloha č. 2 k zákonu č. 478/2002 Z. z.
 
   - 8.3 riešenie ustanovených požiadaviek a povinností podľa posudzovanej dokumentácie nie je v súlade s predpismi
 
-  - a na splnenie ustanovených požiadaviek a povinností je potrebná podstatná zmena predmetu posudzovania alebo posudzovanej dokumentácie [§ 41 ods. 1 písm. k)].
+  - a na splnenie ustanovených požiadaviek a povinností je potrebná podstatná zmena predmetu posudzovania alebo posudzovanej dokumentácie [§ 41 ods. 1 písm. j)].
 
   - 9. Preberať záruky za správnosť vyhotoveného posudku alebo subposudku vo vzťahu k objednávateľovi odborného posúdenia podľa všeobecne platných právnych predpisov a uzavretej zmluvy (dohody) o odbornom posúdení, najmenej však päť rokov od vyhotovenia odborného posudku alebo od jeho doplnenia.
 
