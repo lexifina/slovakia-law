@@ -1,0 +1,5 @@
+# § 1 znie:
+
+„§ 1
+
+Poplatok za vydanie európskeho preukazu zdravotného poistenia sa ustanovuje vo výške 0 Sk.“.
