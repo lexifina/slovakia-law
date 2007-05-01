@@ -6,6 +6,10 @@
 
 - 1c) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
+- 1d) § 120 ods. 1 a 2 zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+
+- 1e) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149, 30. 4. 2004).
+
 - 2) § 99 ods. 3 písm. j) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
 - 2a) § 460 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
