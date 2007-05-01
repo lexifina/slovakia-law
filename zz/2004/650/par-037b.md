@@ -12,7 +12,7 @@
 
 - a) investovala najmenej vo výške 70 % tohto majetku do akcií a dlhopisov, ktoré sú prijaté na obchodovanie na regulovanom trhu cenných papierov,
 
-- b) investovala najviac do výšky 5 % tohto majetku do akcií, dlhopisov a ostatných investičných nástrojov<sup>33a</sup>) vydaných jedným emitentom,
+- b) investovala najviac do výšky 5 % tohto majetku do akcií, dlhopisov a ostatných finančných nástrojov<sup>33a</sup>) vydaných jedným emitentom,
 
 - c) oddelila od ostatného majetku.
 
