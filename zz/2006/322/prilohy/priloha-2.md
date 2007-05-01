@@ -96,7 +96,23 @@ Príloha č. 2 k nariadeniu vlády č. 322/2006 Z. z.
 
     - a) Špecializačné odbory po získaní vysokoškolského vzdelania v odbore laboratórne vyšetrovacie metódy
 
-    - – laboratórna medicína.
+      - 1. laboratórna medicína,
+
+      - 2. laboratórne a diagnostické metódy v hematológii a transfúziológii,
+
+      - 3. laboratórne a diagnostické metódy v klinickej biochémii,
+
+      - 4. laboratórne a diagnostické metódy v klinickej imunológii a alergológii,
+
+      - 5. laboratórne a diagnostické metódy v klinickej genetike,
+
+      - 6. laboratórne a diagnostické metódy v klinickej mikrobiológii,
+
+      - 7. laboratórne a diagnostické metódy v mikrobiológii životného prostredia,
+
+      - 8. laboratórne a diagnostické metódy v biológii životného prostredia,
+
+      - 9. laboratórne a diagnostické metódy v oblasti fyzikálnych a chemických analýz a faktorov.
 
       - Certifikované pracovné činnosti:
 
@@ -118,7 +134,17 @@ Príloha č. 2 k nariadeniu vlády č. 322/2006 Z. z.
 
       - 6. vyšetrovacie metódy v histopatológii,
 
-      - 7. vyšetrovacie metódy v ochrane zdravia pred ionizujúcim žiarením.
+      - 7. vyšetrovacie metódy v ochrane zdravia pred ionizujúcim žiarením,
+
+      - 8. laboratórne a diagnostické metódy v hematológii a transfúziológii,
+
+      - 9. laboratórne a diagnostické metódy v klinickej biochémii,
+
+      - 10. laboratórne a diagnostické metódy v klinickej imunológii a alergológii,
+
+      - 11. laboratórne a diagnostické metódy v klinickej genetike,
+
+      - 12. laboratórne a diagnostické metódy v klinickej mikrobiológii.
 
     - c) Špecializačné odbory po získaní úplného stredného odborného vzdelania v odbore farmaceutický laborant
 

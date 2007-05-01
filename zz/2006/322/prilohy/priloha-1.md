@@ -112,7 +112,9 @@ Príloha č. 1 k nariadeniu vlády č. 322/2006 Z. z.
 
       - 10. otorinolaryngológia,
 
-      - 11. všeobecné lekárstvo.
+      - 11. všeobecné lekárstvo,
+
+      - 12. špeciálne laboratórne a diagnostické metódy v hematológii a transfúziológii
 
     - d) Špecializačné odbory s minimálnou dĺžkou trvania špecializačného štúdia tri roky, ktoré možno začať získavať až po dokončení špecializácie v niektorom zo špecializačných odborov uvedených v písmenách a) až c), ak vzorový špecializačný študijný program neurčuje inak (ďalej len „subšpecializácie“)
 
@@ -280,9 +282,13 @@ Príloha č. 1 k nariadeniu vlády č. 322/2006 Z. z.
 
       - 27. vyšetrovacie metódy v genetike,
 
-      - 28. vyšetrovacie metódy v kardiológii,
+      - 28. klinická psychofyziológia (neurofeedback a biofeedback),
 
-      - 29. klinická psychofyziológia (neurofeedback a biofeedback),
+      - 29. echokardiografia a ultrazvukové vyšetrenie cievneho systému,
+
+      - 30. invazívna diagnostika a intervenčná liečba v kardiológii a angiológii,
+
+      - 31. invazívna katétrová diagnostika a liečba porúch srdcového rytmu a implantácia kardiostimulátorov.
 
   - B. KATEGÓRIA ZUBNÝ LEKÁR
 

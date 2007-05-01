@@ -112,7 +112,19 @@ Príloha č. 3 k nariadeniu vlády č. 322/2006 Z. z.
 
     - 10. vyšetrovacie metódy v ochrane zdravia pred ionizujúcim žiarením,
 
-    - 11. zdravotnícka informatika.
+    - 11. zdravotnícka informatika,
+
+    - 12. vyšetrovacie metódy v oblasti fyzikálnych a chemických analýz a faktorov,
+
+    - 13. laboratórne a diagnostické metódy v hematológii a transfúziológii,
+
+    - 14. laboratórne a diagnostické metódy v klinickej genetike,
+
+    - 15. laboratórne a diagnostické metódy v klinickej biochémii,
+
+    - 16. laboratórne a diagnostické metódy v klinickej mikrobiológii,
+
+    - 17. laboratórne a diagnostické metódy v klinickej imunológii a alergológii.
 
   - h) Špecializačné odbory po získaní úplného stredného odborného vzdelania
 
@@ -124,4 +136,10 @@ Príloha č. 3 k nariadeniu vlády č. 322/2006 Z. z.
 
     - 4. vyšetrovacie metódy v chemickej a fyzikálnej analýze v hygiene,
 
-    - 5. vyšetrovacie metódy v toxikológii a farmakológii.
+    - 5. vyšetrovacie metódy v toxikológii a farmakológii,
+
+    - 6. laboratórne a diagnostické metódy v hematológii a transfúziológii,
+
+    - 7. laboratórne a diagnostické metódy v klinickej imunológii a alergológii,
+
+    - 8. laboratórne a diagnostické metódy v klinickej genetike.
