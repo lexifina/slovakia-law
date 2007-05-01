@@ -722,8 +722,6 @@ dohodli sa takto:
 
     - (1) Na spoločných kontaktných pracoviskách spolupracujú určení príslušníci bezpečnostných zložiek zmluvných strán v súlade s vnútroštátnymi právnymi predpismi a záväzkami vyplývajúcimi z iných medzinárodných zmlúv, ktorými sú zmluvné strany viazané.
 
-    - (2) Ministerstvo vnútra Slovenskej republiky a Ministerstvo vnútra Maďarskej republiky sa vo vykonávacom protokole dohodnú o formách spolupráce na spoločných kontaktných pracoviskách.
-
   - Článok 37
 
     - (1) Spory vzniknuté z výkladu alebo uplatňovania tejto dohody riešia zmluvné strany cestou rokovaní v rámci slovensko-maďarskej hraničnej zmiešanej komisie a v prípade neúspechu diplomatickou cestou.
