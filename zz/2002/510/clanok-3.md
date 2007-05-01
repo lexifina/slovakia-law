@@ -36,7 +36,7 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 10. V § 87 ods. 2 sa slová „§ 167" nahrádzajú slovami „§ 169".
 
-- 11. V § 99 ods. 3 písm. h) sa čiarka nahrádza bodkočiarkou a pripájajú sa slová: „zabezpečením zúčtovania a vyrovnania takýchto obchodov sa rozumie organizovanie a prevádzkovanie systému zúčtovania a vyrovnania obchodov s investičnými nástrojmi (ďalej len „systém vyrovnania") pre aspoň troch účastníkov systému vyrovnania,".
+- 11. V § 99 ods. 3 písm. h) sa čiarka nahrádza bodkočiarkou a pripájajú sa slová: „zabezpečením zúčtovania a vyrovnania takýchto obchodov sa rozumie organizovanie a prevádzkovanie systému zúčtovania a vyrovnania obchodov s finančnými nástrojmi (ďalej len „systém vyrovnania") pre aspoň troch účastníkov systému vyrovnania,".
 
 - 12. V § 99 ods. 14 sa slová „s hodnotou nad 100 000 Sk" nahrádzajú slovami „najmenej v hodnote 15 000 EUR".
 

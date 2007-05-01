@@ -12,7 +12,7 @@ Právnym poriadkom, ktorým sa spravuje zmluva o platobnom systéme, uvedenom v 
 
 (2)
 
-Právne vzťahy zo zábezpeky poskytnutej vo forme cenných papierov alebo investičných nástrojov vrátane zábezpeky poskytnutej vo forme práv spojených s cennými papiermi, ktorá je
+Právne vzťahy zo zábezpeky poskytnutej vo forme cenných papierov alebo finančných nástrojov vrátane zábezpeky poskytnutej vo forme práv spojených s cennými papiermi, ktorá je
 
 a)
 
