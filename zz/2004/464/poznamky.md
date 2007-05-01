@@ -1,1 +1,0 @@
-- 1) § 37 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
