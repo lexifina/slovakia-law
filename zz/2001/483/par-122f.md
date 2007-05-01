@@ -12,11 +12,7 @@
 
 - b) hodnoty kreditných ekvivalentov pre derivátové nástroje sa vypočítavajú podľa predpisov účinných k 31. decembru 2006 bez ohľadu na to, či sa súvahové alebo podsúvahové položky z nich vyplývajúce a hodnoty kreditných ekvivalentov považujú za hodnoty rizikovo vážených expozícií.
 
-(5) Ak banka postupuje podľa odseku 3, vo vzťahu k expozíciám, pre ktoré sa používa štandardizovaný prístup,
-
-- a) ustanovenia o zmierňovaní kreditného rizika podľa tohto zákona sa neuplatňujú, ale používajú sa postupy podľa predpisov účinných k 31. decembru 2006,
-
-- b) ustanovenia o sekuritizácii podľa tohto zákona nebudú uplatňované Národnou bankou Slovenska.
+(5) Ak banka postupuje podľa odseku 3, vo vzťahu k expozíciám, pre ktoré sa používa štandardizovaný prístup, ustanovenia o zmierňovaní kreditného rizika podľa tohto zákona sa neuplatňujú, ale používajú sa postupy podľa predpisov účinných k 31. decembru 2006.
 
 (6) Ak banka postupuje podľa odseku 3, požiadavka na vlastné zdroje na operačné riziko podľa § 30 ods. 5 písm. d) sa znižuje o percentuálnu hodnotu, ktorá predstavuje pomer hodnoty expozícií banky, pre ktoré sú hodnoty rizikovo vážených expozícií počítané v súlade s možnosťou podľa odseku 3, k celkovej hodnote jej expozícií.
 
@@ -32,28 +28,18 @@
 
 (12) Národná banka Slovenska môže
 
-- a) do 31. decembra 2012 povoliť banke pri výpočte rizikovo vážených expozícií použitie 50 % rizikovej váhy pre expozície z obchodov, ktorých predmetom je prenájom majetku vzťahujúci sa na kancelárske alebo iné obchodné priestory za podmienok ustanovených osobitným predpisom,
+- a) pre banky žiadajúce o používanie prístupu interných ratingov do 31. decembra 2009 schváliť skrátenie trojročného obdobia predpísaného na používanie vhodných ratingových systémov, a to až na obdobie jedného roka do 31. decembra 2009,
 
-- b) do 31. decembra 2010 na účel vymedzenia zabezpečenia úveru po termíne splatnosti uznať iné zabezpečenie, než je prípustné zabezpečenie na zmierňovanie kreditného rizika,
+- b) pre banky žiadajúce o používanie vlastných odhadov straty v prípade zlyhania alebo vlastných odhadov konverzných faktorov schváliť skrátenie ustanoveného trojročného obdobia na obdobie dvoch rokov do 31. decembra 2008,
 
-- c) do 31. decembra 2011 pre vymedzené expozície na účel možného zníženia rizikovej váhy na 50 % pri štandardizovanom prístupe pre kreditné riziko určiť počet dní po termíne splatnosti až do 180, ak je to vhodné vzhľadom na miestne podmienky,
+- c) do 31. decembra 2012 umožniť bankám naďalej uplatňovať na účasti podľa osobitného predpisu získané pred účinnosťou tohto zákona zaobchádzanie tak, ako ustanovuje osobitný predpis,
 
-- d) ak neuplatní možnosť podľa písmena c), určiť vyšší počet dní pre expozície voči zmluvným stranám na území iného členského štátu, ktorého príslušné orgány dohľadu uplatnili túto možnosť; počet dní je od 90 až do počtu dní určených príslušnými orgánmi dohľadu pre expozície voči takýmto zmluvným stranám na svojom území,
-
-- e) pre banky žiadajúce o používanie prístupu interných ratingov do 31. decembra 2009 schváliť skrátenie trojročného obdobia predpísaného na používanie vhodných ratingových systémov, a to až na obdobie jedného roka do 31. decembra 2009,
-
-- f) pre banky žiadajúce o používanie vlastných odhadov straty v prípade zlyhania alebo vlastných odhadov konverzných faktorov schváliť skrátenie ustanoveného trojročného obdobia na obdobie dvoch rokov do 31. decembra 2008,
-
-- g) do 31. decembra 2012 umožniť bankám naďalej uplatňovať na účasti podľa osobitného predpisu získané pred účinnosťou tohto zákona zaobchádzanie tak, ako ustanovuje osobitný predpis,
-
-- h) do 31. decembra 2017 oslobodiť od uplatňovania prístupu interných ratingov niektoré kapitálové pohľadávky držané bankou alebo dcérskou spoločnosťou banky k 31. decembru 2007 za podmienok ustanovených v osobitnom predpise.
+- d) do 31. decembra 2017 oslobodiť od uplatňovania prístupu interných ratingov niektoré kapitálové pohľadávky držané bankou alebo dcérskou spoločnosťou banky k 31. decembru 2007 za podmienok ustanovených v osobitnom predpise.
 
 (13) Do 31. decembra 2010 expozíciami vážená priemerná strata v prípade zlyhania pre všetky retailové expozície, ktoré sú zabezpečené nehnuteľnosťami určenými na bývanie a nevyužívajú štátne záruky, nesmie byť nižšia ako 10 %.
 
 (14) Banky, ktorým nebolo povolené používať vlastné odhady straty v prípade zlyhania alebo vlastné odhady konverzných faktorov, môžu mať pri implementácii prístupu interných ratingov, ale najneskôr do 31. decembra 2007 vzhľadom na obdobie pozorovania relevantné údaje z dvoch rokov. Až do 31. decembra 2010 sa obdobie pozorovania predlžuje každoročne o jeden rok.
 
-(15) Národná banka Slovenska môže na účel výpočtu minimálnej požiadavky na vlastné zdroje na operačné riziko použitím štandardizovaného prístupu pre operačné riziko uznať pre obchodnú líniu „obchodovanie na finančných trhoch" percentuálnu hodnotu 15 %, ak príslušný ukazovateľ pre túto obchodnú líniu predstavuje najmenej 50 % z celkových ukazovateľov pre všetky obchodné línie podľa osobitného predpisu, a to s použitím najviac do 31. decembra 2012.
+(15) Banka môže začať používať rozšírený prístup interných ratingov pre kreditné riziko podľa § 33 ods. 6 na účely výpočtu hodnoty zodpovedajúcej požiadavke na vlastné zdroje od 1. januára 2008.
 
-(16) Banka môže začať používať rozšírený prístup interných ratingov pre kreditné riziko podľa § 33 ods. 6 na účely výpočtu hodnoty zodpovedajúcej požiadavke na vlastné zdroje od 1. januára 2008.
-
-(17) Banka môže začať používať pokročilý prístup podľa § 33d ods. 4 na účely výpočtu hodnoty zodpovedajúcej požiadavke na vlastné zdroje od 1. januára 2008.
+(16) Banka môže začať používať pokročilý prístup podľa § 33d ods. 4 na účely výpočtu hodnoty zodpovedajúcej požiadavke na vlastné zdroje od 1. januára 2008.
