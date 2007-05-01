@@ -4,7 +4,7 @@
 
 (2) Celková suma všetkých pôžičiek poskytnutých z majetku v špeciálnom podielovom fonde nehnuteľností jednej realitnej spoločnosti nesmie prekročiť 50 % hodnoty všetkých nehnuteľností v majetku tejto realitnej spoločnosti.
 
-(3) Celková suma všetkých pôžičiek poskytnutých z majetku v špeciálnom podielovom fonde nehnuteľností realitným spoločnostiam nesmie prekročiť 25 % hodnoty majetku v špeciálnom podielovom fonde nehnuteľností.
+(3) Celková suma všetkých pôžičiek poskytnutých z majetku v špeciálnom podielovom fonde nehnuteľností realitným spoločnostiam nesmie prekročiť 50 % hodnoty majetku v špeciálnom podielovom fonde nehnuteľností.
 
 (4) Správcovská spoločnosť môže v prospech majetku v špeciálnom podielovom fonde nehnuteľností prijať úver alebo pôžičku so splatnosťou do jedného roka, a to do výšky 20 % hodnoty majetku v špeciálnom podielovom fonde nehnuteľností, ak tento zákon neustanovuje inak.
 

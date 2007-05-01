@@ -1,18 +1,20 @@
 # § 73e Realitná spoločnosť
 
-(1) Realitnou spoločnosťou sa na účely tohto zákona rozumie akciová spoločnosť alebo zahraničná obchodná spoločnosť, ktorej predmetom podnikania je
+(1) Realitnou spoločnosťou sa na účely tohto zákona rozumie akciová spoločnosť alebo zahraničná obchodná spoločnosť, ktorej predmetom podnikania sú tieto činnosti:
 
 - a) nadobúdanie nehnuteľností vrátane príslušenstva,
 
-- b) výstavba nehnuteľností,
+- b) prenájom nehnuteľností s poskytovaním iných než základných služieb spojených s prenájmom,
 
-- c) rekonštrukcia nehnuteľností,
+- c) sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť),
 
-- d) spravovanie a prenájom nehnuteľností alebo
+- d) predaj nehnuteľností.
 
-- e) predaj nehnuteľností.
+(2) Predmetom podnikania realitnej spoločnosti podľa odseku 1 môže byť aj uskutočňovanie stavieb a ich zmien.
 
-(2) Realitná spoločnosť môže okrem vykonávania činností podľa odseku 1 investovať aj do
+(3) Predmet podnikania realitnej spoločnosti môže okrem činností podľa odsekov 1 a 2 zahŕňať len činnosti, ktoré sú nevyhnutné na jej činnosť podľa tohto zákona.
+
+(4) Realitná spoločnosť môže okrem vykonávania činností podľa odseku 1 investovať aj do
 
 - a) vkladov spĺňajúcich podmienky podľa § 44 ods. 1 písm. f),
 

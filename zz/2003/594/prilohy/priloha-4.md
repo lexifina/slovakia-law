@@ -94,7 +94,7 @@ Príloha č. 4 k zákonu č. 594/2003 Z. z.
 
     - p) iné zmeny, ktoré sa týkajú majetku alebo záväzkov v podielovom fonde.
 
-  - 7. Porovnanie troch posledných rokov v štruktúre súvahy a výkazu ziskov a strát, pričom je nutné osobitne uviesť tieto údaje podľa stavu ku koncu roka vo forme porovnávacej tabuľky:
+  - 7. Porovnanie troch posledných porovnateľných účtovných období v štruktúre súvahy a výkazu ziskov a strát, pričom je nutné osobitne uviesť tieto údaje podľa stavu ku koncu porovnateľného účtovného obdobia vo forme porovnávacej tabuľky:
 
     - a) celková čistá hodnota majetku,
 

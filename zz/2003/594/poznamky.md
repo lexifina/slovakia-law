@@ -174,7 +174,9 @@
 
 - 72) § 130 zákona č. 566/2001 Z. z.
 
-- 73) Vyhláška Ministerstva financií Slovenskej republiky č. 558/2002 Z. z., ktorou sa ustanovuje rozsah, spôsob a termíny predkladania výkazov, hlásení alebo prehľadov z účtovnej evidencie a štatistickej evidencie a ustanovuje obsah, forma, členenie, termíny, spôsob a miesto predkladania výkazov, hlásení a iných správ obchodníka s cennými papiermi a zahraničného obchodníka s cennými papiermi v znení vyhlášky č. 34/2003 Z. z.
+- 72a) § 17 ods. 3 písm. c) zákona č. 431/2002 Z. z.
+
+- 73) § 77 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 74) Zákon č. 747/2004 Z. z.
 
