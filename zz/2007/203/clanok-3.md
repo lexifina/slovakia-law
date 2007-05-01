@@ -1,0 +1,3 @@
+# Čl. III
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) ako vyplýva zo zmien a doplnení vykonaných zákonom č. 245/2003 Z. z., zákonom č. 525/2003 Z. z., zákonom č. 541/2004 Z. z., zákonom č. 572/2004 Z. z., zákonom č. 587/2004 Z. z., zákonom č. 725/2004 Z. z., zákonom č. 230/2005 Z. z., zákonom č. 479/2005 Z. z., zákonom č. 532/2005 Z. z., zákonom č. 571/2005 Z. z. a týmto zákonom.
