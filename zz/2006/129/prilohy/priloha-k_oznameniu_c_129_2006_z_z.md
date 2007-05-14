@@ -314,6 +314,16 @@ K oznámeniu č. 129/2006 Z. z.
 
     - e-mail: faffgnd@caribsurf.com
 
+    - Gruzínska republika
+
+  - 1. Ministerstvo spravodlivosti
+
+  - 2. Ministerstvo školstva a vedy
+
+  - 3. Najvyšší súd
+
+  - 4. Ministerstvo práce, zdravotníctva a sociálnych vecí
+
     - Holandsko
 
   - 1. pre kráľovstvo v Európe | súdny tajomník („registrar") súdov prvého stupňa
