@@ -10,6 +10,8 @@
 
 - 4) § 89 ods. 6 Trestného zákona.
 
+- 4a) § 3 ods. 1 písm. k) zákona č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov.
+
 - 5) § 2 a § 3 písm. a) bod 8 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 445/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
 - 6) § 2 písm. ba) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
