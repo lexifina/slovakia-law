@@ -1,10 +1,10 @@
-- 1) § 10 ods. 3 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 556/2002 Z. z. o vykonaní niektorých ustanovení vodného zákona.
+- 1) § 39 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 532/2005 Z. z.
 
 - 2) § 49 ods. 11 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2004 Z. z.
 
-- 3) § 32 ods. 12 zákona č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon).
+- 3) § 36 ods. 14 zákona č. 364/2004 Z. z. v znení zákona č. 230/2005 Z. z.
 
-- § 6 nariadenia vlády Slovenskej republiky č. 491/2002 Z. z., ktorým sa ustanovujú kvalitatívne ciele povrchových vôd a limitné hodnoty ukazovateľov znečistenia odpadových vôd a osobitných vôd.
+- § 6 nariadenia vlády Slovenskej republiky č. 296/2005 Z. z., ktorým sa ustanovujú požiadavky na kvalitu a kvalitatívne ciele povrchových vôd a limitné hodnoty ukazovateľov znečistenia odpadových vôd a osobitných vôd.
 
 - 4) § 49 ods. 12 zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
 
