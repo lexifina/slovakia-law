@@ -1,7 +1,21 @@
 # Článok 3 Zaobchádzanie s investíciami
 
-- 1. Každá zo zmluvných strán poskytne na svojom území investorom druhej zmluvnej strany vo vzťahu k investíciám, výnosom a podnikateľským činnostiam súvisiacim s investíciami zaobchádzanie a ochranu nie menej priaznivé, než aké poskytuje investorom ktoréhokoľvek tretieho štátu.
+- 1. Každá zmluvná strana poskytne investíciám a aktivitám spojeným s takými investíciami investorov druhej zmluvnej strany zaobchádzanie nie menej priaznivé, než aké poskytuje investíciám a príslušným aktivitám vlastných investorov.
 
-- 2. Každá zo zmluvných strán poskytne na svojom území investorom druhej zmluvnej strany vo vzťahu k investíciám, výnosom a podnikateľským činnostiam súvisiacim s investíciami zaobchádzanie a ochranu nie menej priaznivé, než aké poskytuje vlastným investorom.
+- 2. Ani jedna zo zmluvných strán neposkytne investíciám a aktivitám spojeným s takými investíciami investorov druhej zmluvnej strany menej priaznivé zaobchádzanie, než aké poskytuje investíciám investorov a príslušným aktivitám investorov ktoréhokoľvek iného tretieho štátu.
 
-- 3. Zaobchádzanie a ochrana uvedené v odseku 1 sa nebudú týkať výhod ani výsad, aké môže druhá zmluvná strana poskytovať investorom tretích štátov v súvislosti s ich členstvom v colnej únii, zóne voľného obchodu, hospodárskej únii alebo na základe dohody o zamedzení dvojitého zdanenia alebo dohody o uľahčení pohraničného obchodu.
+- 3. Ustanovenia odseku 2 tohto článku nemožno vykladať tak, že zaväzujú jednu zmluvnú stranu poskytovať investorom štátu druhej zmluvnej strany výhody zaobchádzania, prednosti alebo výsady na základe
+
+  - a) jej členstva v akejkoľvek existujúcej colnej únii, zóne voľného obchodu, hospodárskej únii, spoločnom trhu alebo akejkoľvek inej formy regionálnej hospodárskej organizácie a akejkoľvek medzinárodnej dohody vytvárajúcej takú úniu; alebo prijatia dohody, ktorej cieľom je vytvorenie alebo rozšírenie takej únie alebo oblasti v primeranom čase;
+
+  - b) akejkoľvek medzinárodnej dohody alebo dohovoru týkajúceho sa úplne alebo prevažne zdaňovania;
+
+  - c) akéhokoľvek dohovoru o uľahčení malého pohraničného obchodu v hraničných oblastiach.
+
+- 4. Odsek 1 tohto článku sa nevzťahuje na
+
+  - a) akékoľvek existujúce nekonformné opatrenia platné na jej území;
+
+  - b) pokračovanie akéhokoľvek nekonformného opatrenia;
+
+  - c) žiadnu zmenu akéhokoľvek nekonformného opatrenia v takej miere, že táto zmena nezvýši nekonformnosť týchto opatrení.
