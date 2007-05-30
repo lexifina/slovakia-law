@@ -92,7 +92,19 @@
 
   - b) Listina o prístupe Litovskej republiky k dohovoru obsahuje tieto vyhlásenia a túto výhradu:
 
-  - „Litovská republika určuje Ministerstvo sociálnych vecí a práce Litovskej republiky ako ústredný orgán na vykonávanie úloh určených dohovorom.
+  - Podľa článku 29 dohovoru Litovská republika určila ústredný orgán:
+
+  - Ministerstvo sociálnych vecí a práce Litovskej republiky
+
+  - Vivulskio 11
+
+  - LT-03610 Vilnius
+
+  - Tel.:+370 5 266 4201
+
+  - Fax.:+370 5 266 4209
+
+  - e-mail: post@socmin.lt
 
   - Žiadosti podľa čl. 34 ods. 1 sa majú zasielať litovským orgánom prostredníctvom ústredného orgánu.
 
@@ -343,6 +355,16 @@
   - Podľa čl. 54 ods. 2 si Maďarská republika vyhradzuje právo prijímať len písomnosti v maďarskom jazyku. Ak nie je reálne možné písomnosti preložiť do maďarského jazyka, bude akceptovaný preklad do anglického jazyka.
 
   - Maďarská republika si vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu majetku dieťaťa, ktorý sa nachádza na jej území, ako aj právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým jej orgánmi vo vzťahu k takému majetku.
+
+  - Podľa článku 29 dohovoru Maďarská republika určila ústredný orgán:
+
+  - Ministerstvo sociálnych vecí a zamestnanosti
+
+  - 1054 Budapešť, Akadémia 3
+
+  - 1373 Budapešť, P. O. BOX 609
+
+  - Tel.:+36-1-475-5700, +36-1-475-5800
 
   - Bulharská republika
 
