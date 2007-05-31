@@ -1,8 +1,8 @@
 - 1) Zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.
 
-- 2) § 3 zákona č. 308/2000 Z. z.
+- 2) § 3 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
 
-- 3) § 69 zákona č. 308/2000 Z. z.
+- 3) § 3 písm. m) zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
 
 - 4) § 3 písm. h) a § 18 ods. 2 písm. d) zákona č. 308/2000 Z. z.
 
@@ -21,6 +21,8 @@
 - 11) § 673 a 681 Obchodného zákonníka.
 
 - 12) Napríklad § 86 Obchodného zákonníka.
+
+- 12a) § 26 ods. 4 zákona č. 220/2007 Z. z.
 
 - 13) Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
