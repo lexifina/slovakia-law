@@ -1,8 +1,8 @@
 - 1) Zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.
 
-- 2) § 3 zákona č. 308/2000 Z. z.
+- 2) § 69 ods. 1 a 2 zákona č. 308/2000 Z. z.
 
-- 3) § 69 zákona č. 308/2000 Z. z.
+- 3) § 2 ods. 13, § 41 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
 
 - 4) § 3 písm. h) a § 18 ods. 2 písm. d) zákona č. 308/2000 Z. z.
 
