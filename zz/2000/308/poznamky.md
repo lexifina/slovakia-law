@@ -1,16 +1,26 @@
-- 1) Zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
+- 1) Zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
 
-- 2) Zákon č. 195/2000 Z. z. o telekomunikáciách.
+- Zákon č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov.
 
-- 3) § 4 ods. 5 zákona č. 195/2000 Z. z.
+- 1a) Zákon č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
 
-- 4) § 3 ods. 1 zákona č. 195/2000 Z. z.
+- 2a) § 2 ods. 6 zákona č. 220/2007 Z. z.
+
+- 3) § 3 zákona č. 220/2007 Z. z.
+
+- 3a) § 4 zákona č. 610/2003 Z. z. o elektronických komunikáciách v znení zákona č. 117/2006 Z. z.
+
+- 3b) § 2 ods. 5 zákona č. 220/2007 Z. z.
+
+- 4) § 7 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
 - 5) § 10 zákona č. 195/1998 Z. z. o sociálnej pomoci.
 
 - 6) § 116 Občianskeho zákonníka.
 
 - 7) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov.
+
+- 7a) Napríklad § 24 až 39 zákona č. 220/2007 Z. z.
 
 - 8) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 168/1998 Z. z. o uzavretí Európskeho dohovoru o cezhraničnej televízii.
 
@@ -23,6 +33,8 @@
 - 12) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 13) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
+
+- 13a) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 237/1993 Z. z. o registri trestov.
 
@@ -44,6 +56,8 @@
 
 - 21b) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 21c) Napríklad § 3 zákona č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z.
+
 - 22) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. v znení neskorších predpisov, zákon č. 46/1999 Z. z.
 
 - 23) § 5 zákona č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
@@ -56,11 +70,15 @@
 
 - Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín.
 
+- 26a) § 27 zákona č. 220/2007 Z. z.
+
+- 26b) § 3 ods. 4 zákona č. 220/2007 Z. z.
+
+- 26c) § 49 ods. 2 až 4 zákona č. 220/2007 Z. z.
+
 - 27) § 23a zákona č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov.
 
 - 28) § 2 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
-
-- 29) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
 - 30) Napríklad § 23 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení neskorších predpisov, § 15 zákona č. 46/1999 Z. z.
 
@@ -74,9 +92,11 @@
 
 - 35) Zákon č. 383/1997 Z. z.
 
+- 35a) Napríklad § 30 ods. 2 zákona 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, § 15 ods. 1 zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov, § 24 ods. 8 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky.
+
 - 36) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
-- 37) § 5 ods. 2 zákona č. 195/2000 Z. z.
+- 37) § 4 zákona č. 220/2007 Z. z.
 
 - 38) § 35 až 40 Obchodného zákonníka.Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov v znení neskorších predpisov.
 
@@ -84,7 +104,7 @@
 
 - 40) § 52 zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom.
 
-- 41) § 244 až 250c Občianskeho súdneho poriadku.
+- 41) § 250l až 250s Občianskeho súdneho poriadku.
 
 - 42) § 476 až 488 Obchodného zákonníka v znení neskorších predpisov.
 
@@ -98,6 +118,12 @@
 
 - 47) § 37 ods. 13 zákona č. 195/2000 Z. z.
 
-- 48) § 6 zákona č. 195/2000 Z. z.
+- 48) Napríklad § 69 ods. 1 a 2 zákona č. 220/2007 Z. z.
 
-- 49) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 48a) § 69 a 70 zákona č. 220/2007 Z. z.
+
+- 49) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 50) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 51) § 24 ods. 3 zákona č. 220/2007 Z. z.
