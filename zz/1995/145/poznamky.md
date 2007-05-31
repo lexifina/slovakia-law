@@ -50,6 +50,10 @@
 
 - 14) Napríklad § 45 až 52, § 55 a § 56 až 60 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
 
+- 14a) § 27 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
+
+- 14b) § 34, 36 a 38 zákona č. 220/2007 Z. z.
+
 - 15) Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
 - 16) § 30 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona č. 14/2006 Z. z.

@@ -250,53 +250,67 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 13
 
-  - a) Udelenie licencie na televízne vysielanie<sup>14</sup>) |
+  - a) Udelenie licencie na vysielanie<sup>14</sup>) |
 
-  - 1. celoplošné alebo multiregionálne | 20 000 Sk
+  - 1. celoplošné alebo multiregionálne | 8 000 Sk
 
-  - 2. regionálne | 10 000 Sk
+  - 2. do zahraničia | 6 000 Sk
 
-  - 3. lokálne | 5 000 Sk
+  - 3. regionálne | 4 000 Sk
 
-  - b) Udelenie licencie na rozhlasové vysielanie<sup>14</sup>) |
+  - 4. lokálne | 2 000 Sk
 
-  - 1. celoplošné alebo multiregionálne | 10 000 Sk
+  - b) Udelenie krátkodobej licencie na vysielanie | 1 000 Sk
 
-  - 2. regionálne | 5 000 Sk
+  - c) Vydanie rozhodnutia o predĺžení platnosti licencie na vysielanie - správny orgán vyberie poplatok vo výške poplatku za udelenie licencie podľa písmena a) |
 
-  - 3. lokálne | 5 000 Sk
+  - d) Vydanie rozhodnutia o zmene licencie na vysielanie okrem zmeny podľa písmena c) | 1 000 Sk až 5 000 Sk
 
-  - c) Udelenie licencie na vysielanie do zahraničia alebo prostredníctvom satelitu |
+  - e) Registrácia retransmisie<sup>14</sup>) | 5 000 Sk až 20 000 Sk
 
-  - 1. televízne vysielanie | 20 000 Sk
+  - f) Vydanie rozhodnutia o zmene registrácie retransmisie | 1 000 Sk až 5 000 Sk
 
-  - 2. rozhlasové vysielanie | 10 000 Sk
+  - Oslobodenie Od poplatku podľa písmena d) tejto položky je oslobodené vydanie rozhodnutia o zmene licencie, ktorým sa vykonáva zmena v identifikačných údajoch vysielateľa, v údajoch o osobách, ktoré majú účasť na základnom imaní alebo podiel na hlasovacích právach vysielateľa, alebo v údajoch o štatutárnych orgánoch a kontrolných orgánoch vysielateľa. |
 
-  - d) Vydanie rozhodnutia o predĺžení doby platnosti licencie na vysielanie – správny orgán vyberie poplatok vo výške poplatku za udelenie licencie podľa písmen a) až c) |
+  - Splnomocnenie Poplatok v rámci určeného rozpätia podľa písmen d) až f) tejto položky určí príslušný správny orgán. |
 
-  - e) Udelenie krátkodobej licencie na |
+  - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu; poplatok za udelenie licencie sa vyberie po vydaní rozhodnutia o jej udelení a poplatok za registráciu retransmisie sa vyberie po vydaní rozhodnutia o jej registrácii. |
 
-  - 1. televízne vysielanie | 3 000 Sk
+    - Položka 13a
 
-  - 2. rozhlasové vysielanie | 1 500 Sk
+  - a) Udelenie licencie na celoplošné digitálne vysielanie<sup>14a</sup>) |
 
-  - f) Vydanie rozhodnutia o zmene licencie na vysielanie okrem zmeny podľa písmena d) |
+  - 1. televíznej programovej služby | 20 000 Sk
 
-  - 1. televízne vysielanie | 1 000 Sk až 5 000 Sk
+  - 2. rozhlasovej programovej služby | 10 000 Sk
 
-  - 2. rozhlasové vysielanie | 1 000 Sk až 5 000 Sk
+  - b) Udelenie licencie na regionálne digitálne vysielanie<sup>14a</sup>) |
 
-  - g) Registrácia retransmisie<sup>14</sup>) | 5 000 Sk až 20 000 Sk
+  - 1. televíznej programovej služby | 10 000 Sk
 
-  - h) Vydanie rozhodnutia o zmene registrácie retransmisie | 1 000 Sk až 5 000 Sk
+  - 2. rozhlasovej programovej služby | 5 000 Sk
 
-  - Splnomocnenie |
+  - c) Udelenie licencie na lokálne digitálne vysielanie<sup>14a</sup>) |
 
-  - Poplatok v rámci určeného rozpätia podľa písmen f) až h) tejto položky určí príslušný správny orgán. |
+  - 1. televíznej programovej služby | 2 000 Sk
 
-  - Poznámka |
+  - 2. rozhlasovej programovej služby | 1 000 Sk
 
-  - Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu; poplatok za udelenie licencie sa vyberie po vydaní rozhodnutia o jej udelení a poplatok za registráciu retransmisie sa vyberie po vydaní rozhodnutia o jej registrácii. |
+  - d) Doplnenie licencie na digitálne vysielanie o<sup>14b</sup>) |
+
+  - 1. doložku doplnkových obsahových služieb | 5 000 Sk
+
+  - 2. zahraničnú doložku | 10 000 Sk
+
+  - 3. doložku iného verejného prenosu | 10 000 Sk
+
+  - e) Vydanie rozhodnutia o zmene licencie na digitálne vysielanie okrem zmeny podľa písmena d) | 1 000 Sk až 5 000 Sk
+
+  - Oslobodenie Od poplatku podľa písmena e) tejto položky je oslobodené vydanie rozhodnutia o zmene licencie, ktorým sa vykonáva zmena v osobe vysielateľa alebo v identifikačných údajoch vysielateľa, v údajoch o osobách, ktoré majú podiel na základnom imaní alebo podiel na hlasovacích právach vysielateľa, alebo v údajoch o štatutárnych orgánoch a kontrolných orgánoch vysielateľa. |
+
+  - Splnomocnenie Poplatok v rámci určeného rozpätia podľa písmena e) tejto položky určí príslušný správny orgán. |
+
+  - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu; poplatok za udelenie licencie sa vyberie po vydaní rozhodnutia o jej udelení a poplatok za udelenie doložky k licencii sa vyberie po vydaní rozhodnutia, ktorým sa licencia dopĺňa. |
 
     - Položka 15
 
