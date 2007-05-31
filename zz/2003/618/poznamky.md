@@ -1,4 +1,6 @@
-- 1) § 2 ods. 8 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
+- 1) § 56 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
+
+- 1a) § 2 ods. 8 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
 - 2) § 116 Občianskeho zákonníka.
 
