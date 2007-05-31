@@ -50,17 +50,21 @@
 
 - 18) § 116 Občianskeho zákonníka.
 
-- 19) § 476 až 488 Obchodného zákonníka..
+- 19) § 21 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
 
-- 20) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov
+- 20) § 20 zákona č. 220/2007 Z. z.
 
-- 21) § 251 až 275 Občianskeho zákonníka.
+- 21) § 18 až 23 zákona č. 220/2007 Z. z.
 
-- 22) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 22) Napríklad § 54 ods. 6 zákona č. 220/2007 Z. z.
 
 - 23) § 53 až 63 zákona č. 308/2000 Z. z.
 
 - 23a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií v znení neskorších predpisov.
+
+- 23b) Napríklad § 9 až 11, 40 až 54, 69 a 70 zákona č. 220/2007 Z. z.
+
+- 23c) Zákon č. 220/2007 Z. z.
 
 - 24) § 17 zákona č. 431/2002 Z. z. o účtovníctve.
 
@@ -87,7 +91,5 @@
 - 32) § 246 ods. 2 písm. b) Občianskeho súdneho poriadku v znení zákona č. 424/2002 Z. z.
 
 - 33) § 52 zákona č. 308/2000 Z. z.
-
-- 34) § 68 ods. 4 zákona č. 308/2000 Z. z.
 
 - 1) Dostupnosť týchto informácií môže byť obmedzená na zaisteresované strany len v prípade verejných bezpečnostných záujmov.
