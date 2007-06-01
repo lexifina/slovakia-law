@@ -26,17 +26,11 @@
 
 - 10) Dohovor o zákaze vývoja, výroby a hromadenia zásob bakteriologických (biologických) a toxínových zbraní a o ich zničení (vyhláška ministra zahraničných vecí č. 96/1975 Zb.).
 
-- 10a) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 11) § 3 ods. 1 zákona č. 126/2006 Z. z.
 
 - 12) § 10 ods. 4 písm. a) zákona č. 126/2006 Z. z.
 
-- 13) § 15 zákona č. 200/2022 Z. z. o územnom plánovaní.
-
-- 13a) § 48 až 62 Stavebného zákona.
-
-- 13b) § 66 a § 68 až 70 Stavebného zákona.
+- 13) § 140b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 14) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
