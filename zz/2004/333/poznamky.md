@@ -8,17 +8,15 @@
 
 - 4) § 3 ods. 2 zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
-- 5) § 10 ods. 2 zákona č. 320/2002 Z. z. o brannej povinnosti.
-
-- 6) § 13 a § 24 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
-- § 17 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
-
-- § 15 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
-
 - 7) § 250z Občianskeho súdneho poriadku.
 
 - 8) § 18 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 8a) § 13 ods. 1 a § 24 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- § 17 ods. 1 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
+
+- § 15 ods. 1 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
 
 - 9) § 42 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
