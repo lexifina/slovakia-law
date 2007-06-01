@@ -10,33 +10,41 @@
 
 - 5) Napríklad nariadenie (ES) č. 638/2004 Európskeho parlamentu a Rady z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 (Ú. v. EÚ L 102, 7. 04. 2004).
 
-- 6) Napríklad zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení neskorších predpisov, zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení zákona č. 556/2004 Z. z., zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení zákona č. 556/2004 Z. z., zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zákona č. 556/2004 Z. z.
+- 6) Napríklad zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov, zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov, zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov, zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení neskorších predpisov.
 
-- 7) Napríklad § 12 zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok).
+- 7) Napríklad § 10 ods. 1 a 8 Trestného poriadku.
 
-- 8) Napríklad zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/2004 Z. z, zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 8) Napríklad § 5 zákona č. 199/2004 Z. z., zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 21/2007 Z. z. o tovare a technológiách dvojakého použitia a o zmene a doplnení niektorých zákonov.
 
-- 9) Napríklad zákon č. 98/2004 Z. z.
+- 9) Napríklad zákon č. 98/2004 Z. z. v znení neskorších predpisov.
 
 - 10) Článok 119 Ústavy Slovenskej republiky.
 
 - 11) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
+- 11a) Napríklad § 41 a 42 zákona č. 199/2004 Z. z.
 
-- 13) Napríklad zákon č. 219/2003 Z. z. o zaobchádzaní s chemickými látkami, ktoré možno zneužiť na nezákonnú výrobu omamných látok a psychotropných látok a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 237/2002 Z. z. o obchode s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+- 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 14) § 158 Trestného poriadku.
+- 13) Napríklad § 34, 35 a 39 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 2 a 5 zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov, § 2, 5 a 7 zákona č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov.
 
-- 15) Zákon č. 540/2001 Z. z. o štátnej štatistike.
+- 14) § 196 Trestného poriadku.
 
-- 16) Napríklad zákon č. 219/2003 Z. z.
+- 15) § 13 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
-- 17) Zákon č. 26/2002 Z. z. o podmienkach a kontrole dovozu, vývozu a sprostredkovateľských činností týkajúcich sa tovaru a technológií podliehajúcich medzinárodným kontrolným režimom a o zmene zákona č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 16) Napríklad § 6 zákona č. 331/2005 Z. z.
 
-- 18) § 32 ods. 2 zákona č. 199/2004 Z. z.
+- 17) Nariadenie Rady (ES) č. 1383/2003 z 22. júla 2003, ktoré sa týka colného konania pri tovare podozrivom z porušovania niektorých práv duševného vlastníctva a opatrení, ktoré sa majú prijať pri tovare, u ktorého sa zistilo, že sa takéto práva porušili (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 13; Ú. v. EÚ L 196, 2. 8. 2003).
 
-- 19) Napríklad zákon č. 199/2004 Z. z., zákon č. 222/2004 Z. z. v znení zákona č. 350/2004 Z. z., zákon č. 98/2004 Z. z.
+- Nariadenie Komisie (ES) č. 1891/2004 z 21. októbra 2004, ktorým sa vykonáva nariadenie Rady (ES) č. 1383/2003 o prijatí opatrení colnými orgánmi pri tovare, pri ktorom je podozrenie z porušovania niektorých práv duševného vlastníctva a opatrení, ktoré sa majú prijať pri tovare, pri ktorom sa zistilo, že sa práva duševného vlastníctva porušili (Ú. v. EÚ L 328, 30. 10. 2004).
+
+- Zákon č. 200/2004 Z. z. o opatreniach proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru v znení zákona č. 116/2006 Z. z.
+
+- 17a) Čl. 8 ods. 2 až 4 nariadenia Komisie (ES) č. 1891/2004.
+
+- 18) § 32 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 652/2004 Z. z.
+
+- 19) Napríklad zákon č. 98/2004 Z. z. v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 21/2007 Z. z.
 
 - 20) § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -45,6 +53,10 @@
 - 22) Napríklad § 71 a 72 a § 80 až 84 zákona č. 199/2004 Z. z.
 
 - 23) § 70, 72 až 79 zákona č. 199/2004 Z. z.
+
+- 23a) Napríklad § 12 až 18 zákona č. 200/2004 Z. z. v znení zákona č. 116/2006 Z. z., § 31 ods. 1 zákona č. 21/2007 Z. z.
+
+- 23b) Napríklad § 12, § 19 až 24 zákona č. 200/2004 Z. z. v znení zákona č. 116/2006 Z. z., § 31 ods. 5 zákona č. 21/2007 Z. z.
 
 - 24) Čl. 232 Nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 
@@ -62,19 +74,21 @@
 
 - 31) Článok 11 Dohovoru Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.).
 
-- 32) Napríklad zákon č. 98/2004 Z. z., zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov.
+- 32) Napríklad § 15, 29 a 46 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov, zákon č. 98/2004 Z. z. v znení neskorších predpisov.
 
 - 33) § 72 ods. 1 písm. l) zákona č. 199/2004 Z. z.
 
-- 34) § 89 ods. 4 Trestného zákona.
+- 34) § 122 ods. 3 Trestného zákona.
 
 - 35) § 116 Občianskeho zákonníka.
 
 - 36) Napríklad § 136 zákona č. 311/2001 Z. z. Zákonník práce, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
-- 37) § 18 ods. 5 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+- 37) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 38) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+- 37a) § 18 a 20a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
+
+- 38) § 6 a 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 39) § 64 zákona č. 199/2004 Z. z.
 
@@ -84,19 +98,23 @@
 
 - 42) Napríklad zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
 
-- 43) § 88a Trestného poriadku.
+- 42a) § 113 ods. 1 a 2 Trestného poriadku.
 
-- 44) § 13 Trestného zákona.
+- 43) § 111 Trestného poriadku.
 
-- 45) § 14 Trestného zákona.
+- 44) § 25 Trestného zákona.
 
-- 46) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
+- 45) § 24 Trestného zákona.
+
+- 46) Napríklad § 58 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+
+- 46a) Napríklad nariadenie Rady (ES) č. 515/1997 z 13. marca 1997 o vzájomnej pomoci medzi správnymi orgánmi členských štátov a o spolupráci medzi správnymi orgánmi členských štátov a Komisiou pri zabezpečovaní riadneho uplatňovania predpisov o colných a poľnohospodárskych záležitostiach (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 8; Ú. v. ES L 82, 22. 3. 1997) v platnom znení.
 
 - 47) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 48) Napríklad zákon č. 199/2004 Z. z., zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, zákon č. 98/2004 Z. z.
 
-- 49) § 55 ods. 3 a 6 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
+- 49) § 55 ods. 3 a 6 zákona č. 610/2003 Z. z. o elektronických komunikáciách v znení zákona č. 69/2005 Z. z.
 
 - 50) § 4 ods. 2 zákona č. 428/2002 Z. z.
 
@@ -108,10 +126,12 @@
 
 - 54) § 5 ods. 1 zákona č. 610/2003 Z. z.
 
-- 55) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+- 55) § 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 628/2005 Z. z.
 
 - 56) § 4 ods. 1 zákona č. 211/2000 Z. z.
 
 - 57) § 2 zákona č. 211/2000 Z. z.
 
 - 58) § 40 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 59) § 5 ods. 1 písm. c) zákona č. 283/2002 Z. z. o cestovných náhradách.
