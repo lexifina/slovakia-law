@@ -25,3 +25,7 @@ Príloha č. 3 k vyhláške č. 542/2002 Z. z.
 - 11. S/MIME Verzia 3. Formát je definovaný v zahraničnej norme.<sup>19</sup>)
 
 - 12. Security Services for S/MIME. Formát je definovaný v zahraničnej norme.<sup>20</sup>)
+
+- 13. Tag Image File Format for image technology (TIFF). Formát je definovaný v zahraničnej norme.<sup>21</sup>)
+
+- 14. Portable Network Graphics (PNG). Formát je definovaný v zahraničnej norme.<sup>22</sup>)
