@@ -157,3 +157,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 62. | Hodnotenie zdravotných rizík zo životného prostredia | - osvedčenie o odbornej spôsobilosti | § 9 ods. 4 písm. b) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov". |
 
 - 63. | Kontrola kotlov a vykurovacích sústav, kontrola klimatizačných systémov | osvedčenie | § 7 ods. 3 zákona č. 17/2007 Z. z. o pravidelnej kontrole kotlov, vykurovacích sústav a klimatizačných systémov a o zmene a doplnení niektorých zákonov |
+
+- 64. | Činnosť bezpečnostného poradcu | Osvedčenie | § 5a ods. 4 zákona č. 338/2000 Z. z. |
+
+- 65. | Vykonávanie školení a skúšok žiadateľov o vydanie osvedčenia o odbornej spôsobilosti bezpečnostného poradcu | Poverenie | § 5a ods. 7 zákona č. 338/2000 Z. z. |
