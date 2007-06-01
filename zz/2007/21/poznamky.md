@@ -6,6 +6,8 @@
 
 - 4) Čl. 16 ods. 2 nariadenia Rady (ES) č. 1334/2000.
 
+- 4a) Zákon č. 218/2007 Z. z. o zákaze biologických zbraní a o zmene a doplnení niektorých zákonov.
+
 - 5) § 8 zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2005 Z. z.
 
 - 6) § 11 zákona č. 652/2004 Z. z.
@@ -43,6 +45,8 @@
 - § 289 až 292 Obchodného zákonníka.
 
 - 22) § 14 zákona č. 541/2004 Z. z.
+
+- 22a) § 17 zákona č. 218/2007 Z. z.
 
 - 23) Napríklad nariadenie Rady (EHS) č. 2913/1992, zákon č. 129/1998 Z. z. o zákaze chemických zbraní a o zmene a doplnení niektorých zákonov, zákon č. 541/2004 Z. z., § 50a Občianskeho zákonníka, § 289 a 292 Obchodného zákonníka.
 
