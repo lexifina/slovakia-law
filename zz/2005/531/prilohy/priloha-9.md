@@ -191,3 +191,7 @@ Príloha č. 9
   - 26. Smernica Komisie 2006/135/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť carbendazim medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006).
 
   - 27. Smernica Komisie 2006/136/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dinocap medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006).
+
+  - 28. Smernica Komisie 2007/5/ES zo 7. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť kaptán, folpet, formetanát a metiokarb medzi účinné látky (Ú. v. EÚ L 35, 8. 2. 2007).
+
+  - 29. Smernica Komisie 2007/6/ES zo 14. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metrafenone, Bacillus subtilis, spinosad a thiamethoxam medzi účinné látky (Ú. v. EÚ L 43, 15. 2. 2007).
