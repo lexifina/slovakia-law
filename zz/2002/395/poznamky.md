@@ -1,4 +1,8 @@
-- 1) § 3 ods. 2 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
+- 1) § 17 ods. 3 a 4 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
+
+- § 17 ods. 3 a 4 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+
+- 1a) § 3 ods. 2 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
 
 - 2) § 2 ods. 2 zákona č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej a galerijnej hodnoty v znení zákona č. 387/2001 Z. z.
 
@@ -38,7 +42,7 @@
 
 - 20) § 21 ods. 1 zákona č. 435/2000 Z. z. o námornej plavbe.
 
-- 21) § 46 ods. 1 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+- 21) § 46 ods. 1, 2 a 4 až 7 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
@@ -70,8 +74,10 @@
 
 - 36) Čl. 5 písm. g) Dohovoru o opatreniach na zákaz a zamedzenie nedovoleného dovozu, vývozu a prevodu vlastníctva kultúrnych statkov (vyhláška č. 15/1980 Zb.).
 
+- 36a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 37) Čl. 7 ods. 2 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
 
-- 38) § 7 a 11 zákona Národnej rady Slovenskej republiky č. 261/1995 Z. z. o štátnom informačnom systéme.
+- 38) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
 
 - 39) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.

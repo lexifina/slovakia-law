@@ -1,4 +1,4 @@
-Príloha k zákonu č. 395/2002 Z. z.
+Príloha č. 1 k zákonu č. 395/2002 Z. z.
 
 - NÁZVY, SÍDLA A ÚZEMNÉ OBVODY ŠTÁTNYCH ARCHÍVOV S REGIONÁLNOU ÚZEMNOU PÔSOBNOSŤOU A ICH POBOČKY NÁZOV/SÍDLO<sup>1</sup>) | ÚZEMNÝ OBVOD OKRES
 
