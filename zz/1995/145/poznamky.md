@@ -100,6 +100,8 @@
 
 - 25a) § 3 ods. 3 písm. m) zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
+- 25b) § 39 ods. 1 písm. e) zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+
 - 26) § 75 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
 - 27) § 31 zákona č. 610/2003 Z. z.
