@@ -6,6 +6,12 @@
 
 - 2) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
+- 2a) Európska dohoda o medzinárodnej cestnej preprave nebezpečných vecí (ADR) (oznámenie č. 243/1996 Z. z.).
+
+- 2b) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
+
+- 2c) Príloha A časť 1 kapitola 1.1 bod 1.1.3.6. Európskej dohody o medzinárodnej cestnej preprave nebezpečných vecí (ADR) (oznámenie č. 243/1996 Z. z.).
+
 - 3) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z.
@@ -26,7 +32,17 @@
 
 - 12) § 21 ods. 2 Obchodného zákonníka.
 
-- 12a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12a) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12b) Čl. 2 ods. 2 nariadenia Rady (ES) č. 718/1999 z 29. marca 1999 o pláne kapacity flotily Spoločenstva na podporu vnútrozemskej vodnej dopravy (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4; Ú. v. ES L 90, 2. 4. 1999).
+
+- 12c) Nariadenie Rady (ES) č. 718/1999 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4; Ú. v. ES L 90, 2. 4. 1999).
+
+- Nariadenie Komisie (ES) č. 805/1999 zo 16. apríla 1999, ktorým sa ustanovujú niektoré opatrenia na vykonávanie nariadenia Rady (ES) č. 718/1999 o pláne kapacity flotily Spoločenstva na podporu vnútrozemskej vodnej dopravy (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv.4; Ú. v. ES L 102, 17. 4. 1999) v platnom znení.
+
+- 12d) Čl. 4 nariadenia Rady (ES) č. 718/1999 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4.).
+
+- 12e) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
@@ -48,8 +64,6 @@
 
 - 20) § 89 ods. 13 Trestného zákona.
 
-- 21) Zákon č. 351/1997 Z. z. BRANNÝ ZÁKON.
-
 - 21a) § 7 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 21b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
@@ -59,6 +73,8 @@
 - 23) § 126 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 24) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 24a) Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 25) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
