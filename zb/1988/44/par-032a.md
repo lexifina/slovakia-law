@@ -1,18 +1,18 @@
 # § 32a Úhrady
 
-(1) Organizácia, ktorá má určený dobývací priestor, a vláda Slovenskej republiky nevyhlásila útlmový program na dobývanie výhradného ložiska v dobývacom priestore, platí úhradu za dobývací priestor 5 000 Sk ročne za každý aj začatý km<sup>2</sup> plošného obsahu dobývacieho priestoru.
+(1) Organizácia, ktorá má určený dobývací priestor, a vláda Slovenskej republiky nevyhlásila útlmový program na dobývanie výhradného ložiska v dobývacom priestore, platí úhradu za dobývací priestor 20 000 Sk ročne za každý aj začatý km<sup>2</sup> plošného obsahu dobývacieho priestoru.
 
-(2) Organizácia, ktorá má určený dobývací priestor, platí úhradu za nerasty vydobyté z výhradného ložiska, na ktoré bol dobývací priestor určený. Sadzba úhrady je najviac 10 % z trhovej ceny výrobkov zhotovených z vydobytých nerastov. Pri výpočte tejto úhrady sa vychádza z podielu nákladov na dobývanie a celkových nákladov na zhotovenie výrobkov.
+(2) Organizácia, ktorá má určený dobývací priestor, platí úhradu za nerasty vydobyté z výhradného ložiska, na ktoré bol dobývací priestor určený. Sadzba úhrady je najviac 20 % z trhovej ceny výrobkov zhotovených z vydobytých nerastov, a to z rádioaktívnych nerastov a z nerastov, z ktorých možno priemyselne vyrábať drahé kovy; sadzba úhrady pri ostatných nerastoch, z ktorých možno priemyselne vyrábať iné kovy, je najviac 10 % z trhovej ceny výrobkov zhotovených z vydobytých nerastov. Pri výpočte tejto úhrady sa vychádza z podielu nákladov na dobývanie a celkových nákladov na zhotovenie výrobkov.
 
 (3) Organizácia platí úhradu za uskladňovanie plynov alebo kvapalín v prírodných horninových štruktúrach a v podzemných priestoroch (§ 5 ods. 2) (ďalej len „uskladňovanie plynov alebo kvapalín“). Sadzba úhrady je najviac 0,02 Sk za uskladnenie (zatlačenie) 1 m<sup>3</sup> plynu alebo 1 t kvapaliny.
 
 (4) Úhrady podľa odsekov 1 a 2 vypočíta organizácia, ktorá má určený dobývací priestor; úhradu za uskladňovanie plynov alebo kvapalín podľa odseku 3 vypočíta organizácia, ktorá má povolenú túto banskú činnosť.<sup>16b</sup>)
 
-(5) Úhrada podľa odseku 1 je vo výške 50 % príjmom štátneho rozpočtu a vo výške 50 % príjmom obce, na ktorej území sa nachádza dobývací priestor. Ak sa dobývací priestor nachádza na územiach viacerých obcí, obvodný banský úrad určí pomerné podiely obcí podľa veľkosti častí dobývacieho priestoru na ich územiach. Príslušnú časť úhrady odvedie obvodný banský úrad do rozpočtu obce do 30 dní od prijatia úhrady.
+(5) Úhrada podľa odseku 1 je vo výške 20 % príjmom štátneho rozpočtu a vo výške 80 % príjmom obce, na ktorej území sa nachádza dobývací priestor. Ak sa dobývací priestor nachádza na územiach viacerých obcí, obvodný banský úrad určí pomerné podiely obcí podľa veľkosti častí dobývacieho priestoru na ich územiach. Príslušnú časť úhrady odvedie obvodný banský úrad do rozpočtu obce do 30 dní od prijatia úhrady.
 
 (6) Úhrady podľa odsekov 2 a 3 sú príjmom Environmentálneho fondu.
 
-(7) Povinnosť platiť úhradu za dobývací priestor začína kalendárnym rokom nasledujúcim po roku, v ktorom bol dobývací priestor určený, a končí sa rokom, v ktorom bol dobývací priestor zrušený. Úhrada sa platí každoročne, najneskôr do konca februára kalendárneho roka. V tomto termíne predkladá organizácia obvodnému banskému úradu priznanie úhrady za dobývací priestor.
+(7) Povinnosť platiť úhradu za dobývací priestor začína kalendárnym rokom nasledujúcim po roku, v ktorom bol dobývací priestor určený, a končí sa rokom, v ktorom bol dobývací priestor zrušený alebo v ktorom organizácii zaniklo oprávnenie na dobývanie výhradného ložiska podľa § 27 ods. 13. Úhrada sa platí každoročne, najneskôr do konca februára kalendárneho roka. V tomto termíne predkladá organizácia obvodnému banskému úradu priznanie úhrady za dobývací priestor.
 
 (8) Úhrada za vydobyté nerasty a úhrada za uskladňovanie plynov alebo kvapalín sa platí štvrťročne vždy do konca tretieho mesiaca nasledujúceho štvrťroku. V tomto termíne predkladá organizácia obvodnému banskému úradu priznanie úhrady za vydobyté nerasty a priznanie úhrady za uskladňovanie plynov alebo kvapalín.
 

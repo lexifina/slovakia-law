@@ -18,7 +18,7 @@
 
 - 7) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 7a) § 9 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+- 7a) § 9 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 479/2005 Z. z.
 
 - 7b) § 33 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -42,7 +42,13 @@
 
 - 12a) § 4a zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
+- 12b) § 10 ods. 1 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona č. 533/2004 Z. z.
+
 - 13) § 32 zákona č. 50/1976 Zb.
+
+- 13a) § 10 ods. 3 zákona Slovenskej národnej rady č. 51/1988 Zb.
+
+- 13b) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 14) § 58 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhlášky č. 155/1980 Zb.
 
@@ -51,6 +57,14 @@
 - 15) § 6 zákona ČNR č. 61/1988 Zb.
 
 - § 6 zákona SNR č. 51/1988 Zb.
+
+- 15a) Napríklad zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 15b) § 6 zákona č. 17/1992 Zb. o životnom prostredí.
+
+- 15c) § 26 až 28 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 15d) § 5 a príloha č. 3 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
 - 16) § 108 až 116 zákona č.50/1976 Zb.
 
@@ -61,6 +75,26 @@
 - 16c) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 16d) § 5 a 6 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 16e) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galérijnej hodnoty v znení neskorších predpisov, zákon č. 313/1999 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z., vyhláška Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
+
+- 16f) § 9 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 16g) Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 326/2005 Z. z. o lesoch.
+
+- 16h) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 479/2005 Z. z.
+
+- 16i) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 16k) § 17 ods. 2 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení zákona č. 419/2002 Z. z.
+
+- 16l) § 34 ods. 14 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách.
+
+- § 2 písm. q) zákona č. 326/2005 Z. z.
+
+- 16m) § 6 a 10 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 17) § 87 zákona č. 50/1976 Zb.
 
