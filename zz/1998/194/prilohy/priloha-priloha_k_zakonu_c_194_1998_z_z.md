@@ -4,7 +4,7 @@ Príloha k zákonu č. 194/1998 Z. z.
 
   - 1. Smernica Rady 77/504/EHS z 25. júla 1977 o čistokrvnom plemennom hovädzom dobytku (Úradný vestník Európskych spoločenstiev L 206, 12. 8. 1977) v znení smernice Rady 79/268/EHS z 5. marca 1979 (Úradný vestník Európskych spoločenstiev L 062, 13. 3. 1979), smernice Rady 85/586/EHS z 20. decembra 1985 (Úradný vestník Európskych spoločenstiev L 372 , 31. 12. 1985), nariadenia Rady (EHS) č. 3768/85 z 20. decembra 1985 (Úradný vestník Európskych spoločenstiev L 362, 31. 12. 1985), smernice Rady 91/174/EHS z 25. marca 1991 (Úradný vestník Európskych spoločenstiev L 085, 5. 4. 1991), smernice Rady 94/28/ES z 23. júna 1994 (Úradný vestník Európskych spoločenstiev L 178, 12. 7. 1994), nariadenia Rady (ES) č. 807/2003 zo 14. apríla 2003 (Úradný vestník Európskej únie L 122, 16. 5. 2003).
 
-  - 2. Smernica Rady 87/328/EHS z 18. júna 1987 o výbere čistokrvného plemenného hovädzieho dobytka na plemenitbu (Úradný vestník Európskych spoločenstiev L 167, 26. 6. 1987).
+  - 2. Smernica Rady 87/328/EHS z 18. júna 1987 o výbere čistokrvného plemenného hovädzieho dobytka na plemenitbu (Úradný vestník Európskych spoločenstiev L 167, 26. 6. 1987) v znení smernice Rady 2005/24/ES zo 14. marca 2005 (Ú. v. EÚ L 78, 24. 3. 2005).
 
   - 3. Smernica Rady 88/661/EHS z 19. decembra 1988 o zootechnických normách pre plemenné ošípané (Úradný vestník Európskych spoločenstiev L 382, 31. 12. 1988) v znení nariadenia Rady (ES) č. 806/2003 zo 14. apríla 2003 (Úradný vestník Európskej únie L 122, 16. 5. 2003).
 
