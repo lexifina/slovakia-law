@@ -2,8 +2,6 @@
 
 - 2) Zákon č. 85/1990 Zb. o petičnom práve.
 
-- 2a) Čl. 93 Ústavy Slovenskej republiky.
-
 - 2b) § 1 ods. 4 zákona č. 85/1990 Zb. o petičnom práve.
 
 - 2c) § 1 ods. 4 zákona č. 85/1990 Zb. o petičnom práve.
@@ -14,22 +12,22 @@
 
 - § 15 ods. 1 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
 
-- 4) Zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov.
+- 4) Zákon č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky v znení neskorších predpisov.
 
 - 5) § 2 ods. 3 zákona Slovenskej národnej rady č. 80/1990 Zb.
 
-- 6) § 10 zákona Slovenskej národnej rady č. 80/1990 Zb.
+- 6) § 12 zákona č. 333/2004 Z. z. v znení neskorších predpisov.
 
-- 7) Zákon Slovenskej národnej rady č. 517/1990 Zb. o územnom členení Slovenskej republiky v znení zákona Slovenskej národnej rady č. 295/1992 Zb.
+- 7) § 4 až 7 zákona č. 333/2004 Z. z. v znení zákona č. 192/2007 Z. z.
 
-- 8) § 4 a § 8 zákona Slovenskej národnej rady č. 80/1990 Zb.
+- 8) § 18 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 9) Zákon č. 110/1964 Zb. o telekomunikáciách v znení zákona č. 150/1992 Zb.
 
-- 10) § 26 až § 31 zákona Slovenskej národnej rady č. 80/1990 Zb.
+- 10) § 28 až 33 zákona č. 333/2004 Z. z.
 
-- 11) § 33 zákona Slovenskej národnej rady č. 80/1990 Zb.
+- 11) § 36 zákona č. 333/2004 Z. z.
 
 - 12) Čl. 98 Ústavy Slovenskej republiky.
 
-- 13) § 51 zákona Slovenskej národnej rady č. 80/1990 Zb.
+- 13) § 50 zákona č. 333/2004 Z. z. v znení zákona č. 464/2005 Z. z.
