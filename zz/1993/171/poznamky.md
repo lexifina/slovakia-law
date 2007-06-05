@@ -80,6 +80,8 @@
 
 - 18a) § 88a Trestného poriadku v znení neskorších predpisov.
 
+- 18aa) Dohovor, ktorým sa vykonáva Schengenská dohoda zo 14. júna 1985 o postupnom zrušení kontrol na spoločných hraniciach, podpísaný v Schengene 19. júna 1990 v platnom znení. Mimoriadne vydanie Ú. v. EÚ, zv. 2/19.
+
 - 18ab) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 18b) § 88b ods. 2 Trestného poriadku v znení neskorších predpisov.
