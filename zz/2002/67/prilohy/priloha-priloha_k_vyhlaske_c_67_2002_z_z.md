@@ -1210,6 +1210,20 @@ Poznámka R
 
 Klasifikácia látky ako karcinogénnej sa nevyžaduje pri vláknach s dĺžkou váženého geometrického priemeru menšieho ako dve štandardné geometrické odchýlky väčšie ako 6 µm.
 
+XLVIII. Toluén CAS č. 108-88-3
+
+Nesmie sa uvádzať na trh ani použiť ako látka alebo zložka prípravkov v koncentrácii rovnajúcej sa 0,1 hmotnostných % alebo vyššej v lepidlách a sprejových farbách určených na voľný predaj.
+
+XLIX. Trichlórbenzén CAS č. 120-82-1
+
+Nesmie sa uvádzať na trh ani použiť ako látka alebo zložka prípravkov v koncentrácii rovnajúcej sa 0,1 hmotnostných % alebo vyššej na všetky spôsoby použitia s výnimkou použitia:
+
+1. ako medziprodukt syntézy alebo
+
+2. ako rozpúšťadlo v uzavretých chemických použitiach pre chlorácie, alebo
+
+3. pri výrobe 1,3,5-trinitro-2,4,6-triaminobenzénu (TATB).
+
 LI. Ftaláty alebo iné čísla CAS a EC týkajúce sa tejto látky:
 
 - bis(2-etylhexyl)-ftalát (DEHP) | CAS č. 117-81-7 | EC č. 204-211-0
