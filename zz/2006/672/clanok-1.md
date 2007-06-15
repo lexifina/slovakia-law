@@ -34,6 +34,42 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
 - Napríklad čl. 3, 11 a 18 nariadenia Rady (ES) č. 2368/2002.“.
 
+- 4. § 4 vrátane nadpisu znie:
+
+- „§ 4
+
+- Ohlasovacia povinnosť pri preprave peňažných prostriedkov v hotovosti
+
+- (1)
+
+- Colnému dohľadu podliehajú peňažné prostriedky v hotovosti,<sup>3d</sup>) ktoré vstupujú na územie Slovenskej republiky z tretieho štátu alebo vystupujú z územia Slovenskej republiky do tretieho štátu.
+
+- (2)
+
+- Fyzická osoba, ktorá prepravuje peňažné prostriedky v hotovosti podľa odseku 1 v minimálnej výške ustanovenej v osobitnom predpise,<sup>3e</sup>) je povinná písomne ohlásiť túto skutočnosť<sup>3e</sup>) príslušnému colnému orgánu na tlačive, ktorého vzor je uvedený v prílohe č. 1.
+
+- (3)
+
+- Hodnota peňažných prostriedkov sa na účely odseku 2 určuje kurzom príslušnej meny vyhláseným Národnou bankou Slovenska, platným v deň prepravy peňažných prostriedkov v hotovosti podľa odseku 1.
+
+- (4)
+
+- Colný úrad zasiela vyplnené tlačivá podľa odseku 2 a oznámenia o porušení colných predpisov podľa § 72 ods. 1 písm. n) službe finančnej polície Policajného zboru<sup>4</sup>) do piateho dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom k týmto skutočnostiam došlo.
+
+- (5)
+
+- Colný úrad vykonáva kontrolu plnenia ohlasovacej povinnosti podľa odseku 2. Pri kontrole je colný úrad oprávnený vyžadovať potrebnú súčinnosť kontrolovaných osôb. Colný úrad vykonáva kontrolu v súlade s oprávneniami a s použitím prostriedkov podľa osobitného predpisu.<sup>2</sup>)“.
+
+- Poznámky pod čiarou k odkazom 3d a 3e znejú:
+
+- „3d)
+
+- Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 1889/2005 z 26. októbra 2005 o kontrole peňažných prostriedkov v hotovosti, ktoré vstupujú do Spoločenstva alebo vystupujú zo Spoločenstva (Ú. v. L 309, 25. 11. 2005).
+
+- 3e)
+
+- Čl. 3 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 1889/2005.“.
+
 - 5. V § 5 odsek 4 znie:
 
 - „(4)
@@ -184,6 +220,8 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
 - „<sup>70a</sup>) Napríklad zákon č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov.“.
 
+- 29. V § 72 ods. 1 písm. n) sa vypúšťajú slová „alebo ods. 3“.
+
 - 30. V § 72 ods. 1 písmeno o) znie:
 
 - „o)
@@ -283,6 +321,12 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 - „85)
 
 - Čl. 94 ods. 4 a čl. 95 nariadenia Rady (EHS) č. 2913/92 v platnom znení.“.
+
+- 43. Príloha č. 1 znie:
+
+- „Príloha č. 1 k zákonu č. 199/2004 Z. z.
+
+- [Vzor 01](assets/f7700cc1eac535dbf47ec9abffd273a5b005826bd5b912601b6e3f3ea4c4b823.pdf)“.
 
 - 44. V prílohe č. 2 v Zozname colných priechodov v časti cestné colné priechody sa na konci pripájajú tieto slová: „– Veľké Slemence”.
 
