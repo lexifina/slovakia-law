@@ -22,7 +22,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) návrhu na nariadenie alebo zrušenie predbežného opatrenia | 2 000 Sk
 
-- Spoločné poznámky k položkám 1 a 21. Z návrhu na začatie konania o určenie, či tu právny vzťah alebo právo je, alebo nie je, sa poplatok vyberie podľa písmena b) týchto položiek. Ak ide o určenie vlastníctva, poplatok sa vyrubí z ceny predmetu, ku ktorému sa má vlastníctvo určiť.2. Ak odporca žiada, aby súd rozhodol o vzájomnej pohľadávke i nad sumu uplatnenú návrhom, platí sa poplatok zo sumy, ktorá prevyšuje cenu predmetu konania podľa návrhu.3. Ak odvolanie podá navrhovateľ i odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania.4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí.5. Podľa rovnakej sadzby sa platí poplatok v zmenkovom a šekovom konaní pri návrhoch na vydanie platobného rozkazu. Podľa rovnakej sadzby sa platí poplatok za námietky v zmenkovom a šekovom konaní a za odpor proti platobnému rozkazu. Poplatok za odpor sa neplatí, ak bol platobný rozkaz vydaný bez návrhu. |
+- Spoločné poznámky k položkám 1 a 21. Z návrhu na začatie konania o určenie, či tu právny vzťah alebo právo je, alebo nie je, a z návrhu na vypratanie nehnuteľnosti, bytu a nebytových priestorov alebo na vydanie veci sa poplatok vyberie podľa písmena b) týchto položiek.2. Ak odporca žiada, aby súd rozhodol o vzájomnej pohľadávke i nad sumu uplatnenú návrhom, platí sa poplatok zo sumy, ktorá prevyšuje cenu predmetu konania podľa návrhu.3. Poplatky podľa rovnakej sadzby sa platia i v odvolacom konaní vo veci samej. Ak odvolanie podá navrhovateľ i odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania.4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí.5. Podľa rovnakej sadzby sa platí poplatok v zmenkovom a šekovom konaní pri návrhoch na vydanie platobného rozkazu. Podľa rovnakej sadzby sa platí poplatok za námietky v zmenkovom a šekovom konaní a za odpor proti platobnému rozkazu. Poplatok za odpor sa neplatí, ak bol platobný rozkaz vydaný bez návrhu. |
 
 - Položka 3 |
 
@@ -56,7 +56,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - a) Z návrhu na vysporiadanie bezpodielového spoluvlastníctva manželov | 2 000 Sk
 
-- b) Za vysporiadanie bezpodielového spoluvlastníctva manželov z predmetu konania | 3 %, najmenej 2 000 Sk, najviac 500 000 Sk
+- b) Za vyporiadanie bezpodielového spoluvlastníctva manželov z predmetu konania, | ak sa konanie skončilo rozsudkom, 3 % a ak sa konanie skončilo súdnym zmierom, 1 %, najmenej 2 000 Sk, najviac 500 000 Sk
 
 - c) Návrh na zrušenie bezpodielového spoluvlastníctva manželov | 5 000 Sk
 
@@ -70,27 +70,27 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) o neplatnosti manželstva alebo o určenie, či tu manželstvo je alebo nie je | 2 000 Sk
 
-- Položka 7a |
-
-- Zo žaloby na náhradu škody spôsobenej nezákonným rozhodnutím orgánu verejnej moci alebo jeho nesprávnym úradným postupom | 3 000 Sk
+- Položka 7a - Zrušená od 1. 7. 2007 |
 
 - Položka 7b |
 
 - Z návrhu na začatie konania |
 
-- a) na ochranu osobnosti, bez návrhu na náhradu nemajetkovej ujmy | 5 000 Sk
+- a) na ochranu osobnosti, bez návrhu na náhradu nemajetkovej ujmy | 2 000 Sk
 
-- b) na ochranu osobnosti spojenej s náhradou nemajetkovej ujmy | 5 000 Sk a 6 % z výšky uplatnenej nemajetkovej ujmy
+- b) na ochranu osobnosti spojenej s náhradou nemajetkovej ujmy | 2 000 Sk a 3 % z výšky uplatnenej z nemajetkovej ujmy
 
 - Položka 7c |
 
-- Z návrhu na začatie konania vo veciach podľa zákona č. 81/1966 Zb. o periodickej tlači a ostatných hromadných informačných prostriedkoch v znení neskorších predpisov | 5 000 Sk
+- Z návrhu na začatie konania vo veciach opravy nepravdivých alebo pravdu skresľujúcich údajov podľa osobitných predpisov
+
+- Poznámka: Osobitným predpisom sa rozumie napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov. | 2 000 Sk
 
 - Položka 8 |
 
-- a) Z návrhu na zníženie výživného medzi manželmi, z návrhu na zníženie príspevku na výživu rozvedeného manžela a z návrhu na zníženie vyživovacej povinnosti medzi ostatnými príbuznými | 2 % z ceny predmetu konania, najmenej 500 Sk
+- a) Za konanie o určení výživného medzi manželmi a o príspevku na výživu rozvedeného manžela a o vyživovacej povinnosti medzi ostatnými príbuznými a za konanie o ich zvýšenie | 2 % z ceny predmetu konania, najmenej 500 Sk
 
-- b) Z návrhu na zrušenie vyživovacej povinnosti | 2 % z ceny predmetu konania, najmenej 500 Sk
+- b) z návrhu na zníženie alebo na zrušenie výživného medzi manželmi, príspevku na výživu rozvedenej manželky a vyživovacej povinnosti medzi ostatnými príbuznými | 2 % z ceny predmetu konania, najmenej 500 Sk
 
 - Položka 9 |
 
@@ -100,15 +100,13 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 10 |
 
-- a) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu verejnej správy na základe žaloby | 2 000 Sk
+- a) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu verejnej správy na základe žaloby | 2 000 Sk; ak sa rozhodnutím uložila pokuta 6 % z pokuty najmenej 2 000 Sk, najviac 500 000 Sk
 
 - b) Za konanie o opravnom prostriedku proti rozhodnutiu správneho orgánu, ak rozhodol okresný súd alebo krajský súd, a za preskúmanie rozhodnutí o priestupkoch | 1 000 Sk
 
 - c) Za konanie o opravnom prostriedku proti rozhodnutiu správneho orgánu, ak rozhodol Najvyšší súd Slovenskej republiky | 2 000 Sk
 
 - d) Za konanie o opravnom prostriedku proti rozhodnutiu o odmietnutí registrácie politickej strany alebo hnutia | 10 000 Sk
-
-- e) Za konanie o žalobách proti rozhodnutiam a postupom ústredných orgánov štátnej správy a iných orgánov s pôsobnosťou pre celé územie Slovenskej republiky 10 000 Skak sa rozhodnutím uložila pokuta | 6 % najmenej 10 000 Sk, najviac 500 000 Sk
 
 - Položka 11 |
 
@@ -140,7 +138,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - d) Z návrhu na rozhodnutie o vykonateľnosti rozhodnutia cudzieho orgánu podľa § 250w ods. 1 Občianskeho súdneho poriadku | 2 000 Sk
 
-- Poznámka:Poplatok podľa písmena b) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. |
+- Poznámka:Poplatok podľa písmena b) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. V odvolacom konaní sa poplatky podľa tejto položky nevyberajú. |
 
 - Položka 14 |
 
@@ -160,7 +158,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Poznámky:1. Poplatok podľa rovnakej sadzby sa platí aj v odvolacom konaní.2. Poznámky č. 1 a 2 k položke 12 platia primerane aj pre túto položku. |
 
-- Spoločná poznámka k položkám 1, 6, 7, 9, 14 a 16:Ak bol rozsudok zrušený v dôsledku odvolania, obnovy konania alebo dovolania, poplatok z odvolania proti novému rozhodnutiu súdu I. stupňa, dovolania alebo za obnovu konania neplatí poplatník, ktorý už raz poplatok zaplatil. Ak Najvyšší súd Slovenskej republiky pri prerokúvaní dovolania zistí, že dovolanie podané účastníkom podľa § 238 ods. 2 Občianskeho súdneho poriadku bolo bezdôvodné, účastník je povinný dodatočne zaplatiť súdny poplatok z dovolania. |
+- Spoločná poznámka k položkám 1, 2, 6, 7, 9, 14 a 16:Ak bol rozsudok zrušený v dôsledku odvolania, obnovy konania alebo dovolania, poplatok z odvolania proti novému rozhodnutiu súdu I. stupňa, dovolania alebo za obnovu konania neplatí poplatník, ktorý už raz poplatok zaplatil. Ak Najvyšší súd Slovenskej republiky pri prerokúvaní dovolania zistí, že dovolanie podané účastníkom podľa § 238 ods. 2 Občianskeho súdneho poriadku bolo bezdôvodné, účastník je povinný dodatočne zaplatiť súdny poplatok z dovolania. |
 
 - Položka 17 |
 
@@ -255,6 +253,12 @@ Príloha zákona SNR č. 71/1992 Zb.
 - Položka 20 |
 
 - Za pomoc súdu pred nariadením výkonu rozhodnutia podľa § 260 Občianskeho súdneho poriadku, okrem pomoci pred vymáhaním výživného pre maloleté deti | 200 Sk
+
+- Položka 20a |
+
+- Za vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria súdny spis, a rovnopisu podaní a ich príloh doručovaných účastníkom, ak bolo podanie urobené elektronickými prostriedkami podpísané zaručeným elektronickým podpisom podľa osobitného zákona | za každú stranu 2 Sk najmenej 200 Sk za podanie, ktoré je návrhom na začatie konania s prílohami, najmenej 50 Sk za ostatné podania s prílohami
+
+- Poznámka: V prípade podaní urobených elektronickými prostriedkami podpísaných zaručeným elektronickým podpisom súd vyhotoví potrebný počet rovnopisov a ich príloh bez toho, aby žiadal náhradu vecných nákladov podľa § 42 ods. 3 Občianskeho súdneho poriadku. |
 
 - Položka 21 |
 
