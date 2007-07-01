@@ -20,6 +20,22 @@ Nariadenie vlády Slovenskej republiky č. 372/2006 Z. z. o technických požiad
 
 - 5. V § 27 ods. 2 sa slovo „smernice“ nahrádza slovami „smernice Európskeho parlamentu a Rady 97/24/ES zo 17. júna 1997 o niektorých komponentoch a charakteristikách dvoj- alebo trojkolesových motorových vozidiel v znení smernice Európskeho parlamentu a Rady 2002/51/ES, smernice Komisie 2003/77/ES a smernice Komisie 2005/30/ES“.
 
+- 6. V § 27 ods. 2 sa vypúšťajú slová „Európskeho parlamentu a Rady 97/24/ES zo 17. júna 1997 o niektorých komponentoch a charakteristikách dvoj- alebo trojkolesových motorových vozidiel v znení smernice Európskeho parlamentu a Rady 2002/51/ES, smernice Komisie 2003/77/ES a smernice Komisie 2005/30/ES“.
+
+- 7. V § 27 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Výrobca môže použiť v prípade motocyklov postup testovania ustanovený osobitným predpisom<sup>18a</sup>) ako alternatívu k odseku 2, pričom v tomto prípade vozidlo musí spĺňať emisné limity uvedené v riadku C tabuľky v bode 2.2.1.1.5 prílohy II kapitoly 5 smernice a všetky ostatné ustanovenia prílohy II kapitoly 5 smernice okrem bodov 2.2.1.1.1. až 2.2.1.1.4.“.
+
+- Doterajší odsek 3 sa označuje ako odsek 4.
+
+- Poznámka pod čiarou k odkazu 18a znie:
+
+- „18a)
+
+- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 415/2003 Z. z. o prijatí Dohody týkajúcej sa tvorby globálnych technických predpisov pre kolesové vozidlá, vybavenie a časti, ktoré sa môžu montovať alebo používať na kolesových vozidlách. (GTP EHK č. 2).“.
+
 - 8. Nadpis dvanástej časti znie:
 
 - „KOTVOVÉ ÚCHYTKY BEZPEČNOSTNÝCH PÁSOV A BEZPEČNOSTNÉ PÁSY TROJKOLESOVÝCH MOTOROVÝCH VOZIDIEL A ŠTVOKOLIEK“.
@@ -93,3 +109,9 @@ Nariadenie vlády Slovenskej republiky č. 372/2006 Z. z. o technických požiad
 - „2.
 
 - Smernica Komisie 2006/27/ES z 3. marca 2006, ktorou sa na účely prispôsobenia technickému pokroku menia a dopĺňajú smernice Rady 93/14/EHS o brzdení dvoj- alebo trojkolesových vozidiel a 93/34/EHS o povinných označeniach pre dvoj- alebo trojkolesové motorové vozidlá, smernice Európskeho parlamentu a Rady 95/1/ES o maximálnej konštrukčnej rýchlosti, maximálnom krútiacom momente a maximálnom čistom výkone motora dvoj- alebo trojkolesových motorových vozidiel a 97/24/ES o niektorých komponentoch a charakteristikách dvoj- alebo trojkolesových motorových vozidiel (Ú. v. EÚ L 66, 8. 3. 2006).“.
+
+- 16. Príloha č. 2 sa dopĺňa tretím bodom, ktorý znie:
+
+- „3.
+
+- Smernica Komisie 2006/72/ES z 18. augusta 2006, ktorou sa na účely prispôsobenia technickému pokroku mení a dopĺňa smernica Európskeho parlamentu a Rady 97/24/ES o niektorých komponentoch a charakteristikách dvojkolesových alebo trojkolesových motorových vozidiel (Ú. v. EÚ L 227, 19. 8. 2006).“.
