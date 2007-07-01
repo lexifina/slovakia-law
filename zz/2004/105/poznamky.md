@@ -4,6 +4,14 @@
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
+- 2a) Príloha č. 24 k vyhláške č. 210/2000 Z. z. v znení neskorších predpisov.
+
+- 2b) Zákon č. 142/2000 Z. z. v znení zákona č. 431/2004 Z. z.
+
+- Vyhláška č. 210/2000 Z. z. v znení neskorších predpisov.
+
+- 2c) § 19 ods. 2 písm. a) zákona č. 142/2000 Z. z. v znení zákona č. 431/2004 Z. z.
+
 - 3) Príloha č. 16 tretia časť k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
 
 - 3a) § 115 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
@@ -68,13 +76,7 @@
 
 - § 65b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
 
-- 21a) Príloha č. 24 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
-
 - 21b) Vyhláška Ministerstva financií Slovenskej republiky č. 226/2004 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na usporiadanie technologických zariadení na výrobu, spracovanie, skladovanie a prepravu liehu, kontrole množstva liehu, zisťovaní zásob liehu a o spôsobe vedenia evidencie.
-
-- 21c) Zákon č. 142/2000 Z. z. v znení zákona č. 431/2004 Z. z.
-
-- Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
 
 - 22) Zákon č. 104/2004 Z. z. o spotrebnej dani z vína.
 
@@ -89,8 +91,6 @@
 - 29) § 2 ods. 1 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 653/2002 Z. z.
 
 - 30) § 4 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 653/2002 Z. z.
-
-- 31) Zákon č. 142/2000 Z. z.
 
 - 31a) § 2 ods. 3 písm. k) zákona č. 467/2002 Z. z.
 
