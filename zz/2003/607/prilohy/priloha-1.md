@@ -1,4 +1,4 @@
-Príloha k zákonu č. 607/2003 Z. z.
+Príloha č. 1 k zákonu č. 607/2003 Z. z.
 
 - Zoznam zdravotných postihnutí
 
