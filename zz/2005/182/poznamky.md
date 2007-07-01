@@ -24,9 +24,13 @@
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 291/1996 Z. z. v znení zákona č. 470/2002 Z. z.
 
-- 13) § 33 písm. d) zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+- 12a) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 14) Zákon č. 473/2003 Z. z. o Pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov v znení zákona č. 546/2004 Z. z.
+- 12b) § 14 ods. 4 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
+
+- 12c) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
+- Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení neskorších predpisov.
 
 - 15) Nariadenie Rady (ES) č. 1493/1999 v platnom znení.
 
@@ -60,7 +64,9 @@
 
 - Články 11 až 19 nariadenia Komisie (ES) č. 884/2001 v platnom znení.
 
-- 21) § 6 zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve v znení neskorších predpisov.
+- 20a) Čl. 3 ods. 2 písm. b) nariadenia Komisie (ES) č. 884/2001 z 24. apríla 2001 ustanovujúceho podrobné pravidlá pre používanie sprievodných dokladov na prepravu vinárskych výrobkov a na vedenie záznamov vo vinárskom sektore (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 32).
+
+- 21) § 8 zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2007 Z. z.
 
 - 22) Články 42 až 46 a prílohy č. IV až VI nariadenia Rady (ES) č. 1493/1999 v platnom znení.
 
@@ -126,6 +132,10 @@
 
 - 37) Príloha VII nariadenia Rady ES č. 883/2001 v platnom znení.
 
+- 37a) Čl. 39 nariadenia Rady (ES) č. 1493/1999 v platnom znení.
+
+- 37b) Čl. 39 nariadenia Rady (ES) č. 1493/1999 zo 17. mája 1999 v platnom znení.
+
 - 38) Článok 56 nariadenia Rady (ES) č. 1493/1999 v platnom znení.
 
 - 39) Článok 20 až 33 nariadenia Komisie (ES) č. 883/2001 v platnom znení.
@@ -137,5 +147,7 @@
 - 42) § 17 Obchodného zákonníka.
 
 - 43) Zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov.
+
+- 43a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 44) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
