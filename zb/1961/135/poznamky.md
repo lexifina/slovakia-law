@@ -68,6 +68,10 @@
 
 - 6a) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 6b) § 140a a § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+
+- 6c) § 8 zákona Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
+
 - 7) Napríklad zákon č. 51/1964 Zb. o dráhach v znení zákona č. 104/1974 Zb., zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 8) § 56 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
