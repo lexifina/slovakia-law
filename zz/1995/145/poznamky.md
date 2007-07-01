@@ -64,6 +64,12 @@
 
 - 17a) § 39 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
+- 17b) § 10 ods. 4 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
+
+- 17c) § 10 ods. 5 zákona č. 193/2005 Z. z.
+
+- 17d) § 32 zákona č. 193/2005 Z. z.
+
 - 18) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
 
 - 18a) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu.

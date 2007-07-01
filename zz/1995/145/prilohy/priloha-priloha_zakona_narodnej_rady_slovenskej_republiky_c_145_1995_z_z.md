@@ -798,13 +798,35 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 47
 
-  - a) Vydanie osvedčenia o uvádzaní prípravku na ochranu rastlín do obehu ................ | 1 000 Sk
+  - a) Vydanie osvedčenia o odbornej spôsobilosti na predaj prípravkov na ochranu rastlín alebo iných prípravkov | 100 Sk
 
-  - b) Žiadosť o registráciu prípravku na ochranu rastlín ..................................................... | 1 000 Sk
+  - b) Registrácia prípravku na ochranu rastlín alebo registrácia iného prípravku | 1 000 Sk
 
-  - c) Žiadosť o zápis do registra výrobcov, dovozcov a vývozcov rastlinného tovaru ...... | 500 Sk
+  - c) Žiadosť o zápis do registra výrobcov, dovozcov a vývozcov rastlinného tovaru | 500 Sk
 
-  - d) Žiadosť o zmenu v registri výrobcov, dovozcov a vývozcov rastlinného tovaru ....... | 250 Sk
+  - d) Žiadosť o zmenu v registri výrobcov, dovozcov a vývozcov rastlinného tovaru | 250 Sk
+
+  - e) Vydanie osvedčenia o odbornej spôsobilosti na aplikáciu prípravkov na ochranu rastlín alebo iných prípravkov | 100 Sk
+
+  - f) Predĺženie doby platnosti registrácie prípravku na ochranu rastlín alebo iného prípravku | 1 000 Sk
+
+  - g) Prebalenie prípravku na ochranu rastlín alebo iného prípravku | 1 000 Sk
+
+  - h) Zmena v registrácii prípravku na ochranu rastlín alebo iného prípravku | 1 000 Sk
+
+  - i) Rozšírenie rozsahu použitia prípravku na ochranu rastlín alebo iného prípravku podľa osobitného predpisu<sup>17b</sup>) | 1 000 Sk
+
+  - j) Rozšírenie rozsahu použitia prípravku na ochranu rastlín alebo iného prípravku podľa osobitného predpisu<sup>17c</sup>) | 100 Sk
+
+  - k) Povolenie na vykonanie experimentu alebo testu na účely výskumu a vývoja, pri ktorom dochádza k uvoľňovaniu neregistrovaného prípravku na ochranu rastlín do životného prostredia | 1 000 Sk
+
+  - l) Povolenie súbežného dovozu prípravku na ochranu rastlín alebo iného prípravku | 1 000 Sk
+
+  - m) Vzájomné uznanie prípravku na ochranu rastlín alebo iného prípravku | 1 000 Sk
+
+  - n) Udelenie výnimky z požívania prípravku na ochranu rastlín podľa osobitného predpisu<sup>17d</sup>) | 1 000 Sk
+
+  - o) Vydanie poverenia na vykonávanie skúšok biologickej účinnosti | 5 000 Sk
 
     - Položka 48
 
@@ -3742,9 +3764,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - Položka 235
 
-    - a) Podanie žiadosti o medzinárodný zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku ............................................................................. | 1 000 Sk
+    - a) Podanie žiadosti o medzinárodný zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku | 1 000 Sk
 
-    - b) Zápis zmeny v medzinárodnom registri označení pôvodu ............................................ | 500 Sk
+    - b) Zápis zmeny v medzinárodnom registri označení pôvodu | 500 Sk
+
+    - c) Podanie žiadosti o zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku do registra Európskej komisie | 2 000 Sk
+
+    - d) Podanie námietok proti žiadosti o zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku do registra Európskej komisie | 1 000 Sk
 
   - XVII. ČASŤ METROLÓGIA, TECHNICKÁ NORMALIZÁCIA, ŠTÁTNE SKÚŠOBNÍCTVO A CERTIFIKÁCIA
 
