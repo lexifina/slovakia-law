@@ -23,3 +23,11 @@ Príloha č. 1 k nariadeniu vlády č. 164/2002 Z. z.
 - ![Vzorec 01-2](../assets/ef28d3bd38365f4d691bd8e65143ff90e34710da8b775f6a426cb39b1d4c1e90.png)
 
 - 7. V prípade každého zvýšenia cien zahraničného spotrebného koša oproti predchádzajúcemu spotrebnému košu sa platová relácia vypočíta z cenovej dokumentácie zaslanej k 31. 12. príslušného roka vždy do 31. 3. nasledujúceho roka. V ostatných prípadoch zvýšenia cien podľa bodu 2 tejto prílohy sa vypočíta platová relácia do 1 mesiaca od prijatia cenovej dokumentácie.
+
+- 8. Určí sa objektivizovaná platová relácia (Rpo), ktorou sa násobí časť platu poskytnutá v cudzej mene podľa § 98 ods. 1 zákona č. 312/2001 Z. z. v znení neskorších predpisov
+
+- Rpo = Rp x (100 – X)/100,
+
+- kde X = ostatné zvýšenie platových taríf v nadväznosti na príslušné nariadenie vlády Slovenskej republiky o zvýšení platových taríf štátnych zamestnancov.
+
+- 9. Ustanovenie bodu 8 sa rovnako použije aj pri určovaní objektivizovanej platovej relácie pri poskytovaní časti platu v peňažných prostriedkoch v cudzej mene podľa § 22 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2006 Z. z., podľa § 109 ods. 2 a 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, podľa § 150 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov a podľa § 101a zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
