@@ -2,17 +2,23 @@
 
 - 2) § 1 ods. 1 zákona č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a o zmene a doplnení niektorých zákonov.
 
-- 3) § 42 ods. 3 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie v znení zákona č. 553/2001 Z. z.
+- 3) § 61 ods. 3 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
 
 - 4) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 
-- 5) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 5) § 31 ods. 8 zákona č. 523/2004 Z. z. v znení zákona č. 171/2005 Z. z.
 
 - 6) § 79 ods. 4 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
 
 - 7) § 7 a § 8 ods. 5 zákona č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov.
 
 - 8) § 32 ods. 3 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 8a) § 32a ods. 6 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
+
+- 8b) § 23 ods. 3 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení zákona č. 587/2004 Z. z.
+
+- 8c) § 25 ods. 4 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
 - 9) § 58 ods. 3 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
@@ -22,13 +28,13 @@
 
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
-- 13) § 46 ods. 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+- 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
 - 14) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 15) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 15) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
 
-- 16) § 44 ods. 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 16) § 3a zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
 - 17) Napríklad Obchodný zákonník, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -38,15 +44,13 @@
 
 - 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 21) § 4 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 21) § 11 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
-- 22) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+- 22) Zákon č. 502/2001 Z. z.
 
-- Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+- Zákon č. 523/2004 Z. z.
 
 - 23) § 5 a 9 zákona č. 525/2003 Z. z.
-
-- 24) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
