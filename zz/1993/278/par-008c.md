@@ -8,7 +8,7 @@
 
 - a) ústredný orgán štátnej správy, ktorý zriadil štátnu rozpočtovú organizáciu alebo štátnu príspevkovú organizáciu,
 
-- b) ústredný orgán štátnej správy, na ktorého rozpočet je zapojená finančnými vzťahmi alebo v ktorého vecnej pôsobnosti je štátna rozpočtová organizácia alebo štátna príspevková organizácia zriadená zákonom, alebo štátny fond,
+- b) ústredný orgán štátnej správy, na ktorého rozpočet je zapojená finančnými vzťahmi alebo v ktorého vecnej pôsobnosti je štátna rozpočtová organizácia alebo štátna príspevková organizácia alebo štátny fond,
 
 - c) ministerstvo financií v prípadoch neuvedených v písmenách a) a b).
 
