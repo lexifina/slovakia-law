@@ -44,6 +44,8 @@
 
 - 21) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 30/2002 Z. z. o požiadavkách na vodu na kúpanie, kontrolu kvality vody na kúpanie a na kúpaliská v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 146/2004 Z. z.
 
+- 21a) Zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 22) Zákon č. 313/1999 Z. z. v znení neskorších predpisov.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
