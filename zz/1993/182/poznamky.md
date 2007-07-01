@@ -32,11 +32,19 @@
 
 - 12a) § 69 a 70 Trestného zákona v znení neskorších predpisov.
 
+- 12aa) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z.
+
+- 12ab) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 12ac) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
 - 12b) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 12c) § 68 až 75 Obchodného zákonníka.
 
 - 12d) Napríklad zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 12e) § 46 Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 13) Napr. § 54 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
@@ -48,9 +56,7 @@
 
 - 16) § 151b Občianskeho zákonníka.
 
-- 17) § 3 ods. 1 písm. d) zákona Slovenskej národnej rady č. 266/1992 Zb.
-
-- 17a) § 337 ods. 1 Občianskeho súdneho poriadku.
+- 17) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 17b) § 140 Občianskeho zákonníka.
 
@@ -66,7 +72,7 @@
 
 - 21a) Zákon č. 446/2001 Z. z. o majetku vyšších územných celkov v znení zákona č. 521/2003 Z. z.
 
-- 22) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+- 22) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 541/2005 Z. z. o transformácii niektorých štátnych podnikov na akciové spoločnosti.
 
 - 22a) Napríklad zákon č. 109/1964 Zb. Hospodársky zákonník v znení neskorších predpisov, vyhláška Ministerstva financií č. 86/1968 Zb. o združovaní prostriedkov socialistických organizácií.
 
@@ -111,6 +117,8 @@
 - Zákon č. 42/1992 Zb.
 
 - 30) Napr. výnos FMF, MF ČSR a MF SSR o financovaní komunálnej bytovej výstavby a výstavby technického a občianskeho vybavenia uverejnený pod č. 33 vo Finančnom spravodajcovi č. 6-7/1987, registrovaný v čiastke 26/1987 Zb.
+
+- 30a) Napríklad zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
 - 31) § 1 ods. 2 písm. a) až f) zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami.
 
