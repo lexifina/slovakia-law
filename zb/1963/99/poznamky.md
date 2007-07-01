@@ -4,6 +4,8 @@
 
 - 3) § 71 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
+- 3a) § 14 a 15 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 8/2005 Z. z.
+
 - 4) Čl. IV zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení neskorších predpisov a zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 5) Napríklad § 456 Občianskeho zákonníka.
@@ -25,6 +27,8 @@
 - 12) Čl. 234 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
 
 - 13) Napríklad zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
+
+- 13a) § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe.
 
 - 14) § 161 ods. 5 Obchodného zákonníka.
 
@@ -84,6 +88,6 @@
 
 - 39) Čl. 110 ods. 2, čl. 225a, čl. 244 a čl. 256 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
 
-- 40) Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 (Ú. v. EÚ L 143, 30. 4. 2004).
+- 40) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004, ktorým sa vytvára exekučný titul pre nesporné nároky (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 7, Ú. v. EÚ L 143, 30. 4. 2004), články 54, 57 ods. 4, 58 a Prílohy V a VI nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o právomoci a o uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 4, Ú. v. ES L 12, 16. 1. 2001), články 39, 41, 42 ods. 1 a Prílohy I až IV nariadenia Rady (ES) č. 2201/2003 z 27. novembra 2003 o právomoci a uznávaní a výkone rozsudkov v manželských veciach a vo veciach rodičovských práv a povinností, ktorým sa zrušuje nariadenie Rady (ES) č. 1347/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 6, Ú. v. EÚ L 338, 23. 12. 2003).
 
 - 41) § 62 zákona č. 97/1963 Zb. v znení neskorších predpisov.

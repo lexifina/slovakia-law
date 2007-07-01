@@ -6,4 +6,4 @@
 
 (3) Príslušný na rozhodnutie je krajský súd, v ktorého obvode sa nachádza obec, mesto, mestská časť alebo sídlo vyššieho územného celku.
 
-(4) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.
+(4) Proti rozhodnutiu súdu je prípustné odvolanie.

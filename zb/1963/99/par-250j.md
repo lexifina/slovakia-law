@@ -10,7 +10,7 @@
 
 - c) zistenie skutkového stavu je nedostačujúce na posúdenie veci,
 
-- d) rozhodnutie je nepreskúmateľné pre nezrozumiteľnosť alebo pre nedostatok dôvodov alebo rozhodnutie je nepreskúmateľné pre neúplnosť spisov správneho orgánu alebo z dôvodu, že spisy neboli predložené,
+- d) rozhodnutie je nepreskúmateľné pre nezrozumiteľnosť alebo pre nedostatok dôvodov,
 
 - e) v konaní správneho orgánu bola zistená taká vada, ktorá mohla mať vplyv na zákonnosť napadnutého rozhodnutia.
 

@@ -10,4 +10,4 @@
 
 (5) Súd v konaní vždy vypočuje toho, v koho starostlivosti sa dieťa nachádza, alebo štatutárny orgán zariadenia sociálnych služieb, v ktorom je dieťa umiestnené. Ustanovenie § 182 ods. 1 platí obdobne.
 
-(6) O osvojiteľnosti rozhodne súd bez zbytočného odkladu, najneskôr do troch mesiacov odo dňa začatia konania. Túto lehotu možno predĺžiť najviac o tri mesiace, ak rozhodnutiu súdu bránia vážne dôvody a objektívne príčiny.
+(6) O osvojiteľnosti rozhodne súd rozsudkom bez zbytočného odkladu, najneskôr do troch mesiacov odo dňa začatia konania. Túto lehotu možno predĺžiť najviac o tri mesiace, ak rozhodnutiu súdu bránia vážne dôvody a objektívne príčiny.
