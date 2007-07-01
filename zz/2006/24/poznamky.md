@@ -78,6 +78,10 @@
 
 - 34) Zákon č. 51/1988 Zb. v znení neskorších predpisov.
 
+- 34a) § 1 ods. 4 zákona č. 135/1961 Zb. v znení neskorších predpisov.
+
+- 34b) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
+
 - 35) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
