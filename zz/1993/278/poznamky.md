@@ -104,7 +104,11 @@
 
 - 21a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
-- 22) Napríklad § 3d ods. 6 zákona č. 135/1961 Zb. v znení neskorších predpisov.
+- 22) § 43i ods. 1 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 22a) § 43a ods. 3 písm. f), g), h) a i) zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 22b) Napríklad zákon č. 135/1961 Zb. v znení neskorších predpisov.
 
 - 23) § 151a a nasl. Občianskeho zákonníka.
 
