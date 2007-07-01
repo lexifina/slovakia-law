@@ -2,11 +2,11 @@ Príloha č. 1 k zákonu č. 346/2005 Z. z.
 
 - DOBY VÝSLUHY V HODNOSTI A MAXIMÁLNE DOBY SLUŽBY Hodnosť | Doba výsluhy v hodnosti | Maximálna doba služby
 
-- vojak 2. stupňa | 6 rokov | 12 rokov
+- vojak 2. stupňa | 6 rokov | 20 rokov
 
-- slobodník | 5 rokov | 12 rokov
+- slobodník | 5 rokov | 20 rokov
 
-- desiatnik | 5 rokov | 12 rokov
+- desiatnik | 5 rokov | 20 rokov
 
 - čatár | 5 rokov | 16 rokov
 
@@ -30,9 +30,9 @@ Príloha č. 1 k zákonu č. 346/2005 Z. z.
 
 - kapitán | 7 rokov | 20 rokov
 
-- major | 5 rokov | 22 rokov
+- major | 7 rokov | 24 rokov
 
-- podplukovník | 5 rokov | 27 rokov
+- podplukovník | 7 rokov | 29 rokov
 
 - plukovník | 6 rokov | 32 rokov
 

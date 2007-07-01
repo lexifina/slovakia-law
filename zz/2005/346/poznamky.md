@@ -6,7 +6,11 @@
 
 - 4) Čl. 12 ods. 2 Ústavy Slovenskej republiky.
 
+- 4a) § 10 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 5) § 7 zákona č. 321/2002 Z. z.
+
+- 5a) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) § 6 ods. 3 písm. d) zákona č. 321/2002 Z. z.
 
@@ -16,17 +20,21 @@
 
 - 9) § 5 a 6 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
+- 9a) § 4 zákona č. 569/2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu.
+
 - 10) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
 
-- 11) § 41 ods. 2 a § 266 až 295 Trestného zákona.
+- 11) § 10 ods. 1 písm. b) Trestného zákona.
+
+- 11a) § 11 Trestného zákona.
 
 - 12) § 116 Občianskeho zákonníka.
 
 - 13) Napríklad Základná zmluva medzi Slovenskou republikou a Svätou stolicou (oznámenie č. 326/2001 Z. z.), Zmluva medzi Slovenskou republikou a Svätou stolicou o duchovnej službe katolíckym veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky (oznámenie č. 648/2002 Z. z.), Zmluva č. 250/2002 Z. z. medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami.
 
-- 14) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 15) Napríklad zákon č. 385/2000 Z. z., zákon č. 154/2001 Z. z., zákon č. 321/2002 Z. z.
+
+- 15a) § 7 ods. 5 a 6 zákona č. 321/2002 Z. z.
 
 - 16) Zákon č. 385/2000 Z. z.
 
@@ -40,7 +48,7 @@
 
 - Zákon č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov.
 
-- 20) Napríklad zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z., zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+- 20c) Zákon č. 321/2002 Z. z. v znení neskorších predpisov.
 
 - 21) Napríklad § 12 ods. 1 písm. a) až c), e) a f) zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -48,11 +56,21 @@
 
 - § 12 zákona č. 321/2002 Z. z.
 
+- 22a) § 27 písm. l) zákona č. 312/2001 Z. z. v znení zákona č. 551/2003 Z. z.
+
 - 23) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+
+- 23a) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23b) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení neskorších predpisov.
+
+- 23c) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+
+- 23d) Čl. 1 ods. 3 ústavného zákona č. 227/2002 Z. z.
 
 - 24) § 195 Občianskeho súdneho poriadku.
 
-- 25) § 47 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
+- 25) § 64 Trestného zákona.
 
 - 26) § 6 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -60,11 +78,27 @@
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 28a) Napríklad § 6 zákona č. 385/2000 Z. z. v znení zákona č. 185/2002 Z. z., § 8 ods. 2 zákona č. 154/2001 Z. z., § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z.
+
+- 28b) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
 - 29) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
+
+- 29a) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 29b) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/ 1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 29c) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
 
 - 30) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
 - § 4 ods. 1 až 5 a 7 zákona č. 321/2002 Z. z.
+
+- 30a) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov. Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 691/2002 Z. z. o požiadavkách na kvalifikáciu a odbornú spôsobilosť a ďalšie vzdelávanie zamestnancov vykonávajúcich potravinový dozor.
+
+- 30b) Nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení neskorších predpisov.
+
+- 30c) Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
 - 31) § 115 Občianskeho zákonníka.
 
@@ -104,9 +138,13 @@
 
 - 49) § 12 zákona č. 283/2002 Z. z.
 
+- 49a) § 4 ods. 1 písm. e) zákona č. 283/2002 Z. z.
+
+- 49b) § 2 ods. 4 zákona č. 283/2002 Z. z.
+
 - 50) Zákon Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
 
-- 51) § 2 ods. 5 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+- 51) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 52) § 4 ods. 4 zákona č. 321/2002 Z. z.
 
@@ -119,3 +157,7 @@
 - 55) Zákon č. 461/2003 Z. z.
 
 - 56) Zákon č. 320/2002 Z. z. o brannej povinnosti v znení neskorších predpisov.
+
+- 57) § 22 ods. 5 písm. a) zákona č. 570/2005 Z. z.
+
+- 58) Výnos Ministerstva obrany Slovenskej republiky zo 14. októbra 2005 č. SELP/K-72/3-189 o požadovaných druhoch stredoškolského vzdelania, študijných odboroch a stupňoch vysokoškolského vzdelania na výkon dočasnej štátnej služby profesionálnych vojakov ozbrojených síl Slovenskej republiky (oznámenie č. 461/2005 Z. z.).
