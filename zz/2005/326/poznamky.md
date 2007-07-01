@@ -22,6 +22,10 @@
 
 - 11) § 8 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
+- 11a) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
+
+- § 38 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 13) Napríklad § 54 až 57 zákona č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z., zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z.
