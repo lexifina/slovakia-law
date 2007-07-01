@@ -50,9 +50,7 @@
 
 - e) označenie a balenie lieku nespĺňa požiadavky podľa tohto zákona (§ 24),
 
-- f) vyváženosť prínosov a rizík spojených s používaním lieku je nepriaznivá,
-
-- g) liek alebo liečivo obsiahnuté v lieku je chránené patentom alebo dodatkovým ochranným osvedčením,<sup>11</sup>) ak predmetom žiadosti nie je originálny liek (§ 21 ods. 22).
+- f) vyváženosť prínosov a rizík spojených s používaním lieku je nepriaznivá.
 
 (9) Ak štátny ústav zistí, že žiadosť o registráciu lieku je už v štádiu posudzovania v inom členskom štáte, odmietne posudzovanie žiadosti o registráciu lieku a oznámi žiadateľovi, aby postupoval v súlade s § 22a.
 
