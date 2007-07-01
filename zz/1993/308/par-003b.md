@@ -30,7 +30,7 @@
 
 - e) odvolaním z funkcie výkonného riaditeľa z dôvodu jeho právoplatného odsúdenia za úmyselný trestný čin alebo trestný čin, za ktorý mu bol uložený nepodmienečný trest odňatia slobody.
 
-(6) Výkonný riaditeľ predkladá správnej rade na schválenie
+(6) Výkonný riaditeľ predkladá správnej rade
 
 - a) návrh štatútu strediska,
 

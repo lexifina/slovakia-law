@@ -22,7 +22,7 @@
 
 (2) Správna rada je schopná uznášať sa, ak je prítomná nadpolovičná väčšina jej členov. Na platné prijatie uznesenia sa vyžaduje súhlas nadpolovičnej väčšiny všetkých členov.
 
-(3) Funkčné obdobie člena správnej rady je trojročné. Tá istá osoba môže byť vymenovaná za člena správnej rady najviac na dve po sebe nasledujúce funkčné obdobia. Členstvo v správnej rade je dobrovoľné a nezastupiteľné. Člen správnej rady má nárok na úhradu výdavkov spojených s výkonom tejto funkcie podľa osobitných predpisov.<sup>4</sup>)
+(3) Funkčné obdobie člena správnej rady je trojročné; začína plynúť dňom uvedeným v jeho vymenúvacom dekréte. Vymenúvací dekrét člena správnej rady doručí stredisku ten, kto člena správnej rady vymenoval podľa odseku 1. Tá istá osoba môže byť vymenovaná za člena správnej rady najviac na dve po sebe nasledujúce funkčné obdobia. Členstvo v správnej rade je dobrovoľné a nezastupiteľné. Člen správnej rady má nárok na úhradu výdavkov spojených s výkonom tejto funkcie podľa osobitných predpisov.<sup>4</sup>)
 
 (4) Členstvo v správnej rade zaniká
 
@@ -36,7 +36,9 @@
 
 (5) Člena správnej rady odvolá z funkcie ten, kto ho za člena vymenoval podľa odseku 1, ak sa bez vážneho dôvodu nezúčastní na troch po sebe nasledujúcich zasadnutiach správnej rady.
 
-(6) Správna rada
+(6) Člen správnej rady, ktorému členstvo zaniklo podľa odseku 4 písm. b), oznámi zánik svojho členstva tomu, kto ho za člena správnej rady vymenoval podľa odseku 1. Zánik členstva člena podľa odseku 4 písm. d) oznámi tomu, kto zomrelého člena vymenoval, predseda správnej rady, a ak ho niet, výkonný riaditeľ.
+
+(7) Správna rada
 
 - a) volí a odvoláva zo svojich členov predsedu správnej rady a podpredsedu správnej rady,
 
@@ -52,7 +54,7 @@
 
 - g) schvaľuje plán činnosti strediska,
 
-- h) schvaľuje správu o stave dodržiavania ľudských práv v Slovenskej republike,
+- h) prerokúva správu o stave dodržiavania ľudských práv v Slovenskej republike,
 
 - i) schvaľuje ročnú záverečnú správu o činnosti strediska,
 
@@ -60,6 +62,6 @@
 
 - k) schvaľuje výročnú správu o hospodárení strediska.
 
-(7) Podrobnosti o vnútorných pomeroch strediska upraví štatút strediska. Štatút musí byť v súlade s medzinárodnou zmluvou.<sup>2</sup>)
+(8) Podrobnosti o vnútorných pomeroch strediska upraví štatút strediska. Štatút musí byť v súlade s medzinárodnou zmluvou.<sup>2</sup>)
 
-(8) Postup pri zvolávaní zasadnutí správnej rady a jej rokovaní upraví rokovací poriadok správnej rady.
+(9) Postup pri zvolávaní zasadnutí správnej rady a jej rokovaní upraví rokovací poriadok správnej rady.
