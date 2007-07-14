@@ -420,6 +420,14 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Area de Legalizaciones, Dirección: Transversal 17 A No. 98-55, Bogotá, D.C.
 
+    - Kórejská republika
+
+  - 1. Ministerstvo zahraničných vecí a obchodu
+
+  - 2. Ministerstvo spravodlivosti
+
+  - 3. Národná súdna správa
+
     - Lesotho
 
   - 1. „the Attorney-General"
