@@ -1,0 +1,1 @@
+- 1) § 5 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
