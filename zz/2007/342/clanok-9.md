@@ -1,0 +1,3 @@
+# Čl. IX Účinnosť
+
+Tento zákon nadobúda účinnosť dňom určeným rozhodnutím Rady o uplatňovaní ustanovení schengenského acquis týkajúcich sa Schengenského informačného systému v Slovenskej republike prijatého na základe čl. 3 ods. 2 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii okrem čl. II 6. a 7. bodu, čl. IV 1. až 7. bodu a 9. bodu a čl. V, ktoré nadobudnú účinnosť dňom určeným rozhodnutím Rady o zrušení kontrol na vnútorných hraniciach Slovenskej republiky prijatým na základe čl. 3 ods. 2 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii a čl. II 1. až 5. bodu, čl. III a čl. VI, ktoré nadobudnú účinnosť dňom vyhlásenia.
