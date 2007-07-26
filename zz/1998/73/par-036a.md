@@ -1,8 +1,8 @@
 # § 36a Povolanie
 
-(1) Minister môže na nevyhnutne potrebný čas povolať na plnenie úloh inšpekčnej služby<sup>10b</sup>) policajta s jeho súhlasom, a to i na také činnosti, ktoré nevyplývajú z funkcie, do ktorej bol ustanovený alebo vymenovaný.
+(1) Policajta možno s jeho súhlasom povolať na nevyhnutne potrebný čas na plnenie úloh inšpekčnej služby<sup>10b</sup>) alebo na plnenie úloh agenta,<sup>10d</sup>) a to i na také činnosti, ktoré nevyplývajú z funkcie, do ktorej bol ustanovený alebo vymenovaný.
 
-(2) Minister ukončí povolanie policajta,
+(2) Povolanie policajta sa ukončí,
 
 - a) ak pominuli dôvody tohto povolania,
 

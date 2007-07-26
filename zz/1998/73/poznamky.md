@@ -32,6 +32,8 @@
 
 - 10c) § 20 zákona č. 328/2002 Z. z.
 
+- 10d) § 117 Trestného poriadku.
+
 - 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 11a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
@@ -96,8 +98,6 @@
 
 - 25) § 99 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 25a) § 59b a 59c zákona č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov.
-
 - 25b) § 18 až 32 zákona č. 283/2002 Z. z. o cestovných náhradách.
 
 - 26) § 5 ods. 1 zákona č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
@@ -106,7 +106,7 @@
 
 - 28) § 7 ods. 4 zákona č. 119/1992 Zb.
 
-- 29) § 12 ods. 1 zákona č. 119/1992 Zb.
+- 29) § 13 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
 - 30) Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci.
 
