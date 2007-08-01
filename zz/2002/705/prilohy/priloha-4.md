@@ -36,6 +36,36 @@ Bodové zdroje
 
 Na hodnotenie znečistenia v okolí bodových zdrojov sa počet vzorkovacích miest na merania vypočíta tak, že sa bude brať do úvahy hustota emisií, pravdepodobné distribučné modely znečistenia ovzdušia a potenciálne vystavenie obyvateľstva znečisťujúcim látkam.
 
+1a. Kritériá na určenie minimálnych počtov vzorkovacích miest na stále merania koncentrácií arzénu (As), kadmia (Cd), niklu (Ni) a benzo(a)pyrénu (BaP) v ovzduší.
+
+Minimálny počet vzorkovacích miest na stále merania na účely posúdenia dodržiavania cieľových hodnôt na ochranu zdravia ľudí, v ktorých sú stále merania jediným zdrojom informácií.
+
+Plošné zdroje
+
+Populácia aglomerácie alebo zóny (v tisícoch) | Ak koncentrácie prekročia hornú medzu na hodnotenie | | Ak sú maximálne koncentrácie medzi hornou a dolnou medzou na hodnotenie |
+
+| As, Cd, Ni | BaP | As, Cd, Ni | BaP
+
+0 -749 | 1 | 1 | 1 | 1
+
+750 - 1 999 | 2 | 2 | 1 | 1
+
+2 000 - 3 749 | 2 | 3 | 1 | 1
+
+3 750 - 4 749 | 3 | 4 | 2 | 2
+
+4 750 - 5 999 | 4 | 5 | 2 | 2
+
+6 000 a viac | 5 | 5 | 2 | 2
+
+Z minimálneho počtu vzorkovacích miest aspoň jedno miesto musí byť na pozaďovej monitorovacej stanici v mestskej oblasti a pri monitorovaní benzo(a)pyrénu aj na dopravnej monitorovacej stanici, ak sa nezvýši celkový počet vzorkovacích miest.
+
+Bodové zdroje
+
+Na hodnotenie znečistenia v okolí bodových zdrojov sa počet vzorkovacích miest stáleho merania určí tak, že sa berie do úvahy hustota emisií, pravdepodobné distribučné modely znečistenia ovzdušia a potenciálne vystavenie obyvateľstva znečisťujúcim látkam.
+
+Vzorkovacie miesta sa umiestňujú tak, aby sa mohlo monitorovať uplatňovanie najlepších dostupných techník.
+
 2. Minimálny počet vzorkovacích miest na stále merania na účely hodnotenia dodržiavania limitných hodnôt na ochranu ekosystémov alebo vegetácie v zónach iných, ako sú aglomerácie.
 
 Ak najvyššie koncentrácie prekračujú hornú medzu na hodnotenie úrovne znečistenia ovzdušia, 1 stanica na každých 20 000 km<sup>2</sup> | Ak najvyššie koncentrácie sú medzi hornou a dolnou medzou na hodnotenie úrovne znečistenia ovzdušia, 1 stanica na každých 40 000 km<sup>2</sup>

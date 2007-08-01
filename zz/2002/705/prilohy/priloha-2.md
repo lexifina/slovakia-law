@@ -52,6 +52,38 @@ Horná medza na hodnotenie | 70 % z limitnej hodnoty (7 mg/m<sup>3</sup>)
 
 Dolná medza na hodnotenie | 50 % z limitnej hodnoty (5 mg/m<sup>3</sup>)
 
+7. Arzén
+
+| Ročný priemer
+
+Horná medza na hodnotenie | 60 % z cieľovej hodnoty (3,6 ng/m<sup>3</sup>)
+
+Dolná medza na hodnotenie | 40 % z cieľovej hodnoty (2,4 ng/m<sup>3</sup>)
+
+8. Kadmium
+
+| Ročný priemer
+
+Horná medza na hodnotenie | 60 % z cieľovej hodnoty (3 ng/m<sup>3</sup>)
+
+Dolná medza na hodnotenie | 40 % z cieľovej hodnoty (2 ng/m<sup>3</sup>)
+
+9. Nikel
+
+| Ročný priemer
+
+Horná medza na hodnotenie | 70 % z cieľovej hodnoty (14 ng/m<sup>3</sup>)
+
+Dolná medza na hodnotenie | 50 % z cieľovej hodnoty (10 ng/m<sup>3</sup>)
+
+10. Benzo(a)pyrén
+
+| Ročný priemer
+
+Horná medza na hodnotenie | 60 % z cieľovej hodnoty (0,6 ng/m<sup>3</sup>)
+
+Dolná medza na hodnotenie | 40 % z cieľovej hodnoty (0,4 ng/m<sup>3</sup>)
+
 II. Zistenie prekročení horných medzí a dolných medzí
 
 1. Ak sú k dispozícii dostatočné údaje, musia sa prekročenia horných medzí a dolných medzí na hodnotenie úrovne znečistenia ovzdušia zistiť na základe koncentrácií nameraných za posledných päť rokov. Medza na hodnotenie úrovne znečistenia ovzdušia sa považuje za prekročenú, ak je prekročená najmenej v troch jednotlivých rokoch z týchto posledných piatich rokov.

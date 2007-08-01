@@ -70,7 +70,39 @@ Limitná hodnota sa musí vyjadriť v µg/m<sup>3</sup> a vztiahnuť na štandar
 
 Limitná hodnota na ochranu zdravia ľudí | kalendárny rok | 5 μg/m<sup>3</sup> | 5 μg/m<sup>3</sup> do konca roku 2005, zníženie od 1. januára 2006 a následne každých ďalších 12 mesiacov o 1 μg/m<sup>3</sup> tak, aby sa 1. januára 2010 dosiahlo 0 % | 1. január 2010
 
-7. Cieľové hodnoty, termíny ich dosiahnutia, priemerované obdobie a dlhodobé ciele pre ozón
+7. Cieľová hodnota pre arzén
+
+Cieľová hodnota sa vyjadruje pre celkový obsah vo frakcii PM<sub>10</sub>. Jej hodnota sa vyjadruje v ng/m<sup>3</sup> a vzťahuje sa na štandardné podmienky: objem prepočítaný na teplotu 293 K a tlak 101,3 kPa.
+
+Účel | Priemerované obdobie | Cieľová hodnota | Dátum, ku ktorému treba dosiahnuť cieľovú hodnotu
+
+Cieľová hodnota na ochranu zdravia ľudí | 1 rok | 6 | 31. december 2012
+
+8. Cieľová hodnota pre kadmium
+
+Cieľová hodnota sa vyjadruje pre celkový obsah vo frakcii PM<sub>10</sub>. Jej hodnota sa vyjadruje v ng/m<sup>3</sup> a vzťahuje sa na štandardné podmienky: objem prepočítaný na teplotu 293 K a tlak 101,3 kPa.
+
+Účel | Priemerované obdobie | Cieľová hodnota | Dátum, ku ktorému treba dosiahnuť cieľovú hodnotu
+
+Cieľová hodnota na ochranu zdravia ľudí | 1 rok | 5 | 31. december 2012
+
+9. Cieľová hodnota pre nikel
+
+Cieľová hodnota sa vyjadruje pre celkový obsah vo frakcii PM<sub>10</sub>. Jej hodnota sa vyjadruje v ng/m<sup>3</sup> a vzťahuje sa na štandardné podmienky: objem prepočítaný na teplotu 293 K a tlak 101,3 kPa.
+
+Účel | Priemerované obdobie | Cieľová hodnota | Dátum, ku ktorému treba dosiahnuť cieľovú hodnotu
+
+Ročná limitná hodnota na ochranu zdravia ľudí | 1 rok | 20 | 31. december 2012
+
+10. Cieľová hodnota pre benzo(a)pyrén
+
+Cieľová hodnota sa vyjadruje pre celkový obsah vo frakcii PM<sub>10</sub>. Jej hodnota sa vyjadruje v ng/m<sup>3</sup>a vzťahuje sa na štandardné podmienky: objem prepočítaný na teplotu 293 K a tlak 101,3 kPa.
+
+Účel | Priemerované obdobie | Cieľová hodnota | Dátum, ku ktorému treba dosiahnuť cieľovú hodnotu
+
+Cieľová hodnota na ochranu zdravia ľudí | 1 rok | 1 | 31. december 2012
+
+11. Cieľové hodnoty, termíny ich dosiahnutia, priemerované obdobie a dlhodobé ciele pre ozón
 
 AOT40 vyjadrená v (µg/m<sup>3</sup>).h znamená súčet všetkých rozdielov medzi hodinovými koncentráciami väčšími ako 80 µg/m<sup>3</sup> (= 40 ppb) a 80 µg/m<sup>3</sup> v čase medzi 8,00 hod. a 20,00 hod. stredoeurópskeho času v danom časovom období.
 
@@ -84,16 +116,14 @@ Cieľové hodnoty sú vyjadrené v µg/m<sup>3</sup> a sú vztiahnuté na štand
 
 2. Cieľová hodnota na ochranu vegetácie | AOT40 vypočítaná z 1-hodinových hodnôt od mája do júla | 18 000 (μg/m<sup>3</sup>).h spriemerovaných za obdobie piatich rokov<sup>4</sup>) | 2010
 
-Poznámky:<sup>1</sup>) Tieto cieľové hodnoty a povolené prekročenia sú dané bez ohľadu na výsledky štúdií a revízií vykonaných na základe článku 11 Smernice Európskeho parlamentu a Rady 2002/3/ES, ktoré berú do úvahy rozličné geografické a klimatické podmienky v Európskom spoločenstve.<sup>2</sup>) Súlad s cieľovými hodnotami sa bude hodnotiť od tohto dátumu. To znamená, že rok 2010 bude prvým rokom, z ktorého údaje sa použijú na vypočítanie súladu v priebehu nasledujúcich troch, resp. piatich rokov.<sup>3</sup>) Maximálna hodnota priemernej osemhodinovej koncentrácie počas dňa sa vyberie z 24 osemhodinových kĺzavých priemerov vypočítaných z hodinových údajov a aktualizovaných každú hodinu. Každý osemhodinový priemer takto vypočítaný sa priradí ku dňu, v ktorom sa končí. Napríklad prvý osemhodinový priemer pre ktorýkoľvek deň bude od 17,00 hod. predchádzajúceho dňa do 01,00 hod. daného dňa; posledný osemhodinový priemer pre ktorýkoľvek deň bude od 16,00 hod. do 24,00 hod. daného dňa.<sup>4</sup>) Ak trojročné alebo päťročné priemery nemôžu byť určené na základe úplného a usporiadaného súboru ročných údajov, minimálne ročné údaje požadované na kontrolu súladu s cieľovými hodnotami budú: 1. pre cieľovú hodnotu na ochranu zdravia ľudí: platné údaje za jeden rok, 2. pre cieľovú hodnotu na ochranu vegetácie: platné údaje za tri roky.
+Poznámky:<sup>1</sup>) Tieto cieľové hodnoty a povolené prekročenia sú dané bez ohľadu na výsledky štúdií a revízií, ktoré berú do úvahy rozličné geografické a klimatické podmienky v Európskom spoločenstve.<sup>2</sup>) Súlad s cieľovými hodnotami sa bude hodnotiť od tohto dátumu. To znamená, že rok 2010 bude prvým rokom, z ktorého údaje sa použijú na vypočítanie súladu v priebehu nasledujúcich troch, resp. piatich rokov.<sup>3</sup>) Maximálna hodnota priemernej osemhodinovej koncentrácie počas dňa sa vyberie z 24 osemhodinových kĺzavých priemerov vypočítaných z hodinových údajov a aktualizovaných každú hodinu. Každý osemhodinový priemer takto vypočítaný sa priradí ku dňu, v ktorom sa končí. Napríklad prvý osemhodinový priemer pre ktorýkoľvek deň bude od 17,00 hod. predchádzajúceho dňa do 01,00 hod. daného dňa; posledný osemhodinový priemer pre ktorýkoľvek deň bude od 16,00 hod. do 24,00 hod. daného dňa.<sup>4</sup>) Ak trojročné alebo päťročné priemery nemôžu byť určené na základe úplného a usporiadaného súboru ročných údajov, minimálne ročné údaje požadované na kontrolu súladu s cieľovými hodnotami budú: 1. pre cieľovú hodnotu na ochranu zdravia ľudí: platné údaje za jeden rok, 2. pre cieľovú hodnotu na ochranu vegetácie: platné údaje za tri roky.
 
 Dlhodobé ciele pre ozón:
 
 Dlhodobé ciele sa vyjadrujú v µg/m<sup>3</sup> a vzťahujú sa na štandardné podmienky: objem prepočítaný na teplotu 293 K a tlak 101,3 kPa.
 
-Účel | Parameter/priemerované obdobie | Dlhodobý cieľ<sup>1</sup>)
+Účel | Parameter/priemerované obdobie | Dlhodobý cieľ
 
 1. Dlhodobý cieľ na ochranu zdravia ľudí | najvyšší 8-hodinový priemer dosiahnutý v priebehu jedného roka, vypočítaný každú hodinu z 8-hodinových kĺzavých priemerov | 120 μg/m<sup>3</sup>
 
 2. Dlhodobý cieľ na ochranu vegetácie | AOT40 vypočítaná z 1-hodinových hodnôt od mája do júla | 6 000 (μg/m<sup>3</sup>).h
-
-<sup>1</sup>) Pokrok Spoločenstva v smere dosiahnutia dlhodobého cieľa, použijúc rok 2020 ako meradlo, sa bude prehodnocovať ako súčasť procesu podľa článku 11 Smernice Európskeho parlamentu a Rady 2002/3/ES.

@@ -1,6 +1,6 @@
 Príloha č. 3 k vyhláške č. 705/2002 Z. z. POŽIADAVKY NA UMIESTŇOVANIE VZORKOVACÍCH MIEST NA MERANIE KONCENTRÁCIÍ ZNEČISŤUJÚCICH LÁTOK
 
-A. Umiestnenie vzorkovacích miest na meranie oxidu siričitého, oxidu dusičitého a oxidov dusíka, tuhých znečisťujúcich látok, olova, benzénu a oxidu uhoľnatého v ovzduší
+A. Umiestnenie vzorkovacích miest na meranie oxidu siričitého, oxidu dusičitého a oxidov dusíka, tuhých znečisťujúcich látok, olova, benzénu, arzénu, kadmia, niklu, benzo(a)pyrénu a oxidu uhoľnatého v ovzduší
 
 Požiadavky na stále merania:
 
@@ -22,6 +22,16 @@ Ak je to možné, vzorkovacie miesta sa umiestňujú tak, aby boli reprezentatí
 
 Vzorkovacie miesta na ochranu ekosystémov a vegetácie sa umiestnia ďalej ako 20 km od aglomerácií alebo ďalej ako 5 km od iných zastavaných území, priemyselných objektov alebo diaľnic. Platí zásada, že vzorkovacie miesto musí byť umiestnené tak, aby reprezentovalo kvalitu ovzdušia okolitej oblasti nie menšej ako 1 000 km<sup>2</sup>. Vzorkovacie miesto možno umiestniť v menšej vzdialenosti alebo tak, aby reprezentovalo kvalitu ovzdušia v menšej oblasti, ak si to vyžadujú geografické podmienky.
 
+1a. Dodatočné požiadavky na umiestňovanie vzorkovacích miest pre arzén, kadmium, nikel a benzo(a)pyrén
+
+Vzorkovacie miesto pre arzén, kadmium, nikel a benzo(a)pyrén sa umiestňuje tak, aby okrem požiadaviek uvedených v bode 1 reprezentovalo kvalitu ovzdušia v okolitej oblasti najmenej 250 m x 250 m v priemyselných miestach.
+
+Vzorkovacie miesta sa vyberajú tak, aby poskytli údaje o rýchlosti depozície, ktoré predstavujú nepriamu expozíciu prostredníctvom potravinového reťazca.
+
+V mieste, kde sa vyhodnocuje podiel z priemyselných zdrojov, sa aspoň jedno vzorkovacie miesto umiestni v najbližšej obytnej oblasti v smere prevládajúcich vetrov od zdroja. Ak koncentrácia pozadia nie je známa, dodatočné vzorkovacie miesto sa umiestni v smere prevládajúcich vetrov. Vzorkovacie miesta sa umiestnia tak, aby sa mohlo monitorovať uplatňovanie najlepších dostupných techník.
+
+Vzorkovacie miesta majú byť reprezentatívne s ohľadom na podobné lokality, ktoré sa nenachádzajú v bezprostrednej blízkosti, a umiestnia sa spolu so vzorkovacími miestami na PM<sub>10</sub>.
+
 2. Konkrétne požiadavky na umiestňovanie
 
 2.1 Prúdenie okolo vstupného otvoru vzorkovacej sondy musí byť neobmedzené, bez prekážok, ktoré môžu ovplyvniť prúd vzduchu v okolí vzorkovacieho zariadenia (obvykle niekoľko metrov od budov, balkónov, stromov a iných prekážok, a ak ide o odberové body, ktoré reprezentujú kvalitu ovzdušia v línii zástavby, aspoň pol metra od najbližšej budovy).
@@ -38,7 +48,9 @@ Vzorkovacie miesta na ochranu ekosystémov a vegetácie sa umiestnia ďalej ako 
 
 2.5.2 vstupné otvory pre oxid dusičitý sa umiestnia maximálne 5 m od obrubníka,
 
-2.5.3 vstupné otvory pre tuhé znečisťujúce látky a olovo sa umiestnia tak, aby reprezentovali kvalitu ovzdušia v blízkosti línie zástavby.
+2.5.3 vstupné otvory pre tuhé znečisťujúce látky, arzén, kadmium, nikel, benzo(a)pyrén a olovo sa umiestnia tak, aby reprezentovali kvalitu ovzdušia v blízkosti línie zástavby.
+
+2.6. Na meranie depozície vo vidieckych pozaďových oblastiach sa môžu použiť návody a kritériá programu spolupráce pre monitorovanie a vyhodnocovanie diaľkového šírenia látok znečisťujúcich ovzdušie v Európe (EMEP).
 
 Do úvahy možno brať aj tieto faktory:
 
