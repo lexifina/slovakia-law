@@ -56,6 +56,10 @@
 
 - 25) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 25a) § 2 písm. h) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 25b) § 3 ods. 3 zákona č. 530/2003 Z. z. v znení zákona č. 24/2007 Z. z.
+
 - 26) § 6 a 7 zákona č. 530/2003 Z. z. v znení neskorších predpisov.
 
 - 27) § 8 zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
