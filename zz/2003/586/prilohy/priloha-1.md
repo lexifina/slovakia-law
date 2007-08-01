@@ -55,3 +55,7 @@ Príloha č. 1 k zákonu č. 586/2003 Z. z.
   - v Slovinskej republike | Odvetnik/Odvetnica
 
   - na Malte | Avukat/Prokuratur Legali
+
+  - v Bulharskej republike | Адвокат
+
+  - v Rumunskej republike | Avocat
