@@ -10,9 +10,15 @@
 
 - 5) § 60 ods. 4 Obchodného zákonníka.
 
+- 5a) § 4 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
+
 - 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
 - 6a) § 68 ods. 12 Obchodného zákonníka.
+
+- 6b) § 2 písm. h) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 6c) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 25/2004 Z. z., ktorou sa ustanovujú vzory tlačív na podávanie návrhov na zápis do obchodného registra a zoznam listín, ktoré je potrebné k návrhu na zápis priložiť v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 563/2004 Z. z.
 
 - 7) § 78 ods. 1 Obchodného zákonníka.
 
@@ -67,3 +73,5 @@
 - 18) § 3a, § 9 ods. 4 a § 21 ods. 7 až 9 Obchodného zákonníka.
 
 - 19) § 53 Občianskeho súdneho poriadku.
+
+- 21) § 7 ods. 2 zákona č. 275/2006 Z. z.
