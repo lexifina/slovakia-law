@@ -1,6 +1,14 @@
-- 1) § 20 a 21 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.
+- 1) § 2 písm. a) zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja.
 
-- 2) § 6 ods. 2 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
+- 1a) § 66 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 1b) § 5 ods. 1 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/2004 Z. z.
+
+- 1c) § 8 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 1d) § 37 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
+
+- 2) § 5 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 3) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -14,9 +22,9 @@
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 261/1995 Z. z. o štátnom informačnom systéme.
 
-- 8) § 46b zákona č. 50//1976 Zb. v znení zákona č. 136/1995 Z. z.
+- 8) § 46b zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 9) § 98 zákona č. 50/1976 Zb.
+- 9) § 98 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 10) § 53 ods. 4 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 155/1980 Zb. a vyhlášky Federálneho výboru pre životné prostredie, Ministerstva životného prostredia Českej republiky a Slovenskej komisie pre životné prostredie č. 378/1992 Zb.
 
