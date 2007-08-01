@@ -1,0 +1,1 @@
+- 1) Vyhláška Národnej banky Slovenska č. 320/1999 Z. z. o vydaní bankoviek po 1 000 Sk vzoru 1999 do obehu.
