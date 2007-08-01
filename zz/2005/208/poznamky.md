@@ -11,3 +11,9 @@
 - 4) § 28 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
 
 - Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 67/2002 Z. z., ktorou sa vydáva zoznam vybraných chcemických látok a vybraných chemických látok, ktorých uvedenie na trh a používanie je obmedzené alebo zakázané.
+
+- 1) § 28 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
+
+- Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 67/2002 Z. z., ktorou sa vydáva zoznam vybraných chemických látok a vybraných chemických prípravkov, ktorých uvedenie na trh a používanie je obmedzené alebo zakázané v znení neskorších predpisov.
+
+- 2) § 1 ods. 2 a príloha č. 1 k nariadeniu vlády Slovenskej republiky č. 448/2004 Z. z., ktorým sa ustanovujú podrobnosti označovania krištáľového skla a metódy skúšania jeho zloženia.
