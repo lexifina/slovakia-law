@@ -130,15 +130,13 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 13 |
 
-- a) Z návrhu na zastavenie exekúcie alebo jej odklad | 3 000 Sk
+- a) Zo žiadosti o udelenie poverenia súdnemu exekútorovi | 500 Sk
 
-- b) Zo žiadosti o udelenie poverenia súdnemu exekútorovi | 500 Sk
+- b) Za konanie súdu o námietkach proti exekúcii vykonávanej podľa zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov | 6 % z vymáhaného nároku, najmenej 2 000 Sk, najviac 500 000 Sk
 
-- c) Za konanie súdu o námietkach proti exekúcii vykonávanej podľa zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov | 6 % z vymáhaného nároku, najmenej 2 000 Sk, najviac 500 000 Sk
+- c) Z návrhu na rozhodnutie o vykonateľnosti rozhodnutia cudzieho orgánu podľa § 250w ods. 1 Občianskeho súdneho poriadku | 2 000 Sk
 
-- d) Z návrhu na rozhodnutie o vykonateľnosti rozhodnutia cudzieho orgánu podľa § 250w ods. 1 Občianskeho súdneho poriadku | 2 000 Sk
-
-- Poznámka:Poplatok podľa písmena b) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. V odvolacom konaní sa poplatky podľa tejto položky nevyberajú. |
+- Poznámka:Poplatok podľa písmena a) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. V odvolacom konaní sa poplatky podľa tejto položky nevyberajú. |
 
 - Položka 14 |
 
@@ -182,7 +180,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - d) z návrhu akcionára na poverenie na zvolanie valného zhromaždenia | 3 000 Sk
 
-- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis. 2. V poplatkoch podľa písmen a), b) a c) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov v Obchodnom vestníku. 3. Zmenou zápisu sa rozumie výmaz pôvodného a zápis nového údaja. 4. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre odštepný závod alebo inú organizačnú zložku podniku, ktorých sídlo je mimo obvodu registrového súdu príslušného pre podnikateľa, poplatok sa vyberie len raz na súde príslušnom pre podnikateľa. 5. Ak navrhovateľ vzal návrh na zápis späť pred vykonaním zápisu, poplatok sa mu vráti. 6. Poplatok podľa písmena e) tejto položky sa vyberá za uloženie tých listín do zbierky listín, ktoré nie sú prílohou návrhu na zápis, a vyberá sa osobitne za každú takto ukladanú listinu. 7. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaní vo veciach obchodného registra podľa § 200a Občianskeho súdneho poriadku poplatku nepodliehajú. |
+- Poznámky: 1. V jednom poplatku podľa písmena c) tejto položky je zahrnutý akýkoľvek počet návrhov na zápis zmeny alebo doplnenie údajov týkajúcich sa jednej zapísanej osoby, ktoré sú obsiahnuté v jednom návrhu na zápis. 2. V poplatkoch podľa písmen a), b) a c) tejto položky je zahrnutý aj poplatok za zverejnenie zapísaných údajov v Obchodnom vestníku. 3. Zmenou zápisu sa rozumie výmaz pôvodného a zápis nového údaja. 4. Ak sa má vykonať zápis do obchodného registra na registrovom súde príslušnom pre odštepný závod alebo inú organizačnú zložku podniku, ktorých sídlo je mimo obvodu registrového súdu príslušného pre podnikateľa, poplatok sa vyberie len raz na súde príslušnom pre podnikateľa. 5. Námietka proti odmietnutiu vykonania zápisu, odvolanie proti uzneseniu, ktorým súd rozhodol o zamietnutí námietky proti odmietnutiu vykonania zápisu, a odvolanie v konaní vo veciach obchodného registra podľa § 200a Občianskeho súdneho poriadku poplatku nepodliehajú. |
 
 - Položka 17a |
 
@@ -294,13 +292,21 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 24b |
 
-- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadku | 200 Sk
+- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadku |
 
-- b) za vyhotovenie fotokópie listiny uloženej v zbierke listín, za každú, aj začatú stranu | 10 Sk
+- 1. v listinnej podobe | 200 Sk,
 
-- c) za vyhotovenie a vydanie odpisu z obchodného registra, potvrdenia o tom, že v obchodnom registri určitý zápis nie je, a za vydanie potvrdenia o tom, že určitá listina nie je uložená do zbierky listín | 100 Sk
+- 2. v elektronickej podobe | 10 Sk,
 
-- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov a podľa § 200b ods. 4 Občianskeho súdneho poriadku, poplatku nepodlieha. |
+- b) za vyhotovenie fotokópie listiny uloženej v zbierke listín, za každú, aj začatú stranu | 10 Sk,
+
+- c) za zaslanie elektronickej podoby listiny uloženej v zbierke listín elektronickými prostriedkami | 10 Sk,
+
+- d) za vyhotovenie a vydanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín | 100 Sk,
+
+- e) za zaslanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín elektronickými prostriedkami | 10 Sk,
+
+- Poznámka:Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 200b ods. 4 Občianskeho súdneho poriadku, poplatku nepodliehajú. |
 
 - Položka 24c |
 
