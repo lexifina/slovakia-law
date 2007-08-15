@@ -1,0 +1,5 @@
+Príloha č. 2 k vyhláške č. 365/2007 Z. z.
+
+- VZOR ŽIADOSŤ O PREDĹŽENIE DOBY REGISTRÁCIE ODRODY
+
+- [Vzor 02](../assets/57faaaa6152995855287f7697363920888a682a2ecbcc08673405dcde506a178.pdf)

@@ -1,0 +1,5 @@
+Príloha č. 7 k vyhláške č. 365/2007 Z. z.
+
+- VZOR ČESTNÉ VYHLÁSENIE O VYKONÁVANÍ UDRŽIAVACIEHO ŠĽACHTENIA ODRÔD PESTOVANÝCH RASTLÍN
+
+- [Vzor 07](../assets/a7ae103b1b9f657fd887f6e91796e3ff626558b6abf0f140b13a364faa2bdac3.pdf)

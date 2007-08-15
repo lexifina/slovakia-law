@@ -1,0 +1,5 @@
+Príloha č. 5 k vyhláške č. 365/2007 Z. z.
+
+- VZOR ŽIADOSŤ O VYKONANIE ODRODOVÝCH SKÚŠOK REGISTROVANEJ ODRODY
+
+- [Vzor 05](../assets/f531c7c6b64fe078519fe0baa76011c0a070ac6e7d46bc9af7893d9f4b789954.pdf)

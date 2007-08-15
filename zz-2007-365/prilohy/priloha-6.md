@@ -1,0 +1,5 @@
+Príloha č. 6 k vyhláške č. 365/2007 Z. z.
+
+- VZOR ČESTNÉ VYHLÁSENIE O VYKONÁVANÍ ŠĽACHTENIA NOVÝCH ODRÔD PESTOVANÝCH RASTLÍN
+
+- [Vzor 06](../assets/64f7186f7dd40fc634fdabef160a52cfcfef7e895d5aa82686335e5078910047.pdf)
