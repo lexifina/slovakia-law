@@ -1,13 +1,17 @@
-Príloha č. 1 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 311/1996 Z. z.
+Príloha č. 2
 
-- SÍDLA SKÚŠOBNÝCH KOMISIÍ A ICH PRÍSLUŠNOSŤ PRE JEDNOTLIVÉ KRAJE
+k vyhláške č. 311/1996 Z. z.
 
-  - Skúšobná komisia so sídlom v Bratislave je príslušná pre okresy Bratislavského kraja a Trnavského kraja.
+ŠKOLY, KTORÝCH DOKLADY O VZDELANÍ PREUKAZUJÚ SPLNENIE POŽIADAVKY VZDELANIA
 
-  - Skúšobná komisia so sídlom v Nitre je príslušná pre okresy Nitrianskeho kraja.
+Vysoké školy:
 
-  - Skúšobná komisia so sídlom v Žiline je príslušná pre okresy Žilinského kraja a Trenčianskeho kraja.
+Vysoká škola dopravy a spojov v Žiline, Fakulta prevádzky a ekonomiky dopravy a spojov, študijný odbor prevádzka a ekonomika cestnej a mestskej dopravy,
 
-  - Skúšobná komisia so sídlom v Banskej Bystrici je príslušná pre okresy Banskobystrického kraja.
+Žilinská univerzita v Žiline, Fakulta prevádzky a ekonomiky dopravy a spojov, študijný odbor Doprava, študijný program Cestná doprava a študijný odbor Dopravné služby.
 
-  - Skúšobná komisia so sídlom v Košiciach je príslušná pre okresy Košického kraja a Prešovského kraja.
+Stredné odborné školy:
+
+Stredné priemyselné školy dopravné, odbor cestná doprava
+
+Iné vysoké školy, stredné odborné školy a stredné odborné učilištia po predložení výpisu absolvovaných predmetov a dokladu o vzdelaní, ktoré obsahujú všetky odborné témy a požiadavky uvedené v prílohe č. 3.

@@ -22,9 +22,7 @@
 
 - c) doklady o požiadavkách na medzinárodnú nepravidelnú autobusovú dopravu na zabezpečenie významných kultúrnych a športových podujatí,
 
-- d) doklady o uskutočňovaní kombinovanej dopravy,
-
-- e) doklady o tom, že dopravca nevykazuje nedoplatky na daniach, odvodoch poistného na zdravotné poistenie, poistného na nemocenské poistenie, poistného na dôchodkové zabezpečenie, príspevku na poistenie v nezamestnanosti a na poistení zodpovednosti za škody.
+- d) doklady o uskutočňovaní kombinovanej dopravy.
 
 (4) Doklady podľa odseku 3 písm. a) a b) netreba priložiť, ak už boli v tom istom roku predložené.
 

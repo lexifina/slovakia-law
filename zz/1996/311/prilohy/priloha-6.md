@@ -2,4 +2,4 @@ Príloha č. 6
 
 k vyhláške č. 311/1996 Z. z.
 
-[Príloha 06](../assets/8628b61272becf7c4e37fabe9feef662635460822ae1fa26e7710c637fc1af8d.pdf)
+[Vzor 06 - Kontrolný záznam](../assets/6c727507ed76b634c1d651a57864efb0398f97f8a1dd7e5fed6c68dd7b76baae.pdf)

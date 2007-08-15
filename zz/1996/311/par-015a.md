@@ -25,3 +25,5 @@
 - c) a druh zistených priestupkov,
 
 - d) a druh uložených sankcií.
+
+(4) O výsledkoch vykonaných kontrol, zistených priestupkoch a uložených sankciách sa vyhotovuje správa. Vzor správy je uvedený v prílohe č. 6a.

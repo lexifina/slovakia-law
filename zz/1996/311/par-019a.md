@@ -1,0 +1,3 @@
+# § 19a
+
+Touto vyhláškou sa preberajú právne akty Európskych spoločenstiev uvedené v prílohe č. 11.
