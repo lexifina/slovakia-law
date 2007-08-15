@@ -1,0 +1,7 @@
+Príloha č. 2 k nariadeniu vlády č. 369/2007 Z. z.
+
+- VZOR
+
+  - KALKULÁCIA PREDPOKLADANÝCH OPRÁVNENÝCH NÁKLADOV CHOVATEĽA ALEBO PESTOVATEĽA
+
+- [Vzor 02](../assets/2b7326cd66646c5bd7bf0195740ddb43b22c63d7af24621b3870f7a5233727b1.pdf)

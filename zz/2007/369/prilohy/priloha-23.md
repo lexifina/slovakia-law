@@ -1,0 +1,7 @@
+Príloha č. 23 k nariadeniu vlády č. 369/2007 Z. z.
+
+- VZOR
+
+  - KALKULÁCIA PREDPOKLADANÝCH OPRÁVNENÝCH NÁKLADOV NA OCHRANU LESA
+
+- [Vzor 23](../assets/b48935aed3fc50f4083f818e85a42a454db0c100a37323346fcff72f876b9da5.pdf)
