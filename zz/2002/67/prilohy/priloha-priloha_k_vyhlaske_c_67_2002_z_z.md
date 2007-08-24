@@ -474,141 +474,11 @@ XXIX. Karcinogénne látky a prípravky uvedené v zozname nebezpečných chemic
 
 Karcinogénne látky a prípravky kategórie 1 sú tieto:
 
-Názov látky | Indexové číslo | EC číslo | CAS číslo | Pozn.
-
-oxid chrómový | 024-001-00-0 | 215-607-8 | 1333-82-0 |
-
-chróman zinočnatý vrátane chrómanu zinočnato-draselného | 024-007-00-3 | | |
-
-oxid nikelnatý | 028-003-00-2 | 215-215-7 | 1313-99-1 |
-
-oxid nikličitý | 028-004-00-8 | 234-823-3 | 12035-36-8 |
-
-oxid niklitý | 028-005-00-3 | 215-217-8 | 1314-06-3 |
-
-sulfid nikelnatý | 028-006-00-9 | 240-841-2 | 16812-54-7 |
-
-disulfid trinikelnatý | 028-007-00-4 | 234-829-6 | 12035-72-2 |
-
-oxid arzenitý | 033-003-00-0 | 215-481-4 | 1327-53-3 |
-
-oxid arzeničný | 033-004-00-6 | 215-116-9 | 1303-28-2 |
-
-kyselina arzeničná a jeji soli | 033-005-00-1 | | |
-
-hydrogenarzeničnan olovnatý | 082-011-00-0 | 232-064-2 | 7784-40-9 |
-
-benzén | 601-020-00-8 | 200-753-7 | 71-43-2 |
-
-vinylchlorid; chlóretylén | 602-023-00-7 | 200-831-0 | 75-01-4 |
-
-bis(chlórmetyl)éter | 603-046-00-5 | 208-832-8 | 542-88-1 |
-
-chlórmetylmetyléter; chlórdimetyléter | 603-075-00-3 | 203-480-1 | 107-30-2 |
-
-2-naftylamín; beta-naftylamín | 612-022-00-3 | 202-080-4 | 91-59-8 |
-
-benzidín; 4,4'-diaminobifenyl; bifenyl-4,4'-yléndiamín | 612-042-00-2 | 202-199-1 | 92-87-5 |
-
-soli benzidínu | 612-070-00-5 | | |
-
-soli 2-naftylamínu | 612-071-00-0 | | |
-
-bifenyl-4-ylamín; xenylamín; 4-aminobifenyl | 612-072-00-6 | 202-177-1 | 92-67-1 |
-
-soli bifenyl-4-ylamínu; soli xenylamínu; soli 4-aminobifenylu | 612-073-00-1 | | |
-
-Decht, uholný; uhoľný decht | 648-081-00-7 | 232-361-7 | 8007-45-2 |
-
-(Vedľajší produkt štiepnej destilácie uhlia. Takmer čierna polotuhá látka. Komplexná zmes aromatických uhľovodíkov, fenolových zlúčenín, dusíkových báz a tiofénu.) | | | |
-
-Decht, uhoľný, vysokoteplotný; uhoľný decht | 648-082-00-2 | 266-024-0 | 65996-89-6 |
-
-[Kondenzát získavaný ochladzovaním približne na teplotu prostredia, plyn, ktorý vzniká vysokoteplotnou (nad 700 °C) štiepnou destiláciou uhlia. Čierna viskózna kvapalina hustejšia ako voda. Pozostáva predovšetkým z komplexnej zmesi kondenzovaných cyklických aromatických uhľovodíkov. Občas obsahuje menšie množstvá fenolových zlúčenín aromatických dusíkových báz.] | | | |
-
-Decht, uhoľný, nízkoteplotný; uhoľný decht | 648-083-00-8 | 266-025-6 | 65996-90-9 |
-
-[Kondenzát získavaný ochladzovaním približne na teplotu prostredia, plyn, ktorý vzniká nízkoteplotnou (pod 700 °C) štiepnou destiláciou uhlia. Čierna viskózna kvapalina hustejšia ako voda. Pozostáva predovšetkým z komplexnej zmesi kondenzovaných cyklických aromatických uhľovodíkov, fenolových zlúčenín, aromatických dusíkových báz a ich alkylových derivátov.] | | | |
-
-Decht, hnedouhoľný | 648-145-00-4 | 309-885-0 | 101316-83-0 |
-
-(Olej získavaný destiláciou hnedouhoľného dechtu. Pozostáva predovšetkým z alifatických, nafténových a jedno- až trojcyklických aromatických uhľovodíkov, ich alkylových derivátov, heteroaromatických látok a jedno- a dvojcyklických fenolov s teplotou varu v rozmedzí približne od 150 °C do 360 °C.) | | | |
-
-Decht, hnedouhoľný, nízkoteplotný | 648-146-00-X | 309-886-6 | 101316-84-1 |
-
-(Decht získavaný nízkoteplotnou karbonizáciou a nízkoteplotným splynovaním hnedého uhlia. Pozostáva predovšetkým z alifatických, nafténových a cyklických aromatických uhľovodíkov, heteroaromatických uhľovodíkov a cyklických fenolov.) | | | |
-
-Destiláty (ropné), ľahké parafínové; nerafinovaná alebo mierne rafinovaná ropa | 649-050-00-0 | 265-051-5 | 64741-50-0 |
-
-(Komplexná zmes uhľovodíkov vyrábaných vákuovou destiláciou rezíduí z atmosférickej destilácie ropy. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>15</sub> až C<sub>30</sub> a tvorí čistý olej s viskozitou do 19 cS pri teplote 40 °C. Obsahuje relatívne veľký podiel nasýtených alifatických uhľovodíkov, ktoré sa bežne vyskytujú v tomto destilačnom rozmedzí ropy.) | | | |
-
-Destiláty (ropné), ťažké parafínové; nerafinovaná alebo mierne rafinovaná ropa | 649-051-00-6 | 265-052-0 | 64741-51-1 |
-
-(Komplexná zmes uhľovodíkov vyrábaných vákuovou destiláciou rezíduí z atmosférickej destilácie ropy. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>20</sub> až C<sub>50</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C. Obsahuje relatívne veľký podiel nasýtených alifatických uhľovodíkov.) | | | |
-
-Destiláty (ropné), ľahké nafténové; nerafinovaná alebo mierne rafinovaná ropa | 649-052-00-1 | 265-053-6 | 64741-52-2 |
-
-(Komplexná zmes uhľovodíkov vyrábaných vákuovou destiláciou rezíduí z atmosférickej destilácie ropy. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>15</sub> až C<sub>30</sub> a vytvára čistý olej s viskozitou do 19 cSt pri teplote 40 °C. Obsahuje relatívne málo normálnych parafínov.) | | | |
-
-Destiláty (ropné), ťažké nafténové; nerafinovaná alebo mierne rafinovaná ropa | 649-053-00-7 | 265-054-1 | 64741-53-3 |
-
-(Komplexná zmes uhľovodíkov vyrábaných vákuovou destiláciou rezíduí z atmosférickej destilácie ropy. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>20</sub> až C<sub>50</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C. Obsahuje relatívne málo normálnych parafínov.) | | | |
-
-Destiláty (ropné) ťažké nafténové rafinované kyselinou; nerafinovaná alebo mierne rafinovaná ropa | 649-054-00-2 | 265-117-3 | 64742-18-3 |
-
-(Komplexná zmes uhľovodíkov získavaných v podobe rafinátu z rafinácie kyselinou sírovou. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>20</sub> až C<sub>50</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C. Obsahuje relatívne málo normálnych parafínov.) | | | |
-
-Destiláty (ropné) ľahké nafténové rafinované kyselinou; nerafinovaná alebo mierne rafinovaná ropa | 649-055-00-8 | 265-118-9 | 64742-19-4 |
-
-(Komplexná zmes uhľovodíkov získavaných v podobe rafinátu z rafinácie kyselinou sírovou. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>15</sub> až C<sub>30</sub> a vytvára čistý olej s viskozitou do 19 cSt pri teplote 40 °C. Obsahuje relatívne málo normálnych parafínov.) | | | |
-
-Destiláty (ropné) ťažké parafínové rafinované kyselinou; nerafinovaná alebo mierne rafinovaná ropa | 649-056-00-3 | 265-119-4 | 64742-20-7 |
-
-(Komplexná zmes uhľovodíkov získavaných v podobe rafinátu z rafinácie kyselinou sírovou. Pozostáva prevažne z nasýtených uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>20</sub> až C<sub>50</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C.) | | | |
-
-Destiláty (ropné) ľahké parafínové rafinované kyselinou; nerafinovaná alebo mierne rafinovaná ropa | 649-057-00-9 | 265-121-5 | 64742-21-8 |
-
-(Komplexná zmes uhľovodíkov získavaných v podobe rafinátu z rafinácie kyselinou sírovou. Pozostáva prevažne z nasýtených uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>15</sub> až C<sub>30</sub> a vytvára čistý olej s viskozitou do 19 cSt pri teplote 40 °C.) | | | |
-
-Destiláty (ropné) ťažké parafínové chemicky neutralizované; nerafinovaná alebo mierne rafinovaná ropa | 649-058-00-4 | 265-127-8 | 64742-27-4 |
-
-(Komplexná zmes uhľovodíkov získavaných rafináciou, pri ktorej sa odbúravajú kyslé materiály. Pozostáva prevažne z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>20</sub> až C<sub>50</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C. Obsahuje relatívne veľký podiel alifatických uhľovodíkov.) | | | |
-
-Destiláty (ropné) ľahké parafínové chemicky neutralizované, nerafinovaná alebo mierne rafinovaná ropa | 649-059-00-X | 265-128-3 | 64742-28-5 |
-
-(Komplexná zmes uhľovodíkov vyrábaných rafináciou, pri ktorej sa odbúravajú kyslé materiály. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>15</sub> až C<sub>30</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C.) | | | |
-
-Destiláty (ropné) ťažké nafténové chemicky neutralizované; nerafinovaná alebo mierne rafinovaná ropa | 649-060-00-5 | 265-135-1 | 64742-34-3 |
-
-(Komplexná zmes uhľovodíkov vyrábaných rafináciou, pri ktorej sa odbúravajú kyslé materiály. Pozostáva z uhľovodíkov s počtom atómov uhlíka prevažne v rozmedzí C<sub>20</sub> až C<sub>50</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C. Obsahuje relatívne málo normálnych parafínov.) | | | |
-
-Destiláty (ropné) ľahké nafténové chemicky neutralizované; nerafinovaná alebo mierne rafinovaná ropa | 649-061-00-0 | 265-136-7 | 64742-35-4 |
-
-(Komplexná zmes uhľovodíkov vyrábaných rafináciou, pri ktorej sa odbúravajú kyslé materiály. Obsahuje uhľovodíky s počtom atómov uhlíka prevažne v rozmedzí C<sub>15</sub> až C<sub>30</sub> a vytvára čistý olej s viskozitou od 19 cSt pri teplote 40 °C. Obsahuje relatívne málo normálnych parafínov.) | | | |
-
-Erionit | 650-012-00-0 | | 12510-42-8 |
-
-Azbest | 650-013-00-6 | | 132207-33-1 |
-
-| | | 132207-32-0 |
-
-| | | 12172-73-5 |
-
-| | | 77536-66-4 |
-
-| | | 77536-68-6 |
-
-| | | 77536-67-5 |
-
-bután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [1] | 601-004-01-8 | 203-448-7 [1] | 106-97-8 [1] | C, S
-
-izobután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [2] | | 200-857-2 [2] | 75-28-5 [2] |
-
-1,3 butadién; buta-1,3-dién | 601-013-00-X | 203-450-8 | 106-99-0 | D
+[Tabuľka XXIX. kategória 1](../assets/db21727434826376533276772102d99ea644a72a54ad2ab441f30ee949e837a6.pdf)
 
 Karcinogénne látky a prípravky kategórie 2 sú tieto:
 
-[Tabuľka XXIX. kategória 2](../assets/d1c679fae052364ca23151bd1ee0ebcde149471cbdee9ee93c5fbd85211d5da0.pdf)
+[Tabuľka XXIX. kategória 2](../assets/0428ac237d5f3a1f6d94339c7d0fdf941c7c548b934b5feb00fdbf242f429317.pdf)
 
 1. Karcinogénne látky a prípravky môžu byť obsiahnuté v látkach a prípravkoch predávaných v maloobchode v koncentráciách neprekračujúcich limity uvedené v zozname nebezpečných chemických látok alebo v predpisoch pre klasifikáciu nebezpečných chemických prípravkov ako limity na označenie týchto látok a prípravkov za karcinogénne, ak sa v zozname nebezpečných chemických látok koncentrácia neobmedzuje.
 
@@ -644,57 +514,7 @@ V tejto kategórii nie je klasifikovaná žiadna látka.
 
 Mutagénne látky kategórie 2:
 
-Názov látky | Indexové číslo | EC číslo | CAS číslo | Pozn.
-
-triamid hexametylfosforečný; hexametylfosfotriamid | 015-106-00-2 | 211-653-8 | 680-31-9 |
-
-dietylsulfát | 016-027-00-6 | 200-589-6 | 64-67-5 |
-
-dichróman draselný | 024-002-00-6 | 231-906-6 | 7778-50-9 |
-
-dichróman amonný | 024-003-00-1 | 232-143-1 | 7789-09-5 |
-
-dichróman sodný | 024-004-00-7 | 234-190-3 | 10588-01-9 |
-
-dichróman sodný, dihydrát | 024-004-01-4 | 234-190-3 | 7789-12-0 |
-
-chromylchlorid; oxychlorid chromitý | 024-005-00-2 | 239-056-8 | 14977-61-8 |
-
-chróman draselný | 024-006-00-8 | 232-140-5 | 7789-00-6 |
-
-benzo[a]pyrén; benzo[d,e,f]kryzén | 601-032-00-3 | 200-028-5 | 50-32-8 |
-
-1,2-dibróm-3-chlórpropán | 602-021-00-6 | 202-479-3 | 96-12-8 |
-
-etylénoxid; oxiran | 603-023-00-X | 200-849-9 | 75-21-8 |
-
-metylakrylamidmetoxyacetát (s obsahom akrylamidu ≥ 0,1 %) | 607-190-00-X | 401-890-7 | 77402-03-0 |
-
-metylakrylamidglykolát (s obsahom akrylamidu ≥ 0,1 %) | 607-210-00-7 | 403-230-3 | 77402-05-2 |
-
-etylénimín; aziridín | 613-001-00-1 | 205-793-9 | 151-56-4 |
-
-1,3,5,-tris(oxiranylmetyl)-1,3,5-triazín-2,4,6(1H,3H,5H)-trión; TGIC | 615-021-00-6 | 219-514-3 | 2451-62-9 |
-
-akrylamid | 616-003-00-0 | 201-173-7 | 79-06-1 |
-
-fluorid kademnatý | 048-006-00-2 | 232-222-0 | 7790-79-6 | -
-
-chlorid kademnatý | 048-008-00-3 | 233-296-7 | 10108-64-2 | -
-
-2,2'-bioxirán, 1,2:3,4-diepoxybután | 603-060-00-1 | 215-979-1 | 1464-53-5 | -
-
-chróman sodný | 024-018-00-3 | 231-889-5 | 7775-11-3 | E
-
-bután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [1] | 601-004-01-8 | 203-448-7 [1] | 106-97-8 [1] | C, S
-
-izobután [obsahujúci ≥ 0,1 % butadiénu (203-450-8)] [2] | | 200-857-2 [2] | 75-28-5 [2] |
-
-1,3-butadién; buta-1,3-dién | 601-013-00-X | 203-450-8 | 106-99-0 | D
-
-propylénoxid; 1,2-epoxypropán; metyloxirán | 603-055-00-4 | 200-879-2 | 75-56-9 | E
-
-1,3,5-tris-[(2S a 2R)-2,3-epoxypropyl]-1,3,5-triazín- 2,4,6-(1H,3H,5H)-trión | 616-091-00-0 | 423-400-0 | 59653-74-6 | E
+[Tabuľka XXX. kategória 2](../assets/c83568e7110006d1c018f8d55510fc01a81fa9b9ae4b11404b65139f696608e8.pdf)
 
 1. Mutagénne látky môžu byť obsiahnuté v látkach a prípravkoch predávaných v maloobchode v koncentráciách neprekračujúcich limity stanovené v zozname nebezpečných chemických látok alebo v predpisoch pre klasifikáciu nebezpečných chemických prípravkov ako limity na označenie týchto látok za mutagénne, ak sa v zozname nebezpečných chemických látok koncentrácia neobmedzuje.
 
@@ -732,9 +552,9 @@ oxid uhelnatý | 006-001-00-2 | 211-128-3 | 630-08-0 |
 
 hexaflórokremičitan olovnatý | 009-014-00-1 | 247-278-1 | 25808-74-6 |
 
-zlúčeniny olova s výnimkou tých, ktoré sú v tejto prílohe uvedené na inom mieste | 082-001-00-6 | | |
+zlúčeniny olova s výnimkou tých zlúčenín, ktoré sú uvedené v osobitnom predpise<sup>1</sup>) | 082-001-00-6 | - | - | A, E
 
-alkyly olova | 082-002-00-1 | | |
+alkylplumbány | 082-002-00-1 | - | - | A, E
 
 azid olovnatý | 082-003-00-7 | 236-542-1 | 13424-46-9 |
 
@@ -802,33 +622,33 @@ etyléntiomočovina; imidazolodín-2-tion; 2-imidazolín-2-tiol | 613-039-00-9 |
 
 N,N-dimetylformamid; dimetylformamid | 616-001-00-X | 200-679-5 | 68-12-2 |
 
-fluorid kademnatý | 048-006-00-2 | 232-222-0 | 7790-79-6 | -
+fluorid kademnatý | 048-006-00-2 | 232-222-0 | 7790-79-6 | E
 
 chlorid kademnatý | 048-008-00-3 | 233-296-7 | 10108-64-2 | E
 
-oxiranylmetanol; 2,3-epoxypropán-1-ol; glycidol | 603-063-00-8 | 209-128-3 | 556-52-5 | E
+2,3-epoxypropán-l-ol; glycidol hydroxymetyloxirán | 603-063-00-8 | 209-128-3 | 556-52-5 | E
 
 2-metoxypropán-1 -ol; 2 -metoxypropanol | 603-106-00-0 | 216-455-5 | 1589-47-5 | -
 
-4,4'-izobutyletylidéndifenol; 2,2-bis(4'-hydroxyfenyl)- 4-metylpentán | 604-024-00-8 | 401-720-1 | 6807-17-6 |
+4,4'-izobutyletylidéndifenol; 2,2-bis(4'-hydroxyfenyl)-4-metylpentán | 604-024-00-8 | 401-720-1 | 6807-17-6 |
 
 2 -metoxypropylacetát | 607-251-00-0 | 274-724-2 | 70657-70-4 | -
 
 tridemorf (ISO); 2,6-dimetyl-4-tridecylmorfolín | 613-020-00-5 | 246-347-3 | 24602-86-6 | -
 
-cykloheximid;[1S-[1alfa(S*),3alfa,5beta]]-4- [2-(3,5-dimetyl-2oxocyklohexyl)- 2-hydroxyetyl] -2,6-dión | 613-140-00-8 | 200-636-0 | 66-81-9 |
+cykloheximid; [1S-[1alfa(S*),3alfa,5beta]]-4-[2-(3,5-dimetyl-2oxocyklohexyl)-2-hydroxyetyl] -2,6-dión | 613-140-00-8 | 200-636-0 | 66-81-9 |
 
 flusilazol (ISO), bis(4-fluorofenyl)-(metyl)-(lH- 1,2,4-triazol-1 -ylmetyl)-silán | 014-017-00-6 | | 85509-19-9 | E
 
-zmes látok:4-{[bis-(4-fluorofenyl)-metylsilyl] me1yl}-4H-1,2,4-triazol;l-{[bis-(4-fluorofenyl)-metylsilyl] metyl}- 1H-1,2,4-triazol | 014-019-00-7 | 403-250-2 | | E
+zmes látok: 4-{[bis-(4-fluorofenyl)-metylsilyl] me1yl}-4H-1,2,4-triazol; l-{[bis-(4-fluorofenyl)-metylsilyl] metyl}- 1H-1,2,4-triazol | 014-019-00-7 | 403-250-2 | | E
 
 bis(2-metoxyetyl)éter | 603-139-00-0 | 203-924-4 | 111-96-6 | -
 
 (R) -oxiránmetanol; R-2,3 -epoxy-1 -propanol | 603-143-00-2 | 404-660-4 | 57044-25-4 | E
 
-fluazifop-butyl (ISO);butyl (RS)-2-[4-(5-trifluorometyl- 2-pyridyloxy)fenoxy]propionát | 607-304-00-8 | 274-125-6 | 69806-50-4 |
+fluazifop-butyl (ISO); butyl (RS)-2-[4-(5-trifluorometyl-2-pyridyloxy)fenoxy]propionát | 607-304-00-8 | 274-125-6 | 69806-50-4 |
 
-vinklozolín (ISO);N-3,5-dicMorofenyl-5-metyl-5-vinyl- 1,3-oxazolidin-2,4-dión | 607-307-00-4 | 256-599-6 | 50471-44-8 |
+vinklozolín (ISO); N-3,5-dicMorofenyl-5-metyl-5-vinyl-1,3-oxazolidin-2,4-dión | 607-307-00-4 | 256-599-6 | 50471-44-8 |
 
 kyselina metoxyoctová | 607-312-00-1 | 210-894-6 | 625-45-6 | E
 
@@ -836,9 +656,9 @@ bis(2-etylhexyl)ftalát; di-(2-etylhexyl)ftalát; DEHP | 607-317-00-9 | 204-211-
 
 dibutyl-ftalát; DBP | 607-318-00-4 | 201-557-4 | 84-74-2 | -
 
-(+/- tetrahydrofurfuryl(R)-2-[4-(6-chloroquinoxalín-2-yloxy)fenyloxy]propionát | 607-373-00-4 | 414-200-4 | 119738-06-6 | E
+(+/- tetrahydrofurfuryl (R)-2-[4-(6-chloroquinoxalín-2-yloxy) fenyloxy]propionát | 607-373-00-4 | 414-200-4 | 119738-06-6 | E
 
-flumioxazín (ISO);N-(7-fluoro-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazín-6-yl)cyklohex-1-én-1,2-dikarboxamid | 613-166-00-X | - | 103361-09-7 | -
+flumioxazín (ISO); N-(7-fluoro-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazín-6-yl)cyklohex-1-én-1,2-dikarboxamid | 613-166-00-X | - | 103361-09-7 | -
 
 (2RS, 3RS)-2-(4-fluórfenyl)-3-(2-chlórfenyl)-2-[(1H-1,2,4-triazol-1-yl)-metyl]oxirán | 613-175-00-9 | 406-850-2 | 106325-08-0 | -
 
@@ -849,6 +669,54 @@ formamid | 616-052-00-8 | 200-842-0 | 75-12-7 | -
 N-metylacetamid | 616-053-00-3 | 201-182-6 | 79-16-3 | -
 
 N-metylformamid | 616-056-00-X | 204-624-6 | 123-39-7 | E
+
+Linuron (ISO) 3-(3,4-dichlórfenyl)-1 -metoxy-1-metylmočovina | 006-021-00-1 | 206-356-5 | 330-55-2 | E
+
+dichróman draselný | 024-002-00-6 | 231-906-6 | 7778-50-9 | E
+
+chróman amónny | 024-003-00-1 | 232-143-1 | 7789-09-5 | E
+
+chróman sodný, bezvodý | 024-004-00-7 | 234-190-3 | 10588-01-9 | E
+
+dichróman sodný, dihydrát | 024-004-01-4 | 234-190-3 | 7789-12-0 | E
+
+chróman sodný | 024-018-00-3 | 231-889-5 | 7775-11-3 | E
+
+síran kademnatý | 048-009-00-9 | 233-331-6 | 10124-36-4 | E
+
+alpha 1 -brómpropán propylbromid n-propylbromid | 602-019-00-5 | 203-445-0 | 106-94-5 |
+
+1,2,3 -trichlórpropán | 602-062-00-X | 202-486-1 | 96-18-4 | D
+
+difenyléter; oktabrómderivát | 602-094-00-4 | 251-087-9 | 32536-52-0 |
+
+1,2-dimetoxyetán etylénglykoldimetyléter EGDME | 603-031-00-3 | 203-794-9 | 110-71-4 |
+
+1,2-bis(2-metoxyetoxy)etán TEGDME; trietylénglykoldimetyléter; triglym | 603-176-00-2 | 203-977-3 | 112-49-2 |
+
+Tetrahydrotiopyrán-3-karboxaldehyd | 606-062-00-0 | 407-330-8 | 61571-06-0 |
+
+dipentyl-ftalát, pentyl rozvetvený a lineárny [ 1 ] n-pentyl-izopentyl-ftalát [2] di-n-pentyl-ftalát [3] diizopentyl-ftalát [4] | 607-426-00-1 | 284-032-2 [1] -[2] 205-017-9 [3] -[4] | 84777-06-0 [1] -[2] 131-18-0 [3] 42925-80-4 [4] |
+
+benzyl-butyl-ftalát BBP | 607-430-00-3 | 201-622-7 | 85-68-7 |
+
+kyselina ftalová di-C<sub>7-11</sub> -rozvetvené a lineárne alkylestery | 607-480-00-6 | 271-084-6 | 68515-42-4 |
+
+Zmes: 4-(3-etoxykarbonyl-4-(5-(3-etoxykarbonyl-5-hydroxy-1 -(4-sulfonátofenyl)pyrazol-4-yl) penta-2,4-dienylidén)-4,5-dihydro-5-oxopyrazol- l-yl)benzénsulfonátu disodného a 4-(3-etoxykarbonyl-4-(5-(3-etoxykarbonyl-5-oxido-1 -(4-sulfonátofenyl)pyrazol-4-yl) penta-2,4-dienylidén)-4,5-dihydro-5-oxopyrazol- l-yl)benzénsulfonátu trisodného | 607-487-00-4 | 402-660-9 | |
+
+Dinokap (ISO) | 609-023-00-6 | 254-408-0 | 39300-45-3 | E
+
+2- [2-hydroxy-3-(2-chlórfenyl)karbamoyl-1-naftylao] -7- [2-hydroxy-3-(3-metylfenyl) karbamoyl-1 -naftylazo]fluoren-9-ón | 611-131-00-3 | 420-580-2 | |
+
+Azafenidín | 611-140-00-2 | - | 68049-83-2 |
+
+Carbendazim (ISO) Metyl-benzimidazol-2-yl karbamát | 613-048-00-8 | 234-232-0 | 10605-21-7 |
+
+Benomyl (ISO) metyl-1 -(butylkarbamoyl)benzimidazol-2 -ylkarbamát | 613-049-00-3 | 241-775-7 | 17804-35-2 |
+
+3-etyl-2-metyl-2-(3-metylbutyl)-1,3-oxazolidín | 613-191-00-6 | 421-150-7 | 143860-04-2 |
+
+Zmes: l,3,5-tris(3-aminometylfenyl)-1,3,5- (lH,3H,5H)-triazín-2,4,6-triónu a zmes oligomérov 3,5-bis(3-aminometylfenyl)-l-poly[3,5-bis(3-aminometylfenyl)-2,4,6-trioxo-l,3,5-(lH,3H,5H)-triazín-l-yl]-l,3,5-(lH,3H,5H)-triazín-2,4,6-triónu | 613-199-00-X | 421-550-1 | |
 
 1. Látky poškodzujúce reprodukciu môžu byť obsiahnuté v látkach a prípravkoch predávaných v maloobchode v koncentráciách neprekračujúcich limity stanovené v zozname nebezpečných chemických látok alebo v predpisoch pre klasifikáciu nebezpečných chemických prípravkov ako limity na označenie týchto látok za látky poškodzujúce reprodukciu, ak sa v zozname nebezpečných chemických látok koncentrácia neobmedzuje.
 
@@ -1182,13 +1050,35 @@ CAS číslo ako pomôcka na identifikáciu chemických látok je definované pre
 
 Poznámky
 
+Poznámka A
+
+Názov látky sa musí nachádzať na obale vo forme jedného z označení uvedených v osobitnom predpise.<sup>1</sup>)
+
+V osobitnom predpise<sup>1</sup>) sa použitie niekedy vyznačuje vo forme všeobecného opisu, ako napr. “…zlúčeniny” alebo “…soli”. Výrobca alebo akákoľvek iná osoba, ktorá obchoduje s takou látkou, je povinná uviesť na obale presný názov, pričom sa zohľadňuje “Názvoslovie” uvedené vo všeobecnom opise.
+
+Zákon vyžaduje, aby sa pre každú látku používali výstražné symboly, označenia nebezpečnosti, R-vety a S-vety, ktoré sú uvedené v osobitnom predpise;<sup>1</sup>) výrobca alebo akákoľvek iná osoba je povinná ich rešpektovať. To isté platí aj pre látky patriace do konkrétnej skupiny látok uvedených v osobitnom predpise;<sup>1</sup>) je potrebné používať tie výstražné symboly, označenia nebezpečnosti, R-vety a S-vety, ktoré sú uvedené v príslušnej položke osobitného predpisu.<sup>1</sup>) Pre látky patriace do viac ako jednej skupiny látok uvedených v osobitnom predpise<sup>1</sup>) je potrebné uvádzať tie výstražné symboly, označenia nebezpečnosti, R-vety a S-vety, ktoré sa nachádzajú v každej z príslušných položiek uvedených v osobitnom predpise.<sup>1</sup>) V prípadoch, keď sú priradené dve rozdielne klasifikácie v dvoch položkách pre ten istý druh nebezpečnosti, použije sa klasifikácia, ktorá odráža závažnejšiu nebezpečnosť.
+
+Poznámka D:
+
+Niektoré látky, ktoré môžu podliehať spontánnej polymerizácii alebo rozkladu, sa obvykle uvádzajú na trh v stabilizovanej forme. Také látky uvádza osobitný predpis<sup>1</sup>) v takejto stabilizovanej forme.Ak sa uvedené látky uvádzajú na trh v nestabilizovanej forme, v takom prípade výrobca alebo akákoľvek osoba, ktorá uvádza takú látku na trh, musí uviesť na obale názov látky doplnený výrazom „nestabilizovaný”.
+
+Poznámka E:
+
+Poznámka E sa týka látok so špecifickým účinkom na zdravie ľudí podľa osobitného predpisu,<sup>2</sup>) ktoré sú klasifikované ako karcinogénne, mutagénne alebo látky poškodzujúce reprodukciu 1. alebo 2. kategórie, ak sú klasifikované ako veľmi jedovaté (T+), jedovaté (T) alebo škodlivé (Xn). Pre tieto látky musí R-vetám R20, R21, R22, R23, R24, R25, R26, R27, R28, R39, R68 (škodlivý), R48 a R65 a všetkým kombináciám týchto R-viet predchádzať slovo „tiež”.
+
+Poznámka H:
+
+Klasifikácia a označenie na obale uvedené pre túto látku sa vzťahujú na nebezpečnú vlastnosť (vlastnosti) vyjadrenú R-vetou alebo R-vetami v kombinácii s príslušnou kategóriou (kategóriami) nebezpečnosti. Výrobcov, distribútorov a dovozcov tejto látky sa týkajú požiadavky § 23 ods. 2 zákona pre všetky ďalšie aspekty klasifikácie a označovania. Konečné označenie musí vyhovovať požiadavkám ustanoveným v časti 7 osobitného predpisu.<sup>2</sup>)
+
+Táto poznámka sa vzťahuje na určité látky vyrobené z uhlia a ropy a na určité položky skupín látok uvedených v osobitnom predpise.<sup>1</sup>)
+
 Poznámka J
 
 Použitá látka nemusí byť karcinogénna, ak sa dá dokázať, že obsahuje menej ako 0,1 hmotnostných percent benzénu (EC č. 200-753-7).
 
 Poznámka K
 
-Látka nemusí byť klasifikovaná ako karcinogénna, ak sa dá dokázať, že obsahuje menej ako 0,1 hmotnostného percenta 1,3-butadiénu (EC č. 203-450-8).
+Klasifikáciu ako karcinogén alebo mutagén nie je potrebné uplatniť, ak môže byť preukázané, že látka obsahuje menej ako 0,1 hmotnostného percenta buta-1,3-diénu (číslo EINECS 203-450-8). Ak látka nie je klasifikovaná ako karcinogénna alebo mutagénna, je potrebné uviesť aspoň S-vety: (2-)9-16. Táto poznámka platí pre určité komplexné ropné deriváty uvedené v osobitnom predpise.<sup>1</sup>)
 
 Poznámka L
 
@@ -1209,6 +1099,10 @@ Látka nemusí byť klasifikovaná ako karcinogénna, ak sa dá dokázať, že o
 Poznámka R
 
 Klasifikácia látky ako karcinogénnej sa nevyžaduje pri vláknach s dĺžkou váženého geometrického priemeru menšieho ako dve štandardné geometrické odchýlky väčšie ako 6 µm.
+
+Poznámka S:
+
+Pre túto látku sa nemusí vyžadovať označenie podľa § 26 zákona (pozri časť 8 osobitného predpisu<sup>2</sup>).
 
 XLVIII. Toluén CAS č. 108-88-3
 

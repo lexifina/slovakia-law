@@ -13,3 +13,7 @@
 - 4) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 5) § 23, 24, 25 a 27 zákona č. 163/2001 Z. z.
+
+- 1) Príloha č. 1 k výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2002 na vykonanie zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2005.
+
+- 2) Príloha č. 6 k výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2002 na vykonanie zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2005.
