@@ -1,6 +1,6 @@
 # § 20a Súčinnosť pri spravovaní základnej bázy údajov pre geografický informačný systém
 
-Štátne orgány a štátne rozpočtové organizácie sú povinné
+Štátne orgány, štátne rozpočtové organizácie, obce a vyššie územné celky sú povinné
 
 a)
 
