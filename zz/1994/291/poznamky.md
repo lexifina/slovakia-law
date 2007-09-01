@@ -2,6 +2,10 @@
 
 - 2) § 19 ods. 2 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
+- 3) § 4 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 3a) § 3 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
 - 4) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
 
 - 5) § 2 ods. 3 písm. l) nariadenia vlády Slovenskej republiky č. 238/2004 Z. z. o rozsahu vyučovacej činnosti a výchovnej činnosti pedagogických zamestnancov.
