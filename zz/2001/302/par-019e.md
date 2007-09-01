@@ -18,4 +18,4 @@
 
 - h) plní ďalšie úlohy ustanovené osobitným zákonom.
 
-(2) Hlavný kontrolór samosprávneho kraja sa zúčastňuje na zasadnutiach zastupiteľstva s hlasom poradným; môže sa zúčastňovať aj na zasadnutiach komisií zriadených zastupiteľstvom.
+(2) Hlavný kontrolór sa zúčastňuje na zasadnutiach zastupiteľstva s hlasom poradným; môže sa zúčastňovať aj na zasadnutiach komisií zriadených zastupiteľstvom.

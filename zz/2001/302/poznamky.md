@@ -6,13 +6,15 @@
 
 - 4) Čl. 67 ods. 2 Ústavy Slovenskej republiky.
 
-- 5) § 3 ods. 2 a 3 zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.§ 7 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky.
+- 5) § 3 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky. § 34 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 6) § 3 ods. 4 zákona č. 135/1982 Zb.
+- 6) § 8 zákona č. 253/1998 Z. z. v znení zákona č. 454/2004 Z. z.
 
-- 7) § 6 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. v znení neskorších predpisov.
+- 7) § 17 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 8) Napríklad zákon Slovenskej národnej rady č. 322/1992 Zb. o štátnej štatistike v znení neskorších predpisov.
+- 8) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
+
+- 8a) § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 9) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov, zákon č. 153/2001 Z. z. o prokuratúre.
 
@@ -32,7 +34,7 @@
 
 - 15) Napríklad § 2 a 3 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, § 17 až 20 zákona č. 513/1991 Zb. Obchodný zákonník, § 38 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
 
-- 16) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 16) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 16a) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 

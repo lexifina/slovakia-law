@@ -4,7 +4,7 @@
 
 (2) Kontrolnej činnosti podľa tohto zákona podlieha
 
-- a) úrad samosprávneho kraja,
+- a) úrad,
 
 - b) rozpočtové, príspevkové a neziskové organizácie zriadené samosprávnym krajom,
 
