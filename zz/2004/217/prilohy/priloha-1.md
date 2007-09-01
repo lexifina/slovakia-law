@@ -70,13 +70,13 @@ Príloha č. 1 k zákonu č. 217/2004 Z. z.
 
 - 39 | VZ | Brest väzový | Ulmus laevis
 
-- 17 | BX | Brest sibírsky | Ulmus pinnato-ramosa
+- 17 | BD | Brest sibírsky | Ulmus pinnato-ramosa
 
 - 40 | AG | Agát biely | Robinia pseudoacacia
 
 - 41 | BR | Breza bradavičnatá | Betula pendula syn. Betula verrucosa
 
-- 18 | BP | Breza plstnatá | Betula pubescens
+- 18 | BV | Breza plstnatá | Betula pubescens
 
 - 42 | JL | Jelša lepkavá | Alnus glutinosa
 
