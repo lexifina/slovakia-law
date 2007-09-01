@@ -60,6 +60,8 @@
 
 - 6) § 33 až 36 zákona SNR č. 78/1978 Zb. v znení zákona SNR č. 32/1984 Zb.
 
+- 6a) Zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
+
 - 7) § 48 ods. 4 Zákonníka práce.
 
 - 8) § 49 ods. 2 Zákonníka práce.
