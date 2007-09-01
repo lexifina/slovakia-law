@@ -195,3 +195,9 @@ Príloha č. 9
   - 28. Smernica Komisie 2007/5/ES zo 7. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť kaptán, folpet, formetanát a metiokarb medzi účinné látky (Ú. v. EÚ L 35, 8. 2. 2007).
 
   - 29. Smernica Komisie 2007/6/ES zo 14. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metrafenone, Bacillus subtilis, spinosad a thiamethoxam medzi účinné látky (Ú. v. EÚ L 43, 15. 2. 2007).
+
+  - 30. Smernica Komisie 2007/21/ES z 10. apríla 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátumy vypršania platnosti zaradenia účinných látok azoxystrobín, imazalil, kresoxim-metyl, spiroxamín, azimsulfurón, prohexadión-kalcium a fluroxypyr do jej prílohy I (Ú. v. EÚ L 97, 12. 4. 2007).
+
+  - 31. Smernica Komisie 2007/25/ES z 23. apríla 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimetoát, dimetomorf, glufozinát, metribuzin, fosmet a propamokarb medzi účinné látky (Ú. v. EÚ L 106, 24. 4. 2007).
+
+  - 32. Smernica Komisie 2007/31/ES z 31. mája 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia pre rozšírenie používania účinnej látky fostiazat (Ú. v. EÚ L 140, 1. 6. 2007).

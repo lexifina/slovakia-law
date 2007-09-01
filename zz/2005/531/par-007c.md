@@ -40,9 +40,7 @@
 
 (6) Rozsah použitia súbežného prípravku musí zodpovedať rozsahu použitia referenčného prípravku a musí byť určený pre rovnaké kategórie používateľov.
 
-(7) Žiadosť o predĺženie doby platnosti rozhodnutia o registrácii súbežného prípravku musí držiteľ registrácie predložiť kontrolnému ústavu najneskôr 30 dní pred jej skončením.
-
-(8) Súbežný prípravok možno uvádzať na trh len
+(7) Súbežný prípravok možno uvádzať na trh len
 
 - a) v obaloch uvedených v rozhodnutí o registrácii,
 
@@ -50,4 +48,4 @@
 
 - c) s etiketou, ktorá musí byť rovnaká ako etiketa referenčného prípravku; etiketa sa môže líšiť len v bodoch 1, 2, 4, 5 a 6 prílohy č. 7.
 
-(9) Ten, kto uvádza na trh súbežné prípravky, je povinný viesť záznamy o číslach šarží a registračných číslach všetkých dovezených súbežných prípravkov. Tieto záznamy vedie počas obdobia troch rokov od dátumu ich dovozu a na požiadanie ich predloží kontrolnému ústavu.
+(8) Ten, kto uvádza na trh súbežné prípravky, je povinný viesť záznamy o číslach šarží a registračných číslach všetkých dovezených súbežných prípravkov. Tieto záznamy vedie počas obdobia troch rokov od dátumu ich dovozu a na požiadanie ich predloží kontrolnému ústavu.
