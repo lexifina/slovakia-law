@@ -4,6 +4,10 @@
 
 - 3) Napríklad § 5 ods. 4 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, § 65 ods. 1 písm. k) devätnásty bod zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
+- 3a) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a pozemkových spoločenstvách v znení neskorších predpisov.
+
+- Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 359/2007 Z. z.
+
 - 4) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 173/2004 Z. z.
 
 - 5) § 11 ods. 2 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
@@ -30,6 +34,8 @@
 
 - 13) Napríklad § 54 až 57 zákona č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z., zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z.
 
+- 13a) § 17 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+
 - 14) § 1 až 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení neskorších predpisov.
@@ -55,6 +61,8 @@
 - Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
 
 - 24) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 24a) § 69 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -104,6 +112,8 @@
 
 - 45) § 2, § 4 ods. 8 a § 26 zákona č. 193/2005 Z. z.
 
+- 45a) STN 73 6108 Lesná dopravná sieť.
+
 - 46) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 47) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 666/2004 Z. z., zákon č. 50/1976 Zb. v znení neskorších predpisov.
@@ -113,6 +123,8 @@
 - 49) Napríklad § 25 zákona č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov, § 53 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 7 písm. f) a § 8 ods. 3 zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
 - 50) § 8 a 14 zákona č. 314/2001 Z. z. v znení zákona č. 347/2004 Z. z.
+
+- 50a) § 54 ods. 4 zákona č. 543/2002 Z. z.
 
 - 51) Zákon č. 23/1962 Zb. v znení neskorších predpisov.
 
@@ -124,7 +136,9 @@
 
 - 55) § 4 ods. 7 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. v znení zákona č. 423/2003 Z. z.
 
-- 56) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 82/2005 Z. z.
+- 55a) § 136 a nasl. Občianskeho zákonníka.
+
+- 56) § 6 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 57) Napríklad § 9 ods. 1 písm. n) zákona č. 543/2002 Z. z., zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
@@ -144,7 +158,9 @@
 
 - 63) § 18 ods. 2 písm. b) zákona č. 473/2003 Z. z.
 
-- 64) § 151a Občianskeho zákonníka v znení neskorších predpisov.
+- 64) § 151b ods. 1 Občianskeho zákonníka.
+
+- 64a) § 151md ods. 3 Občianskeho zákonníka.
 
 - 65) Napríklad zákon č. 229/1991 Zb. v znení neskorších predpisov, zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
@@ -160,11 +176,19 @@
 
 - 71) Zákon č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení zákona č. 549/2004 Z. z.
 
-- 72) Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
+- 72) Zákon č. 382/2004 Z. z. v znení zákona č. 93/2006 Z. z.
+
+- Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+
+- 72a) § 611 Občianskeho zákonníka.
 
 - 73) § 11 ods. 6 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 74) § 1 ods. 2 písm. b) zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 374/1996 Z. z.
+
+- 74a) § 17 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- 74b) § 6 ods. 1 zákona č. 111/1990 Zb. o štátnom podniku.
 
 - 75) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -192,6 +216,8 @@
 
 - 87) Napríklad čl. 8 ods. 1 a 2, čl. 14 ods. 1 a 2, čl. 15 ods. 1 a čl. 16 nariadenia Európskeho parlamentu a Rady (ES) č. 2152/2003 (Ú. v. EÚ L 324, 11. 12. 2003) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 788/2004 (Ú. v. EÚ L 138, 30. 4. 2004).
 
+- 87a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
+
 - 88) Napríklad zákon č. 193/2005 Z. z., zákon č. 217/2004 Z. z. v znení zákona č. 545/2004 Z. z.
 
 - 89) § 9 až 13 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
@@ -212,4 +238,8 @@
 
 - 97) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Zb.
 
+- 97a) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, Nariadenie Komisie (ES) č. 1857/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 zmluvy o štátnej pomoci pre malé a stredné podniky (MSP) pôsobiace v poľnohospodárskej výrobe, ktorým sa mení a dopĺňa nariadenie (ES) č. 70/2001 (Ú. v. EÚ L 358, 16. 12. 2006).
+
 - 98) § 7 ods. 1 zákona Slovenskej národnej rady č. 372/1990 Zb.
+
+- 99) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
