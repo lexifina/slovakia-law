@@ -1,0 +1,13 @@
+# § 1a Spôsob nakladania s vedľajšími produktmi
+
+(1) Vedľajšie produkty vznikajúce pri spracúvaní alebo výrobe vína alebo vinárskych výrobkov sa odstraňujú
+
+- a) predajom,
+
+- b) destiláciou,
+
+- c) likvidáciou vo vinohrade,
+
+- d) iným preukázateľným spôsobom.
+
+(2) O odstránení vedľajších produktov vznikajúcich pri spracúvaní alebo výrobe vína alebo vinárskych výrobkov sa vedie evidencia podľa prílohy č. 2a a pri odstránení vedľajších produktov podľa odseku 1 písm. a) alebo písm. b) sa k evidencii priloží doklad preukazujúci, že došlo týmto spôsobom k odstráneniu vedľajších produktov.
