@@ -1,0 +1,1 @@
+Príloha č. 7 k vyhláške č. 206/2007 Z. z. [Vzor 07 - Prihláška na odbornú prípravu klasifikátorov jatočne opracovaných tiel oviec](../assets/6bee5f1e5d917d6f0a690cd10fbc87f0d25045d8d1b65e8cde64ebcbded7285b.pdf)

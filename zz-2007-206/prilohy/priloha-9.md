@@ -1,0 +1,1 @@
+Príloha č. 9 k vyhláške č. 206/2007 Z. z. [Vzor 09 - Osvedčenie o odbornej spôsobilosti na klasifikáciu jatočne opracovaných tiel oviec](../assets/e14cad8565e72a559cd0412beb4416e3648292104264df946784cb1d175f2611.pdf)

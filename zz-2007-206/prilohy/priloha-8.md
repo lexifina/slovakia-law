@@ -1,0 +1,1 @@
+Príloha č. 8 k vyhláške č. 206/2007 Z. z. [Vzor 08 - Osvedčenie o odbornej spôsobilosti na klasifikáciu jatočne opracovaných tiel hovädzieho dobytka](../assets/1d2ae67dae30a83b29ee7fc5f12d8b9bf610af154b0cf3bb5990c27c772c316e.pdf)

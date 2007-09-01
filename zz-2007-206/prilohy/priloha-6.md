@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 206/2007 Z. z. [Vzor 06 - Prihláška na odbornú prípravu klasifikátorov jatočne opracovaných tiel hovädzieho dobytka](../assets/072d8a4a5ede8db46ffba483fd26d88c6f0fb3e69ed2a382c391a9bd94d115aa.pdf)

@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 206/2007 Z. z. [Vzor 05 - Protokol o klasifikácii jatočne opracovaných tiel oviec s hmotnosťou vyššou ako 13 kg](../assets/5cd0b666ba2c774482864668ca15763e00ac81ffb7b64b1c859357b0fb39e120.pdf)

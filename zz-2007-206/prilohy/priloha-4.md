@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 206/2007 Z. z. [Vzor 04 - Protokol o klasifikácii jatočne opracovaných tiel hovädzieho dobytka](../assets/080c50e90832cf84b161822bb82914edc8386d15f9627afd58ccd72bbe0103ac.pdf)
