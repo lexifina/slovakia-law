@@ -140,6 +140,8 @@
 
 - 66b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
+- 66c) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
+
 - 67) § 106 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 68) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
