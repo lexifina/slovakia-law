@@ -1,0 +1,3 @@
+Príloha č. 13 k vyhláške č. 401/2007 Z. z.
+
+- PRÍKLAD VYHOTOVENIA USMERŇOVAČA SPALÍN NAD OTVORENÝM OHNISKOM ![Obrázok 13](../assets/3a4283c5cf77ed5bfe4e7fe16b79886d6fd4b23402bc6e0ee92316599db097fb.png)

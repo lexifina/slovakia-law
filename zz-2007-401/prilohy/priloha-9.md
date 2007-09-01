@@ -1,0 +1,3 @@
+Príloha č. 9 k vyhláške č. 401/2007 Z. z.
+
+- PRESTUP DYMOVODU STROPOM, KTORÝ OBSAHUJE MATERIÁLY TRIEDY REAKCIE NA OHEŇ B, C, D, E ALEBO F ![Obrázok 09](../assets/aaba1c4fa1a08ef6c79f7f631da5f4a062b5fbdcfa06b6027931188ff75a14c8.png)

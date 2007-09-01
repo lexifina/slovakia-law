@@ -1,0 +1,3 @@
+Príloha č. 5 k vyhláške č. 401/2007 Z. z.
+
+- PRÍKLAD UMIESTNENIA OCHRANNEJ PODLOŽKY SPOTREBIČA ![Obrázok 05](../assets/2021d4a8512deb559e69ff6ee5b42dd9a26f50776b461643e4c8033207ab20c5.png)

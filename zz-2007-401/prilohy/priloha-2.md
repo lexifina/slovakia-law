@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 401/2007 Z. z.
+
+- PRÍKLAD UMIESTNENIA OCHRANNEJ CLONY SPOTREBIČA ALEBO DYMOVODU ![Obrázok 02](../assets/b1c373ef09b6441d685b79792d9a0b4fdadd905c65efe088567f23fa5892d59c.png)
