@@ -22,7 +22,7 @@
 
 - 7) § 58 Zákonníka práce.
 
-- 7a) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7a) § 5 ods. 6 Zákonníka práce.
 
 - 8) § 46 Zákonníka práce.
 
