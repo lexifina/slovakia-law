@@ -2,6 +2,8 @@
 
 - § 38 a § 175a až 175zd Občianskeho súdneho poriadku.
 
+- 1a) § 35b ods. 10 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona č. 215/2007 Z. z.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 3) § 12 ods. 1 a 2 Trestného poriadku.
