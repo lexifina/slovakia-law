@@ -20,15 +20,11 @@
 
 - 11) Napríklad vyhláška ministra zahraničných vecí č. 64/1987 Zb. o Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR) v znení neskorších zmien a doplnkov (oznámenie č. 444/2005 Z. z.), zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, Poriadok pre medzinárodnú železničnú prepravu nebezpečného tovaru (RID) v znení neskorších zmien a doplnkov (oznámenie č. 598/2005 Z. z.), zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 435/2000 Z. z. o námornej plavbe v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) § 3 ods. 2 písm. a) a § 33 písm. a) zákona č. 137/2010 Z. z. o ovzduší.
+- 12) § 22 ods. 1 písm. a) a § 23 ods. 1 písm. a) zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) v znení zákona č. 203/2007 Z. z.
 
 - 13) Napríklad § 8 až 14 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 77/2005 Z. z., zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení neskorších predpisov, vyhláška č. 64/1987 Zb. (oznámenie č. 444/2005 Z. z.).
 
 - 14) § 15 až 22 zákona č. 151/2002 Z. z. v znení zákona č. 77/2005 Z. z.
-
-- 14a) § 3 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
-
-- 14b) Zákon č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
 
 - 15) Čl. 2 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 566/2005 Z. z.
 
@@ -87,12 +83,6 @@
 - 41) § 415 až 450 Občianskeho zákonníka v znení neskorších predpisov, § 373 až 386 Obchodného zákonníka.
 
 - 42) Napríklad § 33a ods. 3 a 4 zákona č. 17/1992 Zb. o životnom prostredí v znení zákona č. 211/2000 Z. z., § 24 zákona č. 261/2002 Z. z. v znení neskorších predpisov, § 41 zákona č. 364/2004 Z. z.
-
-- 42a) § 28a zákona č. 543/2002 Z. z. v znení zákona č. 356/2019 Z. z.
-
-- 42b) Zákon č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Zákon č. 79/2015 Z. z. v znení neskorších predpisov.
 
 - 43) § 8 zákona č. 220/2004 Z. z.
 
