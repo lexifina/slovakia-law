@@ -2,7 +2,7 @@ Príloha č. 1 k zákonu č. 124/2006 Z. z.
 
 - ZOZNAM činností s vyšším rizikom, pri ktorých môže dôjsť k závažnému poškodeniu zdravia zamestnancov alebo pri ktorých častejšie dochádza k poškodeniu ich zdravia
 
-  - Činnosti s vyšším rizikom, pri ktorých môže pri plnení pracovných povinností dôjsť k závažnému poškodeniu zdravia zamestnancov alebo pri ktorých častejšie dochádza k poškodeniu ich zdravia, podľa tohto zákona sa na základe odvetvovej klasifikácie ekonomických činností rozdeľujú takto:
+  - Činnosti s vyšším rizikom, pri ktorých môže pri plnení pracovných povinností dôjsť k závažnému poškodeniu zdravia zamestnancov alebo pri ktorých častejšie dochádza k poškodeniu ich zdravia, podľa tohto zákona sa na základe odvetvovej klasifikácie ekonomických činností<sup>1</sup>) rozdeľujú takto:
 
 - Kód odvetvovej klasifikácie ekonomických činností (OKEČ) | Ekonomická činnosť
 
@@ -43,5 +43,3 @@ Príloha č. 1 k zákonu č. 124/2006 Z. z.
 - I | Doprava, skladovanie a pošty okrem telekomunikácií, vzdušnej dopravy a činnosti cestovných kancelárií
 
 - N | Zdravotníctvo a sociálna pomoc
-
-- O | Ostatné spoločenské, sociálne a osobné služby

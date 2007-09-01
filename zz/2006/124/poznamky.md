@@ -1,8 +1,10 @@
 - 1) § 2 ods. 2 Obchodného zákonníka.
 
-- 2) § 29 zákona č. 320/2002 Z. z. o brannej povinnosti v znení zákona č. 330/2003 Z. z.
+- 2) § 2 písm. c) a e) a § 15 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
 - 3) § 12 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
+
+- 3a) § 77a a 77b zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 490/2001 Z. z.
 
 - 4) Zákonník práce.
 
@@ -12,13 +14,19 @@
 
 - 6) § 146 ods. 2 Zákonníka práce.
 
+- 6a) Zákon č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
+
 - 7) Napríklad Zákonník práce, zákon č. 121/2004 Z. z. o pracovnom čase a dobe odpočinku v doprave a o zmene a doplnení niektorých zákonov.
 
-- 8) Nariadenie vlády Slovenskej republiky č. 504/2002 Z. z. o podmienkach poskytovania osobných ochranných pracovných prostriedkov.
+- 8) Nariadenie vlády Slovenskej republiky č. 395/2006 Z. z. o minimálnych požiadavkách na poskytovanie a používanie osobných ochranných pracovných prostriedkov.
 
-- 9) Napríklad zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 493/2002 Z. z. o minimálnych požiadavkách na zaistenie bezpečnosti a ochrany zdravia pri práci vo výbušnom prostredí.
+- 9) Napríklad zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 393/2006 Z. z. o minimálnych požiadavkách na zaistenie bezpečnosti a ochrany zdravia pri práci vo výbušnom prostredí.
+
+- 9a) § 58 Zákonníka práce.
 
 - 10) § 39 Zákonníka práce.
+
+- 10a) § 11a Zákonníka práce.
 
 - 11) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
@@ -34,9 +42,9 @@
 
 - 15) Napríklad zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 571/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na výťahy v znení nariadenia vlády Slovenskej republiky č. 327/2003 Z. z., nariadenie vlády Slovenskej republiky č. 310/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
 
-- 16) Napríklad nariadenie vlády Slovenskej republiky č. 159/2001 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri používaní pracovných prostriedkov v znení nariadenia vlády Slovenskej republiky č. 470/2003 Z. z., nariadenie vlády Slovenskej republiky č. 201/2001 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko, nariadenie vlády Slovenskej republiky č. 510/2001 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko v znení nariadenia vlády Slovenskej republiky č. 282/2004 Z. z.
+- 16) Napríklad nariadenie vlády Slovenskej republiky č. 391/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko, nariadenie vlády Slovenskej republiky č. 392/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri používaní pracovných prostriedkov, nariadenie vlády Slovenskej republiky č. 396/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko.
 
-- 17) Nariadenie vlády Slovenskej republiky č. 444/2001 Z. z. o požiadavkách na používanie označenia, symbolov a signálov na zaistenie bezpečnosti a ochrany zdravia pri práci.
+- 17) Nariadenie vlády Slovenskej republiky č. 387/2006 Z. z. o požiadavkách na zaistenie bezpečnostného a zdravotného označenia pri práci.
 
 - 18) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
@@ -54,21 +62,19 @@
 
 - 21) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 22) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
 - 23) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 24) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 25) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 510/2001 Z. z. v znení nariadenia vlády Slovenskej republiky č. 282/2004 Z. z.
+- 25) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 396/2006 Z. z.
 
 - 26) § 17 Obchodného zákonníka.
 
-- Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 638/2005 Z. z.
+- Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 27) Nariadenie vlády Slovenskej republiky č. 510/2001 Z. z. v znení nariadenia vlády Slovenskej republiky č. 282/2004 Z. z.
-
-- 28) Nariadenie vlády Slovenskej republiky č. 743/2004 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializovaných odborov a sústave certifikovaných pracovných činností.
+- 28) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
 - 29) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
@@ -77,3 +83,5 @@
 - 31) § 19 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
 - 32) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 1) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.

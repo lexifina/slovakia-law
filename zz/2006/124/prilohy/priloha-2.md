@@ -60,7 +60,7 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
   - V rámci tejto skupiny činnosťou je výchova a vzdelávanie
 
-    - 06.1 vodičov motorových vozíkov
+    - 06.1 osôb na obsluhu motorových vozíkov
 
   - skupina 07 Bezpečnosť a ochrana zdravia pri práci vo výške
 
