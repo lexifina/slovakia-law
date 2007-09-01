@@ -2318,6 +2318,14 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - s) Vyhotovenie duplikátu osobného radiačného preukazu uvedeného v písmene r) | 200 Sk
 
+  - t) Vydanie oprávnenia na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb<sup>36ba</sup>) | 15 000 Sk
+
+  - u) Vydanie duplikátu oprávnenia podľa písmena t) | 500 Sk
+
+  - v) Vydanie oprávnenia na výkon pracovnej zdravotnej služby<sup>36bb</sup>) | 15 000 Sk
+
+  - x) Vydanie duplikátu oprávnenia podľa písmena v) | 500 Sk
+
     - Položka 150a
 
   - a) Vydanie povolenia na sprostredkovanie zamestnania za úhradu |
@@ -2927,6 +2935,18 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - a) Podanie žiadosti o zapísanie do zoznamu odborne spôsobilých osôb na posudzovanie vplyvov na životné prostredie<sup>39l</sup>) | 3 000 Sk
 
   - b) Zapísanie do zoznamu pre každý z odborov činností<sup>39l</sup>) alebo oblastí činností<sup>39l</sup>)........ | 1 000 Sk
+
+    - Položka 171 m
+
+  - Podanie žiadosti o konzultáciu<sup>39m</sup>)............................. | 1 000 Sk
+
+    - Položka 171n
+
+  - Podanie žiadosti o schválenie návrhu nápravných opatrení<sup>39n</sup>).............. | 1 000 Sk
+
+    - Položka 171o
+
+  - Podanie žiadosti o vydanie rozhodnutia o znášaní nákladov<sup>39o</sup>).............. | 1 000 Sk
 
   - XI. ČASŤ BANSKÁ ČINNOSŤ
 

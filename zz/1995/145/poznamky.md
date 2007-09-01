@@ -198,9 +198,13 @@
 
 - 36) § 32 ods. 6 zákona č. 379/1997 Z. z.
 
-- 36a) § 10 ods. 3 až 7 zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
+- 36a) § 13 ods. 3 až 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
-- 36b) § 9 zákona č. 126/2006 Z. z.
+- 36b) § 15 zákona č. 355/2007 Z. z.
+
+- 36ba) § 5 ods. 4 písm. n) zákona č. 355/2007 Z. z.
+
+- 36bb) § 5 ods. 4 písm. o) zákona č. 355/2007 Z. z.
 
 - 36c) § 21 ods. 5 písm. c) zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení zákona č. 119/2000 Z. z.
 
@@ -270,7 +274,11 @@
 
 - 39l) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
 
-- 39m) § 19 ods. 4 zákona č. 468/2002 Z. z.
+- 39m) § 3 ods. 3 zákona č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
+
+- 39n) § 5 ods. 1 písm. c) zákona č. 359/2007 Z. z.
+
+- 39o) § 29 ods. 1 zákona č. 359/2007 Z. z.
 
 - 40) § 10 ods. 3 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
