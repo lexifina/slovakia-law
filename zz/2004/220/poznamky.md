@@ -12,7 +12,9 @@
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
-- 7) § 28 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+- 7) § 2 ods. 4 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 7a) § 28 zákona č. 245/2003 Z. z. v znení zákona č. 532/2005 Z. z.
 
 - 8) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 332/1996 Z. z. o vinohradníctve a vinárstve a o zmene zákona č. 61/1964 Zb. o rozvoji rastlinnej výroby v znení zákona č. 132/1989 Zb. v znení neskorších predpisov, zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -31,6 +33,8 @@
 - 12) § 11 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 13) Zákon č. 518/2003 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov a o zmene niektorých zákonov.
+
+- 13a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
 
 - 14) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
