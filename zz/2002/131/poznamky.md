@@ -1,8 +1,10 @@
-- 1) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.§ 56 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 1) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov.
 
-- 2) Zákon č. 313/2001 Z. z. o verejnej službe v znení zákona č. 118/2002 Z. z.
+- § 39 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
-- 3) § 4 zákona č. 132/2002 Z. z. o vede a technike.
+- 2) Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3) § 7 zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 3a) § 2 zákona č. 455/2004 Z. z. o zriadení Akadémie ozbrojených síl generála Milana Rastislava Štefánika, o zlúčení Vojenskej leteckej akadémie generála Milana Rastislava Štefánika v Košiciach s Technickou univerzitou v Košiciach, o zriadení Národnej akadémie obrany maršala Andreja Hadika a o zmene a doplnení niektorých zákonov.
 
@@ -12,41 +14,31 @@
 
 - Vyhláška Slovenskej komisie pre vedecké hodnosti č. 65/1977 Zb. o konaní pri udeľovaní vedeckých hodností v znení vyhlášky Slovenskej komisie pre vedecké hodnosti č. 302/1990 Zb.
 
-- 5a) § 2 ods. 1 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
-
-- 5b) § 2 ods. 5 zákona č. 483/2001 Z. z.
+- 5a) § 2 ods. 1 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
-- 7) § 28 zákona č. 431/2002 Z. z. o účtovníctve.
+- 7) § 28 ods. 3 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 8) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 8) § 829 až 841 Občianskeho zákonníka.
 
-- 9) § 663 až 723 Občianskeho zákonníka.
+- 9) § 2 ods. 2 zákona č. 291/2002 Z. z. o štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10) § 659 až 662 Občianskeho zákonníka.
-
-- 11) § 18 ods. 2 písm. b) a ods. 3 písm. b) zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
-
-- 12) § 24 ods. 1 písm. a) až r) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
-
-- 13) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
-
-- 14) § 829 až 841 Občianskeho zákonníka.
+- 10) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z. v znení zákona č. 581/2004 Z. z.
 
 - 15) § 2 ods. 2 písm. c) Obchodného zákonníka.
 
 - 16) Zákon č. 431/2002 Z. z.
 
-- 17) § 2 ods. 2 zákona č. 291/2002 o štátnej pokladnici a o zmene a doplnení niektorých zákonov.
-
 - 18) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
-- 19) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+- 19) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
-- 20) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 20) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20a) § 8 ods. 5 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+
+- 20b) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 21) Zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení zákona č. 416/2001 Z. z.
 
@@ -60,21 +52,19 @@
 
 - 25) § 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
-- 26) Zákon č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
+- 26) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 27) § 136 ods. 1 zákona č. 311/2001 Z. z. Zákonník práce.
 
-- 28) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 28) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 28a) § 7 ods. 5 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
-- 29) Zákon č. 320/2002 Z. z. o brannej povinnosti v znení neskorších predpisov.
+- 29) § 17 až 19 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
 
-- Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+- 29a) Zákon č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- Zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení neskorších predpisov.
-
-- 29a) § 149a ods. 5 písm. b) zákona č. 370/1997 Z. z. v znení zákona č. 512/2002 Z. z.
+- 29aa) § 70 a 75 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 29b) § 4 zákona č. 455/2004 Z. z.
 
@@ -84,19 +74,21 @@
 
 - 32) Zákon č. 73/1998 v znení neskorších predpisov.
 
-- 33) § 54 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 118/2002 Z. z.
+- 33) § 27 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
-- 33a) Nariadenie vlády Slovenskej republiky č. 157/2002 Z. z. o ďalšom vzdelávaní pracovníkov v zdravotníctve.
+- 33b) Nariadenie vlády Slovenskej republiky č. 104/2003 Z. z. o Akreditačnej komisii.
 
-- 34) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 33c) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 34) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 34a) Napríklad § 54 ods. 5 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z., zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení neskorších predpisov, zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
-- 35) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 35) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 35a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
-- 36) Čl. 42 ods. 2 Ústavy Slovenskej republiky.
+- 36) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 36a) Napríklad nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
@@ -106,7 +98,7 @@
 
 - 38a) § 4 ods. 1 písm. a) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 39) Zákon č. 311/2001 Z. z.Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
+- 39) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
 - 40) Zákon č. 428/2002 Z. z.
 
@@ -118,15 +110,11 @@
 
 - 42) Zákon č. 311/2001 Z. z.
 
-- 42a) § 17 zákona č. 132/2002 Z. z.
-
 - 43) § 18 ods. 7 zákona č. 132/2002 Z. z. o vede a technike.
 
-- 44) § 8 ods. 2 písm. b) zákona č. 132/2002 Z. z.
+- 44) § 16 ods. 2 písm. b) zákona č. 172/2005 Z. z.
 
-- 45) § 8 ods. 2 písm. c) a d) a ods. 3 zákona č. 132/2002 Z. z.
-
-- 46) § 8 a 9 zákona č. 132/2002 Z. z.
+- 45) § 16 ods. 2 písm. a) zákona č. 172/2005 Z. z.
 
 - 47) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
@@ -134,9 +122,9 @@
 
 - 49) Zákon č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok v znení neskorších predpisov.
 
-- 49a) Článok 11 nariadenia Rady (EHS) č. 1612/68 z 15. októbra 1968 o slobodnom pohybe pracovníkov v rámci Spoločenstva (Ú. v. ES L 257, 19.10.1968) v znení nariadenia (EHS) č. 312/76 z 9. februára 1976 (Ú. v. ES L 39, 14.2.1976) v znení nariadenia (EHS) č. 2434/92 z 27. júla 1992 (Ú. v. ES L 245, 26.8.1992).
+- 49a) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
-- 49b) Napríklad zákon č. 477/2002 Z. z. v znení neskorších predpisov, zákon č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
+- 49b) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
 - 50) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 

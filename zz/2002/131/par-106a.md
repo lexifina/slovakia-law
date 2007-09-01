@@ -1,3 +1,3 @@
 # § 106a Uznávanie odborných kvalifikácií
 
-Diplomy, vysvedčenia, osvedčenia a ostatné doklady o vzdelaní alebo ich súbory občanov členských štátov vydané alebo uznané v členských štátoch sa na účely výkonu regulovaných povolaní v Slovenskej republike uznávajú podľa osobitného predpisu.<sup>49b</sup>)
+Na uznávanie dokladov o odbornej kvalifikácii na účely výkonu povolania sa vzťahuje osobitný predpis.<sup>34</sup>)
