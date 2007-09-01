@@ -1,8 +1,12 @@
 - 1) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 2) § 1 písm. d) zákona č. 473/2003 Z. z. o Pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov.
+- 2) § 11 ods. 5 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/2004 Z. z.
 
-- § 11 ods. 5 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/2004 Z. z.
+- § 1 písm. c) zákona č. 274/2006 Z. z. o podpore v pôdohospodárstve a rozvoji vidieka.
+
+- Nariadenie Rady (ES) č. 1083/2006 z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie (ES) č. 1260/1999 v platnom znení (Ú. v. EÚ L 210, 31. 7. 2006).
+
+- Nariadenie Rady (ES) č. 1198/2006 z 27. júla 2006 o Európskom fonde pre rybné hospodárstvo (Ú. v. EÚ L 223, 15. 8. 2006).
 
 - 3) § 19 až 21 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
@@ -26,7 +30,7 @@
 
 - 12a) § 2c zákona č. 291/2002 Z. z. v znení zákona č. 659/2005 Z. z.
 
-- 13) Zákon č. 473/2003 Z. z.
+- 13) Nariadenie Rady (ES) č. 318/2006 z 20. februára 2006 o spoločnej organizácii trhov v sektore cukru v platnom znení (Ú. v. EÚ L 58, 28. 2. 2006).
 
 - 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
@@ -54,9 +58,7 @@
 
 - 23) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
-- 24) Napríklad zákon Národnej rady Slovenskej republiky č. 254/1994 Z. z. o Štátnom fonde likvidácie jadrovoenergetických zariadení a nakladania s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi v znení neskorších predpisov, zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania.
-
-- 24a) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 24) Napríklad zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov, zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2006 Z. z.
 
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
@@ -74,11 +76,7 @@
 
 - 30) § 829 až 841 Občianskeho zákonníka.
 
-- 31) § 152 Zákonníka práce.
-
-- § 75 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
-
-- § 2 ods. 2 a 3 vyhlášky Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 198/1998 Z. z. na vykonanie niektorých ustanovení zákona o sociálnej pomoci.
+- 31) Napríklad § 152 Zákonníka práce v znení neskorších predpisov, § 75 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 32) § 92 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
@@ -105,6 +103,8 @@
 - 41) Napríklad § 26 ods. 4 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
 - 42) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 42a) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
 - 43) Napríklad zákon č. 311/2001 Z. z. Zákonník práce, zákon č. 312/2001 Z. z. v znení neskorších predpisov.
 
