@@ -44,9 +44,11 @@
 
 - 23) § 14 ods. 4 zákona č. 49/2002 Z. z.
 
-- 24) § 22 ods. 1 písm. e) zákona č. 455/1991 Zb. v znení neskorších predpisov.
+- 24) § 15 ods. 1 písm. g) a ods. 3 písm. d) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - 25) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 25a) § 16 ods. 16 a 17 zákona č. 355/2007 Z. z.
 
 - 26) Napríklad zákon č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) v znení neskorších predpisov, zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
