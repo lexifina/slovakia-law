@@ -1,1 +1,0 @@
-- 1) § 3 ods. 1 vyhlášky Ministerstva školstva Slovenskej republiky č. 614/2002 Z. z. o kreditovom systéme štúdia.
