@@ -1,3 +1,3 @@
 # § 65c
 
-Ak je daňový subjekt v omeškaní s platením dane viac ako dvanásť mesiacov odo dňa splatnosti dane, dlžná suma v úhrne za všetky dane presiahne 1 000 000 Sk a sú splnené podmienky podľa osobitného predpisu,<sup>8aa</sup>) daňový úrad a colný úrad sú povinné podať návrh na vyhlásenie konkurzu na tento daňový subjekt.
+Ak správca dane nezačal daňové exekučné konanie a daňový subjekt je v omeškaní s platením dane viac ako dvanásť mesiacov odo dňa splatnosti dane a ak táto dlžná suma v úhrne za všetky dane presiahne 1 000 000 Sk, je správca dane, ktorým je daňový úrad alebo colný úrad, povinný podať návrh na vyhlásenie konkurzu na tento daňový subjekt za podmienok ustanovených v osobitnom predpise.<sup>8aa</sup>)

@@ -30,4 +30,6 @@
 
 - l) upozornenie na uplatnenie predkupného práva,
 
-- m) vlastnoručný podpis povereného zamestnanca správcu dane, ktorým je daňový úrad alebo colný úrad, s uvedením mena, priezviska a funkcie a odtlačok úradnej pečiatky; ak ide o správcu dane, ktorým je obec, podpis starostu obce alebo ním povereného zamestnanca obce s uvedením mena, priezviska starostu obce a odtlačok úradnej pečiatky; ak sa rozhodnutie doručuje elektronickými prostriedkami, vlastnoručný podpis a odtlačok úradnej pečiatky sa nahrádzajú zaručeným elektronickým podpisom.<sup>6aa</sup>)
+- m) čas a miesto obhliadky nehnuteľnosti,
+
+- n) vlastnoručný podpis povereného zamestnanca správcu dane, ktorým je daňový úrad alebo colný úrad, s uvedením mena, priezviska a funkcie a odtlačok úradnej pečiatky; ak ide o správcu dane, ktorým je obec, podpis starostu obce alebo ním povereného zamestnanca obce s uvedením mena, priezviska starostu obce a odtlačok úradnej pečiatky; ak sa rozhodnutie doručuje elektronickými prostriedkami, vlastnoručný podpis a odtlačok úradnej pečiatky sa nahrádzajú zaručeným elektronickým podpisom.<sup>6aa</sup>)

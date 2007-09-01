@@ -12,7 +12,7 @@
 
 (5) Správca dane pokračuje podľa týchto ustanovení v dražbe až do vydraženia všetkých dražených nehnuteľností.
 
-(6) Ak sa pri dražbe neurobilo ani najnižšie podanie, správca dane oznámi, že v dražbe týchto nehnuteľností sa nepokračuje.
+(6) Ak sa pri dražbe neurobilo ani najnižšie podanie, správca dane oznámi, že v dražbe týchto nehnuteľností sa nepokračuje a o tejto skutočnosti spíše úradný záznam.
 
 (7) Pred ukončením dražby a udelením príklepu sa správca dane spýta prítomných na dražbe, či majú námietky proti udeleniu príklepu. Námietky sa zapíšu do zápisnice. Námietku môžu podať dražitelia a osoby, ktorým sa doručuje dražobná vyhláška do vlastných rúk, ak sú prítomní na dražbe. O námietkach rozhodne správca dane na mieste. Svoje rozhodnutie oznámi prítomným.
 

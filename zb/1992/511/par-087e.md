@@ -6,9 +6,9 @@
 
 - b) nehnuteľnosť a jej vyvolávaciu cenu,
 
-- c) meno, priezvisko, trvalé bydlisko, rodné číslo a číslo občianskeho preukazu fyzickej osoby,
+- c) meno, priezvisko, adresu trvalého pobytu, číslo občianskeho preukazu alebo cestovného dokladu fyzickej osoby, daňové identifikačné číslo alebo rodné číslo, ak fyzická osoba nemá povinnosť registrácie podľa tohto zákona alebo osobitného zákona,
 
-- d) obchodné meno, sídlo a identifikačné číslo organizácie, meno a priezvisko, rodné číslo a číslo občianskeho preukazu štatutárneho zástupcu alebo iného splnomocneného zástupcu právnickej osoby s priložením plnomocenstva a overeného výpisu z obchodného registra,
+- d) obchodné meno, sídlo a identifikačné číslo organizácie, daňové identifikačné číslo, meno a priezvisko, rodné číslo a číslo občianskeho preukazu štatutárneho zástupcu alebo iného splnomocneného zástupcu právnickej osoby s priložením plnomocenstva a overeného výpisu z obchodného registra,
 
 - e) výšku dražobnej zábezpeky a doklad o zaplatení,
 

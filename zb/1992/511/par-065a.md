@@ -1,19 +1,19 @@
-# § 65a Odpísanie daňovej pohľadávky v konkurznom konaní a vo vyrovnacom konaní
+# § 65a Odpísanie daňovej pohľadávky v konkurznom konaní a reštrukturalizačnom konaní
 
-(1) Správca dane odpíše daňovú pohľadávku (§ 95 ods. 1) alebo jej časť na základe právoplatného uznesenia súdu o potvrdení vyrovnania,<sup>8aa</sup>) ak podľa tohto uznesenia dlžník<sup>13ec</sup>) splnil svoje povinnosti úplne a včas.
+(1) Správca dane z vlastného podnetu odpíše daňovú pohľadávku (§ 95 ods. 1) voči dlžníkovi<sup>13ec</sup>) alebo jej časť na základe
 
-(2) Správca dane z vlastného podnetu odpíše daňovú pohľadávku voči dlžníkovi<sup>13ec</sup>) alebo jej časť na základe právoplatného uznesenia súdu o
+- a) uznesenia súdu o skončení reštrukturalizácie,
 
-- a) zrušení konkurzu po splnení rozvrhového uznesenia,
+- b) právoplatného uznesenia súdu o zrušení konkurzu po splnení konečného rozvrhu výťažku,
 
-- b) zrušení konkurzu z dôvodu, že majetok daňového dlžníka nepostačuje na úhradu výdavkov a odmeny správcu konkurznej podstaty,
+- c) právoplatného uznesenia súdu o zastavení konkurzného konania pre nedostatok majetku,
 
-- c) zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku alebo
+- d) právoplatného uznesenia súdu o zrušení konkurzu z dôvodu, že majetok dlžníka nepostačuje ani na úhradu pohľadávok proti podstate,
 
-- d) zrušení konkurzu po splnení núteného vyrovnania.
+- e) právoplatného uznesenia súdu o oddlžení dlžníka, ktorým je fyzická osoba.
 
-(3) Ak po skončení konkurzného konania zostane majetok právnickej osobe alebo fyzickej osobe zodpovednej za zaplatenie daňového nedoplatku, odpíše správca dane daňovú pohľadávku alebo jej časť podľa odseku 2 písm. a) po skončení likvidácie.
+(2) Ak po skončení konkurzu zostane majetok právnickej osobe alebo fyzickej osobe zodpovednej za zaplatenie daňového nedoplatku, odpíše správca dane daňovú pohľadávku alebo jej časť podľa odseku 1 písm. b) po skončení likvidácie; to neplatí, ak sa likvidácia podľa osobitného predpisu nevyžaduje.<sup>13eb</sup>)
 
-(4) Odpísaním daňovej pohľadávky daňový nedoplatok zaniká.
+(3) Odpísaním daňovej pohľadávky daňový nedoplatok zaniká.
 
-(5) Rozhodnutie o odpísaní daňovej pohľadávky je právoplatné dňom jeho vydania, nedoručuje sa a nemožno proti nemu podať opravný prostriedok.
+(4) Rozhodnutie o odpísaní daňovej pohľadávky je právoplatné dňom jeho vydania a nedoručuje sa.

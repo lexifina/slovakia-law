@@ -10,10 +10,10 @@
 
 - a) označenie platiteľa mzdy,
 
-- b) ustanovenie, že daňový exekučný príkaz zostáva v platnosti do úplného vyrovnania vymáhaného daňového nedoplatku a vzťahuje sa aj na budúcich platiteľov mzdy.
+- b) ustanovenie, že daňový exekučný príkaz zostáva v platnosti do úplného vyrovnania vymáhaného daňového nedoplatku a vzťahuje sa aj na budúcich platiteľov mzdy a Sociálnu poisťovňu.
 
 (4) Správca dane doručí do vlastných rúk daňový exekučný príkaz na daňovú exekúciu zrážkami zo mzdy platiteľovi mzdy a daňovému dlžníkovi. Platiteľ mzdy je povinný od doručenia daňového exekučného príkazu zrážať zo mzdy daňového dlžníka sumy na úhradu daňového nedoplatku podľa osobitného predpisu.<sup>14e</sup>) Daňovému dlžníkovi sa nesmie zraziť z mesačnej mzdy základná suma; spôsoby jej výpočtu ustanovuje osobitný predpis.<sup>14f</sup>) Platiteľ mzdy je povinný poukazovať zrážky zo mzdy na účet správcu dane uvedený v daňovom exekučnom príkaze.
 
 (5) Platiteľ mzdy je oprávnený vykonávať zrážky zo mzdy vo väčšom rozsahu, ako dovoľujú ustanovenia osobitného predpisu,<sup>14e</sup>) len v prípade, ak s tým súhlasí daňový dlžník.
 
-(6) Ak platiteľ mzdy nesplní povinnosť určenú v daňovom exekučnom príkaze, môže mu správca dane uložiť pokutu podľa § 35. Ak platiteľ mzdy nevykoná zo mzdy daňového dlžníka zrážky riadne a včas alebo ak ich vykoná v menšom rozsahu, ako sú určené, alebo ak ich nepoukáže správcovi dane po doručení daňového exekučného príkazu, alebo keď sa stali splatnými ďalšie mesačné sumy mzdy, môže správca dane podľa tohto zákona vymáhať od platiteľa mzdy sumy, ktoré mal zraziť a poukázať, najviac do výšky daňového nedoplatku.
+(6) Ak platiteľ mzdy nesplní povinnosť určenú v daňovom exekučnom príkaze, môže mu správca dane uložiť pokutu podľa § 35. Ak platiteľ mzdy nevykoná zo mzdy daňového dlžníka zrážky riadne a včas alebo ak ich vykoná v menšom rozsahu, ako sú určené, alebo ak ich nepoukáže správcovi dane po doručení daňového exekučného príkazu, alebo keď sa stali splatnými ďalšie mesačné sumy mzdy, môže správca dane podľa tohto zákona vymáhať od platiteľa mzdy sumy, ktoré mal zraziť a poukázať, najviac do výšky daňového nedoplatku. Správca dane rovnako postupuje aj voči Sociálnej poisťovni, ak táto nesplní povinnosti podľa prvej vety a druhej vety.

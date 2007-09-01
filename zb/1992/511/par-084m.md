@@ -4,7 +4,7 @@
 
 (2) Správca dane zverejní predaj na základe ponuky oznamom najmenej 15 dní pred termínom na podanie písomných ponúk na úradnej tabuli správcu dane; oznam môže zverejniť aj v masovokomunikačných prostriedkoch.
 
-(3) Správca dane doručí do vlastných rúk oznam na predaj hnuteľnej veci na základe ponuky osobám podľa § 77 ods. 3, orgánu miestnej štátnej správy, v ktorého obvode má daňový dlžník trvalý pobyt alebo sídlo, a obci,<sup>18</sup>) na ktorej území sa dražba bude konať.
+(3) Správca dane doručí do vlastných rúk oznam na predaj hnuteľnej veci na základe ponuky osobám podľa § 77 ods. 3, obvodnému úradu, v ktorého obvode má daňový dlžník trvalý pobyt alebo sídlo, a obci,<sup>18</sup>) na ktorej území sa dražba bude konať.
 
 (4) Oznam o predaji hnuteľnej veci na základe ponuky obsahuje najmä
 
@@ -34,4 +34,4 @@
 
 (9) Dosiahnutý výťažok sa použije rovnako ako výťažok z predaja hnuteľných vecí na dražbe (§ 84k ods. 12).
 
-(10) Ak predaj hnuteľnej veci na základe ponuky nebol úspešný, správca dane vyzve daňového dlžníka, aby si prevzal nepredanú hnuteľnú vec do desiatich dní od termínu doručenia upovedomenia do vlastných rúk.
+(10) Ak predaj hnuteľnej veci na základe ponuky nebol úspešný, správca dane daňovú exekúciu predajom hnuteľných vecí zastaví a vyzve daňového dlžníka, aby si prevzal nepredanú hnuteľnú vec do desiatich dní odo dňa doručenia výzvy do vlastných rúk. Správca dane pri zastavení daňového exekučného konania postupuje podľa § 80. Ak daňový dlžník neprevezme túto hnuteľnú vec v lehote určenej vo výzve, správca dane na základe oznamu predá hnuteľnú vec za ponúknutú cenu alebo zabezpečí jej likvidáciu. Predaj uskutočnený týmto spôsobom alebo výťažok z likvidácie po odpočítaní hotových výdavkov súvisiacich s likvidáciou, má tie isté účinky ako predaj na základe ponuky. Náklady súvisiace s likvidáciou sa na účely tohto ustanovenia považujú za hotové výdavky (§ 90). Dosiahnutý výťažok sa použije rovnako ako výťažok z predaja hnuteľných vecí na dražbe (§ 84k ods. 12). Ak výťažok z likvidácie je nižší ako hotové výdavky súvisiace s likvidáciou, správca dane prenesie hotové výdavky na daňového dlžníka.
