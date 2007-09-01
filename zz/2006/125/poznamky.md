@@ -40,6 +40,14 @@
 
 - § 11 zákona č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2005 Z. z.
 
+- 18a) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 18b) § 6 ods. 1 písm. h) zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
+
+- 18c) § 149 Zákonníka práce.
+
+- 18d) § 133 ods. 3 Zákonníka práce.
+
 - 19) Napríklad § 17 Obchodného zákonníka, zákon č. 215/2004 Z. z.
 
 - 20) § 11 zákona č. 121/2004 Z. z.
