@@ -20,6 +20,8 @@
 
 - 9) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení vyhlášky Ministerstva financií Slovenskej republiky č. 59/1995 Z. z. a vyhlášky Ministerstva financií Slovenskej republiky č. 353/1996 Z. z.
 
+- 9a) § 14b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
 - 10) Zákon Národnej rady Slovenskej republiky č. 246/1993 Z. z. o zbraniach a strelive v znení zákona Národnej rady Slovenskej republiky č. 284/1995 Z. z.
 
 - 11) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
