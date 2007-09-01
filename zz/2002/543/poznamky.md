@@ -74,6 +74,8 @@
 
 - 37) § 5 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja.
 
+- 37a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
+
 - 38) Napríklad § 14 ods. 3 zákona č. 135/1961 Zb. v znení neskorších predpisov, § 126 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov, § 13 ods. 3 a 4 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z. o hospodárskej úprave lesov, § 17 ods. 1 a § 27 ods. 1 zákona č. 44/1988 Zb. v znení neskorších predpisov, § 18 ods. 3 zákona Slovenskej národnej rady č. 51/1988 Zb., § 7 ods. 4 písm. d) zákona Slovenskej národnej rady č. 330/1991 Zb., § 3 ods. 2 zákona Slovenskej národnej rady č. 307/1992 Zb. v znení zákona č. 83/2000 Z. z., § 21 ods. 4 zákona č. 313/1999 Z. z., § 14 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 141/2000 Z. z., § 13 zákona č. 503/2001 Z. z.
 
 - 39) Napríklad zákon č. 50/1976 Zb., § 29 ods. 2 zákona č. 61/1977 Zb., zákon Slovenskej národnej rady č. 100/1977 Zb., zákon č. 23/1962 Zb., zákon č. 44/1988 Zb.
