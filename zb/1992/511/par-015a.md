@@ -1,6 +1,6 @@
 # § 15a Predbežné opatrenia
 
-(1) Správca dane môže počas daňovej kontroly v rozsahu nevyhnutne potrebnom na zabezpečenie jej účelu uložiť daňovému subjektu, aby niečo vykonal, niečoho sa zdržal alebo niečo strpel.
+(1) Správca dane môže počas daňovej kontroly alebo pri miestnom zisťovaní v rozsahu nevyhnutne potrebnom na zabezpečenie ich účelu uložiť daňovému subjektu, aby niečo vykonal, niečoho sa zdržal alebo niečo strpel.
 
 (2) Správca dane predbežné opatrenie zruší, len čo pominie dôvod, pre ktorý bolo uložené; ak pominul dôvod len sčasti, predbežné opatrenie sa zruší len čiastočne. Ak správca dane po vykonaní daňovej kontroly alebo opakovanej daňovej kontroly vyrubí daň alebo jej rozdiel, predbežné opatrenie stráca účinnosť dňom úplného zaplatenia daňového nedoplatku alebo dňom jeho úplného uhradenia vykonaním kompenzácie podľa § 63 alebo dňom vzniku záložného práva (§ 71); o strate účinnosti predbežného opatrenia musí správca dane písomne upovedomiť daňový subjekt.
 

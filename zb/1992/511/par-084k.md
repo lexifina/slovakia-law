@@ -6,9 +6,9 @@
 
 - a) dátum a miesto konania dražby,
 
-- b) meno, priezvisko, adresu, rodné číslo a číslo občianskeho preukazu alebo cestovného dokladu fyzickej osoby,
+- b) meno, priezvisko, adresu trvalého pobytu, číslo občianskeho preukazu alebo cestovného dokladu fyzickej osoby, daňové identifikačné číslo alebo rodné číslo, ak fyzická osoba nemá povinnosť registrácie podľa tohto zákona alebo osobitného zákona,
 
-- c) obchodné meno, sídlo a identifikačné číslo organizácie, meno a priezvisko, rodné číslo a číslo občianskeho preukazu štatutárneho zástupcu alebo iného splnomocneného zástupcu právnickej osoby s priložením plnomocenstva a výpisu z obchodného registra alebo jeho úradne overenej kópie,
+- c) obchodné meno, sídlo a identifikačné číslo organizácie, daňové identifikačné číslo, meno a priezvisko, rodné číslo a číslo občianskeho preukazu štatutárneho zástupcu alebo iného splnomocneného zástupcu právnickej osoby s priložením plnomocenstva a výpisu z obchodného registra alebo jeho úradne overenej kópie,
 
 - d) poznámku o uplatnení predkupného práva, ak sa preukázalo právoplatným dokladom,
 
@@ -30,8 +30,8 @@
 
 (9) Správca dane vydá vydražiteľovi potvrdenie o udelení príklepu.
 
-(10) Ak sa pri dražbe neurobilo ani najnižšie podanie na draženú hnuteľnú vec, správca dane vykoná opätovnú dražbu (§ 84l) a po neúspešnej opätovnej dražbe predá hnuteľnú vec predajom na základe ponuky (§ 84m).
+(10) Ak sa pri dražbe neurobilo ani najnižšie podanie na draženú hnuteľnú vec, správca dane spíše úradný záznam, vykoná opätovnú dražbu (§ 84l) a po neúspešnej opätovnej dražbe predá hnuteľnú vec predajom na základe ponuky (§ 84m).
 
 (11) O priebehu dražby spíše správca dane zápisnicu, v ktorej uvedie najmä údaje zo zoznamu dražiteľov, cenu vydraženej hnuteľnej veci a udelenie príklepu vydražiteľovi; ak na dražbe boli vznesené námietky, aj ich riešenie.
 
-(12) Výťažkom sú peňažné prostriedky získané v dražbe. Ak dosiahnutý výťažok z dražby prevyšuje vymáhaný daňový nedoplatok a exekučné náklady, správca dane s ním naloží ako s preplatkom (§ 93).
+(12) Výťažkom sú peňažné prostriedky získané v dražbe. Ak dosiahnutý výťažok z dražby prevyšuje vymáhaný daňový nedoplatok a exekučné náklady, správca dane uplatní postup podľa § 93.

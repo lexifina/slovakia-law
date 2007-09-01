@@ -1,8 +1,8 @@
 # § 87a
 
-(1) Znaleckým posudkom sa zistí cena nehnuteľnosti; pritom sa jednotlivo odhadnú závady, ktoré musí vydražiteľ prevziať bez započítania na najvyššie podanie.
+(1) Cena nehnuteľnosti sa určí znaleckým posudkom. Znalecký posudok musí obsahovať všeobecnú hodnotu nehnuteľnosti a odhad závad, ktoré musí vydražiteľ prevziať bez započítania na najvyššie podanie.
 
-(2) Práva spojené s nehnuteľnosťou sa odhadnú tak, že sa zistí výhoda, ktorú tieto práva prinášajú osobe, ktorá má tieto práva v období jedného roka, a hodnota tejto výhody sa násobí pri právach časovo neobmedzených dvadsiatimi, pri právach časovo obmedzených počtom rokov, počas ktorých má právo ešte trvať, najviac však dvadsiatimi.
+(2) Na účely tohto zákona sa za všeobecnú hodnotu nehnuteľnosti považuje všeobecná hodnota nehnuteľnosti stanovená podľa osobitného predpisu<sup>18b</sup>) bez zohľadnenia závad, ktoré musí vydražiteľ prevziať bez započítania na najvyššie podanie. Ak je vydražiteľom fyzická osoba alebo právnická osoba, kvôli ktorej na nehnuteľnosti viaznu závady, neuplatňuje sa zníženie ceny nehnuteľnosti o hodnotu týchto závad.
 
 (3) Závady viaznuce na nehnuteľnosti sa odhadnú podľa hospodárskej ujmy, ktorá vyplýva zo závady pre zaťaženého. Pri závadách neobmedzeného trvania sa vezme za základ výpočtu obdobie 20 rokov, pri závadách presne obmedzeného trvania toto obdobie, najdlhšie však 20 rokov. Závady vyplývajúce z nárokov na opakujúce sa plnenia a dávky sa odhadnú tak, že sa vypočíta suma, ktorá by stačila na to, aby sa z nej a z úrokov tejto sumy poukazovali plnenia a dávky alebo ich peňažná hodnota.
 

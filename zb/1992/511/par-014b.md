@@ -1,3 +1,3 @@
-# § 14b Povinnosti prevádzkovateľov trhovísk a trhových miest
+# § 14b
 
-Prevádzkovatelia trhovísk a trhových miest sú povinní zabezpečiť, aby na uvedených miestach predávali len osoby, ktoré majú oprávnenie na podnikanie<sup>9</sup>) alebo inú zárobkovú činnosť<sup>10</sup>) a vedia preukázať spôsob nadobudnutia tovaru a veci alebo ich pôvod. Toto ustanovenie sa nevzťahuje na predaj na trhových miestach pre osoby, ktoré predávajú vlastný použitý tovar a veci a vlastné poľnohospodárske produkty.
+Obec alebo iná právnická osoba alebo fyzická osoba, ktorá vykonáva správu trhového miesta,<sup>9a</sup>) je povinná bezodkladne písomne informovať správcu dane, ktorým je daňový úrad príslušný podľa trhového miesta, o predávajúcom, ktorý nepoužíva elektronickú registračnú pokladnicu.<sup>4aa</sup>) V informácii sa uvedie meno, priezvisko, adresa trvalého pobytu fyzickej osoby alebo obchodné meno, sídlo právnickej osoby, identifikačné číslo organizácie a daňové identifikačné číslo alebo rodné číslo, ak fyzická osoba nemá povinnosť registrácie podľa tohto zákona alebo osobitného zákona.

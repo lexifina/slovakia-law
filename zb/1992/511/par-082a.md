@@ -8,4 +8,18 @@
 
 (3) Daňovej exekúcii podliehajú všetky príjmy, ktoré daňový dlžník získa namiesto mzdy, ako aj iné príjmy uvedené v § 82h ods. 1, ak nie sú týmto zákonom alebo osobitným predpisom z daňovej exekúcie vylúčené.
 
-(4) Ak ide o daňovú exekúciu zrážkami zo mzdy alebo z iných príjmov daňového dlžníka, ktorý zo mzdy alebo z iných príjmov platí úhradu za poskytnutú sociálnu pomoc, nepodlieha daňovej exekúcii suma potrebná na úhradu za poskytnutú sociálnu pomoc alebo jej časť, ktorú je daňový dlžník povinný platiť. V prípade platenia úhrady za starostlivosť v zariadení sociálnych služieb nepodlieha daňovej exekúcií ani suma povinného zostatku po zaplatení úhrady za starostlivosť v zariadení sociálnych služieb podľa osobitného predpisu.<sup>14d</sup>)
+(4) Daňovej exekúcii nepodlieha
+
+- a) suma potrebná na úhradu za poskytnutú sociálnu pomoc alebo jej časť, ak daňový dlžník platí úhradu za poskytnutú sociálnu pomoc alebo jej časť,
+
+- b) suma povinného zostatku po zaplatení úhrady za starostlivosť v zariadení sociálnych služieb podľa osobitného predpisu,<sup>14d</sup>) ak daňový dlžník platí úhradu za starostlivosť v zariadení sociálnych služieb,
+
+- c) dávka v hmotnej núdzi, príspevky k tejto dávke a jednorazová dávka v hmotnej núdzi poskytované podľa osobitného predpisu,<sup>14da</sup>)
+
+- d) dávka sociálnej pomoci alebo peňažný príspevok na kompenzáciu sociálnych dôsledkov ťažkého zdravotného postihnutia a peňažný príspevok za opatrovanie poskytovaný podľa osobitného predpisu,<sup>14db</sup>)
+
+- e) štátna sociálna dávka,<sup>14dc</sup>)
+
+- f) príspevok na podporu náhradnej starostlivosti o dieťa,<sup>14dd</sup>)
+
+- g) opatrenie sociálnoprávnej ochrany detí a sociálnej kurately finančného charakteru.<sup>14de</sup>)

@@ -20,7 +20,7 @@
 
 - g) podpisy osôb prítomných pri súpise.
 
-(4) Správca dane na účely spísania hnuteľných vecí daňového dlžníka urobí prehliadku sídla a miesta podnikania, obydlia, ak ho používa aj na podnikanie, iných priestorov a iných objektov za účasti nestrannej osoby, a to i bez prítomnosti daňového dlžníka. Na tento účel je daňový dlžník povinný umožniť správcovi dane a nestrannej osobe prístup do sídla a miesta podnikania, obydlia, iných priestorov a iných objektov. Na tieto úkony má správca dane oprávnenie z úradnej moci prizvať Policajný zbor.<sup>16e</sup>)
+(4) Správca dane na účely spísania hnuteľných vecí daňového dlžníka urobí prehliadku sídla a miesta podnikania, obydlia, iných priestorov a iných objektov za účasti nestrannej osoby, a to i bez prítomnosti daňového dlžníka. Na tento účel je daňový dlžník povinný umožniť správcovi dane a nestrannej osobe prístup do sídla a miesta podnikania, obydlia, iných priestorov a iných objektov. Na tieto úkony má správca dane oprávnenie z úradnej moci prizvať Policajný zbor.<sup>16e</sup>)
 
 (5) Správca dane vykoná osobnú prehliadku daňového dlžníka a ďalšej prítomnej osoby, ak je podozrenie, že daňový dlžník si uschoval hnuteľné veci u nej. Pri osobnej prehliadke správca dane postupuje šetrne a vykoná ju vždy osoba rovnakého pohlavia alebo lekár.
 
