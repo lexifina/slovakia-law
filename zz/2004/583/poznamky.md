@@ -52,7 +52,7 @@
 
 - 23) § 5 ods. 1 písm. f) zákona č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
 
-- 23a) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 23a) § 66 a 97 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 24) § 829 až 841 Občianskeho zákonníka v znení neskorších predpisov.
 

@@ -2,7 +2,7 @@
 
 (1) Obec, vyšší územný celok a nimi zriadené a založené právnické osoby sú povinní pri uskutočňovaní postupov podľa osobitného predpisu<sup>23a</sup>) dodržiavať pravidlá uvedené v odsekoch 2 až 8.
 
-(2) Obec, vyšší územný celok a nimi zriadené a založené právnické osoby oznamujú ministerstvu financií začatie verejného obstarávania zákazky podľa osobitného predpisu<sup>23a</sup>) a predkladajú ministerstvu financií návrh zmluvy podľa osobitného predpisu<sup>23a</sup>) pred jej uzavretím.
+(2) Obec, vyšší územný celok a nimi zriadené a založené právnické osoby oznamujú ministerstvu financií začatie zadávania koncesie na stavebné práce podľa osobitného predpisu<sup>23a</sup>) a predkladajú ministerstvu financií návrh koncesnej zmluvy na stavebné práce pred jej uzavretím.
 
 (3) Vyšší územný celok a ním zriadené a založené právnické osoby postupujú podľa odseku 2, ak hodnota plnenia zo zmluvy podľa odseku 2 za stavebné práce, ktoré sa majú uskutočniť, prevyšuje sumu 100 000 000 Sk.
 
