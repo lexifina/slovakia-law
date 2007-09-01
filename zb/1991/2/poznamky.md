@@ -1,6 +1,4 @@
-- 1) § 20 Zákonníka práce.
-
-- 2) § 2 zákona č. 120/1990 Zb., ktorým sa upravujú niektoré vzťahy medzi odborovými organizáciami a zamestnávateľmi.
+- 1) § 231 Zákonníka práce.
 
 - 2a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
@@ -12,11 +10,15 @@
 
 - 4a) Položka 2 písm. a) zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
 
+- 4aa) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
+
+- 4ab) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
 - 4b) Zákon č. 311/1999 Z. z. o registri trestov.
 
-- 4c) § 2 zákona č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
+- 4c) § 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
 
-- 5) § 274 písm. h) Občianskeho súdneho poriadku.
+- 5) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 5a) Čl. 3 Dohovoru Medzinárodnej organizácie práce o slobode združovania a ochrane práva organizovať sa č. 87 z roku 1948 (oznámenie Federálneho ministerstva zahraničných vecí č. 489/1990 Zb. a bod 28 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z. o potvrdení sukcesie Slovenskej republiky do záväzkov z príslušných mnohostranných zmluvných dokumentov Medzinárodnej organizácie práce, ktorých depozitárom je generálny riaditeľ Medzinárodného úradu práce).
 
@@ -30,15 +32,13 @@
 
 - Čl. 2 Dohovoru Medzinárodnej organizácie práce o použití zásad práva organizovať sa a kolektívne vyjednávať č. 98 z roku 1949 (oznámenie Federálneho ministerstva zahraničných vecí č. 470/1990 Zb. a bod 33 oznámenia Ministerstva zahraničných vecí Slovenskej republiky č. 110/1997 Z. z.).
 
-- 6) § 46 až 48 zákona č. 92/1949 Zb. branný zákon (úplné znenie č. 309/1990 Zb.).
+- 6) Čl. 2 až 5 Ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
 
-- 7) Napr. vyhláška Českého banského úradu č. 67/1988 Zb. o banskej záchrannej službe a vyhláška Slovenského úradu č. 69/1988 Zb. o banskej záchrannej službe.
-
-- 8) § 36, § 37 ods. 4 písm. a), § 115 a § 130 ods. 1 Zákonníka práce.Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
+- 8) § 54 a § 142 Zákonníka práce.
 
 - 9) § 420 a nasl. Občianskeho zákonníka.
 
-- 10) § 170 a nasl. Zákonníka práce.
+- 10) § 177 až 219 Zákonníka práce.
 
 - 11) § 373 a nasledujúce Obchodného zákonníka. § 420 a nasledujúce Občianskeho zákonníka.
 
@@ -52,4 +52,4 @@
 
 - 15) § 139 vyhlášky č. 149/1988 Zb.
 
-- 16) § 130 ods. 1 Zákonníka práce.
+- 16) § 142 Zákonníka práce.
