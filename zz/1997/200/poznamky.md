@@ -8,6 +8,10 @@
 
 - 4a) § 6 ods. 2 písm. a) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
+- 4b) § 69 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
+
+- 4c) § 4 ods. 5 písm. a) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
+
 - 5) § 4 písm. a) zákona č. 119/1992 Zb. o cestovných náhradách.
 
 - 6) § 31 ods. 1 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
