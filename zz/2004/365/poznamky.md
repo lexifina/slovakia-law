@@ -1,14 +1,16 @@
-- 1) Napríklad ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu, zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení zákona č. 515/2003 Z. z., zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení zákona č. 166/2003 Z. z.
-
 - 2) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 606/2003 Z. z.
 
 - 3) Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
-- Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+- Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
 
 - Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+
+- 3a) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
 - 4) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
