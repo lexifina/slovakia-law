@@ -1,32 +1,34 @@
-- 1) § 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
+- 1) § 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 1a) § 10 ods. 10 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 1a) § 8 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 2) § 32 ods. 3 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 3) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
+- 3) Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) § 18 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 4) § 18 ods. 2 písm. b) a c), ods. 3 písm. a) až c) a ods. 4 písm. a) zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 5) § 43b ods. 1 písm. a) a b) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 6) § 14 ods. 2 písm. a) a § 15 zákona č. 195/1998 Z. z.
 
-- 7) Napríklad vyhláška Ministerstva životného prostredia Slovenskej republiky č. 532/2002 Z. z., ktorou sa ustanovujú podrobnosti o všeobecných technických požiadavkách na výstavbu a o všeobecných technických požiadavkách na stavby užívané osobami s obmedzenou schopnosťou pohybu a orientácie, zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 6a) § 48 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7) Napríklad zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov, zákon č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 17/2007 Z. z.
 
 - 8) § 3 zákona č. 90/1998 Z. z. o stavebných výrobkoch.
 
 - 9) § 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
 
-- 10) Napríklad zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z., zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z. a zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
+- 10) § 5 ods. 1 písm. b) bod 1 a 3 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
 - 11) § 1 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami.
 
-- 12) § 46 ods. 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+- 12) § 30 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 13) § 44 ods. 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+- 13) § 3a ods. 1 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
-- 14) Zákon č. 413/2002 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
+- 14) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov. zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
 - 14a) § 2 ods. 2 písm. i) zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
@@ -38,19 +40,15 @@
 
 - 18) STN 73 4301 Budovy na bývanie.
 
-- 19) § 3 zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
+- 19) § 3 zákona č. 601/2003 Z. z. o životnom minime a zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 20) § 2 zákona č. 125/1998 Z. z. v znení opatrenia Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 285/2002 Z. z.
+- 20) § 2 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
-- 21) § 4 zákona č. 125/1998 Z. z.
-
-- 22) Napríklad zákon č. 595/2003 Zb. o dani z príjmov, zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení, zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
-
-- 23) § 4 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z. a zákona č. 12/1998 Z. z.
+- 21) § 4 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
 - 24) § 2 zákona č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 25) Príloha č. 1, číslo skupiny 2103 vyhlášky Ministerstva výstavby a regionálneho rozvoja Slovenskej republiky č. 520/2001 Z. z., ktorou sa určujú skupiny stavebných výrobkov a podrobnosti o preukazovaní zhody.
+- 25) § 7 a 7a zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
 
 - 26) Zákon č. 70/1998 Z. z.
 
@@ -66,7 +64,7 @@
 
 - 32) Zákon č. 608/2003 Z. z. o štátnej správe pre územné plánovanie, stavebný poriadok a bývanie a o zmene a doplnení zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 33) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
+- 33) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 34) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
